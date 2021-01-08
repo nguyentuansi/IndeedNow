@@ -67,3 +67,26 @@ DUBLIN--(BUSINESS WIRE)--The "Technology Landscape, Trends and Opportunities in 
 http://www.businesswire.com/news/home/20210108005475/en/Global-Smart-Meter-Market-Technology-Landscape-Trends-and-Opportunities-Report-2021---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==
 ---------------------
 ******************************************
+2021-01-08 18:07:12 INFO     File updated!
+******************************************
+Apple Pay could be coming to at least two South African banks
+Source: Pexels Two banks in South Africa might be getting Apple Pay support sooner rather than later. Apple Pay isn't currently available in South Africa, but that might be about to change after a number of people started to spot new terms and conditions relating to both the Nedbank and Discovery Bank. As Macrumors reports, it seems that some users have noticed that they can change their location to the United States to trigger an updated terms and conditions page, complete with reference to South African banks for the first time.
+https://www.imore.com/apple-pay-could-be-coming-least-two-south-african-banks
+---------------------
+An open beta for League of Legends: Wild Rift is coming in March
+Source: Riot Games (screenshot) League of Legends: Wild Rift is a new version of the iconic PC game being developed for mobile devices and consoles. Riot Games is planning to release the open beta in the Americas starting in March. New Champions like Katarina are also being added this year. Back in 2019, Riot Games announced League of Legends: Wild Rift, a version of League of Legends being built for mobile devices and consoles. Changes are also being made in how the different champions play in order to make sure it's balanced for non-PC devices.
+https://www.windowscentral.com/league-legends-wild-rift-north-america-march
+---------------------
+Laptop Was Stolen from Pelosi's Office
+A spokesperson for Nancy Pelosi confirmed that a laptop was stolen from the speaker's office, amid the violent siege of the Capitol on Wednesday.
+https://politicalwire.com/2021/01/08/laptop-was-stolen-from-pelosis-office/
+---------------------
+Your Favorite Quibi Shows Are Coming To The Roku Channel
+Quibi famously launched and died last year. After spending over a billion on its first year of content, it went belly up. But Quibi has surprisingly found a buyer for its content, and that is Roku.Roku has acquired the entire Quibi library of content. Which will all appear on the free Roku Channel at some point in 2021. Neither company announced when that would happen, other than at some pint this year. Roku also did not disclose how much it paid for the content. But according to The Wall Street Journal, Roku paid "significantly less" than $100 million for these shows.
+https://www.androidheadlines.com/2021/01/roku-buys-quibi-shows
+---------------------
+Global Smart Meter Market Technology Landscape, Trends and Opportunities Report 2021 - ResearchAndMarkets.com
+DUBLIN--(BUSINESS WIRE)--The "Technology Landscape, Trends and Opportunities in the Global Smart Meter Market" report has been added to ResearchAndMarkets.com's offering. The technologies in smart meter market have undergone significant change in recent years, evolving from manually meter reading to remote and automated meter reading. The rising wave of new technologies such as, cellular and RFID are creating significant potential for smart meters in applications, such as gas utilities and water utilities, and driving the demand for smart meter technologies.
+http://www.businesswire.com/news/home/20210108005475/en/Global-Smart-Meter-Market-Technology-Landscape-Trends-and-Opportunities-Report-2021---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==
+---------------------
+******************************************
