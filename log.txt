@@ -389,3 +389,26 @@ US numbers continue to worsen, vaccine efforts accelerate worldwide, and researc
 https://www.wired.com/story/variant-spreads-vaccine-accelerates-coronavirus-news
 ---------------------
 ******************************************
+2021-01-08 19:47:23 INFO     File updated!
+******************************************
+What is up with Tesla's value?
+The last year taught us that the connection between the stock market and the economy is imprecise at best. Despite some useful commentary underscoring the two are at least somewhat linked, it's clear that many Americans can lose their jobs and financial security at the same time that stocks can keep on rising like the boom times will never end. It seems that today's market is willing to value stocks not on their past performance, current performance or analyst-expected future performance but on the rosiest future that investors have imagined for their favorite companies.
+https://techcrunch.com/2021/01/08/what-is-up-with-teslas-value/
+---------------------
+Enhance your iPhone's VoiceOver capabilities with Screen Recognition
+Source: Prakhar Khanna/iMore Apple is one of those brands that build features for users with disabilities. VoiceOver is a prime example of its efforts to make the iPhone easy to use for the visually impaired. The Cupertino giant is going beyond manual labour with its new screen recognition feature on iPhone. With screen recognition, anyone can have their iPhone's screen read to them, even if the apps are not optimized for VoiceOver. Here's how to activate and use it. Screen Recognition enhances the already-existing VoiceOver feature.
+https://www.imore.com/how-use-screen-recognition-your-iphone
+---------------------
+Kirby Fighters 2 "Copy Compendium #5" promo video
+There are a ton of copy abilities at your disposal in Kirby Fighters 2, and Nintendo has broken down another 5 that are available. Check out the video above to see the latest round of moves to add to your repertoire.
+https://gonintendo.com/stories/375099-kirby-fighters-2-copy-compendium-5-promo-video
+---------------------
+Limited Run Games reveals physical version of Shiren the Wanderer: The Tower of Fortune and the Dice of Fate
+Limited Run Games always has some fun stuff in the works, and they've revealed yet another Switch title they're giving the physical treatment. Shiren the Wanderer: The Tower of Fortune and the Dice of Fate is getting two physical options, with pre-orders opening Jan. 12th, 2021. There's a standard release, and a Collector's Edition with an art book, Mamel stress ball, art prints, and Miracle Dice.
+https://gonintendo.com/stories/375098-limited-run-games-reveals-physical-version-of-shiren-the-wanderer
+---------------------
+We Don't Sell Ads (2012)
+Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. – Tyler Durden, Fight Club Brian and I spent a combined 20 years at Yahoo!, working hard to keep the site working. And yes, working hard to sell ads, because that's what Yahoo! did. It gathered data and it served pages and it sold ads. We watched Yahoo! get eclipsed in size and reach by Google... a more efficient and more profitable ad seller. They knew what you were searching for, so they could gather your data more efficiently and sell better ads.
+https://blog.whatsapp.com/why-we-don-t-sell-ads
+---------------------
+******************************************
