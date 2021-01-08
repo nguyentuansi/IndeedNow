@@ -228,3 +228,26 @@ We last polled our network of investors on the topic of gaming infrastructure st
 https://techcrunch.com/2021/01/08/vcs-discuss-gamings-biggest-infrastructure-investment-opportunities-in-2021/
 ---------------------
 ******************************************
+2021-01-08 19:07:44 INFO     File updated!
+******************************************
+Shoot better-looking vlogs with a smartphone gimbal
+Best Smartphone Gimbals Android Central 2021 The best Android video cameras come equipped with all sorts of amazing manual video controls, so why not pair those cameras with an equally excellent gimbal that'll ensure ultra-smooth, cinematic video? With the wide availability of portable, easy-to-use, and best of all, affordable gimbals for your phone, there's no excuse to shoot shaky cam footage — unless you're just a huge fan of The Blair Witch Project or Cloverfield. The DJI OM4 is the best smartphone gimbal you can buy, but there are plenty of other options to up the quality of your next vlog.
+https://www.androidcentral.com/best-smartphone-gimbals
+---------------------
+I spent 2 months with PS5 — here's what I love and hate so far
+(CNN) —   The past few months have been largely the same as ever during our new normal — I'm still living most of my social life on Discord, getting a record amount of dog-walking in and, of course, spending a lot of time on my couch playing video games. Except now I'm doing it with a powerful, giant new console that looks a lot like the Barclays Center sitting under my TV. I've been lucky enough to have Sony's new PlayStation 5 in my home for about two months now, and it's largely been a delight to use.
+https://www.cnn.com/2021/01/08/cnn-underscored/ps5-features/index.html
+---------------------
+Tech Tent: Did social media inspire Congress riot?
+Rory Cellan-Jones Technology correspondent @BBCRoryCJ on Twitter It was the most violent assault on the US Capitol since the British Army set it ablaze in the war of 1814. This week's Tech Tent asks what role social media played in preparing the ground for the riots which saw Donald Trump's supporters storm Congress. Listen to the latest Tech Tent podcast on BBC Sounds Listen live every Friday at 15.00 GMT on the BBC World Service The BBC's disinformation specialist, Marianna Spring, told the programme that the roots of the anger on display amongst Trump supporters can be traced back to before the presidential election.
+https://www.bbc.com/news/technology-55592752
+---------------------
+Roku snaps up Quibi's collection of short shows
+By Chris Fox Technology reporter Entertainment platform Roku has acquired the rights to more than 75 programmes and short films created for the failed streaming service Quibi. Quibi broadcast short programmes less than 10 minutes long, but collapsed just six months after its launch. Roku, which is known for its internet-connected set-top boxes and dongles, will show the programmes on its own streaming service free of charge. Quibi co-founder Jeffrey Katzenberg said he was "thrilled" by the deal. Roku has not announced how much it paid for Quibi Holdings.
+https://www.bbc.com/news/technology-55593674
+---------------------
+How to Find Archived Emails in Gmail
+If you're looking to clean up your Gmail inbox but don't want to delete anything permanently, then choosing the archive option is your best bet. Whenever you archive an email, it is removed from your inbox folder but remains accessible. Here's how to access any emails you have archived previously, as well as how to move such messages back to your regular inbox for fast access. Related Articles Finding archived emails via the web If you access Gmail via the web browser, it is a straightforward process to recall any emails you may have archived.
+https://www.digitaltrends.com/computing/how-to-find-archived-emails-gmail/
+---------------------
+******************************************
