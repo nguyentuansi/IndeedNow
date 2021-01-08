@@ -2,4 +2,7 @@
 
 git add . 
 git commit -m "Updated Repository data"
-git push origin master
+date > log.txt
+git add .
+git commit -m  "`date`"
+git push -u origin master
