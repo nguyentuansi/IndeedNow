@@ -665,3 +665,26 @@ Techspert Services has partnered with the leading API platform provider, Bandwid
 https://www.benzinga.com/pressreleases/21/01/ab19085772/techspert-services-partners-with-bandwidth-offering-better-quality-better-rates-and-optimal-contr
 ---------------------
 ******************************************
+2021-01-08 23:11:32 INFO     File updated!
+******************************************
+Tech related name DA 30+
+Dear All, My client needs tech related name with below credentials. Please stick with them especially for Backlinks and DA/PA Budget is 200$ to 600$ DA/PA 30+ Spam score 0 Short domain name Quality Backlinks (Please submit your domain with backlink report) Organic Keywords tlds: .com .net .io .org Wayback Machine Clear History(I will check domain History) history can be related to subject or Technology Please submit DA Score with your domain name!...
+https://www.namepros.com/threads/tech-related-name-da-30.1223463/
+---------------------
+linking webistes
+I was creating a code that would redirect the user to the website he entered . the problem is that when something undeclared such as apple.com is entered it still directs you to youtube.com. can anybody explain why? y = str(input("enter the webiste name : ")) x = y.lower() if x == "youtube" or "you" or "tube" or "yu": import webbrowser webbrowser.open('https://www.youtube.com/') elif x == "amazon" or "ama" or "amz": import webbrowser webbrowser.open('https://www.amazon.com/') else: print("sorry i am still learning .
+https://www.reddit.com/r/Python/comments/kte4lb/linking_webistes/
+---------------------
+Top 9 Best Resume Builder Android Apps – 2021
+Finding a job in these challenging times is not easy. We've published our list of job finding applications that you may find useful, but in order to use most of them, you'll need a good resume. That's where today's list comes in, as the apps listed below will help you build a perfect resume for your job application. There are various different apps included here, and each of them shines in a specific area. Some of the apps lean towards more graphical resumes, while others are oriented towards your regular resumes.
+https://www.androidheadlines.com/best-resume-builder-android-apps
+---------------------
+Optimized Decoding of Google's varint format in Golang
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+https://www.reddit.com/r/programming/comments/ktdzn0/optimized_decoding_of_googles_varint_format_in/
+---------------------
+It's A Colorful World, & Your PS5 Controller Can Be A Part Of It
+The DualSense controller for the PS5 is an excellent work of art that the engineers at Sony have bestowed upon gamers, but its lack of colorful options can make it look and feel somewhat bland at times. Not to mention dirty (that white really picks up on dirt and oils very easily).But your controller can still be a part of this colorful world that we live in even if Sony isn't providing you with the options. ColorWare, a company that specializes in giving all sorts of technology their own customized paint jobs, will sell you a colorful PS5 controller that is as colorful as you may have been hoping.
+https://www.androidheadlines.com/2021/01/colorful-sony-ps5-dualsense-controller-customizations-unique-console-gaming.html
+---------------------
+******************************************
