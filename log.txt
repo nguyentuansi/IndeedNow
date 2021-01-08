@@ -274,3 +274,26 @@ Rory Cellan-Jones Technology correspondent @BBCRoryCJ on Twitter It was the most
 https://www.bbc.com/news/technology-55592752
 ---------------------
 ******************************************
+2021-01-08 19:12:51 INFO     File updated!
+******************************************
+Chinese-Owned TikTok to Ban Videos of President Trump Based on 'Misinformation' Policy
+The Chinese-owned video-sharing app TikTok has announced that it will be removing videos by President Trump it judges to 'incite' protestors following recent events at Capitol Hill. The Chinese company reportedly believes Trump violates its 'misinformation' policy. TechCrunch  reports that the Chinese-owned video-sharing app TikTok plans to remove certain content uploaded by President Donald Trump that it believes could incite riots or protests, including a video posted to the President's Twitter account which resulted in him being suspended from the platform temporarily.
+https://www.breitbart.com/tech/2021/01/08/chinese-owned-tiktok-to-ban-videos-of-president-trump-based-on-misinformation-policy/
+---------------------
+Cruise taps former Delta executive for COO post as it creeps towards commercialization
+Cruise, the autonomous vehicle technology subsidiary of GM, said Friday it has hired Delta Air Lines' former chief operating officer Gil West as it makes the transition towards early commercialization. West, who had retired from Delta last year, will become Cruise's first chief operating officer. The announcement comes more than month after Cruise launched tests on public roads using autonomous vehicles without a human safety operator behind the wheel. The testing is still being conducted in a limited geographic area in San Francisco and in one of the city's less congested neighborhoods, but it is was still viewed as a milestone for the company and a necessary step to secure a permit to launch a shared, commercial service that can charge for rides.
+https://techcrunch.com/2021/01/08/cruise-taps-former-delta-executive-for-coo-post-as-it-creeps-towards-commercialization/
+---------------------
+Shoot better-looking vlogs with a smartphone gimbal
+Best Smartphone Gimbals Android Central 2021 The best Android video cameras come equipped with all sorts of amazing manual video controls, so why not pair those cameras with an equally excellent gimbal that'll ensure ultra-smooth, cinematic video? With the wide availability of portable, easy-to-use, and best of all, affordable gimbals for your phone, there's no excuse to shoot shaky cam footage — unless you're just a huge fan of The Blair Witch Project or Cloverfield. The DJI OM4 is the best smartphone gimbal you can buy, but there are plenty of other options to up the quality of your next vlog.
+https://www.androidcentral.com/best-smartphone-gimbals
+---------------------
+I spent 2 months with PS5 — here's what I love and hate so far
+(CNN) —   The past few months have been largely the same as ever during our new normal — I'm still living most of my social life on Discord, getting a record amount of dog-walking in and, of course, spending a lot of time on my couch playing video games. Except now I'm doing it with a powerful, giant new console that looks a lot like the Barclays Center sitting under my TV. I've been lucky enough to have Sony's new PlayStation 5 in my home for about two months now, and it's largely been a delight to use.
+https://www.cnn.com/2021/01/08/cnn-underscored/ps5-features/index.html
+---------------------
+Tech Tent: Did social media inspire Congress riot?
+Rory Cellan-Jones Technology correspondent @BBCRoryCJ on Twitter It was the most violent assault on the US Capitol since the British Army set it ablaze in the war of 1814. This week's Tech Tent asks what role social media played in preparing the ground for the riots which saw Donald Trump's supporters storm Congress. Listen to the latest Tech Tent podcast on BBC Sounds Listen live every Friday at 15.00 GMT on the BBC World Service The BBC's disinformation specialist, Marianna Spring, told the programme that the roots of the anger on display amongst Trump supporters can be traced back to before the presidential election.
+https://www.bbc.com/news/technology-55592752
+---------------------
+******************************************
