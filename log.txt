@@ -297,3 +297,26 @@ Rory Cellan-Jones Technology correspondent @BBCRoryCJ on Twitter It was the most
 https://www.bbc.com/news/technology-55592752
 ---------------------
 ******************************************
+2021-01-08 19:19:08 INFO     File updated!
+******************************************
+Avaya Holdings Corp. (AVYA) Wall St. Analysts Rating
+
+https://seekingalpha.com/symbol/AVYA/ratings/sell-side-ratings
+---------------------
+Avaya Holdings Corp. (AVYA) Quant Ratings
+No ratings were found on which match these criteria.
+https://seekingalpha.com/symbol/AVYA/ratings/quant-ratings
+---------------------
+A Virus Variant Spreads, Vaccine Efforts Accelerate, and More
+US numbers continue to worsen, vaccine efforts accelerate worldwide, and researchers examine a new virus variant. Here's what you should know: Want to receive this weekly roundup and other coronavirus news? Sign up here! Headlines The pandemic is likely to get worse in the US even as vaccinations continue The US's daily coronavirus death toll has reached a record high on five of the last ten days, and topped 4,000 on Thursday as cases continue to rise almost everywhere. Arizona leads the country in hospitalizations and cases, and Atlanta recently reopened its field hospital to keep up with record numbers of patients.
+https://www.wired.com/story/variant-spreads-vaccine-accelerates-coronavirus-news
+---------------------
+Chinese-Owned TikTok to Ban Videos of President Trump Based on 'Misinformation' Policy
+The Chinese-owned video-sharing app TikTok has announced that it will be removing videos by President Trump it judges to 'incite' protestors following recent events at Capitol Hill. The Chinese company reportedly believes Trump violates its 'misinformation' policy. TechCrunch  reports that the Chinese-owned video-sharing app TikTok plans to remove certain content uploaded by President Donald Trump that it believes could incite riots or protests, including a video posted to the President's Twitter account which resulted in him being suspended from the platform temporarily.
+https://www.breitbart.com/tech/2021/01/08/chinese-owned-tiktok-to-ban-videos-of-president-trump-based-on-misinformation-policy/
+---------------------
+Cruise taps former Delta executive for COO post as it creeps towards commercialization
+Cruise, the autonomous vehicle technology subsidiary of GM, said Friday it has hired Delta Air Lines' former chief operating officer Gil West as it makes the transition towards early commercialization. West, who had retired from Delta last year, will become Cruise's first chief operating officer. The announcement comes more than month after Cruise launched tests on public roads using autonomous vehicles without a human safety operator behind the wheel. The testing is still being conducted in a limited geographic area in San Francisco and in one of the city's less congested neighborhoods, but it is was still viewed as a milestone for the company and a necessary step to secure a permit to launch a shared, commercial service that can charge for rides.
+https://techcrunch.com/2021/01/08/cruise-taps-former-delta-executive-for-coo-post-as-it-creeps-towards-commercialization/
+---------------------
+******************************************
