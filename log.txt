@@ -343,3 +343,26 @@ Cruise, the autonomous vehicle technology subsidiary of GM, said Friday it has h
 https://techcrunch.com/2021/01/08/cruise-taps-former-delta-executive-for-coo-post-as-it-creeps-towards-commercialization/
 ---------------------
 ******************************************
+2021-01-08 19:30:09 INFO     File updated!
+******************************************
+Avaya Holdings Corp. (AVYA) Wall St. Analysts Rating
+
+https://seekingalpha.com/symbol/AVYA/ratings/sell-side-ratings
+---------------------
+Avaya Holdings Corp. (AVYA) Quant Ratings
+No ratings were found on which match these criteria.
+https://seekingalpha.com/symbol/AVYA/ratings/quant-ratings
+---------------------
+Substack says it plans to roll out a "multipub" tool, which will let users aggregate newsletters and podcasts they manage under one publication, in February (Jacob Kastrenakes/The Verge)
+Jacob Kastrenakes / The Verge: Substack says it plans to roll out a “multipub” tool, which will let users aggregate newsletters and podcasts they manage under one publication, in February — Substack is adding a long-awaited new feature today: the ability to change the look of newsletters.
+http://www.techmeme.com/210108/p14#a210108p14
+---------------------
+Quick tutorial on how to get a Dockerized Flask app onto AWS with a fully automated CI/CD pipeline
+submitted by /u/pyyoutuber [link] [comments]
+https://www.reddit.com/r/Python/comments/kt9b8z/quick_tutorial_on_how_to_get_a_dockerized_flask/
+---------------------
+A Virus Variant Spreads, Vaccine Efforts Accelerate, and More
+US numbers continue to worsen, vaccine efforts accelerate worldwide, and researchers examine a new virus variant. Here's what you should know: Want to receive this weekly roundup and other coronavirus news? Sign up here! Headlines The pandemic is likely to get worse in the US even as vaccinations continue The US's daily coronavirus death toll has reached a record high on five of the last ten days, and topped 4,000 on Thursday as cases continue to rise almost everywhere. Arizona leads the country in hospitalizations and cases, and Atlanta recently reopened its field hospital to keep up with record numbers of patients.
+https://www.wired.com/story/variant-spreads-vaccine-accelerates-coronavirus-news
+---------------------
+******************************************
