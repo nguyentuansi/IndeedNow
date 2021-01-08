@@ -1,0 +1,23 @@
+2021-01-08 17:43:20 INFO     File updated!
+******************************************
+Reddit bans subreddit group "r/DonaldTrump"
+Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+https://www.reddit.com/r/technology/comments/kt785i/reddit_bans_subreddit_group_rdonaldtrump/
+---------------------
+Learn python function basics in just 3 minutes for free!!
+News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+https://www.reddit.com/r/Python/comments/kt761e/learn_python_function_basics_in_just_3_minutes/
+---------------------
+Hosting Telegram bots on Cloud Run for free
+News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+https://www.reddit.com/r/Python/comments/kt73ps/hosting_telegram_bots_on_cloud_run_for_free/
+---------------------
+U.S. agency finds no defect in review of 662,000 Tesla vehicles
+More News
+https://www.investing.com/news/technology-news/us-finds-no-defect-in-review-of-662000-tesla-vehicles-2383635
+---------------------
+CORRIDA para trazer a vida de volta à vida
+Tour De France 2020 Winning Team, UAE Team Emirates is the World's First Professional Sporting Team to be Vaccinated (Photo: AETOSWire)
+http://www.businesswire.com/news/home/20210108005448/pt/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==
+---------------------
+******************************************
