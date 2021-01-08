@@ -182,3 +182,26 @@ Roku has snapped up Quibi's library of short-form shows
 https://www.techradar.com/news/roku-has-snapped-up-quibis-library-of-short-form-shows
 ---------------------
 ******************************************
+2021-01-08 18:56:58 INFO     File updated!
+******************************************
+Reddit bans '/donaldtrump' subreddit for 'repeated policy violations'
+Reddit has banned a popular subreddit used by supporters of President Donald Trump, as more tech companies crack down in the wake of riots at the U.S. Capitol. In a statement, Reddit confirmed the subreddit "r/donaldtrump" was banned for "repeated policy violations in recent days regarding the violence at the U.S. Capitol." According to a cached version of the subreddit, the channel had more than 52,000 members. "Reddit's site-wide policies prohibit content that promotes hate, or encourages, glorifies, incites, or calls for violence against groups of people or individuals," said the social media platform in a statement.
+https://www.usatoday.com/story/tech/2021/01/08/reddit-bans-donaldtrump-subreddit-policy-violations/6596964002/
+---------------------
+What their selfie obsession revealed about the psychology of the pro-Trump rioters
+CLOSE Republicans and Democrats share firsthand accounts as pro-Trump supports stormed the U.S. Capitol. USA TODAY "Social media groups can trick users into thinking that their real identities are concealed by virtual ones." In  image after image of Wednesday's pro-Trump mob , it was disturbing to see the glee with which rioters snapped selfies or posed as they carried out vandalism.  Richard Barnett of Gravette, Arkansas, was photographed grinning with his feet up on House Speaker Nancy Pelosi's desk.
+https://www.lohud.com/story/news/2021/01/08/doing-likes-why-d-c-rioters-posted-social-media/6585438002/
+---------------------
+VCs discuss gaming's biggest infrastructure investment opportunities in 2021
+We last polled our network of investors on the topic of gaming infrastructure startups back in May just as it was becoming clear what pandemic opportunities were in store for gaming startups. Accel's Amit Kumar told us at the time that 'social and interactivity layers spanning across these games' were poised to be the big winners, highlighting his firm's investments in startups like Discord and Mayhem. In December, Discord announced it was raising at a valuation of $7 billion and this month Pokémon Go creator Niantic announced it was buying Mayhem .
+https://techcrunch.com/2021/01/08/vcs-discuss-gamings-biggest-infrastructure-investment-opportunities-in-2021/
+---------------------
+Trump suspended from Twitch, as Reddit bans the ‘The_Donald' and additional subreddits
+Two big new pieces of news today from the ongoing battle between social media and politics. Both Twitch and Reddit have made moves against political content, citing violations of terms of service. Twitch confirmed today that it has temporarily suspended the president's account. 'Hateful conduct is not allowed on Twitch,' a spokesperson for the streaming giant told TechCrunch. 'In line with our policies, President Trump's channel has been issued a temporary suspension from Twitch for comments made on stream, and the offending content has been removed.
+https://techcrunch.com/2020/06/29/trump-suspended-from-twitch-as-reddit-bans-the-the_donald-and-additional-subreddits/
+---------------------
+Jumbotail raises $14.2 million for its wholesale marketplace in India
+Jumbotail, an online wholesale marketplace for grocery and food items, said on Friday it has raised an additional $14.2 million as the Bangalore-based startup chases the opportunity to digitize neighborhood stores in the world's second largest internet market. The five-year-old startup said the new tranche of its Series B financing round was led by VII Ventures, with participation from Nutresa, Veronorte, Jumbofund, Klinkert Investment Trust, Peter Crosby Trust, Nexus Venture Partners, and Discovery Ventures.
+https://techcrunch.com/2021/01/08/jumbotail-raises-14-2-million-for-its-wholesale-marketplace-in-india/
+---------------------
+******************************************
