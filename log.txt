@@ -136,3 +136,26 @@ Continue reading the main storyThis article is part of the On Tech newsletter. Y
 https://www.nytimes.com/2021/01/08/technology/trump-misinformation-superspreaders.html
 ---------------------
 ******************************************
+2021-01-08 18:37:39 INFO     File updated!
+******************************************
+Leinster vs Ulster live stream: how to watch Pro14 rugby clash online from anywhere
+If anyone can stop Leinster from claiming an astonishing fourth straight Pro14 title this season, it might be their biggest rivals, Ulster. The current Conference A leaders are 10 points clear of the Dublin-based side heading into today's away clash at the RDS Arena in Ballsbridge. It's the biggest match of the 2020/21 Pro14 rugby season so far, so read on as we explain how to watch a Leinster vs Ulster live stream wherever you are right now.You could even go so far as to say that Leinster have had a sluggish start to the current campaign by their lofty standards.
+https://www.techradar.com/news/leinster-vs-ulster-live-stream-how-to-watch-pro14-rugby-2021-clash-online-from-anywhere
+---------------------
+How to watch A Discovery of Witches season 2 online: stream new episodes anywhere now
+(Image credit: Sky) One of the best-loved TV shows around returns after a two-year absence this week - and the first potion they'll be brewing is a resolution to thefirst season's cliffhanger ending. Based on Deborah Harkness' wildly popular All Souls trilogy, the show is set in a world where witches, vampires and daemons secretly live and work alongside humans, hidden in plain sight. Read on for your full guide to watching A Discovery of Witches season 2 online and stream every new episode as soon as it's released in 2021.
+https://www.techradar.com/news/how-to-watch-a-discovery-of-witches-season-2-online-stream-new-episodes-anywhere-now
+---------------------
+Roku has snapped up Quibi's library of short-form shows
+(Image credit: Quibi) Following reports earlier this week that 'advanced talks' were taking place, Roku has announced that it has acquired Quibi's library of short-form shows only three months after the mobile-first streaming service was forced to shut down.The deal sees Roku secure rights to more than 75 of Quibi's shows and, according to Roku, they will be available to stream on the free, ad-supported Roku Channel later this year in the U.S., Canada and the U.K. In addition to the shows that had already been released by Quibi, there will also be around a dozen which weren't shown before the service shut down making their debut with Roku.
+https://www.techradar.com/news/roku-has-snapped-up-quibis-library-of-short-form-shows
+---------------------
+Geekbench och EPYC 7543
+Inspirerat från https://www.tomshardware.com/news/amd-epyc-7543-zen-3-milan-c... och https://twitter.com/leakbench/status/1346825151569154054 och skärmdump från https://browser.geekbench.com/v4/cpu/15943360 https://i.imgur.com/1kq8L7K.png Single-Core Performance Single-Core Score 6065 Crypto Score 6990 Integer Score 5916 Floating Point Score 5800 Memory Score 6568 Multi-Core Performance Multi-Core Score 111379 Crypto Score 55701 Integer Score 160939 Floating Po
+https://www.sweclockers.com/forum/trad/1622239-geekbench-och-epyc-7543
+---------------------
+Laptop stolen from Nancy Pelosi's office during Trump riot, says aide
+Nancy PelosiCapitol BuildingWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.Already subscribed? Log in
+https://www.independent.co.uk/news/world/americas/us-election-2020/laptop-pelosi-stolen-trump-riot-b1784635.html
+---------------------
+******************************************
