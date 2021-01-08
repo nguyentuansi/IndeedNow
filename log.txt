@@ -642,3 +642,26 @@ Recon Technology (NASDAQ: RCON ) stock moved upwards by 16.61% to $2.24 during F
 https://www.benzinga.com/after-hours-center/21/01/19085036/12-energy-stocks-moving-in-fridays-after-market-session
 ---------------------
 ******************************************
+2021-01-08 22:39:30 INFO     File updated!
+******************************************
+Best cheap TV deals: great 4K TV deals and sales in the US in January 2021
+Look no further for the best cheap TV deals. On this page, we've curated the latest discounts on some of the best TVs - as well as the best cheap TVs from the likes of LG, Samsung, Sony and more. Whether you're looking for a 4K TV deal or more – and no matter what size or type of TV you want – we've got you covered. You'll find this week's very best TV deals right here. Below, you'll see our top pick for the best TV deal of the week – the offer that we think represents the best outright value for most people.
+https://www.techradar.com/deals/cheap-4k-tv-deals-sales
+---------------------
+Livestreaming Site Dlive Gains Popularity from Capitol Riots
+A site called Dlive, where rioters broadcast from the Capitol, is benefiting from the growing exodus of right-wing users from Twitter, Facebook and YouTube.
+https://www.nytimes.com/2021/01/08/technology/dlive-capitol-mob.html
+---------------------
+12 Information Technology Stocks Moving In Thursday's Intraday Session
+3D Sys (NYSE: DDD ) stock increased by 94.17% to $21.82 during Thursday's regular session. The current volume of 79.2 million shares is 1812.29% of 3D Sys's average full-day volume over the last 100 days (last updated at 12:31 EST). The company's market cap stands at $2.7 billion. Xunlei (NASDAQ: XNET ) shares moved upwards by 69.43% to $5.71. As of 12:31 EST, this security is trading at a volume of 41.4 million shares, making up 2418.49% of its average full-day volume over the last 100 days. The company's market cap stands at $381.
+https://www.benzinga.com/intraday-update/21/01/19063478/12-information-technology-stocks-moving-in-thursdays-intraday-session
+---------------------
+Mid-Afternoon Market Update: Gold Dips 3.5%; Merus Shares Surge
+Toward the end of trading Friday, the Dow traded down 0.27% to 30,956.01 while the NASDAQ rose 0.36% to 13,114.70. The S&P also rose, gaining 0.03% to 3,805.02. The U.S. has the highest number of coronavirus cases and deaths in the world, reporting a total of 21,581,740 cases with around 365,320 deaths. India confirmed a total of at least 10,413,410 confirmed cases and 150,570 deaths, while Brazil reported over 7,961,670 COVID-19 cases with 200,490 deaths. In total, there were at least 88,140,960 cases of COVID-19 worldwide with over 1,900,380 deaths, according to data compiled by Johns Hopkins University.
+https://www.benzinga.com/news/21/01/19083024/mid-afternoon-market-update-gold-dips-3-5-merus-shares-surge
+---------------------
+Techspert Services Partners with Bandwidth: Offering Better Quality, Better Rates, and Optimal Control
+Techspert Services has partnered with the leading API platform provider, Bandwidth. With this partnership, Techsperts can now offer services from voice, messaging, 911 access, and virtual phone access. Bandwidth is the only API platform to own a Tier 1 network. Techspert clients will now receive better quality, rates, and optimal control thus giving Techsperts an edge over their competitors with all-in-one communications support. Techspert  Services i s an all-inclusive IT Support, Managed Services Provider.
+https://www.benzinga.com/pressreleases/21/01/ab19085772/techspert-services-partners-with-bandwidth-offering-better-quality-better-rates-and-optimal-contr
+---------------------
+******************************************
