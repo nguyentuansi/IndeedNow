@@ -205,3 +205,26 @@ Jumbotail, an online wholesale marketplace for grocery and food items, said on F
 https://techcrunch.com/2021/01/08/jumbotail-raises-14-2-million-for-its-wholesale-marketplace-in-india/
 ---------------------
 ******************************************
+2021-01-08 18:58:14 INFO     File updated!
+******************************************
+How to Find Archived Emails in Gmail
+If you're looking to clean up your Gmail inbox but don't want to delete anything permanently, then choosing the archive option is your best bet. Whenever you archive an email, it is removed from your inbox folder but remains accessible. Here's how to access any emails you have archived previously, as well as how to move such messages back to your regular inbox for fast access. Related Articles Finding archived emails via the web If you access Gmail via the web browser, it is a straightforward process to recall any emails you may have archived.
+https://www.digitaltrends.com/computing/how-to-find-archived-emails-gmail/
+---------------------
+Why crocodiles haven't changed much since prehistoric times
+A ‘stop-start' pattern of evolution may explain why there are only 25 species of crocodiles alive today, compared to the thousands achieved in the same amount of time by other animals like lizards and birds.
+https://www.usatoday.com/videos/tech/2021/01/08/why-crocodiles-havent-changed-much-since-prehistoric-times/6596667002/
+---------------------
+Reddit bans '/donaldtrump' subreddit for 'repeated policy violations'
+Reddit has banned a popular subreddit used by supporters of President Donald Trump, as more tech companies crack down in the wake of riots at the U.S. Capitol. In a statement, Reddit confirmed the subreddit "r/donaldtrump" was banned for "repeated policy violations in recent days regarding the violence at the U.S. Capitol." According to a cached version of the subreddit, the channel had more than 52,000 members. "Reddit's site-wide policies prohibit content that promotes hate, or encourages, glorifies, incites, or calls for violence against groups of people or individuals," said the social media platform in a statement.
+https://www.usatoday.com/story/tech/2021/01/08/reddit-bans-donaldtrump-subreddit-policy-violations/6596964002/
+---------------------
+What their selfie obsession revealed about the psychology of the pro-Trump rioters
+CLOSE Republicans and Democrats share firsthand accounts as pro-Trump supports stormed the U.S. Capitol. USA TODAY "Social media groups can trick users into thinking that their real identities are concealed by virtual ones." In  image after image of Wednesday's pro-Trump mob , it was disturbing to see the glee with which rioters snapped selfies or posed as they carried out vandalism.  Richard Barnett of Gravette, Arkansas, was photographed grinning with his feet up on House Speaker Nancy Pelosi's desk.
+https://www.lohud.com/story/news/2021/01/08/doing-likes-why-d-c-rioters-posted-social-media/6585438002/
+---------------------
+VCs discuss gaming's biggest infrastructure investment opportunities in 2021
+We last polled our network of investors on the topic of gaming infrastructure startups back in May just as it was becoming clear what pandemic opportunities were in store for gaming startups. Accel's Amit Kumar told us at the time that 'social and interactivity layers spanning across these games' were poised to be the big winners, highlighting his firm's investments in startups like Discord and Mayhem. In December, Discord announced it was raising at a valuation of $7 billion and this month Pokémon Go creator Niantic announced it was buying Mayhem .
+https://techcrunch.com/2021/01/08/vcs-discuss-gamings-biggest-infrastructure-investment-opportunities-in-2021/
+---------------------
+******************************************
