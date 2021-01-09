@@ -872,3 +872,26 @@ Twitter has banned President Donald Trump's former national security adviser Mic
 https://indianexpress.com/article/technology/tech-news-technology/twitter-bans-michael-flynn-sidney-powell-7139127/
 ---------------------
 ******************************************
+2021-01-09 03:17:35 INFO     File updated!
+******************************************
+Twitter suspends Trump's campaign account @TeamTrump for violating its rules
+
+https://www.investing.com/news/technology-news/twitter-suspends-trumps-campaign-account-teamtrump-for-violating-its-rules-2384118
+---------------------
+Google suspends Parler from app store, urges tighter content moderation
+Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+https://www.reddit.com/r/technology/comments/kti7up/google_suspends_parler_from_app_store_urges/
+---------------------
+Alex Trebek gets touching, nostalgic Jeopardy tribute for his final show     - CNET
+Jeopardy/Twitter Jeopardy honored former host Alex Trebek and his impressive legacy on the popular game show with a touching tribute video that aired at the end of Friday's episode. Trebek passed away in November 2020 from pancreatic cancer at age 80. Trebek hosted the long-running Jeopardy series since 1984, and his contract was going to continue through 2023. New Jeopardy episodes hosted by Trebek continued to air through the beginning of 2021. The new video shows Trebek throughout his 36 years on the show chatting with contestants and being his usual friendly self as Peter Allen/Dean Pitchford song "Once Before I Go" plays.
+https://www.cnet.com/news/alex-trebek-gets-touching-nostalgic-jeopardy-tribute-for-his-final-show/
+---------------------
+Python Programming Basics
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+https://www.reddit.com/r/programming/comments/kti5km/python_programming_basics/
+---------------------
+Capitol Hill siege: Twitter bans Michael Flynn and Sidney Powell
+Twitter has banned President Donald Trump's former national security adviser Michael Flynn and pro-Trump attorney Sidney Powell as part of a purge of QAnon accounts following the storming of the US Capitol by a mob of violent Trump supporters. Social media companies have been under intensified pressure to crack down on hate speech after Wednesday's attack on the Capitol. Dozens of QAnon social media accounts were hyping up January 6 in the days leading up to a Washington DC rally for Trump, expressing hope that President-elect Joe Biden's victory would be overturned.
+https://indianexpress.com/article/technology/tech-news-technology/twitter-bans-michael-flynn-sidney-powell-7139127/
+---------------------
+******************************************
