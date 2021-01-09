@@ -970,3 +970,20 @@
 > https://github.com/ObronnaSosna/spotify-playlist-downloader So i wrote a simple script to download spotify playlists from youtube with metadata and cover arts. I couldn't find anything that does not require spotify api and embeds stuff in a way that could be used for downloading large playlists and in scripts for example ytmdl was choosing wrong metadata and filenames weren't unique. It uses youtube-dl and ffmpeg. It currently works on linux and macs (i think), but modifying it to work under windows should be easy.
 
 
+***
+[Aioauth – asynchronous oauth2 framework for Python 3](https://www.reddit.com/r/Python/comments/ktymej/aioauth_asynchronous_oauth2_framework_for_python_3/)
+
+
+> Hello folks. I'm happy to introduce aioauth - asynchronous oauth2 framework / server for Python 3. For now it's implements 3 RFC's: rfc6749, rfc7662, rfc7636 It is easy to use and can be easily integrated into fastapi or aiohttp (FastAPI example was described in README). Project homepage: https://github.com/aliev/aioauth submitted by /u/ali_aliev [link] [comments]
+
+
+***
+![Upgrading RAM Late-2015 5k iMac, Can I Combine RAM or do I need to Swap All?](https://images.macrumors.com/social/?t=2279493&v=6 "Upgrading RAM Late-2015 5k iMac, Can I Combine RAM or do I need to Swap All?")
+
+
+[Upgrading RAM Late-2015 5k iMac, Can I Combine RAM or do I need to Swap All?](https://forums.macrumors.com/threads/upgrading-ram-late-2015-5k-imac-can-i-combine-ram-or-do-i-need-to-swap-all.2279493/)
+
+
+> Jun 20, 2017 99 79 Disneyland Hey, so I want to upgrade the RAM on my late-2015 5k iMac, I currently have 8GB and think I want 32GB. Or is that overkill and should I just go with 16GB? I use this computer for music production in Logic with Native Instruments libraries, Izotope, Antares, Slate, etc. I do 4K video editing in Final Cut Pro. I bought the M1 Mac mini a couple weeks ago but returned it due to lots of bluetooth & display issues, so I'm using this iMac until a Apple Silicon iMac or Mac Pro mini come out with less issues.
+
+
