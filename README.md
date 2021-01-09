@@ -876,3 +876,50 @@
 > Looking for something to play on Switch with your local multiplayer buds? Unspottable is coming to Switch on Jan. 21st, 2021, and it could be the perfect fit. The title is priced at $12, and you can read all about it below. Unspottable is a competitive couch party game for two to four players. Blend in the crowd of AI characters, hunt down the other players and use the many different environment specific rules to win the game. Fun for everyone: Simple controls: easy to learn, hard to master.
 
 
+***
+![Rams vs Seahawks live stream: how to watch NFL Wild Card playoffs online anywhere](https://cdn.mos.cms.futurecdn.net/a7hynuuxXpMSmMZUxPvp5L-1200-80.jpg "Rams vs Seahawks live stream: how to watch NFL Wild Card playoffs online anywhere")
+
+
+[Rams vs Seahawks live stream: how to watch NFL Wild Card playoffs online anywhere](https://www.techradar.com/news/rams-vs-seahawks-live-stream-how-to-watch-nfl-playoffs-anywhere)
+
+
+> We've got a tasty all-NFC West encounter to look forward to in the second of this weekend's Wild Card games, as rivals Seattle and Los Angeles lock horns for the third time this season, having split their two previous encounters. The stakes are, of course, much higher now, so read on as we explain how to get a Rams vs Seahawks live stream and watch the NFL playoffs online wherever you are right now.The Hawks came out on top in their most recent clash two weeks ago, a game that was notable for Jared Goff breaking and dislocating his thumb on a Seattle helmet.
+
+
+***
+![The famous Squatty Potty from 'Shark Tank' is on sale right now](https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2020/09/22/USATODAY/usatsports/Reviewed.com-RvEW-22206-squatty-potty.jpg?width=1600&height=800&fit=crop "The famous Squatty Potty from 'Shark Tank' is on sale right now")
+
+
+[The famous Squatty Potty from 'Shark Tank' is on sale right now](https://www.usatoday.com/story/tech/reviewedcom/2021/01/09/squatty-potty-get-cult-favorite-shark-tank-product-sale/6608653002/)
+
+
+> The Squatty Potty is one of the most wonderfully weird products ever featured on 'Shark Tank,' and now it's on sale. (Photo: Reviewed.com)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Everybody answers the call of nature, but not everyone has as easy of a time with it as they'd like. Enter the Squatty Potty, a.k.a. the cult-favorite bathroom product you might have heard about back when it first appeared on Shark Tank in 2014.
+
+
+***
+![Here's A Supercut Of Republicans Suddenly Distancing Themselves From Trump's Claims Of Election Fraud](https://cdn.digg.com/wp-content/uploads/2021/01/09193136/Screen-Shot-2021-01-09-at-2.31.19-PM.jpg "Here's A Supercut Of Republicans Suddenly Distancing Themselves From Trump's Claims Of Election Fraud")
+
+
+[Here's A Supercut Of Republicans Suddenly Distancing Themselves From Trump's Claims Of Election Fraud](https://digg.com/video/heres-a-supercut-of-republicans-suddenly-distancing-themselves-from-trumps-claims-of-election-fraud)
+
+
+> 👋 Welcome to Digg Thanks for creating an account! Your accounts lets you Digg (upvote) stories, save stories to revisit later, and more. 📩 Stay up-to-date Email will be sent to: Select the newsletters you'd like to receive. You can change your subscriptions any time in your user settings. Daily morning newsletter Afternoon video roundup Bitcoin Long Reads
+
+
+***
+![I created a Python library for using the Twitch API](https://external-preview.redd.it/aTdSfTRX-rqFowbn90e40GrWxlQ5sJTo7au8hS4n95A.jpg?auto=webp&s=a7425db3642db739f95e57492d62ea693b41eb1b "I created a Python library for using the Twitch API")
+
+
+[I created a Python library for using the Twitch API](https://www.reddit.com/r/Python/comments/ktxkkg/i_created_a_python_library_for_using_the_twitch/)
+
+
+> I'm developing a library which can be used for interacting with the Twitch API more easily. The name of the library is TwitchPy and you can use it for getting information of Twitch users or channels, interact with these channels and even create your own bots easily. The project is still in the beta phase, but you can contribute to its development through pull requests, giving ideas, etc. I hope you put TwitchPy to good use :)
+
+
+***
+[Sane: Makefile for Humans](https://www.reddit.com/r/Python/comments/ktxk80/sane_makefile_for_humans/)
+
+
+> Despite being a great and flexible tool (proof of which is how long it's been around for!), I've always been a little frustrated by Make in two aspects: How cumbersome and opaque the grammar of Make is ($* $< $@?!) How hard it is to keep state (which usually ends up in having a recipe be a single long bash line with a lot of \s --- and that's ugly and hard to read.) Sane (sane-build in PyPI) is an attempt to create an alternative that incorporates the ideas of Make, but provides the full flexibility of Python in terms of writing logic.
+
+
