@@ -1,4 +1,4 @@
-# IndeedNow:
+# IndeedNow
 
 ***
 [Google removes 'Parler' social network app from Play Store over incitement to US Capitol violence](https://www.freepressjournal.in/technology/google-removes-parler-social-network-app-from-play-store-over-incitement-to-us-capitol-violence)
@@ -10,6 +10,7 @@
 ***
 ![Golang vs Python: Complete Comparison with their Top Frameworks](https://external-preview.redd.it/fS_eLDcduq_KFeuACmlVUuTKiV_WHF5Ion5sQtpv_sM.jpg?auto=webp&s=6a3bee723def2d4245e2e0999304000046dc03f9 "Golang vs Python: Complete Comparison with their Top Frameworks")
 
+> No body content in this article!
 
 [Golang vs Python: Complete Comparison with their Top Frameworks](https://www.reddit.com/r/Python/comments/ktoeoh/golang_vs_python_complete_comparison_with_their/)
 
