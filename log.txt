@@ -1125,3 +1125,26 @@ Looking forward to the Galaxy S21? Here's everything we know so far!
 https://www.androidcentral.com/samsung-galaxy-s21
 ---------------------
 ******************************************
+2021-01-09 03:54:46 INFO     File updated!
+******************************************
+Google bans Parler from Android app store
+Enlarge / Google's corporate headquarters. Google has banned the conservative social media app Parler from its Play Store for Android. In a statement to Ars, Google said it was enforcing long-standing policies requiring that social media apps remove "egregious content like posts that incite violence." " We're aware of continued posting in the Parler app that seeks to incite ongoing violence in the US," a Google spokesman told Ars. "In light of this ongoing and urgent public safety threat, we are suspending the app's listings from the Play Store until it addresses these issues.
+https://arstechnica.com/tech-policy/2021/01/google-bans-parler-from-android-app-store/
+---------------------
+Parler pitched itself as Twitter without rules. Apple and Google said not anymore
+Written by Jack Nicas Parler is one of the hottest apps in the world, a social network that has attracted millions of conservatives over the past year with its hands-off approach to policing users' posts. And with the news that President Donald Trump had been kicked off Twitter and Facebook, Parler was the odds-on bet to be his next soapbox. But just as it was gaining new clout, Parler is now suddenly faced with an existential crisis.https://images.indianexpress.com/2020/08/1x1.png On Friday, Apple told the company that it had to step up its policing of the conversation on its app — undercutting its flagship feature — or lose its platform on iPhones.
+https://indianexpress.com/article/technology/tech-news-technology/parler-pitched-itself-as-twitter-without-rules-apple-and-google-said-not-anymore-7139226/
+---------------------
+Using Vue.js Alongside Django Template
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+https://www.reddit.com/r/programming/comments/ktj1m2/using_vuejs_alongside_django_template/
+---------------------
+Programming in paint
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+https://www.reddit.com/r/programming/comments/ktiv20/programming_in_paint/
+---------------------
+Looking forward to the Galaxy S21? Here's everything we know so far!
+2020 saw the release of some truly impressive Android phones, one of the best Android phones being the Galaxy S20 from Samsung. The S20 set out to deliver on every front that it could, and for the most part, it succeeded with flying colors. It's now been almost a year since the S20 came out, though, which means it's time to start looking ahead. The smartphone industry moves at a rapid pace, and in just a few days, it'll be time for the Galaxy S21. Whether you're interested in specs, design renders, pricing info, or anything else, here's everything we know so far about the Samsung Galaxy S21! Unmatched Samsung Galaxy S20 One of the best Android phones you can buy in 2020 We're just as excited about the Galaxy S21 as you are, but if you need a phone right now, don't feel like you have to wait months for it.
+https://www.androidcentral.com/samsung-galaxy-s21
+---------------------
+******************************************
