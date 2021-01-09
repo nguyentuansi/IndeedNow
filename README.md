@@ -541,3 +541,23 @@
 > Natasha Mascarenhas Alex Wilhelm 8 hours Hello and welcome back to Equity, TechCrunch's venture-capital-focused podcast, where we unpack the numbers behind the headlines. We're back on this lovely Saturday with a bonus episode! The normal crew assembled, including Alex, Natasha, Danny, and Chris, to chatter about a chunk of creator and gamer news. And some big numbers, the sorts that we always find fun to chat about. A sneak peek at what we discussed during this second-ever Equity Leftovers: Roblox's epic pre-IPO raise, and its decision to go public through direct listing instead of the IPO that it had previously planned.
 
 
+***
+![Best video editing software of 2021](https://cdn.mos.cms.futurecdn.net/8ixea6ajR4X6ybPviFYJiG-1200-80.jpg "Best video editing software of 2021")
+
+
+[Best video editing software of 2021](https://www.laptopmag.com/best-picks/best-video-editing-software)
+
+
+> Using a video editing application will allow you to turn raw footage into stunning, professional-looking videos that you'll want the whole world to see. With good video editing software, you can improve the quality of your footage, trim it, add special effects, and package it ready to be shared on different online platforms.Nowadays, you don't need a massive budget or lots of technical expertise to edit videos. That's because the best video editing software is feature-packed, cost-effective, compatible with a range of different devices, and can be used by everyone.
+
+
+***
+![Worried about WhatsApp? A look at the three popular alternatives for messaging](https://images.indianexpress.com/2021/01/WhatsApp-Beta-v2.21.1.3.jpg "Worried about WhatsApp? A look at the three popular alternatives for messaging")
+
+
+[Worried about WhatsApp? A look at the three popular alternatives for messaging](https://indianexpress.com/article/technology/techook/whatsapp-alternatives-signal-telegram-viber-faq-and-features-7138298/)
+
+
+> WhatsApp has revised its privacy policy, which has sparked concern given the data sharing with Facebook and its partner companies. The new privacy policy has certainly caused a lot more people to consider alternatives to WhatsApp. The Signal app for instance has seen a meteoric rise in its popularity, and has topped the charts on iOS, driven by an increase in downloads from India. Another popular alternative to WhatsApp is Telegram, which while it is not end-to-end encrypted across the app, continues to gain new users.
+
+
