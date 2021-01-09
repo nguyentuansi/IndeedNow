@@ -52,5 +52,5 @@ with open('log.txt', 'a') as f:
 with open('README.md', 'a') as f:
     sys.stdout = f  # Change the standard output to the file we created.
     for article in data['articles']:
-        print('[{}] {}'.format(article["link"], article["title"]))
+        print('-[{}] {}'.format(article["link"], article["title"]))
     sys.stdout = original_stdout  # Reset the standard output to its original value
