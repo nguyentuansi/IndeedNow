@@ -363,3 +363,43 @@
 > Hi, I have a Dell P2715Q, and I'm having trouble getting it to work smoothly on any other resolution than its highest - 3840x2160. It's currently connected to my Mac mini 2018 with a DisplayPort to USB-C cord. I've tried to use another DisplayPort to USB-C cord, and an multiple HDMI cords, but I think I can rule out a connection issue. For the record, using an HDMI connection has resulted in curser delay. From the preferences pane, I've tried other resolutions (default for display, and scaled), but 3840x2160 seems to be the only resolution that works well.
 
 
+***
+![Cancel your Netflix subscription following these easy steps](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2019/01/netflix-1-29-19-tv-hero-qskh.jpg "Cancel your Netflix subscription following these easy steps")
+
+
+[Cancel your Netflix subscription following these easy steps](https://www.androidcentral.com/how-cancel-netflix)
+
+
+> Netflix gives you access to thousands of shows and movies with new options appearing regularly. For as little as $9 a month, you can pay to stream on one screen at a time with SD resolution. Viewers looking for a more substantial streaming experience can upgrade to a standard membership for $14, which ups your viewing to two screens at once with HD resolution. Netflix also offers a premium membership for $18, which increases viewing to four screens at once with HD and Ultra HD resolution. But if this streaming service's offerings aren't doing it for you, it might be time to cancel.
+
+
+***
+![It's hard to decide which villager has the cutest fishing outfit in ACNH](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/acnh-fishing-outfits-hero.jpg "It's hard to decide which villager has the cutest fishing outfit in ACNH")
+
+
+[It's hard to decide which villager has the cutest fishing outfit in ACNH](https://www.imore.com/animal-crossing-new-horizons-villagers-wear-cutest-outfits-during-fishing-tourney)
+
+
+> Source: iMore When I got up this morning, I was already excited to catch a bunch of fish during the Animal Crossing Fishing Tourney in Animal Crossing: New Horizons. But I was delighted to find that all of my villagers had dressed up in their best fishing attire specifically for the event. This inspired me to run around my island and snap pictures with each one of them. Here are some pictures of each of my villagers wearing their best fishing attire. Animal Crossing is one of the best Switch games with its fun seasonal events and adorable villagers.
+
+
+***
+![What Would It Take to Run a City on 100 Percent Clean Energy?](https://media.wired.com/photos/5ff89f85867aae3d40e74698/191:100/w_1280,c_limit/Science_energy_1129957390.jpg "What Would It Take to Run a City on 100 Percent Clean Energy?")
+
+
+[What Would It Take to Run a City on 100 Percent Clean Energy?](https://www.wired.com/story/what-would-it-take-to-run-a-city-on-100-percent-clean-energy)
+
+
+> This story originally appeared on Grist and is part of the Climate Desk collaboration. In 2014, Burlington, Vermont, the birthplace of Ben and Jerry's ice cream and the stomping grounds of Senator Bernie Sanders, announced that it had reached an energy milestone. The city of 42,000, which hugs the shore of Lake Champlain, produced enough power from renewable sources to cover all its electricity needs. Burlington, the city government proclaimed, was one of America's first 'renewable cities.' Since then, Burlington has been joined by Georgetown, Texas, Aspen, Colorado, and a few other small towns across the country.
+
+
+***
+![User CPU time – ‘us' time in top](https://external-preview.redd.it/GHcplGsPWSrKJE01hM87iEDeb6uZcsquAepmh_rpnJA.jpg?auto=webp&s=57cfada39ab31445fbe749ed4722c39121ec5c2f "User CPU time – ‘us' time in top")
+
+
+[User CPU time – ‘us' time in top](https://www.reddit.com/r/programming/comments/ktr7fw/user_cpu_time_us_time_in_top/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
