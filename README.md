@@ -581,3 +581,50 @@
 > MERCURY will come close to Jupiter and Saturn in the sky this evening as the three planets form a rare conjunction. Stargazers should be able to spot the celestial event until January 11. 3 3 Jupiter and Saturn recently made their closest approach in December Credit: EPA Nasa said: "From Friday evening to Monday evening, the planet Mercury will appear to pass first by Saturn and then by Jupiter as it shifts away from the horizon, visible each evening low in the west-southwest and setting before evening twilight ends.
 
 
+***
+![CES 2021: Holographs, drones, robots all debut digitally](https://www.gannett-cdn.com/presto/2021/01/09/USAT/35777d79-06bb-4d74-9a8c-2d34d2288c3d-Newest_gadgets_and_holographs_coming_to_-5ff9a18dc7d4641e23c1fdc9_1_Jan_09_2021_14_02_23_poster.jpg?quality=10 "CES 2021: Holographs, drones, robots all debut digitally")
+
+
+[CES 2021: Holographs, drones, robots all debut digitally](https://www.usatoday.com/videos/tech/2021/01/09/ces-2021-holographs-drones-robots-debut-digitally/6607909002/)
+
+
+> The hot topics expected to dominate the 2021 CES show include the biggest names in electronics, telecommunications and software.
+
+
+***
+![This year's CES show, still must-see technology — TVs, drones, robots — but done virtually](https://www.gannett-cdn.com/presto/2021/01/05/USAT/bb91c0ea-b1db-4d19-aa4c-56083a471e07-LG-Display-48-inch-Bendable-Cinematic-Sound-OLED-at-CES-2021.jpg?crop=2987,1681,x0,y0&width=1600&height=800&fit=bounds "This year's CES show, still must-see technology — TVs, drones, robots — but done virtually")
+
+
+[This year's CES show, still must-see technology — TVs, drones, robots — but done virtually](https://www.usatoday.com/story/tech/2021/01/09/ces-2021-coronavirus-crisis-leads-big-tech-event-going-virtual/4129143001/)
+
+
+> CLOSE The hot topics expected to dominate the 2021 CES show include the biggest names in electronics, telecommunications and software. Wochit Bigger TVs , mobile electronics,  automobile technology , digital health, privacy – and, of course – robots. The hot topics expected to dominate the 2021 CES show, kicking off officially Monday, may sound familiar. But the annual high-tech mecca where most of the biggest names in electronics, telecommunications and software show off new products will be anything but.
+
+
+***
+![Talking Tech: A different CES this year due to coronavirus pandemic](https://www.gannett-cdn.com/presto/2021/01/09/USAT/35777d79-06bb-4d74-9a8c-2d34d2288c3d-Newest_gadgets_and_holographs_coming_to_-5ff9a18dc7d4641e23c1fdc9_1_Jan_09_2021_14_02_23_poster.jpg?crop=1274,717,x0,y0&width=1600&height=800&fit=bounds "Talking Tech: A different CES this year due to coronavirus pandemic")
+
+
+[Talking Tech: A different CES this year due to coronavirus pandemic](https://www.usatoday.com/story/tech/2021/01/09/talking-tech-ces-2021-done-virtually-due-coronavirus-pandemic/6590716002/)
+
+
+> Welcome, techies! I'm Mike Snider, a tech reporter who, along with Brett Molina, will be filling Jefferson Graham's big shoes with the Talking Tech newsletter and podcast. In each edition, you'll get our take on the week's biggest tech news and developments. Just headlines you're looking for? Scroll down for the five biggest must-reads of the week. Talking CES The tech world will be focused on the CES trade show this week, as it officially kicks off Monday. Traditionally, the annual tech conference draws 150,000-plus to Las Vegas to see the latest and greatest gadgets, TVs, speakers and other products.
+
+
+***
+![Making protein out of thin air](https://images.axios.com/PsjKR4rBqHW76p7sYeLJwDENzk0=/0x0:1920x1080/1366x768/2021/01/09/1610204719703.jpg "Making protein out of thin air")
+
+
+[Making protein out of thin air](https://www.axios.com/technology-protein-food-consumers-9f1278bb-c681-4d78-8e83-5d67c55aa4dd.html)
+
+
+> A startup is working on technology that produces protein from the elements found in air. Why it matters: "The world will struggle to feed billions more people by mid-century without clearing more land for farming or livestock. Being able to generate nutrition protein with little more than energy and air could open the door to sustainable vertical farms. What's happening: On Thursday the startup Air Protein pulled in $32 million in a Series A fundraising round led by the corporate venture capital arm of ag giant Archer Daniels Midland.
+
+
+***
+[Came across a resourceful github repo for programming](https://www.reddit.com/r/Python/comments/ktt758/came_across_a_resourceful_github_repo_for/)
+
+
+> submitted by /u/Link_Worried [link] [comments]
+
+
