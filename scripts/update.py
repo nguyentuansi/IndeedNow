@@ -41,6 +41,7 @@ conn.request(
 res = conn.getresponse()
 data = json.loads(res.read().decode("utf-8"))
 original_stdout = sys.stdout  # Save a reference to the original standard output
+original_stdout_g = sys.stdout  # Save a reference to the original standard output
 
 # with open('log.txt', 'a') as f:
 #     sys.stdout = f  # Change the standard output to the file we created.
@@ -52,8 +53,11 @@ with open('README.md', 'a') as f:
     sys.stdout = f  # Change the standard output to the file we created.
     for article in data['articles']:
         if(check_if_string_in_file(article["_id"])):
-            with open('log.txt', 'a') as f:
+            with open('log.txt', 'a') as g:
+                sys.stdout = g  # Change the standard output to the file we created.
                 print(article["_id"])
+                sys.stdout = original_stdout_g  # Reset the standard output to its original value
+            sys.stdout = f  # Change the standard output to the file we created.
             print('![{}]({} "{}")'.format(article["title"],article["media"], article["title"]))
             print('[{}]({})'.format(article["title"],article["link"]))
             print('\n')
