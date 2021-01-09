@@ -137,3 +137,10 @@
 > Source: Jeramy Johnson / Android Central Like many of the best Android smartwatches, the best Fitbit wearables are chock-full of helpful features, with one of my personal favorites being Fitbit Pay. Fitbit Pay allows you to use your smartwatch to pay for things at stores that accept NFC, and it's an incredibly useful trick. Fitbit Pay is supported on older models like the Ionic and Charge 3, and newer wearables such as the Charge 4, Versa 2, Versa 3, and Sense. Not as many banks support Fitbit Pay compared to the likes of Google and Samsung Pay, but the list is growing all the time.
 
 
+***
+[Apple made $64 bn from App Store in Covid-hit 2020: Report](https://www.freepressjournal.in/technology/apple-made-64-bn-from-app-store-in-covid-hit-2020-report)
+
+
+> No body in the article.
+
+
