@@ -53,7 +53,6 @@ with open('README.md', 'a') as f:
     for article in data['articles']:
         if(check_if_string_in_file(article["_id"])):
             with open('log.txt', 'a') as f:
-                sys.stdout = f  # Change the standard output to the file we created.
                 print(article["_id"])
             print('![{}]({} "{}")'.format(article["title"],article["media"], article["title"]))
             print('[{}]({})'.format(article["title"],article["link"]))
