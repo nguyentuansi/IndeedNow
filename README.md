@@ -1174,3 +1174,53 @@
 > A few weeks back, we heard some speculation about a big change on the Switch eShop. Long story short, inside sources claimed that Nintendo had reformed some of their rules, and Switch games could no longer be put on sale for a penny or other insanely low prices. Nintendo was supposedly taking this step to stop devs from gaming the eShop to artificially boost their games up on the popular charts for better visibility. While Nintendo hasn't come out to say that they've employed this tactic, another developer has at least confirmed part of the story.
 
 
+***
+![AVIF support enabled by default in Firefox 86](https://bugzilla.mozilla.org/extensions/BMO/web/images/favicon.ico "AVIF support enabled by default in Firefox 86")
+
+
+[AVIF support enabled by default in Firefox 86](https://bugzilla.mozilla.org/show_bug.cgi?id=1682995)
+
+
+> Please enable JavaScript in your browser to use all the features on this site.
+
+
+***
+![The Best Email Software For You](https://goodmenproject.com/wp-content/uploads/2021/01/shutterstock_711609931-scaled-e1610144033163.jpg "The Best Email Software For You")
+
+
+[The Best Email Software For You](https://goodmenproject.com/technology/the-best-email-software-for-you/)
+
+
+> — In every digital marketing tool kit, email marketing is a fundamental unit. Email marketing paired with email automation will help keep consumers informed, monitor their consumer path, and improve revenue by operating from current contact lists to cultivate and engage new customers. Email newsletter popularity, which lets corporations and advertisers meet subscribers directly in their inboxes, helps guarantee that few blogs or social networking properties will have strong exposure and interaction.
+
+
+***
+![Parler reportedly removed posts by Trump affiliate Lin Wood calling for execution of VP Mike Pence](https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1207504013.jpg?w=600 "Parler reportedly removed posts by Trump affiliate Lin Wood calling for execution of VP Mike Pence")
+
+
+[Parler reportedly removed posts by Trump affiliate Lin Wood calling for execution of VP Mike Pence](https://techcrunch.com/2021/01/09/parler-reportedly-removed-posts-by-trump-affiliate-lin-wood-calling-for-execution-of-vp-mike-pence/)
+
+
+> It seems that even the 'free speech' social network Parler has its limits. The social network that has attracted scores of conservative commentators because of its commitment to free speech has taken down several posts from Trump affiliate Lin Wood, according to a report in Mediaite. In one of the posts removed from the social media platform, Wood called for the execution of Vice President Mike Pence . In a statement to Mediaite, Parler chief executive John Matze confirmed that the service had taken action against Wood's posts to the platform.
+
+
+***
+![Lifting Self-Imposed Restrictions on the U.S.-Taiwan Relationship](https://www.state.gov/wp-content/uploads/2020/11/S-and-SPOX-Featured-Comps_vFinal4-scaled.jpg "Lifting Self-Imposed Restrictions on the U.S.-Taiwan Relationship")
+
+
+[Lifting Self-Imposed Restrictions on the U.S.-Taiwan Relationship](https://www.state.gov/lifting-self-imposed-restrictions-on-the-u-s-taiwan-relationship/)
+
+
+> Taiwan is a vibrant democracy and reliable partner of the United States, and yet for several decades the State Department has created complex internal restrictions to regulate our diplomats, servicemembers, and other officials' interactions with their Taiwanese counterparts. The United States government took these actions unilaterally, in an attempt to appease the Communist regime in Beijing. No more. Today I am announcing that I am lifting all of these self-imposed restrictions.  Executive branch agencies should consider all 'contact guidelines' regarding relations with Taiwan previously issued by the Department of State under authorities delegated to the Secretary of State to be null and void.
+
+
+***
+![Japan Has Made A Car Mask That Filters & Destroys 99.9% Virus Droplets](https://im.indiatimes.in/content/2021/Jan/Facebook-Image-48_5ff42807bc4cd.jpg "Japan Has Made A Car Mask That Filters & Destroys 99.9% Virus Droplets")
+
+
+[Japan Has Made A Car Mask That Filters & Destroys 99.9% Virus Droplets](https://www.indiatimes.com/technology/news/japan-has-made-a-car-mask-that-filters-destroys-99-percent-virus-droplets-531180.html)
+
+
+> COVID-19 made face masks one of the most important things in our lives. And today it's something we cannot even step out without. And now, it looks like our cars too are going to get a face mask. HondaJapanese carmaker Honda has developed a novel air filter to prevent viruses from entering the car, as well as cleansing existing viruses in the air inside the vehicle. The filter is called Kurumaku which literally means ‘car mask'. The tech behind the filtration system is pretty cool too. It uses a zinc phosphate conversion system.
+
+
