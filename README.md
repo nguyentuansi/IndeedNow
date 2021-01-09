@@ -923,3 +923,50 @@
 > Despite being a great and flexible tool (proof of which is how long it's been around for!), I've always been a little frustrated by Make in two aspects: How cumbersome and opaque the grammar of Make is ($* $< $@?!) How hard it is to keep state (which usually ends up in having a recipe be a single long bash line with a lot of \s --- and that's ugly and hard to read.) Sane (sane-build in PyPI) is an attempt to create an alternative that incorporates the ideas of Make, but provides the full flexibility of Python in terms of writing logic.
 
 
+***
+![KFC launches game console that has built-in chicken warmer to keep food hot](https://www.thesun.co.uk/wp-content/uploads/2020/12/NINTCHDBPICT000627120703.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "KFC launches game console that has built-in chicken warmer to keep food hot")
+
+
+[KFC launches game console that has built-in chicken warmer to keep food hot](https://www.thesun.co.uk/tech/13555311/kfc-kfconsole-video-game-fried-chicken-heated-warm/)
+
+
+> KFC has launched a video game console that allows fans of the fast-food chain to keep their fried chicken warm while they play. The restaurant announced on Tuesday the KFConsole is a real thing – after fans speculated it was a prank back in June when they tweeted about it. KFC has created the gaming KFConsole Credit: KFC CNET reports that after the PlayStation 5 was revealed in June, KFC posted a video of its new gaming console online, saying the device was 'equipped with a chicken chamber" that included a 'red-hot grill.
+
+
+***
+![How to watch Bucs vs Washington live stream online anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/bucs-vs-washington.jpg "How to watch Bucs vs Washington live stream online anywhere")
+
+
+[How to watch Bucs vs Washington live stream online anywhere](https://www.androidcentral.com/tampa-bay-bucs-vs-washington-football-team-live-stream-how-watch-wildcard-weekend-live)
+
+
+> For the 2021 NFL Wildcard weekend, we have several great games, but one of the most surprising could be the Bucs vs Washington. We say that because Washington and its defense is playing at a high level and could give Tom Brady a run for his money. Here's how to watch the game live from anywhere. Honestly, the Buccaneers are probably the last team the Washington Football team wanted to face. They barely made wildcard weekend, have an iffy (7-9) record, but have won 5 of its last 7 games. Basically, they're really hot right now, confident, and aren't afraid to play anyone.
+
+
+***
+![Elon Musk's Starlink plots launch of internet satellites for rural Britain](https://www.telegraph.co.uk/content/dam/technology/2020/04/01/TELEMMGLPICT000228729091_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Elon Musk's Starlink plots launch of internet satellites for rural Britain")
+
+
+[Elon Musk's Starlink plots launch of internet satellites for rural Britain](https://www.telegraph.co.uk/technology/2021/01/09/elon-musks-starlink-plots-launch-internet-satellites-rural-britain/)
+
+
+> Elon Musk is laying the groundwork for an attack on the British broadband market after securing an Ofcom licence to install potentially thousands of satellite dishes across rural Britain. Starlink , the broadband satellite network founded by Mr Musk, received a licence late last year to install user terminals in Britain, an Ofcom spokesman confirmed. The US company has also set up a UK entity, Starlink Internet Services, and launched a limited trial of its rural broadband service as part of preparations that would see it compete with the Government-backed satellite venture OneWeb.
+
+
+***
+[Don't pay to learn SQLite with python! Just watch this free course of SQLite with python!!](https://www.reddit.com/r/Python/comments/ktydko/dont_pay_to_learn_sqlite_with_python_just_watch/)
+
+
+> Python is easy to use, powerful, and versatile, making it a great choice for beginners and experts alike. https://www.youtube.com/watchv=PLQH3ibZZrY&list=PLvEvqHS3UE8aQsguQqt8mydeXFa25mEm9 submitted by /u/Maleficent-Block-428 [link] [comments]
+
+
+***
+![Simple script to download spotify playlist from youtube](https://external-preview.redd.it/KBQMv_deBWg48VAGa-X73rFBl_0wHcwR6z-u33Js69I.jpg?auto=webp&s=7440992f2156420acb02b814f9e6a4a58e393a40 "Simple script to download spotify playlist from youtube")
+
+
+[Simple script to download spotify playlist from youtube](https://www.reddit.com/r/Python/comments/ktycrn/simple_script_to_download_spotify_playlist_from/)
+
+
+> https://github.com/ObronnaSosna/spotify-playlist-downloader So i wrote a simple script to download spotify playlists from youtube with metadata and cover arts. I couldn't find anything that does not require spotify api and embeds stuff in a way that could be used for downloading large playlists and in scripts for example ytmdl was choosing wrong metadata and filenames weren't unique. It uses youtube-dl and ffmpeg. It currently works on linux and macs (i think), but modifying it to work under windows should be easy.
+
+
