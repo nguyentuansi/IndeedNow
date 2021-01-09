@@ -317,3 +317,38 @@ Fetch Tech News with Python every 5 / 15 mins.
 > By Frud Bezhan January 08, 2021 For years, the Taliban's suicide bombers frequently struck high-profile political and security targets in Afghanistan's major cities. But in a marked shift, the Taliban is now targeting civilians -- government workers, journalists, rights activists, moderate religious leaders, and women in public roles -- in urban areas. The extremist group has reduced the number of indiscriminate, headline-grabbing suicide bombings it carries out. Instead, the militants are using so-called "sticky" bombs -- homemade magnetic bombs attached to vehicles and often detonated remotely -- to target specific individuals.
 
 
+![US judge overseeing Google case will sell mutual funds holding Alphabet stock](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/Google-AP.jpg?ve=1&tl=1 "US judge overseeing Google case will sell mutual funds holding Alphabet stock")
+[US judge overseeing Google case will sell mutual funds holding Alphabet stock](https://www.foxbusiness.com/technology/us-judge-overseeing-google-case-will-sell-mutual-funds-holding-alphabet-stock)
+
+
+> The federal judge hearing the U.S. Justice Department's antitrust case against  Google  said on Friday he directed his financial advisers to immediately sell mutual funds he owns that hold stock of the search engine's parent Alphabet Inc. Separately, Google said in a brief court filing that it would not ask for the case to be thrown out at an early stage based on procedural issues. GET FOX BUSINESS ON THE GO BY CLICKING HERE The company said its initial response to the October complaint, which was joined by a dozen state attorneys general, would be filed by Feb.
+
+
+![GitDuck (YC S20) Is Hiring a Product Engineer](https://www.notion.so/images/meta/default.png "GitDuck (YC S20) Is Hiring a Product Engineer")
+[GitDuck (YC S20) Is Hiring a Product Engineer](https://www.notion.so/gitduck/Product-Engineer-599ce7e227a34d3bb91f695295d69dc5)
+
+
+> 
+
+
+![10 Strange Facts About Atomic Clocks](https://cdn.hswstatic.com/gif/10-atomic-clock-1.jpg "10 Strange Facts About Atomic Clocks")
+[10 Strange Facts About Atomic Clocks](https://electronics.howstuffworks.com/gadgets/clocks-watches/10-strange-facts-about-atomic-clocks.htm)
+
+
+> The term "atomic clock" may conjure up scary, 1950s-horror movie mental images: A Doomsday device, constructed by a lab coat-wearing maniac in a mountain fortress, is ticking away the seconds before it wipes out our entire planet. In reality, though, atomic clocks are one of the more benign inventions to emerge from the explosion -- oops, maybe not the best word choice -- of knowledge about the workings of the atom and its parts. That knowledge came in the wake of the World War II Manhattan Project to develop the atomic bomb.
+
+
+![Farewell, @realDonaldTrump: Looking back at the Twitter account's provocative history](https://www.gannett-cdn.com/presto/2021/01/08/USAT/99d551e4-5802-4f25-94db-05a63405529b-AP21006687599671.jpg?crop=3307,1860,x1013,y740&width=3200&height=1680&fit=bounds "Farewell, @realDonaldTrump: Looking back at the Twitter account's provocative history")
+[Farewell, @realDonaldTrump: Looking back at the Twitter account's provocative history](https://www.usatoday.com/story/tech/2021/01/08/president-donald-trump-twitter-account-history/6607069002/)
+
+
+> CLOSE President Trump's final Tweet read, 'To all of those who have asked, I will not be going to the Inauguration on January 20th.' USA TODAY WASHINGTON — @realDonaldTrump, the Twitter feed that grew from the random musings of a reality TV star into the cudgel of an American president, died Friday. It was not quite 12 years old. The provocative handle was given birth by a New York real estate tycoon who used it to help him become the 45th U.S. president. It began with a May 4, 2009, tweet promoting Donald Trump's upcoming appearance on David Letterman's show.
+
+
+![MacBook Air with mini-LED to release in 2022: Report](None "MacBook Air with mini-LED to release in 2022: Report")
+[MacBook Air with mini-LED to release in 2022: Report](https://www.freepressjournal.in/technology/macbook-air-with-mini-led-to-release-in-2022-report)
+
+
+> 
+
+
