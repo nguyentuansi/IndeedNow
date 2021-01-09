@@ -504,3 +504,40 @@
 > We may earn a commission for purchases using our links. Learn more. Who doesn't love freebies? Order 85 prints, one photo book, one photo tile, and a photo gift for "free" every month. 9 Jan 2021 Source: Karen S. Freeman / iMore FreePrints online photo printing service is utterly unlike the others out there. It has an interesting model that offers tons of freebies including some of the best photo books; you only pay for shipping and extras. It's a better photo printing service in some ways and worse in others, but it might be your perfect fit if you're the target audience.
 
 
+***
+![How Congress Can Permanently Disqualify Trump From Office After Impeachment](https://cdn.vox-cdn.com/thumbor/CPq7qSg0uJshAq3Q6DXCKbVDl8o=/0x290:3000x1861/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22222405/GettyImages_1230458006.jpg "How Congress Can Permanently Disqualify Trump From Office After Impeachment")
+
+
+[How Congress Can Permanently Disqualify Trump From Office After Impeachment](https://www.vox.com/22220495/impeachment-trump-2024-election-bar-from-office)
+
+
+> Well, it's happening. Friday morning, Assistant House Speaker Katherine Clark (D-MA) told CNN's John Berman that the House is moving toward holding an impeachment vote on President Donald Trump by the middle of next week. Three Democratic representatives, meanwhile, are circulating articles of impeachment focusing on Trump's incitement of an insurrection that briefly occupied the United States Capitol on Wednesday. The articles also highlight a call between Trump and Georgia Secretary of State Brad Raffensperger (R), where Trump urged Raffensperger to 'find' enough votes to overturn President-elect Joe Biden's victory in Georgia.
+
+
+***
+![Here's how to watch the Rams vs Seahawks Wild Card game online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/seahawksrams.jpg "Here's how to watch the Rams vs Seahawks Wild Card game online")
+
+
+[Here's how to watch the Rams vs Seahawks Wild Card game online](https://www.androidcentral.com/los-angeles-rams-vs-seattle-seahawks-how-watch-week-18-nfl-wildcard)
+
+
+> The Los Angeles Rams have had a respectable season, most of the time the team to be feared, but going into this wildcard weekend, they are on the other end of the stick. The Rams will have to battle back Russell Wilson and the Seahawks to advance to the next stage. Making things tougher for the Rams is the fact that QB Jared Goff has a thumb injury that might keep him from performing at 100%. It's unclear whether backup quarterback John Wolford will make an appearance in the game or possibly even start for Goff.
+
+
+***
+[WhatsApp or Signal? Here's how the privacy policy of the two apps compare](https://www.freepressjournal.in/technology/whatsapp-or-signal-heres-how-the-privacy-policy-of-the-two-apps-compare)
+
+
+> No body in the article.
+
+
+***
+![Who is underpricing Roblox?](https://techcrunch.com/wp-content/uploads/2020/07/equity-podcast-2019-phone.jpg?w=711 "Who is underpricing Roblox?")
+
+
+[Who is underpricing Roblox?](https://techcrunch.com/2021/01/09/who-is-underpricing-roblox/)
+
+
+> Natasha Mascarenhas Alex Wilhelm 8 hours Hello and welcome back to Equity, TechCrunch's venture-capital-focused podcast, where we unpack the numbers behind the headlines. We're back on this lovely Saturday with a bonus episode! The normal crew assembled, including Alex, Natasha, Danny, and Chris, to chatter about a chunk of creator and gamer news. And some big numbers, the sorts that we always find fun to chat about. A sneak peek at what we discussed during this second-ever Equity Leftovers: Roblox's epic pre-IPO raise, and its decision to go public through direct listing instead of the IPO that it had previously planned.
+
+
