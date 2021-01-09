@@ -484,3 +484,23 @@
 > On 6 January 2021, 53 people were arrested in Hong Kong under the National Security Law, including the organisers and candidates in last July's democratic primaries where over 600,000 Hong Kongers voted for pro-democracy candidates for the upcoming Legislative Council elections. On the morning of 6 January, 1,000 national security officers and police officers arrested 53 people and searched 77 places, including homes, offices, and 4 media companies which were serviced with orders to hand over materials related to the case.
 
 
+***
+![Twitter warns of new plans for violence, brewing again on social media, as reason for Trump ban](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TLRFRPCRKII6XIPV7WXSRT6KSA.jpg&w=1440 "Twitter warns of new plans for violence, brewing again on social media, as reason for Trump ban")
+
+
+[Twitter warns of new plans for violence, brewing again on social media, as reason for Trump ban](https://www.washingtonpost.com/technology/2021/01/09/trump-twitter-protests/?utm_source=rss)
+
+
+> Calls for widespread protests on the days leading up to the inauguration of President-elect Joe Biden have been rampant online for weeks. These demonstrations are scheduled to culminate with what organizers have dubbed a 'Million Militia March' on January 20 itself, as Biden and Vice President-elect Kamala D. Harris are to be sworn in on the same Capitol grounds that rioters overran on Wednesday. As with the online chatter ahead of that assault on the Capitol, these calls to action have bristled with violent talk and vows to bring guns to Washington in defiance of the city's strict weapons laws.
+
+
+***
+![Review: FreePrints Photo Printing is a great way to get your photos printed](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/07/freeprints-photo-printing-hero.jpeg "Review: FreePrints Photo Printing is a great way to get your photos printed")
+
+
+[Review: FreePrints Photo Printing is a great way to get your photos printed](https://www.imore.com/freeprints-photo-printing-review)
+
+
+> We may earn a commission for purchases using our links. Learn more. Who doesn't love freebies? Order 85 prints, one photo book, one photo tile, and a photo gift for "free" every month. 9 Jan 2021 Source: Karen S. Freeman / iMore FreePrints online photo printing service is utterly unlike the others out there. It has an interesting model that offers tons of freebies including some of the best photo books; you only pay for shipping and extras. It's a better photo printing service in some ways and worse in others, but it might be your perfect fit if you're the target audience.
+
+
