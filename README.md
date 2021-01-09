@@ -628,3 +628,33 @@
 > submitted by /u/Link_Worried [link] [comments]
 
 
+***
+![Apple made $64 bn from App Store in Covid-hit 2020: Report](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/app-store-483x271_1200_210109182328.png "Apple made $64 bn from App Store in Covid-hit 2020: Report")
+
+
+[Apple made $64 bn from App Store in Covid-hit 2020: Report](https://www.indiatoday.in/technology/news/story/apple-made-64-bn-from-app-store-in-covid-hit-2020-report-1757478-2021-01-09)
+
+
+> In 2019, the App Store brought in an estimated revenue of $50 billion. Akarsh Verma | January 9, 2021 | Updated 18:14 IST
+
+
+***
+![Review: CYRILL Cecile iPhone cases let you add a fun look for less](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/cyrill-cecille-iphone-case-iphone-12-mini-hero.jpeg "Review: CYRILL Cecile iPhone cases let you add a fun look for less")
+
+
+[Review: CYRILL Cecile iPhone cases let you add a fun look for less](https://www.imore.com/cyrill-cecile-iphone-case-review)
+
+
+> Source: Karen S. Freeman / iMore CYRILL, in association with Spigen, makes some of the best iPhone cases out there with colorful, fun, and trendy designs. My favorite CYRILL case is the Cecile series, which includes a number of eye-catching floral patterns. The hard PC back and flexible TPU bumper make for a protective case that isn't terribly bulky. It fits beautifully and is easy to put on and take off. Wireless charging works fine, and it is compatible with Apple's MagSafe charger. Bottom line: CYRILL offers price, good looks, and protection in a slim profile case.
+
+
+***
+![Only one Oculus headset is worth buying these days, so which is it?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/oculus-quest-2-vs-rift-s-split.jpg "Only one Oculus headset is worth buying these days, so which is it?")
+
+
+[Only one Oculus headset is worth buying these days, so which is it?](https://www.androidcentral.com/oculus-quest-2-vs-oculus-rift-s)
+
+
+> The best of both worlds Oculus Quest 2 A dying breed Oculus Rift S The Oculus Quest 2 represents a true vision for the future of VR from Facebook. It can be used by itself thanks to the powerful Snapdragon XR2 chipset inside, sports the highest resolution display, and has the best built-in speakers on any Oculus headset. It can be optionally used as a PC VR headset and requires no external sensors for room scale tracking. From $299 at Amazon Pros Can be used standalone or with a PC Very high-resolution display Doesn't require external sensors for tracking Modular design with interchangeable pads Hand tracking support Lots of developer support Cons Only 2-3 hour battery life Requires a Facebook account The Oculus Rift S was an interesting upgrade over the original Oculus Rift.
+
+
