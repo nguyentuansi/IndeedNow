@@ -87,3 +87,53 @@
 > Mar 10, 2004 14,029 517 Bergen, Norway I'm in the process of replacing my TV set up, and get a 4K TV. Currently I have a 42" Toshiba 1080 TV, Apple TV 4 HD and Denon CEOL Piccolo, and I'm planning to replace all of them. Now, technology has definitively moved forward since I got any of the stuff above (and especially since I got the TV i 2009), so I'm a bit uncertain what my best options are. To get the sound from the Apple TV out, I'm currently using Airplay to the Piccolo, which works OK (lip sync is fine, but there's a picture and sound delay, which is annoying when pausing/restarting), so I want to have wired set up from now on.
 
 
+***
+![Crash with Antlia 2 gave the Milky Way the ripples in its outer disc](https://scx2.b-cdn.net/gfx/news/2019/2-newevidences.jpg "Crash with Antlia 2 gave the Milky Way the ripples in its outer disc")
+
+
+[Crash with Antlia 2 gave the Milky Way the ripples in its outer disc](https://phys.org/news/2019-06-evidence-antlia-gave-milky-ripples.html)
+
+
+> A group of scientists led by RIT Assistant Professor Sukanya Chakrabarti believe that the dark dwarf galaxy Antlia 2's collision with the Milky Way hundreds of millions of years ago is responsible for our galaxy's characteristic ripples in its outer disc. Credit: Sukanya Chakrabarti/RIT The newly-discovered dark dwarf galaxy Antlia 2's collision with the Milky Way may be responsible for our galaxy's characteristic ripples in its outer disc, according to a study led by Rochester Institute of Technology Assistant Professor Sukanya Chakrabarti.
+
+
+***
+![Samsung Galaxy S21 launch: five things we expect to see](https://cdn.mos.cms.futurecdn.net/CpZZBzs2hjCkWYSLQmtUgH-1200-80.jpg "Samsung Galaxy S21 launch: five things we expect to see")
+
+
+[Samsung Galaxy S21 launch: five things we expect to see](https://www.techradar.com/news/samsung-galaxy-s21-launch-five-things-we-expect-to-see)
+
+
+> We're expecting several devices and a few surprises when the Samsung Galaxy S21 phones launch on January 14 during CES 2021. We've heard plenty of rumors about the phones, so we have a good idea of what we could see from them – but there's always the chance that Samsung completely surprises us with new products.Wait, new flagship Samsung phones at CES? Yes, Samsung is announcing its phones over a month earlier than it usually does in late February to coincide with the smartphone-focused Mobile World Congress show.
+
+
+***
+![Mi QLED TV 4K 55 review: Punchy, vibrant, and sounding good](https://www.thehindubusinessline.com/specials/technophile/ueazld/article33534632.ece/ALTERNATES/LANDSCAPE_615/IMG-0167 "Mi QLED TV 4K 55 review: Punchy, vibrant, and sounding good")
+
+
+[Mi QLED TV 4K 55 review: Punchy, vibrant, and sounding good](https://www.thehindubusinessline.com/specials/technophile/mi-qled-tv-4k-55-punchy-vibrant-and-sounding-good/article33534634.ece)
+
+
+> Xiaomi seems to have the pulse of the Indian market. From a soap dispenser to a 4K TV, they seem to have it all. The products are popular, well-built and designed and very affordable. The Mi QLED TV 4K 55 (yes, it is quite the mouthful) is no exception. The 55 does indicate the size of the screen and there is no variant in this, just a single model. The Mi QLED TV is quite attractive looking. It has a metallic bezel-less design which screams premium. While it does not ship with a wall-mount, it does come with metallic legs which form a very steady stand.
+
+
+***
+![Donald Trump Sees Digital Downfall in US Capitol Violence Aftermath](https://i.gadgets360cdn.com/large/Trump_1610191141063.png "Donald Trump Sees Digital Downfall in US Capitol Violence Aftermath")
+
+
+[Donald Trump Sees Digital Downfall in US Capitol Violence Aftermath](https://gadgets.ndtv.com/social-networking/news/donald-trump-banned-facebook-twitter-instagram-parler-suspended-snapchat-reddit-disabled-us-capitol-violence-joe-biden-2350078)
+
+
+> Donald Trump faced quite a lot of backlash following violent protest at the US Capitol by Trump supporters. The event, that disrupted the Electoral College debate and lead to the death of five people, was said to have been instigated by Trump's social media messages ever since the November presidential election. As a result, Trump's social media accounts on Twitter, Facebook, and Snapchat have been removed, right-leaning social media app Parler has been suspended from Google Play, and pro-Trump subreddit ‘r/DonaldTrump' has been blocked by Reddit.
+
+
+***
+![Fitbit Pay Banks: Where it's supported, and what countries](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/01/pxl_20210108_171318870_1.jpg "Fitbit Pay Banks: Where it's supported, and what countries")
+
+
+[Fitbit Pay Banks: Where it's supported, and what countries](https://www.androidcentral.com/fitbit-pay-bank-list)
+
+
+> Source: Jeramy Johnson / Android Central Like many of the best Android smartwatches, the best Fitbit wearables are chock-full of helpful features, with one of my personal favorites being Fitbit Pay. Fitbit Pay allows you to use your smartwatch to pay for things at stores that accept NFC, and it's an incredibly useful trick. Fitbit Pay is supported on older models like the Ionic and Charge 3, and newer wearables such as the Charge 4, Versa 2, Versa 3, and Sense. Not as many banks support Fitbit Pay compared to the likes of Google and Samsung Pay, but the list is growing all the time.
+
+
