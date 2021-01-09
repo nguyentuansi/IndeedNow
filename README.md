@@ -447,3 +447,40 @@
 > Peloton has long been the biggest name in instructor-led home workouts, but now Apple Fitness Plus is offering a very similar service for a similar fee. So what are the differences, and which one is best for you?Gym memberships usually skyrocket at the start of a new year. Coronavirus has changed all that though, with many of us looking at other ways to rid ourselves of the extra weight we've gained due to all that festive excess.If you want to bypass going to a gym and have been looking at alternative ways to get more exercise in or around your home then both Apple Fitness Plus and Peloton make obvious places to start.
 
 
+***
+![The Controversy Over Sean Hannity's Olive Garden Pasta Pass, Explained](https://cdn.vox-cdn.com/thumbor/MFmNyHW3TUgH5bw7_NlJtwY_5VM=/0x376:5000x2994/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22224044/GettyImages_1091589150.jpg "The Controversy Over Sean Hannity's Olive Garden Pasta Pass, Explained")
+
+
+[The Controversy Over Sean Hannity's Olive Garden Pasta Pass, Explained](https://www.vox.com/the-goods/2021/1/9/22221975/sean-hannity-olive-garden-pasta-pass-explained)
+
+
+> On the evening of January 8, as his dear friend President Donald Trump was being locked out of Twitter, Fox News host Sean Hannity ran a teaser for an unusual upcoming segment, promising to address a pressing problem about pasta. In the clip, Hannity tells his audience to stay tuned for a discussion about 'a blue check tweet' that claims he lost his LifeTime Pasta Pass from popular American chain restaurant Olive Garden. 'We've looked into that, we'll tell you what that's about,' he assures them.
+
+
+***
+[lightkube 0.6.0 - kubernetes client](https://www.reddit.com/r/Python/comments/ktrwyj/lightkube_060_kubernetes_client/)
+
+
+> I'm pleased to announce a new release of lightkube, a kubernetes client for python: https://github.com/gtsystem/lightkube What's new: Support for Kubernetes 1.20 Support for fetching Pod logs Compatibility with python 3.9 Highlights Simple interface shared across all kubernetes APIs. Extensive type hints to avoid common mistakes and to support autocompletion. Models and resources generated from the swagger specifications using standard dataclasses. Support for async/await.
+
+
+***
+![Instant Pot Duo Evo Plus 60 review](https://cdn.mos.cms.futurecdn.net/SHEjpEwFV29CrarLSqgWTK-1200-80.jpg "Instant Pot Duo Evo Plus 60 review")
+
+
+[Instant Pot Duo Evo Plus 60 review](https://www.techradar.com/reviews/instant-pot-duo-evo-plus-60-review)
+
+
+> Founded in Canada in 2010, Instant Pots have been growing in popularity worldwide ever since, thanks to their multi-cooker capabilities that cover everything from traditional pressurised recipes to yoghurt, cake baking and sous vide. Instant Pot's appeal is broad, meaning recipes for specific models are easy to come by online, and other machines on the market compete with its startling array of cooking modes. While rivals can often perform slow cooking or pressure cooking well, the Instant Pot is known for delivering exceptional results for both methods.
+
+
+***
+![Chris Patten: Mass arrests of Hong Kong Democrats [on Jan 6 2021]](http://static1.squarespace.com/static/58ecfa82e3df284d3a13dd41/59dddb8b80bd5ee908752b3f/5ff5869b92a257639ecddcc5/1609930899472/6DAE36ZSTGNWBVE33FWFFWIAY4.jpg?format=1500w "Chris Patten: Mass arrests of Hong Kong Democrats [on Jan 6 2021]")
+
+
+[Chris Patten: Mass arrests of Hong Kong Democrats [on Jan 6 2021]](https://www.hongkongwatch.org/all-posts/2021/1/6/chris-patten-mass-arrests-of-hong-kong-democrats-shows-why-eu-parliament-must-reject-china-investment-agreement)
+
+
+> On 6 January 2021, 53 people were arrested in Hong Kong under the National Security Law, including the organisers and candidates in last July's democratic primaries where over 600,000 Hong Kongers voted for pro-democracy candidates for the upcoming Legislative Council elections. On the morning of 6 January, 1,000 national security officers and police officers arrested 53 people and searched 77 places, including homes, offices, and 4 media companies which were serviced with orders to hand over materials related to the case.
+
+
