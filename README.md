@@ -282,3 +282,38 @@ Fetch Tech News with Python every 5 / 15 mins.
 > (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Signal and Telegram messaging apps are seeing a sudden increase in demand after larger rival WhatsApp's updated terms of service raised eyebrows on social media.WhatsApp, which uses Signal's encryption technology, laid out fresh terms on Wednesday, asking users to agree to let owner Facebook Inc and its subsidiaries collect user data, including their phone number and location.Also Read | Consumers prefer messaging apps with privacy features to ensure safety, report saysSome privacy activists questioned the "accept our data grab or get out" move on Twitter, and suggested users to switch to apps like Signal and Telegram.
 
 
+![MacBook Air with mini-LED to release in 2022: Report](None "MacBook Air with mini-LED to release in 2022: Report")
+[MacBook Air with mini-LED to release in 2022: Report](https://www.freepressjournal.in/technology/macbook-air-with-mini-led-to-release-in-2022-report)
+
+
+> 
+
+
+![Analysis: Apple's App Store grossed an estimated $64B+ in 2020, up 28% from an estimated $50B in 2019 and $48.5B in 2018 (Kif Leswing/CNBC)](None "Analysis: Apple's App Store grossed an estimated $64B+ in 2020, up 28% from an estimated $50B in 2019 and $48.5B in 2018 (Kif Leswing/CNBC)")
+[Analysis: Apple's App Store grossed an estimated $64B+ in 2020, up 28% from an estimated $50B in 2019 and $48.5B in 2018 (Kif Leswing/CNBC)](http://www.techmeme.com/210109/p2#a210109p2)
+
+
+> Kif Leswing / CNBC: Analysis: Apple's App Store grossed an estimated $64B+ in 2020, up 28% from an estimated $50B in 2019 and $48.5B in 2018 — - Apple's App Store grossed more than $64 billion in 2020, according to an analysis by CNBC. — That's up from an estimated $50 billion in 2019 and $48.5 billion in 2018 …
+
+
+![Trump without Twitter: Will he move to the 'Trumpnet'?](https://ca-times.brightspotcdn.com/dims4/default/18d976a/2147483647/strip/true/crop/410x215+35+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F24%2Fa7e352ca7e6bcdc466c25b0d9fa5%2Fla-pol-trump-tweet-20170530 "Trump without Twitter: Will he move to the 'Trumpnet'?")
+[Trump without Twitter: Will he move to the 'Trumpnet'?](https://www.latimes.com/business/technology/story/2021-01-08/trump-without-twitter-will-he-move-to-the-trumpnet)
+
+
+> Parler. Gab. Rumble. MeWe. DLive. Over the last four years, a small constellation of newish social media sites and web platforms has found favor with those on the political right who see the heavy hand of censorship in Facebook and Twitter's tightening policies against hate speech and violent rhetoric. Now, with President Trump 'permanently suspended' from Twitter and indefinitely locked out of Facebook in the final days of his presidency, this fringe ecosystem — call it the Trumpnet — may be poised to break into the mainstream.
+
+
+![2019 iMac 27' fan issues](https://images.macrumors.com/social/?t=2279399&v=6 "2019 iMac 27' fan issues")
+[2019 iMac 27' fan issues](https://forums.macrumors.com/threads/2019-imac-27-fan-issues.2279399/)
+
+
+> I have a base model 2019 27' iMac (A2115) upgraded to 40MB RAM, but otherwise not messed with. Lately the fan has been running loudly non-stop. I downloaded the Fanny app to check the fan speed and CPU temp, and the fan is running at like 3400RPM non-stop, but the CPU temp only ever peaks at like 51C. I have tried resetting the SMC about 100 times and it never works, so the simple solution is unfortunately off the table. Ran diagnostics and returned an error code of PPF003, which apparently means 'fan test failed (low speed)'.
+
+
+!['Psychological Warfare': Taliban Adopts New Strategy In Afghanistan](http://www.globalsecurity.org/images/temp/one-billion-americans.jpg "'Psychological Warfare': Taliban Adopts New Strategy In Afghanistan")
+['Psychological Warfare': Taliban Adopts New Strategy In Afghanistan](http://www.globalsecurity.org/military/library/news/2021/01/mil-210108-gandhara01.htm)
+
+
+> By Frud Bezhan January 08, 2021 For years, the Taliban's suicide bombers frequently struck high-profile political and security targets in Afghanistan's major cities. But in a marked shift, the Taliban is now targeting civilians -- government workers, journalists, rights activists, moderate religious leaders, and women in public roles -- in urban areas. The extremist group has reduced the number of indiscriminate, headline-grabbing suicide bombings it carries out. Instead, the militants are using so-called "sticky" bombs -- homemade magnetic bombs attached to vehicles and often detonated remotely -- to target specific individuals.
+
+
