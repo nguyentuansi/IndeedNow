@@ -171,3 +171,44 @@
 > Source: Jerry Hildenbrand / Android Central It's the middle of the afternoon on a Friday and I'm typing this out on my back deck using a Chromebook. I love the darn things and any time I can get away from a desk during the workday I try to do it, and always with a Chromebook in tow. To me, a really well-built mid-range Chromebook with plenty of power and plenty of storage is just right. Of course, the best Chromebook for me might not be the best Chromebook for you. But if you're like me and want a modestly priced Chromebook that outperforms and out delivers, I think Acer has just what you're looking for in 2021 with the new Chromebook Spin 514.
 
 
+***
+[7 Best Anime Torrent Sites In 2021 [100% Working]](https://fossbytes.com/best-anime-torrent-sites/)
+
+
+> There’s no denying that 2020 brought a zillion problems with it, primarily the Coronavirus which forced us to stay indoors for months. But on the bright side, the year also witnessed a massive growth in the number of anime viewers looking for the best anime torrent sites to download anime. While we don’t endorse illegal […] The post 7 Best Anime Torrent Sites In 2021 [100% Working] appeared first on Fossbytes.
+
+
+***
+[Suzuki Jimny India Launch Tipped for  July 2021; Check Variants](https://www.thequint.com/tech-and-auto/suzuki-jimny-india-production-begins-check-variants-launch-date)
+
+
+> It has been rumoured that Suzuki will be looking to make a five-door variant of the Jimny for the Indian market.
+
+
+***
+[Switch from WhatsApp to Signal! This is what world's richest man, Elon Musk, is saying after controversy spirals](https://www.zeebiz.com/technology/apps/news-switch-from-whatsapp-to-signal-this-is-what-worlds-richest-man-elon-musk-is-saying-after-controversy-spirals-145553)
+
+
+> Many disappointed WhatsApp users also took to social media platforms such as Twitter and Facebook and criticized Facebook-owned Whatsapp over its new policy.
+
+
+***
+![An Air Force Combat Veteran Breached The Senate And Entered Nancy Pelosi's Office Suite](https://media.newyorker.com/photos/5ff8f06eca0b433c495ffd37/16:9/w_1280,c_limit/Ronan-Capitol.jpg "An Air Force Combat Veteran Breached The Senate And Entered Nancy Pelosi's Office Suite")
+
+
+[An Air Force Combat Veteran Breached The Senate And Entered Nancy Pelosi's Office Suite](https://www.newyorker.com/news/news-desk/an-air-force-combat-veteran-breached-the-senate)
+
+
+> As insurrectionists stormed the U.S. Capitol this week, a few figures stood out. One man, clad in a combat helmet, body armor, and other tactical gear, was among the group that made it to the inner reaches of the building. Carrying zip-tie handcuffs, he was captured in photographs and videos on the Senate floor and with a group that descended on Speaker Nancy Pelosi's office suite. In a video shot by ITV News, he is seen standing against a wall adjacent to Pelosi's office, his face covered by a bandana.
+
+
+***
+![Rioters who stormed US Capitol now face backlash at work](https://apicms.thestar.com.my/uploads/images/2021/01/09/1002280.jpg "Rioters who stormed US Capitol now face backlash at work")
+
+
+[Rioters who stormed US Capitol now face backlash at work](https://www.thestar.com.my/tech/tech-news/2021/01/09/rioters-who-stormed-us-capitol-now-face-backlash-at-work)
+
+
+> NEW YORK: A printing company in Maryland saw the photo on Twitter Wednesday night: an employee roaming the halls of the US Capitol with a company badge around his neck. He was fired the next day. Others are facing similar repercussions at work for their participation in Wednesday's riot at the US Capitol. Some business owners are being trashed on social media and their establishments boycotted, while rank-and-file employees at other businesses have been fired. The printing company, Navistar Direct Marketing, declined to name the worker but said it can't offer employment to people 'demonstrating dangerous conduct that endangers the health and safety of others'.
+
+
