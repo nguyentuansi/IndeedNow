@@ -17,6 +17,7 @@ def setup_custom_logger(name):
     logger.addHandler(screen_handler)
     return logger
 
+
 logger = setup_custom_logger('mysite')
 logger.info('File updated!')
 
@@ -25,24 +26,25 @@ conn = http.client.HTTPSConnection("newscatcher.p.rapidapi.com")
 headers = {
     'x-rapidapi-key': "17b22fda86msh2dc480f3f737cdap16a605jsn15b1d0d7f2f7",
     'x-rapidapi-host': "newscatcher.p.rapidapi.com"
-    }
+}
 
-conn.request("GET", "/v1/latest_headlines?topic=tech&lang=en&media=True", headers=headers)
+conn.request(
+    "GET", "/v1/latest_headlines?topic=tech&lang=en&media=True", headers=headers)
 
 res = conn.getresponse()
 
 data = json.loads(res.read().decode("utf-8"))
 
 
-original_stdout = sys.stdout # Save a reference to the original standard output
+original_stdout = sys.stdout  # Save a reference to the original standard output
 
 with open('log.txt', 'a') as f:
-    sys.stdout = f # Change the standard output to the file we created.
+    sys.stdout = f  # Change the standard output to the file we created.
     print("******************************************")
-    for article in data['articles']:       
-        print(article["title"])        
+    for article in data['articles']:
+        print(article["title"])
         print(article["summary"])
-        print(article["link"])        
+        print(article["link"])
         print("---------------------")
-    print("******************************************")        
-    sys.stdout = original_stdout # Reset the standard output to its original value
+    print("******************************************")
+    sys.stdout = original_stdout  # Reset the standard output to its original value
