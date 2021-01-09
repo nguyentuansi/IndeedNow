@@ -829,3 +829,50 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hello all! I have a 2009 (20inch) and a 2017(21.5 in) imac and I'm hoping that there is a possibility of running both off an external SSD. Is this possible? I will have the two computers at two locations (home/work). I'm switching to an external SSD for speed on the 2017 regardless, but just curious if the SSD would work with both. Thanks for any help/advice on this! You must log in or register to reply here.
 
 
+***
+![Can we make conditional functions in Numbers?](https://images.macrumors.com/social/?t=2279484&v=6 "Can we make conditional functions in Numbers?")
+
+
+[Can we make conditional functions in Numbers?](https://forums.macrumors.com/threads/can-we-make-conditional-functions-in-numbers.2279484/)
+
+
+> May 5, 2003 1,626 61 Québec Hello, Very new to Numbers. If there a way to do conditional functions? For example, can I program a cell to become shaded in red if the value in it drop below a certain level? Thanks.
+
+
+***
+![I make videos of silly game-related Python projects and post the source code.](https://external-preview.redd.it/nV8_5hwVsqwNHPWjdaPWWIWoTqooHQnVCf1LXfqv1UE.jpg?auto=webp&s=c40f1b36b59931ec6e7f3d693405505158401584 "I make videos of silly game-related Python projects and post the source code.")
+
+
+[I make videos of silly game-related Python projects and post the source code.](https://www.reddit.com/r/Python/comments/ktxchj/i_make_videos_of_silly_gamerelated_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Workers demand Amazon Web drop Parler over posts ‘inciting violence' after Capitol riot](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/John-matze-parler.jpg?ve=1&tl=1 "Workers demand Amazon Web drop Parler over posts ‘inciting violence' after Capitol riot")
+
+
+[Workers demand Amazon Web drop Parler over posts ‘inciting violence' after Capitol riot](https://www.foxbusiness.com/technology/after-capitol-riot-amazon-employees-demand-aws-stop-hosting-parler-for-posts-inciting-violence)
+
+
+> Some Amazon employees are calling on the company to be the next tech giant to cut off the controversial social media platform Parler. The group Amazon Employees for Climate Justice posted a tweet overnight demanding that 'Amazon deny Parler services until it removes posts inciting violence, including at the Presidential inauguration.' 'We cannot be complicit in more bloodshed and violent attacks on democracy,' they wrote. COMPANIES EXAMINE CAPITOL RIOT FOR SECURITY LESSONS AWS's acceptable-use policy bars customers from using its services for 'illegal, harmful or offensive' content.
+
+
+***
+![The next Zoom wants to be nothing like Zoom](https://techcrunch.com/wp-content/uploads/2020/09/zoom-glitch1.jpg?w=712 "The next Zoom wants to be nothing like Zoom")
+
+
+[The next Zoom wants to be nothing like Zoom](https://techcrunch.com/2021/01/09/the-next-zoom-wants-to-be-nothing-like-zoom/)
+
+
+> Want this newsletter in your inbox every Saturday morning? Sign up here. In the past few months, there hasn't been one conversation I've had about remote work that doesn't include a mention of Hopin, a virtual events platform last valued at $2.1 billion. For a company only a little older than a year, Hopin has a wild growth story. It grew its ARR from $0 to $20 million in nine months. It scooped up two businesses to differentiate its business, including StreamYard for $250 million just this week.
+
+
+***
+[Competitive party game "Unspottable" comes to Switch on Jan. 21st, 2021](https://gonintendo.com/stories/375138-competitive-party-game-unspottable-comes-to-switch-on-jan-21st)
+
+
+> Looking for something to play on Switch with your local multiplayer buds? Unspottable is coming to Switch on Jan. 21st, 2021, and it could be the perfect fit. The title is priced at $12, and you can read all about it below. Unspottable is a competitive couch party game for two to four players. Blend in the crowd of AI characters, hunt down the other players and use the many different environment specific rules to win the game. Fun for everyone: Simple controls: easy to learn, hard to master.
+
+
