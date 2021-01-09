@@ -35,3 +35,10 @@
 > 
 
 
+![Twitter is the latest social network to ban Donald Trump](https://cdn.mos.cms.futurecdn.net/Wo7CK7ieufnbQzZxqTxXJF-1200-80.jpg "Twitter is the latest social network to ban Donald Trump")
+[Twitter is the latest social network to ban Donald Trump](https://www.techradar.com/news/twitter-is-the-latest-social-network-to-ban-donald-trump)
+
+
+> (Image credit: Twitter) After an initial 12-hour block issued in the wake of Wednesday's storming of the US Capitol building, Twitter has now suspended Donald Trump's personal @realDonaldTrump account permanently, "due to the risk of further incitement of violence".The outgoing US President had already been kicked off Facebook and Instagram for an indefinite period, with Facebook boss Mark Zuckerberg saying that Trump was using the platforms "to incite violent insurrection against a democratically elected government".
+
+
