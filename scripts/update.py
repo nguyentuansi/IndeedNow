@@ -66,7 +66,7 @@ with open('README.md', 'a') as f:
                 print('\n')
                 print('[{}]({})'.format(article["title"],article["link"]))
             print('\n')
-            if(article["summary"] is None):
+            if(article["summary"] is None or article["summary"]== ""):
                 print('> No body in the article.')
             else:
                 print('> {}'.format(article["summary"]))
