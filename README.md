@@ -1057,3 +1057,53 @@
 > Part 3: dyn Method Introduction Welcome to the third and final installment of our series on how we implemented a runtime reflection system in Rust. So far, we've shown how we came up with a fairly simple Class and Instance model for thinking about runtime Rust classes. In Part 1, we used these for type checking, and in Part 2 we added support for reading attributes off of a struct. In this post, we pick up where we left off with attribute getters, and expand into method calls. In some ways, the same techniques we used for attributes work just as well here.
 
 
+***
+![Amazon Employees Demand Company Stop Providing Cloud Services To Parler](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/amazon_16.jpeg "Amazon Employees Demand Company Stop Providing Cloud Services To Parler")
+
+
+[Amazon Employees Demand Company Stop Providing Cloud Services To Parler](https://www.benzinga.com/news/21/01/19089667/amazon-employees-demand-company-stop-providing-cloud-services-to-parler)
+
+
+> Some Amazon Inc (NASDAQ: AMZN ) workers are demanding that the company stop providing services to conservative social media platform Parler, popular among supporters of Donald Trump. What Happened:  An employee advocacy group, Amazon Employees for Climate Justice, is asking the company to stop providing hosting services to Parler through Amazon Web Services, it said in a tweet today. 'As Amazon workers, we demand Amazon deny Parler services until it removes posts inciting violence, including at the Presidential inauguration,' the group said in the post.
+
+
+***
+![The 5 best Amazon deals you can get this weekend](https://www.gannett-cdn.com/presto/2021/01/09/USAT/470c8629-6cda-47bd-8601-ffa8f009add3-deals-hero.jpg?crop=1723,970,x8,y0&width=1600&height=800&fit=bounds "The 5 best Amazon deals you can get this weekend")
+
+
+[The 5 best Amazon deals you can get this weekend](https://www.usatoday.com/story/tech/reviewedcom/2021/01/09/amazon-deals-save-squatty-potty-echo-show-5-and-so-much-more/6608170002/)
+
+
+> This weekend, shop and save on smart speakers, kitchen gadgets and more at Amazon.   (Photo: saicle, Getty Images/iStockphoto / Amazon) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. What's better than finding a good discount? Finding an item on sale that's actually going to live up to its hype. Here at Reviewed , we don't just report on enticing price cuts—we report on products we've either tested personally or ones that have absolutely stellar ratings on sites such as  Amazon , so you can be sure that every dollar you spend on them will be put to good use.
+
+
+***
+![Google, Alphabet employees unionize](https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1207206244.jpg?w=600 "Google, Alphabet employees unionize")
+
+
+[Google, Alphabet employees unionize](https://techcrunch.com/2021/01/04/google-alphabet-employees-union/)
+
+
+> A group of more than 200 Google and Alphabet workers have announced the formation of the Alphabet Workers Union, The New York Times first reported . With the help of Communication Workers of America Union's Campaign to Organize Digital Employees (CODE-CWA), the union will be open to both employees and contractors. Of the roughly 227 workers who have so far signed on to support the union, they have all committed to set aside 1% of the yearly compensation to go toward union dues. Those dues will be used to help compensate folks for lost wages in the event of a strike.
+
+
+***
+![As a thank you to the community, here is my new book: Slither into Data Structures and Algorithms](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "As a thank you to the community, here is my new book: Slither into Data Structures and Algorithms")
+
+
+[As a thank you to the community, here is my new book: Slither into Data Structures and Algorithms](https://www.reddit.com/r/Python/comments/ku09n3/as_a_thank_you_to_the_community_here_is_my_new/)
+
+
+> Hi everyone! A couple of years ago I released "Slither into Python" for free online which was an introduction to Python for complete beginners. I released it for free as a thank you to the Python community in general. You can view that here. The feedback was amazing (thank you all, I'm delighted you enjoyed it!). It inspired me to write another book that I felt was the natural extension to it - focusing on data structures and algorithms. In fact, I had a lot of requests for it after the last two chapters of that book so that inspired me even more to write this.
+
+
+***
+![Kaggle projects to learn python +sql](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Kaggle projects to learn python +sql")
+
+
+[Kaggle projects to learn python +sql](https://www.reddit.com/r/Python/comments/ku03y8/kaggle_projects_to_learn_python_sql/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
