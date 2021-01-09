@@ -212,3 +212,23 @@
 > NEW YORK: A printing company in Maryland saw the photo on Twitter Wednesday night: an employee roaming the halls of the US Capitol with a company badge around his neck. He was fired the next day. Others are facing similar repercussions at work for their participation in Wednesday's riot at the US Capitol. Some business owners are being trashed on social media and their establishments boycotted, while rank-and-file employees at other businesses have been fired. The printing company, Navistar Direct Marketing, declined to name the worker but said it can't offer employment to people 'demonstrating dangerous conduct that endangers the health and safety of others'.
 
 
+***
+![[D] OpenAI's DALL·E - Generate images from just text descriptions, but how good is it?](https://external-preview.redd.it/i1yLXNiFRJQbBuYU2Cuv4zbnuwbQu-_ewR-ZD9VR_0Y.jpg?auto=webp&s=e219d51e87d55724f03555038ce9a299c8580eac "[D] OpenAI's DALL·E - Generate images from just text descriptions, but how good is it?")
+
+
+[[D] OpenAI's DALL·E - Generate images from just text descriptions, but how good is it?](https://www.reddit.com/r/MachineLearning/comments/ktq6e8/d_openais_dalle_generate_images_from_just_text/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Mi 360 Home Security Camera 2K Pro, Mi Smart Clock Launched by Xiaomi](https://i.gadgets360cdn.com/large/Mi_360_camera_1610195895164.jpg "Mi 360 Home Security Camera 2K Pro, Mi Smart Clock Launched by Xiaomi")
+
+
+[Mi 360 Home Security Camera 2K Pro, Mi Smart Clock Launched by Xiaomi](https://gadgets.ndtv.com/smart-home/news/mi-360-home-security-camera-2k-pro-smart-clock-price-eur-49-59-launch-specifications-features-xiaomi-2350105)
+
+
+> Mi 360 Home Security Camera 2K Pro and Mi Smart Clock have been launched in the European market expanding Xiaomi's IoT portfolio. Mi 360 Home Security Camera 2K Pro has upgraded AI and can record at 1,269p for a sharper image. It also comes with dual noise cancelling mics for better audio. Mi Smart Clock features a coloured touch screen and can act as a digital photo frame, alarm clock, smart assistant, and more.Mi 360 Home Security Camera 2K Pro, Mi Smart Clock priceMi 360 Home Security Camera 2K Pro is priced at EUR 59.
+
+
