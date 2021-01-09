@@ -734,3 +734,26 @@ OAKLAND, Calif. — Twitter said on Friday that it had permanently suspended Pre
 https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.html
 ---------------------
 ******************************************
+2021-01-09 01:45:42 INFO     File updated!
+******************************************
+Google removes Parler from app store, could also be removed from Apple's if it doesn't implement a moderation plan
+CLOSE President Trump's final Tweet read, 'To all of those who have asked, I will not be going to the Inauguration on January 20th.' USA TODAYGoogle removed the social media app Parler Friday evening because it posed a "public safety threat."The social network, launched in 2018, became popular among conservatives and an unmoderated home to more extreme views in 2020 when both Facebook and Twitter tightened up their content moderation and labeling."In order to protect user safety on Google Play, our longstanding policies require that apps displaying user-generated content have moderation policies and enforcement that removes egregious content like posts that incite violence," said a Google spokesperson in a statement to USA TODAY.
+https://www.usatoday.com/story/tech/news/2021/01/08/apple-parler-ban-app-store-trump/6603634002/
+---------------------
+Google
+Parler is one of the hottest apps in the world, a social network that has attracted millions of conservatives over the past year with its hands-off approach to policing users' posts. And with the news that President Trump had been kicked off Twitter and Facebook, Parler was the odds-on bet to be his next soapbox. But just as it was gaining new clout, Parler is now suddenly faced with an existential crisis. On Friday, Apple told the company that it had to step up its policing of the conversation on its app — undercutting its flagship feature — or lose its platform on iPhones.
+https://www.nytimes.com/2021/01/08/technology/parler-apple-google.html
+---------------------
+TELUS Corporation announces agreement to acquire Lionbridge AI through TELUS International
+Acquisition supports the evolution of TELUS' digital transformation strategy Lionbridge AI to enhance TELUS International's ability to support leading global technology brands developing the next generation of artificial intelligence (AI) and data annotation Example of text annotation Example of data annotation VANCOUVER, British Columbia , Nov. 06, 2020 (GLOBE NEWSWIRE) -- Today, TELUS Corporation ( TU ), announced that TELUS International , a digital customer experience (CX) innovator that designs, builds and delivers next-generation solutions for global and disruptive brands, has entered into an agreement to acquire Lionbridge AI, a market-leading global provider of crowd-based training data and annotation platform solutions used in the development of AI algorithms to power machine learning.
+https://seekingalpha.com/pr/18074772-telus-corporation-announces-agreement-to-acquire-lionbridge-ai-through-telus-international
+---------------------
+Google suspends Parler from app store, urges tighter content moderation
+Google on Friday suspended social media platform Parler from its app store while joining Apple in calling on the platform to tighten its content moderation rules or risk permanent removal. Google said in a statement it is suspending Parler, an app popular among conservatives that has gained popularity in recent months over its hands-off approach to content moderation, due to "continued posting" in the app that it said "seeks to incite ongoing violence in the U.S.''In order to protect user safety on Google Play, our longstanding policies require that apps displaying user-generated content have moderation policies and enforcement that removes egregious content like spots that incite violence.
+https://thehill.com/policy/technology/533451-google-apple-tell-parler-to-tighten-moderation-or-risk-removal-from-app
+---------------------
+The best gaming laptop deals in January 2021
+Asus ROG Strix Scar III gaming laptop (Image credit: Future) January is shaping up to be a great month for the best gaming laptop deals. CES 2021 is around the corner and laptop makers will be unveiling their latest gaming machines. Retailers are currently clearing out their inventory to make way for next-gen gaming notebooks of 2021. This translates to steep discounts on existing gaming laptops which is great news for anyone gaming on a budget. Right now, we're seeing excellent markdowns on various configurations — from the affordable Acer Nitro 5 to the beastly Alienware Area-51m.
+https://www.laptopmag.com/news/best-gaming-laptop-deals
+---------------------
+******************************************
