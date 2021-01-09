@@ -47,3 +47,43 @@
 > (Image credit: Future) PS5 controller deals have been rare over the last few months. The console only hit the shelves in November, and the controllers represented one of the biggest upgrades to the next-generation system. Nevertheless, that's not to say we haven't seen some cash skimmed off the controller's price, though this latest round of PS5 deals is offering a particularly stunning discount. You'll find the £59.99 PS5 DualSense controller available for just £50.39 at ShopTo's official eBay storefront.
 
 
+***
+![SolarWinds hackers gave themselves top administrative privileges to spy on victims undetected, DHS says](https://external-preview.redd.it/pyruGwpj-_QGCKOrHXu7PxmJgbKM4WHt7dj4TfwE3bE.jpg?auto=webp&s=868e6eb8e7f33af0fe2114ca1a8aa664aa653f0a "SolarWinds hackers gave themselves top administrative privileges to spy on victims undetected, DHS says")
+
+
+[SolarWinds hackers gave themselves top administrative privileges to spy on victims undetected, DHS says](https://www.reddit.com/r/technology/comments/ktowf1/solarwinds_hackers_gave_themselves_top/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Python vs Go](https://external-preview.redd.it/uFeded1emliAGzvD6-hGRl3_eGumrHsqjNZXVO-BxQY.jpg?auto=webp&s=65c5fcc32cbd58e0af0455bb9cb13e3548fa4445 "Python vs Go")
+
+
+[Python vs Go](https://www.reddit.com/r/Python/comments/ktowb3/python_vs_go/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Beautiful Chord Diagrams with Python](https://external-preview.redd.it/T71FSiX5VRY6vBvlVlU0-HikwhDVpmav5s6KkBrHMxE.jpg?auto=webp&s=eb4a2f81cef96fbfd6158cd5d50b9880a279b0f2 "Beautiful Chord Diagrams with Python")
+
+
+[Beautiful Chord Diagrams with Python](https://www.reddit.com/r/Python/comments/ktopwt/beautiful_chord_diagrams_with_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Best setup for a new Apple TV, 4K TV and 2.0 Receiver?](https://images.macrumors.com/social/?t=2279418&v=6 "Best setup for a new Apple TV, 4K TV and 2.0 Receiver?")
+
+
+[Best setup for a new Apple TV, 4K TV and 2.0 Receiver?](https://forums.macrumors.com/threads/best-setup-for-a-new-apple-tv-4k-tv-and-2-0-receiver.2279418/)
+
+
+> Mar 10, 2004 14,029 517 Bergen, Norway I'm in the process of replacing my TV set up, and get a 4K TV. Currently I have a 42" Toshiba 1080 TV, Apple TV 4 HD and Denon CEOL Piccolo, and I'm planning to replace all of them. Now, technology has definitively moved forward since I got any of the stuff above (and especially since I got the TV i 2009), so I'm a bit uncertain what my best options are. To get the sound from the Apple TV out, I'm currently using Airplay to the Piccolo, which works OK (lip sync is fine, but there's a picture and sound delay, which is annoying when pausing/restarting), so I want to have wired set up from now on.
+
+
