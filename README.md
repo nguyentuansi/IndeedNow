@@ -177,3 +177,38 @@ Fetch Tech News with Python every 5 / 15 mins.
 > Continue reading the main storyGoogle and Apple told Parler, a social network popular with far-right conservatives, that it must better police its users if it wants a place in their app stores.Apple threatened to remove Parler from its App Store if it did not regulate its content. Credit...Mark Lennihan/Associated PressPublished Jan. 8, 2021Updated Jan. 9, 2021, 12:03 a.m. ETParler is one of the hottest apps in the world, a social network that has attracted millions of far-right conservatives over the past year with its hands-off approach to policing users' posts.
 
 
+![Acer Chromebook Spin 514 launched: Check price and specifications](https://images.indianexpress.com/2021/01/Acer-Chromebook-Spin-514.jpg "Acer Chromebook Spin 514 launched: Check price and specifications")
+[Acer Chromebook Spin 514 launched: Check price and specifications](https://indianexpress.com/article/technology/laptops/acer-chromebook-spin-514-launched-amd-ryzen-processor-price-and-specifications-7139319/)
+
+
+> Acer has launched its first Chromebook with new AMD Ryzen 3000 C-Series processor and AMD Radeon graphics card. The Acer Chromebook Spin 514 (CP514-1H) price starts from $479, which is around Rs 35,150 in India. It will be available for purchase in North America in the month of February. The laptop will also be available in EMEA countries from March 2021, and the device will cost EUR 529. The Acer Chromebook Enterprise Spin 514 (CP514-1WH) will be sold for $749.99 in North America and EUR 799 in EMEA from March 2021.
+
+
+![2 Bluetooth headphones with simultaneous audio?](https://images.macrumors.com/social/?t=2279391&v=6 "2 Bluetooth headphones with simultaneous audio?")
+[2 Bluetooth headphones with simultaneous audio?](https://forums.macrumors.com/threads/2-bluetooth-headphones-with-simultaneous-audio.2279391/)
+
+
+> Dec 2, 2017 4 0 e. Oregon Sony makes a portable BT speaker that can have two paired to a device like an iPod. Asking Sony support about headphones was unproductive. They said it depended on the computer. I would like to get an additional set of headphones so my wife and I can listen while on bike trainers. So far, I have not been able to get an answer. I appreciate any help, MB
+
+
+![Tech Mahindra's Market Cap Crosses Rs 1 Lakh Crore Mark](None "Tech Mahindra's Market Cap Crosses Rs 1 Lakh Crore Mark")
+[Tech Mahindra's Market Cap Crosses Rs 1 Lakh Crore Mark](https://www.goodreturns.in/news/tech-mahindra-s-market-cap-crosses-rs-1-lakh-crore-mark-1196930.html?utm_source=/rss/goodreturns-fb.xml&utm_medium=23.216.4.32&utm_campaign=client-rss)
+
+
+> At the end of Friday's trade session, Tech Mahindra's market capitalisation crossed the Rs 1-lakh crore mark after a rally in its share price on Friday. At the close of trade, the company's market valuation was at Rs 1,01,671.34 crore on
+
+
+![Video Editing Machine Dilemma: Max Spec Mac Mini (i7 6 core + 64GB +1TB) + eGPU (AMD Radeon Pro W5700) vs iMac 5K (10 core i9, 128 Gb ram) + eGPU](https://images.macrumors.com/social/?t=2279388&v=6 "Video Editing Machine Dilemma: Max Spec Mac Mini (i7 6 core + 64GB +1TB) + eGPU (AMD Radeon Pro W5700) vs iMac 5K (10 core i9, 128 Gb ram) + eGPU")
+[Video Editing Machine Dilemma: Max Spec Mac Mini (i7 6 core + 64GB +1TB) + eGPU (AMD Radeon Pro W5700) vs iMac 5K (10 core i9, 128 Gb ram) + eGPU](https://forums.macrumors.com/threads/video-editing-machine-dilemma-max-spec-mac-mini-i7-6-core-64gb-1tb-egpu-amd-radeon-pro-w5700-vs-imac-5k-10-core-i9-128-gb-ram-egpu.2279388/)
+
+
+> Hi guys, I'm facing a major dilemma here and wondering if any of you would throw your two cents in for me to make the final decision here! I'm a film/video editor that mainly works on TVC and Music Promos, recently decided to upgrade my system so purchased a top of the line intel Mac Mini plus an eGPU enclosure with a Radeon Pro W5700 card. However, after doing some research I'm now torn because it seems like its way cheaper to build a modified iMac 5k set up with self-installed ram, I've already spent roughly a grand (in pounds) on my eGPU so thinking about integrating that in the iMac 5k set up as well.
+
+
+![Max Spec Mac Mini (i7 6 core + 64GB +1TB) + eGPU (AMD Radeon Pro W5700) vs iMac 5K (10 core i9, 128 Gb ram) + eGPU?](https://images.macrumors.com/social/?t=2279388&v=6 "Max Spec Mac Mini (i7 6 core + 64GB +1TB) + eGPU (AMD Radeon Pro W5700) vs iMac 5K (10 core i9, 128 Gb ram) + eGPU?")
+[Max Spec Mac Mini (i7 6 core + 64GB +1TB) + eGPU (AMD Radeon Pro W5700) vs iMac 5K (10 core i9, 128 Gb ram) + eGPU?](https://forums.macrumors.com/threads/max-spec-mac-mini-i7-6-core-64gb-1tb-egpu-amd-radeon-pro-w5700-vs-imac-5k-10-core-i9-128-gb-ram-egpu.2279388/)
+
+
+> Hi guys, I'm facing a major dilemma here and wondering if any of you would throw your two cents in for me to make the final decision here! I'm a film/video editor that mainly works on TVC and Music Promos, recently decided to upgrade my system so purchased a top of the line intel Mac Mini plus an eGPU enclosure with a Radeon Pro W5700 card. However, after doing some research I'm now torn because it seems like its way cheaper to build a modified iMac 5k set up with self-installed ram, I've already spent roughly a grand (in pounds) on my eGPU so thinking about integrating that in the iMac 5k set up as well.
+
+
