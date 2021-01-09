@@ -1,0 +1,16 @@
+on:
+  workflow_run:
+    workflows: ["Workflow 2"]
+name: Workflow 2 Notification
+jobs:
+  slackNotification:
+    name: Workflow 2 Notification
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Workflow 2 Notification
+      uses: rtCamp/action-slack-notify@v2
+      env:
+        SLACK_COLOR: '#20639B'
+        SLACK_ICON: 'https://avatars3.githubusercontent.com/in/15368?s=64&v=4'
+        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
