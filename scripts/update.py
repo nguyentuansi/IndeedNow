@@ -52,7 +52,7 @@ with open('log.txt', 'a') as f:
 with open('README.md', 'a') as f:
     sys.stdout = f  # Change the standard output to the file we created.
     for article in data['articles']:
-        print('![{}]({} "{}")'.format(article["title"],article["link"], article["title"]))
+        print('![{}]({} "{}")'.format(article["title"],article["media"], article["title"]))
         print('![{}]({})'.format(article["title"],article["link"]))
         print('>{}'.format(article["summary"]))
     sys.stdout = original_stdout  # Reset the standard output to its original value
