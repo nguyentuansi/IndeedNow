@@ -1,2 +1,2 @@
 # IndeedNow!
-Update News every 5 / 15 mins.
+Update News with Python every 5 / 15 mins.
