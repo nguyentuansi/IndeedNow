@@ -658,3 +658,33 @@
 > The best of both worlds Oculus Quest 2 A dying breed Oculus Rift S The Oculus Quest 2 represents a true vision for the future of VR from Facebook. It can be used by itself thanks to the powerful Snapdragon XR2 chipset inside, sports the highest resolution display, and has the best built-in speakers on any Oculus headset. It can be optionally used as a PC VR headset and requires no external sensors for room scale tracking. From $299 at Amazon Pros Can be used standalone or with a PC Very high-resolution display Doesn't require external sensors for tracking Modular design with interchangeable pads Hand tracking support Lots of developer support Cons Only 2-3 hour battery life Requires a Facebook account The Oculus Rift S was an interesting upgrade over the original Oculus Rift.
 
 
+***
+![Save over $400 as Surface Pro deals drop to lowest prices yet](https://cdn.mos.cms.futurecdn.net/hiuTSbNriK4eTDC3YfmL8F-1200-80.jpg "Save over $400 as Surface Pro deals drop to lowest prices yet")
+
+
+[Save over $400 as Surface Pro deals drop to lowest prices yet](https://www.techradar.com/news/save-over-dollar400-as-surface-pro-deals-drop-to-lowest-prices-yet)
+
+
+> (Image credit: Future) Those looking for the perfect combination of power and portability may have struck gold with the latest Surface Pro deals. We regularly see these tablets discounted, and on special occasions with the Type Cover keyboard included as well, but you'll find both the Surface Pro 7 and Surface Pro X on sale right now for some of their lowest prices yet.  The cheapest model on offer, the i5 Surface Pro 7 with 8GB RAM and a 128GB SSD comes in at just $789.90 right now . That's a fantastic price considering the cheapest we've ever seen it was over Black Friday - and even then it was at $799.
+
+
+***
+![How FarmVille and Facebook helped to cultivate a new audience for gaming | John Naughton](https://i.guim.co.uk/img/media/e0201ad6441313534dc2c8d7c0be64266658d97d/0_0_4287_2571/master/4287.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=f1049aa306cd5d932cea99471e0fb3dc "How FarmVille and Facebook helped to cultivate a new audience for gaming | John Naughton")
+
+
+[How FarmVille and Facebook helped to cultivate a new audience for gaming | John Naughton](http://www.theguardian.com/commentisfree/2021/jan/09/how-farmville-and-facebook-helped-to-cultivate-a-new-audience-for-gaming)
+
+
+> Two deaths you may have missed last week – for the simple reason that you have better things to do with your time than monitoring the tech industry. One was the end of FarmVille, a simplistic, time-wasting online game that consumed the attention of millions of Facebook users over the years; the other was the much-delayed execution of Flash, the animation tool that powered countless games and assorted website tricks for two decades, but which will no longer be supported by most web browsers or by its maker, Adobe.
+
+
+***
+![Bitcoin boom threatens to turn it into pure gold](https://i.guim.co.uk/img/media/42f3c287b520f6386e987111e0887dcce3958cfe/0_10_5216_3129/master/5216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=232eca06fe0348f764dac6a816aa52d7 "Bitcoin boom threatens to turn it into pure gold")
+
+
+[Bitcoin boom threatens to turn it into pure gold](https://www.theguardian.com/technology/2021/jan/09/bitcoin-boom-threatens-to-turn-it-into-pure-gold)
+
+
+> Bitcoin is back, along with the debate over its value. The price of the digital currency is soaring and last week it hit more than $40,000 for the first time, having doubled in less than a month. Its price has jumped by more than 700% since the pandemic was first declared in March last year, rising from about $5,000. But breathless headlines are nothing new for the 12-year-old cryptocurrency. Bitcoin has been here before, in the previous decade, when it went on a tear with a predictable outcome. Drawing parallels with the tulip mania of the 17th century, bitcoin soared from just below $1,000 at the start of 2017 to come close to $20,000 within 12 months, then crashed to about $3,000 within a few weeks in early 2018.
+
+
