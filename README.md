@@ -161,3 +161,13 @@
 > No body in the article.
 
 
+***
+![AMD is about to upend the Chromebook market just like it did for PCs](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/acer-chromebook-spin-514-ryzen-logos.jpg "AMD is about to upend the Chromebook market just like it did for PCs")
+
+
+[AMD is about to upend the Chromebook market just like it did for PCs](https://www.androidcentral.com/amd-might-make-acer-chromebook-spin-514-one-you-should-buy-2021)
+
+
+> Source: Jerry Hildenbrand / Android Central It's the middle of the afternoon on a Friday and I'm typing this out on my back deck using a Chromebook. I love the darn things and any time I can get away from a desk during the workday I try to do it, and always with a Chromebook in tow. To me, a really well-built mid-range Chromebook with plenty of power and plenty of storage is just right. Of course, the best Chromebook for me might not be the best Chromebook for you. But if you're like me and want a modestly priced Chromebook that outperforms and out delivers, I think Acer has just what you're looking for in 2021 with the new Chromebook Spin 514.
+
+
