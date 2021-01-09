@@ -1010,3 +1010,49 @@ Subreddit dedicated to the news and discussions about the creation and use of te
 https://www.reddit.com/r/technology/comments/kti7up/google_suspends_parler_from_app_store_urges/
 ---------------------
 ******************************************
+2021-01-09 03:47:56 INFO     File updated!
+******************************************
+Google bans Parler from Android app store
+Enlarge / Google's corporate headquarters. Google has banned the conservative social media app Parler from its Play Store for Android. In a statement to Ars, Google said it was enforcing long-standing policies requiring that social media apps remove "egregious content like posts that incite violence." " We're aware of continued posting in the Parler app that seeks to incite ongoing violence in the US," a Google spokesman told Ars. "In light of this ongoing and urgent public safety threat, we are suspending the app's listings from the Play Store until it addresses these issues.
+https://arstechnica.com/tech-policy/2021/01/google-bans-parler-from-android-app-store/
+---------------------
+Looking forward to the Galaxy S21? Here's everything we know so far!
+2020 saw the release of some truly impressive Android phones, one of the best Android phones being the Galaxy S20 from Samsung. The S20 set out to deliver on every front that it could, and for the most part, it succeeded with flying colors. It's now been almost a year since the S20 came out, though, which means it's time to start looking ahead. The smartphone industry moves at a rapid pace, and in just a few days, it'll be time for the Galaxy S21. Whether you're interested in specs, design renders, pricing info, or anything else, here's everything we know so far about the Samsung Galaxy S21! Unmatched Samsung Galaxy S20 One of the best Android phones you can buy in 2020 We're just as excited about the Galaxy S21 as you are, but if you need a phone right now, don't feel like you have to wait months for it.
+https://www.androidcentral.com/samsung-galaxy-s21
+---------------------
+Twitter permanently suspends @TeamTrump after the account posted quotes from Trump's now removed @POTUS tweets, says evading suspension is against its rules (Jack Morse/Mashable)
+Jack Morse / Mashable: Twitter permanently suspends @TeamTrump after the account posted quotes from Trump's now removed @POTUS tweets, says evading suspension is against its rules — Twitter kept its word. — After permanently suspending the @realDonaldTrump account late Friday, Twitter also moved to suspend the @TeamTrump account.
+http://www.techmeme.com/210108/p28#a210108p28
+---------------------
+The Tweets That Got Trump Banned Were Far From His Worst
+I always figured that if Donald Trump got banned from Twitter, it would be for one of two reasons. Either he would tweet something beyond the pale even for him—an explicit death threat, say—or he would leave the White House and stop benefiting from Twitter's lenient rules for public figures. Neither scenario is how Trump's Twitter career finally came to an apparent end. On Friday night, with just 12 days left in his presidency and two days after a mob of his supporters stormed the US Capitol, leading to several deaths, Twitter said it had permanently suspended Trump's account 'due to the risk of further incitement of violence.
+https://www.wired.com/story/tweets-got-trump-banned-far-from-worst/
+---------------------
+Twitter suspends Trump's campaign account @TeamTrump for violating its rules
+
+https://www.investing.com/news/technology-news/twitter-suspends-trumps-campaign-account-teamtrump-for-violating-its-rules-2384118
+---------------------
+******************************************
+2021-01-09 03:48:28 INFO     File updated!
+******************************************
+Google bans Parler from Android app store
+Enlarge / Google's corporate headquarters. Google has banned the conservative social media app Parler from its Play Store for Android. In a statement to Ars, Google said it was enforcing long-standing policies requiring that social media apps remove "egregious content like posts that incite violence." " We're aware of continued posting in the Parler app that seeks to incite ongoing violence in the US," a Google spokesman told Ars. "In light of this ongoing and urgent public safety threat, we are suspending the app's listings from the Play Store until it addresses these issues.
+https://arstechnica.com/tech-policy/2021/01/google-bans-parler-from-android-app-store/
+---------------------
+Looking forward to the Galaxy S21? Here's everything we know so far!
+2020 saw the release of some truly impressive Android phones, one of the best Android phones being the Galaxy S20 from Samsung. The S20 set out to deliver on every front that it could, and for the most part, it succeeded with flying colors. It's now been almost a year since the S20 came out, though, which means it's time to start looking ahead. The smartphone industry moves at a rapid pace, and in just a few days, it'll be time for the Galaxy S21. Whether you're interested in specs, design renders, pricing info, or anything else, here's everything we know so far about the Samsung Galaxy S21! Unmatched Samsung Galaxy S20 One of the best Android phones you can buy in 2020 We're just as excited about the Galaxy S21 as you are, but if you need a phone right now, don't feel like you have to wait months for it.
+https://www.androidcentral.com/samsung-galaxy-s21
+---------------------
+Twitter permanently suspends @TeamTrump after the account posted quotes from Trump's now removed @POTUS tweets, says evading suspension is against its rules (Jack Morse/Mashable)
+Jack Morse / Mashable: Twitter permanently suspends @TeamTrump after the account posted quotes from Trump's now removed @POTUS tweets, says evading suspension is against its rules — Twitter kept its word. — After permanently suspending the @realDonaldTrump account late Friday, Twitter also moved to suspend the @TeamTrump account.
+http://www.techmeme.com/210108/p28#a210108p28
+---------------------
+The Tweets That Got Trump Banned Were Far From His Worst
+I always figured that if Donald Trump got banned from Twitter, it would be for one of two reasons. Either he would tweet something beyond the pale even for him—an explicit death threat, say—or he would leave the White House and stop benefiting from Twitter's lenient rules for public figures. Neither scenario is how Trump's Twitter career finally came to an apparent end. On Friday night, with just 12 days left in his presidency and two days after a mob of his supporters stormed the US Capitol, leading to several deaths, Twitter said it had permanently suspended Trump's account 'due to the risk of further incitement of violence.
+https://www.wired.com/story/tweets-got-trump-banned-far-from-worst/
+---------------------
+Twitter suspends Trump's campaign account @TeamTrump for violating its rules
+
+https://www.investing.com/news/technology-news/twitter-suspends-trumps-campaign-account-teamtrump-for-violating-its-rules-2384118
+---------------------
+******************************************
