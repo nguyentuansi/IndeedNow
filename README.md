@@ -1137,3 +1137,40 @@
 > I'm making a Corporate CEO simulation game using Pygame. In this video, I use Shelve to save and load profiles and game data. I plan on using real local and national economic data to influence the game. Program starts at 50 seconds of the video. Github link also posted. Enjoy!
 
 
+***
+![WhatsApp Alternative: Signal, Telegram, Line Are All Worth Exploring](https://im.indiatimes.in/content/2021/Jan/FB-Image-Quote-11_5ff85f553fe82.jpg "WhatsApp Alternative: Signal, Telegram, Line Are All Worth Exploring")
+
+
+[WhatsApp Alternative: Signal, Telegram, Line Are All Worth Exploring](https://www.indiatimes.com/technology/news/whatsapp-alternative-messenger-app-signal-telegram-line-531511.html)
+
+
+> WhatsApp truly took us by surprise when on Wednesday it sent us updated terms and privacy policy, where it revealed that it will be sharing the user data on the messaging app with its parent company Facebook. Reuters The data WhatsApp decided to share included account registration number (basically your mobile number), transaction data, service-related information, data on how you interact with other users as well as businesses while using WhatsApp services, information about the device the app is installed on, device's IP address.
+
+
+***
+![I made a program that chooses the best pet based on users data](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "I made a program that chooses the best pet based on users data")
+
+
+[I made a program that chooses the best pet based on users data](https://www.reddit.com/r/Python/comments/ku1d4s/i_made_a_program_that_chooses_the_best_pet_based/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Rams vs Seahawks live stream: how to watch NFL playoffs from anywhere right now](https://cdn.mos.cms.futurecdn.net/pqBJewB63eEDNrHLxwQx9Z-1200-80.jpg "Rams vs Seahawks live stream: how to watch NFL playoffs from anywhere right now")
+
+
+[Rams vs Seahawks live stream: how to watch NFL playoffs from anywhere right now](https://www.techradar.com/news/rams-vs-seahawks-live-stream-how-to-watch-nfl-playoffs-anywhere)
+
+
+> The NFL playoffs are serving up a clash between two NFC West today for the second game of Super Wild Card Weekend 2021 - and the action is live and under way now. It sees Seattle host the LA Rams and represents the third time the divisional rivals have played each other this season. Honors were even in the regular season but this one is winner-take-all game. Read on as we explain how to get a Rams vs Seahawks live stream and watch NFL playoffs online wherever you are right now.Russell Wilson and Seattle came out on top in their most recent clash two weeks ago, a game that was notable for Jared Goff breaking and dislocating his thumb on a Seattle helmet.
+
+
+***
+[Death Squared devs confirm that Switch eShop games can no longer be priced below $1.99](https://gonintendo.com/stories/375144-death-squared-devs-confirm-that-switch-eshop-games-can-no-longer)
+
+
+> A few weeks back, we heard some speculation about a big change on the Switch eShop. Long story short, inside sources claimed that Nintendo had reformed some of their rules, and Switch games could no longer be put on sale for a penny or other insanely low prices. Nintendo was supposedly taking this step to stop devs from gaming the eShop to artificially boost their games up on the popular charts for better visibility. While Nintendo hasn't come out to say that they've employed this tactic, another developer has at least confirmed part of the story.
+
+
