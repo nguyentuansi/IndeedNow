@@ -56,4 +56,5 @@ with open('README.md', 'a') as f:
         print('[{}]({})'.format(article["title"],article["link"]))
         print('\n')
         print('> {}'.format(article["summary"]))
+        print('\n')
     sys.stdout = original_stdout  # Reset the standard output to its original value
