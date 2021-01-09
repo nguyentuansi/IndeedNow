@@ -1107,3 +1107,33 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Squelched by Twitter, Trump seeks new online megaphone](https://www.abc27.com/wp-content/uploads/sites/55/2021/01/1ccd1555eb8a431b884ef1b8ce91af89.jpg?w=1280 "Squelched by Twitter, Trump seeks new online megaphone")
+
+
+[Squelched by Twitter, Trump seeks new online megaphone](https://www.abc27.com/news/us-world/tech/squelched-by-twitter-trump-seeks-new-online-megaphone/)
+
+
+> BOSTON (AP) — One Twitter wag joked about lights flickering on and off at the White House being Donald Trump signaling to his followers in Morse code after Twitter and Facebook squelched the president for inciting rebellion. Though deprived of his big online megaphones, Trump does have alternative options of much smaller reach, led by the far right-friendly Parler — even if Google removed it from its app store Friday and Apple threatened the same. Trump may launch his own platform. But that won't happen overnight, and free speech experts anticipate growing pressure on all social media platforms to curb incendiary speech as Americans take stock of Wednesday's violent takeover of the U.
+
+
+***
+![First PyPi project!](https://external-preview.redd.it/p3HQXQzdkmyXyJ89enL6PkgmSdstFY5z1QkzOzRNUaU.jpg?auto=webp&s=01b29ed2d2e90d072e1fc7295da2c1cb3797f686 "First PyPi project!")
+
+
+[First PyPi project!](https://www.reddit.com/r/Python/comments/ku0py5/first_pypi_project/)
+
+
+> After years of being a developer I finally deployed to PyPi! This project is a structured logger with it's own parser and cli utility. (I know, I know, there are probably 400k similar libraries out there) You can add context data when instantiating the logger that will be added to each subsequent call to help correlate entries. It serializes data while retaining types, the included parser will read a log file and return an object (with types). If you invoke the module directly over the command line it can tail the log file and print easy to read entries with colors based on the log level.
+
+
+***
+![I'm making a Corporate CEO simulation game using Pygame. In this video, I use Shelve to save and load profiles and game data. I plan on using real local and national economic data to influence the game. Program starts at 50 seconds of the video. Github link also posted. Enjoy!](https://external-preview.redd.it/Z_zwAb-I_Mc6Rc_e_sqS6cKnFlRWClZuzosfIIwubJQ.jpg?auto=webp&s=4b053ff3c54737b3dfc0410f2e703d20e73fcc89 "I'm making a Corporate CEO simulation game using Pygame. In this video, I use Shelve to save and load profiles and game data. I plan on using real local and national economic data to influence the game. Program starts at 50 seconds of the video. Github link also posted. Enjoy!")
+
+
+[I'm making a Corporate CEO simulation game using Pygame. In this video, I use Shelve to save and load profiles and game data. I plan on using real local and national economic data to influence the game. Program starts at 50 seconds of the video. Github link also posted. Enjoy!](https://www.reddit.com/r/Python/comments/ku0im7/im_making_a_corporate_ceo_simulation_game_using/)
+
+
+> I'm making a Corporate CEO simulation game using Pygame. In this video, I use Shelve to save and load profiles and game data. I plan on using real local and national economic data to influence the game. Program starts at 50 seconds of the video. Github link also posted. Enjoy!
+
+
