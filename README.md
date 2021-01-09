@@ -282,3 +282,30 @@
 > I'm starting to write a django app to implement basic univariate and multivariate analysis along with automatic plot etc... Before reinventing the wheel, do you know of such programs in python (or R) that is not a full GUI software like SPSS ?
 
 
+***
+![House: Amazon, Facebook, Apple, Google have 'monopoly power,' should be split](https://external-preview.redd.it/QWY46XAyXNHV-HvJBsfvEKhAtYBPbCowJ838GCSd5dY.jpg?auto=webp&s=ce853be299709f9bc433b17d15acc3729c1f0347 "House: Amazon, Facebook, Apple, Google have 'monopoly power,' should be split")
+
+
+[House: Amazon, Facebook, Apple, Google have 'monopoly power,' should be split](https://www.reddit.com/r/technology/comments/ktqoj4/house_amazon_facebook_apple_google_have_monopoly/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+[A list of tutorials for beginners](https://www.reddit.com/r/Python/comments/ktqnce/a_list_of_tutorials_for_beginners/)
+
+
+> I have been working on a series of videos to show the basics of Python Programming to beginners. If you are new to the language, programming in general, or would like a quick reference to some basic concepts, this will hopefully be a good resource for you! Introduction Variables Arrays and Dictionaries Loops Functions Classes Inheritance Overriding Functions Static and Class Variables Virtual Environments The tutorials follow a long-term series where I build bigger projects, so the list will grow over time.
+
+
+***
+![Unable To wrap text in Tkinter entry box](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Unable To wrap text in Tkinter entry box")
+
+
+[Unable To wrap text in Tkinter entry box](https://www.reddit.com/r/Python/comments/ktqm0k/unable_to_wrap_text_in_tkinter_entry_box/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
