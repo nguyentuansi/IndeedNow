@@ -1,4 +1,7 @@
-# IndeedNow:![Upgrade your gear and save big on these refurbished Chromebooks, MacBooks, and iMacs](https://mondrian.mashable.com/2021%252F01%252F09%252Fd4%252F196b2aab3bf74a328af6313052fb9b64.46019.png%252F1200x630.png?signature=5I0Ym98OcK2lWiSZl7x1CHDxhuY= "Upgrade your gear and save big on these refurbished Chromebooks, MacBooks, and iMacs")
+# IndeedNow:![Upgrade your gear and save big on these refurbished Chromebooks, MacBooks, and iMacs]
+
+
+(https://mondrian.mashable.com/2021%252F01%252F09%252Fd4%252F196b2aab3bf74a328af6313052fb9b64.46019.png%252F1200x630.png?signature=5I0Ym98OcK2lWiSZl7x1CHDxhuY= "Upgrade your gear and save big on these refurbished Chromebooks, MacBooks, and iMacs")
 
 
 [Upgrade your gear and save big on these refurbished Chromebooks, MacBooks, and iMacs](https://mashable.com/shopping/jan-9-refurbished-chromebooks-macbooks-imacs/)
