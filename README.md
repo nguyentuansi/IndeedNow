@@ -1037,3 +1037,23 @@
 > Congrats on surviving this wild first week of 2021. Outside all-things political, a few labor developments happened that are worth noting. Also, shortly before the mob of Trump supporters wreaked havoc on the U.S. Capitol, I caught up with Dr. Timnit Gebru, the prominent AI ethics researcher who said she was fired from Google last month for speaking out about diversity issues. Our full conversation will be available to listen to next Saturday on the newest episode of TC Mixtape, but I've included some snippets for y'all below.
 
 
+***
+![Tesla to produce $25K car as early as 2022](https://www.teslarati.com/wp-content/uploads/2021/01/tesla-25k-car.jpeg "Tesla to produce $25K car as early as 2022")
+
+
+[Tesla to produce $25K car as early as 2022](https://www.teslarati.com/tesla-25k-car-release-date-2022-china-report/)
+
+
+> An eco-assessment report for Gigafactory Shanghai recently provided a teaser about a third Tesla that will be produced at the China-based electric car factory. The documents hint that Tesla is looking to produce a new car at Giga Shanghai as early as 2022, and it will be priced between RMB160,000 to RMB 200,000 (about $25,000 to $30,000). As noted in a report posted by Sina Motors on Weibo, Tesla's steadily improving sales in China were key drivers for the impending launch of the third vehicle. The new car was reportedly approved as early as September 2020, and product verification is poised to be completed around March 2021.
+
+
+***
+![Building a runtime reflection system for Rust (Part 3)](https://uploads-ssl.webflow.com/5f1483105c9a72fd0a3b662a/5fe243cfa37efe62e1d33958_ferris-reflection-real.png "Building a runtime reflection system for Rust (Part 3)")
+
+
+[Building a runtime reflection system for Rust (Part 3)](https://www.osohq.com/post/runtime-reflection-pt-3)
+
+
+> Part 3: dyn Method Introduction Welcome to the third and final installment of our series on how we implemented a runtime reflection system in Rust. So far, we've shown how we came up with a fairly simple Class and Instance model for thinking about runtime Rust classes. In Part 1, we used these for type checking, and in Part 2 we added support for reading attributes off of a struct. In this post, we pick up where we left off with attribute getters, and expand into method calls. In some ways, the same techniques we used for attributes work just as well here.
+
+
