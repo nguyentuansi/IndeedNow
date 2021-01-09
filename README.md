@@ -72,3 +72,38 @@ Fetch Tech News with Python every 5 / 15 mins.
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+![Ride the trend as churn at the top likely to continue](https://images.moneycontrol.com/static-mcnews/2020/12/Stocks-rise-770x433.jpg "Ride the trend as churn at the top likely to continue")
+[Ride the trend as churn at the top likely to continue](https://www.moneycontrol.com/news/technicals/ridetrend-as-churn-attop-likely-to-continue_14652221.html)
+
+
+> Kanpur Plastipack | Company incorporated wholly owned subsidiary (WOS) - Bright Choice Venture. The Nifty's heroics on January 8 clearly shows that its glorious sprint is not about to end. During the week, intraday corrections were short-lived as the index recorded yet another peak of 14,367 and was trading well above the support of three-digit Gann number of 139(00). A shift in orbit on the upside will be recorded once the Nifty confirms a move above three-digit Gann number of 145(00). The pattern of higher highs and lows, up-sloping rising moving averages and the index moving north with the breadth hovering around overbought terrain are common traits in a bullish market.
+
+
+![Trump's Twitter endgame: Is it over?](https://ichef.bbci.co.uk/news/1024/branded_news/75C4/production/_116384103_7f2f988f-9c91-481c-afc4-56d15c78da24.jpg "Trump's Twitter endgame: Is it over?")
+[Trump's Twitter endgame: Is it over?](https://www.bbc.co.uk/news/technology-55571291)
+
+
+> All the big social media companies have made it clear that - as a private citizen - if you continually look to peddle conspiracy theories and promote extremism, you should expect to be kicked out. With just a few days of his presidency left, Mr Trump is already being held to a different standard - his privileges stripped.
+
+
+![Weekly Bytes | Google's sleep-tracking display, FAU-G launch, and more](https://www.thehindu.com/sci-tech/technology/9whwjj/article33533198.ece/ALTERNATES/LANDSCAPE_615/Google-Nest-Hub "Weekly Bytes | Google's sleep-tracking display, FAU-G launch, and more")
+[Weekly Bytes | Google's sleep-tracking display, FAU-G launch, and more](https://www.thehindu.com/sci-tech/technology/weekly-bytes-googles-sleep-tracking-display-fau-g-launch-and-more/article33533130.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Google's Nest Hub smart display could track sleepGoogle may launch a new Nest Hub device with sleep-tracking feature, powered by the tech giant's Soli radar technology, 9TO5Google reported. The technology can detect gestures, and is used in Pixel 4 to perform functions like play/pause, and snooze alarms. It also helps with the face unlock feature by sensing when users try to reach for their phone.
+
+
+![MCMC: Fines up to RM500,000 for using unauthorised mobile signal boosters and repeaters](None "MCMC: Fines up to RM500,000 for using unauthorised mobile signal boosters and repeaters")
+[MCMC: Fines up to RM500,000 for using unauthorised mobile signal boosters and repeaters](https://www.soyacincau.com/2021/01/09/mcmc-mobile-cellular-signal-booster-repeater-guideline/)
+
+
+> The Malaysian Communications and Multimedia Commission (MCMC) has reported an increase in complaints with regards to interference from the usage of Cellular Booster or Repeaters (CBR). Unauthorised telecommunications equipment can severely affect the quality of cellular networks and wireless broadband service, and violators can be slapped with a hefty fine. These boosters or repeaters are […] The post MCMC: Fines up to RM500,000 for using unauthorised mobile signal boosters and repeaters appeared first on SoyaCincau.
+
+
+![Amazon expands its operations in 'unlimited India'](https://i.dawn.com/large/2016/07/5788ff538470f.jpg "Amazon expands its operations in 'unlimited India'")
+[Amazon expands its operations in 'unlimited India'](https://www.dawn.com/news/1271024)
+
+
+> Amazon India has opened its largest fulfilment centre in Sonipat city in India's Haryana state. The warehouse, sprawling across 200,000 square feet, is said to be Amazon's 22nd warehouse in India, according to LiveMint. The fulfilment centre will assist sellers in north India to stock their products with Amazon. 'It will enable thousands of small and medium businesses to save money by replacing their upfront capital expense with low variable cost and pay only for the storage space they use and the orders that we fulfill,' said Akhil Saxena, vice-president, India customer fulfilment, Amazon India.
+
+
