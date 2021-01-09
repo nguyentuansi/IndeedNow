@@ -987,3 +987,53 @@
 > Jun 20, 2017 99 79 Disneyland Hey, so I want to upgrade the RAM on my late-2015 5k iMac, I currently have 8GB and think I want 32GB. Or is that overkill and should I just go with 16GB? I use this computer for music production in Logic with Native Instruments libraries, Izotope, Antares, Slate, etc. I do 4K video editing in Final Cut Pro. I bought the M1 Mac mini a couple weeks ago but returned it due to lots of bluetooth & display issues, so I'm using this iMac until a Apple Silicon iMac or Mac Pro mini come out with less issues.
 
 
+***
+![Python Tkinter to .EXE](https://external-preview.redd.it/vPLZI5AQjvkoaKLlBDf-6bfM_OKJbVhrLJTtlUu9hDc.jpg?auto=webp&s=e8cb26fd723cca8889f624dcdf5b351f0feee83a "Python Tkinter to .EXE")
+
+
+[Python Tkinter to .EXE](https://www.reddit.com/r/Python/comments/ktzjd8/python_tkinter_to_exe/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![All The Platforms That Have Banned Or Restricted Donald Trump So Far](https://images.axios.com/REZv-ZksF390FNg-0331EtGmbFU=/0x0:1920x1080/1366x768/2021/01/08/1610149974666.jpg "All The Platforms That Have Banned Or Restricted Donald Trump So Far")
+
+
+[All The Platforms That Have Banned Or Restricted Donald Trump So Far](https://www.axios.com/platforms-social-media-ban-restrict-trump-d9e44f3c-8366-4ba9-a8a1-7f3114f920f1.html)
+
+
+> Platforms are rapidly removing Donald Trump's account or accounts affiliated with pro-Trump violence and conspiracies, like QAnon and #StoptheSteal. Here is a running list: REDDIT: WHAT: Reddit has banned the subreddit group "r/DonaldTrump," a spokesperson confirmed to Axios on Friday. Reddit has banned the subreddit group "r/DonaldTrump," a spokesperson confirmed to Axios on Friday. COMMENT: " Reddit's site-wide policies prohibit content that promotes hate, or encourages, glorifies, incites, or calls for violence against groups of people or individuals.
+
+
+***
+![New AirPods Pro and iPhone SE Rumored to Launch in April 2021](https://images.macrumors.com/t/OE8cRmLyzGkMSZ5TgQ8TAcrMYSk=/1600x/http://images.macrumors.com/article-new/2019/11/airpodsprodesign.jpg "New AirPods Pro and iPhone SE Rumored to Launch in April 2021")
+
+
+[New AirPods Pro and iPhone SE Rumored to Launch in April 2021](https://www.macrumors.com/2021/01/09/airpods-pro-2-iphone-se-3-april-2021-rumor/)
+
+
+> Apple Knowledge Navigator2 minutes ago at 01:06 pmI can't understand why the iPhone 12 mini didn't become the 'new' SE. It surely would've made more sense to sell a smaller phone as a budget product - especially in marketing terms.Score: 1 Votes (Like | Disagree)
+
+
+***
+![Bootstrapping to $80M ARR](https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=533 "Bootstrapping to $80M ARR")
+
+
+[Bootstrapping to $80M ARR](https://techcrunch.com/2021/01/09/bootstrapping-to-80m-arr/)
+
+
+> Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It's broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Click here if you want it in your inbox every Saturday morning. Ready? Let's talk money, startups and spicy IPO rumors. So much for a quiet start to the year. Any hopes of 2021 giving us respite from the turbulent waters of 2020 went splat, as the first week of the New Year was busy with venture capital deals (Divvy! Gtmhub!), IPO news (Affirm! Poshmark! Roblox!), SPAC news (SoFi! BuzzFeed!), and violence in the American capital.
+
+
+***
+![Human Capital: What's next for Dr. Timnit Gebru](https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811898.jpg?w=600 "Human Capital: What's next for Dr. Timnit Gebru")
+
+
+[Human Capital: What's next for Dr. Timnit Gebru](https://techcrunch.com/2021/01/09/human-capital-whats-next-for-dr-timnit-gebru/)
+
+
+> Congrats on surviving this wild first week of 2021. Outside all-things political, a few labor developments happened that are worth noting. Also, shortly before the mob of Trump supporters wreaked havoc on the U.S. Capitol, I caught up with Dr. Timnit Gebru, the prominent AI ethics researcher who said she was fired from Google last month for speaking out about diversity issues. Our full conversation will be available to listen to next Saturday on the newest episode of TC Mixtape, but I've included some snippets for y'all below.
+
+
