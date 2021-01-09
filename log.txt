@@ -1263,3 +1263,26 @@ A gamer knows that there's more to a gaming laptop than raw speed. You can pack 
 https://www.cnet.com/news/best-gaming-laptop-to-buy-for-2021/
 ---------------------
 ******************************************
+2021-01-09 04:22:15 INFO     File updated!
+******************************************
+Google Play suspends Parler until app develops moderation policies
+Google suspended the social media platform Parler on Friday from its Google Play app store until the 'Twitter for conservatives' adopts content moderation policies following the attack on the U.S. Capitol by a mob of President Donald Trump supporters. Parler, founded in 2018, has found traction among conservative users looking for alternatives to more mainstream apps like Facebook and Twitter, which moderate content more rigorously. Parler has banned users for trolling conservatives but doesn't have a formal set of moderation policies.
+https://www.nbcnews.com/tech/social-media/google-play-suspends-parler-until-app-develops-moderation-policies-n1253609
+---------------------
+Donald Trump is banned from Twitter: where will he go next?
+On Friday, the world witnessed the end  of one of the most watched pieces of internet real estate: Donald Trump's Twitter account.  The US President was banned from the social network after the company said he risked inciting violence. It ended a 12-year membership of the social network was fraught with abusive language, repeated rule-breaking and promises to do better . Twitter had been Mr Trump's communication method of choice, a seemingly non-stop stream of grievances, displays of support and warnings to his enemies.
+https://www.telegraph.co.uk/technology/2021/01/09/donald-trump-banned-twitter-will-go-next/
+---------------------
+LEARNING PYTHON AS A BEGINNER
+Hy guys my name is Jason and i want to learn python to code my very own sneaker bot. I am currently in my first year of high school. I got in touch with python a few weeks back because i was really bored in covid. Can you guys recommend me books or videos of where i could learn python. From the basics to high level python. (Sneaker bot is a automation that checkout a item fast.)
+https://www.reddit.com/r/Python/comments/ktjl7f/learning_python_as_a_beginner/
+---------------------
+Speaker thanks South Korea for donating PCR test kits worth USD 3M
+January 9, 2021   09:39 am - Speaker Mahinda Yapa Abeywardane has extended his gratitude to the government of South Korea for donating USD 3 million worth of PCR test kits to be used in Sri Lanka. He also thanked the Korean Embassy for declaring the ‘Stay Strong' campaign to strengthen Sri Lanka's anti-COVID campaign, says the Communications Department of Parliament. He said collaborations of each other reminds that international cooperation is a very strong mechanism to reduce the impact of an international crisis.
+http://www.adaderana.lk/news/70614/speaker-thanks-south-korea-for-donating-pcr-test-kits-worth-usd-3m
+---------------------
+Google suspends Parler social networking app from Play Store; Apple gives 24-hour warning
+Parler is a social network to which many supporters of President Donald Trump have migrated after being banned from services including Twitter Inc. ― AFP pic SAN FRANCISCO, Jan 9 ― Alphabet Inc's Google yesterday suspended the Parler social networking app from its Play Store until the app adds 'robust' content moderation while Apple Inc gave the service 24 hours to submit a detailed moderation plan. Parler is a social network to which many supporters of President Donald Trump have migrated after being banned from services including Twitter Inc, which on Friday permanently suspended Trump's account.
+https://www.malaymail.com/news/tech-gadgets/2021/01/09/google-suspends-parler-social-networking-app-from-play-store-apple-gives-24/1938772
+---------------------
+******************************************
