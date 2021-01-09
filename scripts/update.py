@@ -58,8 +58,12 @@ with open('README.md', 'a') as f:
                 print(article["_id"])
                 sys.stdout = original_stdout_g  # Reset the standard output to its original value
             sys.stdout = f  # Change the standard output to the file we created.
-            print('![{}]({} "{}")'.format(article["title"],article["media"], article["title"]))
-            print('[{}]({})'.format(article["title"],article["link"]))
+            if(article["media"] is None):
+                print('![{}]({} "{}")'.format(article["title"],article["media"], article["title"]))
+                print('\n')
+                print('[{}]({})'.format(article["title"],article["link"]))
+            else:
+                print('[{}]({})'.format(article["title"],article["link"]))
             print('\n')
             print('> {}'.format(article["summary"]))
             print('\n')
