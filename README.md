@@ -688,3 +688,50 @@
 > Bitcoin is back, along with the debate over its value. The price of the digital currency is soaring and last week it hit more than $40,000 for the first time, having doubled in less than a month. Its price has jumped by more than 700% since the pandemic was first declared in March last year, rising from about $5,000. But breathless headlines are nothing new for the 12-year-old cryptocurrency. Bitcoin has been here before, in the previous decade, when it went on a tear with a predictable outcome. Drawing parallels with the tulip mania of the 17th century, bitcoin soared from just below $1,000 at the start of 2017 to come close to $20,000 within 12 months, then crashed to about $3,000 within a few weeks in early 2018.
 
 
+***
+![New iPad](https://forums.macrumors.com/attachments/44ee5d5a-a3ab-4716-8810-942e4427fa9d-jpeg.1709657/ "New iPad")
+
+
+[New iPad](https://forums.macrumors.com/threads/new-ipad-microsoft-office-online-not-working.2279457/)
+
+
+> Got the new iPad Air (lovely device) and transferred over from my new one this morning but trying to edit spreadsheets and word docs it says I need a subscription even though it doesn't on my iPhone and literally was fine on my old iPad earlier. Anyone experienced this? From what I remember you don't need subscription for devices under 10 inch but you do for those above. Was your old iPad 9.7 inch? From what I remember you don't need subscription for devices under 10 inch but you do for those above.
+
+
+***
+![Why Macrumors website stops responding so often?](https://images.macrumors.com/social/?t=2279455&v=6 "Why Macrumors website stops responding so often?")
+
+
+[Why Macrumors website stops responding so often?](https://forums.macrumors.com/threads/why-macrumors-website-stops-responding-so-often.2279455/)
+
+
+> This happens to me VERY often, when I login to Macrumors website to try to send a message to any topic. Whenever I hit Post Macrumors website will take ages to actually post the message, and when I reload the website I always have to wait like 15mins before it finally loads, or I end up seeing a reload issue. This happens witl both stable and dev versions of Safari browser, I havent tried chrome browser yet. Im on M1 Macbook Pro, this is very annoying issue. I am using a M1 MBA and haven't had any problems with the site (using Safari) or any other sites for that matter.
+
+
+***
+[Weekly Python Coding Challenge #2](https://www.reddit.com/r/Python/comments/ktu4va/weekly_python_coding_challenge_2/)
+
+
+> submitted by /u/cfranklin42 [link] [comments]
+
+
+***
+![Deceased Capitol rioter Ashli Babbitt received PPP loan—and she wasn't the only 1](https://uploads.dailydot.com/2021/01/capitol-rioters-ppp-loans.jpg?fm=pjpg&ixlib=php-3.3.0 "Deceased Capitol rioter Ashli Babbitt received PPP loan—and she wasn't the only 1")
+
+
+[Deceased Capitol rioter Ashli Babbitt received PPP loan—and she wasn't the only 1](https://www.dailydot.com/debug/capitol-rioters-ppp-loans/)
+
+
+> Ashli Babbitt, who was fatally shot while attempting to climb through a window during the Capitol riots, received a Paycheck Protection Program (PPP) loan for her businesses in 2020. And she wasn't the only one who has benefitted from the government but still went against it on Wednesday. Share this article *First Published: Jan 9, 2021, 10:37 am Eric Levai hosts and produces the podcast "Counter Intelligence." He is a national security journalist based in California. Contact him with tips at 202-430-6968 or [email protected] Reach him on Twitter at @ericlevai.
+
+
+***
+![These are the best cheap Xbox Live Gold deals for January 2021](https://icdn4.digitaltrends.com/image/digitaltrends/xbox-one-s-review-50-1500x1000-4-1200x630-c-ar1.91.jpg "These are the best cheap Xbox Live Gold deals for January 2021")
+
+
+[These are the best cheap Xbox Live Gold deals for January 2021](https://www.digitaltrends.com/dtdeals/best-xbox-live-gold-deals/)
+
+
+> If you are into gaming, you are undoubtedly aware that playing your favorite game online can unlock extra features, like multiplayer. To do this on an Xbox 360 or Xbox One, or the all-new Xbox Series X, though, you'll need an active Xbox Live Gold subscription. To make this a little lighter on your wallet, we've scoured the web and rounded up all the best Xbox Live Gold deals in one place, including Xbox Live Gold 1-Month, Xbox Live Gold 3-Month, and Xbox Live Gold 6-Month subscriptions. Today's best Xbox Live Gold deals Related Products What is Xbox Live Gold? Xbox Live Gold is a subscription membership that is required if you want to play games online with Xbox One, Xbox 360, or Xbox Series X.
+
+
