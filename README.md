@@ -353,3 +353,13 @@
 > On my Windows PC, there is a line-in that I was using to plug in a standard 3.5mm headphone jack so I could listen to a secondary input source at the same time as normal Windows audio. I just got an M1 mini to use daily (Windows PC will be only for PC gaming now) and tried plugging in the same 3.5mm headphone jack connector as an input from my external source, but Mac OS doesn't recognize it. Headphone output from the jack is fine, but no input. Unfortunately I learned that this jack isn't a true line input so I can't use it how I originally thought.
 
 
+***
+![Monitor only works smoothly at highest resolution](https://images.macrumors.com/social/?t=2279440&v=6 "Monitor only works smoothly at highest resolution")
+
+
+[Monitor only works smoothly at highest resolution](https://forums.macrumors.com/threads/monitor-only-works-smoothly-at-highest-resolution.2279440/)
+
+
+> Hi, I have a Dell P2715Q, and I'm having trouble getting it to work smoothly on any other resolution than its highest - 3840x2160. It's currently connected to my Mac mini 2018 with a DisplayPort to USB-C cord. I've tried to use another DisplayPort to USB-C cord, and an multiple HDMI cords, but I think I can rule out a connection issue. For the record, using an HDMI connection has resulted in curser delay. From the preferences pane, I've tried other resolutions (default for display, and scaled), but 3840x2160 seems to be the only resolution that works well.
+
+
