@@ -732,3 +732,50 @@
 > If you are into gaming, you are undoubtedly aware that playing your favorite game online can unlock extra features, like multiplayer. To do this on an Xbox 360 or Xbox One, or the all-new Xbox Series X, though, you'll need an active Xbox Live Gold subscription. To make this a little lighter on your wallet, we've scoured the web and rounded up all the best Xbox Live Gold deals in one place, including Xbox Live Gold 1-Month, Xbox Live Gold 3-Month, and Xbox Live Gold 6-Month subscriptions. Today's best Xbox Live Gold deals Related Products What is Xbox Live Gold? Xbox Live Gold is a subscription membership that is required if you want to play games online with Xbox One, Xbox 360, or Xbox Series X.
 
 
+***
+![Program modelling simple, double, triple and spherical pendulum](https://external-preview.redd.it/eheZlSgfMymqtQs5faqtBmcAwO_EgdAwh3iXlsC5y3c.jpg?auto=webp&s=10758245ba71ee73bb193e42eb443f07aa897ec1 "Program modelling simple, double, triple and spherical pendulum")
+
+
+[Program modelling simple, double, triple and spherical pendulum](https://www.reddit.com/r/Python/comments/ktvsjx/program_modelling_simple_double_triple_and/)
+
+
+> One friend of mine and myself did this program last year for a proyect for the University, and it came to my mind it'd be a great idea to share it so you guys can check it out and correct our mistakes, hope you like it! Btw comments in the program are in Spanish, hopefully that's not a huge problem, but if you have any doubt ask me! GitHub link: elporche1/Proyecto-Pendulo: Modelo de péndulo simple, doble, triple y esférico (github.com)
+
+
+***
+![Want to try something new? Learn photography with 15 top-rated courses for $40](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2021/01/sale_162645_article_image-3u5b.jpg "Want to try something new? Learn photography with 15 top-rated courses for $40")
+
+
+[Want to try something new? Learn photography with 15 top-rated courses for $40](https://www.androidcentral.com/want-try-something-new-learn-photography-15-top-rated-courses-40)
+
+
+> Source: Stack Commerce Source: StackCommerce Anyone can take a smartphone snap. But to make great art, you need to use a proper camera and know how to edit. The 2021 Complete Learn to Master Photography & Editing Bundle helps you pick up these skills, with 15 top-rated courses for just $39.99. Whether you want to become a creative professional or simply improve your Instagram posts, this bundle provides essential knowledge. Through 34 hours of hands-on tutorials, you learn how to spot great compositions, take full manual control of your camera, and enhance the pictures in Photoshop.
+
+
+***
+![What is the best 5G network in 2021?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/pixel-4a-5g-2.jpg "What is the best 5G network in 2021?")
+
+
+[What is the best 5G network in 2021?](https://www.androidcentral.com/best-5g-network)
+
+
+> Best 5G Network Android Central 2021 The best 5G network will have a good balance of speed and coverage with room to grow and add capacity as 5G adoption increases. 5G connectivity is now available to millions of people in the U.S. thanks to improved support from phone makers and sub-6 5G networks. AT&T, T-Mobile, and Verizon all now offer 5G coverage with sub-6 and mmWave. However, T-Mobile has the best overall 5G network thanks to its wide sub-6 at both 600MHz and 2.5GHz coverage with room to grow with mmWave spectrum.
+
+
+***
+[adder46/pyhstr a history suggest box that lets you quickly search, navigate, and manage your Python shell history](https://www.reddit.com/r/Python/comments/ktvp02/adder46pyhstr_a_history_suggest_box_that_lets_you/)
+
+
+> submitted by /u/pmz [link] [comments]
+
+
+***
+![What are your biggest gripes with python?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "What are your biggest gripes with python?")
+
+
+[What are your biggest gripes with python?](https://www.reddit.com/r/Python/comments/ktvmco/what_are_your_biggest_gripes_with_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
