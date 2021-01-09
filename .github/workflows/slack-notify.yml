@@ -1,4 +1,6 @@
-on: workflow_run
+on:
+  workflow_run:
+    workflows: ["CI", "Workflow 1"] 
 name: Slack Notification
 jobs:
   slackNotification:
