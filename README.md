@@ -232,3 +232,13 @@
 > Mi 360 Home Security Camera 2K Pro and Mi Smart Clock have been launched in the European market expanding Xiaomi's IoT portfolio. Mi 360 Home Security Camera 2K Pro has upgraded AI and can record at 1,269p for a sharper image. It also comes with dual noise cancelling mics for better audio. Mi Smart Clock features a coloured touch screen and can act as a digital photo frame, alarm clock, smart assistant, and more.Mi 360 Home Security Camera 2K Pro, Mi Smart Clock priceMi 360 Home Security Camera 2K Pro is priced at EUR 59.
 
 
+***
+![What to expect from the first-ever virtual CES](https://cdn.arstechnica.net/wp-content/uploads/2021/01/ces-preview-760x380.jpg "What to expect from the first-ever virtual CES")
+
+
+[What to expect from the first-ever virtual CES](https://www.wired.com/story/ces-2021-what-to-expect/)
+
+
+> Last year's CES in Las Vegas, Nevada, marked the last time for a long time many of us would be chatting face-to-face, exchanging invisible respiratory droplets, handling the same germy gadgets, and enjoying food and drinks in windowless restaurants. This year, due to the ongoing pandemic , the annual CES takes place entirely on our computer screens. The first-ever completely remote staging of the consumer tech industry's tentpole event starts on Monday, January 11. Experiencing CES from afar poses some obvious challenges for those of us reporting on the show.
+
+
