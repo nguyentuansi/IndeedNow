@@ -711,3 +711,26 @@ The Verge: Twitter says it has permanently suspended Trump's @realDonaldTrump ac
 http://www.techmeme.com/210108/p21#a210108p21
 ---------------------
 ******************************************
+2021-01-09 00:12:14 INFO     File updated!
+******************************************
+Can I buy a phone that doesn't use anything from Google or Apple?
+I have concerns about the likes of Google and Apple slurping up as much info as they can about me from my phone. I've tried looking online for alternatives and found mentions of things like /e/, Lineage, Sailfish OS etc, but they assume a level of tech knowledge far above what I have as a layman. So, are there any phones that are 100% free from Google and Apple software and hardware? How easy are such phones to obtain? Steve Very easy. You can pick up a Nokia 105 (2017 edition) for about £15 or a dual-sim Nokia 106 (2018 edition) for about £16.
+http://www.theguardian.com/technology/askjack/2019/jul/04/can-i-buy-a-phone-that-does-not-use-anything-from-google-or-apple
+---------------------
+Comex and IT Show live stream off to good start
+Facebook page Comex and IT Show held its first live-streaming event of the year on Thursday, featuring products from Samsung and bike retailer Mobot. Thursday's edition of the Live@ComexITShow was the first in a series of unboxing events that will be streamed on the Facebook page every first Thursday of the month until March. The live shows got off to a good start at 8pm, with the first one by Samsung garnering around 3,100 views and 2,600 comments as at 9pm. Mobot, which hosted the second live show from 9pm to about 10pm, received similar levels of viewership.
+https://www.straitstimes.com/tech/comex-and-it-show-live-stream-off-to-good-start
+---------------------
+Twitter tira conta de Trump do ar permanentemente
+Em um post no blog da companhia, o Twitter detalhou a decisão, dizendo que perfis de autoridades eleitas e líderes mundiais não podem estar totalmente acima das regras da plataforma e nem usá-la para incitar violência. Usuários da rede social vinham pressionando o Twitter por medidas mais drásticas desde que um grupo de apoiadores do presidente dos Estados Unidos invadiu o Congresso , na quarta (6), onde acontecia a reunião que certificou a vitória Joe Biden nas eleições. O ato aconteceu de forma violenta, com vandalismo, e resultou em pelo menos 5 mortes .
+https://g1.globo.com/economia/tecnologia/noticia/2021/01/08/twitter-tira-conta-de-trump-do-ar.ghtml
+---------------------
+Saturday Daily Thread: Share your resources!
+Found a neat resource related to Python over the past week? Looking for a resource to explain a certain topic? Use this thread to chat about and share Python resources!
+https://www.reddit.com/r/Python/comments/ktfa01/saturday_daily_thread_share_your_resources/
+---------------------
+Trump's Twitter Account Permanently Suspended
+OAKLAND, Calif. — Twitter said on Friday that it had permanently suspended President Trump from its service 'due to the risk of further incitement of violence,' effectively cutting him off from his favorite megaphone for reaching his supporters. 'We have determined that these tweets are in violation of the Glorification of Violence Policy and the user @realDonaldTrump should be immediately permanently suspended from the service,' Twitter said in a blog post.
+https://www.nytimes.com/2021/01/08/technology/twitter-trump-suspended.html
+---------------------
+******************************************
