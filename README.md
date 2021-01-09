@@ -242,3 +242,43 @@
 > Last year's CES in Las Vegas, Nevada, marked the last time for a long time many of us would be chatting face-to-face, exchanging invisible respiratory droplets, handling the same germy gadgets, and enjoying food and drinks in windowless restaurants. This year, due to the ongoing pandemic , the annual CES takes place entirely on our computer screens. The first-ever completely remote staging of the consumer tech industry's tentpole event starts on Monday, January 11. Experiencing CES from afar poses some obvious challenges for those of us reporting on the show.
 
 
+***
+![Satellite pics show Trump danger growing](https://content.api.news/v3/images/bin/526effb009fcbfffa834e00752d1ac0d "Satellite pics show Trump danger growing")
+
+
+[Satellite pics show Trump danger growing](https://www.heraldsun.com.au/technology/innovation/dangerous-time-tensions-rise-as-nuclear-foes-iran-israel-and-the-us-face-off/news-story/47b6d23a5b74ee2afe984d961c494154)
+
+
+> Iran is now '90 per cent' of the way to making a nuclear bomb and that's put it on a collision course with an 'unpredictable' Donald Trump on his last days in office. While the world has been distracted by the circus in Washington DC following Donald Trump's electoral defeat, 10,000 kilometres to the east sinister moves have been quietly taking place with the aim of creating the world's 10th nuclear armed nation. In the space of a matter of weeks, Iran has said it will boost its weapons program, has taken a Korean tanker apparently hostage and the US has flown nuclear armed bombers to the Persian Gulf.
+
+
+***
+![Satellite pics show Trump danger growing](https://cdn.newsapi.com.au/image/v1/526effb009fcbfffa834e00752d1ac0d?width=1280 "Satellite pics show Trump danger growing")
+
+
+[Satellite pics show Trump danger growing](https://www.news.com.au/technology/innovation/military/dangerous-time-tensions-rise-as-nuclear-foes-iran-israel-and-the-us-face-off/news-story/47b6d23a5b74ee2afe984d961c494154)
+
+
+> Iran has resumed 20% uranium enrichment at an underground nuclear facility, the government said on Monday, breaching a 2015 nuclear pact with major powers and possibly complicating efforts by U.S. President-elect Joe Biden to rejoin the deal. This report produced by Jillian Kitchener. Iran has resumed 20% uranium enrichment at an underground nuclear facility, the government said on Monday, breaching a 2015 nuclear pact with major powers and possibly complic... While the world has been distracted by the circus in Washington DC following Donald Trump's electoral defeat, 10,000 kilometres to the east sinister moves have been quietly taking place with the aim of creating the world's 10th nuclear armed nation.
+
+
+***
+![Here's How Donald Trump Could Be Removed As President Through Invoking The 25th Amendment](https://cdn.digg.com/wp-content/uploads/2021/01/09124852/maxresdefault-33.jpg "Here's How Donald Trump Could Be Removed As President Through Invoking The 25th Amendment")
+
+
+[Here's How Donald Trump Could Be Removed As President Through Invoking The 25th Amendment](https://digg.com/video/heres-how-donald-trump-could-be-removed-as-president-through-invoking-the-25th-amendment)
+
+
+> 👋 Welcome to Digg Thanks for creating an account! Your accounts lets you Digg (upvote) stories, save stories to revisit later, and more. 📩 Stay up-to-date Email will be sent to: Select the newsletters you'd like to receive. You can change your subscriptions any time in your user settings. Daily morning newsletter Afternoon video roundup Bitcoin Long Reads
+
+
+***
+![Do you know any python GUI / django app for basic data analysis ?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Do you know any python GUI / django app for basic data analysis ?")
+
+
+[Do you know any python GUI / django app for basic data analysis ?](https://www.reddit.com/r/Python/comments/ktqbt0/do_you_know_any_python_gui_django_app_for_basic/)
+
+
+> I'm starting to write a django app to implement basic univariate and multivariate analysis along with automatic plot etc... Before reinventing the wheel, do you know of such programs in python (or R) that is not a full GUI software like SPSS ?
+
+
