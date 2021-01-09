@@ -780,3 +780,26 @@ Some of you might remember 1.5+ from the Wii U days. Not exactly the biggest bas
 https://gonintendo.com/stories/375126-ping-redux-coming-to-switch-on-jan-12th-2021
 ---------------------
 ******************************************
+2021-01-09 03:09:08 INFO     File updated!
+******************************************
+Twitter suspends Trump's campaign account @TeamTrump for violating its rules
+
+https://www.investing.com/news/technology-news/twitter-suspends-trumps-campaign-account-teamtrump-for-violating-its-rules-2384118
+---------------------
+Google suspends Parler from app store, urges tighter content moderation
+Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+https://www.reddit.com/r/technology/comments/kti7up/google_suspends_parler_from_app_store_urges/
+---------------------
+Python Programming Basics
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+https://www.reddit.com/r/programming/comments/kti5km/python_programming_basics/
+---------------------
+Capitol Hill siege: Twitter bans Michael Flynn and Sidney Powell
+Twitter has banned President Donald Trump's former national security adviser Michael Flynn and pro-Trump attorney Sidney Powell as part of a purge of QAnon accounts following the storming of the US Capitol by a mob of violent Trump supporters. Social media companies have been under intensified pressure to crack down on hate speech after Wednesday's attack on the Capitol. Dozens of QAnon social media accounts were hyping up January 6 in the days leading up to a Washington DC rally for Trump, expressing hope that President-elect Joe Biden's victory would be overturned.
+https://indianexpress.com/article/technology/tech-news-technology/twitter-bans-michael-flynn-sidney-powell-7139127/
+---------------------
+Twitter permanently suspends president as impeachment articles drawn up – follow live
+Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+https://www.reddit.com/r/technology/comments/kti3nj/twitter_permanently_suspends_president_as/
+---------------------
+******************************************
