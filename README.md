@@ -107,3 +107,38 @@ Fetch Tech News with Python every 5 / 15 mins.
 > Amazon India has opened its largest fulfilment centre in Sonipat city in India's Haryana state. The warehouse, sprawling across 200,000 square feet, is said to be Amazon's 22nd warehouse in India, according to LiveMint. The fulfilment centre will assist sellers in north India to stock their products with Amazon. 'It will enable thousands of small and medium businesses to save money by replacing their upfront capital expense with low variable cost and pay only for the storage space they use and the orders that we fulfill,' said Akhil Saxena, vice-president, India customer fulfilment, Amazon India.
 
 
+![6 of the best gaming headsets for your PS5](https://mondrian.mashable.com/2021%252F01%252F06%252F1b%252Fc735736faadc4883b53bc5f781dc6815.d43df.png%252F1200x630.png?signature=_xv6uq72_XTCusjrK453vSHRdP4= "6 of the best gaming headsets for your PS5")
+[6 of the best gaming headsets for your PS5](https://mashable.com/uk/roundup/best-gaming-headsets-for-ps5-uk/)
+
+
+> Gaming is all about the senses. You see, hear, and feel gaming, and it's important that you indulge all of these sensations. But how do you achieve this? We know that consoles are expensive, but it really is worth investing in quality accessories to upgrade your experience to the next level. We're talking about gaming TVs, controllers, and headsets. The average gamer doesn't need to worry about controllers, because your console should come with an official device, but this isn't the case with TVs and headsets (unless you've bagged an incredible bundle).
+
+
+![This crash course in dog ownership is on sale for 97% off](https://mondrian.mashable.com/2021%252F01%252F09%252F4b%252Ff6bb70f37bbd49a1a876152f653147e7.5918d.png%252F1200x630.png?signature=ublM931qM0d3yekRuZgcxLg4akc= "This crash course in dog ownership is on sale for 97% off")
+[This crash course in dog ownership is on sale for 97% off](https://mashable.com/uk/shopping/jan-9-dog-training-master-class-bundle/)
+
+
+> TL;DR: The How to Train and Raise A Healthy Dog Master Class Bundle is on sale for £22.04 as of Jan. 9, saving you 97% on list price. Ever wonder how your friends on Instagram seem to have adopted the most well-behaved, photogenic dogs ever? If it seems like you're the only one totally overwhelmed by the idea of owning a pet, you may just need a little help. The How to Train and Raise a Healthy Dog Master Class can be that resource, and it will only cost you about £22. SEE ALSO: Smash your fitness goals with this discounted Fitbit bundle In this bundle of virtual courses, you'll learn valuable tips and tricks for raising happy and healthy pets — even if you're a first-time pet owner.
+
+
+![Program for full pyramid of *](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Program for full pyramid of *")
+[Program for full pyramid of *](https://www.reddit.com/r/programming/comments/ktkeo8/program_for_full_pyramid_of/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+![Train to be a professional game developer for under &#163;20](https://mondrian.mashable.com/2021%252F01%252F09%252F13%252F791950c8094640e5a80b8721ffe3cc70.1384d.jpg%252F1200x630.jpg?signature=eV1M9aBp6zI-gTV_DL_bHKC5uL8= "Train to be a professional game developer for under &#163;20")
+[Train to be a professional game developer for under &#163;20](http://feeds.mashable.com/~r/Mashable/~3/Py2WowOLpjc/)
+
+
+> Products featured here are selected by our partners at StackCommerce.If you buy something through links on our site, Mashable may earn an affiliate commission. TL;DR: The Official Unity Game Development Bundle is on sale for £18.37 as of Jan. 9, saving you 96% on list price. It doesn't matter if you're a gamer or a non-gamer — the world is crazy about the PS5. People who don't have one pretend they do. People who have one are upping the price and selling it at a ridiculous price. Pro tip: please don't buy a PS5 for a thousand pounds.
+
+
+![Parler Pitched Itself as Twitter Without Rules. Not Anymore, Apple and Google Said.](https://static01.nyt.com/images/2021/01/08/business/08APPLE2/08APPLE2-facebookJumbo.jpg "Parler Pitched Itself as Twitter Without Rules. Not Anymore, Apple and Google Said.")
+[Parler Pitched Itself as Twitter Without Rules. Not Anymore, Apple and Google Said.](https://www.nytimes.com/2021/01/08/technology/parler-apple-google.html)
+
+
+> Continue reading the main storyGoogle and Apple told Parler, a social network popular with far-right conservatives, that it must better police its users if it wants a place in their app stores.Apple threatened to remove Parler from its App Store if it did not regulate its content. Credit...Mark Lennihan/Associated PressPublished Jan. 8, 2021Updated Jan. 9, 2021, 12:03 a.m. ETParler is one of the hottest apps in the world, a social network that has attracted millions of far-right conservatives over the past year with its hands-off approach to policing users' posts.
+
+
