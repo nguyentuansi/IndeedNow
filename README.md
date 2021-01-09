@@ -561,3 +561,23 @@
 > WhatsApp has revised its privacy policy, which has sparked concern given the data sharing with Facebook and its partner companies. The new privacy policy has certainly caused a lot more people to consider alternatives to WhatsApp. The Signal app for instance has seen a meteoric rise in its popularity, and has topped the charts on iOS, driven by an increase in downloads from India. Another popular alternative to WhatsApp is Telegram, which while it is not end-to-end encrypted across the app, continues to gain new users.
 
 
+***
+![I made a text based football manager game](https://external-preview.redd.it/UTqPHUIInInpi-SfT4m0OhSazqe-Ojoz73htuLX-9l8.jpg?auto=webp&s=700741ec744152e9679bf9263dfa4eab6da414ae "I made a text based football manager game")
+
+
+[I made a text based football manager game](https://www.reddit.com/r/Python/comments/ktsmpe/i_made_a_text_based_football_manager_game/)
+
+
+> My first 'real' python project outside of school/uni. I'm hoping that some of you check out my game and get a bit of fun out of it and maybe some constructive feedback :) Mostly I'm just glad I was able to actually complete something and not have it sit around unfinished forever. Readme has all the information about the game's features but its mostly a simplified clone of football mananger with some RPG elements like luck added in. Github link
+
+
+***
+![Jupiter, Saturn and Mercury conjunction – how to watch tonight](https://www.thesun.co.uk/wp-content/uploads/2021/01/TM-graphic-Planet-Conjunction-NoHead.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Jupiter, Saturn and Mercury conjunction – how to watch tonight")
+
+
+[Jupiter, Saturn and Mercury conjunction – how to watch tonight](https://www.thesun.co.uk/tech/13690201/jupiter-saturn-mercury-conjunction-watch/)
+
+
+> MERCURY will come close to Jupiter and Saturn in the sky this evening as the three planets form a rare conjunction. Stargazers should be able to spot the celestial event until January 11. 3 3 Jupiter and Saturn recently made their closest approach in December Credit: EPA Nasa said: "From Friday evening to Monday evening, the planet Mercury will appear to pass first by Saturn and then by Jupiter as it shifts away from the horizon, visible each evening low in the west-southwest and setting before evening twilight ends.
+
+
