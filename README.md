@@ -42,3 +42,18 @@
 > The Sony drone rumors have been growing for a couple of years now, but it was still surprising when an official drone project – called Sony Airpeak – was announced in November 2020. With competitors like DJI and Skydio flying way ahead of their competitors, any new competitor seemingly has a lot of ground to make up. Then again, this is Sony we're talking about, and there are many reasons why this could be a great time for it to enter the drone game. It's not yet clear what kind of drone Sony has been working on.
 
 
+[Google removes 'Parler' social network app from Play Store over incitement to US Capitol violence](https://www.freepressjournal.in/technology/google-removes-parler-social-network-app-from-play-store-over-incitement-to-us-capitol-violence)
+
+
+> 
+
+
+![Golang vs Python: Complete Comparison with their Top Frameworks](https://external-preview.redd.it/fS_eLDcduq_KFeuACmlVUuTKiV_WHF5Ion5sQtpv_sM.jpg?auto=webp&s=6a3bee723def2d4245e2e0999304000046dc03f9 "Golang vs Python: Complete Comparison with their Top Frameworks")
+
+
+[Golang vs Python: Complete Comparison with their Top Frameworks](https://www.reddit.com/r/Python/comments/ktoeoh/golang_vs_python_complete_comparison_with_their/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
