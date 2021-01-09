@@ -403,3 +403,47 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+[Apple iPhone 12 Costs 21 Percent More Than iPhone 11: Report](https://www.thequint.com/tech-and-auto/gadgets/apple-iphone-12-costs-21-percent-more-than-iphone-11-report)
+
+
+> Application processor, 5G baseband, display and 5G RF components represent the major areas of the cost increase.
+
+
+***
+[Sneaky WhatsApp hack for iPhone lets you read messages WITHOUT sender knowing](https://www.thesun.ie/tech/6391356/simple-whatsapp-hack-iphone-read-messages-without-sender-knowing/)
+
+
+> IF YOU’VE ever wanted to read a WhatsApp message without the sender knowing, you’re in luck. A simple hack on iPhone lets you view your texts while dodging the app’s dreaded blue ticks. Normally when you read a text, blue ticks appear for the sender – but iPhone users can read messages freely without triggering […]
+
+
+***
+![Sneaky WhatsApp hack for iPhone lets you read messages WITHOUT sender knowing](https://www.thesun.co.uk/wp-content/uploads/2021/01/NINTCHDBPICT000595026328.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Sneaky WhatsApp hack for iPhone lets you read messages WITHOUT sender knowing")
+
+
+[Sneaky WhatsApp hack for iPhone lets you read messages WITHOUT sender knowing](https://www.thesun.co.uk/tech/13686616/simple-whatsapp-hack-iphone-read-messages-without-sender-knowing/)
+
+
+> IF YOU'VE ever wanted to read a WhatsApp message without the sender knowing, you're in luck. A simple hack on iPhone lets you view your texts while dodging the app's dreaded blue ticks. There's a simple way to read a WhatsApp message without alerting the senderCredit: Alamy Live News Normally when you read a text, blue ticks appear for the sender – but iPhone users can read messages freely without triggering the ticks. Most people trying to avoid "read receipts" simply use the Airplane Mode method, which shuts off data so the sender's WhatsApp won't know you've read a text.
+
+
+***
+![CES 2021 is still a thing, and it's going to be huge for PC gaming](https://cdn.mos.cms.futurecdn.net/uGgRnuVByShJysFj7gFche-1200-80.jpg "CES 2021 is still a thing, and it's going to be huge for PC gaming")
+
+
+[CES 2021 is still a thing, and it's going to be huge for PC gaming](https://www.techradar.com/news/ces-2021-is-still-a-thing-and-its-going-to-be-huge-for-pc-gaming)
+
+
+> We're living in strange times, so CES 2021, arguably the biggest tech event of the year, obviously had to adapt. And while a lot of the digital events that have emerged during the pandemic have been relatively minor, CES 2021 is shaping up to be a pretty major show for PC gamers. Nvidia, AMD and Intel all have major keynote shows over the next week, and the way rumors have been shaping up for all three points to some major hardware launches. So, whether you're a laptop warrior or you're looking for a way to upgrade or build a new PC, you'll probably want to keep an eye on the proceedings over the next week or so.
+
+
+***
+![Apple Fitness Plus vs Peloton: choose the right workout subscription service for you](https://cdn.mos.cms.futurecdn.net/X8gxRXfpSxEodP7PiJFqJg-1200-80.jpg "Apple Fitness Plus vs Peloton: choose the right workout subscription service for you")
+
+
+[Apple Fitness Plus vs Peloton: choose the right workout subscription service for you](https://www.techradar.com/news/apple-fitness-plus-vs-peloton)
+
+
+> Peloton has long been the biggest name in instructor-led home workouts, but now Apple Fitness Plus is offering a very similar service for a similar fee. So what are the differences, and which one is best for you?Gym memberships usually skyrocket at the start of a new year. Coronavirus has changed all that though, with many of us looking at other ways to rid ourselves of the extra weight we've gained due to all that festive excess.If you want to bypass going to a gym and have been looking at alternative ways to get more exercise in or around your home then both Apple Fitness Plus and Peloton make obvious places to start.
+
+
