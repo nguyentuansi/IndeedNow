@@ -779,3 +779,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![The deplatforming of a president](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1155448140.jpg?w=463 "The deplatforming of a president")
+
+
+[The deplatforming of a president](https://techcrunch.com/2021/01/09/the-deplatforming-of-a-president/)
+
+
+> After years of placid admonishments, the tech world came out in force against President Trump this past week following the violent assault of the U.S. Capitol building in Washington D.C. on Wednesday. From Twitter to PayPal, more than a dozen companies have placed unprecedented restrictions or outright banned the current occupant of the White House from using their services, and in some cases, some of his associates and supporters as well. The news was voluminous and continuous for the past few days, so here's a recap of who took action when, and what might happen next.
+
+
+***
+![Which small SUV should I buy?](https://cdn.newsapi.com.au/image/v1/652a232416c03972a2efb660708cf0c2?width=1280 "Which small SUV should I buy?")
+
+
+[Which small SUV should I buy?](https://www.news.com.au/technology/motoring/car-advice/which-is-the-best-small-suv-in-australia/news-story/666e4365fa20d7552ba98465b3291192)
+
+
+> The compact SUV market is one of the most crowded in Australia and the sheer volume of options can be confusing for buyers. But there are some great options if you know where to look.THE QUESTION I want to downsize from my 2014 Mitsubishi Outlander to a smaller SUV, possibly the Mitsubishi ASX. Ease of entry/exit is important, budget's around $30k, and my shortlist includes the Kia Seltos, Honda HR-V, Hyundai Tucson or Venue, Nissan X-Trail or Qashqai. Any others?Matthew Geddes, emailANSWERI think you'll find the Hyundai Venue too great a size change (it's titchy), and the Tucson too similar to your Outlander.
+
+
+***
+![Colts vs Bills live stream: how to watch NFL playoff game online from anywhere now](https://cdn.mos.cms.futurecdn.net/92o83MqmcXKvSXVbAuoqJo-1200-80.jpg "Colts vs Bills live stream: how to watch NFL playoff game online from anywhere now")
+
+
+[Colts vs Bills live stream: how to watch NFL playoff game online from anywhere now](https://www.techradar.com/news/colts-vs-bills-live-stream-how-to-watch-nfl-wild-card-playoff-game-online-anywhere)
+
+
+> The first game of the 2021 NFL playoffs is now under way. Buffalo may have missed out on the AFC No. 1 seed and first-round bye that goes with it, but they still sizzled last Sunday, frying Miami 56-26 in their final game of the regular season. Perhaps unexpectedly, that Bills win paved the way for the Indianapolis Colts to sneak into the playoffs - so it's only fitting the two teams meet today. Read on as we explain how to get a Colts vs Bills live stream and watch the NFL playoffs online wherever you are right now for this Wild Card clash.
+
+
+***
+![Now Playing Album Cover on Siri watch face](https://images.macrumors.com/social/?t=2279474&v=6 "Now Playing Album Cover on Siri watch face")
+
+
+[Now Playing Album Cover on Siri watch face](https://forums.macrumors.com/threads/now-playing-album-cover-on-siri-watch-face.2279474/)
+
+
+> Jun 26, 2020 24 7 Euskal Herria / Kingdom of Navarre Hi everyone! When I play music on iPhone, Now Playing data is shown on Siri watch face, showing the song info but without album cover. When I play music on watch, the album cover is shown. I remember that in previous versions the album cover was shown when music was playing on iPhone. Anyone else with this problem? I'm having this problem with iPhone 7 Plus iOS14.3 and AW watchOS 7.2 Thanks!
+
+
+***
+![SSD use on multiple computers](https://images.macrumors.com/social/?t=2279473&v=6 "SSD use on multiple computers")
+
+
+[SSD use on multiple computers](https://forums.macrumors.com/threads/ssd-use-on-multiple-computers.2279473/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hello all! I have a 2009 (20inch) and a 2017(21.5 in) imac and I'm hoping that there is a possibility of running both off an external SSD. Is this possible? I will have the two computers at two locations (home/work). I'm switching to an external SSD for speed on the 2017 regardless, but just curious if the SSD would work with both. Thanks for any help/advice on this! You must log in or register to reply here.
+
+
