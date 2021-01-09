@@ -42,3 +42,31 @@
 > (Image credit: Twitter) After an initial 12-hour block issued in the wake of Wednesday's storming of the US Capitol building, Twitter has now suspended Donald Trump's personal @realDonaldTrump account permanently, "due to the risk of further incitement of violence".The outgoing US President had already been kicked off Facebook and Instagram for an indefinite period, with Facebook boss Mark Zuckerberg saying that Trump was using the platforms "to incite violent insurrection against a democratically elected government".
 
 
+![LG Wing review: A small extra screen that adds huge value](https://images.indianexpress.com/2021/01/LG-Wing-review.jpg "LG Wing review: A small extra screen that adds huge value")
+[LG Wing review: A small extra screen that adds huge value](https://indianexpress.com/article/technology/tech-reviews/lg-wing-review-a-small-extra-screen-that-adds-huge-value-7139545/)
+
+
+> Yes, there were some great phones that came out in 2020. But it was still a boring year for smartphones, with very few companies pushing the envelope on new ideas. If there was an exception, it was the LG Wing, a device with a literal twist on how we view smartphones. But it is not surprising that this phone has come from LG, the one company that has been consistent in thinking out of the box on what it can do next in the smartphone space. LG Wing's beautiful rear panel. (Image source: Nandagopal Rajan/ Indian Express) LG Wing price in India: Rs 69,990 LG Wing specifications: 6.
+
+
+![Mid 2012 MacBook Air struggles!](https://images.macrumors.com/social/?t=2279411&v=6 "Mid 2012 MacBook Air struggles!")
+[Mid 2012 MacBook Air struggles!](https://forums.macrumors.com/threads/mid-2012-macbook-air-struggles.2279411/)
+
+
+> Hi Folks, i‘ve just gotten my 2012 MacBook air back from my daughter, she's gone ipad, and I'm really struggling with it. I gave this to my daughter about 4 years ago when I went all in on the iPad myself, it I loved it at the time. When I was using it I had all my mail accounts, notifications for Facebook messenger and it ran for me just like my iPad does now. I know it's old machine but since I reset it and upgraded to Mojave it's shockingly good for a 9 year old computer. I only want to use it now in my shed and should've just been happy with an internet and YouTube machine, but hey🤷🏼‍♂️, now it's up and running I want it back the way it was.
+
+
+![This drone can smell obstacles using live moth antenna](https://www.thehindu.com/sci-tech/technology/6r08r1/article33535949.ece/ALTERNATES/LANDSCAPE_615/Smellicopter "This drone can smell obstacles using live moth antenna")
+[This drone can smell obstacles using live moth antenna](https://www.thehindu.com/sci-tech/technology/this-drone-can-smell-obstacles-using-live-moth-antenna/article33535938.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Researchers at the University of Washington and the University of Maryland have developed an autonomous drone that uses live antennae from a moth to smell and avoid obstacles as it travels in the air.The 'smellicopter" was developed in association with the Air Force Center of Excellence on Nature-Inspired Flight Technologies and Ideas (NIFTI), and uses antennae from the Manduca sexta hawkmoth.
+
+
+![Telegram Takes Jab at WhatsApp and Facebook on Twitter, Fans Join In](https://i.gadgets360cdn.com/large/Telegram_twitter_meme_1610181556705.jpg "Telegram Takes Jab at WhatsApp and Facebook on Twitter, Fans Join In")
+[Telegram Takes Jab at WhatsApp and Facebook on Twitter, Fans Join In](https://gadgets.ndtv.com/social-networking/news/telegram-whatsapp-facebook-twitter-elon-musk-use-signal-tweet-privacy-policy-change-2350027)
+
+
+> Telegram seems to be enjoying the backlash WhatsApp received after it updated its privacy policy earlier this week. The messaging service posted the classic two Spider-Man pointing at each other meme with Facebook and WhatsApp icons in place of the two superheroes on Twitter. It then continued to take jabs at WhatsApp and Telegram users chimes in as well. Telegram is an instant messaging app that also supports video calling and VoIP service, making it a direct competitor to WhatsApp.Telegram, through its official account, took to Twitter to share a meme making fun of WhatsApp and Facebook.
+
+
