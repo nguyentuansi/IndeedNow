@@ -757,3 +757,26 @@ Asus ROG Strix Scar III gaming laptop (Image credit: Future) January is shaping 
 https://www.laptopmag.com/news/best-gaming-laptop-deals
 ---------------------
 ******************************************
+2021-01-09 02:44:19 INFO     File updated!
+******************************************
+I would like there to be a way to delete an account permanently
+Similar to how reddit does things, I want to delete my account and have posts with my name simply be anonymized with the user name either saying "deleted" or perhaps with an anonymous ID of some sort. I have no interest in being a part of this community anymore, and it's unfortunate that there is no option to really delete an account; it is only posible to stop using it. Thanks arn, I appreciate it
+https://forums.macrumors.com/threads/i-would-like-there-to-be-a-way-to-delete-an-account-permanently.2279366/
+---------------------
+Mac to TV
+Jul 25, 2015 9 1 Encinitas, CA I have connected my Mac to my TV screen via an HDMI cable. For several months, I have been able to watch TV with sound, by starting a video on the Mac, then connecting the HDMI cable to the TV. But for some reason, that won't work anymore. I'm having what seems like a common problem - namely, the picture is fine, but there's no sound. I've researched all over, and none of the suggested remedies work. System Preferences/Sound/Output just shows ‘headphones' but does not show any other options.
+https://forums.macrumors.com/threads/mac-to-tv-no-sound-and-hdmi-is-not-an-output-option.2279365/
+---------------------
+Mercedes-Benz goes next level in tech with the MBUX Hyperscreen
+Mercedes-Benz introduces its super futuristic MBUX Hyperscreen.
+https://www.heraldsun.com.au/technology/mercedesbenz-goes-next-level-in-tech-with-the-mbux-hyperscreen/video/47d5497e2d79265218d96b046655f8c5
+---------------------
+MESSAGE FROM THE PRESIDENT On Social Media Censorship
+President Donald Trump tweeted from the official @POTUS account following his permanent ban from Twitter, condemning the company's censorship and signaling that he intends to move to a new social network, or build a replacement. The tweets promptly disappeared from the account. The message from the President briefly appeared on the @POTUS account before disappearing. It is not clear if Trump or another person with access to the account deleted the posts, or if Twitter did so itself. In the posts, Trump said that he was in talks with other sites and is also looking at the possibility of building his own platform.
+https://www.breitbart.com/tech/2021/01/08/message-from-the-president-on-social-media-censorship/
+---------------------
+Ping Redux coming to Switch on Jan. 12th, 2021
+Some of you might remember 1.5+ from the Wii U days. Not exactly the biggest base for the game to find an audience on, which is why the series is returning on Switch as Ping Redux. There's new content in here, and the game takes advantage of some Switch features as well. It's set to launch on Jan. 12th, 2021, and you can read all about it below. PING REDUX™ is a challenging ping pong puzzle game, remade from its older sibling PING 1.5+™. It's not for the weak at heart. Bounce off the walls and obstacles and reach the succulent and tasty orange.
+https://gonintendo.com/stories/375126-ping-redux-coming-to-switch-on-jan-12th-2021
+---------------------
+******************************************
