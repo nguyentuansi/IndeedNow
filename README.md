@@ -247,3 +247,38 @@ Fetch Tech News with Python every 5 / 15 mins.
 > Hi guys, I'm facing a major dilemma here and wondering if any of you would throw your two cents in for me to make the final decision here! I'm a film/video editor that mainly works on TVC and Music Promos, recently decided to upgrade my system so purchased a top of the line intel Mac Mini plus an eGPU enclosure with a Radeon Pro W5700 card. However, after doing some research I'm now torn because it seems like its way cheaper to build a modified iMac 5k set up with self-installed ram, I've already spent roughly a grand (in pounds) on my eGPU so thinking about integrating that in the iMac 5k set up as well.
 
 
+![Analysis: Apple's App Store grossed an estimated $64B+ in 2020, up 28% from an estimated $50B in 2019 and $48.5B in 2018 (Kif Leswing/CNBC)](None "Analysis: Apple's App Store grossed an estimated $64B+ in 2020, up 28% from an estimated $50B in 2019 and $48.5B in 2018 (Kif Leswing/CNBC)")
+[Analysis: Apple's App Store grossed an estimated $64B+ in 2020, up 28% from an estimated $50B in 2019 and $48.5B in 2018 (Kif Leswing/CNBC)](http://www.techmeme.com/210109/p2#a210109p2)
+
+
+> Kif Leswing / CNBC: Analysis: Apple's App Store grossed an estimated $64B+ in 2020, up 28% from an estimated $50B in 2019 and $48.5B in 2018 — - Apple's App Store grossed more than $64 billion in 2020, according to an analysis by CNBC. — That's up from an estimated $50 billion in 2019 and $48.5 billion in 2018 …
+
+
+![2019 iMac 27' fan issues](https://images.macrumors.com/social/?t=2279399&v=6 "2019 iMac 27' fan issues")
+[2019 iMac 27' fan issues](https://forums.macrumors.com/threads/2019-imac-27-fan-issues.2279399/)
+
+
+> I have a base model 2019 27' iMac (A2115) upgraded to 40MB RAM, but otherwise not messed with. Lately the fan has been running loudly non-stop. I downloaded the Fanny app to check the fan speed and CPU temp, and the fan is running at like 3400RPM non-stop, but the CPU temp only ever peaks at like 51C. I have tried resetting the SMC about 100 times and it never works, so the simple solution is unfortunately off the table. Ran diagnostics and returned an error code of PPF003, which apparently means 'fan test failed (low speed)'.
+
+
+![Intel talks with TSMC, Samsung to outsource some chip production](https://images.indianexpress.com/2021/01/8cf15d1d-2a8e-4133-a4cf-d5e77bde6a2c.jpg "Intel talks with TSMC, Samsung to outsource some chip production")
+[Intel talks with TSMC, Samsung to outsource some chip production](https://indianexpress.com/article/technology/tech-news-technology/intel-talks-with-tsmc-samsung-to-outsource-some-chip-production/)
+
+
+> Intel Corp has talked with Taiwan Semiconductor Manufacturing Co and Samsung Electronics Co about the Asian companies making some of its best chips, but the Silicon Valley pioneer is still holding out hope for last-minute improvements in its own production capabilities. After successive delays in its chip fabrication processes, Santa Clara, California-based Intel has yet to make a final decision less than two weeks ahead of a scheduled announcement of its plans, according to people familiar with the deliberations.
+
+
+![I made a travel map to show where in the world my wife and I have been, complete with photo pins](https://external-preview.redd.it/4ebdGMbx9ZbcCr5e9KcE55KNKXft7ursZUkBBvE5XwI.jpg?auto=webp&s=f1cabf8c772773275d11869ccb96cfcba5892a96 "I made a travel map to show where in the world my wife and I have been, complete with photo pins")
+[I made a travel map to show where in the world my wife and I have been, complete with photo pins](https://www.reddit.com/r/Python/comments/ktlh2w/i_made_a_travel_map_to_show_where_in_the_world_my/)
+
+
+> I love maps and traveling. Since I haven't gotten out into the world much recently, I made a script to show where my wife and I have been in the past. It imports which countries and U.S. states both of us have traveled to (separately or together) and plots them as layers on a folium map. Additionally, the script imports geotagged photos from a folder and places pins to show the photos in the appropriate places on the map. To make it more flexible, I created a script that adds/edits geotags to non-tagged images, and a separate script that reduces the images to a reasonable size for the map.
+
+
+![Signal, Telegram see demand spike as new WhatsApp terms stir debate](https://www.thehindu.com/sci-tech/technology/7sg6s8/article33534992.ece/ALTERNATES/LANDSCAPE_615/Signal-Telegram "Signal, Telegram see demand spike as new WhatsApp terms stir debate")
+[Signal, Telegram see demand spike as new WhatsApp terms stir debate](https://www.thehindu.com/sci-tech/technology/signal-telegram-see-demand-spike-as-new-whatsapp-terms-stir-debate/article33534932.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Signal and Telegram messaging apps are seeing a sudden increase in demand after larger rival WhatsApp's updated terms of service raised eyebrows on social media.WhatsApp, which uses Signal's encryption technology, laid out fresh terms on Wednesday, asking users to agree to let owner Facebook Inc and its subsidiaries collect user data, including their phone number and location.Also Read | Consumers prefer messaging apps with privacy features to ensure safety, report saysSome privacy activists questioned the "accept our data grab or get out" move on Twitter, and suggested users to switch to apps like Signal and Telegram.
+
+
