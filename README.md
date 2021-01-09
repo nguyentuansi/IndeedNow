@@ -144,3 +144,20 @@
 > No body in the article.
 
 
+***
+![The PS2-themed black PS5 has now officially sold out, but more could be on the way](https://cdn.mos.cms.futurecdn.net/dcTLjELtZRn5mwUZzGekKQ-1200-80.jpg "The PS2-themed black PS5 has now officially sold out, but more could be on the way")
+
+
+[The PS2-themed black PS5 has now officially sold out, but more could be on the way](https://www.techradar.com/news/the-ps2-themed-black-ps5-has-now-officially-sold-out-but-more-could-be-on-the-way)
+
+
+> (Image credit: SUP3R5) The black PS5 from SUP3R5 has officially sold out after going on sale on January 8. However, more consoles could be on the way in the future.Perhaps unsurprisingly, the launch did not go smoothly. Many users encountered payment issues and were charged for pre-orders that weren't actually available. Production of the black PS5 was limited to just 304 units, and demand far exceeded expectations: a trend that has become all too familiar whenever PS5 stock appears.SUP3R5 has since apologized on Twitter for the frustration some users faced, and vowed to do better in the future.
+
+
+***
+[Users shun WhatsApp to join Telegram, Signal amid data concerns](https://www.freepressjournal.in/technology/users-shun-whatsapp-to-join-telegram-signal-amid-data-concerns)
+
+
+> No body in the article.
+
+
