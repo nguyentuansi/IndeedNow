@@ -309,3 +309,47 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+[Best mini PCs 2021: Get a great computer with a small footprint](https://www.pocket-lint.com/laptops/buyers-guides/153566-best-mini-pc-computer)
+
+
+> There are still plenty of us out there who doubtless remember very well the glory years of desktop computers that were absolutely huge, whether in an office
+
+
+***
+![iPhone 13 tipped to have a smaller notch and a thicker design](https://cdn.mos.cms.futurecdn.net/jyuZW6e7sSojUr2vTMTxmE-1200-80.jpg "iPhone 13 tipped to have a smaller notch and a thicker design")
+
+
+[iPhone 13 tipped to have a smaller notch and a thicker design](https://www.techradar.com/news/iphone-13-tipped-to-have-a-smaller-notch-and-a-thicker-design)
+
+
+> (Image credit: Future) We're in for a busy nine months of iPhone 13 rumors ahead of the handset's expected unveiling in September 2021, and the latest unconfirmed whispers to reach us suggest that the phone is going to bring with it some subtle design tweaks.Well-known and usually reliable Japanese outlet MacOtakara reports that the iPhone 13 will have a smaller notch at the top of the front display, with a more compact TrueDepth camera for Face ID enabling Apple to make the cut-out less prominent.
+
+
+***
+![Disturbing Video Shows Capitol Police Officer Getting Crushed In Door As Pro-Trump Mob Forced Their Way Into The Building](https://cdn.digg.com/wp-content/uploads/2021/01/09131400/d807b9c28ae047689bbd9b0fad8cb1c1_md.jpg "Disturbing Video Shows Capitol Police Officer Getting Crushed In Door As Pro-Trump Mob Forced Their Way Into The Building")
+
+
+[Disturbing Video Shows Capitol Police Officer Getting Crushed In Door As Pro-Trump Mob Forced Their Way Into The Building](https://digg.com/video/capitol-police-officer-crushed-in-door-video)
+
+
+> 👋 Welcome to Digg Thanks for creating an account! Your accounts lets you Digg (upvote) stories, save stories to revisit later, and more. 📩 Stay up-to-date Email will be sent to: Select the newsletters you'd like to receive. You can change your subscriptions any time in your user settings. Daily morning newsletter Afternoon video roundup Bitcoin Long Reads
+
+
+***
+[OnePlus Watch, Watch RX and OnePlus Band Images Leaked; Check Here](https://www.thequint.com/tech-and-auto/oneplus-watch-watch-rx-and-oneplus-band-images-leaked-check-here)
+
+
+> The watch may feature a Snapdragon Wear system-on-chip, potentially the recently-launched Snapdragon Wear 4100.
+
+
+***
+![Mac Mini M1](https://images.macrumors.com/social/?t=2279437&v=6 "Mac Mini M1")
+
+
+[Mac Mini M1](https://forums.macrumors.com/threads/mac-mini-m1-need-stereo-line-input-options.2279437/)
+
+
+> On my Windows PC, there is a line-in that I was using to plug in a standard 3.5mm headphone jack so I could listen to a secondary input source at the same time as normal Windows audio. I just got an M1 mini to use daily (Windows PC will be only for PC gaming now) and tried plugging in the same 3.5mm headphone jack connector as an input from my external source, but Mac OS doesn't recognize it. Headphone output from the jack is fine, but no input. Unfortunately I learned that this jack isn't a true line input so I can't use it how I originally thought.
+
+
