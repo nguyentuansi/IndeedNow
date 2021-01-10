@@ -190,3 +190,23 @@
 > Although multiple datasets were used to create vaccination strategy, QCovid and another dataset called OpenSAFELY were the main resources used to inform JCVI's advice to government, according to Brown.  The datasets found that a 70-year-old is 100 times more likely to die than somebody under the age of 39. "Now, that means that if you have an underlying health condition that increases your risk of Covid and you're 25, it has to be approaching an increased risk of 100 fold to overcome the protective effects of age," said Mr Brown According to the scientist, people with rare illnesses who are particularly at risk can access an early vaccine under exceptional circumstances.
 
 
+***
+![Listen up, iPhone's hearing accessibility tools can really help](https://static.ffx.io/images/$zoom_0.1548%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/d6ca746f70e89d022dd47f4291653edfa3849c7d "Listen up, iPhone's hearing accessibility tools can really help")
+
+
+[Listen up, iPhone's hearing accessibility tools can really help](https://www.smh.com.au/technology/listen-up-iphone-s-hearing-accessibility-tools-can-really-help-20201217-p56oc9.html)
+
+
+> 'When you think about hearing accessibility, that could be everything from someone who is profoundly deaf, to age related hearing loss, to situational hearing loss, to people who just want to be able to use our products to get better sound,' said Sarah Herrlinger, VP of Accessibility at Apple. 'We don't see it as only one thing for one person.'Where Headphone Accommodations becomes more useful is when it's stacked with other features and accessibility options, like transparency mode on AirPods Pro.
+
+
+***
+![앱스토어에서 사라진 극우 SNS 팔러](http://itimg.chosun.com/sitedata/image/202101/10/2021011000966_0.png "앱스토어에서 사라진 극우 SNS 팔러")
+
+
+[앱스토어에서 사라진 극우 SNS 팔러](http://it.chosun.com/site/data/html_dir/2021/01/10/2021011000967.html)
+
+
+> 입력 2021.01.11 06:00 키워드 Copyright © IT Chosun.
+
+
