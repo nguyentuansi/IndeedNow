@@ -2275,3 +2275,53 @@
 > Source: Karen S. Freeman / iMore Nations Photo Lab offers a huge variety of stellar quality photos and photo products. You'll have to deal with an annoying photo book platform, however. Still, Nations Photo Lab is one of the best online photo printing services, even if you just use an iPhone. This company makes some of the best photo cards and I ordered my quarantine holiday cards here. Price: VariesBottom line: Nations Photo Lab offers a wide variety of high-quality photo prints and products. Excellent quality Huge selection Two-sided cards with no logo Free shipping over $49 Annoying photo book creation platform Poster print shipped in a tube Source: Karen S.
 
 
+***
+![Got $600? Investors Are Buying Stock In Tesla, Nio And Pfizer With Stimulus Checks](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/tesla-made-in-china-model-3_1_1.jpg "Got $600? Investors Are Buying Stock In Tesla, Nio And Pfizer With Stimulus Checks")
+
+
+[Got $600? Investors Are Buying Stock In Tesla, Nio And Pfizer With Stimulus Checks](https://www.benzinga.com/trading-ideas/long-ideas/21/01/19091666/got-600-investors-are-buying-stock-in-tesla-nio-and-pfizer-with-stimulus-checks)
+
+
+> Every week, Benzinga conducts a survey to collect sentiment on what traders are most excited about, interested in or thinking about when they are managing and building their personal portfolios. This week we posed the following question related to how traders and investors plan to use their stimulus money:  What sector of stocks will you buy with your stimulus check? Electric Vehicles Financials Consumer Discretionary Healthcare Consumer Staples Of the respondents, 58.8% of traders and investors told us they will buy electric vehicle stocks.
+
+
+***
+![The big online banking mistake you didn't know you were making](https://www.gannett-cdn.com/-mm-/6cb28193ab884e476ee52b87a2222c6a68c3b36a/c=0-90-580-416/local/-/media/2018/01/31/USATODAY/usatsports/online-banking-getty_large.jpg?width=1600&height=800&fit=crop "The big online banking mistake you didn't know you were making")
+
+
+[The big online banking mistake you didn't know you were making](https://www.usatoday.com/story/tech/columnist/komando/2021/01/10/how-avoid-costly-mistakes-when-banking-online-kim-komando/6574253002/)
+
+
+> After making a mobile deposit, Kim Komando recommends keeping the check for 14 days to make sure it has cleared.   (Photo: Getty Images) When's the last time you stepped foot in a bank? Yeah, I can't remember either. It's so easy to do everything online that I can't see going back to physical banking much, even after the pandemic. If you're banking via your computer or phone, do it the smart way. It only takes a few minutes. Assume you will be hacked and take these six steps to make sure your money is safe.
+
+
+***
+![I Powered My House With the Ford F-150 Hybrid](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bedoutlets-jpg-1610110344.jpg?crop=1.00xw:0.669xh;0,0.186xh&resize=1200:* "I Powered My House With the Ford F-150 Hybrid")
+
+
+[I Powered My House With the Ford F-150 Hybrid](https://www.caranddriver.com/features/a35152752/powered-house-ford-f-150-hybrid/)
+
+
+> Car and Driver Where I live, power outages are a frequent fact of life. Lots of trees coexist with rickety above-ground power lines, until the moment they don't. A few years ago, during Hurricane Florence, we lost power for four days. Fortunately, I bought a little Honda EU2200i generator ahead of the storm. It was enough to power up the essentials. But even with that, I had to choose what to run, and when. If I'd had a 2021 F-150 Hybrid in the driveway, it would have been a different story. Because, given the right extension cords and power strips, the F-150 Hybrid can power your house.
+
+
+***
+![Galaxy S21 vs. Galaxy S20: What Samsung might change in 2021     - CNET](https://cnet2.cbsistatic.com/img/nK1ztotYgWLlyhJ6opg25RFVKL0=/1200x630/2020/03/07/766c4854-00a6-4bab-ad86-31eb8575bb9e/samsung-galaxy-s20-plus-9799.jpg "Galaxy S21 vs. Galaxy S20: What Samsung might change in 2021     - CNET")
+
+
+[Galaxy S21 vs. Galaxy S20: What Samsung might change in 2021     - CNET](https://www.cnet.com/news/galaxy-s21-vs-s20-rumors-what-samsung-might-change-in-2021/)
+
+
+> Angela Lang/CNET We're likely to get a first look at Samsung's Galaxy S21 phone line on Jan. 14, at the company's Unpacked event (here's how to watch the phone unveiling live). The latest version of Samsung's flagship Galaxy phone follows the Galaxy S20 line, released in 2020. If you're in the market for an upgrade, you may be wondering: What exactly are the differences between the two Galaxy phones? And is it worth it to spend a rumored $850 for an upgrade? Here's everything you need to know about how the Galaxy S21 is rumored to compare with the Galaxy S20.
+
+
+***
+![Chemisty of Cast-Iron Seasoning: A Science-Based How-To (2010)]( "Chemisty of Cast-Iron Seasoning: A Science-Based How-To (2010)")
+
+
+[Chemisty of Cast-Iron Seasoning: A Science-Based How-To (2010)](http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/)
+
+
+> The post after this one on 'black rust' describes why you should heat the pan before applying oil for seasoning. This helps the seasoning to adhere and makes the pan pleasantly black. http://sherylcanter.com/wordpress/2010/02/black-rust-and-cast-iron-seasoning/ In a previous post, I illustrated how I cleaned and reseasoned an antique cast iron popover pan. This was my first attempt, and my seasoning technique was somewhat haphazard because I couldn't find consistent, science-based advice. I used a combination of organic avocado oil and strained drippings from organic bacon.
+
+
