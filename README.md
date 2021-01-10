@@ -1850,3 +1850,53 @@
 > Apple and Amazon.com have suspended Parler from their respective app store and web hosting service, saying the social networking service popular with many right-leaning social media users has not taken adequate measures to prevent the spread of posts inciting violence.The action by Apple and Amazon follows a similar move by Alphabet Inc's Google on Friday. Parler is favoured by many supporters of US President Donald Trump, who was permanently suspended from Twitter on Friday, and it is seen as a haven for people expelled from Twitter.
 
 
+***
+![Confirmed: House will start Trump impeachment Monday. Everything to know     - CNET](https://cnet3.cbsistatic.com/img/v0P2nnZlE_0fZeOJI2OlkoD0x3s=/1200x630/2020/05/29/c8bb4815-0efa-4558-b1b9-7e7122d939ee/screen-shot-2020-05-29-at-12-29-18-pm.png "Confirmed: House will start Trump impeachment Monday. Everything to know     - CNET")
+
+
+[Confirmed: House will start Trump impeachment Monday. Everything to know     - CNET](https://www.cnet.com/how-to/confirmed-house-will-start-trump-impeachment-monday-everything-to-know/)
+
+
+> Screenshot by Corinne Reichert/CNET The House is poised on Monday to introduce an article of impeachment against President Donald Trump for incitement of insurrection, according to Democratic Rep. Ted Lieu, for Trump's role in violent riot at the US Capitol on Wednesday, when a mob breached the building while seeking to overturn the 2020 presidential election results confirming President-elect Joe Biden as president. If the House of Representatives initiates the proceedings on Monday, it'll mark the second time Trump will face an impeachment process during his term as president -- and make him the first president to be impeached twice.
+
+
+***
+![Redmi Note 10 Pro spotted on BIS certification website, launch imminent](https://images.indianexpress.com/2021/01/Xiaomi-Redmi-Note-9-Pro.jpg "Redmi Note 10 Pro spotted on BIS certification website, launch imminent")
+
+
+[Redmi Note 10 Pro spotted on BIS certification website, launch imminent](https://indianexpress.com/article/technology/mobile-tabs/redmi-note-10-pro-5g-bis-certification-launch-date-price-7140599/)
+
+
+> Xiaomi India seems to be set for another launch after unveiling the mid-ranger Mi 10i early in January. Redmi Note 10 Pro 5G has already received certification from the Bureau of Indian Standards (BIS) and may get a launch in the first quarter of the year only. A tipster shared the information that the phone with model number M2101K6I has got the certification and set for launch late in February or early in March. Earlier this week, Redmi Note 10 Pro 5G was also spotted on a US FCC certification listing.
+
+
+***
+![How to Become a Data Scientist in 2021](https://external-preview.redd.it/OCZdmqAblWQ3fdQwYF2SNNW9u3nJ0Q4SFCmp9dmLb5c.jpg?auto=webp&s=d75783b780022009a89b74d32fee35d04bb1f0e2 "How to Become a Data Scientist in 2021")
+
+
+[How to Become a Data Scientist in 2021](https://www.reddit.com/r/Python/comments/kuc1h3/how_to_become_a_data_scientist_in_2021/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Privacy policy update won't change data sharing practices with Facebook — WhatsApp head](https://static.theprint.in/wp-content/uploads/2020/04/whatsapp-scaled-e1586253387430.jpg "Privacy policy update won't change data sharing practices with Facebook — WhatsApp head")
+
+
+[Privacy policy update won't change data sharing practices with Facebook — WhatsApp head](https://theprint.in/tech/privacy-policy-update-wont-change-data-sharing-practices-with-facebook-whatsapp-head/582927/)
+
+
+> Representational image | Photographer: Andrew Harrer | Bloomberg Text Size: New Delhi: WhatsApp's upcoming privacy policy update, which is set to be implemented on 8 February, has led to much discussion among users about how the messenger service will share data with its parent company, Facebook. Prompted by these concerns, WhatsApp head Will Cathcart has taken to Twitter to clear the air, and insists the data sharing practices will remain unchanged. The important changes in the policy refer to how user data will be processed henceforth, how businesses can use Facebook services to manage WhatsApp chats, and how WhatsApp partners with Facebook to 'offer integrations' with products from Facebook Inc.
+
+
+***
+![Ecosia – the search engine that plants trees](https://cdn.ecosia.org/og/facebook.jpg "Ecosia – the search engine that plants trees")
+
+
+[Ecosia – the search engine that plants trees](https://www.ecosia.org/)
+
+
+> Let's plant some trees! Make Ecosia your new search engine and plant trees with your searches - for free!
+
+
