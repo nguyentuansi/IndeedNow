@@ -46,3 +46,50 @@
 > A few weeks back I posted about my project, git-trend - A CLI tool for getting trending repositories and developers on GitHub. https://github.com/manojkarthick/git-trend I refactored the app based on feedback from this community and added support for all programming languages and spoken languages available on GitHub with this new release. Check it out if you're interested. Feedback welcome! submitted by /u/pragmaticPythonista [link] [comments]
 
 
+***
+![How to watch Browns vs. Steelers Wild Card live stream](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/steelersbrowns.jpg "How to watch Browns vs. Steelers Wild Card live stream")
+
+
+[How to watch Browns vs. Steelers Wild Card live stream](https://www.androidcentral.com/cleveland-browns-vs-pittsburgh-steelers-how-watch-week-18-nfl-wildcard)
+
+
+> In a rematch of week 17, Cleveland heads to Pittsburgh to try and beat the Steelers for a second time in a row to advance in the playoffs. Of course, this time the Steelers won't be resting their first-string starters like QB Ben Roethlisberger and will be pushing themselves to the limit this time. Also coming off a restful weekend for the Steelers will be J.J. Watt and Cam Howard. Even without several impactful starters, Pittsburgh still nearly beat the Browns. It's optimistic to assume Cleveland will be moving on past week 18.
+
+
+***
+![WD_BLACK SN850 NVMe SSD: Now, stay ahead of the game](https://images.financialexpress.com/2021/01/1-216.jpg "WD_BLACK SN850 NVMe SSD: Now, stay ahead of the game")
+
+
+[WD_BLACK SN850 NVMe SSD: Now, stay ahead of the game](https://www.financialexpress.com/industry/technology/wd_black-sn850-nvme-ssd-now-stay-ahead-of-the-game/2167742/)
+
+
+> According to company officials, the SN850 NVMe SSD enables gamers to keep up with their high-performance needs with PCIe Gen4 technology and allows them to experience lightning-fast gameplay. Gamers are quickly graduating to PC-based gaming, says a recent study by Western Digital. Excitement, fun, and challenge are seen as the key motivators for PC gaming. However, more than half (57%) have cited slow storage as a key factor for poor game experience. Taking a cue, the company has introduced a series of new products under its WD_BLACK portfolio of storage solutions to help gamers enhance their gameplay experience.
+
+
+***
+![Parler to be down 'for a while' without AWS, executives say: 'We are clearly being singled out'](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/GettyImages-1225872885-1-1.jpg?ve=1&tl=1 "Parler to be down 'for a while' without AWS, executives say: 'We are clearly being singled out'")
+
+
+[Parler to be down 'for a while' without AWS, executives say: 'We are clearly being singled out'](https://www.foxbusiness.com/technology/parler-down-amazon-web-services-ban)
+
+
+> Parler will likely go offline for "a while" Sunday evening given Amazon Web Services ' decision to suspend the upstart social media platform after Wednesday's U.S. Capitol riot, executives said Sunday. 'We are clearly being singled out,' Chief Policy Officer  Amy Peikoff  told ' Fox & Friends Weekend ' one day after Apple suspended  Parler from its App Store even as it surged to the No. 1 spot in the free apps section earlier in the day. 'I believe we were treated unfairly,' she added. CEO John Matze told "Sunday Morning Futures" that the site will try to "get back online as quickly as possible," after writing on the platform that the site may be down for up to a week.
+
+
+***
+[[Thread] Former exec describes Amazon's transition from Sun to HP/Linux servers in early 2000s, that risked bankrupting the company and laid foundations for AWS (Dan Rose/@danrose999)](http://www.techmeme.com/210110/p6#a210110p6)
+
+
+> Dan Rose / @danrose999: [Thread] Former exec describes Amazon's transition from Sun to HP/Linux servers in early 2000s, that risked bankrupting the company and laid foundations for AWS — I was at Amzn in 2000 when the internet bubble popped. Capital markets dried up & we were burning $1B/yr. Our biggest expense was datacenter -> expensive Sun servers. We spent a year ripping out Sun & replacing with HP/Linux, which formed the foundation for AWS. The backstory:
+
+
+***
+![Apple Watch SE and Apple's failure](https://images.macrumors.com/social/?t=2279618&v=6 "Apple Watch SE and Apple's failure")
+
+
+[Apple Watch SE and Apple's failure](https://forums.macrumors.com/threads/apple-watch-se-and-apples-failure.2279618/)
+
+
+> Apple touts the Apple Watch SE as being for Kids and older people who may not have an iPhone but who want an Apple Watch and as a result created a half baked Family Set up. Half baked? Yes. I got one for my son for his 13th birthday. 1. He has received spam calls on his phone. I thought he could only get calls from approved contacts but I can't find a way to set that like you can on a Gizmo watch. 2. He has received a text from some spam offering a viagra type sexual enhancement product. Not appropriate for a 13 year old to get and again where is the blocking/filtering.
+
+
