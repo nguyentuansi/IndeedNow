@@ -1448,3 +1448,53 @@
 > SINGAPORE - TraceTogether, the national contact tracing programme, has won recognition on the international stage for its innovative use of digital technology. On Monday (Dec 7), market research firm Gartner crowned TraceTogether as the Asia-Pacific winner for its 2020 Government Eye on Innovation award. Award winners were selected by a poll of government organisations around the world. TraceTogether beat three other finalists in the Asia-Pacific - two from Taiwan and one from India. The respective winners for the Americas and the Europe, Middle East and Africa region were a Covid-19 data sharing platform developed by the United States Department of Health and Human Services, and an automated financial support platform by Swedish social insurance agency Forsakringskassan Sweden.
 
 
+***
+![Nineteen Eighty-Four](https://upload.wikimedia.org/wikipedia/en/c/c3/1984first.jpg "Nineteen Eighty-Four")
+
+
+[Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+
+
+> This article is about the 1949 novel by George Orwell. For the year, see 1984. For other uses, see 1984 (disambiguation). Not to be confused with 1Q84. 1949 dystopian novel by George Orwell Nineteen Eighty-Four: A Novel Nineteen Eighty-Four: A Novel, often published as 1984, is a dystopian social science fiction novel by English novelist George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, Nineteen Eighty-Four centres on the consequences of totalitarianism, mass surveillance, and repressive regimentation of persons and behaviours within society.
+
+
+***
+![Applicant Tracking System Scanner](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Applicant Tracking System Scanner")
+
+
+[Applicant Tracking System Scanner](https://www.reddit.com/r/Python/comments/ku7kqh/applicant_tracking_system_scanner/)
+
+
+> Hi! I have been laid off for about eight months now, and I have a hard time finding a new opportunity. I have been researching ways of passing my resume through various Applicant Tracking System (ATS) in hopes that I can get an interview, but I find it difficult to locate keywords the ATS is looking for. I decided to do a side project to see if I can create an ATS scanner to identify keywords, phrases, etc., to revamp my resume to pass the ATS. I wondered if I could pick y'all brains to see where I should start or how I should approach this? I figured the first thing I should do is find a way to analyze text.
+
+
+***
+![Amazon And Apple Drop Parler](https://media.npr.org/assets/img/2021/01/09/gettyimages-1230246965_wide-590fcd2f17a1ddbe91071b4a3f162de5407e4f64.jpg?s=1400 "Amazon And Apple Drop Parler")
+
+
+[Amazon And Apple Drop Parler](https://www.npr.org/2021/01/09/955329265/amazon-and-apple-drop-parler)
+
+
+> Amazon and Apple took steps to cut off Parler from their platforms on Saturday. Gabby Jones/Bloomberg via Getty Images Amazon and Apple on Saturday took steps to cut off access to the social media app Parler after calls for violence on the platform have continued following the pro-Trump attack on the U.S. Capitol. The app is a favorite of conservatives and extremist supporters of President Trump. Apple on Saturday said it was suspending Parler from its app store, stopping iPhone users from being able to download the app.
+
+
+***
+![How Can I Buy A New FASTag For The Car And How Can I Recharge It? Here Are All Your Options](https://images.news18.com/ibnlive/uploads/2020/12/1609220354_fastag.png "How Can I Buy A New FASTag For The Car And How Can I Recharge It? Here Are All Your Options")
+
+
+[How Can I Buy A New FASTag For The Car And How Can I Recharge It? Here Are All Your Options](https://www.news18.com/news/tech/how-can-i-buy-a-new-fastag-and-where-can-i-recharge-it-here-are-all-your-options-3244853.html)
+
+
+> A FASTag contactless payments system is now mandatory for all vehicles for paying the toll charges while crossing any toll plazas across national highways in India, from February 15. This comes as part of the government's push for enabling contactless and electronic toll payments at all toll plazas on national highways. The expectation is that it'll increase efficiency of processing transactions and reduce waiting time at toll plazas for vehicles, in comparison with the time taken to process cash transactions.
+
+
+***
+![Best Annual Prepaid Plans From Airtel, BSNL, Jio, and Vi](https://i.gadgets360cdn.com/large/vodafone_idea_airtel_plans_1575378338625.jpg? "Best Annual Prepaid Plans From Airtel, BSNL, Jio, and Vi")
+
+
+[Best Annual Prepaid Plans From Airtel, BSNL, Jio, and Vi](https://gadgets.ndtv.com/telecom/features/best-annual-prepaid-plans-yearly-airtel-bsnl-reliance-jio-vi-vodafone-idea-zee5-disney-plus-hotstar-airtel-xstream-2347474)
+
+
+> What are the best annual prepaid recharge plans? Airtel, BSNL, Reliance Jio, and Vi (Vodafone Idea) have some value for money annual prepaid plans for you to choose from. A lot of the plans include year-long subscriptions to OTT platforms including Airtel Xstream, Disney+ Hotstar, ZEE5, and Eros Now, among others. According to the telecom subscription report released by Telecom Regulatory Authority of India (TRAI) recently, Airtel had surpassed Reliance Jio by adding more than 3.67 million new wireless subscribers in October.
+
+
