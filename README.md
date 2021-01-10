@@ -1740,3 +1740,13 @@
 > Popular messaging platform WhatsApp has been facing a lot of flak for its revised privacy policy under which Facebook and its partner companies will get access to selected user data. Since then there has been a surge in the downloads of alternative messaging apps including Signal. In reply to the widespread criticism, WhatsApp head Will Cathcart tried to explain how the new policy will not affect users and will continue to keep their conversations private. Cathcart tried to clear the air with a Twitter thread saying, 'With end-to-end encryption, we cannot see your private chats or calls and neither can Facebook.
 
 
+***
+![Amazon will cut off Parler from AWS for violating terms of service](https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg "Amazon will cut off Parler from AWS for violating terms of service")
+
+
+[Amazon will cut off Parler from AWS for violating terms of service](https://www.geekwire.com/2021/amazon-will-cut-off-parler-aws-violating-terms-service/)
+
+
+> by Taylor Soper on January 10, 2021 at 12:34 amJanuary 10, 2021 at 12:46 am AWS re:Invent. (GeekWire Photo) Amazon's cloud unit will no longer provide services to Parler, the social media platform popular with conservatives and extremists. BuzzFeed first reported that Amazon Web Services will suspend Parler on Sunday before midnight. An Amazon spokesperson confirmed the news to GeekWire. BuzzFeed cited an email from AWS sent to Parler that stated how the site violated Amazon's terms of service due to calls for violence.
+
+
