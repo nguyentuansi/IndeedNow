@@ -304,3 +304,50 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+[Parler CEO says the company has been dropped by "every vendor from text message services to email providers to our lawyers", which could end the business (Bruce Haring/Deadline)](http://www.techmeme.com/210110/p9#a210110p9)
+
+
+> Bruce Haring / Deadline: Parler CEO says the company has been dropped by “every vendor from text message services to email providers to our lawyers”, which could end the business — Parler CEO Mark Matze said today that his company have been dropped by virtually all of their business alliances after Amazon …
+
+
+***
+![New iPhone 13 (2021) release date, price, news, leaks and what we want to see](https://cdn.mos.cms.futurecdn.net/4fxJtRFSxRMGs6yUsjhrkS-1200-80.jpg "New iPhone 13 (2021) release date, price, news, leaks and what we want to see")
+
+
+[New iPhone 13 (2021) release date, price, news, leaks and what we want to see](https://www.techradar.com/news/new-iphone-13-2021)
+
+
+> A new iPhone - probably the iPhone 13 - is coming in 2021, even if you're only just wrapping your head around the iPhone 12 family – and we've already seen a variety of juicy leaks and rumors land.Apple's 2021 handsets are likely to launch toward the end of the year, but we're hearing news from a variety of sources about what to expect on the next-gen iPhone from Apple.What's the overall word right now? We've heard from all different types of sources not to expect any humongous upgrades, as rumors point to the company focusing on refining the design, improving the internals, and perhaps even bringing in far more powerful cameras.
+
+
+***
+![Time Machine No Longer Saves Lost Emails, Contacts, etc](https://images.macrumors.com/social/?t=2279637&v=6 "Time Machine No Longer Saves Lost Emails, Contacts, etc")
+
+
+[Time Machine No Longer Saves Lost Emails, Contacts, etc](https://forums.macrumors.com/threads/time-machine-no-longer-saves-lost-emails-contacts-etc.2279637/)
+
+
+> Dec 14, 2019 232 398 Berlin I've been using Time Machine since day 1 with .Mac and iCloud and could always recover lost Contacts, emails, etc within Core Apps. Now you cannot open Contacts or Mail to recover individual contacts or emails, etc. Many of us have filed bug reports with Apple since this began with Catalina. Initially it was an acknowledged bug, now Apple claims recovery is only possible with a full restore of Mail, Contacts, etc. which defeats one of the great features of Time Machine.
+
+
+***
+![M1 Laptop Keyboard](https://images.macrumors.com/social/?t=2279636&v=6 "M1 Laptop Keyboard")
+
+
+[M1 Laptop Keyboard](https://forums.macrumors.com/threads/m1-laptop-keyboard-identical-mechanism-on-air-and-pro.2279636/)
+
+
+> Is the Keyboard Mechanism on the M1 MacBookAir and MacBookPro identical? I know the layout of the keys is different, but I want to know about the mechanism (ie: the typing experience, key travel, etc) between the two. Apple's description says the Air now has a Scissor mechanism, but doesn't specify if it is identical to the Pro or not. (Apple "specialists" I asked were unhelpful...) Thanks...
+
+
+***
+![Exclusive: Tesla hunts for design chief to create cars for China - sources](https://i-invdn-com.akamaized.net/news/LYNXMPEE2J1MY_L.jpg "Exclusive: Tesla hunts for design chief to create cars for China - sources")
+
+
+[Exclusive: Tesla hunts for design chief to create cars for China - sources](https://www.investing.com/news/technology-news/exclusive-tesla-hunts-for-design-chief-to-create-cars-for-china--sources-2385018)
+
+
+> © Reuters. FILE PHOTO: Visitors wearing face masks check a China-made Tesla Model Y sport utility vehicle (SUV) at the electric vehicle maker's showroom in Beijing By Norihiko Shirouzu BEIJING (Reuters) - Tesla (NASDAQ: ) Inc is searching for a design director in China, part of efforts to open a "full-function" studio in Shanghai or Beijing and design electric cars tailored to Chinese consumer tastes, according to three people with knowledge of the matter. The U.S. carmaker's human resources managers, as well as several headhunters, have been trawling the industry over the past four months, the sources said.
+
+
