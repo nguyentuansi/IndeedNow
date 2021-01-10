@@ -1351,3 +1351,50 @@
 > HOUGHTON, Mich. (WLUC) - Dawson Bilski scored 24 points to help Michigan Tech men's basketball over Purdue Northwest 68-59 in Great Lakes Intercollegiate Athletic Conference men's basketball Saturday afternoon at SDC Gymnasium. With a win in their 2020-21 season opener, the Huskies extended their program win streak to eight consecutive games going back to the spring.'We played a good Purdue Northwest team today, a team that already played three competitive Division I exhibitions, so I felt fortunate that we were able to play well enough to win our first time out,' said Michigan Tech head coach Kevin Luke.
 
 
+***
+![Amazon, Apple and Google Cut Off Parler, an App That Drew Trump Supporters](https://static01.nyt.com/images/2021/01/09/business/09parler1/09parler1-facebookJumbo.jpg "Amazon, Apple and Google Cut Off Parler, an App That Drew Trump Supporters")
+
+
+[Amazon, Apple and Google Cut Off Parler, an App That Drew Trump Supporters](https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html)
+
+
+> Continue reading the main storyThe companies pulled support for the 'free speech' social network, all but killing the service just as many conservatives are seeking alternatives to Facebook and Twitter.A rally by supporters of President Trump in Washington on Nov. 14 to protest the election results.Credit...Kenny Holston for The New York TimesBy Jack Nicas and Davey AlbaJan. 9, 2021Updated 10:15 p.m. ETParler, a social network that pitches itself as a 'free speech' alternative to Twitter and Facebook, is suffering from whiplash.
+
+
+***
+![Amazon suspends Parler, threatening to take pro-Trump site offline indefinitely](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YROPLYCS5MI6XIPV7WXSRT6KSA.jpg&w=1440 "Amazon suspends Parler, threatening to take pro-Trump site offline indefinitely")
+
+
+[Amazon suspends Parler, threatening to take pro-Trump site offline indefinitely](https://www.washingtonpost.com/technology/2021/01/09/amazon-parler-suspension/?utm_source=rss)
+
+
+> Today's Headlines The most important news stories of the day, curated by Post editors and delivered every morning. By signing up you agree to our Terms of Use and Privacy Policy
+
+
+***
+![Amazon Web Services gives Parler 24-hour notice that it will suspend services to the company](https://techcrunch.com/wp-content/uploads/2021/01/aws-parler1.jpg?w=711 "Amazon Web Services gives Parler 24-hour notice that it will suspend services to the company")
+
+
+[Amazon Web Services gives Parler 24-hour notice that it will suspend services to the company](https://techcrunch.com/2021/01/09/amazon-web-services-gives-parler-24-hour-notice-that-it-will-suspend-services-to-the-company/)
+
+
+> Jonathan Shieber @jshieber / 8 hours Parler is at risk of disappearing, just as the social media network popular among conservatives was reaching new heights of popularity in the wake of President Donald Trump's ban from all major tech social platforms. Amazon Web Services, which provides backend cloud services, has informed Parler that it intends to cut ties with the company in the next 24 hours, according to a report in BuzzFeed News. Parler's application is built on top of AWS infrastructure, services that are critical for the operation of its platform.
+
+
+***
+![Apple suspends Parler social network from its App Store](https://japantoday.com/images/japan-today-social.jpg "Apple suspends Parler social network from its App Store")
+
+
+[Apple suspends Parler social network from its App Store](https://japantoday.com/category/tech/update-1-apple-suspends-parler-social-network-from-its-app-store)
+
+
+> Apple Inc has suspended Parler from the App Store, saying the social networking service has not taken adequate measures to prevent the spread of posts inciting violence. "We have suspended Parler from the App Store until they resolve these issues," the iPhone maker said in a statement Saturday. Apple had given the service 24 hours to submit a detailed moderation plan, pointing to participants' using the service to coordinate Wednesday's siege of the U.S. Capitol. Parler Chief Executive John Matze said Apple was banning the service until it gives up free speech and institutes "broad and invasive policies like Twitter and Facebook.
+
+
+***
+[In leaked email, Amazon says it will suspend Parler's AWS account on Jan. 10 at 11:59PM PST for not complying with its TOS and posing a risk to public safety (John Paczkowski/BuzzFeed News)](http://www.techmeme.com/210109/p13#a210109p13)
+
+
+> John Paczkowski / BuzzFeed News: In leaked email, Amazon says it will suspend Parler's AWS account on Jan. 10 at 11:59PM PST for not complying with its TOS and posing a risk to public safety — Amazon on Saturday kicked Parler off its Web hosting services. Parler, a social network favored by conservative politicians and extremists …
+
+
