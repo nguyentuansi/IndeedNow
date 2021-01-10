@@ -1498,3 +1498,50 @@
 > What are the best annual prepaid recharge plans? Airtel, BSNL, Reliance Jio, and Vi (Vodafone Idea) have some value for money annual prepaid plans for you to choose from. A lot of the plans include year-long subscriptions to OTT platforms including Airtel Xstream, Disney+ Hotstar, ZEE5, and Eros Now, among others. According to the telecom subscription report released by Telecom Regulatory Authority of India (TRAI) recently, Airtel had surpassed Reliance Jio by adding more than 3.67 million new wireless subscribers in October.
 
 
+***
+[Twitter has suspended the account of Sci-Hub for violating counterfeit policy: Sci-Hub founder says suspension may be related to an ongoing court case in India (Ernesto Van der Sar/TorrentFreak)](http://www.techmeme.com/210110/p1#a210110p1)
+
+
+> Ernesto Van der Sar / TorrentFreak: Twitter has suspended the account of Sci-Hub for violating counterfeit policy: Sci-Hub founder says suspension may be related to an ongoing court case in India — Twitter has suspended the account of Sci-Hub, a site that offers a free gateway to paywalled research.
+
+
+***
+![Unblock Netflix from anywhere in the world with this cheap VPN](https://mondrian.mashable.com/2021%252F01%252F10%252F5d%252Fc43a7f1059164d3a9e665aef59bdf840.d6ae1.jpg%252F1200x630.jpg?signature=zrxKhoSzpS0A4rKRKn0dE4VsMJM= "Unblock Netflix from anywhere in the world with this cheap VPN")
+
+
+[Unblock Netflix from anywhere in the world with this cheap VPN](https://mashable.com/uk/shopping/jan-10-ivacy-vpn-deal/)
+
+
+> SAVE 90%: A five-year subscription to Ivacy VPN is on sale for £0.74 per month as of Jan. 10, saving you 90% on list price. Streaming services are going to take an absolute hammering this year as alternative entertainment options are off the table and many productions have been paused. We're all going to be out of options before too long, unless we take steps to unlock content from other locations. VPNs can be used to bypass geo-restrictions to unblock popular streaming sites like Netflix and Disney+.
+
+
+***
+![Python has won the TIOBE programming language of the year award](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Python has won the TIOBE programming language of the year award")
+
+
+[Python has won the TIOBE programming language of the year award](https://www.reddit.com/r/Python/comments/ku81kv/python_has_won_the_tiobe_programming_language_of/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![How to access Amazon's music streaming services for free](https://mondrian.mashable.com/2021%252F01%252F10%252Fb1%252F369611ff8cdd4537a4389efea0b9c106.91753.jpg%252F1200x630.jpg?signature=ve7tpdPkc741IxRFXvb46Dou7ag= "How to access Amazon's music streaming services for free")
+
+
+[How to access Amazon's music streaming services for free](https://mashable.com/uk/shopping/jan-10-amazon-music-deal/)
+
+
+> SAVE OVER £40: New customers can get a three-month subscription to Amazon Music Unlimited or Amazon Music HD for free. You know that uneasy feeling you get when you see something being offered up for free? Everyone looks for the catch, because nothing can actually be available for free, right? Wrong. Until Jan. 11, new customers can get a three-month subscription to Amazon Music Unlimited or Amazon Music HD for free. After the promotional period comes to an end, the subscriptions will automatically renew at the full price.
+
+
+***
+![Learn the basics of guitar, piano, and drums with this musical master class](https://mondrian.mashable.com/2021%252F01%252F10%252F94%252F14ebbbab57a94447b35165217abc83af.4594e.jpg%252F1200x630.jpg?signature=U9bTe-fOegViX71Y5-PPc2THuoA= "Learn the basics of guitar, piano, and drums with this musical master class")
+
+
+[Learn the basics of guitar, piano, and drums with this musical master class](https://mashable.com/uk/shopping/jan-10-instrument-class-bundle/)
+
+
+> TL;DR: The Learn to Play Piano, Guitar, and Drums Master Class Bundle is on sale for £44.16 as of Jan. 10, saving you 96% on list price. Are you still completely and utterly bored? When you're officially tapped out on making TikToks, how about taking up an instrument?  If you're looking to try out a few instruments and techniques, one online option is the Learn to Play Piano, Guitar, and Drums Master Class Bundle. It's on sale for just £44.16 and packs over 80 hours of video instruction. That should last you at least through the winter if you hold yourself accountable.
+
+
