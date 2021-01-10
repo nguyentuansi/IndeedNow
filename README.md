@@ -2061,3 +2061,50 @@
 > What to do if you're supposed to create long and complicated passwords and not use the same ones for all your online activity? The answer is a reliable password manager app, such as Dashlane.   (Photo: Dashlane) Lose weight. Quit smoking. Manage finances better. Sure, these are all popular and sincere New Year's Resolutions – especially after the challenging year we've just endured -- but you should also consider giving yourself a small tech makeover this year. In fact, doing so can keep you safer, more productive, and even help the environment at the same time.
 
 
+***
+![When Steve Jobs unleashed the iPhone: 10 amazing facts from the 2007 launch](https://images.indianexpress.com/2021/01/Steve-Jobs-announcing-the-first-iPhone.jpg "When Steve Jobs unleashed the iPhone: 10 amazing facts from the 2007 launch")
+
+
+[When Steve Jobs unleashed the iPhone: 10 amazing facts from the 2007 launch](https://indianexpress.com/article/technology/mobile-tabs/when-steve-jobs-unleashed-the-iphone-10-amazing-facts-from-the-2007-launch-7140916/)
+
+
+> He was considered to be the master of tech presentations, but most people agree that Steve Jobs' greatest presentation perhaps was that of the iPhone. On January 9, 2007, Jobs introduced the world to a new kind of phone, a phone that would do to smartphones what the Macintosh had done to personal computers in 1984 – literally change how we used them, even while making them far easier to use. Of course, like the Macintosh in 1984, the iPhone was not a perfect device. It had its share of flaws. But just as the Macintosh in 1984, the iPhone rose above its shortcomings thanks to its inherent strengths.
+
+
+***
+![iPhone SE 2021, AirPods Pro 2 could arrive in April](https://cdn.mos.cms.futurecdn.net/HKQLnXnxTnEZNUSEuBrPM-1200-80.jpg "iPhone SE 2021, AirPods Pro 2 could arrive in April")
+
+
+[iPhone SE 2021, AirPods Pro 2 could arrive in April](https://www.techradar.com/news/iphone-se-2021-airpods-pro-2-could-arrive-in-april)
+
+
+> The iPhone SE 2020. (Image credit: Future) We've heard rumors about new iPads and of course the iPhone 13 arriving at some point in 2021, but it seems Apple has plenty of other hardware on the way this year – and a new iPhone SE and the AirPods Pro 2 could be with us as early as April.That's according to Japanese blog MacOtakara, which is often right in its Apple predictions and has close connections to component suppliers in Asia. However, it doesn't give us any further details on the products besides that launch month.
+
+
+***
+[How to CREATE FOLDERS in Google Drive using Python (and Google Drive API)](https://www.reddit.com/r/Python/comments/kueemc/how_to_create_folders_in_google_drive_using/)
+
+
+> For those who wants to automate Google Driver folder creation using Python and Google Drive API https://youtu.be/uI220BJ0yXc submitted by /u/jiejenn [link] [comments]
+
+
+***
+![DGtal: Digital Geometry Tools and Algorithms Library]( "DGtal: Digital Geometry Tools and Algorithms Library")
+
+
+[DGtal: Digital Geometry Tools and Algorithms Library](https://dgtal.org/)
+
+
+> We are really excited to share with you the release 1.1 of DGtal and its tools. It has been a while since the last official release and the 1.1 release contains many interesting features. In the following, we just mention a couple of them but please have a look to... [Read More]
+
+
+***
+![Tor – all v3 onion addresses are unavailable](https://www.redditstatic.com/new-icon.png "Tor – all v3 onion addresses are unavailable")
+
+
+[Tor – all v3 onion addresses are unavailable](https://old.reddit.com/r/TOR/comments/ktv8bw/the_entire_tor_v3_consensus_is_down)
+
+
+> Want to join? Log in or sign up in seconds.
+
+
