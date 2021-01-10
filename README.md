@@ -254,3 +254,53 @@
 > Most people think of adaptive headphones as something for older people, but it's a rare person over the age of 25 who doesn't have some degree of hearing loss.
 
 
+***
+![Why Do Criminals Use Cash And Not Bitcoin?](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffb7392e6b74753f460bbe4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2830%26cropY1%3D48%26cropY2%3D1639 "Why Do Criminals Use Cash And Not Bitcoin?")
+
+
+[Why Do Criminals Use Cash And Not Bitcoin?](https://www.forbes.com/sites/davidbirch/2021/01/10/why-do-criminals-use-cash-and-not-bitcoin/)
+
+
+> There are people who prefer to exist in a cash economy for reasons other than a negative economic analysis of central bank monetary policies or an attachment to the iconography of banknotes. Criminals and corrupt politicians, for example. Cash works rather well for them, but can sometimes be quite inconvenient. Here's a case I wrote about last year: two Californian working-from-home pharmaceutical freelancers were arrested after police caught them dumping nearly $1 million in cash which was intended to buy Mary Jane for business purposes.
+
+
+***
+![5 Things You Might Not Know About Chamath Palihapitiya](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/chamath_palihapitiya_2016_dialog_0.jpg "5 Things You Might Not Know About Chamath Palihapitiya")
+
+
+[5 Things You Might Not Know About Chamath Palihapitiya](https://www.benzinga.com/markets/cryptocurrency/21/01/19092510/5-things-you-might-not-know-about-chamath-palihapitiya)
+
+
+> Benzinga readers and investors might know Chamath Palihapitiya best as the 'SPAC King' and for his role in the SPAC boom of 2020. Here is more on Palihapitiya and some lesser known facts readers may not know. About Palihapitiya: Born in Sri Lanka, Palihapitiya emigrated to Canada at the age of six. After stints at AOL, Facebook Inc (NASDAQ: FB ) and Slack Technologies (NYSE: WORK ), Palihapitiya launched The Social + Capital Partnership, a fund to invest in ventures no major companies would fund.
+
+
+***
+![Parler CEO Says Service Dropped By 'Every Vendor' And Could End His Business](https://external-preview.redd.it/ThkflcoU92dJSF8cvLg-fuyrZYyPNPe-V4jBDH_pKMw.jpg?auto=webp&s=dd98eaf2eba2bb39b17a3bb08804f2a373a3b1d5 "Parler CEO Says Service Dropped By 'Every Vendor' And Could End His Business")
+
+
+[Parler CEO Says Service Dropped By 'Every Vendor' And Could End His Business](https://www.reddit.com/r/technology/comments/kunnxc/parler_ceo_says_service_dropped_by_every_vendor/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Australia vs India live stream: how to watch 3rd Test day 5 cricket online anywhere](https://cdn.mos.cms.futurecdn.net/FxfpsLnGUbvMJEvrHebdvb-1200-80.jpg "Australia vs India live stream: how to watch 3rd Test day 5 cricket online anywhere")
+
+
+[Australia vs India live stream: how to watch 3rd Test day 5 cricket online anywhere](https://www.techradar.com/news/australia-vs-india-live-stream-how-to-watch-3rd-test-cricket-online-from-anywhere)
+
+
+> (Image credit: Ryan Pierse/Getty Images)) It's a busy start to the new year for cricket fans, with action getting back under way Down Under as hosts Australia take on India in the pivotal 3rd Test of their five-match series. Follow our guide as we explain how to get an Australia vs India live stream and watch day 5 of the 3rd Test cricket match online today, as a dominant Wallabies side looks to seal the deal in Sydney and take a 2-1 series lead.The series was tied 1-1 as the action hit the NSW capital, but the hosts are now firmly in control after an impressive first innings haul of 338, headlined by a fantastic century from the irrepressible Steve Smith was followed by some sublime bowling from the Wallabies.
+
+
+***
+![M1 mini + LG Ultrafine 5K running flawlessly?](https://images.macrumors.com/social/?t=2279633&v=6 "M1 mini + LG Ultrafine 5K running flawlessly?")
+
+
+[M1 mini + LG Ultrafine 5K running flawlessly?](https://forums.macrumors.com/threads/m1-mini-lg-ultrafine-5k-running-flawlessly.2279633/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
