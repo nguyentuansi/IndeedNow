@@ -1900,3 +1900,30 @@
 > Let's plant some trees! Make Ecosia your new search engine and plant trees with your searches - for free!
 
 
+***
+![Anyone ever have a series of iTunes backups that were empty when viewed with a Backup Extractor?](https://images.macrumors.com/social/?t=2279577&v=6 "Anyone ever have a series of iTunes backups that were empty when viewed with a Backup Extractor?")
+
+
+[Anyone ever have a series of iTunes backups that were empty when viewed with a Backup Extractor?](https://forums.macrumors.com/threads/anyone-ever-have-a-series-of-itunes-backups-that-were-empty-when-viewed-with-a-backup-extractor.2279577/)
+
+
+> Hi When doing some housekeeping of old external hard drives, I found a load of what appear to be iTunes backups from 2008 - 2010 (mddata and mdinfo files inside folders called things like 03493495efg90sd90349090ef90e9043fg9ert903490erg), but when viewed with iBackup Extractor, or BackupTrans and other apps, there is zero data apparently inside. Some of the main folders are very small, so that's perhaps to be expected (though I don't understand why), but one for example is nearly 1GB and another over 280MB, so they can't be just files of nothing? Anyone else ever have this? Is it an issue with old backups that newer apps just can't read anymore? Obviously I can't go into iTunes and try to restore any of these, and all I want to see is what's inside, text message and maybe photo wise just to make sure there's nothing on there of sentimental value.
+
+
+***
+![Unique views on a medium article](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Unique views on a medium article")
+
+
+[Unique views on a medium article](https://www.reddit.com/r/Python/comments/kuchzs/unique_views_on_a_medium_article/)
+
+
+> I have been wondering about this for a few days. After reading an article on Medium about "What 60,000 views of my article earned" The author of the article got $1000 for these views. So I was wondering could you use selenium webDriver to automate an incognito chrome browser to open and then navigate to the page, 100 times a day for 60 days? Would each of these be unique according to medium? I know that running the driver is possible, but what I am asking is would medium think they are unique?
+
+
+***
+[In silencing president, two tech giants show where power now lies](https://bdnews24.com/technology/2021/01/10/in-silencing-president-two-tech-giants-show-where-power-now-lies)
+
+
+> In the end, two billionaires from California did what legions of politicians, prosecutors and power brokers had tried and failed to do for years:
+
+
