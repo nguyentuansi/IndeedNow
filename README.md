@@ -2155,3 +2155,53 @@
 > Jan 10, 2021 1 0 Mount Dora, FL Last night while copying files from a USB drive to the HD, all drives on the SATA backplane ports spontaneously disappeared. I tried all the slots, reset NVRAM, SMC with no success. Both of the SATA ports in the optical bays are working fine if I move the HDs up there. Right now running 10.13.6 from a 128 GB crucial SSD and a 1TB spinning drive on the second one. Since this was supposed to be a media server, not having the CD drive or the extra HD slots makes it a deal-breaker.
 
 
+***
+![Motorola's phone strategy is nonsensical but it'll still come out a winner](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/moto-g-2021-lineup-stacked.jpg "Motorola's phone strategy is nonsensical but it'll still come out a winner")
+
+
+[Motorola's phone strategy is nonsensical but it'll still come out a winner](https://www.androidcentral.com/motorolas-2021-strategy-real-head-scratcher)
+
+
+> Android enthusiasts have a long and storied love/hate affair with Motorola. In the beginning, Motorola released very underpowered phones with convoluted changes to Android (remember MotoBLUR?) that morphed the company into what looked like a Verizon Wireless subsidiary in the United States. Then Google swept in and bought the important bits that make up a Motorola phone and we loved the company. Phones like the Moto X looked great, had great hardware (for the time), and were quick to get both important and feature updates because Google was basically in control.
+
+
+***
+![How to watch American Gods from anywhere online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/american-gods-starz.jpg "How to watch American Gods from anywhere online")
+
+
+[How to watch American Gods from anywhere online](https://www.androidcentral.com/how-watch-american-gods-online-anywhere)
+
+
+> American Gods tells the story of inmate Shadow Moon who is released early from prison to attend his wife's funeral. However, his trip home is delayed and he ends up meeting the infamous Mr. Wednesday who offers him a job. Shadow Moon then takes on the role of being Wednesday's driver, assistant and bodyguard. The wait is over and fans of the television adaptation of Neil Gaiman's 2011 novel American Gods will finally get to see new episodes of the fantasy drama and we have all the details on how you can watch the show on TV or online.
+
+
+***
+![How to watch Ravens vs. Titans NFL Wild Card live stream](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/ravenstitans.jpg "How to watch Ravens vs. Titans NFL Wild Card live stream")
+
+
+[How to watch Ravens vs. Titans NFL Wild Card live stream](https://www.androidcentral.com/baltimore-ravens-vs-tennessee-titans-how-watch-week-18-nfl-wildcard)
+
+
+> The Titans and Ravens are fairly evenly matched on paper. Both even have solid 11-5 records going into this Sunday's game. The question is whether the actual game will playout as evenly matched as it seems like it might. Luckily, there are past games this season between the two to get a sense of what might happen. Baltimore is the overall favorite with a slight advantage, but look at the last two times the Titans have met the Ravens it would probably prove savvy to pick the Titans. In last year's playoff game between the two Tennessee shocked everyone with the win.
+
+
+***
+![Can't See SD card in Big Sur Finder, Help Please.](https://images.macrumors.com/social/?t=2279589&v=6 "Can't See SD card in Big Sur Finder, Help Please.")
+
+
+[Can't See SD card in Big Sur Finder, Help Please.](https://forums.macrumors.com/threads/cant-see-sd-card-in-big-sur-finder-help-please.2279589/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Lenovo Introduces the ThinkReality A3 — The Most Versatile Smart Glasses Ever Designed for the Enterprise](https://mms.businesswire.com/media/20210110005011/en/850899/4/ThinkReality_A3_Image_4.jpg "Lenovo Introduces the ThinkReality A3 — The Most Versatile Smart Glasses Ever Designed for the Enterprise")
+
+
+[Lenovo Introduces the ThinkReality A3 — The Most Versatile Smart Glasses Ever Designed for the Enterprise](http://www.businesswire.com/news/home/20210110005011/en/Lenovo-Introduces-the-ThinkReality-A3-—-The-Most-Versatile-Smart-Glasses-Ever-Designed-for-the-Enterprise/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> RESEARCH TRIANGLE PARK, N.C.--(BUSINESS WIRE)--Today, during the Consumer Electronics Show (CES®), Lenovo™ introduced the ThinkReality™ A3 lightweight smart glasses. One of the most advanced and versatile enterprise smart glasses to come to market, the ThinkReality A3 is part of a comprehensive digital solutions offering to deliver intelligent transformation in business and bring smarter technology to more people. As increasingly distributed workforces and hybrid work models become the reality of a new normal, small and large businesses around the world are looking to adopt new technologies for smart collaboration, increased efficiency, and lower downtimes.
+
+
