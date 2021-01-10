@@ -1673,3 +1673,23 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Wikipedia is 20, and its reputation has never been higher](https://external-preview.redd.it/vz5xiWDXe2B36lj6ZCwsMWD5C72nTCMzMJxIudzLyA8.jpg?auto=webp&s=ab9111e1c048507b91cdfe72163ac32915db84d3 "Wikipedia is 20, and its reputation has never been higher")
+
+
+[Wikipedia is 20, and its reputation has never been higher](https://www.reddit.com/r/technology/comments/kua3lz/wikipedia_is_20_and_its_reputation_has_never_been/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![What's up? Users dump Facebook-owned WhatsApp for Telegram, Signal](https://external-preview.redd.it/f_ZWvRw1OV2aP7_4Sf6ijrbL9eBy1DTn8Wdh59xGVf0.jpg?auto=webp&s=b60f448f6fece38fe34a8bf36ead5ca1cf184015 "What's up? Users dump Facebook-owned WhatsApp for Telegram, Signal")
+
+
+[What's up? Users dump Facebook-owned WhatsApp for Telegram, Signal](https://www.reddit.com/r/technology/comments/ku9qze/whats_up_users_dump_facebookowned_whatsapp_for/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
