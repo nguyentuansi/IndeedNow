@@ -1585,3 +1585,50 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+![Python Tutorial for Beginners](https://external-preview.redd.it/TXgvNpu-c2CyBVLyrQTM-z_g3VhxkwX5jorhf6PSDUI.jpg?auto=webp&s=61d6910e5a6cbbf91f569835e3baf7f9e9d4dad6 "Python Tutorial for Beginners")
+
+
+[Python Tutorial for Beginners](https://www.reddit.com/r/Python/comments/ku95s2/python_tutorial_for_beginners/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Why people are shunning WhatsApp and joining Telegram and Signal](https://www.freepressjournal.in/tech/why-people-are-shunning-whatsapp-and-joining-telegram-and-signal)
+
+
+> No body in the article.
+
+
+***
+![Squelched by Twitter, Trump seeks new online megaphone](https://resources.stuff.co.nz/content/dam/images/4/y/q/d/9/0/image.related.StuffLandscapeSixteenByNine.1420x800.4yqd91.png/1610259443645.jpg "Squelched by Twitter, Trump seeks new online megaphone")
+
+
+[Squelched by Twitter, Trump seeks new online megaphone](https://www.stuff.co.nz/technology/social-networking/300201877/squelched-by-twitter-trump-seeks-new-online-megaphone)
+
+
+> One Twitter wag joked about lights flickering on and off at the White House being Donald Trump signalling to his followers in Morse code after Twitter and Facebook squelched the president for inciting rebellion. Though deprived of his big online megaphones, Trump does have alternative options of much smaller reach. The far right-friendly Parler may be the leading candidate, though Google and Apple have both removed it from their app stores and Amazon decided to boot it off its web hosting service.
+
+
+***
+![Minister: Massive power outage leaves Pakistan in the dark](https://www.mymotherlode.com/wp-content/uploads/2021/01/files_6618b89250.jpeg "Minister: Massive power outage leaves Pakistan in the dark")
+
+
+[Minister: Massive power outage leaves Pakistan in the dark](https://www.mymotherlode.com/news/technology/1469708/minister-massive-power-outage-leaves-pakistan-in-the-dark.html)
+
+
+> By AP News Published Jan 9, 2021 10:15 pm ISLAMABAD (AP) — A major technical fault in Pakistan's power generation and distribution system caused a massive power outage that plunged the country into darkness overnight, the energy minister said. Hours after the late Saturday outage, Energy Minister Omar Ayub said on Twitter that power was being restored in phases, starting with Islamabad. He said later Sunday that power had been restored to much of the country. The blackout was initially reported on social media by residents of major urban centers, including Karachi, Lahore, Islamabad and Multan.
+
+
+***
+![LIVE UPDATES: Trump banned by Twitter, yet 'Hang Mike Pence' trends](https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b761c82-0238-4470-8f05-0c69ec60ece9/66ae44a3-6e90-4b83-b4e4-5a4e0c86eb08/1280x720/match/image.jpg "LIVE UPDATES: Trump banned by Twitter, yet 'Hang Mike Pence' trends")
+
+
+[LIVE UPDATES: Trump banned by Twitter, yet 'Hang Mike Pence' trends](https://www.foxnews.com/tech/live-updates-1-10-2021-big-tech-social-media-censorship-twitter)
+
+
+> Twitter saw a surprising item trending on Friday night when "Hang Mike Pence" hit around 14,000 tweets, according to reports."Hang Mike Pence" hit around 14,000 tweets on Twitter Friday night after Trump's permanent  ban. Many users were confused, then, to see such a violent item in the trending section. Many users were confused, then, to see such a violent item in the trending section.The social media platform announced Friday night that it was permanently suspending President Trump's Twitter account.
+
+
