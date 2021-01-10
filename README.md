@@ -140,3 +140,53 @@
 > Digital creations take on a new level of details and realism with 4K OLED VESA certified DisplayHDR True Black display. I have often seen people engaged in creative work—photographers, graphic designers, vloggers, architects, filmmakers and more—literally pull out their hair out of sheer frustration when they are let down by their computers, laptops in particular. Slow performance, machine suddenly freezes or tends to overheat, screen display is truncated, browsing is slow, etc. Let us not forget, a creator's mind is never idle, always fueled with inspiration from the world around them.
 
 
+***
+![How will cybersecurity evolve during the course of 2021?](http://www.digitaljournal.com/img/8/7/3/i/6/9/2/o/U.S.-Cybercom.jpg "How will cybersecurity evolve during the course of 2021?")
+
+
+[How will cybersecurity evolve during the course of 2021?](http://www.digitaljournal.com/tech-and-science/technology/how-will-cybersecurity-evolve-during-the-course-of-2021/article/583473)
+
+
+> Special By By Tim Sandle 9 mins ago in Technology How sophisticated will cyberattacks become and what can companies do to minimize the growing number of attacks and the developing sophistication of the attacks. According to Walters: "Cyber criminals will try and take advantage of the isolated remote worker. This is important as the world gets used to ‘not another day at the office'. The cyberattack techniques have increased over the past year. This includes phishing, email scams, social engineering.
+
+
+***
+![Is KFConsole real? KFC reveals video game platform that keeps your chicken warm](https://www.thesun.co.uk/wp-content/uploads/2020/12/OFF-PLAT-KE-NETFLIX.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Is KFConsole real? KFC reveals video game platform that keeps your chicken warm")
+
+
+[Is KFConsole real? KFC reveals video game platform that keeps your chicken warm](https://www.thesun.co.uk/tech/13557618/is-kfconsole-real-kfc-video-game-chicken-warm/)
+
+
+> FAST FOOD titan KFC has launched a video game console featuring a special draw to keep your chicken wings warm. But is the KFConsole real, and if so, how much does it cost? The KFConsole boasts an impressive spec sheet Credit: kfc gaming Is the KFConsole real? The KFConsole was announced in June in a surprise tweet from the official KFC Twitter account. Most fans presumed it was a joke. Fast forward a few months, and on December 22 KFC unveiled an official trailer for the machine, featuring what appears to be a prototype model.
+
+
+***
+![Happy Belated 14th Anniversary to the Apple iPhone](https://m-cdn.phonearena.com/images/article/129425-two_1200/Happy-Belated-14th-Anniversary-to-the-Apple-iPhone.jpg "Happy Belated 14th Anniversary to the Apple iPhone")
+
+
+[Happy Belated 14th Anniversary to the Apple iPhone](https://www.phonearena.com/news/the-iphone-celebrates-its-14th-anniversary_id129425)
+
+
+> Some of us knew it at the time, but others didn't. When the late Steve Jobs introduced the Apple iPhone on January 9th, 2007, the world was soon about to undergo a seismic change. Sure, the iPhone wasn't the first smartphone ever made, but with the touch screen and intuitive software and interface, it was a huge jump over what passed for a smartphone at the time. Faster than you might imagine, smartphones were everywhere. Last September, Apple introduced the iPhone 12 line, the first iPhone series to support 5G.
+
+
+***
+![Rowan Atkinson death rumours are FAKE](https://www.thesun.co.uk/wp-content/uploads/2018/07/0_rip-Posts-claiming-Mr-Bean-Rowan-Atkinson-is-dead-are-FAKE-and-can-give-your-computer-a-virus.jpg?strip=all&quality=100&w=810&h=539&crop=1 "Rowan Atkinson death rumours are FAKE")
+
+
+[Rowan Atkinson death rumours are FAKE](https://www.thesun.co.uk/tech/6815292/has-rowan-atkinson-died-fake-news-scam-virus/)
+
+
+> ONLINE rumours that Rowan Atkinson is dead are a hoax – to trick you into downloading a virus. The actor is alive and well, but a dangerous scam is circulating online that could end up damaging your computer. This is the fake post currently circulating on social media Credit: Hoax Slayer A fake "breaking news" post currently doing the rounds on social media claims the Mr Bean star has died in a car crash while attempting a stunt. The bogus post, which is made to look like it comes from Fox News, features a photograph of Rowan Atkinson along with the caption 'R.
+
+
+***
+![Algorithm used to set vaccine priority order missed key vulnerable groups](https://www.telegraph.co.uk/content/dam/technology/2021/01/08/TELEMMGLPICT000247981965_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?impolicy=logo-overlay "Algorithm used to set vaccine priority order missed key vulnerable groups")
+
+
+[Algorithm used to set vaccine priority order missed key vulnerable groups](https://www.telegraph.co.uk/technology/2021/01/10/algorithm-used-set-vaccine-priority-order-missed-key-vulnerable/)
+
+
+> Although multiple datasets were used to create vaccination strategy, QCovid and another dataset called OpenSAFELY were the main resources used to inform JCVI's advice to government, according to Brown.  The datasets found that a 70-year-old is 100 times more likely to die than somebody under the age of 39. "Now, that means that if you have an underlying health condition that increases your risk of Covid and you're 25, it has to be approaching an increased risk of 100 fold to overcome the protective effects of age," said Mr Brown According to the scientist, people with rare illnesses who are particularly at risk can access an early vaccine under exceptional circumstances.
+
+
