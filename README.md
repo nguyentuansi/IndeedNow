@@ -2325,3 +2325,53 @@
 > The post after this one on 'black rust' describes why you should heat the pan before applying oil for seasoning. This helps the seasoning to adhere and makes the pan pleasantly black. http://sherylcanter.com/wordpress/2010/02/black-rust-and-cast-iron-seasoning/ In a previous post, I illustrated how I cleaned and reseasoned an antique cast iron popover pan. This was my first attempt, and my seasoning technique was somewhat haphazard because I couldn't find consistent, science-based advice. I used a combination of organic avocado oil and strained drippings from organic bacon.
 
 
+***
+![Fitbit Premium: price, features and everything you need to know](https://cdn.mos.cms.futurecdn.net/vjgBXZ5nQCfcZe2tEja8hP-1200-80.jpg "Fitbit Premium: price, features and everything you need to know")
+
+
+[Fitbit Premium: price, features and everything you need to know](https://www.techradar.com/news/fitbit-premium-what-is-it-and-who-is-it-for)
+
+
+> For a long time, the only thing Fitbit charged for was its devices and Fitbit Coach, the standalone exercise app that offers guided workouts. But in 2019, Fitbit launched Premium, a new paid-for service that puts several features behind a paywall.Premium is designed to be an enhanced version of the standard, free Fitbit app, but it also includes the workout programs previously exclusive to Fitbit Coach.There's a lot of neat stuff in Premium, but the service isn't for everyone. Below, we're going to explain exactly what it does, how much it costs, and who we think it's for.
+
+
+***
+![Growing money on trees with Python and Rich](https://external-preview.redd.it/ZCEoJhxSK_3EOPuuOkavJK2sLY_GF9gFKgOIOE1Y_bM.jpg?auto=webp&s=a0f3d8bac76f5913fea44cd7e17228b02aaa8422 "Growing money on trees with Python and Rich")
+
+
+[Growing money on trees with Python and Rich](https://www.reddit.com/r/Python/comments/kui02w/growing_money_on_trees_with_python_and_rich/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![After Capitol riot, Sen. Mark Warner urges Facebook to preserve 'digital evidence'](https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/531f9827-5491-4df5-a1c2-f946259bf659/da7f11e1-9e87-4bff-8961-6670c2029e83/1280x720/match/image.jpg "After Capitol riot, Sen. Mark Warner urges Facebook to preserve 'digital evidence'")
+
+
+[After Capitol riot, Sen. Mark Warner urges Facebook to preserve 'digital evidence'](https://www.foxnews.com/tech/after-capitol-riot-mark-warner-urges-facebook-to-preserve-digital-evidence)
+
+
+> In the wake of last week's deadly riot at the Capitol, Sen. Mark Warner is urging Facebook and other social media giants to preserve "digital evidence" of the chaotic scenes that engulfed the building."After Wednesday's insurrectionist attack on our nation's Capitol, I'm calling on telecom and social media companies to preserve digital evidence of the Capitol riot," the Virginia Democrat tweeted on Saturday.In a letter to Facebook CEO Mark Zuckerberg, Warner states that "the United States Capitol is now a crime scene.
+
+
+***
+![When, in your opinion, does Python become become TOO slow?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "When, in your opinion, does Python become become TOO slow?")
+
+
+[When, in your opinion, does Python become become TOO slow?](https://www.reddit.com/r/Python/comments/kuhnpu/when_in_your_opinion_does_python_become_become/)
+
+
+> I hear a lot about Python being a 'slow' language, so wanted to get the community's opinion on how true this label is, in practice. My understanding is that python shines as an easy to write, easy to read language with an awesome set of libraries that make it useful for just about anything. The caveat (again as I understand it) is that python performs best in single threaded and synchronous runtimes. You have solutions for both, but some libraries lack support and unless you know what you're doing, you may be better off with technologies that natively support such requirements - which is where I see some folks preferring Go or Node, for example.
+
+
+***
+![Use of Clearview AI facial recognition tech spiked as law enforcement seeks to identify Capitol mob](https://cdn.vox-cdn.com/thumbor/2BHzJvXF3Y_H52Qyr3UmuycMBhs=/0x349:5153x3047/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22225793/1230505415.jpg "Use of Clearview AI facial recognition tech spiked as law enforcement seeks to identify Capitol mob")
+
+
+[Use of Clearview AI facial recognition tech spiked as law enforcement seeks to identify Capitol mob](https://www.theverge.com/2021/1/10/22223349/clearview-ai-facial-recognition-law-enforcement-capitol-rioters)
+
+
+> Photo by SAUL LOEB/AFP via Getty Images Clearview AI's CEO says that use of his company's facial recognition technology among law enforcement spiked 26 percent the day after a mob of pro-Trump rioters attacked the US Capitol. First reported by the New York Times, Hoan Ton-That confirmed to The Verge that Clearview saw a sharp increase in use on January 7th, compared to its usual weekday search volume. The January 6th attack was broadcast live on cable news, and captured in hundreds of images and live streams that showed the faces of rioters breaching the Capitol building.
+
+
