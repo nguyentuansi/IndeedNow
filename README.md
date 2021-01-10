@@ -2205,3 +2205,23 @@
 > RESEARCH TRIANGLE PARK, N.C.--(BUSINESS WIRE)--Today, during the Consumer Electronics Show (CES®), Lenovo™ introduced the ThinkReality™ A3 lightweight smart glasses. One of the most advanced and versatile enterprise smart glasses to come to market, the ThinkReality A3 is part of a comprehensive digital solutions offering to deliver intelligent transformation in business and bring smarter technology to more people. As increasingly distributed workforces and hybrid work models become the reality of a new normal, small and large businesses around the world are looking to adopt new technologies for smart collaboration, increased efficiency, and lower downtimes.
 
 
+***
+![CES 2021's most innovative air purifiers so far     - CNET](https://cnet4.cbsistatic.com/img/84ZexJFtGC4qT54CrC4rZFexQAo=/1200x630/2021/01/08/df1d0e49-fc14-4480-b0c3-d29641e72c7e/luftqi-luftduo-1-1.jpg "CES 2021's most innovative air purifiers so far     - CNET")
+
+
+[CES 2021's most innovative air purifiers so far     - CNET](https://www.cnet.com/news/ces-2021-most-innovative-air-purifiers-so-far/)
+
+
+> Luftqi CES As the coronavirus has reordered life across much of the world, new and old forms of consumer technology have pushed forward to provide solutions: face masks, hand sanitizer and -- in homes and workplaces -- air purifiers. While conventional air purifiers don't solve the problem of COVID-19, they can reduce its spread by removing aerosol particles that normally take hours to naturally settle out of the air. And now, at CES 2021, device makers are showing off new air purifiers, boasting more mobile designs, more effective filtration and more creative approaches to the basic logic of air cleaning.
+
+
+***
+![Trump Twitter ban 'raises regulation questions' – UK govt minister](https://ichef.bbci.co.uk/news/1024/branded_news/D8F5/production/_116414555_mediaitem116414554.jpg "Trump Twitter ban 'raises regulation questions' – UK govt minister")
+
+
+[Trump Twitter ban 'raises regulation questions' – UK govt minister](https://www.bbc.co.uk/news/uk-politics-55609903)
+
+
+> It added: "However, we made it clear going back years that these accounts are not above our rules and cannot use Twitter to incite violence. We will continue to be transparent around our policies and their enforcement."
+
+
