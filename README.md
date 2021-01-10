@@ -1800,3 +1800,53 @@
 > Jul 13, 2008 3,059 344 Los Angeles, Ca I have a PDF file of a resume and no longer have the Pages version of said document and am wanting to update it a bit. I heard Readdle's PDF Expert App is great, but $80 is kinda steep. There either must be worthy alternatives out there or perhaps an Apple Preview App feature I may be missing. Thanks!
 
 
+***
+![This credit card-sized power bank is great for outdoor adventuring](https://mondrian.mashable.com/2021%252F01%252F10%252F07%252F45bf0da2f594472fb1a15cfa3680747e.d532c.jpg%252F1200x630.jpg?signature=3NRs5VGxPcoDny-YFcxz7GFJVS4= "This credit card-sized power bank is great for outdoor adventuring")
+
+
+[This credit card-sized power bank is great for outdoor adventuring](https://mashable.com/shopping/jan-10-supermini-power-bank-charger/)
+
+
+> TL;DR: Keep your phone charged while you camp, hike, and enjoy nature with the SuperMini Power Bank . As of Jan. 10, you can save 49% and snag it for only $57.99. There are more folks getting outside to explore, exercise, and find entertainment than there have been in years. In fact, there's been a 200 percent increase in hiking trail usage across the country during the pandemic. Campsites are busier than they've been in decades. If you're one of the many people taking advantage of all that hiking and camping have to offer, you've likely realized they do come with one downside: no place to charge your phone.
+
+
+***
+![You can snag an unlocked iPhone 11 Pro for under $900](https://mondrian.mashable.com/2021%252F01%252F10%252F27%252F3abe64652ade4b539a8b9324b03f8101.62e55.jpg%252F1200x630.jpg?signature=VdLo4LUukE9DszBQQjXDN0p57D0= "You can snag an unlocked iPhone 11 Pro for under $900")
+
+
+[You can snag an unlocked iPhone 11 Pro for under $900](https://mashable.com/shopping/jan-10-iphone-11-pro/)
+
+
+> TL;DR: Snag an unlocked Apple iPhone 11 Pro for $899.99 as of Jan. 10. Attention, Apple fans. Here's a deal for you: an unlocked iPhone 11 Pro. The iPhone 11 Pro might not be the newest iPhone, but it's still a great one. It includes ultra-wide, wide, and telephoto lenses, ready to provide you with amazing photos and videos. You'll even be able to capture low-light photos using night mode.  Those who treat their iPhone like a mini TV will be excited about the 11 Pro's 5.8-inch super retina XDR OLED display, which lets you watch HDR movies and shows.
+
+
+***
+![Gab gaining 10,000 users per hour, CEO claims, after Trump's permanent Twitter suspension](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/WFH.jpg?ve=1&tl=1 "Gab gaining 10,000 users per hour, CEO claims, after Trump's permanent Twitter suspension")
+
+
+[Gab gaining 10,000 users per hour, CEO claims, after Trump's permanent Twitter suspension](https://www.foxbusiness.com/technology/gab-usership-surges-following-trumps-permanent-twitter-suspension)
+
+
+> Gab , a more conservative-friendly alternative social media platform to Twitter , claimed Saturday it is gaining 10,000 users an hour in the wake of Twitter permanently suspending President Trump 's account. Trump has also been blocked from posting on  Facebook  and  Instagram  -- at least until his term ends. 'The traffic just keeps growing hang tight, even more servers on the way today,' Gab CEO Andrew Torba wrote on the site Saturday. Trump and several prominent supporters like Gen. Michael Flynn and attormey Sidney Powell were also banned from Twitter following the deadly riot at  the U.
+
+
+***
+![Switching to Signal? 5 Tips and Tricks You Need to Know](https://i.gadgets360cdn.com/large/signal_1475682178651.jpeg "Switching to Signal? 5 Tips and Tricks You Need to Know")
+
+
+[Switching to Signal? 5 Tips and Tricks You Need to Know](https://gadgets.ndtv.com/social-networking/features/signal-tips-and-tricks-secure-messaging-switch-from-whatsapp-2350360)
+
+
+> from WhatsApp, as users want to protest about WhatsApp's new privacy policies, a movement that also got a significant boost when Tesla boss Elon Musk tweeted 'Use Signal'. But if you've just started using the privacy-focused messaging application then there are quite a few features that you'll want to know about.Read on to know the best tips and tricks for Signal that will help make the most out of using the app.1. Set up a screen lockSignal has a Screen Lock function so even if your phone is unlocked, you'll need to be able to access the phone through a PIN, or your phone's biometric lock, in order to open the Signal app.
+
+
+***
+![Tech firms dump Parler after Capitol siege](https://images.perthnow.com.au/publication/S-2044823/1610272416298_US_Vote_Social_16-9_20185634_2044823_2021011020014414c39323-a451-40de-b95e-360768a45604.jpg_sd_1280x720.jpg?imwidth=1024 "Tech firms dump Parler after Capitol siege")
+
+
+[Tech firms dump Parler after Capitol siege](https://www.perthnow.com.au/technology/internet/tech-firms-dump-parler-after-capitol-siege-ng-s-2044823)
+
+
+> Apple and Amazon.com have suspended Parler from their respective app store and web hosting service, saying the social networking service popular with many right-leaning social media users has not taken adequate measures to prevent the spread of posts inciting violence.The action by Apple and Amazon follows a similar move by Alphabet Inc's Google on Friday. Parler is favoured by many supporters of US President Donald Trump, who was permanently suspended from Twitter on Friday, and it is seen as a haven for people expelled from Twitter.
+
+
