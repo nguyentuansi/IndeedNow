@@ -1398,3 +1398,53 @@
 > John Paczkowski / BuzzFeed News: In leaked email, Amazon says it will suspend Parler's AWS account on Jan. 10 at 11:59PM PST for not complying with its TOS and posing a risk to public safety — Amazon on Saturday kicked Parler off its Web hosting services. Parler, a social network favored by conservative politicians and extremists …
 
 
+***
+![Apple suspends Parler social network from its App Store](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/parler-afp_20210109-seo.jpg "Apple suspends Parler social network from its App Store")
+
+
+[Apple suspends Parler social network from its App Store](https://www.malaymail.com/news/tech-gadgets/2021/01/10/apple-suspends-parler-social-network-from-its-app-store/1939007)
+
+
+> Apple Inc has suspended Parler from the App Store. — AFP file pic JAN 10 — Apple Inc has suspended Parler from the App Store, saying the social networking service has not taken adequate measures to prevent the spread of posts inciting violence. 'We have suspended Parler from the App Store until they resolve these issues,' the iPhone maker said in a statement yesterday. Apple had given the service 24 hours to submit a detailed moderation plan, pointing to participants' using the service to coordinate Wednesday's siege of the US Capitol.
+
+
+***
+![Major CES gadget show turns to tech for virtual salvation](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/CES-AFP_20210109-seo.jpg "Major CES gadget show turns to tech for virtual salvation")
+
+
+[Major CES gadget show turns to tech for virtual salvation](https://www.malaymail.com/news/tech-gadgets/2021/01/10/major-ces-gadget-show-turns-to-tech-for-virtual-salvation/1939022)
+
+
+> The Covid-19 pandemic has forced this year's CES into an online version of the annual gathering in Las Vegas. — AFP file pic SAN FRANCISCO, Jan 10 — The Consumer Electronics Show known for crowds, sensory-overload, and deal-making is relying on technology it has long hawked to put pizzazz into its first virtual event, kicking off today. The deadly pandemic that has derailed in-person conferences around the world during the past year forced the Consumer Technology Association to follow suit with an online version of the annual gathering in Las Vegas.
+
+
+***
+![Short on alternatives, fans trash Twitter's Trump ban](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/DJTrump-suspended_20210109-seo.jpg "Short on alternatives, fans trash Twitter's Trump ban")
+
+
+[Short on alternatives, fans trash Twitter's Trump ban](https://www.malaymail.com/news/tech-gadgets/2021/01/10/short-on-alternatives-fans-trash-twitters-trump-ban-on-twitter/1938986)
+
+
+> A photo illustration shows the suspended Twitter account of US President Donald Trump on a smart phone in a media board cast tent at the White House in Washington, January 8, 2021. — Reuters pic NEW YORK, Jan 10 — Friends, family and advisors to Donald Trump have been bitterly complaining that Twitter's ban of the president after his supporters stormed the US Capitol amounts to an assault on free speech by radical leftists. Ironically, given the enormous influence of the platform, they have aired their grievances first of all on .
+
+
+***
+![TraceTogether initiative wins global award for innovative use of tech](https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/12/08/ST_20201208_VNTT_6174865.jpg?itok=uZ-3JIJi "TraceTogether initiative wins global award for innovative use of tech")
+
+
+[TraceTogether initiative wins global award for innovative use of tech](https://www.straitstimes.com/tech/tracetogether-initiative-wins-global-award-for-innovative-use-of-tech)
+
+
+> TraceTogether, the national contact tracing programme, has won recognition on the international stage for its innovative use of digital technology. Yesterday, market research firm Gartner crowned TraceTogether as the Asia-Pacific winner of its inaugural 2020 Government Eye on Innovation award. Award winners were selected via a poll of government organisations around the world. TraceTogether beat out three other finalists in the Asian-Pacific region - two from Taiwan and one from India. The respective winners for the Americas and the Europe, Middle East and Africa region were a Covid-19 data sharing platform developed by the United States Department of Health and Human Services, and an automated financial support platform by Swedish social insurance agency Forsakringskassan Sweden.
+
+
+***
+![TraceTogether programme wins international award for innovative use of tech](https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/12/07/tt1207fb.jpg?itok=sTUND2QF "TraceTogether programme wins international award for innovative use of tech")
+
+
+[TraceTogether programme wins international award for innovative use of tech](https://www.straitstimes.com/tech/tracetogether-programme-wins-international-award-for-innovative-use-of-technology)
+
+
+> SINGAPORE - TraceTogether, the national contact tracing programme, has won recognition on the international stage for its innovative use of digital technology. On Monday (Dec 7), market research firm Gartner crowned TraceTogether as the Asia-Pacific winner for its 2020 Government Eye on Innovation award. Award winners were selected by a poll of government organisations around the world. TraceTogether beat three other finalists in the Asia-Pacific - two from Taiwan and one from India. The respective winners for the Americas and the Europe, Middle East and Africa region were a Covid-19 data sharing platform developed by the United States Department of Health and Human Services, and an automated financial support platform by Swedish social insurance agency Forsakringskassan Sweden.
+
+
