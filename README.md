@@ -351,3 +351,50 @@
 > © Reuters. FILE PHOTO: Visitors wearing face masks check a China-made Tesla Model Y sport utility vehicle (SUV) at the electric vehicle maker's showroom in Beijing By Norihiko Shirouzu BEIJING (Reuters) - Tesla (NASDAQ: ) Inc is searching for a design director in China, part of efforts to open a "full-function" studio in Shanghai or Beijing and design electric cars tailored to Chinese consumer tastes, according to three people with knowledge of the matter. The U.S. carmaker's human resources managers, as well as several headhunters, have been trawling the industry over the past four months, the sources said.
 
 
+***
+![Tech thwarted by Purdue Northwest 76-52](https://gray-wluc-prod.cdn.arcpublishing.com/resizer/f06rNzHRu5e3cePE27qxNArvl_E=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/DMRSNMXORZFOTI3XJBMNLDZGPE.JPG "Tech thwarted by Purdue Northwest 76-52")
+
+
+[Tech thwarted by Purdue Northwest 76-52](https://www.uppermichiganssource.com/2021/01/10/tech-thwarted-by-purdue-northwest-76-52/)
+
+
+> HOUGHTON, Mich. (WLUC) - Michigan Tech failed to keep pace with Purdue Northwest in the second half as the Pride pulled away 76-52 in men's basketball Sunday afternoon at SDC Gymnasium. The Huskies made a charge to lead by a point at halftime but could not mount a true scoring threat in the final 20 minutes as they split their two-game series with PNW in Houghton this weekend.Anthony Barnard led the Pride with 23 points and six rebounds and Vincent Miszkiewicz notched a double-double with 15 points, 14 rebounds.
+
+
+***
+![Browns vs Steelers live stream: how to watch NFL playoffs online from anywhere](https://cdn.mos.cms.futurecdn.net/zyZMUCHQpjubvKT7WCzpi8-1200-80.jpg "Browns vs Steelers live stream: how to watch NFL playoffs online from anywhere")
+
+
+[Browns vs Steelers live stream: how to watch NFL playoffs online from anywhere](https://www.techradar.com/news/browns-vs-steelers-live-stream-how-to-watch-nfl-playoffs-online-from-anywhere)
+
+
+> Seven days after facing off in Cleveland, the Browns and Steelers go at it again tonight - this time in Pittsburgh's backyard. Baker Mayfield and the Browns will be desperate to make their first playoff breakthrough since 2002 count. This AFC Wild Card clash could well be the game of the weekend, so read on as we explain how to get a Browns vs Steelers live stream and watch the NFL playoffs online wherever you are in the world right now.Browns fans have been through a lot over the course of the team's 18-year playoff drought, but the days leading up to last weekend's crucial win over their AFC North rivals would have been some of the toughest of them all.
+
+
+***
+[Homework Help](https://www.reddit.com/r/Python/comments/kuplo0/homework_help/)
+
+
+> Hey I am new to this and I am taking a class and this question has me stumped. Ive googled it and all the answeres I can find only passes one test and fails on the second. Any one want to give this a shot? ​ Finish the program to compute how many gallons of paint are needed to cover the given square feet of walls. Assume 1 gallon can cover 350.0 square feet. So gallons = the square feet divided by 350.0. If the input is 250.0, the output should be:0.714285714286 submitted by /u/raini
+
+
+***
+![Best balance transfer credit cards for January 2021     - CNET](https://cnet1.cbsistatic.com/img/NpNzvhZu36wJplhlLhSVOXKDMl8=/1200x630/2020/09/16/f9b1bc8a-fb7a-428c-a3b2-d0eacf8f4626/us-bank.png "Best balance transfer credit cards for January 2021     - CNET")
+
+
+[Best balance transfer credit cards for January 2021     - CNET](https://www.cnet.com/personal-finance/best-balance-transfer-credit-card/)
+
+
+> Was getting your finances in order your New Year's resolution? One of your biggest goals should be paying down any credit card debt. High-interest credit cards can put people in a financial hole -- fast. If you have a large balance sitting on a card, it's time to whittle that down and free yourself from high interest payments and wasted money. But how do you get rid of that debt? It may sound counter-intuitive, but if you're currently in a situation where your credit card debt seems unsurmountable, you may want to apply for another credit card: a balance transfer credit card.
+
+
+***
+![How to watch American Gods season 3 online: stream every new episode from anywhere](https://cdn.mos.cms.futurecdn.net/PWiSVG8usUUdp77hNdcWEh-1200-80.jpg "How to watch American Gods season 3 online: stream every new episode from anywhere")
+
+
+[How to watch American Gods season 3 online: stream every new episode from anywhere](https://www.techradar.com/news/how-to-watch-american-gods-season-3-online-stream-every-new-episode-from-anywhere)
+
+
+> (Image credit: Starz) After a two-year hiatus, Shadow Moon is back for more demigod adventures in American Gods. Based on Neil Gaiman's blockbuster novel, the show follows the epic story of an unavoidable war building between the Old Gods of mythology and our New Gods of technology. Read on as we explain how to watch American Gods season 3 online and stream every new episode as soon as it's released, no matter where you are in the world right now.The new 10 episode run starts with ex-con Shadow hiding out in the town of Lakeside after discovering that Mr.
+
+
