@@ -1927,3 +1927,43 @@
 > In the end, two billionaires from California did what legions of politicians, prosecutors and power brokers had tried and failed to do for years:
 
 
+***
+![NFL live stream 2020/21: how to watch playoff football online from anywhere](https://cdn.mos.cms.futurecdn.net/48JbBABVntYHC5bUMXPSAe-1200-80.jpg "NFL live stream 2020/21: how to watch playoff football online from anywhere")
+
+
+[NFL live stream 2020/21: how to watch playoff football online from anywhere](https://www.techradar.com/news/nfl-live-stream-2020-how-to-watch-every-game-of-the-new-season-from-anywhere)
+
+
+> Last year's landmark 100th NFL season lived up to all expectations and then some. While the 2020/21 campaign got off to an unusual start in so many respects, we're now rumbling like vintage Jerome Bettis headfirst into the playoff portion of another scintillating season. Read on for all the latest information and ways to watch an NFL live stream for every Wild Card playoff game this weekend, no matter where you are in the world right now.Despite all the postponements, depleted rosters, and largely empty stadiums, no one can deny that the NFL has been back with a bang on the field.
+
+
+***
+![AMD Ryzen 9 5900 and Ryzen 7 5800 CPUs could be inbound – but only in prebuilt PCs](https://cdn.mos.cms.futurecdn.net/qqknJmBnU9BYKdJooyMy7K-1200-80.jpg "AMD Ryzen 9 5900 and Ryzen 7 5800 CPUs could be inbound – but only in prebuilt PCs")
+
+
+[AMD Ryzen 9 5900 and Ryzen 7 5800 CPUs could be inbound – but only in prebuilt PCs](https://www.techradar.com/news/amd-ryzen-9-5900-and-ryzen-7-5800-cpus-could-be-inbound-but-only-in-prebuilt-pcs/)
+
+
+> AMD's Ryzen 9 5900 and Ryzen 7 5800 are purportedly waiting in the wings, and rumored specs of these processors have been shared – although the chips will apparently only be sold to PC system builders. The CPUs have been rumored before, and now one of Twitter's regular hardware leakers, @momomo_us, has tweeted some details of the processors which as ever must be treated with a healthy amount of caution. Theoretically, then, the Ryzen 9 5900 will be a 12-core CPU with 64MB of L3 cache, alongside 2MB of L2 cache.
+
+
+***
+![AMD Ryzen 9 5900 and Ryzen 7 5800 CPUs could be inbound â€' but only in prebuilt PCs](https://cdn.mos.cms.futurecdn.net/qqknJmBnU9BYKdJooyMy7K-1200-80.jpg "AMD Ryzen 9 5900 and Ryzen 7 5800 CPUs could be inbound â€' but only in prebuilt PCs")
+
+
+[AMD Ryzen 9 5900 and Ryzen 7 5800 CPUs could be inbound â€' but only in prebuilt PCs](https://www.techradar.com/news/amd-ryzen-9-5900-and-ryzen-7-5800-cpus-could-be-inbound-but-only-in-prebuilt-pcs/)
+
+
+> AMD's Ryzen 9 5900 and Ryzen 7 5800 are purportedly waiting in the wings, and rumored specs of these processors have been shared – although the chips will apparently only be sold to PC system builders. The CPUs have been rumored before, and now one of Twitter's regular hardware leakers, @momomo_us, has tweeted some details of the processors which as ever must be treated with a healthy amount of caution. Theoretically, then, the Ryzen 9 5900 will be a 12-core CPU with 64MB of L3 cache, alongside 2MB of L2 cache.
+
+
+***
+![Masters snooker live stream 2021: how to watch every frame online from anywhere](https://cdn.mos.cms.futurecdn.net/NnQoeeRM5ELRrzudxvJzUk-1200-80.jpg "Masters snooker live stream 2021: how to watch every frame online from anywhere")
+
+
+[Masters snooker live stream 2021: how to watch every frame online from anywhere](https://www.techradar.com/news/masters-snooker-live-stream-2021-how-to-watch-every-frame-online-from-anywhere)
+
+
+> Nearly all of the world's best snooker players are back in action at the Marshall Arena in Buckinghamshire this week for the 2021 Masters - the second Grand Slam event of the current season and one of the most respected tournaments on the calendar. Read on as we explain how to a watch Masters snooker live stream online today from anywhere on earth - including for free in the UK thanks to the BBC and its easy-to-use iPlayer streaming service.The obvious highlight of the round 1 Masters snooker schedule is Wednesday's meeting between Ronnie O'Sullivan and Ding Junhui.
+
+
