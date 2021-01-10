@@ -1545,3 +1545,43 @@
 > TL;DR: The Learn to Play Piano, Guitar, and Drums Master Class Bundle is on sale for £44.16 as of Jan. 10, saving you 96% on list price. Are you still completely and utterly bored? When you're officially tapped out on making TikToks, how about taking up an instrument?  If you're looking to try out a few instruments and techniques, one online option is the Learn to Play Piano, Guitar, and Drums Master Class Bundle. It's on sale for just £44.16 and packs over 80 hours of video instruction. That should last you at least through the winter if you hold yourself accountable.
 
 
+***
+![India plays: Time to realise domestic potential of boardgames](https://images.indianexpress.com/2021/01/chess-featured.jpg "India plays: Time to realise domestic potential of boardgames")
+
+
+[India plays: Time to realise domestic potential of boardgames](https://indianexpress.com/article/technology/opinion-technology/india-plays-time-to-realise-domestic-potential-of-boardgames-queens-gambit-chess-7140483/)
+
+
+> Chess is also not the only game to have seen an uptick in popularity (Express Photo: Nandagopal Rajan) Remya Lakshmanan & Aarushi Aggarwal Netflix's recent hit show The Queen's Gambit has reportedly driven up the sales of chess sets across the world. Chess is also not the only game to have seen an uptick in popularity. Board games, and tabletop games (ludo, monopoly, scrabble) in particular, are creeping back into adult social gatherings. Major cities in India already host gaming clubs and cafes with memberships in hundreds.
+
+
+***
+![Tesla crosses $800 billion market value after the latest rally](https://techstory.in/wp-content/uploads/2021/01/Tesla-2.jpg "Tesla crosses $800 billion market value after the latest rally")
+
+
+[Tesla crosses $800 billion market value after the latest rally](https://techstory.in/tesla-crosses-800-billion-market-value-after-the-latest-rally/)
+
+
+> Tesla crosses $800 billion market value after the latest rally in the stock market. Not only that but the most recent price jump of the company also made Elon Musk the richest person in the world. With the growing price of Tesla, the difference between Musk's net worth and Jeff Bezos is now huge. The way Tesla's price has been increasing in 2021 makes it safe to say that the company will join the Trillion dollar club in a week. The company's shares are currently trading at around $880 after almost another 8-10% increase the following day of crossing the $800 mark.
+
+
+***
+![Tech bites back against Trump machine as war between Silicon Valley and Washington takes a new turn](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/10/5e57791a-5303-11eb-ad83-255e1243236c_image_hires_133958.jpg?itok=tqwKZ6aP&v=1610257206 "Tech bites back against Trump machine as war between Silicon Valley and Washington takes a new turn")
+
+
+[Tech bites back against Trump machine as war between Silicon Valley and Washington takes a new turn](https://www.scmp.com/news/world/united-states-canada/article/3117108/tech-bites-back-against-trump-war-between-silicon)
+
+
+> US President Donald Trump looks at his phone. Moves by big tech companies to restrict his accounts come after years of efforts by both Democrats and Republicans in Washington to cut Silicon Valley down to size. Photo: AP
+
+
+***
+![Organizing External Storage with mac mini](https://images.macrumors.com/social/?t=2279557&v=6 "Organizing External Storage with mac mini")
+
+
+[Organizing External Storage with mac mini](https://forums.macrumors.com/threads/organizing-external-storage-with-mac-mini.2279557/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
