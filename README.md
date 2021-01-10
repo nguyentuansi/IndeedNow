@@ -2017,3 +2017,47 @@
 > Image Credit: Shutterstock New Delhi: Cross-platform encrypted messaging service, Signal has climbed to the top spot in the free apps category of the App Store in multiple countries, including India. The official Twitter handle of Signal on Saturday shared a screenshot, showing it placed above WhatsApp at the top spot in India. "Look what you have done," it tweeted. Along with India, it became the top downloaded app in Germany, France, Austria, Finland, Hong Kong, and Switzerland as well. Signal began to witness a spike in downloads after users worldwide started receiving popups, asking them to agree to its revised policies before February 8 or lose their account.
 
 
+***
+[Signal tops free apps category on App Store beating WhatsApp](https://www.freepressjournal.in/technology/signal-tops-free-apps-category-on-app-store-beating-whatsapp)
+
+
+> No body in the article.
+
+
+***
+[Bangalore-based Jumbotail, an online wholesale marketplace for grocery and food items, adds $14.2M to its Series B, bringing total for the round to about $44M (Manish Singh/TechCrunch)](http://www.techmeme.com/210110/p4#a210110p4)
+
+
+> Manish Singh / TechCrunch: Bangalore-based Jumbotail, an online wholesale marketplace for grocery and food items, adds $14.2M to its Series B, bringing total for the round to about $44M — Jumbotail, an online wholesale marketplace for grocery and food items, said on Friday it has raised an additional $14.2 million …
+
+
+***
+![Tech giants' censorship of history must be thwarted](https://www.theaustralian.com.au/wp-content/themes/vip/newscorpau-theaustralian-broadsheet/dist/images/favicons/favicon.ico "Tech giants' censorship of history must be thwarted")
+
+
+[Tech giants' censorship of history must be thwarted](https://www.theaustralian.com.au/commentary/editorials/tech-giants-censorship-of-history-must-be-thwarted/news-story/e5b65714193de32abf8439266f97f873)
+
+
+> No body in the article.
+
+
+***
+![The Best Cheap Phones for (Almost) Every Budget](https://media.wired.com/photos/5f23168c558da0380aa8e37f/191:100/w_1280,c_limit/Gear-Google-Pixel-4A-front-and-back-angle-SOURCE-Google.jpg "The Best Cheap Phones for (Almost) Every Budget")
+
+
+[The Best Cheap Phones for (Almost) Every Budget](https://www.wired.com/story/best-cheap-phones/)
+
+
+> The 10 Pro has excellent performance with the Snapdragon 675 chip inside, and its 6.5-inch OLED screen is sharp and bright, even in broad daylight. The 4,500-mAh battery keeps it running for a full day, and the four-camera system does well in a variety of lighting conditions, though it's still not as good as the Pixel 3A. It feels more premium because it's a glass sandwich, but that also makes it fragile.The plastic-backed 10L is more durable and has similarly good performance, even if it uses the slower Snapdragon 665 processor—for $200 less.
+
+
+***
+![5 tech resolutions to consider for 2021](https://www.gannett-cdn.com/presto/2021/01/08/USAT/b6d0b266-d111-4322-8330-e76577376d11-HoMedics_UV-Clean_Phone_Sanitizer_-_c.jpg?crop=1999,1125,x0,y435&width=1600&height=800&fit=bounds "5 tech resolutions to consider for 2021")
+
+
+[5 tech resolutions to consider for 2021](https://www.usatoday.com/story/tech/columnist/2021/01/10/new-years-resolutions-ring-2021-these-5-tech-goals/4140032001/)
+
+
+> What to do if you're supposed to create long and complicated passwords and not use the same ones for all your online activity? The answer is a reliable password manager app, such as Dashlane.   (Photo: Dashlane) Lose weight. Quit smoking. Manage finances better. Sure, these are all popular and sincere New Year's Resolutions – especially after the challenging year we've just endured -- but you should also consider giving yourself a small tech makeover this year. In fact, doing so can keep you safer, more productive, and even help the environment at the same time.
+
+
