@@ -1750,3 +1750,53 @@
 > by Taylor Soper on January 10, 2021 at 12:34 amJanuary 10, 2021 at 12:46 am AWS re:Invent. (GeekWire Photo) Amazon's cloud unit will no longer provide services to Parler, the social media platform popular with conservatives and extremists. BuzzFeed first reported that Amazon Web Services will suspend Parler on Sunday before midnight. An Amazon spokesperson confirmed the news to GeekWire. BuzzFeed cited an email from AWS sent to Parler that stated how the site violated Amazon's terms of service due to calls for violence.
 
 
+***
+![Facebook Is Building Technology To Read Our Brain And Access Our Thoughts](https://im.indiatimes.in/content/2021/Jan/facebook-zuckerberg-reuters_5ffa96cd49485.jpg "Facebook Is Building Technology To Read Our Brain And Access Our Thoughts")
+
+
+[Facebook Is Building Technology To Read Our Brain And Access Our Thoughts](https://www.indiatimes.com/technology/news/facebook-neural-technology-to-read-brain-and-access-thoughts-529980.html)
+
+
+> If you're worried about WhatsApp's change in data-sharing policy, wait till you read this: Facebook is reportedly working on a tool that can read people's minds to convert their thoughts into actions. The neural sensor will act much as the products of other neurotechnology companies like Elon Musk's Neuralink. (Representative Image: Reuters)Facebook announced the plans for such a neural device at the company's annual meeting. While the details of the meetings were not made public, BuzzFeed News managed to obtain an audio recording that was broadcast to all employees.
+
+
+***
+![PUBG Mobile: Here's why the app's ban will not lift anytime soon in India](https://images.indianexpress.com/2021/01/PUBG-Mobile.jpg "PUBG Mobile: Here's why the app's ban will not lift anytime soon in India")
+
+
+[PUBG Mobile: Here's why the app's ban will not lift anytime soon in India](https://indianexpress.com/article/technology/gaming/pubg-mobile-heres-why-the-apps-ban-will-not-lift-anytime-soon-7140652/)
+
+
+> As we near a launch date for FAU-G, India's very own shooting Battle Royale game, many Indian fans of PUBG Mobile continue waiting for news on the app's ban to be lifted. While the PUBG team has been taking a bunch of efforts to clear its allegations on privacy and to bring the app back online in India, there has been no formal word on the matter from the government. However, a recent report by InsideSport suggests that the lifting of the ban is unlikely, at least in the near future. The report mentions the government's reply in response to an RTI filed by Gem Wire.
+
+
+***
+![SK-LG feud in spotlight ahead of Biden ascendancy](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202101/8ef244450bb240ea9f888935b9e643f8.jpg "SK-LG feud in spotlight ahead of Biden ascendancy")
+
+
+[SK-LG feud in spotlight ahead of Biden ascendancy](http://www.koreatimes.co.kr/www/tech/2021/01/693_302228.html)
+
+
+> By Kim Yoo-chulIntellectual property (IP) rights have recently come to the fore as the main cause of industrial disputes.President-elect Joe Biden's administration is also expected to double down on the protection of IP rights especially in the wake of the ongoing trade dispute between the U.S. and China. Many foreign investors, companies and even individuals are expected to raise issues about the implementation of expected policies under the new U.S. government and their possible consequences.The U.
+
+
+***
+![Coupang's IPO still looking uncertain](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202101/80fa99a2e82f49ee97e78fc73e1e2f05.jpg "Coupang's IPO still looking uncertain")
+
+
+[Coupang's IPO still looking uncertain](http://www.koreatimes.co.kr/www/tech/2021/01/694_302221.html)
+
+
+> A Coupang vehicle is driven down a road in Seoul in this 2020 file photo. / Courtesy of CoupangBy Kim Jae-heunChairman Masayoshi Son's SoftBank is preparing to list six companies that it is the major investor in and holds managing rights to this year, and according to media reports last week, Coupang will be the first. However, whether its initial public offering (IPO) on the Nasdaq will be successful or not is still questionable.Son appears to believe e-commerce firm has a good chance of attracting other investors because of its continuously growing corporate value, estimated at 33 trillion won ($30.
+
+
+***
+![Best App to Edit PDFs?](https://images.macrumors.com/social/?t=2279569&v=6 "Best App to Edit PDFs?")
+
+
+[Best App to Edit PDFs?](https://forums.macrumors.com/threads/best-app-to-edit-pdfs.2279569/)
+
+
+> Jul 13, 2008 3,059 344 Los Angeles, Ca I have a PDF file of a resume and no longer have the Pages version of said document and am wanting to update it a bit. I heard Readdle's PDF Expert App is great, but $80 is kinda steep. There either must be worthy alternatives out there or perhaps an Apple Preview App feature I may be missing. Thanks!
+
+
