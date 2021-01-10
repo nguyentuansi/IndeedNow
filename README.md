@@ -1251,3 +1251,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Apple has suspended Parler from the App Store](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/parler-logo.jpg "Apple has suspended Parler from the App Store")
+
+
+[Apple has suspended Parler from the App Store](https://www.imore.com/apple-has-suspended-parler-app-store)
+
+
+> Source: Parler As reported by 9to5Mac, Apple has banned conservative social media app Parler from the App Store. In a statement sent out to outlets, the company says that the app has violated its policies on the app store due to increasing "threats of violence and illegal activity" that have been allowed to remain on the app. Apple says that, until Parler resolves these issues and is able to put forth an effective moderation strategy, it will remain pulled from the App Store. You can read Apple's statement below: We have always supported diverse points of view being represented on the App Store, but there is no place on our platform for threats of violence and illegal activity.
+
+
+***
+![Apple follows Google in banning Parler app     - CNET](https://cnet2.cbsistatic.com/img/f8nEzCN3v5MzwGBc7WeQsBK4yl0=/1200x630/2021/01/09/d2515b22-35da-45c1-8bb7-69ce23aa7687/20210108-parler-icon-iphone-01-3.jpg "Apple follows Google in banning Parler app     - CNET")
+
+
+[Apple follows Google in banning Parler app     - CNET](https://www.cnet.com/news/apple-follows-google-in-banning-parler-app/)
+
+
+> Olivier Douliery/Getty Images Apple and Google have banned the Parler social networking app from their respective app stores in the wake of Wednesday's attack on the US Capitol by a mob of Trump supporters. Parler has been rife with violent comments since before the attack on the Capitol. Apple pulled the app from the App Store on Saturday, saying in a statement that Parler had failed to appropriately police content posted by users. Apple has "always supported diverse points of view being represented on the App Store, but there is no place on our platform for threats of violence and illegal activity," the company said in its statement.
+
+
+***
+![Apple suspends Parler from App Store](https://cdn.cnn.com/cnnnext/dam/assets/210108200907-parler-app-stock-super-tease.jpg "Apple suspends Parler from App Store")
+
+
+[Apple suspends Parler from App Store](https://www.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html)
+
+
+> Apple (AAPL) notified Parler of its decision in a message that said it had violated the company's app store terms. "The processes Parler has put in place to moderate or prevent the spread of dangerous and illegal content have proved insufficient," Apple told Parler. "Specifically, we have continued to find direct threats of violence and calls to incite lawless action in violation of Guideline 1.1 - Safety - Objectionable Content."Apple's notice said Parler's responses to an earlier warning were inadequate, including Parler's defense that it had been taking violent rhetoric on its platform "very seriously for weeks" and that it had a moderation plan "for the time being," according to Apple.
+
+
+***
+![2015 MBA and Sidecar](https://images.macrumors.com/social/?t=2279540&v=6 "2015 MBA and Sidecar")
+
+
+[2015 MBA and Sidecar](https://forums.macrumors.com/threads/2015-mba-and-sidecar.2279540/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Apple suspends Parler from App Store](https://external-preview.redd.it/LRQ8m1tRGs5zDoJ8qfBRvIb9_N2qQOp8s8SZavwfH5U.jpg?auto=webp&s=f0959b1629ef5c37a6d43e1440c139b4038edb97 "Apple suspends Parler from App Store")
+
+
+[Apple suspends Parler from App Store](https://www.reddit.com/r/technology/comments/ku44jb/apple_suspends_parler_from_app_store/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
