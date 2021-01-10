@@ -210,3 +210,47 @@
 > 입력 2021.01.11 06:00 키워드 Copyright © IT Chosun.
 
 
+***
+[Lenovo unveils ThinkReality A3 Smart Glasses that can show up to 5 virtual 1080p displays, come with 8 MP camera and 2 fish-eye cameras for room-scale tracking (Mariella Moon/Engadget)](http://www.techmeme.com/210110/p8#a210110p8)
+
+
+> Mariella Moon / Engadget: Lenovo unveils ThinkReality A3 Smart Glasses that can show up to 5 virtual 1080p displays, come with 8 MP camera and 2 fish-eye cameras for room-scale tracking — Lenovo has launched a new ThinkReality device for CES 2021, and the company says it's “one of the most advanced and versatile” smart glasses for enterprise customers.
+
+
+***
+![Eavesdropper: Internet factionalism](https://images.financialexpress.com/2021/01/1-267.jpg "Eavesdropper: Internet factionalism")
+
+
+[Eavesdropper: Internet factionalism](https://www.financialexpress.com/industry/technology/eavesdropper-internet-factionalism/2168266/)
+
+
+> However, there is also a fear that its ban may be otiose, given many more Parlers may crop up and the anti-internet and established social media sentiment may become stronger in the coming years. Last week was eventful not just for American politics, but also the technology space. After the storming of the Capitol, all technology giants huddled up within days to ban US president Donald Trump from their platforms. The step was a necessary one given the events of January 6, but it has also alienated many conservatives from social media platforms.
+
+
+***
+![GNOME has no thumbnails in the file picker (and my toilets are blocked)](https://jayfax.neocities.org/mediocrity/gtk.png "GNOME has no thumbnails in the file picker (and my toilets are blocked)")
+
+
+[GNOME has no thumbnails in the file picker (and my toilets are blocked)](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
+
+
+> The file picker Windows 98. I have three toilets in my house. There are two upstairs; one in the bathroom and another in the ensuite shower room of the master bedroom. There is one downstairs; a toilet room by the front door. The two toilets upstairs do not work, they are blocked. This has been the case for over a year now. Just about everytime those toilets are used, they need to be plunged. I have a genius workaround. I just use the downstairs toilet now. The downstairs toilet isn't blocked, you see.
+
+
+***
+![Kia's new standout family car](https://cdn.newsapi.com.au/image/v1/b2b2fd85b8a564d47f83a5ffc707466c?width=1280 "Kia's new standout family car")
+
+
+[Kia's new standout family car](https://www.news.com.au/technology/motoring/new-cars/new-kia-carnival-review-allrounder-takes-the-fight-to-suvs/news-story/393d941800fa27fdfa8e54586b8769a8)
+
+
+> A people mover is typically the vehicle you need, rather than the one you want. As a breed they've been overtaken by the seven-seat SUV, because mums and dads love the fact they can transport a large tribe in something that looks vaguely stylish.Kia is hoping to turn the tables to an extent with the new Carnival.The latest version of Australia's favourite people-mover has a longer, more aggressive snout and SUV styling cues in an attempt to woo people away from seven-seat SUVs.The brand's chief operating officer Damien Meredith believes the new model will expand its buyer base.
+
+
+***
+[Listen up, iPhone's hearing accessibility tools can really help](https://www.watoday.com.au/technology/listen-up-iphone-s-hearing-accessibility-tools-can-really-help-20201217-p56oc9.html?ref=rss&utm_medium=rss&utm_source=rss_feed)
+
+
+> Most people think of adaptive headphones as something for older people, but it's a rare person over the age of 25 who doesn't have some degree of hearing loss.
+
+
