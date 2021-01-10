@@ -1301,3 +1301,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Free Speech Platform Gab Reports 750% Increase in Traffic](https://media.breitbart.com/media/2018/07/GettyImages-459305156.jpg "Free Speech Platform Gab Reports 750% Increase in Traffic")
+
+
+[Free Speech Platform Gab Reports 750% Increase in Traffic](https://www.breitbart.com/tech/2021/01/09/free-speech-platform-gab-reports-750-increase-in-traffic/)
+
+
+> Gab.com, the free speech friendly social network, says traffic has increased by more than 750 percent in the past few days, following the blacklisting of President Donald Trump from most mainstream tech platforms. 'Our traffic is up 753% in the past 24 hours. Tens of millions of visits,' said Gab in response to a question about slow loading speeds. The free speech network announced that it would bring ten new servers online to handle the increased traffic volume. Gab was the first free speech alternative to Twitter.
+
+
+***
+![Amazon Is Booting Parler Off Of Its Web Hosting Service](https://external-preview.redd.it/RJDwjWU6EDy39gIgeBXjUvqM9DqltmMBGsfc3ju9bww.jpg?auto=webp&s=6317f77861f43128e05b13d17423dd6d69964cb3 "Amazon Is Booting Parler Off Of Its Web Hosting Service")
+
+
+[Amazon Is Booting Parler Off Of Its Web Hosting Service](https://www.reddit.com/r/technology/comments/ku54uv/amazon_is_booting_parler_off_of_its_web_hosting/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Apple may release 2nd generation AirPods Pro and new iPhone SE in April](https://www.imore.com/sites/imore.com/files/styles/large/public/article_images/2019/11/airpods-pro-review-13-rm6m.jpg "Apple may release 2nd generation AirPods Pro and new iPhone SE in April")
+
+
+[Apple may release 2nd generation AirPods Pro and new iPhone SE in April](https://www.imore.com/apple-may-release-2nd-generation-airpods-pro-and-new-iphone-se-april)
+
+
+> Source: Daniel Bader / iMore Apple may launch its next generation of AirPods Pro in April. The company may also release a new iPhone SE. As reported by Mac Otakara, Apple may release a new generation of AirPods Pro and its iPhone SE in April of this year. While details of what might be in store for a new iPhone SE are lacking, there is some information on what might be expected for the next generation of AirPods Pro. According to sources, the new AirPods Pro will feature a new design for the charging case.
+
+
+***
+![Best cash-back credit cards for January 2021     - CNET](https://cnet1.cbsistatic.com/img/7u7ai0N0dEQBlf4g5EYxzf-ZeJ0=/1200x630/2020/03/25/8f81e7d4-92dc-4201-927e-be9a8893dbcb/credit-card-chase-freedom-unlimited.png "Best cash-back credit cards for January 2021     - CNET")
+
+
+[Best cash-back credit cards for January 2021     - CNET](https://www.cnet.com/personal-finance/best-cash-back-credit-cards/)
+
+
+> Taking steps to optimize your finances in 2021? It's time to take a closer look at your credit cards. There are a lot of cards out there these days, each filling a different niche. If you have a clear idea about the type of benefits you're looking for, as well as a a handle on your spending, your credit card can be more than just a credit card. Lots of credit cards have rewards features built in, but the most simple rewards credit cards are cash-back rewards. A cash-back credit card lets you earn bonus cash -- usually in the form of reward dollars -- on eligible purchases.
+
+
+***
+![Tech Men's Basketball grinds out a win in its season opener](https://gray-wluc-prod.cdn.arcpublishing.com/resizer/rSH-ijf_TWWiiIGet4B2wKMVmFM=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/IGAOTR3KCRD4DLTJEDJPUIZ5AI.JPG "Tech Men's Basketball grinds out a win in its season opener")
+
+
+[Tech Men's Basketball grinds out a win in its season opener](https://www.uppermichiganssource.com/2021/01/10/tech-mens-basketball-grinds-out-a-win-in-its-season-opener/)
+
+
+> HOUGHTON, Mich. (WLUC) - Dawson Bilski scored 24 points to help Michigan Tech men's basketball over Purdue Northwest 68-59 in Great Lakes Intercollegiate Athletic Conference men's basketball Saturday afternoon at SDC Gymnasium. With a win in their 2020-21 season opener, the Huskies extended their program win streak to eight consecutive games going back to the spring.'We played a good Purdue Northwest team today, a team that already played three competitive Division I exhibitions, so I felt fortunate that we were able to play well enough to win our first time out,' said Michigan Tech head coach Kevin Luke.
+
+
