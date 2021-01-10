@@ -1632,3 +1632,44 @@
 > Twitter saw a surprising item trending on Friday night when "Hang Mike Pence" hit around 14,000 tweets, according to reports."Hang Mike Pence" hit around 14,000 tweets on Twitter Friday night after Trump's permanent  ban. Many users were confused, then, to see such a violent item in the trending section. Many users were confused, then, to see such a violent item in the trending section.The social media platform announced Friday night that it was permanently suspending President Trump's Twitter account.
 
 
+***
+[Parler to go offline after Amazon removes it from its web hosting service](https://www.freepressjournal.in/technology/parler-to-go-offline-after-amazon-removes-it-from-its-web-hosting-service)
+
+
+> No body in the article.
+
+
+***
+['Among Us' most downloaded mobile game globally in 2020](https://www.freepressjournal.in/technology/among-us-most-downloaded-mobile-game-globally-in-2020)
+
+
+> No body in the article.
+
+
+***
+![The best way to protect free speech on social media is to promote competition](https://wp.technologyreview.com/wp-content/uploads/2021/01/AP_21006631951744.jpeg?resize=1200,600 "The best way to protect free speech on social media is to promote competition")
+
+
+[The best way to protect free speech on social media is to promote competition](https://www.technologyreview.com/2021/01/09/1015977/who-decides-free-speech-online/)
+
+
+> Following reports of genocide in Myanmar, Facebook banned the country's top general and other military leaders who were using the platform to foment hate. The company also bans Hezbollah from its platform because of its status as a US-designated foreign terror organization, despite the fact that the party holds seats in Lebanon's parliament. And it bans leaders in countries under US sanctions. At the same time, both Facebook and Twitter have stuck to the tenet that content posted by elected officials deserves more protection than material from ordinary individuals, thus giving politicians' speech more power than that of the people .
+
+
+***
+[As Trump searches for a new social network after his Twitter ban, a shift from mainstream platforms would mark a retreat to insular conservative communities (Washington Post)](http://www.techmeme.com/210110/p2#a210110p2)
+
+
+> Washington Post: As Trump searches for a new social network after his Twitter ban, a shift from mainstream platforms would mark a retreat to insular conservative communities — Twitter's decision to ban President Trump mere days before the end of his term sparked a fierce political backlash among …
+
+
+***
+![Web Scraping with Python for Beginner - Easiest Way](https://external-preview.redd.it/Q2ne93OzjQ3g866pFXCqeijREzJtR-RkFgT6xFpARes.jpg?auto=webp&s=cf1eed309e5d8eb9e89c251018f2fdc24adde785 "Web Scraping with Python for Beginner - Easiest Way")
+
+
+[Web Scraping with Python for Beginner - Easiest Way](https://www.reddit.com/r/Python/comments/ku9fb4/web_scraping_with_python_for_beginner_easiest_way/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
