@@ -1967,3 +1967,53 @@
 > Nearly all of the world's best snooker players are back in action at the Marshall Arena in Buckinghamshire this week for the 2021 Masters - the second Grand Slam event of the current season and one of the most respected tournaments on the calendar. Read on as we explain how to a watch Masters snooker live stream online today from anywhere on earth - including for free in the UK thanks to the BBC and its easy-to-use iPlayer streaming service.The obvious highlight of the round 1 Masters snooker schedule is Wednesday's meeting between Ronnie O'Sullivan and Ding Junhui.
 
 
+***
+![Any suggestions regarding a book/website which addresses in detail about making a python package/software from scratch and publishing it?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Any suggestions regarding a book/website which addresses in detail about making a python package/software from scratch and publishing it?")
+
+
+[Any suggestions regarding a book/website which addresses in detail about making a python package/software from scratch and publishing it?](https://www.reddit.com/r/Python/comments/kudk6f/any_suggestions_regarding_a_bookwebsite_which/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Twitter-Slicer v2: An automatic Twitter thread maker](https://external-preview.redd.it/GCzzFT7rY97b17QMoXUXuAuK35V4Fq7ShGk0K3U-6oU.jpg?auto=webp&s=1b68decd739f73251f2846998102e0ff3e9e4173 "Twitter-Slicer v2: An automatic Twitter thread maker")
+
+
+[Twitter-Slicer v2: An automatic Twitter thread maker](https://www.reddit.com/r/Python/comments/kudfw3/twitterslicer_v2_an_automatic_twitter_thread_maker/)
+
+
+> The Twitter-Slicer is a Python program that helps you make a Twitter thread by cutting a text in a file into tweetable parts that you can either Tweet directly (using Tweepy), or copy-paste to Twitter. GitHub Link Previous post Functions Slicing Modes By Limit -l or --limit Slice text into strictly 280-character chunks to maximize Tweet limit. By Space -s or --space (default) Slice text in the nearest whitespace before the Tweet limit. By Punctuation -p or --punct Slice text in the nearest punctuation mark before the Tweet limit.
+
+
+***
+![Learning PYTHON](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Learning PYTHON")
+
+
+[Learning PYTHON](https://www.reddit.com/r/Python/comments/kuddy0/learning_python/)
+
+
+> So I am new to this world of coding! And I am just seeing a lot of channels, websites, courses that teach python. What is the best way (and cheapest obviously) to learn coding? Much appreciated
+
+
+***
+![Apple to launch thinner, lighter low-cost iPad this year](https://imagevars.gulfnews.com/2019/10/21/Apple_iPadOS-iPad-7th-Gen-Availability_Smart-Keyboard_092419_16def0a997a_medium.jpg "Apple to launch thinner, lighter low-cost iPad this year")
+
+
+[Apple to launch thinner, lighter low-cost iPad this year](https://gulfnews.com/technology/consumer-electronics/apple-to-launch-thinner-lighter-low-cost-ipad-this-year-1.1610279344437)
+
+
+> 10.2-inch iPad Image Credit: Apple San Francisco: Apple is reportedly planning to launch a significantly "thinner and lighter" entry-level ninth-generation low-cost iPad this year. According to the Mac Otakara report, the upcoming iPad will sport the same svelte body as the latest-generation iPad Air 3 with no design changes. The display size on the new iPad is going to remain the same at 10.2-inches but it might be significantly thinner than the iPad Air at 6.3 mm. The new iPad is also expected to be lighter at 460 gms, 30 gms less than the 490 gms of the current one.
+
+
+***
+![Signal tops free apps category on App Store beating WhatsApp](https://imagevars.gulfnews.com/2021/01/10/STOCK-Signal-iOS-app_176ec291f5c_medium.jpg "Signal tops free apps category on App Store beating WhatsApp")
+
+
+[Signal tops free apps category on App Store beating WhatsApp](https://gulfnews.com/technology/signal-tops-free-apps-category-on-app-store-beating-whatsapp-1.1610279942904)
+
+
+> Image Credit: Shutterstock New Delhi: Cross-platform encrypted messaging service, Signal has climbed to the top spot in the free apps category of the App Store in multiple countries, including India. The official Twitter handle of Signal on Saturday shared a screenshot, showing it placed above WhatsApp at the top spot in India. "Look what you have done," it tweeted. Along with India, it became the top downloaded app in Germany, France, Austria, Finland, Hong Kong, and Switzerland as well. Signal began to witness a spike in downloads after users worldwide started receiving popups, asking them to agree to its revised policies before February 8 or lose their account.
+
+
