@@ -1693,3 +1693,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+[Deal: Get Galaxy Z Fold 2 or Note 20 for free when you buy a Samsung QLED 8K TV](https://www.soyacincau.com/2021/01/10/deal-get-galaxy-z-fold-2-or-note-20-for-free-when-you-buy-a-samsung-qled-8k-tv/)
+
+
+> Samsung is currently offering a list of deals for things like TVs and home appliances until 28 February 2021—in time for Chinese New Year. The deals include free gifts worth up to RM 7,999. The list of deals range from getting a free Galaxy Z Fold 2 (worth RM 7,999) when you purchase the new […] The post Deal: Get Galaxy Z Fold 2 or Note 20 for free when you buy a Samsung QLED 8K TV appeared first on SoyaCincau.com.
+
+
+***
+![Samsung Galaxy A02s coming soon to the US](https://m-cdn.phonearena.com/images/article/129426-two_1200/Samsung-Galaxy-A02s-coming-soon-to-the-US.jpg "Samsung Galaxy A02s coming soon to the US")
+
+
+[Samsung Galaxy A02s coming soon to the US](https://www.phonearena.com/news/Upcoming-Samsung-Galaxy-A02s-United-States-launch_id129426)
+
+
+> After Galaxy A32 5G and A52 5G, it looks like Samsung is preparing an even cheaper smartphone for the US market. The Galaxy A02s is an inexpensive Android smartphone that's expected to make its debut in the US very soon.The cheap device will be available via Samsung, but various carriers, such as AT&T, Cricket Wireless and Verizon, are likely to offer the smartphone as well, SamMobile reports. As far as the specs go, the Galaxy A02s sports a massive 6.5-inch HD+ Infinity-V display and a huge 5,000 mAh battery featuring 15W fast charging.
+
+
+***
+![Telegram founder addresses rumours, slams Facebook in new post](https://images.indianexpress.com/2021/01/Pavel-Durov-Telegram.jpg "Telegram founder addresses rumours, slams Facebook in new post")
+
+
+[Telegram founder addresses rumours, slams Facebook in new post](https://indianexpress.com/article/technology/social/telegram-founder-pavel-durov-addresses-rumours-slams-facebook-owned-whatsapp-in-new-post-7140541/)
+
+
+> As the new WhatsApp policies continue to put more users in question over the app's future, other communication applications like Signal and Telegram are enjoying a rise in the number of users.  Now, Telegram founder Pavel Durov has slammed Facebook over a lack of respect for its userbase in a new blog post. 'I hear Facebook has an entire department devoted to figuring out why Telegram is so popular. Imagine dozens of employees working on just that full-time,' says Durov in his post. 'I am happy to save Facebook tens of millions of dollars and give away our secret for free: respect your users,' he adds.
+
+
+***
+![Google staff emails under scrutiny amid union push](https://www.telegraph.co.uk/content/dam/technology/2021/01/08/TELEMMGLPICT000248232351_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Google staff emails under scrutiny amid union push")
+
+
+[Google staff emails under scrutiny amid union push](https://www.telegraph.co.uk/technology/2021/01/10/google-staff-emails-scrutiny-amid-union-push/)
+
+
+> But they come as the world's fourth most valuable company, worth $1.2 trillion (£885bn), grapples with a surge in employee activism following scandals over sexual harassment, the treatment of women and minority groups and ­ controversial military contracts . A Google spokesman said: 'Community guidelines exist to support the healthy and open discussion that has always been a part of our culture … The guidelines are official policy and apply when employees are communicating in the workplace.' Previous protests, including a 2018 mass walkout over a $90m payoff made to a former executive Andy Rubin who was facing sexual harassment allegations, were organised by staff using Google's own offices and IT systems.
+
+
+***
+![Facebook can't access encrypted private chats: WhatsApp head on new privacy policy](https://images.indianexpress.com/2021/01/WhatsApp_BLOOMBERG1.jpg "Facebook can't access encrypted private chats: WhatsApp head on new privacy policy")
+
+
+[Facebook can't access encrypted private chats: WhatsApp head on new privacy policy](https://indianexpress.com/article/technology/tech-news-technology/whatsapp-head-will-cathcart-end-to-end-encryption-private-chats-new-policy-7140423/)
+
+
+> Popular messaging platform WhatsApp has been facing a lot of flak for its revised privacy policy under which Facebook and its partner companies will get access to selected user data. Since then there has been a surge in the downloads of alternative messaging apps including Signal. In reply to the widespread criticism, WhatsApp head Will Cathcart tried to explain how the new policy will not affect users and will continue to keep their conversations private. Cathcart tried to clear the air with a Twitter thread saying, 'With end-to-end encryption, we cannot see your private chats or calls and neither can Facebook.
+
+
