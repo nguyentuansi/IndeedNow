@@ -2108,3 +2108,50 @@
 > Want to join? Log in or sign up in seconds.
 
 
+***
+![Should you buy the Instant Pot Duo Evo Plus or the Ninja Foodi 11-in-1 Pro?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/instant-pot_duo_evo_plus_lifestyle.jpg "Should you buy the Instant Pot Duo Evo Plus or the Ninja Foodi 11-in-1 Pro?")
+
+
+[Should you buy the Instant Pot Duo Evo Plus or the Ninja Foodi 11-in-1 Pro?](https://www.androidcentral.com/instant-pot-duo-evo-plus-vs-ninja-foodi-11-in-1-pro)
+
+
+> Trend setter Instant Pot Duo Evo Plus All encompassing Ninja Foodi 11-in-1 Pro Pressure Cooker + Air Fryer The Instant Pot Duo Evo Plus is definitely the mainstream go-to for pressure cookers. It has many amazing features such as pressure cooking, sauteing, rice cooker, Sous Vide, yogurt maker, and many more. $120 at Amazon Pros Custom programing for specific temperature and time Easy to read display Available in 6-quart and 8-quart All accessories fit inside the Instant Pot for easy storage Cons No touchscreen Not many add-on accessories with purchase The Ninja Foodi 11-in-1 Pro Pressure Cooker + Air Fryer is truly an all in one game-changer.
+
+
+***
+![Amazon pulls the plug on Parler, social network  favoured by Trump supporters, over posts ‘inciting violence'](https://i.inews.co.uk/content/uploads/2021/01/PRI_178620905.jpg "Amazon pulls the plug on Parler, social network  favoured by Trump supporters, over posts ‘inciting violence'")
+
+
+[Amazon pulls the plug on Parler, social network  favoured by Trump supporters, over posts ‘inciting violence'](https://inews.co.uk/news/technology/amazon-plug-trump-supporter-social-network-parler-apple-google-823844)
+
+
+> Amazon pulls the plug on Parler, social network favoured by Trump supporters, over posts ‘inciting violence' Parler, the social network favoured by Donald Trump supporters, is racing to find a new web provider after Amazon said it was withdrawing its services Amazon has suspended right-wing social network Parler from its web hosting services over the platform's failure to moderate calls for violence, consigning the site to being taken offline permanently if it fails to find a new host. Hundreds of thousands of new users flocked to the free speech Twitter-style network in the wake of Twitter's decision to permanently ban US President Donald Trump following the US Capitol riots that caused the death of five people.
+
+
+***
+[Techno Week celebrations conclude at DPS Nacharam](https://telanganatoday.com/techno-week-celebrations-conclude)
+
+
+> The children presented and explained the different parts of the computer and the usage of technology in everyday life through short entertaining skits. The post Techno Week celebrations conclude at DPS Nacharam appeared first on Telangana Today.
+
+
+***
+![Uploading images from Canon G7X mk II to Mackbook Air 2020](https://images.macrumors.com/social/?t=2279587&v=6 "Uploading images from Canon G7X mk II to Mackbook Air 2020")
+
+
+[Uploading images from Canon G7X mk II to Mackbook Air 2020](https://forums.macrumors.com/threads/uploading-images-from-canon-g7x-mk-ii-to-mackbook-air-2020.2279587/)
+
+
+> Hi all, I am desperate for any help at this point and would appreciate any help given (Hi, I'm new to the forums, nice to meet you all ❤️) I have a Macbook 2020 and a canon G7X Mk II and I am wanting to upload videos and images to my MacBook. I am now running the Big Sur update also. I have looked at so many different tutorials of how to transfer images, can find nothing that will work. I wondered if anyone out there might have any insight on this issue? (Image capture won't recognise when camera is plugged in.
+
+
+***
+![4,1 SATA failure on backplane?](https://images.macrumors.com/social/?t=2279586&v=6 "4,1 SATA failure on backplane?")
+
+
+[4,1 SATA failure on backplane?](https://forums.macrumors.com/threads/4-1-sata-failure-on-backplane.2279586/)
+
+
+> Jan 10, 2021 1 0 Mount Dora, FL Last night while copying files from a USB drive to the HD, all drives on the SATA backplane ports spontaneously disappeared. I tried all the slots, reset NVRAM, SMC with no success. Both of the SATA ports in the optical bays are working fine if I move the HDs up there. Right now running 10.13.6 from a 128 GB crucial SSD and a 1TB spinning drive on the second one. Since this was supposed to be a media server, not having the CD drive or the extra HD slots makes it a deal-breaker.
+
+
