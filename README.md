@@ -93,3 +93,50 @@
 > Apple touts the Apple Watch SE as being for Kids and older people who may not have an iPhone but who want an Apple Watch and as a result created a half baked Family Set up. Half baked? Yes. I got one for my son for his 13th birthday. 1. He has received spam calls on his phone. I thought he could only get calls from approved contacts but I can't find a way to set that like you can on a Gizmo watch. 2. He has received a text from some spam offering a viagra type sexual enhancement product. Not appropriate for a 13 year old to get and again where is the blocking/filtering.
 
 
+***
+![Cyber Resilience: Towards a secure and safe digital world](https://images.financialexpress.com/2021/01/1-218.jpg "Cyber Resilience: Towards a secure and safe digital world")
+
+
+[Cyber Resilience: Towards a secure and safe digital world](https://www.financialexpress.com/industry/technology/cyber-resilience-towards-a-secure-and-safe-digital-world/2167769/)
+
+
+> In the hybrid workplace of the future, identity becomes the new perimeter—the first line of defense for any organisation By Sameer Garde The way I see it, 2020 was the year that the world, as one, stood unfaltering brave in the face of an unprecedented crisis – a crisis that reminded us that our differences are nowhere near as powerful as what binds us together. In this case, it was the safety and well-being— physical and otherwise—of our loved ones and our communities. But now, the connotations of safety have broadened because the pandemic has caused more people and devices to be connected digitally than ever before.
+
+
+***
+![Bears vs Saints live stream: how to watch NFL playoffs game online from anywhere](https://cdn.mos.cms.futurecdn.net/XcwTf9if8eN6Gnz7VLhbdV-1200-80.jpg "Bears vs Saints live stream: how to watch NFL playoffs game online from anywhere")
+
+
+[Bears vs Saints live stream: how to watch NFL playoffs game online from anywhere](https://www.techradar.com/news/bears-vs-saints-live-stream-how-to-watch-nfl-playoffs-game-online-from-anywhere)
+
+
+> The NFL playoffs pile plenty of pressure on all of the teams involved - but as if that wasn't enough, today's NFC Wild Card game between Chicago and New Orleans is being shown on Nickelodeon as well as more traditional national sports broadcasters like CBS. America's youth could be the most devastating armchair quarterbacks around, so read on as we explain how to get a Bears vs Saints live stream and watch the NFL playoffs online wherever you are right now.After a rocky patch, New Orleans closed out its regular season with two blowout wins and the NFC South champs are big favorites against the generally average 8-8 Bears, who limped backwards into the playoffs by virtue of an Arizona Cardinals loss.
+
+
+***
+![Goodbye, Twitter](http://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png "Goodbye, Twitter")
+
+
+[Goodbye, Twitter](http://www.voxelquest.com/1/post/2021/01/goodbye-twitter.html)
+
+
+> In about 48 hours, I will be permanently deleting my Twitter account (@gavanw, for the record) forever (and my Facebook account as well, which I never use anymore regardless), and I will cease to use anything that qualifies as social media.I will also be deleting the Voxel Quest / Roll Roll Die accounts (@voxelquest / @rollrolldie) - I will archive all of the Voxel Quest videos and images on this website soon.Ways that you can follow me or communicate with me (I will update this list as I add more methods over the next few weeks):This website (RSS feed can be found in the sidebar to the right)Youtube​You can sign up here receive a less-than-monthly newsletter with Voxel Quest updates.
+
+
+***
+[UK software sales for the week ending Jan. 9th, 2021 (Switch game sales up 123%)](https://gonintendo.com/stories/375153-uk-software-sales-for-the-week-ending-jan-9th-2021-switch-game)
+
+
+> The UK software sales charts have been more interesting than ever in recent weeks. The charts have shown the real power of the Switch in the UK, and that trend continues today. It's yet another stellar week for Nintendo, and you can get full details on the week ending Jan. 9th, 2021 below. - over 260,000 boxed games were sold in the UK last week, a third more than the same week in 2020 - Switch game sales are up over 123% compared with the same week in 2020 - Animal Crossing: New Horizons holds onto the top spot, despite sales dropping 47% (sales drops during the first week of the year are entirely normal) - Mario Kart 8: Deluxe came in at No.
+
+
+***
+![HP Envy 15: Stylish and powerful laptop is a great choice for creators](https://images.financialexpress.com/2021/01/1-217.jpg "HP Envy 15: Stylish and powerful laptop is a great choice for creators")
+
+
+[HP Envy 15: Stylish and powerful laptop is a great choice for creators](https://www.financialexpress.com/industry/technology/hp-envy-15-a-great-choice-for-creators/2167765/)
+
+
+> Digital creations take on a new level of details and realism with 4K OLED VESA certified DisplayHDR True Black display. I have often seen people engaged in creative work—photographers, graphic designers, vloggers, architects, filmmakers and more—literally pull out their hair out of sheer frustration when they are let down by their computers, laptops in particular. Slow performance, machine suddenly freezes or tends to overheat, screen display is truncated, browsing is slow, etc. Let us not forget, a creator's mind is never idle, always fueled with inspiration from the world around them.
+
+
