@@ -2225,3 +2225,53 @@
 > It added: "However, we made it clear going back years that these accounts are not above our rules and cannot use Twitter to incite violence. We will continue to be transparent around our policies and their enforcement."
 
 
+***
+![Apple, Hyundai set to agree electric car tie-up, says Korea IT News](https://i-invdn-com.akamaized.net/news/LYNXNPEB9P070_L.jpg "Apple, Hyundai set to agree electric car tie-up, says Korea IT News")
+
+
+[Apple, Hyundai set to agree electric car tie-up, says Korea IT News](https://www.investing.com/news/technology-news/apple-hyundai-to-agree-on-electric-car-tieup-early-this-year-korea-it-news-2384832)
+
+
+> 2/2 © Reuters. FILE PHOTO: The Apple logo is seen at an Apple Store, as Apple's new 5G iPhone 12 went on sale in Brooklyn, New York 2/2 SEOUL (Reuters) - Hyundai Motor and Apple Inc (NASDAQ:) plan to sign a partnership deal on autonomous electric cars by March and start production around 2024 in the United States, local newspaper Korea IT News reported on Sunday. The report follows a statement on Friday from Hyundai Motor that it was in early talks with Apple after another local media outlet said the companies aimed to launch a self-driving electric car in 2027, sending Hyundai shares up nearly 20%.
+
+
+***
+![How to watch Colts vs Bills live stream online anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/coltsvsbills.jpg "How to watch Colts vs Bills live stream online anywhere")
+
+
+[How to watch Colts vs Bills live stream online anywhere](https://www.androidcentral.com/indianapolis-colts-vs-buffalo-bills-how-watch-nfl-wildcard-weekend-live-anywhere)
+
+
+> The Buffalo Bills are hosting their first home field playoff game since 1996 this weekend, where the Colts will come to town and see actual fans in the stands. The entire Bills Mafia have waited a long, long time for this moment, so we're expecting an exciting and hard-fought game from both sides. These two teams have extremely tough defenses, are opportunistic on offense, and full of talent ready to strike at a moment's notice. And while we think the Colts defense is a little more hit or miss, they're both great teams playing at a very high level to close out the season.
+
+
+***
+![Social Media Companies Are Banning Trump. Why Now?](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400 "Social Media Companies Are Banning Trump. Why Now?")
+
+
+[Social Media Companies Are Banning Trump. Why Now?](https://www.npr.org/2021/01/10/955414900/social-media-companies-are-banning-trump-why-now)
+
+
+> Lulu Garcia-Navarro speaks to social media researcher Jennifer Grygiel about why social media companies didn't react sooner to President Trump's online presence.
+
+
+***
+![2021 Triumph Bonneville T100: The Baby Bonne is just right     - Roadshow](https://cnet2.cbsistatic.com/img/4ZbGVt5pB9lrwg7zaXLzgI0R2HA=/1200x630/2021/01/05/ddbd7f97-0754-4008-ada7-041fbc00e54b/2021-triumph-bonneville-t100-ogi.jpg "2021 Triumph Bonneville T100: The Baby Bonne is just right     - Roadshow")
+
+
+[2021 Triumph Bonneville T100: The Baby Bonne is just right     - Roadshow](https://www.cnet.com/roadshow/pictures/2021-triumph-bonneville-t100/)
+
+
+> 2021 Triumph Bonneville T100: The Baby Bonne is just right With a reasonable price tag, stellar looks and approachable performance, the T100 might just be the sweetest Bonneville.
+
+
+***
+![Review: Nations Photo Lab offers photo printing variety and quality](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/07/nations-photo-lab-photo-printing-hero.jpeg "Review: Nations Photo Lab offers photo printing variety and quality")
+
+
+[Review: Nations Photo Lab offers photo printing variety and quality](https://www.imore.com/nations-photo-lab-photo-printing-review)
+
+
+> Source: Karen S. Freeman / iMore Nations Photo Lab offers a huge variety of stellar quality photos and photo products. You'll have to deal with an annoying photo book platform, however. Still, Nations Photo Lab is one of the best online photo printing services, even if you just use an iPhone. This company makes some of the best photo cards and I ordered my quarantine holiday cards here. Price: VariesBottom line: Nations Photo Lab offers a wide variety of high-quality photo prints and products. Excellent quality Huge selection Two-sided cards with no logo Free shipping over $49 Annoying photo book creation platform Poster print shipped in a tube Source: Karen S.
+
+
