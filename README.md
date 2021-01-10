@@ -1224,3 +1224,30 @@
 > COVID-19 made face masks one of the most important things in our lives. And today it's something we cannot even step out without. And now, it looks like our cars too are going to get a face mask. HondaJapanese carmaker Honda has developed a novel air filter to prevent viruses from entering the car, as well as cleansing existing viruses in the air inside the vehicle. The filter is called Kurumaku which literally means ‘car mask'. The tech behind the filtration system is pretty cool too. It uses a zinc phosphate conversion system.
 
 
+***
+[With the removal of Trump's Twitter account, many of his tweets embedded on thousands of web pages were wiped out, creating an ultimate case of "link rot" (Kim Lyons/The Verge)](http://www.techmeme.com/210109/p11#a210109p11)
+
+
+> Kim Lyons / The Verge: With the removal of Trump's Twitter account, many of his tweets embedded on thousands of web pages were wiped out, creating an ultimate case of “link rot” — All those embedded posts of his tweets are now broken — When Twitter banned President Trump from its platform permanently on Friday …
+
+
+***
+![Raymarching Distance Fields](https://external-preview.redd.it/FmD35XWTCDb8LQTjqL8angoRVjxtjHXlEGMTpKVCLiY.jpg?auto=webp&s=9f67a787ec10a0dfeab8b8de89c211687e65a7d7 "Raymarching Distance Fields")
+
+
+[Raymarching Distance Fields](https://www.reddit.com/r/programming/comments/ku23va/raymarching_distance_fields/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Writing a Kubernetes CRD Controller in Rust](https://external-preview.redd.it/sEbI5T57ke0XVx7--TPJmfYyQJZlQvTEqJkThNR3oo0.jpg?auto=webp&s=47baad55544a6f37f9b124a33644d4e2c457783c "Writing a Kubernetes CRD Controller in Rust")
+
+
+[Writing a Kubernetes CRD Controller in Rust](https://www.reddit.com/r/programming/comments/ku22ns/writing_a_kubernetes_crd_controller_in_rust/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
