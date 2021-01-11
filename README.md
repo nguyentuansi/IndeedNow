@@ -495,3 +495,47 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+[CAIT asks govt to ban WhatsApp, Facebook over new privacy policy](https://www.zeebiz.com/technology/apps/news-cait-asks-govt-to-ban-whatsapp-facebook-over-new-privacy-policy-145578)
+
+
+> Traders' body CAIT on Sunday wrote to Information and Technology Minister Ravi Shankar Prasad demanding that the government restrict WhatsApp from implementing its new privacy policy or impose a ban on the messaging app and its parent company Facebook
+
+
+***
+![Payment processor Stripe cuts ties with Trump campaign](https://thehill.com/sites/default/files/trumpdonald_123120getty_pressure.jpg "Payment processor Stripe cuts ties with Trump campaign")
+
+
+[Payment processor Stripe cuts ties with Trump campaign](https://thehill.com/policy/technology/533580-payment-processor-stripe-cuts-ties-with-trump-campaign)
+
+
+> Payment processing company Stripe cut ties with President TrumpDonald TrumpKim says North Korean efforts will focus on bringing US 'to their knees' Pelosi urges Democrats to prepare to return to DC this week amid impeachment calls Ken Klippenstein: 'Ideological' blindspot kept law enforcement from urgently responding to Capitol riots MORE's campaign after his supporters rioted at the Capitol last week, a person familiar with the matter confirmed to The Hill on Sunday. Stripe, a San Francisco-based company that manages online card payments for several businesses, will stop processing payments to the campaign, saying the campaign violated its policies against encouraging violence after a pro-Trump mob stormed and vandalized the Capitol.
+
+
+***
+![Russo Brothers share the first clip of 'Cherry' starring Tom Holland](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/cherry-tom-holland-first-look.jpg "Russo Brothers share the first clip of 'Cherry' starring Tom Holland")
+
+
+[Russo Brothers share the first clip of 'Cherry' starring Tom Holland](https://www.imore.com/russo-brothers-share-first-clip-cherry-starring-tom-holland)
+
+
+> Source: Russo Brothers The Russo Brothers have posted the first clip of Cherry. The clip shows Tom Holland's character meeting with a recruiter of the United States Army. The Russo Brothers have shared the first clip we've seen of Cherry, the upcoming Apple TV+ drama starring Tom Holland. The directorial team shared the clip to Twitter saying simply "we'd like to introduce you to Cherry..." We'd like to introduce you to Cherry... pic.twitter.com/E8otgzSvWp— Russo Brothers (@Russo_Brothers) January 9, 2021 The clip shows Tom Holland's experience in signing up for the United States Army and the officer who recruits him.
+
+
+***
+![Chinese EV maker Nio may launch mass market vehicles under another marque](https://i-invdn-com.akamaized.net/news/LYNXNPEC2F0DH_L.jpg "Chinese EV maker Nio may launch mass market vehicles under another marque")
+
+
+[Chinese EV maker Nio may launch mass market vehicles under another marque](https://www.investing.com/news/technology-news/chinese-ev-maker-nio-may-launch-mass-market-vehicles-under-another-marque-2385141)
+
+
+> 2/2 © Reuters. FILE PHOTO: Chinese electric vehicle maker Nio Inc's product launch event in Chengdu 2/2 CHENGDU, China/SHANGHAI (Reuters) - China's electric vehicle (EV) maker Nio (NYSE:) Inc, which competes with conventional premium automakers including Daimler AG (DE:) and BMW, may make mass market products under another marque, its chief executive said. "As EV technologies advance and battery cost lowers, it is possible that we may enter the massive market, but definitely not with Nio brand," William Li, chief executive of Nio told reporters on Sunday.
+
+
+***
+[Honor's first new products after Huawei split: MagicBook Pro and Band 6](https://www.pocket-lint.com/laptops/news/honor/155238-honor-magicbook-pro-band-6-huawei-split-new-products)
+
+
+> Following the official split from Huawei, as announced in November 2020, Honor is now under new management. And it's launched its first new products at
+
+
