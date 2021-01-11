@@ -830,3 +830,53 @@
 > Lenovo Yoga Slim 7i Pro has been launched with an OLED display at CES 2021. The new model is designed to deliver a higher contrast ratio and better colours than its LCD variant. The Lenovo Yoga Slim 7i Pro (OLED) comes with up to 11th-generation Intel Core mobile processors along with Intel Iris Xe graphics. The laptop display has a 90Hz refresh rate and Dolby Vision HDR support. Lenovo will continue to offer the LCD variant of the Yoga Slim 7i Pro alongside its OLED version.Lenovo Yoga Slim 7i Pro (OLED) price, availability detailsLenovo has not announced the date of availability and pricing of the 14-inch Yoga Slim 7i Pro (OLED) yet.
 
 
+***
+![Audible Magic Acquires MediaNet's Business From SOCAN, Integrating UGC &amp; Premium Music Solutions](https://mms.businesswire.com/media/20210111005271/en/851195/23/Audible_Magic_-_SOCAN.jpg "Audible Magic Acquires MediaNet's Business From SOCAN, Integrating UGC &amp; Premium Music Solutions")
+
+
+[Audible Magic Acquires MediaNet's Business From SOCAN, Integrating UGC &amp; Premium Music Solutions](http://www.businesswire.com/news/home/20210111005271/en/Audible-Magic-Acquires-MediaNet’s-Business-From-SOCAN-Integrating-UGC-Premium-Music-Solutions/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> LOS GATOS, Calif.--(BUSINESS WIRE)--Audible Magic and SOCAN announced the companies have entered into an agreement to transfer SOCAN's content fulfillment and rights administration business of MediaNet to Audible Magic. Audible Magic is the leading provider of identification and compliance solutions to social networks hosting user-generated content (UGC). SOCAN is the Canadian performing rights organization. MediaNet has a long history of delivering turnkey white label digital music solutions for Internet radio, subscription music services, on-demand streaming, and support for fitness and gaming applications.
+
+
+***
+![Discord Bans Reddit-Linked Pro-Trump Server Tied To Attack On The U.S. Capitol](https://sm.mashable.com/t/mashable_in/news/d/discord-ba/discord-bans-reddit-linked-pro-trump-server-tied-to-attack-o_xvqw.1200.jpg "Discord Bans Reddit-Linked Pro-Trump Server Tied To Attack On The U.S. Capitol")
+
+
+[Discord Bans Reddit-Linked Pro-Trump Server Tied To Attack On The U.S. Capitol](https://in.mashable.com/tech/19461/discord-bans-reddit-linked-pro-trump-server-tied-to-attack-on-the-us-capitol)
+
+
+> We're all judged by the company we keep.  With that adage seemingly in mind, Discord moved Friday to ban a pro-Donald Trump server from its platform. TheDonald, as the server was titled, allowed likeminded individuals to digitally gather and was directly linked the recently banned r/DonaldTrump subreddit and a separate discussion forum, thedonald.win.  Following the Jan. 6 storming of the U.S. Capitol building by pro-Trump extremists , an action which led to five deaths , Reddit banned the r/DonaldTrump subreddit for "inciting violence.
+
+
+***
+![Telegram And Signal See Surge In User Demand Amid WhatsApp Privacy Policy Changes](https://sm.mashable.com/mashable_in/seo/2/23894/23894_v1sj.jpg "Telegram And Signal See Surge In User Demand Amid WhatsApp Privacy Policy Changes")
+
+
+[Telegram And Signal See Surge In User Demand Amid WhatsApp Privacy Policy Changes](https://in.mashable.com/tech/19474/telegram-and-signal-see-surge-in-user-demand-amid-whatsapp-privacy-policy-changes)
+
+
+> WhatsApp has been facing heavy scrutiny over concerns related to its recently updated terms of services. As per the new terms of services, WhatsApp asked users to agree to allow Facebook and its subsidiaries to collect user data such as phone numbers and location. This has led to people flocking from WhatsApp to other instant messaging apps like Signal and Telegram. SEE ALSO:WhatsApp Has Updated Its Terms And Privacy Policy: Here's Why You've Been Receiving Prompts As reported by Reuters, Signal and Telegram are seeing a sudden spike in user demand after the reports around WhatsApp's updated Terms of Services raised speculation around the privacy of user data.
+
+
+***
+![You Should Really Be Using The 'Hide Photo' Feature On Your iPhone](https://sm.mashable.com/t/mashable_in/feature/y/you-should/you-should-really-be-using-the-hide-photo-feature-on-your-ip_hdyr.1200.jpg "You Should Really Be Using The 'Hide Photo' Feature On Your iPhone")
+
+
+[You Should Really Be Using The 'Hide Photo' Feature On Your iPhone](https://in.mashable.com/tech/19470/you-should-really-be-using-the-hide-photo-feature-on-your-iphone)
+
+
+> iPhones come with so many new features these days, it can be hard to keep track ... and sometimes to even know they exist. We hear ya. But those features can be extremely useful. All this brings us to the 'Hide Photo' feature on your iPhone . Yeah, you should be using it, and not just because it's there. We can think of multiple reasons (some obvious, some less so) that you'd want to hide photos, and we'll show you how to do just that a little later. But first, why hide photos? We'll begin with the most obvious reason: Nudes .
+
+
+***
+![Strong data protection law under study after WhatsApp policy shift, says minister](https://sm.mashable.com/t/mashable_pk/photo/default/privacy_g462.1200.jpg "Strong data protection law under study after WhatsApp policy shift, says minister")
+
+
+[Strong data protection law under study after WhatsApp policy shift, says minister](https://pk.mashable.com/tech/6967/strong-data-protection-law-under-study-after-whatsapp-policy-shift-says-minister)
+
+
+> Federal Minister for Science and Technology, Chaudhry Fawad Hussain has said that the government is planning to introduce strong data protection laws in Pakistan to protect citizens' privacy after WhatsApp announced its new policy. Under the new policy announced by the instant messaging service, the company will now start sharing personal data of users including phone numbers and locations with its parent company, Facebook. The minister in a tweet said, "Instead of adopting a unilateral approach, such policy changes should have been made after wider consultation'.
+
+
