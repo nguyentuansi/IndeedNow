@@ -733,3 +733,50 @@
 > Not sure if anyone else having this, whenever I leave the Bluetooth preference opened and switch to other applications, cpu usage increases due to Bluetooth.remoteservice. If I close this preference tab then issue is resolved but wonder if there's any other way to completely prevent this from happening ? Thanks Update: I tried to reset the Bluetooth module and the issue seems to resolve for now Last edited: 3 minutes ago
 
 
+***
+![Paytm CEO Posts 'Move on to Signal Now' Amid WhatsApp Row](https://c.ndtvimg.com/2020-10/btj0l3v_vijay-shekhar-sharma-bloomberg-650_625x300_01_October_20.jpg "Paytm CEO Posts 'Move on to Signal Now' Amid WhatsApp Row")
+
+
+[Paytm CEO Posts 'Move on to Signal Now' Amid WhatsApp Row](https://gadgets.ndtv.com/social-networking/news/paytm-vijay-shekhar-sharma-move-to-signal-now-whatsapp-privacy-policy-2350682)
+
+
+> Paytm founder Vijay Shekhar Sharma has joined the list of leaders urging people to move away from WhatsApp. Tesla founder Elon Musk set the trend on Friday when he simply tweeted 'Use Signal' but Sharma has posted a more detailed tweet, where he accused WhatsApp and Facebook of abusing monopoly and taking their users' privacy for granted. In his tweet, Sharma said that "we should move on to Signal now".Signal has been a big gainer since users raised concerns about WhatsApp's impending changes to its privacy policy and many WhatsApp groups are full of discussions about alternatives like Telegram and Signal.
+
+
+***
+![Next Generation Apple AirPods Pro, iPhone SE Could Launch in April 2021](https://i.gadgets360cdn.com/large/apple_airpods_pro_review_open_case_1575005796398.jpg "Next Generation Apple AirPods Pro, iPhone SE Could Launch in April 2021")
+
+
+[Next Generation Apple AirPods Pro, iPhone SE Could Launch in April 2021](https://gadgets.ndtv.com/audio/news/apple-airpods-pro-second-generation-iphone-se-third-generation-launch-april-2021-report-2350679)
+
+
+> Apple AirPods Pro (2nd Gen) and iPhone SE (3rd Gen) could be launched in April 2021, according to a new report citing supply chain sources in China. The successor to the AirPods Pro, which was launched in late 2019, is expected to be an upgrade over the existing model, but no significant details have emerged yet beyond the dimensions of the charging case. The report further suggests that the iPhone SE (3rd Gen) will also be launched in April, around a year after the launch of the second-generation model.
+
+
+***
+![Instagram Phishing Scam Hits Bollywood Actor Esha Deol](https://i.gadgets360cdn.com/large/threads_full_1570164956992.jpg "Instagram Phishing Scam Hits Bollywood Actor Esha Deol")
+
+
+[Instagram Phishing Scam Hits Bollywood Actor Esha Deol](https://gadgets.ndtv.com/apps/news/instagram-phishing-scam-esha-deol-copyright-violation-dm-password-extract-2350670)
+
+
+> Bollywood actor Esha Deol became one of the latest people to have their Instagram accounts hacked. She took to Twitter on Sunday to inform publicly about the incident and warned her followers not to click on links from her direct messages (DMs) due to the hack. The 39-year-old celebrity lost access to her Instagram account because she fell victim to a simple phishing scam that's been around for some time. Instagram itself also brought updates to its platform in the past to help people avoid getting trapped in such tricks, and we detail a few of them.
+
+
+***
+[Gold faces test of key technical support, can buyers pull through?](https://www.forexlive.com/technical-analysis/!/gold-faces-test-of-key-technical-support-can-buyers-pull-through-20210111)
+
+
+> Gold fell to a low of $1,817.50 earlier but has since rebounded strongly Gold is now trading back to near unchanged levels on the day, bouncing by about $30 after the earlier drop as it woke up on the wrong side of the bed after the weekend.
+
+
+***
+![CES tech expo swaps Vegas for virtual event](https://www.telegraph.co.uk/content/dam/technology/2021/01/10/TELEMMGLPICT000248199900_trans_NvBQzQNjv4BqaRL1kC4G7DT9ZsZm6Pe3PehAFAI_f6ud569StXyOKH0.jpeg?impolicy=logo-overlay "CES tech expo swaps Vegas for virtual event")
+
+
+[CES tech expo swaps Vegas for virtual event](https://www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/)
+
+
+> 1) The roadblocks in the way of Apple's driverless ambitions. The iPhone-maker has long maintained an interest in autonomous vehicles, butexperts doubt we will see an 'iCar‘ soon.   2) Apple and Amazon dump Parler. The two tech giants cut off the "free speech" social media network from their services, after Parler was among those sites used to organise last week's riot in Washington D.C.  3) The consequences of Trump's Twitter ban go beyond the President. Some 74m people voted for a man who no longer has a place on Facebook and Twitter - and a sizeable proportion of them will now look elsewhere.
+
+
