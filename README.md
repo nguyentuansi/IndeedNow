@@ -1656,3 +1656,53 @@
 > 11th Gen Intel Core desktop processors (code-named "Rocket Lake-S") will deliver increased performance and speeds. They will launch in the first quarter of 2021. (Credit: Intel Corporation) At CES 2021, Intel introduces four new families of processors -- from entry to premium -- that include 27 new CPUs built specifically for business, six new CPUs for education, 12 high-performance mobile CPUs, and eight high-performance desktop CPUs. The result is more than 500 new designs for laptops and desktops that will come to market in 2021.
 
 
+***
+![Signal Advance, Inc. (SIGL) Historical Prices](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Signal Advance, Inc. (SIGL) Historical Prices")
+
+
+[Signal Advance, Inc. (SIGL) Historical Prices](https://seekingalpha.com/symbol/SIGL/historical-price-quotes)
+
+
+> No body in the article.
+
+
+***
+![Lemonade Announces Proposed Public Offering of Common Stock](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Lemonade Announces Proposed Public Offering of Common Stock")
+
+
+[Lemonade Announces Proposed Public Offering of Common Stock](https://seekingalpha.com/pr/18147059-lemonade-announces-proposed-public-offering-of-common-stock)
+
+
+> NEW YORK --(BUSINESS WIRE)-- Lemonade, Inc. ( LMND ) ('Lemonade'), the insurance company powered by artificial intelligence and behavioral economics, today announced that it intends to offer 3,000,000 shares of its common stock for sale in an underwritten public offering (the 'Primary Offering'). Certain selling stockholders of Lemonade also intend to offer 1,524,314 shares of Lemonade's common stock for sale in the offering (the 'Secondary Offering' and together with the Primary Offering, the 'Offering').
+
+
+***
+![Walmart Enters The Fintech Space With Ribbit Capital](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/walmart_store_exterior_5266815680_2_5.jpg "Walmart Enters The Fintech Space With Ribbit Capital")
+
+
+[Walmart Enters The Fintech Space With Ribbit Capital](https://www.benzinga.com/fintech/21/01/19111809/walmart-enters-the-fintech-space-with-ribbit-capital)
+
+
+> A new fintech startup is being created by Walmart Inc (NYSE: WMT ) and Ribbit Capital. The venture will be majority-owned by Walmart. The Board of Directors for the new startup will include Walmart U.S. President John Furner, Walmart CFO Brett Briggs and Ribbit Capital Partner Meyer Malka. The board plans on adding additional independent industry experts to the board to build a team of experts. 'For years, millions of customers have put their trust in Walmart to not only save them money when they shop with us but help them manage their financial needs,' said Furner.
+
+
+***
+![Free Speech Platform Gab Reports 600,000 New Users in One Day](https://media.breitbart.com/media/2019/02/Demand-Democracy-free-speech-protest.jpg "Free Speech Platform Gab Reports 600,000 New Users in One Day")
+
+
+[Free Speech Platform Gab Reports 600,000 New Users in One Day](https://www.breitbart.com/tech/2021/01/11/free-speech-platform-gab-reports-600000-new-users-in-one-day/)
+
+
+> Andrew Torba, the founder of Gab, said Monday that the free speech platform saw 600,000 new users in one day as President Donald Trump has been censored from most mainstream tech platforms. '600,000 new Gabbers today,' said Torba. Torba previously revealed that Gab's traffic exploded as high as 753 percent after Trump and many other conservatives have been purged from Twitter, Facebook, and other big tech platforms. 'Our traffic is up 753% in the past 24 hours. Tens of millions of visits,' Gab said  in response to slow loading speeds on the platform.
+
+
+***
+![Facebook says it will remove references to ‘stop the steal' across its platform](https://techcrunch.com/wp-content/uploads/2020/09/facebook-glitch5.jpg?w=712 "Facebook says it will remove references to ‘stop the steal' across its platform")
+
+
+[Facebook says it will remove references to ‘stop the steal' across its platform](https://techcrunch.com/2021/01/11/facebook-says-it-will-remove-references-to-stop-the-steal-across-its-platform/)
+
+
+> In the wake of last week's violence at the U.S. Capitol, Facebook today announced it will be taking additional steps to removing content referencing the phrase 'stop the steal' on its platform. The phrase is associated with the right-wing campaign that falsely alleges the democratic U.S. elections have been rigged and aims to keep Trump in power by any means necessary, including now, violent insurrection. Facebook had previously removed some of the original Stop the Steal groups in November, and says it has continued to remove Pages, groups and events that violate its policies, including calls for violence.
+
+
