@@ -927,3 +927,47 @@
 > CES 2021 officially kicks off today (Monday, January 11), with companies like Hisense, LG, Samsung, Philips, and more set to announce their latest products during the virtual tech extravaganza.While it's only the first day of CES, we've already seen some of the world's most well-known electronics manufacturers announce their latest TVs, laptops and smart devices over the past week.CES 2021 ScheduleMonday, Jan. 11: Morning  7:00 - 7:30 AM EST - Hisense 8:00 - 8:30 AM EST - LG Electronics and Bosch 9:00 AM - 9:30 AM EST - Samsung Electronics and HERE Technologies 10:00 - 10:30 AM EST - Panasonic and Philips and Skyworth 11:00 - 11:30 AM EST - Canon and TCL and Mercedez-BenzMonday, Jan.
 
 
+***
+[Worldwide Consumer Electronics Repair and Maintenance Industry to 2030 - Identify Growth Segments for Investment - ResearchAndMarkets.com](http://www.businesswire.com/news/home/20210111005547/en/Worldwide-Consumer-Electronics-Repair-and-Maintenance-Industry-to-2030---Identify-Growth-Segments-for-Investment---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Consumer Electronics Repair and Maintenance Global Market Report 2020-30: COVID-19 Growth and Change" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global consumer electronics repair and maintenance market. This report focuses on consumer electronics repair and maintenance market which is experiencing strong growth. The report gives
+
+
+***
+![Lenovo may have finally cracked smart glasses for the workplace](https://cdn.mos.cms.futurecdn.net/e4Sk3jCEvfL9abfd8n4eZa-1200-80.jpg "Lenovo may have finally cracked smart glasses for the workplace")
+
+
+[Lenovo may have finally cracked smart glasses for the workplace](https://www.techradar.com/news/lenovo-may-have-finally-cracked-smart-glasses-for-the-workplace)
+
+
+> (Image credit: Lenovo) Hardware company Lenovo has unveiled a new pair of augmented reality (AR) smart glasses, designed specifically for enterprise use cases.At CES 2021, which is taking place online this year, the firm offered a first look at the ThinkReality A3 glasses, which hook up to PCs and certain Motorola smartphones (also owned by Lenovo) via USB-C.The glasses are powered by the Qualcomm Snapdragon XR1 Platform and can serve up to 5 virtual displays at once, each at 1080p resolution. An 8MP camera of the front, meanwhile, can be used to create a video feed for remote consultation applications.
+
+
+***
+[Alarm.com Unveils New Flex IO Sensor for Security Without Boundaries](http://www.businesswire.com/news/home/20210111005183/en/Alarm.com-Unveils-New-Flex-IO-Sensor-for-Security-Without-Boundaries/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TYSONS, Va.--(BUSINESS WIRE)--Alarm.com unveils Flex IO sensor for security without boundaries.
+
+
+***
+![Alarm.com Develops the First Touchless Video Doorbell](https://mms.businesswire.com/media/20210111005239/en/851201/23/VDB770_doorbell_090220_touchless_cover_03.jpg "Alarm.com Develops the First Touchless Video Doorbell")
+
+
+[Alarm.com Develops the First Touchless Video Doorbell](http://www.businesswire.com/news/home/20210111005239/en/Alarm.com-Develops-the-First-Touchless-Video-Doorbell/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TYSONS, Va.--(BUSINESS WIRE)--Alarm.com (Nasdaq: ALRM) has released the first commercially available video doorbell that rings without requiring any contact to reduce public health risks and make home visits and deliveries safer for all. The Alarm.com Touchless Video Doorbell is the next generation of video doorbells, combining sleek design with some of the most advanced video intelligence available to consumers for touch-free operation. It is the latest technology innovation from the company that pioneered smart home security.
+
+
+***
+![NICE Named a Leader in the Inaugural IDC MarketScape: Worldwide Digital Evidence Management Solutions for Law Enforcement 2020 Vendor Assessment](https://mms.businesswire.com/media/20210111005473/en/532501/23/NICE-LOGO-300px-web.jpg "NICE Named a Leader in the Inaugural IDC MarketScape: Worldwide Digital Evidence Management Solutions for Law Enforcement 2020 Vendor Assessment")
+
+
+[NICE Named a Leader in the Inaugural IDC MarketScape: Worldwide Digital Evidence Management Solutions for Law Enforcement 2020 Vendor Assessment](http://www.businesswire.com/news/home/20210111005473/en/NICE-Named-a-Leader-in-the-Inaugural-IDC-MarketScape-Worldwide-Digital-Evidence-Management-Solutions-for-Law-Enforcement-2020-Vendor-Assessment/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HOBOKEN, N.J.--(BUSINESS WIRE)--NICE (Nasdaq: NICE) today announced that IDC, a global provider of market intelligence, has named NICE a Leader in its inaugural 'IDC MarketScape: Worldwide Digital Evidence Management Solutions for Law Enforcement 2020 Vendor Assessment'. The IDC MarketScape vendor analysis model is designed to provide an overview of the competitive fitness of ICT (information and communications technology) suppliers in a given market. The research utilizes a rigorous scoring methodology based on both qualitative and quantitative criteria that results in a single graphical illustration of each vendor's position within a given market.
+
+
