@@ -1118,3 +1118,50 @@
 > The Samsung Galaxy Note 20 has been around for a couple of months now, but deals on it have been few and far between. You can save a whole heckofa lot on it right now, though, thanks to Samsung's trade-in program. Get a brand new unlocked Samsung Galaxy Note 20 smartphone for just $299.99 total thanks to a $100 off instant credit and another $600 instant credit with an eligible trade in. The phone's regular price is $1,000 and the best price around right now is on Amazon where you can find it going for around $800, which is still an enormous cost compared to Samsung's deal today.
 
 
+***
+[LG says Google Stadia and Nvidia's GeForce Now are coming to its latest TVs in the second half of 2021 (Chris Welch/The Verge)](http://www.techmeme.com/210111/p13#a210111p13)
+
+
+> Chris Welch / The Verge: LG says Google Stadia and Nvidia's GeForce Now are coming to its latest TVs in the second half of 2021 — Game streaming comes natively to the TV screen — LG has announced that it's bringing two of the leading cloud gaming services, Google Stadia and Nvidia's GeForce Now, to its newest TVs later this year.
+
+
+***
+![Samsung unveils new program for reusing your old Galaxy phones](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/samsung-upcycling-at-home-ces-2021.jpg "Samsung unveils new program for reusing your old Galaxy phones")
+
+
+[Samsung unveils new program for reusing your old Galaxy phones](https://www.androidcentral.com/samsung-unveils-new-program-reusing-your-old-galaxy-phones)
+
+
+> Source: Samsung Samsung is expanding its Galaxy Upcycling program with "Galaxy Upcycling at Home." The program gives users ways to repurpose their old Galaxy devices on their own. You can use your Galaxy phones for a variety of IoT solutions. All the way back in 2017, Samsung announced a new program called "Galaxy Upcycling." It was a program in which its engineers were working on ways to repurpose old Samsung smartphones for new IoT purposes, hoping to help lessen Samsung's contribution to e-waste around the globe.
+
+
+***
+![Apple AirPods Pro 2 release date, news, and rumors](https://cdn.mos.cms.futurecdn.net/vojghFBkhow7ZqnsYTstQC-1200-80.jpg "Apple AirPods Pro 2 release date, news, and rumors")
+
+
+[Apple AirPods Pro 2 release date, news, and rumors](https://www.techradar.com/news/apple-airpods-pro-lite-what-we-want-to-see-from-the-rumored-true-wireless-earbuds)
+
+
+> Rumors surrounding the Apple AirPods Pro 2, a new version of the AirPods Pro, have been circling since last year, after a report from DigiTimes claimed that the new true wireless earbuds will launch in the first half of 2020. Of course, they never materialized – and now everything is pointing towards a 2021 release date after a report from Bloomberg (among others) claimed the AirPods Pro 2 would launch this year, and could be subject to a pretty dramatic design overhaul, getting rid of the protruding ear stems that made the original AirPods so instantly recognizable.
+
+
+***
+![LG Rollable teased as the first phone with a rollable screen](https://cdn.mos.cms.futurecdn.net/wNDbHyNdbn6SRinBN7rxZE-1200-80.jpg "LG Rollable teased as the first phone with a rollable screen")
+
+
+[LG Rollable teased as the first phone with a rollable screen](https://www.techradar.com/news/lg-rollable-teased-as-the-first-phone-with-a-rollable-screen)
+
+
+> (Image credit: LG) We've been hearing rumors of the LG Rollable for a while now, but at CES 2021, LG officially confirmed the name of the phone, while also providing a brief glimpse of it in a teaser.From the teaser you can see something that starts out looking much like a conventional smartphone, but with edges that extend to create a small tablet, as shown in the image above.This makes it very different in design to a foldable phone then, but the end result is somewhat similar, giving you the option of either a large screen or a smaller one at any given time.
+
+
+***
+![Olive Union Reimagines the Hearing Aid with the Olive Pro Smart Hearing Aid](https://cdn.mos.cms.futurecdn.net/c6yqKCPYZMf7nMhLEx34rh-1200-80.jpg "Olive Union Reimagines the Hearing Aid with the Olive Pro Smart Hearing Aid")
+
+
+[Olive Union Reimagines the Hearing Aid with the Olive Pro Smart Hearing Aid](https://www.techradar.com/news/olive-union-reimagines-the-hearing-aid-with-the-olive-pro-smart-hearing-aid)
+
+
+> (Image credit: Olive Union) With hearing aids ranging from $1,000 to over $6,000, many simply cannot afford to hear. Moreover, hearing aids come with stigma and a wealth of additional problems. Because of this, only one in five of the approximately 466 million people around the world suffering from hearing loss seek medical treatment. Owen Song, the engineer behind Olive Union, sought to remedy that with the Olive Smart Ear - a wireless earbud that makes hearing easier. Now, Olive Union has taken the next step with Olive Pro - a true FDA registered hearing aid.
+
+
