@@ -445,3 +445,53 @@
 > HP's Elite Dragonfly is our favorite business laptop , a convertible 2-in-1 that's lightweight, great-looking, and offers a host of business-oriented features. Now, HP is announcing two new variations at the 2021 Consumer Electronics Show , the Elite Dragonfly G2 and Max. Both utilize the same physical chassis as the previous model, but the insides have been retooled to bring the class-leading business machine up to date. The Elite Dragonfly G2 has been updated to Intel's 11th-gen Tiger Lake processors with optional vPro for improved performance and battery life.
 
 
+***
+![The iPhone 13 might finally make the notch thinner](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/10/iphone-xr-notch-macro.jpg "The iPhone 13 might finally make the notch thinner")
+
+
+[The iPhone 13 might finally make the notch thinner](https://www.imore.com/iphone-13-might-finally-make-notch-thinner)
+
+
+> Notch time It's the feature that doesn't really matter but that we all want. 10 Jan 2021 Source: iMore The notch on the iPhone 13 might be thinner. The iPhone 13 Pro might also get the sensor-shift technology currently reserved for the Pro Max. As reported by Mac Okatara, there might be a few notable changes coming to the iPhone 13 lineup. According to rumors, Apple will release another four-model lineup this year as well and, while the general design will stay the same as the iPhone 12, the phones will get .
+
+
+***
+![Parler CEO says even his lawyers are abandoning him](https://external-preview.redd.it/fPupobWsB8d2Ba62gbkTtCJkZdXRzbra-s6lLYUna74.jpg?auto=webp&s=71d86d934065cd462a6e952e1ddf20ae5465292d "Parler CEO says even his lawyers are abandoning him")
+
+
+[Parler CEO says even his lawyers are abandoning him](https://www.reddit.com/r/technology/comments/kuszzt/parler_ceo_says_even_his_lawyers_are_abandoning/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![TotallyRealDonaldTrump: An AI Replacement for the 45th President of the US](https://totallyrealdonaldtrump.polytopal.ai/social.png "TotallyRealDonaldTrump: An AI Replacement for the 45th President of the US")
+
+
+[TotallyRealDonaldTrump: An AI Replacement for the 45th President of the US](http://totallyrealdonaldtrump.polytopal.ai/)
+
+
+> @TotallyRealDonaldTrump An AI Replacement for the 45th President's Twitter The recent decision by Twitter to cancel the 45th President's twitter account created a gaping hole in our collective imagination. Over fifty thousand of the greatest moments in social media history, gone. No longer will we receive his daily remarks and reactions to the issues of the day. So, in order to bring back the magic of the cultural phenomenon that was the president's twitter, we decided to build a replacement using an AI trained on all seven years of his tweets, including some of the more obscure and underground, deleted-for-legal-reasons ones that slipped under our radars.
+
+
+***
+![Enhancing customer experiences through better data management](https://www.itwire.com/media/k2/items/cache/c831de93f2167c06902b0d7a7d6e258e_XS.jpg "Enhancing customer experiences through better data management")
+
+
+[Enhancing customer experiences through better data management](https://www.itwire.com/guest-articles/guest-opinion/enhancing-customer-experiences-through-better-data-management.html)
+
+
+> In the wake of the COVID-19 pandemic, Australian companies are realising that transforming their operations will be a critical part of ensuring customer needs can be met in the year ahead. In many ways, the power of this strategic shift was already apparent well before 2020. The success of digital-native start-ups – such as Xero, Atlassian and even Carsales.com – has pointed the way forwards for slower-moving enterprise laggards considered too big to fall from grace. But the past 12 months, where we've all spent less time in the office and a lot more time at home, has necessitated a full-tilt shift towards digital transformation.
+
+
+***
+![How a Toronto researcher is helping to identify those who attacked U.S. Capitol](https://external-preview.redd.it/NJfSkTvOSop9fqbamWGUyprqmJ5IbeKW-TrZnJtycEI.jpg?auto=webp&s=159df0bc233e465da4358f5cd8d816adc173a36d "How a Toronto researcher is helping to identify those who attacked U.S. Capitol")
+
+
+[How a Toronto researcher is helping to identify those who attacked U.S. Capitol](https://www.reddit.com/r/technology/comments/kusmtj/how_a_toronto_researcher_is_helping_to_identify/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
