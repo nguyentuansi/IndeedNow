@@ -639,3 +639,47 @@
 > BEIJING – Chinese automaker Geely says it will form an electric car venture with tech giant Baidu, adding to a flurry of corporate tie-ups in the industry to share soaring technology development costs. Geely Holding Group, which also has separate electric car brands, said Monday the venture with Baidu.com Inc. would focus on intelligent and connected vehicles. It gave no details of investment or when products might be released.Global and Chinese automakers have launched partnerships to share the multibillion-dollar costs of developing electric vehicles for China under government pressure to meet sales quotas.
 
 
+***
+[Review: OnePlus Band is just not worth your time (or money)](https://www.androidcentral.com/oneplus-band-review)
+
+
+> OnePlus' first wearable has a lot of features, but it is nowhere as polished as Xiaomi's offering in this segment. OnePlus makes some of the best Android phones you can buy today. But the Chinese company wants to be more than just a phone manufacturer; back in 2019, CEO Pete Lau outlined his vision to turn OnePlus into an ecosystem label. We saw the first results of that with the OnePlus TV Q1 series, which debuted in India at the end of 2019. OnePlus followed the Q1 with the U1 and budget-focused Y1 series, and it has carved out a niche for itself in India in this category.
+
+
+***
+![Yoru revealed as Valorant Episode's 2 new agent: This is his ability kit](https://image-prod.iol.co.za/resize/1359x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0256277a-7ff6-5ac8-830b-150200973ac8&operation=CROP&offset=190x31&resize=1058x595 "Yoru revealed as Valorant Episode's 2 new agent: This is his ability kit")
+
+
+[Yoru revealed as Valorant Episode's 2 new agent: This is his ability kit](https://www.iol.co.za/technology/gaming/yoru-revealed-as-valorant-episodes-2-new-agent-this-is-his-ability-kit--0c65e693-e176-4d17-b6f4-b0773a578e15)
+
+
+> By Mikhail Klimentov 'Valorant's' Episode 2 is coming out on January 12, bringing with it a new battlepass, a skin pack featuring some of the best cosmetics of Episode 1, and, most notably, a new agent named Yoru, who specializes in lurking away from his team and using traps to confuse opponents.Yoru's abilities include:- Fakeout: An ability that plays on the importance of sound cues, Fakeout triggers decoy footsteps walking in a direction chosen by the player, mimicking the sound of a real player.
+
+
+***
+![Flight Centre soars to new heights in deal with Nintex K2 cloud](https://www.itwire.com/media/k2/items/cache/ac63764861cc9e368e76fddb434022f1_XS.jpg "Flight Centre soars to new heights in deal with Nintex K2 cloud")
+
+
+[Flight Centre soars to new heights in deal with Nintex K2 cloud](https://www.itwire.com/deals/flight-centre-soars-to-new-heights-in-deal-with-nintex-k2-cloud.html)
+
+
+> Australian-listed travel agency the Flight Centre Travel Group has leveraged the K2 cloud solution from global process management and automation vendor Nintex to help improve its operational efficiencies and digitally transform its customer experience. Flight Centre (ASX: FLT) says it received an overwhelming number of cancellation requests in 2020 as a result of the Covid 19 pandemic, and needed to find a fast and more efficient way to support its customers beyond their 800-number especially when the US and Canada borders were initially closed last year.
+
+
+***
+[WhatsApp vs Signal: We just got our new No. 1 | See the proof here](https://www.zeebiz.com/technology/apps/news-whatsapp-vs-signal-we-just-got-our-new-no-1-see-the-proof-here-145597)
+
+
+> WhatsApp vs Signal: After WhatsApp created a row over its privacy policy, users from around the globe showed their disappointment and anger by switching their messenger app by turning to Signal.
+
+
+***
+![LG unveils rollable transparent OLED TV that can be fixed at foot of your bed](https://image-prod.iol.co.za/resize/500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/eb247b96-a1c2-50e0-bc01-2237adb5179b&operation=CROP&offset=1x0&resize=499x281 "LG unveils rollable transparent OLED TV that can be fixed at foot of your bed")
+
+
+[LG unveils rollable transparent OLED TV that can be fixed at foot of your bed](https://www.iol.co.za/technology/gadgets/lg-unveils-rollable-transparent-oled-tv-that-can-be-fixed-at-foot-of-your-bed-ecea8e34-1051-409c-b78b-8d4414b43847)
+
+
+> New Delhi - LG Electronics has reimagined a new transparent 55-inch OLED TV that comfortably sits at the foot of a bed, rises up partially or in full like a rollable TV, while retaining a view of the other side of the screen.Showcased during the ‘CES 2021' week, the TV screen achieves 40 per cent transparency — an improvement over past transparent LCDs the company claims achieved only 10 per cent transparency, reports The Verge.The panel has built-in speakers. According to LG, the transparent OLED TV can also be moved around the home.
+
+
