@@ -1412,3 +1412,53 @@
 > No body in the article.
 
 
+***
+![CES 2021: Western Digital Debuts New 4TB SSDs From SanDisk and WD](https://images.macrumors.com/t/LrELyYEg91lqINs-w0qSaFmKaSM=/2000x/https://images.macrumors.com/article-new/2021/01/western-digital-4tb-ssds.jpg "CES 2021: Western Digital Debuts New 4TB SSDs From SanDisk and WD")
+
+
+[CES 2021: Western Digital Debuts New 4TB SSDs From SanDisk and WD](https://www.macrumors.com/2021/01/11/western-digital-4tb-ssds/)
+
+
+> Western Digital today announced the upcoming launch of several new consumer-oriented portable SSDs with 4TB capacities, with new offerings from the SanDisk, WD, and WD_Black brands. The new 4TB SSDs are designed for gamers, content creators, and creative professionals who need additional storage space to work with. The SanDisk Extreme Pro Portable NVMe SSD offers up to 2000MB/s read and write speeds, and its aluminum chassis serves as a heatsink to deliver higher sustained speeds. The SanDisk Extreme Pro Portable SSD will be available later this quarter for $750.
+
+
+***
+![Event-Driven Architecture Lessons Learned in Building a Poker Platform with Event Sourcing](https://external-preview.redd.it/kforku2UGrNoxXygSYtmuAmp0voL5mTbcEHp7EmpTNs.jpg?auto=webp&s=ab4a4ddb85a8488c99275fb7f01621fc77f13367 "Event-Driven Architecture Lessons Learned in Building a Poker Platform with Event Sourcing")
+
+
+[Event-Driven Architecture Lessons Learned in Building a Poker Platform with Event Sourcing](https://www.reddit.com/r/Python/comments/kv9r1o/eventdriven_architecture_lessons_learned_in/)
+
+
+> Please see full article for diagrams and code: https://monadical.com/posts/event-driven-architecture-1.html Introduction The experience of seeing a log dump next to a bug report, pointing a new test case at the log, calling a single function to reproduce the exact state of the world at the time of the error, and being able to introspect everything, as well as step forwards and backwards through time, is special. When Nick and I started working on OddSlingers in 2016, we wanted to build something cutting-edge, and had been recently influenced by some of the functional programming advocates we'd become friends with at the Recurse Center.
+
+
+***
+![Would the 13" MacBook Pro with 16GB RAM upgrade be as powerful as the 2019 15" MacBook Pro base model?](https://images.macrumors.com/social/?t=2279779&v=6 "Would the 13" MacBook Pro with 16GB RAM upgrade be as powerful as the 2019 15" MacBook Pro base model?")
+
+
+[Would the 13" MacBook Pro with 16GB RAM upgrade be as powerful as the 2019 15" MacBook Pro base model?](https://forums.macrumors.com/threads/would-the-13-macbook-pro-with-16gb-ram-upgrade-be-as-powerful-as-the-2019-15-macbook-pro-base-model.2279779/)
+
+
+> Apr 11, 2014 5,334 2,138 USA 2.6 GHz 6-core i7 v.s. the M1 8-core Graphics wise, we've got dedicated vs non-dedicated(?) I'm trying to figure out how they stack up against each other, and if I should upgrade or not. Thank you.
+
+
+***
+![New Macbook Air wobbles](https://images.macrumors.com/social/?t=2279778&v=6 "New Macbook Air wobbles")
+
+
+[New Macbook Air wobbles](https://forums.macrumors.com/threads/new-macbook-air-wobbles.2279778/)
+
+
+> Hello Everyone! I've bought brand new Macbook Air M1 a week ago, and during this period started noticing that bottom right corner of my MBA on some surfaces like tables or floor doesn't stick to them. It's lifted up by 1-2mm(depends on surface, open or closed lid is). And it leads to wobbling effect, when I'm pressing on the right palm rest there is a tiny movement. However, it happens not everywhere, for example, it can wobble on left side of my table, but putting it on the right side "magically" solves problem, or it can be stable on smth.
+
+
+***
+![NETGEAR Debuts WiFi 6E With New Nighthawk RAXE500 Tri-band WiFi Router](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "NETGEAR Debuts WiFi 6E With New Nighthawk RAXE500 Tri-band WiFi Router")
+
+
+[NETGEAR Debuts WiFi 6E With New Nighthawk RAXE500 Tri-band WiFi Router](https://seekingalpha.com/pr/18146632-netgear-debuts-wifi-6e-new-nighthawk-raxe500-tri-band-wifi-router)
+
+
+> Nighthawk router supports new 6GHz band providing an exclusive path for faster internet traffic SAN JOSE, Calif. --(BUSINESS WIRE)-- NETGEAR®, Inc. (NASDAQ: NTGR ), the worldwide leading provider of award-winning advanced networking products for home and office has today announced, during the historic virtually-hosted CES 2021, the introduction of the world's first all-purpose WiFi 6E router, the Nighthawk® RAXE500 Tri-band WiFi router. Promised to elevate the WiFi experience by providing speeds up to 10.
+
+
