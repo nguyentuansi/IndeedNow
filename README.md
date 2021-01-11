@@ -1562,3 +1562,50 @@
 > TL;DR: Learn a little bit every day with a Four Minute Books lifetime subscription. As of Jan. 11, you can get access to hundreds of book summaries for only $39.99 — a 90% savings. We all want to boost our brains, but it's hard to dedicate the time necessary to do so. Here's one way to learn a little every day. Four Minute Books summarizes hundreds of books, focusing on what it deems three most valuable points within each one. (Note: It is not a substitute for actually reading.) Its massive library of over 800 PDFs, 600 audiobooks, and comprehensive reading guides is a great opportunity to get acquainted with both new and classic nonfiction books alike.
 
 
+***
+![Build the API That Ships Billions (YC S13)](https://assets.easypost.com/assets/images/branding/easypost-primary-icon-padded.5054062c4cf8df85bf1b511d4c93fb9b.png "Build the API That Ships Billions (YC S13)")
+
+
+[Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
+
+
+> The future of shipping How can modern, flexible technology improve the customer experience of shipping? What if every business was able to offer same-day shipping? How much waste would be removed from the environment if all our shipments were consolidated into one delivery per week? At EasyPost, we're figuring out the answer to these questions and more. Join us
+
+
+***
+![Keep warm and cool with the best smart thermostat you can buy!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2017/09/nest-thermostat-e-review2-11.jpg "Keep warm and cool with the best smart thermostat you can buy!")
+
+
+[Keep warm and cool with the best smart thermostat you can buy!](https://www.androidcentral.com/best-smart-thermostat)
+
+
+> Best Smart Thermostat Android Central 2021 Heating and cooling are the single biggest factors of your monthly energy bill, so it makes sense for most people to consider picking up one of the best smart thermostats that better manages the temperature of your home. The Nest Thermostat E is the best overall option, with a sleek circular design and automated schedule creation based on your habits. As our glowing Nest Thermostat E review explains, this smart thermostat is easily one of the best smart home choices you can make.
+
+
+***
+![Microsoft's New Xbox Wireless Controller Is Red Hot](https://www.androidheadlines.com/wp-content/uploads/2020/11/Xbox-Core-Controller-Black-Friday.jpg "Microsoft's New Xbox Wireless Controller Is Red Hot")
+
+
+[Microsoft's New Xbox Wireless Controller Is Red Hot](https://www.androidheadlines.com/2021/01/xbox-wireless-controller-microsoft-gaming-gamepad.html)
+
+
+> Microsoft just launched a brand new Xbox wireless controller with a red hot design. Helping to expand the lineup of new Xbox wireless controllers that are anything but your standard matte black or matte white.Which is what most Xbox gamers are probably used to. The new controller is not any different however from the controller that comes with an Xbox Series X. At least not in function.The only difference is of course the color. Which features a striking bold red on the front and a matte white on the back.
+
+
+***
+![NEWEST CRACKING/HACKING FORUM A LOT OF NEW STUFF SOON ( WORK WITH INVITE CODE) NO MORE SCAM !](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "NEWEST CRACKING/HACKING FORUM A LOT OF NEW STUFF SOON ( WORK WITH INVITE CODE) NO MORE SCAM !")
+
+
+[NEWEST CRACKING/HACKING FORUM A LOT OF NEW STUFF SOON ( WORK WITH INVITE CODE) NO MORE SCAM !](https://www.reddit.com/r/Python/comments/kvbtae/newest_crackinghacking_forum_a_lot_of_new_stuff/)
+
+
+> Invite code Work 25x - Newest Forum Started From now ! Try to make a No Scam communauty ( Need Moderator & Staff ) Website - https://forums-hack.com/ Discord Server - https://discord.gg/KASSX4fHBV This Forums is not ( Finish ) Invite Code - 3t3y9RxZ I Add more Plugin and Feature Soon.
+
+
+***
+[This Parody Of Miya Ponsetto Is So Good It's Uncanny](https://digg.com/2021/this-parody-of-miya-ponsetto-is-so-good-its-uncanny)
+
+
+> Comedian Julia Shiplett captured everything that made the Miyao Ponsetto-Gayle King interview so frustrating to watch.
+
+
