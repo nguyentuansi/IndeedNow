@@ -1315,3 +1315,50 @@
 > Social media firms can no longer shun responsibility for what is posted on their sites after banning Donald Trump and face an inevitable crackdown, former digital ministers have said. Companies including Twitter, Facebook and Snap last week took action to silence the President in the wake of the riots at Capitol Hill, banning him from posting on their platforms . Twitter said it made the decision to suspend Mr Trump 'due to the risk of further incitement of violence'. Facebook boss Mark Zuckerberg said that the 'risks of allowing President Trump to continue to use our service during this period are simply too great'.
 
 
+***
+![Apple and Biogen announce a study into cognitive health using Apple Watch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/09/apple-watch-se-hero.jpg "Apple and Biogen announce a study into cognitive health using Apple Watch")
+
+
+[Apple and Biogen announce a study into cognitive health using Apple Watch](https://www.imore.com/apple-and-biogen-announce-study-cognitive-health-using-apple-watch)
+
+
+> Source: Apple Apple and research firm Biogen have announced a joint study that will use iPhone and Apple Watch data to try and identify digital biomarkers that could prove early indicators for illnesses like Alzheimer's and other issues relating to cognitive decline. The theory is relatively simple. By studying how people engage with their iPhone and Apple Watch, Biogen hopes to be able to spot the early signs of cognitive decline, allowing potential treatment to be considered sooner. That could have a huge impact on a patient's quality of life as they grow older.
+
+
+***
+![Looking for the right game to play on your new Switch?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/best-games-for-new-switch-owners-hero.jpg "Looking for the right game to play on your new Switch?")
+
+
+[Looking for the right game to play on your new Switch?](https://www.imore.com/best-games-new-switch-owners)
+
+
+> Source: Zackery Cuevas / iMore Best Games for New Switch Owners iMore 2021 So you bought a Nintendo Switch or Nintendo Switch Lite and now you can't decide what to play first. It's understandable. In just a few short years, Nintendo's handheld hybrid has pulled together an impressive catalog of great games across many genres and has even become a great platform for excellent indie titles. However, if you want the best game to play for your brand new system, look no further than The Legend of Zelda: Breath of the Wild.
+
+
+***
+![OnePlus Band](https://cdn.mos.cms.futurecdn.net/a6YPR5S7f4VUcjEwVrgmxb-1200-80.jpg "OnePlus Band")
+
+
+[OnePlus Band](https://www.techradar.com/reviews/oneplus-band)
+
+
+> The OnePlus Band comes pretty close to being a great fitness tracker in its first attempt, but it suffers from rookie mistakes that will take more time and feedback to be addressed in future generations. Two-minute review OnePlus' surprise start-of-the-year announcement of entering the budget fitness tracker space isn't much of a surprise if you've followed how smartphone companies have been expanding recently — trying to become an AIoT platform with other connected devices as a part of a bigger ecosystem.
+
+
+***
+[Enfusion, a fintech startup specializing in software for asset managers, says Iconiq Growth has invested $150M in the company at a $1.5B valuation (Katie Roof/Bloomberg)](http://www.techmeme.com/210111/p18#a210111p18)
+
+
+> Katie Roof / Bloomberg: Enfusion, a fintech startup specializing in software for asset managers, says Iconiq Growth has invested $150M in the company at a $1.5B valuation — - Iconiq invests $150 million asset management software firm — Chief executive open to initial public offering at some point
+
+
+***
+![How to use the PS5 DualSense controller on a PC](https://cdn.mos.cms.futurecdn.net/Ac4PYXDzCm9vKLF8AM4kDd-1200-80.jpg "How to use the PS5 DualSense controller on a PC")
+
+
+[How to use the PS5 DualSense controller on a PC](https://www.techradar.com/how-to/how-to-use-the-ps5-dualsense-controller-on-a-pc)
+
+
+> If you want to use the PS5 DualSense controller on a PC to play your favorite games, it's relatively easy to do so. The PS5 DualSense controller is super comfortable to hold, and it's nice to get a bit of extra mileage out of your gamepads when you can. It's also nice to play some PC games with a controller instead of a mouse and keyboard, especially if you've got your rig setup in your living room. The controller works both wired and wirelessly if your PC supports Bluetooth, and you'll need a USB-C to USB-A lead if you plan on using the controller wired.
+
+
