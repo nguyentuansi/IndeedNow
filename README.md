@@ -1609,3 +1609,50 @@
 > Comedian Julia Shiplett captured everything that made the Miyao Ponsetto-Gayle King interview so frustrating to watch.
 
 
+***
+[Twitter, Boeing fall; Eli Lilly, Crocs rise](https://www.mymotherlode.com/news/technology/1472354/twitter-boeing-fall-eli-lilly-crocs-rise.html)
+
+
+> By AP News Published Jan 11, 2021 01:35 pm NEW YORK (AP) — Stocks that moved heavily or traded substantially Monday: Apple Inc., down $3.07 to $128.98. The iPhone maker removed Parler, a social media platform popular with the far right, from its app stores because of threats to public safety. Eli Lilly and Co., up $19.53 to $185.94. The drug developer reported encouraging results from a study of a potential Alzheimer's disease treatment. Boeing Co., down $3.11 to $206.79. A deadly plane crash in Indonesia over the weekend involved a 737-500 made by Boeing.
+
+
+***
+![Sneaker enthusiast group SoleSavy raises $2M, setting the stage for a community-driven commerce boom](https://techcrunch.com/wp-content/uploads/2021/01/DSC01029.jpg?w=600 "Sneaker enthusiast group SoleSavy raises $2M, setting the stage for a community-driven commerce boom")
+
+
+[Sneaker enthusiast group SoleSavy raises $2M, setting the stage for a community-driven commerce boom](https://techcrunch.com/2021/01/11/sneaker-enthusiast-group-solesavy-raises-2m-setting-the-stage-for-a-community-driven-commerce-boom/)
+
+
+> SoleSavy, a community built around buying hot sneakers and related items that are increasingly hard to acquire at retail, raised $2M in a round that closed late last year. SoleSavy is a group of communities that is currently mostly hosted on Slack.  SoleSavy's co-founders Dejan Pralica and Justin Dusanj founded the company in 2018 as a paid community for collectors and enthusiasts seeking pairs that were getting snapped up by bots or resellers. Pralica previously co-founded Kicks Deals, a sneaker shipping site focused on less than retail pricing and Dusanj is the former Director of Operations at New Age Sports, a Nike retailer.
+
+
+***
+![Intel Rocket Lake release date, specs and price – everything we know](https://cdn.mos.cms.futurecdn.net/Y2hD2oYgBKnBWLE4Kr2RjP-1200-80.jpg "Intel Rocket Lake release date, specs and price – everything we know")
+
+
+[Intel Rocket Lake release date, specs and price – everything we know](https://www.techradar.com/news/intel-rocket-lake/)
+
+
+> At CES 2021, Intel has followed up its 10th-generation Comet Lake-S processors with new Rocket Lake-S processors, led by the Intel Core i9-11900K, just under a year later. This marks a remarkably short generation of processors for 10th-generation Comet Lake processors like the Core i9-10900K, but Intel has brought some new features and compatibility that soften the blow a bit. Namely, the new 11th-generation processors will be compatible with existing 400-series motherboards after a BIOS update, and this new generation brings PCIe 4.
+
+
+***
+![Lenovo ThinkPad X1 Titanium Yoga is the thinnest yet](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155160-laptops-news-lenovo-thinkpad-x1-titanium-yoga-image2-dprqswukbl.jpg "Lenovo ThinkPad X1 Titanium Yoga is the thinnest yet")
+
+
+[Lenovo ThinkPad X1 Titanium Yoga is the thinnest yet](https://www.pocket-lint.com/laptops/news/lenovo/155160-thinnest-ever-thinkpad-x1-titanium-yoga-lenovo)
+
+
+> (Pocket-lint) - The premium business laptop from Lenovo, ThinkPad, has announced its thinnest model to date at CES 2021: the ThinkPad X1 Titanium Yoga.As you might have guessed from the name, this ThinkPad is finished in titanium - well, Lenovo says it's "covered in a titanium material" - to give it a robust, eye-catching and lightweight characteristic.At just 11mm thick at its thickest point, the X1 Titanium Yoga is the trimmest laptop to ever feature in the range. It also features a 13.5-inch 3:2 aspect ratio screen, making it more like a notepad - think A4 sheet of paper - than many of the elongated panels available today.
+
+
+***
+![CES 2021: Intel Announces Four New Processor Families](https://mms.businesswire.com/media/20210111005970/en/851298/23/Intel-Gregory-Bryant-CES2021.jpg "CES 2021: Intel Announces Four New Processor Families")
+
+
+[CES 2021: Intel Announces Four New Processor Families](http://www.businesswire.com/news/home/20210111005970/en/CES-2021-Intel-Announces-Four-New-Processor-Families/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> 11th Gen Intel Core desktop processors (code-named "Rocket Lake-S") will deliver increased performance and speeds. They will launch in the first quarter of 2021. (Credit: Intel Corporation) At CES 2021, Intel introduces four new families of processors -- from entry to premium -- that include 27 new CPUs built specifically for business, six new CPUs for education, 12 high-performance mobile CPUs, and eight high-performance desktop CPUs. The result is more than 500 new designs for laptops and desktops that will come to market in 2021.
+
+
