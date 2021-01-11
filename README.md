@@ -971,3 +971,50 @@
 > HOBOKEN, N.J.--(BUSINESS WIRE)--NICE (Nasdaq: NICE) today announced that IDC, a global provider of market intelligence, has named NICE a Leader in its inaugural 'IDC MarketScape: Worldwide Digital Evidence Management Solutions for Law Enforcement 2020 Vendor Assessment'. The IDC MarketScape vendor analysis model is designed to provide an overview of the competitive fitness of ICT (information and communications technology) suppliers in a given market. The research utilizes a rigorous scoring methodology based on both qualitative and quantitative criteria that results in a single graphical illustration of each vendor's position within a given market.
 
 
+***
+![New iPhone SE review](https://www.thesun.co.uk/wp-content/uploads/2020/04/new-iphone-se-review.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "New iPhone SE review")
+
+
+[New iPhone SE review](https://www.thesun.co.uk/tech/11452230/new-iphone-se-review-price-value-camera-test-specs-features/)
+
+
+> APPLE has released its smallest, cheapest smartphone in years: the new iPhone SE, at just £419. After using this downsized mobile for just shy of a week, it's clearly best-value iPhone of all time. Update: The new iPhone SE is available to buy online from April 24, 2020. The new iPhone SE is Apple's latest – and by far cheapest – smartphone Credit: Sean Keach / The Sun New iPhone SE – what is it? Apple's first iPhone SE came out in 2016, and was an immediate hit. The budget-friendly mobile had a dinky 4-inch screen and was loved for it – but Apple discontinued the product two years ago.
+
+
+***
+![Video: All-virtual CES gets underway](https://s.abcnews.com/images/Technology/210111_atm_techbytes_hpMain_16x9_992.jpg "Video: All-virtual CES gets underway")
+
+
+[Video: All-virtual CES gets underway](https://abcnews.go.com/Technology/video/virtual-ces-underway-75173321)
+
+
+> Coming up in the next {{countdown}} {{countdownlbl}} Coming up next: {{nextVideo.title}} {{nextVideo.description}} Skip to this video now Transcript for All-virtual CES gets underway This transcript has been automatically generated and may not be 100% accurate.
+
+
+***
+[Apple ‘secretly building electric car with Hyundai' that could be ready in just THREE years, insiders claim](https://www.the-sun.com/lifestyle/tech/2117855/apple-car-hyundai-electric-release-date/)
+
+
+> APPLE may be building its long-rumoured electric car with Hyundai. The South Korea car giant seemingly teased the partnership – before quickly scrubbing all mention of a deal. Late last year, a Reuters report claimed that Apple was working on an all-electric car. The vehicle has been rumoured for years, but it was unclear whether […]
+
+
+***
+![Apple ‘secretly building electric car with Hyundai' that could be ready in just THREE years, insiders claim](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2020/12/VP-COMP-APPLE-CAR.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Apple ‘secretly building electric car with Hyundai' that could be ready in just THREE years, insiders claim")
+
+
+[Apple ‘secretly building electric car with Hyundai' that could be ready in just THREE years, insiders claim](https://www.thescottishsun.co.uk/tech/6518539/apple-car-hyundai-electric-release-date/)
+
+
+> APPLE may be building its long-rumoured electric car with Hyundai. The South Korea car giant seemingly teased the partnership – before quickly scrubbing all mention of a deal. 2 This is what Apple's self-driving car could look like when it enters production Credit: LetsGoDigital / ConceptCreator Late last year, a Reuters report claimed that Apple was working on an all-electric car. The vehicle has been rumoured for years, but it was unclear whether Apple had abandoned the project. Now experts think Apple is still on track to launch a vehicle in the future.
+
+
+***
+![Bizarre WhatsApp bug could let total strangers join your group chats and steal your phone number](https://www.thesun.co.uk/wp-content/uploads/2021/01/NINTCHDBPICT000509509014.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bizarre WhatsApp bug could let total strangers join your group chats and steal your phone number")
+
+
+[Bizarre WhatsApp bug could let total strangers join your group chats and steal your phone number](https://www.thesun.co.uk/tech/13707293/whatsapp-bug-strangers-join-group-chats/)
+
+
+> STRANGERS may be snooping on your WhatsApp chats due to a bizarre security flaw, according to a cyber researcher. Invites to users' private groups are appearing in Google searches, allowing almost anyone to covertly join them without permission. 2 A major WhatsApp security flaw could be exposing your private chats to strangers online Credit: Alamy The major security blunder emerged last year and was seemingly resolved after Google blocked WhatsApp invites from appearing in its search results. However, a report from Gadgets360 on Monday revealed invitations still appear on the tool today.
+
+
