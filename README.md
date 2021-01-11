@@ -880,3 +880,50 @@
 > Federal Minister for Science and Technology, Chaudhry Fawad Hussain has said that the government is planning to introduce strong data protection laws in Pakistan to protect citizens' privacy after WhatsApp announced its new policy. Under the new policy announced by the instant messaging service, the company will now start sharing personal data of users including phone numbers and locations with its parent company, Facebook. The minister in a tweet said, "Instead of adopting a unilateral approach, such policy changes should have been made after wider consultation'.
 
 
+***
+[PS5 stock checker UK – Playstation 5 consoles at AO, Hughes, Very, Smyths, John Lewis, Argos, Game, Currys, Amazon, Asda](https://www.the-sun.com/lifestyle/tech/1823989/ps5-stock-checker-uk-argos-very-currys-amazon-overclockers-playstation-live/)
+
+
+> NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it […]
+
+
+***
+![Mpumalanga sites down after officials  spent R13-million for telecoms, with no results](https://cdn.mos.cms.futurecdn.net/FYyfHr3zAzxYz4nJ3sX2GM-1200-80.jpg "Mpumalanga sites down after officials  spent R13-million for telecoms, with no results")
+
+
+[Mpumalanga sites down after officials  spent R13-million for telecoms, with no results](https://www.techradar.com/news/mpumalanga-sites-down-after-officials-spent-r13-million-for-telecoms-with-no-results/)
+
+
+> A dodgy contract ends with 76 Mpumalanga provincial government sites down as they aren't connected to any telecommunications services. In a report by the City Press, ABT Telecoms was awarded a R13-million tender to provide these services but they never arrived. The issue grows even more concerning as ABT Telecoms has no official website and is the small amount of information on them in the Dun and Bradstreet Business Directory explains that their offices are found in Steyn City in Gauteng. However, the entry also notes the company as a real estate business rather than telecoms.
+
+
+***
+![Cheap new ‘small' iPhone ‘coming in APRIL' for under £400, insiders claim](https://www.thesun.co.uk/wp-content/uploads/2021/01/iphone-se-2021.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Cheap new ‘small' iPhone ‘coming in APRIL' for under £400, insiders claim")
+
+
+[Cheap new ‘small' iPhone ‘coming in APRIL' for under £400, insiders claim](https://www.thesun.co.uk/tech/13706609/new-iphone-se-2021-release-date-price-cheap/)
+
+
+> APPLE could soon launch another small, cheap iPhone built for gadget fans on a budget. A 2021 version of the popular iPhone SE may be just a few months away, insiders have claimed. 2 A new version of the iPhone SE could be a big hit Credit: The Sun Most of Apple's iPhone models are large and very expensive, with top models coming in at close to £1,500/$1,500. But there's a downsized (and priced-down) model called the iPhone SE too. Now Japanese blog MacOtakara – which regularly leaks Apple news – says a new model is on the way.
+
+
+***
+![See rare ‘Earthshine' phenomenon glimmering on the New Moon this WEEK](https://www.thesun.co.uk/wp-content/uploads/2021/01/NINTCHDBPICT000629976901.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "See rare ‘Earthshine' phenomenon glimmering on the New Moon this WEEK")
+
+
+[See rare ‘Earthshine' phenomenon glimmering on the New Moon this WEEK](https://www.thesun.co.uk/tech/13706504/how-to-see-earthshine-this-week/)
+
+
+> STARGAZERS will have two chances to spot a rare 'Earthshine' phenomenon occurring on the Moon this week. A slim crescent Moon on Friday and Saturday means that Earthshine should be possible to spot with the human eye. 2 Earthshine is sunlight reflecting from Earth onto the Moon and revealing it's unlit area What is Earthshine? You may have noticed Earthshine before without realising it. Earthshine is sunlight reflecting off the Earth and onto the lunar surface. It's only visible to detect with the naked eye when the Moon is in its slimmest stages as Earthshine can be seen lighting up the unlit part of the Moon that's facing us.
+
+
+***
+![CES 2021: all the latest news from Samsung, Sony, Panasonic and more](https://cdn.mos.cms.futurecdn.net/j7QLYvvuj3LaNEXGpb3eAh-1200-80.jpg "CES 2021: all the latest news from Samsung, Sony, Panasonic and more")
+
+
+[CES 2021: all the latest news from Samsung, Sony, Panasonic and more](https://www.techradar.com/news/ces-2021-dates-schedule-news-registration)
+
+
+> CES 2021 officially kicks off today (Monday, January 11), with companies like Hisense, LG, Samsung, Philips, and more set to announce their latest products during the virtual tech extravaganza.While it's only the first day of CES, we've already seen some of the world's most well-known electronics manufacturers announce their latest TVs, laptops and smart devices over the past week.CES 2021 ScheduleMonday, Jan. 11: Morning  7:00 - 7:30 AM EST - Hisense 8:00 - 8:30 AM EST - LG Electronics and Bosch 9:00 AM - 9:30 AM EST - Samsung Electronics and HERE Technologies 10:00 - 10:30 AM EST - Panasonic and Philips and Skyworth 11:00 - 11:30 AM EST - Canon and TCL and Mercedez-BenzMonday, Jan.
+
+
