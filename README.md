@@ -1215,3 +1215,53 @@
 > BELLEVUE, Wash.--(BUSINESS WIRE)--Ossia Inc. ('Ossia'), the company that created Cota® Real Wireless Power™, today announced that it has retained Citigroup Global Markets Inc. ('Citi') to serve as its financial advisor to Ossia. Citi will assist Ossia in the evaluation of potential strategic initiatives intended to drive the Company's long-term growth and financial performance. In tandem with this financial partnership, Ossia has appointed Doug Stovall as Chief Executive Officer, Marty Feuerstein as Chief Operating Officer and Ossia's Founder and Chief Technical Officer, Hatem Zeine will now also serve as the Company's President.
 
 
+***
+![Best open source software 2021: free software for home or business](https://cdn.mos.cms.futurecdn.net/B6NxKTBisnjaGUQL3xi5xT-1200-80.jpg "Best open source software 2021: free software for home or business")
+
+
+[Best open source software 2021: free software for home or business](https://www.techradar.com/best/best-open-source-software)
+
+
+> The best open source software is widely used across a huge range of applications, for everyone from home to business users, yet people often won't be aware they're using it.Open source software is any kind of program where the developer behind it chooses to release the source code for free. Whenever software has an open source license, it means anyone in the world can download, modify and distribute it without paying fees to its original creator. Since the open source movement took off as a software development philosophy at the end of the 1990s, it's changed the world.
+
+
+***
+![The best cheap gaming laptop deals under $1000 for January 2021](https://cdn.mos.cms.futurecdn.net/URAsedsa6EgsYRNdLnZ2aJ-1200-80.jpg "The best cheap gaming laptop deals under $1000 for January 2021")
+
+
+[The best cheap gaming laptop deals under $1000 for January 2021](https://www.techradar.com/deals/cheap-gaming-laptop-deals-under-1000)
+
+
+> If you're looking to start the year off with cheap gaming laptop deals then we've got a list of the top picks from all the nation's best retailers right here. This week we're definitely starting to see things quieten down a little after the huge store-wide sales we saw in December from Best Buy, Walmart, and Amazon to name just a few. That said, there are still great options currently, so if you happened to miss out on cheap gaming laptop deals last month then don't worry - you can still find a great gaming rig for less right now.
+
+
+***
+![Amazing Widget with Python | Onscreen digital clock | Desktop Widget wit...](https://external-preview.redd.it/ILh5k_ZXvUkbvgr9ezthJij7Zoi2w6PPY8R9OBYWQnk.jpg?auto=webp&s=a54308ff9e8f9997ebef814f945f5e20955176d2 "Amazing Widget with Python | Onscreen digital clock | Desktop Widget wit...")
+
+
+[Amazing Widget with Python | Onscreen digital clock | Desktop Widget wit...](https://www.reddit.com/r/Python/comments/kv4yi6/amazing_widget_with_python_onscreen_digital_clock/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Best Netflix shows: 30 amazing TV shows that are worth binge watching](https://cdn.mos.cms.futurecdn.net/xjvRR9R7MKeLk54c5REXxb-1200-80.jpg "Best Netflix shows: 30 amazing TV shows that are worth binge watching")
+
+
+[Best Netflix shows: 30 amazing TV shows that are worth binge watching](https://www.techradar.com/best/best-netflix-shows)
+
+
+> Want to watch the best Netflix shows right now? Our list of the 30 best Netflix TV shows is gets updated every week with new suggestions of things to watch. Sadly, we've had to remove The Office from this list of the best Netflix shows, now that it's gone to the NBC Peacock service – but that doesn't mean there isn't plenty of cool stuff to watch on the biggest streamer in the world (and Seinfeld is coming at some point in 2021, if you need another long comedy to binge).Our list of the best Netflix shows includes everything from recent hits like The Queen's Gambit and Tiny Pretty Things to long-time classics like Breaking Bad and Stranger Things.
+
+
+***
+![Where to buy Xbox Series S: all the latest stock updates](https://cdn.mos.cms.futurecdn.net/GNEpAZoSiXfon4MQm8FrYS-1200-80.jpg "Where to buy Xbox Series S: all the latest stock updates")
+
+
+[Where to buy Xbox Series S: all the latest stock updates](https://www.techradar.com/news/xbox-series-s-price-pre-order-specs-live-now)
+
+
+> The Xbox Series S is becoming a little easier to get your hands on these days, with recent restocks on both sides of the pond. That means those looking to buy Xbox Series S in 2021 should have a fairly easy time of it (compared to stock levels at launch that is). Update: Very has stock of the Xbox Series S in the UK. Currently you can only grab one with an extra controller included in the bundle, but it's a worthy investment if you've been after one of these for a while. Not only have we seen more frequent Xbox Series S restocks over the last few weeks, but those restocks have held onto the shelves a little easier in both the US and UK, which bodes well for your chances during future waves.
+
+
