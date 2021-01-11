@@ -1068,3 +1068,53 @@
 > (Image credit: Future) We didn't see too many cheap Chromebook deals hitting the shelves last year, as demand quickly outstripped supply. However, discounts are far more readily available right now, and Best Buy is leading the way with savings reaching $200 on more premium models.  You'll find that discount on the Samsung Galaxy Chromebook - a beast of a machine boasting a 4K touchscreen display and some hefty specs for that Chrome operating system. Usually sitting at $999, it's up for just $799 right now .
 
 
+***
+![Sonos introduces battery replacement kit for its portable Move speaker](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/09/sonos-move-review-3.jpg "Sonos introduces battery replacement kit for its portable Move speaker")
+
+
+[Sonos introduces battery replacement kit for its portable Move speaker](https://www.androidcentral.com/this-accessory-for-sonos-move-game-changer-for-wireless-speakers)
+
+
+> Sonos today announced a battery replacement kit for the Sonos Move, which is one of the best smart speakers on the market right now. Thanks to the new Move battery replacement kit, you will not have to replace your speaker altogether when the original battery reaches the end of its life cycle. While the lifetime of Move's battery will obviously vary based on your usage, the company claims most customers can expect their battery to last around three years or 900 charges. The replacement battery kit includes everything you need for installation, including tools and replacement screws.
+
+
+***
+![Jabra Elite 85t wireless earbuds are getting some elegant new colors](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/jabra-elite-85t-colors.jpg "Jabra Elite 85t wireless earbuds are getting some elegant new colors")
+
+
+[Jabra Elite 85t wireless earbuds are getting some elegant new colors](https://www.androidcentral.com/jabra-elite-85t-new-colors-ces-2021)
+
+
+> Source: Jabra Jabra has launched four new colors for the Elite 85t earbuds. The earbuds are now available in Gold/Beige, Copper/Black, Black, and Grey. The Jabra Elite 85t were first launched last year in October for $229. When it comes to the wireless earbuds, Jabra has stepped it up quite a bit over the past year or so. The Elite 75t were, and still are, some of the best wireless earbuds on the market, even better than Apple's AirPods at the time. The only downside was the lack of active noise cancellation, a feature that was later brought to last year's Jabra Elite 85t earbuds.
+
+
+***
+![How to remove the pesky 'Continue Watching' prompt on Netflix](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/continue-playing-screen.jpg "How to remove the pesky 'Continue Watching' prompt on Netflix")
+
+
+[How to remove the pesky 'Continue Watching' prompt on Netflix](https://www.androidcentral.com/can-you-remove-continue-watching-prompt-netflix)
+
+
+> Best answer: Yes. If you're not actively engaging with Netflix's video player, the easiest way to remove the prompt is to turn off autoplay. If you don't want to turn autoplay off, many browser extensions also remove the prompt. Why you get the prompt If you've been subscribing to Netflix for a reasonable amount of time, you'll notice that the streaming platform gives the prompt, "Are you still watching...?" if you've watched two episodes of a TV show in a row without using any video player controls.
+
+
+***
+![Best Amazon Fire TV deals for January 2021: Fire TV Stick 4K for $30 & more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/09/amazon-fire-tv-devices.jpg "Best Amazon Fire TV deals for January 2021: Fire TV Stick 4K for $30 & more")
+
+
+[Best Amazon Fire TV deals for January 2021: Fire TV Stick 4K for $30 & more](https://www.androidcentral.com/best-amazon-fire-tv-deals)
+
+
+> The Amazon Fire TV Stick is a godsend for those of us who want to stick with our trusted non-smart television and also want to access Netflix on it, while the Fire TVs have all the capabilities of Amazon's Fire TV Stick built into the TV itself. They're generally affordably priced, but the best time to purchase one is during a sale. Below are the best Fire TV deals we could find to help you locate the right device or TV set for your home. Sometimes, Amazon offers deals which are only available to Prime members, so it helps to keep your membership active while you're on the hunt.
+
+
+***
+![Grab the Samsung Galaxy Note 20 5G smartphone for $300 with a trade in](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/samsung-galaxy-note-20-hero.jpg "Grab the Samsung Galaxy Note 20 5G smartphone for $300 with a trade in")
+
+
+[Grab the Samsung Galaxy Note 20 5G smartphone for $300 with a trade in](https://www.androidcentral.com/grab-samsung-galaxy-note-20-5g-smartphone-300-when-you-trade-old-phone)
+
+
+> The Samsung Galaxy Note 20 has been around for a couple of months now, but deals on it have been few and far between. You can save a whole heckofa lot on it right now, though, thanks to Samsung's trade-in program. Get a brand new unlocked Samsung Galaxy Note 20 smartphone for just $299.99 total thanks to a $100 off instant credit and another $600 instant credit with an eligible trade in. The phone's regular price is $1,000 and the best price around right now is on Amazon where you can find it going for around $800, which is still an enormous cost compared to Samsung's deal today.
+
+
