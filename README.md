@@ -1462,3 +1462,53 @@
 > Nighthawk router supports new 6GHz band providing an exclusive path for faster internet traffic SAN JOSE, Calif. --(BUSINESS WIRE)-- NETGEAR®, Inc. (NASDAQ: NTGR ), the worldwide leading provider of award-winning advanced networking products for home and office has today announced, during the historic virtually-hosted CES 2021, the introduction of the world's first all-purpose WiFi 6E router, the Nighthawk® RAXE500 Tri-band WiFi router. Promised to elevate the WiFi experience by providing speeds up to 10.
 
 
+***
+![Many Capitol rioters implicated by their own social media posts](https://s.abcnews.com/images/International/capitol-rioters-gty-rc-210111_1610394839527_hpMain_16x9_992.jpg "Many Capitol rioters implicated by their own social media posts")
+
+
+[Many Capitol rioters implicated by their own social media posts](https://abcnews.go.com/Technology/capitol-rioters-implicated-social-media-posts/story?id=75177672)
+
+
+> Some of the most shocking images that arose from the insurrection last Wednesday were of Trump supporters streaming out of the U.S. Capitol building. These rioters had damaged and defaced government property and at least one person was killed inside. Over the following days, local and federal authorities arrested dozens of people across the nation for their involvement in the siege and the deaths of five people since Wednesday, including Capitol Police Officer Brian Sicknick, whose death will be investigated as a homicide.
+
+
+***
+![Checkmarx Named a Leader in Static Application Security Testing by Independent Research Firm](https://mms.businesswire.com/media/20210111005988/en/790108/23/Checkmarx-logo-2019-horizontal-4.jpg "Checkmarx Named a Leader in Static Application Security Testing by Independent Research Firm")
+
+
+[Checkmarx Named a Leader in Static Application Security Testing by Independent Research Firm](http://www.businesswire.com/news/home/20210111005988/en/Checkmarx-Named-a-Leader-in-Static-Application-Security-Testing-by-Independent-Research-Firm/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> NEW YORK & RAMAT GAN, Israel--(BUSINESS WIRE)--Checkmarx, a global leader in software security solutions for DevOps, today announced that it has been recognized as a Leader in The Forrester Wave™: Static Application Security Testing, Q1 2021. Based on Forrester's analysis of the 12 most significant static application security testing (SAST) vendors, Checkmarx ranks highest in the ‘strategy' category, earning the top possible scores in the product vision, planned enhancements, execution roadmap, and market approach criteria.
+
+
+***
+![Trump supporters flock to messaging app Telegram after Parler goes offline](https://www.telegraph.co.uk/content/dam/technology/2018/06/04/telegram-app_trans_NvBQzQNjv4BqfzOMAl0Xij9hZ3C3ekNETVakMjYqMQFmn3YeiDPEQ7E.jpg?impolicy=logo-overlay "Trump supporters flock to messaging app Telegram after Parler goes offline")
+
+
+[Trump supporters flock to messaging app Telegram after Parler goes offline](https://www.telegraph.co.uk/technology/2021/01/11/trump-supporters-flock-messaging-app-telegram-parler-goes-offline/)
+
+
+> On Saturday, after Apple and Google had removed the Parler app from their smartphone download stores, Telegram founder Pavel Durov said the companies 'pose a much bigger problem for freedoms than Twitter'. Posting on the app, he said Telegram was working on a way to continue to work on iPhones even if Apple removes the app from the App Store. Telegram was installed around 545,000 times in the US between Wednesday and Sunday, almost three times as much as the same period a week earlier, according to data company Sensor Tower.
+
+
+***
+![DMS Leaders Join Forces as OmniVision and Seeing Machines Formally Collaborate](https://mms.businesswire.com/media/20210111005407/en/792191/23/OmniVision-Red-Blue-Logo.jpg "DMS Leaders Join Forces as OmniVision and Seeing Machines Formally Collaborate")
+
+
+[DMS Leaders Join Forces as OmniVision and Seeing Machines Formally Collaborate](http://www.businesswire.com/news/home/20210111005407/en/DMS-Leaders-Join-Forces-as-OmniVision-and-Seeing-Machines-Formally-Collaborate/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> CANBERRA, Australia--(BUSINESS WIRE)--Seeing Machines, the advanced computer vision technology company that designs AI-powered operator monitoring systems to improve transport safety, has advanced its previously announced Memorandum of Understanding to an executed License Agreement to license the Company's Occula® Neural Processing Unit ('Occula®') to OmniVision Technologies, Inc. ('OmniVision'), a leading developer of advanced digital imaging solutions. This collaboration represents the first execution of a silicon license for Seeing Machines' Occula®, which offers a unique NPU design that enables the development of low-cost, high-performance edge-AI semiconductors to power future human-machine interfaces.
+
+
+***
+![Bounteous Secures Consecutive Ad Age Best Place to Work Win for 2021](https://mms.businesswire.com/media/20210111005983/en/851515/23/2021_AA_BPTW_horiz_viewimage.jpg "Bounteous Secures Consecutive Ad Age Best Place to Work Win for 2021")
+
+
+[Bounteous Secures Consecutive Ad Age Best Place to Work Win for 2021](http://www.businesswire.com/news/home/20210111005983/en/Bounteous-Secures-Consecutive-Ad-Age-Best-Place-to-Work-Win-for-2021/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> CHICAGO--(BUSINESS WIRE)--Bounteous, a leading insights-driven digital transformation agency, has been named to Ad Age's 2021 Best Places to Work list, an annual ranking of companies that lead the pack in culture, benefits, and other key factors. Bounteous placed in the top set of companies with more than 200 employees for digital agency businesses. Companies expected a lot from staffers in 2020, but the best employers on Ad Age's list stepped up to the challenge. From work-from-home enablement to open-floor discussions about diversity and inclusion, those on the list went above and beyond to support their employees amid the global pandemic and the national racial justice movement.
+
+
