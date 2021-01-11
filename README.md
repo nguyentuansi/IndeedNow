@@ -398,3 +398,50 @@
 > (Image credit: Starz) After a two-year hiatus, Shadow Moon is back for more demigod adventures in American Gods. Based on Neil Gaiman's blockbuster novel, the show follows the epic story of an unavoidable war building between the Old Gods of mythology and our New Gods of technology. Read on as we explain how to watch American Gods season 3 online and stream every new episode as soon as it's released, no matter where you are in the world right now.The new 10 episode run starts with ex-con Shadow hiding out in the town of Lakeside after discovering that Mr.
 
 
+***
+[Google Kubernetes Engine](https://www.itwire.com/freelancer-sp-720/tag/Google%20Kubernetes%20Engine.html)
+
+
+> IBM subsidiary and open source vendor Red Hat is to acquire container and Kubernetes security specialist StackRox.
+
+
+***
+![EPOS announces Google Meet and Voice certification, and Dell partnership](https://www.itwire.com/media/k2/items/cache/98f6aad2884f8c7a1b3397c3cd2c0196_XS.jpg "EPOS announces Google Meet and Voice certification, and Dell partnership")
+
+
+[EPOS announces Google Meet and Voice certification, and Dell partnership](https://www.itwire.com/hardware-and-storage/epos-announces-google-meet-and-voice-certification,-and-dell-partnership.html)
+
+
+> Experienced audio hardware provider, EPOS, has announced its latest certifications and partnership, continuing its mission of bringing flawless communication. EPOS launched in Australia in September with the mission of enabling professionals to focus seamlessly on their tasks at hand and perform their best, wrapping precisely-engineered audio with high-quality materials and craftsmanship. EPOS is new to Australia, but is far from new to the party, drawing on over 115 years of audio innovation and excellence.
+
+
+***
+![HP's new Elite Dragonfly laptops come with Intel's 11th Gen processors and 5G](https://cdn.vox-cdn.com/thumbor/rJSLh0uktpd0dvmQ52OeCJUXMMY=/0x588:8192x4877/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22225947/HP_Elite_Dragonfly_Max_Dragonfly_Blue_Workspace_1.jpg "HP's new Elite Dragonfly laptops come with Intel's 11th Gen processors and 5G")
+
+
+[HP's new Elite Dragonfly laptops come with Intel's 11th Gen processors and 5G](https://www.theverge.com/2021/1/10/22223487/hp-elite-dragonfly-g2-max-laptops-specs-price-release-date-ces-2021)
+
+
+> HP's new Elite Dragonfly Max laptop. HP HP is refreshing its business-focused Elite Dragonfly range this year with an updated G2 model and a new Dragonfly Max option. Both laptops will include Intel's latest 11th Gen processors, and optional 5G connectivity. The Max model even improves the built-in webcam, and adds a second black color option for the range. Both the 13.3-inch Dragonfly G2 and Dragonfly Max will ship with 11th Gen Intel processors, with the i3 only available on the G2 and i5 and i7 processor options available on both.
+
+
+***
+![HP Launches Elite Wireless Earbuds for Remote Collaboration](https://icdn6.digitaltrends.com/image/digitaltrends/hp-elite-earbuds-02-1200x630-c-ar1.91.jpg "HP Launches Elite Wireless Earbuds for Remote Collaboration")
+
+
+[HP Launches Elite Wireless Earbuds for Remote Collaboration](https://www.digitaltrends.com/computing/hp-elite-earbuds-announcement-ces-2021/)
+
+
+> At CES 2021 , HP has launched something rather unexpected: The company's first attempt at a pair of wireless earbuds . The Elite Earbuds, though, aren't just another attempt at aping the success of the AirPods. Rather, HP sees them as part of the ecosystem of the commercial PC, a space it knows quite well. 'With the rapid increase in video calls and audio conferencing, wireless earbuds are now a workplace essential,' the company said in a press release. HP's certainly right about that, especially since so many of us are fighting for quiet space to take calls in our homes.
+
+
+***
+![HP Elite Dragonfly G2 and Max Announced at CES 2021](https://icdn4.digitaltrends.com/image/digitaltrends/hp-elite-dragonfly-g2_workspace-1200x630-c-ar1.91.jpg "HP Elite Dragonfly G2 and Max Announced at CES 2021")
+
+
+[HP Elite Dragonfly G2 and Max Announced at CES 2021](https://www.digitaltrends.com/computing/hp-introduces-elite-dragonfly-g2-and-max/)
+
+
+> HP's Elite Dragonfly is our favorite business laptop , a convertible 2-in-1 that's lightweight, great-looking, and offers a host of business-oriented features. Now, HP is announcing two new variations at the 2021 Consumer Electronics Show , the Elite Dragonfly G2 and Max. Both utilize the same physical chassis as the previous model, but the insides have been retooled to bring the class-leading business machine up to date. The Elite Dragonfly G2 has been updated to Intel's 11th-gen Tiger Lake processors with optional vPro for improved performance and battery life.
+
+
