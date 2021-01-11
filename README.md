@@ -1512,3 +1512,53 @@
 > CHICAGO--(BUSINESS WIRE)--Bounteous, a leading insights-driven digital transformation agency, has been named to Ad Age's 2021 Best Places to Work list, an annual ranking of companies that lead the pack in culture, benefits, and other key factors. Bounteous placed in the top set of companies with more than 200 employees for digital agency businesses. Companies expected a lot from staffers in 2020, but the best employers on Ad Age's list stepped up to the challenge. From work-from-home enablement to open-floor discussions about diversity and inclusion, those on the list went above and beyond to support their employees amid the global pandemic and the national racial justice movement.
 
 
+***
+![Accellion hack behind Reserve Bank of NZ data breach](https://i.nextmedia.com.au/News/adrian_orr.jpg "Accellion hack behind Reserve Bank of NZ data breach")
+
+
+[Accellion hack behind Reserve Bank of NZ data breach](https://www.itnews.com.au/news/accellion-hack-behind-reserve-bank-of-nz-data-breach-559642)
+
+
+> RBNZ governor Adrian Orr. The Reserve Bank of New Zealand, which yesterday disclosed it had suffered a data breach, now says it was caught up in a hack of enterprise data protection provider Accellion. Accellion's file transfer appliance (FTA) was accessed illegally, RBNZ said in a statement. 'We have been advised by the third party provider that this wasn't a specific attack on the Reserve Bank, and other users of the file sharing application were also compromised,' RBNZ governer Adrian Orr said.
+
+
+***
+![How to watch the Nvidia CES 2021 keynote: will we get some RTX laptops?](https://cdn.mos.cms.futurecdn.net/2Jvd8mgexF7dHGqcoHBLA9-1200-80.jpg "How to watch the Nvidia CES 2021 keynote: will we get some RTX laptops?")
+
+
+[How to watch the Nvidia CES 2021 keynote: will we get some RTX laptops?](https://www.techradar.com/how-to/how-to-watch-the-nvidia-ces-2021-keynote)
+
+
+> CES 2021 is here, and Nvidia has its major keynote Tuesday, January 12 at 12pm ET / 5PM BST / 9AM PT. We'll show you how to watch it live. Nvidia launched its Ampere graphics card lineup in September 2020, led by the fantastic GeForce RTX 3080. However, Nvidia isn't stopping there. At CES 2021, we're expecting a full lineup of mobile GPUs for the best gaming laptops, but we might get some new desktop cards, too. Nvidia hasn't officially announced what it's showing off at CES 2021, but we're expecting the show to be extremely exciting – Team Green has even started teasing it.
+
+
+***
+![State Department website defaced to suggest Trump, Pence resigning](https://i2.wp.com/boingboing.net/wp-content/uploads/2021/01/Screenshot-2021-01-11-153319.jpg?fit=1200%2C735&ssl=1 "State Department website defaced to suggest Trump, Pence resigning")
+
+
+[State Department website defaced to suggest Trump, Pence resigning](https://boingboing.net/2021/01/11/state-department-website-defaced-to-suggest-trump-pence-resigning.html)
+
+
+> In a world of fitness products all ready to perform a multitude of tasks for reshaping the body and overall fitness, a barbell may feel uninspired. It's just…you know…a barbell. Granted, barbell reps will definitely build up your arms and some other muscle groups. But, unless you're into weight training, it might not seem like… READ THE REST
+
+
+***
+![Samsung&#8217;s new robots can keep up with household chores so you don&#8217;t have to](https://mondrian.mashable.com/2021%252F01%252F11%252Fa6%252F5976629f557f455aa385526d493d68c3.58fab.png%252F1200x630.png?signature=E6qZwQ5OdNrbq6RBc12cVp4YjNE= "Samsung&#8217;s new robots can keep up with household chores so you don&#8217;t have to")
+
+
+[Samsung&#8217;s new robots can keep up with household chores so you don&#8217;t have to](http://feeds.mashable.com/~r/Mashable/~3/fpzn4xvKx0M/)
+
+
+> We're using cookies to improve your experience. Find out more.
+
+
+***
+![Get 4-minute book summaries with this subscription](https://mondrian.mashable.com/2021%252F01%252F11%252Fa9%252Fe8e92603d0a84738bbf47da86a18d184.57b6c.jpg%252F1200x630.jpg?signature=eSbdny3veqvmjUqJh_MhCRcmpAs= "Get 4-minute book summaries with this subscription")
+
+
+[Get 4-minute book summaries with this subscription](https://mashable.com/shopping/jan-11-four-minute-books-lifetime-subscription/)
+
+
+> TL;DR: Learn a little bit every day with a Four Minute Books lifetime subscription. As of Jan. 11, you can get access to hundreds of book summaries for only $39.99 — a 90% savings. We all want to boost our brains, but it's hard to dedicate the time necessary to do so. Here's one way to learn a little every day. Four Minute Books summarizes hundreds of books, focusing on what it deems three most valuable points within each one. (Note: It is not a substitute for actually reading.) Its massive library of over 800 PDFs, 600 audiobooks, and comprehensive reading guides is a great opportunity to get acquainted with both new and classic nonfiction books alike.
+
+
