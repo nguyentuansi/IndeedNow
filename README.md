@@ -589,3 +589,53 @@
 > Fluent.ai offers solutions to help us better communicate with connected objects. — Picture courtesy of Fluent.ai SAN FRANCISCO, Jan 11 — They might be less visually spectacular than the latest generation of TVs or self-driving vehicles, but sound innovations are on track to change the daily lives of millions of people around the world. Here's a selection of the many that will be on display at CES January 11-14, 2021, which is this year, an all-virtual event. How to facilitate listening and dialogue The HeardThat application is for anyone who has hearing listening difficulties, especially in noisy places.
 
 
+***
+![Make authentic pasta from scratch with this interactive online class](https://mondrian.mashable.com/2021%252F01%252F11%252F47%252Fd55fd13a29544567b0eba0ed5b603f5c.5e45e.jpg%252F1200x630.jpg?signature=95FlB5zaR0Z0njxLQMLiEFdHkOI= "Make authentic pasta from scratch with this interactive online class")
+
+
+[Make authentic pasta from scratch with this interactive online class](https://mashable.com/uk/shopping/jan-11-cooking-pasta-with-nonna-class/)
+
+
+> TL;DR: A Nonna Live: Cooking Pasta with Nonna & Family class is on sale for £33.12 as of Jan. 11, saving you 25% on list price. About three years ago, Chiara Nicolanti started an Airbnb Experiences page to share her grandmother's authentic pasta recipes and technique through cooking classes. The classes quickly attracted lots of media attention, as well as hundreds of travellers and chefs wanting to tweak their pasta-making approach. The coronavirus pandemic put a slight damper on those experiences, but now there's a workaround.
+
+
+***
+![Post-Riot, the Capitol Hill IT Staff Faces a Security Mess](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Post-Riot, the Capitol Hill IT Staff Faces a Security Mess")
+
+
+[Post-Riot, the Capitol Hill IT Staff Faces a Security Mess](https://www.reddit.com/r/technology/comments/kuvr06/postriot_the_capitol_hill_it_staff_faces_a/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Sing your heart out with a lifetime subscription to this clever karaoke app](https://mondrian.mashable.com/2021%252F01%252F11%252Ff7%252F43588de9098f40a7856c2d83ceddaddc.8679e.jpg%252F1200x630.jpg?signature=B-nksn7AvGV_n1wk5TdvX7MGhEs= "Sing your heart out with a lifetime subscription to this clever karaoke app")
+
+
+[Sing your heart out with a lifetime subscription to this clever karaoke app](https://mashable.com/uk/shopping/jan-11-karaoke-on-demand-subscription/)
+
+
+> TL;DR: A Lifetime VIP Subscription to Karaoke On Demand is on sale for £110.41 as of Jan. 11, saving you 74% on list price. Since you likely won't be gathering in groups at the bar for karaoke night any time soon, why not transform your own living room into a karaoke bar? All you need is this Karaoke On-Demand Lifetime VIP Subscription and an internet connection. Karaoke On Demand lets you sing along to thousands of top karaoke tunes — from classic hits to the hottest top 40 jams — anytime, anywhere.
+
+
+***
+![Gadgets: so cool, so tech!](https://image.kurier.at/images/facebook/4860309/46-173786268.jpg "Gadgets: so cool, so tech!")
+
+
+[Gadgets: so cool, so tech!](https://kurier.at/freizeit/gadgets-so-cool-so-tech/401149944)
+
+
+> No body in the article.
+
+
+***
+![China's Geely, Baidu announce electric car ventures](https://www.news4jax.com/resizer/i3TXf2vaPpGVhC6fVmyAr_9qXXA=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/ATI6CZT4JNAM5OECXYUDA4ASWQ.jpg "China's Geely, Baidu announce electric car ventures")
+
+
+[China's Geely, Baidu announce electric car ventures](https://www.news4jax.com/tech/2021/01/11/chinas-geely-baidu-announce-electric-car-ventures/)
+
+
+> BEIJING – Chinese automaker Geely says it will form an electric car venture with tech giant Baidu, adding to a flurry of corporate tie-ups in the industry to share soaring technology development costs. Geely Holding Group, which also has separate electric car brands, said Monday the venture with Baidu.com Inc. would focus on intelligent and connected vehicles. It gave no details of investment or when products might be released.Global and Chinese automakers have launched partnerships to share the multibillion-dollar costs of developing electric vehicles for China under government pressure to meet sales quotas.
+
+
