@@ -683,3 +683,53 @@
 > New Delhi - LG Electronics has reimagined a new transparent 55-inch OLED TV that comfortably sits at the foot of a bed, rises up partially or in full like a rollable TV, while retaining a view of the other side of the screen.Showcased during the ‘CES 2021' week, the TV screen achieves 40 per cent transparency — an improvement over past transparent LCDs the company claims achieved only 10 per cent transparency, reports The Verge.The panel has built-in speakers. According to LG, the transparent OLED TV can also be moved around the home.
 
 
+***
+![Juniper Research: QR Code Payment Users to Reach 2.2 Billion Globally by 2025, as Services Expand Beyond China &amp; India](https://mms.businesswire.com/media/20210110005001/en/601531/23/JR_Logo_Final_RGB_300px.jpg "Juniper Research: QR Code Payment Users to Reach 2.2 Billion Globally by 2025, as Services Expand Beyond China &amp; India")
+
+
+[Juniper Research: QR Code Payment Users to Reach 2.2 Billion Globally by 2025, as Services Expand Beyond China &amp; India](http://www.businesswire.com/news/home/20210110005001/en/Juniper-Research-QR-Code-Payment-Users-to-Reach-2.2-Billion-Globally-by-2025-as-Services-Expand-Beyond-China-India/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> BASINGSTOKE, England--(BUSINESS WIRE)--A new study from Juniper Research has found that the total number of QR code payment users will exceed 2.2 billion in 2025, up from 1.5 billion in 2020; equating to 29% of all mobile phone users across the world in 2025. The report predicts much of this growth will be within emerging markets, where weak card infrastructure creates a strong opportunity. However, the research also found that the US will see a strong growth of 240% in user numbers between 2020-2025, as QR code payments tap into the need for cashless payments stimulated by the pandemic.
+
+
+***
+![Baidu's Apollo platform becomes the ‘Android of the autonomous driving industry'](https://techcrunch.com/wp-content/uploads/2017/04/baidu-apollo.jpg?w=534 "Baidu's Apollo platform becomes the ‘Android of the autonomous driving industry'")
+
+
+[Baidu's Apollo platform becomes the ‘Android of the autonomous driving industry'](https://techcrunch.com/2017/07/05/baidus-apollo-platform-becomes-the-android-of-the-autonomous-driving-industry/)
+
+
+> Baidu now claims one of the largest partner ecosystems for an autonomous driving platform in the world: Its Apollo autonomous driving program  now counts over 50 partners, including FAW Group, one of the major Chinese carmakers that will work with Baidu on commercialization of the tech. Other partners include Chinese auto companies Chery, Changan and Great Wall Motors, as well as Bosch, Continental, Nvidia, Microsoft Cloud, Velodyne, TomTom, UCAR and Grab Taxi. The Apollo program (if that name seems familiar, it's because it's actually named after the U.
+
+
+***
+![Search giant Baidu has driven the most autonomous miles in Beijing](https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-02-at-10.36.45-PM-e1554215869367.png?w=750 "Search giant Baidu has driven the most autonomous miles in Beijing")
+
+
+[Search giant Baidu has driven the most autonomous miles in Beijing](https://techcrunch.com/2019/04/02/baidu-self-driving-2018/)
+
+
+> While the public is asking, 'When are we going to ride in autonomous cars?,' technology companies have been moving apace to test them on designated roads. In China's capital city Beijing, eight firms drove a total of 153,600 kilometers (95,442.6 miles) through their autonomous fleets in 2018, and Baidu, the country's largest search engine service seen as a local answer to Google, has built a big lead. That's according to new data released by Beijing's transportation regulators in their first report on the city's licensed self-driving cars.
+
+
+***
+![CES 2021: HP launches 2 Dragonfly laptops with 11th gen Intel chips](https://bsmedia.business-standard.com/_media/bs/img/article/2017-05/25/full/1495697662-0891.jpg "CES 2021: HP launches 2 Dragonfly laptops with 11th gen Intel chips")
+
+
+[CES 2021: HP launches 2 Dragonfly laptops with 11th gen Intel chips](https://www.business-standard.com/article/technology/ces-2021-hp-launches-2-dragonfly-laptops-with-11th-gen-intel-chips-121011100356_1.html)
+
+
+> At the Consumer Electronics Show (CES) 2021, HP has unveiled updated versions of its Elite Dragonfly business laptops -- the Dragonfly Max and Dragonfly G2 -- with 11th Gen Intel processors. Both the laptops will include 5G options, with AT&T and T-Mobile networks supported in the US. The G2 comes in a full HD low-power version, a full HD edition with HP's Sure View privacy feature and a UHD option that supports HDR400 and goes up to 1,000 nits of brightness. HP includes a Tile track built into the laptops so you can track your laptop right in the Tile app, reports Engadget.
+
+
+***
+![Leaving Bluetooth preference panel open causes high cpu usage](https://forums.macrumors.com/attachments/activity-monitor-2021-01-11-13-39-03-png.1710666/ "Leaving Bluetooth preference panel open causes high cpu usage")
+
+
+[Leaving Bluetooth preference panel open causes high cpu usage](https://forums.macrumors.com/threads/leaving-bluetooth-preference-panel-open-causes-high-cpu-usage.2279674/)
+
+
+> Not sure if anyone else having this, whenever I leave the Bluetooth preference opened and switch to other applications, cpu usage increases due to Bluetooth.remoteservice. If I close this preference tab then issue is resolved but wonder if there's any other way to completely prevent this from happening ? Thanks Update: I tried to reset the Bluetooth module and the issue seems to resolve for now Last edited: 3 minutes ago
+
+
