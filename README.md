@@ -780,3 +780,53 @@
 > 1) The roadblocks in the way of Apple's driverless ambitions. The iPhone-maker has long maintained an interest in autonomous vehicles, butexperts doubt we will see an 'iCar‘ soon.   2) Apple and Amazon dump Parler. The two tech giants cut off the "free speech" social media network from their services, after Parler was among those sites used to organise last week's riot in Washington D.C.  3) The consequences of Trump's Twitter ban go beyond the President. Some 74m people voted for a man who no longer has a place on Facebook and Twitter - and a sizeable proportion of them will now look elsewhere.
 
 
+***
+![python portfolio optimization](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "python portfolio optimization")
+
+
+[python portfolio optimization](https://www.reddit.com/r/Python/comments/kuyzhk/python_portfolio_optimization/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Bitcoin price - latest: Record-breaking run for cryptocurrency stalled by flash crash](https://static.independent.co.uk/2021/01/06/10/bitcoin%20price%20latest%20today.jpg "Bitcoin price - latest: Record-breaking run for cryptocurrency stalled by flash crash")
+
+
+[Bitcoin price - latest: Record-breaking run for cryptocurrency stalled by flash crash](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-price-today-usd-prediction-latest-live-b1783140.html)
+
+
+> The US$40k mark is the latest in a series of landmarks that act as proof of the trust and confidence that is building in Bitcoin as more and more people are recognizing it as a reliable alternative store of value to that which has been used for generations. It is estimated by some that the value of all money in the world is approximately $90 trillion. The more that people perceive that their assets, particularly their liquid assets such as fiat currencies are eroding in value, the more they will look for alternatives.
+
+
+***
+![ZINGR – BFF App Helps People To Make Friends](https://www.androidheadlines.com/wp-content/uploads/2021/01/ZINGR-1.jpg "ZINGR – BFF App Helps People To Make Friends")
+
+
+[ZINGR – BFF App Helps People To Make Friends](https://www.androidheadlines.com/2021/01/zingr-bff-app-friends.html)
+
+
+> Are you still trying to make a new friend or maybe you are searching for a boyfriend or a girlfriend? Most of us knows Tinder, Bumble or Badoo dating apps which may help us to find some people for dating. But not all of us knows that more than 95% of girls swipe left! Yes, that`s painful truth if you are looking for friends to hookup, but there is some social apps like ZINGR which people use to connect people with same interests. This social app doesn`t use any matchmacking to connect local people.
+
+
+***
+![Lenovo Yoga Slim 7i Pro (OLED) With Up to 11th-Gen Intel Core i7 Processor Launched](https://i.gadgets360cdn.com/large/lenovo_yoga_slim_7i_pro_oled_image_1610354237951.jpg "Lenovo Yoga Slim 7i Pro (OLED) With Up to 11th-Gen Intel Core i7 Processor Launched")
+
+
+[Lenovo Yoga Slim 7i Pro (OLED) With Up to 11th-Gen Intel Core i7 Processor Launched](https://gadgets.ndtv.com/laptops/news/lenovo-yoga-slim-7i-pro-oled-launch-specifications-samsung-display-ces-2021-2350721)
+
+
+> Lenovo Yoga Slim 7i Pro has been launched with an OLED display at CES 2021. The new model is designed to deliver a higher contrast ratio and better colours than its LCD variant. The Lenovo Yoga Slim 7i Pro (OLED) comes with up to 11th-generation Intel Core mobile processors along with Intel Iris Xe graphics. The laptop display has a 90Hz refresh rate and Dolby Vision HDR support. Lenovo will continue to offer the LCD variant of the Yoga Slim 7i Pro alongside its OLED version. Lenovo Yoga Slim 7i Pro (OLED) price, availability details Lenovo has not announced the date of availability and pricing of the 14-inch Yoga Slim 7i Pro (OLED) yet.
+
+
+***
+![Lenovo Yoga Slim 7i Pro Gets an OLED Version for Better Viewing Experience](https://i.gadgets360cdn.com/large/lenovo_yoga_slim_7i_pro_oled_image_1610354237951.jpg "Lenovo Yoga Slim 7i Pro Gets an OLED Version for Better Viewing Experience")
+
+
+[Lenovo Yoga Slim 7i Pro Gets an OLED Version for Better Viewing Experience](https://gadgets.ndtv.com/laptops/news/lenovo-yoga-slim-7i-pro-oled-launch-specifications-samsung-display-ces-2021-2350721)
+
+
+> Lenovo Yoga Slim 7i Pro has been launched with an OLED display at CES 2021. The new model is designed to deliver a higher contrast ratio and better colours than its LCD variant. The Lenovo Yoga Slim 7i Pro (OLED) comes with up to 11th-generation Intel Core mobile processors along with Intel Iris Xe graphics. The laptop display has a 90Hz refresh rate and Dolby Vision HDR support. Lenovo will continue to offer the LCD variant of the Yoga Slim 7i Pro alongside its OLED version.Lenovo Yoga Slim 7i Pro (OLED) price, availability detailsLenovo has not announced the date of availability and pricing of the 14-inch Yoga Slim 7i Pro (OLED) yet.
+
+
