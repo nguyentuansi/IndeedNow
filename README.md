@@ -1265,3 +1265,53 @@
 > The Xbox Series S is becoming a little easier to get your hands on these days, with recent restocks on both sides of the pond. That means those looking to buy Xbox Series S in 2021 should have a fairly easy time of it (compared to stock levels at launch that is). Update: Very has stock of the Xbox Series S in the UK. Currently you can only grab one with an extra controller included in the bundle, but it's a worthy investment if you've been after one of these for a while. Not only have we seen more frequent Xbox Series S restocks over the last few weeks, but those restocks have held onto the shelves a little easier in both the US and UK, which bodes well for your chances during future waves.
 
 
+***
+![BBC Bitesize content now free for students on BT, EE, and Plusnet as struggles with online learning continue](https://static.independent.co.uk/2021/01/11/15/andy-falconer-qADcG-2qMd4-unsplash-1.jpg "BBC Bitesize content now free for students on BT, EE, and Plusnet as struggles with online learning continue")
+
+
+[BBC Bitesize content now free for students on BT, EE, and Plusnet as struggles with online learning continue](https://www.independent.co.uk/life-style/gadgets-and-tech/bbc-bitesize-home-learning-covid-b1785538.html)
+
+
+> BBC Bitesize content will be free for EE, BT Mobile, and Plusnet Mobile users, allowing them to watch content from the end of January without using up their data allowance. Bitesize content includes structured lessons for Maths and English for all primary school children, and two-week learning packs for English and Maths for Years 7-9 as well as ‘term topics' to support teachers in removing classrooms. For older students, Years 10 and 11, they can pick their exam board and subject to find support for their particular subjects.
+
+
+***
+![Impinj Announces Preliminary Fourth-Quarter 2020 Revenue Ahead of Participation at 23rd Annual Needham Virtual Growth Conference](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Impinj Announces Preliminary Fourth-Quarter 2020 Revenue Ahead of Participation at 23rd Annual Needham Virtual Growth Conference")
+
+
+[Impinj Announces Preliminary Fourth-Quarter 2020 Revenue Ahead of Participation at 23rd Annual Needham Virtual Growth Conference](https://seekingalpha.com/pr/18146029-impinj-announces-preliminary-fourth-quarter-2020-revenue-ahead-of-participation-23rd-annual)
+
+
+> SEATTLE --(BUSINESS WIRE)-- Impinj, Inc. ( PI ), a leading provider and pioneer of RAIN RFID solutions , today announced that it expects preliminary fourth quarter 2020 revenue to exceed $36.0 million, above its prior guidance of $26.5 – 28.5 million. The company also announced that Chris Diorio , Impinj co-founder and CEO, and Cary Baker , Impinj CFO, will participate in a fireside chat at the Needham Virtual Growth Conference: Event: 23 rd Annual Needham Virtual Growth Conference Time: Wednesday, January 13, 2021 at 12:30 p.
+
+
+***
+![Magnite to Present at 23rd Annual Needham Growth Conference](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Magnite to Present at 23rd Annual Needham Growth Conference")
+
+
+[Magnite to Present at 23rd Annual Needham Growth Conference](https://seekingalpha.com/pr/18139543-magnite-to-present-23rd-annual-needham-growth-conference)
+
+
+> LOS ANGELES --(BUSINESS WIRE)-- Magnite ( MGNI ), the largest independent sell-side advertising platform, announced that Michael Barrett , President & Chief Executive Officer, will participate in a fireside chat hosted by Laura Martin from Needham, at the 23 rd Annual Needham Growth Conference on Monday, January 11 th at 1:15 pm eastern time. A live webcast of the presentation will be available in the 'Events and Presentations' section of Magnite's investor relations website at http://investor.magnite.
+
+
+***
+![It is absurd that Twitter is making decisions about who gets to wield power](https://www.telegraph.co.uk/content/dam/technology/2018/04/04/TELEMMGLPICT000078301036_trans_NvBQzQNjv4BqX9bjHiwLnzqli-gJ5VBMRHdNr4utWYDWVwYt1hJPw9U.jpeg?impolicy=logo-overlay "It is absurd that Twitter is making decisions about who gets to wield power")
+
+
+[It is absurd that Twitter is making decisions about who gets to wield power](https://www.telegraph.co.uk/technology/2021/01/11/absurd-twitter-making-decisions-gets-wield-power/)
+
+
+> The Rohingya, in Myanmar, found out the hard way two years ago. There, where Facebook essentially is the internet, the site was used by the military to stoke hatred and a campaign of mass rape and killing that the UN says may have amounted to genocide . In 1994, radio stations whipped up the rage that led to 600,000 killings in the Rwandan genocide. Who doubts such incitement today would be online? All of which makes it all the more absurd and outrageous that individuals, from Mark Zuckerberg to Twitter's Jack Dorsey, are making decisions on the hoof about who should and should not get to wield the power of their platforms.
+
+
+***
+![Social media crackdown is inevitable after Trump ban, ex-Culture ministers say](https://www.telegraph.co.uk/content/dam/technology/2021/01/07/TELEMMGLPICT000248135735_trans_NvBQzQNjv4BqaxhR1vC4M3eHXTZuhDlJp-iBvoxkJnxoIp2wzaVi5fo.jpeg?impolicy=logo-overlay "Social media crackdown is inevitable after Trump ban, ex-Culture ministers say")
+
+
+[Social media crackdown is inevitable after Trump ban, ex-Culture ministers say](https://www.telegraph.co.uk/technology/2021/01/11/social-media-crackdown-inevitable-trump-ban-ex-culture-ministers/)
+
+
+> Social media firms can no longer shun responsibility for what is posted on their sites after banning Donald Trump and face an inevitable crackdown, former digital ministers have said. Companies including Twitter, Facebook and Snap last week took action to silence the President in the wake of the riots at Capitol Hill, banning him from posting on their platforms . Twitter said it made the decision to suspend Mr Trump 'due to the risk of further incitement of violence'. Facebook boss Mark Zuckerberg said that the 'risks of allowing President Trump to continue to use our service during this period are simply too great'.
+
+
