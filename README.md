@@ -1165,3 +1165,53 @@
 > (Image credit: Olive Union) With hearing aids ranging from $1,000 to over $6,000, many simply cannot afford to hear. Moreover, hearing aids come with stigma and a wealth of additional problems. Because of this, only one in five of the approximately 466 million people around the world suffering from hearing loss seek medical treatment. Owen Song, the engineer behind Olive Union, sought to remedy that with the Olive Smart Ear - a wireless earbud that makes hearing easier. Now, Olive Union has taken the next step with Olive Pro - a true FDA registered hearing aid.
 
 
+***
+![At least one of Samsung's new robots is definitely coming out (hint: it's the vacuum)](https://techcrunch.com/wp-content/uploads/2021/01/Screen-Recording-2021-01-11-at-9.41.59-AM.2021-01-11-09_45_51.gif?w=749 "At least one of Samsung's new robots is definitely coming out (hint: it's the vacuum)")
+
+
+[At least one of Samsung's new robots is definitely coming out (hint: it's the vacuum)](https://techcrunch.com/2021/01/11/at-least-one-of-samsungs-new-robots-is-definitely-coming-out-hint-its-the-vacuum/)
+
+
+> For the last couple of years, Samsung's CES press conferences have featured a parade of futuristic home robots. They're are smart, dexterous and impressive (and reasonably adorable). But home robots are hard. Like, really, really hard. There's a reason the robotic vacuum continues to be one real viable home robot nearly 20 years after the Roomba's introduction. It's the same reason the JetBot 90 AI+ Vacuum seems to be the one really viable bit of home robotics from the event. The company also showed off updates to the Bot Handy it introduced at last year's show.
+
+
+***
+![Comporium and York Electric Partner to Expand Broadband Services](https://mms.businesswire.com/media/20210111005122/en/851107/23/Comp_Logo_HighRes.jpg "Comporium and York Electric Partner to Expand Broadband Services")
+
+
+[Comporium and York Electric Partner to Expand Broadband Services](http://www.businesswire.com/news/home/20210111005122/en/Comporium-and-York-Electric-Partner-to-Expand-Broadband-Services/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> ROCK HILL, S.C. & YORK, S.C.--(BUSINESS WIRE)--Comporium and York Electric Cooperative, Inc. (YEC) have entered a partnership to extend fiber optics to approximately 5,000 YEC members living in western York and parts of Cherokee Counties following a year of discussions. Although some of the details are still being determined, the agreement will enable Comporium to provide fiber-optic based internet service at speeds up to 1 Gbps in communities as far west as Smyrna and Hickory Grove. In addition to offering customers internet service at speeds up to 1 Gbps, Comporium will also make its full suite of services available to customers living in the area included in the partnership.
+
+
+***
+![Arculus™ Unveils Intuitive Cold Storage Device for Cryptocurrency in the Shape of a Credit Card](https://mms.businesswire.com/media/20210111005172/en/851133/23/HANDCARD_1.jpg "Arculus™ Unveils Intuitive Cold Storage Device for Cryptocurrency in the Shape of a Credit Card")
+
+
+[Arculus™ Unveils Intuitive Cold Storage Device for Cryptocurrency in the Shape of a Credit Card](http://www.businesswire.com/news/home/20210111005172/en/Arculus™-Unveils-Intuitive-Cold-Storage-Device-for-Cryptocurrency-in-the-Shape-of-a-Credit-Card/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> SOMERSET, N.J.--(BUSINESS WIRE)--Arculus today unveiled the latest cold storage device for cryptocurrency that provides easy-to-use functionality along with advanced 3-factor authentication security in a slim metallic form factor. The Arculus Key card requires no battery or charging, and is the size and shape of a credit card that provides a truly air-gapped crypto key storage solution that connects to a mobile app via an encrypted NFC connection. The Arculus Wallet mobile app provides intuitive controls, advanced security protection and the ability to manage multiple cryptocurrency wallets in one device.
+
+
+***
+![Oral-B's Virtual Experience at 2021 Consumer Electronics Show Puts the Power to Control Health in Consumers' Hands with the Oral-B iO™](https://mms.businesswire.com/media/20210111005188/en/851090/23/Oral_B_iO_Experience.jpg "Oral-B's Virtual Experience at 2021 Consumer Electronics Show Puts the Power to Control Health in Consumers' Hands with the Oral-B iO™")
+
+
+[Oral-B's Virtual Experience at 2021 Consumer Electronics Show Puts the Power to Control Health in Consumers' Hands with the Oral-B iO™](http://www.businesswire.com/news/home/20210111005188/en/Oral-B’s-Virtual-Experience-at-2021-Consumer-Electronics-Show-Puts-the-Power-to-Control-Health-in-Consumers’-Hands-with-the-Oral-B-iO™/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> The Oral-B iO Experience at the P&G LifeLab Everyday virtual platform at the 2021 Consumer Electronics Show (CES). (Photo: Business Wire) The Oral-B iO Experience at the P&G LifeLab Everyday virtual platform at the 2021 Consumer Electronics Show (CES). (Photo: Business Wire) CINCINNATI--(BUSINESS WIRE)--During a time when many things feel out of our control, people have taken stock of their health and are seeking ways to make a meaningful, positive impact – all from the comfort of home. This year, at the 2021 Consumer Electronics Show (CES), Oral-B will highlight its commitment to powering the smallest daily habits, such as using an electric toothbrush, to create the biggest positive impact on the health of your whole body, whole family and the whole planet, through its first ever virtual experience.
+
+
+***
+![Ossia Appoints Citi as Financial Advisor and Announces New Leadership](http://www.businesswire.com/images/bwlogo_square.png "Ossia Appoints Citi as Financial Advisor and Announces New Leadership")
+
+
+[Ossia Appoints Citi as Financial Advisor and Announces New Leadership](http://www.businesswire.com/news/home/20210111005226/en/Ossia-Appoints-Citi-as-Financial-Advisor-and-Announces-New-Leadership/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> BELLEVUE, Wash.--(BUSINESS WIRE)--Ossia Inc. ('Ossia'), the company that created Cota® Real Wireless Power™, today announced that it has retained Citigroup Global Markets Inc. ('Citi') to serve as its financial advisor to Ossia. Citi will assist Ossia in the evaluation of potential strategic initiatives intended to drive the Company's long-term growth and financial performance. In tandem with this financial partnership, Ossia has appointed Doug Stovall as Chief Executive Officer, Marty Feuerstein as Chief Operating Officer and Ossia's Founder and Chief Technical Officer, Hatem Zeine will now also serve as the Company's President.
+
+
