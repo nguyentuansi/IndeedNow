@@ -539,3 +539,53 @@
 > Following the official split from Huawei, as announced in November 2020, Honor is now under new management. And it's launched its first new products at
 
 
+***
+![Special Technology Zones Authority to boost IT sector: officials](https://i.dawn.com/large/2021/01/5ffbcc5bc98da.png "Special Technology Zones Authority to boost IT sector: officials")
+
+
+[Special Technology Zones Authority to boost IT sector: officials](https://www.dawn.com/news/1600880)
+
+
+> ISLAMABAD: The government has established the Special Technology Zones Authority (STZA) to boost the domestic IT sector in the country, officials said. According to the STZA officials, the government believes that the new initiative will not only boost the country's economy but would also create ample job opportunities for the youth. Giving details of the purpose of establishing the authority to Dawn on Sunday, STZA officials said that the authority would help trigger the growth of scientific and technological ecosystem in the country.
+
+
+***
+![Strong data protection law under study, says minister](https://i.dawn.com/large/2021/01/5ffbbe509dde9.jpg "Strong data protection law under study, says minister")
+
+
+[Strong data protection law under study, says minister](https://www.dawn.com/news/1600877)
+
+
+> ISLAMABAD: With cyber security a major concern, Minister for Science and Technology Chaudhry Fawad Hussain has said his ministry is considering introducing a strong data protection law to protect citizens' privacy. His comments came on Sunday in response to the new WhatsApp privacy policy that allows sharing of consumers' sensitive information. The new policy requires users to share personal data such as location, IP addresses, operating systems, information on how subscribers interacted with each other and even mobile network and mobile device information such as IMEI number.
+
+
+***
+![Stripe payment processor boots Trump campaign after Capitol riot](https://media4.s-nbcnews.com/j/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png "Stripe payment processor boots Trump campaign after Capitol riot")
+
+
+[Stripe payment processor boots Trump campaign after Capitol riot](https://www.nbcnews.com/tech/tech-news/stripe-payment-processor-boots-trump-campaign-after-capitol-riot-n1253672)
+
+
+> Stripe, which processes online payments for President Donald Trump's campaign, cut ties with him for violating its policies during last week's riot at the U.S. Capitol , the company said Sunday. The San Francisco-based company said Trump encouraged violence Wednesday, when a mob of his supporters stormed the Capitol, in violation of user policies that prohibit "high risk" activities. The Wall Street Journal first reported the move , which came after other companies began turning on Trump over the attack, which left five people dead, including a police officer.
+
+
+***
+![Realme Race could come with 125W charging and Snapdragon 888](https://cdn.mos.cms.futurecdn.net/bsph5zBGt23x3nCmPoo9VF-1200-80.jpg "Realme Race could come with 125W charging and Snapdragon 888")
+
+
+[Realme Race could come with 125W charging and Snapdragon 888](https://www.techradar.com/news/realme-race-could-come-with-125w-charging-and-snapdragon-888)
+
+
+> (Image credit: Future) Realme Race is the brand's next flagship device in the making. The device is already confirmed to sport the newly launched Snapdragon 888 chipset. We also know how the device looks like and some of the key specs are also out. A popular tipster on Weibo, Digital Chat Station claims the Realme Race will be an enhanced version of Oppo Reno Ace 2 smartphone with Snapdragon 888, and much better heat dissipation and battery life. (Image credit: Weibo)Realme Race specifications (expected)(Image credit: GSMArena)For starters, the Realme Race will be powered by the newly launched Snapdragon 888 chipset.
+
+
+***
+![CES turns up the sound: Technologies that will help us hear, express ourselves and communicate better](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/20210111_CES_Communication_01-seo.jpg "CES turns up the sound: Technologies that will help us hear, express ourselves and communicate better")
+
+
+[CES turns up the sound: Technologies that will help us hear, express ourselves and communicate better](https://www.malaymail.com/news/tech-gadgets/2021/01/11/ces-turns-up-the-sound-technologies-that-will-help-us-hear-express-ourselve/1939267)
+
+
+> Fluent.ai offers solutions to help us better communicate with connected objects. — Picture courtesy of Fluent.ai SAN FRANCISCO, Jan 11 — They might be less visually spectacular than the latest generation of TVs or self-driving vehicles, but sound innovations are on track to change the daily lives of millions of people around the world. Here's a selection of the many that will be on display at CES January 11-14, 2021, which is this year, an all-virtual event. How to facilitate listening and dialogue The HeardThat application is for anyone who has hearing listening difficulties, especially in noisy places.
+
+
