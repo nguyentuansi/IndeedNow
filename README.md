@@ -1362,3 +1362,53 @@
 > If you want to use the PS5 DualSense controller on a PC to play your favorite games, it's relatively easy to do so. The PS5 DualSense controller is super comfortable to hold, and it's nice to get a bit of extra mileage out of your gamepads when you can. It's also nice to play some PC games with a controller instead of a mouse and keyboard, especially if you've got your rig setup in your living room. The controller works both wired and wirelessly if your PC supports Bluetooth, and you'll need a USB-C to USB-A lead if you plan on using the controller wired.
 
 
+***
+![Whisk, Tastemade Announce Partnership to Enable Shoppable Recipes on Samsung Family Hub Refrigerators](https://mms.businesswire.com/media/20210111005900/en/851456/23/Image.jpg "Whisk, Tastemade Announce Partnership to Enable Shoppable Recipes on Samsung Family Hub Refrigerators")
+
+
+[Whisk, Tastemade Announce Partnership to Enable Shoppable Recipes on Samsung Family Hub Refrigerators](http://www.businesswire.com/news/home/20210111005900/en/Whisk-Tastemade-Announce-Partnership-to-Enable-Shoppable-Recipes-on-Samsung-Family-Hub-Refrigerators/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> Whisk, the food technology platform that simplifies the food journey from recipe inspiration to meals on the table, today announces the addition of Tastemade, a modern media company that engages a global audience of more than 300 million monthly viewers and that creates award-winning lifestyle video content, to the Whisk Ecosystem, enabling shoppable recipes and Tastemade recipe content on the Samsung Family Hub line of refrigerators. (Graphic: Business Wire) Whisk, the food technology platform that simplifies the food journey from recipe inspiration to meals on the table, today announces the addition of Tastemade, a modern media company that engages a global audience of more than 300 million monthly viewers and that creates award-winning lifestyle video content, to the Whisk Ecosystem, enabling shoppable recipes and Tastemade recipe content on the Samsung Family Hub line of refrigerators.
+
+
+***
+![.NET 5 Networking Improvements](https://external-preview.redd.it/DyBjiM4lKi115854iLoqG8hG42I4lq9pWxOAnGjSBBo.jpg?auto=webp&s=29dabd2bdf7bfaecf30fc60abae3c66e7e6bc02c ".NET 5 Networking Improvements")
+
+
+[.NET 5 Networking Improvements](https://www.reddit.com/r/programming/comments/kv8fk8/net_5_networking_improvements/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Apple Releases iOS 12.5.1 With Exposure Notifications Bug Fix for Older iPhones](https://images.macrumors.com/t/R7blI7ksZEDIgk8I_YnNOAO14cI=/2500x/https://images.macrumors.com/article-new/2020/04/Exposure-Notifications-W-People-and-Text.jpg "Apple Releases iOS 12.5.1 With Exposure Notifications Bug Fix for Older iPhones")
+
+
+[Apple Releases iOS 12.5.1 With Exposure Notifications Bug Fix for Older iPhones](https://www.macrumors.com/2021/01/11/ios-12-5-1-exposure-notification-bug-fix/)
+
+
+> Apple today released iOS 12.5.1, an update that is available for older iPhones unable to install the iOS 14 update. The update features an Exposure Notifications bug fix. The iOS 12.5.1 update can be downloaded all on eligible devices over-the-air in the Settings app. To access the new software, go to Settings > General > Software Update. Apple in December released iOS 12.5 alongside iOS 14.3, bringing support for Exposure Notifications to older devices for the first time. According to Apple's release notes, today's update addresses a bug that could cause Exposure Notifications to incorrectly display logging profile language.
+
+
+***
+![Twitter without Trump, tech slides in broader market selloff](https://www.mymotherlode.com/wp-content/uploads/2021/01/files_0825718e0e.jpeg "Twitter without Trump, tech slides in broader market selloff")
+
+
+[Twitter without Trump, tech slides in broader market selloff](https://www.mymotherlode.com/news/technology/1471883/twitter-without-trump-tech-slides-in-broader-market-selloff.html)
+
+
+> Shares of social media and other tech companies slid Monday amid fallout the siege on the U.S. Capitol by supporters of President Donald Trump's supporters. Twitter on Friday permanently shut down @realDonaldTrump, citing concern that Trump would use it for 'further incitement of violence.' Trump retorted that he'd be 'building out our own platform in the near future. We will not be SILENCED!' There is a growing risk for tech companies, especially social media, that Congress will attempt to collar them after last weeks rampage in Washington, D.
+
+
+***
+![I experienced Zero Latency VR with my mom and it was hilarious](https://mondrian.mashable.com/2021%252F01%252F11%252Fbe%252F406ed715814c46b3862a2318223cf333.951d8.png%252F1200x630.png?signature=XUQ71-DJz_8HFrqh-uqUk9fNlXI= "I experienced Zero Latency VR with my mom and it was hilarious")
+
+
+[I experienced Zero Latency VR with my mom and it was hilarious](https://mashable.com/video/zero-latency-virtual-reality-gaming/)
+
+
+> No body in the article.
+
+
