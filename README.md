@@ -1018,3 +1018,53 @@
 > STRANGERS may be snooping on your WhatsApp chats due to a bizarre security flaw, according to a cyber researcher. Invites to users' private groups are appearing in Google searches, allowing almost anyone to covertly join them without permission. 2 A major WhatsApp security flaw could be exposing your private chats to strangers online Credit: Alamy The major security blunder emerged last year and was seemingly resolved after Google blocked WhatsApp invites from appearing in its search results. However, a report from Gadgets360 on Monday revealed invitations still appear on the tool today.
 
 
+***
+![NCR Confirms Offer to Acquire Cardtronics for $39.00 Per Share in Cash](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "NCR Confirms Offer to Acquire Cardtronics for $39.00 Per Share in Cash")
+
+
+[NCR Confirms Offer to Acquire Cardtronics for $39.00 Per Share in Cash](https://seekingalpha.com/pr/18145378-ncr-confirms-offer-to-acquire-cardtronics-for-39_00-per-share-in-cash)
+
+
+> ATLANTA --(BUSINESS WIRE)-- NCR Corporation ( NCR ), a global enterprise technology provider for the financial, retail and hospitality industries, today confirmed that it has submitted an offer to acquire all outstanding shares of Cardtronics ( CATM ) for $39.00 per share in cash. Michael Hayford , President and Chief Executive Officer of NCR, stated, 'The acquisition of Cardtronics will accelerate and expand the NCR-as-a-service strategy that we outlined at our Investor Day last month. Cardtronics' debit network is highly complementary to NCR's payments platform and will enable the combined company to seamlessly connect retail and bank customers while capitalizing on the banking industry's transition toward infrastructure outsourcing.
+
+
+***
+![WhatsApp Fixes Vulnerability That Indexed User Profile Info, Group Chat Invites On Google Search](https://sm.mashable.com/mashable_in/seo/2/23897/23897_zkw8.jpg "WhatsApp Fixes Vulnerability That Indexed User Profile Info, Group Chat Invites On Google Search")
+
+
+[WhatsApp Fixes Vulnerability That Indexed User Profile Info, Group Chat Invites On Google Search](https://in.mashable.com/tech/19477/whatsapp-fixes-vulnerability-that-indexed-user-profile-info-group-chat-invites-on-google-search)
+
+
+> It was recently revealed by a cybersecurity researcher on Twitter that WhatsApp chat Group invite links and user profiles were accessible publicly via Google Search. WhatsApp has now fixed the issue, saying that it has asked Google not to index such chats and advised users not to share group chat links on publicly accessible websites. SEE ALSO: WhatsApp Has Updated Its Terms And Privacy Policy: Here's Why You've Been Receiving Prompts 'Since March 2020, WhatsApp has included the "noindex" tag on all deep link pages which, according to Google, will exclude them from indexing.
+
+
+***
+![Tech IPOs, Digital Healthcare And A Better Year For Branson: Forbes Europe Predictions For 2021](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff32072855a4ed112c9d7c2%2F0x0.jpg "Tech IPOs, Digital Healthcare And A Better Year For Branson: Forbes Europe Predictions For 2021")
+
+
+[Tech IPOs, Digital Healthcare And A Better Year For Branson: Forbes Europe Predictions For 2021](https://www.forbes.com/sites/alexwood/2021/01/11/tech-ipos-digital-healthcare-and-a-better-year-for-branson-forbes-europe-predictions-for-2021/)
+
+
+> T his time last year, our team in Europe made some bold predictions with some of them  becoming true . But nobody could have predicted the global pandemic and its impact on all of our lives. In 2021, there is light at the end of the tunnel, thanks in-part to Uğur Şahin (pictured above), one half of the German-Turkish husband and wife team behind the world's first Covid-19 vaccine. Read below our European team's expert predictions for the year ahead. Big tech IPOs Iain Martin, European News Editor Iain Martin Forbes The pandemic has highlighted inequalities in economies across Europe, and has accelerated a shift to digital, that will only continue into 2021.
+
+
+***
+![Microsoft Teams is getting a major storage update](https://cdn.mos.cms.futurecdn.net/6oaXyJC6dcgyUcseAi4PK6-1200-80.jpg "Microsoft Teams is getting a major storage update")
+
+
+[Microsoft Teams is getting a major storage update](https://www.techradar.com/news/microsoft-teams-is-getting-a-major-storage-update)
+
+
+> (Image credit: Microsoft) In the coming months, Microsoft Teams will be changing how video recordings are stored for all its users.  The company has announced that from March 1, meeting recordings will be saved to OneDrive for Business and SharePoint, with Stream, Microsoft's own enterprise video service, no longer an option. The transition from Stream to OneDrive will be a gradual process, with Government Community Cloud customers currently able to adjust their settings so that video recordings continue to be stored via Stream.
+
+
+***
+![Save up to $200 in Best Buy's latest Chromebook deals - prices start at $199](https://cdn.mos.cms.futurecdn.net/bqouzccAVr9xtFBzqVnUQa-1200-80.jpg "Save up to $200 in Best Buy's latest Chromebook deals - prices start at $199")
+
+
+[Save up to $200 in Best Buy's latest Chromebook deals - prices start at $199](https://www.techradar.com/news/save-up-to-dollar200-in-best-buys-latest-chromebook-deals-prices-start-at-dollar199)
+
+
+> (Image credit: Future) We didn't see too many cheap Chromebook deals hitting the shelves last year, as demand quickly outstripped supply. However, discounts are far more readily available right now, and Best Buy is leading the way with savings reaching $200 on more premium models.  You'll find that discount on the Samsung Galaxy Chromebook - a beast of a machine boasting a 4K touchscreen display and some hefty specs for that Chrome operating system. Usually sitting at $999, it's up for just $799 right now .
+
+
