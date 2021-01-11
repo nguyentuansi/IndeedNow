@@ -1706,3 +1706,53 @@
 > In the wake of last week's violence at the U.S. Capitol, Facebook today announced it will be taking additional steps to removing content referencing the phrase 'stop the steal' on its platform. The phrase is associated with the right-wing campaign that falsely alleges the democratic U.S. elections have been rigged and aims to keep Trump in power by any means necessary, including now, violent insurrection. Facebook had previously removed some of the original Stop the Steal groups in November, and says it has continued to remove Pages, groups and events that violate its policies, including calls for violence.
 
 
+***
+![How to watch the Morgan Wallen virtual concert live from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/morgan-wallen-ryman-livestream-hero.jpg "How to watch the Morgan Wallen virtual concert live from anywhere")
+
+
+[How to watch the Morgan Wallen virtual concert live from anywhere](https://www.androidcentral.com/how-watch-morgan-wallen-live-ryman-stream-virtual-concert-live-anywhere)
+
+
+> Though plenty of livestreams are ticketed these days, this Morgan Wallen concert will be completely free to watch worldwide. There shouldn't be any location restrictions that block access based on where you live, though we have some VPN advice below if you are having trouble watching the show. Only a few days after the release of his sophomore album, Dangerous: The Double Album, Morgan Wallen is taking the stage at the iconic Ryman Auditorium in Nashville, Tennessee for a global livestream event that fans will be able to attend from home.
+
+
+***
+![ecobee's HomeKit-enabled SmartCamera gets a new lower price, adds Spotify](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/05/ecobee-smartcamera-review-hero.jpg "ecobee's HomeKit-enabled SmartCamera gets a new lower price, adds Spotify")
+
+
+[ecobee's HomeKit-enabled SmartCamera gets a new lower price, adds Spotify](https://www.imore.com/ecobees-homekit-enabled-smartcamera-gets-new-lower-price-adds-spotify)
+
+
+> Source: Christopher Close / iMore ecobee has announced that the company's HomeKit-enabled SmartCamera has a new low price, making the premium indoor camera more affordable than ever. Alongside the new price, the SmartCamera is also gaining a suite of new features, including upgraded tracking capabilities and Spotify integration. As of today, the ecobee SmartCamera with voice control now has a new reduced price – $129.99 USD (from $179.99), as well as new, highly requested features. HomeKit Secure Video to safely stream and store videos taken on the ecobee SmartCamera with voice control on Apple's secure servers.
+
+
+***
+![LG's New webOS 6.0 Is Here With A Lot Of New Features](https://www.androidheadlines.com/wp-content/uploads/2021/01/webOS-6.0-New-Home.jpg "LG's New webOS 6.0 Is Here With A Lot Of New Features")
+
+
+[LG's New webOS 6.0 Is Here With A Lot Of New Features](https://www.androidheadlines.com/2021/01/lgs-new-webos-6-0-is-here-with-a-lot-of-new-features.html)
+
+
+> On January 7 Cision PR Newswire reported that LG Electronics announced webOS 6.0. webOS 6.0 is will be available for its 2021 OLED, QNED, Mini LED, NanoCell, and UHD smart TVs. When paired with the new Magic Remote the webOS 6.0 viewers will have a more enjoyable and intuitively discover experience.webOS 6.0 comes with support for new voice commands from Google Assitant and Amazon Alexa. This will make managing and searching easier across streaming services, internet, and broadcast channels easier than ever.
+
+
+***
+![Facebook bans 'stop the steal' content, 69 days after the election](https://cdn.cnn.com/cnnnext/dam/assets/210111171127-stop-the-steal-protest-210106-colorado-super-tease.jpg "Facebook bans 'stop the steal' content, 69 days after the election")
+
+
+[Facebook bans 'stop the steal' content, 69 days after the election](https://www.cnn.com/2021/01/11/tech/facebook-stop-the-steal/index.html)
+
+
+> The social media giant said in a blog post that it will ramp up enforcement against the phrase because it was used by those who participated in last week's riots at the US Capitol. "With continued attempts to organize events against the outcome of the US presidential election that can lead to violence, and use of the term by those involved in Wednesday's violence in DC, we're taking this additional step in the lead up to the inauguration," Guy Rosen, Facebook's VP of integrity, wrote in a post about the company's preparation for Inauguration Day.
+
+
+***
+![Apple lands sci-fi comedy-drama from Andy Samberg and Ben Stiller](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/03/apple-introduces-apple-tv-plus-03252019.jpg "Apple lands sci-fi comedy-drama from Andy Samberg and Ben Stiller")
+
+
+[Apple lands sci-fi comedy-drama from Andy Samberg and Ben Stiller](https://www.imore.com/apple-lands-sci-fi-comedy-drama-andy-samberg-and-ben-stiller)
+
+
+> Source: Apple Apple has landed a sci-fi comedy-drama from Andy Samberg and Ben Stiller. It comes from the mind behind Bojack Horseman and the writer of Palm Springs. As reported by The Hollywood Reporter, Apple TV+ has landed a new project from Andy Samberg and Ben Stiller. Samberg has teamed up once again with Andy Siara, the writer of Palm Springs, from an untitled sci-fi comedy-drama. According to the report, Apple finalized the deal for the project over the weekend after a competition with other studios.
+
+
