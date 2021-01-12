@@ -2576,3 +2576,53 @@
 > (Image credit: Future) An incredible laptop deal from Dell, you can get the XPS 13 on sale for $749.99 right now when you apply the coupon code 50OFF699 at checkout. That's a total saving of $359, and a fantastic price for the powerful 13-inch laptop. Dell XPS 13 Laptop: $1,108.99 $749.99 at Dell Save $359 - The 2019 baseline spec Dell XPS 13 is going for an incredible price right now, thanks to the additional $50 discount when you apply the coupon code 50OFF699 at checkout. Built to take on any task, the laptop packs a 10th gen Intel i7-10510U processor, 8GB of RAM, and 256GB SSD.
 
 
+***
+![Tech, telecom hit pause on political donations](https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg "Tech, telecom hit pause on political donations")
+
+
+[Tech, telecom hit pause on political donations](https://www.politico.com/newsletters/morning-tech/2021/01/12/tech-telecom-hit-pause-on-political-donations-792719)
+
+
+> With help from Cristiano Lima, John Hendel and Steven Overly Editor's Note: Morning Tech is a free version of POLITICO Pro Technology's morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you need with tools you can use to take action on the day's biggest stories. Act on the news with POLITICO Pro . — Taking a break from giving: While Facebook, Google and Microsoft are stopping all political donations after last week's Capitol violence, AT&T, Verizon and Comcast pledge not to back Republicans involved in the Electoral College challenge.
+
+
+***
+![Amazon and Facebook staff warned of threats to safety](https://ichef.bbci.co.uk/news/1024/branded_news/110C/production/_116446340_hi044107308.jpg "Amazon and Facebook staff warned of threats to safety")
+
+
+[Amazon and Facebook staff warned of threats to safety](https://www.bbc.com/news/technology-55635198)
+
+
+> Amazon and Facebook have warned staff about threats to their safety amid fears of a backlash against "big tech". Amazon Web Services (AWS) employees were told to "be vigilant" after the firm removed Parler from its web-hosting service. The app is popular with some supporters of President Donald Trump. Facebook staff were also instructed not to wear company-branded clothing in public following its ban of the US President's account. The companies cited the deadly siege on US Congress and civil unrest as reasons for concern.
+
+
+***
+![AMD Announces Expansion of Ryzen 5000 For Prebuilt Desktops](https://icdn3.digitaltrends.com/image/digitaltrends/amd-ryzen-9-3900x-review-04279-1200x630-c-ar1.91.jpg "AMD Announces Expansion of Ryzen 5000 For Prebuilt Desktops")
+
+
+[AMD Announces Expansion of Ryzen 5000 For Prebuilt Desktops](https://www.digitaltrends.com/computing/amd-ryzen-5000-desktop-coming-to-prebuilt-ces-2021/)
+
+
+> To kick off Day Two of CES 2021 , AMD announced at its keynote an expansion of its wildly successful Ryzen 5000 desktops . Up until this point, the desktop chips have only been available to buy separately, and they've been nearly impossible to snag. But now, you'll begin to see two variants available through prebuilt desktop manufacturers, with Dell already announcing a Ryzen 5000 edition of its Alienware Aurora desktop already. These new Ryzen 5000 chips will come in at a lower TDP of 65 watts, down from the 105 watts of the original 5900X and 5800X .
+
+
+***
+![GoFundMe to ban fundraisers for travel expenses to violent political events](https://www.gannett-cdn.com/-mm-/1d1309e22d07c6fe561bc5784129cf14ac3ab44f/c=78-0-322-138/local/-/media/2016/10/04/TennGroup/Nashville/636111893522432765-gofundme-logo.jpg?width=1600&height=800&fit=crop "GoFundMe to ban fundraisers for travel expenses to violent political events")
+
+
+[GoFundMe to ban fundraisers for travel expenses to violent political events](https://www.usatoday.com/story/tech/2021/01/12/gofundme-bans-fundraisers-cost-travel-violent-political-events/6636094002/)
+
+
+> CLOSE President Trump's final Tweet read, 'To all of those who have asked, I will not be going to the Inauguration on January 20th.' USA TODAY GoFundMe will ban fundraisers geared towards costing travel expenses to violent political protests, according to CNN .  The crowdfunding platform is taking the measure after rioters stormed the U.S. Capitol on Wednesday – leading to the death of five people , including a police officer.  "Due to the violence, GoFundMe has removed numerous fundraisers intended to raise money for travel expenses," a GoFundMe spokesperson told CNN.
+
+
+***
+![From crypto trading and home workouts to EV batteries and microLED displays, CES' Taiwan startups cover a wide range of tech](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-861177234.jpg?w=600 "From crypto trading and home workouts to EV batteries and microLED displays, CES' Taiwan startups cover a wide range of tech")
+
+
+[From crypto trading and home workouts to EV batteries and microLED displays, CES' Taiwan startups cover a wide range of tech](https://techcrunch.com/2021/01/12/from-crypto-trading-and-home-workouts-to-ev-batteries-and-microled-displays-ces-taiwan-startups-cover-a-wide-range-of-tech/)
+
+
+> For the past three years, the Taiwan Ministry of Science and Technology (MOST) has brought startups to CES . This year, its virtual pavilion, organized with Taiwan Tech Arena , is hosting 100 startups, organized into five categories: Smart Living, Tech for Good, Cybersecurity and Cloud, Healthcare and Wellness, and Mobility Tech. During two press events, 24 startups previewed their CES presentations, giving a sneak peek at what the pavilion will showcase. In a press conference on Sunday, MOST's head, Wu Tsung-tsong, said the pavilion's goal is to help startups expand into more markets and find international investors.
+
+
