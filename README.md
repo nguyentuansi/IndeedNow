@@ -2714,3 +2714,50 @@
 > I made a Photomosaic Generator tool during this quarantine. Works with all types of images. Doesn't matter what shape the image is, it will automatically trim it into square images and produce a photomosaic whose quality and resolution can be user adjusted.
 
 
+***
+![What Was President Trump's Twitter?](https://static01.nyt.com/images/2021/01/11/fashion/00twitter-oops/00twitter-oops-facebookJumbo.jpg "What Was President Trump's Twitter?")
+
+
+[What Was President Trump's Twitter?](https://www.nytimes.com/2021/01/12/style/trump-twitter-ban.html)
+
+
+> Much of the planning for and lead-up to the breach of the Capitol by pro-Trump rioters unfolded in plain view on Twitter, where it was understood by different groups of users, in utterly incompatible ways, to be both 'real life' and all talk — this is among the reasons the event took so many people by surprise, while others insisted that it had been inevitable for years. Twitter is certainly used for different things. It's an invaluable tool for activism, as its role leading up to and through Black Lives Matter protests this summer made clear, again.
+
+
+***
+[Gett, a ride-hailing platform focused on business users, raises $115M, bringing its total raised to $965M, says it's now "operationally profitable" (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210112/p36#a210112p36)
+
+
+> Ingrid Lunden / TechCrunch: Gett, a ride-hailing platform focused on business users, raises $115M, bringing its total raised to $965M, says it's now “operationally profitable” — As ride-hailing companies like Uber and Lyft continue to find their feet in a new landscape for transportation services …
+
+
+***
+![CES 2021: Arlo Highlights Touchless Video Doorbell and Essential Indoor Camera, Adds HomeKit to Wired Doorbell](https://images.macrumors.com/t/ZzjdQMGGN414Pzxo3QRqDEgBW8A=/2640x/http://images.macrumors.com/article-new/2019/10/arlo-video-doorbell.jpg "CES 2021: Arlo Highlights Touchless Video Doorbell and Essential Indoor Camera, Adds HomeKit to Wired Doorbell")
+
+
+[CES 2021: Arlo Highlights Touchless Video Doorbell and Essential Indoor Camera, Adds HomeKit to Wired Doorbell](https://www.macrumors.com/2021/01/12/arlo-touchless-video-doorbell/)
+
+
+> Home security company Arlo highlighted two upcoming products at CES this year, both of which received Smart Home awards at the event. The Essential Indoor camera and the Touchless Video Doorbell are both new product offerings that will be released in the coming months. The Essential Indoor camera is designed to let families choose when the camera monitors and records video through a "disarm mode." In disarm mode, recording, motion, and audio detection is disabled and won't be re-enabled until manually done through the Arlo app.
+
+
+***
+![Look, up in the sky - it's a flying Cadillac! GM unveils futuristic vehicle](https://i-invdn-com.akamaized.net/news/LYNXMPEA8I0M2_L.jpg "Look, up in the sky - it's a flying Cadillac! GM unveils futuristic vehicle")
+
+
+[Look, up in the sky - it's a flying Cadillac! GM unveils futuristic vehicle](https://www.investing.com/news/technology-news/look-up-in-the-sky--its-a-flying-cadillac-gm-unveils-futuristic-vehicle-2387107)
+
+
+> © Reuters. Two futuristic Cadillac concepts are seen in a still image from video presented by General Motors (GM) at the 2021 CES By Paul Lienert and Ben Klayman DETROIT (Reuters) - General Motors Co (NYSE: ) on Tuesday presented a futuristic flying Cadillac - a self-driving vehicle which takes off and lands vertically and carries the passenger above the streets and through the air. A senior GM executive described the concept as "reimagining the future of personal transportation". The single-passenger Cadillac - technically, a vertical take-off and landing (VTOL) drone - will be able to travel from urban rooftop to urban rooftop at speeds up to 55 miles per hour.
+
+
+***
+![If it will matter after today, stop talking about it in a chat room](https://mikecrittendenhome.files.wordpress.com/2021/01/stephen-phillips-hostreviews-co-uk-ae0ix-blcjc-unsplash.jpg?w=1200 "If it will matter after today, stop talking about it in a chat room")
+
+
+[If it will matter after today, stop talking about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
+
+
+> Live chat (Slack, Teams, etc.) sucks for important discussions. Thinking one line at a time lowers the quality of the discussion. Knee jerk rapid fire responses become the norm. Conversations that last weeks or even days get lost and context gets fuzzy. Threads scroll up into the past and are never seen again. Despite the 'asychronous' claim, you have to keep a steady eye on it and reply in realtime or the conversation will move on without you. Anyone who takes the time to ponder and respond thoughtfully with context and explanation will find that they're too late.
+
+
