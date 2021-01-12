@@ -1806,3 +1806,50 @@
 > Alfred Gescheidt/Getty Images Facebook, Microsoft and Google have joined a growing list of big banks and other major companies pausing their political spending following last week's violent attack on the U.S. Capitol. One after another, corporate responses have escalated. Some have suspended donations to lawmakers who objected to the certification of the election. Many have halted all of their political donations for a few months. A few went as far as to support the removal of the president. "The outgoing president incited violence in an attempt to retain power, and any elected leader defending him is violating their oath to the Constitution and rejecting democracy in favor of anarchy," said National Association of Manufacturers CEO Jay Timmons, urging Vice President Mike Pence to consider invoking the 25th Amendment that allows removal of a president deemed unfit to serve.
 
 
+***
+![Parler left its content, even deleted posts, out in the open &#8212; and archivists have saved it all](https://mondrian.mashable.com/2021%252F01%252F12%252F38%252Fa99006ae3be4463bb57f0dd4241301eb.b0f0e.jpg%252F1200x630.jpg?signature=toSDO3N1WHlu-KY62YXxkLCzITs= "Parler left its content, even deleted posts, out in the open &#8212; and archivists have saved it all")
+
+
+[Parler left its content, even deleted posts, out in the open &#8212; and archivists have saved it all](http://feeds.mashable.com/~r/Mashable/~3/8rwL0n8wZpM/)
+
+
+> If you ever posted content on the right-wing social media platform Parler, odds are that it's now been saved, archived, and made public to the internet forever. That includes posts you previously deleted on Parler. Over the past few days, archivists have been pulling content from Parler in order to store them for legal and historical purposes. Archivists began to save the data because they were concerned that users would remove their posts, deleting possible evidence of crime at the Capitol. However, once companies like Amazon announced they were ending their business relationships with Parler, it became a race to archive the content before the platform went offline.
+
+
+***
+![Among Us tops the App Store as the most downloaded game in December](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/among-us-logo.jpg "Among Us tops the App Store as the most downloaded game in December")
+
+
+[Among Us tops the App Store as the most downloaded game in December](https://www.imore.com/among-us-tops-app-store-most-downloaded-game-december)
+
+
+> Source: Among Us A new report from analytics firm AppFigures reveals that Among Us was the most downloaded app on both Apple's App Store and Google's Play Store in December of 2020. According to the report, the game experienced 48 million new downloads in the month, which is even more insane once you realize it's the lowest download month yet since the game went viral in August of 2020. Among Us! ended a fantastic year by adding an estimated 48M new downloads in December. That's its lowest month since taking off in August, but then again, it's 48,000,000 new downloads.
+
+
+***
+[North Idaho ISP Your T1 WIFI will block Facebook and Twitter for customers that request it after it received complaints over censorship (Emily Czachor/Newsweek)](http://www.techmeme.com/210111/p35#a210111p35)
+
+
+> Emily Czachor / Newsweek: North Idaho ISP Your T1 WIFI will block Facebook and Twitter for customers that request it after it received complaints over censorship — Your T1 WiFi, an internet service provider based in northwestern Idaho, will implement firewalls that restrict access to Facebook and Twitter at its customers' requests.
+
+
+***
+![Fringe Groups Splinter Online After Facebook and Twitter Bans](https://static01.nyt.com/images/2021/01/12/business/11JPmaga-online-print/11maga-online-facebookJumbo.jpg "Fringe Groups Splinter Online After Facebook and Twitter Bans")
+
+
+[Fringe Groups Splinter Online After Facebook and Twitter Bans](https://www.nytimes.com/2021/01/11/technology/fringe-groups-splinter-online-after-facebook-and-twitter-bans.html)
+
+
+> Continue reading the main storyTracking what may be planned in the coming days could become even more difficult as the groups take to lesser-known networks and apps that can't be easily monitored.Supporters of President Trump at his rally on Wednesday in Washington.Credit...Kenny Holston for The New York TimesJan. 11, 2021, 8:18 p.m. ETOn the Telegram messaging app, there were calls for armed marches on state capitols and the offices of tech companies like Google, Facebook and Twitter, starting on Jan.
+
+
+***
+![T-Mobile Agrees to Sell $3.0 Billion of Senior Notes](https://mms.businesswire.com/media/20210111006091/en/851656/23/T-Mobile_New_Logo_Primary_RGB_M-on-W_Transparent_%281%29.jpg "T-Mobile Agrees to Sell $3.0 Billion of Senior Notes")
+
+
+[T-Mobile Agrees to Sell $3.0 Billion of Senior Notes](http://www.businesswire.com/news/home/20210111006091/en/T-Mobile-Agrees-to-Sell-3.0-Billion-of-Senior-Notes/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> BELLEVUE, Wash.--(BUSINESS WIRE)--T-Mobile US, Inc. (NASDAQ: TMUS) ('T-Mobile') announced today that T-Mobile USA, Inc., its direct wholly-owned subsidiary ('T-Mobile USA' or the 'Issuer'), has agreed to sell $1,000,000,000 aggregate principal amount of 2.250% Senior Notes due 2026 (the '2026 notes'), $1,000,000,000 aggregate principal amount of 2.625% Senior Notes due 2029 (the '2029 notes') and $1,000,000,000 aggregate principal amount of 2.875% Senior Notes due 2031 (the '2031 notes' and together with the 2026 notes and the 2029 notes, the 'notes') in a registered public offering.
+
+
