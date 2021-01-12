@@ -2908,3 +2908,53 @@
 > This morning Techstars, a network of startup accelerators and a venture capital fund, announced that Maëlle Gavet is its new CEO. Former CEO and co-founder David Brown will stay on Techstars' board, while the group's other co-founder, David Cohen, will become the chairman of its board. TechCrunch spoke with Gavet this morning about her new job, the timing of the change, the company's plans for expansion and her goals in the role. Gavet, who said she was brought aboard to help Techstars grow, detailed her work experience at prior roles in companies of greater scale and multiple geographies, including Compass and Booking.
 
 
+***
+![Finally, a way to watch concerts and play video games...in your car?](https://mondrian.mashable.com/2021%252F01%252F12%252F20%252Fde164fdbd1c34bba87e2ffeca0bb063b.d3b1e.png%252F1200x630.png?signature=sMWrxfCZZINc5iuhCJk-ntPnvkg= "Finally, a way to watch concerts and play video games...in your car?")
+
+
+[Finally, a way to watch concerts and play video games...in your car?](https://mashable.com/video/harman-samsung-futuristic-immersive-car/)
+
+
+> No body in the article.
+
+
+***
+![Roku touts top spot among smart-television operating systems, buys Quibi library; stock +1.8% (NASDAQ:ROKU)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Roku touts top spot among smart-television operating systems, buys Quibi library; stock +1.8% (NASDAQ:ROKU)")
+
+
+[Roku touts top spot among smart-television operating systems, buys Quibi library; stock +1.8% (NASDAQ:ROKU)](https://seekingalpha.com/news/3649944-roku-touts-top-spot-among-smart-television-operating-systems-buys-quibi-library-stockplus-1_8?source=content_type:react|section:All|sectionAsset:News|first_level_url:symbol|button:Title|lock_status:No|line:3)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![HBO Max headed to Roku, seven months after launch; Roku shares jump (NYSE:T)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "HBO Max headed to Roku, seven months after launch; Roku shares jump (NYSE:T)")
+
+
+[HBO Max headed to Roku, seven months after launch; Roku shares jump (NYSE:T)](https://seekingalpha.com/news/3645121-hbo-max-headed-to-roku-seven-months-after-launch-roku-shares-jump?source=content_type:react|section:News|sectionAsset:News|first_level_url:symbol|button:Title|lock_status:No|line:15)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Zoom Reaches 1 Million Zoom Phone Seats](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Zoom Reaches 1 Million Zoom Phone Seats")
+
+
+[Zoom Reaches 1 Million Zoom Phone Seats](https://seekingalpha.com/pr/18148333-zoom-reaches-1-million-zoom-phone-seats)
+
+
+> GlobeNewswire SAN JOSE, Calif. , Jan. 12, 2021 (GLOBE NEWSWIRE) -- Zoom Video Communications, Inc. ( ZM ) (NASDAQ: ZM) today announced that it has sold one million Zoom Phone seats shortly before it reached the two-year anniversary of the product's general availability. This impressive growth illustrates the value Zoom Phone brings to customers with its strong service performance, reliability, security, enterprise-grade features, seamless integrations, and simplified pricing model. Zoom Phone is a core product in Zoom's unified communications platform, which also includes Zoom Meetings, Zoom Chat, Zoom Rooms, and Zoom Video Webinars.
+
+
+***
+![Google Meet vs. Zoom](https://icdn3.digitaltrends.com/image/digitaltrends/video-call-from-home-during-lockdown-1200x630-c-ar1.91.jpg "Google Meet vs. Zoom")
+
+
+[Google Meet vs. Zoom](https://www.digitaltrends.com/computing/google-meet-vs-zoom/)
+
+
+> With working from home more popular than ever, videoconferencing services like Google Meet and Zoom are proving to be invaluable resources for small businesses, major corporations, and everyday netizens alike. Google Meet has only been on the market since 2017, but Google released a free version of Meet in late April 2020 in response to gaining 100 million daily users due to global restrictions on working at the office. Zoom remains the king of the heap, with over 200 million daily users and a bevy of sophisticated features.
+
+
