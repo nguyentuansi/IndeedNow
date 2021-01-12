@@ -2808,3 +2808,53 @@
 > After being pushed back, it looks like GM will pull back the curtain on the next two electric vehicles in the Bolt line. To be clear, neither of these vehicles are new. GM has been hinting at them for the past year, but now we know when the full reveals are coming. The first vehicle... The post New Chevy Bolt vehicles coming next month appeared first on MobileSyrup.
 
 
+***
+![Razer Takes Another Step Into The Future With Its 2021 Concepts](https://www.androidheadlines.com/wp-content/uploads/2021/01/Razer-Project-Hazel-1.jpg "Razer Takes Another Step Into The Future With Its 2021 Concepts")
+
+
+[Razer Takes Another Step Into The Future With Its 2021 Concepts](https://www.androidheadlines.com/2021/01/razer-concepts-2021-project-hazel-project-brooklyn-gaming-chair-mask.html)
+
+
+> Razer is not one to shy away from creating some truly futuristic looking concepts, and for 2021 it's taking another step into the future.This year for CES Razer revealed an updated line of its Blade 15 and Blade Pro 17 gaming laptops, but it's also shown off two concepts for 2021 that may or may not ever make it to production.Called Project Hazel and Project Brooklyn, both concept products look like something from a scene out of Blade Runner 2049. Though Project Hazel is the more likely of the two to reach production as it's a concept N95 mask that features Razer's signature style and Chroma RGB lighting.
+
+
+***
+![Report: Former Michigan Gov. Rick Snyder Will Finally Be Charged for Poisoning Flint's Water](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/makxbmhcwuldfxcpudky.jpg "Report: Former Michigan Gov. Rick Snyder Will Finally Be Charged for Poisoning Flint's Water")
+
+
+[Report: Former Michigan Gov. Rick Snyder Will Finally Be Charged for Poisoning Flint's Water](https://earther.gizmodo.com/report-former-michigan-gov-rick-snyder-will-finally-b-1846044831)
+
+
+> Please let these charges stick and restore my faith that good things can happen! Photo : Brett Carlsen ( Getty Images ) Y'all. Former Michigan g overnor and certified monster Rick Snyder will catch charges for his role in the Flint water crisis, according to the Associated Press. You absolutely love to see it. Snyder is the former Republican governor of Michigan who had a massive role in the public health disaster, in which Flint's nearly 100,000 residents were exposed to poisoned drinking water that contained high levels of lead and low levels of chlorine.
+
+
+***
+![PyGame Tutorial - Building A Breakout Clone](https://external-preview.redd.it/sXiEjJZUUJNolbjzdsJ2AZnEfCAlkhwZU4Gzekg40Pc.jpg?auto=webp&s=6b5cc895a6f3729497d2c29869b0f42106eeb4b4 "PyGame Tutorial - Building A Breakout Clone")
+
+
+[PyGame Tutorial - Building A Breakout Clone](https://www.reddit.com/r/Python/comments/kw062o/pygame_tutorial_building_a_breakout_clone/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![The ThinkPad X1 Titanium Is Lenovo's Thinnest Yet](https://www.androidheadlines.com/wp-content/uploads/2021/01/03_TP_X1_Titanium_Hero_Multi_Modes-e1610385256489-1536x833-1.png "The ThinkPad X1 Titanium Is Lenovo's Thinnest Yet")
+
+
+[The ThinkPad X1 Titanium Is Lenovo's Thinnest Yet](https://www.androidheadlines.com/2021/01/lenovo-thinkpad-x1-titanium-conference-laptop-pc-computer.html)
+
+
+> On January 11 Lenovo unveiled their thinnest ThinkPad ever. The new ThinkPad X1 Titanium Yoga has a titanium material covering and is just over 11mm thin. It also features a beautiful 3:2 ratio 13.5-inch low power display along with Dolby Vision HDR support and Dolby Atmos Speaker System.The Think X1 Titanium Yoga wasn't the only new ThinkPad to be announced at CES. The ThinkPad X1 Carbon Gen 9 and X1 Yoga Gen 6 have been completely refreshed. They both bring along an improved user experience built around an all-new 16:10 ratio display with a low blue light feature.
+
+
+***
+![YouTube rival Rumble accuses Google of unfair search practices](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/06/youtube-premium-hero-galaxy-s9-9ipj-9ipj.jpg "YouTube rival Rumble accuses Google of unfair search practices")
+
+
+[YouTube rival Rumble accuses Google of unfair search practices](https://www.androidcentral.com/youtube-rival-rumble-accuses-google-unfair-practices-over-video-search-results)
+
+
+> Big Tech has become the subject of increasing scrutiny by governments across the world in recent years, perhaps none more so than Google, which thanks to its dominance of the search business and its control of Android, the most popular mobile operating system, exerts a stupendous degree of control over the products and information we consume. That influence has often resulted in the company fielding allegations of anti-competitive practices, with the latest of these being a lawsuit by YouTube rival Rumble, which claims that Google is "unfairly rigging its search algorithms" to favor YouTube, which Google owns, over its competitors (via The Wall Street Journal).
+
+
