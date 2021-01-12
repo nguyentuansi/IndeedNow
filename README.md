@@ -1853,3 +1853,53 @@
 > BELLEVUE, Wash.--(BUSINESS WIRE)--T-Mobile US, Inc. (NASDAQ: TMUS) ('T-Mobile') announced today that T-Mobile USA, Inc., its direct wholly-owned subsidiary ('T-Mobile USA' or the 'Issuer'), has agreed to sell $1,000,000,000 aggregate principal amount of 2.250% Senior Notes due 2026 (the '2026 notes'), $1,000,000,000 aggregate principal amount of 2.625% Senior Notes due 2029 (the '2029 notes') and $1,000,000,000 aggregate principal amount of 2.875% Senior Notes due 2031 (the '2031 notes' and together with the 2026 notes and the 2029 notes, the 'notes') in a registered public offering.
 
 
+***
+![890 5th Avenue Partners, Inc. Announces Pricing of $250 Million Initial Public Offering](https://mms.businesswire.com/media/20210111006109/en/851633/23/890_5th_Avenue_Partners_Logo_%28Blue%29.jpg "890 5th Avenue Partners, Inc. Announces Pricing of $250 Million Initial Public Offering")
+
+
+[890 5th Avenue Partners, Inc. Announces Pricing of $250 Million Initial Public Offering](http://www.businesswire.com/news/home/20210111006109/en/890-5th-Avenue-Partners-Inc.-Announces-Pricing-of-250-Million-Initial-Public-Offering/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--890 5th Avenue Partners, Inc. (the "Company") today announced the pricing of its initial public offering of 25,000,000 units at a price of $10.00 per unit. The units are expected to be listed on the Nasdaq Capital Market ("Nasdaq") and trade under the ticker symbol "ENFAU" beginning January 12, 2021. Each unit consists of one share of the Company's common stock and one-third of one redeemable warrant. Each whole warrant entitles the holder thereof to purchase one share of common stock at a price of $11.
+
+
+***
+![Zipmex, which aspires to build the Asia Pacific region's largest digital assets exchange, raises $6 million led by Jump Capital](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1221636480.jpg?w=599 "Zipmex, which aspires to build the Asia Pacific region's largest digital assets exchange, raises $6 million led by Jump Capital")
+
+
+[Zipmex, which aspires to build the Asia Pacific region's largest digital assets exchange, raises $6 million led by Jump Capital](https://techcrunch.com/2021/01/11/zipmex-which-aspires-to-build-the-asia-pacific-regions-largest-digital-assets-exchange-raises-6-million-led-by-jump-capital/)
+
+
+> Zipmex, a digital assets exchange headquartered in Singapore, announced today it has raised $6 million in funding led by Jump Capital. The startup, which plans to become a digital assets bank, says the round exceeded its initial target of $4 million. Along with earlier funding, it brings the total Zipmex has raised so far to $10.9 million. The exchange is regulated in Singapore, Australia and Indonesia, and licensed in Thailand. It focuses on investors new to cryptocurrency with educational features, as well as high net-worth individuals, and says it has transacted over $600 million in gross transaction volume since launching at the end of 2019.
+
+
+***
+![Amazon is removing products promoting the QAnon conspiracy](https://techcrunch.com/wp-content/uploads/2020/10/qanon-GettyImages-1228873046.jpg?w=599 "Amazon is removing products promoting the QAnon conspiracy")
+
+
+[Amazon is removing products promoting the QAnon conspiracy](https://techcrunch.com/2021/01/11/amazon-is-removing-products-promoting-the-qanon-conspiracy/)
+
+
+> Amazon has begun the process of removing QAnon-related products from its platform. A spokesperson for the company said that the process may take a few days. Any sellers that attempt to evade the company's systems and list products will be subject to action, including a blanket selling ban across Amazon stores. News of the ban was first reported by The New York Times. The company is shutting down the nation's newest favorite conspiracy theory by removing products sold by QAnon adherents from its platform after supporters were prominently on display at the riot in the nation's Capitol last week.
+
+
+***
+![ACI Worldwide and JCB Boost Merchant Acquiring Capabilities with Successful Global Rollout of Web API Payment Solution](https://mms.businesswire.com/media/20210111005740/en/851388/23/ACI_Horizontal_%2B_Tagline_%402x.jpg "ACI Worldwide and JCB Boost Merchant Acquiring Capabilities with Successful Global Rollout of Web API Payment Solution")
+
+
+[ACI Worldwide and JCB Boost Merchant Acquiring Capabilities with Successful Global Rollout of Web API Payment Solution](http://www.businesswire.com/news/home/20210111005740/en/ACI-Worldwide-and-JCB-Boost-Merchant-Acquiring-Capabilities-with-Successful-Global-Rollout-of-Web-API-Payment-Solution/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SINGAPORE & TOKYO--(BUSINESS WIRE)--ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment software and solutions, and JCB International Co., Ltd. (JCB), the international operations subsidiary of JCB Co., Ltd., Japan's only international payment brand, today announced that JCB has completed the successful global rollout of its JCB Web API Service, including its Web API-based dispute function. JCB's full implementation of ACI Secure eCommerce, which serves as the foundation for the service, helps acquirers, merchants and payments service providers (PSPs) drive payments acceptance in key regions across Asia and globally.
+
+
+***
+![Sony reveals more details on its secretive Vision-S sedan](https://techcrunch.com/wp-content/uploads/2021/01/VISION-S__Public_Road_Testing_in_Europe.gif?w=520 "Sony reveals more details on its secretive Vision-S sedan")
+
+
+[Sony reveals more details on its secretive Vision-S sedan](https://techcrunch.com/2021/01/11/sony-reveals-more-details-on-its-secretive-vision-s-sedan/)
+
+
+> Sony's Vision-S prototype sedan, one of the biggest surprises at CES last year, didn't fade away after the tech trade show ended. The Vision-S is back in a series of new videos released by Sony during 2021 CES, which kicked off Monday. Two videos show the Vision-S prototype driving on a private track and then public roads in Austria. But it's a third, longer video (included below) that sheds more light on how Sony designed and developed the prototype, its partners and some of the tech that's under the hood.
+
+
