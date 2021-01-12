@@ -2341,3 +2341,47 @@
 > Data management firm Informatica has unveiled a new enterprise-scale, cloud-native solution that should help companies rethink how they manage their customer experience (CX) strategy. Customer 360 is an end-to-end SaaS solution that combines data integration, seamless connectivity, process orchestration, data quality, reference data management, and master data management within a single solution. The Customer 360 solutions should help businesses to eliminate data duplication and improve security, allowing enterprises to deliver improved customer experience and marketing initiatives.
 
 
+***
+[Too distracted? See the number of app notifications you're receiving](https://www.idownloadblog.com/2021/01/12/see-number-app-notifications-screen-time/)
+
+
+> Find out exactly how many app notifications you've been receiving. You can use the Screen Time Notifications section for useful data.
+
+
+***
+![Review: Logitech's colorful G733 headset stands out with style](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/logitech-g733-hero.jpg "Review: Logitech's colorful G733 headset stands out with style")
+
+
+[Review: Logitech's colorful G733 headset stands out with style](https://www.androidcentral.com/logitech-g733-review)
+
+
+> I've tested a bunch of wireless and wired headsets over the past few weeks, and the latest on my ears is the Logitech G733. While I can't say it's my favorite of the bunch, it's certainly a damn good headset in its own right. It can't compete with its Astro cousins like the A40, but it isn't trying to. This is more of a mid-tier headset for someone who doesn't want to spend too much money but still wants a wireless experience. What's better is that it supports DTS:X 2.0 virtual surround sound. Though you lose that on PS5, you're still getting good audio quality, just nothing spectacular.
+
+
+***
+![10 best kids' tablets for learning and playing games](https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/05/11/12/indybest-best-kids-tablets.jpg "10 best kids' tablets for learning and playing games")
+
+
+[10 best kids' tablets for learning and playing games](https://www.independent.co.uk/extras/indybest/gadgets-tech/laptops-tablets/best-kids-tablet-cheap-wifi-case-learning-games-reviews-a9508296.html)
+
+
+> Electronic learning doesn't necessarily require a keyboard and mouse. Apple's iPad wasn't the first tablet computer, but when it arrived in spring 2010, it changed everything. Now, with millions of apps on Apple and Android devices, the tablet is king, every bit as much as the laptop. In many ways it's even better, especially as far as children are concerned. The tablet is unbeatably portable – thin, lightweight and not much bigger than the size of the display. The touchscreen interface is hugely intuitive and since a virtual keyboard can appear on the display, you don't really need anything else.
+
+
+***
+[CIA's declassified UFO documents are now online as ‘Black Vault' reveals ‘mystery explosions' and ‘contact with aliens'](https://www.thesun.ie/tech/6403160/cia-declassified-ufo-documents-online-black-vault/)
+
+
+> A TREASURE trove of CIA files about UFO sightings across the globe has been published online. The dossier is bursting with hundreds of declassified records containing once top-secret information on “Unidentified Aerial Phenomena” (UAPs). Known as the “Black Vault”, the database is available thanks to a decades-long effort to access the CIA’s records, which date […]
+
+
+***
+![CIA's declassified UFO documents are now online as ‘Black Vault' reveals ‘mystery explosions' and ‘contact with aliens'](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/01/NINTCHDBPICT000622512504.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "CIA's declassified UFO documents are now online as ‘Black Vault' reveals ‘mystery explosions' and ‘contact with aliens'")
+
+
+[CIA's declassified UFO documents are now online as ‘Black Vault' reveals ‘mystery explosions' and ‘contact with aliens'](https://www.thescottishsun.co.uk/tech/6523654/cia-declassified-ufo-documents-online-black-vault/)
+
+
+> A TREASURE trove of CIA files about UFO sightings across the globe has been published online. The dossier is bursting with hundreds of declassified records containing once top-secret information on "Unidentified Aerial Phenomena" (UAPs). 3 Hundreds of declassified CIA files about UFOs have been published online Credit: Getty Images - Getty Known as the "Black Vault", the database is available thanks to a decades-long effort to access the CIA's records, which date back as far as the 1980s. Campaigner John Greenewald Jr.
+
+
