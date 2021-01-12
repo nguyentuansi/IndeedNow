@@ -2432,3 +2432,47 @@
 > WOODLAND HILLS, Calif.--(BUSINESS WIRE)--Kristian F. Beloff, Chief Executive Officer of SellPro, the only employee engagement and training platform that supports product brands, retailers, and retail agencies in one mobile solution, has been elected as a board member of the Retailer Council of the Consumer Technology Association (CTA). Beloff was elected by CTA's retailer council members and will work to provide direction to the CTA about the needs of retailers and their partners. The Retailer Council works to help identify, support and develop programs and resources that help the consumer make informed retail purchase decisions.
 
 
+***
+![Targus' New Keyboard Can Kill COVID-19 & Other Germs](https://www.androidheadlines.com/wp-content/uploads/2021/01/targus-uv-c-keyboard-covid-19.png "Targus' New Keyboard Can Kill COVID-19 & Other Germs")
+
+
+[Targus' New Keyboard Can Kill COVID-19 & Other Germs](https://www.androidheadlines.com/2021/01/targus-uv-c-keyboard-ultraviolet-antimicrobial-backpack)
+
+
+> UV-C has become pretty popular in the past ten months of so, largely thanks to COVID-19. And at CES 2021, we are seeing a lot of products aimed at helping us get through the pandemic. Targus is one of those companies. Targus has just announced a new keyboard with UV-C that will kill COVID-19 and other germs as well. This is something we've needed all along, and will need after COVID-19 is gone.With this keyboard, there is an ultraviolet lamp that sits above your keyboard and mouse, and anything else you might have on your desk.
+
+
+***
+![Airgain® Announces the Release of 5G and Wi-Fi 6E MULTIMAX® Next Antennas for the Fleet Vehicle Market](https://mms.businesswire.com/media/20210112005348/en/651017/23/Airgain-Logo.jpg "Airgain® Announces the Release of 5G and Wi-Fi 6E MULTIMAX® Next Antennas for the Fleet Vehicle Market")
+
+
+[Airgain® Announces the Release of 5G and Wi-Fi 6E MULTIMAX® Next Antennas for the Fleet Vehicle Market](http://www.businesswire.com/news/home/20210112005348/en/Airgain®-Announces-the-Release-of-5G-and-Wi-Fi-6E-MULTIMAX®-Next-Antennas-for-the-Fleet-Vehicle-Market/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> SAN DIEGO--(BUSINESS WIRE)--Airgain, Inc. (NASDAQ: AIRG), a leading provider of advanced antenna technologies used to enable high performance wireless networking across a broad range of devices and markets, including consumer, enterprise, and automotive, today announced the release of its 5G and Wi-Fi 6E MULTIMAX Next 6-in-1 and 5-in-1 antennas for fleet vehicles. MULTIMAX Next is designed to deliver leading 5G performance and support for next generation Wi-Fi 6E. MULTIMAX Next is available in a range of configurations, including ground plane independent and external whip options.
+
+
+***
+[ApexEdge Integrates with Payrailz to Help Credit Union Members and Bank Customers Save Money on Everyday Bills](http://www.businesswire.com/news/home/20210112005653/en/ApexEdge-Integrates-with-Payrailz-to-Help-Credit-Union-Members-and-Bank-Customers-Save-Money-on-Everyday-Bills/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)--Payrailz leverages the ApexEdge active intelligence platform to deliver bill negotiation services to credit unions and banks.
+
+
+***
+[Elo Introduces M50 Android-Powered Mobile Computer](http://www.businesswire.com/news/home/20210112005281/en/Elo-Introduces-M50-Android-Powered-Mobile-Computer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MILPITAS, Calif.--(BUSINESS WIRE)--Elo, a leading global provider of Android-powered interactive devices, today announced the Elo M50 mobile computer. The new M50 joins Elo's robust portfolio of Android-based devices used by world-class retailers, restaurant brands and manufacturers around the globe for applications from POS and self-order to endless aisle and automation. The rugged handheld computer boasts a 5.5-inch HD touch display, integrated 8 MP Camera, 2D barcode scanner and NFC and is p
+
+
+***
+![Anne McGeorge, Former Managing Partner of Grant Thornton LLP, Joins CitiusTech's Board of Directors and Chair of the Audit Committee](https://mms.businesswire.com/media/20210112005688/en/851778/23/citiustech_logo.jpg "Anne McGeorge, Former Managing Partner of Grant Thornton LLP, Joins CitiusTech's Board of Directors and Chair of the Audit Committee")
+
+
+[Anne McGeorge, Former Managing Partner of Grant Thornton LLP, Joins CitiusTech's Board of Directors and Chair of the Audit Committee](http://www.businesswire.com/news/home/20210112005688/en/Anne-McGeorge-Former-Managing-Partner-of-Grant-Thornton-LLP-Joins-CitiusTech’s-Board-of-Directors-and-Chair-of-the-Audit-Committee/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PRINCETON, N.J.--(BUSINESS WIRE)--CitiusTech, a leading provider of healthcare technology services and solutions, announced today that Anne McGeorge, former Managing Partner of Grant Thornton's Global Health Care and Life Sciences Practices, has joined its Board of Directors and chair of the Audit Committee. Ms. McGeorge comes with over 35 years of experience advising healthcare clients in all aspects of finance and transformational change, including strategy, M&A, joint ventures, financial statement audits, corporate restructuring, governance, talent acquisition, executive compensation, IRS matters and risk management.
+
+
