@@ -2000,3 +2000,50 @@
 > Twitter announced on Monday it has suspended "more than 70,000 accounts" linked to the QAnon conspiracy theory following the attack on the US Capitol by a mob of President Donald Trump's supporters. The social network began its purge on Friday, shortly after it had permanently suspended Mr Trump's account for language that could incite violence. "Since Friday, more than 70,000 accounts have been suspended as a result of our efforts, with many instances of a single individual operating numerous accounts," Twitter said in a blog post.
 
 
+***
+![Apple spends a lot more on production of iPhone 12 than iPhone 11, here's how much](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/01/12/949182-iphone-12.jpg "Apple spends a lot more on production of iPhone 12 than iPhone 11, here's how much")
+
+
+[Apple spends a lot more on production of iPhone 12 than iPhone 11, here's how much](https://www.dnaindia.com/technology/report-apple-spends-a-lot-more-on-production-of-iphone-12-than-iphone-11-here-s-how-much-2867477)
+
+
+> A few months after Apple released its newest iPhone series, it has been reported that the iPhone 12 costs as much as 21 per cent more to produce compared to the earlier iPhone 11. The reason behind this is the newer generation of parts that went into the phone. As per a report by Counterpoint Research, the new iPhone's 5G components and the A14 Bionic chipset contributes to the increased costs, taking the Bill of Materials (BoM) to $431. 'Assuming a 38% mmWave mix, the blended materials cost for the iPhone 12 with 128GB NAND flash is nearly $415, a 21% increase over its predecessor.
+
+
+***
+![Twitter suspends 70,000 QAnon accounts following violent riot at US Capitol](https://images.perthnow.com.au/publication/B881767605Z/1610430009252_G5S33KA22.4-2.JPG?imwidth=1024 "Twitter suspends 70,000 QAnon accounts following violent riot at US Capitol")
+
+
+[Twitter suspends 70,000 QAnon accounts following violent riot at US Capitol](https://www.perthnow.com.au/technology/twitter/twitter-suspends-70000-qanon-accounts-following-violent-riot-at-us-capitol-ng-b881767605z)
+
+
+> Twitter has suspended more than 70,000 accounts that were primarily dedicated to sharing QAnon content after last week's violence in Washington when supporters of President Donald Trump stormed the US Capitol. 'Given the violent events in Washington, DC, and increased risk of harm, we began permanently suspending thousands of accounts that were primarily dedicated to sharing QAnon content on Friday afternoon,' Twitter said in a blog on Monday. 'These accounts were engaged in sharing harmful QAnon-associated content at scale and were primarily dedicated to the propagation of this conspiracy theory across the service.
+
+
+***
+![Blue Mountains man accused of ‘sexually explicit' conversations with children on Pinterest](https://images.perthnow.com.au/publication/896F6664211AF0FBBABA25738870D5C4/1610430749760_245e7315372e0397bfbbec84d502d716.jpeg?imwidth=1024 "Blue Mountains man accused of ‘sexually explicit' conversations with children on Pinterest")
+
+
+[Blue Mountains man accused of ‘sexually explicit' conversations with children on Pinterest](https://www.perthnow.com.au/technology/blue-mountains-man-accused-of-sexually-explicit-conversations-with-children-on-pinterest-ng-896f6664211af0fbbaba25738870d5c4)
+
+
+> A man has been charged after allegedly using picture platform Pinterest to initiate sexually explicit conversations with children. Federal police officers swooped on the man at his Blue Mountains home and arrested him. The 42-year-old Katoomba man was refused bail to appear in Penrith Local Court on Tuesday after allegedly using a carriage service to transmit indecent communications with a person under 16. Australian Federal Police started investigating the man after receiving a report from the National Centre for Missing and Exploited Children in September last year that a user was lying about his age on Pinterest and interacting with children.
+
+
+***
+![Programming is fun!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Programming is fun!")
+
+
+[Programming is fun!](https://www.reddit.com/r/Python/comments/kvlcun/programming_is_fun/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Protoculture and Dangen end their dispute over Devil Engine](https://gonintendo.com/stories/375204-protoculture-and-dangen-end-their-dispute-over-devil-engine)
+
+
+> You might remember that there was quite a social media/legal battle between publisher Dangen Entertainment and developer Protoculture over Devil Engine. It was a nasty argument, with Protoculture saying that Dangen hadn't paid them and would not return control of the IP. While the battle lasted quite a few months, it's thankfully come to an end now. Both Protoculture and Dangen have released statements on the matter that say the issues have been resolved. Both sides have a little something different to say, and you can read them below.
+
+
