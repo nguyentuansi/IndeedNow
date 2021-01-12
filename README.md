@@ -2144,3 +2144,53 @@
 > iQOO 7 offers a 120Hz display, and goes really big on charging with its 120W fast charging support. Sushant Talwar | January 12, 2021 | Updated 12:43 IST
 
 
+***
+![CLI Tool to bootstrap Python projects from published templates !](https://external-preview.redd.it/U9tFkRUIs6q8nbBl4dOUfmWio6xG1cx3FLnZOdvIFU8.jpg?auto=webp&s=d00bd28ca95e21d7d9ff494d3d219b6e2a5eb784 "CLI Tool to bootstrap Python projects from published templates !")
+
+
+[CLI Tool to bootstrap Python projects from published templates !](https://www.reddit.com/r/Python/comments/kvo50u/cli_tool_to_bootstrap_python_projects_from/)
+
+
+> Hello, I've created a CLI tool that bootstraps a project from a published template on GitHub. It downloads the template, replace user-defined properties with given values and put everything in a new directory. For example, now I can create a new Flask project from a published template ( helkaroui/simple-flask-server.slh ) by running the following command : slh new helkaroui/simple-flask-server.slh ./ The tool is simple to install, just run pip install silhouette-cli Just thought I would share. A
+
+
+***
+![RtBrick Joins Carriers in Support of the TIP Open BNG](https://mms.businesswire.com/media/20210112005090/en/851475/23/4697663_Logo_transparent.jpg "RtBrick Joins Carriers in Support of the TIP Open BNG")
+
+
+[RtBrick Joins Carriers in Support of the TIP Open BNG](https://www.businesswire.com/news/home/20210112005090/en/RtBrick-Joins-Carriers-in-Support-of-the-TIP-Open-BNG)
+
+
+> January 12, 2021 04:00 AM Eastern Standard Time PRINCETON, N.J.--(BUSINESS WIRE)--RtBrick has announced its support for an Open BNG, as described by multiple operators, including BT, Deutsche Telekom, Telefonica and Vodafone. The recent announcement of the Open BNG initiative, as part of TIP's program, calls for industry-wide collaboration towards more flexible disaggregated BNG solutions, like those already being delivered by RtBrick. TIP (Telecom Infra Project) is a global community of companies and organizations working together to accelerate the development and deployment of open, disaggregated, and standards-based technology solutions.
+
+
+***
+![PS5 stock checker UK – Sony Playstation 5 consoles at Dixons, Argos, Game, Currys, Amazon, Very and Smyths](https://www.thesun.co.uk/wp-content/uploads/2020/12/ps5-live-281220.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock checker UK – Sony Playstation 5 consoles at Dixons, Argos, Game, Currys, Amazon, Very and Smyths")
+
+
+[PS5 stock checker UK – Sony Playstation 5 consoles at Dixons, Argos, Game, Currys, Amazon, Very and Smyths](https://www.thesun.co.uk/tech/13233222/ps5-stock-checker-uk-argos-very-game-currys-amazon-live/)
+
+
+> NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console or accessories like wireless headphones.
+
+
+***
+![CES 2021: Intel announces 4 new processor families, teases Alder Lake chip](https://images.indianexpress.com/2021/01/Intel-CES-2021.jpg "CES 2021: Intel announces 4 new processor families, teases Alder Lake chip")
+
+
+[CES 2021: Intel announces 4 new processor families, teases Alder Lake chip](https://indianexpress.com/article/technology/tech-news-technology/ces-2021-intel-announces-4-new-processor-families-teases-alder-lake-processors-7143200/)
+
+
+> During its virtual CES 2021 keynote on Monday, Intel announced four new processor families. The new chipsets will be powering Business, Education, and Mobile systems while also powering Gaming platforms. Intel states that the new chipsets will power over 500 new PC designs that will launch later through the year. The new platforms include the 11th Gen Intel Core vPro and Intel Evo vPro platforms. The company also launched the new N-series Intel Pentium Silver and Intel Celeron processors for education-targeted systems.
+
+
+***
+![Microsoft's new Surface Pro 7 Plus comes with removable SSD and 11th Gen Intel CPUs](https://images.indianexpress.com/2021/01/Surface-FB.jpg "Microsoft's new Surface Pro 7 Plus comes with removable SSD and 11th Gen Intel CPUs")
+
+
+[Microsoft's new Surface Pro 7 Plus comes with removable SSD and 11th Gen Intel CPUs](https://indianexpress.com/article/technology/laptops/microsofts-new-surface-pro-7-plus-comes-with-11th-gen-intel-cpus-7143181/)
+
+
+> Out of nowhere, Microsoft on Monday introduced a new Surface Pro 2-in-1 tablet with a removable SSD and 4G LTE. The new Surface Pro 7 Plus is only available to businesses and schools, Microsoft says. That means the company intends to sell the Surface Pro 7 Plus to organizations and not to consumers. The refreshed version of the Surface Pro 7 does not look different from the Surface Pro 7 in terms of design language. The new model has the same 12.3-inch (2736 x 1824) PixelSense display as the regular  Surface Pro 7, with a single USB-C port, a USB-A port, a 3.
+
+
