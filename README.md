@@ -2858,3 +2858,53 @@
 > Big Tech has become the subject of increasing scrutiny by governments across the world in recent years, perhaps none more so than Google, which thanks to its dominance of the search business and its control of Android, the most popular mobile operating system, exerts a stupendous degree of control over the products and information we consume. That influence has often resulted in the company fielding allegations of anti-competitive practices, with the latest of these being a lawsuit by YouTube rival Rumble, which claims that Google is "unfairly rigging its search algorithms" to favor YouTube, which Google owns, over its competitors (via The Wall Street Journal).
 
 
+***
+![Watchdog raises concerns about Census Bureau's IT security](https://www.actionnewsjax.com/pb/resources/images/share_logos/WJAX_1200x630.png "Watchdog raises concerns about Census Bureau's IT security")
+
+
+[Watchdog raises concerns about Census Bureau's IT security](https://www.actionnewsjax.com/news/technology/watchdog-raises/GWU5L4EINMRYIWMCJT6WWM4OPI/)
+
+
+> A watchdog agency for the U.S. Census Bureau says that proper information-technology security safeguards weren't in place leading up to the start of the 2020 census last year, but the statistical agency disputes some of the findings and says no data was compromised. There were a significant number of IT risks that remained open before the start of the head count of every U.S. resident that determines how many congressional seats and Electoral College votes each state gets, as well as the distribution of $1.
+
+
+***
+![Watchdog raises concerns about Census Bureau's IT security](https://www.wftv.com/pb/resources/images/share_logos/WFTV_1200x630.png "Watchdog raises concerns about Census Bureau's IT security")
+
+
+[Watchdog raises concerns about Census Bureau's IT security](https://www.wftv.com/news/technology/watchdog-raises/GWU5L4EINMRYIWMCJT6WWM4OPI/)
+
+
+> A watchdog agency for the U.S. Census Bureau says that proper information-technology security safeguards weren't in place leading up to the start of the 2020 census last year, but the statistical agency disputes some of the findings and says no data was compromised. There were a significant number of IT risks that remained open before the start of the head count of every U.S. resident that determines how many congressional seats and Electoral College votes each state gets, as well as the distribution of $1.
+
+
+***
+![Watchdog raises concerns about Census Bureau's IT security](https://www.wokv.com/pf/resources/images/sites/cmg-rd-20056/station-logo.jpg?d=53 "Watchdog raises concerns about Census Bureau's IT security")
+
+
+[Watchdog raises concerns about Census Bureau's IT security](https://www.wokv.com/news/technology/watchdog-raises/GWU5L4EINMRYIWMCJT6WWM4OPI/)
+
+
+> A watchdog agency for the U.S. Census Bureau says that proper information-technology security safeguards weren't in place leading up to the start of the 2020 census last year, but the statistical agency disputes some of the findings and says no data was compromised.There were a significant number of IT risks that remained open before the start of the head count of every U.S. resident that determines how many congressional seats and Electoral College votes each state gets, as well as the distribution of $1.
+
+
+***
+![REPAY Announces Public Offering of Common Stock](http://www.businesswire.com/images/bwlogo_square.png "REPAY Announces Public Offering of Common Stock")
+
+
+[REPAY Announces Public Offering of Common Stock](http://www.businesswire.com/news/home/20210112006077/en/REPAY-Announces-Public-Offering-of-Common-Stock/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> ATLANTA--(BUSINESS WIRE)--Repay Holdings Corporation (NASDAQ: RPAY) ('REPAY' or the 'Company') announced today that it has commenced an underwritten public offering of $130 million of shares of REPAY's Class A common stock, subject to market and other conditions. In conjunction with the offering, the Company intends to grant to the underwriters a 30-day option to purchase up to $19.5 million of additional shares of REPAY's Class A common stock. REPAY intends to use the net proceeds from the offering, together with the net proceeds from a concurrent private offering of convertible senior notes, for the repayment of the term loans issued under its existing credit agreement and other general corporate purposes, which may include, without limitation, repurchase, redemption or retirement of securities, including interests in Hawk Parent Holdings LLC, future acquisitions, satisfaction of earnout obligations from prior acquisitions, the repayment of outstanding indebtedness and working capital.
+
+
+***
+![Techstars names Maëlle Gavet CEO as the accelerator group looks to expand](https://techcrunch.com/wp-content/uploads/2019/07/Techstars.jpg?w=600 "Techstars names Maëlle Gavet CEO as the accelerator group looks to expand")
+
+
+[Techstars names Maëlle Gavet CEO as the accelerator group looks to expand](https://techcrunch.com/2021/01/12/techstars-names-maelle-gavet-ceo-as-the-accelerator-group-looks-to-expand/)
+
+
+> This morning Techstars, a network of startup accelerators and a venture capital fund, announced that Maëlle Gavet is its new CEO. Former CEO and co-founder David Brown will stay on Techstars' board, while the group's other co-founder, David Cohen, will become the chairman of its board. TechCrunch spoke with Gavet this morning about her new job, the timing of the change, the company's plans for expansion and her goals in the role. Gavet, who said she was brought aboard to help Techstars grow, detailed her work experience at prior roles in companies of greater scale and multiple geographies, including Compass and Booking.
+
+
