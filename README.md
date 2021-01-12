@@ -2244,3 +2244,53 @@
 > "Lightyear" will star Chris Evans as Buzz Lightyear.   (Photo: PIXAR) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. To this year and beyond! Pixar Animation Studios is on a roll with new releases, coming out of the holiday season having just released Soul  on Disney+, along with Pixar short Burrow . But why stop there? Investor Day 2020 unveiled a lot of great projects coming to Disney+ in the next few years, including Pixar Animation Studios' first-ever animated original series, an Up spinoff, and more.
 
 
+***
+![CIA unexpectedly releases all of its documents on UFOs](https://static.independent.co.uk/2021/01/12/10/newFile.jpg "CIA unexpectedly releases all of its documents on UFOs")
+
+
+[CIA unexpectedly releases all of its documents on UFOs](https://www.independent.co.uk/life-style/gadgets-and-tech/cia-ufo-documents-read-b1785918.html)
+
+
+> All of the CIA's publicly available documents on unidentified flying objects is now available to be downloaded. The website The Black Vault, ran by  John Greenewald Jr., has published a downloadable archive of every instance of Unidentified Aerial Phenomena (UAP), the government classification for UFOs. Greenewald scanned thousands of pages by hand following approximately 10,000 Freedom Of Information Acts (FOIA) levied at the agency. 'Around 20 years ago, I had fought for years to get additional UFO records released from the CIA,' Greenewald told Motherboard via email.
+
+
+***
+![PlayStation 5 met with ‘unprecedented' enthusiasm in India, Sony says second pre-order phase on the way](https://images.financialexpress.com/2021/01/ps5.jpg "PlayStation 5 met with ‘unprecedented' enthusiasm in India, Sony says second pre-order phase on the way")
+
+
+[PlayStation 5 met with ‘unprecedented' enthusiasm in India, Sony says second pre-order phase on the way](https://www.financialexpress.com/industry/technology/playstation-5-met-with-unprecedented-enthusiasm-in-india-sony-says-second-pre-order-phase-on-the-way/2169434/)
+
+
+> "PS5 has met with unprecedented enthusiasm." If you were unable to pre-order Sony's new PlayStation 5 console on Tuesday January 12, fret not, because Sony just confirmed that a second pre-order phase is on the way. Though no concrete details were shared, Sony said 'please stay in touch with retailers for the next pre-order phase,' adding on to what PlayStation fans and enthusiasts probably already knew within minutes after the console went on pre-order, that the 'PS5 has met with unprecedented enthusiasm.
+
+
+***
+![Best keyboards 2021: Our pick of the top PC and Mac keyboards](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/148512-laptops-buyer-s-guide-best-keyboards-2020-our-pick-of-the-top-pc-and-mac-keyboards-image1-jlcuc8aztq.jpg "Best keyboards 2021: Our pick of the top PC and Mac keyboards")
+
+
+[Best keyboards 2021: Our pick of the top PC and Mac keyboards](https://www.pocket-lint.com/laptops/buyers-guides/148512-best-keyboards-apple-mac-pc-windows-10)
+
+
+> (Pocket-lint) - Looking for a new keyboard? You've come to the right place - here's our roundup of the best keyboards we've tested out recently. As you'd expect there are options for all requirements from people who actually do type all day to those who use them primarily for shortcuts in apps like Photoshop. There are also options for all budgets. If you're looking for a gaming keyboard, check out our alternative guide: Best gaming keyboards: The best quiet, loud, colourful and proud mechanical keyboards around Apple Magic Wireless Keyboard 2 - The standard squirrel_widget_161154 If you have a Mac, the most convenient place to start is with Apple's own peripherals.
+
+
+***
+![Western Digital unveils new portable 4TB SSDs for CES 2021](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/expro_portable_ssd_splash-hi.jpg "Western Digital unveils new portable 4TB SSDs for CES 2021")
+
+
+[Western Digital unveils new portable 4TB SSDs for CES 2021](https://www.imore.com/western-digital-unveils-new-portable-4tb-ssds-ces-2021)
+
+
+> Source: Weinberg-Clark PhotographyCopyright 2019All Rights Reserved Western Digital has unveiled a new lineup of 4TB SSD hard drives. That includes new Extreme Portable SSDs from SanDisk. There's also a new P50 Game Drive and a new My Passport SSD. Western Digital has unveiled a slew of brand new 4TB hard drives at CES 2021. Western Digital is bringing 4TB capacity across a range of its portable hard drives, giving consumers and professionals alike the storage they need for creation, consumption, and gaming.
+
+
+***
+![BT sets up new digital unit to help push transformation](https://cdn.mos.cms.futurecdn.net/qMpy8Mf39Kc5qY4ac3hjLM-1200-80.jpg "BT sets up new digital unit to help push transformation")
+
+
+[BT sets up new digital unit to help push transformation](https://www.techradar.com/news/bt-sets-up-new-digital-unit-to-help-push-transformation)
+
+
+> (Image credit: EE) BT says a new digital unit and a reshuffle of its technology management team will accelerate its own transformation and allow for the creation of innovative and data-driven products, platforms, and services.The pandemic has accelerated the digitisation of business, while consumers are increasingly reliant on their connection for work, education and communication.BT hopes new offerings will drive additional value for customers and open new revenue streams that harness investments in 4G and full fibre networks.
+
+
