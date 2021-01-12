@@ -2047,3 +2047,50 @@
 > You might remember that there was quite a social media/legal battle between publisher Dangen Entertainment and developer Protoculture over Devil Engine. It was a nasty argument, with Protoculture saying that Dangen hadn't paid them and would not return control of the IP. While the battle lasted quite a few months, it's thankfully come to an end now. Both Protoculture and Dangen have released statements on the matter that say the issues have been resolved. Both sides have a little something different to say, and you can read them below.
 
 
+***
+![Twitter Suspends Over 70,000 QAnon Accounts After Attack On U.S. Capitol](https://sm.mashable.com/t/mashable_in/news/t/twitter-su/twitter-suspends-over-70000-qanon-accounts-after-attack-on-u_pcss.1200.jpg "Twitter Suspends Over 70,000 QAnon Accounts After Attack On U.S. Capitol")
+
+
+[Twitter Suspends Over 70,000 QAnon Accounts After Attack On U.S. Capitol](https://in.mashable.com/tech/19488/twitter-suspends-over-70000-qanon-accounts-after-attack-on-us-capitol)
+
+
+> Twitter has suspended over 70,000 accounts since Friday in an attempt to scrape off its crust of festering QAnon conspiracy gunk. It's laughably too late , but at least it's something. Numerous high profile QAnon figures were unceremoniously booted from Twitter after last week's attempted coup, as the social media platform finally decided it was done facilitating the dangerous conspiracy theory's spread. However, it seems the purge wasn't restricted to prominent personalities, with Twitter trying for a deeper clean.
+
+
+***
+![F-Secure Antivirus solutions review](https://cdn.mos.cms.futurecdn.net/ab8RGvHEhoDJimbQ2mwYf4-1200-80.jpg "F-Secure Antivirus solutions review")
+
+
+[F-Secure Antivirus solutions review](https://www.techradar.com/reviews/f-secure-2020-antivirus-solutions)
+
+
+> F-Secure Anti-virus deals Please note This is our all-in-one roundup reviewing every F-Secure consumer security solution for 2021. On this page, after our brief intro, you'll find (a) a full evaluation of the entry-level F-Secure Anti-Virus , along with our reviews of the additional features incorporated with the rest of the range:  (b) F-Secure SAFE , and (c) the top-end package F-Secure Total You can jump to the reviews of those individual products by clicking on the links in the bar at the top of this page, but bear in mind that this article is really designed to be read all the way through, as the features of F-Secure Anti-Virus are also present in the higher-level security suites, of course.
+
+
+***
+![Google is reportedly working on an app hibernation feature for Android 12](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/12/lawnchair-2-review-4.jpg "Google is reportedly working on an app hibernation feature for Android 12")
+
+
+[Google is reportedly working on an app hibernation feature for Android 12](https://www.androidcentral.com/google-reportedly-working-app-hibernation-feature-android-12)
+
+
+> Source: Joe Maring / Android Central Google may finally add an app hibernation feature to Android this year. A code change recently submitted to AOSP suggests the feature will arrive with Android 12. The first Android 12 Developer Preview is likely to be released next month. In little over a month from now, Google is expected to release the very first Android 12 Developer Preview. While Google hasn't confirmed any details yet, the folks over at XDA Developers have found evidence that suggests Android 12 could introduce a new app hibernation feature.
+
+
+***
+['Want to address some rumours.': Amid debate over updated Privacy Policy, WhatsApp issues clarification](https://www.freepressjournal.in/technology/want-to-address-some-rumours-amid-debate-over-updated-privacy-policy-whatsapp-issues-clarification)
+
+
+> No body in the article.
+
+
+***
+![Samsung's Galaxy S20 FE promises to unleash talent of aspiring content creators](https://sm.mashable.com/mashable_me/seo/9/9431/9431_2g63.jpg "Samsung's Galaxy S20 FE promises to unleash talent of aspiring content creators")
+
+
+[Samsung's Galaxy S20 FE promises to unleash talent of aspiring content creators](https://me.mashable.com/tech/12442/samsungs-galaxy-s20-fe-promises-to-unleash-talent-of-aspiring-content-creators)
+
+
+> Samsung has been a pioneer in the mobile handset industry from its early days, and has thrived in the smartphone era, even as other early players faded away. It has been crafting the evolution of smartphones for two decades, during which social media has taken centre stage. With netizens interacting across different parts of the world, social networks gave talented artists new avenues to find a global audience. Samsung has been empowering content creators with cutting edge innovation and tools to create visual marvels.
+
+
