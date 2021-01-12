@@ -2761,3 +2761,50 @@
 > Live chat (Slack, Teams, etc.) sucks for important discussions. Thinking one line at a time lowers the quality of the discussion. Knee jerk rapid fire responses become the norm. Conversations that last weeks or even days get lost and context gets fuzzy. Threads scroll up into the past and are never seen again. Despite the 'asychronous' claim, you have to keep a steady eye on it and reply in realtime or the conversation will move on without you. Anyone who takes the time to ponder and respond thoughtfully with context and explanation will find that they're too late.
 
 
+***
+![Former Alibaba driver sets himself alight over unpaid wage dispute](https://www.telegraph.co.uk/content/dam/technology/2019/03/11/TELEMMGLPICT000190632334_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Former Alibaba driver sets himself alight over unpaid wage dispute")
+
+
+[Former Alibaba driver sets himself alight over unpaid wage dispute](https://www.telegraph.co.uk/technology/2021/01/12/former-alibaba-driver-sets-alight-unpaid-wage-dispute/)
+
+
+> A delivery driver who had worked for the food delivery arm of Chinese tech giant Alibaba has set himself on fire in protest over unpaid wages. Liu Jin, a 45-year old driver, said he wanted his 'blood and sweat money back' after people ran towards him to put out the fire with extinguishers, the Financial Times reported. Workers' rights groups in China have alleged that pay per order for delivery drivers has slipped downward despite the sector going through a boom year with more people than every ordering takeaway food.
+
+
+***
+![Facebook staff told not to wear branded clothing after Trump suspension](https://www.telegraph.co.uk/content/dam/technology/2021/01/12/TELEMMGLPICT000234615570_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwRSOGacsd1HMjPYOCK7maxU.jpeg?impolicy=logo-overlay "Facebook staff told not to wear branded clothing after Trump suspension")
+
+
+[Facebook staff told not to wear branded clothing after Trump suspension](https://www.telegraph.co.uk/technology/2021/01/12/facebook-staff-told-not-wear-branded-clothing-trump-suspension/)
+
+
+> Facebook has told staff not to wear company-branded clothing, fearing the threat of physical attacks on staff after the social network suspended Donald Trump. A memo shared on Facebook's internal messaging system, first reported by the Information, warned workers: 'In light of recent events, and to err on the side of caution, global security is encouraging everyone to avoid wearing or carrying Facebook-branded items at this time.' Facebook founder Mark Zuckerberg last week made the decision to suspend the accounts of Mr Trump and his family "indefinitely" , following the president's encouragement of  protests which resulted in a deadly siege of the capitol.
+
+
+***
+![Adobe's new Creative Cloud update fixes CPU usage bug on macOS Big Sur](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2016/02/adobe-creative-cloud-mac-hero.jpg "Adobe's new Creative Cloud update fixes CPU usage bug on macOS Big Sur")
+
+
+[Adobe's new Creative Cloud update fixes CPU usage bug on macOS Big Sur](https://www.imore.com/adobes-new-creative-cloud-update-fixes-cpu-usage-bug-macos-big-sur)
+
+
+> Source: iMore Adobe today released a new update to its Creative Cloud app that fixes a bug that caused some users to experience unusually high CPU usage when running it on macOS Big Sur. While it didn't impact everyone, a number of people noticed that the Creative Cloud background processes would spin up the fans and run a Mac's CPU at 100% load. 9to5Mac notes that the CCXProcess and CCLibrary background processes were generally at fault and that the 16-inch MacBook Pro was the often the Mac impacted.
+
+
+***
+![There's No Excuse to Ignore Warnings of Domestic Terrorism](https://media.wired.com/photos/5ffd099fdaaf11fbcc7dc801/191:100/w_1280,c_limit/Oped-Trump-riots-1230457520.jpg "There's No Excuse to Ignore Warnings of Domestic Terrorism")
+
+
+[There's No Excuse to Ignore Warnings of Domestic Terrorism](https://www.wired.com/story/opinion-theres-no-excuse-to-ignore-warnings-of-domestic-terrorism/)
+
+
+> As we watched events unfold at the Capitol on January 6, for many of us the shock was not just at the violence itself, but also that the insurrection was so easy. The rioters present had talked extensively on publicly accessible social media about their plans to storm the Capitol and commit violence, and private citizens and law enforcement agencies had raised concerns with Capitol and DC police. Why wasn't this prevented, and why were we unprepared to respond? While others analyze the security failures of last Wednesday, we still face tense days until the inauguration and certainly afterward.
+
+
+***
+[New Chevy Bolt vehicles coming next month](https://mobilesyrup.com/2021/01/12/new-chevy-bolt-vehicles-coming-soon/)
+
+
+> After being pushed back, it looks like GM will pull back the curtain on the next two electric vehicles in the Bolt line. To be clear, neither of these vehicles are new. GM has been hinting at them for the past year, but now we know when the full reveals are coming. The first vehicle... The post New Chevy Bolt vehicles coming next month appeared first on MobileSyrup.
+
+
