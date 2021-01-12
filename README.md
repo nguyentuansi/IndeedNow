@@ -2526,3 +2526,53 @@
 > Of all the best VPN options out there, Surfshark has fast become one of the most popular. Yes, that may very well be down to its friendly, easy-to-use interface, slick mobile apps and site unblocking prowess, but a quick look at the Surfshark price and deals and it's easy to understand the real reason for its popularity.So while Surfshark is certainly classed as a cheap VPN in terms of price, that doesn't mean it scrimps on features. Far from it. It offers great speeds, Netflix unblocking, live chat support, use on unlimited devices at once and tight encryption security with plenty of protocol options.
 
 
+***
+![2021: A SPAC odyssey](https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=533 "2021: A SPAC odyssey")
+
+
+[2021: A SPAC odyssey](https://techcrunch.com/2021/01/12/2021-a-spac-odyssey/)
+
+
+> There are a number of ways to take a private company public: You can pursue a traditional IPO, sell a chunk of shares at a set price and start trading. You can direct list, and merely start to trade. You can host a hybrid auction-offering, like what Unity did. Hell, Google showed us back in the day that a reverse-Dutch auction is possible, after which no one else deigned to try it. And then there's the blank-check method: Instead of taking your company private, some rich people list a pile of hungry money instead, and then go hunting for a private company to merge with.
+
+
+***
+![Netflix is releasing a new movie weekly in 2021 – here's a trailer for 27 of them](https://cdn.mos.cms.futurecdn.net/GXpgF7tca4drkgLR7KMoyk-1200-80.jpg "Netflix is releasing a new movie weekly in 2021 – here's a trailer for 27 of them")
+
+
+[Netflix is releasing a new movie weekly in 2021 – here's a trailer for 27 of them](https://www.techradar.com/news/netflix-is-releasing-a-new-movie-weekly-in-2021-heres-a-trailer-for-27-of-them/)
+
+
+> Netflix has announced that it's releasing a new original movie every single week for the entirety of 2021. In addition, it's released a new smash cut trailer that offers a sneak peak at 27 of those movies – including Don't Look Up, a much-anticipated new movie from Adam McKay (The Big Short, Vice) that stars Jennifer Lawrence and Leonardo DiCaprio. Featured in the new trailer are the movies The Harder They Fall, Thunder Force, Bruised, Tick, Tick...Boom!, The Kissing Booth 3, To All The Boys: Always and Forever, The Woman in the Window, Escape From Spiderhead, Yes Day, Sweet Girl, Army of the Dead, Outside the Wire, Bad Trip, O2, Kate, The Last Mercenary, Monster, Moxie, The White Tiger, Double Dad, Back to the Outback, Beauty, Red Notice, Night Teeth and the aforementioned Don't Look Up.
+
+
+***
+![Samsung announces Exynos 2100, processor that will likely power the Galaxy S21 in India](https://images.financialexpress.com/2021/01/exynos.jpg "Samsung announces Exynos 2100, processor that will likely power the Galaxy S21 in India")
+
+
+[Samsung announces Exynos 2100, processor that will likely power the Galaxy S21 in India](https://www.financialexpress.com/industry/technology/samsung-announces-exynos-2100-processor-that-will-likely-power-the-galaxy-s21-in-india/2169690/)
+
+
+> Exynos 2100 will succeed the Exynos 990. Samsung announced the Exynos 2100, its most ‘advanced' ARM-based mobile processor with integrated 5G, on Tuesday. That is just two days before it is supposed to launch the Galaxy S21, its next high-end flagship Galaxy S phone for global markets. The real kicker is that this is the processor that will likely power the Galaxy S21 in India unless Samsung flips a switch or something and decides to launch it with Qualcomm's latest and greatest Snapdragon 888–that is the version expected to be sold internationally including in the US.
+
+
+***
+![Internet of Things Community - (IoT Community) Announces Its IoT Slam® 2021 Conferences, Commencing April 9th and June 24th, 2021](https://mms.businesswire.com/media/20210112005640/en/851742/23/IoT_Community_Logo_2021.jpg "Internet of Things Community - (IoT Community) Announces Its IoT Slam® 2021 Conferences, Commencing April 9th and June 24th, 2021")
+
+
+[Internet of Things Community - (IoT Community) Announces Its IoT Slam® 2021 Conferences, Commencing April 9th and June 24th, 2021](http://www.businesswire.com/news/home/20210112005640/en/Internet-of-Things-Community---IoT-Community-Announces-Its-IoT-Slam®-2021-Conferences-Commencing-April-9th-and-June-24th-2021/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> LONDON--(BUSINESS WIRE)--The IoT Community® (Internet of Things Community®), the world's largest community of corporate executives, IoT professionals and practitioners, and foremost IoT thought leadership association, today announced its schedule for the first half of 2021 of exclusive IoT Slam events commencing April 9th, in celebration of World IoT Day 2021, and the IoT Slam Live 2021, commencing June 24th held in partnership with the IEEE World Forum on the Internet of Things (June 20 - 24 2021), held at the Hilton Hotel, New Orleans Riverside, 2 Poydras Street, New Orleans, Louisiana, USA.
+
+
+***
+![Dell's XPS 13 laptop sale cuts the price down to just $749.99](https://cdn.mos.cms.futurecdn.net/EEVFBFtD2Qwx4sDAYgb9uJ-1200-80.jpg "Dell's XPS 13 laptop sale cuts the price down to just $749.99")
+
+
+[Dell's XPS 13 laptop sale cuts the price down to just $749.99](https://www.techradar.com/news/dells-xps-13-laptop-sale-cuts-the-price-down-to-just-dollar74999)
+
+
+> (Image credit: Future) An incredible laptop deal from Dell, you can get the XPS 13 on sale for $749.99 right now when you apply the coupon code 50OFF699 at checkout. That's a total saving of $359, and a fantastic price for the powerful 13-inch laptop. Dell XPS 13 Laptop: $1,108.99 $749.99 at Dell Save $359 - The 2019 baseline spec Dell XPS 13 is going for an incredible price right now, thanks to the additional $50 discount when you apply the coupon code 50OFF699 at checkout. Built to take on any task, the laptop packs a 10th gen Intel i7-10510U processor, 8GB of RAM, and 256GB SSD.
+
+
