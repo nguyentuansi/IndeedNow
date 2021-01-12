@@ -2626,3 +2626,50 @@
 > For the past three years, the Taiwan Ministry of Science and Technology (MOST) has brought startups to CES . This year, its virtual pavilion, organized with Taiwan Tech Arena , is hosting 100 startups, organized into five categories: Smart Living, Tech for Good, Cybersecurity and Cloud, Healthcare and Wellness, and Mobility Tech. During two press events, 24 startups previewed their CES presentations, giving a sneak peek at what the pavilion will showcase. In a press conference on Sunday, MOST's head, Wu Tsung-tsong, said the pavilion's goal is to help startups expand into more markets and find international investors.
 
 
+***
+![CORRECTING and REPLACING VMware Recognized as a 2021 Gartner Peer Insights Customers' Choice for Unified Endpoint Management (UEM)](https://mms.businesswire.com/media/20210112005095/en/782362/23/4284573_300DPIxVMware-logo-grey_highres_.jpg "CORRECTING and REPLACING VMware Recognized as a 2021 Gartner Peer Insights Customers' Choice for Unified Endpoint Management (UEM)")
+
+
+[CORRECTING and REPLACING VMware Recognized as a 2021 Gartner Peer Insights Customers' Choice for Unified Endpoint Management (UEM)](http://www.businesswire.com/news/home/20210112005095/en/CORRECTING-and-REPLACING-VMware-Recognized-as-a-2021-Gartner-Peer-Insights-Customers’-Choice-for-Unified-Endpoint-Management-UEM/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> PALO ALTO, Calif.--(BUSINESS WIRE)--In the headline and first paragraph of release, year should read: 2021 Gartner Peer Insights (instead of 2020 Gartner Peer Insights). The updated release reads: VMWARE RECOGNIZED AS A 2021 GARTNER PEER INSIGHTS CUSTOMERS' CHOICE FOR UNIFIED ENDPOINT MANAGEMENT (UEM) Gartner Peer Insights Customers' Choice Distinction Is Based on Feedback and Ratings from IT Professionals VMware, Inc. (NYSE: VMW) today announced it has been named the 2021 Gartner Peer Insights Customers' Choice for Unified Endpoint Management (UEM).
+
+
+***
+![This new Oppo phone is the iPhone 12 Pro Apple wishes it could make](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/03/oppo-find-x2-16.jpg "This new Oppo phone is the iPhone 12 Pro Apple wishes it could make")
+
+
+[This new Oppo phone is the iPhone 12 Pro Apple wishes it could make](https://www.androidcentral.com/leaked-oppo-find-x3-pro-images-shows-intriguing-new-camera)
+
+
+> Source: Alex Dobie / Android Central New renders showing off the Oppo Find X3 Pro have leaked online. The renders show off the color choices and camera layout of the upcoming phone. Oppo will launch the Find X3-line in early spring 2021. Oppo is planning to enter 2021 swinging, and new leaked renders put a visual to the already impressive-sounding Oppo Find X3 Pro (via Evan Blass). Back in December, reports had already emerged with details regarding the phone, painting an impressive picture. Like all the best Android phones of 2021, it'll be powered by a high-end Qualcomm chip, specifically the Snapdragon 888 that's also set to feature in the S21.
+
+
+***
+![Nintendo Is Releasing Its Mario-Themed Switch Console Next Month](https://www.androidheadlines.com/wp-content/uploads/2021/01/Mario-Nintendo-Swtich.jpg "Nintendo Is Releasing Its Mario-Themed Switch Console Next Month")
+
+
+[Nintendo Is Releasing Its Mario-Themed Switch Console Next Month](https://www.androidheadlines.com/2021/01/nintendo-switch-mario-limited-edition-console-gaming.html)
+
+
+> Nintendo is gearing up to finally release the Switch console themed after its most iconic character, Mario.The new limited edition Nintendo Switch features brightly hued reds, blues, and yellows to mimic the colors of Mario's outfit. And it can be yours in the very near future if you're one to collect this kind of stuff.The Mario Red & Blue Edition Nintendo Switch will be the same cost as any other Switch variant. But the issue isn't whether or not the console has a higher retail price tag. Rather, it's an issue of whether or not you'll actually be able to get one at retail cost right away.
+
+
+***
+[How to cancel Apple Music](https://www.thesun.ie/tech/6404984/how-to-cancel-apple-music/)
+
+
+> APPLE Music gives sound lovers access to 70 million ad-free songs for just £9.99 per month – and you can cancel your subscription at any time. So what happens when you want to stop the music? Here are all the ways you can cancel your Apple Music account. How do I cancel Apple Music? If […]
+
+
+***
+![How to cancel Apple Music](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2019/12/NINTCHDBPICT000543407032-e1575577952437.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "How to cancel Apple Music")
+
+
+[How to cancel Apple Music](https://www.thesun.co.uk/tech/13669690/how-to-cancel-apple-music/)
+
+
+> APPLE Music gives sound lovers access to 70 million ad-free songs for just £9.99 per month – and you can cancel your subscription at any time. So what happens when you want to stop the music? Here are all the ways you can cancel your Apple Music account. Apple Music has 72 million subscribers worldwide How do I cancel Apple Music? If you have an iPhone, iPad, or iPod, you can cancel your music via general settings. Open the Settings app on your device.Tap your name at the top of the screen.Select Subscriptions.
+
+
