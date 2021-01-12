@@ -2094,3 +2094,53 @@
 > Samsung has been a pioneer in the mobile handset industry from its early days, and has thrived in the smartphone era, even as other early players faded away. It has been crafting the evolution of smartphones for two decades, during which social media has taken centre stage. With netizens interacting across different parts of the world, social networks gave talented artists new avenues to find a global audience. Samsung has been empowering content creators with cutting edge innovation and tools to create visual marvels.
 
 
+***
+![SC to deliver verdict on Ranjans contempt of court case shortly](https://adaderanaenglish.s3.amazonaws.com/1610427491-Ranjan-Ramanayake-Contempt-of-Court-Case-L.jpg "SC to deliver verdict on Ranjans contempt of court case shortly")
+
+
+[SC to deliver verdict on Ranjans contempt of court case shortly](http://www.adaderana.lk/news/70689/sc-to-deliver-verdict-on-ranjans-contempt-of-court-case-shortly)
+
+
+> January 12, 2021   10:22 am - The Supreme Court is expected to deliver the verdict on the contempt of court case against Parliamentarian Ranjan Ramanayake shortly, says Ada Derana correspondent. Last month, the Supreme Court judge bench scheduled further clarifications on the contempt of court case for today (January 12). The case was filed against former State Minister Ranjan Ramanayake over Contempt of Court charges for making defamatory remarks against the judiciary on the 21st of August in 2017.
+
+
+***
+![WhatsApp broke a privacy promise to its users and that is how tech companies work](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/whatsapp-new-privacy-policy-483x271_1200_210112130553.jpeg "WhatsApp broke a privacy promise to its users and that is how tech companies work")
+
+
+[WhatsApp broke a privacy promise to its users and that is how tech companies work](https://www.indiatoday.in/technology/news/story/whatsapp-broke-a-privacy-promise-to-its-users-and-that-is-how-tech-companies-work-1758254-2021-01-12)
+
+
+> WhatsApp has revised its privacy policy where it reportedly intends to share more data with Facebook. WhatsApp users will have to accept the new privacy policy by February 8, 2021. Ketan Pratap | January 12, 2021 | Updated 12:43 IST WhatsApp's in-app notification about update to its privacy policy
+
+
+***
+![Airtel Rs 349 prepaid plan gives 2GB daily data with Amazon Prime subscription, check other such plans](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-12_at_10_1200_210112111700.58-483x271.png "Airtel Rs 349 prepaid plan gives 2GB daily data with Amazon Prime subscription, check other such plans")
+
+
+[Airtel Rs 349 prepaid plan gives 2GB daily data with Amazon Prime subscription, check other such plans](https://www.indiatoday.in/technology/news/story/airtel-rs-349-prepaid-plan-gives-2gb-daily-data-with-amazon-prime-subscription-check-other-such-plans-1758224-2021-01-12)
+
+
+> It is common for telcos to offer Disney+ Hotstar and Zee5 Premium. However, Airtel's Rs 349 prepaid plan is the only plan at this price point that gives a subscription to Amazon Prime, which makes it unique. Yasmin Ahmed | January 12, 2021 | Updated 11:08 IST
+
+
+***
+![Nokia may launch four 5G phones in 2021, including Nokia 8.4, 5.5, and 9.3 PureView](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/nokia_reuters-483x271_1200_210112130526.png "Nokia may launch four 5G phones in 2021, including Nokia 8.4, 5.5, and 9.3 PureView")
+
+
+[Nokia may launch four 5G phones in 2021, including Nokia 8.4, 5.5, and 9.3 PureView](https://www.indiatoday.in/technology/news/story/nokia-may-launch-four-5g-phones-in-2021-including-nokia-8-4-5-5-and-9-3-pureview-1758261-2021-01-12)
+
+
+> HMD Global is said to be working on four new handsets that will feature 5G connectivity. Shubham Verma | January 12, 2021 | Updated 12:48 IST Source: Reuters
+
+
+***
+![iQOO 7 launched, brings Snapdragon 888 SoC and triple cameras](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/iqoo_713-483x271_1200_210112130545.png "iQOO 7 launched, brings Snapdragon 888 SoC and triple cameras")
+
+
+[iQOO 7 launched, brings Snapdragon 888 SoC and triple cameras](https://www.indiatoday.in/technology/news/story/iqoo-7-launched-brings-snapdragon-888-soc-and-triple-cameras-1758256-2021-01-12)
+
+
+> iQOO 7 offers a 120Hz display, and goes really big on charging with its 120W fast charging support. Sushant Talwar | January 12, 2021 | Updated 12:43 IST
+
+
