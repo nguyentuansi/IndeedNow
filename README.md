@@ -2673,3 +2673,44 @@
 > APPLE Music gives sound lovers access to 70 million ad-free songs for just £9.99 per month – and you can cancel your subscription at any time. So what happens when you want to stop the music? Here are all the ways you can cancel your Apple Music account. Apple Music has 72 million subscribers worldwide How do I cancel Apple Music? If you have an iPhone, iPad, or iPod, you can cancel your music via general settings. Open the Settings app on your device.Tap your name at the top of the screen.Select Subscriptions.
 
 
+***
+[WhatsApp clarifies its new data sharing policy, which relates mostly to businesses, following a backlash and recent surge of Telegram and Signal (Nick Statt/The Verge)](http://www.techmeme.com/210112/p32#a210112p32)
+
+
+> Nick Statt / The Verge: WhatsApp clarifies its new data sharing policy, which relates mostly to businesses, following a backlash and recent surge of Telegram and Signal — The company is trying to contain fallout over a privacy policy update — WhatsApp has published a new FAQ page to its website outlining …
+
+
+***
+[Chinese authorities are ramping up the use of digital tools to clamp down on Hong Kong activists, including website blocking, as some fear broader surveillance (Shibani Mahtani/Washington Post)](http://www.techmeme.com/210112/p31#a210112p31)
+
+
+> Shibani Mahtani / Washington Post: Chinese authorities are ramping up the use of digital tools to clamp down on Hong Kong activists, including website blocking, as some fear broader surveillance — HONG KONG — The police officers who came to take away Owen Chow on national security grounds last week left little to chance.
+
+
+***
+![Sony Airpeak drone release date, price, rumors and news](https://cdn.mos.cms.futurecdn.net/mqkw7MTAFmr5eN6C2gveWf-1200-80.jpg "Sony Airpeak drone release date, price, rumors and news")
+
+
+[Sony Airpeak drone release date, price, rumors and news](https://www.techradar.com/news/sony-airpeak-drone-release-date-price-rumors-and-leaks)
+
+
+> The Sony Airpeak drone has officially landed, with Sony giving us our first glimpse of the new flying machine at CES 2021.And what an entrance it was, with Airpeak filmed soaring above a snowy landscape and carrying a Sony A7S III, as it kept pace with a prototype Sony Vision S car at a race track.The short demo video emphatically answered our main question about Sony Airpeak  – what kind of drone will it be? With its mildly terrifying wingspan, nifty retractable landing gear and high-end Sony Alpha payload, there's no doubt that this will (for now) be a drone for professional cinematographers.
+
+
+***
+[Just published my first project and very excited. I need your feedback!](https://www.reddit.com/r/Python/comments/kvxbxh/just_published_my_first_project_and_very_excited/)
+
+
+> submitted by /u/gingermuffinfox [link] [comments]
+
+
+***
+![I made a Photomosaic Generator tool during this quarantine. Works with all types of images. Doesn't matter what shape the image is, it will automatically trim it into square images and produce a photomosaic whose quality and resolution can be user adjusted.](https://external-preview.redd.it/gu1dsEntOw3cru8X4wetvLWPF1-x7dezRhnZ6bhTQ9s.jpg?auto=webp&s=632d6cbd794bc90b6f524ee9900610f6f4700221 "I made a Photomosaic Generator tool during this quarantine. Works with all types of images. Doesn't matter what shape the image is, it will automatically trim it into square images and produce a photomosaic whose quality and resolution can be user adjusted.")
+
+
+[I made a Photomosaic Generator tool during this quarantine. Works with all types of images. Doesn't matter what shape the image is, it will automatically trim it into square images and produce a photomosaic whose quality and resolution can be user adjusted.](https://www.reddit.com/r/Python/comments/kvxb6f/i_made_a_photomosaic_generator_tool_during_this/)
+
+
+> I made a Photomosaic Generator tool during this quarantine. Works with all types of images. Doesn't matter what shape the image is, it will automatically trim it into square images and produce a photomosaic whose quality and resolution can be user adjusted.
+
+
