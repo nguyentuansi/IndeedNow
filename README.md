@@ -2958,3 +2958,50 @@
 > With working from home more popular than ever, videoconferencing services like Google Meet and Zoom are proving to be invaluable resources for small businesses, major corporations, and everyday netizens alike. Google Meet has only been on the market since 2017, but Google released a free version of Meet in late April 2020 in response to gaining 100 million daily users due to global restrictions on working at the office. Zoom remains the king of the heap, with over 200 million daily users and a bevy of sophisticated features.
 
 
+***
+![ASUS' ROG Claymore II Is The Gaming Keyboard For Numpad Diehards](https://www.androidheadlines.com/wp-content/uploads/2021/01/ASUS-ROG-Claymore-II.jpg "ASUS' ROG Claymore II Is The Gaming Keyboard For Numpad Diehards")
+
+
+[ASUS' ROG Claymore II Is The Gaming Keyboard For Numpad Diehards](https://www.androidheadlines.com/2021/01/asus-rog-claymore-ii-mechanical-gaming-keyboard-rgb-fullsize-tenkeyless.html)
+
+
+> Today at CES 2021 ASUS officially announced a slew of different gaming products under its ROG brand, one of those being the Claymore II mechanical gaming keyboard.Like most other gaming keyboard options out there the ROG Claymore II has RGB backlit keys and it uses mechanical switches. Unlike those options though, the Claymore II has a slightly transformative design. Making it a fantastic option for numpad diehards. Specifically those who are open to getting rid of the numpad but are finding it hard to let go of.
+
+
+***
+![Freelancing For Python Developers Instantly/Without Interviews](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Freelancing For Python Developers Instantly/Without Interviews")
+
+
+[Freelancing For Python Developers Instantly/Without Interviews](https://www.reddit.com/r/Python/comments/kw2snz/freelancing_for_python_developers/)
+
+
+> **This is a repost from a few months ago. My platform has come a long way since then and I am trying to see if anybody else is interested in this. We are currently preparing for the initial Alpha launch as the product is ready to go** Hey everybody, I've been developing a platform that lets freelancers/contract workers start working immediately on projects. The emphasis is on longer-term work and matches you to a company that needs a project done instantly. It basically guarantees that you get work based on what you're qualified to do, and allows you to spend a lot more time earning and a lot less time searching.
+
+
+***
+![Razer unveils smart mask, video game throne that can totally immerse you in 'Fortnite'](https://www.gannett-cdn.com/presto/2021/01/12/USAT/6ec35528-36f9-44d3-8836-927cd607aa9f-02_side.png?crop=1911,1075,x0,y0&width=1600&height=800&fit=bounds "Razer unveils smart mask, video game throne that can totally immerse you in 'Fortnite'")
+
+
+[Razer unveils smart mask, video game throne that can totally immerse you in 'Fortnite'](https://www.usatoday.com/story/tech/2021/01/12/razer-video-game-chair-covid-face-mask-shown-ces-2021/6632356002/)
+
+
+> CLOSE Razer's Project Brooklyn concept video game chair has a 60-inch flexible OLED panoramic display that rolls out and retracts. USA TODAYVideo games often deliver futuristic outlooks with adventures such as "Halo" and "The Last of Us." But game hardware company Razer has an imaginative vision of how you might play games in the near future: the Project Brooklyn concept gaming chair.The carbon fiber-constructed gaming chair, unveiled at the CES tech trade show Tuesday, has a 60-inch flexible OLED panoramic display that rolls out and retracts, surrounding your field of vision.
+
+
+***
+![Nvidia's graphics card lineup just got a whole lot more confusing at CES 2021](https://cdn.mos.cms.futurecdn.net/7UQggFNTw7mRPsFh3CqP3S-1200-80.jpg "Nvidia's graphics card lineup just got a whole lot more confusing at CES 2021")
+
+
+[Nvidia's graphics card lineup just got a whole lot more confusing at CES 2021](https://www.techradar.com/news/nvidias-graphics-card-lineup-just-got-a-whole-lot-more-confusing-at-ces-2021)
+
+
+> At CES 2021, Nvidia launched a wide range of graphics cards, both for laptops and even a new Ampere desktop graphics card: the Nvidia GeForce RTX 3060. One of the big things I noticed, however, is that a couple of the SKUs now have an inflated VRAM spec, and it kind of makes the entire Nvidia RTX 3000 lineup a bit confusing. At the top-end of the new mobile stack you have the RTX 3080 with 16GB, but the RTX 3080 for desktop has 10GB. Similarly, the Nvidia GeForce RTX 3060 has 12GB of VRAM, while the RTX 3060 Ti – a graphics card that should be more powerful and is 20% more expensive – has less VRAM at 8GB.
+
+
+***
+[5 CES Trends to Watch](https://www.mymotherlode.com/news/technology/1474568/5-ces-trends-to-watch.html)
+
+
+> CES, the annual gadget show that showcases the buzziest and brightest tech, looks different this year — less Vegas glitz, more internet efficiency
+
+
