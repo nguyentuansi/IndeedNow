@@ -2194,3 +2194,53 @@
 > Out of nowhere, Microsoft on Monday introduced a new Surface Pro 2-in-1 tablet with a removable SSD and 4G LTE. The new Surface Pro 7 Plus is only available to businesses and schools, Microsoft says. That means the company intends to sell the Surface Pro 7 Plus to organizations and not to consumers. The refreshed version of the Surface Pro 7 does not look different from the Surface Pro 7 in terms of design language. The new model has the same 12.3-inch (2736 x 1824) PixelSense display as the regular  Surface Pro 7, with a single USB-C port, a USB-A port, a 3.
 
 
+***
+![TikTok's confetti effect uses iPhone 12 Pro's LiDAR sensor](https://sm.mashable.com/t/mashable_me/news/t/tiktoks-ne/tiktoks-new-confetti-effect-uses-iphone-12-pros-lidar-sensor_b4z1.1200.jpg "TikTok's confetti effect uses iPhone 12 Pro's LiDAR sensor")
+
+
+[TikTok's confetti effect uses iPhone 12 Pro's LiDAR sensor](https://me.mashable.com/tech/12501/tiktoks-confetti-effect-uses-iphone-12-pros-lidar-sensor)
+
+
+> One of the most prominently advertised new features of the iPhone 12 Pro was its LiDAR sensor, which enables some cool augmented reality effects thanks to its ability to position objects precisely in 3D space. The only problem is that actual use cases for the feature are still few and far between. This is (slowly) changing. TikTok has announced a new AR effect, its first to take advantage of the LiDAR sensor (meaning you have to have the iPhone 12 Pro or the iPhone 12 Pro Plus to use it). The effect displays a virtual Times Square-like disco ball above a person's head; when the counter on the ball reaches zero, it explodes and a "2021" sign pops up while the person (along with any furniture in the frame) is covered in virtual confetti.
+
+
+***
+![Samsung's $156,000 TV comes with a solar-powered remote](https://sm.mashable.com/t/mashable_me/news/s/samsungs-n/samsungs-new-156000-tv-comes-with-a-solar-powered-remote_kmka.1200.jpg "Samsung's $156,000 TV comes with a solar-powered remote")
+
+
+[Samsung's $156,000 TV comes with a solar-powered remote](https://me.mashable.com/tech/12504/samsungs-156000-tv-comes-with-a-solar-powered-remote)
+
+
+> CES is almost upon us, which means it's time to learn about some wildly ambitious (and expensive) TVs that most people can't afford or accommodate.  Samsung got the party started on Wednesday by announcing a line of new TVs coming in 2021. There are more traditional 4K and 8K QLED sets that look very nice, but we're going to focus on the new Micro LED line from Samsung. Originally launched in Korea last year, Samsung is bringing its 110-inch behemoth to the west in 2021 along with "smaller" 99-inch and 88-inch models.
+
+
+***
+![Checkout.com Gets $15B Valuation In Funding Round Led By Tiger Global](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/checkout.jpeg "Checkout.com Gets $15B Valuation In Funding Round Led By Tiger Global")
+
+
+[Checkout.com Gets $15B Valuation In Funding Round Led By Tiger Global](https://www.benzinga.com/fintech/21/01/19114902/checkout-com-gets-15b-valuation-in-funding-round-led-by-tiger-global)
+
+
+> Checkout.com  received a $15 billion valuation in its latest funding round led by Tiger Global Management LLC, according to the CEO of the London-based online payment solutions provider, Guillaume Pousaz. What Happened : Checkout.com raised $450 million in proceeds in the Series C round. The consortium of investors also included Greenoaks Capital Management, venture capital firm Insight Venture Partners, Coatue Management, and DST Global. "This latest fundraise reflects our market-leading position and the size of our aspirations as we accelerate in our mission to empower merchants to build better products, drive more revenue and create innovative business models by reimagining interactions with financial services," Pousaz said in a statement.
+
+
+***
+![Elon Musk's endorsement of Signal is causing the good kind of problems](https://sm.mashable.com/t/mashable_me/news/e/elon-musks/elon-musks-endorsement-of-signal-is-causing-the-good-kind-of_4a99.1200.jpg "Elon Musk's endorsement of Signal is causing the good kind of problems")
+
+
+[Elon Musk's endorsement of Signal is causing the good kind of problems](https://me.mashable.com/tech/12496/elon-musks-endorsement-of-signal-is-causing-the-good-kind-of-problems)
+
+
+> So many people are joining Signal that there's now a wait.  The end-to-end encrypted messaging app endorsed by the likes of Edward Snowden got a major (ahem) signal boost Thursday when Elon Musk tweeted his support . Soon after, Signal announced that the tidal wave of new downloads was having an unintended effect.  "Verification codes are currently delayed across several providers because so many new people are trying to join Signal right now (we can barely register our excitement)," wrote the nonprofit .
+
+
+***
+![Here are all the new Pixar projects coming to Disney+](https://www.gannett-cdn.com/presto/2021/01/11/USAT/cb51949d-d6c1-4f3f-8181-4ceac41bfd3e-lightyear.png?crop=1593,897,x6,y0&width=1600&height=800&fit=bounds "Here are all the new Pixar projects coming to Disney+")
+
+
+[Here are all the new Pixar projects coming to Disney+](https://www.usatoday.com/story/tech/reviewedcom/2021/01/11/here-all-new-pixar-projects-coming-disney-plus/6625409002/)
+
+
+> "Lightyear" will star Chris Evans as Buzz Lightyear.   (Photo: PIXAR) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. To this year and beyond! Pixar Animation Studios is on a roll with new releases, coming out of the holiday season having just released Soul  on Disney+, along with Pixar short Burrow . But why stop there? Investor Day 2020 unveiled a lot of great projects coming to Disney+ in the next few years, including Pixar Animation Studios' first-ever animated original series, an Up spinoff, and more.
+
+
