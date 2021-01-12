@@ -1756,3 +1756,53 @@
 > Source: Apple Apple has landed a sci-fi comedy-drama from Andy Samberg and Ben Stiller. It comes from the mind behind Bojack Horseman and the writer of Palm Springs. As reported by The Hollywood Reporter, Apple TV+ has landed a new project from Andy Samberg and Ben Stiller. Samberg has teamed up once again with Andy Siara, the writer of Palm Springs, from an untitled sci-fi comedy-drama. According to the report, Apple finalized the deal for the project over the weekend after a competition with other studios.
 
 
+***
+![College football live stream 2021: how to watch every game online from anywhere](https://cdn.mos.cms.futurecdn.net/eKpV4uwCGx4XzirbLmTt3m-1200-80.jpg "College football live stream 2021: how to watch every game online from anywhere")
+
+
+[College football live stream 2021: how to watch every game online from anywhere](https://www.techradar.com/news/college-football-live-stream-how-to-watch-2020-21-ncaa-games-online-from-anywhere)
+
+
+> After months of wondering if there would even be a 2020/21 college football season, the NCAA hit the gridiron again with a schedule packed full of rivalry games and chances to glimpse the NFL stars of tomorrow - all leading to an opportunity to watch a 2021 college football National Championship live stream: Ohio State vs Alabama tonight For more background, keep reading to find out how to get a college football live stream from wherever you are in the world.All of the college football teams participating this year will play 15 weeks of games and the majority of these matches will be held on Saturday though there will be a few Friday games as well this season.
+
+
+***
+![CES 2021: Sony shows off its Airpeak drone for the first time – and it's no DJI rival](https://cdn.mos.cms.futurecdn.net/mqkw7MTAFmr5eN6C2gveWf-1200-80.jpg "CES 2021: Sony shows off its Airpeak drone for the first time – and it's no DJI rival")
+
+
+[CES 2021: Sony shows off its Airpeak drone for the first time – and it's no DJI rival](https://www.techradar.com/news/ces-2021-sony-shows-off-its-airpeak-drone-for-the-first-time-and-its-no-dji-rival/)
+
+
+> The mysterious Sony Airpeak drone has been shown off for the first time at CES 2021 – and it's not quite the DJI rival we'd been hoping for. Sony first announced the Airpeak drone project in November 2020, but didn't reveal any images or details about the kind of flying machine it had in store. Well, we've now seen some short videos of Airpeak in action at CES 2021 – and it's fair to say it's aimed at the high-end professional market. What we're looking at is a pro rival to the likes of the DJI Inspire 2, rather than affordable consumer drones like the DJI Mavic Air 2.
+
+
+***
+![Parler sues Amazon after going offline](https://techcrunch.com/wp-content/uploads/2021/01/aws-parler1.jpg?w=711 "Parler sues Amazon after going offline")
+
+
+[Parler sues Amazon after going offline](https://techcrunch.com/2021/01/11/daily-crunch-parler-sues-amazon-after-going-offline/)
+
+
+> Platforms and infrastructure providers dump Parler, Microsoft unveils a new Surface and a Chinese fitness app raises $360 million. This is your Daily Crunch for January 11, 2021. The big story: Parler sues Amazon after going offline President Donald Trump has found himself banned from most of the major social media and internet platforms, with companies pointing to his role in inciting the violent takeover of the U.S. Capitol last week, as well as his continuing statements expressing support for the rioters.
+
+
+***
+![TaxAct](https://cdn.mos.cms.futurecdn.net/grxayzh2VskL7z2tkgSGka-1200-80.jpg "TaxAct")
+
+
+[TaxAct](https://www.techradar.com/reviews/taxact)
+
+
+> TaxAct has done a decent job uprating its latest edition that comes with improved features and functions that help to make it a little more appealing. TaxAct, like all of the other tax filing software packages, has been updated to reflect the challenging times we all face during the coronavirus crisis. The online tax solution packs in several enhancements for this year that take into account the likes of stimulus payments and there are improved tools for speeding up the time it takes to complete tax returns.
+
+
+***
+![Tech Giants Join Corporate Reckoning Over Political Spending](https://media.npr.org/assets/img/2021/01/11/gettyimages-1064921404_wide-66b3c9016f87600311763a9d4962baa1a4fd3077.jpg?s=1400 "Tech Giants Join Corporate Reckoning Over Political Spending")
+
+
+[Tech Giants Join Corporate Reckoning Over Political Spending](https://www.npr.org/2021/01/11/955709181/tech-giants-join-corporate-reckoning-over-political-spending)
+
+
+> Alfred Gescheidt/Getty Images Facebook, Microsoft and Google have joined a growing list of big banks and other major companies pausing their political spending following last week's violent attack on the U.S. Capitol. One after another, corporate responses have escalated. Some have suspended donations to lawmakers who objected to the certification of the election. Many have halted all of their political donations for a few months. A few went as far as to support the removal of the president. "The outgoing president incited violence in an attempt to retain power, and any elected leader defending him is violating their oath to the Constitution and rejecting democracy in favor of anarchy," said National Association of Manufacturers CEO Jay Timmons, urging Vice President Mike Pence to consider invoking the 25th Amendment that allows removal of a president deemed unfit to serve.
+
+
