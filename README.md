@@ -2476,3 +2476,53 @@
 > PRINCETON, N.J.--(BUSINESS WIRE)--CitiusTech, a leading provider of healthcare technology services and solutions, announced today that Anne McGeorge, former Managing Partner of Grant Thornton's Global Health Care and Life Sciences Practices, has joined its Board of Directors and chair of the Audit Committee. Ms. McGeorge comes with over 35 years of experience advising healthcare clients in all aspects of finance and transformational change, including strategy, M&A, joint ventures, financial statement audits, corporate restructuring, governance, talent acquisition, executive compensation, IRS matters and risk management.
 
 
+***
+![Smart Textiles and Wearables Newsletter Service - ResearchAndMarkets.com](https://mms.businesswire.com/media/20210112005724/en/371054/23/ResearchAndMarkets_800px.jpg "Smart Textiles and Wearables Newsletter Service - ResearchAndMarkets.com")
+
+
+[Smart Textiles and Wearables Newsletter Service - ResearchAndMarkets.com](http://www.businesswire.com/news/home/20210112005724/en/Smart-Textiles-and-Wearables-Newsletter-Service---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Smart Textiles and Wearables - Monthly Newsletter" newsletter has been added to ResearchAndMarkets.com's offering. At the interface of soft materials and electronics The convergence of advanced fabrics and electronics has come a long way since the first issue of Smart Textiles and Nanotechnology was launched at the end of 2006 - coincidentally just before the launch of the iPhone, which made many developments of the time instantly superfluous. In 2020, this crucial monthly publication was renamed Smart Textiles and Wearables to better reflect all the progress that is now being made in the age of the Internet of Things (IoT), continuous miniaturisation, 3D printing and soft materials, in such fields as robotics and industrial manufacturing, healthcare and the next generation of consumer products.
+
+
+***
+![How to watch Super Bowl halftime show 2021 online: who are the performers and when's it on](https://cdn.mos.cms.futurecdn.net/aEhK54oystcJ3HUiyRxYRN-1200-80.jpg "How to watch Super Bowl halftime show 2021 online: who are the performers and when's it on")
+
+
+[How to watch Super Bowl halftime show 2021 online: who are the performers and when's it on](https://www.techradar.com/news/how-to-watch-super-bowl-halftime-show-2020-online-who-are-the-performers-and-whens-it-on)
+
+
+> The start of the 2020/21 NFL season heralded an uncertain time for football. Between game delays, player outbreaks, and fan-less stadiums, the Covid-19 pandemic hit the NFL in a number of unique ways. With strict restrictions in place, half-time performances were initially banned at the beginning of the season, but it looks like we might be clear to enjoy the spectacle of the biggest half-time of the year - the Super Bowl. The Weeknd was booked for the biggest gig of the year in November, with the NFL and its new partner Roc Nation celebrating the Canadian pop star's impressive career so far.
+
+
+***
+![Samsung Galaxy S21 chipset reveal hints at even more new camera features](https://cdn.mos.cms.futurecdn.net/353pzYZTvGT3dZgKBDFe9a-1200-80.jpg "Samsung Galaxy S21 chipset reveal hints at even more new camera features")
+
+
+[Samsung Galaxy S21 chipset reveal hints at even more new camera features](https://www.techradar.com/news/samsung-galaxy-s21-chipset-reveal-hints-at-even-more-new-camera-features)
+
+
+> The Samsung Galaxy S20 Ultra from 2020 (Image credit: Future) The Samsung Galaxy S21 launch date is very soon, and the company has begun teasing features of the upcoming phone. First was a trailer for the Samsung Unpacked launch event, and now the company has launched its new Exynos 2100 chipset.Samsung unveiled its new chipset on a YouTube livestream two days before we're expecting the Galaxy S21 to launch - that's set for January 14.This chipset is what we'll likely see in Galaxy S21 phones in Europe and Asia, as opposed to models elsewhere that are heavily rumored to be using Qualcomm's Snapdragon equivalent.
+
+
+***
+![LG Gallery Series OLED TV (OLED65GX)](https://cdn.mos.cms.futurecdn.net/NBMkxdzy5B69mKX2RptpLK-1200-80.jpg "LG Gallery Series OLED TV (OLED65GX)")
+
+
+[LG Gallery Series OLED TV (OLED65GX)](https://www.techradar.com/reviews/lg-gallery-gx-oled-tv)
+
+
+> The LG GX Gallery Series OLED is a feat of engineering and a home cinema lover's dream. If you have the money for an installer to properly hide the cables and a home theater to put it in, it's an immaculately beautiful TV both inside and out. LG Gallery OLED TV deals Low Stock LG OLED55GXPUA 55 inch GX 4K... Amazon $1,996.99 View LG GXPUA 55" Class HDR 4K UHD... BHPhoto $1,996.99 View Reduced Price LG OLED55GXP 55" OLED Gallery... World Wide Stereo $2,699.99 $1,996.99 View LG 55" Class GXPUA Series 4K.
+
+
+***
+![Surfshark price, free trial and discounts: the best Surfshark deals in 2021](https://cdn.mos.cms.futurecdn.net/6VzZ7RU3eucApD2fbBP9sg-1200-80.jpg "Surfshark price, free trial and discounts: the best Surfshark deals in 2021")
+
+
+[Surfshark price, free trial and discounts: the best Surfshark deals in 2021](https://www.techradar.com/vpn/surfshark-price-free-trial-deals-discounts-offers)
+
+
+> Of all the best VPN options out there, Surfshark has fast become one of the most popular. Yes, that may very well be down to its friendly, easy-to-use interface, slick mobile apps and site unblocking prowess, but a quick look at the Surfshark price and deals and it's easy to understand the real reason for its popularity.So while Surfshark is certainly classed as a cheap VPN in terms of price, that doesn't mean it scrimps on features. Far from it. It offers great speeds, Netflix unblocking, live chat support, use on unlimited devices at once and tight encryption security with plenty of protocol options.
+
+
