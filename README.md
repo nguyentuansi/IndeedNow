@@ -1953,3 +1953,50 @@
 > By Joe Tidy Cyber reporter image copyright Getty Images If you ever needed proof of the power of "Big Tech" then the downfall of Parler on Monday morning is a good place to start. I, like many others, logged on to the controversial social network to see what would happen after 11:59 Pacific Time in the US. This was the deadline Amazon had given the app to find a new host service before it booted the platform offline for allegedly containing violent content. It was being seen as a significant moment in ongoing efforts by US tech giants to "deplatform" Donald Trump and some of his extreme supporters after the US Capitol Hill riot last week.
 
 
+***
+![Checkout.com raises $450 million and reaches $15 billion valuation](https://techcrunch.com/wp-content/uploads/2021/01/jp-valery-lVFoIi3SJq8-unsplash.jpg?w=600 "Checkout.com raises $450 million and reaches $15 billion valuation")
+
+
+[Checkout.com raises $450 million and reaches $15 billion valuation](https://techcrunch.com/2021/01/11/checkout-com-raises-450-million-and-reaches-15-billion-valuation/)
+
+
+> Payments company Checkout.com is raising once again. The company has closed a $450 million Series C round with Tiger Global Management leading the round — Greenoaks Capital and all existing investors are also participating. If you're not familiar with the company, Checkout.com wants to build a one-stop shop for all things related to payments, such as accepting transactions, processing them and detecting fraud. It focuses on large merchants and tries to make its product as customizable as possible so that you integrate it as an infrastructure partner in your product.
+
+
+***
+![Curve says closing its new $95M Series C funding caused the delay on accounts filing](https://techcrunch.com/wp-content/uploads/2019/07/Curve_Shachar32153.jpg?w=599 "Curve says closing its new $95M Series C funding caused the delay on accounts filing")
+
+
+[Curve says closing its new $95M Series C funding caused the delay on accounts filing](https://techcrunch.com/2021/01/11/curve-says-closing-its-new-95m-series-c-funding-caused-the-delay-on-accounts-filing/)
+
+
+> Curve, the London-based fintech that combines multiple cards and accounts into one smart card and an app, has secured a Series C finding round of $95 million. The financing was led by IDC Ventures, Fuel Venture Capital and Vulcan Capital (the investment arm of the estate of Microsoft co-founder and philanthropist Paul G. Allen), with participation from OneMain Financial, the US personal finance company, and Novum Capital. Several previous investors also participated. The fundraise brings the total investment in Curve to almost $175 million.
+
+
+***
+[Indonesia-based BukuKas raises $10M Series A led by Sequoia Capital India to digitize SMBs with an "end-to-end software stack", bringing total raised to $22M (Catherine Shu/TechCrunch)](http://www.techmeme.com/210112/p1#a210112p1)
+
+
+> Catherine Shu / TechCrunch: Indonesia-based BukuKas raises $10M Series A led by Sequoia Capital India to digitize SMBs with an “end-to-end software stack”, bringing total raised to $22M — The backbone of Indonesia's economy are small- to medium-sized businesses, which account for 60% of its gross domestic product.
+
+
+***
+![Deliveroo to expand to 100 towns and cities across the UK](https://www.telegraph.co.uk/content/dam/technology/2019/06/12/Deliveroo_trans_NvBQzQNjv4BqGMYWjV3TjAwHbezpx2qfyg_JHLF79lSwElicIb75MJI.PNG?impolicy=logo-overlay "Deliveroo to expand to 100 towns and cities across the UK")
+
+
+[Deliveroo to expand to 100 towns and cities across the UK](https://www.telegraph.co.uk/technology/2021/01/12/deliveroo-expand-100-towns-cities-across-uk/)
+
+
+> Deliveroo will expand into 100 new towns and cities across the UK this year, bringing its coverage to two thirds of the population. The food delivery start-up, which is backed by Amazon, said that an additional four million people will be able to access its services by the end of 2021. Yeovil, Bangor, East Kilbride, Scarborough, King's Lynn, Llanelli, and Exmouth are among the new areas that will be able to use the service. Deliveroo has excelled through the pandemic, recording six months of profit throughout 2020 after years of losses at the London-based firm.
+
+
+***
+![Twitter suspends 70,000 accounts linked to pro-Trump QAnon conspiracy](https://www.telegraph.co.uk/content/dam/technology/2021/01/12/TELEMMGLPICT000248456783_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Twitter suspends 70,000 accounts linked to pro-Trump QAnon conspiracy")
+
+
+[Twitter suspends 70,000 accounts linked to pro-Trump QAnon conspiracy](https://www.telegraph.co.uk/technology/2021/01/12/twitter-suspends-70000-accounts-linked-pro-trump-qanon-conspiracy/)
+
+
+> Twitter announced on Monday it has suspended "more than 70,000 accounts" linked to the QAnon conspiracy theory following the attack on the US Capitol by a mob of President Donald Trump's supporters. The social network began its purge on Friday, shortly after it had permanently suspended Mr Trump's account for language that could incite violence. "Since Friday, more than 70,000 accounts have been suspended as a result of our efforts, with many instances of a single individual operating numerous accounts," Twitter said in a blog post.
+
+
