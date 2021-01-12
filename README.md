@@ -2294,3 +2294,50 @@
 > (Image credit: EE) BT says a new digital unit and a reshuffle of its technology management team will accelerate its own transformation and allow for the creation of innovative and data-driven products, platforms, and services.The pandemic has accelerated the digitisation of business, while consumers are increasingly reliant on their connection for work, education and communication.BT hopes new offerings will drive additional value for customers and open new revenue streams that harness investments in 4G and full fibre networks.
 
 
+***
+[New ‘LG Rollable' phone has screen that GROWS like magic – turning it into a tablet](https://www.the-sun.com/lifestyle/tech/2123924/lg-rollable-phone-revealed-ces/)
+
+
+> LG has finally showed off its rollable phone that can go from smartphone to small tablet in mere seconds. The LG Rollable was unveiled at the huge tech conference CES 2021, which has become a virtual event this year. We don’t know must about the phone yet apart from its name has been confirmed. A […]
+
+
+***
+![New ‘LG Rollable' phone has screen that GROWS like magic – turning it into a tablet](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/01/NINTCHDBPICT000630124526.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "New ‘LG Rollable' phone has screen that GROWS like magic – turning it into a tablet")
+
+
+[New ‘LG Rollable' phone has screen that GROWS like magic – turning it into a tablet](https://www.thescottishsun.co.uk/tech/6523356/lg-rollable-phone-revealed-ces/)
+
+
+> LG has finally showed off its rollable phone that can go from smartphone to small tablet in mere seconds. The LG Rollable was unveiled at the huge tech conference CES 2021, which has become a virtual event this year. 2 The phone was revealed in a short teaser clip Credit: LG We don't know must about the phone yet apart from its name has been confirmed. A short teaser clip of the LG Rollable in action is all that's been revealed so far. You can see in the teaser than the phone is different to other extending smartphones as it doesn't fold.
+
+
+***
+![New Xbox Series X Pulse Red controller is too hot to handle](https://cdn.mos.cms.futurecdn.net/ry7e77Gj72hYePXjqzhf7h-1200-80.jpg "New Xbox Series X Pulse Red controller is too hot to handle")
+
+
+[New Xbox Series X Pulse Red controller is too hot to handle](https://www.techradar.com/news/new-xbox-series-x-pulse-red-controller-is-too-hot-to-handle)
+
+
+> (Image credit: Microsoft) Tired of the Xbox Series X/S controller designs on offer? Then you'll be happy to know that Microsoft is heating things up with its new Pulse Red Xbox Wireless Controller.Microsoft announced the new design via a blog post on Xbox Wire. The Pulse Red Xbox controller sees the front of the gamepad colored a striking red, while the underneath is white. The bumpers and D-Pad, however, are black. It's pretty much the same design as the Shock Blue design - only red instead.The new Pulse Red Xbox Wireless controller will release on February 9 and will cost the same as the other designs on offer: $59.
+
+
+***
+![Global Advanced Persistent Threat Protection Market (2020 to 2026) - by Component, Organization Size, Deployment Type, End-user and Region - ResearchAndMarkets.com](https://mms.businesswire.com/media/20210112005539/en/371054/23/ResearchAndMarkets_800px.jpg "Global Advanced Persistent Threat Protection Market (2020 to 2026) - by Component, Organization Size, Deployment Type, End-user and Region - ResearchAndMarkets.com")
+
+
+[Global Advanced Persistent Threat Protection Market (2020 to 2026) - by Component, Organization Size, Deployment Type, End-user and Region - ResearchAndMarkets.com](http://www.businesswire.com/news/home/20210112005539/en/Global-Advanced-Persistent-Threat-Protection-Market-2020-to-2026---by-Component-Organization-Size-Deployment-Type-End-user-and-Region---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Global Advanced Persistent Threat Protection Market By Component, By Organization Size, By Deployment Type, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026" report has been added to ResearchAndMarkets.com's offering. The Global Advanced Persistent Threat (APT) Protection Market size is expected to reach $15.1 billion by 2026, rising at a market growth of 19.9% CAGR during the forecast period. Advanced Persistent Threat (APT) means a set of harmful activities intended to enter into an administration's computing resources with the motive to gain some information illegally and causes damage to the respective organization.
+
+
+***
+![Informatica may have just changed the game when it comes to CX data](https://cdn.mos.cms.futurecdn.net/XtJyaRJPmBf4AcHwWnCGZa-1200-80.jpg "Informatica may have just changed the game when it comes to CX data")
+
+
+[Informatica may have just changed the game when it comes to CX data](https://www.techradar.com/news/informatica-may-have-just-changed-the-game-when-it-comes-to-cx-data)
+
+
+> Data management firm Informatica has unveiled a new enterprise-scale, cloud-native solution that should help companies rethink how they manage their customer experience (CX) strategy. Customer 360 is an end-to-end SaaS solution that combines data integration, seamless connectivity, process orchestration, data quality, reference data management, and master data management within a single solution. The Customer 360 solutions should help businesses to eliminate data duplication and improve security, allowing enterprises to deliver improved customer experience and marketing initiatives.
+
+
