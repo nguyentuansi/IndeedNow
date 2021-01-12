@@ -1903,3 +1903,53 @@
 > Sony's Vision-S prototype sedan, one of the biggest surprises at CES last year, didn't fade away after the tech trade show ended. The Vision-S is back in a series of new videos released by Sony during 2021 CES, which kicked off Monday. Two videos show the Vision-S prototype driving on a private track and then public roads in Austria. But it's a third, longer video (included below) that sheds more light on how Sony designed and developed the prototype, its partners and some of the tech that's under the hood.
 
 
+***
+![Vivo Y51A launched in India, brings 48MP triple cameras, Snapdragon 662 SoC and more](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/vivoy51a-483x271_1200_210112090641.jpeg "Vivo Y51A launched in India, brings 48MP triple cameras, Snapdragon 662 SoC and more")
+
+
+[Vivo Y51A launched in India, brings 48MP triple cameras, Snapdragon 662 SoC and more](https://www.indiatoday.in/technology/news/story/vivo-y51a-launched-in-india-brings-48mp-triple-cameras-snapdragon-662-soc-and-more-1758182-2021-01-12)
+
+
+> Highlights Vivo has launched the Y51A in India. The Y51A comes with triple cameras at the back. The Y51A offers Snapdragon 662 SoC. Vivo has quietly launched another smartphone in India. The phone maker has launched a toned-down version of its popular Vivo Y51 smartphone in the country. Almost identical to the Y51, the Y51A crucially differs from the former when it comes to the chipset -- the Qualcomm Snapdragon 662 SoC. Apart from this, it offers a side-mounted fingerprint scanner and also packs a 5,000mAh battery with 18W fast charging support.
+
+
+***
+![Facebook to pull down content with 'stop the steal' phrase](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/facebook_505_2_020620015609_120121082932.jpg "Facebook to pull down content with 'stop the steal' phrase")
+
+
+[Facebook to pull down content with 'stop the steal' phrase](https://www.businesstoday.in/technology/news/facebook-to-pull-down-content-with-stop-the-steal-phrase/story/427670.html)
+
+
+> Story In November, Facebook removed the "Stop the Steal" group in which supporters of US President Donald Trump posted violent rhetoric and false claims of election fraud Reuters | January 12, 2021 | Updated 08:32 IST Facebook said on Monday it would add a news digest to Facebook News during inauguration week
+
+
+***
+![YouTube rival sues Google for 'unfairly rigging' search algorithms](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/e10efd82-AP20352663682368.jpg?ve=1&tl=1 "YouTube rival sues Google for 'unfairly rigging' search algorithms")
+
+
+[YouTube rival sues Google for 'unfairly rigging' search algorithms](https://www.foxbusiness.com/technology/youtube-rival-sues-google-over-search-rankings)
+
+
+> YouTube rival Rumble is suing  Google  in a complaint filed Monday in the U.S. District Court of the Northern District of California's San Jose Division, alleging the tech giant is violating antitrust laws by "unfairly rigging" its search algorithms to drive traffic away from YouTube's competitors. "By unfairly rigging its search algorithms such that YouTube is the first-listed links ‘above the fold' on its search results page, Google, through its search engine, was able to wrongfully divert massive traffic to YouTube, depriving Rumble of the additional traffic, users, uploads, brand awareness and revenue it would have otherwise received,' the 38-page complaint states.
+
+
+***
+![Curve Closes $95m in Equity as it Plans US Launch](https://mms.businesswire.com/media/20210111005502/en/850864/23/Logo_curve_black.jpg "Curve Closes $95m in Equity as it Plans US Launch")
+
+
+[Curve Closes $95m in Equity as it Plans US Launch](http://www.businesswire.com/news/home/20210111005502/en/Curve-Closes-95m-in-Equity-as-it-Plans-US-Launch/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> LONDON--(BUSINESS WIRE)--Curve, the London-based fintech that combines multiple cards and accounts into one smart card and even smarter app, today announces it has secured $95 million from a leading group of international investors as part of a successful Series C round. Curve will deploy the investment to expand internationally, including to the US, and to deepen its European reach. Curve will also use the fresh funding to drive ongoing product innovation, notably of Curve Credit in early 2021. The fundraise will allow Curve to execute an ambitious strategy to become the leading financial superapp, bringing all your finances into one place.
+
+
+***
+![Silencing Trump: How 'big tech' is taking Trumpism offline](https://ichef.bbci.co.uk/news/1024/branded_news/0E63/production/_116438630_screenshot2021-01-11at23.19.39.png "Silencing Trump: How 'big tech' is taking Trumpism offline")
+
+
+[Silencing Trump: How 'big tech' is taking Trumpism offline](https://www.bbc.com/news/technology-55624630)
+
+
+> By Joe Tidy Cyber reporter image copyright Getty Images If you ever needed proof of the power of "Big Tech" then the downfall of Parler on Monday morning is a good place to start. I, like many others, logged on to the controversial social network to see what would happen after 11:59 Pacific Time in the US. This was the deadline Amazon had given the app to find a new host service before it booted the platform offline for allegedly containing violent content. It was being seen as a significant moment in ongoing efforts by US tech giants to "deplatform" Donald Trump and some of his extreme supporters after the US Capitol Hill riot last week.
+
+
