@@ -3139,3 +3139,53 @@
 > Source: Facebook Facebook has revamped its Access Your information section. It introduces more organization, search, and easier understanding of how your data is used. In a blog post, Facebook has announced that it has revamped the Access Your Information functionality for its service, saying that the changes make the feature "more usable and transparent." The app has broken out the existing Your Information and Information About You sections into eight new categories: Your Activity Across Facebook Friends and Followers Preferences Personal Information Logged Information Ads Information Apps and Websites Off of Facebook Security and Login Information Each of the categories contains subcategories to more finely group alike data together.
 
 
+***
+![Bigo's to utilize cutting-edge technology and special effects to host Annual Gala awards](https://imagevars.gulfnews.com/2021/01/12/Bigo-Lead_176f76eb74e_medium.jpg "Bigo's to utilize cutting-edge technology and special effects to host Annual Gala awards")
+
+
+[Bigo's to utilize cutting-edge technology and special effects to host Annual Gala awards](https://gulfnews.com/technology/bigos-to-utilize-cutting-edge-technology-and-special-effects-to-host-annual-gala-awards-1.1610469519536)
+
+
+> . Image Credit: Supplied BIGO Technology (BIGO), a Singapore-based pioneering Internet technology company, is hosting their annual Gala Awards Ceremony. On January 21th 2021, BIGO Technology will be hosting a virtual awards ceremony to award and commemorate their content creators who have been prevalent on their livestreaming platform BIGO Live . BIGO is one of the region's most innovative technology companies, whose apps (BIGO Live and Likee) aim to provide its users with an online arena to share their creativity and optimism through livestreams and short videos.
+
+
+***
+![Snow on roads, so Amazon delivery uses horse to deliver goods](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-13_at_9_1200_210113092419.04.-483x271.png "Snow on roads, so Amazon delivery uses horse to deliver goods")
+
+
+[Snow on roads, so Amazon delivery uses horse to deliver goods](https://www.indiatoday.in/technology/news/story/snow-on-roads-so-amazon-delivery-uses-horse-to-deliver-goods-1758520-2021-01-13)
+
+
+> Highlights Amazon finds its way out to serve customers even in the most adverse conditions. Amazon executive has been seen delivering goods to buyers in Kashmir on horseback. Amazon has confirmed that the video is of a delivery executive from Kashmir. Amazon finds its way out to serve customers even in the most adverse conditions. First, the Coronavirus-induced restricted had crippled the services rendered by Amazon and now extreme weather conditions in Kashmir have put the e-commerce platform to test again.
+
+
+***
+![PCR tests carried in Parliament today](https://adaderanaenglish.s3.amazonaws.com/1610510717-PCR-tests-carried-in-Parliament-today-B.jpg "PCR tests carried in Parliament today")
+
+
+[PCR tests carried in Parliament today](http://www.adaderana.lk/news/70722/pcr-tests-carried-in-parliament-today)
+
+
+> January 13, 2021   09:33 am - A meeting of the Committee on Parliamentary Affairs is scheduled to be held at 2.00 pm today (13) presided over by Speaker Mahinda Yapa Abeywardena. Special attention will be paid to the holding of next week's Parliamentary session as several MP are confirmed to have contracted COVID-19. Meanwhile, the health authorities have scheduled to conduct PCR tests in Parliament from 10 am to 3 pm today. PCR testing will be carried out at the parliament on January 15 as well, according to the Parliament Communication Division.
+
+
+***
+![Master](https://images.news18.com/tamil/uploads/2021/01/corona-live-6-1.jpg "Master")
+
+
+[Master](https://tamil.news18.com/photogallery/memes/vijay-master-release-memes-and-trolls-viral-social-media-skv-393315.html)
+
+
+> Home » Photogallery » Memes © Copyright Network18 Media and Investments Ltd 2016. All rights reserved. NETWORK 18 SITES
+
+
+***
+![Redmi 9 Prime starts getting MIUI 12 update in India: All you need to know](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/img_20200813_162714-483x271_1200_210113092412.jpeg "Redmi 9 Prime starts getting MIUI 12 update in India: All you need to know")
+
+
+[Redmi 9 Prime starts getting MIUI 12 update in India: All you need to know](https://www.indiatoday.in/technology/news/story/redmi-9-prime-starts-getting-miui-12-update-in-india-all-you-need-to-know-1758524-2021-01-13)
+
+
+> the Redmi 9 Prime sports a 6.5-inch FHD+ display with an LCD panel. This display has a waterdrop notch on the top. Sushant Talwar | January 13, 2021 | Updated 09:16 IST
+
+
