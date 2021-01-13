@@ -3580,3 +3580,53 @@
 > If you are spooked about the latest WhatsApp policy changes and getting rid of it to ensure better privacy, don't just stop at uninstalling WhatsApp. Digital privacy is tough work, and you will have to do a lot more. India Today Tech | January 13, 2021 | Updated 16:42 IST
 
 
+***
+![Apple iPhone demand 'robust' ahead of quarterly earnings, analyst says](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/iphone.gif?ve=1&tl=1 "Apple iPhone demand 'robust' ahead of quarterly earnings, analyst says")
+
+
+[Apple iPhone demand 'robust' ahead of quarterly earnings, analyst says](https://www.foxbusiness.com/technology/apple-iphone-demand-robust-ahead-of-earnings-analyst-says)
+
+
+> Ahead of the release of its quarterly earnings later this month, demand for the new Apple iPhone is "robust," with one analyst noting it has exceeded his best-case scenario. Wedbush Securities analyst Dan Ives, who has an "outperform" rating and a $160 price target on the tech giant, noted that demand for the iPhone 12, which was announced in October, is exceptionally strong and the hype surrounding the device is meeting reality. "Our TMT Asia supply chain checks for iPhones continue to be incrementally bullish around iPhone 12 5G demand and have now exceeded even our 'bull case scenario' for units in FY21 given the current trajectory, a major positive for shares with December results around the corner on January 27th," Ives wrote in a note to investors.
+
+
+***
+![Amazon hits back at Parler lawsuit, claims 'unwillingness and inability' to remove violent content](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/John-matze-Bezos-parler.jpg?ve=1&tl=1 "Amazon hits back at Parler lawsuit, claims 'unwillingness and inability' to remove violent content")
+
+
+[Amazon hits back at Parler lawsuit, claims 'unwillingness and inability' to remove violent content](https://www.foxbusiness.com/technology/amazon-parler-lawsuit-response-violence-aws)
+
+
+> Amazon hit back at Parler on Tuesday after the alternative social media site filed a lawsuit against the corporate giant this week following its suspension from Amazon Web Services. Parler on Wednesday entered its third day of being offline after Amazon Web Services cut off the upstart platform from its cloud hosting service following last week's deadly riot at the U.S. Capitol. "This case is not about suppressing speech or stifling viewpoints. It is not about a conspiracy to restrain trade," Amazon Web Services said in a response to Parler's lawsuit.
+
+
+***
+![Here are the alternate ‘Free Speech' apps that are taking Parler's place](https://images.indianexpress.com/2021/01/Parler-1.jpg "Here are the alternate ‘Free Speech' apps that are taking Parler's place")
+
+
+[Here are the alternate ‘Free Speech' apps that are taking Parler's place](https://indianexpress.com/article/technology/social/here-are-the-alternate-free-speech-apps-that-are-taking-parlers-place-7145058/)
+
+
+> Facebook Inc. and Twitter Inc. took the strongest action yet to address accusations that their platforms are being used to stoke conspiracy theories, misinformation and incite violence after a mob at a Trump rally broke into the U.S. Capitol last week. Right-wing users have felt maligned and moved to alternative sites like Parler, backed by Rebekah Mercer, the daughter of hedge fund investor Robert Mercer. A rush to the site late last year made Parler the top downloaded app following President-elect Joe Biden's victory.
+
+
+***
+![Affirm Raises $1.2B, Pricing Above Range In Hot IPO Market](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/money-2212965_1920_2.jpg "Affirm Raises $1.2B, Pricing Above Range In Hot IPO Market")
+
+
+[Affirm Raises $1.2B, Pricing Above Range In Hot IPO Market](https://www.benzinga.com/fintech/21/01/19140683/affirm-raises-1-2b-pricing-above-range-in-hot-ipo-market)
+
+
+> Online lender  Affirm Holdings Inc.  (NASDAQ: AFRM ) has raised roughly $1.2 billion by pricing its initial public offering (IPO) at $49 per share, above the expected range of $41 to $44, the company announced Tuesday.  What Happened:  Affirm is a fintech company providing installment loans to online shoppers and is led by  PayPal Holdings Inc  (NASDAQ: PYPL ) co-founder Max Levchin. The IPO values Affirm at $11.9 billion based on outstanding shares. Its fully diluted valuation, including options and restricted stock units, is about $15 billion, as per Bloomberg.
+
+
+***
+![Qualcomm eyes challenge to Apple, Intel with $1.4 billion deal for chip startup](https://i-invdn-com.akamaized.net/news/LYNXMPEA8I0M2_L.jpg "Qualcomm eyes challenge to Apple, Intel with $1.4 billion deal for chip startup")
+
+
+[Qualcomm eyes challenge to Apple, Intel with $1.4 billion deal for chip startup](https://www.investing.com/news/technology-news/qualcomm-eyes-challenge-to-apple-intel-with-14-billion-deal-for-chip-startup-2387907)
+
+
+> © Reuters. Qualcomm building shown in San Diego By Stephen Nellis (Reuters) - Qualcomm (NASDAQ:) Inc on Wednesday said it will acquire Nuvia Inc, a chip startup founded by Apple Inc (NASDAQ:) veterans, for $1.4 billion, with plans to put the firm's technology into its smartphone, laptop and automotive processors. The deal marks a big push by Qualcomm to reestablish a leading position in chip performance after several years of high-profile patent licensing litigation with rival Apple and regulatory authorities.
+
+
