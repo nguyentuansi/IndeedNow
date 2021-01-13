@@ -3189,3 +3189,53 @@
 > the Redmi 9 Prime sports a 6.5-inch FHD+ display with an LCD panel. This display has a waterdrop notch on the top. Sushant Talwar | January 13, 2021 | Updated 09:16 IST
 
 
+***
+![YouTube suspends Donald Trump's channel for minimum of seven days](https://apicms.thestar.com.my/uploads/images/2021/01/13/1006382.jpg "YouTube suspends Donald Trump's channel for minimum of seven days")
+
+
+[YouTube suspends Donald Trump's channel for minimum of seven days](https://www.thestar.com.my/tech/tech-news/2021/01/13/youtube-suspends-donald-trumps-channel-for-minimum-of-seven-days)
+
+
+> YouTube has removed new videos posted on Trump's channel, and disabled comments. — Reuters LOS ANGELES: YouTube said it removed a video uploaded to President Trump's channel over a policy violation – which resulted in the video platform suspending his ability to share content on YouTube for at least seven days. 'After review, and in light of concerns about the ongoing potential for violence, we removed new content uploaded to Donald J. Trump's channel for violating our policies. It now has its 1st strike & is temporarily prevented from uploading new content for a *minimum* of seven days,' YouTube said in a statement on Twitter.
+
+
+***
+![I'm writing a post-installation script for Arch right now in Python and Bash. Could I get some feedback?](https://external-preview.redd.it/rizRuKkGZvKkT0EyWDNE8SGGRJC_UM9HcaoA2_c3Ri4.jpg?auto=webp&s=aea31165714591b87b1c93f04dc55c42edd1e4b9 "I'm writing a post-installation script for Arch right now in Python and Bash. Could I get some feedback?")
+
+
+[I'm writing a post-installation script for Arch right now in Python and Bash. Could I get some feedback?](https://www.reddit.com/r/Python/comments/kw9ikb/im_writing_a_postinstallation_script_for_arch/)
+
+
+> I am writing a post-installation script in Python and Bash using the subprocess module. I am looking for feedback so I can improve the script a bit more. Please don't go easy on me. I am new to both Python and Bash so I am really trying to get better at it. Please be completely honest with your feedback. Constructive criticism is welcome. Here's the link to the repo. Here's the link to the main file.
+
+
+***
+![Reddit API Text Analysis Project Ideas](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Reddit API Text Analysis Project Ideas")
+
+
+[Reddit API Text Analysis Project Ideas](https://www.reddit.com/r/Python/comments/kw9hrn/reddit_api_text_analysis_project_ideas/)
+
+
+> For one of my master's classes in text analytics, we're supposed to do a group project where we use Reddit API to collect data from different subreddits and then do some sort of analysis. One example given was collecting data from different food and recipe related subreddits to then determine/plan out meals a hypothetical meal kit service would use. I'm drawing a blank on cool project ideas and my team is less than helpful. Any inspiration would be appreciated!
+
+
+***
+![AOC on Capitol Siege: 'I thought I was going to die'     - CNET](https://cnet4.cbsistatic.com/img/u-Q2_0jwh1jNxSu_Ht1sFF2XRQg=/1200x630/2021/01/13/9c1a0fad-63c4-41ad-a3e2-0545256628c5/gettyimages-1267056521.jpg "AOC on Capitol Siege: 'I thought I was going to die'     - CNET")
+
+
+[AOC on Capitol Siege: 'I thought I was going to die'     - CNET](https://www.cnet.com/news/aoc-on-capitol-siege-i-thought-i-was-going-to-die/)
+
+
+> Handout One of Alexandria Ocasio-Cortez hallmarks is hosting accessible Instagram Live videos in which she talks her followers through the complicated political processes of Washington. But on Tuesday, the Democratic congresswoman, better known as AOC, used Instagram Live to talk followers through the traumatic siege of the Capitol Building that occurred last Wednesday. Ocasio-Cortez called it "a close encounter where I thought I was going to die." "I didn't even feel safe going to that extraction point because there were QAnon and white supremacist members of Congress who I felt would disclose my location and create opportunities to allow me to be hurt," she said.
+
+
+***
+![CES 2021 Day 2 recap: GM shows a flying car, Razer unveils a high-tech N95 mask and more](https://images.indianexpress.com/2021/01/Razer.jpg "CES 2021 Day 2 recap: GM shows a flying car, Razer unveils a high-tech N95 mask and more")
+
+
+[CES 2021 Day 2 recap: GM shows a flying car, Razer unveils a high-tech N95 mask and more](https://indianexpress.com/article/technology/tech-news-technology/ces-2021-day-2-recap-latest-news-gadgets-gm-razer-lenovo-amd-asus-7144216/)
+
+
+> The first-ever all-digital Consumer Electronics Show (CES) is now in full swing, and it has once again proving to be the platform to show futuristic concept devices. From General Motors to Razer, all of these brands showed concept products, including a flying car and a smart N95 mask, at the world's biggest tech trade show. Tech companies continue to respond to the return of PCs in a big way during the pandemic by launching both consumer and business laptops at CES 2021. In case you missed it, here are some of the highlights from the second day of the Consumer Electronics Show (CES).
+
+
