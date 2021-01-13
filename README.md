@@ -3821,3 +3821,53 @@
 > Google, Twitter and Amazon are hopeful that Joe Biden's incoming administration in the United States will enact a federal digital data law, senior company officials said at CES, the annual electronics and technology show.
 
 
+***
+![CES 2021: Intel Launches Four New Lines Of Processors For Different User Requirements](https://sm.mashable.com/t/mashable_in/photo/default/intel-11th-gen-desktop-rocket-lake-s-12_zyjr.1200.jpg "CES 2021: Intel Launches Four New Lines Of Processors For Different User Requirements")
+
+
+[CES 2021: Intel Launches Four New Lines Of Processors For Different User Requirements](https://in.mashable.com/tech/19548/ces-2021-intel-launches-four-new-lines-of-processors-for-different-user-requirements)
+
+
+> Intel has introduced its four new lines of processors designed for a variety of platforms and users, including for education, gaming, and business. The new lineup includes the 11th-Gen Intel Core vPro designed for business, N-series Pentium Silver and Celeron processors for education, and 11th-Gen Intel Core H-series mobile processors for gaming. During its CES 2021 event today, Intel took the wraps off four new processor families and offered a preview of its next-gen ‘Alder Lake' and ‘Rocket Lake' desktop tech.
+
+
+***
+![Expanded Prize Pool! TradeUP's Paper Trading Competition Continues](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/4_5_0.jpg "Expanded Prize Pool! TradeUP's Paper Trading Competition Continues")
+
+
+[Expanded Prize Pool! TradeUP's Paper Trading Competition Continues](https://www.benzinga.com/fintech/20/04/15910192/expanded-prize-pool-tradeups-paper-trading-competition-continues)
+
+
+> TradeUP continues in its effort to empower the investing public. Starting last week, TradeUP launched its very first paper trading competition, inviting investors of all experience to join and take this opportunity to discover market movements and assess investment strategies in-depth. The month-long contest features a lucrative prize pool, consisting of three types of prizes. On a weekly basis, the top 10 performers will receive cash prizes up to $100. The top 20 overall performers can win final prizes up to $1000.
+
+
+***
+![Virtual CES showcases new TVs, ‘wellness toilets,' robots that do chores](https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/943efe00-ff5a-4383-993e-bd145a0ac1e8/ed105bdb-2ff4-4cac-8887-58f2aded687b/1280x720/match/image.jpg "Virtual CES showcases new TVs, ‘wellness toilets,' robots that do chores")
+
+
+[Virtual CES showcases new TVs, ‘wellness toilets,' robots that do chores](http://video.foxbusiness.com/v/6222575224001/)
+
+
+> No body in the article.
+
+
+***
+![Amazon Prime Video Now Offers A Rs 89-Worth Mobile-Only Plan For Airtel Users](https://sm.mashable.com/t/mashable_in/photo/default/amazon-prime-video_1ujf.1200.jpg "Amazon Prime Video Now Offers A Rs 89-Worth Mobile-Only Plan For Airtel Users")
+
+
+[Amazon Prime Video Now Offers A Rs 89-Worth Mobile-Only Plan For Airtel Users](https://in.mashable.com/tech/19546/amazon-prime-video-now-offers-a-rs-89-worth-mobile-only-plan-for-airtel-users)
+
+
+> Amazon has partnered with Bharti Airtel to launch mobile-only plans of Amazon Prime Video in India. With the move, Amazon plans to target the 500 million smartphone users in India. Amazon currently offers its Prime membership in India for INR 999 which includes subscriptions to both Prime Music and Prime Video. The new Prime Video Mobile Edition (PVME) plans will start at INR 89 per month and will give users access to Prime Video. PVME plans will be restricted to one user who can stream movies and TV shows in SD quality on their mobile phones.
+
+
+***
+![Panasonic](https://www.gannett-cdn.com/presto/2021/01/13/USAT/7f8454dd-8622-4b60-9498-44962112388c-Panasonic2.jpg?quality=10 "Panasonic")
+
+
+[Panasonic](https://www.usatoday.com/videos/tech/reviewedcom/2021/01/13/panasonic/6655980002/)
+
+
+> The Panasonic Nanoe Hair Dryer.
+
+
