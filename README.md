@@ -3871,3 +3871,53 @@
 > The Panasonic Nanoe Hair Dryer.
 
 
+***
+![How tech helped us get through 2020](https://static.reuters.com/resources/r/?d=20201203&i=OVDB7G0H3&r=OVDB7G0H3&t=2 "How tech helped us get through 2020")
+
+
+[How tech helped us get through 2020](https://www.reuters.com/video/watch/idOVDB7G0H3)
+
+
+> Posted The coronavirus pandemic has made the world more reliant on technology. From robots in hospitalities to using A.I. to fight loneliness, here's a roundup of how technology helped us navigate the new normal.
+
+
+***
+![ਸੁਪਰੀਮ ਕੋਰਟ ਵਲੋਂ ਬਣਾਈ ਕਮੇਟੀ 'ਤੇ ਦੇਸ਼ ਦੇ ਕਿਸਾਨਾਂ ਨੂੰ ਭਰੋਸਾ ਨਹੀਂ : ਪ੍ਰੋ. ਚੰਦੂਮਾਜਰਾ](https://static.jagbani.com/multimedia/2018_7image_14_05_208890000chandumajra-new-237x237-ll.jpg "ਸੁਪਰੀਮ ਕੋਰਟ ਵਲੋਂ ਬਣਾਈ ਕਮੇਟੀ 'ਤੇ ਦੇਸ਼ ਦੇ ਕਿਸਾਨਾਂ ਨੂੰ ਭਰੋਸਾ ਨਹੀਂ : ਪ੍ਰੋ. ਚੰਦੂਮਾਜਰਾ")
+
+
+[ਸੁਪਰੀਮ ਕੋਰਟ ਵਲੋਂ ਬਣਾਈ ਕਮੇਟੀ 'ਤੇ ਦੇਸ਼ ਦੇ ਕਿਸਾਨਾਂ ਨੂੰ ਭਰੋਸਾ ਨਹੀਂ : ਪ੍ਰੋ. ਚੰਦੂਮਾਜਰਾ](https://jagbani.punjabkesari.in/punjab/news/the-country--s-farmers-do-not-trust-the-committee---prof--chandumajra-1262581)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![ਪੰਜਾਬ: ਟ੍ਰੈਕਟਰ ਰੈਲੀ ਦੀ ਤਿਆਰੀ ਚ ਲੱਗੇ ਕਿਸਾਨ, ਕਰ ਰਹੇ ਮੌਕ ਪ੍ਰੇਡ](https://static.jagbani.com/multimedia/2021_1image_01_20_120582596tractor-ll.jpg "ਪੰਜਾਬ: ਟ੍ਰੈਕਟਰ ਰੈਲੀ ਦੀ ਤਿਆਰੀ ਚ ਲੱਗੇ ਕਿਸਾਨ, ਕਰ ਰਹੇ ਮੌਕ ਪ੍ਰੇਡ")
+
+
+[ਪੰਜਾਬ: ਟ੍ਰੈਕਟਰ ਰੈਲੀ ਦੀ ਤਿਆਰੀ ਚ ਲੱਗੇ ਕਿਸਾਨ, ਕਰ ਰਹੇ ਮੌਕ ਪ੍ਰੇਡ](https://jagbani.punjabkesari.in/national/news/punjab-farmers-preparing-for-tractor-rally-conducting-mock-parade-1262582)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![‘ਪੰਜਾਬ 'ਚ ਹੁਣ ਹੋਰ ਆਸਾਨੀ ਨਾਲ ਮਿਲਣਗੀਆਂ ਟਰਾਂਸਪੋਰਟ ਸੇਵਾਵਾਂ'](https://static.jagbani.com/multimedia/2021_1image_00_54_38719038713path72-ll.jpg "‘ਪੰਜਾਬ 'ਚ ਹੁਣ ਹੋਰ ਆਸਾਨੀ ਨਾਲ ਮਿਲਣਗੀਆਂ ਟਰਾਂਸਪੋਰਟ ਸੇਵਾਵਾਂ'")
+
+
+[‘ਪੰਜਾਬ 'ਚ ਹੁਣ ਹੋਰ ਆਸਾਨੀ ਨਾਲ ਮਿਲਣਗੀਆਂ ਟਰਾਂਸਪੋਰਟ ਸੇਵਾਵਾਂ'](https://jagbani.punjabkesari.in/punjab/news/transport-services-to-be-more-easily-available-in-punjab-1262580)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![ਸਿੰਘੂ ਬਾਰਡਰ ਤੇ ਖੁੱਲ੍ਹਿਆ ਕਿਸਾਨ-ਮਜ਼ਦੂਰ ਏਕਤਾ ਹਸਪਤਾਲ, ਜਾਣੋਂ ਖਾਸੀਅਤ](https://static.jagbani.com/multimedia/2021_1image_00_29_503071254hospital-ll.jpg "ਸਿੰਘੂ ਬਾਰਡਰ ਤੇ ਖੁੱਲ੍ਹਿਆ ਕਿਸਾਨ-ਮਜ਼ਦੂਰ ਏਕਤਾ ਹਸਪਤਾਲ, ਜਾਣੋਂ ਖਾਸੀਅਤ")
+
+
+[ਸਿੰਘੂ ਬਾਰਡਰ ਤੇ ਖੁੱਲ੍ਹਿਆ ਕਿਸਾਨ-ਮਜ਼ਦੂਰ ਏਕਤਾ ਹਸਪਤਾਲ, ਜਾਣੋਂ ਖਾਸੀਅਤ](https://jagbani.punjabkesari.in/national/news/kisan-mazdoor-ekta-hospital-opened-at-singhu-border-1262579)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
