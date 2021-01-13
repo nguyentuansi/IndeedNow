@@ -3630,3 +3630,53 @@
 > © Reuters. Qualcomm building shown in San Diego By Stephen Nellis (Reuters) - Qualcomm (NASDAQ:) Inc on Wednesday said it will acquire Nuvia Inc, a chip startup founded by Apple Inc (NASDAQ:) veterans, for $1.4 billion, with plans to put the firm's technology into its smartphone, laptop and automotive processors. The deal marks a big push by Qualcomm to reestablish a leading position in chip performance after several years of high-profile patent licensing litigation with rival Apple and regulatory authorities.
 
 
+***
+![Apple leaks new Find My feature in iOS 14 ahead of long-rumored AirTags](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/find-my.jpg "Apple leaks new Find My feature in iOS 14 ahead of long-rumored AirTags")
+
+
+[Apple leaks new Find My feature in iOS 14 ahead of long-rumored AirTags](https://www.imore.com/apple-leaks-new-find-my-feature-ios-14-ahead-long-rumored-airtags)
+
+
+> Source: Miguel de Icaza Apple has just accidentally revealed a new 'Find My' hidden tab called 'Items', which can be accessed in iOS 14.3 through Safari, ahead of a long-rumored new AirTags product. From MacRumors: MacRumors reader David Chu today alerted us that the hidden "Items" tab in the Find My app can be enabled on iOS 14.3 and later by typing in the link findmy://items into Safari and tapping on "Open" in the prompt that appears. As MR notes, screenshots of this feature were first seen back in 2019, however, it now seems users can unofficially access the page through Safari.
+
+
+***
+![Android Malware 'Rogue' Can Give Hackers Full Access Of Your Phone And Is Actively Spreading](https://im.indiatimes.in/content/2020/Nov/Facebook-Image-4_5fa8fa35e9e12.jpg "Android Malware 'Rogue' Can Give Hackers Full Access Of Your Phone And Is Actively Spreading")
+
+
+[Android Malware 'Rogue' Can Give Hackers Full Access Of Your Phone And Is Actively Spreading](https://www.indiatimes.com/technology/news/android-malware-rogue-can-give-hackers-full-access-of-your-phone-and-is-actively-spreading-531874.html)
+
+
+> A new Android malware named 'Rogue' has come to light that is able to provide hackers with near-full access to a targeted smartphone. Cyber security experts have found the malware being actively distributed through a network on the dark web.The threat actor responsible for the malware is described in a new report by Check Point Research. Researchers at the firm started mapping activities of the threat actor using the nickname ‘Triangulum' on several Darknet forums. 'This discovery piqued our interest, as it was extraordinary, even by dark net standards,' the researchers claim.
+
+
+***
+![Amazon India To Now Help Students Prepare For JEE & Other Competitive Exams](https://im.indiatimes.in/content/2021/Jan/Facebook-Image-9_5ffece556482d.jpg "Amazon India To Now Help Students Prepare For JEE & Other Competitive Exams")
+
+
+[Amazon India To Now Help Students Prepare For JEE & Other Competitive Exams](https://www.indiatimes.com/technology/news/amazon-india-to-now-help-students-prepare-for-jee-other-competitive-exams-531868.html)
+
+
+> While we all know Amazon as a brand that is our go-to place to shop online, now it could also be the place you'd visit to help you prepare for JEE exams to help you create a career in engineering. ReutersIt will do this with the help of the Amazon Academy App that will offer students a range of JEE preparatory resources at launch, including mock tests. What's special about these tests is that it has been crafted by experts from the industry which include over 15,000 handpicked questions as well as hints and detailed solutions that students can learn and perfect.
+
+
+***
+![Amid TSMC rivalry, Samsung to use new Exynos for S21](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202101/e529e81b3fd04b999c0c99dfc79a5af3.jpg "Amid TSMC rivalry, Samsung to use new Exynos for S21")
+
+
+[Amid TSMC rivalry, Samsung to use new Exynos for S21](http://www.koreatimes.co.kr/www/tech/2021/01/133_302417.html)
+
+
+> Kang In-yup, head of Samsung Electronics' system LSI business, introduces the company's Exynos 2100 mobile application processor, Tuesday. Courtesy of Samsung ElectronicsBy Kim Yoo-chulCan Samsung Electronics really compete with TSMC of Taiwan? The probable answer is, it depends on how the world's top memory chip supplier will earn "trust" from foundry clients.Samsung has long been chasing the foundry chip-making giant TSMC in terms of high-volume manufacturing (HVM) applying ultra-thin chip-fabrication technology at the below 7-nanometer level.
+
+
+***
+![SK riding on growing hydrogen industry](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202101/d96501d10108444e94a49301e49f4451.jpg "SK riding on growing hydrogen industry")
+
+
+[SK riding on growing hydrogen industry](http://www.koreatimes.co.kr/www/tech/2021/01/693_302408.html)
+
+
+> Plug Power's hydrogen tank truck is seen in this photo provided by SK Holdings, Wednesday. / Courtesy of SK HoldingsSK-invested Power Plug to begin hydrogen car biz with RenaultBy Baek Byung-yeulSK Group is riding high on the growing hydrogen fuel cell business as U.S.-based power company Plug Power, in which the group recently purchased shares, will expand into the fuel cell vehicle business with French automotive group Renault.Plug Power said Tuesday (local time) that it signed a memorandum of understanding with French automotive Groupe Renault to launch a 50-50 joint venture based in France by the end of the first half of 2021.
+
+
