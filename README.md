@@ -3099,3 +3099,43 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Intel's self-driving car unit plans to step up use of its own radar tech by 2025](https://i-invdn-com.akamaized.net/news/LYNXMPEB410C9_L.jpg "Intel's self-driving car unit plans to step up use of its own radar tech by 2025")
+
+
+[Intel's self-driving car unit plans to step up use of its own radar tech by 2025](https://www.investing.com/news/technology-news/intels-selfdriving-car-unit-plans-to-step-up-use-of-its-own-radar-tech-by-2025-2387326)
+
+
+> 2/2 © Reuters. Handout image of Mobileye CEO Amnon Shashua holding a lidar chip being developed by the self-driving car firm 2/2 By Stephen Nellis SAN FRANCISCO (Reuters) - The head of Intel Corp (NASDAQ:)'s self-driving car subsidiary said on Tuesday the company wants to shift toward using its own radar-based technology and use a single lidar sensor per vehicle by 2025 in a bid to lower the cost of autonomous driving. Mobileye (F:) has taken a different strategy from many of its self-driving car competitors, with a current camera-based system that helps cars with adaptive cruise control and lane change assistance.
+
+
+***
+![Check out LG's new rollable phone, set for release later this year](https://resources.stuff.co.nz/content/dam/images/4/y/q/f/4/d/image.related.StuffLandscapeSixteenByNine.1420x800.4yqf4k.png/1610505906404.jpg "Check out LG's new rollable phone, set for release later this year")
+
+
+[Check out LG's new rollable phone, set for release later this year](https://www.stuff.co.nz/technology/300204308/check-out-lgs-new-rollable-phone-set-for-release-later-this-year.html)
+
+
+> LG's highly anticipated rollable phone will hit the market this year. The Korean tech giant revealed at the CES convention on Monday that its rumoured rollable phone is real and is aptly named: the LG Rollable. LG's rolling phone was first introduced with the LG Wing in September. Initially, consumers could only see a dimly lit side view of what looked like a standard-sized phone that slid out into a slim tablet. But, LG decided to show the full range of the phone at CES. The LG Rollable has a smooth scrolling screen that rolls out to expand the phone.
+
+
+***
+!['A Headline That Will Make Global-Warming Activists Apoplectic'](https://statmodeling.stat.columbia.edu/wp-content/uploads/2013/02/favicon.ico "'A Headline That Will Make Global-Warming Activists Apoplectic'")
+
+
+['A Headline That Will Make Global-Warming Activists Apoplectic'](https://statmodeling.stat.columbia.edu/2021/01/11/a-headline-that-will-make-global-warming-activists-apoplectic-hows-that-one-going-huh/)
+
+
+> I saw this article in the newspaper today, '2020 Ties 2016 as Hottest Yet, European Analysis Shows,' and accompanied by the above graph, and this reminded me of something. A few years ago there was a cottage industry among some contrarian journalists, making use of the fact that 1998 was a particularly hot year (by the standards of its period) to cast doubt on the global warming trend. Ummmm, where did I see this? . . . Here, I found it! It was a post by Stephen Dubner on the Freakonomics blog, entitled, 'A Headline That Will Make Global-Warming Activists Apoplectic,' and continuing: The BBC is responsible.
+
+
+***
+![Facebook revamps Access Your Information in the name of transparency](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/facebook-new-access-your-information-hero.jpg "Facebook revamps Access Your Information in the name of transparency")
+
+
+[Facebook revamps Access Your Information in the name of transparency](https://www.imore.com/facebook-revamps-access-your-information-name-transparency)
+
+
+> Source: Facebook Facebook has revamped its Access Your information section. It introduces more organization, search, and easier understanding of how your data is used. In a blog post, Facebook has announced that it has revamped the Access Your Information functionality for its service, saying that the changes make the feature "more usable and transparent." The app has broken out the existing Your Information and Information About You sections into eight new categories: Your Activity Across Facebook Friends and Followers Preferences Personal Information Logged Information Ads Information Apps and Websites Off of Facebook Security and Login Information Each of the categories contains subcategories to more finely group alike data together.
+
+
