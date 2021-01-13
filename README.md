@@ -3239,3 +3239,47 @@
 > The first-ever all-digital Consumer Electronics Show (CES) is now in full swing, and it has once again proving to be the platform to show futuristic concept devices. From General Motors to Razer, all of these brands showed concept products, including a flying car and a smart N95 mask, at the world's biggest tech trade show. Tech companies continue to respond to the return of PCs in a big way during the pandemic by launching both consumer and business laptops at CES 2021. In case you missed it, here are some of the highlights from the second day of the Consumer Electronics Show (CES).
 
 
+***
+[New PUBG Mobile 1.2 global update for iOS and Android platforms released; Gamers in India in awaiting mode](https://www.zeebiz.com/technology/apps/news-new-pubg-mobile-12-global-update-for-ios-and-android-platforms-released-gamers-in-india-in-awaiting-mode-145839)
+
+
+> PUBG Mobile: PlayerUnknown's Battlegrounds, PUBG Mobile has now announced the global release of 1.2 global updates for iOS and Android platforms. However, PUBG Mobile India has been banned by the Indian Government ever since September 2020.
+
+
+***
+[WhatsApp, Telegram, Signal: Where Do You Go For Secure Messaging?](https://swarajyamag.com/technology/whatsapp-telegram-signal-where-do-you-go-for-secure-messaging)
+
+
+> Changes to WhatsApp's privacy policy has spurred an exodus of users from the messaging platform.
+
+
+***
+![Google to use quantum computing to develop new medicines](https://www.thehindu.com/sci-tech/technology/qf0i1q/article33565100.ece/ALTERNATES/LANDSCAPE_615/google-quantumjpg "Google to use quantum computing to develop new medicines")
+
+
+[Google to use quantum computing to develop new medicines](https://www.thehindu.com/sci-tech/technology/google-to-use-quantum-computing-to-develop-new-medicines/article33564897.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Google's Quantum AI division has partnered with German pharmaceutical company, Boehringer Ingelheim, to develop new drugs using quantum computing.Through this collaboration, Boehringer Ingelheim and Google plan to focus on implementing quantum computing in pharmaceutical research and development, including molecular dynamic simulations.While Boehringer Ingelheim will focus on computer-aided drug design and in silico modelling, Google will supply quantum computers and algorithms.
+
+
+***
+![Tesla begins the search for Retail and Charging Locations Around Mumbai](https://www.mumbailive.com/images/media/images/tesla_1610516735017.jpg?bg=6f675c&crop=292.125%2C164%2Cnull%2C0&fit=crop&fitToScale=h%2C1368%2C768&h=606.3157894736842&height=164&w=1080&width=308 "Tesla begins the search for Retail and Charging Locations Around Mumbai")
+
+
+[Tesla begins the search for Retail and Charging Locations Around Mumbai](https://www.mumbailive.com/en/tech/tesla-looking-for-retail-and-charging-locations-around-mumbai-60188)
+
+
+> American electric vehicle manufacturer Tesla is reportedly scouting sites to open a new facility in Mumbai. The facility will carry electric cars by the manufacturer that will be imported from overseas. The company is also reportedly looking for car charging sites with locations like Mumbai Port and Jawaharlal Nehru Port currently on top of the list. Tesla representatives have reportedly finished three rounds of talks with the Maharashtra Government while elaborating on their strategy. An official at the Department of Industry who was also involved in the talks with Tesla said while speaking to the Free Press Journal that the American automaker has initiated an extensive exercise to look for locations for the sale and marketing of its cars.
+
+
+***
+![CES 2021: Asus unveils Flow X13, Strix Scar 17, among new ROG laptops](https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/13/full/1610517742-2009.jpg "CES 2021: Asus unveils Flow X13, Strix Scar 17, among new ROG laptops")
+
+
+[CES 2021: Asus unveils Flow X13, Strix Scar 17, among new ROG laptops](https://www.business-standard.com/article/technology/ces-2021-asus-unveils-flow-x13-strix-scar-17-among-new-rog-laptops-121011300373_1.html)
+
+
+> Taiwanese electronics giant Asus on Wednesday showcased a wide variety of new laptops at the ongoing Consumers Electronics Show (CES) 2021. The company launched ZenBook Pro Duo 15 OLED (UX582), ZenBook Duo 14 (UX482), VivoBook S14 (S435), and the TUF Dash gaming laptop. The new lineup pushes the boundaries of design and innovation to deliver ultimate mobile computing experiences, the company said in a statement. ZenBook Pro Duo 15 OLED (UX582) is an ultra-powerful 15-inch laptop that is equipped with the new tilting Asus ScreenPad Plus, a full-width 4K secondary touchscreen that works seamlessly with the main 4K OLED HDR display.
+
+
