@@ -3383,3 +3383,50 @@
 > AMD has announced the new Ryzen 5000 Series Mobile processors at the virtual CES 2021. The new Ryzen 5000 series processors are based on the 7nm ‘Zen 3' architecture and the brand promises leading energy efficiency as well as performance. The new AMD processors will be available in from major PC manufacturers including Asus, HP and Lenovo beginning Q1 2021. The company also posted teasers for the upcoming Radeon GPUs for desktops and laptops along with the next-gen Epyc datacentre CPUs. AMD Ryzen H-series, HX-series and HS-Series The new AMD processors are classified into the high-performance-oriented H series processors and the ultra-mobile U-series processors.
 
 
+***
+[How to cancel Spotify](https://www.the-sun.com/lifestyle/tech/2129814/how-to-cancel-spotify/)
+
+
+> STREAMING services like Spotify have changed the way we listen to music – with millions of songs to choose from for just a small fee. But what if you want to cancel your subscription? Spotify charges £10 a month for its Premium account – a price you may no longer want to pay. How do […]
+
+
+***
+![PS5 stock checker UK – New Playstation 5 stock drops TODAY at Jacob Tech, Argos, Game, Currys, Amazon, Very and Smyths?](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2020/12/ps5-live-281220.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock checker UK – New Playstation 5 stock drops TODAY at Jacob Tech, Argos, Game, Currys, Amazon, Very and Smyths?")
+
+
+[PS5 stock checker UK – New Playstation 5 stock drops TODAY at Jacob Tech, Argos, Game, Currys, Amazon, Very and Smyths?](https://www.thescottishsun.co.uk/tech/6299483/ps5-stock-checker-uk-today-argos-very-game-currys-amazon-live/)
+
+
+> NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console or accessories like wireless headphones.
+
+
+***
+![Accuity Releases Bankers Almanac Enhanced Due Diligence to Automate Risk Assessments for Financial Counterparty KYC](https://mms.businesswire.com/media/20210113005037/en/851784/23/Accuity-%28002%29.jpg "Accuity Releases Bankers Almanac Enhanced Due Diligence to Automate Risk Assessments for Financial Counterparty KYC")
+
+
+[Accuity Releases Bankers Almanac Enhanced Due Diligence to Automate Risk Assessments for Financial Counterparty KYC](http://www.businesswire.com/news/home/20210113005037/en/Accuity-Releases-Bankers-Almanac-Enhanced-Due-Diligence-to-Automate-Risk-Assessments-for-Financial-Counterparty-KYC/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--Accuity, the leading global provider of financial crime screening, payment services, and know your customer (KYC) solutions, has announced the availability of Bankers Almanac Enhanced Due Diligence, a new solution that will enable banks to conduct efficient and effective KYC risk assessments of their financial counterparties within a single application. Accuity has brought together two of its solutions, Bankers Almanac: Counterparty KYC and Firco Compliance Link, to create an ‘out-of-the-box' SaaS platform that automates the enhanced due diligence (EDD) reports and audit trails required to meet regulatory guidance.
+
+
+***
+![Sentifi launches Portfolio Intelligence Platform for Retail Investors](https://mms.businesswire.com/media/20210113005337/en/851768/23/Sentifi_logo.jpg "Sentifi launches Portfolio Intelligence Platform for Retail Investors")
+
+
+[Sentifi launches Portfolio Intelligence Platform for Retail Investors](http://www.businesswire.com/news/home/20210113005337/en/Sentifi-launches-Portfolio-Intelligence-Platform-for-Retail-Investors/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON & ZURICH--(BUSINESS WIRE)--Sentifi, an award winning alternative data provider, has today announced that it is launching a new intelligence platform for retail investors. The platform, Portfolio Intelligence for Retail Investors, will enable retail investors to monitor sentiment shifts for their equities portfolio as a whole, or for individual positions in real-time, and make informed decisions on when to enter, increase, decrease or exit a position. Through the platform, users will be able to detect valuable intelligence among large volumes of unstructured data, and make faster and better-informed investment decisions.
+
+
+***
+![PostProcess Technologies appoints former ICONICS exec Jim Kent as Chief Financial Officer](https://www.tctmagazine.com/downloads/16200/download/Jim_Kent_CFO_Headshot.jpg?cb=951d3c3bf9ba99ec7ce32619316bb14a "PostProcess Technologies appoints former ICONICS exec Jim Kent as Chief Financial Officer")
+
+
+[PostProcess Technologies appoints former ICONICS exec Jim Kent as Chief Financial Officer](https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/postprocess-technologies-former-iconics-exec-cfo/)
+
+
+> PostProcess Technologies has announced former ICONICS executive Jim Kent as its new Chief Financial Officer as it looks to facilitate automation software development & enhance growth.
+
+
