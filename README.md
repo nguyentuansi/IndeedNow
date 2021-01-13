@@ -3971,3 +3971,53 @@
 > Source: Niantic The February 2021 Pokémon Go Community Day will feature Roselia. Community Day will run Sunday, February 7 from 11 AM through 5 PM. Roserade evolved during Community Day will know two Community Day exclusive moves. Although January's Community Day in Pokémon Go hasn't happened yet, Niantic has already announced the details for February. February's Community Day will spotlight Roselia, the Thorn Pokémon. This Grass and Poison type originally encountered in the Hoenn region of Gen III has both an evolution and a baby stage which were added in Gen IV.
 
 
+***
+![10 things selling out this winter—and where you can still buy them](https://www.gannett-cdn.com/presto/2021/01/13/USAT/061f8f10-251d-4cbb-bb0e-26e5e30348b6-snowshoeing.jpg?crop=1280,720,x160,y90&width=1600&height=800&fit=bounds "10 things selling out this winter—and where you can still buy them")
+
+
+[10 things selling out this winter—and where you can still buy them](https://www.usatoday.com/story/tech/reviewedcom/2021/01/13/10-things-selling-out-winter-and-where-you-can-still-buy-them/6654826002/)
+
+
+> Get these things before they sell out.   (Photo: Reviewed / REI) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. The air is cold, the snow has fallen, our hands are constantly freezing—yes, winter is in full swing. That also means certain winter-themed products are harder to come by. As people attempt to entertain themselves during the cold weather in the midst of a pandemic and prepare themselves for any possible storms, a few items are low in stock both in-stores and online.
+
+
+***
+![The best discounts for healthcare workers and first responders in 2021](https://www.gannett-cdn.com/presto/2021/01/13/USAT/823cf3fe-bec2-49b2-9852-20e324c095d4-discounts_hero.jpg?crop=4778,2688,x21,y0&width=3200&height=1680&fit=bounds "The best discounts for healthcare workers and first responders in 2021")
+
+
+[The best discounts for healthcare workers and first responders in 2021](https://www.usatoday.com/story/tech/reviewedcom/2021/01/13/best-discounts-healthcare-workers-and-first-responders/6654606002/)
+
+
+> First responders and healthcare workers can enjoy discounts at these Reviewed-approved retailers.   (Photo: Getty Images) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. As the COVID-19 pandemic has proven, healthcare professionals and first responders are some of the hardest-working people around. In the spirit of giving back for all their hours of sacrifice, many retailers are saying "thank you" with discounts on online orders—and we've got the scoop on which ones to shop.
+
+
+***
+![Reviewed's CES Editors' Choice Awards: The most promising tech to watch for in 2021](https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2021/01/13/USATODAY/usatsports/CES-2021-Editors-Choice-hero-2.jpg?width=1600&height=800&fit=crop "Reviewed's CES Editors' Choice Awards: The most promising tech to watch for in 2021")
+
+
+[Reviewed's CES Editors' Choice Awards: The most promising tech to watch for in 2021](https://www.usatoday.com/story/tech/reviewedcom/2021/01/13/revieweds-ces-2021-editors-choice-award-winners/43325019/)
+
+
+> Reviewed's CES 2021 Editors' Choice Awards   (Photo: Chamberlain / Razer) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. When living in a time like no other, why shouldn't CES follow suit? This year the planet's biggest tech show—normally sprawled across the many convention halls and ballrooms of Las Vegas—was entirely virtual. While it was much-reduced in terms of scale, some might even say that the lack of glitz, glad-handing, and white noise allowed one to focus on the heart of the matter: taking the wrappers off of some shiny new gear.
+
+
+***
+![Venture capitalists react to Visa-Plaid deal meltdown](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1201433610.jpg?w=533 "Venture capitalists react to Visa-Plaid deal meltdown")
+
+
+[Venture capitalists react to Visa-Plaid deal meltdown](https://techcrunch.com/2021/01/13/venture-capitalists-react-to-visa-plaid-deal-meltdown/)
+
+
+> Congratulations, you're no longer selling your company for billions of dollars! As strange as it sounds, that's the leading perspective from venture capitalists concerning Plaid, now that its much-touted sale to Visa has fallen apart . The $5.3 billion deal would have seen banking API startup Plaid join consumer payments and credit giant Visa. But the American government took a dim view of the deal , and according to Axios reporting, Plaid felt like it could be worth more money in time. The TechCrunch team has collected views from venture capitalists, analysts and Anshu Sharma , CEO of another API-powered startup and a former VC to get a better view on the perspectives in the market concerning the blockbuster breakup.
+
+
+***
+![Telegram blocks ‘dozens' of channels threatening violence](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-503572806.jpg?w=562 "Telegram blocks ‘dozens' of channels threatening violence")
+
+
+[Telegram blocks ‘dozens' of channels threatening violence](https://techcrunch.com/2021/01/13/telegram-channels-banned-violent-threats-capitol/)
+
+
+> With many social networks suddenly reevaluating their policies in light of political violence in the U.S., the popular messaging app Telegram is implementing a crackdown of its own. Telegram confirmed to TechCrunch that it has removed 'dozens' of public channels over the course of the last 24 hours after those accounts, some of which have thousands of followers. 'Our Terms of Service expressly forbid public calls to violence,' Telegram spokesperson Mike Ravdonikas told TechCrunch. Asked if those takedowns relate to last week's violent siege of the U.
+
+
