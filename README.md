@@ -3480,3 +3480,53 @@
 > (Image credit: adamm) New technology is trying to help manage asthma in South Africa. ADAMM-RSM is a wearable that monitors respiratory functions to help avoid asthma deaths. In South Africa, there are an estimated 18.5 deaths per 100 000 asthma cases and Akacia Medical & Healthcare Group hopes to help lower this statistic with its tech. 'Asthma cannot be cured, but it can and should be managed to achieve improved symptom control. This, in turn, may reduce hospitalisations and the economic burden of asthma, while improving quality of life for the asthmatic and their caregivers,' says Krüger.
 
 
+***
+![Live stream PSG vs Marseille: How to watch the Trophée des Champions online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/psg-marseille.jpg "Live stream PSG vs Marseille: How to watch the Trophée des Champions online")
+
+
+[Live stream PSG vs Marseille: How to watch the Trophée des Champions online](https://www.androidcentral.com/how-watch-psg-marseille-trophee-des-champions)
+
+
+> Though we're halfway through the regular Ligue 1 season, the traditional French curtain-raiser — the Trophée des Champions — takes place today as Paris Saint-Germain take on Olympique de Marseille. Don't miss a moment with our PSG vs Marseille live stream guide. Similar to the FA Community Shield in English football, France's Trophée des Champions is a showpiece event that normally marks the start of a new season in French football, taking place in late July or early August. Due to the ongoing coronavirus pandemic, the match was postponed and eventually rescheduled to January.
+
+
+***
+![Review: The Astro A50 is a great headset, just not for PS5 users](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/astro-a50-sam-2.jpg "Review: The Astro A50 is a great headset, just not for PS5 users")
+
+
+[Review: The Astro A50 is a great headset, just not for PS5 users](https://www.androidcentral.com/astro-a50-ps5-review)
+
+
+> The Astro A50 is a well-known high-end headset, so I was excited to try it out for the first time with the PS5. It's comfortable, even after very extended sessions playing some of the best PS5 games such as Demon's Souls. Unfortunately, there are some shortcomings PS5 owners need to be aware of, which are only exacerbated by this headset's hefty price tag. The pricetag is consistent if you want to use it on your PC since functionality, fortunately, isn't limited there. At a glance Astro A50 for PS4 and PC Bottom line: The Astro A50 is a good headset but it has a high price tag.
+
+
+***
+![OneRail Completes $6.7 Million Late Seed Financing Led by Chicago Ventures and Bullpen Capital](https://mms.businesswire.com/media/20210113005042/en/798764/23/type.jpg "OneRail Completes $6.7 Million Late Seed Financing Led by Chicago Ventures and Bullpen Capital")
+
+
+[OneRail Completes $6.7 Million Late Seed Financing Led by Chicago Ventures and Bullpen Capital](http://www.businesswire.com/news/home/20210113005042/en/OneRail-Completes-6.7-Million-Late-Seed-Financing-Led-by-Chicago-Ventures-and-Bullpen-Capital/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ORLANDO, Fla.--(BUSINESS WIRE)--OneRail, an Orlando-based delivery orchestration and fulfillment platform, announced today that it has completed a $6.7 Million Late Seed financing. OneRail has raised $12.5 Million since announcing the close of its Series Seed financing in the first Quarter of 2020, bringing its Seed Round to a close. Chicago Ventures and new investor Bullpen Capital led the investment round, with participation from existing investors Las Olas Venture Capital and Alpine Meridian Ventures, along with new investors Triphammer Ventures (Alumni Ventures Group), and CreativeCo Capital.
+
+
+***
+![More than one third of working Americans concerned about a co-worker's mental health](https://mms.businesswire.com/media/20210113005043/en/851795/23/Morneau_Shepell_logo_RGB.jpg "More than one third of working Americans concerned about a co-worker's mental health")
+
+
+[More than one third of working Americans concerned about a co-worker's mental health](http://www.businesswire.com/news/home/20210113005043/en/More-than-one-third-of-working-Americans-concerned-about-a-co-worker’s-mental-health/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHICAGO--(BUSINESS WIRE)--Morneau Shepell, a leading provider of total wellbeing, mental health and digital mental health services, today released its monthly Mental Health Index™ report, revealing a consistently negative mental health score among Americans for the ninth consecutive month. The findings show that worsening anxiety, work productivity and depression continue to impact the mental wellbeing of Americans. The Mental Health Index™ score is -7.9, declining from November (-7.3). The score measures the improvement or decline in mental health from the pre-2020 benchmark of 75.
+
+
+***
+![ComplyAdvantage Releases State Of Financial Crime Report For 2021](https://mms.businesswire.com/media/20210113005059/en/851816/23/Comply.jpg "ComplyAdvantage Releases State Of Financial Crime Report For 2021")
+
+
+[ComplyAdvantage Releases State Of Financial Crime Report For 2021](http://www.businesswire.com/news/home/20210113005059/en/ComplyAdvantage-Releases-State-Of-Financial-Crime-Report-For-2021/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK & LONDON & SINGAPORE--(BUSINESS WIRE)--ComplyAdvantage, a global data technology company transforming financial crime detection, today announced the availability of the firm's much anticipated report The State Of Financial Crime 2021. Designed as a strategic guide for global compliance teams, the report lays out the many emerging threats that governments and financial institutions will face in 2021, along with prescriptive recommendations for implementing best compliance practices for combating financial crimes.
+
+
