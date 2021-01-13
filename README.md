@@ -3724,3 +3724,53 @@
 > DUBLIN--(BUSINESS WIRE)--The "Vendor Risk Management Market - Growth, Trends and Forecasts (2020-2025)" report has been added to ResearchAndMarkets.com's offering. The market for vendor risk management (VRM) is expected to grow at a CAGR of 14.7% during the forecast period (2020-2025). The increasing number of third-party vendors in large as well as in small and medium enterprises, rapidly changing regulations across different regions, and need to continuously monitor and analyze vendor perform
 
 
+***
+![Record PC sales in 2020 as COVID limits work, education to homes](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/pc_505_130121091742.jpg "Record PC sales in 2020 as COVID limits work, education to homes")
+
+
+[Record PC sales in 2020 as COVID limits work, education to homes](https://www.businesstoday.in/technology/news/record-pc-sales-in-2020-as-covid-limits-work-education-to-homes/story/427858.html)
+
+
+> COVID-19 pandemic has turned out to be a blessing for the personal computer (PC) industry. After registering a decline over the last few years, PCs have been in great demand, thanks to work from home, education from home. With the recovery after a supply-constrained Q1, total PC shipments in 2020 grew 11 per cent to reach 297 million units. This represents the highest full-year growth since 2010 and the highest shipment volume since 2014. According to the latest data by research firm Canalys, the shipments across desktop, notebook, and workstations increased by 25 per cent from a year ago to reach a record 90.
+
+
+***
+![Why MSI Brought the Only Laptop With a 1080p Webcam to CES](https://icdn5.digitaltrends.com/image/digitaltrends/msi-gs76-raider-webcam-1200x630-c-ar1.91.jpg "Why MSI Brought the Only Laptop With a 1080p Webcam to CES")
+
+
+[Why MSI Brought the Only Laptop With a 1080p Webcam to CES](https://www.digitaltrends.com/computing/msi-ge66-raider-1080p-webcam-ces-2021/)
+
+
+> In 2020, we all learned the hard way just how bad our laptop webcams all are. They're a horrible, grainy mess, and they make for a terrible videoconferencing experience. That's why I was certain that coming to CES 2021 , the virtual show-floor would be flooded with laptops with 1080p webcams. Surely, after over eight months of constant blurry Zoom calls, companies like Lenovo, HP, Dell, and Asus would relieve our pain. But I was wrong. Very, very wrong. Only one company, MSI, had the smarts to bring a proper 1080p webcam to its laptops — and it's not the one you would have thought.
+
+
+***
+![The MSI GE76 Raider Has a 1080p Webcam and Wi-Fi 6E Support](https://icdn5.digitaltrends.com/image/digitaltrends/ge76-raider-01-1200x630-c-ar1.91.jpg "The MSI GE76 Raider Has a 1080p Webcam and Wi-Fi 6E Support")
+
+
+[The MSI GE76 Raider Has a 1080p Webcam and Wi-Fi 6E Support](https://www.digitaltrends.com/computing/msi-stealth-15m-thinnest-gaming-laptop-ces-2021/)
+
+
+> MSI has announced a slew of updates to its lines of gaming laptops , including its flagship model, the MSI GE76 Raider. It's one of the most technologically advanced gaming laptops at CES this year , sporting not only the latest Nvidia RTX 3080 graphics , but also some quality-of-life updates you won't find anywhere else. The chunky, 17-inch gaming laptop now has the updated chassis to match the 15-inch model, the GE66 Raider. But both laptops have the updated webcam, connectivity, and graphics. Rather than moving to AMD, the GE76 Raider sticks with the older 10th-gen Intel H processors.
+
+
+***
+![Confirmed COVID-19 cases in Sri Lanka cross 50,000](https://adaderanaenglish.s3.amazonaws.com/1610550981-Confirmed-COVID-19-cases-in-Sri-Lanka-cross-50,000-B.jpg "Confirmed COVID-19 cases in Sri Lanka cross 50,000")
+
+
+[Confirmed COVID-19 cases in Sri Lanka cross 50,000](http://www.adaderana.lk/news/70743/confirmed-covid-19-cases-in-sri-lanka-cross-50000)
+
+
+> January 13, 2021   08:39 pm - Covid-19 infections registered in Sri Lanka crossed 50,000 as 378 more persons have tested positive today (January 13). The Government Information Department said the newly-identified patients are close contacts of earlier cases linked to the Peliyagoda fish market cluster.  A total of 687 cases have been reported within the day so far. As per statistics, the total number of Covid-19 infections confirmed in the country to date now stands at 55,229. Recoveries from the virus meanwhile climbed to 43,267 earlier today, with more patients returning to health.
+
+
+***
+![Uptick in COVID-19 figures as 309 more test positive](https://adaderanaenglish.s3.amazonaws.com/1610541864-Covid-19-pandemic-outbreak-Sri-Lanka-L.jpg "Uptick in COVID-19 figures as 309 more test positive")
+
+
+[Uptick in COVID-19 figures as 309 more test positive](http://www.adaderana.lk/news/70739/uptick-in-covid-19-figures-as-309-more-test-positive)
+
+
+> January 13, 2021   06:11 pm - Sri Lanka's COVID-19 numbers saw a surge today, as 309 more persons were tested positive for the virus. As per statistics, the total number of COVID-19 infections confirmed in the country to date now stands at 49,846. Recoveries from the virus meanwhile climbed to 43,267 earlier today, as more patients regained health. However, 6,335 active cases are still under medical care at selected hospitals and treatment centres located across the island. Sri Lanka has also witnessed 244 deaths related to COVID-19.
+
+
