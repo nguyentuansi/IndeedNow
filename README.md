@@ -3530,3 +3530,53 @@
 > NEW YORK & LONDON & SINGAPORE--(BUSINESS WIRE)--ComplyAdvantage, a global data technology company transforming financial crime detection, today announced the availability of the firm's much anticipated report The State Of Financial Crime 2021. Designed as a strategic guide for global compliance teams, the report lays out the many emerging threats that governments and financial institutions will face in 2021, along with prescriptive recommendations for implementing best compliance practices for combating financial crimes.
 
 
+***
+![Nvidia announces RTX 3060 for PCs, RTX 30 series for laptops](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/nvidia_geforce_rtx_3060-483x271_1200_210113170639.jpeg "Nvidia announces RTX 3060 for PCs, RTX 30 series for laptops")
+
+
+[Nvidia announces RTX 3060 for PCs, RTX 30 series for laptops](https://www.indiatoday.in/technology/news/story/nvidia-announces-rtx-3060-for-pcs-rtx-30-series-for-laptops-1758720-2021-01-13)
+
+
+> Nvidia's new graphics cards go big on ray-tracing performance to usher a new world of gaming. Shubham Verma | January 13, 2021 | Updated 16:58 IST
+
+
+***
+![AMD unveils Ryzen 5000 series mobile chipsets to make gaming laptops better than ever](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/691159-ryzen-9-5000-series-bez-483x271_1200_210113150714.jpeg "AMD unveils Ryzen 5000 series mobile chipsets to make gaming laptops better than ever")
+
+
+[AMD unveils Ryzen 5000 series mobile chipsets to make gaming laptops better than ever](https://www.indiatoday.in/technology/news/story/amd-unveils-ryzen-5000-series-mobile-chipsets-to-make-gaming-laptops-better-than-ever-1758661-2021-01-13)
+
+
+> AMD CEO Lisa Su is expecting the first Ryzen 5000 series to hit the markets in February. Shubham Verma | January 13, 2021 | Updated 14:54 IST
+
+
+***
+![Xiaomi Mi 11 Lite tipped to be unveiled at Mi 11 global launch event](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/mi_11_lite_0-483x271_1200_210113160603.jpeg "Xiaomi Mi 11 Lite tipped to be unveiled at Mi 11 global launch event")
+
+
+[Xiaomi Mi 11 Lite tipped to be unveiled at Mi 11 global launch event](https://www.indiatoday.in/technology/news/story/xiaomi-mi-11-lite-tipped-to-be-unveiled-at-mi-11-global-launch-event-1758684-2021-01-13)
+
+
+> The Mi 11 Lite could come with a Snapdragon 732 SoC and may sport a triple rear camera setup at the back. Sushant Talwar | January 13, 2021 | Updated 15:47 IST
+
+
+***
+![Signal vs Telegram: Which has better security, which is easy to use and other key details](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/img_20210113_144121-483x271_1200_210113160614.jpeg "Signal vs Telegram: Which has better security, which is easy to use and other key details")
+
+
+[Signal vs Telegram: Which has better security, which is easy to use and other key details](https://www.indiatoday.in/technology/news/story/signal-vs-telegram-which-has-better-security-which-is-easy-to-use-and-other-key-details-1758683-2021-01-13)
+
+
+> Highlights Telegram for desktop can be accessed web.telegram.org. It does not have to be linked to the Android or iOS apps as against Signal which requires mobile apps. End-to-end encryption status is not enabled on Telegram by default as against Signal that implements end-to-end encryption. The only personal data Signal stores is your phone number. Telegram has access to your contact info, contacts and user ID. Messaging apps Signal and Telegram have witnessed a surge in downloads in India since the pop-ups about WhatsApp's new contentious terms of service started showing up for users when they opened the app.
+
+
+***
+![Care about privacy? Don't just uninstall WhatsApp, here is what you need to do for private digital life](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/privacy_main_image-483x271_1200_210113164545.png "Care about privacy? Don't just uninstall WhatsApp, here is what you need to do for private digital life")
+
+
+[Care about privacy? Don't just uninstall WhatsApp, here is what you need to do for private digital life](https://www.indiatoday.in/technology/features/story/care-about-privacy-don-t-just-uninstall-whatsapp-here-is-what-you-need-to-do-for-private-digital-life-1758710-2021-01-13)
+
+
+> If you are spooked about the latest WhatsApp policy changes and getting rid of it to ensure better privacy, don't just stop at uninstalling WhatsApp. Digital privacy is tough work, and you will have to do a lot more. India Today Tech | January 13, 2021 | Updated 16:42 IST
+
+
