@@ -3005,3 +3005,50 @@
 > CES, the annual gadget show that showcases the buzziest and brightest tech, looks different this year — less Vegas glitz, more internet efficiency
 
 
+***
+![PS5 stock checker UK – Sony Playstation 5 consoles and Hogwarts Legacy at Argos, Game, Currys, Amazon, Very and Smyths](https://www.thesun.co.uk/wp-content/uploads/2020/12/ps5-live-281220.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock checker UK – Sony Playstation 5 consoles and Hogwarts Legacy at Argos, Game, Currys, Amazon, Very and Smyths")
+
+
+[PS5 stock checker UK – Sony Playstation 5 consoles and Hogwarts Legacy at Argos, Game, Currys, Amazon, Very and Smyths](https://www.thesun.co.uk/tech/13233222/ps5-stock-checker-uk-hogwarts-argos-very-game-currys-amazon-live/)
+
+
+> NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console or accessories like wireless headphones.
+
+
+***
+[PS5 stock checker UK – Sony Playstation 5 consoles and Hogwarts Legacy at Argos, Game, Currys, Amazon, Very and Smyths](https://www.the-sun.com/lifestyle/tech/1823989/ps5-stock-checker-uk-hogwarts-argos-very-game-currys-amazon-live/)
+
+
+> NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it […]
+
+
+***
+![Chinese freight platform to raise more cash on huge investor demand](https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos&format=svg "Chinese freight platform to raise more cash on huge investor demand")
+
+
+[Chinese freight platform to raise more cash on huge investor demand](https://www.ft.com/content/81a0de01-515f-4706-a171-9c6b39c90355)
+
+
+> Gain a global perspective on the US and go beyond with curated news and analysis from 600 journalists in 50+ countries covering politics, business, innovation, trends and more.
+
+
+***
+![Social media political manipulation has ‘soared since 2019 to an industrial scale'](https://i.inews.co.uk/content/uploads/2021/01/PRI_178856010.jpg "Social media political manipulation has ‘soared since 2019 to an industrial scale'")
+
+
+[Social media political manipulation has ‘soared since 2019 to an industrial scale'](https://inews.co.uk/news/technology/social-media-political-manipulation-soared-disinformation-uk-us-russia-propaganda-826934)
+
+
+> Social media political manipulation has ‘soared since 2019 to an industrial scale' Coordinated social media campaigns are undermining democracy and spreading disinformation in 81 countries worldwide on an ‘industrial scale' new report cautions Social media manipulation campaigns spreading propaganda and political disinformation are being conducted in 81 countries worldwide, amplifying anti-democratic rhetoric and exploiting geopolitical influence, a new report has warned. The Oxford Internet Institute (OII), which is part of the University of Oxford, identified the UK, US and Russia as among the worst perpetrators, having found evidence of social media manipulation from government agencies, politicians and political parties, private contractors, civil society organisations, ordinary people and influencers in the countries.
+
+
+***
+![Wednesday Daily Thread: Beginner questions](https://external-preview.redd.it/8lGJXaQoY6hm0yzDNsG2yzAE7FYF_iP0iW_mCsRiqLk.jpg?auto=webp&s=0c1985f1543fe7a14d14311c2652d980005ef82b "Wednesday Daily Thread: Beginner questions")
+
+
+[Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/kw47c7/wednesday_daily_thread_beginner_questions/)
+
+
+> New to Python and have questions? Use this thread to ask anything about Python, there are no bad questions! This thread may be fairly low volume in replies, if you don't receive a response we recommend looking at r/LearnPython or joining the Python Discord server at https://discord.gg/python where you stand a better chance of receiving a response.
+
+
