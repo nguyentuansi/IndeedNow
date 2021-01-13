@@ -3430,3 +3430,53 @@
 > PostProcess Technologies has announced former ICONICS executive Jim Kent as its new Chief Financial Officer as it looks to facilitate automation software development & enhance growth.
 
 
+***
+![Samsung Galaxy S21 launch: what to expect from S21 Ultra to SmartTags](https://cdn.mos.cms.futurecdn.net/CpZZBzs2hjCkWYSLQmtUgH-1200-80.jpg "Samsung Galaxy S21 launch: what to expect from S21 Ultra to SmartTags")
+
+
+[Samsung Galaxy S21 launch: what to expect from S21 Ultra to SmartTags](https://www.techradar.com/news/samsung-galaxy-s21-launch-five-things-we-expect-to-see)
+
+
+> We're expecting several devices and a few surprises when the Samsung Galaxy S21 phones launch on January 14. We've heard plenty of rumors about the phones, so we have a good idea of what we could see from them – but there's always the chance that Samsung completely surprises us with new products.Samsung is announcing its phones over a month earlier than we expected. The company often announces its handsets in February or March around the time of Mobile World Congress. While the company hasn't explicitly explained why it's moved up its timetable, we can guess that the online-only nature of these events motivated Samsung to just introduce its first big devices of the year without waiting for whatever MWC 2021 brings.
+
+
+***
+![YouTube suspends Trump's channel: A look at how Facebook, Twitter and others banned him](https://images.indianexpress.com/2021/01/DonaldTrump_BLOOMB1.jpg "YouTube suspends Trump's channel: A look at how Facebook, Twitter and others banned him")
+
+
+[YouTube suspends Trump's channel: A look at how Facebook, Twitter and others banned him](https://indianexpress.com/article/technology/tech-news-technology/youtube-suspends-trumps-channel-a-look-at-how-facebook-twitter-and-others-banned-us-president-7144719/)
+
+
+> YouTube is the latest platform to ban US President Donald Trump for violating policies and inciting violence, joining Facebook, Instagram and Twitter, which have taken a similar course of action. The YouTube suspension comes a week after an attack on the US Capitol by the president's supporters, who tried to halt the certification by Congress of President-elect Joe Biden's election win. We take a look at all the big tech platforms, which have taken action against the US President. YouTube YouTube confirmed the seven-day ban in a series of tweets.
+
+
+***
+![TikTok update will change privacy settings and defaults for users under 18](https://techcrunch.com/wp-content/uploads/2019/02/tik-tok-ios-icon.jpg?w=711 "TikTok update will change privacy settings and defaults for users under 18")
+
+
+[TikTok update will change privacy settings and defaults for users under 18](https://techcrunch.com/2021/01/13/tiktok-update-will-change-privacy-settings-and-defaults-for-users-under-18/)
+
+
+> TikTok announced today it's making changes to its app to make the experience safer for younger users. The company will now set the accounts for users ages 13 to 15 to private by default, as well as tighten other controls for all users under 18, in terms of how they can interact with other users and TikTok content itself. TikTok is also announcing a partnership with nonprofit Common Sense Networks, an education and advocacy group that helps parents and educators navigate today's media landscape, including children's use of technology.
+
+
+***
+![Have a PlayStation gift card? Here's how to use it!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2017/12/playstation-gift-card.jpg "Have a PlayStation gift card? Here's how to use it!")
+
+
+[Have a PlayStation gift card? Here's how to use it!](https://www.androidcentral.com/how-use-playstation-gift-cards)
+
+
+> Like every other digital store, the PlayStation Store has a Gift Card program. You can buy these gift cards basically anywhere — either physical or digital — making them fantastic to gift for any occasion. Whether you're looking to pick up some of the hottest new games or some of the best games of the last couple of years, giving and receiving gift cards is always a solid gift idea. You might be wondering how to redeem a PlayStation gift card, though, and we've got you covered there. How to redeem your PlayStation gift card on your console Luckily, redeeming a PlayStation gift card is easy no matter what console you have, or if you'd rather do it on a computer.
+
+
+***
+![New tech is helping manage asthma in South Africa](https://cdn.mos.cms.futurecdn.net/jZeGNbvdxDepk5pRHo3RPY-1200-80.jpg "New tech is helping manage asthma in South Africa")
+
+
+[New tech is helping manage asthma in South Africa](https://global.techradar.com/news/new-tech-is-helping-manage-asthma-in-south-africa)
+
+
+> (Image credit: adamm) New technology is trying to help manage asthma in South Africa. ADAMM-RSM is a wearable that monitors respiratory functions to help avoid asthma deaths. In South Africa, there are an estimated 18.5 deaths per 100 000 asthma cases and Akacia Medical & Healthcare Group hopes to help lower this statistic with its tech. 'Asthma cannot be cured, but it can and should be managed to achieve improved symptom control. This, in turn, may reduce hospitalisations and the economic burden of asthma, while improving quality of life for the asthmatic and their caregivers,' says Krüger.
+
+
