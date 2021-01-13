@@ -4068,3 +4068,50 @@
 > Encrypted messaging apps Signal and Telegram are seeing huge upticks in downloads from Apple and Google's app stores, while WhatsApp's growth is on the decline following a privacy fiasco where the company was forced to clarify a message it sent to users
 
 
+***
+[Sources: Poshmark is pricing its IPO at $42 per share, raising $277M, up from its $35-$39 price initially noted in an earlier filing (Bloomberg)](http://www.techmeme.com/210113/p42#a210113p42)
+
+
+> Bloomberg: Sources: Poshmark is pricing its IPO at $42 per share, raising $277M, up from its $35-$39 price initially noted in an earlier filing — Poshmark Inc., the online marketplace for second-hand goods, is discussing pricing its U.S. initial public offering above a marketed range, according to people with knowledge of the matter.
+
+
+***
+![Parler asks U.S. court to order Amazon to restore service to social media app](https://i-invdn-com.akamaized.net/news/LYNXNPEA8N0V9_L.jpg "Parler asks U.S. court to order Amazon to restore service to social media app")
+
+
+[Parler asks U.S. court to order Amazon to restore service to social media app](https://www.investing.com/news/technology-news/amazon-warned-parler-about-violent-content-before-cutoff-court-filing-2388346)
+
+
+> © Reuters. FILE PHOTO: Amazon's JFK8 distribution center in Staten Island, New York City WASHINGTON (Reuters) - Parler, a social media outlet favored by some supporters of U.S. President Donald Trump, urged a court Wednesday to order Amazon.com Inc (NASDAQ:) to put it back online. Amazon had shut down Parler following the Jan. 6 riot by Trump supporters at the Capitol aimed at preventing Democrat Joe Biden from becoming president. Parler filed a lawsuit against Amazon on Jan. 11, accusing it of making an illegal decision to shut it down to benefit Twitter Inc (NYSE:) In its filing, Parler argued that Amazon Web Services breached its contract by cutting it off.
+
+
+***
+![Best TV 2021: 10 big-screen TVs worth buying in Australia this year](https://cdn.mos.cms.futurecdn.net/5mXtK8JWt6w4b5CgYKoBYf-1200-80.jpg "Best TV 2021: 10 big-screen TVs worth buying in Australia this year")
+
+
+[Best TV 2021: 10 big-screen TVs worth buying in Australia this year](https://www.techradar.com/news/best-tv-au/)
+
+
+> Looking for the best TV to buy this year? We've got you covered. Although it's still early days, we've gone eyes on with some of the biggest, brightest, and highest-performing televisions of the past 12 months and have assembled the essential guide for potential TV buyers. Some of our picks below represent the absolute crème de la crème of what's available today (see: LG CX OLED, the Sony A8H OLED and Samsung Q95T) but we've also highlighted a number of TVs that provide incredible value for your money, too.
+
+
+***
+![An idle race game with pygame](https://external-preview.redd.it/UcqB3RmvzW2WXDkyjWM5GgbqRc8iCICoHy6fLUvt_1Q.jpg?auto=webp&s=bab730913c78acc62395790dea89bdb41d01ec9f "An idle race game with pygame")
+
+
+[An idle race game with pygame](https://www.reddit.com/r/Python/comments/kws3xs/an_idle_race_game_with_pygame/)
+
+
+> Here is a youtube video(could be loud) and source code. My first game and also it was my python learning project. I learned a lot of things how should/should not to do but at the end of this, there is unlimited improvements and at some point so I must go for another projects with good management and plans. There are shortcomings in the project and I had things in mind that wanted to add, but I didn't want to spend more time only one beginner project. Anyway, thanks for your time. Stay safe.
+
+
+***
+![Millions Flock to Telegram and Signal as Fears Grow Over Big Tech](https://static01.nyt.com/images/2021/01/13/upshot/13encrypt/merlin_151317627_ed1d25d1-8a1b-4705-a68c-6d15593af8cb-facebookJumbo.jpg "Millions Flock to Telegram and Signal as Fears Grow Over Big Tech")
+
+
+[Millions Flock to Telegram and Signal as Fears Grow Over Big Tech](https://www.nytimes.com/2021/01/13/technology/telegram-signal-apps-big-tech.html)
+
+
+> Continue reading the main storyThe encrypted messaging services have become the world's hottest apps over the last week, driven by growing anxiety over the power of the biggest tech companies and privacy concerns.Angered or fearful of the big tech companies, many people have moved to encrypted communications apps like Signal over the past week.Credit...Giulia Marchi for The New York TimesBy Jack Nicas, Mike Isaac and Sheera FrenkelJan. 13, 2021, 5:50 p.m. ETNeeraj Agrawal, a spokesman for a cryptocurrency think tank, has typically used the encrypted messaging app Signal to chat with privacy-minded colleagues and peers.
+
+
