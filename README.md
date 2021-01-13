@@ -3052,3 +3052,50 @@
 > New to Python and have questions? Use this thread to ask anything about Python, there are no bad questions! This thread may be fairly low volume in replies, if you don't receive a response we recommend looking at r/LearnPython or joining the Python Discord server at https://discord.gg/python where you stand a better chance of receiving a response.
 
 
+***
+![Toshiba Introduces 5 New Groups of TXZ+™ Family Advanced Class Microcontrollers That Realize Low Power Consumption, Support System Cost Reduction and Motor Control](https://mms.businesswire.com/media/20210112005488/en/851730/23/TXZ4A%EF%BC%8B_1200_628.jpg "Toshiba Introduces 5 New Groups of TXZ+™ Family Advanced Class Microcontrollers That Realize Low Power Consumption, Support System Cost Reduction and Motor Control")
+
+
+[Toshiba Introduces 5 New Groups of TXZ+™ Family Advanced Class Microcontrollers That Realize Low Power Consumption, Support System Cost Reduction and Motor Control](http://www.businesswire.com/news/home/20210112005488/en/Toshiba-Introduces-5-New-Groups-of-TXZ™-Family-Advanced-Class-Microcontrollers-That-Realize-Low-Power-Consumption-Support-System-Cost-Reduction-and-Motor-Control/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TOKYO--(BUSINESS WIRE)--Toshiba Electronic Devices & Storage Corporation ("Toshiba") introduces five groups of new microcontrollers, which belong to the TXZ+™ family. The M4K, M4M, M4G, and M4N groups are based on the Arm Cortex-M4 core, and the M3H group is based on the Arm Cortex-M3 core. All groups offer low power consumption, suitable for a wide variety of applications such as motor control, connected IoT devices, leading-edge sensing functionalities, etc. Engineering samples will start to ship in the fourth quarter of FY2020 (January to March 2021) and mass production will start in the second quarter of FY2021 (July to September 2021).
+
+
+***
+[Interview with Dr. Lisa Su, AMD's CEO, on the new Ryzen 5000 Series Mobile lineup, Apple's M1 chip, supply shortages, AMD's acquisition of Xilinx, and more (Dr. Ian Cutress/AnandTech)](http://www.techmeme.com/210112/p54#a210112p54)
+
+
+> Dr. Ian Cutress / AnandTech: Interview with Dr. Lisa Su, AMD's CEO, on the new Ryzen 5000 Series Mobile lineup, Apple's M1 chip, supply shortages, AMD's acquisition of Xilinx, and more — Following the keynote press conference, AMD invited a number of key press partners for some Q&A time with Dr. Lisa Su.
+
+
+***
+![Explainer: What is Parler and why has it been pulled offline?](https://i-invdn-com.akamaized.net/news/LYNXNPED4E075_L.jpg "Explainer: What is Parler and why has it been pulled offline?")
+
+
+[Explainer: What is Parler and why has it been pulled offline?](https://www.investing.com/news/technology-news/explainer-what-is-parler-and-why-has-it-been-pulled-offline-2387009)
+
+
+> © Reuters. By Elizabeth Culliford and Munsif Vengattil (Reuters) - Before Apple Inc (NASDAQ:) banned Parler from its App Store store on Saturday, the social media site topped the charts as the most popular free app on its App Store in the United States. Interest in the fast-growing app had surged again after Twitter banned President Donald Trump on Friday. After Amazon.com Inc (NASDAQ:) stopped hosting its business, effectively taking the upstart social media service offline, Parler is now fighting for survival.
+
+
+***
+![Huawei CFO Meng Wanzhou asks Canada court to drop security detail to loosen bail conditions](https://i-invdn-com.akamaized.net/news/Computer-(tech-sector)_800x533_L_1412662134.jpg "Huawei CFO Meng Wanzhou asks Canada court to drop security detail to loosen bail conditions")
+
+
+[Huawei CFO Meng Wanzhou asks Canada court to drop security detail to loosen bail conditions](https://www.investing.com/news/technology-news/huawei-cfo-meng-wanzhou-asks-canada-court-to-drop-security-detail-to-loosen-bail-conditions-2387151)
+
+
+> 2/2 © Reuters. FILE PHOTO: Huawei Technologies Chief Financial Officer Meng Wanzhou leaves her home to attend a court hearing in Vancouver 2/2 By Moira Warburton (Reuters) - Lawyers for Huawei Chief Financial Officer Meng Wanzhou argued in a court on Tuesday to let her leave home without the security detail that was a condition of her bail since she was released after her December 2018 arrest. Meng's husband, Liu Xiaozong, gave an affidavit citing the negative impacts his wife's bail conditions have had on her and their family.
+
+
+***
+![Amplication – Instantly Generate Node.js Apps with GraphQL and REST API](https://external-preview.redd.it/ZTbI0T0BW8tmk8yRvt1XdTOsLIv75aOLBdnouBt49iY.jpg?auto=webp&s=a71a670c389d6afb393af42afcb116233b2eb017 "Amplication – Instantly Generate Node.js Apps with GraphQL and REST API")
+
+
+[Amplication – Instantly Generate Node.js Apps with GraphQL and REST API](https://www.reddit.com/r/programming/comments/kw5up0/amplication_instantly_generate_nodejs_apps_with/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
