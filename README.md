@@ -3680,3 +3680,47 @@
 > Plug Power's hydrogen tank truck is seen in this photo provided by SK Holdings, Wednesday. / Courtesy of SK HoldingsSK-invested Power Plug to begin hydrogen car biz with RenaultBy Baek Byung-yeulSK Group is riding high on the growing hydrogen fuel cell business as U.S.-based power company Plug Power, in which the group recently purchased shares, will expand into the fuel cell vehicle business with French automotive group Renault.Plug Power said Tuesday (local time) that it signed a memorandum of understanding with French automotive Groupe Renault to launch a 50-50 joint venture based in France by the end of the first half of 2021.
 
 
+***
+[EUR/GBP: Right shoulder to a larger top. Targeting 0.8609 - Credit Suisse](https://www.forexlive.com/technical-analysis/!/eurgbp-right-shoulder-to-a-larger-top-targeting-08609-credit-suisse-20210113)
+
+
+> Credit Suisse on EUR/GBP Credit Suisse discusses EUR/GBP technical outlook and sees "EURGBP weakness has accelerated following its rejection from resistance at .9096 and . Indeed, further price support at .8931/29 has been removed with ease and we look for a retest of medium -term support at .8871/61, the key series of lows seen through 2020,"
+
+
+***
+![Should you buy the Amazfit GTS 2 or the GTR 2?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/amazfit-gtr-2-review-2.jpeg "Should you buy the Amazfit GTS 2 or the GTR 2?")
+
+
+[Should you buy the Amazfit GTS 2 or the GTR 2?](https://www.androidcentral.com/amazfit-gts-2-vs-gtr-2)
+
+
+> Unique and compact Amazfit GTS 2 More traditional design Amazfit GTR 2 It might look like an Apple Watch, but the Amazfit GTS is much more affordable. This fitness smartwatch offers GPS, activity/sleep tracking, heart rate and blood oxygen monitoring, voice assistant, music storage, and more. Plus, the lightweight design is perfect for fitness enthusiasts. $180 at Amazon Pros Heart rate, blood oxygen monitoring Built-in GPS Voice assistant, mic, and speaker Music storage Lightweight design Cons Shorter battery life Lower-resolution display Zepp app is a learning curve The Amazfit GTR 2 takes a more traditional design approach with its circular face, which offers a higher-resolution display.
+
+
+***
+![Use the Workout app on Apple Watch for all your workout routines](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/09/apple-watch-series-6-review-02.jpeg "Use the Workout app on Apple Watch for all your workout routines")
+
+
+[Use the Workout app on Apple Watch for all your workout routines](https://www.imore.com/how-use-workout-app-apple-watch)
+
+
+> Source: iMore If you own an Apple Watch, the odds are relatively high that you plan on using the wearable device to keep track of exercise routines. Doing so has never been easier thanks to the built-in Workout app on Apple Watch. In this article, you'll learn how to use the app and get into shape. The number of trackable Apple Watch exercise routines continues with each watchOS release. In watchOS 7, for example, Apple added fitness metrics for Dance, Functional Strength Training, Core Training, and a post-workout Cooldown.
+
+
+***
+![VMware Board of Directors Initiates Search for Chief Executive Officer](https://mms.businesswire.com/media/20210113005625/en/782362/23/4284573_300DPIxVMware-logo-grey_highres_.jpg "VMware Board of Directors Initiates Search for Chief Executive Officer")
+
+
+[VMware Board of Directors Initiates Search for Chief Executive Officer](http://www.businesswire.com/news/home/20210113005625/en/VMware-Board-of-Directors-Initiates-Search-for-Chief-Executive-Officer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PALO ALTO, Calif.--(BUSINESS WIRE)--VMware, Inc. (NYSE: VMW), a leading innovator in enterprise software, today announced that its Board of Directors has initiated a search for a new chief executive officer (CEO) following a decision by Pat Gelsinger to step down from the position, effective February 12, 2021, to lead Intel as its new CEO. Gelsinger previously spent 30 years at Intel serving in various leadership roles, including chief technology officer. Zane Rowe, VMware's chief financial officer, has been appointed Interim CEO.
+
+
+***
+[Worldwide Vendor Risk Management Industry to 2025 - North America Expected to Hold Major Share - ResearchAndMarkets.com](http://www.businesswire.com/news/home/20210113005621/en/Worldwide-Vendor-Risk-Management-Industry-to-2025---North-America-Expected-to-Hold-Major-Share---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Vendor Risk Management Market - Growth, Trends and Forecasts (2020-2025)" report has been added to ResearchAndMarkets.com's offering. The market for vendor risk management (VRM) is expected to grow at a CAGR of 14.7% during the forecast period (2020-2025). The increasing number of third-party vendors in large as well as in small and medium enterprises, rapidly changing regulations across different regions, and need to continuously monitor and analyze vendor perform
+
+
