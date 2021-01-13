@@ -3921,3 +3921,53 @@
 > Subscribe Now! Facebook twitter google +
 
 
+***
+![Next gen gaming is not about raw power this time](https://static.ffx.io/images/$zoom_0.9114%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/91b26153e89f7d620af3e4d35fe70fd2571984eb "Next gen gaming is not about raw power this time")
+
+
+[Next gen gaming is not about raw power this time](https://www.smh.com.au/technology/video-games/next-gen-gaming-is-not-about-raw-power-this-time-20201216-p56o27.html)
+
+
+> Next gen gaming is not about raw power this time January 14, 2021 — 8.00am, register or subscribe to save articles for later.The hype around new games consoles might be on the shiny new graphics, but for me the game changers have been Quick Resume on the Xbox Series X and the DualSense controller on the Playstation 5; both have truly changed the way I play and enjoy games.Quick Resume enables you to switch between several games at a time almost instantly without losing your spot in any of them.LoadingMy gaming habit usually consists of focusing on one title at a time and seeing it through to completion before starting the next, but with Quick Resume I've found myself steadily progressing through multiple titles as I no longer need to sit through the tedium of booting a game fresh every time.
+
+
+***
+![Dan Ingalls, inventor of bit-mapped computer graphics (bitblt), the Smalltalk-80 virtual machine, pop-up menus, etc speaks in a live interactive youtube conference tonight at this link (more in a comment)](https://external-preview.redd.it/8c0Nfxw8eRSxaqbw6_F5rKq8JsqDLszXfdtia7k27m8.jpg?auto=webp&s=55519b429a59dedd39b3afbde266f5afb71669b8 "Dan Ingalls, inventor of bit-mapped computer graphics (bitblt), the Smalltalk-80 virtual machine, pop-up menus, etc speaks in a live interactive youtube conference tonight at this link (more in a comment)")
+
+
+[Dan Ingalls, inventor of bit-mapped computer graphics (bitblt), the Smalltalk-80 virtual machine, pop-up menus, etc speaks in a live interactive youtube conference tonight at this link (more in a comment)](https://www.reddit.com/r/programming/comments/kwphwu/dan_ingalls_inventor_of_bitmapped_computer/)
+
+
+> Dan Ingalls, inventor of bit-mapped computer graphics (bitblt), the Smalltalk-80 virtual machine, pop-up menus, etc speaks in a live interactive youtube conference tonight at this link (more in a comment)
+
+
+***
+![susam/mintotp MinTOTP is a minimal TOTP generator written in Python.](https://external-preview.redd.it/nyWeI2xZFvsKph6XIkZzQHIzWlVVzakDDny6JXVpyxY.jpg?auto=webp&s=c95b08519f143a148b9d7b7dc21b11e2fa3499bd "susam/mintotp MinTOTP is a minimal TOTP generator written in Python.")
+
+
+[susam/mintotp MinTOTP is a minimal TOTP generator written in Python.](https://www.reddit.com/r/Python/comments/kwpgmu/susammintotp_mintotp_is_a_minimal_totp_generator/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+!['Walkable chair' makes standing on the job an easier prospect](https://i-invdn-com.akamaized.net/news/LYNXMPED350QS_L.jpg "'Walkable chair' makes standing on the job an easier prospect")
+
+
+['Walkable chair' makes standing on the job an easier prospect](https://www.investing.com/news/technology-news/walkable-chair-makes-standing-on-the-job-an-easier-prospect-2388476)
+
+
+> More Analysis
+
+
+***
+![Roselia will be in the spotlight for Pokémon Go Community Day](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/pokemon-go-community-day-roselia.jpg "Roselia will be in the spotlight for Pokémon Go Community Day")
+
+
+[Roselia will be in the spotlight for Pokémon Go Community Day](https://www.imore.com/pokemon-go-will-feature-roselia-february-community-day)
+
+
+> Source: Niantic The February 2021 Pokémon Go Community Day will feature Roselia. Community Day will run Sunday, February 7 from 11 AM through 5 PM. Roserade evolved during Community Day will know two Community Day exclusive moves. Although January's Community Day in Pokémon Go hasn't happened yet, Niantic has already announced the details for February. February's Community Day will spotlight Roselia, the Thorn Pokémon. This Grass and Poison type originally encountered in the Hoenn region of Gen III has both an evolution and a baby stage which were added in Gen IV.
+
+
