@@ -4021,3 +4021,50 @@
 > With many social networks suddenly reevaluating their policies in light of political violence in the U.S., the popular messaging app Telegram is implementing a crackdown of its own. Telegram confirmed to TechCrunch that it has removed 'dozens' of public channels over the course of the last 24 hours after those accounts, some of which have thousands of followers. 'Our Terms of Service expressly forbid public calls to violence,' Telegram spokesperson Mike Ravdonikas told TechCrunch. Asked if those takedowns relate to last week's violent siege of the U.
 
 
+***
+![Samsung & Twitch Rivals Partnership Aims To "Reinvent Mobile Gaming"](https://www.androidheadlines.com/wp-content/uploads/2021/01/Samsung-Twitch-Rivals.jpg "Samsung & Twitch Rivals Partnership Aims To "Reinvent Mobile Gaming"")
+
+
+[Samsung & Twitch Rivals Partnership Aims To "Reinvent Mobile Gaming"](https://www.androidheadlines.com/2021/01/samsung-twitch-rivals-mobile-gaming-galaxy-5g-smartphones-android.html)
+
+
+> Samsung is out to "reinvent the future of mobile gaming" with its new partner, Twitch Rivals North America.This will be the first partnership between Samsung and Twitch Rivals, but more specifically Twitch. It won't however be Samsung's first big gaming partnership. With the launch of the Galaxy S20 and Galaxy Note 20 series, Samsung partnered up with Discord.The partnership with Twitch will span over the course of the next full year. And include all kinds of incentives for Twitch streamers as well as viewers.
+
+
+***
+![Signal sees "unprecedented" growth after WhatsApp controversy](https://i-invdn-com.akamaized.net/news/LYNXMPEB410C9_L.jpg "Signal sees "unprecedented" growth after WhatsApp controversy")
+
+
+[Signal sees "unprecedented" growth after WhatsApp controversy](https://www.investing.com/news/technology-news/signal-to-ramp-up-hiring-after-whatsapp-controversy-drives-download-surge-2388174)
+
+
+> 2/2 © Reuters. Brian Acton, co-founder of WhatsApp, speaks at the WSJD Live conference in Laguna Beach, California 2/2 By Munsif Vengattil and Eva Mathews (Reuters) - Messaging app Signal has seen "unprecedented" growth following a controversial change in rival WhatsApp's privacy terms and is looking to hire more staff as it seeks to bolster the service and supporting infrastructure, the head of its controlling foundation said on Wednesday. Along with another encrypted app, Telegram, Signal has been the main beneficiary of online outrage around the changes announced last week, which require WhatsApp users to share their data with both Facebook (NASDAQ:) FB.
+
+
+***
+![Best of CES 2021: Laptop Mag's top picks](https://cdn.mos.cms.futurecdn.net/jKP7rQwgkUFtKieGK6WHaZ-1200-80.jpg "Best of CES 2021: Laptop Mag's top picks")
+
+
+[Best of CES 2021: Laptop Mag's top picks](https://www.laptopmag.com/best-picks/best-of-ces-2021)
+
+
+> CES 2021 wasn't your traditional trade show. There were no booths, fancy keynotes or aching feet from walking from one conference center to the next. Every new gadget was shown virtually, a safety precaution as we ride out the ongoing coronavirus pandemic. But although we missed out on all the things we love (and hate) about our annual journey to Las Vegas, the real stars of the show — the latest and greatest gadgets from the world's largest and smallest tech companies —  made their appearance at this all-digital event.
+
+
+***
+![CES 2021: Why this new electronic ink-like TCL tablet seems perfect for comic book fans](https://cdn.mos.cms.futurecdn.net/BHmGnZupgMsd8wPRYXstYf-1200-80.jpg "CES 2021: Why this new electronic ink-like TCL tablet seems perfect for comic book fans")
+
+
+[CES 2021: Why this new electronic ink-like TCL tablet seems perfect for comic book fans](https://www.techradar.com/news/ces-2021-why-this-new-electronic-ink-like-tcl-tablet-seems-perfect-for-comic-book-fans)
+
+
+> The TCL NXTPAPER was officially announced at CES 2021, and it's an interesting piece of tech in its own right: the first electronic ink-like device with a color screen, a combination that's both easier on the eyes over long periods and is a bit more battery-friendly than traditional tablets with LCD screens. All that adds up to what could be the best device yet… for reading comics.Comics, comic books, ‘the funny pages,' sequential art – they're a seminal part of the modern media landscape, and the source material for the superhero film genre that's dominated cinemas for the last decade-plus.
+
+
+***
+[WhatsApp growth slumps as rivals Signal, Telegram rise](https://www.mymotherlode.com/news/technology/1477415/whatsapp-growth-slumps-as-rivals-signal-telegram-rise.html)
+
+
+> Encrypted messaging apps Signal and Telegram are seeing huge upticks in downloads from Apple and Google's app stores, while WhatsApp's growth is on the decline following a privacy fiasco where the company was forced to clarify a message it sent to users
+
+
