@@ -3333,3 +3333,53 @@
 > Nvidia has announced their GeForce RTX 30 series flagship graphics processors for laptops at the CES 2021. The new series includes the RTX 3060, RTX 3070, and the RTX 3080, all backed by a new Max-Q design to deliver optimal power and performance for notebooks. Each of the cards brings a performance upgrade, and the 3080 is the fastest. Nvidia said these will be the world's fastest laptops, promising over 100 frames per second at 1440p with RTX on for "popular graphics-intensive games". The new GeForce RTX 3060 is claimed to deliver 90fps on the latest games with ultra settings at 1080p resolution on laptops that will have a starting price of $999.
 
 
+***
+![YouTube suspends Trump's channel after violating policy on inciting violence](https://assets2.rappler.com/2021/01/2021-01-12T225802Z_1192036993_RC2M6L9LF487_RTRMADP_3_USA-TRUMP-GOOGLE-1610520983092.jpg "YouTube suspends Trump's channel after violating policy on inciting violence")
+
+
+[YouTube suspends Trump's channel after violating policy on inciting violence](https://www.rappler.com/technology/youtube-suspends-trumps-channel-after-violating-policy-on-inciting-violence)
+
+
+> Alphabet Inc's YouTube said on Tuesday, January 12, it has suspended Donald Trump's channel as it violated policies for inciting violence after last week's assault on the US Capitol by the president's supporters. Online platforms and social media companies are distancing themselves from, and taking action against, those that encouraged or engaged in the violence in Washington, DC. Trump's channel is now prevented from uploading new videos or livestreams for a minimum of 7 days, which may be extended, Youtube said in a statement.
+
+
+***
+![Bigo to utilise cutting-edge technology and special effects to host Annual Gala awards](https://imagevars.gulfnews.com/2021/01/13/Bigo-Lead_176faa0e845_medium.jpg "Bigo to utilise cutting-edge technology and special effects to host Annual Gala awards")
+
+
+[Bigo to utilise cutting-edge technology and special effects to host Annual Gala awards](https://gulfnews.com/technology/bigo-to-utilise-cutting-edge-technology-and-special-effects-to-host-annual-gala-awards-1.1610469519536)
+
+
+> . Image Credit: Supplied BIGO Technology (BIGO), a Singapore-based pioneering Internet technology company, is hosting their annual Gala Awards Ceremony. On January 21th 2021, BIGO Technology will be hosting a virtual awards ceremony to award and commemorate their content creators who have been prevalent on their livestreaming platform BIGO Live . BIGO is one of the region's most innovative technology companies, whose apps (BIGO Live and Likee) aim to provide its users with an online arena to share their creativity and optimism through livestreams and short videos.
+
+
+***
+![WhatsApp vs Signal: 6 WhatsApp features you will miss in Signal](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-12_at_1_1200_210113131451.47._0-483x271.png "WhatsApp vs Signal: 6 WhatsApp features you will miss in Signal")
+
+
+[WhatsApp vs Signal: 6 WhatsApp features you will miss in Signal](https://www.indiatoday.in/technology/news/story/whatsapp-vs-signal-6-whatsapp-features-you-will-miss-in-signal-1758616-2021-01-13)
+
+
+> Highlights WhatsApp has some features that Signal does not have currently like status updates, custom chat wallpapers, and WhatsApp Payment to name a few. WhatsApp has GIF support and has a plethora of stickers as compared to Signal's limited sticker pack. WhatsApp also has its own payment feature which Signal does not have. WhatsApp has been facing criticism for its updated terms of service that are slated to go into effect from February 8, 2021. The new policy tweaks how the platform processes user data when a WhatsApp business account is involved and what it shares with Facebook.
+
+
+***
+![Tech companies suspending social media accounts going to be catastrophic mistake: Donald Trump](https://images.indianexpress.com/2021/01/trump-11.jpg "Tech companies suspending social media accounts going to be catastrophic mistake: Donald Trump")
+
+
+[Tech companies suspending social media accounts going to be catastrophic mistake: Donald Trump](https://indianexpress.com/article/world/tech-companies-suspending-social-media-accounts-going-to-be-catastrophic-mistake-donald-trump-7144671/)
+
+
+> US President Donald Trump on Tuesday said that the steps being taken by big tech companies, who have banned and suspended his social media accounts, is going to be a catastrophic mistake. 'I think that big tech is doing a horrible thing for our country and to our country. And I believe it's going to be a catastrophic mistake for them,' Trump told reporters before boarding Air Force One at Andrews Air Force Base. This was Trump's first remarks in the public after Twitter permanently suspended his account.
+
+
+***
+![CES 2021: AMD announces new Ryzen 5000 series mobile processors](https://images.indianexpress.com/2021/01/AMD-CES-2021-LIsa-Su.jpg "CES 2021: AMD announces new Ryzen 5000 series mobile processors")
+
+
+[CES 2021: AMD announces new Ryzen 5000 series mobile processors](https://indianexpress.com/article/technology/tech-news-technology/ces-2021-amd-announces-new-ryzen-5000-series-processors-7144644/)
+
+
+> AMD has announced the new Ryzen 5000 Series Mobile processors at the virtual CES 2021. The new Ryzen 5000 series processors are based on the 7nm ‘Zen 3' architecture and the brand promises leading energy efficiency as well as performance. The new AMD processors will be available in from major PC manufacturers including Asus, HP and Lenovo beginning Q1 2021. The company also posted teasers for the upcoming Radeon GPUs for desktops and laptops along with the next-gen Epyc datacentre CPUs. AMD Ryzen H-series, HX-series and HS-Series The new AMD processors are classified into the high-performance-oriented H series processors and the ultra-mobile U-series processors.
+
+
