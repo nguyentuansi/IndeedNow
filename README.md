@@ -3283,3 +3283,53 @@
 > Taiwanese electronics giant Asus on Wednesday showcased a wide variety of new laptops at the ongoing Consumers Electronics Show (CES) 2021. The company launched ZenBook Pro Duo 15 OLED (UX582), ZenBook Duo 14 (UX482), VivoBook S14 (S435), and the TUF Dash gaming laptop. The new lineup pushes the boundaries of design and innovation to deliver ultimate mobile computing experiences, the company said in a statement. ZenBook Pro Duo 15 OLED (UX582) is an ultra-powerful 15-inch laptop that is equipped with the new tilting Asus ScreenPad Plus, a full-width 4K secondary touchscreen that works seamlessly with the main 4K OLED HDR display.
 
 
+***
+![Tesla registers a company in India --- Some questions arise](https://cdn.mos.cms.futurecdn.net/fFzBwUHqz9bGXT8m2uyTXW.jpg "Tesla registers a company in India --- Some questions arise")
+
+
+[Tesla registers a company in India --- Some questions arise](https://www.techradar.com/news/tesla-registers-a-company-in-india-some-questions-arise/)
+
+
+> The Cupertino-based electric vehicle company Tesla has set-up its subsidiary in the Indian State of Karnataka. Tesla has also named Vibhav Taneja, Venkatrangam Sreeram and David Jon Feinstein as three directors in the newly formed company in India.
+
+
+***
+![New Data from ACI Worldwide Shows Increase in Global eCommerce Transactions Over the 2020 Holiday Period; Retail and Gaming Sectors See Significant Increase](https://mms.businesswire.com/media/20210112006035/en/851388/23/ACI_Horizontal_%2B_Tagline_%402x.jpg "New Data from ACI Worldwide Shows Increase in Global eCommerce Transactions Over the 2020 Holiday Period; Retail and Gaming Sectors See Significant Increase")
+
+
+[New Data from ACI Worldwide Shows Increase in Global eCommerce Transactions Over the 2020 Holiday Period; Retail and Gaming Sectors See Significant Increase](http://www.businesswire.com/news/home/20210112006035/en/New-Data-from-ACI-Worldwide-Shows-Increase-in-Global-eCommerce-Transactions-Over-the-2020-Holiday-Period-Retail-and-Gaming-Sectors-See-Significant-Increase/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> OMAHA, Neb.--(BUSINESS WIRE)--New benchmark data from ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment software and solutions, revealed a 24 percent increase in eCommerce transactions globally in December 2020 compared to December 2019. In particular, eCommerce transactions in the retail sector increased 31 percent and the gaming sector increased 90 percent, comparing December 2020 with December 2019. While many merchants initially implemented the buy online, pick up in store (BOPIS) delivery channel during the pandemic, those that already had this option available pre-COVID-19 experienced an increase of 70 percent by volume and 58 percent by value in 2020.
+
+
+***
+![General Motors unveils Cadillac flying car and shuttle concepts at CES](https://www.thehindu.com/sci-tech/technology/7nxjxy/article33565784.ece/ALTERNATES/LANDSCAPE_615/general-motorsjpg "General Motors unveils Cadillac flying car and shuttle concepts at CES")
+
+
+[General Motors unveils Cadillac flying car and shuttle concepts at CES](https://www.thehindu.com/sci-tech/technology/general-motors-unveils-cadillac-flying-car/article33565756.ece)
+
+
+> The single-passenger Cadillac - technically, a vertical take-off and landing (VTOL) drone - will be able to travel from urban rooftop to urban rooftop at speeds up to 55 miles per hour. (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.) General Motors Co on Tuesday presented a futuristic flying Cadillac - a self-driving vehicle which takes off and lands vertically and carries the passenger above the streets and through the air.
+
+
+***
+![When AI has an overactive imagination](https://ichef.bbci.co.uk/images/ic/400xn/p093s91k.jpg "When AI has an overactive imagination")
+
+
+[When AI has an overactive imagination](https://www.bbc.com/news/av/technology-55574903)
+
+
+> An overactive imagination can sometimes make us see things that are not really there. Now it seems artificial intelligence can have one too. Google researcher Alex Mordvintsev decided to develop this idea and turn the concept into art. He created Google DeepDream. BBC Click's Spencer Kelly finds out more. See more at Click's website and @BBCClick
+
+
+***
+![CES 2021: Nvidia launches GeForce RTX 30 series GPUs for notebooks](https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/14/full/1600054487-6367.jpg "CES 2021: Nvidia launches GeForce RTX 30 series GPUs for notebooks")
+
+
+[CES 2021: Nvidia launches GeForce RTX 30 series GPUs for notebooks](https://www.business-standard.com/article/technology/ces-2021-nvidia-launches-geforce-rtx-30-series-gpus-for-notebooks-121011300401_1.html)
+
+
+> Nvidia has announced their GeForce RTX 30 series flagship graphics processors for laptops at the CES 2021. The new series includes the RTX 3060, RTX 3070, and the RTX 3080, all backed by a new Max-Q design to deliver optimal power and performance for notebooks. Each of the cards brings a performance upgrade, and the 3080 is the fastest. Nvidia said these will be the world's fastest laptops, promising over 100 frames per second at 1440p with RTX on for "popular graphics-intensive games". The new GeForce RTX 3060 is claimed to deliver 90fps on the latest games with ultra settings at 1080p resolution on laptops that will have a starting price of $999.
+
+
