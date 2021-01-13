@@ -3774,3 +3774,50 @@
 > January 13, 2021   06:11 pm - Sri Lanka's COVID-19 numbers saw a surge today, as 309 more persons were tested positive for the virus. As per statistics, the total number of COVID-19 infections confirmed in the country to date now stands at 49,846. Recoveries from the virus meanwhile climbed to 43,267 earlier today, as more patients regained health. However, 6,335 active cases are still under medical care at selected hospitals and treatment centres located across the island. Sri Lanka has also witnessed 244 deaths related to COVID-19.
 
 
+***
+![iTunes is gone, Music.app is no bueno, what else is available?](https://images.macrumors.com/social/?t=2280092&v=6 "iTunes is gone, Music.app is no bueno, what else is available?")
+
+
+[iTunes is gone, Music.app is no bueno, what else is available?](https://forums.macrumors.com/threads/itunes-is-gone-music-app-is-no-bueno-what-else-is-available.2280092/)
+
+
+> I had time to play around with Music, which I haven't used very much since Catalina (Big Sur installed now). I see Apple has taken away all of the useful features like the column browser which allowed me to sort songs by title, genre, etc. The window even when fully opened is taken up mostly by album art so I only get a few titles per page. If this was 1999, I'd be on OS 9.x and I'd simply open up Audion or SoundJam. What is available now? Kodi is overkill, and please don't mention Plex... just..
+
+
+***
+![Huge TikTok update adds new rules for ALL teens – including blocking comments and video downloads](https://www.thesun.co.uk/wp-content/uploads/2021/01/NINTCHDBPICT000556859063.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Huge TikTok update adds new rules for ALL teens – including blocking comments and video downloads")
+
+
+[Huge TikTok update adds new rules for ALL teens – including blocking comments and video downloads](https://www.thesun.co.uk/tech/13733927/new-tiktok-rules-for-teenagers/)
+
+
+> TIKTOK says it's bringing in 'groundbreaking' new restriction rules for children to try and prevent grooming on the app. Users under 16 will face the strictest new rules. 2 TikTok has come under some scrutiny for how it plans to protect younger users Credit: Alamy You currently have to be 13 or older to have a TikTok account in the UK. However, the new rules mean anyone under 16 will no longer be able to get comments from strangers. They also won't be able to mark their posts as avaliable to download and other users won't be able to take them and make popular duet style videos.
+
+
+***
+![Ring Is Finally Bringing End-To-End Encryption To Your Cameras](https://www.androidheadlines.com/wp-content/uploads/2020/11/Ring-3-Plus-AH-HR-CM1-scaled.jpg "Ring Is Finally Bringing End-To-End Encryption To Your Cameras")
+
+
+[Ring Is Finally Bringing End-To-End Encryption To Your Cameras](https://www.androidheadlines.com/2021/01/ring-end-to-end-encryption-cameras-doorbells)
+
+
+> One feature that has been long requested by Ring users, is finally starting to roll out. In a technical preview, at least. Ring is rolling out end-to-end encryption in a technical preview. Which will allow users to protect their video recordings.Ring's chief technical officer, Josh Roth stated that  'end-to-end encryption is really about user choice, to create that advanced layer of security.'Currently, footage that is captured on Ring cameras is only encrypted when it is being transmitted to Ring's servers and then again when it is sitting on their servers.
+
+
+***
+![Interested In Switching from Android, A Few Questions](https://images.macrumors.com/social/?t=2280091&v=6 "Interested In Switching from Android, A Few Questions")
+
+
+[Interested In Switching from Android, A Few Questions](https://forums.macrumors.com/threads/interested-in-switching-from-android-a-few-questions.2280091/)
+
+
+> 1. Although I would greatly appreciate the integration with my Macbook, I will miss a few Android specific features from my current Google Pixel - specifically, "silence unknown callers" and "call screening." Additionally, Android allows for a number of robust third-party (largely unapproved) ad blocking services. Are there iOS alternatives to these things or will Apple's walled garden largely prohibit such solutions? 2. From what I can discern, my Macbook already allows me to send iMessages without being tied to a phone number - how would directly tying the Messages client to an iPhone improve the experience? 3.
+
+
+***
+[Tech giants hope for US data privacy law](https://www.macaubusiness.com/tech-giants-hope-for-us-data-privacy-law/)
+
+
+> Google, Twitter and Amazon are hopeful that Joe Biden's incoming administration in the United States will enact a federal digital data law, senior company officials said at CES, the annual electronics and technology show.
+
+
