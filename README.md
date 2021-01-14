@@ -4162,3 +4162,53 @@
 > The best thin and light gaming laptops are no longer the stuff of legends. Components are getting smaller and thinner while becoming more powerful and energy-efficient, thanks to the efforts by Nvidia, Intel, and AMD. Thanks to them, choosing between portability and performance is no longer something you'd have to make, especially if you have the budget. These components have allowed gaming laptops to acquire impressively portable bodies while staying powerful enough to deliver a smooth gaming experience.
 
 
+***
+![Apple Pay promotion offers four months of free coffee at Panera](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/apple-pay-winter-panera-promo.jpg "Apple Pay promotion offers four months of free coffee at Panera")
+
+
+[Apple Pay promotion offers four months of free coffee at Panera](https://www.imore.com/apple-pay-promotion-offers-four-months-free-coffee-panera)
+
+
+> Source: Apple Apple has launched its latest Apple Pay promotion. The promotion offers four months of unlimited free coffee at Panera. Customers must subscribe to the service using Apple Pay through the Panera Bread app. Apple has launched its latest Apple Pay promotion. Starting today, customers can redeem four months of unlimited coffee at Panera Bread if they check out with Apple Pay in the Panera Bread app. Panera Bread offers an unlimited coffee subscription called MyPanera+ Coffee and, starting on Wednesday, new subscribers can get four months of the service for free.
+
+
+***
+![Parler CEO says social media app, favored by Trump supporters, may not return](https://images.indianexpress.com/2021/01/parler-2.jpg "Parler CEO says social media app, favored by Trump supporters, may not return")
+
+
+[Parler CEO says social media app, favored by Trump supporters, may not return](https://indianexpress.com/article/technology/tech-news-technology/parler-ceo-social-media-app-trump-supporters-interview-7145585/)
+
+
+> Social media platform Parler, which has gone dark after being cut off by major service providers that accused the app of failing to police violent content, may never get back online, said its CEO John Matze. As a procession of business vendors severed ties with the two-year-old site following the storming of the US Capitol last week, Matze said in an interview with Reuters on Wednesday that he does not know when or if it will return. 'It could be never,' he said. 'We don't know yet.' After this story was published, Matze added: 'I am an optimist.
+
+
+***
+![Twitter chief says Trump ban was right decision but sets 'dangerous precedent'](https://i.guim.co.uk/img/media/e4168751eed879abc6a15044d17638c3c0be4e13/0_62_3323_1995/master/3323.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7d29d52c2911119e178fa9b5d5038d1 "Twitter chief says Trump ban was right decision but sets 'dangerous precedent'")
+
+
+[Twitter chief says Trump ban was right decision but sets 'dangerous precedent'](http://www.theguardian.com/technology/2021/jan/13/trump-twitter-ban-jack-dorsey-chief-executive)
+
+
+> Jack Dorsey, the chief executive of Twitter, has said that banning Donald Trump from the platform was the 'right decision' but that it sets a dangerous precedent.Speaking out for the first time since the social network took the remarkable step of permanently suspending the president's account following a violent attack on the US Capitol, Dorsey said the company faced 'an extraordinary and untenable circumstance, forcing us to focus all of our actions on public safety'.'I do not celebrate or feel pride in our having to ban @realDonaldTrump from Twitter, or how we got here,' Dorsey admitted on Wednesday in an extended Twitter thread.
+
+
+***
+![Belkin recalls its Wireless Charger + Stand due to a fire hazard](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/belkin-recalled-wireless-charger.jpg "Belkin recalls its Wireless Charger + Stand due to a fire hazard")
+
+
+[Belkin recalls its Wireless Charger + Stand due to a fire hazard](https://www.imore.com/belkin-recalls-its-wireless-charger-stand-due-fire-hazard)
+
+
+> Source: Belkin Belkin is recalling its Portable Wireless Charger + Stand Special Edition due to a fire hazard. In a post on the United States Consumer Product Safety Commission, details are laid out as to what consumers should do if they happen to have the model. According to the website, about 2,280 units are affected by the issue. As explained on the site, the issue appears to be focused on a manufacturing defect in the power supply. The defect can apparently cause the charger to malfunction and overheat, posing a fire and shock hazard to users.
+
+
+***
+![Toto's new 'Wellness Toilet' concept sounds great &#8212; but smart toilets are still a long way off](https://mondrian.mashable.com/2021%252F01%252F14%252F5d%252F4aa1044900d041438d9b415c90176ec5.78a58.jpg%252F1200x630.jpg?signature=t8euYL4ywEqLbk9DgVEQCVGQySQ= "Toto's new 'Wellness Toilet' concept sounds great &#8212; but smart toilets are still a long way off")
+
+
+[Toto's new 'Wellness Toilet' concept sounds great &#8212; but smart toilets are still a long way off](http://feeds.mashable.com/~r/Mashable/~3/jZ2wES7yDIQ/)
+
+
+> How does a toilet sound to you that, based on what you poop and pee, automatically gives you tips on how to eat healthier or detects early warning of an illness? Amazing? Creepy? Maybe a little bit of column A, a little bit of column B? Well, it's coming, folks. It's just not clear when. One fancy toilet manufacturer just threw its hat into the ring to produce the smart toilet of the future: Toto. At CES Monday, the Japan-based toilet, bidet, and cleanliness products maker unveiled a new concept for its "Wellness Toilet.
+
+
