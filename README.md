@@ -5176,3 +5176,53 @@
 > Samsung crammed in as much of the tech that was previously missing as possible. Not only is there dynamic active noise cancelation at work, but it also works in reverse with a lively ambient mode. That's all on top of a bolder sound and better water and sweat resistance for workouts. $200 at Samsung Bolder sound Solid ANC performance Dynamic ambient mode 360 audio ability Significant water resistance Smaller charging case Fit requires more fidgeting Proprietary ear tips Lower battery life Samsung righted some important wrongs when they made these earbuds as successors to the originals, and the benefits are a major leap in battery life, plus improved audio fidelity.
 
 
+***
+![Arrested Capitol rioters had guns and bombs, everyday careers and Olympic medals](https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547841724&r=LYNXMPEH0D1LZ&w=800 "Arrested Capitol rioters had guns and bombs, everyday careers and Olympic medals")
+
+
+[Arrested Capitol rioters had guns and bombs, everyday careers and Olympic medals](https://www.reuters.com/article/us-usa-trump-protest-cases-insight-idUSKBN29J2V8)
+
+
+> By Brad Heath , Sarah N. Lynch WASHINGTON (Reuters) - United by political grievances, they came in costumes, snapping selfies, calling themselves patriots. Some came armed for battle and planning for 'war.' FILE PHOTO: Police speak to supporters of U.S. President Donald Trump, including Jake Angeli in the horn and fur costume, as they demonstrate on the second floor of the U.S. Capitol near the entrance to the Senate after breaching security defenses, in Washington, U.S., January 6, 2021. REUTERS/Mike Theiler/File Photo As authorities begin to charge the rioters in the Jan.
+
+
+***
+![Australia vs India live stream: how to watch 4th Test cricket online from anywhere](https://cdn.mos.cms.futurecdn.net/ujXDiSG7nut4VQj55W3jPE-1200-80.jpg "Australia vs India live stream: how to watch 4th Test cricket online from anywhere")
+
+
+[Australia vs India live stream: how to watch 4th Test cricket online from anywhere](https://www.techradar.com/news/australia-vs-india-live-stream-how-to-watch-4th-test-cricket-online-from-anywhere)
+
+
+> (Image credit: SAEED KHAN/AFP via Getty Images) It all comes down to this for Australia and India - a single Test to decide the fate of the Border–Gavaskar Trophy. With the series currently tied 1-1, current holders and visitors India need only a draw to retain the trophy, while for the hosts it's a must-win at the Gabba. Follow our guide for how to get an Australia vs India live stream and watch every ball from the 4th Test cricket match online, wherever you are in the world right now.Australia vs India live stream: 4th TestDate: Friday, January 15 - Tuesday, January 19Start time: 10am AEST / 5.
+
+
+***
+![German Court Says Tesla's 'Autopilot,' 'Full Self Driving' Ads Misleading](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/3-cameraautopilot_1.jpg "German Court Says Tesla's 'Autopilot,' 'Full Self Driving' Ads Misleading")
+
+
+[German Court Says Tesla's 'Autopilot,' 'Full Self Driving' Ads Misleading](https://www.benzinga.com/news/20/07/16618741/german-court-says-teslas-autopilot-full-self-driving-ads-misleading)
+
+
+> Back in October of 2019, a German consumer protection agency,  Wettbewerbszentrale , filed an injunction against  Tesla Inc (NASDAQ: TSLA ) accusing the automaker of misleading naming in its Autopilot and Full Self-Driving software. What Happened:  Electrek  reports Tuesday that Wettbewerbszentrale has judged the software names as being misleading. Tesla stock did not seem to respond negatively to the news and was trading 0.86% higher at $1,510 at the time of publication.  The decision prevents Tesla from including "full potential for autonomous driving" and "autopilot inclusive" in German advertising, according to Reuters .
+
+
+***
+![An accessible introduction to type theory (and implementing our own type-checker!)](https://external-preview.redd.it/3dqLXaRZvX8RC8dDCicKin0yMoJW0KK1ERATn_u8dTs.jpg?auto=webp&s=ff377732999f6837c0f209105781dee63c9a239b "An accessible introduction to type theory (and implementing our own type-checker!)")
+
+
+[An accessible introduction to type theory (and implementing our own type-checker!)](https://www.reddit.com/r/programming/comments/kxfxck/an_accessible_introduction_to_type_theory_and/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The Galaxy A32 5G debuts in Europe as Samsung's cheapest 5G phone](https://cdn.vox-cdn.com/thumbor/xoyhNjfm9gy8sG7W1uLk27-HMk0=/0x227:2000x1274/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22236080/02_galaxya32_5g_2p_lg.jpg "The Galaxy A32 5G debuts in Europe as Samsung's cheapest 5G phone")
+
+
+[The Galaxy A32 5G debuts in Europe as Samsung's cheapest 5G phone](https://www.theverge.com/2021/1/14/22231420/samsung-galaxy-a32-5g-europe-cheapest-5g-phone)
+
+
+> The Galaxy A32 5G offers a 6.5-inch display and 5,000mAh battery. Image: Samsung Echoing a theme that will be repeated a lot more this year, Samsung has announced a very inexpensive 5G phone. The Galaxy A32 5G is debuting in Europe first, starting at €279 for a 64GB version or €299 for 128GB. There's no official word yet on whether it will come to the US. The A32 5G offers a 6.5-inch 1600 x 900 display, a 5,000mAh battery, and a side-mounted fingerprint reader. Its rear camera array includes a 48-megapixel main camera, an 8-megapixel ultrawide, a 2-megapixel depth-sensing camera, and the obligatory 5-megapixel macro camera.
+
+
