@@ -4212,3 +4212,47 @@
 > How does a toilet sound to you that, based on what you poop and pee, automatically gives you tips on how to eat healthier or detects early warning of an illness? Amazing? Creepy? Maybe a little bit of column A, a little bit of column B? Well, it's coming, folks. It's just not clear when. One fancy toilet manufacturer just threw its hat into the ring to produce the smart toilet of the future: Toto. At CES Monday, the Japan-based toilet, bidet, and cleanliness products maker unveiled a new concept for its "Wellness Toilet.
 
 
+***
+[Audio and chat logs of walkie-talkie app Zello reveal some Capitol rioters communicated via the app; Zello says it has now deleted 2K+ militia-related channels (The Guardian)](http://www.techmeme.com/210113/p50#a210113p50)
+
+
+> The Guardian: Audio and chat logs of walkie-talkie app Zello reveal some Capitol rioters communicated via the app; Zello says it has now deleted 2K+ militia-related channels — Audio and chat logs show insurrectionists communicated via the app, which has avoided proactive content moderation
+
+
+***
+![Grab Financial Group raises $300 million Series A led by Hanhwa Asset Management](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-929538906.jpg?w=600 "Grab Financial Group raises $300 million Series A led by Hanhwa Asset Management")
+
+
+[Grab Financial Group raises $300 million Series A led by Hanhwa Asset Management](https://techcrunch.com/2021/01/13/grab-financial-group-raises-300-million-series-a-led-by-hanhwa-asset-management/)
+
+
+> Grab Financial Group said today it has raised more than $300 million in Series A funding, led by South Korean firm Hanhwa Asset Management, with participation from K3 Ventures, GGV Capital, Arbor Ventures and Flourish Ventures. The Financial Times reports that the funding values Grab Financial, a subsidiary of ride-hailing and delivery giant Grab, at $3 billion. Both K3 Ventures and GGV Capital were early investors in Grab, which was founded in 2012. Back in February 2020, Grab announced it had raised $856 million in funding to grow its payment and financial services.
+
+
+***
+![ThermVac to Expand Ceramic CVD Equipment Presence in China](https://mms.businesswire.com/media/20210113005975/en/851703/23/Logo.jpg "ThermVac to Expand Ceramic CVD Equipment Presence in China")
+
+
+[ThermVac to Expand Ceramic CVD Equipment Presence in China](http://www.businesswire.com/news/home/20210113005975/en/ThermVac-to-Expand-Ceramic-CVD-Equipment-Presence-in-China/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HWASEONG, South Korea--(BUSINESS WIRE)--ThermVac Inc., Korea's specialty manufacturer of vacuum furnaces, delivered Tantalum Carbide Chemical Vapor Deposition (TaC CVD) equipment to Company T in Xuzhou Province, China in October 2020, installed and commissioned, and is currently preparing trial production of actual products as of January of 2021. The TaC CVD furnace delivered this time is equipment that deposits TaC components synthesized by reacting TaCl5 powder vapor and CH4 gas at a maximum temperature of 2400 degrees on the surface of graphite products as a thin film.
+
+
+***
+[Twitter CEO defends Trump ban, warns of dangerous precedent](https://www.mymotherlode.com/news/technology/1478117/twitter-ceo-defends-trump-ban-warns-of-dangerous-precedent.html)
+
+
+> Twitter CEO Jack Dorsey broke his silence to defend his company's ban of President Donald Trump as the right decision, but warned that it could set a dangerous precedent
+
+
+***
+![Twitter boss: Trump ban is 'right' but 'dangerous'](https://ichef.bbci.co.uk/news/1024/branded_news/15DA2/production/_108560598_242ccd4f-a6f9-4351-a66c-397422a69118.jpg "Twitter boss: Trump ban is 'right' but 'dangerous'")
+
+
+[Twitter boss: Trump ban is 'right' but 'dangerous'](https://www.bbc.co.uk/news/technology-55657417)
+
+
+> By James ClaytonNorth America technology reporterimage copyrightGetty Imagesimage captionTwitter's chief executive Jack DorseyTwitter boss Jack Dorsey has said banning US President Donald Trump was the right thing to do. However, he expressed sadness at what he described as the "extraordinary and untenable circumstances" surrounding Mr Trump's permanent suspension. He also said the ban was in part a failure of Twitter's, which hadn't done enough to foster "healthy conversation" across its platforms.
+
+
