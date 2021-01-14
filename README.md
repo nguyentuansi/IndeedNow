@@ -4115,3 +4115,50 @@
 > Continue reading the main storyThe encrypted messaging services have become the world's hottest apps over the last week, driven by growing anxiety over the power of the biggest tech companies and privacy concerns.Angered or fearful of the big tech companies, many people have moved to encrypted communications apps like Signal over the past week.Credit...Giulia Marchi for The New York TimesBy Jack Nicas, Mike Isaac and Sheera FrenkelJan. 13, 2021, 5:50 p.m. ETNeeraj Agrawal, a spokesman for a cryptocurrency think tank, has typically used the encrypted messaging app Signal to chat with privacy-minded colleagues and peers.
 
 
+***
+![Tech giants hope for US data privacy law](https://apicms.thestar.com.my/uploads/images/2021/01/13/1006966.jpg "Tech giants hope for US data privacy law")
+
+
+[Tech giants hope for US data privacy law](https://www.thestar.com.my/tech/tech-news/2021/01/14/tech-giants-hope-for-us-data-privacy-law)
+
+
+> The logos of Google, Apple, Facebook, Amazon and Microsoft. This European data rights charter influenced California, which has now had the California Consumer Privacy Act (CCPA) for over a year. — AFP SAN FRANCISCO: Google, Twitter and Amazon are hopeful that Joe Biden's incoming administration in the United States will enact a federal digital data law, senior company officials said at CES, the annual electronics and technology show. 'I think the stars are better aligned than ever in the past,' Keith Enright, Google's chief data privacy office, told a discussion Tuesday on trust and privacy.
+
+
+***
+![NASA prepares to share sounds from Mars as Perseverance nears planet](https://cdn.slashgear.com/wp-content/uploads/2021/01/mars_main.jpg "NASA prepares to share sounds from Mars as Perseverance nears planet")
+
+
+[NASA prepares to share sounds from Mars as Perseverance nears planet](https://www.slashgear.com/nasa-prepares-to-share-sounds-from-mars-as-perseverance-nears-planet-13655100/)
+
+
+> On February 18, a little over a month from now, NASA's Perseverance rover will land on the Red Planet, bringing with it new tools and technologies for additional exploration. Among the items carried by the rover is a microphone located on its SuperCam instrument — and NASA plans to use this to record natural sounds on Mars. When Perseverance reaches Mars next month, it will begin its descent to the surface, a process that will be captured by a secondary microphone called the EDL. NASA describes the microphone as experimental, explaining that it is an ordinary off-the-shelf microphone equipped with a special grid to keep dust out.
+
+
+***
+![Best all-in-one computer 2021: top AIO PCs for home and office](https://cdn.mos.cms.futurecdn.net/PES6US4DGQsJVRQmnqkzCZ-1200-80.jpg "Best all-in-one computer 2021: top AIO PCs for home and office")
+
+
+[Best all-in-one computer 2021: top AIO PCs for home and office](https://www.techradar.com/news/best-all-in-one-computer)
+
+
+> Declutter your space while saving money with one of the best all-in-one PCs. These desktop computers pack their internals behind their displays, and they're ideals for users who crave a more minimalist setup or with no patience to deal with a plethora of cables. But, don't take that to mean that the best all-in-one PCs are less powerful. These minimalist solutions still rock plenty enough power to rival some of the best PCs out there. And, they're money-saving as well. Since they already come with a great display, you won't have to shell one more money for one.
+
+
+***
+[Apple, utility each give $25M to Black college learning hub](https://abcnews.go.com/Technology/wireStory/apple-utility-give-25m-black-college-learning-hub-75235620)
+
+
+> ATLANTA -- Apple and a major utility are each giving $25 million to launch a learning center and business incubator for students of historically Black colleges and universities, part of an outpouring of giving to such schools in the wake of the summer's protests over racial injustice. The Propel Center will have a physical campus in Atlanta and online offerings meant to reach students at each of the country's 100-plus historically Black institutions.. Apple also announced Tuesday that it will make grants to HBCU engineering programs to expand curricula, research and lab space, add 100 new scholarships for students and open a first-of-its-kind developer academy in Detroit.
+
+
+***
+![The best thin and light gaming laptops 2021](https://cdn.mos.cms.futurecdn.net/d8b7mDNhhGMCpke8MUKKQA-1200-80.jpg "The best thin and light gaming laptops 2021")
+
+
+[The best thin and light gaming laptops 2021](https://www.techradar.com/news/best-thin-and-light-gaming-laptops)
+
+
+> The best thin and light gaming laptops are no longer the stuff of legends. Components are getting smaller and thinner while becoming more powerful and energy-efficient, thanks to the efforts by Nvidia, Intel, and AMD. Thanks to them, choosing between portability and performance is no longer something you'd have to make, especially if you have the budget. These components have allowed gaming laptops to acquire impressively portable bodies while staying powerful enough to deliver a smooth gaming experience.
+
+
