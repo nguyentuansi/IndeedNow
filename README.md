@@ -5035,3 +5035,44 @@
 > WELCOME TO OUR CES 2021 liveblog archive! The WIRED crew wasn't in Las Vegas this year; the show was moved online due to the ongoing Covid-19 pandemic. But even a global health emergency can't stop the march of consumer technology. There were still plenty of gadgets, apps, electric vehicles, smart-home appliances, brain-training headsets, and sex tech to tell you about. These are all our musings from our team during the show, including photos, written dispatches, trends, and, of course, more than a few lulz.
 
 
+***
+![Tiger Global is raising a new $3.75 billion venture fund, one year after closing its last – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-138750925.jpg?w=543 "Tiger Global is raising a new $3.75 billion venture fund, one year after closing its last – TechCrunch")
+
+
+[Tiger Global is raising a new $3.75 billion venture fund, one year after closing its last – TechCrunch](https://techcrunch.com/2021/01/14/tiger-global-is-raising-a-new-3-75-million-venture-fund-one-year-after-closing-its-last/)
+
+
+> According to a recent letter sent to its investors, Tiger Global Management, the New York-based investing powerhouse, is raising a new $3.75 million venture fund called Tiger Private Investment Partners XIV that it expects to close in March. The fund is Tiger's 13th venture fund, despite its title — the partners might be superstitious — and it comes hot on the heels of the firm's 12th venture fund, closed exactly a year ago, also with $3.75 billion in capital commitments. A spokesperson for the firm declined to comment on the letter or Tiger's broader fundraising strategy when reached this morning.
+
+
+***
+[MIT professor charged with hiding work for China](https://abcnews.go.com/Technology/wireStory/mit-professor-charged-hiding-work-china-75253743)
+
+
+> BOSTON -- A Massachusetts Institute of Technology professor was arrested and charged Thursday with hiding work he did for the Chinese government while he was also receiving U.S. dollars for his nanotechnology research. Gang Chen, 56, was arrested by federal agents at his home in Cambridge on charges including wire fraud, officials said. Agents executed search warrants at his home and his office at the university, said Joseph Bonavolonta, head of the Boston FBI office. While working for MIT, Chen entered into undisclosed contracts and held appointments affiliated with the People's Republic of China, including as an 'overseas expert' for the Chinese government at the request of the PRC Consulate Office in New York, authorities said.
+
+
+***
+[Groups ask court to restore protections for US gray wolves](https://abcnews.go.com/Technology/wireStory/groups-court-restore-protections-us-gray-wolves-75253747)
+
+
+> BILLINGS, Mont. -- Wildlife advocates on Thursday asked a federal court to overturn a U.S. government decision that stripped Endangered Species Act protections for wolves across most of the nation. Two coalitions of advocacy groups filed lawsuits in U.S. District Court in Northern California seeking to restore safeguards for a predator that is revered by wildlife watchers but feared by many livestock producers. The Trump administration announced just days ahead of the Nov. 3 election that wolves were considered recovered.
+
+
+***
+[Poshmark's shares soar in debut to public markets](https://abcnews.go.com/Technology/wireStory/poshmarks-shares-soar-debut-public-markets-75253145)
+
+
+> NEW YORK -- Shares of Poshmark Inc. soared in their debut trading in the public markets Thursday, a testament to the strength of the online marketplace for second-hand goods even during a pandemic. The company, founded in 2011 by Manish Chandra, debuted on the Nasdaq Stock Market and is listed under the ticker 'POSH.' Late Wednesday, the initial public offering of 6.6 million shares was priced at $42 a share, above an expected range of $35 to $39 a share. The stock surged to $95.53, or 127%, in midday trading Thursday.
+
+
+***
+![Blue Origin launches capsule to space with astronaut perks](https://s.abcnews.com/images/Technology/WireAP_7c89eb6206e94408b5b7f594d7195242_16x9_992.jpg "Blue Origin launches capsule to space with astronaut perks")
+
+
+[Blue Origin launches capsule to space with astronaut perks](https://abcnews.go.com/Technology/wireStory/blue-origin-launches-capsule-space-astronaut-perks-75256290)
+
+
+> CAPE CANAVERAL, Fla. -- Jeff Bezos' Blue Origin company launched a new capsule into space Thursday to test all the astronaut perks before people strap in. Thursday's flight with a dummy named Mannequin Skywalker lasted 10 minutes and reached 66 miles (106 kilometers) above West Texas. Both the New Shepard rocket and the capsule landed successfully. It was the 14th flight to the fringes of space for a New Shepard rocket. The first was in 2015. 'The success of this flight puts us one really big step closer to flying astronauts,' launch commentator Ariane Cornell said from company headquarters in Kent, Washington.
+
+
