@@ -4547,3 +4547,53 @@
 > STOCKHOLM--(BUSINESS WIRE)--Application development and maintenance service providers are expanding their presence across the Nordics region to better serve enterprise customers and tap into the local talent pool, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2020 ISG Provider Lens™ Next-gen Application Development & Maintenance (ADM) Services report for the Nordics says providers have set up service delivery centers in multiple locations across the region, including Oslo, Stockholm and Stavanger, Norway, to offer wider coverage and gain access to critical talent.
 
 
+***
+![Galaxy S20 FE Gets Android 11 One UI 3.0 Update On Verizon](https://www.androidheadlines.com/wp-content/uploads/2020/10/Samsung-Galaxy-S20-FE-Review-AM-AH-9.jpg "Galaxy S20 FE Gets Android 11 One UI 3.0 Update On Verizon")
+
+
+[Galaxy S20 FE Gets Android 11 One UI 3.0 Update On Verizon](https://www.androidheadlines.com/2021/01/galaxy-s20-fe-android-11-verizon.html)
+
+
+> Verizon has just released the Android 11-based One UI 3.0 for its Galaxy S20 FE 5G UW. The affordable Samsung flagship is receiving the new update with software version RP1A.200720.012.G781VSQU1CTLC. It also bundles the December 2020 Android security patch.Samsung first rolled out the Android 11-based One UI 3.0 update for unlocked Galaxy S20 FE models in Russia midway through December last year. It did catch many by surprise as the company wasn't expected to roll out the update so early. The update went truly global the following week.
+
+
+***
+![Nokia supports T-Mobile 5G evolution with five-year expansion deal](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Nokia supports T-Mobile 5G evolution with five-year expansion deal")
+
+
+[Nokia supports T-Mobile 5G evolution with five-year expansion deal](https://seekingalpha.com/pr/18151388-nokia-supports-t-mobile-5g-evolution-five-year-expansion-deal)
+
+
+> Press Release Nokia ( NOK ) supports T-Mobile 5G evolution with five-year expansion deal T-Mobile extends a longstanding partnership with Nokia to expand its nationwide 5G network Nokia's Airscale Massive MIMO to light up T-Mobile's (2.5GHz mid-band) Ultra Capacity 5G Un-carrier customers to experience increased 5G speeds by combining the extended range (low-band) 5G with the additional Ultra Capacity 5G (2.5GHz mid-band) 14 January 2021 Espoo, Finland – Nokia today announced a continuation of its long standing T-Mobile partnership with a five-year deal.
+
+
+***
+![SIM only deals: double your data and get unlimited use of social media with Voxi](https://cdn.mos.cms.futurecdn.net/WwA9CPiYBRMXTXecPCTs4f-1200-80.jpg "SIM only deals: double your data and get unlimited use of social media with Voxi")
+
+
+[SIM only deals: double your data and get unlimited use of social media with Voxi](https://www.techradar.com/news/sim-only-deals-double-your-data-and-get-unlimited-use-of-social-media-with-voxi)
+
+
+> (Image credit: Future) Whether it was in Black Friday, as a Christmas present or in the Boxing Day sales, there's a high chance you got your hands on a new handset at the end of 2020. And if you did, the next step is securing a SIM plan.There are plenty of SIM only deals to choose from, with the market flooded with choices. However, right now Voxi is going to be one of the best options for a lot of people.On its cheapest plan, Voxi is currently offering you double the data, netting you 12GB of data for just £10 a month.
+
+
+***
+![Logitech wants to bring video conferencing to meeting rooms everywhere](https://cdn.mos.cms.futurecdn.net/gJNVuFJqT5NXNqL2jDxZoF-1200-80.jpg "Logitech wants to bring video conferencing to meeting rooms everywhere")
+
+
+[Logitech wants to bring video conferencing to meeting rooms everywhere](https://www.techradar.com/news/logitech-wants-to-bring-video-conferencing-to-meeting-rooms-everywhere)
+
+
+> (Image credit: Logitech) Logitech has unveiled a new portfolio of meeting room devices that promises to transform video conferencing wherever it takes place. The new releases should prove particularly popular with enterprise firms that will continue to embrace hybrid workplaces even when the world has moved on from the COVID-19 pandemic.Among the new devices is the Logitech Rally Bar, a purpose-built meeting room solution for medium-sized rooms, and the Logitech Rally Bar Mini for smaller venues.
+
+
+***
+![Xiaomi Mi Note 11 reference spotted in code - the phone could finally be on its way](https://cdn.mos.cms.futurecdn.net/LMpu4zw9TkB9aCaGxq8jaH-1200-80.jpg "Xiaomi Mi Note 11 reference spotted in code - the phone could finally be on its way")
+
+
+[Xiaomi Mi Note 11 reference spotted in code - the phone could finally be on its way](https://www.techradar.com/news/xiaomi-mi-note-11-reference-spotted-in-code-the-phone-could-finally-be-on-its-way/)
+
+
+> One of the best phones of 2019, the Xiaomi Mi Note 10, didn't see a successor last year, which had us thinking the Xiaomi Mi Note 11 might never arrive. But it seems we might still see the phone. Twitter user @_the_tech_guy, who has a record of unearthing useful information, found references to both the Mi Note 11 and the Xiaomi Mi Mix 4 in code for MIUI, Xiaomi's user interface which sits on top of Android. MIUI code often contains references to future Xiaomi phones - the Mi Note 10's 108MP camera was leaked that way - and it seems likely such code would only be added leading up to a phone's launch.
+
+
