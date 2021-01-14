@@ -4791,3 +4791,50 @@
 > Source: OnLeaks Samsung's all-digital Unpacked event is today, January 14. We're expecting announcements for the Galaxy S21, Galaxy Buds Pro, and more. The livestream begins at 10:00 AM ET / 7:00 AM PT. Samsung's next Unpacked event is happening today, and as we see with every Unpacked, that means you can look forward to a heap of product announcements coming very soon. Lucky for you, tuning in to watch this latest Unpacked is going to be easier than ever before. As per usual, Samsung is livestreaming Unpacked from its own website and on its YouTube channel.
 
 
+***
+![The Galaxy S21 is here! This is everything you need to know](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/samsung-galaxy-s21-series-2.jpg "The Galaxy S21 is here! This is everything you need to know")
+
+
+[The Galaxy S21 is here! This is everything you need to know](https://www.androidcentral.com/samsung-galaxy-s21)
+
+
+> Source: Android Central There are some things in the mobile tech space that are a given every single year, one of which is that we get a new Samsung Galaxy S release pretty early on. That's no different for 2021, but rather than waiting until March or April like it usually does, Samsung's launching its next big flagship right now. The Samsung Galaxy S21 brings a mix of expected and drastic changes compared to last year's S20 family, including things like spec upgrades, a refreshed design, and all-new camera tech.
+
+
+***
+[EUR/GBP nears the lowest since May](https://www.forexlive.com/technical-analysis/!/eurgbp-nears-the-lowest-since-may-20210114)
+
+
+> September and November lows in focus EUR/USD is down 35 pips to 0.8879 today and is threatening the Sept/Nov bottom. The pair has fallen in six straight days as real-money flows following Brexit underpin sterling and the covid numbers in England begin to improve.
+
+
+***
+![Samsung Galaxy Buds Pro Are Here & Better Than Ever](https://www.androidheadlines.com/wp-content/uploads/2021/01/01-ces-unpacked-pressers-18_galaxybudspro_lifestyle_violetsilverblack_201230070151.jpg "Samsung Galaxy Buds Pro Are Here & Better Than Ever")
+
+
+[Samsung Galaxy Buds Pro Are Here & Better Than Ever](https://www.androidheadlines.com/2021/01/samsung-galaxy-buds-pro-announced-unpacked-colors-features-specs.html)
+
+
+> Samsung's first Galaxy Unpacked 2021 event is well underway and the company has taken the opportunity to launch a new set of TWS earbuds — namely, the Samsung Galaxy Buds Pro. Now, just about everything to be known can be surmised generally from the branding here. These buds are a direct follow-up to the bean-shaped buds from last year. Samsung Galaxy Buds Pro represents the best of what Samsung has to offer on the portable audio front.As an entry into the premium segment of the earbuds market, Galaxy Buds Pro starts out with new and improved drivers.
+
+
+***
+![Best Galaxy S21 deals: Here's where to buy Samsung's new phone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/01/galaxy-s21-briefing-colors.jpg "Best Galaxy S21 deals: Here's where to buy Samsung's new phone")
+
+
+[Best Galaxy S21 deals: Here's where to buy Samsung's new phone](https://www.androidcentral.com/best-samsung-galaxy-s21-deals)
+
+
+> At its January Unpacked event, Samsung unveiled the all-new Galaxy S21 models and we're here to let you know the best places to pick one up if you want to make some savings. Source: Android Central We've been used to Samsung releasing three S series phones a year for a little while now. Back in 2019, we saw the release of the Galaxy S10e, S10, and S10+, with 2020 giving us the Galaxy S20, S20+, and S20 Ultra. The 2021 lineup is follows that trend with Samsung unveiling the Galaxy S21, S21+, and S21 Ultra phones.
+
+
+***
+![First look: Samsung&#8217;s Galaxy S21, S21+, and S21 Ultra](https://mondrian.mashable.com/2021%252F01%252F14%252F0f%252F493e9004e72649e29401db07a8c37f04.163b1.png%252F1200x630.png?signature=QOkDQiI_J70i6OyhuMzs8R6Nlmk= "First look: Samsung&#8217;s Galaxy S21, S21+, and S21 Ultra")
+
+
+[First look: Samsung&#8217;s Galaxy S21, S21+, and S21 Ultra](https://mashable.com/video/what-to-expect-samsung-galaxy-s21-series/)
+
+
+> No body in the article.
+
+
