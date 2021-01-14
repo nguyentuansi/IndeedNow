@@ -4644,3 +4644,53 @@
 > A SECRET “enhanced” version of Grand Theft Auto 5 may be in development. Eagle-eyed fans think they’ve found proof that an improved GTA 5 is coming to the PS5 – possibly as soon as this year. The game first launched seven years ago, but the Rockstar Games title is still wildly popular. This streak of […]
 
 
+***
+![Elon Musk's SpaceX starts testing Starlink broadband service in the English countryside](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1cKCyB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=853&y=404 "Elon Musk's SpaceX starts testing Starlink broadband service in the English countryside")
+
+
+[Elon Musk's SpaceX starts testing Starlink broadband service in the English countryside](https://www.cnbc.com/2021/01/14/elon-musks-spacex-starts-testing-starlink-broadband-in-the-uk.html)
+
+
+> SpaceX's satellite broadband service Starlink is now being tested in the U.K. after it was given a license by U.K. telecoms regulator Ofcom. Starlink was issued with an "Earth station network licence" in November, an Ofcom spokesperson told CNBC on Tuesday. SpaceX set up a U.K. entity in London called Starlink Internet Services last August, according to a document filed on U.K. companies registry Companies House. © Provided by CNBC Elon Musk, CEO of Space Exploration Technologies Corp. LONDON — SpaceX's satellite broadband service Starlink is now being tested in the U.
+
+
+***
+![Reliance Jio discontinues some JioPhone plans after IUC removal, check available offers](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2020-12-31_at_2_1200_210114140536.16._2-483x271.png "Reliance Jio discontinues some JioPhone plans after IUC removal, check available offers")
+
+
+[Reliance Jio discontinues some JioPhone plans after IUC removal, check available offers](https://www.indiatoday.in/technology/news/story/reliance-jio-discontinues-some-jiophone-plans-after-iuc-removal-check-available-offers-1759001-2021-01-14)
+
+
+> Reliance Jio has de-listed some of its prepaid plans from the website that were exclusive to JioPhone users. The plans that are now available offer only on-net calling. Yasmin Ahmed | January 14, 2021 | Updated 14:02 IST (Picture: Reuters)
+
+
+***
+![Confirmed, Galaxy S21 phones come without charger, months after Samsung made fun of Apple](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/galaxy_s21_box_wf_3-483x271_1200_210114153705.jpeg "Confirmed, Galaxy S21 phones come without charger, months after Samsung made fun of Apple")
+
+
+[Confirmed, Galaxy S21 phones come without charger, months after Samsung made fun of Apple](https://www.indiatoday.in/technology/news/story/confirmed-galaxy-s21-phones-come-without-charger-months-after-samsung-made-fun-on-apple-1759046-2021-01-14)
+
+
+> The Galaxy S21 could offer a 6.2-inch display and a plastic back cover. Sushant Talwar | January 14, 2021 | Updated 15:26 IST
+
+
+***
+![Motorola Edge S likely to come with Snapdragon 800 series chipset](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2020-12-30_at_9_1200_210114171616.18.-483x271.png "Motorola Edge S likely to come with Snapdragon 800 series chipset")
+
+
+[Motorola Edge S likely to come with Snapdragon 800 series chipset](https://www.indiatoday.in/technology/news/story/motorola-edge-s-could-come-with-snapdragon-800-series-chipset-1759093-2021-01-14)
+
+
+> A tipster has now revealed that the smartphone could be called Motorola Edge S. Ankita Chakravarti | January 14, 2021 | Updated 17:09 IST
+
+
+***
+![Confirmed, premium Samsung Galaxy S21 comes with a plastic back cover](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/galaxy_s21_new_0-483x271_1200_210114164611.png "Confirmed, premium Samsung Galaxy S21 comes with a plastic back cover")
+
+
+[Confirmed, premium Samsung Galaxy S21 comes with a plastic back cover](https://www.indiatoday.in/technology/news/story/confirmed-premium-samsung-galaxy-s21-comes-with-a-plastic-back-cover-1759079-2021-01-14)
+
+
+> Samsung is set to launch the Galaxy S21 later today. The phone will come with a sheet of plastic on the back. India Today Tech | January 14, 2021 | Updated 16:36 IST
+
+
