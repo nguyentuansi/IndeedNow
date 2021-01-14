@@ -4400,3 +4400,50 @@
 > Star Wars is getting a new open-world game that will be developed by Ubisoft-owned Massive Entertainment, the Swedish studio is best known for Tom Clancy's The Division 2, Ubisoft and Disney-owned Lucasfilm Games announced. Massive — which is also making a game based on James Cameron's Avatar — will use its existing Snowdrop engine to power a 'story-driven ground-breaking' Star Wars adventure, the two parties said. This comes a day after Lucasfilm Games and Bethesda announced an Indiana Jones game, and Lucasfilm Games VP Douglas Reilly has promised more: 'This is just the beginning of what I think is going to be a very exciting year for Lucasfilm Games.
 
 
+***
+![Amazon AI Conclave 2021: Everything You Need To Know](https://sm.mashable.com/mashable_in/seo/default/shutterstock-1083512990-1_um8q.jpg "Amazon AI Conclave 2021: Everything You Need To Know")
+
+
+[Amazon AI Conclave 2021: Everything You Need To Know](https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know)
+
+
+> A decade ago, it was unfathomable to imagine that you could carry a pocket-sized smartphone to transfer money, order your favourite pizza, watch a LIVE match, or even book a cab. And all these would be just a click and a few seconds away from any location that you are in, literally defying the time zones and distance. All that was unimaginable then is what we are living today! The amount of digital data records that are stored on the internet is insane. Thanks to cloud computing and newborn data generators (cameras, IoT sensors, etc.
+
+
+***
+![Warner Bros delays Harry Potter video game until 2022](https://images.indianexpress.com/2021/01/8117c7a6-ff16-4ab0-8419-39cdd03753f1.jpg "Warner Bros delays Harry Potter video game until 2022")
+
+
+[Warner Bros delays Harry Potter video game until 2022](https://indianexpress.com/article/technology/gaming/warner-bros-delays-harry-potter-video-game-until-2022/)
+
+
+> Warner Bros Entertainment Inc pushed back the release of Hogwarts Legacy, the hotly anticipated video game set in the Harry Potter universe, until 2022. The game had originally been planned to debut this fall. Hogwarts Legacy, developed by Utah-based Avalanche Software, is a prequel to the iconic fantasy book series by J.K. Rowling. Set in the Hogwarts School of Witchcraft and Wizardry during the 1800s, the game will allow players to explore an open world and cast magical spells. Some of its creators said last year they were rattled by Rowling's transphobic comments, Bloomberg reported.
+
+
+***
+![Amazon faces legal challenge over Prime cancellation policy](https://ichef.bbci.co.uk/news/1024/branded_news/2323/production/_109459980_amazonprime.gif "Amazon faces legal challenge over Prime cancellation policy")
+
+
+[Amazon faces legal challenge over Prime cancellation policy](https://www.bbc.com/news/technology-55637140)
+
+
+> By Jane Wakefield Technology reporter image copyright Getty Images image caption Prime brings benefits, but is Amazon making it too complex for people to unsubscribe? Amazon is being challenged by consumer watchdogs in Europe and the US over its use of manipulative "dark pattern" design to promote its Prime service. The Norwegian Consumer Council (NCC) found that cancelling a subscription required scrolling through six pages and making several complex choices. It has filed a legal complaint with Norway's consumer protection authority claiming the design breaches EU law.
+
+
+***
+[Sandberg deflected blame for Capitol riot, but fliers and hashtags promoting the pro-Trump rally circulated on Facebook and Instagram weeks beforehand (Elizabeth Dwoskin/Washington Post)](http://www.techmeme.com/210114/p4#a210114p4)
+
+
+> Elizabeth Dwoskin / Washington Post: Sandberg deflected blame for Capitol riot, but fliers and hashtags promoting the pro-Trump rally circulated on Facebook and Instagram weeks beforehand — Fliers and hashtags promoting the pro-Trump rally circulated on Facebook and Instagram in the days and weeks beforehand
+
+
+***
+![Australia calls out Google for "experiment" blocking some news sites](https://i-invdn-com.akamaized.net/news/LYNXNPEF080OM_L.jpg "Australia calls out Google for "experiment" blocking some news sites")
+
+
+[Australia calls out Google for "experiment" blocking some news sites](https://www.investing.com/news/technology-news/australia-calls-out-google-for-experiment-blocking-some-news-sites-2388806)
+
+
+> © Reuters. SYDNEY (Reuters) - Australia urged Google on Thursday to "focus on paying for original content, not blocking it" after the internet giant said it was running tests that limit access to domestic news content, deepening a rift between the tech giant and the government. After the Alphabet (NASDAQ:) Inc owned search engine provider said it was conducting experiments to determine the value of its service to Australian news outlets, Treasurer Josh Frydenberg accused it of "blocking" users when it should be paying for the content.
+
+
