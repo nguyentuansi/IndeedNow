@@ -4447,3 +4447,53 @@
 > © Reuters. SYDNEY (Reuters) - Australia urged Google on Thursday to "focus on paying for original content, not blocking it" after the internet giant said it was running tests that limit access to domestic news content, deepening a rift between the tech giant and the government. After the Alphabet (NASDAQ:) Inc owned search engine provider said it was conducting experiments to determine the value of its service to Australian news outlets, Treasurer Josh Frydenberg accused it of "blocking" users when it should be paying for the content.
 
 
+***
+![WHO team arrives in Wuhan to investigate pandemic origins](https://s.abcnews.com/images/Technology/WireAP_d3666765053d481d99d2a56201c75cf9_16x9_992.jpg "WHO team arrives in Wuhan to investigate pandemic origins")
+
+
+[WHO team arrives in Wuhan to investigate pandemic origins](https://abcnews.go.com/Technology/wireStory/team-arrives-wuhan-search-pandemic-origins-75242074)
+
+
+> The 10-member team sent to Wuhan by the World Health Organization was approved by President Xi Jinping's government after months of diplomatic wrangling that prompted an unusual public complaint by the head of the WHO. Scientists suspect the virus that has killed 1.9 million people since late 2019 jumped to humans from bats or other animals, most likely in China's southwest. The ruling Communist Party, stung by complaints it allowed the disease to spread, says the virus came from abroad, possibly on imported seafood, but scientists reject that.
+
+
+***
+![The 2021 Asus ZenBook Duo 14 puts innovation first with its next-gen design and high-end performance](https://imagevars.gulfnews.com/2021/01/14/Asus-Zenbook-Pro-Duo-2021_176fff08611_medium.jpg "The 2021 Asus ZenBook Duo 14 puts innovation first with its next-gen design and high-end performance")
+
+
+[The 2021 Asus ZenBook Duo 14 puts innovation first with its next-gen design and high-end performance](https://gulfnews.com/technology/the-2021-asus-zenbook-duo-14-puts-innovation-first-with-its-next-gen-design-and-high-end-performance-1.1610611798358)
+
+
+> The 2021 Asus ZenBook Duo 14 is like no laptop you've ever used before Video Credit: Reach by Gulf News The Asus ZenBook Duo 14 features an evolved industrial design, featuring incremental changes to its internal layout to accommodate Asus' trademark ErgoLift and AAS plus hinge which now lifts the ScreenPad Plus to a more ergonomic angle. Furthermore, you find a set of top-end, high-performance components and internals making up the experience. Both the chassis and lid of the Asus ZenBook Duo 14 are made of magnesium aluminum alloy that perfectly compliments its prestigious Celestial blue finish.
+
+
+***
+![Flipkart Big Saving Days Sale to go live on January 20, here are some of the deals](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202101/Screenshot_2020-03-26_at_10.20-647x363.png?O5YOMYKN3U8avlnLE06.DOSy1xNGQGuU "Flipkart Big Saving Days Sale to go live on January 20, here are some of the deals")
+
+
+[Flipkart Big Saving Days Sale to go live on January 20, here are some of the deals](https://www.indiatoday.in/technology/news/story/flipkart-big-saving-days-sale-to-go-live-on-january-20-here-are-some-of-the-deals-1758995-2021-01-14)
+
+
+> Flipkart is back with yet another shopping festival. The Big Savings day sale on Flipkart will go live on January 20 and will go on till January 24. T The Flipkart sale will go live a day early on January 19 for the Plus members. Flipkart is back with yet another shopping festival. The Big Savings day sale on Flipkart will go live on January 20 and will go on till January 24. The Flipkart sale will go live a day early on January 19 for the Plus members. Flipkart's rival Amazon has also announced its Republic Day Sale.
+
+
+***
+![Britain's business rates regime needs 'policy change', warns eBay boss](https://www.telegraph.co.uk/content/dam/technology/2019/03/08/TELEMMGLPICT000190080130_trans_NvBQzQNjv4BqDQVK81QMLSkr-IuGRMUJHMBlQYzciaw9G4kdmm88BzI.jpeg?impolicy=logo-overlay "Britain's business rates regime needs 'policy change', warns eBay boss")
+
+
+[Britain's business rates regime needs 'policy change', warns eBay boss](https://www.telegraph.co.uk/technology/2021/01/14/britains-business-rates-regime-needs-policy-change-warns-ebay/)
+
+
+> Britain must reform its business rates and "tighten up" the digital services tax to help small retailers thrive in a digital age,  the head of eBay Europe  says today. Writing in the Telegraph, Rob Hattrell warns that "we need to think about the kind of businesses we want to see on our high streets – and incentivise a new kind of economy. " He claims an urgent reform of business rates - which are charged on most non-domestic properties, including pubs, restaurants, and shops - is the first step. The taxes are calculated based on a property's 'rateable value', or the estimated price the property would fetch on the open market.
+
+
+***
+![How to buy a chair for gaming, according to a tech expert](https://media2.s-nbcnews.com/j/newscms/2021_02/3441826/10113-gamingchairs-bd-2x1_0cfa695038c158dc734ff824049c7636.nbcnews-fp-1200-630.jpg "How to buy a chair for gaming, according to a tech expert")
+
+
+[How to buy a chair for gaming, according to a tech expert](https://www.nbcnews.com/shopping/tech-gadgets/buy-gaming-chair-guide-n1253990)
+
+
+> Thanks to a certain pandemic, many people have spent the better part of the year working from home — often in less-than-ideal situations. If you've finally decided to build a more long-term home office, a desk chair is one of the most important purchases you'll make. But as you browse, you'll probably see a lot of snazzy "gaming" chairs lumped in with the more boring, traditional office chairs — if you're looking for the latter, there are some things to keep in mind before adding it to your cart.
+
+
