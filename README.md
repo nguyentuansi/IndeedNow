@@ -4256,3 +4256,53 @@
 > By James ClaytonNorth America technology reporterimage copyrightGetty Imagesimage captionTwitter's chief executive Jack DorseyTwitter boss Jack Dorsey has said banning US President Donald Trump was the right thing to do. However, he expressed sadness at what he described as the "extraordinary and untenable circumstances" surrounding Mr Trump's permanent suspension. He also said the ban was in part a failure of Twitter's, which hadn't done enough to foster "healthy conversation" across its platforms.
 
 
+***
+![MCO: How to play free virtual games via video call](https://apicms.thestar.com.my/uploads/images/2021/01/13/1006662.jpg "MCO: How to play free virtual games via video call")
+
+
+[MCO: How to play free virtual games via video call](https://www.thestar.com.my/tech/tech-news/2021/01/13/mco-how-to-play-free-virtual-games-via-video-call)
+
+
+> Make those video calls more exciting with games like online charades and trivia quizzes. — AFP As the movement control order (MCO) comes into effect today (Jan 13) in six states, restrictions include no dining-in at restaurants and no interstate travel. With most social activities limited to online interactions, here are some virtual games you can play on the next video call with loved ones. Bingo Players will get scorecards with 25 numbers (the numbers can vary from one to 99) randomly placed on squares.
+
+
+***
+![Telegram, a recent haven for the far right, purges extremist content](https://media3.s-nbcnews.com/j/newscms/2021_02/3441892/210113-telegram-se-425p_2409c7aef540fb38f80d91c74ac3b083.nbcnews-fp-1200-630.jpg "Telegram, a recent haven for the far right, purges extremist content")
+
+
+[Telegram, a recent haven for the far right, purges extremist content](https://www.nbcnews.com/tech/tech-news/telegram-recent-haven-far-right-purges-extremist-content-n1254215)
+
+
+> Telegram, a Dubai-based chat app that has attracted a surge of new users, including some far-right Trump supporters fleeing purges at other sites, has begun a rare purge of American extremist content. At least 15 extremist Telegram channels — akin to chatrooms where the founders have moderating power — have recently been banned, according to a tally by NBC News. Content has been censored on several others. Some pro-Trump zealots have moved to Telegram in recent days to plan violence on Jan. 20, the day Joe Biden is scheduled to be inaugurated.
+
+
+***
+![CEO Jack Dorsey says Twitter had to ban Trump to protect safety](https://media1.s-nbcnews.com/j/newscms/2020_21/3354746/200518-jack-dorsey-se-333p_306829e8658e03e5b383816b106a6534.nbcnews-fp-1200-630.jpg "CEO Jack Dorsey says Twitter had to ban Trump to protect safety")
+
+
+[CEO Jack Dorsey says Twitter had to ban Trump to protect safety](https://www.nbcnews.com/tech/social-media/twitter-ceo-defends-trump-ban-cites-threats-physical-safety-n1254213)
+
+
+> SAN FRANCISCO — Twitter CEO Jack Dorsey on Wednesday defended the company's decision last week to permanently ban President Donald Trump. 'After a clear warning we'd take this action, we made a decision with the best information we had based on threats to physical safety both on and off Twitter,' Dorsey said in a thread on Twitter , talking about the ban for the first time. He said the circumstances were 'extraordinary and untenable,' forcing Twitter staff to put all of its focus on public safety.
+
+
+***
+![Trump ban sets 'dangerous precedent', Twitter boss Jack Dorsey admits](https://www.telegraph.co.uk/content/dam/technology/2021/01/14/TELEMMGLPICT000243122003_trans_NvBQzQNjv4BqkwdkPoGHvvA_O3_mdV13jPUjmY6tcZ8pOvtxV_Ku57s.jpeg?impolicy=logo-overlay "Trump ban sets 'dangerous precedent', Twitter boss Jack Dorsey admits")
+
+
+[Trump ban sets 'dangerous precedent', Twitter boss Jack Dorsey admits](https://www.telegraph.co.uk/technology/2021/01/14/trump-ban-sets-dangerous-precedent-twitter-boss-jack-dorsey/)
+
+
+> He said: "Having to take these actions fragment the public conversation. They divide us. They limit the potential for clarification, redemption, and learning. And [it] sets a precedent I feel is dangerous: the power an individual or corporation has over a part of the global public conversation. "The check and accountability on this power has always been the fact that a service like Twitter is one small part of the larger public conversation happening across the internet. If folks do not agree with our rules and enforcement, they can simply go to another internet service.
+
+
+***
+![PS5 stock dropped TODAY at Argos, Smyths, Currys, Game, Amazon and John Lewis](https://www.thesun.co.uk/wp-content/uploads/2020/12/ps5-live-281220.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock dropped TODAY at Argos, Smyths, Currys, Game, Amazon and John Lewis")
+
+
+[PS5 stock dropped TODAY at Argos, Smyths, Currys, Game, Amazon and John Lewis](https://www.thesun.co.uk/tech/13233222/ps5-stock-checker-uk-today-argos-very-game-currys-amazon-live/)
+
+
+> NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console or accessories like wireless headphones.
+
+
