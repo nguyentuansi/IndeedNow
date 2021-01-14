@@ -5076,3 +5076,53 @@
 > CAPE CANAVERAL, Fla. -- Jeff Bezos' Blue Origin company launched a new capsule into space Thursday to test all the astronaut perks before people strap in. Thursday's flight with a dummy named Mannequin Skywalker lasted 10 minutes and reached 66 miles (106 kilometers) above West Texas. Both the New Shepard rocket and the capsule landed successfully. It was the 14th flight to the fringes of space for a New Shepard rocket. The first was in 2015. 'The success of this flight puts us one really big step closer to flying astronauts,' launch commentator Ariane Cornell said from company headquarters in Kent, Washington.
 
 
+***
+![These budget phones are the best you can buy in 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/pixel-4a-iphone-12-mini-hero.jpg "These budget phones are the best you can buy in 2021")
+
+
+[These budget phones are the best you can buy in 2021](https://www.androidcentral.com/best-budget-phones)
+
+
+> Buying a smartphone doesn't have to be expensive — seriously. If you need a new device but don't have a lot of cash to spend, our top picks for the best budget phone prove that you can get a quality gadget without going broke. Whether you buy our top pick of the Google Pixel 4a or any of the other choices on this list, you can't go wrong with any of these phones. Top 6 budget phones at a glance Google Pixel 4a — Best Overall: An amazing camera, great specs, and a seriously competitive price make the Pixel 4a a winner.
+
+
+***
+![Teledyne Brown Engineering Awarded Additional $18 Million Contract for LCS Hardware](https://mms.businesswire.com/media/20210114005928/en/318169/23/tdy-logo-new.jpg "Teledyne Brown Engineering Awarded Additional $18 Million Contract for LCS Hardware")
+
+
+[Teledyne Brown Engineering Awarded Additional $18 Million Contract for LCS Hardware](https://www.businesswire.com/news/home/20210114005928/en/Teledyne-Brown-Engineering-Awarded-Additional-18-Million-Contract-for-LCS-Hardware)
+
+
+> January 14, 2021 04:00 PM Eastern Standard Time THOUSAND OAKS, Calif.--(BUSINESS WIRE)--Teledyne Technologies Incorporated (NYSE:TDY) announced that its subsidiary, Teledyne Brown Engineering, Inc., was awarded an $18 million contract from Northrop Grumman to manufacture four additional Surface-to-Surface Missile Module (SSMM) units for the U.S. Navy's Littoral Combat Ship (LCS). Teledyne Brown Engineering will manufacture, assemble and test the SSMMs at the company's main facility in Huntsville, Alabama.
+
+
+***
+![The Trade Desk Appoints Michelle Hulst as Chief Operating Officer](https://mms.businesswire.com/media/20210114005940/en/852473/23/TTD_Logo-RGB.jpg "The Trade Desk Appoints Michelle Hulst as Chief Operating Officer")
+
+
+[The Trade Desk Appoints Michelle Hulst as Chief Operating Officer](https://www.businesswire.com/news/home/20210114005940/en/The-Trade-Desk-Appoints-Michelle-Hulst-as-Chief-Operating-Officer)
+
+
+> January 14, 2021 04:00 PM Eastern Standard Time LOS ANGELES--(BUSINESS WIRE)--Global advertising technology leader, The Trade Desk (Nasdaq: TTD), today announced the appointment of Michelle Hulst as Chief Operating Officer. Hulst will be responsible for global operations, data, commercial enablement, and client services around the world as the company continues to execute on its growth strategy. Hulst previously served as Executive Vice President, Global Data and Strategy at The Trade Desk. In this position, she has been instrumental in building out partnerships and capabilities across a range of The Trade Desk's initiatives, including the industry-wide Unified ID 2.
+
+
+***
+![Velodyne Lidar Commends NHTSA Plan to Update NCAP](https://mms.businesswire.com/media/20210114005992/en/852521/23/PAEB_Nighttime_Testing.jpg "Velodyne Lidar Commends NHTSA Plan to Update NCAP")
+
+
+[Velodyne Lidar Commends NHTSA Plan to Update NCAP](https://www.businesswire.com/news/home/20210114005992/en/Velodyne-Lidar-Commends-NHTSA-Plan-to-Update-NCAP)
+
+
+> January 14, 2021 03:58 PM Eastern Standard Time SAN JOSE, Calif.--(BUSINESS WIRE)--Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) today commended the U.S. Department of Transportation's National Highway Traffic Safety Administration (NHTSA) plan to update to its New Car Assessment Program (NCAP). The NHTSA proposal would add four advanced driver assistance system (ADAS) capabilities to the NCAP, keeping pace with evolving safety technologies and providing much-needed information to consumers. NCAP is the U.
+
+
+***
+![FRMO Corp. Announces Second Quarter Results and Conference Call](http://www.businesswire.com/images/bwlogo_square.png "FRMO Corp. Announces Second Quarter Results and Conference Call")
+
+
+[FRMO Corp. Announces Second Quarter Results and Conference Call](https://www.businesswire.com/news/home/20210114005991/en/FRMO-Corp.-Announces-Second-Quarter-Results-and-Conference-Call)
+
+
+> January 14, 2021 03:58 PM Eastern Standard Time WHITE PLAINS, N.Y.--(BUSINESS WIRE)--FRMO Corp. (the 'Company' or 'FRMO') (OTC Pink: FRMO) today reported its financial results for the 2021 second quarter, ended November 30, 2020 (May fiscal year). Financial Highlights FRMO's book value as of November 30, 2020 was $180.1 million ($4.09 per share on a fully diluted basis), including $51.6 million of non-controlling interests. This compares with book value at the prior fiscal year ended May 31, 2020 of $161.
+
+
