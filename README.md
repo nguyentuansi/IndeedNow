@@ -4497,3 +4497,53 @@
 > Thanks to a certain pandemic, many people have spent the better part of the year working from home — often in less-than-ideal situations. If you've finally decided to build a more long-term home office, a desk chair is one of the most important purchases you'll make. But as you browse, you'll probably see a lot of snazzy "gaming" chairs lumped in with the more boring, traditional office chairs — if you're looking for the latter, there are some things to keep in mind before adding it to your cart.
 
 
+***
+![Hogwarts Legacy: everything we know about the Harry Potter RPG](https://cdn.mos.cms.futurecdn.net/Zzks3WCkv9EtwMtNC2vuU7-1200-80.jpg "Hogwarts Legacy: everything we know about the Harry Potter RPG")
+
+
+[Hogwarts Legacy: everything we know about the Harry Potter RPG](https://www.techradar.com/news/harry-potter-rpg-everything-we-know)
+
+
+> (Image credit: Warner Bros. Games) We knew a Harry Potter RPG was on its way, but it's only now that we have some details about Hogwarts Legacy, an open-world adventure game set in the Harry Potter universe – specifically, at the beloved wizarding school of Hogwarts (sorry, Durmstrang). This isn't a retread of the story from the Harry Potter books and films, though – the game's story is set in the 1800s, meaning you'll get a slightly different look at the popular magical franchise. It has, however, been delayed to 2022 after devs said the game needed more time to be ready for release.
+
+
+***
+![EE casts doubt on rivals 'exaggerated' 5G coverage claims](https://cdn.mos.cms.futurecdn.net/VmGwPobZjXXKLgKRtdHWL-1200-80.jpg "EE casts doubt on rivals 'exaggerated' 5G coverage claims")
+
+
+[EE casts doubt on rivals 'exaggerated' 5G coverage claims](https://www.techradar.com/news/ee-casts-doubt-on-rivals-exaggerated-5g-coverage-claims)
+
+
+> (Image credit: EE) EE CEO Marc Allera has suggested its UK rivals make exaggerated claims about their 5G services - to the detriment of consumers.Most analysis suggests EE offers the greatest availability and speeds of any 5G operator at present.  But the lack of a standardised system of testing means other operators are free to be selective about what criteria they claim to have the ‘best' coverage or service.The company has today switched on 5G in 13 more towns across the UK, bringing the total number of locations served by its next-generation network to 125.
+
+
+***
+![Kuato Studios Raises £4.5m and Launches Breakthrough VR Title ‘Panic Room'](https://mms.businesswire.com/media/20210114005003/en/847403/23/Kuato_TM_logo_with_characters.jpg "Kuato Studios Raises £4.5m and Launches Breakthrough VR Title ‘Panic Room'")
+
+
+[Kuato Studios Raises £4.5m and Launches Breakthrough VR Title ‘Panic Room'](http://www.businesswire.com/news/home/20210114005003/en/Kuato-Studios-Raises-£4.5m-and-Launches-Breakthrough-VR-Title-‘Panic-Room’/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> LONDON--(BUSINESS WIRE)--UK-based EdTech gaming studio, Kuato Studios, has raised £4.5m in a round led by Horizons Ventures and is launching ‘Panic Room' – its first virtual reality title. Renowned for creating award-winning apps and education-based games – and for partnering with well-known brands such as Disney and Marvel – Kuato wants to use ‘Panic Room' to showcase how VR can be used in new and innovative ways. ‘Panic Room', empowered by Kuato's newly-patented ‘Actor/Director' platform, is the world's first cross-platform, socially-interactive virtual reality game, opening the developer up to new platforms and audiences.
+
+
+***
+![Mouser Electronics Adds Over 70 New Manufacturers in 2020 to Its Industry-Leading Line Card](https://mms.businesswire.com/media/20210114005043/en/852033/23/new-supplier-roundup-pr-hires.jpg "Mouser Electronics Adds Over 70 New Manufacturers in 2020 to Its Industry-Leading Line Card")
+
+
+[Mouser Electronics Adds Over 70 New Manufacturers in 2020 to Its Industry-Leading Line Card](http://www.businesswire.com/news/home/20210114005043/en/Mouser-Electronics-Adds-Over-70-New-Manufacturers-in-2020-to-Its-Industry-Leading-Line-Card/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> Mouser Electronics added a record 74 new manufacturers to its industry-leading line card during 2020, reinforcing its commitment to offering customers the most comprehensive lineup of leading technologies across all product categories. (Photo: Business Wire) Mouser Electronics added a record 74 new manufacturers to its industry-leading line card during 2020, reinforcing its commitment to offering customers the most comprehensive lineup of leading technologies across all product categories. (Photo: Business Wire) MUNICH--(BUSINESS WIRE)--Mouser Electronics, Inc.
+
+
+***
+![Nordic Enterprises Tap into Growing Regional Infrastructure for Next-gen ADM Services](https://mms.businesswire.com/media/20210114005349/en/1016900/23/ISG_%28R%29_Logo.jpg "Nordic Enterprises Tap into Growing Regional Infrastructure for Next-gen ADM Services")
+
+
+[Nordic Enterprises Tap into Growing Regional Infrastructure for Next-gen ADM Services](http://www.businesswire.com/news/home/20210114005349/en/Nordic-Enterprises-Tap-into-Growing-Regional-Infrastructure-for-Next-gen-ADM-Services/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> STOCKHOLM--(BUSINESS WIRE)--Application development and maintenance service providers are expanding their presence across the Nordics region to better serve enterprise customers and tap into the local talent pool, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2020 ISG Provider Lens™ Next-gen Application Development & Maintenance (ADM) Services report for the Nordics says providers have set up service delivery centers in multiple locations across the region, including Oslo, Stockholm and Stavanger, Norway, to offer wider coverage and gain access to critical talent.
+
+
