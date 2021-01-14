@@ -5226,3 +5226,50 @@
 > The Galaxy A32 5G offers a 6.5-inch display and 5,000mAh battery. Image: Samsung Echoing a theme that will be repeated a lot more this year, Samsung has announced a very inexpensive 5G phone. The Galaxy A32 5G is debuting in Europe first, starting at €279 for a 64GB version or €299 for 128GB. There's no official word yet on whether it will come to the US. The A32 5G offers a 6.5-inch 1600 x 900 display, a 5,000mAh battery, and a side-mounted fingerprint reader. Its rear camera array includes a 48-megapixel main camera, an 8-megapixel ultrawide, a 2-megapixel depth-sensing camera, and the obligatory 5-megapixel macro camera.
 
 
+***
+![The end of Plaid-Visa, and Palantir's growing startup mafia – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/12/equity-podcast-2019-phone-1-4-e1578089278201.jpg?w=350 "The end of Plaid-Visa, and Palantir's growing startup mafia – TechCrunch")
+
+
+[The end of Plaid-Visa, and Palantir's growing startup mafia – TechCrunch](https://techcrunch.com/2021/01/14/the-end-of-plaid-visa-and-palantirs-growing-startup-mafia/)
+
+
+> Alex Wilhelm Natasha Mascarenhas 8 hours Hello and welcome back to Equity, TechCrunch's venture-capital-focused podcast, where we unpack the numbers behind the headlines. This week we — Natasha and Danny and Alex and Grace — had a lot to get through, as the news volume in early 2021 has been rapid, and serious. Sadly this means that some early-stage rounds missed the cut, though we did make sure to have some Series A material in the show. So, what did we the assembled crew get to? Here's your cheat-sheet: As is Talkspace, the tele-therapy startup that you've heard of.
+
+
+***
+![Google finalizes Fitbit acquisition, despite continuing antitrust investigations](https://cdn.mos.cms.futurecdn.net/uqsZk5ZGTFnH5vQgcFcPN9-1200-80.jpg "Google finalizes Fitbit acquisition, despite continuing antitrust investigations")
+
+
+[Google finalizes Fitbit acquisition, despite continuing antitrust investigations](https://www.techradar.com/news/google-finalizes-fitbit-acquisition-despite-continuing-antitrust-investigations)
+
+
+> (Image credit: Ida Blix) Google has announced it's finally acquired Fitbit via dual press releases, closing a long process that went public in November 2019. Both companies allegedly agreed on the announcement despite the US Department of Justice not rendering a final decision on the acquisition's potential for antitrust violations. Yet the DOJ has reportedly countered that its investigation is ongoing, according to a statement sent to several publications, here quoted from Android Police: 'The Antitrust Division's investigation of Google's acquisition of Fitbit remains ongoing.
+
+
+***
+![ON Semiconductor to Announce Fourth Quarter and 2020 Annual Financial Results](https://mms.businesswire.com/media/20210114006044/en/224031/21/ONVert-3DShadow-Sm.jpg "ON Semiconductor to Announce Fourth Quarter and 2020 Annual Financial Results")
+
+
+[ON Semiconductor to Announce Fourth Quarter and 2020 Annual Financial Results](https://www.businesswire.com/news/home/20210114006044/en/ON-Semiconductor-to-Announce-Fourth-Quarter-and-2020-Annual-Financial-Results)
+
+
+> January 14, 2021 05:57 PM Eastern Standard Time PHOENIX--(BUSINESS WIRE)--ON Semiconductor Corporation (Nasdaq: ON) plans to announce its financial results for the fourth quarter, which ended December 31, 2020, before the market opens on Monday, February 1, 2021. The company will host a conference call at 9 a.m. Eastern Time (EST) on February 1, 2021, following the release of its financial results. Investors and interested parties can access the conference call in the following manner: Webcast: A live webcast of the conference call will be available via the 'Investor Relations' section of the company's website at http://www.
+
+
+***
+![How to play Among Us](https://icdn4.digitaltrends.com/image/digitaltrends/sc5kzt-1200x630-c-ar1.91.jpg "How to play Among Us")
+
+
+[How to play Among Us](https://www.digitaltrends.com/gaming/how-to-play-among-us/)
+
+
+> By now, the sheer popularity of Among Us has reached such stratospheric heights that everyone from parents to politicians at least knows the name. This little indie game, despite coming out to almost no fanfare back in 2018, got a second life in 2020 and remains one of the most popular games out there. A major reason for that, aside from the addictive and social gameplay, is because it is free. Anyone with a phone or PC can load it up and start playing with friends and family right away. With more people than ever looking to try out the biggest phenomenon in gaming, many are asking exactly how to play Among Us.
+
+
+***
+[Apple has removed a controversial feature in macOS 11.2 beta 2 that allowed its own apps to bypass third-party firewalls, security tools, and VPNs (Catalin Cimpanu/ZDNet)](http://www.techmeme.com/210114/p50#a210114p50)
+
+
+> Catalin Cimpanu / ZDNet: Apple has removed a controversial feature in macOS 11.2 beta 2 that allowed its own apps to bypass third-party firewalls, security tools, and VPNs — The ContentFilterExclusionList has been removed in macOS 11.2 beta 2. — Apple has removed a controversial feature from the macOS operating system …
+
+
