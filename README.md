@@ -4597,3 +4597,50 @@
 > One of the best phones of 2019, the Xiaomi Mi Note 10, didn't see a successor last year, which had us thinking the Xiaomi Mi Note 11 might never arrive. But it seems we might still see the phone. Twitter user @_the_tech_guy, who has a record of unearthing useful information, found references to both the Mi Note 11 and the Xiaomi Mi Mix 4 in code for MIUI, Xiaomi's user interface which sits on top of Android. MIUI code often contains references to future Xiaomi phones - the Mi Note 10's 108MP camera was leaked that way - and it seems likely such code would only be added leading up to a phone's launch.
 
 
+***
+![Tracing and visualizing the Python GIL with perf and VizTracer](https://external-preview.redd.it/Z62b7u3MaqCztdSUdTyFKjaNOLnnK-olVt3Ps-Rpq5I.jpg?auto=webp&s=12a24d4488dd7acb22c85590783a313e61641255 "Tracing and visualizing the Python GIL with perf and VizTracer")
+
+
+[Tracing and visualizing the Python GIL with perf and VizTracer](https://www.reddit.com/r/Python/comments/kx3m8d/tracing_and_visualizing_the_python_gil_with_perf/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Upgrade launches checking accounts and debit cards](https://techcrunch.com/wp-content/uploads/2021/01/Upgrade_Card_Renaud_Laplanche.jpg?w=600 "Upgrade launches checking accounts and debit cards")
+
+
+[Upgrade launches checking accounts and debit cards](https://techcrunch.com/2021/01/14/upgrade-launches-checking-accounts-and-debit-cards/)
+
+
+> Fintech startup Upgrade has been positioning itself as a neobank. And yet, the company has mostly been focused on personal loans and more recently credit cards. You couldn't just replace your bank account with Upgrade. Upgrade is adding two important missing pieces of the puzzle with checking accounts and debit cards. With today's launch, Upgrade competes more directly with other challenger banks, such as Chime, N26 and others. You can open a checking account, control it from a mobile app, send and receive money from that account.
+
+
+***
+![Parler 'may never return' after AWS shutdown](https://cdn.mos.cms.futurecdn.net/rno2K96tZSejRBMbNWPLCc-1200-80.jpg "Parler 'may never return' after AWS shutdown")
+
+
+[Parler 'may never return' after AWS shutdown](https://www.techradar.com/news/social-media-platform-parler-may-never-return-after-aws-shutdown)
+
+
+> (Image credit: Parler) Social media platform Parler 'may never return' to service after it was abandoned by a series of technology partners last week, the firm's CEO has conceded.The right-leaning social network was dragged offline after Amazon Web Services (AWS), which provided the infrastructure necessary for Parler to operate, pulled the plug over apparent insufficiencies in the platform's content moderation policies.Before dropping offline, Parler was also removed from the Google Play Store and Apple App Store, the two largest app marketplaces in the world, over threatening and violent content that remained live on the platform.
+
+
+***
+![Pocket-lint Best of CES 2021 Awards: The 15 top gadgets, TVs, laptops and more](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/136418-gadgets-news-buyer-s-guide-best-of-the-ces-consumer-electronics-trade-show-image2-6ryoacmrbw.jpg "Pocket-lint Best of CES 2021 Awards: The 15 top gadgets, TVs, laptops and more")
+
+
+[Pocket-lint Best of CES 2021 Awards: The 15 top gadgets, TVs, laptops and more](https://www.pocket-lint.com/gadgets/buyers-guides/136418-pocket-lint-best-of-ces-awards-the-15-best-tvs-laptops-gadgets-and-more)
+
+
+> (Pocket-lint) - The last 12 months or so have been unlike any other and that has had a profound affect on this year's CES. Being virtual-only for the first time, it meant we couldn't tread the halls of the world's largest trade show as we usually do, and therefore didn't get to see as many products in the flesh. But, we won't let that stop us from giving you our rundown of the products we think will excite most in the coming year - the announcements from CES 2021 that you should keep an eye on. This therefore is our list of the best tech launched during a quite unique CES.
+
+
+***
+[New GTA 5 game ‘coming to PS5 and Xbox Series X THIS year', new leak claims](https://www.thesun.ie/tech/6412813/new-gta-5-ps5-xbox-enhanced-update-2021/)
+
+
+> A SECRET “enhanced” version of Grand Theft Auto 5 may be in development. Eagle-eyed fans think they’ve found proof that an improved GTA 5 is coming to the PS5 – possibly as soon as this year. The game first launched seven years ago, but the Rockstar Games title is still wildly popular. This streak of […]
+
+
