@@ -4741,3 +4741,53 @@
 > Javascript is Disabled Your current browser configuration is not compatible with this site.
 
 
+***
+![China unveils 400mph levitating ‘magnet train' that's nearly as fast as a jet plane](https://www.thesun.co.uk/wp-content/uploads/2021/01/NINTCHDBPICT000630387921.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "China unveils 400mph levitating ‘magnet train' that's nearly as fast as a jet plane")
+
+
+[China unveils 400mph levitating ‘magnet train' that's nearly as fast as a jet plane](https://www.thesun.co.uk/tech/13741004/china-super-fast-train-maglev/)
+
+
+> A SUPER fast train that aims to reach speeds of nearly 400 miles per hour has been unveiled in China. The new 'super bullet maglev train' prototype was revealed on a small stretch of test track in Chengdu. The train prototype has just been revealedCredit: Rex Features It was created by scientists at the Southwest Jiaotong University who think the train could travel at the speed of some jet planes. The aim is for the vehicle to be a next-generation magnetic levitation train that will be cheaper and much faster than current train options.
+
+
+***
+![Here's how to send video to your Apple TV through AirPlay](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/11/apple-tv-plus-family-sharing-hero.jpg "Here's how to send video to your Apple TV through AirPlay")
+
+
+[Here's how to send video to your Apple TV through AirPlay](https://www.imore.com/how-airplay-apple-tv-from-iphone-ipad-mac)
+
+
+> Source: iMore AirPlay lets you stream video and mirror your display from the best iPhone, iPad, or Mac to Apple TV. It also lets you stream audio to Apple TV and any compatible speakers, including those connected to an AirPort Express router. If you're on the same Wi-Fi network, AirPlay connects and starts streaming. If you're not on the same network, AirPlay can use point-to-point Wi-Fi to stream. That makes AirPlay great for entertainment, education, and enterprise — tap a button, choose a target, and watch your show or run your presentation.
+
+
+***
+![Here are some must-have apps for your high schooler](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2017/08/classroom_by_arsenixc-dakui46.jpg "Here are some must-have apps for your high schooler")
+
+
+[Here are some must-have apps for your high schooler](https://www.androidcentral.com/best-android-apps-high-school-students)
+
+
+> It's halfway through the school year! Whether your high school student is learning in the classroom, at home, or a hybrid of the two, there are several great Android apps that are designed to give your child the support they need to succeed. We chatted with a few teachers, school administrators, and fellow parents to find the most helpful apps that work on both Android cell phones and tablets. Here is a quick rundown of the best. Staff Pick Evernote is the most popular personal planner and note-taking app available.
+
+
+***
+![Perfect Corp. Reveals Innovative New Direct-to-Consumer 360° Beauty Tech Solutions at CES 2021](https://mms.businesswire.com/media/20210114005547/en/852434/23/ces_banner.jpg "Perfect Corp. Reveals Innovative New Direct-to-Consumer 360° Beauty Tech Solutions at CES 2021")
+
+
+[Perfect Corp. Reveals Innovative New Direct-to-Consumer 360° Beauty Tech Solutions at CES 2021](https://www.businesswire.com/news/home/20210114005547/en/Perfect-Corp.-Reveals-Innovative-New-Direct-to-Consumer-360%C2%B0-Beauty-Tech-Solutions-at-CES-2021)
+
+
+> January 14, 2021 09:00 AM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--Perfect Corp., the leading global beauty tech solutions provider and developer of the award-winning YouCam Makeup app, hosts a virtual presentation at the Consumer Electronics Show (CES) sharing the latest digital beauty innovations that are helping brands reimagine and enhance the shopping experience for both online and retail. Perfect Corp. shared the advanced augmented reality (AR) and artificial intelligence (AI)-powered digital technologies that are helping brands enhance their direct-to-consumer (D2C) engagements online, and deliver touchless digital experiences in retail stores.
+
+
+***
+![How to watch Samsung's big Galaxy S21 event](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/s21-ultra-leak-4.jpeg "How to watch Samsung's big Galaxy S21 event")
+
+
+[How to watch Samsung's big Galaxy S21 event](https://www.androidcentral.com/how-watch-samsungs-big-galaxy-s21-event)
+
+
+> Source: OnLeaks Samsung's all-digital Unpacked event is today, January 14. We're expecting announcements for the Galaxy S21, Galaxy Buds Pro, and more. The livestream begins at 10:00 AM ET / 7:00 AM PT. Samsung's next Unpacked event is happening today, and as we see with every Unpacked, that means you can look forward to a heap of product announcements coming very soon. Lucky for you, tuning in to watch this latest Unpacked is going to be easier than ever before. As per usual, Samsung is livestreaming Unpacked from its own website and on its YouTube channel.
+
+
