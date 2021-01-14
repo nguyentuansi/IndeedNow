@@ -4838,3 +4838,53 @@
 > No body in the article.
 
 
+***
+![Nokia selected for U.S. Federal 5G Cybersecurity Project](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Nokia selected for U.S. Federal 5G Cybersecurity Project")
+
+
+[Nokia selected for U.S. Federal 5G Cybersecurity Project](https://seekingalpha.com/pr/18152136-nokia-selected-for-u-s-federal-5g-cybersecurity-project)
+
+
+> The National Cybersecurity Center of Excellence (NCCoE) launched the 5G Cybersecurity Project to identify 5G use case scenarios and to demonstrate how 5G architecture components can provide security capabilities  Nokia ( NOK ) is the main 5G solutions provider to collaborate with National Institute for Standards and Technology (NIST), NCCoE 14 January 2021 Espoo, Finland – Nokia today announced it has been selected as a technology provider and collaborator by the National Cybersecurity Center of Excellence (NCCoE) 5G Cybersecurity Project.
+
+
+***
+![Avid Introduces MediaCentral](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Avid Introduces MediaCentral")
+
+
+[Avid Introduces MediaCentral](https://seekingalpha.com/pr/18152499-avid-introduces-mediacentral-stream-to-help-broadcasters-make-way-for-seamless-ip-content)
+
+
+> GlobeNewswire BURLINGTON, Mass. , Jan. 14, 2021 (GLOBE NEWSWIRE) -- Avid ® ( Nasdaq: AVID ) today announced the introduction and immediate availability of MediaCentral | Stream , an agnostic and software-only solution that enables the ingest of incoming IP streams for television news and remote live TV production scenarios in both on-premises and cloud-based production workflows. Supporting IP contribution from anywhere and from any device – including cameras, encoders and mobile devices – MediaCentral | Stream unlocks the power of IP for production applications running on the MediaCentral platform.
+
+
+***
+![Twilio Welcomes Deval Patrick to Twilio Board of Directors](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Twilio Welcomes Deval Patrick to Twilio Board of Directors")
+
+
+[Twilio Welcomes Deval Patrick to Twilio Board of Directors](https://seekingalpha.com/pr/18152262-twilio-welcomes-deval-patrick-to-twilio-board-of-directors)
+
+
+> SAN FRANCISCO --(BUSINESS WIRE)-- Twilio ( TWLO ) (NYSE:TWLO), the leading cloud communications platform, is pleased to welcome Deval Patrick , former governor of Massachusetts , to the Twilio Board of Directors. Patrick brings more than 30 years of executive and public sector experience to Twilio as the company strengthens its position as a leading customer engagement platform. 'Deval is an impressive leader with broad business, finance, public policy and social impact acumen from decades of experience as a public servant and business leader at some of the world's top companies,' said Jeff Lawson , CEO and co-founder of Twilio.
+
+
+***
+![Crown Castle International Corp. (REIT) (CCI) Wall St. Analysts Rating](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Crown Castle International Corp. (REIT) (CCI) Wall St. Analysts Rating")
+
+
+[Crown Castle International Corp. (REIT) (CCI) Wall St. Analysts Rating](https://seekingalpha.com/symbol/CCI/ratings/sell-side-ratings)
+
+
+> No body in the article.
+
+
+***
+![Intel Corporation (INTC) Wall St. Analysts Rating](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Intel Corporation (INTC) Wall St. Analysts Rating")
+
+
+[Intel Corporation (INTC) Wall St. Analysts Rating](https://seekingalpha.com/symbol/INTC/ratings/sell-side-ratings)
+
+
+> No body in the article.
+
+
