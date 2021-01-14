@@ -4353,3 +4353,50 @@
 > Data integration specialist Talend has appointed Mark Fazackerley to the role of regional vice president of sales for Australia and New Zealand. "I am delighted to welcome Mark, who has extensive expertise in facilitating successful client outcomes in complex scenarios," said Talend senior vice president of sales and general manager APAC Stu Garrow. "Talend is experiencing robust growth in Australia and New Zealand, driven both by strong demand for our cloud-based data integration solutions and by our efforts with our strategic partners.
 
 
+***
+[What to expect from Samsung's Galaxy Unpacked event: Galaxy S21, S21 Plus, and S21 Ultra, with S Pen support, Galaxy Buds Pro, SmartTag, and more (Jay Peters/The Verge)](http://www.techmeme.com/210114/p2#a210114p2)
+
+
+> Jay Peters / The Verge: What to expect from Samsung's Galaxy Unpacked event: Galaxy S21, S21 Plus, and S21 Ultra, with S Pen support, Galaxy Buds Pro, SmartTag, and more — Three new phones, new earbuds, an item tracker, and more — Samsung's next Unpacked event is less than a day away, kicking off on January 14th at 10AM ET …
+
+
+***
+![One third of Australian users have not updated Covidsafe app](https://i.guim.co.uk/img/media/361b5f0fb28405be7a953b162e075d953ac8a19f/0_29_3425_2056/master/3425.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3b394ae6d8fd3fecbf8b1b5624443b6 "One third of Australian users have not updated Covidsafe app")
+
+
+[One third of Australian users have not updated Covidsafe app](http://www.theguardian.com/technology/2021/jan/14/one-third-of-australian-users-have-not-updated-covidsafe-app)
+
+
+> Nearly one third of the seven million Australians who downloaded the Covidsafe app have not updated to the most recent version, as new figures show the government spend on the contact tracing app has risen to $14m.The Covidsafe contact tracing app relies on as many people as possible running it, but new data reveals that more than two million users do not have the most up-to-date version.In the nine months since the federal government launched the app, it has only identified 17 close contacts that were not found through manual contact tracing methods, all of them in New South Wales.
+
+
+***
+![TV Sales Volume of TCL Electronics in 2020 Reached 23.93 Million, Overshoots Its Sales Target and Hits a New High](https://mms.businesswire.com/media/20210113005996/en/852381/23/TCL-logo.jpg "TV Sales Volume of TCL Electronics in 2020 Reached 23.93 Million, Overshoots Its Sales Target and Hits a New High")
+
+
+[TV Sales Volume of TCL Electronics in 2020 Reached 23.93 Million, Overshoots Its Sales Target and Hits a New High](http://www.businesswire.com/news/home/20210113005996/en/TV-Sales-Volume-of-TCL-Electronics-in-2020-Reached-23.93-Million-Overshoots-Its-Sales-Target-and-Hits-a-New-High/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HONG KONG--(BUSINESS WIRE)--TCL Electronics Holdings Limited ("TCL Electronics" or "the Company", HKSE stock code: 01070.HK) announced that its sales volumes of TCL brand TV in the fourth quarter of 2020 (from October to December) increased by 20.2% year on year to 6.61 million sets. The sales volumes in the whole year of 2020 (from January to December) reached 23.93 million sets with a year-on-year growth of 15.9%, overshooting its sales target and hitting a new high. In spite of COVID-19 pandemic in 2020, the Company leveraged its globally deployed production capacity and advantages in vertical integration for the industry chain to seize sales opportunities as markets rebounded.
+
+
+***
+![Parler CEO says the conservative social network may not return](https://image-prod.iol.co.za/resize/4096x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/06370310-e0a7-5dac-8b9a-1ee101e9203d&operation=CROP&offset=0x0&resize=4096x2304 "Parler CEO says the conservative social network may not return")
+
+
+[Parler CEO says the conservative social network may not return](https://www.iol.co.za/technology/software-and-internet/parler-ceo-says-the-conservative-social-network-may-not-return-d463b78e-e460-429f-9c57-711f645c2e58)
+
+
+> By Elizabeth Culliford and Jeffrey DastinWashington - Social media platform Parler, which has gone dark after being cut off by major service providers that accused the app of failing to police violent content, may never get back online, said its CEO John Matze.As a procession of business vendors severed ties with the two-year-old site following the storming of the U.S. Capitol last week, Matze said in an interview with Reuters on Wednesday that he does not know when or if it will return."It could be never," he said.
+
+
+***
+![Star Wars Open-World Game Announced by Ubisoft, Lucasfilm Games](https://i.gadgets360cdn.com/large/ubisoft_star_wars_1610602009239.jpg "Star Wars Open-World Game Announced by Ubisoft, Lucasfilm Games")
+
+
+[Star Wars Open-World Game Announced by Ubisoft, Lucasfilm Games](https://gadgets.ndtv.com/games/news/star-wars-ubisoft-game-open-world-massive-entertainment-lucasfilm-games-2352278)
+
+
+> Star Wars is getting a new open-world game that will be developed by Ubisoft-owned Massive Entertainment, the Swedish studio is best known for Tom Clancy's The Division 2, Ubisoft and Disney-owned Lucasfilm Games announced. Massive — which is also making a game based on James Cameron's Avatar — will use its existing Snowdrop engine to power a 'story-driven ground-breaking' Star Wars adventure, the two parties said. This comes a day after Lucasfilm Games and Bethesda announced an Indiana Jones game, and Lucasfilm Games VP Douglas Reilly has promised more: 'This is just the beginning of what I think is going to be a very exciting year for Lucasfilm Games.
+
+
