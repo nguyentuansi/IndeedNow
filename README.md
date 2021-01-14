@@ -4888,3 +4888,53 @@
 > No body in the article.
 
 
+***
+![Advance Solutions Announces New Identity and Access Management Application (IDAM™) built on ServiceNow](https://mms.businesswire.com/media/20210114005868/en/852497/23/ADVANCED-Logo-RGB-Primary-Vertical.jpg "Advance Solutions Announces New Identity and Access Management Application (IDAM™) built on ServiceNow")
+
+
+[Advance Solutions Announces New Identity and Access Management Application (IDAM™) built on ServiceNow](https://www.businesswire.com/news/home/20210114005868/en/Advance-Solutions-Announces-New-Identity-and-Access-Management-Application-IDAM%E2%84%A2-built-on-ServiceNow)
+
+
+> IDAM is custom built with all of your identity and access management needs in mind. With complete automation enablement, it is equipped with plug and play configurations and allows you to track access from various points. IDAM comes with privileged access management, role-based approval systems, agent workspace experience and a number of additional automated cloud administrative services that are not limited by physical presence in an office. IDAM is custom built with all of your identity and access management needs in mind.
+
+
+***
+![Blind CodeAcademy Python Speedrun [Sections 1-8.5] with Educational Commentary [1:52:23]](https://external-preview.redd.it/qJEY8r-E_vBqYa7SeaUkMExBQn3Acbq41nmAzE2qoxY.jpg?auto=webp&s=2dd84de81179cb563224125aaf7a3d8ed0bd7a22 "Blind CodeAcademy Python Speedrun [Sections 1-8.5] with Educational Commentary [1:52:23]")
+
+
+[Blind CodeAcademy Python Speedrun [Sections 1-8.5] with Educational Commentary [1:52:23]](https://www.reddit.com/r/programming/comments/kxafy3/blind_codeacademy_python_speedrun_sections_185/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![ITCC – Be Recognized as an IT Certification Innovator](https://mms.businesswire.com/media/20210114005862/en/852461/23/ITCC-logo-Full.jpg "ITCC – Be Recognized as an IT Certification Innovator")
+
+
+[ITCC – Be Recognized as an IT Certification Innovator](https://www.businesswire.com/news/home/20210114005862/en/ITCC-%E2%80%93-Be-Recognized-as-an-IT-Certification-Innovator)
+
+
+> CHICAGO--(BUSINESS WIRE)--Nominations are now being accepted for the Information Technology Certification Council's (ITCC) Innovation Award. Now in its sixth year, the ITCC Innovation Award recognizes leadership initiatives that have positively impacted IT companies or the certification industry. We've all had to be more innovative in the face of challenges presented in 2020, so if your company or one you work with has implemented an innovative test, process, or service within the past two years, we want to hear from you.
+
+
+***
+![$2.6 Billion Worldwide Mid and High Level Precision GPS Industry to 2027](https://mms.businesswire.com/media/20210114005856/en/371054/23/ResearchAndMarkets_800px.jpg "$2.6 Billion Worldwide Mid and High Level Precision GPS Industry to 2027")
+
+
+[$2.6 Billion Worldwide Mid and High Level Precision GPS Industry to 2027](https://www.businesswire.com/news/home/20210114005856/en/2.6-Billion-Worldwide-Mid-and-High-Level-Precision-GPS-Industry-to-2027---Impact-of-COVID-19-on-the-Market---ResearchAndMarkets.com)
+
+
+> January 14, 2021 12:32 PM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Mid and High Level Precision GPS - Global Market Trajectory & Analytics" report has been added to ResearchAndMarkets.com's offering. The publisher brings years of research experience to the 7th edition of this report. The 144-page report presents concise insights into how the pandemic has impacted production and the buy side for 2020 and 2021. A short-term phased recovery by key geography is also addressed. Global Mid and High Level Precision GPS Market to Reach $7.
+
+
+***
+![Samsung Galaxy S history: from iPhone copycat to dazzling design](https://cdn.mos.cms.futurecdn.net/a8eEcdCMz3q2VjRv6swaSA-1200-80.jpg "Samsung Galaxy S history: from iPhone copycat to dazzling design")
+
+
+[Samsung Galaxy S history: from iPhone copycat to dazzling design](https://www.techradar.com/news/samsung-galaxy-s-history)
+
+
+> Can you believe it? Samsung's famous Galaxy S series has spent over a decade evolving into an awe-inspiring device. With the launch of the brand new Samsung Galaxy S21, it's a good opportunity to look back at the history of Samsung's popular line of flagship smartphones.The Galaxy S series has made Samsung the biggest seller of smartphones in the world. It's where you find the latest hardware and innovation come together into the very best devices Samsung has to offer.But how did the South Korean giant become so influential and popular? A bit over a decade ago, Samsung sprayed out demi-smartphones met with shrugs and derision in equal measure.
+
+
