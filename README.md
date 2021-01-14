@@ -4306,3 +4306,50 @@
 > NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console or accessories like wireless headphones.
 
 
+***
+![An unlikely database migration](https://external-preview.redd.it/9Yl2tfwlFbGMffYQeP3bTjiuno1c5nBAh4ERFP789wM.jpg?auto=webp&s=eac80bc56f69d2a5953a60005f791ab1ecca8db3 "An unlikely database migration")
+
+
+[An unlikely database migration](https://www.reddit.com/r/programming/comments/kwz3eb/an_unlikely_database_migration/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![New 4TB consumer SSDs from WD](https://www.itwire.com/media/k2/items/cache/f42d9de7c7c5c82e33eb5a4b6737f04d_XS.jpg "New 4TB consumer SSDs from WD")
+
+
+[New 4TB consumer SSDs from WD](https://www.itwire.com/home-it/new-4tb-consumer-ssds-from-wd.html)
+
+
+> Western Digital has announced four 4TB portable consumer SSDs. WD's new 4TB drives are the SanDisk Extreme Pro Portable SSD, SanDisk Extreme Portable SSD, WD_Black P50 Game Drive SSD, and My Passport SSD. The $1499 SanDisk Extreme Pro Portable SSD uses NVMe storage and delivers up to 2000MBps read and write speeds. Its aluminium chassis acts as a heatsink, which is said to allow higher sustained speeds. The $1199 SanDisk Extreme Portable SSD also uses NVMe storage, but offers speeds up to 1050MBps read and up to 1000MBps write.
+
+
+***
+![Treat yourself to the best iPhone XR deals in January](https://mondrian.mashable.com/2021%252F01%252F14%252Fef%252F482e5a760c0e417f87862915d9bd29ec.e5aca.jpg%252F1200x630.jpg?signature=iy-ijy5X9F9Sn0CFFPGdj7ylln0= "Treat yourself to the best iPhone XR deals in January")
+
+
+[Treat yourself to the best iPhone XR deals in January](https://mashable.com/uk/shopping/jan-13-apple-iphone-xr-deals/)
+
+
+> TL;DR: The Apple iPhone XR is on sale from online retailer Mobiles.co.uk, with prices starting at £27.99 per month. It can be tough at this time of the year. The nights are long, the weather is generally pretty grim, and it can feel like there's absolutely nothing to do. We could all do with a little TLC, and that's exactly what Mobiles.co.uk is offering. The online smartphone retailer is running its "Treat Yourself" event, with deals on a wide range of the most popular handsets from brands like Apple and Samsung.
+
+
+***
+['Right decision' but sets 'dangerous precedent': Jack Dorsey on Trump Twitter ban](https://www.freepressjournal.in/technology/right-decision-but-sets-dangerous-precedent-jack-dorsey-on-trump-twitter-ban)
+
+
+> No body in the article.
+
+
+***
+![Talend taps Fazackerley to lead ANZ sales](https://www.itwire.com/media/k2/items/cache/ba60485c8a3fa74ddd430ff085f231de_XS.jpg "Talend taps Fazackerley to lead ANZ sales")
+
+
+[Talend taps Fazackerley to lead ANZ sales](https://www.itwire.com/people-moves/talend-taps-fazackerley-to-lead-anz-sales.html)
+
+
+> Data integration specialist Talend has appointed Mark Fazackerley to the role of regional vice president of sales for Australia and New Zealand. "I am delighted to welcome Mark, who has extensive expertise in facilitating successful client outcomes in complex scenarios," said Talend senior vice president of sales and general manager APAC Stu Garrow. "Talend is experiencing robust growth in Australia and New Zealand, driven both by strong demand for our cloud-based data integration solutions and by our efforts with our strategic partners.
+
+
