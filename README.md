@@ -4938,3 +4938,53 @@
 > Can you believe it? Samsung's famous Galaxy S series has spent over a decade evolving into an awe-inspiring device. With the launch of the brand new Samsung Galaxy S21, it's a good opportunity to look back at the history of Samsung's popular line of flagship smartphones.The Galaxy S series has made Samsung the biggest seller of smartphones in the world. It's where you find the latest hardware and innovation come together into the very best devices Samsung has to offer.But how did the South Korean giant become so influential and popular? A bit over a decade ago, Samsung sprayed out demi-smartphones met with shrugs and derision in equal measure.
 
 
+***
+![PC sales finally saw big growth in 2020 after years of steady decline](https://cdn.arstechnica.net/wp-content/uploads/2021/01/lenovo-titanium-760x380.jpg "PC sales finally saw big growth in 2020 after years of steady decline")
+
+
+[PC sales finally saw big growth in 2020 after years of steady decline](https://arstechnica.com/gadgets/2021/01/pc-sales-finally-saw-big-growth-in-2020-after-years-of-steady-decline/)
+
+
+> Enlarge / A promotional shot for Lenovo's ThinkPad X1 Titanium Yoga laptop, one of the new 2021 laptops meant to capitalize on growing traditional PC sales. During the Consumer Electronics Show this week, research firm IDC released a report on worldwide traditional PC sales in 2020, and it tells a rosier story than we've been used to in recent years. In the fourth quarter of 2020, PC shipments grew 26.1 percent over the same period last year. That means 13.1 percent year-over-year growth overall, and the best year and month for PC sales in quite some time.
+
+
+***
+![5 things we learned about Java in 2020 [OSDC]](https://external-preview.redd.it/k28yQOzZiNf-wqEHDHDPnwuf92b4KSNpP5cMFcHi9dU.jpg?auto=webp&s=bf51cccb662c23fc48ab3764a9ddf621de3ea741 "5 things we learned about Java in 2020 [OSDC]")
+
+
+[5 things we learned about Java in 2020 [OSDC]](https://www.reddit.com/r/programming/comments/kxbu4v/5_things_we_learned_about_java_in_2020_osdc/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Best advice for programmers by two great software lovers.](https://external-preview.redd.it/v_ONyB3326MslRWKxFetzwovyDogf0d6jS0O2iXGpBg.jpg?auto=webp&s=104a253626c002f97338583231012ecde7e4fedc "Best advice for programmers by two great software lovers.")
+
+
+[Best advice for programmers by two great software lovers.](https://www.reddit.com/r/programming/comments/kxbrj3/best_advice_for_programmers_by_two_great_software/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Tom Holland suits up as a tortured soldier in gritty 'Cherry' trailer](https://mondrian.mashable.com/2021%252F01%252F14%252F30%252F1e3e7e11660748df9b1c1d24633f8999.34b8c.png%252F1200x630.png?signature=Yk4k21VRsmtSh68id3TKgGtECqU= "Tom Holland suits up as a tortured soldier in gritty 'Cherry' trailer")
+
+
+[Tom Holland suits up as a tortured soldier in gritty 'Cherry' trailer](https://mashable.com/video/tom-holland-cherry-trailer/)
+
+
+> In the opening moments of the Cherry trailer, Tom Holland dons a mask — not the superhero face we've grown to find comfort in, but the face covering of a young man about to rob a bank. The film reunites him with Marvel directors Joe and Anthony Russo, this time adapting a novel by Nico Walker. Cherry chronicles the postwar life of an Iraq vet who grapples with PTSD and addiction and becomes a bank robber in desperate times. Flashbacks reveal his time serving in battle and meeting the love of his life (Ciara Bravo) before everything fell apart.
+
+
+***
+![How to watch the Marvel movies in order](https://cdn.mos.cms.futurecdn.net/TkGBPEiAxyXDphCpELDsQ7-1200-80.jpg "How to watch the Marvel movies in order")
+
+
+[How to watch the Marvel movies in order](https://www.techradar.com/how-to/how-to-watch-the-marvel-movies-in-order)
+
+
+> If you want to enjoy a Marvel Cinematic Universe (MCU) marathon in 2021, you'll need to understand how to watch the Marvel movies in order. On this page, we'll tell you how to watch the Marvel movies in both chronological and release orders, helping you make sense of the MCU timeline. If you're just starting WandaVision on Disney Plus, we'll also tell you where that fits into the story.Disney Plus happens to be a good starting point if you want to watch the Marvel movies in order, simply because it has most of them streaming in 4K.
+
+
