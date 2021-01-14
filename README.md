@@ -4694,3 +4694,50 @@
 > Samsung is set to launch the Galaxy S21 later today. The phone will come with a sheet of plastic on the back. India Today Tech | January 14, 2021 | Updated 16:36 IST
 
 
+***
+![IMM Partners with FIPCO to Improve Financial Institutions' Efficiency and Profitability](https://mms.businesswire.com/media/20210114005123/en/852219/23/2021_New_IMM_Logo.jpg "IMM Partners with FIPCO to Improve Financial Institutions' Efficiency and Profitability")
+
+
+[IMM Partners with FIPCO to Improve Financial Institutions' Efficiency and Profitability](http://www.businesswire.com/news/home/20210114005123/en/IMM-Partners-with-FIPCO-to-Improve-Financial-Institutions’-Efficiency-and-Profitability/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> RAHWAY, N.J.--(BUSINESS WIRE)--IMM, the only eSignature provider that specializes in eSignature and digital transaction solutions exclusively for financial institutions, and FIPCO, a company that helps financial institutions operate more efficiently and profitably, have partnered for an embedded eSign integration that will streamline deposit account opening and loan processes while allowing customers to centrally manage workflows wherever they are. Through this partnership, FIPCO will integrate IMM's eSign technology with its Compliance Concierge software, which is used for opening accounts and generating loan and mortgage documents.
+
+
+***
+![USA Technologies Granted New US Patent](https://mms.businesswire.com/media/20210114005223/en/791524/23/CombineHighResLogo%5BblackLine%5D_%281%29_%281%29_%281%29.jpg "USA Technologies Granted New US Patent")
+
+
+[USA Technologies Granted New US Patent](https://www.businesswire.com/news/home/20210114005223/en/USA-Technologies-Granted-New-US-Patent)
+
+
+> January 14, 2021 08:15 AM Eastern Standard Time MALVERN, Pa.--(BUSINESS WIRE)--USA Technologies, Inc. (NASDAQ: USAT) ("USAT"), a cashless payments and software services company that provides end-to-end technology solutions for the self-service retail market, today announced the company has been awarded patent number US10,861,276B1 by the United States Patent and Trademark Office (USPTO). The patent, titled 'Method and System of Personal Vending,' adds to USAT's deep intellectual property portfolio, and is focused on addressing the needs of consumers.
+
+
+***
+[The AUD is the strongest and the CHF is the weakest as NA traders enter for the day](https://www.forexlive.com/technical-analysis/!/the-aud-is-the-strongest-and-the-chf-is-the-weakest-as-na-traders-enter-for-the-day-20210114)
+
+
+> The USD is in the middle with mixed results As North American traders enter for the day, the AUD is a strongest, while the CHF is the weakest.   The USD sits near the middle, with a slight negative bias but also mixed vs. the major currencies.   The biggest declines for the USD is vs the commodity currencies led by the AUD and
+
+
+***
+![Zscaler said to be seeing accelerating deal flow (NASDAQ:ZS)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Zscaler said to be seeing accelerating deal flow (NASDAQ:ZS)")
+
+
+[Zscaler said to be seeing accelerating deal flow (NASDAQ:ZS)](https://seekingalpha.com/news/3651411-zscaler-said-to-be-seeing-accelerating-deal-flow)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Zscaler, Inc. (ZS) CEO Jay Chaudhry Presents at Needham Virtual Growth Conference (Transcript)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Zscaler, Inc. (ZS) CEO Jay Chaudhry Presents at Needham Virtual Growth Conference (Transcript)")
+
+
+[Zscaler, Inc. (ZS) CEO Jay Chaudhry Presents at Needham Virtual Growth Conference (Transcript)](https://seekingalpha.com/article/4398818-zscaler-inc-zs-ceo-jay-chaudhry-presents-needham-virtual-growth-conference-transcript)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
