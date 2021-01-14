@@ -5126,3 +5126,53 @@
 > January 14, 2021 03:58 PM Eastern Standard Time WHITE PLAINS, N.Y.--(BUSINESS WIRE)--FRMO Corp. (the 'Company' or 'FRMO') (OTC Pink: FRMO) today reported its financial results for the 2021 second quarter, ended November 30, 2020 (May fiscal year). Financial Highlights FRMO's book value as of November 30, 2020 was $180.1 million ($4.09 per share on a fully diluted basis), including $51.6 million of non-controlling interests. This compares with book value at the prior fiscal year ended May 31, 2020 of $161.
 
 
+***
+![iSpot expands its ad measurement platform by acquiring Ace Metrix – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/Banner-Format.jpg?w=764 "iSpot expands its ad measurement platform by acquiring Ace Metrix – TechCrunch")
+
+
+[iSpot expands its ad measurement platform by acquiring Ace Metrix – TechCrunch](https://techcrunch.com/2021/01/14/ispot-acquires-ace-metrix/)
+
+
+> iSpot.tv announced today that it has acquired  Ace Metrix , a deal that brings two TV and video ad measurement companies together. iSpot founder and CEO Sean Muller said that the companies have complementary solutions. After all, he said, 'In simple terms, there are only two reasons why brands buy advertising — one is to deliver business results and the other is to build brand recognition, likability and impact.' The existing iSpot platform excels in the first area, Muller said, measuring the reach and conversation rates of ads that run on both TV and streaming.
+
+
+***
+![Totallee Drops The Thinnest Cases For Galaxy S21 Series In Two Colors](https://www.androidheadlines.com/wp-content/uploads/2021/01/totallee-Galaxy-S21-Ultra-case-presser-title-rescale.jpg "Totallee Drops The Thinnest Cases For Galaxy S21 Series In Two Colors")
+
+
+[Totallee Drops The Thinnest Cases For Galaxy S21 Series In Two Colors](https://www.androidheadlines.com/2021/01/totallee-drops-the-thinnest-cases-for-galaxy-s21-series-in-two-colors.html)
+
+
+> For those planning to pick up one of Samsung's new Galaxy S21 series handsets, now might be the time to start looking for a case. And long-time case maker totallee has cases for all three of the new Galaxy S21 flagships. So buyers can protect their investment, regardless of whether they've gone with the $799 Samsung Galaxy S21, $999 Galaxy S21+, or the $1299 Galaxy S21 Ultra.What's special about these Galaxy S21 series cases from totallee?Billed as the thinnest protective case around, the Galaxy S21 case, Galaxy S21+ case, and Galaxy S21 Ultra case are listed as measuring just 0.
+
+
+***
+![Presidents' Day sales 2021: the best early deals on mattresses, TVs, laptops, and more](https://cdn.mos.cms.futurecdn.net/ujRHws5Br7YJ6HhQGu8b24-1200-80.jpg "Presidents' Day sales 2021: the best early deals on mattresses, TVs, laptops, and more")
+
+
+[Presidents' Day sales 2021: the best early deals on mattresses, TVs, laptops, and more](https://www.techradar.com/news/presidents-day-sales-2020-final-deals)
+
+
+> Presidents' Day sales will be here before you know it, and to help you find all the best offers, we've put together a guide on everything you need to know about the holiday weekend event.  We've also listed the best early Presidents' Day sales that are currently available below. The 2021 Presidents' Day date falls on February 17 this year, which means we should start to see online sales popping up from retailers like Home Depot, Best Buy, and Walmart. Presidents' Day sales are a perfect opportunity to score deals on everything from furniture, mattresses, and appliances to TVs, laptops, and more.
+
+
+***
+![Progress Software: Fiscal 4Q Earnings Snapshot](https://apnews.com/images/ShareLogo2.png "Progress Software: Fiscal 4Q Earnings Snapshot")
+
+
+[Progress Software: Fiscal 4Q Earnings Snapshot](https://apnews.com/article/technology-earnings-massachusetts-29c54d40797fccf539d9d8d815cc9133)
+
+
+> BEDFORD, Mass. (AP) _ Progress Software Corp. (PRGS) on Thursday reported fiscal fourth-quarter net income of $17.7 million, after reporting a loss in the same period a year earlier. The Bedford, Massachusetts-based company said it had profit of 39 cents per share. Earnings, adjusted for one-time gains and costs, came to 91 cents per share. The business software maker posted revenue of $122.4 million in the period. Its adjusted revenue was $129.1 million. For the year, the company reported profit of $79.
+
+
+***
+![Is it worth going Pro or Plus with Samsung's Galaxy Buds?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/samsung_galaxy_buds_pro_and_buds_plus.jpg "Is it worth going Pro or Plus with Samsung's Galaxy Buds?")
+
+
+[Is it worth going Pro or Plus with Samsung's Galaxy Buds?](https://www.androidcentral.com/samsung-galaxy-buds-pro-vs-samsung-galaxy-buds-which-should-you-buy)
+
+
+> Samsung crammed in as much of the tech that was previously missing as possible. Not only is there dynamic active noise cancelation at work, but it also works in reverse with a lively ambient mode. That's all on top of a bolder sound and better water and sweat resistance for workouts. $200 at Samsung Bolder sound Solid ANC performance Dynamic ambient mode 360 audio ability Significant water resistance Smaller charging case Fit requires more fidgeting Proprietary ear tips Lower battery life Samsung righted some important wrongs when they made these earbuds as successors to the originals, and the benefits are a major leap in battery life, plus improved audio fidelity.
+
+
