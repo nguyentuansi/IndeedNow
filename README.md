@@ -5949,3 +5949,50 @@
 > (Image credit: Shutterstock) A zero-day exploit has been discovered that can crash your Windows 10 device – and, even more worrying, can be delivered inside a seemingly harmless shortcut file. The vulnerability can corrupt any NTFS-formatted hard drive and even be exploited by standard and low privilege user accounts.Security researcher Jonas Lykkegaard referenced the vulnerability on Twitter last week and had previously drawn attention to the issue on two previous occasions last year. Despite this, the NTFS vulnerability remains unpatched.
 
 
+***
+![Folding iPhone prototype has a big new upgrade, says Prosser](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/02/iphone-xs-unfolded-imessage.jpg "Folding iPhone prototype has a big new upgrade, says Prosser")
+
+
+[Folding iPhone prototype has a big new upgrade, says Prosser](https://www.imore.com/folding-iphone-apple-testing-chemically-strengthened-folding-glass)
+
+
+> Source: Rene Ritchie/iMore A new report says that Apple is testing chemically 'strengthened Ceramic Shield folding glass' in one of its folding iPhone prototypes. Rumors abound that Apple is planning to release a folding iPhone... well... someday. In December Digitimes said it would be released in 2022, the only noted detail would be that the iPhone would use a flexible OLED display. Serial Apple leaker Jon Prosser has previously stated that Apple's 'foldable' iPhone isn't really foldable, but is rather two separate display panels joined with a hinge similar to the Microsoft Surface Duo.
+
+
+***
+![Review: Sonix Magnetic Link is a compelling MagSafe Charger alternative](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/sonix-magnetic-link-wireless-charger-hero.jpeg "Review: Sonix Magnetic Link is a compelling MagSafe Charger alternative")
+
+
+[Review: Sonix Magnetic Link is a compelling MagSafe Charger alternative](https://www.imore.com/sonix-magnetic-link-review)
+
+
+> Source: Karen S. Freeman / iMore Apple brought back the satisfying MagSafe click with the iPhone 12. This inspired a host of third-party options like the Sonix Magnetic Link and numerous third-party MagSafe accessories. When the iPhone 12 and 12 Pro were announced, Apple's new wireless MagSafe Charger and a number of MagSafe accessories were announced along with it. Magnets inside the MagSafe Charger align perfectly with the iPhone 12 and 12 Pro to make charging a snap. I own both Apple's MagSafe Charger and the Sonix Magnetic Link, so I'll focus on how the Sonix Magnetic Link compares to the Apple MagSafe Charger.
+
+
+***
+[Tech Exodus: California Tech Companies Leaving For Texas](https://sacramento.cbslocal.com/2021/01/13/tech-exodus-california-to-texas/)
+
+
+> A growing number of tech companies are packing their bags and moving out of the Golden State. Leading names in the industry are now adding their names to the list.
+
+
+***
+![Microsoft Teams will now recap your meetings for you](https://cdn.mos.cms.futurecdn.net/LowE5V3dgYcMxtosuYBWkS-1200-80.jpg "Microsoft Teams will now recap your meetings for you")
+
+
+[Microsoft Teams will now recap your meetings for you](https://www.techradar.com/news/microsoft-teams-will-now-recap-your-meetings-for-you)
+
+
+> (Image credit: Shutterstock / dennizn) Microsoft Teams has a new feature that will allow users to access important information from a meeting following its conclusion. The recap feature will begin its rollout by the end of January and is expected to be with all Teams users by mid-February.The new addition will allow Teams users to access meeting recordings, chat messages, notes and transcripts from the meeting tab. The feature is expected to prove extremely useful for individuals that may have been unable to attend a meeting, as well as those that were present but want to access the relevant information at a later time.
+
+
+***
+![December 2020 NPD has Cold War keep its lead with Cyberpunk 2077 following](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/call-of-duty-black-ops-cold-war-screenshot-3.jpg "December 2020 NPD has Cold War keep its lead with Cyberpunk 2077 following")
+
+
+[December 2020 NPD has Cold War keep its lead with Cyberpunk 2077 following](https://www.androidcentral.com/december-2020-npd)
+
+
+> Source: Activision December 2020 NPD results are in. Call of Duty: Black Ops Cold War was the best-selling game of December 2020, followed by Cyberpunk 2077. The Nintendo Switch was the best-selling console of December 2020 and the year overall. Every month, NPD Group releases information on the best-selling games, game consoles and accessories across all video game platforms in the United States. While it doesn't account for total worldwide sales, it does provide a nice look at one of the largest video game markets.
+
+
