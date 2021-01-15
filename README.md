@@ -5511,3 +5511,53 @@
 > The Monitor is a weekly column devoted to everything happening in the WIRED world of culture, from movies to memes, TV to Twitter.Earlier this week, it seemed inevitable that this column would have something to do with the second impeachment of President Trump. In a week when Republicans were likening the impeachment of the president to a 'canceling' and saying that Twitter booting Trump was akin to censorship, it was tempting to weigh in. (If free speech is being stifled, how is it possible that it's all I hear about on every major media outlet in the world? How?) But I digressed.
 
 
+***
+![PyCharm users: Why do you prefer it over VSCode or other editors](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "PyCharm users: Why do you prefer it over VSCode or other editors")
+
+
+[PyCharm users: Why do you prefer it over VSCode or other editors](https://www.reddit.com/r/Python/comments/kxoflx/pycharm_users_why_do_you_prefer_it_over_vscode_or/)
+
+
+> After some very spirited arguments from VSCode users, I'd like to turn it around and ask PyCharm users the same thing: why do you use PyCharm and not VSCode or another modern text editor? Is it deeper integration with language/framework features? Is it the plugin ecosystem? Or the shortcuts? Disclaimer: I'm a PyCharm Pro user myself. ;-) But I must say, when I do anything outside of Python/Django, I use VSCode 95% of the time. Not that it's that much, but still.
+
+
+***
+![From buying a pizza to a luxury villa, Ben 'BitBoy Crypto' Armstrong explains why cryptocurrency is the future](https://storage.googleapis.com/gcs.thesouthafrican.com/2021/01/d795d8b1-the-south-african-bitboy.jpg "From buying a pizza to a luxury villa, Ben 'BitBoy Crypto' Armstrong explains why cryptocurrency is the future")
+
+
+[From buying a pizza to a luxury villa, Ben 'BitBoy Crypto' Armstrong explains why cryptocurrency is the future](https://www.thesouthafrican.com/technology/cryptocurrencies/from-buying-a-pizza-to-a-luxury-villa-ben-bitboy-crypto-armstrong-explains-why-cryptocurrency-is-the-future/)
+
+
+> (Partner Content) Bitcoin came into the picture in 2009. Back then, no one had imagined it would become such a crucial player in the financial market. Laszlo Hanyecz once paid 10,000 BTC when Bitcoin was just $0.01 to buy two boxes of pizza.
+
+
+***
+![CES 2021 Taiwanese Startup FiduciaEdge Technologies Develops Edge Security Solution for a Secure Edge Computing Environment](http://www.businesswire.com/images/bwlogo_square.png "CES 2021 Taiwanese Startup FiduciaEdge Technologies Develops Edge Security Solution for a Secure Edge Computing Environment")
+
+
+[CES 2021 Taiwanese Startup FiduciaEdge Technologies Develops Edge Security Solution for a Secure Edge Computing Environment](https://www.businesswire.com/news/home/20210114006091/en/CES-2021-Taiwanese-Startup-FiduciaEdge-Technologies-Develops-Edge-Security-Solution-for-a-Secure-Edge-Computing-Environment)
+
+
+> January 15, 2021 12:52 AM Eastern Standard Time TAIPEI, Taiwan--(BUSINESS WIRE)--deEdge computing is transforming the way data is handled, processed, and delivered from millions of devices around the world. FiduciaEdge's software/firmware platform makes edge intelligence trustworthy, while protecting data privacy at the source. With FiduciaEdge's solutions, the vulnerable edge computing landscape can be transformed into a trusted/confidential environment with ease. This safehouse computational environment not only prevents malicious hackings but also assists in the safeguarding of datasets and AI algorithms from access by unauthorized users.
+
+
+***
+![Samsung new flagship Galaxy S smartphone targets remote workers and gamers in pandemic era](https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/d0821b59-f423-5281-8636-b664384d551e&operation=CROP&offset=0x158&resize=3000x1688 "Samsung new flagship Galaxy S smartphone targets remote workers and gamers in pandemic era")
+
+
+[Samsung new flagship Galaxy S smartphone targets remote workers and gamers in pandemic era](https://www.iol.co.za/technology/mobile/samsung-new-flagship-galaxy-s-smartphone-targets-remote-workers-and-gamers-in-pandemic-era-3014d07b-b2f4-464e-98f4-39a932ee34bf)
+
+
+> By Joyce LeeSeoul - Samsung Electronics Co Ltd on Thursday unveiled the first Galaxy S smartphone with a stylus for on-screen work called the S Pen, more than a month ahead of its usual annual release schedule for models of its flagship compact phone.Analysts have said offering a stylus within the Galaxy S21 series might signal the South Korean tech giant will merge the S line with its other premium smartphone range, the Note, already equipped with a note-taking stylus. That could free up resources for Samsung to push its separate range high-end foldable phones as key mass products rather than niche devices.
+
+
+***
+![Samsung Galaxy S21 Ultra, Galaxy S21+, Galaxy S21 launched in India: specs, features, price and everything to know](https://images.financialexpress.com/2021/01/s21-series-main.jpg "Samsung Galaxy S21 Ultra, Galaxy S21+, Galaxy S21 launched in India: specs, features, price and everything to know")
+
+
+[Samsung Galaxy S21 Ultra, Galaxy S21+, Galaxy S21 launched in India: specs, features, price and everything to know](https://www.financialexpress.com/industry/technology/samsung-galaxy-s21-ultra-galaxy-s21-and-galaxy-s21-official-specs-features-price-and-everything-to-know/2171162/)
+
+
+> Samsung Galaxy S21 series Samsung launched the Galaxy S21 series for global markets—including India—at its virtual Galaxy Unpacked 2021 event on Thursday, January 14. As expected, there are three models to boot: Galaxy S21 Ultra (replacing the Galaxy S20 Ultra), Galaxy S21+ (replacing the Galaxy S20+), and ‘vanilla' Galaxy S21 (replacing the Galaxy S20). Almost everything about these phones has been circulating in the public domain for a while now. Specs, features, ‘value' additions—and the lack thereof—all of it has been leaked to death.
+
+
