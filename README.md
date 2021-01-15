@@ -5996,3 +5996,53 @@
 > Source: Activision December 2020 NPD results are in. Call of Duty: Black Ops Cold War was the best-selling game of December 2020, followed by Cyberpunk 2077. The Nintendo Switch was the best-selling console of December 2020 and the year overall. Every month, NPD Group releases information on the best-selling games, game consoles and accessories across all video game platforms in the United States. While it doesn't account for total worldwide sales, it does provide a nice look at one of the largest video game markets.
 
 
+***
+![These quality work-from-home earbuds won't break the bank](https://www.gannett-cdn.com/presto/2021/01/14/USAT/a25fb6a9-c673-496d-8db4-41533695a241-04_galaxybudspro_combo_KV_2P.jpg?crop=8267,4650,x0,y587&width=3200&height=1680&fit=bounds "These quality work-from-home earbuds won't break the bank")
+
+
+[These quality work-from-home earbuds won't break the bank](https://www.usatoday.com/story/tech/columnist/2021/01/15/best-earbuds-work-from-home-new-headphones-ces-2021/4158708001/)
+
+
+> CLOSE It's not really a CES without robots, even if this year's tech show is being held virtually. Here's how they will try to make your lives better. USA TODAY If your dog barks at a delivery person while you're presenting on Zoom, did she make a sound? No philosophical calisthenics required here. Because of course she did. Everyone on the video conference heard her. Everyone. In this pandemic era, we've all come to accept that, despite our best efforts to keep them separated, our co-habitants invariably will cough, clink and cry their way into our on-screen workplace.
+
+
+***
+![Reviewed's CES Editors' Choice Awards: The most promising tech to watch for in 2021](https://www.gannett-cdn.com/presto/2021/01/13/USAT/8b8b4162-3faf-4727-a938-22b3e2f49687-CES-2021-Editors-Choice-hero-2.jpg?crop=960,540,x6,y0&width=1600&height=800&fit=bounds "Reviewed's CES Editors' Choice Awards: The most promising tech to watch for in 2021")
+
+
+[Reviewed's CES Editors' Choice Awards: The most promising tech to watch for in 2021](https://www.reviewed.com/features/ces-2021-editors-choice-award-winners)
+
+
+> Reviewed's CES Editors' Choice Awards: The most promising tech to watch for in 2021   (Photo: Image Credit: Chamberlain / Razer) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. When living in a time like no other, why shouldn't CES follow suit? This year the planet's biggest tech show—normally sprawled across the many convention halls and ballrooms of Las Vegas—was entirely virtual. While it was much-reduced in terms of scale, some might even say that the lack of glitz, glad-handing, and white noise allowed one to focus on the heart of the matter: taking the wrappers off of some shiny new gear.
+
+
+***
+![Tesla Looks To Sell Model S, X Inventory By End Of January, Hinting At Refresh](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/ogi-model-x_1.jpg "Tesla Looks To Sell Model S, X Inventory By End Of January, Hinting At Refresh")
+
+
+[Tesla Looks To Sell Model S, X Inventory By End Of January, Hinting At Refresh](https://www.benzinga.com/tech/21/01/19181413/tesla-looks-to-sell-model-s-x-inventory-by-end-of-january-hinting-at-refresh)
+
+
+> The  Tesla Inc (NASDAQ: TSLA ) Model S and X vehicles have remained largely unchanged since initial release. The vehicles have received updates to batteries, suspension and other small areas, but the interior and exterior look and features are very similar to the Model S first released in 2012. Now Electrek is reporting that Tesla is directing its employees to get rid of all Model S and X inventory by the end of the month. While it's normal for a business to want to sell its product, having a push like this before the end of the quarter is quite unusual.
+
+
+***
+![Fortnite-maker Epic Games sues Apple and Google in UK](https://ichef.bbci.co.uk/news/1024/branded_news/BC41/production/_116539184_fortnite-image.jpg "Fortnite-maker Epic Games sues Apple and Google in UK")
+
+
+[Fortnite-maker Epic Games sues Apple and Google in UK](https://www.bbc.com/news/technology-55678496)
+
+
+> image copyright EPic Games Epic Games, the studio behind the hit game Fortnite, has started legal action against Apple and Google in the UK. Both Apple and Google removed Fortnite from their smartphone app stores in a row over the cut of sales they take from developers. Epic Games claims the two tech giants' rules are in violation of UK competition laws. But both companies say Epic Games broke their terms and conditions by trying to bypass their payment systems. Apple said Epic Games' action had been "reckless".
+
+
+***
+![Video game spending hits record $56.9 billion in 2020](https://www.gannett-cdn.com/presto/2020/11/12/USAT/726f2334-a4ec-4fd7-bc66-6c63a00c18db-PS5xbox.jpg?crop=2999,1687,x0,y172&width=1600&height=800&fit=bounds "Video game spending hits record $56.9 billion in 2020")
+
+
+[Video game spending hits record $56.9 billion in 2020](https://www.usatoday.com/story/tech/gaming/2021/01/15/video-game-spending-2020-reaches-record/4172689001/)
+
+
+> Game system competitors Sony PlayStation 5 on the left, Microsoft's Xbox Series X on right. (Composite image made from Sony and Microsoft handouts)   (Photo: Handout) With many Americans stuck at home last year due to the pandemic, spending on video games hit a new record. Total video game spending in 2020 hit $56.9 billion, up 27% higher than the previous year, says research firm NPD Group. Consumer spending last December, an important month for the industry with holiday shopping in full swing, reached a record $7.
+
+
