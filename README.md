@@ -5561,3 +5561,50 @@
 > Samsung Galaxy S21 series Samsung launched the Galaxy S21 series for global markets—including India—at its virtual Galaxy Unpacked 2021 event on Thursday, January 14. As expected, there are three models to boot: Galaxy S21 Ultra (replacing the Galaxy S20 Ultra), Galaxy S21+ (replacing the Galaxy S20+), and ‘vanilla' Galaxy S21 (replacing the Galaxy S20). Almost everything about these phones has been circulating in the public domain for a while now. Specs, features, ‘value' additions—and the lack thereof—all of it has been leaked to death.
 
 
+***
+![Jack Dorsey Defends Twitter's Decision To Ban Donald Trump](https://sm.mashable.com/t/mashable_in/news/j/jack-dorse/jack-dorsey-defends-twitters-decision-to-ban-trump_xkqh.1200.jpg "Jack Dorsey Defends Twitter's Decision To Ban Donald Trump")
+
+
+[Jack Dorsey Defends Twitter's Decision To Ban Donald Trump](https://in.mashable.com/tech/19574/jack-dorsey-defends-twitters-decision-to-ban-donald-trump)
+
+
+> Twitter had a hell of a last week, banning a sitting U.S. President from posting on the platform after said President incited a mob of supporters which ran riot over the Capitol, with the incident ending in five deaths and various people being investigated by the FBI for domestic terrorism . On Wednesday, Twitter CEO Jack Dorsey explained and defended the move in a lengthy series of tweets, arguing that the action taken was necessary, but also adding that it sets a dangerous precedent.  "I do not celebrate or feel pride in our having to ban @realDonaldTrump from Twitter, or how we got here.
+
+
+***
+![Nokia, Ericsson stock rise after T-Mobile deals for 5G expansion (NASDAQ:TMUS)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Nokia, Ericsson stock rise after T-Mobile deals for 5G expansion (NASDAQ:TMUS)")
+
+
+[Nokia, Ericsson stock rise after T-Mobile deals for 5G expansion (NASDAQ:TMUS)](https://seekingalpha.com/news/3651345-nokia-ericsson-stock-rise-after-t-mobile-deals-for-5g-expansion)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Intel Corporation (INTC) Earnings Report](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Intel Corporation (INTC) Earnings Report")
+
+
+[Intel Corporation (INTC) Earnings Report](https://seekingalpha.com/symbol/INTC/earnings)
+
+
+> No body in the article.
+
+
+***
+[Samsung Launches Galaxy S21, Flagship phones, Check Features](https://www.thequint.com/tech-and-auto/samsung-galaxy-launches-s21-and-s21-plus)
+
+
+> The Galaxy S21 comes with a 6.2-inch display, whereas the Galaxy S21+ comes with a 6.7-inch display.
+
+
+***
+![Xiaomi cops a ban in the US for alleged connections with the Chinese military](https://cdn.mos.cms.futurecdn.net/JpkW6mjGpGzzJecbMJWAKP-1200-80.jpg "Xiaomi cops a ban in the US for alleged connections with the Chinese military")
+
+
+[Xiaomi cops a ban in the US for alleged connections with the Chinese military](https://www.techradar.com/news/xiaomi-cops-a-ban-in-the-us-for-alleged-connections-with-the-chinese-military)
+
+
+> (Image credit: Srivatsa Ramesh) The Trump administration has been severe on Chinese tech companies. While Huawei has borne the maximum brunt of the outgoing US president, it has now trained the guns on another major Chinese smartphone maker Xiaomi which along with 8 other Chinese companies have been blacklisted.These companies include state-owned plane manufacturer Commercial Aircraft Corp. of China (Comac), China National Offshore Oil Corp. (CNOOC), Skyrizon apart from the third-largest smartphone maker Xiaomi and others are facing the ire of the Trump administration for alleged links with the Chinese military, Reuters reported.
+
+
