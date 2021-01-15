@@ -5417,3 +5417,53 @@
 > Need? No. Does it help? Sure.And let's talk a little bit about why and how. The first, and most obvious, is credentialism: people will respect your background more if you have a degree. It's bullshit, it's unfair, and it's increasingly inaccurate as collegiate programs focus more and more on being job-training programs (bad job-training programs).Second, however, is just that mastering a skill is hard. No matter how much an auto-didact you are, there are a lot more ways to program wrong than there are to programming "correctly", and navigating that thicket of failure is a lot easier if you have good instructors and a firm theoretical footing.
 
 
+***
+![Being workaholic may increase depression, anxiety risk](https://english.mathrubhumi.com/polopoly_fs/1.5357476.1610613327!/httpImage/image.jpg_gen/derivatives/landscape_1080_600/image.jpg "Being workaholic may increase depression, anxiety risk")
+
+
+[Being workaholic may increase depression, anxiety risk](https://english.mathrubhumi.com/technology/science/being-workaholic-may-increase-depression-anxiety-risk-1.5357477)
+
+
+> Moscow:If you are a workaholic, then there are chances you may suffer negative mental and physical health outcomes such as depression, anxiety or sleep disorder, a new study suggests. The study, published in the International Journal of Environmental Research and Public Health, indicates that people with higher work addiction risk compared to people with low work addiction risk have twice the risk of developing depression. Sleep quality was lower to workers with high risk of work addiction compared to workers with low risk of work addiction.
+
+
+***
+![Google Closes $2.1-Billion Fitbit Deal as US, Australia Probes Continue](https://i.gadgets360cdn.com/large/google_fitbit_deal_eu_regulation_1593753292208.jpg "Google Closes $2.1-Billion Fitbit Deal as US, Australia Probes Continue")
+
+
+[Google Closes $2.1-Billion Fitbit Deal as US, Australia Probes Continue](https://gadgets.ndtv.com/wearables/news/google-fitbit-deal-usd-2-1-billion-antitrust-us-department-of-justice-australia-probe-investigation-eu-2352772)
+
+
+> Search and advertising giant Google closed its deal to buy fitness tracking company Fitbit, the companies said on Thursday, even as US and Australian competition regulators said they were continuing probes of the $2.1 billion (roughly Rs. 15,350 crores) transaction.The Justice Department, which sued Alphabet's Google in October for allegedly violating antitrust law in its search and search advertising businesses, said it "has not reached a final decision about whether to pursue an enforcement action" regarding the Fitbit deal.
+
+
+***
+![Apple removes Wimkin from App Store as part of crackdown by tech companies on dangerous content during transition: WSJ](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/GettyImages-599928722.jpg?ve=1&tl=1 "Apple removes Wimkin from App Store as part of crackdown by tech companies on dangerous content during transition: WSJ")
+
+
+[Apple removes Wimkin from App Store as part of crackdown by tech companies on dangerous content during transition: WSJ](https://www.foxbusiness.com/technology/apple-removes-wimkin-from-app-store-as-part-of-crackdown-by-tech-companies-on-dangerous-content-during-transition-wsj)
+
+
+> Apple Inc.  has removed the social media platform Wimkin from its App Store, part of a widening crackdown by tech companies on potentially dangerous content during the presidential transition. Ticker Security Last Change Change % AAPL APPLE INC. 128.91 -1.98 -1.51% The tech giant on Tuesday suspended Wimkin, a small site that markets itself as a free-speech haven, over content that included calls for a civil war and the arrest of Vice President Mike Pence, according to Wimkin founder Jason Sheppard and records of his correspondence with Apple.
+
+
+***
+![Amazon slapped with class-action lawsuit accusing e-commerce giant of inflation e-book prices](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/AP20349512815195.jpg?ve=1&tl=1 "Amazon slapped with class-action lawsuit accusing e-commerce giant of inflation e-book prices")
+
+
+[Amazon slapped with class-action lawsuit accusing e-commerce giant of inflation e-book prices](https://www.foxbusiness.com/technology/amazon-slapped-with-class-action-lawsuit-accusing-e-commerce-giant-of-inflation-e-book-prices)
+
+
+> Amazon .com Inc was slapped with a class-action lawsuit on Thursday accusing the e-commerce giant of inflating the prices of ebooks in collusion with some publishers. Ticker Security Last Change Change % AMZN AMAZON.COM INC. 3,127.47 -38.42 -1.21% The lawsuit alleges that Amazon and the five largest U.S. publishers, collectively called the 'Big Five', agreed to price restraints that cause consumers to overpay for eBooks purchased from them through a retail platform other than Amazon.com. CONNECTICUT INVESTIGATING AMAZON'S E-BOOK BUSINESS The lawsuit comes a day after Connecticut said it was investigating Amazon for potential anti-competitive behavior in its business selling digital books.
+
+
+***
+![Google completes acquisition of Fitbit year after deal was announced](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202101/Screenshot_2021-01-15_at_9.26.-647x363.png?I_fgMBxRNdJU1WvElfTnmHMT_vWB0HHw "Google completes acquisition of Fitbit year after deal was announced")
+
+
+[Google completes acquisition of Fitbit year after deal was announced](https://www.indiatoday.in/technology/news/story/google-completes-acquisition-of-fitbit-year-after-deal-was-announced-1759258-2021-01-15)
+
+
+> Google has successfully completed the acquisition of smart wearable company Fitbit. he search gaint purchased Fitbit for 2.1 billion dollars a year after the deal was first announced. Google in its blog stated that the deal with Fitbit is about devices and not data. Google has successfully completed the acquisition of smart wearable company Fitbit. The search gaint purchased Fitbit for 2.1 billion dollars a year after the deal was first announced. 'Today, I'm excited to announce that Google has completed its acquisition of Fitbit and I want to personally welcome this talented team to Google,' Google's Rick Osterloh said in a blog.
+
+
