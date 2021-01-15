@@ -6324,3 +6324,44 @@
 > Facebook Inc's WhatsApp is delaying the roll out of new business features following user backlash over the company's data sharing practices. The delay is a setback for WhatsApp's plan to generate revenue by facilitating commercial exchanges on the messaging app, which Facebook acquired for $19 billion in 2014 but has been slow to monetize. WhatsApp said on Friday users will no longer have to review and accept its updated terms by Feb. 8, nor will they have their accounts suspended or deleted by that date.
 
 
+***
+[Rob Joyce will replace Anne Neuberger as the director of NSA's Cybersecurity Directorate; Neuberger will join the Biden admin as deputy adviser on the NSC (Shannon Vavra/CyberScoop)](http://www.techmeme.com/210115/p25#a210115p25)
+
+
+> Shannon Vavra / CyberScoop: Rob Joyce will replace Anne Neuberger as the director of NSA's Cybersecurity Directorate; Neuberger will join the Biden admin as deputy adviser on the NSC — Rob Joyce, the National Security Agency's special U.S. liaison officer at the U.S. Embassy in London, will replace Anne Neuberger …
+
+
+***
+![Twitter's vision of decentralization could also be the far-right's internet endgame – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/10/fake-twitter-accounts1.png?w=753 "Twitter's vision of decentralization could also be the far-right's internet endgame – TechCrunch")
+
+
+[Twitter's vision of decentralization could also be the far-right's internet endgame – TechCrunch](https://techcrunch.com/2021/01/15/twitters-vision-of-decentralization-could-also-be-the-far-rights-internet-endgame/)
+
+
+> This week, Twitter CEO Jack Dorsey finally responded publicly to the company's decision to ban President Trump from its platform, writing that Twitter had 'faced an extraordinary and untenable circumstance' and that he did not 'feel pride' about the decision. In the same thread, he took time to call out a nascent Twitter-sponsored initiative called 'bluesky,' which is aiming to build up an 'open decentralized standard for social media' that Twitter is just one part of. Researchers involved with bluesky reveal to TechCrunch an initiative still in its earliest stages that could fundamentally shift the power dynamics of the social web.
+
+
+***
+[Leaked screenshots show GitHub employees using the term "Nazi" in its internal Slack to protest the unexplained firing of an employee that used the same word (Zoe Schiffer/The Verge)](http://www.techmeme.com/210115/p24#a210115p24)
+
+
+> Zoe Schiffer / The Verge: Leaked screenshots show GitHub employees using the term “Nazi” in its internal Slack to protest the unexplained firing of an employee that used the same word — Now in protest, they're using Slack to call Nazis what they are — GitHub employees are protesting the firing …
+
+
+***
+![ZAGG Has You & Your Galaxy S21 Covered With These Accessories](https://www.androidheadlines.com/wp-content/uploads/2021/01/samsung-galaxy-s21-AH-2.jpg "ZAGG Has You & Your Galaxy S21 Covered With These Accessories")
+
+
+[ZAGG Has You & Your Galaxy S21 Covered With These Accessories](https://www.androidheadlines.com/2021/01/zagg-samsung-galaxy-s21-cases-screen-protectors-accessories-android.html)
+
+
+> Now that the Galaxy S21 series phones have been announced, all the accessory makers are releasing their products for consumers, and this includes ZAGG Brands.ZAGG Brands has you and your Galaxy S21 covered (literally) with its new lineup of accessories designed for each device in the lineup. This includes the Galaxy S21, the Galaxy S21+, and the Galaxy S21 Ultra.There's also more than just cases on offer. As ZAGG Brands makes some pretty killer screen protectors too. All or most of the accessories are already in stock and shipping out soon after you order.
+
+
+***
+[A deep dive into the WhatsApp privacy policy change that prompted an exodus of users from the app and why Facebook struggled to communicate what was in it (Shoshana Wodinsky/Gizmodo)](http://www.techmeme.com/210115/p23#a210115p23)
+
+
+> Shoshana Wodinsky / Gizmodo: A deep dive into the WhatsApp privacy policy change that prompted an exodus of users from the app and why Facebook struggled to communicate what was in it — Even if you aren't the type of person who peruses WhatsApp on a regular basis, chances are you've tried perusing its new privacy policy.
+
+
