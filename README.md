@@ -6083,3 +6083,53 @@
 > Sometimes, when I need to reboot, I can't because Big Sur is backing up my iPhone. If I go into finder and cancel the backup, it takes a very long time to stop (minutes if not longer). But today I noticed that if I disconnect my iPhone from my Mac, it stops immediately. Is there something I can do to make canceling the backup faster? Or is it just sloppy programming on Apple's part? If it can stop on a dime when I disconnect my phone, it seems like it should be able to stop quickly when I do it in Finder.
 
 
+***
+![Apple is reportedly readying a new Podcast subscription service](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/01/iphone-11-pro-podcasts-pink-hero.jpg "Apple is reportedly readying a new Podcast subscription service")
+
+
+[Apple is reportedly readying a new Podcast subscription service](https://www.imore.com/apple-reportedly-readying-new-podcast-subscription-service)
+
+
+> Source: Christine Romero-Chan / iMore Apple is working with its partners to bring a subscription service to podcasts, according to a new report. Citing unnamed sources, Bloomberg reports that Apple is adding a subscription service to its podcasting business at some point this year as it considers funding new original programming. Apple has discussed the plan to create a subscription service with its partners, said the people, who asked not to be identified because of nondisclosure agreements. The company also has talked about stepping up funding for new shows and marketing, the people said.
+
+
+***
+![Technology's growing role in fixing the mental health crisis](https://content.fortune.com/wp-content/uploads/2021/01/GettyImages_web-1271552383.jpg?resize=1200,600 "Technology's growing role in fixing the mental health crisis")
+
+
+[Technology's growing role in fixing the mental health crisis](https://fortune.com/2021/01/15/technology-mental-health-workit-health-cisco-covid-fortune-brainstorm/)
+
+
+> No body in the article.
+
+
+***
+![Onto Innovation Schedules 2020 Fourth Quarter and Full Year Financial Results Conference Call for February 4, 2021](https://mms.businesswire.com/media/20210115005527/en/791569/23/onto-hi-res.jpg "Onto Innovation Schedules 2020 Fourth Quarter and Full Year Financial Results Conference Call for February 4, 2021")
+
+
+[Onto Innovation Schedules 2020 Fourth Quarter and Full Year Financial Results Conference Call for February 4, 2021](https://www.businesswire.com/news/home/20210115005527/en/Onto-Innovation-Schedules-2020-Fourth-Quarter-and-Full-Year-Financial-Results-Conference-Call-for-February-4-2021)
+
+
+> January 15, 2021 01:39 PM Eastern Standard Time WILMINGTON, Mass.--(BUSINESS WIRE)--Onto Innovation Inc. (NYSE: ONTO) will release its 2020 fourth quarter and full year financial results, after the market closes on Thursday, February 4, 2021. Onto Innovation will host a conference call in connection with its release of the financial results, which will be broadcast live over the internet. Michael P. Plisinski, chief executive officer, and Steven R. Roth, chief financial officer, will host the call.
+
+
+***
+![Agilent Names Allison Ballmer Senior Vice President of Strategy and Corporate Development](https://mms.businesswire.com/media/20210115005526/en/33303/21/Agilent300_200w.jpg "Agilent Names Allison Ballmer Senior Vice President of Strategy and Corporate Development")
+
+
+[Agilent Names Allison Ballmer Senior Vice President of Strategy and Corporate Development](https://www.businesswire.com/news/home/20210115005526/en/Agilent-Names-Allison-Ballmer-Senior-Vice-President-of-Strategy-and-Corporate-Development)
+
+
+> January 15, 2021 01:37 PM Eastern Standard Time SANTA CLARA, Calif.--(BUSINESS WIRE)--Agilent Technologies Inc.(NYSE: A) is pleased to announce Allison Ballmer has been named the company's new senior vice president of Strategy and Corporate Development, reporting to Agilent President and CEO Mike McMullen. Ballmer will lead the corporate development team in identifying, developing, and evaluating merger-and-acquisition plans globally, as well as program management of integrations. She also will lead enterprise strategy while collaborating with Agilent businesses groups to drive critical growth initiatives across the company.
+
+
+***
+![PS5 stock checker UK – New Playstation 5 stock drop TODAY at Game, Argos, Smyths, Currys, Amazon and Very](https://www.thesun.co.uk/wp-content/uploads/2020/12/ps5-live-281220.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock checker UK – New Playstation 5 stock drop TODAY at Game, Argos, Smyths, Currys, Amazon and Very")
+
+
+[PS5 stock checker UK – New Playstation 5 stock drop TODAY at Game, Argos, Smyths, Currys, Amazon and Very](https://www.thesun.co.uk/tech/13233222/ps5-stock-checker-uk-techinn-argos-very-game-currys-amazon-live/)
+
+
+> NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console or accessories like wireless headphones.
+
+
