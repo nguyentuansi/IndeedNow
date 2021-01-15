@@ -5802,3 +5802,50 @@
 > January 15, 2021 06:02 AM Eastern Standard Time BOGOTA, Colombia--(BUSINESS WIRE)--Latinia, a software vendor specializing in real-time event processing for financial institutions has recently announced its investment in the SaaS fintech company Ábaco, which operates in Colombia and Mexico and provides financial access to unbanked individuals. Ábaco develops a groundbreaking software for the generation of credit histories, the lack of which is a barrier preventing millions of workers from gaining access to credit.
 
 
+***
+[YouTube Blokir Channel Donald Trump](https://www.tribunnews.com/tag/youtube-blokir-channel-donald-trump)
+
+
+> No body in the article.
+
+
+***
+![Xiaomi's MIUI 12 running foldable phone leaked in live photos](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/xiaomi1-483x271_1200_210115170711.png "Xiaomi's MIUI 12 running foldable phone leaked in live photos")
+
+
+[Xiaomi's MIUI 12 running foldable phone leaked in live photos](https://www.indiatoday.in/technology/news/story/xiaomi-s-miui-12-running-foldable-phone-leaked-in-live-photos-1759446-2021-01-15)
+
+
+> Leaked pictures show Xiaomi's foldable phone using a similar in-folding screen as found on the Galaxy Z Fold 2. Sushant Talwar | January 15, 2021 | Updated 16:51 IST
+
+
+***
+![Hong Kong censorship debate grows as internet firm says it can block 'illegal acts'](https://assets2.rappler.com/2021/01/hkdnr-january-15-2021-1610708530371.jpg "Hong Kong censorship debate grows as internet firm says it can block 'illegal acts'")
+
+
+[Hong Kong censorship debate grows as internet firm says it can block 'illegal acts'](https://www.rappler.com/technology/hong-kong-censorship-debate-grows-internet-firm-block-illegal-acts)
+
+
+> The company which approves internet domains in Hong Kong said it will now reject any sites that could incite "illegal acts," raising new concerns about freedoms after Beijing's imposition of a national security law on the Chinese-ruled city last year. Holders of .hk domains were advised of the policy change late on Thursday, January 14, sources told Reuters, hours after internet service provider  Hong Kong Broadband Network (HKBN) said it had blocked access to HKChronicles, a website offering information about anti-government protests.
+
+
+***
+![ASUS reveals new series of innovative laptops at CES 2021](https://assets2.rappler.com/2021/01/ASUS-LaptopJanuary-15-2021-carousel-001-1610695115453.jpg "ASUS reveals new series of innovative laptops at CES 2021")
+
+
+[ASUS reveals new series of innovative laptops at CES 2021](https://www.rappler.com/brandrap/tech-and-innovation/asus-new-laptops-consumer-electronics-show-2021)
+
+
+> [Editor's Note: This 2021, ASUS Philippines introduces a new roster of laptops with even better performance and award-winning specifications. Below is their press release.] Today, ASUS announced the latest laptops in the premium ZenBook series featuring "The Laptop of Tomorrow" – the 15.6-inch ASUS ZenBook Pro Duo 15 OLED (UX582) and the 14-inch ASUS ZenBook Duo 14(UX482), which are both recipients of prestigious 2021 CES® Innovation Awards. These new two-screen models introduce the tilting ASUS ScreenPad™ Plus, a full-width secondary touchscreen with a new auto-tilt mechanism that improves readability, aids cooling, and works seamlessly with the main display for effortless multitasking and creativity.
+
+
+***
+![Mobile numbers of WhatsApp on Web users found on Google Search](https://imagevars.gulfnews.com/2021/01/15/STOCK-whatsapp-web-_17705e995ef_medium.jpg "Mobile numbers of WhatsApp on Web users found on Google Search")
+
+
+[Mobile numbers of WhatsApp on Web users found on Google Search](https://gulfnews.com/technology/mobile-numbers-of-whatsapp-on-web-users-found-on-google-search-1.1610712061724)
+
+
+> Image Credit: Shutterstock New Delhi, Jan 15 (IANS) As WhatsApp faces intense scrutiny over its upcoming data and privacy policy in India and elsewhere, another user data violation has been reported, this time on the WhatsApp on Desktop (Web) application, allegedly exposing personal mobile numbers via indexing on Google Search. Although WhatsApp is primarily a mobile app, currently being used by over 400 million users in India, some working professionals also use the instant chat app on their desktops and PCs via the Web version.
+
+
