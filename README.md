@@ -5752,3 +5752,53 @@
 > The United States Department of Defense has added nine Chinese companies, including smartphone maker Xiaomi, to an investment blacklist. The US Government alleges that these companies have ties to the Chinese military. The Defense Department terms such companies as "Communist Chinese military companies" operating directly or indirectly in the United States.These actions are per the statutory requirement of Section 1237 of the National Defense Authorization Act for Fiscal Year 1999. The law requires the Defense Department to compile a list of companies owned or controlled by the Chinese military.
 
 
+***
+![Global Space Power Supply Market (2020 to 2030)](https://mms.businesswire.com/media/20210115005234/en/371054/23/ResearchAndMarkets_800px.jpg "Global Space Power Supply Market (2020 to 2030)")
+
+
+[Global Space Power Supply Market (2020 to 2030)](https://www.businesswire.com/news/home/20210115005234/en/Global-Space-Power-Supply-Market-2020-to-2030---Focus-on-Platform-and-Product---ResearchAndMarkets.com)
+
+
+> January 15, 2021 06:06 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Space Power Supply Market - A Global Market Analysis: Focus on Platform and Product - Analysis and Forecast, 2020-2030" report has been added to ResearchAndMarkets.com's offering. The space power supply industry analysis projects the market to have a significant growth with a CAGR of 16.53% based on the values during the forecast period from 2020 to 2030. The North America region is expected to dominate the market with a share of 39% by 2030.
+
+
+***
+![Huge Call of Duty Cold War update arrives with NEW maps, modes and zombies games](https://www.thesun.co.uk/wp-content/uploads/2021/01/codu02.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Huge Call of Duty Cold War update arrives with NEW maps, modes and zombies games")
+
+
+[Huge Call of Duty Cold War update arrives with NEW maps, modes and zombies games](https://www.thesun.co.uk/tech/13750577/call-of-duty-update-cold-war-multiplayer-maps-modes-january-2021/)
+
+
+> A MAJOR Call of Duty update is adding loads of content – including new maps, modes and zombie games. The update is live right now, and even lets players unlock a new (and very deadly) weapon. There's a new sword for you to plunge through the hearts of your enemiesCredit: Activision It's a major mid-season update, making improvements to Call of Duty Cold War's online modes. One new weapon is the Wakizashi, which is described as a "companion sword to the samurai's katana". It's a steel sword that has better reach than a standard knife – at the expense of speed.
+
+
+***
+![MiX Telematics Announces Date of Third Quarter Fiscal 2021 Conference Call and Webcast](http://www.businesswire.com/images/bwlogo_square.png "MiX Telematics Announces Date of Third Quarter Fiscal 2021 Conference Call and Webcast")
+
+
+[MiX Telematics Announces Date of Third Quarter Fiscal 2021 Conference Call and Webcast](https://www.businesswire.com/news/home/20210115005036/en/MiX-Telematics-Announces-Date-of-Third-Quarter-Fiscal-2021-Conference-Call-and-Webcast)
+
+
+> January 15, 2021 06:05 AM Eastern Standard Time BOCA RATON, Fla.--(BUSINESS WIRE)--MiX Telematics (NYSE: MIXT and JSE: MIX), a leading global provider of connected fleet and mobile asset management solutions, today announced it will report its third quarter fiscal 2021 results for the period ended December 31, 2020 before the U.S. financial markets open on Thursday, January 28, 2021. MiX Telematics management will also host a conference call and audio webcast at 8:00 a.m. (Eastern Daylight Time) and 3:00 p.
+
+
+***
+![Two ASUS ZenBook Duos, A ProArt Display & A Gaming Laptop Are Official](https://www.androidheadlines.com/wp-content/uploads/2021/01/ASUS-ZenBook-Pro-Duo-15-OLED-product-image2.jpg "Two ASUS ZenBook Duos, A ProArt Display & A Gaming Laptop Are Official")
+
+
+[Two ASUS ZenBook Duos, A ProArt Display & A Gaming Laptop Are Official](https://www.androidheadlines.com/2021/01/asus-zenbook-duos-proart-display-gaming-laptop.html)
+
+
+> ASUS unveiled their new ZenBook Duo models a ProArt Display and a TUF Gaming laptop according to XDA. The line ASUS is a leader in the computer market and generally releases some amazing machines. The new models introduced include an OLED version of its dual-screen ZenBook Pro Duo 15, the TUF Dash gaming notebook, ZenBook Duo 14, VivoBook S14, ExpertBook B9450CEA (vPro), Chromebook Flip CX5/C536, Chromebook Cx9, and ASUS BR1100 for education. That is a lot of new machines so let us go over them.ASUS ZenBook Pro Duo 15 comes equipped with a beautiful 4K OLED displayThis version of ASUS's new ZenBook Pro Duo 15 comes with a new 4K OLED HDR display.
+
+
+***
+![Latinia invests in fintech company Ábaco to boost financial inclusion in the region](https://mms.businesswire.com/media/20210115005232/en/852353/23/latinia-color.jpg "Latinia invests in fintech company Ábaco to boost financial inclusion in the region")
+
+
+[Latinia invests in fintech company Ábaco to boost financial inclusion in the region](https://www.businesswire.com/news/home/20210115005232/en/Latinia-invests-in-fintech-company-%C3%81baco-to-boost-financial-inclusion-in-the-region)
+
+
+> January 15, 2021 06:02 AM Eastern Standard Time BOGOTA, Colombia--(BUSINESS WIRE)--Latinia, a software vendor specializing in real-time event processing for financial institutions has recently announced its investment in the SaaS fintech company Ábaco, which operates in Colombia and Mexico and provides financial access to unbanked individuals. Ábaco develops a groundbreaking software for the generation of credit histories, the lack of which is a barrier preventing millions of workers from gaining access to credit.
+
+
