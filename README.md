@@ -6277,3 +6277,50 @@
 > 8 minutes ago at 12:53 pmOH NO, this app that's optimized for touch can't be sideloaded on this mouse-first operating system that can install native apps from outside the app store. What are we going to do?!Score: 1 Votes (Like | Disagree)
 
 
+***
+![How to watch the Tiger Woods documentary 'Tiger'](https://www.gannett-cdn.com/presto/2021/01/15/USAT/71215053-5e33-4bf0-9aee-35e30fcd6ce6-tiger1.png?crop=1593,897,x0,y0&width=1600&height=800&fit=bounds "How to watch the Tiger Woods documentary 'Tiger'")
+
+
+[How to watch the Tiger Woods documentary 'Tiger'](https://www.usatoday.com/story/tech/reviewedcom/2021/01/15/how-watch-tiger-woods-documentary-tiger/4181125001/)
+
+
+> The new Tiger Woods documentary is streaming on HBO Max.   (Photo: HBO) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Tiger Woods is one of the most prolific athletes of our time, and in Tiger , the new documentary from HBO Sports and Jigsaw Productions, viewers will have the opportunity to take a journey into the golfer's incredible life and career, from Tiger's ascension to golf royalty to his tumultuous personal life and beyond.
+
+
+***
+!['They want to take your speech away,' censorship cry unites Trump supporters and extremists after Capitol attack](https://www.gannett-cdn.com/presto/2021/01/15/USAT/103966cf-b8a5-4fed-8c7f-b17c408be92e-AP_Trump_Impeachment.jpg?crop=5786,3255,x0,y0&width=3200&height=1680&fit=bounds "'They want to take your speech away,' censorship cry unites Trump supporters and extremists after Capitol attack")
+
+
+['They want to take your speech away,' censorship cry unites Trump supporters and extremists after Capitol attack](https://www.usatoday.com/story/tech/2021/01/15/censorship-trump-extremists-facebook-twitter-social-media-capitol-riot/4178737001/)
+
+
+> CLOSE Facebook censoring hate speech and bigotry is a "dangerous proposition" says a First Amendment lawyer, because the social media giant with more than 2 billion users is exercising its power to decide who gets to speak and who doesn't get to speak. (May 3) AP Domestic Anger over perceived censorship by social media companies is bridging the divide between far-right extremist groups and Trump supporters. And that growing solidarity could increase the likelihood of violence over the weekend and on Inauguration Day , researchers who study hate and extremism warn.
+
+
+***
+![WhatsApp postpones privacy policy change amid confusion, backlash](https://ca-times.brightspotcdn.com/dims4/default/59216ca/2147483647/strip/true/crop/2048x1075+0+38/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fae%2Fc4%2F9de92b34d91f7f19e310fd8ede7a%2Fla-smasunaga-1484323030-snap-photo "WhatsApp postpones privacy policy change amid confusion, backlash")
+
+
+[WhatsApp postpones privacy policy change amid confusion, backlash](https://www.latimes.com/business/technology/story/2021-01-15/whatsapp-postpones-privacy-policy-change-amid)
+
+
+> WhatsApp has delayed the introduction of a new privacy policy announced earlier this month after confusion and user backlash forced the messaging service to better explain what data it collects and how it shares that information with parent company Facebook Inc. 'We've heard from so many people how much confusion there is around our recent update,' the company wrote Friday in a blog post . 'There's been a lot of misinformation causing concern and we want to help everyone understand our principles and the facts.
+
+
+***
+[Sources: Apple has begun preliminary work on an iPhone model with a foldable screen, while testing an in-screen fingerprint reader for 2021 (Mark Gurman/Bloomberg)](http://www.techmeme.com/210115/p22#a210115p22)
+
+
+> Mark Gurman / Bloomberg: Sources: Apple has begun preliminary work on an iPhone model with a foldable screen, while testing an in-screen fingerprint reader for 2021 — Apple Inc. has begun early work on an iPhone with a foldable screen, a potential rival to similar devices from Samsung Electronics Co. and others …
+
+
+***
+![WhatsApp to delay launch of new business features after privacy backlash](https://japantoday.com/images/japan-today-social.jpg "WhatsApp to delay launch of new business features after privacy backlash")
+
+
+[WhatsApp to delay launch of new business features after privacy backlash](https://japantoday.com/category/tech/whatsapp-to-delay-launch-of-new-business-features-after-privacy-backlash)
+
+
+> Facebook Inc's WhatsApp is delaying the roll out of new business features following user backlash over the company's data sharing practices. The delay is a setback for WhatsApp's plan to generate revenue by facilitating commercial exchanges on the messaging app, which Facebook acquired for $19 billion in 2014 but has been slow to monetize. WhatsApp said on Friday users will no longer have to review and accept its updated terms by Feb. 8, nor will they have their accounts suspended or deleted by that date.
+
+
