@@ -5273,3 +5273,53 @@
 > Catalin Cimpanu / ZDNet: Apple has removed a controversial feature in macOS 11.2 beta 2 that allowed its own apps to bypass third-party firewalls, security tools, and VPNs — The ContentFilterExclusionList has been removed in macOS 11.2 beta 2. — Apple has removed a controversial feature from the macOS operating system …
 
 
+***
+![Wikipedia at 20: The encyclopedia in five articles](https://ichef.bbci.co.uk/news/1024/branded_news/940E/production/_116520973_wikipedia_20_years_976x549-nc-2.jpg "Wikipedia at 20: The encyclopedia in five articles")
+
+
+[Wikipedia at 20: The encyclopedia in five articles](https://www.bbc.com/news/technology-55667711)
+
+
+> Rory Cellan-Jones Technology correspondent @BBCRoryCJ on Twitter image caption Three faces of Wikipedia: Jimmy Wales, Gladys West and President George W Bush On 15 January 2001, two American entrepreneurs - Jimmy Wales and Larry Sanger - launched an online encyclopedia. It was called Wikipedia. Despite much criticism early on about inaccuracies, it has gone on to be hugely successful. It is the 15th most popular destination on the web, is available in more than 300 languages and is maintained by a community of volunteer editors.
+
+
+***
+![Inside the world's richest esports player's mansion](https://ichef.bbci.co.uk/images/ic/400xn/p09416s7.jpg "Inside the world's richest esports player's mansion")
+
+
+[Inside the world's richest esports player's mansion](https://www.bbc.com/news/av/technology-55668397)
+
+
+> Johan "N0tail" Sundstein is the highest-earning esports player in the world, having taken more than $7.4m (£5.4m) in prize money to date. The BBC was invited to visit Johan at his new 17 bedroom mansion in Lisbon to see how he and his team have adapted to training for, and competing in, high stakes tournaments remotely. Our cyber reporter Joe Tidy also spoke to him about the physical and mental impact of competitive gaming. Filmed in December, following BBC Covid-safe filming advice and all local social distancing guidelines.
+
+
+***
+![Big Tech giants need to ‘work together' to unite country: ‘Social Dilemma' star](https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d232a885-86ac-4e1e-a628-846dc5b46900/8fd9ecca-27ce-45e2-a9e5-3e2bacffdea8/1280x720/match/image.jpg "Big Tech giants need to ‘work together' to unite country: ‘Social Dilemma' star")
+
+
+[Big Tech giants need to ‘work together' to unite country: ‘Social Dilemma' star](https://www.foxnews.com/tech/big-tech-giants-social-dilemma-star)
+
+
+> The star of the Netflix documentary "The Social Dilemma" Joe Toscano said Thursday on "The Daily  Briefin g" that Big Tech companies need to "work together" to unite the country. The former Google consultant made the comments after social media platforms like Twitter and Facebook banned President Trump's account after the deadly riots that unfolded at the U.S. Capitol last week. Toscano went on to say that eliminating Trump from social media is the "beginning of the end for these companies." JOE TOSCANO: I think that the big thing here is we are reaching the end of what would be perfection of control with social media.
+
+
+***
+![Apple rumored to deliver Apple Music and Podcasts apps to Microsoft Store](https://photos5.appleinsider.com/gallery/39830-76460-210114-iTunes-xl.jpg "Apple rumored to deliver Apple Music and Podcasts apps to Microsoft Store")
+
+
+[Apple rumored to deliver Apple Music and Podcasts apps to Microsoft Store](https://appleinsider.com/articles/21/01/15/apple-rumored-to-deliver-apple-music-and-podcasts-apps-to-microsoft-store)
+
+
+> How to make an iPhone a wireless hotspot 3 hours ago Scosche MagicMount series brings MagSafe charging to your car 5 hours ago
+
+
+***
+![Zapping Covid: Tech sector takes aim at virus with new gadgetry](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/1501_CES_2021_Afp-seo.jpg "Zapping Covid: Tech sector takes aim at virus with new gadgetry")
+
+
+[Zapping Covid: Tech sector takes aim at virus with new gadgetry](https://www.malaymail.com/news/tech-gadgets/2021/01/15/zapping-covid-tech-sector-takes-aim-at-virus-with-new-gadgetry/1940582)
+
+
+> This undatde handout photo released on January 11, 2021, courtesy of Consumer Technology Association (CES), shows behind the scenes on the set of the all-digital CES 2021. — AFP pic WASHINGTON, Jan 15 — From virus-zapping drones to smart masks to disease-predicting wearables, the tech sector is showcasing ways to detect and mitigate the coronavirus outbreak. The health crisis which forced this week's 2021 Consumer Electronics Show online has also spawned innovations for fighting the pandemic. Drone maker Draganfly showcased its camera technology which can be used to offer alerts on social distancing, and also detect changes in people's vital signs which may be early indicators of Covid-19 infections.
+
+
