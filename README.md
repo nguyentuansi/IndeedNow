@@ -5655,3 +5655,50 @@
 > Samsung Galaxy S21, Galaxy S21+ and the Galaxy S21 Ultra have been launched in India. Here is everything important you need to know about them as far as India is concerned, including the prices of the Galaxy S21 series phones. India Today Tech | January 15, 2021 | Updated 12:17 IST
 
 
+***
+![Tata-Tesla partnership? Tata Motors Electric Mobility denies JV rumours](https://images.moneycontrol.com/static-mcnews/2020/08/nexa-770x433.png "Tata-Tesla partnership? Tata Motors Electric Mobility denies JV rumours")
+
+
+[Tata-Tesla partnership? Tata Motors Electric Mobility denies JV rumours](https://www.moneycontrol.com/news/technology/auto/tata-tesla-partnership-tata-motors-electric-mobility-denies-jv-rumours-6350651.html)
+
+
+> Tata Motors' electric vehicle division Tata Motors Electric Mobility has denied rumours about a possible rumours about a partnership with Elon Musk's Tesla in India, CNBC-TV18 reported.Earlier, in a cryptic tweet referencing an old Hindi song, the twitter handle of Tata Motors Electric Mobility said: "Aajkal tere mere pyaar ke charche har akhbaar mein. Sab ko malum hai aur sab ko khabar ho gayi!" (There's talk of our love in the newspapers. Everyone knows and is informed!)Aajkal tere mere pyaar ke charche har akhbaar meinSab ko malum hai aur sab ko khabar ho gayi!#WelcomeTesla #TeslaIndia@Tesla @elonmusk— Tata Motors Electric Mobility (@TatamotorsEV) January 15, 2021The tweet welcomed Tesla to India and cheered for the global EV maker's Indian advent.
+
+
+***
+![German Companies Seek Next-Gen Development Services for Faster, More Effective Digital Transformation](https://mms.businesswire.com/media/20210115005045/en/1016900/23/ISG_%28R%29_Logo.jpg "German Companies Seek Next-Gen Development Services for Faster, More Effective Digital Transformation")
+
+
+[German Companies Seek Next-Gen Development Services for Faster, More Effective Digital Transformation](https://www.businesswire.com/news/home/20210115005045/en/German-Companies-Seek-Next-Gen-Development-Services-for-Faster-More-Effective-Digital-Transformation)
+
+
+> January 15, 2021 04:00 AM Eastern Standard Time FRANKFURT, Germany--(BUSINESS WIRE)--German enterprises, frustrated with the costs and delays of digital transformation, are turning to next-generation application development and maintenance services providers for rapid, ongoing modernization, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2020 ISG Provider Lens™ Next-gen Application Development & Maintenance (ADM) Services report for Germany finds companies concerned their digitization efforts are too slow and expensive, and deliver moderate results while adding complexity that hampers daily business.
+
+
+***
+![Best gaming chair 2021: the best PC gaming chairs](https://cdn.mos.cms.futurecdn.net/8uyuPRKS2svHBhMZkZYkFg-1200-80.jpg "Best gaming chair 2021: the best PC gaming chairs")
+
+
+[Best gaming chair 2021: the best PC gaming chairs](https://www.techradar.com/news/best-pc-gaming-chair-5-best-chairs-to-game-in-comfort)
+
+
+> It's time to take your eyes off the latest graphics cards for a minute and have a look at something just as important, the gaming chair. If you play your gaming PC in front of a monitor, perhaps for hours at a time, don't make do with that kitchen stool. Future you will thank you. Below you'll find a stack of the best gaming chairs available today. But what do they get you over the tidal wave of budget thrones you'll see when you type 'gaming chair' into Amazon?The cheapest gaming chairs are much like basic office chairs, spruced up with some colour and perhaps a taller seat back.
+
+
+***
+[傳 Netflix 可望支援 AirPods Pro 與 AirPods Max 空間音訊功能](https://ccc.technews.tw/2021/01/15/netflix-airpods-pro-airpods-max-spatial-audio/)
+
+
+> AirPods Pro 與 AirPods Max 使用者，只要將手機或平板升級到 iOS 14、iPadOS […]
+
+
+***
+![Galaxy S21 vs. S20 vs. S20 FE vs. Note 20 specs compared: What Samsung changed in its new phones](https://cnet2.cbsistatic.com/img/Xts5Q96eyeslWuV6wKwds0v8O9Y=/1200x630/2021/01/14/fcf5ab93-45ab-4ada-af1c-481119c4970b/04-galaxys21-violet-pink-gray-white-201230074008.jpg "Galaxy S21 vs. S20 vs. S20 FE vs. Note 20 specs compared: What Samsung changed in its new phones")
+
+
+[Galaxy S21 vs. S20 vs. S20 FE vs. Note 20 specs compared: What Samsung changed in its new phones](https://www.cnet.com/news/galaxy-s21-vs-s20-vs-fe-vs-note-20-specs-comparison-what-samsung-changed-in-its-new-phones/)
+
+
+> Samsung's new lineup (from left): the $800 Galaxy S21, $1,000 Galaxy S21 Plus and $1,200 Galaxy S21 Ultra.  Drew Evans/CNET This story is part of CES, where our editors will bring you the latest news and the hottest gadgets of the entirely virtual CES 2021. Samsung took to its virtual Unpacked stage on Thursday to take the wraps off its next-gen Galaxy S21 lineup, consisting of the Galaxy S21, Galaxy S21 Plus and Galaxy S21 Ultra. All three are available to preorder now, and will ship on Jan. 29.
+
+
