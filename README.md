@@ -6046,3 +6046,40 @@
 > Game system competitors Sony PlayStation 5 on the left, Microsoft's Xbox Series X on right. (Composite image made from Sony and Microsoft handouts)   (Photo: Handout) With many Americans stuck at home last year due to the pandemic, spending on video games hit a new record. Total video game spending in 2020 hit $56.9 billion, up 27% higher than the previous year, says research firm NPD Group. Consumer spending last December, an important month for the industry with holiday shopping in full swing, reached a record $7.
 
 
+***
+[Sources: Apple is discussing launching a new subscription service that would charge people to listen to podcasts (The Information)](http://www.techmeme.com/210115/p14#a210115p14)
+
+
+> The Information: Sources: Apple is discussing launching a new subscription service that would charge people to listen to podcasts — Apple—long considered the sleeping giant in the podcast space—is waking up. The company, which runs the most widely used podcasting app in the industry …
+
+
+***
+![10 best tablets that are perfect for drawing, gaming and note taking](https://static.independent.co.uk/2021/01/15/12/Ipads.jpg "10 best tablets that are perfect for drawing, gaming and note taking")
+
+
+[10 best tablets that are perfect for drawing, gaming and note taking](https://www.independent.co.uk/extras/indybest/gadgets-tech/laptops-tablets/best-tablet-android-apple-b1787786.html)
+
+
+> The launch of the iPad in 2010 changed everything, as Apple is fond of saying. Sure, there had been tablet computers before then, but they were really just laptops with a touchscreen interface, a not-very-easy version of Windows to run it, and not much that was optimised for touch. The iPad provided a slim, light, gorgeous screen that introduced a whole new way of interacting with content, from typing emails to watching videos to playing games.Apple's tablets have been the benchmark ever since, with rivals struggling to be as intuitive, as inviting and as intimately personal as the iPad.
+
+
+***
+![10 best tablets for Zoom, gaming and films](https://static.independent.co.uk/2021/01/15/12/Ipads.jpg "10 best tablets for Zoom, gaming and films")
+
+
+[10 best tablets for Zoom, gaming and films](https://www.independent.co.uk/extras/indybest/gadgets-tech/laptops-tablets/best-tablet-android-apple-b1787786.html)
+
+
+> The launch of the iPad in 2010 changed everything, as Apple is fond of saying. Sure, there had been tablet computers before then, but they were really just laptops with a touchscreen interface, a not-very-easy version of Windows to run it, and not much that was optimised for touch. The iPad provided a slim, light, gorgeous screen that introduced a whole new way of interacting with content, from typing emails to watching videos to playing games.Apple's tablets have been the benchmark ever since, with rivals struggling to be as intuitive, as inviting and as intimately personal as the iPad.
+
+
+***
+![slow to cancel iPhone backup](https://images.macrumors.com/social/?t=2280428&v=6 "slow to cancel iPhone backup")
+
+
+[slow to cancel iPhone backup](https://forums.macrumors.com/threads/slow-to-cancel-iphone-backup.2280428/)
+
+
+> Sometimes, when I need to reboot, I can't because Big Sur is backing up my iPhone. If I go into finder and cancel the backup, it takes a very long time to stop (minutes if not longer). But today I noticed that if I disconnect my iPhone from my Mac, it stops immediately. Is there something I can do to make canceling the backup faster? Or is it just sloppy programming on Apple's part? If it can stop on a dime when I disconnect my phone, it seems like it should be able to stop quickly when I do it in Finder.
+
+
