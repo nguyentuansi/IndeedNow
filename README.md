@@ -5373,3 +5373,47 @@
 > President-elect Joe Biden removes a face mask before delivering remarks on his plan to beef up the nation's response to the pandemic. Jim Watson/AFP via Getty Images For the most up-to-date news and information about the coronavirus pandemic, visit the WHO website. President-elect Joe Biden on Thursday criticized federal efforts to distribute the coronavirus vaccine and said he would ask Congress for $400 billion to speed up the pace of vaccinations in the US"The vaccine rollout in United States has been a dismal failure so far," Biden said in his speech Thursday, reiterating his goal to administer 100 million shots by the end of his first 100 days in office.
 
 
+***
+![iPhone chip maker TSMC begins construction of major plant in Arizona](https://www.imore.com/sites/imore.com/files/styles/large/public/images/stories/2011/07/tsmc.jpg "iPhone chip maker TSMC begins construction of major plant in Arizona")
+
+
+[iPhone chip maker TSMC begins construction of major plant in Arizona](https://www.imore.com/iphone-chip-maker-tsmc-begins-construction-major-plant-arizona)
+
+
+> Source: TSMC As reported by Bloomberg, TSMC is investing up to $28 billion in advanced processing technologies and constructing a new plant in Arizona. Some analysts predict that Intel may outsource its chip production and tap the chip manufacturer. The sheer scale of TSMC's envisioned budget -- more than half its projected revenue for the year -- underscores TSMC's determination to maintain its dominance and supply its biggest American clients from Apple Inc. to Qualcomm Inc. At 52% of projected 2021 revenue, the chipmaker's planned spending would be the sixth-highest among all companies with a value of more than $10 billion, according to data compiled by Bloomberg.
+
+
+***
+[After Facebook and Twitter suspended Trump's account, activists and human rights groups have urged the companies to apply their policies evenly around the world (Adam Satariano/New York Times)](http://www.techmeme.com/210114/p56#a210114p56)
+
+
+> Adam Satariano / New York Times: After Facebook and Twitter suspended Trump's account, activists and human rights groups have urged the companies to apply their policies evenly around the world — Human rights groups and activists have spent years urging the companies to do more to remove content that encouraged violence.
+
+
+***
+![Huge cost of car company's green revolt](https://content.api.news/v3/images/bin/307db9104d1112195aa634bba1b7df86 "Huge cost of car company's green revolt")
+
+
+[Huge cost of car company's green revolt](https://www.news.com.au/technology/motoring/motoring-news/kia-to-launch-seven-electric-cars-by-2027/news-story/fd3280e5ecdb5d95b0e6ceea0954d9ee)
+
+
+> Car company's are all getting on the electric car bandwagon, but the cost of this new direction is truly staggering.It ain't easy being green. Kia has just announced an ambitious plan to launch seven new electric vehicles by 2027, with the first one to break cover later this year.To support the environmentally friendly new range of cars the South Korean maker is going to implement increased use of recycled materials and renewable energy into its manufacturing process.But the cost of this green revolution is massive.
+
+
+***
+![How to print from an Android smartphone or tablet](https://icdn2.digitaltrends.com/image/digitaltrends/epson-wf-7510-front-printing-1200x630-c-ar1.91.jpg "How to print from an Android smartphone or tablet")
+
+
+[How to print from an Android smartphone or tablet](https://www.digitaltrends.com/mobile/how-to-print-from-android/)
+
+
+> Printing from an Android phone or tablet is now easier than ever. Like printing from a PC, just open the file you want to print and send it over for a paper copy. You don't even need to be on the same network if you own an internet-friendly printer. In this guide, we show you how to print from Android using the platform's default printing service. We also provide an example of how you can print remotely without Google's now-dead Cloud Print service. Note: The following instructions are based on a pure build of Android 10 on a Pixel 3 smartphone and may be different on Samsung and other third-party devices.
+
+
+***
+[Do I need college to become a software engineer?](https://www.reddit.com/r/Python/comments/kxldln/do_i_need_college_to_become_a_software_engineer/)
+
+
+> Need? No. Does it help? Sure.And let's talk a little bit about why and how. The first, and most obvious, is credentialism: people will respect your background more if you have a degree. It's bullshit, it's unfair, and it's increasingly inaccurate as collegiate programs focus more and more on being job-training programs (bad job-training programs).Second, however, is just that mastering a skill is hard. No matter how much an auto-didact you are, there are a lot more ways to program wrong than there are to programming "correctly", and navigating that thicket of failure is a lot easier if you have good instructors and a firm theoretical footing.
+
+
