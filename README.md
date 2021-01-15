@@ -5323,3 +5323,53 @@
 > This undatde handout photo released on January 11, 2021, courtesy of Consumer Technology Association (CES), shows behind the scenes on the set of the all-digital CES 2021. — AFP pic WASHINGTON, Jan 15 — From virus-zapping drones to smart masks to disease-predicting wearables, the tech sector is showcasing ways to detect and mitigate the coronavirus outbreak. The health crisis which forced this week's 2021 Consumer Electronics Show online has also spawned innovations for fighting the pandemic. Drone maker Draganfly showcased its camera technology which can be used to offer alerts on social distancing, and also detect changes in people's vital signs which may be early indicators of Covid-19 infections.
 
 
+***
+![3 Simple Questions to Hone Python Skills for Beginners in 2021](https://external-preview.redd.it/KXsJnwb_OdWEwp7s-PDKuTXGX9lxVVY605EFnf3Q7MY.jpg?auto=webp&s=0c7b501861e69463e9be3f9560fc85d2633f5cc2 "3 Simple Questions to Hone Python Skills for Beginners in 2021")
+
+
+[3 Simple Questions to Hone Python Skills for Beginners in 2021](https://www.reddit.com/r/Python/comments/kxkj1u/3_simple_questions_to_hone_python_skills_for/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![This classic Michael Kors bag is a customer favorite—and it's 70% off](https://www.gannett-cdn.com/presto/2021/01/15/USAT/0ed3c1d3-65b8-4b6c-bda2-4a5db61fed69-mk-camille.jpg?crop=893,502,x1,y0&width=893&height=502&format=pjpg&auto=webp "This classic Michael Kors bag is a customer favorite—and it's 70% off")
+
+
+[This classic Michael Kors bag is a customer favorite—and it's 70% off](https://www.usatoday.com/story/tech/reviewedcom/2021/01/14/michael-kors-bags-save-70-top-rated-leather-satchel/4165977001/)
+
+
+> Arielle Tschinkel — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. If your everyday go-to purse simply isn't cutting it anymore, you don't have to spend a zillion bucks to replace it with something stylish, sleek and sturdy enough to hold your belongings. This stunning MICHAEL Michael Kors Camille large logo satchel fits the bill in just about every way—and it's more than 70% off as part of the brand's massive Semi-Annual Sale, which runs through Tuesday, January 26.
+
+
+***
+![Galaxy S21's camera features are good, but are they enough?](https://cnet4.cbsistatic.com/img/sVpOOQAJYtnUWiV_yBlzKHjToLU=/1200x630/2021/01/07/0ae60a69-5931-4c27-82b8-cbe5845dd850/galaxy-s20-note-20-ultra-fe-product-promo-hoyle-2021-9.jpg "Galaxy S21's camera features are good, but are they enough?")
+
+
+[Galaxy S21's camera features are good, but are they enough?](https://www.cnet.com/news/samsung-galaxy-s21-ultra-camera-features-are-good-but-are-they-enough/)
+
+
+> Samsung This story is part of CES, where our editors will bring you the latest news and the hottest gadgets of the entirely virtual CES 2021. Samsung's flagship Galaxy S21 line is here, with the S21 Ultra packing all the bells and whistles you'd expect from a top-end phone. And while it has multiple cameras, and a variety of photography features, most of the headline features, including its 100x zoom, 108-megapixel resolution and 8K video were launched with last year's Galaxy S20 cameras and that makes it harder as a professional photographer to get excited.
+
+
+***
+![The 19 best TV shows to binge on Amazon Prime Video](https://cnet3.cbsistatic.com/img/RvU8IEg-dqFwAtzNDr7sSNT3Kak=/0x0:1920x1079/1200x630/2021/01/11/8a486159-4503-4b08-bad8-c8e54159bd33/tflo-101-splits-master-20200109mov01-24-33-04-still.jpg "The 19 best TV shows to binge on Amazon Prime Video")
+
+
+[The 19 best TV shows to binge on Amazon Prime Video](https://www.cnet.com/news/the-19-best-tv-shows-to-binge-on-amazon-prime-video/)
+
+
+> Tales From the Loop. Amazon Studios Amazon Prime Video has gathered an impressive lineup of original shows to keep you entertained. It's also picked up excellent programs from other countries to stream in the US. Thankfully, those exclusives, like A Very English Scandal and Catastrophe, can be appreciated by a wider audience. Let's round up the best TV shows Amazon has to offer.Read more: The 19 best movies to watch on Amazon Prime Video Amazon Amazon's first original young adult offering is an intriguing combination of Lost and the Breakfast Club -- and it works.
+
+
+***
+![Biden unveils $400B plan to accelerate COVID-19 vaccinations](https://cnet4.cbsistatic.com/img/WkhsZ5H7s61W-2vwIUjndCHgPrE=/1200x630/2021/01/15/4aa72582-9665-4e55-b632-88f4cb667767/gettyimages-1230590185.jpg "Biden unveils $400B plan to accelerate COVID-19 vaccinations")
+
+
+[Biden unveils $400B plan to accelerate COVID-19 vaccinations](https://www.cnet.com/news/biden-unveils-400b-plan-to-accelerate-covid-19-vaccinations/)
+
+
+> President-elect Joe Biden removes a face mask before delivering remarks on his plan to beef up the nation's response to the pandemic. Jim Watson/AFP via Getty Images For the most up-to-date news and information about the coronavirus pandemic, visit the WHO website. President-elect Joe Biden on Thursday criticized federal efforts to distribute the coronavirus vaccine and said he would ask Congress for $400 billion to speed up the pace of vaccinations in the US"The vaccine rollout in United States has been a dismal failure so far," Biden said in his speech Thursday, reiterating his goal to administer 100 million shots by the end of his first 100 days in office.
+
+
