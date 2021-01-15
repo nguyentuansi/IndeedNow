@@ -5702,3 +5702,53 @@
 > Samsung's new lineup (from left): the $800 Galaxy S21, $1,000 Galaxy S21 Plus and $1,200 Galaxy S21 Ultra.  Drew Evans/CNET This story is part of CES, where our editors will bring you the latest news and the hottest gadgets of the entirely virtual CES 2021. Samsung took to its virtual Unpacked stage on Thursday to take the wraps off its next-gen Galaxy S21 lineup, consisting of the Galaxy S21, Galaxy S21 Plus and Galaxy S21 Ultra. All three are available to preorder now, and will ship on Jan. 29.
 
 
+***
+![Google Finally Completes Fitbit Acquisition: Here's What It Means For Your Data](https://sm.mashable.com/t/mashable_in/feature/a/adios-alex/adios-alexa-how-google-could-change-your-fitbit-experience_safu.1200.jpg "Google Finally Completes Fitbit Acquisition: Here's What It Means For Your Data")
+
+
+[Google Finally Completes Fitbit Acquisition: Here's What It Means For Your Data](https://in.mashable.com/tech/19576/google-finally-completes-fitbit-acquisition-heres-what-it-means-for-your-data)
+
+
+> Google has finally announced that it has finalized a deal, 14 months after the search giant announced that it would acquire Fitbit for $2.1 billion. 'Google has completed its acquisition of Fitbit and I want to personally welcome this talented team to Google,' Google senior vice president Rick Osterloh announced . 'A clear pioneer in the industry, Fitbit built a vibrant community of more than 29 million active users by creating amazing wearable devices and immersive wellness experiences.' That said, Google has had its fair share of regulatory hurdles to overcome in getting here.
+
+
+***
+![Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots](https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/01/14/USATODAY/usatsports/twitter-white-house-trump.jpg?width=1600&height=800&fit=crop "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots")
+
+
+[Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots](https://www.usatoday.com/story/tech/2021/01/15/trump-republican-lawmakers-follower-counts-slashed-twitter-purge/4168064001/)
+
+
+> Republican lawmakers lost thousands of Twitter followers when the company cracked down on accounts linked to QAnon following the mob attack on the U.S. Capitol stoked by President Trump. USA TODAY analyzed the Twitter followings of the congressional accounts for 507 members of the House and Senate in data provided by ProPublica . About 42% of the accounts – 213 – had fewer followers on Jan. 13 than they did on Jan. 6. The vast majority of those accounts –200 – belonged to Republicans. The numbers reflect followers as of Wednesday, not long before the historic House vote to impeach Trump on allegations of inciting the riot one week earlier.
+
+
+***
+![Pokémon Diamond and Pearl remakes rumored for Nintendo Switch – but will it happen?](https://cdn.mos.cms.futurecdn.net/YDHju8sq7tDoGDr39LgiQc-1200-80.jpg "Pokémon Diamond and Pearl remakes rumored for Nintendo Switch – but will it happen?")
+
+
+[Pokémon Diamond and Pearl remakes rumored for Nintendo Switch – but will it happen?](https://www.techradar.com/news/pokemon-diamond-and-pearl-remakes-rumored-for-nintendo-switch-but-will-it-happen)
+
+
+> (Image credit: Amazon) The 25th anniversary of Pokémon's first appearance on the GameBoy is coming up soon, on February 27th – and rumor has it that remakes of the Gen IV Diamond and Pearl games could be announced. The rumor comes courtesy of Spanish fan site Centro Pokémon , with the key information roughly translating to the below (thanks, NintendoLife ). "Centro Pokémon can confirm that, according to sources close to the company, remakes of Pokémon Diamond and Pokémon Pearl, originally released in 2006 for the Nintendo DS, are in development for the Nintendo Switch .
+
+
+***
+![Musk: Tesla Full Self-Driving Will Be Ready In 2021](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_0.jpg "Musk: Tesla Full Self-Driving Will Be Ready In 2021")
+
+
+[Musk: Tesla Full Self-Driving Will Be Ready In 2021](https://www.benzinga.com/tech/20/12/18617609/musk-tesla-full-self-driving-will-be-ready-in-2021)
+
+
+> At the Axel Springer conference in Germany, Tesla Inc (NASDAQ: TSLA ) CEO Elon Musk said he believes Tesla will have fully autonomous, level five vehicles on the road in 2021.   This would mean that a driver and steering wheel are optional, as the vehicles would be fully capable of driving themselves in all scenarios. Tesla has been developing fully autonomous cars. For now, the company sells a software option for customers that can do all driving on the highway, including interchanges and exits, but must be monitored at all times.
+
+
+***
+![US Adds Xiaomi To Its Investment Blacklist Citing Ties To Chinese Military](https://www.androidheadlines.com/wp-content/uploads/2020/11/xiaomi-120hz-budget-phone.png "US Adds Xiaomi To Its Investment Blacklist Citing Ties To Chinese Military")
+
+
+[US Adds Xiaomi To Its Investment Blacklist Citing Ties To Chinese Military](https://www.androidheadlines.com/2021/01/us-xiaomi-investment-blacklist.html)
+
+
+> The United States Department of Defense has added nine Chinese companies, including smartphone maker Xiaomi, to an investment blacklist. The US Government alleges that these companies have ties to the Chinese military. The Defense Department terms such companies as "Communist Chinese military companies" operating directly or indirectly in the United States.These actions are per the statutory requirement of Section 1237 of the National Defense Authorization Act for Fiscal Year 1999. The law requires the Defense Department to compile a list of companies owned or controlled by the Chinese military.
+
+
