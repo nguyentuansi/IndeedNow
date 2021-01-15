@@ -5467,3 +5467,47 @@
 > Google has successfully completed the acquisition of smart wearable company Fitbit. he search gaint purchased Fitbit for 2.1 billion dollars a year after the deal was first announced. Google in its blog stated that the deal with Fitbit is about devices and not data. Google has successfully completed the acquisition of smart wearable company Fitbit. The search gaint purchased Fitbit for 2.1 billion dollars a year after the deal was first announced. 'Today, I'm excited to announce that Google has completed its acquisition of Fitbit and I want to personally welcome this talented team to Google,' Google's Rick Osterloh said in a blog.
 
 
+***
+[ACCC considers legal action after Google completes $2.7 billion Fitbit deal](https://www.watoday.com.au/technology/accc-considers-legal-action-after-google-completes-2-7-billion-fitbit-deal-20210115-p56ufc.html?ref=rss&utm_medium=rss&utm_source=rss_feed)
+
+
+> Australia's competition watchdog is continuing its investigation into Google's acquisition of fitness tracking pioneer Fitbit despite the sale completing on Friday.
+
+
+***
+[Nayya, which uses AI to help guide employees in selecting a health plan offered by their employers, raises $11M Series A led by Felicis Ventures (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210115/p1#a210115p1)
+
+
+> Kyle Wiggers / VentureBeat: Nayya, which uses AI to help guide employees in selecting a health plan offered by their employers, raises $11M Series A led by Felicis Ventures — Nayya, an insurance benefits management platform, today announced it has closed $11 million in a series A round led by Felicis Ventures.
+
+
+***
+![Google closes Fitbit deal amid ongoing US Department of Justice review](https://images.indianexpress.com/2021/01/Fitbit_BLOOMB.jpg "Google closes Fitbit deal amid ongoing US Department of Justice review")
+
+
+[Google closes Fitbit deal amid ongoing US Department of Justice review](https://indianexpress.com/article/technology/tech-news-technology/google-closes-fitbit-deal-amid-ongoing-us-department-of-justice-review-7147149/)
+
+
+> Alphabet Inc's Google closed its $2.1 billion takeover of Fitbit Inc even though the US Justice Department said it is still conducting an antitrust investigation of the deal. In a blog post Thursday, Google said it completed the acquisition and highlighted the company's binding commitments to protect user privacy. Shortly after the blog was published, the Justice Department's antitrust division released a statement saying it hasn't signed off on the deal. 'The Antitrust Division's investigation of Google's acquisition of Fitbit remains ongoing,' Alex Okuliar, a deputy assistant attorney general, said.
+
+
+***
+![Samsung Galaxy S21 vs Galaxy S20: comparing new and old Samsung phones](https://cdn.mos.cms.futurecdn.net/SqPaPXaQYJ4BkRFpdYvd48-1200-80.jpg "Samsung Galaxy S21 vs Galaxy S20: comparing new and old Samsung phones")
+
+
+[Samsung Galaxy S21 vs Galaxy S20: comparing new and old Samsung phones](https://www.techradar.com/news/samsung-galaxy-s21-vs-galaxy-s20)
+
+
+> The Samsung Galaxy S21 is here. It's the yearly update on the company's line of flagship phones, succeeding 2020's Samsung Galaxy S20 – and could end up being one of the best phones of 2021.If you don't have time to read all our coverage on both the old and new Samsung phones, you may be wondering about the differences between the two handsets. As the image above shows, the Samsung Galaxy S21 isn't a wholesale re-imagining of its predecessor, with the changes quite subtle.To save you time, below you'll find a comparison between the Samsung Galaxy S20 and the Samsung Galaxy S21.
+
+
+***
+![Why TikTok (and Everyone Else) Is Singing Sea Chanteys](https://media.wired.com/photos/6000d422bb2776344c2d9b5c/191:100/w_1280,c_limit/Science_shanties_96773108.jpg "Why TikTok (and Everyone Else) Is Singing Sea Chanteys")
+
+
+[Why TikTok (and Everyone Else) Is Singing Sea Chanteys](https://www.wired.com/story/tiktok-sea-shanties/)
+
+
+> The Monitor is a weekly column devoted to everything happening in the WIRED world of culture, from movies to memes, TV to Twitter.Earlier this week, it seemed inevitable that this column would have something to do with the second impeachment of President Trump. In a week when Republicans were likening the impeachment of the president to a 'canceling' and saying that Twitter booting Trump was akin to censorship, it was tempting to weigh in. (If free speech is being stifled, how is it possible that it's all I hear about on every major media outlet in the world? How?) But I digressed.
+
+
