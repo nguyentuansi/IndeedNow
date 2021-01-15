@@ -6227,3 +6227,53 @@
 > In the UK, messaging platform WhatsApp has assumed the role of default communication tool, usurping text messages and redefining how Britons communicate on their phones.  However, concern has been growing over the platform's privacy credentials, a mood which has been exacerbated by the app's relationship with its parent company Facebook which seems to be growing ever closer.  In January, WhatsApp issued a privacy update saying that the app reserves the right to share user data, including location and phone number, with its parent Facebook and units such as Instagram and Messenger.
 
 
+***
+![Coinbase commits to a 'better customer experience' following complaints – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?w=600 "Coinbase commits to a 'better customer experience' following complaints – TechCrunch")
+
+
+[Coinbase commits to a 'better customer experience' following complaints – TechCrunch](https://techcrunch.com/2021/01/15/coinbase-commits-to-a-better-customer-experience-following-complaints/)
+
+
+> Coinbase has a problem. As interest in bitcoin has soared along with its price, the popular cryptocurrency exchange has found itself the target of a growing spate of angry customers who haven't been able to access customer service. A quick look at Twitter tells the story. As ranted one upset user of the service just earlier today: 'Multiple issues over the last month which cost me $$$ several open cases and 0% response?? When are you going to help me or is it easier to just forget. This wont be so easy when your publicly traded.
+
+
+***
+![Data Doctors: How to spot fake product reviews online](https://wtop.com/wp-content/uploads/2020/11/GettyImages-1210359002.jpg "Data Doctors: How to spot fake product reviews online")
+
+
+[Data Doctors: How to spot fake product reviews online](https://wtop.com/tech/2021/01/data-doctors-how-to-spot-fake-product-reviews-online/)
+
+
+> Q: What tips do you have for rooting out fake product reviews? Reviews have become such a huge influence in buying decisions that 'gaming the system' is something we should all be aware of. Taking reviews or review rating systems at face value is what most consumers do because it's a quick way to make a decision, but that's what those that create fake reviews are counting on. There are companies in countries outside the U.S. selling large numbers of fake reviews, so it's always a good idea to watch for grammar and language errors, or suspicious usernames.
+
+
+***
+![Scientists probe ocean 'twilight zone'](https://images.perthnow.com.au/publication/S-2045594/1610744572208_Ocean_16-9_20216986_2045594_202101151701480f0dc9b4-b2c4-4434-bed9-ae3b976cb8a0.jpg_sd_1280x720.jpg?imwidth=1024 "Scientists probe ocean 'twilight zone'")
+
+
+[Scientists probe ocean 'twilight zone'](https://www.perthnow.com.au/technology/scientists-probe-ocean-twilight-zone-ng-s-2045594)
+
+
+> Australian scientists are helping probe the ocean's enigmatic 'twilight zone' which is home to strange creatures and crucial in the process of capturing carbon.Twenty researchers returned to Hobart on Friday after a six-week mission in the Southern Ocean on the RSV Investigator ship.They deployed a suite of sensors, instruments and robotic floats at three locations to investigate the role ocean life plays in capturing atmospheric carbon."The ocean has actually been doing us a big favour over the last couple of centuries," voyage chief scientist Professor Philip Boyd told reporters.
+
+
+***
+![Extremists exploit a loophole in social moderation: Podcasts](https://www.mymotherlode.com/wp-content/uploads/2021/01/files_6c126255c5.jpeg "Extremists exploit a loophole in social moderation: Podcasts")
+
+
+[Extremists exploit a loophole in social moderation: Podcasts](https://www.mymotherlode.com/news/technology/1482488/extremists-exploit-a-loophole-in-social-moderation-podcasts.html)
+
+
+> Major social platforms have been cracking down on the spread of misinformation and conspiracy theories in the leadup to the presidential election, and expanded their efforts in the wake of the Jan. 6 Capitol riot. But Apple and Google, among others, have left open a major loophole for this material: Podcasts. Podcasts made available by the two Big Tech companies let you tune into the world of the QAnon conspiracy theory, wallow in President Donald Trump's false claims of a stolen election and bask in other extremism.
+
+
+***
+![Sideloading iOS Apps No Longer Possible on M1 Macs](https://images.macrumors.com/t/1SJeSXcyoLj6j2bOU7FvO1YjWmc=/1600x/https://images.macrumors.com/article-new/2021/01/m1-mac-sideload-disabled.jpg "Sideloading iOS Apps No Longer Possible on M1 Macs")
+
+
+[Sideloading iOS Apps No Longer Possible on M1 Macs](https://www.macrumors.com/2021/01/15/m1-macs-sideloading-ios-apps-no-longer-possible/)
+
+
+> 8 minutes ago at 12:53 pmOH NO, this app that's optimized for touch can't be sideloaded on this mouse-first operating system that can install native apps from outside the app store. What are we going to do?!Score: 1 Votes (Like | Disagree)
+
+
