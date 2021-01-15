@@ -6180,3 +6180,50 @@
 > Source: iMore A new Bloomberg report claims that Apple has a whole raft of new products in the works across the iMac, Mac Pro, and display lineups. Including a replacement for the popular $999 Thunderbolt Display. Starting with the iMacs, Bloomberg's report says that Apple is working on versions to replace the existing 21.5-inch and 27-inch models, although it isn't clear what the sizes will be for the new models. The design will be all-new, with something more closely resembling the Pro Display XDR aesthetic, the report claims.
 
 
+***
+![Twitter clampdown will go beyond Trump ban, Jack Dorsey tells staff](https://www.telegraph.co.uk/content/dam/technology/2020/11/18/TELEMMGLPICT000244720968_trans_NvBQzQNjv4BqqGw_8_YqFn6oOhW46YSWn9SnJ5Axt_dPFfgBF_QqPcg.jpeg?impolicy=logo-overlay "Twitter clampdown will go beyond Trump ban, Jack Dorsey tells staff")
+
+
+[Twitter clampdown will go beyond Trump ban, Jack Dorsey tells staff](https://www.telegraph.co.uk/technology/2021/01/15/twitter-clampdown-will-go-beyond-trump-ban-jack-dorsey-tells/)
+
+
+> Twitter's clampdown on extremist accounts will be 'much bigger' than simply banning US President Donald Trump, the company's chief executive has said. The social media giant made the decision to remove Mr Trump from the platform last week following the storming of the US Capitol building by rioters. At the time Twitter said it had decided to suspend the account due to the risk of 'further incitement of violence'. The decision quickly drew criticism. Angela Merkel, German chancellor said the ban was a 'problematic' breach of the 'fundamental right to free speech'.
+
+
+***
+!['Human etch-a sketch': GPS art, burbing and my attempt to recreate the Guardian masthead](https://i.guim.co.uk/img/media/76f4beac1fb6db63626f9a959d23f81d3ea26deb/3_0_2308_1385/master/2308.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=30a54941abb94ae4cf146c400d891196 "'Human etch-a sketch': GPS art, burbing and my attempt to recreate the Guardian masthead")
+
+
+['Human etch-a sketch': GPS art, burbing and my attempt to recreate the Guardian masthead](https://www.theguardian.com/technology/2021/jan/15/human-etch-a-sketch-gps-art-burbing-and-my-attempt-to-recreate-the-guardian-masthead)
+
+
+> H enry David Thoreau once wrote: 'This world is but a canvas to our imagination.' More than 150 years later, a new generation of artists tracing their movements via GPS to create sketches are proving Thoreau's words remarkably prescient. That's what Strava art is at its core. Named after the fitness tracking app that has previously helped reveal secret US military bases – and also referred to as GPS art or GPX – your movements are the paint and a city block your brush stroke. Think of them as 21st century digital geoglyphs.
+
+
+***
+[WhatsApp postpones new privacy policy amid ‘confusion'](https://www.engadget.com/whatsapp-postpones-privacy-policy-facebook-201439528.html)
+
+
+> WhatsApp's decision to delay the new policy comes after the company abruptly introduced privacy changes earlier this month with a pop-up warning that users could accept the new policy by Feb. 8, or lose their ability to use the app altogether. The new terms address the company's recent focus on business messaging, a feature that's widely used in many places outside the US. But the warning alarmed many users, who interpreted the changes as Facebook tightening its grip over their data.Now, WhatsApp is walking back some of its previous messaging.
+
+
+***
+![WhatsApp extends 'confusing' update deadline](https://ichef.bbci.co.uk/news/1024/branded_news/16264/production/_116542709_gettyimages-1230506428.jpg "WhatsApp extends 'confusing' update deadline")
+
+
+[WhatsApp extends 'confusing' update deadline](https://www.bbc.com/news/technology-55683745)
+
+
+> By Zoe Kleinman Technology reporter image copyright Getty Images WhatsApp has extended the deadline by which its two billion users must either accept its updated terms and conditions or stop using the service. The original cut-off date was 8 February, but users now have until 15 May to take action. The firm was criticised for sending the notification, which seemed to suggest changes to the data it would share with its parent company Facebook. It said there had been "confusion" about its message. Since the announcement and notifications went out across its platform, millions of people around the world have downloaded alternative encrypted messaging apps such as Signal and Telegram.
+
+
+***
+![Telegram, Signal, WhatsApp and Facebook: which is better?](https://www.telegraph.co.uk/content/dam/technology/2021/01/15/TELEMMGLPICT000248551683_trans_NvBQzQNjv4BqNLFz2QTH6RCwPE4UPA-sBXscu9DLydgRMsIYCvwcfZE.jpeg?impolicy=logo-overlay "Telegram, Signal, WhatsApp and Facebook: which is better?")
+
+
+[Telegram, Signal, WhatsApp and Facebook: which is better?](https://www.telegraph.co.uk/technology/0/telegram-signal-whatsapp-facebook-better/)
+
+
+> In the UK, messaging platform WhatsApp has assumed the role of default communication tool, usurping text messages and redefining how Britons communicate on their phones.  However, concern has been growing over the platform's privacy credentials, a mood which has been exacerbated by the app's relationship with its parent company Facebook which seems to be growing ever closer.  In January, WhatsApp issued a privacy update saying that the app reserves the right to share user data, including location and phone number, with its parent Facebook and units such as Instagram and Messenger.
+
+
