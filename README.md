@@ -5849,3 +5849,53 @@
 > Image Credit: Shutterstock New Delhi, Jan 15 (IANS) As WhatsApp faces intense scrutiny over its upcoming data and privacy policy in India and elsewhere, another user data violation has been reported, this time on the WhatsApp on Desktop (Web) application, allegedly exposing personal mobile numbers via indexing on Google Search. Although WhatsApp is primarily a mobile app, currently being used by over 400 million users in India, some working professionals also use the instant chat app on their desktops and PCs via the Web version.
 
 
+***
+![Nvidia could make mining GPUs again, and that's good news for gamers](https://cdn.mos.cms.futurecdn.net/MTRxvpWaPwkwUQa62PDQok-1200-80.jpg "Nvidia could make mining GPUs again, and that's good news for gamers")
+
+
+[Nvidia could make mining GPUs again, and that's good news for gamers](https://www.techradar.com/news/nvidia-could-make-mining-gpus-again-and-thats-good-news-for-gamers)
+
+
+> (Image credit: Future) Nvidia is keeping a close watch on developments with crypto-mining regarding its graphics cards, and is potentially ready to again start making new dedicated GPUs for that purpose – a move that could potentially help ease the stock pressures on RTX 3000 products . This news comes from a conference call with Nvidia's CFO Colette Kress as reported by Seeking Alpha , in which the subject of whether cryptocurrency mining has contributed ‘meaningfully' to RTX 3000 sales – and the huge demand for Ampere GPUs – was raised.
+
+
+***
+![Amazon opens Alexa AI tech for the first time so car makers can build custom assistants](https://cdn.vox-cdn.com/thumbor/A_SO4aG6EAUEC1bRfk1tzaycKiY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10817641/acastro_180510_1777_alexa_0003.jpg "Amazon opens Alexa AI tech for the first time so car makers can build custom assistants")
+
+
+[Amazon opens Alexa AI tech for the first time so car makers can build custom assistants](https://www.theverge.com/2021/1/15/22231336/amazon-alexa-auto-ai-custom-digital-assistants-car-makers)
+
+
+> Illustration by Alex Castro / The Verge Amazon is giving car companies the unprecedented privilege of accessing the core artificial intelligence underpinning its Alexa digital assistant, a first for the company's AI platform. While Amazon has allowed companies to build skills for Alexa and allows pretty much any consumer electronic device maker to integrate Alexa into a compatible product, the e-commerce giant has not licensed the underlying AI tech for use in other assistant-like products. Amazon is calling the new offering Alexa Custom Assistant.
+
+
+***
+![Fitbit and Google merger: What happens to your health data now search giant owns it](https://static.independent.co.uk/2021/01/15/12/GettyImages-1166631283.jpg "Fitbit and Google merger: What happens to your health data now search giant owns it")
+
+
+[Fitbit and Google merger: What happens to your health data now search giant owns it](https://www.independent.co.uk/life-style/gadgets-and-tech/fitbit-and-google-merger-what-happens-to-you-health-data-now-search-giant-owns-it-b1787865.html)
+
+
+> Google's acquisition of fitness company Fitbit is nearing completion. Following the company's $2.1bn (£1.54bn) purchase, it faced investigation from the US government, the EU, and Australian government about its use of data. Many users will have the same question – how is Fitbit data going to be used by Google?For EU citizens, what happens to their data is certain. In a post-Brexit world, it remains unclear how it will affect those in the UK.'While we cannot know for certain, our understanding is that the European Commission acts as an umbrella competition authority for all EU member states and therefore carries out the review of the merger somehow on their behalf too.
+
+
+***
+![Samsung Galaxy S21 pre-orders](https://i2-prod.mirror.co.uk/incoming/article23321650.ece/ALTERNATES/s1200/0_Galaxy-Unpacked-January-2021.jpg "Samsung Galaxy S21 pre-orders")
+
+
+[Samsung Galaxy S21 pre-orders](https://www.mirror.co.uk/tech/samsung-galaxy-s21-pre-orders-23324694)
+
+
+> It's the moment Samsung fans have been waiting for - yes the launch of their latest handsets is here and they are gorgeous. The new Samsung Galaxy S21 5G, Samsung Galaxy S21+ 5G and Samsung Galaxy S21 Ultra 5G are available for pre-order now at all major outlets. You can buy the Samsung Galaxy S21 5G outright from £22.75 a month, or £819, and comes in six stunning colourways: Phantom Grey, Phantom Pink, Phantom Violet, Phantom White, Phantom Black and Phantom Silver. The Samsung Galaxy S21+ costs £27.
+
+
+***
+![The latest GeForce driver is causing major issues for some users](https://cdn.mos.cms.futurecdn.net/Sef7zkUdzZg7KGMvarcvQi-1200-80.jpg "The latest GeForce driver is causing major issues for some users")
+
+
+[The latest GeForce driver is causing major issues for some users](https://www.techradar.com/news/the-latest-geforce-driver-is-causing-major-issues-for-some-users-heres-how-to-fix-them)
+
+
+> (Image credit: Nvidia) The first GeForce driver update of 2021 was released in early January with the promise of fixing problems that had been plaguing many Nvidia GPUs (graphics processing units).  However, despite noting some open issues at release, the list of software and games affecting by the GeForce 461.09 driver is growing steadily longer, with the update rendering programs completely unusable for some. From game crashes, graphical stuttering or flickering, and huge drops in frame rates, the GeForce 461.
+
+
