@@ -5899,3 +5899,53 @@
 > (Image credit: Nvidia) The first GeForce driver update of 2021 was released in early January with the promise of fixing problems that had been plaguing many Nvidia GPUs (graphics processing units).  However, despite noting some open issues at release, the list of software and games affecting by the GeForce 461.09 driver is growing steadily longer, with the update rendering programs completely unusable for some. From game crashes, graphical stuttering or flickering, and huge drops in frame rates, the GeForce 461.
 
 
+***
+![WandaVision episode 1 recap: Marvel goes to places it's never been before](https://cdn.mos.cms.futurecdn.net/JURQN2DRZnGZ4eqPNv33cZ-1200-80.jpg "WandaVision episode 1 recap: Marvel goes to places it's never been before")
+
+
+[WandaVision episode 1 recap: Marvel goes to places it's never been before](https://www.techradar.com/news/wandavision-episode-1-recap-review)
+
+
+> About this episode- Episode 1 (of 9), ‘Episode 1' - Written by Jac Schaeffer - Directed by Matt Shakman ★★★★Spoilers for WandaVision follow.A black-and-white television screen switches on. A 1950s era car decorated with a 'Just Married' sign drives into the picturesque town of Westview – a classic piece of Americana. Scarlet Witch/Wanda Maximoff is in a wedding dress, and sitting alongside the Avengers' resident Synthezoid, Vision, dressed in a suit.A '50s-style theme song tells of a newlywed couple who just moved to town, having left the big city to find a quiet life.
+
+
+***
+![These cases will keep your G7 Power fully protected](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/04/moto-g7-power-smartphone.jpg "These cases will keep your G7 Power fully protected")
+
+
+[These cases will keep your G7 Power fully protected](https://www.androidcentral.com/best-cases-moto-g7-power)
+
+
+> Best Moto G7 Power Cases Android Central 2021 Announced alongside the Moto G7 in early 2019, the G7 Power is a bit beefier than its brethren thanks to its 5,000mAh battery, which should last for days. As with any smartphone, you'll want to make sure it's protected, and we have you covered with a selection of the best Moto G7 Power cases. Staff Pick Spigen is one of the best case-makers around, due to its reliability and customer support. The company has finally released a fan-favorite for the G7 Power with the new Rugged Armor case.
+
+
+***
+![Facebook's AI DeiT paper explained in 5 minutes (computer vision model)](https://external-preview.redd.it/B_uzt0Xyq8uBdGR2GUsCnYbqWBYfa5Shr89BIerfLGg.jpg?auto=webp&s=7d475ec1265dcb0f1f3299a6fe67709ff9df992c "Facebook's AI DeiT paper explained in 5 minutes (computer vision model)")
+
+
+[Facebook's AI DeiT paper explained in 5 minutes (computer vision model)](https://www.reddit.com/r/programming/comments/kxv180/facebooks_ai_deit_paper_explained_in_5_minutes/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![HELP](https://forums.macrumors.com/attachments/2021-01-14-11-04-36-png.1713276/ "HELP")
+
+
+[HELP](https://forums.macrumors.com/threads/help-about-macbook-ssd-data-units-writes.2280385/)
+
+
+> Hi. I was happy to get my first MacBook. At that time I was curious about my disk speed, so downloaded Blackmagic Disk Speed Test from App Store. After I clicked it, I forgot to cancel (I didn't know it kept running until I felt something strange to this app ) and it lasted for some minutes. I was worried if it occupied my SSD TBWs so installed DriveDX. Consequently I saw the Data Units Written is 1.5TB... This is insane and I am afraid I did something wrong to my Mac...I even did not know how much in 1.
+
+
+***
+![This tiny shortcut can completely crash your Windows 10 device](https://cdn.mos.cms.futurecdn.net/NCGZb76FMtrm5hVmV2HMMS-1200-80.jpg "This tiny shortcut can completely crash your Windows 10 device")
+
+
+[This tiny shortcut can completely crash your Windows 10 device](https://www.techradar.com/news/this-tiny-shortcut-can-completely-crash-your-windows-10-device)
+
+
+> (Image credit: Shutterstock) A zero-day exploit has been discovered that can crash your Windows 10 device – and, even more worrying, can be delivered inside a seemingly harmless shortcut file. The vulnerability can corrupt any NTFS-formatted hard drive and even be exploited by standard and low privilege user accounts.Security researcher Jonas Lykkegaard referenced the vulnerability on Twitter last week and had previously drawn attention to the issue on two previous occasions last year. Despite this, the NTFS vulnerability remains unpatched.
+
+
