@@ -6133,3 +6133,50 @@
 > NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console or accessories like wireless headphones.
 
 
+***
+[WhatsApp to delay new privacy policy by three months following widespread confusion over whether the new policy would mandate data sharing with Facebook (Nick Statt/The Verge)](http://www.techmeme.com/210115/p17#a210115p17)
+
+
+> Nick Statt / The Verge: WhatsApp to delay new privacy policy by three months following widespread confusion over whether the new policy would mandate data sharing with Facebook — The new update will now go out on May 15th — WhatsApp on Friday announced a three-month delay of a new privacy policy originally slated …
+
+
+***
+![WhatsApp halts rollout of controversial privacy policy update](https://static.independent.co.uk/2020/08/19/11/breaking-news.png "WhatsApp halts rollout of controversial privacy policy update")
+
+
+[WhatsApp halts rollout of controversial privacy policy update](https://www.independent.co.uk/life-style/gadgets-and-tech/whatsapp-update-privacy-policy-b1788117.html)
+
+
+> People will now have three extra months to agree to its new rules, the company said.And WhatsApp has committed to try and distribute more information about the rules in advance of the deadline in the hope of dispelling what it says is 'misinformation'.Users had originally been told they had to agree to the new rules by 8 February, or face having their accounts suspended or deleted.Instead, users will have until 15 May before they are forced to agree to the rules, in the hope that they can 'review the policy at their own pace'.
+
+
+***
+![WhatsApp delays enforcement of privacy terms by 3 months, following backlash – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1230557386-1.jpg?w=601 "WhatsApp delays enforcement of privacy terms by 3 months, following backlash – TechCrunch")
+
+
+[WhatsApp delays enforcement of privacy terms by 3 months, following backlash – TechCrunch](https://techcrunch.com/2021/01/15/whatsapp-delays-new-data-sharing-policy-enforcement-to-may-15/)
+
+
+> WhatsApp said on Friday that it won't enforce its new data-sharing policy until May 15, weeks after news about the new terms created confusion among its users, exposed the Facebook-app to a potential lawsuit, launched a nationwide investigation, and drove a lot of its loyal fans to explore alternative messaging apps. 'We're now moving back the date on which people will be asked to review and accept the terms. No one will have their account suspended or deleted on February 8. We're also going to do a lot more to clear up the misinformation around how privacy and security works on WhatsApp.
+
+
+***
+![Get your clickity clack on with the best mechanical keyboards for Mac!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/christine-keychron-k2-custom-hero.jpg "Get your clickity clack on with the best mechanical keyboards for Mac!")
+
+
+[Get your clickity clack on with the best mechanical keyboards for Mac!](https://www.imore.com/best-mechanical-keyboards-mac)
+
+
+> Best Mechanical Keyboards for Mac iMore 2021 Keyboards are subjective and while some of us may be fine with Apple's Magic Keyboard and other chiclet-style keys, others prefer to hear and feel every keystroke, which is where mechanical keyboards come in. With a mechanical keyboard, you get physical switches (and there are a lot of different ones out there), as well as the option to change your entire set of keycaps to something more aesthetically pleasing. If that's what floats your boat, Mechanical keyboards are highly customizable and can even make you feel more productive while at the computer.
+
+
+***
+![Apple reportedly has new iMacs, a new display, and new Mac Pros coming](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/08/imac-27-inch-2020-01.jpeg "Apple reportedly has new iMacs, a new display, and new Mac Pros coming")
+
+
+[Apple reportedly has new iMacs, a new display, and new Mac Pros coming](https://www.imore.com/apple-reportedly-has-new-imacs-new-display-and-new-mac-pros-coming)
+
+
+> Source: iMore A new Bloomberg report claims that Apple has a whole raft of new products in the works across the iMac, Mac Pro, and display lineups. Including a replacement for the popular $999 Thunderbolt Display. Starting with the iMacs, Bloomberg's report says that Apple is working on versions to replace the existing 21.5-inch and 27-inch models, although it isn't clear what the sizes will be for the new models. The design will be all-new, with something more closely resembling the Pro Display XDR aesthetic, the report claims.
+
+
