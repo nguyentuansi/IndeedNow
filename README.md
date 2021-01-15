@@ -5608,3 +5608,50 @@
 > (Image credit: Srivatsa Ramesh) The Trump administration has been severe on Chinese tech companies. While Huawei has borne the maximum brunt of the outgoing US president, it has now trained the guns on another major Chinese smartphone maker Xiaomi which along with 8 other Chinese companies have been blacklisted.These companies include state-owned plane manufacturer Commercial Aircraft Corp. of China (Comac), China National Offshore Oil Corp. (CNOOC), Skyrizon apart from the third-largest smartphone maker Xiaomi and others are facing the ire of the Trump administration for alleged links with the Chinese military, Reuters reported.
 
 
+***
+![Twitter prepares for US presidential inauguration, transition of accounts](https://assets2.rappler.com/2021/01/biden-harris-twitter-shutterstock-January-15-2021-1610693334472.jpg "Twitter prepares for US presidential inauguration, transition of accounts")
+
+
+[Twitter prepares for US presidential inauguration, transition of accounts](https://www.rappler.com/technology/social-media/twitter-prepares-united-states-presidential-inauguration-account-transition)
+
+
+> Twitter on Thursday, January 14, said it was gearing up for the US presidential inauguration by outlining its plans for the transition of the various accounts related to President-elect Joe Biden's administration. The Trump administration @POTUS account will be archived as @POTUS45, for example. Twitter noted how the transition of power would be visible in real-time, at least on the social media service, as relevant accounts' institutional usernames are changed for the White House, President, Vice President, First Lady and the White House Press Secretary, with the ownership of those accounts transferred to the Biden administration.
+
+
+***
+![Looking for long term offers? Airtel, BSNL, Jio, Vi offer these prepaid plans with 365 days validity](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/img_20201216_122139_2-483x271_1200_210115130705.jpeg "Looking for long term offers? Airtel, BSNL, Jio, Vi offer these prepaid plans with 365 days validity")
+
+
+[Looking for long term offers? Airtel, BSNL, Jio, Vi offer these prepaid plans with 365 days validity](https://www.indiatoday.in/technology/news/story/looking-for-long-term-offers-airtel-bsnl-jio-vi-offer-these-prepaid-plans-with-365-days-validity-1759337-2021-01-15)
+
+
+> Some annual plans give streaming benefits with yearly subscriptions to OTT platforms like Eros Now and Disney+ Hotstar. Annual plans may save users some money if tariffs were to be increased by telcos this year. Yasmin Ahmed | January 15, 2021 | Updated 12:44 IST
+
+
+***
+![Vaio returns to India with new series of ultraportable laptops, price starts at Rs 66,990](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202101/vaio_e15-647x363.jpeg?cs9KHK4kYZMdE3jAHynd_TeDSSjpiDpZ "Vaio returns to India with new series of ultraportable laptops, price starts at Rs 66,990")
+
+
+[Vaio returns to India with new series of ultraportable laptops, price starts at Rs 66,990](https://www.indiatoday.in/technology/news/story/vaio-returns-to-india-with-new-series-of-ultraportable-laptops-price-starts-at-rs-66-990-1759362-2021-01-15)
+
+
+> Vaio has launched two new laptops, E15 and SE14 in India. The E14 is powered by AMD Ryzen 5 and Ryzen 7 processors. Powering the Vaio SE14 is the Intel Core i5 chipset. Vaio. Does this name ring a bell? If yes, you are a keeper but if you cannot recall, Vaio was one of the popular (and premium) laptop brands in India about a decade ago. Sony Vaio laptops were among the flagship models you could get in the market and the specifications sheet of these laptops was full of high-end features and components.
+
+
+***
+[Shares in China's Xiaomi tumble after US investment ban](https://www.ft.com/content/8807f7dd-bf76-400c-9bbf-9f713ce5ba57)
+
+
+> Journalists in 50+ countries explore developments in global commerce from every perspective. For Premium subscribers, we offer our dedicated ‘FT Free Trade' newsletter every Tuesday and Thursday.
+
+
+***
+![Samsung Galaxy S21 and S21 Ultra in 10 points: High India prices, no charger, Exynos 2100, other key details](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-15_at_12_1200_210115122204.03_2-483x271.png "Samsung Galaxy S21 and S21 Ultra in 10 points: High India prices, no charger, Exynos 2100, other key details")
+
+
+[Samsung Galaxy S21 and S21 Ultra in 10 points: High India prices, no charger, Exynos 2100, other key details](https://www.indiatoday.in/technology/features/story/samsung-galaxy-s21-and-s21-ultra-in-10-points-high-india-prices-no-charger-exynos-2100-other-key-details-1759323-2021-01-15)
+
+
+> Samsung Galaxy S21, Galaxy S21+ and the Galaxy S21 Ultra have been launched in India. Here is everything important you need to know about them as far as India is concerned, including the prices of the Galaxy S21 series phones. India Today Tech | January 15, 2021 | Updated 12:17 IST
+
+
