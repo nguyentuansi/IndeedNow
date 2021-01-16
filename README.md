@@ -6747,3 +6747,53 @@
 > With companies like Samsung, Xiaomi and LG dipping their toes in the foldable phone segment, Apple is also exploring how it can put a foldable screen in the iPhone. Also, this year the iPhone 13 with a fingerprint display is likely. India Today Tech | January 16, 2021 | Updated 12:33 IST
 
 
+***
+![Weekly Bytes](https://www.thehindu.com/sci-tech/technology/iaddul/article33586652.ece/ALTERNATES/LANDSCAPE_615/Lenovo-ThinkReality-A3 "Weekly Bytes")
+
+
+[Weekly Bytes](https://www.thehindu.com/sci-tech/technology/weekly-bytes-lenovos-smart-glasses-spacex-expanding-starlinks-reach-and-more/article33586748.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Lenovo's ThinkReality A3 smart glassesLenovo has introduced ThinkReality A3 smart glasses for the enterprise. From customised virtual monitors and 3D visualisation to Augmented Reality-assisted workflows and immersive training, the smart glasses can be used to transform work across many levels of the enterprise, Lenovo noted in a statement. The device is powered by the Qualcomm Snapdragon XR1 Platform, and through stereoscopic 1080p displays users can see up to 5 virtual displays.
+
+
+***
+![A Brief Introduction To Clang-Tidy And Its Role in Visual Assist](https://external-preview.redd.it/0bdZpb1GFjV2KpX9vz8fRu3VveXBDyLpjf52SbWxp7c.jpg?auto=webp&s=bfb46c46d2e7efc3c177dc6ba37538b33691cccf "A Brief Introduction To Clang-Tidy And Its Role in Visual Assist")
+
+
+[A Brief Introduction To Clang-Tidy And Its Role in Visual Assist](https://www.reddit.com/r/programming/comments/kyfe2o/a_brief_introduction_to_clangtidy_and_its_role_in/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Samsung S Pen Pro Pencil-Sized Stylus Launched Alongside Galaxy S21 Series](https://i.gadgets360cdn.com/large/spen_pro_youtube_1610786135389.jpg "Samsung S Pen Pro Pencil-Sized Stylus Launched Alongside Galaxy S21 Series")
+
+
+[Samsung S Pen Pro Pencil-Sized Stylus Launched Alongside Galaxy S21 Series](https://gadgets.ndtv.com/mobiles/news/samsung-s-pen-pro-pencil-sized-stylus-launched-bluetooth-support-price-features-galaxy-s21-ultra-5g-2353444)
+
+
+> Samsung Galaxy S21 Ultra 5G is the first Galaxy S series handset to offer stylus support. This phone does not come with a stylus slot, but an S Pen can be bought separately for use on the display. Alongside the new phones, Samsung also introduced the S Pen Pro – a pencil-sized larger model of the S Pen that is more comfortable to use and hold. This works with Samsung Galaxy S21 Ultra 5G, but because it is larger than the S Pen, storing it within the new case won't be possible.The pricing and availability details of the S Pen Pro haven't been announced and it is expected to be made available later this year.
+
+
+***
+![Samsung Galaxy S21 Ultra unboxing, first impressions](https://images.indianexpress.com/2021/01/Samsung-Galaxy-S21-Ultra-5-1.jpg "Samsung Galaxy S21 Ultra unboxing, first impressions")
+
+
+[Samsung Galaxy S21 Ultra unboxing, first impressions](https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-s21-ultra-unboxing-first-impressions-7148811/)
+
+
+> Samsung Galaxy S21 Ultra, which is the most premium phone in the Galaxy S21 series, is currently available for pre-booking in India. The device comes with a starting price of Rs 1,05,999, which is for the base 12GB RAM + 128GB storage configuration. The top-end 16GB RAM + 512GB storage model is priced at Rs 1,16,999. The Samsung Galaxy S21 Ultra ships with a 108MP quad rear camera setup, and it is the first Galaxy S series phone to come with S Pen support. We have done an unboxing of the flagship phone given the huge interest around the latest Samsung phones.
+
+
+***
+![TechRap: Unboxing the Samsung Galaxy S21](https://i.ytimg.com/vi/m5P-Y3oHdiQ/maxresdefault.jpg "TechRap: Unboxing the Samsung Galaxy S21")
+
+
+[TechRap: Unboxing the Samsung Galaxy S21](https://www.rappler.com/technology/gadgets/techrap-samsung-galaxy-s21-unboxing)
+
+
+> Samsung launched the newest model in their S series on Thursday, January 14. Three variants were launched: the base S21, the S21 Plus, and the S21 Ultra. All of the new phones will carry a new 5nm processor, and 120Hz displays, among other features. We unbox the base S21 here. Check it out. – Rappler.com
+
+
