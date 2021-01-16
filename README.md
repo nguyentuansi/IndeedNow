@@ -6559,3 +6559,53 @@
 > The boom in video game play is poised to continue this year. — IStock.com pic SAN FRANCISCO, Jan 16 — Sales of video games, consoles and accessories hit a record high in the US last year as people hunkered down at home due to the pandemic turned to play. Video game spending in the US totalled US$56.9 billion (RM229.6 billion) last year, 27 per cent more than what was spent in 2019, according NPD market research group analyst Mat Piscatella. A total of US$7.7 billion of that was spent in December, which posted the highest sales figures ever for that month, NPD figures showed.
 
 
+***
+![All the best gaming keyboards for keeping you on target](https://mondrian.mashable.com/2021%252F01%252F13%252F06%252F0b729fcd350c4b3d804122a1beb4d975.c5441.jpg%252F1200x630.jpg?signature=cZeUyLpYXc4yCGw7bnovjLU96k8= "All the best gaming keyboards for keeping you on target")
+
+
+[All the best gaming keyboards for keeping you on target](https://mashable.com/uk/roundup/best-gaming-keyboards-uk/)
+
+
+> Many gaming keyboard brands offer similar features, but serious gamers know what sets the best keyboards apart. If you're looking for something that can help you reach your peak gaming potential, you should keep your eyes peeled for a few key features. Fortunately for those not in the know, we have lined up everything you need to know about gaming keyboards so that you can make an informed purchase decision. We're happy to help. What should you look for in a gaming keyboard? After much consideration, these are the most important factors when it comes to picking a gaming keyboard: Switches: Keyboard switches — which sit underneath each key — pick up what you put down.
+
+
+***
+![This online guide to trading stocks is on sale for under &#163;40](https://mondrian.mashable.com/2021%252F01%252F16%252F1c%252F340ec9fb50f44eceb057f76b8c53aa57.06014.jpg%252F1200x630.jpg?signature=T-Qw3-CED8Y7DYQPaUp8oaWe9s4= "This online guide to trading stocks is on sale for under &#163;40")
+
+
+[This online guide to trading stocks is on sale for under &#163;40](https://mashable.com/uk/shopping/jan-16-trading-analysis-bundle-sale/)
+
+
+> TL;DR: The Premium Novice-to-Expert Day Trading and Technical Analysis Bundle is on sale for £36.62 as of Jan. 16, saving you 97% on list price. Investing is not an easy subject to understand, no matter which way you swing it. And with the shape of the stock market changing constantly, it's become even more complicated. But fortunately, with the right education, you can learn to better manage stocks through analytics. That's where this Premium Novice-to-Expert Day Trading Bundle comes in. This 10-course bundle from Wealthy Education shows you how to become a stock game master.
+
+
+***
+![Create engaging social media content for your brand with this course](https://mondrian.mashable.com/2021%252F01%252F16%252F20%252F8a5fdfe9ca6d4f059c767b759348fca4.a28b4.jpg%252F1200x630.jpg?signature=JoD7lKGHcbBo5wx4K4_e6RjwxXg= "Create engaging social media content for your brand with this course")
+
+
+[Create engaging social media content for your brand with this course](https://mashable.com/uk/shopping/jan-16-digital-content-marketing-online-learning-sale/)
+
+
+> TL;DR: The Complete Digital Content Marketing Mastery Bundle is on sale for £25.57 as of Jan. 16, saving you 97% on list price. There's good content and there's great content. But here's a tip: your brand won't thrive on social media if your content is sub-par. Luckily, with a bit of guidance from the pros, you can take your content from drab to fab, and maybe even start bringing in some profit. The Complete Digital Content Marketing Mastery Bundle offers just the training you need to make yourself useful and your followers happy.
+
+
+***
+![Access all of your favourite streaming sites with this cheap subscription](https://mondrian.mashable.com/2021%252F01%252F16%252F7d%252Fc5d6514196df4410ac86360c7a868c4f.3a861.jpg%252F1200x630.jpg?signature=wqt_GE7LNmmUtuAmUldCD2KMj6c= "Access all of your favourite streaming sites with this cheap subscription")
+
+
+[Access all of your favourite streaming sites with this cheap subscription](https://mashable.com/uk/shopping/jan-16-private-internet-access-vpn-deal/)
+
+
+> SAVE 78%: A two-year subscription to Private Internet Access is on sale for £2.19 per month, and includes an extra two months for free. Streaming sites have arguably never been more important, as they collectively absorb everyone's need for entertainment at this time.  The thing is, even the best streaming sites have a limited selection of films and shows, and you're likely to run low on options if you're bingeing on content every night. This is where a VPN can help. These services can be used to unlock content from other locations, like all of the extra content on American Netflix.
+
+
+***
+![WhatsApp delays Facebook data sharing policy, but the damage is done](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_blw/public/article_images/2020/12/whatsapp-logo.jpg "WhatsApp delays Facebook data sharing policy, but the damage is done")
+
+
+[WhatsApp delays Facebook data sharing policy, but the damage is done](https://www.androidcentral.com/whatsapp-delays-facebook-data-sharing-policy-after-user-backlash)
+
+
+> Source: Harish Jonnalagadda / Android Central WhatsApp updated its privacy policy last week, with the platform noting that it would mandate sharing user data with Facebook. The move led to a mass exodus, with users flocking to Signal and Telegram. Signal is actually down right now because of the influx of users making the switch from WhatsApp, and Telegram revealed that it picked up 25 million new users over the course of the last week. To limit the damage even further, WhatsApp is now delaying the enforcement of the new privacy policy.
+
+
