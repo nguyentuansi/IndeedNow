@@ -7088,3 +7088,53 @@
 > (Image credit: TechRadar) With the likes of Spotify and Twitter among the big tech names making investments in the podcast space in recent months, the stock of these serialized audio (and video) shows has never been higher – and it looks as though Apple has taken note.Bloomberg has the scoop that Apple is planning a premium podcast subscription service at some point in 2021, and is also investing in exclusive, original programs that it can package up and sell to users.Seasoned Apple watchers will know that this isn't a new rumor: Bloomberg also reported that Apple was getting into the podcast production business back in 2019, so this doesn't seem to be something that the company is rushing into.
 
 
+***
+![CES 2021: Tech to control your devices remotely](https://ichef.bbci.co.uk/images/ic/400xn/p09449gb.jpg "CES 2021: Tech to control your devices remotely")
+
+
+[CES 2021: Tech to control your devices remotely](https://www.bbc.com/news/av/technology-55669388)
+
+
+> Some of the devices featuring at the 2021 CES technology expo have been designed to help users avoid touching items like computers, phones and touchscreens. BBC Click's Omar Mehtab puts some of them to the test. See more at Click's website and @BBCClick
+
+
+***
+![9 ways to speak up and appear more confident during virtual meetings](https://i.insider.com/5ff8d7fdd184b30018aade42?width=1200&format=jpeg "9 ways to speak up and appear more confident during virtual meetings")
+
+
+[9 ways to speak up and appear more confident during virtual meetings](https://melodywilding.com/how-to-appear-more-confident-project-executive-presence-virtual-meetings/)
+
+
+> At least once a week, I hear from leaders who ask, "How do I project more executive presence?" And now, in light of the ongoing global pandemic, these same top performers wonder how to capture ever-elusive executive presence in virtual meetings as well. Appearing confident via video is essential regardless of whether you want to: Advance to senior management Be assigned to higher-profile assignments Earn a promotion or raise Build influence and visibility  But projecting authority online is easier said than done, especially for Sensitive Strivers.
+
+
+***
+![Talking Tech: 3 things we learned from CES 2021](https://www.gannett-cdn.com/presto/2021/01/14/USAT/468c39a1-bee8-4574-806b-95153a820255-samsung-bot-handy-dishwasher.jpg?crop=1115,628,x42,y0&width=1600&height=800&fit=bounds "Talking Tech: 3 things we learned from CES 2021")
+
+
+[Talking Tech: 3 things we learned from CES 2021](https://www.usatoday.com/story/tech/2021/01/16/talking-tech-ces-2021-over-here-3-things-we-learned/4178373001/)
+
+
+> Welcome back, Talking Tech readers! This is co-host Brett Molina here to bring you the latest headlines in tech. It's January, which means CES season. The tech bonanza, known previously as the Consumer Electronics Show, provided glimpses into the future of tech, both immediate and way down the road (sorry, no flying cars this year ). Now that the robots have powered down and CES wraps up another year, here's a look at three things we learned: 1. Making you more comfortable at home As you recall, CES was all virtual this year, thanks to the pandemic.
+
+
+***
+![Tech scrambles to derail inauguration threats](https://images.axios.com/v3-BxQxddDBVO9fpLz19c35m_iM=/0x0:1920x1080/1366x768/2021/01/15/1610750325548.jpg "Tech scrambles to derail inauguration threats")
+
+
+[Tech scrambles to derail inauguration threats](https://www.axios.com/tech-action-prevent-inauguration-violence-fcd90c04-d2c6-4379-9b2b-620ec5b01d2e.html)
+
+
+> Tech companies are sharing more information with law enforcement in a frantic effort to prevent violence around the inauguration, after the government was caught flat-footed by the Capitol siege. Between the lines: Tech knows it will be held accountable for any further violence that turns out to have been planned online if it doesn't act to stop it. Driving the news: Facebook on Friday announced new measures aimed at preventing people from using its platform to foment violence. The company is blocking the creation of new Facebook events in locations close to the White House, U.
+
+
+***
+![Future Tense Newsletter: Welcome to the Great Deplatforming](https://compote.slate.com/images/1d4c962f-923f-4c21-a9eb-4b4b9b13967d.jpeg?width=780&height=520&rect=1560x1040&offset=0x0 "Future Tense Newsletter: Welcome to the Great Deplatforming")
+
+
+[Future Tense Newsletter: Welcome to the Great Deplatforming](https://slate.com/technology/2021/01/future-tense-newsletter-great-deplatforming.html)
+
+
+> On the morning of Jan. 6, I was cackling over 'Stop the Steal' rally attendees' clueless posts about parking in Washington. Future Tense contributor Faine Greenwood was lurking on TheDonald.win, a Trump fan discussion site, and tweeted the best examples of out-of-towners fretting about the logistics. (I particularly loved the person who thought that 6 a.m. pandemic D.C. traffic was 'psycho.' Buddy, you have no idea.) By the end of the day, everything seemed a bit less funny. But as a new and furious round of discussion about deplatforming erupted, it still seemed perfect that the morning began for me with screenshots of TheDonald.
+
+
