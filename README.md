@@ -6609,3 +6609,50 @@
 > Source: Harish Jonnalagadda / Android Central WhatsApp updated its privacy policy last week, with the platform noting that it would mandate sharing user data with Facebook. The move led to a mass exodus, with users flocking to Signal and Telegram. Signal is actually down right now because of the influx of users making the switch from WhatsApp, and Telegram revealed that it picked up 25 million new users over the course of the last week. To limit the damage even further, WhatsApp is now delaying the enforcement of the new privacy policy.
 
 
+***
+![Here's why WhatsApp users are fleeing for other platforms](https://cdn.mos.cms.futurecdn.net/BYESBhVrfMopkMQYt6nvNo-1200-80.jpg "Here's why WhatsApp users are fleeing for other platforms")
+
+
+[Here's why WhatsApp users are fleeing for other platforms](https://www.techradar.com/news/heres-why-whatsapp-users-are-fleeing-for-other-platforms)
+
+
+> (Image credit: Shutterstock / Ink Drop) Users are reportedly quitting WhatsApp in their droves after the messaging service introduced controversial new terms and conditions.WhatsApp, which has over two billion users worldwide, began informing users of the changes earlier this week, alarming many with mentions of sharing data from the app with parent company Facebook, despite previously having pledged never to do so.This has led users to flee to the likes of Signal and Telegram, which claim to offer full end-to-end encryption to keep user data safe.
+
+
+***
+![Pre-order Samsung's latest range of Galaxy smartphones](https://mondrian.mashable.com/2021%252F01%252F16%252Faf%252F7cb04d6c7fca46adaff9694f56a95755.538c0.jpg%252F1200x630.jpg?signature=-pVpqf3UzFXtS10jAwUW-dA-cxA= "Pre-order Samsung's latest range of Galaxy smartphones")
+
+
+[Pre-order Samsung's latest range of Galaxy smartphones](https://mashable.com/uk/shopping/jan-16-preorder-samsung-galaxy-s21/)
+
+
+> TL;DR: Pre-order the new Samsung Galaxy S21 range of smartphones before Jan. 28 to claim your free Galaxy Buds Pro and Galaxy SmartTag.  The world of smartphones can go really quiet for months, and then all of a sudden you're hit with big news from the biggest of brands. Samsung is the latest brand to launch a new range of smartphones, and you can now pre-order a Samsung Galaxy S21, S21 Plus, or S21 Ultra. If you pre-order these devices before midnight on Jan. 28, you can claim a free gift from Samsung.
+
+
+***
+[Glyph](https://gonintendo.com/stories/375460-glyph-more-gameplay)
+
+
+> This 3D Open-World Platformer lets you chill-out or speedrun stunning scenery on your quest to restore the ancient temple city by solving puzzles and beating enemies.
+
+
+***
+![Mazda MX-30 crossover EV with rotary backup coming to U.S. » TechnoCodex](https://www.autonews.com/s3/files/styles/800x600/public/MXTHIRTY-MAIN_i_1.jpg "Mazda MX-30 crossover EV with rotary backup coming to U.S. » TechnoCodex")
+
+
+[Mazda MX-30 crossover EV with rotary backup coming to U.S. » TechnoCodex](https://technocodex.com/mazda-mx-30-crossover-ev-with-rotary-backup-coming-to-u-s/)
+
+
+> By Laurence Iliff Last updated Jan 16, 2021Mazda first offered a rotary engine — famously compact, lightweight, high-revving and smooth — in the 1960s and hit gold when it began powering the RX-7 sports car in 1978. The engine was dropped in 2012 though Mazda has flirted with and studied a revival seemingly ever since.The MX-30 launched as an EV in Europe late last year, and it went on sale in Japan as a mild hybrid using an existing Mazda piston engine.Jeff Guyton, president of Mazda North America Operations, described the U.
+
+
+***
+![Signal app goes down amid peak user traffic](https://image-prod.iol.co.za/resize/5760x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/1416efa0-c488-5204-a483-cb5da134594b&operation=CROP&offset=0x303&resize=5760x3240 "Signal app goes down amid peak user traffic")
+
+
+[Signal app goes down amid peak user traffic](https://www.iol.co.za/technology/mobile/signal-app-goes-down-amid-peak-user-traffic-550bfba8-000a-5d8f-acf0-a40f4b93d891)
+
+
+> New Delhi - The users of highly-encrypted Signal app faced trouble sending messages and the company said on Saturday that it was still working to bring additional capacity online to handle peak traffic levels.The problem started late Friday and the company first acknowledged it may be due to technical difficulties.Signal allows for secure and encrypted video, voice and text communication, but users were unable to send any messages."We have been adding new servers and extra capacity at a record pace every single day this week nonstop, but today exceeded even our most optimistic projections.
+
+
