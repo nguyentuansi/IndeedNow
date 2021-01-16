@@ -7038,3 +7038,53 @@
 > The most preferred way to set up a home studio is to start with a simple setup with basic equipment, and expand over time. The amount a user should invest in setting up even the most basic home studio depends on what the user is looking to focus on. Cover singers, rappers, and podcasters usually look to record good quality audio and may not be involved in other aspects of music production. USB microphones are a great choice for beginners who want to focus solely on recording vocals. XLR microphones need an audio interface to work and cannot be connected directly to a computer but they allow multiple mics to be connected at once and are ideal for live shows, elaborate podcasting sessions, and music production.
 
 
+***
+![If Covid-19 Did Start With a Lab Leak, Would We Ever Know?](https://media.wired.com/photos/6000e4a3b7b22587373b2db7/191:100/w_1280,c_limit/Science_covid_lab_1202251791.jpg "If Covid-19 Did Start With a Lab Leak, Would We Ever Know?")
+
+
+[If Covid-19 Did Start With a Lab Leak, Would We Ever Know?](https://www.wired.com/story/if-covid-19-did-start-with-a-lab-leak-would-we-ever-know/)
+
+
+> 'We find ourselves ten months into one of the most catastrophic global health events of our lifetime,' wrote Stanford University immunologist and bio-threat expert Daniel Relman in November, 'and, disturbingly, we still do not know how it began.' That lingering uncertainty is of the utmost importance: The precise origins of the SARS-CoV-2 outbreak, once resolved, will allow us to better prepare for future pandemic threats. But to find out what really happened will require careful and coordinated scientific investigations that are only just now getting underway.
+
+
+***
+![CES is a fantasyland of futuristic products. But this year it was dominated by our bleak present](https://cdn.cnn.com/cnnnext/dam/assets/210115163522-ces-2021-anxiety-restricted-super-tease.jpg "CES is a fantasyland of futuristic products. But this year it was dominated by our bleak present")
+
+
+[CES is a fantasyland of futuristic products. But this year it was dominated by our bleak present](https://www.cnn.com/2021/01/16/tech/ces-2021-anxiety-tech/index.html)
+
+
+> (CNN Business)CES, the closely-watched annual consumer electronics show, often sets the tone for the tech trends of the year — but little did I realize how true that would be last year. On the flight home from Las Vegas in January 2020, I wrote a piece for CNN Business about how the technology of the future paints a very lonely picture for all of us. I had just seen robots who call 911 when you fall down, mechanical companion cats that keep you company and "artificial humans" from startup Neon able to do the same.
+
+
+***
+![Two Mighty Morphin Heroes Just Betrayed the Team » TechnoCodex](https://static3.cbrimages.com/wordpress/wp-content/uploads/2021/01/mighty-morphin-3.jpg "Two Mighty Morphin Heroes Just Betrayed the Team » TechnoCodex")
+
+
+[Two Mighty Morphin Heroes Just Betrayed the Team » TechnoCodex](https://technocodex.com/two-mighty-morphin-heroes-just-betrayed-the-team/)
+
+
+> As the Power Rangers scramble to stop all the threats coming their way, the team suffers two devastating betrayals.WARNING: The following contains spoilers for Mighty Morphin #3 by Ryan Parrott, Marco Renna, Walter Baiamonte, Katia Ranalli, and Ed Dukeshire, on sale now.The Mighty Morphin Power Rangers are no stranger to betrayal. It was only recently that the Omega Rangers broke their trust, and one of their closest allies when they kidnapped Drakkon from his cell at their headquarters. While an interdimensional tyrant being on the loose is of course of great concern for the team, there are more pressing matters at hand.
+
+
+***
+![WandaVision is finally here—here's how to watch it](https://www.gannett-cdn.com/presto/2020/09/29/USAT/740708ad-5504-4eb8-ab38-48bf1bec8668-wandavision-lead.png?crop=1593,897,x3,y0&width=1593&height=897&format=pjpg&auto=webp "WandaVision is finally here—here's how to watch it")
+
+
+[WandaVision is finally here—here's how to watch it](https://www.usatoday.com/story/tech/reviewedcom/2020/09/29/how-watch-wandavision/3577389001/)
+
+
+> Alex Kane Reviewed — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. With Black Widow delayed to 2021, this marks the first year without a live-action Marvel film since 2009. But thanks to Disney+ and the home-streaming format, we don't have to wait any longer for the next installment in the Marvel Cinematic Universe. Marvel Studios' WandaVision—starring Elizabeth Olsen and Paul Bettany as Wanda and the Vision—is now available for streaming, as of January 15, 2021, and it promises to be a weird one.
+
+
+***
+![Apple could be planning a premium podcast subscription service](https://cdn.mos.cms.futurecdn.net/oQzay8Ch7cFmBXkiCUhaBQ-1200-80.jpg "Apple could be planning a premium podcast subscription service")
+
+
+[Apple could be planning a premium podcast subscription service](https://www.techradar.com/news/apple-could-be-planning-a-premium-podcast-subscription-service)
+
+
+> (Image credit: TechRadar) With the likes of Spotify and Twitter among the big tech names making investments in the podcast space in recent months, the stock of these serialized audio (and video) shows has never been higher – and it looks as though Apple has taken note.Bloomberg has the scoop that Apple is planning a premium podcast subscription service at some point in 2021, and is also investing in exclusive, original programs that it can package up and sell to users.Seasoned Apple watchers will know that this isn't a new rumor: Bloomberg also reported that Apple was getting into the podcast production business back in 2019, so this doesn't seem to be something that the company is rushing into.
+
+
