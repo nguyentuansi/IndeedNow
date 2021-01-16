@@ -7376,3 +7376,50 @@
 > Oct 21, 2012 480 138 Capri - Italy Just to share my experience, I usually won't rush and update but so far, always gone smooth and sometimes even felt the machine snappier after an OS upgrade but this time... MBAir 13" 2015, mere 4GB RAM and i5 CPU, been very smooth till Catalina but after the update it feels like the slowest computer ever, will backup, clean install and stop with Catalina and very probably next computer will be a Mini like PC, Apple is getting worse and worse You could have had a bad upgrade process happen.
 
 
+***
+![Facebook bans ads promoting weapon accessories, blocks events near White House, Capitol ahead of inauguration](https://www.gannett-cdn.com/presto/2021/01/16/USAT/610a7b60-926a-4aa5-a3ba-179165dd088b-AP_Europe_Facebook_Privacy.jpg?crop=5759,3240,x0,y292&width=3200&height=1680&fit=bounds "Facebook bans ads promoting weapon accessories, blocks events near White House, Capitol ahead of inauguration")
+
+
+[Facebook bans ads promoting weapon accessories, blocks events near White House, Capitol ahead of inauguration](https://www.usatoday.com/story/tech/2021/01/16/facebook-joe-biden-inauguration-day-weapon-ads-banned/4190729001/)
+
+
+> CLOSE Matt Schruers, the president of the Computer & Communication Industry Association says Facebook and Twitter are simply "exercising their own speech rights" in banning Trump from their platforms. (Jan. 11) AP Domestic Facebook says it is temporarily banning ads that promote weapon accessories and protective equipment in the United States ahead of Inauguration Day and at least through Jan. 22. The company said in a blog post Saturday about Inauguration Day preparations that the move was being made "out of an abundance of caution.
+
+
+***
+![Alex Wilhelm – TechCrunch](https://techcrunch.com/wp-content/themes/techcrunch-2017/images/opengraph-default.png "Alex Wilhelm – TechCrunch")
+
+
+[Alex Wilhelm – TechCrunch](https://social.techcrunch.com/author/alex-wilhelm/)
+
+
+> Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It's broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Hello and welcome back to Equity, TechCrunch's venture-capital-focused podcast, where we unpack the numbers behind the headlines. We're back on this lovely Saturday with a bonus episode! Again! T The dating and networking service Bumble has filed to go public. The company, launched by a former co-founder of the IAC-owned Tinder, plans to list on the Nasdaq stock exchange, using the ticker sym Today, let's peek at new and historical growth numbers from Gthmhub, Perdoo, WorkBoard, Ally.
+
+
+***
+!['Technical problem' causes temporary 911 line outage in Pottawattamie County Saturday afternoon](https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/ketv/38317796-calling-911-dialing-911-phone-jpg-jpg.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:* "'Technical problem' causes temporary 911 line outage in Pottawattamie County Saturday afternoon")
+
+
+['Technical problem' causes temporary 911 line outage in Pottawattamie County Saturday afternoon](https://www.ketv.com/article/technical-problem-causes-temporary-911-line-outage-in-pottawattamie-county-saturday-afternoon/35234631)
+
+
+> 'Technical problem' causes temporary 911 line outage in Pottawattamie County Saturday afternoon Copy Link {copyShortcut} to copy Link copied! Updated: 3:41 PM CST Jan 16, 2021 A technical issue caused a temporary outage of 911 lines in Pottawattamie County Saturday afternoon.According to Doug Reed, the Pottawattamie County Emergency Management Director, the county planned to do some maintenance work. A planned power outage was set for the work and all systems were placed on a backup system, Reed said.
+
+
+***
+![BitLocker Lockscreen bypass](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "BitLocker Lockscreen bypass")
+
+
+[BitLocker Lockscreen bypass](https://www.reddit.com/r/programming/comments/kyrt4w/bitlocker_lockscreen_bypass/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Attacking the DeFi ecosystem with flash loans for fun and profit](https://arxiv.org/abs/2003.03810v2)
+
+
+> Download PDF Abstract: Credit allows a lender to loan out surplus capital to a borrower. In the traditional economy, credit bears the risk that the borrower may default on its debt, the lender hence requires an upfront collateral from the borrower, plus interest fee payments. Due to the atomicity of blockchain transactions, lenders can offer flash loans, i.e. loans that are only valid within one transaction and must be repaid by the end of that transaction. This concept has lead to a number of interesting attack possibilities, some of which have been exploited recently (February 2020).
+
+
