@@ -7188,3 +7188,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![As a beginner project I created a program that goes through league of legends champion select for you!](https://external-preview.redd.it/fkjXku9lz2hyrjmsDiujtf3XgD4D1fUUg4dgf7Jrolk.jpg?auto=webp&s=766b7127f7abdd77c6098eef538a589e90f6009d "As a beginner project I created a program that goes through league of legends champion select for you!")
+
+
+[As a beginner project I created a program that goes through league of legends champion select for you!](https://www.reddit.com/r/Python/comments/kyo3wk/as_a_beginner_project_i_created_a_program_that/)
+
+
+> Pause 0:00 0:00 Settings Fullscreen Quick video of my program running I've been wanting to automate visual tasks using python for a while now, and as a beginner project I created a python script that can go through champion select for me in League of Legends, so I can do something while the game goes through champion select. I'm also working on getting this paired with a fork of runechanger to make it automatically run when you get into champion select. This was done by using pyautogui, and is fairly basic but I haven't programmed with python in a while so it was nice to do a cool project (not to mention a project I will actually use) in python.
+
+
+***
+[Interviews with more than two dozen tech execs and workers who have left San Francisco for other parts of the US over the last year amid a rise in remote work (Nellie Bowles/New York Times)](http://www.techmeme.com/210116/p10#a210116p10)
+
+
+> Nellie Bowles / New York Times: Interviews with more than two dozen tech execs and workers who have left San Francisco for other parts of the US over the last year amid a rise in remote work — As a tech era draws to an end, more workers and companies are packing up. What comes next? — SAN FRANCISCO — The Bay Area struck a hard bargain with its tech workers.
+
+
+***
+![2021 is the year of the Chromebook: here's why](https://cdn.mos.cms.futurecdn.net/iTxA2p9EerYCjdWX2i7d2J-1200-80.jpg "2021 is the year of the Chromebook: here's why")
+
+
+[2021 is the year of the Chromebook: here's why](https://www.techradar.com/news/is-2021-the-year-of-the-chrombook)
+
+
+> For several years now, Chromebooks have slowly gained a pretty dedicated following as former skeptics became converts - and even prosthelytizers - of the lightweight Chrome OS and the highly affordable laptops it powers. Still, it hasn't come close to challenging Microsoft or Apple - or even Linux - as the operating system of choice for the vast majority of consumers.There are a whole host of reasons for this, not the least of which is Microsoft's far-sighted strategy of licensing its operating systems to OEMs, which helped it capture over 95% of the PC market in the early to mid 1990s, a market position that has only slightly eroded due to the popularity of Apple's competing OSX-powered laptops and desktops.
+
+
+***
+![Municipal broadband is a bad idea for cash-strapped towns](https://thehill.com/sites/default/files/computerservers2_getty.jpg "Municipal broadband is a bad idea for cash-strapped towns")
+
+
+[Municipal broadband is a bad idea for cash-strapped towns](https://thehill.com/opinion/technology/534437-municipal-broadband-is-a-bad-idea-for-cash-strapped-towns)
+
+
+> Some in the Biden administration are likely to advocate for municipal broadband networks. Always controversial, building these networks may be a particularly poor choice for most localities in the aftermath of the COVID-19 pandemic. Even if federal subsidy dollars become available, municipal broadband networks require significant ongoing capital investment to operate, often funded by issuing new debt. Cities have seen their tax revenues shrink with pandemic shutdowns, and taking on additional debt to support broadband networks will be difficult to justify.
+
+
+***
+![Upcoming 16-Inch and 14-Inch MacBook Pros: Everything We Know](https://images.macrumors.com/article-new/2021/01/Flat-2021-MacBook-Pro-Mockup-Feature-1.jpg "Upcoming 16-Inch and 14-Inch MacBook Pros: Everything We Know")
+
+
+[Upcoming 16-Inch and 14-Inch MacBook Pros: Everything We Know](https://www.macrumors.com/guide/14-inch-macbook-pro/)
+
+
+> Apr 12, 2001 50,971 12,478 Apple introduced a new M1 MacBook Pro in November of 2020, but the new model didn't include any design changes. That's going to change in 2021, with rumors suggesting Apple has a major MacBook Pro design refresh in the works. Subscribe to the MacRumors YouTube channel for more videos.​ The 14 and 16-inch MacBook Pro models that are coming in 2021 will feature the most significant design overhaul to the MacBook Pro line that we've seen since 2016, and the updated machines will also address complaints that users have had with the MacBook Pro for years by bringing back older features that include MagSafe, more ports, and physical function keys.
+
+
