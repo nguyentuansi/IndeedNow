@@ -6415,3 +6415,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Splitting An Apple ID](https://images.macrumors.com/social/?t=2280489&v=6 "Splitting An Apple ID")
+
+
+[Splitting An Apple ID](https://forums.macrumors.com/threads/splitting-an-apple-id.2280489/)
+
+
+> I am looking for some advice. I'll try and write it and give as many details as possible and have done some research but need some guidance on how to proceed. This could probably go in many different categories, but hopefully this is the best one to post in. Ive had my Apple ID for years. Back when I had the first iPod on windows. It was my first Apple device and acted like a gateway drug as it got me hooked. Fast forward a bit and I got an iPhone. The so did my wife. Then our daughter got an ipod touch and so on.
+
+
+***
+![Remote images are proving to be a major problem for email filters](https://cdn.mos.cms.futurecdn.net/S7By2Nhh8y8JcP9aUxFgfB-1200-80.jpg "Remote images are proving to be a major problem for email filters")
+
+
+[Remote images are proving to be a major problem for email filters](https://www.techradar.com/news/remote-images-are-proving-to-be-a-major-problem-for-email-filters)
+
+
+> (Image credit: Shutterstock) Cybercriminals often include images in their phishing emails to make them appear more legitimate but new research from the email security firm Vade Secure has revealed a new method hackers are using to evade email filters.Image spam has traditionally been a popular method to circumvent email filters due to the fact there is no textual content for them to analyze. Instead the textual content is in the image itself, making it harder to scan for possible scams or fraud.Cryptographic hashing algorithms such as MD5 make it easy for email filters to detect identical images but detecting similar images requires complex and costly algorithms.
+
+
+***
+![WhatsApp delays data sharing change after backlash](https://images.moneycontrol.com/static-mcnews/2020/10/Whatsapp_Oct22-770x433.jpg "WhatsApp delays data sharing change after backlash")
+
+
+[WhatsApp delays data sharing change after backlash](https://www.moneycontrol.com/news/technology/whatsapp-delays-data-sharing-change-after-backlash-6353881.html)
+
+
+> WhatsApp on Friday postponed a data-sharing change as users concerned about privacy fled the Facebook-owned messaging service and flocked to rivals Telegram and Signal.The smartphone app, a huge hit across the world, canceled its February 8 deadline for accepting an update to its terms concerning sharing data with Facebook, saying it would use the pause to clear up misinformation around privacy and security."We've heard from so many people how much confusion there is around our recent update," WhatsApp said in a blog post.
+
+
+***
+![American Robotics gets FAA nod to fly fully automated drones](https://i-invdn-com.akamaized.net/news/Computer-(tech-sector)_800x533_L_1412662134.jpg "American Robotics gets FAA nod to fly fully automated drones")
+
+
+[American Robotics gets FAA nod to fly fully automated drones](https://www.investing.com/news/technology-news/american-robotics-gets-faa-nod-to-fly-fully-automated-drones-2391025)
+
+
+> No body in the article.
+
+
+***
+![Help freeing up space on a 256 GB SSD for Big Sur](https://images.macrumors.com/social/?t=2280486&v=6 "Help freeing up space on a 256 GB SSD for Big Sur")
+
+
+[Help freeing up space on a 256 GB SSD for Big Sur](https://forums.macrumors.com/threads/help-freeing-up-space-on-a-256-gb-ssd-for-big-sur.2280486/)
+
+
+> Jan 1, 2008 1,640 275 On The Nickel, over there.... Hey everyone, I have a 2019 13' MBP with a 256GB SSD. I wanted to upgrade to Big Sur from Catalina (call me crazy) and during the download a dialog box opened saying I needed 12GB more space on the SSD. The wife loves her photos. There's currently a bit over 12GB available, and I've taken about everything off it I can. In very simple steps, is there any way I can somehow free up space somehow? I thought Big Sur would just install over Catalina. PS… I am an old retired guy.
+
+
