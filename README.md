@@ -7463,3 +7463,53 @@
 > Misinformation surrounding the topic of election fraud dropped by 73 percent after President Trump Donald Trump CIA chief threatened to resign over push to install Trump loyalist as deputy: report Azar in departure letter says Capitol riot threatens to 'tarnish' administration's accomplishments Justice Dept. argues Trump should get immunity from rape accuser's lawsuit MORE and several others were suspended from mainstream social media accounts, according to research conducted by Zignal Labs.  The research firm reported that discourse around election fraud dropped  from 2.
 
 
+***
+![Facebook to ban ads promoting weapon accessories, protective gear in U.S.](https://external-preview.redd.it/ys6AsbqRlwlQ1S2SMN8nFDeI57b-0rAdlkvwntc1sRw.jpg?auto=webp&s=0f08c6869e247b0f51304c78f8acde15f7e5d816 "Facebook to ban ads promoting weapon accessories, protective gear in U.S.")
+
+
+[Facebook to ban ads promoting weapon accessories, protective gear in U.S.](https://www.reddit.com/r/technology/comments/kytm53/facebook_to_ban_ads_promoting_weapon_accessories/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![I made a Python code golfer in web browser](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "I made a Python code golfer in web browser")
+
+
+[I made a Python code golfer in web browser](https://www.reddit.com/r/Python/comments/kyt90s/i_made_a_python_code_golfer_in_web_browser/)
+
+
+> When you play Codingame's Clash of Code, sometimes you have to solve a problem in a given amount of time, but with the shortest possible code! Sometimes the code becomes completely unreadable, but it's bad for good if the code gets shorter. Concerning Python, it is possible to encode the UTF-8 characters of the code into UTF-16 and then execute them. This has the effect of halving the size of the code, because one character of UTF-16 represents 2 of UTF-8. Here's how to change a code to UTF-16: >>> a="""print('Hello!')"""""""" >>> print(a.
+
+
+***
+![Selfie-Snapping Rioters Leave FBI a Trail of Over 140,000 Images](https://external-preview.redd.it/NBNo-LFZFJ4dJk95edAnPxt1qol6dreqNG1Doy4yMlg.jpg?auto=webp&s=aaf8a0db288cc3527f2f5b24309930fd66905fa1 "Selfie-Snapping Rioters Leave FBI a Trail of Over 140,000 Images")
+
+
+[Selfie-Snapping Rioters Leave FBI a Trail of Over 140,000 Images](https://www.reddit.com/r/technology/comments/kyt0mo/selfiesnapping_rioters_leave_fbi_a_trail_of_over/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![How Far Does Wildlife Roam? Ask The 'Internet Of Animals'](https://static01.nyt.com/images/2021/01/13/magazine/13mag-internet/13mag-internet-facebookJumbo-v2.jpg "How Far Does Wildlife Roam? Ask The 'Internet Of Animals'")
+
+
+[How Far Does Wildlife Roam? Ask The 'Internet Of Animals'](https://www.nytimes.com/interactive/2021/01/12/magazine/animal-tracking-icarus.html)
+
+
+> Animal Planet By Sonia Shah Illustrations by Shyama Golden ‘‘I'm going to do a set of coos,' Calandra Stanley whispered into the radio. The Georgetown ornithologist and her team had been hunting cuckoos, in an oak-and-hickory forest on the edge of a Southern Illinois cornfield, for weeks. Droplets of yesterday's rain slid off the leaves above to those below in a steady drip. In the distance, bullfrogs croaked from a shallow lake, where locals go ice fishing in winter. As dawn broke and the rising sun lit the top of the canopy, the cuckoo finally arrived to investigate.
+
+
+***
+![Redundant folder list in Mail](https://images.macrumors.com/social/?t=2280641&v=6 "Redundant folder list in Mail")
+
+
+[Redundant folder list in Mail](https://forums.macrumors.com/threads/redundant-folder-list-in-mail.2280641/)
+
+
+> May 9, 2018 2 0 Santa Monica Each of my four e-mail accounts has its own subfolder under Sent, Junk, Trash, Archive, and Drafts (now labeled All Sent, All Junk, All Trash, All Archive, and All Drafts in Big Sur). Prior to upgrading, each account would then list any additional folders under that account's heading below. (You could choose to hide those folders.) Now those five essential folders are duplicated under each account heading. If I want to view the sent items related to a particular account, for example, I can just click on the Sent subfolder for that account under the All Sent folder.
+
+
