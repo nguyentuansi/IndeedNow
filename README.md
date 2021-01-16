@@ -6944,3 +6944,47 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+[Mi 10i sets new benchmark in mid-price phone segment](https://www.freepressjournal.in/technology/mi-10i-sets-new-benchmark-in-mid-price-phone-segment)
+
+
+> No body in the article.
+
+
+***
+!['Super-Earth' Exoplanet Discovered Orbiting One Of The Oldest Stars In The Milky Way](https://im.indiatimes.in/content/2020/Nov/RTR1I6IE_5fa4f5d6d0de2.jpg "'Super-Earth' Exoplanet Discovered Orbiting One Of The Oldest Stars In The Milky Way")
+
+
+['Super-Earth' Exoplanet Discovered Orbiting One Of The Oldest Stars In The Milky Way](https://www.indiatimes.com/technology/news/super-earth-exoplanet-discovered-orbiting-one-of-the-oldest-stars-in-the-milky-way-532104.html)
+
+
+> Scientists have located a ‘Super Earth' that is being believed to orbit one of the oldest stars in the Milky Way galaxy. The exoplanet gets its title as it is suspected to be around three times the mass of Earth, with a size 50% larger than our home planet.The planet, known as TOI-561b, has been described in a new study accepted for publication in the The Astronomical Journal. Despite the planet's mass, its density is about the same as that of Earth, astronomers found in the study.'We report the discovery of TOI-561, a multi-planet system in the galactic thick disk that contains a rocky, ultra-short period planet (USP),' the study mentions.
+
+
+***
+![What kind of Python merch would you like to see?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "What kind of Python merch would you like to see?")
+
+
+[What kind of Python merch would you like to see?](https://www.reddit.com/r/Python/comments/kyim12/what_kind_of_python_merch_would_you_like_to_see/)
+
+
+> The Python section at FreeWear.org has not seen much novelty lately, and we want to fix that. Do you have any suggestion about any kind of cool merch you would like to see? Got an idea for a new t-shirt design, or any other kind of item? Let us know!
+
+
+***
+![The Samsung Galaxy S21 Ultra proves the megapixel war is now a battle of the zooms](https://cdn.mos.cms.futurecdn.net/t63kKUo62atGyDurB6UxMH-1200-80.jpg "The Samsung Galaxy S21 Ultra proves the megapixel war is now a battle of the zooms")
+
+
+[The Samsung Galaxy S21 Ultra proves the megapixel war is now a battle of the zooms](https://www.techradar.com/news/the-samsung-galaxy-s21-ultra-proves-the-megapixel-war-is-now-a-battle-of-the-zooms)
+
+
+> The Samsung Galaxy S21 Ultra launch spent a painful three minutes gushing about its "unforgettable" black paint job, but the phone's new telephoto cameras were the real stars – and they're an important upgrade that proves zoom is going to be this year's battleground for the best camera phones . Yes, we had the 'Space Zoom' gimmick at last year's S20 Ultra launch. But this time we're talking about genuinely useful optical zoom . Like the Huawei Mate 40 Pro Plus , the S21 Ultra combines two dedicated telephoto cameras – one offering 3x zoom, the other 10x zoom.
+
+
+***
+[Samsung preparing to bring S Pen support to foldables](https://www.freepressjournal.in/technology/samsung-preparing-to-bring-s-pen-support-to-foldables)
+
+
+> No body in the article.
+
+
