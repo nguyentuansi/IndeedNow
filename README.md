@@ -7332,3 +7332,47 @@
 > Damn, I didn't knew that!
 
 
+***
+[[D] Optimal way to upload ~50 gb datasets to cloud.](https://www.reddit.com/r/MachineLearning/comments/kyqydm/d_optimal_way_to_upload_50_gb_datasets_to_cloud/)
+
+
+> I have links to the datasets on the web, but I can't get zip or tar.gz links to extract locally in the VM (so I can only download them locally). I've tried to upload files of a few hundred mb to the cloud before and it took probably an hour.With the way the files are stored I can't seem to think of a better way than just downloading them locally then scp'ing them to my VM, but this would be super slow and cost a lot since I'd have to be logged into the VM the whole time. I'd really appreciate knowing if there's a faster and more cost efficient way to handle this.
+
+
+***
+[Miami PD says it is using facial recognition tech from Clearview AI to identify Capitol rioters, raising concerns among civil liberty and privacy advocates (Bloomberg)](http://www.techmeme.com/210116/p13#a210116p13)
+
+
+> Bloomberg: Miami PD says it is using facial recognition tech from Clearview AI to identify Capitol rioters, raising concerns among civil liberty and privacy advocates — - Citizens and police sift online trove to find Capitol mob — Facial recognition software used by one police department
+
+
+***
+![C++ Tutorial for Beginners](https://external-preview.redd.it/2Di4HaVyJHYV9YeAUSuO84lRsvYZJlh0kBB8R03ePrw.jpg?auto=webp&s=5216070543a123e319c4ba26f2314a92d36d808c "C++ Tutorial for Beginners")
+
+
+[C++ Tutorial for Beginners](https://www.reddit.com/r/programming/comments/kyqt3e/c_tutorial_for_beginners_full_course/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Any intelligent cloud photo storage services?](https://images.macrumors.com/social/?t=2280628&v=6 "Any intelligent cloud photo storage services?")
+
+
+[Any intelligent cloud photo storage services?](https://forums.macrumors.com/threads/any-intelligent-cloud-photo-storage-services.2280628/)
+
+
+> Ones that actually do things with your photos like sort them into various categories, facial recognition and maybe even do interesting things with them? I know iPhone is getting good with sorting images, but thinking about the cloud generally, what's out there and what's cutting edge in this space? Considering signing up for something soon - keep losing lots of photos on laptops, DSLR and phone, but would love something smart rather than just a storage option.
+
+
+***
+![Big Sur, the worse update ever!](https://images.macrumors.com/social/?t=2280627&v=6 "Big Sur, the worse update ever!")
+
+
+[Big Sur, the worse update ever!](https://forums.macrumors.com/threads/big-sur-the-worse-update-ever.2280627/)
+
+
+> Oct 21, 2012 480 138 Capri - Italy Just to share my experience, I usually won't rush and update but so far, always gone smooth and sometimes even felt the machine snappier after an OS upgrade but this time... MBAir 13" 2015, mere 4GB RAM and i5 CPU, been very smooth till Catalina but after the update it feels like the slowest computer ever, will backup, clean install and stop with Catalina and very probably next computer will be a Mini like PC, Apple is getting worse and worse You could have had a bad upgrade process happen.
+
+
