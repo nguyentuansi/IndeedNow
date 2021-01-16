@@ -7138,3 +7138,53 @@
 > On the morning of Jan. 6, I was cackling over 'Stop the Steal' rally attendees' clueless posts about parking in Washington. Future Tense contributor Faine Greenwood was lurking on TheDonald.win, a Trump fan discussion site, and tweeted the best examples of out-of-towners fretting about the logistics. (I particularly loved the person who thought that 6 a.m. pandemic D.C. traffic was 'psycho.' Buddy, you have no idea.) By the end of the day, everything seemed a bit less funny. But as a new and furious round of discussion about deplatforming erupted, it still seemed perfect that the morning began for me with screenshots of TheDonald.
 
 
+***
+![Warning: Telegram is not end-to-end encrypted by default](https://mondrian.mashable.com/2021%252F01%252F16%252Fbd%252F85a816a903c544619220640cf69f4fa8.08dec.jpg%252F1200x630.jpg?signature=qsneHrI2Lm0TxdcIJ_JlL01wqrg= "Warning: Telegram is not end-to-end encrypted by default")
+
+
+[Warning: Telegram is not end-to-end encrypted by default](https://mashable.com/article/telegram-whatsapp-signal-end-to-end-encryption-e2e/)
+
+
+> After tech behemoths like Twitter moved to ban Trump and thousands of other far-right accounts, millions moved to apps like Signal and Telegram for their encrypted messaging services.  There's one rub, though: Telegram, unlike Signal, doesn't have end-to-end encryption by default.  End-to-end encryption means that only the message sender and receiver can read the message. Even the server that hosts it, such as Signal or iMessage on Apple devices, can't decrypt and read what someone wrote. If those servers were ever hacked, hackers wouldn't be able to read the messages, either.
+
+
+***
+![NASA's 'megarocket' set for crucial test](https://images.perthnow.com.au/publication/S-2045687/1610818530463_Rocket_16-9_20225365_2045687_20210117040132ab787121-712b-48eb-bc45-99a80ef3257a.jpg_sd_1280x720.jpg?imwidth=1024 "NASA's 'megarocket' set for crucial test")
+
+
+[NASA's 'megarocket' set for crucial test](https://www.perthnow.com.au/technology/nasas-megarocket-set-for-crucial-test-ng-s-2045687)
+
+
+> NASA's deep space exploration rocket is set to fire all four rockets of its behemoth core stage for the first time in a "once-in-a-generation" test.The test marks a crucial point for the years-delayed US government project, which is facing mounting pressure from emerging private sector technology.The Boeing-built Space Launch System (SLS) is known as a 'megarocket' and is being developed with the aim of putting Americans back on the moon within a few years.The hot fire test for SLS is expected to begin at 5pm local time on Saturday at NASA's Stennis Space Centre in Mississippi, capping a nearly year-long campaign to validate the rocket's design.
+
+
+***
+![What would be the cost to replace the battery on iPhone 5?](https://images.macrumors.com/social/?t=2280603&v=6 "What would be the cost to replace the battery on iPhone 5?")
+
+
+[What would be the cost to replace the battery on iPhone 5?](https://forums.macrumors.com/threads/what-would-be-the-cost-to-replace-the-battery-on-iphone-5.2280603/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![iPad deals at Amazon this weekend feature price cuts and coupons for the Pro and Air 4](https://cdn.mos.cms.futurecdn.net/722G3jqLhNYMvCuwChqRkb-1200-80.jpg "iPad deals at Amazon this weekend feature price cuts and coupons for the Pro and Air 4")
+
+
+[iPad deals at Amazon this weekend feature price cuts and coupons for the Pro and Air 4](https://www.techradar.com/news/ipad-deals-at-amazon-this-weekend-feature-price-cuts-and-coupons-for-the-pro-and-air-4)
+
+
+> (Image credit: Apple) If you're shopping for iPad deals this weekend, Amazon has some superb options right now on both the new iPad Pros and the iPad Air 4 that could potentially save you a good chunk of change.First up is a handy little coupon over at Amazon that you may have previously missed on the 2020 11-inch iPad Pro. Retailing for $789 at first glance, you can in fact get this superb premium tablet for just $759.05 this weekend with an auto-applying coupon at checkout. This isn't the cheapest price we've seen on this iPad Pro (that record is around $699 from Black Friday), but considering the last significant price cut was back in December, this is quite a good option all around.
+
+
+***
+![India's Bengaluru is now the world's fastest-growing tech hub, followed by London, Munich, Berlin and Paris, with India's financial centre Mumbai in sixth place](https://external-preview.redd.it/n6ZhpyEZEO7gucdkcmAucWxYy_UWpWNyyu24PafFhrg.jpg?auto=webp&s=e6640189fabeb7a54b1cf5342c9a24748794f1f2 "India's Bengaluru is now the world's fastest-growing tech hub, followed by London, Munich, Berlin and Paris, with India's financial centre Mumbai in sixth place")
+
+
+[India's Bengaluru is now the world's fastest-growing tech hub, followed by London, Munich, Berlin and Paris, with India's financial centre Mumbai in sixth place](https://www.reddit.com/r/technology/comments/kymvz1/indias_bengaluru_is_now_the_worlds_fastestgrowing/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
