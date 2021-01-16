@@ -6509,3 +6509,53 @@
 > Is this the year that you're going to grab your personal finances by the horns? Perhaps the best place to start is with a credit card that serves your individual spending habits. Lucky for you, there are lots of credit card options out there, so there's definitely one out there that meets your needs. Finding the perfect credit card might take a little digging though. That's right, you should research each and every card you're considering and really dig into what it offers. You should also arm yourself with knowledge about your credit score, variable APR, credit card interest, reward points, statement credit and eligible purchases before you commit to a credit card offer.
 
 
+***
+![Telecom revenue surges 129pc amid lockdown](https://i.dawn.com/large/2021/01/600267bfef056.jpg "Telecom revenue surges 129pc amid lockdown")
+
+
+[Telecom revenue surges 129pc amid lockdown](https://www.dawn.com/news/1601770)
+
+
+> ISLAMABAD: Contribution of the telecom sector to the national exchequer increased by 129 per cent in the fiscal year ending in June 2020 compared to a year ago owing to Covid-19 lockdown, the Pakistan Telecom Authority (PTA) said on Friday. Sharing its Annual Report 2020, PTA highlighted that the surge in demand for telecom services due to lockdown resulted in significant growth not only in the subscriber base but also in the usage of telecom services. Data usage by the end of December 2020 was 4,498 petabytes (PB) compared to 2,545PB in December 2019 — a growth of more than 77 per cent, the report noted.
+
+
+***
+![Rotimi Adelola's The New Patriots selected for Five Continents Film Festival](https://guardian.ng/wp-content/uploads/2021/01/Rotimi-640x360.jpg "Rotimi Adelola's The New Patriots selected for Five Continents Film Festival")
+
+
+[Rotimi Adelola's The New Patriots selected for Five Continents Film Festival](https://editor.guardian.ng/saturday-magazine/rotimi-adelolas-the-new-patriots-selected-for-five-continents-film-festival/)
+
+
+> A scene from The New Patriots A new social impact movie, The New Patriots, has been officially selected for the 2021 Five Continents International Film Festival, Venezuela, in the drama feature film category. It is the only feature film from Africa selected for the next edition of the prestigious international festival. The New Patriots is set in a fictional tiny country called the Republic of Aruguna. The movie demonstrates the disenchantment of the youth with the sociopolitical situation in their country and the nonviolent strategy mobilised to confront the problem.
+
+
+***
+![Stores told to hold off TraceTogether only check-ins](https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/14/yuttoastbox0114.jpg?itok=bOk5uPpK "Stores told to hold off TraceTogether only check-ins")
+
+
+[Stores told to hold off TraceTogether only check-ins](https://www.straitstimes.com/tech/stores-told-to-hold-off-tracetogether-only-check-ins)
+
+
+> Retailers who started rolling out TraceTogether-only check-in have been told to hold off for now by the authorities, after many businesses around Singapore were found to have jumped the gun by switching on the function and putting up posters displaying the new requirements. This meant that members of the public could not enter some establishments unless they used the TraceTogether (TT) app or token to check in. In response to queries from The Straits Times, the Smart Nation and Digital Government Office (SNDGO) said yesterday that public venues are not required to implement TT-only SafeEntry now, except for events or businesses that are part of ongoing pilots, such as live performances, cinemas and selected nightlife venues.
+
+
+***
+![Why is there such a fuss at the moment about Signal?](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/20210116_Signal_App_AFP-seo.jpg "Why is there such a fuss at the moment about Signal?")
+
+
+[Why is there such a fuss at the moment about Signal?](https://www.malaymail.com/news/tech-gadgets/2021/01/16/why-is-there-such-a-fuss-at-the-moment-about-signal/1940992)
+
+
+> The Signal application is attracting more and more disappointed users of WhatsApp. — Picture courtesy of Signal SAN FRANCISCO, Jan 16 — Since the controversy surrounding WhatsApp's new terms of use, which require more information sharing with its parent company Facebook, many users are looking for a more privacy-friendly alternative. And all eyes seem to be turning to Signal, which has been surfing for several days now at the top of the list of most downloaded applications. The buzz started with a simple tweet from Elon Musk, Tesla's whimsical boss, who incidentally became the richest man in the world at the beginning of the year.
+
+
+***
+![Videogame sales hit US high in pandemic-plagued 2020](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/20210116_Videogames_Generic_AFP-seo.jpg "Videogame sales hit US high in pandemic-plagued 2020")
+
+
+[Videogame sales hit US high in pandemic-plagued 2020](https://www.malaymail.com/news/tech-gadgets/2021/01/16/videogame-sales-hit-us-high-in-pandemic-plagued-2020/1940989)
+
+
+> The boom in video game play is poised to continue this year. — IStock.com pic SAN FRANCISCO, Jan 16 — Sales of video games, consoles and accessories hit a record high in the US last year as people hunkered down at home due to the pandemic turned to play. Video game spending in the US totalled US$56.9 billion (RM229.6 billion) last year, 27 per cent more than what was spent in 2019, according NPD market research group analyst Mat Piscatella. A total of US$7.7 billion of that was spent in December, which posted the highest sales figures ever for that month, NPD figures showed.
+
+
