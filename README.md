@@ -6894,3 +6894,53 @@
 > Samsung has launched its flagship Galaxy S21 Ultra device with the popular S Pen -- a first for the Galaxy S series. To date, the Stylus (S) Pen only came with Samsung Galaxy Note series smartphones that took productivity and creativity up a notch.
 
 
+***
+![Flipkart Big Saving Days Sale: Poco X3, Poco M2 Pro, Poco C3 and other phones to get discounts](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-16_at_2_1200_210116144620.12.-483x271.png "Flipkart Big Saving Days Sale: Poco X3, Poco M2 Pro, Poco C3 and other phones to get discounts")
+
+
+[Flipkart Big Saving Days Sale: Poco X3, Poco M2 Pro, Poco C3 and other phones to get discounts](https://www.indiatoday.in/technology/news/story/flipkart-big-saving-days-sale-poco-x3-poco-m2-pro-poco-c3-and-other-phones-to-get-discounts-1759687-2021-01-16)
+
+
+> The Flipkart Big Saving Days will go live on January 20 and will last till January 24. Ankita Chakravarti | January 16, 2021 | Updated 14:14 IST
+
+
+***
+![Apple likely to launch redesigned iMac, compact Mac Pro with M processors this year](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-16_at_2_1200_210116144602.23.-483x271.png "Apple likely to launch redesigned iMac, compact Mac Pro with M processors this year")
+
+
+[Apple likely to launch redesigned iMac, compact Mac Pro with M processors this year](https://www.indiatoday.in/technology/news/story/apple-likely-to-launch-redesigned-imac-compact-mac-pro-with-m-processors-this-year-1759693-2021-01-16)
+
+
+> Apple is reportedly giving iMac a redesign after almost a decade and is working on a new Mac Pro that will be much smaller and compact compared to the existing Mac Pro. India Today Tech | January 16, 2021 | Updated 14:27 IST
+
+
+***
+![Love will hurt you, but it will also make you whole again](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2016/08/Android-figures.jpg "Love will hurt you, but it will also make you whole again")
+
+
+[Love will hurt you, but it will also make you whole again](https://www.androidcentral.com/love-will-hurt-you-it-will-also-make-you-whole-again)
+
+
+> Source: Jerry Hildenbrand / Android Central Usually, I take this tiny corner of my internet and talk about whatever cool things in the technology world caught my attention. We had a couple of those things happen this week, too. Like the Galaxy S21 which I think will be one of the best Android phones you can buy, especially once we see those inevitable sales and price drops in a few months. But I'm not going to write about any of those things today. I'm going to write about misery. I know that we all go through something heartbreaking once in a while and that I'm not special, but this felt like the worst week of my life.
+
+
+***
+![YouTuber runs viewer-submitted Python code to light up 500 LEDs in Christmas tree](https://external-preview.redd.it/LZJEov1BKbWufTWzpZzs76fnSktL6V1CacX4ud6fRBw.jpg?auto=webp&s=2cbb49fe97b10641ddcb327cf06105fb5ba3cdb2 "YouTuber runs viewer-submitted Python code to light up 500 LEDs in Christmas tree")
+
+
+[YouTuber runs viewer-submitted Python code to light up 500 LEDs in Christmas tree](https://www.reddit.com/r/programming/comments/kyhofq/youtuber_runs_viewersubmitted_python_code_to/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![I told you so, 2021 edition (Cinnamon-screensaver bug and big picture view)](https://external-preview.redd.it/evx6Sg8XDIx-N3ggGhscl64FFgxr8ltrEU8m9oaBYhc.jpg?auto=webp&s=a9bf0ca62b7f0e562ebfb1eeccebe1e0a196aad3 "I told you so, 2021 edition (Cinnamon-screensaver bug and big picture view)")
+
+
+[I told you so, 2021 edition (Cinnamon-screensaver bug and big picture view)](https://www.reddit.com/r/programming/comments/kyho6q/i_told_you_so_2021_edition_cinnamonscreensaver/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
