@@ -7423,3 +7423,43 @@
 > Download PDF Abstract: Credit allows a lender to loan out surplus capital to a borrower. In the traditional economy, credit bears the risk that the borrower may default on its debt, the lender hence requires an upfront collateral from the borrower, plus interest fee payments. Due to the atomicity of blockchain transactions, lenders can offer flash loans, i.e. loans that are only valid within one transaction and must be repaid by the end of that transaction. This concept has lead to a number of interesting attack possibilities, some of which have been exploited recently (February 2020).
 
 
+***
+![To rein in social media, the market will suffice](https://thehill.com/sites/default/files/techgiants_antitrust_091719getty.jpg "To rein in social media, the market will suffice")
+
+
+[To rein in social media, the market will suffice](https://thehill.com/opinion/technology/534401-to-rein-in-social-media-only-the-market-will-suffice)
+
+
+> The  suit filed  against Facebook by the Federal Trade Commission and 45 states' demanding its breakup seems to ignore the competitiveness of the U.S. digital market while raising ghosts of past failed suits. The strength of the U.S. economy is not its size or its colossal firms but its competitiveness, dynamism and relentless innovation . These attributes have enabled numerous startups in the U.S. to introduce radically better products and services at ever lower prices. It's not merely long-standing businesses with deep pockets that introduce innovations.
+
+
+***
+![The Best Wi-Fi Extenders for 2021](https://icdn2.digitaltrends.com/image/digitaltrends/netgear-wi-fi-mesh-range-extender-ex7300-1200x630-c-ar1.91.jpg "The Best Wi-Fi Extenders for 2021")
+
+
+[The Best Wi-Fi Extenders for 2021](https://www.digitaltrends.com/computing/best-wi-fi-extenders/)
+
+
+> If your Wi-Fi router lacks enough oomph to reach all your devices or leaves you with dead zones around the home or office, you've got a problem. As much as a decent router can alleviate that problem, Wi-Fi extenders can push your signal even further. Our favorite is the TP-Link RE650 , which offers high speeds and MU-MIMO compatibility. However, if you are looking for something a little less pricey, we have picked other great models as well, including some very affordable options. Note: Don't confuse a 'mesh' router and a Wi-Fi extender, although they can both solve the same problems.
+
+
+***
+![Nordstrom's entire clearance section is on sale right now—here's what to buy](https://www.gannett-cdn.com/presto/2021/01/16/USAT/924d44c1-c71c-428c-973b-046abb3e45f1-nordstrom_copy.jpg?crop=1485,835,x5,y0&width=1600&height=800&fit=bounds "Nordstrom's entire clearance section is on sale right now—here's what to buy")
+
+
+[Nordstrom's entire clearance section is on sale right now—here's what to buy](https://www.usatoday.com/story/tech/reviewedcom/2021/01/16/nordstorm-sale-get-extra-25-off-your-clearance-purchase-right-now/4190064001/)
+
+
+> You'll find some buried treasure in this clearance sale.   (Photo: Nordstrom/Estée Lauder) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Nordstrom is one of those stores where you're pretty much always guaranteed to find something on sale. Once in a great while, however, a savings event comes along here that's so good, you have to shop it from top to bottom, just to make sure there's nothing you've left behind. The  clearance special  that's happening right now on the site is one of those sales—and we've already combed through it all to help you find the best of the best.
+
+
+***
+![Election misinformation dropped 73 percent following Trump's suspension from Twitter: research](https://thehill.com/sites/default/files/ca_facebookcoronavirus_022620getty_3.jpg "Election misinformation dropped 73 percent following Trump's suspension from Twitter: research")
+
+
+[Election misinformation dropped 73 percent following Trump's suspension from Twitter: research](https://thehill.com/policy/technology/534587-internet-misinformation-dropped-73-percent-following-trumps-suspension-from)
+
+
+> Misinformation surrounding the topic of election fraud dropped by 73 percent after President Trump Donald Trump CIA chief threatened to resign over push to install Trump loyalist as deputy: report Azar in departure letter says Capitol riot threatens to 'tarnish' administration's accomplishments Justice Dept. argues Trump should get immunity from rape accuser's lawsuit MORE and several others were suspended from mainstream social media accounts, according to research conducted by Zignal Labs.  The research firm reported that discourse around election fraud dropped  from 2.
+
+
