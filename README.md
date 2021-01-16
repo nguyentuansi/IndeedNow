@@ -6656,3 +6656,44 @@
 > New Delhi - The users of highly-encrypted Signal app faced trouble sending messages and the company said on Saturday that it was still working to bring additional capacity online to handle peak traffic levels.The problem started late Friday and the company first acknowledged it may be due to technical difficulties.Signal allows for secure and encrypted video, voice and text communication, but users were unable to send any messages."We have been adding new servers and extra capacity at a record pace every single day this week nonstop, but today exceeded even our most optimistic projections.
 
 
+***
+[On its 20th anniversary, Wikipedians recount how it began and how it grew to become the definitive digital encyclopedia and the default resource for everything (Tom Roston/OneZero&#8202;)](http://www.techmeme.com/210116/p2#a210116p2)
+
+
+> Tom Roston / OneZero : On its 20th anniversary, Wikipedians recount how it began and how it grew to become the definitive digital encyclopedia and the default resource for everything — hard to imagine the internet without Wikipedia. Just like the air we breathe, the definitive digital encyclopedia …
+
+
+***
+![The importance of a strong password – even if there's not $277m worth of bitcoin at stake](https://i.inews.co.uk/content/uploads/2021/01/PRI_178471318.jpg "The importance of a strong password – even if there's not $277m worth of bitcoin at stake")
+
+
+[The importance of a strong password – even if there's not $277m worth of bitcoin at stake](https://inews.co.uk/news/technology/importance-strong-password-internet-security-bitcoin-830836)
+
+
+> While very few of us could claim to be enjoying a stellar start to the year amid the coronavirus pandemic and the threat of global civil unrest, spare a thought for Stefan Thomas. The German-born programmer who lives in San Francisco is locked out of $277.5m (£203m) worth of bitcoin after forgetting the password to a hard drive. The drive, which contains the keys to a digital wallet holding 7,002 digital coins of the cryptocurrency, allows 10 attempts at guessing the password before it seizes up and encrypts its contents, losing the hundreds of millions forever.
+
+
+***
+[Castlevania Anniversary Collection, Contra Anniversary Collection, Arcade Classics Anniversary Collection](https://gonintendo.com/stories/375467-castlevania-anniversary-collection-contra-anniversary-collection)
+
+
+> Konami is offering up some great deals on their Collection titles for Switch. From now until Jan. 21st, 2021, Castlevania Anniversary Collection, Contra Anniversary Collection, and Arcade Classics Anniversary Collection are all priced at $5. These collections are usually priced at $20 each, so this is a considerable drop! You can see the titles in each collection below. Castlevania Anniversary Collection - Castlevania - Castlevania II Simon's Quest - Castlevania III Dracula's Curse - Supe
+
+
+***
+[New gameplay details shared on the Bowser's Fury mode in Super Mario 3D World + Bowser's Fury](https://gonintendo.com/stories/375466-new-gameplay-details-shared-on-the-bowser-s-fury-mode-in-super-ma)
+
+
+> The Nintendo UK site for Super Mario 3D World + Bowser's Fury has shared a few more details on what the Bowser's Fury mode has to offer. You can read a summary of that info below. - Bowser has been tainted by a mysterious black goop, which turns him into Fury Bowser - the shell that we see Bowser trapped in is called the Fury Sun - the Fury Sun will always rise up near the island you're on - weather will change, which indicates how much time you have until the Fury Sun emerges - if you've
+
+
+***
+![Apple considers foldable iPhone; minor changes planned for 2021 models](https://images.indianexpress.com/2021/01/4ea8bb94-3212-4b44-89ab-91959d69f92c.jpg "Apple considers foldable iPhone; minor changes planned for 2021 models")
+
+
+[Apple considers foldable iPhone; minor changes planned for 2021 models](https://indianexpress.com/article/technology/mobile-tabs/apple-considers-foldable-iphone-minor-changes-planned-for-2021-models/)
+
+
+> Apple Inc has begun early work on an iPhone with a foldable screen, a potential rival to similar devices from Samsung Electronics Co and others, though it's planning only minor changes for this year's iPhone line. The Cupertino, California-based company has developed prototype foldable screens for internal testing, but hasn't solidified plans to actually launch a foldable iPhone. The development work hasn't expanded beyond a display, meaning Apple doesn't yet have full handset prototypes in its labs, according to a person familiar with the work, who asked not to be identified discussing private matters.
+
+
