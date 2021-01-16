@@ -6847,3 +6847,50 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![TikTok photoshoot of car on UK level crossing – 'sheer stupidity'](https://i.guim.co.uk/img/media/331a3e85a6e576be3910d8ca33dd8511792c52f0/0_0_990_594/master/990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=efe3a8387ee13852289993bd46ef6ab0 "TikTok photoshoot of car on UK level crossing – 'sheer stupidity'")
+
+
+[TikTok photoshoot of car on UK level crossing – 'sheer stupidity'](http://www.theguardian.com/technology/2021/jan/16/tiktok-photoshoot-of-car-on-uk-level-crossing-sheer-stupidity)
+
+
+> Police are investigating after a video showing a car parked over a live railway track for a photoshoot was posted on TikTok.The clip shows a tripod and car set up by a level crossing north of Bolton with the caption: 'Would you take the risk to get the shot no one else would?'British Transport Police are investigating the footage.Insp Becky Warren from the force said: 'No picture or video is worth risking your life for.There is simply no excuse for not following safety procedures at level crossings.
+
+
+***
+![Intel's new CEO declares that it must do better than Apple in PC ecosystem](https://cdn.mos.cms.futurecdn.net/PmURMgpfnQuY5KaqWrGUmZ-1200-80.jpg "Intel's new CEO declares that it must do better than Apple in PC ecosystem")
+
+
+[Intel's new CEO declares that it must do better than Apple in PC ecosystem](https://www.techradar.com/news/intels-new-ceo-declares-that-it-must-do-better-than-apple-in-pc-ecosystem)
+
+
+> (Image credit: Future) Intel has a new CEO, as you probably noticed, and Pat Gelsinger has firmly set out his stall to begin with – with Apple apparently very much in his sights.As Apple Insider reports, Gelsinger told Intel staff: 'We have to deliver better products to the PC ecosystem than any possible thing that a lifestyle company in Cupertino makes. We have to be that good, in the future.'The reference to Apple as a ‘lifestyle company' is a telling one, and the statement can certainly be read as an indication that Gelsinger is serious about shaking things up at Intel.
+
+
+***
+![Amazon Great Republic Day Sale on Jan 20: iPhone 12 mini, OnePlus 8T and other phones to get discounts](https://images.indianexpress.com/2020/12/iPhone-12-Mini.jpg "Amazon Great Republic Day Sale on Jan 20: iPhone 12 mini, OnePlus 8T and other phones to get discounts")
+
+
+[Amazon Great Republic Day Sale on Jan 20: iPhone 12 mini, OnePlus 8T and other phones to get discounts](https://indianexpress.com/article/technology/techook/amazon-great-republic-day-sale-jan-20-2021-iphone-12-mini-oneplus-8t-other-phones-discounts-7148947/)
+
+
+> Amazon Great Republic Day Sale will kick off from January 20 and will continue until January 23. Amazon Prime members will be able to access the sale 24 hours early, which means from January 19, 2021. Customers shopping during the Great Republic Day Sale will be able to save more by availing 10 percent instant discount on SBI Credit cards and Credit EMI. The sale will also include no-cost EMI options, which will be valid on Bajaj Finserv EMI card, Amazon Pay ICICI Credit card, Amazon Pay Later and select debit and credit cards.
+
+
+***
+![Iphone 12 pro facetime UAE version used im Europe](https://images.macrumors.com/social/?t=2280523&v=6 "Iphone 12 pro facetime UAE version used im Europe")
+
+
+[Iphone 12 pro facetime UAE version used im Europe](https://forums.macrumors.com/threads/iphone-12-pro-facetime-uae-version-used-im-europe.2280523/)
+
+
+> Hi guys, I have the option to buy iphone 12 pro in Uae(Dubai), probably I will order from the official apple site or buy in Apple store. I checked all the discussion and watched almost every video on youtube related to facetime when used outside of UAE and still i am not quite clear. I checked with some of the sales specialist online and they say it does not come with facetime preinstalled , and on the other videos i was seing it can be used in India on the iph 12 from Uae. As i plan to use phon
+
+
+***
+[Samsung preparing to bring S Pen support to foldables](https://www.zeebiz.com/technology/news-samsung-preparing-to-bring-s-pen-support-to-foldables-146175)
+
+
+> Samsung has launched its flagship Galaxy S21 Ultra device with the popular S Pen -- a first for the Galaxy S series. To date, the Stylus (S) Pen only came with Samsung Galaxy Note series smartphones that took productivity and creativity up a notch.
+
+
