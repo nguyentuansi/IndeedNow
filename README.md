@@ -6365,3 +6365,53 @@
 > Shoshana Wodinsky / Gizmodo: A deep dive into the WhatsApp privacy policy change that prompted an exodus of users from the app and why Facebook struggled to communicate what was in it — Even if you aren't the type of person who peruses WhatsApp on a regular basis, chances are you've tried perusing its new privacy policy.
 
 
+***
+![WhatsApp delays privacy changes amid outrage over 'personal data grab'](https://www.telegraph.co.uk/content/dam/technology/2021/01/15/TELEMMGLPICT000246441332_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "WhatsApp delays privacy changes amid outrage over 'personal data grab'")
+
+
+[WhatsApp delays privacy changes amid outrage over 'personal data grab'](https://www.telegraph.co.uk/technology/2021/01/15/whatsapp-delays-privacy-changes-amid-outrage-personal-data-grab/)
+
+
+> Facebook has delayed controversial plans to share more of WhatsApp users' information with Mark Zuckerberg's other businesses after being accused of launching a "personal data grab". The social media giant, which also owns Instagram, sparked outcry this month when it pushed a new "take it or leave it" privacy policy in front of WhatsApp's users, prompting millions to jump ship to rival messaging apps . But on Friday WhatsApp said it would push back the deadline for users to accept the changes from February 8 to May 15 so as give itself more time to "clear up misinformation" and "confusion", hitting out at "rumours" spreading online.
+
+
+***
+![WhatsApp to delay launch of update business features after privacy backlash](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-12/20201209_Whatsapp_Logo_AFP_01-seo.jpg "WhatsApp to delay launch of update business features after privacy backlash")
+
+
+[WhatsApp to delay launch of update business features after privacy backlash](https://www.malaymail.com/news/tech-gadgets/2021/01/16/whatsapp-to-delay-launch-of-update-business-features-after-privacy-backlash/1940925)
+
+
+> WhatsApp users received a notification this month that it was preparing a new privacy policy and terms, and it reserved the right to share some user data with the Facebook app. — AFP pic SAN FRANCISCO, Jan 16 — Facebook Inc's WhatsApp is delaying an update aimed at increasing business transactions on the platform after a storm of concern from users who feared that the messaging platform was watering down its privacy policy in the process. WhatsApp users received a notification this month that it was preparing a new privacy policy and terms, and it reserved the right to share some user data with the Facebook app.
+
+
+***
+![Facebook reiterates safety commitment](https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/15/ak_fb_1501.jpg?itok=KoweyMhk "Facebook reiterates safety commitment")
+
+
+[Facebook reiterates safety commitment](https://www.straitstimes.com/tech/tech-news/facebook-reiterates-safety-commitment)
+
+
+> Facebook sought to reassure the public of its commitment to keep its users safe yesterday in the wake of the ban and suspension of outgoing United States President Donald Trump's social media accounts by big tech firms. This comes after the storming of the US Capitol in Washington last week by rioters, which left at least five people dead. In a press conference here, Facebook reiterated it has beefed up its internal safety and security team globally and is working with external partners on policies to determine if content that violates its community standards poses a risk of real-world harm.
+
+
+***
+![WhatsApp changes: Signal messaging platform stops working as downloads surge](https://ichef.bbci.co.uk/news/1024/branded_news/5EB4/production/_116544242_signalmessagingapp.jpg "WhatsApp changes: Signal messaging platform stops working as downloads surge")
+
+
+[WhatsApp changes: Signal messaging platform stops working as downloads surge](https://www.bbc.com/news/technology-55684595)
+
+
+> image caption Signal is a free, encrypted messenger service - and a rival to WhatsApp and Telegram Messaging platform Signal said on Friday it was experiencing "technical difficulties" as it worked to accommodate millions of new users. Some users reported messages failing to send on both the mobile and desktop apps for several hours. The company has seen a huge uptick in interest since its rival WhatsApp unveiled new privacy terms last week. On Twitter, Signal said it had added servers "at a record pace" and was working to restore service.
+
+
+***
+![Critical NTFS bug in Windows 10 can corrupt HDD/SSD filesystem](https://external-preview.redd.it/dbGZaZcV4q_HKZbD2838LTCjI80p0XqvhnolDhoNp70.jpg?auto=webp&s=9cecbc91719f11685885a4e6ff55ba35eb587f8e "Critical NTFS bug in Windows 10 can corrupt HDD/SSD filesystem")
+
+
+[Critical NTFS bug in Windows 10 can corrupt HDD/SSD filesystem](https://www.reddit.com/r/programming/comments/ky7cqg/critical_ntfs_bug_in_windows_10_can_corrupt/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
