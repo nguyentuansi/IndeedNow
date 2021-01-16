@@ -6465,3 +6465,47 @@
 > Jan 1, 2008 1,640 275 On The Nickel, over there.... Hey everyone, I have a 2019 13' MBP with a 256GB SSD. I wanted to upgrade to Big Sur from Catalina (call me crazy) and during the download a dialog box opened saying I needed 12GB more space on the SSD. The wife loves her photos. There's currently a bit over 12GB available, and I've taken about everything off it I can. In very simple steps, is there any way I can somehow free up space somehow? I thought Big Sur would just install over Catalina. PS… I am an old retired guy.
 
 
+***
+[A look at the rise and fall of Xiami, Alibaba's Chinese music streaming service, which only had 22.4M MAUs by Oct. 2020 vs. 450M+ for Tencent's three music apps (South China Morning Post)](http://www.techmeme.com/210115/p33#a210115p33)
+
+
+> South China Morning Post: A look at the rise and fall of Xiami, Alibaba's Chinese music streaming service, which only had 22.4M MAUs by Oct. 2020 vs. 450M+ for Tencent's three music apps — Once a leader, Xiami saw its monthly active users (MAUs) fall to 22.4 million by October 2020, a tiny fraction of the 450 million …
+
+
+***
+![Therapists Are on TikTok. And How Does That Make You Feel?](https://static01.nyt.com/images/2021/01/12/well/12well-tiktok-therapy/12well-tiktok-therapy-facebookJumbo.jpg "Therapists Are on TikTok. And How Does That Make You Feel?")
+
+
+[Therapists Are on TikTok. And How Does That Make You Feel?](https://www.nytimes.com/2021/01/12/well/mind/tiktok-therapists.html)
+
+
+> Credit...Claire MerchlinskyMental health professionals are going viral on the app, captivating an anxious generation.Credit...Claire MerchlinskyPublished Jan. 12, 2021Updated Jan. 15, 2021, 10:14 p.m. ET'Now this looks like a job for me,' licensed doctoral therapist Courtney Tracy mimes along to an Eminem track through crimson lipstick, responding to the question she's posed, in black and white text, to her 1.4 million TikTok followers: 'Do you have: Anxiety, Addiction, Childhood trauma, Mood swings, Borderline, Depression.
+
+
+***
+![The death of Apple's Touch Bar is long overdue](https://mondrian.mashable.com/2021%252F01%252F16%252F16%252Fba15c64d195e40b78b6fe6746e948be2.3924d.jpg%252F1200x630.jpg?signature=VAH88x0nGSD_b-uA-J62VIPdUFo= "The death of Apple's Touch Bar is long overdue")
+
+
+[The death of Apple's Touch Bar is long overdue](https://mashable.com/article/macbook-pro-touchbar-reactions/)
+
+
+> I'm not going to get my hopes up, but it appears Apple may finally get rid of the stupid and much-loathed Touch Bar on its 2021 MacBook Pro.  According to trusted analyst Ming-Chi Kuo, Apple is planning to replace the Touch Bar featured on its current crop of MacBooks and, instead, revert back to physical keys (among other things) for the MacBook line. I like to think this long-requested change is due to the exact suggestion I made in my review of the 13-inch MacBook Pro last year. (Yes, that's me taking credit.
+
+
+***
+[WhatsApp delays new privacy policy by three months amid severe criticism](https://www.zeebiz.com/technology/apps/news-whatsapp-delays-new-privacy-policy-by-three-months-amid-severe-criticism-146149)
+
+
+> WhatsApp new privacy policy: WhatsApp announced delaying by three months the implementation of a new privacy policy that has faced massive backlash with tens of millions of its users moving from the platform to rivals like Signal and Telegram.
+
+
+***
+![Best credit cards for January 2021](https://cnet3.cbsistatic.com/img/f5p-bplvfUVvDNI1tXIR4A-lpCA=/1200x630/2019/08/14/8578e587-9a31-40a6-9740-1754ecd8ad66/apple-card-credit9637.jpg "Best credit cards for January 2021")
+
+
+[Best credit cards for January 2021](https://www.cnet.com/personal-finance/best-credit-card/)
+
+
+> Is this the year that you're going to grab your personal finances by the horns? Perhaps the best place to start is with a credit card that serves your individual spending habits. Lucky for you, there are lots of credit card options out there, so there's definitely one out there that meets your needs. Finding the perfect credit card might take a little digging though. That's right, you should research each and every card you're considering and really dig into what it offers. You should also arm yourself with knowledge about your credit score, variable APR, credit card interest, reward points, statement credit and eligible purchases before you commit to a credit card offer.
+
+
