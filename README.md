@@ -6697,3 +6697,53 @@
 > Apple Inc has begun early work on an iPhone with a foldable screen, a potential rival to similar devices from Samsung Electronics Co and others, though it's planning only minor changes for this year's iPhone line. The Cupertino, California-based company has developed prototype foldable screens for internal testing, but hasn't solidified plans to actually launch a foldable iPhone. The development work hasn't expanded beyond a display, meaning Apple doesn't yet have full handset prototypes in its labs, according to a person familiar with the work, who asked not to be identified discussing private matters.
 
 
+***
+![Samsung Galaxy S21 Plus 256GB 8GB RAM](https://vijaykarnataka.com/thumb/msid-80292849,width-1200,height-630/pic.jpg "Samsung Galaxy S21 Plus 256GB 8GB RAM")
+
+
+[Samsung Galaxy S21 Plus 256GB 8GB RAM](https://vijaykarnataka.com/tech/mobile-phones/samsung-galaxy-s21-plus-256gb-8gb-ram)
+
+
+> ಸಾರಾಂಶ ಪರ್ಫಾಮೆನ್ಸ್‌ Samsung ಡಿಸ್‌ಪ್ಲೇ 6.7 inches (17.02 cm) ಸ್ಟೋರೇಜ್‌ 256GB ಕ್ಯಾಮರಾ 12 MP + 12 MP + 64 MP ಬ್ಯಾಟರಿ 4800 mAh price in_india 76600 ರ‍್ಯಾಮ್ 8 GB, 8GB ಪ್ರಮುಖ ವಿಶೇಷತೆ ಫ್ರಂಟ್ ಕ್ಯಾಮರಾ 10 MP ಬ್ಯಾಟರಿ 4800 mAh ಪ್ರೋಸೆಸರ್ Samsung ರ‍್ಯಾಮ್ 8 GB rear camera 12 MP + 12 MP + 64 MP ಡಿಸ್‌ಪ್ಲೇ 6.7 inches ಸ್ಪೆಶಲ್ ಫೀಚರ್ಸ್ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್_ಪೊಸಿಶನ್ On-Screen fingerprint sensor_type Ultrasonic ಇತರ ಸೆನ್ಸರ್ Accelerometer, Barometer, Gyro sensor, Geomagnetic sensor, Hall sensor, Proximity sensor, Ambient Light Sensor ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ Yes ಸಾಮಾನ್ಯ ವಿವರ ಕ್ವಿಕ್ ಚಾರ್ಜಿಂಗ್ Yes ಓಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ Android v11 ಸಿಮ್‌ ಸ್ಲಾಟ್ಸ್ Dual SIM, GSM+GSM ಮಾದರಿ Galaxy S21 Plus 5G ಲಾಂಚ್ ಡೇಟ್ January 29, 2021 (Expected) ಕಸ್ಟಂ ಯುಐ Samsung One UI price in_india Rs.
+
+
+***
+![Signal app goes down amid peak user traffic](https://imagevars.gulfnews.com/2021/01/16/Signal-logo_17709ab1fe5_medium.jpg "Signal app goes down amid peak user traffic")
+
+
+[Signal app goes down amid peak user traffic](https://gulfnews.com/technology/media/signal-app-goes-down-amid-peak-user-traffic-1.1610774773337)
+
+
+> The Signal messaging app logo is seen on a smartphone. Image Credit: REUTERS New Delhi: The users of highly-encrypted Signal app faced trouble sending messages and the company said on Saturday that it was still working to bring additional capacity online to handle peak traffic levels. The problem started late Friday and the company first acknowledged it may be due to technical difficulties. Signal allows for secure and encrypted video, voice and text communication, but users were unable to send any messages.
+
+
+***
+![Apple considers foldable iPhone; minor changes planned for 2021 models](https://imagevars.gulfnews.com/2019/05/22/An-Apple-store-in-Shanghai_16ae0266d99_medium.jpg "Apple considers foldable iPhone; minor changes planned for 2021 models")
+
+
+[Apple considers foldable iPhone; minor changes planned for 2021 models](https://gulfnews.com/technology/apple-considers-foldable-iphone-minor-changes-planned-for-2021-models-1.1610770727202)
+
+
+> An Apple store in Shanghai. Apple Inc. has begun early work on an iPhone with a foldable screen, a potential rival to similar devices from Samsung Electronics Co. and others. Image Credit: Bloomberg Cupertino:  Apple Inc. has begun early work on an iPhone with a foldable screen, a potential rival to similar devices from Samsung Electronics Co. and others, though it's planning only minor changes for this year's iPhone line. The Cupertino, California-based company has developed prototype foldable screens for internal testing, but hasn't solidified plans to actually launch a foldable iPhone.
+
+
+***
+![US blacklists Xiaomi, CNOOC, Skyrizon, raising heat on China](https://imagevars.gulfnews.com/2018/3/27/1_16a084b51d2.2195254_3963419369_16a084b51d2_medium.jpg "US blacklists Xiaomi, CNOOC, Skyrizon, raising heat on China")
+
+
+[US blacklists Xiaomi, CNOOC, Skyrizon, raising heat on China](https://gulfnews.com/technology/us-blacklists-xiaomi-cnooc-skyrizon-raising-heat-on-china-1.1610771477393)
+
+
+> The US government has blacklisted Chinese smartphone maker Xiaomi Corp. and China's third-largest national oil company for alleged military links. Image Credit: Bloomberg Hong Kong: The US government has blacklisted Chinese smartphone maker Xiaomi Corp. and China's third-largest national oil company for alleged military links, heaping pressure on Beijing in President Donald Trump's last week in office. The Department of Defense added nine companies to its list of Chinese firms with military links, including Xiaomi and state-owned plane manufacturer Commercial Aircraft Corp.
+
+
+***
+![Apple starts working on foldable iPhone, iPhone 13 with in-display fingerprint likely in 2021](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-16_at_12_1200_210116123650.31-483x271.png "Apple starts working on foldable iPhone, iPhone 13 with in-display fingerprint likely in 2021")
+
+
+[Apple starts working on foldable iPhone, iPhone 13 with in-display fingerprint likely in 2021](https://www.indiatoday.in/technology/news/story/apple-starts-working-on-foldable-iphone-iphone-13-with-in-display-fingerprint-likely-in-2021-1759649-2021-01-16)
+
+
+> With companies like Samsung, Xiaomi and LG dipping their toes in the foldable phone segment, Apple is also exploring how it can put a foldable screen in the iPhone. Also, this year the iPhone 13 with a fingerprint display is likely. India Today Tech | January 16, 2021 | Updated 12:33 IST
+
+
