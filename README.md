@@ -6988,3 +6988,53 @@
 > No body in the article.
 
 
+***
+![Using a VPN on your iPhone or iPad is easy, here's how to get it set up!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/vpn-hero-2021.jpeg "Using a VPN on your iPhone or iPad is easy, here's how to get it set up!")
+
+
+[Using a VPN on your iPhone or iPad is easy, here's how to get it set up!](https://www.imore.com/how-configure-vpn-access-your-iphone-or-ipad)
+
+
+> We may earn a commission for purchases using our links. Learn more. Secure all the things Configuring a VPN on your iPhone or iPad is easier than you think. Here's everything you need to know. 16 Jan 2021 Source: iMore Apple makes it easy to set up and use one of the best VPN services on your iPhone or iPad. If your company has a private intranet that you need access to while on the road, if you regularly use public Wi-Fi networks, or if you travel the globe and want your iPhone to think it's still in your home country (or a different country), a VPN will help you out.
+
+
+***
+![Samsung does an Apple, removes in-box chargers](https://www.thehindu.com/sci-tech/technology/ivjpjh/article33588557.ece/ALTERNATES/LANDSCAPE_615/Samsung1 "Samsung does an Apple, removes in-box chargers")
+
+
+[Samsung does an Apple, removes in-box chargers](https://www.thehindu.com/sci-tech/technology/samsung-does-an-apple-removes-in-box-chargers/article33588421.ece)
+
+
+> Samsung to gradually phase out in-box accessories from its future mobiles.   | Photo Credit: Reuters (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Just three months after its rival Apple announced iPhone 12 smartphones will be shipped without chargers, Samsung says it too will cancel earphones and in-box chargers for new Galaxy S21. The South Korean smartphone maker is also planning to gradually phase out in-box accessories from its future mobiles.
+
+
+***
+![The best monitor 2021: Top 4K and Quad HD options for everyone](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/144611-laptops-buyer-s-guide-dell-ultrathin-image1-e0fbtnobza.jpg "The best monitor 2021: Top 4K and Quad HD options for everyone")
+
+
+[The best monitor 2021: Top 4K and Quad HD options for everyone](https://www.pocket-lint.com/laptops/buyers-guides/144611-the-best-pc-and-mac-monitors-for-creatives)
+
+
+> (Pocket-lint) - Whether you have a monster PC, a MacBook, or just an everyday use-it-for-everything computer, there are many reasons why you'd need a monitor. That also means there are many things to consider when looking to buy one. For some, only the biggest and sharpest panel will do. For others, it's fast refresh rates for smooth visuals.Whatever your reason for wanting a monitor, we've tested and rounded up some of the best monitors for all purposes available right now. Best gaming monitors: Top 4K, ultrawide and ultra-fast monitors to buyPocket-lintDell Ultrathin S2719DMsquirrel_widget_171642The Ultrathin series is a fine example of a stylish, minimalist design for a great price.
+
+
+***
+![A vocalist's guide: Setting up a home studio](https://images.indianexpress.com/2021/01/5044b44e-479f-4e55-a82b-085ed1e1cdeb.jpg "A vocalist's guide: Setting up a home studio")
+
+
+[A vocalist's guide: Setting up a home studio](https://indianexpress.com/article/technology/gadgets/vocalists-guide-to-setting-up-a-home-studio/)
+
+
+> The most preferred way to set up a home studio is to start with a simple setup with basic equipment, and expand over time. The amount a user should invest in setting up even the most basic home studio depends on what the user is looking to focus on. Cover singers, rappers, and podcasters usually look to record good quality audio and may not be involved in other aspects of music production. USB microphones are a great choice for beginners who want to focus solely on recording vocals. XLR microphones need an audio interface to work and cannot be connected directly to a computer but they allow multiple mics to be connected at once and are ideal for live shows, elaborate podcasting sessions, and music production.
+
+
+***
+![A vocalist's guide to setting up a home studio](https://images.indianexpress.com/2021/01/5044b44e-479f-4e55-a82b-085ed1e1cdeb.jpg "A vocalist's guide to setting up a home studio")
+
+
+[A vocalist's guide to setting up a home studio](https://indianexpress.com/article/technology/gadgets/vocalists-guide-to-setting-up-a-home-studio/)
+
+
+> The most preferred way to set up a home studio is to start with a simple setup with basic equipment, and expand over time. The amount a user should invest in setting up even the most basic home studio depends on what the user is looking to focus on. Cover singers, rappers, and podcasters usually look to record good quality audio and may not be involved in other aspects of music production. USB microphones are a great choice for beginners who want to focus solely on recording vocals. XLR microphones need an audio interface to work and cannot be connected directly to a computer but they allow multiple mics to be connected at once and are ideal for live shows, elaborate podcasting sessions, and music production.
+
+
