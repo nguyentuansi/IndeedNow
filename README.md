@@ -7235,3 +7235,53 @@
 > Apr 12, 2001 50,971 12,478 Apple introduced a new M1 MacBook Pro in November of 2020, but the new model didn't include any design changes. That's going to change in 2021, with rumors suggesting Apple has a major MacBook Pro design refresh in the works. Subscribe to the MacRumors YouTube channel for more videos.​ The 14 and 16-inch MacBook Pro models that are coming in 2021 will feature the most significant design overhaul to the MacBook Pro line that we've seen since 2016, and the updated machines will also address complaints that users have had with the MacBook Pro for years by bringing back older features that include MagSafe, more ports, and physical function keys.
 
 
+***
+![When is WandaVision set in the Marvel Cinematic Universe timeline?](https://cdn.mos.cms.futurecdn.net/XRdvRozMoFQaQgwJu6vWJa-1200-80.jpg "When is WandaVision set in the Marvel Cinematic Universe timeline?")
+
+
+[When is WandaVision set in the Marvel Cinematic Universe timeline?](https://www.techradar.com/news/when-is-wandavision-set-in-the-marvel-cinematic-universe-timeline)
+
+
+> Spoilers for WandaVision follow. WandaVision takes the Marvel Cinematic Universe to places it's never been before. Instead of focusing on epic superheroics, the new Disney Plus TV show turns Avengers Wanda Maximoff (Scarlet Witch) and Vision into a married couple at the center of their very own sitcom.While the first two episodes are set in the 1950s and 1960s, however – and feature many of the sitcom tropes of their respective eras – that doesn't mean WandaVision sits between the 1940s-set Agent Carter and the 1970-set sequence in Avengers: Endgame in the MCU timeline.
+
+
+***
+![IPad Air 4 screen response with protector](https://images.macrumors.com/social/?t=2280617&v=6 "IPad Air 4 screen response with protector")
+
+
+[IPad Air 4 screen response with protector](https://forums.macrumors.com/threads/ipad-air-4-screen-response-with-protector.2280617/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Dec 20, 2009 1,170 704 Bc Canada I just got my air 4 yesterday and upon applying my ESR tempered glass protector, I had a ton of screen response issues. It went away once I removed it, but I can't really find much issues with these and screen protectors. Is it possible somethings off with this ipad? ESR is a pretty popular brand and I'm using one on my iPhone as well without any issue You must log in or register to reply here.
+
+
+***
+![Woman Gets The Surprise Of A Lifetime With The Help Of An Extremely Talented Cockatoo](https://cdn.digg.com/wp-content/uploads/2021/01/16190958/Screen-Shot-2021-01-16-at-2.08.23-PM.jpg "Woman Gets The Surprise Of A Lifetime With The Help Of An Extremely Talented Cockatoo")
+
+
+[Woman Gets The Surprise Of A Lifetime With The Help Of An Extremely Talented Cockatoo](https://digg.com/video/cockatoo-surprise-erin-taylor-australia-video)
+
+
+> Erin Taylor and her boyfriend Jesse took a trip to the Australia zoo. But she ended up getting more than she bargained for. Citizens and police sift online trove to find Capitol mob. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. "I think we all deserve a pardon. I'm facing a prison sentence. I think I do not deserve that and from what I understand, every person is going to be arrested that was there, so I think everyone deserves a pardon, so I would ask the President of the United States to give me a pardon.
+
+
+***
+![How to Enable Microsoft Edge Full-Screen Mode](https://icdn2.digitaltrends.com/image/digitaltrends/edge-laptop-2-1200x630-c-ar1.91.jpg "How to Enable Microsoft Edge Full-Screen Mode")
+
+
+[How to Enable Microsoft Edge Full-Screen Mode](https://www.digitaltrends.com/computing/how-to-enable-microsoft-edge-full-screen-mode/)
+
+
+> Microsoft Edge has gone from the bottom of the web browser pile to the second most popular option after Google Chrome. In April of 2017, Microsoft Edge features, and functionality improvements highlighted the Windows 10 Creators Update , but not everyone was happy with Edge's advancements. For example, Microsoft pundit Paul Thurrott called out some of the browser's most crucial failings, and these limitations were definitely glaring. One of his complaints was the lack of a full-screen view , and that unlike Chrome, hitting the F11 key did nothing in Edge.
+
+
+***
+![The Victoria's Semi-Annual Sale is ending soon: The best deals you can still get](https://www.gannett-cdn.com/presto/2020/12/26/USAT/517c6e1a-4073-4df2-8ea0-eec0e81b62d3-vs-background.jpg?crop=892,502,x0,y0&width=1600&height=800&fit=bounds "The Victoria's Semi-Annual Sale is ending soon: The best deals you can still get")
+
+
+[The Victoria's Semi-Annual Sale is ending soon: The best deals you can still get](https://www.usatoday.com/story/tech/reviewedcom/2021/01/16/victorias-secret-semi-annual-sale-get-up-70-off-bras-plus-25-off/4183784001/)
+
+
+> The famed Semi-Annual Sale is back in full force.   (Photo: Victoria's Secret) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. When it comes to sales on intimates, there's no savings event more celebrated than the ever-popular Victoria's Secret Semi-Annual Sale . Two times a year, fans of the brand go bananas over this cornucopia of price cuts, with massive markdowns on everything from the company's best-selling bras and underwear to pj's, athleisure and more.
+
+
