@@ -7285,3 +7285,50 @@
 > The famed Semi-Annual Sale is back in full force.   (Photo: Victoria's Secret) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. When it comes to sales on intimates, there's no savings event more celebrated than the ever-popular Victoria's Secret Semi-Annual Sale . Two times a year, fans of the brand go bananas over this cornucopia of price cuts, with massive markdowns on everything from the company's best-selling bras and underwear to pj's, athleisure and more.
 
 
+***
+!['Law unto themselves': the Australian battle to curb Facebook and Twitter's power](https://i.guim.co.uk/img/media/9bd54e808c85e46f528ad7dda712ebecd640e63c/0_18_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5a92a948521985d4feacfb49b9f5351 "'Law unto themselves': the Australian battle to curb Facebook and Twitter's power")
+
+
+['Law unto themselves': the Australian battle to curb Facebook and Twitter's power](http://www.theguardian.com/australia-news/2021/jan/17/law-unto-themselves-the-australian-battle-to-curb-facebook-and-twitters-power)
+
+
+> N ationals MP Anne Webster and Labor MP Sharon Claydon are less concerned with why Donald Trump was taken off social media, and more concerned with what platforms such as Facebook are doing to stop online defamation and abuse. Webster and Claydon are the co-chairs of the Parliamentary Friends of Making Social Media Safe, a group to 'highlight the environment of social media and the risks associated' and to make the platforms more accountable. It now boasts more than 50 members thanks partly to Twitter and Facebook's response to last week's attack on the US Capitol.
+
+
+***
+![Unions turn up heat on Silicon Valley in fight for transparency](https://www.telegraph.co.uk/content/dam/technology/2021/01/14/TELEMMGLPICT000179630686_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7GgL7o0_ESnuLxJzSWOePQE.jpeg?impolicy=logo-overlay "Unions turn up heat on Silicon Valley in fight for transparency")
+
+
+[Unions turn up heat on Silicon Valley in fight for transparency](https://www.telegraph.co.uk/technology/2021/01/16/unions-turn-heat-silicon-valley-fight-transparency/)
+
+
+> This is starting to translate into unions. Last September, when the Communication Workers Union kicked off a United Tech and Allied Workers branch for tech workers, it attracted several hundred members within the first few days – data scientists and programmers from the likes of Google, Sony and Deliveroo. Marcus Storm, a union representative, says getting to grips with such a wide spread of issues, from misinformation at social media sites to climate change policies, is something they are still trying to figure out – but 'we've naturally formed our own sub-groups, which are overlapping'.
+
+
+***
+[I made a Python script to see what dog looks most like me](https://www.reddit.com/r/programming/comments/kyqdnm/i_made_a_python_script_to_see_what_dog_looks_most/)
+
+
+> submitted by /u/godismysavior69 [link] [comments]
+
+
+***
+![[TUTORIAL] Getting Real-Time Bitcoin Prices With Python](https://external-preview.redd.it/EZOFFzdkTbsnm5LBFG3ZfrtNVr2XD4AmTZTaPDB8g8Q.jpg?auto=webp&s=8a0b0f833eca2f4bdb1eb0241e13478e180771b1 "[TUTORIAL] Getting Real-Time Bitcoin Prices With Python")
+
+
+[[TUTORIAL] Getting Real-Time Bitcoin Prices With Python](https://www.reddit.com/r/Python/comments/kyqdcj/tutorial_getting_realtime_bitcoin_prices_with/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Watch Star Wars Movie in ASCII Using Windows Command Prompt](https://external-preview.redd.it/C1HMugwmJJfLWI4ot61LoZMzUnGQ9BGIIWePnaa3KMU.jpg?auto=webp&s=05959d4f9214af8cc96fbb814aacd7c7da20b0e3 "Watch Star Wars Movie in ASCII Using Windows Command Prompt")
+
+
+[Watch Star Wars Movie in ASCII Using Windows Command Prompt](https://www.reddit.com/r/programming/comments/kyqcg0/watch_star_wars_movie_in_ascii_using_windows/)
+
+
+> Damn, I didn't knew that!
+
+
