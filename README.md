@@ -6797,3 +6797,53 @@
 > Samsung launched the newest model in their S series on Thursday, January 14. Three variants were launched: the base S21, the S21 Plus, and the S21 Ultra. All of the new phones will carry a new 5nm processor, and 120Hz displays, among other features. We unbox the base S21 here. Check it out. – Rappler.com
 
 
+***
+![DockCase's excellent Smart Dock Pro has a screen and up to 9 ports](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/dockcase-smart-dock.jpg "DockCase's excellent Smart Dock Pro has a screen and up to 9 ports")
+
+
+[DockCase's excellent Smart Dock Pro has a screen and up to 9 ports](https://www.imore.com/dockcases-excellent-smart-dock-pro-has-screen-and-9-ports)
+
+
+> Source: SmartDock The DockCase Smart Dock comes with a handy screen to show connection speeds and more. The Smart Dock Pro is available in 7 and 9-port configurations. With Macs coming with fewer and fewer ports people are finding that they need docks and hubs more than ever before. There is no shortage of selection, but there's one that stands out from the crowd – because it has a display. The DockCase Smart Dock Pro has a built-in display that can show you what kinds of connections are active and how fast those connections can shift data.
+
+
+***
+![How to delete WhatsApp account and download your personal chats, data: step by step guide](https://images.financialexpress.com/2021/01/whatsapp1200-1.jpg "How to delete WhatsApp account and download your personal chats, data: step by step guide")
+
+
+[How to delete WhatsApp account and download your personal chats, data: step by step guide](https://www.financialexpress.com/industry/technology/how-to-delete-whatsapp-account-and-download-your-personal-chats-data-step-by-step-guide/2172248/)
+
+
+> Personal chats can easily be exported from WhatsApp.WhatsApp privacy policy: WhatsApp may have delayed the rollout of its ‘controversial' privacy policy update till May, but it is safe to assume that those terms and conditions are not going anywhere. At best, the delay can be seen as a temporary breather from the Facebook-owned company for users to better understand how their data will be handled going forward. In the words of WhatsApp, there is currently a lot of confusion around this aspect.Due to privacy concerns over the new update, several users have been thinking about leaving WhatsApp and looking for alternatives.
+
+
+***
+![Apple plans first iMac desktop redesign in nearly a decade](https://images.indianexpress.com/2021/01/1bb6ec48-a9f3-47f3-8dff-e8727a0c800c.jpg "Apple plans first iMac desktop redesign in nearly a decade")
+
+
+[Apple plans first iMac desktop redesign in nearly a decade](https://indianexpress.com/article/technology/tech-news-technology/apple-plans-first-imac-desktop-redesign-in-nearly-a-decade/)
+
+
+> Apple Inc is planning the first redesign of its iMac all-in-one desktop computer since 2012, part of a shift away from Intel Corp processors to its own silicon, according to people familiar with the plans. The new models will slim down the thick black borders around the screen and do away with the sizable metal chin area in favor of a design similar to Apple's Pro Display XDR monitor. These iMacs will have a flat back, moving away from the curved rear of the current iMac. Apple is planning to launch two versions — codenamed J456 and J457 — to replace the existing 21.
+
+
+***
+![Looking for reviewers for sklearn benchmark](https://external-preview.redd.it/Dauu049H_FJOcY4mUAlYkSU08k-m8heXeXoO-0eLxWw.jpg?auto=webp&s=7600d026a901abe3a1d1d427edae7efae5f58baa "Looking for reviewers for sklearn benchmark")
+
+
+[Looking for reviewers for sklearn benchmark](https://www.reddit.com/r/Python/comments/kyg7bq/looking_for_reviewers_for_sklearn_benchmark/)
+
+
+> Hello, I am comparing sklearn to a Go version with same functions that I have implemented. I am a bit rusty in high performance Python. Can anyone review Python related version here? https://github.com/nikolaydubina/go-featureprocessing/blob/main/docs/benchmark_compare/python-sklearn/bench.py Thank you! 🛠🐍 P.S. Not trying to make a Holly-War about Go vs Python here. Both are good. The project is specifically for enterprise backends written in Go already and want to integrate ML. 🙇🏻‍♂️
+
+
+***
+![#TECH: WhatsApp delays data sharing change after backlash](https://assets.nst.com.my/images/articles/botswhass_NSTfield_image_socialmedia.var_1610789682.jpg "#TECH: WhatsApp delays data sharing change after backlash")
+
+
+[#TECH: WhatsApp delays data sharing change after backlash](https://www.nst.com.my/lifestyle/bots/2021/01/657937/tech-whatsapp-delays-data-sharing-change-after-backlash)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
