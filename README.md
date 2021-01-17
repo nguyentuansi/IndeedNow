@@ -8295,3 +8295,53 @@
 > These design tips for upgrading cabinets can help make your kitchen look bigger.
 
 
+***
+![The state of JVM desktop frameworks: Swing](https://external-preview.redd.it/73AOjAMACxDmXWps1M2c19ug74R6eAtG69G1kfDt1fI.jpg?auto=webp&s=f43ade73d01bf96372a2fa81815b7b13d8e2fdc2 "The state of JVM desktop frameworks: Swing")
+
+
+[The state of JVM desktop frameworks: Swing](https://www.reddit.com/r/programming/comments/kza2ov/the_state_of_jvm_desktop_frameworks_swing/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Privacy-focused search engine DuckDuckGo grew by 62% in 2020](https://external-preview.redd.it/NY6k3TYqaOU3dX-tDUiewx7LOZbmMGVN8v2cQXzPB9E.jpg?auto=webp&s=4ad88db88f37c7ffd84d30c092a454e4559326b0 "Privacy-focused search engine DuckDuckGo grew by 62% in 2020")
+
+
+[Privacy-focused search engine DuckDuckGo grew by 62% in 2020](https://www.reddit.com/r/technology/comments/kz9vtn/privacyfocused_search_engine_duckduckgo_grew_by/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Calendar now only searches in "Today"](https://forums.macrumors.com/attachments/screenshot-2021-01-17-at-16-22-34-png.1714574/ "Calendar now only searches in "Today"")
+
+
+[Calendar now only searches in "Today"](https://forums.macrumors.com/threads/calendar-now-only-searches-in-today.2280720/)
+
+
+> When searching for events in Calendar v11.0 (2811.3.1), it only searches in Today - this indicated by the wrod "Today" appearing in red under the search box. It didn't do this before (but before when I am unsure) and I don't recall, at least knowingly, changing any setting anywhere. I would have expected the search for Parking to have picked up this event. Can anyone help me to restore the universal search function? Thanks in advance. Last edited: 2 minutes ago
+
+
+***
+![Does anyone wanna join my Google Hash Code team???](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Does anyone wanna join my Google Hash Code team???")
+
+
+[Does anyone wanna join my Google Hash Code team???](https://www.reddit.com/r/programming/comments/kz9sd8/does_anyone_wanna_join_my_google_hash_code_team/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Tory MPs joined right-wing ‘free speech' platform Parler – report](https://external-preview.redd.it/8EdCv2nRh6JuVqBQLmbMRCURGdwjIEpmbVul_SaHWrk.jpg?auto=webp&s=4d2bb3404a7c3aba0c65eaa146f1a013765e5594 "Tory MPs joined right-wing ‘free speech' platform Parler – report")
+
+
+[Tory MPs joined right-wing ‘free speech' platform Parler – report](https://www.reddit.com/r/technology/comments/kz9qoe/tory_mps_joined_rightwing_free_speech_platform/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
