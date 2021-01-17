@@ -7663,3 +7663,53 @@
 > By John Dodge On Jan 17, 2021 One thing about Zordon's past as a Guardian of Eltar is becoming very clear – he never wanted to lead the team in the first place.WARNING: The following contains major spoilers for Mighty Morphin #3 by Ryan Parrott, Marco Renna, Walter Baiamonte, Katia Ranalli and Ed Dukeshire, on sale now.The Power Rangers have been facing a near unending spate of threats, both from beyond the stars and within their own ranks. The Empyreal threat looms out in the void of space, the Omega Rangers have betrayed their former teammates by kidnapping the extradimensional tyrant Drakkon, and now a supercharged Lord Zedd has introduced a new breed of Putties that themselves been made infinitely stronger than ever by the Green Chaos Energy surging through their bodies.
 
 
+***
+![Super fast 5G in the US still a work in progress](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-06/5gsing2506-seo.jpg "Super fast 5G in the US still a work in progress")
+
+
+[Super fast 5G in the US still a work in progress](https://www.malaymail.com/news/tech-gadgets/2021/01/17/super-fast-5g-in-the-us-still-a-work-in-progress/1941257)
+
+
+> Marketing pitches in the US are bullish on superfast 5G telecom networks, but they remain more of a promise than reality. — Reuters pic SAN FRANCISCO, Jan 17 — Marketing pitches in the US are bullish on superfast 5G telecom networks, but they remain more of a promise than reality. Promoters of the technology say it will bring such innovations as fast-thinking self-driving cars and rapid-fire video downloads. And nationwide coverage with 5G could add US$1.5 trillion (RM6.05 trillion) to GDP in the next five years.
+
+
+***
+![Why is there such a fuss at the moment about Signal?](https://apicms.thestar.com.my/uploads/images/2021/01/17/1010823.jpg "Why is there such a fuss at the moment about Signal?")
+
+
+[Why is there such a fuss at the moment about Signal?](https://www.thestar.com.my/tech/tech-news/2021/01/17/why-is-there-such-a-fuss-at-the-moment-about-signal)
+
+
+> The Signal application is attracting more and more disappointed users of WhatsApp. — AFP Relaxnews Since the controversy surrounding WhatsApp's new terms of use, which require more information sharing with its parent company Facebook, many users are looking for a more privacy-friendly alternative. And all eyes seem to be turning to Signal, which has been surfing for several days now at the top of the list of most downloaded applications. The buzz started with a simple tweet from Elon Musk, Tesla's whimsical boss, who incidentally became the richest man in the world at the beginning of the year.
+
+
+***
+![Samsung Galaxy S21 Ultra: This has some serious camera chops](https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg "Samsung Galaxy S21 Ultra: This has some serious camera chops")
+
+
+[Samsung Galaxy S21 Ultra: This has some serious camera chops](https://www.thehindubusinessline.com/specials/technophile/samsung-galaxy-s21-ultra-this-has-some-serious-camera-chops/article33592344.ece)
+
+
+> It's difficult for me not to feel a distinct frisson of excitement when watching Samsung unveil a new flagship line for the year. For heaven's sake, I've been using a Samsung phone since 2002. My first Samsung phone was a Porsche inspired flip phone called True-i. It was a feature phone with which you could do little, but I was fiercely possessive of it and lived in fear that someone would touch it out of curiosity — because it was the ultimate in phone tech then. Look at the dramatic contrast between the Galaxy S21 Ultra and those early phones.
+
+
+***
+![Facebook to ban ads promoting weapon accessories, protective gear in US](https://assets2.rappler.com/2021/01/reuters-20210106-us-capitol-siege-02-1610846026588.jpg "Facebook to ban ads promoting weapon accessories, protective gear in US")
+
+
+[Facebook to ban ads promoting weapon accessories, protective gear in US](https://www.rappler.com/technology/social-media/facebook-to-ban-ads-promoting-weapon-accessories-protective-gear-united-states)
+
+
+> Facebook Inc said on Saturday, January 16, it will ban advertisements for weapon accessories and protective equipment in the United States with immediate effect until at least two days after US President-elect Joe Biden's inauguration on Wednesday, January 20. "We already prohibit ads for weapons, ammunition, and weapon enhancements like silencers. But we will now also prohibit ads for accessories," Facebook said in a blog post. Three US senators sent a letter to Facebook Chief Executive Mark Zuckerberg on Friday, January 15 asking him to permanently block advertisements of products that are clearly designed to be used in armed combat.
+
+
+***
+![Sony brings news Bravia XR TV line-up with new ‘Cognitive Processor XR'](https://imagevars.gulfnews.com/2021/01/12/Sony-XR-Lead_176f7fd30d6_medium.jpg "Sony brings news Bravia XR TV line-up with new ‘Cognitive Processor XR'")
+
+
+[Sony brings news Bravia XR TV line-up with new ‘Cognitive Processor XR'](https://gulfnews.com/technology/sony-brings-news-bravia-xr-tv-line-up-with-new-cognitive-processor-xr-1.1610355258656)
+
+
+> Sony Bravia XR Image Credit: Supplied Sony Electronics recently announced the new Bravia XR televisions, including the MASTER Series Z9J 8K LED and A90J OLED as well as the A80J OLED, X95J and X90J 4K LED televisions. Powered by the Cognitive Processor XR, the brain of the new Bravia XR, the Bravia TV's use a completely new processing method that goes beyond conventional AI, designed to replicate the ways humans see and hear. Sony's latest new Bravia XR TV Supplied When we see objects, we unconsciously focus on certain points.
+
+
