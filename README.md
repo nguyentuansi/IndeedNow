@@ -7904,3 +7904,53 @@
 > Signal users might see errors in some chats as a side effect to the outage Published:  January 17, 2021 09:53 Reuters The Signal messaging app logo is seen on a smartphone. Image Credit: REUTERS Signal said on Saturday it had restored its services a day after the application faced technical difficulties as it dealt with a flood of new users after rival messaging app WhatsApp announced a controversial change in privacy terms. Signal has seen a rise in downloads following a change in WhatsApp's privacy terms, which required WhatsApp users to share their data with both Facebook Inc and Instagram.
 
 
+***
+![Is this an acceptable method fo sanitize user-defined f strings?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Is this an acceptable method fo sanitize user-defined f strings?")
+
+
+[Is this an acceptable method fo sanitize user-defined f strings?](https://www.reddit.com/r/Python/comments/kz33li/is_this_an_acceptable_method_fo_sanitize/)
+
+
+> I have a custom class that loads a standard json and offers various class methods/variables to parse some variable power level structures within a json file in a meaningful way based on the presence of some higher level features. One of the methods I am including in this class is to fill PDF form fields using a dictionary generated from a user supplied configuration file with the keys as the form fields and the values as user-supplied f strings. I want these to allow calls to self variables/methods and list/dict comprehensions without allowing for any malicious code to run.
+
+
+***
+![RSA Encryption algorithm using python3](https://external-preview.redd.it/Pchds30En53P2zuSZfAw9z2fMdkw8fKUF6roimIGZPk.jpg?auto=webp&s=15fc7c75d7766ff9093b46c270c8f187056d215f "RSA Encryption algorithm using python3")
+
+
+[RSA Encryption algorithm using python3](https://www.reddit.com/r/programming/comments/kz336r/rsa_encryption_algorithm_using_python3/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Ravens' Lamar Jackson throws pick-six; Bills' Taron Johnson ties NFL playoff record with 101-yard return » TechnoCodex](https://images.daznservices.com/di/library/sporting_news/46/51/lamar-jackson-11321-getty-ftr_lq4enn81zmji1nne9495zs4e1.jpg?t=12322215&quality=100 "Ravens' Lamar Jackson throws pick-six; Bills' Taron Johnson ties NFL playoff record with 101-yard return » TechnoCodex")
+
+
+[Ravens' Lamar Jackson throws pick-six; Bills' Taron Johnson ties NFL playoff record with 101-yard return » TechnoCodex](https://technocodex.com/ravens-lamar-jackson-throws-pick-six-bills-taron-johnson-ties-nfl-playoff-record-with-101-yard-return/)
+
+
+> By Joe Rivera Last updated Jan 17, 2021Lamar jacked, son. The Ravens and the Bills were locked in a defensive struggle — featuring a couple of offensive offenses — in their AFC playoff game Saturday night when Ravens quarterback Lamar Jackson threw a back-breaking, record-tying pick-six to Taron Johnson put the Bills up by 14 points.Jackson did his best to track down Johnson, but Johnson wasn't touched as he hit paydirt.MORE: Live updates, highlights from Ravens-BillsThe Bills DB achieved some serious speed of his own, surpassing 20 mph — which is speeding in some areas — and tying an NFL playoff record with his 101-yard interception return.
+
+
+***
+![AUS vs IND, 4th Test: Washington Sundar, Shardul Thakur Lead India's Fightback As Australia Take 54-Run Lead On Day 3 » TechnoCodex](https://c.ndtvimg.com/2021-01/4jm7q3u_sahrdul-thakur-washington-sundar-batting-test-instagram_625x300_17_January_21.jpg "AUS vs IND, 4th Test: Washington Sundar, Shardul Thakur Lead India's Fightback As Australia Take 54-Run Lead On Day 3 » TechnoCodex")
+
+
+[AUS vs IND, 4th Test: Washington Sundar, Shardul Thakur Lead India's Fightback As Australia Take 54-Run Lead On Day 3 » TechnoCodex](https://technocodex.com/aus-vs-ind-4th-test-washington-sundar-shardul-thakur-lead-indias-fightback-as-australia-take-54-run-lead-on-day-3/)
+
+
+> A pair of unlikely third-day batting heroes Sunday gave India a fighting chance of securing the draw they need in the fourth Test against Australia to retain the Border-Gavaskar Trophy. Washington Sundar and Shardul Thakur, in just his second Test, put on 123 runs for the seventh wicket — a record for India at the Gabba — taking their team from a precarious 186 for seven to 309 before Thakur was bowled by Pat Cummins for an entertaining 67.All-rounder Sundar, on debut, batted well with the tail until he guided a Mitchell Starc short ball to Cameron Green in the gully to fall for 62.
+
+
+***
+![Go Slice Tricks Cheat Sheet](https://external-preview.redd.it/uN6uyxum-iF7oPP3Cy3QeC6_yvQsN9AUPo4rSHtX58g.jpg?auto=webp&s=cb38e0d4bbc254632b77e37a8eb264ea54240233 "Go Slice Tricks Cheat Sheet")
+
+
+[Go Slice Tricks Cheat Sheet](https://www.reddit.com/r/programming/comments/kz2udq/go_slice_tricks_cheat_sheet/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
