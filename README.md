@@ -8001,3 +8001,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![How to watch Inter Milan vs Juventus: Live stream Series A football online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/inter-juventus.jpg "How to watch Inter Milan vs Juventus: Live stream Series A football online")
+
+
+[How to watch Inter Milan vs Juventus: Live stream Series A football online](https://www.androidcentral.com/how-watch-inter-milan-juventus)
+
+
+> Serie A titleholders Juventus will be hoping to continue their hot streak of form as they travel east to face Internazionale at the San Siro in Milan today. Don't miss a moment with our Inter Milan vs Juventus live stream guide. Source: Android Central Derby d'Italia matches between these two sides are always fiercely competitive and today's instalment is likely to be even higher stakes given current league positions. Hosts Inter sit in second place and are only just off the pace of city rivals AC Milan.
+
+
+***
+![How to watch Liverpool vs Man United: Live stream the Premier League online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/liverpool-man-united.jpg "How to watch Liverpool vs Man United: Live stream the Premier League online")
+
+
+[How to watch Liverpool vs Man United: Live stream the Premier League online](https://www.androidcentral.com/liverpool-vs-man-united-live-stream-how-watch-premier-league-match-online-anywhere)
+
+
+> It's pure football box office on Sunday as two of English football's biggest rivals battle it out to go top of the Premier League. Read on for our full guide to getting a Liverpool vs Man United live stream and watching the match online wherever you are right now. Source: Android Central Having looked like another season of abject disappointment was on the cards for United as recently as early November, Ole Gunnar Solskjaer has somehow turned things around, with the Red Devils now looking like bonafide title contenders.
+
+
+***
+![Oddworld: Soulstorm — What's next for Abe's story? All you need to know](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/oddworldsoulstorm-abe-screenshot.jpg "Oddworld: Soulstorm — What's next for Abe's story? All you need to know")
+
+
+[Oddworld: Soulstorm — What's next for Abe's story? All you need to know](https://www.androidcentral.com/oddworld-soulstorm-ps5-release-date-gameplay-trailers-and-everything-you-need-know)
+
+
+> Source: Oddworld Inhabitants Abe led us through some crunchy, zappy, and very explode-y situations in Oddworld: Abe's Odyssey and Abe's Exodus back in the days of the original PlayStation. Since the original release, Oddworld Inhabitants, the developers of Oddworld games, have taken us on a journey with Munch and Stranger, and gave us a beautiful remake for the beginning of Abe's story in New'n'Tasty. Six years after the remake, we are ready to see more of Abe's story. Embrace your destiny Take on the role of Abe, a reluctant hero who must lead his people to freedom or see them eradicated.
+
+
+***
+![I just created a script that relocates dowloaded files based on their extensions!](https://external-preview.redd.it/zJ_Xk6cBuwqkWv_cSOwy6gzItyQQiuQUa2ZDgdktMuw.jpg?auto=webp&s=f0b24942a27d6aeed845c0a7da56f38c701b9244 "I just created a script that relocates dowloaded files based on their extensions!")
+
+
+[I just created a script that relocates dowloaded files based on their extensions!](https://www.reddit.com/r/Python/comments/kz4gqu/i_just_created_a_script_that_relocates_dowloaded/)
+
+
+> This script is very useful in case your downloading files all day long and you feel kind of lost in your download folder! Please tell me what you think of my repo and what I could Improve. I'm posting this to get visibility but also to get some returns so that I can improve my repo and code :) here is the repo: https://github.com/aime-risson/pyFileManager
+
+
+***
+![Just finished writing a tool for upgrading a codebase's type annotations](https://external-preview.redd.it/Z-v5j8k0EIwdJvfjosx6rJW_khdsFlQO-bczdbgZUYA.jpg?auto=webp&s=0578a12a53e4cf6166864dc09ceb9f58234a4496 "Just finished writing a tool for upgrading a codebase's type annotations")
+
+
+[Just finished writing a tool for upgrading a codebase's type annotations](https://www.reddit.com/r/Python/comments/kz4c3y/just_finished_writing_a_tool_for_upgrading_a/)
+
+
+> I've just finished testing my new project, and would love to see more people than just me benefit from this. The project is essentially a pep585 type annotation converter that's built to be used as a pre-commit hook, but can be run on a whole codebase once pretty easily. https://github.com/sondrelg/pep585-upgrade Feedback and contributions are always welcome 👏
+
+
