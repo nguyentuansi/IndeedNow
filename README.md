@@ -7563,3 +7563,53 @@
 > 9to5Mac's Benjamin Mayo and Zac Hall unpack the latest 2021 rumors from Ming-Chi Kuo and Bloomberg including redesigned iMac, MacBook Pro, and Apple display hardware. Sponsored by TwoBird —one inbox for all your tasks- Write emails, create notes, set reminders, view events, and collaborate live. Learn more about Twobird and download it for free at twobird.com. Sponsored by Headspace: You deserve to feel happier, and Headspace is meditation made simple. Go to headspace.com/mac to start your free one-month trial.
 
 
+***
+![Facebook bans ads for gun accessories in run-up to inauguration](https://external-preview.redd.it/hMdPqtahmktrxvc9VBAqxdNFkmI-mbNRjMZLAqQEEMA.jpg?auto=webp&s=cf43663daf4354c811f15c7804c633d5e2ff5204 "Facebook bans ads for gun accessories in run-up to inauguration")
+
+
+[Facebook bans ads for gun accessories in run-up to inauguration](https://www.reddit.com/r/technology/comments/kywsbz/facebook_bans_ads_for_gun_accessories_in_runup_to/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Benchmarked: The state of Rust web frameworks in 2021](https://external-preview.redd.it/q-RhHJvGcWMHCSAyDZl3RtCOXfqManVjXGmtKAN4UfQ.jpg?auto=webp&s=970e05e4913bcec4fbcad7461bad4e87af3eb76b "Benchmarked: The state of Rust web frameworks in 2021")
+
+
+[Benchmarked: The state of Rust web frameworks in 2021](https://www.reddit.com/r/programming/comments/kywfpu/benchmarked_the_state_of_rust_web_frameworks_in/)
+
+
+> TL;DR: They're all fast enough that it really doesn't matter, pick whichever one you like best.
+
+
+***
+![Yahoo Finance Comments Data Mining](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Yahoo Finance Comments Data Mining")
+
+
+[Yahoo Finance Comments Data Mining](https://www.reddit.com/r/Python/comments/kyw5qi/yahoo_finance_comments_data_mining/)
+
+
+> Hey everyone, Just wanted to quickly ask if anyone knows whether or not is possible to data mine yahoo finance comments in regards to sentiment analysis for a particular stock/security? Just curious if this is possible, and if it is where would I begin to find the tools to accomplish it?
+
+
+***
+![HELP / iPhone 12 pm laggy and the apps in background have a white screen](https://forums.macrumors.com/attachments/8f947e38-13f9-4d12-9710-609f61b4b7da-jpeg.1714250/ "HELP / iPhone 12 pm laggy and the apps in background have a white screen")
+
+
+[HELP / iPhone 12 pm laggy and the apps in background have a white screen](https://forums.macrumors.com/threads/help-iphone-12-pm-laggy-and-the-apps-in-background-have-a-white-screen.2280657/)
+
+
+> All of a sudden the apps open in the background started having a white preview, before they would either show the page I was on in the preview or the app logo if it couldn't keep the apps open due to too many things open; but now it's not even the logo but just a white screen ...what's happening? The only different thing I did is that I used it in -3 degrees Celsius which I never did before , could the cold weather have damaged something inside? Also it's a bit more laggy and not as smooth.. Should I consider an apple appointment? I tried restarting already.
+
+
+***
+![Amazon.com, Inc. (AMZN) Earnings Report](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Amazon.com, Inc. (AMZN) Earnings Report")
+
+
+[Amazon.com, Inc. (AMZN) Earnings Report](https://seekingalpha.com/symbol/AMZN/earnings)
+
+
+> No body in the article.
+
+
