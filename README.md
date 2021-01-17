@@ -8636,3 +8636,50 @@
 > Words have weight, meaning and implication. They can also bear a heavy cost. In a world where information, data and words can be misconstrued, misunderstood and manipulated, we need to move away from the idea of free speech and instead to one of rights to speech. Rights confer a privilege to be understood and considered when communicating. This should bring to bear the implication of speech associated with context, audience, platform and interpretation. As a society inundated with false information, we need to be cognizant of the data we receive and our subsequent reaction, as well as clarification of our societal rights.
 
 
+***
+![Richard Branson's Virgin Orbit reaches space eight months after first flight](https://external-preview.redd.it/uZywLNO04b6sCTGpw6rIVkMbTpPQV5tqC2T6Ftj7ctM.jpg?auto=webp&s=7f942508d5d2a8b02f54cbc16cbe4257b2b3568a "Richard Branson's Virgin Orbit reaches space eight months after first flight")
+
+
+[Richard Branson's Virgin Orbit reaches space eight months after first flight](https://www.reddit.com/r/technology/comments/kzh3ll/richard_bransons_virgin_orbit_reaches_space_eight/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
+***
+![Virgin Orbit launches rocket off a 747 aircraft, puts nine satellites in space](https://cdn.cnn.com/cnnnext/dam/assets/210117154442-virgin-orbit-launcherone-210117-super-tease.jpg "Virgin Orbit launches rocket off a 747 aircraft, puts nine satellites in space")
+
+
+[Virgin Orbit launches rocket off a 747 aircraft, puts nine satellites in space](https://www.cnn.com/2021/01/17/tech/virgin-orbit-launch-scn/index.html)
+
+
+> Virgin Orbit's 747, nicknamed Cosmic Girl, took off from California around 10:30 am PT with the rocket, called LauncherOne, nestled beneath the plane's left wing. The aircraft flew out over the Pacific Ocean before the rocket was released, freeing LauncherOne and allowing it to power up its rocket motor and propel itself to more than 17,000 miles per hour, fast enough to begin orbiting the Earth."In both a literal and figurative sense, this is miles beyond how far we reached in our first Launch Demo," the company posted on its Twitter account.
+
+
+***
+![Buccaneers vs Saints live stream: how to watch NFL playoffs from anywhere tonight](https://cdn.mos.cms.futurecdn.net/CyjfmvVRRbWCYe7XArd66e-1200-80.jpg "Buccaneers vs Saints live stream: how to watch NFL playoffs from anywhere tonight")
+
+
+[Buccaneers vs Saints live stream: how to watch NFL playoffs from anywhere tonight](https://www.techradar.com/news/buccaneers-vs-saints-live-stream-how-to-watch-nfl-playoffs-from-anywhere)
+
+
+> The Saints made mincemeat of the Bucs in the regular season, beating them twice - the second of those a 38-3 humiliation, the heaviest defeat of Tom Brady's career. Three-game sweeps aren't actually as difficult to tie up as you may have been led to believe, but TB12 is of course no ordinary opponent. Read on as we explain how to get a Buccaneers vs Saints live stream and watch NFL playoffs online wherever you are right now.Incredibly, this is the first time Brady and Drew Brees have faced each other in the playoffs, despite Brady starting his NFL career in 2000 and Brees joining the league a year later.
+
+
+***
+[Python voice activated assistant](https://www.reddit.com/r/Python/comments/kzgobn/python_voice_activated_assistant/)
+
+
+> I made a little assistant in python which is voice activated and also has a GUI. This video is version 4 alpha. Right now I have made the full version 4 but I have yet to upload a video showcasing the new features. Python Voice Activated Assistant | MK4.alpha - YouTube ​ Need some ideas for more features :) submitted by /u/Attroxide [link] [comments]
+
+
+***
+![2021 is the year of the Chromebook: here's why](https://external-preview.redd.it/j81w2-PlK_MCOfN-GCZEEKC6oh3EPBZzi0BVnFhqj2M.jpg?auto=webp&s=28e9c4fc570b9a9252d889461f3ba8e863fae0dc "2021 is the year of the Chromebook: here's why")
+
+
+[2021 is the year of the Chromebook: here's why](https://www.reddit.com/r/technology/comments/kzgn1e/2021_is_the_year_of_the_chromebook_heres_why/)
+
+
+> No body in the article.
+
+
