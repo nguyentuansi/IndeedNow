@@ -8245,3 +8245,53 @@
 > Note: built by a 12-year-old engineer. Just going to get straight to the point: - New VSCode Theme - Awesome syntax highlighting for 95%+ languages (almost all) - 1000 installs in 2 days - #1 Trending Today + #5 Trending this week - Light/Pastel Colours - Dark, Light, and Italic Lunar Themes Install here: https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar
 
 
+***
+![Business could be on the precipice of an automation explosion](https://content.fortune.com/wp-content/uploads/2021/01/GettyImages-1189936980.jpg?resize=1200,600 "Business could be on the precipice of an automation explosion")
+
+
+[Business could be on the precipice of an automation explosion](https://fortune.com/2021/01/17/automation-threat-to-workers-job-loss-covid-technology/)
+
+
+> No body in the article.
+
+
+***
+![Beware of your ear! Music volume suddenly increased to maximum upon double clicking volume-up button](https://images.macrumors.com/social/?t=2280713&v=6 "Beware of your ear! Music volume suddenly increased to maximum upon double clicking volume-up button")
+
+
+[Beware of your ear! Music volume suddenly increased to maximum upon double clicking volume-up button](https://forums.macrumors.com/threads/beware-of-your-ear-music-volume-suddenly-increased-to-maximum-upon-double-clicking-volume-up-button.2280713/)
+
+
+> I just purchased an IPhone 12 Pro Max 256 GB. I often listen music on my iPhone. The problem is: Recently, my ear very often got hurt due to music volume suddenly increased to maximum at very low volume. This happens frequently. After repeatedly testing my iPhone, the problem can be reproduced by: 1. Open the music app and play the music at low volume (either with phone speaker or earphone) 2. Press the sleep/wake button and immediately double click the volume-up button upon turning of the screen.
+
+
+***
+![Martin Scorsese has a good time in ‘Pretend It's A City' – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/PretendItE28099saCity_PretendItsaCity_LimitedSeries_Episode7_00_08_02_15R.jpg?w=601 "Martin Scorsese has a good time in ‘Pretend It's A City' – TechCrunch")
+
+
+[Martin Scorsese has a good time in ‘Pretend It's A City' – TechCrunch](https://techcrunch.com/2021/01/17/original-content-pretend-its-a-city/)
+
+
+> The concept behind the new Netflix documentary series 'Pretend It's A City' is pretty straightforward: Author Fran Lebowitz talks, while Martin Scorsese (who's both director and an on-camera presence) listens and laughs. Lebowitz's musings across seven episodes are organized by loose themes, such as 'Metropolitan Transit' and 'Library Services,' with the more recent footage interspersed with clips from older interviews. That's pretty much it as far as structure goes; while Lebowitz shares a number of amusing anecdotes, there's no attempt to explore the broader arc of her career or explain why we're watching a show about her.
+
+
+***
+![Incase classic sleeve for the MacBook Air 2018/M1](https://images.macrumors.com/social/?t=2280710&v=6 "Incase classic sleeve for the MacBook Air 2018/M1")
+
+
+[Incase classic sleeve for the MacBook Air 2018/M1](https://forums.macrumors.com/threads/incase-classic-sleeve-for-the-macbook-air-2018-m1.2280710/)
+
+
+> Feb 2, 2013 371 98 Germany Has anyone here gotten this sleeve for their MacBook Air? I ordered it on amazon but is it just too big for the air, it just wiggles around in the sleeve :/ . Some reviews on amazon say it fits like a glove, others say that it doesn't fit so well, how has your experience been?
+
+
+***
+![Upgrade your cabinets with these tips](https://www.gannett-cdn.com/presto/2021/01/17/USAT/6a97e8c1-faae-49b5-8fec-eada87a92a72-fe013b68-78b2-4d1f-93ea-6b2fa1c5b029_thumbnail.png?quality=10 "Upgrade your cabinets with these tips")
+
+
+[Upgrade your cabinets with these tips](https://www.usatoday.com/videos/tech/problemsolved/2021/01/15/kitchen-upgrades-simple-tips-upgrading-your-cabinets/4178357001/)
+
+
+> These design tips for upgrading cabinets can help make your kitchen look bigger.
+
+
