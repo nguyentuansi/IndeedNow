@@ -8098,3 +8098,53 @@
 > How many parents really know what their children are exposed to on the internet? We're familiar with the many dangers lurking there: exposure to harmful content, bullying, communication with strangers, sexual exploitation, pornography, identity theft and fraud. Most parents don't want to go snooping through their kids' phones and computers, but even if they did, they can't supervise their children all the time, and the dangers are too sophisticated for ordinary people to deal with. The usual solution for parents is to rely on parental control technologies – various kinds of software that filters and blocks content or follows kids' internet habits without their knowledge.
 
 
+***
+![The Crooked, Complex Geometry of Round Trips](https://media.wired.com/photos/600217379b842be9381345f1/191:100/w_1280,c_limit/Quanta_CubePath_2880_Lede.jpg "The Crooked, Complex Geometry of Round Trips")
+
+
+[The Crooked, Complex Geometry of Round Trips](https://www.quantamagazine.org/the-crooked-geometry-of-round-trips-20210113/)
+
+
+> Have you ever wondered what life would be like if Earth weren't shaped like a sphere? We take for granted the smooth ride through the solar system and the seamless sunsets afforded by the planet's rotational symmetry. A round Earth also makes it easy to figure out the fastest way to get from point A to point B: Just travel along the circle that goes through those two points and cuts the sphere in half. We use these shortest paths, called geodesics, to plan airplane routes and satellite orbits.Original story reprinted with permission from Quanta Magazine, an editorially independent publication of the Simons Foundation whose mission is to enhance public understanding of science by covering research develop­ments and trends in mathe­matics and the physical and life sciences.
+
+
+***
+![Dubai-based teenager recycles 25 tonnes of e-waste via social media campaign](https://sm.mashable.com/t/mashable_me/photo/default/shutterstock-1118223128_fafu.1200.jpg "Dubai-based teenager recycles 25 tonnes of e-waste via social media campaign")
+
+
+[Dubai-based teenager recycles 25 tonnes of e-waste via social media campaign](https://me.mashable.com/tech/12571/dubai-based-teenager-recycles-25-tonnes-of-e-waste-via-social-media-campaign)
+
+
+> Laptops and smartphones have scripted a digital transition, and these gadgets have also created a market for wearable devices and accessories. But while everyone is excited to get their hands on the latest piece of technology on the shelves, few people think about electronics that are discarded and the environmental impact they may have. The Emirates generates more than 134,000 tonnes of electronic waste every year, and this is just the tech oasis of the Middle East we are looking at. While the scenario is a cause for concern, some like 15-year-old student Riva Tulpule are doing their bit to check the tech transition's impact, and this Indian teenager has managed to recycle 25 tonnes of e-waste in four years using social media and outreach through friends and family.
+
+
+***
+![Israeli startup develops breathalysers for hassle-free covid detection](https://sm.mashable.com/t/mashable_me/photo/default/shutterstock-1847532535_uyhr.1200.jpg "Israeli startup develops breathalysers for hassle-free covid detection")
+
+
+[Israeli startup develops breathalysers for hassle-free covid detection](https://me.mashable.com/tech/12569/israeli-startup-develops-breathalysers-for-hassle-free-covid-detection)
+
+
+> Israel has led the way for tech innovation in the Middle East, and has made great strides through digitisation in agriculture and healthcare among other sectors. The country has managed to vaccinate 72% of its population aged above 60 years, although it faces criticism over some being excluded. Israeli firms stepped up vigilance against the pandemic during lockdowns with drones and algorithms for ensuring social distancing and contact tracing. The innovation has continued even as infections drop, and a startup from the country has come up with breath tests that can detect covid quickly and in a painless way.
+
+
+***
+![Signal messaging service back up after outage caused by surge in demand](https://static.foxnews.com/foxnews.com/content/uploads/2021/01/signal-profile-beta-2.jpg "Signal messaging service back up after outage caused by surge in demand")
+
+
+[Signal messaging service back up after outage caused by surge in demand](https://www.foxnews.com/tech/signal-messaging-service-back-up-after-outage)
+
+
+> Secure messaging service Signal is back up and running after suffering an outage caused by a surge in demand.Signal, like another secure messaging app, Telegram, has seen its popularity soar recently amid the fallout from the Capitol riot.A recent privacy update from WhatsApp, which is owned by Facebook, has helped drive demand for Signal and Telegram, according to the Associated Press.WHAT TO KNOW ABOUT SIGNAL, THE SECURE MESSAGING APP THAT'S SURGING IN POPULARITYOn Saturday evening Signal explained that its service has been restored following a demand-related outage.
+
+
+***
+![BitLocker Lockscreen Bypass](https://secret.club/assets/bitlockerbypass/1.png "BitLocker Lockscreen Bypass")
+
+
+[BitLocker Lockscreen Bypass](https://secret.club/2021/01/15/bitlocker-bypass.html)
+
+
+> BitLocker is a modern data protection feature that is deeply integrated in the Windows kernel. It is used by many corporations as a means of protecting company secrets in case of theft. Microsoft recommends that you have a Trusted Platform Module which can do some of the heavy cryptographic lifting for you. Bypassing BitLocker in 6 easy stepsGiven a Windows 10 system without known passwords and a BitLocker-protected hard drive, an administrator account could be adding by doing the following:At the sign-in screen, select 'I have forgotten my password.
+
+
