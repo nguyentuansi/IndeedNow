@@ -8536,3 +8536,53 @@
 > In order to consider an initiative around hyperautomation, firstly it is important to examine the current systems, reengineer the processes as required and eliminate unnecessary steps in tune with the business realities.Organisations that have embraced digital transformation have recognised the advantages that Robotic Process Automation (RPA) has to offer and many of them have implemented it in their key business areas. By enabling businesses to automate certain tasks, RPA has eliminated mundane manual tasks, enhanced cycle time thus ensuring predictability, accuracy, standardization, flexibility and better control.
 
 
+***
+![Exclusive: Trump admin slams China's Huawei, halting shipments from Intel, others](https://i-invdn-com.akamaized.net/news/LYNXMPEB410C9_L.jpg "Exclusive: Trump admin slams China's Huawei, halting shipments from Intel, others")
+
+
+[Exclusive: Trump admin slams China's Huawei, halting shipments from Intel, others](https://www.investing.com/news/technology-news/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time-2391394)
+
+
+> © Reuters. Huawei Connect in Shanghai By Karen Freifeld and Alexandra Alper NEW YORK/WASHINGTON (Reuters) - The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm, people familiar with the matter told Reuters.     The action - likely the last against Huawei Technologies under Republican President Donald Trump - is the latest in a long-running effort to weaken the world's largest telecommunications equipment maker, which it says is a threat to U.
+
+
+***
+![3 standout TVs available on the market right now](https://bloximages.newyork1.vip.townnews.com/newsadvance.com/content/tncms/assets/v3/editorial/6/78/6781e515-689a-53bb-b115-edf514165946/6001d87a1dbca.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize "3 standout TVs available on the market right now")
+
+
+[3 standout TVs available on the market right now](https://news.lee.net/lifestyles/technology/3-standout-tvs-available-on-the-market-right-now/article_c4f45e7c-d565-5370-ba3d-4f4c41239255.html)
+
+
+> If you're looking for the best TV to buy right now, it's probably been a long time since you bought your last one.You may be new to all of the current TV jargon: HDR, Ultra HD 4K, 8K, OLED, QLED, 120Hz and HDMI 2.1.CNET's David Katzmaier has reviewed TVs for nearly 20 years, since the days of plasma and rear projection. His focus is on finding the best picture quality for the money, whether you're looking for a top-of-the-line OLED TV or something a little less flashy.The TVs above represent three of the best Katzmaier's reviewed, compared against others on their picture quality, smart TV interface, design and features, to see which ones are most worth buying.
+
+
+***
+![Virgin Orbit rocket reaches Earth orbit, adding an entrant to the commercial space race](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4SXDXQCY7UI6XKCJN6KCHJ277U.jpg&w=1440 "Virgin Orbit rocket reaches Earth orbit, adding an entrant to the commercial space race")
+
+
+[Virgin Orbit rocket reaches Earth orbit, adding an entrant to the commercial space race](https://www.washingtonpost.com/technology/2021/01/17/richard-branson-virgin-orbit-launch-success/)
+
+
+> In tweets, the company chronicled the flight of its LauncherOne rocket, celebrating each milestone, from engine ignition to second-stage separation. 'According to telemetry, LauncherOne has reached orbit!' the company tweeted at about 2:50 p.m. Eastern. 'Everyone on the team who is not in mission control right now is going absolutely bonkers.' The company hopes to be a disruptive force in the launch market by offering a small, 70-foot long, two-stage rocket suited to take advantage of a revolution in satellite technology that is shrinking their size and lowering their costs.
+
+
+***
+![TIME TO ACT: Business transformation needs a Business Cloud](https://images.financialexpress.com/2021/01/1-513.jpg "TIME TO ACT: Business transformation needs a Business Cloud")
+
+
+[TIME TO ACT: Business transformation needs a Business Cloud](https://www.financialexpress.com/industry/technology/time-to-act-business-transformation-needs-a-business-cloud/2172851/)
+
+
+> Kulmeet Singh Bawa, President & MD, SAP IndiaOne thing the year 2020 has proved is that no matter where in the world you live or what you do for a living, technology is indispensable in life. It is transformational, exciting, mysterious, omnipresent —all at once. 'It has also re-emphasised the need for enterprises to find bold ways to drive business transformation by adopting digitalisation to emerge stronger,' says Kulmeet Bawa, president and MD, SAP Indian Subcontinent.In a free-wheeling chat with FE, Bawa says this is not just a short-term goal anymore.
+
+
+***
+![Parler's website is back online with a brief message to 'lovers and haters'](https://cdn.cnn.com/cnnnext/dam/assets/210112214756-parler-phone-stock-super-tease.jpg "Parler's website is back online with a brief message to 'lovers and haters'")
+
+
+[Parler's website is back online with a brief message to 'lovers and haters'](https://www.cnn.com/2021/01/17/tech/parler-back-online/index.html)
+
+
+> The message, dated January 16, implies that the social network popular with members of the far right has found a new online hosting platform, after Parler was booted from Amazon Web Services on January 10 in the wake of the Capitol siege. Parler now appears to be hosted by Epik, according to a WHOIS search. Epik is a hosting platform that supports Gab, 8kun and other services often used by members of the far-right.Prior to hosting Parler, Epik issued a lengthy statement blasting what it said was a "kneejerk reaction" by major companies of "simply deplatforming and terminating any relationship that on the surface looks problematic or controversial.
+
+
