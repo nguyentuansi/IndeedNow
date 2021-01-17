@@ -7954,3 +7954,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+[PS5 stock checker UK – New Playstation 5 stock TODAY at Game, Argos, Smyths, Currys and Amazon](https://www.the-sun.com/lifestyle/tech/1823989/ps5-stock-checker-uk-techinn-argos-very-game-currys-amazon-live/)
+
+
+> NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it […]
+
+
+***
+![PS5 stock checker UK – New Playstation 5 stock TODAY at Game, Argos, Smyths, Currys and Amazon](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2020/12/ps5-live-281220.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock checker UK – New Playstation 5 stock TODAY at Game, Argos, Smyths, Currys and Amazon")
+
+
+[PS5 stock checker UK – New Playstation 5 stock TODAY at Game, Argos, Smyths, Currys and Amazon](https://www.thesun.co.uk/tech/13233222/ps5-release-today-latest-stock-amazon-game-playstation-live/)
+
+
+> NEW YEAR, same old struggle to get your hands on a PlayStation 5, as the new console continues to sell well following its November release. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console or accessories like wireless headphones.
+
+
+***
+![iPhone 12 vs iPhone 12 mini: how much does size matter in the Apple ecosystem?](https://cdn.mos.cms.futurecdn.net/36y9qin6nxkSw9giDxcsVL-1200-80.jpg "iPhone 12 vs iPhone 12 mini: how much does size matter in the Apple ecosystem?")
+
+
+[iPhone 12 vs iPhone 12 mini: how much does size matter in the Apple ecosystem?](https://www.techradar.com/news/iphone-12-vs-iphone-12-mini)
+
+
+> Apple rolled out four separate smartphone models at its October 13 launch event. That's the largest range we've ever seen from the company. While the iPhone 12 itself is the expected mainstream front runner, the iPhone 12 mini provides something excitingly new. Not only is it a very small phone at a time when such things are as rare as hen's teeth, but it also manages to shrink things down without compromising on features or specifications. All of which begs the question: is the iPhone 12 really the best option for most people? Or is Apple's smaller, cheaper alternative a better buy? iPhone 12 vs iPhone 12 mini price and availability The iPhone 12 hit shops on October 23, while the iPhone 12 mini landed a little later on November 13.
+
+
+***
+![Dubai cabs set to get smart with AI-powered devices! Will keep an eye on drivers](https://sm.mashable.com/t/mashable_me/photo/default/shutterstock-739623235_jpmd.1200.jpg "Dubai cabs set to get smart with AI-powered devices! Will keep an eye on drivers")
+
+
+[Dubai cabs set to get smart with AI-powered devices! Will keep an eye on drivers](https://me.mashable.com/tech/12567/dubai-cabs-set-to-get-smart-with-ai-powered-devices-will-keep-an-eye-on-drivers)
+
+
+> Post-lockdown relaxations brought services across the Emirates back on track, and most of them are banking on innovative technology to restore consumer confidence. Along with healthcare and hospitality, public mobility is crucial for Dubai's vision of becoming a smart city, and authorities have been using AI to shift gears for tech adoption in the sector. The digital push has resulted in Dubai's buses getting AI to map out better routes and a control centre that predicts traffic snarls and spots car crashes.
+
+
+***
+![Advanced Vim Workflows](https://external-preview.redd.it/oRTZv7OadLKolNcJ9A6NaPFO2BLbK4FxrUA0WBIcTIs.jpg?auto=webp&s=b2807aeff4f93ce6ca15ee95fc7229b99d3b73c7 "Advanced Vim Workflows")
+
+
+[Advanced Vim Workflows](https://www.reddit.com/r/Python/comments/kz3j4t/advanced_vim_workflows/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
