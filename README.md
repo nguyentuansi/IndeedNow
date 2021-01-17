@@ -8195,3 +8195,53 @@
 > I have a iPhone 6S Plus, ios 12.3.1 that is jailbroken with unc0ver. Everything works fine, except I want to go to ios 13 as some games do not run on ios 12 anymore. I have downloaded the iPhone_5.5_13.4_17E255_Restore.ipsw and tried to install it with reiboot and dr.phone. (Windows 10 machine) Both give errors and I am unable to upgrade. I have also tried to restore my filesystem to before jailbreak with unc0ver and then retried update but both always fail. I've spend countless days on this trying to get it working.
 
 
+***
+![Automatically Overlaying Baseball Pitch Motion and Trajectory in Realtime (Open Source)](https://external-preview.redd.it/97z68D3xBPltPeHcjZFzU5Npu4Mn_AgXhkYKiWGLzFc.jpg?auto=webp&s=c192233819f5fa81281de99dd2f6b8817b3b56f2 "Automatically Overlaying Baseball Pitch Motion and Trajectory in Realtime (Open Source)")
+
+
+[Automatically Overlaying Baseball Pitch Motion and Trajectory in Realtime (Open Source)](https://www.reddit.com/r/Python/comments/kz7d0x/automatically_overlaying_baseball_pitch_motion/)
+
+
+> Pause 0:00 0:00 Settings Fullscreen Hi guys, I built a project that could take your baseball pitching clips and automatically generates the overlay. Source code: https://github.com/chonyy/ML-auto-baseball-pitching-overlay I know some of you may have already seen it. However, I have made some improvements and I will want to share it. The model accuracy is hugely increased I implemented Polyfit to keep track of the ball just in case it lost the detection in some of the frames After all, I'm happy to say that it now is able to overlay as many clips as you want! The input pitching clip could be directly from your phone or camera.
+
+
+***
+![Liverpool vs Man United live stream: how to watch Premier League online anywhere](https://cdn.mos.cms.futurecdn.net/JGNAxC98AEQQpexSHtyCSB-1200-80.jpg "Liverpool vs Man United live stream: how to watch Premier League online anywhere")
+
+
+[Liverpool vs Man United live stream: how to watch Premier League online anywhere](https://www.techradar.com/news/liverpool-vs-man-united-live-stream-how-to-watch-premier-league-online-anywhere)
+
+
+> The two most successful teams in England lock horns for the first time this season with table topping bragging rights the reward for the victors - read on for our full guide to getting a Liverpool vs Man United live stream and watching the Premier League online wherever you are right now.A match that rarely fails to live up to its box office billing, Sunday's clash between these two fierce rivals has perhaps more at stake than there has been for some time, with the Red Devils looking to extend the lead at the top of the Premier League over Jurgen Klopp's side in second.
+
+
+***
+![Tim Cook Defends Parler App Suspension: ‘We Don't Consider That Free Speech'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1cMZox.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=755&y=350 "Tim Cook Defends Parler App Suspension: ‘We Don't Consider That Free Speech'")
+
+
+[Tim Cook Defends Parler App Suspension: ‘We Don't Consider That Free Speech'](https://variety.com/2021/digital/news/apple-ceo-defends-parler-ban-1234886383/)
+
+
+> Click here to read the full article. Apple chief Tim Cook said posts on right-wing social app Parler represented 'incitement to violence' that warranted its removal from the App Store. In an interview to air on Fox Broadcasting's 'Fox News Sunday' this Sunday (Jan. 17), Cook told anchor Chris Wallace that Apple 'looked at the incitement to violence that was on there and… we don't consider that free speech.' Asked by Wallace whether Apple's booting of Parler, which had become popular among Trump loyalists as an alternative to Twitter and Facebook, would only serve to drive the app's users 'underground,' Cook responded, 'Well, we've only suspended them, Chris.
+
+
+***
+![Save the day with the Anker Roav Jump Starter Pro on sale for $60](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/anker-roav-starter-pro-black.jpg "Save the day with the Anker Roav Jump Starter Pro on sale for $60")
+
+
+[Save the day with the Anker Roav Jump Starter Pro on sale for $60](https://www.androidcentral.com/save-day-and-keep-going-anker-roav-jump-starter-pro-sale-60)
+
+
+> The Anker Roav Jump Starter Pro has dropped to $59.99 as part of the Best Buy deals of the day. This jump starter and other models like it normally sell for around $90 or more at other retailers. This version at Home Depot is going for $100 and isn't even nearly as powerful. Just shows how good today's deal is. Ever been stuck on the road with a dead battery? It's not a fun experience. It's even less fun having to call roadside emergency or call a friend to come help. It's a series of unfortunate events that leaves you feeling drained and frustrated.
+
+
+***
+![Lunar Theme for VSCode](https://external-preview.redd.it/FO3Ql_iaqaX90Z5aC5F1TlogREcTKOc3L79OEIW8x2g.jpg?auto=webp&s=3eb77f56b85d820e9e4dd8fe46491a0b4bcfa7ea "Lunar Theme for VSCode")
+
+
+[Lunar Theme for VSCode](https://www.reddit.com/r/Python/comments/kz72v7/lunar_theme_for_vscode/)
+
+
+> Note: built by a 12-year-old engineer. Just going to get straight to the point: - New VSCode Theme - Awesome syntax highlighting for 95%+ languages (almost all) - 1000 installs in 2 days - #1 Trending Today + #5 Trending this week - Light/Pastel Colours - Dark, Light, and Italic Lunar Themes Install here: https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar
+
+
