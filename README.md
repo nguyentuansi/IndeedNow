@@ -8586,3 +8586,53 @@
 > The message, dated January 16, implies that the social network popular with members of the far right has found a new online hosting platform, after Parler was booted from Amazon Web Services on January 10 in the wake of the Capitol siege. Parler now appears to be hosted by Epik, according to a WHOIS search. Epik is a hosting platform that supports Gab, 8kun and other services often used by members of the far-right.Prior to hosting Parler, Epik issued a lengthy statement blasting what it said was a "kneejerk reaction" by major companies of "simply deplatforming and terminating any relationship that on the surface looks problematic or controversial.
 
 
+***
+![Report: Xbox's 'instant on' feature could consume 4 billion kWh by 2025 [Updated]](https://external-preview.redd.it/tfSb-JwC7Ou8VvDWhYvlFoOv8y9FmIS_0wbhwg9h1kE.jpg?auto=webp&s=ff63e15e7cd655558677774f7c597d160ce4c638 "Report: Xbox's 'instant on' feature could consume 4 billion kWh by 2025 [Updated]")
+
+
+[Report: Xbox's 'instant on' feature could consume 4 billion kWh by 2025 [Updated]](https://www.reddit.com/r/technology/comments/kzg5g4/report_xboxs_instant_on_feature_could_consume_4/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Twitter temporarily suspends Marjorie Taylor Greene over 'multiple' policy violations](https://thehill.com/sites/default/files/taylorgeenemarjorie_111220gn2_lead.jpg "Twitter temporarily suspends Marjorie Taylor Greene over 'multiple' policy violations")
+
+
+[Twitter temporarily suspends Marjorie Taylor Greene over 'multiple' policy violations](https://thehill.com/policy/technology/534648-twitter-temporarily-suspends-marjorie-taylor-greene-over-multiple-policy)
+
+
+> Twitter said Sunday that it had temporarily suspended the personal account of Rep. Marjorie Taylor Greene 's (R-Ga.) following "multiple" violations of the platform's content policy. In a statement to The Hill, a Twitter spokesperson confirmed that "[t]he account referenced has been temporarily locked out for multiple violations of our civic integrity policy." Greene said in a statement Sunday that her suspension was the result of "the borderline monopolistic stranglehold a few Big Tech companies have on the American political discourse.
+
+
+***
+![NYT: Twitter CEO Jack Dorsey Approved Blacklisting Donald Trump While on French Polynesia Vacation](https://media.breitbart.com/media/2020/11/Jack-Dorsey-before-Senate-640x335.jpg "NYT: Twitter CEO Jack Dorsey Approved Blacklisting Donald Trump While on French Polynesia Vacation")
+
+
+[NYT: Twitter CEO Jack Dorsey Approved Blacklisting Donald Trump While on French Polynesia Vacation](https://www.breitbart.com/tech/2021/01/17/nyt-twitter-ceo-jack-dorsey-approved-blacklisting-donald-trump-while-on-french-polynesia-vacation/)
+
+
+> In a recent article, the  New York Times provides an insight into Twitter's decision to ban President Donald Trump from its platform permanently. Twitter CEO Jack Dorsey, on vacation in French Polynesia, approved the decision under intense pressure from the company's extreme leftist executives. Employees reportedly compared the platform allowing Trump to tweet to IBM collaborating with the Nazis. In an article titled 'Inside Twitter's Decision to Cut Off Trump,' the  New York Times  outlines the events leading up to Twitter's decision to permanently suspend President Trump from the platform.
+
+
+***
+![Apple CEO responds to Big Tech criticism: No 'intersection' between free speech, incitement of violence](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/Apple-launches-100-million-Racial-Equity-and-Justice-Initiative.jpg?ve=1&tl=1 "Apple CEO responds to Big Tech criticism: No 'intersection' between free speech, incitement of violence")
+
+
+[Apple CEO responds to Big Tech criticism: No 'intersection' between free speech, incitement of violence](https://www.foxbusiness.com/technology/apple-ceo-tim-cook-big-tech-censorship-free-speech-parler)
+
+
+> Apple CEO Tim Cook  stood by his company's decision to remove alternative  social media platform Parler from the App Store, as Big Tech companies face criticism over censorship after the Jan. 6 Capitol riot. Cook told ' Fox News Sunday ' that there really is no intersection between free speech and suspected violence, saying that Parler may return from suspension if they "get their moderation together." 'We looked at the incitement to violence that was on there, and we don't consider that free speech and incitement to violence has an intersection,' he explained.
+
+
+***
+![Speech isn't free — is it time for a constitutional fix?](https://thehill.com/sites/default/files/trump_speech_getty_091117.jpg "Speech isn't free — is it time for a constitutional fix?")
+
+
+[Speech isn't free — is it time for a constitutional fix?](https://thehill.com/opinion/technology/534493-speech-isnt-free-time-for-a-constitutional-fix)
+
+
+> Words have weight, meaning and implication. They can also bear a heavy cost. In a world where information, data and words can be misconstrued, misunderstood and manipulated, we need to move away from the idea of free speech and instead to one of rights to speech. Rights confer a privilege to be understood and considered when communicating. This should bring to bear the implication of speech associated with context, audience, platform and interpretation. As a society inundated with false information, we need to be cognizant of the data we receive and our subsequent reaction, as well as clarification of our societal rights.
+
+
