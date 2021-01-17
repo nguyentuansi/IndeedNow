@@ -7810,3 +7810,47 @@
 > Catalin Cimpanu / ZDNet: DuckDuckGo surpassed 100M daily search queries for the first time on Jan. 11; since August 2020, the search engine began seeing over 2B search queries per month — DuckDuckGo reaches historic milestone in a week when both Signal and Telegram saw a huge influx of new users.
 
 
+***
+[Apple AirPods Max review: Brilliant & slick headphones – if you can afford them](https://www.the-sun.com/lifestyle/tech/2154119/apple-airpods-max-review/)
+
+
+> APPLE’S AirPods Max are a big buy at £549/$549 – but are they any good? We’ve tested them for a month, and have put together a handy buyer’s guide and our ultimate AirPods Max review to go with it. Read on for all the details on AirPods Max, or scroll down for our full review Apple […]
+
+
+***
+[Apple AirPods Max review: Brilliant & slick headphones – if you can afford them](https://www.thesun.ie/tech/6425443/apple-airpods-max-review/)
+
+
+> APPLE’S AirPods Max are a big buy at £549/$549 – but are they any good? We’ve tested them for a month, and have put together a handy buyer’s guide and our ultimate AirPods Max review to go with it. Read on for all the details on AirPods Max, or scroll down for our full review Apple […]
+
+
+***
+![Apple AirPods Max review: Brilliant & slick headphones – if you can afford them](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2020/12/apple-airpods-max.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Apple AirPods Max review: Brilliant & slick headphones – if you can afford them")
+
+
+[Apple AirPods Max review: Brilliant & slick headphones – if you can afford them](https://www.thesun.co.uk/tech/13755661/apple-airpods-max-review/)
+
+
+> APPLE'S AirPods Max are a big buy at £549/$549 – but are they any good? We've tested them for a month, and have put together a handy buyer's guide and our ultimate AirPods Max review to go with it. Read on for all the details on AirPods Max, or scroll down for our full review The new Apple AirPods Max will be this year's must-have cansCredit: Apple Apple AirPods Max release date, price and what are they? Unlike the old earbud design, AirPods Max sit over your ears like premium headphones. And they've got premium features like hi-fi audio, adaptive equalising, active noise-cancellation, and "spatial" audio.
+
+
+***
+![Signal is up and running now, here's how you can resume sending messages](https://images.indianexpress.com/2021/01/SIGNAL_BLOOMBERG.jpg "Signal is up and running now, here's how you can resume sending messages")
+
+
+[Signal is up and running now, here's how you can resume sending messages](https://indianexpress.com/article/technology/social/signal-functional-global-outage-message-error-fix-7149696/)
+
+
+> Signal, the messaging app is up and running again after suffering a global outage for a couple of days. Many users of the app were unable to send messages to each other. The app has seen a massive surge in downloads amidst the WhatsApp privacy policy crisis, especially after Elon Musk tweeted about the alternative. Announcing the news about Signal working properly, the co-founder and CEO of the messaging app, Moxie Marlinspike apologised to the users for the inconvenience caused and assured them that their migration will 'goes more smoothly'.
+
+
+***
+![Asus VivoBook Flip 14 (Intel) review: The ‘everyday laptop' you can rely on](https://images.indianexpress.com/2021/01/Asus-FBBBBB.jpg "Asus VivoBook Flip 14 (Intel) review: The ‘everyday laptop' you can rely on")
+
+
+[Asus VivoBook Flip 14 (Intel) review: The ‘everyday laptop' you can rely on](https://indianexpress.com/article/technology/tech-reviews/asus-vivobook-flip-14-intel-review-7149815/)
+
+
+> Asus' new VivoBook Flip 14 is an odd laptop, but odd in the right way. It isn't hard to see why the VivoBook Flip 14 is an unusual release from Asus. The VivoBook Flip 14 isn't a flagship laptop but isn't any less of a premium experience. Is the VivoBook Flip 14 equivalent to the iPhone XR of the laptop world? Probably yes. Regardless of how you look at it, the VivoBook Flip 14 does try to keep the concept of the 'everyday laptop' alive, even if it has a few flaws. That said, the convertible offers everything a user would want to do with a laptop at a great price.
+
+
