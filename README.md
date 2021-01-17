@@ -7713,3 +7713,53 @@
 > Sony Bravia XR Image Credit: Supplied Sony Electronics recently announced the new Bravia XR televisions, including the MASTER Series Z9J 8K LED and A90J OLED as well as the A80J OLED, X95J and X90J 4K LED televisions. Powered by the Cognitive Processor XR, the brain of the new Bravia XR, the Bravia TV's use a completely new processing method that goes beyond conventional AI, designed to replicate the ways humans see and hear. Sony's latest new Bravia XR TV Supplied When we see objects, we unconsciously focus on certain points.
 
 
+***
+![This advanced VPN is on sale for less than &#163;1 per month](https://mondrian.mashable.com/2021%252F01%252F17%252Fe0%252F2216a66f3d634674854727572d0104bb.db06b.jpg%252F1200x630.jpg?signature=boqzrPhy5fCska62LdI4GpRjSx4= "This advanced VPN is on sale for less than &#163;1 per month")
+
+
+[This advanced VPN is on sale for less than &#163;1 per month](https://mashable.com/uk/shopping/jan-17-pure-vpn-deal/)
+
+
+> SAVE 88%: A five-year subscription to PureVPN is on sale for £0.99 per month as of Jan. 17, saving you 88% on list price. There are a bunch of leading VPN providers that are worth considering, but most of the best services don't come cheap, except one. If you're willing to commit to PureVPN, you can get the popular VPN with a wide range of premium features for under £1 a month. A five-year subscription to PureVPN is on sale for £0.99 per month as of Jan. 17, saving you 88% on list price. We know that it can be daunting to commit to the same service for five years, but when you consider everything that is included in a PureVPN plan, the decision becomes a lot simpler.
+
+
+***
+![This simple trick can unblock American Netflix from the UK](https://mondrian.mashable.com/2021%252F01%252F17%252Fb2%252F2b6bb635175542e3b94f82e1cdbd8ad4.ed217.jpg%252F1200x630.jpg?signature=8FNfsPG7E3pJkd4KIr-zxIcRviM= "This simple trick can unblock American Netflix from the UK")
+
+
+[This simple trick can unblock American Netflix from the UK](https://mashable.com/uk/shopping/jan-17-express-vpn-deal/)
+
+
+> SAVE 49%: A one-year subscription to ExpressVPN is on sale for £5.09 per month as of Jan. 17, and includes an extra three months for free. So you want to unblock American Netflix and watch all of the extra films and shows that are currently unavailable in your location, but you don't know where to start. We can help.  By using a VPN, you can bypass geo-restrictions to unlock streaming sites like Netflix. All you need to do to access American Netflix is sign up to the VPN of your choice, connect to a secure VPN server location in the U.
+
+
+***
+![Game the job-hunting AI system with this clever CV software](https://mondrian.mashable.com/2021%252F01%252F17%252F6e%252F5a04e6647e284bbaaffe19d779c6fc43.3b7f4.jpg%252F1200x630.jpg?signature=RYVpLoSy-8yMVPtwDz3RPQ06o_Q= "Game the job-hunting AI system with this clever CV software")
+
+
+[Game the job-hunting AI system with this clever CV software](https://mashable.com/uk/shopping/jan-17-rezi-resume-software-subscription/)
+
+
+> TL;DR: A lifetime subscription to Rezi Résumé Software is on sale for £21.24 as of Jan. 17, saving you 94% on list price. Are you looking for a job and in the mood to feel extremely disheartened? Then head to LinkedIn, find a job listing you're qualified for, and check how many applicants have already sent off their CVs. We're guessing the number you're staring at is in the hundreds or even the thousands. If you're a perennial optimist, you may be thinking "Well, someone has to get the job. Why not me?" More the skeptical type? Your mood is probably a lot less positive.
+
+
+***
+![Get a lifetime subscription to this speedy VPN for under &#163;30](https://mondrian.mashable.com/2021%252F01%252F17%252F8b%252Ff5cc43ff59124855b07e8d4161e80424.bd780.jpg%252F1200x630.jpg?signature=2WnkbiIE7nWkDq_Y4cmSANbqcbU= "Get a lifetime subscription to this speedy VPN for under &#163;30")
+
+
+[Get a lifetime subscription to this speedy VPN for under &#163;30](https://mashable.com/uk/shopping/jan-17-ivacy-vpn-deal/)
+
+
+> TL;DR: A lifetime subscription to Ivacy VPN is on sale for £29.30 as of Jan. 17, saving you 97% on list price. We've said it before and we'll say it again: Get a VPN. While some folks may wait until their credit card has been flagged for buying everything in a shop across the country or their identity has been stolen while travelling abroad to download a VPN, we know you're smarter than that.  The best part about protecting yourself online with a VPN, or virtual private network, is that it's a lot cheaper than protecting your non-digital life.
+
+
+***
+![Intel confident Apple doesn't have the ammunition to score in enterprise market yet](https://images.indianexpress.com/2021/01/Intel-fbbbbbbb.jpg "Intel confident Apple doesn't have the ammunition to score in enterprise market yet")
+
+
+[Intel confident Apple doesn't have the ammunition to score in enterprise market yet](https://indianexpress.com/article/technology/tech-news-technology/intel-confident-apple-doesnt-have-the-ammunition-to-score-in-enterprise-market-yet-7149666/)
+
+
+> Intel does not think that the launch of Apple's own silicon, the M1, will impact the chipset maker's dominance in the lucrative enterprise PC market. In fact, Intel says the debut of its new 11th Gen Core vPro processors for business at the 2021 Consumer Electronics Show earlier this week gives it an edge over competitors, including Apple and AMD. 'They [Apple] do have aspirations to get in… but I think most businesses will tell you, until there is a broader ecosystem of business-related solutions it's not really a viable solution yet,' Stephanie Hallford, Vice-President and General Manager of Business Client Platforms, Client Computing Group, Intel told indianexpress.
+
+
