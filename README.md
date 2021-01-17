@@ -7854,3 +7854,53 @@
 > Asus' new VivoBook Flip 14 is an odd laptop, but odd in the right way. It isn't hard to see why the VivoBook Flip 14 is an unusual release from Asus. The VivoBook Flip 14 isn't a flagship laptop but isn't any less of a premium experience. Is the VivoBook Flip 14 equivalent to the iPhone XR of the laptop world? Probably yes. Regardless of how you look at it, the VivoBook Flip 14 does try to keep the concept of the 'everyday laptop' alive, even if it has a few flaws. That said, the convertible offers everything a user would want to do with a laptop at a great price.
 
 
+***
+![Super fast 5G in the US still a work in progress](https://static.bangkokpost.com/media/content/20210117/c1_3868831_700.jpg "Super fast 5G in the US still a work in progress")
+
+
+[Super fast 5G in the US still a work in progress](https://www.bangkokpost.com/tech/2052347/super-fast-5g-in-the-us-still-a-work-in-progress)
+
+
+> Experts say deploying superfast 5G telecom networks in the US poses major challenges SAN FRANCISCO - Marketing pitches in the US are bullish on superfast 5G telecom networks, but they remain more of a promise than reality. Promoters of the technology say it will bring such innovations as fast-thinking self-driving cars and rapid-fire video downloads. And nationwide coverage with 5G could add $1.5 trillion to GDP in the next five years. But actually deploying it here is "very fragmented" given the maze of local regulations and agencies that telecom companies have to navigate across 50 states, said Jefferson Wang, head of 5G strategy at Accenture.
+
+
+***
+!['Huge influx of users' led to Signal global outage](https://akm-img-a-in.tosshub.com/indiatoday/images/video/202101/Tecnolog__a12012105_0-647x363.jpeg?MukkFc3nKlf8ZUPOQXzfCM4PeoKK2oup "'Huge influx of users' led to Signal global outage")
+
+
+['Huge influx of users' led to Signal global outage](https://www.indiatoday.in/technology/video/-huge-influx-of-users-led-to-signal-global-outage-1759880-2021-01-17)
+
+
+> No body in the article.
+
+
+***
+![Sony brings new Bravia XR TV line-up with new ‘Cognitive Processor XR'](https://imagevars.gulfnews.com/2021/01/12/Sony-XR-Lead_176f7fd30d6_medium.jpg "Sony brings new Bravia XR TV line-up with new ‘Cognitive Processor XR'")
+
+
+[Sony brings new Bravia XR TV line-up with new ‘Cognitive Processor XR'](https://gulfnews.com/technology/sony-brings-new-bravia-xr-tv-line-up-with-new-cognitive-processor-xr-1.1610355258656)
+
+
+> Sony Bravia XR Image Credit: Supplied Sony Electronics recently announced the new Bravia XR televisions, including the MASTER Series Z9J 8K LED and A90J OLED as well as the A80J OLED, X95J and X90J 4K LED televisions. Powered by the Cognitive Processor XR, the brain of the new Bravia XR, the Bravia TV's use a completely new processing method that goes beyond conventional AI, designed to replicate the ways humans see and hear. Sony's latest new Bravia XR TV Supplied When we see objects, we unconsciously focus on certain points.
+
+
+***
+![Online clothes sellers targeted by 'creepy' messages](https://ichef.bbci.co.uk/news/1024/branded_news/3DE1/production/_116514851_onlinesellers1.png "Online clothes sellers targeted by 'creepy' messages")
+
+
+[Online clothes sellers targeted by 'creepy' messages](https://www.bbc.com/news/technology-55661022)
+
+
+> By Cristina Criddle Technology reporter Women selling clothes online are being sent explicit messages, with requests for sex and "worn" garments. Both businesses and private individuals have experienced the problem when advertising on mainstream platforms. Women have been sent '"creepy" messages on Facebook, Instagram, eBay, and Depop, the BBC has learned. Some were asked for additional items including worn tights, explicit photos and used underwear. When inappropriate profiles were blocked or reported, some would reappear with a different account, sources told the BBC.
+
+
+***
+![Signal back up after outage](https://imagevars.gulfnews.com/2021/01/16/Signal-logo_17709aa319b_medium.jpg "Signal back up after outage")
+
+
+[Signal back up after outage](https://gulfnews.com/technology/media/signal-back-up-after-outage-1.1610862906387)
+
+
+> Signal users might see errors in some chats as a side effect to the outage Published:  January 17, 2021 09:53 Reuters The Signal messaging app logo is seen on a smartphone. Image Credit: REUTERS Signal said on Saturday it had restored its services a day after the application faced technical difficulties as it dealt with a flood of new users after rival messaging app WhatsApp announced a controversial change in privacy terms. Signal has seen a rise in downloads following a change in WhatsApp's privacy terms, which required WhatsApp users to share their data with both Facebook Inc and Instagram.
+
+
