@@ -8492,3 +8492,47 @@
 > Another key aspect is that while the world views online child safety and women's cyber safety as two separate issues, India still treats and classifies it as a single subject.By Kanishk GaurWhile the world rattles with accepting or not accepting changes in a major messaging platform's privacy policy, a key question that remains unaddressed is the trust and safety of the vulnerable population?In India, law enforcement agencies have been battling the bigger issue of cooperation from tech companies/platforms, to share data given the rapid increase in crime against women and children.
 
 
+***
+![SHARP-QNET ZENSATIONAL AIR PURIFIER: Clean & fresh air on wheels](https://images.financialexpress.com/2021/01/1-512.jpg "SHARP-QNET ZENSATIONAL AIR PURIFIER: Clean & fresh air on wheels")
+
+
+[SHARP-QNET ZENSATIONAL AIR PURIFIER: Clean & fresh air on wheels](https://www.financialexpress.com/industry/technology/sharp-qnet-zensational-air-purifier-clean-fresh-air-on-wheels/2172844/)
+
+
+> Air purifiers with Plasmacluster ion technology are also said to deactivate coronavirus by 90%.Nowadays, quite a few Indian households (at least in the big cities) have air purifiers to keep their indoors pollution-free. Studies appear to suggest that reduction in particulate matter and allergens results in reducing symptoms, and in certain cases, preventing disease progression across all age groups including elderly and children. The evidences are apparent in chronic respiratory diseases such as asthma and cardiovascular health.
+
+
+***
+![GitHub admits ‘significant mistakes were made' in firing of Jewish employee](https://external-preview.redd.it/QFoz8r3Y1l8HgZbJ8sTEXA9_dpwsJD9FJzhLHMt27og.jpg?auto=webp&s=273c467ca205cacac64a89166f96037fc182bb43 "GitHub admits ‘significant mistakes were made' in firing of Jewish employee")
+
+
+[GitHub admits ‘significant mistakes were made' in firing of Jewish employee](https://www.reddit.com/r/technology/comments/kzens1/github_admits_significant_mistakes_were_made_in/)
+
+
+> No body in the article.
+
+
+***
+[Blocked from social media, extremists discuss turning to radios to plan attacks, FCC warns](https://www.reddit.com/r/technology/comments/kzemgv/blocked_from_social_media_extremists_discuss/)
+
+
+> submitted by /u/chrisdh79 [link] [comments]
+
+
+***
+[Due to Apple's security limitations and additional work required, few developers are bothering to port Chrome extensions to Safari, despite WebExtensions API (Jason Snell/Six Colors)](http://www.techmeme.com/210117/p10#a210117p10)
+
+
+> Jason Snell / Six Colors: Due to Apple's security limitations and additional work required, few developers are bothering to port Chrome extensions to Safari, despite WebExtensions API — At WWDC 2020, Apple announced it was going to support Chrome-style browser extensions (the WebExtensions API) in Safari.
+
+
+***
+![Cranking the engine: Going beyond robotic process automation](https://images.financialexpress.com/2021/01/1-511.jpg "Cranking the engine: Going beyond robotic process automation")
+
+
+[Cranking the engine: Going beyond robotic process automation](https://www.financialexpress.com/industry/technology/cranking-the-engine-going-beyond-robotic-process-automation/2172818/)
+
+
+> In order to consider an initiative around hyperautomation, firstly it is important to examine the current systems, reengineer the processes as required and eliminate unnecessary steps in tune with the business realities.Organisations that have embraced digital transformation have recognised the advantages that Robotic Process Automation (RPA) has to offer and many of them have implemented it in their key business areas. By enabling businesses to automate certain tasks, RPA has eliminated mundane manual tasks, enhanced cycle time thus ensuring predictability, accuracy, standardization, flexibility and better control.
+
+
