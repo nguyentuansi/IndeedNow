@@ -8442,3 +8442,53 @@
 > Now that all the kinks are worked out of the big fall Windows update, it's time to take the best new features for a test drive.   (Photo: NONE, GANNETT) Few things in life are predictable. Sadly, one is buggy Windows updates. After every major update, you'll see a slew of reports of broken drivers, features on the fritz, and the Blue Screen of Death. Those updates also bring vital security patches, so skipping them entirely isn't your best move. Updates can speed things up, too, though you might some extra help if your PC slogs through every task.
 
 
+***
+![Tampa Bay Buccaneers vs. New Orleans Saints: How to watch week 19's action](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/bucssaints.jpg "Tampa Bay Buccaneers vs. New Orleans Saints: How to watch week 19's action")
+
+
+[Tampa Bay Buccaneers vs. New Orleans Saints: How to watch week 19's action](https://www.androidcentral.com/tampa-bay-buccaneers-vs-new-orleans-saints-how-watch-week-19-nfl-playoffs)
+
+
+> In a fairly evenly matched game, the Saints should try to keep Brady scrambling and get to him quickly before he has a chance to gain too much momentum down the stretch. Brady has a quick release and will be able to avoid trouble for a while, but not forever. Right guard, Alexa Cappa will also be out this game with an injury which doesn't help the situation. Source: Android Central The Saints have been relying on the short passing game quite a bit as 42 year old Drew Brees copes with not as much throwing power as he once had.
+
+
+***
+![Browns vs Chiefs live stream: how to watch NFL playoffs online from anywhere right now](https://cdn.mos.cms.futurecdn.net/z5J92nzGLxq5yw4YotMfe6-1200-80.jpg "Browns vs Chiefs live stream: how to watch NFL playoffs online from anywhere right now")
+
+
+[Browns vs Chiefs live stream: how to watch NFL playoffs online from anywhere right now](https://www.techradar.com/news/browns-vs-chiefs-live-stream-how-to-watch-nfl-playoffs-online-from-anywhere)
+
+
+> Can the Browns' fairy tale story continue? Cleveland overcame Covid-induced adversity and 26 years of grim history to sucker-punch the Steelers, in a game that featured one of the most jaw-dropping opening quarters you'll ever see. Read on as we explain how to get a Browns vs Chiefs live stream and watch the NFL playoffs online wherever you are right now for this Divisional Round clash.In Travis Kelce, Tyreek Hill and Patrick Mahomes, the Kansas City Chiefs have one of the most destructive offenses in the league, and everyone knows they'll be stepping things up in the playoffs.
+
+
+***
+![Death of third party cookies: Enter sandbox from Google](https://external-preview.redd.it/H-HbVPBwylzr9XNtt693hZ-Pdph0BwLxJOiGTQ0JARw.jpg?auto=webp&s=c90c38343752f1cd25c70777b63d6c754143bb34 "Death of third party cookies: Enter sandbox from Google")
+
+
+[Death of third party cookies: Enter sandbox from Google](https://www.reddit.com/r/programming/comments/kzdth0/death_of_third_party_cookies_enter_sandbox_from/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Is there any reason to get Verizon over Visible?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/10/pixel-3a-sims-att-visible.jpg "Is there any reason to get Verizon over Visible?")
+
+
+[Is there any reason to get Verizon over Visible?](https://www.androidcentral.com/visible-vs-verizon-wireless)
+
+
+> Visible has an impressive set of features, especially considering the price. With one of the largest LTE networks plus nationwide 5G combined with an unlimited package including hotspot connectivity, Visible is about as close as it comes to hassle-free wireless. $40/mo. at Visible No contract Unlimited talk and text Unlimited LTE and 5G data Unlimited hotspot (5Mbps) Savings with Visible Party Pay Fewer supported phones No 3G or roaming access Verizon Wireless continues to set the bar in wireless service as one of the strongest networks available.
+
+
+***
+![Save the internet](https://images.financialexpress.com/2021/01/1-496.jpg "Save the internet")
+
+
+[Save the internet](https://www.financialexpress.com/industry/technology/save-the-internet/2172764/)
+
+
+> Another key aspect is that while the world views online child safety and women's cyber safety as two separate issues, India still treats and classifies it as a single subject.By Kanishk GaurWhile the world rattles with accepting or not accepting changes in a major messaging platform's privacy policy, a key question that remains unaddressed is the trust and safety of the vulnerable population?In India, law enforcement agencies have been battling the bigger issue of cooperation from tech companies/platforms, to share data given the rapid increase in crime against women and children.
+
+
