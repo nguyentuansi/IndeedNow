@@ -8395,3 +8395,50 @@
 > As the U.S. heads into one of the most perilous phases of American democracy since the Civil War, social media companies are scrambling to shore up their patchwork defenses for a moment they appear to have believed would never come. Most major platforms pulled the emergency break last week, deplatforming the president of the United States and enforcing suddenly robust rules against conspiracies, violent threats and undercurrents of armed insurrection, all of which proliferated on those services for years.
 
 
+***
+![Exclusive: Trump slams China's Huawei, halting shipments from Intel, others](https://i-invdn-com.akamaized.net/news/LYNXMPEB410C9_L.jpg "Exclusive: Trump slams China's Huawei, halting shipments from Intel, others")
+
+
+[Exclusive: Trump slams China's Huawei, halting shipments from Intel, others](https://www.investing.com/news/technology-news/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time-2391394)
+
+
+> © Reuters. Huawei Connect in Shanghai By Karen Freifeld and Alexandra Alper NEW YORK/WASHINGTON (Reuters) - The Trump administration notified several Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm, people familiar with the matter told Reuters.     The action against Huawei Technologies - likely the last against the company under Republican President Donald Trump's administration - is the latest in a long-running effort to weaken the world's largest telecommunications equipment maker, which it says is a threat to U.
+
+
+***
+![js;dr = JavaScript required; Didn't Read.](https://tantek.com/logo.jpg "js;dr = JavaScript required; Didn't Read.")
+
+
+[js;dr = JavaScript required; Didn't Read.](https://tantek.com/2015/069/t1/js-dr-javascript-required-dead)
+
+
+> js;dr = JavaScript required; Didn't Read.Pages that are empty without JS: dead to history (archive-org), unreliable for search results (despite any search engine claims of JS support, check it yourself), and thus ignorable. No need to waste time reading or responding.Also known as, if it's not curlable, it's not on the web.https://indiewebcamp.com/curlableBecause in 10 years nothing you built today that depends on JS for the content will be available, visible, or archived anywhere on the web.All your fancy front-end-JS-required frameworks are dead to history, a mere evolutionary blip in web app development practices.
+
+
+***
+![You can get a ton of iRobot Roomba vacuums on sale right now for every budget](https://www.gannett-cdn.com/presto/2020/10/28/USAT/3dcc8139-1cd8-49d9-9d47-164295629d70-5-irobot.jpg?crop=3982,2240,x0,y0&width=3200&height=1680&fit=bounds "You can get a ton of iRobot Roomba vacuums on sale right now for every budget")
+
+
+[You can get a ton of iRobot Roomba vacuums on sale right now for every budget](https://www.usatoday.com/story/tech/reviewedcom/2021/01/17/irobot-roomba-shop-these-deals-save-big-robot-vacuums/4196381001/)
+
+
+> Shop major markdowns on iRobot machines right now.   (Photo: Reviewed / Betsey Goldwasser) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. We've tested our fair share of robot vacuums here at Reviewed. iRobot, a brand best known for its wide array of reliable and innovative smart vacuums, produces some of our all-time favorite models , ranging from self-emptying machines to those with voice control capability. The one downside to these all-too convenient cleaners? They tend to cost a small fortune.
+
+
+***
+[E Ink has developed a 2nd generation Advanced Color E-Paper](https://goodereader.com/blog/e-paper/e-ink-has-developed-acep-gallery-4100-color-e-paper)
+
+
+> No body in the article.
+
+
+***
+![5 new Windows 10 features to try right now](https://www.gannett-cdn.com/-mm-/6bc122d820662f1c80b690fce290368ce857abda/c=89-0-1191-620/local/-/media/2019/07/16/USATODAY/usatsports/MotleyFool-TMOT-168380c4-msft-windows-10.png?width=1600&height=800&fit=crop "5 new Windows 10 features to try right now")
+
+
+[5 new Windows 10 features to try right now](https://www.usatoday.com/story/tech/columnist/komando/2021/01/17/5-new-windows-10-features-test-out-your-pc-kim-komando/4163712001/)
+
+
+> Now that all the kinks are worked out of the big fall Windows update, it's time to take the best new features for a test drive.   (Photo: NONE, GANNETT) Few things in life are predictable. Sadly, one is buggy Windows updates. After every major update, you'll see a slew of reports of broken drivers, features on the fritz, and the Blue Screen of Death. Those updates also bring vital security patches, so skipping them entirely isn't your best move. Updates can speed things up, too, though you might some extra help if your PC slogs through every task.
+
+
