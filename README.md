@@ -7613,3 +7613,53 @@
 > No body in the article.
 
 
+***
+![String functions in C++ (strcat, strchr, strstr, strcmp,strlen,strupr,strlwr)](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "String functions in C++ (strcat, strchr, strstr, strcmp,strlen,strupr,strlwr)")
+
+
+[String functions in C++ (strcat, strchr, strstr, strcmp,strlen,strupr,strlwr)](https://www.reddit.com/r/programming/comments/kyxy7c/string_functions_in_c_strcat_strchr_strstr/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Technically sound Condit earns Fight Night victory](https://d3el53au0d7w62.cloudfront.net/wp-content/plugins/journal-open-graph/img/albuquerque-journal.jpg "Technically sound Condit earns Fight Night victory")
+
+
+[Technically sound Condit earns Fight Night victory](https://www.abqjournal.com/1537195/technically-sound-condit-earns-fight-night-victory.html)
+
+
+> .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... ..........'Technical' might seem to be a curious word to use in association with the brutal, violent sport of mixed martial arts. Yet, Albuquerque's Carlos Condit, in confidently predicting victory over Matt Brown in his fight Saturday, had described himself as the technically superior fighter. So he was. Condit, far more active while exploiting a far deeper bag of tricks, defeated Brown by unanimous decision on a UFC Fight Night card in Abu Dhabi, United Arab Emirates.
+
+
+***
+![Elon Musk Rips Big Tech Censorship Of Free Speech](https://external-preview.redd.it/E4xNdjBUlH32ENsbIxrO3kKV6QTpjTh9PZTnzlqiSac.jpg?auto=webp&s=3cff3399cd6efc0d29e506286c0fd5960c0b1b09 "Elon Musk Rips Big Tech Censorship Of Free Speech")
+
+
+[Elon Musk Rips Big Tech Censorship Of Free Speech](https://www.reddit.com/r/technology/comments/kyxp6f/elon_musk_rips_big_tech_censorship_of_free_speech/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Sea shanties have taken over TikTok. Here's why](https://cnet4.cbsistatic.com/img/6T_aY7T2Lpxx6JOr1bUGdYz0x4I=/1200x630/2021/01/12/d3f7e7a7-a266-4469-bf3a-2b49e8040a20/1048813758.jpg "Sea shanties have taken over TikTok. Here's why")
+
+
+[Sea shanties have taken over TikTok. Here's why](https://www.cnet.com/news/sea-shanties-take-over-tiktok-heres-why/)
+
+
+> If the Wellerman doesn't arrive soon, they'll be out of rum.  Getty Images If the sea is calling to you, these days it might be through TikTok. Although the video-based social networking platform typically brings to mind dance challenges, lip-syncing and comical sketches, the latest trend to wash up on shore is singing sea shanties from centuries past. The internet has dubbed this nautical moment #ShantyTok. Since roughly the end of December, TikTok has seen a rise in interest in videos of people not just singing sea shanties, but crafting impressive, a cappella arrangements of the tunes traditionally sung by crews on merchant sailing ships.
+
+
+***
+![Power Rangers Reveals What Zordon REALLY Wanted to Do » TechnoCodex](https://static2.cbrimages.com/wordpress/wp-content/uploads/2021/01/Mighty-Morphin-3-cover-header.jpg "Power Rangers Reveals What Zordon REALLY Wanted to Do » TechnoCodex")
+
+
+[Power Rangers Reveals What Zordon REALLY Wanted to Do » TechnoCodex](https://technocodex.com/power-rangers-reveals-what-zordon-really-wanted-to-do/)
+
+
+> By John Dodge On Jan 17, 2021 One thing about Zordon's past as a Guardian of Eltar is becoming very clear – he never wanted to lead the team in the first place.WARNING: The following contains major spoilers for Mighty Morphin #3 by Ryan Parrott, Marco Renna, Walter Baiamonte, Katia Ranalli and Ed Dukeshire, on sale now.The Power Rangers have been facing a near unending spate of threats, both from beyond the stars and within their own ranks. The Empyreal threat looms out in the void of space, the Omega Rangers have betrayed their former teammates by kidnapping the extradimensional tyrant Drakkon, and now a supercharged Lord Zedd has introduced a new breed of Putties that themselves been made infinitely stronger than ever by the Green Chaos Energy surging through their bodies.
+
+
