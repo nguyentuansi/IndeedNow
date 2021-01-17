@@ -7513,3 +7513,53 @@
 > May 9, 2018 2 0 Santa Monica Each of my four e-mail accounts has its own subfolder under Sent, Junk, Trash, Archive, and Drafts (now labeled All Sent, All Junk, All Trash, All Archive, and All Drafts in Big Sur). Prior to upgrading, each account would then list any additional folders under that account's heading below. (You could choose to hide those folders.) Now those five essential folders are duplicated under each account heading. If I want to view the sent items related to a particular account, for example, I can just click on the Sent subfolder for that account under the All Sent folder.
 
 
+***
+![11 Best Samsung Galaxy S21 Cases](https://heavy.com/wp-content/uploads/2021/01/best-s21-cases.jpg?quality=65&strip=all&w=780%20780w,%20https://heavy.com/wp-content/uploads/2021/01/best-s21-cases.jpg?quality=45&strip=all&w=1100%201100w,%20https://heavy.com/wp-content/uploads/2021/01/best-s21-cases.jpg?quality=65&strip=all&w=1350%201350w "11 Best Samsung Galaxy S21 Cases")
+
+
+[11 Best Samsung Galaxy S21 Cases](https://heavy.com/tech/best-galaxy-s21-cases/)
+
+
+> Samsung While Samsung ‘s latest flagship phone might feel like a step backwards from a strictly technical standpoint, it feels like a win from the consumer's standpoint. The Galaxy S21 packs more processing power into a smaller package and at a lower price than the S20. This may come at the cost of its Gorilla Glass frame (now replaced by plastic) but you were already going to put a protective case on it anyway. Price: $59.95 Amazon Customer Reviews Pros: Dual layer protection Rubber port cover Included belt clip/kickstand Cons: Bulky design Limited color options High price tag The OtterBox Defender is one case that needs no introduction.
+
+
+***
+![Sunday Daily Thread: What's everyone working on this week?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Sunday Daily Thread: What's everyone working on this week?")
+
+
+[Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/kyuo40/sunday_daily_thread_whats_everyone_working_on/)
+
+
+> Tell r/python what you're working on this week! You can be bragging, grousing, sharing your passion, or explaining your pain. Talk about your current project or your pet project; whatever you want to share.
+
+
+***
+![Social media posts, cellphone data aid law enforcement investigations into riots](https://thehill.com/sites/default/files/capitol-riot_01062021jn_social.jpg "Social media posts, cellphone data aid law enforcement investigations into riots")
+
+
+[Social media posts, cellphone data aid law enforcement investigations into riots](https://thehill.com/policy/technology/534515-social-media-posts-cellphone-data-aid-law-enforcement-investigations-into)
+
+
+> Law enforcement officials seeking out participants of the riot at the Capitol last week have one big leg up: a plethora of social media posts and data of the suspects they're searching for. Widespread posts on social media from last week's deadly riot, along with other less public-facing technology such as cellphone metadata, are aiding officials as they seek to identify members of the pro-Trump mob that stormed the Capitol building on Jan. 6.   The Department of Justice has already charged dozens of people associated with the riots just over one week after the event took place.
+
+
+***
+![COVID-19: Here's every open Apple Store](https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/infinite_pivot_steeber.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "COVID-19: Here's every open Apple Store")
+
+
+[COVID-19: Here's every open Apple Store](https://9to5mac.com/2021/01/16/apple-retail-store-coronavirus-tracker/)
+
+
+> On March 13, 2020, Apple closed all of its retail stores outside of Greater China in an effort to slow the spread of COVID-19. As regions around the world ease and impose new restrictions, Apple reopens stores with additional safety procedures and temporarily recloses other locations. In the US, each state has responded differently to the virus, which may leave you wondering: is my Apple Store open? Apple monitors local health data and government guidance to determine when individual store locations can safely reopen, and has detailed its comprehensive safety measures in an open letter to customers.
+
+
+***
+![9to5Mac Happy Hour 312: MagSafe and more coming in 2021 MacBook Pro, redesigned iMac and Apple external display rumors](https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "9to5Mac Happy Hour 312: MagSafe and more coming in 2021 MacBook Pro, redesigned iMac and Apple external display rumors")
+
+
+[9to5Mac Happy Hour 312: MagSafe and more coming in 2021 MacBook Pro, redesigned iMac and Apple external display rumors](https://9to5mac.com/2021/01/16/9to5mac-happy-hour-312-magsafe-and-more-coming-in-2021-macbook-pro-redesigned-imac-and-apple-external-display-rumors/)
+
+
+> 9to5Mac's Benjamin Mayo and Zac Hall unpack the latest 2021 rumors from Ming-Chi Kuo and Bloomberg including redesigned iMac, MacBook Pro, and Apple display hardware. Sponsored by TwoBird —one inbox for all your tasks- Write emails, create notes, set reminders, view events, and collaborate live. Learn more about Twobird and download it for free at twobird.com. Sponsored by Headspace: You deserve to feel happier, and Headspace is meditation made simple. Go to headspace.com/mac to start your free one-month trial.
+
+
