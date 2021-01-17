@@ -7763,3 +7763,50 @@
 > Intel does not think that the launch of Apple's own silicon, the M1, will impact the chipset maker's dominance in the lucrative enterprise PC market. In fact, Intel says the debut of its new 11th Gen Core vPro processors for business at the 2021 Consumer Electronics Show earlier this week gives it an edge over competitors, including Apple and AMD. 'They [Apple] do have aspirations to get in… but I think most businesses will tell you, until there is a broader ecosystem of business-related solutions it's not really a viable solution yet,' Stephanie Hallford, Vice-President and General Manager of Business Client Platforms, Client Computing Group, Intel told indianexpress.
 
 
+***
+![Facebook must boost oversight powers in wake of Trump ban](https://www.telegraph.co.uk/content/dam/technology/2020/11/11/Trump-ill_trans_NvBQzQNjv4BqNUHzxaamNmHDqK-YksWRz2o-yMLyYquKCawpyDOW254.jpg?impolicy=logo-overlay "Facebook must boost oversight powers in wake of Trump ban")
+
+
+[Facebook must boost oversight powers in wake of Trump ban](https://www.telegraph.co.uk/technology/2021/01/17/facebook-must-boost-oversight-powers-wake-trump-ban/)
+
+
+> Facebook users whose posts are muffled by the company's algorithms should be allowed to appeal to its new 'supreme court', human rights auditors have argued amid controversy over social media bans on Donald Trump. An independent report commissioned by the new Facebook Oversight Board, which was formed in November, found that it was making 'good progress' but still lacked powers to challenge the social media giant's decisions to amplify or bury certain content. The human rights consultancy BSR said Facebook has not yet committed to giving the board oversight of 'visibility' decisions such as 'promotion or de-prioritisation', as recommended by a previous audit in 2019.
+
+
+***
+![X-Men: SWORD Hints at a New SECRET Cabal of Mutants » TechnoCodex](https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/10/Abigail-Brand-1.jpg "X-Men: SWORD Hints at a New SECRET Cabal of Mutants » TechnoCodex")
+
+
+[X-Men: SWORD Hints at a New SECRET Cabal of Mutants » TechnoCodex](https://technocodex.com/x-men-sword-hints-at-a-new-secret-cabal-of-mutants/)
+
+
+> The events of King In Black have revealed many things about SWORD — including the reveal that a major leader is planning to form a secret cabal.WARNING: The following contains spoilers for S.W.O.R.D. #2 by Al Ewing, Valerio Schiti, Marte Gracia & VC's Ariana Maher, on sale now.Given her history as a spymaster with her eyes on the stars, it makes sense that Abigail Brand would want to be in control of every situation. While she may be working with the X-Men as the new director of SWORD, she still enjoys a certain independence from the nation of Krakoa — and it looks like she's trying to expand that even further.
+
+
+***
+![16" MBP 2019, Service Battery](https://images.macrumors.com/social/?t=2280670&v=6 "16" MBP 2019, Service Battery")
+
+
+[16" MBP 2019, Service Battery](https://forums.macrumors.com/threads/16-mbp-2019-service-battery.2280670/)
+
+
+> I've got a MBP 16" from November 2019 that just popped up "Service Recommended" for the battery today. I understand that happens when capacity drops below 80% of original, and according to CoconutBattery I'm at 79.6% capacity after 190 load cycles. It seems like my battery life started dropping off fairly quickly. From my CoconutBattery recordings: July 2020: 96% (78 load cycles) October 2020: 88% (134 load cycles) December 2020: 87% (172 load cycles) January 2021: 79% (190 load cycles) I HAVE been using the battery more in this time, so it's not entirely unexpected.
+
+
+***
+![Recently created this project to help reddit community . I have added nearly 150+ Subreddits to the database. If you can add more it is really appreciated . Also I need Suggestion and improvement tips :-D](https://external-preview.redd.it/Rnh3dksOSAoCrsFjEuznPNDjsm_7ki_4lJDSW_JloKU.jpg?auto=webp&s=29157d7938a5142710abc648e81838bbf0b2e08a "Recently created this project to help reddit community . I have added nearly 150+ Subreddits to the database. If you can add more it is really appreciated . Also I need Suggestion and improvement tips :-D")
+
+
+[Recently created this project to help reddit community . I have added nearly 150+ Subreddits to the database. If you can add more it is really appreciated . Also I need Suggestion and improvement tips :-D](https://www.reddit.com/r/programming/comments/kz0g9w/recently_created_this_project_to_help_reddit/)
+
+
+> No body in the article.
+
+
+***
+[DuckDuckGo surpassed 100M daily search queries for the first time on Jan. 11; since August 2020, the search engine began seeing over 2B search queries per month (Catalin Cimpanu/ZDNet)](http://www.techmeme.com/210117/p1#a210117p1)
+
+
+> Catalin Cimpanu / ZDNet: DuckDuckGo surpassed 100M daily search queries for the first time on Jan. 11; since August 2020, the search engine began seeing over 2B search queries per month — DuckDuckGo reaches historic milestone in a week when both Signal and Telegram saw a huge influx of new users.
+
+
