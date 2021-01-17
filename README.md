@@ -8051,3 +8051,50 @@
 > I've just finished testing my new project, and would love to see more people than just me benefit from this. The project is essentially a pep585 type annotation converter that's built to be used as a pre-commit hook, but can be run on a whole codebase once pretty easily. https://github.com/sondrelg/pep585-upgrade Feedback and contributions are always welcome 👏
 
 
+***
+![President-elect Joe Biden's Twitter account 'starts from zero' with no Trump followers](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/48605395292_2412794aa7_b-483x271_1200_210117170520.jpeg "President-elect Joe Biden's Twitter account 'starts from zero' with no Trump followers")
+
+
+[President-elect Joe Biden's Twitter account 'starts from zero' with no Trump followers](https://www.indiatoday.in/technology/news/story/president-elect-joe-biden-s-twitter-account-starts-from-zero-with-no-trump-followers-1759928-2021-01-17)
+
+
+> Twitter has given US president-elect Joe Biden his new official presidential account, although he will start it with zero followers. Akarsh Verma | January 17, 2021 | Updated 16:39 IST
+
+
+***
+![Signal app: Error showing in some of your chats? Here's how to fix it on Android and iOS](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/signal_app_bloomberg1-483x271_1200_210117152014.jpeg "Signal app: Error showing in some of your chats? Here's how to fix it on Android and iOS")
+
+
+[Signal app: Error showing in some of your chats? Here's how to fix it on Android and iOS](https://www.indiatoday.in/technology/news/story/signal-app-error-showing-in-some-of-your-chats-here-s-how-to-fix-it-on-android-and-ios-1759919-2021-01-17)
+
+
+> Signal has seen an exponential rise in downloads following a change in WhatsApp's privacy terms. Akarsh Verma | January 17, 2021 | Updated 15:08 IST
+
+
+***
+![Flipkart Big Saving Days sale goes live on January 20: Here are some top deals you shouldn't miss](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/flipkart_republic_day_sale_0-483x271_1200_210117143611.png "Flipkart Big Saving Days sale goes live on January 20: Here are some top deals you shouldn't miss")
+
+
+[Flipkart Big Saving Days sale goes live on January 20: Here are some top deals you shouldn't miss](https://www.indiatoday.in/technology/news/story/flipkart-big-saving-days-sale-goes-live-on-january-20-here-are-some-top-deals-you-shouldn-t-miss-1759908-2021-01-17)
+
+
+> Highlights Flipkart Big Savings Day sale will attract discounts on top smartphones like Samsung F41 and Apple iPhone XR and 11. Flipkart sales webpage indicates iPhone 11 could be available for Rs 50,299. The retailer is offering up to 80 percent discount on such electronics like laptops, PC, headphones, and others. Flipkart, the online megastore has announced that it will be web hosting its 'Big Savings Day' sale, commencing from January 20. The sale will end on January 24. Interestingly, Amazon will be hosting it's Great Republic Day Sale during the same days.
+
+
+***
+[Mivi Collar 2: Made In India! Only wireless earphone at this price point to offer Super Charging](https://www.zeebiz.com/technology/news-mivi-collar-2-made-in-india-only-wireless-earphone-at-this-price-point-to-offer-super-charging-146199)
+
+
+> Consumer Technology Company Mivi has launched another 100% Made in India Product Collar2.
+
+
+***
+![Outsourcing parenting to software: When parental controls do more harm than good](https://www.haaretz.com/polopoly_fs/1.9452362.1610883657!/image/1570157010.jpg_gen/derivatives/headline_1200x630/1570157010.jpg "Outsourcing parenting to software: When parental controls do more harm than good")
+
+
+[Outsourcing parenting to software: When parental controls do more harm than good](https://www.haaretz.com/israel-news/tech-news/.premium-outsourcing-parenting-to-software-when-parental-controls-do-more-harm-than-good-1.9452364)
+
+
+> How many parents really know what their children are exposed to on the internet? We're familiar with the many dangers lurking there: exposure to harmful content, bullying, communication with strangers, sexual exploitation, pornography, identity theft and fraud. Most parents don't want to go snooping through their kids' phones and computers, but even if they did, they can't supervise their children all the time, and the dangers are too sophisticated for ordinary people to deal with. The usual solution for parents is to rely on parental control technologies – various kinds of software that filters and blocks content or follows kids' internet habits without their knowledge.
+
+
