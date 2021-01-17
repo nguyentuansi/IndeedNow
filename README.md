@@ -8148,3 +8148,50 @@
 > BitLocker is a modern data protection feature that is deeply integrated in the Windows kernel. It is used by many corporations as a means of protecting company secrets in case of theft. Microsoft recommends that you have a Trusted Platform Module which can do some of the heavy cryptographic lifting for you. Bypassing BitLocker in 6 easy stepsGiven a Windows 10 system without known passwords and a BitLocker-protected hard drive, an administrator account could be adding by doing the following:At the sign-in screen, select 'I have forgotten my password.
 
 
+***
+![I coded a program to deliver voice lines using your real voice!](https://external-preview.redd.it/kmBLUBLInzxAqYG-hyKNhNntrWmOsVpe6EYf6MCnhLM.jpg?auto=webp&s=36414d703ac3325fc9469949c118fdaed6fab92d "I coded a program to deliver voice lines using your real voice!")
+
+
+[I coded a program to deliver voice lines using your real voice!](https://www.reddit.com/r/programming/comments/kz6x46/i_coded_a_program_to_deliver_voice_lines_using/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Greatest number of three numbers](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Greatest number of three numbers")
+
+
+[Greatest number of three numbers](https://www.reddit.com/r/programming/comments/kz6qkr/greatest_number_of_three_numbers/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Hashcat maskprocessor in Rust](https://external-preview.redd.it/V7i8ILwG_0T_Jv9L1fV_JEjDfLXF8f2LSu3jcaP7spg.jpg?auto=webp&s=44a61a95dedf5c71f91225a37a44b412c189c520 "Hashcat maskprocessor in Rust")
+
+
+[Hashcat maskprocessor in Rust](https://www.reddit.com/r/programming/comments/kz6m6d/hashcat_maskprocessor_in_rust/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[A critique of Canada's tech startup ecosystem, whose growth is being held back by the mindset of angel investors, the government's SR&ED tax credits, and more (Alex Danco)](http://www.techmeme.com/210117/p6#a210117p6)
+
+
+> Alex Danco: A critique of Canada's tech startup ecosystem, whose growth is being held back by the mindset of angel investors, the government's SR&ED tax credits, and more — Toronto is not the next great startup scene. Neither is Waterloo, or Vancouver, or anywhere in Canada. — I'm sorry that I have to write this.
+
+
+***
+![Upgrade ios 12.3.1 to 13](https://images.macrumors.com/social/?t=2280703&v=6 "Upgrade ios 12.3.1 to 13")
+
+
+[Upgrade ios 12.3.1 to 13](https://forums.macrumors.com/threads/upgrade-ios-12-3-1-to-13.2280703/)
+
+
+> I have a iPhone 6S Plus, ios 12.3.1 that is jailbroken with unc0ver. Everything works fine, except I want to go to ios 13 as some games do not run on ios 12 anymore. I have downloaded the iPhone_5.5_13.4_17E255_Restore.ipsw and tried to install it with reiboot and dr.phone. (Windows 10 machine) Both give errors and I am unable to upgrade. I have also tried to restore my filesystem to before jailbreak with unc0ver and then retried update but both always fail. I've spend countless days on this trying to get it working.
+
+
