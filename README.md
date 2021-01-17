@@ -8345,3 +8345,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Simulating Failure in Collaboration Tests](https://external-preview.redd.it/h3ngLXrq_hr4Fhg14upmMM1WDoPWm-F8m0Lg3UNvEqQ.jpg?auto=webp&s=b0d875682cb4ea122e1d02918b1930c5fe09bd77 "Simulating Failure in Collaboration Tests")
+
+
+[Simulating Failure in Collaboration Tests](https://www.reddit.com/r/programming/comments/kzbjv3/simulating_failure_in_collaboration_tests/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Can the GOP break its addiction to show biz?](https://thehill.com/sites/default/files/beckglen_limbaughrush_carlsontucker_hannitysean_011721getty.jpg "Can the GOP break its addiction to show biz?")
+
+
+[Can the GOP break its addiction to show biz?](https://thehill.com/opinion/technology/534613-can-the-gop-break-its-addiction-to-show-biz)
+
+
+> If the GOP is serious about rebuilding itself once Donald TrumpDonald TrumpFacebook temporarily bans ads for weapons accessories following Capitol riots Sasse, in fiery op-ed, says QAnon is destroying GOP Section 230 worked after the insurrection, but not before: How to regulate social media MORE is finally gone, the party has to break its addiction to show business.That sounds wrong, doesn't it? After all, Democrats are the ones walking hand-in-hand with Hollywood, closer than a pair of lovers in a blockbuster rom-com.
+
+
+***
+![Browns vs Chiefs live stream: how to watch the NFL playoff game online from anywhere](https://cdn.mos.cms.futurecdn.net/z5J92nzGLxq5yw4YotMfe6-1200-80.jpg "Browns vs Chiefs live stream: how to watch the NFL playoff game online from anywhere")
+
+
+[Browns vs Chiefs live stream: how to watch the NFL playoff game online from anywhere](https://www.techradar.com/news/browns-vs-chiefs-live-stream-how-to-watch-nfl-playoffs-online-from-anywhere)
+
+
+> Can the Browns' fairy tale story continue? Cleveland overcame Covid-induced adversity and 26 years of grim history to sucker-punch the Steelers, in a game that featured one of the most jaw-dropping opening quarters you'll ever see. Read on as we explain how to get a Browns vs Chiefs live stream and watch the NFL playoffs online wherever you are right now for this Divisional Round clash.They're major underdogs again as they visit the home of the defending Super Bowl champs, the Kansas City Chief..
+
+
+***
+![Latest in home security camera devices evaluated](http://www.digitaljournal.com/img/4/2/9/6/2/6/i/4/8/6/p-large/Reo2.jpg "Latest in home security camera devices evaluated")
+
+
+[Latest in home security camera devices evaluated](http://www.digitaljournal.com/tech-and-science/technology/latest-in-home-security-camera-devices-evaluated/article/584051)
+
+
+> Home security products are growing in popularity, but many are expensive, and many have poor connectivity. Two new devices from Reolink provide high-quality imaging at an affordable price. Digital Journal was sent two home security cameras to evaluate. With these Reolink models, one designed for outdoor use and the other for either indoor scanning or for positioning inside to take a look at the outside environment. Both devices are light-weight and have color or black and white modes, and both work equally well during daylight or at night.
+
+
+***
+![Threat of inauguration violence casts a long shadow over social media – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1230453760.jpg?w=591 "Threat of inauguration violence casts a long shadow over social media – TechCrunch")
+
+
+[Threat of inauguration violence casts a long shadow over social media – TechCrunch](https://techcrunch.com/2021/01/17/capitol-attack-social-media-inauguration-day/)
+
+
+> As the U.S. heads into one of the most perilous phases of American democracy since the Civil War, social media companies are scrambling to shore up their patchwork defenses for a moment they appear to have believed would never come. Most major platforms pulled the emergency break last week, deplatforming the president of the United States and enforcing suddenly robust rules against conspiracies, violent threats and undercurrents of armed insurrection, all of which proliferated on those services for years.
+
+
