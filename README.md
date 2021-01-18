@@ -9672,3 +9672,53 @@
 > January 18, 2021 03:52 PM Eastern Standard Time LONDON--(BUSINESS WIRE)--Technavio has been monitoring the wearable electronics market and it is poised to grow by USD 41.24 billion during 2020-2024, progressing at a CAGR of 15% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario, latest trends and drivers, and the overall market environment. Request a free sample report The market is fragmented, and the degree of fragmentation will accelerate during the forecast period.
 
 
+***
+![Parler CEO brings back website, promises service will follow 'soon'](https://cdn.arstechnica.net/wp-content/uploads/2021/01/GettyImages-1230535149-760x380.jpg "Parler CEO brings back website, promises service will follow 'soon'")
+
+
+[Parler CEO brings back website, promises service will follow 'soon'](https://arstechnica.com/tech-policy/2021/01/parler-ceo-brings-back-website-promises-service-will-follow-soon/)
+
+
+> Enlarge / A person browsing Parler in early January, back when it had content up other than vague promises to overcome being thrown off the whole Internet and return louder than ever. Right-wing social media platform Parler, which has been offline since Amazon Web Services dropped it like a hot potato last week, has reappeared on the Web with a promise to return as a fully functional service "soon." Although the platform's Android and iOS apps are still defunct, this weekend its URL once again began to resolve to an actual website, instead of an error notice.
+
+
+***
+![New Upcoming Games For Xbox Series X In 2021](https://www.androidheadlines.com/wp-content/uploads/2020/12/Xbox-Series-X.jpg "New Upcoming Games For Xbox Series X In 2021")
+
+
+[New Upcoming Games For Xbox Series X In 2021](https://www.androidheadlines.com/new-upcoming-games-xbox-series-x.html)
+
+
+> The Xbox Series X is still in its fledgling state with a fairly small library of new games for the console, but there are many on the horizon to look out for. Whether you're looking for adventure or just trying to survive as you beat back the undead horde, the Xbox Series X has some great new games on the way that should fit the bill.And the only thing standing in your way of enjoying these upcoming games is time. The time it'll take to wait for the release dates. Now, keeping release dates in mind, it's not unlikely that games on this list will have their launches delayed.
+
+
+***
+![Label a Dataset with a Few Lines of Code](https://miro.medium.com/freeze/max/600/1*UOFns3vRUn1hR84w-v72yQ.gif "Label a Dataset with a Few Lines of Code")
+
+
+[Label a Dataset with a Few Lines of Code](https://eric-landau.medium.com/label-a-dataset-with-a-few-lines-of-code-45c140ff119d)
+
+
+> The purpose of this tutorial is to demonstrate the power of algorithmic labelling through a real world example that we had to solve ourselves.* If you want to see the resulting full labelled dataset from this process, sign up here.In a later post we will go over a more thorough description of what algorithmic labelling is, but, in short, algorithmic labelling is about harvesting all existing information in a problem space and converting it into the solution in the form of a program.Here is an example of a algorithmic labelling that labels a short video of cars:a) Raw Data b) Data Algorithm c) Labelled dataOur usual domain of expertise at Cord is in working with video data, but we recently came across a problem where the only available data was in images.
+
+
+***
+![Report: This year's iPhones may have in-screen Touch ID](https://cdn.arstechnica.net/wp-content/uploads/2021/01/iPhone-12-and-12-Pro-header-1440x801-760x380.jpg "Report: This year's iPhones may have in-screen Touch ID")
+
+
+[Report: This year's iPhones may have in-screen Touch ID](https://arstechnica.com/gadgets/2021/01/report-this-years-iphones-may-have-in-screen-touch-id/)
+
+
+> Enlarge / The iPhone 12 and 12 Pro. The next iPhones aren't expected to change looks very much. This weekend, business publication Bloomberg ran a plethora of articles sharing details about various upcoming Apple products. We previously covered what Bloomberg's sources said about the Mac lineup, but another report details upcoming iPhones. According to "a person familiar with" Apple's work, the 2021 iPhone will be a small, iterative update and may carry the "S" label, which Apple has used to denote smaller upgrades to the iPhone in the past (for example, iPhone 6S or iPhone XS).
+
+
+***
+![Achieving Fast Failovers After Network Partitions in a Distributed SQL Database](https://external-preview.redd.it/pXArAlHhtL8cbnYJagZFMYYxaXmvItcYuBXG4TMESqo.jpg?auto=webp&s=bc8e4c54e146406f5d757552605c05d8a271c42d "Achieving Fast Failovers After Network Partitions in a Distributed SQL Database")
+
+
+[Achieving Fast Failovers After Network Partitions in a Distributed SQL Database](https://www.reddit.com/r/programming/comments/l03ysm/achieving_fast_failovers_after_network_partitions/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
