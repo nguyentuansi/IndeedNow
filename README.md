@@ -9103,3 +9103,53 @@
 > FOLLOWING its November release, gamers have found it impossible to bag themselves the coveted PS5. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release […]
 
 
+***
+![Mobile Services in North America 2020-2025: 5 Year Forecasts of 113 Mobile KPIs](https://mms.businesswire.com/media/20210118005189/en/371054/23/ResearchAndMarkets_800px.jpg "Mobile Services in North America 2020-2025: 5 Year Forecasts of 113 Mobile KPIs")
+
+
+[Mobile Services in North America 2020-2025: 5 Year Forecasts of 113 Mobile KPIs](https://www.businesswire.com/news/home/20210118005189/en/Mobile-Services-in-North-America-2020-2025-5-Year-Forecasts-of-113-Mobile-KPIs---ResearchAndMarkets.com)
+
+
+> January 18, 2021 05:07 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Mobile Services in North America: Trends and Forecasts 2020-2025" report has been added to ResearchAndMarkets.com's offering. Economic recovery following the negative impact of the COVID-19 pandemic and a reduction in competition in the mobile segment in the USA will result in strong mobile revenue growth in North America between 2019 and 2025. This report analyses how the mobile segment in North America will evolve over time, based on market developments, regulatory policy and operator strategies.
+
+
+***
+![Rented e-scooters get skid-detection to spot and ban careless riders](https://cdn.mos.cms.futurecdn.net/gMfBm4ypduzfpd8JyuocUd-1200-80.jpg "Rented e-scooters get skid-detection to spot and ban careless riders")
+
+
+[Rented e-scooters get skid-detection to spot and ban careless riders](https://www.techradar.com/news/rented-e-scooters-get-skid-detection-to-spot-and-ban-careless-riders)
+
+
+> (Image credit: Cendhika / Shutterstock) Bird, one of the biggest names in electric scooters , is adding a new skid-detection feature to its hire scooters to help spot (and perhaps ultimately ban) people who ride carelessly, without consideration for others. Bird says that scooters can skid for various reasons, all of which point to serious problems with the rider of the vehicle: hazardous behavior, excessive breaking, and worn-out tires. The skid detection uses the scooter's existing vehicle diagnostics sensors, including an accelerometer that detects whether the scooter is upright or has been dumped on its side, and whether its components (including wheels and brakes) are all working as expected.
+
+
+***
+![Apple TV+ Free Trial Extended To July 2021: Here's How To Check Eligibility](https://sm.mashable.com/t/mashable_in/photo/default/e3326f85-5969-4279-8013-3e3b110908da-1-201-a_7f2d.1200.jpg "Apple TV+ Free Trial Extended To July 2021: Here's How To Check Eligibility")
+
+
+[Apple TV+ Free Trial Extended To July 2021: Here's How To Check Eligibility](https://in.mashable.com/tech/19639/apple-tv-free-trial-extended-to-july-2021-heres-how-to-check-eligibility)
+
+
+> Apple TV Plus free trial subscription is getting extended yet again. Currently, members whose subscription was set to expire from now until June, have till July 2021 to enjoy their free subscription. The first Apple TV Plus free extension was announced in October 2019, after it was slated to run out in February this year. Apple offers a free trial of its streaming service with newly purchased Apple devices like the iPhone, Mac, iPad, and more. Customers need to redeem the offer within the first 90 days of purchase via the Apple TV app.
+
+
+***
+![Honor V40 launch date pushed back until January 22](https://cdn.mos.cms.futurecdn.net/y5kqzgWAfdGNwrHKn7rWeN-1200-80.jpg "Honor V40 launch date pushed back until January 22")
+
+
+[Honor V40 launch date pushed back until January 22](https://www.techradar.com/news/honor-v40-launch-date-pushed-back-until-january-22)
+
+
+> Honor View 30 (Image credit: Honor) We were expecting the Honor V40 smartphone to launch on January 18 - that's today, as of writing - but it turns out the new phone is instead coming January 22. In a post on Chinese social media platform Weibo , the company announced this launch date delay, saying the launch was 'affected by the conference venue and equipment'. This means you'll have to wait a few more days to see what Honor's new phone looks like, before the China-only launch and release. Will it get a worldwide release? Previous Honor phones like the Honor V30 got China-only launches followed by global ones - outside China, the 'V' is expanded to 'View', so we could see the Honor View 40 released in some regions.
+
+
+***
+![How Trump's fights with tech transformed Republicans' beliefs on free speech](https://static.politico.com/43/e0/f071fb634c79a6aef8cd7bf5b121/gettyimages-1295389847-c.jpg "How Trump's fights with tech transformed Republicans' beliefs on free speech")
+
+
+[How Trump's fights with tech transformed Republicans' beliefs on free speech](https://www.politico.com/news/2021/01/18/trump-free-speech-big-tech-459833)
+
+
+> That dismays Republicans who cheered Reagan's move — and say the current GOP proposals look a lot like a Fairness Doctrine for the internet. 'I am a big Trump supporter, but I totally disagree with the approach here,' said Mark Fowler, a Reagan appointee who led the charge for rolling back the doctrine as chair of the Federal Communications Commission. 'I think it's a blunderbuss, kind of a Panzer, heavy-handed approach to trying to control the press.' Then-FCC Republican Mike O'Rielly expressed similar misgivings last summer after the president proposed a wide-ranging regulatory and legislative crackdown against bias in social media.
+
+
