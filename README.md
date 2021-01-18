@@ -9722,3 +9722,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Cannot view passwords in Keychain?](https://images.macrumors.com/social/?t=2280892&v=6 "Cannot view passwords in Keychain?")
+
+
+[Cannot view passwords in Keychain?](https://forums.macrumors.com/threads/cannot-view-passwords-in-keychain.2280892/)
+
+
+> Dec 7, 2005 1,573 183 compost heap I'm on an iPad Air 3 and iPadOS 14.3. I'm trying to see all my passwords on my keychain. I googled, but can't find the answer. The recommendation is to go to Settings —> Passwords and Accounts etc. First of all, there is no 'Passwords and Accounts', there is only 'Passwords' on my iPad. Second, when I click on 'Passwords', I'm greeted with 'Enter iPad Passcode to view saved passwords' - so I enter my iPad passcode, and then all I see is 'AutoFill Passwords' which upon clicking show 'AutoFill Passwords' which can be turned on or off with a sliding button and below that text- 'Autofill From:' and two options below 'Keychain' and 'Chrome' each of which has a green checkmark you can turn on or off by clicking on 'Keychain' or 'Chrome'.
+
+
+***
+![Samsung Galaxy Fold Receives Android 11 One UI 3.0 Update](https://www.androidheadlines.com/wp-content/uploads/2020/10/galaxy-fold-new-update.jpg "Samsung Galaxy Fold Receives Android 11 One UI 3.0 Update")
+
+
+[Samsung Galaxy Fold Receives Android 11 One UI 3.0 Update](https://www.androidheadlines.com/2021/01/samsung-galaxy-fold-receives-android-11-one-ui-3-0-update.html)
+
+
+> Rejoice Samsung Galaxy Fold owners, because the OEM is now rolling out the stable Android 11 One UI 3.0 update. Notably, the Galaxy Z Fold 2 received the Android 11 update just a week ago.And now, its predecessor is grabbing the latest One UI 3.0 update. When it comes to pushing the Android 11 update, Samsung has been one of the best-performing OEMs.A bunch of Samsung devices have already picked up the stable Android 11 One UI 3.0 update. The company released a dedicated Android 11 update schedule, and as of now, the company has stuck with it.
+
+
+***
+[David Robson](https://www.itwire.com/freelancer-sp-720/tag/David%20Robson.html)
+
+
+> One resident of a retirement village in Wollongong has been testing out a robot as a means of telepresence in his home during the pandemic.
+
+
+***
+![Amkor Technology to Announce Fourth Quarter and Full Year 2020 Financial Results on February 8, 2021](https://mms.businesswire.com/media/20210118005531/en/501149/21/Amkor_logo_-_PMS293.jpg "Amkor Technology to Announce Fourth Quarter and Full Year 2020 Financial Results on February 8, 2021")
+
+
+[Amkor Technology to Announce Fourth Quarter and Full Year 2020 Financial Results on February 8, 2021](https://www.businesswire.com/news/home/20210118005531/en/Amkor-Technology-to-Announce-Fourth-Quarter-and-Full-Year-2020-Financial-Results-on-February-8-2021)
+
+
+> January 18, 2021 05:21 PM Eastern Standard Time TEMPE, Ariz.--(BUSINESS WIRE)--Amkor Technology, Inc. (Nasdaq: AMKR), a leading provider of semiconductor packaging and test services, today announced that it will issue its financial results for the fourth quarter and full year 2020 after the close of trading on the NASDAQ Global Select Market on Monday, February 8, 2021. Amkor management will host a conference call to discuss the company's financial results at 5:00 p.m. Eastern Time on Monday, February 8, 2021.
+
+
+***
+![Apple sued to remove Telegram over anti-Semitic posts](https://mondrian.mashable.com/2021%252F01%252F18%252F3b%252F2509eda278c54499b73c3ab071c177ad.91935.jpg%252F1200x630.jpg?signature=l3GZvWhhz3E45w0FgMLwBQB8kJg= "Apple sued to remove Telegram over anti-Semitic posts")
+
+
+[Apple sued to remove Telegram over anti-Semitic posts](https://mashable.com/article/apple-telegram-lawsuit/)
+
+
+> Telegram's star is on the rise, but as the secure messaging app used by protest organizers, political dissidents, revenge porn seekers, and white supremacists alike gets even more popular, reaching more than 500 million active users worldwide in recent days, it faces wider scrutiny.  Those irked by Telegram's limited content moderation in the past — researchers have nicknamed it "Terrorgram" due to a glut of Nazi extremists — have been complaining into the internet void for years, but a lawsuit filed Sunday adds a new spotlight to the controversy and a unique twist.
+
+
