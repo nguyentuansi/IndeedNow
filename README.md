@@ -9487,3 +9487,50 @@
 > Hacked Off report identifies 55 fake news stories about Covid-19 published in National Newspapers in 2020. IPSO failed to uphold a complaint on any of the stories included in the report.
 
 
+***
+![Which is the best MacBook for photographers?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/11/16-inch-macbook-pro-hero-04.jpeg "Which is the best MacBook for photographers?")
+
+
+[Which is the best MacBook for photographers?](https://www.imore.com/best-macbook-photographers)
+
+
+> Source: Rene Ritchie / iMore Best MacBook for Photographers iMore 2021 Photographers have often turned to MacBooks to get the job done. Portable and powerful, these laptops are great for photo-editing for beginners and professionals alike. The MacBook lineup is in transition with the late 2020 arrival of Apple silicon. Our latest recommendations reflect this transition. The best MacBook for photographers is currently the 16-inch MacBook Pro with an i9 processor. There are other noteworthy models to consider, depending on your needs, including the best MacBook of the year overall.
+
+
+***
+![Can you move only one match stick to fix the equation?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Can you move only one match stick to fix the equation?")
+
+
+[Can you move only one match stick to fix the equation?](https://www.reddit.com/r/programming/comments/l00fyj/can_you_move_only_one_match_stick_to_fix_the/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Best website builder for musicians in 2021](https://cdn.mos.cms.futurecdn.net/7andzv7UCkqkAJRn3FBgP3-1200-80.jpg "Best website builder for musicians in 2021")
+
+
+[Best website builder for musicians in 2021](https://www.techradar.com/news/best-website-builder-musicians)
+
+
+> The best website builder for musicians will make it easy to not just showcase your band but especially present your music and track listings.A host of different services will now let you put a website online, quickly and easily, no coding skills required – but if you're looking for something to show off your talents as a musician then you need a more specific set of features.Primarily, a way of uploading and sharing your tunes in a simple and secure way, even if it's just snippets of songs rather than whole tracks or indeed albums.
+
+
+***
+[How to build a safer password that's easy to remember](https://abc30.com/technology/4-steps-for-safer-password-protection/9684972/)
+
+
+> Are you tired of continuously changing your password because you keep forgetting it? Here are some tips to build a unique yet easy-to-remember password.
+
+
+***
+![The worrying trend of game technology centralization](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "The worrying trend of game technology centralization")
+
+
+[The worrying trend of game technology centralization](https://www.reddit.com/r/programming/comments/l00cbb/the_worrying_trend_of_game_technology/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
