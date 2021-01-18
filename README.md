@@ -8815,3 +8815,50 @@
 > Seoul Robotics and Intel's Mobileye among firms at CES 2021 with new 3D technology to support autonomous cars and smarter big cities.
 
 
+***
+![Deaths, self-immolation draw scrutiny on China tech giants](https://apicms.thestar.com.my/uploads/images/2021/01/17/1011229.jpg "Deaths, self-immolation draw scrutiny on China tech giants")
+
+
+[Deaths, self-immolation draw scrutiny on China tech giants](https://www.thestar.com.my/tech/tech-news/2021/01/18/deaths-self-immolation-draw-scrutiny-on-china-tech-giants)
+
+
+> HONG KONG: E-commerce workers who kept China fed during the coronavirus pandemic, making their billionaire bosses even richer, are so unhappy with their pay and treatment that one just set himself on fire in protest. China's Internet industries already were known for long, demanding days. With millions of families confined at home, demand surged and employees delivered tons of vegetables, rice, meat, diapers and other supplies, often aboard scooters that exposed them to sub-freezing winter cold. For white-collar workers in the technology industry, pay is better than in some industries but employees are often expected to work 12 hours a day or more.
+
+
+***
+![iPhone SE 2020 silence switch problem?](https://images.macrumors.com/social/?t=2280786&v=6 "iPhone SE 2020 silence switch problem?")
+
+
+[iPhone SE 2020 silence switch problem?](https://forums.macrumors.com/threads/iphone-se-2020-silence-switch-problem.2280786/)
+
+
+> Sometimes my iPhone SE 2020 can be just laying on a flat surface and out of nowhere the screen will illuminate itself and display the 'silent mode on' when it was already on. And I can flex the toggle a bit without actually flicking it over to unmute, and it will keep registering as me flicking back and forth back and forth even though I never moved the button totally over or with any real pressure. But the screen illuminating itself thing is really weird to me and happens regularly. But not in any way that I'd ever be able to really prove anything to Apple, do you think they'd do anything? This is an annoying problem because I've activated the camera by being in my pocket since the screen turns on to display the 'silent mode on' message, then somehow the camera activates and then my battery drains and I'm completely unaware.
+
+
+***
+![Samsung's Lee faces sentencing for bribery charge after four years of trials](https://assets2.rappler.com/2021/01/reuters-011821-j-samsung-jay-lee-1610938782170.jpg "Samsung's Lee faces sentencing for bribery charge after four years of trials")
+
+
+[Samsung's Lee faces sentencing for bribery charge after four years of trials](https://www.rappler.com/technology/samsung-jay-lee-faces-sentencing-bribery-charge)
+
+
+> A South Korean court will sentence Samsung Electronics Co Ltd heir Jay Y. Lee on a bribery charge on Monday, January 18, a ruling likely to have ramifications for his leadership of the tech giant as well as South Korea's views toward big business. If Lee is jailed, he will be sidelined from major decision making at Samsung Electronics as it strives to overtake competitors, and will be diverted from overseeing the process of inheritance from his father, who died in October, crucial to keeping control of Samsung.
+
+
+***
+![Trump slams China's Huawei, halting shipments from Intel, others – sources](https://assets2.rappler.com/2021/01/2021-01-17T181000Z_1097639280_RC2U9L90MKEQ_RTRMADP_3_USA-HUAWEI-TECH-1610937924121.jpg "Trump slams China's Huawei, halting shipments from Intel, others – sources")
+
+
+[Trump slams China's Huawei, halting shipments from Intel, others – sources](https://www.rappler.com/technology/trump-slams-huawei-halting-shipments-intel-others)
+
+
+> The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm, people familiar with the matter told Reuters. The action – likely the last against Huawei Technologies under Republican President Donald Trump – is the latest in a long-running effort to weaken the world's largest telecommunications equipment maker, which Washington sees as a national security threat.
+
+
+***
+[Razer Hammerhead Offers Active Noise Cancellation for the Ultimate Gaming Experience](https://manofmany.com/tech/audio/razer-hammerhead?user_id=*|EMAIL|*)
+
+
+> Let's set the scene. You've found the perfect spot to game for a few moments. Everything is set up—your laptop is ready to go, mouse in place, and then you pull out a pair of ratty headphones that only just provide enough sound for you […] Visit Man of Many for the full post.
+
+
