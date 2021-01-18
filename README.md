@@ -8683,3 +8683,47 @@
 > No body in the article.
 
 
+***
+![Apple's Cook says Parler could return to App Store with reforms](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/2021-01-11T000000Z_283337667_MT1SIPA0006O9X1X_RTRMADP_3_SIPA-USA-seo.JPG "Apple's Cook says Parler could return to App Store with reforms")
+
+
+[Apple's Cook says Parler could return to App Store with reforms](https://www.malaymail.com/news/tech-gadgets/2021/01/18/apples-cook-says-parler-could-return-to-app-store-with-reforms/1941417)
+
+
+> The Parler logo is seen on an Apple iPhone in this photo illustration in Warsaw, Poland January 11, 2021. — Reuters pic WASHINGTON, Jan 18 — Parler, the social network popular among conservatives, could return to Apple's App Store if it changes how it moderates posts on the platform, the tech giant's CEO Tim Cook said yesterday. Apple suspended all downloads of the Parler app following the attack on the US Capitol on January 6, citing postings on the platform that could incite further violence. Google and Amazon also cut ties with the company.
+
+
+***
+![Swiss text sleuths unpick mystery of QAnon origins](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/1801_orphanalytics-seo.jpg "Swiss text sleuths unpick mystery of QAnon origins")
+
+
+[Swiss text sleuths unpick mystery of QAnon origins](https://www.malaymail.com/news/tech-gadgets/2021/01/18/swiss-text-sleuths-unpick-mystery-of-qanon-origins/1941410)
+
+
+> Swiss startup OrphAnalytics staff poses with a laptop using the text analysis software on January 6, 2021. — AFP pic GENEVA, Jan 18 — The mysterious 'Q' behind the QAnon conspiracy movement, which was instrumental in the storming of the US Capitol, is in fact two people, according to Swiss experts. Swiss startup OrphAnalytics said it had used its algorithm-based machine-learning text analysis software, developed to detect plagiarism, to help crack the mystery behind QAnon. 'There are clearly two styles characterising the QAnon messages,' company chief Claude Alain Roten told AFP in an interview at his home in western Switzerland.
+
+
+***
+![Richard Branson's Virgin Orbit reaches space on 2nd try](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1cPZe0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Richard Branson's Virgin Orbit reaches space on 2nd try")
+
+
+[Richard Branson's Virgin Orbit reaches space on 2nd try](https://www.msn.com/en-my/news/techandscience/richard-bransons-virgin-orbit-reaches-space-on-2nd-try/ar-BB1cPTjX)
+
+
+> © Provided by Associated Press Virgin Orbit Boeing 747-400 rocket launch platform, named Cosmic Girl, takes off from Mojave Air and Space Port, Mojave (MHV) on its second orbital launch demonstration in the Mojave Desert, north of Los Angeles. (AP Photo/Matt Hartman) LOS ANGELES (AP) — Richard Branson's Virgin Orbit reached space on Sunday, eight months after the first demonstration flight of its air-launched rocket system failed, the company said. A 70-foot-long (21.34-meter-long) LauncherOne rocket was released from beneath the wing of a Boeing 747 carrier aircraft off the coast of Southern California, ignited moments later and soared toward space.
+
+
+***
+[Britain's first bid to track down ET will ­listen for sounds from alien industry or mining](https://www.the-sun.com/lifestyle/tech/2157901/britain-first-bid-to-track-down-aliens/)
+
+
+> BRITAIN'S first bid to track down ET will ­listen for sounds from alien industry or mining. Other signs such as noises from spacecraft will also be searched for by a super-long distance radar. Current equipment in the SETI programme (search for extraterrestrial intelligence) is mostly US-based and designed to detect radio transmissions. The multi-million pound […]
+
+
+***
+[Britain's first bid to track down ET will ­listen for sounds from alien industry or mining](https://www.thesun.ie/tech/6428930/britain-first-bid-to-track-down-aliens/)
+
+
+> BRITAIN'S first bid to track down ET will ­listen for sounds from alien industry or mining. Other signs such as noises from spacecraft will also be searched for by a super-long distance radar. Current equipment in the SETI programme (search for extraterrestrial intelligence) is mostly US-based and designed to detect radio transmissions. The multi-million pound […]
+
+
