@@ -9006,3 +9006,53 @@
 > The chairman of satellite operator Intelsat is being sued for insider trading in an explosive new shareholder lawsuit that also dings private-equity giants BC Partners and Silver Lake Partners, a New York Knicks shareholder. Ticker Security Last Change Change % INTEQ INTELSAT S.A. 0.72 +0.12 +20.00% The Oakland, Calif., federal court lawsuit claims that David McGlade, Intelsat's chairman and former CEO, sold stock in the satellite operator on Nov. 5, 2019 — mere hours after the company's CEO learned that the Federal Communications Commission was leaning against a proposal that would have earned the company billions.
 
 
+***
+![DHFL share hits upper circuit after lenders approve Piramal's takeover bid](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/share_505x264_092019020355_180121013502.jpg "DHFL share hits upper circuit after lenders approve Piramal's takeover bid")
+
+
+[DHFL share hits upper circuit after lenders approve Piramal's takeover bid](https://www.businesstoday.in/markets/company-stock/dhfl-share-upper-circuit-lenders-approve-piramal-takeover/story/428266.html)
+
+
+> Story Dewan Housing Finance Corp share rose 4.96% to Rs 27.50 against previous close of Rs 26.20 on BSE BusinessToday.In | January 18, 2021 | Updated 13:35 IST DHFL stock opened with a gain of 4.96% today. There were only buyers and no sellers for the stock today.
+
+
+***
+![Technology, manufacturing counters in focus as investors anticipate higher pandemic-driven demand amid lockdowns](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1cQxd2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Technology, manufacturing counters in focus as investors anticipate higher pandemic-driven demand amid lockdowns")
+
+
+[Technology, manufacturing counters in focus as investors anticipate higher pandemic-driven demand amid lockdowns](http://www.theedgemarkets.com/article/technology-manufacturing-counters-focus-investors-anticipate-higher-pandemicdriven-demand)
+
+
+> © Provided by The Edge KUALA LUMPUR (Jan 18): Technology and manufacturing counters were among the top gainers on Bursa Malaysia today, as investors anticipate higher demand for computer-related products and technology amid global lockdown policies. At 12.30pm, semiconductor group Malaysian Pacific Industries Bhd (MPI) topped the list of gainers by value, gaining 5.2% or RM1.50 to a multi-year high of RM30.22, followed by integrated circuit testing company JF Technology Bhd (up 73 sen or 12.1%), and precision engineering company Kobay Technology Bhd (up 72 sen or 16.
+
+
+***
+![Oppo Reno 5 Pro 5G with 90Hz display, Enco X wireless earbuds launched in India: Price, specifications](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/oppo_reno_5_pro_5g_2-483x271_1200_210118130719.jpeg "Oppo Reno 5 Pro 5G with 90Hz display, Enco X wireless earbuds launched in India: Price, specifications")
+
+
+[Oppo Reno 5 Pro 5G with 90Hz display, Enco X wireless earbuds launched in India: Price, specifications](https://www.indiatoday.in/technology/news/story/oppo-reno-5-pro-5g-with-90hz-display-enco-x-wireless-earbuds-launched-in-india-price-specifications-1760141-2021-01-18)
+
+
+> Oppo has launched the Reno 5 Pro 5G and the flagship Enco X TWS earbuds in India, kicking off its 2021 journey for the market. Shubham Verma | January 18, 2021 | Updated 13:03 IST
+
+
+***
+![Realme announces RealPublic Sale from January 20: Deals on Realme 7, 7 Pro, C15, X3, Buds Air Neo, and more](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme-sale-republic-day-483x271_1200_210118130709.jpeg "Realme announces RealPublic Sale from January 20: Deals on Realme 7, 7 Pro, C15, X3, Buds Air Neo, and more")
+
+
+[Realme announces RealPublic Sale from January 20: Deals on Realme 7, 7 Pro, C15, X3, Buds Air Neo, and more](https://www.indiatoday.in/technology/news/story/realme-announces-realpublic-sale-from-january-20-deals-on-realme-7-7-pro-c15-x3-buds-air-neo-and-more-1760142-2021-01-18)
+
+
+> Realme has announced deals and offers on its products during RealPublic Sale on realme.com, Amazon, and Flipkart sales this week. January 18, 2021 | Updated 12:51 IST Realme has announced RealPublic Sale in India from January 20
+
+
+***
+![Iran suffering from a massive power outage. Illegal Bitcoin mining likely to be blamed](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/iran-sanctions-720-483x271_1200_210118120753.jpeg "Iran suffering from a massive power outage. Illegal Bitcoin mining likely to be blamed")
+
+
+[Iran suffering from a massive power outage. Illegal Bitcoin mining likely to be blamed](https://www.indiatoday.in/technology/news/story/iran-suffering-from-a-massive-power-outage-illegal-bitcoin-mining-likely-to-be-blamed-1759961-2021-01-17)
+
+
+> The Iranian police have confiscated some 45,000 bitcoin mining machines that were illegally using subsidised electricity. Akarsh Verma | January 18, 2021 | Updated 11:32 IST
+
+
