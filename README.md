@@ -9056,3 +9056,50 @@
 > The Iranian police have confiscated some 45,000 bitcoin mining machines that were illegally using subsidised electricity. Akarsh Verma | January 18, 2021 | Updated 11:32 IST
 
 
+***
+![Global Intelligent Platform Management Interface (IPMI) Market Trajectory &amp; Analytics, 2012 vs 2020 vs 2027](https://mms.businesswire.com/media/20210118005168/en/371054/23/ResearchAndMarkets_800px.jpg "Global Intelligent Platform Management Interface (IPMI) Market Trajectory &amp; Analytics, 2012 vs 2020 vs 2027")
+
+
+[Global Intelligent Platform Management Interface (IPMI) Market Trajectory &amp; Analytics, 2012 vs 2020 vs 2027](https://www.businesswire.com/news/home/20210118005168/en/Global-Intelligent-Platform-Management-Interface-IPMI-Market-Trajectory-Analytics-2012-vs-2020-vs-2027---ResearchAndMarkets.com)
+
+
+> January 18, 2021 04:11 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Intelligent Platform Management Interface (IPMI) - Global Market Trajectory & Analytics" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Intelligent Platform Management Interface (IPMI) estimated at US$1.7 Billion in the year 2020, is projected to reach a revised size of US$3.9 Billion by 2027, growing at a CAGR of 12.5% over the period 2020-2027. Hardware, one of the segments analyzed in the report, is projected to record 12.
+
+
+***
+![Top 10 Best Brain Games For Android 2021](https://www.androidheadlines.com/wp-content/uploads/2021/01/Brain-it-on-game-1.jpg "Top 10 Best Brain Games For Android 2021")
+
+
+[Top 10 Best Brain Games For Android 2021](https://www.androidheadlines.com/2021/01/top-10-best-brain-games-android-2021.html)
+
+
+> Mobile Gaming is in trend these days and becoming more popular with the introduction of games with console-level graphics and gameplay. Nowadays, you do not need to have a beast set up or high-end accessories to play games.You can download games, and start playing and have fun anywhere, anytime on your mobiles. Along with that, you can empower and sharpen your brain with Brian Games. They help you to empower your brain and build cognitive skills like memory, concentration, and decision-making ability.
+
+
+***
+![Amazon Fire HD 8 deal scores you a Show Mode dock for just $1](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/fire-hd-10-show-mode-charging-dock.jpg "Amazon Fire HD 8 deal scores you a Show Mode dock for just $1")
+
+
+[Amazon Fire HD 8 deal scores you a Show Mode dock for just $1](https://www.androidcentral.com/amazon-fire-hd-8-deal-scores-you-show-mode-dock-just-1)
+
+
+> If you don't need the very latest Fire tablet, you can score the 8th-generation Fire HD 8 for just $49.99 in brand new condition at Woot for a limited time. What's even better is that you can bundle it with Amazon's first-party Show Mode Charging Dock for just $1 more. Getting an 8-inch tablet and a dock from just $51 total is a steal, especially when you consider that a this Fire HD 8 tablet still goes for $110 and the Show Mode dock is $20 right now. Make a 50% savings on Amazon's previous-gen Fire HD 8 tablet and add a Show Mode Charging Dock to your cart at the same time for just a dollar more.
+
+
+***
+![Samsung vice chairman Jay Y. Lee sent back to prison in bribery case – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1230648631.jpg?w=600 "Samsung vice chairman Jay Y. Lee sent back to prison in bribery case – TechCrunch")
+
+
+[Samsung vice chairman Jay Y. Lee sent back to prison in bribery case – TechCrunch](https://techcrunch.com/2021/01/18/samsung-vice-chairman-jay-y-lee-sent-back-to-prison-in-bribery-case/)
+
+
+> Samsung Electronics vice chairman Jay Y. Lee is back in prison following a retrial of his 2017 conviction in a bribery case that helped lead to the downfall of former South Korean president Park Guen-hye. The Seoul High Court sentenced Lee to 30 months on Monday. Lee was originally convicted of bribery in 2017 and sentenced to five years, but was released in 2018 after the sentence was reduced and suspended on appeal. In August 2019, however, South Korea's Supreme Court overturned the appeals court, ruling that it was too lenient, and ordered the case to be retried.
+
+
+***
+[PS5 stock checker UK – New Playstation 5 stock TODAY at Argos, GAME, Currys, Amazon + Tesco pre-orders & Dell bundles](https://www.the-sun.com/lifestyle/tech/1823989/ps5-stock-checker-uk-tesco-argos-very-game-currys-amazon-live/)
+
+
+> FOLLOWING its November release, gamers have found it impossible to bag themselves the coveted PS5. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release […]
+
+
