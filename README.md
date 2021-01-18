@@ -9153,3 +9153,53 @@
 > That dismays Republicans who cheered Reagan's move — and say the current GOP proposals look a lot like a Fairness Doctrine for the internet. 'I am a big Trump supporter, but I totally disagree with the approach here,' said Mark Fowler, a Reagan appointee who led the charge for rolling back the doctrine as chair of the Federal Communications Commission. 'I think it's a blunderbuss, kind of a Panzer, heavy-handed approach to trying to control the press.' Then-FCC Republican Mike O'Rielly expressed similar misgivings last summer after the president proposed a wide-ranging regulatory and legislative crackdown against bias in social media.
 
 
+***
+![Samsung May Use Under-Display Fingerprint Scanner In A Foldable Phone This Year](https://www.androidheadlines.com/wp-content/uploads/2020/08/Xiaomi-Mi-10-Pro-fingerprint-close-up-DG-AH-2020.jpg "Samsung May Use Under-Display Fingerprint Scanner In A Foldable Phone This Year")
+
+
+[Samsung May Use Under-Display Fingerprint Scanner In A Foldable Phone This Year](https://www.androidheadlines.com/2021/01/samsung-under-display-fingerprint-scanner-foldable-phone.html)
+
+
+> Samsung is tipped to utilize an under-display fingerprint scanner in a foldable smartphone this year. This is not the first time we're hearing this, as several rumors indicated that the Galaxy Z Fold 3 will be the first such device.Samsung is testing an under-display fingerprint scanner for its foldable smartphonesWell, those rumors may have been true, as two additional tipsters released this new info. WonderingLeaks says that Samsung is testing an under-display fingerprint scanner for foldables.
+
+
+***
+![Worldwide Industry for Wireless Connectivity to 2026](https://mms.businesswire.com/media/20210118005240/en/371054/23/ResearchAndMarkets_800px.jpg "Worldwide Industry for Wireless Connectivity to 2026")
+
+
+[Worldwide Industry for Wireless Connectivity to 2026](https://www.businesswire.com/news/home/20210118005240/en/Worldwide-Industry-for-Wireless-Connectivity-to-2026---Rapid-Technological-Advancement-in-5G-Technology-Presents-Opportunities---ResearchAndMarkets.com)
+
+
+> January 18, 2021 06:03 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Wireless Connectivity Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026" report has been added to ResearchAndMarkets.com's offering. The report on the global wireless connectivity market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global wireless connectivity market to grow with a CAGR of 13.46% over the forecast period from 2020-2026.
+
+
+***
+![The best wireless headphones 2021: our pick of the best ways to cut the cord](https://cdn.mos.cms.futurecdn.net/YHZhCuweqmeBEcBcDHsMBk-1200-80.jpg "The best wireless headphones 2021: our pick of the best ways to cut the cord")
+
+
+[The best wireless headphones 2021: our pick of the best ways to cut the cord](https://www.techradar.com/news/audio/portable-audio/best-wireless-headphones-1280344)
+
+
+> The best wireless headphones of 2021 is a list filled with some of the most advanced audio tech we've ever seen. The best part? These headphones come in all shapes and sizes, from the smallest earbuds to chunky over-ear headphones.The more choice the better in our book, but so many options can mean it's difficult to find which wireless headphones are the best for your needs, your budget and your style. This is why we've created this guide to help. We've spent the best part of 10 years trialling the best headphones on the market, which means we know a thing or two about finding the perfect pair of wireless cans for everyone.
+
+
+***
+![The best online tools to trace your genealogy from home](https://mondrian.mashable.com/2021%252F01%252F15%252F30%252Fa060c35c8a104e0da77161e0b964ed35.2b161.png%252F1200x630.png?signature=SE-WS1jhMc6nYG4s13cDAVxVH18= "The best online tools to trace your genealogy from home")
+
+
+[The best online tools to trace your genealogy from home](https://mashable.com/article/best-genealogy-apps/)
+
+
+> When we spend so much of our time online, we're bound to learn something while clicking and scrolling. Discover something new with Mashable's series I Learned It On The Internet. We'd only be only a ferry ride away — how could we not explore our previously unknown Welsh heritage on my mother's milestone birthday trip to England? That's how I sold the idea to my mother, who'd always been interested in genealogy. On a driving tour of Ireland, years earlier, we'd connected with one another and our Irish roots.
+
+
+***
+![Best headphones 2021: your definitive guide to the latest and greatest audio](https://cdn.mos.cms.futurecdn.net/tdbYLfwJ3U5eSREdqfV8oZ-1200-80.jpg "Best headphones 2021: your definitive guide to the latest and greatest audio")
+
+
+[Best headphones 2021: your definitive guide to the latest and greatest audio](https://www.techradar.com/news/audio/portable-audio/best-headphones-1280340)
+
+
+> Finding the best headphones to suit your style and listening habits can be difficult – especially when there are so many different models to choose from.The best headphones include range from true wireless earbuds that cut the cord completely to immersive noise-cancelling headphones that block out the world – and everything in between.What all the best headphones of 2021 have in common, is that they deliver on comfort, great-looking design, top audio fidelity, and a range of fantastic features, including built-in voice assistants and wireless connectivity.
+
+
