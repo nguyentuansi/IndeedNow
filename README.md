@@ -9437,3 +9437,53 @@
 > submitted by /u/EliteDaMyth [link] [comments]
 
 
+***
+![Chess Visualization Project](https://external-preview.redd.it/nJsZdFztLRbrRPA-9YWlzAoXet2xYgZ_2epZ4MDB_gY.jpg?auto=webp&s=183286a9d759b3023c78ef4f8430d8433a0dcab5 "Chess Visualization Project")
+
+
+[Chess Visualization Project](https://www.reddit.com/r/Python/comments/kzzcob/chess_visualization_project/)
+
+
+> Not necessarily a piece of software, but if there are coders here interested in chess, I've created some cool visualizations on chess data! Here are some of the cool visualizations I made: Piece Movement Popular Squares Link: https://www.kaggle.com/ironicninja/visualizing-chess-game-length-and-piece-movement
+
+
+***
+![Best cloud hosting services in 2021](https://cdn.mos.cms.futurecdn.net/b2mC5W3RrnteRWpJXcGMx5-1200-80.jpg "Best cloud hosting services in 2021")
+
+
+[Best cloud hosting services in 2021](https://www.techradar.com/news/best-cloud-hosting-providers)
+
+
+> Cloud hosting has changed the hosting industry for the better, allowing for increasing reliability and resilience for clients. Signing up for a simple web hosting package would usually buy you a defined block of resources on a single server: register your domain name, then choose this much web space, that much bandwidth, maybe a set amount of RAM or CPU cores.While this works well for many websites, having fixed resources can be a problem for larger projects. There's generally no way to temporarily allocate extra RAM or bandwidth if you experience an increase in traffic, and even a simple plan upgrade might require your website to go offline for a while.
+
+
+***
+![Dark Fiber Market Research 2020-2024- Featuring AT&amp;T Inc., CenturyLink Inc., Colt Technology Services Group Ltd., Among Others to Contribute to the Market Growth](https://mms.businesswire.com/media/20210118005456/en/852799/23/IRTNTR40097.jpg "Dark Fiber Market Research 2020-2024- Featuring AT&amp;T Inc., CenturyLink Inc., Colt Technology Services Group Ltd., Among Others to Contribute to the Market Growth")
+
+
+[Dark Fiber Market Research 2020-2024- Featuring AT&amp;T Inc., CenturyLink Inc., Colt Technology Services Group Ltd., Among Others to Contribute to the Market Growth](https://www.businesswire.com/news/home/20210118005456/en/Dark-Fiber-Market-Research-2020-2024--Featuring-ATT-Inc.-CenturyLink-Inc.-Colt-Technology-Services-Group-Ltd.-Among-Others-to-Contribute-to-the-Market-Growth)
+
+
+> January 18, 2021 12:33 PM Eastern Standard Time LONDON--(BUSINESS WIRE)--The dark fiber market is poised to grow by USD 4.85 bn during 2020-2024, progressing at a CAGR of over 12% during the forecast period. Worried about the impact of COVID-19 on your Business? Here is an Exclusive report talking about Market scenarios, Estimates, the impact of lockdown, and Customer Behaviour. Get FREE Sample Report in Minutes! The report on the dark fiber market provides a holistic update, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis.
+
+
+***
+![From 6s to 12 mini – reflections on how little has changed](https://images.macrumors.com/social/?t=2280850&v=6 "From 6s to 12 mini – reflections on how little has changed")
+
+
+[From 6s to 12 mini – reflections on how little has changed](https://forums.macrumors.com/threads/from-6s-to-12-mini-reflections-on-how-little-has-changed.2280850/)
+
+
+> My trusted iPhone 6S stopped working during the weekend and all of sudden I had no other option but to buy a new phone. I liked the old form factor, and settled on the 12 mini. I assume many people on this forum are updating the phones much more often, so I thought to write a few lines on what if feels like to fast-forward five years in the world of mobile phones. My gut feeling is that the development has been surprisingly incremental. Feels like much smaller change than my last switch from iPhone 5 to 6s.
+
+
+***
+![Hacked Off report identifies 55 fake news stories about Covid-19 published in National Newspapers in 2020. IPSO failed to uphold a complaint on any of the stories included in the report.](https://external-preview.redd.it/MYB3bN4JH1VHS89RPZ3LBF_az2X7EqsHdKyKCKPwlrM.jpg?auto=webp&s=051dda0307b29a441f779503dd62d03f6212e91f "Hacked Off report identifies 55 fake news stories about Covid-19 published in National Newspapers in 2020. IPSO failed to uphold a complaint on any of the stories included in the report.")
+
+
+[Hacked Off report identifies 55 fake news stories about Covid-19 published in National Newspapers in 2020. IPSO failed to uphold a complaint on any of the stories included in the report.](https://www.reddit.com/r/technology/comments/kzz3ve/hacked_off_report_identifies_55_fake_news_stories/)
+
+
+> Hacked Off report identifies 55 fake news stories about Covid-19 published in National Newspapers in 2020. IPSO failed to uphold a complaint on any of the stories included in the report.
+
+
