@@ -8956,3 +8956,53 @@
 > BL Research BureauThe rupee (INR) settled higher by 18 paise last week as it ended at 73.06 versus preceding week's close of 73.24 against the dollar (USD). However, the local currency seems to have opened with a considerable gap-down today, erasing last week's gain. That is, INR has opened at 73.23 and it is currently testing the key level of 73.25.A break below this level can drag the local currency towards the support band of 73.40 and 73.50. A breach of these levels can intensify the sell-off and take the exchange rate to 73.
 
 
+***
+![#TECH: Towards safer highways](https://assets.nst.com.my/images/articles/180121BOTSpg22_1a_NSTfield_image_socialmedia.var_1610954319.jpg "#TECH: Towards safer highways")
+
+
+[#TECH: Towards safer highways](https://www.nst.com.my/lifestyle/bots/2021/01/658354/tech-towards-safer-highways)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![WhatsApp Delays Enforcement Of Updated Privacy Policy To 15th May Amid Severe Backlash](https://sm.mashable.com/t/mashable_in/image/w/whatsapp-i/whatsapp-is-making-viral-content-less-viral-to-fight-coronav_brap.1200.jpg "WhatsApp Delays Enforcement Of Updated Privacy Policy To 15th May Amid Severe Backlash")
+
+
+[WhatsApp Delays Enforcement Of Updated Privacy Policy To 15th May Amid Severe Backlash](https://in.mashable.com/tech/19602/whatsapp-delays-enforcement-of-updated-privacy-policy-to-15th-may-amid-severe-backlash)
+
+
+> WhatsApp has decided to delay the deployment of its privacy terms by three months, following backlash from users, many of whom have been moving to alternate messaging apps due to security concerns. As it stands, the new data-sharing policy won't be enforced until 15th May, so people can "review the policy at their own pace before new business options are available." Earlier this month, WhatsApp informed its users by way of in-app alerts to agree to new terms of condition, which granted the app the consent to share some personal information with Facebook.
+
+
+***
+![Flipkart doubles down on rewards program, partners with 5,000 retail outlets in India – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/07/flipkart_techcrunch.jpg?w=594 "Flipkart doubles down on rewards program, partners with 5,000 retail outlets in India – TechCrunch")
+
+
+[Flipkart doubles down on rewards program, partners with 5,000 retail outlets in India – TechCrunch](https://techcrunch.com/2021/01/17/flipkart-supercoin-pay-loyalty-rewards-program-india-amazon/)
+
+
+> Flipkart on Monday launched SuperCoin Pay that its customers will be able to use across thousands of retail stores across the country as Walmart-owned e-commerce giant bets on its loyalty program to win and sustain its user base in the world's second largest internet market. The Bangalore-headquartered e-commerce giant said it had partnered with over 5,000 retail outlets including TimesPoints, Peter England, Cafe Coffee Day and Flying Machine across India to give its customers a 'greater value and choice' to cash in on their Flipkart loyalty program, called SuperCoin Rewards.
+
+
+***
+![Contribute your Code to our Project](https://external-preview.redd.it/N21PJoJBLVyQfdYX0P1CVVhz1jU74OPdU4RaXuiCyEM.jpg?auto=webp&s=f005c5ea8f4efea1b64d55ad1c03739785c1bf59 "Contribute your Code to our Project")
+
+
+[Contribute your Code to our Project](https://www.reddit.com/r/Python/comments/kzphp7/contribute_your_code_to_our_project/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Intelsat chairman being sued for alleged insider trading in shareholder lawsuit](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/mcglade-cropped-845p.jpg?ve=1&tl=1 "Intelsat chairman being sued for alleged insider trading in shareholder lawsuit")
+
+
+[Intelsat chairman being sued for alleged insider trading in shareholder lawsuit](https://nypost.com/2021/01/17/intelsat-chairman-david-mcglade-faces-insider-trading-suit/)
+
+
+> The chairman of satellite operator Intelsat is being sued for insider trading in an explosive new shareholder lawsuit that also dings private-equity giants BC Partners and Silver Lake Partners, a New York Knicks shareholder. Ticker Security Last Change Change % INTEQ INTELSAT S.A. 0.72 +0.12 +20.00% The Oakland, Calif., federal court lawsuit claims that David McGlade, Intelsat's chairman and former CEO, sold stock in the satellite operator on Nov. 5, 2019 — mere hours after the company's CEO learned that the Federal Communications Commission was leaning against a proposal that would have earned the company billions.
+
+
