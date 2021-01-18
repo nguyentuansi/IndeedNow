@@ -9203,3 +9203,53 @@
 > Finding the best headphones to suit your style and listening habits can be difficult – especially when there are so many different models to choose from.The best headphones include range from true wireless earbuds that cut the cord completely to immersive noise-cancelling headphones that block out the world – and everything in between.What all the best headphones of 2021 have in common, is that they deliver on comfort, great-looking design, top audio fidelity, and a range of fantastic features, including built-in voice assistants and wireless connectivity.
 
 
+***
+![Infographic: The future of phone design](https://imagevars.gulfnews.com/2021/01/18/20210118-lg-rollable_1771511bea4_medium.jpg "Infographic: The future of phone design")
+
+
+[Infographic: The future of phone design](https://gulfnews.com/technology/infographic-the-future-of-phone-design-1.1610966245317)
+
+
+> Latest News UAE Living In UAE Gulf Your Money Saving and Investment Budget Living Taxation Expert Columns Community Tips Business World Opinion Editorials Op-Eds Letters Off the Cuff Cartoons From the Editors Sport Entertainment Going Out Photos News Entertainment Readers' Photos Lifestyle Business Sports Parenting Pregnancy & Baby Learning & Play Child Health For Mums & Dads Ask Us Auto News Test Drives Car Culture Auto Care Lifestyle GN Reach Jobs Tech Electronics Gaming Trends Fin-Tech Media
+
+
+***
+![Github apologises for firing Jewish employee who warned about 'Nazis'](https://ichef.bbci.co.uk/news/1024/branded_news/16720/production/_116563919_gettyimages-1211647318.jpg "Github apologises for firing Jewish employee who warned about 'Nazis'")
+
+
+[Github apologises for firing Jewish employee who warned about 'Nazis'](https://www.bbc.com/news/technology-55704932)
+
+
+> image copyright Getty Images Software giant Github has apologised for firing a Jewish employee who warned co-workers to be careful about Nazis. The employee was fired two days after using the word to describe participants in the US Capitol riots. But Github now says that decision was a mistake, and its head of HR has resigned over the scandal. The company says it has offered the fired employee his job back, and clarified that "employees are free to express concerns about Nazis". News of the internal row at Microsoft-owned Github was first reported by Business Insider.
+
+
+***
+![EXCLUSIVE: Users ditching WhatsApp shows Indians care about privacy, says Signal's Brian Acton](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/brn_0-483x271_1200_210118160620.png "EXCLUSIVE: Users ditching WhatsApp shows Indians care about privacy, says Signal's Brian Acton")
+
+
+[EXCLUSIVE: Users ditching WhatsApp shows Indians care about privacy, says Signal's Brian Acton](https://www.indiatoday.in/technology/features/story/exclusive-users-ditching-whatsapp-shows-indians-care-about-privacy-says-signal-s-brian-acton-1760231-2021-01-18)
+
+
+> In an exclusive interview with India Today Tech, Signal's Brian Acton talks about platform's rise in the last few days, Indian users' reaction to WhatsApp's updated policy and plans for future. Manas Tiwari | January 18, 2021 | Updated 15:58 IST Acton said that it is great to see Indian users taking such a strong stand in favor of data privacy.
+
+
+***
+![Airtel XStream and JioFiber Rs 999, Rs 1499, Rs 3999 broadband plans compared](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/img_20210118_152237-483x271_1200_210118154420.jpeg "Airtel XStream and JioFiber Rs 999, Rs 1499, Rs 3999 broadband plans compared")
+
+
+[Airtel XStream and JioFiber Rs 999, Rs 1499, Rs 3999 broadband plans compared](https://www.indiatoday.in/technology/news/story/airtel-xstream-and-jiofiber-rs-999-rs-1499-rs-3999-broadband-plans-compared-1760223-2021-01-18)
+
+
+> Airtel XStream and JioFiber offer a range of broadband plans that offer unlimited data, voice calls and OTT benefits. Some of the most popular plans by these plans are priced at Rs 999, Rs 1499, Rs 3999. Yasmin Ahmed | January 18, 2021 | Updated 15:31 IST
+
+
+***
+![Amazon, Flipkart Republic Day sale: Here are top deals on cameras](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/canon_eos_m50_mark_ii_camera_g-483x271_1200_210118150650.jpeg "Amazon, Flipkart Republic Day sale: Here are top deals on cameras")
+
+
+[Amazon, Flipkart Republic Day sale: Here are top deals on cameras](https://www.indiatoday.in/technology/news/story/amazon-flipkart-republic-day-sale-here-are-top-deals-on-cameras-1760190-2021-01-18)
+
+
+> In India, Amazon and Flipkart have announced their first sales of 2021. Users will be able to grab heavy discounts on camerasincluding Sony ZV-1, Canon EOS 1500, GoPro Hero 9 Black and more. Pavni Jain | January 18, 2021 | Updated 14:41 IST Canon M50 Mark II Official Image
+
+
