@@ -9534,3 +9534,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Speck Has Four Flagship-Worthy Cases For Your Galaxy S21 Series Phone](https://www.androidheadlines.com/wp-content/uploads/2021/01/family_press_images_Galaxy-S21-series-Speck-cases.jpg "Speck Has Four Flagship-Worthy Cases For Your Galaxy S21 Series Phone")
+
+
+[Speck Has Four Flagship-Worthy Cases For Your Galaxy S21 Series Phone](https://www.androidheadlines.com/2021/01/speck-has-four-flagship-worthy-cases-for-your-galaxy-s21-series-phone.html)
+
+
+> Speck has officially launched its Samsung Galaxy S21 series cases, including cases for the Galaxy S21, S21+, S21 Ultra 5G. In fact, the company has no fewer than four new cases for each device. And not only is each case protected with Microban Antimicrobial protection. Each also offers up to 13-feet of drop protection.The new cases from Speck are also priced identically across the Samsung Galaxy S21 lineup. So there won't be unexpected price changes depending on the phone.So where do these cases differ?Despite that each case has the same basic protective features, there are a few differences between them.
+
+
+***
+![A Developer's Adventures of Code](https://external-preview.redd.it/i-gGBNNNe1QWN699BXcN80F4PIsSeC9L7zuDgJ-oxQE.jpg?auto=webp&s=c1cf7a551d199b27dcc2e2fc8fc094e8cc378a0a "A Developer's Adventures of Code")
+
+
+[A Developer's Adventures of Code](https://www.reddit.com/r/programming/comments/l01faf/a_developers_adventures_of_code/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Data Center Construction Market 2020-2024- ABB Ltd., AECOM, Ove Arup &amp; Partners International Ltd., Among Others to Contribute to the Market Growth](https://mms.businesswire.com/media/20210118005497/en/852848/23/IRTNTR43658.jpg "Data Center Construction Market 2020-2024- ABB Ltd., AECOM, Ove Arup &amp; Partners International Ltd., Among Others to Contribute to the Market Growth")
+
+
+[Data Center Construction Market 2020-2024- ABB Ltd., AECOM, Ove Arup &amp; Partners International Ltd., Among Others to Contribute to the Market Growth](https://www.businesswire.com/news/home/20210118005497/en/Data-Center-Construction-Market-2020-2024--ABB-Ltd.-AECOM-Ove-Arup-Partners-International-Ltd.-Among-Others-to-Contribute-to-the-Market-Growth)
+
+
+> January 18, 2021 02:11 PM Eastern Standard Time LONDON--(BUSINESS WIRE)--The data center construction market is poised to grow by USD 31.70 bn during 2020-2024 progressing at a CAGR of over 10% during the forecast period. Worried about the impact of COVID-19 on your Business? Here is an Exclusive report talking about Market scenarios, Estimates, the impact of lockdown, and Customer Behaviour. Get FREE Sample Report in Minutes! The report on the data center construction market provides a holistic update, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis.
+
+
+***
+![Documented case of a cosmic bit flip](https://external-preview.redd.it/U0WCcEbVoE9ScDc89U-7EEijN6INpwKua41lTRLXIwI.jpg?auto=webp&s=482ea4cbdfe94867f2e8abca565ce1a8e645a658 "Documented case of a cosmic bit flip")
+
+
+[Documented case of a cosmic bit flip](https://www.reddit.com/r/programming/comments/l01bpy/documented_case_of_a_cosmic_bit_flip/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+!['Stillwater' reminds us to stop, listen, and be mindful in new promo video](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/09/091720_new_series_doug_unplugs_stillwater_big_image_02.jpg "'Stillwater' reminds us to stop, listen, and be mindful in new promo video")
+
+
+['Stillwater' reminds us to stop, listen, and be mindful in new promo video](https://www.imore.com/stillwater-reminds-us-stop-listen-and-be-mindful-new-promo-video)
+
+
+> We may earn a commission for purchases using our links. Learn more. Still You'll be in a better mood by the time you finish watching. 18 Jan 2021 Source: Apple TV+ A new Stillwater video reminds us all to be mindful by listening to the world around us. A new promo for Apple TV+ show Stillwater has us all stopping and listening, reminding us to be mindful of our surroundings. Carrying on with the overall theme of the show, this video tries to remind us all that sometimes it's easy to forget the world around us and that sometimes we should pay more attention.
+
+
