@@ -9253,3 +9253,53 @@
 > In India, Amazon and Flipkart have announced their first sales of 2021. Users will be able to grab heavy discounts on camerasincluding Sony ZV-1, Canon EOS 1500, GoPro Hero 9 Black and more. Pavni Jain | January 18, 2021 | Updated 14:41 IST Canon M50 Mark II Official Image
 
 
+***
+![Shallow Copy Operator](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Shallow Copy Operator")
+
+
+[Shallow Copy Operator](https://www.reddit.com/r/Python/comments/kzuhck/shallow_copy_operator/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Ambrane launches NeoBuds 11 and NeoBuds 22 TWS earbuds in India](https://cdn.mos.cms.futurecdn.net/ofk8t98G6LiiWj7wsvLasF-1200-80.jpg "Ambrane launches NeoBuds 11 and NeoBuds 22 TWS earbuds in India")
+
+
+[Ambrane launches NeoBuds 11 and NeoBuds 22 TWS earbuds in India](https://www.techradar.com/news/ambrane-launches-neobuds-11-and-neobuds-22-tws-earbuds-in-india)
+
+
+> (Image credit: Ambrane) Ambrane has just announced two new TWS earbuds, the NeoBuds 11 and NeoBuds 22. These new earbuds are priced at Rs 2,499, and can be purchased from the brands' official website alongside other retail stores across India. The products come with 365 days warranty. This comes after Ambrane introduced a set to three new power accessories last year. The company expanded its wireless charging portfolio with a new Qi-enabled wireless charger that included the Ambrane WC-38, Ambrane ACP-11, ACP-29, Ambrane 3A smart cable.
+
+
+***
+![Google to give $3m in grants to fight covid-19 vaccine misinformation](https://sm.mashable.com/t/mashable_pk/photo/default/sss_rqem.1200.jpg "Google to give $3m in grants to fight covid-19 vaccine misinformation")
+
+
+[Google to give $3m in grants to fight covid-19 vaccine misinformation](https://pk.mashable.com/tech/7149/google-to-give-3m-in-grants-to-fight-covid-19-vaccine-misinformation)
+
+
+> In an attempt to curb the spread of misinformation about corona vaccine, Google is launching a covid-19 Vaccine Counter-Misinformation Open Fund worth up to $3 million to support journalistic efforts to effectively fact-check misinformation about the coronavirus immunization process. The search giant will be granting the funds through its ongoing Google News Initiative, which has also given money to fund various newsroom diversity projects and fact-checking nonprofits over the last year. The news and information credibility lead from Google, Alexios Mantzarlis said, 'The uncertainty and developing nature of the coronavirus pandemic continues to generate related misinformation'.
+
+
+***
+![The Book of Boba Fett: release date, cast, trailer and everything we know](https://cdn.mos.cms.futurecdn.net/ijbizd9itJNnqJibBhRcQe-1200-80.jpg "The Book of Boba Fett: release date, cast, trailer and everything we know")
+
+
+[The Book of Boba Fett: release date, cast, trailer and everything we know](https://www.techradar.com/news/the-book-of-boba-fett-release-date-cast-trailer-and-everything-we-know)
+
+
+> The Book of Boba Fett is the show that many Star Wars fans have been waiting for.The return of Luke Skywalker was a massive deal, sure, but The Mandalorian season 2 finale saved its biggest surprise for the post-credits. As the twin suns of Tatooine shone over Jabba the Hutt's iconic palace, we watched as legendary bounty hunter Boba Fett and his new associate Fennec Shand executed Jabba's former maître'd Bib Fortuna – and took control of what was once Jabba's criminal empire.Then came the title cards: 'THE BOOK OF BOBA FETT: Coming December 2021'.
+
+
+***
+![The 5 biggest issues for technology companies in 2021](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/07/0/0/AP19203511928577.jpg?ve=1&tl=1 "The 5 biggest issues for technology companies in 2021")
+
+
+[The 5 biggest issues for technology companies in 2021](https://www.wsj.com/articles/the-five-biggest-issues-for-technology-companies-in-2021-11610816401)
+
+
+> After a year of startling growth, the tech industry faces a more vexing 2021. The pandemic helped bring the world's tech giants such as Amazon.com Inc. and Microsoft Corp. to new heights in 2020. The shift to online shopping and remote working accelerated at a pace that would have been inconceivable without the coronavirus. But there are signs the good times may end soon. Late last year, governments in the U.S., China and Europe separately began investigating whether Big Tech is too big. The scrutiny in Washington is expected to continue under a Biden administration, which also appears inclined to continue the Trump administration's export restrictions against Chinese companies that are reshuffling global supply chains.
+
+
