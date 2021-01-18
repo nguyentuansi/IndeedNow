@@ -8862,3 +8862,53 @@
 > Let's set the scene. You've found the perfect spot to game for a few moments. Everything is set up—your laptop is ready to go, mouse in place, and then you pull out a pair of ratty headphones that only just provide enough sound for you […] Visit Man of Many for the full post.
 
 
+***
+![Live Updates: Left-wing activist charged in Capitol riot still active on Twitter, despite Trump ban](https://static.foxnews.com/foxnews.com/content/uploads/2021/01/274d6aec-AP21006810167876.jpg "Live Updates: Left-wing activist charged in Capitol riot still active on Twitter, despite Trump ban")
+
+
+[Live Updates: Left-wing activist charged in Capitol riot still active on Twitter, despite Trump ban](https://www.foxnews.com/tech/live-updates-big-tech-1-18-2021)
+
+
+> A left-wing activist charged for his alleged participation in the Capitol Hill riot maintains control of his Twitter and YouTube accounts, Fox News has learned. John Sullivan, 26, recorded an up-close video of a woman's fatal shooting during the Jan. 6 Capitol siege and can allegedly be heard egging on protesters in a video he shared on his YouTube and Twitter accounts under the pseudonym Jayden X. Sullivan is accused of taking part and encouraging rioters as they swept through the building.  He allegedly wore a gas mask and had a knife at the time of the siege, court papers show.
+
+
+***
+![China's Kuaishou to open books for $5 billion Hong Kong IPO next week](https://i-invdn-com.akamaized.net/news/LYNXNPEC2F0DH_L.jpg "China's Kuaishou to open books for $5 billion Hong Kong IPO next week")
+
+
+[China's Kuaishou to open books for $5 billion Hong Kong IPO next week](https://www.investing.com/news/technology-news/chinas-kuaishou-to-open-books-for-5-billion-hong-kong-ipo-next-week--sources-2391581)
+
+
+> © Reuters. HONG KONG (Reuters) - Chinese online short video company Kuaishou will open the books for its Hong Kong initial public offering to raise at least $5 billion next Monday in the city's biggest float in more than a year, according to sources with direct knowledge of the matter. Analysts from the investment banks working on the deal started briefing potential investors on Monday as part of the pre-marketing roadshow, the people said, declining to be named as the information is not public yet.
+
+
+***
+![Step up your spreadsheet game with this set of interactive Excel courses](https://mondrian.mashable.com/2021%252F01%252F18%252Ffe%252F33ee6f9f54d24acea2566a88a8dbe78b.2c9d9.jpg%252F1200x630.jpg?signature=J4Zf9d1tqQYuf-X8h-2gfUFmfO0= "Step up your spreadsheet game with this set of interactive Excel courses")
+
+
+[Step up your spreadsheet game with this set of interactive Excel courses](https://mashable.com/uk/shopping/jan-18-excel-course-bundle/)
+
+
+> TL;DR: The Complete Excel Pro Tips Certification Bundle is on sale for £13.92 as of Jan. 18, saving you 93% on list price. Love them or loathe them, spreadsheets are inescapable in practically every single industry. So, there's virtually no way to avoid the number-crunching powerhouse that is Microsoft Excel. Sorry.  Excel has been the leader in spreadsheet software for decades. Yet, despite its necessity, most people don't bother going deeper than the surface. But now, you can step out of the majority and learn how powerful and complex this software really is with the help of this Complete Excel Pro Tips Certification Bundle, which is on sale for just £13.
+
+
+***
+![Become a high-earning web developer with this online bundle](https://mondrian.mashable.com/2021%252F01%252F18%252F03%252Fd495806d473b41f1bbf56a0ecbf953fb.620a2.jpg%252F1200x630.jpg?signature=M-YBVafwwp_srat5GDJJg38EDA0= "Become a high-earning web developer with this online bundle")
+
+
+[Become a high-earning web developer with this online bundle](https://mashable.com/uk/shopping/jan-18-learn-to-code-certification-bundle-sale/)
+
+
+> TL;DR: The 2021 Learn to Code Full Stack Developer Certification Bundle is on sale for £28.57 as of Jan. 18, saving you 97% on list price. The number of developers around the world has grown from 21.25 million in 2017 to about 26 million. Those numbers are pretty impressive and may make it seem like everyone but you know how to code. But alas, it is but a measly 0.003% of the world's population. That means you still have time to get ahead of the curve – and this Full Stack Developer Bundle is an excellent way to do so.
+
+
+***
+![US Said to Be Cutting Off Supplies to Huawei From Intel, Other Firms](https://i.gadgets360cdn.com/large/huawei_reuters_1583204426338.JPG "US Said to Be Cutting Off Supplies to Huawei From Intel, Other Firms")
+
+
+[US Said to Be Cutting Off Supplies to Huawei From Intel, Other Firms](https://gadgets.ndtv.com/telecom/news/huawei-ban-us-blacklist-intel-shipment-license-revoked-donald-trump-2354013)
+
+
+> The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm, people familiar with the matter told Reuters.The action - likely the last against Huawei under Republican President Donald Trump - is the latest in a long-running effort to weaken the world's largest telecommunications equipment maker, which Washington sees as a national security threat.
+
+
