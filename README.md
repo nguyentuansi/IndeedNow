@@ -9390,3 +9390,50 @@
 > Parler, the social media website popular with Donald Trump supporters which was banned on Apple, Google, and Amazon's platforms, has returned online. While the social media site has not regained full operability, there are now two messages at its URL.  'Now seems like the right time to remind you all — both lovers and haters — why we started this platform. We believe privacy is paramount and free speech essential, especially on social media. Our aim has always been to provide a nonpartisan public square where individuals can enjoy and exercise their rights to both', a statement on Parler's website reads.
 
 
+***
+![Chip-shortage 'crisis' halts car-company output](https://ichef.bbci.co.uk/news/1024/branded_news/E976/production/_116566795_gettyimages-1192087551.jpg "Chip-shortage 'crisis' halts car-company output")
+
+
+[Chip-shortage 'crisis' halts car-company output](https://www.bbc.com/news/technology-55704936)
+
+
+> image copyright Getty Images image caption Audi factories, like others, will make thousands fewer cars at the start of this year Audi is having to slow production because of a computer-chip shortage it is calling a "crisis upon a crisis". Boss Markus Duesmann said it was now aiming to make 10,000 fewer cars in the first quarter of the year and putting more than 10,000 workers on furlough. Its parent company, Volkswagen, announced its own go-slow due to a lack of chips last week, alongside rivals such as Honda.
+
+
+***
+![Watch Virgin Orbit launch a rocket to space from a modified 747 for the first time – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/LD2-Ignition-2.jpg?w=640 "Watch Virgin Orbit launch a rocket to space from a modified 747 for the first time – TechCrunch")
+
+
+[Watch Virgin Orbit launch a rocket to space from a modified 747 for the first time – TechCrunch](https://techcrunch.com/2021/01/18/watch-virgin-orbit-launch-a-rocket-to-space-from-a-modified-747-for-the-first-time/)
+
+
+> Virgin Orbit scored a major success on Sunday, with a test flight that not only achieved its goals of reaching space and orbit, but also of delivering payloads on board for NASA , marking its first commercial mission, too. The launch was a success in every possible regard, which puts Virgin Orbit on track to becoming an active launch provider for small payloads for both commercial and defense customers. Today's sequence of events for #LaunchDemo2 went exactly to plan, from safe execution of our ground ops all the way through successful full duration burns on both engines.
+
+
+***
+![Classes in python](https://external-preview.redd.it/jdGzz5-CvAm6Sg0kvZ-G1LG8gyFJef7ZkMCtwxntq4U.jpg?auto=webp&s=6b98506a4f6ebadce86e89273f6fd1d5ea147ab9 "Classes in python")
+
+
+[Classes in python](https://www.reddit.com/r/Python/comments/kzx582/classes_in_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![mce Appoints Meir Shafran as General Manager of mce North America Operations](https://mms.businesswire.com/media/20210118005394/en/852794/23/DSC_0042HighRes.jpg "mce Appoints Meir Shafran as General Manager of mce North America Operations")
+
+
+[mce Appoints Meir Shafran as General Manager of mce North America Operations](https://www.businesswire.com/news/home/20210118005394/en/mce-Appoints-Meir-Shafran%C2%A0as-General-Manager-of-mce-North-America-Operations)
+
+
+> January 18, 2021 10:48 AM Eastern Standard Time TEL AVIV, Israel--(BUSINESS WIRE)--mce Systems Ltd. ('mce' or the 'Company') the global leader in Mobile Device Lifecycle Management solutions announces today it has appointed Mr. Meir Shafran to undertake the position of General Manager responsible for all North American operations. Mr. Shafran has been 9 years with mce responsible initially for global customer service and possess deep technical knowledge of the mce advanced technological solutions for operator digital transformation.
+
+
+***
+[Tinier JS](https://www.reddit.com/r/programming/comments/kzx3te/tinier_js_a_collection_of_tricks_to_help_you_code/)
+
+
+> submitted by /u/EliteDaMyth [link] [comments]
+
+
