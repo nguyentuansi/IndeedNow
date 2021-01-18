@@ -9769,3 +9769,53 @@
 > Telegram's star is on the rise, but as the secure messaging app used by protest organizers, political dissidents, revenge porn seekers, and white supremacists alike gets even more popular, reaching more than 500 million active users worldwide in recent days, it faces wider scrutiny.  Those irked by Telegram's limited content moderation in the past — researchers have nicknamed it "Terrorgram" due to a glut of Nazi extremists — have been complaining into the internet void for years, but a lawsuit filed Sunday adds a new spotlight to the controversy and a unique twist.
 
 
+***
+![Validate Location on Subreply](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Validate Location on Subreply")
+
+
+[Validate Location on Subreply](https://www.reddit.com/r/Python/comments/l068zu/validate_location_on_subreply/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Galaxy S21 Cases From Mous Bring Modular Add-Ons & Protection](https://www.androidheadlines.com/wp-content/uploads/2021/01/Mous-cases-S21-pressers.jpg "Galaxy S21 Cases From Mous Bring Modular Add-Ons & Protection")
+
+
+[Galaxy S21 Cases From Mous Bring Modular Add-Ons & Protection](https://www.androidheadlines.com/2021/01/mous-cases-samsung-galaxy-s21-plus-ultra.html)
+
+
+> Samsung's new Galaxy S21 series is here and Mous is looking to help users get the most of their new handset via new cases that feature modular add-ons and device protection all in one. In fact, the company has introduced two stylish new cases to go with the series. Namely, those are the Limitless 3.0 and Clarity Lite.Mous Limitless 3.0 cases give your new Galaxy S21 series phone extra accessoriesThe first of the new Mous cases is the Limitless 3.0 for Samsung Galaxy S21, Galaxy S21+, and Galaxy S21 Ultra.
+
+
+***
+![Is Samsung really considering bringing its Exynos chipsets to computers?](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155396-homepage-news-samsung-to-bring-its-exynos-chipsets-to-computers-in-the-future-according-to-tipster-image1-mudgi7hvaz.jpg "Is Samsung really considering bringing its Exynos chipsets to computers?")
+
+
+[Is Samsung really considering bringing its Exynos chipsets to computers?](https://www.pocket-lint.com/laptops/news/samsung/155396-is-samsung-really-considering-bringing-its-exynos-chipsets-to-computers)
+
+
+> (Pocket-lint) - Following in Apple's footsteps, which recently launched the ARM-based Apple Silicon M1 chip for Macs, Samsung is reportedly considering bringing Exynos to PCs. Exynos is a series of ARM-based system-on-chips manufactured by Samsung.Samsung's silicon is found in its own phones as well as others, but it looks like the company might explore using them in other devices like computers. Perhaps the first PCs to feature Exynos chips might even arrive soon. Leaker @TheGalox teased on Twitter: "Exynos for computers .
+
+
+***
+![54 best TV shows to stream on Netflix](https://cnet2.cbsistatic.com/img/0cQmRTkIEo-l2bSvaef973oS6KM=/0x0:3600x2023/1200x630/2021/01/05/5d18c430-a437-413d-91f8-57dfa2955409/bridgerton-102-unit-02956r.jpg "54 best TV shows to stream on Netflix")
+
+
+[54 best TV shows to stream on Netflix](https://www.cnet.com/news/54-best-tv-shows-to-stream-on-netflix/)
+
+
+> Phoebe Dynevor in Bridgerton. Netflix If you're searching for good TV to spend a lot of time with on Netflix, welcome to another list of best shows you might have missed. Netflix periodically changes up its line-up of programs, but its excellent originals stick around. Hopefully you'll find a hidden gem or two here to keep you entertained at home.Read more: The Queen's Gambit: That ending explained and all your questions answered Netflix Bridgerton is practically a show designed to be addictive. Known as Jane Austen but with sex, the period piece has a tad more going for it: With lavish production design and colorful costumes, this is Regency London like you've rarely seen it.
+
+
+***
+![35 of the best movies to stream on Netflix](https://cnet1.cbsistatic.com/img/ruG5mra6KjPADRJj8ADQrQaI0QE=/0x0:3695x2076/1200x630/2021/01/08/35460b3f-7cee-44c5-91a8-7fac6ba84368/pieces-of-a-woman-00-30-53-04.jpg "35 of the best movies to stream on Netflix")
+
+
+[35 of the best movies to stream on Netflix](https://www.cnet.com/news/35-of-the-best-movies-to-stream-on-netflix/)
+
+
+> Pieces of a Woman starring Vanessa Kirby (right). Netflix If you're stuck in the endless Netflix scroll, hopefully this list will help you decide what to watch. Occasionally Netflix brings in big directors to serve up originals that make it all the way to the Oscars. But it's also got an abundance of smaller stories perfect for a modestly sized screen. Fingers crossed you'll find something here that hits the spot.Read more: The 50 best TV shows to watch on Netflix Netflix Falling into the movies that make you cry category, Pieces of a Woman is an emotional well that'll steep you in melancholy.
+
+
