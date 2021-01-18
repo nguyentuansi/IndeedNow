@@ -9584,3 +9584,50 @@
 > We may earn a commission for purchases using our links. Learn more. Still You'll be in a better mood by the time you finish watching. 18 Jan 2021 Source: Apple TV+ A new Stillwater video reminds us all to be mindful by listening to the world around us. A new promo for Apple TV+ show Stillwater has us all stopping and listening, reminding us to be mindful of our surroundings. Carrying on with the overall theme of the show, this video tries to remind us all that sometimes it's easy to forget the world around us and that sometimes we should pay more attention.
 
 
+***
+[Parler's website is back up, but the service is still unavailable](https://www.engadget.com/parler-website-back-201539015.html)
+
+
+> In an interview over the weekend, Matze told Fox News he was confident the platform would be back up 'by the end of the month.' That's a significant change from what the executive told Reuters earlier in the week. 'It could be never,' he said when asked about a timeline.  Parler is back up, and being hosted by "DDOS GUARD" out of Russia. If that's not an obvious sign of its malfeasance, there's nothing else that could possibly be shown to convince you. pic.twitter.com/FkScxQdCoK— Dave Temkin (@dtemkin) January 18, 2021 Per CNN, Parler's domain is currently registered with Epik, a DNS provider known for offering a safe haven to websites like 8chan and The Daily Stormer in the past.
+
+
+***
+![Epik: The domain registrar keeping extremist websites online](https://www.telegraph.co.uk/content/dam/technology/2021/01/18/TELEMMGLPICT000248585224_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Epik: The domain registrar keeping extremist websites online")
+
+
+[Epik: The domain registrar keeping extremist websites online](https://www.telegraph.co.uk/technology/2021/01/18/epik-domain-registrar-keeping-extremist-websites-online/)
+
+
+> A former Pampers nappy executive has transformed his small web hosting company into a safe harbour for websites said to be enabling the spread far-right extremism and carrying Neo-Nazi content.  Rob Monster has become a key figure in the far-right's battle to stay online, in spite of de-platformings by key companies controlling the internet's underlying infrastructure.  Monster's domain registrar and web hosting company Epik, which describes itself as "the Swiss Bank of Domains", has helped resurrect a series of sites tied to far-right extremism after they were ostracised by mainstream providers such as Amazon or GoDaddy.
+
+
+***
+![Huge problem spotted with new phone](https://content.api.news/v3/images/bin/99952a06503cc4fe417c81d1e0a26134 "Huge problem spotted with new phone")
+
+
+[Huge problem spotted with new phone](https://www.news.com.au/technology/gadgets/mobile-phones/leaked-photos-of-new-xiaomi-foldable-smartphone-show-big-crease/news-story/f4f2f5325eaa7322cfe420310796c2a8)
+
+
+> Leaked photos show a new Xiaomi smartphone prototype with the latest technology. But people quickly noticed there's a big problem.Chinese technology powerhouse Xiaomi is apparently working on a new foldable phone to rival Samsung's Galaxy Z Fold 2.Images published on Chinese social media platform Weibo show a person using a foldable Xiaomi device on a train.The images have since been deleted but were published online by MyFixGuide.Xiaomi's ambitious plans to enter into the lucrative foldable phone market were boosted by the fact the phone is running MIUI 12.
+
+
+***
+![Coronavirus vaccine passports aren't available yet, but could be an investment for the future](https://static-entertainment-eus-s-msn-com.akamaized.net/sc/c6/519670.jpg "Coronavirus vaccine passports aren't available yet, but could be an investment for the future")
+
+
+[Coronavirus vaccine passports aren't available yet, but could be an investment for the future](https://www.cnbc.com/2021/01/18/covid-19-vaccine-passports-are-an-investment-for-the-future-not-now.html)
+
+
+> A number of start-ups and major tech companies like Microsoft, Apple, and Google are working on vaccine or immunization passports to help reopen the economy. WHO set up a working group to establish global standards for digital vaccination certificates. Public health officials are weary, warning the apps are pointless without more knowledge about the efficacy of the vaccines. Global scientists have reiterated the importance of herd immunity before the economy can fully reopen, but a number of start-ups and major tech companies are looking to speed up the return to normalcy.
+
+
+***
+![Cryptocat author gets insanely fast backing to build p2p tech for social media – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-645261630.jpg?w=461 "Cryptocat author gets insanely fast backing to build p2p tech for social media – TechCrunch")
+
+
+[Cryptocat author gets insanely fast backing to build p2p tech for social media – TechCrunch](https://techcrunch.com/2021/01/18/cryptocat-author-gets-insanely-fast-backing-to-build-p2p-tech-for-social-media/)
+
+
+> The idea for Capsule started with a tweet about reinventing social media. A day later cryptography researcher, Nadim Kobeissi — best known for authoring the open source e2e encrypted desktop chat app Cryptocat (now discontinued) — had pulled in a pre-seed investment of $100,000 for his lightweight mesh-networked microservices concept, with support coming from angel investor and former Coinbase CTO Balaji Srinivasan, William J. Pulte and Wamda Capital. I'm designing a decentralized social media solution where each user hosts their own microservice.
+
+
