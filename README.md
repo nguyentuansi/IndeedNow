@@ -8727,3 +8727,47 @@
 > BRITAIN'S first bid to track down ET will ­listen for sounds from alien industry or mining. Other signs such as noises from spacecraft will also be searched for by a super-long distance radar. Current equipment in the SETI programme (search for extraterrestrial intelligence) is mostly US-based and designed to detect radio transmissions. The multi-million pound […]
 
 
+***
+![Apple rollable iPhone I want it now!!!](https://images.macrumors.com/social/?t=2280775&v=6 "Apple rollable iPhone I want it now!!!")
+
+
+[Apple rollable iPhone I want it now!!!](https://forums.macrumors.com/threads/apple-rollable-iphone-i-want-it-now.2280775/)
+
+
+> Who else is waiting for apple to release a foldable of rollable iPhone? I'll be hanging onto my 12 pro max until apple enter the foldable/rollable market. The rollable concept looks amazing, hopefully apple take this route instead of Samsung ugly foldable phone that has a huge crease running down the middle of the phone.
+
+
+***
+![iTWire](https://www.itwire.com/media/k2/items/cache/0c64bf02cb938452384a29b32240b6f1_XS.jpg "iTWire")
+
+
+[iTWire](https://www.itwire.com/strategy/small-businesses-shift-quickly-to-digital-as-they-adapt-to-impact-of-covid-19.html)
+
+
+> Small businesses have been among the hardest hit by COVID-19 in Australia but new research on the impact on their operations shows SMEs nationwide have adapted swiftly to the challenges by embracing digital commerce. According to the Mastercard study of 806 Australian businesses about their experiences and banking needs during the pandemic, 52% accelerated their shift to ecommerce sales in response to COVID-19. Of these organisations, 44% did so within three days of exploring the option, while 68% were online within a week, and one in five businesses (20%) were able to make the change within just 24 hours.
+
+
+***
+![How to write Fault Tolerant Software / Joe Armstrong](https://external-preview.redd.it/p6A9RXr_m6tHN8H2yK1FQBDRzr6drDdUhCz8HtgpEGo.jpg?auto=webp&s=c557ab9aab94e92d76a4d3de7e81e34ab86c8d95 "How to write Fault Tolerant Software / Joe Armstrong")
+
+
+[How to write Fault Tolerant Software / Joe Armstrong](https://www.reddit.com/r/programming/comments/kzjqyj/how_to_write_fault_tolerant_software_joe_armstrong/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Sources: in a flurry of parting actions against China, Trump's admin has notified Huawei suppliers including Intel that it's revoking licenses to sell to Huawei (Reuters)](http://www.techmeme.com/210117/p13#a210117p13)
+
+
+> Reuters: Sources: in a flurry of parting actions against China, Trump's admin has notified Huawei suppliers including Intel that it's revoking licenses to sell to Huawei — NEW YORK/WASHINGTON (Reuters) - The Trump administration notified Huawei suppliers, including chipmaker Intel …
+
+
+***
+[NIS America hosting a Switch eShop sale](https://gonintendo.com/stories/375495-nis-america-hosting-a-switch-eshop-sale)
+
+
+> NIS America is running a Switch eShop sale right now, and there are multiple discounted games up for grabs. You have until Jan. 21st, 2021 to get the following offers. Disgaea 5 Complete – $19.99 (was $39.99) Giraffe and Annika – $19.99 (was $29.99) Kemono Heroes – $8.99 (was $14.99) La-Mulana – $8.99 (was $14.99) La-Mulana 2 – $14.99 (was $24.99) Mad Rat Dead – $29.99 (was $39.99) Prinny 2: Dawn of Operation Panties, Dood! – $14.99 (was $19.99) Prinny: Can I Really Be the Hero? – $14.99 (was $19.
+
+
