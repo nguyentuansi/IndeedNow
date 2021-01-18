@@ -8912,3 +8912,47 @@
 > The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm, people familiar with the matter told Reuters.The action - likely the last against Huawei under Republican President Donald Trump - is the latest in a long-running effort to weaken the world's largest telecommunications equipment maker, which Washington sees as a national security threat.
 
 
+***
+[Amazon Prime Video served summons over 'Tandav'](https://www.zeebiz.com/technology/apps/news-amazon-prime-video-served-summons-over-tandav-here-is-why-146244)
+
+
+> After the executives of social media giants Facebook and Twitter were served summons to appear before a parliamentary panel on January 21, now the Information and Broadcasting Ministry has summoned Amazon Prime Video officials in India too.
+
+
+***
+[SKorean court gives Samsung scion prison term over bribery](https://www.mymotherlode.com/news/technology/1486202/skorean-court-gives-samsung-scion-prison-term-over-bribery.html)
+
+
+> Billionaire Samsung scion Lee Jae-yong is heading back to prison after a South Korean court sentenced him to two and a half years over his involvement in a 2016 corruption scandal
+
+
+***
+![Samsung Galaxy M62 with an Exynos processor spotted on benchmarking site](https://cdn.mos.cms.futurecdn.net/dYzYAkmNeEx36iJX5KfELU-1200-80.jpg "Samsung Galaxy M62 with an Exynos processor spotted on benchmarking site")
+
+
+[Samsung Galaxy M62 with an Exynos processor spotted on benchmarking site](https://www.techradar.com/news/samsung-galaxy-m62-with-an-exynos-processor-spotted-on-benchmarking-site)
+
+
+> (Image credit: Jitendra Soni) Samsung's Galaxy M series is one of those mid-range series that has done exceedingly well in price-sensitive markets like India. The successor of Galaxy M51 has been in the news for some time already and like its predecessor is rumoured to come with specs rarely seen in this price band. The upcoming phone has been spotted on a benchmark listing not only giving us a sneak peek at the specifications but the benchmark scores also give us a general idea about the performance you can expect from Samsung's soon to be launched device.
+
+
+***
+![Saving Adobe Flash Epsiode #3](https://external-preview.redd.it/4tuWWbje_H2K2FAGHRx_wkVufcb0c4d0F-Q_m4jWEKE.jpg?auto=webp&s=28336285408b315adefe920daf482fc46868d530 "Saving Adobe Flash Epsiode #3")
+
+
+[Saving Adobe Flash Epsiode #3](https://www.reddit.com/r/programming/comments/kzohld/saving_adobe_flash_epsiode_3/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Rupee weak below 73.25](https://www.thehindubusinessline.com/todays-paper/tp-investmentworld/fy7uma/article28431933.ece/ALTERNATES/LANDSCAPE_615/PO15TechIndexG9565BI384jpgjpg "Rupee weak below 73.25")
+
+
+[Rupee weak below 73.25](https://www.thehindubusinessline.com/portfolio/technical-analysis/rupee-weak-below-7325/article33598241.ece)
+
+
+> BL Research BureauThe rupee (INR) settled higher by 18 paise last week as it ended at 73.06 versus preceding week's close of 73.24 against the dollar (USD). However, the local currency seems to have opened with a considerable gap-down today, erasing last week's gain. That is, INR has opened at 73.23 and it is currently testing the key level of 73.25.A break below this level can drag the local currency towards the support band of 73.40 and 73.50. A breach of these levels can intensify the sell-off and take the exchange rate to 73.
+
+
