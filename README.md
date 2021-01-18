@@ -8771,3 +8771,47 @@
 > NIS America is running a Switch eShop sale right now, and there are multiple discounted games up for grabs. You have until Jan. 21st, 2021 to get the following offers. Disgaea 5 Complete – $19.99 (was $39.99) Giraffe and Annika – $19.99 (was $29.99) Kemono Heroes – $8.99 (was $14.99) La-Mulana – $8.99 (was $14.99) La-Mulana 2 – $14.99 (was $24.99) Mad Rat Dead – $29.99 (was $39.99) Prinny 2: Dawn of Operation Panties, Dood! – $14.99 (was $19.99) Prinny: Can I Really Be the Hero? – $14.99 (was $19.
 
 
+***
+![Senseonics Holdings Announces $50.0 Million Registered Direct Offering of Common Stock](https://mms.businesswire.com/media/20210117005052/en/672068/23/SENS_logo.jpg "Senseonics Holdings Announces $50.0 Million Registered Direct Offering of Common Stock")
+
+
+[Senseonics Holdings Announces $50.0 Million Registered Direct Offering of Common Stock](https://www.businesswire.com/news/home/20210117005052/en/Senseonics-Holdings-Announces-50.0-Million-Registered-Direct-Offering-of-Common-Stock)
+
+
+> January 17, 2021 10:22 PM Eastern Standard Time GERMANTOWN, Md.--(BUSINESS WIRE)--Senseonics Holdings, Inc. (NYSE American: SENS), a medical technology company focused on the development and commercialization of long-term, implantable continuous glucose monitoring (CGM) systems for people with diabetes, today announced that it has entered into securities purchase agreements with several healthcare-focused and other institutional investors to purchase 40,000,000 shares of its common stock in a registered direct offering at a purchase price of $1.
+
+
+***
+![Trump admin slams China's Huawei, halting shipments from Intel, others: Sources](https://images.indianexpress.com/2021/01/huwawei.jpg "Trump admin slams China's Huawei, halting shipments from Intel, others: Sources")
+
+
+[Trump admin slams China's Huawei, halting shipments from Intel, others: Sources](https://indianexpress.com/article/technology/trump-admin-slams-chinas-huawei-halting-shipments-from-intel-7150773/)
+
+
+> The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm, people familiar with the matter told Reuters. The action – likely the last against Huawei Technologies under Republican President Donald Trump – is the latest in a long-running effort to weaken the world's largest telecommunications equipment maker, which Washington sees as a national security threat.
+
+
+***
+[研究：Apple Watch 可望用於檢測 COVID-19](https://ccc.technews.tw/2021/01/18/apple-watch-covid-19/)
+
+
+> 蘋果（Apple）所推出的 Apple Watch 近年來討論度不斷，因為用戶可藉由 Apple Watch […]
+
+
+***
+![Why "free speech" needs a new definition in the age of the internet and Trumpist tweets](https://external-preview.redd.it/xna_MUsfUktygj6T0ToMTHeZ71SnrR4DSKQPHpzh72Y.jpg?auto=webp&s=1117136d2cd561c752b726a7ed0b6d85432f4cf7 "Why "free speech" needs a new definition in the age of the internet and Trumpist tweets")
+
+
+[Why "free speech" needs a new definition in the age of the internet and Trumpist tweets](https://www.reddit.com/r/technology/comments/kzlnf9/why_free_speech_needs_a_new_definition_in_the_age/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+[Lidar tech envisions future of smart cities, self-driving cars at CES](https://www.watoday.com.au/technology/lidar-tech-envisions-future-of-smart-cities-self-driving-cars-at-ces-20210118-p56uuv.html?ref=rss&utm_medium=rss&utm_source=rss_feed)
+
+
+> Seoul Robotics and Intel's Mobileye among firms at CES 2021 with new 3D technology to support autonomous cars and smarter big cities.
+
+
