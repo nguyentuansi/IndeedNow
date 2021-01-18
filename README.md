@@ -9350,3 +9350,43 @@
 > Wall Street Journal: AT&T, Verizon, and other bidders have spent a record $80.9B during the 5G spectrum auction, expected to lead to a wave of borrowing for the indebted sector — AT&T, Verizon expected to turn to bond markets and banks to finance bids in record-setting FCC airwaves auction
 
 
+***
+![These are the best heavy duty cases for the Samsung Galaxy S21 Plus](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/09_galaxys21_plus_violet_silver_black_201230074843.jpg "These are the best heavy duty cases for the Samsung Galaxy S21 Plus")
+
+
+[These are the best heavy duty cases for the Samsung Galaxy S21 Plus](https://www.androidcentral.com/best-heavy-duty-cases-samsung-galaxy-s21-plus)
+
+
+> Best Heavy Duty Cases for Samsung Galaxy S21 Plus Android Central 2021 The Galaxy S21+ is in the sweet spot in Samsung's new lineup of flagship smartphones. As nice as the device is, though, if you want to keep it looking sweet, you're going to need a protective case. Here are the best heavy-duty cases that we could find for the Samsung Galaxy S21+. Which one is going to grace your Galaxy S21+? Staff Pick It seems that we always have an ArmadilloTek case on our roundups these days, and that's for a good reason — the case manufacturer knows how to protect your smartphone.
+
+
+***
+![These habit tracking apps help keep you on course for the new year](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/habit-tracking-apps-hero.jpg "These habit tracking apps help keep you on course for the new year")
+
+
+[These habit tracking apps help keep you on course for the new year](https://www.imore.com/best-habit-tracking-apps-iphone-and-ipad)
+
+
+> Source: Christine Romero-Chan / iMore It's a brand new year, so for many, that means a new start. It's the perfect time to build up some healthy new habits, like exercising everyday, washing your hands multiple times a day, drinking enough water, and anything else you can think of. And if you had some bad habits before, it is also a good time to break out of those if you can. Or maybe you want to start saving up for that dream vacation or retirement plan. No matter what your goals are, having the best habit tracking app on the best iPhone or best iPad can definitely help you out.
+
+
+***
+![Europe Anti-money Laundering Market (2020 to 2026)](https://mms.businesswire.com/media/20210118005354/en/371054/23/ResearchAndMarkets_800px.jpg "Europe Anti-money Laundering Market (2020 to 2026)")
+
+
+[Europe Anti-money Laundering Market (2020 to 2026)](https://www.businesswire.com/news/home/20210118005354/en/Europe-Anti-money-Laundering-Market-2020-to-2026---by-Component-Deployment-Type-Product-End-user-and-Country---ResearchAndMarkets.com)
+
+
+> January 18, 2021 09:57 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Europe Anti-money Laundering Market by Component, Deployment Type, Product, End-user and Country: Industry Analysis and Forecast 2020-2026" report has been added to ResearchAndMarkets.com's offering. The Europe Anti-money Laundering Market is expected to witness market growth of 17.4% CAGR during the forecast period (2020-2026). An increase in the adoption of machine learning (ML) in several industries is aiding both consumers and companies in the overall anti-money laundering software market.
+
+
+***
+![Parler: How the social media site banned by Apple and Google came back online](https://static.independent.co.uk/2021/01/18/11/GettyImages-1230496769.jpg "Parler: How the social media site banned by Apple and Google came back online")
+
+
+[Parler: How the social media site banned by Apple and Google came back online](https://www.independent.co.uk/life-style/gadgets-and-tech/parler-apple-google-ban-online-b1788868.html)
+
+
+> Parler, the social media website popular with Donald Trump supporters which was banned on Apple, Google, and Amazon's platforms, has returned online. While the social media site has not regained full operability, there are now two messages at its URL.  'Now seems like the right time to remind you all — both lovers and haters — why we started this platform. We believe privacy is paramount and free speech essential, especially on social media. Our aim has always been to provide a nonpartisan public square where individuals can enjoy and exercise their rights to both', a statement on Parler's website reads.
+
+
