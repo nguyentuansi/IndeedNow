@@ -9303,3 +9303,50 @@
 > After a year of startling growth, the tech industry faces a more vexing 2021. The pandemic helped bring the world's tech giants such as Amazon.com Inc. and Microsoft Corp. to new heights in 2020. The shift to online shopping and remote working accelerated at a pace that would have been inconceivable without the coronavirus. But there are signs the good times may end soon. Late last year, governments in the U.S., China and Europe separately began investigating whether Big Tech is too big. The scrutiny in Washington is expected to continue under a Biden administration, which also appears inclined to continue the Trump administration's export restrictions against Chinese companies that are reshuffling global supply chains.
 
 
+***
+![I just got a big donation from an admirable man for my open-source projects](https://external-preview.redd.it/eMoxfCJMLt-aiPM_w_h7W-Ooty_-0O7cY9lVvna-e98.jpg?auto=webp&s=80474e62c0174acb6a32c01b78776dc1c2e5ceb8 "I just got a big donation from an admirable man for my open-source projects")
+
+
+[I just got a big donation from an admirable man for my open-source projects](https://www.reddit.com/r/programming/comments/kzv5xs/i_just_got_a_big_donation_from_an_admirable_man/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Sims, sexuality, and the promiscuity of female ‘woohoo'](https://cdn.mos.cms.futurecdn.net/TWutqZUwJhXuAkcp2ff2DF-1200-80.jpg "Sims, sexuality, and the promiscuity of female ‘woohoo'")
+
+
+[Sims, sexuality, and the promiscuity of female ‘woohoo'](https://www.techradar.com/news/sims-sexuality-and-the-promiscuity-of-female-woohoo)
+
+
+> LGBTQ+ Gaming Week 2021(Image credit: TechRadar / R Healey Art)Welcome to TechRadar's LGBTQ+ Gaming Week 2021. During this week-long celebration, we're highlighting topics and voices within the LGBTQ+ gaming community. Find out more here.Bella Goth has her hair down and is looking at me, specifically. In a party full of Sims, where the only thing that stands out is a smelly baby crying in an abandoned bassinet, Bella makes her way towards the punch table bought exclusively using stolen Rosebud simoleons.
+
+
+***
+![It's Not Just You: Everyone's Mental Health Is Suffering](https://media.wired.com/photos/60023f7ec724a7992564247f/191:100/w_1280,c_limit/Culture_MentalHealth_1270419773.jpg "It's Not Just You: Everyone's Mental Health Is Suffering")
+
+
+[It's Not Just You: Everyone's Mental Health Is Suffering](https://www.wired.com/story/mental-health-coronavirus-pandemic-tips/)
+
+
+> This is the first sentence I've written this week. I wrote it on a Thursday. Like many people right now, I'm finding work harder to get done, and even basic daily tasks feel heavier than usual. If that sounds familiar, you're not alone. The pandemic has taken a toll on everyone's mental health, and there's data to prove it. While there's been ample discussion of the economic fallout from a global pandemic, the toll it takes on our collective mental health is harder to quantify. It's almost impossible to stay at home for months on end, cancel years worth of events, and disrupt even basic routines like how we shop for groceries without a significant impact on our mental health.
+
+
+***
+![Make sharing an Apple TV easier by setting up multiple accounts](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/apple-tv-hero-2021.jpeg "Make sharing an Apple TV easier by setting up multiple accounts")
+
+
+[Make sharing an Apple TV easier by setting up multiple accounts](https://www.imore.com/how-set-multiple-accounts-your-apple-tv)
+
+
+> Source: Bryan M. Wolfe / iMore Since the Apple TV is meant for rooms—family rooms, classrooms, meeting rooms—it needs to support more than one person. That means it needs to support more than one Apple ID (iTunes/App Store account) at a time. And it does! It may not be as smooth or as powerful as multiuser on the Mac, but it's more than we've had on any iPhone or iPad to date. Here's how it works! Before you can use multiple accounts, you need to log into any and all additional accounts you want available.
+
+
+***
+[AT&T, Verizon, and other bidders have spent a record $80.9B during the 5G spectrum auction, expected to lead to a wave of borrowing for the indebted sector (Wall Street Journal)](http://www.techmeme.com/210118/p8#a210118p8)
+
+
+> Wall Street Journal: AT&T, Verizon, and other bidders have spent a record $80.9B during the 5G spectrum auction, expected to lead to a wave of borrowing for the indebted sector — AT&T, Verizon expected to turn to bond markets and banks to finance bids in record-setting FCC airwaves auction
+
+
