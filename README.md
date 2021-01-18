@@ -9631,3 +9631,44 @@
 > The idea for Capsule started with a tweet about reinventing social media. A day later cryptography researcher, Nadim Kobeissi — best known for authoring the open source e2e encrypted desktop chat app Cryptocat (now discontinued) — had pulled in a pre-seed investment of $100,000 for his lightweight mesh-networked microservices concept, with support coming from angel investor and former Coinbase CTO Balaji Srinivasan, William J. Pulte and Wamda Capital. I'm designing a decentralized social media solution where each user hosts their own microservice.
 
 
+***
+[New Wallace and Gromit game ‘The Big Fix Up' tasks players with giving a city a makeover using augmented reality](https://www.the-sun.com/lifestyle/tech/2163253/wallace-and-gromit-game-big-fix-up-app-download/)
+
+
+> A HIGH-TECH new augmented reality game lets players fix up the city of Bristol alongside Wallace and Gromit. Launching today, players of “The Big Fix Up” take on the role of a new employee at the British duo’s latest business venture, Spick & Spanners. They’re tasked with repairing Bristol while taking part in Wallace and […]
+
+
+***
+[New Wallace and Gromit game ‘The Big Fix Up' tasks players with giving a city a makeover using augmented reality](https://www.thesun.ie/tech/6433197/wallace-and-gromit-game-big-fix-up-app-download/)
+
+
+> A HIGH-TECH new augmented reality game lets players fix up the city of Bristol alongside Wallace and Gromit. Launching today, players of “The Big Fix Up” take on the role of a new employee at the British duo’s latest business venture, Spick & Spanners. They’re tasked with repairing Bristol while taking part in Wallace and […]
+
+
+***
+![New Wallace and Gromit game ‘The Big Fix Up' tasks players with giving a city a makeover using augmented reality](https://www.thesun.co.uk/wp-content/uploads/2021/01/RW-TEASER-WALLACE.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "New Wallace and Gromit game ‘The Big Fix Up' tasks players with giving a city a makeover using augmented reality")
+
+
+[New Wallace and Gromit game ‘The Big Fix Up' tasks players with giving a city a makeover using augmented reality](https://www.thesun.co.uk/tech/13755548/wallace-and-gromit-game-big-fix-up-app-download/)
+
+
+> A HIGH-TECH new augmented reality game lets players fix up the city of Bristol alongside Wallace and Gromit. Launching today, players of "The Big Fix Up" take on the role of a new employee at the British duo's latest business venture, Spick & Spanners. A new Wallace and Gromit game has dropped on the Apple App StoreCredit: aardman animations They're tasked with repairing Bristol while taking part in Wallace and Gromit's first adventure in a decade, creator Aardman Animations said. It also marks the first time Wallace and Gromit have been rendered in augmented reality (AR), a technology that beams virtual characters and environments onto the world around you.
+
+
+***
+[proSapient, a research service helping customers gather insights from experts via interviews and surveys, raises $10M Series A led by Smedvig Capital (Mike Butcher/TechCrunch)](http://www.techmeme.com/210118/p13#a210118p13)
+
+
+> Mike Butcher / TechCrunch: proSapient, a research service helping customers gather insights from experts via interviews and surveys, raises $10M Series A led by Smedvig Capital — For several years there has been talk about how to leverage ‘experts’ online. How do you ‘suck their brains’ for information in an efficient manner …
+
+
+***
+![Global Wearable Electronics Market 2020-2024 to Post a Progressing CAGR of 15%](https://mms.businesswire.com/media/20210118005512/en/852887/23/IRTNTR43403.jpg "Global Wearable Electronics Market 2020-2024 to Post a Progressing CAGR of 15%")
+
+
+[Global Wearable Electronics Market 2020-2024 to Post a Progressing CAGR of 15%](https://www.businesswire.com/news/home/20210118005512/en/Global-Wearable-Electronics-Market-2020-2024-to-Post-a-Progressing-CAGR-of-15-Technavio)
+
+
+> January 18, 2021 03:52 PM Eastern Standard Time LONDON--(BUSINESS WIRE)--Technavio has been monitoring the wearable electronics market and it is poised to grow by USD 41.24 billion during 2020-2024, progressing at a CAGR of 15% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario, latest trends and drivers, and the overall market environment. Request a free sample report The market is fragmented, and the degree of fragmentation will accelerate during the forecast period.
+
+
