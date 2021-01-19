@@ -10401,3 +10401,50 @@
 > January 19, 2021   04:35 pm - Speaker of Parliament Mahinda Yapa Abeywardena says that a decision regarding the parliamentary seat of MP Ranjan Ramanayake, who has been sentenced to four-years in prison, will delivered within three weeks after studying the facts pertaining to him losing the seat. The Speaker made these comments after several opposition and ruling party MPs had expressed views regarding the matter at the Parliamentary session today (19). The Speaker stated that any Member of Parliament or group can make written submissions within the next two weeks, presenting facts on MP Ramanayake losing his parliamentary seat.
 
 
+***
+![Don't fall for THIS Netflix scam – convincing message can steal your account and bank details in seconds](https://www.thesun.co.uk/wp-content/uploads/2021/01/NINTCHDBPICT000285796907.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Don't fall for THIS Netflix scam – convincing message can steal your account and bank details in seconds")
+
+
+[Don't fall for THIS Netflix scam – convincing message can steal your account and bank details in seconds](https://www.thesun.co.uk/tech/13783453/netflix-scam-steals-bank-details/)
+
+
+> NETFLIX users are being warned about a scam email that threatens to suspend memberships in 48 hours unless payment details are given. The email falsely claims to be from Netflix and could lead to your financial information and Netflix account being stolen. This is what the scam email can look like The scam states: 'We were unable to validate your billing information for the next billing cycle of your subscription therefore we'll suspend your member if we do not receive a response from you within 48 hours.
+
+
+***
+[The EUR is the strongest and the JPY is the weakest as NA traders enter for the day](https://www.forexlive.com/technical-analysis/!/the-eur-is-the-strongest-and-the-jpy-is-the-weakest-as-na-traders-enter-for-the-day-20210119)
+
+
+> The USD is weaker As North American traders enter for the day - and return from the Martin Luther King holiday, the EUR is the strongest, the JPY is the weakest.   The USD is also weaker as traders are in a risk off mode. Stocks are higher. Bond yields are higher as well. Gold is lower. 
+
+
+***
+![AWS wants to tempt customers into switching to Linux](https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-1200-80.jpg "AWS wants to tempt customers into switching to Linux")
+
+
+[AWS wants to tempt customers into switching to Linux](https://www.techradar.com/news/aws-wants-to-tempt-customers-into-switching-to-linux)
+
+
+> (Image credit: Shutterstock / Blackboard) Another tech giant has thrown its weight behind Linux partnerships after Amazon Web Services (AWS) praised the system when launching the source code for its latest open source tool on GitHub.The open source Porting Assistant for .NET is designed to scan .NET apps and list the things that need to be fixed in order to port the app to Linux. This, AWS argues, will help customers 'take advantage of the performance, cost savings, and robust ecosystem of Linux.
+
+
+***
+![Seagate Joins I4DI Driving Design of World Fastest AI Supercomputer](https://mms.businesswire.com/media/20210119005324/en/665930/23/tachylogoa.jpg "Seagate Joins I4DI Driving Design of World Fastest AI Supercomputer")
+
+
+[Seagate Joins I4DI Driving Design of World Fastest AI Supercomputer](https://www.businesswire.com/news/home/20210119005324/en/Seagate-Joins-I4DI-Driving-Design-of-World-Fastest-AI-Supercomputer)
+
+
+> January 19, 2021 08:12 AM Eastern Standard Time LAS VEGAS--(BUSINESS WIRE)--Seagate is the newest member of the Innovations for Digital Infrastructure (I4DI), a partnership of innovative global technology leaders that are developing European-based supercomputing solutions to advance the region's capabilities in solving the performance, power and efficiency issues challenging the industry today. It joins founding members PosAm, Towercom and Tachyum, and thus the partnership with SAV (Slovak Academy of Sciences) and MIRRI SR (Ministry of Investment, Regional Development and Informatization of the Slovak Republic) within National Supercomputing Centre (NSCC).
+
+
+***
+![Samsung Galaxy Tab S7, Tab S7+ Get One UI 3.1 With Android 11 Update](https://www.androidheadlines.com/wp-content/uploads/2020/08/Samsung-Galaxy-Tab-S7-Hands-On-AM-AH-12.jpg "Samsung Galaxy Tab S7, Tab S7+ Get One UI 3.1 With Android 11 Update")
+
+
+[Samsung Galaxy Tab S7, Tab S7+ Get One UI 3.1 With Android 11 Update](https://www.androidheadlines.com/2021/01/samsung-galaxy-tab-s7-plus-android-11-one-ui-3-1-update.html)
+
+
+> Samsung has started rolling out the Android 11 update to the Galaxy Tab S7 series. But instead of One UI 3.0, Samsung's latest flagship Android tablets are receiving One UI 3.1 with this update. The Galaxy Tab S7, Tab S7+ LTE, and Tab S7+ 5G are all receiving the new update. They are the first Samsung Galaxy devices to get One UI 3.1.The update is currently rolling out for users in South Korea. It comes with firmware version T875NKOU1BUA8 for the Galaxy Tab S7, T975NKOU1BUA8 for the Galaxy Tab S7+ LTE, and T976NKOU1BUA8 for the Galaxy Tab S7+ 5G.
+
+
