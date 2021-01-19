@@ -10642,3 +10642,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Jiggle Physics 65: Go play a Ster Wer!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/11/jiggle-physics_art.jpg "Jiggle Physics 65: Go play a Ster Wer!")
+
+
+[Jiggle Physics 65: Go play a Ster Wer!](https://www.androidcentral.com/jiggle-physics-65-go-play-ster-wer)
+
+
+> Source: Jiggle Physics Art Razer is in the news this week with a Chroma RGB equipped N95 medical-grade mask and a bonkers new gaming chair. Rebecca reports on Super Mario 3D World + Bower's Fury for Nintendo Switch. Star Wars fans have a new hope now that EA is no longer an exclusive creator of games for Lucasfilm. And CDPR's co-founder is 'deeply sorry' about the Cyberpunk 2077 console launch debacle. Hosted by: Jennifer Locke, Carli Velocci, and Rebecca Spear Got feedback? Hit up Podcast@androidcentral.
+
+
+***
+![Security in Node.JS and Express: The Bare Minimum — Part 3.](https://external-preview.redd.it/Sm5J5wiR7bdynX5OLxm1y2QmZstz2t-TUHws7LsiuG8.jpg?auto=webp&s=f40235464c7d2a58cdd2788b97e62d51fb08710d "Security in Node.JS and Express: The Bare Minimum — Part 3.")
+
+
+[Security in Node.JS and Express: The Bare Minimum — Part 3.](https://www.reddit.com/r/programming/comments/l0r3nj/security_in_nodejs_and_express_the_bare_minimum/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Poll: Most Americans want legislation governing social media policies](https://thehill.com/sites/default/files/trump_twitter_ban_01082021_1.jpg "Poll: Most Americans want legislation governing social media policies")
+
+
+[Poll: Most Americans want legislation governing social media policies](https://thehill.com/policy/technology/534840-poll-most-americans-want-legislation-governing-social-media-policies)
+
+
+> A majority of Americans believe that lawmakers should pass legislation governing how social media companies police content posted on their platforms, according to a Harvard CAPS/Harris Poll survey released exclusively to The Hill. Some 54 percent of respondents want elected officials to spell out in the law how and when to restrict or remove content from social media sites, like Twitter and Facebook, as well as what kind of content is deemed appropriate.By contrast, a large minority of respondents — 46 percent — are in favor of allowing those companies to set their own rules for determining the kind of content that is suitable for their platforms.
+
+
+***
+![Uppbeat launches a freemium music platform aimed at YouTubers – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/Uppbeat-Home-Page.jpg?w=560 "Uppbeat launches a freemium music platform aimed at YouTubers – TechCrunch")
+
+
+[Uppbeat launches a freemium music platform aimed at YouTubers – TechCrunch](https://techcrunch.com/2021/01/19/uppbeat-launches-a-freemium-music-platform-aimed-at-youtubers/)
+
+
+> A new music platform, Uppbeat, aims to make it easier for YouTubers and other content creators to find quality free music to use in their videos. The system, which is designed to navigate the complexities of copyright claims while also fairly compensating artists, offers an alternative to existing free music platforms, including YouTube's own Audio Library and Creative Commons' legal music for videos, for example. The idea for the startup comes from Lewis Foster and Matt Russell, the U.K.-based co-founders of another music-licensing company, Music Vine, which has been operating for about six years.
+
+
+***
+![Malwarebytes says its emails were breached by SolarWinds hackers](https://i-invdn-com.akamaized.net/news/LYNXMPEA610V5_L.jpg "Malwarebytes says its emails were breached by SolarWinds hackers")
+
+
+[Malwarebytes says its emails were breached by SolarWinds hackers](https://www.investing.com/news/technology-news/malwarebytes-says-its-emails-were-breached-by-solarwinds-hackers-2393039)
+
+
+> © Reuters. By Raphael Satter WASHINGTON (Reuters) - Cybersecurity company Malwarebytes said on Tuesday that some of its emails were breached by the same hackers who used the software company SolarWinds to hack into a series of U.S. government agencies. In a statement, the Santa Clara, California-based company said that while it did not use software made by SolarWinds, the software company at the center of the breach, it had been successfully targeted by the same set of hackers using a different technique.
+
+
