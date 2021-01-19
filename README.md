@@ -9957,3 +9957,53 @@
 > Its not much but Its really cool! I also got an esp8266 alongside it for other projects!
 
 
+***
+![The embedded YouTube player told me what you were watching](https://external-preview.redd.it/TkEd_DVfiYFLKyRnEby6DZJ75b_xlk5TTaK2Lti0UDs.jpg?auto=webp&s=e93e0e40711f0dd68f06fc9cc4169a7c33a91935 "The embedded YouTube player told me what you were watching")
+
+
+[The embedded YouTube player told me what you were watching](https://www.reddit.com/r/programming/comments/l0bxpi/the_embedded_youtube_player_told_me_what_you_were/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![US wants Australia to drop news payment plan for tech giants](https://static.bangkokpost.com/media/content/20210119/c1_3870283_700.jpg "US wants Australia to drop news payment plan for tech giants")
+
+
+[US wants Australia to drop news payment plan for tech giants](https://www.bangkokpost.com/tech/2053343/us-wants-australia-to-drop-news-payment-plan-for-tech-giants)
+
+
+> Australia intends to force Google and Facebook to pay local media organisations for hosting news content or face millions of dollars in fines. SYDNEY: The United States wants Australia to abandon its plan to force Google and Facebook to pay media outlets for their news content, saying there could be "long-lasting negative consequences" for consumers and companies. Australia intends to force the US tech giants to pay local media organisations for hosting news content or face millions of dollars in fines, in one of the most aggressive moves globally to check their power.
+
+
+***
+![You may soon be able to do your shopping on YouTube](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/20210119_YouTube_generic_logo_AFP-seo.jpg "You may soon be able to do your shopping on YouTube")
+
+
+[You may soon be able to do your shopping on YouTube](https://www.malaymail.com/news/tech-gadgets/2021/01/19/you-may-soon-be-able-to-do-your-shopping-on-youtube/1941796)
+
+
+> Is YouTube turning into an e-commerce site? — iStock pic SAN FRANCISCO, Jan 19 — What if you could pick up that trendy coat or those fun sunglasses you saw in a YouTube video right then and there while you're watching? The video-streaming platform has launched a test phase to allow some internet users to discover and buy products placed in videos. A good way for brands and influencers, as well as YouTube, to capitalise on online product placements. Will YouTube become an e-commerce site? The online video platform seems to be experimenting with new features to facilitate online shopping.
+
+
+***
+![Microsoft voice data collection will be optional with one catch](https://cdn.slashgear.com/wp-content/uploads/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero.jpg "Microsoft voice data collection will be optional with one catch")
+
+
+[Microsoft voice data collection will be optional with one catch](https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/)
+
+
+> After becoming a mostly touch-based society thanks to smartphones and tablets, tech giants are trying to turn us back towards using our literal voices to drive our interactions with technology. AI assistants, smart speakers, and speech recognition have become staples of many products and services but, unlike touch, voice data also carries more privacy implications. After being criticized and scrutinized over such privacy invasions like its peers, Microsoft is now announcing a bigger change to its voice data collection practices that it says gives users more control.
+
+
+***
+![Tech: Momentum investing may lose steam in 2021](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1cRWZx.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=606&y=362 "Tech: Momentum investing may lose steam in 2021")
+
+
+[Tech: Momentum investing may lose steam in 2021](http://www.theedgemarkets.com/article/tech-momentum-investing-may-lose-steam-2021)
+
+
+> © Provided by The Edge MOMENTUM investing — a strategy where investors capitalise on the continuance of existing trends in the market to reap outsize returns — is expected to lose strength this year as the global economy recovers from the Covid-19 pandemic, says Sumaira Franicevic. Franicevic, regional head of wealth advisory at Citi, points out that sectors that benefited from the pandemic last year, such as digital entertainment, online retail and consumer staples, are not expected to do well as the global economy gradually improves.
+
+
