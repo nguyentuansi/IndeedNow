@@ -10157,3 +10157,53 @@
 > Samsung Galaxy Buds Pro have got an update that brings hearing enhancements among other Bixby and system-related improvements, as per a report. The hearing-related update is seen as a great help for those who are auditory impaired. There are enhancements in Bixby integration as well. The true wireless stereo (TWS) earbuds feature intelligent active noise cancellation (ANC), wireless charging, and IPX7 water resistance. Priced at Rs. 15,990 in India, the earphones are available for pre-booking with deliveries starting from January 29 onwards.
 
 
+***
+![ਸ੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਦੇ ਪ੍ਰਕਾਸ਼ ਪੁਰਬ ਤੇ ਕੱਢਿਆ ਗਿਆ ਵਿਸ਼ਾਲ ਨਗਰ ਕੀਰਤਨ](https://static.jagbani.com/multimedia/2021_1image_13_38_497515096nagar-ll.jpg "ਸ੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਦੇ ਪ੍ਰਕਾਸ਼ ਪੁਰਬ ਤੇ ਕੱਢਿਆ ਗਿਆ ਵਿਸ਼ਾਲ ਨਗਰ ਕੀਰਤਨ")
+
+
+[ਸ੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਦੇ ਪ੍ਰਕਾਸ਼ ਪੁਰਬ ਤੇ ਕੱਢਿਆ ਗਿਆ ਵਿਸ਼ਾਲ ਨਗਰ ਕੀਰਤਨ](https://jagbani.punjabkesari.in/punjab/news/nagar-kirtan-1263690)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![Report: Apple testing foldable screen prototypes for upcoming iPhone](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/201204-iphone-12-series-17-768x432-seo.jpg "Report: Apple testing foldable screen prototypes for upcoming iPhone")
+
+
+[Report: Apple testing foldable screen prototypes for upcoming iPhone](https://www.soyacincau.com/2021/01/19/report-apple-testing-foldable-screen-prototypes-for-upcoming-iphone/)
+
+
+> If the report is true, then Apple would be joining a growing list of companies that are making foldable smartphones. — SoyaCincau pic KUALA LUMPUR, Jan 19 — Apple  is said to have begun work on a foldable iPhone that may be introduced in the future. According to a  report  from Bloomberg, the Cupertino-based company is conducting internal testing on foldable screen prototypes. The report states that Apple is still in the early phases of development and the final product is likely to still be years away from being released.
+
+
+***
+![Oppo A93 256GB 8GB RAM](https://vijaykarnataka.com/thumb/msid-80329445,width-1200,height-630/pic.jpg "Oppo A93 256GB 8GB RAM")
+
+
+[Oppo A93 256GB 8GB RAM](https://vijaykarnataka.com/tech/mobile-phones/oppo-a93-256gb-8gb-ram)
+
+
+> ಸಾರಾಂಶ ಪರ್ಫಾಮೆನ್ಸ್‌ Qualcomm SM4350 Snapdragon 480 5G (8 nm) ಡಿಸ್‌ಪ್ಲೇ 6.5 inches (16.51 cm) ಸ್ಟೋರೇಜ್‌ 256 GB ಕ್ಯಾಮರಾ 48 MP + 2 MP + 2 MP ಬ್ಯಾಟರಿ 5000 mAh price in_india 22600 ರ‍್ಯಾಮ್ 8 GB, 8 GB ಪ್ರಮುಖ ವಿಶೇಷತೆ ಫ್ರಂಟ್ ಕ್ಯಾಮರಾ 8 MP ಬ್ಯಾಟರಿ 5000 mAh ಪ್ರೋಸೆಸರ್ Qualcomm SM4350 Snapdragon 480 5G (8 nm) ರ‍್ಯಾಮ್ 8 GB rear camera 48 MP + 2 MP + 2 MP ಡಿಸ್‌ಪ್ಲೇ 6.51 inches ಸ್ಪೆಶಲ್ ಫೀಚರ್ಸ್ ಇತರ ಸೆನ್ಸರ್ Accelerometer, Proximity, Compass ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ Yes ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್_ಪೊಸಿಶನ್ Side ಸಾಮಾನ್ಯ ವಿವರ ಕ್ವಿಕ್ ಚಾರ್ಜಿಂಗ್ Yes ಓಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ Android v11 ಸಿಮ್‌ ಸ್ಲಾಟ್ಸ್ Dual SIM, GSM+GSM ಮಾದರಿ A93 ಲಾಂಚ್ ಡೇಟ್ January 20, 2021 (Expected) price in_india Rs.
+
+
+***
+![Realme C12 64GB 4GB RAM](https://vijaykarnataka.com/thumb/msid-80332993,width-1200,height-630/pic.jpg "Realme C12 64GB 4GB RAM")
+
+
+[Realme C12 64GB 4GB RAM](https://vijaykarnataka.com/tech/mobile-phones/realme-c12-64gb-4gb-ram)
+
+
+> ಸಾರಾಂಶ ಪರ್ಫಾಮೆನ್ಸ್‌ MediaTek Helio G35 ಡಿಸ್‌ಪ್ಲೇ 6.52 inches (16.56 cm) ಸ್ಟೋರೇಜ್‌ 64 GB ಕ್ಯಾಮರಾ 13 MP + 2 MP + 2 MP ಬ್ಯಾಟರಿ 6000 mAh price in_india 10999 ರ‍್ಯಾಮ್ 4 GB, 4 GB ಪ್ರಮುಖ ವಿಶೇಷತೆ ಫ್ರಂಟ್ ಕ್ಯಾಮರಾ 5 MP ಬ್ಯಾಟರಿ 6000 mAh ಪ್ರೋಸೆಸರ್ MediaTek Helio G35 ರ‍್ಯಾಮ್ 4 GB rear camera 13 MP + 2 MP + 2 MP ಡಿಸ್‌ಪ್ಲೇ 6.52 inches ಸ್ಪೆಶಲ್ ಫೀಚರ್ಸ್ ಇತರ ಸೆನ್ಸರ್ Magnetic Induction Sensor, Light Sensor, Proximity Sensor, Acceleration Sensor, A-GPS, Glonass, Beidou ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ Yes ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್_ಪೊಸಿಶನ್ Rear ಸಾಮಾನ್ಯ ವಿವರ ಓಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ Android v10 (Q) ಸಿಮ್‌ ಸ್ಲಾಟ್ಸ್ Dual SIM, GSM+GSM ಮಾದರಿ C12 ಲಾಂಚ್ ಡೇಟ್ January 18, 2021 (Official) ಕಸ್ಟಂ ಯುಐ Realme UI price in_india Rs.
+
+
+***
+![Turkey imposes advertising ban on Twitter, Periscope, Pinterest](https://assets2.rappler.com/2021/01/turkey-ad-ban-January-19-2021-1611037188270.jpg "Turkey imposes advertising ban on Twitter, Periscope, Pinterest")
+
+
+[Turkey imposes advertising ban on Twitter, Periscope, Pinterest](https://www.rappler.com/technology/social-media/turkey-advertising-ban-twitter-periscope-pinterest)
+
+
+> Turkey's Information and Communication Technologies Authority has imposed advertising bans on Twitter, Periscope, and Pinterest under a new social media law, according to decisions published in the country's Official Gazette on Tuesday, January 19. The law, which critics say will muzzle dissent, requires social media companies to appoint local representatives in Turkey. On Monday, Facebook joined other companies in saying it would be appointing such a representative. YouTube, owned by Alphabet Inc's Google, said a month ago it had decided to appoint a representative.
+
+
