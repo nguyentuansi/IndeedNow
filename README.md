@@ -10736,3 +10736,53 @@
 > Hey guys, just wanted to check if anyone received the hackerrank link to do the coding assessment from the 2021 residency program. Just wanted to know if everyone that applied receives this or if you already have to go through a selection process to receive this invitation. Thanks and good luck to anyone here that also applied :)
 
 
+***
+![NETGEAR Schedules Fourth Quarter and Full Year 2020 Results Conference Call](http://www.businesswire.com/images/bwlogo_square.png "NETGEAR Schedules Fourth Quarter and Full Year 2020 Results Conference Call")
+
+
+[NETGEAR Schedules Fourth Quarter and Full Year 2020 Results Conference Call](https://www.businesswire.com/news/home/20210119006031/en/NETGEAR-Schedules-Fourth-Quarter-and-Full-Year-2020-Results-Conference-Call)
+
+
+> January 19, 2021 04:05 PM Eastern Standard Time SAN JOSE, Calif.--(BUSINESS WIRE)--NETGEAR, Inc., (NASDAQ: NTGR), a global networking company that delivers innovative networking and Internet-connected products to consumers and businesses, today announced that it will hold a conference call with investors and analysts on Wednesday, February 3, 2021 at 5:00 p.m. ET (2:00 p.m. PT) to discuss the Company's fourth quarter and full year 2020 results and first quarter 2021 business outlook. The news release announcing the fourth quarter and full year 2020 results will be disseminated on February 3, 2021 after the market closes.
+
+
+***
+![Best workgroup printer 2021: the top printers for busy offices](https://cdn.mos.cms.futurecdn.net/7KXPko6pgRe8HFZ6MCVBf6-1200-80.jpg "Best workgroup printer 2021: the top printers for busy offices")
+
+
+[Best workgroup printer 2021: the top printers for busy offices](https://www.techradar.com/news/best-workgroup-printer)
+
+
+> Welcome to our pick of the best workgroup printers of 2021. These printers are essential additions to any modern office, especially busy ones were numerous PCs need to use the printer throughout the day.Sure, many of the best printers now come with network connectivity, but they can really only handle a few devices connected to them at a time. The best workgroup printers, however, are much more powerful, with on-board memory to store jobs as they are queued, which makes them excellent purchases for busy and growing offices.
+
+
+***
+![This Anime Does Not Exist (generated using StyleGAN2)](https://external-preview.redd.it/4uflXCguYOVCZa-o7TBBYanlKvP6LKM2YPURPs_smTQ.jpg?auto=webp&s=811716a263902ad34826d9a3519441e89e36740e "This Anime Does Not Exist (generated using StyleGAN2)")
+
+
+[This Anime Does Not Exist (generated using StyleGAN2)](https://www.reddit.com/r/programming/comments/l0t5sv/this_anime_does_not_exist_generated_using/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Amazon.com to Webcast Fourth Quarter 2020 Financial Results Conference Call](https://mms.businesswire.com/media/20210119005985/en/853132/23/Amazon_logo.jpg "Amazon.com to Webcast Fourth Quarter 2020 Financial Results Conference Call")
+
+
+[Amazon.com to Webcast Fourth Quarter 2020 Financial Results Conference Call](https://www.businesswire.com/news/home/20210119005985/en/Amazon.com-to-Webcast-Fourth-Quarter-2020-Financial-Results-Conference-Call)
+
+
+> January 19, 2021 04:01 PM Eastern Standard Time SEATTLE--(BUSINESS WIRE)--Amazon.com, Inc. (NASDAQ: AMZN) announced today that it will hold a conference call to discuss its fourth quarter 2020 financial results on February 2, 2021 at 2:30 p.m. PT/5:30 p.m. ET. The event will be webcast live, and the audio and associated slides will be available for at least three months thereafter at www.amazon.com/ir.
+
+
+***
+![Take Cornell's CS 6120 Advanced Compilers For Free](https://external-preview.redd.it/YQ6OJYpnhn_jcVGd9cIufSGIwd9HJMFUaBLZMr61tTw.jpg?auto=webp&s=53c79e9506d78d905ac3765e58fcc9d69c718444 "Take Cornell's CS 6120 Advanced Compilers For Free")
+
+
+[Take Cornell's CS 6120 Advanced Compilers For Free](https://www.reddit.com/r/programming/comments/l0t4b4/take_cornells_cs_6120_advanced_compilers_for_free/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
