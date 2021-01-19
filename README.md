@@ -10448,3 +10448,53 @@
 > Samsung has started rolling out the Android 11 update to the Galaxy Tab S7 series. But instead of One UI 3.0, Samsung's latest flagship Android tablets are receiving One UI 3.1 with this update. The Galaxy Tab S7, Tab S7+ LTE, and Tab S7+ 5G are all receiving the new update. They are the first Samsung Galaxy devices to get One UI 3.1.The update is currently rolling out for users in South Korea. It comes with firmware version T875NKOU1BUA8 for the Galaxy Tab S7, T975NKOU1BUA8 for the Galaxy Tab S7+ LTE, and T976NKOU1BUA8 for the Galaxy Tab S7+ 5G.
 
 
+***
+![Asus ROG Phone 4 release date, price, news and leaks](https://cdn.mos.cms.futurecdn.net/7pjqqsZMVKUqfjCpWChbk3-1200-80.jpg "Asus ROG Phone 4 release date, price, news and leaks")
+
+
+[Asus ROG Phone 4 release date, price, news and leaks](https://www.techradar.com/news/asus-rog-phone-4)
+
+
+> The Asus ROG Phone 4 will likely be the next gaming phone put out by Asus - though we're not totally sure it'll actually be called that. Check out our 'Name' section to find out why.What isn't in doubt, though, is that Asus is working on another gaming phone, to follow up the Asus ROG Phone 3 from 2020. That was a great handset for mobile gamers, but it had a few small issues we'd like to see addressed.Loads of leaks and rumors have sprung up around the Asus ROG Phone 4, even supposedly leaked launch posters of the handset, so it seems likely the phone could be shown off soon.
+
+
+***
+![Best camera 2021: the 16 best cameras you can buy right now](https://cdn.mos.cms.futurecdn.net/YVXevWf5uDHR2XAiot4ucS-1200-80.jpg "Best camera 2021: the 16 best cameras you can buy right now")
+
+
+[Best camera 2021: the 16 best cameras you can buy right now](https://www.techradar.com/news/best-camera)
+
+
+> Searching for the best camera you can buy right now? Our in-depth guide is here to find the best match for you. Whether you're looking for an entry-level DSLR, a mirrorless hybrid or a smartphone-beating compact, you'll find all of the best options in the world in this regularly updated guide.If you're not sure where to start, there are a few things that might help narrow down your options. Naturally, budget plays a big role, but perhaps even more important are your level of experience and preferred style of photography.
+
+
+***
+![Global Tunable Diode Laser Analyzer (TDLA) Market Analysis 2020-2026](https://mms.businesswire.com/media/20210119005654/en/371054/23/ResearchAndMarkets_800px.jpg "Global Tunable Diode Laser Analyzer (TDLA) Market Analysis 2020-2026")
+
+
+[Global Tunable Diode Laser Analyzer (TDLA) Market Analysis 2020-2026](https://www.businesswire.com/news/home/20210119005654/en/Global-Tunable-Diode-Laser-Analyzer-TDLA-Market-Analysis-2020-2026---ResearchAndMarkets.com)
+
+
+> January 19, 2021 09:13 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Global Tunable Diode Laser Analyzer (TDLA) Market Analysis 2020" report has been added to ResearchAndMarkets.com's offering. The Global Tunable Diode Laser Analyzer (TDLA) market is expected to reach $685.75 million by 2026 growing at a CAGR of 9.4% during 2019 to 2026. Tunable Diode Laser Analyzers are instruments that are used in on-line gas analysis applications. Higher reliability, lower maintenance costs, lower downtimes, quicker responses, robust nature and high spectral resolutions coupled with accuracy makes the instrument as a vital tool in the gas measurement and monitoring industry finding applications in a broad range of industry sectors.
+
+
+***
+![StorageCraft Announces 2020 All-Star StorageCraft Partner Award Winners](https://mms.businesswire.com/media/20210119005475/en/724537/23/SC_LOGO_TAG_HORZ_4C.jpg "StorageCraft Announces 2020 All-Star StorageCraft Partner Award Winners")
+
+
+[StorageCraft Announces 2020 All-Star StorageCraft Partner Award Winners](https://www.businesswire.com/news/home/20210119005475/en/StorageCraft-Announces-2020-All-Star-StorageCraft-Partner-Award-Winners)
+
+
+> January 19, 2021 09:06 AM Eastern Standard Time DRAPER, Utah--(BUSINESS WIRE)--StorageCraft®, whose mission is to protect all data and ensure its constant availability, today announced the winners of the 2020 StorageCraft All-Star Partner Awards. The annual awards honor StorageCraft partners for their commitment to bringing customers world-class business continuity via the StorageCraft suite of solutions during 2020. The award winners were selected from a group of exemplary partners who have demonstrated proven success and excellence in deploying and managing StorageCraft solutions for their customers.
+
+
+***
+![New Survey Reveals Many Employers Lack Protections for Whistleblowers](https://mms.businesswire.com/media/20210119005349/en/852958/23/EVERFI_BRANDING_FINAL_LOGO_%288%29_viewimage.jpg "New Survey Reveals Many Employers Lack Protections for Whistleblowers")
+
+
+[New Survey Reveals Many Employers Lack Protections for Whistleblowers](https://www.businesswire.com/news/home/20210119005349/en/New-Survey-Reveals-Many-Employers-Lack-Protections-for-Whistleblowers)
+
+
+> January 19, 2021 09:05 AM Eastern Standard Time WASHINGTON, D.C.--(BUSINESS WIRE)--EVERFI, Inc., the leading social impact education innovator, released the findings of a new survey revealing that many employers do not have adequate protections in place to prevent retaliation against whistleblowers. Survey data also reveals that organizations that do prioritize and take proactive steps to prevent retaliation report far fewer incidents. Retaliation is the most common claim of workplace discrimination by far and has been for the past decade.
+
+
