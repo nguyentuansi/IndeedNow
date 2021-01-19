@@ -10351,3 +10351,53 @@
 > by: Dylan Abad Posted: Jan 19, 2021 / 05:58 AM EST / Updated: Jan 19, 2021 / 05:58 AM EST A new weapon in the fight against COVID-19. Research shows smartwatches may be able to detect the virus by showing small changes in the user's heartbeat. The study found the smartwatch detected the virus up to a week before symptoms showed up. Samsung confirms its future phones will not be sold with chargers and earphones. One executive says the move will be gradual. The company points out that older USB charging cables will still work with newer Samsung devices.
 
 
+***
+![India asks Facebook's WhatsApp to withdraw privacy policy update](https://assets2.rappler.com/2021/01/reuters-20210119-whatsapp-2021-01-15T221646Z_307749472_RC2M8L9ZXOWW_RTRMADP_3_FACEBOOK-WHATSAPP-1611054022508.jpg "India asks Facebook's WhatsApp to withdraw privacy policy update")
+
+
+[India asks Facebook's WhatsApp to withdraw privacy policy update](https://www.rappler.com/technology/apps/india-asks-whatsapp-facebook-withdraw-privacy-policy-update)
+
+
+> India's technology ministry has asked Facebook-owned WhatsApp to withdraw the changes to its privacy policy announced by the messenger earlier this month, saying the new terms take away choice from Indian users. "The proposed changes raise grave concerns regarding the implications for the choice and autonomy of Indian citizens," said the tech ministry's email addressed to WhatsApp boss Will Cathcart dated January 18, which was reviewed by Reuters. "Therefore, you are called upon to withdraw the proposed changes.
+
+
+***
+![Japan eyes use of robots to boost COVID-19 testing as Olympics loom](https://assets2.rappler.com/2021/01/tokyo-olympics-jan-8-2021-1611049341894.jpg "Japan eyes use of robots to boost COVID-19 testing as Olympics loom")
+
+
+[Japan eyes use of robots to boost COVID-19 testing as Olympics loom](https://www.rappler.com/technology/innovations/japan-robots-boost-covid-19-testing)
+
+
+> Japan's health minister watched a demonstration on Tuesday, January 19, of a prototype automated COVID-19 testing machine that uses a robotic arm to take a sample from a person's nose and can deliver the results in about 80 minutes. The robot system, built by Kawasaki Heavy Industries, fits in a standard shipping container that can be transported by truck and set up at stadiums, theme parks and other mass gatherings, the company said. "Looking at the global trend, we need to increase the number of people receiving tests, and the demand for preventive testing is rising," Health Minister Norihisa Tamura told reporters at the demonstration.
+
+
+***
+![AG finds MCC Compact inconsistent with the Constitution](https://adaderanaenglish.s3.amazonaws.com/1611046045-MCC-inconsistent-with-the-Constitution---AG-B.jpg "AG finds MCC Compact inconsistent with the Constitution")
+
+
+[AG finds MCC Compact inconsistent with the Constitution](http://www.adaderana.lk/news/70874/ag-finds-mcc-compact-inconsistent-with-the-constitution)
+
+
+> January 19, 2021   02:10 pm - The Attorney General has declared the Millennium Challenge Corporation (MCC) Compact to be inconsistent with the Constitution of Sri Lanka. According to State Counsel Nishara Jayaratne, the Coordinating Officer of the Attorney General, the Attorney General has advised the Secretary to the President on the matter. The Attorney General has found that the MCC Compact and the Program Implementation Agreement (PIA) and Articles of Association of MCA are inconsistent with the written laws and the Constitution.
+
+
+***
+![Group of Ukrainian tourists visits Polonnaruwa](https://adaderanaenglish.s3.amazonaws.com/1611047378-Group-of-Ukrainian-tourists-visits-Polonnaruwa-L.jpg "Group of Ukrainian tourists visits Polonnaruwa")
+
+
+[Group of Ukrainian tourists visits Polonnaruwa](http://www.adaderana.lk/news/70875/group-of-ukrainian-tourists-visits-polonnaruwa)
+
+
+> January 19, 2021   02:29 pm - A group of Ukrainian tourists who are currently visiting Sri Lanka have been escorted in a special ‘bio-secure bubble' to the ancient city of Polonnaruwa today (January 19). Sri Lanka welcomed the first batch of foreign tourists since the outbreak of Covid-19 pandemic, as a flight specially chartered by SkyUp Airlines touched down at the Mattala International Airport with 180 Ukrainians. Nearly 1,200 Ukrainian tourists have arrived in the country to date following the reopening of airports which were closed for commercial flights since March last year due to the Covid-19 pandemic.
+
+
+***
+![Decision on Ranjans MP seat within 3 weeks](https://adaderanaenglish.s3.amazonaws.com/1611054466-Ranjan_MP_seat_vacant_L.jpg "Decision on Ranjans MP seat within 3 weeks")
+
+
+[Decision on Ranjans MP seat within 3 weeks](http://www.adaderana.lk/news/70880/decision-on-ranjans-mp-seat-within-3-weeks-speaker)
+
+
+> January 19, 2021   04:35 pm - Speaker of Parliament Mahinda Yapa Abeywardena says that a decision regarding the parliamentary seat of MP Ranjan Ramanayake, who has been sentenced to four-years in prison, will delivered within three weeks after studying the facts pertaining to him losing the seat. The Speaker made these comments after several opposition and ruling party MPs had expressed views regarding the matter at the Parliamentary session today (19). The Speaker stated that any Member of Parliament or group can make written submissions within the next two weeks, presenting facts on MP Ramanayake losing his parliamentary seat.
+
+
