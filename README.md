@@ -10545,3 +10545,53 @@
 > Created a tutorial covering how to create an interactive Excel data entry form using Python (PyQt5 to build the GUI and win32com to interact with Excel application). The tutorial is a bit over an hour long. Video link: https://youtu.be/vkpHPCK_bI0 PS: Unfortunately win32com is only available on Windows. If your operation system is MacOS or Linux, I would try xlsxwriter as alternative. submitted by /u/jiejenn [link] [comments]
 
 
+***
+![10 photo archive websites that let you lose yourself in history](https://sm.mashable.com/t/mashable_me/help/1/10-photo-a/10-photo-archive-websites-that-let-you-lose-yourself-in-hist_7q25.1200.jpg "10 photo archive websites that let you lose yourself in history")
+
+
+[10 photo archive websites that let you lose yourself in history](https://me.mashable.com/tech/12604/10-photo-archive-websites-that-let-you-lose-yourself-in-history)
+
+
+> Thousands of dedicated historians, photography enthusiasts, and archivists across the globe have spent years digitizing antique and vintage imagery to make it available for everyone to view online. Whether you're interested in a specific area or era of the past or just feeling nostalgic for different times, browsing these collections is absolutely fascinating. From missions to the moon to quirky 1930s studio portraits via vintage Vogue photoshoots, we're sure you'll find something brilliant to browse in these amazing photo archive websites.
+
+
+***
+![These are the best Garmin smartwatches you can buy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/garmin-245-music-hero-1.jpg "These are the best Garmin smartwatches you can buy")
+
+
+[These are the best Garmin smartwatches you can buy](https://www.androidcentral.com/best-garmin-smartwatch)
+
+
+> Source: Andrew Martonik / Android Central Best Garmin Smartwatch Android Central 2021 If you're both a fitness fan and a smartwatch enthusiast, you might be familiar with Garmin, which designs various wearables that cater to both the smartwatch and fitness crowds. When you're looking for a perfect mix of both, the Vivoactive 4 is the best Garmin smartwatch you can buy. Whether you're a professional athlete or a first-time runner, there are many fantastic choices here.Source: Garmin The Garmin Vivoactive 4 might be a year old now, but it's overflowing with features that make it a worthy upgrade from the previous model.
+
+
+***
+![E-scooters must follow rules of road 'same as bus'](https://ichef.bbci.co.uk/news/1024/branded_news/0C19/production/_116579030_gettyimages-1166412285-1.jpg "E-scooters must follow rules of road 'same as bus'")
+
+
+[E-scooters must follow rules of road 'same as bus'](https://www.bbc.com/news/technology-55719218)
+
+
+> By Zoe Kleinman Technology reporter image copyright Simon Czapp/Solent News & Photo Agency image caption Kyah Jordan was found guilty at Isle of Wight Magistrates' Court An Isle of Wight woman is thought to be the first person to be banned from UK roads for drink-driving an e-scooter. The magistrate told Kyah Jordan the vehicle was "the same as a moped, the same as a bus" in terms of rules the road and penalties for breaking them. The 20-year-old had hired the e-scooter after drinking with friends.
+
+
+***
+![Origami Risk Unveils Suite of Online Solutions for EHS Professionals](https://mms.businesswire.com/media/20210119005762/en/721648/23/OrigamiRiskLogo.jpg "Origami Risk Unveils Suite of Online Solutions for EHS Professionals")
+
+
+[Origami Risk Unveils Suite of Online Solutions for EHS Professionals](https://www.businesswire.com/news/home/20210119005762/en/Origami-Risk-Unveils-Suite-of-Online-Solutions-for-EHS-Professionals)
+
+
+> January 19, 2021 10:55 AM Eastern Standard Time CHICAGO--(BUSINESS WIRE)--Origami Risk, the industry-leading risk, safety and insurance Software as a Service (SaaS) technology firm, today announced the launch of a suite of web-based and mobile solutions designed specifically for environment, health, and safety (EHS) professionals. The solutions support behavior-based safety observations and inspections and audits, while facilitating faster and more efficient incident data collection and investigations, loss analytics, regulatory reporting, and compliance.
+
+
+***
+![WeChat advances e-commerce goals with $250B in transactions – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/Screen-Shot-2021-01-19-at-9.56.59-PM-e1611065072355.png?w=750 "WeChat advances e-commerce goals with $250B in transactions – TechCrunch")
+
+
+[WeChat advances e-commerce goals with $250B in transactions – TechCrunch](https://techcrunch.com/2021/01/19/wechat-2020/)
+
+
+> WeChat continues to advance its shopping ambitions as the social networking app turns 10 years old. The Chinese messenger facilitated 1.6 trillion yuan (close to $250 billion) in annual transactions through its 'mini programs,' third-party services that run on the super app that allow users to buy clothes, order food, hail taxis and more. That is double the value of transactions on WeChat's mini programs in 2019, the networking giant announced at its annual conference for business partners and ecosystem developers, which normally takes place in its home city of Guangzhou in southern China but was moved online this year due to the pandemic.
+
+
