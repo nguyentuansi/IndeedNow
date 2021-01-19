@@ -10207,3 +10207,53 @@
 > Turkey's Information and Communication Technologies Authority has imposed advertising bans on Twitter, Periscope, and Pinterest under a new social media law, according to decisions published in the country's Official Gazette on Tuesday, January 19. The law, which critics say will muzzle dissent, requires social media companies to appoint local representatives in Turkey. On Monday, Facebook joined other companies in saying it would be appointing such a representative. YouTube, owned by Alphabet Inc's Google, said a month ago it had decided to appoint a representative.
 
 
+***
+![India asks WhatsApp to remove changes to privacy policy, says unilateral amendments unfair](https://static.theprint.in/wp-content/uploads/2021/01/365985258-e1610715647501.jpg "India asks WhatsApp to remove changes to privacy policy, says unilateral amendments unfair")
+
+
+[India asks WhatsApp to remove changes to privacy policy, says unilateral amendments unfair](https://theprint.in/tech/india-asks-whatsapp-to-remove-changes-to-privacy-policy-says-unilateral-amendments-unfair/588196/)
+
+
+> Representational image | Photographer: Lionel Bonaventure | AFP/Getty Images vio Bloomberg Text Size: New Delhi: The Indian government has asked WhatsApp to withdraw the recent changes in the privacy policy of the messaging app, saying unilateral changes are not fair and acceptable. In a strongly worded letter to WhatsApp CEO Will Cathcart, the Ministry of Electronics and Information Technology said India is home to the largest user base of WhatsApp globally and is one the biggest markets for its services.
+
+
+***
+![New Acer Chromebooks for students bring 4G LTE and 20-hour battery life](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/acer-chromebook-spin-512-lifestyle.png "New Acer Chromebooks for students bring 4G LTE and 20-hour battery life")
+
+
+[New Acer Chromebooks for students bring 4G LTE and 20-hour battery life](https://www.androidcentral.com/new-acer-chromebooks-students-bring-4g-lte-and-20-hour-battery-life)
+
+
+> Source: Acer Acer expands its education collection with four new classroom-ready Chromebooks. The Acer Chromebook Spin 511 and Spin 512 offer processor and durability upgrades over their predecessors. The Acer Chromebook 511 is a Snapdragon 7c-powered Chromebook with LTE and — somehow — up to 20 hours of battery life. The Acer Chromebook 311 is a rugged clamshell version of the Acer Chromebook Spin 311 (3H) we saw last summer, this time with battery claims of up to 20 hours. Acer's been cranking out the Chromebooks recently, including the Ryzen-powered Acer Chromebook Spin 514 that debuted just last week at CES 2021, and it's showing no signs of slowing down.
+
+
+***
+![Trendsetting Nordics Region Dives Deeper into Data Analytics](https://mms.businesswire.com/media/20210119005312/en/1016900/23/ISG_%28R%29_Logo.jpg "Trendsetting Nordics Region Dives Deeper into Data Analytics")
+
+
+[Trendsetting Nordics Region Dives Deeper into Data Analytics](https://www.businesswire.com/news/home/20210119005312/en/Trendsetting-Nordics-Region-Dives-Deeper-into-Data-Analytics)
+
+
+> January 19, 2021 04:00 AM Eastern Standard Time STOCKHOLM--(BUSINESS WIRE)--Enterprises in the Nordic countries, already ahead of other parts of Europe in the use of data analytics, continue to adopt these technologies as they grapple with the effects of the COVID-19 pandemic and look for insights that will help them grow, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2020 ISG Provider Lens™ Analytics – Solutions and Service Partners report for the Nordics finds many organizations in the region continue to invest in analytics capabilities amid the pandemic.
+
+
+***
+![Behavior Driven Development with JUnit 5. Part 1](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Behavior Driven Development with JUnit 5. Part 1")
+
+
+[Behavior Driven Development with JUnit 5. Part 1](https://www.reddit.com/r/programming/comments/l0g23q/behavior_driven_development_with_junit_5_part_1/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Rare deal drops Google Pixel 4a 5G back down to its all-time low price](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/google-pixel-4a-5g-review-hayato-7.jpg "Rare deal drops Google Pixel 4a 5G back down to its all-time low price")
+
+
+[Rare deal drops Google Pixel 4a 5G back down to its all-time low price](https://www.androidcentral.com/rare-deal-drops-google-pixel-4a-5g-back-down-its-all-time-low-price)
+
+
+> If you're looking for a cheap Android phone, especially one with a great camera, you ought to set your sights on Google's Pixel 4a series. The 5G version of the phone might have been slightly out of some people's budgets at launch, you can currently score one at $40 off via Amazon, dropping it back down to its best-ever price of $459. The Google Pixel 4a 5G rarely falls in price, and we don't know how long this discount will last, so it's a deal well worth jumping on if you're in the market for a 5G upgrade.
+
+
