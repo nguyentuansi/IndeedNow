@@ -9910,3 +9910,50 @@
 > January 18, 2021 09:00 PM Eastern Standard Time SINGAPORE--(BUSINESS WIRE)--TestingXperts (Tx), a next-gen QA & Software Testing Services provider, co-headquartered in London, UK and Pennsylvania, USA, announced the expansion of its operations in the Asia Pacific, Middle East and Africa (APMEA) region with its new office in Singapore and appointment of APMEA Regional Head Niranjan Kumar, who is based out of Singapore and brings more than 20+ years of experience in various business functions such as business strategy, business development and key account management with excellent exposure in Asia Pacific markets.
 
 
+***
+![You can now find volunteer opportunities near you in Apple Maps](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/volunteer-match-logo.jpg "You can now find volunteer opportunities near you in Apple Maps")
+
+
+[You can now find volunteer opportunities near you in Apple Maps](https://www.imore.com/you-can-now-find-volunteer-opportunities-near-you-apple-maps)
+
+
+> Source: VolunteerMatch Apple has been adding a lot of new content to Apple Maps that provides guides from trusted sources on things like the best food, parks, and more to visit when you are in some major cities across the United States. Now, the company is trying to use its mapping service to match would-be volunteers with volunteer opportunities in their area. As reported by CNET, Apple has partnered with VolunteerMatch to help volunteers find COVID-safe ways to give back to their communities. The new feature is built into Apple's Maps program on its iPhones and iPads.
+
+
+***
+![Parler partially reappears with support from Russian technology firm](https://images.indianexpress.com/2021/01/parler-4.jpg "Parler partially reappears with support from Russian technology firm")
+
+
+[Parler partially reappears with support from Russian technology firm](https://indianexpress.com/article/technology/tech-news-technology/parler-partially-reappears-with-support-from-russian-technology-firm-7152124/)
+
+
+> Parler, a social media website and app popular with the American far right, has partially returned online with the help of a Russian-owned technology company. Parler vanished from the internet when dropped by Amazon Inc's hosting arm and other partners for poor moderation after its users called for violence and posted videos glorifying the Jan. 6 attack on the US Capitol. On Monday, Parler's website was reachable again, though only with a message from its chief executive saying he was working to restore functionality.
+
+
+***
+![Apple's AirPods Max are great headphones at an out-of-control price](https://static.ffx.io/images/$zoom_0.3883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_106%2C$y_5/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/55cab69c8f99ef3d86c9d1540dd8f030b164f442 "Apple's AirPods Max are great headphones at an out-of-control price")
+
+
+[Apple's AirPods Max are great headphones at an out-of-control price](https://www.smh.com.au/technology/apple-s-airpods-max-are-great-headphones-at-an-out-of-control-price-20210118-p56uzf.html)
+
+
+> Consumer headphones have been steadily rising in complexity and connectivity for a while now, with increases in price to match. Ten years ago $300 was the price for very good consumer headphones that'd last you ages, but recently Sony, Sennheiser, Bose and others have pushed the price to $500 for the latest and greatest.But with the $899 AirPods Max, Apple may have gone too far. I have a couple of pairs of headphones in my collection that would have cost around that amount at retail, and I've certainly drooled over pairs that cost up to $25,000, but this is a new upper limit for "mainstream' headphones.
+
+
+***
+[Apple's AirPods Max are great headphones at an out-of-control price](https://www.watoday.com.au/technology/apple-s-airpods-max-are-great-headphones-at-an-out-of-control-price-20210118-p56uzf.html?ref=rss&utm_medium=rss&utm_source=rss_feed)
+
+
+> Headphones approaching $1000 is not a new thing, but it's an extreme ask for a mainstream product.
+
+
+***
+![Its not much but Its really cool! I also got an esp8266 alongside it for other projects!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Its not much but Its really cool! I also got an esp8266 alongside it for other projects!")
+
+
+[Its not much but Its really cool! I also got an esp8266 alongside it for other projects!](https://www.reddit.com/r/programming/comments/l0a9nn/its_not_much_but_its_really_cool_i_also_got_an/)
+
+
+> Its not much but Its really cool! I also got an esp8266 alongside it for other projects!
+
+
