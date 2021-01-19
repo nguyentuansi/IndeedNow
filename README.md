@@ -10833,3 +10833,50 @@
 > January 19, 2021 04:41 PM Eastern Standard Time VANCOUVER, British Columbia--(BUSINESS WIRE)--AbCellera (Nasdaq: ABCL), a technology company with a centralized operating system for next-generation antibody discovery, today announced it has expanded its intellectual property (IP) portfolio to include its Trianni Mouse® technology. AbCellera uses the transgenic animal technology to generate fully human monoclonal antibodies for its drug discovery programs with biotech and pharma partners. The United States Patent and Trademark Office (USPTO) issued patent no.
 
 
+***
+![You can now battle Mega Ampharos in Pokémon Go](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/pokemon-go-mareep-mega-ampharos.jpg "You can now battle Mega Ampharos in Pokémon Go")
+
+
+[You can now battle Mega Ampharos in Pokémon Go](https://www.imore.com/niantic-announces-mega-ampharos-and-upcoming-incense-day)
+
+
+> Source: Niantic Niantic surprised players with the launch of Mega Ampharos to Mega Raids in Pokémon Go today, January 19, 2021. This Dragon and Electric type Mega Pokémon has taken over Mega Raids, alongside Mega Venusaur and Mega Houndoom. To help celebrate Mega Ampharos' debut, there will be an Incense Day event on Sunday, January 24, from 11 AM to 5 PM local time. During this event, any Incense activated will lure Electric type Pokémon, Dragon type Pokémon, and Pokémon that evolve into Dragon types.
+
+
+***
+![Netflix hits 200 million subscribers milestone](https://static.standard.co.uk/2021/01/15/10/BRIDGERTON_108_Unit_01959R.jpg?width=1200 "Netflix hits 200 million subscribers milestone")
+
+
+[Netflix hits 200 million subscribers milestone](https://www.standard.co.uk/tech/netflix-hits-200-million-subscribers-milestone-b900387.html)
+
+
+> Netflix now has passed the 200 million milestone of subscribers around the world, the streaming giant said.It attracted 8.5 million subscribers between October and December 2020, for a record total of 37 million added over the year, the company said.Netflix's annual revenue was $25 billion (£18.3 billion), a 24 per cent rise on the previous year, it said in a quarterly letter to shareholders.Its subscriber numbers mean it is far and away the most popular streaming platform in an increasingly competitive market.
+
+
+***
+![Rachel Levine, Biden's Pick For Assistant Health Secretary, Poised To Become First Openly Trans Senate-Confirmed Official](https://images.digg.com/aHR0cHM6Ly9jZG4uZGlnZy5jb20vc3VibWl0dGVkLWxpbmtzLzE2MTEwOTQ2MjBiLmpwZw-730-400.jpg "Rachel Levine, Biden's Pick For Assistant Health Secretary, Poised To Become First Openly Trans Senate-Confirmed Official")
+
+
+[Rachel Levine, Biden's Pick For Assistant Health Secretary, Poised To Become First Openly Trans Senate-Confirmed Official](https://digg.com/news/link/biden-selects-doctor-rachel-levine-as-assistant-health-secretary-making-her-the-first-openly-transgender-federal-official-DZB5zTibPy)
+
+
+> Facebook Twitter "She is a historic and deeply qualified choice to help lead our administration's health efforts," Joe Biden said of Rachel Levine. As assistant health secretary under Xavier Becerra, Biden's pick for head of the Department of Health and Human Services, Levine would become the highest-ranking transgender official and would manage 10 regional health offices nationwide, the Office of the Surgeon General and the US Public Health Service Commission Corps. Previously, Levine was confirmed three times by Pennsylvanias's Republican-majority Senate as Pennsylvania's secretary of health, and in 2015 she was confirmed unanimously as the state's physician general.
+
+
+***
+[Netflix says its "Shuffle Play" feature, which lets Netflix's algorithm choose what you watch next, will roll out globally to all users in H1 2021 (Sarah Perez/TechCrunch)](http://www.techmeme.com/210119/p31#a210119p31)
+
+
+> Sarah Perez / TechCrunch: Netflix says its “Shuffle Play” feature, which lets Netflix's algorithm choose what you watch next, will roll out globally to all users in H1 2021 — Netflix is always in search of a better way to instantly connect users to something to watch, instead of having them waste …
+
+
+***
+![Entegris to Report Results for Fourth Quarter of 2020 on Tuesday, February 2, 2021](https://mms.businesswire.com/media/20210119006120/en/804442/23/ENTG-logo-Businesswire.jpg "Entegris to Report Results for Fourth Quarter of 2020 on Tuesday, February 2, 2021")
+
+
+[Entegris to Report Results for Fourth Quarter of 2020 on Tuesday, February 2, 2021](https://www.businesswire.com/news/home/20210119006120/en/Entegris-to-Report-Results-for-Fourth-Quarter-of-2020-on-Tuesday-February-2-2021)
+
+
+> January 19, 2021 05:38 PM Eastern Standard Time BILLERICA, Mass.--(BUSINESS WIRE)--Entegris, Inc. (NASDAQ: ENTG), will release its financial results for the fourth quarter of 2020 before the opening of the market on Tuesday, February 2, 2021. A teleconference with management is scheduled for the same day at 9:00 a.m. Eastern Time (ET). Participants should dial +1 323-289-6576 or 800-437-2398, referencing confirmation code 9608918. Participants are asked to dial in 5 to 10 minutes prior to the start of the call.
+
+
