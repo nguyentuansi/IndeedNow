@@ -10498,3 +10498,50 @@
 > January 19, 2021 09:05 AM Eastern Standard Time WASHINGTON, D.C.--(BUSINESS WIRE)--EVERFI, Inc., the leading social impact education innovator, released the findings of a new survey revealing that many employers do not have adequate protections in place to prevent retaliation against whistleblowers. Survey data also reveals that organizations that do prioritize and take proactive steps to prevent retaliation report far fewer incidents. Retaliation is the most common claim of workplace discrimination by far and has been for the past decade.
 
 
+***
+![Top 10 Best Smart Lights – Updated January 2021](https://www.androidheadlines.com/wp-content/uploads/2020/09/Philips-Hue-Iris_lifestyle-living-room.jpg "Top 10 Best Smart Lights – Updated January 2021")
+
+
+[Top 10 Best Smart Lights – Updated January 2021](https://www.androidheadlines.com/best-smart-lights-alexa-google-assistant-ifttt)
+
+
+> Smart home gadgets are pretty cool, and smart lights are always the first thing most people think about when it comes to smart home gadgets. Which makes sense. As they are easy to install and add to your home, and relatively cheap too. But there are thousands of them available on the market right now. From pretty cheap, to pretty pricey – we're talking hundreds of dollars. So which ones are the best for your new smart home?We've rounded up the very best smart lights that you can buy for your home.
+
+
+***
+![Wolters Kluwer's CT Corporation Unveils UCC Hub](https://mms.businesswire.com/media/20210119005696/en/516811/23/WK_H_01_Pos_RGB_0072_Color.jpg "Wolters Kluwer's CT Corporation Unveils UCC Hub")
+
+
+[Wolters Kluwer's CT Corporation Unveils UCC Hub](https://www.businesswire.com/news/home/20210119005696/en/Wolters-Kluwer%E2%80%99s-CT-Corporation-Unveils-UCC-Hub)
+
+
+> NEW YORK--(BUSINESS WIRE)--Wolters Kluwer CT Corporation has launched UCC Hub, a total UCC filing solution that combines the award-winning IntelliChart and UCC Filing Hub technologies. With automation and workflow capabilities, UCC Hub provides law firm professionals with the most intuitive UCC filing application available. UCC Hub provides users with an end-to-end UCC due diligence workflow solution for corporate transactions, including M&A, financing, and real estate deals. Integrating search results charting from IntelliChart with existing UCC filing and on-going UCC management automation creates a complete UCC workflow for law firms to use across the entire UCC lifecycle.
+
+
+***
+![Asia Pacific Airport Antenna Market Forecast to 2027](https://mms.businesswire.com/media/20210119005689/en/371054/23/ResearchAndMarkets_800px.jpg "Asia Pacific Airport Antenna Market Forecast to 2027")
+
+
+[Asia Pacific Airport Antenna Market Forecast to 2027](https://www.businesswire.com/news/home/20210119005689/en/Asia-Pacific-Airport-Antenna-Market-Forecast-to-2027---COVID-19-Impact-and-Regional-Analysis---ResearchAndMarkets.com)
+
+
+> January 19, 2021 09:50 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Asia Pacific Airport Antenna Market Forecast to 2027 - COVID-19 Impact and Regional Analysis by Airport Type, Antenna Type, Frequency Band, and Application" report has been added to ResearchAndMarkets.com's offering. According to a new market research study the market is expected to reach US$ 416.06 million by 2027 from US$ 242.32 million in 2019. The market is estimated to grow at a CAGR of 7.1% from 2020 to 2027. The report provides trends prevailing in the APAC airport antenna market along with the drivers and restraints pertaining to the market growth.
+
+
+***
+![Twelve South Announces ParcSlope Stand for MacBook and iPad](https://images.macrumors.com/t/SDvZt0MEFpGtoIftsbJ3srnL2uU=/2880x/https://images.macrumors.com/article-new/2021/01/twelve-south-parcstand.jpeg "Twelve South Announces ParcSlope Stand for MacBook and iPad")
+
+
+[Twelve South Announces ParcSlope Stand for MacBook and iPad](https://www.macrumors.com/2021/01/19/twelve-south-announces-parcslope-stand/)
+
+
+> Accessory maker Twelve South has today announced the dual-purpose ParcSlope stand for MacBook and iPad, offering improved comfort and airflow. Users can benefit from better ergonomics and cooling for MacBooks, while iPads can take advantage of the stand's 18-degree angle for typing or sketching with Apple Pencil. The stand can hold every ‌iPad‌ model, except the iPad mini, in landscape or portrait mode. Like many other popular Twelve South stands, ParcSlope is constructed from a single piece of metal, offers built-in cable management, and is available in matte black.
+
+
+***
+[Create an Excel Data Entry form using Python (PyQt5 + win32com)](https://www.reddit.com/r/Python/comments/l0l4gq/create_an_excel_data_entry_form_using_python/)
+
+
+> Created a tutorial covering how to create an interactive Excel data entry form using Python (PyQt5 to build the GUI and win32com to interact with Excel application). The tutorial is a bit over an hour long. Video link: https://youtu.be/vkpHPCK_bI0 PS: Unfortunately win32com is only available on Windows. If your operation system is MacOS or Linux, I would try xlsxwriter as alternative. submitted by /u/jiejenn [link] [comments]
+
+
