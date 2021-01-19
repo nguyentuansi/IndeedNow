@@ -10692,3 +10692,47 @@
 > © Reuters. By Raphael Satter WASHINGTON (Reuters) - Cybersecurity company Malwarebytes said on Tuesday that some of its emails were breached by the same hackers who used the software company SolarWinds to hack into a series of U.S. government agencies. In a statement, the Santa Clara, California-based company said that while it did not use software made by SolarWinds, the software company at the center of the breach, it had been successfully targeted by the same set of hackers using a different technique.
 
 
+***
+![Halted rocket test could stall NASA moon shot, redo possible](https://s.abcnews.com/images/Technology/WireAP_5b0e98c049d346eeb728b388736e7bdd_16x9_992.jpg "Halted rocket test could stall NASA moon shot, redo possible")
+
+
+[Halted rocket test could stall NASA moon shot, redo possible](https://abcnews.go.com/Technology/wireStory/halted-rocket-test-stall-nasa-moon-shot-redo-75347368)
+
+
+> CAPE CANAVERAL, Fla. -- NASA is considering a second firing of its moon rocket engines after a critical test came up short over the weekend, a move that could bump the first flight in the Artemis lunar-landing program into next year. The space agency had aimed to launch its new Space Launch System, or SLS, rocket and an empty Orion capsule by the end of this year, with the capsule flying to the moon and back as a prelude to crew missions. But that date could be in jeopardy following Saturday's aborted test.
+
+
+***
+[The top iPhone and iPad apps on App Store](https://abcnews.go.com/Technology/wireStory/top-iphone-ipad-apps-app-store-75344771)
+
+
+> Top Paid iPhone Apps: 1. Minecraft, Mojang 2. Bloons TD 6, Ninja Kiwi 3. Procreate Pocket, Savage Interactive Pty Ltd 4. Heads Up!, Warner Bros. 5. Monopoly, Marmalade Game Studio 6. Incredibox, So Far So Good 7. Geometry Dash, RobTop Games AB 8. Plague Inc., Ndemic Creations 9. Da Vinci Eye: AR Art Projector, Cube MG LLC 10. Grand Theft Auto: San Andreas, Rockstar Games Top Free iPhone Apps: 1. Signal - Private Messenger, Signal Messenger, LLC 2. Telegram Messenger, Telegram FZ-LLC 3. TikTok, TikTok Pte.
+
+
+***
+[Lumentum buys Coherent in $5.7B push into lasers, photonics](https://abcnews.go.com/Technology/wireStory/lumentum-buys-coherent-57b-push-lasers-photonics-75343623)
+
+
+> Lumentum Holdings will spend $5.7 billion in cash and stock to buy Coherent and expand its reach into lasers and photonics. The San Jose, California, company said Tuesday that it would pay a 49% premium to the closing price of Coherent shares on Friday. The deal includes $100 in cash and slightly more than one share of Lumentum for each Coherent share. Shares of Coherent jumped 34% after markets opened Tuesday, while Lumentum's stock fell more than 10%. Santa Clara, California-based Coherent Inc.
+
+
+***
+![Russia's SolarWinds hack has no easy fix, cybersecurity company says](https://media1.s-nbcnews.com/j/rockcms/2021-01/259/210119-moscow-red-square-se-1150a-a97afd_b9a7e647f8512d390d23f296ef854200b37460df.nbcnews-fp-1200-630.jpg "Russia's SolarWinds hack has no easy fix, cybersecurity company says")
+
+
+[Russia's SolarWinds hack has no easy fix, cybersecurity company says](https://www.nbcnews.com/tech/security/russias-solarwinds-hack-no-easy-fix-cybersecurity-company-says-rcna227)
+
+
+> Efforts to assess the impact of a more than seven-month-old cyberespionage campaign blamed on Russia — and boot the intruders — remain in their early stages, says the cybersecurity firm that discovered the attack. The hack has badly shaken the U.S. government and private sector. The firm, FireEye, released a tool and  a white paper Tuesday  to help potential victims scour their cloud-based installations of Microsoft 365 — where users' emails, documents and collaborative tools reside — to determine if hackers broke in and remain active.
+
+
+***
+![[D] Apple AI residency program coding stage invitation](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] Apple AI residency program coding stage invitation")
+
+
+[[D] Apple AI residency program coding stage invitation](https://www.reddit.com/r/MachineLearning/comments/l0s3fi/d_apple_ai_residency_program_coding_stage/)
+
+
+> Hey guys, just wanted to check if anyone received the hackerrank link to do the coding assessment from the 2021 residency program. Just wanted to know if everyone that applied receives this or if you already have to go through a selection process to receive this invitation. Thanks and good luck to anyone here that also applied :)
+
+
