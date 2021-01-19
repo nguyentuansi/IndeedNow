@@ -10595,3 +10595,50 @@
 > WeChat continues to advance its shopping ambitions as the social networking app turns 10 years old. The Chinese messenger facilitated 1.6 trillion yuan (close to $250 billion) in annual transactions through its 'mini programs,' third-party services that run on the super app that allow users to buy clothes, order food, hail taxis and more. That is double the value of transactions on WeChat's mini programs in 2019, the networking giant announced at its annual conference for business partners and ecosystem developers, which normally takes place in its home city of Guangzhou in southern China but was moved online this year due to the pandemic.
 
 
+***
+![Halted rocket test could stall NASA moon shot, redo possible](https://www.clickondetroit.com/resizer/jT7E1iYcpCmIObkfzXzyxdtLEhA=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/X2Q3JBM4AVBODPIN6FBTVMYUJU.jpg "Halted rocket test could stall NASA moon shot, redo possible")
+
+
+[Halted rocket test could stall NASA moon shot, redo possible](https://www.clickondetroit.com/tech/2021/01/19/halted-rocket-test-could-stall-nasa-moon-shot-redo-possible/)
+
+
+> CAPE CANAVERAL, Fla. – NASA is considering a second firing of its moon rocket engines after a critical test came up short over the weekend, a move that could bump the first flight in the Artemis lunar-landing program into next year. The space agency had aimed to launch its new Space Launch System, or SLS, rocket and an empty Orion capsule by the end of this year, with the capsule flying to the moon and back as a prelude to crew missions. But that date could be in jeopardy following Saturday's aborted test.
+
+
+***
+![Samsung S21 deals: Virgin's pre-orders offer free headphones, tablets and more](https://cdn.mos.cms.futurecdn.net/hpKw5pukbjKPjFJKxbrj9c-1200-80.jpg "Samsung S21 deals: Virgin's pre-orders offer free headphones, tablets and more")
+
+
+[Samsung S21 deals: Virgin's pre-orders offer free headphones, tablets and more](https://www.techradar.com/news/samsung-s21-deals-virgins-pre-orders-offer-free-headphones-tablets-and-more)
+
+
+> (Image credit: Future) Bringing forward its annual Unpacked event, Samsung has gone ahead and unveiled its 2021 flagship handsets. Beautifully coinciding with the year, the Samsung Galaxy S21, S21 Plus and S21 Ultra are here, following the same pattern as previous years by offering a whole entourage of models rather than one single handset.A handset for each budget, then, Virgin Mobile is making sure you secure even better value for money with its bundle deal across all three of the brand spanking new handsets.
+
+
+***
+[Bose Quiet Comfort QC35 II noise-cancelling headphones down to £200 in John Lewis sale](https://www.the-sun.com/lifestyle/tech/2169296/bose-quiet-comfort-qc35-ii-john-lewis-sale/)
+
+
+> GREAT headphones are an investment and come with a premium price to match. Bose's QuietComfort QC35 II model fits that description, but the much-loved model is now that bit cheaper Previously priced at £230, you can now pick up the noise-cancelling cans for £199. We spotted the deal in the John Lewis winter sale event, […]
+
+
+***
+![Bose Quiet Comfort QC35 II noise-cancelling headphones down to £200 in John Lewis sale](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/01/qc35-II_2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bose Quiet Comfort QC35 II noise-cancelling headphones down to £200 in John Lewis sale")
+
+
+[Bose Quiet Comfort QC35 II noise-cancelling headphones down to £200 in John Lewis sale](https://www.thesun.co.uk/tech/13790387/bose-quiet-comfort-qc35-ii-john-lewis-sale/)
+
+
+> GREAT headphones are an investment and come with a premium price to match. Bose's QuietComfort QC35 II model fits that description, but the much-loved model is now that bit cheaper Save £30 on Bose's premium noise-cancelling headphones Previously priced at £230, you can now pick up the noise-cancelling cans for £199. We spotted the deal in the John Lewis winter sale event, but the retailer isn't the only place to get them at the lower price. Bose QuietComfort QC35 II headphones, £199 (save £30) - buy here Amazon has also dropped its price for the QC 35 II to £199, providing another option to buy.
+
+
+***
+![Open sourcing my automated job board built using Django](https://external-preview.redd.it/GVF1SgVlsYylfeqkAQajlJ9wKfJWql9X4YLBDfzi7Lg.jpg?auto=webp&s=0ae31e93c6f95f8f9012ddc0f5f35e7006104a09 "Open sourcing my automated job board built using Django")
+
+
+[Open sourcing my automated job board built using Django](https://www.reddit.com/r/Python/comments/l0pt0v/open_sourcing_my_automated_job_board_built_using/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
