@@ -9819,3 +9819,50 @@
 > Pieces of a Woman starring Vanessa Kirby (right). Netflix If you're stuck in the endless Netflix scroll, hopefully this list will help you decide what to watch. Occasionally Netflix brings in big directors to serve up originals that make it all the way to the Oscars. But it's also got an abundance of smaller stories perfect for a modestly sized screen. Fingers crossed you'll find something here that hits the spot.Read more: The 50 best TV shows to watch on Netflix Netflix Falling into the movies that make you cry category, Pieces of a Woman is an emotional well that'll steep you in melancholy.
 
 
+***
+![TikTok personality shares wild conspiracy theory about how MLK ‘really' died](https://uploads.dailydot.com/2021/01/tiktok-mlk-conspiracy.jpg?fm=pjpg&ixlib=php-3.3.0 "TikTok personality shares wild conspiracy theory about how MLK ‘really' died")
+
+
+[TikTok personality shares wild conspiracy theory about how MLK ‘really' died](https://www.dailydot.com/irl/tiktok-personality-shares-mlk-death-conspiracy-theory/)
+
+
+> TikTok personality A'Niya Heckard shared a video on the platform that delves into how Martin Luther King, Jr. 'really' died—and it's gaining new virality on the holiday celebrating the slain Civil Rights leader, even though its origins are questionable. Share this article *First Published: Jan 18, 2021, 6:32 pm Phil West is a veteran professional writer and editor, and the author of two books on soccer, ‘The United States of Soccer,' and ‘I Believe That We Will Win,' both from The Overlook Press.
+
+
+***
+![There are almost 300 Apple Fitness+ workouts a month after launch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/apple-fitness-plus-trainers.jpg "There are almost 300 Apple Fitness+ workouts a month after launch")
+
+
+[There are almost 300 Apple Fitness+ workouts a month after launch](https://www.imore.com/there-are-almost-300-apple-fitness-workouts-month-after-launch)
+
+
+> 300 Apple Fitness+ is closing in on a new milestone. 18 Jan 2021 Source: Apple Apple has added over two dozen new workouts to Apple Fitness+. The total number of workouts now available are 293. As reported by MacRumors, Apple has just added another two dozen workouts to Apple Fitness+, its on-demand workout subscription service. Bakari, one of the Apple Fitness+ trainers, introduced a bunch of the new workouts in a new motivational video: Here at Fitness+ more than two dozen workouts just dropped, like Sam's 30-minute treadmill which challenges your endurance, whether you're walking or running.
+
+
+***
+![Spaniards killed women, kids over slaying of conquistadores](https://s.abcnews.com/images/Technology/WireAP_e626cee954544cb58c0a9ec9b0cc2122_16x9_992.jpg "Spaniards killed women, kids over slaying of conquistadores")
+
+
+[Spaniards killed women, kids over slaying of conquistadores](https://abcnews.go.com/Technology/wireStory/spaniards-killed-women-kids-slaying-conquistadores-75330713)
+
+
+> MEXICO CITY -- New research suggests Spanish conquistadores butchered at least a dozen women and their children in an Aztec-allied town where the inhabitants sacrificed and ate a detachment of Spaniards they had captured months earlier. The National Institute of Anthropology and History published findings Monday from years of excavation work at the town of Tecoaque, which means 'the place where they ate them' in the Nahuatl language of the Aztecs. Residents of Tecoaque, also known as Zultepec, captured a convoy of about 15 male Spaniards, 50 women and 10 children, 45 foot soldiers who included Cubans of African and Indigenous descent, and about 350 allies from Indigenous groups in 1520.
+
+
+***
+![Biden says his advisers will lead with 'science and truth'](https://s.abcnews.com/images/Technology/WireAP_93e1a4f178b943f1b84656bd365c48bd_16x9_992.jpg "Biden says his advisers will lead with 'science and truth'")
+
+
+[Biden says his advisers will lead with 'science and truth'](https://abcnews.go.com/Technology/wireStory/correction-biden-science-story-75329323)
+
+
+> WILMINGTON, Del. -- In a dig at the outgoing Trump administration, President-elect Joe Biden introduced his slate of scientific advisers Saturday with the promise that they would summon 'science and truth' to combat the coronavirus pandemic, climate crisis and other challenges. 'This is the most exciting announcement I've gotten to make,' Biden said after weeks of Cabinet and other nominations and appointments. 'This is a team that is going to help restore your faith in America's place in the frontier of science and discovery.
+
+
+***
+[PS5 stock checker UK – New Playstation 5 stock TODAY at Argos, GAME, Currys, Amazon + Tesco pre-orders & Dell bundles](https://www.thesun.ie/tech/6169841/ps5-stock-checker-uk-tesco-argos-very-game-currys-amazon-live/)
+
+
+> FOLLOWING its November release, gamers have found it impossible to bag themselves the coveted PS5. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release […]
+
+
