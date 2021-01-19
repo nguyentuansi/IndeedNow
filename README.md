@@ -10257,3 +10257,53 @@
 > If you're looking for a cheap Android phone, especially one with a great camera, you ought to set your sights on Google's Pixel 4a series. The 5G version of the phone might have been slightly out of some people's budgets at launch, you can currently score one at $40 off via Amazon, dropping it back down to its best-ever price of $459. The Google Pixel 4a 5G rarely falls in price, and we don't know how long this discount will last, so it's a deal well worth jumping on if you're in the market for a 5G upgrade.
 
 
+***
+![Why are Instagram accounts of celebrities getting hacked and how can you protect yourself from the ‘Copyright Scam'](https://images.indianexpress.com/2021/01/Instagram_BLOOMBERG_1.jpg "Why are Instagram accounts of celebrities getting hacked and how can you protect yourself from the ‘Copyright Scam'")
+
+
+[Why are Instagram accounts of celebrities getting hacked and how can you protect yourself from the ‘Copyright Scam'](https://indianexpress.com/article/technology/social/why-are-instagram-accounts-of-celebrities-getting-hacked-and-how-can-you-protect-yourself-from-the-copyright-scam-7152693/)
+
+
+> What do Urmila Matondkar, Ameesha Patel, Tabu, Sussane Khan, Vikrant Massey and Esha Deol have in common? All of these celebrities have fallen victim to an Instagram phishing campaign and lost access to their accounts. On Tabu's account, which was hacked Monday, hackers posted a promotion post asking her 1.9 million followers to download a board game app. Tabu later posted a link on her Stories asking followers not to click or open any links sent from her account. The ‘Instagram Copyright' scam as it is being called is quite common and many celebrities and brand accounts have already fallen victim to this.
+
+
+***
+![Claret Capital Partners Announces Fund III](https://mms.businesswire.com/media/20210119005479/en/853001/23/BURGUNDY_PR.jpg "Claret Capital Partners Announces Fund III")
+
+
+[Claret Capital Partners Announces Fund III](https://www.businesswire.com/news/home/20210119005479/en/Claret-Capital-Partners-Announces-Fund-III)
+
+
+> January 19, 2021 05:11 AM Eastern Standard Time LONDON--(BUSINESS WIRE)--Claret Capital Partners Limited ('Claret') (formerly Harbert European Growth Capital), is pleased to announce the first closing of their third fund. Fund III will continue to invest in innovative growth stage tech and life science businesses throughout Europe primarily to support organic growth and M&A. Claret Capital Partners was formed through the MBO of Harbert European Growth Capital in 2020. Over the past seven years, the team behind Claret Capital has become one of the preeminent providers of growth debt to SMEs in Europe, investing in excess of half a billion euro.
+
+
+***
+![VLC media player gets native Apple silicon support](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/vlc-m1.jpg "VLC media player gets native Apple silicon support")
+
+
+[VLC media player gets native Apple silicon support](https://www.imore.com/vlc-media-player-gets-native-apple-silicon-supoprt)
+
+
+> M1 Version 3.0.12 'Vetinari' is now available. 19 Jan 2021 Source: VideoLAN VideoLAN has updated VLC Media Player with support for Apple silicon and macOS Big Sur improvements. VideoLAN has upgraded its VLC Media Player software with support for Apple Silicon and macOS Big Sur improvements. In a tweet Monday VideoLAN stated: VLC 3.0.12 is now out! Support for Apple Silicon (Mac M1) and Big Sur, improvements for DASH, RIST, Bluray support, fixes for macOS audio, Windows GPU, crashes and security issues.
+
+
+***
+![Apple Macs with M1 chip reportedly hit by annoying screensaver bug](https://cdn.mos.cms.futurecdn.net/RPi94k299kpa3GjZhJ675D-1200-80.jpg "Apple Macs with M1 chip reportedly hit by annoying screensaver bug")
+
+
+[Apple Macs with M1 chip reportedly hit by annoying screensaver bug](https://www.techradar.com/news/apple-macs-with-m1-chip-reportedly-hit-by-annoying-screensaver-bug)
+
+
+> (Image credit: Future) Apple Macs which have the new M1 chip inside have been suffering reported issues with Bluetooth devices , and now further reports are emerging of problems with a bug that randomly pops up the screensaver – with no easy way to dismiss it. MacRumors highlighted the problem which seems to be affecting folks who have multiple user accounts on their Mac, and is apparently a bug in macOS Big Sur's Fast User Switching system. The latter allows for convenient and quick switching between accounts, requiring no logging out (note that this feature has to be enabled in Big Sur, though).
+
+
+***
+![Android 12 could let you hibernate apps, and we now know more about the feature](https://cdn.mos.cms.futurecdn.net/mJAYdoCWDREBqNHsB6t96G-1200-80.jpg "Android 12 could let you hibernate apps, and we now know more about the feature")
+
+
+[Android 12 could let you hibernate apps, and we now know more about the feature](https://www.techradar.com/news/android-12-could-let-you-hibernate-apps-and-we-now-know-more-about-the-feature)
+
+
+> (Image credit: Srivatsa Ramesh) Not so long ago we heard about an intriguing feature that looks to be coming to Android 12 , namely app hibernation. An initial mention of it in Android code suggested that the feature would allow you to put apps that aren't being used into a state of hibernation, which would optimize their storage use, but details of the feature were light, until now. While there are still a lot of unanswered questions, a few details have been seen in new Android code changes, spotted by Mishaal Rahman (editor-in-chief of XDA Developers).
+
+
