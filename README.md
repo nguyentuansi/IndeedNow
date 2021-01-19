@@ -9866,3 +9866,47 @@
 > FOLLOWING its November release, gamers have found it impossible to bag themselves the coveted PS5. New stock drops at the likes of Currys, Argos, Game, Smyths and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release […]
 
 
+***
+![Motoring giant gambles on fast-car future](https://content.api.news/v3/images/bin/52d0ded78845517d24b95274397eef41 "Motoring giant gambles on fast-car future")
+
+
+[Motoring giant gambles on fast-car future](https://www.news.com.au/technology/motoring/motoring-news/renault-gambles-its-performance-future-on-alpine/news-story/f344e397fcd633509f64b99a5dfc4410)
+
+
+> One of the world's largest car companies is betting big on a relatively unknown name as it prepares for a challenging future in the automotive industry.The French giant has announced that there will be no more Renault Sport hot hatches in the future, signalling an end to affordable performance cars such as the Megane and Clio RS.Instead, any performance cars made by the French giant will wear Alpine badges currently found on the niche A110 sports car.Renault says Alpine is 'the epitome of French motoring', and a brand 'with heritage and pedigree'.
+
+
+***
+[Tech giants are bracing for tougher regulation under Biden's administration, as Democrats' calls for regulation have become more urgent after Capitol attacks (Washington Post)](http://www.techmeme.com/210118/p15#a210118p15)
+
+
+> Washington Post: Tech giants are bracing for tougher regulation under Biden's administration, as Democrats' calls for regulation have become more urgent after Capitol attacks — The Democratic Party's calls for regulation have grown more urgent in the days since Biden won the presidency …
+
+
+***
+![What can Apple do for me?](https://images.macrumors.com/social/?t=2280910&v=6 "What can Apple do for me?")
+
+
+[What can Apple do for me?](https://forums.macrumors.com/threads/what-can-apple-do-for-me.2280910/)
+
+
+> Feb 8, 2012 1,212 1,039 Earth I'm a Linux / Windows *shutters slightly* / android user recently rubbernecking Apple... I've only lightly dabbled with Apple's stuff, actually bought more when I had itunes on an old windows xp box? I've gotten a few Apple items throughout the years, wasn't too into their offerings. A couple iPods (actually dug the scroll wheel) although the interface with itunes was an abomination (seriously, moved a new hard drive into my PC and ended up switching drive letters and next sync with itunes and my pre touch screen ipod, it completely removed my music and just left the listings.
+
+
+***
+[Logitech's Q3 Sales Grow 85%, Operating Income Triples](http://www.businesswire.com/news/home/20210118005546/en/Logitech%E2%80%99s-Q3-Sales-Grow-85-Operating-Income-Triples/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LAUSANNE, Switzerland & NEWARK, Calif.--(BUSINESS WIRE)--Logitech International announced financial results for the third quarter of Fiscal Year 2021 with sales growing 85%.
+
+
+***
+![TestingXperts Opens Asia Pacific, Middle East, and Africa Headquarters in Singapore](https://mms.businesswire.com/media/20210118005269/en/852721/23/Tx.jpg "TestingXperts Opens Asia Pacific, Middle East, and Africa Headquarters in Singapore")
+
+
+[TestingXperts Opens Asia Pacific, Middle East, and Africa Headquarters in Singapore](https://www.businesswire.com/news/home/20210118005269/en/TestingXperts-Opens-Asia-Pacific-Middle-East-and-Africa-Headquarters-in-Singapore)
+
+
+> January 18, 2021 09:00 PM Eastern Standard Time SINGAPORE--(BUSINESS WIRE)--TestingXperts (Tx), a next-gen QA & Software Testing Services provider, co-headquartered in London, UK and Pennsylvania, USA, announced the expansion of its operations in the Asia Pacific, Middle East and Africa (APMEA) region with its new office in Singapore and appointment of APMEA Regional Head Niranjan Kumar, who is based out of Singapore and brings more than 20+ years of experience in various business functions such as business strategy, business development and key account management with excellent exposure in Asia Pacific markets.
+
+
