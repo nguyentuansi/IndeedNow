@@ -10107,3 +10107,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![WhatsApp Pay usage finally picks up steam in India](https://cdn.mos.cms.futurecdn.net/gWCP5cw3WAVpdAJU6fHhxh-1200-80.jpg "WhatsApp Pay usage finally picks up steam in India")
+
+
+[WhatsApp Pay usage finally picks up steam in India](https://www.techradar.com/news/whatsapp-pay-usage-finally-picks-up-steam-in-india)
+
+
+> (Image credit: WhatsApp) After enduring a less than satisfactory start in India, WhatsApp Pay seems to be finally picking up steam in terms of its usage.According to National Payment Corporation of India (NPCI) stats, WhatsApp Pay processed 0.81 million UPI transactions worth Rs 29.72 crore in December, which represents more than 100% increase in its use in both volume and value compared to November. Anything around million payments is good, especially considering that these are still early days of WhatsApp Pay in India.
+
+
+***
+![This is how one Nintendo player turned 'Mario Kart 8 Deluxe' into a fitness game](https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9b32a1ac-4f0e-55fb-b0ee-6b97db01c693&operation=CROP&offset=0x161&resize=2999x1687 "This is how one Nintendo player turned 'Mario Kart 8 Deluxe' into a fitness game")
+
+
+[This is how one Nintendo player turned 'Mario Kart 8 Deluxe' into a fitness game](https://www.iol.co.za/technology/gaming/this-is-how-one-nintendo-player-turned-mario-kart-8-deluxe-into-a-fitness-game-cb6e1632-16fb-4133-bfea-27acaf506538)
+
+
+> By Elise Favis Hardware engineer Mike Choi's love for tinkering comes from his love for Nintendo products. His appreciation for everything the publisher creates inspired his ludicrous, but fully functional, multipart device dubbed the "Labo Fit Adventure Kart Kit." The Kart Kit lets players use a stationary exercise bike and Ring Fit controller to play the Nintendo Switch video game "Mario Kart 8 Deluxe.""I grew up playing video games," Choi said. "A big formative part of my identity as an engineer and as a professional is how much Nintendo has influenced me.
+
+
+***
+![Galaxy S10 starts receiving stable One UI 3.0 (Android 11) update in India](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2019/04/samsung-galaxy-s10-plus-main-6nll-6nll-6nll.jpg "Galaxy S10 starts receiving stable One UI 3.0 (Android 11) update in India")
+
+
+[Galaxy S10 starts receiving stable One UI 3.0 (Android 11) update in India](https://www.androidcentral.com/samsung-galaxy-s10-series-starts-receiving-stable-android-11-update-one-ui-30)
+
+
+> Source: Andrew Martonik / Android Central Update, January 19 (1:30 am ET): The update is now rolling out to users in India. Samsung has released the stable Android 11-based One UI 3.0 update for its Galaxy S10 series phones. The update is currently limited to Galaxy S10e and Galaxy S10 5G users in Switzerland. It could take a few weeks for the update to become widely available across the globe. Last week, Samsung started pushing the stable Android 11-based One UI 3.0 update to its Galaxy Note 10 series phones in Europe.
+
+
+***
+![Twitter, Periscope, Pinterest Face Advertising Ban in Turkey](https://i.gadgets360cdn.com/large/twitter_3d_printed_logo_reuters_1602649919343.jpg "Twitter, Periscope, Pinterest Face Advertising Ban in Turkey")
+
+
+[Twitter, Periscope, Pinterest Face Advertising Ban in Turkey](https://gadgets.ndtv.com/social-networking/news/twitter-periscope-pinterest-advertising-ban-turkey-local-representative-appointed-2354605)
+
+
+> Turkey's Information and Communication Technologies Authority has imposed advertising bans on Twitter, Periscope and Pinterest under a new social media law, according to decisions published in the country's Official Gazette on Tuesday.The law, which critics say will muzzle dissent, requires social media companies to appoint local representatives in Turkey. On Monday, Facebook joined other companies in saying it would be appointing such a representative.YouTube, owned by Alphabet's Google, said a month ago it had decided to appoint a representative.
+
+
+***
+![Samsung Galaxy Buds Pro Get First Update: Report](https://i.gadgets360cdn.com/large/samsung_galaxy_buds_pro_1611037976020.jpg "Samsung Galaxy Buds Pro Get First Update: Report")
+
+
+[Samsung Galaxy Buds Pro Get First Update: Report](https://gadgets.ndtv.com/audio/news/samsung-galaxy-buds-pro-update-hearing-enhancements-report-r190xxu0aua1-2354604)
+
+
+> Samsung Galaxy Buds Pro have got an update that brings hearing enhancements among other Bixby and system-related improvements, as per a report. The hearing-related update is seen as a great help for those who are auditory impaired. There are enhancements in Bixby integration as well. The true wireless stereo (TWS) earbuds feature intelligent active noise cancellation (ANC), wireless charging, and IPX7 water resistance. Priced at Rs. 15,990 in India, the earphones are available for pre-booking with deliveries starting from January 29 onwards.
+
+
