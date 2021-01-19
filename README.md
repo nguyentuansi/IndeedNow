@@ -10007,3 +10007,53 @@
 > © Provided by The Edge MOMENTUM investing — a strategy where investors capitalise on the continuance of existing trends in the market to reap outsize returns — is expected to lose strength this year as the global economy recovers from the Covid-19 pandemic, says Sumaira Franicevic. Franicevic, regional head of wealth advisory at Citi, points out that sectors that benefited from the pandemic last year, such as digital entertainment, online retail and consumer staples, are not expected to do well as the global economy gradually improves.
 
 
+***
+![Bag another 4 months of Xbox Game Pass Ultimate for under &#163;20](https://mondrian.mashable.com/2021%252F01%252F19%252F10%252Fc2d5103b075e435caba1e50ea7eed4a7.93dfb.png%252F1200x630.png?signature=yFbIFjfwIzdB-1VYbB5aMcmrA4I= "Bag another 4 months of Xbox Game Pass Ultimate for under &#163;20")
+
+
+[Bag another 4 months of Xbox Game Pass Ultimate for under &#163;20](https://mashable.com/uk/shopping/jan-19-xbox-game-pass-ultimate-deal/)
+
+
+> TL;DR: A 12-month subscription to EA Play will convert to a four-month extension of your Xbox Game Pass Ultimate membership. Please remain patient, because this deal takes a bit of explaining. It's worth sticking with it though, because it's one of the standout gaming deals of 2021. A 12-month subscription to EA Play is available for £19.99 on Amazon, and will convert to a four-month extension of your Xbox Game Pass Ultimate membership. You do need to be a current Game Pass Ultimate member for this deal to work, but you can join for just £1 at the moment.
+
+
+***
+![TechnipFMC Announces Offering of $850,000,000 Senior Notes](https://mms.businesswire.com/media/20210118005568/en/564651/23/TechnipFMC_H_RGB.jpg "TechnipFMC Announces Offering of $850,000,000 Senior Notes")
+
+
+[TechnipFMC Announces Offering of $850,000,000 Senior Notes](https://www.businesswire.com/news/home/20210118005568/en/TechnipFMC-Announces-Offering-of-850000000-Senior-Notes)
+
+
+> January 19, 2021 12:09 AM Eastern Standard Time LONDON & PARIS & HOUSTON--(BUSINESS WIRE)--Regulatory News: TechnipFMC plc (NYSE: FTI) (Paris: FTI) (ISIN:GB00BDSFG982) , in anticipation of the previously announced planned separation (the 'Spin-off') into two industry-leading, independent, publicly traded companies: TechnipFMC, a fully integrated technology and services provider, and Technip Energies, a leading engineering and technology player, announced today that TechnipFMC intends to offer $850,000,000 aggregate principal amount of senior unsecured notes due 2026 (the 'Notes') in a private offering that is exempt from the registration requirements of the Securities Act of 1933, as amended (the 'Securities Act').
+
+
+***
+![Become a cybersecurity hero with this online certification bundle](https://mondrian.mashable.com/2021%252F01%252F19%252F32%252F1b968f9c4c834f6ca26963b6f1e18bc0.7e0df.jpg%252F1200x630.jpg?signature=pwquXrCiWW7TLBXPUyYhr-vwVo0= "Become a cybersecurity hero with this online certification bundle")
+
+
+[Become a cybersecurity hero with this online certification bundle](https://mashable.com/uk/shopping/jan-19-white-hat-hacker-certification-sale/)
+
+
+> TL;DR: The Ultimate 2021 White Hat Hacker Certification Bundle is on sale for £29.47 as of Jan. 19, saving you 97% on list price. When you think of superheroes, you probably picture capes and some sort of otherworldly powers. But in the digital world, superheroes are actually normal people like you and me. They just happen to know a thing or two about stopping cybercriminals in their tracks. These superheroes are in short supply across the world. That means this could be your chance to swoop in, superhero style, and save the day.
+
+
+***
+![McAfee Takes Another Step Toward Global Support for Organizations in Need of Leading Managed Threat Detection and Response](https://mms.businesswire.com/media/20210118005053/en/698457/23/McA_Logo.jpg "McAfee Takes Another Step Toward Global Support for Organizations in Need of Leading Managed Threat Detection and Response")
+
+
+[McAfee Takes Another Step Toward Global Support for Organizations in Need of Leading Managed Threat Detection and Response](https://www.businesswire.com/news/home/20210118005053/en/McAfee-Takes-Another-Step-Toward-Global-Support-for-Organizations-in-Need-of-Leading-Managed-Threat-Detection-and-Response)
+
+
+> January 19, 2021 12:01 AM Eastern Standard Time SAN JOSE, Calif.--(BUSINESS WIRE)--McAfee Corp. (Nasdaq: MCFE) – McAfee today announced that it is partnering with ECS, a recognized leader in cybersecurity, cloud managed services, agile development digital transformation, advanced engineering and Amazon Web Services solutions, to offer managed threat detection and response (MDR) capabilities through McAfee MVISION EDR. ECS is the first North American MDR partner for McAfee MVISION EDR and will leverage MVISION EDR and supporting vendors to deliver a scalable, repeatable and customizable program that enables organizations to focus on only verified threats.
+
+
+***
+![The Shape of Code » Software effort estimation is mostly fake research](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "The Shape of Code » Software effort estimation is mostly fake research")
+
+
+[The Shape of Code » Software effort estimation is mostly fake research](https://www.reddit.com/r/programming/comments/l0cpdh/the_shape_of_code_software_effort_estimation_is/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
