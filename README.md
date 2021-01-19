@@ -10786,3 +10786,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![The Best Free Music Players for MacOS: Break Free from Apple Music](https://icdn2.digitaltrends.com/image/digitaltrends/2016-macbook-pro-macos-catalina-hands-on-04134-1200x630-c-ar1.91.jpg "The Best Free Music Players for MacOS: Break Free from Apple Music")
+
+
+[The Best Free Music Players for MacOS: Break Free from Apple Music](https://www.digitaltrends.com/computing/best-free-music-players-for-macos/)
+
+
+> There are multiple apps out there you can use to manage your music library if you're on a Mac, but you may have trouble deciding which is best for you. If you've been looking for a cost-free alternative to Apple Music, there are plenty of great apps out there to check out. Whether you're an audiophile with a thirst for feature-heavy players or a casual listener looking for a no-frills option, we're sure you'll find something here that suits you. More interested in streaming music instead? Take a look at our side by side comparison of Spotify and Apple Music to see how these services stack up.
+
+
+***
+![SellersFunding Opens Full Suite of Financial Tools to Walmart Sellers](https://mms.businesswire.com/media/20210119006097/en/853236/23/large-growth-walmart-mp-pr.jpg "SellersFunding Opens Full Suite of Financial Tools to Walmart Sellers")
+
+
+[SellersFunding Opens Full Suite of Financial Tools to Walmart Sellers](https://www.businesswire.com/news/home/20210119006097/en/SellersFunding-Opens-Full-Suite-of-Financial-Tools-to-Walmart-Sellers)
+
+
+> January 19, 2021 04:45 PM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--SellersFunding, a global fintech leader providing funding solutions for eCommerce businesses, announced the offering of its full line of financial tools to sellers on the Walmart marketplace. Walmart sellers can now take advantage of up to $1 million in working capital, daily advances to regulate cash flow and a digital wallet to streamline payments to suppliers around the world. Walmart has become the second largest eCommerce marketplace in the US, after Amazon.
+
+
+***
+![Florida police arrest former state COVID-19 data manager Rebekah Jones](https://cdn.arstechnica.net/wp-content/uploads/2021/01/GettyImages-1226120142-760x380.jpg "Florida police arrest former state COVID-19 data manager Rebekah Jones")
+
+
+[Florida police arrest former state COVID-19 data manager Rebekah Jones](https://arstechnica.com/tech-policy/2021/01/florida-police-arrest-former-state-covid-19-data-manager-rebekah-jones/)
+
+
+> Enlarge / Florida's handling of the pandemic has been... a mixed bag. This beach was hopping on May 20, around the same time Jones publicly claimed the state fired her for refusing to manipulate Florida's COVID-19 data. Florida police have arrested former state data scientist Rebekah Jones, accusing her of breaking state law prohibiting accessing computer systems without authorization. Jones on Saturday disclosed the arrest warrant herself , writing in a series of tweets that she and her lawyer had arranged with Florida police for her to present herself to law enforcement in Tallahassee, Florida, on Sunday evening.
+
+
+***
+[Bendy genitals may be how mighty dinosaurs were able to have sex, scientists claim](https://www.the-sun.com/lifestyle/tech/2170646/scientists-discover-how-dinosaurs-had-sex/)
+
+
+> SCIENTISTS are nearer discovering how dinosaurs had sex after reconstructing part of the giant beasts' genitals. And it is possible monsters such as the mighty T.Rex had massive bendy penises. The breakthrough came when a museum fossil turned out to have a well-preserved cloaca, a pelvic cavity seen in birds and crocodiles. Most birds do […]
+
+
+***
+![AbCellera Granted U.S. Patent Covering its Trianni Mouse® Technology](https://mms.businesswire.com/media/20210119006096/en/705128/23/AbCellera_Full_Colour_RGB_1.jpg "AbCellera Granted U.S. Patent Covering its Trianni Mouse® Technology")
+
+
+[AbCellera Granted U.S. Patent Covering its Trianni Mouse® Technology](https://www.businesswire.com/news/home/20210119006096/en/AbCellera-Granted-U.S.-Patent-Covering-its-Trianni-Mouse%C2%AE-Technology)
+
+
+> January 19, 2021 04:41 PM Eastern Standard Time VANCOUVER, British Columbia--(BUSINESS WIRE)--AbCellera (Nasdaq: ABCL), a technology company with a centralized operating system for next-generation antibody discovery, today announced it has expanded its intellectual property (IP) portfolio to include its Trianni Mouse® technology. AbCellera uses the transgenic animal technology to generate fully human monoclonal antibodies for its drug discovery programs with biotech and pharma partners. The United States Patent and Trademark Office (USPTO) issued patent no.
+
+
