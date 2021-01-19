@@ -10307,3 +10307,47 @@
 > (Image credit: Srivatsa Ramesh) Not so long ago we heard about an intriguing feature that looks to be coming to Android 12 , namely app hibernation. An initial mention of it in Android code suggested that the feature would allow you to put apps that aren't being used into a state of hibernation, which would optimize their storage use, but details of the feature were light, until now. While there are still a lot of unanswered questions, a few details have been seen in new Android code changes, spotted by Mishaal Rahman (editor-in-chief of XDA Developers).
 
 
+***
+[WhatsApp, other digital platforms free to do business in India but without compromising on sanctity of personal data: IT minister Prasad](https://www.zeebiz.com/technology/apps/news-whatsapp-other-digital-platforms-free-to-do-business-in-india-but-without-compromising-on-sanctity-of-personal-data-it-minister-prasad-146422)
+
+
+> Amid controversy over the issue of data sharing and privacy breach, Ravi Shankar Prasad, Union Minister for Communications, Electronics & Information Technology and Law & Justice, said WhatsApp and other digital platforms are free to do business in India but without compromising on the sanctity of personal data. He reiterated that personal communication needs to be contained
+
+
+***
+![Topic-based learning of programming concepts/language spec](https://external-preview.redd.it/AN6Uk7-F7R9xfktehXznEQuo9ugiivJS2UB-nscnNrQ.jpg?auto=webp&s=109a2479363eee91016ce18f7808541230aa1363 "Topic-based learning of programming concepts/language spec")
+
+
+[Topic-based learning of programming concepts/language spec](https://www.reddit.com/r/programming/comments/l0hos7/topicbased_learning_of_programming/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Content discovery platform Taboola rolls out Stories in beta, letting publishers add the format directly to their websites or mobile articles (David Cohen/Adweek)](http://www.techmeme.com/210119/p2#a210119p2)
+
+
+> David Cohen / Adweek: Content discovery platform Taboola rolls out Stories in beta, letting publishers add the format directly to their websites or mobile articles — Content can be added directly to publishers' websites or mobile articles — Content discovery platform Taboola became the latest platform …
+
+
+***
+![‘Unbalanced assessment': Australian experts debunk push to stop global 5G rollout](https://thenewdaily.com.au/wp-content/uploads/2019/12/1576473729-GettyImages-1139497537.jpg "‘Unbalanced assessment': Australian experts debunk push to stop global 5G rollout")
+
+
+[‘Unbalanced assessment': Australian experts debunk push to stop global 5G rollout](https://thenewdaily.com.au/life/tech/2021/01/19/5g-safety-rollout-australia/)
+
+
+> Australian 5G experts have rubbished controversial new claims by a UK researcher that 5G is potentially unsafe and the global rollout of the telecommunications technology should be halted. In an … Continued The post ‘Unbalanced assessment': Australian experts debunk push to stop global 5G rollout appeared first on The New Daily.
+
+
+***
+![Tech Bytes: Smartwatches join the fight against COVID-19, Samsung to sell chargers and earphones separately, Montreal restaurant menu goes viral](https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes.jpg?w=1280 "Tech Bytes: Smartwatches join the fight against COVID-19, Samsung to sell chargers and earphones separately, Montreal restaurant menu goes viral")
+
+
+[Tech Bytes: Smartwatches join the fight against COVID-19, Samsung to sell chargers and earphones separately, Montreal restaurant menu goes viral](https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-smartwatches-join-the-fight-against-covid-19-samsung-to-sell-chargers-and-earphones-separately-montreal-restaurant-menu-goes-viral/)
+
+
+> by: Dylan Abad Posted: Jan 19, 2021 / 05:58 AM EST / Updated: Jan 19, 2021 / 05:58 AM EST A new weapon in the fight against COVID-19. Research shows smartwatches may be able to detect the virus by showing small changes in the user's heartbeat. The study found the smartwatch detected the virus up to a week before symptoms showed up. Samsung confirms its future phones will not be sold with chargers and earphones. One executive says the move will be gradual. The company points out that older USB charging cables will still work with newer Samsung devices.
+
+
