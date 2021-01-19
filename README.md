@@ -10057,3 +10057,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Fintech firms top list of best London startups to work for](https://www.cityam.com/wp-content/uploads/2020/03/2-960x640.png "Fintech firms top list of best London startups to work for")
+
+
+[Fintech firms top list of best London startups to work for](https://www.cityam.com/fintech-firms-top-list-of-best-london-startups-to-work-for/)
+
+
+> Fintech firms dominate the list of best startups to work for in London as investment in the sector picks up and expands aggressively.  Some 50 startups and scaleups appear on Otta's Rocket List, which has been curated by Tech Nation and a handful of VC firms including Atomico and Seedcamp.  Read more: Global investors flock to London in ‘golden age' for tech The experts considered a firm's level of investment, the number of jobs available and their 'corporate mission'. Collectively the firms have raised more than £2.
+
+
+***
+![How I removed google analytics and still have good data to analyze](https://external-preview.redd.it/a_-TmhZFAAozhi35pAkHtOhaPcg6l-_7EGSeyFy4g2c.jpg?auto=webp&s=bb1926b617d081f10f61204fbc305d800d2b4cce "How I removed google analytics and still have good data to analyze")
+
+
+[How I removed google analytics and still have good data to analyze](https://www.reddit.com/r/programming/comments/l0dnfo/how_i_removed_google_analytics_and_still_have/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Daily Rupee call: Short INR if it breaches support at 73.25](https://www.thehindubusinessline.com/portfolio/technical-analysis/a66lfz/article33606850.ece/ALTERNATES/LANDSCAPE_615/bl-rupeejpg "Daily Rupee call: Short INR if it breaches support at 73.25")
+
+
+[Daily Rupee call: Short INR if it breaches support at 73.25](https://www.thehindubusinessline.com/portfolio/technical-analysis/daily-rupee-call-short-inr-if-it-breaches-support-at-7325/article33606851.ece)
+
+
+> The rupee (INR) lost about one-third of a per cent last session as it closed at 73.28 versus Friday's close of 73.06 against the dollar (USD). The local currency begun Monday's session with a gap-down and was unable to recover intraday. Also, it closed below the support of 73.25, a bearish indication. Following this, INR opened with gap-up today at 73.17, thereby going back above the support of 73.25. But unless, it rallies past the resistance of 73.15, the recovery can be shaky and the domestic unit could witness fresh selling.
+
+
+***
+![Fortnite leak: Is a Tomb Raider crossover with Lara Croft skin on its way?](https://image-prod.iol.co.za/resize/860x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/985f9052-96b3-541f-9a7e-3b7e96599805&operation=CROP&offset=6x0&resize=799x449 "Fortnite leak: Is a Tomb Raider crossover with Lara Croft skin on its way?")
+
+
+[Fortnite leak: Is a Tomb Raider crossover with Lara Croft skin on its way?](https://www.iol.co.za/technology/gaming/fortnite-leak-is-a-tomb-raider-crossover-with-lara-croft-skin-on-its-way-9465af46-32e7-4412-a9b7-d2443f177b1f)
+
+
+> A Fortnite data miner leaked the codename of a future female crossover skin, Typhoon. Fans determined that the next Fortnite character could probably be Lara Croft from Tomb Raider.Fortnite Season 5 set an environment in which it is extremely easy for Epic Games to introduce new characters without breaking its own rules. After Kratos from God of War, Din Djarin and Grogu from The Mandalorian, as well as Master Chief from the Halo franchise, Lara Croft could be the next addition to the famous battle royale.
+
+
+***
+![One line if else and nested if statements in python ( ternary operator)](https://external-preview.redd.it/dYWIyA1HKS-ZufpkKJ1x1a6_YESmfiOKcUXR6OzCuWw.jpg?auto=webp&s=eca34205a99e1e353e14a635fb40bfb7928e7b50 "One line if else and nested if statements in python ( ternary operator)")
+
+
+[One line if else and nested if statements in python ( ternary operator)](https://www.reddit.com/r/Python/comments/l0dhgf/one_line_if_else_and_nested_if_statements_in/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
