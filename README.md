@@ -11803,3 +11803,53 @@
 > The massive shift to remote work due to COVID-19 has resulted in a huge reduction in emissions from vehicles and other sources, but it comes with costs of its own. A new study puts tentative carbon costs on the connectivity and data infrastructure that make working from home possible — and gives you an excuse to leave the camera off. The researchers, from Perdue, Yale, and MIT, attempted to analyze the carbon, land, and water costs of internet infrastructure. 'In order to build a sustainable digital world, it is imperative to carefully assess the environmental footprints of the Internet and identify the individual and collective actions that most affect its growth,' they write in the paper's introduction.
 
 
+***
+![Bitcoin Apps for every mobile gamer](https://guardian.ng/wp-content/uploads/2017/11/Bitcoin-640x360.jpg "Bitcoin Apps for every mobile gamer")
+
+
+[Bitcoin Apps for every mobile gamer](https://editor.guardian.ng/technology/bitcoin-apps-for-every-mobile-gamer/)
+
+
+> Gaming is one of the most popular hobbies today. There are millions of gamers all over the world and millions of titles available. The best part is that the industry doesn't stop there as companies make new games every year. Action, strategy, RPG, and much more genres of games get a bigger collection with each coming year. It's no different with mobile gaming. That's because playing games on your mobile device is much more convenient. You don't need to come home and turn on your PC. You can just whip out your phone and play anytime and anywhere.
+
+
+***
+![Joe Biden, Kamala Harris send 1st tweets from official White House accounts](https://s.abcnews.com/images/Politics/harris-biden-bump-rt-ps-210120_1611163032578_hpMain_16x9_992.jpg "Joe Biden, Kamala Harris send 1st tweets from official White House accounts")
+
+
+[Joe Biden, Kamala Harris send 1st tweets from official White House accounts](https://abcnews.go.com/Technology/joe-biden-kamala-harris-send-1st-tweets-official/story?id=75378478)
+
+
+> After taking their respective oaths of office Wednesday, President Joe Biden and Vice President Kamala Harris took part in a second transfer of power by taking the reigns of the official @POTUS and @VP Twitter accounts. "There is no time to waste when it comes to tackling the crises we face," Biden wrote in his first message from the @POTUS account. "That's why today, I am heading to the Oval Office to get right to work delivering bold action and immediate relief for American families." Vice President Kamala Harris was more succinct in her inaugural @VP message.
+
+
+***
+!['We all just got played': Some QAnon followers lose hope as dreams of a bloody Inauguration coup fail to materialize](https://media2.s-nbcnews.com/j/newscms/2021_03/3443661/2101020-qanon-se-208p_036da763a64d767e657b0e6914ff4a24.nbcnews-fp-1200-630.jpg "'We all just got played': Some QAnon followers lose hope as dreams of a bloody Inauguration coup fail to materialize")
+
+
+['We all just got played': Some QAnon followers lose hope as dreams of a bloody Inauguration coup fail to materialize](https://www.nbcnews.com/tech/internet/some-qanon-followers-struggle-inauguration-day-n1255002)
+
+
+> Some QAnon conspiracy theorists, in public and private internet forums and chat rooms, were despondent Wednesday as their prophecy of an Inauguration Day coup to keep Donald Trump in power failed again as President Joe Biden was sworn into office. The situation left some QAnon adherents with no choice but to write off the conspiracy theory entirely, though others continued to maintain that it was still developing. QAnon supporters believed Wednesday's inauguration was an elaborate trap set by the former president, wherein Democrats would be rounded up and executed while Trump retained power.
+
+
+***
+![Monzo founder leaves digital bank after pressure on mental wellbeing](https://www.telegraph.co.uk/content/dam/technology/2019/10/18/TELEMMGLPICT000172254658_trans_NvBQzQNjv4BqaxhR1vC4M3eHXTZuhDlJp789H6EDpBTd03O9ZVPLJiw.jpeg?impolicy=logo-overlay "Monzo founder leaves digital bank after pressure on mental wellbeing")
+
+
+[Monzo founder leaves digital bank after pressure on mental wellbeing](https://www.telegraph.co.uk/technology/2021/01/20/monzo-founder-leaves-digital-bank-pressure-mental-wellbeing/)
+
+
+> Monzo founder Tom Blomfield is to quit the digital bank, saying he struggled with his mental health after Covid brought normal life to a halt. The 35-year-old said that he has not enjoyed working for Monzo in the two years since it transformed from a start-up into a major brand with almost 5m customers, and that the pandemic has made these feelings worse. Mr Blomfeld moved from chief executive to the newly created role of president last May, standing down from the board at the same time. He is now giving up this role too.
+
+
+***
+![Big Tech hopes to avoid immediate crackdown from Biden White House](https://www.telegraph.co.uk/content/dam/technology/2020/06/11/TELEMMGLPICT000232918290_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?impolicy=logo-overlay "Big Tech hopes to avoid immediate crackdown from Biden White House")
+
+
+[Big Tech hopes to avoid immediate crackdown from Biden White House](https://www.telegraph.co.uk/technology/2021/01/20/big-tech-hopes-avoid-immediate-crackdown-biden-white-house/)
+
+
+> US tech chiefs are hoping to dodge an immediate crackdown under Joe Biden's administration as internet regulation slips down the new President's list of priorities. Industry leaders are thought to be breathing a sigh of relief after tougher rules were left out from a string of executive orders signed by President Biden on his first day in the Oval Office. The President sparked alarm earlier this month by promising to 'immediately revoke' Section 230, an internet rule that grants some immunity to technology firms from legal action over posts by users on their site - a move which could potentially expose them to massive losses through lawsuits.
+
+
