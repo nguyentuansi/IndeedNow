@@ -11953,3 +11953,50 @@
 > (CNN) —   Fixing a cracked screen on a Samsung Galaxy, or even having to replace the whole phone, is not cheap. As these devices have gotten more advanced, with pinhole front-facing cameras and faster processors, the prices have advanced too. The latest S21, S21+ and S20 Ultra start at $799, $999 and $1,299, respectively. Luckily for all the Galaxy fans out there, you don't have to break the bank if you're in the market for a new one. You can trade in your current smartphone (even one with a cracked screen) or opt to buy a used model from several retailers.
 
 
+***
+![Antifa.com now takes you to the White House&#8217;s website. This doesn&#8217;t mean anything.](https://mondrian.mashable.com/2021%252F01%252F20%252Fa3%252F47e6b22d32cd450095e79c9d69023afb.06d07.png%252F1200x630.png?signature=_2v1uV97R2vH2KLtUPrLJQj7ZGs= "Antifa.com now takes you to the White House&#8217;s website. This doesn&#8217;t mean anything.")
+
+
+[Antifa.com now takes you to the White House&#8217;s website. This doesn&#8217;t mean anything.](https://mashable.com/article/antifa-domain-joe-biden-white-house-site/)
+
+
+> Hours after Joe Biden's inauguration, conservative personalities are rehashing an old disinformation campaign surrounding the antifa.com website. If you go to antifa.com right now, you'll find that the URL now takes you to the White House's official .gov website. Does this mean that the Biden administration owns the domain name 'antifa.com?' Or is an official antifa entity showcasing their support for the new Democratic administration? No. It doesn't likely mean anything, since anyone who owns any domain name can redirect it to any website.
+
+
+***
+![Here Are All The Executive Orders Joe Biden Signed On His First Day In Office](https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/64589036-a7c4-4cc0-8d88-97ada3e2066b/thumbnail/1200x630/1f674aad3fe473e9bf1691bb7579e28c/ap21020808952796.jpg "Here Are All The Executive Orders Joe Biden Signed On His First Day In Office")
+
+
+[Here Are All The Executive Orders Joe Biden Signed On His First Day In Office](https://www.cbsnews.com/news/biden-executive-orders-watch-live-stream-today-2021-01-20/)
+
+
+> On his first day in office, President Joe Biden signed several executive actions, some of which reverse decisions made by his predecessor former President Donald Trump.   The executive actions will make changes to the U.S. response to the COVID-19 pandemic and try to ease some of the financial strain placed on Americans resulting from the pandemic. But other executive actions directly target and undo Mr. Trump's actions on the environment, immigration, the U.S. census, and regulatory changes.  Mr.
+
+
+***
+[Mysterious UFO that shone ‘fine rays of light' onto Soviet city in 1977 revealed in declassified CIA report](https://www.the-sun.com/lifestyle/tech/2178781/russia-ufo-light-cia-declassified-documents-online-black-vault/)
+
+
+> DETAILS of a mysterious UFO that shined bright rays of light onto a Soviet city in the 1970s have emerged from a treasure trove of declassified CIA documents published online. Multiple reports from terrified locals described “very fine rays” raining down from the high-speed object, which appeared like a “huge star” over Petrozavodsk in what […]
+
+
+***
+![14 of the best TV shows to watch on Disney Plus](https://cnet1.cbsistatic.com/img/hPlq0A9mx0oGrJgB0EZoL-P_uuU=/0x0:1600x899/1200x630/2021/01/15/92aa1f34-a705-4d06-bd50-8e981e240816/br-digital-payoff-keyart-v3-lg.jpg "14 of the best TV shows to watch on Disney Plus")
+
+
+[14 of the best TV shows to watch on Disney Plus](https://www.cnet.com/news/14-of-the-best-tv-shows-to-watch-on-disney-plus/)
+
+
+> The Mandalorian. Disney Plus If you've binged The Mandalorian and are on the hunt for your next big Disney Plus addiction, here are a few live-action gems to check out. Comedies like Lizzie McGuire are a must, along with more from the sci-fi, superhero world, including Marvel's Agent Carter and lesser-known gem So Weird. Let's round up the best live-action shows Disney has to offer.Read more: The 35 best movies to watch on Disney Plus Disney Plus Outside The Mandalorian, the reason you paid for Disney Plus is here.
+
+
+***
+![Altice USA to Hold Conference Call to Discuss Q4 and FY 2020 Results](http://www.businesswire.com/images/bwlogo_square.png "Altice USA to Hold Conference Call to Discuss Q4 and FY 2020 Results")
+
+
+[Altice USA to Hold Conference Call to Discuss Q4 and FY 2020 Results](https://www.businesswire.com/news/home/20210120005747/en/Altice-USA-to-Hold-Conference-Call-to-Discuss-Q4-and-FY-2020-Results)
+
+
+> January 20, 2021 05:29 PM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--Altice USA (NYSE: ATUS) will host a conference call on Wednesday, February 10, 2021 at 4:30 p.m. EST to discuss financial and operating results for the fourth quarter and full year ended December 31, 2020. A press release reporting the results will be issued at 4:05 p.m. EST. The call will be led by Dexter Goei, CEO, and Michael Grau, CFO. Dial-in Access Telephone Numbers: Participant Event Plus Toll Free Dial-In Number: +1 (833) 968-2322 Participant Event Plus Toll Dial-In Number: +1 (778) 560-2842 Conference ID: 6064777 A live webcast of the presentation will be available on the following website: here.
+
+
