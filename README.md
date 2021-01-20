@@ -11656,3 +11656,53 @@
 > Shares of Microsoft (NASDAQ: MSFT ) saw some unusual options activity on Wednesday. Following the unusual option alert, the stock price moved down to $216.44. Sentiment: BULLISH Option Type: SWEEP Trade Type: CALL Expiration Date: 2021-01-22 Strike Price: $222.50 Volume: 1062 Open Interest: 5508 Three Signs Of Unusual Options Activity Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
 
 
+***
+![Global Wireless Headphones Market (2020 to 2024)](https://mms.businesswire.com/media/20210120005615/en/853474/23/IRTNTR45758.jpg "Global Wireless Headphones Market (2020 to 2024)")
+
+
+[Global Wireless Headphones Market (2020 to 2024)](https://www.businesswire.com/news/home/20210120005615/en/Global-Wireless-Headphones-Market-2020-to-2024---Outlook-and-Forecast)
+
+
+> January 20, 2021 12:43 PM Eastern Standard Time LONDON--(BUSINESS WIRE)--The wireless headphones market is poised to grow by USD 8.23 billion during 2020-2024, progressing at a CAGR of almost 8% during the forecast period. Worried about the impact of COVID-19 on your Business? Here is an Exclusive report talking about Market scenarios, Estimates, the impact of lockdown, and Customer Behaviour. Get FREE Sample Report in Minutes! The report on the wireless headphones market provides a holistic update, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis.
+
+
+***
+![Watch Lady Gaga's perfect inauguration performance of the national anthem](https://mondrian.mashable.com/2021%252F01%252F20%252F47%252F190d567de7dc407dbf13306213f39e2d.98894.jpg%252F1200x630.jpg?signature=vp-5Dbjv78PtgGo8Bvhz44WsYb8= "Watch Lady Gaga's perfect inauguration performance of the national anthem")
+
+
+[Watch Lady Gaga's perfect inauguration performance of the national anthem](https://mashable.com/article/twitter-reacts-lady-gaga-inauguration-performance/)
+
+
+> On Jan. 20, 2021, Joe Biden and Kamala Harris were historically sworn in as the nation's 46th president and vice president. On the same day, at that very event, Lady Gaga stole the freaking show with her performance of the national anthem. The singer delivered a beautiful rendition of "The Star-Spangled Banner" through an iconic golden microphone. And while Gaga was dressed to the nines in a dramatic red-skirted ensemble and the biggest bird brooch I've ever seen, she also paused to honor Michelle Obama's fit on her way out: "You look so wonderful," Gaga says to Michelle Obama.
+
+
+***
+![Branches and code merging at scale — automated branch merging](https://external-preview.redd.it/atZxJEj2rOY5FAfKk7Hu7FnwYnyh4PiiwSPpEzw9nrY.jpg?auto=webp&s=ea70f7fe1ca578de0fa92b2cce88ef8f6f92fe3c "Branches and code merging at scale — automated branch merging")
+
+
+[Branches and code merging at scale — automated branch merging](https://www.reddit.com/r/programming/comments/l1e389/branches_and_code_merging_at_scale_automated/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Don't think, just defunctionalize](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Don't think, just defunctionalize")
+
+
+[Don't think, just defunctionalize](https://www.reddit.com/r/programming/comments/l1e36a/dont_think_just_defunctionalize/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![The best Peacock VPN 2021](https://cdn.mos.cms.futurecdn.net/gUDpfb3ivf38U4HBnNQfgF-1200-80.jpg "The best Peacock VPN 2021")
+
+
+[The best Peacock VPN 2021](https://www.techradar.com/vpn/best-peacock-vpn)
+
+
+> NBC last year joined the ranks of companies launching their own streaming services, following the likes of Apple and Disney. Available for a range of devices, Peacock offers access to a range of TV shows, movies, sporting events and exclusives - but you'll need a VPN if you want to watch it all from outside the US.That's because NBC's streaming platform is only available for people based in the US.  But if you're travelling to another country and are eager to access the diverse content library, you can get around these annoying geo-restrictions by downloading a VPN for Peacock TV.
+
+
