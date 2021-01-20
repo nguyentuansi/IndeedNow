@@ -11512,3 +11512,50 @@
 > No body in the article.
 
 
+***
+![Relax With The $48 Naipo Back Massager](https://www.androidheadlines.com/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.41-AM.png "Relax With The $48 Naipo Back Massager")
+
+
+[Relax With The $48 Naipo Back Massager](https://www.androidheadlines.com/buy-naipo-back-massager)
+
+
+> Amazon currently has the Naipo Back Massager on sale for just $45. Normally, the Naipo Back Massager is priced at $100. But it is now listed at $59.99. However, you can save an additional 12% by clipping the on-page coupon. Bringing it down to just $48.The one-size-fits-all oCuddle satisfies expectations and needs for an upgraded massage experience by providing an adjustable, customized fit that takes into account the diversity of human physiques. Carry bag design is convenient for you to carry around to enhanced sense of well-being.
+
+
+***
+![How to stop anti virus software flagging your Python application as malware](https://external-preview.redd.it/0awCZJLHOdJkDsn4HmFio9A7joei5sBihvfnTe0qU44.jpg?auto=webp&s=f9decf2f8d9b9b0082cdf4fddbae2f591e834df2 "How to stop anti virus software flagging your Python application as malware")
+
+
+[How to stop anti virus software flagging your Python application as malware](https://www.reddit.com/r/Python/comments/l19rok/how_to_stop_anti_virus_software_flagging_your/)
+
+
+> I recently distributed my first compiled python code. For various reasons it needed to be a Windows EXE for user purposes rather than having the users download and run the source code. I used pyinstaller to compile my code but immediately ran into issues because my short, innocuous script was being identified as malware by Windows Defender with scary names like Wacatac.B!ml.trojan. In some cases anti virus deemed my software so dangerous that it not only warned me that it was dangerous but unilaterally placed it into quarantine and then deleted it.
+
+
+***
+[OnePlus 9 & OnePlus 9 Pro: Romoured Launch Date, Price & Specs](https://www.thequint.com/tech-and-auto/oneplus-9-and-oneplus-9-pro-launch-date-price-and-specifications)
+
+
+> OnePlus 9 and OnePlus Pro are expected to have a quad camera setup.
+
+
+***
+![Android 12 may allow for hibernation of unused apps to free up storage just like iOS](https://images.indianexpress.com/2021/01/Play-Store-apps.jpg "Android 12 may allow for hibernation of unused apps to free up storage just like iOS")
+
+
+[Android 12 may allow for hibernation of unused apps to free up storage just like iOS](https://indianexpress.com/article/technology/tech-news-technology/heres-how-android-12-may-deal-with-unused-apps-and-free-up-space-7154686/)
+
+
+> While a lot of phones have just started getting Android 11, Android 12 is just over a month away from getting its first beta. Ahead of the release, a report by XDA has revealed that Google may be working on a new app hibernation feature for Android 12. This feature will likely let users 'hibernate' unused apps, effectively putting them in a deep-sleep state and allowing more space to be freed up in the device for use. While apps can even now be simply disabled when they are not in use, this method still doesn't save any space and apps still take the same amount of storage on your phone when they are disabled.
+
+
+***
+![This simple Gmail tweak will means you'll never miss a Chat message again](https://cdn.mos.cms.futurecdn.net/pKRkkR7LuqnP2tZbZLDMec-1200-80.jpg "This simple Gmail tweak will means you'll never miss a Chat message again")
+
+
+[This simple Gmail tweak will means you'll never miss a Chat message again](https://www.techradar.com/news/this-simple-gmail-tweak-will-means-youll-never-miss-a-chat-message-again)
+
+
+> (Image credit: Shutterstock) Google has made a small but important change to Gmail, which should make it easier than ever for individuals to manage their chat messages. The technology giant will now allow users of the Gmail web client to resize the Google Chat and Rooms side widgets.'You can now resize the Chat and Rooms sections in the left-side navigation of Gmail on the web,' a Google Workspace Update explained. 'This makes it easier to stay on top of your most important conversations and navigate to relevant chats faster.
+
+
