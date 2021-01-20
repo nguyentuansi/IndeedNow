@@ -11609,3 +11609,50 @@
 > January 20, 2021 09:51 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Instrumentation Services - Global Market Trajectory & Analytics" report has been added to ResearchAndMarkets.com's offering. The publisher brings years of research experience to the 6th edition of this report. The 209-page report presents concise insights into how the pandemic has impacted production and the buy side for 2020 and 2021. A short-term phased recovery by key geography is also addressed. Global Instrumentation Services Market to Reach $7 Billion by 2027 Amid the COVID-19 crisis, the global market for Instrumentation Services estimated at US$5 Billion in the year 2020, is projected to reach a revised size of US$7 Billion by 2027, growing at a CAGR of 4.
 
 
+***
+![Fujifilm UK combines photo operations into single Imaging Solutions due to COVID-19](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/fujifilm_xt_3_india_firmware_u-483x271_1200_210120191453.jpeg "Fujifilm UK combines photo operations into single Imaging Solutions due to COVID-19")
+
+
+[Fujifilm UK combines photo operations into single Imaging Solutions due to COVID-19](https://www.indiatoday.in/technology/news/story/fujifilm-uk-combines-photo-operations-into-single-imaging-solutions-due-to-covid-19-1761073-2021-01-20)
+
+
+> Fujifilm UK has just declared that it is going to merge its Photo Imaging, Electronic Imaging and Optical Devices teams into a single Imaging Solutions business unit. Pavni Jain | January 20, 2021 | Updated 18:57 IST Fujifilm X-T3 Camera Official Image
+
+
+***
+![Realme X7, X7 Pro teasers hint at imminent India launch: What to expect](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_x7_launch_teaser-483x271_1200_210120183546.jpeg "Realme X7, X7 Pro teasers hint at imminent India launch: What to expect")
+
+
+[Realme X7, X7 Pro teasers hint at imminent India launch: What to expect](https://www.indiatoday.in/technology/news/story/realme-x7-x7-pro-teasers-hint-at-imminent-india-launch-what-to-expect-1761053-2021-01-20)
+
+
+> Highlights Realme X7 series may launch soon in India. The launch date for the X7 and X7 Pro is not out yet. Realme X7 series will bring support for 5G connectivity. Realme India boss is teasing the launch of the X7 series in India more frequently than ever. Confirmed last year, the X7 series will be Realme's answer to the mid-range 5G devices launched by OnePlus, Xiaomi, and Oppo. But even after so many teasers, the launch date for the X7 series is not confirmed. Realme might still take some time to build the hype around the phone before it is finally out with the launch date.
+
+
+***
+![Airtel launches data add-on plans at Rs 78 and Rs 248, check all offers](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-20_at_7_1200_210120193528.23.-483x271.png "Airtel launches data add-on plans at Rs 78 and Rs 248, check all offers")
+
+
+[Airtel launches data add-on plans at Rs 78 and Rs 248, check all offers](https://www.indiatoday.in/technology/news/story/airtel-launches-data-add-on-plans-at-rs-78-and-rs-248-check-all-offers-1761090-2021-01-20)
+
+
+> The plans are listed on the Airtel Thanks app and offer 5GB and 12GB till the existing validity of the user's plan. The plan gives 30 days of Wynk Premium subscription to users. Yasmin Ahmed | January 20, 2021 | Updated 19:29 IST
+
+
+***
+[Apple Won't Announce iPhone 13, Ever](https://www.iphonehacks.com/2021/01/apple-wont-announce-iphone-13.html)
+
+
+> Apple won’t announce iPhone 13 this year. A report has now highlighted that Apple’s looking into another naming scheme for the future iPhones. Continue reading →
+
+
+***
+![Unusual Options Activity Insight: Microsoft](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Unusual Options Activity Insight: Microsoft")
+
+
+[Unusual Options Activity Insight: Microsoft](https://www.benzinga.com/markets/options/21/01/19235160/unusual-options-activity-insight-microsoft)
+
+
+> Shares of Microsoft (NASDAQ: MSFT ) saw some unusual options activity on Wednesday. Following the unusual option alert, the stock price moved down to $216.44. Sentiment: BULLISH Option Type: SWEEP Trade Type: CALL Expiration Date: 2021-01-22 Strike Price: $222.50 Volume: 1062 Open Interest: 5508 Three Signs Of Unusual Options Activity Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
