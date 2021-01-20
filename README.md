@@ -11415,3 +11415,53 @@
 > SAMSUNG has unveiled a cheap and cheerful smartphone that costs £169. Better yet, it’s got a slick high-end design that looks just as good as your £1,000 Samsung, Huawei or iPhone. The new Samsung Galaxy A12 is a “low-end” phone, priced at a tenth of top phone models. But it doesn’t skimp on specs at […]
 
 
+***
+![MCO: DOSM to restructure face-to-face Census 2020 interviews, public urged to complete census online](https://apicms.thestar.com.my/uploads/images/2021/01/20/1014685.jpg "MCO: DOSM to restructure face-to-face Census 2020 interviews, public urged to complete census online")
+
+
+[MCO: DOSM to restructure face-to-face Census 2020 interviews, public urged to complete census online](https://www.thestar.com.my/tech/tech-news/2021/01/20/mco-dosm-to-restructure-face-to-face-census-2020-interviews-public-urged-to-complete-census-online)
+
+
+> Ismail Sabri urged those who have yet to complete the Census 2020 questionnaire to go online and do so. — Bernama KUALA LUMPUR: The Department of Statistics Malaysia (DOSM) will restructure its face-to-face interviews and re-open all its e-Census platform (Online Census) following the implementation of the movement control order (MCO) nationwide, except Sarawak, to curb the spread of the Covid-19. Senior Minister Datuk Seri Ismail Sabri Yaakob urged those who have yet to complete the census to do so online via www.
+
+
+***
+![Samsung Galaxy S21 Ultra First Look: Best Android Phone Of 2021?](https://im.indiatimes.in/content/2021/Jan/Galaxy-S21_ultra_lifestyle_black_spen-3_6007ddfb3a627.jpg "Samsung Galaxy S21 Ultra First Look: Best Android Phone Of 2021?")
+
+
+[Samsung Galaxy S21 Ultra First Look: Best Android Phone Of 2021?](https://www.indiatimes.com/technology/news/samsung-galaxy-s21-ultra-first-look-best-android-phone-of-2021-532386.html)
+
+
+> With the start of 2021, Samsung has entered an important chapter in its smartphone saga. Within the first 15 days of the year, the South Korean technology major has introduced its new flagship processor and a range of devices backed by it. The most premium one among these, is what will define the company's future for the time to come. The Galaxy S21 Ultra, as it is called - the new king of Androids, as it is deemed. Samsung Galaxy S21 Ultra (Image: Sarthak Dogra/ Indiatimes)The Galaxy S21 Ultra is the amalgamation of everything Samsung has achieved over the years on the smartphone technology front.
+
+
+***
+![Microsoft patents chatbot technology to revive dead loved ones](https://static.independent.co.uk/2021/01/20/12/ales-nesetril-Im7lZjxeLhg-unsplash.jpg "Microsoft patents chatbot technology to revive dead loved ones")
+
+
+[Microsoft patents chatbot technology to revive dead loved ones](https://www.independent.co.uk/life-style/gadgets-and-tech/microsoft-chatbot-patent-dead-b1789979.html)
+
+
+> Microsoft has been granted a patent that would allow the company to make a chatbot using the personal information of deceased people.   The patent describes creating a bot based on the 'images, voice data, social media posts, electronic messages', and more personal information. 'The specific person [who the chat bot represents] may correspond to a past or present entity (or a version thereof), such as a friend, a relative, an acquaintance, a celebrity, a fictional character, a historical figure, a random entity etc', it goes on to say.
+
+
+***
+![PS5 stock checker UK – GAME to drop more Playstation 5 stock](https://www.thesun.co.uk/wp-content/uploads/2020/12/ps5-live-281220.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock checker UK – GAME to drop more Playstation 5 stock")
+
+
+[PS5 stock checker UK – GAME to drop more Playstation 5 stock](https://www.thesun.co.uk/tech/13233222/ps5-stock-checker-uk-amazon-john-lewis-argos-game-live/)
+
+
+> FOLLOWING its November release, gamers have found it impossible to bag themselves the coveted PS5. New stock drops at the likes of GAME, John Lewis and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console or accessories like wireless headphones.
+
+
+***
+![Pinduoduo worker deaths reignite debate on 996 and the dark side of China tech's overwork culture](https://apicms.thestar.com.my/uploads/images/2021/01/20/1014458.jpg "Pinduoduo worker deaths reignite debate on 996 and the dark side of China tech's overwork culture")
+
+
+[Pinduoduo worker deaths reignite debate on 996 and the dark side of China tech's overwork culture](https://www.scmp.com/tech/policy/article/3117911/pinduoduo-worker-deaths-reignite-debate-996-and-dark-side-china-techs?utm_source=thestar&utm_medium=partner&utm_campaign=contentexchange&utm_content=3117911)
+
+
+> The dark side of working for China's booming technology industry is under the spotlight again amid public criticism of social commerce giant Pinduoduo in the wake of two employee deaths, with many fearing the infamous 996 culture has become worse and not better due to pressure from the pandemic. Pinduoduo, a rapidly expanding online sales firm, first found itself at the centre of a storm following the death of a 22-year-old woman surnamed Zhang, who was working at one of its new business units in Urumqi, on Dec 29 last year.
+
+
