@@ -11853,3 +11853,53 @@
 > US tech chiefs are hoping to dodge an immediate crackdown under Joe Biden's administration as internet regulation slips down the new President's list of priorities. Industry leaders are thought to be breathing a sigh of relief after tougher rules were left out from a string of executive orders signed by President Biden on his first day in the Oval Office. The President sparked alarm earlier this month by promising to 'immediately revoke' Section 230, an internet rule that grants some immunity to technology firms from legal action over posts by users on their site - a move which could potentially expose them to massive losses through lawsuits.
 
 
+***
+![Make Your Pc Notify Your Phone Whenever There is Movement Around it](https://external-preview.redd.it/ii-LFQ7JCTiO4F8QsZiGfMe-FDjeLfEbyNt334aek_8.jpg?auto=webp&s=27e563e074fd13c7a7835c771d553ea9d1973dd9 "Make Your Pc Notify Your Phone Whenever There is Movement Around it")
+
+
+[Make Your Pc Notify Your Phone Whenever There is Movement Around it](https://www.reddit.com/r/programming/comments/l1ibva/make_your_pc_notify_your_phone_whenever_there_is/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Why Signal is the messaging app everyone is talking about](https://mondrian.mashable.com/2021%252F01%252F20%252F71%252F0230aec0211d45ce905cdc4af41833dc.f1c8a.png%252F1200x630.png?signature=sXPCgKYpWdTkyD0KwE2_PG6rMPM= "Why Signal is the messaging app everyone is talking about")
+
+
+[Why Signal is the messaging app everyone is talking about](https://mashable.com/video/what-is-signal-how-to-download/)
+
+
+> No body in the article.
+
+
+***
+![There's Still No Sign of Privacy Labels for Most Google iOS Apps](https://images.macrumors.com/t/qmeKDaOyvvxkF1aGLVN1tieVOHE=/1600x/https://images.macrumors.com/article-new/2021/01/google-apps-collage.jpg "There's Still No Sign of Privacy Labels for Most Google iOS Apps")
+
+
+[There's Still No Sign of Privacy Labels for Most Google iOS Apps](https://www.macrumors.com/2021/01/20/google-ios-apps-still-no-privacy-labels/)
+
+
+> As of December 8, Apple has been requiring developers submitting new apps and app updates to provide privacy label information that outlines the data that each app collects from users when it is installed. Many app developers, such as Facebook, have complied and now include the privacy labels alongside their apps, but there's one notable outlier -- Google. Google has not updated its major apps like Gmail, Google Maps, Chrome, and YouTube since December 7 or before, and most Google apps have to date have not been updated with the Privacy Label feature.
+
+
+***
+![Intel Core i5 Rocket Lake-S CPU fails to match AMD in leaked benchmarks](https://cdn.mos.cms.futurecdn.net/CCRppuwU2of3okGkhAmeHT-1200-80.jpg "Intel Core i5 Rocket Lake-S CPU fails to match AMD in leaked benchmarks")
+
+
+[Intel Core i5 Rocket Lake-S CPU fails to match AMD in leaked benchmarks](https://www.techradar.com/news/intel-core-i5-rocket-lake-s-cpu-fails-to-match-amd-in-leaked-benchmarks)
+
+
+> (Image credit: Shutterstock.com) The Intel Core i5-11400 has debuted on Geekbench, giving us a glimpse of Intel's upcoming Rocket Lake-S CPU lineup beyond the heavily-leaked Intel Core i9-11900K.According to the Geekbench listing, spotted by Videocardz, the Core i5-11400 features 6 cores and 12 threads and will be based on the 14nm Cypress Cove architecture, which Intel claims will deliver double-digit IPC gains over its previous-generation Skylake platform. In terms of clock speeds, the Intel Core i5-11400 features a 2GHz base clock and a 4.
+
+
+***
+![Bernie's Mittens, Trump's Note To Biden, And More Of The Best Memes From The Inauguration](https://cdn.digg.com/wp-content/uploads/2021/01/20204501/Untitled.001-12.jpeg "Bernie's Mittens, Trump's Note To Biden, And More Of The Best Memes From The Inauguration")
+
+
+[Bernie's Mittens, Trump's Note To Biden, And More Of The Best Memes From The Inauguration](https://digg.com/2021/inauguration-memes-bernie-mittens-trump-note-to-biden)
+
+
+> Faces of the Riot used open source software to detect, extract and deduplicate every face from the 827 videos taken from the insurrection on January 6. Some of us have lofty goals, while some of us have more down-to-earth goals. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. A comedian offers a Trump supporter a million dollars if she can answer this seemingly easy question. As President Joe Biden took office, some QAnon believers tried to rejigger their theories to accommodate a transfer of power.
+
+
