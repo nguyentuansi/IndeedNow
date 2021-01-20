@@ -11706,3 +11706,50 @@
 > NBC last year joined the ranks of companies launching their own streaming services, following the likes of Apple and Disney. Available for a range of devices, Peacock offers access to a range of TV shows, movies, sporting events and exclusives - but you'll need a VPN if you want to watch it all from outside the US.That's because NBC's streaming platform is only available for people based in the US.  But if you're travelling to another country and are eager to access the diverse content library, you can get around these annoying geo-restrictions by downloading a VPN for Peacock TV.
 
 
+***
+![If tech investors cut out the traditional media, will the truth still come out?](https://content.fortune.com/wp-content/uploads/2021/01/GettyImages-143629665.jpg?resize=1200,600 "If tech investors cut out the traditional media, will the truth still come out?")
+
+
+[If tech investors cut out the traditional media, will the truth still come out?](https://fortune.com/2021/01/20/tech-and-crypto-funder-andreessen-horowitz-wants-to-replace-the-media-that-might-be-bad-news-for-investors/)
+
+
+> No body in the article.
+
+
+***
+![Windows 10X: Everything you need to know about the foldable PC OS](https://cdn.mos.cms.futurecdn.net/7KoPQAtKLWkbm5aQpWBxfF-1200-80.jpg "Windows 10X: Everything you need to know about the foldable PC OS")
+
+
+[Windows 10X: Everything you need to know about the foldable PC OS](https://www.techradar.com/news/windows-10x)
+
+
+> Windows 10X was going to be one of the most important operating systems to hit the computing world, especially with the age of foldable PCs and laptops already upon us. Foldable phones and dual-screen laptops like the ASUS ZenBook Pro Duo, the HP Omen X 2S, and Lenovo ThinkPad X1 Fold are out while devices like the Dell's Concept Duet and Intel's Horseshoe Bend (hopefully) are well on their way. Unfortunately, due to Microsoft's rollercoaster of a year, the releases of both Windows 10X and the Surface Neo have been delayed.
+
+
+***
+![File Compare & Editor Dec/Hex/Bin for Programming](https://external-preview.redd.it/V5c_6Y576JBL2HzSag4lKCTwNEwYQdiRzxTrz38_7uM.jpg?auto=webp&s=6cd5914390080a9805c6a5a0d73a4d31443583c9 "File Compare & Editor Dec/Hex/Bin for Programming")
+
+
+[File Compare & Editor Dec/Hex/Bin for Programming](https://www.reddit.com/r/programming/comments/l1fco5/file_compare_editor_dechexbin_for_programming/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Automotive Temperature Sensors Market to Accelerate at a CAGR of 6.79% During 2021-2025](https://mms.businesswire.com/media/20210120005522/en/853386/23/IRTNTR46506.jpg "Automotive Temperature Sensors Market to Accelerate at a CAGR of 6.79% During 2021-2025")
+
+
+[Automotive Temperature Sensors Market to Accelerate at a CAGR of 6.79% During 2021-2025](https://www.businesswire.com/news/home/20210120005522/en/Automotive-Temperature-Sensors-Market-to-Accelerate-at-a-CAGR-of-6.79-During-2021-2025-Technavio)
+
+
+> January 20, 2021 01:30 PM Eastern Standard Time LONDON--(BUSINESS WIRE)--Technavio has been monitoring the automotive temperature sensors market and it is poised to grow by USD 1.38 billion during 2021-2025, progressing at a CAGR of almost 7% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario, latest trends and drivers, and the overall market environment. Click & Get Free sample report in minutes Impact of COVID-19 The COVID-19 pandemic continues to transform the growth of various industries, however, the immediate impact of the outbreak is varied.
+
+
+***
+[Jeremy Parish's NES Works #77](https://gonintendo.com/stories/375635-jeremy-parish-s-nes-works-77-ice-hockey-mlb-retrospective)
+
+
+> A pair of old-school sports games this week—one whose quality and playability transcends its visuals, and ones whose quality and playability... do not. Nintendo's Ice Hockey, developed in collaboration with NES Volleyball creators Pax Softnica, distills the essence of the sport into a take whose simplistic style makes possible some truly accessible, fast-paced gameplay that transcends its genre. It's a remarkable game in many respects!
+
+
