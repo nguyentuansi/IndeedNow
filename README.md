@@ -11274,3 +11274,47 @@
 > Redmi has confirmed that it will launch its first flagship gaming phone this year.It also said the new Dimensity 1200 chipset will debut inside a Redmi phone.It's unclear if the gaming phone and Dimensity 1200 phone are the same device.Redmi is traditionally known for delivering budget phones, but the Xiaomi sub-brand has switched to offering affordable flagships in recent years too. Now, it looks like the company is eyeing another segment as well.Redmi general manager Lu Weibing revealed in a machine-translated Weibo post that the brand will launch its 'first flagship gaming phone' this year at a 'price that cannot be refused.
 
 
+***
+![5 Levels of Understanding Closures in Python](https://external-preview.redd.it/eJNW6qcLFqmqJ2CbvKmaBhllK3i7m_cX6PC4y2slLMY.jpg?auto=webp&s=7557a924527f172e052ff38c4d60117a9c005991 "5 Levels of Understanding Closures in Python")
+
+
+[5 Levels of Understanding Closures in Python](https://www.reddit.com/r/Python/comments/l15tc4/5_levels_of_understanding_closures_in_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Turning Off Camera On Video Meetings Is Actually Good For The Environment](https://im.indiatimes.in/content/2021/Jan/Facebook-Image---2021-01-19T131115819_60068d6108a41.jpg "Turning Off Camera On Video Meetings Is Actually Good For The Environment")
+
+
+[Turning Off Camera On Video Meetings Is Actually Good For The Environment](https://www.indiatimes.com/technology/news/turning-off-camera-on-video-meetings-is-actually-good-for-the-environment-532284.html)
+
+
+> With the COVID-19 pandemic taking over our lives, the internet became our saviour. Whether it was working from home, studying from home or just killing time during the lockdown, the internet helped us survive the pandemic.  AFPHowever, with Zoom calls becoming the norm, not many were comfortable with the idea of having the camera on at all times for conversing with team members. Even kids taking classes from home weren't big fans of the idea. And now, research has revealed that turning the camera off could help the environment considerably -- as much as 96 percent.
+
+
+***
+![Motorola Edge S smartphone is launching soon](https://cdn.mos.cms.futurecdn.net/RT9c7fxJNyJphHzRWUtw55-1200-80.jpg "Motorola Edge S smartphone is launching soon")
+
+
+[Motorola Edge S smartphone is launching soon](https://www.techradar.com/news/motorola-edge-s-smartphone-is-launching-soon-is-this-the-new-motorola-edge-2)
+
+
+> Motorola Edge Plus (Image credit: Future) A few days after the Motorola Edge's successor was teased by the company, Motorola has confirmed the launch date of this new Motorola Edge S smartphone, which seems to be the Edge 2 in all but name.On Chinese social media site Weibo, the company posted an announcement stating the new smartphone is coming January 26. This seems to be a Chinese teaser, and it's not clear if the phone will launch globally or just in that country.The launch announcement confirms the phone will run the newly-unveiled Snapdragon 870 chipset and will be 5G-compatible, but other than that we don't know much about the Motorola Edge S.
+
+
+***
+[Windows 螢幕鎖定功能有漏洞，未經授權即可存取資料](https://technews.tw/2021/01/20/windows-secret-club/)
+
+
+> 科技網站 Secret Club 近日揭露，Windows 螢幕鎖定功能存在著安全漏洞，惡意人士可以利用此一螢 […]
+
+
+***
+[Euro hits a snag as EUR/GBP threatens break of key technical support](https://www.forexlive.com/technical-analysis/!/euro-hits-a-snag-as-eurgbp-threatens-break-of-key-technical-support-20210120)
+
+
+> EUR/GBP falls to its lowest level since May last year The push lower in EUR/GBP is playing into pound strength and euro weakness on the session, with the pair now falling to its weakest levels since May last year.
+
+
