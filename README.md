@@ -11753,3 +11753,53 @@
 > A pair of old-school sports games this week—one whose quality and playability transcends its visuals, and ones whose quality and playability... do not. Nintendo's Ice Hockey, developed in collaboration with NES Volleyball creators Pax Softnica, distills the essence of the sport into a take whose simplistic style makes possible some truly accessible, fast-paced gameplay that transcends its genre. It's a remarkable game in many respects!
 
 
+***
+![Dear Sophie: What are Biden's immigration changes? – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/06/SA-at-TC.jpg?w=642 "Dear Sophie: What are Biden's immigration changes? – TechCrunch")
+
+
+[Dear Sophie: What are Biden's immigration changes? – TechCrunch](https://techcrunch.com/2021/01/20/dear-sophie-what-are-bidens-immigration-changes/)
+
+
+> Here's another edition of 'Dear Sophie,' the advice column that answers immigration-related questions about working at technology companies. 'Your questions are vital to the spread of knowledge that allows people all over the world to rise above borders and pursue their dreams,' says Sophie Alcorn, a Silicon Valley immigration attorney. 'Whether you're in people ops, a founder or seeking a job in Silicon Valley, I would love to answer your questions in my next column.' Extra Crunch members receive access to weekly 'Dear Sophie' columns; use promo code ALCORN to purchase a one- or two-year subscription for 50% off.
+
+
+***
+![TikTok's new Q&A feature lets creators respond to fan questions using text or video – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1183804986-1.jpg?w=600 "TikTok's new Q&A feature lets creators respond to fan questions using text or video – TechCrunch")
+
+
+[TikTok's new Q&A feature lets creators respond to fan questions using text or video – TechCrunch](https://techcrunch.com/2021/01/20/tiktoks-new-qa-feature-lets-creators-respond-to-fan-questions-using-text-or-video/)
+
+
+> TikTok is testing a new video Q&A feature that allows creators to more directly respond to their audience's questions with either text or video answers, the company confirmed to TechCrunch. The feature works across both video and livestreams (TikTok LIVE), but is currently only available to select creators who have opted into the test, we understand. Q&A's have become a top way creators engage fans on social media, and have proven to be particularly popular in places like Instagram Stories and in other social apps like Snapchat-integrated YOLO, or even in smaller startups.
+
+
+***
+![CES 2021: Armed with the latest tech](https://images.financialexpress.com/2021/01/more1200.jpg "CES 2021: Armed with the latest tech")
+
+
+[CES 2021: Armed with the latest tech](https://www.financialexpress.com/industry/technology/ces-2021-armed-with-the-latest-tech/2175141/)
+
+
+> In the field of wearables in particular, advances in sensor technology, smart fabrics, cloud computing, flexible membranes and more are taking fitness and wearables to the next level, helping track activity and extend connectivity.The Consumer Electronics Show 2021 (January 11-14) turned out to be the largest digital tech industry event in history, with over 2,000 companies—including almost 700 startups from 37 countries – launching innovations that will move the world forward. In the field of wearables in particular, advances in sensor technology, smart fabrics, cloud computing, flexible membranes and more are taking fitness and wearables to the next level, helping track activity and extend connectivity.
+
+
+***
+![If you're gonna play any Switch games, it ought to at least be these!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/08/best-nintendo-switch-games.jpg "If you're gonna play any Switch games, it ought to at least be these!")
+
+
+[If you're gonna play any Switch games, it ought to at least be these!](https://www.imore.com/best-nintendo-switch-games)
+
+
+> Trying to get your hands on the best Nintendo Switch games that have released so far? There are plenty to choose from, and more awesome titles continue to come out every few months. Whether you're looking for open-world RPGs, fighting games, competitive racers, or local co-op games to share with a friend, Nintendo has you covered. If you want to try several games across all genres, these are the best Nintendo Switch games of all time. Bottom line: As we stated in our Animal Crossing: New Horizons review, this game was released just as the world needed it most.
+
+
+***
+![Remote workers are greener, but their tech still has a real carbon cost – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1208677869.jpg?w=600 "Remote workers are greener, but their tech still has a real carbon cost – TechCrunch")
+
+
+[Remote workers are greener, but their tech still has a real carbon cost – TechCrunch](https://techcrunch.com/2021/01/20/remote-workers-are-greener-but-their-tech-still-has-a-real-carbon-cost/)
+
+
+> The massive shift to remote work due to COVID-19 has resulted in a huge reduction in emissions from vehicles and other sources, but it comes with costs of its own. A new study puts tentative carbon costs on the connectivity and data infrastructure that make working from home possible — and gives you an excuse to leave the camera off. The researchers, from Perdue, Yale, and MIT, attempted to analyze the carbon, land, and water costs of internet infrastructure. 'In order to build a sustainable digital world, it is imperative to carefully assess the environmental footprints of the Internet and identify the individual and collective actions that most affect its growth,' they write in the paper's introduction.
+
+
