@@ -11465,3 +11465,50 @@
 > The dark side of working for China's booming technology industry is under the spotlight again amid public criticism of social commerce giant Pinduoduo in the wake of two employee deaths, with many fearing the infamous 996 culture has become worse and not better due to pressure from the pandemic. Pinduoduo, a rapidly expanding online sales firm, first found itself at the centre of a storm following the death of a 22-year-old woman surnamed Zhang, who was working at one of its new business units in Urumqi, on Dec 29 last year.
 
 
+***
+[LangTrans](https://www.reddit.com/r/Python/comments/l18zmh/langtrans/)
+
+
+> LangTrans is developer tool to customize syntax of any programming language. Knowledge about regular expression is all you need. LangTrans is written in Python. Syntax Definitions of new syntax and template of original language written in YAML. See the Documentation GitHub submitted by /u/bijinregipanicker [link] [comments]
+
+
+***
+![Mogo Introduces 1% Bitcoin Cashback Rewards](http://www.businesswire.com/images/bwlogo_square.png "Mogo Introduces 1% Bitcoin Cashback Rewards")
+
+
+[Mogo Introduces 1% Bitcoin Cashback Rewards](https://www.businesswire.com/news/home/20210120005390/en/Mogo-Introduces-1-Bitcoin-Cashback-Rewards)
+
+
+> January 20, 2021 08:15 AM Eastern Standard Time VANCOUVER, British Columbia--(BUSINESS WIRE)--Mogo Inc. (NASDAQ:MOGO) (TSX:MOGO) ('Mogo' or the 'Company'), a digital payments and financial technology company empowering the next generation of consumers, today announced that their first-of-its-kind bitcoin rewards program has been extended to include the Mogo Visa* Platinum Prepaid Card ('MogoCard') and digital spending account. Beginning this month, members will earn 1% bitcoin cashback rewards for every purchase made on their MogoCard.
+
+
+***
+![Target PS5 restock: consoles available in some locations](https://cdn.mos.cms.futurecdn.net/aEueXe3ipNdbUCJsJ2DTTX-1200-80.jpg "Target PS5 restock: consoles available in some locations")
+
+
+[Target PS5 restock: consoles available in some locations](https://www.techradar.com/news/ps5-restock-at-target-live-now-certain-regions)
+
+
+> (Image credit: Sony) Target has a fresh wave of PS5 restocks available in certain locations right now, but you'll need to move quickly to grab yours if you're in a lucky city. We're seeing PS5 stock available in a range of locations, for fast delivery or pickup within 2 hours. That's excellent news for anyone looking to buy PS5 this week, after a good stretch with no new stock on the shelves.The PS5 comes with a revolutionary new DualSense controller, and is capable of 4K gaming at 120fps. It's also backwards compatible with all the best PS4 games, so you can revisit some classic titles and take your existing library with you.
+
+
+***
+![Facebook stops support for their React Native SDK wrapper today](https://external-preview.redd.it/R6PXz820BsJXwSxSaq9pq9S8ZdtOu8HxOht8g3aEkp8.jpg?auto=webp&s=d917fe67f96420793ec75c36dad5729aa2304766 "Facebook stops support for their React Native SDK wrapper today")
+
+
+[Facebook stops support for their React Native SDK wrapper today](https://www.reddit.com/r/programming/comments/l18uz9/facebook_stops_support_for_their_react_native_sdk/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Michigan Governor Gretchen Whitmer on Biden's inauguration](https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/20/88fb9e3f-ad93-4e48-8445-f647e7d4a952/thumbnail/1200x630/249748279633c68972d00e35c87f809d/cbsn-fusion-michigan-governor-gretchen-whitmer-on-bidens-inauguration-thumbnail-629617-640x360.jpg "Michigan Governor Gretchen Whitmer on Biden's inauguration")
+
+
+[Michigan Governor Gretchen Whitmer on Biden's inauguration](https://www.cbsnews.com/video/michigan-governor-gretchen-whitmer-on-bidens-inauguration/)
+
+
+> No body in the article.
+
+
