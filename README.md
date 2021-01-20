@@ -11177,3 +11177,50 @@
 > Shanghai - Alibaba Group founder Jack Ma met 100 rural teachers in China via a live video meeting on Wednesday morning, in the businessman's first appearance since October.Social media speculation over the whereabouts of China's highest-profile entrepreneur swirled this month after news reports that he missed the final episode of a TV show featuring him as a judge, amid a regulatory clampdown by Beijing on his sprawling business empire.Ma had not appeared in public since a late-October forum in Shanghai, where he blasted China's regulatory system in a speech that set him on a collision course with officials, leading to suspension of a $37-billion IPO of Alibaba's financial affiliate Ant Group.
 
 
+***
+![Little console Slot Machine on Java I made. Been doing Java for just 1 month! Check it out and let me know what u think.](https://external-preview.redd.it/fAb42MHp1ewh9_A48mgmmC_gHfZD2A6KzeOvGW8ecM4.jpg?auto=webp&s=a6347e1b94e442eaa8ec3ee451473d3af7e6ed49 "Little console Slot Machine on Java I made. Been doing Java for just 1 month! Check it out and let me know what u think.")
+
+
+[Little console Slot Machine on Java I made. Been doing Java for just 1 month! Check it out and let me know what u think.](https://www.reddit.com/r/programming/comments/l14aqx/little_console_slot_machine_on_java_i_made_been/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Former Google engineer Anthony Levandowski among list of last-minute Trump pardons – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1176871825.jpeg?w=581 "Former Google engineer Anthony Levandowski among list of last-minute Trump pardons – TechCrunch")
+
+
+[Former Google engineer Anthony Levandowski among list of last-minute Trump pardons – TechCrunch](https://techcrunch.com/2021/01/19/former-google-engineer-anthony-levandowski-among-list-of-last-minute-trump-pardons/)
+
+
+> Anthony Levandowski, the former Google engineer and serial entrepreneur who had been sentenced to 18 months in prison on one count of stealing trade secrets, has received a pardon from President Donald Trump. The full pardon, which was one of 73 issued late Tuesday evening, means Levandowski will avoid a prison cell. The president also commuted 70 sentences. Levandowski received his sentence in August 2020. However, Judge Alsup, who presided over the case, said he didn't need to report to prison until the threat of the COVID-19 pandemic had passed.
+
+
+***
+![MediaTek just unveiled its new chips that'll take on the Snapdragon 888](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/mediatek-dimensity-1200.jpg.jpg "MediaTek just unveiled its new chips that'll take on the Snapdragon 888")
+
+
+[MediaTek just unveiled its new chips that'll take on the Snapdragon 888](https://www.androidcentral.com/mediatek-unveils-flagship-dimensity-1100-1200-5g-processors-challenge-snapdragon-888)
+
+
+> Source: Mediatek MediaTek has unveiled its two latest chipsets for 2021. The Dimensity 1100 and 1200 5G look to take on the Snapdragon 888. Android phones with the new chips should start shipping in Spring 2021. Taiwanese silicon giant MediaTek has today taken the wraps off its latest generation of high-end Dimensity chipsets for smartphones, boasting improved performance, connectivity, and power consumption. The MediaTek Dimensity 1200 looks set to challenge the likes of Qualcomm's Snapdragon 888 and Samsung's Exynos 2100 by bringing high performance, integrated 5G, and advanced AI capabilities to upcoming flagship Android phones.
+
+
+***
+[Facing Problems While Using Signal App? Here Are the Solutions](https://www.thequint.com/tech-and-auto/having-problems-using-signal-app-here-are-the-solutions)
+
+
+> Here's a quick guide you can refer to, if you face any hurdles while using the Signal application.
+
+
+***
+![Israeli firm develops electric car batteries that can charge in 5 minutes](https://static.theprint.in/wp-content/uploads/2020/10/Untitled-design-23-696x392-1.jpg "Israeli firm develops electric car batteries that can charge in 5 minutes")
+
+
+[Israeli firm develops electric car batteries that can charge in 5 minutes](https://theprint.in/tech/israeli-firm-develops-electric-car-batteries-that-can-charge-in-5-minutes/588719/)
+
+
+> Electric car at a charging station | Wikimedia commons Text Size: London: Israeli company StoreDot Ltd. has manufactured the first battery for electric vehicles that can be charged in just five minutes, a step toward making refueling as fast as cars at a gas station. The lithium-ion samples were produced by StoreDot's strategic partner in China, Eve Energy Co., and have been used as a demonstration in a two-wheeled scooter. StoreDot said that rapid charging batteries could overcome range and charging anxiety, a critical barrier to mainstream EV adoption.
+
+
