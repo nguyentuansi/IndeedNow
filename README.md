@@ -10880,3 +10880,53 @@
 > January 19, 2021 05:38 PM Eastern Standard Time BILLERICA, Mass.--(BUSINESS WIRE)--Entegris, Inc. (NASDAQ: ENTG), will release its financial results for the fourth quarter of 2020 before the opening of the market on Tuesday, February 2, 2021. A teleconference with management is scheduled for the same day at 9:00 a.m. Eastern Time (ET). Participants should dial +1 323-289-6576 or 800-437-2398, referencing confirmation code 9608918. Participants are asked to dial in 5 to 10 minutes prior to the start of the call.
 
 
+***
+![Netflix global subscriptions pass 200m](https://imagevars.gulfnews.com/2020/10/26/Stock-Netflix_175654e20f7_medium.jpg "Netflix global subscriptions pass 200m")
+
+
+[Netflix global subscriptions pass 200m](https://gulfnews.com/technology/companies/netflix-global-subscriptions-pass-200m-1.1611096752085)
+
+
+> Netflix Image Credit: AP Netflix said on Tuesday its global subscriber rolls crossed 200 million at the end of 2020 and projected it will no longer need to borrow funds to keep financing its broad slate of streaming TV shows and movies, sending shares up 12 per cent after hours. The world's largest streaming service signed up 8.5 million new customers from October to December when it debuted widely praised series 'The Queen's Gambit' and 'Bridgerton.' The company topped Wall Street estimates of 6.
+
+
+***
+![ਸਿੰਧ : ਆਜ਼ਾਦੀ ਨੂੰ ਹਾਂ, ਵੱਖਵਾਦ ਨੂੰ ਨਾਂਹ](https://static.jagbani.com/multimedia/2021_1image_03_25_41925669019ldhhraj01-ll.jpg "ਸਿੰਧ : ਆਜ਼ਾਦੀ ਨੂੰ ਹਾਂ, ਵੱਖਵਾਦ ਨੂੰ ਨਾਂਹ")
+
+
+[ਸਿੰਧ : ਆਜ਼ਾਦੀ ਨੂੰ ਹਾਂ, ਵੱਖਵਾਦ ਨੂੰ ਨਾਂਹ](https://jagbani.punjabkesari.in/blog/news/sindh--yes-to-independence--no-to-separatism-1263839)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![ਅਸਹਿਮਤੀ 'ਤੇ ਹਮਲਾ ਤੌਬਾ! ਸਰਕਾਰ ਬਹੁਤ ਸੰਵੇਦਨਸ਼ੀਲ ਹੈ](https://static.jagbani.com/multimedia/2021_1image_18_04_237877915tandav-ll.jpg "ਅਸਹਿਮਤੀ 'ਤੇ ਹਮਲਾ ਤੌਬਾ! ਸਰਕਾਰ ਬਹੁਤ ਸੰਵੇਦਨਸ਼ੀਲ ਹੈ")
+
+
+[ਅਸਹਿਮਤੀ 'ਤੇ ਹਮਲਾ ਤੌਬਾ! ਸਰਕਾਰ ਬਹੁਤ ਸੰਵੇਦਨਸ਼ੀਲ ਹੈ](https://jagbani.punjabkesari.in/blog/news/attack-on-dissent-repent--the-government-is-very-sensitive-1263838)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![‘ਭਗਵਾਨ ਰਾਮ ਦੇ ਪਵਿੱਤਰ ਨਾਮ ਦੀ ਸ਼ਾਨ ਵਧਾਓ' ‘ਚੰੰਦਾ ਸਿਰਫ ਟਰੱਸਟ ਨੂੰ ਭੇਜੋ'](https://static.jagbani.com/multimedia/2021_1image_03_14_48230367619ldhhraj01-ll.jpg "‘ਭਗਵਾਨ ਰਾਮ ਦੇ ਪਵਿੱਤਰ ਨਾਮ ਦੀ ਸ਼ਾਨ ਵਧਾਓ' ‘ਚੰੰਦਾ ਸਿਰਫ ਟਰੱਸਟ ਨੂੰ ਭੇਜੋ'")
+
+
+[‘ਭਗਵਾਨ ਰਾਮ ਦੇ ਪਵਿੱਤਰ ਨਾਮ ਦੀ ਸ਼ਾਨ ਵਧਾਓ' ‘ਚੰੰਦਾ ਸਿਰਫ ਟਰੱਸਟ ਨੂੰ ਭੇਜੋ'](https://jagbani.punjabkesari.in/article/news/glory-to-the-holy-name-of-lord-rama-1263837)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![ਕਿਸਾਨ ਅੰਦੋਲਨ: 10ਵੇਂ ਦੌਰ ਦੀ ਅੱਜ ਸਰਕਾਰ ਨਾਲ ਹੋਵੇਗੀ ਬੈਠਕ](https://static.jagbani.com/multimedia/2021_1image_02_29_587844548farmers-ll.jpg "ਕਿਸਾਨ ਅੰਦੋਲਨ: 10ਵੇਂ ਦੌਰ ਦੀ ਅੱਜ ਸਰਕਾਰ ਨਾਲ ਹੋਵੇਗੀ ਬੈਠਕ")
+
+
+[ਕਿਸਾਨ ਅੰਦੋਲਨ: 10ਵੇਂ ਦੌਰ ਦੀ ਅੱਜ ਸਰਕਾਰ ਨਾਲ ਹੋਵੇਗੀ ਬੈਠਕ](https://jagbani.punjabkesari.in/national/news/farmers-protest--10th-round-meeting-with-government-today-1263835)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
