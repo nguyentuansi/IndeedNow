@@ -11559,3 +11559,53 @@
 > (Image credit: Shutterstock) Google has made a small but important change to Gmail, which should make it easier than ever for individuals to manage their chat messages. The technology giant will now allow users of the Gmail web client to resize the Google Chat and Rooms side widgets.'You can now resize the Chat and Rooms sections in the left-side navigation of Gmail on the web,' a Google Workspace Update explained. 'This makes it easier to stay on top of your most important conversations and navigate to relevant chats faster.
 
 
+***
+![All useable amiibo and what they do in Super Mario 3D World + Bowser's Fury](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/super-mario-3d-world-cat-mario.jpg "All useable amiibo and what they do in Super Mario 3D World + Bowser's Fury")
+
+
+[All useable amiibo and what they do in Super Mario 3D World + Bowser's Fury](https://www.imore.com/super-mario-3d-world-bowsers-fury-amiibo-all-usable-amiibo-and-what-they-do)
+
+
+> Source: Nintendo Super Mario World 3D + Bowser's Fury is releasing on Feb. 12, providing Nintendo Switch players with a chance to play the classic Wii U game along with some brand new content. As part of the launch, Nintendo is coming out with some new amiibo and re-releasing others that will be relevant to the game. New Super Mario World 3D + Bowser's Fury amiibo You can currently preorder Super Mario 3D World + Bowser's Fury from Best Buy along with the new Cat Peach and Cat Mario amiibo. The Cat Mario amiibo turns Mario into the Invincible White Cat Mario while the Peach version generates a random power-up item.
+
+
+***
+![BiP Booms Beyond Turkey](https://mms.businesswire.com/media/20210120005488/en/853376/23/4333608cBiP_en.jpg "BiP Booms Beyond Turkey")
+
+
+[BiP Booms Beyond Turkey](https://www.businesswire.com/news/home/20210120005488/en/BiP-Booms-Beyond-Turkey)
+
+
+> January 20, 2021 09:59 AM Eastern Standard Time İSTANBUL--(BUSINESS WIRE)--There is growing attention being directed at BiP, Turkey's local communication platform developed by Turkcell engineers, in international arena. It has been downloaded 64 million times in total, of which 12 million beyond Turkey. With the rising demand from users of late, BiP continues to scale the top ranks of the 'Most Popular Free' and 'Trending' categories in application markets the world over. BiP has become the most downloaded communication application in Google Play Store in Bahrain, Bangladesh, Qatar, Pakistan, Saudi Arabia and Oman.
+
+
+***
+![LG thinks about shutting down its smartphone business](https://mondrian.mashable.com/2021%252F01%252F20%252F0f%252F62eda54774ef4e6aa2a77f029d3363a1.cde52.png%252F1200x630.png?signature=SIrztiZdgr8SaLmUMpDXC20iPao= "LG thinks about shutting down its smartphone business")
+
+
+[LG thinks about shutting down its smartphone business](https://mashable.com/article/lg-smartphone-business-exit/)
+
+
+> After six years of losses, LG might finally call it quits.  On Wednesday, LG CEO Kwon Bong-seok sent a message to company staff saying LG's smartphone division has to change, The Korea Herald reported. And according to an unnamed LG official, this could mean withdrawal from the smartphone business, as well as selling or downsizing the company's mobile division.  'Since the competition in the global market for mobile devices is getting fiercer, it is about time for LG to make a cold judgment and the best choice," the official told the outlet.
+
+
+***
+![Adam Gilchrist, Michael Hussey relive epic moment between Australia, World XI in 2005 ICC Super Series, during Melbourne Renegades' clash with Melbourne Stars](https://imageresizer.static9.net.au/hLIi4Qy8KHS5jRP7V2gQnb_oW04=/0x0/https://prod.static9.net.au/fs/9f41401f-c829-4058-99da-940afe82fe18 "Adam Gilchrist, Michael Hussey relive epic moment between Australia, World XI in 2005 ICC Super Series, during Melbourne Renegades' clash with Melbourne Stars")
+
+
+[Adam Gilchrist, Michael Hussey relive epic moment between Australia, World XI in 2005 ICC Super Series, during Melbourne Renegades' clash with Melbourne Stars](https://technocodex.com/adam-gilchrist-michael-hussey-relive-epic-moment-between-australia-world-xi-in-2005-icc-super-series-during-melbourne-renegades-clash-with-melbourne-stars/)
+
+
+> Australian cricket fans love a throwback to the glory days – and on Wednesday night they were treated to one of the most bizarre.Legendary wicketkeeper-batsman Adam Gilchrist and fellow commentator Mark Howard took the chance on Fox Cricket's coverage of the Big Bash League to rib Michael Hussey about the time he hit the roof at Docklands Stadium.The stage was set for a hearty laugh about Hussey's enormous but unfortunate strike, as the Renegades and Stars were squaring off on the same patch of turf 15 years later.
+
+
+***
+![$5 Billion Worldwide Instrumentation Services Industry to 2027](https://mms.businesswire.com/media/20210120005482/en/371054/23/ResearchAndMarkets_800px.jpg "$5 Billion Worldwide Instrumentation Services Industry to 2027")
+
+
+[$5 Billion Worldwide Instrumentation Services Industry to 2027](https://www.businesswire.com/news/home/20210120005482/en/5-Billion-Worldwide-Instrumentation-Services-Industry-to-2027---Impact-of-COVID-19-on-the-Market---ResearchAndMarkets.com)
+
+
+> January 20, 2021 09:51 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Instrumentation Services - Global Market Trajectory & Analytics" report has been added to ResearchAndMarkets.com's offering. The publisher brings years of research experience to the 6th edition of this report. The 209-page report presents concise insights into how the pandemic has impacted production and the buy side for 2020 and 2021. A short-term phased recovery by key geography is also addressed. Global Instrumentation Services Market to Reach $7 Billion by 2027 Amid the COVID-19 crisis, the global market for Instrumentation Services estimated at US$5 Billion in the year 2020, is projected to reach a revised size of US$7 Billion by 2027, growing at a CAGR of 4.
+
+
