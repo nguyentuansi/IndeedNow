@@ -11318,3 +11318,53 @@
 > EUR/GBP falls to its lowest level since May last year The push lower in EUR/GBP is playing into pound strength and euro weakness on the session, with the pair now falling to its weakest levels since May last year.
 
 
+***
+![God of War Ragnarok studio is already working on a new next-gen game](https://cdn.mos.cms.futurecdn.net/BWmVZo7ATqTF76bu8rPsxT-1200-80.jpg "God of War Ragnarok studio is already working on a new next-gen game")
+
+
+[God of War Ragnarok studio is already working on a new next-gen game](https://www.techradar.com/news/god-of-war-ragnarok-studio-is-already-working-on-a-new-next-gen-game)
+
+
+> (Image credit: Sony) The Sony development studio behind 2018's God of War – and the upcoming God of War: Ragnarok sequel – seems to be working on an unannounced title, if a new job listing posted to Twitter is anything to go by.Santa Monica Studio's official Twitter account posted a vacancy for an art director, explicitly for an "unannounced" game, and we're already in a frenzy over what it might be.🔥 HOT JOB: ART DIRECTOR 🔥We are seeking an experienced Art Director for the development of a new unannounced title!If you've got what it takes to guide and inspire our team to deliver best-in-class visual quality, apply here 👉 https://t.
+
+
+***
+![How to watch Joe Biden Inauguration Day 2021: live stream the ceremony anywhere today](https://cdn.mos.cms.futurecdn.net/fTp4Y7xMgBEkQgePgFmgpd-1200-80.jpg "How to watch Joe Biden Inauguration Day 2021: live stream the ceremony anywhere today")
+
+
+[How to watch Joe Biden Inauguration Day 2021: live stream the ceremony anywhere today](https://www.techradar.com/news/how-to-watch-inauguration-day-joe-biden-2021-live-stream)
+
+
+> It's been a tumultuous few months since last year's US Presidential election ended in the defeat of incumbent Republican Donald Trump, but later today President elect Joe Biden and Vice President-elect Kamala Harris will both finally be sworn into the country's highest offices in one of the world's biggest political occasions. Read on for our unbiased guide explaining how to watch Inauguration Day 2021 and get a Biden inauguration live stream, no matter where you are in the world right now - including all the free options around.
+
+
+***
+![Is using Plex illegal?](https://cdn.mos.cms.futurecdn.net/tT68HSKztBQsusjV6CgbfA-1200-80.jpg "Is using Plex illegal?")
+
+
+[Is using Plex illegal?](https://www.techradar.com/news/is-plex-illegal)
+
+
+> (Image credit: Plex) Plex is an outstanding media organization and streaming tool. Typically, you install the Plex server on the home computer where your movies, TV, photos, and music are stored, and you can then stream this content to devices running a Plex app. Using Plex is perfectly legal. However, some of the things that people use Plex for make their specific use of Plex illegal - so read on to make sure you don't fall foul on potentially dodgy ground.Legal uses of PlexPlex was designed to be used as a management and streaming tool for the media you own.
+
+
+***
+![NFL live stream 2020/21: how to watch playoff football games online from anywhere](https://cdn.mos.cms.futurecdn.net/48JbBABVntYHC5bUMXPSAe-1200-80.jpg "NFL live stream 2020/21: how to watch playoff football games online from anywhere")
+
+
+[NFL live stream 2020/21: how to watch playoff football games online from anywhere](https://www.techradar.com/news/nfl-live-stream-2020-how-to-watch-every-game-of-the-new-season-from-anywhere)
+
+
+> Last year's landmark 100th NFL season lived up to all expectations and then some. While the 2020/21 campaign got off to an unusual start in so many respects, we've since rumbled like vintage Jerome Bettis right down to the final two games of the playoffs and the penultimate stage of another scintillating season. Read on for all the latest information and ways to watch an NFL live stream for the AFC and NFC Championship playoff game this weekend, no matter where you are in the world right now.NFL live stream 2020/21The new NFL season kicked off back in September, with the regular season concluding on January 3, 2021.
+
+
+***
+![Perion raises financial outlook amid recent acquisitions and higher demand across CTV and video offerings (NASDAQ:PERI)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Perion raises financial outlook amid recent acquisitions and higher demand across CTV and video offerings (NASDAQ:PERI)")
+
+
+[Perion raises financial outlook amid recent acquisitions and higher demand across CTV and video offerings (NASDAQ:PERI)](https://seekingalpha.com/news/3641997-perion-raises-financial-outlook-amid-recent-acquisitions-and-higher-demand-across-ctv-and)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
