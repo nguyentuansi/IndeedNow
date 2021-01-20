@@ -10930,3 +10930,53 @@
 > Subscribe Now! Facebook twitter google +
 
 
+***
+![Wattpad, the storytelling platform, is selling to South Korea's Naver for $600 million – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/02/wattpad-Multi_pathform.png?w=703 "Wattpad, the storytelling platform, is selling to South Korea's Naver for $600 million – TechCrunch")
+
+
+[Wattpad, the storytelling platform, is selling to South Korea's Naver for $600 million – TechCrunch](https://techcrunch.com/2021/01/19/wattpad-the-storytelling-platform-is-selling-to-south-koreas-naver-for-600-million/)
+
+
+> Wattpad, the 14-year-old, Toronto-based, venture-backed storytelling platform with reach into a number of verticals, is being acquired by Naver, the South Korean conglomerate, in a $600 million cash-and-stock deal. Naver plans to incorporate at least part of the business into another of its holdings, the publishing platform Webtoon, which Naver launched in 2004, brought to the U.S. in 2014, and that features thousands of comic strips created by its users. It also has a huge audience. According to Naver, Webtoons was averaging more than 67 million monthly users as of last August.
+
+
+***
+![South Korea's Kia Says Reviewing Cooperation on EV Business, After Media Report on Apple](https://www.usnews.com/dims4/USNEWS/de871d2/2147483647/resize/1200x%3E/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F7f%2F2b00b8f419680ae8a7da93f190da5a%2Ftag%3Areuters.com%2C2021%3Anewsml_LYNXMPEH0J02W%3A12021-01-20T014427Z_1_LYNXMPEH0J02W_RTROPTP_3_AUTOSHOW-LA.JPG "South Korea's Kia Says Reviewing Cooperation on EV Business, After Media Report on Apple")
+
+
+[South Korea's Kia Says Reviewing Cooperation on EV Business, After Media Report on Apple](https://www.usnews.com/news/technology/articles/2021-01-19/south-koreas-kia-says-reviewing-cooperation-on-ev-business-after-media-report-on-apple)
+
+
+> SEOUL (Reuters) - South Korean automaker Kia said in a regulatory filing on Wednesday it is reviewing cooperation on its self-driving electric vehicle (EV) business with multiple foreign companies, but that nothing has been decided. South Korean online media Edaily reported late on Tuesday that Kia's parent Hyundai Motor Group decided that Kia would be in charge of a proposed cooperation with Apple regarding electric vehicles, citing unnamed industry sources. Shares in Kia were up 7.9% as of 0127 GMT, compared to a 0.
+
+
+***
+![Big Growth in Fourth Quarter for HBO Max and Disney+, Streaming Report Says](https://nationalinterest.org/sites/default/files/main_images/2020-12-17T000000Z_1666817892_RC24PK92HZRB_RTRMADP_3_MEDIA-STREAMING-YEAR-END%20copy.jpg "Big Growth in Fourth Quarter for HBO Max and Disney+, Streaming Report Says")
+
+
+[Big Growth in Fourth Quarter for HBO Max and Disney+, Streaming Report Says](https://nationalinterest.org/blog/techland/big-growth-fourth-quarter-hbo-max-and-disney-streaming-report-says-176699)
+
+
+> The year 2020 was, without a doubt, a breakthrough for streaming, the pandemic keeping large numbers of people home for a lot more time than usual. In addition, new services arrived in 2020, including HBO Max and Peacock, while Disney+ and Apple TV+ built up their offerings throughout the year after debuting in late 2019. Netflix, meanwhile, had a string of huge hits throughout 2020, from Tiger King to The Queen's Gambit.  The streaming hub Reelgood this week put out a new report called Q4 2020 VOD Streaming Report, which was based on what the company called its 'VOD Viewing Insights,' which come from thirty-two million interactions from two million users.
+
+
+***
+![iPhone se 2020 + apple battery case](https://images.macrumors.com/social/?t=2281070&v=6 "iPhone se 2020 + apple battery case")
+
+
+[iPhone se 2020 + apple battery case](https://forums.macrumors.com/threads/iphone-se-2020-apple-battery-case-real-world-results.2281070/)
+
+
+> Does anyone have the new SE with the apple smart battery case? I'm looking for REAL WORLD usage from this combo. Due to some unfortunate eye strain and headache issues, I can't use an oled iPhone or even the xr/11. Will the se be different is something I don't know. My 8+ is cracked and barely holding on. The battery is still 97%, but the rest of it is in rough shape after I dropped it (first phone I have ever broken) I'm aware the new se battery life is horrible. I have never owned an apple battery case, but I'm curious how much this actually extends the battery in real world usage.
+
+
+***
+![Parler Tries to Survive With Help From Russian Company](https://static01.nyt.com/images/2021/01/19/business/19parler1/merlin_182186010_92aaf72c-b52e-4d93-b935-7dc3ded925be-facebookJumbo.jpg "Parler Tries to Survive With Help From Russian Company")
+
+
+[Parler Tries to Survive With Help From Russian Company](https://www.nytimes.com/2021/01/19/technology/parler-russian-company.html)
+
+
+> Continue reading the main storyThe social network, popular with President Trump's supporters, went offline last week after it was kicked off Amazon's servers.Parler last week. Its chief operating officer said that a Russian company, DDoS-Guard, was supporting only a temporary webpage for Parler, and that concerns were overblown. Credit...Cristobal Herrera-Ulashkevich/EPA, via ShutterstockJan. 19, 2021, 8:23 p.m. ETParler, the social network popular with Trump supporters, is trickling back to life.
+
+
