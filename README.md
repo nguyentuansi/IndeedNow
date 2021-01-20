@@ -11903,3 +11903,53 @@
 > Faces of the Riot used open source software to detect, extract and deduplicate every face from the 827 videos taken from the insurrection on January 6. Some of us have lofty goals, while some of us have more down-to-earth goals. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. A comedian offers a Trump supporter a million dollars if she can answer this seemingly easy question. As President Joe Biden took office, some QAnon believers tried to rejigger their theories to accommodate a transfer of power.
 
 
+***
+![Tesla Cuts Prices On European Model 3: Report](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/model_3_-_blue_driving_6.png "Tesla Cuts Prices On European Model 3: Report")
+
+
+[Tesla Cuts Prices On European Model 3: Report](https://www.benzinga.com/tech/21/01/19243545/tesla-cuts-prices-on-european-model-3-report)
+
+
+> Tesla Inc's (NASDAQ: TSLA ) Model 3 has been a popular car worldwide. Unfortunately for European customers having the vehicle imported, the prices were a bit high. It seems like Tesla is now trying to make the vehicle more affordable. According to Electrek , legacy automakers are starting to take a larger slice of the electric vehicle market. Part of this may be due to import costs Tesla must deal with that domestic manufacturers don't have. Tesla currently imports its vehicles from the U.S. and China.
+
+
+***
+![A Day One game plan for STEM diversity](https://thehill.com/sites/default/files/stem_gettyimages_6-4-2018.jpg "A Day One game plan for STEM diversity")
+
+
+[A Day One game plan for STEM diversity](https://thehill.com/opinion/technology/534980-a-day-one-game-plan-for-stem-diversity)
+
+
+> Our nation has seen many dark, chaotic days this past year. We have fallen behind the rest of the world and it is clear that the deprioritization of science is partially to blame. As we look towards Inauguration Day, we must be intentional in rebuilding our nation's science, technology, engineering and math (STEM) capacity. President-elect Biden's ambitious, policy focused approach to governing will tackle the COVID-19 pandemic, racial justice and climate change. Creating a resilient, robust and diverse STEM pipeline must be a priority.
+
+
+***
+![Social media giants grilled on hate content](https://ichef.bbci.co.uk/news/1024/branded_news/107B5/production/_116590576_logos.jpg "Social media giants grilled on hate content")
+
+
+[Social media giants grilled on hate content](https://www.bbc.com/news/technology-55732451)
+
+
+> image caption Jacob Chansley (C), also known as the QAnon Shaman, has been charged over the US Capitol riots Social network executives have been grilled by MPs on the role their platforms played in recent events in Washington which saw a mob break into Congress. All said that they needed to do more to monitor extremist groups and content such as conspiracy theories. But none had any radical new policies to offer. The government has recently set out tough new rules for how social media firms moderate content.
+
+
+***
+![Nearly every single sale item at Anthropologie is an additional 50% off right now](https://www.gannett-cdn.com/presto/2021/01/20/USAT/fb7a331f-ff2f-4e5f-a088-806925cbeea4-anthro_hero.jpg?crop=4778,2688,x21,y0&width=3200&height=1680&fit=bounds "Nearly every single sale item at Anthropologie is an additional 50% off right now")
+
+
+[Nearly every single sale item at Anthropologie is an additional 50% off right now](https://www.usatoday.com/story/tech/reviewedcom/2021/01/20/anthropologie-get-boho-sale-apparel-and-more-extra-50-off/4232277001/)
+
+
+> Shop this major Anthropologie sale right now.   (Photo: Anthropologie / Getty Images) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Anthropologie has always been a hotspot for boho-chic apparel , accessories and home décor , but while the retailer regularly produces ultra-stylish looks, these pieces can also be quite costly. Thankfully, the store's sales aren't too far and in-between—and, right now, you can shop one of the best savings events we've ever seen from the site for some time.
+
+
+***
+![Used Samsung Galaxy phones: A guide on how to trade in or buy one](https://cdn.cnn.com/cnnnext/dam/assets/210113215510-2-galaxy-s21-underscored-super-169.jpg "Used Samsung Galaxy phones: A guide on how to trade in or buy one")
+
+
+[Used Samsung Galaxy phones: A guide on how to trade in or buy one](https://www.cnn.com/2021/01/20/cnn-underscored/buy-used-refurbished-samsung-galaxy-smartphones/index.html)
+
+
+> (CNN) —   Fixing a cracked screen on a Samsung Galaxy, or even having to replace the whole phone, is not cheap. As these devices have gotten more advanced, with pinhole front-facing cameras and faster processors, the prices have advanced too. The latest S21, S21+ and S20 Ultra start at $799, $999 and $1,299, respectively. Luckily for all the Galaxy fans out there, you don't have to break the bank if you're in the market for a new one. You can trade in your current smartphone (even one with a cracked screen) or opt to buy a used model from several retailers.
+
+
