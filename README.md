@@ -11030,3 +11030,50 @@
 > © Reuters. FILE PHOTO: LA Auto Show in Los Angeles SEOUL (Reuters) - South Korean automaker Kia Corp said on Wednesday it's reviewing cooperation on self-driving electric cars with multiple foreign firms, making no mention of a report linking it to a project with tech giant Apple Inc (NASDAQ:). Kia's comment, issued in a regulatory filing as its shares surged nearly 20% in Seoul, came after domestic online publication Edaily reported late on Tuesday that Kia's parent, Hyundai Motor Group, had decided Kia would be in charge of proposed cooperation with Apple on electric cars.
 
 
+***
+![Alabama museum to restore full-sized mockup of space shuttle](https://s.abcnews.com/images/Technology/WireAP_caf22c7ceb1147a4ba0e9ce7ccefb83e_16x9_992.jpg "Alabama museum to restore full-sized mockup of space shuttle")
+
+
+[Alabama museum to restore full-sized mockup of space shuttle](https://abcnews.go.com/Technology/wireStory/alabama-museum-restore-full-sized-mockup-space-shuttle-75358551)
+
+
+> HUNTSVILLE, Ala. -- The U.S. Space & Rocket Center in Alabama announced plans Tuesday to restore the world's only full-sized mockup of a space shuttle coupled with an external fuel tank and twin rocket boosters. The shuttle test model, called Pathfinder, has been weathering outside the museum in Huntsville for more than three decades. The restoration work will be funded with a $500,000 federal grant and additional corporate donations, officials said. The shuttle mockup was mated with a huge fuel tank and two prototype solid-rocket boosters for display at the state-owned museum in 1988.
+
+
+***
+![Extremists exploit a loophole in social moderation: Podcasts](https://s.abcnews.com/images/Technology/WireAP_5a7636abcd8b4b2890874f97a08b688a_16x9_992.jpg "Extremists exploit a loophole in social moderation: Podcasts")
+
+
+[Extremists exploit a loophole in social moderation: Podcasts](https://abcnews.go.com/Technology/wireStory/extremists-exploit-loophole-social-moderation-podcasts-75358085)
+
+
+> Major social platforms have been cracking down on the spread of misinformation and conspiracy theories in the leadup to the presidential election , and expanded their efforts in the wake of the Jan. 6 Capitol riot. But Apple and Google, among others, have left open a major loophole for this material: Podcasts. Podcasts made available by the two Big Tech companies let you tune into the world of the QAnon conspiracy theory, wallow in President Donald Trump 's false claims of a stolen election and bask in other extremism.
+
+
+***
+![How hooning could save lives](https://cdn.newsapi.com.au/image/v1/69b14e53cc0d5e79fca85046084b761a?width=1280 "How hooning could save lives")
+
+
+[How hooning could save lives](https://www.news.com.au/technology/motoring/motoring-news/why-toyota-believes-a-selfdrifting-car-project-could-save-lives/news-story/4b5746d0ded42a841124ad994d99f35b)
+
+
+> Toyota is teaching autonomous cars how to drift, hoping razor-sharp skills could help next-gen safety systems prevent fatal accidents.The manufacturer's research institute says the premise is simple:'What if every driver who ran into trouble had the instinctive reflexes of a professional race car driver and the calculated foresight of a supercomputer to avoid a crash?'Scientists at the Toyota Research Institute and Stanford University's Dynamic Design Lab are working to teach self-driving cars and driver assistance systems how to handle slippery situations, including circumstances that may require the car to 'exceed normal limits of handling' with a delicately balanced slide or 'drift'.
+
+
+***
+[Aurora partners with truck maker PACCAR to develop self-driving big rig trucks "in the next several years", as it closes the deal for Uber's self-driving unit (Jennifer Smith/Wall Street Journal)](http://www.techmeme.com/210119/p42#a210119p42)
+
+
+> Jennifer Smith / Wall Street Journal: Aurora partners with truck maker PACCAR to develop self-driving big rig trucks “in the next several years”, as it closes the deal for Uber's self-driving unit — The agreement is the latest between a traditional truck manufacturer and an automation technology firm
+
+
+***
+![Apple Car may use 'C1' chip based on the A12 Bionic processor](https://english.mathrubhumi.com/polopoly_fs/1.5370570.1611056439!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg "Apple Car may use 'C1' chip based on the A12 Bionic processor")
+
+
+[Apple Car may use 'C1' chip based on the A12 Bionic processor](https://english.mathrubhumi.com/technology/tech-news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-1.5370569)
+
+
+> Reliable Apple analyst Ming-Chi Kuo claimed that the launch of Apple Car is unlikely to happen until 2025-2027. San Francisco: The long-rumoured Apple Car is expected to use a "C1" chip based on the A12 Bionic processor with in-cabin AI capabilities such as eye-tracking. According to US-based magazine 'EETimes', Apple will require a chip foundry with capacity for automotive processes, which Samsung or TSMC could supply to Apple. TSMC is believed to have been developing a 7nm automotive-grade process for some time, and Samsung has developed the Exynos Auto V9 SoC on its 8nm process.
+
+
