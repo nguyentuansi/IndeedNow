@@ -11224,3 +11224,53 @@
 > Electric car at a charging station | Wikimedia commons Text Size: London: Israeli company StoreDot Ltd. has manufactured the first battery for electric vehicles that can be charged in just five minutes, a step toward making refueling as fast as cars at a gas station. The lithium-ion samples were produced by StoreDot's strategic partner in China, Eve Energy Co., and have been used as a demonstration in a two-wheeled scooter. StoreDot said that rapid charging batteries could overcome range and charging anxiety, a critical barrier to mainstream EV adoption.
 
 
+***
+![The Twitter inauguration: How Joe Biden takes control of Trump's official social media accounts](https://www.telegraph.co.uk/content/dam/technology/2021/01/20/Donald-Trump-with-the-US-flag-3_trans_NvBQzQNjv4Bq9lx-c1MS1LhpUVw8N7-i6TSzFET1P7tVG8bk6dmaE6g.jpg?impolicy=logo-overlay "The Twitter inauguration: How Joe Biden takes control of Trump's official social media accounts")
+
+
+[The Twitter inauguration: How Joe Biden takes control of Trump's official social media accounts](https://www.telegraph.co.uk/technology/2021/01/20/twitter-inauguration-joe-biden-takes-control-trumps-official/)
+
+
+> "It looks like Trump is planning to leave office, but there is still a risk of having a president who refuses to leave the physical White House while corporate platforms transfer the digital White House to the incoming president," says Jennifer Grygiel, a communications professor at Syracuse University in New York who studies social media. "There is the real potential of this country having duelling presidents who both occupy the White House in some respect." There were few such fears in 2017, when Barack Obama handed the torch to Trump.
+
+
+***
+![Jack's back: Chinese e-tycoon ends silence with online video](https://s.abcnews.com/images/International/WireAP_d49a0636031944e88fa806aacdb23ff3_16x9_992.jpg "Jack's back: Chinese e-tycoon ends silence with online video")
+
+
+[Jack's back: Chinese e-tycoon ends silence with online video](https://abcnews.go.com/Technology/wireStory/jacks-back-chinese-tycoon-ends-silence-online-video-75363603)
+
+
+> BEIJING -- China's highest-profile entrepreneur, Jack Ma, appeared Wednesday in an online video, ending a 2 1/2-month absence from public view that prompted speculation about the future of the e-commerce billionaire and his Alibaba Group. In the 50-second video, Ma congratulated teachers supported by his foundation and made no mention of his disappearance or official efforts to tighten control over Alibaba and other internet companies over the past six months. The video appeared on Chinese business news and other websites.
+
+
+***
+![WhatsApp users' phone numbers and chats exposed on Google](https://apicms.thestar.com.my/uploads/images/2021/01/20/1014578.jpg "WhatsApp users' phone numbers and chats exposed on Google")
+
+
+[WhatsApp users' phone numbers and chats exposed on Google](https://www.thestar.com.my/tech/tech-news/2021/01/20/whatsapp-users-phone-numbers-and-chats-exposed-on-google)
+
+
+> Security researcher discovers WhatsApp Web users' phone number and messages could again be found by strangers via search engines like Google. — OLIVER GRAUMNITZ/Pixabay WhatsApp's privacy woes have resurfaced, after users' phone numbers and messages were discovered being indexed by search engines. Cybersecurity researcher Rajshekhar Rajaharia tweeted that WhatsApp Web users' data was being indexed on Google again, pointing out that this was the third time the issue had occurred. When information is indexed, it can be found in a search engine and made public.
+
+
+***
+![Hashtag #SiBodohKauDengarSini goes viral on social media after M'sians go hangry](https://apicms.thestar.com.my/uploads/images/2021/01/20/1014621.jpeg "Hashtag #SiBodohKauDengarSini goes viral on social media after M'sians go hangry")
+
+
+[Hashtag #SiBodohKauDengarSini goes viral on social media after M'sians go hangry](https://www.thestar.com.my/tech/tech-news/2021/01/20/hashtag-sibodohkaudengarsini-goes-viral-on-social-media-after-malaysians-go-hangry)
+
+
+> No, MCMC did not issue a warning saying those using the hashtag #SiBodohKauDengarSini will be punished with a one-year quarantine. — ANGELIN YEOH/The Star Malaysians' frustrations with the pandemic-related limitations of MCO 2.0, such as repeatedly being unable to order from food delivery services during peak hours, has spilled over into a new viral hashtag. On Jan 18, #SiBodohKauDengarSini was trending on Twitter with more than 38,000 posts. The hashtag #SiBodohKauDengarSini was an expression used by Twitter user @yarafaee_ on Jan 17 to share her frustrations over being unable to get food delivered during peak hours.
+
+
+***
+![Redmi says it will launch its first flagship gaming phone this year](https://cdn57.androidauthority.net/wp-content/uploads/2020/12/Redmi-9-Power-branding-920x470.jpg "Redmi says it will launch its first flagship gaming phone this year")
+
+
+[Redmi says it will launch its first flagship gaming phone this year](https://www.androidauthority.com/redmi-gaming-phone-1194361/)
+
+
+> Redmi has confirmed that it will launch its first flagship gaming phone this year.It also said the new Dimensity 1200 chipset will debut inside a Redmi phone.It's unclear if the gaming phone and Dimensity 1200 phone are the same device.Redmi is traditionally known for delivering budget phones, but the Xiaomi sub-brand has switched to offering affordable flagships in recent years too. Now, it looks like the company is eyeing another segment as well.Redmi general manager Lu Weibing revealed in a machine-translated Weibo post that the brand will launch its 'first flagship gaming phone' this year at a 'price that cannot be refused.
+
+
