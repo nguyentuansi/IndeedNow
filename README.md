@@ -11368,3 +11368,50 @@
 > Javascript is Disabled Your current browser configuration is not compatible with this site.
 
 
+***
+![Qualcomm buying Nuvia is a bigger deal than you think](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/topic_images/2018/qualcomm-logo-ces-2018.jpg "Qualcomm buying Nuvia is a bigger deal than you think")
+
+
+[Qualcomm buying Nuvia is a bigger deal than you think](https://www.androidcentral.com/qualcomm-buying-nuvia-bigger-deal-than-you-think)
+
+
+> Source: Android Central Qualcomm recently announced that it intends to spend $1.4 billion to acquire Nuvia, a small start-up that specializes in building high-speed ARM server chips. Any deal of this nature would be subject to regulatory investigation, but this one will get a bit of extra scrutiny — Nuvia was founded by ex-Apple chip designer Gerard Williams who left the company under an agreement that he does not compete with Apple's chip business. Building servers was fine with Apple because the company doesn't try to make any serious gains in that market.
+
+
+***
+![Here's when Xiaomi's Redmi Note 10 series may launch in India](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/03/redmi-note-9-pro-28.jpg "Here's when Xiaomi's Redmi Note 10 series may launch in India")
+
+
+[Here's when Xiaomi's Redmi Note 10 series may launch in India](https://www.androidcentral.com/heres-when-xiaomis-redmi-note-10-series-may-launch-india)
+
+
+> Source: Apoorva Bhardwaj / Android Central Xiaomi's Redmi Note 10 series will reportedly debut in India next month. The Redmi Note 10 series is expected to include just two models at launch: Redmi Note 10 and Note 10 Pro. Xiaomi's flagship Mi 11, which was launched in China last month, is also expected to be launched in India soon. Xiaomi's Redmi sub-brand is soon expected to refresh its popular Note series of budget smartphones. As per a new report from 91Mobiles, the company's Redmi Note 10 series will make its debut in India as soon as next month.
+
+
+***
+![Netflix 'Shuffle Play' Feature Rolling Out to All Users Later This Year](https://images.macrumors.com/t/kFAACKI1LBYXHQugkYAYXBVK-pc=/1600x/https://images.macrumors.com/article-new/2021/01/netflix-shuffle-play.jpg "Netflix 'Shuffle Play' Feature Rolling Out to All Users Later This Year")
+
+
+[Netflix 'Shuffle Play' Feature Rolling Out to All Users Later This Year](https://www.macrumors.com/2021/01/20/netflix-shuffle-play-feature-coming-2021/)
+
+
+> Tuesday January 19, 2021 2:34 am PST by Tim HardwickGoogle Maps has quietly been updated to include significantly more detailed street-level information in a handful of key cities around the world. Upon zooming in, Google's maps for Central London, Tokyo, San Francisco, and New York now benefit from shapes and widths that match the scale of roads more accurately. Meanwhile, enhanced graphical representations of sidewalks, crosswalks,...
+
+
+***
+![LG may say bye-bye to making and selling phones- Business News](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lg_mobile_reuters-483x271_1200_210120164429.jpeg "LG may say bye-bye to making and selling phones- Business News")
+
+
+[LG may say bye-bye to making and selling phones- Business News](https://www.businesstoday.in/technology/lg-may-say-bye-bye-to-making-and-selling-phones/story/428512.html)
+
+
+> Highlights LG is said to be considering leaving the smartphone business. Last year, it was also reportedly planning to sell low-end business. LG has been making losses in the smartphone business for about six years. Ask yourself if you will buy an LG smartphone today. Some of you will say yes, some would be surprised to know LG still makes phones, but the majority would say no. And because of these naysayers, LG is finally quitting the smartphone business. LG Electronics CEO Kwon Bong-seok has said that it was "about time for LG to make a cold judgement" referring to the winding up of the phone business that has been in shambles for over six years.
+
+
+***
+[Samsung launches incredible £169 smartphone that looks as good as a £1,000 iPhone](https://www.the-sun.com/lifestyle/tech/2173268/samsung-galaxy-a12-specs-features-price/)
+
+
+> SAMSUNG has unveiled a cheap and cheerful smartphone that costs £169. Better yet, it’s got a slick high-end design that looks just as good as your £1,000 Samsung, Huawei or iPhone. The new Samsung Galaxy A12 is a “low-end” phone, priced at a tenth of top phone models. But it doesn’t skimp on specs at […]
+
+
