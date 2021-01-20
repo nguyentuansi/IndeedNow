@@ -11127,3 +11127,53 @@
 > SAVE £30: The Echo Show 5 is on sale for £49.99 on Amazon as of Jan. 20, saving you 38% on list price. Staying connected with friends and family has arguably never been more important, and the good news is that these days, it's extremely easy to stay in touch. The Echo Show 5 connects to Alexa to give you vivid visuals on a 5.5-inch screen. You can use it to call almost anyone hands-free, and also make video calls to other Echo devices with a screen. It can even connect with other Echo devices in your home, so you can quickly and easily communicate with everyone in the house.
 
 
+***
+![ExpressVPN deals: How to save big on your subscription](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/expressvpn-review-image.jpeg "ExpressVPN deals: How to save big on your subscription")
+
+
+[ExpressVPN deals: How to save big on your subscription](https://www.androidcentral.com/expressvpn-price-deals-discounts-free-trial)
+
+
+> We have reviewed a bunch of VPN services and ExpressVPN is our top pick for just about everyone. It earned a full 5 stars in our review, we are constantly praising the customer service, speeds, reliability, and more multiples times, but all of that comes with a price. ExpressVPN is definitely one of the more expensive VPN services compared to its competitors, but you can still score a great deal if you know where to look. ExpressVPN has more than 3,000 servers that span across 160 different locations in 94 countries, so there's no shortage of options when you are looking to spoof your location.
+
+
+***
+![Prime Day 2021: Predicted dates & potential deals](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article-images/2018/07/amazon-prime-day-2018-kbs.jpg "Prime Day 2021: Predicted dates & potential deals")
+
+
+[Prime Day 2021: Predicted dates & potential deals](https://www.androidcentral.com/amazon-prime-day)
+
+
+> Amazon's annual exclusive sale is coming back for an even bigger event in 2021. Prime Day is the sale every Amazon Prime member should be looking forward to. With hundreds of ways to save and hundreds of dollars off popular products, shopping during Prime Day is even a smart way to earn back the cost of Amazon Prime's membership fee. Source: Amazon During past Prime Day sales, Amazon hasn't skimped on its offerings in the slightest. We've seen products in just about every category go on sale, from home and kitchen appliances to clothing, furniture, toys, electronics, computers, and of course, just about every Amazon device there is.
+
+
+***
+![Does the XS have the same battery swelling issue that the X does?](https://images.macrumors.com/social/?t=2281089&v=6 "Does the XS have the same battery swelling issue that the X does?")
+
+
+[Does the XS have the same battery swelling issue that the X does?](https://forums.macrumors.com/threads/does-the-xs-have-the-same-battery-swelling-issue-that-the-x-does.2281089/)
+
+
+> I've been offered a XS at a reasonable price. I previously had a X which was known for battery swell issues which caused the front glass to raise slightly (I know not all of them did this). I'm pretty sure Apple didn't (or at least doesn't now) offer any kind of out-of-warranty fix for this. So, before I take the plunge, any XS owners or anyone knowledgeable know whether the XS was prone to this issue too? Can't find any mention of it on wikipedia or elsewhere. Thanks
+
+
+***
+![Time to move on?](https://images.macrumors.com/social/?t=2281087&v=6 "Time to move on?")
+
+
+[Time to move on?](https://forums.macrumors.com/threads/time-to-move-on.2281087/)
+
+
+> G'day, Part A - aka Pointy Would a M1 Mac Mini, connected to my existing 2 x 24" Cinema Displays (via HDMI and USB-C adapters), with a (2nd hand) NAS enclosure containing my current HDDs plus Pioneer BluRay, run rings around my 2010 MacPro 5,1 Quad 2.8GHZ with stock video card? Primary use is media server (Plex), video editing (casual), light gaming, web, etc etc. Given the RRP of the current Mac Pro, I can't see myself being able to afford anything "tower-like" from Apple any time soon - indeed most every new Mac is beyond what I'm willing to spend - ie around $1,500 AUD.
+
+
+***
+![Alibaba's Jack Ma makes first live appearance since October in live video meeting](https://image-prod.iol.co.za/resize/2384x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/d9370a14-db68-51ff-b092-09d14357a4a6&operation=CROP&offset=0x602&resize=2384x1341 "Alibaba's Jack Ma makes first live appearance since October in live video meeting")
+
+
+[Alibaba's Jack Ma makes first live appearance since October in live video meeting](https://www.iol.co.za/technology/software-and-internet/alibabas-jack-ma-makes-first-live-appearance-since-october-in-live-video-meeting-4daebf3a-01d9-475c-ac87-ec373e9717fd)
+
+
+> Shanghai - Alibaba Group founder Jack Ma met 100 rural teachers in China via a live video meeting on Wednesday morning, in the businessman's first appearance since October.Social media speculation over the whereabouts of China's highest-profile entrepreneur swirled this month after news reports that he missed the final episode of a TV show featuring him as a judge, amid a regulatory clampdown by Beijing on his sprawling business empire.Ma had not appeared in public since a late-October forum in Shanghai, where he blasted China's regulatory system in a speech that set him on a collision course with officials, leading to suspension of a $37-billion IPO of Alibaba's financial affiliate Ant Group.
+
+
