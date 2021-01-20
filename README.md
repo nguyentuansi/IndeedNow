@@ -12000,3 +12000,44 @@
 > January 20, 2021 05:29 PM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--Altice USA (NYSE: ATUS) will host a conference call on Wednesday, February 10, 2021 at 4:30 p.m. EST to discuss financial and operating results for the fourth quarter and full year ended December 31, 2020. A press release reporting the results will be issued at 4:05 p.m. EST. The call will be led by Dexter Goei, CEO, and Michael Grau, CFO. Dial-in Access Telephone Numbers: Participant Event Plus Toll Free Dial-In Number: +1 (833) 968-2322 Participant Event Plus Toll Dial-In Number: +1 (778) 560-2842 Conference ID: 6064777 A live webcast of the presentation will be available on the following website: here.
 
 
+***
+![Replacing HDD with SSD and installing macOS on a Mid 2012 MBP Question....](https://images.macrumors.com/social/?t=2281204&v=6 "Replacing HDD with SSD and installing macOS on a Mid 2012 MBP Question....")
+
+
+[Replacing HDD with SSD and installing macOS on a Mid 2012 MBP Question....](https://forums.macrumors.com/threads/replacing-hdd-with-ssd-and-installing-macos-on-a-mid-2012-mbp-question.2281204/)
+
+
+> Nov 7, 2017 73 21 England, United Kingdom The internal HDD in my mid 2012 MBP 13" appears to have failed (I've since read that it could be the HDD cable), anyway... I've ordered a Samsung internal SSD which should be arriving tomorrow. I know that replacing the HDD with a SSD is a pretty easy job however I have a question regarding installing macOS on to the SSD. I have a bootable clone of the internal HDD on an external drive (using Carbon Copy Cloner) and I also have a USB thumb drive with the macOS Sierra installer.
+
+
+***
+[The Biden administration updates WhiteHouse.gov with several new accessibility features, including dark mode, a large text mode, and more (Mitchell Clark/The Verge)](http://www.techmeme.com/210120/p15#a210120p15)
+
+
+> Mitchell Clark / The Verge: The Biden administration updates WhiteHouse.gov with several new accessibility features, including dark mode, a large text mode, and more — From dark times to dark mode — The official website of the White House, WhiteHouse.gov, has been completely replaced with a new version …
+
+
+***
+![Build A YouTube video downloader App with Python and Tkinter](https://external-preview.redd.it/VOjXjBPPBJcIo-IttlEfOdAwgl0UroCqsw9Bh3Img0c.jpg?auto=webp&s=21945ca08613727292029adad87345767fa4eca4 "Build A YouTube video downloader App with Python and Tkinter")
+
+
+[Build A YouTube video downloader App with Python and Tkinter](https://www.reddit.com/r/Python/comments/l1l2sb/build_a_youtube_video_downloader_app_with_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Artificial Intelligence may outsmart our brain in chess, but not in memory](https://www.freepressjournal.in/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory)
+
+
+> No body in the article.
+
+
+***
+[PS5 stock checker UK – Argos to drop new PlayStation 5 stock with BT and EE set to follow on THURSDAY](https://www.the-sun.com/lifestyle/tech/1823989/ps5-stock-checker-uk-amazon-john-lewis-argos-game-live/)
+
+
+> FOLLOWING its November release, gamers have found it impossible to bag themselves the coveted PS5. New stock drops at the likes of GAME, John Lewis and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin […]
+
+
