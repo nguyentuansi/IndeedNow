@@ -10980,3 +10980,53 @@
 > Continue reading the main storyThe social network, popular with President Trump's supporters, went offline last week after it was kicked off Amazon's servers.Parler last week. Its chief operating officer said that a Russian company, DDoS-Guard, was supporting only a temporary webpage for Parler, and that concerns were overblown. Credit...Cristobal Herrera-Ulashkevich/EPA, via ShutterstockJan. 19, 2021, 8:23 p.m. ETParler, the social network popular with Trump supporters, is trickling back to life.
 
 
+***
+![elago releases new lineup of MagSafe cases and docks for iPhone 12](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/elago-magsafe-tray.jpg "elago releases new lineup of MagSafe cases and docks for iPhone 12")
+
+
+[elago releases new lineup of MagSafe cases and docks for iPhone 12](https://www.imore.com/elago-releases-new-lineup-magsafe-cases-and-docks-iphone-12)
+
+
+> Source: elago elago has released new docks and cases for the iPhone 12 lineup. As reported by 9to5Toys, elago, the popular accessory maker, has embraced MagSafe and released a number of new products that are compatible with the new technology. The company has released both docks and cases that work with the iPhone 12 lineup. The first product released is the MS Charging Tray which, if you have a MagSafe Charger and Apple Watch charger, can house both as well as a tray for your other everyday carry.
+
+
+***
+![19 January 2038 end of the world](https://external-preview.redd.it/sdTCbmTztqx3DSsXOtVuKap2GIn6TXCVSbi0CvP_y_8.jpg?auto=webp&s=b3b1f76c8303b0d4025d00a736ac66be5c63984a "19 January 2038 end of the world")
+
+
+[19 January 2038 end of the world](https://www.reddit.com/r/programming/comments/l10l5u/19_january_2038_end_of_the_world/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Making music with python episode 1](https://external-preview.redd.it/yC_Kl7iEnXyJaHRRv8pJUcmHs0-h8dIf76cPotpxUf0.jpg?auto=webp&s=d91d9a967007ea4e2cf511526d3c1d4ec82639b5 "Making music with python episode 1")
+
+
+[Making music with python episode 1](https://www.reddit.com/r/programming/comments/l10kmz/making_music_with_python_episode_1/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Elasticsearch does not belong to Elastic](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Elasticsearch does not belong to Elastic")
+
+
+[Elasticsearch does not belong to Elastic](https://www.reddit.com/r/programming/comments/l10jea/elasticsearch_does_not_belong_to_elastic/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![S.Korea's Kia says looking at electric car projects with multiple firms after Apple report](https://i-invdn-com.akamaized.net/news/LYNXMPEA7I0WL_L.jpg "S.Korea's Kia says looking at electric car projects with multiple firms after Apple report")
+
+
+[S.Korea's Kia says looking at electric car projects with multiple firms after Apple report](https://www.investing.com/news/technology-news/south-koreas-kia-says-reviewing-cooperation-on-ev-business-after-media-report-on-apple-2393368)
+
+
+> © Reuters. FILE PHOTO: LA Auto Show in Los Angeles SEOUL (Reuters) - South Korean automaker Kia Corp said on Wednesday it's reviewing cooperation on self-driving electric cars with multiple foreign firms, making no mention of a report linking it to a project with tech giant Apple Inc (NASDAQ:). Kia's comment, issued in a regulatory filing as its shares surged nearly 20% in Seoul, came after domestic online publication Edaily reported late on Tuesday that Kia's parent, Hyundai Motor Group, had decided Kia would be in charge of proposed cooperation with Apple on electric cars.
+
+
