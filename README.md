@@ -11077,3 +11077,53 @@
 > Reliable Apple analyst Ming-Chi Kuo claimed that the launch of Apple Car is unlikely to happen until 2025-2027. San Francisco: The long-rumoured Apple Car is expected to use a "C1" chip based on the A12 Bionic processor with in-cabin AI capabilities such as eye-tracking. According to US-based magazine 'EETimes', Apple will require a chip foundry with capacity for automotive processes, which Samsung or TSMC could supply to Apple. TSMC is believed to have been developing a 7nm automotive-grade process for some time, and Samsung has developed the Exynos Auto V9 SoC on its 8nm process.
 
 
+***
+![Go 1.15.7 and Go 1.14.14 versions are released](https://external-preview.redd.it/YuGZ78sMyw87kmBCk4UhcZLe79YkxGtIN75dlPkx7Vw.jpg?auto=webp&s=bccd8b988cd4edce8689b278870cf3e65337a02f "Go 1.15.7 and Go 1.14.14 versions are released")
+
+
+[Go 1.15.7 and Go 1.14.14 versions are released](https://www.reddit.com/r/programming/comments/l12ma9/go_1157_and_go_11414_versions_are_released/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![World Wide Web inventor opposes Australia's news payment plan](https://www.thehindu.com/sci-tech/technology/435b3u/article33615070.ece/ALTERNATES/LANDSCAPE_615/tim-berners-lee-reutersjpg "World Wide Web inventor opposes Australia's news payment plan")
+
+
+[World Wide Web inventor opposes Australia's news payment plan](https://www.thehindu.com/sci-tech/technology/world-wide-web-inventor-opposes-australias-news-payment-plan/article33615062.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)World Wide Web inventor Tim Berners-Lee says Australia's plan to force digital giants to pay media outlets for news content is "unworkable" and undermines a "fundamental principle" of the internet.Canberra is pursuing world-first laws that would require Google and Facebook to compensate Australian news organisations, or pay millions of dollars in fines.The aggressive move to check the tech giants' power has prompted blowback from the US firms, with Facebook warning Australians could be blocked from sharing articles on its "News Feed", while Google has been experimenting with hiding local news in searches.
+
+
+***
+![@POTUS resets as Twitter juggles presidential accounts](https://www.thehindu.com/static/theme/default/base/img/og-image.jpg "@POTUS resets as Twitter juggles presidential accounts")
+
+
+[@POTUS resets as Twitter juggles presidential accounts](https://www.thehindu.com/sci-tech/technology/internet/potus-resets-as-twitter-juggles-presidential-accounts/article33615133.ece)
+
+
+> It's a Twitter user's worst nightmare: Wake up to find most of your followers gone. But that's exactly what will happen on Wednesday to the official presidential accounts on Twitter. No, not @realDonaldTrump — he's already been banned for life. This is the fate awaiting lesser-known accounts such as @POTUS, @WhiteHouse, @FLOTUS and @VP. POTUS is the official acronym for President of the United States; FLOTUS refers to the First Lady. These institutional accounts don't belong to any particular individual — they're reserved for official government use by those in the current administration.
+
+
+***
+![Samsung launches '870 EVO' in its SATA SSD Series](https://cdn.mos.cms.futurecdn.net/ux4yrsdQtwJz8YXn4CS58W-1200-80.jpg "Samsung launches '870 EVO' in its SATA SSD Series")
+
+
+[Samsung launches '870 EVO' in its SATA SSD Series](https://www.techradar.com/news/samsung-launches-870-evo-in-its-sata-ssd-series)
+
+
+> (Image credit: Samsung) Samsung Electronics has announced the launch of 870 EVO SSD, the company's latest SATA solution as a part of its SSD (Solid State Drive) series. The new drive, which touts itself high on performance and reliability, is slotted as an "all-round storage solution" for a wide range of consumers from general PC users to IT professionals.'Representing the culmination of our SATA SSD line, the new 870 EVO delivers a compelling mix of performance, reliability and compatibility for casual laptop and desktop PC users as well as Network Attached Storage (NAS) users,' said KyuYoung Lee, vice president of Memory Brand Product Biz at Samsung Electronics.
+
+
+***
+![Save &#163;30 and stay in touch with a little help from the Echo Show 5](https://mondrian.mashable.com/2021%252F01%252F20%252F10%252Fe149a0e69574446b979305fcfa38c42a.a9746.png%252F1200x630.png?signature=HRXTnBDKgjknn_fMfd4gNycYkzg= "Save &#163;30 and stay in touch with a little help from the Echo Show 5")
+
+
+[Save &#163;30 and stay in touch with a little help from the Echo Show 5](https://mashable.com/uk/shopping/jan-20-echo-show-5/)
+
+
+> SAVE £30: The Echo Show 5 is on sale for £49.99 on Amazon as of Jan. 20, saving you 38% on list price. Staying connected with friends and family has arguably never been more important, and the good news is that these days, it's extremely easy to stay in touch. The Echo Show 5 connects to Alexa to give you vivid visuals on a 5.5-inch screen. You can use it to call almost anyone hands-free, and also make video calls to other Echo devices with a screen. It can even connect with other Echo devices in your home, so you can quickly and easily communicate with everyone in the house.
+
+
