@@ -12417,3 +12417,50 @@
 > What do you get when you mix the 120 Hz display of the Galaxy S20 Ultra, a breakthrough Space Zoom camera, and upgraded Samsung S Pen functionality? You get the Galaxy Note 20 Ultra, the new king of the Android smartphone ecosystem. This and the Note 20 are Samsung's best and priciest handsets to date, making it well worth your while to cover it up with a protective case. These are the best Galaxy Note 20 Ultra cases available now. Price: $57.62 Amazon Customer Reviews Pros: Dual layer protection Included belt clip/kickstand Rubber port cover Cons: Bulky design High price tag Limited color options The OtterBox Defender Series Case Represents the gold standard in protective cases because of its rugged dual-layer design.
 
 
+***
+[Questions Raised on Google by EU, Targets Data Use & Ad Practices](https://www.thequint.com/tech-and-auto/questions-raised-on-google-by-eu-targets-data-use-and-ad-practices)
+
+
+> Bloomberg: Competition agencies have intensified scrutiny on how big tech companies use people's information.
+
+
+***
+![Android 12 looks set to borrow one of the best iOS features](https://cdn.mos.cms.futurecdn.net/aYbDAxBH4tHAWGq2JZvRjd-1200-80.jpg "Android 12 looks set to borrow one of the best iOS features")
+
+
+[Android 12 looks set to borrow one of the best iOS features](https://www.techradar.com/news/android-12-looks-set-to-borrow-one-of-the-best-ios-features-wi-fi-sharing)
+
+
+> Android (Image credit: Android) While Android 11 didn't bring many new features to Android phones it seems 2021's version of the Google-built software will, as we've now heard about one great Android 12 feature.This comes from GizChina, which spotted a new entry to the Android Open Source Project (AOSP) regarding a 'Share Wi-Fi' feature. This apparently shares Wi-Fi passwords with nearby devices of your choosing, even ones in other rooms to you.Android is open-source software, meaning people can copy it, tweak it, and make it their own if they want - indeed most phone makers do so for their own handsets.
+
+
+***
+![Python is neither call-by-reference nor call-by-value. This article explains why.](https://external-preview.redd.it/8v2uCrCbF4m7SnvOUY96VKZ9SMPeJZKm_G_CvOb2IDo.jpg?auto=webp&s=57a4e664660c0d51fec6ebad5cd9432633fdec28 "Python is neither call-by-reference nor call-by-value. This article explains why.")
+
+
+[Python is neither call-by-reference nor call-by-value. This article explains why.](https://www.reddit.com/r/programming/comments/l1uz0v/python_is_neither_callbyreference_nor_callbyvalue/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Google sidelines second artificial intelligence researcher](https://images.indianexpress.com/2021/01/8db8f8d4-fa67-42a8-a701-13a0d05718cd-2.jpg "Google sidelines second artificial intelligence researcher")
+
+
+[Google sidelines second artificial intelligence researcher](https://indianexpress.com/article/technology/tech-news-technology/google-sidelines-second-artificial-intelligence-researcher/)
+
+
+> Google locked out artificial intelligence researcher Margaret Mitchell from its corporate systems, making her the second outspoken critic at the company to be sidelined. Mitchell was a vocal supporter of her colleague Timnit Gebru, who departed under acrimonious circumstances last month. Mitchell leads Alphabet Inc's Ethical AI unit, which is responsible for developing the company's technology in a socially responsible manner. Gebru tweeted on Tuesday that Mitchell's 'corp access is now locked' and that the researcher had been told she would remain locked out 'for at least a few days.
+
+
+***
+![Half-Life: Alyx could be just the start, as Valve confirms more single-player games](https://cdn.mos.cms.futurecdn.net/AspsHmDxkpyBUgoJxHtNMV-1200-80.jpg "Half-Life: Alyx could be just the start, as Valve confirms more single-player games")
+
+
+[Half-Life: Alyx could be just the start, as Valve confirms more single-player games](https://www.techradar.com/news/half-life-alyx-could-be-just-the-start-as-valve-confirms-more-single-player-games)
+
+
+> (Image credit: Valve) It looks like more games are coming from Valve, after Valve president Gabe Newell confirmed the company was working on a number of new titles – seemingly galvanized by the success of Half-Life: Alyx.'We definitely have games in development that we're going to be announcing," said Newell, in an interview with 1 News, adding that "it's fun to ship games.'As ever, Newell wouldn't be drawn on details, dismissing a rumored title codenamed 'Citadel' that he claimed he'd never heard of: "We have a bunch of code names – are you referring to a code name? I don't know what 'Citadel' is.
+
+
