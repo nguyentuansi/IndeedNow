@@ -12041,3 +12041,53 @@
 > FOLLOWING its November release, gamers have found it impossible to bag themselves the coveted PS5. New stock drops at the likes of GAME, John Lewis and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin […]
 
 
+***
+![StackPulse raises $20M to invest in global growth and scale engineering hiring](https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg "StackPulse raises $20M to invest in global growth and scale engineering hiring")
+
+
+[StackPulse raises $20M to invest in global growth and scale engineering hiring](https://www.helpnetsecurity.com/2021/01/21/stackpulse-series-a/)
+
+
+> StackPulse announced a $20 million Series A led by GGV Capital. This newest funding brings the total amount raised to $28 million, including a previously undisclosed $8 million seed round less than a year ago led by Bessemer Venture Partners, which also participated in the Series A. Glenn Solomon at GGV and Amit Karp at Bessemer will join the StackPulse board of directors; Oren Yunger at GGV will join as a board observer. The funds will be used to invest in global growth and to scale engineering hiring to continue enrichment of the StackPulse reliability platform, as the company's customer base of developers and site reliability engineers (SREs) continues to grow.
+
+
+***
+![Biden's first executive orders: pandemic, climate change, racism, immigration](https://i0.wp.com/boingboing.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-5.10.45-PM.png?fit=1200%2C662&ssl=1 "Biden's first executive orders: pandemic, climate change, racism, immigration")
+
+
+[Biden's first executive orders: pandemic, climate change, racism, immigration](https://boingboing.net/2021/01/20/bidens-first-executive-orders-pandemic-climate-change-racism-immigration.html)
+
+
+> President Joe Biden hit the ground running. His first executive orders include rejoining the Paris climate accords, canceling Keystone pipeline, strengthening DACA, and mandating masks and social distancing in Federal buildings. From Reuters' recap of actions by the incoming administration on day one: COVID-19 CRISIS * Seek a $1.9 trillion spending proposal aimed at accelerating the distribution of coronavirus vaccines while providing economic relief to millions of Americans hurt by the pandemic.
+
+
+***
+![Stripe in ASP.NET](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Stripe in ASP.NET")
+
+
+[Stripe in ASP.NET](https://www.reddit.com/r/programming/comments/l1mar6/stripe_in_aspnet_c_payment_gateway_integration/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![New $30m fund to drive commercial adoption of 5G solutions](https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/21/ST_20210121_XISWARAN_6275666.jpg?itok=GuEiMbug "New $30m fund to drive commercial adoption of 5G solutions")
+
+
+[New $30m fund to drive commercial adoption of 5G solutions](https://www.straitstimes.com/tech/new-30m-fund-to-drive-commercial-adoption-of-5g-solutions)
+
+
+> Businesses in Singapore will now be able to tap a new $30 million government fund to test and adopt 5G solutions, as the country pushes ahead in its 5G drive. The fund is in addition to a previous $40 million grant under the Infocomm Media Development Authority's (IMDA) 5G Innovation Programme rolled out in 2019. Similar to the earlier grant, successful applicants will receive up to 70 per cent of the costs of their projects. But they will now need to show plans for commercialisation. Applications for the previous fund closed last May.
+
+
+***
+![DBS phasing out use of physical tokens from April](https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/21/st_20210121_lwdbs_8_6275266.jpg?itok=nOs9O4GU "DBS phasing out use of physical tokens from April")
+
+
+[DBS phasing out use of physical tokens from April](https://www.straitstimes.com/tech/dbs-phasing-out-use-of-physical-tokens-from-april)
+
+
+> DBS Bank customers will no longer be able to use their physical tokens to access mobile and digital banking services from April 1, with the bank to stop issuing these tokens on Feb 1. This means that users will be required to use the bank's digital token, which can be set up via the DBS digital banking app, to authenticate all banking transactions. Unlike the physical token, which is a separate device, the digital token operates within the digital banking app on users' smartphones. It is otherwise identical in function.
+
+
