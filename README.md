@@ -12132,3 +12132,53 @@
 > 2/2 © Reuters. FILE PHOTO: Protest outside Twitter headquarters in San Francisco 2/2 SHANGHAI (Reuters) - Twitter has locked the account of China's U.S. embassy for a tweet that defended China's policies in the Xinjiang region, which the U.S. social media platform said violated the firm's policy against "dehumanization". The Chinese Embassy account, @ChineseEmbinUS, posted this month saying that Uighur women were no longer "baby making machines," citing a study reported by state-backed newspaper China Daily.
 
 
+***
+![A Proximity Chat Mod for "Among Us"](https://external-preview.redd.it/NK2fvcx9soO0coxM7G0dbBGKWYLNeQ_5TvuzHz20ut8.jpg?auto=webp&s=8a5d24c6ebfeff05ddb2b7be049962a068789f48 "A Proximity Chat Mod for "Among Us"")
+
+
+[A Proximity Chat Mod for "Among Us"](https://www.reddit.com/r/programming/comments/l1pp7e/a_proximity_chat_mod_for_among_us/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Facebook asks Australia to let it make content deals with news outlets before being hit with media code](https://i.guim.co.uk/img/media/fd7f5a287c110d60cc01c7ad0b140a16a660595e/36_64_4635_2781/master/4635.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46acc3a276e0d6647f82670b0fe5e8ee "Facebook asks Australia to let it make content deals with news outlets before being hit with media code")
+
+
+[Facebook asks Australia to let it make content deals with news outlets before being hit with media code](http://www.theguardian.com/technology/2021/jan/21/facebook-asks-australia-to-let-it-make-content-deals-with-news-outlets-before-being-hit-with-media-code)
+
+
+> Facebook has asked the Australian government to consider giving digital platforms a six-month grace period to make deals with news outlets to pay for content before hitting companies with the 'big stick' of the news media bargaining code.Ahead of Facebook's appearance on Friday before a Senate committee examining the federal government's news media and digital platforms mandatory bargaining code bill, the social media giant told the committee the code remained 'complex, unpredictable and unworkable'.
+
+
+***
+![How to learn about updates.](https://images.macrumors.com/social/?t=2281219&v=6 "How to learn about updates.")
+
+
+[How to learn about updates.](https://forums.macrumors.com/threads/how-to-learn-about-updates.2281219/)
+
+
+> Hello. Whenever I do an update on my iPhone, like 14.3 I just updated to and I never know what actually changed. I know you can read a little about the update before you hit download, but is there a place you can actually learn about the changes? Thanks. A lot of times, MacRumors will state many of the main changes in an update on their front page coverage articles. You can also check the following link from Apple.
+
+
+***
+![Mercedes unveils more affordable electric car](https://cdn.newsapi.com.au/image/v1/569d23aa7e57fd78d8d7ffb4b95f426e?width=1280 "Mercedes unveils more affordable electric car")
+
+
+[Mercedes unveils more affordable electric car](https://www.news.com.au/technology/motoring/motoring-news/mercedes-unveils-eqa-its-affordable-electric-car/news-story/cda0699ebd0af86d30b1e5507585fa4f)
+
+
+> Mercedes-Benz has unveiled the second chapter in its electric car story.Pitched as a smaller, more affordable cousin to the full-sized Mercedes-Benz EQC, the new Mercedes-Benz EQA electric car is a compact hatchback designed for urban drivers.There are two kinds of electric cars.Some are built on dedicated platforms designed purely for battery-powered machines, an exclusive club including the upcoming Mercedes-Benz EQS, plus Porsche's Taycan, the Jaguar I-Pace and Tesla's EV range.Other models have close ties to conventionally-powered machines.
+
+
+***
+![Apple's recent cloud hires hint at major investment in infrastructure](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/iowa_datacenter_us_aerial_view.jpg "Apple's recent cloud hires hint at major investment in infrastructure")
+
+
+[Apple's recent cloud hires hint at major investment in infrastructure](https://www.imore.com/apples-recent-cloud-hires-hint-major-investment-infrastructure)
+
+
+> Source: Apple As reported by Protocol, Apple has been quietly hiring some notable engineers in the cloud computing space and people are starting to take notice. The report ponders if Apple may be planning to take on Amazon, Microsoft, and Google with its own infrastructure technology. Over the past few months, Apple has gone on a cloud computing hiring spree, snapping up several well-known software engineers working across a range of modern technologies, especially containers and Kubernetes. The quantity and quality of the new hires has caused a stir in the tight-knit cloud community, and could indicate that Apple is finally getting serious about building tech infrastructure on par with companies like Amazon, Microsoft and Google.
+
+
