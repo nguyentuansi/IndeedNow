@@ -12182,3 +12182,50 @@
 > Source: Apple As reported by Protocol, Apple has been quietly hiring some notable engineers in the cloud computing space and people are starting to take notice. The report ponders if Apple may be planning to take on Amazon, Microsoft, and Google with its own infrastructure technology. Over the past few months, Apple has gone on a cloud computing hiring spree, snapping up several well-known software engineers working across a range of modern technologies, especially containers and Kubernetes. The quantity and quality of the new hires has caused a stir in the tight-knit cloud community, and could indicate that Apple is finally getting serious about building tech infrastructure on par with companies like Amazon, Microsoft and Google.
 
 
+***
+[Right-wing social app Parler shows sign of life thanks to Russian tech](https://www.watoday.com.au/technology/right-wing-social-app-parler-shows-sign-of-life-thanks-to-russian-tech-20210121-p56vwv.html?ref=rss&utm_medium=rss&utm_source=rss_feed)
+
+
+> The social network, popular with President Trump's supporters, went offline last week after it was kicked off Amazon's servers.
+
+
+***
+![Right-wing social app Parler shows sign of life thanks to Russian tech](https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_864%2C$y_1713/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_no_label_no_age_social_wm/68df84fe327a82f8f99a295c7f3aff2d2d64581b "Right-wing social app Parler shows sign of life thanks to Russian tech")
+
+
+[Right-wing social app Parler shows sign of life thanks to Russian tech](https://www.smh.com.au/technology/right-wing-social-app-parler-shows-sign-of-life-thanks-to-russian-tech-20210121-p56vwv.html)
+
+
+> But the use of a Russian company is worrying some researchers who study the internet and Russia. If Parler routes its web traffic through DDoS-Guard when its full website returns, the experts said, Russian law could enable the Russian government to surveil Parler's users.Alina Polyakova, head of the Centre for European Policy Analysis, a foreign policy think tank in Washington, said Russia required many internet companies in the country to install technology that feeds the government a copy of much of the data that passes through their computer servers.
+
+
+***
+![PS5 stock checker UK – Argos, BT and EE to drop new PlayStation 5 stock THURSDAY](https://www.thesun.co.uk/wp-content/uploads/2020/12/ps5-live-281220.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock checker UK – Argos, BT and EE to drop new PlayStation 5 stock THURSDAY")
+
+
+[PS5 stock checker UK – Argos, BT and EE to drop new PlayStation 5 stock THURSDAY](https://www.thesun.co.uk/tech/13233222/ps5-stock-checker-uk-amazon-john-lewis-argos-game-live/)
+
+
+> FOLLOWING its November release, gamers have found it impossible to bag themselves the coveted PS5. New stock drops at the likes of GAME, John Lewis and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console or accessories like wireless headphones.
+
+
+***
+![President Biden posts first tweet as @POTUS: ‘There is no time to waste'](https://apicms.thestar.com.my/uploads/images/2021/01/21/1015763.jpg "President Biden posts first tweet as @POTUS: ‘There is no time to waste'")
+
+
+[President Biden posts first tweet as @POTUS: ‘There is no time to waste'](https://www.thestar.com.my/tech/tech-news/2021/01/21/president-biden-posts-first-tweet-as-potus-there-is-no-time-to-waste)
+
+
+> Biden prepares to sign a series of executive orders at the Resolute Desk in the Oval Office just hours after his inauguration on Jan 20, 2021 in Washington, DC. Biden became the 46th president of the United States earlier today during the ceremony at the US Capitol. — AFP LOS ANGELES: US president Biden, less than an hour after his swearing in, posted his first official tweet from the @POTUS account after Twitter transferred it from Trump's control. 'There is no time to waste when it comes to tackling the crises we face,' Biden said in the post, time-stamped at 12:36 p.
+
+
+***
+![51 Best AirPods Pro Cases: Your Buyer's Guide](https://heavy.com/wp-content/uploads/2019/11/spigen-tough-airpods-pro-case-1.jpg?quality=65&strip=all&w=425 "51 Best AirPods Pro Cases: Your Buyer's Guide")
+
+
+[51 Best AirPods Pro Cases: Your Buyer's Guide](https://heavy.com/tech/airpods-pro-cases/)
+
+
+> Shop now at Amazon From Amazon If you are totally paranoid about dropping your AirPods Pro case, then the massive Spigen Tough Armor case will earn you peace of mind. Considering how durable the AirPods Pro and their case actually are, the Spigen Tough Armor case feels like absolute overkill. And yet, when you consider the price of these compact earbuds, it doesn't seem unreasonable to add an extra layer of protection in the case of a particularly nasty drop. The added bulk of the Tough Armor's air-cushioned corners might make the AirPods Pro charge case a little harder to fit into your pocket but you can't complain too much when it still works with wireless charging.
+
+
