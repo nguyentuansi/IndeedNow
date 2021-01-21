@@ -12564,3 +12564,53 @@
 > The Huawei Mate Xs (Image credit: TechRadar) The Huawei Mate Xs is one of the best foldable phones you can buy and the only real rival to the Samsung Galaxy Z Fold 2, but the Huawei Mate X2 might land soon, and a leak suggests it will be a lot closer to Samsung's design.Digital Chat Station (a leaker with a reasonable track record) has posted a specs list for the Mate X2 on Chinese social network Weibo, and it includes mention of two screens – an 8.01-inch 2200 x 2480 internal one, and a 6.45-inch 1160 x 2700 secondary one.
 
 
+***
+![OnePlus co-founder Carl Pei is launching a new brand on Jan 27, Kunal Shah is investing in it](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/carl_pei12-483x271_1200_210121164507.png "OnePlus co-founder Carl Pei is launching a new brand on Jan 27, Kunal Shah is investing in it")
+
+
+[OnePlus co-founder Carl Pei is launching a new brand on Jan 27, Kunal Shah is investing in it](https://www.indiatoday.in/technology/news/story/oneplus-co-founder-carl-pei-is-launching-a-new-brand-on-jan-27-kunal-shah-is-investing-in-it-1761383-2021-01-21)
+
+
+> Kunal Shah's investment in Carl's venture comes after the startup raised $7 million in its initial round of funding. Sushant Talwar | January 21, 2021 | Updated 16:39 IST
+
+
+***
+![Oppo Reno 5 Pro 5G, Enco X first sale tomorrow: Rs 3,500 discount, 120GB free cloud space, and more](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/oppo_reno_5_pro_5g_3-483x271_1200_210121164459.jpeg "Oppo Reno 5 Pro 5G, Enco X first sale tomorrow: Rs 3,500 discount, 120GB free cloud space, and more")
+
+
+[Oppo Reno 5 Pro 5G, Enco X first sale tomorrow: Rs 3,500 discount, 120GB free cloud space, and more](https://www.indiatoday.in/technology/news/story/oppo-reno-5-pro-5g-enco-x-first-sale-tomorrow-rs-3-500-discount-120gb-free-cloud-space-and-more-1761388-2021-01-21)
+
+
+> Oppo launched the Reno 5 Pro 5G and Enco X earlier this week and tomorrow they will be up for grabs in the first sale. Shubham Verma | January 21, 2021 | Updated 16:43 IST
+
+
+***
+![Apple iPad mini 6 renders hint at in-display Touch ID and punch-hole selfie camera](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/ipad-pro_2_559_080817014106-483x271_1200_210121154444.jpeg "Apple iPad mini 6 renders hint at in-display Touch ID and punch-hole selfie camera")
+
+
+[Apple iPad mini 6 renders hint at in-display Touch ID and punch-hole selfie camera](https://www.indiatoday.in/technology/news/story/ipad-mini-6-renders-hint-at-in-display-touch-id-and-punch-hole-selfie-camera-1761358-2021-01-21)
+
+
+> Reports suggest the company will be using an in-display Touch ID fingerprint sensor on the iPad 6 mini. Sushant Talwar | January 21, 2021 | Updated 15:31 IST
+
+
+***
+![Chrome v88 for desktop can check if your saved password has been compromised, here are other new features](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/chrome_88-483x271_1200_210121144649.jpeg "Chrome v88 for desktop can check if your saved password has been compromised, here are other new features")
+
+
+[Chrome v88 for desktop can check if your saved password has been compromised, here are other new features](https://www.indiatoday.in/technology/news/story/chrome-v88-for-desktop-can-check-if-your-saved-password-has-been-compromised-here-are-other-new-features-1761343-2021-01-21)
+
+
+> Highlights Chrome v88 brings a more secure password manager. With new Chrome v88, user passwords and usernames can now be changed from the same place. Screenshot feature added in the incognito window. The latest update for Google Chrome rolled out recently brings in a bunch of features. However, the updated password manager is the feature to look out for. With this update, users can easily fix weak and compromised passwords. Plus, the improved password manager ensures that users don't have a tough time logging into accounts that are used less.
+
+
+***
+![Airtel, BSNL, Jio and Vi prepaid plans under Rs 600 with up to 84 days validity and 5GB daily data](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/img_20201216_122139_3-483x271_1200_210121150613.jpeg "Airtel, BSNL, Jio and Vi prepaid plans under Rs 600 with up to 84 days validity and 5GB daily data")
+
+
+[Airtel, BSNL, Jio and Vi prepaid plans under Rs 600 with up to 84 days validity and 5GB daily data](https://www.indiatoday.in/technology/news/story/airtel-bsnl-jio-and-vi-prepaid-plans-under-rs-600-with-up-to-84-days-validity-and-5gb-daily-data-1761350-2021-01-21)
+
+
+> Airtel, BSNL, Jio and Vi offer a range of plans with 56 and 84 days validity that are priced under Rs 600. Some plans offer streaming benefits with data and calling benefits. Yasmin Ahmed | January 21, 2021 | Updated 15:05 IST
+
+
