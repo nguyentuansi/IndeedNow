@@ -12514,3 +12514,53 @@
 > Vivo, Oppo, Xiaomi and Realme would soon be launching phones running on these Dimensity SoCs.Mediatek Dimensity SoCs: Chipset technology company MediaTek has unveiled its Dimensity 1200 and Dimensity 1100 5G systems on a chip (SoCs), marking the latest products in the Dimensity 5G line up. Based on a 6nm architecture, the SoCs would offer camera, AI and multimedia features for 5G experiences that are unrivaled, the company said. Of these, the Density 1200 SoC has been equipped to support new gaming enhancements as well as a 200MP camera.
 
 
+***
+![Global Holistic Web Protection Market Report 2020 with Benchmark of 10 Key Players](https://mms.businesswire.com/media/20210121005446/en/371054/23/ResearchAndMarkets_800px.jpg "Global Holistic Web Protection Market Report 2020 with Benchmark of 10 Key Players")
+
+
+[Global Holistic Web Protection Market Report 2020 with Benchmark of 10 Key Players](https://www.businesswire.com/news/home/20210121005446/en/Global-Holistic-Web-Protection-Market-Report-2020-with-Benchmark-of-10-Key-Players---ResearchAndMarkets.com)
+
+
+> January 21, 2021 06:13 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Global Holistic Web Protection Market 2020 - A Benchmark of 10 Key Players" report has been added to ResearchAndMarkets.com's offering. Holistic Web Protection is an emerging category of security solutions that is focused on the comprehensive protection of websites, web applications, and related services. It is offered as cloud services and managed to a varying extent. Holistic Web Protection solutions integrate three key security technologies: distributed denial-of-service (DDoS) mitigation, web application firewall (WAF), and bot risk management (BRM).
+
+
+***
+![Facebook plot to encrypt ALL chats will help paedos share child abuse images, MPs warn](https://www.thesun.co.uk/wp-content/uploads/2020/12/NINTCHDBPICT000511564003.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Facebook plot to encrypt ALL chats will help paedos share child abuse images, MPs warn")
+
+
+[Facebook plot to encrypt ALL chats will help paedos share child abuse images, MPs warn](https://www.thesun.co.uk/tech/13805957/facebook-encryption-child-abuse-backlash/)
+
+
+> FACEBOOK has been blasted as "hopelessly naive" by British MPs who think the plans to encrypt its messaging app will assist paedophiles. The alarm has been raised over Facebook's plans to encrypt more of our private chats – shutting out hackers, but also the police. Facebook has stressed the benefits of encryptionCredit: Alamy British politician Yvette Cooper has said that the plans will make it harder for police to protect children in danger of being abused. There's also fears they will stop the crackdown on sharing images of child abuse.
+
+
+***
+![Should I buy a TCL TV? A look at one of the fastest growing TV brands](https://cdn.mos.cms.futurecdn.net/W8Ut7uvUQFV4HBNn5SWRS9-1200-80.jpg "Should I buy a TCL TV? A look at one of the fastest growing TV brands")
+
+
+[Should I buy a TCL TV? A look at one of the fastest growing TV brands](https://www.techradar.com/news/should-i-buy-a-tcl-tv-a-look-at-one-of-the-fastest-growing-tv-brands)
+
+
+> Should you buy a TCL TV in 2021? If you're shopping for your next television, and you're trying to choose between the various budget TV brands out there, you may well have come across the TCL name – but knowing what to make of it is another matter entirely.That's why we've brought together everything you need to know about the established Chinese electronics brand, including the most recent models we've tested, new and upcoming models and what you can expect to pay for them.Usually, we'd expect a brand to unveil all its plans for the coming year at CES 2021 (the biggest tech expo of the year).
+
+
+***
+![Everything You Wanted to Ask About Twitter's New Verification Policy](https://i.gadgets360cdn.com/large/1200x675_thumb_-_twitter_1611224139892.png "Everything You Wanted to Ask About Twitter's New Verification Policy")
+
+
+[Everything You Wanted to Ask About Twitter's New Verification Policy](https://gadgets.ndtv.com/social-networking/news/twitter-restarts-verification-applications-blue-ticks-january-22-self-serve-faq-need-to-know-2355941)
+
+
+> Twitter is restarting its verification process from Friday, January 22, so more accounts will be able to get the blue tick mark from the social network. Twitter said it will be relaunching the self-serve application portal for the public to apply for verification in 2021. Here is everything you need to know about the changes and also how you can apply for verification.Eligibility for verificationAccording to Twitter, for an account to be verified it must be notable and active. There are six types of ‘notable' accounts on Twitter: Government Companies, brands and non-profit organisations News organisations and journalists Entertainment Sports and esports Activists, organisers, and other influential individualsTwitter says it has received suggestions adding more categories including academics, scientists and religious leaders, and that it is planning to add dedicated categories for these some time later this year.
+
+
+***
+![Huawei Mate X2 leak suggests a big camera upgrade and a very different design](https://cdn.mos.cms.futurecdn.net/rEmop5DKZEwx6VguLa6HSQ-1200-80.jpg "Huawei Mate X2 leak suggests a big camera upgrade and a very different design")
+
+
+[Huawei Mate X2 leak suggests a big camera upgrade and a very different design](https://www.techradar.com/news/huawei-mate-x2-leak-suggests-a-big-camera-upgrade-and-a-very-different-design)
+
+
+> The Huawei Mate Xs (Image credit: TechRadar) The Huawei Mate Xs is one of the best foldable phones you can buy and the only real rival to the Samsung Galaxy Z Fold 2, but the Huawei Mate X2 might land soon, and a leak suggests it will be a lot closer to Samsung's design.Digital Chat Station (a leaker with a reasonable track record) has posted a specs list for the Mate X2 on Chinese social network Weibo, and it includes mention of two screens – an 8.01-inch 2200 x 2480 internal one, and a 6.45-inch 1160 x 2700 secondary one.
+
+
