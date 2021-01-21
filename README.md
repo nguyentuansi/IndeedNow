@@ -12811,3 +12811,50 @@
 > Microsoft Surface Laptop Go launched in India at a starting price of Rs 63,499. Ketan Pratap | January 21, 2021 | Updated 19:11 IST Microsoft Surface Laptop Go
 
 
+***
+[Samsung Galaxy S21 review: attractive design, same top-tier CPU and 120Hz refresh rate as bigger S21s, but screen is lower res and zoomed-in photos are muddy (Cherlynn Low/Engadget)](http://www.techmeme.com/210121/p16#a210121p16)
+
+
+> Cherlynn Low / Engadget: Samsung Galaxy S21 review: attractive design, same top-tier CPU and 120Hz refresh rate as bigger S21s, but screen is lower res and zoomed-in photos are muddy — With a more reasonable price, the baby of the family is a solid pick. — 8m ago — Welcome to a world where less is more.
+
+
+***
+![Hawkeye on Disney Plus: release date, cast, story and what we know](https://cdn.mos.cms.futurecdn.net/a5FyXGnRVCzWKfprJHz75T-1200-80.jpg "Hawkeye on Disney Plus: release date, cast, story and what we know")
+
+
+[Hawkeye on Disney Plus: release date, cast, story and what we know](https://www.techradar.com/news/hawkeye-on-disney-plus-release-date-cast-story-and-what-we-know)
+
+
+> Hawkeye on Disney Plus has a release date of late 2021. The show, which will feature Jeremy Renner reprising his role as Clint Barton from the Avengers movies, sees the superhero teaming up with a new archer, known as Kate Bishop (who's officially being played by Bumblebee's Hailee Steinfeld). This has been a long time coming – Hawkeye is the only one of the original Avengers never to have a solo movie, at this point, and a TV show that introduces an understudy of sorts to the Marvel Cinematic Universe feels like something that hasn't been done yet.
+
+
+***
+![Bodyguard is a mobile app that hides toxic content on social platforms – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/Launch-en.png?w=600 "Bodyguard is a mobile app that hides toxic content on social platforms – TechCrunch")
+
+
+[Bodyguard is a mobile app that hides toxic content on social platforms – TechCrunch](https://techcrunch.com/2021/01/21/bodyguard-is-a-mobile-app-that-hides-toxic-content-on-social-platforms/)
+
+
+> If you're somewhat famous on various social networks, chances are you are exposed to hate speech in your replies or in your comments. French startup Bodyguard recently launched its app and service in English so that it can hide toxic content from your eyes. It has been available in French for a few years and the company has attracted 50,000 users so far. 'We have developed a technology that detects hate speech on the internet with a 90 to 95% accuracy and only 2% of false positive,' founder and CEO Charles Cohen told me.
+
+
+***
+![Third stimulus check details: Timeline, payment size, new qualifications taking shape?](https://cnet3.cbsistatic.com/img/2AkGPw-oJw1GZlglfqp821nHhKY=/1200x630/2020/07/31/c7e57bad-32f5-49e0-b16d-8e487c38ff12/001-cash-money-dollar-bills-colorful-background-stimulus-2020.jpg "Third stimulus check details: Timeline, payment size, new qualifications taking shape?")
+
+
+[Third stimulus check details: Timeline, payment size, new qualifications taking shape?](https://www.cnet.com/personal-finance/third-stimulus-check-details-timeline-payment-size-new-qualifications-taking-shape/)
+
+
+> America's third stimulus check would change even more rules this time, from the maximum payment to who qualifies. Sarah Tew/CNET Over 50% of Americans in a recent survey by Bankrate have said the $600 second stimulus checks aren't enough to last a full month (Bankrate and CNET share a parent company). President Joe Biden agrees -- his $1.9 trillion stimulus package proposal includes a $1,400 third stimulus check, which would deliver a combined $2,000 maximum per person when you add the second and third checks together.
+
+
+***
+![Changing between digital and physical games on Switch is easy](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/nintendo-switch-boxes.jpg "Changing between digital and physical games on Switch is easy")
+
+
+[Changing between digital and physical games on Switch is easy](https://www.imore.com/do-physical-and-digital-nintendo-switch-games-share-the-same-save-file)
+
+
+> Source: Rebecca Spear / iMoreBest answer: Yep. If you own the physical or digital copy of a Nintendo Switch game, the game save data for the Switch is in the system's memory. So, if you're on the physical version and want to switch to digital instead, you should be able to do that without a hitch. Unlike other Nintendo systems, your game save data for the Switch is stored on the console's system memory, not on the cartridge. Even if you buy the digital version and later archive or delete the game from your console, your game saves will be preserved.
+
+
