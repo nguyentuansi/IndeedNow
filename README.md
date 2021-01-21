@@ -12614,3 +12614,50 @@
 > Airtel, BSNL, Jio and Vi offer a range of plans with 56 and 84 days validity that are priced under Rs 600. Some plans offer streaming benefits with data and calling benefits. Yasmin Ahmed | January 21, 2021 | Updated 15:05 IST
 
 
+***
+![Raytracing in Plain Python](https://external-preview.redd.it/J9dMiqq4pA8gzXwglDh0wV_DdMdznDjwF76d8jQAclc.jpg?auto=webp&s=540a6f945a70ddf5ce008fcbe641674e798a1f3a "Raytracing in Plain Python")
+
+
+[Raytracing in Plain Python](https://www.reddit.com/r/Python/comments/l1yaim/raytracing_in_plain_python/)
+
+
+> The ray tracer with pictures is here: https://alecdee.github.io/raytracer/index.html The ray tracer is a single python file ([RayTracer.py] (https://alecdee.github.io/raytracer/RayTracer.py)), that renders a default scene if you call it with python. I recommend using PyPy for speed though. The version I linked above doesn't use any libraries aside from time, math, random, and sys. Notably, it doesn't use GPU calls or math libraries like numpy. I've also made a separate version that uses the multiprocessing module, and another version that offloads rendering to a C extension I made.
+
+
+***
+[I have made a tutorial website using python's django framework](https://www.reddit.com/r/Python/comments/l1yacj/i_have_made_a_tutorial_website_using_pythons/)
+
+
+> Hey guys, Its been fun ride with django. I have started learning python during the beginning stages of pandemic and its been 5 months with django. I started web development with flask by following Corey shafaer's flask blog series. Flask is a good framework, but there is a lot to do especially if you're planning to manage users which django does by default. So after few weeks with flask, I thought of experimenting django and to be honest it was so difficult to get started with django and its architecture, but eventually after grinding with it everything came to normal.
+
+
+***
+![Synaptics shares gain after JPMorgan upgrade as IoT shift justifies valuation (NASDAQ:SYNA)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Synaptics shares gain after JPMorgan upgrade as IoT shift justifies valuation (NASDAQ:SYNA)")
+
+
+[Synaptics shares gain after JPMorgan upgrade as IoT shift justifies valuation (NASDAQ:SYNA)](https://seekingalpha.com/news/3653052-synaptics-shares-gain-after-jpmorgan-upgrade-as-iot-shift-justifies-valuation)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Paramount Plus release date, price, shows and everything we know](https://cdn.mos.cms.futurecdn.net/WL5dUMhfGYzubypZYdmUAV-1200-80.jpg "Paramount Plus release date, price, shows and everything we know")
+
+
+[Paramount Plus release date, price, shows and everything we know](https://www.techradar.com/news/paramount-plus-release-date-price-shows-and-everything-we-know)
+
+
+> Somehow, the new streaming services never stop coming. Paramount Plus is launching in the US and Latin America on March 4, as a rebranding and relaunch of the existing CBS All Access service that will expand its library of content further.  With dedicated hubs to ViacomCBS' various owned content arms – Nickelodeon, Comedy Central, MTV and BET – it very much looks like another major studio's renewed attempt to grab part of a market that's currently dominated by Netflix and its ilk.  This is part of a long-term plan to transform CBS All Access that actually kicked off in July 2020, when content from these different silos of shows and movies became available to stream.
+
+
+***
+![Pakistani teams win top two spots in Huawei's ICT competition regional finals](https://sm.mashable.com/t/mashable_pk/photo/default/ict_wykh.1200.jpg "Pakistani teams win top two spots in Huawei's ICT competition regional finals")
+
+
+[Pakistani teams win top two spots in Huawei's ICT competition regional finals](https://pk.mashable.com/tech/7216/pakistani-teams-win-top-two-spots-in-huaweis-ict-competition-regional-finals)
+
+
+> Two teams from Pakistan have managed to secure top first and second positions in the regional finals of Huawei's Middle East ICT Competition 2020. The two teams of six students belonged to the two top universities of the country including Ghulam Ishaq Khan (GIK) University and University of Engineering Technology (UET). The team from GIK was supervised by Dr Ghulam Abbas. It included students Mohammad Inam, Uzair Ahmed and Gulfam Hussain, who developed a cloud based AI-application called ‘Wear-tificially' which will enable users to virtually try on clothes.
+
+
