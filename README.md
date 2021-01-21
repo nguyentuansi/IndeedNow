@@ -12329,3 +12329,44 @@
 > The IRS deadline to send out stimulus checks has passed. Now what? Sarah Tew/CNET You never got your second stimulus checks and the deadline has passed -- what should you do if your $600 stimulus payment hasn't arrived yet? You can plan to claim it when tax-filing season opens Feb. 12. (That goes for tax nonfilers, too.) Or is there still a chance your money went out before the deadline and is on its way to your mailbox? Your direct deposit payment could also be stuck in a tax-preparer issue with the IRS and direct deposit.
 
 
+***
+![Bitcoin price slides for second day](https://www.telegraph.co.uk/content/dam/technology/2020/12/17/TELEMMGLPICT000244821854_trans_NvBQzQNjv4BqkUE_BTgBOQu3VWKvpDGX9b6IT27HgWfEymhU_wUI4Tk.jpeg?impolicy=logo-overlay "Bitcoin price slides for second day")
+
+
+[Bitcoin price slides for second day](https://www.telegraph.co.uk/technology/2021/01/21/bitcoin-price-slides-second-day-live-updates/)
+
+
+> Bitcoin continued its downward slide on Thursday, in a sign its record-breaking rally may have come to an end. The crytocurrency has fallen by as much as 8.4pc over the past two days, according to data compiled by Bloomberg. It has dipped below its 10-day moving average. It comes after the price of Bitcoin hit an all-time high earlier this month, surging to as high as $42,000 (£30,600) and taking the total value of all Bitcoins in circulation to more than $700bn. This was a significant jump from around $10,000 three months ago.
+
+
+***
+![India parliament panel to question Facebook on WhatsApp's privacy terms:  source](https://i-invdn-com.akamaized.net/news/LYNXNPED8K13A_L.jpg "India parliament panel to question Facebook on WhatsApp's privacy terms:  source")
+
+
+[India parliament panel to question Facebook on WhatsApp's privacy terms:  source](https://www.investing.com/news/technology-news/india-parliament-panel-to-question-facebook-on-whatsapps-privacy-terms--source-2394619)
+
+
+> No body in the article.
+
+
+***
+[Signal Hits 26.4 Million Downloads in India: Report](https://www.thequint.com/tech-and-auto/signal-app-hits-264-million-downloads-in-india)
+
+
+> The app has Signal has recorded 24.6 million downloads in India from 14 January 2020 to 17 January 2020.
+
+
+***
+[馬士基由廈門航向洛杉磯的 750 個貨櫃因惡劣天候墜海！](https://technews.tw/2021/01/21/maersk-750-containers-fell-into-the-sea-due-to-bad-weather/)
+
+
+> 繼中國鹽田區航向加州長堤港（Port of Long Beach）的貨櫃船「ONE Apus」於去年 11 月 […]
+
+
+***
+[馬士基由廈門航向洛杉磯的 750 個貨櫃因惡劣天候墜海](https://technews.tw/2021/01/21/maersk-750-containers-fell-into-the-sea-due-to-bad-weather/)
+
+
+> 繼中國鹽田區航向加州長堤港（Port of Long Beach）的貨櫃船「ONE Apus」於去年 11 月 […]
+
+
