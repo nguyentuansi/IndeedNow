@@ -13093,3 +13093,50 @@
 > January 21, 2021 04:30 PM Eastern Standard Time SAN FRANCISCO--(BUSINESS WIRE)--Pinterest, Inc. (NYSE: PINS) will release financial results and a letter to shareholders for the fourth quarter and fiscal year 2020 on Thursday, February 4, 2021 after market close. The company will host a Q&A conference call to discuss these results at 1:30 p.m. PT (4:30 p.m. ET) on the same day. A live webcast of the conference call and related earnings release materials can be accessed on Pinterest's Investor Relations website at investor.
 
 
+***
+![amaysim takeover by Optus set to be completed on 1 February](https://www.itwire.com/media/k2/items/cache/8eb253eab6a9b6bd774b81526cbc4ef5_XS.jpg "amaysim takeover by Optus set to be completed on 1 February")
+
+
+[amaysim takeover by Optus set to be completed on 1 February](https://www.itwire.com/mobility/amaysim-takeover-by-optus-set-to-be-completed-on-1-february.html)
+
+
+> Supplied Shareholders of amaysim have given the green light for the company to be taken over by Optus, a deal that was announced in November last year. Optus agreed to buy amaysim, the country's biggest virtual network operator, for $250 million. amaysim has about 1.19 million customers. The acquisition will be finalised on 1 February, amaysim said in a statement on Friday. amaysim chief executive, managing director and founder, Peter O'Connell said: 'We are very pleased that shareholders have voted in favour of the sale of amaysim's mobile business to our long-term strategic wholesale partner, Optus.
+
+
+***
+![If you could what tips and advice would you give yourself at the start of your programming journey?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "If you could what tips and advice would you give yourself at the start of your programming journey?")
+
+
+[If you could what tips and advice would you give yourself at the start of your programming journey?](https://www.reddit.com/r/Python/comments/l29kuq/if_you_could_what_tips_and_advice_would_you_give/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![These are the best Android smartwatches you can buy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/01/best-android-smrtwtchs-hero.jpg "These are the best Android smartwatches you can buy")
+
+
+[These are the best Android smartwatches you can buy](https://www.androidcentral.com/best-android-smartwatch)
+
+
+> Right now, the best smartwatch for Android users is the Samsung Galaxy Watch Active 2. It's optimized for Samsung phones but runs well on all Android devices and has all the smartwatch and fitness features you'd expect. It's compact and lightweight but still offers good battery life. But if you're not into that one, the good news is that there are so many other amazing options from Fossil to Garmin to Fitbit and more. The best smartwatches at a glance Samsung Galaxy Watch Active 2 — The Galaxy Watch Active 2 is great for all Android users, not just Samsung phone owners, with an incredible balance of features, battery life, and aesthetics.
+
+
+***
+![The UN Will Release A Game To Educate About Protecting The Earth](https://www.androidheadlines.com/wp-content/uploads/2021/01/UN-Game.png "The UN Will Release A Game To Educate About Protecting The Earth")
+
+
+[The UN Will Release A Game To Educate About Protecting The Earth](https://www.androidheadlines.com/2021/01/the-un-will-release-a-game-to-educate-about-protecting-the-earth.html)
+
+
+> The UN has created a game to provide education about protecting the ozone layer which is set to release next month. As reported by Engadget the game entitled 'Reset Earth' teaches you about the earth and climate change as you play along.This demonstrates a renewed emphasis in the media to begin the conversation again about climate change. We have seen this in a number of places over the last few months as well as stretching back further.Amazon employees spoke out against their company's apparent hypocrisy in its climate change policy.
+
+
+***
+[Imperfect Foods, a service that distributes groceries that would otherwise go to waste, raises $95M Series D, with a source valuing it at $700M+ (Bloomberg)](http://www.techmeme.com/210121/p30#a210121p30)
+
+
+> Bloomberg: Imperfect Foods, a service that distributes groceries that would otherwise go to waste, raises $95M Series D, with a source valuing it at $700M+ — - Grocery delivery service raised $95 million from investors — CEO says company has experienced triple-digit growth rates
+
+
