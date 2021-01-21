@@ -13046,3 +13046,50 @@
 > Anthony Ha / TechCrunch: Soci, which offers tools to help businesses with “localized marketing” across search and social media, raises $80M Series D, bringing its total raised to $110M — Soci, a startup focused on what it calls “localized marketing,” is announcing that it has raised $80 million in Series D funding.
 
 
+***
+![10 days after going dark: Judge says Amazon won't have to restore Parler web service](https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2017/08/24/USATODAY/usatsports/amzn-aws-banner_large.png?width=1600&height=800&fit=crop "10 days after going dark: Judge says Amazon won't have to restore Parler web service")
+
+
+[10 days after going dark: Judge says Amazon won't have to restore Parler web service](https://www.usatoday.com/story/tech/news/2021/01/21/judge-amazon-wont-restore-parler-web-service/6662660002/)
+
+
+> CLOSE Conservative-friendly social media platforms are on the rise, as traditional ones likes Twitter and Facebook crack down on misleading or false posts. USA TODAY Amazon won't be forced to restore web service to Parler after a federal judge ruled Thursday against a plea to reinstate the fast-growing social media app favored by followers of former President Donald Trump. U.S. District Judge Barbara Rothstein in Seattle said she wasn't dismissing Parler's "substantive underlying claims" against Amazon, but said it had fallen short in demonstrating the need for an injunction forcing it back online.
+
+
+***
+![Verizon Has The Fossil Gen 5 LTE Wear OS Smartwatch In Stock](https://www.androidheadlines.com/wp-content/uploads/2021/01/Fossil-Gen-5-LTE-6.jpg "Verizon Has The Fossil Gen 5 LTE Wear OS Smartwatch In Stock")
+
+
+[Verizon Has The Fossil Gen 5 LTE Wear OS Smartwatch In Stock](https://www.androidheadlines.com/2021/01/verizon-fossil-gen-5-lte-wear-os-smartwatch.html)
+
+
+> Earlier this month Fossil announced it would be coming out with the Gen 5 LTE smartwatch that runs on Wear OS, and that it would be available through Verizon Wireless.The watch, which was supposed to be launching "sometime this Spring" according to the official announcement, is actually available as of today on the Verizon website. And it's likely that the physical retail stores will have them too.The Fossil Gen 5 LTE is just like the original Fossil Gen 5, except this one you can buy from Verizon and it has LTE data connectivity.
+
+
+***
+[Omnipresent, which helps companies hire remote workers in 150 countries, raises $15.8M Series A, five months after raising a $2M seed round (Mike Butcher/TechCrunch)](http://www.techmeme.com/210121/p28#a210121p28)
+
+
+> Mike Butcher / TechCrunch: Omnipresent, which helps companies hire remote workers in 150 countries, raises $15.8M Series A, five months after raising a $2M seed round — Omnipresent, which helps companies employ remote-working local teams worldwide, has closed a $15.8 million Series A funding round.
+
+
+***
+![Is it worth upgrading from the Samsung Galaxy Tab Active2 to the Active3?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/samsung-galaxy-tab-active3-lifestyle.jpg "Is it worth upgrading from the Samsung Galaxy Tab Active2 to the Active3?")
+
+
+[Is it worth upgrading from the Samsung Galaxy Tab Active2 to the Active3?](https://www.androidcentral.com/samsung-galaxy-tab-active2-vs-tab-active3-should-you-upgrade)
+
+
+> While it launched in 2018, the Active2 still serves as the basis for the Active3, and it has many of the same features like LTE support, Pogo pin for power, S Pen compatibility, a user-replaceable battery, and it's just as durable and secure. But it does have its limitations, including limited storage and glove operation requiring physical keys. But it's still a decent option that will suffice for many field workers. From $392 at Amazon Slightly lighter in weight Available at a discount now that Active3 is out Super rugged design Not high-res screen No touch sensitivity with gloves Not a lot of storage space The Active3 offers some interesting upgrades compared to the Active2, including the new Android OS, a higher-resolution screen, longer battery life, enhanced shock absorption, support for a No Battery Mode, Samsung DeX integration capabilities, and Google ARCore support for enabling AR services like remote training.
+
+
+***
+![Pinterest to Announce Fourth Quarter and Fiscal Year 2020 Results](https://mms.businesswire.com/media/20210121005880/en/719343/23/badgeRGB.jpg "Pinterest to Announce Fourth Quarter and Fiscal Year 2020 Results")
+
+
+[Pinterest to Announce Fourth Quarter and Fiscal Year 2020 Results](https://www.businesswire.com/news/home/20210121005880/en/Pinterest-to-Announce-Fourth-Quarter-and-Fiscal-Year-2020-Results)
+
+
+> January 21, 2021 04:30 PM Eastern Standard Time SAN FRANCISCO--(BUSINESS WIRE)--Pinterest, Inc. (NYSE: PINS) will release financial results and a letter to shareholders for the fourth quarter and fiscal year 2020 on Thursday, February 4, 2021 after market close. The company will host a Q&A conference call to discuss these results at 1:30 p.m. PT (4:30 p.m. ET) on the same day. A live webcast of the conference call and related earnings release materials can be accessed on Pinterest's Investor Relations website at investor.
+
+
