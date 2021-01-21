@@ -12229,3 +12229,53 @@
 > Shop now at Amazon From Amazon If you are totally paranoid about dropping your AirPods Pro case, then the massive Spigen Tough Armor case will earn you peace of mind. Considering how durable the AirPods Pro and their case actually are, the Spigen Tough Armor case feels like absolute overkill. And yet, when you consider the price of these compact earbuds, it doesn't seem unreasonable to add an extra layer of protection in the case of a particularly nasty drop. The added bulk of the Tough Armor's air-cushioned corners might make the AirPods Pro charge case a little harder to fit into your pocket but you can't complain too much when it still works with wireless charging.
 
 
+***
+![Wireless charging tech developer Powermat pivots to industrial applications with Jetsons Robotics partnerhsip – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/Powermat-Robotics-Wireless-Charigng-2.jpg?w=618 "Wireless charging tech developer Powermat pivots to industrial applications with Jetsons Robotics partnerhsip – TechCrunch")
+
+
+[Wireless charging tech developer Powermat pivots to industrial applications with Jetsons Robotics partnerhsip – TechCrunch](https://techcrunch.com/2021/01/20/wireless-charging-tech-developer-powermat-pivots-to-industrial-applications-with-jetsons-robotics-partnerhsip/)
+
+
+> When the two year-old Indian company Jetsons Robotics began searching for a partner to help design charging stations for their autonomous rooftop solar installation cleaning robots, the Israeli company Powermat was an obvious choice. While the company had made its name as the designer for wireless charging technologies for consumer electronics, over the past two years the company was shifting its focus to more industrial applications. So it made sense to work with the Indian company on new form factors and applications for its charging technologies.
+
+
+***
+![Storage in /System/Volumes/Data doesn't add up ("Other" taking a lot)](https://images.macrumors.com/social/?t=2281227&v=6 "Storage in /System/Volumes/Data doesn't add up ("Other" taking a lot)")
+
+
+[Storage in /System/Volumes/Data doesn't add up ("Other" taking a lot)](https://forums.macrumors.com/threads/storage-in-system-volumes-data-doesnt-add-up-other-taking-a-lot.2281227/)
+
+
+> I'm confused by the storage stats. I have a macOS Big Sur under APFS (~736 Gi with 578 Gi used) and also a BootCamp Windows (~189 Gi with ~143 Gi used) alongside. "System Information" says I only have ~156G left (= 143Gi) left in macOS, which is consistent with the command df -h as shown below. However, the content inside /System/Volumes/Data doesn't add up to 578 Gi. Using the command du -chd 1 only gives merely ~398 Gi (180 Gi off) -- see the code block below. The result described above is without mounting the BootCamp partition.
+
+
+***
+![Technical Conference on Reassessment of the Electric Quarterly Report Requirements; Supplemental Notice of Technical Conference](https://www.federalregister.gov/assets/open_graph_site_banner.png "Technical Conference on Reassessment of the Electric Quarterly Report Requirements; Supplemental Notice of Technical Conference")
+
+
+[Technical Conference on Reassessment of the Electric Quarterly Report Requirements; Supplemental Notice of Technical Conference](https://www.federalregister.gov/documents/2021/01/21/2021-01182/technical-conference-on-reassessment-of-the-electric-quarterly-report-requirements-supplemental)
+
+
+> This site displays a prototype of a 'Web 2.0' version of the daily Federal Register. It is not an official legal edition of the Federal Register, and does not replace the official print version or the official electronic version on GPO's govinfo.gov. The documents posted on this site are XML renditions of published Federal Register documents. Each document posted on the site includes a link to the corresponding official PDF file on govinfo.gov. This prototype edition of the daily Federal Register on FederalRegister.
+
+
+***
+![With factories running full, Ceat hikes FY22 capex by 40%](https://images.moneycontrol.com/static-mcnews/2020/05/CEAT-770x433.jpg "With factories running full, Ceat hikes FY22 capex by 40%")
+
+
+[With factories running full, Ceat hikes FY22 capex by 40%](https://www.moneycontrol.com/news/technology/auto/with-factories-running-full-ceat-hikes-fy22-capex-by-40-6374201.html)
+
+
+> The strong comeback in demand after the lifting of the lockdown, which is expected to continue into FY22, has led tyremaker Ceat to hike its capital expenditure (capex) for the coming fiscal year by 40 percent to Rs 700 crore.The Mumbai-based company is running all its plants at full capacity, seven days a week, but is still falling short of supplies. Speaking to analysts, senior executives at Ceat stated that the capex for next year will take care of capacity expansion.'We have done about Rs 250 crore of project capex in the first nine months and the balance of Rs 250 crore will be happening this quarter.
+
+
+***
+![All the best weatherproof and wireless outdoor speakers](https://mondrian.mashable.com/2021%252F01%252F19%252F20%252F409be271dad5418d8e16ff039156b881.73e7e.jfif%252F1200x630.jfif?signature=3Q30OhYcBdUNiW64wXdx46Ag6c0= "All the best weatherproof and wireless outdoor speakers")
+
+
+[All the best weatherproof and wireless outdoor speakers](https://mashable.com/uk/roundup/best-outdoor-wireless-speakers-uk/)
+
+
+> Picture yourself relaxing somewhere nice, with the sun shining and a cold drink in your hand. The only thing that could make this vision even more perfect would be having a great speaker playing your favourite playlist. When you're selecting a speaker for this scene, there are a few features you're going to want to prioritise. Choosing a wireless speaker — one where you don't need to tangle with power cords and can easily connect to your phone via WiFi or Bluetooth — can definitely make things easier, which is why you should only consider a wireless speaker for listening outside.
+
+
