@@ -13002,3 +13002,47 @@
 > The head of the House oversight committee asked the FBI on Thursday to conduct a review of the social media platform Parler, which advertises itself as an alternative to more mainstream sites that have banned some far-right extremists. The committee's chair, Rep. Carolyn Maloney, D-N.Y., wrote to FBI Director Chris Wray asking him to look at how Parler was used before and during the Jan. 6 riot at the U.S. Capitol when pro-Trump extremists stormed the building as Congress was certifying the results of the presidential election.
 
 
+***
+[Bluesky, Twitter's decentralized social networking project, releases a review of the existing decentralized web ecosystem, says it still seeks a project lead (Adi Robertson/The Verge)](http://www.techmeme.com/210121/p26#a210121p26)
+
+
+> Adi Robertson / The Verge: Bluesky, Twitter's decentralized social networking project, releases a review of the existing decentralized web ecosystem, says it still seeks a project lead — Bluesky is still seeking a project lead — Bluesky, Twitter's decentralized social networking effort, has announced its first major update since 2019.
+
+
+***
+![The best USB-C battery packs you can buy today](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/06/usb-c-power-packs-green-planter.jpg "The best USB-C battery packs you can buy today")
+
+
+[The best USB-C battery packs you can buy today](https://www.androidcentral.com/best-usb-c-portable-power-packs)
+
+
+> Best USB-C Portable Chargers & Power Banks Android Central 2021 The Power Delivery standard has paved the way for a new wave of the best USB-C battery packs that are both powerful and portable. While there are some massive power banks aimed more at charging laptops or powering devices through long camping trips, I much prefer the lighter and cheaper chargers that can quickly charge a phone while sitting down for lunch or in my pocket during long days out and about. Whether you prefer your power banks big or small, these are the best ones around! Staff pick Anker's top-quality, durable and dependable phone-sized power bank now comes in five colors and I, for one, am thrilled.
+
+
+***
+![Programming for Absolute Beginners](https://external-preview.redd.it/kG0uweLQNMLbw9wmBCzVQyvH1G6eiYjntAsWYmFYDec.jpg?auto=webp&s=8c766b2b02aa112712b89b74e7b83a24bbba6dce "Programming for Absolute Beginners")
+
+
+[Programming for Absolute Beginners](https://www.reddit.com/r/programming/comments/l27m7x/programming_for_absolute_beginners/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Create free polls and decide anything with the Agree app on iOS and macOS](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/agree-promo-artwork.jpg "Create free polls and decide anything with the Agree app on iOS and macOS")
+
+
+[Create free polls and decide anything with the Agree app on iOS and macOS](https://www.imore.com/create-free-polls-and-decide-anything-agree-app-ios-and-macos)
+
+
+> Source: Shihab Mehboob Sometimes deciding what to do can be more difficult than you'd think. The same goes for picking a movie. Or choosing what's for dinner. That's where something like a poll could come in handy, and an app called Agree lets you do exactly that without having to venture to something like Twitter or Facebook. Polls are obviously no good if you're doing them on your own, so Agree lets you share polls with anyone so long as they have an iCloud account. You can set your own poll options and poll end dates, too.
+
+
+***
+[Soci, which offers tools to help businesses with "localized marketing" across search and social media, raises $80M Series D, bringing its total raised to $110M (Anthony Ha/TechCrunch)](http://www.techmeme.com/210121/p25#a210121p25)
+
+
+> Anthony Ha / TechCrunch: Soci, which offers tools to help businesses with “localized marketing” across search and social media, raises $80M Series D, bringing its total raised to $110M — Soci, a startup focused on what it calls “localized marketing,” is announcing that it has raised $80 million in Series D funding.
+
+
