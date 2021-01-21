@@ -12661,3 +12661,53 @@
 > Two teams from Pakistan have managed to secure top first and second positions in the regional finals of Huawei's Middle East ICT Competition 2020. The two teams of six students belonged to the two top universities of the country including Ghulam Ishaq Khan (GIK) University and University of Engineering Technology (UET). The team from GIK was supervised by Dr Ghulam Abbas. It included students Mohammad Inam, Uzair Ahmed and Gulfam Hussain, who developed a cloud based AI-application called ‘Wear-tificially' which will enable users to virtually try on clothes.
 
 
+***
+![Technology freeing high school coaches to do more](https://www.ajc.com/resizer/M68juVQDuol1jGgZOeFmOsTshu8=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/KOR7J7QUENCFZJDXDLOOWOI3BQ.jpg "Technology freeing high school coaches to do more")
+
+
+[Technology freeing high school coaches to do more](https://www.ajc.com/sports/high-school-sports-blog/technology-freeing-up-coaches-to-do-more/PFLYBSRSEJASFG5TFVEQV2DJ6M/)
+
+
+> 'We started with basketball, primarily because there are a ton of games each week,' Hudl vice president and general manager Greg Nelson said. 'There's not as much time to prepare, so we created automated tagging for different data from game video. Before, coaches would have to chart the time of a play on a clipboard, then manually search the video.'With automated insights, coaches can tag data and sort it any number of ways. For example, a coach can search for all team assists or 3-point attempts, transition lay-ups and so on.
+
+
+***
+![Google Meet may finally have a feature that lets it keep up with Microsoft Teams](https://cdn.mos.cms.futurecdn.net/66NCv3mekPgQoLRCErmz8H-1200-80.jpg "Google Meet may finally have a feature that lets it keep up with Microsoft Teams")
+
+
+[Google Meet may finally have a feature that lets it keep up with Microsoft Teams](https://www.techradar.com/news/google-meet-may-finally-have-a-feature-that-lets-it-keep-up-with-zoom-and-microsoft-teams)
+
+
+> (Image credit: Otter.ai) Online transcription service Otter.ai has announced that it is integrating its Live Notes and Video Captions feature with Google Meet. The functionality, which is already available to Zoom users, transforms remote video conversations into real-time transcriptions.Accessing the new Otter.ai transcription service is straightforward, with Google Meet users simply needing to install a Chrome extension. This will then allow Otter.ai customers to access live, interactive transcripts during Google Meet calls, and also make use of live captions.
+
+
+***
+![The Best Phones With an Actual Headphone Jack](https://media.wired.com/photos/5d7c132e8827100009bfec1f/191:100/w_1280,c_limit/gear_headphone-jack.jpg "The Best Phones With an Actual Headphone Jack")
+
+
+[The Best Phones With an Actual Headphone Jack](https://www.wired.com/gallery/best-headphone-jack-phones/)
+
+
+> Sony Xperia 1 II and Xperia 5 IISony phones haven't left a lasting impression for a long time, but the Xperia 1 II (8/10, WIRED Recommends) and the smaller Xperia 5 II are different. They excel in almost every way, with a great camera system, reliable battery life, and a sharp OLED screen. (The latter has a 120-Hz screen refresh rate too!) After removing the headphone jack from the original Xperia 1, Sony walked back and returned the 3.5-mm port to its rightful place in these two. How often does that happen?They're not perfect.
+
+
+***
+![Diablo Immortal: everything there is to know about Blizzard's mobile RPG](https://cdn.mos.cms.futurecdn.net/kMxgsJupxd5jjLPTfBqv4f-1200-80.jpg "Diablo Immortal: everything there is to know about Blizzard's mobile RPG")
+
+
+[Diablo Immortal: everything there is to know about Blizzard's mobile RPG](https://www.techradar.com/news/diablo-immortal-release-date-news-trailers-phones)
+
+
+> Diablo is the world's premier action role-playing game (RPG) series. Interestingly, it's a game that's effectively spawned many an imitator. However, very few other games have managed to come close to the original's addictive, gear-gathering, dungeon-crawling grind. Now Blizzard has made a big move that's a bit unexpected. It's set its sights on smartphones with Diablo Immortal, a mobile version of the demon-slaying franchise.But there's a problem. The move from PC to console to smartphone has been a rather controversial one.
+
+
+***
+![Kotlin Multiplatform Mobile: A Worthy Cross-Platform Development Kit?](https://external-preview.redd.it/H4agZhl8AD0F3lhdWE3ARBLPPVU0cg-0Ss0ad6mgJLg.jpg?auto=webp&s=0ff97c0604d147df4fa611f712ba80b178b27ca7 "Kotlin Multiplatform Mobile: A Worthy Cross-Platform Development Kit?")
+
+
+[Kotlin Multiplatform Mobile: A Worthy Cross-Platform Development Kit?](https://www.reddit.com/r/programming/comments/l1yw4x/kotlin_multiplatform_mobile_a_worthy/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
