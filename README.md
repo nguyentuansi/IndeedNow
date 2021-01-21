@@ -12908,3 +12908,47 @@
 > 6:24PM Thanks for reading, we'll be back tomorrow. 6:24PM Here's out full story on today's Facebook news. Often described as Facebook's "supreme court", the board has the power to reverse Facebook's decisions based on user appeals. It is made up of 20 experts including former Guardian editor Alan Rusbridger and former Danish prime minister Helle Thorning-Schmidt.Mr Trump's ban is likely to be its most high-profile case since its launch in October, and a major test of whether the board can increase public confidence in Facebook's often unaccountable censorship decisions.
 
 
+***
+[NASDAQ index moves back toward the highs for the day](https://www.forexlive.com/technical-analysis/!/nasdaq-index-moves-back-toward-the-highs-for-the-day-20210121)
+
+
+> Earlier high for the day reached 13544.46 The index is now up some 4.6% from the low from Monday. The pair gapped up yesterday (on Inauguration Day) to new all time highs. A positive close today in the NASDAQ and also the S&P and Dow industrial average would be record highs yet again. 
+
+
+***
+[Samsung Galaxy S21 Ultra Review: test shots, camera samples](https://indianexpress.com/videos/tech-video/samsung-galaxy-s21-ultra-review-test-shots-camera-samples/)
+
+
+> No body in the article.
+
+
+***
+![Google will start paying French news publishers for their content](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/google-news-logo-lifestyle.jpg "Google will start paying French news publishers for their content")
+
+
+[Google will start paying French news publishers for their content](https://www.androidcentral.com/google-will-start-paying-french-news-publishers-their-content-new-copyright-deal)
+
+
+> Source: Jordan Palmer / Android Central Google today came to an agreement with France's Alliance de la Presse d'Information Generale. The company will now pay news publishers in France for any content it reuses. Google said that it was "happy to contribute to the development of news publishers in the digital age" Google France today came to a revenue sharing agreement(via CNBC) with the French Alliance de la Presse d'Information Générale, an organization representing news publishers in France. Both groups have now agreed on a process for paying news publishers on varied criteria including "daily volume of publications or the monthly Internet audience.
+
+
+***
+![Instacart is firing every employee who voted to unionize](https://external-preview.redd.it/rt0TgzFTrwt7tlqgrSkNsoXhUkblF8SwpWfpDapHH_4.jpg?auto=webp&s=94765451ea52c9ad6cd98d85d1f1d40c86f4d5e6 "Instacart is firing every employee who voted to unionize")
+
+
+[Instacart is firing every employee who voted to unionize](https://www.reddit.com/r/technology/comments/l25jkm/instacart_is_firing_every_employee_who_voted_to/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Microsoft Edge is getting native theme support to revamp your browser's look](https://cdn.mos.cms.futurecdn.net/FbLjWEz8pftRqU8bVv7Zcc-1200-80.jpg "Microsoft Edge is getting native theme support to revamp your browser's look")
+
+
+[Microsoft Edge is getting native theme support to revamp your browser's look](https://www.techradar.com/news/microsoft-edge-is-getting-native-theme-support-to-revamp-your-browsers-look)
+
+
+> (Image credit: Microsoft) Microsoft announced today that it was adding native theme support to the Microsoft Edge browser. While themes have been available from the Chrome Web Store for a while now, this new update greatly simplifies the process of refreshing the look of the chromium-based browser.Using Microsoft Edge, you can now navigate to the Microsoft Edge add-on site and select the theme you want to install. Simply click "Get" next to the theme you want and the page will apply that theme directly to the browser.
+
+
