@@ -12464,3 +12464,53 @@
 > (Image credit: Valve) It looks like more games are coming from Valve, after Valve president Gabe Newell confirmed the company was working on a number of new titles – seemingly galvanized by the success of Half-Life: Alyx.'We definitely have games in development that we're going to be announcing," said Newell, in an interview with 1 News, adding that "it's fun to ship games.'As ever, Newell wouldn't be drawn on details, dismissing a rumored title codenamed 'Citadel' that he claimed he'd never heard of: "We have a bunch of code names – are you referring to a code name? I don't know what 'Citadel' is.
 
 
+***
+![As a technophobe, I find virtual meets agonising – but the alternative is far worse](https://static.independent.co.uk/2021/01/20/13/iStock-1226068267.jpg "As a technophobe, I find virtual meets agonising – but the alternative is far worse")
+
+
+[As a technophobe, I find virtual meets agonising – but the alternative is far worse](https://www.independent.co.uk/voices/tech-pandemic-virtual-zoom-b1790027.html)
+
+
+> I have seen my parents for a day and an hour since last August – a longer stint than a lot of people, for which I was enormously grateful. But this means that for the rest of our communications we rely on phones and computers. This presents a problem, since at least two out of the three of us are catastrophic with technology. Wobbly internet connections, lost headphones, a computer on the blink, a phone on its last legs, an inability to find the 'turn microphone on' icon, one participant in landscape and the other in portrait – it feels like virtually no communication goes smoothly.
+
+
+***
+![Guidehouse Insights Report Shows Global Revenue for Lighting-Based Real-Time Location Systems for the Healthcare Industry Is Expected to Reach $1B by 2030](https://mms.businesswire.com/media/20210121005098/en/784261/23/Guidehouse_Insights.jpg "Guidehouse Insights Report Shows Global Revenue for Lighting-Based Real-Time Location Systems for the Healthcare Industry Is Expected to Reach $1B by 2030")
+
+
+[Guidehouse Insights Report Shows Global Revenue for Lighting-Based Real-Time Location Systems for the Healthcare Industry Is Expected to Reach $1B by 2030](https://www.businesswire.com/news/home/20210121005098/en/Guidehouse-Insights-Report-Shows-Global-Revenue-for-Lighting-Based-Real-Time-Location-Systems-for-the-Healthcare-Industry-Is-Expected-to-Reach-1B-by-2030)
+
+
+> January 21, 2021 05:15 AM Eastern Standard Time BOULDER, Colo.--(BUSINESS WIRE)--A new report from Guidehouse Insights examines the global market for lighting-based real-time location systems (RTLS) for healthcare. The report provides global market forecasts, segmented by region, offering type, and construction type, through 2030. Lighting-based RTLS are gaining traction, with the healthcare industry being one sector of focus where the need to improve operational efficiencies has been further exacerbated by the COVID-19 pandemic.
+
+
+***
+![UAG Has The Cases You Need For Your Samsung Galaxy S21 Series Phone](https://www.androidheadlines.com/wp-content/uploads/2021/01/UAG-Cases-pressers-Samsung-Galaxy-S21-series.jpg "UAG Has The Cases You Need For Your Samsung Galaxy S21 Series Phone")
+
+
+[UAG Has The Cases You Need For Your Samsung Galaxy S21 Series Phone](https://www.androidheadlines.com/2021/01/uag-cases-samsung-galaxy-s21-ultra-plus.html)
+
+
+> If you plan to pre-order a Samsung Galaxy S21 series smartphone, Urban Armor Gear (UAG) has all the cases you might need to protect your investment. In fact, the company has announced no fewer than seven new case models. And each of the new UAG cases will fit any of the new Galaxy S21 devices with MIL-STD 810G 516.6 standards drop and shock protection. And, for some of the cases, well beyond even that.In fact, each of the cases, with one exception is also rated for wireless charging and wireless tap-to-pay compatibility too.
+
+
+***
+![Kia says it is working with 'multiple' firms following Apple Car reports](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/kia-sportage.jpg "Kia says it is working with 'multiple' firms following Apple Car reports")
+
+
+[Kia says it is working with 'multiple' firms following Apple Car reports](https://www.imore.com/kia-says-it-working-multiple-firms-following-apple-car-reports)
+
+
+> Source: Kia Kia has said it is working with "multiple firms" on self-driving electric vehicles in the wake of reports that Hyundai has handed off the Apple Car project to the company. From Reuters: South Korean automaker Kia Corp said on Wednesday it's reviewing cooperation on self-driving electric cars with multiple foreign firms, making no mention of a report linking it to a project with tech giant Apple Inc. Kia's comment, issued in a regulatory filing as its shares surged nearly 20% in Seoul, came after domestic online publication Edaily reported late on Tuesday that Kia's parent, Hyundai Motor Group, had decided Kia would be in charge of proposed cooperation with Apple on electric cars.
+
+
+***
+![MediaTek unveils 6nm Dimensity 1200, Dimensity 1100 5G-ready SoCs: features, availability and other details](https://images.financialexpress.com/2021/01/Dimensity-1200-1-new.jpg "MediaTek unveils 6nm Dimensity 1200, Dimensity 1100 5G-ready SoCs: features, availability and other details")
+
+
+[MediaTek unveils 6nm Dimensity 1200, Dimensity 1100 5G-ready SoCs: features, availability and other details](https://www.financialexpress.com/industry/technology/mediatek-unveils-6nm-dimensity-1200-dimensity-1100-5g-ready-socs-features-availability-and-other-details/2175727/)
+
+
+> Vivo, Oppo, Xiaomi and Realme would soon be launching phones running on these Dimensity SoCs.Mediatek Dimensity SoCs: Chipset technology company MediaTek has unveiled its Dimensity 1200 and Dimensity 1100 5G systems on a chip (SoCs), marking the latest products in the Dimensity 5G line up. Based on a 6nm architecture, the SoCs would offer camera, AI and multimedia features for 5G experiences that are unrivaled, the company said. Of these, the Density 1200 SoC has been equipped to support new gaming enhancements as well as a 200MP camera.
+
+
