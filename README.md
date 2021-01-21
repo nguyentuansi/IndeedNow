@@ -12952,3 +12952,53 @@
 > (Image credit: Microsoft) Microsoft announced today that it was adding native theme support to the Microsoft Edge browser. While themes have been available from the Chrome Web Store for a while now, this new update greatly simplifies the process of refreshing the look of the chromium-based browser.Using Microsoft Edge, you can now navigate to the Microsoft Edge add-on site and select the theme you want to install. Simply click "Get" next to the theme you want and the page will apply that theme directly to the browser.
 
 
+***
+![US government approves routes for Wyoming CO2 pipelines](https://s.abcnews.com/images/Technology/WireAP_29b4d5ac6a314966a9494e0157addb3d_16x9_992.jpg "US government approves routes for Wyoming CO2 pipelines")
+
+
+[US government approves routes for Wyoming CO2 pipelines](https://abcnews.go.com/Technology/wireStory/us-government-approves-routes-wyoming-co2-pipelines-75408458)
+
+
+> CASPER, Wyo. -- The U.S. government has approved routes for a system of pipelines that would move carbon dioxide across Wyoming in what could be by far the largest such network in North America, if it is developed. The greenhouse gas would be captured from coal-fired power plants, keeping it out of the atmosphere where it causes global warming. The captured gas would instead be pumped underground to add pressure to and boost production from oil fields. In all, the U.S. Bureau of Land Management designated 1,100 miles (1,770 kilometers) of federal land for pipeline development through the Wyoming Pipeline Corridor Initiative, the Casper Star-Tribune reported.
+
+
+***
+![Hitman 3 review: Pulsating finale for gaming's most inventive thriller](https://www.telegraph.co.uk/content/dam/gaming/2021/01/21/Hitman-3-Chongquing_trans_NvBQzQNjv4BqC3uHZGfLkwZRPIxDmpLdkpgYuuigVGDCE4MBLOXkeHw.jpg?impolicy=logo-overlay "Hitman 3 review: Pulsating finale for gaming's most inventive thriller")
+
+
+[Hitman 3 review: Pulsating finale for gaming's most inventive thriller](https://www.telegraph.co.uk/gaming/features/hitman-3-review-pulsating-finale-gamings-inventive-thriller/)
+
+
+> For all of the elaborate assassinations that have permeated the Hitman series --fashionista mishaps, explosive motorsport podiums, malfunctioning armed robots-- the most fascinating contract of Hitman 3 remains the one that developer Io strikes with its players. There is a certain understanding that when you step into the shoes of the follically-challenged Agent 47, you will embrace the blackly-comic murder sandboxes in the spirit in which they are built. Sure, you could just try and wander in with a pistol, charge up to your target, pop them in the head before running away again.
+
+
+***
+![Thousands of London cabbies to sue Uber](https://www.telegraph.co.uk/content/dam/technology/2020/08/06/TELEMMGLPICT000236569035_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Thousands of London cabbies to sue Uber")
+
+
+[Thousands of London cabbies to sue Uber](https://www.telegraph.co.uk/technology/2021/01/21/thousands-london-cabbies-sue-uber/)
+
+
+> Thousands of London cabbies are hoping to secure millions of pounds from Uber for allegedly operating in the city illegally. The group legal action against the ride-hailing giant , which is being headed up by litigation company RGL Management and law firm Mishcon de Reya, will begin no later than the first quarter of next year. More than 4,000 cabbies have already signed up to the action, which claims that Uber did not follow private hire laws between June 2012 and March 2018. Uber has dismissed the allegations, insisting that it has always operated lawfully and that the claims were 'unfounded'.
+
+
+***
+![Apple releases iOS 14.4 RC and watchOS 7.3 RC for developers](https://m-cdn.phonearena.com/images/article/129662-two_1200/Apple-releases-iOS-14.4-RC-and-watchOS-7.3-RC-for-developers.jpg "Apple releases iOS 14.4 RC and watchOS 7.3 RC for developers")
+
+
+[Apple releases iOS 14.4 RC and watchOS 7.3 RC for developers](https://www.phonearena.com/news/apple-releases-updated-ios-watchos-for-developers_id129662)
+
+
+> When Apple released iOS and iPadOS 14.2, it made a change to the naming system it had used to denote a beta release on the verge of being disseminated. This beta build of iOS or iPadOS, watchOS, etc. was once called the Gold Master and is now known as Release Candidate (RC). So today we can tell you that iOS 14.4 RC is now available to developers. This is expected to be the near-final beta build.According to the changelist, iOS 14.4 will notify users if it can't 100% verify that the camera on your iPhone 12 series device is a "genuine Apple camera.
+
+
+***
+![House oversight head asks FBI to investigate Parler](https://media1.s-nbcnews.com/j/newscms/2020_33/3404611/200814-carolyn-maloney-mn-1150_1ecbae042d9232558fb8eaf1d15bfa13.nbcnews-fp-1200-630.jpg "House oversight head asks FBI to investigate Parler")
+
+
+[House oversight head asks FBI to investigate Parler](https://www.nbcnews.com/tech/tech-news/house-oversight-head-asks-fbi-investigate-parler-n1255170)
+
+
+> The head of the House oversight committee asked the FBI on Thursday to conduct a review of the social media platform Parler, which advertises itself as an alternative to more mainstream sites that have banned some far-right extremists. The committee's chair, Rep. Carolyn Maloney, D-N.Y., wrote to FBI Director Chris Wray asking him to look at how Parler was used before and during the Jan. 6 riot at the U.S. Capitol when pro-Trump extremists stormed the building as Congress was certifying the results of the presidential election.
+
+
