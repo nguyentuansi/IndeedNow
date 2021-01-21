@@ -12711,3 +12711,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Looking behind the European medicines data breach](http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/4/8/5/p-large/46ad0cc1a65a40c61b3877a1dabe37630c7a7110.jpg "Looking behind the European medicines data breach")
+
+
+[Looking behind the European medicines data breach](http://www.digitaljournal.com/tech-and-science/technology/looking-behind-the-european-medicines-data-breach/article/584151)
+
+
+> Important documents may have been taken following a data breach relating to Europe's drug regulator - the European Medicines Agency (EMA). It seems that the data breach was politically motivated. It appears that the criminals involved not only took important documents, in December 2020, but also adulterated them (as reported by European officials). These documents were released as altered medical documents seemingly to undermine trust in the Pfizer / BioNTech vaccine, according to InfoSecurity Magazine.
+
+
+***
+![Here's how to get all of your Notes syncing across all devices](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/notes-app-ipad-air-4-magic-keyboard-apple-pencil-2.jpeg "Here's how to get all of your Notes syncing across all devices")
+
+
+[Here's how to get all of your Notes syncing across all devices](https://www.imore.com/how-sync-notes-iphone-and-ipad)
+
+
+> Source: iMore All of us have been in this situation — you need to quickly jot something down, but don't have a notepad or pen with you, just your phone. Thankfully, the best iPhone and best iPad come with a convenient Notes app in iOS 14, allowing you to keep snippets of text, sketches, notes, lists, and more, and all of this can be kept across all iPhones, iPads, and Macs linked to you. Thankfully, you're not out of luck if you don't use iCloud, either. While syncing is limited to text notes, users of services like Gmail and Exchange can still keep their notes up-to-date across multiple devices if they wish.
+
+
+***
+![Samsung Galaxy S21 is $200 cheaper than the S20 — Here is what you give up](https://cdn.mos.cms.futurecdn.net/4KCwZgdmnUyks3dhsFzkk-1200-80.jpg "Samsung Galaxy S21 is $200 cheaper than the S20 — Here is what you give up")
+
+
+[Samsung Galaxy S21 is $200 cheaper than the S20 — Here is what you give up](https://www.laptopmag.com/news/samsung-galaxy-s21-is-dollar200-cheaper-than-the-s20-here-is-what-you-give-up)
+
+
+> The Samsung Galaxy S21 announcement held few surprises for those who've been paying attention to our coverage of leaks and rumors. But one detail that remained uncertain heading into the launch was the price. There were a number of credible rumors suggesting that some kind of price drop was coming. However, it still came as a surprise when Samsung announced it was slashing Galaxy S21 prices by $200 across the board. While it would be nice to assume that Samsung did that out of the kindness of its heart, that's simply not reality.
+
+
+***
+![Will I need proof of a coronavirus vaccine if I want to go on holiday?](https://cdn.images.express.co.uk/img/dynamic/25/750x445/1387164.jpg "Will I need proof of a coronavirus vaccine if I want to go on holiday?")
+
+
+[Will I need proof of a coronavirus vaccine if I want to go on holiday?](https://technocodex.com/will-i-need-proof-of-a-coronavirus-vaccine-if-i-want-to-go-on-holiday-travel-news-travel/)
+
+
+> It is likely exemptions will be issued – for example, your GP can issue you with a medical exemption form if you cannot have the yellow fever vaccine.However, if you choose not to have the vaccine because you simply don't want to, this will not be grounds for exemption.Travel insurance policies do not cover ‘disinclination to travel' – which is defined as when the policyholder changes their own plans – meaning you won't be able to claim back the cost of cancellation or if you are refused entry at the airport or border.
+
+
+***
+![TripActions raises $155M at $5B valuation as corporate travel recovers from pandemic lows – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1177988041.jpg?w=600 "TripActions raises $155M at $5B valuation as corporate travel recovers from pandemic lows – TechCrunch")
+
+
+[TripActions raises $155M at $5B valuation as corporate travel recovers from pandemic lows – TechCrunch](https://techcrunch.com/2021/01/21/tripactions-raises-155m-at-5b-valuation-as-corporate-travel-recovers-from-pandemic-lows/)
+
+
+> This morning TripActions, a software company whose tools help businesses book and manage corporate travel, announced a new $155 million investment. Three investors led the round: prior investor Andreessen Horowitz, Addition Ventures, and Elad Gil. The new investment, a Series E, values TripActions at $5 billion on a post-money basis, a company spokesperson wrote via email. Valuation marks are normally only moderately useful, but in the case of TripActions' latest round carry more weight. The company — along with restaurant software unicorn Toast — became something of a poster-child for the impact of COVID-19 on some categories of startups.
+
+
