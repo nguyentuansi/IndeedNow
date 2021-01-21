@@ -12279,3 +12279,53 @@
 > Picture yourself relaxing somewhere nice, with the sun shining and a cold drink in your hand. The only thing that could make this vision even more perfect would be having a great speaker playing your favourite playlist. When you're selecting a speaker for this scene, there are a few features you're going to want to prioritise. Choosing a wireless speaker — one where you don't need to tangle with power cords and can easily connect to your phone via WiFi or Bluetooth — can definitely make things easier, which is why you should only consider a wireless speaker for listening outside.
 
 
+***
+![‘A total failure': The Proud Boys now mock Trump](https://images.indianexpress.com/2021/01/PROUD-BOYS-TRUMP-1.jpg "‘A total failure': The Proud Boys now mock Trump")
+
+
+[‘A total failure': The Proud Boys now mock Trump](https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html)
+
+
+> Written by Sheera Frenkel and Alan Feuer After the presidential election last year, the Proud Boys, a far-right group, declared its undying loyalty to President Donald Trump. In a Nov. 8 post in a private channel of messaging app Telegram, the group urged its followers to attend protests against an election that it said had been fraudulently stolen from Trump. 'Hail Emperor Trump,' the Proud Boys wrote.https://images.indianexpress.com/2020/08/1x1.png But by this week, the group's attitude toward Trump had changed.
+
+
+***
+![The Boys: Herogasm Will Be Part of Season 3, Creator Eric Kripke Reveals](https://i.gadgets360cdn.com/large/the_boys_season_2_maeve_1611208852469.jpg "The Boys: Herogasm Will Be Part of Season 3, Creator Eric Kripke Reveals")
+
+
+[The Boys: Herogasm Will Be Part of Season 3, Creator Eric Kripke Reveals](https://gadgets.ndtv.com/entertainment/news/the-boys-season-3-herogasm-episode-6-jessica-chou-eric-kripke-amazon-prime-video-2355774)
+
+
+> The Boys season 3 will feature an episode that's based on the comics spin-off 'The Boys: Herogasm,' creator, showrunner, and head writer Eric Kripke has announced. This is likely to please fans as the six-issue Herogasm story arc, even though not central to the original The Boys comic book series, is a fan favourite. Jessica Chou (Wu Assassins) — a newcomer to Amazon Prime Video's anti-superhero satire writing team — will pen The Boys season 3 episode 6 'Herogasm,' Kripke revealed in a photo of the script title page he shared on Twitter earlier this week.
+
+
+***
+![This startup says its AI can better spot a healthy embryo — and improve IVF success – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/Dr-Yael-Zamir.jpg?w=600 "This startup says its AI can better spot a healthy embryo — and improve IVF success – TechCrunch")
+
+
+[This startup says its AI can better spot a healthy embryo — and improve IVF success – TechCrunch](https://techcrunch.com/2021/01/20/this-startup-says-its-ai-can-better-spot-a-healthy-embryo-and-improve-ivf-success/)
+
+
+> With every year, AI is beginning to bring more standardized levels of diagnostic accuracy in medicine. This is true of skin cancer detection, for example, and lung cancers. Now, a startup in Israel called Embryonics says its AI can improve the odds of successfully implanting a healthy embryo during in vitro fertilization. What the company has been developing, in essence, is an algorithm to predict embryo implantation probability, which they have trained through IVF time-lapsed imaging of developing embryos.
+
+
+***
+![The lab leak theory and the twisted, messy hunt for COVID-19's origin](https://cnet2.cbsistatic.com/img/ifNUVQ5vmAzAB80Ue99n8fx-ccQ=/2021/01/19/729cbe9a-ea92-4010-bc45-16045dfbbd93/bats4.jpg "The lab leak theory and the twisted, messy hunt for COVID-19's origin")
+
+
+[The lab leak theory and the twisted, messy hunt for COVID-19's origin](https://www.cnet.com/features/the-lab-leak-theory-and-the-twisted-messy-hunt-for-covid-19s-origin/)
+
+
+> Of the many mysteries kindled by the coronavirus pandemic, the question of where SARS-CoV-2 originated has been the most difficult to answer. No matter how history ultimately writes the pandemic's origin story, it was, almost certainly, an unfortunate accident. But what kind of accident? That urgent question is key to preventing the emergence of a SARS-CoV-3 or a COVID-29, but an uneasy tension has been building around the answer. Two conflicting narratives have materialized since the first cases were detected in the central Chinese city of Wuhan a year ago, exposing a deep chasm between researchers exploring COVID-19's beginnings.
+
+
+***
+![Here's what to know now that the IRS has stopped sending stimulus checks](https://cnet2.cbsistatic.com/img/K_i83elZqGxWdWD9DyOyX1iOjlE=/1200x630/2020/10/01/c513a219-25f0-42c3-9f07-c479a2e51dbf/007-cash-stimulus-empty-wallet-economic-crisis-dollar-bill-currency-2020.jpg "Here's what to know now that the IRS has stopped sending stimulus checks")
+
+
+[Here's what to know now that the IRS has stopped sending stimulus checks](https://www.cnet.com/personal-finance/heres-what-to-know-now-that-the-irs-has-stopped-sending-stimulus-checks/)
+
+
+> The IRS deadline to send out stimulus checks has passed. Now what? Sarah Tew/CNET You never got your second stimulus checks and the deadline has passed -- what should you do if your $600 stimulus payment hasn't arrived yet? You can plan to claim it when tax-filing season opens Feb. 12. (That goes for tax nonfilers, too.) Or is there still a chance your money went out before the deadline and is on its way to your mailbox? Your direct deposit payment could also be stuck in a tax-preparer issue with the IRS and direct deposit.
+
+
