@@ -12091,3 +12091,44 @@
 > DBS Bank customers will no longer be able to use their physical tokens to access mobile and digital banking services from April 1, with the bank to stop issuing these tokens on Feb 1. This means that users will be required to use the bank's digital token, which can be set up via the DBS digital banking app, to authenticate all banking transactions. Unlike the physical token, which is a separate device, the digital token operates within the digital banking app on users' smartphones. It is otherwise identical in function.
 
 
+***
+![Parler Finds a Reprieve in Russia—but Not a Solution](https://media.wired.com/photos/600782f7005790e76a29f22e/191:100/w_1280,c_limit/parler-back-online.jpg "Parler Finds a Reprieve in Russia—but Not a Solution")
+
+
+[Parler Finds a Reprieve in Russia—but Not a Solution](https://www.wired.com/story/parler-russia-privacy/)
+
+
+> In the wake of the Capitol riots two weeks ago, a number of large tech companies pulled support for Parler, a Twitter-like social network that Donald Trump's supporters have increasingly favored since its launch in 2018. Apple and Google removed the Parler app from their digital stores and Amazon Web Services cut the platform's hosting services. After over a week offline, the site is now partially back up, in the form of a landing page that promises a full return. To get even this far, Parler has hired DDoS-Guard, a Russian digital infrastructure company, to defend it against the endless barrage of attacks that virtually all sites face online—particularly those as controversial as Parler.
+
+
+***
+[Long-lost 1990s video gives us a look inside Nintendo of America's headquarters](https://gonintendo.com/stories/375658-long-lost-1990s-video-gives-us-a-look-inside-nintendo-of-america)
+
+
+> Want to see what Nintendo of America's headquarters was like back when the NES was dominating the market? 20+ minutes of long-lost footage from 1990 has surfaced, and it's an absolute gem of a time capsule for classic Nintendo. Not only do we get a look inside Nintendo's old headquarters here in the states, we also get to see just how Nintendo operated. From building the NES to manning the Nintendo Power Line, this video is a major rush of nostalgia.
+
+
+***
+[Umurangi Generation to include gyro controls](https://gonintendo.com/stories/375657-umurangi-generation-to-include-gyro-controls)
+
+
+> Umurangi Generation Nintendo Switch specific features. Let us know what you think. #indiedev #unity3d pic.twitter.com/tSn8LvKo0Q — Umurangi Generation (@UmurangiGame) January 20, 2021 Umurangi Generation, the first person photography game, was announced for Switch a few months back. Word on the port has been rather quiet since the initial announcement, but today we see the dev team is hard at work implementing some new features. As you can see in the video above, Umarangi Generation on the Switch is going to allow for gyro controls.
+
+
+***
+[Super Mario Bros. 35th Anniversary "Pinny Arcade" pin sets available at Nintendo NY and Nintendo's online store](https://gonintendo.com/stories/375656-super-mario-bros-35th-anniversary-pinny-arcade-pin-sets-availa)
+
+
+> Nintendo's not done with the Super Mario Bros. 35th merch just yet. A new series of pins is available, with each set paying tribute to Super Mario Bros., Super Mario Bros. 2, Super Mario Bros. 3, and Super Mario World. Nintendo NY is selling all four sets, while Nintendo's online store is currently offering the Super Mario Bros. 1 and 2 sets. Each is priced at $25, and you can snag the first two sets online here.
+
+
+***
+![Twitter says it locked account of China's U.S. embassy over Xinjiang-related tweet](https://i-invdn-com.akamaized.net/news/LYNXNPEF080OM_L.jpg "Twitter says it locked account of China's U.S. embassy over Xinjiang-related tweet")
+
+
+[Twitter says it locked account of China's U.S. embassy over Xinjiang-related tweet](https://www.investing.com/news/technology-news/twitter-says-locked-account-of-chinas-us-embassy-for-xinjiangrelated-tweet-2394492)
+
+
+> 2/2 © Reuters. FILE PHOTO: Protest outside Twitter headquarters in San Francisco 2/2 SHANGHAI (Reuters) - Twitter has locked the account of China's U.S. embassy for a tweet that defended China's policies in the Xinjiang region, which the U.S. social media platform said violated the firm's policy against "dehumanization". The Chinese Embassy account, @ChineseEmbinUS, posted this month saying that Uighur women were no longer "baby making machines," citing a study reported by state-backed newspaper China Daily.
+
+
