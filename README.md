@@ -12858,3 +12858,53 @@
 > Source: Rebecca Spear / iMoreBest answer: Yep. If you own the physical or digital copy of a Nintendo Switch game, the game save data for the Switch is in the system's memory. So, if you're on the physical version and want to switch to digital instead, you should be able to do that without a hitch. Unlike other Nintendo systems, your game save data for the Switch is stored on the console's system memory, not on the cartridge. Even if you buy the digital version and later archive or delete the game from your console, your game saves will be preserved.
 
 
+***
+![Jenzabar Makes Senior Management Additions to its Business Development and Customer Operations Teams](https://mms.businesswire.com/media/20210121005830/en/853761/23/Jenzabar_Butterfly_Logo_Color_Horiz_square.jpg "Jenzabar Makes Senior Management Additions to its Business Development and Customer Operations Teams")
+
+
+[Jenzabar Makes Senior Management Additions to its Business Development and Customer Operations Teams](https://www.businesswire.com/news/home/20210121005830/en/Jenzabar-Makes-Senior-Management-Additions-to-its-Business-Development-and-Customer-Operations-Teams)
+
+
+> January 21, 2021 01:40 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Jenzabar, Inc., a leading technology innovator in higher education serving the new student, today announced the expansion of its senior management team with the appointments of Mike DiComes as the company's Vice President of Customer Success, and Omer Riaz as Vice President of Strategy and Innovation. DiComes and Riaz each bring over 15 years of education and software experience to their new roles and will be responsible for continuing to expand and enhance customer experience for Jenzabar's rapidly growing installed base, as well as developing go-to-market strategies to help more higher education institutions drive digital transformation and enable student success.
+
+
+***
+![Otter Partners With Google Meet To Launch Live Transcription](https://www.androidheadlines.com/wp-content/uploads/2020/09/Google-Meet-DG-app-icon-full-screen-AH-2020.jpg "Otter Partners With Google Meet To Launch Live Transcription")
+
+
+[Otter Partners With Google Meet To Launch Live Transcription](https://www.androidheadlines.com/2021/01/otter-partners-with-google-meet-to-launch-live-transcription.html)
+
+
+> Otter has launched a live transcription service to come with Google Meet. As reported by Engadget this allows users to access interactive transcripts which also facilitate collaboration post the meeting.With so many of us plunged into some form of lockdown or homeworking being able to operate effectively from home has become essential.WhatsApp reported this over the new years' period when they reported a record number of calls. The company has seen spikes in activity since March and put this surge down to people apart trying to connect.
+
+
+***
+![Which of the new Samsung Galaxy S21 devices is the best value for money?](https://cdn.mos.cms.futurecdn.net/tC9dYKQvWRuJoGNAUn8jyU-1200-80.jpg "Which of the new Samsung Galaxy S21 devices is the best value for money?")
+
+
+[Which of the new Samsung Galaxy S21 devices is the best value for money?](https://www.techradar.com/deals/which-of-the-new-samsung-galaxy-s21-devices-is-the-best-value-for-money)
+
+
+> (Image credit: Future) Samsung Galaxy S21 is the big name being shouted about in the phone world right now, but it comes in three forms. Of the Samsung Galaxy S21, Galaxy S21 Plus and Galaxy S21 Ultra, which is the best value for money?If you want to find the best Samsung Galaxy S21 deals, then go right ahead with that link. But stay here if you want to learn all about value for money when it comes to the models on offer.Yes, you could spend the least amount and grab the Galaxy S21 and be happy. Or you could spend a god chunk more for the top end Galaxy S21 Ultra and be left baffled by the features and unhappy with the pocket-filling size.
+
+
+***
+![The best Nintendo Switch deals in January 2021](https://cdn.mos.cms.futurecdn.net/xHzK65aUuSrPWy88sPJgfm-1200-80.jpg "The best Nintendo Switch deals in January 2021")
+
+
+[The best Nintendo Switch deals in January 2021](https://www.laptopmag.com/news/nintendo-switch-deals)
+
+
+> Best Nintendo Switch deals right now (Image credit: Shutterstock) If you're bargain hunting for the best Nintendo Switch deals right now, you've come to the right place. Game retailers are currently slashing prices on all things Nintendo Switch which is great news if you're gaming on a budget.We're currently seeing solid discounts on both digital and physical Nintendo Switch games. Thanks to the continuous release of new Nintendo Switch games, existing games are seeing considerable discounts. Best Nintendo Switch game dealsWant to know where to buy a Nintendo Switch console? Right now, you can snag the classic Nintendo Switch for its $299.
+
+
+***
+![FBI asked to investigate Parler's role in US Capitol riot](https://www.telegraph.co.uk/content/dam/technology/2021/01/18/TELEMMGLPICT000248433505_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0ggGNY_A2dHyghdflyNWj5P8.jpeg?impolicy=logo-overlay "FBI asked to investigate Parler's role in US Capitol riot")
+
+
+[FBI asked to investigate Parler's role in US Capitol riot](https://www.telegraph.co.uk/technology/2021/01/21/bitcoin-price-slides-second-day-live-updates/)
+
+
+> 6:24PM Thanks for reading, we'll be back tomorrow. 6:24PM Here's out full story on today's Facebook news. Often described as Facebook's "supreme court", the board has the power to reverse Facebook's decisions based on user appeals. It is made up of 20 experts including former Guardian editor Alan Rusbridger and former Danish prime minister Helle Thorning-Schmidt.Mr Trump's ban is likely to be its most high-profile case since its launch in October, and a major test of whether the board can increase public confidence in Facebook's often unaccountable censorship decisions.
+
+
