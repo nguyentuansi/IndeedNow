@@ -12370,3 +12370,50 @@
 > 繼中國鹽田區航向加州長堤港（Port of Long Beach）的貨櫃船「ONE Apus」於去年 11 月 […]
 
 
+***
+![Meet the cyber mercenaries – and the activists trying to stop them](https://www.telegraph.co.uk/content/dam/technology/2020/06/22/A-hammer-hitting-hackers_trans_NvBQzQNjv4BqFGZ1rBm4QQOhohuXheEvP31fBzdowKT6pahG45Xt_d4.jpg?impolicy=logo-overlay "Meet the cyber mercenaries – and the activists trying to stop them")
+
+
+[Meet the cyber mercenaries – and the activists trying to stop them](https://www.telegraph.co.uk/technology/2021/01/21/meet-cyber-mercenaries-activists-trying-stop/)
+
+
+> It's a shadowy $12bn (£8.8bn) industry, which Microsoft President Brad Smith warned last month is booming - and poses a grave threat to both governments and business. Perhaps understandably, it's not easy getting cyber mercenaries to talk. These secretive businessmen have established a thriving global market for hacking tools sold to governments and businesses, giving them the ability to spy on criminals, but also journalists and activists. The industry is becoming increasingly controversial, leading to lawsuits and scrutiny from activists.
+
+
+***
+[New LG Ergo 4K monitor with Ultrafine Display launched in India](https://www.zeebiz.com/technology/news-new-lg-ergo-4k-monitor-with-ultrafine-display-launched-in-india-check-price-features-and-other-details-here-146616)
+
+
+> LG Electronics on Thursday announced the launch of its new range of LG Ultrafine Display Ergo 4K Monitors - '32UN880' in India. The LG 32UN880 UltraFine Display Ergo 4K HDR10 Monitor carries a price tag of Rs 59,999.
+
+
+***
+![MCMC: Beware of scammers trying to take over your WhatsApp account](https://apicms.thestar.com.my/uploads/images/2021/01/21/1015984.jpg "MCMC: Beware of scammers trying to take over your WhatsApp account")
+
+
+[MCMC: Beware of scammers trying to take over your WhatsApp account](https://www.thestar.com.my/tech/tech-news/2021/01/21/mcmc-beware-of-scammers-trying-to-take-over-your-whatsapp-account)
+
+
+> MCMC said scammers often pose as friends or family members, using accounts that scammers had already successfully hacked into, to try to trick them into revealing their six-digit WhatsApp verification codes. — Bloomberg The Malaysian Communications and Multimedia Commission (MCMC) has issued a statement warning the public to be wary of increasingly inventive tactics employed by scammers trying to hijack a user's WhatsApp account, due to increasing reports of fraud cases being committed through the app.
+
+
+***
+![11 Best MIDI Foot Controllers: Which is Right For You?](https://heavy.com/wp-content/uploads/2017/02/best-midi-foot-controller-pedal1.jpg?quality=65&strip=all&w=780 "11 Best MIDI Foot Controllers: Which is Right For You?")
+
+
+[11 Best MIDI Foot Controllers: Which is Right For You?](https://heavy.com/tech/best-midi-foot-controllers/)
+
+
+> Pros: 10 MIDI switches plus 2 expression pedal ports Backlit display 3-way power supply Cons: Limited programmability Doesn't work as a 5-pin MIDI interface for iOS Limited manual documentation The  MeloAudio MIDI Commander  is a versatile and portable MIDI controller that works just as well in the studio as it does on the stage. You can plug it in and immediately switch to one of eight host presets or you can set up two custom modes for PC or CC commands. The host presets support JamUp, Bias Fx, AXE FX, KPA, ATOM, and PC-8x.
+
+
+***
+![21 Best Samsung Galaxy Note 20 Ultra Cases](https://heavy.com/wp-content/uploads/2020/08/note-20-ultra-cases.jpg?quality=65&strip=all&w=780%20780w,%20https://heavy.com/wp-content/uploads/2020/08/note-20-ultra-cases.jpg?quality=45&strip=all&w=1100%201100w,%20https://heavy.com/wp-content/uploads/2020/08/note-20-ultra-cases.jpg?quality=65&strip=all&w=1350%201350w "21 Best Samsung Galaxy Note 20 Ultra Cases")
+
+
+[21 Best Samsung Galaxy Note 20 Ultra Cases](https://heavy.com/tech/note-20-ultra-cases/)
+
+
+> What do you get when you mix the 120 Hz display of the Galaxy S20 Ultra, a breakthrough Space Zoom camera, and upgraded Samsung S Pen functionality? You get the Galaxy Note 20 Ultra, the new king of the Android smartphone ecosystem. This and the Note 20 are Samsung's best and priciest handsets to date, making it well worth your while to cover it up with a protective case. These are the best Galaxy Note 20 Ultra cases available now. Price: $57.62 Amazon Customer Reviews Pros: Dual layer protection Included belt clip/kickstand Rubber port cover Cons: Bulky design High price tag Limited color options The OtterBox Defender Series Case Represents the gold standard in protective cases because of its rugged dual-layer design.
+
+
