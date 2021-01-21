@@ -13140,3 +13140,53 @@
 > Bloomberg: Imperfect Foods, a service that distributes groceries that would otherwise go to waste, raises $95M Series D, with a source valuing it at $700M+ — - Grocery delivery service raised $95 million from investors — CEO says company has experienced triple-digit growth rates
 
 
+***
+![MacBook Pro turns on but black screen](https://images.macrumors.com/social/?t=2277044&v=6 "MacBook Pro turns on but black screen")
+
+
+[MacBook Pro turns on but black screen](https://forums.macrumors.com/threads/macbook-pro-turns-on-but-black-screen.2277044/)
+
+
+> I have a 2011/12 A1278 MacBook Pro. When it works it's a really good device but I stopped using it as it was too slow and was constantly powering off. Decided to take it to someone to get a new SSD put in. When it went it it was on but running very slow. It would not shut down so battery would get drained. Whilst on shop the guy said battery hadn't been through enough cycles to warrant changing. I left with it it working, the guy rang me to ask if I had problems with it not turning on. I said said no as it never has but he says it won't switch on Now have it back as he can't do what he needs to.
+
+
+***
+![How to disable Speedstep/solve kernel_task CPU problem on MB Pro late '13 Retina Mojave](https://images.macrumors.com/social/?t=2281351&v=6 "How to disable Speedstep/solve kernel_task CPU problem on MB Pro late '13 Retina Mojave")
+
+
+[How to disable Speedstep/solve kernel_task CPU problem on MB Pro late '13 Retina Mojave](https://forums.macrumors.com/threads/how-to-disable-speedstep-solve-kernel_task-cpu-problem-on-mb-pro-late-13-retina-mojave.2281351/)
+
+
+> Hello there! Im suffering from a dead battery in my mac for a couple of years now and, due to personal reasons, i wasnt able to get that replaced. its probably a known issue for you that the laptop runs very slow without its battery supporting the system, but i got used to it over the time. until now.. i read through a few posts and work arounds, but im not quiet sure how they work. i have the feeling im missing out something when i read through them. is there anyone willing to help me doing this step by step so i can finally use my mb pro with a higher performance again, please? my specs are: MB Pro 13'' late 2013 retina macOS Mojave version 10.
+
+
+***
+![Google Duo might disappear from some Android phones soon](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/12/google-duo-lifestyle-effects.jpg "Google Duo might disappear from some Android phones soon")
+
+
+[Google Duo might disappear from some Android phones soon](https://www.androidcentral.com/google-duo-might-disappear-some-android-phones-soon)
+
+
+> Source: Jeramy Johnson / Android Central Google Duo could soon vanish from uncertified Android phones. An update to version 123 mentions this impending policy change. There is no concrete timeframe for the move at this point. A recent article from 9to5Google has uncovered evidence that the Google Duo app may soon stop working on some Android phones. According to the evidence, this change would affect Android phones that are not certified by Google Play Services. It should be noted that most of the best Android phones that customers can buy via popular retailers or through carriers are, in fact, certified Android devices.
+
+
+***
+![There's a new Resident Evil 8 demo on PS5 available right now](https://cdn.mos.cms.futurecdn.net/Lc5yVamvCvqyWrwQVNiAGB-1200-80.jpg "There's a new Resident Evil 8 demo on PS5 available right now")
+
+
+[There's a new Resident Evil 8 demo on PS5 available right now](https://www.techradar.com/news/theres-a-new-resident-evil-8-demo-on-ps5-available-right-now)
+
+
+> (Image credit: Capcom) The Resident Evil series, known for its surprises, got the drop on players with a new PS5 demo that became available during Capcom's Resident Evil Village showcase that gave us our first look at RE8's gameplay.The demo, Capcom says, won't have much in the way of combat or blocking, but will instead introduce you to the spooky environments you'll be traversing when the game comes on PlayStation 4, PlayStation 5, PC, Xbox One and Xbox Series X on May 7 2021. Capcom didn't divulge all the details of the demo but did say that, rather than playing as Resident Evil 7's protagonist Ethan Winters for the demo, you'll play as a character called The Maiden, as they attempt to escape one of the game's settings, the castle.
+
+
+***
+![Best 3D printer](https://cdn.mos.cms.futurecdn.net/mcDiH2bFKPfoxULpvo6xo6-1200-80.jpg "Best 3D printer")
+
+
+[Best 3D printer](https://www.techradar.com/uk/news/best-3d-printer)
+
+
+> (Image credit: Amazon) Welcome to our pick of the best 3D printers money can buy. On this page, you'll find the best devices for 3D printing, for both home and commercial use.That means we've packed this list of the best 3D printers with devices of all shapes and for all budgets. So, you've got the best 3D printers that can fit on a desk or table, and are ideal for home use for hobbyists and beginners who are just getting started.We've also got the best 3D printers for enterprise and commercial uses.
+
+
