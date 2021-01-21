@@ -12761,3 +12761,53 @@
 > This morning TripActions, a software company whose tools help businesses book and manage corporate travel, announced a new $155 million investment. Three investors led the round: prior investor Andreessen Horowitz, Addition Ventures, and Elad Gil. The new investment, a Series E, values TripActions at $5 billion on a post-money basis, a company spokesperson wrote via email. Valuation marks are normally only moderately useful, but in the case of TripActions' latest round carry more weight. The company — along with restaurant software unicorn Toast — became something of a poster-child for the impact of COVID-19 on some categories of startups.
 
 
+***
+![JBL C115 wireless earbuds launched for Rs 4,999](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/earbuds_505_210121082630.jpg "JBL C115 wireless earbuds launched for Rs 4,999")
+
+
+[JBL C115 wireless earbuds launched for Rs 4,999](https://www.businesstoday.in/technology/launch/jbl-c115-wireless-earbuds-launched-for-rs-4999/story/428692.html)
+
+
+> Priced at Rs 4,999, the JBL C115 wireless earbuds are available on Amazon India in four colour options - black, white, mint and red
+
+
+***
+![Best LLC Services](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/index.png "Best LLC Services")
+
+
+[Best LLC Services](https://www.benzinga.com/general/20/12/18939838/best-llc-services)
+
+
+> The following is a contributed article from a content partner of Benzinga If you are working on your own, the next step to increase your business, while covering your assets, is probably forming an LLC. The creation of an LLC is often seen as a good movement for people who wish to limit their responsibility without the paperwork and regulations of a corporation. No matter where your business entity is, you should usually register your company's name and file documentation with the state, together with that you have accurate and complete items.
+
+
+***
+![LG launches new monitor in India; check price, other details](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lgmonitor_505_210121074139.jpg "LG launches new monitor in India; check price, other details")
+
+
+[LG launches new monitor in India; check price, other details](https://www.businesstoday.in/technology/launch/lg-launches-new-monitor-in-india-check-price-other-details/story/428687.html)
+
+
+> Story The 31.5-inch IPS monitor has a 3840 x 2160 p resolution, which the company claims offers realistic and enhanced colour, contrast and clarity at wide angles for lifelike vision Nidhi Singal | January 21, 2021 | Updated 19:42 IST The LG 32UN880 UltraFine Display Ergo 4K HDR10 Monitor is priced at Rs 59,999
+
+
+***
+![5G poses no health risks, new report debunks fears](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/5g_505_210121073159.jpg "5G poses no health risks, new report debunks fears")
+
+
+[5G poses no health risks, new report debunks fears](https://www.businesstoday.in/technology/news/5g-poses-no-health-risks-new-report-debunks-fears/story/428686.html)
+
+
+> Story A new report by Deloitte titled Technology, Media, and Telecommunications Predictions 2021 says that the fears around 5G are grossly overblown Manu Kaushik | January 21, 2021 | Updated 19:31 IST The report further notes that the most common perception about 5G is that it causes cancer
+
+
+***
+![Microsoft Surface Laptop Go quick review: Portable and lighter design at an affordable price point](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/surface-laptop-go-fi-1-483x271_1200_210121194604.jpeg "Microsoft Surface Laptop Go quick review: Portable and lighter design at an affordable price point")
+
+
+[Microsoft Surface Laptop Go quick review: Portable and lighter design at an affordable price point](https://www.indiatoday.in/technology/features/story/microsoft-surface-laptop-go-quick-review-portable-and-lighter-design-at-an-affordable-price-point-1761445-2021-01-21)
+
+
+> Microsoft Surface Laptop Go launched in India at a starting price of Rs 63,499. Ketan Pratap | January 21, 2021 | Updated 19:11 IST Microsoft Surface Laptop Go
+
+
