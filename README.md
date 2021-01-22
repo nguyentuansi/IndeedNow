@@ -13190,3 +13190,53 @@
 > (Image credit: Amazon) Welcome to our pick of the best 3D printers money can buy. On this page, you'll find the best devices for 3D printing, for both home and commercial use.That means we've packed this list of the best 3D printers with devices of all shapes and for all budgets. So, you've got the best 3D printers that can fit on a desk or table, and are ideal for home use for hobbyists and beginners who are just getting started.We've also got the best 3D printers for enterprise and commercial uses.
 
 
+***
+![Facebook passes final decision to ban Trump to oversight board](https://s.abcnews.com/images/Business/trump-cellphone-file-ap-jef-210121_1611256540821_hpMain_16x9_992.jpg "Facebook passes final decision to ban Trump to oversight board")
+
+
+[Facebook passes final decision to ban Trump to oversight board](https://abcnews.go.com/Technology/facebook-passes-final-decision-ban-trump-oversight-board/story?id=75406224)
+
+
+> Facebook said Thursday it was referring the decision to indefinitely suspend Donald Trump's account to its newly-formed oversight board to make the final call on what will happen to the former president's accounts. The board was created to operate independently of Facebook, though Facebook is funding it with an initial commitment of $130 million, according to a company blog post from December 2019. The board took on its first cases a year later, this past December. Trump's Facebook and Instagram accounts were indefinitely suspended by Facebook on Jan.
+
+
+***
+![Big Tech has big power over online speech. Should it be reined in?](https://media3.s-nbcnews.com/j/newscms/2021_02/3441905/210113-trump-supporter-phone-se-538p_1714feeb5fc1f56e67a216cd524874fd.nbcnews-fp-1200-630.jpg "Big Tech has big power over online speech. Should it be reined in?")
+
+
+[Big Tech has big power over online speech. Should it be reined in?](https://www.nbcnews.com/tech/tech-news/big-tech-has-big-power-over-online-speech-should-it-n1255164)
+
+
+> When Twitter banned Donald Trump from its platform this month, the move was the culmination of years of escalations between the company and Trump, its highest-profile power user. But it also raised some crucial questions: Should one company be able to wield such power? In a country that places outsize value on free speech, was there no legal recourse for one of the most powerful people in the world for being booted from one of the internet's biggest communities? Simply put: There are few — if any — legal challenges to the power Twitter and other tech companies wield over online speech.
+
+
+***
+![Parler loses bid to require Amazon to restore service](https://apicms.thestar.com.my/uploads/images/2021/01/22/1017246.JPG "Parler loses bid to require Amazon to restore service")
+
+
+[Parler loses bid to require Amazon to restore service](https://www.thestar.com.my/tech/tech-news/2021/01/22/parler-loses-bid-to-require-amazon-to-restore-service)
+
+
+> FILE PHOTO: The logo for Amazon Web Services (AWS) is seen at the SIBOS banking and financial conference in Toronto, Ontario, Canada October 19, 2017. REUTERS/Chris Helgren (Reuters) - A U.S. judge on Thursday rejected Parler's demand that Amazon.com Inc restore web hosting services for the social media platform, which Amazon had cut off following the Jan. 6 storming of the U.S. Capitol.U.S. District Judge Barbara Rothstein in Seattle said Parler was unlikely to prove Amazon breached its contract or violated antitrust law by suspending service on Jan.
+
+
+***
+![ITE facility to train students to protect equipment from being hacked](https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic_new.jpg "ITE facility to train students to protect equipment from being hacked")
+
+
+[ITE facility to train students to protect equipment from being hacked](https://www.straitstimes.com/tech/tech-news/ite-facility-to-train-students-to-protect-equipment-from-being-hacked)
+
+
+> The Institute of Technical Education (ITE) is setting up a cyber-security training facility to teach students how to protect critical industrial and manufacturing equipment from being hacked. This is an expansion of the current curriculum that focuses on information technology, where students learn to manage computer systems and devices, as well as secure network servers. The school has partnered ST Engineering to set up the facility. The company will offer at least four internship placements for ITE students each year, under a memorandum of understanding signed on Wednesday.
+
+
+***
+![Cyber-security label scheme expanded to all smart home devices](https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/22/ST_20210122_LABEL22_6278814.jpg?itok=DfnGnE1R "Cyber-security label scheme expanded to all smart home devices")
+
+
+[Cyber-security label scheme expanded to all smart home devices](https://www.straitstimes.com/tech/tech-news/cyber-security-label-scheme-expanded-to-all-smart-home-devices)
+
+
+> Manufacturers of smart home devices such as smart lights, Internet Protocol (IP) cameras and robot vacuum cleaners will now be able to apply for a labelling scheme that assesses the cyber-security levels of such devices. The voluntary Cybersecurity Labelling Scheme (CLS), launched last October, initially applied to Wi-Fi routers and smart home hubs, which were prioritised due to their wider usage and potentially more severe impact on consumers should these devices be compromised. The Cyber Security Agency of Singapore (CSA) yesterday expanded the scheme to include all types of consumer Internet of Things (IoT) devices.
+
+
