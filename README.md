@@ -13918,3 +13918,53 @@
 > Source: Android Central Google is threatening to stop making Search available in Australia. Google argues that Australia's proposed News Media Bargaining Code would hurt small businesses, small publishers, and millions of Australian users if it became law. It has proposed technical amendments to the media code, which will allow it to pay publishers for value, without breaking Search. Google has threatened to remove its search engine from Australia if the country's proposed News Media Bargaining Code becomes a law.
 
 
+***
+![Apple may launch thinner MacBook Air this year with MagSafe charging](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/macbook-pro-it_0-483x271_1200_210122190703.jpeg "Apple may launch thinner MacBook Air this year with MagSafe charging")
+
+
+[Apple may launch thinner MacBook Air this year with MagSafe charging](https://www.indiatoday.in/technology/news/story/apple-may-launch-thinner-macbook-air-this-year-with-magsafe-charging-1761824-2021-01-22)
+
+
+> Apple is reportedly working on a MacBook Air design overhaul this year. Ketan Pratap | January 22, 2021 | Updated 18:50 IST New MacBook Air likely to be announced later this year or next year. (Image: MacBook Pro 2020)
+
+
+***
+![PUBG maker now wants to launch new PUBG-like mobile title, survival horror game, and animated series in 2022](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/pubg_mobile_bloomberg_amp_1-483x271_1200_210122190652.jpeg "PUBG maker now wants to launch new PUBG-like mobile title, survival horror game, and animated series in 2022")
+
+
+[PUBG maker now wants to launch new PUBG-like mobile title, survival horror game, and animated series in 2022](https://www.indiatoday.in/technology/news/story/pubg-maker-now-wants-to-launch-new-pubg-like-mobile-title-survival-horror-game-and-animated-series-in-2022-1761828-2021-01-22)
+
+
+> Krafton, the company that owns the PUBG IP, is now looking expanding the PUBG universe with at least two new games. Shubham Verma | January 22, 2021 | Updated 18:57 IST
+
+
+***
+![WhatsApp Finally Brings Video, Voice Call Features On WhatsApp Web: Here's How It Works](https://sm.mashable.com/mashable_in/seo/2/24185/24185_z9rc.jpg "WhatsApp Finally Brings Video, Voice Call Features On WhatsApp Web: Here's How It Works")
+
+
+[WhatsApp Finally Brings Video, Voice Call Features On WhatsApp Web: Here's How It Works](https://in.mashable.com/tech/19754/whatsapp-finally-brings-video-voice-call-features-on-whatsapp-web-heres-how-it-works)
+
+
+> It has been reported that WhatsApp is working on adding support for phone and video call to its web version. The feature would allow users of WhatsApp Web to make phone and video calls directly via the web app. The details around the development of these new features were shared in a screenshot by a verified Twitter user ‘Guillermo Tomoyose'. WABetaInfo, a popular website that regularly updates WhatsApp users about the new features, also confirmed the claims of Tomoyose. @WABetaInfo this is a new feature for WhatsApp Web? (from Windows 10 app) pic.
+
+
+***
+![Laptop Computer Sleeve 15"](https://cdn.shopify.com/s/files/1/0250/0322/9287/products/graf-lantz-tech-sleeves-turmeric-laptop-computer-sleeve-15-design-milk-shop-23449205145791_240x.jpg?v=1610746334 "Laptop Computer Sleeve 15"")
+
+
+[Laptop Computer Sleeve 15"](https://shop.design-milk.com/products/laptop-computer-sleeve-15)
+
+
+> Did you know that merino wool felt makes the ideal material for modern tech? Our classic Macbook sleeve is a classic for a reason.  Merino wool felt body with a leather flap that gently snaps shut to snugly fit your MacBook 15" Pro Laptops. Water and Weather resistant Super soft and scratch free - inside and out Excellent protection from scuffs, dings, liquids Sustainable, renewable and natural materials Insulating so you can use to protect your lap or any surfaces from overheating Super Lightwe
+
+
+***
+![Beeper Is A Service That Combines iMessage, WhatsApp, Slack And 12 Other Chat Platforms: Here's How It Works](https://sm.mashable.com/t/mashable_in/photo/default/beeper-cover_4j1c.1200.jpg "Beeper Is A Service That Combines iMessage, WhatsApp, Slack And 12 Other Chat Platforms: Here's How It Works")
+
+
+[Beeper Is A Service That Combines iMessage, WhatsApp, Slack And 12 Other Chat Platforms: Here's How It Works](https://in.mashable.com/tech/19756/beeper-is-a-service-that-combines-imessage-whatsapp-slack-and-12-other-chat-platforms-heres-how-it-w)
+
+
+> iMessage has long been one of the hooks used by Apple to keep its users locked into its ecosystem of devices, with no true equivalent on Android that users can easily switch to. If you've been yearning for a way to use iMessage on an Android phone, a new messaging service called Beeper might be the solution for you. Beeper was created by Eric Migicovsky , founder and CEO of former smartwatch brand Pebble, which ended up being bought by Fitbit. On the surface, Beeper is just a hub that brings together multiple accounts from 15 different messaging services, including WhatsApp, Telegram, Slack, Discord, and more.
+
+
