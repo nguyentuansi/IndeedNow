@@ -13524,3 +13524,53 @@
 > Australia's proposed media code has escalated government tensions with Google, with the tech giant threatening to remove access to its search engine if the plan is stamped into law.The Morrison government introduced the underpinning bill to parliament in December, with a Senate committee hearing from stakeholders before the draft laws progress.Google says the proposed code, which forces tech companies to pay for news content or face fines of up to $10 million, is unworkable and poses a huge financial risk.
 
 
+***
+![Could Huawei's AppGallery become a credible alternative to Google Play?](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/2201_huawei_appgallery.6b233140810.original-seo.jpg "Could Huawei's AppGallery become a credible alternative to Google Play?")
+
+
+[Could Huawei's AppGallery become a credible alternative to Google Play?](https://www.malaymail.com/news/tech-gadgets/2021/01/22/could-huaweis-appgallery-become-a-credible-alternative-to-google-play/1942963)
+
+
+> Huawei's AppGallery offers over 100,000 applications available for download. — Picture courtesy of Huawei SAN FRANCISCO, Jan 22 — For almost two years, Huawei has felt the impact of American sanctions that prevent it from integrating Google services into its latest smartphones, starting with the Google Play application store. Its own alternative, the AppGallery, is now trying to offer an equivalent quality of service, but still has to deal with a major obstacle — the absence of the western world's most popular applications.
+
+
+***
+![ਕਿਸਾਨੀ ਸੰਘਰਸ਼ ਦਾ ਹਿੱਸਾ ਬਣਨ ਲਈ ਆਂਗਣਵਾੜੀ ਵਰਕਰਾਂ ਵੱਲੋਂ ਮੀਟਿੰਗਾਂ ਕਰਕੇ ਔਰਤਾਂ ਨੂੰ ਕੀਤਾ ਜਾ ਰਿਹੈ ਜਾਗਰੂਕ](https://static.jagbani.com/multimedia/2021_1image_13_36_510890844work-ll.jpg "ਕਿਸਾਨੀ ਸੰਘਰਸ਼ ਦਾ ਹਿੱਸਾ ਬਣਨ ਲਈ ਆਂਗਣਵਾੜੀ ਵਰਕਰਾਂ ਵੱਲੋਂ ਮੀਟਿੰਗਾਂ ਕਰਕੇ ਔਰਤਾਂ ਨੂੰ ਕੀਤਾ ਜਾ ਰਿਹੈ ਜਾਗਰੂਕ")
+
+
+[ਕਿਸਾਨੀ ਸੰਘਰਸ਼ ਦਾ ਹਿੱਸਾ ਬਣਨ ਲਈ ਆਂਗਣਵਾੜੀ ਵਰਕਰਾਂ ਵੱਲੋਂ ਮੀਟਿੰਗਾਂ ਕਰਕੇ ਔਰਤਾਂ ਨੂੰ ਕੀਤਾ ਜਾ ਰਿਹੈ ਜਾਗਰੂਕ](https://jagbani.punjabkesari.in/malwa/news/anganwadi-workers-hold-meetings-to-sensitize-women-to-be-part-of-farmers-1264354)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![ਇੰਟਰਨੈੱਟ ਸਪੀਡ 'ਚ ਡਿੱਗੀ ਭਾਰਤ ਦੀ ਰੈਕਿੰਗ, ਹੁਣ 12.91Mbps ਹੈ ਮੋਬਾਇਲ ਨੈੱਟਵਰਕ ਦੀ ਔਸਤ ਸਪੀਡ](https://static.jagbani.com/multimedia/2021_1image_11_39_077524049internetspeed-ll.jpg "ਇੰਟਰਨੈੱਟ ਸਪੀਡ 'ਚ ਡਿੱਗੀ ਭਾਰਤ ਦੀ ਰੈਕਿੰਗ, ਹੁਣ 12.91Mbps ਹੈ ਮੋਬਾਇਲ ਨੈੱਟਵਰਕ ਦੀ ਔਸਤ ਸਪੀਡ")
+
+
+[ਇੰਟਰਨੈੱਟ ਸਪੀਡ 'ਚ ਡਿੱਗੀ ਭਾਰਤ ਦੀ ਰੈਕਿੰਗ, ਹੁਣ 12.91Mbps ਹੈ ਮੋਬਾਇਲ ਨੈੱਟਵਰਕ ਦੀ ਔਸਤ ਸਪੀਡ](https://jagbani.punjabkesari.in/gadgets/news/internet-speed-test-india-drops-one-rank-in-global-mobile-december-report-1264326)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![Tech stocks rally, six counters reach record high as semiconductor sales forecast points north](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1cZ6Be.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Tech stocks rally, six counters reach record high as semiconductor sales forecast points north")
+
+
+[Tech stocks rally, six counters reach record high as semiconductor sales forecast points north](http://www.theedgemarkets.com/article/tech-stocks-rally-six-counters-reach-record-high-semiconductor-sales-forecast-points-north)
+
+
+> © Provided by The Edge KUALA LUMPUR (Jan 22): Tech stocks are back on a rally as the Bursa Malaysia Technology Index jumped as much as 3.42% this morning with at least six of its counters reaching record high, as global semiconductor sales and spending forecasts are pointing north for 2021. Leading the pack, ViTrox Corporation Bhd rose 80 sen or 5.03% to a fresh high of RM16.70 per share, making it the top gainer on Bursa this morning. Its market capitalisation currently stands at RM7.88 billion.
+
+
+***
+![Minor tremor felt in Walapane](https://adaderanaenglish.s3.amazonaws.com/1611290350-Minor-tremor-felt-in-Walapane-L.jpg "Minor tremor felt in Walapane")
+
+
+[Minor tremor felt in Walapane](http://www.adaderana.lk/news/70957/minor-tremor-felt-in-walapane)
+
+
+> January 22, 2021   10:03 am - A minor earth tremor has been felt in the area of Walapane in Badulla, says the Geological Survey and Mines Bureau (GSMB). The tremor has been measured 1.8 on the Richter scale. According to GSMB, the incident took place at around 3.30 am this morning (January 22). The tremor has been recorded in the seismometers at Mahakanadarawa, Pallekele and Hakmana, the Chairman of GSMB Mr Anura Walpola said. Residents of Ekiriya in Viyaluwa said the tremor was also felt in their village.
+
+
