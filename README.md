@@ -13968,3 +13968,50 @@
 > iMessage has long been one of the hooks used by Apple to keep its users locked into its ecosystem of devices, with no true equivalent on Android that users can easily switch to. If you've been yearning for a way to use iMessage on an Android phone, a new messaging service called Beeper might be the solution for you. Beeper was created by Eric Migicovsky , founder and CEO of former smartwatch brand Pebble, which ended up being bought by Fitbit. On the surface, Beeper is just a hub that brings together multiple accounts from 15 different messaging services, including WhatsApp, Telegram, Slack, Discord, and more.
 
 
+***
+![500+ Industry Professionals Demand Publishing Companies Blacklist Books by Trump Administration Officials](https://media.breitbart.com/media/2016/07/Lets-Dump-Trump-Sign-APCharles-Krupa.png "500+ Industry Professionals Demand Publishing Companies Blacklist Books by Trump Administration Officials")
+
+
+[500+ Industry Professionals Demand Publishing Companies Blacklist Books by Trump Administration Officials](https://www.breitbart.com/tech/2021/01/22/professors-demand-publishing-companies-blacklist-books-by-trump-administration-officials/)
+
+
+> In the latest attempt to censor and ostracize associates of former President Donald Trump, professors, authors, and industry professionals are now demanding that publishing companies refuse book deals for members of the Trump administration. Multiple professors have joined more than 500 authors and industry professionals in demanding a Trump blacklist from the publishing industry. 'As members of the writing and publishing community of the United States, we affirm that participation in the administration of Donald Trump must be considered a uniquely mitigating criterion for publishing houses when considering book deals,' said professors in an open letter.
+
+
+***
+![Google's parent deflates internet-beaming balloon company](https://www.mymotherlode.com/wp-content/uploads/2021/01/files_7cfc5ae6aa.jpeg "Google's parent deflates internet-beaming balloon company")
+
+
+[Google's parent deflates internet-beaming balloon company](https://www.mymotherlode.com/news/technology/1495580/googles-parent-deflates-internet-beaming-balloon-company.html)
+
+
+> SAN RAMON, Calif. (AP) — Google's parent company is letting the air out of an internet-beaming balloon company that was providing online access from the stratosphere. The plan to shut down Loon was announced late Thursday, ending what started out nine years ago as one of Google's secret projects in its so-called 'moonshot factory,' a division now called X. Google, Loon and X all are owned by Alphabet Inc., which draws upon Google's digital advertising empire finance risky ideas like internet-beaming balloons and another high-profile flop, internet-connected glasses.
+
+
+***
+[YouTube bans German channel that spread virus misinformation](https://www.mymotherlode.com/news/technology/1495559/youtube-bans-german-channel-that-spread-virus-misinformation.html)
+
+
+> No body in the article.
+
+
+***
+![Google's parent deflates internet-beaming balloon company](https://www.fox23.com/resizer/EVfDvm9MvygDQLLuDmgv_T8Lycs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/MMGCX7RQFNTVMMYFSFFLDHBBK4.jpg "Google's parent deflates internet-beaming balloon company")
+
+
+[Google's parent deflates internet-beaming balloon company](https://www.fox23.com/news/technology/googles-parent/4JXTD3OGN2Q7XULWFVTW5IRPOU/)
+
+
+> SAN RAMON, Calif. — (AP) — Google's parent company is letting the air out of an internet-beaming balloon company that was providing online access from the stratosphere. The plan to shut down Loon was announced late Thursday, ending what started out nine years ago as one of Google's secret projects in its so-called "moonshot factory," a division now called X. Google, Loon and X all are owned by Alphabet Inc., which draws upon Google's digital advertising empire finance risky ideas like internet-beaming balloons and another high-profile flop, internet-connected glasses.
+
+
+***
+![Google's parent deflates internet-beaming balloon company](https://www.wpxi.com/resizer/EVfDvm9MvygDQLLuDmgv_T8Lycs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/MMGCX7RQFNTVMMYFSFFLDHBBK4.jpg "Google's parent deflates internet-beaming balloon company")
+
+
+[Google's parent deflates internet-beaming balloon company](https://www.wpxi.com/news/technology/googles-parent/4JXTD3OGN2Q7XULWFVTW5IRPOU/)
+
+
+> SAN RAMON, Calif. — (AP) — Google's parent company is letting the air out of an internet-beaming balloon company that was providing online access from the stratosphere. The plan to shut down Loon was announced late Thursday, ending what started out nine years ago as one of Google's secret projects in its so-called "moonshot factory," a division now called X. Google, Loon and X all are owned by Alphabet Inc., which draws upon Google's digital advertising empire finance risky ideas like internet-beaming balloons and another high-profile flop, internet-connected glasses.
+
+
