@@ -14065,3 +14065,53 @@
 > (Image credit: Microsoft) SAP and Microsoft have announced their plans to integrate Microsoft Teams with SAP's business software applications.As work has become more virtual with more employees working from home during the pandemic, organizations have increasing relied on Microsoft's video conferencing software for meetings, communication and collaboration.To help make things easier and more convenient for businesses, SAP and Microsoft are building new integrations between Microsoft Teams and SAP solutions such as SAP S/4HANA, SAP SuccessFactors and SAP Customer Experience.
 
 
+***
+![Everything you need for the perfect Super Bowl 2021 setup at home is on sale](https://www.gannett-cdn.com/presto/2020/01/29/USAT/53d089bc-7f9b-458b-a75d-d4e31caa91e5-Sports.png?crop=1593,897,x6,y0&width=1600&height=800&fit=bounds "Everything you need for the perfect Super Bowl 2021 setup at home is on sale")
+
+
+[Everything you need for the perfect Super Bowl 2021 setup at home is on sale](https://www.usatoday.com/story/tech/reviewedcom/2021/01/22/super-bowl-2021-shop-huge-markdowns-tvs-and-soundbars/6670409002/)
+
+
+> Shop discounts on home theater essentials just in time for the Super Bowl. (Photo: Getty Images)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.With just a few more weeks left to go before Super Bowl 2021 (it's on Sunday, February 7, FYI), time is dwindling for football buffs to get their home theater setups in  order. Luckily, it just so happens to be the perfect time to invest in all the key elements you'll need to do so, since stores are running massive markdowns on everything you'll need for the big game—including Reviewed-approved soundbars, televisions, projectors and more.
+
+
+***
+![Apple's Stock Closed at All-Time High Today Ahead of Earnings Results Next Week](https://images.macrumors.com/article-new/2020/09/AppleEventLogoFeature.jpg "Apple's Stock Closed at All-Time High Today Ahead of Earnings Results Next Week")
+
+
+[Apple's Stock Closed at All-Time High Today Ahead of Earnings Results Next Week](https://www.macrumors.com/2021/01/22/aapl-closes-at-all-time-high/)
+
+
+> Apr 12, 2001 51,026 12,562 Apple's stock price closed at an all-time high of $139.07 today after reaching a new intraday record of $139.85 moments earlier. The gains come just five days before Apple is set to report its earnings results for the first quarter of the 2021 fiscal year. Many analysts forecast that Apple's quarterly revenue will exceed the $100 billion mark for the first time thanks to strong iPhone 12 sales and the launch of several other products in the quarter, including the first three Macs with Apple silicon, HomePod mini, AirPods Max, and a redesigned iPad Air.
+
+
+***
+![Google closes Loon, its plan to use balloons for web access](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/Google-AP.jpg?ve=1&tl=1 "Google closes Loon, its plan to use balloons for web access")
+
+
+[Google closes Loon, its plan to use balloons for web access](https://www.foxbusiness.com/technology/google-closes-loon-its-plan-to-use-balloons-for-web-access)
+
+
+> Google's parent company is winding down a project that used highflying balloons to provide internet access in hard-to-reach regions of the world, as it retreats from some of the moonshot projects championed by its founders. The project, known as Loon, started in 2011 and had its first public launch in New Zealand in 2013. It sought to connect billions of people in communities where traditional ground-based infrastructure was too expensive or too difficult to install. But Loon, which was overseen by Alphabet Inc.
+
+
+***
+![Parsing fitness tracker data with Python](https://external-preview.redd.it/P5M8l3iu4MjCJRIUjhGRn92j6PS7oC-tN6N_LLY1P-I.jpg?auto=webp&s=2378bd2a1bcd05a6493d23dacea34c26eb1250ad "Parsing fitness tracker data with Python")
+
+
+[Parsing fitness tracker data with Python](https://www.reddit.com/r/Python/comments/l2y62i/parsing_fitness_tracker_data_with_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![More than 78,000 Facebook, Instagram users removed for violating QAnon, social militarization policies](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Facebook-Ban-Qanon-ads-2.jpg?ve=1&tl=1 "More than 78,000 Facebook, Instagram users removed for violating QAnon, social militarization policies")
+
+
+[More than 78,000 Facebook, Instagram users removed for violating QAnon, social militarization policies](https://www.foxbusiness.com/technology/facebook-removes-users-qanon-militarized-movements)
+
+
+> Facebook has removed more than 78,000 profiles on both Facebook and Instagram that violated its policies against posting content related to QAnon conspiracy theories and militarized social movements between August 2020 and Jan. 12, 2021. The company, which owns Instagram, has also removed more than 37,000 Facebook pages, groups and events related to QAnon and militarized social movements. Facebook has identified more than 890 militarized social movements since August. Ticker Security Last Change Change % FB FACEBOOK INC.
+
+
