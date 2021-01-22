@@ -14015,3 +14015,53 @@
 > SAN RAMON, Calif. — (AP) — Google's parent company is letting the air out of an internet-beaming balloon company that was providing online access from the stratosphere. The plan to shut down Loon was announced late Thursday, ending what started out nine years ago as one of Google's secret projects in its so-called "moonshot factory," a division now called X. Google, Loon and X all are owned by Alphabet Inc., which draws upon Google's digital advertising empire finance risky ideas like internet-beaming balloons and another high-profile flop, internet-connected glasses.
 
 
+***
+![Google's parent deflates internet-beaming balloon company](https://s.abcnews.com/images/Technology/WireAP_f0ce98aaf10e48bb8b0d3f245dbbd112_16x9_992.jpg "Google's parent deflates internet-beaming balloon company")
+
+
+[Google's parent deflates internet-beaming balloon company](https://abcnews.go.com/Technology/wireStory/googles-parent-deflates-internet-beaming-balloon-company-75430067)
+
+
+> SAN RAMON, Calif. -- Google's parent company is letting the air out of an internet-beaming balloon company that was providing online access from the stratosphere. The plan to shut down Loon was announced late Thursday, ending what started out nine years ago as one of Google's secret projects in its so-called 'moonshot factory," a division now called X. Google, Loon and X all are owned by Alphabet Inc., which draws upon Google's digital advertising empire finance risky ideas like internet-beaming balloons and another high-profile flop, internet-connected glasses.
+
+
+***
+![Chipmaker Intel Corp. probes reported website hack](https://s.abcnews.com/images/Business/WireAP_871cdf6e5b50487f8c7429834b948535_16x9_992.jpg "Chipmaker Intel Corp. probes reported website hack")
+
+
+[Chipmaker Intel Corp. probes reported website hack](https://abcnews.go.com/Technology/wireStory/chipmaker-intel-corp-probes-reported-website-hack-75431854)
+
+
+> FILE - In this Oct. 1, 2019, file photo the symbol for Intel appears on a screen at the Nasdaq MarketSite, in New York. Intel is replacing its CEO after two years. The computer company said Wednesday, Jan. 13, 2021, that Pat Gelsinger will become its new CEO, effective Feb. 15. He takes over for Bob Swan, who became CEO in January 2019. (AP Photo/Richard Drew, File) BOSTON -- The computer chipmaker Intel Corp. says it is investigating a reported hack of its corporate website that prompted it to release a quarterly earnings report early.
+
+
+***
+![Biden appoints Steve Jurczyk as NASA's Acting Administrator](https://cdn.slashgear.com/wp-content/uploads/2021/01/NASA_main_uns.jpg "Biden appoints Steve Jurczyk as NASA's Acting Administrator")
+
+
+[Biden appoints Steve Jurczyk as NASA's Acting Administrator](https://www.slashgear.com/biden-appoints-steve-jurczyk-as-nasas-acting-administrator-22656354/)
+
+
+> On January 20, and as expected, NASA's now-former administrator Jim Bridenstine stepped down from his role. Soon after, the Biden administration announced that NASA's Steve Jurczyk, who has been with the space agency for decades, will serve as acting administrator until a permanent replacement is found. This news isn't a surprise — Bridenstine said shortly after the presidential election that he would step down from his role as NASA administrator even if the Biden administration asked him to remain.
+
+
+***
+![Biden inherited one of the worst hacks in history. How will his administration respond?](https://media1.s-nbcnews.com/j/newscms/2021_03/3443718/210120-red-square-moscow-jm-1525_287cb00984c39e78f29ef03b8ef18541.nbcnews-fp-1200-630.jpg "Biden inherited one of the worst hacks in history. How will his administration respond?")
+
+
+[Biden inherited one of the worst hacks in history. How will his administration respond?](https://www.nbcnews.com/tech/security/biden-inherited-one-worst-hacks-history-how-will-his-administration-n1255334)
+
+
+> Democrats spent the four years of the Trump administration talking tough on Russia, and now with President Joe Biden in the White House, they face an immediate challenge: addressing one of the worst hacking campaigns in U.S. history. Biden faces two main problems: how to punish Russia, if at all; and how to fully kick its hackers out of U.S. networks, a process that experts say will take months at least. Democrats who watched Donald Trump as president consistently defer to Russian President Vladimir Putin are eager to take a stronger stance.
+
+
+***
+![Microsoft Teams is coming to SAP platforms](https://cdn.mos.cms.futurecdn.net/juv7Nj2SyGX8oct7wucLi7-1200-80.jpg "Microsoft Teams is coming to SAP platforms")
+
+
+[Microsoft Teams is coming to SAP platforms](https://www.techradar.com/news/microsoft-teams-is-coming-to-sap-platforms)
+
+
+> (Image credit: Microsoft) SAP and Microsoft have announced their plans to integrate Microsoft Teams with SAP's business software applications.As work has become more virtual with more employees working from home during the pandemic, organizations have increasing relied on Microsoft's video conferencing software for meetings, communication and collaboration.To help make things easier and more convenient for businesses, SAP and Microsoft are building new integrations between Microsoft Teams and SAP solutions such as SAP S/4HANA, SAP SuccessFactors and SAP Customer Experience.
+
+
