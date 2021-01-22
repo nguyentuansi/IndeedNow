@@ -13240,3 +13240,53 @@
 > Manufacturers of smart home devices such as smart lights, Internet Protocol (IP) cameras and robot vacuum cleaners will now be able to apply for a labelling scheme that assesses the cyber-security levels of such devices. The voluntary Cybersecurity Labelling Scheme (CLS), launched last October, initially applied to Wi-Fi routers and smart home hubs, which were prioritised due to their wider usage and potentially more severe impact on consumers should these devices be compromised. The Cyber Security Agency of Singapore (CSA) yesterday expanded the scheme to include all types of consumer Internet of Things (IoT) devices.
 
 
+***
+![How to watch Sri Lanka vs England: Live stream 2nd Test cricket online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/sri-lanka-vs-england.jpg "How to watch Sri Lanka vs England: Live stream 2nd Test cricket online")
+
+
+[How to watch Sri Lanka vs England: Live stream 2nd Test cricket online](https://www.androidcentral.com/sri-lanka-vs-england-live-stream-how-watch-2nd-test-cricket-online-anywhere)
+
+
+> Having notched up a comprehensive victory in the first match, Joe Root's men will look to seal victory in this two-match series against the Lions - watch every ball of the 2nd Test with our Sri Lanka vs England live stream guide below. Stand-in captain Dinesh Chandimal knows that a woeful batting performance and a not much better showing with the ball in the first innings of the opening Test cost his team dear, and a huge improvement is needed if his men are to get anything out of this short series.
+
+
+***
+![Google parent company shutting down Loon, its internet-beaming balloon project](https://cnet4.cbsistatic.com/img/wPOKQKZ-9jQZGeuIfgMJf-AbTF4=/1200x630/center/top/2021/01/22/e259b77e-7e27-485f-b6c7-4bc9d54eae58/loon-balloon-launch-evening.jpg "Google parent company shutting down Loon, its internet-beaming balloon project")
+
+
+[Google parent company shutting down Loon, its internet-beaming balloon project](https://www.cnet.com/news/google-parent-company-shutting-down-loon-its-internet-beaming-balloon-project/)
+
+
+> Alphabet is shutting down its Loon project. Alphabet Google parent company Alphabet said Thursday that it's shutting down Loon, a project aimed at beaming down internet connectivity from balloons floating in the stratosphere.The project was born out of X, Alphabet's self-described moonshot factory for experimental projects, which has also developed the company's driverless car and delivery drone services. Alphabet, however, deemed Loon's business model unsustainable and said it couldn't get costs low enough to continue operation.
+
+
+***
+![Someone got macOS Catalina running on the 2020 iPad Pro](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/macos-catalina-ipad-pro.jpg "Someone got macOS Catalina running on the 2020 iPad Pro")
+
+
+[Someone got macOS Catalina running on the 2020 iPad Pro](https://www.imore.com/someone-got-macos-catalina-running-2020-ipad-pro)
+
+
+> Hacks Watch macOS running on an iPad. 21 Jan 2021 Source: Yevgen Yakovliev Someone got macOS Catalina running on an iPad Pro. They used x86 emulation and the UTM software to accomplish the feat. As reported by MacRumors, a YouTube channel called Yevgen Yakovliev has posted a video showing off macOS Catalina running on the 2020 iPad Pro. According to the video, the hacker used x86 emulation and was run through the UTM software that enables virtual machines on iOS. Booting up into macOS Catalina took a full 20 minutes, though the original creator says that it has since been optimized and now takes approximately 5 to 7 minutes.
+
+
+***
+![How many of you are using the venv module to create a Python 3 virtual environment on Windows 10?](https://external-preview.redd.it/JiStuMYZ-yrzObmrGa-lgmcNqh6RaD_OqZww7d4PtzA.jpg?auto=webp&s=cd73e09a05ccdc5519449f1d222e687d055061da "How many of you are using the venv module to create a Python 3 virtual environment on Windows 10?")
+
+
+[How many of you are using the venv module to create a Python 3 virtual environment on Windows 10?](https://www.reddit.com/r/Python/comments/l2d5ry/how_many_of_you_are_using_the_venv_module_to/)
+
+
+> Hi, there is this article that talks about how to use a Python 3 virtual environment in Windows 10. In the article, the venv module is used to create a Python 3 virtual environment.How many of you are using the venv module to create Python 3 virtual environment on your Windows 10 machine?
+
+
+***
+![paperetl: ETL processes for medical and scientific papers](https://external-preview.redd.it/ugkeG-qUXukluLVKnASXxIgGKaS-xkYqCT0712cShvk.jpg?auto=webp&s=b33f0ed5249f7969e6c67c28953ff6a78e00817e "paperetl: ETL processes for medical and scientific papers")
+
+
+[paperetl: ETL processes for medical and scientific papers](https://www.reddit.com/r/programming/comments/l2d3sm/paperetl_etl_processes_for_medical_and_scientific/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
