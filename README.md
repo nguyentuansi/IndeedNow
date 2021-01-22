@@ -13818,3 +13818,53 @@
 > The search giant, Google, has threatened to block its services in Australia if the government proceeds with the media law that would force it along with Facebook to pay media companies for sharing their content. The threat was given by Mel Silva, the managing director of Google Australia and New Zealand, while he was talking during a Senate inquiry into the bill. Mel said, "If this version of the code were to become law, it would give us no real choice but to stop making Google search available in Australia'.
 
 
+***
+![Cloudflare introduces free digital waiting rooms for any organizations distributing COVID-19 vaccines – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1285353443.jpg?w=571 "Cloudflare introduces free digital waiting rooms for any organizations distributing COVID-19 vaccines – TechCrunch")
+
+
+[Cloudflare introduces free digital waiting rooms for any organizations distributing COVID-19 vaccines – TechCrunch](https://techcrunch.com/2021/01/22/cloudflare-introduces-free-digital-waiting-rooms-for-any-organizations-distributing-covid-19-vaccines/)
+
+
+> Web infrastructure company Cloudflare is releasing a new tool today that aims to provide a way for health agencies and organizations globally tasked with rolling out COVID-19 vaccines to maintain a fair, equitable and transparent digital queue – completely free of charge. The company's ‘Project Fair Shot' initiative will make its new Cloudflare Waiting Room offering free to any organization that qualifies, essentially providing a way from future vaccine recipients to register and gain access to a clear and constantly-updated view of where they are in line to receive the preventative treatment.
+
+
+***
+![Microsoft Edge is now packing a password manager](https://cdn.mos.cms.futurecdn.net/MDH8LFSCsjrC7irUN3rK7-1200-80.jpg "Microsoft Edge is now packing a password manager")
+
+
+[Microsoft Edge is now packing a password manager](https://www.techradar.com/news/microsoft-edge-is-now-packing-a-password-manager)
+
+
+> (Image credit: Shutterstock / monticello) Microsoft Edge is introducing a new feature that will inform users if their passwords have been compromised. Password Monitor will now inform Edge users if one of their passwords was involved in a third-party data breach and they will receive a prompt to change it.The new password management feature finally brings an additional safeguard against online hacks to Edge users, after Chrome and Firefox fans have had access to similar functionality for a few years.
+
+
+***
+![Randi Zuckerberg Joins Life360's Board of Directors](https://mms.businesswire.com/media/20210122005035/en/813994/23/Life360-vertical-purple.jpg "Randi Zuckerberg Joins Life360's Board of Directors")
+
+
+[Randi Zuckerberg Joins Life360's Board of Directors](https://www.businesswire.com/news/home/20210122005035/en/Randi-Zuckerberg-Joins-Life360%E2%80%99s-Board-of-Directors)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--Life360, Inc. (ASX:360), the leading safety and coordination service for families worldwide, announced the appointment of Randi Zuckerberg to its Board of Directors. Known for her work growing Facebook in its early days from an intimate community to the global social network it is today and for creating Facebook Live, Zuckerberg will advise and help scale Life360 through its next phase of growth. ' Similar to what we saw in the early days of Facebook, there's a strong need for people to connect with a more intimate group -- and Life360 offers that intimacy for families and so much more,' said Zuckerberg.
+
+
+***
+![Cloudflare Announces Project Fair Shot, A Digital Waiting Room for Fair and Efficient COVID-19 Vaccine Distribution](https://mms.businesswire.com/media/20210122005070/en/738100/23/cf-logo-h-rgb.jpg "Cloudflare Announces Project Fair Shot, A Digital Waiting Room for Fair and Efficient COVID-19 Vaccine Distribution")
+
+
+[Cloudflare Announces Project Fair Shot, A Digital Waiting Room for Fair and Efficient COVID-19 Vaccine Distribution](https://www.businesswire.com/news/home/20210122005070/en/Cloudflare-Announces-Project-Fair-Shot-A-Digital-Waiting-Room-for-Fair-and-Efficient-COVID-19-Vaccine-Distribution)
+
+
+> January 22, 2021 09:00 AM Eastern Standard Time SAN FRANCISCO--(BUSINESS WIRE)--Cloudflare, Inc. (NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced Project Fair Shot to offer a free and fair way for vaccine distributors around the world to use digital queues to safely scale their efforts. Project Fair Shot will enable any government, municipality, hospital, pharmacy, or other organization facilitating the distribution of the COVID-19 vaccine access to Cloudflare Waiting Room, a transparent digital queue that sits in front of any registration website for people to know where they stand in line to sign up for a vaccine without leaving home.
+
+
+***
+![The Uncharted movie has been delayed until 2022](https://cdn.mos.cms.futurecdn.net/CfAJ3inSpPzf9pYyGwZtCY-1200-80.jpg "The Uncharted movie has been delayed until 2022")
+
+
+[The Uncharted movie has been delayed until 2022](https://www.techradar.com/news/the-uncharted-movie-has-been-delayed-until-2022)
+
+
+> (Image credit: Sony Pictures/Tom Holland) Sorry Uncharted fans, but it looks like we have another year to wait to see Nathan Drake on the big screen, as Sony has announced it has delayed the Uncharted movie to 2022 (via The Hollywood Reporter).The Uncharted film is an adaptation of the game series which sees Tom Holland starring as avid adventurer Nathan Drake - while Mark Walhberg has been cast as his grizzled mentor, Sully. The film was due to release on July 16, 2021 but Sony has now revealed that, due to the ongoing pandemic, the film has been delayed by seven months and is now due to hit theatres on February 11, 2022.
+
+
