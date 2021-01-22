@@ -13474,3 +13474,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Upgrade rage: Why you may have to buy a new device whether you want to or not](https://cdn.mos.cms.futurecdn.net/UxXEzggWeqs6cwBX4HLDjX-1200-80.jpg "Upgrade rage: Why you may have to buy a new device whether you want to or not")
+
+
+[Upgrade rage: Why you may have to buy a new device whether you want to or not](https://global.techradar.com/news/upgrade-rage-why-you-may-have-to-buy-a-new-device-whether-you-want-to-or-not)
+
+
+> We've probably all been there. We buy some new smart gadget and when we plug it in for the first time it requires an update to work.So we end up spending hours downloading and updating before we can even play with our new toy.But what happens when we can't update our gadgets any further?Vintage technologyEvery year vendors such as Apple and Google add to their list of vintage devices that no longer get operating system or security updates.For example, owners of the Pixel 2 smartphone (released by Google in 2017) were told in late 2020 they would no longer receive regular scheduled system updates and security updates.
+
+
+***
+![Janet Yellen Changes Stance On Cryptocurrencies After Causing Bitcoin Plunge](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/bermix-studio-ax1hn4und-i-unsplash_0.jpg "Janet Yellen Changes Stance On Cryptocurrencies After Causing Bitcoin Plunge")
+
+
+[Janet Yellen Changes Stance On Cryptocurrencies After Causing Bitcoin Plunge](https://www.benzinga.com/markets/cryptocurrency/21/01/19269180/janet-yellen-changes-stance-on-cryptocurrencies-after-causing-bitcoin-plunge)
+
+
+> President Joe Biden's treasury secretary nominee Janet Yellen displayed a change of stance in a statement to the U.S. Senate Finance Committee on Thursday. What Happened: Responding to a question on what she saw as potential threats and benefits of Bitcoin (BTC) and other digital currencies, Yellen said it is important "we consider the benefits of cryptocurrencies and other digital assets, and the potential they have to improve the efficiency of the financial system.' Earlier this week, Yellen had expressed concerns about the use of cryptocurrencies in financing of illicit activities and invited criticism from Bitcoin supporters including Ark Invest's Cathie Wood.
+
+
+***
+![Social media platform Parler loses bid to require Amazon to restore service](https://images.indianexpress.com/2021/01/Parler_BLOOMBERG-1.jpg "Social media platform Parler loses bid to require Amazon to restore service")
+
+
+[Social media platform Parler loses bid to require Amazon to restore service](https://indianexpress.com/article/technology/tech-news-technology/social-media-platform-parler-loses-bid-to-require-amazon-to-restore-service-7157068/)
+
+
+> A US judge on Thursday rejected Parler's demand that Amazon.com Inc restore web hosting services for the social media platform, which Amazon had cut off following the January 6 storming of the US Capitol. US District Judge Barbara Rothstein in Seattle said Parler was unlikely to prove Amazon breached its contract or violated antitrust law by suspending service on January 10, and that it was 'not a close call.'She also forcefully rejected the suggestion that the public interest would be served by a preliminary injunction requiring Amazon Web Services to 'host the kind of abusive, violent content at issue in this case, particularly in light of the recent riots at the US Capitol.
+
+
+***
+![This is my interpreter for my interpretation of Brainfuck. I call it "BrainFuck but Useful" because it's pretty possible to make software with it.](https://external-preview.redd.it/dx09fxIMGemwFxMiZx-868r9GzmcWa5QATLfeyPgrbs.jpg?auto=webp&s=02d7dfd2d0f24d6a502982c488df82ade89b998e "This is my interpreter for my interpretation of Brainfuck. I call it "BrainFuck but Useful" because it's pretty possible to make software with it.")
+
+
+[This is my interpreter for my interpretation of Brainfuck. I call it "BrainFuck but Useful" because it's pretty possible to make software with it.](https://www.reddit.com/r/programming/comments/l2if5h/this_is_my_interpreter_for_my_interpretation_of/)
+
+
+> This is my interpreter for my interpretation of Brainfuck. I call it "BrainFuck but Useful" because it's pretty possible to make software with it.
+
+
+***
+![Media code sparks major threat from Google](https://images.perthnow.com.au/publication/S-2046337/1611299264776_Digital_16-9_20256031_2046337_20210122130124bd440831-afe5-4c11-9e80-e7dacde7556e.jpg_sd_1280x720.jpg?imwidth=1024 "Media code sparks major threat from Google")
+
+
+[Media code sparks major threat from Google](https://www.perthnow.com.au/politics/tech-giants-media-to-debate-planned-code-ng-s-2046337)
+
+
+> Australia's proposed media code has escalated government tensions with Google, with the tech giant threatening to remove access to its search engine if the plan is stamped into law.The Morrison government introduced the underpinning bill to parliament in December, with a Senate committee hearing from stakeholders before the draft laws progress.Google says the proposed code, which forces tech companies to pay for news content or face fines of up to $10 million, is unworkable and poses a huge financial risk.
+
+
