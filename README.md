@@ -13671,3 +13671,53 @@
 > (Image credit: Michele Ursi / Shutterstock) Following changes to WhatsApp's privacy policies that require users to share extra data with its parent company Facebook, many users have begun looking for alternative messaging apps – and it looks like Signal is hoping to lure them away by borrowing a few of WhatsApp's features. Signal already offers end-to-end encryption and the ability to send messages that self-destruct after a certain period of time (an option that arrived in WhatsApp late last year ), but its latest beta release reveals a raft of other updates that will bring it in line with its rival.
 
 
+***
+![How to establish a new RFC process and culture in the company? What would you improve?](https://external-preview.redd.it/P34xdNyvyh6Ch04Vvccq0d-oCid_zeCNnBNSyhnHpxk.jpg?auto=webp&s=65cddb68e8cfc9f819808b3e9b4b48ed2719974d "How to establish a new RFC process and culture in the company? What would you improve?")
+
+
+[How to establish a new RFC process and culture in the company? What would you improve?](https://www.reddit.com/r/programming/comments/l2lli4/how_to_establish_a_new_rfc_process_and_culture_in/)
+
+
+> How to establish a new RFC process and culture in the company? What would you improve?
+
+
+***
+![This is where you can snag a Fitbit Sense & Versa 3 replacement charger](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/fitbit-sense-review-7.jpeg "This is where you can snag a Fitbit Sense & Versa 3 replacement charger")
+
+
+[This is where you can snag a Fitbit Sense & Versa 3 replacement charger](https://www.androidcentral.com/where-buy-replacement-fitbit-sense-versa-3-charger)
+
+
+> Source: Joe Maring / Android CentralBest answer: The Fitbit Sense & Versa 3 are the company's newest smartwatches and they both offer six days of battery life. If you've lost track of your charging cable or need a backup to have on hand, you can buy a Fitbit Sense & Versa 3 replacement charger directly from Fitbit. There are numerous options on Amazon, too, including some cheaper third-party options. If you've had your eye on the Fitbit Sense or the Fitbit Versa 3 since the initial announcement, you know that these watches are packed with features that make for a great wearable experience.
+
+
+***
+![Netflix's 'Jurassic World: Camp Cretaceous' Season 2 gets more exciting as it goes](https://mondrian.mashable.com/2021%252F01%252F22%252Fc5%252F3f8866bb2d80429abb7fd0e281dd7617.330a3.jpg%252F1200x630.jpg?signature=NW8pxAth9BOryDfKpO5EbnIONf8= "Netflix's 'Jurassic World: Camp Cretaceous' Season 2 gets more exciting as it goes")
+
+
+[Netflix's 'Jurassic World: Camp Cretaceous' Season 2 gets more exciting as it goes](https://mashable.com/article/camp-cretaceous-season-2-review/)
+
+
+> Camp Cretaceous Season 1 was pretty good. The animated Jurassic World series, which kicked off on Netflix last September, has a lucky group of teenagers trying out a new adventure camp on Isla Nublar before it opens up to the public. However, after the dinosaurs get loose and the campers get separated from their counselors, the gang is forced to survive while they search for a way off the island. This time around, the plot — now with a clear trajectory — takes hold. The opening season thrived on its fun setting and just-scary-enough action, however, many of the characters felt especially geared toward a young crowd.
+
+
+***
+![Fossil Gen 5 LTE now on sale, months earlier than expected](https://cdn.mos.cms.futurecdn.net/AC3QeGbV87FEjpfqnhqyKk-1200-80.jpg "Fossil Gen 5 LTE now on sale, months earlier than expected")
+
+
+[Fossil Gen 5 LTE now on sale, months earlier than expected](https://www.techradar.com/news/fossil-gen-5-lte-now-on-sale-months-earlier-than-expected)
+
+
+> (Image credit: Fossil) The Fossil Gen 5 LTE was announced not long ago with a ‘spring' release date, which we took to mean between around March and June, but it's actually already now on sale.Or at least it is in the US, where it's exclusive to Verizon. If you want to pick it up it will cost you $349 (roughly £260 / AU$450), or $14.54 per month for 24 months.At the time of writing there's no word on if or when the Fossil Gen 5 LTE will land in other countries like the UK and Australia, as it's so far only been announced for the US, but other Fossil wearables have had wider availability, so the Gen 5 LTE might do so as well.
+
+
+***
+![Lubalin teams up with Jimmy Fallon and Alison Brie for another internet drama song](https://mondrian.mashable.com/2021%252F01%252F22%252F1b%252Ff601bee843684af6ab21c1c4dc8facc4.eb788.png%252F1200x630.png?signature=7cK9hwGr5kXoDROY5CxcByVEOTA= "Lubalin teams up with Jimmy Fallon and Alison Brie for another internet drama song")
+
+
+[Lubalin teams up with Jimmy Fallon and Alison Brie for another internet drama song](https://mashable.com/video/lubalin-part-four-salad-dressing/)
+
+
+> The words "good evening, is this available?" will never be the same again.  TikTok viral sensation Lubalin, who's a musician and producer, has been turning internet drama into songs — but not just your average ditty, we're talking full blown bangers that you won't be able to shake from your head.  Part one turned a very strange Facebook messenger convo featuring the words "please leave me alone, we are sleeping" into a bop. Part two told the story of a stolen broccoli recipe and the broken friendships that ensued.
+
+
