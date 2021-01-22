@@ -13290,3 +13290,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![NZ central bank data delay due to hack](https://images.perthnow.com.au/publication/S-2046424/1611285348540_NZ_Bank_16-9_20256240_2046424_2021012214018800f8f99-9eb2-4881-814b-ddec7bde21ee.jpg_sd_1280x720.jpg?imwidth=1024 "NZ central bank data delay due to hack")
+
+
+[NZ central bank data delay due to hack](https://www.perthnow.com.au/technology/security/nz-central-bank-data-delay-due-to-hack-ng-s-2046424)
+
+
+> New Zealand's central bank will postpone publication of most of its statistical data releases for a number of weeks while it investigates a cyber attack that led to a serious breach of its data systems.The breach was announced earlier this month and the Reserve Bank of New Zealand (RBNZ) said a file sharing service provided by California-based Accellion was illegally accessed.Statistics on bank customer lending, credit card balances and spending, new mortgage commitments, bank liquidity, non-bank lending institutions, and retail interest rates would be delayed, the bank said.
+
+
+***
+[Tastytrade, a Chicago-based online brokerage and financial media company, to be acquired by UK's IG Group in a deal worth over $1B in cash and stock (Bloomberg)](http://www.techmeme.com/210121/p39#a210121p39)
+
+
+> Bloomberg: Tastytrade, a Chicago-based online brokerage and financial media company, to be acquired by UK's IG Group in a deal worth over $1B in cash and stock — - U.K. firm to buy Chicago-based platform amid trading boom — Analysts question ‘punchy’ price and scant earnings guidance
+
+
+***
+![Intip Bocoran Foto iPhone Lipat, Elegan Khas Apple!](https://cdns.klimg.com/merdeka.com/i/w/photonews/2021/01/22/1266205/640x320/20210122074118-intip-bocoran-foto-iphone-lipat-elegan-khas-apple-001-indra-cahya.jpg "Intip Bocoran Foto iPhone Lipat, Elegan Khas Apple!")
+
+
+[Intip Bocoran Foto iPhone Lipat, Elegan Khas Apple!](https://www.merdeka.com/foto/teknologi/1266205/20210122074118-intip-bocoran-foto-iphone-lipat-elegan-khas-apple-001-indra-cahya.html)
+
+
+> No body in the article.
+
+
+***
+![Cloud Security Alliance's New Cloud Controls Matrix v4 Adds New Log and Monitoring Domain and More Than 60 New Cloud Security Controls](https://mms.businesswire.com/media/20210121005896/en/783951/23/CSA_Logo_CMYK.jpg "Cloud Security Alliance's New Cloud Controls Matrix v4 Adds New Log and Monitoring Domain and More Than 60 New Cloud Security Controls")
+
+
+[Cloud Security Alliance's New Cloud Controls Matrix v4 Adds New Log and Monitoring Domain and More Than 60 New Cloud Security Controls](https://www.businesswire.com/news/home/20210121005896/en/Cloud-Security-Alliance%E2%80%99s-New-Cloud-Controls-Matrix-v4-Adds-New-Log-and-Monitoring-Domain-and-More-Than-60-New-Cloud-Security-Controls)
+
+
+> SEATTLE--(BUSINESS WIRE)--The Cloud Security Alliance (CSA), the world's leading organization dedicated to defining standards, certifications and best practices to help ensure a secure cloud computing environment, today announced the availability of version 4 of the Cloud Controls Matrix (CCM), CSA's flagship cybersecurity framework for cloud computing. The CCM v4 includes additional cloud security and privacy-related controls and encompasses coverage of requirements deriving from new cloud technologies, improved control auditability, enhanced interoperability and compatibility with other standards, and expanded support offerings to navigate the cloud shared responsibility model.
+
+
+***
+![Bentley Systems Announces Pricing and Upsize of Private Offering of Convertible Senior Notes](http://www.businesswire.com/images/bwlogo_square.png "Bentley Systems Announces Pricing and Upsize of Private Offering of Convertible Senior Notes")
+
+
+[Bentley Systems Announces Pricing and Upsize of Private Offering of Convertible Senior Notes](https://www.businesswire.com/news/home/20210121006020/en/Bentley-Systems-Announces-Pricing-and-Upsize-of-Private-Offering-of-Convertible-Senior-Notes)
+
+
+> January 21, 2021 09:47 PM Eastern Standard Time EXTON, Pa.--(BUSINESS WIRE)--Bentley Systems, Incorporated (Nasdaq: BSY) ('Bentley'), the infrastructure engineering software company, announced today the pricing of $600.0 million aggregate principal amount of convertible senior notes due 2026 (the 'Notes') in a private offering to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended (the 'Securities Act'). The size of the offering reflects an increase from the $500.
+
+
