@@ -13574,3 +13574,53 @@
 > January 22, 2021   10:03 am - A minor earth tremor has been felt in the area of Walapane in Badulla, says the Geological Survey and Mines Bureau (GSMB). The tremor has been measured 1.8 on the Richter scale. According to GSMB, the incident took place at around 3.30 am this morning (January 22). The tremor has been recorded in the seismometers at Mahakanadarawa, Pallekele and Hakmana, the Chairman of GSMB Mr Anura Walpola said. Residents of Ekiriya in Viyaluwa said the tremor was also felt in their village.
 
 
+***
+![CBI Registers Case Against Cambridge Analytica, Global Science Research For Illegal Data Harvesting](https://gumlet.assettype.com/bloombergquint%2F2021-01%2F31a89a91-4716-4e56-aea7-3b61bbbb47da%2F364516538.jpg?rect=0%2C0%2C3998%2C2099&w=1200&auto=format%2Ccompress&ogImage=true "CBI Registers Case Against Cambridge Analytica, Global Science Research For Illegal Data Harvesting")
+
+
+[CBI Registers Case Against Cambridge Analytica, Global Science Research For Illegal Data Harvesting](https://www.bloombergquint.com/technology/cbi-registers-case-against-cambridge-analytica-global-science-research-for-illegal-data-harvesting)
+
+
+> The CBI has booked U.K.-based Cambridge Analytica and Global Science Research Ltd. for illegally harvesting data of Facebook users in India for commercial purposes, officials said on Friday.The action came after a preliminary enquiry into the matter which showed that Global Science Research had created an app "This Is Your Digital Life" which was authorised by Facebook to collect specific datasets of its users for research and academic purposes in 2014, they said.The company then entered into a criminal conspiracy with Cambridge Analytica, allowing it to use the data harvested by it for commercial purposes, the officials said.
+
+
+***
+![Privacy complaint targets European parliament's COVID-19 test-booking site – TechCrunch](https://techcrunch.com/wp-content/uploads/2014/12/6092000030_b8808e63f4_b.jpg?w=600 "Privacy complaint targets European parliament's COVID-19 test-booking site – TechCrunch")
+
+
+[Privacy complaint targets European parliament's COVID-19 test-booking site – TechCrunch](https://techcrunch.com/2021/01/22/privacy-complaint-targets-european-parliaments-covid-19-test-booking-site/)
+
+
+> The European Parliament is being investigated by the EU's lead data regulator over a complaint that a website it set up for MEPs to book coronavirus tests may have violated data protection laws. The complaint, which has been filed by six MEPs and is being supported by the privacy campaign group noyb, alleges third party trackers were dropped without proper consent and that cookie banners presented to visitors were confusing and deceptively designed. It also alleges personal data was transferred to the US without a valid legal basis, making reference to a landmark legal ruling by Europe's top court last summer (aka Schrems II).
+
+
+***
+![12 Pro Max completely freezes on The Verge](https://images.macrumors.com/social/?t=2281391&v=6 "12 Pro Max completely freezes on The Verge")
+
+
+[12 Pro Max completely freezes on The Verge](https://forums.macrumors.com/threads/12-pro-max-completely-freezes-on-the-verge.2281391/)
+
+
+> Apr 23, 2015 1,909 8,330 Italy Hi all, my 12 Pro Max, since I bought it, is freezing while loading the (vast) ad network in some Verge posts. Already happened 5 times. It's a complete freeze, needing hard reboot. Only happens when I reach the part of the page where the ads are loaded. Ideas?
+
+
+***
+![Redmi Note 9 series all set to get Android 11 update](https://cdn.mos.cms.futurecdn.net/uJaaYLw8khreyAc2EVWBsA-1200-80.jpg "Redmi Note 9 series all set to get Android 11 update")
+
+
+[Redmi Note 9 series all set to get Android 11 update](https://www.techradar.com/news/redmi-note-9-series-all-set-to-get-android-11-update)
+
+
+> (Image credit: Xiaomi) Xiaomi is rather prompt when it comes to pushing out updates for their top of the line smartphones. And the Redmi Note 9 Pro smartphone launched recently with Android 10 based MIUI 12. And now it seems like the company is ready to release a new update for the Redmi Note 9 series of smartphones that will implement Android 11. This is great news considering all the new updates Android 11 brings over its previous version.According to an Mi forum post (which has since been removed) the Redmi Note 9 series smartphones will be getting MIUI 12 Beta Stable v12.
+
+
+***
+![Rust in Production: 1Password](https://external-preview.redd.it/jIw0U6mmrUl0LJ4tvwPPFAI1M8C46iKXxD69dtI3fdU.jpg?auto=webp&s=7a72f53571b254f60a227cb6f5d670f1c7102ff4 "Rust in Production: 1Password")
+
+
+[Rust in Production: 1Password](https://www.reddit.com/r/programming/comments/l2jo8f/rust_in_production_1password/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
