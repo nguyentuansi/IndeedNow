@@ -13337,3 +13337,53 @@
 > January 21, 2021 09:47 PM Eastern Standard Time EXTON, Pa.--(BUSINESS WIRE)--Bentley Systems, Incorporated (Nasdaq: BSY) ('Bentley'), the infrastructure engineering software company, announced today the pricing of $600.0 million aggregate principal amount of convertible senior notes due 2026 (the 'Notes') in a private offering to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended (the 'Securities Act'). The size of the offering reflects an increase from the $500.
 
 
+***
+![I wasted $40k on a fantastic startup idea](https://external-preview.redd.it/qnjO0nsaxIYTjK7D3aFO6cZxbJmob45zuMKKrAcm4pY.jpg?auto=webp&s=088d4bc23819f0acfb019209de963271b09368d2 "I wasted $40k on a fantastic startup idea")
+
+
+[I wasted $40k on a fantastic startup idea](https://www.reddit.com/r/programming/comments/l2fzdk/i_wasted_40k_on_a_fantastic_startup_idea/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Google threatens to pull search engine in Australia](https://s.abcnews.com/images/Technology/WireAP_c02025f8d39c43efaec54221b96c3b4b_16x9_992.jpg "Google threatens to pull search engine in Australia")
+
+
+[Google threatens to pull search engine in Australia](https://abcnews.go.com/Technology/wireStory/google-threatens-pull-search-engine-australia-75418787)
+
+
+> WELLINGTON, New Zealand -- Google on Friday threatened to make its search engine unavailable in Australia if the government went ahead with plans to make tech giants pay for news content. Australian Prime Minister Scott Morrison quickly hit back, saying 'we don't respond to threats.' 'Australia makes our rules for things you can do in Australia ,' Morrison told reporters in Brisbane. 'That's done in our Parliament. It's done by our government. And that's how things work here in Australia.' Morrison's comments came after Mel Silva, the managing director of Google Australia and New Zealand, told a Senate inquiry into the bill that the new rules would be unworkable.
+
+
+***
+![Canon unveils interactive site that allows users to take images from satellite](https://images.firstpost.com/wp-content/uploads/2021/01/Canon-1280-.jpg "Canon unveils interactive site that allows users to take images from satellite")
+
+
+[Canon unveils interactive site that allows users to take images from satellite](https://www.firstpost.com/tech/news-analysis/canon-unveils-interactive-site-that-allows-users-to-take-images-from-satellite-9228351.html)
+
+
+> FP TrendingJan 22, 2021 09:52:51 ISTCanon has unveiled an interactive site that allows users to use its CE-SAT-1 satellite, equipped with a lightly modified 5D Mark III DSLR. The interactive website allows one to take simulated images of various locations including the likes of New York City, and other places. According to a report in Engadget, Canon launched the microsatellite in June 2017. It holds an EOS 5D Mark III camera fitted with a 40 cm Cassegrain-type 370mm telescope. The satellite orbits at 600 km and provides about 36-inch ground resolution within a 3x2 mile frame.
+
+
+***
+![Foto : Intip Bocoran Foto iPhone Lipat, Elegan Khas Apple!](https://cdns.klimg.com/merdeka.com/i/w/photonews/2021/01/22/1266205/640x320/20210122074118-intip-bocoran-foto-iphone-lipat-elegan-khas-apple-001-indra-cahya.jpg "Foto : Intip Bocoran Foto iPhone Lipat, Elegan Khas Apple!")
+
+
+[Foto : Intip Bocoran Foto iPhone Lipat, Elegan Khas Apple!](https://www.merdeka.com/foto/teknologi/1266205/20210122074118-intip-bocoran-foto-iphone-lipat-elegan-khas-apple-001-indra-cahya.html)
+
+
+> No body in the article.
+
+
+***
+![Google says it will shut search engine in Australia if forced to pay for news](https://apicms.thestar.com.my/uploads/images/2021/01/22/1017305.JPG "Google says it will shut search engine in Australia if forced to pay for news")
+
+
+[Google says it will shut search engine in Australia if forced to pay for news](https://www.thestar.com.my/tech/tech-news/2021/01/22/google-says-it-will-remove-search-function-in-australia-if-media-code-becomes-law)
+
+
+> FILE PHOTO: A 3D printed Google logo is seen in this illustration taken April 12, 2020. REUTERS/Dado Ruvic/Illustration/File Photo SYDNEY (Reuters) - Alphabet Inc's Google said on Friday it would block its search engine in Australia if the government proceeds with a new code that would force it and Facebook Inc to pay media companies for the right to use their content. Google's threat escalates a battle with publishers such as News Corp that is being closely watched around the world. The search giant had warned that its 19 million Australian users would face degraded search and YouTube experiences if the new code were enforced.
+
+
