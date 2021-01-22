@@ -13624,3 +13624,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+[Honor launches first smartphone V40 5G since Huawei separation](https://www.freepressjournal.in/technology/honor-launches-first-smartphone-v40-5g-since-huawei-separation)
+
+
+> No body in the article.
+
+
+***
+![Tesla Secures Top Spot In JD Power's Survey Of Premium EV Owners](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/tech-nick-kpuqosfthag-unsplash_6.jpg "Tesla Secures Top Spot In JD Power's Survey Of Premium EV Owners")
+
+
+[Tesla Secures Top Spot In JD Power's Survey Of Premium EV Owners](https://www.benzinga.com/news/21/01/19269083/tesla-secures-top-spot-in-jd-powers-survey-of-premium-ev-owners)
+
+
+> Tesla Inc (NASDAQ: TSLA ) secured the most marks in the premium segment in the first-ever U.S. Electric Vehicle Experience Ownership Study carried out by J.D. Power. What Happened: The Palo Alto, California-based automaker's Model S vehicle got the highest customer rating from owners with 738 points out of a possible 1,000, reported CNet Roadshow on Thursday. The study reportedly spanned battery-electric cars and plug-in hybrids from the model years 2015-2021; just under 10,000 owners participated.
+
+
+***
+![Retail investors will get 'top priority' in coming Starlink IPO](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Retail investors will get 'top priority' in coming Starlink IPO")
+
+
+[Retail investors will get 'top priority' in coming Starlink IPO](https://seekingalpha.com/news/3617854-retail-investors-will-get-top-priority-in-coming-starlink-ipo-musk)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Corsair Gaming prices 7.5M shares at $35 (CRSR)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Corsair Gaming prices 7.5M shares at $35 (CRSR)")
+
+
+[Corsair Gaming prices 7.5M shares at $35 (CRSR)](https://seekingalpha.com/news/3653446-corsair-gaming-prices-secondary-offering-at-35)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Signal aims to tempt WhatsApp users by borrowing some of its best features](https://cdn.mos.cms.futurecdn.net/zjaJ25xrgFNLKEHr8bjVcY-1200-80.jpg "Signal aims to tempt WhatsApp users by borrowing some of its best features")
+
+
+[Signal aims to tempt WhatsApp users by borrowing some of its best features](https://www.techradar.com/news/signal-aims-to-tempt-whatsapp-users-by-borrowing-some-of-its-best-features)
+
+
+> (Image credit: Michele Ursi / Shutterstock) Following changes to WhatsApp's privacy policies that require users to share extra data with its parent company Facebook, many users have begun looking for alternative messaging apps – and it looks like Signal is hoping to lure them away by borrowing a few of WhatsApp's features. Signal already offers end-to-end encryption and the ability to send messages that self-destruct after a certain period of time (an option that arrived in WhatsApp late last year ), but its latest beta release reveals a raft of other updates that will bring it in line with its rival.
+
+
