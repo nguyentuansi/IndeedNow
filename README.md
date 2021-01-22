@@ -13721,3 +13721,53 @@
 > The words "good evening, is this available?" will never be the same again.  TikTok viral sensation Lubalin, who's a musician and producer, has been turning internet drama into songs — but not just your average ditty, we're talking full blown bangers that you won't be able to shake from your head.  Part one turned a very strange Facebook messenger convo featuring the words "please leave me alone, we are sleeping" into a bop. Part two told the story of a stolen broccoli recipe and the broken friendships that ensued.
 
 
+***
+![Signal 'copies' several WhatsApp features amid new user surge](https://imagevars.gulfnews.com/2021/01/16/Signal-logo_17709ab1fe5_medium.jpg "Signal 'copies' several WhatsApp features amid new user surge")
+
+
+[Signal 'copies' several WhatsApp features amid new user surge](https://gulfnews.com/technology/signal-copies-several-whatsapp-features-amid-new-user-surge-1.1611316237601)
+
+
+> A woman holds a smartphone displaying the Signal messaging app logo. Image Credit: REUTERS New Delhi: Encrypted messaging app Signal that has seen a surge in new sign-ups has introduced several features in its upcoming update that already exist in WhatsApp in an apparent bid to woo more users from the Facebook-owned messaging platform. To begin with, Signal has added a feature to change chat wallpaper. The latest Signal Beta update, released this week, includes the feature to change the chat wallpaper copied straightaway from WhatsApp, reports WABetaInfo, a website that closely tracks the Beta changes on Facebook-owned platform.
+
+
+***
+![LG K42 with military-grade durability, four rear cameras launched in India: Price, specifications](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lg_k42-483x271_1200_210122165111.jpeg "LG K42 with military-grade durability, four rear cameras launched in India: Price, specifications")
+
+
+[LG K42 with military-grade durability, four rear cameras launched in India: Price, specifications](https://www.indiatoday.in/technology/news/story/lg-k42-with-military-grade-durability-four-rear-cameras-launched-in-india-price-specifications-1761763-2021-01-22)
+
+
+> Highlights LG has launched the K42 smartphone in India with military-grade durability. The LG K42 comes with a MediaTek processor inside and 3GB of RAM. LG K42 comes with a quad-camera setup on the back. LG has launched the K42 smartphone in India. The highlight of this smartphone is the MIL-STD-810G compliance that ensures military-grade durability on the smartphone, such as protection against fall shock, temperature shock, vibration, humidity, high and low temperatures. This is a budget smartphone that takes on the likes of Realme Narzo 20A, Redmi 9 Prime, and the Motorola Moto G9 Power.
+
+
+***
+![Xiaomi Mi 10T gets massive discount during Flipkart Big Saving Days sale: Here is why it is a good deal](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/mi_10t-483x271_1200_210122162219.png "Xiaomi Mi 10T gets massive discount during Flipkart Big Saving Days sale: Here is why it is a good deal")
+
+
+[Xiaomi Mi 10T gets massive discount during Flipkart Big Saving Days sale: Here is why it is a good deal](https://www.indiatoday.in/technology/news/story/xiaomi-mi-10t-gets-massive-discount-during-flipkart-big-saving-days-sale-here-is-why-it-is-a-good-deal-1761748-2021-01-22)
+
+
+> The Mi 10T comes with high-end specs which including the Qualcomm Snapdragon 865 chipset a fast 144Hz display. Sushant Talwar | January 22, 2021 | Updated 15:44 IST
+
+
+***
+![YouTube rolls out hashtag landing pages for users to discover niche content and videos](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-22_at_3_1200_210122165100.54.-483x271.png "YouTube rolls out hashtag landing pages for users to discover niche content and videos")
+
+
+[YouTube rolls out hashtag landing pages for users to discover niche content and videos](https://www.indiatoday.in/technology/news/story/youtube-rolls-out-hashtag-landing-pages-for-users-to-discover-niche-content-and-videos-1761764-2021-01-22)
+
+
+> Previously the video platform used to show related content when users typed in a term with a hashtag. Now, according to YouTube's support page, the hashtag landing page will only show content or videos with that particular hashtag. Yasmin Ahmed | January 22, 2021 | Updated 16:36 IST (Picture: Screenshot of a hashtag landing page on YouTube)
+
+
+***
+![Signal to get several WhatsApp-like features](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-22_at_2_1200_210122152250.51.-483x271.png "Signal to get several WhatsApp-like features")
+
+
+[Signal to get several WhatsApp-like features](https://www.indiatoday.in/technology/news/story/signal-to-get-several-whatsapp-like-features-1761727-2021-01-22)
+
+
+> WhatsApp's new terms of service and privacy policies have pushed several towards Signal, the much safer alternative to WhatsApp. Ankita Chakravarti | January 22, 2021 | Updated 14:57 IST
+
+
