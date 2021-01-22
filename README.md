@@ -13868,3 +13868,53 @@
 > (Image credit: Sony Pictures/Tom Holland) Sorry Uncharted fans, but it looks like we have another year to wait to see Nathan Drake on the big screen, as Sony has announced it has delayed the Uncharted movie to 2022 (via The Hollywood Reporter).The Uncharted film is an adaptation of the game series which sees Tom Holland starring as avid adventurer Nathan Drake - while Mark Walhberg has been cast as his grizzled mentor, Sully. The film was due to release on July 16, 2021 but Sony has now revealed that, due to the ongoing pandemic, the film has been delayed by seven months and is now due to hit theatres on February 11, 2022.
 
 
+***
+![Review: Caseology's Legion offers affordable protection that looks great](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/caseology-legion-case.jpg "Review: Caseology's Legion offers affordable protection that looks great")
+
+
+[Review: Caseology's Legion offers affordable protection that looks great](https://www.imore.com/caseology-legion-case-review)
+
+
+> Source: Jaclyn Kilani / iMore As a serial breaker of phones, I've always thought my only choices for iPhone cases were huge, bulky, and super expensive. I've been shelling out big bucks for years on the best rugged cases, but after trying out the Caseology Legion, my mind has been opened to new and much more affordable possibilities. The Caseology Legion is a sharp-looking case with multiple lines of protective defense. Despite its protective qualities, the case is not very thick or bulky like most protective cases, and it comes in several colorways that complement the iPhone 12 Pro colors beautifully.
+
+
+***
+![Best Dell TV Deals for January 2021: 4K, 8K, OLED, QLED, and more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/sony-x800h-smart-tv-hero.jpg "Best Dell TV Deals for January 2021: 4K, 8K, OLED, QLED, and more")
+
+
+[Best Dell TV Deals for January 2021: 4K, 8K, OLED, QLED, and more](https://www.androidcentral.com/best-dell-tv-deals)
+
+
+> Purchasing a new TV can be pretty expensive, but if you know where to look, you have the opportunity to save hundreds on brand new models. Dell is well-known for its computers and its online store is full of them, but there's also a wide selection of TVs available. Dell routinely offers some of the best TV deals and best smart TV deals online, and often you'll even score a free gift card with the purchase! Source: Sony Dell's TV selection ranges in price by quite a lot, which means there are TVs for buyers at any price point.
+
+
+***
+![There are so many Alexa speakers so let us help you decide which to buy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/amazon-echo-4th-gen-and-echo-dot-4th-gen-2.jpeg "There are so many Alexa speakers so let us help you decide which to buy")
+
+
+[There are so many Alexa speakers so let us help you decide which to buy](https://www.androidcentral.com/best-alexa-speaker)
+
+
+> Amazon first introduced Alexa to us through its original Echo smart speaker in late 2014. To this day, if you're looking for the best Alexa speaker, you're probably going to look first at the company's Echo line of smart speakers. In fact, Amazon recently announced updates to its entire Echo product line, and we will be covering and reviewing each of these new speakers shortly. There are also many great Alexa-enabled speakers are made by other companies such as Bose, Sonos, and Ultimate Ears that you may wish to consider.
+
+
+***
+![German app developer files antitrust complaint against Apple](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/05/app-store-5-19-iphone-xs-max-hero.jpeg "German app developer files antitrust complaint against Apple")
+
+
+[German app developer files antitrust complaint against Apple](https://www.imore.com/german-app-developer-and-foss-patents-founder-files-antitrust-complaint-against-apple)
+
+
+> Source: Joe Keller / iMore German app developer and founder of patent litigation blog FOSS patents, Florian Mueller, has filed antitrust complaints against Apple in several countries after a game he submitted to the App Store was rejected. As reported by Reuters: A German app developer has filed a complaint with European Union antitrust authorities against Google and Apple which he said last year rejected a game aimed at encouraging compliance with government COVID-19 rules... The latest complaint filed with the European Commission came this week from the German app developer Florian Mueller, who is also a lobbyist and blogger and once led a successful campaign against a piece of EU legislation.
+
+
+***
+![Google threatens to withdraw Search from Australia over new media law](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2017/10/google-logo-multi-color-angle-big.jpg "Google threatens to withdraw Search from Australia over new media law")
+
+
+[Google threatens to withdraw Search from Australia over new media law](https://www.androidcentral.com/google-says-it-will-withdraw-search-australia-if-new-media-code-becomes-law)
+
+
+> Source: Android Central Google is threatening to stop making Search available in Australia. Google argues that Australia's proposed News Media Bargaining Code would hurt small businesses, small publishers, and millions of Australian users if it became law. It has proposed technical amendments to the media code, which will allow it to pay publishers for value, without breaking Search. Google has threatened to remove its search engine from Australia if the country's proposed News Media Bargaining Code becomes a law.
+
+
