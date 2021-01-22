@@ -13387,3 +13387,40 @@
 > FILE PHOTO: A 3D printed Google logo is seen in this illustration taken April 12, 2020. REUTERS/Dado Ruvic/Illustration/File Photo SYDNEY (Reuters) - Alphabet Inc's Google said on Friday it would block its search engine in Australia if the government proceeds with a new code that would force it and Facebook Inc to pay media companies for the right to use their content. Google's threat escalates a battle with publishers such as News Corp that is being closely watched around the world. The search giant had warned that its 19 million Australian users would face degraded search and YouTube experiences if the new code were enforced.
 
 
+***
+![Stream films from all over the world with this secure VPN](https://mondrian.mashable.com/2021%252F01%252F22%252F37%252F11e99ee7445a4506a8f8f434bb128040.16fc0.jpg%252F1200x630.jpg?signature=Y7jyUgX9nyU8yRT2UqEQQ8fstrk= "Stream films from all over the world with this secure VPN")
+
+
+[Stream films from all over the world with this secure VPN](https://mashable.com/uk/shopping/jan-22-nord-vpn-deal/)
+
+
+> SAVE 68%: A two-year subscription to NordVPN is on sale for £2.86 per month as of Jan. 22, saving you 68% on list price. Are you looking for more films to stream? Join the club. We're all short on options at the moment, as we've spent the last few months exhausting every option on sites like Netflix and Prime Video. This lack of choice has caused a spike in VPN interest, as these services can bypass geo-restrictions to unblock films from around the world. You can use a VPN to watch all of the content that is normally unavailable in your location, like all the extra shows and films on American Netflix.
+
+
+***
+[Google threatens to shut search engine in Australia if forced to pay for news](https://www.freepressjournal.in/technology/google-threatens-to-shut-search-engine-in-australia-if-forced-to-pay-for-news)
+
+
+> No body in the article.
+
+
+***
+![Save 60% on this secure VPN and private email service bundle](https://mondrian.mashable.com/2021%252F01%252F22%252Fab%252F7d3daa1a64b94a1f9f441bd8c0cdb374.d5ada.png%252F1200x630.png?signature=IbKsnfv9D3xF5oBWO5AzNQASAiE= "Save 60% on this secure VPN and private email service bundle")
+
+
+[Save 60% on this secure VPN and private email service bundle](https://mashable.com/uk/shopping/jan-22-vpn-privacy-bundle/)
+
+
+> TL;DR: The Premium Privacy Bundle is on sale for £32.90 as of Jan. 22, saving you 60% on list price. If you want to protect your information online, it may be time to invest in some new tools. The Premium Privacy Bundle offers one-year subscriptions to two top security solutions — ZenMate VPN and StartMail Private Email Service — and it'll only cost you £32.90. ZenMate is a VPN that uses encryption to secure your passwords and banking information. By hiding your IP address, encrypting traffic, and connecting you to servers from over 77 countries, it helps you browse freely and securely.
+
+
+***
+![Private Internet Access is extending VPN subscriptions for free](https://mondrian.mashable.com/2021%252F01%252F22%252Fe0%252F36668a539717415380198f5a9d39528d.16385.jpg%252F1200x630.jpg?signature=xdJd43LZSBNSworG-V9vS2NOvS4= "Private Internet Access is extending VPN subscriptions for free")
+
+
+[Private Internet Access is extending VPN subscriptions for free](https://mashable.com/uk/shopping/jan-22-private-internet-access-deal/)
+
+
+> SAVE 78%: A two-year subscription to Private Internet Access is on sale for £2.19 per month as of Jan. 22, and includes an extra two months for free. The online world is not free. It's full of censorship, restrictions, and blockades that might not be immediately apparent, but they're there. The most effective way of bypassing these censorships is with a VPN, and Private Internet Access is one of the best services for ensuring your online freedom. Subscribers get fast connection speeds, 10 multi-logins, access to over 25,000 servers in 77 countries, and a whole lot more.
+
+
