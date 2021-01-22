@@ -13771,3 +13771,50 @@
 > WhatsApp's new terms of service and privacy policies have pushed several towards Signal, the much safer alternative to WhatsApp. Ankita Chakravarti | January 22, 2021 | Updated 14:57 IST
 
 
+***
+![Vivo X60 Pro+ launched with Qualcomm Snapdragon 888, quad cameras and more: specs, features and everything to know](https://images.financialexpress.com/2021/01/Vivo-X60-Pro.jpg "Vivo X60 Pro+ launched with Qualcomm Snapdragon 888, quad cameras and more: specs, features and everything to know")
+
+
+[Vivo X60 Pro+ launched with Qualcomm Snapdragon 888, quad cameras and more: specs, features and everything to know](https://www.financialexpress.com/industry/technology/vivo-x60-pro-launched-with-qualcomm-snapdragon-888-quad-cameras-and-more-specs-features-and-everything-to-know/2176658/)
+
+
+> The company has opened pre-booking on the Vivo China store along with other online retailers- Suning, JD, and Tmall.Vivo has launched X60 Pro+ under its X60 series which is powered by the recently introduced Qualcomm Snapdragon 888 SoC. The smartphone launched for Chinese market features a quad rear camera setup and has a single selfie shooter placed inside a hole-punch cutout. The company rolled out a teaser for this latest edition last year in December when it launched Vivo X60 and Vivo X60 Pro smartphones.
+
+
+***
+[The USD is the strongest and the AUD is the weakest as NA traders enter for the day](https://www.forexlive.com/technical-analysis/!/the-usd-is-the-strongest-and-the-aud-is-the-weakest-as-na-traders-enter-for-the-day-20210122)
+
+
+> US stocks down in early trading  The ranges and changes are showing mixed activity. The commodity currencies (CAD, AUD, and NZD) are trending (to the downside) and trade near extremes. The USDJPY and USDCHF have narrow trading ranges at 25 and 23 pips.  The GBPUSD is moving lower and near lows for the day.  The EURUSD
+
+
+***
+![Council Post: Technology Trends That Will Lead The Way In 2021](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg "Council Post: Technology Trends That Will Lead The Way In 2021")
+
+
+[Council Post: Technology Trends That Will Lead The Way In 2021](https://www.forbes.com/sites/forbestechcouncil/2021/01/22/technology-trends-that-will-lead-the-way-in-2021/)
+
+
+> Senior Technical Fellow (former CIO) of  Broadridge Financial Solutions . Bridging the gap between security/technology and sales. Getty As we enter the new year, several promising technologies are poised to lead the way by improving how businesses and consumers use and experience the digital world. Here are some of the most important technologies and the practical solutions they will provide in the year ahead. 5G Networks The fifth generation of the mobile internet is going to bring the kind of speed most people associate with Wi-Fi to uploading and downloading data from remote locations.
+
+
+***
+![Intel reveals higher than expected profits as new CEO takes the helm](https://cdn.mos.cms.futurecdn.net/8zcrXFmwqGhotbwYirbJee-1200-80.jpg "Intel reveals higher than expected profits as new CEO takes the helm")
+
+
+[Intel reveals higher than expected profits as new CEO takes the helm](https://www.techradar.com/news/intel-reveals-higher-than-expected-profits-as-new-ceo-takes-the-helm)
+
+
+> (Image credit: Shutterstock.com / Alexander Tolstykh) Chip manufacturer Intel has revealed impressive financial results, including revenue and profit figures far above industry expectations. Although 2020 would not be considered a stellar business year for Intel in normal circumstances given the huge economic disruption caused by the coronavirus pandemic, the firm can be pleased with its financial results for both Q4 2020 and the year in total. The company revealed that revenue declined by 1% in the fourth quarter to $19.
+
+
+***
+![Google threatens to block Australia from search engine over new media law](https://sm.mashable.com/t/mashable_pk/news/g/googles-ye/googles-year-in-search-was-as-bleak-as-2020_qgtm.1200.jpg "Google threatens to block Australia from search engine over new media law")
+
+
+[Google threatens to block Australia from search engine over new media law](https://pk.mashable.com/tech/7238/google-threatens-to-block-australia-from-search-engine-over-new-media-law)
+
+
+> The search giant, Google, has threatened to block its services in Australia if the government proceeds with the media law that would force it along with Facebook to pay media companies for sharing their content. The threat was given by Mel Silva, the managing director of Google Australia and New Zealand, while he was talking during a Senate inquiry into the bill. Mel said, "If this version of the code were to become law, it would give us no real choice but to stop making Google search available in Australia'.
+
+
