@@ -13424,3 +13424,53 @@
 > SAVE 78%: A two-year subscription to Private Internet Access is on sale for £2.19 per month as of Jan. 22, and includes an extra two months for free. The online world is not free. It's full of censorship, restrictions, and blockades that might not be immediately apparent, but they're there. The most effective way of bypassing these censorships is with a VPN, and Private Internet Access is one of the best services for ensuring your online freedom. Subscribers get fast connection speeds, 10 multi-logins, access to over 25,000 servers in 77 countries, and a whole lot more.
 
 
+***
+![I released Animesion, a framework, for anime (and related) character recognition! It was trained from a subset of Danbooru2018, that we rebranded as DAF:re, and can classify a given image into one of more than 3000 characters! Source code and paper included.](https://external-preview.redd.it/AMmb9FEZUXD6jzPyiuw5JH8G1pn6B1JsJOQVVKcJLec.jpg?auto=webp&s=362a5ce19f5d3be13cb2713d34639aeb753fcc79 "I released Animesion, a framework, for anime (and related) character recognition! It was trained from a subset of Danbooru2018, that we rebranded as DAF:re, and can classify a given image into one of more than 3000 characters! Source code and paper included.")
+
+
+[I released Animesion, a framework, for anime (and related) character recognition! It was trained from a subset of Danbooru2018, that we rebranded as DAF:re, and can classify a given image into one of more than 3000 characters! Source code and paper included.](https://www.reddit.com/r/Python/comments/l2hoql/i_released_animesion_a_framework_for_anime_and/)
+
+
+> For this purpose we revamped an existing dataset, and rebranded it as DAF:re. It contains almost 500 K images divided across 3263 characters, from anime, videogames, and related media. Our best model, ViT (Vision Transformer) L-16 ,with image size 128x128 and batch size 64, achieves to get 85.95% and 94.23% top-1 and top-5 classification accuracies. Sample result: https://github.com/arkel23/animesion/blob/main/classification/results_inference/homura_top.jpg Sample GIF of DAF:re https://j.gifs.com/ROpp10.
+
+
+***
+![Google threatens to block search in Australia if 'pay for news' law is passed](https://cdn.mos.cms.futurecdn.net/4AqmvZtctR5ABQfifqrg5b-1200-80.jpg "Google threatens to block search in Australia if 'pay for news' law is passed")
+
+
+[Google threatens to block search in Australia if 'pay for news' law is passed](https://www.techradar.com/news/google-threatens-to-block-search-in-australia-if-pay-for-news-law-is-passed)
+
+
+> (Image credit: Shutterstock / Tero Vesalainen) Tensions between Google and Australia's Federal Government are continuing to escalate, with the tech giant threatening to pull some of its products from the Australian market entirely if legislation is passed that would require the company to pay Australian news media for the right to link to their content.Mel Silva, the managing director of Google Australia, told an Australian Senate hearing today (January 22), that if the proposed code of conduct was passed, it would force the company to withdraw Google Search from Australia.
+
+
+***
+![VPN Deals 2021: Best discounts, coupons & more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/01/vpn-graphic.jpg "VPN Deals 2021: Best discounts, coupons & more")
+
+
+[VPN Deals 2021: Best discounts, coupons & more](https://www.androidcentral.com/best-vpn-deals)
+
+
+> Trying to find the best VPN can be a struggle on its own, but when you then mix in trying to find the best VPN deal you find yourself down a whole new rabbit hole. You've probably heard a lot about VPNs recently and are already aware of the reasons that you need one, but now you need to find the best price, right? We've looked through hundreds of VPN deals that are out there to bring you only the top options that are actually worth considering. Today's best VPN deals include 49% off ExpressVPN, access to Surfshark VPN for less than $3 per month, and a $17 lifetime license for FastestVPN.
+
+
+***
+![Mercedes-Benz showcases its electric vehicles the EQA 2021](https://techstory.in/wp-content/uploads/2021/01/Screenshot-9-e1611294822408.png "Mercedes-Benz showcases its electric vehicles the EQA 2021")
+
+
+[Mercedes-Benz showcases its electric vehicles the EQA 2021](https://techstory.in/mercedes-benz-showcases-its-electric-vehicles-the-eqa-2021/)
+
+
+> A few days back Mercedes-Benz said that the company is not worried about Tesla coming to India. It very clearly mentioned that Tesla's entry will only normalize the electric cars segment in the country and will actually benefit them. And now the company has given another strong reply to Tesla with the launch of its new EQA 2021 vehicle. The company has posted this SUV as the viable alternative to the Tesla Model Y. Mercedes's target with this launch is to get more customers from the urban market.
+
+
+***
+![Golden Globes host Ricky Gervais roasted Apple for its 'Chinese sweatshops' in front of hordes of celebrities as Tim Cook watched from the audience / Remember This?](https://external-preview.redd.it/5DKjgn4efpWQ7oCTrn9LF2Zq1CxbtGfrJ_oNSzSBvjk.jpg?auto=webp&s=ce5ad5e98aa888a5c6514550bf6727d29536eaf2 "Golden Globes host Ricky Gervais roasted Apple for its 'Chinese sweatshops' in front of hordes of celebrities as Tim Cook watched from the audience / Remember This?")
+
+
+[Golden Globes host Ricky Gervais roasted Apple for its 'Chinese sweatshops' in front of hordes of celebrities as Tim Cook watched from the audience / Remember This?](https://www.reddit.com/r/technology/comments/l2heya/golden_globes_host_ricky_gervais_roasted_apple/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
