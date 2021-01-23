@@ -14156,3 +14156,53 @@
 > In a tweet, the Tesla CEO announced his offer of a $100 million prize to anyone who can develop the "best" technology to capture carbon dioxide emissions.
 
 
+***
+![" Take A Break Notifyer " In Python In Less Tham 10 Lines Of Code](https://external-preview.redd.it/KTI1uWm4MQTOi0dBP_GLKCGNxsRkUpm2Ktwc41gDTs4.jpg?auto=webp&s=fb729c8c763494a482951e426e10dd7829049b97 "" Take A Break Notifyer " In Python In Less Tham 10 Lines Of Code")
+
+
+[" Take A Break Notifyer " In Python In Less Tham 10 Lines Of Code](https://www.reddit.com/r/Python/comments/l33dzm/take_a_break_notifyer_in_python_in_less_tham_10/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Part 1 of how to create an algotrader/trading bot in Python](https://external-preview.redd.it/kq4o0ISpnWX-o5lqU-bWo5KQazRaLESE4hUD8Ko0ZKM.jpg?auto=webp&s=b0081859ab9709fa1b24058b6e299587186ed763 "Part 1 of how to create an algotrader/trading bot in Python")
+
+
+[Part 1 of how to create an algotrader/trading bot in Python](https://www.reddit.com/r/Python/comments/l3393p/part_1_of_how_to_create_an_algotradertrading_bot/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Twitter Bots Are a Major Source of Climate Disinformation. Such accounts can distort online conversations and potentially diminish support for climate policies.](https://external-preview.redd.it/_0Awlk67Zq-ByZR-zYROfrm5mN7V8mVqRJm7R_HpFAw.jpg?auto=webp&s=7735a3e15572058235c6f77c3525555cffbcc043 "Twitter Bots Are a Major Source of Climate Disinformation. Such accounts can distort online conversations and potentially diminish support for climate policies.")
+
+
+[Twitter Bots Are a Major Source of Climate Disinformation. Such accounts can distort online conversations and potentially diminish support for climate policies.](https://www.reddit.com/r/technology/comments/l331k4/twitter_bots_are_a_major_source_of_climate/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![MacBook Pro (retina, mid 2014) restarts twice...something to do with FileVault?](https://images.macrumors.com/social/?t=2281506&v=6 "MacBook Pro (retina, mid 2014) restarts twice...something to do with FileVault?")
+
+
+[MacBook Pro (retina, mid 2014) restarts twice...something to do with FileVault?](https://forums.macrumors.com/threads/macbook-pro-retina-mid-2014-restarts-twice-something-to-do-with-filevault.2281506/)
+
+
+> I recently updated my mid-2014 MacBook Pro (retina) to Big Sur. Since this update, I noticed two odd things when I restart my computer. It takes noticeably longer to actually power back on and start up. Once you hear the noise, see the screen get power, and see the Apple logo, it comes to the startup screen (where I enter my password) pretty fast. However, it only remains on this screen for a few seconds (not enough time to enter my password) before it does another restart by itself (again noticeably longer time to actually power back on) and boots back up to the start up screen.
+
+
+***
+![Advice on fraying magsafe cable](https://forums.macrumors.com/attachments/img-4108-jpg.1717951/ "Advice on fraying magsafe cable")
+
+
+[Advice on fraying magsafe cable](https://forums.macrumors.com/threads/advice-on-fraying-magsafe-cable.2281505/)
+
+
+> I've used my MacbookAir and its cable for 6 years now. The cable on the connector end has just started to fray in this kind of interesting though worrying fashion. Of course, I could just opt to replace it - it's done it's work. However, if I get a new charger, I'm probably going to feel compelled to get another Macbook, and at this stage, I'm not sure if I want to. I'm looking into other fixes for the time being - possibly sugru or heat shrink tubing? Any advice would be greatly appreciated.
+
+
