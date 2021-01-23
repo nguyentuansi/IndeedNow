@@ -14628,3 +14628,50 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Dog Wakes Up To A Lawn Full Of Snow And Has The Best Zoomies Of His Life](https://cdn.digg.com/wp-content/uploads/2021/01/23220929/Screen-Shot-2021-01-23-at-5.09.14-PM.jpg "Dog Wakes Up To A Lawn Full Of Snow And Has The Best Zoomies Of His Life")
+
+
+[Dog Wakes Up To A Lawn Full Of Snow And Has The Best Zoomies Of His Life](https://digg.com/video/dog-wakes-up-to-a-lawn-full-of-snow-and-has-the-best-zoomies-of-his-life)
+
+
+> If you understand how presidential libraries are created, it's hard to see how Trump ever gets it done. Thor is completely ecstatic to run around a yard full of snow. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. How the best smartphone cameras commercially available compare with one another. Well, that and the fact that @POTUS now follows Chrissy Teigen. Need to brush up on the nitty gritty of world history? These maps hold the key to a better understanding of how we got to today.
+
+
+***
+![The Galaxy S20 FE is still the best Samsung phone you can buy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/galaxy-s20-fe-cloud-navy.jpg "The Galaxy S20 FE is still the best Samsung phone you can buy")
+
+
+[The Galaxy S20 FE is still the best Samsung phone you can buy](https://www.androidcentral.com/best-samsung-phones)
+
+
+> Source: Hayato Huseman / Android Central Best Samsung Phones Android Central 2021 Samsung is the biggest phone manufacturer in the world, and with good reason — it makes incredible phones, combining outstanding hardware design with handy features that differentiate its phones. The Galaxy S20 FE is the best Samsung phone you can buy right now for its value and hardware, but there are plenty of other devices that hit different sizes and price points. The Galaxy S20 FE fundamentally changes the value equation for Samsung and is one of the best Android phones you can buy right now.
+
+
+***
+![Facebook Oversight Board Co-Chair On Future Of Trump's Account](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400 "Facebook Oversight Board Co-Chair On Future Of Trump's Account")
+
+
+[Facebook Oversight Board Co-Chair On Future Of Trump's Account](https://www.npr.org/2021/01/23/959985616/facebook-oversight-board-co-chair-on-future-of-trumps-account)
+
+
+> NPR's Michel Martin speaks with Jamal Greene, co-chair of Facebook's independent oversight board, about what will happen next with President Trump's suspended account.
+
+
+***
+[As Starlink builds out its satellite constellation, it is enjoying a very warm reception from the early adopters of its internet service in remote areas (Dana Hull/Bloomberg)](http://www.techmeme.com/210123/p11#a210123p11)
+
+
+> Dana Hull / Bloomberg: As Starlink builds out its satellite constellation, it is enjoying a very warm reception from the early adopters of its internet service in remote areas — - SpaceX's satellite-based service wins over some early adopters — Coverage so far includes rural areas in U.S., Canada and U.K.
+
+
+***
+![Sudden iMac 2017 Sluggishness](https://images.macrumors.com/social/?t=2281593&v=6 "Sudden iMac 2017 Sluggishness")
+
+
+[Sudden iMac 2017 Sluggishness](https://forums.macrumors.com/threads/sudden-imac-2017-sluggishness.2281593/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I've got a 2017 iMac with plenty of horsepower. Seemingly after the latest Big Sur update(approximately), when starting up, it takes 1 to 1.5 minutes after typing in password for desktop icons and toolbar to appear on the screen. Just to get to the password entry it takes 1+ minute to boot. Many other things are sluggish. If this is extra security I could accept that but I'm not sure what is happening.
+
+
