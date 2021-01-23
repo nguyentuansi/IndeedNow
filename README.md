@@ -14206,3 +14206,53 @@
 > I've used my MacbookAir and its cable for 6 years now. The cable on the connector end has just started to fray in this kind of interesting though worrying fashion. Of course, I could just opt to replace it - it's done it's work. However, if I get a new charger, I'm probably going to feel compelled to get another Macbook, and at this stage, I'm not sure if I want to. I'm looking into other fixes for the time being - possibly sugru or heat shrink tubing? Any advice would be greatly appreciated.
 
 
+***
+![Python for Data Science](https://external-preview.redd.it/WbNBnv6_YM1F5PpAo19VsxhS4LBhsi-2mKotHa0zyNU.jpg?auto=webp&s=bbdc43cad824334ecfc147919fed130e7fe87db9 "Python for Data Science")
+
+
+[Python for Data Science](https://www.reddit.com/r/programming/comments/l353s0/python_for_data_science/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Porting Cakelisp to Windows: pitfalls and general advice](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Porting Cakelisp to Windows: pitfalls and general advice")
+
+
+[Porting Cakelisp to Windows: pitfalls and general advice](https://www.reddit.com/r/programming/comments/l353ib/porting_cakelisp_to_windows_pitfalls_and_general/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Loch Ness mystery solved? Scientist says Nessie is 'trapped' ancient sea turtle](https://www.thesun.co.uk/wp-content/uploads/2021/01/comp-mb-nessie-19121.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Loch Ness mystery solved? Scientist says Nessie is 'trapped' ancient sea turtle")
+
+
+[Loch Ness mystery solved? Scientist says Nessie is 'trapped' ancient sea turtle](https://www.thesun.co.uk/tech/13783791/loch-ness-monster-ancient-sea-turtle/)
+
+
+> THE INFAMOUS Loch Ness Monster could have been an ancient sea turtle, according to a top scientist. Scotland's most famous mystery creature has recently been described as a kind of undiscovered sea turtle that became trapped in the Loch. The Loch Ness monster is Britain's greatest unsolved mystery. This 1934 photo of the beast was later proved to be a hoax, created using a toy submarine and a carved monster head Credit: AP:Associated Press Professor Henry Bauer's research suggests the turtle may have become trapped in the Loch when water levels reduced at the end of the most recent Ice Age.
+
+
+***
+![Realme X50 5G Master Edition](https://vijaykarnataka.com/thumb/msid-80411071,width-1200,height-630/pic.jpg "Realme X50 5G Master Edition")
+
+
+[Realme X50 5G Master Edition](https://vijaykarnataka.com/tech/mobile-phones/realme-x50-5g-master-edition)
+
+
+> ಸಾರಾಂಶ ಪರ್ಫಾಮೆನ್ಸ್‌ Qualcomm Snapdragon 765G ಡಿಸ್‌ಪ್ಲೇ 6.57 inches (16.69 cm) ಸ್ಟೋರೇಜ್‌ 256 GB ಕ್ಯಾಮರಾ 64 MP + 8 MP + 12 MP + 2 MP ಬ್ಯಾಟರಿ 4200 mAh price in_india 32000 ರ‍್ಯಾಮ್ 12GB, 12 GB ಪ್ರಮುಖ ವಿಶೇಷತೆ ಫ್ರಂಟ್ ಕ್ಯಾಮರಾ 16 MP + 8 MP ಬ್ಯಾಟರಿ 4200 mAh ಪ್ರೋಸೆಸರ್ Qualcomm Snapdragon 765G ರ‍್ಯಾಮ್ 12GB rear camera 64 MP + 8 MP + 12 MP + 2 MP ಡಿಸ್‌ಪ್ಲೇ 6.57 inches ಸ್ಪೆಶಲ್ ಫೀಚರ್ಸ್ ಇತರ ಸೆನ್ಸರ್ Geomagnetic Sensor, Light Sensor, Proximity Sensor, Gyroscope, Acceleration Sensor ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ Yes ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್_ಪೊಸಿಶನ್ Side ಸಾಮಾನ್ಯ ವಿವರ ಕ್ವಿಕ್ ಚಾರ್ಜಿಂಗ್ Yes ಓಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ Android v10 (Q) ಸಿಮ್‌ ಸ್ಲಾಟ್ಸ್ Dual SIM, GSM+GSM ಮಾದರಿ X50 5G Master Edition ಲಾಂಚ್ ಡೇಟ್ January 31, 2021 (Expected) ಕಸ್ಟಂ ಯುಐ ColorOS price in_india Rs.
+
+
+***
+![TikTok is adding a Q&A feature](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/tiktok_230121-seo.jpg "TikTok is adding a Q&A feature")
+
+
+[TikTok is adding a Q&A feature](https://www.malaymail.com/news/tech-gadgets/2021/01/23/tiktok-is-adding-a-qa-feature/1943224)
+
+
+> The new question-and-answer feature should be offered to other creators in the coming weeks, TikTok said. ― AFP pic SAN FRANCISCO, Jan 23 ― The application of the moment, Tiktok is testing a feature that will not be unfamiliar to users of various websites ― that of the question-and-answer format through a tab that, for the moment, is available for use by some creators. An easier way to centralise the questions asked by users while stimulating their engagement on the platform. Answering a question about your TikTok account and posts will soon be even easier and more convenient for creators.
+
+
