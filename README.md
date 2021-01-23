@@ -14350,3 +14350,50 @@
 > Cyber-safety experts have sounded the alarm over vulnerabilities in popular gaming platform Roblox that could leave children exposed to sexually suggestive content.
 
 
+***
+[A look at the Beijing Academy of Artificial Intelligence, a government-sponsored research lab, and its work on a new language model similar to GPT-3 (Will Knight/Wired)](http://www.techmeme.com/210123/p6#a210123p6)
+
+
+> Will Knight / Wired: A look at the Beijing Academy of Artificial Intelligence, a government-sponsored research lab, and its work on a new language model similar to GPT-3 — China produces as many artificial intelligence researchers as the US, but it lags in key fields like machine learning. The government hopes to make up ground.
+
+
+***
+![Best Netflix movies: the 30 best films you can stream right now](https://cdn.mos.cms.futurecdn.net/tmbfyCTz3HskFykhXN7aYa-1200-80.jpg "Best Netflix movies: the 30 best films you can stream right now")
+
+
+[Best Netflix movies: the 30 best films you can stream right now](https://www.techradar.com/best/best-netflix-movies)
+
+
+> Want to watch the best Netflix movies? Every week, we update this list of the best movies on Netflix with additional fantastic films, ensuring you've got a healthy selection of cool stuff to stream. Netflix's best movies include some of its biggest and most acclaimed originals, like The Irishman and Marriage Story, as well as a selection of features it's licensed from elsewhere, like Snowpiercer and The Social Network.While Netflix has tons of competition for great movies as of 2021 – HBO Max has an enviable library of amazing films, while Disney Plus is the exclusive home of Star Wars and Marvel – the biggest streaming service in the world still has what it takes to compete.
+
+
+***
+![TikTok blocked in Italy after 10-year-old girl dies in blackout challenge](https://www.imore.com/sites/imore.com/files/styles/large/public/article_images/2019/11/tiktok-logo2-jks-jks-jks-jks-jks-jks-jks.jpg "TikTok blocked in Italy after 10-year-old girl dies in blackout challenge")
+
+
+[TikTok blocked in Italy after 10-year-old girl dies in blackout challenge](https://www.imore.com/tiktok-blocked-italy-after-10-year-old-girls-dies-blackout-challenge)
+
+
+> Source: TikTok Access to TikTok in Italy has been blocked for users who cannot definitely prove their age following the tragic death of a young girl taking part in a "blackout challenge". The girl's death, first reported by ANSA took place on Thursday. From the report: A 10-year-old Italian girl was declared brain dead by a Palermo hospital Thursday after taking the Blackout Challenge on TikTok. Her parents have OK'd donating the organs of the girl, who tied a belt around her throat to self-asphyxiate in the challenge on the popular social-media platform.
+
+
+***
+![Amazon Echo deals: save on Echo Dot, Show, Buds and more this weekend](https://cdn.mos.cms.futurecdn.net/unCkvxeasYyvaxFxXRfmKS-1200-80.jpg "Amazon Echo deals: save on Echo Dot, Show, Buds and more this weekend")
+
+
+[Amazon Echo deals: save on Echo Dot, Show, Buds and more this weekend](https://www.techradar.com/news/amazon-echo-deals-save-on-echo-dot-show-buds-and-more-this-weekend)
+
+
+> (Image credit: Future) If you missed out on the massive Amazon Echo deals of last year, you've got another chance to scoop up some excellent prices this weekend. Amazon has discounted its own range of smart home products, cutting as much as £30 off its collection of smart speakers and displays. That means you'll be able to kit out your smart home for less right now, saving plenty of cash in the process. The previous generation Echo Dot is currently £25 off, sitting at just £24.99 - but for £10 more you can upgrade to the fourth generation, now available for £34.
+
+
+***
+![Easy OS 2.4.1](https://cdn.mos.cms.futurecdn.net/fNBrJBNaYGwCs5qUjm5EzA-1200-80.jpg "Easy OS 2.4.1")
+
+
+[Easy OS 2.4.1](https://www.techradar.com/reviews/easy-os)
+
+
+> Puppy Linux is a veteran distro. Well actually, it isn't so much a distro these days as a treatment that you can give to existing Linux distros.Anyway, whatever it is, it was originally created back in 2003 by Barry Kauler with the goals of being lightweight yet complete. It's under new stewardship now, but still holds true to those ideals.EasyOS has, for the last three years, been Kauler's pet project in which he takes Puppy Linux and introduces his own take on containers. We're going to look at the recently released version based on Debian Buster.
+
+
