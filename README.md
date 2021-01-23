@@ -14397,3 +14397,50 @@
 > Puppy Linux is a veteran distro. Well actually, it isn't so much a distro these days as a treatment that you can give to existing Linux distros.Anyway, whatever it is, it was originally created back in 2003 by Barry Kauler with the goals of being lightweight yet complete. It's under new stewardship now, but still holds true to those ideals.EasyOS has, for the last three years, been Kauler's pet project in which he takes Puppy Linux and introduces his own take on containers. We're going to look at the recently released version based on Debian Buster.
 
 
+***
+![Maruti Suzuki, Mahindra and Mahindra offering big discounts on 15 various cars](https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cars-india_202101549692.jpg "Maruti Suzuki, Mahindra and Mahindra offering big discounts on 15 various cars")
+
+
+[Maruti Suzuki, Mahindra and Mahindra offering big discounts on 15 various cars](https://english.lokmat.com/photos/technology/maruti-suzuki-mahindra-and-mahindra-offering-big-discounts-on-15-various-cars/)
+
+
+> The year 2020 is said to be a very bad year for the automobile sector. However, now the automobile sector is slowly gaining momentum, it is said. Competition in the automobile sector has also increased. Big foreign brands are now flocking to India, launching new cars. Mahindra Alturas G4 is being discounted up to Rs. 3.06 lakh. It also includes a cash discount of Rs 2.20 lakh and an exchange bonus of up to Rs 50,000. In addition, the car has a corporate bonus of up to Rs 16,000 and a maximum of Rs.
+
+
+***
+[PM Directs His Cabinet to Bring Down Food Prices Before Ramadan](https://www.researchsnipers.com/pm-directs-his-cabinet-to-bring-down-food-prices-prior-to-ramadan/)
+
+
+> Research Snipers To accommodate everyone in the holy month of Ramadan, the PM of Pakistan directed his cabinet to bring down prices of essential commodities. The post PM Directs His Cabinet to Bring Down Food Prices Before Ramadan appeared first on Research Snipers.
+
+
+***
+![Twitter relaunches profile verification process](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-23_at_5_1200_210123173550.21.-483x271.png "Twitter relaunches profile verification process")
+
+
+[Twitter relaunches profile verification process](https://www.indiatoday.in/technology/news/story/twitter-relaunches-profile-verification-process-1762045-2021-01-23)
+
+
+> Twitter had stopped verifying accounts on November 16, 2017, following the outrage over the verification of the profile of a white supremacist. Ankita Chakravarti | January 23, 2021 | Updated 17:25 IST
+
+
+***
+![And now, a reading from an email according to St. Paul](https://apicms.thestar.com.my/uploads/images/2021/01/23/1018972.JPG "And now, a reading from an email according to St. Paul")
+
+
+[And now, a reading from an email according to St. Paul](https://www.thestar.com.my/tech/tech-news/2021/01/23/and-now-a-reading-from-an-email-according-to-st-paul)
+
+
+> Pope Francis leads the Angelus prayer on Epiphany, amid the coronavirus disease (COVID-19) outbreak, at the Vatican, January 6, 2021. Vatican Media/­Handout via REUTERS/Files VATICAN CITY (Reuters) - If he were alive today, even St. Paul would be texting, Tweeting and firing off emails to get the news out, Pope Francis said on Saturday in his message for the Roman Catholic Church's World Day of Social Communication.St. Paul, who lived in the first century of the Christian era, spread the new faith into Europe and Asia Minor and is believed to have written a great part of the New Testament.
+
+
+***
+![[D] How does the human brain work? Neurobio recommendations thread](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] How does the human brain work? Neurobio recommendations thread")
+
+
+[[D] How does the human brain work? Neurobio recommendations thread](https://www.reddit.com/r/MachineLearning/comments/l3azkj/d_how_does_the_human_brain_work_neurobio/)
+
+
+> The human mind is a decent AI, and the brain is a nice dedicated hardware. Not without faults, but maybe we can a learn a few things from it. As a ML researcher / practitioner, which books and articles on the topic would you recommend? Why? My recommendations:
+
+
