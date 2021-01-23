@@ -14306,3 +14306,47 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![[D] Please suggest to me some end-to-end project ideas in Market-Basket-Analysis](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] Please suggest to me some end-to-end project ideas in Market-Basket-Analysis")
+
+
+[[D] Please suggest to me some end-to-end project ideas in Market-Basket-Analysis](https://www.reddit.com/r/MachineLearning/comments/l38b6m/d_please_suggest_to_me_some_endtoend_project/)
+
+
+> Dear people of Reddit, I am currently doing an online course on ML and I have to do an end-to-end capstone project as a part of the course. It would be helpful for me if you could provide me some ideas. The following are my requirements : Base Topic- Market Basket Analysis. An extension on top of this would be suggested. Dealing with large data so that I can also try to work on Big Data toolchains. If there are any extensions where I can use Computer Vision or NLP or any other tech on top of my base topic, please let me know any use cases.
+
+
+***
+[kamera Electronic Traffic Law Enforcement (ETLE)](https://www.tribunnews.com/tag/kamera-electronic-traffic-law-enforcement-etle)
+
+
+> No body in the article.
+
+
+***
+![Facebook oversight board to keep Trump judges anonymous after activists issue threats](https://www.telegraph.co.uk/content/dam/technology/2021/01/22/TELEMMGLPICT000164346928_trans_NvBQzQNjv4BqmG5OlzRu1eUhSMixiHU5fPLl60VwZm8WgUVBNnKb0UQ.jpeg?impolicy=logo-overlay "Facebook oversight board to keep Trump judges anonymous after activists issue threats")
+
+
+[Facebook oversight board to keep Trump judges anonymous after activists issue threats](https://www.telegraph.co.uk/technology/2021/01/23/facebook-oversight-board-keep-trump-judges-anonymous-activists/)
+
+
+> The names of the five experts judging Facebook's decision to suspend President Donald Trump will be kept secret as allies and opponents of the former president gear up for a pressure campaign. The Facebook Oversight Board, an independent "supreme court" set up by the social media giant to review its decisions, confirmed on Thursday that it will not disclose the identities of the board members charged with hearing Mr Trump's case . A spokesman said that the five case panellists, whose ruling must be confirmed by the full board, will remain anonymous in order to protect them from security threats and attempts at lobbying them individually, as is the board's policy for all cases.
+
+
+***
+![[D] Those with experience training on the cloud or tracking experiments](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] Those with experience training on the cloud or tracking experiments")
+
+
+[[D] Those with experience training on the cloud or tracking experiments](https://www.reddit.com/r/MachineLearning/comments/l3885s/d_those_with_experience_training_on_the_cloud_or/)
+
+
+> So I've been worked on various machine learning experiments - in both academic and industry roles - and was consistently bugged by how hard it was to train models on GPU boxes. You have to set up a cloud compute account, ssh into some box, move files around with git, and figure out how log and track the results of a training run... I have yet to find good options on the market (have looked at anyscale, determined, databricks, etc.) so I wrote some software to do what I wanted and decided to turn it into a venture.
+
+
+***
+[‘Sometimes I experience nothing, other times it's rampant': Sexual material warning on Roblox](https://www.watoday.com.au/technology/sometimes-i-experience-nothing-other-times-it-s-rampant-sexual-material-warning-on-roblox-20210123-p56wcq.html?ref=rss&utm_medium=rss&utm_source=rss_feed)
+
+
+> Cyber-safety experts have sounded the alarm over vulnerabilities in popular gaming platform Roblox that could leave children exposed to sexually suggestive content.
+
+
