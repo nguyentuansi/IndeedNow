@@ -14578,3 +14578,53 @@
 > The House impeached Trump again -- here's what that means. Screenshot by Corinne Reichert/CNET The Senate's impeachment trial of Former President Donald Trump will begin the week of February 8, Senate Majority Leader Chuck Schumer said Friday, with the oral arguments beginning Tuesday, Feb. 9. The House of Representatives will deliver the single article of impeachment at 7pm ET on Monday, for "incitement of insurrection," House Speaker Nancy Pelosi said Friday -- that gives both House prosecutors and Trump's defense team time to prepare.
 
 
+***
+![Australia's cheapest EV: can it survive a week of on-street parking and one very sandy dog?](https://i.guim.co.uk/img/media/aa925976d214396b98630bd148be933184119747/0_418_6265_3759/master/6265.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f58e3220c0d94bc7863354c789af509 "Australia's cheapest EV: can it survive a week of on-street parking and one very sandy dog?")
+
+
+[Australia's cheapest EV: can it survive a week of on-street parking and one very sandy dog?](http://www.theguardian.com/environment/2021/jan/24/australias-cheapest-ev-can-it-survive-a-week-of-on-street-parking-and-one-very-sandy-dog)
+
+
+> T he big question facing a lot of prospective electric car owners is: will it make my life easier or harder? It's a question that I desperately want to answer. As the owner of a VW Tiguan with a dirty secret (the company lied about how bad its emissions were and misled regulators) I am more than ready to embrace the new era of zero-emission cars. But I was not convinced that any electric vehicle on the market would cope with my life – city bound, apartment dwelling, with two kids and a large, often very sandy and badly-behaved dog.
+
+
+***
+![Email spammer](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Email spammer")
+
+
+[Email spammer](https://www.reddit.com/r/Python/comments/l3jh1d/email_spammer/)
+
+
+> import smtplib, ssl, csv, time, datetime, random, string, email c = 0 while c < 5: # Increase the number as much as you like, it is the # of emails that will be sent port = 587 smtp_server = "smtp.gmail.com" receiver_email = "@gmail.com" # Target here subject = "Subject:" + "".join(random.choice(string.ascii_uppercase) for i in range(8)) message = subject + " Suckit" # Here you can change the content of the message, but do not remove the " " context = ssl.create_default_context() with smtplib.SMTP(smtp_server, port) as server: server.
+
+
+***
+![Britain's biggest microchip factory plots £50m expansion amid global shortage](https://www.telegraph.co.uk/content/dam/technology/2021/01/23/TELEMMGLPICT000246433684_trans_NvBQzQNjv4BqZHrTyqqLjLkPKjc3TsrXSSooe0IxaCyVBdsVei4rh_Q.jpeg?impolicy=logo-overlay "Britain's biggest microchip factory plots £50m expansion amid global shortage")
+
+
+[Britain's biggest microchip factory plots £50m expansion amid global shortage](https://www.telegraph.co.uk/technology/2021/01/23/britainsbiggest-microchip-factory-plots-50m-expansion-amid-global/)
+
+
+> Britains biggest microchip factory plans to cash in on a global semiconductor shortage by raising more than £50m in an effort to nearly double production. Newport Wafer Fab, in South Wales, said it would use the investment to raise production levels to 14,000 wafers a week, up from 8,000 today. It follows record orders for the company's power supply chips, which are in demand from the car industry amid an intense supply shortage that has seen several car companies suspend production. The company, which has around 450 employees, is the biggest of a cluster of chip makers around Cardiff.
+
+
+***
+![Review: Fauna audio sunglasses get a few things right, but still fall short when it comes to sound](https://photos5.appleinsider.com/gallery/39942-76776-header-xl.jpg "Review: Fauna audio sunglasses get a few things right, but still fall short when it comes to sound")
+
+
+[Review: Fauna audio sunglasses get a few things right, but still fall short when it comes to sound](https://appleinsider.com/articles/21/01/23/review-fauna-audio-sunglasses-get-a-few-things-right-but-still-fall-short-when-it-comes-to-sound)
+
+
+> Fauna has hit the market with their own version of Bose Frame-like audio sunglasses and fashion glasses, and we took a look at them to see if they're worth the price.Audio eyewear may sound strange to some, but for others, it's a game-changer. For example — if you're a parent to a young child, sitting around your home with earphones in may prevent you from hearing your child getting into something they shouldn't. Or maybe you like to listen to music while riding your bike — if you wear audio eyewear, your ears are left open to hear potential danger, but you can still enjoy your favorite podcasts or audiobooks.
+
+
+***
+![Email promotion](https://external-preview.redd.it/tjXpG7kfl4a7ZQPUHZrPgRILX-cGo59co9yZabJtF10.jpg?auto=webp&s=6afba654396a3d2776f71b597f11876d909af848 "Email promotion")
+
+
+[Email promotion](https://www.reddit.com/r/Python/comments/l3jby0/email_promotion/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
