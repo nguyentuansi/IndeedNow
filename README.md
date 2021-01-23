@@ -14444,3 +14444,53 @@
 > The human mind is a decent AI, and the brain is a nice dedicated hardware. Not without faults, but maybe we can a learn a few things from it. As a ML researcher / practitioner, which books and articles on the topic would you recommend? Why? My recommendations:
 
 
+***
+![Watch SpaceX launch its first dedicated rideshare mission live, carrying a record-breaking number of satellites – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/Trans1-3686.jpg?w=600 "Watch SpaceX launch its first dedicated rideshare mission live, carrying a record-breaking number of satellites – TechCrunch")
+
+
+[Watch SpaceX launch its first dedicated rideshare mission live, carrying a record-breaking number of satellites – TechCrunch](https://techcrunch.com/2021/01/23/watch-spacex-launch-its-first-dedicated-rideshare-mission-live-carrying-a-record-breaking-number-of-satellites/)
+
+
+> SpaceX is set to launch the very first of its dedicated rideshare missions – an offering it introduced in 2019 that allows small satellite operators to book a portion of a payload on a Falcon 9 launch. SpaceX's rocket has a relatively high payload capacity compared to the size of many of the small satellites produced today, so a rideshare mission like this offers smaller companies and startups a chance to get their spacecraft in orbit without breaking the bank. The cargo capsule atop the Falcon 9 flying today holds a total of 133 satellites according to SpaceX, which is a new record for the highest number of satellites being launched on a single rocket – beating out a payload of 104 spacecraft delivered by Indian Space Research Organization's PSLV-C37 launch back in February 2017.
+
+
+***
+![Apple Watch + Music + Workout = 45 minute battery life](https://images.macrumors.com/social/?t=2281550&v=6 "Apple Watch + Music + Workout = 45 minute battery life")
+
+
+[Apple Watch + Music + Workout = 45 minute battery life](https://forums.macrumors.com/threads/apple-watch-music-workout-45-minute-battery-life.2281550/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Sep 3, 2018 355 290 Philadelphia Suburbs I've had the AW since AW2. Over the years and with several versions of the watch my fully charged watch will lose power after roughly 45 min to 1 hour using music & workout features simultaneously. Does anyone have suggestions re: keeping this going longer? I'm not sure what to features to turn off but would like to take longer walks/jogs without losing power.
+
+
+***
+![Three steps to recover lost data from a formatted hard drive](https://storage.googleapis.com/gcs.thesouthafrican.com/2021/01/a067b603-three-steps-to-recover-lost-data-from-a-formatted-hard-drive.jpg "Three steps to recover lost data from a formatted hard drive")
+
+
+[Three steps to recover lost data from a formatted hard drive](https://www.thesouthafrican.com/technology/three-steps-to-recover-lost-data-from-a-formatted-hard-drive/)
+
+
+> (Partner Content) Almost every individual dealing with hard drives strives to know methods to recover lost data from their hard drive. In this guide, we will be using only three steps to get back your data from the formatted hard drive. We will also be discussing the situations when data recovery is doable.
+
+
+***
+![The history of LGBTQ+ visual novels](https://cdn.mos.cms.futurecdn.net/H4rr5aGUaXECexWjPcUMqS-1200-80.jpg "The history of LGBTQ+ visual novels")
+
+
+[The history of LGBTQ+ visual novels](https://www.techradar.com/news/the-history-of-lgbtq-visual-novels)
+
+
+> LGBTQ+ Gaming Week 2021(Image credit: TechRadar / R Healey Art)Welcome to TechRadar's LGBTQ+ Gaming Week 2021. During this week-long celebration, we're highlighting topics and voices within the LGBTQ+ gaming community. Find out more here.Despite an increase in the number of LGBTQ+ characters in AAA video games, including Ellie in The Last of Us and Chloe in Life is Strange, there are still not many. LGBTQ+ people have often looked to indie games to see queer stories – and when it comes to the queer indie scene there's one genre that's king.
+
+
+***
+![Why smartwatches won't ever replace my humble wristwatch](https://cdn.mos.cms.futurecdn.net/5bMDMFzgWVzYNyRvsg373j-1200-80.jpg "Why smartwatches won't ever replace my humble wristwatch")
+
+
+[Why smartwatches won't ever replace my humble wristwatch](https://www.techradar.com/news/why-smartwatches-wont-ever-replace-my-humble-wristwatch)
+
+
+> It's not often that Conor McGregor inspires the writing of a tech article. Often brash and expletive-laden, the exploits of Ireland's maverick martial artist are usually best left to the disposable pages of the tabloids. But seriously, did you *see* his latest watch? Supposedly a bejewelled representation of the night sky, McGregor's $1million (£740,000) timepiece is cut from a 288-facet spherical diamond and reflects every ray of incoming light, illuminating the night sky of its glass dome. Honestly, it looks like the Golden Compass on steroids — ostentatiousness personified.
+
+
