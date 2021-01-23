@@ -14115,3 +14115,44 @@
 > Facebook has removed more than 78,000 profiles on both Facebook and Instagram that violated its policies against posting content related to QAnon conspiracy theories and militarized social movements between August 2020 and Jan. 12, 2021. The company, which owns Instagram, has also removed more than 37,000 Facebook pages, groups and events related to QAnon and militarized social movements. Facebook has identified more than 890 militarized social movements since August. Ticker Security Last Change Change % FB FACEBOOK INC.
 
 
+***
+![This 65-inch Samsung QLED TV is packed with premium features—and it's on sale](https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2020/06/30/USATODAY/usatsports/Samsung-QN65Q60TAFXZA-Q60T-Hero.jpg?width=1272&height=716&fit=crop&format=pjpg&auto=webp "This 65-inch Samsung QLED TV is packed with premium features—and it's on sale")
+
+
+[This 65-inch Samsung QLED TV is packed with premium features—and it's on sale](https://www.usatoday.com/story/tech/reviewedcom/2021/01/22/samsung-qled-tv-get-premium-feature-packed-television-less/6675596002/)
+
+
+> Christine Persaud — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. If you've been thinking of upgrading a TV in your main viewing area, bedroom or den, Best Buy is about to make your day. Whether you're looking to watch the big game or binge-watch season 1 of Bridgerton, this 65-inch Samsung QLED Q60T series 4K UHD smart Tizen TV is a solid, premium-packed option—and it's currently $100 off at the tech-centric retailer.
+
+
+***
+[Signal 'copies' several WhatsApp features amid new user surge](https://www.freepressjournal.in/tech/signal-copies-several-whatsapp-features-amid-new-user-surge)
+
+
+> No body in the article.
+
+
+***
+[Feds: Man in Capitol attack tried to flee to Switzerland](https://abcnews.go.com/Technology/wireStory/feds-man-capitol-attack-flee-switzerland-75436190)
+
+
+> NEW YORK -- A Colorado geophysicist accused of dragging a police officer down steps to be beaten by an American flag outside the U.S. Capitol on Jan. 6 was ordered held without bail Friday after a prosecutor said the man afterward tried to flee to Switzerland and commit suicide. U.S. Magistrate Judge Andrew Krause, based in White Plains, said during an electronic hearing that he found the alleged actions by Jeffrey Sabol, a 51-year-old born in Utica, New York, 'beyond the pale and it is troubling to a degree that is really .
+
+
+***
+![Visible finally supports 5G for Android smartphones, but there's a catch](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/12/visible-not-compatible-desk.jpg "Visible finally supports 5G for Android smartphones, but there's a catch")
+
+
+[Visible finally supports 5G for Android smartphones, but there's a catch](https://www.androidcentral.com/visible-finally-supports-5g-its-network-theres-catch)
+
+
+> Source: Samuel Contreras / Android Central Android devices on Visible now support 5G through Verizon's network, at no extra cost to its subscribers. Samsung's Galaxy S20 models are the only supported Android phones for the 5G network, joining the Apple iPhone 12. 5G speeds on Visible are capped at just 200Mbps, which is much less than the 900Mbps+ that Verizon's 5G speeds claim to hit. Visible is the low-cost, pre-paid MVNO carrier that utilizes Verizon's network in order to serve its subscribers.
+
+
+***
+[Elon Musk offers $100 million prize for best carbon capture technology](https://abc30.com/technology/elon-musk-offers-$100m-prize-for-best-carbon-capture-tech/9916047/)
+
+
+> In a tweet, the Tesla CEO announced his offer of a $100 million prize to anyone who can develop the "best" technology to capture carbon dioxide emissions.
+
+
