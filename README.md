@@ -14531,3 +14531,50 @@
 > Enlarge / Hacker attacking server or database. Network security, Database secure and personal data protection DDoS-for-hire services are abusing the Microsoft Remote Desktop Protocol to increase the firepower of distributed denial-of-service attacks that paralyze websites and other online services, a security firm said this week. Typically abbreviated as RDP, Remote Desktop Protocol is the underpinning for a Microsoft Windows feature that allows one device to log into another device over the Internet.
 
 
+***
+![Best OnePlus Deals for January 2021: $50 off OnePlus Nord N10 and more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/05/oneplus-7-pro-3.jpg "Best OnePlus Deals for January 2021: $50 off OnePlus Nord N10 and more")
+
+
+[Best OnePlus Deals for January 2021: $50 off OnePlus Nord N10 and more](https://www.androidcentral.com/best-oneplus-phone-deals)
+
+
+> Deals on Apple iPhone devices and Samsung Galaxy phones are everywhere, but it's a bit more difficult to find a great deal on a OnePlus device. There are plenty of current OnePlus models to choose from, and whether you want a OnePlus 8, or a OnePlus 7 Pro, or one of the more affordable OnePlus Nord devices is the first big question you'll need to answer for yourself. Purchasing the OnePlus Nord N10 directly at OnePlus can save you $50 off its regular price for a limited time! You can also save on accessories by bundling them with the purchase.
+
+
+***
+![Logged out of Facebook? Company blames configuration change for logouts but says issue has been fixed](https://www.gannett-cdn.com/presto/2021/01/16/USAT/610a7b60-926a-4aa5-a3ba-179165dd088b-AP_Europe_Facebook_Privacy.jpg?crop=5759,3240,x0,y292&width=3200&height=1680&fit=bounds "Logged out of Facebook? Company blames configuration change for logouts but says issue has been fixed")
+
+
+[Logged out of Facebook? Company blames configuration change for logouts but says issue has been fixed](https://www.usatoday.com/story/tech/2021/01/23/facebook-outage-users-logged-out/6684643002/)
+
+
+> CLOSE Facebook is encouraging employees to refrain from wearing company branded merchandise at this time. Buzz60"Why am I logged out of Facebook?" The question ricocheted around the internet as an untold number of people across the nation found themselves logged out of their apps Friday night.If this happened to you, you are not alone.Users flocked to Twitter with the hashtags #SoFacebook and #FacebookDown quickly becoming a top trending topic in the United States.Facebook blamed a configuration change for logouts and confirmed to USA TODAY that some users had experienced problems.
+
+
+***
+![Issue when I try to set an external ssd disk as bots me drive](https://images.macrumors.com/social/?t=2281576&v=6 "Issue when I try to set an external ssd disk as bots me drive")
+
+
+[Issue when I try to set an external ssd disk as bots me drive](https://forums.macrumors.com/threads/issue-when-i-try-to-set-an-external-ssd-disk-as-bots-me-drive-sderrordomain-error-104.2281576/)
+
+
+> Feb 10, 2013 43 3 Athens,Greece I have an iMac mid 2015 and I installed Big Sur in external ssd , but when I try to set it as a bootable drive from settings I get this error , sderrordomain error 104. Any advices ?
+
+
+***
+[Legislator mocks trans Biden nominee on Facebook, apologizes](https://www.mymotherlode.com/news/technology/1497521/legislator-mocks-trans-biden-nominee-on-facebook-apologizes.html)
+
+
+> A Pennsylvania legislator has issued a general apology after he shared an image on Facebook mocking the appearance of Pennsylvania's recently departed health secretary
+
+
+***
+![Impeaching Trump: Senate impeachment trial will start Feb 9. Everything to know](https://cnet3.cbsistatic.com/img/v0P2nnZlE_0fZeOJI2OlkoD0x3s=/1200x630/2020/05/29/c8bb4815-0efa-4558-b1b9-7e7122d939ee/screen-shot-2020-05-29-at-12-29-18-pm.png "Impeaching Trump: Senate impeachment trial will start Feb 9. Everything to know")
+
+
+[Impeaching Trump: Senate impeachment trial will start Feb 9. Everything to know](https://www.cnet.com/how-to/impeaching-trump-senate-impeachment-trial-will-start-feb-9-everything-to-know/)
+
+
+> The House impeached Trump again -- here's what that means. Screenshot by Corinne Reichert/CNET The Senate's impeachment trial of Former President Donald Trump will begin the week of February 8, Senate Majority Leader Chuck Schumer said Friday, with the oral arguments beginning Tuesday, Feb. 9. The House of Representatives will deliver the single article of impeachment at 7pm ET on Monday, for "incitement of insurrection," House Speaker Nancy Pelosi said Friday -- that gives both House prosecutors and Trump's defense team time to prepare.
+
+
