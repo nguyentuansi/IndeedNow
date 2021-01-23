@@ -14256,3 +14256,53 @@
 > The new question-and-answer feature should be offered to other creators in the coming weeks, TikTok said. ― AFP pic SAN FRANCISCO, Jan 23 ― The application of the moment, Tiktok is testing a feature that will not be unfamiliar to users of various websites ― that of the question-and-answer format through a tab that, for the moment, is available for use by some creators. An easier way to centralise the questions asked by users while stimulating their engagement on the platform. Answering a question about your TikTok account and posts will soon be even easier and more convenient for creators.
 
 
+***
+![Samsung Galaxy S21 Ultra review: Dark knight rises](https://images.financialexpress.com/2021/01/s21main.jpg "Samsung Galaxy S21 Ultra review: Dark knight rises")
+
+
+[Samsung Galaxy S21 Ultra review: Dark knight rises](https://www.financialexpress.com/industry/technology/samsung-galaxy-s21-ultra-review-dark-knight-rises/2176924/)
+
+
+> Galaxy S21 Ultra price in India starts at Rs 1,05,999. (Photo credit: Saurabh Singh/Financial Express)The Galaxy S21 Ultra is hallmark Samsung. It is also peak Samsung. But most importantly, it is a return to form for Samsung.You've got to give props to Samsung for not giving up on its ‘ultra' ambitions just because the last one(s) didn't exactly set the stage on fire. But that's just how Samsung is. It simply refuses to give up on something it believes has potential. Maybe it has access to another—a higher—dimension or something, but clearly, it sees something you and I, can't.
+
+
+***
+![EU lawmakers want Amazon, Apple, Facebook, Google CEOs at Feb 1 hearing](https://images.indianexpress.com/2021/01/71143ed0-413a-4d23-93a1-9f4bb6b6d56a.jpg "EU lawmakers want Amazon, Apple, Facebook, Google CEOs at Feb 1 hearing")
+
+
+[EU lawmakers want Amazon, Apple, Facebook, Google CEOs at Feb 1 hearing](https://indianexpress.com/article/technology/tech-news-technology/eu-lawmakers-want-amazon-apple-facebook-google-ceos-at-feb-1-hearing/)
+
+
+> EU lawmakers have invited the chief executives of Amazon, Apple, Facebook and Alphabet to a Feb 1 hearing in Brussels as they try to crack down on the powers of US tech giants. The European Parliament will in the coming months provide input into proposals by the European Commission to force the companies to play fairly with rivals and to do more to tackle online fake news and harmful content or face hefty fines. 'The purpose of the planned hearing is to have an exchange with the chief executive officers of the four globally leading platform companies to learn about their current business models and future concepts as they face the challenges of altering market conditions,' said an invitation sent to the companies seen by Reuters.
+
+
+***
+![Don't treat promises in JavaScript as if they're the resolved value](https://external-preview.redd.it/SSfeefLhB0iVZHsSX9BpBgl3rfmixyvRoUWeX8oI8ig.jpg?auto=webp&s=c21fe179ce92b0fde7f6a188a1b9de72637d48a4 "Don't treat promises in JavaScript as if they're the resolved value")
+
+
+[Don't treat promises in JavaScript as if they're the resolved value](https://www.reddit.com/r/programming/comments/l36ido/dont_treat_promises_in_javascript_as_if_theyre/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Logged out of Facebook? You're not alone and Facebook says it's 'working to get things back to normal'](https://www.gannett-cdn.com/presto/2021/01/16/USAT/610a7b60-926a-4aa5-a3ba-179165dd088b-AP_Europe_Facebook_Privacy.jpg?crop=5759,3240,x0,y292&width=3200&height=1680&fit=bounds "Logged out of Facebook? You're not alone and Facebook says it's 'working to get things back to normal'")
+
+
+[Logged out of Facebook? You're not alone and Facebook says it's 'working to get things back to normal'](https://www.usatoday.com/story/tech/2021/01/23/facebook-outage-users-logged-out/6684643002/)
+
+
+> CLOSE Facebook is encouraging employees to refrain from wearing company branded merchandise at this time. Buzz60"Why am I logged out of Facebook?" The question ricocheted around the internet as an untold number of people across the nation found themselves logged out of their apps Friday night.If this happened to you, you are not alone.Users flocked to Twitter with the hashtags #So Facebook and #FacebookDown quickly becoming a top trending topic in the United States.Facebook did not provide any other specifics but confirmed to USA TODAY that there was a problem for some users.
+
+
+***
+![I spent $150,000 on Employee Stock Options,....why you shouldn't](https://external-preview.redd.it/U_ui9E1G1x3kB58U87AfJR0mg9Kk95qx-8J7zxhTZMs.jpg?auto=webp&s=d38f28ca38da1145875169c30aff4f07688a067e "I spent $150,000 on Employee Stock Options,....why you shouldn't")
+
+
+[I spent $150,000 on Employee Stock Options,....why you shouldn't](https://www.reddit.com/r/programming/comments/l36dyu/i_spent_150000_on_employee_stock_optionswhy_you/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
