@@ -14494,3 +14494,40 @@
 > It's not often that Conor McGregor inspires the writing of a tech article. Often brash and expletive-laden, the exploits of Ireland's maverick martial artist are usually best left to the disposable pages of the tabloids. But seriously, did you *see* his latest watch? Supposedly a bejewelled representation of the night sky, McGregor's $1million (£740,000) timepiece is cut from a 288-facet spherical diamond and reflects every ray of incoming light, illuminating the night sky of its glass dome. Honestly, it looks like the Golden Compass on steroids — ostentatiousness personified.
 
 
+***
+![Colorpedia – Command-line tool for looking up colors](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Colorpedia – Command-line tool for looking up colors")
+
+
+[Colorpedia – Command-line tool for looking up colors](https://www.reddit.com/r/Python/comments/l3fad6/colorpedia_commandline_tool_for_looking_up_colors/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Siuba – A Dplyr Port to Python](https://external-preview.redd.it/ZDYdS2v843Bz6uSWrwMcKNuw5uDRSHVBQKUQEaDOXoQ.jpg?auto=webp&s=6eefd870e0e9ef61f9f485ed82750bbd513cf4d9 "Siuba – A Dplyr Port to Python")
+
+
+[Siuba – A Dplyr Port to Python](https://www.reddit.com/r/Python/comments/l3f9zg/siuba_a_dplyr_port_to_python/)
+
+
+> I thought the r/Python subreddit might be interested in this project I just found! It's a port of the R library dplyr to Python! https://github.com/machow/siuba Here's a quick example using the mtcars dataset: from siuba import group_by, summarize, _ from siuba.data import mtcars (mtcars >> group_by(_.cyl) >> summarize(avg_hp = _.hp.mean()) ) Out[1]: cyl avg_hp 0 4 82.636364 1 6 122.285714 2 8 209.214286 If you like this, I do a weekly roundup of open source projects that includes an interview with one of the devs you can subscribe to.
+
+
+***
+[U of Louisiana-Lafayette mini-satellite zipping around Earth](https://abcnews.go.com/Technology/wireStory/louisiana-lafayette-mini-satellite-zipping-earth-75443390)
+
+
+> LAFAYETTE, La. -- A cubical satellite small enough to sit on the palm of your hand is zipping around the world and sending data about radiation to the Louisiana students who designed and built it. The satellite, called CAPE-3, carries a chip designed and built by students at the University of Louisiana at Lafayette to detect radiation, with an eye to keeping astronauts safe. 'The detectors would provide liquid crystal display readings so astronauts could constantly monitor how much radiation they're being exposed to,' Dr.
+
+
+***
+![DDoSers are abusing Microsoft RDP to make attacks more powerful](https://cdn.arstechnica.net/wp-content/uploads/2021/01/ddos-760x380.jpg "DDoSers are abusing Microsoft RDP to make attacks more powerful")
+
+
+[DDoSers are abusing Microsoft RDP to make attacks more powerful](https://arstechnica.com/information-technology/2021/01/ddosers-are-abusing-microsoft-rdp-to-make-attacks-more-powerful/)
+
+
+> Enlarge / Hacker attacking server or database. Network security, Database secure and personal data protection DDoS-for-hire services are abusing the Microsoft Remote Desktop Protocol to increase the firepower of distributed denial-of-service attacks that paralyze websites and other online services, a security firm said this week. Typically abbreviated as RDP, Remote Desktop Protocol is the underpinning for a Microsoft Windows feature that allows one device to log into another device over the Internet.
+
+
