@@ -14913,3 +14913,53 @@
 > हॊम व्हिडिओ महाराष्ट्र Defamation conspiracy from day one | Aslam Shaikh On Dhananjay Munde Case | Maharashtra News Published: January 24, 2021 01:31 PM | Updated: January 24, 2021 01:33 PM शेअर करा टॅग्स Entertainment Sports Lifestyle Sundara Manamadhye Bharaliमध्ये हुरडा पार्टी | Shubhmangal Onlineच्या सेटवर पार्टी |Lokmat CNX Filmy भरत जाधवची इमोशनल पोस्ट | Bharat Jadhav Emotional Post For His Father | Lokmat CNX Filmy हळदीला सिध्दार्थ-मितालीची डान्स मस्ती | Siddharth-Mitali WEDDING | Lokmat
 
 
+***
+![NASA Shares Pics Of Jupiter's Magical Auroras Seen On North And South Poles](https://im.indiatimes.in/content/2021/Jan/Jupiter-Aurora_600acb69ef80d.png "NASA Shares Pics Of Jupiter's Magical Auroras Seen On North And South Poles")
+
+
+[NASA Shares Pics Of Jupiter's Magical Auroras Seen On North And South Poles](https://www.indiatimes.com/technology/news/nasa-picture-jupiter-auroras-532637.html)
+
+
+> Bringing another cosmic wonder to its fans from the deep depths of space, NASA has shared some stunning images that capture the gas giant Jupiter. The images depict Jupiter's northern and southern auroras as captured through the Hubble Telescope. Aurora at Jupiter's north pole in UV light. (Image: NASA/ instagram)Sharing the images on its Instagram recently, NASA stated that the images were released around 23 years ago. The picture captures the auroras on Jupiter in an ultraviolet light. These auroras appear as curtains of light in Jupiter's upper atmosphere, NASA explained in the post.
+
+
+***
+![Discord.py not displaying playing status](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Discord.py not displaying playing status")
+
+
+[Discord.py not displaying playing status](https://www.reddit.com/r/Python/comments/l3wto9/discordpy_not_displaying_playing_status/)
+
+
+> Hi guys I'm new to the module discord.py and I can't get my bot to display 'Playing' status, this is my code: Anyone knows why?
+
+
+***
+![New U.S. defense secretary reaffirms U.S. commitment to defending Senkaku islands](https://static.reuters.com/resources/r/?m=02&d=20210124&t=2&i=1548864722&r=LYNXMPEH0N04D&w=800 "New U.S. defense secretary reaffirms U.S. commitment to defending Senkaku islands")
+
+
+[New U.S. defense secretary reaffirms U.S. commitment to defending Senkaku islands](https://www.reuters.com/article/us-japan-usa-defence-idUSKBN29T07U)
+
+
+> By Reuters Staff FILE PHOTO: U.S. President-elect Joe Biden's nominee for Secretary of Defense Retired Army Gen. Lloyd Austin answers questions during his confirmation before the Senate Armed Services Committee in Washington, U.S. January 19, 2021. Greg Nash/Pool via REUTERS TOKYO (Reuters) - New U.S. Defense Secretary Lloyd Austin on Sunday, during his first phone call with his Japanese counterpart, reaffirmed America's commitment to defending the disputed East China Sea islets known as the Senkaku in Japan, Jiji news agency reported.
+
+
+***
+![With calls for 5G and telecoms in trouble, it's time to reconsider company infrastructure](https://www.itwire.com/media/k2/items/cache/d0a7a165df7f18979ced9d393f9f39c4_XS.jpg "With calls for 5G and telecoms in trouble, it's time to reconsider company infrastructure")
+
+
+[With calls for 5G and telecoms in trouble, it's time to reconsider company infrastructure](https://www.itwire.com/guest-articles/guest-opinion/with-calls-for-5g-and-telecoms-in-trouble,-it-s-time-to-reconsider-company-infrastructure.html)
+
+
+> Telecom companies were expected to be the next superstars a few years ago. That was until a handful of bad business decisions and recent circumstances set in. From 2015 onward, Nic Fildes of FT writes, "The value of listed telecoms companies has dropped almost 20% on average over the past year, continuing a downward spiral." Then came the pandemic, which was supposed to serve telecom companies as an opportunity to reverse this trend. Hopes ran especially high for European telecoms, which suffered through acquisitions years earlier that brought on debt and didn't boost their value as anticipated.
+
+
+***
+![LinuxFX 10.6](https://cdn.mos.cms.futurecdn.net/Gdc3QYFUDhRiSTAJR9DvJ6-1200-80.jpg "LinuxFX 10.6")
+
+
+[LinuxFX 10.6](https://www.techradar.com/reviews/linuxfx)
+
+
+> We're always a tad sceptical of Linux distros that seek to imitate Windows. If you want a distro to be like Windows, why not just use Windows?But there are (presumably) some things that Windows does right and perhaps it would be nice if a distro did just a couple of such things. In fact, the ReactOS team have for the last ten years dedicated themselves to recreating the Win32 API in Linux, so if you need low-level compatibility you should check that out.Musing on Microsoft-ian merits aside, Linuxfx is a distro by Brazilian developer Rafael Rachid.
+
+
