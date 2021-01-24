@@ -14675,3 +14675,50 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I've got a 2017 iMac with plenty of horsepower. Seemingly after the latest Big Sur update(approximately), when starting up, it takes 1 to 1.5 minutes after typing in password for desktop icons and toolbar to appear on the screen. Just to get to the password entry it takes 1+ minute to boot. Many other things are sluggish. If this is extra security I could accept that but I'm not sure what is happening.
 
 
+***
+![Uber, After Buying Postmates, Lays Off More Than 180 Employees](https://static01.nyt.com/images/2021/01/23/business/23uber-postmates-web/23uber-postmates-web-facebookJumbo.jpg "Uber, After Buying Postmates, Lays Off More Than 180 Employees")
+
+
+[Uber, After Buying Postmates, Lays Off More Than 180 Employees](https://www.nytimes.com/2021/01/23/technology/uber-postmates-layoffs.html)
+
+
+> Continue reading the main story The layoffs include most of the executive team at Postmates, the food delivery app that Uber bought last year. Uber bought Postmates last year for $2.65 billion. Food delivery has been crucial to Uber as its ride-hailing business has been hurt in the pandemic. Credit... Justin Sullivan/Getty Images Jan. 23, 2021, 7:42 p.m. ET SAN FRANCISCO — Uber on Thursday laid off roughly 185 people from its Postmates division, or about 15 percent of Postmates' total work force, said three people with knowledge of the actions, as the ride-hailing giant consolidates its food delivery operations to weather the pandemic.
+
+
+***
+![From sushi to loo roll — the top ten emojis used on Tinder during coronavirus](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/01/NINTCHDBPICT000632129335.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "From sushi to loo roll — the top ten emojis used on Tinder during coronavirus")
+
+
+[From sushi to loo roll — the top ten emojis used on Tinder during coronavirus](https://www.thesun.co.uk/tech/13831799/emojis-tinder-covid-sushi-loo-roll/)
+
+
+> APPY DAYS IT'S the way we woo in the Covid era – with beer and sushi emojis replacing the suggestive peach and aubergine in Europe's top ten favourite symbols on dating website Tinder, writes Sarah Arnold. Sex expert Rebecca Dakin says: 'People are less likely to talk about sex, and that's reflected in the use of emojis such as loo rolls – it's what we're interested in.' 😷 Read our coronavirus live blog for the latest news & updates Sex expert Rebecca Dakin says people are less likely to talk about sex during CovidCredit: http://thegreatbritishsexpert.
+
+
+***
+[Software development topics I've changed my mind on after 6 years in the industry](https://www.reddit.com/r/programming/comments/l3ol1k/software_development_topics_ive_changed_my_mind/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Tim Cook to Investors: People Bought Fewer New iPhones Because They Repaired Their Old Ones](https://external-preview.redd.it/IC0jPD94XdlRIJNCtJTuKU0AQY_h10sP8K6BgpqGgkA.jpg?auto=webp&s=47765f6f42600e0a9dc6393bf959429ef0cbd72a "Tim Cook to Investors: People Bought Fewer New iPhones Because They Repaired Their Old Ones")
+
+
+[Tim Cook to Investors: People Bought Fewer New iPhones Because They Repaired Their Old Ones](https://www.reddit.com/r/technology/comments/l3ocy3/tim_cook_to_investors_people_bought_fewer_new/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Crazy to keep the SE 2020 over the Mini?](https://images.macrumors.com/social/?t=2281617&v=6 "Crazy to keep the SE 2020 over the Mini?")
+
+
+[Crazy to keep the SE 2020 over the Mini?](https://forums.macrumors.com/threads/crazy-to-keep-the-se-2020-over-the-mini.2281617/)
+
+
+> I picked up a new SE 2020 last week, but also wanted to try the Mini, which I got yesterday. I prefer the rounded edges and wider form factor on the SE. Its more comfortable for me to hold and one handed use is even easier because of the smaller display. I actually prefer the LCD on the SE as well. The whites are much more crisp compared to the yellowish tint all the new 12s have, it gets brighter and I dont really notice a difference in text sharpness. The Mini has better cameras, better speakers, better mic, more RAM and Face ID.
+
+
