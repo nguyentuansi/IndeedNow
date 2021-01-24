@@ -15157,3 +15157,50 @@
 > Hey There Fellow Redditers, I finally decided to start learning Python because i would really want to go for studying IT Data Science, but for that i should first learn some basic understanding of coding wich is limited to some very basic java script atm. So i started looking for a Tutorials from some former Google Workers to start learning and stepped over CS Dojo. In His first Python Episode at minute 21:57 hes solving the problem of swapping Two Variables by creating a temporary variable. v1
 
 
+***
+![Apple warns iPhone 12, MagSafe users with medical implants to keep a safe distance](https://mondrian.mashable.com/2021%252F01%252F24%252Fa8%252F0467a0b66fd541beaa2a13048f828cc6.31cde.jpg%252F1200x630.jpg?signature=v_AgjGhZcWBlEiysnwKDl_pSf4U= "Apple warns iPhone 12, MagSafe users with medical implants to keep a safe distance")
+
+
+[Apple warns iPhone 12, MagSafe users with medical implants to keep a safe distance](https://mashable.com/article/apple-magsafe-iphone-12-interferes-with-medical-devices/)
+
+
+> Earlier in January, a medical study done by the Heart Rhythm Society (first spotted by MacMagazine) suggested the iPhone 12 and MagSafe accessories can interfere with medical devices — such as defibrillators and pacemakers. Now, a few weeks after the study was published, Apple has updated its support documentation with more information related to the issue. In case you're unfamiliar, Apple first announced that its MagSafe technology was included in the iPhone 12 at an October 2020 hardware event.
+
+
+***
+![Tesla sues a former employee for allegedly taking automation files](https://mondrian.mashable.com/2021%252F01%252F24%252F6b%252Fa6632fdb947e4400bdb0c220c11ee7f4.c387e.jpg%252F1200x630.jpg?signature=xIUGjOu61vBmAiGEb9TA36e6Xak= "Tesla sues a former employee for allegedly taking automation files")
+
+
+[Tesla sues a former employee for allegedly taking automation files](https://mashable.com/article/tesla-sues-former-employee-download-files/)
+
+
+> Tesla hired and then almost immediately fired a software automation engineer earlier in January for allegedly stealing proprietary information about the electric car company. Now the company is suing the engineer. In a court filing from Friday, Tesla sued software engineer Alex Khatilov for downloading Tesla files to his Dropbox account. Tesla claims he stole thousands of files pertaining to automation for Tesla business processes like supply chain, inventory, product planning, and more. In the suit, Tesla estimates the files represent "200 man-years of work.
+
+
+***
+![Samsung Galaxy S series: A history of the biggest name in Android](https://cdn57.androidauthority.net/wp-content/uploads/2021/01/Samsung-Galaxy-S20-Ultra-vs-S21-Ultra-design-920x470.jpg "Samsung Galaxy S series: A history of the biggest name in Android")
+
+
+[Samsung Galaxy S series: A history of the biggest name in Android](https://www.androidauthority.com/samsung-galaxy-s-series-history-1076790/)
+
+
+> For many folks out there, the Samsung Galaxy S series isn't just a family of Android phones — they are synonymous with the entirety of Android itself. Ask around and you'll likely find someone you know who will refer to any Android device as a 'Galaxy,' even if it's not made by Samsung. That's how prevalent the Galaxy S series really is.Samsung didn't make the Samsung Galaxy S series the biggest name in Android overnight. It gradually gained steam with the line before it took off with the Samsung Galaxy S3 and Galaxy S4.
+
+
+***
+![Water supply: Smart solutions water down municipal body's pains](https://images.financialexpress.com/2021/01/1-755.jpg "Water supply: Smart solutions water down municipal body's pains")
+
+
+[Water supply: Smart solutions water down municipal body's pains](https://www.financialexpress.com/industry/technology/water-supply-smart-solutions-water-down-municipal-bodys-pains/2177956/)
+
+
+> A tie-up between Pimpri Chinchwad corporation and a start-up has led to substantial revenue gains for the body and plugging of water leakages
+
+
+***
+[UK software sales for the week ending Jan. 23rd, 2021](https://gonintendo.com/stories/375817-uk-software-sales-for-the-week-ending-jan-23rd-2021)
+
+
+> How are things going for retail gaming over in the UK? We have the weekly software sales, complete with a detailed breakdown of the numbers. Check out the stats for the week ending Jan. 23rd, 2021 below. - Hitman 3 was #1, with launch sales up 17% over its predecessor - Animal Crossing: New Horizons drops to No.2, but only 800 units separates the two - Ring Fit Adventure jumps to No.7 with a 47% sales rise
+
+
