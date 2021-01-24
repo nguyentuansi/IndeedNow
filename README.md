@@ -15063,3 +15063,50 @@
 > Kim Jong-un acted quickly. On January 22, 2020, North Korea closed its borders with China and Russia to stop a new, mysterious virus from spreading into the country. At the time, what we now know as Covid-19, had killed just nine people and infected 400 others. More than a year later, the hermit kingdom's border remains sealed tight shut.This story originally appeared on WIRED UK. North Korea's response to the pandemic has been one of the most extreme and paranoid in the world, experts say. The lockdowns and quarantines it has imposed have been strict, while border restrictions have put a halt to fishing and the smuggling of goods into the country.
 
 
+***
+![Week 3 in review: Snapdragon 870, Honor V40 and vivo X60 Pro+ official](https://fdn.gsmarena.com/imgroot/news/19/04/week-in-review/-476x249w4/gsmarena_003.jpg "Week 3 in review: Snapdragon 870, Honor V40 and vivo X60 Pro+ official")
+
+
+[Week 3 in review: Snapdragon 870, Honor V40 and vivo X60 Pro+ official](https://www.gsmarena.com/week_3_in_review_snapdragon_870_honor_v40_and_vivo_x60_pro_official-news-47359.php)
+
+
+> Hello, hello, let's recap yet another week. Starting with a couple of chipset stories. Qualcomm and MediaTek both announced new products this week. The 7nm Qualcomm Snapdragon 870 brought the fastest CPU core in the world with the 3.2GHz-capable Kryo 585. The Snapdragon 870 is built on the Snapdragon 865+ foundation and Motorola already confirmed its Edge S will premiere with the new chip on January 26. MediaTek dropped the Dimensity 1100 and 1200 chipsets. Both are built on a 6nm process and both feature the new Cortex-A78 core.
+
+
+***
+[Google testing small tweaks to enhance Search on desktop](https://mobilesyrup.com/2021/01/24/google-testing-small-tweaks-enhance-search-desktop/)
+
+
+> Google announced a redesign of its mobile Search experience a few days ago, and now it seems some of those changes are coming to the desktop layout. 9to5Google reports that the search field is now always raised above the rest of the page. Prior to the change, this only happened when you hovered over it.... The post Google testing small tweaks to enhance Search on desktop appeared first on MobileSyrup.
+
+
+***
+![Huawei launches massive online shopping festival to kickstart the New Year](https://cdn.mos.cms.futurecdn.net/UWzbttWzdEyAbeevkXFw4P-1200-80.jpg "Huawei launches massive online shopping festival to kickstart the New Year")
+
+
+[Huawei launches massive online shopping festival to kickstart the New Year](https://www.techradar.com/news/huawei-launches-massive-online-shopping-festival-to-kickstart-the-new-year)
+
+
+> (Image credit: HUAWEI) Looking to upgrade your smartphone, tablet or laptop? Keep an eye on Huawei's online shopping festival running from January 25 to January 29. The sale comes as part of the 26th edition of the Dubai Shopping Festival wherein Chinese tech giant, Huawei, is hoping to attract customers with exclusive deals and free next day delivery. Throughout the sale, Huawei will hold daily Flash sales from 8pm. During Flash deals, products like the Huawei Sound X, Freebuds Studio and Watch GT 2 can be picked up at eye-watering prices of AED299, AED199 and AED99 respectively, but you'll have to be quick as we're sure supply will be limited.
+
+
+***
+![23 Cool Home Gadgets Available Right Now](https://heavy.com/wp-content/uploads/2018/10/cool-smart-home-gadgets.jpg?quality=65&strip=all&w=780 "23 Cool Home Gadgets Available Right Now")
+
+
+[23 Cool Home Gadgets Available Right Now](https://heavy.com/tech/cool-home-gadgets/)
+
+
+> Smart bulbs from LIFX , like this Mini 800-Lumen variety, are vibrant, incredibly easy to set up, and work flawlessly. The companion app is intuitive, and you can connect LIFX to IFTTT and/or Alexa with ease. The small form factor can be used in more lighting fixtures and lamps including those which require a bulb with a lower profile. As stated above, the LIFX works with various virtual assistants that utilize voice control like Alexa, Apple HomeKit, and Google Assistant. The color temperature ranges from 2500K to 9000K.
+
+
+***
+![Scientists learn more about thundersnow from satellite imagery](https://s.abcnews.com/images/Technology/snow-storm-gty-jt-210122_1611340683444_hpMain_16x9_992.jpg "Scientists learn more about thundersnow from satellite imagery")
+
+
+[Scientists learn more about thundersnow from satellite imagery](https://abcnews.go.com/Technology/scientists-learn-thundersnow-satellite-imagery/story?id=75431573)
+
+
+> This is an Inside Science story. On Valentine's weekend in 2015, winter storm Neptune pummeled Boston. Weather Channel meteorologist Jim Cantore was outside reporting on the blizzard when a sudden purple flash illuminated the sky. "Oh yes! We got it baby!" he yelled, repeatedly leaping in the air. The "it" was thundersnow -- the relatively rare, sometimes unnerving, sometimes thrilling appearance of lightning and thunder during a snowstorm. The scarcity of thundersnow events, while likely compounding the delight of weather lovers who experience them, has also meant that scientists don't understand thundersnow as well as traditional summertime thunderstorms.
+
+
