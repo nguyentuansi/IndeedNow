@@ -15110,3 +15110,50 @@
 > This is an Inside Science story. On Valentine's weekend in 2015, winter storm Neptune pummeled Boston. Weather Channel meteorologist Jim Cantore was outside reporting on the blizzard when a sudden purple flash illuminated the sky. "Oh yes! We got it baby!" he yelled, repeatedly leaping in the air. The "it" was thundersnow -- the relatively rare, sometimes unnerving, sometimes thrilling appearance of lightning and thunder during a snowstorm. The scarcity of thundersnow events, while likely compounding the delight of weather lovers who experience them, has also meant that scientists don't understand thundersnow as well as traditional summertime thunderstorms.
 
 
+***
+![10 Amazing Python Hacks with Cool Libraries](https://external-preview.redd.it/pXHGCFzwlvD8fh5iyq0G2Dhf7nooSBzua0_J-0fRxcg.jpg?auto=webp&s=a79fd1d000f20bc6a6739530806df7f2fddd42e7 "10 Amazing Python Hacks with Cool Libraries")
+
+
+[10 Amazing Python Hacks with Cool Libraries](https://www.reddit.com/r/Python/comments/l44z6f/10_amazing_python_hacks_with_cool_libraries/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Learn key business skills from an award-winning MBA professor with this $35 training](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/sale_31147_article_image-46ih.jpg "Learn key business skills from an award-winning MBA professor with this $35 training")
+
+
+[Learn key business skills from an award-winning MBA professor with this $35 training](https://www.imore.com/learn-key-business-skills-award-winning-mba-professor-35-training)
+
+
+> Source: Stack Commerce Source: StackCommerce To be successful in business, you need at least a basic grasp of finance, management, sales, and other topics. The Ultimate All-Access Business Bundle helps you acquire this knowledge, with 150 hours of top-rated training for just $34.99. Some people pick up business skills through trial and error. By doing a little studying upfront, you can seriously improve your hit rate. This bundle brings together 12 courses from award-winning MBA professor, Chris Haroun.
+
+
+***
+[Website Hosting Options on AWS](https://www.reddit.com/r/programming/comments/l44nbl/website_hosting_options_on_aws_navigating_the/)
+
+
+> submitted by /u/lockstepgo [link] [comments]
+
+
+***
+![First Godzilla vs King Kong trailer promises a noisy, silly showdown](https://cdn.mos.cms.futurecdn.net/4EFv256ULLNitUqhT25L95-1200-80.jpg "First Godzilla vs King Kong trailer promises a noisy, silly showdown")
+
+
+[First Godzilla vs King Kong trailer promises a noisy, silly showdown](https://www.techradar.com/news/first-godzilla-vs-king-kong-trailer-promises-a-noisy-silly-showdown)
+
+
+> (Image credit: Legendary/Warner Bros) The first trailer for the movie Godzilla vs Kong is here, and it very much delivers on the promise of the title. If you want to watch two CG monsters beat each other up in almost video game-like fashion, this teaser has it all. The crossover film is releasing on HBO Max and in theaters on March 26 in the US, with a UK release being less clear – Warner Bros UK simply says it's "coming soon" in a tweet.Here's the trailer: HBO Max subscribers will have 31 days to check it out once it releases, and then it leaves the streamer, presumably returning to the service at a later date.
+
+
+***
+![Started Learning Python](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Started Learning Python")
+
+
+[Started Learning Python](https://www.reddit.com/r/Python/comments/l44e0u/started_learning_python/)
+
+
+> Hey There Fellow Redditers, I finally decided to start learning Python because i would really want to go for studying IT Data Science, but for that i should first learn some basic understanding of coding wich is limited to some very basic java script atm. So i started looking for a Tutorials from some former Google Workers to start learning and stepped over CS Dojo. In His first Python Episode at minute 21:57 hes solving the problem of swapping Two Variables by creating a temporary variable. v1
+
+
