@@ -14863,3 +14863,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Introduction of MVC Architecture](https://external-preview.redd.it/BZxT8ILPNXOs2NGp8OG6PR5wXWdQnCC3ZyDSbC4GYqM.jpg?auto=webp&s=afc2892ecf5966d058a67b081826dc8a46a4c85d "Introduction of MVC Architecture")
+
+
+[Introduction of MVC Architecture](https://www.reddit.com/r/programming/comments/l3vkqf/introduction_of_mvc_architecture/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![14.3 and slower Wi-fi](https://images.macrumors.com/social/?t=2281645&v=6 "14.3 and slower Wi-fi")
+
+
+[14.3 and slower Wi-fi](https://forums.macrumors.com/threads/14-3-and-slower-wi-fi.2281645/)
+
+
+> Ever since updating to 14.3 my Wi-fi speed has slowed down. I use the Speedtest app and I've noticed the option to choose multi or single threads now makes no difference on iPhone, it does on my iPad. The result is I can't get past 300Mbps whereas I use to get over 600Mbps Tried turning off private ip. Ruled out any other device interference and also tried different testing apps with the same result. iPad in same location gets 600+ ... the phone is an iPhone 11. Any ideas? Thanks
+
+
+***
+![Signal and WhatsApp: common features that you can find in both messaging apps](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/signal-483x271_1200_210124120724.jpeg "Signal and WhatsApp: common features that you can find in both messaging apps")
+
+
+[Signal and WhatsApp: common features that you can find in both messaging apps](https://www.indiatoday.in/technology/news/story/signal-and-whatsapp-common-features-that-you-can-find-in-both-messaging-apps-1762184-2021-01-24)
+
+
+> Cross-platform messaging app Signal has been downloaded by millions of users in India after WhatsApp updated its privacy policy allowing other Facebook companies access to its data. Akarsh Verma | January 24, 2021 | Updated 11:37 IST
+
+
+***
+![बाळासाहेब ठाकरेंच्या पुतळ्याचं अनावरण  Balasaheb Thackeray Statue Inaugration](https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bojoreoerbjreojborejbo43_202101550033.jpg "बाळासाहेब ठाकरेंच्या पुतळ्याचं अनावरण  Balasaheb Thackeray Statue Inaugration")
+
+
+[बाळासाहेब ठाकरेंच्या पुतळ्याचं अनावरण  Balasaheb Thackeray Statue Inaugration](https://www.lokmat.com/videos/maharashtra/balasaheb-thackerays-statue-unveiled-balasaheb-thackeray-statue-inaugration-uddhav-thackeray-a678/)
+
+
+> हॊम व्हिडिओ महाराष्ट्र Balasaheb Thackeray's statue unveiled | Balasaheb Thackeray Statue Inaugration | Uddhav Thackeray Published: January 24, 2021 01:20 PM | Updated: January 24, 2021 01:21 PM शेअर करा टॅग्स बाळासाहेब ठाकरे उद्धव ठाकरे मुंबई Entertainment Sports Lifestyle Sundara Manamadhye Bharaliमध्ये हुरडा पार्टी | Shubhmangal Onlineच्या सेटवर पार्टी |Lokmat CNX Filmy भरत जाधवची इमोशनल पोस्ट | Bharat Jadhav Emotional Post For His Father | Lokmat CNX Filmy हळदीला सिध्दार्थ-मितालीची डान्स मस्
+
+
+***
+![पहिल्या दिवसापासून बदनामीचं षडयंत्र  Aslam Shaikh On Dhananjay Munde Case](https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ewheraibhirhabeihq3oqg3ir_202101550058.jpg "पहिल्या दिवसापासून बदनामीचं षडयंत्र  Aslam Shaikh On Dhananjay Munde Case")
+
+
+[पहिल्या दिवसापासून बदनामीचं षडयंत्र  Aslam Shaikh On Dhananjay Munde Case](https://www.lokmat.com/videos/maharashtra/defamation-conspiracy-day-one-aslam-shaikh-dhananjay-munde-case-maharashtra-news-a678/)
+
+
+> हॊम व्हिडिओ महाराष्ट्र Defamation conspiracy from day one | Aslam Shaikh On Dhananjay Munde Case | Maharashtra News Published: January 24, 2021 01:31 PM | Updated: January 24, 2021 01:33 PM शेअर करा टॅग्स Entertainment Sports Lifestyle Sundara Manamadhye Bharaliमध्ये हुरडा पार्टी | Shubhmangal Onlineच्या सेटवर पार्टी |Lokmat CNX Filmy भरत जाधवची इमोशनल पोस्ट | Bharat Jadhav Emotional Post For His Father | Lokmat CNX Filmy हळदीला सिध्दार्थ-मितालीची डान्स मस्ती | Siddharth-Mitali WEDDING | Lokmat
+
+
