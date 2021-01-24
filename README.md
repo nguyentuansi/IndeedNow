@@ -14722,3 +14722,50 @@
 > I picked up a new SE 2020 last week, but also wanted to try the Mini, which I got yesterday. I prefer the rounded edges and wider form factor on the SE. Its more comfortable for me to hold and one handed use is even easier because of the smaller display. I actually prefer the LCD on the SE as well. The whites are much more crisp compared to the yellowish tint all the new 12s have, it gets brighter and I dont really notice a difference in text sharpness. The Mini has better cameras, better speakers, better mic, more RAM and Face ID.
 
 
+***
+![Welcome weary travelers, to the Restaurant at the End of the Internet](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Welcome weary travelers, to the Restaurant at the End of the Internet")
+
+
+[Welcome weary travelers, to the Restaurant at the End of the Internet](https://www.reddit.com/r/programming/comments/l3qprr/welcome_weary_travelers_to_the_restaurant_at_the/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![When, how and why you'd have to return stimulus money back to the IRS](https://cnet2.cbsistatic.com/img/Km7frHxvv_ybiqMF828QV-PyGiA=/1200x630/2020/12/15/6a6f9182-f202-4744-8d99-9c8152b1d7c1/104-cash-money-dollars-bills-stimulus-check-congress-pass-mail-banking-finance-desperate-poverty-us-treasury.jpg "When, how and why you'd have to return stimulus money back to the IRS")
+
+
+[When, how and why you'd have to return stimulus money back to the IRS](https://www.cnet.com/personal-finance/when-how-and-why-youd-have-to-return-stimulus-money-back-to-the-irs/)
+
+
+> That extra stimulus money may not be yours to keep. Sarah Tew/CNET In the rush to meet its Jan. 15 deadline to automatically send the $600 stimulus checks, the IRS may've skipped over 8 million Americans who are eligible for a stimulus check but didn't receive it. The IRS may also have erred on the other side, sending relief payments to some who didn't actually qualify for the check, or for the total they may've received. The IRS said it mistakenly sent stimulus checks to ineligible people with the first round of relief payments, and it's possible it did the same thing this time.
+
+
+***
+![Facebook Oversight Board Co-Chair On Determining The Future Of Trump's Accounts](https://media.npr.org/assets/img/2021/01/23/ap_20268831248241_wide-efb8a1c4a2979a6e7dbc73e0194d73462955ad01.jpg?s=1400 "Facebook Oversight Board Co-Chair On Determining The Future Of Trump's Accounts")
+
+
+[Facebook Oversight Board Co-Chair On Determining The Future Of Trump's Accounts](https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/23/959987896/oversight-board-co-chair-on-how-it-determines-trumps-fate-on-facebook)
+
+
+> Facebook's oversight board is considering what to do about Donald Trump's accounts. Jeff Chiu/AP An independent oversight board for Facebook is now determining if Donald Trump will be allowed to return to the company's social media platforms after Facebook indefinitely suspended Trump's accounts following the Jan. 6 insurrection. Facebook referred the decision to the board on Thursday, which Facebook says can make binding decisions that not even CEO Mark Zuckerberg can overturn. Currently, the board consists of 20 members, co-chair Jamal Greene told NPR's All Things Considered, who will break into panels to determine whether the suspension was appropriate and consistent with the company's policies and values.
+
+
+***
+[Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/)
+
+
+> Attention Major and minor releases of pip also include changes listed within prior beta releases. Drop support for Python 2. (#6148) Remove support for legacy wheel cache entries that were created with pip versions older than 20.0. (#7502) Remove support for VCS pseudo URLs editable requirements. It was emitting deprecation warning since version 20.0. (#7554) Modernise the codebase after Python 2. (#8802) Drop support for Python 3.5. (#9189) Remove the VCS export feature that was used only with editable VCS requirements and had correctness issues.
+
+
+***
+![Iran blames 1600 Bitcoin processing centers for massive blackouts in Tehran and other cities](https://external-preview.redd.it/oj3zVdQ5DxqZX_70JrCXo5-d-EdPreMda13mERCy5eg.jpg?auto=webp&s=c95b1474bb3ad8adbd470f3b25d22487d9525d9a "Iran blames 1600 Bitcoin processing centers for massive blackouts in Tehran and other cities")
+
+
+[Iran blames 1600 Bitcoin processing centers for massive blackouts in Tehran and other cities](https://www.reddit.com/r/technology/comments/l3q0sf/iran_blames_1600_bitcoin_processing_centers_for/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
