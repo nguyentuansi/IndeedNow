@@ -15013,3 +15013,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I know this question has been asked a lot but since I will soon buy my first Mac ever I need to ask. I am a music producer and my i7 4790k with 8 gigs of DDR3 slow ram that I have on my PC right now have served me well throught the years and I never made a project that my PC has struggled with. I am really interested in the new M1 MacBook Air but since it's 2021 I got sceptical about it's 8 gigs of ram.
 
 
+***
+![Windows USB installer doesn't show up in Opencore boot picker](https://images.macrumors.com/social/?t=2281667&v=6 "Windows USB installer doesn't show up in Opencore boot picker")
+
+
+[Windows USB installer doesn't show up in Opencore boot picker](https://forums.macrumors.com/threads/windows-usb-installer-doesnt-show-up-in-opencore-boot-picker.2281667/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Lesbian love syndrome: a history of Yuri and lesbian romance in gaming](https://cdn.mos.cms.futurecdn.net/JZHEVdscYCvqPLNJ8zJZmi-1200-80.jpg "Lesbian love syndrome: a history of Yuri and lesbian romance in gaming")
+
+
+[Lesbian love syndrome: a history of Yuri and lesbian romance in gaming](https://www.techradar.com/news/lesbian-love-syndrome-a-history-of-yuri-and-lesbian-romance-in-gaming)
+
+
+> LGBTQ+ Gaming Week 2021(Image credit: TechRadar / R Healey Art)Welcome to TechRadar's LGBTQ+ Gaming Week 2021. During this week-long celebration, we're highlighting topics and voices within the LGBTQ+ gaming community. Find out more here.No matter who you are, and no matter your gender or sexuality, you can experience your own elicit lesbian love affair through the magic of games. Whether you stirred your beans with Sera in Dragon Age: Inquisition, slipped Samantha Traynor the tongue in Mass Effect 3, or boogied with any of the bisexual ladies in Fable, Fire Emblem: Three Houses, or Fallout 4, many of us have taken the opportunity to flirt with a feminine fling.
+
+
+***
+![Here's all the shows you can only watch on Hulu](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/hulu-originals-header2.jpg "Here's all the shows you can only watch on Hulu")
+
+
+[Here's all the shows you can only watch on Hulu](https://www.androidcentral.com/hulu-original-shows-all-shows-you-can-only-watch-hulu)
+
+
+> Source: Keegan Prosser / Android Central Hulu has established itself as one of the top streaming services thanks to its solid, ever-growing content library. In addition to carrying new and classic content from networks like ABC, NBC, Fox, HBO, the platform offers various Hulu original series that span genres. Whether you're a fan of dark totalitarian futures and mommy mysteries or coming of age dramas and millennial love stories, Hulu has you covered. With that in mind, here's a rundown of all the shows you can only watch on Hulu.
+
+
+***
+![How to pin a file or folder to the macOS menu bar](https://cdn.mos.cms.futurecdn.net/q4tNZwiiMBAzjCZbNMdNHd-1200-80.png "How to pin a file or folder to the macOS menu bar")
+
+
+[How to pin a file or folder to the macOS menu bar](https://www.laptopmag.com/how-to/pin-a-file-or-folder-to-the-macos-menu-bar)
+
+
+> (Image credit: Laptop Mag) There are a number of ways you can easily access an oft-used file or folder. Unfortunately, you can't pin it to the menu bar like you can in Windows, where you might pin an app to the Start menu or the Quick Launch bar. You can pin it to the Dock, but the menu bar, sorry, is out of bounds.Luckily there's a free and lightweight app that lets us customize that menu bar to our heart's content — or, pin icons from our favorite apps, files, and folders to it, anyway. It's not the easiest thing to do and you should plan to devote a little bit of time to it, but if pinning files and folders to the menu bar is important to you then it's worth putting in a little bit of time.
+
+
+***
+![The Truth About North Korea's Ultra-Lockdown Against Covid-19](https://media.wired.com/photos/600b0015939fbc855db9dd7a/191:100/w_1280,c_limit/Sec_NKorea_1229640287.jpg "The Truth About North Korea's Ultra-Lockdown Against Covid-19")
+
+
+[The Truth About North Korea's Ultra-Lockdown Against Covid-19](https://www.wired.co.uk/article/north-korea-covid-news)
+
+
+> Kim Jong-un acted quickly. On January 22, 2020, North Korea closed its borders with China and Russia to stop a new, mysterious virus from spreading into the country. At the time, what we now know as Covid-19, had killed just nine people and infected 400 others. More than a year later, the hermit kingdom's border remains sealed tight shut.This story originally appeared on WIRED UK. North Korea's response to the pandemic has been one of the most extreme and paranoid in the world, experts say. The lockdowns and quarantines it has imposed have been strict, while border restrictions have put a halt to fishing and the smuggling of goods into the country.
+
+
