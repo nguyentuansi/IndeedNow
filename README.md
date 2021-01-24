@@ -14963,3 +14963,53 @@
 > We're always a tad sceptical of Linux distros that seek to imitate Windows. If you want a distro to be like Windows, why not just use Windows?But there are (presumably) some things that Windows does right and perhaps it would be nice if a distro did just a couple of such things. In fact, the ReactOS team have for the last ten years dedicated themselves to recreating the Win32 API in Linux, so if you need low-level compatibility you should check that out.Musing on Microsoft-ian merits aside, Linuxfx is a distro by Brazilian developer Rafael Rachid.
 
 
+***
+![The Miniskirt: The 90s Staple That's Here To Stay](https://guardian.ng/wp-content/uploads/2021/01/Zynell-Zuh-1-e1611490748615-640x360.jpg "The Miniskirt: The 90s Staple That's Here To Stay")
+
+
+[The Miniskirt: The 90s Staple That's Here To Stay](https://editor.guardian.ng/life/the-miniskirt-the-90s-staple-thats-here-to-stay/)
+
+
+> Annie Idibia Next to diamonds, miniskirts are surely a girl's best friend and we will be going back to the 90s to bring back this fashion trend. A mini skirt is a versatile wardrobe piece, and it deserves its time in the spotlight. The beauty of the miniskirt is that it can be easily dressed up or down. Here are 5 styling tips that solidify the mini as a must-have staple piece. Match Up Co-rods are in vogue and instead of trousers, we have seen that blazers seem to come with matching mini skirts.
+
+
+***
+![What tech companies want: Miami bets on lower-cost workers and fewer regulations](https://media2.s-nbcnews.com/j/newscms/2021_03/3443663/210120-miami-mayor-suarez-mn-1415_6b0606d5281136a407430ea738a7fe8b.nbcnews-fp-1200-630.jpg "What tech companies want: Miami bets on lower-cost workers and fewer regulations")
+
+
+[What tech companies want: Miami bets on lower-cost workers and fewer regulations](https://www.nbcnews.com/business/business-news/tech-flight-why-silicon-valley-heading-miami-austin-texas-n1255330)
+
+
+> Miami Mayor Francis Suarez has been fielding numerous inquiries from top executives in the tech world who reached out in recent weeks — from Tesla CEO Elon Musk to Twitter CEO Jack Dorsey. He has also reportedly met with former Google CEO Eric Schmidt and the chairman of Palantir, Peter Thiel, among others. What is he offering that Silicon Valley cannot? The mayor is trying to convince them that Miami promises a more business-friendly environment. 'There's no secret sauce other than my Twitter account ,' Suarez said while shaving and preparing for another day of messages from inquiring tech executives.
+
+
+***
+![This internet librarian is on a mission to archive the web before it is deleted](https://www.telegraph.co.uk/content/dam/technology/2018/12/12/TELEMMGLPICT000042093133_trans_NvBQzQNjv4BqqGw_8_YqFn6oOhW46YSWn8Pb7IFTOXDdg53tLFsgRZE.jpeg?impolicy=logo-overlay "This internet librarian is on a mission to archive the web before it is deleted")
+
+
+[This internet librarian is on a mission to archive the web before it is deleted](https://www.telegraph.co.uk/technology/2021/01/24/internet-librarian-mission-archive-web-deleted/)
+
+
+> Mark Graham fears that valuable parts of human history are being wiped out before our eyes. As the director of the Wayback Machine, a website that records how individual webpages have changed over time, he is acutely aware of how important it is to keep a record of what is being posted - and where.  He has seen changes ranging from a benign spelling correction, to edits in government websites, to the dismantling of media outlets by dictators.  "If we want future generations to have the opportunity to learn from history then it is imperative that history be available to them,' Graham says.
+
+
+***
+![i created a game in python! its my first game](https://external-preview.redd.it/p3DYwVIkrg5TiwyBTnF8fuVmTc5cUBZHYn3neJs5m64.jpg?auto=webp&s=15688cebcd9c5fffc77268dcc09f445a51dc1f9b "i created a game in python! its my first game")
+
+
+[i created a game in python! its my first game](https://www.reddit.com/r/programming/comments/l3yarf/i_created_a_game_in_python_its_my_first_game/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Buying advice for new MacBook Air.](https://images.macrumors.com/social/?t=2281657&v=6 "Buying advice for new MacBook Air.")
+
+
+[Buying advice for new MacBook Air.](https://forums.macrumors.com/threads/buying-advice-for-new-macbook-air.2281657/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I know this question has been asked a lot but since I will soon buy my first Mac ever I need to ask. I am a music producer and my i7 4790k with 8 gigs of DDR3 slow ram that I have on my PC right now have served me well throught the years and I never made a project that my PC has struggled with. I am really interested in the new M1 MacBook Air but since it's 2021 I got sceptical about it's 8 gigs of ram.
+
+
