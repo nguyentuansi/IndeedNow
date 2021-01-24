@@ -14769,3 +14769,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![pip drops support for Python 2](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "pip drops support for Python 2")
+
+
+[pip drops support for Python 2](https://www.reddit.com/r/Python/comments/l3sdim/pip_drops_support_for_python_2/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Russia wages online battle against TikTok and YouTube](https://apicms.thestar.com.my/uploads/images/2021/01/24/1019252.jpg "Russia wages online battle against TikTok and YouTube")
+
+
+[Russia wages online battle against TikTok and YouTube](https://www.thestar.com.my/tech/tech-news/2021/01/24/russia-wages-online-battle-against-tiktok-and-youtube)
+
+
+> Russia's media watchdog Roskomnadzor this week reacted to a wave of calls for protests in support of Navalny by threatening social media networks with fines if they do not delete content inciting minors to participate in the demonstrations. — Reuters MOSCOW: ' I'm an American!' a young Russian under the username Neurolera exclaims in English on the popular video-sharing app TikTok as she explains how to impersonate a tourist to avoid arrest at a street demonstration. Her video – published ahead of rallies planned in support of jailed Kremlin critic Alexei Navalny – has been viewed more than 500,000 times while videos demanding Navalny's release garnered hundreds of millions of views on the platform.
+
+
+***
+![Small business owners invest in disinfection technology to help fight back against COVID-19](https://media.wbir.com/assets/WBIR/images/3d1ec319-982f-4cf8-b4f6-e19f81f61c11/3d1ec319-982f-4cf8-b4f6-e19f81f61c11_1140x641.jpg "Small business owners invest in disinfection technology to help fight back against COVID-19")
+
+
+[Small business owners invest in disinfection technology to help fight back against COVID-19](https://www.wbir.com/article/tech/small-business-owners-investment-in-disinfection-technology-to-help-fight-back-against-covid/51-ec666956-2dd5-4082-8177-bac831a722ce)
+
+
+> KNOXVILLE, Tenn — One small business owner is making an investment in a disinfection device, hoping to make his business a safer place to visit. With small businesses struggling through the COVID-19 pandemic, Robert Lebus is making adjustments to fight back against the coronavirus. He said that he hopes those investments can help the company stay open. "You have to be open because, obviously, you have people that are employed and rely on you to make a living," said Lebus. Just like so many businesses that were thrown curveballs during the pandemic, it's been no different for Lebus.
+
+
+***
+![Keep seeing Error 83 on Disney+? Here's why and how to fix it](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/11/disney-plus-error-connecting-pixel-4-dak.jpg "Keep seeing Error 83 on Disney+? Here's why and how to fix it")
+
+
+[Keep seeing Error 83 on Disney+? Here's why and how to fix it](https://www.androidcentral.com/error-83-disney-plus)
+
+
+> Source: Ara Wagoner / Android Central With hundreds of films from the most popular franchises on the planet — not to mention thousands of TV episodes from our childhood — it's little wonder that Disney+ is popular. However, when errors invade your movie marathon, things are anything but magical. There's a few different errors Disney+ can spit out when things go awry, but Error 83 is by far the most prevalent Disney+ error you come across. Here's a few of the reasons you may be seeing it, and what you can do about it.
+
+
+***
+![CNN's Pamela Brown Shuts Down Madison Cawthorn's Claims About Election Fraud](https://cdn.digg.com/wp-content/uploads/2021/01/24040834/https___cdn.cnn_.com_cnnnext_dam_assets_210123201100-pamela-brown-madison-cawthorn-nr-vpx-split-01232021.jpg "CNN's Pamela Brown Shuts Down Madison Cawthorn's Claims About Election Fraud")
+
+
+[CNN's Pamela Brown Shuts Down Madison Cawthorn's Claims About Election Fraud](https://digg.com/video/cnns-pamela-brown-shuts-down-madison-cawthorns-claims-about-election-fraud)
+
+
+> The congressman's involvement underlined how far the former president was willing to go to overturn the election, and Democratic lawmakers are beginning to call for investigations into those efforts. CNN anchor Pamela Brown repeatedly presses Rep. Madison Cawthorn (R-NC) for evidence of voter fraud. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. As historians examine Donald Trump's performance as president, Chris Cillizza explains where he'll rank among his predecessors.
+
+
