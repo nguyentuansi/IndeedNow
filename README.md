@@ -14819,3 +14819,47 @@
 > The congressman's involvement underlined how far the former president was willing to go to overturn the election, and Democratic lawmakers are beginning to call for investigations into those efforts. CNN anchor Pamela Brown repeatedly presses Rep. Madison Cawthorn (R-NC) for evidence of voter fraud. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. As historians examine Donald Trump's performance as president, Chris Cillizza explains where he'll rank among his predecessors.
 
 
+***
+![Amazon plans to overhaul film age classification with new AI system](https://www.telegraph.co.uk/content/dam/technology/2020/10/09/TELEMMGLPICT000195076254_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Amazon plans to overhaul film age classification with new AI system")
+
+
+[Amazon plans to overhaul film age classification with new AI system](https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/)
+
+
+> Managing a vast amount of content is likely to be a growing problem for Amazon in the coming years. Its streaming service has 18,032 films in the UK, according to Statista data, compared to 3,802 films on Netflix. Amazon's AI classification service could be added to its Rekognition service, a facial recognition technology that the company has licensed to government agencies and businesses. AI experts have warned that even advanced systems can still backfire, however, meaning any reliance by Amazon on this may cause problems.
+
+
+***
+[Custom parts manufacturer Protolabs buys 3D Hubs, an online on-demand service providing access to ~240 manufacturing partners, for up to $330M in cash and stock (Robin Wauters/Tech.eu)](http://www.techmeme.com/210124/p2#a210124p2)
+
+
+> Robin Wauters / Tech.eu: Custom parts manufacturer Protolabs buys 3D Hubs, an online on-demand service providing access to ~240 manufacturing partners, for up to $330M in cash and stock — Protolabs, the US-based provider of a manufacturing service for custom parts, has acquired The Netherlands-based 3D Hubs …
+
+
+***
+[Re:ZERO The Prophecy of the Throne Collector's Edition Official Unboxing](https://gonintendo.com/stories/375806-re-zero-the-prophecy-of-the-throne-collector-s-edition-official-u)
+
+
+> The Collector's Edition for Re:ZERO -Starting Life in Another World- The Prophecy of the Throne includes 4 exclusive, limited run only original pins in a display box, featuring Emilia, Subaru, Rem, and a brand-new character Melty, a full-color art book including concept art, sketches, and commentary with a special foreword from the creators, a SteelBook® collector's display case, the official soundtrack containing original music from the game, and the Collector's Edition outerbox!
+
+
+***
+![All the best VPNs for streaming films from the UK](https://mondrian.mashable.com/2021%252F01%252F22%252Fa2%252F1996611e7caf43ed99df69c7568b1afa.75559.jpg%252F1200x630.jpg?signature=oNu1P8KVGisAfrv1LZzCqdtiEwM= "All the best VPNs for streaming films from the UK")
+
+
+[All the best VPNs for streaming films from the UK](https://mashable.com/uk/roundup/best-vpn-streaming-movies-uk/)
+
+
+> What would we do without films? It's honestly not worth thinking about. A good film has the ability to capture your attention and keep it for hours, which is especially useful if all you've got planned is staying in and doing as little as possible. The good news for anyone planning on a movie marathon is that we're living through a golden age of streaming services. Nowadays, film buffs can pick from Netflix, Prime Video, Disney+, Hulu, and many more sites to get their fix. Put simply, we're not short of options when it comes to settling down on the sofa for a day sat in front of a screen.
+
+
+***
+![3 Python Tricks & Tips in 5 Minutes](https://external-preview.redd.it/a4qdCun25g5fy7zUFRki3Zzo3rDTGo5OcNSaEJ2pE34.jpg?auto=webp&s=df68471182495f6d80a38a9c1310b1d6c384e679 "3 Python Tricks & Tips in 5 Minutes")
+
+
+[3 Python Tricks & Tips in 5 Minutes](https://www.reddit.com/r/Python/comments/l3t5nf/3_python_tricks_tips_in_5_minutes/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
