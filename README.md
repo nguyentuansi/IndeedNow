@@ -15204,3 +15204,50 @@
 > How are things going for retail gaming over in the UK? We have the weekly software sales, complete with a detailed breakdown of the numbers. Check out the stats for the week ending Jan. 23rd, 2021 below. - Hitman 3 was #1, with launch sales up 17% over its predecessor - Animal Crossing: New Horizons drops to No.2, but only 800 units separates the two - Ring Fit Adventure jumps to No.7 with a 47% sales rise
 
 
+***
+![Fiona the hippo celebrates her fourth birthday with all of Twitter](https://mondrian.mashable.com/2021%252F01%252F24%252Fe8%252F1e6e90ef27c14b1ebf3b6232c54ed0de.11557.jpg%252F1200x630.jpg?signature=WIKlEyDZg1haOgnseTnaKRYbGMk= "Fiona the hippo celebrates her fourth birthday with all of Twitter")
+
+
+[Fiona the hippo celebrates her fourth birthday with all of Twitter](https://mashable.com/article/fiona-hippo-fourth-birthday/)
+
+
+> Of the few genuinely wholesome things to have captivated the world since January 2017, Fiona is up there with the best of them. Born six weeks premature on Jan. 24, 2017, the Cincinnati Zoo's young hippopotamus child was a beacon of delight during a particularly dark moment in American history. She's been with us ever since, and now she's celebrating four years of life. Happy birthday, Fiona!  The zoo rang in Fiona's latest birthday in much the same way it has every other year: With cake, pictures, video, and a charity drive.
+
+
+***
+![This Eureka robot vacuum performs like our favorite Roomba—and it's just over $100](https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2020/07/10/USATODAY/usatsports/Reviewed.com-RvEW-25132-Eureka-Groove-hero-2.jpg?width=1600&height=800&fit=crop "This Eureka robot vacuum performs like our favorite Roomba—and it's just over $100")
+
+
+[This Eureka robot vacuum performs like our favorite Roomba—and it's just over $100](https://www.usatoday.com/story/tech/reviewedcom/2021/01/24/eureka-vacuum-get-eureka-groove-robot-vacuum-just-over-100/6694474002/)
+
+
+> Eureka Groove NER300 Robot Vacuum Cleaner Review   (Photo: Reviewed.com) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Robot vacuums are a dime a dozen, and most will cost you a pretty penny. But how do you know which ones are actually worth the extra spend and which ones will perform just fine for less? Quite frankly, you don't—that's why we're here. Reviewed has spent hours upon hours testing these machines to figure out which ones will give you the most bang for your buck and have come up with a Eureka vacuum that will perform with the best of them—and it's on sale today for just over $100.
+
+
+***
+[Apple to produce niche, expensive VR headset before moving on to AR](https://www.watoday.com.au/technology/apple-to-produce-niche-expensive-vr-headset-before-moving-on-to-ar-20210122-p56w6h.html?ref=rss&utm_medium=rss&utm_source=rss_feed)
+
+
+> Apple's first crack at a headset is apparently designed to be a pricey precursor to a more ambitious product.
+
+
+***
+![Drastic measures for drastic times — caregiver need mobile health apps](https://thehill.com/sites/default/files/ca_datingapps_11420istock.jpg "Drastic measures for drastic times — caregiver need mobile health apps")
+
+
+[Drastic measures for drastic times — caregiver need mobile health apps](https://thehill.com/opinion/technology/535562-drastic-measures-for-drastic-times-caregiver-need-mobile-health-apps)
+
+
+> In a cancer diagnosis, family members have delicate and difficult moments when specialists cannot reach consensus on the results of a beloved family member. Distress, grief and concern are complicated by the necessities of caregiving. Family caregivers can lose as many as 10 years of their lives and about $660,000  over a lifetime.  This has worsened  since the start of COVID-19 pandemic, where schools and child care centers are closed and many families have to take care of children, as well as sick and elder adults at home.
+
+
+***
+![You should hold off on buying an SSD for PS5. Here's why!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop_wm_brb/public/article_images/2020/12/ps5-with-controller-01.jpg "You should hold off on buying an SSD for PS5. Here's why!")
+
+
+[You should hold off on buying an SSD for PS5. Here's why!](https://www.androidcentral.com/should-i-buy-replacement-ssd-ps5)
+
+
+> Source: Nick Sutrich / Android CentralBest answer: No. Sony has not stated which internal SSDs will be compatible just yet and the PS5 does not support expanded internal storage at the moment. Only buy an external SSD if you're looking to store and play your backward-compatible PS4 games. To make it as simple as possible: SSDs are much faster, usually smaller, and cost more than HDDs. This is because SSDs use flash storage to read and write information while HDDs have mechanical parts that physically read and write information.
+
+
