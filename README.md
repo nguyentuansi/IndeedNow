@@ -15292,3 +15292,50 @@
 > SAP and Microsoft have taken their partnership to a new symbiotic level, with each company looking to push each other's services on their own platforms in an attempt to figure out new working norms.
 
 
+***
+![Pycharm not starting in Windows 10 solution](https://external-preview.redd.it/p_dwnj4N-xLkxtnAMu7PulgqA-RYK_n1FvBbPM6X6ss.jpg?auto=webp&s=69b77131775734b8e991c31647d93af15e97fffc "Pycharm not starting in Windows 10 solution")
+
+
+[Pycharm not starting in Windows 10 solution](https://www.reddit.com/r/Python/comments/l4e95k/pycharm_not_starting_in_windows_10_solution/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Forget TikTok. Audio-based Clubhouse is social media's next big thing](https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/25/full/1611541571-1167.png "Forget TikTok. Audio-based Clubhouse is social media's next big thing")
+
+
+[Forget TikTok. Audio-based Clubhouse is social media's next big thing](https://www.business-standard.com/article/technology/forget-tiktok-audio-based-clubhouse-is-social-media-s-next-big-thing-121012500117_1.html)
+
+
+> The next killer smartphone app has arrived — and it offers the potential to transform how we communicate, share knowledge and even make new friends. I am talking about voice-and-audio-based social networking startup Clubhouse. Its platform enables users to drop in and out of ephemeral chat rooms and take part in a range of gatherings, from small "water-cooler" type conversations to larger discussions featuring expert panels, often attended by thousands of listeners. Since its launch last March, Clubhouse has increasingly become a cultural phenomenon, attracting politicians, celebrities and experts from all walks of life.
+
+
+***
+[Alphabet 創歷史高！Waymo：駕駛輔助無法晉升至全自駕](https://technews.tw/2021/01/25/waymo-ceo-dismisses-tesla-self-driving-plan-this-is-not-how-it-works/)
+
+
+> 《Ars Technica》23 日報導，Waymo（Alphabet Inc. 旗下自駕車子公司）執行長 J […]
+
+
+***
+![AMTA reminds Aussie about privacy on 28 January, International Data Privacy Day, with six top tips](https://www.itwire.com/media/k2/items/cache/7b398d0e9ca38c40c7aadbaca6afe820_XS.jpg "AMTA reminds Aussie about privacy on 28 January, International Data Privacy Day, with six top tips")
+
+
+[AMTA reminds Aussie about privacy on 28 January, International Data Privacy Day, with six top tips](https://www.itwire.com/telecoms-and-nbn/amta-reminds-aussie-about-privacy-on-28-january,-international-data-privacy-day,-with-six-top-tips.html)
+
+
+> The Australian Mobile Telecommunications Association (AMTA) has taken the opportunity to remind Australians about the importance of mobile phone data privacy as we begin a new year. With our day-to-day activities on our mobile phones leaving a trail of data from payment details and location information through map apps, to browsing data and login information, it's no surprise that International Data Privacy Day was created in 2007 and has been an annual event ever since. The purpose of the day is to create awareness about the importance of respecting privacy, safeguarding data and enabling trust, with more information available here and here.
+
+
+***
+![AMTA reminds Aussies about privacy on 28 January, International Data Privacy Day, with six top tips](https://www.itwire.com/media/k2/items/cache/7b398d0e9ca38c40c7aadbaca6afe820_XS.jpg "AMTA reminds Aussies about privacy on 28 January, International Data Privacy Day, with six top tips")
+
+
+[AMTA reminds Aussies about privacy on 28 January, International Data Privacy Day, with six top tips](https://www.itwire.com/telecoms-and-nbn/amta-reminds-aussie-about-privacy-on-28-january,-international-data-privacy-day,-with-six-top-tips.html)
+
+
+> The Australian Mobile Telecommunications Association (AMTA) has taken the opportunity to remind Australians about the importance of mobile phone data privacy as we begin a new year. With our day-to-day activities on our mobile phones leaving a trail of data from payment details and location information through map apps, to browsing data and login information, it's no surprise that International Data Privacy Day was created in 2007 and has been an annual event ever since. The purpose of the day is to create awareness about the importance of respecting privacy, safeguarding data and enabling trust, with more information available here and here.
+
+
