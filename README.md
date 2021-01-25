@@ -15339,3 +15339,53 @@
 > The Australian Mobile Telecommunications Association (AMTA) has taken the opportunity to remind Australians about the importance of mobile phone data privacy as we begin a new year. With our day-to-day activities on our mobile phones leaving a trail of data from payment details and location information through map apps, to browsing data and login information, it's no surprise that International Data Privacy Day was created in 2007 and has been an annual event ever since. The purpose of the day is to create awareness about the importance of respecting privacy, safeguarding data and enabling trust, with more information available here and here.
 
 
+***
+![Oppo Band fitness tracker could launch in India soon](https://cdn.mos.cms.futurecdn.net/oSWekW8j7bqnJPpus8RM4F-1200-80.jpg "Oppo Band fitness tracker could launch in India soon")
+
+
+[Oppo Band fitness tracker could launch in India soon](https://www.techradar.com/news/oppo-band-fitness-tracker-could-launch-in-india-soon)
+
+
+> (Image credit: Oppo) Oppo Band India launch could happen soon as the fitness tracker has been spotted on Indian Bureau of Indian Standards certification site. The Oppo Band fitness tracker was initially launched back in June 2020, but it was China only release. It looks like the Band will go global in the coming days and India launch is also on the horizon. Mukul Sharma, popularly known as Stufflistings, spotted the Oppo Band on the Indian BIS certification site. Oppo Band comes with 'OB19B1' model number.
+
+
+***
+![Top 10 emerging backend frameworks for web development in 2021](https://external-preview.redd.it/kHZvR1PIsAOLComWNkQC1mAkTHMVrbNQpcnygGrtcs8.jpg?auto=webp&s=c6689d6c566a7e3e4edd5ffd699bc5a29e6b95be "Top 10 emerging backend frameworks for web development in 2021")
+
+
+[Top 10 emerging backend frameworks for web development in 2021](https://www.reddit.com/r/programming/comments/l4fsd8/top_10_emerging_backend_frameworks_for_web/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![PDP urges Biden to sanction Buhari's aides, APC leaders for alleged graft, others](https://guardian.ng/wp-content/uploads/2021/01/Muhammadu-Buhari-1-640x360.jpg "PDP urges Biden to sanction Buhari's aides, APC leaders for alleged graft, others")
+
+
+[PDP urges Biden to sanction Buhari's aides, APC leaders for alleged graft, others](https://editor.guardian.ng/news/pdp-urges-biden-to-sanction-buharis-aides-apc-leaders-for-alleged-graft-others/)
+
+
+> President Muhammadu Buhari Photo:Twitter Hails lifting of immigration restrictions The Peoples Democratic Party (PDP) has commended United States President Joe Biden for lifting the immigration visa restrictions on regular Nigerians, but urged him to impose firm sanctions on leaders of the All Progressives Congress (APC) and officials of the Muhammadu Buhari administration for alleged corruption and patronage of terrorists and bandits. The party also urged the new U.S. leader to freeze assets of the affected persons in the American nation, besides ensuring that they do not benefit from the consular reprieve.
+
+
+***
+![15 die in accidents on Kaduna/Abuja road](https://guardian.ng/wp-content/uploads/2021/01/Kaduna-Accident1-640x360.jpg "15 die in accidents on Kaduna/Abuja road")
+
+
+[15 die in accidents on Kaduna/Abuja road](https://editor.guardian.ng/news/15-die-in-accidents-on-kaduna-abuja-road/)
+
+
+> PHOTO: CHANNELS In 72 hours, 15 people have died in road crashes on the Kaduna/Abuja road. Kaduna State Commissioner for Internal Security and Home Affairs, Samuel Aruwan, stated yesterday that ‘one-way' driving caused the accidents. He said information on the accidents was presented in a research feedback to the state government by security operatives along the route. According to him, the figure was presented along with a report of the latest crash, which occurred yesterday morning around Greenfield University in Chikun Council.
+
+
+***
+![How COVID-19 is blessing for Nigeria, others, by Akinyemi](https://guardian.ng/wp-content/uploads/2020/05/Akinyemi-640x360.jpg "How COVID-19 is blessing for Nigeria, others, by Akinyemi")
+
+
+[How COVID-19 is blessing for Nigeria, others, by Akinyemi](https://guardian.ng/news/how-covid-19-is-blessing-for-nigeria-others-by-akinyemi/)
+
+
+> Prof. Bolaji Akinyemi Okays seeking greener pastures overseas Former Minister of External Affairs and Director General, Nigerian Institute of International Affairs (NIIA), Prof. Bolaji Akinyemi, has described the COVID-19 pandemic as a blessing to Nigeria as well as other medium and low income countries. Contrary to beliefs that the pandemic has disrupted the universe, Akinyemi said it did not abolish the world structure but restructured it by narrowing gaps within structures in certain aspects. According to him, the pandemic is a blessing to Nigeria because it has extensively checked financial recklessness of politicians through travel allowance, medical tourism, parties and other unfruitful ventures.
+
+
