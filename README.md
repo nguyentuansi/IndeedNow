@@ -15389,3 +15389,47 @@
 > Prof. Bolaji Akinyemi Okays seeking greener pastures overseas Former Minister of External Affairs and Director General, Nigerian Institute of International Affairs (NIIA), Prof. Bolaji Akinyemi, has described the COVID-19 pandemic as a blessing to Nigeria as well as other medium and low income countries. Contrary to beliefs that the pandemic has disrupted the universe, Akinyemi said it did not abolish the world structure but restructured it by narrowing gaps within structures in certain aspects. According to him, the pandemic is a blessing to Nigeria because it has extensively checked financial recklessness of politicians through travel allowance, medical tourism, parties and other unfruitful ventures.
 
 
+***
+![Creators of the Sophia robot plan mass rollout amid pandemic to 'keep people safe'](https://image-prod.iol.co.za/resize/7685x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/296fc88e-4078-56d7-aa7f-3ce598e87a4d&operation=CROP&offset=0x404&resize=7685x4323 "Creators of the Sophia robot plan mass rollout amid pandemic to 'keep people safe'")
+
+
+[Creators of the Sophia robot plan mass rollout amid pandemic to 'keep people safe'](https://www.iol.co.za/technology/gadgets/creators-of-the-sophia-robot-plan-mass-rollout-amid-pandemic-to-keep-people-safe-c5177a8c-ca4f-4b74-8e44-accb66408af9)
+
+
+> By Michelle HennessyHong Kong - "Social robots like me can take care of the sick or elderly," Sophia says as she conducts a tour of her lab in Hong Kong. "I can help communicate, give therapy and provide social stimulation, even in difficult situations."Since being unveiled in 2016, Sophia - a humanoid robot - has gone viral. Now the company behind her has a new vision: to mass-produce robots by the end of the year.Hanson Robotics, based in Hong Kong, said four models, including Sophia, would start rolling out of factories in the first half of 2021, just as researchers predict the pandemic will open new opportunities for the robotics industry.
+
+
+***
+![Forget TikTok. Clubhouse is social media's next star](https://images.indianexpress.com/2021/01/cb498ae7-e25e-40a3-9728-c0500f343f06.jpg "Forget TikTok. Clubhouse is social media's next star")
+
+
+[Forget TikTok. Clubhouse is social media's next star](https://indianexpress.com/article/technology/opinion-technology/forget-tiktok-clubhouse-is-social-medias-next-star/)
+
+
+> Written by Tae Kim/Bloomberg The next killer smartphone app has arrived — and it offers the potential to transform how we communicate, share knowledge and even make new friends. I am talking about voice-and-audio-based social networking startup Clubhouse. Its platform enables users to drop in and out of ephemeral chat rooms and take part in a range of gatherings, from small 'water-cooler' type conversations to larger discussions featuring expert panels, often attended by thousands of listeners.https://images.
+
+
+***
+[Most Popular Programming Languages In 2021](https://www.reddit.com/r/programming/comments/l4hmu5/most_popular_programming_languages_in_2021/)
+
+
+> submitted by /u/MichaelOconnor1 [link] [comments]
+
+
+***
+[This Week: Consumer confidence, Apple earns, new home sales](https://www.mymotherlode.com/news/technology/1499633/this-week-consumer-confidence-apple-earns-new-home-sales.html)
+
+
+> The Conference Board issues its January snapshot of U.S. consumer confidence Tuesday
+
+
+***
+![Australia says ‘inevitable' that Google will have to pay for news](https://images.indianexpress.com/2021/01/5006b4bf-571e-41bb-be13-1448b31a399e-1.jpg "Australia says ‘inevitable' that Google will have to pay for news")
+
+
+[Australia says ‘inevitable' that Google will have to pay for news](https://indianexpress.com/article/technology/tech-news-technology/australia-says-inevitable-that-google-will-have-to-pay-for-news/)
+
+
+> Australia's Treasurer Josh Frydenberg said it's 'inevitable' that Google and other tech behemoths will have to eventually pay for using media content, responding to the internet giant's threat to disable its search engine in the country if it's forced to pay local publishers for news. Google said Friday that a proposed law, intended to compensate publishers for the value their stories generate for the company, is 'unworkable,' opposing the requirement it pay media companies for displaying snippets of articles in search results.
+
+
