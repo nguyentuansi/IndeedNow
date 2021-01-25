@@ -15251,3 +15251,44 @@
 > Source: Nick Sutrich / Android CentralBest answer: No. Sony has not stated which internal SSDs will be compatible just yet and the PS5 does not support expanded internal storage at the moment. Only buy an external SSD if you're looking to store and play your backward-compatible PS4 games. To make it as simple as possible: SSDs are much faster, usually smaller, and cost more than HDDs. This is because SSDs use flash storage to read and write information while HDDs have mechanical parts that physically read and write information.
 
 
+***
+[法國學者稱武漢肺炎變種病毒引爆第二次大流行，英稱離解封還很遠](https://technews.tw/2021/01/25/french-scholars-claim-that-the-covid-19-mutant-virus-detonated-the-second-pandemic/)
+
+
+> Thomson Reuters 報導，法國政府新型冠狀病毒（COVID-19，武漢肺炎）疫情應對顧問 Jean […]
+
+
+***
+![Trump's extreme-right backers angry and not going anywhere](https://apicms.thestar.com.my/uploads/images/2021/01/25/1019992.jpg "Trump's extreme-right backers angry and not going anywhere")
+
+
+[Trump's extreme-right backers angry and not going anywhere](https://www.thestar.com.my/tech/tech-news/2021/01/25/trumps-extreme-right-backers-angry-and-not-going-anywhere)
+
+
+> WASHINGTON: The American far right is angry: Angry at Joe Biden, angry at Donald Trump, angry at the enigmatic 'Q' and angry with themselves. The online postings and chatrooms of extremists have been brimming with disappointment and dissent since the failed Jan 6 insurrection against Congress and the inauguration of Joe Biden as president. Followers of the QAnon conspiracy movement – and its Delphic prophet Q – are most in disarray, their millenarian predictions of chaos and doom accompanying Biden's elevation to the presidency not (or not yet) coming true.
+
+
+***
+[AWS unveils fresh migration, cloud governance and machine learning partner training](https://www.reseller.co.nz/article/685800/aws-unveils-fresh-migration-cloud-governance-machine-learning-partner-training/?utm_medium=rss&utm_source=taxonomyfeed)
+
+
+> AWS has revealed new and updated courses for partners in the areas of advanced migration, security governance and machine learning.
+
+
+***
+!['Immortals Fenyx Rising' Typhon Fight: How to Beat Him Fast](https://1734811051.rsc.cdn77.org/data/images/full/379344/immortals-fenyx-rising-typhon-how-to-beat-fight.png "'Immortals Fenyx Rising' Typhon Fight: How to Beat Him Fast")
+
+
+['Immortals Fenyx Rising' Typhon Fight: How to Beat Him Fast](https://www.techtimes.com/articles/256274/20210124/immortals-fenyx-rising-typhon-fight-beat-fast.htm)
+
+
+> Immortals Fenyx Rising: Typhon How to Beat Fight  ( Screenshot From gameranx Official YouTube Channel ) "Immortal Fenyx Rising" is a sophisticated game that has players scrambling left and right not just for the right way to hold a sword but for the right way to kill with gods. Typhon can be one of the tougher enemies but there is certainly a way to easily defeat him in battle. 'Immortals Fenyx Rising' How to Fight Typhon According to an article by IGN, once players go directly through the portal, they will then arrive at the said Gates of Tarlaros, and will be required to climb up a particularly brief peak in order to jump straight into the vault.
+
+
+***
+[SAP and Microsoft bolster relationship for 'the future of work'](https://www.reseller.co.nz/article/685799/sap-microsoft-bolster-relationship-future-work/?utm_medium=rss&utm_source=taxonomyfeed)
+
+
+> SAP and Microsoft have taken their partnership to a new symbiotic level, with each company looking to push each other's services on their own platforms in an attempt to figure out new working norms.
+
+
