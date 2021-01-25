@@ -15671,3 +15671,53 @@
 > Netflix is rolling out an update on the Android version of its app that promises to bring "studio-quality" sound to your daily TV or movie watching experience. The company is switching over to xHE-AAC or Extended High Efficiency AAC, which is a newer version HE-AAC that the company has been using so far. It was introduces back in 2012 by Fraunhofer IIS and was primarily designed for use in online streaming and broadcasting services due to its high compression ratio and efficiency, with bit-rates as low as 6kbps for mono and 12kbps for stereo, going up to 500kbps and beyond.
 
 
+***
+![Accenture and Avanade Recognized as Leader in IDC MarketScape: Worldwide Digital Workplace Services 2020](http://www.businesswire.com/images/bwlogo_square.png "Accenture and Avanade Recognized as Leader in IDC MarketScape: Worldwide Digital Workplace Services 2020")
+
+
+[Accenture and Avanade Recognized as Leader in IDC MarketScape: Worldwide Digital Workplace Services 2020](https://www.businesswire.com/news/home/20210125005721/en/Accenture-and-Avanade-Recognized-as-Leader-in-IDC-MarketScape-Worldwide-Digital-Workplace-Services-2020)
+
+
+> January 25, 2021 01:35 PM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--Accenture (NYSE: ACN) and Avanade have been jointly recognized as a leader in the IDC MarketScape: Worldwide Digital Workplace Services 2020 Vendor Assessment (March 2020, IDC #US45407619e). According to the report, 'IDC analysts rated Accenture and Avanade highly for its comprehensive digital workspace services offerings. Accenture and Avanade organizes its digital workspace services offerings around four key categories: workplace advisory, workplace value realization, workplace platform modernization, and workplace as a service (managed services), with each category containing a more granular set of offerings that are wrapped in a framework that focuses on physical experience (choices related to workplace environments), human experience (choices related to interactions with others), and digital experiences (choices related to how employees perform their jobs).
+
+
+***
+![Tesla Moves Closer To New FSD 5nm Chip In Samsung Partnership: Report](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/tesla-full-self-driving-neural-network_0.jpg "Tesla Moves Closer To New FSD 5nm Chip In Samsung Partnership: Report")
+
+
+[Tesla Moves Closer To New FSD 5nm Chip In Samsung Partnership: Report](https://www.benzinga.com/tech/21/01/19303948/tesla-moves-closer-to-new-fsd-5nm-chip-in-samsung-partnership-report)
+
+
+> Tesla Inc (NASDAQ: TSLA) is currently developing full self-driving (FSD) vehicles. To do this, the company needs the right combination of hardware and software. In 2016, Tesla began developing its own hardware chips to accelerate its FSD dream, saying the off-the-shelf option wasn't powerful enough. Electrek, citing a report from Korea, has an update on the chip. Tesla's update to the 2016 FSD computer chip is supposedly 5nm, compared to the 14nm of the hardware found in vehicles on the road today.
+
+
+***
+![UEFI Forum Announces Availability of the Updated ACPI 6.4 Specification](https://mms.businesswire.com/media/20210125005731/en/854278/23/UEFI_logo_twitter.jpg "UEFI Forum Announces Availability of the Updated ACPI 6.4 Specification")
+
+
+[UEFI Forum Announces Availability of the Updated ACPI 6.4 Specification](https://www.businesswire.com/news/home/20210125005731/en/UEFI-Forum-Announces-Availability-of-the-Updated-ACPI-6.4-Specification)
+
+
+> January 25, 2021 01:30 PM Eastern Standard Time BEAVERTON, Oregon--(BUSINESS WIRE)--The UEFI Forum today announced the release of the Advanced Configuration and Power Interface (ACPI) 6.4 specification. ACPI is the most widely used standard runtime interface between Operating Systems and platform firmware/hardware. It is also the most established standard for platforms to communicate their as-built hardware design and configuration to software. 'Given the UEFI Forum's commitment to standards and open interfaces between Operating Systems and Platform Firmware, we are pleased to introduce the new ACPI 6.
+
+
+***
+![Improving how we deploy GitHub](https://external-preview.redd.it/nEdAiUkSonTyogvHLtOe9wV9kGz806Bu8U6OdDkJYII.jpg?auto=webp&s=6bd1044737d94b8334193fd73a6d70811ee711cb "Improving how we deploy GitHub")
+
+
+[Improving how we deploy GitHub](https://www.reddit.com/r/programming/comments/l4u1kr/improving_how_we_deploy_github/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Redefining Python's Print() Function](https://external-preview.redd.it/9r7TIbkdPTAPbLfQQYrsDWVSA_ETMiPt-JtKtTCd470.jpg?auto=webp&s=887d34cc3989b3559bef676c4f24cdbfc7ce4bb3 "Redefining Python's Print() Function")
+
+
+[Redefining Python's Print() Function](https://www.reddit.com/r/Python/comments/l4u18p/redefining_pythons_print_function/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
