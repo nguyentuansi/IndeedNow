@@ -15477,3 +15477,53 @@
 > The data of users of a popular porn website has been leaked. It contains private information such as username ... Porn viewers likely to be in trouble, data of popular website leaked The data of users of a popular porn website has been leaked. It contains private information such as username and email id. According to the report, hackers could misuse this information to carry out cyber attacks or blackmail the user to extort money from them. According to Cyber ​​News, the data of a porn website called MyFreeCams has been leaked.
 
 
+***
+![[Miniaudio, single file audio library] added support for spatialization](https://external-preview.redd.it/XtfJ1e6Wl_FCqagueD42OWxs_seZdiF_Z8Or4ogyfd4.jpg?auto=webp&s=ac4b855a914f727ab3ef3db3c2455cadef3d1501 "[Miniaudio, single file audio library] added support for spatialization")
+
+
+[[Miniaudio, single file audio library] added support for spatialization](https://www.reddit.com/r/programming/comments/l4l9y2/miniaudio_single_file_audio_library_added_support/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Google pledges grants and facilities for COVID-19 vaccine programs – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1229247383.jpg?w=600 "Google pledges grants and facilities for COVID-19 vaccine programs – TechCrunch")
+
+
+[Google pledges grants and facilities for COVID-19 vaccine programs – TechCrunch](https://techcrunch.com/2021/01/25/google-pledges-grants-and-facilities-for-covid-19-vaccine-programs/)
+
+
+> Google said today it is taking several steps to help with COVID-19 vaccine distribution in the United States, including grants and opening its facilities to vaccination programs. The tech giant is among several other large corporations, including Amazon, Walmart, Starbucks and Microsoft, that have pledged support to local government agencies and medical providers to help increase vaccinations. Google will pledge ad grants and funding worth a total of $150 million to health organizations and public health agencies to promote vaccine education.
+
+
+***
+![OnePlus 9 series could come with an ultra-smooth 120Hz display](https://cdn.mos.cms.futurecdn.net/LmS29qfuJ25cjn3QVejmV9-1200-80.jpg "OnePlus 9 series could come with an ultra-smooth 120Hz display")
+
+
+[OnePlus 9 series could come with an ultra-smooth 120Hz display](https://www.techradar.com/news/oneplus-9-series-could-come-with-an-ultra-smooth-120hz-display)
+
+
+> (Image credit: Future) The OnePlus 9 series is expected to launch in the first quarter of this year and is taken to be one of the most-high ticket launches in the Android atmosphere. As expected, there is a barrage of intentional or unintentional leaks coming out almost every day that not only reveals a bit more about the phones but also keeps up the buzz.Keeping up with the same tradition, we have got to know a lot more about the upcoming OnePlus 9 series phones thanks to a fairly accurate tipster, Digital Chat Station.
+
+
+***
+![Alarming video reveals everything Google knows about who you are](https://static.independent.co.uk/2021/01/25/10/google.jpg "Alarming video reveals everything Google knows about who you are")
+
+
+[Alarming video reveals everything Google knows about who you are](https://www.independent.co.uk/life-style/gadgets-and-tech/google-ads-tiktok-settings-data-tracking-b1792145.html)
+
+
+> A potentially surprising website reveals everything that Google thinks it knows about you.It includes the information about your age, gender, job and interests that the site has been able to work out as you use its products.As you use Google products – not just the search engine but other tools such as Gmail – the company picks up information about users, in an attempt to better understand the kind of person they are. That information is then used to personalise ads, in the hope that they will be more accurate and profitable.
+
+
+***
+![Best true wireless earbuds under Rs 10,000 in India, for January 2021](https://cdn.mos.cms.futurecdn.net/KCKXtgpoAugRWaRptYJkHN-1200-80.jpg "Best true wireless earbuds under Rs 10,000 in India, for January 2021")
+
+
+[Best true wireless earbuds under Rs 10,000 in India, for January 2021](https://www.techradar.com/news/best-true-wireless-earbuds-under-rs-10000-in-india-for-may-2020)
+
+
+> The true wirelesss earbuds which are famously known as the True Wireless Stereo(TWS) earbuds picked up its pace and went main stream in 2020. In India, we are seeing a massive spike in the true wireless earbuds segment. As per the latest reports, TWS shipments grew by a whopping 723% YoY in Q3 2020 globally. Thanks to popular smartphones brands who have jumped into the true wireless earbuds segment in India, we're seeing a lot of demand for these tiny pair of earbuds in India. Although, the market is filled with budget TWS priced under Rs 5,000, there are certain earbuds that are priced above Rs 5,000 and offer better overall experience.
+
+
