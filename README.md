@@ -15527,3 +15527,53 @@
 > The true wirelesss earbuds which are famously known as the True Wireless Stereo(TWS) earbuds picked up its pace and went main stream in 2020. In India, we are seeing a massive spike in the true wireless earbuds segment. As per the latest reports, TWS shipments grew by a whopping 723% YoY in Q3 2020 globally. Thanks to popular smartphones brands who have jumped into the true wireless earbuds segment in India, we're seeing a lot of demand for these tiny pair of earbuds in India. Although, the market is filled with budget TWS priced under Rs 5,000, there are certain earbuds that are priced above Rs 5,000 and offer better overall experience.
 
 
+***
+![Video: Mass logout reported for Facebook users](https://s.abcnews.com/images/Technology/210125_atm_techbytes_hpMain_16x9_992.jpg "Video: Mass logout reported for Facebook users")
+
+
+[Video: Mass logout reported for Facebook users](https://abcnews.go.com/Technology/video/mass-logout-reported-facebook-users-75465591)
+
+
+> Coming up in the next {{countdown}} {{countdownlbl}} Coming up next: {{nextVideo.title}} {{nextVideo.description}} Skip to this video now Transcript for Mass logout reported for Facebook users In today's tech bytes and master lock up her FaceBook users it started Friday night when some users were unexpectedly log data there are counts. The social media platform is blaming a configuration change for the problem everything was fixed by Saturday. Apple is poised to announce the first 100 billion dollar quarter in company history the numbers are driven by strong performance of the iPhone twelve and high demand for Max tonight as.
+
+
+***
+![Meet Mindful dating site leak as hacker publishes private info of 2.3MILLION users online](https://www.thesun.co.uk/wp-content/uploads/2021/01/NINTCHDBPICT000621203079-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Meet Mindful dating site leak as hacker publishes private info of 2.3MILLION users online")
+
+
+[Meet Mindful dating site leak as hacker publishes private info of 2.3MILLION users online](https://www.thesun.co.uk/tech/13841581/meet-mindful-dating-site-leak-hacker/)
+
+
+> A HACKER has exposed the private details of 2.3million people after breaking into into a major dating service. The sensitive Information shared online last week belonged to US website MeetMindful and included users' names, email addresses and location data. A hacker has exposed the details of 2.3million users of a major dating platform onlineCredit: Getty Images - Getty The data dump was posted to a publicly accessible hacking forum where crooks can download it for free, a cyber security expert told ZDNet.
+
+
+***
+![Best Samsung Galaxy S21+ cases](https://m-cdn.phonearena.com/images/article/129373-two_1200/Best-Samsung-Galaxy-S21-cases.jpg "Best Samsung Galaxy S21+ cases")
+
+
+[Best Samsung Galaxy S21+ cases](https://www.phonearena.com/news/samsung-galaxy-s21-plus-cases_id129373)
+
+
+> We may earn a commission if you make a purchase from the links on this page. After an endless stream of leaks, the Galaxy S21 series is now official, ready to take on the premium smartphone market.The Galaxy S21 line consists of three models - the Galaxy S21, the Galaxy S21+, and the Galaxy S21 Ultra. The big news is that the top model will support Samsung's stylus - the S-Pen - normally a Galaxy Note exclusive. The design of the Galaxy S21 line has evolved quite a bit since the S20. Best deals on the Galaxy S21 seriesThe camera bump now flows seamlessly into the frame of the phone, creating a unique look but also posing some questions about durability and drop protection.
+
+
+***
+![The Morning After: Tesla accuses engineer of stealing Warp Drive secrets](https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F03ff25a1-5efa-11eb-bce3-6b8b3c9362a1&thumbnail=640%2C&client=49kdj93ncb8s938hkdo&signature=96f276298cd0ff41ae93d1302cb550ace05cd165 "The Morning After: Tesla accuses engineer of stealing Warp Drive secrets")
+
+
+[The Morning After: Tesla accuses engineer of stealing Warp Drive secrets](https://www.engadget.com/tesla-engineer-steal-secrets-warp-drive-tma-122056516.html)
+
+
+> Good morning! We start the week as Tesla tries to keep its trade secrets and technology safe. This time, it's suing engineer Alex Khatilov for allegedly stealing the company's custom Warp Drive software (which automates purchasing and other systems) within three days of starting his job at Tesla in late 2020.He reportedly copied 'thousands' of files to his personal Dropbox account, and when investigators grilled him, he claimed he 'forgot' about the files. The engineer even tried to delete the Dropbox app and other files at the start of the interview with Tesla.
+
+
+***
+![Biden seeks to reinforce ‘Made in America' approach favored by Trump](https://guardian.ng/wp-content/uploads/2021/01/Joe-Biden-6-640x360.jpg "Biden seeks to reinforce ‘Made in America' approach favored by Trump")
+
+
+[Biden seeks to reinforce ‘Made in America' approach favored by Trump](https://editor.guardian.ng/news/biden-seeks-to-reinforce-made-in-america-approach-favored-by-trump/)
+
+
+> WASHINGTON, DC – JANUARY 22: U.S. President Joe Biden speaks during an event on economic crisis in the State Dining Room of the White House January 22, 2021 in Washington, DC. President Biden spoke on his administrationís response to the economic crisis that caused by the COVID-19 pandemic and signed two executive orders. Alex Wong/Getty Images/AFP President Joe Biden will sign an executive order Monday giving priority to US companies and products in contracts with the federal government, pushing a 'Made in America' approach favoured by predecessor Donald Trump.
+
+
