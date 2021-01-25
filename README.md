@@ -15433,3 +15433,47 @@
 > Australia's Treasurer Josh Frydenberg said it's 'inevitable' that Google and other tech behemoths will have to eventually pay for using media content, responding to the internet giant's threat to disable its search engine in the country if it's forced to pay local publishers for news. Google said Friday that a proposed law, intended to compensate publishers for the value their stories generate for the company, is 'unworkable,' opposing the requirement it pay media companies for displaying snippets of articles in search results.
 
 
+***
+![Visual Studio's Natvis Debugging Framework Tutorial](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Visual Studio's Natvis Debugging Framework Tutorial")
+
+
+[Visual Studio's Natvis Debugging Framework Tutorial](https://www.reddit.com/r/programming/comments/l4jjgx/visual_studios_natvis_debugging_framework_tutorial/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![MediaTek to launch upgraded mid-tier 5G smartphone chipsets in H1 2021](https://m-cdn.phonearena.com/images/article/129715-two_1200/MediaTek-to-launch-upgraded-mid-tier-5G-smartphone-chipsets-in-H1-2021.jpg "MediaTek to launch upgraded mid-tier 5G smartphone chipsets in H1 2021")
+
+
+[MediaTek to launch upgraded mid-tier 5G smartphone chipsets in H1 2021](https://www.phonearena.com/news/MediaTek-upcoming-mid-range-5G-chipsets_id129715)
+
+
+> It's been less than a week since MediaTek introduced its top-tier 5G smartphone chipsets, but the Taiwanese company isn't done yet for this first half of the year. Rumor has it that two other 5G chipsets will be announced in H1 2021, but they will be less powerful than the Dimensity 1200 and 1100 chipsets that were revealed last week.Digitimes reports citing industry sources that upgraded versions of MediaTek's Dimensity 800 and 700 5G chipsets will be announced in Q2 2021. The first one, the upgraded version of the Dimensity 700 SoC is expected to be introduced in early Q2 2021, while the upgraded Dimensity 800 is most likely set for reveal at MWC (Mobile World Congress) 2021.
+
+
+***
+[WhatsApp treating Indian users differently from Europeans matter of concern: Centre tells Delhi HC](https://www.freepressjournal.in/technology/whatsapp-treating-indian-users-differently-from-europeans-matter-of-concern-centre-tells-delhi-hc)
+
+
+> No body in the article.
+
+
+***
+[[Tutorial] translate PS2 Keyboard scancodes to human-readable ASCII characters, and handle special case characters such as backspace and shift](https://www.reddit.com/r/programming/comments/l4jfty/tutorial_translate_ps2_keyboard_scancodes_to/)
+
+
+> submitted by /u/AbsurdPoncho [link] [comments]
+
+
+***
+![Porn viewers likely to be in trouble, data of popular website leaked](https://d3pc1xvrcw35tl.cloudfront.net/ln/images/686x514/porn756-202101550312_202101157374.jpg "Porn viewers likely to be in trouble, data of popular website leaked")
+
+
+[Porn viewers likely to be in trouble, data of popular website leaked](https://english.lokmat.com/technology/porn-viewers-likely-to-be-in-trouble-data-of-popular-website-leaked/)
+
+
+> The data of users of a popular porn website has been leaked. It contains private information such as username ... Porn viewers likely to be in trouble, data of popular website leaked The data of users of a popular porn website has been leaked. It contains private information such as username and email id. According to the report, hackers could misuse this information to carry out cyber attacks or blackmail the user to extort money from them. According to Cyber ​​News, the data of a porn website called MyFreeCams has been leaked.
+
+
