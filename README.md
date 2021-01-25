@@ -15721,3 +15721,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![What Is PlayStation Plus? Everything You Need To Know](https://www.androidheadlines.com/wp-content/uploads/2021/01/PlayStation-Plus-1.jpg "What Is PlayStation Plus? Everything You Need To Know")
+
+
+[What Is PlayStation Plus? Everything You Need To Know](https://www.androidheadlines.com/what-is-playstation-plus-everything-sony-ps-gaming-console.html)
+
+
+> Sony's PlayStation Plus is a widely popular service that the majority of PlayStation console owners are subscribed to. But PlayStation Plus is more than just a subscription service.It comes with numerous benefits that you definitely want to be able to take advantage of if you own a PS4 or PS5. And even older systems like the PS3 and PS Vita, although they get less benefits these days as Sony isn't actively selling those systems anymore. But what exactly is PlayStation Plus? In this guide we break the whole thing down.
+
+
+***
+![MyHeritage Releases Color Restoration Feature to Bring New Life to Faded Color Photos](https://mms.businesswire.com/media/20210125005817/en/854227/23/MyHeritage_Color_Restoration.gif "MyHeritage Releases Color Restoration Feature to Bring New Life to Faded Color Photos")
+
+
+[MyHeritage Releases Color Restoration Feature to Bring New Life to Faded Color Photos](https://www.businesswire.com/news/home/20210125005817/en/MyHeritage-Releases-Color-Restoration-Feature-to-Bring-New-Life-to-Faded-Color-Photos)
+
+
+> January 25, 2021 03:24 PM Eastern Standard Time TEL AVIV, Israel & LEHI, Utah--(BUSINESS WIRE)--MyHeritage, the leading global service for discovering your past and empowering your future, announced today the release of color restoration for faded color photos. A major enhancement to MyHeritage's advanced suite of photo tools, color restoration revives the authentic colors in faded photos, with exceptional results. Color restoration is ideal for old color photos from the 1950's through the 1990's, where the chemistry of printed photos stored in albums did not withstand the test of time and caused the colors to fade or turn yellow.
+
+
+***
+![100 mln COVID-19 cases worldwide expected this week: WHO chief](https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png "100 mln COVID-19 cases worldwide expected this week: WHO chief")
+
+
+[100 mln COVID-19 cases worldwide expected this week: WHO chief](https://www.thestar.com.my/tech/tech-news/2021/01/26/100-mln-covid-19-cases-worldwide-expected-this-week-who-chief)
+
+
+> GENEVA, Jan. 25 (Xinhua) -- The number of COVID-19 cases worldwide is expected to reach 100 million within this week, said the Director-General of the World Health Organization (WHO) Tedros Adhanom Ghebreyesus. "A year ago today, fewer than 1,500 cases of COVID-19 had been reported to WHO, including just 23 cases outside China. This week, we expect to reach 100 million reported cases," Tedros said at a WHO press briefing on Monday. "Numbers can make us numb to what they represent: every death is someone's parent, someone's partner, someone's child, someone's friend," he added, and called for vaccination of health workers and older people to be underway in all countries within the first 100 days of 2021.
+
+
+***
+![The best Presidents' Day sales 2021: early deals on mattresses, TVs, laptops, and more](https://cdn.mos.cms.futurecdn.net/ujRHws5Br7YJ6HhQGu8b24-1200-80.jpg "The best Presidents' Day sales 2021: early deals on mattresses, TVs, laptops, and more")
+
+
+[The best Presidents' Day sales 2021: early deals on mattresses, TVs, laptops, and more](https://www.techradar.com/news/presidents-day-sales-2020-final-deals)
+
+
+> Presidents' Day sales will be here before you know it, and to help you find all the top offers, we've rounded up the best early Presidents' Day deals below and listed everything else you need to know about the upcoming holiday weekend event. The 2021 Presidents' Day date falls on February 17 this year, which means we should start to see online sales popping up soon from retailers like Home Depot, Best Buy, Walmart, and Lowe's. Presidents' Day sales are a perfect opportunity to score deals on everything from furniture, mattresses, and appliances to TVs, laptops, tablets, and more.
+
+
+***
+![Tesla Loses Engineer That Helped Bring Efficiency Boosting Heat Pump](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/2120x920_supercharger_detail_4.jpg "Tesla Loses Engineer That Helped Bring Efficiency Boosting Heat Pump")
+
+
+[Tesla Loses Engineer That Helped Bring Efficiency Boosting Heat Pump](https://www.benzinga.com/tech/21/01/19306006/tesla-loses-engineer-that-helped-bring-efficiency-boosting-heat-pump)
+
+
+> When Tesla Inc (NASDAQ: TSLA) released the Model Y, it came with a new feature that had never been seen in a Tesla vehicle: the heat pump. This replaced the resistive heater, which gave a huge efficiency boost to vehicles in colder climates. Tesla later brought this to the Model 3, also boosting efficiency for that vehicle. Joseph Mardall, the Engineering Director from Tesla that was behind the heat pump, has left the company, CNBC first reported. Mardall was with the company for 10 years but held the role of Engineering Director since April 2018.
+
+
