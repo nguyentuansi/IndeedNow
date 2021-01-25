@@ -15771,3 +15771,53 @@
 > When Tesla Inc (NASDAQ: TSLA) released the Model Y, it came with a new feature that had never been seen in a Tesla vehicle: the heat pump. This replaced the resistive heater, which gave a huge efficiency boost to vehicles in colder climates. Tesla later brought this to the Model 3, also boosting efficiency for that vehicle. Joseph Mardall, the Engineering Director from Tesla that was behind the heat pump, has left the company, CNBC first reported. Mardall was with the company for 10 years but held the role of Engineering Director since April 2018.
 
 
+***
+![Sierra Wireless, Inc. (SWIR) Quant Ratings](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Sierra Wireless, Inc. (SWIR) Quant Ratings")
+
+
+[Sierra Wireless, Inc. (SWIR) Quant Ratings](https://seekingalpha.com/symbol/SWIR/ratings/quant-ratings)
+
+
+> No ratings were found on which match these criteria.
+
+
+***
+![Sierra Wireless, Inc. (SWIR) Wall St. Analysts Rating](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Sierra Wireless, Inc. (SWIR) Wall St. Analysts Rating")
+
+
+[Sierra Wireless, Inc. (SWIR) Wall St. Analysts Rating](https://seekingalpha.com/symbol/SWIR/ratings/sell-side-ratings)
+
+
+> No body in the article.
+
+
+***
+![Vimeo Raises $300 Million of Equity](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Vimeo Raises $300 Million of Equity")
+
+
+[Vimeo Raises $300 Million of Equity](https://seekingalpha.com/pr/18163789-vimeo-raises-300-million-of-equity)
+
+
+> NEW YORK , Jan. 25, 2021 /PRNewswire/ -- Vimeo, an IAC (NASDAQ: IAC) business and the world's leading video software company, today announced it raised $300 million in primary equity from T. Rowe Price Group, Inc. and Oberndorf Enterprises, LLC at a valuation in excess of $5 billion. This follows the November 2020 announcement of the company's $150 million equity raise and IAC's plan to spin-off Vimeo into an independent, separately-traded public company. The new investment occurred in two tranches, consisting of $200 million at a $5.
+
+
+***
+![Qumu readies $20M underwritten public offering (NASDAQ:QUMU)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Qumu readies $20M underwritten public offering (NASDAQ:QUMU)")
+
+
+[Qumu readies $20M underwritten public offering (NASDAQ:QUMU)](https://seekingalpha.com/news/3654161-qumu-readies-20m-underwritten-public-offering)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Twitter Announces Proposed Settlement of Shareholder Derivative Lawsuits](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Twitter Announces Proposed Settlement of Shareholder Derivative Lawsuits")
+
+
+[Twitter Announces Proposed Settlement of Shareholder Derivative Lawsuits](https://seekingalpha.com/pr/18163791-twitter-announces-proposed-settlement-of-shareholder-derivative-lawsuits)
+
+
+> SAN FRANCISCO , Jan. 25, 2021 /PRNewswire/ -- Twitter, Inc. (NYSE: TWTR) today announced that it has entered into a binding agreement to settle the shareholder derivative lawsuits pending in the Court of Chancery of the State of Delaware (the "Court") and the United States District Court for the District of Delaware against the Company and certain current and former directors and officers. The proposed settlement resolves all claims asserted against Twitter and the other named defendants in the derivative lawsuits without any liability or wrongdoing attributed to them personally or the Company.
+
+
