@@ -15627,3 +15627,47 @@
 > January 25, 2021 09:17 AM Eastern Standard Time PLANO, Texas--(BUSINESS WIRE)--Tyler Technologies, Inc. (NYSE: TYL) will discuss its fourth quarter 2020 results during a conference call and webcast on Thursday, February 11, 2021. The teleconference begins at 10 a.m. ET and will be hosted by H. Lynn Moore Jr., president and CEO; and Brian K. Miller, executive vice president and chief financial officer. The related press release will be issued after the market closes on Wednesday, February 10, 2021.
 
 
+***
+[NZD falls down test hourly MAs. Retraces gains.](https://www.forexlive.com/technical-analysis/!/nzd-falls-down-test-hourly-mas-retraces-gains-20210125)
+
+
+> 100/200 hour MAs stalled the fall The NZDUSD fell on the back of the stocks giving up gains with the pair moving down to test the 100/200 hour MAs at 0.71754 and 0.71682 respectively. The low price reached 0.71702 between the two MA levels and found dip (low risk) buyers. The price is currrently trading at
+
+
+***
+![Deals: Shop Discounts on M1 Macs (Up to $100 Off), Anker Accessories, 2020 iPad Air ($40 Off), and AirPods Pro ($50 Off)](https://images.macrumors.com/t/gqqe5OkLAu5qSO5NMyKrgMH7_ms=/1920x/https://images.macrumors.com/article-new/2020/10/AirPods-Pro-Discount-Feature-desaturated.jpg "Deals: Shop Discounts on M1 Macs (Up to $100 Off), Anker Accessories, 2020 iPad Air ($40 Off), and AirPods Pro ($50 Off)")
+
+
+[Deals: Shop Discounts on M1 Macs (Up to $100 Off), Anker Accessories, 2020 iPad Air ($40 Off), and AirPods Pro ($50 Off)](https://www.macrumors.com/2021/01/25/deals-m1-macs-anker-ipad-airpods/)
+
+
+> We're tracking a variety of different discounts to kick off the last week of January. This includes deals on MacBook Pro, MacBook Air, and Mac mini with the M1 chip, as well as Anker accessories, the iPad Air, and the AirPods Pro. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. AirPods Pro Apple's AirPods Pro are available for $199.98, down from $249.00 this week on Amazon.
+
+
+***
+[Netflix updated its Android  app to make things sound better on Android devices](https://knowtechie.com/netflix-updated-its-android-app-to-make-things-sound-better-on-android-devices/)
+
+
+> The Android update was included among other technical updates. The post Netflix updated its Android app to make things sound better on Android devices appeared first on KnowTechie.
+
+
+***
+![Probabilistic flakiness: How do you test your tests?](https://external-preview.redd.it/Kny1LgjQbyWBmMcs4Q8aprtGmuwItorOx3Pe0XMpFRc.jpg?auto=webp&s=f3668f1c5bd300ea21e12958930d05ce0338981a "Probabilistic flakiness: How do you test your tests?")
+
+
+[Probabilistic flakiness: How do you test your tests?](https://www.reddit.com/r/programming/comments/l4rdim/probabilistic_flakiness_how_do_you_test_your_tests/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Netflix adopts xHE-AAC variable bitrate audio codec on Android](https://fdn.gsmarena.com/imgroot/news/21/01/netflix-xhe-aac/-476x249w4/gsmarena_000.jpg "Netflix adopts xHE-AAC variable bitrate audio codec on Android")
+
+
+[Netflix adopts xHE-AAC variable bitrate audio codec on Android](https://www.gsmarena.com/netflix_adopts_xheaac_variable_bitrate_audio_codec_on_android-news-47383.php)
+
+
+> Netflix is rolling out an update on the Android version of its app that promises to bring "studio-quality" sound to your daily TV or movie watching experience. The company is switching over to xHE-AAC or Extended High Efficiency AAC, which is a newer version HE-AAC that the company has been using so far. It was introduces back in 2012 by Fraunhofer IIS and was primarily designed for use in online streaming and broadcasting services due to its high compression ratio and efficiency, with bit-rates as low as 6kbps for mono and 12kbps for stereo, going up to 500kbps and beyond.
+
+
