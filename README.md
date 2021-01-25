@@ -15577,3 +15577,53 @@
 > WASHINGTON, DC – JANUARY 22: U.S. President Joe Biden speaks during an event on economic crisis in the State Dining Room of the White House January 22, 2021 in Washington, DC. President Biden spoke on his administrationís response to the economic crisis that caused by the COVID-19 pandemic and signed two executive orders. Alex Wong/Getty Images/AFP President Joe Biden will sign an executive order Monday giving priority to US companies and products in contracts with the federal government, pushing a 'Made in America' approach favoured by predecessor Donald Trump.
 
 
+***
+![Where to buy PS5: all the latest restock updates](https://cdn.mos.cms.futurecdn.net/aNDcqZtc64o82eeqfE5Fte-1200-80.jpg "Where to buy PS5: all the latest restock updates")
+
+
+[Where to buy PS5: all the latest restock updates](https://www.techradar.com/news/where-to-buy-ps5)
+
+
+> Click here to refresh this article and find all the latest updates on where to buy PS5. Last week saw a new flash of PS5 restocks hitting both the US and UK. We had GameStop, Best Buy and Target all offering more chances to buy PS5 in the US, with Currys and Game offering UK shoppers a console as well. All of those PS5 restocks did sell out fairly quickly, however retailers were releasing stock in waves this time around making for a slightly more even playing field. We're yet to hear much from the likes of Amazon and Walmart in the US, and the UK is still waiting on more stock from Amazon and Argos as well - so there's still plenty to play for in this round of stock.
+
+
+***
+![What is Thread and why do your smart home gadgets need it?](https://cdn.mos.cms.futurecdn.net/EN5X4jwyaCDyu9QzytgU99-1200-80.jpg "What is Thread and why do your smart home gadgets need it?")
+
+
+[What is Thread and why do your smart home gadgets need it?](https://www.techradar.com/news/what-is-thread-and-why-do-your-smart-home-gadgets-need-it)
+
+
+> Thread smart home technology is built into the HomePod Mini and Nanoleaf Essentials bulbs (Image credit: Nanoleaf) When Apple launched the HomePod Mini late last year, a lot was made of the fact the smart speaker supported Thread. Until the Apple launch, Thread was a little-known smart home technology that certainly wasn't a phrase on everybody's lips.  Now, it's become a term that's being heard more and more when it comes to smart home devices. But just what is Thread and why do smart home gadgets need it? Here's everything you need to know.
+
+
+***
+![Mark Peters Assumes Lab Operations Leadership Role for Battelle](https://mms.businesswire.com/media/20210125005517/en/566368/23/LinkedIn_big.jpg "Mark Peters Assumes Lab Operations Leadership Role for Battelle")
+
+
+[Mark Peters Assumes Lab Operations Leadership Role for Battelle](https://www.businesswire.com/news/home/20210125005517/en/Mark-Peters-Assumes-Lab-Operations-Leadership-Role-for-Battelle)
+
+
+> January 25, 2021 09:21 AM Eastern Standard Time COLUMBUS, Ohio--(BUSINESS WIRE)--Battelle announced today that Mark Peters has assumed the role of Executive Vice President of Laboratory Operations. Peters served as Laboratory Director at Idaho National Laboratory (INL) since October 2015. 'We are very fortunate to have Mark join Battelle's senior leadership team,' said Lou Von Thaer, President and CEO of Battelle. 'Throughout his distinguished career, Mark has demonstrated exceptional skills as a strategic leader, team builder, and champion of a healthy safety and operations culture in complex research and development environments.
+
+
+***
+![Yet more ransomware operators are using DDoS attacks as leverage](https://cdn.mos.cms.futurecdn.net/G8SSmgihtdUePSjkJqSadi-1200-80.jpg "Yet more ransomware operators are using DDoS attacks as leverage")
+
+
+[Yet more ransomware operators are using DDoS attacks as leverage](https://www.techradar.com/news/yet-more-ransomware-operators-are-using-ddos-attacks-as-leverage)
+
+
+> (Image credit: Shutterstock / binarydesign) In what is fast emerging as a disturbing trend, another ransomware gang has now resorted to using Distributed Denial of Service (DDoS) attacks to knock their victim's websites offline.According to reports, ransomware operators are ganging up to launch repeated DDoS attacks against a victim's website to force them to the negotiating table.The reports quote Brett Callow, threat analyst at Emsisoft, who isn't surprised at this new modus operandi: 'DDoS is cheap, easy and in some cases may help convince some companies that speedy payment is the least painful option.
+
+
+***
+![Tyler Technologies Schedules Fourth Quarter 2020 Earnings Conference Call and Webcast](https://mms.businesswire.com/media/20210125005012/en/257505/23/tyler_logo_RGB.jpg "Tyler Technologies Schedules Fourth Quarter 2020 Earnings Conference Call and Webcast")
+
+
+[Tyler Technologies Schedules Fourth Quarter 2020 Earnings Conference Call and Webcast](https://www.businesswire.com/news/home/20210125005012/en/Tyler-Technologies-Schedules-Fourth-Quarter-2020-Earnings-Conference-Call-and-Webcast)
+
+
+> January 25, 2021 09:17 AM Eastern Standard Time PLANO, Texas--(BUSINESS WIRE)--Tyler Technologies, Inc. (NYSE: TYL) will discuss its fourth quarter 2020 results during a conference call and webcast on Thursday, February 11, 2021. The teleconference begins at 10 a.m. ET and will be hosted by H. Lynn Moore Jr., president and CEO; and Brian K. Miller, executive vice president and chief financial officer. The related press release will be issued after the market closes on Wednesday, February 10, 2021.
+
+
