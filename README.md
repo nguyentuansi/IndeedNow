@@ -16162,3 +16162,47 @@
 > Highlights Realme may have plans to launch laptops in India. The Realme laptops may be launched as early as June this year. Realme will take on Xiaomi and Nokia with the launch of laptops. Realme laptops are coming and that too soon. One of the youngest tech brands may be planning to enter the PC market with its first line of laptops as early as June this year. The company is rapidly diversifying its product lines. From smartphones to AIoT products, Realme has come a long way and the next concrete step that will bolster the company's position in the market as a comprehensive tech brand to take on Xiaomi, Huawei, and others.
 
 
+***
+![Firefox 85 now available with a major new privacy feature](https://cdn.mos.cms.futurecdn.net/NLcKjqUk99WnyReTjoAhfU-1200-80.jpg "Firefox 85 now available with a major new privacy feature")
+
+
+[Firefox 85 now available with a major new privacy feature](https://www.techradar.com/news/firefox-85-now-available-with-a-major-new-privacy-feature)
+
+
+> (Image credit: Mozilla) Firefox 85.0 is now available as the first major release of the popular open source web browser in 2021, including several new features, including a much awaited privacy enhancing behind-the-scenes functionality called Network Partitioning. The release is also significant as it comes shortly after Google decided to cut off API access to various Google services for all browsers based on the open source Chromium core. Google's move strips away various useful features from the open source Chromium browser, who will now gravitate towards this latest Firefox release.
+
+
+***
+[Apple faces $73mn lawsuit in Europe over throttling iPhones](https://www.freepressjournal.in/technology/apple-faces-73mn-lawsuit-in-europe-over-throttling-iphones)
+
+
+> No body in the article.
+
+
+***
+[Ringover, a SaaS-based cloud service for voice, video, messaging, and SMS customer communication, raises &euro;10M Series A led by Expedition Growth Capital (Paul Sawers/VentureBeat)](http://www.techmeme.com/210126/p6#a210126p6)
+
+
+> Paul Sawers / VentureBeat: Ringover, a SaaS-based cloud service for voice, video, messaging, and SMS customer communication, raises €10M Series A led by Expedition Growth Capital — Ringover, a cloud communication platform for businesses, has raised €10 million ($12 million) in a series A round of funding …
+
+
+***
+![The mobile Nvidia RTX 3080 and RTX 3070 are here: what can they do?](https://cdn.mos.cms.futurecdn.net/JiThQcpCQ2P3TM7Z2i5nND-1200-80.jpg "The mobile Nvidia RTX 3080 and RTX 3070 are here: what can they do?")
+
+
+[The mobile Nvidia RTX 3080 and RTX 3070 are here: what can they do?](https://www.techradar.com/news/the-new-nvidia-rtx-mobile-gpus-are-here-and-we-put-them-to-the-test)
+
+
+> Back at CES 2021, Nvidia announced its RTX 3000 laptop graphics processors, powering a whole new generation of the best gaming laptops. At first glance, this new lineup is pretty easy to follow, as the three GPUs on offer are the Nvidia GeForce RTX 3080, RTX 3070 and RTX 3060 - three desktop graphics cards that dropped in 2020.However, as always, the constraints of a mobile form factor mean that you're not exactly getting the same graphics card as the name implies. For the most part, this isn't really a big deal - it's a bit silly to expect that a laptop is going to be able to provide the same amount of raw horsepower that a full desktop system with unlimited power and cooling can offer.
+
+
+***
+![These are the best smartwatches with LTE connectivity you can buy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/samsung-galaxy-watch-3-joe-maring.jpg "These are the best smartwatches with LTE connectivity you can buy")
+
+
+[These are the best smartwatches with LTE connectivity you can buy](https://www.androidcentral.com/best-smartwatch-lte)
+
+
+> Source: Android Central Best Smartwatch With LTE Android Central 2021 Wearables with LTE connectivity are made for a very specific type of user — the one who doesn't want to take their phone out to work out — and they're becoming more and more popular these days. While everyone has their preference, we feel confident saying that the Samsung Galaxy Watch 3 is the best LTE smartwatch you can buy. It has a nice blend of smartwatch perks and health/fitness tracking that most users will appreciate. Fortunately, there are plenty of options to choose from.
+
+
