@@ -15968,3 +15968,47 @@
 > The Amazon Smile program will no longer allow shoppers to send a small portion of eligible purchases to five charities related to militia movements whose members are under investigation. Getty Images Amazon has removed five groups that appear to be affiliated with militia movements from its Amazon Smile charitable giving program. The groups are registered nonprofits that all share names with either the Oath Keepers or the Three Percent movements, whose members are reportedly under investigation in connection with the Jan.
 
 
+***
+![Need a VPN for your Mac? ExpressVPN & NordVPN top our list of best picks](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/05/nordvpn-mac.jpg "Need a VPN for your Mac? ExpressVPN & NordVPN top our list of best picks")
+
+
+[Need a VPN for your Mac? ExpressVPN & NordVPN top our list of best picks](https://www.imore.com/best-mac-vpn)
+
+
+> Looking to sign up for the best Mac VPN service but not sure which one is the right choice for you to use? There are a lot of great VPN providers out there and, honestly, it seems like there is a new player in the space every single day. Figuring out exactly which is the best VPN for Mac can be tricky though. Most VPN providers offer a wide variety of support for devices, but not everything works everywhere. For those who are unsure of what a VPN is, let's break it down real quick. A VPN (or Virtual Private Network) is something that you connect to in order to add an extra layer of security and encryption to your internet connection.
+
+
+***
+![A look at the soaring valuations of Rivian and Cruise with transportation VC Reilly Brennan](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1027352564-1.jpg?w=600 "A look at the soaring valuations of Rivian and Cruise with transportation VC Reilly Brennan")
+
+
+[A look at the soaring valuations of Rivian and Cruise with transportation VC Reilly Brennan](https://techcrunch.com/2021/01/25/reilly-brennan/)
+
+
+> Reilly Brennan loves cars. The native Michigander happily did grunt work for an automotive magazine as an undergrad at the University of Michigan before landing a gig as a trackside communications manager at General Motors, spending a few years as an editor and a general manager with an automotive publisher called NextScreen, then becoming a programming director for AOL's automotive properties.His next role would be on the West Coast, as executive director of an automotive research program at Stanford, where Brennan continues to be a lecturer.
+
+
+***
+![FAU-G launch on Republic Day 2021: everything to know about ‘made in India' PUBG Mobile rival](https://images.financialexpress.com/2021/01/faug-1.jpg "FAU-G launch on Republic Day 2021: everything to know about ‘made in India' PUBG Mobile rival")
+
+
+[FAU-G launch on Republic Day 2021: everything to know about ‘made in India' PUBG Mobile rival](https://www.financialexpress.com/industry/technology/fau-g-launch-on-republic-day-2021-everything-to-know-about-made-in-india-pubg-mobile-rival/2178923/)
+
+
+> While the game is being touted by reports as the Indian answer to PUBG, there is no certain proof yet that it features the same battle royale-like gameplay.FAU-G launch: Soon after the Government of India banned PUBG Mobile last year, made-in-India FAU-G was announced by developer nCore Games. Now, FAU-G is set to be launched on January 26 amidst a lot of anticipation and buzz among people. Whatever is known about the game is based on the trailers as well as teasers that have been released, but it is still surrounded by excitement, simply because it came as a solace to a lot of users who loved PUBG.
+
+
+***
+[Lucah: Born of a Dream updated to Version 1.5.0](https://gonintendo.com/stories/375876-lucah-born-of-a-dream-updated-to-version-1-5-0)
+
+
+> Lucah: Born of a Dream has been updated to Version 1.5.0. Check out the patch notes for this update below. – Added Spanish localization – Clearing the Descent now unlocks Turbo mode for all save files by default (thank you to speedrunner Durante for discovering this issue). – Fixed a bug that caused crashes during the Arcade section, particularly in the Switch version of the game. While this didn't cause crashes in the PC version, this fix should still prevent some unintended behavior when defeating enemies quickly in the Arcade and the Descent.
+
+
+***
+[Taxi Chaos cover art revealed](https://gonintendo.com/stories/375875-taxi-chaos-cover-art-revealed)
+
+
+> Taxi Chaos was originally revealed for Switch back in the Summer of 2020, and last we heard, the game is set to launch on Feb. 23rd, 2021. There will be both a digital and retail release for the game, with the physical option priced at $35. You can check out the cover art for that option above, and a recap for the game below. Taxi Madness is a casual arcade racing game where you select one of a wide range of unlockable cabs, each of whom has different attributes: the strong muscle car, the superfast exotic supercar, the corner-drifting Japanese tuner, an American classic from the ‘60s and more: Taxi Mayhem has them all.
+
+
