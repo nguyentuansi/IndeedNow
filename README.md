@@ -15821,3 +15821,50 @@
 > SAN FRANCISCO , Jan. 25, 2021 /PRNewswire/ -- Twitter, Inc. (NYSE: TWTR) today announced that it has entered into a binding agreement to settle the shareholder derivative lawsuits pending in the Court of Chancery of the State of Delaware (the "Court") and the United States District Court for the District of Delaware against the Company and certain current and former directors and officers. The proposed settlement resolves all claims asserted against Twitter and the other named defendants in the derivative lawsuits without any liability or wrongdoing attributed to them personally or the Company.
 
 
+***
+![Twitter unveils 'community-driven' effort to fight misinformation](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-11/20201124_Twitter_logo_AFP-seo.jpg "Twitter unveils 'community-driven' effort to fight misinformation")
+
+
+[Twitter unveils 'community-driven' effort to fight misinformation](https://www.malaymail.com/news/tech-gadgets/2021/01/26/twitter-unveils-community-driven-effort-to-fight-misinformation/1944002)
+
+
+> Birdwatch will be operated separately from Twitter while allowing users to identify tweets which may be false or misleading, the platform said of its new effort to stem false and harmful content. — AFP pic SAN FRANCISCO, Jan 26 ― Twitter announced a new initiative yesterday to enlist users to flag misinformation on its platform through a project known as Birdwatch. Birdwatch will be operated separately from Twitter while allowing users to identify tweets which may be false or misleading, the platform said of its new effort to stem false and harmful content.
+
+
+***
+![Where in the world has the most self-serve mopeds, bikes and scooters?](https://apicms.thestar.com.my/uploads/images/2021/01/26/1021240.jpg "Where in the world has the most self-serve mopeds, bikes and scooters?")
+
+
+[Where in the world has the most self-serve mopeds, bikes and scooters?](https://www.thestar.com.my/tech/tech-news/2021/01/26/where-in-the-world-has-the-most-self-serve-mopeds-bikes-and-scooters)
+
+
+> Electric scooter sharing schemes first took off in the US, where they have so far proved the most successful. — AFP Relaxnews New urban mobility solutions are gaining increasing numbers of users, particularly with self-serve sharing offers multiplying in big cities. All around the world, it's now easy and practical to pick up an electric moped, a bike or even a scooter to speed up a short urban journey. But, depending on the country and the culture, some modes are taking the lead over others, with bikes riding high in China and scooters speeding ahead in the US.
+
+
+***
+![Human rights group urges New York to ban police use of facial recognition](https://i.guim.co.uk/img/media/85676a6a424d2da156a1e11b78fc593a1ac470e2/0_232_3853_2312/master/3853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63734da0ef9a4429fd271008beab0d43 "Human rights group urges New York to ban police use of facial recognition")
+
+
+[Human rights group urges New York to ban police use of facial recognition](http://www.theguardian.com/technology/2021/jan/25/new-york-facial-recognition-technology-police)
+
+
+> Facial recognition technology amplifies racist policing, threatens the right to protest and should be banned globally, Amnesty International said as it urged New York City to pass a ban on its use in mass surveillance by law enforcement. 'Facial recognition risks being weaponised by law enforcement against marginalised communities around the world,' said Matt Mahmoudi, AI and human rights researcher at Amnesty. 'From New Delhi to New York , this invasive technology turns our identities against us and undermines human rights.
+
+
+***
+[馬斯克計劃於邁阿密挖隧道，專家質疑地質無法挖掘](https://technews.tw/2021/01/26/elon-musks-plan-to-dig-car-tunnels-under-miami-is-filled-with-holes/)
+
+
+> 馬斯克（Elon Musk）創辦的 The Boring Company 一直以先進隧道挖掘技術自居，最近馬斯 […]
+
+
+***
+![Internet Society Foundation awards $1M to projects that examine the future and sustainability of the internet](https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg "Internet Society Foundation awards $1M to projects that examine the future and sustainability of the internet")
+
+
+[Internet Society Foundation awards $1M to projects that examine the future and sustainability of the internet](https://www.helpnetsecurity.com/2021/01/26/internet-society-foundation-research-grant/)
+
+
+> The Internet Society Foundation has awarded over $1 million through its Research grant programme to seven projects that examine the future and sustainability of the internet. In its pilot year, this programme seeks to support a diverse group of researchers who are generating solutions today to meet the internet challenges of tomorrow. The selected projects explore important issues around the internet's relationship to society, such as: the economic cost of the digital gender gap, the impact of digital labour platforms on worker's rights, what climate solutions might help decarbonize the subsea cable network, and more.
+
+
