@@ -16062,3 +16062,53 @@
 > Selasa, 26 Januari 2021 13:58 WIB lihat foto ff.garena.com free fire. Kode Redeem FF Terbaru 26 Januari 2021, Berikut Cara Redeem Code Free Fire
 
 
+***
+![Amazfit could be about to launch a new sports smartwatch, the T-Rex Pro](https://cdn.mos.cms.futurecdn.net/FfHvggu2odjqr7CgSkH4ig-1200-80.jpg "Amazfit could be about to launch a new sports smartwatch, the T-Rex Pro")
+
+
+[Amazfit could be about to launch a new sports smartwatch, the T-Rex Pro](https://www.techradar.com/news/amazfit-could-be-about-to-launch-a-new-sports-smartwatch-the-t-rex-pro)
+
+
+> The original Amazfit T-Rex (Image credit: Amazfit) It looks like Amazfit is primed and ready to launch a successor to last year's Amazfit T-Rex – a tough sports watch designed to tackle the great outdoors. Eagle-eyed reporters at Gadgets & Wearables have spotted a new Federal Communications Commission (FCC) certification for a device called the Amazfit T-Rex Pro. It looks like the device was originally known as the T-Rex 2, but was renamed in December last year. This certification is necessary for the release of a new wireless device in the US, suggesting that the new watch will be released globally before long.
+
+
+***
+![Realme's Samsung Galaxy S21 Ultra rival is launching in February](https://cdn.mos.cms.futurecdn.net/Wf4PX8ENjV3STF5HQoypPN-1200-80.jpg "Realme's Samsung Galaxy S21 Ultra rival is launching in February")
+
+
+[Realme's Samsung Galaxy S21 Ultra rival is launching in February](https://www.techradar.com/news/realmes-samsung-galaxy-s21-ultra-rival-is-launching-in-february)
+
+
+> Samsung Galaxy S21 Ultra (Image credit: Samsung) While the Samsung Galaxy S21 Ultra is the best phone we've tested (at the time of writing), its days in that position might be limited. The Realme Race series, including a Pro model, are coming and their launch date has been confirmed for February.This comes from Chinese social media site Weibo, where the company's president Xu Qi Chase confirmed the phone will be coming 'after the Spring Festival'. In 2021 the Spring Festival, another name for the Chinese New Year, falls on February 12, so we could see the phone launched immediately after that.
+
+
+***
+![When Will Robots Take Over The World?](https://sm.mashable.com/t/mashable_me/photo/default/capture3_hnpj.1200.jpg "When Will Robots Take Over The World?")
+
+
+[When Will Robots Take Over The World?](https://me.mashable.com/tech/12687/when-will-robots-take-over-the-world)
+
+
+> These are Sketching Robots Emirati lab uses AI-powered scanning to up the ante against breast cancer
+
+
+***
+![These are Sketching Robots](https://sm.mashable.com/t/mashable_me/photo/default/capture1_28pn.1200.jpg "These are Sketching Robots")
+
+
+[These are Sketching Robots](https://me.mashable.com/tech/12685/these-are-sketching-robots)
+
+
+> Evolution of the #hashtag Artificial Intelligence is Providing Solutions to Healthcare
+
+
+***
+![US-China tech war: Beijing's top policy official lays out strategy to address Washington's ‘stranglehold' over China](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/26/6f93f368-5f9f-11eb-9099-aaa38b7b3943_image_hires_164812.jpg?itok=WAZ0UGwr&v=1611650908 "US-China tech war: Beijing's top policy official lays out strategy to address Washington's ‘stranglehold' over China")
+
+
+[US-China tech war: Beijing's top policy official lays out strategy to address Washington's ‘stranglehold' over China](https://www.scmp.com/tech/policy/article/3119294/us-china-tech-war-beijings-top-policy-official-lays-out-strategy)
+
+
+> An employee demonstrates a wearable AI-powered bionic hand at the JD Global Technology Discovery Conference in Beijing, Nov. 25, 2020. China must mobilise the nation's private businesses to reduce reliance on foreign technologies, says a top policy adviser. Photo: Xinhua
+
+
