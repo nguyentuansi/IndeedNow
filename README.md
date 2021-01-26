@@ -15868,3 +15868,53 @@
 > The Internet Society Foundation has awarded over $1 million through its Research grant programme to seven projects that examine the future and sustainability of the internet. In its pilot year, this programme seeks to support a diverse group of researchers who are generating solutions today to meet the internet challenges of tomorrow. The selected projects explore important issues around the internet's relationship to society, such as: the economic cost of the digital gender gap, the impact of digital labour platforms on worker's rights, what climate solutions might help decarbonize the subsea cable network, and more.
 
 
+***
+![Who is playing in Super Bowl 2021?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/super-bowl-logo.jpg "Who is playing in Super Bowl 2021?")
+
+
+[Who is playing in Super Bowl 2021?](https://www.androidcentral.com/which-teams-are-playing-super-bowl-2021)
+
+
+> With the Kansas City Chiefs defeating the Buffalo Bills with ease, and the Tampa Bay Bucs knocking off the SB-favorite Green Bay Packers, the stage for Super Bowl 2021 (LV) has officially been set. Tom Brady and the Buccaneers will face Patrick Mahomes and the Chiefs in Super Bowl LV (55). Source: CBS The game is set for February 7, 2021, on CBS, at Raymond James Stadium in Tampa, Florida. Yes, that means the Buccaneers will be the first team in history to play the Super Bowl in their home stadium.
+
+
+***
+![#TECH: Maxis ramps up efforts to help communities affected by floods](https://assets.nst.com.my/images/articles/botsmaxc_NSTfield_image_socialmedia.var_1611626418.jpg "#TECH: Maxis ramps up efforts to help communities affected by floods")
+
+
+[#TECH: Maxis ramps up efforts to help communities affected by floods](https://www.nst.com.my/lifestyle/bots/2021/01/660568/tech-maxis-ramps-efforts-help-communities-affected-floods)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![End Two Federal Programs that Fund Police Surveillance Tech](https://external-preview.redd.it/VNWkYQfQhllWxOy2pZyjssw41Q3Df_eHaPHZNBaWnIs.jpg?auto=webp&s=8c9b49d453e94ae7b6096a0850db7cf2cad6710a "End Two Federal Programs that Fund Police Surveillance Tech")
+
+
+[End Two Federal Programs that Fund Police Surveillance Tech](https://www.reddit.com/r/technology/comments/l53glm/end_two_federal_programs_that_fund_police/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Apple AirPods Pro earbuds are on sale for less than $200 at Amazon right now](https://www.gannett-cdn.com/presto/2020/10/27/USAT/9306035e-9de1-4659-aeee-ae87d98e8187-airpod_pros.jpg?crop=4779,2689,x10,y0&width=3200&height=1680&fit=bounds "Apple AirPods Pro earbuds are on sale for less than $200 at Amazon right now")
+
+
+[Apple AirPods Pro earbuds are on sale for less than $200 at Amazon right now](https://www.usatoday.com/story/tech/reviewedcom/2021/01/25/airpods-pro-get-these-famed-apple-earbuds-less-than-200/6700627002/)
+
+
+> If you haven't had a chance to nab a pair of AirPod Pro headphones yet, today is your lucky day. (Photo: Amazon / Getty Images)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.There's no doubt about it: Apple AirPods Pro earbuds are some of the best wireless headphones in the game. From the active noise cancelation to the comfortable fit, these buds are truly fantastic. If you've been eyeing these babies for awhile but have yet to pull the trigger on them, we've got amazing news: Right now, they're on sale for less than $200 at Amazon.
+
+
+***
+![Apple Mac mini (M1, 2020)](https://cdn.mos.cms.futurecdn.net/6QbFZzDxe3LqFStGGksKLk-1200-80.jpg "Apple Mac mini (M1, 2020)")
+
+
+[Apple Mac mini (M1, 2020)](https://www.techradar.com/reviews/apple-mac-mini-m1-2020)
+
+
+> Apple Mac mini (M1 2020) dealsNew Apple Mac Mini with Apple...The Mac Mini 2020 refresh gives the smallest Mac a very welcome and much-needed update. And, with all the claims Apple has set forth, promising three times faster CPU performance and six times faster graphical performance compared to the previous Mini, the newest model comes with some high expectations.The reason for these bold promises has to do with Apple's new M1 system on a chip (SoC). Not only is the M1 chip debuting on the Mac Mini 2020 but on the new MacBook Air (M1, 2020), and the new MacBook Pro 13-inch (M1, 2020) laptops as well.
+
+
