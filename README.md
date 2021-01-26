@@ -16346,3 +16346,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Apple warns magnets in iPhone 12 models 'might interfere' with pacemakers, defibrillators](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/iPhone-12-iStock.jpg?ve=1&tl=1 "Apple warns magnets in iPhone 12 models 'might interfere' with pacemakers, defibrillators")
+
+
+[Apple warns magnets in iPhone 12 models 'might interfere' with pacemakers, defibrillators](https://www.foxbusiness.com/technology/apple-warns-magnets-in-iphone-12-models-may-interfere-with-pacemakers)
+
+
+> All iPhone 12 models should be kept at a safe distance from individuals with pacemakers or defibrillators , according to a new warning issued to Apple customers in a support document on the company's website. TECH GIANTS APPLE, MICROSOFT AND TESLA HEADLINE A BUSY EARNINGS WEEK Apple noted that its iPhones and MagSafe accessories contain magnets and radios that emit electromagnetic fields that "might interfere with medical devices." "Though all iPhone 12 models contain more magnets than prior iPhone models, they're not expected to pose a greater risk of magnetic interference to medical devices than prior iPhone models," the company added.
+
+
+***
+![Here's what we know about Horizon Forbidden West on PS5 (so far)](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/horizon-forbidden-west-artwork.jpg "Here's what we know about Horizon Forbidden West on PS5 (so far)")
+
+
+[Here's what we know about Horizon Forbidden West on PS5 (so far)](https://www.androidcentral.com/horizon-forbidden-west)
+
+
+> Source: Sony Interactive Entertainment One of the biggest games revealed at the June 2020 PS5 showcase was Horizon Forbidden West. Developed by Guerrilla Games, this PS5 title is bringing the Decima engine and everything it's capable of to next-generation hardware. Aloy returns as a protagonist, heading into the former western U.S. There are new threats, new machines, and new lush lands to explore. It's currently set to release at some point in 2021. Here's everything we know about Horizon Forbidden West on PS5 so far.
+
+
+***
+![AMD Blows Away Q4 Estimates On Broad-Based Strength, Issues Upbeat Guidance](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/amd-4952189_1920_18.jpg "AMD Blows Away Q4 Estimates On Broad-Based Strength, Issues Upbeat Guidance")
+
+
+[AMD Blows Away Q4 Estimates On Broad-Based Strength, Issues Upbeat Guidance](https://www.benzinga.com/news/earnings/21/01/19334031/amd-blows-away-q4-estimates-on-broad-based-strength-issues-upbeat-guidance)
+
+
+> Advanced Micro Devices, Inc. (NASDAQ: AMD ) announced Tuesday forecast-beating fiscal year 2020 fourth-quarter results, thanks to solid sales of Ryzen processors, gaming chips and EPYC server processors  Suggesting ongoing momentum, the company guided to above-consensus first-quarter and fiscal-year 2021 revenues. AMD's Key Q4 Numbers: AMD said its fourth-quarter revenues came in at $3.24 billion, topping the $3 billion mark for the first time ever. This represented a 53% year-over-year increase and 16% sequential growth.
+
+
+***
+![American Campus Communities and goPuff Team Up to Provide Student Residents with Free Instant Delivery Service of Everyday Needs](https://mms.businesswire.com/media/20210126006099/en/854805/23/GOPUFF_2%281%29.jpg "American Campus Communities and goPuff Team Up to Provide Student Residents with Free Instant Delivery Service of Everyday Needs")
+
+
+[American Campus Communities and goPuff Team Up to Provide Student Residents with Free Instant Delivery Service of Everyday Needs](https://www.businesswire.com/news/home/20210126006099/en/American-Campus-Communities-and-goPuff-Team-Up-to-Provide-Student-Residents-with-Free-Instant-Delivery-Service-of-Everyday-Needs)
+
+
+> January 26, 2021 04:58 PM Eastern Standard Time AUSTIN, Texas--(BUSINESS WIRE)--Today American Campus Communities (NYSE: ACC), the nation's largest student housing company and goPuff, the go-to platform for consumers' immediate everyday needs, announce their collaboration to offer free delivery to ACC residents in over 40 select university markets. American Campus Communities customers will be able to order and receive thousands of everyday essentials from goPuff in about 30 minutes and pay no delivery fees through June 30, 2021 by using a code made available on ACC properties' social media channels.
+
+
+***
+[Microsoft keeps chugging as pandemic continues](https://www.mymotherlode.com/news/technology/1503227/microsoft-keeps-chugging-as-pandemic-continues.html)
+
+
+> As the pandemic raged through the U.S., Microsoft's business was chugging ahead and beat Wall Street expectations for the last three months of 2020, powered by ongoing demand for its workplace software and cloud computing services as people worked from home
+
+
