@@ -16256,3 +16256,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Apple releases iPadOS 14.4 with Bluetooth device classifications, bug fixes](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/07/ipados-14-preview-hero.jpeg "Apple releases iPadOS 14.4 with Bluetooth device classifications, bug fixes")
+
+
+[Apple releases iPadOS 14.4 with Bluetooth device classifications, bug fixes](https://www.imore.com/how-download-ipados)
+
+
+> Apple has released iPadOS 14.3 for the iPad. This is a big update, as it is the official release of Fitness+, and it brings support for AirPods Max. This update also brings in Privacy information on the App Store, and includes a number of other features and bug fixes for the iPad.November 19, 2020: Apple releases iPadOS 14.2.1Apple has released iPadOS 14.2.1 for the iPad. This update is fairly minor, offering bug fixes and performance improvements.November 5, 2020: Apple releases iPadOS 14.2Apple has released iPadOS 14.
+
+
+***
+![BlackRock CEO Larry Fink On ESG Investing](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/wind-turbine-1149604_1920_4.jpg "BlackRock CEO Larry Fink On ESG Investing")
+
+
+[BlackRock CEO Larry Fink On ESG Investing](https://www.benzinga.com/fintech/21/01/19324943/blackrock-ceo-larry-fink-on-esg-investing)
+
+
+> Larry Fink, CEO of the world's largest asset manager BlackRock, Inc. (NYSE: BLK), released his annual letter to CEOss Tuesday, with a focus on climate change. "We expect companies to disclose a plan for their business model will be compatible with a net zero [carbon footprint] economy," Fink said.  With nearly $9 trillion under management by BlackRock, Larry Fink said that if a company wants to be the most profitable in its industry, it needs to move forward with ESG strategies and move more money into the space.
+
+
+***
+![Apple releases iOS 14.4 with small QR code support and bug fixes](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/07/ios-14-widgets-iphone-11-pro-hero.jpeg "Apple releases iOS 14.4 with small QR code support and bug fixes")
+
+
+[Apple releases iOS 14.4 with small QR code support and bug fixes](https://www.imore.com/how-to-download-ios)
+
+
+> Apple has released iOS 12.5.1, an update for older iPhones that couldn't update to iOS 13 or later. This update fixes issues that some users were encountering with Apple's COVID-19 exposure notifications.December 14, 2020: Apple releases iOS 14.3Apple has released iOS 14.3 for iPhone. This is a major update that brings Apple Fitness+ and AirPods Max support for all iPhone users. This release also brings ProRAW on the iPhone 12 Pro and iPhone 12 Pro Max devices. It also includes Privacy information on the App Store, as well as other features and bug fixes for the iPhone.
+
+
+***
+![Snag a fantastic deal: $160 off Oak Hollow Furniture Valera Office Chair](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/oak-hollow-office-chair-hero.jpeg "Snag a fantastic deal: $160 off Oak Hollow Furniture Valera Office Chair")
+
+
+[Snag a fantastic deal: $160 off Oak Hollow Furniture Valera Office Chair](https://www.imore.com/get-oak-hollow-furniture-valera-office-chair-just-99)
+
+
+> If your home is your office, you'll be looking for the best accessories for working from home. A big part of making your home office desk ergonomic is having a good, comfortable, and supportive chair. The best office chairs help you work with better posture. I absolutely love my office chair from Oak Hollow Furniture, the Aloria. Oak Hollow now sells a lower-priced office chair, the Valera. Normally starting at $259, Oak Hollow is offering a $160 coupon on Amazon, bringing the price down to just $99.
+
+
+***
+![Block 99% of robocalls and spam texts instantly with two years of RoboKiller for $50](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/sale_162905_article_image-6lxr.jpg "Block 99% of robocalls and spam texts instantly with two years of RoboKiller for $50")
+
+
+[Block 99% of robocalls and spam texts instantly with two years of RoboKiller for $50](https://www.imore.com/block-99-robocalls-and-spam-texts-instantly-two-years-robokiller-50)
+
+
+> Source: Stack Commerce Source: StackCommerce If you are sick of answering calls from machines, you might want to try RoboKiller. Available on iOS and Android, this app automatically blocks spam calls and text messages. Right now, you can get a two-year subscription for just $49.99. Automated calls have become a major problem in recent years. If the wrong company gets hold of your number, you can find the phone ringing several times each day — and that's just ignoring the scammers. RoboKiller acts as your personal assistant, intercepting spam calls in just  0.
+
+
