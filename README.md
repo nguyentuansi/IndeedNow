@@ -15918,3 +15918,53 @@
 > Apple Mac mini (M1 2020) dealsNew Apple Mac Mini with Apple...The Mac Mini 2020 refresh gives the smallest Mac a very welcome and much-needed update. And, with all the claims Apple has set forth, promising three times faster CPU performance and six times faster graphical performance compared to the previous Mini, the newest model comes with some high expectations.The reason for these bold promises has to do with Apple's new M1 system on a chip (SoC). Not only is the M1 chip debuting on the Mac Mini 2020 but on the new MacBook Air (M1, 2020), and the new MacBook Pro 13-inch (M1, 2020) laptops as well.
 
 
+***
+![Facebook News in UK to help 'sustain' local journalism](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-10/fbmlen2010-seo.jpg "Facebook News in UK to help 'sustain' local journalism")
+
+
+[Facebook News in UK to help 'sustain' local journalism](https://www.malaymail.com/news/tech-gadgets/2021/01/26/facebook-news-in-uk-to-help-sustain-local-journalism/1944025)
+
+
+> The arrival of Facebook News comes after the news tab feature was rolled out in the United States in late 2019 and is part of plans to extend it worldwide. — AFP pic LONDON, Jan 26 ― Facebook News launched in Britain yesterday, delivering users of the world's leading social network curated news content bought from traditional publishers that have struggled financially. The arrival of Facebook News comes after the news tab feature was rolled out in the United States in late 2019 and is part of plans to extend it worldwide.
+
+
+***
+![Google refreshes mobile search interface](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/google_revamp_260121-seo.jpg "Google refreshes mobile search interface")
+
+
+[Google refreshes mobile search interface](https://www.malaymail.com/news/tech-gadgets/2021/01/26/google-refreshes-mobile-search-interface/1944015)
+
+
+> Google simplifies its mobile search interface. ― Picture courtesy of Google via AFP SAN FRANCISCO, Jan 26 ― Google has announced the imminent arrival of a revamped mobile search interface. Due in the coming days, the refreshed interface, unveiled via a handful of images, promises a simplified design, making search results clearer and faster for users to navigate. In the first images published by Google, the design appears to have been modified slightly, with a simpler, more pared-down look, featuring more rounded lines and fewer shadow effects.
+
+
+***
+![Facebook launches personalised news section in the UK](https://static.independent.co.uk/2021/01/25/15/GettyImages-1154955583.jpg "Facebook launches personalised news section in the UK")
+
+
+[Facebook launches personalised news section in the UK](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-news-uk-journalism-b1792334.html)
+
+
+> Facebook has announced the full launch of Facebook News, a dedicated area of the social media app that will congregate news from a variety of outlets. Users in the UK will see headlines and stories of the day, personalised to their interests using data Facebook has collected, in a tab separate to the similarly-named News Feed. The social media giant is partnering with Channel 4 News, Daily Mail Group, DC Thomson, Financial Times, Sky News and Telegraph Media Group. Local news sites from Archant, Iliffe, JPI Media, Midlands News Association, and Reach, as well as lifestyle outlets such as GQ, Cosmopolitan, Glamour, and Vogue, are also included.
+
+
+***
+![Twitter launches Birdwatch, asks users to fact-check tweets](https://imagevars.gulfnews.com/2020/12/06/Twitter_17638e0fea2_medium.jpg "Twitter launches Birdwatch, asks users to fact-check tweets")
+
+
+[Twitter launches Birdwatch, asks users to fact-check tweets](https://gulfnews.com/technology/twitter-launches-birdwatch-asks-users-to-fact-check-tweets-1.1611632948197)
+
+
+> Image Credit: Shutterstock New Delhi: Twitter has launched a new community-based pilot programme called Birdwatch that allows people to identify information in Tweets they believe is misleading, and write notes that provide informative context. In this first phase of the pilot, notes will only be visible on a separate Birdwatch site. On this site, pilot participants can also rate the helpfulness of notes added by other contributors. "These notes are being intentionally kept separate from Twitter for now, while we build Birdwatch and gain confidence that it produces context people find helpful and appropriate," Twitter said in a statement late on Monday.
+
+
+***
+![Militia-related groups kicked out of Amazon Smile charitable giving program](https://cnet3.cbsistatic.com/img/5bC6NO6mY-x9IVELQ2_bm8u9kfg=/1200x630/2021/01/25/d96b4669-cbaa-439a-b5d1-5f4acc93d21d/gettyimages-458617895.jpg "Militia-related groups kicked out of Amazon Smile charitable giving program")
+
+
+[Militia-related groups kicked out of Amazon Smile charitable giving program](https://www.cnet.com/news/militia-related-groups-kicked-out-of-amazon-smile-charitable-giving-program/)
+
+
+> The Amazon Smile program will no longer allow shoppers to send a small portion of eligible purchases to five charities related to militia movements whose members are under investigation. Getty Images Amazon has removed five groups that appear to be affiliated with militia movements from its Amazon Smile charitable giving program. The groups are registered nonprofits that all share names with either the Oath Keepers or the Three Percent movements, whose members are reportedly under investigation in connection with the Jan.
+
+
