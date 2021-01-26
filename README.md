@@ -16112,3 +16112,53 @@
 > An employee demonstrates a wearable AI-powered bionic hand at the JD Global Technology Discovery Conference in Beijing, Nov. 25, 2020. China must mobilise the nation's private businesses to reduce reliance on foreign technologies, says a top policy adviser. Photo: Xinhua
 
 
+***
+![Flipkart Mobile Bonanza sale: Offers on iPhone 11, iPhone SE, Moto G 5G and other phones](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/motog3_0-483x271_1200_210126173721.jpeg "Flipkart Mobile Bonanza sale: Offers on iPhone 11, iPhone SE, Moto G 5G and other phones")
+
+
+[Flipkart Mobile Bonanza sale: Offers on iPhone 11, iPhone SE, Moto G 5G and other phones](https://www.indiatoday.in/technology/news/story/flipkart-mobile-bonanza-sale-offers-on-iphone-11-iphone-se-moto-g-5g-and-other-phones-1762928-2021-01-26)
+
+
+> Highlights Flipkart is back with yet another sale called Mobile Bonaza Sale. Flipkart Mobile Bonanza Sale has gone live and it will go on till January 29. After it's Republic Day Sale, Flipkart is back with a sale exclusively on smartphones. Flipkart is back with yet another sale. The Flipkart Mobile Bonanza Sale has gone live and it will go on till January 29. After it's Republic Day Sale, Flipkart is back with a sale exclusively on smartphones. Along with discounts on some of the popular smartphones, Flipkart is offering bank offers and exchange offers to further sweeten the deals.
+
+
+***
+![Twitter's Birdwatch forum lets users add context to misleading posts](https://assets2.rappler.com/2021/01/birdwatch-0122621-1611655221555.jpg "Twitter's Birdwatch forum lets users add context to misleading posts")
+
+
+[Twitter's Birdwatch forum lets users add context to misleading posts](https://www.rappler.com/technology/twitter-birdwatch-forum-users-add-context-misleading-posts)
+
+
+> Twitter on Monday, January 25, announced that it's enlisting the public to join the fight against misinformation on the site through Birdwatch, a new forum that lets users identify misleading tweets.  The community-based feature gives users the ability to weigh in with their own thoughts and add personal notes that add context to contentious posts. These notes will be visible directly on the post when a consensus among other contributors is reached.  Twitter users can also rate the helpfulness of the notes added by contributors.
+
+
+***
+![Covid-19 vaccines to be administered free of charge in Sri Lanka](https://adaderanaenglish.s3.amazonaws.com/1611655747-Sudarshani-Fernandopulle-on-administering-Covid-vaccines-free-of-charge-L.jpg "Covid-19 vaccines to be administered free of charge in Sri Lanka")
+
+
+[Covid-19 vaccines to be administered free of charge in Sri Lanka](http://www.adaderana.lk/news/71066/covid-19-vaccines-to-be-administered-free-of-charge-in-sri-lanka)
+
+
+> January 26, 2021   03:27 pm - The government will be providing the Covid-19 vaccines to the general public free-of-charge, says State Minister of Primary Health Care, Epidemics and Covid-19 Disease Control Sudarshani Fernandopulle. Addressing a media briefing held at the Health Promotion Bureau, the State Minister said Sri Lanka expects to kick off inoculation drive against novel coronavirus as soon as the Oxford-AstraZeneca's COVISHIELD vaccine consignment containing nearly 600,000 vials of doses arrives from India.
+
+
+***
+![New Covid-19 variant detected in Sri Lanka](https://adaderanaenglish.s3.amazonaws.com/logo.jpg "New Covid-19 variant detected in Sri Lanka")
+
+
+[New Covid-19 variant detected in Sri Lanka](http://www.adaderana.lk/news/71070/new-covid-19-variant-detected-in-sri-lanka)
+
+
+> January 26, 2021   05:19 pm - A new variant of Covid-19 virus (B.1.258 lineage) has been detected in Sri Lanka, says the Director of Department of Immunology and Molecular Medicine of Sri Jayewardenepura University, Dr. Chandima Jeewandara. His remarks came during a special media briefing held at the university premises today (January 26). This Covid-19 variant is different from the strain previously identified in Sri Lanka, he said, noting that it has similar characteristics to the strain that swept across in Sweden, Germany, Denmark and Iceland.
+
+
+***
+![Realme laptops may arrive in India this year to take on Mi, Nokia notebooks](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_reuters_0-483x271_1200_210126170703.png "Realme laptops may arrive in India this year to take on Mi, Nokia notebooks")
+
+
+[Realme laptops may arrive in India this year to take on Mi, Nokia notebooks](https://www.indiatoday.in/technology/news/story/realme-laptops-may-arrive-in-india-this-year-to-take-on-mi-nokia-notebooks-1762922-2021-01-26)
+
+
+> Highlights Realme may have plans to launch laptops in India. The Realme laptops may be launched as early as June this year. Realme will take on Xiaomi and Nokia with the launch of laptops. Realme laptops are coming and that too soon. One of the youngest tech brands may be planning to enter the PC market with its first line of laptops as early as June this year. The company is rapidly diversifying its product lines. From smartphones to AIoT products, Realme has come a long way and the next concrete step that will bolster the company's position in the market as a comprehensive tech brand to take on Xiaomi, Huawei, and others.
+
+
