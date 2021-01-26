@@ -16012,3 +16012,53 @@
 > Taxi Chaos was originally revealed for Switch back in the Summer of 2020, and last we heard, the game is set to launch on Feb. 23rd, 2021. There will be both a digital and retail release for the game, with the physical option priced at $35. You can check out the cover art for that option above, and a recap for the game below. Taxi Madness is a casual arcade racing game where you select one of a wide range of unlockable cabs, each of whom has different attributes: the strong muscle car, the superfast exotic supercar, the corner-drifting Japanese tuner, an American classic from the ‘60s and more: Taxi Mayhem has them all.
 
 
+***
+![Netflix adds new feature that improves audio quality from your Android phone speaker](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/Netflix-Android_260121-seo.jpg "Netflix adds new feature that improves audio quality from your Android phone speaker")
+
+
+[Netflix adds new feature that improves audio quality from your Android phone speaker](https://www.soyacincau.com/2021/01/26/netflix-xhe-aac-codec-makes-audio-sound-better-and-easier-to-hear-in-noisy-environments/)
+
+
+> Netflix says the improved video quality will be made available on devices running on Android 9 and newer. ― SoyaCincau pic KUALA LUMPUR, Jan 26 ― Netflix has announced that it is upgrading the Android version of its popular streaming app to make audio sound clearer and easier to hear over noisy background noise. The streaming giant explained in a blog post that this is possible with the adoption of the Extended HE-AAC (xHE-AAC) codec. It will be made available on devices running on Android 9 and newer.
+
+
+***
+![Xiaomi may launch Mi 10 variant with Snapdragon 870 SoC](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/mi_102-483x271_1200_210126133650.png "Xiaomi may launch Mi 10 variant with Snapdragon 870 SoC")
+
+
+[Xiaomi may launch Mi 10 variant with Snapdragon 870 SoC](https://www.indiatoday.in/technology/news/story/xiaomi-may-launch-mi-10-variant-with-snapdragon-870-soc-1762841-2021-01-26)
+
+
+> The phone's Snapdragon 870 SoC could be paired with 8GB of LPDDR5 RAM and up to 256GB of UFS 3.1 storage. Sushant Talwar | January 26, 2021 | Updated 13:35 IST
+
+
+***
+![Twitter permanently suspends My Pillow CEO for election misinformation](https://assets2.rappler.com/2020/09/twitter-shutterstock-1611647122729.jpg "Twitter permanently suspends My Pillow CEO for election misinformation")
+
+
+[Twitter permanently suspends My Pillow CEO for election misinformation](https://www.rappler.com/technology/social-media/twitter-permanently-suspends-my-pillow-ceo-election-misinformation)
+
+
+> Twitter has permanently suspended the account of My Pillow chief Mike Lindell for repeated violations of the company's policy on election misinformation, the social media firm said late on Monday, January 25. Lindell, a devout supporter of former US President Donald Trump, financed post-election protest movements in a bid to overturn the election win of President Joe Biden. Lindell used his personal Twitter account, which had nearly half a million followers before being suspended, and the company's account to spread unsubstantiated claims of widespread voter fraud in the presidential election.
+
+
+***
+![Grindr faces $11.7-million fine in Norway for breach of data privacy](https://assets2.rappler.com/2021/01/grindr-ls-1611645649867.jpg "Grindr faces $11.7-million fine in Norway for breach of data privacy")
+
+
+[Grindr faces $11.7-million fine in Norway for breach of data privacy](https://www.rappler.com/technology/grindr-faces-fine-norway-breach-data-privacy)
+
+
+> Norway's Data Protection Authority said on Tuesday, January 26, it plans to fine dating app Grindr 100 million Norwegian crowns ($11.7 million) for what the regulator said was illegal disclosure of user data to advertising firms. US-based Grindr, which describes itself as the world's largest social networking app for gay, bisexual, transgender, and queer people, did not immediately respond to an emailed request for comment. "Our preliminary conclusion is that the breaches are very severe," the Norwegian agency said in a statement announcing what it said was a record fine.
+
+
+***
+![Kode Redeem FF Terbaru 26 Januari 2021, Berikut Cara Redeem Code Free Fire](https://cdn-2.tstatic.net/tribunnews/foto/bank/images/free-fire-1231284.jpg "Kode Redeem FF Terbaru 26 Januari 2021, Berikut Cara Redeem Code Free Fire")
+
+
+[Kode Redeem FF Terbaru 26 Januari 2021, Berikut Cara Redeem Code Free Fire](https://www.tribunnews.com/techno/2021/01/26/kode-redeem-ff-terbaru-26-januari-2021-berikut-cara-redeem-code-free-fire)
+
+
+> Selasa, 26 Januari 2021 13:58 WIB lihat foto ff.garena.com free fire. Kode Redeem FF Terbaru 26 Januari 2021, Berikut Cara Redeem Code Free Fire
+
+
