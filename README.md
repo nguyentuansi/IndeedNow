@@ -16206,3 +16206,53 @@
 > Source: Android Central Best Smartwatch With LTE Android Central 2021 Wearables with LTE connectivity are made for a very specific type of user — the one who doesn't want to take their phone out to work out — and they're becoming more and more popular these days. While everyone has their preference, we feel confident saying that the Samsung Galaxy Watch 3 is the best LTE smartwatch you can buy. It has a nice blend of smartwatch perks and health/fitness tracking that most users will appreciate. Fortunately, there are plenty of options to choose from.
 
 
+***
+![Social media use doubles number of girls unhappy with their appearance by the age of 14 , study finds](https://www.telegraph.co.uk/content/dam/technology/2018/04/06/TELEMMGLPICT000152045535_trans_NvBQzQNjv4BqQDfO_Li8BnuRdRCVfSGXuQvhzdjcZien2ya59CfVOfk.jpeg?impolicy=logo-overlay "Social media use doubles number of girls unhappy with their appearance by the age of 14 , study finds")
+
+
+[Social media use doubles number of girls unhappy with their appearance by the age of 14 , study finds](https://www.telegraph.co.uk/news/2021/01/26/social-media-use-doubles-number-girls-unhappy-appearance-age/)
+
+
+> The number of girls unhappy with their appearance doubles by the age of 14 due to 'heavy social media use', researchers have found.  Research from the Education Policy Institute (EPI) and the Prince's Trust found that wellbeing and self-esteem are similar in boys and girls at the end of primary school. However, while both decline, girls see a far greater decrease by the age of 14. It also found that, while around one in seven girls (15 per cent) report being unhappy with the way they look at the end of primary school, this almost doubles and rises to nearly one in three (29 per cent) by age 14.
+
+
+***
+![ISACA Releases New Report on Privacy Trends, Obstacles and Predictions Ahead of Data Privacy Day](https://mms.businesswire.com/media/20210126005846/en/854669/23/Privacy-in-Practice2021_Infographic_fnl.jpg "ISACA Releases New Report on Privacy Trends, Obstacles and Predictions Ahead of Data Privacy Day")
+
+
+[ISACA Releases New Report on Privacy Trends, Obstacles and Predictions Ahead of Data Privacy Day](https://www.businesswire.com/news/home/20210126005846/en/ISACA-Releases-New-Report-on-Privacy-Trends-Obstacles-and-Predictions-Ahead-of-Data-Privacy-Day)
+
+
+> January 26, 2021 11:16 AM Eastern Standard Time SCHAUMBURG, Ill.--(BUSINESS WIRE)--As Data Privacy Day approaches this week, ISACA has released a new survey report, Privacy in Practice 2021: Data Privacy Trends, Forecasts and Challenges, exploring past and future trends in privacy by design, privacy obstacles and privacy workforce. Privacy by Design Enterprises that report they always use privacy by design are more likely to be driven by a combination of compliance and ethics (62 percent vs. 52 percent total).
+
+
+***
+![Tory party illegally collected data on ethnicity of 10m voters, MPs told](https://i.guim.co.uk/img/media/acad92e0f2c210499241c241881f66854fcdb8e6/0_0_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a260e2c22fa6a28d040b0b53e9756390 "Tory party illegally collected data on ethnicity of 10m voters, MPs told")
+
+
+[Tory party illegally collected data on ethnicity of 10m voters, MPs told](http://www.theguardian.com/technology/2021/jan/26/conservative-party-illegally-collected-data-on-ethnicity-of-10m-voters-mps-told)
+
+
+> The Conservative party acted illegally when it collected data on the ethnic backgrounds of 10 million voters ahead of the 2019 general election, the information commissioner has told a committee of MPs. However, Elizabeth Denham insisted there had been no need to issue an enforcement notice against the party, as it had voluntary deleted the data it held after a 'recommendation' from her office.Answering questions at a Department of Digital, Culture, Media and Sport select committee meeting on Tuesday morning, Denham said that the Conservatives' collection of estimated data on voters' ethnic origin, religion, and country of birth had no legal basis.
+
+
+***
+![Developer shows off a custom DIY Apple 5K Display with an iMac design](https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/apple-5k-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "Developer shows off a custom DIY Apple 5K Display with an iMac design")
+
+
+[Developer shows off a custom DIY Apple 5K Display with an iMac design](https://9to5mac.com/2021/01/26/apple-5k-display-do-it-yourself-imac/)
+
+
+> If you want an Apple-branded external display, your sole option nowadays is the $5999 Pro Display XDR. To make matters worse, Apple also deprecated Target Display Mode, which allowed people to use their iMac as an external display for another computer. Nonetheless, these roadblocks didn't stop one developer from creating a one-of-a-kind 5K iMac Display. Developer Phillip Caudell took to Twitter last week to showcase the 5K iMac Display, which is sort of a 'Frankenstein of parts.' Essentially, Phillip was able to track down an old iMac housing, then buy the exact panel that Apple uses in the iMac on eBay: It's a bit of a Frankenstein of parts: I picked up an old iMac housing for £20 (and scooted across London with it like a prat).
+
+
+***
+![Advent of Code Solutions in the Wolfram Language](https://external-preview.redd.it/Esvy6g5LEWPkxDP-VeA5gpJ1AfBOCESY33L3IpaFTXk.jpg?auto=webp&s=65b5887cc018cf309400a7b5b3898537b8ad9fca "Advent of Code Solutions in the Wolfram Language")
+
+
+[Advent of Code Solutions in the Wolfram Language](https://www.reddit.com/r/programming/comments/l5h4d5/advent_of_code_solutions_in_the_wolfram_language/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
