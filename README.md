@@ -16587,3 +16587,50 @@
 > Hello, I have five years of experience in SQL and looking for a job. Thus, I have given the job interview. My first interview round really went well for one remote sql-python job. That remote job has given me to complete SQL and python IKM assessment and I got 68/100 in sql 2014 programming assessment. However, my job recruiter is not satiated with my score. He wants me to retake the SQL assessment. Does any one know the minimum score requirement for IKM assessment? Any tips would work for me. I want to get at least 88-90 in SQL.
 
 
+***
+[Samsung wins massive chip contract from its largest chipmaking rival](https://www.sammobile.com/news/samsung-wins-massive-chip-contract-largest-chipmaking-rival/)
+
+
+> You know what they say: if you can't beat them, win a few of their lucrative contracts covering massive volumes of cutting-edge silicon. OK, that might not ring a bell to everyone, but it certainly rang true to the person leading Samsung Foundry's recent procurement talks with Intel. Because Intel's largest rival in the chipmaking sphere just became one of its major chip suppliers, according to newly emerged reports out of South Korea.Despite the somewhat unusual situation, Samsung's achievement might not seem this impressive for long.
+
+
+***
+![iOS 14.4 fixes security flaw that may have been actively exploited by malicious apps](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/apple-ios-14.4_270121-seo.jpg "iOS 14.4 fixes security flaw that may have been actively exploited by malicious apps")
+
+
+[iOS 14.4 fixes security flaw that may have been actively exploited by malicious apps](https://www.soyacincau.com/2021/01/27/apple-ios-14-4-security-flaws-may-be-exploited-update-xrs/)
+
+
+> If you're using an iPhone or iPad, it's highly recommended that you download this latest iOS 14.4 software update. ― Picture via SoyaCincau KUALA LUMPUR, Jan 27 ― Apple has pushed out its iOS 14.4 software update which addresses several security issues that have been reported earlier. If you're using an iPhone or iPad, it's highly recommended that you download this latest update. As pointed out by 9to5Mac , the support document has mentioned a kernel vulnerability and two WebKit vulnerabilities. It mentioned that a malicious app may be able to elevate privileges and Apple is aware of a report that the issue may have been actively exploited.
+
+
+***
+![Ookla hails PLDT, Smart as fastest fixed, mobile networks in PH in 2020](https://assets2.rappler.com/2021/01/smart-pldt-improve-speed-score-1611723986607.jpg "Ookla hails PLDT, Smart as fastest fixed, mobile networks in PH in 2020")
+
+
+[Ookla hails PLDT, Smart as fastest fixed, mobile networks in PH in 2020](https://www.rappler.com/brandrap/tech-and-innovation/ookla-report-pldt-fast-fixed-mobile-networks-philippines-2020)
+
+
+> [Editor's note: PLDT and Smart Communications have been recognized by Ookla for providing the fastest download and upload speeds in the country again. Ookla runs Speedtest, the web service that tests an internet connection's speed and performance. The telco companies credit their sustained network investments for their improved services. Below is their press release.] As the demand for data rises in the new normal, the Philippines's largest integrated telco PLDT and its wireless subsidiary Smart Communications, Inc.
+
+
+***
+![Tiktok announces closure of business in India](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/tik_tok_22_505_270121011819.jpg "Tiktok announces closure of business in India")
+
+
+[Tiktok announces closure of business in India](https://www.businesstoday.in/technology/tiktok-announces-closure-of-business-in-india/story/429217.html)
+
+
+> Executives express uncertainty on company's comeback to India PTI | January 27, 2021 | Updated 13:18 IST According to a source at Bytedance, the company held a town hall on Wednesday where it communicated about the closure of India business
+
+
+***
+![The Future of CX: Powered by people, empowered by connections – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/shutterstock_5253977171.jpeg?w=600 "The Future of CX: Powered by people, empowered by connections – TechCrunch")
+
+
+[The Future of CX: Powered by people, empowered by connections – TechCrunch](https://techcrunch.com/sponsor/cisco/the-future-of-cx-powered-by-people-empowered-by-connections/)
+
+
+> It's no secret that company success stems from customer success. With this established model, why are businesses still failing to provide great customer experiences? While many companies tout the latest engagement features or sleek interactive design, they overlook the necessity of reaching customers in meaningful ways. The disconnect lies in the timing.  Are you using these tools as the first point of engagement? To be impactful, the customer journey must start well in advance. The value before sales has been an oversight for many large enterprise companies in the past.
+
+
