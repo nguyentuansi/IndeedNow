@@ -16781,3 +16781,53 @@
 > YouTube has removed more than half a million videos spreading misinformation about Covid-19, it has said.Technology platforms from YouTube to Facebook have struggled with keeping public health misinformation in check as the pandemic has spread across the world. False information posted on the site includes information suggesting the virus is not real to discouraging vaccines that can prevent disease.YouTube boss Susan Wojcicki that such videos have been posted in vast numbers the site, even as it looks to stop their spread.
 
 
+***
+![Wall Street expects near-record iPhone sales despite delay, shut Apple stores](https://apicms.thestar.com.my/uploads/images/2021/01/27/1023466.JPG "Wall Street expects near-record iPhone sales despite delay, shut Apple stores")
+
+
+[Wall Street expects near-record iPhone sales despite delay, shut Apple stores](https://www.thestar.com.my/tech/tech-news/2021/01/27/wall-street-expects-near-record-iphone-sales-despite-delay-shut-apple-stores)
+
+
+> FILE PHOTO: Apple logo is seen on the Apple store at The Marche Saint Germain in Paris, France July 15, 2020. REUTERS/Gonzalo Fuentes (Reuters) - During the last three months of 2020, Apple Inc delivered its flagship iPhone 12 model weeks later than normal iPhone debuts and shuttered some of its stores due to the pandemic. But Wall Street is still expecting a near-record sales quarter for the Cupertino, California company's signature device when it reports fiscal first-quarter earnings on Wednesday, with estimates of $59.
+
+
+***
+![Facebook launches second 'News Feed' with no posts from friends or family](https://www.thesun.co.uk/wp-content/uploads/2021/01/fbnewscomp.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Facebook launches second 'News Feed' with no posts from friends or family")
+
+
+[Facebook launches second 'News Feed' with no posts from friends or family](https://www.thesun.co.uk/tech/13844397/facebook-news-uk-new-feed-journalism/)
+
+
+> FACEBOOK has added a second "News Feed" with zero posts from friends or family. It's called Facebook News, and is supposed to make it easier to find actual news. Facebook News is entirely separate from your regular news feed Credit: Facebook That means it's free from photos of your pal's new baby – or your cousin's weird memes. Facebook News entered testing last year and rolled out in the US in June. But it's now live in the UK – the first country outside the US to get it. The section lives in a new tab, and will show you top headlines and stories of the day.
+
+
+***
+![Police dismantle world's 'most dangerous' criminal hacking network](https://apicms.thestar.com.my/uploads/images/2021/01/27/1023646.JPG "Police dismantle world's 'most dangerous' criminal hacking network")
+
+
+[Police dismantle world's 'most dangerous' criminal hacking network](https://www.thestar.com.my/tech/tech-news/2021/01/27/police-dismantle-world039s-039most-dangerous039-criminal-hacking-network)
+
+
+> FILE PHOTO: A man holds a laptop computer as cyber code is projected on him in this illustration picture taken on May 13, 2017. REUTERS/Kacper Pempel/Illustration (Reuters) - International law enforcement agencies said on Wednesday they had dismantled a criminal hacking scheme used to steal billions of dollars from businesses and private citizens worldwide. Police in six European countries, as well as Canada and the United States, completed a joint operation to take control of Internet servers used to run and control a malware network known as "Emotet," authorities said in a statement.
+
+
+***
+![Have you read something written by GPT-3? Probably not, but it's hard to be sure](https://media3.s-nbcnews.com/j/newscms/2020_38/3412853/200917-data-stock-mn-1600_720d7a0980daa013126ca4e519c9607f.nbcnews-fp-1200-630.jpg "Have you read something written by GPT-3? Probably not, but it's hard to be sure")
+
+
+[Have you read something written by GPT-3? Probably not, but it's hard to be sure](https://www.nbcnews.com/tech/tech-news/have-you-read-something-written-gpt-3-probably-not-it-n1240384)
+
+
+> In August, a blog post about personal productivity surfaced at the top of Hacker News , a website and message board well known in Silicon Valley circles that focuses on computer science and entrepreneurship. There was nothing terribly unique about the post. It offered simple, relatively common advice. Some readers discussed its merits in comments and offered their own thoughts about how to be more productive. A few people, however, found the post a little suspicious. "This is either something written by GPT-3, or the human equivalent," one person commented.
+
+
+***
+![Debate heats up over how countries tax Big Tech companies](https://media1.s-nbcnews.com/j/rockcms/2021-01/272/210127-amazon-mc-1428-56c0a6_ba2db18b34feb001f10f5cae7a4c9336b8622c79.nbcnews-fp-1200-630.jpg "Debate heats up over how countries tax Big Tech companies")
+
+
+[Debate heats up over how countries tax Big Tech companies](https://www.nbcnews.com/tech/tech-news/debate-heats-countries-tax-big-tech-companies-rcna240)
+
+
+> An international debate over how countries tax big U.S. technology companies such as Google, Amazon and Facebook is heating up, presenting a challenge for new President Joe Biden's administration. There's a mid-year deadline for talks on a global deal that aims to defuse trade disputes with France and other countries that are imposing go-it-alone taxes the U.S. sees as discriminatory. France has imposed its own 3 percent tax on digital revenue for large tech companies — in effect singling out the U.
+
+
