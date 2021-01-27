@@ -16487,3 +16487,53 @@
 > Continue reading the main storyThe blaze that killed the former Zappos chief executive may have been caused by 'carelessness or even an intentional act,' Connecticut fire and police officials said.Tony Hsieh, who led Zappos for two decades, in 2015. He died of injuries from a fire in November in New London, Conn.Credit...Brad Swonetz for The New York TimesBy David Streitfeld and Kristin HusseyJan. 26, 2021Updated 9:01 p.m. ETTony Hsieh, who developed Zappos into a billion-dollar internet shoe store and formulated an influential theory about corporate happiness, deliberately locked himself in a shed moments before it was consumed by the fire that would kill him.
 
 
+***
+![Riding the Sixth Wave](https://static.bangkokpost.com/media/content/20210127/c1_2057895_210127104613_700.jpg "Riding the Sixth Wave")
+
+
+[Riding the Sixth Wave](https://www.bangkokpost.com/tech/2057895/riding-the-sixth-wave)
+
+
+> A new set of leading-edge technologies will emerge to drive the economic performance of countries and give rise to entirely new and shifting industries. The first year of the 2020s just ended. 2020 was a turning point for all of us in more than one way. Sure, what first comes to mind is the Covid pandemic that is still ongoing. But 2020 was also a turning point in a positive, opportunity-generating way. We've just started a new long cycle of cutting-edge technological development: the Sixth Wave.
+
+
+***
+![Gartner predicts 5% IT spending growth in Thailand](https://static.bangkokpost.com/media/content/20210127/c1_2057735_210127104349_700.jpg "Gartner predicts 5% IT spending growth in Thailand")
+
+
+[Gartner predicts 5% IT spending growth in Thailand](https://www.bangkokpost.com/tech/2057735/gartner-predicts-5-it-spending-growth-in-thailand)
+
+
+> The pandemic resulted in a contraction of almost 5% in Thailand's IT spending in 2020, but it is forecast to bounce back to a 5% growth this year, propelled by people working from home and studying online, says global leading tech research firm Gartner in a report. In 2020, IT spending in the country fell 4.9% year-on-year to 636.2 billion baht. Devices saw the biggest year-on-year drop of 14.5%, compared with other IT sectors, to 161.7 billion baht, followed by IT services with a 3.5% fall to 60.
+
+
+***
+![YouTube Shorts eyes TikTok competition with 3.5 billion daily views in India](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-04/20200430_YouTube_Logo_Generic_AFP-seo.jpg "YouTube Shorts eyes TikTok competition with 3.5 billion daily views in India")
+
+
+[YouTube Shorts eyes TikTok competition with 3.5 billion daily views in India](https://www.malaymail.com/news/tech-gadgets/2021/01/27/youtube-shorts-eyes-tiktok-competition-with-3.5-billion-daily-views-in-indi/1944387)
+
+
+> YouTube, a subsidiary of Google, unveiled Shorts in mid-September, describing the videos as ‘a new way to express yourself in 15 seconds or less.' — AFP pic NEW YORK, Jan 27 ― YouTube Shorts ― the video-sharing website's quick clips meant to compete with TikTok ― are racking up 3.5 billion views a day during beta testing in India, the platform's head said yesterday. Susan Wojcikci explained the feature in a note laying out her 2021 priorities. 'So far, videos in our new Shorts player ― which helps people around the world watch short videos on YouTube ― are receiving an impressive 3.
+
+
+***
+![OnePlus co-founder Carl Pei to launch new brand today: Everything we know about it](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202101/Carl_Pei2-647x363.jpeg?zSOB9lIPuTgxxj7cXWfBFpvY0w3INWVC "OnePlus co-founder Carl Pei to launch new brand today: Everything we know about it")
+
+
+[OnePlus co-founder Carl Pei to launch new brand today: Everything we know about it](https://www.indiatoday.in/technology/news/story/oneplus-co-founder-carl-pei-to-launch-new-brand-today-everything-we-know-about-it-1763066-2021-01-27)
+
+
+> Carl Pei is set to launch a new venture today. The launch of the new startup is scheduled for 4:30pm IST. The new company by Pei could deal in audio products. OnePlus' co-founder Carl Pei who walked out of the company last year is now set to launch his new venture. After months of wait, Pei will take the lid off his new startup as he announces the company officially later today. The new company is headquartered in London and the announcement will start at 11 am UK time. In India, this should mean the announcement will be made at around 4:30pm.
+
+
+***
+![YouTube Shorts eyes TikTok competition with 3.5 billion daily views in India](https://imagevars.gulfnews.com/2021/01/27/YouTube-Shorts_17741eb66ec_medium.jpg "YouTube Shorts eyes TikTok competition with 3.5 billion daily views in India")
+
+
+[YouTube Shorts eyes TikTok competition with 3.5 billion daily views in India](https://gulfnews.com/technology/media/youtube-shorts-eyes-tiktok-competition-with-35-billion-daily-views-in-india-1.1611718734413)
+
+
+> Image Credit: Shutterstock YouTube Shorts - the video-sharing website's quick clips meant to compete with TikTok - are racking up 3.5 billion views a day during beta testing in India, the platform's head said Tuesday. Susan Wojcikci explained the feature in a note laying out her 2021 priorities. "So far, videos in our new Shorts player - which helps people around the world watch short videos on YouTube - are receiving an impressive 3.5 billion daily views!" she said. "We're looking forward to expanding Shorts to more markets this year.
+
+
