@@ -16443,3 +16443,47 @@
 > Incident is another reminder of how vulnerable OT environments are to attack, security experts say.Operations at $17 billion packaging firm WestRock were disrupted Saturday by a ransomware attack that impacted both its IT and operational technology (OT) networks. The attack has already caused, and will likely continue to cause, delays in some parts of the company's business, WestRock announced on Monday, without offering any details regarding the nature of the attack or the disruptions. "We are working around the clock to complete our investigation and to restore normalized operations as quickly as possible," Steve Voorhees, WestRock's chief executive officer, said in a statement.
 
 
+***
+[Albert, which helps people automate their finances and connect subscribers to financial advisers, raises $100 Series C led by General Atlantic (PYMNTS.com)](http://www.techmeme.com/210126/p40#a210126p40)
+
+
+> PYMNTS.com: Albert, which helps people automate their finances and connect subscribers to financial advisers, raises $100 Series C led by General Atlantic — Financial services startup Albert has raised $100 million in a Series C funding round led by General Atlantic, the company announced on Tuesday (Jan. 26).
+
+
+***
+![Navy 'UFO Patent' Documents Talk of 'Spacetime Modification Weapon'](https://api.thedrive.com/wp-content/uploads/2021/01/pais-foia-top.jpg?quality=85 "Navy 'UFO Patent' Documents Talk of 'Spacetime Modification Weapon'")
+
+
+[Navy 'UFO Patent' Documents Talk of 'Spacetime Modification Weapon'](https://www.thedrive.com/the-war-zone/38937/navy-ufo-patent-documents-talk-of-spacetime-modification-weapon-detail-experimental-testing)
+
+
+> In our continuing investigation into the bizarre inventions of Dr. Salvatore Cezar Pais, an enigmatic aerospace engineer who works for the U.S. Navy, The War Zone has just obtained a wide range of documents detailing experiments that the Naval Air Warfare Center Aircraft Division (NAWCAD) conducted to test the core concepts and technologies underlying his seemingly out of this world "UFO patents." These same patents were vouched for by the head of the Navy's aerospace research enterprise who cited Chinese advances in similar technologies as one of the reasons why the Navy was filing them.
+
+
+***
+![An idea which encounters a bizarre level of resistance: that software can be completed.](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "An idea which encounters a bizarre level of resistance: that software can be completed.")
+
+
+[An idea which encounters a bizarre level of resistance: that software can be completed.](https://www.reddit.com/r/programming/comments/l5tr4c/an_idea_which_encounters_a_bizarre_level_of/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Pilot, an automated accounting service for SMBs and startups, raises $60M Series C led by Sequoia, bringing its total funding to $120M (PYMNTS.com)](http://www.techmeme.com/210126/p39#a210126p39)
+
+
+> PYMNTS.com: Pilot, an automated accounting service for SMBs and startups, raises $60M Series C led by Sequoia, bringing its total funding to $120M — Pilot, which provides back-office services for startups, has raised $60 million through a new Series C funding round, according to a press release.
+
+
+***
+![Tony Hsieh's Fatal Night: An Argument, Drugs, a Locked Door and Sudden Fire](https://static01.nyt.com/images/2021/01/27/business/26hsieh1-print/merlin_97258639_4772a35c-cda5-473d-8e17-96aacfaece15-facebookJumbo.jpg "Tony Hsieh's Fatal Night: An Argument, Drugs, a Locked Door and Sudden Fire")
+
+
+[Tony Hsieh's Fatal Night: An Argument, Drugs, a Locked Door and Sudden Fire](https://www.nytimes.com/2021/01/26/technology/tony-hsieh-death.html)
+
+
+> Continue reading the main storyThe blaze that killed the former Zappos chief executive may have been caused by 'carelessness or even an intentional act,' Connecticut fire and police officials said.Tony Hsieh, who led Zappos for two decades, in 2015. He died of injuries from a fire in November in New London, Conn.Credit...Brad Swonetz for The New York TimesBy David Streitfeld and Kristin HusseyJan. 26, 2021Updated 9:01 p.m. ETTony Hsieh, who developed Zappos into a billion-dollar internet shoe store and formulated an influential theory about corporate happiness, deliberately locked himself in a shed moments before it was consumed by the fire that would kill him.
+
+
