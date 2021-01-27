@@ -16831,3 +16831,53 @@
 > An international debate over how countries tax big U.S. technology companies such as Google, Amazon and Facebook is heating up, presenting a challenge for new President Joe Biden's administration. There's a mid-year deadline for talks on a global deal that aims to defuse trade disputes with France and other countries that are imposing go-it-alone taxes the U.S. sees as discriminatory. France has imposed its own 3 percent tax on digital revenue for large tech companies — in effect singling out the U.
 
 
+***
+![GameStop, AMC surge after Reddit users lead chaotic revolt against big Wall Street funds](https://external-preview.redd.it/gH1pkBf2Qh1Gdh88eRV3xtdVG-qmbGYsMLTBtwuomyo.jpg?auto=webp&s=c8cde2a757c082a71ae12f94ae8cc74ac029980d "GameStop, AMC surge after Reddit users lead chaotic revolt against big Wall Street funds")
+
+
+[GameStop, AMC surge after Reddit users lead chaotic revolt against big Wall Street funds](https://www.reddit.com/r/technology/comments/l6awjw/gamestop_amc_surge_after_reddit_users_lead/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Google Set To Open Source Tilt Brush After Ending Active Development](https://www.androidheadlines.com/wp-content/uploads/2016/04/Tilt-Brush.jpg "Google Set To Open Source Tilt Brush After Ending Active Development")
+
+
+[Google Set To Open Source Tilt Brush After Ending Active Development](https://www.androidheadlines.com/2021/01/google-set-to-open-source-tilt-brush-after-ending-active-development.html)
+
+
+> Google has announced that Tilt Brush has now been Open Sourced. As reported by 9to5 this comes after the company decided to cease "active development" of the VR Painting App it acquired in 2015.A move like this is hardly surprising given Tilt Brush ahs been out of the news for some years in terms of development. In its day though the app was making waves as the premier application for showcasing VR capabilities.In 2017, games were developed in record time thanks to the use of Tilt Brush and its capabilities.
+
+
+***
+![How Google jumps to a section of webpage without internal linking, during search?](https://external-preview.redd.it/E-kVxh3PSCVtqZYuPOPeCslpc-XMactpGLb7G5-mlFw.jpg?auto=webp&s=370119d956920579c9f6c0adb749cc0a6b27783c "How Google jumps to a section of webpage without internal linking, during search?")
+
+
+[How Google jumps to a section of webpage without internal linking, during search?](https://www.reddit.com/r/programming/comments/l6atgl/how_google_jumps_to_a_section_of_webpage_without/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Big Tech has the power to 'manipulate' and 'control the message': Dave Rubin](https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e1dee0e-017f-4990-b0ff-2605de32f536/defe1aea-5ef1-4aaf-8565-9c2d92577497/1280x720/match/image.jpg "Big Tech has the power to 'manipulate' and 'control the message': Dave Rubin")
+
+
+[Big Tech has the power to 'manipulate' and 'control the message': Dave Rubin](https://www.foxnews.com/tech/big-tech-power-manipulate-control-message-dave-rubin)
+
+
+> "Rubin Report" host Dave Rubin reacted to former congresswoman Tulsi Gabbard's scathing comments against Twitter and Big Tech on Wednesday, saying that tech leaders "coordinated" to remove then-President Trump from social media.In an interview "America's Newsroom,", Rubin added the message they sent by banning Trump was that if they can "take out" a sitting president, they can do the same to anybody on their platforms.During an interview with Tucker Carlson on Tuesday, Gabbard said the Jan. 6 Capitol rioters behaved ike "domestic enemies" but asserted that the "John Brennans, Adam Schiffs and oligarchs in Big Tech" were more dangerous in their attempts to undermine constitutionally protected rights and turn America into a "police state.
+
+
+***
+![You can now watch Freaks and Geeks online with Hulu](https://cdn.mos.cms.futurecdn.net/6a9QnSmC3h5AJNzs3Qopfa-1200-80.jpg "You can now watch Freaks and Geeks online with Hulu")
+
+
+[You can now watch Freaks and Geeks online with Hulu](https://www.techradar.com/news/how-to-watch-freaks-and-geeks-online-free)
+
+
+> (Image credit: NBCU Photo Bank) We're sorry, Freaks and Geeks fans. The show is no longer TV's best kept secret, after Disney-owned streaming giant Hulu finally became the US service gutsy enough to pick up the late-90s cult classic and deliver it to a wider audience in the Land of the Free. Read on as we explain how to watch Freaks and Geeks online and stream every episode wherever you are right now - including for free in a number of countries not named the US!How to watch Freaks and Geeks online freeReleased: 1999-2000Cast: Linda Cardellini, John Francis Daley, James Franco, Samm Levine, Seth Rogen, Jason Segel, Martin StarrUS stream: HuluFree streams: All 4  (UK) | Gem (Canada) | SBS (Aus)Watch anywhere: Try our No.
+
+
