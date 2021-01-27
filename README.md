@@ -16393,3 +16393,53 @@
 > As the pandemic raged through the U.S., Microsoft's business was chugging ahead and beat Wall Street expectations for the last three months of 2020, powered by ongoing demand for its workplace software and cloud computing services as people worked from home
 
 
+***
+![Video: ‘Astronaut Abby' wants to be 1st to set foot on Mars](https://s.abcnews.com/images/GMA/210126_gma3_astronaut_hpMain_16x9_992.jpg "Video: ‘Astronaut Abby' wants to be 1st to set foot on Mars")
+
+
+[Video: ‘Astronaut Abby' wants to be 1st to set foot on Mars](https://www.goodmorningamerica.com/gma3/video/astronaut-abby-1st-set-foot-mars-75491483)
+
+
+> Coming up in the next {{countdown}} {{countdownlbl}} Coming up next: {{nextVideo.title}} {{nextVideo.description}} Skip to this video now Transcript for ‘Astronaut Abby' wants to be 1st to set foot on Mars We are back and ready to launch to success on the up lifting message from the young astronaut determined to be the first to step foot on March. I was inspired to write dream big because after chasing my own big dream to become an astronaut, I've had great opportunities. I've learned firsthand what it takes to accomplish a dream.
+
+
+***
+![Neighbors suprised by installation of 5G boxes](https://media.khou.com/assets/KHOU/images/ab1cd226-7dc8-40db-a300-d5f02002ade2/ab1cd226-7dc8-40db-a300-d5f02002ade2_1140x641.jpg "Neighbors suprised by installation of 5G boxes")
+
+
+[Neighbors suprised by installation of 5G boxes](https://www.khou.com/video/tech/neighbors-suprised-by-installation-of-5g-boxes/285-0e925776-2682-47cd-81b8-5eb2e3a03b74)
+
+
+> The boxes are about the size of a dishwasher, and in some neighborhoods, they're installed a little too close to home. Notifications can be turned off anytime in the browser settings.
+
+
+***
+![YouTube suspends Giuliani from partner program, cutting access to ad revenue](https://media1.s-nbcnews.com/j/newscms/2021_04/3445165/210126-rudy-giuliani-jm-1528_e315454a69bab3be19e23a7cb0d500a5.nbcnews-fp-1200-630.jpg "YouTube suspends Giuliani from partner program, cutting access to ad revenue")
+
+
+[YouTube suspends Giuliani from partner program, cutting access to ad revenue](https://www.nbcnews.com/tech/tech-news/youtube-suspends-giuliani-partner-program-cutting-access-ad-revenue-n1255733)
+
+
+> YouTube said Tuesday it had suspended Rudy Giuliani, former President Donald Trump's lawyer, from a program that allows partners to make money from ads on their videos, after Giuliani broke YouTube's rules by repeatedly sharing election misinformation. The suspension will last at least 30 days and has been in effect since last week, YouTube said in an email. YouTube's Partner Program allows video creators to share ad revenue as well as receive support from a company team, but channels that violate company policies can be removed.
+
+
+***
+![Elon Musk and Jeff Bezos in turf war over rival plans for mega constellations of internet satellites](https://www.telegraph.co.uk/content/dam/technology/2021/01/25/TELEMMGLPICT000249417320_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?impolicy=logo-overlay "Elon Musk and Jeff Bezos in turf war over rival plans for mega constellations of internet satellites")
+
+
+[Elon Musk and Jeff Bezos in turf war over rival plans for mega constellations of internet satellites](https://www.telegraph.co.uk/technology/2021/01/26/elon-musk-jeff-bezos-turf-war-rival-plans-mega-constellations/)
+
+
+> Elon Musk and Jeff Bezos have taken their feud into space as their duelling plans to fill the sky with satellite "megaconstellations" threaten to encroach on each other's orbits. The two billionaires, who are roughly neck and neck to be Earth's first and second richest people , are pushing US regulators to favour their satellite networks, which will beam down internet signal to some of the planet's most remote areas . SpaceX, Mr Musk's company, already has more than a thousand of its Starlink "microsatellites" in order out of a planned 12,000, and now wants to lower the orbit of around 2,800 of them in order to improve broadband speeds and lower the danger of future space debris.
+
+
+***
+![Ransomware Disrupts Operations at Packaging Giant WestRock](https://img.deusm.com/darkreading/dr_staff_125x125.jpg "Ransomware Disrupts Operations at Packaging Giant WestRock")
+
+
+[Ransomware Disrupts Operations at Packaging Giant WestRock](https://www.darkreading.com/attacks-breaches/ransomware-disrupts-operations-at-packaging-giant-westrock/d/d-id/1339990)
+
+
+> Incident is another reminder of how vulnerable OT environments are to attack, security experts say.Operations at $17 billion packaging firm WestRock were disrupted Saturday by a ransomware attack that impacted both its IT and operational technology (OT) networks. The attack has already caused, and will likely continue to cause, delays in some parts of the company's business, WestRock announced on Monday, without offering any details regarding the nature of the attack or the disruptions. "We are working around the clock to complete our investigation and to restore normalized operations as quickly as possible," Steve Voorhees, WestRock's chief executive officer, said in a statement.
+
+
