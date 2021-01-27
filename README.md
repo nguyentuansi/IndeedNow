@@ -16881,3 +16881,53 @@
 > (Image credit: NBCU Photo Bank) We're sorry, Freaks and Geeks fans. The show is no longer TV's best kept secret, after Disney-owned streaming giant Hulu finally became the US service gutsy enough to pick up the late-90s cult classic and deliver it to a wider audience in the Land of the Free. Read on as we explain how to watch Freaks and Geeks online and stream every episode wherever you are right now - including for free in a number of countries not named the US!How to watch Freaks and Geeks online freeReleased: 1999-2000Cast: Linda Cardellini, John Francis Daley, James Franco, Samm Levine, Seth Rogen, Jason Segel, Martin StarrUS stream: HuluFree streams: All 4  (UK) | Gem (Canada) | SBS (Aus)Watch anywhere: Try our No.
 
 
+***
+![New Google Maps feature aims to help EV owners with range anxiety](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/01/google-maps-icon-1.jpg "New Google Maps feature aims to help EV owners with range anxiety")
+
+
+[New Google Maps feature aims to help EV owners with range anxiety](https://www.androidcentral.com/new-google-maps-features-aim-help-ev-owners-range-anxiety)
+
+
+> Source: Harish Jonnalagadda / Android Central An update to Google Maps makes it easier to find charging stations for electric vehicles while on a trip. The update lets EV owners quickly view accepted payment methods for charging stations. Volvo and Polestar vehicles will are currently the only EVs with Google Maps built-in. When going on long driving trips, you should always make sure to have one of the best travel chargers on you. But owners of electric vehicles have another charging problem to worry about, and "range anxiety" can still be an issue for many people who fear a lack of access to available charging stations.
+
+
+***
+![PS5 restock: GameStop bundles out of stock, but here's where to look next](https://cdn.mos.cms.futurecdn.net/YiQxrZpieyCAJnXbbWGo7Z-1200-80.jpg "PS5 restock: GameStop bundles out of stock, but here's where to look next")
+
+
+[PS5 restock: GameStop bundles out of stock, but here's where to look next](https://www.techradar.com/news/ps5-restock-gamestop-has-more-consoles-and-bundles-in-stock)
+
+
+> (Image credit: Sony) PS5 restock on GameStop is now sold out, but the pickings were a bit slim to begin with: the outlet only sold them in one of two pricey bundles – one for the standard console with a pair of games, Sackboy and Spider-Man Ultimate Edition, and another for the Digital Edition with an extra DualSense controller, HD camera, and PlayStation swag. This was once again a surprise drop, and just like the last one, was essentially a 'pre-order' for consoles that won't ship or be able to pick up in-store until January 31 at the earliest.
+
+
+***
+![Should you buy the Skagen Falster 3 or Fossil Gen 5?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/08/fossil-gen-5-review-1.jpg "Should you buy the Skagen Falster 3 or Fossil Gen 5?")
+
+
+[Should you buy the Skagen Falster 3 or Fossil Gen 5?](https://www.androidcentral.com/skagen-falster-3-vs-fossil-gen-5-carlyle)
+
+
+> Want to keep things as sleek as possible when choosing a wearable? Look no further than the Skagen Falster 3. You get a lot in this slightly smaller package, including GPS, NFC, and heart-rate monitoring. You'll enjoy upgraded RAM and storage plus the Snapdragon Wear 3100 processor. From $217 at Amazon Stunning sleek design GPS, NFC, HRM Google Assistant Music storage Snapdragon Wear 3100 Short battery life Battery saving modes are restrictive You can have it all with the Fossil Gen 5 smartwatch, too.
+
+
+***
+![VVC Pool Fostering identifies Access Advance and MPEG LA as Possible Administrators to Take Forward Pool Formation Covering VVC-essential Patents](https://mms.businesswire.com/media/20210127005868/en/805750/23/Media_Coding_Industry_Forum2.jpg "VVC Pool Fostering identifies Access Advance and MPEG LA as Possible Administrators to Take Forward Pool Formation Covering VVC-essential Patents")
+
+
+[VVC Pool Fostering identifies Access Advance and MPEG LA as Possible Administrators to Take Forward Pool Formation Covering VVC-essential Patents](https://www.businesswire.com/news/home/20210127005868/en/VVC-Pool-Fostering-identifies-Access-Advance-and-MPEG-LA-as-Possible-Administrators-to-Take-Forward-Pool-Formation-Covering-VVC-essential-Patents)
+
+
+> January 27, 2021 02:56 PM Eastern Standard Time BEAVERTON, Ore.--(BUSINESS WIRE)--MC-IF announced that its VVC Pool Fostering activity has identified Access Advance and MPEG LA as possible administrators to take forward the work of pool formation covering patents essential to the VVC standard. The two pool administrators found strong support within the MC-IF sponsored activity (but neither achieved a consensus among the 49 participant companies according to the process adopted by VVC Pool Fostering).
+
+
+***
+![Tech Moves: Longtime exec Kurt DelBene to retire from Microsoft; Hiya promotes Kush Parikh to president; and more](https://cdn.geekwire.com/wp-content/uploads/2021/01/delbene-print-3-clr-831x1024-1.jpg "Tech Moves: Longtime exec Kurt DelBene to retire from Microsoft; Hiya promotes Kush Parikh to president; and more")
+
+
+[Tech Moves: Longtime exec Kurt DelBene to retire from Microsoft; Hiya promotes Kush Parikh to president; and more](https://www.geekwire.com/2021/tech-moves-longtime-exec-kurt-delbene-retire-microsoft-hiya-promotes-kush-parikh-president/)
+
+
+> — Kurt DelBene‘s second stint at Microsoft will end later this year. The former Microsoft Office president, whose recent role has included leading the company's pandemic response, will retire at the end of Microsoft's fiscal year in June, the company confirmed this week. DelBene was originally at Microsoft for more than two decades, leaving the company amid a reorganization announced in 2013. He went on to work as a senior advisor to the Secretary of Health and Human Services, appointed by then-President Obama to address problems with the Healthcare.
+
+
