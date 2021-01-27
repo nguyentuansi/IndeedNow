@@ -16931,3 +16931,53 @@
 > — Kurt DelBene‘s second stint at Microsoft will end later this year. The former Microsoft Office president, whose recent role has included leading the company's pandemic response, will retire at the end of Microsoft's fiscal year in June, the company confirmed this week. DelBene was originally at Microsoft for more than two decades, leaving the company amid a reorganization announced in 2013. He went on to work as a senior advisor to the Secretary of Health and Human Services, appointed by then-President Obama to address problems with the Healthcare.
 
 
+***
+![Baidu wins permit to test driverless vehicles on California public roads (NASDAQ:BIDU)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Baidu wins permit to test driverless vehicles on California public roads (NASDAQ:BIDU)")
+
+
+[Baidu wins permit to test driverless vehicles on California public roads (NASDAQ:BIDU)](https://seekingalpha.com/news/3655128-baidu-wins-permit-to-test-driverless-vehicles-on-california-public-roads)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Lam Research EPS beats by $0.18, beats on revenue (NASDAQ:LRCX)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Lam Research EPS beats by $0.18, beats on revenue (NASDAQ:LRCX)")
+
+
+[Lam Research EPS beats by $0.18, beats on revenue (NASDAQ:LRCX)](https://seekingalpha.com/news/3655170-lam-research-eps-beats-0_18-beats-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Palantir Technologies and Nokia tech gainers; Sunnova Energy and Future FinTech losers](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Palantir Technologies and Nokia tech gainers; Sunnova Energy and Future FinTech losers")
+
+
+[Palantir Technologies and Nokia tech gainers; Sunnova Energy and Future FinTech losers](https://seekingalpha.com/news/3655121-palantir-technologies-and-nokia-among-tech-gainers-for-the-day-sunnova-energy-and-future-fintech-among-losers)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Cree shares drop after muted FQ2 results (NASDAQ:CREE)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Cree shares drop after muted FQ2 results (NASDAQ:CREE)")
+
+
+[Cree shares drop after muted FQ2 results (NASDAQ:CREE)](https://seekingalpha.com/news/3655167-cree-shares-drop-after-muted-fq2-results)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Facebook slips 3% despite solid beat, new $25B buyback as uncertainty remains (NASDAQ:FB)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Facebook slips 3% despite solid beat, new $25B buyback as uncertainty remains (NASDAQ:FB)")
+
+
+[Facebook slips 3% despite solid beat, new $25B buyback as uncertainty remains (NASDAQ:FB)](https://seekingalpha.com/news/3655171-facebook-slips-3-despite-solid-beat-new-25b-buyback-as-uncertainty-remains)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
