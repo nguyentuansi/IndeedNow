@@ -16634,3 +16634,53 @@
 > It's no secret that company success stems from customer success. With this established model, why are businesses still failing to provide great customer experiences? While many companies tout the latest engagement features or sleek interactive design, they overlook the necessity of reaching customers in meaningful ways. The disconnect lies in the timing.  Are you using these tools as the first point of engagement? To be impactful, the customer journey must start well in advance. The value before sales has been an oversight for many large enterprise companies in the past.
 
 
+***
+![TikTok, WeChat And 56 Other Chinese Apps Banned Permanently in India: Here's What We Know](https://sm.mashable.com/t/mashable_in/news/t/trumps-tik/trumps-tiktok-ban-has-been-blocked-for-now_qqkm.1200.jpg "TikTok, WeChat And 56 Other Chinese Apps Banned Permanently in India: Here's What We Know")
+
+
+[TikTok, WeChat And 56 Other Chinese Apps Banned Permanently in India: Here's What We Know](https://in.mashable.com/tech/19834/tiktok-wechat-and-56-other-chinese-apps-banned-permanently-in-india-heres-what-we-know)
+
+
+> The government of India has permanently banned 59 Chinese apps, a list which includes popular short video app TikTok and the likes of WeChat , Ba idu, Alibaba's UC Browser , Club Factory , BIGO Live and others. Back in June 2020, the government had placed a ban on these apps deeming them "prejudicial" to India's sovereignty, integrity and national security. The action was initiated by the Ministry of Electronics and Information Technology (MeiTY), Government of India, under Section 69A of the IT Act.
+
+
+***
+![You can upload music directly to these workout-friendly headphones](https://mondrian.mashable.com/2021%252F01%252F27%252Fc6%252F9ce4971837c048419abeae785574e8b2.40bde.jpg%252F1200x630.jpg?signature=1_A2jj1EhD7Y6dCrvaca75L1Ohg= "You can upload music directly to these workout-friendly headphones")
+
+
+[You can upload music directly to these workout-friendly headphones](https://mashable.com/shopping/jan-27-aftershokz-xtrainerz-open-ear-mp3-swimming-headphones/)
+
+
+> TL;DR:   The Aftershokz Xtrainerz open-ear headphones can withstand your toughest workouts. As of Jan. 27 you can get them for $144.99, a 2% discount.  You may already have noise-cancelling headphones that drown out your obnoxious neighbors as you attempt to work from home, but those headphones might not cut it when it comes to working out.  The Aftershokz Xtrainerz open-ear headphones are a great option for athletes. They fit snugly around the back of your head and are waterproof — since they're fully submersible, you can even swim with them.
+
+
+***
+![Techstars Announces 'Startup City Acceleration Program' in Partnership with Japanese Government to Support the Global Expansion of 50 Japan-Based Startups](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Techstars Announces 'Startup City Acceleration Program' in Partnership with Japanese Government to Support the Global Expansion of 50 Japan-Based Startups")
+
+
+[Techstars Announces 'Startup City Acceleration Program' in Partnership with Japanese Government to Support the Global Expansion of 50 Japan-Based Startups](https://www.benzinga.com/pressreleases/21/01/a19338636/techstars-announces-startup-city-acceleration-program-in-partnership-with-japanese-government-to-s)
+
+
+> World-leading accelerator Techstars will educate, mentor and provide global networking opportunities to Japanese startups through an immersive 10-week experience BOULDER, Colorado, Jan 27, 2021 - (JCN Newswire) - Techstars, the rapidly-growing global investment and accelerator network that helps entrepreneurs succeed, today announced a new program supporting 50 Japan-based startups in partnership with the Japan External Trade Organization (JETRO), the Japan Cabinet Office and the Ministry of Economy, Trade and Industry (METI).
+
+
+***
+![Save on a wireless charging station for your iPhone and Apple Watch](https://mondrian.mashable.com/2021%252F01%252F27%252F2b%252F781bdf5cf4a04c72a31db4f879a8999c.cd0d2.jpg%252F1200x630.jpg?signature=8mGBhNURYMCrXR8NoveaNj5M9ok= "Save on a wireless charging station for your iPhone and Apple Watch")
+
+
+[Save on a wireless charging station for your iPhone and Apple Watch](https://mashable.com/shopping/jan-27-wireless-charging-dock-iphone-apple-watch/)
+
+
+> TL;DR: Say goodbye to tangled charging cords with this Loma Living wireless charging dock . Get it for 32% off — only $86.99 — as of Jan. 27. As you could probably guess, there's already a ridiculous number of wireless chargers and charging stations available today. If you still haven't picked one up for yourself, it can be quite difficult to decide which one is right for you. We've got your back, though. Apple device owners who pay close attention to aesthetics should check out this wireless charging dock from Loma Living.
+
+
+***
+![‘Generation Next' is Samsung's new authorized distributor in Pakistan for hand held devices](https://sm.mashable.com/t/mashable_pk/news/w/what-to-ex/what-to-expect-from-samsung-galaxy-unpacked-2021_ve8f.1200.jpg "‘Generation Next' is Samsung's new authorized distributor in Pakistan for hand held devices")
+
+
+[‘Generation Next' is Samsung's new authorized distributor in Pakistan for hand held devices](https://pk.mashable.com/tech/7331/generation-next-is-samsungs-new-authorized-distributor-in-pakistan-for-hand-held-devices)
+
+
+> Samsung Electronics has announced that Generation Next is their new authorized distributor for hand held devices in Pakistan. The newly authorized company will continue to work alongside existing distributors in the country. Sharing his views on the new partnership, the Managing Director Samsung Electronics in Pakistan, Mr. Roy said, 'We are excited to welcome and announce Generation Next as the new Samsung Distributor for Pakistan. This new business relationship will allow Samsung to expand sales and to reach out to Pakistani consumers in a more effective manner'.
+
+
