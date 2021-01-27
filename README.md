@@ -16684,3 +16684,53 @@
 > Samsung Electronics has announced that Generation Next is their new authorized distributor for hand held devices in Pakistan. The newly authorized company will continue to work alongside existing distributors in the country. Sharing his views on the new partnership, the Managing Director Samsung Electronics in Pakistan, Mr. Roy said, 'We are excited to welcome and announce Generation Next as the new Samsung Distributor for Pakistan. This new business relationship will allow Samsung to expand sales and to reach out to Pakistani consumers in a more effective manner'.
 
 
+***
+![Firefox 85 removes support for Flash and adds protection against supercookies](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-27_at_2_1200_210127143444.16.-483x271.png "Firefox 85 removes support for Flash and adds protection against supercookies")
+
+
+[Firefox 85 removes support for Flash and adds protection against supercookies](https://www.indiatoday.in/technology/news/story/-firefox-85-removes-support-for-flash-and-adds-protection-against-supercookies-1763191-2021-01-27)
+
+
+> Mozilla noted that supercookies are store user identifiers, and are much more difficult to delete and block. Now with Firefox 85, the browser maker has ended support for the Adobe Flash Player plugin and has brought in ways to block supercookies. India Today Tech | January 27, 2021 | Updated 14:27 IST (Picture: Reuters)
+
+
+***
+![Poco M3 launching soon: Specifications, India price, and everything we know](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/poco_m3_india-483x271_1200_210127143438.jpeg "Poco M3 launching soon: Specifications, India price, and everything we know")
+
+
+[Poco M3 launching soon: Specifications, India price, and everything we know](https://www.indiatoday.in/technology/features/story/poco-m3-launching-soon-specifications-india-price-and-everything-we-know-1763194-2021-01-27)
+
+
+> The Poco M3 has already made a lot of noise in the foreign markets. Now that the Poco M3 is headed to India, there are a lot of expectations around it. Read this story as we have stacked up everything about the Poco M3 ahead of the launch. Ayush Chourasia | January 27, 2021 | Updated 14:30 IST Poco M3 to launch in India soon
+
+
+***
+![Former OnePlus co-founder Carl Pie launches new tech company, names it 'Nothing'](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/nothing_rgb_tiefschwarz_505_270121052523.jpg "Former OnePlus co-founder Carl Pie launches new tech company, names it 'Nothing'")
+
+
+[Former OnePlus co-founder Carl Pie launches new tech company, names it 'Nothing'](https://www.businesstoday.in/technology/launch/former-oneplus-co-founder-carl-pie-launches-new-tech-company-names-it-nothing/story/429264.html)
+
+
+> Story According to Pei, the company's vision will be to remove barriers between people and technology to create a seamless digital future. It also plans to bring back artistry, passion and trust to the field of consumer technology Nidhi Singal | January 27, 2021 | Updated 17:25 IST
+
+
+***
+![OnePlus Buds Z limited edition launched](https://photogallery.maharashtratimes.indiatimes.com/photo/80480350.cms "OnePlus Buds Z limited edition launched")
+
+
+[OnePlus Buds Z limited edition launched](https://photogallery.indiatimes.com/gadgets/accessories/oneplus-buds-z-limited-edition-launched/articleshow/80480350.cms)
+
+
+> /gadgets/accessories/oneplus-buds-z-limited-edition-launched/eventshow/80480350.cms OnePlus launched the OnePlus Buds Z Steven Harrington Edition with a price tag of Rs 3,699 - Photogallery OnePlus launched the OnePlus Buds Z Steven Harrington Edition with a price tag of Rs 3,699. The OnePlus Buds Z Steven Harrington Edition features LA-based artist and designer Steven Harrington's stylized graffiti, caricatures and designs. These earphones have a two-tone mint and purple colour combo with a matching charging case.
+
+
+***
+![Asus announces all-new slim and light TUF Dash F15 gaming laptop in the UAE](https://imagevars.gulfnews.com/2021/01/27/Asus-TUF-Dash-15-2021_17742d1747e_medium.jpg "Asus announces all-new slim and light TUF Dash F15 gaming laptop in the UAE")
+
+
+[Asus announces all-new slim and light TUF Dash F15 gaming laptop in the UAE](https://gulfnews.com/technology/asus-announces-all-new-slim-and-light-tuf-dash-f15-gaming-laptop-in-the-uae-1.1611736571773)
+
+
+> . Image Credit: Supplied Asus today announced the new TUF Dash F15 gaming laptop, a super slim 15-inch device that represents a more portable, lightweight, and inclusive direction for the TUF Gaming series. Engineered to empower more gamers with the ability to game, work, and stay productive anywhere, it uses latest-gen processors; 11th Gen Intel ® Core™ i7-11370H CPU and GeForce RTX™ 3070 GPU. Its powerful core experience is rounded out with high-end features not typically seen at accessible price points, such as a tournament-level gaming panel with up to a 144Hz refresh rate, a versatile Thunderbolt™ 4 port, and Two-Way AI Noise Cancelation technology.
+
+
