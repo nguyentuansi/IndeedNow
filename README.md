@@ -16734,3 +16734,50 @@
 > . Image Credit: Supplied Asus today announced the new TUF Dash F15 gaming laptop, a super slim 15-inch device that represents a more portable, lightweight, and inclusive direction for the TUF Gaming series. Engineered to empower more gamers with the ability to game, work, and stay productive anywhere, it uses latest-gen processors; 11th Gen Intel ® Core™ i7-11370H CPU and GeForce RTX™ 3070 GPU. Its powerful core experience is rounded out with high-end features not typically seen at accessible price points, such as a tournament-level gaming panel with up to a 144Hz refresh rate, a versatile Thunderbolt™ 4 port, and Two-Way AI Noise Cancelation technology.
 
 
+***
+![New AirTags accessories leaked online, coming ‘late October'](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/airtags-accessory.jpg "New AirTags accessories leaked online, coming ‘late October'")
+
+
+[New AirTags accessories leaked online, coming ‘late October'](https://www.imore.com/new-airtags-accessories-leaked-online-coming-late-october)
+
+
+> Source: CYRILL A couple of new AirTags accessory listings have appeared online, with a listed release window of 'late October' Listings for new accessories have been posted by Cyrill, part of the Spigen brand that makes accessories such as cases and chargers for iPhone, and iPad. Listings on their website show a 'Basic Leather – Black' fob "for AirTag," the listing states: Features • Stylish and classy vegan leather strap case perfect accessory for minimalist • Firm button clasp keeps your AirTag securely • Hang your AirTag on your bag, key, wallets, clutches with stylish gold clip-on carabiner • Wireless charging compatible.
+
+
+***
+![Are AirPods the best choice for Android users? Let's find out!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/11/ipods-pro-android-hero-1.jpg "Are AirPods the best choice for Android users? Let's find out!")
+
+
+[Are AirPods the best choice for Android users? Let's find out!](https://www.androidcentral.com/are-airpods-good-earbud-choice-android-users)
+
+
+> Source: Daniel Bader / Android CentralBest answer: AirPods technically work with Android phones, but compared to using them with an iPhone, the experience is watered-down significantly. From missing features to losing access to important settings, you're better off with a pair of wireless earbuds.Source: Daniel Bader / Android Central This is a multi-faceted question, so let's start with the positives. Whether you get AirPods or AirPods Pro, they both act as regular Bluetooth earbuds when used with an Android phone.
+
+
+***
+[Psychological horror comes with a two-sided twist in The Medium](https://www.watoday.com.au/technology/video-games/psychological-horror-comes-with-a-two-sided-twist-in-the-medium-20210126-p56ww2.html?ref=rss&utm_medium=rss&utm_source=rss_feed)
+
+
+> Horror game crafts a gripping narrative that's unmissable for genre fans, even if a few hitches undermine the tension.
+
+
+***
+![Psychological horror comes with a two-sided twist in The Medium](https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_737%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_no_label_no_age_social_wm/0f0d2dd91b913a7c0e951d035cfcaca9f908df60 "Psychological horror comes with a two-sided twist in The Medium")
+
+
+[Psychological horror comes with a two-sided twist in The Medium](https://www.smh.com.au/technology/video-games/psychological-horror-comes-with-a-two-sided-twist-in-the-medium-20210126-p56ww2.html)
+
+
+> It's a unique and slickly executed gimmick, with the interplay between worlds makes for satisfying strings of puzzles. You might for example need to power a machine in the normal world, requiring you to collect and redirect spirit energy in the paranormal. Or turning the hands of a clock in the real world could affect the manifistations of spirits and give access to different areas and information.The difference in atmosphere between the mirrored worlds is enhanced by fascinating visual art and brilliant dual musical scores, but the clear tradeoff is a shallowness of interaction within the world.
+
+
+***
+![YouTube has removed more than half a million videos spreading Covid-19 misinformation](https://static.independent.co.uk/2021/01/27/13/youtube.jpg "YouTube has removed more than half a million videos spreading Covid-19 misinformation")
+
+
+[YouTube has removed more than half a million videos spreading Covid-19 misinformation](https://www.independent.co.uk/life-style/gadgets-and-tech/youtube-covid-19-coronavirus-misinformation-b1793492.html)
+
+
+> YouTube has removed more than half a million videos spreading misinformation about Covid-19, it has said.Technology platforms from YouTube to Facebook have struggled with keeping public health misinformation in check as the pandemic has spread across the world. False information posted on the site includes information suggesting the virus is not real to discouraging vaccines that can prevent disease.YouTube boss Susan Wojcicki that such videos have been posted in vast numbers the site, even as it looks to stop their spread.
+
+
