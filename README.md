@@ -16537,3 +16537,53 @@
 > Image Credit: Shutterstock YouTube Shorts - the video-sharing website's quick clips meant to compete with TikTok - are racking up 3.5 billion views a day during beta testing in India, the platform's head said Tuesday. Susan Wojcikci explained the feature in a note laying out her 2021 priorities. "So far, videos in our new Shorts player - which helps people around the world watch short videos on YouTube - are receiving an impressive 3.5 billion daily views!" she said. "We're looking forward to expanding Shorts to more markets this year.
 
 
+***
+![Thousand Oaks Biopharmaceuticals Inked a Joint Venture Agreement with Korea's WSG Group](https://mms.businesswire.com/media/20210126006173/en/854916/23/multimedia.jpg "Thousand Oaks Biopharmaceuticals Inked a Joint Venture Agreement with Korea's WSG Group")
+
+
+[Thousand Oaks Biopharmaceuticals Inked a Joint Venture Agreement with Korea's WSG Group](https://www.businesswire.com/news/home/20210126006173/en/Thousand-Oaks-Biopharmaceuticals-Inked-a-Joint-Venture-Agreement-with-Korea%E2%80%99s-WSG-Group)
+
+
+> THOUSAND OAKS, Calif. & SHANGHAI & BUSAN, South Korea--(BUSINESS WIRE)--January 2021, Thousand Oaks Biopharmaceuticals Group ('Thousand Oaks') announced that it had signed a Joint Venture agreement with WSG Group in Busan, Korea, to establish a bioprocess solution joint venture (including cell culture media, single-use technology, and related technologies and products) in early 2021. The Joint Venture will speed up and boost development of the Korean Biopharmaceutical industry by supplying serum-free cell culture media at commercial scale.
+
+
+***
+![Facebook spent more on lobbying than any other Big Tech company in 2020](https://external-preview.redd.it/AbtvmoQK_Td52cZWo3QM65s19RW9O5KXv191CGVySh4.jpg?auto=webp&s=7b142eb4c13941191cdce8fa5df6cbd95b9aa65e "Facebook spent more on lobbying than any other Big Tech company in 2020")
+
+
+[Facebook spent more on lobbying than any other Big Tech company in 2020](https://www.reddit.com/r/technology/comments/l5xlo9/facebook_spent_more_on_lobbying_than_any_other/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![YouTube ban: Google extends suspension of former President Trump's channel](https://resources.stuff.co.nz/content/dam/images/4/y/q/e/u/n/image.related.StuffLandscapeSixteenByNine.1420x800.4yqo2n.png/1611726417534.jpg "YouTube ban: Google extends suspension of former President Trump's channel")
+
+
+[YouTube ban: Google extends suspension of former President Trump's channel](https://www.stuff.co.nz/technology/300215903/youtube-ban-google-extends-suspension-of-former-president-trumps-channel)
+
+
+> Former US President Donald Trump's YouTube channel will remain suspended, the online video platform said Tuesday. YouTube suspended Trump's official channel on January 12 from uploading new content for at least a week, at the time citing the potential for violence following the deadly January 6 siege of the US Capitol.Google has extended the suspension of former President Trump's YouTube channel. "In light of concerns about the ongoing potential for violence, the Donald J. Trump channel will remain suspended," YouTube said in a statement to USA TODAY.
+
+
+***
+![Singapore faces talent crunch as tech giants scale up](https://i-invdn-com.akamaized.net/news/Computer-(tech-sector)2_800x533_L_1412602635.jpg "Singapore faces talent crunch as tech giants scale up")
+
+
+[Singapore faces talent crunch as tech giants scale up](https://www.investing.com/news/technology-news/singapore-faces-talent-crunch-as-tech-giants-scale-up-2399857)
+
+
+> © Reuters. FILE PHOTO: A view of the city skyline in Singapore By Chen Lin and Aradhana Aravindan SINGAPORE (Reuters) - At least three recruiters approach Singapore-based software engineer Xiao Yuguang every day with job offers. Demand for Xiao's skills has soared since he graduated in 2014 with a computer engineering degree but now he just ignores the offers, having recently joined TikTok owner Bytedance after several years with Southeast Asia's Grab. "It's not like I want to change jobs frequently," said Xiao.
+
+
+***
+![How do I pass IKM python assessment?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "How do I pass IKM python assessment?")
+
+
+[How do I pass IKM python assessment?](https://www.reddit.com/r/Python/comments/l5xg9z/how_do_i_pass_ikm_python_assessment/)
+
+
+> Hello, I have five years of experience in SQL and looking for a job. Thus, I have given the job interview. My first interview round really went well for one remote sql-python job. That remote job has given me to complete SQL and python IKM assessment and I got 68/100 in sql 2014 programming assessment. However, my job recruiter is not satiated with my score. He wants me to retake the SQL assessment. Does any one know the minimum score requirement for IKM assessment? Any tips would work for me. I want to get at least 88-90 in SQL.
+
+
