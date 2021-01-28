@@ -16981,3 +16981,53 @@
 > Javascript is Disabled Your current browser configuration is not compatible with this site.
 
 
+***
+![Apple posts big quarter on fast sales start for iPhone 12](https://s.abcnews.com/images/Technology/WireAP_58f64ae538104ff3b5d41ad990a9572a_16x9_992.jpg "Apple posts big quarter on fast sales start for iPhone 12")
+
+
+[Apple posts big quarter on fast sales start for iPhone 12](https://abcnews.go.com/Technology/wireStory/apple-posts-big-quarter-fast-sales-start-iphone-75524184)
+
+
+> SAN RAMON, Calif. -- Apple's delayed launch of its latest iPhones unleashed a holiday buying frenzy that propelled sales of the trendsetting company's most popular product to its fastest start in years. The apparently pent-up demand for four different iPhone 12 models highlighted Apple's latest quarterly report Wednesday. Apple's iPhone sales during the October-December period totaled $65.6 billion, a 17% increase from the same time in the previous year. Part of the gain reflected pandemic-driven production problems that pushed back the release of the new iPhone until October and November.
+
+
+***
+![New supercomputer in Wyoming to rank among world's fastest](https://s.abcnews.com/images/Technology/WireAP_62dff2b3bc2f4ba6ad1f9e8514081c52_16x9_992.jpg "New supercomputer in Wyoming to rank among world's fastest")
+
+
+[New supercomputer in Wyoming to rank among world's fastest](https://abcnews.go.com/Technology/wireStory/supercomputer-wyoming-rank-worlds-fastest-75523078)
+
+
+> CHEYENNE, Wyo. -- A new supercomputer in Wyoming will rank among the world's fastest and help study phenomena including climate change, severe weather, wildfires and solar flares. Houston-based Hewlett Packard Enterprise won a bid to provide the $35 million to $40 million machine for a supercomputing center in Cheyenne, the National Center for Atmospheric Research in Boulder, Colorado, announced Wednesday. The HPE-Cray EX supercomputer will theoretically be able to perform almost 20 quadrillion calculations per second — 3.
+
+
+***
+![Facebook Q4 results soar; Zuckerberg hits Apple over privacy](https://s.abcnews.com/images/Technology/WireAP_baa1bfa838194d85af3633732c471ea1_16x9_992.jpg "Facebook Q4 results soar; Zuckerberg hits Apple over privacy")
+
+
+[Facebook Q4 results soar; Zuckerberg hits Apple over privacy](https://abcnews.go.com/Technology/wireStory/facebook-4q-results-soar-prelude-uncertain-2021-75523599)
+
+
+> Facebook capped a tumultuous 2020 with soaring earnings in the final quarter, but the company forecast challenges in 2021 that include a coming privacy update by Apple that could limit the social network's ad targeting capabilities. The Apple move drew a rare public rebuke from Facebook CEO Mark Zuckerberg , who during a conference call accused Apple of favoring its own interests and not those of users. But the company predicted uncertainty for 2021 and said its revenue in the latter half of the year could face significant pressure.
+
+
+***
+![You know WALL-E. Now, here's DALL-E: An algorithm is learning to draw the world around it](https://media4.s-nbcnews.com/j/newscms/2021_04/3445472/210127-2x1-openai-avocado-chair-ew-131p_1ada37973de8ffd760ad9907062786be.nbcnews-fp-1200-630.jpg "You know WALL-E. Now, here's DALL-E: An algorithm is learning to draw the world around it")
+
+
+[You know WALL-E. Now, here's DALL-E: An algorithm is learning to draw the world around it](https://www.nbcnews.com/tech/innovation/here-s-dall-e-algorithm-learned-draw-anything-you-tell-n1255834)
+
+
+> OpenAI, one of the industry leaders in artificial intelligence development, released evidence in early January of a leap forward of its capabilities: An illustration of a baby daikon radish in a tutu walking a dog. Also, a bunny in pajamas watching TV, a shrimp in a suit using a calculator and a variety of other bizarre combinations — all drawn by its new series of algorithms called DALL-E . The program can generate a variety of drawings and pictures based on simple text prompts. In other examples, the system generated a series of realistic looking pictures based on the prompt "a store front that has the word ‘openai' written on it.
+
+
+***
+![Justice Department issues rare charges against ransomware operator](https://media1.s-nbcnews.com/j/newscms/2021_04/3445487/210127-justice-department-building-jm-1427_34b34ce830936d098653afd2f6f861b4.nbcnews-fp-1200-630.jpg "Justice Department issues rare charges against ransomware operator")
+
+
+[Justice Department issues rare charges against ransomware operator](https://www.nbcnews.com/tech/security/justice-department-issues-rare-charges-against-ransomware-operator-n1255899)
+
+
+> The U.S. has struck a rare blow against an international ransomware gang, charging one alleged member of a hacker ring that has shut down health care facilities, colleges and utilities companies. The Justice Department also helped seize computers related to a custom ransomware known as NetWalker, it announced Wednesday . Ransomware is a type of malicious software that is used to infect computer systems, which are then held for ransom, usually in payments of cryptocurrencies. For several years, the hackers that operated NetWalker broke into victims' networks and encrypted their files, demanding payment in bitcoin and sometimes posting their private files on their blog if they didn't quickly pay up.
+
+
