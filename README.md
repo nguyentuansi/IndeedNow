@@ -17031,3 +17031,47 @@
 > The U.S. has struck a rare blow against an international ransomware gang, charging one alleged member of a hacker ring that has shut down health care facilities, colleges and utilities companies. The Justice Department also helped seize computers related to a custom ransomware known as NetWalker, it announced Wednesday . Ransomware is a type of malicious software that is used to infect computer systems, which are then held for ransom, usually in payments of cryptocurrencies. For several years, the hackers that operated NetWalker broke into victims' networks and encrypted their files, demanding payment in bitcoin and sometimes posting their private files on their blog if they didn't quickly pay up.
 
 
+***
+![桌面/移动两用：Cosmo Communicator是一款有趣的Ubuntu Touch设备](https://static.cnbetacdn.com/article/2021/0128/ad24b031a9dba04.jpg "桌面/移动两用：Cosmo Communicator是一款有趣的Ubuntu Touch设备")
+
+
+[桌面/移动两用：Cosmo Communicator是一款有趣的Ubuntu Touch设备](http://www.cnbeta.com/articles/tech/1083589.preview)
+
+
+> 早些年，移动设备市场曾涌现出许多平台，比如微软的 Windows Phone 和 Windows 10 Mobile、诺基亚的精神继任者 Jolla、以及 Canonical 的 Ubuntu Touch 。虽然后者已几乎被 Canonical 官方给放弃，但有意思的是，众包平台上仍有几个看似不错的主流 Linux OS 设备项目。 本文要为大家介绍的，就是 Indiegogo 上的 Cosmo Communicator 项目。在滑出键盘的'完全体'状态下，你可以将它当做一款轻便的笔记本电脑来使用。Astro Slide Features（via）据悉，Ubuntu Touch 的设计理念很是灵活，能够在手机、平板电脑、甚至台式机上运行。软件方面，Canonical 为其提供了丰富的 Linux 资源库。对发烧友们来说，Cosmo Communicator 或是一个不错的硬件选择。而且在连接了外设之后，你也可以借助 Ubuntu Touch 的 Convergence 功能也，切换到更具生产力的桌面 UI 。目前 Planet Computers 正在加紧与 UBports 和整个 L
+
+
+***
+[Tech-savvy Indians feel least secure while dating online: Report](https://www.orissapost.com/tech-savvy-indians-feel-least-secure-while-dating-online-report/)
+
+
+> Bengaluru: Indians feel most secure while ordering food online, but least so while online dating, according to a report. McAfee Corp Wednesday announced findings from its’2021 Consumer Security Mindset Report’, revealing that while the shift to a digital-first life was brought on by the global pandemic, Indian consumers have shown an increased online footprint. Activities […]
+
+
+***
+[IDC says Apple has shipped 90.1M iPhones in Q1, the largest number of shipments in a single quarter since IDC started tracking smartphones (Kif Leswing/CNBC)](http://www.techmeme.com/210127/p46#a210127p46)
+
+
+> Kif Leswing / CNBC: IDC says Apple has shipped 90.1M iPhones in Q1, the largest number of shipments in a single quarter since IDC started tracking smartphones — - The iPhone is booming: Sales were up 17% year-over-year to a whopping $65.6 billion in a single quarter. — Research firm IDC estimates …
+
+
+***
+![Smartphone shipments rebound in fourth quarter, led by Apple's record quarter](https://cnet2.cbsistatic.com/img/nvCNBsrRpbIHWEz4FIiQzp5RFQ4=/1200x630/2021/01/07/4992f8eb-49b2-4498-9d12-1070f508f627/iphone-12-pro-max-product-promo-hoyle-2021-5.jpg "Smartphone shipments rebound in fourth quarter, led by Apple's record quarter")
+
+
+[Smartphone shipments rebound in fourth quarter, led by Apple's record quarter](https://www.cnet.com/news/smartphone-shipments-rebound-in-fourth-quarter-led-by-apples-record-quarter/)
+
+
+> The iPhone 12 helped the iPhone maker regain the smartphone shipment crown. Andrew Hoyle/CNET Global smartphone shipments bounced back in the fourth quarter from the sales slump caused by the outbreak a year ago of the coronavirus epidemic, according to figures released Wednesday by market researcher IDC. And much of that rebound can be credited to Apple.Vendors shipped 385.9 million handsets during the quarter, a 4.3% increase over the year-ago period in a year that overall saw a 5.9% decline in shipments, IDC reported.
+
+
+***
+![Analysis: Chinese retail banks gain consumer lending clout as fintechs fall out of favour](https://i-invdn-com.akamaized.net/news/LYNXMPEA610V5_L.jpg "Analysis: Chinese retail banks gain consumer lending clout as fintechs fall out of favour")
+
+
+[Analysis: Chinese retail banks gain consumer lending clout as fintechs fall out of favour](https://www.investing.com/news/technology-news/analysis-chinese-retail-banks-gain-consumer-lending-clout-as-fintechs-fall-out-of-favour-2401257)
+
+
+> © Reuters. FILE PHOTO: A logo of Ant Group is pictured at the headquarters of the company, an affiliate of Alibaba, in Hangzhou BEIJING (Reuters) - Chinese banks are gearing up to seize back lost business in consumer loans from fintech players like Ant Group, emboldened by a regulatory sea change that is making them more competitive while more hurdles are created for their online rivals. The new rules, which come on the back of Beijing's shock canning of Ant's $37 billion IPO in November, include the scrapping of limits on credit card interest rates and plans to greatly restrict the consumer data collection that has enabled the rapid growth of online lending platforms.
+
+
