@@ -17419,3 +17419,47 @@
 > CRANBURY, N.J.--(BUSINESS WIRE)--For years, telehealth held promise but always seemed just around the corner. It made sense in theory—if payers and providers could overcome regulatory and reimbursement hurdles that kept it from taking flight. In 2020, the coronavirus disease 2019 (COVID-19) pandemic proved just the disruption that telehealth needed. Telehealth takes center stage in this health information technology (IT) issue from The American Journal of Managed Care®, which launched the annual special issue a decade ago when financial incentives and requirements in the Affordable Care Act meant health IT would expand.
 
 
+***
+![Facebook oversight board overrules company on most cases in first test](https://imagevars.gulfnews.com/2019/02/20/INDIA-ELECTION-FACEBOOK-(Read-Only)_resources1_16a4a16544a_medium.jpg "Facebook oversight board overrules company on most cases in first test")
+
+
+[Facebook oversight board overrules company on most cases in first test](https://gulfnews.com/technology/companies/facebook-oversight-board-overrules-company-on-most-cases-in-first-test-1.1611855651412)
+
+
+> Facebook Image Credit: Supplied Deciding its first-ever cases, Facebook Inc's oversight board ruled on Thursday that the social media company was wrong to remove four of five pieces of content the board reviewed, including posts Facebook took down for violating rules on hate speech and harmful COVID-19 misinformation. The first rulings will be scrutinized to see how independent the board appears from the world's largest social media platform and how it may rule in the future, particularly ahead of its high-profile decision on whether Facebook was right to suspend former U.
+
+
+***
+![Apple to crack down on iPhone-user tracking in early spring](https://imagevars.gulfnews.com/2018/12/10/Copy_of_Supreme_Court_iPhone_Apps_27272_16a0853e08a.jpg-037bc~1_16a0853e08a_medium.jpg "Apple to crack down on iPhone-user tracking in early spring")
+
+
+[Apple to crack down on iPhone-user tracking in early spring](https://gulfnews.com/technology/companies/apple-to-crack-down-on-iphone-user-tracking-in-early-spring-1.1611856229372)
+
+
+> This file photo shows Apple's App Store app. Picture for illustrative purposes only. Image Credit: AP San Ramon, California: Apple plans to roll out a new privacy control in the early spring to prevent iPhone apps from secretly shadowing people. That puts the feature on course to come out after a more than six-month delay aimed at placating Facebook and other digital services that depend on such data surveillance to help sell ads. Although Apple didn't provide a specific date, the general timetable disclosed Thursday means the long-awaited safeguard known as App Tracking Transparency will be part of an iPhone software update likely to arrive in late March or some point in April.
+
+
+***
+![Airtel takes a U-turn with 5G demo](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/airtel_505_280121110536.jpg "Airtel takes a U-turn with 5G demo")
+
+
+[Airtel takes a U-turn with 5G demo](https://www.businesstoday.in/technology/airtel-takes-u-turn-with-5g-launch/story/429430.html)
+
+
+> Gopal Vittal said the telco will eventually refarm its mid-band spectrum to deliver 5G since it has adequate amount of spectrum available in that range. Manu Kaushik | January 29, 2021 | Updated 00:10 IST The launch took place in Hyderabad where Airtel used its existing liberalised 1,800 MHz (megahertz) spectrum to provide 5G.
+
+
+***
+[Webull and Public, which restricted transactions of some stocks, cite costs of settling the trades with Apex as the cause and have now removed all restrictions (Darrell Etherington/TechCrunch)](http://www.techmeme.com/210128/p29#a210128p29)
+
+
+> Darrell Etherington / TechCrunch: Webull and Public, which restricted transactions of some stocks, cite costs of settling the trades with Apex as the cause and have now removed all restrictions — Two of the popular retail stock market trading apps that have hosted much of the activity related to the Wall Street Bets subreddit-spurred run …
+
+
+***
+[Lawmakers, including AOC and Ted Cruz, criticize Robinhood; Rep. Tlaib calls for a House Financial Services Committee hearing about its "market manipulation" (Tucker Higgins/CNBC)](http://www.techmeme.com/210128/p28#a210128p28)
+
+
+> Tucker Higgins / CNBC: Lawmakers, including AOC and Ted Cruz, criticize Robinhood; Rep. Tlaib calls for a House Financial Services Committee hearing about its “market manipulation” — - AOC, Ted Cruz, Ro Khanna and other lawmakers criticized Robinhood after it restricted trading in GameStop …
+
+
