@@ -17075,3 +17075,53 @@
 > © Reuters. FILE PHOTO: A logo of Ant Group is pictured at the headquarters of the company, an affiliate of Alibaba, in Hangzhou BEIJING (Reuters) - Chinese banks are gearing up to seize back lost business in consumer loans from fintech players like Ant Group, emboldened by a regulatory sea change that is making them more competitive while more hurdles are created for their online rivals. The new rules, which come on the back of Beijing's shock canning of Ant's $37 billion IPO in November, include the scrapping of limits on credit card interest rates and plans to greatly restrict the consumer data collection that has enabled the rapid growth of online lending platforms.
 
 
+***
+![leontrolski](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "leontrolski")
+
+
+[leontrolski](https://www.reddit.com/r/Python/comments/l6r7cg/leontrolski_oo_in_python_is_mostly_pointless/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Hand-picked solutions for an intelligent, connected future](https://storage.googleapis.com/gcs.thesouthafrican.com/2021/01/e09da314-tsa-miro-image.jpg "Hand-picked solutions for an intelligent, connected future")
+
+
+[Hand-picked solutions for an intelligent, connected future](https://www.thesouthafrican.com/technology/hand-picked-solutions-for-an-intelligent-connected-future/)
+
+
+> (Partner Content) Service providers play a vital role in making the new frontier of intelligent computing possible. Take a look at who these service providers are and how they are doing it.
+
+
+***
+![Fujifilm X-Pro3 review: Innovative, excellent but not for everyone](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202101/fuji7-647x363.jpeg?LuWxBNh8KOldnTHI5EHBdPClHwSes4QU "Fujifilm X-Pro3 review: Innovative, excellent but not for everyone")
+
+
+[Fujifilm X-Pro3 review: Innovative, excellent but not for everyone](https://www.indiatoday.in/technology/reviews/story/fujifilm-x-pro3-review-innovative-excellent-but-not-for-everyone-1763531-2021-01-28)
+
+
+> The Fujifilm X-Pro3 is like a Christopher Nolan film innovative, unique, excellent and thoroughly crafted. Not everyone gets it. Launched more than a year ago in India, the Fujifilm X-Pro3 stands out from competitors with an innovative yet beautiful design, titanium finish and hybrid viewfinder. The construction is met with capable components inside including a 26MP sensor, quick autofocus and 4K recording. As you might have predicted by now, all of this comes at a premium. The Fujifilm X-Pro3 is priced in India at Rs 1,55,999 and if you want to get hands on the Duratect Silver and Duratect Black variants, you will have to spend even more.
+
+
+***
+![SiMa.ai Expands Engineering Team With New Design Center in Bengaluru, India](https://mms.businesswire.com/media/20210127006084/en/790947/23/SiMa_ai_300dpi.jpg "SiMa.ai Expands Engineering Team With New Design Center in Bengaluru, India")
+
+
+[SiMa.ai Expands Engineering Team With New Design Center in Bengaluru, India](https://www.businesswire.com/news/home/20210127006084/en/SiMa.ai-Expands-Engineering-Team-With-New-Design-Center-in-Bengaluru-India)
+
+
+> January 28, 2021 02:30 AM Eastern Standard Time BENGALURU, India--(BUSINESS WIRE)--SiMa.ai™, the machine learning company enabling high-performance compute at the lowest power for embedded edge applications, today announced a new design center in Bengaluru, India. The investment in the new site will bolster the company's engineering and operations team, opening up new in-region job opportunities for board development, operations, infrastructure, and system application roles. The growth beyond Silicon Valley and Serbia will give SiMa.
+
+
+***
+![Temenos Transforms Corporate Banking with End-to-End, Cloud-Native Corporate Lending Platform](https://mms.businesswire.com/media/20210127005795/en/855076/23/Logo_Latest.jpg "Temenos Transforms Corporate Banking with End-to-End, Cloud-Native Corporate Lending Platform")
+
+
+[Temenos Transforms Corporate Banking with End-to-End, Cloud-Native Corporate Lending Platform](https://www.businesswire.com/news/home/20210127005795/en/Temenos-Transforms-Corporate-Banking-with-End-to-End-Cloud-Native-Corporate-Lending-Platform)
+
+
+> January 28, 2021 02:30 AM Eastern Standard Time GENEVA, Switzerland--(BUSINESS WIRE)--Temenos (SIX: TEMN), the banking software company, today announced its next-generation end-to-end corporate lending platform, designed to help banks digitally transform their entire corporate banking business to reduce cost and drive operational efficiencies, improve customer experiences, and create offers for customers that are tailored to individual corporate needs. The microservices-based platform helps banks automate their heavily manual and complex processes and enables the bank's corporate lending teams to access the right data at the right time to make faster and smarter decisions.
+
+
