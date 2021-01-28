@@ -17269,3 +17269,53 @@
 > Xiaomi's rumoured flagship could also support 67W fast wireless charging. India Today Tech | January 28, 2021 | Updated 16:44 IST
 
 
+***
+![Protect your investment with these Galaxy S10 screen protectors](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/02/galaxy-s10-home-screen-blank.jpg "Protect your investment with these Galaxy S10 screen protectors")
+
+
+[Protect your investment with these Galaxy S10 screen protectors](https://www.androidcentral.com/best-galaxy-s10-screen-protectors)
+
+
+> Best Galaxy S10 Screen Protectors Android Central 2021 The Galaxy S10 has a great, big, beautiful screen with some fancy tricks inside — like that fancy ultrasonic fingerprint sensor — but those tricks make buying a screen protector all the more important and all the more difficult. See, that in-screen fingerprint sensor can't tolerate any air bubbles or gaps between the screen and the screen protector. Your best bets are plastic film protectors or the Whitestone Dome Glass. Here are the best Galaxy S10 screen protectors.
+
+
+***
+![Accenture Named Adobe 2020 Global Digital Experience Solution Partner of the Year](http://www.businesswire.com/images/bwlogo_square.png "Accenture Named Adobe 2020 Global Digital Experience Solution Partner of the Year")
+
+
+[Accenture Named Adobe 2020 Global Digital Experience Solution Partner of the Year](https://www.businesswire.com/news/home/20210128005124/en/Accenture-Named-Adobe-2020-Global-Digital-Experience-Solution-Partner-of-the-Year)
+
+
+> January 28, 2021 08:59 AM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--Accenture (NYSE: ACN) has been named the 2020 Global Digital Experience Solution Partner of the Year by Adobe. The award is presented to the Adobe partner that has made the biggest impact on Adobe Experience Cloud by delivering significant value and innovation to joint customers and deepening its technical expertise and implementation excellence of Adobe Experience Platform and Adobe Experience Cloud applications. The award underscores Accenture's commitment to securing joint client wins and adding more than 780 technical certifications, which includes five new regional specializations and four global specializations.
+
+
+***
+![Global IoT Telecom Service Markets, Technology Landscape, Trends and Opportunities Report 2021](https://mms.businesswire.com/media/20210128005669/en/371054/23/ResearchAndMarkets_800px.jpg "Global IoT Telecom Service Markets, Technology Landscape, Trends and Opportunities Report 2021")
+
+
+[Global IoT Telecom Service Markets, Technology Landscape, Trends and Opportunities Report 2021](https://www.businesswire.com/news/home/20210128005669/en/Global-IoT-Telecom-Service-Markets-Technology-Landscape-Trends-and-Opportunities-Report-2021---ResearchAndMarkets.com)
+
+
+> January 28, 2021 08:57 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Technology Landscape, Trends and Opportunities in the Global IoT Telecom Service Market" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity, degree of disruption, competitive intensity, market potential, and other parameters of various technologies in the IoT Telecom Service market. The technologies in loT telecom service have undergone significant change in recent years, with traditional cellular technology to advanced narrowband-IoT (NB-IoT) connectivity.
+
+
+***
+![Ascend Fundraising Solutions Offer to Purchase Bump 50:50 from Sportech PLC](https://mms.businesswire.com/media/20210128005667/en/855406/23/Ascend_Logo.jpg "Ascend Fundraising Solutions Offer to Purchase Bump 50:50 from Sportech PLC")
+
+
+[Ascend Fundraising Solutions Offer to Purchase Bump 50:50 from Sportech PLC](https://www.businesswire.com/news/home/20210128005667/en/Ascend-Fundraising-Solutions-Offer-to-Purchase-Bump-5050-from-Sportech-PLC)
+
+
+> January 28, 2021 08:56 AM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--Ascend Fundraising Solutions ('Ascend') announced that on January 25th, 2021 it submitted a revised indicative offer ('Offer') to acquire Bump 50:50, a wholly owned subsidiary of Sportech PLC ('Sportech'), for GBP 6.1 million in cash. This Offer values Bump 50:50 at 3.1x reported 2019 revenue and 20.7x adjusted EBITDA, which excludes material central costs. In its letter, Ascend stated that any final offer would: Not be subject to financing conditions; Not be subject to regulatory approval; Require limited due diligence with a desired closing as soon as possible; and Include a material deposit by Ascend upon signing.
+
+
+***
+![Robinhood appears to halt support on Reddit-driven GameStop, AMC stocks](https://www.clickondetroit.com/resizer/CBhxdUbaywDRDvXddxn4rA8ilrU=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/6NJFIQVELJGCXNR6IWJK2AKG4A.jpg "Robinhood appears to halt support on Reddit-driven GameStop, AMC stocks")
+
+
+[Robinhood appears to halt support on Reddit-driven GameStop, AMC stocks](https://www.clickondetroit.com/tech/2021/01/28/robinhood-appears-to-halt-support-on-reddit-driven-gamestop-amc-stocks/)
+
+
+> The popular stock investment app Robinhood has stopped supporting the purchase of new shares on a handful of stocks supported by the recent Reddit fueled frenzy.Robinhood messages posted to various company pages like GameStop, AMC and Nokia, inform users that the stock is not supported on Robinhood, or not available for purchase. Some are allowed to sell.Robinhood has not issued any guidance on the halt and it's unclear how long it will last.Check back for updates.A Reddit group known as WallStreetBets has rallied its members behind several stocks, most notably GameStop, which has increased by nearly 1,000% in the last week.
+
+
