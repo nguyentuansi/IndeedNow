@@ -17219,3 +17219,53 @@
 > HP has launched its new Smart Tank 500 and 516 all-in-One series of high capacity, affordable printers in India. The printers are said to be designed for small and medium businesses and home office needs. The printers are powered by new sensor-based Ink Tank technology that alerts the user before the ink runs out. The printers comes with the ink tank integrated, which reduces the footprint of the device. The printers are compact and are designed to fit better in homes. The HP Smart Tank comes packed with ink supplies in the box that are said to give an output of a minimum of 6000 pages (black) and 8000 pages (colour) and are said to be 38% faster.
 
 
+***
+![Google says Apple's privacy policy and IDFA changes for iOS 14 will affect ad revenue](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202101/Screenshot_2021-01-28_at_5.19.-647x363.png?N8pGs_06OKY460fHqU63KkfUN1OFTfob "Google says Apple's privacy policy and IDFA changes for iOS 14 will affect ad revenue")
+
+
+[Google says Apple's privacy policy and IDFA changes for iOS 14 will affect ad revenue](https://www.indiatoday.in/technology/news/story/google-says-apple-s-privacy-policy-and-idfa-changes-for-ios-14-will-affect-ad-revenue-1763648-2021-01-28)
+
+
+> Google on Wednesday noted that Apple's App Tracking Transparency (ATT) that is slated to go into effect from this year will affect the advertiser's revenue. The tech giant has also urged advertisers to make adjustments to budgets and bids to achieve their goals. Google noted that when Apple's policy goes into effect, it will no longer use information (such as IDFA) that falls under ATT for some of the iOS apps that currently use it for advertising purposes. Google said that it will not show the ATT prompt on those apps, in line with Apple's guidance.
+
+
+***
+![12 best PC games to play right now](https://static.independent.co.uk/2021/01/20/17/pc%20games%20chosen.jpg "12 best PC games to play right now")
+
+
+[12 best PC games to play right now](https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/best-pc-games-b1789494.html)
+
+
+> While console gaming remains ever popular, more than a billion folks enjoy PC gaming because it provides more processing power and a richer variety of games. Mammoth titles such as Fortnite and PlayerUnknown's Battlegrounds landed on PC first, along with a host of strange and lovely indie darlings. Not only that, but a multitude of strategy and multiplayer games benefit from the tried-and-tested combo of a mouse and keyboard. PC gaming is an exciting place: the standard in eSports and Twitch broadcasting, it's also a hotbed of gorgeous independent gems that are not available on consoles.
+
+
+***
+![Tech: Digitalisation the way forward for DHL Express](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1danXn.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Tech: Digitalisation the way forward for DHL Express")
+
+
+[Tech: Digitalisation the way forward for DHL Express](http://www.theedgemarkets.com/article/tech-digitalisation-way-forward-dhl-express)
+
+
+> © Provided by The Edge ALTHOUGH globalisation has been hit hard because of the Covid-19 pandemic, it has had a different effect on DHL Express. Since the beginning of last year, the German package delivery giant most recognisable by its distinctive red-and-yellow corporate colours, has experienced a 50% surge in e-commerce shipments in Asia-Pacific, excluding China. In an interview with The Edge, DHL Express CEO John Pearson highlights that digitalisation will be a key focus area for the courier delivery specialist in tackling increased demand from e-commerce.
+
+
+***
+![Watch: Singapore launches new self-driving bus trial](https://imagevars.gulfnews.com/2021/01/28/20210128-bus_177483eee1a_medium.jpg "Watch: Singapore launches new self-driving bus trial")
+
+
+[Watch: Singapore launches new self-driving bus trial](https://gulfnews.com/technology/watch-singapore-launches-new-self-driving-bus-trial-1.1611825004458)
+
+
+> An autonomous bus developed by ST Engineering departs from bus stop after picking up passengers at the start of a trial run from Singapore Science Park 2 to Haw Par Villa MRT station in Singapore. Image Credit: AFP Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own.
+
+
+***
+![Xiaomi tipped to launch new flagship with 200W fast charging](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/xiaomi_fast_charging-483x271_1200_210128170916.jpeg "Xiaomi tipped to launch new flagship with 200W fast charging")
+
+
+[Xiaomi tipped to launch new flagship with 200W fast charging](https://www.indiatoday.in/technology/news/story/xiaomi-tipped-to-launch-new-flagship-with-200w-fast-charging-1763624-2021-01-28)
+
+
+> Xiaomi's rumoured flagship could also support 67W fast wireless charging. India Today Tech | January 28, 2021 | Updated 16:44 IST
+
+
