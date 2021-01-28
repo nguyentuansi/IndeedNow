@@ -17369,3 +17369,53 @@
 > Super Bowl LV is still more than a week away and search trends for the best TVs are steadily rising. Whether you're rooting for the Tampa Bay Buccaneers or Kansas City Chiefs or are simply looking to elevate your streaming shows otherwise to help you ride out the ongoing coronavirus pandemic , you're going to come across lots of options. Buying a TV might seem like a straightforward process, most people looking for the biggest size at the best price. In our previous guides to buying TVs, however, technology writer Whitson Gordon noted there are a lot of factors that go into picking the right TV.
 
 
+***
+![Bokhari: Redditors Remind America that Wall Street Is Rigged](https://media.breitbart.com/media/2018/12/GettyImages-1084687838.jpg "Bokhari: Redditors Remind America that Wall Street Is Rigged")
+
+
+[Bokhari: Redditors Remind America that Wall Street Is Rigged](https://www.breitbart.com/tech/2021/01/28/bokhari-redditors-remind-america-that-wall-street-is-rigged/)
+
+
+> Populist movements against ruling elites have been the big political story of the past five years. But at the very moment when elites appear to be winning political battles again, a new threat to their power emerges — this time aimed at Wall Street rather than Washington. Thousands of small retail investors, organizing through online forums like Reddit's 'WallStreetBets' board, are locked in a battle with hedge funds this week. The retail investors are backing stocks that have been heavily shorted by hedge funds, most notably GameStop ($GME) but also AMC ($AMC), BlackBerry ($BB), and Nokia ($NOK).
+
+
+***
+![The GameStop Reckoning Was a Long Time Coming](https://static01.nyt.com/images/2021/01/27/business/28roose/merlin_182911629_cbbf2008-51ab-4b01-b962-d14d7d4c2d47-facebookJumbo.jpg "The GameStop Reckoning Was a Long Time Coming")
+
+
+[The GameStop Reckoning Was a Long Time Coming](https://www.nytimes.com/2021/01/28/technology/gamestop-stock.html)
+
+
+> Beating Wall Street4 Things to KnowUnderstanding Stock OptionsThis week, the biggest story in the financial markets is the absurdist, pretty-sure-I-hallucinated-it drama involving GameStop, a struggling video-game retailer that became the rope in a high-stakes tug of war between Wall Street suits and a crusading internet mob.The simplest explanation for what happened is that a bunch of hyper-online mischief-makers in Reddit's r/WallStreetBets forum — a clan of self-described degenerates with user names like 'dumbledoreRothIRA' and 'Coldcutcombo69' — decided it would be funny and righteous (and maybe even profitable, though that part was less important) to execute a 'short squeeze' by pushing up the price of GameStop's stock, entrapping the big-money hedge funds that had bet against it.
+
+
+***
+![Facebook Wants 'Clear Rules for the Internet' as It Reduces Political Content on Platform](https://media.breitbart.com/media/2018/04/GettyImages-944724820.jpg "Facebook Wants 'Clear Rules for the Internet' as It Reduces Political Content on Platform")
+
+
+[Facebook Wants 'Clear Rules for the Internet' as It Reduces Political Content on Platform](https://www.breitbart.com/tech/2021/01/28/facebook-wants-clear-rules-for-the-internet-as-it-reduces-political-content-on-platform/)
+
+
+> Facebook CEO Mark Zuckerberg recently stated that the social media giant would be reducing the amount of political content on its platforms and in its news feeds to channel users towards more 'healthy communities.' Zuckerberg also said that he wants 'clear guidance and clear rules for the Internet,' and is in favor of updating Section 230 of the Communications Decency Act (CDA). Deadline reports that during a recent call to discuss quarterly earnings, Facebook CEO Mark Zuckerberg stated that the social media giant is taking steps to reduce the amount of political content on its platforms and in its news feeds in an attempt to channel its users towards more 'healthy communities.
+
+
+***
+![Facebook Wants &#8216;Clear Rules for the Internet&#8217; as It Reduces Political Content on Platform](https://media.breitbart.com/media/2018/04/GettyImages-944724820.jpg "Facebook Wants &#8216;Clear Rules for the Internet&#8217; as It Reduces Political Content on Platform")
+
+
+[Facebook Wants &#8216;Clear Rules for the Internet&#8217; as It Reduces Political Content on Platform](https://www.breitbart.com/tech/2021/01/28/facebook-wants-clear-rules-for-the-internet-as-it-reduces-political-content-on-platform/)
+
+
+> Facebook CEO Mark Zuckerberg recently stated that the social media giant would be reducing the amount of political content on its platforms and in its news feeds to channel users towards more 'healthy communities.' Zuckerberg also said that he wants 'clear guidance and clear rules for the Internet,' and is in favor of updating Section 230 of the Communications Decency Act (CDA). Deadline reports that during a recent call to discuss quarterly earnings, Facebook CEO Mark Zuckerberg stated that the social media giant is taking steps to reduce the amount of political content on its platforms and in its news feeds in an attempt to channel its users towards more 'healthy communities.
+
+
+***
+![AJMC® Health IT Issue Highlights Telehealth's Expansion Due to COVID-19](https://mms.businesswire.com/media/20210128005941/en/855471/23/AJMC.jpg "AJMC® Health IT Issue Highlights Telehealth's Expansion Due to COVID-19")
+
+
+[AJMC® Health IT Issue Highlights Telehealth's Expansion Due to COVID-19](https://www.businesswire.com/news/home/20210128005941/en/AJMC%C2%AE-Health-IT-Issue-Highlights-Telehealth%E2%80%99s-Expansion-Due-to-COVID-19)
+
+
+> CRANBURY, N.J.--(BUSINESS WIRE)--For years, telehealth held promise but always seemed just around the corner. It made sense in theory—if payers and providers could overcome regulatory and reimbursement hurdles that kept it from taking flight. In 2020, the coronavirus disease 2019 (COVID-19) pandemic proved just the disruption that telehealth needed. Telehealth takes center stage in this health information technology (IT) issue from The American Journal of Managed Care®, which launched the annual special issue a decade ago when financial incentives and requirements in the Affordable Care Act meant health IT would expand.
+
+
