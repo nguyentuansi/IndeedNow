@@ -17463,3 +17463,53 @@
 > Tucker Higgins / CNBC: Lawmakers, including AOC and Ted Cruz, criticize Robinhood; Rep. Tlaib calls for a House Financial Services Committee hearing about its “market manipulation” — - AOC, Ted Cruz, Ro Khanna and other lawmakers criticized Robinhood after it restricted trading in GameStop …
 
 
+***
+![Understanding Square's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Understanding Square's Unusual Options Activity")
+
+
+[Understanding Square's Unusual Options Activity](https://www.benzinga.com/fintech/21/01/19369827/understanding-squares-unusual-options-activity)
+
+
+> Shares of Square (NYSE: SQ ) saw some unusual options activity on Thursday. Following the unusual option alert, the stock price moved up to $209.73. Sentiment: BULLISH Option Type: SWEEP Trade Type: CALL Expiration Date: 2021-06-18 Strike Price: $240.00 Volume: 17 Open Interest: 12256 Three Ways Options Activity Is ‘Unusual' One way options market activity can be considered unusual is when volume is exceptionally higher than its historical average. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![The best soundbars of 2021](https://cdn.cnn.com/cnnnext/dam/assets/210128163308-best-soundbars-of-2021-lead-super-169.jpg "The best soundbars of 2021")
+
+
+[The best soundbars of 2021](https://www.cnn.com/2021/01/28/cnn-underscored/best-soundbar/index.html)
+
+
+> (CNN) —   As TVs slim down, picture quality keeps getting better while built-in audio continues to deteriorate. That's why, as we note in our best TVs guide , it makes sense to pair your TV — even a brand new model — with a soundbar. Sure, you could wire a few different speakers up around the room. But the all-in-one solution of a soundbar is the simplest way to boost your audio experience. Plus, soundbars today rival the output of surround sound systems. What's more: You don't have to spend a small fortune to get a quality soundbar.
+
+
+***
+![Walmart Announces Expanded Vision and New Name for its Media Business](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Walmart Announces Expanded Vision and New Name for its Media Business")
+
+
+[Walmart Announces Expanded Vision and New Name for its Media Business](https://seekingalpha.com/pr/18169079-walmart-announces-expanded-vision-and-new-name-for-media-business)
+
+
+> Walmart ( WMT ) Connect, formerly Walmart Media Group, is growing its offerings to provide unparalleled opportunities for partners to accelerate their connection to customers in a closed loop, omnichannel environment The business is growing fast and poised to become a top ten advertising platform BENTONVILLE, Ark. --(BUSINESS WIRE)-- Today, Walmart announced an expanded vision and new name for its media business, now called Walmart Connect. Formerly known as Walmart Media Group, the new name reflects the company's unique ability to accelerate the connection between brands and its 150 million weekly customers.
+
+
+***
+![Dolby Laboratories EPS beats by $0.44, beats on revenue (NYSE:DLB)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Dolby Laboratories EPS beats by $0.44, beats on revenue (NYSE:DLB)")
+
+
+[Dolby Laboratories EPS beats by $0.44, beats on revenue (NYSE:DLB)](https://seekingalpha.com/news/3655831-dolby-laboratories-eps-beats-0_44-beats-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![GSI Technology EPS beats by $0.01, beats on revenue (NASDAQ:GSIT)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "GSI Technology EPS beats by $0.01, beats on revenue (NASDAQ:GSIT)")
+
+
+[GSI Technology EPS beats by $0.01, beats on revenue (NASDAQ:GSIT)](https://seekingalpha.com/news/3655844-gsi-technology-eps-beats-0_01-beats-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
