@@ -17319,3 +17319,53 @@
 > The popular stock investment app Robinhood has stopped supporting the purchase of new shares on a handful of stocks supported by the recent Reddit fueled frenzy.Robinhood messages posted to various company pages like GameStop, AMC and Nokia, inform users that the stock is not supported on Robinhood, or not available for purchase. Some are allowed to sell.Robinhood has not issued any guidance on the halt and it's unclear how long it will last.Check back for updates.A Reddit group known as WallStreetBets has rallied its members behind several stocks, most notably GameStop, which has increased by nearly 1,000% in the last week.
 
 
+***
+![Elon Musk's Cyberpunk approval helps lift video games maker CD Projekt further](https://apicms.thestar.com.my/uploads/images/2021/01/29/1024767.JPG "Elon Musk's Cyberpunk approval helps lift video games maker CD Projekt further")
+
+
+[Elon Musk's Cyberpunk approval helps lift video games maker CD Projekt further](https://www.thestar.com.my/tech/tech-news/2021/01/29/elon-musk039s-cyberpunk-approval-helps-lift-video-games-maker-cd-projekt-further)
+
+
+> FILE PHOTO: Tesla Motors Inc CEO Elon Musk unveils a new all-wheel-drive version of the Model S car in Hawthorne, California October 9, 2014. REUTERS/Lucy Nicholson/File Photo WARSAW (Reuters) - Video games fan Elon Musk gave shares in Polish games producer CD Projekt a further boost on Thursday after the company's update of its flagship game prompted short sellers to close positions earlier in the week. Shares in CD Projekt which is valued at almost 37 billion zlotys ($9.87 billion), jumped as much as 19% on Thursday, bringing the total gain so far this week to over 50%.
+
+
+***
+![WhatsApp adds new security layer for desktop users](https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-13_201812165898.jpg "WhatsApp adds new security layer for desktop users")
+
+
+[WhatsApp adds new security layer for desktop users](https://english.lokmat.com/photos/technology/whatsapp-adds-new-security-layer-for-desktop-users/)
+
+
+> WhatsApp on Thursday said it is bringing in an additional layer of protection for users linking their WhatsApp account to their computer. The Facebook-owned company said it will use the face or fingerprint unlock, where it is available on the mobile phone operating system, to facilitate the new security feature. "In order to link WhatsApp Web or Desktop to your WhatsApp account, you will now be asked to use your face or fingerprint unlock on your phone, before scanning a QR code from the phone to link your device.
+
+
+***
+![IN PICS! 11 year old learns hacking online, demands 10 crore ransom from father](https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fbogdard04_202101552240.jpg "IN PICS! 11 year old learns hacking online, demands 10 crore ransom from father")
+
+
+[IN PICS! 11 year old learns hacking online, demands 10 crore ransom from father](https://english.lokmat.com/photos/technology/in-pics-11-year-old-learns-hacking-online-demands-10-crore-ransom-from-father/)
+
+
+> In a shocking incident, an 11-year-old Ghaziabad boy who apparently learnt hacking tips from YouTube made an extortion call to his father and demanded a heavy ransom of Rs 10 crore. He further warned him that if his demand is not met, he would go ahead and circulate his obscene pictures and his family's personal details online. According to a report by India Today, the incident came to light after the Ghaziabad resident approached the police after getting the extortion call. He told the police that a group of hackers who hacked his email have warned that they would circulate his obscene pictures if their demands are not met.
+
+
+***
+![Facebook's 'Oversight Board' overturns four of five cases in first rulings](https://media4.s-nbcnews.com/j/newscms/2021_04/3418515/201008-facebook-jm-1140_d6d7853663565287201a1278cc3d44bf.nbcnews-fp-1200-630.jpg "Facebook's 'Oversight Board' overturns four of five cases in first rulings")
+
+
+[Facebook's 'Oversight Board' overturns four of five cases in first rulings](https://www.nbcnews.com/tech/tech-news/facebook-s-first-oversight-board-rulings-overturn-four-five-cases-n1255960)
+
+
+> Facebook's Oversight Board on Thursday issued its first round of decisions, overturning several decisions by the company to remove posts for violating policies on hate speech, violence and other issues. The first-ever rulings, which Facebook has said it will abide by, come in the run-up to a far more consequential decision the board will make in the weeks ahead: Whether to overturn Facebook's decision to suspend former President Donald Trump's account in the wake of the Jan. 6 riots in Washington.
+
+
+***
+![How to find a highly-rated, affordable TV](https://media3.s-nbcnews.com/j/newscms/2021_04/3445381/210126-affordabletvs-bd-2x1fb_3c6900adf00ef778f4f7d9bb973369b2.nbcnews-fp-1200-630.jpg "How to find a highly-rated, affordable TV")
+
+
+[How to find a highly-rated, affordable TV](https://www.nbcnews.com/shopping/tech-gadgets/best-affordable-tvs-n1255729)
+
+
+> Super Bowl LV is still more than a week away and search trends for the best TVs are steadily rising. Whether you're rooting for the Tampa Bay Buccaneers or Kansas City Chiefs or are simply looking to elevate your streaming shows otherwise to help you ride out the ongoing coronavirus pandemic , you're going to come across lots of options. Buying a TV might seem like a straightforward process, most people looking for the biggest size at the best price. In our previous guides to buying TVs, however, technology writer Whitson Gordon noted there are a lot of factors that go into picking the right TV.
+
+
