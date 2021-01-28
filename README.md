@@ -17125,3 +17125,47 @@
 > January 28, 2021 02:30 AM Eastern Standard Time GENEVA, Switzerland--(BUSINESS WIRE)--Temenos (SIX: TEMN), the banking software company, today announced its next-generation end-to-end corporate lending platform, designed to help banks digitally transform their entire corporate banking business to reduce cost and drive operational efficiencies, improve customer experiences, and create offers for customers that are tailored to individual corporate needs. The microservices-based platform helps banks automate their heavily manual and complex processes and enables the bank's corporate lending teams to access the right data at the right time to make faster and smarter decisions.
 
 
+***
+[StuffPlays is giving away an Alienware 25 Gaming Monitor worth R9,399](https://stuff.co.za/2021/01/28/stuffplays-alienware-25-gaming-monitor-comp/)
+
+
+> They say if you shoot, shoot for the stars (or in this case, the aliens). Stuff's gaming sub-brand, StuffPlays, is giving away an Alienware 25 Gaming Monitor that features a 240Hz refresh rate and 1ms response time.  Thing is, if you're in the market for a gaming monitor, you're going to look at speed. Any type of speed is good, really. But in this case, you want a high refresh rate and a lightning-quick response time. Read more
+
+
+***
+![WhatsApp is bringing biometric authentication to WhatsApp Web, Desktop](https://cdn57.androidauthority.net/wp-content/uploads/2020/02/WhatsApp-by-Facebook-stock-photo-6-920x470.jpg "WhatsApp is bringing biometric authentication to WhatsApp Web, Desktop")
+
+
+[WhatsApp is bringing biometric authentication to WhatsApp Web, Desktop](https://www.androidauthority.com/whatsapp-web-biometric-authentication-1196323/)
+
+
+> WhatsApp has announced biometric authentication for Web and Desktop clients.This allows you to use your fingerprint or face to link new devices.WhatsApp has endured a frosty reception after it tried to force Facebook integration on its userbase earlier this year. Nevertheless, the company is pressing ahead with a notable security upgrade on paper as it brings biometric authentication to WhatsApp Desktop and Web.The company revealed that biometric authentication (via face or fingerprint) will be conducted when linking devices to your account via QR code.
+
+
+***
+[There are over 1 billion active iPhones in the wild](https://stuff.co.za/2021/01/28/there-are-over-1-billion-active-iphones/)
+
+
+> According to Tim Cook, the head honcho over at Apple and a man who seems to embrace the fact that he talks like a background South Park character, the iPhone has an active install base of over 1 billion users. That means roughly a seventh of the world's entire population currently has one or more iPhones in use which is pretty mind-boggling if you think about it. Given how Apple has long supported older hardware with continuous software updates well past the lifespan of the device, it's no wonder Apple has managed to maintain such a massive user base.
+
+
+***
+![Ather 450X: everything you need to know before buying](https://cdn.mos.cms.futurecdn.net/4ivxmibARxFmXMFVVfxABP-1200-80.jpg "Ather 450X: everything you need to know before buying")
+
+
+[Ather 450X: everything you need to know before buying](https://www.techradar.com/news/ather-450x-review)
+
+
+> With Tesla set to enter the country later this year, many thought that India will finally get the boost it needed to become a bigger electric vehicle market. But for anyone who has followed the space, that development is difficult to get excited about as it's the two-wheeler category where the bigger ripples are expected. At the forefront of that EV movement is Bangalore-based Ather Energy.In January 2020, it unveiled a new flagship scooter – the Ather 450X – while also announcing plans to expand to eight new cities beyond Bangalore and Chennai.
+
+
+***
+![Clicking on reminder notification does not open the clicked notification](https://images.macrumors.com/social/?t=2282233&v=6 "Clicking on reminder notification does not open the clicked notification")
+
+
+[Clicking on reminder notification does not open the clicked notification](https://forums.macrumors.com/threads/clicking-on-reminder-notification-does-not-open-the-clicked-notification.2282233/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
