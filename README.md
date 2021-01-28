@@ -17169,3 +17169,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+![Technological Advancements in Solid State Batteries for Electric Vehicles, 2020 Market Report](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Technological Advancements in Solid State Batteries for Electric Vehicles, 2020 Market Report")
+
+
+[Technological Advancements in Solid State Batteries for Electric Vehicles, 2020 Market Report](https://www.benzinga.com/pressreleases/21/01/b19362582/technological-advancements-in-solid-state-batteries-for-electric-vehicles-2020-market-report-resea)
+
+
+> The "Technological Advancements in Solid State Batteries for Electric Vehicles" report has been added to ResearchAndMarkets.com's offering. The trend of decarbonization of the global automotive sector has been the main factor driving the research on novel battery materials, owing to their prominence as a key enabling technology for the electrification of the transportation sector. Li-ion batteries have become synonymous to EVs in the last 10 years. Nickel cobalt aluminum oxide (NCA), nickel manganese cobalt oxide (NMC) and lithium iron phosphate (LFP) are the widely used Li-ion battery chemistries today.
+
+
+***
+![You'll soon need a fingerprint or face scan to use WhatsApp on the web](https://cdn.mos.cms.futurecdn.net/pFcqK3vxsXyRhDaFVSyRCe-1200-80.jpg "You'll soon need a fingerprint or face scan to use WhatsApp on the web")
+
+
+[You'll soon need a fingerprint or face scan to use WhatsApp on the web](https://www.techradar.com/news/youll-soon-need-a-fingerprint-or-face-scan-to-use-whatsapp-on-the-web)
+
+
+> (Image credit: Prostock-studio / Shutterstock) WhatsApp is adding an extra layer of security to its desktop and web apps, requiring users to use their phone's face or fingerprint scanner in order to log in. At the moment, users can log into WhatsApp on the desktop by simply using their phone to scan a QR code on the computer screen. You can only be logged into one device at a time, so doing this will automatically log you out of the app on your phone. However, WhatsApp will soon allow users to stay logged into multiple devices simultaneously .
+
+
+***
+![Refurbished iPad deals start at just $75 in this one-day sale](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/03/ipad-5-gold-on-box.jpg "Refurbished iPad deals start at just $75 in this one-day sale")
+
+
+[Refurbished iPad deals start at just $75 in this one-day sale](https://www.imore.com/refurbished-ipad-deals-start-just-75-one-day-sale)
+
+
+> Over the last couple of months, we have seen some of the best iPad deals ever with Black Friday and holiday sales but those deals are long gone now. However, if you thought you'd missed your chance to save on your next tablet, fear not. Woot is back today with a huge sale on refurbished iPad models that gives you one more opportunity to score some savings before Christmas. Prices start at just $70 for the refurbished devices there and each has been restored to work like new and come with a 90-day warranty.
+
+
+***
+![WhatsApp makes logging in on desktop more secure, begins rolling out biometric authentication feature](https://images.financialexpress.com/2021/01/WhatsApp-web.jpg "WhatsApp makes logging in on desktop more secure, begins rolling out biometric authentication feature")
+
+
+[WhatsApp makes logging in on desktop more secure, begins rolling out biometric authentication feature](https://www.financialexpress.com/industry/technology/whatsapp-makes-logging-in-on-desktop-more-secure-begins-rolling-out-biometric-authentication-feature/2180667/)
+
+
+> The options to log out from Web or Desktop portal would remain unchanged.WhatsApp for Desktop and Web: Instant messaging app WhatsApp has decided to make logging in on WhatsApp Web and WhatsApp's Desktop's app more secure by leveraging the biometric security in smartphones. In an announcement on Thursday, the Facebook-owned platform announced that the platform is beginning the roll out of the security feature that would need users to use face or fingerprint ID on their smartphones when trying to link their device with WhatsApp on the Web or on the desktop app.
+
+
+***
+![HP announces Smart Tank series printers in India: Price starts at Rs 11,999](https://images.indianexpress.com/2021/01/e638fc9a-9d5e-40c2-9c29-91138568d21e.jpg "HP announces Smart Tank series printers in India: Price starts at Rs 11,999")
+
+
+[HP announces Smart Tank series printers in India: Price starts at Rs 11,999](https://indianexpress.com/article/technology/gadgets/hp-has-launched-smart-tank-series-printers-in-india-price-starts-at-rs-11999-7165255/)
+
+
+> HP has launched its new Smart Tank 500 and 516 all-in-One series of high capacity, affordable printers in India. The printers are said to be designed for small and medium businesses and home office needs. The printers are powered by new sensor-based Ink Tank technology that alerts the user before the ink runs out. The printers comes with the ink tank integrated, which reduces the footprint of the device. The printers are compact and are designed to fit better in homes. The HP Smart Tank comes packed with ink supplies in the box that are said to give an output of a minimum of 6000 pages (black) and 8000 pages (colour) and are said to be 38% faster.
+
+
