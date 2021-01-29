@@ -17851,3 +17851,50 @@
 > Sony Xperia 1 III will be the company's 2021 flagship phone with a periscope camera, other high-end specifications. Shubham Verma | January 29, 2021 | Updated 13:56 IST
 
 
+***
+![Weird maximum fan RPM values after each reboot](https://forums.macrumors.com/attachments/mac-frio-png.1721451/ "Weird maximum fan RPM values after each reboot")
+
+
+[Weird maximum fan RPM values after each reboot](https://forums.macrumors.com/threads/weird-maximum-fan-rpm-values-after-each-reboot.2282426/)
+
+
+> Hi all! My signature setup (with K4100m) is acting weird about fan speeds. Each time I turn on my system it shows different maximum rpm speeds for ODD and CPU fans. With K4100m GPU I really need maximum rpm from ODD fan, but sometimes it shows 3800rpm (that is OK) but sometimes it shows only 2500 etc I have tried "powermetrics" but it shows "unable to get smc values". Reseting SMC and NVRAM doesn't made any difference too. I really don't know what to do, but my target is to maximize ODD fan speed to properly cool down my new GPU.
+
+
+***
+![Prime Gaming February 2021: free loot for Roblox, FIFA 21 and Fall Guys](https://cdn.mos.cms.futurecdn.net/US8aSFqrjxxKWhH96p6cMn-1200-80.jpg "Prime Gaming February 2021: free loot for Roblox, FIFA 21 and Fall Guys")
+
+
+[Prime Gaming February 2021: free loot for Roblox, FIFA 21 and Fall Guys](https://www.techradar.com/news/prime-gaming-february-2021-free-loot-for-roblox-fifa-21-and-fall-guys)
+
+
+> (Image credit: Amazon) Prime Gaming has announced its February offering and there's some great content to be had for Prime members, who can get their hands on free loot in FIFA 21 and Madden NFL 21, plus free exclusive content for Roblox, UFC 4 and Fall Guys - while four new PC games are set to join the Prime Gaming library.So what's up for grabs this month? Well, as we've previously reported, FIFA 21 players can get their hands on in-game rewards for Ultimate Team, which includes one 81+ OVR Player Pick Item and four Rare Gold Player Items - while Team of the Year player items are available in FIFA 21 Ultimate Team for a limited time.
+
+
+***
+![TechFest to help protect north-east charities against cyber crime](https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/10/2021/01/EE-HF-160119-01-016_28752440-e1611853658720-940x564.jpg "TechFest to help protect north-east charities against cyber crime")
+
+
+[TechFest to help protect north-east charities against cyber crime](https://www.eveningexpress.co.uk/fp/news/local/techfest-to-help-protect-north-east-charities-against-cyber-crime/)
+
+
+> TechFest is to help charities across the north-east better protect themselves against online crime through a virtual event.
+
+
+***
+[London Technology and Construction Court hearing and trial dates](https://www.gov.uk/guidance/technology-and-construction-court-hearing-and-trial-dates)
+
+
+> Details of the earliest available dates for hearings and trials at the Technology and Construction Court in London, based on how long they are expected to last.
+
+
+***
+![I built MicroPython-Ctl](https://external-preview.redd.it/2cjsCq5cIDCyaiDy54zypHg2YglHFcAY27bj95sPDk0.jpg?auto=webp&s=21e97b1e8b0eb3e79473fe3ec465b50d503e6587 "I built MicroPython-Ctl")
+
+
+[I built MicroPython-Ctl](https://www.reddit.com/r/Python/comments/l7t48n/i_built_micropythonctl_a_typescript_library_for/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
