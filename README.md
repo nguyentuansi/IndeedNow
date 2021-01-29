@@ -17751,3 +17751,53 @@
 > This futuristic technology allows the process of charging to not be local and instead be done remotely. Sushant Talwar | January 29, 2021 | Updated 09:59 IST
 
 
+***
+![iRobot Files New ITC Patent Infringement Case Against SharkNinja](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "iRobot Files New ITC Patent Infringement Case Against SharkNinja")
+
+
+[iRobot Files New ITC Patent Infringement Case Against SharkNinja](https://seekingalpha.com/pr/18170800-irobot-files-new-itc-patent-infringement-case-against-sharkninja)
+
+
+> PR Newswire BEDFORD, Mass. , Jan. 28, 2021 /PRNewswire/ -- iRobot Corp. (NASDAQ: IRBT), a leader in consumer robots and maker of the Roomba® robot vacuum, today announced it has filed a new patent infringement action against SharkNinja Operating LLC and its related entities ("SharkNinja") at the International Trade Commission ("ITC"). The new lawsuit asks the ITC to exclude a multitude of SharkNinja robotic cleaning products from entering the United States for infringement of iRobot patents.  iRobot's lawsuit identifies the Shark IQ Robot®, Shark AI Robot VACMOP™, Shark® AI Robot with AI Laser Vision, and Shark Ion® robots as infringing products.
+
+
+***
+![Save 37% on an award-winning educational robot toy](https://mondrian.mashable.com/2021%252F01%252F29%252Fce%252Fcc9e1f005fd948fc8aa5e70e08ec78da.47c81.jpg%252F1200x630.jpg?signature=2tffNb4lNRcuO-ri-eLVcmWhe9U= "Save 37% on an award-winning educational robot toy")
+
+
+[Save 37% on an award-winning educational robot toy](https://mashable.com/shopping/jan-29-roybi-educational-ai-robot-toy/)
+
+
+> TL;DR: Let Roybi , an AI-powered robot, create a custom tutoring plan for your child. As of Jan. 29, get the robot tutor for $187.99 — a 37% discount.   If you're worried about your child falling behind in school during distance learning, this award-winning robot tutor named Roybi can help out. Using artificial intelligence , Roybi provides a one-on-one private tutoring experience personalized to your child's needs. From language learning to STEM activities, Roybi is designed to create a learning environment for every kiddo to learn at their own pace in a fun way.
+
+
+***
+![YouTube's New Clipping Tool Will Help You Cut And Share Parts Of Videos, Streams](https://sm.mashable.com/t/mashable_in/news/y/youtube-ro/youtube-rolls-out-hdr-for-livestreams_gwbe.1200.jpg "YouTube's New Clipping Tool Will Help You Cut And Share Parts Of Videos, Streams")
+
+
+[YouTube's New Clipping Tool Will Help You Cut And Share Parts Of Videos, Streams](https://in.mashable.com/tech/19888/youtubes-new-clipping-tool-will-help-you-cut-and-share-parts-of-videos-streams)
+
+
+> YouTube is rolling out a new feature that allows you to capture and share moments from videos and live streams. Clips on YouTube is available only to a small set of creators starting today as part of the initial test. An experimental clipping tool will be visible on channels where the test is live. You can then click on that tool and choose a 5-second to 60-second segment from their videos and streams. You can adjust the length of the clip within the set limits by dragging the slider. After creating a clip, you can add a title and share it across various platforms via a new URL, embed code, text, or email.
+
+
+***
+![Best new mobile phone deals and contracts: offers from EE, Vodafone, Three and O2](https://static.standard.co.uk/2021/01/07/14/Best-january-mobile-deals-1.jpg?width=1200 "Best new mobile phone deals and contracts: offers from EE, Vodafone, Three and O2")
+
+
+[Best new mobile phone deals and contracts: offers from EE, Vodafone, Three and O2](https://www.standard.co.uk/shopping/esbest/gadgets-tech/best-new-mobile-phone-deals-and-contracts-a4538501.html)
+
+
+> Where would be we without our phones? They're one of modern life's essentials, in our personal orbits at all times. We use them for just about everything but calling; streaming entertainment, using apps, maps, paying bills - even ordering Valentine's Day flowers at the last minute. In fact, these days the phones in our pockets are more powerful than NASA's Apollo-era computers which sent astronauts to the Moon.If you're looking for a new handset or phone contract, the good news is that there's plenty of choice around.
+
+
+***
+![Data Doctors: Best smartphone apps for scanning documents](https://wtop.com/wp-content/uploads/2021/01/GettyImages-1188649018.jpg "Data Doctors: Best smartphone apps for scanning documents")
+
+
+[Data Doctors: Best smartphone apps for scanning documents](https://wtop.com/tech/2021/01/data-doctors-best-smartphone-apps-for-scanning-documents/)
+
+
+> If you need to scan a document but don't have a scanner, Data Doctors' Ken Colburn has a solution with your smartphone. (Getty Images/iStockphoto/Prostock-Studio) Q: What's the best scanner app to use on my smartphone? Our smartphone cameras have become so sophisticated — they're capable of capturing high enough detail to perform the same tasks that used to require a desktop scanner. You can certainly take a picture of a document, but if you need it to be in a document format, such as PDF, you'll want to use an app that provides that ability along with other tools for making adjustments.
+
+
