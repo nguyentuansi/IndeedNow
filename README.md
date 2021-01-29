@@ -17701,3 +17701,53 @@
 > (Image credit: Shutterstock) With the privacy policy tweak that seems to have backfired heavily on it, WhatsApp is now worried, especially since there has been a concerted action against its ambitious WhatsApp Pay that was rolled out in India last year.Under enormous pressure from the public, from the government, and from its competitors, WhatsApp has now clarified that its recent privacy update doesn't affect its payments product. In an FAQ post on its website, which was updated yesterday, it said that it may share information collected under India Payments Privacy Policy with service providers to send payment instructions to PSP banks; maintain your transaction history; provide customer support; improve, understand, customize, support, and market Payments; and keep Payments safe and secure, including to detect, prevent, or otherwise address fraud, safety, security, abuse, or other misconduct.
 
 
+***
+![Mi 11 Pro leaked again, tipped to offer 5000mAh dual-cell battery](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/mi_11_pro_1-483x271_1200_210129133511.png "Mi 11 Pro leaked again, tipped to offer 5000mAh dual-cell battery")
+
+
+[Mi 11 Pro leaked again, tipped to offer 5000mAh dual-cell battery](https://www.indiatoday.in/technology/news/story/mi-11-pro-leaked-again-tipped-to-offer-5000mah-dual-cell-battery-1763934-2021-01-29)
+
+
+> A new leak about the phone claims the Mi 11 Pro will come powered by a 5,000mAh battery which will use a dual-cell configuration for charging the phone fast. Sushant Talwar | January 29, 2021 | Updated 13:32 IST
+
+
+***
+![Miserable weather continues to lash Sydney](https://cdn.newsapi.com.au/image/v1/4293e359c941d024c1944a611fbd2a0e?width=1280 "Miserable weather continues to lash Sydney")
+
+
+[Miserable weather continues to lash Sydney](https://www.news.com.au/technology/environment/bureau-of-meteorology-says-lingering-showers-could-continue-through-to-next-weekend/news-story/3b1ecf036b1db01a4212d60e67c1bab5)
+
+
+> Sydney has been starved of its post-Australia Day summer bliss after receiving the heaviest rainfall so far this year on Thursday and the miserable weather is expected to continue.The CBD was soaked by 19mm of rain in the 24 hours to 9am on Friday, while Wyong had the greatest drenching with 62mm, followed by the Central Coast's Mt Elliot with 54mm.The Harbour City stayed damp on Friday with blanketing clouds in the city causing poor visibility.Beyond Sydney, heavy rain fell across the state with severe weather warnings in place for the Central West Slopes and Plains, South West Slopes, Riverina, Lower Western and Upper Western areas of the state.
+
+
+***
+![India attractive destination for global investors, says President Kovind](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/ram_nath_kovind_505_290121010935.jpg "India attractive destination for global investors, says President Kovind")
+
+
+[India attractive destination for global investors, says President Kovind](https://www.businesstoday.in/union-budget-2021/news/india-attractive-destination-for-global-investors-says-president-kovind/story/429482.html)
+
+
+> Story President Kovind said that Atmanirbhar Bharat is not just confined to manufacturing in India but is also aimed at enhancing the standard of living of every Indian. He said that India's goal of Atmanirbhar Bharat will be strengthened by self reliance in agriculture BusinessToday.In | January 29, 2021 | Updated 13:13 IST President Kovind addresses Parliamentarians ahead of Budget 2021 session
+
+
+***
+![Reddit, GameStop, Robinhood and Wall Street hedge funds: What is going on, here is the full story in 10 points](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/gs-483x271_1200_210129130517.jpeg "Reddit, GameStop, Robinhood and Wall Street hedge funds: What is going on, here is the full story in 10 points")
+
+
+[Reddit, GameStop, Robinhood and Wall Street hedge funds: What is going on, here is the full story in 10 points](https://www.indiatoday.in/technology/news/story/reddit-gamestop-robinhood-and-wall-street-hedge-funds-what-is-going-on-here-is-the-full-story-in-10-points-1763919-2021-01-29)
+
+
+> Call it the ambition of few investors or an act of mass rebellion against wealth-hoarders or an unethical move, what happened with GameStop and few other stocks in the United States will change the way financial markets operate forever. India Today Tech | January 29, 2021 | Updated 12:59 IST Short Selling is a practice where Wall Street Hedge Funds borrow stocks of a small company to sell if the stock price goes down in future.
+
+
+***
+![Xiaomi announces Mi Air Charge, futuristic tech can charge devices remotely](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/mi_air_charge-483x271_1200_210129122515.png "Xiaomi announces Mi Air Charge, futuristic tech can charge devices remotely")
+
+
+[Xiaomi announces Mi Air Charge, futuristic tech can charge devices remotely](https://www.indiatoday.in/technology/news/story/xiaomi-announces-mi-air-charge-futuristic-tech-can-charge-devices-remotely-1763829-2021-01-29)
+
+
+> This futuristic technology allows the process of charging to not be local and instead be done remotely. Sushant Talwar | January 29, 2021 | Updated 09:59 IST
+
+
