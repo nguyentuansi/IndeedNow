@@ -17557,3 +17557,47 @@
 > Late on Thursday, Robinhood said it would resume trading, saying it had stopped purchases of some investments due to financial requirements.  "Amid this week's extraordinary circumstances in the market, we made a tough decision today to temporarily limit buying for certain securities. As a brokerage firm, we have many financial requirements, including SEC net capital obligations and clearinghouse deposits," it said. Earlier in the day, Robinhood users sued the trading app, which has more than 13m users, claiming it had manipulated the market.
 
 
+***
+![How to take on Suicune the Aurora Pokémon](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/pokemon-go-entei-raikou-suicune_0.jpg "How to take on Suicune the Aurora Pokémon")
+
+
+[How to take on Suicune the Aurora Pokémon](https://www.imore.com/pokemon-go-suicune-raid-guide)
+
+
+> Having been featured in Raids, as a Research Breakthrough Reward, and even as a Shadow Pokémon in Giovanni's roster Pokémon Go has brought back Suicune, one of the Legendary Beasts of Johto. It's returning to Legendary Raids from January 31 through February 4, 2021. A lot has changed since the last time we faced off against the Aurora Pokémon, but we here at iMore have everything you need to know to beat it. And be sure to check out our best Pokémon Go accessories, so you can be fully equipped on your Pokémon Journey! Who is Suicune in Pokémon Go? Source: The Pokémon Company Suicune is part of a trio known as the Legendary Beasts of Johto.
+
+
+***
+[Debut trailer for Winning Post 9 2021 released](https://gonintendo.com/stories/376118-debut-trailer-for-winning-post-9-2021-released)
+
+
+> Koei Tecmo has released the debut trailer for Winning Post 9 2021, their upcoming horse-racing simulation for Switch. The game is set to launch in Japan on April 15th, 2021. Check out the jockey hijinks above!
+
+
+***
+[Japanese software sales for Jan. 18th to 24th, 2021 (Top 30)](https://gonintendo.com/stories/376117-japanese-software-sales-for-jan-18th-to-24th-2021-top-30)
+
+
+> Thursday always brings us a more expanded look at the software sales in Japan. Take a look at the top 30 for Jan. 18th to 24th, 2021 below. [NSW] Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban! (Konami, 11/19/20) – 92,793 (1,710,394) [NSW] Ring Fit Adventure (Nintendo, 10/18/19) – 36,489 (2,273,887) [NSW] Animal Crossing: New Horizons (Nintendo, 03/20/20) – 27,237 (6,580,855) [NSW] Mario Kart 8 Deluxe (Nintendo, 04/28/17) – 19,239 (3,620,938) [NSW] Super Smash Bros. Ultimate (Nintendo, 12/07/18) – 13,316 (4,122,643) [NSW] Minecraft (Microsoft, 06/21/18) – 11,873 (1,786,687) [NSW] Clubhouse Games: 51 Worldwide Classics (Nintendo, 06/05/20) – 11,410 (612,794) [NSW] Splatoon 2 (Nintendo, 07/21/17) – 9,407 (3,753,205) [NSW] Pokemon Sword / Shield (The Pokemon Company, 11/15/19) – 8,847 (3,938,093) [NSW] Super Mario Party (Nintendo, 10/05/18) – 7,623 (1,805,240) [NSW] Pikmin 3 Deluxe (Nintendo, 10/30/20) – 5,943 (527,451) [NSW] The Legend of Zelda: Breath of the Wild (Nintendo, 03/03/17) – 5,440 (1,760,730) [NSW] Sakuna: Of Rice and Ruin (Marvelous, 11/12/20) – 5,328 (122,386) [NSW] New Super Mario Bros.
+
+
+***
+![Break out the pucks: Disney's Mighty Ducks TV series gets a quacking first trailer](https://cdn.mos.cms.futurecdn.net/r2RAQgVXeKZ9ZFk944PLe-1200-80.jpg "Break out the pucks: Disney's Mighty Ducks TV series gets a quacking first trailer")
+
+
+[Break out the pucks: Disney's Mighty Ducks TV series gets a quacking first trailer](https://www.techradar.com/news/break-out-the-pucks-disneys-mighty-ducks-tv-series-gets-a-quacking-first-trailer)
+
+
+> (Image credit: Disney) If you're a '90s kid, you probably have fond memories of The Mighty Ducks movie franchise, which saw a team of adolescent underdogs led to ice hockey glory by Gordon Bombay (Emilio Estevez), a former player who's forced to coach the kids as part of his community service following a DUI sentencing.While the original film spawned a string of sequels, and even an animated series that featured cartoon duck hockey players (check it out on Disney Plus), the franchise has mostly lain dormant for the last 25 years.
+
+
+***
+![Hong Kong startup ICW eyes supply chain diversification demand amid trade war – TechCrunch](https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1063609200.jpg?w=600 "Hong Kong startup ICW eyes supply chain diversification demand amid trade war – TechCrunch")
+
+
+[Hong Kong startup ICW eyes supply chain diversification demand amid trade war – TechCrunch](https://techcrunch.com/2021/01/28/icw-supply-chain-5-8-million/)
+
+
+> For American importers, finding suppliers these days can be challenging not only due to COVID-19 travel restrictions. The U.S. government's entity list designations, human rights-related sanctions, among other trade blacklists targeting Chinese firms have also rattled U.S. supply chains. One young company called International Compliance Workshop, or ICW, is determined to make sourcing easier for companies around the world as it completed a fresh round of funding. The Hong Kong-based startup has just raised $5.
+
+
