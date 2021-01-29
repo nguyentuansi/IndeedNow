@@ -17989,3 +17989,50 @@
 > With 25-year-old Patrick Mahomes vs 43-year-old Tom Brady arguably one of the best Super Bowl storylines the NFL has ever delivered, 2021's big game is literally one for the ages as the defending champion Kansas City Chiefs take on a Tampa Bay Buccaneers team brimming with the kind of confidence you get when you're led by the GOAT. Follow our guide below as we explain how to watch Super Bowl LV online and get a 2021 Super Bowl live stream wherever you are in the world.Super Bowl live stream 2021Date: Sunday, February 7Kick-off time: 6.
 
 
+***
+![Sri Lanka surpasses 300 COVID-19 deaths](https://adaderanaenglish.s3.amazonaws.com/1611944742-8-more-deaths-bring-COVID-19-fatality-count-to-305.jpg "Sri Lanka surpasses 300 COVID-19 deaths")
+
+
+[Sri Lanka surpasses 300 COVID-19 deaths](http://www.adaderana.lk/news/71165/sri-lanka-surpasses-300-covid-19-deaths)
+
+
+> January 29, 2021   11:52 pm - The Director General of Health Services confirms 08 more Covid-19 related deaths in the country increasing the death toll due to the virus to 305. One of the victims is a 65-year-old male from Kolonnawa who was transferred from Colombo National Hospital to Iranawila Treatment Center after being identified as Covid-19 positive. He had passed away at that center on January 27 while the cause of death is Covid-19 pneumonia.  A 67-year-old woman from Panadura had passed away at the Panadura Base Hospital on January 27 also due to Covid-19 pneumonia.
+
+
+***
+![Confused about Samsung's SmartTags and UWB? We got you covered](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop/public/article_images/2021/01/smarttaglifestyle.jpg "Confused about Samsung's SmartTags and UWB? We got you covered")
+
+
+[Confused about Samsung's SmartTags and UWB? We got you covered](https://www.androidcentral.com/does-samsung-galaxy-smarttag-support-uwb)
+
+
+> Source: SamsungBest answer: No. Samsung's SmartTag does not support UltraWide Band (UWB). However, Samsung SmartTag Plus is due out later this year will support UWB tech. The regular version of the SmartTag only supports Bluetooth LE. At Samsung Unpacked, Samsung unveiled its new SmartTags, which are small, battery-powered trackable tags similar to many other Bluetooth trackers out there. You attach them to clothes, personal items, or pet collars. You can use the Samsung SmartThings Find app to locate them.
+
+
+***
+![A small web app based on Reactjs , I created it to know Last statistics of coronavirus around the world](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "A small web app based on Reactjs , I created it to know Last statistics of coronavirus around the world")
+
+
+[A small web app based on Reactjs , I created it to know Last statistics of coronavirus around the world](https://www.reddit.com/r/programming/comments/l82f3h/a_small_web_app_based_on_reactjs_i_created_it_to/)
+
+
+> A small web app based on Reactjs , I created it to know Last statistics of coronavirus around the world
+
+
+***
+[Profile of the trader known as DeepFuckingValue on r/WallStreetBets, who began investing in GameStop and explaining why in YouTube videos starting in mid-2019 (Wall Street Journal)](http://www.techmeme.com/210129/p14#a210129p14)
+
+
+> Wall Street Journal: Profile of the trader known as DeepFuckingValue on r/WallStreetBets, who began investing in GameStop and explaining why in YouTube videos starting in mid-2019 — Trader known as DeepF—ingValue on the WallStreetBets forum helped turn the investing world upside down. “I didn't expect this.”
+
+
+***
+![Wanna convert voice to text or vise-versa try my last project of JavaScript](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Wanna convert voice to text or vise-versa try my last project of JavaScript")
+
+
+[Wanna convert voice to text or vise-versa try my last project of JavaScript](https://www.reddit.com/r/programming/comments/l82b8w/wanna_convert_voice_to_text_or_viseversa_try_my/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
