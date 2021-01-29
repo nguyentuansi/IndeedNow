@@ -18036,3 +18036,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Looking Into Phunware's Return On Capital Employed](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Looking Into Phunware's Return On Capital Employed")
+
+
+[Looking Into Phunware's Return On Capital Employed](https://www.benzinga.com/news/earnings/21/01/19322912/looking-into-phunwares-return-on-capital-employed)
+
+
+> During Q3, Phunware 's (NASDAQ: PHUN ) reported sales totaled $3.13 million. Despite a 152.49% in earnings, the company posted a loss of $7.50 million. Phunware collected $2.21 million in revenue during Q2, but reported earnings showed a $2.97 million loss. See also:  How to Buy Phunware (PHUN) Stock What Is Return On Capital Employed? Return on Capital Employed is a measure of yearly pre-tax profit relative to capital employed by a business. Changes in earnings and sales indicate shifts in a company's ROCE.
+
+
+***
+![Carol Baskin Pumps Dogecoin](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/screenshot_2021-01-29_at_4.59.19_pm.png "Carol Baskin Pumps Dogecoin")
+
+
+[Carol Baskin Pumps Dogecoin](https://www.benzinga.com/markets/cryptocurrency/21/01/19404371/carol-baskin-pumps-dogecoin)
+
+
+> One of the stars of Netflix Inc's (NASDAQ: NFLX ) "Tiger King" is out with a video showing support for a cryptocurrency. What Happened: A video showing Carol Baskin supporting cryptocurrency Dogecoin is making its rounds on Twitter. 'Hey all you cool cats and kittens on the dogecoin army,' Baskin said. 'There is so much going on for dogecoin right now, oh my goodness.' On top of everything that's happened now we got Carole Baskin pumpin #dogecoin . I ain't gonna make it y'all. pic.twitter.com/RZb1LK6Ixr — TikTok Investors (@TikTokInvestors) January 27, 2021 The television personality told viewers to do their own research when looking at cryptocurrencies like dogecoin.
+
+
+***
+![Facebook preparing lawsuit against Apple over the App Store: Report](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/facebook-iStock.jpg?ve=1&tl=1 "Facebook preparing lawsuit against Apple over the App Store: Report")
+
+
+[Facebook preparing lawsuit against Apple over the App Store: Report](https://www.foxbusiness.com/technology/facebook-preparing-lawsuit-apple)
+
+
+> Facebook is preparing a lawsuit against Apple  over its App Store policies, according to a new report. Ticker Security Last Change Change % FB FACEBOOK INC. 258.33 -6.67 -2.52% AAPL APPLE INC. 131.96 -5.13 -3.74% The lawsuit would allege that Apple abused its power by making apps listed on its App Store follow specific policies that Apple's own apps do not, The Information reported  Thursday. Facebook would not comment on pending litigation but told FOX Business in a statement that it believes "Apple is behaving anti-competitively by using their control of the App Store to benefit their bottom line at the expense of app developers and small businesses.
+
+
+***
+![The Galaxy S21 Ultra is the best gaming phone you can buy in 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/galaxy-s21-ultra-review-11.jpg "The Galaxy S21 Ultra is the best gaming phone you can buy in 2021")
+
+
+[The Galaxy S21 Ultra is the best gaming phone you can buy in 2021](https://www.androidcentral.com/best-phone-gamers)
+
+
+> Source: Hayato Huseman / Android Central Best Gaming Phones Android Central 2021 Almost any phone can run popular free-to-play titles like Angry Birds or Subway Surfers, but for anything more graphically demanding you'll need one of the best Android phones for games. Some of the best Android games are PC or console ports that — even in their downgraded state — run significantly better with more powerful CPUs, more RAM, and faster display Hz. These games also drain batteries faster and take up enough storage that you may need a microSD card slot to fit them all.
+
+
+***
+![Technologies That Promote Positive Mental Health](https://content.thriveglobal.com/wp-content/uploads/2021/01/rahul-chakraborty-xsGxhtAsfSA-unsplash.jpg?w=1200&crop=0,0,100,52 "Technologies That Promote Positive Mental Health")
+
+
+[Technologies That Promote Positive Mental Health](https://thriveglobal.com/stories/technologies-that-promote-positive-mental-health/)
+
+
+> No body in the article.
+
+
