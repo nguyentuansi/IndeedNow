@@ -17801,3 +17801,53 @@
 > If you need to scan a document but don't have a scanner, Data Doctors' Ken Colburn has a solution with your smartphone. (Getty Images/iStockphoto/Prostock-Studio) Q: What's the best scanner app to use on my smartphone? Our smartphone cameras have become so sophisticated — they're capable of capturing high enough detail to perform the same tasks that used to require a desktop scanner. You can certainly take a picture of a document, but if you need it to be in a document format, such as PDF, you'll want to use an app that provides that ability along with other tools for making adjustments.
 
 
+***
+![HP Smart Tank series printers launched](https://photogallery.maharashtratimes.indiatimes.com/photo/80584461.cms "HP Smart Tank series printers launched")
+
+
+[HP Smart Tank series printers launched](https://photogallery.indiatimes.com/gadgets/appliances/hp-smart-tank-series-printers-launched/articleshow/80584461.cms)
+
+
+> /gadgets/appliances/hp-smart-tank-series-printers-launched/eventshow/80584461.cms HP launched its latest HP Smart Tank 500 and 516 All-in-One series printers in India - Photogallery HP launched its latest HP Smart Tank 500 and 516 All-in-One series printers in India. The HP Smart Tank 500 comes with a starting price of Rs 11,999, the HP Smart Tank 515 wireless is available with a starting price of Rs 14,499, the HP Smart Tank 516 wireless is available at a starting price of Rs 15,266 and the HP Smart Tank 530 wireless with ADF comes with a starting price of Rs 16,949.
+
+
+***
+![How Robinhood – the Facebook of finance – went from hero to zero in 24 hours](https://www.telegraph.co.uk/content/dam/technology/2019/11/19/Robinhood-UK_1_trans_NvBQzQNjv4BqqiUuvBizZT2q34Osm0tNw6M3GeHGmeRPYSwAMsvPRnk.png?impolicy=logo-overlay "How Robinhood – the Facebook of finance – went from hero to zero in 24 hours")
+
+
+[How Robinhood – the Facebook of finance – went from hero to zero in 24 hours](https://www.telegraph.co.uk/technology/2021/01/29/robinhood-facebook-finance-went-hero-zero-24-hours/)
+
+
+> With its easy-to-use interface, lack of fees and promises of democratising finance, Robinhood has become the go-to stock trading app for millennials, amassing a valuation of more than $11bn (£8bn). In recent days, the trading app has become the most-downloaded in the US. Reddit users have posted screenshots showing they have made tens of thousands on hyperactive stocks such as GameStop with its help.  But now politicians and retail investors are accusing the company of market manipulation after it stopped all its users from snapping up 13 stocks - including GameStop , BlackBerry, Nokia and AMC - for a full day's trading, while hedge funds could freely buy and sell as they saw fit.
+
+
+***
+![Fortune's wheel: WallStreetBets and the democratization of outrage](https://assets2.rappler.com/2021/01/wallstreetbets-democratization-outrage-january-29-2021-1611912727457.jpg "Fortune's wheel: WallStreetBets and the democratization of outrage")
+
+
+[Fortune's wheel: WallStreetBets and the democratization of outrage](https://www.rappler.com/technology/features/wallstreetbets-the-democratization-of-outrage)
+
+
+> "By August 2020, his contracts were worth $600,000. In September, he crested $1 million. Mid-October, $2.3 million. He entered 2021 with more than $3.1 million in GME contracts, and then shit got really crazy. As DFV's legend grew, more people on WSB got in on the action, pushing the GME price higher and higher. As of his latest update, DFV's E-Trade account is worth $22.8 million, $4.4 million of which is in cash he pulled out. And it all started with $53,000 in options premiums."
+
+
+***
+![Looking for affordable prepaid plans under Rs 250? Consider these all-round offers from Airtel, Jio, and Vi](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/img_20201208_120845_1-483x271_1200_210129164519.jpeg "Looking for affordable prepaid plans under Rs 250? Consider these all-round offers from Airtel, Jio, and Vi")
+
+
+[Looking for affordable prepaid plans under Rs 250? Consider these all-round offers from Airtel, Jio, and Vi](https://www.indiatoday.in/technology/news/story/looking-for-affordable-prepaid-plans-under-rs-250-consider-these-all-round-offers-from-airtel-jio-and-vi-1763990-2021-01-29)
+
+
+> All-round prepaid plans are those which offer daily data, SMS and calling benefits. Airtel, Jio and Vi offer such plans that can come in handy to users looking to recharge on a monthly basis. Yasmin Ahmed | January 29, 2021 | Updated 16:17 IST
+
+
+***
+![Sony's next flagship may sport periscope camera, 3.5mm headphone jack](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/sony_xperia_1_iii_render-483x271_1200_210129140552.jpeg "Sony's next flagship may sport periscope camera, 3.5mm headphone jack")
+
+
+[Sony's next flagship may sport periscope camera, 3.5mm headphone jack](https://www.indiatoday.in/technology/news/story/sony-s-next-flagship-may-sport-periscope-camera-3-5mm-headphone-jack-1763945-2021-01-29)
+
+
+> Sony Xperia 1 III will be the company's 2021 flagship phone with a periscope camera, other high-end specifications. Shubham Verma | January 29, 2021 | Updated 13:56 IST
+
+
