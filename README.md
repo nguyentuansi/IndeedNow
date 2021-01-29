@@ -17651,3 +17651,53 @@
 > This file photo shows Apple's App Store app. Picture for illustrative purposes only. Image Credit: AP San Francisco: A feud between tech giants heated up Thursday as Apple's chief executive implied Facebook's business model promotes disinformation and violence, while the social network reportedly prepares an antitrust lawsuit against Apple. The suit accuses Apple of abusing control of its App Store by requiring outside app developers, such as Facebook, to abide by rules not applied to its own apps, tech publication The Information reported.
 
 
+***
+![Dogecoin: The joke cryptocurrency that somehow became real](https://cnet2.cbsistatic.com/img/xrHTIk775fcl7c84Af68d-QIToc=/1200x630/2018/02/20/6b455835-ead0-486a-ae36-bfa488b3ae0f/dogecoin-header2.jpg "Dogecoin: The joke cryptocurrency that somehow became real")
+
+
+[Dogecoin: The joke cryptocurrency that somehow became real](https://www.cnet.com/news/dogecoin-the-joke-cryptocurrency-that-somehow-became-real/)
+
+
+> June 22, 2014. Jackson Palmer, a self-identified "average geek," is high in the stands at a Nascar race at Sonoma Raceway, California. He is an Australian man in his 20s. He has zero interest in racing. Never in his wildest dreams did he imagine it would come to this.He surveys the scene. Below him: a tremendous crowd. The overwhelming blare of engines. Hurtling round at tremendous speeds: the #98 Moonrocket, a high-performance racing car. No different from the other cars on the track, except for one crucial detail.
+
+
+***
+![Robinhood, in Need of Cash, Raises $1 Billion From Its Investors](https://static01.nyt.com/images/2021/01/28/multimedia/28-robinhood-funds-2/28-robinhood-funds-2-facebookJumbo.jpg "Robinhood, in Need of Cash, Raises $1 Billion From Its Investors")
+
+
+[Robinhood, in Need of Cash, Raises $1 Billion From Its Investors](https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html)
+
+
+> Continue reading the main storyThe no-fee trading app, which is popular with young investors, has been strained by the high volume of trading this week in stocks such as GameStop.Increased trading has forced Robinhood to seek additional funding.Credit...Amy Lombard for The New York TimesøFacing an onslaught of demands on its cash amid a stock market frenzy, Robinhood, the online trading app, said on Thursday that it was raising an emergency infusion of more than $1 billion from its existing investors.
+
+
+***
+![Robinhood is new eye of GameStop debacle as outrage grows](https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/26c06232-3e7e-5b13-8270-9c9ab2e35de9&operation=CROP&offset=0x144&resize=3500x1969 "Robinhood is new eye of GameStop debacle as outrage grows")
+
+
+[Robinhood is new eye of GameStop debacle as outrage grows](https://www.iol.co.za/technology/fintech/robinhood-is-new-eye-of-gamestop-debacle-as-outrage-grows-3bb3a0ee-9ebf-4aae-95a8-e7b5a9c0558c)
+
+
+> By Anna Irrera and Tom WestbrookLondon - Online broker Robinhood has been one of the hottest venues in this week's retail-trading frenzy but its sudden curbs on buying of some hot stocks have raised the ire of customers, celebrities and politicians who argue it unfairly benefits bigger investors.The firm has also tapped a credit line so that it has funds to ensure trading continuity when it lifts the rules.Robinhood Chief Executive Vlad Tenev said on Thursday trade was restricted in "about 13" viral stocks, which include GameStop, AMC Entertainment and American Airlines, to protect the company and its customers from volatility.
+
+
+***
+![UI clone of instagram in tailwind css](https://external-preview.redd.it/pKXXsZAjFb85n2VszAGm_zEUnWwSEEnlNF_WHcuaNKo.jpg?auto=webp&s=e7dbf3edddae4a5134e18c6c9dbac56f9e4290b7 "UI clone of instagram in tailwind css")
+
+
+[UI clone of instagram in tailwind css](https://www.reddit.com/r/programming/comments/l7kqnt/ui_clone_of_instagram_in_tailwind_css/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![WhatsApp has some clarifications on its Payments Privacy Policy now](https://cdn.mos.cms.futurecdn.net/di2h4gryCMo8igfjwrFbfX-1200-80.jpg "WhatsApp has some clarifications on its Payments Privacy Policy now")
+
+
+[WhatsApp has some clarifications on its Payments Privacy Policy now](https://www.techradar.com/news/whatsapp-has-some-clarifications-on-its-payments-privacy-policy-now)
+
+
+> (Image credit: Shutterstock) With the privacy policy tweak that seems to have backfired heavily on it, WhatsApp is now worried, especially since there has been a concerted action against its ambitious WhatsApp Pay that was rolled out in India last year.Under enormous pressure from the public, from the government, and from its competitors, WhatsApp has now clarified that its recent privacy update doesn't affect its payments product. In an FAQ post on its website, which was updated yesterday, it said that it may share information collected under India Payments Privacy Policy with service providers to send payment instructions to PSP banks; maintain your transaction history; provide customer support; improve, understand, customize, support, and market Payments; and keep Payments safe and secure, including to detect, prevent, or otherwise address fraud, safety, security, abuse, or other misconduct.
+
+
