@@ -17601,3 +17601,53 @@
 > For American importers, finding suppliers these days can be challenging not only due to COVID-19 travel restrictions. The U.S. government's entity list designations, human rights-related sanctions, among other trade blacklists targeting Chinese firms have also rattled U.S. supply chains. One young company called International Compliance Workshop, or ICW, is determined to make sourcing easier for companies around the world as it completed a fresh round of funding. The Hong Kong-based startup has just raised $5.
 
 
+***
+![ਕਿਸਾਨ ਨੇਤਾਵਾਂ ਖ਼ਿਲਾਫ਼ ਲੁੱਕ ਆਊਟ ਨੋਟਿਸ ‘ਸਰਾਸਰ ਗਲਤ' : ਕੈਪਟਨ ਅਮਰਿੰਦਰ ਸਿੰਘ](https://static.jagbani.com/multimedia/2021_1image_09_43_219350448captain-ll.jpg "ਕਿਸਾਨ ਨੇਤਾਵਾਂ ਖ਼ਿਲਾਫ਼ ਲੁੱਕ ਆਊਟ ਨੋਟਿਸ ‘ਸਰਾਸਰ ਗਲਤ' : ਕੈਪਟਨ ਅਮਰਿੰਦਰ ਸਿੰਘ")
+
+
+[ਕਿਸਾਨ ਨੇਤਾਵਾਂ ਖ਼ਿਲਾਫ਼ ਲੁੱਕ ਆਊਟ ਨੋਟਿਸ ‘ਸਰਾਸਰ ਗਲਤ' : ਕੈਪਟਨ ਅਮਰਿੰਦਰ ਸਿੰਘ](https://jagbani.punjabkesari.in/punjab/news/farmer-leader--look-out-notice--wrong--captain-amarinder-singh-1265754)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![More than half the world's population uses social media](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-11/20201103_Facebook_Twitter_Pintrest_Vine_Whatsapp_Instagram_social_media_generic_01-seo.jpg "More than half the world's population uses social media")
+
+
+[More than half the world's population uses social media](https://www.malaymail.com/news/tech-gadgets/2021/01/29/more-than-half-the-worlds-population-uses-social-media/1945032)
+
+
+> Over four billion people worldwide regularly use social media. — IStock.com pic via AFP SAN FRANCISCO, Jan 29 — More than half of the world's population is now active on social media, or around 4.2 billion people. In the space of a year, this figure has grown by more than 13 per cent, which corresponds to around 500 million new recruits, or 1.3 million additional users per day. Three figures stand out in the Digital Report 2021: 4.66 billion people worldwide use the internet (+7.3 per cent year on year); 4.
+
+
+***
+![Apple's Tim Cook criticises social media practices, intensifying Facebook conflict](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-06/2020-06-22T173629Z_202236505_RC2HEH91IB6D_RTRMADP_3_APPLE-DEVELOPERS-seo.JPG "Apple's Tim Cook criticises social media practices, intensifying Facebook conflict")
+
+
+[Apple's Tim Cook criticises social media practices, intensifying Facebook conflict](https://www.malaymail.com/news/tech-gadgets/2021/01/29/apples-tim-cook-criticises-social-media-practices-intensifying-facebook-con/1945027)
+
+
+> Apple Inc Chief Executive Officer Tim Cook yesterday criticised polarisation and misinformation on social media. — Picture by Brooks Kraft/Apple Inc/Handout via Reuters SAN FRANCISCO, Jan 29 — Apple Inc Chief Executive Officer Tim Cook yesterday criticised polarisation and misinformation on social media, intensifying a conflict between the iPhone maker and Facebook Inc. In remarks delivered at the Computers, Privacy and Data Protection conference, Cook critiqued apps that he argued collect too much personal information and prioritise 'conspiracy theories and violent incitement simply because of their high rates of engagement.
+
+
+***
+![Top 10 reasons people use social media](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-10/20201013_Covid-19_smartphone_Objects_generic-seo.jpg "Top 10 reasons people use social media")
+
+
+[Top 10 reasons people use social media](https://www.malaymail.com/news/tech-gadgets/2021/01/29/top-10-reasons-people-use-social-media/1945034)
+
+
+> More than 53 per cent of the world's population now use at least one social network. — AFP pic SAN FRANCISCO, Jan 29 — At a time when social media has never had so many active users — with some 4.2 billion of them worldwide — the Digital Report 2021 rounds up the reasons people use social networking sites. The top reasons driving people to Facebook and the like are to stay up to date with news and current events, and to find funny or entertaining content. Top 10 reasons for using social media 1. Stay up to date with news and current events, 36.
+
+
+***
+![Facebook, Apple chiefs unleash barbs as App Store feud heats up](https://imagevars.gulfnews.com/2018/12/10/Copy_of_Supreme_Court_iPhone_Apps_27272_16a0853e08a.jpg-037bc~1_16a0853e08a_medium.jpg "Facebook, Apple chiefs unleash barbs as App Store feud heats up")
+
+
+[Facebook, Apple chiefs unleash barbs as App Store feud heats up](https://gulfnews.com/technology/companies/facebook-apple-chiefs-unleash-barbs-as-app-store-feud-heats-up-1.1611890930987)
+
+
+> This file photo shows Apple's App Store app. Picture for illustrative purposes only. Image Credit: AP San Francisco: A feud between tech giants heated up Thursday as Apple's chief executive implied Facebook's business model promotes disinformation and violence, while the social network reportedly prepares an antitrust lawsuit against Apple. The suit accuses Apple of abusing control of its App Store by requiring outside app developers, such as Facebook, to abide by rules not applied to its own apps, tech publication The Information reported.
+
+
