@@ -17898,3 +17898,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Most WhatsApp users reconsidering its usage; Telegram leading as an alternative: Study](https://imagevars.gulfnews.com/2021/01/29/STOCK-whatsapp-telegram_1774ee72319_medium.jpg "Most WhatsApp users reconsidering its usage; Telegram leading as an alternative: Study")
+
+
+[Most WhatsApp users reconsidering its usage; Telegram leading as an alternative: Study](https://gulfnews.com/technology/most-whatsapp-users-reconsidering-its-usage-telegram-leading-as-an-alternative--study-1.1611936572600)
+
+
+> Image Credit: Shutterstock New Delhi: Most users of WhatsApp are reconsidering usage of the instant mobile messaging app and are looking for its alternative following policy changes proposed by the Facebook group firm, according to a study. The study, conducted by CyberMedia Research (CMR) covering 1,500 WhatsApp users, found that 79 per cent of the instant messaging app users (respondents) are reconsidering using it, with 28 per cent of those even planning to leave WhatsApp after the implementation of its new policy in May 2021.
+
+
+***
+![The week before that big football game is one of the best times to find a cheap TV](https://mondrian.mashable.com/2021%252F01%252F29%252F75%252F1a4c8dcb4306492e828420754a40e7e5.e3c8d.png%252F1200x630.png?signature=yVK-5u_F8wWzyIEKiD6Py3-9UzE= "The week before that big football game is one of the best times to find a cheap TV")
+
+
+[The week before that big football game is one of the best times to find a cheap TV](https://mashable.com/shopping/jan-29-best-4k-tv-deals/)
+
+
+> Need guidance at a glance? These are our favorite TV deals from Walmart, Best Buy, Dell, and Amazon as of Jan. 29: We know nothing will ever be as entertaining as Reddit absolutely dunking on Wall Street. But as the high from New Year's and the first month of the year wears off, you may be looking for entertainment to get you to the start of Daylight Saving Time. The Little Things — the iconic mashup between Denzel Washington, Jared Leto, Rami Malek, and most importantly, Sofia Vassilieva from Eloise at Christmastime — is streaming on HBO Max, while Saint Maud, A24's highly-awaited new horror, hits Epix on Feb.
+
+
+***
+!['Zack Snyder's Justice League' lands on HBO Max in March](https://mondrian.mashable.com/2021%252F01%252F29%252F1e%252F184f11b3a3c24d659fb9c99f9fa8ee32.cdcd3.png%252F1200x630.png?signature=12tUFYrn-F3ooZrA0RWKL_CQF_I= "'Zack Snyder's Justice League' lands on HBO Max in March")
+
+
+['Zack Snyder's Justice League' lands on HBO Max in March](https://mashable.com/article/justice-league-snyder-cut-release/)
+
+
+> Director Zack Snyder's alternate cut of the 2017 movie Justice League is coming exclusively to HBO Max on March 18 after years of lobbying by fans.  Zack Snyder's Justice League is allegedly an improved cut over the one that was originally released in 2017, and fans are hopeful that Snyder's original vision as seen in this new release will be a more coherent and entertaining story than the old one. It's a bit of a long story, but Snyder had left Justice League production partway through due to the tragic death of his daughter, so the project fell into the hands of some other folks.
+
+
+***
+![UK trading app Freetrade disables orders to buy U.S. stocks](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "UK trading app Freetrade disables orders to buy U.S. stocks")
+
+
+[UK trading app Freetrade disables orders to buy U.S. stocks](https://www.reuters.com/article/us-freetrade-stocks-idUSKBN29Y287)
+
+
+> LONDON (Reuters) - Commission-free trading app Freetrade said on Friday it had disabled buy orders for U.S. stocks amid a market frenzy that has seen shares of heavily shorted stocks like GameStop surge this week after being pushed on social media platforms. The London-based startup said in a statement that the move was due to an unexpected decision from its foreign exchange provider and the provider's bank to limit its trade volumes. The company will allow users to sell U.S. stocks to exit existing positions, the statement said.
+
+
+***
+![Facebook is working on tools to keep ads away from topics like crime or politics in News Feed](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1aGU5y.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Facebook is working on tools to keep ads away from topics like crime or politics in News Feed")
+
+
+[Facebook is working on tools to keep ads away from topics like crime or politics in News Feed](https://www.cnbc.com/2021/01/29/facebook-is-wo-.html)
+
+
+> Facebook is building tools to help advertisers keep their ad placements away from certain topics in its News Feed.  The company said it will begin testing "topic exclusion" controls with a small group of advertisers. © Provided by CNBC Facebook is building tools to help advertisers keep their ad placements away from certain topics in its News Feed.  The company said it will begin testing "topic exclusion" controls with a small group of advertisers. It said, for example, a children's toy company would be able to avoid content related to "crime and tragedy," if it wished.
+
+
