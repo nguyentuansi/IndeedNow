@@ -17948,3 +17948,44 @@
 > Facebook is building tools to help advertisers keep their ad placements away from certain topics in its News Feed.  The company said it will begin testing "topic exclusion" controls with a small group of advertisers. © Provided by CNBC Facebook is building tools to help advertisers keep their ad placements away from certain topics in its News Feed.  The company said it will begin testing "topic exclusion" controls with a small group of advertisers. It said, for example, a children's toy company would be able to avoid content related to "crime and tragedy," if it wished.
 
 
+***
+[UFO claims sparked after mysterious cluster of lights snapped looming in sky over North Carolina](https://www.the-sun.com/lifestyle/tech/2234343/ufo-sightings-north-carolina/)
+
+
+> STRANGE lights spotted over North Carolina in the US have sparked UFO conspiracies. The string of lights in the sky was reported on by local news outlets and caused debate online. The weird bright dots were spotted over the town of Charlotte. The Charlotte Observer reported: “Multiple people have reported seeing an odd string of […]
+
+
+***
+[Sources: Kuaishou, ByteDance's main rival in China, has raised $5.4B in its Hong Kong IPO, valuing the short video startup at $61B (Julia Fioretti/Bloomberg)](http://www.techmeme.com/210129/p11#a210129p11)
+
+
+> Julia Fioretti / Bloomberg: Sources: Kuaishou, ByteDance's main rival in China, has raised $5.4B in its Hong Kong IPO, valuing the short video startup at $61B — - Market debut will be biggest internet IPO since Uber in 2019 — Tencent-backed tech startup valued at $61 billion in IPO
+
+
+***
+[TechTool Pro 13.0.2](https://www.macupdate.com/app/mac/4307/techtool-pro)
+
+
+> I have used this app since v. 4.x. It has never successfully helped me pull my chestnuts out of the fire because in every release, at least half the functionality simply doesn't work. For instance, the eDrive fails to function as a startup disk, but the program won't let me delete it and recreate it. The Preference Pane doesn't install correctly. Background protection scanning will work for weeks, then will stop working, and will never work again. The program creates snapshots that it can't later open and read.
+
+
+***
+![GameStop: How googling Reddit GME ‘short squeeze' saga suddenly made us all experts on Wall Street](https://i.inews.co.uk/content/uploads/2021/01/PRI_180798946.jpg "GameStop: How googling Reddit GME ‘short squeeze' saga suddenly made us all experts on Wall Street")
+
+
+[GameStop: How googling Reddit GME ‘short squeeze' saga suddenly made us all experts on Wall Street](https://inews.co.uk/news/technology/gamestop-reddit-gme-short-squeeze-google-wall-street-experts-850568)
+
+
+> Given everything else that's going on, you would have received long odds on a struggling American video-game store making headlines across the globe.Suddenly, though, as the GameStop share price began its absurd climb, millions of people turned into the unpleasant chap from The Wolf of Wall Street last week, bandying around adages like 'Stocks only go up!' and 'Beware ye the bear run!'The i newsletter latest news and analysis To the uninitiated (such as me), it was bewildering. But I swallowed my pride, and joined baffled people across the land in googling it.
+
+
+***
+![Super Bowl LV live stream 2021: how to watch Chiefs vs Buccaneers online anywhere](https://cdn.mos.cms.futurecdn.net/xoYFAtFtKAhwT9VBytDFyb-1200-80.jpg "Super Bowl LV live stream 2021: how to watch Chiefs vs Buccaneers online anywhere")
+
+
+[Super Bowl LV live stream 2021: how to watch Chiefs vs Buccaneers online anywhere](https://www.techradar.com/news/super-bowl-lv-live-stream-2021-how-to-watch-chiefs-vs-buccaneers)
+
+
+> With 25-year-old Patrick Mahomes vs 43-year-old Tom Brady arguably one of the best Super Bowl storylines the NFL has ever delivered, 2021's big game is literally one for the ages as the defending champion Kansas City Chiefs take on a Tampa Bay Buccaneers team brimming with the kind of confidence you get when you're led by the GOAT. Follow our guide below as we explain how to watch Super Bowl LV online and get a 2021 Super Bowl live stream wherever you are in the world.Super Bowl live stream 2021Date: Sunday, February 7Kick-off time: 6.
+
+
