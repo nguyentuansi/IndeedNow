@@ -17513,3 +17513,47 @@
 > Javascript is Disabled Your current browser configuration is not compatible with this site.
 
 
+***
+[Qualtrics goes public 2 years after being bought by SAP](https://abcnews.go.com/Technology/wireStory/qualtrics-public-years-bought-sap-75547492)
+
+
+> SALT LAKE CITY -- Business software provider Qualtrics went public Thursday two years after German giant SAP bought the company for $8 billion, marking the latest achievement for the company that has become one of the crown jewels of a technology corridor near Salt Lake City that Utah likes to call 'Silicon Slopes.' The move brings more recognition to Qualtrics just months after founder and executive chairman Ryan Smith purchased the NBA's Utah Jazz and further positioned himself as a powerful figure in the state.
+
+
+***
+![EXPLAINER: Why GameStop's stock surge is shaking Wall Street](https://s.abcnews.com/images/Technology/WireAP_e8c6707c9a4846b48b7db2034e05258f_16x9_992.jpg "EXPLAINER: Why GameStop's stock surge is shaking Wall Street")
+
+
+[EXPLAINER: Why GameStop's stock surge is shaking Wall Street](https://abcnews.go.com/Technology/wireStory/explainer-gamestops-stock-surge-shaking-wall-street-75546910)
+
+
+> NEW YORK -- It's not just you. What's going on with GameStop's stock doesn't make sense to a lot of people. The struggling video game retailer's stock has been making stupefying moves this month, wild enough to raise concerns from professional investors on Wall Street to the hallways of regulators and the White House in Washington. The frenzy hit new heights Thursday when several trading platforms limited their customers from making certain trades with GameStop. It's all forcing hard questions about whether the stock market is in a dangerous bubble and whether a new generation of traders should be allowed to take full advantage of all the tools and free trades available on their phones, regardless of how reckless they may seem to outsiders.
+
+
+***
+![Robinhood and Reddit: A timeline of growth and YOLO](https://media3.s-nbcnews.com/j/newscms/2021_04/3445829/210128-robinhood-app-ew-540p_25dd0228ef97cb025197e42d4e53198c.nbcnews-fp-1200-630.jpg "Robinhood and Reddit: A timeline of growth and YOLO")
+
+
+[Robinhood and Reddit: A timeline of growth and YOLO](https://www.nbcnews.com/tech/tech-news/robinhood-reddit-timeline-two-apps-tormenting-wall-street-n1256080)
+
+
+> Founded within 15 months of each other, Robinhood and r/wallstreetbets each grew slowly at first and then in a sudden rush in recent months. The Robinhood app on Dec. 18, 2020. Gabby Jones / Bloomberg via Getty Images file Jan. 28, 2021, 11:25 PM UTC By David Ingram and Jason Abbruzzese The stock market frenzy around GameStop has been years in the making, reflecting the parallel growth of two extremely online communities: users of the stock trading app Robinhood and members of the Reddit message board r/wallstreetbets.
+
+
+***
+[Microsoft reports it has "high confidence" the hacking campaign targeting infosec researchers is linked to ZINC, a DPRK-affiliated and state-sponsored group (Lawrence Abrams/BleepingComputer)](http://www.techmeme.com/210128/p41#a210128p41)
+
+
+> Lawrence Abrams / BleepingComputer: Microsoft reports it has “high confidence” the hacking campaign targeting infosec researchers is linked to ZINC, a DPRK-affiliated and state-sponsored group — Earlier this week, Google disclosed that a North Korean government-backed hacking group has been using social networks to target security researchers.
+
+
+***
+![Stockbrokers face anger and lawsuits after pulling plug on retail investors backing GameStop](https://www.telegraph.co.uk/content/dam/technology/2021/01/28/TELEMMGLPICT000249708378_trans_NvBQzQNjv4BqajCpFXsei0OXjDFGPZkcdDsyakyVKs9EWU8QOsi2m24.jpeg?impolicy=logo-overlay "Stockbrokers face anger and lawsuits after pulling plug on retail investors backing GameStop")
+
+
+[Stockbrokers face anger and lawsuits after pulling plug on retail investors backing GameStop](https://www.telegraph.co.uk/technology/2021/01/28/stockbrokers-face-anger-lawsuits-pulling-plug-retail-investors/)
+
+
+> Late on Thursday, Robinhood said it would resume trading, saying it had stopped purchases of some investments due to financial requirements.  "Amid this week's extraordinary circumstances in the market, we made a tough decision today to temporarily limit buying for certain securities. As a brokerage firm, we have many financial requirements, including SEC net capital obligations and clearinghouse deposits," it said. Earlier in the day, Robinhood users sued the trading app, which has more than 13m users, claiming it had manipulated the market.
+
+
