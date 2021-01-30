@@ -18561,3 +18561,50 @@
 > Because I no longer wanted to upload my health and movement data to the cloud of some fitness platform providers e.g. garmin or strava and because I do a lot of python, data science and sports, I decided to built my own tiny web app for keeping track of my training progress and fitness. These are the main features: Automatic import of Garmin fit files and gpx files Automatic naming of activities based on daytime, sport and geo location Render your activity gps data on different OSM maps Plot your activity specific data e.
 
 
+***
+![Hi pandas lovers](https://external-preview.redd.it/0mBI_As7yCFFmi88jnj3Usmd5Fwtk6HnKy_2iGn9WT0.jpg?auto=webp&s=3755c9c36b9a0324fde497cb79a8ee7e47f6db82 "Hi pandas lovers")
+
+
+[Hi pandas lovers](https://www.reddit.com/r/Python/comments/l8u8mb/hi_pandas_lovers_i_released_a_package_for_easily/)
+
+
+> Play 0:00 0:00 Settings Fullscreen Example usage Source code: https://github.com/phillipdupuis/dtale-desktop Live demo: http://dtaledesktop.phillipdupuis.com/ You can install it via pip install dtaledesktop Dtale-desktop lets you turn any pandas DataFrame into a dashboard widget. All you need to do is launch it via dtaledesktop and plug in the code for producing the DataFrame. That widget will be present every time you launch dtaledesktop, and by simply clicking a button you can run that code and analyze the resulting DataFrame in dtale or pandas-profiling, Code snippets can be added or edited directly from the dashboard, and upon doing so the dashboard is immediately updated.
+
+
+***
+![Need to light up the dark? Check out these high-lumen smart light bulbs.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/smart-light-group-lifestyle-hue-lifx-wyze.jpg "Need to light up the dark? Check out these high-lumen smart light bulbs.")
+
+
+[Need to light up the dark? Check out these high-lumen smart light bulbs.](https://www.androidcentral.com/best-smart-led-light-bulbs-dark-spaces)
+
+
+> Source: Chris Wedel/Android CentralWhen times get dark, we need bright light to see our way out — and the brightest LED smart bulbs make it that much better. A high-lumen (unit for measuring the quantity of light) bulb can do the trick in a small or large room. Adding in some smarts to that bulb gives it the flexibility to control from your favorite smart speaker or phone. Whether you want a standard A19 E26 bulb or the BR30 for recessed lighting, there's a bulb for you. The Feit Electric OM100 is our top pick for its incredibly high lumen rating and hubless smart controls, which means it only needs Wi-Fi and your phone to control.
+
+
+***
+[How to play a Sound in Spyder?](https://www.reddit.com/r/Python/comments/l8tx0k/how_to_play_a_sound_in_spyder/)
+
+
+> Hi, I tried so many codes found on internet but none of them worked. Is there any way to play an audio file from your computer using a code in Spyder? Thank you in advance. submitted by /u/zebrathinking [link] [comments]
+
+
+***
+![Added some quality of life additions to my COVID pip package, and did a lot of refactoring. Here's what I have now!](https://external-preview.redd.it/6yKwjq6RaddOtjN7K53gvDuvUBcl1yLeEW5LjEs7A60.jpg?auto=webp&s=47e3eb744c2ae7e5d734e5aaf04faa9702da5bf4 "Added some quality of life additions to my COVID pip package, and did a lot of refactoring. Here's what I have now!")
+
+
+[Added some quality of life additions to my COVID pip package, and did a lot of refactoring. Here's what I have now!](https://www.reddit.com/r/Python/comments/l8twlj/added_some_quality_of_life_additions_to_my_covid/)
+
+
+> VIDEO: https://streamable.com/j3occ7 Repo: https://github.com/Fitzy1293/daily-covid Pypi: http://pypi.org/project/dailycovid Data source: https://github.com/nytimes/covid-19-data It can be used like that for a whole state or like this on the county level. dailycovid -sc "California-Los Angeles" dailycovid -s CA -c "Los Angeles" dailycovid --state CA --county "Los Angeles" It downloads the nytimes county level covid data on initial use, or when you use -g as a flag, and parses and splits it up by state into diff files.
+
+
+***
+![Scientists finally figured out why wombats poop cubes. Thank heavens.](https://mondrian.mashable.com/2021%252F01%252F30%252F95%252F73f04dd087294c6985066ba640bd4adf.55167.jpg%252F1200x630.jpg?signature=716GF-f6pzPdm8BCVK5R86BOjfM= "Scientists finally figured out why wombats poop cubes. Thank heavens.")
+
+
+[Scientists finally figured out why wombats poop cubes. Thank heavens.](https://mashable.com/article/wombat-cube-poop-mystery-solved/)
+
+
+> Our long international nightmare is over: We finally know why wombats poop out cubes. The scientists did it. They really did it. Thank heavens.  Wombats' odd poop has long been a curious and fun animal fact. And the answer behind it isn't as simple as "square-shaped butthole." OK, not quite that simple anyway. Basically: the Rubik's-esque scat is formed in wombats' intestines via muscle contractions and not at the point of exit.  Researchers from Georgia Tech and the University of Tasmania published their findings this week in a journal — I shit you not — called Soft Matter.
+
+
