@@ -18327,3 +18327,43 @@
 > Subscribe Now! Facebook twitter google +
 
 
+***
+![Upgrade your WFH setup with one of these Acer Chromebooks on sale](https://mondrian.mashable.com/2021%252F01%252F30%252Fea%252F73b253a26cab468387ae2a577f353b2b.d4fe7.jpg%252F1200x630.jpg?signature=WqU5ZDEkU0KxfZIMarLMHEWiUrI= "Upgrade your WFH setup with one of these Acer Chromebooks on sale")
+
+
+[Upgrade your WFH setup with one of these Acer Chromebooks on sale](https://mashable.com/shopping/jan-30-acer-laptops-refurbished/)
+
+
+> If you need to make some updates to your work from home setup as we enter our second year of remote work, these refurbished Acer Chromebooks are all on sale at some steep discounts. Check out the options below, which are all on sale as of Jan. 30, and stop crying over deleted work. Refurbished Acer C720-2848 Chromebook This Chromebook is stacked with 2GB of RAM and 16GB SSD, and lasts 8.5 hours on a single charge. It's normally $199, but you can take it home for just $149.99 . Refurbished Acer C720P-2625 Chromebook This Chromebook packs 4GB DDR3 RAM, 16GB SSD, and comes pre-installed with Chrome so you can start working right away.
+
+
+***
+![This Apple computer will set you back $1.5 million](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/apple-1.jpg "This Apple computer will set you back $1.5 million")
+
+
+[This Apple computer will set you back $1.5 million](https://www.imore.com/apple-computer-will-set-you-back-15-million)
+
+
+> Source: eBay/krishmiti An extremely rare Apple computer has gone on sale on eBay at a listed price of $1.5 million. First noted by IGN, the listing is for an 'APPLE 1 Original 1976 Computer System 1st Steve Wozniak designed computer'. From the seller: This is truly a first for eBay. This is a verified fully operational original Apple-1 computer system in excellent condition in its original Byte Shop KOA wood case, with original power supply and Datanetics Version D keyboard. This Apple-1 is an unmodified NTI board in almost perfect condition on both front and back of the main board where you can see there have been no modifications or repairs.
+
+
+***
+![PROGRAMMERS BY MANNING PUBLICATIONS (pay what you want and help charity)](https://external-preview.redd.it/hmHkGf75pAabPJ27G9ZGTZ_3sQYgj_6dOgTkA90p108.jpg?auto=webp&s=8cfd157310b98e75f8923c02a8ccd9c3f8aa9162 "PROGRAMMERS BY MANNING PUBLICATIONS (pay what you want and help charity)")
+
+
+[PROGRAMMERS BY MANNING PUBLICATIONS (pay what you want and help charity)](https://www.reddit.com/r/Python/comments/l8ia1r/programmers_by_manning_publications_pay_what_you/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![CHINA ‘THREATENING WAR': Scary Beijing move risks US-China clash](https://cdn.newsapi.com.au/image/v1/807caadacb150ca4e173e10b2af8d2be?width=1280 "CHINA ‘THREATENING WAR': Scary Beijing move risks US-China clash")
+
+
+[CHINA ‘THREATENING WAR': Scary Beijing move risks US-China clash](https://www.news.com.au/technology/innovation/military/china-threatens-war-with-philippines-as-us-pledges-support-to-manila/news-story/cbbb6437ce8d2ed171bd6a708c16842a)
+
+
+> China is 'threatening war' after it authorised its warships to open fire on fishers plying traditional waters, warns the Philippines. Now Washington says it has Manila's back.Beijing has passed legislation calling upon its military-controlled coast guard to open fire upon 'foreign' vessels and destroy 'illegal' structures within the East and South China seas.Problem is, those territories don't belong to it.Which means the law represents a significant escalation in international tensions.And that has Manila worried the region is about to erupt in violence.
+
+
