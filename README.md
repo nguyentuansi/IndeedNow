@@ -18514,3 +18514,50 @@
 > Disable this hidden setting to free up valuable storage space on your iPhone.
 
 
+***
+![Dive into cloud computing with AWS certification training and practice exams for $80](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2021/01/sale_162879_article_image-3csg.jpg "Dive into cloud computing with AWS certification training and practice exams for $80")
+
+
+[Dive into cloud computing with AWS certification training and practice exams for $80](https://www.androidcentral.com/dive-cloud-computing-aws-certification-training-and-practice-exams-80)
+
+
+> Source: Stack Commerce Source: StackCommerce From Adobe to Zynga, thousands of top companies rely on AWS to host apps and data. The BitDegree Academy helps you learn the platform, with extensive training and practice exams working toward certification. You can get lifetime access today for just $79.99. With countless apps going live every day, cloud computing is the most important thing happening in IT right now. If you want to build any kind of technical career, learning about the most popular cloud platform is a smart move.
+
+
+***
+[Investor makes money off of GameStop stock in order to buy Switch units for charity](https://gonintendo.com/stories/376209-investor-makes-money-off-of-gamestop-stock-in-order-to-buy-switch)
+
+
+> Lots of people are involved in the GameStop stock situation right now, with most holding onto shares to cause even more Wall Street chaos. Not everyone is holding though, as some people are cashing out to make some bank. On unnamed investor did just that, but they turned around and used the funds for a good cause. This anonymous investor took his stock market gains and went right to GameStop. He snatched up 10 Switch units, crammed them into his car, and drove over to Dallas-Fort Worth Texas to the Medical City Children's Hospital.
+
+
+***
+![Stop malware threats with one of these best antivirus software options](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop/public/article_images/2019/04/dell-refurbished-computer-main.jpg?itok=pBtq78PS "Stop malware threats with one of these best antivirus software options")
+
+
+[Stop malware threats with one of these best antivirus software options](https://www.androidcentral.com/best-antivirus-software)
+
+
+> Source: Android Central Best Antivirus Software Android Central 2021 I spent six months testing and reevaluating the top antivirus programs currently available in 2021. While there haven't been many big changes between last year and this year's versions, I did want to make sure the programs I recommend will keep computers, mobile devices, and networks as secure as possible. This year Bitdefender Antivirus Plus is still the best antivirus program with real-time protection that stops and scrubs threats from your system before they have a chance to even start downloading.
+
+
+***
+![WandaVision: who is Monica Rambeau?](https://cdn.mos.cms.futurecdn.net/28YpE6MBzAqHvNeQSZGvLj-1200-80.jpg "WandaVision: who is Monica Rambeau?")
+
+
+[WandaVision: who is Monica Rambeau?](https://www.techradar.com/news/wandavision-who-is-monica-rambeau)
+
+
+> Spoilers for WandaVision follow. It's fair to say it's been a strange five years for WandaVision's Monica Rambeau. Having been one of the many victims dusted by Thanos's ‘Blip', she rematerialized to learn that her mother, Maria, had passed away in the interim. Then, after returning to active duty as an agent at SWORD, her first gig was a missing persons case in New Jersey that somehow turned her into a sitcom character named Geraldine. It's unlikely that living life accompanied by canned laughter was ever part of her career plan…From its first episode, WandaVision has been the most unconventional story ever to emerge from the Marvel Cinematic Universe.
+
+
+***
+![I built a web app for organizing and visualizing sports activity data locally](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "I built a web app for organizing and visualizing sports activity data locally")
+
+
+[I built a web app for organizing and visualizing sports activity data locally](https://www.reddit.com/r/Python/comments/l8r7fl/i_built_a_web_app_for_organizing_and_visualizing/)
+
+
+> Because I no longer wanted to upload my health and movement data to the cloud of some fitness platform providers e.g. garmin or strava and because I do a lot of python, data science and sports, I decided to built my own tiny web app for keeping track of my training progress and fitness. These are the main features: Automatic import of Garmin fit files and gpx files Automatic naming of activities based on daytime, sport and geo location Render your activity gps data on different OSM maps Plot your activity specific data e.
+
+
