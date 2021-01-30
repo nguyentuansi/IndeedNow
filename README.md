@@ -18177,3 +18177,53 @@
 > AirPods Max卖断货。
 
 
+***
+![Facebook to test letting advertisers avoid topics](https://static.bangkokpost.com/media/content/20210130/c1_3880691_700.jpg "Facebook to test letting advertisers avoid topics")
+
+
+[Facebook to test letting advertisers avoid topics](https://www.bangkokpost.com/tech/2059663/facebook-to-test-letting-advertisers-avoid-topics)
+
+
+> Facebook says it is testing ways to help advertisers avoid having their marketing messages places alongside inappropriate content on the social network. SAN FRANCISCO: Facebook on Friday said it is working on a way to let advertisers avoid having marketing messages appear in feeds alongside content they'd rather not be associated with. A small group of advertisers will soon start testing new "topic exclusion controls" being honed by the leading social network, according to a post. "These controls will help to address concerns advertisers have of their ads appearing in News Feed next to certain topics based on their brand suitability preferences," Facebook said.
+
+
+***
+![Facebook to test letting advertisers avoid topics](https://media2.malaymail.com/resize_cache/uploads/articles/money131212facebook-seo.jpg "Facebook to test letting advertisers avoid topics")
+
+
+[Facebook to test letting advertisers avoid topics](https://www.malaymail.com/news/tech-gadgets/2021/01/30/facebook-to-test-letting-advertisers-avoid-topics/1945310)
+
+
+> A small group of advertisers will soon start testing new 'topic exclusion controls' being honed by the leading social network, according to a post. — Reuters pic SAN FRANCISCO, Jan 30 — Facebook yesterday said it is working on a way to let advertisers avoid having marketing messages appear in feeds alongside content they'd rather not be associated with. A small group of advertisers will soon start testing new 'topic exclusion controls' being honed by the leading social network, according to a post.
+
+
+***
+![This little self-driving robot has already made a million deliveries (VIDEO)](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/20210130_Starship_Self-driving_delivery_Robot_01-seo.jpg "This little self-driving robot has already made a million deliveries (VIDEO)")
+
+
+[This little self-driving robot has already made a million deliveries (VIDEO)](https://www.malaymail.com/news/tech-gadgets/2021/01/30/this-little-self-driving-robot-has-already-made-a-million-deliveries-video/1945318)
+
+
+> Starship is a small robot that can deliver food or small supplies autonomously and quickly. — Picture courtesy of Starship Technologies SAN FRANCISCO, Jan 30 — Starship, the small self-driving American robot, capable of delivering food or small equipment over short distances, has just passed the symbolic milestone of one million deliveries. At a time of covid-19 restrictions and social distancing, it is showing its usefulness more than ever, especially on campuses. Of these million deliveries, half were recorded between June 2020 and January 2021.
+
+
+***
+![The robot dog that senses human emotion (VIDEO)](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/20210130_Robot_Dog_AI_Emotions_AFP-seo.jpg "The robot dog that senses human emotion (VIDEO)")
+
+
+[The robot dog that senses human emotion (VIDEO)](https://www.malaymail.com/news/tech-gadgets/2021/01/30/the-robot-dog-that-senses-human-emotion-video/1945329)
+
+
+> The Koda robot dog can also spend time playing with children. — Picture courtesy of Koda SAN FRANCISCO, Jan 30 — American startup and artificial intelligence (AI) specialist Koda has unveiled a surprising robot dog that can sense human emotion and adapt its behaviour accordingly in each situation — whether that's playing with the kids, surveilling the home or assisting a partially sighted person. The idea is to develop a robot dog that's as sociable and intelligent as possible, a fully robotic pet capable of meeting multiple demands.
+
+
+***
+![Xiaomi sues the US seeking to reverse investment ban](https://imagevars.gulfnews.com/2019/09/09/2019-09-03T041206Z_2033981381_RC1A9D168C00_RTRMADP_3_XIAOMI-BUYBACK--Read-Only-_16d16b2b2ef_medium.jpg "Xiaomi sues the US seeking to reverse investment ban")
+
+
+[Xiaomi sues the US seeking to reverse investment ban](https://gulfnews.com/technology/xiaomi-sues-the-us-seeking-to-reverse-investment-ban-1.1611976752166)
+
+
+> The logo of Xiaomi is seen outside the brand's store in central Kiev, Ukraine. Image Credit: Reuters Xiaomi Corp. sued the US Defense and Treasury departments, challenging a blacklisting that blocks American investors from buying the Chinese smartphone giant's securities. The lawsuit came after the Defense Department determined earlier this month that China's biggest smartphone maker was affiliated with the People's Liberation Army. Beijing-based Xiaomi called the blacklisting "unconstitutional" and seeks a court ruling to reverse the designation, which was made in the waning days of the Trump administration.
+
+
