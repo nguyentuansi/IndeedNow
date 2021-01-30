@@ -18277,3 +18277,53 @@
 > A US lobby group which represents firms including Amazon.com and Walmart has urged India not to tighten foreign investment rules for e-commerce companies again, according to a letter seen by Reuters.India is considering revising the rules after traders in the country accused Amazon's Indian division and Walmart's Flipkart of creating complex structures to bypass investment regulations, Reuters reported this month.The US companies deny any wrongdoing.India only allows foreign e-commerce players to operate as a marketplace to connect buyers and sellers but local traders say the US giants promote select sellers and offer deep discounts, which hurts business for smaller local retailers.
 
 
+***
+![TM observes 15pc increase in internet traffic during MCO 2.0](https://media2.malaymail.com/resize_cache/uploads/articles/2016-02/20160223_INTERNET_HACKER_COMPUTER_GENERIC_01-seo.jpg "TM observes 15pc increase in internet traffic during MCO 2.0")
+
+
+[TM observes 15pc increase in internet traffic during MCO 2.0](https://www.malaymail.com/news/tech-gadgets/2021/01/30/tm-observes-15pc-increase-in-internet-traffic-during-mco-2.0/1945404)
+
+
+> TM said the enforcement of MCO 2.0 has made most Malaysians rely heavily on Internet connectivity for online communication to stay connected and productive while working and learning at home. — AFP pic KUALA LUMPUR, Jan 30 — Telekom Malaysia (TM) recorded a 15 per cent increase in overall Internet traffic usage since the inception of second movement control order (MCO) beginning January 13, 2021 compared to the first MCO in March last year. TM said the enforcement of MCO 2.0 has made most Malaysians rely heavily on Internet connectivity for online communication to stay connected and productive while working and learning at home, which naturally led to an inevitable surge of data consumption.
+
+
+***
+![Facebook to test letting advertisers avoid topics](https://imagevars.gulfnews.com/2021/01/30/Facebook_17751cba79a_medium.jpg "Facebook to test letting advertisers avoid topics")
+
+
+[Facebook to test letting advertisers avoid topics](https://gulfnews.com/technology/media/facebook-to-test-letting-advertisers-avoid-topics-1.1611985000093)
+
+
+> Image Credit: REUTERS San Francisco: Facebook on Friday said it is working on a way to let advertisers avoid having marketing messages appear in feeds alongside content they'd rather not be associated with. A small group of advertisers will soon start testing new "topic exclusion controls" being honed by the leading social network, according to a post. "These controls will help to address concerns advertisers have of their ads appearing in News Feed next to certain topics based on their brand suitability preferences," Facebook said.
+
+
+***
+![Apple iPhone 13 may come with optical in-display fingerprint sensor](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-30_at_11_1200_210130112930.17-483x271.png "Apple iPhone 13 may come with optical in-display fingerprint sensor")
+
+
+[Apple iPhone 13 may come with optical in-display fingerprint sensor](https://www.indiatoday.in/technology/news/story/apple-iphone-13-may-come-with-optical-in-display-fingerprint-sensor-1764190-2021-01-30)
+
+
+> Every other day, a new leak drops major hints about the specifications and designs of the upcoming iPhone 13 series. Ankita Chakravarti | January 30, 2021 | Updated 11:24 IST
+
+
+***
+![WhatsApp two-step verification, face unlock and other security features to keep your account safe](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2020-03-16_at_12_1200_210130103536.11_2-483x271.png "WhatsApp two-step verification, face unlock and other security features to keep your account safe")
+
+
+[WhatsApp two-step verification, face unlock and other security features to keep your account safe](https://www.indiatoday.in/technology/features/story/whatsapp-two-step-verification-face-unlock-and-other-security-features-to-keep-your-account-safe-1764170-2021-01-30)
+
+
+> WhatsApp is end-to-end encrypted but besides that, there are features including two-step verification, face unlocks for linking devices, disappearing messages that can help users have complete control of their WhatsApp account. Ankita Chakravarti | January 30, 2021 | Updated 10:14 IST
+
+
+***
+![ਸੜਕਾਂ 'ਤੇ ਫਿਰ ਧੂਮ ਮਚਾਉਣ ਲਈ ਤਿਆਰ ਸੁਜ਼ੂਕੀ ਦੀ ‘ਸੁਪਰ ਬਾਈਕ', ਜਾਰੀ ਹੋਇਆ ਵੀਡੀਓ ਟੀਜ਼ਰ](https://static.jagbani.com/multimedia/2021_1image_12_35_167522728hayabusa-ll.jpg "ਸੜਕਾਂ 'ਤੇ ਫਿਰ ਧੂਮ ਮਚਾਉਣ ਲਈ ਤਿਆਰ ਸੁਜ਼ੂਕੀ ਦੀ ‘ਸੁਪਰ ਬਾਈਕ', ਜਾਰੀ ਹੋਇਆ ਵੀਡੀਓ ਟੀਜ਼ਰ")
+
+
+[ਸੜਕਾਂ 'ਤੇ ਫਿਰ ਧੂਮ ਮਚਾਉਣ ਲਈ ਤਿਆਰ ਸੁਜ਼ੂਕੀ ਦੀ ‘ਸੁਪਰ ਬਾਈਕ', ਜਾਰੀ ਹੋਇਆ ਵੀਡੀਓ ਟੀਜ਼ਰ](https://jagbani.punjabkesari.in/gadgets/news/suzuki-hayabusa-all-set-to-return-on-this-date-1265981)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
