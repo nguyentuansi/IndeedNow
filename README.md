@@ -18608,3 +18608,53 @@
 > Our long international nightmare is over: We finally know why wombats poop out cubes. The scientists did it. They really did it. Thank heavens.  Wombats' odd poop has long been a curious and fun animal fact. And the answer behind it isn't as simple as "square-shaped butthole." OK, not quite that simple anyway. Basically: the Rubik's-esque scat is formed in wombats' intestines via muscle contractions and not at the point of exit.  Researchers from Georgia Tech and the University of Tasmania published their findings this week in a journal — I shit you not — called Soft Matter.
 
 
+***
+![Facebook wants you to comment on its Trump ban. Here's how.](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/09/0/0/Zuckerberg-Trump_AP.jpg?ve=1&tl=1 "Facebook wants you to comment on its Trump ban. Here's how.")
+
+
+[Facebook wants you to comment on its Trump ban. Here's how.](https://www.foxbusiness.com/technology/facebook-wants-you-to-comment-on-its-trump-ban-heres-how)
+
+
+> Facebook's Oversight Board is calling for public input regarding the indefinite suspension of former President Donald Trump's Facebook and Instagram accounts. Facebook elected to refer the case to the board on Jan. 21 , and the board announced the decision to take up the mantle a week later. GET FOX BUSINESS ON THE GO BY CLICKING HERE A description of the case provided on the board's website details the removal of two posts during the deadly Jan. 6 siege of the U.S. Capitol . The first post was a video Trump posted as members of both parties called for him to speak out against the riot and urge the mob to stop.
+
+
+***
+![Google union in turmoil following global alliance announcement](https://cdn.vox-cdn.com/thumbor/3Iu7-7hZ4LKWEXWPwRnIPjhp9ZE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/12322331/acastro_180820_1777_google_china_0001.jpg "Google union in turmoil following global alliance announcement")
+
+
+[Google union in turmoil following global alliance announcement](https://www.theverge.com/2021/1/30/22256577/alphabet-workers-union-turmoil-global-alliance-announcement-google-cwa)
+
+
+> Illustration by Alex Castro / The Verge The Alphabet Workers Union (AWU) is in turmoil following the announcement of an international alliance on Monday. The alliance, Alpha Global, was billed as a worker-led initiative, but union members in the US say they didn't know about it until The Verge published an exclusive . That piece included a press release quote from AWU executive council member Parul Koul, which she says she didn't write. The news was an unwelcome surprise to union members who expect the Alphabet Workers Union to run democratically.
+
+
+***
+![M1 MacBook Air](https://images.macrumors.com/social/?t=2282628&v=6 "M1 MacBook Air")
+
+
+[M1 MacBook Air](https://forums.macrumors.com/threads/m1-macbook-air-slight-high-pitched-noise-when-connecting-4k-monitor.2282628/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Mar 9, 2012 105 25 Maple, Ontario, Canada has anyone else experienced a slight high pitched noise when connecting to a 4K monitor using USB-C? I just hooked my Air up to my LG 4K monitor today for the first time and noticed a slight high pitched noise. When I disconnected the USBC cable, it went away. I also hooked up my work laptop to the monitor (ThinkPad) and there was no noice (I was checking to see if it could be the monitor).
+
+
+***
+![An MSI GL65 with an i7 and GTX 1660Ti for $769 is this weekend's best gaming laptop deal](https://cdn.mos.cms.futurecdn.net/ezQ5gpDfHw7WDadPzTUGtY-1200-80.jpg "An MSI GL65 with an i7 and GTX 1660Ti for $769 is this weekend's best gaming laptop deal")
+
+
+[An MSI GL65 with an i7 and GTX 1660Ti for $769 is this weekend's best gaming laptop deal](https://www.techradar.com/news/an-msi-gl65-with-an-i7-and-gtx-1660ti-for-dollar769-is-this-weekends-best-gaming-laptop-deal)
+
+
+> (Image credit: Future) Those looking for cheap gaming laptop deals are in a great place right now. Thanks to the encroaching release of the new RTX 3000 cards, slightly older (but still powerful) machines are now being driven down in price - just like this MSI GF65 Leopard going for $769 (was $1,249) at Newegg after rebate.With a GTX 1660Ti graphics card, 16GB of RAM, 512GB SSD, and Intel Core i7-10750H processor, this MSI is incredibly well specced out for such a cheap gaming laptop deal. For 1080p gaming, it's going to perform well for the price, and while that GTX card might be getting a little older now, it should still keep up for medium settings on the newest games for quite some time.
+
+
+***
+![All my friends keep their MacBooks plugged in all the time.](https://images.macrumors.com/social/?t=2282627&v=6 "All my friends keep their MacBooks plugged in all the time.")
+
+
+[All my friends keep their MacBooks plugged in all the time.](https://forums.macrumors.com/threads/all-my-friends-keep-their-macbooks-plugged-in-all-the-time.2282627/)
+
+
+> Oct 13, 2011 1,563 521 Brooklyn NY I notice that all my friends who use MacBook keep them plugged in all the time with the lid down. I use mine plugged in topped at 100% but unplug it and put it in my carry case when not using it. After a few days I use it on battery not letting it get below 50% then charging it to 80%. I also use it plugged in when on Zoom and Webex calls. So isn't my friends doing more harm to their MacBook or am I doing better with the battery. Feb 5, 2017 2,149 3,713 Glasgow, Scotland So isn't my friends doing more harm to their MacBook or am I doing better with the battery.
+
+
