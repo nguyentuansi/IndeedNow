@@ -18086,3 +18086,53 @@
 > No body in the article.
 
 
+***
+![5G Samsung Galaxy S20 series gets an Android update early, even before the Pixels](https://m-cdn.phonearena.com/images/article/129822-two_1200/5G-Samsung-Galaxy-S20-series-gets-an-Android-update-early-even-before-the-Pixels.jpg "5G Samsung Galaxy S20 series gets an Android update early, even before the Pixels")
+
+
+[5G Samsung Galaxy S20 series gets an Android update early, even before the Pixels](https://www.phonearena.com/news/february-security-patch-arrives-in-january-on-some-5g-galaxy-s20-models_id129822)
+
+
+> Samsung has really stepped up its upgrade game recently and according to SamMobile, the South Korean manufacturer appears to own a working crystal ball. Even though we are still in January, the Samsung Galaxy S20 series is currently receiving the February 2021 Android security patch in various countries outside the states. Sure, getting a security update early isn't as exciting as getting the next build of Android early, but it is something, right?The security update is rolling out in the U.K. and Europe to the Samsung Galaxy S20, Samsung Galaxy S20+ and the Samsung Galaxy S20 Ultra 5G.
+
+
+***
+![PS5 stock checker – Amazon UK restock on MONDAY plus Argos, BT, Currys, Asda, Very, Smyths, GAME UK Playstation consoles](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/01/1-12.jpe?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock checker – Amazon UK restock on MONDAY plus Argos, BT, Currys, Asda, Very, Smyths, GAME UK Playstation consoles")
+
+
+[PS5 stock checker – Amazon UK restock on MONDAY plus Argos, BT, Currys, Asda, Very, Smyths, GAME UK Playstation consoles](https://www.thesun.co.uk/tech/13233222/ps5-release-today-latest-stock-amazon-game-playstation-live/)
+
+
+> SINCE its release in November, gamers have found it near impossible to bag themselves the coveted PS5. New stock drops at the likes of Argos, GAME, and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release begin to swirl. But never fear, The Sun is here.... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console today. Follow our PS5 live blog below for the very latest news and updates.
+
+
+***
+![Where to save on air purifiers from Molekule right now](https://media2.s-nbcnews.com/j/newscms/2021_04/3446111/210129-molekulesale-bd-2x1_f8b80f94156c2cc4c445f1fb0c5ca1b4.nbcnews-fp-1200-630.jpg "Where to save on air purifiers from Molekule right now")
+
+
+[Where to save on air purifiers from Molekule right now](https://www.nbcnews.com/shopping/tech-gadgets/molekule-air-purifier-sale-n1256166)
+
+
+> In our coverage on the best air purifiers, Molekule has stood out as a crowd favorite. Rather than the popular and expert-recommended HEPA filter, the brand patented its own filter technology: photo electrochemical oxidation, or PECO . Although this technology is yet to be considered industry standard, it might still be worth considering for your next air purifier. And right now, Best Buy is offering you 30 percent off the brand's latest Air Mini+. LEARN MORE about Molekule's air purifying technology Since the start of the coronavirus pandemic , sales of air purifiers have surged.
+
+
+***
+![Facebook temporarily shuts stock trading group after GameStop frenzy](https://assets2.rappler.com/2021/01/reuters-20210130-facebook-retail-trading-1611964476650.jpg "Facebook temporarily shuts stock trading group after GameStop frenzy")
+
+
+[Facebook temporarily shuts stock trading group after GameStop frenzy](https://www.rappler.com/technology/social-media/facebook-temporarily-shuts-stock-trading-group-after-gamestop-frenzy-january-2021)
+
+
+> Facebook took down a popular Wall Street discussion group, Robinhood Stock Traders, in a move its founder said was an unjustified response to conversations that have buoyed shares in GameStop Corporation and other companies. Allen Tran, a 23-year-old from Chicago who created Robinhood Stock Traders, said he woke up on Wednesday, January 27, to a notification that Facebook had disabled the 157,000-member group. The notification, seen by Reuters, said without detail that the group violated policies on "adult sexual exploitation.
+
+
+***
+![ਇਜ਼ਰਾਇਲੀ ਦੂਤਘਰ ਦੇ ਬਾਹਰ ਧਮਾਕੇ ਵਾਲੀ ਥਾਂ ਤੋਂ ਇੱਕ ਲਿਫਾਫਾ ਬਰਾਮਦ](https://static.jagbani.com/multimedia/2021_1image_02_41_569529350blast-ll.jpg "ਇਜ਼ਰਾਇਲੀ ਦੂਤਘਰ ਦੇ ਬਾਹਰ ਧਮਾਕੇ ਵਾਲੀ ਥਾਂ ਤੋਂ ਇੱਕ ਲਿਫਾਫਾ ਬਰਾਮਦ")
+
+
+[ਇਜ਼ਰਾਇਲੀ ਦੂਤਘਰ ਦੇ ਬਾਹਰ ਧਮਾਕੇ ਵਾਲੀ ਥਾਂ ਤੋਂ ਇੱਕ ਲਿਫਾਫਾ ਬਰਾਮਦ](https://jagbani.punjabkesari.in/national/news/an-envelope-recovered-from-the-blast-site-outside-the-israeli-embassy-1265936)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
