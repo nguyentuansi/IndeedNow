@@ -18367,3 +18367,53 @@
 > China is 'threatening war' after it authorised its warships to open fire on fishers plying traditional waters, warns the Philippines. Now Washington says it has Manila's back.Beijing has passed legislation calling upon its military-controlled coast guard to open fire upon 'foreign' vessels and destroy 'illegal' structures within the East and South China seas.Problem is, those territories don't belong to it.Which means the law represents a significant escalation in international tensions.And that has Manila worried the region is about to erupt in violence.
 
 
+***
+![Oversight board overturns Facebook's removal of content](https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic_new.jpg "Oversight board overturns Facebook's removal of content")
+
+
+[Oversight board overturns Facebook's removal of content](https://www.straitstimes.com/tech/tech-news/oversight-board-overturns-facebooks-removal-of-content)
+
+
+> SAN FRANCISCO • Deciding its first-ever cases, Facebook's oversight board has ruled that the social media company was wrong to remove four of five pieces of content that the board reviewed, including posts Facebook took down for violating rules on hate speech and harmful Covid-19 misinformation. The first rulings on Thursday will be scrutinised to see how independent the board appears to be from the world's largest social media platform, particularly ahead of its high-profile decision on whether Facebook was right to suspend former United States president Donald Trump.
+
+
+***
+![Netflix testing sleep time feature on Android](https://imagevars.gulfnews.com/2021/01/30/Netflix_177527adf3d_medium.jpg "Netflix testing sleep time feature on Android")
+
+
+[Netflix testing sleep time feature on Android](https://gulfnews.com/technology/media/netflix-testing-sleep-time-feature-on-android-1.1611996280305)
+
+
+> Image Credit: Shutterstock San Francisco: Video-streaming platform Netflix is testing a new feature on Android devices globally that would allow subscribers to set a timer for their viewing period. According to The Verge, after the selected time limit comes to an end, the Netflix app would stop. The new feature lets people choose between four timer settings - 15 minutes, 30 minutes, 45 minutes or end of whatever people are watching. This should in theory help conserve battery life on Android devices while also ensuring that episodes don't continue to auto-play, the report said on Friday.
+
+
+***
+![28 per cent users to leave WhatsApp after implementation of new privacy policy](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2020-03-16_at_12_1200_210130164537.11_3-483x271.png "28 per cent users to leave WhatsApp after implementation of new privacy policy")
+
+
+[28 per cent users to leave WhatsApp after implementation of new privacy policy](https://www.indiatoday.in/technology/news/story/28-percent-users-to-leave-whatsapp-after-implementation-of-new-privacy-policy-1764273-2021-01-30)
+
+
+> As per the latest survey, over 79 percent of users have said that they are reconsidering the app but 29 percent of users want to leave as soon as WhatsApp implements the new privacy policy. Ankita Chakravarti | January 30, 2021 | Updated 16:40 IST
+
+
+***
+![RBI plans its own cryptocurrency, proposed crypto law may ban Bitcoins and Dogecoins in India](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-30_at_2_1200_210130150832.50.-483x271.png "RBI plans its own cryptocurrency, proposed crypto law may ban Bitcoins and Dogecoins in India")
+
+
+[RBI plans its own cryptocurrency, proposed crypto law may ban Bitcoins and Dogecoins in India](https://www.indiatoday.in/technology/news/story/rbi-plans-its-own-cryptocurrency-proposed-crypto-law-may-ban-bitcoins-and-dogecoins-in-india-1764247-2021-01-30)
+
+
+> The government is likely to introduce a bill during Budget session 2021 that would ban private cryptocurrencies including Bitcoin. January 30, 2021 | Updated 14:56 IST
+
+
+***
+![What is Python? Worth learning in 2021 !!](https://external-preview.redd.it/xIXaN7x527DRH2dBZvGpbVBSJxy0lAgC2XXSLpHRccA.jpg?auto=webp&s=906f78f107cc555fd5ff05fd43a6c4ef45a8d672 "What is Python? Worth learning in 2021 !!")
+
+
+[What is Python? Worth learning in 2021 !!](https://www.reddit.com/r/Python/comments/l8k9nj/what_is_python_worth_learning_in_2021/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
