@@ -18467,3 +18467,50 @@
 > As most of the hackathons went virtual last year, it became easier to attend hackathons. Hence, I used to scroll through various hackathon listing websites to find new hackathons to attend. I used to post the upcoming hackathons on my college's server. I thought about automating it, and that's where I came up with the idea of creating HackBot. I also created a scraper for various websites that scraped the information about hackathons. Invite this bot to your server for upcoming hackathons notification.
 
 
+***
+![Biden environmental challenge: Filling vacant scientist jobs](https://s.abcnews.com/images/Technology/WireAP_86e0da5e06874b3a87b7f1bd40311177_16x9_992.jpg "Biden environmental challenge: Filling vacant scientist jobs")
+
+
+[Biden environmental challenge: Filling vacant scientist jobs](https://abcnews.go.com/Technology/wireStory/biden-environmental-challenge-filling-vacant-scientist-jobs-75581155)
+
+
+> Polluting factories go uninspected by the U.S. Environmental Protection Agency. Leadership positions sit vacant at the U.S. Geological Survey's climate science centers. And U.S. Department of Agriculture research into environmental issues important to farmers is unfinished. The ranks of scientists who carry out environmental research, enforcement and other jobs fell in several agencies — sharply in some — under former President Donald Trump, federal data shows. Veteran staffers say many retired, quit or moved to other agencies amid pressure from an administration they regarded as hostile to science and beholden to industry.
+
+
+***
+![Sri Lanka records 406 new COVID-19 cases](https://adaderanaenglish.s3.amazonaws.com/1612010372-Sri-Lanka-Covid-19-PCR-testing-L.jpg "Sri Lanka records 406 new COVID-19 cases")
+
+
+[Sri Lanka records 406 new COVID-19 cases](http://www.adaderana.lk/news/71180/sri-lanka-records-406-new-covid-19-cases)
+
+
+> January 30, 2021   06:06 pm - Sri Lanka's COVID-19 figures soared as 406 more positive cases were registered today (January 30).  As per statistics, the total number of Covid-19 infections confirmed so far in the country now stands at 62,851. Recoveries from the virus meanwhile climbed to 56,277 earlier today, as 879 more patients regained health. However, 6,269 active cases are still under medical care at selected hospitals and treatment centres located across the island. Total lives claimed by the pandemic outbreak in Sri Lanka sits at 305 at present.
+
+
+***
+![Musk's SpaceX violated its launch license in explosive Starship test: the Verge](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/Elon-Musk-Mars-SpaceX-2.jpg?ve=1&tl=1 "Musk's SpaceX violated its launch license in explosive Starship test: the Verge")
+
+
+[Musk's SpaceX violated its launch license in explosive Starship test: the Verge](https://www.foxbusiness.com/technology/musks-spacex-violated-its-launch-license-in-explosive-starship-test-the-verge)
+
+
+> SpaceX's first high-altitude test flight of its Starship rocket, which exploded last month while attempting to land after an otherwise successful test launch, violated the terms of its Federal Aviation Administration test license, the Verge reported on Friday, citing sources. An investigation was opened that week focusing on the explosive landing and on SpaceX's refusal to stick to the terms of what the FAA authorized, the Verge said. SpaceX did not immediately respond to a request for comment. A SpaceX Falcon 9 rocket on a resupply mission to the International Space Station lifts off from pad 39A at the Kennedy Space Center in Cape Canaveral, Fla.
+
+
+***
+[Fintech and Tech Talent: Migration and Remittances in The Middle East and Africa Region](https://thefintechtimes.com/fintech-and-tech-talent-migration-and-remittances-in-the-middle-east-and-africa-region/)
+
+
+> Fintech and Tech Talent: Brain Drain, Migration and Remittances in The Middle East and Africa Region #fintech #remittances #middleeast #africa The post Fintech and Tech Talent: Migration and Remittances in The Middle East and Africa Region appeared first on The Fintech Times.
+
+
+***
+![The hidden iPhone setting that can eat up all your storage in a flash](https://www.komando.com/wp-content/uploads/2021/01/iPhone-taking-pic-970x546.jpg "The hidden iPhone setting that can eat up all your storage in a flash")
+
+
+[The hidden iPhone setting that can eat up all your storage in a flash](https://www.komando.com/kims-column/hidden-raw-iphone-setting/776205/)
+
+
+> Disable this hidden setting to free up valuable storage space on your iPhone.
+
+
