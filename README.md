@@ -18136,3 +18136,44 @@
 > Subscribe Now! Facebook twitter google +
 
 
+***
+[Plaintiffs drop lawsuit over Facebook militia posts](https://www.mymotherlode.com/news/technology/1510868/plaintiffs-drop-lawsuit-over-facebook-militia-posts.html)
+
+
+> A federal lawsuit demanding that Facebook prevent militias and hate groups from using the site after a militia used the platform to draw armed people to anti-police brutality protests in Wisconsin is over
+
+
+***
+[Cash payments dying in Australia](https://www.couriermail.com.au/technology/more-supermarkets-ditch-cash-payments-for-digital-and-contactless-transactions/news-story/a49d851cb0bbfb6a4d0c15a625fe4c2f)
+
+
+> Cash is on its way out in Australia as stores turn their backs on it.
+
+
+***
+![The 5 best Amazon deals you can get this Friday](https://www.gannett-cdn.com/-mm-/925c90cac2950828bbb61819371c14292ee6081b/c=0-0-792-446/local/-/media/2021/01/13/USATODAY/usatsports/Reviewed.com-RvEW-22253-TrueTemper.png?width=1600&height=800&fit=crop "The 5 best Amazon deals you can get this Friday")
+
+
+[The 5 best Amazon deals you can get this Friday](https://www.usatoday.com/story/tech/reviewedcom/2021/01/29/amazon-deals-get-top-rated-exercise-bike-sled-snow-shovel-and-more/4184613001/)
+
+
+> The True Temper Mountain Mover offers a great blend of value and performance. (Photo: True Temper)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.It's finally Friday, and if you're looking to celebrate the weekend at hand, you've come to the right place! In honor of the two days of relaxation ahead, we've searched high and low to find some top-notch Amazon deals worth celebrating, and came up with some doozies.Get expert shopping advice delivered to your phone.
+
+
+***
+![Twitter CEO Jack Dorsey tweets cryptic link to a custom Android ROM](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/01/twitter-logo-hero-pixel-4-3.jpg "Twitter CEO Jack Dorsey tweets cryptic link to a custom Android ROM")
+
+
+[Twitter CEO Jack Dorsey tweets cryptic link to a custom Android ROM](https://www.androidcentral.com/twitter-ceo-jack-dorsey-tweets-cryptic-link-grapheneos)
+
+
+> Source: Joe Maring / Android Central As Google deals with its ongoing privacy battles, it continues to try and prove that its platform is open and that the company is on the side of the consumers. Just this month, Google was hit with one of many lawsuits, this time targeting its management of the Play Store. Recently, Google came under fire after coming to the rescue of Robinhood, which was bombarded with negative reviews on the Play Store and saw its rating drop to one-star. Google then removed around 100,000 negative reviews of the app, a move that was seen as support of Robinhood's questionable actions.
+
+
+***
+[AirPods Max，苹果年度最打脸产品？](http://www.tmtpost.com/4963165.html)
+
+
+> AirPods Max卖断货。
+
+
