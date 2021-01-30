@@ -18417,3 +18417,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![What is Bowser Jr. good for in Bowser's Fury? Quite a lot, actually.](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/super-mario-3d-world-bowsers-fury-cat-mario.jpg "What is Bowser Jr. good for in Bowser's Fury? Quite a lot, actually.")
+
+
+[What is Bowser Jr. good for in Bowser's Fury? Quite a lot, actually.](https://www.imore.com/bowsers-fury-what-can-bowser-jr-do)
+
+
+> Source: Nintendo The upcoming re-release of Super Mario 3D World comes with a variety of new changes from the Wii U version. One major difference is in the title: Super Mario 3D World + Bowser's Fury. It brings the Wii U's premiere Mario to the Nintendo Switch, as well as a brand new adventure titled Bowser's Fury. In Bowser's Fury, Mario is transported to Lake Lapcat, a beautiful island getaway complete with calm waters, friendly residents, and plenty of sunshine — that is, until Fury Bowser shows up, bringing all kinds of destruction in his wake.
+
+
+***
+![Get your doodle on with the best high-tech drawing tablet](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2020/02/wacom-cintiq-hero-38e9.jpg "Get your doodle on with the best high-tech drawing tablet")
+
+
+[Get your doodle on with the best high-tech drawing tablet](https://www.androidcentral.com/best-drawing-tablets)
+
+
+> Best Drawing Tablets Android Central 2021 The best drawing tablets combine the fluidity and versatility of freehand drawing with the precision of digital graphics. You need a tablet with the right stylus, pressure sensitivity, multi-touch display, screen size, low latency, and other specs to make your drawing experience as effortless as possible. We've chosen the most popular and well-reviewed models, both for specialized drawing tablets and all-around excellent tablets that support drawing apps.
+
+
+***
+![The Best VPNs to Protect Yourself Online](https://media.wired.com/photos/5e586f50ffd9380009895d8d/191:100/w_1280,c_limit/feature_art-best_vpn.jpg "The Best VPNs to Protect Yourself Online")
+
+
+[The Best VPNs to Protect Yourself Online](https://www.wired.com/story/best-vpn/)
+
+
+> Mullvad VPNMullvad is based in Sweden and first came to my attention because of its early support for WireGuard, a faster protocol for tunneling VPN traffic.Another thing I like is Mullvad's system for accepting cash payments. If you prefer to remain totally anonymous, you can generate a random account number, write that number down on a slip of paper, and mail it, along with cash, to Sweden. In theory, no one will be able to connect you to that account. (The truly paranoid will don a tinfoil hat, wear gloves, print from a public printer, and mail from a remote mailbox.
+
+
+***
+![Update Your iPhone and iPad Now If You Haven't Recently](https://media.wired.com/photos/60148a72fdde4b84d106d1e0/191:100/w_1280,c_limit/Sec_ru_1227851857.jpg "Update Your iPhone and iPad Now If You Haven't Recently")
+
+
+[Update Your iPhone and iPad Now If You Haven't Recently](https://www.wired.com/story/update-ios-14-active-exploit-netwalker-arrest-security-roundup/)
+
+
+> Believe it or not, GameStop stock wasn't the world's only story this week. The last few days have been tumultuous for cybersecurity as well, especially after revelations that [North Korean hackers targeted security pros](https://www.wired.com/story/north-korea-hackers-target-cybersecurity-researchers/) with a campaign of convincing DMs. Lots of folks shared screenshots of how they dodged the bullet, but it's still unclear how many more fell for the ruse. Speaking of falling, an international team-up of law enforcement agencies took down the notorious Emotet botnet this week, arresting two alleged members of the gang behind it and seizing servers in the process.
+
+
+***
+![HackBot](https://external-preview.redd.it/4fZAW4tbxjv3Z0QzZVWefsGayUsd_6RDDe0lP2-duuQ.jpg?auto=webp&s=f2ccbc28dddb58433bec73eeecb3e4a075224786 "HackBot")
+
+
+[HackBot](https://www.reddit.com/r/Python/comments/l8m8ys/hackbot_discord_bot_for_hackathons/)
+
+
+> As most of the hackathons went virtual last year, it became easier to attend hackathons. Hence, I used to scroll through various hackathon listing websites to find new hackathons to attend. I used to post the upcoming hackathons on my college's server. I thought about automating it, and that's where I came up with the idea of creating HackBot. I also created a scraper for various websites that scraped the information about hackathons. Invite this bot to your server for upcoming hackathons notification.
+
+
