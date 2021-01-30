@@ -18227,3 +18227,53 @@
 > The logo of Xiaomi is seen outside the brand's store in central Kiev, Ukraine. Image Credit: Reuters Xiaomi Corp. sued the US Defense and Treasury departments, challenging a blacklisting that blocks American investors from buying the Chinese smartphone giant's securities. The lawsuit came after the Defense Department determined earlier this month that China's biggest smartphone maker was affiliated with the People's Liberation Army. Beijing-based Xiaomi called the blacklisting "unconstitutional" and seeks a court ruling to reverse the designation, which was made in the waning days of the Trump administration.
 
 
+***
+![Xiaomi sues US seeking to reverse investment ban](https://images.indianexpress.com/2021/01/c819dc93-0f92-4136-865c-f28a1499b561.jpg "Xiaomi sues US seeking to reverse investment ban")
+
+
+[Xiaomi sues US seeking to reverse investment ban](https://indianexpress.com/article/technology/tech-news-technology/xiaomi-sues-us-seeking-to-reverse-investment-ban/)
+
+
+> Xiaomi Corp sued the US Defense and Treasury departments, challenging a blacklisting that blocks American investors from buying the Chinese smartphone giant's securities. The lawsuit came after the Defense Department determined earlier this month that China's biggest smartphone maker was affiliated with the People's Liberation Army. Beijing-based Xiaomi called the blacklisting 'unconstitutional' and seeks a court ruling to reverse the designation, which was made in the waning days of the Trump administration.
+
+
+***
+![Facebook to Develop Tools for Advertisers to Tackle Harmful Content](https://i.gadgets360cdn.com/large/facebook_afp_1581668437429.JPG "Facebook to Develop Tools for Advertisers to Tackle Harmful Content")
+
+
+[Facebook to Develop Tools for Advertisers to Tackle Harmful Content](https://gadgets.ndtv.com/social-networking/news/facebook-topic-exclusion-controls-tool-advertisers-tackle-harmful-content-hate-speech-fake-news-2360332)
+
+
+> Facebook said on Friday it would soon start developing "topic exclusion controls" on its platform to give advertisers greater ability to weed out certain types of content from appearing alongside their ads.This comes after companies including Coca-Cola and Starbucks boycotted Facebook in July for not doing enough to curb hate speech on its site following the death of George Floyd, an American Black man, in police custody.Advertisers have complained for years that big social media companies do very little to prevent ads from appearing alongside hate speech, fake news and other harmful content.
+
+
+***
+![The biggest exit for this L.A. venture firm may wind up being . . . canned water – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/02/LD-case-still-FULL-product-site.jpg?w=549 "The biggest exit for this L.A. venture firm may wind up being . . . canned water – TechCrunch")
+
+
+[The biggest exit for this L.A. venture firm may wind up being . . . canned water – TechCrunch](https://techcrunch.com/2021/01/29/the-biggest-exit-for-this-l-a-venture-firm-may-wind-up-being-canned-water/)
+
+
+> Earlier this week, Science Inc, the 10-year-old, L.A.-based incubator and venture firm, rolled out a blank-check company onto the Nasdaq, raising $270 for what firm founders Peter Pham and Mike Jones say will ultimately be used to take public a company in the mobile, entertainment or direct-to-consumer service space — or maybe one that combines all three. If they have one of their own portfolio companies in mind to take public, they wouldn't say in conversation yesterday. Still, Science would have some interesting candidates from which to choose.
+
+
+***
+![Software companies, startups bolster digital auto retailing tools » TechnoCodex](https://www.autonews.com/s3/files/styles/800x600/public/LACARGUY-MAIN_i.jpg "Software companies, startups bolster digital auto retailing tools » TechnoCodex")
+
+
+[Software companies, startups bolster digital auto retailing tools » TechnoCodex](https://technocodex.com/software-companies-startups-bolster-digital-auto-retailing-tools/)
+
+
+> LAcarGUY Family of Dealerships experimented with a number of distributors — Roadster, Modal, TagRail and Cox Automotive, amongst them — throughout its 12 shops in metro Los Angeles. In the early months of the pandemic when prospects could not go into shops, demand for digital retailing tools and distant supply soared, and the group bought about 250 automobiles on-line.'We really thought we were on to something, that we had cracked the code,' group proprietor Mike Sullivan stated. 'We hadn't cracked it at all.
+
+
+***
+![India Urged Not to Tighten Foreign Investment Rules for E-Commerce](https://i.gadgets360cdn.com/large/flipkart_reuters_full_1556772619566.JPG "India Urged Not to Tighten Foreign Investment Rules for E-Commerce")
+
+
+[India Urged Not to Tighten Foreign Investment Rules for E-Commerce](https://gadgets.ndtv.com/internet/news/india-foreign-investment-rules-amazon-flipkart-walmart-e-commerce-us-lobby-group-urge-not-to-change-tighten-2360327)
+
+
+> A US lobby group which represents firms including Amazon.com and Walmart has urged India not to tighten foreign investment rules for e-commerce companies again, according to a letter seen by Reuters.India is considering revising the rules after traders in the country accused Amazon's Indian division and Walmart's Flipkart of creating complex structures to bypass investment regulations, Reuters reported this month.The US companies deny any wrongdoing.India only allows foreign e-commerce players to operate as a marketplace to connect buyers and sellers but local traders say the US giants promote select sellers and offer deep discounts, which hurts business for smaller local retailers.
+
+
