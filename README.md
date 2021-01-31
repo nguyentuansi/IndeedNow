@@ -19187,3 +19187,40 @@
 > Dave Lee / Financial Times: More than 2,000 police and fire departments in the US have now partnered with Amazon's Ring, with 1,189 new departments added over the past year — Controversial surveillance network has doubled in size in the country in the past year — More than 2,000 police and fire departments in the US …
 
 
+***
+![Dodger Stadium vaccination site temporarily shut down due to protesters](https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/15ffdd75-3007-482c-8118-b065fde04685/thumbnail/1200x630/ca2a15d5ad65f4bf5132163786c0cf51/cbsn-fusion-protesters-temporarily-shut-down-covid-vaccine-site-dodger-stadium-los-angeles-thumbnail-636790-640x360.jpg "Dodger Stadium vaccination site temporarily shut down due to protesters")
+
+
+[Dodger Stadium vaccination site temporarily shut down due to protesters](https://www.cbsnews.com/video/protesters-temporarily-shut-down-covid-vaccine-site-dodger-stadium-los-angeles/)
+
+
+> No body in the article.
+
+
+***
+![TC Sessions](https://techcrunch.com/wp-content/uploads/2020/10/Justice2021-Fists-and-Logo-v3.jpg?w=537 "TC Sessions")
+
+
+[TC Sessions](https://techcrunch.com/events/tc-sessions-justice-2021/)
+
+
+> No body in the article.
+
+
+***
+![White House press secretary answers Twitter's questions about a First Cat and ice cream](https://mondrian.mashable.com/2021%252F01%252F31%252Fe6%252Fbb036378d0a440f5ac56ca3ffdeac12d.13f94.png%252F1200x630.png?signature=hTRWQQpFIm9BpPCLTKBnUqDvbLc= "White House press secretary answers Twitter's questions about a First Cat and ice cream")
+
+
+[White House press secretary answers Twitter's questions about a First Cat and ice cream](https://mashable.com/video/white-house-jen-psaki-answers-twitter-questions/)
+
+
+> Can we just take a moment to bask in this newly released White House video that's not just wholesome and informative, but also framed around answering social media's pressing questions of the day? White House press secretary Jen Psaki appeared in a Sunday video from the White House to answer questions posed by the people of Twitter. There's definitely some serious discussion here, including answers to direct questions about pandemic-fueled unemployment and plans for U.S. immigration. But this is Twitter, and people also had questions about a theoretical First Cat and Biden's enduring love of ice cream.
+
+
+***
+[Apple Silicon Macs](https://threedots.ovh/blog/2021/01/apple-silicon-macs/)
+
+
+> Apple Silicon Macs are general-purpose computers running macOS out of the box, with Apple not providing official support for 3rd-party operating systems. However, Apple doesn't block that from happening in any way. It's just run-of-the-mill undocumented hardware, with firmware preloaded so that we don't have to deal with it. (except for 3rd-party silicon, such as the Broadcom Wi-Fi firmware) On the big CPU core side for the M1: A very fast one, clocked low (3.2 GHz) on the Apple M1 machines. The little cores are no slouch either, being clocked at 2.
+
+
