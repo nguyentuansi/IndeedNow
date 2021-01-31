@@ -18896,3 +18896,50 @@
 > Asus Republic of Gamers (ROG), the brand behind the popular ROG gaming phone series, has announced the launch of the Asus ROG Academy in India. The competitive Esports training initiative will be India's first virtual academy program for upcoming gamers who are looking to be professionals. Through the initiative, Asus ROG will identify PC gamers through a screening process, and the selected individuals will be provided the necessary equipment, coaching, and even a stipend to prepare them for competitive Esport tournaments on a national, as well as international level.
 
 
+***
+[A look at Bilibili, the "YouTube for China", as it balances competition and cooperation with Alibaba and Tencent, both of which invested in the video platform (Zeyi Yang/Protocol)](http://www.techmeme.com/210131/p4#a210131p4)
+
+
+> Zeyi Yang / Protocol: A look at Bilibili, the “YouTube for China”, as it balances competition and cooperation with Alibaba and Tencent, both of which invested in the video platform — “Should Bilibili keep expanding and become a larger player, their relationship with Tencent will surely deteriorate.”
+
+
+***
+![5 unusual technologies that can prevent a global water crisis](https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F01%2F1-copy-66.jpg&signature=a0cf2b87c50eafa3662a612222ba0f90 "5 unusual technologies that can prevent a global water crisis")
+
+
+[5 unusual technologies that can prevent a global water crisis](https://theconversation.com/five-unusual-technologies-for-harvesting-water-in-dry-areas-154031)
+
+
+> Water scarcity is among the top five global risks affecting people's wellbeing. In water-scarce areas, the situation is grim. Conventional sources like snowfall, rainfall, river runoff, and easily accessible groundwater are being affected by climate change, and supplies are shrinking as demand grows. In these countries, water is a critical challenge to sustainable development and a potential cause of social unrest and conflict. Water scarcity also impacts traditional seasonal human migration routes and, together with other water insecurity factors, could reshape migration patterns.
+
+
+***
+![Sony PS5 Pulse 3D Wireless Headset review](https://resources.stuff.co.nz/content/dam/images/4/y/q/q/6/y/image.related.StuffLandscapeSixteenByNine.1420x800.4yqq6u.png/1612086871977.jpg "Sony PS5 Pulse 3D Wireless Headset review")
+
+
+[Sony PS5 Pulse 3D Wireless Headset review](https://www.stuff.co.nz/technology/300218646/sony-ps5-pulse-3d-wireless-headset-review)
+
+
+> REVIEW: The Sony PS5 Pulse 3D Wireless Headset is one of the best headsets for the PS5. Its comfortable design, easy to access PS5 controls, optimisation for Sony's new Tempest 3D AudioTech and its much lower price point make this headset, the PS5 headset to beat. Price: Wireless gaming headsets are always more expensive than wired headsets. Their ease of use and the ability to move around untethered to your console is a sought after feature that demands expensive hardware that raises the price. With this in mind, the Sony PS5 Pulse 3D Wireless Headset is surprisingly affordable at NZ$180.
+
+
+***
+![Work From Home: 93% Workers Have Taken More Responsibilities, But What About Salary?](https://im.indiatimes.in/content/2021/Jan/FB-Image-Quote_600abe7bc1655.jpg "Work From Home: 93% Workers Have Taken More Responsibilities, But What About Salary?")
+
+
+[Work From Home: 93% Workers Have Taken More Responsibilities, But What About Salary?](https://www.indiatimes.com/technology/news/over-93-percent-workers-reported-to-take-on-new-responsibilities-due-to-pandemic-532624.html)
+
+
+> The COVID-19 pandemic has been difficult for all of us. Many lost their jobs while many were hanging at their workplaces by a thread. Work from home became the norm and the line between work and home just vanished.  Getty ImagesSeveral people experienced mental health issues including stress, anxiety while also juggling insane and long work hours every day. And then there were some who got more responsibilities on their shoulders as a majority part of their workforce was laid off. More responsibilities on people's shouldersThis was revealed in a survey by Airtable, which stated that in the retail sector specifically, 93 percent of workers have revealed that they took on more responsibilities than before.
+
+
+***
+![WhatsApp To Telegram: How To Transfer Chat History From WhatsApp To Telegram](https://im.indiatimes.in/content/2021/Jan/Facebook-Image-28_601299cdb95b8.jpg "WhatsApp To Telegram: How To Transfer Chat History From WhatsApp To Telegram")
+
+
+[WhatsApp To Telegram: How To Transfer Chat History From WhatsApp To Telegram](https://www.indiatimes.com/technology/news/whatsapp-chat-history-to-telegram-app-533060.html)
+
+
+> WhatsApp's change in privacy policy resulted in a mass digital exodus, forcing its users to look for more secure alternatives. This meant people went and picked one of the two most secure and popular messaging platforms -- Signal and Telegram.  ReutersBut one thing all of these users experienced was the loss of their chat history when moving between platforms. This has also prevented many to jump the boat and stick with WhatsApp. However, now a report by Android Authority has revealed that Telegram has introduced a way to shift your chat history from WhatsApp.
+
+
