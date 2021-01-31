@@ -19040,3 +19040,53 @@
 > John Krasinski's first-ever opening monologue on Saturday Night Live was haunted by the ghost of The Office. As Krasinski set out to do his whole opening bit, a meta-bit took shape as SNL cast members stationed in the audience peppered him with questions (really, most of them are statements) about his time on the hit NBC series. And that, of course, led to an insistent demand for a Jim... er, that is John and Pam kiss. Even though Jenna Fischer, the actor who played Pam, was nowhere near the SNL set.
 
 
+***
+![TikTok sees a surge in anti-protest disinformation in Russia](https://assets2.rappler.com/2021/01/reuters-20210131-alexei-navalny-reuters-2021-01-22T165802Z_1889383900_RC24DL9L4ZNK_RTRMADP_3_RUSSIA-POLITICS-NAVALNY-TIKTOK-1612094789580.jpg "TikTok sees a surge in anti-protest disinformation in Russia")
+
+
+[TikTok sees a surge in anti-protest disinformation in Russia](https://www.rappler.com/technology/features/tiktok-sees-surge-anti-protest-disinformation-russia-coda-story)
+
+
+> Scores of social media influencers flooded Russian TikTok over the weekend in a coordinated effort to urge young people against attending rallies in support of jailed politician Alexey Navalny. In the lead up to protests in  over 100 cities  on Saturday, influencers with up to four million subscribers on the video sharing platform told their followers they could end up in jail for taking part in the demonstrations. 'I don't think anyone wants to end up in jail so guys, take care of yourselves and your health and think about the consequences,' warned @_Vira__ in a video posted to her more than four million followers on TikTok.
+
+
+***
+![Xiaomi may be developing smart glasses capable of phototherapy, says report](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/16128364369_05406a7e8a_b-483x271_1200_210131183506.jpeg "Xiaomi may be developing smart glasses capable of phototherapy, says report")
+
+
+[Xiaomi may be developing smart glasses capable of phototherapy, says report](https://www.indiatoday.in/technology/news/story/xiaomi-may-be-developing-smart-glasses-capable-of-phototherapy-says-report-1764502-2021-01-31)
+
+
+> The Chinese tech giant, Xiaomi, has come up with two patents including one for smart glasses which can integrate detection and treatment. Akarsh Verma | January 31, 2021 | Updated 18:20 IST
+
+
+***
+![Tech Mahindra to cut BPO staff by 5,000 in FY21](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/techmahindra_505_240220083810_310121074725.jpg "Tech Mahindra to cut BPO staff by 5,000 in FY21")
+
+
+[Tech Mahindra to cut BPO staff by 5,000 in FY21](https://www.businesstoday.in/sectors/jobs/tech-mahindra-to-cut-bpo-staff-by-5000-in-fy21/story/429694.html)
+
+
+> Tech Mahindra is set to remove about 5,000 employees from its business process services (BPS) division to 38,000 in the current financial year 2020-21 BusinessToday.In | January 31, 2021 | Updated 20:03 IST Tech Mahindra to remove about 5,000 employees from BPS division
+
+
+***
+![Neighbourhood-level social networking app seeks to bring Emirati communities closer](https://sm.mashable.com/t/mashable_me/photo/default/shutterstock-443669671_8azu.1200.jpg "Neighbourhood-level social networking app seeks to bring Emirati communities closer")
+
+
+[Neighbourhood-level social networking app seeks to bring Emirati communities closer](https://me.mashable.com/tech/12743/neighbourhood-level-social-networking-app-seeks-to-bring-emirati-communities-closer)
+
+
+> Although government policies, advanced monitoring tech and mobile devices created a framework for tackling covid globally, on ground implementation was largely driven by public awareness and collaboration among communities. The Emirates is home to several expats from different parts of the world, but the social interaction between people even residing close to each other was disrupted due to social distancing concerns during and after lockdowns. Two friends who grew up in the Emirates were aware of people from different cultures taking time to connect as neighbours, and witnessed gaps widening during the pandemic.
+
+
+***
+![I wrote an async TCP Port Scanner in Python 3 that uses only built-in libraries and is up to 20x faster than Nmap.](https://external-preview.redd.it/wWv8TtnXzDQCwSGhnLthOLDPY7piEtFGULkk2MSzU7Q.jpg?auto=webp&s=3f2e8770ab99919f9627869fcfe6a23a103d04bb "I wrote an async TCP Port Scanner in Python 3 that uses only built-in libraries and is up to 20x faster than Nmap.")
+
+
+[I wrote an async TCP Port Scanner in Python 3 that uses only built-in libraries and is up to 20x faster than Nmap.](https://www.reddit.com/r/Python/comments/l9f4a0/i_wrote_an_async_tcp_port_scanner_in_python_3/)
+
+
+> This is a simple concept of a TCP/IP full-connect scanner that uses Python's asyncio framework to perform a substantial number of connections to ports on multiple hosts in just a few seconds. Although very simple, this application can be used to quickly scan ports in ethical hacking and network administration tasks, power the back-end of live-host monitoring applications or even just serve as an example for people who want to understand a bit more of the (rather confusing, I'd say) asyncio framework.
+
+
