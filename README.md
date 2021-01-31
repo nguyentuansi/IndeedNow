@@ -18943,3 +18943,53 @@
 > WhatsApp's change in privacy policy resulted in a mass digital exodus, forcing its users to look for more secure alternatives. This meant people went and picked one of the two most secure and popular messaging platforms -- Signal and Telegram.  ReutersBut one thing all of these users experienced was the loss of their chat history when moving between platforms. This has also prevented many to jump the boat and stick with WhatsApp. However, now a report by Android Authority has revealed that Telegram has introduced a way to shift your chat history from WhatsApp.
 
 
+***
+![Google Chrome is introducing Tab Grouping on Android: Here's how to use it](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/chrome-para-android-483x271_1200_210131160612.jpeg "Google Chrome is introducing Tab Grouping on Android: Here's how to use it")
+
+
+[Google Chrome is introducing Tab Grouping on Android: Here's how to use it](https://www.indiatoday.in/technology/news/story/google-chrome-is-introducing-tab-grouping-on-android-here-s-how-to-use-it-1764465-2021-01-31)
+
+
+> Highlights The Tab groups feature on Chrome is now rolling out on the Android platform. The update also brings a grid tab switcher to Chrome. Tab groups have started to roll out more widely with the Chrome v88 update that was released last week. Google Chrome developed by Google is one of the fastest and most widely used web browsers out there. There is no doubt that Google is always coming up with new updates to make it more compatible and user friendly for its users. Google earlier this year released the new version of Chrome that is called 'Chrome 88'.
+
+
+***
+![Indian TikTok rivals flooded with CVs as China's ByteDance fires hundreds amid ban](https://static.theprint.in/wp-content/uploads/2021/01/Bolo-Indya.jpg "Indian TikTok rivals flooded with CVs as China's ByteDance fires hundreds amid ban")
+
+
+[Indian TikTok rivals flooded with CVs as China's ByteDance fires hundreds amid ban](https://theprint.in/tech/indian-tiktok-rivals-flooded-with-cvs-as-chinas-bytedance-fires-hundreds-amid-ban/595795/)
+
+
+> A job advertisement released by Indian video app Bolo Indya on 28 January | Twitter | @Bolo_Indya Text Size: New Delhi: Bolo Indya, an Indian short video platform, has said it received 4,800 job requests in 36 hours — between 28 and 29 January — after Chinese giant ByteDance, which owns TikTok, began layoffs in India last week. Bengaluru-based lifestyle video app Trell said it hired around 50 ex-ByteDancers within 48 hours of the layoffs, while Chingari, another Bengaluru-based video-sharing platform, claimed it had received over 100 resumes from former employees of the Chinese company by 29 January.
+
+
+***
+![Impact and numbers: the black women streamers to watch](https://cdn.mos.cms.futurecdn.net/rvxPr3XETFu4DAsjEusSHB-1200-80.jpg "Impact and numbers: the black women streamers to watch")
+
+
+[Impact and numbers: the black women streamers to watch](https://www.techradar.com/news/impact-and-numbers-the-black-women-streamers-to-watch)
+
+
+> The end of 2020 saw a conversation take place within the gaming community which took a nasty turn for the worse. It was about black female representation in gaming, and the support – or perceived lack thereof – received by black women from games companies and the community at large.We're going to do our best to give a rough breakdown of events and provide some clarity to a difficult issue. To conclude we'll list ten great well-established black female content creators you might want to check out.
+
+
+***
+![The Best Apps to Build Better Habits (and Stick to Them)](https://media.wired.com/photos/6014a1de02d432c1239d7cb8/191:100/w_1280,c_limit/best-habit-apps-580504923.jpg "The Best Apps to Build Better Habits (and Stick to Them)")
+
+
+[The Best Apps to Build Better Habits (and Stick to Them)](https://www.wired.com/story/best-apps-build-habits-stick-to-them/)
+
+
+> The start of a new year is as good a time as any to think about some of the positive, healthy habits you'd like to develop—and maybe some of the negative, unhealthy ones you'd like to leave behind. Perhaps you've started with good intentions and since had a slip, or you are struggling to keep up a run of several days sticking to the same routine, which is especially understandable in the midst of a global pandemic.Don't give up on developing those good habits, because there are plenty of apps to help you meet your goals: From simple to complex, from stand-off to hands-on, there's enough variety here for everyone to find a habit-forming app that suits them.
+
+
+***
+![Sweet Jesus, Can Someone Just Tell Me What to Cook Every Day?](https://media.wired.com/photos/6014a1c11a59aad9f931d16d/191:100/w_1280,c_limit/Gear-Food-1250426422.jpg "Sweet Jesus, Can Someone Just Tell Me What to Cook Every Day?")
+
+
+[Sweet Jesus, Can Someone Just Tell Me What to Cook Every Day?](https://www.wired.com/story/rants-and-raves-five-weeknight-dishes/)
+
+
+> One of the best perks of being a Seattle Public Library member is a service called Your Next 5 Books. Fill out a form, describe some favorite books and authors and what you're in the mood for, and you get a response—with not only five suggestions, but also reasons why the library's team of recommenders thinks you'll enjoy them. It lightens the cognitive load of choosing what to read, and you end up with some works you would never have found on your own. It's a bit like an amazingly well-read friend handing you a couple of books saying, Here, you'll like these.
+
+
