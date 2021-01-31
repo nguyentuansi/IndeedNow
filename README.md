@@ -18705,3 +18705,50 @@
 > Subscribe Now! Facebook twitter google +
 
 
+***
+![Dell offers a one-stop solution for the tech needs of Small businesses](https://cdn.mos.cms.futurecdn.net/aupCFCy3GP4KQ5mSK48LnQ-1200-80.jpg "Dell offers a one-stop solution for the tech needs of Small businesses")
+
+
+[Dell offers a one-stop solution for the tech needs of Small businesses](https://www.techradar.com/news/dell-offers-a-one-stop-solution-for-the-tech-needs-of-small-businesses)
+
+
+> (Image credit: Dell) When it comes to enterprise IT requirements, the question is not just about offering devices or providing seamless support. With the stake so high, it is imperative for organizations to bank upon solution providers that can offer 360-degree support - right from meeting the gruelling demands of operations to the senior executives in the organization looking for impactful devices.This is where Dell outperforms its peers and offers computing solutions that meet the requirements of each individual depending on the role they perform in the organization and ensures enterprise-grade security even though the individual is working from the office, is on the move or even working remotely as a part of the new normal.
+
+
+***
+![We Ranked These Modernized Portraits Of US Presidents By Bangability](https://www.themarysue.com/wp-content/uploads/2021/01/pjimage-65-1200x675.jpg "We Ranked These Modernized Portraits Of US Presidents By Bangability")
+
+
+[We Ranked These Modernized Portraits Of US Presidents By Bangability](https://www.themarysue.com/we-ranked-these-modernized-portraits-of-u-s-presidents-by-bangability/)
+
+
+> What goes through our minds when we think of our nation's founding fathers? Many of us picture serious-looking men in tri-corner hats and wigs, stiff and unsmiling in rigid poses. These are images meant to command awe and respect, not relatability or horniness. That would come later with the invention of photography, which humanized our leaders and leant an air of f-ckability to their public image. We've often wondered which founding fathers could get it, and thanks to a Twitter thread by comic book writer Magdalene Visaggio (Kim & Kim, Vagrant Queen), we now know.
+
+
+***
+[VAMS, a CDC website built by Deloitte at a cost of $44M to manage rollout of the COVID-19 vaccine, has been abandoned by states due to bugs and problems (Cat Ferguson/MIT Technology Review)](http://www.techmeme.com/210130/p13#a210130p13)
+
+
+> Cat Ferguson / MIT Technology Review: VAMS, a CDC website built by Deloitte at a cost of $44M to manage rollout of the COVID-19 vaccine, has been abandoned by states due to bugs and problems — The CDC ordered software that was meant to manage the vaccine rollout. Instead, it has been plagued by problems and abandoned by most states.
+
+
+***
+![11 plant delivery services and garden subscriptions compared: Bloomscape, The Sill, My Garden Box and more](https://cnet4.cbsistatic.com/img/MszJLbUJFuy7XrHjqplbGkPzWHU=/1200x630/2020/07/08/c680f808-6a19-4de8-8f81-8cbbb8136729/gardening-subscriptions-header.jpg "11 plant delivery services and garden subscriptions compared: Bloomscape, The Sill, My Garden Box and more")
+
+
+[11 plant delivery services and garden subscriptions compared: Bloomscape, The Sill, My Garden Box and more](https://www.cnet.com/news/plant-delivery-services-and-garden-subscriptions-compared/)
+
+
+> If you think it's too late in the year to get planting, think again. Gardening experts suggest planting certain trees, flowers, grass, produce and flower bulbs in the fall for maximum output, come spring. This all does heavily depend on the specific plant, however, as well as your location and climate so do some research to be sure. Now, as much as we miss the smell of Home Depot's garden center, making fewer non-essential trips to crowded stores is key to keeping cases of you-know-what down. Instead, take advantage of these great online plant delivery and garden box services that will send seeds, seedlings, flower bulbs, chutes and even full-grown plants along with instructions for care, gardening accessories and safe growing chemicals to your door.
+
+
+***
+![iPad Pro scrolling stutter and frame drops iOS 14.4](https://images.macrumors.com/social/?t=2282646&v=6 "iPad Pro scrolling stutter and frame drops iOS 14.4")
+
+
+[iPad Pro scrolling stutter and frame drops iOS 14.4](https://forums.macrumors.com/threads/ipad-pro-scrolling-stutter-and-frame-drops-ios-14-4.2282646/)
+
+
+> Nov 16, 2010 3,055 2,668 Michigan Ever since updating my 2020 iPad Pro to iPad OS 14.4 I've been seeing terrible scrolling lag all over the OS. Doesn't matter what app. Every few minutes it almost looks like pro motion is off and scrolling stutters and skips frames. I've already did a reset all settings, restarted, etc. Not sure if the nuclear option of a full restore will do anything as I'm starting to see some similar issues popping up around the web. If this is a OS issue then shame on apple because pro motion is essentially useless.
+
+
