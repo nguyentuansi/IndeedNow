@@ -18658,3 +18658,50 @@
 > Oct 13, 2011 1,563 521 Brooklyn NY I notice that all my friends who use MacBook keep them plugged in all the time with the lid down. I use mine plugged in topped at 100% but unplug it and put it in my carry case when not using it. After a few days I use it on battery not letting it get below 50% then charging it to 80%. I also use it plugged in when on Zoom and Webex calls. So isn't my friends doing more harm to their MacBook or am I doing better with the battery. Feb 5, 2017 2,149 3,713 Glasgow, Scotland So isn't my friends doing more harm to their MacBook or am I doing better with the battery.
 
 
+***
+!["[Discussion]" How to find False discovery rate of a ML model? Situation explained below](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png ""[Discussion]" How to find False discovery rate of a ML model? Situation explained below")
+
+
+["[Discussion]" How to find False discovery rate of a ML model? Situation explained below](https://www.reddit.com/r/MachineLearning/comments/l8zsjt/discussion_how_to_find_false_discovery_rate_of_a/)
+
+
+> Lets say:- ML Model denied 1000 transactions I randomly picked 400 accounts and checked if the model denied good user or bad user. Good user denied- 110 Bad user denied - 290 How will I calculate False Discover rate of the model. Can it be based on the sample that I checked manually and then extrapolate ?
+
+
+***
+![Mighty Amazon looks all but unassailable as Covid continues](https://i.guim.co.uk/img/media/4f143cb0bffbfee8fd6d0d8e99ef690a6bfba1eb/0_358_5833_3499/master/5833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=e56248cd3a6d7f51491ee9554ecfdc34 "Mighty Amazon looks all but unassailable as Covid continues")
+
+
+[Mighty Amazon looks all but unassailable as Covid continues](http://www.theguardian.com/technology/2021/jan/31/mighty-amazon-looks-all-but-unassailable-as-covid-continues)
+
+
+> T he earliest references to the 'one-stop shop' emerged during the first decades of 20th century as the fast-growing US economy spurred rapid retail innovation. A single location for various products provides obvious benefits: removing the hassle of travelling around town to visit different stores. Jeff Bezos redefined that logic for the internet age, making Amazon a dominant (and perhaps ambivalent ) force first in selling books, and then in pretty much everything else. Before 2020 Amazon was a phenomenon, but the coronavirus pandemic has made it all but ubiquitous.
+
+
+***
+[PS5 stock checker – Playstation consoles update at BT, Smyths, Argos, Currys and GAME plus Amazon UK restock on MONDAY](https://www.thesun.ie/tech/6169841/ps5-stock-checker-uk-playstation-argos-amazon-currys-game-live/)
+
+
+> SINCE its release in November, gamers have found it near impossible to bag themselves the coveted PS5. New stock drops at the likes of Argos, GAME, and Amazon are snapped up before most us even have a chance to get on the websites, so it pays to be super-fast when rumours of an imminent release […]
+
+
+***
+![PM ਮੋਦੀ ਦੇ ਬਿਆਨ ਤੇ ਬੋਲੇ ਨਰੇਸ਼ ਟਿਕੈਤ- ਸਾਡੀ ਛੋਟੀ ਜਿਹੀ ਮੰਗ, ਤਿੰਨੇ ਕਾਨੂੰਨ ਵਾਪਸ ਲਓ](https://static.jagbani.com/multimedia/2021_1image_01_58_463915571naresh-ll.jpg "PM ਮੋਦੀ ਦੇ ਬਿਆਨ ਤੇ ਬੋਲੇ ਨਰੇਸ਼ ਟਿਕੈਤ- ਸਾਡੀ ਛੋਟੀ ਜਿਹੀ ਮੰਗ, ਤਿੰਨੇ ਕਾਨੂੰਨ ਵਾਪਸ ਲਓ")
+
+
+[PM ਮੋਦੀ ਦੇ ਬਿਆਨ ਤੇ ਬੋਲੇ ਨਰੇਸ਼ ਟਿਕੈਤ- ਸਾਡੀ ਛੋਟੀ ਜਿਹੀ ਮੰਗ, ਤਿੰਨੇ ਕਾਨੂੰਨ ਵਾਪਸ ਲਓ](https://jagbani.punjabkesari.in/national/news/naresh-tikait---our-small-demand--take-back-all-three-laws-1266128)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![ਸ਼੍ਰੋਮਣੀ ਕਮੇਟੀ ਨੇ ਅੰਮ੍ਰਿਤਧਾਰੀ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ 1. 31 ਕਰੋੜ ਦਾ ਵੰਡਿਆ ਵਜ਼ੀਫ਼ਾ](https://static.jagbani.com/multimedia/2021_1image_02_27_195351141ghrffg-ll.jpg "ਸ਼੍ਰੋਮਣੀ ਕਮੇਟੀ ਨੇ ਅੰਮ੍ਰਿਤਧਾਰੀ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ 1. 31 ਕਰੋੜ ਦਾ ਵੰਡਿਆ ਵਜ਼ੀਫ਼ਾ")
+
+
+[ਸ਼੍ਰੋਮਣੀ ਕਮੇਟੀ ਨੇ ਅੰਮ੍ਰਿਤਧਾਰੀ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ 1. 31 ਕਰੋੜ ਦਾ ਵੰਡਿਆ ਵਜ਼ੀਫ਼ਾ](https://jagbani.punjabkesari.in/majha/news/the-shiromani-committee-distributed-scholarships-1266131)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
