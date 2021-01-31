@@ -18846,3 +18846,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Social media platform Reddit hit by outages in the U.S.](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/webp_1200_210131123838.net-resizeimage-483x271.png "Social media platform Reddit hit by outages in the U.S.")
+
+
+[Social media platform Reddit hit by outages in the U.S.](https://www.indiatoday.in/technology/news/story/social-media-platform-reddit-hit-by-outages-in-the-u-s-1764417-2021-01-31)
+
+
+> Highlights Several Reddit users reported problems logging in to Reddit on Saturday. Reddit has been at the center of controversy this week after users from the r/WallStreetBets subreddit kicked off a stock-buying frenzy. The stock buying frenzy has led to a fierce debate with many on Wall Street calling it market manipulation. Users in both the US and Canada reported outages on Reddit for a short period on Saturday, with the company admitting there have been "higher error rates" this week amidst newfound attention on the r/WallStreetBets subreddit.
+
+
+***
+![Mark Zuckerberg talks to Australian lawmakers regarding the new media rules](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202101/41793468182_2f334dbd33_b-647x363.jpeg?IMuPNmCqDI1huHDH2EGBXxtGMm7YYGdh "Mark Zuckerberg talks to Australian lawmakers regarding the new media rules")
+
+
+[Mark Zuckerberg talks to Australian lawmakers regarding the new media rules](https://www.indiatoday.in/technology/news/story/mark-zuckerberg-talks-to-australian-lawmakers-regarding-the-new-media-rules-1764428-2021-01-31)
+
+
+> Facebook chief executive Mark Zuckerberg called Australian lawmakers last week to discuss rules that would make Internet giants pay news outlets for content but failed to persuade them to change policy, the country's Treasurer said on Sunday (January 31st). Zuckerberg "reached out to talk about the code and the impact on Facebook" and a constructive discussion followed last week between the social media billionaire, Australian Treasurer Josh Frydenberg, and communications minister Paul Fletcher. 'No, Mark Zuckerberg didn't convince me to back down if that's what you're asking,' Frydenberg told the Australian Broadcasting Corp, without divulging further details of the meeting.
+
+
+***
+![Why Robinhood Disabled Buys but not Sells](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Why Robinhood Disabled Buys but not Sells")
+
+
+[Why Robinhood Disabled Buys but not Sells](https://www.reddit.com/r/technology/comments/l97fuq/why_robinhood_disabled_buys_but_not_sells/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![India could introduce legislation to ban cryptocurrencies](https://images.indianexpress.com/2021/01/Cryptocurrency-ban-in-India.jpg "India could introduce legislation to ban cryptocurrencies")
+
+
+[India could introduce legislation to ban cryptocurrencies](https://indianexpress.com/article/technology/tech-news-technology/india-could-introduce-legislation-to-ban-cryptocurrencies-7168726/)
+
+
+> India plans to introduce a bill seeking to prohibit all private cryptocurrencies in the country during the budget session of parliament that began Friday. The proposed law will provide a framework for the creation of an official digital currency to be issued by the Reserve Bank of India and allow certain exceptions to promote blockchain, the underlying technology of cryptocurrency and its uses, according to a bulletin of the lower house of parliament. The central bank is looking into the need for a digital version of the fiat currency and how to implement it.
+
+
+***
+![Asus to develop local Esports talent with ROG Academy in India](https://images.indianexpress.com/2021/01/Asus-ROG-Academy.jpg "Asus to develop local Esports talent with ROG Academy in India")
+
+
+[Asus to develop local Esports talent with ROG Academy in India](https://indianexpress.com/article/technology/gaming/asus-to-develop-local-esports-talent-with-rog-academy-in-india-7168654/)
+
+
+> Asus Republic of Gamers (ROG), the brand behind the popular ROG gaming phone series, has announced the launch of the Asus ROG Academy in India. The competitive Esports training initiative will be India's first virtual academy program for upcoming gamers who are looking to be professionals. Through the initiative, Asus ROG will identify PC gamers through a screening process, and the selected individuals will be provided the necessary equipment, coaching, and even a stipend to prepare them for competitive Esport tournaments on a national, as well as international level.
+
+
