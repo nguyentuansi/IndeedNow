@@ -19140,3 +19140,50 @@
 > No body in the article.
 
 
+***
+![Budget 2021: Earn less than Rs 10 lakh? Here's what you can expect](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/budget_17_505_010221122423.jpg "Budget 2021: Earn less than Rs 10 lakh? Here's what you can expect")
+
+
+[Budget 2021: Earn less than Rs 10 lakh? Here's what you can expect](https://www.businesstoday.in/union-budget-2021/expectations/budget-2021-earn-less-than-rs-10-lakh-heres-what-you-can-expect/story/429699.html)
+
+
+> Story The finance minister has an unenvious task of balancing government's revenues, which have been hit by the pandemic, and boosting consumption to build on the green shoots of recovery seen in the economy Rai Vinaykumar | February 1, 2021 | Updated 00:43 IST Finance Minister Nirmala Sitharaman will present Union Budget 2021-22 in Parliament today
+
+
+***
+![Budget 2021: What is Bank Investment Company?](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/budget_19_505_010221123026.jpg "Budget 2021: What is Bank Investment Company?")
+
+
+[Budget 2021: What is Bank Investment Company?](https://www.businesstoday.in/union-budget-2021/expectations/budget-2021-what-is-bank-investment-company/story/429701.html)
+
+
+> Story The Centre's stake in some of the state-run banks, including Life Insurance Corporation of India's stake, has risen above 90 per cent. Consequently, the Centre can either abstain from capital raising plans of these banks or set up a BIC Rai Vinaykumar | February 1, 2021 | Updated 00:38 IST Finance Minister Nirmala Sitharaman will present Union Budget 2021-22 in Parliament today
+
+
+***
+![Get ready for the future with the best 5G phones you can buy today](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/galaxy-s21-ultra-review-11.jpg "Get ready for the future with the best 5G phones you can buy today")
+
+
+[Get ready for the future with the best 5G phones you can buy today](https://www.androidcentral.com/best-5g-phones)
+
+
+> Source: Hayato Huseman / Android Central Best 5G Phones Android Central 2021 New technology works best when everyone commits to it, and in 2021, 5G has gone from marketing hype to a legit feature. In other words, you'll want to find the best 5G phones to future-proof yourself. A ton of support from carriers and smartphone companies is going to flood the market with 5G-capable phones this year. 5G isn't everywhere (yet), but if you live in a place with a 5G network, these are the best 5G phones you can buy, although the Galaxy S21 Ultra tops our list.
+
+
+***
+![Tessa Thompson and Ruth Negga make for a riveting pair in 'Passing'](https://mondrian.mashable.com/2021%252F01%252F31%252F80%252F719d1b79ae4b41fca7d0bdcfc67b04c7.2f2a5.jpg%252F1200x630.jpg?signature=eigAdLShjz0EWH180Te7lyK8c-4= "Tessa Thompson and Ruth Negga make for a riveting pair in 'Passing'")
+
+
+[Tessa Thompson and Ruth Negga make for a riveting pair in 'Passing'](https://mashable.com/article/passing-tessa-thompson-movie-review/)
+
+
+> It takes a moment for Passing to reveal itself. At first, the screen is just a white blur, and only gradually do shapes and sound begin to emerge: shoes, voices, a street. Eventually, we're able to place ourselves in 1920s New York, and pinpoint Irene (Tessa Thompson) as our protagonist.  But the disorientation of those first moments never quite fades. Though it's based on a 1929 novella by Nella Larsen, and shot in the elegant black-and-white and boxy 4:3 aspect ratio of classic Hollywood, Passing feels thoroughly modern in its exploration of the blurred lines demarcating race, class, gender, and sexuality.
+
+
+***
+[More than 2,000 police and fire departments in the US have now partnered with Amazon's Ring, with 1,189 new departments added over the past year (Dave Lee/Financial Times)](http://www.techmeme.com/210131/p8#a210131p8)
+
+
+> Dave Lee / Financial Times: More than 2,000 police and fire departments in the US have now partnered with Amazon's Ring, with 1,189 new departments added over the past year — Controversial surveillance network has doubled in size in the country in the past year — More than 2,000 police and fire departments in the US …
+
+
