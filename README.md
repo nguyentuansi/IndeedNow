@@ -18752,3 +18752,50 @@
 > Nov 16, 2010 3,055 2,668 Michigan Ever since updating my 2020 iPad Pro to iPad OS 14.4 I've been seeing terrible scrolling lag all over the OS. Doesn't matter what app. Every few minutes it almost looks like pro motion is off and scrolling stutters and skips frames. I've already did a reset all settings, restarted, etc. Not sure if the nuclear option of a full restore will do anything as I'm starting to see some similar issues popping up around the web. If this is a OS issue then shame on apple because pro motion is essentially useless.
 
 
+***
+![Facebook's Zuckerberg reached out to Australian lawmakers over new media rules](https://assets2.rappler.com/2021/01/reuters-012821-facebook-1612063830678.jpg "Facebook's Zuckerberg reached out to Australian lawmakers over new media rules")
+
+
+[Facebook's Zuckerberg reached out to Australian lawmakers over new media rules](https://www.rappler.com/technology/social-media/facebook-zuckerberg-reached-out-australian-lawmakers-new-media-rules)
+
+
+> Facebook Inc CEO Mark Zuckerberg called Australian lawmakers last week to discuss rules that would make internet giants pay news outlets for content but failed to persuade them to change policy, the country's Treasurer said on Sunday, January 31. Zuckerberg "reached out to talk about the code and the impact on Facebook" and a constructive discussion followed last week between the social media billionaire, Australian Treasurer Josh Frydenberg and communications minister Paul Fletcher. "No, Mark Zuckerberg didn't convince me to back down if that's what you're asking," Frydenberg told the Australian Broadcasting Corp , without giving further details of the meeting.
+
+
+***
+[I Developed a Covid-19 Dataset generator](https://www.reddit.com/r/Python/comments/l940on/i_developed_a_covid19_dataset_generator/)
+
+
+> Developed this last year, i just forgot to share it with other Pythonistas. As a beginner Pythonista, I developed this, because I got so tired of searching on the web of how worse the virus could get. So I developed one for myself, to monitor it anytime i want. It also contains matplotlib to plot all data into a pie chart. I hope you like it. Here's the repo: https://github.com/KungPaoChick/CovidMonitor.git submitted by /u/Kungger [link] [comments]
+
+
+***
+![Go from 0 coding experience to scraping airbnb.com in under 3 hours](https://external-preview.redd.it/keIcuVUu11bXEjtoVtz6qAXT_mfjXnzSpqDLcbWjHAI.jpg?auto=webp&s=dfee63076651bf5c4ee2b28507257401f70aec1e "Go from 0 coding experience to scraping airbnb.com in under 3 hours")
+
+
+[Go from 0 coding experience to scraping airbnb.com in under 3 hours](https://www.reddit.com/r/Python/comments/l932of/go_from_0_coding_experience_to_scraping_airbnbcom/)
+
+
+> Hey everyone 👋🏻 Inspired by my experience teaching myself to code and then teaching Python at General Assembly, I just launched Like I Am Five last week to teach people to code…well…like they're 5 🤓. Each course teaches a practical Python skill (like web scraping) to people with 0 technical experience in less than 4 hours. I'd love some feedback on the site if you all are willing to share! I also made a coupon code ('REDDIT') for 70% off if you want to support the hustle and help me pay for groc
+
+
+***
+![How to record your phone screen on an Android phone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/screen-recording-1.jpg "How to record your phone screen on an Android phone")
+
+
+[How to record your phone screen on an Android phone](https://www.androidcentral.com/how-record-your-phone-screen-android-phone)
+
+
+> Source: Harish Jonnalagadda / Android Central Screenshots are great for sharing information that's on your screen, but if you're trying to highlight a bug or troubleshoot something, screen recording is much more useful. Screen recording is now baked into Android by default, and most third-party manufacturers — including Samsung, Nokia, Motorola, OnePlus, and Xiaomi, — have their own take on the feature. So here's how you can get started with recording your phone screen. Samsung makes the best Android phones, and with One UI, it offers one of the most feature-rich interfaces on Android.
+
+
+***
+![Facebook's Zuckerberg reached out to Australian lawmakers over new media rules](https://i-invdn-com.akamaized.net/news/LYNXMPEE040EX_L.jpg "Facebook's Zuckerberg reached out to Australian lawmakers over new media rules")
+
+
+[Facebook's Zuckerberg reached out to Australian lawmakers over new media rules](https://www.investing.com/news/technology-news/facebooks-zuckerberg-reached-out-to-australian-lawmakers-over-new-media-rules-2404318)
+
+
+> 2/2 © Reuters. Newspapers are seen for sale at a shop in Sydney 2/2 SYDNEY (Reuters) - Facebook Inc (NASDAQ:) CEO Mark Zuckerberg called Australian lawmakers last week to discuss rules that would make internet giants pay news outlets for content but failed to persuade them to change policy, the country's Treasurer said on Sunday. Zuckerberg "reached out to talk about the code and the impact on Facebook" and a constructive discussion followed last week between the social media billionaire, Australian Treasurer Josh Frydenberg and communications minister Paul Fletcher.
+
+
