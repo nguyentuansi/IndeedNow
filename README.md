@@ -18799,3 +18799,50 @@
 > 2/2 © Reuters. Newspapers are seen for sale at a shop in Sydney 2/2 SYDNEY (Reuters) - Facebook Inc (NASDAQ:) CEO Mark Zuckerberg called Australian lawmakers last week to discuss rules that would make internet giants pay news outlets for content but failed to persuade them to change policy, the country's Treasurer said on Sunday. Zuckerberg "reached out to talk about the code and the impact on Facebook" and a constructive discussion followed last week between the social media billionaire, Australian Treasurer Josh Frydenberg and communications minister Paul Fletcher.
 
 
+***
+![Best PS5 deals for January 2021: Here's where to buy the new PlayStation 5](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/ps5-all-digital-edition.jpg "Best PS5 deals for January 2021: Here's where to buy the new PlayStation 5")
+
+
+[Best PS5 deals for January 2021: Here's where to buy the new PlayStation 5](https://www.androidcentral.com/best-ps5-deals)
+
+
+> The all-new PlayStation 5 is officially available for purchase, but finding a retailer that actually has stock of the new console available to buy isn't such an easy task just yet. With that being said, there are still plenty of opportunities to pick up the new PlayStation 5 or the PlayStation 5 Digital Edition if you give it just a bit of time and know where to keep looking. As of January 2021, we're noticing that the PlayStation 5 generally goes out of stock on the same day as it becomes available for purchase at most major online retailers.
+
+
+***
+[PUBG game vs FAU-G game EXPLAINED: Know what's the difference](https://www.zeebiz.com/technology/apps/news-pubg-game-vs-fau-g-game-explained-know-whats-the-difference-147587)
+
+
+> PUBG vs FAU-G Game: PUBG Mobile India rival Fearless and United Guards or FAUG mobile game was launched on January 26 in India.  Within in few days after the launch, this multiplayer action game has managed to garner more than five million downloads on Google Play store.
+
+
+***
+![Elon Musk to use natural gas for Starship rockets](https://mybroadband.co.za/news/wp-content/uploads/2018/11/elon-musk.png "Elon Musk to use natural gas for Starship rockets")
+
+
+[Elon Musk to use natural gas for Starship rockets](https://mybroadband.co.za/news/technology/384768-elon-musk-to-use-natural-gas-for-starship-rockets.html)
+
+
+> Elon Musk became the richest man in the world thanks to enthusiasm for Tesla Inc.'s sleek electric cars — and the company's stratospheric stock price. But while Musk is perhaps the most well known clean energy CEO, SpaceX, his other company, is likely to rely on drilling for natural gas to power Starship, the new spacecraft and rocket designed to carry humans to the moon, Mars and beyond.Musk's SpaceX aims to use a site in South Texas to launch rockets to carry people and cargo to the moon and Mars.
+
+
+***
+![Best Web Development tutorials Online in 2021](https://external-preview.redd.it/j5VkXjaIEFF_U5sJzb2zTChmPxPR4EOzVQWxnjwu-kw.jpg?auto=webp&s=e423f1b5313060a25c582de09f4d5fe66bdc3daa "Best Web Development tutorials Online in 2021")
+
+
+[Best Web Development tutorials Online in 2021](https://www.reddit.com/r/Python/comments/l95wpo/best_web_development_tutorials_online_in_2021/)
+
+
+> Are you planning on learning web development, here are some of the best web development tutorials. Best Web development courses This page includes courses for HTML, CSS, JavaScript, Node.js, Express.js, React.js, SQL, MongoDB, Mongoose and also contains complete web development tutorials. So make sure you visit this page.
+
+
+***
+![Recruited By Tech](https://external-preview.redd.it/uVuEQ3OGroekyaJTdqVlDIHF2_aZO7LKLZ10m3pawfU.jpg?auto=webp&s=c59ff7f42c5eb1549c857fb9a8012b26b55c78a0 "Recruited By Tech")
+
+
+[Recruited By Tech](https://www.reddit.com/r/programming/comments/l95qcu/recruited_by_tech_amazon_alexa_group_2018/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
