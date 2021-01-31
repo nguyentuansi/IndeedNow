@@ -18993,3 +18993,50 @@
 > One of the best perks of being a Seattle Public Library member is a service called Your Next 5 Books. Fill out a form, describe some favorite books and authors and what you're in the mood for, and you get a response—with not only five suggestions, but also reasons why the library's team of recommenders thinks you'll enjoy them. It lightens the cognitive load of choosing what to read, and you end up with some works you would never have found on your own. It's a bit like an amazingly well-read friend handing you a couple of books saying, Here, you'll like these.
 
 
+***
+![These Aukey true wireless earbuds on sale for $27 have USB-C fast charging](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/aukey-usbc-earbuds.jpg "These Aukey true wireless earbuds on sale for $27 have USB-C fast charging")
+
+
+[These Aukey true wireless earbuds on sale for $27 have USB-C fast charging](https://www.androidcentral.com/these-aukey-true-wireless-earbuds-sale-27-have-usb-c-fast-charging)
+
+
+> If you need a good pair of earbuds that aren't too expensive but still have some excellent features, grab the Aukey EP-T27 USB-C true wireless earbuds. They are down to $27.49 right now when you clip the $15 off on-page coupon. Considering they are already on sale at the $42.49 going price compared to their regular $50 street price, you're saving a whole lot today. These aren't the only Aukey earbuds on sale today, either. Want to pay even less? Get 10% off these $16 Aukey true wireless earbuds that also have USB-C and Quick Charge tech built in.
+
+
+***
+![Need to buy phone insurance? These 7 companies are the best in the business](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/galaxy-s20-fe-vs-iphone-12-6.jpg "Need to buy phone insurance? These 7 companies are the best in the business")
+
+
+[Need to buy phone insurance? These 7 companies are the best in the business](https://www.androidcentral.com/best-phone-insurance-providers)
+
+
+> Source: Apoorva Bhardwaj / Android Central Best Phone Insurance Providers Android Central 2021 As much as you may try to deny it, there will come a time where you have an accident with your phone. Whether you drop and shatter its display, accidentally knock it into the sink, or anything else in between, no one is perfect when it comes to phone ownership. Rather than live on the edge and risk paying hundreds in repair fees, you could do yourself a favor and sign up for a phone insurance provider. From our top pick of SquareTrade to any of the other brands mentioned on this list, here are the best ways you can protect your phone in 2021.
+
+
+***
+![JavaScript to php and back again](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "JavaScript to php and back again")
+
+
+[JavaScript to php and back again](https://www.reddit.com/r/programming/comments/l9cmgm/javascript_to_php_and_back_again/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Top 7 Big Data Trends to Dominate 2021](https://www.reddit.com/r/programming/comments/l9cjzv/top_7_big_data_trends_to_dominate_2021/)
+
+
+> submitted by /u/sharmaniti437 [link] [comments]
+
+
+***
+![John Krasinski passionately kisses Pete Davidson when Pam is an 'SNL' no-show](https://mondrian.mashable.com/2021%252F01%252F31%252Fa7%252F2d431362eeb54c2088868702d7fda80e.f7a6b.png%252F1200x630.png?signature=kWFos0bk7e4zkCaej3oFsoyxHEE= "John Krasinski passionately kisses Pete Davidson when Pam is an 'SNL' no-show")
+
+
+[John Krasinski passionately kisses Pete Davidson when Pam is an 'SNL' no-show](https://mashable.com/video/snl-john-krasinski-pete-davidson-kiss/)
+
+
+> John Krasinski's first-ever opening monologue on Saturday Night Live was haunted by the ghost of The Office. As Krasinski set out to do his whole opening bit, a meta-bit took shape as SNL cast members stationed in the audience peppered him with questions (really, most of them are statements) about his time on the hit NBC series. And that, of course, led to an insistent demand for a Jim... er, that is John and Pam kiss. Even though Jenna Fischer, the actor who played Pam, was nowhere near the SNL set.
+
+
