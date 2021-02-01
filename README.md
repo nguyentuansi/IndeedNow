@@ -19703,3 +19703,53 @@
 > The best ThinkPads attract many business users and corporate IT departments thanks to their strong build quality, industry-leading keyboards, hyper accurate pointing sticks and simple black aesthetic. The ThinkPad line has a number of mainstays that Lenovo fans won't do without, which is why the best ThinkPads are considered the best laptops around.Even if you've already got your heart and your budget committed to a ThinkPad, you've got a lot of choices. Lenovo currently sells over a dozen ThinkPad models across several different lines.
 
 
+***
+![Oneplus Nord N1 256GB 8GB RAM](https://vijaykarnataka.com/thumb/msid-80635373,width-1200,height-630/pic.jpg "Oneplus Nord N1 256GB 8GB RAM")
+
+
+[Oneplus Nord N1 256GB 8GB RAM](https://vijaykarnataka.com/tech/mobile-phones/oneplus-nord-n1-256gb-8gb-ram)
+
+
+> ಸಾರಾಂಶ ಪರ್ಫಾಮೆನ್ಸ್‌ MediaTek Dimensity 800U 5G - 7 nm ಡಿಸ್‌ಪ್ಲೇ 6.53 inches (16.58 cm) ಸ್ಟೋರೇಜ್‌ 256 GB ಕ್ಯಾಮರಾ 64 MP + 13 MP + 2 MP + 2 MP ಬ್ಯಾಟರಿ 5000 mAh price in_india 23999 ರ‍್ಯಾಮ್ 8 GB, 8 GB ಪ್ರಮುಖ ವಿಶೇಷತೆ ಫ್ರಂಟ್ ಕ್ಯಾಮರಾ 16 MP ಬ್ಯಾಟರಿ 5000 mAh ಪ್ರೋಸೆಸರ್ Qualcomm SDM690 Snapdragon 690G (7 nm) ರ‍್ಯಾಮ್ 8 GB rear camera 64 MP + 13 MP + 2 MP + 2 MP ಡಿಸ್‌ಪ್ಲೇ 6.53 inches ಸ್ಪೆಶಲ್ ಫೀಚರ್ಸ್ ಇತರ ಸೆನ್ಸರ್ Accelerometer, Gyro, Proximity, Compass ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ Yes ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್_ಪೊಸಿಶನ್ Rear ಸಾಮಾನ್ಯ ವಿವರ ಓಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ Android v11 ಸಿಮ್‌ ಸ್ಲಾಟ್ಸ್ Dual SIM, GSM+GSM ಮಾದರಿ Nord N1 ಲಾಂಚ್ ಡೇಟ್ March 31, 2021 (Expected) ಬ್ರ್ಯಾಂಡ್ OnePlus ಸಿಮ್ ಸೈಝ್ SIM1: Nano, SIM2: Nano ನೆಟ್‌ವರ್ಕ್ 5G: Supported by device (network not rolled-out in India), 4G: Available (supports Indian bands), 3G: Available, 2G: Available ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ Yes ಮಲ್ಟಿ ಮೀಡಿಯಾ ಪರ್ಫಾಮೆನ್ಸ್‌ ಚಿಪ್‌ಸೆಟ್‌ MediaTek Dimensity 800U 5G - 7 nm ಗ್ರಾಫಿಕ್ಸ್ Mali-G57 MC3 ಪ್ರೋಸೆಸರ್ Octa-core (2x2.
+
+
+***
+![Wired up monkey's brain to play video games: Elon Musk](https://imagevars.gulfnews.com/2019/07/17/190717-Elon-Musk_16bfef37f8b_medium.jpg "Wired up monkey's brain to play video games: Elon Musk")
+
+
+[Wired up monkey's brain to play video games: Elon Musk](https://gulfnews.com/technology/wired-up-monkeys-brain-to-play-video-games-elon-musk-1.1612200414245)
+
+
+> Elon Musk Image Credit: AFP San Francisco: Tesla CEO Elon Musk has revealed that a monkey has been wired up to play video games with its mind by a company he founded called Neuralink. Musk said that Neuralink put a computer chip into the monkey's skull and used "tiny wires" to connect it to its brain, CNBC reported on Monday. The monkey "looks totally happy" and that Neuralink's facilities meet US regulatory requirements, Musk said during a talk on Clubhouse app -- a new social media app, adding that "You can't even see where the neural implant was put in, except that he's got a slight like dark mohawk.
+
+
+***
+![Telegram bot is written in Python that gives an easy way to interface with the stock market.](https://external-preview.redd.it/d49Phb3bQcMr2-g2WToev38msYe4bUhWnGs_-hpiAoI.png?auto=webp&s=6375b9f37ce568d809ea754563a8596db0379cb5 "Telegram bot is written in Python that gives an easy way to interface with the stock market.")
+
+
+[Telegram bot is written in Python that gives an easy way to interface with the stock market.](https://www.reddit.com/r/Python/comments/laclww/telegram_bot_is_written_in_python_that_gives_an/)
+
+
+> Source code is available on GitLab: https://gitlab.com/simple-stock-bots/simple-telegram-stock-bot You can get started with the bot here: https://t.me/SimpleStockBot The idea of this project was just to make it easy to talk about stock market info with your friends. The code isn't the cleanest and could definitely use a refactor, but it has seen some growth in popularity with the whole wsb fiasco so I figured I would share it. Example Image Commands /dividend $symbol will return dividend information for the symbol.
+
+
+***
+![iOS 14.5, watchOS 7.4 betas unlock your iPhone with your Apple Watch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/01/iphone-x-passcode.jpg "iOS 14.5, watchOS 7.4 betas unlock your iPhone with your Apple Watch")
+
+
+[iOS 14.5, watchOS 7.4 betas unlock your iPhone with your Apple Watch](https://www.imore.com/ios-145-watchos-74-betas-unlock-your-iphone-apple-watch-when-wearing-mask)
+
+
+> Yay No more entering your passcode when wearing a mask. 1 Feb 2021 Source: iMore The first iOS 14.5, iOS 7.4 betas include a feature that unlocks your iPhone using your Apple Watch. Apple Watch wearers will be able to unlock their iPhones even while wearing a mask. The first betas of iOS 14.5 and watchOS 7.4 include a new feature that allows iPhones to be unlocked by an Apple Watch. The feature will make it easier to unlock Face ID-equipped iPhones while wearing a face mask. As great as Face ID is, the wearing of a face mask does make it a little problematic.
+
+
+***
+![Fiserv Named a World's Most Admired Company for 2021](https://mms.businesswire.com/media/20210201005843/en/635299/23/fiserv-logo.jpg "Fiserv Named a World's Most Admired Company for 2021")
+
+
+[Fiserv Named a World's Most Admired Company for 2021](https://www.businesswire.com/news/home/20210201005843/en/Fiserv-Named-a-World%E2%80%99s-Most-Admired-Company-for-2021)
+
+
+> BROOKFIELD, Wis.--(BUSINESS WIRE)--Fiserv, Inc. (NASDAQ: FISV), a leading global provider of financial services technology solutions, has been named to the annual ranking of FORTUNE 'World's Most Admired Companies®' for the eighth consecutive year. This index determines the best-regarded companies across industry sectors, and is widely considered to be the definitive scorecard on corporate reputation. Among companies in the Financial Data Services category, Fiserv received the top mark for People Management, and second highest marks for Social Responsibility, Innovation, Use of Corporate Assets and Long-Term Investment Value, recognizing the company's strength and leadership.
+
+
