@@ -19359,3 +19359,53 @@
 > Best smartphones under Rs 10,000: Camera is the most important features in smartphones and nowadays, cameras are the top priorities for any person who's looking to buy smartphones these days.
 
 
+***
+![Aircall opens Sydney office to support 500+ local clients and growing](https://www.itwire.com/media/k2/items/cache/7ade307e3a6f08c5efef16cd44f124b3_XS.jpg "Aircall opens Sydney office to support 500+ local clients and growing")
+
+
+[Aircall opens Sydney office to support 500+ local clients and growing](https://www.itwire.com/telecoms-and-nbn/aircall-opens-sydney-office-to-support-500-local-clients-and-growing.html)
+
+
+> Cloud-based voice platform Aircall has opened its third global office, following its HQ in Paris and its New York office, "bringing innovative tech closer to local customers and partners" while offering "quality and local support in Australia". Aircall. Billed as 'the phone system for modern business', Aircall is a cloud-based voice platform that is "helping companies across the globe manage millions of customer support and sales calls" while integrating 'seamlessly with popular productivity and helpdesk tools', the company is dialling in a great start to 2021 with the opening of its newest office in Sydney, Australia.
+
+
+***
+![Upcoming ZTE Axon 30 Pro to sport a whopping 200MP camera](https://cdn.mos.cms.futurecdn.net/cNurmguixeXtSZBgjCjSrc-1200-80.jpg "Upcoming ZTE Axon 30 Pro to sport a whopping 200MP camera")
+
+
+[Upcoming ZTE Axon 30 Pro to sport a whopping 200MP camera](https://www.techradar.com/news/upcoming-zte-axon-30-pro-to-sport-a-whopping-200mp-camera)
+
+
+> ZTE Axon 20 (Image credit: ZTE) Ever since the unveiling of the Snapdragon 888 chipset in December last year, smartphone manufacturers have been busy trying to win a share of the attention by teasing their upcoming flagship products. Joining the fray, we have the ZTE Axon 30 Pro, which is now expected to launch with an insane 200MP camera.Ni Fei, the company's President took to Weibo to talk about the ZTE Axon 30 Pro's camera. He confirmed that the upcoming smartphone will be able to shoot photos with a resolution of 200MP or over 2.
+
+
+***
+![New rule reins in China's flourishing self-publishing space – TechCrunch](https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-690204300-e1560342781279.jpg?w=751 "New rule reins in China's flourishing self-publishing space – TechCrunch")
+
+
+[New rule reins in China's flourishing self-publishing space – TechCrunch](https://techcrunch.com/2021/01/31/china-crack-down-self-publishing/)
+
+
+> Despite China's history of stringent media control, an industry of uninstitutionalized, individual publishers has managed to flourish on social media platforms like Tencent's WeChat and ByteDance's Toutiao. These self-publishers are called 'We Media' in the Chinese internet lexicon, denoting the independent power of citizen journalists and content creators. Meanwhile, self-publishers have always had to tread carefully on what they post or risk being targeted by censors who deem them illegal or inappropriate.
+
+
+***
+![Did Xiaomi's GM call phones with 108MP cameras a gimmick?](https://cdn.mos.cms.futurecdn.net/CTHPaRhiiQKDfqwboh2qP3-1200-80.jpg "Did Xiaomi's GM call phones with 108MP cameras a gimmick?")
+
+
+[Did Xiaomi's GM call phones with 108MP cameras a gimmick?](https://www.techradar.com/news/did-xiaomis-gm-call-phones-with-108mp-cameras-a-gimmick)
+
+
+> (Image credit: Xiaomi) Change is the only constant in the technology industry. In a bid to outbid the competition or to become an industry leader, constant innovation and introduction of new features at a rapid pace have become an integral part of the industry. This is probably the reason why a feature or piece of tech that became a necessity in all phones in the last couple of years might have vanished in thin air with the dawn of 2021.Xiaomi's General Manager Liu Weibing has highlighted the same in his post on Weibo and justified the reason why none of Xiaomi's phones came with a ToF sensor.
+
+
+***
+![Internet connectivity drops in Myanmar after the military detains Aung San Suu Kyi and other leading politicians – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1230867936.jpg?w=600 "Internet connectivity drops in Myanmar after the military detains Aung San Suu Kyi and other leading politicians – TechCrunch")
+
+
+[Internet connectivity drops in Myanmar after the military detains Aung San Suu Kyi and other leading politicians – TechCrunch](https://techcrunch.com/2021/01/31/internet-connectivity-drops-in-myanmar-after-the-military-detains-aung-san-suu-kyi-and-other-leading-politicians/)
+
+
+> Access to the internet in Myanmar dropped sharply after the military detained leaders of ruling party National League for Democracy, including Aung San Suu Kyi, and declared a state of emergency. The NLD won a wide majority of parliamentary seats in November's general election, which the military alleges was the result of election fraud. In a statement on military-owned television, the army said a year-long state of emergency would be declared in Myanmar and power handed to military chief Min Aung Hlaing.
+
+
