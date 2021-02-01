@@ -19509,3 +19509,53 @@
 > We've all heard of Vodafone, it's one of the four main networks of the UK, bringing competition to the likes of O2 and EE. But are Vodafone deals any good? Read on to find out and see what kind of prices you can expect to pay.Coming up as a close second behind EE, Vodafone offers some strong benefits to rope you in. Vodafone's VeryMe scheme rewards you with everything from free coffees, to exclusive competitions and cash prices.On top of the tempting freebies, Vodafone's high-level coverage and fast speeds are there to entice you in.
 
 
+***
+![How Predicting the Future Became a Literary Genre](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dhBKu.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "How Predicting the Future Became a Literary Genre")
+
+
+[How Predicting the Future Became a Literary Genre](https://www.theatlantic.com/culture/archive/2021/02/future-shock-pop-futurism-pandemic/617867/?utm_source=msn)
+
+
+> © Shawna X. T he pandemic, which has seemed stranger than science fiction in so many ways, has occasioned much debate about the role of speculative fiction in imagining the future : The possibilities of such stories have felt, to some, like answers amid uncertainty, even as others have questioned the limits of dystopian visions. But perhaps an equally relevant literature to revisit is speculative non fiction: the constantly evolving genre we might call 'pop futurism.' What are the telltale signs of a 'pop futurist' book? It sketches out possible tomorrows, highlights emergent trends to watch, and promises ways for even nonspecialists to apply these insights to their own life and work.
+
+
+***
+![Chicago teachers face work stoppage in COVID-19 safety plan dispute](https://static.reuters.com/resources/r/?m=02&d=20210201&t=2&i=1549836466&r=LYNXMPEH101EQ&w=800 "Chicago teachers face work stoppage in COVID-19 safety plan dispute")
+
+
+[Chicago teachers face work stoppage in COVID-19 safety plan dispute](https://www.reuters.com/article/us-health-coronavirus-chicago-teachers-idUSKBN2A12CE)
+
+
+> By Brendan O'Brien CHICAGO (Reuters) - Chicago teachers appeared headed on Monday for a strike or lock-out over their latest dispute with the third-largest U.S. school district after the two sides failed to come to an agreement on a novel coronavirus safety plan. FILE PHOTO: Supporters of the Chicago Teachers Union participate in a car caravan, as negotiations with Chicago Public Schools continue over a coronavirus disease (COVID-19) safety plan agreement in Chicago, Illinois, U.S., January 30, 2021.
+
+
+***
+![Create at the speed of imagination](https://imagevars.gulfnews.com/2021/02/01/Nvidia-Lead_1775d047e2f_medium.jpg "Create at the speed of imagination")
+
+
+[Create at the speed of imagination](https://gulfnews.com/technology/create-at-the-speed-of-imagination-1.1612166172405)
+
+
+> Image Credit: Supplied RTX Studio ushers in a new era of creative performance with laptops and desktops purpose-built to power the world's most innovative minds, empowering creativity at the speed of imagination. Whether you're an aspiring artist or an industry veteran looking to do your best work, NVIDIA Studio Laptops & desktop PCs make it happen—fast. From ray tracing and VR to AI-powered 8K video editing, NVIDIA GPUs boost workflows and inspire creative genius. And they're backed by exclusive, free Studio Drivers that bring out the best in your creative apps.
+
+
+***
+![Budget 2021: Interest on PF contribution above Rs 2.5 lakh to be taxed](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/nirmala_budget_2021_505_010221045837.jpg "Budget 2021: Interest on PF contribution above Rs 2.5 lakh to be taxed")
+
+
+[Budget 2021: Interest on PF contribution above Rs 2.5 lakh to be taxed](https://www.businesstoday.in/union-budget-2021/budget-for-the-salaried/budget-2021-interest-on-pf-contribution-above-rs-2-5-lakh-to-be-taxed/story/429898.html)
+
+
+> Story Budget 2021: This will impact high-income salaried people using voluntary provident fund for tax-free interest. Individuals who contribute over Rs 20,833 a month to PF will be taxed BusinessToday.In | February 1, 2021 | Updated 16:58 IST Budget 2021: Sitharaman announces direct tax proposals
+
+
+***
+![Several Realme phones now receiving Android 11-based Realme UI 2.0 in beta](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_6_shot_1-483x271_1200_210201163531.jpeg "Several Realme phones now receiving Android 11-based Realme UI 2.0 in beta")
+
+
+[Several Realme phones now receiving Android 11-based Realme UI 2.0 in beta](https://www.indiatoday.in/technology/news/story/several-realme-phones-now-receiving-android-11-based-realme-ui-2-0-in-beta-1764827-2021-02-01)
+
+
+> Realme has already rolled out Android 11-based Realme UI 2.0 on a range of smartphones. Shubham Verma | February 1, 2021 | Updated 16:32 IST
+
+
