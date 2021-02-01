@@ -19653,3 +19653,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![The best Apple deals for February 2021](https://cdn.mos.cms.futurecdn.net/cRMJvg7Pq93FvEcuz2rnyX-1200-80.jpg "The best Apple deals for February 2021")
+
+
+[The best Apple deals for February 2021](https://www.laptopmag.com/news/best-apple-deals)
+
+
+> The best Apple deals right now offer Black Friday-rivaling discounts on today's most coveted Apple gear. So if you're looking for the best deals on an Apple Watch, MacBook, iPad or AirPods, you've come to the right place. We're rounding up the best deals on Apple gadgets from several retailers and listing them here.  For example, Amazon currently has the latest MacBook Pro with M1 chip on sale for $1,219. Usually, this laptop retails for $1,299, so this deal knocks $80 off its normal price. Given that it's just $4 shy of the MacBook Pro M1's lowest price ever, it's one of the best Apple deals we've seen outside of the holidays.
+
+
+***
+![Apple seeds iOS 14.5 beta 1 for developers](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/09/rear-camera-iphone-11-pro-hero.jpg "Apple seeds iOS 14.5 beta 1 for developers")
+
+
+[Apple seeds iOS 14.5 beta 1 for developers](https://www.imore.com/how-download-ios-14-developer-beta)
+
+
+> We may earn a commission for purchases using our links. Learn more. Beta time has come again If you're a developer looking to take a peek at iOS 14.5, here's how to install the developer beta. 1 Feb 2021 Source: Joseph Keller / iMore iOS 14.5 is coming later this year with new features that require third-party developer input. As such, the company is releasing developer betas so that software engineers can get a head start on making great software for you. Apple occasionally offers updates to iOS, iPadOS, watchOS, tvOS, and macOS as closed developer previews or public betas.
+
+
+***
+![New iOS 14 and watchOS 7 betas add AirPlay 2 support for Apple Fitness+](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/apple_fitness-plus-launch_hero_12082020.jpg "New iOS 14 and watchOS 7 betas add AirPlay 2 support for Apple Fitness+")
+
+
+[New iOS 14 and watchOS 7 betas add AirPlay 2 support for Apple Fitness+](https://www.imore.com/new-ios-14-and-watchos-7-betas-add-airplay-2-support-apple-fitness)
+
+
+> Source: Apple Apple has today rolled out new beta software for developers, adding AirPlay 2 support for Apple Fitness+, allowing users to stream the audio and video from workouts directly to a compatible device. With the release of the first developer seed of iOS 14.5 and watchOS 7.4, Apple Fitness+ users can now stream their workouts to compatible AirPlay 2 devices. Until now, Fitness+ users have been able to use workouts on their iOS devices like iPhone and iPad, as well as the Apple TV. With this new update, new workouts are now streamable to any AirPlay 2-enabled device, such as a smart TV.
+
+
+***
+![Win an iPhone 12 and a MagSafe Stand & Wallet from MOFT](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/capture-one-session5015.jpg "Win an iPhone 12 and a MagSafe Stand & Wallet from MOFT")
+
+
+[Win an iPhone 12 and a MagSafe Stand & Wallet from MOFT](https://www.imore.com/win-iphone-12-and-must-have-magsafe-wallet-stand-moft)
+
+
+> We may earn a commission for purchases using our links. Learn more. Enter now! Replace your wallet, phone grip, and stand with one affordable and innovative accessory from MOFT. 1 Feb 2021 Source: MOFT The new MOFT Snap-On Phone Stand & Wallet is similar to Apple's MagSafe Wallet in that it is super-thin so it adds very little bulk to the back of your phone. Like Apple's offering, it can securely hold up to three credit cards for easy access. Where MOFT's accessory really stands out from Apple is in its multifunctionality.
+
+
+***
+![Which ThinkPad is right for you?](https://cdn.mos.cms.futurecdn.net/TTu9vguLBBb5es9gHARitG-1200-80.jpg "Which ThinkPad is right for you?")
+
+
+[Which ThinkPad is right for you?](https://www.laptopmag.com/articles/best-thinkpad-notebook-for-you)
+
+
+> The best ThinkPads attract many business users and corporate IT departments thanks to their strong build quality, industry-leading keyboards, hyper accurate pointing sticks and simple black aesthetic. The ThinkPad line has a number of mainstays that Lenovo fans won't do without, which is why the best ThinkPads are considered the best laptops around.Even if you've already got your heart and your budget committed to a ThinkPad, you've got a lot of choices. Lenovo currently sells over a dozen ThinkPad models across several different lines.
+
+
