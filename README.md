@@ -19268,3 +19268,50 @@
 > Source: Sundance Film Festival As reported by Deadline, Apple has landed worldwide rights to CODA, a coming-of-age drama premiering at the Sundance Film Festival. According to the deal, Apple won out in bidding against Amazon and has paid $25 million, a new record for the festival. Writer-director Siân Heder's coming-of-age drama is about a high school senior who is the only hearing person in her deaf family and is torn between holding together that unit or seeking her own dreams. The film premiered opening night in the U.
 
 
+***
+![The risks and rewards of at-home genealogy testing](https://external-preview.redd.it/lIfA5hcFz0PeE2CuKsn-DIR4gY4OCSTVevxJEs3HqBw.jpg?auto=webp&s=753dfb8681cf3217746ab6c236318ccb2fe0c555 "The risks and rewards of at-home genealogy testing")
+
+
+[The risks and rewards of at-home genealogy testing](https://www.reddit.com/r/technology/comments/l9s23n/the_risks_and_rewards_of_athome_genealogy_testing/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Chromebook demand more than doubled in 2020 due to the pandemic](https://external-preview.redd.it/RAFzt-hR9-CtsSTUyF9PSBLYdJpJeMNu3hhFvejnWXg.jpg?auto=webp&s=df819bbbf0bd91bcc762481263f9068b86ac8fb1 "Chromebook demand more than doubled in 2020 due to the pandemic")
+
+
+[Chromebook demand more than doubled in 2020 due to the pandemic](https://www.reddit.com/r/technology/comments/l9rxlb/chromebook_demand_more_than_doubled_in_2020_due/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+[Ula raises $20M Series A led by Quona Capital and B Capital Group to expand its food-focused e-commerce marketplace in Indonesia currently serving 20K+ stores (Manish Singh/TechCrunch)](http://www.techmeme.com/210131/p18#a210131p18)
+
+
+> Manish Singh / TechCrunch: Ula raises $20M Series A led by Quona Capital and B Capital Group to expand its food-focused e-commerce marketplace in Indonesia currently serving 20K+ stores — Tokopedia, Lazada, Shopee, and other firms created an e-commerce market in Indonesia in the past decade, making it possible for consumers to shop online in the island nation.
+
+
+***
+![#TECH: Garmin unveils smartwatch for gamers](https://assets.nst.com.my/images/articles/BOTSgarmininstinct_NSTfield_image_socialmedia.var_1612143142.jpg "#TECH: Garmin unveils smartwatch for gamers")
+
+
+[#TECH: Garmin unveils smartwatch for gamers](https://www.nst.com.my/lifestyle/bots/2021/02/662048/tech-garmin-unveils-smartwatch-gamers)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![This Ecovacs robot vacuum and mop has hit its lowest price yet at just AU$569](https://cdn.mos.cms.futurecdn.net/HR8k3bbc68eA7m3JXNBd9E-1200-80.jpg "This Ecovacs robot vacuum and mop has hit its lowest price yet at just AU$569")
+
+
+[This Ecovacs robot vacuum and mop has hit its lowest price yet at just AU$569](https://www.techradar.com/news/this-ecovacs-robot-vacuum-and-mop-has-hit-its-lowest-price-yet-at-just-audollar569)
+
+
+> (Image credit: Ecovacs Robotics) Why do the vacuuming when you can (quite literally) get something else to do the job for you? Heck, it will even mop up after you if you need it to. And that's where robot vacuum cleaners come in.These days you can get dual-function autonomous droids that not just suck, but wet mop as well – useful if you primarily have hard floors in your home. Some of the best robot vacuums that you can get that do it all for you are from Ecovacs Robotics, and this is your chance to snap one up for a sweet low price of just AU$569.
+
+
