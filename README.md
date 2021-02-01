@@ -19559,3 +19559,47 @@
 > Realme has already rolled out Android 11-based Realme UI 2.0 on a range of smartphones. Shubham Verma | February 1, 2021 | Updated 16:32 IST
 
 
+***
+[Call of Duty Mobile: Here's How to Play the Game on Laptop](https://www.thequint.com/tech-and-auto/call-of-duty-mobile-heres-how-to-play-the-game-on-laptop)
+
+
+> Tencent Games took matters into their own hands and released an official emulator for playing the game.
+
+
+***
+[SolarWinds hackers who breached US federal court system likely gained access to sealed documents containing trade secrets, espionage targets, and more (Maryclaire Dale/Associated Press)](http://www.techmeme.com/210201/p7#a210201p7)
+
+
+> Maryclaire Dale / Associated Press: SolarWinds hackers who breached US federal court system likely gained access to sealed documents containing trade secrets, espionage targets, and more — PHILADELPHIA (AP) — Trial lawyer Robert Fisher is handling one of America's most prominent counterintelligence cases, defending an MIT scientist charged with secretly helping China.
+
+
+***
+![Play PC VR games on the Oculus Quest 2 without the $80 official cable](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/oculus-quest-2-link-cable-01.jpg "Play PC VR games on the Oculus Quest 2 without the $80 official cable")
+
+
+[Play PC VR games on the Oculus Quest 2 without the $80 official cable](https://www.androidcentral.com/best-link-cable-alternative-oculus-quest-2)
+
+
+> Best Link Cable Alternatives for Oculus Quest 2 Android Central 2021 For Oculus Quest 2 owners who want to play PC VR games without paying for the official, expensive Oculus cable, we'll help you find the best Quest 2 Link cable alternatives available. You'll want to look for a USB 3.0 to USB-C cable, long enough to travel from your PC to wherever you stand or sit to play your VR games. The wrong cable won't be able to handle the data or power transfer necessary for Oculus Link to work, so here are our personal favorites, the Oculus community's favorites, and Oculus' official Link alternatives.
+
+
+***
+![Say hello to the new Big 5](https://cdn.mos.cms.futurecdn.net/jnMRxVPwq2Hsoy7DBosEXW-1200-80.jpg "Say hello to the new Big 5")
+
+
+[Say hello to the new Big 5](https://www.techradar.com/news/say-hello-to-the-new-big-5)
+
+
+> (Image credit: Techno Mobile) TECNO has just shared the best news of the year: the launch of the SPARK 5. It's a powerful, versatile smartphone with five advanced cameras; it's like having a photo studio in your pocket. Say goodbye to blurry edges and low-budget lighting, and say hello to better selfies and more glamorous portraits; these five cameras help to catch your best side, every single time. The SPARK 5 is the go-to smartphone choice for the younger generation who want better to take better photos and videos.
+
+
+***
+![The cheapest iPad mini prices, sales, and deals in February 2021](https://cdn.mos.cms.futurecdn.net/7d8174a7160a21b937ad078accdf40d2-1200-80.jpg "The cheapest iPad mini prices, sales, and deals in February 2021")
+
+
+[The cheapest iPad mini prices, sales, and deals in February 2021](https://www.techradar.com/news/mobile-computing/tablets/ipad-mini-deals-and-prices-1296063)
+
+
+> Apple's diminutive tablet is almost flawless in so many ways, so we've picked out all the cheapest iPad Mini prices so you can find get the best deal on one. The series has been brought back to life recently with a new 2019 version.This means the older iPad Mini 4's price will drop even more as stores make way for the new model. As for the even older versions, we've found stores only seemed to be selling second-hand or refurbished models, often at inflated prices so we've concentrated on the later models to ensure you get the best value for money.
+
+
