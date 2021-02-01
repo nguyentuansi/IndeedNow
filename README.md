@@ -19603,3 +19603,53 @@
 > Apple's diminutive tablet is almost flawless in so many ways, so we've picked out all the cheapest iPad Mini prices so you can find get the best deal on one. The series has been brought back to life recently with a new 2019 version.This means the older iPad Mini 4's price will drop even more as stores make way for the new model. As for the even older versions, we've found stores only seemed to be selling second-hand or refurbished models, often at inflated prices so we've concentrated on the later models to ensure you get the best value for money.
 
 
+***
+![Spacewalkers complete 4 years of power upgrades for station](https://s.abcnews.com/images/Technology/WireAP_f5259866e64f42dfa4e00c629d5aaab1_16x9_992.jpg "Spacewalkers complete 4 years of power upgrades for station")
+
+
+[Spacewalkers complete 4 years of power upgrades for station](https://abcnews.go.com/Technology/wireStory/spacewalkers-finishing-years-power-upgrades-station-75609134)
+
+
+> CAPE CANAVERAL, Fla. -- A pair of spacewalking astronauts completed a four-year effort to modernize the International Space Station's power grid on Monday, installing one last battery. Over the weekend, flight controllers in Houston used the space station's big robot arm to replace the last pair of old-style batteries with a single better-quality one. Astronauts Mike Hopkins and Victor Glover needed to put the finishing touches on this newest lithium-ion battery to complete a series of spacewalks that began in 2017.
+
+
+***
+![Want to increase the mileage of your car? follow these tricks](https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/car-milesg100-th1_202102554047.jpg "Want to increase the mileage of your car? follow these tricks")
+
+
+[Want to increase the mileage of your car? follow these tricks](https://english.lokmat.com/photos/technology/want-to-increase-the-mileage-of-your-car-follow-these-tricks/)
+
+
+> Petrol prices in cities have been rising at a shocking rate, almost reaching Rs 100 per liter. This can pose as a huge financial burden for people who drive long distances for work. It can also demotivate prospective customers from buying a car. As bad as the situation is, there is a solution to it all - increasing your car's mileage. If you increase your car's mileage, you won't need to spend too much on fuel. These tips will help you maximise your car's mileage, efficiency and ensure superior performance.
+
+
+***
+![How to Learn Any Programming Language(2021)](https://external-preview.redd.it/TfsoYXEGOOrIVqExyrbFTZyTBFRnEU2PUtRah7T6P6A.jpg?auto=webp&s=79008908eeb0ccc7dc1fbf5d69e52189fb166c83 "How to Learn Any Programming Language(2021)")
+
+
+[How to Learn Any Programming Language(2021)](https://www.reddit.com/r/programming/comments/la6svy/how_to_learn_any_programming_language2021/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Insight Recognized Among Fortune 2021 World's Most Admired Companies](http://www.businesswire.com/images/bwlogo_square.png "Insight Recognized Among Fortune 2021 World's Most Admired Companies")
+
+
+[Insight Recognized Among Fortune 2021 World's Most Admired Companies](https://www.businesswire.com/news/home/20210201005663/en/Insight-Recognized-Among-Fortune-2021-World%E2%80%99s-Most-Admired-Companies)
+
+
+> TEMPE, Ariz.--(BUSINESS WIRE)--Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has been recognized at No. 7 in the information technology services industry among the Fortune 2021 World's Most Admired Companies, a ranking of the world's companies that enjoy the strongest reputations within their industries and across all business. To determine the best-regarded companies across 52 industries and 30 countries, Fortune partnered with global research firm Korn Ferry to ask 3,820 executives, board directors, and securities analysts to rate enterprises in their own industry on nine criteria: from investment value and quality of management and products to social responsibility and ability to attract talent.
+
+
+***
+![Watchpoints](https://external-preview.redd.it/a3OxX-3ZkWmtqW3aj2wiGncMP_M3Eu5CiAMSeZQK8O8.jpg?auto=webp&s=50eaf0a0bf5fa77707c91f920340bc7c8c7e338a "Watchpoints")
+
+
+[Watchpoints](https://www.reddit.com/r/programming/comments/la6q5u/watchpoints_an_easytouse_intuitive_variableobject/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
