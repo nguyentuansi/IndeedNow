@@ -19224,3 +19224,47 @@
 > Apple Silicon Macs are general-purpose computers running macOS out of the box, with Apple not providing official support for 3rd-party operating systems. However, Apple doesn't block that from happening in any way. It's just run-of-the-mill undocumented hardware, with firmware preloaded so that we don't have to deal with it. (except for 3rd-party silicon, such as the Broadcom Wi-Fi firmware) On the big CPU core side for the M1: A very fast one, clocked low (3.2 GHz) on the Apple M1 machines. The little cores are no slouch either, being clocked at 2.
 
 
+***
+[Robinhood reduces the number of companies with trading restrictions from 50 to 8, according to its website; GME, NOK, and BB are still among those restricted (Yueqi Yang/Bloomberg)](http://www.techmeme.com/210131/p14#a210131p14)
+
+
+> Yueqi Yang / Bloomberg: Robinhood reduces the number of companies with trading restrictions from 50 to 8, according to its website; GME, NOK, and BB are still among those restricted — Robinhood Markets Inc. reduced the number of companies with trading restrictions to eight from 50 on Sunday, according to an update on its website.
+
+
+***
+![Oxbury goes live on low code core banking system](https://www.finextra.com/finextra-images/top_pics/xl/motherboard.jpg "Oxbury goes live on low code core banking system")
+
+
+[Oxbury goes live on low code core banking system](https://www.finextra.com/newsarticle/37383/oxbury-goes-live-on-low-code-core-banking-system)
+
+
+> No body in the article.
+
+
+***
+[A look at the criticism in DC directed at CSET, a State Dept. bureau focused on cybersecurity and emerging technologies formed in the last days of Trump's admin (Maggie Miller/The Hill)](http://www.techmeme.com/210131/p13#a210131p13)
+
+
+> Maggie Miller / The Hill: A look at the criticism in DC directed at CSET, a State Dept. bureau focused on cybersecurity and emerging technologies formed in the last days of Trump's admin — A newly established State Department bureau focused on cybersecurity and emerging technologies could give the Biden administration …
+
+
+***
+![Tricor Group Releases 2021 Asia Pacific Trade Report Focusing on Impact of RCEP on Mainland China and COVID-19 Recovery](https://mms.businesswire.com/media/20210131005045/en/767061/23/%E5%8D%93%E4%BD%B3Tricor_Logo_%28HK%26China%29.jpg "Tricor Group Releases 2021 Asia Pacific Trade Report Focusing on Impact of RCEP on Mainland China and COVID-19 Recovery")
+
+
+[Tricor Group Releases 2021 Asia Pacific Trade Report Focusing on Impact of RCEP on Mainland China and COVID-19 Recovery](https://www.businesswire.com/news/home/20210131005045/en/Tricor-Group-Releases-2021-Asia-Pacific-Trade-Report-Focusing-on-Impact-of-RCEP-on-Mainland-China-and-COVID-19-Recovery)
+
+
+> January 31, 2021 07:00 PM Eastern Standard Time SHANGHAI--(BUSINESS WIRE)--When compared to other transnational free trade agreements, the Regional Comprehensive Economic Partnership Agreement (RCEP), which was signed by mainland China and 14 other economies in November of 2020 and is expected to be implemented sometime in 2021, is unrivalled in its complexity and remarkably lays the framework for a pan-Asian basic standard for trade that surpasses the terms provided by the World Trade Organization (WTO), according to Tricor Group's 2021 Asia Pacific Trade Report.
+
+
+***
+![Apple lands 'CODA' for $25 million in record Sundance Film Festival deal](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/coda-hero_0.jpg "Apple lands 'CODA' for $25 million in record Sundance Film Festival deal")
+
+
+[Apple lands 'CODA' for $25 million in record Sundance Film Festival deal](https://www.imore.com/apple-lands-coda-25-million-record-sundance-film-festival-deal)
+
+
+> Source: Sundance Film Festival As reported by Deadline, Apple has landed worldwide rights to CODA, a coming-of-age drama premiering at the Sundance Film Festival. According to the deal, Apple won out in bidding against Amazon and has paid $25 million, a new record for the festival. Writer-director Siân Heder's coming-of-age drama is about a high school senior who is the only hearing person in her deaf family and is torn between holding together that unit or seeking her own dreams. The film premiered opening night in the U.
+
+
