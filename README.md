@@ -19459,3 +19459,53 @@
 > Senin, 1 Februari 2021 14:54 WIB lihat foto tomsguide.com Harga iPhone Terbaru Februari 2021: iPhone 8, iPhone 11 hingga iPhone 12 Series
 
 
+***
+![Nintendo 9M profits surge 92%, revenue up 37% (OTCMKTS:NTDOY)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Nintendo 9M profits surge 92%, revenue up 37% (OTCMKTS:NTDOY)")
+
+
+[Nintendo 9M profits surge 92%, revenue up 37% (OTCMKTS:NTDOY)](https://seekingalpha.com/news/3656475-nintendo-9m-profits-surge-92-revenue-up-37)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![HBO Max free trial: is it currently available?](https://cdn.mos.cms.futurecdn.net/88t9WRFrdSu5ugdLrPYqbm-1200-80.jpg "HBO Max free trial: is it currently available?")
+
+
+[HBO Max free trial: is it currently available?](https://www.techradar.com/news/hbo-max-free-trial)
+
+
+> (Image credit: rafapress / Shutterstock.com) When HBO Max launched in May 2020, it was an enticing proposition for film and TV aficionados: attracting fans of the HBO brand and boasting 10,000 hours of high-quality content. Even better was that the HBO Max free trial gifted users a whole week of access at absolutely zero charge. Unfortunately, following suit with VOD platforms like Netflix and Disney Plus , HBO Max discontinued its free trial for new members as of December last year. But is anyone still eligible for an HBO Max free trial? And if not, what's the cheapest way to subscribe? Read on below and we'll break it all down for you.
+
+
+***
+![Netflix Is Testing A Sleep Timer For Those Who Tend To Doze Off During Binge Sessions](https://sm.mashable.com/t/mashable_in/image/n/netflix-ju/netflix-just-jacked-up-its-prices-again_shdf.1200.jpg "Netflix Is Testing A Sleep Timer For Those Who Tend To Doze Off During Binge Sessions")
+
+
+[Netflix Is Testing A Sleep Timer For Those Who Tend To Doze Off During Binge Sessions](https://in.mashable.com/tech/19960/netflix-is-testing-a-sleep-timer-for-those-who-tend-to-doze-off-during-binge-sessions)
+
+
+> If you have late night Netflix binge sessions often and fear dozing off midway through an episode, there's news that'll make you happy. Netflix is launching a global test for a new Android app feature that allows users to set the platform to stop streaming content after a specific period of time. The feature currently includes four timer settings: 15 minutes, 30 minutes, 45 minutes or the end of the episode you're currently watching. It's likely Netflix's goal for this functionality is to conserve battery on Android devices and for subscribers not to get lost in a series they may have fallen asleep while watching.
+
+
+***
+![Nio January Deliveries Rise 352% YoY, Sequential Growth Slows](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/nio_4.jpg "Nio January Deliveries Rise 352% YoY, Sequential Growth Slows")
+
+
+[Nio January Deliveries Rise 352% YoY, Sequential Growth Slows](https://www.benzinga.com/news/21/02/19413414/nio-january-deliveries-rise-352-yoy-sequential-growth-slows)
+
+
+> Nio Inc – ADR (NYSE: NIO ) reported a strong year-over-year increase in deliveries for January, although the growth is off a low base in the same month last year, which was hurt by the pandemic. Nevertheless, the numbers represented another monthly record. What Happened: Nio's January deliveries came in at 7,225 vehicles, a 352.1% year-over-year increase and up a more modest 3.1% from December. In December, Nio  delivered  a record 7,007 vehicles. The January numbers comprised 1,660 ES8S, 2,720 ES6s and 2,845 EC6s.
+
+
+***
+![The best Vodafone deals in February 2021](https://cdn.mos.cms.futurecdn.net/6gCqfb388x6JStKuCQbVUf-1200-80.jpg "The best Vodafone deals in February 2021")
+
+
+[The best Vodafone deals in February 2021](https://www.techradar.com/news/phone-and-communications/mobile-phones/vodafone-deals-1296637)
+
+
+> We've all heard of Vodafone, it's one of the four main networks of the UK, bringing competition to the likes of O2 and EE. But are Vodafone deals any good? Read on to find out and see what kind of prices you can expect to pay.Coming up as a close second behind EE, Vodafone offers some strong benefits to rope you in. Vodafone's VeryMe scheme rewards you with everything from free coffees, to exclusive competitions and cash prices.On top of the tempting freebies, Vodafone's high-level coverage and fast speeds are there to entice you in.
+
+
