@@ -19315,3 +19315,47 @@
 > (Image credit: Ecovacs Robotics) Why do the vacuuming when you can (quite literally) get something else to do the job for you? Heck, it will even mop up after you if you need it to. And that's where robot vacuum cleaners come in.These days you can get dual-function autonomous droids that not just suck, but wet mop as well – useful if you primarily have hard floors in your home. Some of the best robot vacuums that you can get that do it all for you are from Ecovacs Robotics, and this is your chance to snap one up for a sweet low price of just AU$569.
 
 
+***
+![Report](https://external-preview.redd.it/rCZEwVyNrln_xiBTp8y0HV81xZKAj-E-YjZEbAIeLF0.jpg?auto=webp&s=fdb2755fd1850fc4c2550f826862edf01828df76 "Report")
+
+
+[Report](https://www.reddit.com/r/technology/comments/l9u9xi/report_facebook_knew_calls_for_violence_plagued/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+[PUBG Mobile Lite Global Version 0.20.0 update for Android with only 600 mb storage available for download](https://www.zeebiz.com/technology/apps/news-pubg-mobile-lite-global-version-0200-update-for-android-with-only-600-mb-storage-available-for-download-147877)
+
+
+> Even though PUBG Mobile India has been banned in the country, the Battle Royale Game continues to do well globally. It has been making several modifications and coming up with new updates for its global audience.
+
+
+***
+![Redmi may launch multiple phones with 108-megapixel cameras in 2021](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/IMG_20200813_162854-647x363.jpeg?oHpHQ09H3TjvCUps8zy90rN5T_iJZwLZ "Redmi may launch multiple phones with 108-megapixel cameras in 2021")
+
+
+[Redmi may launch multiple phones with 108-megapixel cameras in 2021](https://www.indiatoday.in/technology/news/story/redmi-may-launch-multiple-phones-with-108-megapixel-cameras-in-2021-1764609-2021-02-01)
+
+
+> Redmi could be all set to launch more 108MP camera phones. One of the phones could be from the Redmi K40 series. The lens could be Samsung's 108MP HM2 sensor. Xiaomi has already launched a few phones with a massive 108-megapixel camera. The phone maker has even brought the technology to its Redmi Note 9 Pro 5G which launched as the first Redmi phone with the lens. And now, the company's Now, the General Manager of Redmi, Lu Weibing, has all but confirmed that the phone maker will launch more Redmi phones with a 108-megapixel camera.
+
+
+***
+![Bell blasted for taking $122M labour subsidy while boosting dividends](https://external-preview.redd.it/7ujHSOeUS9GceCnYKj39fCpqTjuxpliX7tTw40oYG2M.jpg?auto=webp&s=c5e216d41935d14fc2b783fcf0127976a8a7a7d2 "Bell blasted for taking $122M labour subsidy while boosting dividends")
+
+
+[Bell blasted for taking $122M labour subsidy while boosting dividends](https://www.reddit.com/r/technology/comments/l9u2k0/bell_blasted_for_taking_122m_labour_subsidy_while/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+[Best smartphones under Rs 10,000: Realme C15, Xiaomi Redmi Note 8, Realme Narzo 20A to Samsung Galaxy M02s, here's the list of top camera phones under Rs 10K](https://www.zeebiz.com/technology/news-best-smartphones-under-rs-10000-realme-c15-xiaomi-redmi-note-8-realme-narzo-20a-to-samsung-galaxy-m02s-heres-the-list-of-top-camera-phones-under-rs-10k-147855)
+
+
+> Best smartphones under Rs 10,000: Camera is the most important features in smartphones and nowadays, cameras are the top priorities for any person who's looking to buy smartphones these days.
+
+
