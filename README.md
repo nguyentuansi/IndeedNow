@@ -19409,3 +19409,53 @@
 > Access to the internet in Myanmar dropped sharply after the military detained leaders of ruling party National League for Democracy, including Aung San Suu Kyi, and declared a state of emergency. The NLD won a wide majority of parliamentary seats in November's general election, which the military alleges was the result of election fraud. In a statement on military-owned television, the army said a year-long state of emergency would be declared in Myanmar and power handed to military chief Min Aung Hlaing.
 
 
+***
+![Amazon Mega Salary Days bring up to 50 per cent off on headphones, speakers, other electronic appliances](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Screenshot_2021-02-01_at_1.26.-647x363.png?HHf0_.gXAE0QdsqjyHIM9coKfU61FnGQ "Amazon Mega Salary Days bring up to 50 per cent off on headphones, speakers, other electronic appliances")
+
+
+[Amazon Mega Salary Days bring up to 50 per cent off on headphones, speakers, other electronic appliances](https://www.indiatoday.in/technology/news/story/amazon-mega-salary-days-bring-up-to-50-per-cent-off-on-headphones-speakers-other-electronic-appliances-1764743-2021-02-01)
+
+
+> Amazon has also announced discounts on home and kitchen appliances, furniture, consumer electronics, sports products, toys among others as part of its Amazon Mega Salary Days from February 1 to 3, 2021. The sale also brings up to 12 months no-cost EMI on DSLRs, mirrorless, and point shoot cameras starting from Rs 27,990. Customers using Bank of Baroda credit cards and credit card EMI will get a 10 per cent instant discount on a minimum purchase of Rs 7,500. Amazon has announced discounts up to 50 per cent on headphones, speakers and TVs among other appliances as part of its Mega Salary Days that is now live.
+
+
+***
+![Budget 2021: Smartphones may get expensive as government removes exemption on parts of chargers, mobiles](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/op-647x363.jpeg?puUdMiVoupzbXXvzjWb8jLJOCbA.mg8W "Budget 2021: Smartphones may get expensive as government removes exemption on parts of chargers, mobiles")
+
+
+[Budget 2021: Smartphones may get expensive as government removes exemption on parts of chargers, mobiles](https://www.indiatoday.in/technology/news/story/budget-2021-smartphones-may-get-expensive-as-government-removes-exemption-on-parts-of-chargers-mobiles-1764741-2021-02-01)
+
+
+> The announcement was made in Budget 2021 speech by finance minister Nirmala Sitharaman. Government removes exemption on parts of mobile phones. Changes to come into effect from April 1, 2021. New rates will make smartphones expensive. Smartphones may get expensive in the coming months as the government has decided to remove exemptions on parts of chargers and mobiles in a bid to promote local manufacturing. The announcement was made in Budget 2021 speech by finance minister Nirmala Sitharaman. The new Budget proposes an increase from 0 to 2.
+
+
+***
+![Xiaomi Mi 10 is now Rs 5000 cheaper in India and it's a deal you should consider](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/m10-483x271_1200_210201130513.jpeg "Xiaomi Mi 10 is now Rs 5000 cheaper in India and it's a deal you should consider")
+
+
+[Xiaomi Mi 10 is now Rs 5000 cheaper in India and it's a deal you should consider](https://www.indiatoday.in/technology/features/story/xiaomi-mi-10-is-now-rs-5000-cheaper-in-india-and-it-s-a-deal-you-should-consider-1764716-2021-02-01)
+
+
+> Xiaomi has reduced the price of its 2020 flagship Mi 10 by Rs 5000 and it's a deal you should definitely consider. The last smartphone was launched last year and was Xiaomi's first to feature a 108-megapixel camera. India Today Tech | February 1, 2021 | Updated 12:57 IST Both the variants of Mi 10 are now Rs 5000 cheaper.
+
+
+***
+![Microsoft seeks to fill void if Google exits Australia](https://imagevars.gulfnews.com/2020/10/21/Stock-Microsoft_1754babe1d1_medium.jpg "Microsoft seeks to fill void if Google exits Australia")
+
+
+[Microsoft seeks to fill void if Google exits Australia](https://gulfnews.com/technology/media/microsoft-seeks-to-fill-void-if-google-exits-australia-1.1612161831950)
+
+
+> Microsoft CEO Satya Nadella (pictured) contacted Prime Minister Scott Morrison within days to make clear Microsoft's Bing search engine could expand if Google exits, The Australian reported. Image Credit: AP Sydney: Microsoft has a "Plan B available" if Google follows through on threats to leave Australia over plans to compel digital giants to pay news organisations for content, local media reported Monday. Australia's government has designed a mandatory news media bargaining code that would force Facebook and Google to compensate local publishers for hosting news stories on their platforms.
+
+
+***
+![Harga iPhone Terbaru Februari 2021: iPhone 8, iPhone 11 hingga iPhone 12 Series](https://cdn-2.tstatic.net/tribunnews/foto/bank/images/iphone-12-nih-keren.jpg "Harga iPhone Terbaru Februari 2021: iPhone 8, iPhone 11 hingga iPhone 12 Series")
+
+
+[Harga iPhone Terbaru Februari 2021: iPhone 8, iPhone 11 hingga iPhone 12 Series](https://www.tribunnews.com/techno/2021/02/01/harga-iphone-terbaru-februari-2021-iphone-8-iphone-11-hingga-iphone-12-series)
+
+
+> Senin, 1 Februari 2021 14:54 WIB lihat foto tomsguide.com Harga iPhone Terbaru Februari 2021: iPhone 8, iPhone 11 hingga iPhone 12 Series
+
+
