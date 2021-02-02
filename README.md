@@ -20078,3 +20078,53 @@
 > (Image credit: Image Credit: talech) Mounting concerns over consumer debts, most notably those of younger shoppers, could mean buy now, pay later firms are set to face more regulations following a review of their services.Many major retailers give consumers the option to split payments using by now, pay later services, with the convenience of instant approval and interest-free installments being the main appeal for many shoppers.However, the Financial Conduct Authority (FCA) is concerned that it is possible to rack up unseen debts of £1000.
 
 
+***
+![Viagogo ordered to sell non-US parts of StubHub business](https://www.telegraph.co.uk/content/dam/music/2018/04/12/TELEMMGLPICT000160181971_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Viagogo ordered to sell non-US parts of StubHub business")
+
+
+[Viagogo ordered to sell non-US parts of StubHub business](https://www.telegraph.co.uk/technology/2021/02/02/viagogo-ordered-sell-non-us-parts-stubhub-business/)
+
+
+> Ticketing resale website Viagogo has been ordered to sell the non-US parts of StubHub after competition regulators said there was little to stop the merged businesses from hiking fees. The UK's competition watchdog said it had concluded a merger between Viagogo and StubHub would "lead to a substantial reduction in competition in the secondary ticketing market in the UK" which could result in higher fees for those exchanging tickets online and worse service. The Competition & Markets Authority (CMA) said it was requiring Viagogo to sell all of the StubHub business outside North America, which included the UK operations.
+
+
+***
+![Infinix all set to launch Smart 5 in India on February 11](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/infinix_5-483x271_1200_210202173703.jpeg "Infinix all set to launch Smart 5 in India on February 11")
+
+
+[Infinix all set to launch Smart 5 in India on February 11](https://www.indiatoday.in/technology/news/story/infinix-all-set-to-launch-smart-5-in-india-on-february-11-1765214-2021-02-02)
+
+
+> The company on Tuesday announced that it will launch the successor to the Smart 4 which was also launched in the budget category. Ankita Chakravarti | February 2, 2021 | Updated 17:34 IST
+
+
+***
+![What phone does Defence Minister Ismail Sabri use?](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/20210202ismailsabri-seo.jpg "What phone does Defence Minister Ismail Sabri use?")
+
+
+[What phone does Defence Minister Ismail Sabri use?](https://www.soyacincau.com/2021/02/02/what-phone-does-defence-minister-ismail-sabri-use/)
+
+
+> Datuk Seri Ismail Sabri logging into MySejahtera on his phone. — Twitter screenshot via SoyaCincau KUALA LUMPUR, Feb 2 — Senior Minister Datuk Seri Ismail Sabri Yaakob has been a regular presence on TVs and livestreams throughout the nation recently, providing updates throughout the Movement Control Order (MCO 2.0) to Malaysians. But have you ever wondered what smartphone the Defence Minister uses? In a recent video posted on his official Twitter channel, the minister shares his experience while stopping by a food court in Kampung Datuk Keramat—and ordering some takeaway.
+
+
+***
+![Ashok Leyland share hits 52-week high on strong Jan sales](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/1_505x264_161219092414_020221052745.jpg "Ashok Leyland share hits 52-week high on strong Jan sales")
+
+
+[Ashok Leyland share hits 52-week high on strong Jan sales](https://www.businesstoday.in/markets/company-stock/ashok-leyland-share-hits-52-week-high-on-strong-jan-sales/story/430033.html)
+
+
+> Ashok Leyland share has risen 10% in one week, 30% in a month and 68% in one year. Year-to-date, the stock is up 35%
+
+
+***
+![Union Budget 2021: A budget after pandemic](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/budget21_505_020221053032.jpg "Union Budget 2021: A budget after pandemic")
+
+
+[Union Budget 2021: A budget after pandemic](https://www.businesstoday.in/union-budget-2021/columns/union-budget-2021-a-budget-after-pandemic-like-never-before/story/430034.html)
+
+
+> Story This year's budget was in the midst of the pandemic, but stayed on the path of 'AtmaNirbhar Bharat Abhiyan' that supplements the Make in India vision of the government Saloni Roy | February 2, 2021 | Updated 17:32 IST The customs duty changes are in line with the objective to boost domestic manufacturing industry that will further strengthen the Indian economy
+
+
