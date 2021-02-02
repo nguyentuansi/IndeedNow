@@ -19981,3 +19981,50 @@
 > Facebook Inc. is testing a new full-screen prompt for iPhone users about the social network's data collection in an effort to get ahead of a similar pop-up that Apple Inc. will soon require as part of an operating system software update. The iOS 14 update, which hasn't been rolled out yet for iPhones and iPads, will require app developers like Facebook to show users a pop-up asking for permission to 'track you across apps and websites.' If users reject the request, it will be harder for Facebook to show those people targeted ads, which make up the bulk of the company's revenue.
 
 
+***
+![Poco M3 with Snapdragon 662 SoC, 6000 mAh battery launched at starting price of Rs 10,999](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/pc-483x271_1200_210202123755.jpeg "Poco M3 with Snapdragon 662 SoC, 6000 mAh battery launched at starting price of Rs 10,999")
+
+
+[Poco M3 with Snapdragon 662 SoC, 6000 mAh battery launched at starting price of Rs 10,999](https://www.indiatoday.in/technology/news/story/poco-m3-with-snapdragon-662-soc-6000-mah-battery-launched-at-starting-price-of-rs-10-999-1765085-2021-02-02)
+
+
+> The Poco M3 has been launched in India as company's new and this year's first smartphone. The highlights include Qualcomm Snapdragon 662 SoC, 6000 mAh battery and a full HD panel. Manas Tiwari | February 2, 2021 | Updated 12:27 IST Poco M3 has been launched in India.
+
+
+***
+[Poco M3 with 48MP triple camera setup, huge 6000mAh battery launched in India, priced at Rs 10,999](https://www.zeebiz.com/technology/news-poco-m3-with-48mp-triple-camera-setup-huge-6000mah-battery-launched-in-india-priced-at-rs-10999-check-bank-offers-and-full-details-here-148236)
+
+
+> Chinese smartphone brand Poco announced the launch of Poco M3 in India. Priced at Rs 10,999, Poco M3 will be available in the country starting February 9 on Flipkart.com. The smartphone will be available with additional Rs 1,000 off for ICICI Bank users.
+
+
+***
+![Ford Motor, Google signs contract to offer cloud-based data services](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/goggle_505_020221113101.jpg "Ford Motor, Google signs contract to offer cloud-based data services")
+
+
+[Ford Motor, Google signs contract to offer cloud-based data services](https://www.businesstoday.in/technology/news/ford-motor-google-signs-contract-to-offer-cloud-based-data-services/story/429975.html)
+
+
+> Story Ford will offer its customers built-in Google apps, including its map and voice technology. It will deploy Google artificial intelligence technology to improve the efficiency of vehicle development Reuters | February 2, 2021 | Updated 11:45 IST Ford customer data will not be handed over to Google or Google advertisers, Ford vice president for strategy, David McClelland
+
+
+***
+![Ford cars will run on Google's Android starting in 2023](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/ford-ecosport-483x271_1200_210202123733.jpeg "Ford cars will run on Google's Android starting in 2023")
+
+
+[Ford cars will run on Google's Android starting in 2023](https://www.indiatoday.in/technology/news/story/ford-cars-will-run-on-google-s-android-starting-in-2023-1765095-2021-02-02)
+
+
+> Starting in 2023, Ford and Lincoln cars at all prices will be powered by Google's Android. Ketan Pratap | February 2, 2021 | Updated 12:37 IST Ford Ecosport
+
+
+***
+![OnePlus 7, OnePlus 7T series get their last stable Android 10-based OxygenOS update](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/oneplus_7t_pro-483x271_1200_210202123750.png "OnePlus 7, OnePlus 7T series get their last stable Android 10-based OxygenOS update")
+
+
+[OnePlus 7, OnePlus 7T series get their last stable Android 10-based OxygenOS update](https://www.indiatoday.in/technology/news/story/oneplus-7-oneplus-7t-series-get-their-last-stable-android-10-based-oxygenos-update-1765089-2021-02-02)
+
+
+> The company has started releasing the last stable Android 10 update for these phones in India. Here's what you need to know about them. Sushant Talwar | February 2, 2021 | Updated 12:24 IST
+
+
