@@ -19931,3 +19931,53 @@
 > On the Netflix Android application, subscribers will be able to test a timer on their favourite series to avoid letting the episodes scroll by. — AFP pic SAN FRANCISCO, Feb 2 — Admit it. Falling asleep in front of your show only to wake up during the last episode of the season can be a little annoying. This scenario could soon be avoided thanks to a new feature in test phase. On the Netflix Android application, subscribers will be able to test a timer on their favourite series to avoid letting the episodes scroll by.
 
 
+***
+![Elon Musk makes characteristically wild debut on a buzzy social app Clubhouse](https://images.indianexpress.com/2020/11/elon-musk-bloomberg-1200.jpg "Elon Musk makes characteristically wild debut on a buzzy social app Clubhouse")
+
+
+[Elon Musk makes characteristically wild debut on a buzzy social app Clubhouse](https://indianexpress.com/article/technology/social/elon-musk-debut-clubhose-conversation-monkey-brains-bitcoin-dogecoin-tesla-7171054/)
+
+
+> Elon Musk's debut on a new social-conversation app was a wild ride, with talk ranging from wiring a monkey's brain for video gaming to the entrepreneur's grilling of Robinhood's chief executive, all while many users were unable to join because of the surge in demand to hear the world's richest man speak. Many who tried tuning into Clubhouse, the app backed by venture firm Andreessen Horowitz, ended up on pirated streams that popped up on YouTube and aired the chief executive of Tesla Inc. taking questions from moderators for more than an hour.
+
+
+***
+![Poco M3 India launch today: Livestream details, expected price and specs](https://images.indianexpress.com/2021/01/Poco-M3-Launch-1.jpg "Poco M3 India launch today: Livestream details, expected price and specs")
+
+
+[Poco M3 India launch today: Livestream details, expected price and specs](https://indianexpress.com/article/technology/mobile-tabs/poco-m3-india-launch-today-livestream-details-expected-price-and-specs-7171003/)
+
+
+> The Poco M3 is all set to launch in India today. The event will take place at 12:00 PM IST and it will be live-streamed via the company's official YouTube channel and social media handles. The budget device is already available outside India. The price and specifications of the latest Poco M3 phone are expected to be similar to the global model. The smartphone has a 48MP triple rear camera setup, a 6,000mAh battery, a Snapdragon 600 series chipset and more. Globally, the Poco M3 is being sold for USD 149, which is around Rs 11,000 in India.
+
+
+***
+![Fashion Trends Are Often Recycled. Now More Clothing Can Be, Too.](https://static01.nyt.com/images/2021/02/02/multimedia/26sp-currents-fashion/26sp-currents-fashion-facebookJumbo.jpg "Fashion Trends Are Often Recycled. Now More Clothing Can Be, Too.")
+
+
+[Fashion Trends Are Often Recycled. Now More Clothing Can Be, Too.](https://www.nytimes.com/2021/01/26/fashion/sustainability-clothes-environment-technology.html)
+
+
+> Continue reading the main storyDesigners and tech start-ups are working to improve sustainability and interrupt the path to the landfill.Credit...James YangPublished Jan. 26, 2021Updated Feb. 2, 2021, 12:45 a.m. ETThis article is part of our new series, Currents, which examines how rapid advances in technology are transforming our lives.Sustainability in the fashion industry was once the focus of only a handful of designers like Stella McCartney and outdoor gear companies such as Patagonia.But traditional and new brands are trying to improve a supply chain increasingly criticized for contributing to landfills and causing other forms of pollution throughout the manufacturing process.
+
+
+***
+![MediaTek releases new modem chip that supports mmWave](https://cdn.mos.cms.futurecdn.net/ASqvtEnKWqGeLQkrefdtQA-1200-80.png "MediaTek releases new modem chip that supports mmWave")
+
+
+[MediaTek releases new modem chip that supports mmWave](https://www.techradar.com/news/mediatek-releases-new-modem-chip-that-supports-mmwave)
+
+
+> (Image credit: MediaTek) Taiwanese semiconductor company MediaTek has a few 5G chipsets but none that supports the mmWave spectrum. But today MediaTek has announced its new M80 5G modem which combines mmWave and sub-6 GHz 5G technologies onto a single chip.The new chip can be used on smartphones, personal computers, and portable wifi hotspot devices.The millimeter-wave (mmWave) technology has gained traction in the U.S.'As 5G rollouts accelerate, mmWave is becoming increasingly important, especially in the US.
+
+
+***
+![Facebook tests pop-up for iPhone users before ad tracking update](https://images.indianexpress.com/2021/01/WhatsApp_Facebook_BLOOM.jpg "Facebook tests pop-up for iPhone users before ad tracking update")
+
+
+[Facebook tests pop-up for iPhone users before ad tracking update](https://indianexpress.com/article/technology/social/facebook-tests-pop-up-for-iphone-users-before-ad-tracking-update-7171036/)
+
+
+> Facebook Inc. is testing a new full-screen prompt for iPhone users about the social network's data collection in an effort to get ahead of a similar pop-up that Apple Inc. will soon require as part of an operating system software update. The iOS 14 update, which hasn't been rolled out yet for iPhones and iPads, will require app developers like Facebook to show users a pop-up asking for permission to 'track you across apps and websites.' If users reject the request, it will be harder for Facebook to show those people targeted ads, which make up the bulk of the company's revenue.
+
+
