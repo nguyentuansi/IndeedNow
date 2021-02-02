@@ -19891,3 +19891,43 @@
 > New borrowing Apple is getting in on those rock-bottom interest rates. 1 Feb 2021 Source: iMore Apple has sold $14 of bonds. The company plans to use the funds for "general corporate purposes." As reported by Bloomberg, Apple has sold $14 billion of bonds. The company is reportedly taking advantage of cheaper borrowing costs in order to return more cash to its shareholders. The company issued debt in six parts. The longest portion of the offering, a 40-year security, will yield 95 basis points above Treasuries, after initially discussing between 115 and 120 basis points, according to a person with knowledge of the matter, who asked not to be identified as the details are private.
 
 
+***
+![Google closing in-house Stadia video game studio](https://media2.malaymail.com/resize_cache/uploads/articles/2016-05/googlelogoparisreuters-seo.JPG "Google closing in-house Stadia video game studio")
+
+
+[Google closing in-house Stadia video game studio](https://www.malaymail.com/news/tech-gadgets/2021/02/02/google-closing-in-house-stadia-video-game-studio/1946130)
+
+
+> Google set out to transform the video game world in late 2019 with the launch of Stadia, a service crafted to let people access console-quality games as easily as they do email. — Reuters pic ­SAN FRANCISCO, Feb 2 — Google yesterday said it is closing its in-house Stadia video game studio, leaving the job of making titles for play in its cloud-hosted arena to outside developers. The internet giant set out to transform the video game world in late 2019 with the launch of Stadia, a service crafted to let people access console-quality games as easily as they do email.
+
+
+***
+![iOS 14.5 offers the fastest way to unlock your iPhone while wearing a face mask (VIDEO)](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/200319-mask-iphone-768x432-seo.jpg "iOS 14.5 offers the fastest way to unlock your iPhone while wearing a face mask (VIDEO)")
+
+
+[iOS 14.5 offers the fastest way to unlock your iPhone while wearing a face mask (VIDEO)](https://www.soyacincau.com/2021/02/02/ios-14-5-offers-the-fastest-way-to-unlock-your-iphone-while-wearing-a-face-mask/)
+
+
+> It appears that the upcoming iOS 14.5 update will bring a new ‘Unlock with Apple Watch' feature which can be found under the Face ID settings. — SoyaCincau pic KUALA LUMPUR, Feb 2 — As we are still in the middle of a pandemic, wearing a face mask is still required at all public spaces. If you're using the latest iPhone 12 or past models that uses Face ID, you'll know that facial recognition won't work when half of your face is covered with a mask. On iOS 13.5, Apple had released an  interim solution  by speeding up the passcode request process but it is still far from ideal.
+
+
+***
+![No, WhatsApp can't listen to your conversations and is telling its users in story form](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-12/20201209_Whatsapp_Logo_AFP_01-seo.jpg "No, WhatsApp can't listen to your conversations and is telling its users in story form")
+
+
+[No, WhatsApp can't listen to your conversations and is telling its users in story form](https://www.malaymail.com/news/tech-gadgets/2021/02/02/no-whatsapp-cant-listen-to-your-conversations-and-is-telling-its-users-in-s/1946115)
+
+
+> Through four publications, WhatsApp wanted to clarify its position regarding accusations made against it. No, the messaging application cannot read or listen to personal conversations that are encrypted. — AFP pic SAN FRANCISCO, Feb 2 — Reassuring its users has become an obsession for WhatsApp ever since the 'bad buzz' started circulating about its new terms of use. The application has reinforced its communication in an attempt to appease those who would decamp to other messengers, using the 'Status' function, the equivalent of Stories on Facebook.
+
+
+***
+![Will Netflix's mobile app soon feature a timer?](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/20210202_Netflix_logo_sign_Generic_App-seo.jpg "Will Netflix's mobile app soon feature a timer?")
+
+
+[Will Netflix's mobile app soon feature a timer?](https://www.malaymail.com/news/tech-gadgets/2021/02/02/will-netflixs-mobile-app-soon-feature-a-timer/1946117)
+
+
+> On the Netflix Android application, subscribers will be able to test a timer on their favourite series to avoid letting the episodes scroll by. — AFP pic SAN FRANCISCO, Feb 2 — Admit it. Falling asleep in front of your show only to wake up during the last episode of the season can be a little annoying. This scenario could soon be avoided thanks to a new feature in test phase. On the Netflix Android application, subscribers will be able to test a timer on their favourite series to avoid letting the episodes scroll by.
+
+
