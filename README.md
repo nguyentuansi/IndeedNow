@@ -20028,3 +20028,53 @@
 > The company has started releasing the last stable Android 10 update for these phones in India. Here's what you need to know about them. Sushant Talwar | February 2, 2021 | Updated 12:24 IST
 
 
+***
+![Torture, forced labour rife in North Korea, U.N. says as U.S. mulls sanctions](https://static.reuters.com/resources/r/?m=02&d=20210202&t=2&i=1549970223&r=LYNXMPEH110L8&w=800 "Torture, forced labour rife in North Korea, U.N. says as U.S. mulls sanctions")
+
+
+[Torture, forced labour rife in North Korea, U.N. says as U.S. mulls sanctions](https://www.reuters.com/article/us-northkorea-un-idUSKBN2A211A)
+
+
+> By Stephanie Nebehay GENEVA (Reuters) - Torture and forced labour are rife in North Korea's prisons, amounting to possible crimes against humanity, the U.N. human rights office said on Tuesday, as the Biden administration weighs fresh sanctions over Pyongyang's nuclear programme. A North Korea flag is flown during ceremony for the 8th Congress of the Workers' Party in Pyongyang, North Korea January 14, 2021 in this photo supplied by North Korea's Central News Agency (KCNA). KCNA via REUTERS The report, issued seven years after a landmark U.
+
+
+***
+![The best Dell XPS 13 and 15 deals and prices for February 2021](https://cdn.mos.cms.futurecdn.net/QZ7chHNuE5Gx3EKBDhYFCa-1200-80.jpg "The best Dell XPS 13 and 15 deals and prices for February 2021")
+
+
+[The best Dell XPS 13 and 15 deals and prices for February 2021](https://www.techradar.com/news/dell-xps-13-deals)
+
+
+> If you're wondering what the best Dell XPS deals are or where to find the cheapest prices you've come to the right place. No matter what size or configuration you're after, you'll find options here from all the big retailers as well as our top tips for scoring a good deal right here.Thanks to the latest 2020 releases in the XPS range it's also a great time to be looking right now. Not only have you got the option of these gorgeous new bezel-less ultrabooks, but prices on the older models are now lower than ever.
+
+
+***
+![Showmax February: 10 international shows to keep you entertained](https://cdn.mos.cms.futurecdn.net/WqpF5G4dTrpJ8eSNmoymi9-1200-80.jpg "Showmax February: 10 international shows to keep you entertained")
+
+
+[Showmax February: 10 international shows to keep you entertained](https://global.techradar.com/news/showmax-february-10-international-shows-to-keep-you-entertained)
+
+
+> (Image credit: HBO) A new month means new series and Showmax has a lot to offer. If you're looking for some recommendations or just want to see if your favourite series has a new season out then look no further. Here are 10 international series either debuting or returning to Showmax this month that are worth your time. Raised by Wolves(Image credit: HBO)The biggest TV series ever shot in South Africa, Raised by Wolves is an HBO sci-fi show that focuses on two androids tasked with raising human children on virgin planet Kepler-22b after the earth was destroyed in a great war.
+
+
+***
+![The best iPhone 8 Plus prices and sales for February 2021](https://cdn.mos.cms.futurecdn.net/oeNAJQYVGPcmgKry2ZZV74-1200-80.jpg "The best iPhone 8 Plus prices and sales for February 2021")
+
+
+[The best iPhone 8 Plus prices and sales for February 2021](https://www.techradar.com/news/iphone-8-plus-deals-price-in-usa)
+
+
+> (Image credit: Future) Even with the release of the new iPhone SE you can still find a few good choice iPhone 8 Plus prices and sales if you know where to look. To help you in your search, we've put together a handy price comparison, which you can see just down below.The iPhone 8 Plus features a 5.5-inch screen and an impressive camera that continues to get better with iOS 13, even if doesn't have the extra lenses of Apple's leading phones. It's still not the cheapest handset, so you'll definitely want to peruse all the iPhone 8 Plus deals that you'll find here - but at less than half the price of the leading iPhone 11 Pro, it's the best compromise between iOS value and power in the iPhone range.
+
+
+***
+![Buy now, pay later businesses facing stronger clampdown on credit terms](https://cdn.mos.cms.futurecdn.net/B2GDLEuTDCayqnDNS5sj59-1200-80.jpg "Buy now, pay later businesses facing stronger clampdown on credit terms")
+
+
+[Buy now, pay later businesses facing stronger clampdown on credit terms](https://www.techradar.com/news/buy-now-pay-later-businesses-facing-stronger-clampdown-on-credit-terms)
+
+
+> (Image credit: Image Credit: talech) Mounting concerns over consumer debts, most notably those of younger shoppers, could mean buy now, pay later firms are set to face more regulations following a review of their services.Many major retailers give consumers the option to split payments using by now, pay later services, with the convenience of instant approval and interest-free installments being the main appeal for many shoppers.However, the Financial Conduct Authority (FCA) is concerned that it is possible to rack up unseen debts of £1000.
+
+
