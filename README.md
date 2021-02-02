@@ -20178,3 +20178,50 @@
 > (Image credit: Stu Forster/Getty Images) UK free-to-air broadcaster Channel 4 has knocked it for six, after it was confirmed today that the network has won the rights to show the entire India vs England Test cricket series.This means anyone in the UK will now be able to get a free India vs England live stream and watch cricket online or on TV for every ball of the highly anticipated Test series - one of the cricket events of the year, at least until the Ashes rolls around.While talks with Indian global rights holder Star Sports had been suggesting such a result for a while, it was always feared that Channel 4 might lose out at the last, if either Sky of BT launched a big money bid for UK exclusivity.
 
 
+***
+[React vs React Native – Which one to choose and when?](https://www.reddit.com/r/programming/comments/lazcg2/react_vs_react_native_which_one_to_choose_and_when/)
+
+
+> submitted by /u/estatarde [link] [comments]
+
+
+***
+![Microsoft criticised over charging users to keep old emails](https://www.telegraph.co.uk/content/dam/technology/2020/10/12/TELEMMGLPICT000240699501_trans_NvBQzQNjv4Bq1TJOa7BZ2Re4vzncv8bVrxi4GB-4tR5Il4FFM2mWZkk.jpeg?impolicy=logo-overlay "Microsoft criticised over charging users to keep old emails")
+
+
+[Microsoft criticised over charging users to keep old emails](https://www.telegraph.co.uk/technology/2021/02/02/microsoft-criticised-charging-users-keep-old-emails/)
+
+
+> Some long-term Hotmail and Outlook users could be hit with a bill to keep their old emails or be forced to delete years of old messages, it has been reported. Microsoft's email services largely relied on hotmail addresses up until 2013 when the tech giant switched to Outlook branding. Many hotmail users are now receiving warnings from Microsoft that their inboxes are over the storage limit. The users will only be able to keep their messages by shelling out for a subscription service, as a result of a change to Microsoft's offering.
+
+
+***
+![Amazon's unveils plans for 'Helix' tower at $2.5bn headquarters](https://www.telegraph.co.uk/content/dam/technology/2021/02/02/Amazon_trans_NvBQzQNjv4BqRVWFzS_Y4Cl8U5h0qFbKowoLYh2HUb5eDvVGChCpORQ.jpg?impolicy=logo-overlay "Amazon's unveils plans for 'Helix' tower at $2.5bn headquarters")
+
+
+[Amazon's unveils plans for 'Helix' tower at $2.5bn headquarters](https://www.telegraph.co.uk/technology/2021/02/02/amazons-unveils-plans-helix-tower-25bn-headquarters/)
+
+
+> John Shoettler, Amazon's vice president of global real estate and facilities, said the company had to think about the HQ as a 'long-term investment'. "Now more than ever, the challenges of the past year reinforce the importance of being both part of a community and a supportive corporate citizen," he said in a blog post. "We're thankful for the warm welcome that Arlington neighbors, elected officials, civic leaders, local businesses, and nonprofits have extended to us."
+
+
+***
+![AT&T And U.S. Department of Veterans Affairs Will Pilot Healthcare Innovations With AT&T 5G And Multi-Access Edge Computing](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "AT&T And U.S. Department of Veterans Affairs Will Pilot Healthcare Innovations With AT&T 5G And Multi-Access Edge Computing")
+
+
+[AT&T And U.S. Department of Veterans Affairs Will Pilot Healthcare Innovations With AT&T 5G And Multi-Access Edge Computing](https://seekingalpha.com/pr/18175736-t-and-u-s-department-of-veterans-affairs-will-pilot-healthcare-innovations-and-t-5g-and-multi)
+
+
+> OAKTON, Va. , Feb. 2, 2021 /PRNewswire/ -- What's the news? AT&T ( T )* has delivered AT&T 5G capabilities across the entirety of the U.S. Department of Veterans Affairs (VA) Puget Sound Health Care System in Seattle in a public-private partnership with the VA. VA expects to pilot a variety of healthcare use cases with our 5G and multi-access edge computing (MEC ) technologies to explore how they can improve healthcare delivery to the approximately 9 million Veterans who use VA healthcare services each year.
+
+
+***
+![Big Tech regulation can't only be about 'reining in conservative voices': 'Madness of Crowds' author](https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/69190de2-d690-4f1d-b8ec-c12548de968d/80306d58-7cf2-4187-8de7-53b471548e69/1280x720/match/image.jpg "Big Tech regulation can't only be about 'reining in conservative voices': 'Madness of Crowds' author")
+
+
+[Big Tech regulation can't only be about 'reining in conservative voices': 'Madness of Crowds' author](https://www.foxnews.com/tech/big-tech-regulation-douglas-murray-reining-conservative-voices)
+
+
+> British journalist and author of "Madness of Crowds" Douglas Murray slammed Big Tech companies Tuesday, saying that the time to regulate them is "long overdue", but cautioning that he is concerned about who will be in charge of reining them in and what the new rules might be. During an appearance on "Fox & Friends" , Murray slammed Silicon Valley, claiming that their companies have "galvanized everything" and that in the past other corporations would have been subject to monopoly laws and merger commissions much sooner.
+
+
