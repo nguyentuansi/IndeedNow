@@ -20128,3 +20128,53 @@
 > Story This year's budget was in the midst of the pandemic, but stayed on the path of 'AtmaNirbhar Bharat Abhiyan' that supplements the Make in India vision of the government Saloni Roy | February 2, 2021 | Updated 17:32 IST The customs duty changes are in line with the objective to boost domestic manufacturing industry that will further strengthen the Indian economy
 
 
+***
+![Tesla to fix touch screens, ending spat with US regulators](https://www.local10.com/resizer/kXFGAgqGjPfBndpRIk5KkB39lro=/1600x1033/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/QXZISWFRS5DIVNFMT5ZL4UFPNE.jpg "Tesla to fix touch screens, ending spat with US regulators")
+
+
+[Tesla to fix touch screens, ending spat with US regulators](https://www.local10.com/tech/2021/02/02/tesla-to-fix-touch-screens-ending-spat-with-us-regulators/)
+
+
+> DETROIT – After initially refusing a request from U.S. safety regulators, Tesla has now agreed to recall about 135,000 vehicles because the large touch screens on the console can go dark.The recall of certain 2012 through 2018 Model S sedans and 2016 through 2018 Model X SUVs ends a fight with the National Highway Traffic Safety Administration, which had started the process of taking the electric vehicle maker to court.Last month the agency sent Tesla a recall request letter, saying that after an investigation, it had concluded tentatively that the screens are defective and pose a safety risk because the backup camera displays and defroster controls would go dark.
+
+
+***
+![ClaimFox's Claim File Request Fulfillment Integration for ClaimCenter Now Available in Guidewire Marketplace](https://mms.businesswire.com/media/20210202005303/en/560949/23/guidewire_logo_new_2color_h_screen.jpg "ClaimFox's Claim File Request Fulfillment Integration for ClaimCenter Now Available in Guidewire Marketplace")
+
+
+[ClaimFox's Claim File Request Fulfillment Integration for ClaimCenter Now Available in Guidewire Marketplace](https://www.businesswire.com/news/home/20210202005303/en/ClaimFox%E2%80%99s-Claim-File-Request-Fulfillment-Integration-for-ClaimCenter-Now-Available-in-Guidewire-Marketplace)
+
+
+> RONKONKOMA, N.Y. & SAN MATEO, Calif.--(BUSINESS WIRE)--ClaimFox, Inc., an expert in claim file request fulfillment and Guidewire PartnerConnect Solution partner, and Guidewire Software, Inc. (NYSE: GWRE), the platform P&C insurers trust to engage, innovate, and grow efficiently, today announced that ClaimFox's new Ready for Guidewire validated accelerator is now available to ClaimCenter users in the Guidewire Marketplace. eRequest, by ClaimFox is a full-service solution for insurers that fulfills, at the highest level of data security, requests for copies of claim files from outside parties.
+
+
+***
+![LinQuest Awarded $500M, 5-Year U.S. Space Force Contract](https://mms.businesswire.com/media/20210202005076/en/813565/23/LinQuest_Logo.jpg "LinQuest Awarded $500M, 5-Year U.S. Space Force Contract")
+
+
+[LinQuest Awarded $500M, 5-Year U.S. Space Force Contract](https://www.businesswire.com/news/home/20210202005076/en/LinQuest-Awarded-500M-5-Year-U.S.-Space-Force-Contract)
+
+
+> February 02, 2021 08:53 AM Eastern Standard Time LOS ANGELES--(BUSINESS WIRE)--LinQuest Corporation, a leader in space systems technology solutions for U.S. defense and intelligence communities, has been awarded a $500M, 5-year indefinite delivery, indefinite quantity (IDIQ) contract to provide analysis support to the U.S. Space Force. This is the first enterprise contract awarded allowing USSF and other space analysis organizations to establish task orders promoting synergies and unity of effort.
+
+
+***
+![Elon Musk is taking a break from Twitter again](https://mondrian.mashable.com/2021%252F02%252F02%252F7c%252F978711d81aca4155ba05e30a9e0a5f3f.f2243.jpg%252F1200x630.jpg?signature=3U4zGTRIUDhnxyIo64HDjo4ec9g= "Elon Musk is taking a break from Twitter again")
+
+
+[Elon Musk is taking a break from Twitter again](https://mashable.com/article/elon-musk-quits-twitter-february-2021/)
+
+
+> Elon Musk loves Twitter. But he also hates it. But he loves it. That, roughly, is our assessment of Musk's relationship with the short-form social network, based on how often he says he's had enough of Twitter and how quickly he typically comes back.  On Tuesday, Musk tweeted he'll be "off Twitter for a while." He hasn't broken his promise in *checks watch* four hours, so far.  Off Twitter for a while — Elon Musk (@elonmusk) February 2, 2021 The Tesla and SpaceX CEO has had (short) breaks from Twitter before.
+
+
+***
+![Channel 4 bowls over cricket fans with free India vs England live stream deal](https://cdn.mos.cms.futurecdn.net/SN8uDkkQnwhzLCy28Vum8R-1200-80.jpg "Channel 4 bowls over cricket fans with free India vs England live stream deal")
+
+
+[Channel 4 bowls over cricket fans with free India vs England live stream deal](https://www.techradar.com/news/channel-4-bowls-over-cricket-fans-with-free-india-vs-england-live-stream-deal)
+
+
+> (Image credit: Stu Forster/Getty Images) UK free-to-air broadcaster Channel 4 has knocked it for six, after it was confirmed today that the network has won the rights to show the entire India vs England Test cricket series.This means anyone in the UK will now be able to get a free India vs England live stream and watch cricket online or on TV for every ball of the highly anticipated Test series - one of the cricket events of the year, at least until the Ashes rolls around.While talks with Indian global rights holder Star Sports had been suggesting such a result for a while, it was always feared that Channel 4 might lose out at the last, if either Sky of BT launched a big money bid for UK exclusivity.
+
+
