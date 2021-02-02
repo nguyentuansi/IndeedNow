@@ -20319,3 +20319,53 @@
 > Subscribe Now! Facebook twitter google +
 
 
+***
+![Recap: Artisan Partners Asset Q4 Earnings](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Recap: Artisan Partners Asset Q4 Earnings")
+
+
+[Recap: Artisan Partners Asset Q4 Earnings](https://www.benzinga.com/news/earnings/21/02/19455041/recap-artisan-partners-asset-q4-earnings)
+
+
+> Shares of Artisan Partners Asset (NYSE: APAM ) moved higher by in after-market trading after the company reported Q4 results. Quarterly Results Earnings per share were up 41.33% year over year to $1.06, which beat the estimate of $1.02. Revenue of $261,100,000 rose by 25.29% from the same period last year, which beat the estimate of $258,260,000. Looking Ahead Artisan Partners Asset hasn't issued any earnings guidance for the time being. Artisan Partners Asset hasn't issued any revenue guidance for the time being.
+
+
+***
+![Silicon Laboratories Inc. (SLAB) Earnings Estimates](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Silicon Laboratories Inc. (SLAB) Earnings Estimates")
+
+
+[Silicon Laboratories Inc. (SLAB) Earnings Estimates](https://seekingalpha.com/symbol/SLAB/earnings/estimates)
+
+
+> No body in the article.
+
+
+***
+![The World's Game -- Electronic Arts Announces Multiplatform EA SPORTS FIFA Global Expansion](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "The World's Game -- Electronic Arts Announces Multiplatform EA SPORTS FIFA Global Expansion")
+
+
+[The World's Game -- Electronic Arts Announces Multiplatform EA SPORTS FIFA Global Expansion](https://seekingalpha.com/pr/18174807-world-s-game-electronic-arts-announces-multiplatform-ea-sports-fifa-global-expansion)
+
+
+> Multi-Year UEFA Club Competition License Extension Solidifies EA SPORTS™ FIFA as the Most Authentic Interactive Football Experience Electronic Arts ( EA ) to Grow Its Global Football Player Base with Six In-Development Mobile Experiences and FIFA Online 4 Market Expansion REDWOOD CITY, Calif. --(BUSINESS WIRE)-- Today, Electronic Arts Inc. announced a multiyear UEFA license extension, ensuring the pinnacle of club football remains exclusive to EA SPORTS. EA is expanding football video game access through multiple in-development mobile offerings, and by broadening the PC free-to-download FIFA Online 4 title's reach to potentially 80 million players in more than 15 new countries.
+
+
+***
+![Mimecast Limited (MIME) Earnings EPS Surprise Summary](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Mimecast Limited (MIME) Earnings EPS Surprise Summary")
+
+
+[Mimecast Limited (MIME) Earnings EPS Surprise Summary](https://seekingalpha.com/symbol/MIME/earnings/eps_surprise_summary)
+
+
+> No body in the article.
+
+
+***
+![Mimecast Limited (MIME) Earnings Estimates](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Mimecast Limited (MIME) Earnings Estimates")
+
+
+[Mimecast Limited (MIME) Earnings Estimates](https://seekingalpha.com/symbol/MIME/earnings/estimates)
+
+
+> No body in the article.
+
+
