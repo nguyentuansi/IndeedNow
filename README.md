@@ -20225,3 +20225,47 @@
 > British journalist and author of "Madness of Crowds" Douglas Murray slammed Big Tech companies Tuesday, saying that the time to regulate them is "long overdue", but cautioning that he is concerned about who will be in charge of reining them in and what the new rules might be. During an appearance on "Fox & Friends" , Murray slammed Silicon Valley, claiming that their companies have "galvanized everything" and that in the past other corporations would have been subject to monopoly laws and merger commissions much sooner.
 
 
+***
+![I've written a guide on how to use Win32 APIs to monitor USB drives on Windows and performing automated tasks with Python](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "I've written a guide on how to use Win32 APIs to monitor USB drives on Windows and performing automated tasks with Python")
+
+
+[I've written a guide on how to use Win32 APIs to monitor USB drives on Windows and performing automated tasks with Python](https://www.reddit.com/r/Python/comments/lb2gj6/ive_written_a_guide_on_how_to_use_win32_apis_to/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Fake News Twitter Bot](https://external-preview.redd.it/bjgVWYYLymlLW6fEvgUJAcIV1vcenzRyHA_g5JpGEeU.jpg?auto=webp&s=f00e8735d2fade12f20dda99999ba931b99d994a "Fake News Twitter Bot")
+
+
+[Fake News Twitter Bot](https://www.reddit.com/r/Python/comments/lb2fp1/fake_news_twitter_bot/)
+
+
+> Hey guys, this is my first post in this subreddit. I'm a high schooler who has around a year of experience in programming. I noticed on Twitter that there is constantly fake news circulating, so for one of my projects, the one I'm going to be showing here, I designed a program that integrated a fake news model with a Twitter bot. Basically, when you mention the bot (like doing "@fakenewsrandom") on Twitter with a link in the tweet, the bot will reply within 10 seconds of its response, determining whether the article is real or fake.
+
+
+***
+[Pro gamer Vikkstar QUITS Call of Duty Warzone over cheating controversy](https://www.thesun.ie/tech/6504963/pro-gamer-vikkstar-quits-call-of-duty-warzone-cheating/)
+
+
+> A TOP Call of Duty player has quit the game because it’s “saturated with cheating”. UK gamer Vikkstar, who has seven million subscribers on YouTube, said battle royale shooter Warzone is in “the worst state it's ever been”. “It needs to be fixed or it will result in the death of the game,” Vikkstar said […]
+
+
+***
+[These waterproof Bluetooth earbuds cost JUST £10 in cracking Amazon deal](https://www.thesun.ie/tech/6504933/boltune-bluetooth-earbuds-deal-amazon/)
+
+
+> HAVE you lost your Airpods, Galaxy Buds, or just need an affordable backup option? We've seen a deal on a pair of Boltune earbuds which could be just what you need. This article and featured products have been independently chosen by Sun journalists. It contains links which are ads, and if you click a link […]
+
+
+***
+![How to Fix Facebook Groups](https://static01.nyt.com/images/2021/02/02/business/02ontech-groups-videostill/02ontech-groups-videostill-facebookJumbo.png "How to Fix Facebook Groups")
+
+
+[How to Fix Facebook Groups](https://www.nytimes.com/2021/02/02/technology/how-to-fix-facebook-groups.html)
+
+
+> Continue reading the main storyFacebook groups spread conspiracy theories and shield abuse. Here are ways to make them less toxic.VideoCreditCredit...By Sean DongFeb. 2, 2021, 1:11 p.m. ETThis article is part of the On Tech newsletter. You can sign up here to receive it weekdays.The QAnon conspiracy theory, promotions of bogus health treatments and calls for violence based on false claims of election fraud have a common thread: Facebook groups.These forums for people with a shared interest can be wonderful communities for avid gardeners in the same neighborhood or parents whose children have a rare disease.
+
+
