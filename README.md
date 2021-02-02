@@ -20269,3 +20269,53 @@
 > Continue reading the main storyFacebook groups spread conspiracy theories and shield abuse. Here are ways to make them less toxic.VideoCreditCredit...By Sean DongFeb. 2, 2021, 1:11 p.m. ETThis article is part of the On Tech newsletter. You can sign up here to receive it weekdays.The QAnon conspiracy theory, promotions of bogus health treatments and calls for violence based on false claims of election fraud have a common thread: Facebook groups.These forums for people with a shared interest can be wonderful communities for avid gardeners in the same neighborhood or parents whose children have a rare disease.
 
 
+***
+![Australian prime minister says Bing could replace Google](https://imagevars.gulfnews.com/2021/02/02/Microsoft-Bing_17763edca95_medium.jpg "Australian prime minister says Bing could replace Google")
+
+
+[Australian prime minister says Bing could replace Google](https://gulfnews.com/technology/media/australian-prime-minister-says-bing-could-replace-google-1.1612289070815)
+
+
+> Image Credit: Shutterstock Canberra: Australia's prime minister said on Monday that Microsoft is confident it can fill the void if Google carries out its threat to remove its search engine from Australia. A Google executive told a Senate hearing last month that it would likely make its search engine unavailable in Australia if the government goes ahead with a draft law that would make tech giants pay for news content. Prime Minister Scott Morrison said he has spoken to Microsoft chief executive Satya Nadella about its search engine, Bing, filling the space.
+
+
+***
+![Google shutters internal Stadia game studio](https://imagevars.gulfnews.com/2021/02/02/Google-Stadia_17763e7083a_medium.jpg "Google shutters internal Stadia game studio")
+
+
+[Google shutters internal Stadia game studio](https://gulfnews.com/technology/companies/google-shutters-internal-stadia-game-studio-1.1612288891691)
+
+
+> Image Credit: AFP New York: Google is closing the internal studio tasked with developing games for its Stadia cloud-gaming service, a move that raises questions about the future of the Stadia service itself. Google launched Stadia in November 2019 as a new type of video-game platform that operates without a console and that stores game-playing sessions in the cloud. It lets players jump across devices including phones, PCs and laptops. But in a Monday blog post, Google said it will no longer invest in creating its own games for the service beyond any "near-term" planned titles.
+
+
+***
+![Apple car to be based on Hyundai's EV platform](https://imagevars.gulfnews.com/2020/06/09/Apple-logo_1729a6f07ab_medium.jpg "Apple car to be based on Hyundai's EV platform")
+
+
+[Apple car to be based on Hyundai's EV platform](https://gulfnews.com/technology/apple-car-to-be-based-on-hyundais-ev-platform-1.1612289492110)
+
+
+> Image Credit: Bloomberg San Francisco: The first Apple electric car will be built on Hyundai's electric vehicle platform and the initial model could lead to new vehicles built in association with General Motors and European manufacturer PSA, noted TF Securities analyst Ming-Chi Kuo has said. In a fresh note to investors issued late on Monday, Kuo said that Apple's deep collaboration with current automakers (Hyundai Group, GM and PSA) who have extensive development, production, and qualification experience will significantly shorten the Apple Car development time and create a time-to-market advantage".
+
+
+***
+![Microsoft to add new features to Office mobile apps](https://imagevars.gulfnews.com/2021/02/02/Microsoft-Office_17763f90422_medium.jpg "Microsoft to add new features to Office mobile apps")
+
+
+[Microsoft to add new features to Office mobile apps](https://gulfnews.com/technology/microsoft-to-add-new-features-to-office-mobile-apps-1.1612289864308)
+
+
+> Image Credit: Shutterstock San Francisco: Microsoft is all set to bring voice command, video and other features to its Office mobile apps on iOS and Android platforms. The company will be delivering some of its promised "conversational AI" technology in Cortana starting with iOS, new ways for users to create short videos using Microsoft Lens and other productivity updates for Teams, Outlook and other Office apps. According to the officials, conversational AI technology with Cortana is something Microsoft highlighted back at its Build 2019 conference.
+
+
+***
+![ਤ੍ਰਿਣਮੂਲ ਵਿਧਾਇਕ ਹਲਦਰ ਕਈ ਨੇਤਾਵਾਂ ਨਾਲ ਭਾਜਪਾ 'ਚ ਸ਼ਾਮਲ](https://static.jagbani.com/multimedia/2021_2image_01_26_230574418haldar-ll.jpg "ਤ੍ਰਿਣਮੂਲ ਵਿਧਾਇਕ ਹਲਦਰ ਕਈ ਨੇਤਾਵਾਂ ਨਾਲ ਭਾਜਪਾ 'ਚ ਸ਼ਾਮਲ")
+
+
+[ਤ੍ਰਿਣਮੂਲ ਵਿਧਾਇਕ ਹਲਦਰ ਕਈ ਨੇਤਾਵਾਂ ਨਾਲ ਭਾਜਪਾ 'ਚ ਸ਼ਾਮਲ](https://jagbani.punjabkesari.in/national/news/trinamool-mla-haldar-joins-bjp-along-with-several-other-leaders-1266691)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
