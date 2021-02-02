@@ -19803,3 +19803,47 @@
 > No ratings were found on which match these criteria.
 
 
+***
+![Tech tycoon buys SpaceX flight to orbit, sets aside seats for sweepstakes winner (and a fellow techie)](https://s.yimg.com/uu/api/res/1.2/wg6crGBFG69tbGkT2I3.RQ--~B/aD00MjA7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/geekwire_312/84f9b362b0affc025bdc3665c15d5206 "Tech tycoon buys SpaceX flight to orbit, sets aside seats for sweepstakes winner (and a fellow techie)")
+
+
+[Tech tycoon buys SpaceX flight to orbit, sets aside seats for sweepstakes winner (and a fellow techie)](https://finance.yahoo.com/news/tech-tycoon-buys-spacex-flight-001238361.html)
+
+
+> Shift4 Payments CEO Jared Isaacman will command an all-civilian space mission to orbit. (SpaceX Photo) A billionaire CEO who also happens to be a trained jet pilot is buying a days-long flight to orbit aboard SpaceX's Crew Dragon spacecraft — and he's setting aside the three other seats for a health care worker, a sweepstakes prize winner and the top tech contestant in a 'Shark Tank'-style competition. That means you, too, could fly to space if you're lucky, or a techie. Jared Isaacman, the 37-year-old founder and CEO of Pennsylvania-based Shift4 Payments , will command the Inspiration4 mission , which is due for launch as early as this year and is currently due to last two to four days.
+
+
+***
+[Liberia's Economic Development Depends on The Rapidity with Which We Integrate Technology in Our Educational System, Now.](https://www.liberianobserver.com/columns/technology/liberias-economic-development-depends-on-the-rapidity-with-which-we-integrate-technology-in-our-educational-system-now/)
+
+
+> 'No nation has ever been able to establish & maintain a strong government with a poor ignorant population. Much of our progress in the future will depend upon the rapidity with which we mass educate our people now.” —-Hon. Didwo W. Twe By Dr. Darren Wilkins (Email: DWilkins@SaharaTeck.Com| Phone: 0886703789/0777129092) I injected excerpts from Honorable […]
+
+
+***
+[Sources: Democrats have complained to companies, including Google, that have suspended campaign donations, say they are being penalized for Republicans' actions (Wall Street Journal)](http://www.techmeme.com/210201/p29#a210201p29)
+
+
+> Wall Street Journal: Sources: Democrats have complained to companies, including Google, that have suspended campaign donations, say they are being penalized for Republicans' actions — Lawmakers say companies' suspension of campaign donations puts business priorities at risk — Lawmakers from both parties …
+
+
+***
+![Facebook to comply with Apple's privacy change](https://www.straitstimes.com/s3/files/styles/x_large/public/articles/2021/02/02/ST_20210202_WKFB_6282374.jpg?itok=7BZ-O_tU "Facebook to comply with Apple's privacy change")
+
+
+[Facebook to comply with Apple's privacy change](https://www.straitstimes.com/tech/facebook-to-comply-with-apples-privacy-change-0)
+
+
+> SINGAPORE -Facebook said on Monday (Feb 1) it will abide by a new privacy feature that fellow tech giant Apple is preparing to roll out, even as it continues to cry foul over perceived double standards. Apple's App Tracking Transparency (ATT) feature, expected to be rolled out by the middle of this year, requires app developers to get users' consent before tracking their data across apps or websites owned by other companies. The feature will come with an update on Apple's latest operating system iOS 14.
+
+
+***
+![MediaTek launches 5G chip aimed at gaining US market share](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/2021-02-01T203656Z_282376233_RC2WJL9MWUTE_RTRMADP_3_MEDIATEK-5G-seo.JPG "MediaTek launches 5G chip aimed at gaining US market share")
+
+
+[MediaTek launches 5G chip aimed at gaining US market share](https://www.malaymail.com/news/tech-gadgets/2021/02/02/mediatek-launches-5g-chip-aimed-at-gaining-us-market-share/1946097)
+
+
+> MediaTek is one of the few suppliers of modem chips that help devices such as smart phones connect to cellular data networks. — Reuters pic TAIPEI, Feb 2 — Taiwanese chip designer MediaTek Inc yesterday released a new 5G chip aimed at helping it gain market share in the United States. Along with Qualcomm Inc and Samsung Electronics Co Ltd, MediaTek is one of the few suppliers of modem chips that help devices such as smart phones connect to cellular data networks. The company supplies chips to phone makers such as Xiaomi Corp and LG Electronics Inc, among others.
+
+
