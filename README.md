@@ -19847,3 +19847,47 @@
 > MediaTek is one of the few suppliers of modem chips that help devices such as smart phones connect to cellular data networks. — Reuters pic TAIPEI, Feb 2 — Taiwanese chip designer MediaTek Inc yesterday released a new 5G chip aimed at helping it gain market share in the United States. Along with Qualcomm Inc and Samsung Electronics Co Ltd, MediaTek is one of the few suppliers of modem chips that help devices such as smart phones connect to cellular data networks. The company supplies chips to phone makers such as Xiaomi Corp and LG Electronics Inc, among others.
 
 
+***
+[Google 將藉 AI 協助福特加速數位轉型，啟動 6 年合作計畫](https://technews.tw/2021/02/02/ford-and-google-to-accelerate-auto-innovation-reinvent-connected-vehicle-experience/)
+
+
+> 福特汽車公司（Ford Motor Company）、Google 2 月 1 日宣布啟動 6 年合作夥伴關係 […]
+
+
+***
+![3D Printing Has Disrupted Packaging](https://www.itwire.com/media/k2/items/cache/9ea04a25074147c4e78e308228bd7512_XS.jpg "3D Printing Has Disrupted Packaging")
+
+
+[3D Printing Has Disrupted Packaging](https://www.itwire.com/print-solutions/3d-printing-has-disrupted-packaging-here-s-how.html)
+
+
+> By Ben Darling, Country Manager for ANZ, Stratasys:   It's no surprise that 3D printing has forced several industries to change, and as the technology advances, its impact ripples outward into new areas. Much of the improvement exhibited by the 3D printing sector concerns the cost of obtaining and using a 3D printer, with $100 printers now empowering hobbyists at any level to become a 'maker' themselves. This disruption in the age-old manufacturing dynamic, whereby factories are the exclusive makers of goods, has now spread to the packaging sector as 3D printers also set their sights on the wrapping and boxing that these goods arrive in.
+
+
+***
+[Canada joins Aussie fight for tech giants to pay for news](https://www.goldcoastbulletin.com.au/technology/online/google-and-facebooks-threats-against-australians-prove-regulation-is-needed-inquiry-hears/news-story/82bea2328626d51daabfeac21291e9a0)
+
+
+> Canada will follow Australia's world-first move to force tech giants to pay for the news they use.
+
+
+***
+![Canada joins Aussie fight for tech giants to pay for news](https://content.api.news/v3/images/bin/5b77c8bc21d7005e6c1ea43329ca6d41 "Canada joins Aussie fight for tech giants to pay for news")
+
+
+[Canada joins Aussie fight for tech giants to pay for news](https://www.heraldsun.com.au/technology/online/google-and-facebooks-threats-against-australians-prove-regulation-is-needed-inquiry-hears/news-story/82bea2328626d51daabfeac21291e9a0)
+
+
+> Canada is following Australia's world-first move to make social media giants pay for the news they use.Canada will follow Australia's world-first move to force tech giants to pay for the news they use.The country's Liberal government will introduce a bill this year that addresses how social media companies should compensate Canadian news publishers, the Globe and Mail reports.Canada's Heritage Minister Steven Guilbeault is reportedly ‘looking closely' at developments in Australia, where media code legislation that would force tech giants to pay for news could pass the Senate as early as this month.
+
+
+***
+![Apple sells $14 billion of bonds to take advantage of low interest rates](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2015/11/apple-store-kenwood-logo-close-hero.JPG "Apple sells $14 billion of bonds to take advantage of low interest rates")
+
+
+[Apple sells $14 billion of bonds to take advantage of low interest rates](https://www.imore.com/apple-sells-14-billion-bonds-take-advantage-low-interest-rates)
+
+
+> New borrowing Apple is getting in on those rock-bottom interest rates. 1 Feb 2021 Source: iMore Apple has sold $14 of bonds. The company plans to use the funds for "general corporate purposes." As reported by Bloomberg, Apple has sold $14 billion of bonds. The company is reportedly taking advantage of cheaper borrowing costs in order to return more cash to its shareholders. The company issued debt in six parts. The longest portion of the offering, a 40-year security, will yield 95 basis points above Treasuries, after initially discussing between 115 and 120 basis points, according to a person with knowledge of the matter, who asked not to be identified as the details are private.
+
+
