@@ -20757,3 +20757,53 @@
 > February 03, 2021 09:00 AM Eastern Standard Time WALTHAM, Mass.--(BUSINESS WIRE)--Mobile Heartbeat today announced it has partnered with Colossal Contracting, LLC (Colossal), a value-added reseller with over a decade of experience in the federal space. Colossal is a Service-Disabled Veteran Owned Small Business (SDVOSB) certified through the Veterans Affairs CVE Program. Together with Mobile Heartbeat, Colossal will provide customer organizations with the MH-CURE platform in order to optimize clinical communications, streamline workflows and improve patient care.
 
 
+***
+![Amazon's new CEO has his head in the cloud. And so do Google and Microsoft.](https://media2.s-nbcnews.com/j/newscms/2021_05/3447300/210203-andy-jassy-al-1022_19e526a1b394ba170613a7e2148a6ab5.nbcnews-fp-1200-630.jpg "Amazon's new CEO has his head in the cloud. And so do Google and Microsoft.")
+
+
+[Amazon's new CEO has his head in the cloud. And so do Google and Microsoft.](https://www.nbcnews.com/tech/tech-news/amazon-s-new-ceo-has-his-head-cloud-so-do-n1256591)
+
+
+> Amazon is a shopping site. Google is all about search. Microsoft makes Windows. That's what a lot of people think of when they consider the reputations of three of the biggest tech companies around. But increasingly, the labels are all out of date, as the three companies turn more toward a far more profitable line of business: cloud computing. The elevation Tuesday of Andy Jassy to Amazon's future CEO was the latest evidence that the forecast for Big Tech is increasingly cloudy. Jassy spent the past two decades building the company's cloud business, Amazon Web Services, from scratch.
+
+
+***
+![Bumper sale of these 10 cars announced for 2021, which is your favourite?](https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/car-jan100-th1_202102555421.jpg "Bumper sale of these 10 cars announced for 2021, which is your favourite?")
+
+
+[Bumper sale of these 10 cars announced for 2021, which is your favourite?](https://english.lokmat.com/photos/technology/bumper-sale-of-these-10-cars-announced-for-2021-which-is-your-favourite/)
+
+
+> Post the COVID-19 lockdown, everything is slowly getting back on track. Two years have been very difficult for the automotive sector. As a result, auto companies have been making strong preparations this year. There are some reassuring results. 3 lakh cars were sold in January In January 2021, 18,260 cars were sold. In the same month last year, 18,914 cars were sold. Sales are down 3 percent this year. In January 2021, 17,180 cars were sold. In the same month last year, 19,981 cars were sold. Sales are down 14 percent this year.
+
+
+***
+![Jeff Bezos picks the right time to bow out](https://www.telegraph.co.uk/content/dam/technology/2016/08/10/104331579_Jeff_Bezos_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwabMyu2bUdHipqUGYDrD4Pc.jpg?impolicy=logo-overlay "Jeff Bezos picks the right time to bow out")
+
+
+[Jeff Bezos picks the right time to bow out](https://www.telegraph.co.uk/technology/2021/02/03/jeff-bezos-picks-right-time-bow/)
+
+
+> Jeff Bezos joins an exodus which began with Bill Gates' exit from Microsoft in 2014.  It accelerated last year when Google founders Larry Page and Sergey Brin quit , handing over the reins to their hand-picked successor, Sundar Pichai, just a few months before the antitrust lawsuits began to pile up on the doormat. All of these companies share a great deal in common. They grew up in the heady early days of the web in a virtual regulatory vacuum, with few guard rails to constrain their relentless expansion into new markets and services.
+
+
+***
+![EbixCash Wins Prestigious Long-term Contract for Automating and Digitizing the City of Pune's Bus Ticketing and Fare Collection System](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "EbixCash Wins Prestigious Long-term Contract for Automating and Digitizing the City of Pune's Bus Ticketing and Fare Collection System")
+
+
+[EbixCash Wins Prestigious Long-term Contract for Automating and Digitizing the City of Pune's Bus Ticketing and Fare Collection System](https://seekingalpha.com/pr/18177402-ebixcash-wins-prestigious-long-term-contract-for-automating-and-digitizing-city-of-pune-s-bus)
+
+
+> NOIDA, India and JOHNS CREEK , Ga., Feb. 03, 2021 (GLOBE NEWSWIRE) -- Ebix, Inc. ( EBIX ), a leading international supplier of On-Demand software and E-commerce services to the insurance, financial, healthcare and e-learning industries today announced that its Indian subsidiary EbixCash has been awarded the prestigious order to design, develop, build, install, maintain, operate and transfer the automatic fare collection system for all the buses run by the Government owned transport corporation in Pune, namely Pune Mahanagar Parivahan Mahamandal Limited (PMPML).
+
+
+***
+![Ingredion +8.3% on Q4 earnings smasher (NYSE:INGR)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Ingredion +8.3% on Q4 earnings smasher (NYSE:INGR)")
+
+
+[Ingredion +8.3% on Q4 earnings smasher (NYSE:INGR)](https://seekingalpha.com/news/3657814-ingredion-83-on-q4-earnings-smasher)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
