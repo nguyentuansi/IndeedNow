@@ -20807,3 +20807,50 @@
 > Javascript is Disabled Your current browser configuration is not compatible with this site.
 
 
+***
+![Is Bebo coming back in 2021? All we know about Michael Birch's relaunch, and what happened to the old version](https://i.inews.co.uk/content/uploads/2021/02/Screenshot-2021-02-03-at-10.10.41.png "Is Bebo coming back in 2021? All we know about Michael Birch's relaunch, and what happened to the old version")
+
+
+[Is Bebo coming back in 2021? All we know about Michael Birch's relaunch, and what happened to the old version](https://inews.co.uk/news/technology/bebo-coming-back-2021-michael-birch-relaunch-beta-what-happened-old-social-media-855938)
+
+
+> Bebo – once the UK's most popular social network – is making a comeback.Rumours of its return begun swirling last week, when people noticed a 'coming soon' message on the site's previously dormant homepage.The i newsletter latest news and analysisHowever, none of the buttons on the site worked, leading to many believe it was a hoax.Co-founder Michael Birch has now revealed that he really is relaunching the site, and plans to provide an antidote to Facebook and Twitter.When is Bebo coming back?The message on Bebo's homepage says it will be launching in February 2021, meaning it should go live in the next few weeks.
+
+
+***
+![Could Zero Trust security have saved Pelosi's lost laptop?](http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/1/7/8/p-large/7fcf062586eab1da13372e78edbc598e51058d4e.jpg "Could Zero Trust security have saved Pelosi's lost laptop?")
+
+
+[Could Zero Trust security have saved Pelosi's lost laptop?](http://www.digitaljournal.com/tech-and-science/technology/could-zero-trust-security-have-saved-pelosi-s-lost-laptop/article/584795)
+
+
+> With remote working seeing a rise in cyberattacks, due to weaknesses in business security protocols, this provides the ideal time to reconsider the Zero Trust approach to IT systems. With recent work-from-home (and what will probably evolve into hybrid) work environments, increasing coupled with recent attacks on remote working systems, new approaches are required. This brings Zero Trust back into the spotlight. The main idea behind Zero Trust is that networked devices, like laptops, should not be trusted by default.
+
+
+***
+[Google and its partner SubCom say the Dunant subsea cable between US and France is now operational; the 4,000-mile cable can carry 250 terabits/second (Paul Sawers/VentureBeat)](http://www.techmeme.com/210203/p33#a210203p33)
+
+
+> Paul Sawers / VentureBeat: Google and its partner SubCom say the Dunant subsea cable between US and France is now operational; the 4,000-mile cable can carry 250 terabits/second — Google's second fully privately owned subsea cable is now open for business. The announcement comes shortly after the company recorded …
+
+
+***
+![Give voice to your words with Notevibes text-to-speech, now under $70](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/sale_163485_article_image-6kxt.jpg "Give voice to your words with Notevibes text-to-speech, now under $70")
+
+
+[Give voice to your words with Notevibes text-to-speech, now under $70](https://www.imore.com/give-voice-your-words-notevibes-text-speech-now-under-70)
+
+
+> Source: Stack Commerce Source: StackCommerce Text-to-speech can be really useful for creating video voice-overs and audiobooks — but many apps use weird voices. Notevibes helps you produce something more natural, with 177 customizable voices for just $69.99. Not everyone is blessed with a radio-quality voice. Perhaps more importantly, you may not have the time to do a full voice-over for every project. With Notevibes, you can add high-quality narration in seconds. This web-based platform has 177 voices and over 1.
+
+
+***
+![Grab the best screen protectors to keep your OnePlus 8T looking great](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/oneplus-8t-16.jpg "Grab the best screen protectors to keep your OnePlus 8T looking great")
+
+
+[Grab the best screen protectors to keep your OnePlus 8T looking great](https://www.androidcentral.com/best-oneplus-8t-screen-protectors)
+
+
+> Best OnePlus 8T Screen Protectors Android Central 2021 From getting the best OnePlus 8T cases to finding the best screen protectors, accessorizing your device is everything. When it comes to a new smartphone as great as the OnePlus 8T, finding the right accessories can be a bit daunting. Thankfully, there are plenty of great options available for those trying to ensure the display of their phones continues to look great for years to come. Staff pick OnePlus has taken to providing all of its own accessories the latest devices, including the OnePlus 8T.
+
+
