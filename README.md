@@ -20901,3 +20901,53 @@
 > Ingrid Lunden / TechCrunch: Touchcast, which builds tools to help companies create and run virtual events, raises $55M Series A led by Accenture Ventures — Events — when they haven't been cancelled altogether in the last 12 months due to the global health pandemic — have gone virtual and online …
 
 
+***
+![Tesla China Receives Approval For 'New Model Early Launch Project': Report](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Tesla China Receives Approval For 'New Model Early Launch Project': Report")
+
+
+[Tesla China Receives Approval For 'New Model Early Launch Project': Report](https://www.benzinga.com/tech/21/02/19476836/tesla-china-receives-approval-for-new-model-early-launch-project-report)
+
+
+> During Tesla Inc's (NASDAQ: TSLA )  battery day , CEO Elon Musk talked about a future $25,000 Tesla vehicle. The company aimed to have the lower cost vehicle available for purchase within the next three years using advances in battery manufacturing that would help lower costs. Now, a post  from Tesmanian  details government documents giving Tesla approval for a "new model early launch project" manufacturing process at Gigafactory Shanghai. Tesla China received approval on January 29, 2021, on an environmental impact report from the Lingang Area Development and Construction Management Committee, according to Tesmanian.
+
+
+***
+![Microsoft backs Australian plan to make Google pay for news](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/21/95/8dc32b41830f24a66814d50dad8c66528bed/downloadrolemainqtSkZXl6XhG-Fcid1ec706fb8489435d8770a04a02f8b79cptMzE3NDh8ODU0MzZ8MnwwfC0ai94a289b24e239ea1870d49dc0a5b6d0capikeyofg7szy7sjwd4nq89x737iordw.jpeg "Microsoft backs Australian plan to make Google pay for news")
+
+
+[Microsoft backs Australian plan to make Google pay for news](https://japantoday.com/category/tech/microsoft-backs-australian-plan-to-make-google-pay-for-news)
+
+
+> Microsoft said on Wednesday it supports Australia's plans to make the biggest digital platforms pay for news and would help small businesses transfer their advertising to Bing if Google quits the country. Microsoft has been positioning itself to increase market share for its search engine Bing after a Google executive told a Senate hearing last month that it would likely make its search engine unavailable in Australia if the government goes ahead with a draft law that would make tech giants pay for news content.
+
+
+***
+![Mobile games update: 'League of Legends: Wild Rift,' 'Crash Bandicoot,' and Thor in 'Marvel Realm of Champions'](https://www.gannett-cdn.com/presto/2021/02/03/USAT/1d956630-a934-47af-814b-a29cc68f5458-WildRift_KeyArt1.jpg?crop=1739,978,x0,y0&width=1600&height=800&fit=bounds "Mobile games update: 'League of Legends: Wild Rift,' 'Crash Bandicoot,' and Thor in 'Marvel Realm of Champions'")
+
+
+[Mobile games update: 'League of Legends: Wild Rift,' 'Crash Bandicoot,' and Thor in 'Marvel Realm of Champions'](https://www.usatoday.com/story/tech/gaming/2021/02/03/video-games-mobile-league-legends-wild-rift-due-march/4372708001/)
+
+
+> Soon, you will be able to play a full-fledged " League of Legends " game on your smartphone. A beta version of "League of Legends: Wild Rift" will be available in March for iPhone and Android, Riot Games announced Wednesday. The game further expands the mobile universe of the popular PC game, which already spawned a card-based game "Legends of Runeterra," played on PCs and mobile in April 2020. And it builds on the rich franchise of  "League of Legends,"   which launched in 2009 and still has about 100 million players monthly on PC.
+
+
+***
+![Amazon to pay $61.7 million after FTC says company withheld tips from delivery drivers](https://www.gannett-cdn.com/-mm-/ef6a38fdf581248e337ea73b113d31e3000afcac/c=159-0-1841-946/local/-/media/2020/07/06/USATODAY/usatsports/MotleyFool-TMOT-46086307-amzn-prime-vans.jpg?width=1600&height=800&fit=crop "Amazon to pay $61.7 million after FTC says company withheld tips from delivery drivers")
+
+
+[Amazon to pay $61.7 million after FTC says company withheld tips from delivery drivers](https://www.usatoday.com/story/tech/2021/02/03/amazon-delivery-driver-ftc-complaint-company-pay-tips/4369546001/)
+
+
+> CLOSE A family's doorbell camera captured an adorable moment of a delivery man playing hopscotch. Storyful Amazon will pay more than $61.7 million to settle Federal Trade Commission charges of withholding tips from its delivery drivers, according to the FTC.  The FTC claimed the retail giant failed to pay  Amazon Flex drivers the full amount of tips they received from Amazon customers from late 2016 to August 2019. The consumer protection agency said Tuesday the settlement represents the full amount Amazon allegedly withheld from drivers and will be used to compensate them.
+
+
+***
+![EBay shares jump on holiday-quarter beat, strong first-quarter sales forecast](https://i-invdn-com.akamaized.net/news/LYNXMPEB410C9_L.jpg "EBay shares jump on holiday-quarter beat, strong first-quarter sales forecast")
+
+
+[EBay shares jump on holiday-quarter beat, strong first-quarter sales forecast](https://www.investing.com/news/technology-news/ebay-holidayquarter-revenue-beats-estimates-2408368)
+
+
+> © Reuters. FILE PHOTO: The eBay logo is pictured on a phone screen in this photo illustration (Reuters) - E-commerce firm eBay Inc (NASDAQ:) on Wednesday topped Wall Street expectations for the holiday quarter and forecast upbeat current-quarter sales, helped by a surge in online shopping during the COVID-19 pandemic. Shares of the company jumped over 9% to $63.46 in extended trade on the news. The global health crisis has forced millions of Americans to stay indoors, leading to a jump in online orders for e-commerce companies including eBay, Amazon.
+
+
