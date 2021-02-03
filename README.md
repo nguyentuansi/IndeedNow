@@ -20660,3 +20660,53 @@
 > If you are someone who works on computers a lot, be it for playing games, college work, or for programming, efficiency is called for! In this tutorial, I'll show you how you can boost your productivity by creating a macro keyboard using Arduino & do tasks with just single button presses!
 
 
+***
+![Amazon intensifies 'severe' effort to discourage first-ever US warehouse union](https://i.guim.co.uk/img/media/9e094d277660eb56259a4ea3115a11db643a1202/0_196_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2679b542311c432e867efe90322c8f2 "Amazon intensifies 'severe' effort to discourage first-ever US warehouse union")
+
+
+[Amazon intensifies 'severe' effort to discourage first-ever US warehouse union](http://www.theguardian.com/technology/2021/feb/03/amazon-intensifies-severe-effort-discourage-first-warehouse-union)
+
+
+> A push to unionize workers at an Amazon warehouse in Alabama is running into tough opposition as the retail giant, whose profits have boomed during the coronavirus pandemic despite concerns over worker safety, has launched an aggressive anti-union drive. If workers at the BHM1 warehouse in Bessemer, near Birmingham, succeed in their efforts they would form the first union at an Amazon warehouse in the US. The warehouse opened in March 2020, during the beginning of the pandemic. By the end of 2020, the Retail Wholesale and Department Store Union said over 2,000 workers at the warehouse signed union authorization cards ahead of the election workers filed for in November 2020.
+
+
+***
+![Sony raises outlook amid home entertainment boom, but struggles to build more PS5s](https://assets2.rappler.com/2021/02/reuters-20210203-sony-ps5-2021-02-03T043736Z_1773779690_RC2SKL9P757O_RTRMADP_3_SONY-RESULTS-1612346121580.jpg "Sony raises outlook amid home entertainment boom, but struggles to build more PS5s")
+
+
+[Sony raises outlook amid home entertainment boom, but struggles to build more PS5s](https://www.rappler.com/technology/sony-raises-outlook-home-entertainment-boom)
+
+
+> Sony raised its full-year profit outlook by one-third, helped by pandemic-fueled demand for games, movies, and other content, but said it was struggling to build enough PlayStation 5 (PS5) consoles amid a global shortage of semiconductors. The electronics and entertainment conglomerate said on Wednesday some customers may have to wait longer for their consoles as it competes for chips with other businesses ranging from smartphone makers to car companies. "It is difficult for us to increase production of the PS5 amid the shortage of semiconductors and other components," Chief Financial Officer Hiroki Totoki said at a press briefing.
+
+
+***
+![Fujifilm GFX 100S camera shipment delays due to lack of supply](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Fujifilm-GFX-100S-Launch-India-647x363.jpeg?ltoEG_87MEtZwO_KXohpB3vQuvG4VFKp "Fujifilm GFX 100S camera shipment delays due to lack of supply")
+
+
+[Fujifilm GFX 100S camera shipment delays due to lack of supply](https://www.indiatoday.in/technology/news/story/fujifilm-gfx-100s-camera-shipment-delays-due-to-lack-of-supply-1765575-2021-02-03)
+
+
+> Fujifilm Japan has published a notice of delay for its GFX 100S camera. Fujifilm states that the company has received more reservations for the mirrorless camera than expected. During the launch, Fujifilm said that all the new products will be available by the end of February. Fujifilm recently launched two cameras: Fujifilm GFX 100S and Fujifilm X-E4 as well as three lenses . The GFX 100S is a large format camera which features a 102-megapixel CMOS sensor. As the name suggests, the camera supports the GFX system to produce high-quality images.
+
+
+***
+![Cyberpunk 2077 players warned against using mods and it is serious matter](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/cyberpunk_2077-483x271_1200_210203170533.jpeg "Cyberpunk 2077 players warned against using mods and it is serious matter")
+
+
+[Cyberpunk 2077 players warned against using mods and it is serious matter](https://www.indiatoday.in/technology/news/story/cyberpunk-2077-players-warned-against-using-mods-and-it-is-serious-matter-1765548-2021-02-03)
+
+
+> Highlights Cyberpunk 2077 players should not install third-party mods. There is a vulnerability in the game that might expose the PC to various risks. CD Projekt Red has said it is working on a fix for this vulnerability. Cyberpunk 2077 creators have warned players against installing a mod or using custom saves as a new vulnerability might pose a risk. In a tweet, CD Projekt Red said that people trying to go for mods and custom saves should "use caution" as the company has come to know about a vulnerability in the external DLL files that the game uses.
+
+
+***
+![Nokia 1.4 with 8MP dual rear cameras, big screen launched: Price, specifications](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/press-release-hmd-global-nokia-483x271_1200_210203160711.jpeg "Nokia 1.4 with 8MP dual rear cameras, big screen launched: Price, specifications")
+
+
+[Nokia 1.4 with 8MP dual rear cameras, big screen launched: Price, specifications](https://www.indiatoday.in/technology/news/story/nokia-1-4-with-8mp-dual-rear-cameras-big-screen-launched-price-specifications-1765527-2021-02-03)
+
+
+> HMD Global has launched a new entry-level smartphone called the Nokia 1.4 and it will be available globally. Shubham Verma | February 3, 2021 | Updated 15:57 IST
+
+
