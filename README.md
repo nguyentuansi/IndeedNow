@@ -20516,3 +20516,50 @@
 > Amazon CEO and founder Jeff Bezos announced on Tuesday that he will step down as the CEO of the company. Ankita Chakravarti | February 3, 2021 | Updated 08:50 IST
 
 
+***
+![Huawei Mate 50: what we want to see](https://cdn.mos.cms.futurecdn.net/AoyHs4RPPTWB9Saj3CGNGc-1200-80.jpg "Huawei Mate 50: what we want to see")
+
+
+[Huawei Mate 50: what we want to see](https://www.techradar.com/news/huawei-mate-50)
+
+
+> The Huawei Mate 50 range probably won't land for a long time yet, but if you can wait until the end of the year for a new phone - and can live without access to Google Play - then it might well be worth waiting for, as the hardware is likely to be among the best of the year.That was true of the Huawei Mate 40 range in 2020, phones which – particularly in the case the Huawei Mate 40 Pro and Pro Plus – had brilliant screens, stunning designs, class-leading cameras, good battery life, and plenty of power.
+
+
+***
+![Microsoft sides with Australian gov in digital news fight, suggests Bing to replace Google](https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1200-80.jpg "Microsoft sides with Australian gov in digital news fight, suggests Bing to replace Google")
+
+
+[Microsoft sides with Australian gov in digital news fight, suggests Bing to replace Google](https://www.techradar.com/news/microsoft-sides-with-australian-gov-in-digital-news-fight-suggests-bing-to-replace-google)
+
+
+> (Image credit: gguy / Shutterstock) The battle surrounding Australia's contentious new media laws just got a new participant.Following Google's threat to exit the Australian market last month, Microsoft has suggested it's ready and waiting to step in to become Australia's search engine of choice, offering up its own service Bing as a replacement.Microsoft has today publicly thrown its support behind the Australian Federal Government's efforts to pass a proposed media bargaining code, which would require tech giants such as Google and Facebook to pay Australian news organizations for their content.
+
+
+***
+![Microsoft backs Australian plan to make Google pay for news](https://resources.stuff.co.nz/content/dam/images/4/y/q/s/4/5/image.related.StuffLandscapeSixteenByNine.1420x800.4yqs48.png/1612331575144.jpg "Microsoft backs Australian plan to make Google pay for news")
+
+
+[Microsoft backs Australian plan to make Google pay for news](https://www.stuff.co.nz/technology/300221144/microsoft-backs-australian-plan-to-make-google-pay-for-news)
+
+
+> Microsoft said on Wednesday it supports Australia's plans to make the biggest digital platforms pay for news and would help small businesses transfer their advertising to Bing if Google quits the country. Microsoft has been positioning itself to increase market share for its search engine Bing after a Google executive told a Senate hearing last month that it would likely make its search engine unavailable in Australia if the government goes ahead with a draft law that would make tech giants pay for news content.
+
+
+***
+![Vivo S9 with MediaTek Dimensity 1100 chipset tipped to launch on March 6](https://cdn.mos.cms.futurecdn.net/RFACMD4WMNTPKeBpjZNZx8-1200-80.jpg "Vivo S9 with MediaTek Dimensity 1100 chipset tipped to launch on March 6")
+
+
+[Vivo S9 with MediaTek Dimensity 1100 chipset tipped to launch on March 6](https://www.techradar.com/news/vivo-s9-with-mediatek-dimensity-1100-chipset-tipped-to-launch-on-march-6)
+
+
+> Vivo V20 Pro (Image credit: Bodhisatwa Ray) Vivo S9 could be the next device in the Vivo's V series lineup. While the Vivo S series is not popular as the V series in India, it is quite popular in China and the device is tipped to launch in China next month. According to a Weibo post from a user named Arsenal, the Vivo S9 will launch in China on March 6. The Vivo S7 will likely be the successor to the Vivo S7. According to the tipster, the Vivo S9 will be the first phone with the new MediaTek Dimensity 1100 processor.
+
+
+***
+[Profile of Alondra Nelson, Biden's first deputy director for science and society, a role meant to examine the sociological effects of emerging technologies (Emily Birnbaum/Protocol)](http://www.techmeme.com/210203/p2#a210203p2)
+
+
+> Emily Birnbaum / Protocol: Profile of Alondra Nelson, Biden's first deputy director for science and society, a role meant to examine the sociological effects of emerging technologies — Alondra Nelson knows what it's like to be let down by Facebook. — The renowned social scientist was just named as President Biden's …
+
+
