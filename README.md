@@ -20466,3 +20466,53 @@
 > It's been more than two months since revelations that alleged Russia-backed hackers broke into the IT management firm SolarWinds and used that access to launch a massive software supply chain attack. It now appears that Russia wasn't alone; Reuters reports that suspected Chinese hackers independently exploited a different flaw in SolarWinds products last year at around the same time, apparently hitting the US Department of Agriculture's National Finance Center.SolarWinds patched the vulnerability in December that the alleged China hackers exploited.
 
 
+***
+![Jeff Bezos is resigning as CEO of Amazon, here is what he will do next](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/jeff_bezos-483x271_1200_210203093508.png "Jeff Bezos is resigning as CEO of Amazon, here is what he will do next")
+
+
+[Jeff Bezos is resigning as CEO of Amazon, here is what he will do next](https://www.indiatoday.in/technology/news/story/jeff-bezos-is-resigning-as-ceo-of-amazon-here-is-what-he-will-do-next-1765350-2021-02-03)
+
+
+> Bezos has announced that he will be taking the role of executive chairman of Amazon's executive board. Sushant Talwar | February 3, 2021 | Updated 09:33 IST
+
+
+***
+![The Cost of the Most Noteworthy Apple Products Through the Years](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dkFC5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "The Cost of the Most Noteworthy Apple Products Through the Years")
+
+
+[The Cost of the Most Noteworthy Apple Products Through the Years](https://www.gobankingrates.com/saving-money/shopping/cost-of-apple-products-through-the-years/)
+
+
+> Cost Then: $1,298 Cost Now: $5,544 Compared to 1976's Apple I, the Apple II was a revelation. While the first Apple lacked a monitor, separate keyboard or casing, the Apple II included the whole package, complete with the introduction of five-color on-screen graphics. Adjusted for inflation, you could buy a used car for what the Apple II costs, but its price tag had brought the budding company $7.8 million in sales by 1978 — about $33.31 million in today's money. Guess: What $1,000 Invested in Apple 10 Years Ago Is Worth Today Microsoft may earn an Affiliate Commission if you purchase something through recommended links in this article Cost Then: $2,495 Cost Now: $6,215 This is when the world started calling Apples 'Macs.
+
+
+***
+![Tech stocks among top gainers on Bursa in morning trading session](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dkXV2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Tech stocks among top gainers on Bursa in morning trading session")
+
+
+[Tech stocks among top gainers on Bursa in morning trading session](http://www.theedgemarkets.com/article/tech-stocks-among-top-gainers-bursa-morning-trading-session)
+
+
+> © Provided by The Edge KUALA LUMPUR (Feb 3): The Bursa Malaysia Technology Index jumped as much as 3.4% or 2.8 points to 85.18 points as tech counters were among Bursa Malaysia's top gainers this morning. Five tech counters reached record highs today. At the time of writing, Malaysian Pacific Industries Bhd (MPI) was leading the pack as the counter had risen 5.25% or RM1.80 to a fresh high of RM36.10, making it the top gainer so far in the morning session. Its market capitalisation stood at RM7.56 billion.
+
+
+***
+![Amazon: CEO Jeff Bezos to step down as revenue tops $100b](https://imagevars.gulfnews.com/2019/02/08/Copy-of-Jeff_Bezos_National_Enquirer_11015_16a4a15b9ed.jpg-ed415-1549605567087_16a4a15b9ed_medium.jpg "Amazon: CEO Jeff Bezos to step down as revenue tops $100b")
+
+
+[Amazon: CEO Jeff Bezos to step down as revenue tops $100b](https://gulfnews.com/technology/companies/amazon-ceo-jeff-bezos-to-step-down-as-revenue-tops-100b-1.1612306697994)
+
+
+> File picture: Jeff Bezos, Amazon founder and CEO, is stepping down. Image Credit: AP Amazon on Tuesday said founder Jeff Bezos would step down as CEO and become executive chairman, as the company reported its third consecutive record profit and quarterly sales above $100 billion (Dh367 billion) for the first time. The transition, slated for the third quarter, will make current cloud computing chief Andy Jassy Amazon's next chief executive officer. Net sales rose to $125.56 billion as consumers turned to the world's largest online retailer for holiday shopping, beating analyst estimates of $119.
+
+
+***
+![Jeff Bezos stepping down as Amazon CEO, here is full letter he wrote to employees](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-03_at_8_1200_210203090535.46.-483x271.png "Jeff Bezos stepping down as Amazon CEO, here is full letter he wrote to employees")
+
+
+[Jeff Bezos stepping down as Amazon CEO, here is full letter he wrote to employees](https://www.indiatoday.in/technology/news/story/jeff-bezos-stepping-down-as-amazon-ceo-here-is-full-letter-he-wrote-to-employees-1765347-2021-02-03)
+
+
+> Amazon CEO and founder Jeff Bezos announced on Tuesday that he will step down as the CEO of the company. Ankita Chakravarti | February 3, 2021 | Updated 08:50 IST
+
+
