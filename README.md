@@ -20416,3 +20416,53 @@
 > Starship SN9 是 SpaceX 將人類帶往火星的希望，在之前事故後，近日又進行了一次高空飛行試驗， […]
 
 
+***
+![Twitter thinks it knows why Jeff Bezos stepped down as Amazon CEO](https://mondrian.mashable.com/2021%252F02%252F03%252F7b%252Fa1071bbf8b354be6a6c7f45f5b68cb58.e323d.jpg%252F1200x630.jpg?signature=bFKZcpVc3nYeqx6CwBV3indliiE= "Twitter thinks it knows why Jeff Bezos stepped down as Amazon CEO")
+
+
+[Twitter thinks it knows why Jeff Bezos stepped down as Amazon CEO](https://mashable.com/article/jeff-bezos-steps-down-amazon-ceo-twitter-conspiracy-theories/)
+
+
+> By now, you've probably read all the headlines and maybe even a few news stories about Jeff Bezos stepping down from his throne as CEO of Amazon to serve as its executive chairman instead. Bezos released a letter explaining the move that I retained absolutely none of — mostly because I got bored halfway through. In it, he mentions that as executive chair, he'll "stay engaged in important Amazon initiatives" and intends "to focus [his] energies and attention on new products and early initiatives." Of course, he left out the only tidbit of information I was interested in; the reason I read the letter to begin with: an explanation as to why he decided to make the switch.
+
+
+***
+![Jeff Bezos as Amazon scandals, a thread](https://mondrian.mashable.com/2021%252F02%252F03%252Ff9%252F2c1d6cb23e75423093557b05f401120f.ca67a.png%252F1200x630.png?signature=1IoL7FQB8M_pfg8cdfDV9Zu5LJ4= "Jeff Bezos as Amazon scandals, a thread")
+
+
+[Jeff Bezos as Amazon scandals, a thread](https://mashable.com/article/jeff-bezos-amazon-scandals/)
+
+
+> On Tuesday the world's second richest person said he intended to leave his role as Amazon CEO behind and morph into something, we presume, more powerful in the form of the Executive Chair of the Amazon Board. So, in honor of the news, here's Jeff Bezos as Amazon scandals (a thread):  1. Amazon fires 2 workers who publicly criticized warehouse conditions 2. Ring admits its employees tried to access customers' private video 3. Report: Amazon thought using third-party delivery drivers was dangerous, but did it anyway 4.
+
+
+***
+![Jeff Bezos' Amazon legacy by the numbers](https://mondrian.mashable.com/2021%252F02%252F03%252F88%252F4164a039bbfa420f82a314a7390bc287.2f794.jpg%252F1200x630.jpg?signature=28I_IbaAre9ADsdt-wW_9rS23nI= "Jeff Bezos' Amazon legacy by the numbers")
+
+
+[Jeff Bezos' Amazon legacy by the numbers](https://mashable.com/article/jeff-bezos-amazon-legacy-by-the-numbers/)
+
+
+> After 26 years and $1.7 trillion dollars, Jeff Bezos' time as CEO of Amazon is coming to an end.  The person who broke records as the richest person the world had ever seen (though he currently sits in the number two spot, behind Elon Musk), Bezos announced in a blog post Tuesday that he would be stepping down from his CEO role later in 2021. Current head of Amazon Web Services Andy Jassy will be taking over, though Bezos will still reign as the Executive Chair of the Amazon Board. Bezos is a polarizing figure, to say the least.
+
+
+***
+![How to ask for help](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "How to ask for help")
+
+
+[How to ask for help](https://www.reddit.com/r/programming/comments/lbcijx/how_to_ask_for_help/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![A Second SolarWinds Hack Deepens Third-Party Software Fears](https://media.wired.com/photos/6019b294a9e53c1764fec0d1/191:100/w_1280,c_limit/Sec_SolarWinds_1230263432.jpg "A Second SolarWinds Hack Deepens Third-Party Software Fears")
+
+
+[A Second SolarWinds Hack Deepens Third-Party Software Fears](https://www.wired.com/story/solarwinds-hack-china-usda/)
+
+
+> It's been more than two months since revelations that alleged Russia-backed hackers broke into the IT management firm SolarWinds and used that access to launch a massive software supply chain attack. It now appears that Russia wasn't alone; Reuters reports that suspected Chinese hackers independently exploited a different flaw in SolarWinds products last year at around the same time, apparently hitting the US Department of Agriculture's National Finance Center.SolarWinds patched the vulnerability in December that the alleged China hackers exploited.
+
+
