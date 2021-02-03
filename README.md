@@ -20563,3 +20563,53 @@
 > Emily Birnbaum / Protocol: Profile of Alondra Nelson, Biden's first deputy director for science and society, a role meant to examine the sociological effects of emerging technologies — Alondra Nelson knows what it's like to be let down by Facebook. — The renowned social scientist was just named as President Biden's …
 
 
+***
+![Amazon gets jazzy with new CEO Andy Jassy; Bezos keeps Chairman title](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/andyjass_505_030221012018.jpg "Amazon gets jazzy with new CEO Andy Jassy; Bezos keeps Chairman title")
+
+
+[Amazon gets jazzy with new CEO Andy Jassy; Bezos keeps Chairman title](https://www.businesstoday.in/technology/news/amazon-gets-jazzy-with-new-ceo-andy-jassy-bezos-keeps-chairman-title/story/430107.html)
+
+
+> Story Andy Jassy, who is currently the CEO of Amazon Web Services (AWS), will be stepping into Bezos shoes in later this year Nidhi Singal | February 3, 2021 | Updated 13:25 IST Amazon.com's new chief executive, Andy Jassy with Union Minister Ravi Shankar Prasad
+
+
+***
+![Vaccine passport](https://www.thehindu.com/sci-tech/technology/a1lsg/article33738774.ece/ALTERNATES/LANDSCAPE_615/commonpass-digital-passportjpg "Vaccine passport")
+
+
+[Vaccine passport](https://www.thehindu.com/sci-tech/technology/how-secure-is-your-data-stored-in-a-vaccine-passport/article33738622.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)As people around the world prepare for COVID-19 vaccinations, documenting the shots are becoming an important step in easing cross-border travel. Airports, workplaces and public places may soon require people to produce records of their inoculation status.Earlier this month, a coalition of technology companies, including Microsoft, Oracle, and Salesforce, said it is developing a system to help individuals keep a record of their health status in digital format known as a ‘vaccine passport'.
+
+
+***
+![TOP 10 FREE THEMES FOR WORDPRESS IN 2021](https://external-preview.redd.it/1Eenu5r1tAGvdHiLr3U6mv4Ig0h3Bn1nQk5WhAsRW4A.jpg?auto=webp&s=e8bd934d165e377d4851956d16195c50a66fd486 "TOP 10 FREE THEMES FOR WORDPRESS IN 2021")
+
+
+[TOP 10 FREE THEMES FOR WORDPRESS IN 2021](https://www.reddit.com/r/Python/comments/lbirf5/top_10_free_themes_for_wordpress_in_2021/)
+
+
+> Are you searching for top 10 free wordpress theme's for you website then visit TOP 10 FREE THEMES FOR WORDPRESS IN 2021 If you want to start a blog on wordpress then visit How to start a blog
+
+
+***
+![OneDrive's Android app gets a new design and support for 8K video playback](https://cdn.mos.cms.futurecdn.net/3wmJaBcfvYoXbS7WuaN6s9-1200-80.jpg "OneDrive's Android app gets a new design and support for 8K video playback")
+
+
+[OneDrive's Android app gets a new design and support for 8K video playback](https://www.techradar.com/news/onedrives-android-app-gets-a-new-design-and-support-for-8k-video-playback)
+
+
+> (Image credit: Microsoft) Microsoft has updated the OneDrive's Android app for personal accounts. Among the slew of changes for OneDrive, the prominent ones are a new home screen experience that includes tabs like recent files, offline files, and "On this Day" photos.While the recent files are the ones that a user has accessed recently, offline files are the ones that have been downloaded on the phone for the offline users. 'One this Day' tab will show old photos uploaded to the drive that particular day and will not be available for OneDrive office or school account users instead they'll see recent files, shared libraries, and offline files.
+
+
+***
+![Huawei Mate X2 foldable phone confirmed for February 22 launch](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Mate_X2-647x363.jpeg?YAKWATglg_tsrVMQfle_fM9zQus1oP7A "Huawei Mate X2 foldable phone confirmed for February 22 launch")
+
+
+[Huawei Mate X2 foldable phone confirmed for February 22 launch](https://www.indiatoday.in/technology/news/story/huawei-mate-x2-foldable-phone-confirmed-for-february-22-launch-1765465-2021-02-03)
+
+
+> Huawei Mate X2 is all set for launch in February. The Mate X2 will be a foldable phone. The phone will initially launch in China. Huawei has long been rumoured to be working on a new foldable smartphone -- the Mate X2. This phone will be the successor to the company's first foldable phone, the Mate X. And now, the company has gone ahead confirmed the launch date for the device. The company has done so by taking to its Weibo handle, where Huawei officially confirmed that it will announce the new flagship foldable phone.
+
+
