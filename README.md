@@ -20710,3 +20710,50 @@
 > HMD Global has launched a new entry-level smartphone called the Nokia 1.4 and it will be available globally. Shubham Verma | February 3, 2021 | Updated 15:57 IST
 
 
+***
+[Google Meet's ‘Green Room' Lets Users Preview Audio, Video Quality](https://www.thequint.com/tech-and-auto/google-meet-launches-green-room-feature-check-preview)
+
+
+> ‘Green Room' by Google Meet will provide a preview before joining a meeting.
+
+
+***
+![For some reason, Zoom wants to help smooth the return to the office](https://cdn.mos.cms.futurecdn.net/6ceQTuxiq8RU7FsZveQtWE-1200-80.png "For some reason, Zoom wants to help smooth the return to the office")
+
+
+[For some reason, Zoom wants to help smooth the return to the office](https://www.techradar.com/news/for-some-reason-zoom-wants-to-help-smooth-the-return-to-the-office)
+
+
+> (Image credit: Zoom) Zoom may have been one of the greatest beneficiaries of the pandemic and remote working explosion, but the company has revealed it intends to play a significant role in the return to the office too.The video conferencing firm has unveiled a selection of new features and additions to its product suite, designed to assist organizations in implementing health and safety policies once office doors reopen.For example, the company's conference room solution, Zoom Rooms, can now be operated via mobile devices, eliminating the need for users to touch the shared in-room controls.
+
+
+***
+![These cases will help store or carry your original Oculus Quest](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/05/oculus-quest-travel-case.jpg "These cases will help store or carry your original Oculus Quest")
+
+
+[These cases will help store or carry your original Oculus Quest](https://www.androidcentral.com/best-travel-case-oculus-quest)
+
+
+> Best Cases for Oculus Quest Android Central 2021 To properly protect your Oculus Quest when traveling or even at home, you'll need one of the best Oculus Quest cases. The Quest lenses must be shielded from sunlight at all times. Beyond that, something can easily fall into the headset and scratch the lens if you're not careful — and the Quest has a lot of small accessories that are hard to keep track of unless stored in the same place. Whether you just want a compact travel case for your Quest and controllers, or a larger storage case with space for all your VR peripherals, one of these choices below should do the trick.
+
+
+***
+![Emerson Launches Lumity™ Brand to Help Protect Food, Pharmaceuticals and Commercial Goods](https://mms.businesswire.com/media/20210203005128/en/93444/23/EMR_Color_042007.jpg "Emerson Launches Lumity™ Brand to Help Protect Food, Pharmaceuticals and Commercial Goods")
+
+
+[Emerson Launches Lumity™ Brand to Help Protect Food, Pharmaceuticals and Commercial Goods](https://www.businesswire.com/news/home/20210203005128/en/Emerson-Launches-Lumity%E2%84%A2-Brand-to-Help-Protect-Food-Pharmaceuticals-and-Commercial-Goods)
+
+
+> ST. LOUIS--(BUSINESS WIRE)--Emerson (NYSE: EMR), a global technology and engineering leader, today introduced its new Lumity™ brand of analytics software and digital solutions to help safeguard critical products like food and temperature-sensitive medications. Emerson's Lumity portfolio is connecting a suite of products to create customizable solutions to enable the highest level of visibility and control of consumer goods throughout the entire supply chain. Lumity digital solutions use advanced technologies to monitor environmental factors across pharmaceutical and food supply chains, generating real-time data that enables experts to take fast action when temperature and humidity swings are detected.
+
+
+***
+![Mobile Heartbeat and Colossal Contracting Announce Partnership to Deliver Clinical Communication Solution to Government Healthcare Providers](https://mms.businesswire.com/media/20210203005149/en/856670/23/MH_Logos-05.jpg "Mobile Heartbeat and Colossal Contracting Announce Partnership to Deliver Clinical Communication Solution to Government Healthcare Providers")
+
+
+[Mobile Heartbeat and Colossal Contracting Announce Partnership to Deliver Clinical Communication Solution to Government Healthcare Providers](https://www.businesswire.com/news/home/20210203005149/en/Mobile-Heartbeat-and-Colossal-Contracting-Announce-Partnership-to-Deliver-Clinical-Communication-Solution-to-Government-Healthcare-Providers)
+
+
+> February 03, 2021 09:00 AM Eastern Standard Time WALTHAM, Mass.--(BUSINESS WIRE)--Mobile Heartbeat today announced it has partnered with Colossal Contracting, LLC (Colossal), a value-added reseller with over a decade of experience in the federal space. Colossal is a Service-Disabled Veteran Owned Small Business (SDVOSB) certified through the Veterans Affairs CVE Program. Together with Mobile Heartbeat, Colossal will provide customer organizations with the MH-CURE platform in order to optimize clinical communications, streamline workflows and improve patient care.
+
+
