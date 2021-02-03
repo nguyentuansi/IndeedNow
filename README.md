@@ -20613,3 +20613,50 @@
 > Huawei Mate X2 is all set for launch in February. The Mate X2 will be a foldable phone. The phone will initially launch in China. Huawei has long been rumoured to be working on a new foldable smartphone -- the Mate X2. This phone will be the successor to the company's first foldable phone, the Mate X. And now, the company has gone ahead confirmed the launch date for the device. The company has done so by taking to its Weibo handle, where Huawei officially confirmed that it will announce the new flagship foldable phone.
 
 
+***
+![Now you can delete chats in Telegram without leaving a trace](https://sm.mashable.com/t/mashable_pk/help/w/warning-te/warning-telegram-is-not-end-to-end-encrypted-by-default_1yn6.1200.jpg "Now you can delete chats in Telegram without leaving a trace")
+
+
+[Now you can delete chats in Telegram without leaving a trace](https://pk.mashable.com/tech/7490/now-you-can-delete-chats-in-telegram-without-leaving-a-trace)
+
+
+> As privacy of personal messages has become an essential demand of instant messaging app users all over the world – after WhatsApp fiasco – every company, or you can safely say the competitors of WhatsApp are now releasing new privacy features to attract more customers to their platform. Following the same trend, Telegram has now rolled out a new feature that will allow its users to delete messages or chats without leaving any trace on the application. The company in a recent twitter post said that its users could delete messages, chats, call history and groups that they created at any time.
+
+
+***
+[How to protect credit card, debit card, ATM data](https://www.zeebiz.com/technology/news-how-to-protect-credit-card-debit-card-atm-data-top-5-tips-for-businesses-148390)
+
+
+> The rapidly changing scenarios caused by the pandemic outbreak of COVID-19 in India, has increased our reliance on technology, wherein data security has become more important now than ever. More and more people are conducting their business online and are transacting digitally, which seems to be the preferred mode of payment now.
+
+
+***
+![MSS Speeds Up Item Data Setup Using Leading Product Syndication Solution](http://www.businesswire.com/images/bwlogo_square.png "MSS Speeds Up Item Data Setup Using Leading Product Syndication Solution")
+
+
+[MSS Speeds Up Item Data Setup Using Leading Product Syndication Solution](https://www.businesswire.com/news/home/20210203005001/en/MSS-Speeds-Up-Item-Data-Setup-Using-Leading-Product-Syndication-Solution)
+
+
+> February 03, 2021 05:00 AM Eastern Standard Time DALLAS--(BUSINESS WIRE)--Military Sales & Service Co. (MSS) is teaming up with Stibo Systems to get its customers' product data to the Army and Air Force Exchange Service (AAFES) faster, thereby aiming to increase sales and improve customer service. MSS is the largest exchange-only broker for AAFES. In this role they ensure that Army and Air Force personnel can shop products on shopmyexchange.com and all global Army and Air Force bases. 'We want these products to be set up at AAFES for our customers as quickly as possible.
+
+
+***
+![Nike launches hands-free Go FlyEase sports shoe â€' and it's surprisingly cheap](https://cdn.mos.cms.futurecdn.net/795bNcWGqcXgBuZR9v7kGD-1200-80.gif "Nike launches hands-free Go FlyEase sports shoe â€' and it's surprisingly cheap")
+
+
+[Nike launches hands-free Go FlyEase sports shoe â€' and it's surprisingly cheap](https://www.techradar.com/news/nike-launches-hands-free-go-flyease-sports-shoe-and-its-surprisingly-cheap)
+
+
+> Nike has revealed a new sports shoe with no laces, zips or other fastenings, which can be put on and removed hands-free.The design of the new Go FlyEase is inspired by the way many of us take our shoes off without undoing the laces – using the toe of one shoe to push down on the heel of the other. It's a technique that usually stretches out the shoe and breaks down the back.The design was originally intended to support athletes with disabilities that mean conventional shoes are inconvenient to use, but is now being made available more widely.
+
+
+***
+![If you are someone who works on computers a lot, be it for playing games, college work, or for programming, efficiency is called for! In this tutorial, I'll show you how you can boost your productivity by creating a macro keyboard using Arduino & do tasks with just single button presses!](https://external-preview.redd.it/Ho6OnFBjc9CLK44UTG6mWwjRavGxDmCV9wwJwIi6UKg.jpg?auto=webp&s=68652ef9ab26c747f104ba4892d591179ddcb92e "If you are someone who works on computers a lot, be it for playing games, college work, or for programming, efficiency is called for! In this tutorial, I'll show you how you can boost your productivity by creating a macro keyboard using Arduino & do tasks with just single button presses!")
+
+
+[If you are someone who works on computers a lot, be it for playing games, college work, or for programming, efficiency is called for! In this tutorial, I'll show you how you can boost your productivity by creating a macro keyboard using Arduino & do tasks with just single button presses!](https://www.reddit.com/r/programming/comments/lbkb7l/if_you_are_someone_who_works_on_computers_a_lot/)
+
+
+> If you are someone who works on computers a lot, be it for playing games, college work, or for programming, efficiency is called for! In this tutorial, I'll show you how you can boost your productivity by creating a macro keyboard using Arduino & do tasks with just single button presses!
+
+
