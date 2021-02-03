@@ -20369,3 +20369,50 @@
 > No body in the article.
 
 
+***
+![Alphabet presents Google Cloud sales for the first time and it's not great](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/alphabet-results-numbers.jpg "Alphabet presents Google Cloud sales for the first time and it's not great")
+
+
+[Alphabet presents Google Cloud sales for the first time and it's not great](https://www.androidcentral.com/alphabet-q4-2020-revenue-driven-more-streaming-during-pandemic-cloud-business-still-weighs-it-down)
+
+
+> Source: Android Central Alphabet's quarterly revenues grew 23% YoY, fueled by Google Services and YouTube ads. YouTube grew about 46% in Q4 thanks to brand ads and driven by the election. Google's cloud business has lost over $5 billion throughout 2020. Google's parent company, Alphabet, just released its fourth-quarter earnings, which shows strong growth across much of the business. Total revenue grew more by more than $10 billion YoY to $56.90 billion, while net income grew to $15.23 billion. One of the driving factors for Google's growth was due largely to Search and YouTube revenue, particularly from brand ads.
+
+
+***
+![Video: SpaceX's Starship high-altitude flight test ends with a big explosion – again](https://media.khou.com/assets/KHOU/images/dca0f93e-17be-4ea0-ae47-5dad2892be27/dca0f93e-17be-4ea0-ae47-5dad2892be27_1140x641.jpg "Video: SpaceX's Starship high-altitude flight test ends with a big explosion – again")
+
+
+[Video: SpaceX's Starship high-altitude flight test ends with a big explosion – again](https://www.khou.com/article/tech/science/space/spacex-set-to-complete-starship-high-altitude-flight-test/67-0d9e7552-5dd6-46c5-9380-6c969b707dd3)
+
+
+> TEXAS, USA — SpaceX collected even more data for its Starship prototype vehicle, but it can't quite seem to stick the landing just yet. The company launched SN9 from its Cameron County, Texas, site Tuesday afternoon; and, at first, all appeared OK for the high-altitude suborbital flight test. But then came getting Starship back safely to Earth. SpaceX ultimately wanted to have SN9 reorient itself to attempt a vertical landing after reaching a height of 10 kilometers, or a little more than 6 miles.
+
+
+***
+![DynaRisk extends seed funding to accelerate market growth](https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg "DynaRisk extends seed funding to accelerate market growth")
+
+
+[DynaRisk extends seed funding to accelerate market growth](https://www.helpnetsecurity.com/2021/02/03/dynarisk-seed-funding/)
+
+
+> DynaRisk announced an extension of their seed funding round, bringing total funding to over $3m. This round of funding was led by Nexus Investments with participation from existing investors Insurance Capital Partners and Jonathan Marland. The company was originally backed by London based Cylon Lab. DynaRisk traverses 2 of the 4 areas of Nexus's investment focus and expertise: Data & Digital says Matthew O'Kane, Managing Director of Nexus Investments. We are very excited to both announce the 12th new member of our Nexus Scale-Up Fund portfolio, and to partner with Dynarisk on its next stage of growth, in particular as it scales into the very promising US Insurtech market.
+
+
+***
+![Wikipedia unveils ‘code of conduct' to stem misinformation](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/wikipedia-etx_20210202-seo.jpg "Wikipedia unveils ‘code of conduct' to stem misinformation")
+
+
+[Wikipedia unveils ‘code of conduct' to stem misinformation](https://www.malaymail.com/news/tech-gadgets/2021/02/03/wikipedia-unveils-code-of-conduct-to-stem-misinformation/1946441)
+
+
+> Wikipedia has unveiled a code of conduct aimed at stemming abuse, misinformation and manipulation. — AFP pic FEBRUARY 3 — Wikipedia yesterday unveiled a 'universal code of conduct' aimed at stemming abuse, misinformation and manipulation on the global online encyclopaedia. The new code was released by the Wikimedia Foundation, the non-profit that administers Wikipedia, expanding on its existing policies to create a set of community standards to combat 'negative behaviour,' according to a statement.
+
+
+***
+[這次表演花式動作，SpaceX 星艦原型著陸再度爆炸](https://technews.tw/2021/02/03/this-time-performing-fancy-moves-the-spacex-starship-prototype-landed-and-exploded-again/)
+
+
+> Starship SN9 是 SpaceX 將人類帶往火星的希望，在之前事故後，近日又進行了一次高空飛行試驗， […]
+
+
