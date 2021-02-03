@@ -20854,3 +20854,50 @@
 > Best OnePlus 8T Screen Protectors Android Central 2021 From getting the best OnePlus 8T cases to finding the best screen protectors, accessorizing your device is everything. When it comes to a new smartphone as great as the OnePlus 8T, finding the right accessories can be a bit daunting. Thankfully, there are plenty of great options available for those trying to ensure the display of their phones continues to look great for years to come. Staff pick OnePlus has taken to providing all of its own accessories the latest devices, including the OnePlus 8T.
 
 
+***
+![Instagram tests disabling ability to share post to stories](https://imagevars.gulfnews.com/2021/02/03/Instagram-_177691f7309_medium.jpg "Instagram tests disabling ability to share post to stories")
+
+
+[Instagram tests disabling ability to share post to stories](https://gulfnews.com/technology/media/instagram-tests-disabling-ability-to-share-post-to-stories-1.1612376385060)
+
+
+> Image Credit: Shutterstock San Francisco: Facebook-owned photo-sharing platform Instagram is conducting a test which stops some users from sharing feed posts within their Stories. The new experiment is to see how it changes engagement with the popular feature. The company announced the change in a notification banner sent to users in "select countries" where the test is being conducted, The Verge reported on late Tuesday. "We hear from our community that they want to see fewer posts in Stories. During this test, you won't be able to add a feed post to your Story," the notification reads.
+
+
+***
+![Wikipedia introduces new universal code of conduct](https://imagevars.gulfnews.com/2021/02/03/Wikipedia-introduces-new-universal-code-of-conduct_177691db8b6_medium.jpg "Wikipedia introduces new universal code of conduct")
+
+
+[Wikipedia introduces new universal code of conduct](https://gulfnews.com/technology/media/wikipedia-introduces-new-universal-code-of-conduct-1.1612376250799)
+
+
+> Image Credit: Shutterstock New Delhi: Wikipedia has introduced a first-of-its-kind Universal Code of Conduct that expands on the project's existing policies to create a global set of community standards for addressing negative behaviour and harassment on the site. Launched by the Wikimedia Foundation, the nonprofit that administers Wikipedia, the code's standards include clearly defining acceptable behaviour; delinating harassment on and off the projects for all Wikipedia participants; preventing the abuse of power and influence to intimidate others; and combating deliberate introduction of false or inaccurate content.
+
+
+***
+![Sri Lanka sends purchase order for 18 million Oxford-AstraZeneca vaccines from India](https://adaderanaenglish.s3.amazonaws.com/1612369378-Sri-Lanka-orders-18-million-Covishield-vaccines-from-India-L.jpg "Sri Lanka sends purchase order for 18 million Oxford-AstraZeneca vaccines from India")
+
+
+[Sri Lanka sends purchase order for 18 million Oxford-AstraZeneca vaccines from India](http://www.adaderana.lk/news/71284/sri-lanka-sends-purchase-order-for-18-million-oxford-astrazeneca-vaccines-from-india)
+
+
+> February 3, 2021   09:52 pm - The State Pharmaceutical Corporation (SPC) has sent the purchase order for 18 million doses of Oxford-AstraZeneca's Covishield vaccines manufactured by India, says State Minister of Production, Supply and Regulation of Pharmaceuticals Channa Jayasumana. Speaking on the matter earlier today, State Minister of Primary Health Care, Epidemics and COVID Disease Control Sudarshini Fernandopulle said the 18 million more doses of the vaccines are required for the inoculation of the remaining target groups and that a sum of Rs 10 billion has already been identified for purchasing the vaccines.
+
+
+***
+![Four more COVID-19 fatalities in Sri Lanka](https://adaderanaenglish.s3.amazonaws.com/1612376348-Novel-coronavirus-in-Sri-Lanka-L.jpg "Four more COVID-19 fatalities in Sri Lanka")
+
+
+[Four more COVID-19 fatalities in Sri Lanka](http://www.adaderana.lk/news/71289/four-more-covid-19-fatalities-in-sri-lanka)
+
+
+> February 3, 2021   11:49 pm - The Director-General of Health Services as confirmed four more COVID-19 related deaths in Sri Lanka. The new fatalities have pushed the death toll to 332, the Government Information Department said. According to reports, one of the victims is an 89-year-old woman from Walgammulla area. She has fallen victim to the virus at her home on February 02. The cause of death was recorded as a lung infection due to novel coronavirus. Further, a 67-year-old woman has died at her home in Devalapola area on February 01.
+
+
+***
+[Touchcast, which builds tools to help companies create and run virtual events, raises $55M Series A led by Accenture Ventures (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210203/p38#a210203p38)
+
+
+> Ingrid Lunden / TechCrunch: Touchcast, which builds tools to help companies create and run virtual events, raises $55M Series A led by Accenture Ventures — Events — when they haven't been cancelled altogether in the last 12 months due to the global health pandemic — have gone virtual and online …
+
+
