@@ -21045,3 +21045,50 @@
 > Active noise cancellation (also known as ANC headphones) work by essentially producing a mirror image sound wave in your ear to electronically counteract, or "cancel out," external noise. The technology works best in environments where there's a sustained din of noise, like the droning of a jet engine -- which is why Bose ANC wireless earphones became a status symbol at airports.The technology used to be restricted to full-size over-ear headphones. But in just the past few years, it's been shrunken down to earbud size.
 
 
+***
+![TikTok to block users in Italy who say they are under 13, after girl dies](https://media2.malaymail.com/resize_cache/uploads/articles/2018/2018-12/000_1bm18g.1b30c154737.original-seo.jpg "TikTok to block users in Italy who say they are under 13, after girl dies")
+
+
+[TikTok to block users in Italy who say they are under 13, after girl dies](https://www.malaymail.com/news/tech-gadgets/2021/02/04/tiktok-to-block-users-in-italy-who-say-they-are-under-13-after-girl-dies/1946767)
+
+
+> The Italian regulator, Garante della Privacy, said TikTok had agreed to block all accounts in Italy from February 9, and to readmit only users who provided a date of birth showing they were at least 13 years old. — AFP pic MILAN, Feb 4 — The video-sharing app TikTok said yesterday it had agreed with Italian authorities to block all users who gave their age as under 13, among other measures, after the death of a 10-year-old girl was blamed on a breath-holding social media challenge. Prosecutors in Palermo are investigating that case, which has led to increased scrutiny of children's use of social media platforms.
+
+
+***
+![Global silicon wafer revenue stayed stable in 2020 as shipments edged up, says SEMI](https://assets.theedgemarkets.com/SEMI_Reuters.jpg?84rVaP5gqVchftP7mBshjETo.SP3lRgO "Global silicon wafer revenue stayed stable in 2020 as shipments edged up, says SEMI")
+
+
+[Global silicon wafer revenue stayed stable in 2020 as shipments edged up, says SEMI](https://www.theedgemarkets.com/article/global-silicon-wafer-revenue-stayed-stable-2020-shipments-edged-says-semi)
+
+
+> KUALA LUMPUR (Feb 3): Global silicon wafer area shipments in 2020 increased while revenue remained unchanged from 2019 at US$11.17 billion, according to the US-based Semiconductor Equipment & Materials International (SEMI). In a statement on its website yesterday, the SEMI Silicon Manufacturers Group (SMG) reported in its year-end analysis of the silicon wafer industry, it said silicon shipments totalled 12.41 million square inches (MSI), compared to 11.81 MSI shipped in 2019, a rebound in volume of 5% year over year, recovering close to the historic high set in 2018.
+
+
+***
+![Vivo V19 starts getting Android 11-based Funtouch OS update in India: Everything you need to know](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/20200515_131305-483x271_1200_210204090520.jpeg "Vivo V19 starts getting Android 11-based Funtouch OS update in India: Everything you need to know")
+
+
+[Vivo V19 starts getting Android 11-based Funtouch OS update in India: Everything you need to know](https://www.indiatoday.in/technology/news/story/vivo-v19-starts-getting-android-11-based-funtouch-os-update-in-india-everything-you-need-to-know-1765735-2021-02-04)
+
+
+> The update comes with build number Vivo rev 6.71.16 and interestingly weighs 3.76GB in size. Sushant Talwar | February 4, 2021 | Updated 09:03 IST
+
+
+***
+[PUBG Mobile India update: Some Android users playing PUBG Mobile via this APK download link](https://www.zeebiz.com/technology/news-pubg-mobile-india-update-some-android-users-playing-pubg-mobile-via-this-apk-link-148208)
+
+
+> PUBG Mobile India: The 118 apps that were banned by the government continue to be in limbo and no decision has been reached on them as yet, hinting that PUBG Mobile and PUBG Mobile Lite will not be available in India anytime soon.
+
+
+***
+![Realme X7 Pro 5G, X7 5G to launch in India today: Know live stream details, price, specifications](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_x7_5g_series-483x271_1200_210204084425.jpeg "Realme X7 Pro 5G, X7 5G to launch in India today: Know live stream details, price, specifications")
+
+
+[Realme X7 Pro 5G, X7 5G to launch in India today: Know live stream details, price, specifications](https://www.indiatoday.in/technology/news/story/realme-x7-pro-5g-x7-5g-to-launch-in-india-today-know-live-stream-details-price-specifications-1765722-2021-02-04)
+
+
+> Highlights Realme will launch two new 5G smartphones in India today. The X7 5G and the X7 Pro 5G will bring big screens, capable cameras. The Realme X7 5G is going to be a rebranded V15 5G for India. Realme X7 Pro 5G and X7 5G are set to be launched in India today. There will be a digital-only event that Realme will hold today to unveil the new 5G smartphones aimed at mid-end customers. These two handsets will mark the entry of Realme into the mid-range 5G phone market, and come almost a year after the company launched India's first 5G device, X50 Pro 5G back in February 2020.
+
+
