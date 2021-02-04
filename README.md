@@ -21136,3 +21136,53 @@
 > John Matze says he has been fired as CEO of Parler, which was among social media services used to plan the Jan. 6 attack on the U.S. Capitol by supporters of then-President Donald Trump. Matze's announcement Wednesday followed Amazon's Jan. 11 decision to remove Parler from its web-hosting service over its unwillingness to remove posts that called for the killing, rape and torture of politicians, tech executives and others. Google and Apple removed Parler's app from their online stores. Matze, in a post on the professional networking site LinkedIn, thanked Parler employees.
 
 
+***
+![Putting sensors and cameras under smartphone screens](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/20210204_Fingerprint_Sensor_phone_01-seo.jpg "Putting sensors and cameras under smartphone screens")
+
+
+[Putting sensors and cameras under smartphone screens](https://www.malaymail.com/news/tech-gadgets/2021/02/04/putting-sensors-and-cameras-under-smartphone-screens/1946853)
+
+
+> The Chinese manufacturer ZTE stands out as a pioneer in the field with the Axon 20 5G, presented at the end of summer 2020. -- Picture courtesy of ZTE via ETX Studio SAN FRANCISCO, Feb 4 — While smartphone design in general isn't likely to change soon, one major incoming trend, starting in 2021, looks set to be genuinely borderless screens, as sensors and front-facing cameras head under device displays. For a few years now, many manufacturers — with the notable exception of Apple — have been opting to place smartphone fingerprint sensors under the screens of their devices in order to save space.
+
+
+***
+![Instagram disables ability to share posts to stories in select countries — for now](https://media2.malaymail.com/resize_cache/uploads/articles/2017/2017-08/2017-08-31T061626Z_1910772080_RC1EA262AFC0_RTRMADP_3_INSTAGRAM-CYBER-seo.JPG "Instagram disables ability to share posts to stories in select countries — for now")
+
+
+[Instagram disables ability to share posts to stories in select countries — for now](https://www.soyacincau.com/2021/02/03/instagram-is-disabling-the-ability-to-share-posts-to-stories-for-now/)
+
+
+> There has recently been more and more sharing feed post to stories—especially done by influencers or brands trying to get their regular feed posts out there. — Reuters pic KUALA LUMPUR, Feb 4 — Users in some 'select countries' have been sent a notification banner on their Instagram app. The banner informs users that the platform has disabled the ability to share (and reshare) posts from the feed to stories as part of a test. instagram users: I wish people stopped sharing so many feed posts to their Stories instagram: pic.
+
+
+***
+![Nokia Q4 profit, revenue beat expectations as CEO Lundmark revamps strategy](https://assets2.rappler.com/2020/10/NOKIA-logo-1612422654625.jpg "Nokia Q4 profit, revenue beat expectations as CEO Lundmark revamps strategy")
+
+
+[Nokia Q4 profit, revenue beat expectations as CEO Lundmark revamps strategy](https://www.rappler.com/technology/nokia-earnings-report-february-4-2021)
+
+
+> Finnish telecom network equipment maker Nokia reported better-than-expected fourth-quarter revenue and underlying profits on Thursday, February 4, buoyed by the strategy revamp by new Chief Executive Officer Pekka Lundmark. Nokia said its October-December revenue fell 5% to 6.57 billion euros ($7.89 billion), beating a consensus figure of 6.42 billion euros, Refinitiv Eikon data showed. Nokia said its October-December underlying earnings fell to 0.14 euros per share from 0.15 euros a year ago, beating the 0.
+
+
+***
+![Infographic: Amazon's Jeff Bezos to step aside as chief executive](https://imagevars.gulfnews.com/2021/02/04/20210204-jeff-bezos-_1776bbcdcad_medium.jpg "Infographic: Amazon's Jeff Bezos to step aside as chief executive")
+
+
+[Infographic: Amazon's Jeff Bezos to step aside as chief executive](https://gulfnews.com/technology/infographic-amazons-jeff-bezos-to-step-aside-as-chief-executive-1.1612420378871)
+
+
+> Latest News UAE Living In UAE Gulf Your Money Saving and Investment Budget Living Taxation Expert Columns Community Tips Business World Opinion Editorials Op-Eds Letters Off the Cuff Cartoons From the Editors Sport Entertainment Going Out Photos News Entertainment Readers' Photos Lifestyle Business Sports Parenting Pregnancy & Baby Learning & Play Child Health For Mums & Dads Ask Us Auto News Test Drives Car Culture Auto Care Lifestyle GN Reach Jobs Tech Electronics Gaming Trends Fin-Tech Media
+
+
+***
+![Digitalization of judicial system underway](https://adaderanaenglish.s3.amazonaws.com/1612421371-Digitalization-of-judicial-system-underway-B.jpg "Digitalization of judicial system underway")
+
+
+[Digitalization of judicial system underway](http://www.adaderana.lk/news/71296/digitalization-of-judicial-system-underway)
+
+
+> February 4, 2021   12:17 pm - Measures to digitalize the entire judicial system of the country are currently underway, says Minister of Justice Ali Sabry. The Minister stated that this would create the necessary environment for judicial cases to be settled efficiently under a pragmatic approach. Minister Sabry mentioned this while addressing journalists at the Matale area.
+
+
