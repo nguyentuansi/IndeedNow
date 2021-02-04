@@ -21436,3 +21436,53 @@
 > Over the last 10 years, Tesla has made the once derided electric car into a hot commodity across the globe. But how affordable are their vehicles in different countries? These travelers took a cross-country train trip from coast to coast back in January 2020. Here's what the journey looks like. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. A Dodge Challenger attempts to overtake a Tesla Model 3 and quickly rear ends an unfortunate Honda. Not much is known about the refractory period, but one theory suggests it may be a survival mechanism to keep men from fatally exhausting themselves.
 
 
+***
+![YouTube will no longer stream on third-generation Apple TV](https://imagevars.gulfnews.com/2020/11/18/YouTube_175dc620fda_medium.jpg "YouTube will no longer stream on third-generation Apple TV")
+
+
+[YouTube will no longer stream on third-generation Apple TV](https://gulfnews.com/technology/youtube-will-no-longer-stream-on-third-generation-apple-tv-1.1612461607733)
+
+
+> Apple TV owners, however, will be able to access the service from an iPhone or iPad Published:  February 04, 2021 21:57 IANS Image Credit: Shutterstock Washington: If you own an old Apple TV and want to stream YouTube, then it might be the time to replace your device as YouTube announced that it is ending its support from next month. According to The Verge, YouTube will no longer be accessibly available to stream on the third-generation Apple TV, first launched in 2012. However, the fourth-gen Apple TV HD and fifth-gen Apple TV 4K that Apple currently sells will remain unaffected.
+
+
+***
+![Google fitness app to catch breath and heart rate](https://imagevars.gulfnews.com/2021/02/04/STOCK-android-smartphone_1776e1429d7_medium.jpg "Google fitness app to catch breath and heart rate")
+
+
+[Google fitness app to catch breath and heart rate](https://gulfnews.com/technology/media/google-fitness-app-to-catch-breath-and-heart-rate-1.1612459082838)
+
+
+> Image Credit: Pixabay San Francisco: Google on Thursday unveiled an upgraded fitness app which uses smartphone camera capabilities to measure respiration and heart rate. Google Fit already uses smartphone sensors to figure out how far people walk or how many calories they have burned, but new features rolling out to Google Pixel phones will add pulse and breathing to health data crunched by the app. Sensors and software that make it possible to take stunning photos with smartphones or automatically adapt streaming video to how handsets are held can be used to sense respiration and heartbeat, according to Google health technologies team leader Shwetak Patel.
+
+
+***
+![Instagram removes hundreds of stolen accounts as hacks escalate](https://imagevars.gulfnews.com/2021/02/03/Instagram-_177691f7309_medium.jpg "Instagram removes hundreds of stolen accounts as hacks escalate")
+
+
+[Instagram removes hundreds of stolen accounts as hacks escalate](https://gulfnews.com/technology/instagram-removes-hundreds-of-stolen-accounts-as-hacks-escalate-1.1612464707682)
+
+
+> Image Credit: Shutterstock Instagram is disabling hundreds of accounts associated with a hacker group that used exploitative tactics to steal and resell them. Members of the group, known as OGUsers, are receiving cease and desist letters from Instagram's parent, Facebook Inc, which is also coordinating with law enforcement. The group was particularly focused on obtaining rare usernames with handles of fewer than five letters, such as @h4ck or @sick, that would be valuable for resale in a secondary market for Instagram accounts.
+
+
+***
+![Realme bets big on 5G, all phones above Rs 20,000 to support next-gen network](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_x7_5g_505_040221111229.jpg "Realme bets big on 5G, all phones above Rs 20,000 to support next-gen network")
+
+
+[Realme bets big on 5G, all phones above Rs 20,000 to support next-gen network](https://www.businesstoday.in/technology/news/realme-bets-big-on-5g-all-phones-above-rs-20000-to-support-next-gen-network/story/430326.html)
+
+
+> Story Even though 5G is not yet available, the 5G network will bring a new lifestyle which may not be imaginable right now, just like how we did not imagine the convenience 4G will bring five years ago, says Realme India CEO Madhav Sheth Nidhi Singal | February 4, 2021 | Updated 23:24 IST Realme X7 5G
+
+
+***
+![Arrow Electronics Again Tops Industry Ranking in FORTUNE's World's Most Admired Companies List](https://mms.businesswire.com/media/20210204005877/en/857364/23/5YO_Lockup.jpg "Arrow Electronics Again Tops Industry Ranking in FORTUNE's World's Most Admired Companies List")
+
+
+[Arrow Electronics Again Tops Industry Ranking in FORTUNE's World's Most Admired Companies List](https://www.businesswire.com/news/home/20210204005877/en/Arrow-Electronics-Again-Tops-Industry-Ranking-in-FORTUNE%E2%80%99s-World%E2%80%99s-Most-Admired-Companies-List)
+
+
+> CENTENNIAL, Colo.--(BUSINESS WIRE)--Arrow Electronics, Inc. (NYSE:ARW) has again been named to FORTUNE's 'World's Most Admired Companies' list, topping the 'Wholesalers: Electronics and Office Equipment' category for the eighth consecutive year. This marks the 21st time Arrow has appeared on the listing that is based on input from industry executives, directors, and analysts. ' Arrow is honored to be recognized again as the most admired company in our industry,' said Michael J. Long, chairman, president, and chief executive officer of Arrow.
+
+
