@@ -21386,3 +21386,53 @@
 > Last year, on the second Tuesday of February, about 300 high school and middle school students from across the Bay Area gathered at the Computer History Museum in Mountain View to celebrate Safer Internet Day . That night, families came to TikTok's Bay Area office to learn how seniors, parents, teens Larry Magid (Gary Reyes / Mercury News) and even very young internet users could take advantage of connected technology while protecting their safety, privacy and security, maintain a tech-life balance and learn media literacy skills to know the difference between truth and online lies.
 
 
+***
+![Launch a career in IT with this CompTIA certification training, now under $70](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/sale_163637_article_image-4n6u.jpg "Launch a career in IT with this CompTIA certification training, now under $70")
+
+
+[Launch a career in IT with this CompTIA certification training, now under $70](https://www.imore.com/launch-career-it-comptia-certification-training-now-under-70)
+
+
+> Source: Stack Commerce Source: StackCommerce When it comes to IT certifications, CompTIA is the gold standard. The Complete 2021 CompTIA Certification Training Bundle helps you pass the exams, with 19 courses working towards top certifications. It's worth over $5,000, but you can get the training today for just $69.99. Whether you are looking to launch a new career or improve your salary, picking up CompTIA certifications is a smart move. This bundle provides all the prep you need, covering the most in-demand certifications and skills.
+
+
+***
+![Best Asus router 2021: the top Asus routers for any budget](https://cdn.mos.cms.futurecdn.net/EY2VqpnmzPzUwCzuSBgx43-1200-80.jpg "Best Asus router 2021: the top Asus routers for any budget")
+
+
+[Best Asus router 2021: the top Asus routers for any budget](https://www.techradar.com/news/best-asus-router)
+
+
+> The best Asus routers out there are among the ideal solutions for many network needs. If you're in the market for a new router, take a close look at the company's quality range, particularly since they are among the cheaper Wi-Fi routers available.It's not just the appealing price tags that make the best Asus routers worth a look. They provide excellent performance and, more importantly for gamers, blazing-fast speeds for online gaming. Since Asus has such a wide selection to pick from, you'll come across something that will fit the bill no matter what type of personal or work environment you're dealing with.
+
+
+***
+![Best budget gaming PC 2021: top gaming desktops for less](https://cdn.mos.cms.futurecdn.net/LoEHiALAxDBqGEiWWsM8JS-1200-80.jpg "Best budget gaming PC 2021: top gaming desktops for less")
+
+
+[Best budget gaming PC 2021: top gaming desktops for less](https://www.techradar.com/news/best-budget-gaming-pc-2018-top-gaming-desktops-for-less)
+
+
+> You might not suspect it, but the best budget gaming PCs are just as capable of tackling the best PC games as more expensive rigs. And, so long as you're not expecting Ultra settings or 4K performance, a gaming PC that doesn't come with an outrageous price tag should still be just as competent when it comes to the latest AAA games.You may not get all the bells and whistles of the most expensive gaming rigs but the best budget gaming PCs are worth a look. A fantastic, immersive gaming experience really doesn't require a pricey, maxed out desktop.
+
+
+***
+![How to watch The Drowning online: stream Channel 5 miniseries from anywhere](https://cdn.mos.cms.futurecdn.net/rk2xBFU8RNSuoMWsNAS9JF-1200-80.jpg "How to watch The Drowning online: stream Channel 5 miniseries from anywhere")
+
+
+[How to watch The Drowning online: stream Channel 5 miniseries from anywhere](https://www.techradar.com/news/how-to-watch-the-drowning-online-stream-the-new-channel-5-miniseries-from-anywhere)
+
+
+> (Image credit: Channel 5) Nine years after the disappearance of her four-year-old son, Jodie (Jill Halfpenny) passes teenager Daniel on the street and her world comes tumbling down. Convinced that he's the boy she lost all those years ago, Jodie is prepared to stop at nothing to make Daniel her own. Here's how to watch The Drowning online from anywhere – including how to stream it 100% free for anyone in the UK with Channel 5 live or on-demand.Tom went missing during a family outing at Lough Dan, and though his body was never found he was presumed to have drowned in the lake, a theory that Jodie had come to accept on the road to rebuilding her life without him.
+
+
+***
+![The Countries That Pay The Most And Least For A Tesla, Visualized](https://cdn.digg.com/wp-content/uploads/2021/02/04160328/Screen-Shot-2021-02-04-at-11.01.32-AM-1.jpg "The Countries That Pay The Most And Least For A Tesla, Visualized")
+
+
+[The Countries That Pay The Most And Least For A Tesla, Visualized](https://digg.com/2021/cost-of-tesla-cars-around-the-world)
+
+
+> Over the last 10 years, Tesla has made the once derided electric car into a hot commodity across the globe. But how affordable are their vehicles in different countries? These travelers took a cross-country train trip from coast to coast back in January 2020. Here's what the journey looks like. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. A Dodge Challenger attempts to overtake a Tesla Model 3 and quickly rear ends an unfortunate Honda. Not much is known about the refractory period, but one theory suggests it may be a survival mechanism to keep men from fatally exhausting themselves.
+
+
