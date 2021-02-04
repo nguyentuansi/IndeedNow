@@ -21236,3 +21236,53 @@
 > February 04, 2021 05:00 AM Eastern Standard Time SHENZHEN, China--(BUSINESS WIRE)--Fibocom (Stock Code: 300638), a leading global provider of IoT (Internet of Things) wireless solution and wireless communication modules, announces that it will collaborate with Deutsche Telekom, a world's leading integrated telecommunications company, and Redtea Mobile, a pioneering connectivity solution provider, to deliver a top-class commercial-ready nuSIM module. Fibocom MA510-GL is a global LPWA multi-RAT module (GPRS/NB/LTE-M) that is widely used in smart meters, smart parking, wearable devices, asset tracking and smart city applications.
 
 
+***
+![Investigations underway on alleged E-pay data leak, says GHL Group](https://apicms.thestar.com.my/uploads/images/2021/02/04/1033565.jpg "Investigations underway on alleged E-pay data leak, says GHL Group")
+
+
+[Investigations underway on alleged E-pay data leak, says GHL Group](https://www.thestar.com.my/tech/tech-news/2021/02/04/investigations-underway-on-alleged-e-pay-data-leak-says-ghl-group)
+
+
+> A banner advertising E-pay services in Selangor. GHL Group advised E.V.E. users to change their passwords on the official website as a precautionary measure. — KAMARUL ARIFFIN/The Star PETALING JAYA: Electronic payment service provider E-pay's parent company GHL Group said it is investigating allegations that its customer data has been leaked online. 'An unconfirmed report has been circulating in the media, claiming that there has been a data compromise of E-pay and that a Threat Actor is selling customers' PII (personal identifiable information) data and credentials related to our website.
+
+
+***
+![Tech Reviews](https://www.madhyamam.com/h-upload/uid/1398Ij043D8FbmdKX9b1O7O4FKhPOLacbbeC3400621?width=500&height=300 "Tech Reviews")
+
+
+[Tech Reviews](https://www.madhyamam.com/technology/reviews)
+
+
+> No body in the article.
+
+
+***
+![Tech News  TECH  Malayalam News](https://www.madhyamam.com/h-upload/uid/1398Ij043D8FbmdKX9b1O7O4FKhPOLacbbeC3400621?width=500&height=300 "Tech News  TECH  Malayalam News")
+
+
+[Tech News  TECH  Malayalam News](https://www.madhyamam.com/technology/news)
+
+
+> No body in the article.
+
+
+***
+![Apple on track to top $3 trillion valuation with autonomous car push](https://www.telegraph.co.uk/content/dam/technology/2021/01/27/TELEMMGLPICT000233608867_trans_NvBQzQNjv4Bq8JWdQZ1J_PyHeSO_SJ-VAoyYNSukMALmIzuk96PqrxU.jpeg?impolicy=logo-overlay "Apple on track to top $3 trillion valuation with autonomous car push")
+
+
+[Apple on track to top $3 trillion valuation with autonomous car push](https://www.telegraph.co.uk/technology/2021/02/04/apple-track-top-3-trillion-valuation-autonomous-car-push/)
+
+
+> Apple could hit a $3 trillion (£2.17 trillion) valuation for the first time should it finalise a deal to build its own car. The Cupertino-based giant , which became the first US company to surpass a market capitalisation of $2 trillion in August, is believed to be in talks with Hyundai-Kia to manufacture an Apple-branded autonomous electric vehicle. It took Apple 42 years to reach a $1 trillion valuation but just two more years to break the $2 trillion mark. A team at the tech firm is working on the 'Apple Car', which has tentatively been lined up for a 2024 release.
+
+
+***
+![Instagram Planning To Emulate TikTok's Vertical Stories Feed Feature](https://www.androidheadlines.com/wp-content/uploads/2019/01/Instagram-AH-NS-04.jpg "Instagram Planning To Emulate TikTok's Vertical Stories Feed Feature")
+
+
+[Instagram Planning To Emulate TikTok's Vertical Stories Feed Feature](https://www.androidheadlines.com/2021/02/instagram-emulate-tiktok-vertical-stories-feed.html)
+
+
+> As per an official confirmation to TechCrunch, Instagram is working on a TikTok-style Vertical Stories Feed feature. This would allow users to scroll through the stories with vertical up and down swipes, similar to what you can do on TikTok.It is not a hidden fact that in the recent past, Instagram has ported (safe to say "copied") a bunch of features from TikTok. Instagram Reels is one of the popular concepts that was copied when TikTok was facing challenges in countries like India.Instagram cashed in the opportunity to compete with TikTok and it very well paid off.
+
+
