@@ -21486,3 +21486,50 @@
 > CENTENNIAL, Colo.--(BUSINESS WIRE)--Arrow Electronics, Inc. (NYSE:ARW) has again been named to FORTUNE's 'World's Most Admired Companies' list, topping the 'Wholesalers: Electronics and Office Equipment' category for the eighth consecutive year. This marks the 21st time Arrow has appeared on the listing that is based on input from industry executives, directors, and analysts. ' Arrow is honored to be recognized again as the most admired company in our industry,' said Michael J. Long, chairman, president, and chief executive officer of Arrow.
 
 
+***
+[GIXR Stock Price, Stock Quotes and News](https://www.benzinga.com/quote/GIXR)
+
+
+> No body in the article.
+
+
+***
+![Where to stream the new Black Panther show](https://www.gannett-cdn.com/presto/2021/02/02/USAT/ea990d4e-aad7-488d-9ffc-78ade3c202e4-killmonger-tchalla.png?crop=1911,1075,x8,y0&width=1600&height=800&fit=bounds "Where to stream the new Black Panther show")
+
+
+[Where to stream the new Black Panther show](https://www.usatoday.com/story/tech/reviewedcom/2021/02/04/stream-new-black-panther-spinoff-show-marvel/4363583001/)
+
+
+> A new Disney+ series will explore the world of Wakanda.   (Photo: Marvel Studios) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. The Kingdom of Wakanda will return in an all-new Disney+ series. According to Deadline , Black Panther writer-director Ryan Coogler has just inked a five-year overall deal with the studio. Through his own Proximity Media, Coogler will develop a number of new television series, the first of which is a Black Panther spinoff separate from the forthcoming Black Panther 2 .
+
+
+***
+![AMBO Stock Price, Ambow Education Holding Ltd. American Depository Shares, each representing two Class A ordinary shares Stock Quotes and News](https://cdn.benzinga.com/files/ticker-logos/std/ambo.jpg "AMBO Stock Price, Ambow Education Holding Ltd. American Depository Shares, each representing two Class A ordinary shares Stock Quotes and News")
+
+
+[AMBO Stock Price, Ambow Education Holding Ltd. American Depository Shares, each representing two Class A ordinary shares Stock Quotes and News](https://www.benzinga.com/quote/AMBO)
+
+
+> School/Education Stocks Mixed As Traders Consider Recent/Seemingly Imminent School Closings In New York, New Jersey, Michigan; K12, Lincoln, Wah Fu, Ambow Shares Higher, Strayer, UTI, American Public, Grand Canyon, ESI Lower Benzinga - Thu, 12 Nov 2020 10:55:08 -0400 54 Biggest Movers From Yesterday Benzinga - Wed, 04 Nov 2020 06:04:43 -0400 51 Biggest Movers From Yesterday Benzinga - Fri, 02 Oct 2020 04:57:27 -0400
+
+
+***
+![12 Information Technology Stocks Moving In Thursday's After-Market Session](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "12 Information Technology Stocks Moving In Thursday's After-Market Session")
+
+
+[12 Information Technology Stocks Moving In Thursday's After-Market Session](https://www.benzinga.com/after-hours-center/21/02/19500739/12-information-technology-stocks-moving-in-thursdays-after-market-session)
+
+
+> Teradata (NYSE: TDC ) stock rose 9.09% to $29.5 during Thursday's after-market session. This security traded at a volume of 76.9K shares come close, making up 6.13% of its average volume over the last 100 days. The company's market cap stands at $3.2 billion. As per the news, the Q4 earnings report came out today. Bill.com Holdings (NYSE: BILL ) stock rose 6.51% to $149.0. This security traded at a volume of 69.3K shares come close, making up 5.11% of its average volume over the last 100 days. The market value of their outstanding shares is at $12.
+
+
+***
+![20 thoughtful Valentine's Day gifts from Etsy everyone will love](https://www.gannett-cdn.com/media/2021/01/28/USATODAY/usatsports/Reviewed.com-RvEW-26579-etsyhero.jpg?crop=1272,716,x0,y2&width=1600&height=800&fit=bounds "20 thoughtful Valentine's Day gifts from Etsy everyone will love")
+
+
+[20 thoughtful Valentine's Day gifts from Etsy everyone will love](https://www.usatoday.com/story/tech/reviewedcom/2021/02/04/20-unique-etsy-valentines-day-gifts-your-partner-adore/4393392001/)
+
+
+> Treat your valentine with any one of these amazing Etsy gifts.   (Photo: Getty Images / Elysart / TheBlankRecordStore / KristinDouglasART) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Every year as Valentine's Day approaches, I'm reminded of the same Michael Scott quote from The Office : 'Presents are the best way to show someone how much you care. It's like this tangible thing that you can point to and say, "Hey, man, I love you this many dollars worth.
+
+
