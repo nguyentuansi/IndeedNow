@@ -21186,3 +21186,53 @@
 > February 4, 2021   12:17 pm - Measures to digitalize the entire judicial system of the country are currently underway, says Minister of Justice Ali Sabry. The Minister stated that this would create the necessary environment for judicial cases to be settled efficiently under a pragmatic approach. Minister Sabry mentioned this while addressing journalists at the Matale area.
 
 
+***
+![Work and game comfortably with an ergonomic keyboard and mouse](https://mondrian.mashable.com/2021%252F02%252F04%252Fbb%252F4b026719912b46ae9821640a0145f340.06458.jpg%252F1200x630.jpg?signature=tmfgXPpbUUeLOMFNbFm8i3n8jPQ= "Work and game comfortably with an ergonomic keyboard and mouse")
+
+
+[Work and game comfortably with an ergonomic keyboard and mouse](https://mashable.com/shopping/feb-4-thunder-fire-gaming-keyboard-and-mouse-set/)
+
+
+> TL;DR: Upgrade your gaming setup with this Thunder Fire 2.4G Gaming Keyboard and Mouse Set , on sale for 53% off. As of Feb. 4, get it for only $59.99. Be honest. How many hours per day have you spent on your computer since the beginning of the pandemic? If your answer is a resounding 'too many,' you could probably use some ergonomic upgrades. The Thunder Fire 2.4G gaming keyboard and mouse set puts ergonomics at the forefront of its design to deliver a better gaming experience. But even if you're not a gamer, you can benefit from this setup.
+
+
+***
+![Apple Car will initially be driverless, report says](https://mondrian.mashable.com/2021%252F02%252F04%252F93%252Fe3adddba858442fe843c6699b4669145.32acd.jpg%252F1200x630.jpg?signature=BwD1J5TnidUsJ0Aq11yPszLTV3s= "Apple Car will initially be driverless, report says")
+
+
+[Apple Car will initially be driverless, report says](https://mashable.com/article/apple-car-driverless/)
+
+
+> With each passing day, the mythical Apple Car becomes more real, and also slightly more confusing.  A new report from CNBC claims that Apple is close to finalizing a deal with Hyundai-Kia (the two companies are affiliated and Hyundai owns a big chunk of Kia) to produce an Apple-branded, autonomous electric vehicle.  We already knew that from previous reports, one of which claims Apple will invest $3.6 billion in Kia Motors to build the Apple Car in a new, dedicated production plant. The new report claims the Kia plant will be built in West Point, Georgia, with the car likely launching in 2024 (though it's possible that the launch date could get pushed into the future).
+
+
+***
+![Marvel's The Falcon and the Winter Soldier will feature a cool Avengers cameo](https://cdn.mos.cms.futurecdn.net/ST82S4M8enVSNy2C2uH7rb-1200-80.jpg "Marvel's The Falcon and the Winter Soldier will feature a cool Avengers cameo")
+
+
+[Marvel's The Falcon and the Winter Soldier will feature a cool Avengers cameo](https://www.techradar.com/news/marvels-the-falcon-and-the-winter-soldier-will-feature-a-cool-avengers-cameo)
+
+
+> (Image credit: Marvel Studios/screengrab) Disney Plus's upcoming MCU TV show The Falcon and the Winter Soldier will feature a cameo appearance from Don Cheadle's James 'Rhodey' Rhodes, also known as War Machine, according to the actor. Cheadle revealed this while speaking to BroBible's Post Credit podcast. Talking more generally about the MCU and his upcoming Disney Plus series, Armor Wars, Cheadle quickly mentions that his character will pop up again sooner than that. "It's great, I can't wait to get in the room with the writers and figure out how all those things [connecting Armor Wars to the MCU] happen.
+
+
+***
+![The best home security cameras to keep your home safe both inside and out](https://www.telegraph.co.uk/content/dam/recommended/2018/11/07/Best-smart-security-cameras_review_summary-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png?imwidth=1200 "The best home security cameras to keep your home safe both inside and out")
+
+
+[The best home security cameras to keep your home safe both inside and out](https://www.telegraph.co.uk/recommended/tech/best-home-security-cameras/)
+
+
+> Home security cameras offer you the safeguard of your house always being watched You don't have to look far into the future to see a time when all houses come equipped with home security cameras. In the modern day, with our rampant internet usage, we've become surprisingly lackadaisical in our approach to home security. Just think how much information you give away when you do a simple online grocery order: your name, your address, the kind of things you buy, what times you'll be around (and, by extension, what times you'll be out).
+
+
+***
+![Fibocom to Deliver Top-Class Commercial-Ready nuSIM IoT Module](https://mms.businesswire.com/media/20210204005367/en/857215/23/nuSIM.jpg "Fibocom to Deliver Top-Class Commercial-Ready nuSIM IoT Module")
+
+
+[Fibocom to Deliver Top-Class Commercial-Ready nuSIM IoT Module](https://www.businesswire.com/news/home/20210204005367/en/Fibocom-to-Deliver-Top-Class-Commercial-Ready-nuSIM-IoT-Module)
+
+
+> February 04, 2021 05:00 AM Eastern Standard Time SHENZHEN, China--(BUSINESS WIRE)--Fibocom (Stock Code: 300638), a leading global provider of IoT (Internet of Things) wireless solution and wireless communication modules, announces that it will collaborate with Deutsche Telekom, a world's leading integrated telecommunications company, and Redtea Mobile, a pioneering connectivity solution provider, to deliver a top-class commercial-ready nuSIM module. Fibocom MA510-GL is a global LPWA multi-RAT module (GPRS/NB/LTE-M) that is widely used in smart meters, smart parking, wearable devices, asset tracking and smart city applications.
+
+
