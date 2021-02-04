@@ -21092,3 +21092,47 @@
 > Highlights Realme will launch two new 5G smartphones in India today. The X7 5G and the X7 Pro 5G will bring big screens, capable cameras. The Realme X7 5G is going to be a rebranded V15 5G for India. Realme X7 Pro 5G and X7 5G are set to be launched in India today. There will be a digital-only event that Realme will hold today to unveil the new 5G smartphones aimed at mid-end customers. These two handsets will mark the entry of Realme into the mid-range 5G phone market, and come almost a year after the company launched India's first 5G device, X50 Pro 5G back in February 2020.
 
 
+***
+[SpaceX Starship 再次著陸爆炸，美國航空管理局勒令停飛](https://technews.tw/2021/02/04/faa-to-oversee-investigation-of-spacex-mars-rocket-prototypes-explosive-landing/)
+
+
+> SpaceX 2 日時為火箭原型 Starship SN9 高空試飛，但火箭著陸時於發射台附近墜毀爆炸。美國聯 […]
+
+
+***
+![Amazon CEO designate Andy Jassy seeks larger play in video games market](https://cdn.mos.cms.futurecdn.net/ePHbmYCnwdAguG2K24TA29-1200-80.jpg "Amazon CEO designate Andy Jassy seeks larger play in video games market")
+
+
+[Amazon CEO designate Andy Jassy seeks larger play in video games market](https://www.techradar.com/news/amazon-ceo-designate-andy-jassy-seeks-larger-play-in-video-games-market)
+
+
+> (Image credit: Amazon Web Services) Barely a day after Jeff Bezos announced his plans to step down as CEO of Amazon, an email from his successor Andy Jassy has surfaced wherein he commits himself to growing the company's video games business. The message assumes importance as it comes in the wake of Google's decision to shut down its games development arm.The email, sent by Jassy to Amazon staff notes that while some businesses take off in the first year, others may take many years. "Though we haven't consistently succeeded yet in AGS (Amazon Games studios), I believe we will if we hang in there," he says in the note, which is seen as an approval for AGS boss Mike Frazzini.
+
+
+***
+[Carta, which launched a private stock exchange CartaX to help employees and investors sell stock in private startups, is now valued at $6.9B (The Information)](http://www.techmeme.com/210204/p1#a210204p1)
+
+
+> The Information: Carta, which launched a private stock exchange CartaX to help employees and investors sell stock in private startups, is now valued at $6.9B — Launching an exchange to help employees and investors sell stock in private startups may seem an odd choice for this year, given the boom in public listings that promise imminent cashouts.
+
+
+***
+![Realme X7, Realme X7 Pro India Launch LIVE Updates: How to watch livestream](https://images.indianexpress.com/2021/01/Realme-X7-Pro-India-launch.jpg "Realme X7, Realme X7 Pro India Launch LIVE Updates: How to watch livestream")
+
+
+[Realme X7, Realme X7 Pro India Launch LIVE Updates: How to watch livestream](https://indianexpress.com/article/technology/mobile-tabs/realme-x7-realme-x7-pro-india-launch-price-specs-live-updates-7173986/)
+
+
+> Realme X7, Realme X7 Pro India Launch LIVE UpdatesRealme X7, Realme X7 Pro Price in India, Specifications, Launch Live Updates: The Realme X7 Pro and Realme X7 are all set to launch in India today and the event will kick off at 12:30PM. The launch event will be live-streamed via the company's YouTube channel. The latest Realme X7 series will be available for purchase via Flipkart and the official Realme site. The Realme X7 series will likely offer a punch-hole display design for the selfie camera and gradient back panel, as per the teasers.
+
+
+***
+![CEO of Social Media App Parler Says Board Fired Him](https://media.nbcphiladelphia.com/2021/01/106822971-1610462243995-gettyimages-1230535253-arriens-twittera210111_npCBu.jpeg?resize=1200%2C675 "CEO of Social Media App Parler Says Board Fired Him")
+
+
+[CEO of Social Media App Parler Says Board Fired Him](https://www.nbcboston.com/news/tech/ceo-of-social-media-app-parler-says-board-fired-him/5793851/)
+
+
+> John Matze says he has been fired as CEO of Parler, which was among social media services used to plan the Jan. 6 attack on the U.S. Capitol by supporters of then-President Donald Trump. Matze's announcement Wednesday followed Amazon's Jan. 11 decision to remove Parler from its web-hosting service over its unwillingness to remove posts that called for the killing, rape and torture of politicians, tech executives and others. Google and Apple removed Parler's app from their online stores. Matze, in a post on the professional networking site LinkedIn, thanked Parler employees.
+
+
