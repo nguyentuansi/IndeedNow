@@ -21001,3 +21001,47 @@
 > TikTok announced new measures Wednesday to curb the spread of misinformation on the social media platform. The company will begin adding banners on unverified content and notify users before they share potentially misleading content. The new procedures are part of the company's efforts to advance media literacy among TikTok users, said Jamie Favazza, TikTok's director of communications for policy and safety. They go into effect in the U.S. and Canada immediately. TikTok videos are usually fact-checked when they're flagged by users for misinformation or when they're related to Covid-19, vaccines, elections or other topics about which the spread of misleading information is common, Favazza said.
 
 
+***
+[Andy Jassy will become CEO at the most politically perilous moment in Amazon's history; it remains to be seen if he will try to make inroads with lawmakers (Cat Zakrzewski/Washington Post)](http://www.techmeme.com/210203/p49#a210203p49)
+
+
+> Cat Zakrzewski / Washington Post: Andy Jassy will become CEO at the most politically perilous moment in Amazon's history; it remains to be seen if he will try to make inroads with lawmakers — Jeff Bezos is stepping aside as CEO of Amazon at the most politically perilous moment in the history of the company he founded.
+
+
+***
+![Parler social network terminates CEO John Matze](https://i.guim.co.uk/img/media/27be57a29f9f61ca76cd9f4e28e5bbd3ca5df82a/0_167_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58aaf45d8c8f562f4803ea5683cbc553 "Parler social network terminates CEO John Matze")
+
+
+[Parler social network terminates CEO John Matze](http://www.theguardian.com/technology/2021/feb/03/parler-social-network-terminates-ceo-john-matze)
+
+
+> Platform popular with US far right has faced an uncertain future after being essentially forced offlineSign up for the Guardian Today US newsletterParler, the social media platform favored by the US far right, has dismissed its CEO John Matze.Matze confirmed his termination in a text message to Reuters.'On January 29, 2021, the Parler board controlled by Rebekah Mercer decided to immediately terminate my position as CEO of Parler. I did not participate in this decision,' Matze said in a memo sent to Parler staff, originally reported by Fox News.
+
+
+***
+![Tech experts talk about ways to have a digital Super Bowl celebration](https://media.tegna-media.com/assets/KFSM/images/651be222-52a7-45e7-8a18-a42016d60933/651be222-52a7-45e7-8a18-a42016d60933_1140x641.png "Tech experts talk about ways to have a digital Super Bowl celebration")
+
+
+[Tech experts talk about ways to have a digital Super Bowl celebration](https://www.5newsonline.com/article/sports/nfl/superbowl/tech-experts-talk-about-ways-to-have-a-digital-super-bowl-celebration/527-6631dab1-c8ab-49df-b332-b1ec543d0606)
+
+
+> FAYETTEVILLE, Ark — The most highly anticipated football game of the year is almost here.  With social distancing, Super Bowl Sunday isn't going to look like year's past but it can still be spent with others thanks to technology.  'It's definitely a strange year as far as family gatherings, friend gatherings, everybody coming together. There are solutions to still get together and have that interaction, that face-to-face time,' said Jordan Vazquez, an in-home adviser for Best Buy   Technology like the Alexa Show and Facebook Portal have cameras on the device that follow you around giving the feeling like you are actually there even though you are just video conferencing.
+
+
+***
+[Sources: Apple and Hyundai-Kia close to a car manufacturing deal; first "Apple Cars" will be "designed to operate without a driver and focused on the last mile" (CNBC)](http://www.techmeme.com/210203/p48#a210203p48)
+
+
+> CNBC: Sources: Apple and Hyundai-Kia close to a car manufacturing deal; first “Apple Cars” will be “designed to operate without a driver and focused on the last mile” — - Apple is close to finalizing a deal with Hyundai-Kia to manufacture an Apple-branded autonomous electric vehicle …
+
+
+***
+![The best noise-canceling true wireless earbuds for 2021](https://cnet4.cbsistatic.com/img/egOQkbya-GBqiO8jfFFqeWxdKN4=/1200x630/2019/12/18/17f409d5-b5cc-420c-ace8-50f6ce464813/airpods-pro-versus-sony-wf-1000xm3.jpg "The best noise-canceling true wireless earbuds for 2021")
+
+
+[The best noise-canceling true wireless earbuds for 2021](https://www.cnet.com/news/best-noise-canceling-true-wireless-earbuds/)
+
+
+> Active noise cancellation (also known as ANC headphones) work by essentially producing a mirror image sound wave in your ear to electronically counteract, or "cancel out," external noise. The technology works best in environments where there's a sustained din of noise, like the droning of a jet engine -- which is why Bose ANC wireless earphones became a status symbol at airports.The technology used to be restricted to full-size over-ear headphones. But in just the past few years, it's been shrunken down to earbud size.
+
+
