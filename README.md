@@ -21286,3 +21286,53 @@
 > As per an official confirmation to TechCrunch, Instagram is working on a TikTok-style Vertical Stories Feed feature. This would allow users to scroll through the stories with vertical up and down swipes, similar to what you can do on TikTok.It is not a hidden fact that in the recent past, Instagram has ported (safe to say "copied") a bunch of features from TikTok. Instagram Reels is one of the popular concepts that was copied when TikTok was facing challenges in countries like India.Instagram cashed in the opportunity to compete with TikTok and it very well paid off.
 
 
+***
+![Newbie](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Newbie")
+
+
+[Newbie](https://www.reddit.com/r/Python/comments/lcgaxk/newbie/)
+
+
+> Hello there... I started learning for and while loops today. Tried some basic exercises I found on internet. Can't do shit... Please tell me everybody had the same issue so I could feel less of an idiot.
+
+
+***
+![Block ads, trackers and even some malware with the best Chrome ad blockers](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/06/asus-chromebook-c214-wooden-bench-chipped.jpg "Block ads, trackers and even some malware with the best Chrome ad blockers")
+
+
+[Block ads, trackers and even some malware with the best Chrome ad blockers](https://www.androidcentral.com/best-ad-blockers-chrome)
+
+
+> Best Ad Blockers for Chrome Android Central 2021 Deeply hidden in your Chrome settings are tools for blocking pop-ups, but because of how Chrome and other web browsers are programmed to earn money, there are still many types of ads that display. Cybercriminals cleverly disguised phishing schemes, adware, or malicious downloads as legitimate ads, so the best and easiest way to protect yourself is with an ad blocker. Here are some of our favorites. Staff pick On top of blocking pop-up ads, AdBlock keeps banner ads from downloading within the content you're reading and stops commercials from showing in YouTube videos.
+
+
+***
+![Obsidian Cloud Detection and Response Now Available in AWS Marketplace](https://mms.businesswire.com/media/20210204005128/en/787485/23/Obsidian_Logo_RGB_2020.jpg "Obsidian Cloud Detection and Response Now Available in AWS Marketplace")
+
+
+[Obsidian Cloud Detection and Response Now Available in AWS Marketplace](https://www.businesswire.com/news/home/20210204005128/en/Obsidian-Cloud-Detection-and-Response-Now-Available-in-AWS-Marketplace)
+
+
+> February 04, 2021 09:00 AM Eastern Standard Time NEWPORT BEACH, Calif.--(BUSINESS WIRE)--Obsidian, the cloud detection and response company, today announced availability in Amazon Web Services (AWS) Marketplace. AWS customers can now purchase the Obsidian SaaS security solution directly in AWS Marketplace and pay for the service through their integrated AWS bill. Obsidian protects against account compromise, insider threats, access misuse, data leaks, excessive privileges and weak posture in SaaS applications with its cloud detection and response platform.
+
+
+***
+![Xilinx Collaborates with Fujitsu to Support 5G Deployments in the US](https://mms.businesswire.com/media/20210204005131/en/857001/23/zynq-ultrascale%2B-chip.jpg "Xilinx Collaborates with Fujitsu to Support 5G Deployments in the US")
+
+
+[Xilinx Collaborates with Fujitsu to Support 5G Deployments in the US](https://www.businesswire.com/news/home/20210204005131/en/Xilinx-Collaborates-with-Fujitsu-to-Support-5G-Deployments-in-the-US)
+
+
+> February 04, 2021 09:00 AM Eastern Standard Time SAN JOSE, Calif.--(BUSINESS WIRE)--Xilinx, Inc., (NASDAQ: XLNX), the leader in adaptive computing, today announced that the company is supplying its leading UltraScale+ technology to Fujitsu Limited for its O-RAN 5G radio units (O-RUs). Fujitsu O-RUs using Xilinx technology will be deployed in the first O-RAN-compliant 5G greenfield networks in the U.S. Fujitsu is also evaluating Xilinx RFSoC technology to further reduce cost and power consumption for additional future site deployments.
+
+
+***
+![10 Great TV and Soundbar Deals for the Super Bowl](https://media.wired.com/photos/5fdaaccfd1ea381dda0c1550/191:100/w_1280,c_limit/Gear-Vizio-OLED-Front-SOURCE-Vizio.jpg "10 Great TV and Soundbar Deals for the Super Bowl")
+
+
+[10 Great TV and Soundbar Deals for the Super Bowl](https://www.wired.com/story/super-bowl-tv-and-soundbar-deals-2021/)
+
+
+> Yeah, there's a big football game this weekend, but we're more excited about these OLED TV and soundbar deals.To revist this article, visit My Profile, then View saved stories.Super Bowl TV and soundbar deals aren't always the newest TVs on the market. Usually, retailers discount models that are going on a year old. This year is different. Due to the pandemic, many TV makers delayed their 2020 models, which means we're just starting to see the first deals on them. Whether you're into it for the commercials or are a diehard Buccaneer or Chief, here are the best deals to snag before the whistle blows.
+
+
