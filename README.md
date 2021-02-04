@@ -21336,3 +21336,53 @@
 > Yeah, there's a big football game this weekend, but we're more excited about these OLED TV and soundbar deals.To revist this article, visit My Profile, then View saved stories.Super Bowl TV and soundbar deals aren't always the newest TVs on the market. Usually, retailers discount models that are going on a year old. This year is different. Due to the pandemic, many TV makers delayed their 2020 models, which means we're just starting to see the first deals on them. Whether you're into it for the commercials or are a diehard Buccaneer or Chief, here are the best deals to snag before the whistle blows.
 
 
+***
+![Investors are underestimating the 'Apple Car' impact on the EV market, analysts say](https://photos5.appleinsider.com/gallery/40156-77269-Apple-Car-Header-xl.jpg "Investors are underestimating the 'Apple Car' impact on the EV market, analysts say")
+
+
+[Investors are underestimating the 'Apple Car' impact on the EV market, analysts say](https://appleinsider.com/articles/21/02/04/investors-are-underestimating-the-apple-car-impact-on-the-ev-market-analysts-say)
+
+
+> Moshi releases new Symbus Mini portable USB-C hub 1 hour ago New antitrust legislation targets Apple, other tech giants 1 hour ago Apple may have a solution for fraying Lightning cables 2 hours ago
+
+
+***
+![Stocks That Hit 52-Week Highs On Thursday](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Stocks That Hit 52-Week Highs On Thursday")
+
+
+[Stocks That Hit 52-Week Highs On Thursday](https://www.benzinga.com/news/21/02/19493044/stocks-that-hit-52-week-highs-on-thursday)
+
+
+> During Thursday's morning session, 255 companies made new 52-week highs. Facts of Interest: The largest company by market cap to set a new 52-week high was PayPal Holdings (NASDAQ: PYPL ). Good Times Restaurants was the smallest company by market cap to set a new 52-week high. ATA Creativity Global (NASDAQ: AACG ) was the biggest winner, trading up 300.0% to reach its 52-week high. Here is a list of stocks that set new 52-week highs during the first half-hour of trading on Thursday: PayPal Holdings (NASDAQ: PYPL ) stock set a new 52-week high of $274.
+
+
+***
+![HubSpot To Buy Content Company The Hustle: What You Need to Know](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/she_screenshot_2.png "HubSpot To Buy Content Company The Hustle: What You Need to Know")
+
+
+[HubSpot To Buy Content Company The Hustle: What You Need to Know](https://www.benzinga.com/m-a/21/02/19492579/hubspot-to-buy-content-company-the-hustle-what-you-need-to-know)
+
+
+> Shares of HubSpot Inc (NYSE: HUBS ) were trading higher Thursday after the customer relationship management software provider announced a M&A transaction. What Happened: HubSpot said late Wednesday it has agreed to acquire The Hustle, which produces a newsletter, podcast and premium research content. The deal is valued at about $27 million, Axios reported , citing a source familiar with the matter. The Deal Logic: The proposed acquisition is likely to give HubSpot more ways to offer its community of scaling companies valuable content across a host of topics, including educational, business, and tech trends, and a more diverse set of media.
+
+
+***
+![Surface Pro X vs. iPad Pro](https://icdn2.digitaltrends.com/image/digitaltrends/surface-pro-x-01-1200x630-c-ar1.91.jpg "Surface Pro X vs. iPad Pro")
+
+
+[Surface Pro X vs. iPad Pro](https://www.digitaltrends.com/computing/surface-pro-x-vs-ipad-pro/)
+
+
+> If you're looking for a tablet that can double as a laptop, the two best options right now are Apple's iPad Pro and Microsoft's Surface Pro X . Both devices feature super-slim bezels and support optional pen and keyboard accessories. Microsoft's Surface Pro X is the newer of the two devices, though you might be wondering how it stands up to the latest iPad Pro. In this guide, we'll compare design, performance, and portability to help you choose the right one for you. Design In terms of design, both the iPad Pro and the Surface Pro X are super slim and pack a large, immersive display.
+
+
+***
+![Larry Magid: Safer Internet Day 2021 goes online](https://www.mercurynews.com/wp-content/uploads/2016/08/magid_larry.jpg?w=1024&h=709 "Larry Magid: Safer Internet Day 2021 goes online")
+
+
+[Larry Magid: Safer Internet Day 2021 goes online](https://www.mercurynews.com/2021/02/04/safer-internet-day-2021-goes-online)
+
+
+> Last year, on the second Tuesday of February, about 300 high school and middle school students from across the Bay Area gathered at the Computer History Museum in Mountain View to celebrate Safer Internet Day . That night, families came to TikTok's Bay Area office to learn how seniors, parents, teens Larry Magid (Gary Reyes / Mercury News) and even very young internet users could take advantage of connected technology while protecting their safety, privacy and security, maintain a tech-life balance and learn media literacy skills to know the difference between truth and online lies.
+
+
