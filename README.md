@@ -20951,3 +20951,53 @@
 > © Reuters. FILE PHOTO: The eBay logo is pictured on a phone screen in this photo illustration (Reuters) - E-commerce firm eBay Inc (NASDAQ:) on Wednesday topped Wall Street expectations for the holiday quarter and forecast upbeat current-quarter sales, helped by a surge in online shopping during the COVID-19 pandemic. Shares of the company jumped over 9% to $63.46 in extended trade on the news. The global health crisis has forced millions of Americans to stay indoors, leading to a jump in online orders for e-commerce companies including eBay, Amazon.
 
 
+***
+![Clearview AI's Facial-Recognition App Called Illegal in Canada](https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-facebookJumbo.jpg "Clearview AI's Facial-Recognition App Called Illegal in Canada")
+
+
+[Clearview AI's Facial-Recognition App Called Illegal in Canada](https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html)
+
+
+> Continue reading the main story Canadian authorities declared that the company needed citizens' consent to use their biometric information, and told the firm to delete facial images from its database. Canada's privacy commissioner, Daniel Therrien, said: 'What Clearview does is mass surveillance, and it is illegal.' Credit... Chris Wattie/Reuters Feb. 3, 2021, 7:08 p.m. ET The facial recognition app Clearview AI is not welcome in Canada and the company that developed it should delete Canadians' faces from its database, the country's privacy commissioner said on Wednesday.
+
+
+***
+![Amazon plans AI-powered cameras in delivery vans to improve safety](https://static.reuters.com/resources/r/?m=02&d=20210204&t=2&i=1550245525&r=LYNXMPEH13003&w=800 "Amazon plans AI-powered cameras in delivery vans to improve safety")
+
+
+[Amazon plans AI-powered cameras in delivery vans to improve safety](https://www.reuters.com/article/us-amazon-com-delivery-idUSKBN2A4009)
+
+
+> By Reuters Staff FILE PHOTO: An Amazon Prime van during a press conference announcing Amazon.com's new program to help entrepreneurs build businesses delivering Amazon packages, including $1 million to fund startup costs for military veterans, at an event space in Seattle, Washington, U.S., June 27, 2018. REUTERS/Lindsey Wasson (Reuters) - Amazon.com has revealed plans to install AI-powered video cameras in its branded delivery vans, in a move that the world's largest e-commerce firm says would improve safety of both drivers and the communities in which they deliver.
+
+
+***
+![Apple to request return of Apple Silicon Developer Transition Kits, offers $200 toward purchase of M1 Mac](https://photos5.appleinsider.com/gallery/40140-77235-210203-DTK-xl.jpg "Apple to request return of Apple Silicon Developer Transition Kits, offers $200 toward purchase of M1 Mac")
+
+
+[Apple to request return of Apple Silicon Developer Transition Kits, offers $200 toward purchase of M1 Mac](https://appleinsider.com/articles/21/02/04/apple-to-request-return-of-apple-silicon-developer-transition-kits-offers-200-toward-purchase-of-m1-mac)
+
+
+> No body in the article.
+
+
+***
+![Apple and Hyundai-Kia close to finalizing deal on Apple Car](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/09/carplay.jpg "Apple and Hyundai-Kia close to finalizing deal on Apple Car")
+
+
+[Apple and Hyundai-Kia close to finalizing deal on Apple Car](https://www.imore.com/apple-and-hyundai-kia-close-finalizing-deal-apple-car)
+
+
+> Source: Apple As reported by CNBC, multiple sources are saying that Apple and Hyundai-Kia are close to finalizing a deal to build Apple's rumored electric car at the Kia factory in West Point, Georgia (United States). According to those familiar with the talks, the vehicle could go into production as soon as 2024, but they assert that the schedule could be pushed back. Despite the news, the sources also have said that no deal has been reached just yet and that Apple may ultimately decide to go with another manufacturer.
+
+
+***
+![TikTok to warn users about sharing misleading content](https://media1.s-nbcnews.com/j/newscms/2020_32/3402799/200806-tiktok-ac-937p_a7e9822807d0a548e075d3d86eeb7ee7.nbcnews-fp-1200-630.jpg "TikTok to warn users about sharing misleading content")
+
+
+[TikTok to warn users about sharing misleading content](https://www.nbcnews.com/tech/tech-news/tiktok-warn-users-about-sharing-misleading-content-n1256668)
+
+
+> TikTok announced new measures Wednesday to curb the spread of misinformation on the social media platform. The company will begin adding banners on unverified content and notify users before they share potentially misleading content. The new procedures are part of the company's efforts to advance media literacy among TikTok users, said Jamie Favazza, TikTok's director of communications for policy and safety. They go into effect in the U.S. and Canada immediately. TikTok videos are usually fact-checked when they're flagged by users for misinformation or when they're related to Covid-19, vaccines, elections or other topics about which the spread of misleading information is common, Favazza said.
+
+
