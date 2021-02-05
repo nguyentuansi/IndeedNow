@@ -21624,3 +21624,53 @@
 > Ingrid Lunden / TechCrunch: Infinitus, which provides a machine-generated voice calling service for healthcare companies contacting customers, has come out of stealth with $21.4M Series A — Robotic process automation (RPA) has found a strong foothold in the world of enterprise IT through its effective use of AI …
 
 
+***
+![Instagram will let users recover recently deleted content](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/0502_insta_restore-seo.jpg "Instagram will let users recover recently deleted content")
+
+
+[Instagram will let users recover recently deleted content](https://www.malaymail.com/news/tech-gadgets/2021/02/05/instagram-will-let-users-recover-recently-deleted-content/1947142)
+
+
+> Instagram is introducing a new folder that will save deleted content for 30 days. — Picture courtesy of Instagram SAN FRANCISCO, Feb 5 —  If you've ever found yourself regretting deleting a photo from Instagram, then this new feature is for you. The social network is introducing a new folder that will save deleted content for 30 days, making it easier for users to retrieve and republish. For greater security, and to protect users from account hacking, Instagram will verify the user's identity before reinstating or permanently deleting content.
+
+
+***
+![Google fitness app to catch breath and heart rate](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/0502_google_fitness_app-seo.jpg "Google fitness app to catch breath and heart rate")
+
+
+[Google fitness app to catch breath and heart rate](https://www.malaymail.com/news/tech-gadgets/2021/02/05/google-fitness-app-to-catch-breath-and-heart-rate/1947104)
+
+
+> Google's upgraded fitness app uses smartphone camera capabilities to measure respiration and heart rate. — Picture courtesy of Google SAN FRANCISCO, Feb 5 — Google yesterday unveiled an upgraded fitness app which uses smartphone camera capabilities to measure respiration and heart rate. Google Fit already uses smartphone sensors to figure out how far people walk or how many calories they have burned, but new features rolling out to Google Pixel phones will add pulse and breathing to health data crunched by the app.
+
+
+***
+![Fairly heavy rainfall expected in some areas](https://adaderanaenglish.s3.amazonaws.com/1612496924-Fairly-heavy-rainfall-expected-in-some-areas-L.jpg "Fairly heavy rainfall expected in some areas")
+
+
+[Fairly heavy rainfall expected in some areas](http://www.adaderana.lk/news/71312/fairly-heavy-rainfall-expected-in-some-areas)
+
+
+> February 5, 2021   09:17 am - A few showers will occur in Uva and Eastern provinces and in Hambantota, Matale and Nuwara-Eliya districts, says the Department of Meteorology. Showers or thundershowers will occur at few places in Sabaragamuwa province and in Kaluthara, Galle and Matara districts after 1.00 p.m. Fairly heavy falls about 50 mm can be expected at some places. Mainly fair weather will prevail elsewhere over the island. Misty conditions can be expected in Western, Central, Sabaragamuwa and Southern provinces during the morning.
+
+
+***
+![All 3 Apple AirPods Are on Sale Ahead of Valentine's Day — Including AirPods Pro for Under $200](https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2019%2F12%2Fairpods-sale-tout-2000.jpg "All 3 Apple AirPods Are on Sale Ahead of Valentine's Day — Including AirPods Pro for Under $200")
+
+
+[All 3 Apple AirPods Are on Sale Ahead of Valentine's Day — Including AirPods Pro for Under $200](https://people.com/tech/apple-airpods-pro-sale-amazon-early-valentines-day-deal/)
+
+
+> Valentine's Day is almost here, and if you're looking for an impressive gift for a loved one (or yourself!), you simply can't go wrong with a pair of top-rated AirPods, which are now on sale.  Get push notifications with news, features and more. + Follow All three of the wireless earbuds have earned a massive number of five-star ratings from Amazon shoppers with the original style (the wired charged AirPods) racking up the most praise — over 292,000 perfect ratings. The now-$120 headphones offer all of the basic features that made them a hit with shoppers, including fast Bluetooth pairing, on-ear touch controls, and in-case charging that can be used on the go.
+
+
+***
+![How will 'chipageddon' affect you?](https://ichef.bbci.co.uk/news/1024/branded_news/13291/production/_116818487_chip1.jpg "How will 'chipageddon' affect you?")
+
+
+[How will 'chipageddon' affect you?](https://www.bbc.com/news/technology-55936011)
+
+
+> By Leo Kelion Technology desk editor image copyright Getty Images For the most part they go unseen but computer chips are at the heart of all the digital products that surround us - and when supplies run short, it can halt manufacturing. There was a hint of the problem last year when gamers struggled to buy new graphics cards , Apple had to stagger the release of its iPhones , and the latest Xbox and PlayStation consoles came nowhere close to meeting demand. Then, just before Christmas, it emerged the resurgent car industry was facing what one insider called "chipageddon".
+
+
