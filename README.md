@@ -21974,3 +21974,50 @@
 > No body in the article.
 
 
+***
+![Learn how to build a successful online store with this $30 Shopify training bundle](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/sale_47630_article_image-9va9.jpg "Learn how to build a successful online store with this $30 Shopify training bundle")
+
+
+[Learn how to build a successful online store with this $30 Shopify training bundle](https://www.imore.com/learn-how-build-successful-online-store-30-shopify-training-bundle)
+
+
+> Source: Stack Commerce Source: StackCommerce With everyone stuck at home, online stores have been posting record profits over the past year. Now is a great time to jump on this trend. The Complete Shopify Bootcamp Bundle shows you how to set up a successful online store from scratch. It includes six courses valued at $1,194, but you can get the training today for just $29.99. Shopify is a platform that lets you create a slick online store in minutes. Many people have used this service to make serious money on a tight budget.
+
+
+***
+![Freelance webscraping](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Freelance webscraping")
+
+
+[Freelance webscraping](https://www.reddit.com/r/Python/comments/ldcxp3/freelance_webscraping/)
+
+
+> I've been learning python for a few months now and I started learning webscraping last week and I was planning to do freelance webscraping in the near future. For my freelancers how is the webscraping side gigs out there?
+
+
+***
+![TechniCalc is a gorgeous scientific calculator](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/technicalc-on-devices-banner.jpeg "TechniCalc is a gorgeous scientific calculator")
+
+
+[TechniCalc is a gorgeous scientific calculator](https://www.imore.com/technicalc-gorgeous-scientific-calculator-iphone-ipad-mac-and-apple-watch)
+
+
+> We may earn a commission for purchases using our links. Learn more. Calculating It isn't often a calculator app looks this good. 5 Feb 2021 Source: Jacob Parker TechniCalc is a scientific calculator for all the devices. TechniCalc is a gorgeous scientific calculator that somehow manages to pull off a minimalist look while still being packed full of functionality. Available for iPhone, iPad, Mac, and with a companion Apple Watch app. TechniCalc has more features than I know what to do with, but they all sound mighty impressive.
+
+
+***
+[CodeMirror 6](https://codemirror.net/6/)
+
+
+> CodeMirror 6 is a rewrite of the CodeMirror code editor. It greatly improves the library's accessibility and touchscreen support, provides better content analysis and a modern programming interface. The new system matches the existing code in features and performance. It is not API-compatible with the old code. The project is in the beta phase—there's a stable interface, but small breaking changes might still happen. It is being used in production in a few mid-size systems, but is not as battle-tested as the old version.
+
+
+***
+![This massive 70-inch 4K TV is on sale for $588 ahead of Presidents' Days sales](https://cdn.mos.cms.futurecdn.net/XLzMcecm7hbvtKNqjmtXa4-1200-80.jpg "This massive 70-inch 4K TV is on sale for $588 ahead of Presidents' Days sales")
+
+
+[This massive 70-inch 4K TV is on sale for $588 ahead of Presidents' Days sales](https://www.techradar.com/news/this-massive-70-inch-4k-tv-is-on-sale-for-dollar588-in-last-minute-super-bowl-tv-deal)
+
+
+> The 2021 Presidents' Day sales event is just around the corner, and that means big savings on mattresses, laptops, furniture, and most importantly, 4K TVs. To kick things off early, we've spotted an incredible TV deal on this Vizio 70-inch 4K set that's on sale for just $588 (was $758) at Walmart. That's a massive $170 discount and an incredible price for a feature-packed big-screen 4K TV.See more TV deals at WalmartVIZIO 70-inch 4K UHD Smart TV: $758 $588 at Walmart Save $170 - Right now, you can get this 70-inch 4K TV on sale for just $588 at Walmart.
+
+
