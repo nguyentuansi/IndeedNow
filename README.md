@@ -21924,3 +21924,53 @@
 > (Image credit: Future) Hopes that Joe Biden's tenure as US president would lead to a reprieve for Huawei appear to be unfounded following comments from his nominee for commerce secretary.Huawei, along with several other Chinese companies, has been on the US ‘non-entity' list since 2019, a status that prevents US companies from doing business with it without a licence. This has limited its access to key technologies such as Google applications and US-manufactured components.Gina Raimondo had initially not committed to keeping Huawei on the list, prompting senate republicans to seek a delay to her confirmation until the matter was clarified.
 
 
+***
+![Ford Motor Company's Big Transition Plans](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/nadine-shaabana-p1aza8ribk0-unsplash_0.jpg "Ford Motor Company's Big Transition Plans")
+
+
+[Ford Motor Company's Big Transition Plans](https://www.benzinga.com/news/earnings/21/02/19512711/ford-motor-companys-big-transition-plans)
+
+
+> The market has responded very well when Ford Motor Company (NYSE: F ) appointed new CEO Jim Farley on October 1 st , 2020. Since then, Ford's share price has risen 60 to 70%. That was a clear sign of investors' confidence in new leadership and restructuring plans. Then there are Ford's ambitious electrifications plans as it is going full speed towards 2025, just like General Motors Company (NYSE: GM ) who will release its quarterly results on February 10 th . The proof that Ford knows what it is doing and that its plans are not too farfetched is that the legacy automaker has just reported better than expected fourth-quarter earnings.
+
+
+***
+![Analyzing Dropbox's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Analyzing Dropbox's Unusual Options Activity")
+
+
+[Analyzing Dropbox's Unusual Options Activity](https://www.benzinga.com/markets/options/21/02/19512780/analyzing-dropboxs-unusual-options-activity)
+
+
+> On Friday, shares of Dropbox (NASDAQ: DBX ) saw unusual options activity. After the option alert, the stock price moved up to $23.8. Sentiment: BULLISH Option Type: SWEEP Trade Type: CALL Expiration Date: 2021-07-16 Strike Price: $30.00 Volume: 200 Open Interest: 3490 Three Ways Options Activity Is ‘Unusual' One way options market activity can be considered unusual is when volume is exceptionally higher than its historical average. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![Viasat rises 11% as William Blair upgrades, encouraged by Delta deal and earnings (NASDAQ:VSAT)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Viasat rises 11% as William Blair upgrades, encouraged by Delta deal and earnings (NASDAQ:VSAT)")
+
+
+[Viasat rises 11% as William Blair upgrades, encouraged by Delta deal and earnings (NASDAQ:VSAT)](https://seekingalpha.com/news/3659118-viasat-rises-11-as-william-blair-upgrades-encouraged-by-delta-deal-and-earnings)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Samsung seeks $806 million incentive for Austin chip plant (OTCMKTS:SSNNF)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Samsung seeks $806 million incentive for Austin chip plant (OTCMKTS:SSNNF)")
+
+
+[Samsung seeks $806 million incentive for Austin chip plant (OTCMKTS:SSNNF)](https://seekingalpha.com/news/3659119-samsung-seeks-806-million-incentive-for-austin-chip-plant)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Technology Will Save Us Launches DIY Wearable Kits](https://design-milk.com/images/2016/05/mover_stills_61.jpeg "Technology Will Save Us Launches DIY Wearable Kits")
+
+
+[Technology Will Save Us Launches DIY Wearable Kits](https://design-milk.com/technology-will-save-us-launches-diy-wearable-kits/)
+
+
+> No body in the article.
+
+
