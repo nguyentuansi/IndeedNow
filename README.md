@@ -21674,3 +21674,53 @@
 > By Leo Kelion Technology desk editor image copyright Getty Images For the most part they go unseen but computer chips are at the heart of all the digital products that surround us - and when supplies run short, it can halt manufacturing. There was a hint of the problem last year when gamers struggled to buy new graphics cards , Apple had to stagger the release of its iPhones , and the latest Xbox and PlayStation consoles came nowhere close to meeting demand. Then, just before Christmas, it emerged the resurgent car industry was facing what one insider called "chipageddon".
 
 
+***
+![How to watch WandaVision online: stream all-new episode 5 on Disney Plus today](https://cdn.mos.cms.futurecdn.net/ttmdvcvFFmv4Gbn87m4RPW-1200-80.jpeg "How to watch WandaVision online: stream all-new episode 5 on Disney Plus today")
+
+
+[How to watch WandaVision online: stream all-new episode 5 on Disney Plus today](https://www.techradar.com/news/how-to-watch-wandavision-online-stream-all-new-episode-5-on-disney-plus-today)
+
+
+> (Image credit: Marvel Studios) Last week, fans of Marvel Studios' brilliant but sometimes bizarre small screen debut WandaVision finally got some answers about the show's place in the wider MCU - and even bigger reveals are promised this week as all-new episode 5 is released. Read on as we explain how to watch WandaVision online and stream the latest instalment of the Avengers spin-off on Disney Plus today.How to watch WandaVision episode 5Release date: January 28, 2021Cast: Elizabeth Olsen, Paul Bettany, Teyonah Parris, Kathryn Hahn, Kat Dennings, Randall ParkDirector: Matt ShakmanWatch now: stream WandaVision on Disney Plus from just $6.
+
+
+***
+![Does ExpressVPN work with Apple TV?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/09/apple-tv-4k-angle.jpg "Does ExpressVPN work with Apple TV?")
+
+
+[Does ExpressVPN work with Apple TV?](https://www.imore.com/does-expressvpn-work-apple-tv)
+
+
+> Source: iMoreBest answer: Yes, you can use ExpressVPN with your Apple TV. It takes a little bit of trickery within your ExpressVPN and Apple TV settings, but you can use the service specifically for bypassing geographic content restrictions. Alternatively, set ExpressVPN up on your compatible router. Using a VPN on your Mac, iPad or iPhone has become pretty commonplace and it's super-easy to get set up with a service like ExpressVPN on these devices. Unlike macOS and iOS devices, the Apple TV doesn't have a dedicated way to connect to a VPN service which makes the process a little more tricky, though not impossible.
+
+
+***
+![Microsoft Viva Is a New Employee Experience Platform to Ease Remote Work](https://i.gadgets360cdn.com/large/Microsoft_vivo_launch_1612503814563.jpg "Microsoft Viva Is a New Employee Experience Platform to Ease Remote Work")
+
+
+[Microsoft Viva Is a New Employee Experience Platform to Ease Remote Work](https://gadgets.ndtv.com/apps/news/microsoft-viva-employee-experience-platform-enhance-workflow-connections-insights-learning-topics-2363608)
+
+
+> Microsoft Viva, an employee experience platform powered by Microsoft 365, has been launched. It integrates a company's resources and support with productivity tools that employees use on a daily basis to create a seamless workflow regardless of where they are working from. Microsoft says that it was working on Viva even before the pandemic. This digital tool essentially allows employees to be connected, provides insights, brings opportunities to learn, and easily search for information.Microsoft Viva includes four modules — Viva Connections, Viva Insights, Viva Learning, and Viva Topics, according to an official blog post from Jared Spataro, Corporate Vice President for Microsoft 365.
+
+
+***
+![Explain!!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Explain!!")
+
+
+[Explain!!](https://www.reddit.com/r/Python/comments/ld0m8i/explain/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![There Are Spying Eyes Everywhere—and Now They Share a Brain](https://external-preview.redd.it/WAjJ2bWOkBHBZ1jZmn6BXgJRzYgBbwZbzFXuz47OJaE.jpg?auto=webp&s=08ef817921e06364f3ece02047dd3ce80205ba4f "There Are Spying Eyes Everywhere—and Now They Share a Brain")
+
+
+[There Are Spying Eyes Everywhere—and Now They Share a Brain](https://www.reddit.com/r/technology/comments/ld0m6z/there_are_spying_eyes_everywhereand_now_they/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
