@@ -21774,3 +21774,53 @@
 > Realme has launched a new 5G smartphone that costs under Rs 15,000 and brings the MediaTek chipset inside. Shubham Verma | February 5, 2021 | Updated 12:01 IST Realme V11 5G in Quiet Grey colour.
 
 
+***
+![Crowdfunding hate: How white supremacists and other extremists raise money from legions of online followers](https://www.gannett-cdn.com/presto/2021/01/30/USAT/fce81198-40ff-42d0-90c1-0b486604f929-Alex_Jones_GTY_1230457578.jpg?crop=6191,3482,x0,y314&width=3200&height=1680&fit=bounds "Crowdfunding hate: How white supremacists and other extremists raise money from legions of online followers")
+
+
+[Crowdfunding hate: How white supremacists and other extremists raise money from legions of online followers](https://www.usatoday.com/story/news/nation/2021/02/05/bitcoin-crowdfunding-used-white-supremacists-far-right-extremists/4300688001/)
+
+
+> CLOSE WARNING: Explicit language. Footage captured by a reporter for The New Yorker documents the U.S. Capitol siege on Jan. 6. USA TODAY A mysterious $500,000 Bitcoin transfer. Online stores selling sham  nutritional supplements and buckets of protein powder. Inane, live-streamed video game sessions, full of dog whistles and racial slurs, fed by a steady flow of cryptocurrency donations in the form of virtual lemons. Some of the income streams exploited by America's extremist movements have come under increased scrutiny after last month's attack on the U.
+
+
+***
+![Microsoft reveals its vision of the future of working from home](https://cdn.mos.cms.futurecdn.net/unBoXU4JWpti7UfcBc7mLE-1200-80.jpg "Microsoft reveals its vision of the future of working from home")
+
+
+[Microsoft reveals its vision of the future of working from home](https://www.techradar.com/news/microsoft-viva-wants-to-shake-up-the-future-of-remote-work-for-good)
+
+
+> (Image credit: Shutterstock / GoodStudio) Remote working looks set to be a more permanent situation that many businesses expected, and Microsoft has now launched a new platform to help businesses manage this. Microsoft Viva will integrate with Teams and operate as a kind of intranet that brings together knowledge, learning, and communication tools.'Today we're introducing Microsoft Viva, the first [Employee Experience Platform] built for the digital era,' explained Jared Spataro, Corporate Vice President for Microsoft 365.
+
+
+***
+![New Xiaomi Phone Has Quad-Curved Display, No Buttons & No Ports](https://www.androidheadlines.com/wp-content/uploads/2021/02/Xiaomi-quad-curved-display-smartphone-featured.jpg "New Xiaomi Phone Has Quad-Curved Display, No Buttons & No Ports")
+
+
+[New Xiaomi Phone Has Quad-Curved Display, No Buttons & No Ports](https://www.androidheadlines.com/2021/02/xiaomi-phone-quad-curved-display-no-buttons-ports.html)
+
+
+> Earlier today, Xiaomi teased its upcoming smartphone with a quad-curved display. Well, that smartphone is now official, and it comes with the so-called ‘Waterfall' display. This phone is different from other ‘Waterfall' display smartphones we've seen, though.New Xiaomi smartphone features a quad-curved display, and moreThis concept smartphone has considerable curves on all four sides. That makes it look both interesting and unique at the same time. That display is curved at 88 degrees on all sides, by the way.
+
+
+***
+![Smartphone sales expected to grow by 11 percent in 2021, 5G phones to play key role: Gartner](https://images.indianexpress.com/2021/02/Apple-iPhone-12.jpg "Smartphone sales expected to grow by 11 percent in 2021, 5G phones to play key role: Gartner")
+
+
+[Smartphone sales expected to grow by 11 percent in 2021, 5G phones to play key role: Gartner](https://indianexpress.com/article/technology/tech-news-technology/smartphone-sales-expected-to-grow-by-11-in-2021-5g-phones-to-play-key-role-7175925/)
+
+
+> 2020 was a rough year for various businesses. These include smartphones and other tech products as the initial months of the Coronavirus pandemic saw fewer people willing to spend money on new devices. However, according to a new report by Gartner, smartphone sales are expected to grow by over 11 per cent year-on-year in 2021. The report adds that worldwide sales in 2021 could total 1.5 billion units, which is a growth of 11.4 per cent. Smartphone sales had seen a decline of 10.5 per cent in 2020 during the pandemic and the growth will be a good rebound for the industry.
+
+
+***
+![‘A kiss of death': Tech alliances splinter over Hawley, Cruz election gambit](https://static.politico.com/c2/3a/915a956b40e5829431b7ea132c35/20210204-ted-cruzap-773.jpg "‘A kiss of death': Tech alliances splinter over Hawley, Cruz election gambit")
+
+
+[‘A kiss of death': Tech alliances splinter over Hawley, Cruz election gambit](https://www.politico.com/news/2021/02/05/tech-alliances-splinter-hawley-cruz-466067)
+
+
+> Asked whether Blumenthal plans any future collaboration on tech with the two GOP lawmakers, spokesperson Maria McElwain said he 'has no immediate plans to work directly with either Senator Cruz or Senator Hawley.' Asked the same, an aide to Markey replied, 'No.' Markey has also told outside groups working on tech issues that he has no plans to partner again with Hawley on legislation, as they did in 2019 on a high-profile bill to update kids' privacy laws, according to an advocate familiar with the matter, who requested anonymity to discuss private talks.
+
+
