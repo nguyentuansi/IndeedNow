@@ -22021,3 +22021,53 @@
 > The 2021 Presidents' Day sales event is just around the corner, and that means big savings on mattresses, laptops, furniture, and most importantly, 4K TVs. To kick things off early, we've spotted an incredible TV deal on this Vizio 70-inch 4K set that's on sale for just $588 (was $758) at Walmart. That's a massive $170 discount and an incredible price for a feature-packed big-screen 4K TV.See more TV deals at WalmartVIZIO 70-inch 4K UHD Smart TV: $758 $588 at Walmart Save $170 - Right now, you can get this 70-inch 4K TV on sale for just $588 at Walmart.
 
 
+***
+![Twitter down for some users in India; several users facing issue accessing the website and mobile app](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/twitter-mobile-app-483x271_1200_210205230517.jpeg "Twitter down for some users in India; several users facing issue accessing the website and mobile app")
+
+
+[Twitter down for some users in India; several users facing issue accessing the website and mobile app](https://www.indiatoday.in/technology/news/story/twitter-down-for-some-users-in-india-several-users-facing-issue-accessing-the-website-and-mobile-app-1766430-2021-02-05)
+
+
+> Twitter down for some users in India. India Today Tech | February 5, 2021 | Updated 22:57 IST Twitter outage for some users in India. (Image: Unsplash)
+
+
+***
+![Twitter ਸਰਵਰ ਡਾਊਨ, ਯੂਜ਼ਰਸ ਪ੍ਰੇਸ਼ਾਨ](https://static.jagbani.com/multimedia/2021_2image_00_40_170253588g-ll.jpg "Twitter ਸਰਵਰ ਡਾਊਨ, ਯੂਜ਼ਰਸ ਪ੍ਰੇਸ਼ਾਨ")
+
+
+[Twitter ਸਰਵਰ ਡਾਊਨ, ਯੂਜ਼ਰਸ ਪ੍ਰੇਸ਼ਾਨ](https://jagbani.punjabkesari.in/gadgets/news/twitter-server-down-1267217)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![How to play SteamVR games on the Oculus Quest](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/oculus-quest-2-link-on-pc-02.jpg "How to play SteamVR games on the Oculus Quest")
+
+
+[How to play SteamVR games on the Oculus Quest](https://www.androidcentral.com/how-play-steamvr-quest)
+
+
+> Source: Nick Sutrich / Android Central Owners of the Oculus Quest and Oculus Quest 2 know just how good the truly wireless experience is. What they may not know, however, is how their gaming PC could transform these devices into an Oculus Rift and enable even grander-scale VR experiences. Our step-by-step guide will show you the easiest path to using your Oculus Quest as a PC VR headset, as well as introducing a few ways to keep the experience truly wireless. The best part is that your PC will be storing all the games needed, so you can opt for the less-expensive Oculus Quest 2 64GB.
+
+
+***
+![Govt to launch AI-driven MCA portal in FY22](https://images.financialexpress.com/2021/02/1-104.jpg "Govt to launch AI-driven MCA portal in FY22")
+
+
+[Govt to launch AI-driven MCA portal in FY22](https://www.financialexpress.com/industry/technology/govt-to-launch-ai-driven-mca-portal-in-fy22/2188945/)
+
+
+> Its key features include a central cell to scrutinise certain Straight Through Process (STP) forms filed by corporates on the MCA21 registry and flag the companies for more in-depth scrutiny.The ministry of corporate affairs (MCA) said on Friday that it will launch the data analytics-driven MCA21 Version 3.0 in the current financial year. The new version will have modules for e-Adjudication, e-Consultation and compliance management.The MCA21 V3 project aims to strengthen enforcement, promote ease of doing business, enhance user experience, facilitate seamless integration and data exchange among regulators.
+
+
+***
+![Google Meet is getting a big performance boost on Chromebooks](https://cdn.mos.cms.futurecdn.net/b5QqP4cCXYeyjCWs7s3N45-1200-80.jpg "Google Meet is getting a big performance boost on Chromebooks")
+
+
+[Google Meet is getting a big performance boost on Chromebooks](https://www.techradar.com/news/google-meet-is-getting-a-big-performance-boost-on-chromebooks)
+
+
+> (Image credit: Shutterstock) As remote working and distance learning can put heavy demand on a home network's bandwidth, Google has updated Chrome OS to ensure that video conferencing software runs smoothly on Chromebooks even when a user has other apps open.Students and business users alike have grown accustomed to multitasking and it has become increasingly common to be in a Google Meet video call while having a Google Doc or Sheet open in the background. However, video quality can take a performance hit with too many apps running or when a user has a particularly demanding app opened.
+
+
