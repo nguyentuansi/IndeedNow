@@ -21874,3 +21874,53 @@
 > Highlights The new Apple Watch model comes with features like heart rate monitoring. There's also an ECG app and cardio fitness tracking functions. The smartwatch has come in handy in multiple cases where it has alerted the Apple Watch user about a possible condition. An Apple Watch as the anniversary gift wasn't something Bob March, 58-year old, expected but it turned out to play an important role after all. Once he started using the Apple Watch, the Heart Rate app showed some erratic heart readings with highs of over 120 beats per minute (BPM) while the resting rate below 60BPM.
 
 
+***
+![Review: Cricut Explore Air 2 is a crafter's delight](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/cricut-explore-air-2-hero.jpeg "Review: Cricut Explore Air 2 is a crafter's delight")
+
+
+[Review: Cricut Explore Air 2 is a crafter's delight](https://www.imore.com/cricut-explore-air-2-review)
+
+
+> Source: Karen S. Freeman / iMore The Cricut Explore Air 2 is right in the middle of Cricut's three crafting machines. The Cricut Joy is the smallest and least expensive, perfect for beginners and occasional crafters. The Cricut Maker is the deluxe machine, ideal for serious crafters and makers. The Cricut Explore Air 2 sits right in the middle in terms of price, features, and size. Is this the model of Cricut that is perfect for you? Let's find out. So what is a Cricut, anyway? It's a crafter's cutting, writing, and scoring machine.
+
+
+***
+![Hearsay Systems Expands Video Support Across New Social Platforms](https://mms.businesswire.com/media/20210205005077/en/726037/23/Hearsay_Systems_Red_Logo_%281%29.jpg "Hearsay Systems Expands Video Support Across New Social Platforms")
+
+
+[Hearsay Systems Expands Video Support Across New Social Platforms](https://www.businesswire.com/news/home/20210205005077/en/Hearsay-Systems-Expands-Video-Support-Across-New-Social-Platforms)
+
+
+> February 05, 2021 09:00 AM Eastern Standard Time SAN FRANCISCO--(BUSINESS WIRE)--Hearsay Systems, the trusted leader in compliant digital communications that deliver an authentic, human-client experience for the financial services industry, today announced it has expanded Facebook and LinkedIn video support for its Hearsay Social digital communications platform. Backed by Hearsay's compliance and supervision capabilities, leading financial services firms can now confidently empower their teams to leverage video more effectively on social media.
+
+
+***
+![Adobe Spark unveils Shared Brands feature](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/blog_templatescollection-01-1536x1460.png "Adobe Spark unveils Shared Brands feature")
+
+
+[Adobe Spark unveils Shared Brands feature](https://www.imore.com/adobe-spark-unveils-shared-brands-feature)
+
+
+> spark "No more hefty, hard-to-follow brand guideline documents that are separate from the content creation tool." 5 Feb 2021 Source: Adobe Adobe Spark has added a brand new Shared Brands feature. Adobe Spark has this week added a brand new Shared Brands feature to help users manage content creation. In a post Thursday Adobe stated: In content, like in life, consistency matters. According to Forbes, presenting a brand consistently across all platforms can increase revenue by up to 23%, but 60% of organizations report that materials created don't always conform to brand guidelines.
+
+
+***
+![Earth Energy launches three electric two-wheelers in India, starting at Rs 92,000](https://cdn.mos.cms.futurecdn.net/Jk9i2w9rJ33uLQVPMxPTQd-1200-80.jpg "Earth Energy launches three electric two-wheelers in India, starting at Rs 92,000")
+
+
+[Earth Energy launches three electric two-wheelers in India, starting at Rs 92,000](https://www.techradar.com/news/earth-energy-launches-three-electric-two-wheelers-in-india-starting-at-rs-92000)
+
+
+> (Image credit: Earth Energy) As EVs continue to gain momentum, Mumbai-based Earth Energy has thrown its hat in the ring with the launch of three electric two-wheelers in India, which will be available in the coming weeks — the Glyde Plus, the Evolve Z and the Evolve R.Earth Energy claims that all the vehicles are entirely made in India at its plant in Vasai in North Mumbai. With relatively competitive prices, it aims to capture 10% of the EV market by selling 12,000 units. While its current plant is sufficient for that, a new facility with a production capacity of 65,000 units annually is also in the pipeline.
+
+
+***
+![Biden nominee suggests no change in US Huawei stance](https://cdn.mos.cms.futurecdn.net/afZWqBCTtQdbdzASvyVxVJ-1200-80.jpg "Biden nominee suggests no change in US Huawei stance")
+
+
+[Biden nominee suggests no change in US Huawei stance](https://www.techradar.com/news/biden-nominee-suggests-no-change-in-us-huawei-stance)
+
+
+> (Image credit: Future) Hopes that Joe Biden's tenure as US president would lead to a reprieve for Huawei appear to be unfounded following comments from his nominee for commerce secretary.Huawei, along with several other Chinese companies, has been on the US ‘non-entity' list since 2019, a status that prevents US companies from doing business with it without a licence. This has limited its access to key technologies such as Google applications and US-manufactured components.Gina Raimondo had initially not committed to keeping Huawei on the list, prompting senate republicans to seek a delay to her confirmation until the matter was clarified.
+
+
