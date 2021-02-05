@@ -21580,3 +21580,47 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Kuaishou shares set to rise 194% in Hong Kong market debut](https://static.reuters.com/resources/r/?m=02&d=20210205&t=2&i=1550402753&r=LYNXMPEH1404F&w=800 "Kuaishou shares set to rise 194% in Hong Kong market debut")
+
+
+[Kuaishou shares set to rise 194% in Hong Kong market debut](https://www.reuters.com/article/us-kuaishou-listing-idUSKBN2A506F)
+
+
+> By Reuters Staff FILE PHOTO: Video-streaming app Kuaishou is pictured on a mobile phone in this illustration picture taken January 25, 2018. REUTERS/Florence Lo/Illustration HONG KONG (Reuters) - Shares in Chinese online video platform Kuaishou Technology are set to rise 194% to HK$338 ($43.60) in their Hong Kong stock market debut on Friday after the company raised $5.4 billion in its initial public offering (IPO). The company's shares were priced at HK$115 apiece, the top of its marketing range.
+
+
+***
+![Frayed charging cables could soon be a thing of the past &ndash; at least for Apple users](https://cdn.mos.cms.futurecdn.net/ygi2SGPMPsTRqbLgiYJWwK-1200-80.jpg "Frayed charging cables could soon be a thing of the past &ndash; at least for Apple users")
+
+
+[Frayed charging cables could soon be a thing of the past &ndash; at least for Apple users](https://www.techradar.com/news/frayed-charging-cables-could-soon-be-a-thing-of-the-past-at-least-for-apple-users)
+
+
+> (Image credit: Future) Apple's proprietary charging cables have long held a reputation for fraying easily, but the Cupertino company could finally be set to address the problem if a new patent submission is anything to go by.The patent, first discovered by AppleInsider, sees the iPhone and Mac maker freely admit that it "is well known that bending of the cable near the termination point may cause unwanted strain on the wire connections, which may lead to cable failure."Apple's patent goes on to list a number of possible solutions, with most options leading back to a "Cable with Variable Stiffness.
+
+
+***
+[Wikimedia Foundation announces CEO Katherine Maher will step down as of April 15, says its annual budget doubled to estimated $140M in 2021 under her leadership (Felix Salmon/Axios)](http://www.techmeme.com/210204/p38#a210204p38)
+
+
+> Felix Salmon / Axios: Wikimedia Foundation announces CEO Katherine Maher will step down as of April 15, says its annual budget doubled to estimated $140M in 2021 under her leadership — Katherine Maher, the Wikimedia Foundation's CEO, will step down as of April 15, she tells Axios, leaving the nonprofit …
+
+
+***
+![#TECH: Acer's new laptop offers 15.5 hours of battery life](https://assets.nst.com.my/images/articles/BOTStravelp4_NSTfield_image_socialmedia.var_1612490005.jpg "#TECH: Acer's new laptop offers 15.5 hours of battery life")
+
+
+[#TECH: Acer's new laptop offers 15.5 hours of battery life](https://www.nst.com.my/lifestyle/bots/2021/02/663233/tech-acers-new-laptop-offers-155-hours-battery-life)
+
+
+> News Business Life & Times Sports World NST TV Opinion Vouchers Gallery 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[Infinitus, which provides a machine-generated voice calling service for healthcare companies contacting customers, has come out of stealth with $21.4M Series A (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210204/p37#a210204p37)
+
+
+> Ingrid Lunden / TechCrunch: Infinitus, which provides a machine-generated voice calling service for healthcare companies contacting customers, has come out of stealth with $21.4M Series A — Robotic process automation (RPA) has found a strong foothold in the world of enterprise IT through its effective use of AI …
+
+
