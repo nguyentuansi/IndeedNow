@@ -21724,3 +21724,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Google developing an anti-tracking feature for apps on Android that's less stringent than Apple](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/google-app-phone-unsplash-483x271_1200_210205131450.jpeg "Google developing an anti-tracking feature for apps on Android that's less stringent than Apple")
+
+
+[Google developing an anti-tracking feature for apps on Android that's less stringent than Apple](https://www.indiatoday.in/technology/news/story/google-developing-an-anti-tracking-feature-for-apps-on-android-that-s-less-stringent-than-apple-1766191-2021-02-05)
+
+
+> Google is reportedly working on its own anti-tracking feature to promote privacy for end-users following the likes of Apple. India Today Tech | February 5, 2021 | Updated 12:40 IST Google search page. (Image credit: Unsplash)
+
+
+***
+![Liquidity stance continues to remain accommodative: RBI](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/shaktikanta505_050221121932.jpg "Liquidity stance continues to remain accommodative: RBI")
+
+
+[Liquidity stance continues to remain accommodative: RBI](https://www.businesstoday.in/current/policy/liquidity-stance-continues-to-remain-accommodative-rbi/story/430387.html)
+
+
+> Story RBI Governor Shaktikanta Das said the central bank's market operations amidst the pandemic dispelled illiquidity fears and bolstered financial market sentiment. BusinessToday.In | February 5, 2021 | Updated 12:24 IST Das said the central bank will ensure "orderly" completion of government's Rs 12 lakh crore borrowing programme in a non-disruptive manner.
+
+
+***
+![Google Pixel phones to get new feature, will track heart and respiratory rate using camera](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/pixel_4a12-483x271_1200_210205123546.png "Google Pixel phones to get new feature, will track heart and respiratory rate using camera")
+
+
+[Google Pixel phones to get new feature, will track heart and respiratory rate using camera](https://www.indiatoday.in/technology/news/story/google-pixel-phones-to-get-new-feature-will-track-heart-and-respiratory-rate-using-camera-1766175-2021-02-05)
+
+
+> Google has announced that starting next month, this feature can be accessed on Google Pixel phones using Google Fit. Sushant Talwar | February 5, 2021 | Updated 12:21 IST
+
+
+***
+![Xiaomi CEO teases Rs 1.12 lakh smartphone, can be foldable phone](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/xim-483x271_1200_210205110545.jpeg "Xiaomi CEO teases Rs 1.12 lakh smartphone, can be foldable phone")
+
+
+[Xiaomi CEO teases Rs 1.12 lakh smartphone, can be foldable phone](https://www.indiatoday.in/technology/news/story/xiaomi-ceo-teases-rs-1-12-lakh-smartphone-can-be-foldable-phone-1766132-2021-02-05)
+
+
+> Xiaomi's CEO, Lei Jun, has confirmed plans for the ambitious project. He has hinted that the company can launch a new Mi MIX series smartphone. India Today Tech | February 5, 2021 | Updated 10:57 IST
+
+
+***
+![Realme launches V11 5G, its latest Dimensity 700-powered affordable phone](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_v11_5g-483x271_1200_210205120555.jpeg "Realme launches V11 5G, its latest Dimensity 700-powered affordable phone")
+
+
+[Realme launches V11 5G, its latest Dimensity 700-powered affordable phone](https://www.indiatoday.in/technology/news/story/realme-launches-v11-5g-its-latest-dimensity-700-powered-affordable-phone-1766165-2021-02-05)
+
+
+> Realme has launched a new 5G smartphone that costs under Rs 15,000 and brings the MediaTek chipset inside. Shubham Verma | February 5, 2021 | Updated 12:01 IST Realme V11 5G in Quiet Grey colour.
+
+
