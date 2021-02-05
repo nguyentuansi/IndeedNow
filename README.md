@@ -21824,3 +21824,53 @@
 > Asked whether Blumenthal plans any future collaboration on tech with the two GOP lawmakers, spokesperson Maria McElwain said he 'has no immediate plans to work directly with either Senator Cruz or Senator Hawley.' Asked the same, an aide to Markey replied, 'No.' Markey has also told outside groups working on tech issues that he has no plans to partner again with Hawley on legislation, as they did in 2019 on a high-profile bill to update kids' privacy laws, according to an advocate familiar with the matter, who requested anonymity to discuss private talks.
 
 
+***
+![Scrapped GoldenEye 007 game 'remaster' leaks online](https://ichef.bbci.co.uk/news/1024/branded_news/1A24/production/_116829660_goldeneye.jpg "Scrapped GoldenEye 007 game 'remaster' leaks online")
+
+
+[Scrapped GoldenEye 007 game 'remaster' leaks online](https://www.bbc.com/news/technology-55949100)
+
+
+> image copyright Getty Images image caption Pierce Brosnan starred as James Bond in GoldenEye A highly sought-after remaster of the hit James Bond video game GoldenEye 007 has been leaked online more than a decade after it was cancelled. Developer Rare produced the original game in 1997, and was working on an updated version for the Xbox in 2007. But the project was scrapped because the various parties involved could not reach an agreement over rights. The leak came a week after YouTube gamer Graslu00 posted a two-hour video showcasing the remastered software.
+
+
+***
+![Technical Advisory Committee to develop cricket in Sri Lanka](https://adaderanaenglish.s3.amazonaws.com/1612519601-Technical-Advisory-Committee-appointed-to-develop-cricket-in-Sri-Lanka-L.jpg "Technical Advisory Committee to develop cricket in Sri Lanka")
+
+
+[Technical Advisory Committee to develop cricket in Sri Lanka](http://www.adaderana.lk/news/71321/technical-advisory-committee-to-develop-cricket-in-sri-lanka)
+
+
+> February 5, 2021   03:24 pm - Minister of Sports Namal Rajapaksa has appointed a Technical Advisory Committee for the development of cricket in Sri Lanka. The committee is chaired by former Sri Lanka batsman Aravinda de Silva. Meanwhile, former national players Roshan Mahanama, Muttiah Muralitharan and Kumar Sangakkara will serve as the members of the said committee. They are tasked with advising the Sports Minister, ministerial officials and the National Sports Council on all matters pertaining to the sport.
+
+
+***
+![Motorola Ibiza with 6GB RAM spotted on Geekbench](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/moto_3-483x271_1200_210205170526.jpeg "Motorola Ibiza with 6GB RAM spotted on Geekbench")
+
+
+[Motorola Ibiza with 6GB RAM spotted on Geekbench](https://www.indiatoday.in/technology/news/story/motorola-ibiza-with-6gb-ram-spotted-on-geekbench-1766324-2021-02-05)
+
+
+> As per the latest report, Motorola's smartphone which is codenamed Ibiza has been spotted on Geekbench. Ankita Chakravarti | February 5, 2021 | Updated 17:04 IST
+
+
+***
+![Poco hints at smartphone with new Qualcomm processor, Twitter thinks it can be Poco F2](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/p5_0-483x271_1200_210205153548.jpeg "Poco hints at smartphone with new Qualcomm processor, Twitter thinks it can be Poco F2")
+
+
+[Poco hints at smartphone with new Qualcomm processor, Twitter thinks it can be Poco F2](https://www.indiatoday.in/technology/news/story/poco-hints-at-smartphone-with-new-qualcomm-processor-twitter-thinks-it-can-be-poco-f2-1766272-2021-02-05)
+
+
+> The company has announced that it has partnered with Qualcomm to bring a new Poco phone. Even though it didn't reveal the name or details of the phone, Twitter users believe that this can finally be the Poco F2 they have been waiting for. India Today Tech | February 5, 2021 | Updated 15:29 IST Poco F1 was launched in August 2018.
+
+
+***
+![Apple Watch anniversary gift by wife helped, potentially saving the life of 58-year old man](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/apple-watch-ecg-483x271_1200_210205164426.jpeg "Apple Watch anniversary gift by wife helped, potentially saving the life of 58-year old man")
+
+
+[Apple Watch anniversary gift by wife helped, potentially saving the life of 58-year old man](https://www.indiatoday.in/technology/news/story/apple-watch-anniversary-gift-by-wife-helped-potentially-saving-the-life-of-58-year-old-man-1766308-2021-02-05)
+
+
+> Highlights The new Apple Watch model comes with features like heart rate monitoring. There's also an ECG app and cardio fitness tracking functions. The smartwatch has come in handy in multiple cases where it has alerted the Apple Watch user about a possible condition. An Apple Watch as the anniversary gift wasn't something Bob March, 58-year old, expected but it turned out to play an important role after all. Once he started using the Apple Watch, the Heart Rate app showed some erratic heart readings with highs of over 120 beats per minute (BPM) while the resting rate below 60BPM.
+
+
