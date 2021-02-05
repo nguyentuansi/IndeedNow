@@ -22071,3 +22071,53 @@
 > (Image credit: Shutterstock) As remote working and distance learning can put heavy demand on a home network's bandwidth, Google has updated Chrome OS to ensure that video conferencing software runs smoothly on Chromebooks even when a user has other apps open.Students and business users alike have grown accustomed to multitasking and it has become increasingly common to be in a Google Meet video call while having a Google Doc or Sheet open in the background. However, video quality can take a performance hit with too many apps running or when a user has a particularly demanding app opened.
 
 
+***
+![12 sweet Valentine's Day face masks to spread a little love](https://www.gannett-cdn.com/presto/2021/02/05/USAT/856ce2e7-c615-41ce-b85b-addee05d4f1d-valentines-day-face-masks-hero.jpg?crop=968,545,x0,y0&width=1600&height=800&fit=bounds "12 sweet Valentine's Day face masks to spread a little love")
+
+
+[12 sweet Valentine's Day face masks to spread a little love](https://www.usatoday.com/story/tech/reviewedcom/2021/02/05/12-sweet-valentines-day-face-masks-spread-little-love/4411851001/)
+
+
+> Because the world could use some TLC right now.   (Photo: Victoria Secret / GAP) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Looking for a cute accessory to spruce up your look this month? You can spread a little love and festivity to everyone you see (all while staying safe) with a Valentine's Day-themed face mask. There are plenty of heart-clad masks that are equally adorable, comfortable, and protective, but we've also found some other festive options for those with a more subdued sense of style that you can wear long after Cupid has left.
+
+
+***
+![Tesla's Battery Day: The Biggest Takeaways](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/zuxdrg6w.png "Tesla's Battery Day: The Biggest Takeaways")
+
+
+[Tesla's Battery Day: The Biggest Takeaways](https://www.benzinga.com/news/20/09/17616145/teslas-battery-day-the-biggest-takeaways)
+
+
+> Tesla Inc's (NASDAQ: TSLA )  battery day was a highly anticipated event that ended up delivering a lot of updates on the company's plans.  Here are some major announcements the company made that could help extend its electric vehicle lead in the years to come. FSD Rewrite Coming Soon:  CEO Elon Musk has been talking about a full self-driving rewrite for a while now. This is supposed to make the FSD software vastly more impressive. He said it should be available in a closed beta in about one month.
+
+
+***
+![Tesla Surpasses Toyota To Take The Crown As World's Most Valued Automaker](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/model_y_silhouette_1.png "Tesla Surpasses Toyota To Take The Crown As World's Most Valued Automaker")
+
+
+[Tesla Surpasses Toyota To Take The Crown As World's Most Valued Automaker](https://www.benzinga.com/news/20/07/16474522/tesla-surpasses-toyota-to-take-the-crown-as-worlds-most-valued-automaker)
+
+
+> Electric vehicle pioneer Tesla Inc (NASDAQ: TSLA ) is now the undisputed leader among automakers in terms of market capitalization, thanks to the breathtaking rally in its stock seen since it bottomed in mid-March during the coronavirus-induced market meltdown.  Tesla's Staggering Valuation: Tesla's shares are valued at $208.4 billion, based on the current stock price of $1,123.65 and 185.48 million outstanding shares. In comparison, Japanese automaker Toyota Motor Corp (NYSE: TM ), which held the top spot previously, has a market cap of $202.
+
+
+***
+![Tesla Rumored To Start Semi Production In July, Aiming For 2,500 Units By Year's End](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/semi_front_profile_1.jpg "Tesla Rumored To Start Semi Production In July, Aiming For 2,500 Units By Year's End")
+
+
+[Tesla Rumored To Start Semi Production In July, Aiming For 2,500 Units By Year's End](https://www.benzinga.com/tech/21/02/19516075/tesla-rumored-to-start-semi-production-in-july-aiming-for-2-500-units-by-years-end)
+
+
+> The  Tesla Inc (NASDAQ: TSLA )   Semi was unveiled in November 2017. During the presentation, CEO Elon Musk touted a range of over 500 miles with a full load and zero-to-60 times that would rival some sedans. The Semi was expected to cost $180,000 for the long-range version, and promised to save truckers thousands of dollars over the life of the vehicle on fuel and maintenance. Now rumors covered by Tesla fan site Tesmanian  say the Semi could finally be ready for production. Sawyer on Twitter  shared details regarding a Tesla parts supplier.
+
+
+***
+![Fintech Focus Roundup For February 6, 2021](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Fintech Focus Roundup For February 6, 2021")
+
+
+[Fintech Focus Roundup For February 6, 2021](https://www.benzinga.com/markets/cryptocurrency/21/02/19520325/fintech-focus-roundup-for-february-6-2021)
+
+
+> 'This Is Not The Market Participant's Problem': Volatility Arbitrage Trader Talks GameStop, Market Microstructure, Regulation The dynamics that transpired in GameStop can be traced back to factors like Federal Reserve stabilization efforts and low rates, which incentivize risk taking. 'The growth of structured products, passive investing, the regulatory standpoint that's been implemented with Dodd-Frank and dealers needing to hedge off their risk more frequently than not' are all part of a regime change that's affected the stability of markets, said Kris Sidial, co-chief investment officer of The Ambrus Group.
+
+
