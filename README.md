@@ -21533,3 +21533,50 @@
 > Treat your valentine with any one of these amazing Etsy gifts.   (Photo: Getty Images / Elysart / TheBlankRecordStore / KristinDouglasART) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Every year as Valentine's Day approaches, I'm reminded of the same Michael Scott quote from The Office : 'Presents are the best way to show someone how much you care. It's like this tangible thing that you can point to and say, "Hey, man, I love you this many dollars worth.
 
 
+***
+[Australian man convicted in nearly $90M cryptocurrency scam](https://abcnews.go.com/Technology/wireStory/australian-man-convicted-90m-cryptocurrency-scam-75695703)
+
+
+> Prosecutors say an Australian man has pleaded guilty to securities fraud for cheating investors of nearly $90 million by squandering money they spent on his cryptocurrency fund NEW YORK -- An Australian man pleaded guilty Thursday to securities fraud for cheating investors of over $90 million by squandering money they spent on his cryptocurrency fund, prosecutors said. Stefan He Qin, 24, entered the plea to a single count of the fraud charge in Manhattan federal court. Authorities said the fraud occurred from 2017 to 2020 as Qin operated the fund titled Virgil Sigma.
+
+
+***
+![How to choose the best gaming laptop, according to a tech expert](https://media1.s-nbcnews.com/j/newscms/2021_05/3447661/210204-gaming-laptop-bd-2x1_defb834246b2ac0061f25bba773671d2.nbcnews-fp-1200-630.jpg "How to choose the best gaming laptop, according to a tech expert")
+
+
+[How to choose the best gaming laptop, according to a tech expert](https://www.nbcnews.com/shopping/tech-gadgets/best-gaming-laptops-n1256740)
+
+
+> Gaming laptops often get a bad rap for being bulky, loud and expensive — and all that with terrible battery life. And while plenty of gaming laptops still fit one (or all) of those descriptors, they've grown up a lot in recent years. If you're committed to gaming on-the-go, there are a few models that really can do it all. LEARN MORE about how to choose the right gaming laptop Below are five gaming laptops that should answer most needs, across price ranges and features. 1. Asus ROG Zephyrus G14 Gaming Laptop It's hard to pick one gaming laptop for everyone but the Asus ROG Zephyrus G14 has earned enough praise that it should be one of the first stops on your search.
+
+
+***
+![Tech and Social Media](https://www.sfgate.com/img/pages/article/opengraph_default.png "Tech and Social Media")
+
+
+[Tech and Social Media](https://www.sfgate.com/tech/)
+
+
+> No body in the article.
+
+
+***
+![This super-slim iPhone 12 MagSafe wallet is also a nifty stand [Review]](https://cdn.cultofmac.com/wp-content/uploads/2021/02/75680369-F5DA-45E2-AAC0-392BC7AD5E5E.jpeg "This super-slim iPhone 12 MagSafe wallet is also a nifty stand [Review]")
+
+
+[This super-slim iPhone 12 MagSafe wallet is also a nifty stand [Review]](https://www.cultofmac.com/?p=734236)
+
+
+> The Moft Snap-on Stand & Wallet for iPhone 12 Series is svelte even holding an Apple Card and a drivers license. Photo: Ed Hardy/Cult of Mac Accessories that take on more than one task are the best. Like Moft's clip-on iPhone wallet that's also a stand. It can hold three cards, but is very slender. And it uses magnets to cling tightly to the handset. I tested the Moft Snap-on Stand & Wallet for weeks, so I can share what it's really like in daily use. This post contains affiliate links. Cult of Mac may earn a commission when you use our links to buy items.
+
+
+***
+![Modularizing iOS dependencies with 'integrations'](https://external-preview.redd.it/lt29ZuJit6qGTtePJDS1tDUpS-S9z8Z1TOdzdELKRv0.jpg?auto=webp&s=9fc9574671243eab5847657e9288613d1c4206a9 "Modularizing iOS dependencies with 'integrations'")
+
+
+[Modularizing iOS dependencies with 'integrations'](https://www.reddit.com/r/programming/comments/lcu9lu/modularizing_ios_dependencies_with_integrations/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
