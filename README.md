@@ -22499,3 +22499,53 @@
 > The Indian Railway Catering and Tourism Corporation Limited (IRCTC) now also supports online bus booking services. The passengers can now book a bus from IRCTC's website at reasonable prices. This service will also be available via IRCTC's mobile app in the coming weeks. The integration of the bus service is expected to be completed in the first week of March, as per a report by ANI. As the service is already live on the official site, here's how you can book a bus online via IRCTC. How to book a bus online via IRCTC website? Step 1: Open the IRCTC site and click on the icon of ‘Bus Tickets.
 
 
+***
+![Realme Narzo 40A Pro](https://vijaykarnataka.com/thumb/msid-80710915,width-1200,height-630/pic.jpg "Realme Narzo 40A Pro")
+
+
+[Realme Narzo 40A Pro](https://vijaykarnataka.com/tech/mobile-phones/realme-narzo-40a-pro)
+
+
+> ಸಾರಾಂಶ ಪರ್ಫಾಮೆನ್ಸ್‌ Qualcomm SDM665 Snapdragon 665 (11 nm) ಸ್ಟೋರೇಜ್‌ 128 GB ಬ್ಯಾಟರಿ 5000 mAh price in_india 18233 ಡಿಸ್‌ಪ್ಲೇ 6.5 inches (16.51 cm) ರ‍್ಯಾಮ್ 6 GB ಸ್ಪೆಶಲ್ ಫೀಚರ್ಸ್ ಇತರ ಸೆನ್ಸರ್ Accelerometer, Proximity, Compass ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ Yes ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್_ಪೊಸಿಶನ್ Rear ಸಾಮಾನ್ಯ ವಿವರ ಓಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ Android v11 ಸಿಮ್‌ ಸ್ಲಾಟ್ಸ್ Dual SIM, GSM+GSM ಮಾದರಿ Narzo 40A Pro ಲಾಂಚ್ ಡೇಟ್ March 31, 2021 (Expected) ಬ್ರ್ಯಾಂಡ್ Realme ಸಿಮ್ ಸೈಝ್ SIM1: Nano, SIM2: Nano ನೆಟ್‌ವರ್ಕ್ 5G: Supported by device (network not rolled-out in India), 4G: Available (supports Indian bands), 3G: Available, 2G: Available ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ Yes ಮಲ್ಟಿ ಮೀಡಿಯಾ ಆಡಿಯೋ ಜ್ಯಾಕ್ 3.
+
+
+***
+![New Asus ZenBooks pack power and Alexa into slim frames](https://cnet2.cbsistatic.com/img/J9--kk2hMj0yYlNTQkFrGMdLBy8=/868x488/2018/08/27/5b3915b7-2092-4faf-bce2-27b0bc633d21/asuszenbook13.jpg "New Asus ZenBooks pack power and Alexa into slim frames")
+
+
+[New Asus ZenBooks pack power and Alexa into slim frames](https://www.cnet.com/reviews/asus-zenbook-13-ux333-preview/)
+
+
+> The new ZenBook's slim frame packs Nvidia's discrete graphics and Intel's latest eighth-generation Core i7 processors. Asus Making their debut at IFA  on Thursday are the new Asus ZenBook and ZenBook Flip series, powered by the latest Intel eighth-generation chips . The ZenBook 13, 14 and 15 feature what Asus calls a "frameless NanoEdge" on its displays, for a 94 percent screen-to-body percentage. Crammed into each frame is an ultrathin webcam with a four-element lens.  The laptops also pack discrete graphics in the form of either an Nvidia NV MX150 on the 13- and 14-inch models or a GTX 1050 Max-Q inside on the ZenBook 15.
+
+
+***
+![Asus TUF Gaming FX504 review: Cheap gaming laptop that compromises too much](https://cnet2.cbsistatic.com/img/ERZLunHP3I5AnWxT0aGUuD9Kuns=/1200x630/2018/06/27/ba86ad23-6537-4466-b709-e3eaeb662700/11-asus-tuf-gaming-fx504.jpg "Asus TUF Gaming FX504 review: Cheap gaming laptop that compromises too much")
+
+
+[Asus TUF Gaming FX504 review: Cheap gaming laptop that compromises too much](https://www.cnet.com/reviews/asus-tuf-gaming-fx504-review/)
+
+
+> Entry-level gaming laptops typically have meh keyboards, which is a problem because PC gamers are undoubtedly hard on their keyboards. Asus' TUF FX504 puts a better keyboard in a low-end laptop. One that's cushy for long gaming sessions and Asus says is extra durable, lasting for up to 20 million key presses.  Asus also designed its cooling fans to be better at removing dust particles and dirt, which in turn should extend the overall life of the laptop. It also keeps it nice and cool while gaming, which is great since the TUF is relatively thin for a gaming laptop.
+
+
+***
+![HP Pavilion Gaming laptop review: Plays harder than its price](https://cnet3.cbsistatic.com/img/ZJWKldrwHJm8ug_mUk_NNYjLztc=/1200x630/2019/04/12/33e3d132-ec75-420c-a1cd-3f6ffc2d662f/01-hp-pavilion-gaming-laptop-2018.jpg "HP Pavilion Gaming laptop review: Plays harder than its price")
+
+
+[HP Pavilion Gaming laptop review: Plays harder than its price](https://www.cnet.com/reviews/hp-pavilion-gaming-2018-review/)
+
+
+> The Pavilion Gaming Laptop isn't as aggressive or cutting-edge as  HP's Omen gaming line , though that's sort of the point. The PC maker promotes it as a solid, reliable laptop for gaming and everyday tasks and it definitely lives up to that.  You won't find the latest Nvidia RTX graphics chips inside, and it doesn't have gaming extras such as RGB LED keyboard lighting or GPU overclocking . What you do get is snappy multitasking and gaming performance and a design that stands out from the run-of-the-mill.
+
+
+***
+![Lenovo ThinkPad X1 Extreme adds graphics chops to its top biz laptop](https://cnet1.cbsistatic.com/img/DwBDgYp9vqlHBY1lyz3_pnuAuMw=/868x488/2018/08/29/2d54c13f-df67-403e-8a19-0118a6dd78ca/lenovo-thinkpad-x1-extreme-5.jpg "Lenovo ThinkPad X1 Extreme adds graphics chops to its top biz laptop")
+
+
+[Lenovo ThinkPad X1 Extreme adds graphics chops to its top biz laptop](https://www.cnet.com/reviews/lenovo-thinkpad-x1-extreme-preview/)
+
+
+> Lori Grunin/CNET The ThinkPad X1 Extreme isn't the first Lenovo with discrete graphics or even the first mainstream ThinkPad with it: the 15-inch  Yoga 720 launched with an Nvidia GTX 1050 option and the T series has had an option for Nvidia's mobile graphics solution, the MX150, for a little while. But the X1 Extreme is the first of its top-end ThinkPad X1 line of business laptops with the option to combine a GTX 1050 Ti Max-Q with the bright, wide-gamut 4K screen that  debuted earlier this year .
+
+
