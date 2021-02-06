@@ -22399,3 +22399,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Confirmed COVID-19 cases in Sri Lanka top 68,000](https://adaderanaenglish.s3.amazonaws.com/logo.jpg "Confirmed COVID-19 cases in Sri Lanka top 68,000")
+
+
+[Confirmed COVID-19 cases in Sri Lanka top 68,000](http://www.adaderana.lk/news/71352/confirmed-covid-19-cases-in-sri-lanka-top-68000)
+
+
+> February 6, 2021   05:38 pm - Sri Lanka's confirmed COVID-19 infections count crossed the 68,000-mark (February 06) as 343 more persons were tested positive for the virus. Following the new development, total COVID-19 cases confirmed in the country have soared to 68,193. According to the Epidemiology Unit, 1,133 more persons who were previously infected with the virus were discharged from hospitals today upon returning to health, thereby, the country's recoveries count has reached 62,594. In the meantime, 5,256 active cases are still under medical care at multiple hospitals and treatment centres.
+
+
+***
+![Android 12 is coming soon, hints appear in early code](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Screenshot_2021-02-06_at_5.31.-647x363.png?nTIqLFP5ZUUTaaEKLAPVxCKZI0pasfY6 "Android 12 is coming soon, hints appear in early code")
+
+
+[Android 12 is coming soon, hints appear in early code](https://www.indiatoday.in/technology/news/story/android-12-is-coming-soon-hints-appear-in-early-code-1766625-2021-02-06)
+
+
+> Google is gearing up to launch the Android 12 developer preview. A play store update to the Android Beta Feedback app has been spotted. Android 12 could be rolled out by the end of this year. Shortly after rolling out the Android 11 for selected users, Google is gearing up to launch the Android 12 developer preview. As per a report by 9to5, a play store update to the Android Beta Feedback app has been spotted. Google has not officially revealed anything about the Android 12 but such as apps are usually used to deliver feedbacks on Android beta builds.
+
+
+***
+![FAU-G makes global debut, now available for download worldwide on Google play store](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/fau_g_505_060221050539.jpg "FAU-G makes global debut, now available for download worldwide on Google play store")
+
+
+[FAU-G makes global debut, now available for download worldwide on Google play store](https://www.businesstoday.in/technology/news/fau-g-mobile-game-now-globally-available-on-google-play-store/story/430503.html)
+
+
+> Story FAU-G, which is considered as an alternative for PUB-G, is now available to download in Google play store for all Android smartphone users BusinessToday.In | February 6, 2021 | Updated 17:20 IST FAU-G is now available worldwide
+
+
+***
+![IRCTC launches online bus ticket booking services, here is how you can booktickets](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-06_at_1_1200_210206140514.31.-483x271.png "IRCTC launches online bus ticket booking services, here is how you can booktickets")
+
+
+[IRCTC launches online bus ticket booking services, here is how you can booktickets](https://www.indiatoday.in/technology/news/story/irctc-launches-online-bus-ticket-booking-services-here-is-how-you-can-book-tickets-1766557-2021-02-06)
+
+
+> The ticketing website has now launched online bus ticket booking services. February 6, 2021 | Updated 14:03 IST
+
+
+***
+![BSNL 4G SIM is still available for free, scheme extended until March 31](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-06_at_2_1200_210206150532.37.-483x271.png "BSNL 4G SIM is still available for free, scheme extended until March 31")
+
+
+[BSNL 4G SIM is still available for free, scheme extended until March 31](https://www.indiatoday.in/technology/news/story/bsnl-4g-sim-is-still-available-for-free-scheme-extended-until-march-31-1766580-2021-02-06)
+
+
+> BSNL has extended its free 4G SIM card offer in Kerala and has also enabled a free call forwarding facility in Chennai and Tamil Nadu telecom circles. Ankita Chakravarti | February 6, 2021 | Updated 14:41 IST
+
+
