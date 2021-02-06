@@ -22165,3 +22165,53 @@
 > If you use Google Chrome, it's time to install the latest update: Chrome 88. Otherwise, you could fall victim to a dreaded bug.
 
 
+***
+![The Fundamental Mechanism of Scaling](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "The Fundamental Mechanism of Scaling")
+
+
+[The Fundamental Mechanism of Scaling](https://www.reddit.com/r/programming/comments/ldmpdk/the_fundamental_mechanism_of_scaling/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![What Apple's expensive 8K VR headset could be like video](https://cnet2.cbsistatic.com/img/jWpS9tWfHdzalTMl6hgrYkDiWU4=/1200x630/2021/02/06/278890f6-284e-4a43-9ef2-a8fa59f7f017/apple-vr-glasses-red.jpg "What Apple's expensive 8K VR headset could be like video")
+
+
+[What Apple's expensive 8K VR headset could be like video](https://www.cnet.com/videos/what-apples-expensive-8k-vr-headset-could-be-like/)
+
+
+> No body in the article.
+
+
+***
+![The best espresso machine for 2021](https://cnet4.cbsistatic.com/img/TCSmGCaEj81ErceSEo-RfMvwTqU=/1200x630/2019/05/02/79dab472-536e-418b-b92d-db32b5b4cd94/espresso-promo-shots-1.jpg "The best espresso machine for 2021")
+
+
+[The best espresso machine for 2021](https://www.cnet.com/news/best-espresso-machine/)
+
+
+> Espresso has powerful charms that can hook you like no other coffee beverage, but making it at home can be a tall order. If you don't do your homework, you could end up with an awful appliance that slings terrible drinks. Many coffee makers billed as domestic espresso machines aren't really espresso machines, but we can help you avoid this problem and buy a home espresso machine that produces superb shots.The best home espresso machines have an advanced brewing process and handy bells and whistles such as a double portafilter basket for double-shot drinks or a milk frother and steam wand for a cappuccino or latte.
+
+
+***
+![How to take on Mega Gyarados in Pokémon Go](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/pokemon-go-mega-gyarados.jpg "How to take on Mega Gyarados in Pokémon Go")
+
+
+[How to take on Mega Gyarados in Pokémon Go](https://www.imore.com/pokemon-go-mega-gyarados-mega-raid-guide)
+
+
+> Mega Evolution has finally arrived in Pokémon Go and with it Mega Raids! A whole new class of Raids, Mega Raids let you and your friends challenge a Mega Evolved Pokémon. The next Mega Raid will be Mega Gyarados, just in time to celebrate the Lunar New Year. We have everything you need to know to beat Mega Gyarados in Pokémon Go, and be sure to check out our Best Pokémon Go Accessories, so you can be fully equipped for your Pokémon Journey! Who is Mega Gyarados in Pokémon Go? Source: The Pokémon Company Evolved from the tiny and useless Magikarp, Gyarados represents a lot of time and hard work on the part of a patient Trainer.
+
+
+***
+![Live PS5 stock updates at Argos, Very, BT Shop, Currys, Amazon and Game as Playstation consoles ‘may drop'](https://www.thesun.co.uk/wp-content/uploads/2021/02/1-1.jpeg?strip=all&quality=100&w=1200&h=800&crop=1 "Live PS5 stock updates at Argos, Very, BT Shop, Currys, Amazon and Game as Playstation consoles ‘may drop'")
+
+
+[Live PS5 stock updates at Argos, Very, BT Shop, Currys, Amazon and Game as Playstation consoles ‘may drop'](https://www.thesun.co.uk/tech/13910660/live-ps5-stock-updates-argos-uk-btshop-amazon-currys-game/)
+
+
+> LET'S PLAY! 6 Feb 2021, 1:11Updated: 6 Feb 2021, 1:12SINCE its launch last November, millions of gamers around the world have found it nearly impossible to bag themselves a PlayStation 5. In the UK, rumours swirl almost daily about new stock drops at the likes of Smyths Toys, Argos, GAME, and Amazon. Most of the time these time out to be untrue, but even when new consoles DO drop, they seem to be snapped up before most us even have a chance to get on the websites. But never fear, The Sun is here.
+
+
