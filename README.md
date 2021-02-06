@@ -22449,3 +22449,53 @@
 > BSNL has extended its free 4G SIM card offer in Kerala and has also enabled a free call forwarding facility in Chennai and Tamil Nadu telecom circles. Ankita Chakravarti | February 6, 2021 | Updated 14:41 IST
 
 
+***
+![Control, Destruction AllStars, Concrete Genie free this month on PS Plus](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/01/playstation-plus-hero%20-%20edited.jpg "Control, Destruction AllStars, Concrete Genie free this month on PS Plus")
+
+
+[Control, Destruction AllStars, Concrete Genie free this month on PS Plus](https://www.androidcentral.com/these-are-free-games-month-playstation-plus-membership)
+
+
+> One of the biggest perks of having a PlayStation Plus membership is the free games you get every month. The free PlayStation Plus games offered this month, include three major titles all available on either the PS4 or PS5. Check out the list of games below with downloads available starting February 2. Enjoy the price of free until March 1, 2021. Control launched to massive acclaim in 2019, but seemed to fall under the radar for most players. Now, people who missed out on this incredible game have a chance to play it in an even better way.
+
+
+***
+![Here's how to watch all the Super Bowl ads, even if you're not in the U.S.](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/01/amazon-super-bowl-commerial-2020-youtube-hero.jpeg "Here's how to watch all the Super Bowl ads, even if you're not in the U.S.")
+
+
+[Here's how to watch all the Super Bowl ads, even if you're not in the U.S.](https://www.imore.com/how-watch-super-bowl-commercials-outside-us)
+
+
+> Source: Luke Filipowicz / iMore Every year the Super Bowl is one of the biggest televised events of the year. The big game between the Kansas City Cheifs and the Tampa Bay Buccaneers is bound to be a wild one, especially since this football season was already so abnormal. However, don't forget that plenty of people love to watch Super Bowl commercials. Super Bowl ads are often huge spectacles, with big budgets and sometimes even bigger stars. Some are funny, some are cute, some are inspirational, but all of them are pretty epic in its own way.
+
+
+***
+![Bin given limits](https://external-preview.redd.it/iIE_g3EXuVyB49v_FsUmHO9kVS6IkO0Qr0y5xo3N4Mg.jpg?auto=webp&s=7e7f78baf5e299433c6e169fa42471162bca37ac "Bin given limits")
+
+
+[Bin given limits](https://www.reddit.com/r/Python/comments/ldy07g/bin_given_limits_rosetta_code/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Learn Python Programming from Scratch 2021](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Learn Python Programming from Scratch 2021")
+
+
+[Learn Python Programming from Scratch 2021](https://www.reddit.com/r/Python/comments/ldxzk5/learn_python_programming_from_scratch_2021/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![How to book a bus online via IRCTC website: Step-by-step guide](https://images.indianexpress.com/2021/01/Bus-1.jpg "How to book a bus online via IRCTC website: Step-by-step guide")
+
+
+[How to book a bus online via IRCTC website: Step-by-step guide](https://indianexpress.com/article/technology/techook/how-to-book-a-bus-online-via-irctc-website-detailed-guide-7177542/)
+
+
+> The Indian Railway Catering and Tourism Corporation Limited (IRCTC) now also supports online bus booking services. The passengers can now book a bus from IRCTC's website at reasonable prices. This service will also be available via IRCTC's mobile app in the coming weeks. The integration of the bus service is expected to be completed in the first week of March, as per a report by ANI. As the service is already live on the official site, here's how you can book a bus online via IRCTC. How to book a bus online via IRCTC website? Step 1: Open the IRCTC site and click on the icon of ‘Bus Tickets.
+
+
