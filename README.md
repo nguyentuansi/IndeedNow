@@ -22549,3 +22549,53 @@
 > Lori Grunin/CNET The ThinkPad X1 Extreme isn't the first Lenovo with discrete graphics or even the first mainstream ThinkPad with it: the 15-inch  Yoga 720 launched with an Nvidia GTX 1050 option and the T series has had an option for Nvidia's mobile graphics solution, the MX150, for a little while. But the X1 Extreme is the first of its top-end ThinkPad X1 line of business laptops with the option to combine a GTX 1050 Ti Max-Q with the bright, wide-gamut 4K screen that  debuted earlier this year .
 
 
+***
+![Artificial Intelligence: Expectation vs Reality](https://external-preview.redd.it/RQKc2I8FAZVGNXNAuSUaSYxvgozIh4gKcjbYxwzB8TU.jpg?auto=webp&s=bae5d1ec3592a1c7ae9688ee06bee862657ce9b8 "Artificial Intelligence: Expectation vs Reality")
+
+
+[Artificial Intelligence: Expectation vs Reality](https://www.reddit.com/r/programming/comments/le2r4x/artificial_intelligence_expectation_vs_reality/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![I built a URL Shortening Tool which provides Smarter Analytics!](https://external-preview.redd.it/bWqSjuH2GlPdaD6YMJGUPPNRc1yLXSOEQTNvAtEiqg8.jpg?auto=webp&s=2db8414e74557af56034a02a97b0d4e7034e4cfd "I built a URL Shortening Tool which provides Smarter Analytics!")
+
+
+[I built a URL Shortening Tool which provides Smarter Analytics!](https://www.reddit.com/r/Python/comments/le2ogg/i_built_a_url_shortening_tool_which_provides/)
+
+
+> TLDR: Looking for reviews on my first side project: https://tracer.syscape.live/ It is a minimal app, which does what it says. Shortens your URL, and provides you with analytics. Analytics Include: IP Address Location of ISP RAM OS Device Brand and Name Battery Percentage when URL was clicked Hey guys, so this lockdown, I built a url shortening service using Flask, DynamoDB, AWS SES, Nuxt.js, AWS Amplify and AWS Lambda. We also provide these analytics on a user friendly dashboard. I would much appreciate your feedback on the website.
+
+
+***
+![Why most programming language performance comparisons are most likely wrong](https://external-preview.redd.it/ajtX1esJUTPjIG3Fg2xSvDCINi-Q6ykZ8cW3vIEphLg.jpg?auto=webp&s=99b4bbe6958fc8bb6a97085103fdebab395aa42f "Why most programming language performance comparisons are most likely wrong")
+
+
+[Why most programming language performance comparisons are most likely wrong](https://www.reddit.com/r/programming/comments/le2gzr/why_most_programming_language_performance/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Clubhouse: The voice-only social media app setting the internet abuzz](https://storage.googleapis.com/gcs.thesouthafrican.com/2021/02/9fd6cae2-clubhouse-app-1200x1000.jpeg "Clubhouse: The voice-only social media app setting the internet abuzz")
+
+
+[Clubhouse: The voice-only social media app setting the internet abuzz](https://www.thesouthafrican.com/technology/online/what-is-clubhouse-invite-only-social-media-app/)
+
+
+> There's a new kid on the social media block and it's already making big waves.
+
+
+***
+![More stimulus check details emerge: New payment size and qualifications, speedier timeline](https://cnet4.cbsistatic.com/img/D5Lhd7YAfWi1xhO3785Z6t9edDY=/1200x630/2021/02/05/671b580f-189e-4bb9-a08f-bb7d15f8ffe4/005-cash-money-stimulus-checks-bill-passed-congress-1400-dollars-payment-target-supplement-bullseye-2021-biden.jpg "More stimulus check details emerge: New payment size and qualifications, speedier timeline")
+
+
+[More stimulus check details emerge: New payment size and qualifications, speedier timeline](https://www.cnet.com/personal-finance/more-stimulus-check-details-emerge-new-payment-size-qualifications-speedier-timeline/)
+
+
+> Here's the latest about a third stimulus check. Sarah Tew/CNET The $1.9 trillion stimulus package, and its third stimulus check of up to $1,400, took another step forward Friday on the path to becoming reality. First, Senate and then House Democrats set up the pieces that will allow them to leapfrog Republicans, using a powerful move to cut out the opposition and more quickly approve the bill -- and the stimulus check -- along partisan lines. Still unknown, however, is how Congress could target the stimulus checks to cut out higher earners.
+
+
