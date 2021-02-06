@@ -22646,3 +22646,53 @@
 > Google on Friday removed 25 Android apps from the Google Play Store after missing them during a prior purge. The apps contained the X-Mode SDK that the Chocolate Factory previously banned for selling location data. 'Due to an oversight during our enforcement process, 25 apps containing the X-Mode SDK were not removed from Google Play after the developers were given a 7-day warning," a Google spokesperson said in a statement emailed to The Register. "After learning of the error, we immediately removed the apps.
 
 
+***
+![You can get a free 7-piece Lancôme gift with purchase right now—here's how](https://www.gannett-cdn.com/presto/2021/02/06/USAT/4ca8ae60-dcad-41b6-83b2-51f2750ee41c-lancome-gift_copy.jpg?crop=2238,1259,x4,y0&width=1600&height=800&fit=bounds "You can get a free 7-piece Lancôme gift with purchase right now—here's how")
+
+
+[You can get a free 7-piece Lancôme gift with purchase right now—here's how](https://www.usatoday.com/story/tech/reviewedcom/2021/02/06/lancome-gift-purchase-get-7-piece-bag-goodies-macys/4422127001/)
+
+
+> Get nearly $200 worth of makeup—for *free.*   (Photo: Lancôme) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Calling all  Lancôme  fans: It's time to stock up on your favorites! Right now, you can get a free seven-piece gift of your choice from the brand when you spend $39.50 or more on its best-selling makeup and skincare. Valued at up to $174, this freebie is a must-have—especially since it includes some of Lancôme most popular items.
+
+
+***
+![Razer Blade Stealth 13 gains speed bumps and design tweaks](https://cnet4.cbsistatic.com/img/NOopUkQrPAGBH6FvuUR9Rm4NG0s=/868x488/2020/04/21/12d8a98a-10ad-45b6-9023-e141bea7a890/razer-blade-stealth-13-2020.jpg "Razer Blade Stealth 13 gains speed bumps and design tweaks")
+
+
+[Razer Blade Stealth 13 gains speed bumps and design tweaks](https://www.cnet.com/reviews/razer-blade-stealth-13-2020-preview/)
+
+
+> Razer Nvidia's tiniest gaming laptop, the Razer Blade Stealth 13 , gets a boost for 2020 with a higher-refresh screen option. It also gets a graphics processor update, new screen, lower-power memory and a fix for a big keyboard complaint. It's available now, starting at $1,799, which converts to about £1,470 or AU$2,870. Razer's Stealth 13 replaces the GeForce GTX 1650 CPU with the higher-powered 1650 Ti. It also upgrades the 1080p screen option to a 120Hz display with the same specs as the current version.
+
+
+***
+![Sony's big-screen Vaio Flip 15 hybrid](https://cnet3.cbsistatic.com/img/hFpRymIWKCcKSI72jLDivBBpRG0=/1200x630/2013/10/11/5aae2f4b-3602-11e3-a6cd-d4ae52e62bcc/Sony_Vaio_Flip_15_35827157_12.jpg "Sony's big-screen Vaio Flip 15 hybrid")
+
+
+[Sony's big-screen Vaio Flip 15 hybrid](https://www.cnet.com/reviews/vaio-flip-15-2013-review/)
+
+
+> At this point in PC history, it's almost more surprising to see a new high-profile laptop without some sort of bendy, twist hybrid design than one with it. That's why you won't be shocked to see that Sony's new flagship midsize Vaio is more than simply another slim clamshell. The Vaio Flip 15 still faces the same question that has bedeviled other hybrids before: How do you solve the age-old (or at least a few years old) problem of building a tablet and laptop into a single device? We've certainly seen plenty of possible solutions over the years, from fully detachable screens, to slide-out keyboards, to screens that twist or rotate around, but there's still room for improvement.
+
+
+***
+![An extra-wide touch pad for the HP Spectre 13](https://cnet1.cbsistatic.com/img/8D5o6J4mGzZfl0zz5Ddt_t9ttTI=/1200x630/2013/12/16/a9dee402-84b8-11e3-beb9-14feb5ca9861/HP_Spectre_13_Ultrabook_35827864_06.jpg "An extra-wide touch pad for the HP Spectre 13")
+
+
+[An extra-wide touch pad for the HP Spectre 13](https://www.cnet.com/reviews/hp-spectre-13t-3000-ultrabook-review/)
+
+
+> On paper, HP's new Spectre 13 ultrabook looks like just another slim 13-inch laptop, with the same basic components and design as dozens of other options in the around-$1,000 category. Its main selling point is a wider-than-normal touch pad, which includes left- and right-hand strips, called "control zones," allowing easier interaction with Windows 8. I'm pleased to say that this is one of those rare products that comes off better in person than on paper (a phrase I first used for the original Apple iPad).
+
+
+***
+![HP Pavilion X2 coming in two sizes on November 17, starting at $599.99 (hands-on)](https://cnet2.cbsistatic.com/img/EzSRgn7uwujhNlmJXPsuUAsuX1c=/1200x630/2013/09/17/aa02e664-84b8-11e3-beb9-14feb5ca9861/HP_Pavillion_11_X2_35827861-8916.jpg "HP Pavilion X2 coming in two sizes on November 17, starting at $599.99 (hands-on)")
+
+
+[HP Pavilion X2 coming in two sizes on November 17, starting at $599.99 (hands-on)](https://www.cnet.com/reviews/hp-pavilion-11-x2-preview/)
+
+
+> Now playing: Watch this: HP's Pavilion comes in dual sizes, includes dual batteries HP is doubling down on "detachables," or hybrids, or whatever the buzzword of the week is for touch-screen laptops that convert into tablets. Starting at $599.99, both the 11- and 13-inch version of the company's Pavilion line are set to release on November 17. The smaller The 11-inch HP Pavilion houses an Intel Bay Trail processor, includes dual batteries -- one in the tablet and another in the keyboard dock -- and features a 1,366x768-pixel-resolution IPS screen that purportedly gets as bright as 400 candelas per square meter; however, I must say that even at maximum brightness, the screen didn't seem all that bright to my eyes, even in a dimly lit room.
+
+
