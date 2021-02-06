@@ -22215,3 +22215,43 @@
 > LET'S PLAY! 6 Feb 2021, 1:11Updated: 6 Feb 2021, 1:12SINCE its launch last November, millions of gamers around the world have found it nearly impossible to bag themselves a PlayStation 5. In the UK, rumours swirl almost daily about new stock drops at the likes of Smyths Toys, Argos, GAME, and Amazon. Most of the time these time out to be untrue, but even when new consoles DO drop, they seem to be snapped up before most us even have a chance to get on the websites. But never fear, The Sun is here.
 
 
+***
+![धनंजय मुंडे प्रकरणी अजित पवारांची सावध भूमिका](https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vareiojtobojabijio3ijioiea45_202102556649.jpg "धनंजय मुंडे प्रकरणी अजित पवारांची सावध भूमिका")
+
+
+[धनंजय मुंडे प्रकरणी अजित पवारांची सावध भूमिका](https://www.lokmat.com/videos/maharashtra/ajit-pawars-cautious-role-dhananjay-munde-case-ajit-pawar-dhananjay-munde-case-maharashtra-news-a678/)
+
+
+> हॊम व्हिडिओ महाराष्ट्र Ajit Pawar's cautious role in Dhananjay Munde case Ajit Pawar | Dhananjay Munde Case | Maharashtra News Published: February 6, 2021 09:36 AM | Updated: February 6, 2021 09:37 AM शेअर करा टॅग्स धनंजय मुंडे अजित पवार राजकारण मुंबई Entertainment Sports Lifestyle शर्वरी लढणार शंतनूची केस | Shubh Mangal Online Serial | Sayali Sanjeev | Suyash Tilak Sundara Manamadhe Bharli या मालिकेत लतिकाची अनोखी अदा | Akshaya Naik Dance | Lokmat CNX Filmy मान्यता दत्त यांनी १०० कोटींचे गिफ्ट का परत केले? Manyata Dutt | Sanjay Dutt | Lokmat CNX Filmy शिवानी शिंकल्याने सेटवर खळबळ | Sang Tu Ahes Ka Serial | Shivani Rangole And Siddharth Chandekar स्वाती संग्रामला लग्नासाठी हो म्हणेल का? Chandra Aahe Sakshi La | Aastad Kale & Rutuja Bagwe आमीर खानच्या घरी लगीनघाई | Ira Khan Is All Set For Sisters Wedding | Zayn Marie Khan | Aamir Khan पवारांचा फोन क्वारंटीनमधून सुटका | Indian cricket Team Return In Mumbai | Maharashtra News भारतीय संघाचा ऑस्ट्रेलियामध्ये ऐतिहासिक मालिका विजय | India VS Australia 4th Test | Brisbane Test राहुल द्रविड की सचिन तेंडुलकर, काय वाटतं? Rahul Dravid | Sachin Tendulkar | Sports News आजच्या मॅचनंतर तुम्हाला Rahul Dravidची आठवण आली का? India vs Australia 3rd Test | Sports News रोहित शर्मा व डेव्हिड वॉर्नरमध्ये कोण ठरणार सरस? Rohit Sharma | David Warner | India VS Australia अजिंक्य रहाणेला मिळाले मुलाघ मेडल! Ajinkya Rahane Faliciated Mulagh Medal | IND vs AUS 2nd Test भारतावर इम्पॅक्ट करणारी BREAKING थेट अमेरिकेतून | Dr.
+
+
+***
+![Microsoft halts donations through 2022 to lawmakers who opposed Biden certification](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/microsoft-istock2.jpg?ve=1&tl=1 "Microsoft halts donations through 2022 to lawmakers who opposed Biden certification")
+
+
+[Microsoft halts donations through 2022 to lawmakers who opposed Biden certification](https://www.foxbusiness.com/technology/microsoft-halts-donations-through-2022-to-lawmakers-who-opposed-biden-certification)
+
+
+> WASHINGTON - Microsoft Corp  said on Friday it will suspend all donations by its political action committee (PAC) through 2022 to all U.S. lawmakers who voted to object to the certification of Joe Biden's election as president. The software maker will also suspend contributions through the same period for state officials and organizations who supported objections or suggested the election should be overturned. BUSINESS GROWS SKITTISH ABOUT TRUMP, GOP AFTER RIOTS Microsoft said it "will promote and join a conversation with other businesses and organizations that want to strengthen democracy.
+
+
+***
+![Slack is warning some users to reset their passwords and wipe the app data](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/galaxy-s20-review-slack-greenmat-dnd.jpg "Slack is warning some users to reset their passwords and wipe the app data")
+
+
+[Slack is warning some users to reset their passwords and wipe the app data](https://www.androidcentral.com/slack-asking-some-users-reset-their-passwords-and-wipe-their-app-data)
+
+
+> Source: Ara Wagoner / Android Central Slack is emailing users and them to change their passwords. Apparently, the company was logging some users' login information in plain text. The company states that the problem has already been fixed and that no accounts should be compromised. Slack, one of the best messaging apps, is emailing some of its users and asking them to change their passwords. According to Android Police, this is legit and not a scam or phishing attempt. They contacted the company about the email and it turns out Slack has logged some users' login information in plain text, making it visible on their smartphones.
+
+
+***
+![Over 300 million emails, passwords leaked, check if your account has been hacked](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/02/06/955711-hacker.jpg "Over 300 million emails, passwords leaked, check if your account has been hacked")
+
+
+[Over 300 million emails, passwords leaked, check if your account has been hacked](https://www.dnaindia.com/technology/report-over-300-million-emails-passwords-leaked-check-if-your-account-has-been-hacked-2873489)
+
+
+> Updated: Feb 6, 2021, 09:05 AM IST In another major cyberattack, an online hacking forum has claimed that it has leaked over 300 million emails and passwords.  The compromised credentials belong to users of LinkedIn, Minecraft, Netflix, Badoo, Pastebin and Bitcoin. Significantly, a lot of users who were victims of hacking were using the same password for Netflix and Google. The online hacking forum has also claimed that the data of all these accounts are kept in one place. As per a report by CyberNews, these data leaks have occurred from platforms such as Netflix, LinkedIn and Bitcoin.
+
+
