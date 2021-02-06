@@ -22299,3 +22299,53 @@
 > live bse live nse live Volume Todays L/H More × The country's Union Budget that dominated the headlines this week thankfully brought no negative surprises for the auto sector. However, the sector continued to suffer the impact of semiconductor supply shortages that began in November. Let's take a quick look at what transpired in the sector this past week. Tata Motors PV division posts Rs 11,173 crore loss The passenger vehicle (PV) division of Tata Motors piled up loss of Rs 11,173 crore as at end of June 2020.
 
 
+***
+![TikTok rival Snapchat Spotlight already has 100 million users](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-11/20201124_Snapchat_logo_AFP-seo.jpg "TikTok rival Snapchat Spotlight already has 100 million users")
+
+
+[TikTok rival Snapchat Spotlight already has 100 million users](https://www.malaymail.com/news/tech-gadgets/2021/02/06/tiktok-rival-snapchat-spotlight-already-has-100-million-users/1947499)
+
+
+> The new Spotlight service is showing promising results just two months since it launched. — AFP pic SAN FRANCISCO, Feb 6 ― The race is on between TikTok and Snapchat. Snapchat has announced that its Spotlight service counts 100 million monthly users on the platform ― a flying start in the race to outstrip the Chinese giant and its 700 million users. 'We're very pleasantly surprised with the momentum,' said the Snapchat boss, Evan Spiegel, on a call with investors, Thursday, February 4. The new Spotlight service is showing promising results just two months since it launched.
+
+
+***
+![Myanmar generals shut down internet as thousands protest coup](https://assets2.rappler.com/2021/02/myanmar-internet-blackout-February-6-2021-1612593443140.jpg "Myanmar generals shut down internet as thousands protest coup")
+
+
+[Myanmar generals shut down internet as thousands protest coup](https://www.rappler.com/technology/myanmar-national-scale-internet-blackout-netblocks)
+
+
+> Myanmar's junta shut down the internet in the country on Saturday, February 6, as thousands of people took to the streets of Yangon to denounce this week's coup and demand the release of elected leader Aung San Suu Kyi. In the first such demonstration since the generals seized power on Monday, activists chanted, "Military dictator, fail, fail; Democracy, win, win" and held banners reading "Against military dictatorship". Bystanders offered them food and water. Many in the crowd wore red, the color of Suu Kyi's National League for Democracy (NLD) which won Nov.
+
+
+***
+![iPhone 12 Pro Max vs Galaxy S21 Ultra: Both cost above Rs 1 lakh in India but only one is worth buying](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/iphone_12_pro_max_vs_s21_ultra-483x271_1200_210206130503.jpeg "iPhone 12 Pro Max vs Galaxy S21 Ultra: Both cost above Rs 1 lakh in India but only one is worth buying")
+
+
+[iPhone 12 Pro Max vs Galaxy S21 Ultra: Both cost above Rs 1 lakh in India but only one is worth buying](https://www.indiatoday.in/technology/news/story/iphone-12-pro-max-vs-galaxy-s21-ultra-both-cost-above-rs-1-lakh-in-india-but-only-one-is-worth-buying-1766533-2021-02-06)
+
+
+> Samsung Galaxy S21 Ultra and the iPhone 12 pro Max from Apple are two ultra expensive phones. But look closely and you will see that only one of them manages to justify the high price tag. India Today Tech | February 6, 2021 | Updated 12:42 IST
+
+
+***
+![ਅੰਦੋਲਨਕਾਰੀਆਂ ਦੀ ਰਿਹਾਈ ਲਈ ਕਿਸਾਨਾਂ ਵੱਲੋਂ ਦੇਸ਼ ਭਰ ਵਿੱਚ ਦੁਪਹਿਰ 12 ਤੋਂ 3 ਵਜੇ ਤੱਕ ਤਿੰਨ ਘੰਟਿਆਂ ਲਈ ਚੱਕਾ ਜਾਮ](https://static.jagbani.com/multimedia/2021_2image_13_31_287865149protest-ll.jpg "ਅੰਦੋਲਨਕਾਰੀਆਂ ਦੀ ਰਿਹਾਈ ਲਈ ਕਿਸਾਨਾਂ ਵੱਲੋਂ ਦੇਸ਼ ਭਰ ਵਿੱਚ ਦੁਪਹਿਰ 12 ਤੋਂ 3 ਵਜੇ ਤੱਕ ਤਿੰਨ ਘੰਟਿਆਂ ਲਈ ਚੱਕਾ ਜਾਮ")
+
+
+[ਅੰਦੋਲਨਕਾਰੀਆਂ ਦੀ ਰਿਹਾਈ ਲਈ ਕਿਸਾਨਾਂ ਵੱਲੋਂ ਦੇਸ਼ ਭਰ ਵਿੱਚ ਦੁਪਹਿਰ 12 ਤੋਂ 3 ਵਜੇ ਤੱਕ ਤਿੰਨ ਘੰਟਿਆਂ ਲਈ ਚੱਕਾ ਜਾਮ](https://jagbani.punjabkesari.in/malwa/news/farmers--sangrur--chakka-jam-1267287)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![Xiaomi Mi 11 launch likely next week, could be priced around Rs 70,000](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-06_at_11_1200_210206113542.15-483x271.png "Xiaomi Mi 11 launch likely next week, could be priced around Rs 70,000")
+
+
+[Xiaomi Mi 11 launch likely next week, could be priced around Rs 70,000](https://www.indiatoday.in/technology/news/story/xiaomi-mi-11-launch-likely-next-week-could-be-priced-around-rs-70-000-1766509-2021-02-06)
+
+
+> Highlights Xiaomi's latest flagship device is all set for a global launch. The smartphone will make its global debut on February 8 The Xiaomi Mi 11 has only been launched in China, it is expected to launch in other markets soon. Xiaomi's latest flagship device is all set for a global launch. The smartphone will make its global debut on February 8 but ahead of the launch, the expected price of the device has surfaced online. A tipster has shared the European pricing of the device and it has turned out to be pricier in Europe than China.
+
+
