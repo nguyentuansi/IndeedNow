@@ -22349,3 +22349,53 @@
 > Highlights Xiaomi's latest flagship device is all set for a global launch. The smartphone will make its global debut on February 8 The Xiaomi Mi 11 has only been launched in China, it is expected to launch in other markets soon. Xiaomi's latest flagship device is all set for a global launch. The smartphone will make its global debut on February 8 but ahead of the launch, the expected price of the device has surfaced online. A tipster has shared the European pricing of the device and it has turned out to be pricier in Europe than China.
 
 
+***
+![Xiaomi Mi 11 launch: how to watch the new Xiaomi phone livestream](https://cdn.mos.cms.futurecdn.net/QQdHooi6NRuq3LRVWo2hdT-1200-80.jpg "Xiaomi Mi 11 launch: how to watch the new Xiaomi phone livestream")
+
+
+[Xiaomi Mi 11 launch: how to watch the new Xiaomi phone livestream](https://www.techradar.com/how-to/xiaomi-mi-11-launch-how-to-watch-the-new-xiaomi-phone-livestream)
+
+
+> There's not long to go until the Xiaomi Mi 11 global launch, as it's set for February 8 at 12pm GMT, 7am ET, 4am PT, and 11pm ACT, so if you're keen to watch along with the unveiling it's worth looking into just how you can do that. The Xiaomi Mi 11 was already launched in China on December 28, so we already know what that phone will be like, but that doesn't mean you should skip out on this livestream. We're expecting to see a Xiaomi Mi 11 Pro , and possibly a Lite model too, and there could even be some other products shown off that aren't smartphones.
+
+
+***
+![Samsung's Galaxy S21 proves the time is right for iPhone 13 to get in-screen Touch ID](https://cdn.mos.cms.futurecdn.net/dcKLpy9JxjSoR92dWrByrP-1200-80.jpg "Samsung's Galaxy S21 proves the time is right for iPhone 13 to get in-screen Touch ID")
+
+
+[Samsung's Galaxy S21 proves the time is right for iPhone 13 to get in-screen Touch ID](https://www.techradar.com/news/samsungs-galaxy-s21-proves-the-time-is-right-for-iphone-13-to-get-in-screen-touch-id)
+
+
+> The fingerprint scanner on the Samsung Galaxy S21 Ultra (Image credit: Future) It's not new for Apple to sit out newer technologies for a few generations to wait and watch the rest of the market experiment and get stuff wrong, then come in at a later date with a solution to those problems. Next up, it'll probably be the in-screen fingerprint scanner. The first phone to feature the technology was the Vivo X20 Plus UD that was unveiled at the start of 2018, and by the end of 2021 I think we'll see Apple include the tech in the iPhone 13 .
+
+
+***
+![Posture buzzer aims to tackle lockdown slouching](https://ichef.bbci.co.uk/images/ic/400xn/p0965s57.jpg "Posture buzzer aims to tackle lockdown slouching")
+
+
+[Posture buzzer aims to tackle lockdown slouching](https://www.bbc.com/news/av/technology-55949109)
+
+
+> A posture-tracking gadget that vibrates when the wearer slouches has been put to the test by BBC Click. Chris Fox found the device did make him sit up straight but questioned some of the health claims on the product's website. Physiotherapist Ashley James from the UK's Chartered Society of Physiotherapy told the BBC that movement was more important than sitting upright all day. See more at Click's website and @BBCClick Read more: Your guide to avoiding lockdown back and shoulder pain
+
+
+***
+![Apple increases DTK credit following developer outcry](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/macbook-air-m1-8.jpg "Apple increases DTK credit following developer outcry")
+
+
+[Apple increases DTK credit following developer outcry](https://www.imore.com/apple-increases-dtk-credit-following-developer-outcry)
+
+
+> Source: Daniel Bader / iMore Apple has vastly improved its offer of credit towards a purchase made to developers who took part in the Universal App Quick Start Program. As noted by developer Steve Troughton-Smith on Twitter: After reading developer feedback, Apple has reconsidered its return details for the Universal App Quick Start Program / Developer Transition Kit. A welcome change that I expect should make everybody happy 🙏 pic.twitter.com/75KmDdBFjE— Steve Troughton-Smith (@stroughtonsmith) February 6, 2021 The move comes following a fairly substantial outcry from developers on the program, who were initially only offered $200 credit that had to be used against the purchase of an M1 Mac.
+
+
+***
+![Python Tkinter beginning](https://external-preview.redd.it/Xr30iaSnKQRLAwW167T1M73DEDJnfXejDKYX-xV7Cso.jpg?auto=webp&s=c4058a5bfb012f954277b86fe564a45624c8c7ba "Python Tkinter beginning")
+
+
+[Python Tkinter beginning](https://www.reddit.com/r/Python/comments/ldu192/python_tkinter_beginning/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
