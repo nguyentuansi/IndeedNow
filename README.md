@@ -22599,3 +22599,50 @@
 > Here's the latest about a third stimulus check. Sarah Tew/CNET The $1.9 trillion stimulus package, and its third stimulus check of up to $1,400, took another step forward Friday on the path to becoming reality. First, Senate and then House Democrats set up the pieces that will allow them to leapfrog Republicans, using a powerful move to cut out the opposition and more quickly approve the bill -- and the stimulus check -- along partisan lines. Still unknown, however, is how Congress could target the stimulus checks to cut out higher earners.
 
 
+***
+![Razer gaming mouse deals offer powerful performance for under $100 this weekend](https://cdn.mos.cms.futurecdn.net/nQTQYzAcqbqJTqsmuLEFa9-1200-80.jpg "Razer gaming mouse deals offer powerful performance for under $100 this weekend")
+
+
+[Razer gaming mouse deals offer powerful performance for under $100 this weekend](https://www.techradar.com/news/razer-gaming-mouse-deals-offer-powerful-performance-for-under-dollar100-this-weekend)
+
+
+> (Image credit: Future) Whether you're looking for a cheap gaming mouse, or deals that offer incredible performance for a fraction of the usual price, this weekend's Razer sale at Amazon can offer plenty of discounts. That means you'll find gaming mouse deals stretching across every price range, with some stunning options all available for under $100 right now. In fact, we're starting this weekend's offers with a gaming mouse that comes in at just $29.99. The Razer Basilisk Essential might not hold up to eSports-level speed but for $20 off its regular $49.
+
+
+***
+![What causes this error -69502 in repair mode?](https://forums.macrumors.com/attachments/z-jpg.1726169/ "What causes this error -69502 in repair mode?")
+
+
+[What causes this error -69502 in repair mode?](https://forums.macrumors.com/threads/what-causes-this-error-69502-in-repair-mode.2283601/)
+
+
+> Jun 15, 2009 777 65 Middle TN Big Sur, 19,1 iMac: Held Option+R to boot into repair mode. Ran Disk Utility and got an -69502 error on my internal SSD. I have since repaired this error by rebooting, mounting, unmounting, rebooting. But why would I get this error on my internal 2TB SSD? I somehow repaired it, but I don't understand why it happened. Anyone know what it is related?
+
+
+***
+![Big Bird's Brazilian cousin Garibaldo is a whole vibe](https://mondrian.mashable.com/2021%252F02%252F06%252Fb4%252F537ffa7d689e466895bd054454e3ed3c.4383c.jpg%252F1200x630.jpg?signature=P7NSV_RPZ-0Hms5Trh44yC0wn88= "Big Bird's Brazilian cousin Garibaldo is a whole vibe")
+
+
+[Big Bird's Brazilian cousin Garibaldo is a whole vibe](https://mashable.com/article/big-bird-garibaldo-sesame-street-twitter-thread/)
+
+
+> Big Bird blew some minds on Friday afternoon, but his cousin from Brazil was the day's unexpected star. It all started when the Sesame Street star launched into a Twitter thread running through some of his international relatives. See, the educational kid's series is an international phenomenon. But because the show covers the basics — our ABCs and 123s — a version written for U.S. children won't really be helpful in other parts of the world. So there are multiple versions of the show, each with their own title and cast of characters.
+
+
+***
+[GoNintendo Podcast Webisode 808 records LIVE at 3:15 PM ET](https://gonintendo.com/stories/376575-gonintendo-podcast-webisode-808-records-live-at-3-15-pm-et)
+
+
+> There's an INSANE amount of news to cover on this week's podcast. I sure hope you're ready! Come join us for the recap, and tons of stupid fun as well. We'll be live at 3:15 PM ET. Hope to see you there! Don't forget to join us in the Discord to chat live with other viewers/listeners, as well as us during the show! If you haven't joined up yet, you can do so right here
+
+
+***
+![Oops: Google admits failing to wipe all Android apps with location-tracking X-Mo](https://regmedia.co.uk/2019/03/15/shutterstock_location.jpg "Oops: Google admits failing to wipe all Android apps with location-tracking X-Mo")
+
+
+[Oops: Google admits failing to wipe all Android apps with location-tracking X-Mo](https://www.theregister.com/2021/02/06/google_xmode_android_apps_play_store/)
+
+
+> Google on Friday removed 25 Android apps from the Google Play Store after missing them during a prior purge. The apps contained the X-Mode SDK that the Chocolate Factory previously banned for selling location data. 'Due to an oversight during our enforcement process, 25 apps containing the X-Mode SDK were not removed from Google Play after the developers were given a 7-day warning," a Google spokesperson said in a statement emailed to The Register. "After learning of the error, we immediately removed the apps.
+
+
