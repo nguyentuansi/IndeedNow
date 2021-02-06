@@ -22255,3 +22255,47 @@
 > Updated: Feb 6, 2021, 09:05 AM IST In another major cyberattack, an online hacking forum has claimed that it has leaked over 300 million emails and passwords.  The compromised credentials belong to users of LinkedIn, Minecraft, Netflix, Badoo, Pastebin and Bitcoin. Significantly, a lot of users who were victims of hacking were using the same password for Netflix and Google. The online hacking forum has also claimed that the data of all these accounts are kept in one place. As per a report by CyberNews, these data leaks have occurred from platforms such as Netflix, LinkedIn and Bitcoin.
 
 
+***
+[C Programming Interview Questions](https://www.reddit.com/r/programming/comments/ldr53r/c_programming_interview_questions/)
+
+
+> submitted by /u/usemynotes [link] [comments]
+
+
+***
+[Explained: Why Is the Clubhouse App the Next Big Thing?](https://www.thequint.com/tech-and-auto/explained-why-clubhouse-app-is-the-next-big-thing)
+
+
+> Clubhouse is a social media platform that allows users to exchange audio clips instead of images, videos or text.
+
+
+***
+![Sport Cars](https://electrek.co/wp-content/uploads/sites/3/2021/02/EPA-Logo.jpg?quality=82&strip=all&w=1000&is-pending-load=1 "Sport Cars")
+
+
+[Sport Cars](https://fintechzoom.com/fintech_news_lifestyle/sport-cars-longest-range-electric-vehicles-evs-you-can-buy-in-2021/)
+
+
+> Sport Cars – Longest range electric vehicles (EVs) you can buy in 2021As electric vehicles look to gain an even larger portion of the automobile market in 2021, consumers will look at a number of factors as they choose to go electric. One major specification on any EV data sheet is the estimated range i.e. the amount of miles your new vehicle can travel on a single charge. Naturally, you're going to want the most battery for your buck. Below is a list of the current EV options for 2021 sorted by longest range.
+
+
+***
+![Introducing TabMerger v1.6.0](https://external-preview.redd.it/NiL87HUGrrsGmeHN08gPYsyso--cyz5PYBEqwKb9cIA.jpg?auto=webp&s=5caa40b8bb764d6aac8cb4aa6e1eda1ec1df17fa "Introducing TabMerger v1.6.0")
+
+
+[Introducing TabMerger v1.6.0](https://www.reddit.com/r/programming/comments/ldr3gc/introducing_tabmerger_v160_what_onetab_could_have/)
+
+
+> Introducing TabMerger v1.6.0 - What OneTab could have been like if their maintainers listened to & integrated user feedback.
+
+
+***
+![This week in Auto: Scrappage policy in Budget; semiconductors a pain point; Hero Moto's Harley-Davidson plan, and more](https://images.moneycontrol.com/static-mcnews/2021/01/thar-kochi-2-770x433.jpg "This week in Auto: Scrappage policy in Budget; semiconductors a pain point; Hero Moto's Harley-Davidson plan, and more")
+
+
+[This week in Auto: Scrappage policy in Budget; semiconductors a pain point; Hero Moto's Harley-Davidson plan, and more](https://www.moneycontrol.com/news/technology/auto/this-week-in-auto-scrappage-policy-in-budget-semiconductors-a-pain-point-hero-motos-harley-davidson-plan-and-more-6460311.html)
+
+
+> live bse live nse live Volume Todays L/H More × The country's Union Budget that dominated the headlines this week thankfully brought no negative surprises for the auto sector. However, the sector continued to suffer the impact of semiconductor supply shortages that began in November. Let's take a quick look at what transpired in the sector this past week. Tata Motors PV division posts Rs 11,173 crore loss The passenger vehicle (PV) division of Tata Motors piled up loss of Rs 11,173 crore as at end of June 2020.
+
+
