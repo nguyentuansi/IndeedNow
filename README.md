@@ -22121,3 +22121,47 @@
 > 'This Is Not The Market Participant's Problem': Volatility Arbitrage Trader Talks GameStop, Market Microstructure, Regulation The dynamics that transpired in GameStop can be traced back to factors like Federal Reserve stabilization efforts and low rates, which incentivize risk taking. 'The growth of structured products, passive investing, the regulatory standpoint that's been implemented with Dodd-Frank and dealers needing to hedge off their risk more frequently than not' are all part of a regime change that's affected the stability of markets, said Kris Sidial, co-chief investment officer of The Ambrus Group.
 
 
+***
+![Can AI tackle racial inequalities in healthcare?](https://ichef.bbci.co.uk/news/1024/branded_news/D50E/production/_116824545_knee.jpg "Can AI tackle racial inequalities in healthcare?")
+
+
+[Can AI tackle racial inequalities in healthcare?](https://www.bbc.com/news/technology-55940112)
+
+
+> By Cody Godwin BBC News, San Francisco image copyright Getty Images Have you ever been asked by the doctor how much something hurts out of 10? Pain tolerance is highly subjective which can make it difficult for doctors to pinpoint why someone's pain may be as high as they say it is. My five might be your seven, or my 10 could be your three. Researchers used artificial intelligence techniques to analyse knee X-rays to "predict patients' experienced pain" for those suffering from osteoarthritis of the knee.
+
+
+***
+[DTC health insurance service Oscar Health files S-1 for its IPO, reports 2020 revenue of $1.67B, up from $1.04B in 2019; David Plouffe joins board (Kia Kokalitcheva/Axios)](http://www.techmeme.com/210205/p25#a210205p25)
+
+
+> Kia Kokalitcheva / Axios: DTC health insurance service Oscar Health files S-1 for its IPO, reports 2020 revenue of $1.67B, up from $1.04B in 2019; David Plouffe joins board — Oscar Health, the health insurance company co-founded by Jared Kushner's brother, Joshua, has filed for an IPO and announced …
+
+
+***
+![Live PS5 stock updates at BT Shop, Argos, Very, Currys, Amazon and Game as new Playstation consoles ‘may drop'](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/02/1-1.jpe?strip=all&quality=100&w=1200&h=800&crop=1 "Live PS5 stock updates at BT Shop, Argos, Very, Currys, Amazon and Game as new Playstation consoles ‘may drop'")
+
+
+[Live PS5 stock updates at BT Shop, Argos, Very, Currys, Amazon and Game as new Playstation consoles ‘may drop'](https://www.thesun.co.uk/tech/13910660/ps5-stock-uk-live-news-argos-amazon-currys-game/)
+
+
+> LET'S PLAY! 6 Feb 2021, 0:02Updated: 6 Feb 2021, 0:02SINCE its release last November, millions of gamers around the world have found it nearly impossible to bag themselves a PS5. In the UK, rumours swirl almost daily about new stock drops at the likes of Smyths Toys, Argos, GAME, and Amazon. Most of the time these time out to be untrue, but even when new consoles DO drop, they seem to be snapped up before most us even have a chance to get on the websites. But never fear, The Sun is here... You can follow all the latest news and stock rumours here, live on this page - giving you the very best chance to get yourself a console today.
+
+
+***
+[Graphcore, which designs chips for AI applications, asks UK regulator to block Nvidia's acquisition of Arm on the grounds that it is anti-competitive (Sam Shead/CNBC)](http://www.techmeme.com/210205/p24#a210205p24)
+
+
+> Sam Shead / CNBC: Graphcore, which designs chips for AI applications, asks UK regulator to block Nvidia's acquisition of Arm on the grounds that it is anti-competitive — - Graphcore has objected to Nvidia's $40 billion acquisition of Arm Holdings, according to a key member of the British chipmaker's early developments
+
+
+***
+![Update Google Chrome now to avoid hackers' favorite security flaw](https://www.komando.com/wp-content/uploads/2021/02/kk-article-20210206-google-chrome-update-great-suspender-1200x675-1-970x546.jpg "Update Google Chrome now to avoid hackers' favorite security flaw")
+
+
+[Update Google Chrome now to avoid hackers' favorite security flaw](https://www.komando.com/security-privacy/update-google-chrome-now/777249/)
+
+
+> If you use Google Chrome, it's time to install the latest update: Chrome 88. Otherwise, you could fall victim to a dreaded bug.
+
+
