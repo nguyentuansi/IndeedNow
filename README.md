@@ -23130,3 +23130,50 @@
 > Developers of a new social platform have abandoned plans to launch in the United States owing to the coronavirus, and are instead releasing the app in New Zealand. Go, designed to get people off their phones and socialising in real life, launches in Auckland on Monday. Founders Sean Conrad, a software engineer, and Jesse Berns, an epidemiologist and data scientist, spent a year building the app with the intention of launching in Portland, Oregon. The app allows users to make plans with friends in real time, and businesses to promote local events.
 
 
+***
+![Amazon responds to Musk's accusations of impeding SpaceX Starlink Internet plans](https://image.cnbcfm.com/api/v1/image/105833631-1612554096163-105833631-1554400164682gettyimages-520695236.jpg?v=1612554122 "Amazon responds to Musk's accusations of impeding SpaceX Starlink Internet plans")
+
+
+[Amazon responds to Musk's accusations of impeding SpaceX Starlink Internet plans](https://www.cnbc.com/2021/02/05/amazons-kuiper-responds-to-elon-musks-spacex-on-fcc-request.html)
+
+
+> Amazon's satellite internet project on Thursday clarified its position in response to recent accusations from Elon Musk and SpaceX that Jeff Bezos' company is attempting to "stifle competition" in the sector.SpaceX's Starlink and Amazon's Kuiper are working to build space-based internet networks by launching thousands of satellites into orbit.Amazon says the FCC should consider Starlink as a "newly designed system" and include it in a broader regulatory processing round that was open when SpaceX submitted a modification request last year.
+
+
+***
+![Podcasts+ Could Be Apple's Next Subscription Service](https://images.macrumors.com/t/Q3uIjDqKPd7hEJRnEbcJg1RdxRw=/1920x/https://images.macrumors.com/article-new/2020/06/Apple-Podcast-Alternate.jpg "Podcasts+ Could Be Apple's Next Subscription Service")
+
+
+[Podcasts+ Could Be Apple's Next Subscription Service](https://www.macrumors.com/2021/02/07/podcasts-next-apple-subscription-service/)
+
+
+> Apple is widely believed to be preparing to launch a new podcasts subscription service, according to a variety of reports. Apple already has a popular Podcasts app and maintains a podcast distribution service on its Mac and iOS platforms, but the company has attempted to monetize it to date. By creating a paid podcasting service, Apple could potentially lure podcast creators with the promise of increased profits, stealing them away from other platforms like Spotify, SiriusXM, and Amazon. A recent report by Loup Ventures analysts made the case for a new Apple service tentatively titled "Podcasts+.
+
+
+***
+!['SNL' Gives House Hunting Website Zillow The Steamy Ad It Deserves](https://cdn.digg.com/wp-content/uploads/2021/02/07172436/test-52.jpg "'SNL' Gives House Hunting Website Zillow The Steamy Ad It Deserves")
+
+
+['SNL' Gives House Hunting Website Zillow The Steamy Ad It Deserves](https://digg.com/video/snl-zillow-ad)
+
+
+> "A lot of these guys are just excessively, compulsively exercising. We sometimes have people going to the gym, I kid you not, for 10 hours a day." Come for the toy piano test, stay for the delightful rick-rolling. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. Everyone's favorite pandemic activity, browsing houses on Zillow.com, gets a steamy new endorsement. Eating ortolans is pushing the species to extinction. She noted that the wording of the censure included false claims about the Jan.
+
+
+***
+![2015 MacBook Pro Screen](https://images.macrumors.com/social/?t=2283703&v=6 "2015 MacBook Pro Screen")
+
+
+[2015 MacBook Pro Screen](https://forums.macrumors.com/threads/2015-macbook-pro-screen.2283703/)
+
+
+> Hello - My wife purchased a used 2015 MBP yesterday for $500. When she got it home, she asked me to do a fresh install of the OS. As I was looking it over, I noticed a white paste like substance around the screen and into the vent area. I also noticed that the screen didn't have the nice glossy look to It like my 2012 MBP, it was a smudged/matte look. I messaged the guy and he told me that the white substance 'was from the glass cleaner that he used On it. The same as a glass top stove'. 🤦 WTF?!?!? Really? Anyways, is the screen actually glass? Or is it plastic? Does anyone know if the scratch removers work? Is there something else I could do? Or are we looking at getting the screen replaced? Thanks for your time.
+
+
+***
+[Using N-Grams and Markov Chains to Generate "The Office" Quotes](https://www.reddit.com/r/Python/comments/leqrdy/using_ngrams_and_markov_chains_to_generate_the/)
+
+
+> submitted by /u/__mifflin [link] [comments]
+
+
