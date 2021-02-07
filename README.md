@@ -22933,3 +22933,50 @@
 > According to people familiar with the matter, Mahima Kaul quit the microblogging website in the first week of January citing personal reasons. Akarsh Verma | February 7, 2021 | Updated 11:01 IST
 
 
+***
+![CORPAC Awards Gilat Multi-Million-Dollar Contract to Provide Mission Critical Telecom Systems for Peru's Airports](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "CORPAC Awards Gilat Multi-Million-Dollar Contract to Provide Mission Critical Telecom Systems for Peru's Airports")
+
+
+[CORPAC Awards Gilat Multi-Million-Dollar Contract to Provide Mission Critical Telecom Systems for Peru's Airports](https://seekingalpha.com/pr/18179234-corpac-awards-gilat-multi-million-dollar-contract-to-provide-mission-critical-telecom-systems)
+
+
+> PETAH TIKVA, Israel , Feb. 04, 2021 (GLOBE NEWSWIRE) -- Gilat Satellite Networks Ltd. ( GILT ), a worldwide leader in satellite networking technology, solutions and services, announced today that it was awarded a multi-million-dollar contract to provide mission critical telecom systems for 29 of Peru's airports. The award of high-availability communication system was granted by CORPAC, the Peruvian Corporation of Commercial Airports and Aviation. This award follows Gilat's successful execution of large government projects and well positions Gilat for additional large deals in Peru .
+
+
+***
+![Microsoft will uninstall its old Edge browser from Windows PCs on April 13th](https://external-preview.redd.it/YyzH459AZonsyW20gXkq-zxcSodTIg-8Zi3PtaPLjm0.jpg?auto=webp&s=f29f76ffe338f20d392f8f0454458ed4604125fd "Microsoft will uninstall its old Edge browser from Windows PCs on April 13th")
+
+
+[Microsoft will uninstall its old Edge browser from Windows PCs on April 13th](https://www.reddit.com/r/technology/comments/lejpob/microsoft_will_uninstall_its_old_edge_browser/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+[A look at Metalenz, which aims to replace multiple lens elements in smartphone cameras with a single lens system that utilizes optical metasurfaces technology (Julian Chokkattu/Wired)](http://www.techmeme.com/210207/p3#a210207p3)
+
+
+> Julian Chokkattu / Wired: A look at Metalenz, which aims to replace multiple lens elements in smartphone cameras with a single lens system that utilizes optical metasurfaces technology — The optics in your smartphone have been pretty much the same for more than a decade. That's about to change.
+
+
+***
+![Tech can make wedding bloom in spite of virus](https://media.arkansasonline.com/static/nwa_redesign/graphics/adgog.jpg "Tech can make wedding bloom in spite of virus")
+
+
+[Tech can make wedding bloom in spite of virus](https://www.nwaonline.com/news/2021/feb/07/tech-can-make-wedding-bloom-in-spite-of-virus/)
+
+
+> Over the summer, Lucas Robinson sat on his couch in Los Angeles, popped on a pair of virtual reality glasses and prepared to watch his friend's wedding. The couple set up an entire virtual reality (VR) system so guests could feel as if they were at the wedding. "We were escorted to a seat and everyone had a camera, which was our eyes, so we could look around and see all the action," said Robinson, the chief marketing officer of Crediful, a personal finance site. If Zoom is the only technology you're using for your wedding, you're missing out on other options that can enhance the experience -- especially for virtual affairs.
+
+
+***
+![how can i solve these in python?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "how can i solve these in python?")
+
+
+[how can i solve these in python?](https://www.reddit.com/r/Python/comments/lejb7q/how_can_i_solve_these_in_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
