@@ -23177,3 +23177,53 @@
 > submitted by /u/__mifflin [link] [comments]
 
 
+***
+![Techtalk](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dtm9w.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=600&y=586 "Techtalk")
+
+
+[Techtalk](http://www.theedgemarkets.com/article/techtalk-education-are-our-universities-lagging-behind-their-techrelated-courses)
+
+
+> © Provided by The Edge Many parties have complained about the lack of technology talent in Malaysia. Some attribute this problem to universities, saying they fail to equip students with the latest skills. However, the pace of technological development is rapid, and universities need time to update or introduce new courses, which also require approval from the government. This can take a long time, which is another grouse that some industry players have. What can be done to ensure that universities in Malaysia can generate enough talented graduates to support the tech industry? Given how quickly digital technologies develop, it is quite likely that by the time students graduate from their three-year courses, the content would already be outdated, says Datuk Dr Parmjit Singh, CEO of Asia Pacific University of Technology and Innovation and president of the Malaysian Association of Private Colleges and Universities.
+
+
+***
+![Lessons from 2020: Embracing change and building resilience](https://images.financialexpress.com/2021/02/1-122.jpg "Lessons from 2020: Embracing change and building resilience")
+
+
+[Lessons from 2020: Embracing change and building resilience](https://www.financialexpress.com/industry/technology/lessons-from-2020-embracing-change-and-building-resilience/2189285/)
+
+
+> Dulles KrishnanBy Dulles KrishnanIt is no understatement that 2020 has forever changed the way we do business, work and carry out our everyday lives. Technology, developed and deployed at hyper speed, has been fundamental to ensuring the survival of businesses of all sizes, shifting essential services online and enabling workforces to work remotely.Leadership and resilience have been critical to navigating a year of uncertainty. The crisis has put to the test companies' prioritisation of training, up- and reskilling teams.
+
+
+***
+![The Phrase 'Kilroy Was Here'](https://www.thoughtco.com/thmb/FtGxZTDfcgkRlZhOvGchfMlNzn0=/2449x1776/filters:fill(auto,1)/Kilroy_Was_Here_-_Washington_DC_WWII_Memorial_2-5c86117346e0fb00011366ad.jpg "The Phrase 'Kilroy Was Here'")
+
+
+[The Phrase 'Kilroy Was Here'](https://www.thoughtco.com/killroy-was-here-4152093)
+
+
+> For a few years during and after World War II, he was ubiquitous: a doodle of a big-nosed man, peering over a wall, accompanied by the inscription "Kilroy was here." At the height of his popularity, Kilroy could be found just about everywhere: in bathrooms and on bridges, in school cafeterias and on homework assignments, in the holds of Navy ships and painted on the shells of Air Force missiles. A classic Bugs Bunny cartoon from 1948, "Haredevil Hare," shows just how deeply Kilroy had penetrated into pop culture: thinking he's the first rabbit to land on the moon, Bugs is oblivious to the slogan "Kilroy was here" prominently etched on a rock behind him.
+
+
+***
+![Where Do Vaccine Doses Go, and Who Gets Them? The Algorithms Decide](https://static01.nyt.com/images/2021/02/05/us/00VACCINE-ALGORITHMS/00VACCINE-ALGORITHMS-facebookJumbo.jpg "Where Do Vaccine Doses Go, and Who Gets Them? The Algorithms Decide")
+
+
+[Where Do Vaccine Doses Go, and Who Gets Them? The Algorithms Decide](https://www.nytimes.com/2021/02/07/technology/vaccine-algorithms.html)
+
+
+> To hear more audio stories from publishers like The New York Times, download Audm for iPhone or Android.Faced with the daunting task of parceling out a limited supply of coronavirus vaccines, Trump administration officials came up with a seemingly simple formula last year to streamline distribution of the shots.First, federal administrators would run an automated algorithm to divide vaccine doses nationwide, based on the size of each state's adult population. Then each state would decide how to dole out the shots to local hospitals, nursing homes and clinics.
+
+
+***
+!['Total Eclipse of the Heart' gets a Grammy-worthy, COVID-themed parody](https://mondrian.mashable.com/2021%252F02%252F07%252F68%252F15fa3a49ec66443f919d17734d265718.e6c76.png%252F1200x630.png?signature=9argdkf4DYh8NSDJjTQp3xJbGb8= "'Total Eclipse of the Heart' gets a Grammy-worthy, COVID-themed parody")
+
+
+['Total Eclipse of the Heart' gets a Grammy-worthy, COVID-themed parody](https://mashable.com/video/total-eclipse-of-the-heart-pandemic-parody/)
+
+
+> At the intersection of von Trapp and viral video, meet the truly talented Marsh family.  You may recognize the UK-based family of six from their YouTube channel, which helped them go semi-viral last March with a pandemic-themed cover of "One Day More" from Les Misérables. Now, they're back with an exquisite parody of "Total Eclipse of the Heart" — fittingly retitled "Totally Fixed Where We Are" — which has over 1.2 millions views at the time of this writing. "Thiiird lock down," goes the refrain, as each family member pipes up with their unique perspective on the difficulties of co-existing in the COVID-19 era.
+
+
