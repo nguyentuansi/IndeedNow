@@ -23080,3 +23080,53 @@
 > No body in the article.
 
 
+***
+![The Biden administration endorses NASA's Artemis, the Space Force](https://thehill.com/sites/default/files/artemis02062021.jpg "The Biden administration endorses NASA's Artemis, the Space Force")
+
+
+[The Biden administration endorses NASA's Artemis, the Space Force](https://thehill.com/opinion/technology/537663-the-biden-administration-endorses-nasas-artemis-the-space-force)
+
+
+> One of the nagging questions that have haunted space enthusiasts with the change of administrations has been what President Biden will do with the Artemis program to return to the moon as well as the Space Force.  One might be forgiven for feeling some concern. Biden has been quite diligent in erasing Trump priorities ranging from energy production to immigration policy at the stroke of a pen. He was part of the Obama administration that abruptly cancelled the Constellation program. Now, all doubt has been erased.
+
+
+***
+![Facebook weighs pivotal decision on Trump ban](https://thehill.com/sites/default/files/trumpdonald_facebook_020521getty_split.jpeg "Facebook weighs pivotal decision on Trump ban")
+
+
+[Facebook weighs pivotal decision on Trump ban](https://thehill.com/policy/technology/537595-facebook-weighs-pivotal-decision-on-trump-ban)
+
+
+> Facebook finds itself confronted with one of its most consequential content moderation decisions — whether to let former President Trump Donald Trump Twitter permanently suspends Gateway Pundit founder's account Wyoming Republican Party censures Cheney over Trump impeachment vote Trump access to intelligence briefings will be determined by officials, White House says: report MORE back on the platform or keep him permanently banned. Facebook CEO Mark Zuckerberg Mark Elliot Zuckerberg Battle over COVID-19 misinformation goes to courts Democrats blast Facebook over anti-vaccine pages Facebook asking users for permission on personalized ads ahead of Apple privacy update MORE has left the decision in the hands of Facebook's fairly new independent oversight body, and the 20-member board's impending verdict may have effects beyond the fate of Trump's potential return.
+
+
+***
+![2nd alpha release of "Create a cryptocurrency trading bot in Elixir" is out](https://external-preview.redd.it/PosGavKO2cpYiQF7ZO6XWqQK7ww3jzEsYpe91Sn7P-I.jpg?auto=webp&s=c41e2386856d0194e90e50dc52a4e8fda35b9bfa "2nd alpha release of "Create a cryptocurrency trading bot in Elixir" is out")
+
+
+[2nd alpha release of "Create a cryptocurrency trading bot in Elixir" is out](https://www.reddit.com/r/programming/comments/lep5aa/2nd_alpha_release_of_create_a_cryptocurrency/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Put your new Eero 6 or Eero Pro 6 anywhere with these wall mounts](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/eero-6_1.jpg "Put your new Eero 6 or Eero Pro 6 anywhere with these wall mounts")
+
+
+[Put your new Eero 6 or Eero Pro 6 anywhere with these wall mounts](https://www.androidcentral.com/best-eero-6-eero-6-pro-mounts)
+
+
+> Best Eero 6 & Eero Pro 6 Mounts Android Central 2021 There's a lot to like about the new Eero 6 and Eero Pro 6 routers, and both have immediately entered contention for the best Wi-Fi 6 routers on the market. Whether you have a large home with a lot of space to cover or just an apartment with one or two rooms, the Eero 6's mesh Wi-Fi network makes sure that every inch of your home is covered. But just like with the last generation, you're probably looking for the best Eero 6 mounts to help save some space.
+
+
+***
+![Developers pick Auckland for social app launch over the Covid-stricken United States](https://resources.stuff.co.nz/content/dam/images/4/y/q/t/w/a/image.related.StuffLandscapeSixteenByNine.1420x800.21xb53.png/1612501867365.jpg "Developers pick Auckland for social app launch over the Covid-stricken United States")
+
+
+[Developers pick Auckland for social app launch over the Covid-stricken United States](https://www.stuff.co.nz/technology/124166055/developers-pick-auckland-for-social-app-launch-over-the-covidstricken-united-states)
+
+
+> Developers of a new social platform have abandoned plans to launch in the United States owing to the coronavirus, and are instead releasing the app in New Zealand. Go, designed to get people off their phones and socialising in real life, launches in Auckland on Monday. Founders Sean Conrad, a software engineer, and Jesse Berns, an epidemiologist and data scientist, spent a year building the app with the intention of launching in Portland, Oregon. The app allows users to make plans with friends in real time, and businesses to promote local events.
+
+
