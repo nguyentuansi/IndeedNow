@@ -22836,3 +22836,50 @@
 > The grieving relatives of a young woman killed in a car chase have warned of a fake crowd-funding page preying on those touched by the tragedy.Jennifer Board, 22, died when her motorcycle collided head-on with a Holden Statesman sedan alleged to be in pursuit of another car in Townsville late Friday night.On Saturday, a page was set up on the website gogetfunding.com entitled 'Jennifer Board Funeral Fund'.It claimed to have been started by Graham Board, the name of Ms Board's father, and asked for $50,000 in donations.
 
 
+***
+![જાન્યુઆરીમાં ટેલિગ્રામ એપને દુનિયાભરમાં સૌથી વધારે ડાઉનલોડ કરવામાં આવી, ડિસેમ્બર 2020માં ટોપ-5માં પણ નહોતી](https://images.bhaskarassets.com/thumb/151x151/web2images/960/2021/02/07/_1612677992.jpg "જાન્યુઆરીમાં ટેલિગ્રામ એપને દુનિયાભરમાં સૌથી વધારે ડાઉનલોડ કરવામાં આવી, ડિસેમ્બર 2020માં ટોપ-5માં પણ નહોતી")
+
+
+[જાન્યુઆરીમાં ટેલિગ્રામ એપને દુનિયાભરમાં સૌથી વધારે ડાઉનલોડ કરવામાં આવી, ડિસેમ્બર 2020માં ટોપ-5માં પણ નહોતી](https://www.divyabhaskar.co.in/utility/gadgets/news/telegram-vs-whatsapp-vs-signal-which-is-the-most-downloaded-app-google-play-latest-states-updates-128203919.html)
+
+
+> Telegram Vs Whatsapp Vs Signal; Which Is The Most Downloaded App? Google Play Latest States Updates
+
+
+***
+![Clubhouse: the buzzy, audio social network taking the tech world by storm](https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_71/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/54358122ef9db2ffcebf8f2269442432724d998a "Clubhouse: the buzzy, audio social network taking the tech world by storm")
+
+
+[Clubhouse: the buzzy, audio social network taking the tech world by storm](https://www.smh.com.au/technology/clubhouse-the-buzzy-audio-social-network-taking-the-tech-world-by-storm-20210204-p56zok.html)
+
+
+> This unpredictability and serendipity saw the world's richest man, Elon Musk, grill the chief executive of Robinhood over the GameStop share squeeze on Clubhouse last week, maxing out the social network's 5,000 person limit listening in on a conversation 'room'.Clubhouse does not split out users by region but its fast uptake in Australia reflects worldwide growth. Author Vajresh Balaji estimates more than 1 million new users signed up to the social network between January 30 and February 1 alone driven by Mr Musk's appearance.
+
+
+***
+[Clubhouse: the buzzy, audio social network taking the tech world by storm](https://www.watoday.com.au/technology/clubhouse-the-buzzy-audio-social-network-taking-the-tech-world-by-storm-20210204-p56zok.html?ref=rss&utm_medium=rss&utm_source=rss_feed)
+
+
+> The invite-only social network offers live and interactive audio streaming where anything could happen and almost anyone could be speaking.
+
+
+***
+![Technion researchers develop mathematical 'conjecture generator'](https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/470877 "Technion researchers develop mathematical 'conjecture generator'")
+
+
+[Technion researchers develop mathematical 'conjecture generator'](https://www.jpost.com/israel-news/technion-researchers-develop-mathematical-conjecture-generator-658093)
+
+
+> Researchers from the Technion have developed a "conjecture generator" that creates mathematical conjectures using a combination of artificial intelligence and computer automation, according to a press release from the university Thursday.Called The Ramanujan Machine, a study about the machines' development was published in the academic journal Nature, and was carried out by undergraduates from a variety of faculties under the guidance of Prof. Ido Kaminer from the Andrew and Erna Viterbi Faculty of Electrical Engineering at the Technion.
+
+
+***
+![PlayStation 5 review: A hint of the future](https://images.indianexpress.com/2021/02/PS5-FB-1.jpg "PlayStation 5 review: A hint of the future")
+
+
+[PlayStation 5 review: A hint of the future](https://indianexpress.com/article/technology/tech-reviews/sony-playstation-5-review-7178122/)
+
+
+> The domination of the PlayStation 4 made Sony the king of the gaming world, and while that device is still alive and getting new blockbuster games one after the other, the Japanese company now wants to carry the legacy forward with the PS5. Its next-generation game console feels amazing, everything from the graphics to the new DualSense wireless controller. It is also a masterclass on what a future-proofed device could look like. But is it the best option for a pandemic-hit world? Read our review: The PS5 is a big console.
+
+
