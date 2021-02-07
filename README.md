@@ -23030,3 +23030,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![What are all the playable characters in the new Bravely Default 2 game?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/bravely-default-2-cast-playable-characters.jpg "What are all the playable characters in the new Bravely Default 2 game?")
+
+
+[What are all the playable characters in the new Bravely Default 2 game?](https://www.imore.com/bravely-default-2-all-playable-characters)
+
+
+> Source: iMore Square-Enix's Bravely Default 2 is actually the third installment (so confusing!) of the Bravely Default series, originally released for Nintendo 3DS in 2012. If you haven't played any of the previous games, don't worry — the plots are supposedly not reliant on or even related to each other. But just in case you want to know: The original game took place in Luxendarc, a kingdom kept in balance by four elemental Crystals. This new release is set somewhere in the realm of Excillant and is a turned-based RPG on Nintendo Switch.
+
+
+***
+![Dan Levy gets gleefully inappropriate during a Universal Studios tour on 'SNL'](https://mondrian.mashable.com/2021%252F02%252F07%252Fbe%252Fc4d7935dfd2043dbaf8dc6a630f86743.17cb7.png%252F1200x630.png?signature=SqrKzs0lzzvy2XpDlEoJUWBe0fY= "Dan Levy gets gleefully inappropriate during a Universal Studios tour on 'SNL'")
+
+
+[Dan Levy gets gleefully inappropriate during a Universal Studios tour on 'SNL'](https://mashable.com/video/snl-universal-tram-tour-dan-levy/)
+
+
+> It's fair to say Dan Levy crushed his first Saturday Night Live hosting gig. In one of the night's stronger sketches, Levy pops up as a newly hired Universal Studios tram tour guide-in-training, Thoby (the H is NOT silent). But because he's on no sleep and lots of coffee, Thoby launches into a string of inappropriate tangents about everything from dark Back to the Future fan theories to his... unconventional appreciation for Wayne Knight of Seinfeld fame. Backed by the perfect straight man in Mikey Day and a hilarious peanut gallery featuring Ego Nwodim as the tram driver and Kenan Thompson as a game-for-anything tourist, this SNL sketch is filled with earned laughs from beginning to end.
+
+
+***
+![Next generation web framework for Deno](https://external-preview.redd.it/ooPpRuZzb_onJRbQ0VFTOfrTDxlqMoWLp_yELWrucco.jpg?auto=webp&s=922d80b2a17787a9703090183b19e02e6cc0e97c "Next generation web framework for Deno")
+
+
+[Next generation web framework for Deno](https://www.reddit.com/r/programming/comments/lemw03/next_generation_web_framework_for_deno/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+!['SNL Cold Open' Turns Its Attention To The Super Bowl](https://cdn.digg.com/wp-content/uploads/2021/02/07135358/maxresdefault.jpg "'SNL Cold Open' Turns Its Attention To The Super Bowl")
+
+
+['SNL Cold Open' Turns Its Attention To The Super Bowl](https://digg.com/video/snl-cold-open-2-7-2021)
+
+
+> You can't ethically go ahead of the very people who made it possible for you to do so—at great personal risk Watch the coaches kick it in the studio before the big game. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. Anchors Colin Jost and Michael Che run through Mitch McConnell criticizing Marjorie Taylor Greene for her theories, the presidential relief package and more. Patrick Mahomes, Travis Kelce, and Co. all have enough sway to influence defenders in their own right.
+
+
+***
+![General Motors, the Largest U.S. Automaker, Plans to be Carbon Neutral by 2040](https://external-preview.redd.it/m48kXBOjFUoexFJg2peGvl_CpZxo21_VQfeRgW4aKXw.jpg?auto=webp&s=f4965bd5644e4f2c760371f2fd2e3f9e4d33d821 "General Motors, the Largest U.S. Automaker, Plans to be Carbon Neutral by 2040")
+
+
+[General Motors, the Largest U.S. Automaker, Plans to be Carbon Neutral by 2040](https://www.reddit.com/r/technology/comments/lemta3/general_motors_the_largest_us_automaker_plans_to/)
+
+
+> No body in the article.
+
+
