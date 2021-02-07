@@ -22786,3 +22786,53 @@
 > Directories are highly useful to find new businesses or providers based on particular search criteria. Not only that, but directories can also be used by a company to provide an online listing of their employees, for instance. There are a myriad ways to use online directories, and if your site is powered by the website builder and web hosting solution WordPress, then you can add a directory simply by installing a plugin. But which one should you use? That's always the daunting question, so in order to make the selection process easier, we've looked at five of the best on offer.
 
 
+***
+![Baddegama PS member arrested](https://adaderanaenglish.s3.amazonaws.com/1612668339-Baddegama-PS-member-arrested-B.jpg "Baddegama PS member arrested")
+
+
+[Baddegama PS member arrested](http://www.adaderana.lk/news/71364/baddegama-ps-member-arrested)
+
+
+> February 7, 2021   08:55 am - A member of the Baddegama Pradeshiya Sabha has been arrested yesterday (February 06) over a case of assault. Wanduramba Police has arrested the PS member in question for assaulting and obstructing the duties of the Electricity Superintendent of the Ceylon Electricity Board (CEB) and assaulting two other persons. The incident has taken place when setting up power lines near the residence of the arrested PS member. The arrestee is to be produced before the Galle Magistrate's Court today (February 07).
+
+
+***
+![How has AWS fared in China's cloud services market?](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/04/30c9acae-65e9-11eb-bc00-908c10a5850a_image_hires_024249.jpg?itok=kMjnEpA3&v=1612377779 "How has AWS fared in China's cloud services market?")
+
+
+[How has AWS fared in China's cloud services market?](https://www.scmp.com/tech/big-tech/article/3120418/aws-made-cloud-computing-services-mainstream-it-still-hasnt-cracked)
+
+
+> Amazon Web Services operates in China through two local partners, Beijing Sinnet Technology Co and Ningxia Western Cloud Data Technology Co. Photo: Bloomberg
+
+
+***
+![How big tech got even bigger](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/Big-Tech-Congress.jpg?ve=1&tl=1 "How big tech got even bigger")
+
+
+[How big tech got even bigger](https://www.foxbusiness.com/technology/how-big-tech-got-even-bigger)
+
+
+> The tech industry's titans were already huge before COVID-19 , the subject of soaring valuations and snowballing antitrust investigations. The pandemic has only made them bigger. A lot bigger. In almost every facet of life—the tools we use to work, study, and play; how we shop and interact; the way companies operate and market their products—people and businesses have become more reliant on technology over the past year. Even amid one of the most punishing economic downturns on record, spending surged on computers, videogames, online retail, cloud-computing services and digital advertising.
+
+
+***
+![Jio vs Airtel vs Vi: Who Best Prepaid Packs Under Rs. 129?](https://i.gadgets360cdn.com/large/jio_airtel_vi_vodafone_idea_image_1612358966262.jpg "Jio vs Airtel vs Vi: Who Best Prepaid Packs Under Rs. 129?")
+
+
+[Jio vs Airtel vs Vi: Who Best Prepaid Packs Under Rs. 129?](https://gadgets.ndtv.com/telecom/features/jio-airtel-vi-vodafone-idea-best-prepaid-packs-under-rs-129-51-100-19-48-79-19-95-99-recharge-plan-price-2362554)
+
+
+> Jio, Airtel, and Vi (Vodafone Idea) offer a variety of affordable prepaid recharge packs under Rs. 129 for their subscribers. While some prepaid packs are essentially aimed at fulfilling high-speed data requirements for customers, there are many other packs that offer unlimited voice calling and SMS message benefits alongside data allocation. Jio, Airtel, and Vi also also have some prepaid packs that come with add-on benefits such as free access to over-the-top (OTT) platforms.In this article, we will cover the best prepaid packs under Rs.
+
+
+***
+![Family of Jennifer Board, killed in civilian car chase in Townsville, warn of fake page crowd-funding for funeral expenses](https://images.perthnow.com.au/publication/873B375E0F3A5A878C1D8CA8A23F5DD7/1612669709500_797b03004f6378901d6f65b7536e270f.jpeg?imwidth=1024 "Family of Jennifer Board, killed in civilian car chase in Townsville, warn of fake page crowd-funding for funeral expenses")
+
+
+[Family of Jennifer Board, killed in civilian car chase in Townsville, warn of fake page crowd-funding for funeral expenses](https://www.news.com.au/technology/online/family-of-jennifer-board-killed-in-civilian-car-chase-in-townsville-warn-of-fake-page-crowdfunding-for-funeral-expenses/news-story/873b375e0f3a5a878c1d8ca8a23f5dd7)
+
+
+> The grieving relatives of a young woman killed in a car chase have warned of a fake crowd-funding page preying on those touched by the tragedy.Jennifer Board, 22, died when her motorcycle collided head-on with a Holden Statesman sedan alleged to be in pursuit of another car in Townsville late Friday night.On Saturday, a page was set up on the website gogetfunding.com entitled 'Jennifer Board Funeral Fund'.It claimed to have been started by Graham Board, the name of Ms Board's father, and asked for $50,000 in donations.
+
+
