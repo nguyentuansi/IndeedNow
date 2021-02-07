@@ -22980,3 +22980,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![FCA warning over 'risky' TikTok trading tips](https://ichef.bbci.co.uk/news/1024/branded_news/16A0/production/_116829750_stocks.png "FCA warning over 'risky' TikTok trading tips")
+
+
+[FCA warning over 'risky' TikTok trading tips](https://www.bbc.com/news/technology-55948550)
+
+
+> By Cristina Criddle Technology reporter TikTok creators have been offering "risky" trading tips in the wake of the GameStop shares frenzy, a UK regulator has warned. The Financial Conduct Authority (FCA) said people should be wary of users "promising high-return investments". Many videos contain financial advice without disclaimers about the risks involved. TikTok said it removed content that "deceives people to gain an unlawful financial advantage". media caption WATCH: What's been going on at GameStop? The BBC found several popular video-makers on TikTok encouraging people to buy shares in GameStop, BlackBerry and AMC.
+
+
+***
+![Xiaomi Black Shark 4 gaming smartphone certified in China; could be announced this month](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/gwigwi_1200_210207164542.com-resmi-diumumkan-xia-483x271.jpeg "Xiaomi Black Shark 4 gaming smartphone certified in China; could be announced this month")
+
+
+[Xiaomi Black Shark 4 gaming smartphone certified in China; could be announced this month](https://www.indiatoday.in/technology/news/story/xiaomi-black-shark-4-gaming-smartphone-certified-in-china-could-be-announced-this-month-1766827-2021-02-07)
+
+
+> Highlights Xiaomi's Black Shark has officially confirmed its Black Shark 4's specifications. Black Shark introduced Black Shark 3 and 3S in 2020. The upcoming gaming smartphone will be powered by Qualcomm's latest and greatest Snapdragon 888 SoC. The brand CEO had already mentioned that the Black Shark 4 codenamed 'Kaiser' will be backed by a 4,500 mAh battery. The device supports 120W fast charging which can completely top up the phone in 15 minutes. According to a TENAA listing, the phone is equipped with a 6.
+
+
+***
+![OnePlus 9 Pro Leak Reveals Hasselblad Camera Partnership](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/ad32e7dd54fb0a14070e40f05503dc-483x271_1200_210207153629.jpeg "OnePlus 9 Pro Leak Reveals Hasselblad Camera Partnership")
+
+
+[OnePlus 9 Pro Leak Reveals Hasselblad Camera Partnership](https://www.indiatoday.in/technology/news/story/oneplus-9-pro-leak-reveals-hasselblad-camera-partnership-1766812-2021-02-07)
+
+
+> Highlights OnePlus 9 Pro features a quad camera setup on the rear. OnePlus 9 Pro leaked with the Hasselblad camera system. The OnePlus 9 series is rumoured to be launched by mid-March. Around two months after PhoneArena confirmed your unique hands-on pictures of the vanilla OnePlus 9, YouTuber Dave2D has obtained stay photographs of a prototype OnePlus 9 Pro. As expected from earlier leaks, the hands-on pictures of the OnePlus 9 Pro showcase an up to date camera design that houses the principle sensor, an ultra-wide lens, and two more different lenses.
+
+
+***
+!['Snakepedia' app becomes popular; provides useful info on snakes, snakebite](https://english.mathrubhumi.com/polopoly_fs/1.5413985.1612691944!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg "'Snakepedia' app becomes popular; provides useful info on snakes, snakebite")
+
+
+['Snakepedia' app becomes popular; provides useful info on snakes, snakebite](https://english.mathrubhumi.com/technology/science/-snakepedia-app-becomes-popular-provides-useful-info-on-snakes-snakebite-1.5419208)
+
+
+> Within 3 days, over 10,000 people downloaded the application and the app was given a rating of 4.9. Kozhikode: The android app 'Snakepedia' which was launched on the Play Store on February 4 is already trending. The app gives information about different types of snakes in Kerala and the basic first aid for snakebite. Within 3 days, over 10,000 people downloaded the application and the app was given a rating of 4.9. An online helpline has been introduced in the app to identify the snakes. Though Malayalam is the main language used in the app, information and podcasts are available in English as well.
+
+
+***
+![What is Union in C Programming?](https://external-preview.redd.it/7PaXWv2uY8RAf9wupzbAU_BfTPJCsVAGfW3hTNByGPE.jpg?auto=webp&s=8864e43e4cbe525e670bf8cdfcbc893545fa074c "What is Union in C Programming?")
+
+
+[What is Union in C Programming?](https://www.reddit.com/r/programming/comments/lel6rd/what_is_union_in_c_programming/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
