@@ -22736,3 +22736,53 @@
 > Gmail is a fabulous free tool from Google. However, email itself can really get on top of you. One way to keep your Gmail account from getting you down is to learn all the nifty tips and tricks for the Gmail interface that will up your productivity, improve your efficiency, and even save you some precious time.  From scheduling emails to be sent at a future point to un-sending an important email you've just realized contains a massive blooper, these hacks will see you mastering your Gmail account instead of being scared of it.
 
 
+***
+![Tech Workers at Every Level Can Organize to Build Power](https://external-preview.redd.it/c9h5Zn-hq9hLy51AhmQyPVGeIiObkNArOljePkdXVRs.jpg?auto=webp&s=5723be0e72ffde911b0d7b6f819ebdd81b3c0e34 "Tech Workers at Every Level Can Organize to Build Power")
+
+
+[Tech Workers at Every Level Can Organize to Build Power](https://www.reddit.com/r/technology/comments/lec5ts/tech_workers_at_every_level_can_organize_to_build/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Controller RequestMapping in Golang](https://external-preview.redd.it/h4buZu6G1qFFngY4728HkmoeIK4CdjThrJEuTWEcy-Y.jpg?auto=webp&s=8cec07507b2cc4eba61dd7be1866ee08946acfc1 "Controller RequestMapping in Golang")
+
+
+[Controller RequestMapping in Golang](https://www.reddit.com/r/programming/comments/lec4yi/controller_requestmapping_in_golang_my_attempt_in/)
+
+
+> Controller RequestMapping in Golang - My attempt in implementing @RequestMapping equivalent per controller in Golang. Organize the controllers like in Spring Framework
+
+
+***
+![India restores 4G mobile internet in Kashmir after 18-month ban](https://external-preview.redd.it/b-MeMm2CCYjgDbW32OdkAasDnWgUdiifHAa05K2RN9k.jpg?auto=webp&s=54e951b9cd2cb40881b7332998985bdcb9e3ece3 "India restores 4G mobile internet in Kashmir after 18-month ban")
+
+
+[India restores 4G mobile internet in Kashmir after 18-month ban](https://www.reddit.com/r/technology/comments/lec1oy/india_restores_4g_mobile_internet_in_kashmir/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![NetworkX](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "NetworkX")
+
+
+[NetworkX](https://www.reddit.com/r/programming/comments/lebywn/networkx_a_graphical_tool_for_designing_and/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Best WordPress directory plugins of 2021](https://cdn.mos.cms.futurecdn.net/4ixXZAxMNTD9jJ4GVWf68Q-1200-80.jpg "Best WordPress directory plugins of 2021")
+
+
+[Best WordPress directory plugins of 2021](https://www.techradar.com/best/wordpress-directory-plugins)
+
+
+> Directories are highly useful to find new businesses or providers based on particular search criteria. Not only that, but directories can also be used by a company to provide an online listing of their employees, for instance. There are a myriad ways to use online directories, and if your site is powered by the website builder and web hosting solution WordPress, then you can add a directory simply by installing a plugin. But which one should you use? That's always the daunting question, so in order to make the selection process easier, we've looked at five of the best on offer.
+
+
