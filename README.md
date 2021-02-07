@@ -23227,3 +23227,47 @@
 > At the intersection of von Trapp and viral video, meet the truly talented Marsh family.  You may recognize the UK-based family of six from their YouTube channel, which helped them go semi-viral last March with a pandemic-themed cover of "One Day More" from Les Misérables. Now, they're back with an exquisite parody of "Total Eclipse of the Heart" — fittingly retitled "Totally Fixed Where We Are" — which has over 1.2 millions views at the time of this writing. "Thiiird lock down," goes the refrain, as each family member pipes up with their unique perspective on the difficulties of co-existing in the COVID-19 era.
 
 
+***
+![UK's enemies trying to ‘tear society apart' via social media](https://i.guim.co.uk/img/media/c83c2277708ac44880857a63917d60b7936c4b79/0_317_9504_5702/master/9504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce5772bce6c5af0c0d1f5abba66ed803 "UK's enemies trying to ‘tear society apart' via social media")
+
+
+[UK's enemies trying to ‘tear society apart' via social media](http://www.theguardian.com/technology/2021/feb/07/uks-enemies-trying-to-tear-society-apart-via-social-media)
+
+
+> Britain's enemies are attempting to use social media to tear the 'fabric of society apart', one of the country's top generals has warned.In a candid interview about cyberwarfare, Gen Sir Patrick Sanders said the threat was not like that seen in films where power plants are targeted.Speaking to the Sky News Into the Grey Zone podcast, the head of Strategic Command said: 'In some respects, the most important, most relevant use of cyberspace is that the real power is in influence and not in sabotage.
+
+
+***
+![Expand your horizons with the help of the best Linux laptops](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/system-76-linux-laptops-lifestyle.jpg "Expand your horizons with the help of the best Linux laptops")
+
+
+[Expand your horizons with the help of the best Linux laptops](https://www.androidcentral.com/best-linux-laptops)
+
+
+> Best Linux Laptops Android Central 2021 When it comes to looking for an alternative laptop to Windows or macOS, then you're going to want one of the best Linux laptops. There may not be as many options running the Linux operating system as the competition as most of the big-name computer manufacturers aren't making Linux laptops, so it's helpful to know exactly what smaller companies have available. Thankfully, there are some great options from smaller players who have great reputations when it comes to standing behind their products.
+
+
+***
+![World wide web inventor Tim Berners-Lee takes on Google, Facebook, Amazon to fix the internet](https://www.gannett-cdn.com/presto/2019/03/12/USAT/a5afac69-074f-4891-aa4a-464369519eac-AFP_AFP_1EI5JD.JPG?crop=3999,2240,x0,y185&width=3200&height=1680&fit=bounds "World wide web inventor Tim Berners-Lee takes on Google, Facebook, Amazon to fix the internet")
+
+
+[World wide web inventor Tim Berners-Lee takes on Google, Facebook, Amazon to fix the internet](https://www.usatoday.com/story/tech/2021/02/07/google-facebook-amazon-web-inventor-data-scheme-tim-berners-lee/4427217001/)
+
+
+> CLOSE A lot has changed since the World Wide Web was born 30 years ago. USA TODAY The internet today is nothing like the World Wide Web that Sir Tim Berners-Lee envisioned  back when he invented it in 1989.  While it continues to be a place where people can interact in a free exchange of ideas, individuals and groups have lost their sense of empowerment to a handful of giant monopolies and countries that are bent on collecting their personal data. "Once a platform becomes dominant, it is able to collect more data," said Pieter Verdegem, senior lecturer at the University of Westminster School of Media and Communication.
+
+
+***
+[React Notes App Tutorial: Build A Notes App Using React](https://www.reddit.com/r/programming/comments/lewf9m/react_notes_app_tutorial_build_a_notes_app_using/)
+
+
+> submitted by /u/ExchangeShot9278 [link] [comments]
+
+
+***
+[EVGA GeForce RTX 3090 24GB FTW3 ULTRA](https://www.sweclockers.com/forum/trad/1625768-evga-geforce-rtx-3090-24gb-ftw3-ultra)
+
+
+> Selling my EVGA GeForce RTX 3090 24GB FTW3 ULTRA as my 3090 KingPin is on its way! - used sporadically for the past weeks - bought from Inet, warranty + invoice available. Bid start: 20k * I am not planning to drag this add for too long, if I get the right offer I will release it quickly! As always, I reserve the right to sell to whom I want, when I want ... if I want no matter the bid. Accept only Swish. Shipping cost is covered by the buyer. * will make sure to pack the card as best as possible so it arrives in perfect shape.
+
+
