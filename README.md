@@ -22696,3 +22696,43 @@
 > Now playing: Watch this: HP's Pavilion comes in dual sizes, includes dual batteries HP is doubling down on "detachables," or hybrids, or whatever the buzzword of the week is for touch-screen laptops that convert into tablets. Starting at $599.99, both the 11- and 13-inch version of the company's Pavilion line are set to release on November 17. The smaller The 11-inch HP Pavilion houses an Intel Bay Trail processor, includes dual batteries -- one in the tablet and another in the keyboard dock -- and features a 1,366x768-pixel-resolution IPS screen that purportedly gets as bright as 400 candelas per square meter; however, I must say that even at maximum brightness, the screen didn't seem all that bright to my eyes, even in a dimly lit room.
 
 
+***
+![What that 'WandaVision' cameo means for the future of the Marvel Cinematic Universe](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1drNpi.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=906&y=458 "What that 'WandaVision' cameo means for the future of the Marvel Cinematic Universe")
+
+
+[What that 'WandaVision' cameo means for the future of the Marvel Cinematic Universe](https://www.cnbc.com/2021/02/06/wandavision-brings-back-pietro-maximoff-played-by-evan-peters.html)
+
+
+> The fifth episode of "WandaVision" had a major cameo. The reveal not only has ramifications within the sitcom-based TV show, but for the entire Marvel Cinematic Universe. © Provided by CNBC Elizabeth Olsen stars as Wanda Maximoff in Kevin Feige warned us that the Marvel series on Disney+ would have implications for the greater Marvel Cinematic Universe. And he's kept that promise. On Friday, the fifth episode of "WandaVision" arrived on the streaming service, bringing with it a major cameo that has left viewers with a lot to ponder before episode six arrives next week.
+
+
+***
+![I just used Python to grab the rest of the semester's lecture notes in a discrete math class I'm taking!](https://external-preview.redd.it/sMH_Q9Los3UK0v5Ff8WzbZDU8opWNm4LuQFbJj-5urA.jpg?auto=webp&s=7239f1b75c89597e58ec054bd46cb65367e1afce "I just used Python to grab the rest of the semester's lecture notes in a discrete math class I'm taking!")
+
+
+[I just used Python to grab the rest of the semester's lecture notes in a discrete math class I'm taking!](https://www.reddit.com/r/Python/comments/leaf6v/i_just_used_python_to_grab_the_rest_of_the/)
+
+
+> I've been programming for a long time, but this is the first time I've used it in my day-to-day life! I realized that the lecture notes for a class I'm taking are listed sequentially as urls, so I figured they might be exposed on the server despite not being posted directly on the website. UrlLib to the rescue! Here's the link to a tiny GitHub repo if anyone's interested.
+
+
+***
+![Gold Coast beaches where three people drowned remained closed](https://images.perthnow.com.au/publication/4C2616BB3C922FFE33ED15C0A3DC7239/1612657109980_289500de2b7e995b3761fa55a5314b13.jpeg?imwidth=1024 "Gold Coast beaches where three people drowned remained closed")
+
+
+[Gold Coast beaches where three people drowned remained closed](https://www.news.com.au/technology/environment/gold-coast-beaches-where-three-people-drowned-remained-closed/news-story/4c2616bb3c922ffe33ed15c0a3dc7239)
+
+
+> Treacherous conditions have forced the closure of Gold Cost beaches – including those where three people lost their lives within 36 hours.Three beaches along the Sunshine Coast have also been closed on Sunday because of dangerous conditions. Surf Life Saving Queensland announced eight beaches would be off-limits before adding that iconic Surfers Paradise beach would also be closed.The beaches where three people lost their lives remain closed.The treacherous conditions have been attributed to ex-tropical cyclone Lucas, which was moving in a south-westerly condition off the coast of New Caledonia.
+
+
+***
+![How to use Gmail: The best tips and tricks to conquer your inbox](https://mondrian.mashable.com/2021%252F02%252F07%252F34%252F5dcd9230190e4f0aa572fbd09240ec25.10cfb.png%252F1200x630.png?signature=RungRJKgEU6EIMWHiFCyTOJ9Oz0= "How to use Gmail: The best tips and tricks to conquer your inbox")
+
+
+[How to use Gmail: The best tips and tricks to conquer your inbox](https://mashable.com/article/how-to-use-gmail-tips-and-tricks/)
+
+
+> Gmail is a fabulous free tool from Google. However, email itself can really get on top of you. One way to keep your Gmail account from getting you down is to learn all the nifty tips and tricks for the Gmail interface that will up your productivity, improve your efficiency, and even save you some precious time.  From scheduling emails to be sent at a future point to un-sending an important email you've just realized contains a massive blooper, these hacks will see you mastering your Gmail account instead of being scared of it.
+
+
