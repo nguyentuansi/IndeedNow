@@ -22883,3 +22883,53 @@
 > The domination of the PlayStation 4 made Sony the king of the gaming world, and while that device is still alive and getting new blockbuster games one after the other, the Japanese company now wants to carry the legacy forward with the PS5. Its next-generation game console feels amazing, everything from the graphics to the new DualSense wireless controller. It is also a masterclass on what a future-proofed device could look like. But is it the best option for a pandemic-hit world? Read our review: The PS5 is a big console.
 
 
+***
+![Google moves away from diet of ‘cookies' to track users](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-01/20200115_Internet_Generic-AFP-seo.jpg "Google moves away from diet of ‘cookies' to track users")
+
+
+[Google moves away from diet of ‘cookies' to track users](https://www.malaymail.com/news/tech-gadgets/2021/02/07/google-moves-away-from-diet-of-cookies-to-track-users/1947693)
+
+
+> Google unveiled the results of tests showing an alternative to the longstanding tracking practice, claiming it could improve online privacy while still enabling advertisers to serve up relevant messages. — AFP pic SAN FRANCISCO, Feb 7 — Google is weaning itself off user-tracking 'cookies' which allow the web giant to deliver personalised ads but which also have raised the hackles of privacy defenders. Last month, Google unveiled the results of tests showing an alternative to the longstanding tracking practice, claiming it could improve online privacy while still enabling advertisers to serve up relevant messages.
+
+
+***
+![Infographic: Nintendo Switch sales surpass 3DS predecessor](https://imagevars.gulfnews.com/2021/02/07/Nintendo-Switch_1777b254995_medium.jpg "Infographic: Nintendo Switch sales surpass 3DS predecessor")
+
+
+[Infographic: Nintendo Switch sales surpass 3DS predecessor](https://gulfnews.com/technology/gaming/infographic-nintendo-switch-sales-surpass-3ds-predecessor-1.1612678875667)
+
+
+> Latest News UAE Living In UAE Gulf Your Money Saving and Investment Budget Living Taxation Expert Columns Community Tips Business World Opinion Editorials Op-Eds Letters Off the Cuff Cartoons From the Editors Sport Entertainment Going Out Photos News Entertainment Readers' Photos Lifestyle Business Sports Parenting Pregnancy & Baby Learning & Play Child Health For Mums & Dads Ask Us Auto News Test Drives Car Culture Auto Care Lifestyle GN Reach Jobs Tech Electronics Gaming Trends Fin-Tech Media
+
+
+***
+![Airtel launches Safe Pay to combat online payment frauds](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/airtel_payments_bank_logo-483x271_1200_210207120509.jpeg "Airtel launches Safe Pay to combat online payment frauds")
+
+
+[Airtel launches Safe Pay to combat online payment frauds](https://www.indiatoday.in/technology/news/story/airtel-launches-safe-pay-to-combat-online-payment-frauds-1766765-2021-02-07)
+
+
+> Airtel has launched a new feature 'Safe Pay' for digital payments for all Airtel Payments Bank customers. It adds another layer of authentication to protect online transactions against cyber and banking frauds. Akarsh Verma | February 7, 2021 | Updated 11:44 IST
+
+
+***
+![Days After Blocking Facebook and Instagram, Myanmar's Army Has Now Blocked Twitter](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/aung-san-suu-kyi-483x271_1200_210207103512.jpeg "Days After Blocking Facebook and Instagram, Myanmar's Army Has Now Blocked Twitter")
+
+
+[Days After Blocking Facebook and Instagram, Myanmar's Army Has Now Blocked Twitter](https://www.indiatoday.in/technology/news/story/days-after-blocking-facebook-and-instagram-myanmar-s-army-has-now-blocked-twitter-1766745-2021-02-07)
+
+
+> Days after a coup and the detention of Aung San Suu Kyi and other elected leaders, the military regime in Myanmar is moving to block access to Facebook, Twitter, Instagram, and WhatsApp. Akarsh Verma | February 7, 2021 | Updated 10:10 IST
+
+
+***
+![Twitter India public policy director Mahima Kaul resigns](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/d5wi6gt-5c02e478-078a-4626-8ac-483x271_1200_210207110532.png "Twitter India public policy director Mahima Kaul resigns")
+
+
+[Twitter India public policy director Mahima Kaul resigns](https://www.indiatoday.in/technology/news/story/twitter-india-public-policy-director-mahima-kaul-resigns-1766749-2021-02-07)
+
+
+> According to people familiar with the matter, Mahima Kaul quit the microblogging website in the first week of January citing personal reasons. Akarsh Verma | February 7, 2021 | Updated 11:01 IST
+
+
