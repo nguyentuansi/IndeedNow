@@ -23821,3 +23821,50 @@
 > Thoughtful trinkets for every sweetheart. (Photo: Anthropologie)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Valentine's Day is one of those holidays that can really put on the pressure. Whether you've been in a relationship for years or are still in that honeymoon phase, it can be difficult to come up with the well sought after 'perfect gift.' Even worse, with less than one week to go, time is ticking.Get expert shopping advice delivered to your phone.
 
 
+***
+[Does Elon Musk think Bitcoin can help Tesla go to the moon?](https://filmdaily.co/tech/elon-musk-bitcoin-tesla/)
+
+
+> Tesla just invested in a lot of Bitcoin. Why did Elon Musk think this is a good idea? Here's why this happened. The post Does Elon Musk think Bitcoin can help Tesla go to the moon? appeared first on Film Daily.
+
+
+***
+![Hackers tampered with a water treatment facility in Florida by changing chemical levels](https://cdn.vox-cdn.com/thumbor/-7anLH6mzqX3wa7ObNDdVowy3nA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10005785/acastro_180109_1777_0001_v2.jpg "Hackers tampered with a water treatment facility in Florida by changing chemical levels")
+
+
+[Hackers tampered with a water treatment facility in Florida by changing chemical levels](https://www.theverge.com/2021/2/8/22273170/hackers-water-treatment-facility-florida-hacked-chemical-levels-changed)
+
+
+> Illustration by Alex Castro / The Verge Hackers successfully infiltrated the computer system controlling a water treatment facility in the city of Oldsmar, Florida, according to a report from the Tampa Bay Times . In doing so, the hackers were able to remotely control a computer to change the chemical levels of the water supply, increasing the amount of sodium hydroxide before a supervisor was able to catch the act in real time and revert the changes. 'At no time was there a significant adverse effect on the water being treated,' Pinellas County Sheriff Bob Gualtieri said during a press conference on Monday, which was later posted to YouTube .
+
+
+***
+![Facebook expands push to combat COVID-19 vaccine misinformation](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/facebook-cropped-958p.jpg?ve=1&tl=1 "Facebook expands push to combat COVID-19 vaccine misinformation")
+
+
+[Facebook expands push to combat COVID-19 vaccine misinformation](https://www.foxbusiness.com/technology/facebook-combatting-covid-19-vaccine-misinformation)
+
+
+> Facebook on Monday said it is running the "largest worldwide campaign" to combat misinformation surrounding COVID-19 vaccines, and to inform the public on where and when they can get vaccinated. Kang-Xing Jin, the head of health at Facebook, on Monday detailed the social media giant's efforts to help the public in regard to vaccines to protect against the novel coronavirus, saying its work is "similar to how we helped people find information about how to vote during elections." TWITTER TO EXPAND RULES TO COMBAT MISINFORMATION SURROUNDING COVID-19 VACCINES Facebook said it is giving $120 million in ad credits to help health ministries, NGOs and United Nations agencies to reach 'billions of people around the world' with COVID-19 vaccine and preventative health information.
+
+
+***
+![TV Ads Go Next Level With Surprise Merger](https://www.thestreet.com/.image/t_share/MTc4ODEyMjUzOTgwNTk5ODA3/maxresdefault-2.jpg "TV Ads Go Next Level With Surprise Merger")
+
+
+[TV Ads Go Next Level With Surprise Merger](https://www.thestreet.com/tech/news/magnitejdm020821)
+
+
+> (Veteran tech columnist Jon D. Markman publishes Strategic Advantage, a lively guide to investing in the digital transformation of business and society. Click here for a trial. I write a lot about television and advertising because something really big is happening. Tremendous fortunes are being earned as the monetization of media transitions from linear to connected. Magnite ( ( MGNI ) - Get Report ) managers announced Friday the $1.17 billion buyout of SpotX, a video and connected TV firm. Despite the extraordinary price, Magnite shares surged 26% to a record high.
+
+
+***
+![You can get an exclusive discount on the cult-loved Always Pan right now—here's how](https://www.gannett-cdn.com/presto/2021/02/08/USAT/10fffc08-75d5-44a9-938e-39c408b6369b-always-new.png?crop=807,454,x2,y0&width=1600&height=800&fit=bounds "You can get an exclusive discount on the cult-loved Always Pan right now—here's how")
+
+
+[You can get an exclusive discount on the cult-loved Always Pan right now—here's how](https://www.usatoday.com/story/tech/reviewedcom/2021/02/08/always-pan-get-exclusive-discount-cult-loved-pan/4434935001/)
+
+
+> Check out the new limited edition hue of this customer-loved pan.   (Photo: Our Place) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Cooking day after day during a busy workweek can be exhausting, to say the least— especially when you're a cooking newbie without all the proper tools on hand you'll need to whip up a delicious meal. Enter: the internet-famous Always Pan . Manufactured by Our Place, this multifunctional pan is designed to replace eight different pieces of traditional cookware in one handy piece.
+
+
