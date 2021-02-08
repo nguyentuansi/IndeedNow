@@ -23271,3 +23271,53 @@
 > Selling my EVGA GeForce RTX 3090 24GB FTW3 ULTRA as my 3090 KingPin is on its way! - used sporadically for the past weeks - bought from Inet, warranty + invoice available. Bid start: 20k * I am not planning to drag this add for too long, if I get the right offer I will release it quickly! As always, I reserve the right to sell to whom I want, when I want ... if I want no matter the bid. Accept only Swish. Shipping cost is covered by the buyer. * will make sure to pack the card as best as possible so it arrives in perfect shape.
 
 
+***
+![Biology  Free Full-Text](https://external-preview.redd.it/l_6pDFRVTzKKWjMe_oDQ6zD7pybvvcWcQqXTgwqsxWQ.jpg?auto=webp&s=e43e8b4ace3424d9c974b430ea042d7cc0275781 "Biology  Free Full-Text")
+
+
+[Biology  Free Full-Text](https://www.reddit.com/r/programming/comments/lezh2o/biology_free_fulltext_entropic_competition/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Amazon adding AI-equipped cameras to delivery vans to monitor safety, effectively turning their massive delivery fleet into an army of mobile Ring surveillance cameras](https://external-preview.redd.it/zv51i21OHnbTS--2TTDKIq0l9O744igaaQBaDJt7V-s.jpg?auto=webp&s=6d6d6c65665ab91cef2012eb40aeafa02416498b "Amazon adding AI-equipped cameras to delivery vans to monitor safety, effectively turning their massive delivery fleet into an army of mobile Ring surveillance cameras")
+
+
+[Amazon adding AI-equipped cameras to delivery vans to monitor safety, effectively turning their massive delivery fleet into an army of mobile Ring surveillance cameras](https://www.reddit.com/r/technology/comments/lezer9/amazon_adding_aiequipped_cameras_to_delivery_vans/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![B8.8bn HR fund plan promoted](https://static.bangkokpost.com/newdesign/assets/images/bg/tech/images_tech_1.jpg?v=0.1 "B8.8bn HR fund plan promoted")
+
+
+[B8.8bn HR fund plan promoted](https://www.bangkokpost.com/tech/2064263/b8-8bn-hr-fund-plan-promoted)
+
+
+> The government is establishing an 8.8-billion-baht fund for human resources development in higher education, focusing on advanced technology. The Higher Education, Science, Research and Innovation Policy Council chaired by Deputy Prime Minister Don Pramudwinai last Thursday approved the establishment of the fund, mainly to supply targeted S-curve industries. The government's 12 targeted S-curve industries comprise cars; smart electronics; affluent, medical and wellness tourism; agriculture and biotechnology; food; robotics for industry; logistics and aviation; biofuels and biochemicals; digital; medical services; defence; and education development.
+
+
+***
+![Here's how to watch the 2021 Super Bowl live stream from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/super-bowl-lv-image.jpg "Here's how to watch the 2021 Super Bowl live stream from anywhere")
+
+
+[Here's how to watch the 2021 Super Bowl live stream from anywhere](https://www.androidcentral.com/how-watch-super-bowl-online-free-live-stream-feb-7-update)
+
+
+> The biggest NFL game of the year, Super Bowl 2021, is set to take place todah in Tampa, Florida. This year the Kansas City Chiefs will be taking on the Tampa Bay Buccaneers. Whether you are attending a party, planning to stay home, or will be traveling (safely), one thing you may be wondering is how to watch the Super Bowl 2021 live stream. Well, there are a lot of different ways, and a lot to know about the ways to stream the Super Bowl live online. Whether you care about football or not, there is a whole lot to enjoy about the Super Bowl.
+
+
+***
+![How to watch Super Bowl 2021: live stream 1st quarter anywhere right now](https://cdn.mos.cms.futurecdn.net/KRWWWhvfxT2SKWpaXmGfRc-1200-80.jpg "How to watch Super Bowl 2021: live stream 1st quarter anywhere right now")
+
+
+[How to watch Super Bowl 2021: live stream 1st quarter anywhere right now](https://www.techradar.com/news/watch-super-bowl-live-stream-2021-free-online)
+
+
+> Super Bowl 2021 live updates: the Chiefs vs Buccaneers game is now under way at Raymond James Stadium with Kansas City currently leading 3-0 in the 1st quarter after a field goal. Read on for how to watch Super Bowl and live stream all the action as it happens - we'll also bring you regular updates including the latest Super Bowl score right here. The Super Bowl 2021 action is now under way at Raymond James Stadium as the Kansas City Chiefs look to repeat as champions against the Tampa Bay Buccaneers.
+
+
