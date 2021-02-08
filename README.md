@@ -23421,3 +23421,53 @@
 > Amazon's Alexa voice assistant is marking three years in India, and according to the company more customers in non-metro cities bought an Echo device, accounting for over 50 per cent of users in the country in 2020. Amazon also claimed that India's interactions with Alexa increased 67% last year. Further, customers asked Alexa to control a smart home gadget 8.6 lakh times every day. While ‘gana sunao‘ or ‘play a song' was the top request to Alexa at 17 lakh per day, there were some quirky ones as well from the audience in India.
 
 
+***
+![Review: Frendie Air Duo](https://www.itwire.com/media/k2/items/cache/741d01e31093abaad01f719d3baa96ec_XS.jpg "Review: Frendie Air Duo")
+
+
+[Review: Frendie Air Duo](https://www.itwire.com/computers-peripherals/review-frendie-air-duo.html)
+
+
+> We get our hands – and ears – on the Friendie Air Duo over-the-ear wireless headphones. Announced late last year, the Frendie Air Duo wireless headphones come from a company based in regional Victoria but are understandably made in China. Headphones are generally about listening to music, so let's start there. We tried the Air Duo with a variety of music genres and other content, and the results were very pleasing. There are to equaliser settings: 'bass boost' and 'chart music,' and we were somewhat surprised that it was so difficult to predict which we'd prefer for any particular track.
+
+
+***
+![Leaked OnePlus 9 Pro prototype reveals exciting camera upgrades](https://cdn.mos.cms.futurecdn.net/enpuYotP5p9euD5YyDquDF-1200-80.jpg "Leaked OnePlus 9 Pro prototype reveals exciting camera upgrades")
+
+
+[Leaked OnePlus 9 Pro prototype reveals exciting camera upgrades](https://www.techradar.com/news/leaked-oneplus-9-pro-prototype-reveals-exciting-camera-upgrades)
+
+
+> (Image credit: Aakash Jhaveri) The OnePlus 9 series is expected to be unveiled in about a month's time, but there's surprisingly a lot that is not known about them. A massive new leak reveals a partnership with the legendary camera manufacturer Hasselblad.In his latest video, YouTuber Dave2D shared images of a purported OnePlus 9 Pro supplied from a fan. It seems to have a different camera layout but the overall design language is similar to the previous leaks, leading him to believe that this might be our first look at the 9 Pro.
+
+
+***
+![Realme X7 Pro: ‘Dare to Leap' and dare to buy](https://www.thehindubusinessline.com/specials/technophile/3zrawp/article33779688.ece/ALTERNATES/LANDSCAPE_615/20210201133204 "Realme X7 Pro: ‘Dare to Leap' and dare to buy")
+
+
+[Realme X7 Pro: ‘Dare to Leap' and dare to buy](https://www.thehindubusinessline.com/specials/technophile/realme-x7-pro-dare-to-leap-and-dare-to-buy/article33779699.ece)
+
+
+> This year has started off industriously where smartphones are concerned. Realme, which did well for itself over 2020, has every intention of continuing the trend and has kicked off the season with two mid-range smartphones: the X7 5G and X7 Pro 5G, the second of which is with us for review. You can see that 5G is going to be a capability on mainstream phones this year and Realme is quite bullish on staying ahead of the curve on that front with its smartphones. Realme adds 6 more smartphones to UI 2.
+
+
+***
+![CoWIN info now available on Aarogya Setu app](https://cdn.mos.cms.futurecdn.net/A4Sm7yo8rNWTerC2RogtsB-1200-80.jpg "CoWIN info now available on Aarogya Setu app")
+
+
+[CoWIN info now available on Aarogya Setu app](https://www.techradar.com/news/cowin-info-now-available-on-aarogya-setu-app)
+
+
+> (Image credit: TV9) The Indian government is doing its best to make a success out of Co-WIN portal --- an cloud-based IT solution for the implementation and evaluation of the ongoing inoculation drive against Covid-19 in India.Soon after making clear that there was no mandatory need for Aadhaar for Co-WIN registration, the government has now integrated Co-WIN details with Aarogya Setu,  India's Covid-19 contact tracing app.This has been done to allow users to download their vaccination certificates.
+
+
+***
+![Google is the first tech giant to comply with new South Korean Internet law](https://image-prod.iol.co.za/resize/6283x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/6900db4f-afb4-5bb3-973c-68a6921bb1f2&operation=CROP&offset=0x652&resize=6283x3534 "Google is the first tech giant to comply with new South Korean Internet law")
+
+
+[Google is the first tech giant to comply with new South Korean Internet law](https://www.iol.co.za/technology/software-and-internet/google-is-the-first-tech-giant-to-comply-with-new-south-korean-internet-law-483ba881-5479-46f6-8007-160694c9589e)
+
+
+> Seoul - South Korea's ICT ministry said on Monday that tech giant Google will take measures to provide stable services, becoming the first company to come under the country's revised law that holds online content providers accountable for service errors.On December 14 last year, multiple Google services, including YouTube, Gmail and Google Calendar, went down for around an hour globally, prompting the Ministry of Science and ICT to look into the matter.According to the ministry, Google experienced an authentication system error for approximately 50 minutes that day as it did not allocate storage space for the system during a previous maintenance session.
+
+
