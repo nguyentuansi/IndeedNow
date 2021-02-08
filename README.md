@@ -23321,3 +23321,53 @@
 > Super Bowl 2021 live updates: the Chiefs vs Buccaneers game is now under way at Raymond James Stadium with Kansas City currently leading 3-0 in the 1st quarter after a field goal. Read on for how to watch Super Bowl and live stream all the action as it happens - we'll also bring you regular updates including the latest Super Bowl score right here. The Super Bowl 2021 action is now under way at Raymond James Stadium as the Kansas City Chiefs look to repeat as champions against the Tampa Bay Buccaneers.
 
 
+***
+![I choose the Intel MBP 13 over the M1. Anyone else make this decision?](https://images.macrumors.com/social/?t=2283759&v=6 "I choose the Intel MBP 13 over the M1. Anyone else make this decision?")
+
+
+[I choose the Intel MBP 13 over the M1. Anyone else make this decision?](https://forums.macrumors.com/threads/i-choose-the-intel-mbp-13-over-the-m1-anyone-else-make-this-decision.2283759/)
+
+
+> My 2013 MBP retina finally gave out (display works intermittently) so I needed a new computer. I ordered the MBP 13 with 2 ghz i5 today. A little bit of buyer's remorse is starting to set in. Just decided I can't live without Bootcamp even though I only use the Windows side 10% of the time. I thought about a Windows laptop. Tried the Dell XPS (terrible build quality) and MS Surface Laptop (awesome feeling laptops, but poor port selection, no thunderbolt, and slower processor compared to the MBP) at the store.
+
+
+***
+![Lazy load imports for jupyter notebooks](https://external-preview.redd.it/sPGXzo3p4Tr6xhmSpT8H9IvM9L9gEtOB1tzEvsBYLZA.jpg?auto=webp&s=682a943f44b5efe6d964ffd9e4b8e48988f322f7 "Lazy load imports for jupyter notebooks")
+
+
+[Lazy load imports for jupyter notebooks](https://www.reddit.com/r/Python/comments/lf17wk/lazy_load_imports_for_jupyter_notebooks/)
+
+
+> Usually, I have a ton of imports at the top of my notebooks which slows down my startup time. I created a dead-simple (less than 50 lines of code) jupyter extension that enables lazy imports, which only imports packages as needed. This enables rapid bootups and a faster workflow! Check it out here: https://github.com/jungerm2/JupyterLazyLoader Let me know what you think! Any help/contributions are welcome!
+
+
+***
+![How to watch Super Bowl 2021: live stream 3rd quarter from anywhere right now](https://cdn.mos.cms.futurecdn.net/87VGLjVicemUN4MkcfvRgb-1200-80.jpg "How to watch Super Bowl 2021: live stream 3rd quarter from anywhere right now")
+
+
+[How to watch Super Bowl 2021: live stream 3rd quarter from anywhere right now](https://www.techradar.com/news/watch-super-bowl-live-stream-2021-free-online)
+
+
+> Super Bowl 2021 live updates and latest score: we're under way in the 3rd quarter of the Chiefs vs Buccaneers game at Raymond James Stadium with the Bucs leading 28-9. Tom Brady connected with old buddy Gronk for two TDs and Antonio Brown for another to give Tampa the lead at the half - and Leonard Fournette rumbling for another in the 3rd quarter. Read on for how to watch Super Bowl and live stream all the action online as it happens - and we'll keeping bringing you regular Super Bowl LV updates all game long right here.
+
+
+***
+![Anyone able to use a Logitech USB camera with Big Sur?](https://images.macrumors.com/social/?t=2283756&v=6 "Anyone able to use a Logitech USB camera with Big Sur?")
+
+
+[Anyone able to use a Logitech USB camera with Big Sur?](https://forums.macrumors.com/threads/anyone-able-to-use-a-logitech-usb-camera-with-big-sur.2283756/)
+
+
+> Aug 16, 2007 1,140 559 Central FL Area I just bought a Logitech C920 to use with my 3D printer along with a Raspberry Pi. Everything works great on that end but I'd also like to be able to record video from my M1 MBA with Big Sur. I'm on the latest release 11.2 but I quickly discovered my newly purchased Logitech USB camera is literally useless to record video on my MBA. I went to Logitech's website and they do have some sort of software package that does activate the webcam when you're using this program.
+
+
+***
+![China fines Vipshop almost $500,000 for unfair competition acts](https://i-invdn-com.akamaized.net/news/LYNXMPEE2J1MY_L.jpg "China fines Vipshop almost $500,000 for unfair competition acts")
+
+
+[China fines Vipshop almost $500,000 for unfair competition acts](https://www.investing.com/news/technology-news/china-fines-vipshop-almost-500000-for-unfair-competition-acts-2411724)
+
+
+> No body in the article.
+
+
