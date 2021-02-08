@@ -23521,3 +23521,53 @@
 > Renesas Electronics said on Monday, February 8, it is in talks to buy Anglo-German chip designer Dialog Semiconductor for about $6 billion in cash, as the Japanese chipmaker looks to take advantage of the growing demand for automotive chips. Renesas, one of the world's biggest auto chip makers, said it has proposed to pay 67.50 euros a share for the Apple supplier, confirming an earlier statement from the Frankfurt-listed company. The talks come after Renesas and Dialog deepened ties in August with an agreement to cooperate in automotive computing platforms, while a global shortage of semiconductors has forced some car makers to curtail production plans.
 
 
+***
+![Struck with tutorials, I am really confused?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Struck with tutorials, I am really confused?")
+
+
+[Struck with tutorials, I am really confused?](https://www.reddit.com/r/Python/comments/lf8oqy/struck_with_tutorials_i_am_really_confused/)
+
+
+> Hi All, This is my first post, I have graduated in 2016 with an engineering background and started my career with customer support/ Client support today. I am totally frustrated with my job but I am interested in development stuff. I started learning python programming a year now and I am stuck with tutorials and I am really confused about what to do. Each time I sit down, I browse about dozen websites and watch 1/2 dozen videos to learn a topic but still, I confused? Please could anyone help me
+
+
+***
+![SoftBank's Son hails 'golden eggs' as Vision Fund rallies](https://i-invdn-com.akamaized.net/news/LYNXNPEA9D08K_L.jpg "SoftBank's Son hails 'golden eggs' as Vision Fund rallies")
+
+
+[SoftBank's Son hails 'golden eggs' as Vision Fund rallies](https://www.investing.com/news/technology-news/softbank-posts-thirdquarter-profit-gain-of-20-times-beating-estimates-2411801)
+
+
+> 2/2 © Reuters. SoftBank Corp's logo is pictured at a news conference in Tokyo 2/2 By Sam Nussey and Tim Kelly TOKYO (Reuters) - SoftBank Group Corp Chief Executive Masayoshi Son boasted of delivering "golden eggs" on Monday, after his company's Vision Fund unit rebounded from a loss to record an 844 billion yen ($8 billion) third quarter profit. The profit marks a sea change from a year earlier when high-profile misses such as the flopped IPO of office sharing firm WeWork and the COVID-19 pandemic forced Son to sell assets to stabilise his investing empire.
+
+
+***
+![Turning 8k video into epic portraits is just one of the reasons you&rsquo;ll love the new Galaxy S21 5G](https://cdn.mos.cms.futurecdn.net/X3QuHacPgxS7ADMrd5DHcd-1200-80.jpg "Turning 8k video into epic portraits is just one of the reasons you&rsquo;ll love the new Galaxy S21 5G")
+
+
+[Turning 8k video into epic portraits is just one of the reasons you&rsquo;ll love the new Galaxy S21 5G](https://www.techradar.com/news/turning-8k-video-into-epic-portraits-is-just-one-of-the-reasons-youll-love-the-new-galaxy-s21-5g)
+
+
+> (Image credit: Samsung) Samsung has launched the latest S Series, powered by the most advanced processor ever on a Galaxy device, stunning edge-to-edge 120Hz displays, and a large battery for uninterrupted productivity and entertainment. Many people are especially excited about Galaxy S21's epic pro-grade camera technology – an innovation that is set transform what you can do with a smartphone camera. One of the standout technologies is 8K Video Snap. For those who feel the need to use one smartphone for video and another for photos, this is a game-changer.
+
+
+***
+![Xiaomi Mi 11 release date, price, specs and features of the new Xiaomi phone](https://cdn.mos.cms.futurecdn.net/CTHPaRhiiQKDfqwboh2qP3-1200-80.jpg "Xiaomi Mi 11 release date, price, specs and features of the new Xiaomi phone")
+
+
+[Xiaomi Mi 11 release date, price, specs and features of the new Xiaomi phone](https://www.techradar.com/news/new-xiaomi-mi-11)
+
+
+> In just a few hours the Xiaomi Mi 11 gets its global launch, and that's when we'll find out all about the new handset's availability, pricing, and potential siblings it could have like the Mi 11 Pro. There's very little we have to find out about this new Xiaomi phone though, and you can find out most of the information on it below.We've got a guide on how to watch the Xiaomi Mi 11 live stream, if you want to view live everything the company has to show off - we'll be sure to cover all the important announcements though, if you'd rather catch up that way.
+
+
+***
+![ICON Launches FIRECREST Safety Letters and Site Question Management Supporting Regulatory Compliance and Increasing Site Support](https://mms.businesswire.com/media/20210208005046/en/622774/23/ICON_logo.jpg "ICON Launches FIRECREST Safety Letters and Site Question Management Supporting Regulatory Compliance and Increasing Site Support")
+
+
+[ICON Launches FIRECREST Safety Letters and Site Question Management Supporting Regulatory Compliance and Increasing Site Support](https://www.businesswire.com/news/home/20210208005046/en/ICON-Launches-FIRECREST-Safety-Letters-and-Site-Question-Management-Supporting-Regulatory-Compliance-and-Increasing-Site-Support)
+
+
+> February 08, 2021 04:30 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--ICON plc, (NASDAQ: ICLR) a global provider of drug development solutions and services to the pharmaceutical, biotechnology and medical device industries, today announced the release of two new digital solutions supporting clinical research sites and sponsors. The FIRECREST suite of digital clinical solutions are now integrated with the ICON Safety Reporting solution to enable electronic acknowledgement of safety letters by principal investigators, with full compliance tracking and dashboard reporting.
+
+
