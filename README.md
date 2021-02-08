@@ -23621,3 +23621,53 @@
 > Analyst claims that Apple may stop manufacturing the iPhone 12 mini due to weak demand in the second half of 2021. India Today Tech | February 8, 2021 | Updated 15:02 IST iPhone 12 mini launched in 2020
 
 
+***
+![Bitcoin hits record high after Tesla invests $1.5bn](https://www.telegraph.co.uk/content/dam/technology/2021/02/08/TELEMMGLPICT000249234119_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Bitcoin hits record high after Tesla invests $1.5bn")
+
+
+[Bitcoin hits record high after Tesla invests $1.5bn](https://www.telegraph.co.uk/technology/2021/02/08/british-bid-produce-apple-cars-no-brainer-say-mps/)
+
+
+> 2:02PM The electric car company's stake in Bitcoin is a "game changing move for the use of bitcoin from a transactional perpsective," said Webush analysts Daniel Ives and Ygal Arounian in a note.  They added:  This move could put more momentum into shares of Tesla as more investors start to value the company's bitcoin/crypto exposure as part of the overall valuation. Ultimately, investors and other industry watchers will be watching this closely to see if other corporations follow the lead of Tesla on this crypto path or on the other hand does it remain a contained few names that make this strategic jump around bitcoin.
+
+
+***
+![Farmers protest: Government orders Twitter to block over 1,100 accounts for spreading misinformation](https://images.financialexpress.com/2021/02/twitter-1200-1.jpg "Farmers protest: Government orders Twitter to block over 1,100 accounts for spreading misinformation")
+
+
+[Farmers protest: Government orders Twitter to block over 1,100 accounts for spreading misinformation](https://www.financialexpress.com/industry/technology/farmers-protest-government-orders-twitter-to-remove-over-1100-accounts-for-spreading-misinformation/2190583/)
+
+
+> The new order has now come even as the microblogging site is yet to completely comply with the older one.Twitter accounts in India: The Government of India has ordered microblogging site Twitter to block 1,178 accounts for allegedly spreading misinformation on farmers' protest. The Union IT Ministry gave Twitter a list of 1,178 accounts that were flagged by security agencies as having links with supporters of Pakistan or being run by Khalistan sympathisers. The Government said that the accounts were being operated from foreign territories, and were spreading misinformation as well as provocative content regarding the farmers' protest, causing a threat to the public order.
+
+
+***
+![These are the best smart locks that you can use with Alexa](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/07/august-smart-lock-hero.jpg "These are the best smart locks that you can use with Alexa")
+
+
+[These are the best smart locks that you can use with Alexa](https://www.androidcentral.com/best-smart-locks-support-amazon-alexa)
+
+
+> Source: Android Central Best Smart Locks that Support Amazon Alexa Android Central 2021 There are plenty of Alexa-enabled devices out there today, and making your home smarter and more secure is easier than ever with Amazon Alexa smart locks. One of the most significant conveniences in a home can come from installing a smart lock so that you never have to fish a key out again, and you can manage guests easier. These are the best smart locks that support Amazon's Alexa voice assistant, although our favorite is the August Smart Lock Pro, which is stylish, easy to install, and works with most smart homes.
+
+
+***
+![FINTECH.TV Completes Funding Round For Major Global Expansion Of Fintech, Crypto And ESG Content](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601ffd7f015da0a2852d90d8%2F0x0.jpg "FINTECH.TV Completes Funding Round For Major Global Expansion Of Fintech, Crypto And ESG Content")
+
+
+[FINTECH.TV Completes Funding Round For Major Global Expansion Of Fintech, Crypto And ESG Content](https://www.forbes.com/sites/lawrencewintermeyer/2021/02/08/fintechtv-completes-funding-round-for-major-global-expansion-of-fintech-crypto-and-esg-content/)
+
+
+> FINTECH.TV co-founders Vince Molinari, Kavita Gupta and Troy McGuire FINTECH.TV FINTECH.TV, the new entrant media platform focused on covering early stage fintech, crypto and digital assets, and sustainable investments, announced a multimillion-dollar funding round led by Brand Capital Management and followed by strategic investors Ibrahim Al Husseini, Kris Roil and Brace Young. The round will be dedicated to a global expansion with a major focus on India, Africa, the Middle East and the Nordics.
+
+
+***
+![Jiobit Builds on Award-Winning Formula, Offers Most Advanced Encrypted Location Tracking and Personal Safety Solution](https://mms.businesswire.com/media/20210208005101/en/857605/23/Jiobit_Logo_teal.jpg "Jiobit Builds on Award-Winning Formula, Offers Most Advanced Encrypted Location Tracking and Personal Safety Solution")
+
+
+[Jiobit Builds on Award-Winning Formula, Offers Most Advanced Encrypted Location Tracking and Personal Safety Solution](https://www.businesswire.com/news/home/20210208005101/en/Jiobit-Builds-on-Award-Winning-Formula-Offers-Most-Advanced-Encrypted-Location-Tracking-and-Personal-Safety-Solution)
+
+
+> February 08, 2021 09:00 AM Eastern Standard Time CHICAGO--(BUSINESS WIRE)--Jiobit today unveiled Jiobit Next, the next generation of its acclaimed location-based tracking and personal safety solution. Jiobit Next is thoughtfully engineered with improved accuracy, battery life, coverage, security, and reliability to ensure peace of mind no matter where your loved ones go. In 2018, Jiobit debuted the first-of-its-kind location tracking smart tag to customer and media accolades. It's the smallest and longest lasting real-time location monitor, and quickly became one of the most trusted, both for its ease of use and government-grade encryption and security.
+
+
