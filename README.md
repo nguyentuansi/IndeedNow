@@ -23471,3 +23471,53 @@
 > Seoul - South Korea's ICT ministry said on Monday that tech giant Google will take measures to provide stable services, becoming the first company to come under the country's revised law that holds online content providers accountable for service errors.On December 14 last year, multiple Google services, including YouTube, Gmail and Google Calendar, went down for around an hour globally, prompting the Ministry of Science and ICT to look into the matter.According to the ministry, Google experienced an authentication system error for approximately 50 minutes that day as it did not allocate storage space for the system during a previous maintenance session.
 
 
+***
+![Asosiasi Media Siber Indonesia (AMSI)](https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/anthony-wonsono-amsi-nih3.jpg "Asosiasi Media Siber Indonesia (AMSI)")
+
+
+[Asosiasi Media Siber Indonesia (AMSI)](https://www.tribunnews.com/tag/asosiasi-media-siber-indonesia-amsi)
+
+
+> TAG Halaman Techno Techno A-Z Index A-Z
+
+
+***
+![Vi Rs 399 postpaid plan now gives 150GB free data for the first six months, check benefits](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Screenshot_2021-02-02_at_5.02._0-647x363.png?vaR7q1Pw4d4TyZjVrNmaLvWG6AImTreD "Vi Rs 399 postpaid plan now gives 150GB free data for the first six months, check benefits")
+
+
+[Vi Rs 399 postpaid plan now gives 150GB free data for the first six months, check benefits](https://www.indiatoday.in/technology/news/story/vi-rs-399-postpaid-plan-now-gives-150gb-free-data-for-the-first-six-months-check-benefits-1767041-2021-02-08)
+
+
+> Vi is now offering 150GB additional data with the Rs 399 postpaid plan. The additional data benefit will be valid for six months from the date of subscription. The benefit is available to users who subscribe to the plan from Vi's website, myvi.in Vodafone Idea or Vi has brought in some benefits lately. It partnered with Viacom 18 to give users the benefits to Voot Select through Vi movies and TV. The telco also extended the weekend rollover benefits that lets users consume unused data over the weekend, and it gives the double data benefits that give users 4GB data per day.
+
+
+***
+![The PS5's DualSense controller has 40,000 tiny hand-sketched PlayStation symbols for grip](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/201106-Sony-PS5-DualSense-controller-3-768x432-seo.jpg "The PS5's DualSense controller has 40,000 tiny hand-sketched PlayStation symbols for grip")
+
+
+[The PS5's DualSense controller has 40,000 tiny hand-sketched PlayStation symbols for grip](https://www.soyacincau.com/2021/02/08/sony-playstation-5-dualsense-controller-easter-egg/)
+
+
+> From the original DualShock controller, every new gamepad has seen significant improvements — right up to the DualSense controller that comes with the PlayStation 5. — SoyaCincau pic KUALA LUMPUR, Feb 8 — Sony's gamepads for their PlayStation consoles have been legendary in their own right. From the original DualShock controller, every new gamepad has seen significant improvements — right up to the DualSense controller that comes with the  PlayStation 5 . Sony's latest gamepad comes with a bunch of adaptive triggers and vibrating motors that are supposed to deliver a more immersive feel to games compared to its predecessors.
+
+
+***
+![Microsoft launches cross-platform password autofill feature on iOS, macOS and Google Chrome](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/201218-Microsoft-Authenticator-Password-Manager-1-768x432-seo.jpg "Microsoft launches cross-platform password autofill feature on iOS, macOS and Google Chrome")
+
+
+[Microsoft launches cross-platform password autofill feature on iOS, macOS and Google Chrome](https://www.soyacincau.com/2021/02/08/microsoft-launches-coss-platform-password-autofill-feature-on-ios-macos-and-google-chrome/)
+
+
+> The Redmond tech giant has made it available to all users through the Microsoft Authenticator app. It is also available via an extension for Google Chrome. — Picture via SoyaCincau KUALA LUMPUR, Feb 8 — ­ Don't you hate having to memorise multiple passwords for all the different websites, apps, accounts and services that you use? Fortunately,  Microsoft  has launched its Autofill solution. The Redmond tech giant has made it available to all users through the Microsoft Authenticator app. It is also available via an extension for  Google Chrome .
+
+
+***
+![Renesas says it's in talks to buy chip designer Dialog for $6 billion](https://assets2.rappler.com/2021/02/reuters-20210208-renesas-2021-02-07T152731Z_360589249_RC2RNL9CK2W3_RTRMADP_3_DIALOG-M-A-RENESAS-1612769568589.jpg "Renesas says it's in talks to buy chip designer Dialog for $6 billion")
+
+
+[Renesas says it's in talks to buy chip designer Dialog for $6 billion](https://www.rappler.com/technology/renesas-in-talks-buy-chip-designer-dialog)
+
+
+> Renesas Electronics said on Monday, February 8, it is in talks to buy Anglo-German chip designer Dialog Semiconductor for about $6 billion in cash, as the Japanese chipmaker looks to take advantage of the growing demand for automotive chips. Renesas, one of the world's biggest auto chip makers, said it has proposed to pay 67.50 euros a share for the Apple supplier, confirming an earlier statement from the Frankfurt-listed company. The talks come after Renesas and Dialog deepened ties in August with an agreement to cooperate in automotive computing platforms, while a global shortage of semiconductors has forced some car makers to curtail production plans.
+
+
