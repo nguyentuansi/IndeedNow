@@ -23371,3 +23371,53 @@
 > No body in the article.
 
 
+***
+![Hyundai Motor, Kia say they are not in talks with Apple on autonomous car development](https://assets2.rappler.com/2021/01/reuters-012921-apple-1612750746739.jpg "Hyundai Motor, Kia say they are not in talks with Apple on autonomous car development")
+
+
+[Hyundai Motor, Kia say they are not in talks with Apple on autonomous car development](https://www.rappler.com/technology/hyundai-motor-kia-say-not-in-talks-apple-autonomous-car-development)
+
+
+> South Korea's Hyundai Motor Co and Kia Corp said on Monday, February 8, they are not in talks with Apple Inc on developing autonomous vehicles, sending their shares tumbling. In early January, Korea Economic Daily TV reported Apple and Hyundai were in discussions to develop self-driving electric vehicles by 2027 and develop batteries at US factories operated by either Hyundai or its affiliate Kia Corp. Shares of Hyundai and Kia were trading down 6.8% and 13.6% respectively as of 0016 GMT versus the broader market KOSPI's 0.
+
+
+***
+![Techbond rises 21% to all-time high on bonus issue plan](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dtKJS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Techbond rises 21% to all-time high on bonus issue plan")
+
+
+[Techbond rises 21% to all-time high on bonus issue plan](http://www.theedgemarkets.com/article/techbond-rises-21-alltime-high-bonus-issue-plan)
+
+
+> © Provided by The Edge KUALA LUMPUR (Feb 8): Shares in global industrial adhesive manufacturer Techbond Group Bhd jumped as much as 21% to its all-time high this morning. At 9.31am, Techbond was up 11.33% or 17 sen to RM1.67 with 8.92 million shares traded. The stock had earlier risen to a high of RM1.82. Techbond last Friday had proposed to undertake a bonus issue of up to 431.25 million new shares on the basis of five bonus shares for every four existing shares, with the entitlement date to be determined later.
+
+
+***
+![Some government officials reportedly now using Sandes, a desi WhatsApp alternative](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/sandes-app-483x271_1200_210208090538.jpeg "Some government officials reportedly now using Sandes, a desi WhatsApp alternative")
+
+
+[Some government officials reportedly now using Sandes, a desi WhatsApp alternative](https://www.indiatoday.in/technology/news/story/some-government-officials-reportedly-now-using-sandes-a-desi-whatsapp-alternative-1766937-2021-02-08)
+
+
+> The Sandes messaging app is currently available to ministry officials. The government of India hinted working on WhatsApp-like chat app last year. India Today Tech | February 8, 2021 | Updated 08:46 IST Sandes, a desi alternative to WhatsApp for government officials.
+
+
+***
+![Alexa completes 3 years in India, interaction with voice assistant increased by 67 per cent in 2020](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/amazon-alexa-speaker-press-483x271_1200_210208090526.jpeg "Alexa completes 3 years in India, interaction with voice assistant increased by 67 per cent in 2020")
+
+
+[Alexa completes 3 years in India, interaction with voice assistant increased by 67 per cent in 2020](https://www.indiatoday.in/technology/news/story/alexa-completes-3-years-in-india-interaction-with-voice-assistant-increased-by-67-per-cent-in-2020-1766939-2021-02-08)
+
+
+> Three years ago, Amazon launched the Alexa digital voice assistant in India. The Alexa powered speakers can now interact in English, Hindi, and Hinglish. India Today Tech | February 8, 2021 | Updated 08:58 IST Amazon's Alexa voice assistant is now 3 years old
+
+
+***
+![Amazon's Alexa marks 3 years in India: Non-metros account for 50 per cent of user base](https://images.indianexpress.com/2021/02/Echo_Studio_NEW.jpg "Amazon's Alexa marks 3 years in India: Non-metros account for 50 per cent of user base")
+
+
+[Amazon's Alexa marks 3 years in India: Non-metros account for 50 per cent of user base](https://indianexpress.com/article/technology/tech-news-technology/amazons-alexa-marks-3-years-in-india-non-metros-account-for-50-per-cent-of-user-base-7179218/)
+
+
+> Amazon's Alexa voice assistant is marking three years in India, and according to the company more customers in non-metro cities bought an Echo device, accounting for over 50 per cent of users in the country in 2020. Amazon also claimed that India's interactions with Alexa increased 67% last year. Further, customers asked Alexa to control a smart home gadget 8.6 lakh times every day. While ‘gana sunao‘ or ‘play a song' was the top request to Alexa at 17 lakh per day, there were some quirky ones as well from the audience in India.
+
+
