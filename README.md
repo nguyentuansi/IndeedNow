@@ -23771,3 +23771,53 @@
 > In February 2019 we launched Extra Crunch to help founders and startup teams get ahead, and this week we're celebrating its two-year anniversary. Since Extra Crunch is turning 2, we're offering a limited-time deal on 2-year membership plans. From now until February 15, new users signing up for Extra Crunch in the U.S. can get a 2 year membership plan for $150 plus tax (normally priced at $189). Readers outside the US will also see similar discounts. Get a 2-year Extra Crunch membership for $150 here.
 
 
+***
+![Are you in love with photography? Check out these top camera smartphones](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/iphone-11-water-1024x576-483x271_1200_210208231415.jpeg "Are you in love with photography? Check out these top camera smartphones")
+
+
+[Are you in love with photography? Check out these top camera smartphones](https://www.indiatoday.in/technology/news/story/are-you-in-love-with-photography-check-out-these-top-camera-smartphones-1767231-2021-02-08)
+
+
+> Cameras on smartphones have become quite powerful and come with a variety of lenses. In this article, we list for you the smartphones with great cameras. February 8, 2021 | Updated 23:03 IST
+
+
+***
+![Is there some way to allow the user to upload images using Tkinter or some other compatible library?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Is there some way to allow the user to upload images using Tkinter or some other compatible library?")
+
+
+[Is there some way to allow the user to upload images using Tkinter or some other compatible library?](https://www.reddit.com/r/Python/comments/lfkeay/is_there_some_way_to_allow_the_user_to_upload/)
+
+
+> So, I am making a program that allows you to design a fictional nation, and I want the user to upload their own flag. Is there a way to do this, and if so, how?
+
+
+***
+![Facebook says it'll ban anti-vax content, again](https://mondrian.mashable.com/2021%252F02%252F08%252F1a%252Fb8a61bc92c154d6d947a82dcf05358c3.bd817.png%252F1200x630.png?signature=YDatjL7cR5tzAJksMzmri9RVvbk= "Facebook says it'll ban anti-vax content, again")
+
+
+[Facebook says it'll ban anti-vax content, again](https://mashable.com/article/facebook-anti-vaccine/)
+
+
+> If at first you don't succeed, keep telling people that you're trying again. Facebook announced Monday that, over a year into a pandemic that has killed more than 460,000 people in the U.S. alone, it intends to do more about the pervasive anti-vaccine content sloshing across its platform. Specifically, the social media giant said it will remove a specific set of false claims about both COVID-19 and vaccines.  Of course, we've heard this promise before. In March 2019, before the coronavirus pandemic, Facebook promised to crack down on anti-vaccine content.
+
+
+***
+![Great opportunity to contribute to open project!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Great opportunity to contribute to open project!")
+
+
+[Great opportunity to contribute to open project!](https://www.reddit.com/r/Python/comments/lfk3jm/great_opportunity_to_contribute_to_open_project/)
+
+
+> Looking for indviduals to contribute to a cool project, there is no requirement to commit to it just check in now and again and contribute at your own pace --> The final idea is to have a 3D app that shows where planets, iss ect are according to earth. The app will also be able to predict the path of these planets and objects, this allowing for a user to input a location and find when and where they can see these. It will be similar to Stellarium and Star Walk 2 though will have some additional
+
+
+***
+![15 amazing Valentine's Day gifts you can get at Anthropologie](https://www.gannett-cdn.com/presto/2021/02/08/USAT/2767f4a8-e0dd-4378-8082-619e82962a30-anthro-gifts-hero.jpg?crop=1593,896,x6,y0&width=1600&height=800&fit=bounds "15 amazing Valentine's Day gifts you can get at Anthropologie")
+
+
+[15 amazing Valentine's Day gifts you can get at Anthropologie](https://www.usatoday.com/story/tech/reviewedcom/2021/02/08/15-amazing-valentines-day-gifts-you-can-get-anthropologie/4439139001/)
+
+
+> Thoughtful trinkets for every sweetheart. (Photo: Anthropologie)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Valentine's Day is one of those holidays that can really put on the pressure. Whether you've been in a relationship for years or are still in that honeymoon phase, it can be difficult to come up with the well sought after 'perfect gift.' Even worse, with less than one week to go, time is ticking.Get expert shopping advice delivered to your phone.
+
+
