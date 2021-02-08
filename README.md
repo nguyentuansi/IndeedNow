@@ -23571,3 +23571,53 @@
 > February 08, 2021 04:30 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--ICON plc, (NASDAQ: ICLR) a global provider of drug development solutions and services to the pharmaceutical, biotechnology and medical device industries, today announced the release of two new digital solutions supporting clinical research sites and sponsors. The FIRECREST suite of digital clinical solutions are now integrated with the ICON Safety Reporting solution to enable electronic acknowledgement of safety letters by principal investigators, with full compliance tracking and dashboard reporting.
 
 
+***
+![WhatsApp working on feature that will let users mute videos before sharing with contacts](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Screenshot_2021-02-08_at_5.31.-647x363.png?FLV3lZgzM6cfaj31Djyc5cjU.z87XGyt "WhatsApp working on feature that will let users mute videos before sharing with contacts")
+
+
+[WhatsApp working on feature that will let users mute videos before sharing with contacts](https://www.indiatoday.in/technology/news/story/whatsapp-working-on-feature-that-will-let-users-mute-videos-before-sharing-with-contacts-1767143-2021-02-08)
+
+
+> WhatsApp is testing a feature that will let users mute videos before they share them with a contact. According to reports, the videos to be shared can be muted by tapping on the volume button in the section where users edit the video. The feature, mute videos, is now available to use on beta version 2.21.3.13 for Android. WhatsApp is testing a feature that will let users mute videos before sharing them with their contacts. The feature, called the mute videos feature is now available to use on beta version 2.
+
+
+***
+![Iran 'hides spyware in wallpaper, restaurant and games apps'](https://ichef.bbci.co.uk/news/1024/branded_news/7BF8/production/_116863713_checkpoint.jpg "Iran 'hides spyware in wallpaper, restaurant and games apps'")
+
+
+[Iran 'hides spyware in wallpaper, restaurant and games apps'](https://www.bbc.com/news/technology-55977537)
+
+
+> Gordon Corera Security correspondent, BBC News @gordoncorera on Twitter image copyright Check Point image caption Check Point said spyware was hidden in restaurant and wallpaper apps, among others Iran is running two surveillance operations in cyber-space, targeting more than 1,000 dissidents, according to a leading cyber-security company. The efforts were directed against individuals in Iran and 12 other countries, including the UK and US, Check Point said. It said the two groups involved were using new techniques to install spyware on targets' PCs and mobile devices.
+
+
+***
+![Genius iPhone trick lets you screenshot an ENTIRE page – here's how to do it](https://www.thesun.co.uk/wp-content/uploads/2021/02/iphonegrab00.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Genius iPhone trick lets you screenshot an ENTIRE page – here's how to do it")
+
+
+[Genius iPhone trick lets you screenshot an ENTIRE page – here's how to do it](https://www.thesun.co.uk/tech/13982310/iphone-how-to-screenshot-full-entire-page-screengrab/)
+
+
+> WANT to screenshot an entire page on an iPhone? It's possible! Normally screen grabs only capture what's on your page at a given time. You can capture full-page screenshots on iPhoneCredit: The Sun But there's a clever trick that lets you save the entire page in one go. Of course, the file will be very long – as long as the original page. So it'll be vertically tall and will require a fair bit of scrolling, just like a regular web-page. First, make sure you've updated your iPhone to the latest iOS 14 software.
+
+
+***
+![Try these top studio monitors for more accurate sound perfect for your recording sessions](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/webp_1200_210208171425.net-resizeimage_4_-483x271.jpeg "Try these top studio monitors for more accurate sound perfect for your recording sessions")
+
+
+[Try these top studio monitors for more accurate sound perfect for your recording sessions](https://www.indiatoday.in/technology/news/story/try-these-top-studio-monitors-for-more-accurate-sound-perfect-for-your-recording-sessions-1767115-2021-02-08)
+
+
+> Studio monitors are powered or active speakers that have a power amplifier built into the speaker. These contain not just one but several power amplifiers which results in a much more accurate and punchier dynamic response. Having dedicated power amplifiers for each speaker also makes it easier to build top quality crossovers. As a result studio monitors deliver more accurate sounds and are optimal for recording or editing audio and music. If you are considering buying a studio monitor for mixing or editing your music, in this article we bring for you the top studio monitors you can buy in India.
+
+
+***
+![Apple iPhone 12 mini manufacturing could be stopped in coming months due to low demand](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/iphone12mini-it-483x271_1200_210208151427.jpeg "Apple iPhone 12 mini manufacturing could be stopped in coming months due to low demand")
+
+
+[Apple iPhone 12 mini manufacturing could be stopped in coming months due to low demand](https://www.indiatoday.in/technology/news/story/apple-iphone-12-mini-manufacturing-could-be-stopped-in-coming-months-due-to-low-demand-1767076-2021-02-08)
+
+
+> Analyst claims that Apple may stop manufacturing the iPhone 12 mini due to weak demand in the second half of 2021. India Today Tech | February 8, 2021 | Updated 15:02 IST iPhone 12 mini launched in 2020
+
+
