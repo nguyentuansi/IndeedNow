@@ -23671,3 +23671,53 @@
 > February 08, 2021 09:00 AM Eastern Standard Time CHICAGO--(BUSINESS WIRE)--Jiobit today unveiled Jiobit Next, the next generation of its acclaimed location-based tracking and personal safety solution. Jiobit Next is thoughtfully engineered with improved accuracy, battery life, coverage, security, and reliability to ensure peace of mind no matter where your loved ones go. In 2018, Jiobit debuted the first-of-its-kind location tracking smart tag to customer and media accolades. It's the smallest and longest lasting real-time location monitor, and quickly became one of the most trusted, both for its ease of use and government-grade encryption and security.
 
 
+***
+![After its $1.5bn Bitcoin buy, can Tesla still claim to be green?](https://www.telegraph.co.uk/content/dam/technology/2020/12/17/TELEMMGLPICT000244730604_trans_NvBQzQNjv4Bq4GoSUj5tx--cOXjJHDSbw8HVFIRe1LfTRcFJro6tXCE.jpeg?impolicy=logo-overlay "After its $1.5bn Bitcoin buy, can Tesla still claim to be green?")
+
+
+[After its $1.5bn Bitcoin buy, can Tesla still claim to be green?](https://www.telegraph.co.uk/technology/2021/02/08/15bn-bitcoin-buy-can-tesla-still-claim-green/)
+
+
+> But he may also lose environmental points. Bitcoin is notoriously dirty. There is a hefty electricity bill from digitally mining the currency by getting supercomputers to carry out a series of impossibly complicated calculations. The currency's carbon output, according to one calculation, is equivalent to New Zealand's . It is an odd look for a company that still relies on selling environmental credits to more polluting car companies to turn a profit to be putting those profits back into something that is widely criticised as environmentally unfriendly.
+
+
+***
+![Tesla backs Bitcoin with $1.5 billion investment](https://www.telegraph.co.uk/content/dam/technology/2021/02/08/TELEMMGLPICT000250034228_trans_NvBQzQNjv4BqkZdGXfzOPVSbO-9sH583RFqaPefEGY05nXXPGqlPqGQ.jpeg?impolicy=logo-overlay "Tesla backs Bitcoin with $1.5 billion investment")
+
+
+[Tesla backs Bitcoin with $1.5 billion investment](https://www.telegraph.co.uk/technology/2021/02/08/tesla-backs-bitcoin-15-billion-investment/)
+
+
+> The investment is not sudden. For months, Tesla chief executive Elon Musk has been generating frenzied interest in Bitcoin and another cryptocurrency, Dogecoin, by posting enigmatic comments on his Twitter account.  In late January, when Musk changed his Twitter profile to include the hashtag '#bitcoin', the cryptocurrency surged by up to 16pc. On Monday, Musk's Tweets about Dogecoin saw the coin rally 65pc in 24 hours to a record high. However Goodman emphasised that Bitcoin is an erratic and risky investment.
+
+
+***
+![Cellcom Israel Announces Israeli Minister of Communications Approval for Hot Group to Join IBC](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Cellcom Israel Announces Israeli Minister of Communications Approval for Hot Group to Join IBC")
+
+
+[Cellcom Israel Announces Israeli Minister of Communications Approval for Hot Group to Join IBC](https://seekingalpha.com/pr/18182618-cellcom-israel-announces-israeli-minister-of-communications-approval-for-hot-group-to-join)
+
+
+> NETANYA, Israel , Feb. 8, 2021 /PRNewswire/ -- Cellcom Israel Ltd. ( CEL ) (TASE: CEL) (hereinafter: the "Company") announced today that following its previous announcement regarding an investment transaction between the Company, the Israel Infrastructure Fund and Hot Telecommunication Systems Ltd. in IBC Israel Broadband (2013) Ltd., or IBC, the Israeli Minister of Communications, or MOC, granted its approval for the transaction, which completes the regulatory approvals and changes required for the completion of the transaction.
+
+
+***
+![Cellcom says Hot joins Israel Broadband partnership (NYSE:CEL)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Cellcom says Hot joins Israel Broadband partnership (NYSE:CEL)")
+
+
+[Cellcom says Hot joins Israel Broadband partnership (NYSE:CEL)](https://seekingalpha.com/news/3614269-cellcom-says-hot-joins-israel-broadband-partnership)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Twitter, Inc. (TWTR) Earnings Report](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Twitter, Inc. (TWTR) Earnings Report")
+
+
+[Twitter, Inc. (TWTR) Earnings Report](https://seekingalpha.com/symbol/TWTR/earnings)
+
+
+> No body in the article.
+
+
