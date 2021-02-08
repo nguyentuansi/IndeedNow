@@ -23721,3 +23721,53 @@
 > No body in the article.
 
 
+***
+![Samsung Galaxy S21: Your complete buyer's guide to the new S21 series](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/samsung-galaxy-s21-series-2.jpg "Samsung Galaxy S21: Your complete buyer's guide to the new S21 series")
+
+
+[Samsung Galaxy S21: Your complete buyer's guide to the new S21 series](https://www.androidcentral.com/samsung-galaxy-s21)
+
+
+> Source: Android Central There are some things in the mobile tech space that are a given every single year, one of which is that we get a new Samsung Galaxy S release pretty early on. That's no different for 2021, but rather than waiting until March or April like it usually does, Samsung's launching its next big flagship right now. The Samsung Galaxy S21 brings a mix of expected and drastic changes compared to last year's S20 family, including things like spec upgrades, a refreshed design, and all-new camera tech.
+
+
+***
+![How to enable both 120Hz and Quad HD+ on your Samsung Galaxy S21 Ultra](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/galaxy-s21-ultra-review-9.jpg "How to enable both 120Hz and Quad HD+ on your Samsung Galaxy S21 Ultra")
+
+
+[How to enable both 120Hz and Quad HD+ on your Samsung Galaxy S21 Ultra](https://www.androidcentral.com/how-enable-both-120hz-and-quad-hd-your-samsung-galaxy-s21-ultra)
+
+
+> Source: Hayato Huseman / Android Central Most of the best Samsung phones these days are equipped with a buttery-smooth 120Hz display, but to enjoy that high refresh rate, you've typically been limited to a 1080p maximum resolution. With the Galaxy S21 Ultra, one of the biggest improvements Samsung made to the display is running in both Quad HD+ and 120Hz at the same time. It makes an already incredible screen look even better, but you'll need to manually enable this combination in the settings. Products used in this guide How to enable Quad HD+ and 120Hz Open the Settings app.
+
+
+***
+![My opinion on blockchain](https://external-preview.redd.it/qG-5xNVp-Ds0MySJEE06n9yu0u1awH-udJjLLv6ogJ4.jpg?auto=webp&s=688977e40e0f594867b8ddee0c7ab712af0a288e "My opinion on blockchain")
+
+
+[My opinion on blockchain](https://www.reddit.com/r/programming/comments/lfhekj/my_opinion_on_blockchain/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Google Hints First Android 12 Developer Preview Could Be Coming Soon](https://www.androidheadlines.com/wp-content/uploads/2021/02/android-12-feedback-app.jpg "Google Hints First Android 12 Developer Preview Could Be Coming Soon")
+
+
+[Google Hints First Android 12 Developer Preview Could Be Coming Soon](https://www.androidheadlines.com/2021/02/google-hints-first-android-12-developer-preview-could-be-coming-soon.html)
+
+
+> While Android 11 is yet to arrive on several Android phones, Google could soon open doors for Android 12. As per 9To5Google, Google's Android Beta Feedback app is recently updated for Android 12.Though Android 11 did not bring many aesthetic changes to the table, it surely packs a bunch of minor tweaks and treatment to already available features. Making them more competent and useful for the user.Notably, Google released the first Android Developer Preview of Android 11 back on February 19, 2020.
+
+
+***
+![Anniversary Sale: Save on 2-year Extra Crunch membership – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/02/ec-turns-two1.jpg?w=753 "Anniversary Sale: Save on 2-year Extra Crunch membership – TechCrunch")
+
+
+[Anniversary Sale: Save on 2-year Extra Crunch membership – TechCrunch](https://techcrunch.com/2021/02/08/anniversary-sale-save-on-2-year-extra-crunch-membership/)
+
+
+> In February 2019 we launched Extra Crunch to help founders and startup teams get ahead, and this week we're celebrating its two-year anniversary. Since Extra Crunch is turning 2, we're offering a limited-time deal on 2-year membership plans. From now until February 15, new users signing up for Extra Crunch in the U.S. can get a 2 year membership plan for $150 plus tax (normally priced at $189). Readers outside the US will also see similar discounts. Get a 2-year Extra Crunch membership for $150 here.
+
+
