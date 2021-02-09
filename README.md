@@ -24112,3 +24112,53 @@
 > Xiaomi had announced the updated MIUI 12.5 during the China launch of Mi 11 in December last year. It has announced the same for the global markets along with the details of roll out. India Today Tech | February 9, 2021 | Updated 12:42 IST The roll out plan was launched during the launch of Mi 11.
 
 
+***
+![TechnipFMC Announces Approval of the European Prospectus Relating to the Listing of Technip Energies Shares on Euronext Paris](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "TechnipFMC Announces Approval of the European Prospectus Relating to the Listing of Technip Energies Shares on Euronext Paris")
+
+
+[TechnipFMC Announces Approval of the European Prospectus Relating to the Listing of Technip Energies Shares on Euronext Paris](https://www.benzinga.com/pressreleases/21/02/b19555923/technipfmc-announces-approval-of-the-european-prospectus-relating-to-the-listing-of-technip-energi)
+
+
+> Regulatory News: TechnipFMC plc (NYSE: FTI ) (Paris:FTI) (ISIN:GB00BDSFG982) today announced that the Dutch Authority for the Financial Markets ( Stichting Autoriteit Financiële Markten ) has approved the prospectus relating to the admission to listing and trading of the shares of Technip Energies N.V. ("Technip Energies") on the regulated market of Euronext Paris (the "European Prospectus") in connection with its announced separation into two industry-leading, independent, publicly traded companies in the form of a share dividend to TechnipFMC shareholders of a 50.
+
+
+***
+![Telegram becomes most downloaded messaging app of January 2021](https://sm.mashable.com/t/mashable_pk/news/t/telegram-b/telegram-blocks-dozens-of-channels-calling-for-violence_dnua.1200.jpg "Telegram becomes most downloaded messaging app of January 2021")
+
+
+[Telegram becomes most downloaded messaging app of January 2021](https://pk.mashable.com/tech/7609/telegram-becomes-most-downloaded-messaging-app)
+
+
+> The instant messaging app Telegram has emerged as the most downloaded non-gaming app around the world in January 2021, as revealed in the latest research by market intelligence and insights firm, Sensor Tower. As per the details from the research, the app recorded 63 million installs, 3.8 times more than the numbers recorded in January 2020. The country in which the app was installed the most is India at 24 per cent, followed by Indonesia at 10 per cent. The spike in the popularity of the messaging app and the number of downloads is the result of new privacy policy released by WhatsApp which raised grave privacy concerns around the world.
+
+
+***
+![The best WiFi extenders to boost your internet signal](https://www.telegraph.co.uk/content/dam/recommended/2020/12/18/best-wifi-extenders-xlarge_trans_NvBQzQNjv4BqRvWuXRoyXH06MlN48h-OyJYVzYu0U7MuQFQXJwvivAI.png?imwidth=1200 "The best WiFi extenders to boost your internet signal")
+
+
+[The best WiFi extenders to boost your internet signal](https://www.telegraph.co.uk/recommended/tech/best-wifi-extenders-boost-internet-signal/)
+
+
+> WiFi boosters help your internet signal travel around the house Having a good, reliable WiFi signal at home has never been more important. Increasingly, we depend on the internet in every room in the house, to connect our smart devices, be they phones, tables or toasters. With home working from becoming the norm, there's more need than ever for a reliable laptop, as well as a separate keyboard, wireless mouse and printer to complete the 'home office' setup. Add in your gaming setup (or your children's) and an excellent internet connection is essential.
+
+
+***
+![What is cryptocurrency, how does it work and why do we use it?](https://www.telegraph.co.uk/content/dam/technology/2017/11/29/TELEMMGLPICT000147891064_trans_NvBQzQNjv4Bqg5ozdfdQpDHsa6AO6OAwntrZ8AT8rEjx8lVL6PQ1GCU.jpeg?impolicy=logo-overlay "What is cryptocurrency, how does it work and why do we use it?")
+
+
+[What is cryptocurrency, how does it work and why do we use it?](https://www.telegraph.co.uk/technology/0/what-cryptocurrency-why-how-work-bitcoin-ethereum/)
+
+
+> Cryptocurrency is a kind of digital money that is designed to be secure and, in many cases, anonymous.  It is a currency associated with the internet that uses cryptography, the process of converting legible information into an almost uncrackable code, to track purchases and transfers. Cryptography was born out of the need for secure communication, but it has evolved in the digital era with elements of mathematical theory and computer science to become a way to secure communications, information and money online.
+
+
+***
+![Passenger vehicle retail sales dip 4% in January as semiconductor shortage impacts vertical: FADA](https://images.moneycontrol.com/static-mcnews/2020/01/Auto-1-770x433.png "Passenger vehicle retail sales dip 4% in January as semiconductor shortage impacts vertical: FADA")
+
+
+[Passenger vehicle retail sales dip 4% in January as semiconductor shortage impacts vertical: FADA](https://www.moneycontrol.com/news/technology/auto/passenger-vehicle-retail-sales-dip-4-in-january-as-semiconductor-shortage-impacts-vertical-fada-6477341.html)
+
+
+> Automobile dealers' body FADA on Tuesday said passenger vehicle (PV) retail sales in January witnessed a year-on-year decline of 4.46 percent to 2,81,666 units, as semiconductor shortage impacted the segment.According to the Federation of Automobile Dealers Associations (FADA), which collected vehicle registration data from 1,273 out of the 1,480 regional transport offices (RTOs), PV sales stood at 2,94,817 units in January 2020.Two-wheeler sales declined 8.78 percent to 11,63,322 units last month, as compared to 12,75,308 units in January 2020.
+
+
