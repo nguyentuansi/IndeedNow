@@ -24296,3 +24296,50 @@
 > EPIC Games is about to drop some major discounts on amazing PC titles. This year’s Epic Games Store Spring Sale begins later this week – and includes savings on Assassin’s Creed Valhalla and Cyberpunk 2077. What is the Epic Games Store Spring Sale? Epic Games is one of the world’s top game makers, behind smash-hit […]
 
 
+***
+![Make sure to get the best display for your Raspberry Pi](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/raspberry-pi-400-1.jpg "Make sure to get the best display for your Raspberry Pi")
+
+
+[Make sure to get the best display for your Raspberry Pi](https://www.androidcentral.com/best-raspberry-pi-screen)
+
+
+> Best Raspberry Pi Screen Android Central 2021 So you've already picked up the best Raspberry Pi kit, but you want to be able to actually see things, so you'll need to find the best Raspberry Pi screen. Of course, you'll need to find a display to use, regardless of whether you grabbed the Raspberry Pi 4, or even the Raspberry Pi 400. So we've rounded up the best options to give your mini computer a display worth using. Staff Pick This 7-inch capacitive display has a 1024x600 resolution and connects via HDMI.
+
+
+***
+[Mexican online grocer J&uuml;sto raises $65M Series A led by General Atlantic; PitchBook says it's the largest Series A raised in Latin America in the past decade (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210209/p30#a210209p30)
+
+
+> Mary Ann Azevedo / TechCrunch: Mexican online grocer Jüsto raises $65M Series A led by General Atlantic; PitchBook says it's the largest Series A raised in Latin America in the past decade — Jüsto, an online supermarket based in Mexico City, announced Tuesday it has raised $65 million in a Series A round led by General Atlantic.
+
+
+***
+![Report claims iPhone 12 mini accounted for just 5% of iPhone sales](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/iphone-12-mini.jpg "Report claims iPhone 12 mini accounted for just 5% of iPhone sales")
+
+
+[Report claims iPhone 12 mini accounted for just 5% of iPhone sales](https://www.imore.com/report-claims-iphone-12-mini-accounted-just-5-new-iphone-sales-january)
+
+
+> Source: Apple A new report claims that just 5% of new iPhone 12 series sales were for the smaller iPhone 12 mini model during the month of January 2021. According to numbers put together by Counterpoint and shared by Reuters, the smallest iPhone has been less of a hit than many might have expected. However, it's important to remember that none of these numbers are Apple's – the one company that knows exactly how many iPhone 12 mini handsets have been sold. Reuters believes that the lack of interest in a small iPhone comes from the way people are consuming content nowadays.
+
+
+***
+![A gentle introduction to classes and objects in Python](https://external-preview.redd.it/gJrqm_sjgvUTTDCbYTvi1dx1UMcJhUwiQD96yu33s2c.jpg?auto=webp&s=5f88097cefe94f0b3ef80acdffd82c84b7e6cd29 "A gentle introduction to classes and objects in Python")
+
+
+[A gentle introduction to classes and objects in Python](https://www.reddit.com/r/programming/comments/lgbms6/a_gentle_introduction_to_classes_and_objects_in/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![2022 Mitsubishi Eclipse Cross prices slide in under $25,000](https://cnet3.cbsistatic.com/img/94g4ohz5ypalIcFY-REiSIXGp7k=/1200x630/2021/02/09/2470c4d2-1a5e-4067-a2e0-057776d148e2/ogi-mitsu.jpg "2022 Mitsubishi Eclipse Cross prices slide in under $25,000")
+
+
+[2022 Mitsubishi Eclipse Cross prices slide in under $25,000](https://www.cnet.com/roadshow/news/2022-mitsubishi-eclipse-cross-prices/)
+
+
+> It certainly looks better. Mitsubishi If you overlooked the Mitsubishi Eclipse Cross in the past, the Japanese automaker wants you to have another look with the 2022 model. With revised looks and a less funky vibe, the underdog SUV hits dealers soon with a starting price of $24,590.Now, the low price doesn't get you a lot of the goods other Eclipse Cross models carry. Specifically, the $24,590 price, which includes a $1,195 destination charge, nets buyers an ES trim that lacks the brand's updated infotainment system with 8-inch display.
+
+
