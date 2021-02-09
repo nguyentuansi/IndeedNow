@@ -24259,3 +24259,40 @@
 > Realme X7 Pro vs OnePlus Nord vs Vivo V20 Pro: In this article we have drawn a comparison between these 5G phones.
 
 
+***
+![AV-over-IP: Decisions, decisions...](https://cdn.mos.cms.futurecdn.net/XxGMBPFfPMnpKPWzqwia99-1200-80.jpg "AV-over-IP: Decisions, decisions...")
+
+
+[AV-over-IP: Decisions, decisions...](https://www.techradar.com/news/av-over-ip-decisions-decisions)
+
+
+> You know it's coming, and you need to be ready for it, but the path to supporting AV-over-IP in your next generation product is still really confusing and choosing a particular protocol implementation feels like a gamble that you just can't afford to lose!It's clear that the benefits of moving to IP-based transport for audio, video and associated data are becoming better understood by the AV industry. IP networks offer scalability to support any audio and video formats, with multichannel distribution over LAN/WAN and cloud.
+
+
+***
+![Get the world's thinnest bone conduction speaker at 40% off](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2021/02/sale_51503_article_image-2fu4.jpg "Get the world's thinnest bone conduction speaker at 40% off")
+
+
+[Get the world's thinnest bone conduction speaker at 40% off](https://www.androidcentral.com/get-worlds-thinnest-bone-conduction-speaker-40)
+
+
+> Source: Stack Commerce Source: StackCommerce You may have heard about bone conduction headphones. They work by vibrating against your head to send sound into your inner ear. The Blade bone conduction speaker uses the same technology — but this razor-thin device can turn any hollow object into a powerful speaker. You can get it today for $28.95, saving 40% on the MSRP. One advantage of using conduction technology is that small devices can create impressive volume. In the case of Blade, you can enjoy music and podcasts at 115dB with little distortion.
+
+
+***
+![Population: One Season One ignites a 10-week Uprising special event](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/population-one-melee-knife.jpg "Population: One Season One ignites a 10-week Uprising special event")
+
+
+[Population: One Season One ignites a 10-week Uprising special event](https://www.androidcentral.com/population-one-season-one-sets-stage-10-week-uprising)
+
+
+> Source: BigBox VR Population: One is getting its first content season in the form of a 10-week event called Uprising, beginning this month. Uprising will introduce new weapons, map updates, and a ton of additional to-be-announced content. Seeker Credits can be gifted to other players to help unlock content. Players will finally be able to create private servers later in the season. Population: One is set to begin its first season, called Uprising, this month. The 10-week-long special event dwarfs other Population: One events, which often lasted just 10-days at a time.
+
+
+***
+[Epic Games Spring Sale starts this week with HUGE 50% discounts – including Cyberpunk 2077 price cut](https://www.the-sun.com/lifestyle/tech/2302185/epic-games-store-spring-sale-deals-cheap-assassins-creed-cyberpunk-star-wars/)
+
+
+> EPIC Games is about to drop some major discounts on amazing PC titles. This year’s Epic Games Store Spring Sale begins later this week – and includes savings on Assassin’s Creed Valhalla and Cyberpunk 2077. What is the Epic Games Store Spring Sale? Epic Games is one of the world’s top game makers, behind smash-hit […]
+
+
