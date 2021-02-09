@@ -24343,3 +24343,53 @@
 > It certainly looks better. Mitsubishi If you overlooked the Mitsubishi Eclipse Cross in the past, the Japanese automaker wants you to have another look with the 2022 model. With revised looks and a less funky vibe, the underdog SUV hits dealers soon with a starting price of $24,590.Now, the low price doesn't get you a lot of the goods other Eclipse Cross models carry. Specifically, the $24,590 price, which includes a $1,195 destination charge, nets buyers an ES trim that lacks the brand's updated infotainment system with 8-inch display.
 
 
+***
+![Yelp EPS beats by $0.28, beats on revenue (NYSE:YELP)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Yelp EPS beats by $0.28, beats on revenue (NYSE:YELP)")
+
+
+[Yelp EPS beats by $0.28, beats on revenue (NYSE:YELP)](https://seekingalpha.com/news/3660186-yelp-eps-beats-0_28-beats-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Computer Programs and Systems EPS misses by $0.15, misses on revenue (NASDAQ:CPSI)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Computer Programs and Systems EPS misses by $0.15, misses on revenue (NASDAQ:CPSI)")
+
+
+[Computer Programs and Systems EPS misses by $0.15, misses on revenue (NASDAQ:CPSI)](https://seekingalpha.com/news/3660190-computer-programs-and-systems-eps-misses-0_15-misses-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Salesforce will continue full-time remote work after pandemic](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Salesforce will continue full-time remote work after pandemic")
+
+
+[Salesforce will continue full-time remote work after pandemic](https://seekingalpha.com/news/3660135-salesforce-will-continue-full-time-remote-work-after-pandemic)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Rapid7 EPS beats by $0.01, beats on revenue (NASDAQ:RPD)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Rapid7 EPS beats by $0.01, beats on revenue (NASDAQ:RPD)")
+
+
+[Rapid7 EPS beats by $0.01, beats on revenue (NASDAQ:RPD)](https://seekingalpha.com/news/3660181-rapid7-eps-beats-0_01-beats-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Baidu rises 6.2% to new high as China Renaissance lifts to Buy (NASDAQ:BIDU)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Baidu rises 6.2% to new high as China Renaissance lifts to Buy (NASDAQ:BIDU)")
+
+
+[Baidu rises 6.2% to new high as China Renaissance lifts to Buy (NASDAQ:BIDU)](https://seekingalpha.com/news/3660153-baidu-rises-62-to-new-high-as-china-renaissance-lifts-to-buy)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
