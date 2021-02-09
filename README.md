@@ -23965,3 +23965,53 @@
 > LOS ANGELES (AP) — The family of a novice stock trader who killed himself after mistakenly believing he lost more than $700,000 are suing Robinhood Financial, claiming the popular stock-trading platform's business practices 'directly' led to their son's death. The complaint, filed Monday in state court in Santa Clara County, California, seeks unspecified damages on behalf of the parents and sister of Alex Kearns for wrongful death, negligent infliction of emotional distress and unfair business practices.
 
 
+***
+![Facebook, Twitter outpaced by smaller platforms in fight against harmful content, study shows](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-06/faclog0306-seo.jpg "Facebook, Twitter outpaced by smaller platforms in fight against harmful content, study shows")
+
+
+[Facebook, Twitter outpaced by smaller platforms in fight against harmful content, study shows](https://www.malaymail.com/news/tech-gadgets/2021/02/09/facebook-twitter-outpaced-by-smaller-platforms-in-fight-against-harmful-con/1948204)
+
+
+> Facebook showed improvements in clamping down on false and misleading content, such as removing pages and groups related to the QAnon conspiracy theory. — Reuters pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 9 ― Facebook, Twitter and Alphabet's YouTube made smaller strides than their social media rivals including TikTok and Reddit at battling harmful content such as hate speech and misinformation during the second half of 2020, a study released yesterday showed.
+
+
+***
+![China blocks Clubhouse app that gave rare access to uncensored topics](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/clubhouse_social_network_270121-seo.jpg "China blocks Clubhouse app that gave rare access to uncensored topics")
+
+
+[China blocks Clubhouse app that gave rare access to uncensored topics](https://www.malaymail.com/news/tech-gadgets/2021/02/09/china-blocks-clubhouse-app-that-gave-rare-access-to-uncensored-topics/1948180)
+
+
+> The Clubhouse app had for a brief while side-stepped the censors and drawn crowds of Chinese internet users ― but appeared to quickly fall foul of the censors. ― AFP pic Subscribe to our Telegram channel for the latest updates on news you need to know. BEIJING, Feb 9 ― A rare uncensored app that had attracted Chinese internet users to freely discuss taboo topics, including the mass detention of Uighurs, democracy protests in Hong Kong and the concept of Taiwanese independence appeared to have been blocked last night.
+
+
+***
+![Reddit's valuation doubles to $6B after new $250-M funding](https://assets2.rappler.com/2021/02/reuters-020921-reddit-1612837314435.jpg "Reddit's valuation doubles to $6B after new $250-M funding")
+
+
+[Reddit's valuation doubles to $6B after new $250-M funding](https://www.rappler.com/technology/reddit-valuation-doubles-6-billion-dollars-new-funding)
+
+
+> Reddit Inc, which has been at the heart of a recent social media-driven retail trading frenzy, said on Monday, February 8, it raised more than $250 million in a new round of funding that has doubled its valuation to $6 billion. The social media company's chief executive officer, Steve Huffman, told the Wall Street Journal (WSJ) that it is a good market to raise funds. "Valuations are very high right now. It never hurts to raise money when there's an opportunity to do so and Reddit had a strong year," Huffman was quoted as saying by the WSJ.
+
+
+***
+![tech companies](https://assets2.rappler.com/2021/02/reuters-020921-reddit-1612837314435.jpg "tech companies")
+
+
+[tech companies](https://www.rappler.com/tech-companies)
+
+
+> No body in the article.
+
+
+***
+![A Tesla for a bitcoin: Musk drives up cryptocurrency price with $1.5-B purchase](https://assets2.rappler.com/2021/02/reuters-020921-tesla-elon-musk-1612838269539.jpg "A Tesla for a bitcoin: Musk drives up cryptocurrency price with $1.5-B purchase")
+
+
+[A Tesla for a bitcoin: Musk drives up cryptocurrency price with $1.5-B purchase](https://www.rappler.com/technology/tesla-bitcoin-purchase-musk-drives-cryptocurrency-price)
+
+
+> Bitcoin took another large stride toward mainstream acceptance on Monday after billionaire Elon Musk's electric vehicle company Tesla Inc revealed it had bought $1.5 billion of the cryptocurrency and would soon accept it as a form of payment for cars, sending the cryptocurrency shooting higher. The announcements, buried deep in Tesla's 2020 annual report, drove a roughly 20% surge in the world's most widely held cryptocurrency to over $47,000. At current prices, 0.8 bitcoins would be enough to buy an entry-level Tesla Model 3.
+
+
