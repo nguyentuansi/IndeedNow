@@ -23868,3 +23868,53 @@
 > Check out the new limited edition hue of this customer-loved pan.   (Photo: Our Place) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Cooking day after day during a busy workweek can be exhausting, to say the least— especially when you're a cooking newbie without all the proper tools on hand you'll need to whip up a delicious meal. Enter: the internet-famous Always Pan . Manufactured by Our Place, this multifunctional pan is designed to replace eight different pieces of traditional cookware in one handy piece.
 
 
+***
+![Nothing to sneeze at: Global warming triggers earlier pollen](https://s.abcnews.com/images/GMA/210123_gma_harris_earth1_hpMain_16x9_992.jpg "Nothing to sneeze at: Global warming triggers earlier pollen")
+
+
+[Nothing to sneeze at: Global warming triggers earlier pollen](https://abcnews.go.com/Technology/wireStory/sneeze-global-warming-triggers-earlier-pollen-75760555)
+
+
+> When Dr. Stanley Fineman started as an allergist in Atlanta, he told patients they should start taking their medications and prepare for the drippy, sneezy onslaught of pollen season around St. Patrick's Day. That was about 40 years ago. Now he tells them to start around St. Valentine's Day. Across the United States and Canada, pollen season is starting 20 days earlier and pollen loads are 21% higher since 1990 and a huge chunk of that is because of global warming, a new study found in Monday's journal the Proceedings of the National Academies of Sciences.
+
+
+***
+![Facebook announces plans to remove vaccine misinformation content](https://s.abcnews.com/images/US/vaccination-site-nyc-gty-jef-210208_1612817909826_hpMain_16x9_992.jpg "Facebook announces plans to remove vaccine misinformation content")
+
+
+[Facebook announces plans to remove vaccine misinformation content](https://abcnews.go.com/Technology/facebook-announces-plans-remove-vaccine-misinformation-content/story?id=75760191)
+
+
+> Facebook announced Monday it will be taking stricter measures to crack down on misinformation about vaccines and said it will be doing more to help users find resources on getting their shot. Kang-Xing Jin, Facebook's head of health, said in a blog post that the social media company will be working to ensure users on its platforms have trust and confidence in the coronavirus vaccines. The company said it expanded the list of prohibited false claims made on Facebook and Instagram posts about the virus and the vaccines.
+
+
+***
+![Why Bitcoin fans hope Tesla's $1.5bn bet will unlock a cryptocurrency revolution](https://www.telegraph.co.uk/content/dam/technology/2021/02/08/TELEMMGLPICT000250531313_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Why Bitcoin fans hope Tesla's $1.5bn bet will unlock a cryptocurrency revolution")
+
+
+[Why Bitcoin fans hope Tesla's $1.5bn bet will unlock a cryptocurrency revolution](https://www.telegraph.co.uk/technology/2021/02/08/bitcoin-fans-hope-teslas-15bn-bet-will-unlock-cryptocurrency/)
+
+
+> A few weeks later, the company said a subsequent change in its investment policy allowed it to invest in 'alternative reserve assets'. On Monday, Tesla also said it expects to receive payments for its cars in Bitcoin in the near future. Tesla's bet on Bitcoin came with health warnings. It said that 'the prices of digital assets have been in the past and may continue to be highly volatile', and that 'the extent to which securities laws or other regulations apply… is unclear'. It added that owning cryptocurrencies makes the company a target for hackers.
+
+
+***
+![Facebook ramps up effort to curb vaccine hoaxes](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-04/facebook_comm_feature_010420-seo.jpg "Facebook ramps up effort to curb vaccine hoaxes")
+
+
+[Facebook ramps up effort to curb vaccine hoaxes](https://www.malaymail.com/news/tech-gadgets/2021/02/09/facebook-ramps-up-effort-to-curb-vaccine-hoaxes/1948159)
+
+
+> Facebook prominently hosts a Covid-19 information centre, and makes a priority of featuring reliable sources in results for queries on the topic. ― AFP pic SAN FRANCISCO, Feb 9 ― Facebook yesterday said it is ramping up efforts to stem the spread of misinformation about Covid-19 vaccines, spread facts, and figure out who might be wary of getting the jab. The move includes banning groups which repeatedly spread misinformation and debunked claims about the virus and vaccines in general. The leading social network has been highlighting health advice from reliable agencies and removing Covid-19 misinformation for months and yesterday expanded that initiative.
+
+
+***
+![Analysis: Can you buy a Tesla with bitcoin? How the payments might work](https://static.reuters.com/resources/r/?m=02&d=20210209&t=2&i=1550812139&r=LYNXMPEH18000&w=800 "Analysis: Can you buy a Tesla with bitcoin? How the payments might work")
+
+
+[Analysis: Can you buy a Tesla with bitcoin? How the payments might work](https://www.reuters.com/article/us-crypto-currency-tesla-payments-idUSKBN2A82O0)
+
+
+> LONDON (Reuters) - Tesla Inc expects to allow customers to pay for its electric vehicles with bitcoin soon, the automaker said on Monday, a move that could expand how the most popular cryptocurrency is used for real-world transactions. FILE PHOTO: A Tesla Model 3 electric vehicle is shown in this picture illustration taken in Moscow, Russia July 23, 2020. REUTERS/Evgenia Novozhenina Although bitcoin has become more of a household name in recent years, it is still mostly used as an investment product rather than a form of payment.
+
+
