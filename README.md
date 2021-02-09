@@ -24162,3 +24162,53 @@
 > Automobile dealers' body FADA on Tuesday said passenger vehicle (PV) retail sales in January witnessed a year-on-year decline of 4.46 percent to 2,81,666 units, as semiconductor shortage impacted the segment.According to the Federation of Automobile Dealers Associations (FADA), which collected vehicle registration data from 1,273 out of the 1,480 regional transport offices (RTOs), PV sales stood at 2,94,817 units in January 2020.Two-wheeler sales declined 8.78 percent to 11,63,322 units last month, as compared to 12,75,308 units in January 2020.
 
 
+***
+![TechRap unRap: Lenovo Legion Phone Duel](https://i.ytimg.com/vi/OIGg18Jg5c0/maxresdefault.jpg "TechRap unRap: Lenovo Legion Phone Duel")
+
+
+[TechRap unRap: Lenovo Legion Phone Duel](https://www.rappler.com/technology/reviews/techrap-review-lenovo-legion-phone-duel)
+
+
+> Mobile gaming has evolved. From being somewhat of an add-on to the mobile experience, it's now front and center for many users. For this reason, devices needed to evolve too. Witness: the Lenovo Legion Phone Duel, a high-end device that levels up the experience for casual gamers and esports athletes alike. The Lenovo Legion Phone Duel isn't just any gaming phone. It promises to showcase the evolution of mobile gaming to its users, boasting a Snapdragon 865 Plus chipset, dual battery system, up to 16GB of RAM, and up to 512GB of storage.
+
+
+***
+![Assassin's Creed Valhalla gets huge $20 price cut in surprise PS5 and Xbox Series X deal](https://www.thesun.co.uk/wp-content/uploads/2020/10/OFFPLATFORM-KS-ASSASSINSCREED.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Assassin's Creed Valhalla gets huge $20 price cut in surprise PS5 and Xbox Series X deal")
+
+
+[Assassin's Creed Valhalla gets huge $20 price cut in surprise PS5 and Xbox Series X deal](https://www.thesun.co.uk/tech/13994257/assassins-creed-valhalla-deal-cheap-buy-price-ps5-xbox-series-x/)
+
+
+> GAMERS can bag a copy of Assassin's Creed Valhalla for up to $20 off the usual price. The brand new game is available on previous-gen and next-gen consoles – including the PlayStation 5. Assassin's Creed Valhalla is a seriously stunning gameCredit: Ubisoft This offer is available from Amazon in the US, and is still in stock. The biggest discount is on the PS4 version, with a free upgrade to the PS5 edition. It usually costs $59.99 but the price has been reduced to a far more tempting $39.99. Assassin's Creed Valhalla PS4/PS5 at Amazon for $39.
+
+
+***
+![After troubled Cyberpunk 2077 rollout, CD Projekt hit by cyberattack](https://assets2.rappler.com/2021/02/cd-projekt-cyber-attack-ls-1612869563820.jpg "After troubled Cyberpunk 2077 rollout, CD Projekt hit by cyberattack")
+
+
+[After troubled Cyberpunk 2077 rollout, CD Projekt hit by cyberattack](https://www.rappler.com/technology/gaming/cd-projekt-cyberattack-february-9-2021)
+
+
+> CD Projekt has been hit by a cyber attack, which compromised some of its internal systems including the source code to its flagship Cyberpunk 2077 game, dealing another blow for the Polish video game maker. "An unidentified actor gained unauthorized access to our internal network, collected certain data belonging to CD PROJEKT capital group, and left a ransom note," the company said on Twitter on Tuesday, adding it would not negotiate with the actor. CD Projekt has been in the limelight recently amid the troubled roll-out of Cyberpunk 2077 , leading Sony to pull the game from its PlayStation Store after just a week.
+
+
+***
+![Apple supplier Wistron to restart India factory, still on probation](https://assets2.rappler.com/2021/02/reuters-20210209-wistron-2021-02-09T083038Z_332413735_RC2WOL9X00M0_RTRMADP_3_APPLE-INDIA-WISTRON-1612866041919.jpg "Apple supplier Wistron to restart India factory, still on probation")
+
+
+[Apple supplier Wistron to restart India factory, still on probation](https://www.rappler.com/technology/apple-supplier-wistron-restart-india-factory)
+
+
+> Apple on Tuesday, February 9, said supplier Wistron will restart operations at its factory in southern India after violence at the site led to its shutdown late last year, though the Taiwanese company would remain on probation. Cupertino, California-based Apple, which uses Wistron to assemble its second-generation iPhone SE, said its staff and independent auditors had been working for the past 8 weeks to ensure all systems and processes were in place at the factory in the Narasapura industrial area of Karnataka state.
+
+
+***
+![Cyberpunk 2077 makers CD Projekt hit by ransomware hack](https://ichef.bbci.co.uk/news/1024/branded_news/2C03/production/_116876211_v76vzx1jwsi05aarxv5r.jpg "Cyberpunk 2077 makers CD Projekt hit by ransomware hack")
+
+
+[Cyberpunk 2077 makers CD Projekt hit by ransomware hack](https://www.bbc.com/news/technology-55994787)
+
+
+> By Cristina Criddle Technology reporter image copyright CD Projekt RED image caption Cyberpunk 2077 has been beset by delays and glitches The maker of popular video game Cyberpunk 2077 has been hacked in a ransomware attack. CD Projekt Red said hackers had accessed its internal network, digitally scrambled some of its data servers and tried to blackmail it. The perpetrators claim to have stolen source code for several of the firm's games which they said they would leak unless a payment was made. But the Polish games company said it would not negotiate.
+
+
