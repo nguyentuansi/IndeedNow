@@ -24062,3 +24062,53 @@
 > Twitter has started wider testing of Spaces, its Clubhouse-styled feature that brings audio chat rooms to users. The feature, which is powered by Periscope, was first announced in November and was initially rolled out for limited beta testing in December. The wider testing of Twitter Spaces comes amid the growing popularity of Clubhouse, the voice-based social network, that added a list of renowned faces among the tech industry. The invite-only app, however, was recently banned in China over censorship.
 
 
+***
+![Electronic Arts to buy Glu Mobile for $2.4 billion in mobile gaming push](https://assets2.rappler.com/2021/02/ea-glu-1612848544614.jpg "Electronic Arts to buy Glu Mobile for $2.4 billion in mobile gaming push")
+
+
+[Electronic Arts to buy Glu Mobile for $2.4 billion in mobile gaming push](https://www.rappler.com/technology/gaming/electronic-arts-to-buy-glu-mobile)
+
+
+> Electronic Arts said on Monday, February 8, it would buy Glu Mobile for $2.4 billion, bolstering its mobile platform with the addition of games such as Design Home , Covet Fashion , and MLB Tap Sports Baseball . The US video game developer has offered $12.50 in cash for each Glu share, a premium of about 33% to its closing price on Monday. Electronic Arts (EA) stock was up 1.4% in extended trading, while Glu shares surged 34%. The deal, which is expected to close in the quarter ending June 30, gives Glu an enterprise value of $2.
+
+
+***
+![Around 2 in 10 people in SEA share news online before verifying if it's true – study](https://assets2.rappler.com/2021/02/phone-user-shutterstock-1280-1612857097668.jpg "Around 2 in 10 people in SEA share news online before verifying if it's true – study")
+
+
+[Around 2 in 10 people in SEA share news online before verifying if it's true – study](https://www.rappler.com/technology/internet-culture/southeast-asia-share-news-before-verifying-truth-study)
+
+
+> In a recent survey, cybersecurity research firm Kaspersky found about 18% of people in Southeast Asia share news without verifying if the information is true or not. This is reportedly most common among Gen Zs, with over 28% of the group admitting to sharing unverified news on platforms like Facebook, Twitter, and Instagram, to name a few. They're followed by Gen X at 21%, Boomers at 19%, and finally Millennials at 16%, who logged the lowest in this aspect at 16%. The survey said Baby Boomers were born from 1946 to 1964, Gen X respondents were born from 1965 to 1980, Millennials from 1981 to 1996, and Gen Z from 1997 to 2009.
+
+
+***
+![Vi expands WiFi calling service or VoWiFi in Mumbai and Gujarat circles, check compatible devices](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-02_at_5_1200_210209131442.02._1-483x271.png "Vi expands WiFi calling service or VoWiFi in Mumbai and Gujarat circles, check compatible devices")
+
+
+[Vi expands WiFi calling service or VoWiFi in Mumbai and Gujarat circles, check compatible devices](https://www.indiatoday.in/technology/news/story/vi-expands-wifi-calling-service-or-vowifi-in-mumbai-and-gujarat-circles-check-compatible-devices-1767377-2021-02-09)
+
+
+> Vodafone Idea has expanded its WiFi calling services or VoWiFi in Mumbai and Gujarat circles. The services went live in Maharashtra-Goa and Kolkata circles in December. India Today Tech | February 9, 2021 | Updated 12:42 IST
+
+
+***
+![Kejriwal's daughter loses Rs 34,000 in Olx scam, here is what happened and how to avoid such fraud](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/qr0-647x363.jpeg?asW2rmPW.JiTQ.EpO9mTWAIsYCAwhQ4. "Kejriwal's daughter loses Rs 34,000 in Olx scam, here is what happened and how to avoid such fraud")
+
+
+[Kejriwal's daughter loses Rs 34,000 in Olx scam, here is what happened and how to avoid such fraud](https://www.indiatoday.in/technology/features/story/kejriwal-s-daughter-loses-rs-34-000-in-olx-scam-here-is-what-happened-and-how-to-avoid-such-fraud-1767404-2021-02-09)
+
+
+> Delhi chief minister Arvind Kejriwal's daughter was recently a victim of an online scam where she tried to sell an old sofa set on OLX but was dupped of Rs 34,000 by an online scammer. As shocking as it may sound, these types of scams have become common on e-commerce platforms where fraudsters loot users because of latter's lack of knowledge about online payments. Online marketplace OLX has been one of the key victims of these scams and users across the country have complained of being duped on the platform.
+
+
+***
+![Xiaomi releases MIUI 12.5 update schedule, check this list to know when your Redmi or Mi phone will get it](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/miui-483x271_1200_210209131450.jpeg "Xiaomi releases MIUI 12.5 update schedule, check this list to know when your Redmi or Mi phone will get it")
+
+
+[Xiaomi releases MIUI 12.5 update schedule, check this list to know when your Redmi or Mi phone will get it](https://www.indiatoday.in/technology/news/story/xiaomi-releases-miui-12-5-update-schedule-check-this-list-to-know-when-your-redmi-or-mi-phone-will-get-it-1767371-2021-02-09)
+
+
+> Xiaomi had announced the updated MIUI 12.5 during the China launch of Mi 11 in December last year. It has announced the same for the global markets along with the details of roll out. India Today Tech | February 9, 2021 | Updated 12:42 IST The roll out plan was launched during the launch of Mi 11.
+
+
