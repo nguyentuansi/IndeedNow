@@ -24212,3 +24212,50 @@
 > By Cristina Criddle Technology reporter image copyright CD Projekt RED image caption Cyberpunk 2077 has been beset by delays and glitches The maker of popular video game Cyberpunk 2077 has been hacked in a ransomware attack. CD Projekt Red said hackers had accessed its internal network, digitally scrambled some of its data servers and tried to blackmail it. The perpetrators claim to have stolen source code for several of the firm's games which they said they would leak unless a payment was made. But the Polish games company said it would not negotiate.
 
 
+***
+![CareLinx Announces Growth Strategy to Reach 1 Million Skilled Clinical and Non-medical Care Providers in 2022](https://mms.businesswire.com/media/20210209005008/en/857270/23/Carelinx_logo.jpg "CareLinx Announces Growth Strategy to Reach 1 Million Skilled Clinical and Non-medical Care Providers in 2022")
+
+
+[CareLinx Announces Growth Strategy to Reach 1 Million Skilled Clinical and Non-medical Care Providers in 2022](https://www.businesswire.com/news/home/20210209005008/en/CareLinx-Announces-Growth-Strategy-to-Reach-1-Million-Skilled-Clinical-and-Non-medical-Care-Providers-in-2022)
+
+
+> February 09, 2021 09:00 AM Eastern Standard Time BURLINGAME, Calif.--(BUSINESS WIRE)--CareLinx Inc., the nation's leading digital on-demand platform of tech-enabled care providers, today announced a long-term growth strategy to double its nationwide network of 500,000 skilled clinical and non-medical care providers to a total size of 1,000,000 professionals by the end of 2022. The company's recently launched multi-state on-demand clinical nurse dispatch business-line, Nurse OnDemand, will also stretch its geographic footprint to be in every U.
+
+
+***
+![Jim Glackin of Masergy Recognized as 2021 CRN® Channel Chief](https://mms.businesswire.com/media/20210209005033/en/857611/23/glackin_crn_1.jpg "Jim Glackin of Masergy Recognized as 2021 CRN® Channel Chief")
+
+
+[Jim Glackin of Masergy Recognized as 2021 CRN® Channel Chief](https://www.businesswire.com/news/home/20210209005033/en/Jim-Glackin-of-Masergy-Recognized-as-2021-CRN%C2%AE-Channel-Chief)
+
+
+> February 09, 2021 09:00 AM Eastern Standard Time DALLAS--(BUSINESS WIRE)--Masergy, the software-defined network and cloud platform for the digital enterprise, today announced that CRN®, a brand of The Channel Company, has named Jim Glackin, SVP of Global Channels, to its 2021 list of Channel Chiefs. The prestigious CRN® Channel Chiefs list, released annually, recognizes leading IT channel executives who continually demonstrate outstanding leadership, influence, innovation, and growth. Glackin joined Masergy in July 2020 to lead channel sales, partner relationships, and the Masergy Zenith Program.
+
+
+***
+![Bouygues Telecom Extends Relationship with Netcracker for Next-Generation Converged Revenue Management](https://mms.businesswire.com/media/20210209005131/en/839128/23/Netcracker-logo-Primary-RGB.jpg "Bouygues Telecom Extends Relationship with Netcracker for Next-Generation Converged Revenue Management")
+
+
+[Bouygues Telecom Extends Relationship with Netcracker for Next-Generation Converged Revenue Management](https://www.businesswire.com/news/home/20210209005131/en/Bouygues-Telecom-Extends-Relationship-with-Netcracker-for-Next-Generation-Converged-Revenue-Management)
+
+
+> February 09, 2021 09:00 AM Eastern Standard Time WALTHAM, MA--(BUSINESS WIRE)--Netcracker Technology announced today that Bouygues Telecom has extended its partnership by upgrading to Netcracker's digital portfolio, including Netcracker Digital BSS, and continuing its engagement for professional services to support both fixed-line and mobile service offerings, including 5G. Bouygues is a pioneer in the French communications market and provides mobile and Internet services to residential and business customers.
+
+
+***
+![KymetaTM Expands Its Next Generation Solutions with Commercial Availability of the u8 GOV Terminal and u8 GO](https://mms.businesswire.com/media/20210209005134/en/857851/23/CaseOff_Flat_45degree_clay_whitebg.jpg "KymetaTM Expands Its Next Generation Solutions with Commercial Availability of the u8 GOV Terminal and u8 GO")
+
+
+[KymetaTM Expands Its Next Generation Solutions with Commercial Availability of the u8 GOV Terminal and u8 GO](https://www.businesswire.com/news/home/20210209005134/en/KymetaTM-Expands-Its-Next-Generation-Solutions-with-Commercial-Availability-of-the-u8-GOV-Terminal-and-u8-GO)
+
+
+> February 09, 2021 09:00 AM Eastern Standard Time REDMOND, Wash.--(BUSINESS WIRE)--Kymeta (www.kymetacorp.com)—the communications company making mobile global—announced today the expansion and availability of its KymetaTM u8 product, including the Kymeta u8 GOV terminal with an embedded iDirect 950mp modem and the u8 GO transportable terminal. Kymeta u8 GOV terminals are designed to meet the needs of government, military and specialized commercial use and support. The u8 GOV terminal includes a FIPS, 140-2 level 3 TRANSEC module and meets the demands of tactical users in scenarios that require secure data, voice, and video connectivity in highly mobile military, government and other rapid response applications.
+
+
+***
+[Realme, OnePlus or Vivo – Which is the Best 5G Phone Under Rs 30k?](https://www.thequint.com/tech-and-auto/realme-x7-pro-vs-oneplus-nord-vs-vivo-v20-pro-best-5g-smartphone-under-rs-30000)
+
+
+> Realme X7 Pro vs OnePlus Nord vs Vivo V20 Pro: In this article we have drawn a comparison between these 5G phones.
+
+
