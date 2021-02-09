@@ -24015,3 +24015,50 @@
 > Bitcoin took another large stride toward mainstream acceptance on Monday after billionaire Elon Musk's electric vehicle company Tesla Inc revealed it had bought $1.5 billion of the cryptocurrency and would soon accept it as a form of payment for cars, sending the cryptocurrency shooting higher. The announcements, buried deep in Tesla's 2020 annual report, drove a roughly 20% surge in the world's most widely held cryptocurrency to over $47,000. At current prices, 0.8 bitcoins would be enough to buy an entry-level Tesla Model 3.
 
 
+***
+![Queensland students taking part in Optus Digital Thumbprint online safety program](https://www.itwire.com/media/k2/items/cache/ef8bb3bd712d6c3e17a78e92e0887cbf_XS.jpg "Queensland students taking part in Optus Digital Thumbprint online safety program")
+
+
+[Queensland students taking part in Optus Digital Thumbprint online safety program](https://www.itwire.com/security/queensland-students-taking-part-in-optus-digital-thumbprint-online-safety-program.html)
+
+
+> More than 1400 students in Jimboomba and Toowoomba in Queensland are set to participate in a free in-school program that supports young people to be safe, responsible and positive online. The students are taking part in the program as part of week-long activities marking Safer Internet Day 2021. Over the course of the week, students from schools across South Queensland including Hills College, Harristown State High School, Toowoomba State High School and Hills College will take part in the program which aims to equip them with simple and effective tools for staying safe online.
+
+
+***
+[Safer Internet Day 2021](https://www.itwire.com/freelancer-sp-720/tag/Safer%20Internet%20Day%202021.html)
+
+
+> More than 1400 students in Jimboomba and Toowoomba in Queensland are set to participate in a free in-school program that supports young people to be safe, responsible and positive online.
+
+
+***
+![Huawei founder says hopes Biden administration will have 'open policy'](https://i-invdn-com.akamaized.net/news/Computer-(tech-sector)2_800x533_L_1412602635.jpg "Huawei founder says hopes Biden administration will have 'open policy'")
+
+
+[Huawei founder says hopes Biden administration will have 'open policy'](https://www.investing.com/news/technology-news/huawei-founder-says-confident-on-firms-ability-to-survive-pressure-2413000)
+
+
+> © Reuters. Huawei founder Ren Zhengfei attends a panel discussion at the company headquarters in Shenzhen By David Kirton TAIYUAN, China (Reuters) - Huawei Technologies' founder said on Tuesday he was confident that the Biden administration would bear in mind U.S. business interests when forming its policy towards the Chinese tech giant, adding that they still hoped to buy U.S. products. Ren, who was making his first media appearance since March last year, said it was "conducive" to the financial performance of U.
+
+
+***
+![Mi TV Q1 75-Inch With 4K Display, Built-In Chromecast Launched](https://i.gadgets360cdn.com/large/mi_tv_q1_75_1612849715023.jpg "Mi TV Q1 75-Inch With 4K Display, Built-In Chromecast Launched")
+
+
+[Mi TV Q1 75-Inch With 4K Display, Built-In Chromecast Launched](https://gadgets.ndtv.com/entertainment/news/mi-tv-q1-75-inch-price-eur-999-1299-launch-features-sale-date-march-2366382)
+
+
+> Alongside the Mi 11 flagship, Xiaomi has also unveiled the Mi TV Q1 75-inch on Monday. This television model features a QLED 4K display and runs on Android 10 software. The TV set has a 178-degree viewing angle for better visibility across a wide area, and it offers access to more than 700,000 movies and TV shows and over 5,000 apps via the Google Play store. The smart remote comes with dedicated Netflix and Amazon Prime Video buttons and the TV set has a built-in microphone for voice command functionality with support for Google Assistant and Amazon Alexa.
+
+
+***
+![Twitter Spaces Now in Widely Testing to Take on Clubhouse](https://i.gadgets360cdn.com/large/twitter_spaces_image_1612849243342.jpg "Twitter Spaces Now in Widely Testing to Take on Clubhouse")
+
+
+[Twitter Spaces Now in Widely Testing to Take on Clubhouse](https://gadgets.ndtv.com/apps/news/twitter-spaces-wider-testing-clubhouse-styled-audio-chat-rooms-update-2366379)
+
+
+> Twitter has started wider testing of Spaces, its Clubhouse-styled feature that brings audio chat rooms to users. The feature, which is powered by Periscope, was first announced in November and was initially rolled out for limited beta testing in December. The wider testing of Twitter Spaces comes amid the growing popularity of Clubhouse, the voice-based social network, that added a list of renowned faces among the tech industry. The invite-only app, however, was recently banned in China over censorship.
+
+
