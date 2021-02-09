@@ -23918,3 +23918,50 @@
 > LONDON (Reuters) - Tesla Inc expects to allow customers to pay for its electric vehicles with bitcoin soon, the automaker said on Monday, a move that could expand how the most popular cryptocurrency is used for real-world transactions. FILE PHOTO: A Tesla Model 3 electric vehicle is shown in this picture illustration taken in Moscow, Russia July 23, 2020. REUTERS/Evgenia Novozhenina Although bitcoin has become more of a household name in recent years, it is still mostly used as an investment product rather than a form of payment.
 
 
+***
+![Family of novice investor who killed himself sue Robinhood](https://fox5sandiego.com/wp-content/uploads/sites/15/2021/02/AP21040058197445.jpg?w=1280 "Family of novice investor who killed himself sue Robinhood")
+
+
+[Family of novice investor who killed himself sue Robinhood](https://fox5sandiego.com/news/tech/family-of-novice-investor-who-killed-himself-sue-robinhood/)
+
+
+> LOS ANGELES (AP) — The family of a novice stock trader who killed himself after mistakenly believing he lost more than $700,000 are suing Robinhood Financial, claiming the popular stock-trading platform's business practices 'directly' led to their son's death. The complaint, filed Monday in state court in Santa Clara County, California, seeks unspecified damages on behalf of the parents and sister of Alex Kearns for wrongful death, negligent infliction of emotional distress and unfair business practices.
+
+
+***
+[Reddit has raised more than $250M Series E led by Vy Capital at a $6B valuation, doubling in value since its last funding round in February 2019 (Sarah E. Needleman/Wall Street Journal)](http://www.techmeme.com/210208/p35#a210208p35)
+
+
+> Sarah E. Needleman / Wall Street Journal: Reddit has raised more than $250M Series E led by Vy Capital at a $6B valuation, doubling in value since its last funding round in February 2019 — Its WallStreetBets community played a prominent role in recent stock-trading frenzy — Reddit Inc. doubled its valuation to $6 billion …
+
+
+***
+![Facebook, Twitter outpaced by smaller platforms in fight against harmful content: agency](https://i-invdn-com.akamaized.net/news/LYNXMPED5Q0VX-ORUTP_L.jpg "Facebook, Twitter outpaced by smaller platforms in fight against harmful content: agency")
+
+
+[Facebook, Twitter outpaced by smaller platforms in fight against harmful content: agency](https://www.investing.com/news/technology-news/facebook-twitter-among-platforms-failing-to-prevent-harmful-content-agency-2412293)
+
+
+> © Reuters. FILE PHOTO: The Twitter and Facebook logos along with binary cyber codes are seen in this illustration By Sheila Dang (Reuters) - Facebook (NASDAQ:), Twitter and Alphabet (NASDAQ:)'s YouTube made smaller strides than their social media rivals including TikTok and Reddit at battling harmful content such as hate speech and misinformation during the second half of 2020, a study released on Monday showed. Advertising agency IPG Mediabrands released its "Media Responsibility Index," examining how the top social media platforms performed in 10 areas including protecting children's wellbeing, providing more transparency for advertisers and combating misinformation and disinformation.
+
+
+***
+![Reddit's valuation doubles to $6 billion after new funding round](https://i-invdn-com.akamaized.net/news/Computer-(tech-sector)2_800x533_L_1412602635.jpg "Reddit's valuation doubles to $6 billion after new funding round")
+
+
+[Reddit's valuation doubles to $6 billion after new funding round](https://www.investing.com/news/technology-news/reddits-valuation-doubles-to-6-billion-after-new-funding-round--wsj-2412922)
+
+
+> No body in the article.
+
+
+***
+![Family of novice investor who killed himself sue Robinhood](https://www.abc27.com/wp-content/uploads/sites/55/2021/02/823b6bfc54e74fee8a5e82926f43edf4.jpg?w=1280 "Family of novice investor who killed himself sue Robinhood")
+
+
+[Family of novice investor who killed himself sue Robinhood](https://www.abc27.com/news/us-world/tech/family-of-novice-investor-who-killed-himself-sue-robinhood/)
+
+
+> LOS ANGELES (AP) — The family of a novice stock trader who killed himself after mistakenly believing he lost more than $700,000 are suing Robinhood Financial, claiming the popular stock-trading platform's business practices 'directly' led to their son's death. The complaint, filed Monday in state court in Santa Clara County, California, seeks unspecified damages on behalf of the parents and sister of Alex Kearns for wrongful death, negligent infliction of emotional distress and unfair business practices.
+
+
