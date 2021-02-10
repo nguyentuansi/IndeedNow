@@ -24687,3 +24687,53 @@
 > February 10, 2021 05:00 AM Eastern Standard Time LONDON--(BUSINESS WIRE)--Navint, an advisory and technology firm that helps enterprise organisations drive growth and operational efficiency, today announced its expansion into the UK and EMEA. This investment comes in direct response to a surge in customer demand for Lead-to-Revenue (LTR) transformation services, as well as increased interest in Configure, Price, Quote (CPQ) and Billing implementation throughout the region. "Navint is committed to helping our clients improve the way they go to market and automate their most pressing lead-to-revenue challenges.
 
 
+***
+![Over 10 million Android devices affected after QR code scanner was infected by malware after update](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/210210-Malware-QR-barcode-scanner-app-seo.jpg "Over 10 million Android devices affected after QR code scanner was infected by malware after update")
+
+
+[Over 10 million Android devices affected after QR code scanner was infected by malware after update](https://www.soyacincau.com/2021/02/10/this-qr-code-scanner-was-infected-by-malware-after-an-update-over-10-million-android-devices-are-affected/)
+
+
+> Cybersecurity researchers at Malwarebytes reported that Android users who installed Lavabird Ltd's Barcode Scanner app experienced adverts appearing unexpectedly on their Android devices. — SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Feb 10 — A popular QR code scanner on Google Play was transformed into a nasty bit of malware that has infected 10 million Android users. In a blog post, cybersecurity researchers at Malwarebytes reported that Android users who installed Lavabird Ltd's Barcode Scanner app experienced adverts appearing unexpectedly on their Android devices.
+
+
+***
+![10 held for alleged $100-million cryptocurrency theft from celebs, others – Europol](https://assets2.rappler.com/2021/02/cryptocurrency-theft-shutterstock-february-10-2021-1612954247699.jpg "10 held for alleged $100-million cryptocurrency theft from celebs, others – Europol")
+
+
+[10 held for alleged $100-million cryptocurrency theft from celebs, others – Europol](https://www.rappler.com/technology/hackers-arrested-alleged-cryptocurrency-theft)
+
+
+> Europol, the European police agency, said on Wednesday, February 10, it had assisted in the arrest of 10 hackers suspected of stealing $100 million in cryptocurrency in "SIM-swapping" attacks that allowed suspects to gain access to their victims' phones. "The attacks orchestrated by this criminal gang targeted thousands of victims throughout 2020, including famous internet influencers, sport stars, musicians and their families," the agency said in a statement. The arrests were made after an investigation with cooperation from Britain, the United States, Belgium, Malta and Canada, Europol said.
+
+
+***
+![Tech: Creating a Sarawak-oriented digital bank](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dyuzg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=646&y=417 "Tech: Creating a Sarawak-oriented digital bank")
+
+
+[Tech: Creating a Sarawak-oriented digital bank](http://www.theedgemarkets.com/article/tech-creating-sarawakoriented-digital-bank)
+
+
+> © Provided by The Edge THE Sarawak government's interest in obtaining a digital banking licence has raised quite a few eyebrows, as it is going up against well-known corporations. Against this backdrop, little-known Vision Group is hoping to get a bite of the cherry by forming a consortium with the Sarawak government and, possibly, other strategic partners. The company believes its alternative credit model and differentiated digital financial services are suitable for East Malaysia. But, first, the state government will have to prevail over its rivals, which reportedly include e-hailing giant Grab, tech firm Green Packet Bhd, digital services provider PUC Bhd, conglomerate Sunway Bhd, gaming firm Razer, budget airline operator AirAsia Group Bhd and Axiata Digital, the digital services arm of telco operator Axiata Group Bhd.
+
+
+***
+![TIGER, Hyundai's new concept car, can walk!](https://imagevars.gulfnews.com/2021/02/10/auto-hyundai_1778b8afe67_medium.jpg "TIGER, Hyundai's new concept car, can walk!")
+
+
+[TIGER, Hyundai's new concept car, can walk!](https://gulfnews.com/auto/news/tiger-hyundais-new-concept-car-can-walk-1.1612954381316)
+
+
+> Robotic vehicle is designed to work as a four-wheel drive or a four-legged walking machine Published:  February 10, 2021 14:52 Sony Thomas, Senior Editor Hyundai has revealed an uncrewed ultimate mobility vehicle (UMV) concept named TIGER, an acronym for Transforming Intelligent Ground Excursion Robot. The company's second UMV and the first designed to be unscrewed can carry various types of payload while travelling over challenging terrain. Image Credit: Supplied TIGER, developed by Hyundai Motor Group's New Horizons Studio in partnership with Autodesk and Sundberg-Ferar, is intended to carry payloads over remote and inaccessible terrain and designed to operate as a four-wheel drive vehicle or a four-legged walking machine.
+
+
+***
+![Twitter says will not fully comply with India government orders to take down some accounts](https://imagevars.gulfnews.com/2020/12/06/Twitter_17638e0fea2_medium.jpg "Twitter says will not fully comply with India government orders to take down some accounts")
+
+
+[Twitter says will not fully comply with India government orders to take down some accounts](https://gulfnews.com/technology/media/twitter-says-will-not-fully-comply-with-india-government-orders-to-take-down-some-accounts-1.1612952891155)
+
+
+> Image Credit: Shutterstock New Delhi: Twitter Inc said on Wednesday it would not fully comply with orders from Prime Minister Narendra Modi's government to take down some accounts as it does not believe the orders are consistent with Indian law. It has permanently suspended some accounts but for others, it has only restricted access within India and the tweets can still be read outside the country. The US social media giant has found itself in a heated no-win row with Modi's administration, which wants it to take down more than 1,100 accounts and posts that the government argues are spreading misinformation about months-long farmers' protests against new agricultural laws.
+
+
