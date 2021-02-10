@@ -24934,3 +24934,53 @@
 > This smart sous vide is slightly slower at heating water and doesn't have a Wi-Fi connection, but what it does have going for it is its great size, price, and precision. Most importantly, you have the option of controlling the user-friendly Nano either through your smartphone (via Bluetooth) or through its touchscreen display. $109 at Amazon Affordable User-friendly Precise temperature control Bluetooth enabled Touchscreen display No Wi-Fi connection Less power and slower at heating water Fixed clamp The Breville Joule Sous Vide is what you think of when it comes to smart kitchen gadgets.
 
 
+***
+![Visual Studio for Python: Worth it?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Visual Studio for Python: Worth it?")
+
+
+[Visual Studio for Python: Worth it?](https://www.reddit.com/r/Python/comments/lh56fl/visual_studio_for_python_worth_it/)
+
+
+> Lately, I have been learning C# and started to use Visual Studio. I kinda fell in love with it. I have seen that VS supports Python, I am thinking to start to use. Is it worth it? (I have been using VS Code for Python)
+
+
+***
+![Vanguard Purchases 57.M Tesla Shares, Becomes Third-Largest Shareholder](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/2120x920_supercharger_detail_5.jpg "Vanguard Purchases 57.M Tesla Shares, Becomes Third-Largest Shareholder")
+
+
+[Vanguard Purchases 57.M Tesla Shares, Becomes Third-Largest Shareholder](https://www.benzinga.com/tech/21/02/19599057/vanguard-purchases-57-m-tesla-shares-becomes-third-largest-shareholder)
+
+
+> After joining the S&P 500,  Tesla Inc (NASDAQ: TSLA )   has been added to many index funds that follow the benchmark. But large companies have been investing in Tesla for many years. According to a 13G filing with the SEC , Vanguard has upped its investment in Tesla. Vanguard purchased over 57 million shares, making it the thir- largest shareholder in Tesla, with CEO Elon Musk being the No. 1 holder and Susquehanna Securities No. 2, according to Investopedia . Tesla has had an impressive run, up approximately 1,000% from its lockdown lows in March.
+
+
+***
+![Uber reports soft Q4 revenue but profitability target remains in view](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Uber reports soft Q4 revenue but profitability target remains in view")
+
+
+[Uber reports soft Q4 revenue but profitability target remains in view](https://seekingalpha.com/news/3660833-uber-reports-soft-q4-revenue-but-profitability-target-remains-in-view)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Trimble EPS beats by $0.10, beats on revenue (NASDAQ:TRMB)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Trimble EPS beats by $0.10, beats on revenue (NASDAQ:TRMB)")
+
+
+[Trimble EPS beats by $0.10, beats on revenue (NASDAQ:TRMB)](https://seekingalpha.com/news/3660808-trimble-eps-beats-0_10-beats-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Axcelis Technologies EPS beats by $0.13, beats on revenue (NASDAQ:ACLS)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Axcelis Technologies EPS beats by $0.13, beats on revenue (NASDAQ:ACLS)")
+
+
+[Axcelis Technologies EPS beats by $0.13, beats on revenue (NASDAQ:ACLS)](https://seekingalpha.com/news/3660785-axcelis-technologies-eps-beats-0_13-beats-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
