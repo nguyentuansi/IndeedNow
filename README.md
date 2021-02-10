@@ -24587,3 +24587,53 @@
 > Alizeh Kohari / Rest of World: How a Pakistan-born developer's open letter to Tim Cook helped bring the Urdu language typeface to Apple devices — For decades, it was nearly impossible to type in Urdu online. Meet the people fighting to digitally preserve its script. — • KARACHI, PAKISTAN
 
 
+***
+![Apple rings in 'Niu' Year with CNY playlists and Malaysian content creators](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/cny-snowflake-airpods-202101-seo.jpg "Apple rings in 'Niu' Year with CNY playlists and Malaysian content creators")
+
+
+[Apple rings in 'Niu' Year with CNY playlists and Malaysian content creators](https://www.malaymail.com/news/tech-gadgets/2021/02/10/apple-rings-in-niu-year-with-cny-playlists-and-malaysian-content-creators/1948629)
+
+
+> This year, you can get your cowbell on with oxen-themed AirPods Pro. — Picture courtesy of Apple Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Feb 10 — It's another Chinese New Year and Apple as usual has both products, playlists and some fun photoshoots from Malaysian iPhone-snappers. If you haven't seen it yet, there's a new limited AirPods Pro with a cute ox logo in front that's priced at the same retail price as the regular AirPods Pro: RM1,099.
+
+
+***
+![Twitter says India's orders to block accounts inconsistent with local law](https://assets2.rappler.com/2021/02/reuters-20210210-twitter-2021-02-06T101115Z_1187272068_RC2YML93181F_RTRMADP_3_INDIA-TWITTER-1612939728667.jpg "Twitter says India's orders to block accounts inconsistent with local law")
+
+
+[Twitter says India's orders to block accounts inconsistent with local law](https://www.rappler.com/technology/social-media/twitter-says-india-orders-block-accounts-inconsistent-local-law)
+
+
+> Twitter said on Tuesday, February 9, it believes orders by the Indian government to take down accounts are inconsistent with local law and that for some accounts, it would not agree to an outright ban and would instead restrict access within India. Prime Minister Narendra Modi's government has asked Twitter to take down more than 1,100 accounts and posts it says accuse the administration of trying to wipe out farmers. Some accounts, the government said, are backed by arch-rival Pakistan or are operated by supporters of a separatist Sikh movement.
+
+
+***
+![iPhone manufacturing to resume at Wistron plant in Karnataka shut after violence](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-01-26_at_10_1200_210210104425.33-483x271.png "iPhone manufacturing to resume at Wistron plant in Karnataka shut after violence")
+
+
+[iPhone manufacturing to resume at Wistron plant in Karnataka shut after violence](https://www.indiatoday.in/technology/news/story/iphone-manufacturing-to-resume-at-wistron-plant-in-karnataka-shut-after-violence-1767684-2021-02-10)
+
+
+> In December, over 2000 employees who worked at the Wistron Plant in Naraspura went on a rampage destroying the company's equipment and furniture. Ankita Chakravarti | February 10, 2021 | Updated 10:20 IST
+
+
+***
+![Nokia 5.4 quick review: Appealing looks, big display](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/nokia_5_1200_210210130524.4_back_it-483x271.jpeg "Nokia 5.4 quick review: Appealing looks, big display")
+
+
+[Nokia 5.4 quick review: Appealing looks, big display](https://www.indiatoday.in/technology/features/story/nokia-5-4-quick-review-appealing-looks-big-display-1767779-2021-02-10)
+
+
+> HMD's new Nokia 5.4 places a huge bet on the pure Android experience that it comes with but is it enough? Read our first impressions of Nokia 5.4. Shubham Verma | February 10, 2021 | Updated 12:50 IST
+
+
+***
+![Nokia 5.4, Nokia 3.4 coming soon to India and this is how they will fight Realme, Redmi](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/nokia_3_1200_210210104434.4_press_0-483x271.jpeg "Nokia 5.4, Nokia 3.4 coming soon to India and this is how they will fight Realme, Redmi")
+
+
+[Nokia 5.4, Nokia 3.4 coming soon to India and this is how they will fight Realme, Redmi](https://www.indiatoday.in/technology/features/story/nokia-5-4-nokia-3-4-coming-soon-to-india-and-this-is-how-they-will-fight-realme-redmi-1767680-2021-02-10)
+
+
+> HMD will launch its ammo for India's mid-range market soon against the Realme and Redmi phones. Shubham Verma | February 10, 2021 | Updated 10:24 IST
+
+
