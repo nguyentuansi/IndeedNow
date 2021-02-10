@@ -24393,3 +24393,53 @@
 > Javascript is Disabled Your current browser configuration is not compatible with this site.
 
 
+***
+![Beast of a phone](https://static.bangkokpost.com/media/content/dcx/2021/02/10/3890243_700.jpg "Beast of a phone")
+
+
+[Beast of a phone](https://www.bangkokpost.com/tech/2065719/beast-of-a-phone)
+
+
+> Do you want a phone that is refined and stuffed to the brim with pro-grade video and photo features? Then the Samsung Galaxy S21 Ultra will serve you well. The screen is the main selling point for any top-of-the line Samsung phone. Customers can rely on Samsung to provide a screen that will spoil the eyes. This year the top phone comes with a slightly curved 3200x1400 resolution screen that is dynamically adjusted from 10 to 120Hz refresh rates for buttery smooth animation and power efficiency. The race for a higher dynamic refresh rate has been on since 2020.
+
+
+***
+![Twitter posts strong Q4 results as user base, revenue jumps](https://s.abcnews.com/images/Technology/WireAP_0c7ba143b6bb4197b8416d223f05e3c9_16x9_992.jpg "Twitter posts strong Q4 results as user base, revenue jumps")
+
+
+[Twitter posts strong Q4 results as user base, revenue jumps](https://abcnews.go.com/Technology/wireStory/twitter-posts-strong-q4-results-user-base-revenue-75787552)
+
+
+> Twitter posted solid results for the last three months of 2020, capping what CEO Jack Dorsey called 'an extraordinary year' for the platform Twitter posted solid results for the last three months of 2020, capping what CEO Jack Dorsey called 'an extraordinary year" for the platform. New users signed on in large numbers to follow the world's events in real time despite the challenges of election misinformation and intensifying calls to ban now former President Donald Trump. The San Francisco-based company earned $222.
+
+
+***
+![Hack exposes vulnerability of cash-strapped US water plants](https://s.abcnews.com/images/Technology/WireAP_de147ff5bddd4c15a3c3ac6803ac7849_16x9_992.jpg "Hack exposes vulnerability of cash-strapped US water plants")
+
+
+[Hack exposes vulnerability of cash-strapped US water plants](https://abcnews.go.com/Technology/wireStory/hack-exposes-vulnerability-cash-strapped-us-water-plants-75789401)
+
+
+> ST. PETERSBURG, Fla. -- A hacker's botched attempt to poison the water supply of a small Florida city is raising alarms about just how vulnerable the nation's water systems may be to attacks by more sophisticated intruders. Treatment plants are typically cash-strapped, and lack the cybersecurity depth of the power grid and nuclear plants. A local sheriff's startling announcement Monday that the water supply of Oldsmar, population 15,000, was briefly in jeopardy last week exhibited uncharacteristic transparency.
+
+
+***
+![UAE Hope probe reaches Mars orbit ahead of China and US missions](https://s.abcnews.com/images/Technology/uae-mars-probe-01-sh-jc-210209_1612899333680_hpMain_16x9_992.jpg "UAE Hope probe reaches Mars orbit ahead of China and US missions")
+
+
+[UAE Hope probe reaches Mars orbit ahead of China and US missions](https://abcnews.go.com/Technology/uae-hope-probe-reaches-mars-orbit-ahead-china/story?id=75782616)
+
+
+> Earth's invasion of Mars has officially kicked off as the United Arab Emirates' Hope probe entered the red planet's orbit Tuesday. China's Tianwen-1 mission is not far behind, expected to enter Mars' orbit on Wednesday. The U.S., meanwhile, is set to land NASA's Perseverance rover on Mars next week. A handout illustration made available by the Mohammed Bin Rashid Space Center depicts the arrival of the Hope Probe to Mars orbit on Feb. 9, 2021. All three nations launched their separate Mars missions within days of each other this past summer, initiating an international deep space race to explore Earth's neighboring planet.
+
+
+***
+![Google to pay British publishers for news](https://www.telegraph.co.uk/content/dam/news/2020/12/14/TELEMMGLPICT000246020429_trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U.jpeg?impolicy=logo-overlay "Google to pay British publishers for news")
+
+
+[Google to pay British publishers for news](https://www.telegraph.co.uk/technology/2021/02/10/google-pay-british-publishers-news/)
+
+
+> Google is rolling out its News Showcase tab in the UK today after striking a landmark deal with more than 120 British publications to pay for news content. The launch, part of a $1bn (£750m) global investment in newspapers, means publishers will be paid a licensing fee for producing extracts of news that appear in Google News Showcase. The tool will feature in Google News and Discover feeds in Android and iOS. Users will see panels from publishers they follow in their personalised feeds which will then link through to articles on publishers' websites.
+
+
