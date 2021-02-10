@@ -24637,3 +24637,53 @@
 > HMD will launch its ammo for India's mid-range market soon against the Realme and Redmi phones. Shubham Verma | February 10, 2021 | Updated 10:24 IST
 
 
+***
+![This bank adds a personal touch to wealth management for UAE clients](https://sm.mashable.com/mashable_me/seo/default/banner-1920x10802_mjb6.jpg "This bank adds a personal touch to wealth management for UAE clients")
+
+
+[This bank adds a personal touch to wealth management for UAE clients](https://me.mashable.com/tech/12857/this-bank-adds-a-personal-touch-to-wealth-management-for-uae-clients)
+
+
+> Technology has revolutionized almost every aspect of human life right from work to shopping as well as healthcare, especially in the past year. Seamless transactions came to the rescue when cashless payments became essential and visits to the bank were cut down over restrictions, fueling the rise of digital banking. The dedication towards scaling up consumer convenience has also inspired a more personalized approach, and Citibank has been proactive in serving its UAE-based clients. Citigold is a service that caters to the specific needs of affluent clients, with dedicated services starting with a relationship manager, right down to simplifying investment advice.
+
+
+***
+![Encrypt your emails and protect your sensitive info with this app](https://mondrian.mashable.com/2021%252F02%252F10%252Faf%252F4558b997d5d74e84829dece352efad8e.f247d.jpg%252F1200x630.jpg?signature=OYukIvDlBKC2IZKCy850LGrZi4k= "Encrypt your emails and protect your sensitive info with this app")
+
+
+[Encrypt your emails and protect your sensitive info with this app](https://mashable.com/shopping/feb-10-securemyemail-lifetime-subscription/)
+
+
+> TL;DR: Keep your emails private and encrypted with a subscription to SecureMyEmail . As of Feb. 10, get a lifetime subscription for $99.99, a 93% savings.  Whether you're working on a first-of-its-kind business project, dealing with sensitive information, or just value your privacy, email encryption can be a useful tool. The SecureMyEmail app from Witopia will encrypt your emails end-to-end. They'll also have the ability to "self-destruct" as necessary.  The SecureMyEmail app works with plenty of email services, including Gmail and Yahoo.
+
+
+***
+![How to charge 3 devices at once without cluttering your desk](https://mondrian.mashable.com/2021%252F02%252F10%252F60%252F7988aafcdcfd46199adcdb4ad63b8bb3.15518.jpg%252F1200x630.jpg?signature=exRLIkpCUJCv52cc1mGi_l1ALeE= "How to charge 3 devices at once without cluttering your desk")
+
+
+[How to charge 3 devices at once without cluttering your desk](https://mashable.com/shopping/feb-10-wireless-charging-dock-for-iphone-apple-watch-and-airpods/)
+
+
+> TL;DR: Cut back on cord clutter with this Wireless Charging Dock for iPhone, Apple Watch, and AirPods , on sale for $101.99 — a 30% discount — as of Feb. 10. Finding and untangling cords every time you need to charge your phone just isn't the move anymore. This is 2021, and w charge our devices in style. Time to upgrade to a snazzy wireless dock. For a limited time, you can add this sleek wireless charging station , which is made of walnut and topped with felt, to your desk for just over $100. There are designated spots to house your Qi-compatible phone, Apple Watch, and any earbuds capable of charging wirelessly.
+
+
+***
+![Huawei files US lawsuit disputing that it is a security threat](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/01/0/0/CHINESE_FLAG_HUAWEI_1280-720.png?ve=1&tl=1 "Huawei files US lawsuit disputing that it is a security threat")
+
+
+[Huawei files US lawsuit disputing that it is a security threat](https://www.wsj.com/articles/huawei-files-u-s-lawsuit-disputing-it-is-a-security-threat-11612880705?mod=business_lead_pos7)
+
+
+> China's Huawei Technologies Co. filed a lawsuit in the U.S. disputing its designation as a national security threat by the Federal Communications Commission , stepping up legal challenges in the country despite a change of administration in Washington. The lawsuit filed Monday in the U.S. Court of Appeals for the Fifth Circuit asked for a review of an FCC ruling last year that found the company poses a national security threat and blocked American telecommunications operators from accessing a multibillion-dollar fund to buy Huawei-made telecom gear.
+
+
+***
+![Navint Expands Presence in Europe as Demand for Lead-to-Revenue Services Surges Across EMEA](http://www.businesswire.com/images/bwlogo_square.png "Navint Expands Presence in Europe as Demand for Lead-to-Revenue Services Surges Across EMEA")
+
+
+[Navint Expands Presence in Europe as Demand for Lead-to-Revenue Services Surges Across EMEA](https://www.businesswire.com/news/home/20210210005171/en/Navint-Expands-Presence-in-Europe-as-Demand-for-Lead-to-Revenue-Services-Surges-Across-EMEA)
+
+
+> February 10, 2021 05:00 AM Eastern Standard Time LONDON--(BUSINESS WIRE)--Navint, an advisory and technology firm that helps enterprise organisations drive growth and operational efficiency, today announced its expansion into the UK and EMEA. This investment comes in direct response to a surge in customer demand for Lead-to-Revenue (LTR) transformation services, as well as increased interest in Configure, Price, Quote (CPQ) and Billing implementation throughout the region. "Navint is committed to helping our clients improve the way they go to market and automate their most pressing lead-to-revenue challenges.
+
+
