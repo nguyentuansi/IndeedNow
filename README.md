@@ -24443,3 +24443,50 @@
 > Google is rolling out its News Showcase tab in the UK today after striking a landmark deal with more than 120 British publications to pay for news content. The launch, part of a $1bn (£750m) global investment in newspapers, means publishers will be paid a licensing fee for producing extracts of news that appear in Google News Showcase. The tool will feature in Google News and Discover feeds in Android and iOS. Users will see panels from publishers they follow in their personalised feeds which will then link through to articles on publishers' websites.
 
 
+***
+[Jack Dorsey expands on his vision of a decentralized social network and suggests an "app-store-like view of ranking algorithms" for users to select options (Jacob Kastrenakes/The Verge)](http://www.techmeme.com/210209/p45#a210209p45)
+
+
+> Jacob Kastrenakes / The Verge: Jack Dorsey expands on his vision of a decentralized social network and suggests an “app-store-like view of ranking algorithms” for users to select options — Dorsey expands on Twitter's vision for a decentralized network — Twitter CEO Jack Dorsey imagines a future …
+
+
+***
+![iPhone 11 Max Download Speeds](https://forums.macrumors.com/attachments/f8203e78-a2cd-4ce1-9034-dac12cc6d8d4-jpeg.1727857/ "iPhone 11 Max Download Speeds")
+
+
+[iPhone 11 Max Download Speeds](https://forums.macrumors.com/threads/iphone-11-max-download-speeds.2284054/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I've got 5G with 3 in the UK. Unlimited data and use it for my home broadband. When I do a speed test I get great speeds of 640 Mbps down and 40 Mbps up. When I actually download a film from Netflix I average about 80 Mbps download speed with the highest being 200 but this happened only once. Can someone explain why with speed tests which also downloads data I get real 5G speeds but when I do actual downloads I get 4G speeds.
+
+
+***
+![GM's Super Cruise feels like it's self-driving, but it's not](https://mondrian.mashable.com/2021%252F02%252F10%252F8c%252Ff0d750adf40d4ec0a2507b20a0d5c453.cc92b.png%252F1200x630.png?signature=BEoLdtOZ3YH9Oaa4BxqN_83dX-s= "GM's Super Cruise feels like it's self-driving, but it's not")
+
+
+[GM's Super Cruise feels like it's self-driving, but it's not](https://mashable.com/article/gm-super-cruise-advanced-driving-system/)
+
+
+> Earlier this month, I was changing lanes on Bay Area highways with just the push of a turn signal in a Cadillac Escalade with the latest version of Super Cruise.  I didn't have to check my blind spot or quickly accelerate to get over. The massive SUV did all that for me once its cameras, radars, and sensing equipment determined it was safe to do so. Once centered in the new lane I turned the indicator off, put my hands back in my lap, and the car continued to drive me along. Super Cruise is a driver assistance technology that's been available in certain Cadillac models since 2017 and is coming to more GM cars in the future, with 22 vehicle types slated to be equipped with the hands-free driving system by 2023.
+
+
+***
+![Intel isn't messing around if these Alder Lake-S benchmarks are real](https://cdn.mos.cms.futurecdn.net/Y2hD2oYgBKnBWLE4Kr2RjP-1200-80.jpg "Intel isn't messing around if these Alder Lake-S benchmarks are real")
+
+
+[Intel isn't messing around if these Alder Lake-S benchmarks are real](https://www.techradar.com/news/intel-isnt-messing-around-if-these-alder-lake-s-benchmarks-are-real)
+
+
+> (Image credit: Intel) A benchmark for an engineering sample of Intel's upcoming 10nm Alder Lake-S CPUs appears to show the new big.LITTLE CPU already outperforming an i9-9900K processor.Several benchmark results for Intel's next-generation CPU - expected to arrive in late 2021 - have already appeared online, including one showing it supporting DDR5 RAM. This one that shows the processor's base frequency reaching 2.2GHz, which is the highest we've seen from the so far from Alder Lake-S in terms of its base frequency.
+
+
+***
+![Intel isn&rsquo;t messing around if these Alder Lake-S benchmarks are real](https://cdn.mos.cms.futurecdn.net/Y2hD2oYgBKnBWLE4Kr2RjP-1200-80.jpg "Intel isn&rsquo;t messing around if these Alder Lake-S benchmarks are real")
+
+
+[Intel isn&rsquo;t messing around if these Alder Lake-S benchmarks are real](https://www.techradar.com/news/intel-isnt-messing-around-if-these-alder-lake-s-benchmarks-are-real)
+
+
+> (Image credit: Intel) A benchmark for an engineering sample of Intel's upcoming 10nm Alder Lake-S CPUs appears to show the new big.LITTLE CPU already outperforming an i9-9900K processor.Several benchmark results for Intel's next-generation CPU - expected to arrive in late 2021 - have already appeared online, including one showing it supporting DDR5 RAM. This one that shows the processor's base frequency reaching 2.2GHz, which is the highest we've seen from the so far from Alder Lake-S in terms of its base frequency.
+
+
