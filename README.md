@@ -24884,3 +24884,53 @@
 > February 10, 2021 12:57 PM Eastern Standard Time CHESEAUX-SUR-LAUSANNE, Switzerland & PHOENIX--(BUSINESS WIRE)--Kudelski IoT – a unit of the Kudelski Group (SIX:KUD), a leading global technology and security provider – today announced the launch of RecovR, a two-in-one lot management and theft recovery solution that enables car dealerships to manage their lots more efficiently, improve the sales process and create a new revenue stream while providing consumers with the most advanced and reliable theft recovery solution on the market.
 
 
+***
+![Facebook to temporarily reduce political content for some users in few countries](https://assets2.rappler.com/2021/02/reuters-20200106-facebook-logo-1612966594474.jpg "Facebook to temporarily reduce political content for some users in few countries")
+
+
+[Facebook to temporarily reduce political content for some users in few countries](https://www.rappler.com/technology/social-media/facebook-temporarily-reduce-political-content-february-2021)
+
+
+> Facebook Inc said on Wednesday, February 10, it would temporarily reduce political content appearing on New Feeds for some users in Canada, Brazil, and Indonesia this week and in the United States within the coming weeks. Chief Executive Officer Mark Zuckerberg said in January that he wanted to "turn down the temperature" of political conversations on the social networking site because "people don't want politics and fighting to take over their experience on our services." Reducing the frequency of political content will mark initials steps to explore different ways to rank such content in people's feeds using different signals and understand their preferences, the company said in a blog post .
+
+
+***
+![Double-masking with surgical and cloth reduces Covid exposure up to 96%: CDC](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dzH42.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Double-masking with surgical and cloth reduces Covid exposure up to 96%: CDC")
+
+
+[Double-masking with surgical and cloth reduces Covid exposure up to 96%: CDC](https://www.cnbc.com/2021/02/10/cdc-double-masking-with-a-surgical-and-cloth-mask-reduces-exposure.html)
+
+
+> © Provided by CNBC NEW YORK, NY - APRIL 06: A man wears a double mask as he walks in Times Square on April 6, 2020 in New York City. (Photo by Kena Betancur/Getty Images) Wearing a well-fitting surgical mask underneath a cloth mask reduces potential exposure to Covid-containing respiratory droplets and aerosols by up to 96%, according to a new study from the Centers for Disease Control. The CDC tested two different ways of wearing masks on dummies to see how they could make masks more effective: one was layering a cloth mask over a surgical mask (aka " double-masking "), and the other was knotting the ear loops of a surgical mask, then tucking in and flattening the material so it fits close to the face.
+
+
+***
+![Facebook rolls out news feeds with less politics](https://imagevars.gulfnews.com/2021/02/10/Facebook-logo_1778cd320b1_medium.jpg "Facebook rolls out news feeds with less politics")
+
+
+[Facebook rolls out news feeds with less politics](https://gulfnews.com/technology/media/facebook-rolls-out-news-feeds-with-less-politics-1.1612975351254)
+
+
+> Image Credit: Shutterstock San Francisco: Facebook said Wednesday it began rolling out news feeds with less political subject matter in line with a plan outlined by chief Mark Zuckerberg to reduce inflammatory content. The leading social network said it would begin testing the change "for a small percentage of people" in Canada, Brazil and Indonesia this week, and the United States in the coming weeks. "During these initial tests we'll explore a variety of ways to rank political content in people's feeds using different signals, and then decide on the approaches we'll use going forward," product management director Aastha Gupta said.
+
+
+***
+![MeitY welcomes Twitter to India, keeps it on a short leash though](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/twitter_505x264_100221115543.jpg "MeitY welcomes Twitter to India, keeps it on a short leash though")
+
+
+[MeitY welcomes Twitter to India, keeps it on a short leash though](https://www.businesstoday.in/technology/news/meity-welcomes-twitter-to-india-keeps-it-on-a-short-leash-though/story/430906.html)
+
+
+> The IT Secretary emphasised that Twitter is welcome to do business in India but raised doubts about its commitment to transparency and healthy conversation on the platform KEY HIGHLIGHTS IT Ministry welcomes Twitter to do busines in India, yet raises doubts about transparency Lawful orders are binding on any business entity and must be obeyed immediately, MeitY tells Twitter Twitter global leadership requests better engagement with Government of India The high-profile virtual meeting between Ajay Prakash Sawhney, Secretary, Ministry of Electronics and Information Technology (MeitY), and Twitter global delegates - Monique Meche, Vice President-Global Public Policy and Jim Baker, Deputy General Counsel and Vice President-Legal - concluded a little while from now.
+
+
+***
+![Should you get the Anova Nano or Breville Joule smart sous vide?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/anova-precision-cooker-nano-lifestyle.jpg "Should you get the Anova Nano or Breville Joule smart sous vide?")
+
+
+[Should you get the Anova Nano or Breville Joule smart sous vide?](https://www.androidcentral.com/anova-nano-vs-breville-joule)
+
+
+> This smart sous vide is slightly slower at heating water and doesn't have a Wi-Fi connection, but what it does have going for it is its great size, price, and precision. Most importantly, you have the option of controlling the user-friendly Nano either through your smartphone (via Bluetooth) or through its touchscreen display. $109 at Amazon Affordable User-friendly Precise temperature control Bluetooth enabled Touchscreen display No Wi-Fi connection Less power and slower at heating water Fixed clamp The Breville Joule Sous Vide is what you think of when it comes to smart kitchen gadgets.
+
+
