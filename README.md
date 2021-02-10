@@ -24787,3 +24787,53 @@
 > Video games should be playable by people of all experience levels and skill sets. This shouldn't be a controversial statement. Yet, it often is. For years, gamer culture—the toxic parts of it, at least—insisted on gatekeeping, on maintaining that games be difficult and complex to restrict 'filthy casuals' from entering the fray. But as casual players have grown in numbers, it's become harder for gamers, and game companies, to ignore them. It's understandable that studios want to appeal to a certain type of player—especially when the developers and writers at those studios are creating the kind of game they themselves want to enjoy.
 
 
+***
+![Apple Car: After Hyundai Fallout, Rumors Of Renault Partnership Appear](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/aappl.jpg "Apple Car: After Hyundai Fallout, Rumors Of Renault Partnership Appear")
+
+
+[Apple Car: After Hyundai Fallout, Rumors Of Renault Partnership Appear](https://www.benzinga.com/tech/21/02/19582323/apple-car-after-hyundai-fallout-rumors-of-renault-partnership-appear)
+
+
+> The Apple Inc. (NASDAQ: AAPL ) Car project continues to heat the market, although not directly the Apple stock. For some time, the Cupertino company has been working on a fully autonomous electric car, but it doesn't seem to have found the right partner among car manufacturers so far. Apple-Hyundai Deal Is Off:   Until a few days ago, the agreement with Hyundai Motor Company Ltd.  (OTC: HYMTF ) seemed like a done deal. The South Korean company - after the first successful approaches last January - was ready to make the Kia plant in West Point (Georgia) available to Apple, but some days ago the process came to a screeching halt, apparently due to internal disagreements within the Hyundai board.
+
+
+***
+![Twitter sees jump in user base amid US election turmoil](https://media2.malaymail.com/resize_cache/uploads/articles/2015-11/twitter1511s-seo.jpg "Twitter sees jump in user base amid US election turmoil")
+
+
+[Twitter sees jump in user base amid US election turmoil](https://www.malaymail.com/news/tech-gadgets/2021/02/10/twitter-sees-jump-in-user-base-amid-us-election-turmoil/1948816)
+
+
+> Twitter said yesterday its user base jumped to 192 million in the quarter marked by US presidential election turmoil and a battle against misinformation. — AFP pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 10 — Twitter said yesterday its user base jumped to 192 million in the quarter marked by US presidential election turmoil and a battle against misinformation. Ranks of 'monetisable' daily active Twitter users rose 27 per cent from a year earlier during the fourth quarter, which ended just days before former president Donald Trump was booted from the service.
+
+
+***
+![Report: 2021 MacBook Pro may adopt the iPhone 12's flat-edged design](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/200504-apple-macbook-pro-16-review-malaysia-specs-price-14-768x432-seo.jpg "Report: 2021 MacBook Pro may adopt the iPhone 12's flat-edged design")
+
+
+[Report: 2021 MacBook Pro may adopt the iPhone 12's flat-edged design](https://www.malaymail.com/news/tech-gadgets/2021/02/10/report-2021-macbook-pro-may-adopt-the-iphone-12s-flat-edged-design/1948807)
+
+
+> Apple may introduce a new 2021 MacBook Pro that takes some design cues from the iPhone 12 series. — SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Feb 10 — Apple may introduce a new 2021 MacBook Pro that takes some design cues from the iPhone 12 series, according to a report by reliable Apple analyst Ming-Chi Kuo. This follows Kuo's claim that Apple would omit the Touch Bar from its next MacBook Pro as part of a series redesign. Kuo stated in a recent investor note : In terms of casing design, the new models [MacBook Pro] cancel the curvy design of existing models' top and bottom parts and adopt a flat-edged form factor design similar to the iPhone 12 .
+
+
+***
+![Apple Maps to gain Waze-like features for reporting accidents, hazards and speed traps – TechCrunch](https://techcrunch.com/wp-content/uploads/2018/06/apple-maps.jpg?w=662 "Apple Maps to gain Waze-like features for reporting accidents, hazards and speed traps – TechCrunch")
+
+
+[Apple Maps to gain Waze-like features for reporting accidents, hazards and speed traps – TechCrunch](https://techcrunch.com/2021/02/10/apple-maps-to-gain-waze-like-features-for-reporting-accidents-hazards-and-speed-traps/)
+
+
+> Apple Maps is inching into more Waze-like territory with an update that will give drivers the ability to report road hazards, accidents, or even speed traps. The new features are live now in the iOS 14.5 beta, which is now open to public beta testers as well as developers, but won't roll out to the general public until later this spring, Apple says. To use the new features, drivers will be able to report road issues and incidents by using Siri on their iPhone or through Apple's CarPlay. For example, during navigation, they'll be able to tell Siri things like 'there's a crash up head,' 'there's something on the road,' or 'there's a speed trap here.
+
+
+***
+![Twitter row: Indian politicians urge people to switch to rival local app Koo](https://imagevars.gulfnews.com/2021/02/10/Koo_1778beeec70_medium.jpg "Twitter row: Indian politicians urge people to switch to rival local app Koo")
+
+
+[Twitter row: Indian politicians urge people to switch to rival local app Koo](https://gulfnews.com/technology/media/twitter-row-indian-politicians-urge-people-to-switch-to-rival-local-app-koo-1.1612960522493)
+
+
+> Koo, which has a yellow bird as its logo, said downloads have surged 10-fold in the past two days to over 3 million. Image Credit: Social media New Delhi: US social media giant Twitter locked horns with India on Wednesday saying a government order to remove some accounts was not consistent with Indian law while politicians urged followers to switch to rival local app Koo. Prime Minister Narendra Modi's government has ordered Twitter to remove more than 1,100 accounts and posts which it says are spreading misinformation about widespread protests by farmers against new agricultural laws.
+
+
