@@ -24737,3 +24737,53 @@
 > Image Credit: Shutterstock New Delhi: Twitter Inc said on Wednesday it would not fully comply with orders from Prime Minister Narendra Modi's government to take down some accounts as it does not believe the orders are consistent with Indian law. It has permanently suspended some accounts but for others, it has only restricted access within India and the tweets can still be read outside the country. The US social media giant has found itself in a heated no-win row with Modi's administration, which wants it to take down more than 1,100 accounts and posts that the government argues are spreading misinformation about months-long farmers' protests against new agricultural laws.
 
 
+***
+![Lambdex: Writing more complicated anonymous functions in Python](https://external-preview.redd.it/Hb-YLmGTGm2mhX5LdNK5OQSsdBsPSPpESr5r3jDSd-o.jpg?auto=webp&s=faa39837ffc478cd10110243b38f7b607c224a96 "Lambdex: Writing more complicated anonymous functions in Python")
+
+
+[Lambdex: Writing more complicated anonymous functions in Python](https://www.reddit.com/r/Python/comments/lgu8fm/lambdex_writing_more_complicated_anonymous/)
+
+
+> The repository goes here: hsfzxjy/lambdex , also available on PyPI as package pylambdex . The package lambdex allows you to write complicated anonymous functions other than the built-in lambda s. Take a recursive function that calculates Fibonacci series as an example: from lambdex import def_ def_(lambda n: [ if_[n <= 0] [ raise_[ValueError(f'{n} should be positive')] ], if_[n <= 2] [ return_[1] ], return_[callee_(n - 1) + callee_(n - 2)] # Recursion ])(10) # 55 In the code above, we declare an anonymous function with multiple imperative statements inside, which is more or less similar to the closure in Rust or arrow function in Javascript.
+
+
+***
+![Best AV receivers 2021: which home cinema AV receiver should you buy&quest;](https://cdn.mos.cms.futurecdn.net/92Y4PeGGS2HbboQZd3iX4i-1200-80.jpg "Best AV receivers 2021: which home cinema AV receiver should you buy&quest;")
+
+
+[Best AV receivers 2021: which home cinema AV receiver should you buy&quest;](https://www.techradar.com/news/best-av-receiver-2017-which-home-cinema-av-receiver-should-you-buy)
+
+
+> Kitting out your living room with one of the best AV receivers can quickly transform your humble TV set-up into your own personal home theater system. This is because bagging yourself the best TV on the market might be able to bring that huge cinema screen feel to your home, but it will rarely be able to deliver the audio to match. The answer? In order to get the high-end sound to make the most of your 4K TV, you'll need to buy an AV receiver as well.But... what is an AV receiver, you ask? It may sound like complex audio equipment, but it's really just a way of better controlling your AV setup.
+
+
+***
+![Protect your Oculus Quest 2 from sweat and grime with these face covers](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/vr-cover-quest-2-on-hmd.jpg "Protect your Oculus Quest 2 from sweat and grime with these face covers")
+
+
+[Protect your Oculus Quest 2 from sweat and grime with these face covers](https://www.androidcentral.com/best-oculus-quest-2-face-covers)
+
+
+> Best Oculus Quest 2 Face Covers Android Central 2021 The Oculus Quest 2 has absorbent foam pads that will become sweat-stained and dirtier the longer you use them, which is why we recommend you invest in one of the best Oculus Quest 2 face covers. Depending on the model, you can find pads made of leather, silicone, or other comfortable materials. They often come with multiple pads so you can swap one out for the other and wash it when it gets dirty, without potentially damaging the headset. Here are the best Quest 2 face covers when it comes to coziness and cleanliness.
+
+
+***
+![Mario returns in an overlooked classic and a thrilling new adventure](https://static.ffx.io/images/$zoom_0.5521%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/953b64f26dd4160e33097f622ffbdca92176759b "Mario returns in an overlooked classic and a thrilling new adventure")
+
+
+[Mario returns in an overlooked classic and a thrilling new adventure](https://www.smh.com.au/technology/video-games/mario-returns-in-an-overlooked-classic-and-a-thrilling-new-adventure-20210208-p570f1.html)
+
+
+> Even series mainstays like warp pipes and ghost houses are rethought here, to great effect, and I love the frequent adorable details, like how Peach ties her hair into a ponytail when using the Fire Flower or Boomerang power-ups. Safety first!It's a breezy and hilarious romp through the core eight worlds; from a vertical climb up a mineshaft dramatically filling with Fuzzies to manic sequences where you need to manage multiple clones, and from new bosses like Hisstocrat to Bowser's newfound and inexplicable penchant for exploding soccer balls.
+
+
+***
+![The Case for Launching an Easy Mode for Difficult Games](https://media.wired.com/photos/60233099daa2245a9ec352ed/191:100/w_1280,c_limit/games_casual_control.jpg "The Case for Launching an Easy Mode for Difficult Games")
+
+
+[The Case for Launching an Easy Mode for Difficult Games](https://www.wired.com/story/casual-gamer-control-easy-mode-wait/)
+
+
+> Video games should be playable by people of all experience levels and skill sets. This shouldn't be a controversial statement. Yet, it often is. For years, gamer culture—the toxic parts of it, at least—insisted on gatekeeping, on maintaining that games be difficult and complex to restrict 'filthy casuals' from entering the fray. But as casual players have grown in numbers, it's become harder for gamers, and game companies, to ignore them. It's understandable that studios want to appeal to a certain type of player—especially when the developers and writers at those studios are creating the kind of game they themselves want to enjoy.
+
+
