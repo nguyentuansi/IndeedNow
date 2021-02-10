@@ -24540,3 +24540,50 @@
 > "Grand Theft Auto V" video game sold 20 million units in 2020, bringing its total sales to 140 million since the initial release in 2013, according to figures released in Take-Two's corporate earnings reports. "It's absolutely amazing that 'Grand Theft Auto' has sold more units in calendar 2020 than it did in any year since its original release in 2013. It's just extraordinary," he said in a "Mad Money" interview. Rockstar Games has sold more than 335 million units of the "Grand Theft Auto" series since the first installment launched in the late 1990s.
 
 
+***
+![Musk's bitcoin bet fuels gains in companies already invested](https://static.reuters.com/resources/r/?m=02&d=20210210&t=2&i=1550987515&r=LYNXMPEH190BX&w=800 "Musk's bitcoin bet fuels gains in companies already invested")
+
+
+[Musk's bitcoin bet fuels gains in companies already invested](https://www.reuters.com/article/us-crypto-currency-companies-idUSKBN2AA0GA)
+
+
+> By Noel Randewich (Reuters) - Shares of companies that have invested in bitcoin have vastly outperformed on Wall Street in 2021 and are extending their gains thanks to Tesla's $1.5 billion bet on the soaring digital currency. FILE PHOTO: A car with a sign "Buy Bitcoin" written in snow is pictured in Stockholm, Sweden January 16, 2021. Picture taken January 16, 2021. REUTERS/Colm Fulton The price of bitcoin hit a record high over $48,000 on Tuesday in a two-day surge after Tesla said on Monday that it had bought the digital currency and would soon accept it as a form of payment for cars.
+
+
+***
+![Beginning error](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Beginning error")
+
+
+[Beginning error](https://www.reddit.com/r/Python/comments/lgn5h1/beginning_error/)
+
+
+> I'm new to python and I'm trying to learn using some online tutorials. I tried the "hello, World!" exercise on the python script. When I run the code in Command Prompt typing the code it runs, but when i create a python file and run try to compile it or open it using the Command Prompt its showing error. Please some one help me...
+
+
+***
+![Apple iPhone 12 mini Sales Slow as Smaller Smartphones Lose Appeal: Report](https://images.indianexpress.com/2020/11/Apple_iPhone12mini_FEAT.jpg "Apple iPhone 12 mini Sales Slow as Smaller Smartphones Lose Appeal: Report")
+
+
+[Apple iPhone 12 mini Sales Slow as Smaller Smartphones Lose Appeal: Report](https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-12-mini-sales-slow-as-smaller-smartphones-lose-appeal-report-7182346/)
+
+
+> Apple Inc's iPhone 12 mini US sales were just 5 percent of overall sales of its new phones during the first half of January, industry data provider Counterpoint said on Tuesday, adding to signs of muted demand for the new smaller version of its flagship device. Smartphone users have switched to larger devices in recent years as they devour more video content on-the-go and binge on visually rich social media platforms like Facebook, Instagram, Tiktok and Snapchat. J.P. Morgan analyst William Yang said in a note last week that weak demand for the smaller iPhone 12 and 12 mini might lead Apple to stop production of the mini in the second quarter.
+
+
+***
+![Twitter Says India's Orders to Block Accounts Inconsistent With Local Law](https://i.gadgets360cdn.com/large/twitter_two_sides_reuters_1611201886952.jpg "Twitter Says India's Orders to Block Accounts Inconsistent With Local Law")
+
+
+[Twitter Says India's Orders to Block Accounts Inconsistent With Local Law](https://gadgets.ndtv.com/social-networking/news/twitter-india-farmer-protest-account-blocking-update-inconsistent-with-local-law-2367200)
+
+
+> Twitter said on Tuesday it believes orders by the Indian government to take down accounts are inconsistent with local law and that for some accounts, it would not agree to an outright ban and would instead restrict access within India.Prime Minister Narendra Modi's government has asked Twitter to take down more than 1,100 accounts and posts it says accuse the administration of trying to wipe out farmers. Some accounts, the government said, are backed by arch-rival Pakistan or are operated by supporters of a separatist Sikh movement.
+
+
+***
+[How a Pakistan-born developer's open letter to Tim Cook helped bring the Urdu language typeface to Apple devices (Alizeh Kohari/Rest of World)](http://www.techmeme.com/210210/p1#a210210p1)
+
+
+> Alizeh Kohari / Rest of World: How a Pakistan-born developer's open letter to Tim Cook helped bring the Urdu language typeface to Apple devices — For decades, it was nearly impossible to type in Urdu online. Meet the people fighting to digitally preserve its script. — • KARACHI, PAKISTAN
+
+
