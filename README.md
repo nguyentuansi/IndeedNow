@@ -24490,3 +24490,53 @@
 > (Image credit: Intel) A benchmark for an engineering sample of Intel's upcoming 10nm Alder Lake-S CPUs appears to show the new big.LITTLE CPU already outperforming an i9-9900K processor.Several benchmark results for Intel's next-generation CPU - expected to arrive in late 2021 - have already appeared online, including one showing it supporting DDR5 RAM. This one that shows the processor's base frequency reaching 2.2GHz, which is the highest we've seen from the so far from Alder Lake-S in terms of its base frequency.
 
 
+***
+![iOS developer: The App Store has a ‘big problem' with multi-million dollar scams](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/Apple-App-Store_100221-seo.jpg "iOS developer: The App Store has a ‘big problem' with multi-million dollar scams")
+
+
+[iOS developer: The App Store has a ‘big problem' with multi-million dollar scams](https://www.soyacincau.com/2021/02/09/ios-developer-apple-app-store-million-dollar-scam/)
+
+
+> Eleftheriou has been sharing his thoughts on the Apple's perceived lack of enforcement of App Store policies via Twitter, particularly those who that govern scam apps. ― SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Feb 10 ― In the old days, downloading applications used to be a rather hit-and-miss situation — sometimes, you'd get legitimate, valuable software, and others, you get a virus masquerading as a viable app. Or, of course, there are apps that were simply useless.
+
+
+***
+![WhatsApp flap shows importance of message platform to Facebook](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-06/whatsapp_160620-seo.jpg "WhatsApp flap shows importance of message platform to Facebook")
+
+
+[WhatsApp flap shows importance of message platform to Facebook](https://www.malaymail.com/news/tech-gadgets/2021/02/10/whatsapp-flap-shows-importance-of-message-platform-to-facebook/1948593)
+
+
+> According to eMarketer data from last year, WhatsApp had more than 99 per cent of mobile messaging app users in Brazil, 97 per cent in India and 52 per cent in the United States. ― AFP pic Subscribe to our Telegram channel for the latest updates on news you need to know. WASHINGTON, Feb 10 ― When WhatsApp users began to raise concerns about a new privacy policy being rolled out, members of a Washington pickup soccer group decided to switch their communications to rival messaging platform Signal, ditching the Facebook-owned service.
+
+
+***
+![Instagram will not promote Reels with TikTok watermark](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2020-03-20_at_10_1200_210210093518.43_1-483x271.png "Instagram will not promote Reels with TikTok watermark")
+
+
+[Instagram will not promote Reels with TikTok watermark](https://www.indiatoday.in/technology/news/story/instagram-will-remove-reels-with-tiktok-watermark-1767662-2021-02-10)
+
+
+> Highlights Instagram does not want users to post recycled TikTok videos to Reels. The photo-sharing app said that it will not promote videos with TikTok watermark from Reels. After TikTok was banned in India, a lot of users uploaded their TikTok videos on Instagram. Instagram does not want users to post recycled TikTok videos to Reels. The photo-sharing app said that it will not promote videos with TikTok watermark from Reels. After TikTok was banned in India, a lot of users uploaded their TikTok videos on Instagram.
+
+
+***
+![Xiaomi Mi 11 is here and it is better than Samsung Galaxy S21](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/mivsgs21-483x271_1200_210210093512.jpeg "Xiaomi Mi 11 is here and it is better than Samsung Galaxy S21")
+
+
+[Xiaomi Mi 11 is here and it is better than Samsung Galaxy S21](https://www.indiatoday.in/technology/features/story/xiaomi-mi-11-is-here-and-it-is-better-than-samsung-galaxy-s21-1767664-2021-02-10)
+
+
+> Highlights Mi 11 was launched globally on Monday. The smartphone is Xiaomi's rival to Galaxy S21. Mi 11 beats S21 in several categories. Xiaomi's latest flagship Mi 11 has made it to Europe and an India launch is imminent. This might happen in second quarter of the year, most likely in April and that's when we will have the first real battle between 2021 flagships Mi 11 and Samsung Galaxy S21. The first look at the two devices hints that the former is likely to be a clear winner. While Samsung gave all ammunitions to the Galaxy S21 Ultra, the S21 ended up being a 'Lite' version of itself, even though it was priced as much.
+
+
+***
+!['Grand Theft Auto V' sold 20 million units in 2020, the most since its 2013 release, Take-Two CEO says](https://static-entertainment-eus-s-msn-com.akamaized.net/sc/c6/519670.jpg "'Grand Theft Auto V' sold 20 million units in 2020, the most since its 2013 release, Take-Two CEO says")
+
+
+['Grand Theft Auto V' sold 20 million units in 2020, the most since its 2013 release, Take-Two CEO says](https://www.cnbc.com/2021/02/09/take-two-ceo-grand-theft-auto-v-sold-record-20-million-units-in-2020.html)
+
+
+> "Grand Theft Auto V" video game sold 20 million units in 2020, bringing its total sales to 140 million since the initial release in 2013, according to figures released in Take-Two's corporate earnings reports. "It's absolutely amazing that 'Grand Theft Auto' has sold more units in calendar 2020 than it did in any year since its original release in 2013. It's just extraordinary," he said in a "Mad Money" interview. Rockstar Games has sold more than 335 million units of the "Grand Theft Auto" series since the first installment launched in the late 1990s.
+
+
