@@ -24837,3 +24837,50 @@
 > Koo, which has a yellow bird as its logo, said downloads have surged 10-fold in the past two days to over 3 million. Image Credit: Social media New Delhi: US social media giant Twitter locked horns with India on Wednesday saying a government order to remove some accounts was not consistent with Indian law while politicians urged followers to switch to rival local app Koo. Prime Minister Narendra Modi's government has ordered Twitter to remove more than 1,100 accounts and posts which it says are spreading misinformation about widespread protests by farmers against new agricultural laws.
 
 
+***
+![Toyota to unveil two new EVs for U.S. market that will go on sale in 2022](https://static.reuters.com/resources/r/?m=02&d=20210210&t=2&i=1551075470&r=LYNXMPEH191Q9&w=800 "Toyota to unveil two new EVs for U.S. market that will go on sale in 2022")
+
+
+[Toyota to unveil two new EVs for U.S. market that will go on sale in 2022](https://www.reuters.com/article/us-toyota-electric-idUSKBN2AA2GT)
+
+
+> By Reuters Staff FILE PHOTO: The logo of Toyota carmaker is seen on a car in Nice, France, April 8, 2019. REUTERS/Eric Gaillard/File Photo/File Photo WASHINGTON (Reuters) - Toyota Motor Corp said Wednesday it will unveil two new electric vehicles that will go on sale next year in the United States amid a growing push by the Biden administration to cut vehicle emissions. The Japanese automaker also said it expects that 70% of its U.S. sales by 2030 will be hybrid vehicles or electric vehicles. One of the new vehicles next year will be an SUV and it will also unveil a new plug-in hybrid electric vehicle, the Japanese automaker said.
+
+
+***
+[Windows 10 users told to update NOW to fix critical security flaws](https://www.thesun.ie/tech/6545687/windows-10-critical-security-flaw/)
+
+
+> WINDOWS 10 users are being warned to update now to fix 56 vulnerabilities that have been spotted in the software. One of those flaws is said to be a critical security hole that could give a hacker admin privileges on your computer. That flaw is known as a ‘zero-day’, which is a term used to […]
+
+
+***
+![Want to work in data? Improve your math skills with these with 10 top-rated courses for under $30](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/sale_163766_article_image-3exk.jpg "Want to work in data? Improve your math skills with these with 10 top-rated courses for under $30")
+
+
+[Want to work in data? Improve your math skills with these with 10 top-rated courses for under $30](https://www.imore.com/want-work-data-improve-your-math-skills-these-10-top-rated-courses-under-30)
+
+
+> Source: StackCommerceSource: Stack Commerce In a world dominated by data, math is more important than ever. If you want to work in programming, data, science, and many other industries, it's important to have confidence in crunching the numbers. The Mastering Mathematics Training Prep Bundle provides 10 courses from top instructors, and you can get it today for just $29.99. From artificial intelligence to financial forecasts, many industries rely on mathematical models. To have any chance of understanding them, you need something better than high-school math.
+
+
+***
+![Stanford Free iOS Development Course](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Stanford Free iOS Development Course")
+
+
+[Stanford Free iOS Development Course](https://www.reddit.com/r/programming/comments/lgzf06/stanford_free_ios_development_course_cs193p/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![RecovR Disrupts the Vehicle Lot Management and Theft Recovery Market with Innovative New Capabilities &amp; Business Model](https://mms.businesswire.com/media/20210210005807/en/858587/23/top_view_v2.jpg "RecovR Disrupts the Vehicle Lot Management and Theft Recovery Market with Innovative New Capabilities &amp; Business Model")
+
+
+[RecovR Disrupts the Vehicle Lot Management and Theft Recovery Market with Innovative New Capabilities &amp; Business Model](https://www.businesswire.com/news/home/20210210005807/en/RecovR-Disrupts-the-Vehicle-Lot-Management-and-Theft-Recovery-Market-with-Innovative-New-Capabilities-Business-Model)
+
+
+> February 10, 2021 12:57 PM Eastern Standard Time CHESEAUX-SUR-LAUSANNE, Switzerland & PHOENIX--(BUSINESS WIRE)--Kudelski IoT – a unit of the Kudelski Group (SIX:KUD), a leading global technology and security provider – today announced the launch of RecovR, a two-in-one lot management and theft recovery solution that enables car dealerships to manage their lots more efficiently, improve the sales process and create a new revenue stream while providing consumers with the most advanced and reliable theft recovery solution on the market.
+
+
