@@ -25275,3 +25275,53 @@
 > (Image credit: Sony) If you're searching where to buy PS5, Game is your best bet this morning, as the retailer launched a new round of PS5 restocks with a range of bundles on both the Digital and standard consoles. The console is also available to purchase on its own for £449.99 and the PS5 Digital Edition is £359.99, but expect these to sell out fast.The cheapest bundle we've seen costs £459.98, which includes the PS5 Digital Edition with a £50 PSN credit and 12 months of PS Plus. Predictably, there is a queue in place, with wait times of up to 30 minutes (depending on when you joined) and the main page is struggling to load.
 
 
+***
+![WSJ: Instagram bans Robert F. Kennedy Jr over Covid-19 vaccine misinformation](https://media2.malaymail.com/resize_cache/uploads/articles/2017/2017-01/Robert_Kennedy_Jr1101s-seo.JPG "WSJ: Instagram bans Robert F. Kennedy Jr over Covid-19 vaccine misinformation")
+
+
+[WSJ: Instagram bans Robert F. Kennedy Jr over Covid-19 vaccine misinformation](https://www.malaymail.com/news/tech-gadgets/2021/02/11/wsj-instagram-bans-robert-f.-kennedy-jr-over-covid-19-vaccine-misinformatio/1949058)
+
+
+> Robert Kennedy Jr speaks with members of the press at Trump Tower in New York January 10, 2017. — Reuters pic Subscribe to our Telegram channel for the latest updates on news you need to know. Feb 11 — Photosharing platform Instagram, owned by Facebook Inc, has removed the account of vaccine sceptic Robert F. Kennedy Jr for posting misleading information about Covid-19, the Wall Street Journal reported today. Kennedy, the nephew of late President John F. Kennedy, and his representatives could not immediately be reached for a comment.
+
+
+***
+![Nationalistic Koo app has Chinese investor](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/koo_505_110221052132.jpg "Nationalistic Koo app has Chinese investor")
+
+
+[Nationalistic Koo app has Chinese investor](https://www.businesstoday.in/technology/news/nationalistic-koo-app-has-chinese-investor/story/430999.html)
+
+
+> Story While KOO claims itself to be an Indian registered company, ethical hacker Elliot Alderson posted screenshots of the domain (kooapp.com ) registered on April 16, 2017 by Tao Zhou from China Nidhi Singal | February 11, 2021 | Updated 17:30 IST
+
+
+***
+![Tencent says exec being probed over links to 'personal' corruption allegations](https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/E2D7E2374B314B68964E4745E0F4035F/tencent-20200513-1613044839910.jpg "Tencent says exec being probed over links to 'personal' corruption allegations")
+
+
+[Tencent says exec being probed over links to 'personal' corruption allegations](https://www.rappler.com/technology/tencent-executive-being-probed-links-personal-corruption-allegations)
+
+
+> Chinese tech giant Tencent Holdings said a company executive is being investigated by authorities over allegations of "personal corruption," after a media report said the move was linked to sharing of personal data from its popular WeChat app. The move comes amid Beijing's unprecedented crackdown on its home-grown internet platforms, which has ensnared some of its best technology innovators and private-sector champions over violations of antitrust and data privacy rules. Any violation of customer data protection rules would pile more pressure on the local technology companies, already dealing with heightened regulatory scrutiny after years of a laissez-faire approach.
+
+
+***
+![OPPO Reno5 starts at P18,999](https://assets2.rappler.com/2021/02/DSC_1093-1613031976609.jpg "OPPO Reno5 starts at P18,999")
+
+
+[OPPO Reno5 starts at P18,999](https://www.rappler.com/technology/gadgets/oppo-reno5-price-specs-philippines)
+
+
+> OPPO on Wednesday, February 10, launched the newest device in their midrange phone line, the Reno5. Two variants will be available: the Reno5 4G at P18,999 and the Reno5 5G at P23,999. The phones will be available for pre-order until February 19. The 4G variant has a 64MP quad camera setup on the rear and a 44MP front camera. The 5G variant has the same rear camera setup and a 32MP front camera. Both phones come with what OPPO calls the "Full Dimension Fusion (FDF) Portrait Video System" which optimizes the unit's ability to take high quality portraits for video and stills.
+
+
+***
+![Pigs can play video games with their snouts, scientists find](https://ichef.bbci.co.uk/news/1024/branded_news/D764/production/_116904155_255331_web.jpg "Pigs can play video games with their snouts, scientists find")
+
+
+[Pigs can play video games with their snouts, scientists find](https://www.bbc.com/news/technology-56023720)
+
+
+> image copyright ESTON MARTZ / PENNSYLVANIA STATE UNIVERSITY image caption Hamlet - or perhaps Omelette - hits the arcade, hoping to win big Pigs can play video games, scientists have found, after putting four fun-loving swine to the test. Four pigs - Hamlet, Omelette, Ebony and Ivory - were trained to use an arcade-style joystick to steer an on-screen cursor into walls. Researchers said the fact that the pigs understood the connection between the stick and the game "is no small feat". And the pigs even continued playing when the food reward dispenser broke - apparently for the social contact.
+
+
