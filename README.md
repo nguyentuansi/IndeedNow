@@ -25228,3 +25228,50 @@
 > The new Mi 10 variant carries a model number M2102J2SC which was approved by the 3C authority of China last week. This smartphone can be launched in the coming days. India Today Tech | February 11, 2021 | Updated 10:41 IST The new smartphone will be powered by a quad-rear camera system.
 
 
+***
+[Fintech giant Adyen says it has no interest in bitcoin as a payment method and clients aren't asking for it](https://forextv.com/bitcoin-news/fintech-giant-adyen-says-it-has-no-interest-in-bitcoin-as-a-payment-method-and-clients-arent-asking-for-it/)
+
+
+> Adyen CEO Pieter van der Does said volatility in bitcoin and other cryptocurrencies makes them less viable for making transactions. Van der Does said his firm’s merchants aren’t requesting that it … Read Full Story The post Fintech giant Adyen says it has no interest in bitcoin as a payment method and clients aren’t asking for it appeared first on ForexTV.
+
+
+***
+![Everything you need to know about Indian Twitter rival Koo](https://image-prod.iol.co.za/resize/4968x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/c4e9f625-6944-531d-ba49-004ee3cf659d&operation=CROP&offset=0x193&resize=4968x2795 "Everything you need to know about Indian Twitter rival Koo")
+
+
+[Everything you need to know about Indian Twitter rival Koo](https://www.iol.co.za/technology/mobile/everything-you-need-to-know-about-indian-twitter-rival-koo-2f1682d4-f651-4a9c-a76b-be75a3b4e605)
+
+
+> By Sankalp PhartiyalNew Delhi - Indian social-media app Koo is witnessing a surge in popularity, fuelled by politicians and others flocking to it after U.S. rival Twitter Inc refused to follow a government order to block certain content on its platform.Twitter has locked horns with New Delhi this month over the order to remove more than 1,100 accounts and posts which the government says are spreading misinformation about farmer protests against new agricultural laws.The dispute escalated on Wednesday when Twitter said it did not fully comply with some requests as it believed they were not in line with Indian law.
+
+
+***
+![Monzo, the British challenger bank nearing 5 million customers, has recruited a new U.S. CEO – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/06/Hot-Chip-America.png?w=674 "Monzo, the British challenger bank nearing 5 million customers, has recruited a new U.S. CEO – TechCrunch")
+
+
+[Monzo, the British challenger bank nearing 5 million customers, has recruited a new U.S. CEO – TechCrunch](https://techcrunch.com/2021/02/11/monzo-u-s-a-ceo/)
+
+
+> Monzo , the U.K. challenger bank with just shy of 5 million customers, has recruited a new U.S CEO to head up its efforts states-side, TechCrunch has learned. Carol Nelson, who previously spent ten years as CEO of Cascade Bank and prior to that was a long time senior vice president of Bank of America, will start as early as next week, staff at Monzo were informed this morning. Notably, she has been a strategic advisor to Monzo U.S. for more than a year, so she'll already be familiar with the bank's U.
+
+
+***
+![Jio vs Airtel vs Vodafone: The best budget postpaid plans with free Netflix, Prime Video](https://images.indianexpress.com/2020/01/jio-airtel-vodafone-plans-1200.jpg "Jio vs Airtel vs Vodafone: The best budget postpaid plans with free Netflix, Prime Video")
+
+
+[Jio vs Airtel vs Vodafone: The best budget postpaid plans with free Netflix, Prime Video](https://indianexpress.com/article/technology/techook/jio-vs-airtel-vs-vodafone-budget-postpaid-plans-with-free-netflix-prime-video-7184016/)
+
+
+> Jio, Airtel and Vodafone are offering some good postpaid plans with OTT benefits. We have listed postpaid plans that offer free access to popular video streaming apps like Netflix, Prime Video or Disney+Hostar at reasonable prices. Jio is currently the only telecom operator offering Netflix, Prime Video, Disney+Hostar subscriptions for less than Rs 400. The below-mentioned postpaid plans also include unlimited data and call benefits from Vodafone, Jio and Airtel. Read on to know more about these plans.
+
+
+***
+![PS5 restock update: PS5 bundles now live at Game](https://cdn.mos.cms.futurecdn.net/aEueXe3ipNdbUCJsJ2DTTX-1200-80.jpg "PS5 restock update: PS5 bundles now live at Game")
+
+
+[PS5 restock update: PS5 bundles now live at Game](https://www.techradar.com/news/ps5-restock-update-ps5-bundles-now-live-at-game)
+
+
+> (Image credit: Sony) If you're searching where to buy PS5, Game is your best bet this morning, as the retailer launched a new round of PS5 restocks with a range of bundles on both the Digital and standard consoles. The console is also available to purchase on its own for £449.99 and the PS5 Digital Edition is £359.99, but expect these to sell out fast.The cheapest bundle we've seen costs £459.98, which includes the PS5 Digital Edition with a £50 PSN credit and 12 months of PS Plus. Predictably, there is a queue in place, with wait times of up to 30 minutes (depending on when you joined) and the main page is struggling to load.
+
+
