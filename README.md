@@ -25034,3 +25034,50 @@
 > Facebook said it would begin testing the change ‘for a small percentage of people' in Canada, Brazil and Indonesia this week, and the United States in the coming weeks. ― ETX Studio pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 11 ― Facebook said yesterday it began rolling out news feeds with less political subject matter in line with a plan outlined by chief Mark Zuckerberg to reduce inflammatory content. The leading social network said it would begin testing the change 'for a small percentage of people' in Canada, Brazil and Indonesia this week, and the United States in the coming weeks.
 
 
+***
+![TLS (SSL) certificate caches (or something like them) in Big Sur](https://images.macrumors.com/social/?t=2284212&v=6 "TLS (SSL) certificate caches (or something like them) in Big Sur")
+
+
+[TLS (SSL) certificate caches (or something like them) in Big Sur](https://forums.macrumors.com/threads/tls-ssl-certificate-caches-or-something-like-them-in-big-sur.2284212/)
+
+
+> I'm scratching my head trying to resolve a certificate related issue on Big Sur, and am hoping someone has a suggestion here on something to try. Issue: The certificate for a website that I need to access (public site, but, not relevant to this issue) was signed by an intermediate CA which was later revoked. The root CA is still good. Safari (macOS?) is somehow caching the site certificate and revoked intermediate, even though Keychain Assistant has no reference to the intermediary certificate, I've emptied my cache from the Develop menu in Safari, and I've even done a "crlrefresh rp" and rebooted several times.
+
+
+***
+[Users report that some Google iOS apps warn them the apps are out of date, yet Google has not updated many apps since before Apple's Dec. 8 privacy label change (Juli Clover/MacRumors)](http://www.techmeme.com/210210/p44#a210210p44)
+
+
+> Juli Clover / MacRumors: Users report that some Google iOS apps warn them the apps are out of date, yet Google has not updated many apps since before Apple's Dec. 8 privacy label change — Though Google has promised to update its suite of apps with App Privacy labels to comply with App Store rules that Apple began enforcing …
+
+
+***
+![PSN status: The PlayStation Network is down right now](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/11/ps5-closeup-faceplate-sony.jpg "PSN status: The PlayStation Network is down right now")
+
+
+[PSN status: The PlayStation Network is down right now](https://www.androidcentral.com/psn-status-playstation-networks-down-right-now)
+
+
+> Source: Jennifer Locke / Android Central Sony's PlayStation Network appears to be down right now. Players are reporting that they cannot access their games or download new ones. It's unclear when these problems will be solved as Sony has not acknowledged the issues. Sony's PlayStation Network is having some technical difficulties. Down Detector is showing a huge spike in people reporting issues with PSN, and Sony's own website acknowledges that just about every PSN service right now isn't working.
+
+
+***
+![Not everyone is happy about changes Slack is making to its Android app](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/galaxy-s20-review-slack-greenmat-dnd.jpg "Not everyone is happy about changes Slack is making to its Android app")
+
+
+[Not everyone is happy about changes Slack is making to its Android app](https://www.androidcentral.com/slack-updates-are-upsetting-users-changes-fonts-and-notifications)
+
+
+> Source: Ara Wagoner / Android Central Slack's latest updates are making users complain about the changes being made in the app. The in-app font has changed and is now larger, while the layout of notifications is also being altered as well. Changes to the notifications only apply to users of the beta app for now. Amid the increase in users working from home, Slack has taken the helm as one of the best messaging apps for workplace communication. But recent changes being made to Slack's Android app have been causing some disarray among its users.
+
+
+***
+![Yellen eyes innovation to battle misuse of cryptocurrencies, narrow digital gaps](https://i-invdn-com.akamaized.net/news/LYNXMPEA610V5_L.jpg "Yellen eyes innovation to battle misuse of cryptocurrencies, narrow digital gaps")
+
+
+[Yellen eyes innovation to battle misuse of cryptocurrencies, narrow digital gaps](https://www.investing.com/news/technology-news/yellen-says-treasury-will-fight-misuse-of-cryptocurrencies-foster-innovation-2415713)
+
+
+> © Reuters. FILE PHOTO: Former Federal Reserve Chairman Janet Yellen speaks during a panel discussion in Atlanta By Andrea Shalal and David Lawder WASHINGTON (Reuters) - U.S. Treasury Secretary Janet Yellen on Wednesday warned about an "explosion of risk" from digital markets, including the misuse of cryptocurrencies, but said new financial technologies could also help fight crime and reduce inequality. In remarks to a financial sector innovation roundtable, Yellen said such technologies could be used to stem the flow of dark money from organized crime and fight back against hackers, but also to reduce digital gaps in the United States.
+
+
