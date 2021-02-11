@@ -25375,3 +25375,53 @@
 > February 11, 2021 09:00 AM Eastern Standard Time FLORHAM PARK, N.J.--(BUSINESS WIRE)--As part of its Innovation Webinar Series, ASCO Power Technologies has announced a February 23 webinar about current electrical infrastructure trends and issues confronting telecommunication facilities. The one-hour online Innovation Talk Webinar: Telecommunications Industry Perspectives is a live discussion between Bhavesh Patel, Vice President of Marketing for ASCO Power Technologies, and Bablu Kazi, Senior Electrical Engineer & Project Lead for Morrison Hershfield.
 
 
+***
+![Cardiff Oncology's Onvansertib Combo Associated With Two-Fold Increase Disease Control Rate In Prostate Cancer Study](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Cardiff Oncology's Onvansertib Combo Associated With Two-Fold Increase Disease Control Rate In Prostate Cancer Study")
+
+
+[Cardiff Oncology's Onvansertib Combo Associated With Two-Fold Increase Disease Control Rate In Prostate Cancer Study](https://www.benzinga.com/general/biotech/21/02/19617463/cardiff-oncologys-onvansertib-combo-associated-with-two-fold-increase-disease-control-rate-in-pro)
+
+
+> The Horizons Psychedelic Stock Index ETF, As Told By Its Fund Manager Merck In Talks To Possibly Produce COVID-19 Shots: WSJ
+
+
+***
+![The Myth of Digital Privacy by Ajit Mohan, Vice President and Managing Director, Facebook India](https://akm-img-a-in.tosshub.com/indiatoday/images/video/202102/Facebook_Antitrust_Charges_US_-647x363.jpeg?5FqMMsCVY_Lgj9R6brBtZVdh.l3pflG_ "The Myth of Digital Privacy by Ajit Mohan, Vice President and Managing Director, Facebook India")
+
+
+[The Myth of Digital Privacy by Ajit Mohan, Vice President and Managing Director, Facebook India](https://www.indiatoday.in/technology/video/video/the-myth-of-digital-privacy-by-ajit-mohan-vice-president-and-managing-director-facebook-india-1768314-2021-02-11)
+
+
+> No body in the article.
+
+
+***
+![Biden can't rebuild America with outdated technology](https://thehill.com/sites/default/files/techmidterms_110218getty.jpg "Biden can't rebuild America with outdated technology")
+
+
+[Biden can't rebuild America with outdated technology](https://thehill.com/opinion/technology/538041-biden-cant-rebuild-america-with-outdated-technology)
+
+
+> Over the next several weeks, congressional Democrats will work through the budget reconciliation process to pass as much of President Biden Joe Biden Former Republican officials in talks to form center-right anti-Trump party: report Biden raises concerns with Xi in first call with Chinese leader as president Castro: Trump further incited the mob 'against his own vice president' MORE 's American Rescue Plan as rules and procedure will allow. With a price tag of nearly $1.9 trillion over the next decade, this recovery legislation will address dozens of critical issues: vaccine distribution, economic impact payments, support for the unemployed, state and local funding, and safely reopening schools, just to name a few.
+
+
+***
+![Nokia 5.4 64GB 6GB RAM](https://vijaykarnataka.com/thumb/msid-80843909,width-1200,height-630/pic.jpg "Nokia 5.4 64GB 6GB RAM")
+
+
+[Nokia 5.4 64GB 6GB RAM](https://vijaykarnataka.com/tech/mobile-phones/nokia-54-64gb-6gb-ram)
+
+
+> ಇನ್ನಷ್ಟು ವೇರಿಯಂಟ್‌ಗಳು Nokia 54 Nokia 54 128GB 6GB RAM ಸಾರಾಂಶ ಪರ್ಫಾಮೆನ್ಸ್‌ Qualcomm Snapdragon 662 ಸ್ಟೋರೇಜ್‌ 64 GB ಬ್ಯಾಟರಿ 4000 mAh price in_india 18499 ಡಿಸ್‌ಪ್ಲೇ 6.39 inches (16.23 cm) ರ‍್ಯಾಮ್ 6 GB ಸ್ಪೆಶಲ್ ಫೀಚರ್ಸ್ ಇತರ ಸೆನ್ಸರ್ Ambient Light Sensor, Proximity Sensor, Accelerometer (G-sensor), Gyroscope, Face Unlock ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ Yes ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್_ಪೊಸಿಶನ್ Rear ಸಾಮಾನ್ಯ ವಿವರ ಓಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ Android v11 ಸಿಮ್‌ ಸ್ಲಾಟ್ಸ್ Dual SIM, GSM+GSM ಮಾದರಿ 5.4 ಲಾಂಚ್ ಡೇಟ್ February 10, 2021 (Official) price in_india Rs.
+
+
+***
+![Olympus promises more cameras, other new products in near future](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/olympus-om-digital-solutions-483x271_1200_210211204431.png "Olympus promises more cameras, other new products in near future")
+
+
+[Olympus promises more cameras, other new products in near future](https://www.indiatoday.in/technology/news/story/olympus-promises-more-cameras-other-new-products-in-near-future-1768337-2021-02-11)
+
+
+> "Olympus has a long standing reputation for originality. OM Digital Solutions has inherited this value and will continue to develop products and technologies that do not yet exist in the market." Pavni Jain | February 11, 2021 | Updated 20:27 IST
+
+
