@@ -25178,3 +25178,53 @@
 > Vivo X50 Pro+ may launch alongside the Vivo X60 series in India at the launch event rumoured to be scheduled for March-end or beginning of April. Vivo X50 and Vivo X50 Pro were launched in India in July last year but the company did not unveil Vivo X50 Pro+ at the time, however, a report states that the phone which was supposed to be the most powerful in the Vivo X50 series may launch alongside the newer generation Vivo X60 series in India.Vivo X50 Pro+ was launched alongside the other two Vivo X50 series phones in China in June 2020, but the India launch skipped Vivo X50 Pro+ for reasons unknown.
 
 
+***
+![Facebook to follow audio social network Clubhouse, says report](https://media2.malaymail.com/resize_cache/uploads/articles/2019/2019-05/facebook_logo_1305-seo.JPG "Facebook to follow audio social network Clubhouse, says report")
+
+
+[Facebook to follow audio social network Clubhouse, says report](https://www.malaymail.com/news/tech-gadgets/2021/02/11/facebook-to-follow-audio-social-network-clubhouse-says-report/1948942)
+
+
+> According to a report, executives at Facebook have ordered employees to create a version of Clubhouse, an app which lets users drop into virtual ‘rooms' to voice-chat about any topic. — Reuters pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 11 ― Facebook is looking to carve out its own spot on the audio social networking scene that has seen invitation-only startup Clubhouse rocket to popularity, the New York Times reported yesterday. Executives at Facebook have ordered employees to create a version of Clubhouse, an app which lets users drop into virtual 'rooms' to voice-chat about any topic, the New York Times said, citing unnamed people familiar with the situation.
+
+
+***
+![Cardinal to seek international probe if law not enforced over Easter attacks](https://adaderanaenglish.s3.amazonaws.com/1613027717-Cardinal-to-seek-international-probe-if-law-not-enforced-over-Easter-attacks-L.jpg "Cardinal to seek international probe if law not enforced over Easter attacks")
+
+
+[Cardinal to seek international probe if law not enforced over Easter attacks](http://www.adaderana.lk/news/71483/cardinal-to-seek-international-probe-if-law-not-enforced-over-easter-attacks)
+
+
+> February 11, 2021   12:42 pm - Archbishop of Colombo Malcolm Cardinal Ranjith says he is ready to seek International Criminal Court (ICC) probe if law is not properly enforced against those who are responsible for the Easter Sunday terror attacks in 2019 which claimed the lives of more than 260 persons. He made this remark in response to questions raised during a media briefing held at the Archbishop's House in Colombo this morning (February 11). The Cardinal went on to say, 'I hope our leaders will not allow that to happen.
+
+
+***
+![WHO recommends Oxford-AstraZeneca jabs for COVID variants and over-65s](https://adaderanaenglish.s3.amazonaws.com/1613017836-WHO-recommends-Oxford-AstraZeneca-jabs-for-COVID-variants-and-over-65s-L.jpg "WHO recommends Oxford-AstraZeneca jabs for COVID variants and over-65s")
+
+
+[WHO recommends Oxford-AstraZeneca jabs for COVID variants and over-65s](http://www.adaderana.lk/news/71477/who-recommends-oxford-astrazeneca-jabs-for-covid-variants-and-over-65s)
+
+
+> February 11, 2021   10:00 am - The Oxford-AstraZeneca COVID-19 vaccine can be used for people aged over 65, and also where coronavirus variants of concern are circulating, WHO experts said Wednesday, soothing fears about the jab. The World Health Organization's Strategic Advisory Group of Experts on Immunization (SAGE) issued interim recommendations for when and how to use the two-shot vaccine, which has yet to receive WHO emergency use authorisation. The announcement came after the vaccine suffered setbacks, raising questions about whether it should be used on older people, or in places where a variant of the virus first found in South Africa is circulating.
+
+
+***
+![US announces sanctions on leaders Myanmar coup](https://adaderanaenglish.s3.amazonaws.com/1613017991-US-announces-sanctions-on-leaders-Myanmar-coup-B.jpg "US announces sanctions on leaders Myanmar coup")
+
+
+[US announces sanctions on leaders Myanmar coup](http://www.adaderana.lk/news/71478/us-announces-sanctions-on-leaders-myanmar-coup)
+
+
+> February 11, 2021   10:03 am - US President Joe Biden has approved an executive order to impose sanctions on the leaders of Myanmar's coup. The measures will be focused on military leaders, their family members and businesses linked to them. Steps are also being taken to block access by the military to $1bn (£720m) of government funds held in the US. The sanctions come as a woman who was shot in the head during protests against the coup fights for her life at a hospital in the capital Nay Pyi Taw.
+
+
+***
+![New Xiaomi Mi 10 variant with Snapdragon 870 SoC spotted on TENAA](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/mi11_2-483x271_1200_210211110523.jpeg "New Xiaomi Mi 10 variant with Snapdragon 870 SoC spotted on TENAA")
+
+
+[New Xiaomi Mi 10 variant with Snapdragon 870 SoC spotted on TENAA](https://www.indiatoday.in/technology/news/story/new-xiaomi-mi-10-variant-with-snapdragon-870-soc-spotted-on-tenaa-1768085-2021-02-11)
+
+
+> The new Mi 10 variant carries a model number M2102J2SC which was approved by the 3C authority of China last week. This smartphone can be launched in the coming days. India Today Tech | February 11, 2021 | Updated 10:41 IST The new smartphone will be powered by a quad-rear camera system.
+
+
