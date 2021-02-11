@@ -24984,3 +24984,53 @@
 > Javascript is Disabled Your current browser configuration is not compatible with this site.
 
 
+***
+![SentinelOne acquires Scalyr to deliver XDR platform for realtime threat mitigation across enterprise and cloud](https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg "SentinelOne acquires Scalyr to deliver XDR platform for realtime threat mitigation across enterprise and cloud")
+
+
+[SentinelOne acquires Scalyr to deliver XDR platform for realtime threat mitigation across enterprise and cloud](https://www.helpnetsecurity.com/2021/02/11/sentinelone-scalyr/)
+
+
+> SentinelOne announced the acquisition of Scalyr. With this acquisition, SentinelOne will be able to ingest, correlate, search, and action data from any source, delivering the industry's most advanced integrated XDR platform for realtime threat mitigation across the enterprise and cloud. Through this acquisition, SentinelOne sets the bar for the XDR market and solves one of the biggest challenges in delivering a fully integrated XDR platform: ingesting and actioning all operational data in realtime from a security-first perspective.
+
+
+***
+![Businessman plagued by adverts declaring his death takes Facebook to court](https://www.telegraph.co.uk/content/dam/technology/2021/02/10/TELEMMGLPICT000250687903_trans_NvBQzQNjv4BqwtUT54c80eKHJHMfvK9NImtWLkXH92jWt3mkAOR8y98.jpeg?impolicy=logo-overlay "Businessman plagued by adverts declaring his death takes Facebook to court")
+
+
+[Businessman plagued by adverts declaring his death takes Facebook to court](https://www.telegraph.co.uk/technology/2021/02/10/businessman-plagued-adverts-declaring-death-takes-facebook-court/)
+
+
+> Mr Tweed, a media lawyer who has worked with clients including Britney Spears and Sarah, Duchess of York, said he would seek to prove that Facebook failing to deal with the adverts was defamatory.  Since Facebook's non-US headquarters are in Ireland this could potentially pave the way for further claims against the company, which Mr Tweed said had often escaped liability by being treated as a platform, rather than a publisher. In 2019, Facebook paid £3m to charity to settle a defamation lawsuit from the financial journalist Martin Lewis after more than 1,000 scam adverts using his face and name.
+
+
+***
+![Wave of Silicon Valley money could flow into Bitcoin as Twitter mulls investment](https://www.telegraph.co.uk/content/dam/technology/2020/03/05/TELEMMGLPICT000227022205_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?impolicy=logo-overlay "Wave of Silicon Valley money could flow into Bitcoin as Twitter mulls investment")
+
+
+[Wave of Silicon Valley money could flow into Bitcoin as Twitter mulls investment](https://www.telegraph.co.uk/technology/2021/02/10/wave-silicon-valley-money-could-flow-bitcoin-twitter-mulls-investment/)
+
+
+> "When we do business in another country, when we think about the different exposures that we have, we're trying to match our assets and our liabilities, and we take the same approach to Bitcoin." It came as Twitter's chief executive Jack Dorsey donated $1m (£720,000) to Coin Center, a think tank in Washington DC devoted to political advocacy of digital coins. Mr Dorsey's other company, the payments provider Square, also allows users to pay in Bitcoin and has almost $212m. Tesla's bitcoin investment gives it the second largest Bitcoin hoard of any public company, according to the tracking website Bitcoin Treasuries, and was the biggest ever punt in terms of US dollars exchanged.
+
+
+***
+![Ministers, celebrities try out Koo](https://images.financialexpress.com/2021/02/1-236.jpg "Ministers, celebrities try out Koo")
+
+
+[Ministers, celebrities try out Koo](https://www.financialexpress.com/industry/technology/ministers-celebrities-try-out-koo/2192293/)
+
+
+> The microblogging site, defined as a platform for sharing personal updates and opinions, was co-founded by entrepreneurs Aprameya Radhakrishna and Mayank Bidwatka.Homegrown microblogging platform Koo is cashing in on the stand-off between the government and Twitter. Koo was launched last year, after it won the government's Atmanirbhar App Innovation Challenge in August 2020 and now hosts several union ministers — RS Prasad, Piyush Goyal, Giriraj Singh, Sanjay Dhotre — as also Shivraj Chouhan and BS Yediyurappa, CMs of Madhya Pradesh and Karnataka respectively, on its platform.
+
+
+***
+![Facebook rolls out news feeds with less politics](https://www.malaymail.com/graphics/meta/og-image.png "Facebook rolls out news feeds with less politics")
+
+
+[Facebook rolls out news feeds with less politics](https://www.malaymail.com/news/tech-gadgets/2021/02/11/facebook-rolls-out-news-feeds-with-less-politics/1948859)
+
+
+> Facebook said it would begin testing the change ‘for a small percentage of people' in Canada, Brazil and Indonesia this week, and the United States in the coming weeks. ― ETX Studio pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 11 ― Facebook said yesterday it began rolling out news feeds with less political subject matter in line with a plan outlined by chief Mark Zuckerberg to reduce inflammatory content. The leading social network said it would begin testing the change 'for a small percentage of people' in Canada, Brazil and Indonesia this week, and the United States in the coming weeks.
+
+
