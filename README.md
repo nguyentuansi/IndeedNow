@@ -25325,3 +25325,53 @@
 > image copyright ESTON MARTZ / PENNSYLVANIA STATE UNIVERSITY image caption Hamlet - or perhaps Omelette - hits the arcade, hoping to win big Pigs can play video games, scientists have found, after putting four fun-loving swine to the test. Four pigs - Hamlet, Omelette, Ebony and Ivory - were trained to use an arcade-style joystick to steer an on-screen cursor into walls. Researchers said the fact that the pigs understood the connection between the stick and the game "is no small feat". And the pigs even continued playing when the food reward dispenser broke - apparently for the social contact.
 
 
+***
+![Review: Totallee's Galaxy S21 case is clearly a great option](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/totallee-galaxy-s21-clear-case-review-2.jpeg "Review: Totallee's Galaxy S21 case is clearly a great option")
+
+
+[Review: Totallee's Galaxy S21 case is clearly a great option](https://www.androidcentral.com/galaxy-s21-totallee-clear-case-review)
+
+
+> Source: Joe Maring / Android Central There are certain case releases I look forward to with every new phone that comes out, with Totallee being near the very top of my list. As someone that can't stand big and bulky accessories, Totallee's commitment to creating the best thin and light smartphone cases is something I can easily get behind. Hot on the heels of Galaxy S21 series coming to market, Totallee already has cases to go alongside Samsung's latest flagship — and I've been testing one of them over the past week as my go-to case for the regular S21.
+
+
+***
+![The Nintendo Switch's library grows even larger in 2021](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/nintendo-switch-boxes.jpg "The Nintendo Switch's library grows even larger in 2021")
+
+
+[The Nintendo Switch's library grows even larger in 2021](https://www.imore.com/every-nintendo-switch-exclusive-releasing)
+
+
+> Source: Rebecca Spear / iMore 2020 might have sucked, but we have a lot to look forward to in 2021, especially if you're a Nintendo Switch owner. Nintendo has already generated a treasure trove of the best Nintendo Switch games, but Nintendo doesn't seem like they'll let us go without a new Switch exclusive for too long. While they haven't shown us everything they have planned for 2021, what they have shown us is enough to get us excited. Here's every Nintendo Switch exclusive releasing in 2021. Nintendo Switch exclusives: Super Mario 3D World + Bowser's Fury Source: Nintendo The Wii U isn't one of Nintendo's most fondly remembered systems, but its games are.
+
+
+***
+![Masergy Launches UCaaS with Cisco Webex®](https://mms.businesswire.com/media/20210211005008/en/715552/23/Masergy-Blue-Logo-%28stacked-no-tagline%29.jpg "Masergy Launches UCaaS with Cisco Webex®")
+
+
+[Masergy Launches UCaaS with Cisco Webex®](https://www.businesswire.com/news/home/20210211005008/en/Masergy-Launches-UCaaS-with-Cisco-Webex%C2%AE)
+
+
+> February 11, 2021 09:00 AM Eastern Standard Time DALLAS--(BUSINESS WIRE)--Masergy, the software-defined network and cloud platform for the digital enterprise, has enhanced its Masergy Unified Communications as a Service (UCaaS) solution by adding industry-leading collaboration with Cisco Webex. The solution consolidates Masergy's hosted UC calling platform and Cisco Webex into a single application experience and allows clients to add Masergy's Managed SD-WAN Secure connectivity services. Now, enterprises wanting the high performance of Masergy's hosted voice services alongside the advanced capabilities of Webex can get everything they need in one complete and secure solution.
+
+
+***
+![Yellowbrick Survey: Pandemic-Era Consumers Love Apps but Have Security Concerns](https://mms.businesswire.com/media/20210211005079/en/785335/23/Yellowbrick_Logo.jpg "Yellowbrick Survey: Pandemic-Era Consumers Love Apps but Have Security Concerns")
+
+
+[Yellowbrick Survey: Pandemic-Era Consumers Love Apps but Have Security Concerns](https://www.businesswire.com/news/home/20210211005079/en/Yellowbrick-Survey-Pandemic-Era-Consumers-Love-Apps-but-Have-Security-Concerns)
+
+
+> February 11, 2021 09:00 AM Eastern Standard Time PALO ALTO, Calif.--(BUSINESS WIRE)--Hybrid cloud data warehouse company Yellowbrick Data today announced results of its Tech Trends Survey, examining consumer attitudes about tech and mobile apps, as well as related issues around data protection. Fielded to more than 1,000 Americans earlier this month, the survey polled consumers about their favorite and least-favorite mobile apps and usage trends, while exploring key security concerns – particularly consumers' suspicions around popular dating apps in the run-up to Valentine's Day.
+
+
+***
+![ASCO Power Technologies Webinar Offers Perspectives on Telecommunication Power Trends](https://mms.businesswire.com/media/20210211005039/en/858519/23/ASCO_PowerTechnologies-TM-RGB.jpg "ASCO Power Technologies Webinar Offers Perspectives on Telecommunication Power Trends")
+
+
+[ASCO Power Technologies Webinar Offers Perspectives on Telecommunication Power Trends](https://www.businesswire.com/news/home/20210211005039/en/ASCO-Power-Technologies-Webinar-Offers-Perspectives-on-Telecommunication-Power-Trends)
+
+
+> February 11, 2021 09:00 AM Eastern Standard Time FLORHAM PARK, N.J.--(BUSINESS WIRE)--As part of its Innovation Webinar Series, ASCO Power Technologies has announced a February 23 webinar about current electrical infrastructure trends and issues confronting telecommunication facilities. The one-hour online Innovation Talk Webinar: Telecommunications Industry Perspectives is a live discussion between Bhavesh Patel, Vice President of Marketing for ASCO Power Technologies, and Bablu Kazi, Senior Electrical Engineer & Project Lead for Morrison Hershfield.
+
+
