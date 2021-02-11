@@ -25131,3 +25131,50 @@
 > Source: PlayStation Update 10:56 p.m. ET: A new report says that Pedro Pascal has been cast as Joel. The original version of this story just mentioned Bella Ramsey's casting. After numerous rumors posted by geek websites went up today, two different Hollywood trades have reported that HBO's The Last of Us TV series has found its Joel and Ellie. First off, The Hollywood Reporter reports that HBO has found its Ellie in its upcoming The Last of Us television series. According to sources, Bella Ramsey, who's known for her breakout role as Lyanna Mormont in Game of Thrones, will play Ellie in the series.
 
 
+***
+![Xiaomi Mi 11 vs iPhone 12: can the underdog gain the upper hand&quest;](https://cdn.mos.cms.futurecdn.net/xTGNTQ8JapiFwL46Tpi9Wc-1200-80.jpg "Xiaomi Mi 11 vs iPhone 12: can the underdog gain the upper hand&quest;")
+
+
+[Xiaomi Mi 11 vs iPhone 12: can the underdog gain the upper hand&quest;](https://www.techradar.com/news/xiaomi-mi-11-vs-iphone-12-can-the-underdog-gain-the-upper-hand)
+
+
+> During the Xiaomi Mi 11 launch, Xiaomi spent a lot of time comparing the Mi 11 favorably to the iPhone 12 – a phone which is sure to be one of its main rivals. But was that a fair comparison?While the Xiaomi Mi 11 certainly has the edge in a lot of ways, from resolution to camera numbers, it doesn't achieve a clean sweep.So to see how these two flagship handsets actually compare we've put them head-to-head, looking at every key aspect, from the design and display to the camera, battery, power, and price, so that you can make a better choice about which – if either – to buy.
+
+
+***
+![Study finds Indians comfortable with using multiple messaging apps](https://cdn.mos.cms.futurecdn.net/czeWkr4zB63nLNT4VCiVnE-1200-80.png "Study finds Indians comfortable with using multiple messaging apps")
+
+
+[Study finds Indians comfortable with using multiple messaging apps](https://www.techradar.com/news/study-finds-indians-comfortable-with-using-multiple-messaging-apps)
+
+
+> (Image credit: Internet) Just as there is a backlash over WhatsApp's new privacy policy, and a simultaneous debate over which messaging app can replace it, it has emerged in a study that a new trend of using multiple apps for chatting and sharing is picking up in India."Users have figured out a definite reason to be on different messaging apps. More than 85% of the respondents had a specific purpose for showing the behaviour of using multiple apps," according to a user insights research carried out by techARC.
+
+
+***
+[Copenhagen-based Labster, which sells virtual STEM lab software to educational institutions, raises $60M Series C led by a16z, bringing total raised to $100M (Natasha Mascarenhas/TechCrunch)](http://www.techmeme.com/210211/p1#a210211p1)
+
+
+> Natasha Mascarenhas / TechCrunch: Copenhagen-based Labster, which sells virtual STEM lab software to educational institutions, raises $60M Series C led by a16z, bringing total raised to $100M — Andreessen Horowitz, a venture capital firm with $16.5 billion in assets under management, has poured millions into an edtech startup …
+
+
+***
+![Valentine's Day: Phishing email campaigns continue to rise, here's how to stay safe](https://images.indianexpress.com/2020/12/IIT-K-1200.jpg "Valentine's Day: Phishing email campaigns continue to rise, here's how to stay safe")
+
+
+[Valentine's Day: Phishing email campaigns continue to rise, here's how to stay safe](https://indianexpress.com/article/technology/techook/valentines-day-phishing-email-campaigns-continue-to-rise-heres-how-to-stay-safe-7182987/)
+
+
+> Valentine's Day might be the time for love and romance, but it is also a time when cybercriminals will try and trick users with well-thought out phishing email campaigns. According to Check Point Research, there's been a surge in malicious phishing email campaigns in the second half of January in the build up to Valentine's Day. The cybersecurity firm states that over 400 malicious Valentine's Day themed individual phishing emails are spotted every week. It also noted that there was a 29 per cent year-on-year increase in Valentine's Day themed domains registered in January, and out of the 23,000 domains, 523 were found malicious or suspicious.
+
+
+***
+![Vivo X50 Pro+ to Launch Alongside Vivo X60 Series in India: Report](https://i.gadgets360cdn.com/large/Vivo_X50_pro_plus_tipped_1613021343553.jpg "Vivo X50 Pro+ to Launch Alongside Vivo X60 Series in India: Report")
+
+
+[Vivo X50 Pro+ to Launch Alongside Vivo X60 Series in India: Report](https://gadgets.ndtv.com/mobiles/news/vivo-x50-pro-plus-launch-specifications-x60-series-india-report-snapdragon-865-soc-2368068)
+
+
+> Vivo X50 Pro+ may launch alongside the Vivo X60 series in India at the launch event rumoured to be scheduled for March-end or beginning of April. Vivo X50 and Vivo X50 Pro were launched in India in July last year but the company did not unveil Vivo X50 Pro+ at the time, however, a report states that the phone which was supposed to be the most powerful in the Vivo X50 series may launch alongside the newer generation Vivo X60 series in India.Vivo X50 Pro+ was launched alongside the other two Vivo X50 series phones in China in June 2020, but the India launch skipped Vivo X50 Pro+ for reasons unknown.
+
+
