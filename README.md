@@ -25519,3 +25519,50 @@
 > Monday February 8, 2021 10:18 am PST by Hartley CharltonNew MacBook Pro models are expected to arrive later this year with some of the biggest improvements to the product line to date, including some surprising changes, so now is not the best time to buy a new MacBook Pro.With major upgrades expected to key features such as the chipset, display, Touch Bar, charging, ports, and design, customers eyeing a new MacBook Pro may be better off...
 
 
+***
+![Digital Realty Reports Fourth Quarter 2020 Results](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Digital Realty Reports Fourth Quarter 2020 Results")
+
+
+[Digital Realty Reports Fourth Quarter 2020 Results](https://seekingalpha.com/pr/18190304-digital-realty-reports-fourth-quarter-2020-results)
+
+
+> AUSTIN, Texas , Feb. 11, 2021 /PRNewswire/ -- Digital Realty ( DLR ), a leading global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today financial results for the fourth quarter of 2020.  All per-share results are presented on a fully-diluted share and unit basis.  Highlights Reported net income available to common stockholders of $0.16 per share in 4Q20, compared to net income available to common stockholders of $1.50 in 4Q19 Reported FFO per share of $1.
+
+
+***
+![Limelight Networks: Q4 Earnings Insights](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Limelight Networks: Q4 Earnings Insights")
+
+
+[Limelight Networks: Q4 Earnings Insights](https://www.benzinga.com/news/earnings/21/02/19626649/limelight-networks-q4-earnings-insights)
+
+
+> Shares of Limelight Networks (NASDAQ: LLNW ) fell in after-market trading after the company reported Q4 results. Quarterly Results Earnings per share decreased 160.00% over the past year to ($0.03), which missed the estimate of $0.02. Revenue of $55,394,000 declined by 7.87% year over year, which missed the estimate of $61,270,000. Looking Ahead Earnings guidance hasn't been issued by the company for now. Limelight Networks hasn't issued any revenue guidance for the time being. Conference Call Details Date: Feb 11, 2021 Time: 04:30 PM ET Webcast URL: https://78449.
+
+
+***
+![12 Industrials Stocks Moving In Thursday's After-Market Session](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "12 Industrials Stocks Moving In Thursday's After-Market Session")
+
+
+[12 Industrials Stocks Moving In Thursday's After-Market Session](https://www.benzinga.com/after-hours-center/21/02/19626162/12-industrials-stocks-moving-in-thursdays-after-market-session)
+
+
+> SiteOne Landscape Supply (NYSE: SITE ) shares rose 17.56% to $195.33 during Thursday's after-market session. Trading volume for this security closed at 3.0K, accounting for 1.04% of its average full-day volume over the last 100 days. The company's market cap stands at $8.6 billion. Manitex International (NASDAQ: MNTX ) shares increased by 5.89% to $7.9. Trading volume for this security closed at 1.2K, accounting for 3.83% of its average full-day volume over the last 100 days. The company's market cap stands at $156.
+
+
+***
+[THCX Stock Price, Spinnaker ETF Series The Cannabis ETF Stock Quotes and News](https://www.benzinga.com/quote/THCX)
+
+
+> No body in the article.
+
+
+***
+![Facebook toning down politics on platform in 'coming weeks'](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Zuckerberg-Election-Unrest-1.jpg?ve=1&tl=1 "Facebook toning down politics on platform in 'coming weeks'")
+
+
+[Facebook toning down politics on platform in 'coming weeks'](https://www.foxbusiness.com/technology/facebook-toning-down-politics-on-platform)
+
+
+> Facebook  on Wednesday announced that it will officially start reducing the number of political posts that American users see on the platform "in the coming weeks." Ticker Security Last Change Change % FB FACEBOOK INC. 270.39 -1.48 -0.54% The changes come after Facebook CEO  Mark Zuckerberg  said during the company's fourth-quarter 2020 earnings call in January that he wants to "reduce the amount of politics" on the platform as  social media  sites face criticism for facilitating political divides.
+
+
