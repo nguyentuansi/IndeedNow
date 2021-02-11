@@ -25081,3 +25081,53 @@
 > © Reuters. FILE PHOTO: Former Federal Reserve Chairman Janet Yellen speaks during a panel discussion in Atlanta By Andrea Shalal and David Lawder WASHINGTON (Reuters) - U.S. Treasury Secretary Janet Yellen on Wednesday warned about an "explosion of risk" from digital markets, including the misuse of cryptocurrencies, but said new financial technologies could also help fight crime and reduce inequality. In remarks to a financial sector innovation roundtable, Yellen said such technologies could be used to stem the flow of dark money from organized crime and fight back against hackers, but also to reduce digital gaps in the United States.
 
 
+***
+![Clubhouse: The wildly popular audio chat app](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/clubhouse_app_0902-seo.JPG "Clubhouse: The wildly popular audio chat app")
+
+
+[Clubhouse: The wildly popular audio chat app](https://www.malaymail.com/news/tech-gadgets/2021/02/11/clubhouse-the-wildly-popular-audio-chat-app/1948894)
+
+
+> Launched less than a year ago, Clubhouse ― which recently encountered a censorship hiccup in China ― is looking to establish itself as the standard-bearer for digital audio. — Reuters pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 11 ― Clubhouse, the invitation-only audio chat app, exploded in popularity during the coronavirus pandemic when people could not get together person ― but now the once niche platform has far higher goals. Launched less than a year ago, Clubhouse ― which recently encountered a censorship hiccup in China ― is looking to establish itself as the standard-bearer for digital audio.
+
+
+***
+![Realme Narzo 30 Pro may be 5G phone with four rear cameras](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_logo_1_1200x768_0-483x271_1200_210211090520.jpeg "Realme Narzo 30 Pro may be 5G phone with four rear cameras")
+
+
+[Realme Narzo 30 Pro may be 5G phone with four rear cameras](https://www.indiatoday.in/technology/news/story/realme-narzo-30-pro-may-be-5g-phone-with-four-rear-cameras-1768049-2021-02-11)
+
+
+> Realme recently confirmed the Narzo 30 and this time we might be looking at the Narzo 30 Pro that may have been certified on the TENAA website. Shubham Verma | February 11, 2021 | Updated 09:00 IST Representational image of a Realme phone.
+
+
+***
+![Laptops priced below RM2,000 sold out in Ipoh](https://s3media.freemalaysiatoday.com/wp-content/uploads/2021/02/online-school-pdpr-bernama.jpg "Laptops priced below RM2,000 sold out in Ipoh")
+
+
+[Laptops priced below RM2,000 sold out in Ipoh](https://www.freemalaysiatoday.com/category/nation/2021/02/11/laptops-priced-below-rm2000-sold-out-in-ipoh/)
+
+
+> Parents are finding it difficult to find laptops for their children to follow online lessons. (Bernama pic) IPOH: Laptops, especially those priced at RM2,000 and below, have been sold out due to the high demand from parents in Ipoh following the implementation of home-based teaching and learning (PdPR). A Bernama check at a shopping complex here, known as a place where locals usually go to purchase electronic gadgets such as smartphones, laptops, notebooks, desktops and accessories, found that traders had been experiencing a shortage of laptops.
+
+
+***
+![FIFA Club World Cup live stream: How to watch the 2020 tournament online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/fifa-club-world-cup-2020.jpg "FIFA Club World Cup live stream: How to watch the 2020 tournament online")
+
+
+[FIFA Club World Cup live stream: How to watch the 2020 tournament online](https://www.androidcentral.com/fifa-club-world-cup-live-stream)
+
+
+> The best football teams from around the world descend on Qatar this week for the delayed 2020 FIFA Club World Cup. Don't miss a moment with our Club World Cup live stream guide. Source: FIFA Taking place this February, instead of December 2020, the week-long tournament pits the winners of each region's Champions League against one another to decide which club deserves the title of world champion. Running from February 4 and climaxing in the final on February 11, this tournament also serves as a test run of sorts for Qatar who are slated to hold the FIFA World Cup in 2022.
+
+
+***
+![HBO's The Last of Us series has found its Ellie and Joel](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/12/the-last-of-us-joel-ellie.jpg "HBO's The Last of Us series has found its Ellie and Joel")
+
+
+[HBO's The Last of Us series has found its Ellie and Joel](https://www.androidcentral.com/hbos-last-us-series-has-found-its-ellie-games-thrones-star-bella-ramsey)
+
+
+> Source: PlayStation Update 10:56 p.m. ET: A new report says that Pedro Pascal has been cast as Joel. The original version of this story just mentioned Bella Ramsey's casting. After numerous rumors posted by geek websites went up today, two different Hollywood trades have reported that HBO's The Last of Us TV series has found its Joel and Ellie. First off, The Hollywood Reporter reports that HBO has found its Ellie in its upcoming The Last of Us television series. According to sources, Bella Ramsey, who's known for her breakout role as Lyanna Mormont in Game of Thrones, will play Ellie in the series.
+
+
