@@ -25472,3 +25472,50 @@
 > February 11, 2021 12:57 PM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Global Semiconductor Micro Components Market 2021-2025" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the semiconductor micro components market and it is poised to grow by $28.93 billion during 2021-2025, progressing at a CAGR of 5% during the forecast period. The report on the semiconductor micro components market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around 25 vendors.
 
 
+***
+[Law enforcement diversity may improve policing, study shows](https://abcnews.go.com/Technology/wireStory/study-probes-impact-police-diversity-chicago-75832537)
+
+
+> CHICAGO -- In the last decade, high-profile police killings — including George Floyd in 2020 — have shaken the nation and led to widespread protests and calls for reform, including hiring more nonwhite and female officers. But there was little research to back that up. Now, a new study published Thursday in the journal Science, suggests that diversity in law enforcement can indeed lead to improvements in how police treat people of color. 'It's a system that very clearly needs reforming,' said University of Pennsylvania data scientist Dean Knox, a co-author of the study.
+
+
+***
+![RFK Jr. kicked off Instagram for vaccine misinformation](https://s.abcnews.com/images/Technology/WireAP_df51a4ffb3bd4ad5b9a4398e639fae08_16x9_992.jpg "RFK Jr. kicked off Instagram for vaccine misinformation")
+
+
+[RFK Jr. kicked off Instagram for vaccine misinformation](https://abcnews.go.com/Technology/wireStory/rfk-jr-kicked-off-instagram-vaccine-misinformation-75830042)
+
+
+> Instagram has banned Robert F Instagram on Wednesday banned Robert F. Kennedy Jr., son of former presidential candidate Robert F. Kennedy, from repeatedly posting misinformation about vaccine safety and COVID-19. Kennedy Jr. has amassed a huge following on social media, where he frequently posts debunked or unproven claims about vaccines . He also uses his social media pages to post about large pharmaceutical firms and environmental health concerns. The Children's Health Defense, an organization founded by Kennedy which focuses on vaccines, did not immediately respond to messages.
+
+
+***
+![Can one homemade website save wasted vaccinations? These guys want to try](https://media1.s-nbcnews.com/j/rockcms/2021-02/322/210210-citi-field-covid-vax-mn-1500-3540d6_6f44fdd15794f1f878a6e6fdd06adcabe53398be.nbcnews-fp-1200-630.jpg "Can one homemade website save wasted vaccinations? These guys want to try")
+
+
+[Can one homemade website save wasted vaccinations? These guys want to try](https://www.nbcnews.com/tech/tech-news/can-one-homemade-website-wasted-vaccinations-guys-want-try-rcna276)
+
+
+> Jimmy Chion's homemade website offers a simple solution to the problem of wasted Covid-19 vaccinations: a one-stop destination to pair people anywhere in the U.S. with excess or near-spoiled doses near them. It's an alluring proposition. For many Americans, finding a vaccination appointment means navigating a maze of government websites and phone lines in hopes of snagging a spot only to be routinely told to check back later. Efforts to make appointments for older relatives have left even tech-savvy people frustrated .
+
+
+***
+![How to Deploy and Scale your app with Kubernetes and Docker containers in GCP](https://miro.medium.com/max/1200/1*6urQTcG-YmFwsDWkidDNDw.jpeg "How to Deploy and Scale your app with Kubernetes and Docker containers in GCP")
+
+
+[How to Deploy and Scale your app with Kubernetes and Docker containers in GCP](https://rylezhou.medium.com/how-to-deploy-and-scale-your-app-with-kubernetes-and-docker-containers-in-gcp-7e046421d10e)
+
+
+> Kubernetes is an open source project (available on kubernetes.io) which can run on many different environments, from laptops to high-availability multi-node clusters, from public clouds to on-premise deployments, from virtual machines to bare metal.This is a tutorial to use Kubernetes with Docker containers in GCP, you will learn gcloud commands from setup to deploy your app. Let's get started!Google Kubernetes EngineIn the cloud shell environment type the following command to set the zone:gcloud config set compute/zone us-central1-bAfter you set the zone, start up a cluster for use in this lab:gcloud container clusters create ioLet's use an app from Github for example:Get the sample codeClone the GitHub repository from the Cloud Shell command line:gsutil cp -r gs://spls/gsp021/* .
+
+
+***
+![Apple Launches 'For All Mankind: Time Capsule' Augmented Reality App](https://images.macrumors.com/t/05H_WRrwAbeC-T00GtQbHkhcljo=/2000x/https://images.macrumors.com/article-new/2021/02/time-capsule-for-all-mankind.jpg "Apple Launches 'For All Mankind: Time Capsule' Augmented Reality App")
+
+
+[Apple Launches 'For All Mankind: Time Capsule' Augmented Reality App](https://www.macrumors.com/2021/02/11/apple-for-all-mankind-ar-link/)
+
+
+> Monday February 8, 2021 10:18 am PST by Hartley CharltonNew MacBook Pro models are expected to arrive later this year with some of the biggest improvements to the product line to date, including some surprising changes, so now is not the best time to buy a new MacBook Pro.With major upgrades expected to key features such as the chipset, display, Touch Bar, charging, ports, and design, customers eyeing a new MacBook Pro may be better off...
+
+
