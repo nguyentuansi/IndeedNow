@@ -25425,3 +25425,50 @@
 > "Olympus has a long standing reputation for originality. OM Digital Solutions has inherited this value and will continue to develop products and technologies that do not yet exist in the market." Pavni Jain | February 11, 2021 | Updated 20:27 IST
 
 
+***
+![You could soon get PAID for tweeting with Twitter considering a new digital payment feature](https://www.thesun.co.uk/wp-content/uploads/2021/02/NINTCHDBPICT000508773332-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "You could soon get PAID for tweeting with Twitter considering a new digital payment feature")
+
+
+[You could soon get PAID for tweeting with Twitter considering a new digital payment feature](https://www.thesun.co.uk/tech/14022715/get-paid-to-tweet/)
+
+
+> TWITTER may start providing users with financial incentives to stay on the platform. CEO Jack Dorsey has revealed the social media network is looking into a digital payments system that would let your followers pay you for tweeting. Twitter's CEO spoke about the potential changes at a conferenceCredit: Alamy Specific details haven't been revealed about the proposed plan. It may be similar to other platforms like Twitch, which allow content creators and streamers to receive tips from fans. However, there's also been rumours surrounding a potential payment subscription system for Twitter.
+
+
+***
+[Google says it will update its ad policies after an investigation found advertisers could exclude people who identify as "unknown gender" from job ads and more (Jeremy B. Merrill/The Markup)](http://www.techmeme.com/210211/p21#a210211p21)
+
+
+> Jeremy B. Merrill / The Markup: Google says it will update its ad policies after an investigation found advertisers could exclude people who identify as “unknown gender” from job ads and more — Dozens of advertisers instructed the company to not show their ads to people of “unknown” gender …
+
+
+***
+![Fire TV Stick 4K with THREE months of Amazon Prime now just £37](https://www.thesun.co.uk/wp-content/uploads/2021/02/Fire-TV-Stick-4K-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Fire TV Stick 4K with THREE months of Amazon Prime now just £37")
+
+
+[Fire TV Stick 4K with THREE months of Amazon Prime now just £37](https://www.thesun.co.uk/tech/14022769/fire-tv-stick-4k-three-months-amazon-prime/)
+
+
+> AMAZON'S most popular Fire device may be the Fire TV Stick, and it's latest version offers 4K. If you're considering picking one up, or upgrading from an older model, Amazon's new deal is one to grab. Get threem onths free Amazon Prime with the Fire TV Stick 4K This article and featured products have been independently chosen by Sun journalists. It contains links which are ads, and if you click a link and buy a product we will earn revenue. The Amazon Fire TV Stick 4K is a quick solution to make ‘smart' TVs that usually have no access to apps but do have a spare HDMI slot.
+
+
+***
+![I got the Google Foobar challenge and it's making me anxious because I am not a programmer. Any advice?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "I got the Google Foobar challenge and it's making me anxious because I am not a programmer. Any advice?")
+
+
+[I got the Google Foobar challenge and it's making me anxious because I am not a programmer. Any advice?](https://www.reddit.com/r/Python/comments/lhqdjq/i_got_the_google_foobar_challenge_and_its_making/)
+
+
+> I am an infrastructure engineer and I know my way around python scripts, but I am definitely not a programmer. At first I was really excited and finished the first task quickly. While the first task was very simple, the second one got me down the rabbit hole of linear algebra equations all to find out my solution did not pass the hidden tests. I'm thinking it's because I was using numpy.linalg.solve() which made my execution time n^3 longer than the simple solution. I have not requested the third challenge yet, because I feel I am not ready.
+
+
+***
+![Worldwide Semiconductor Micro Components Industry to 2025](https://mms.businesswire.com/media/20210211005780/en/371054/23/ResearchAndMarkets_800px.jpg "Worldwide Semiconductor Micro Components Industry to 2025")
+
+
+[Worldwide Semiconductor Micro Components Industry to 2025](https://www.businesswire.com/news/home/20210211005780/en/Worldwide-Semiconductor-Micro-Components-Industry-to-2025---Featuring-ABB-Advanced-Micro-Devices-and-Fujitsu-Among-Others---ResearchAndMarkets.com)
+
+
+> February 11, 2021 12:57 PM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Global Semiconductor Micro Components Market 2021-2025" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the semiconductor micro components market and it is poised to grow by $28.93 billion during 2021-2025, progressing at a CAGR of 5% during the forecast period. The report on the semiconductor micro components market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around 25 vendors.
+
+
