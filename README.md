@@ -25813,3 +25813,53 @@
 > The spiritual successor to the Suikoden games, Eiyuden Chronicle: Hundred Heroes , has found a publisher. 505 Games has come on board, partnering with the Japan-based Rabbit & Bear Studios to publish what became 2020's biggest video game Kickstarter campaign. The publisher made the announcement, Friday, February 12, Philippine time. Eiyuden Chronicle made waves when it was announced in July 2020 as the game will have Yoshitaka Murayama and Junko Kawano, who are among the creators of the Suikoden series, back in the lead again.
 
 
+***
+![Pay as little as $25 per month for your phone service with Visible and reap these benefits](https://mondrian.mashable.com/2021%252F02%252F11%252F48%252F56f1a6defeb94df5a8921cf732dd5ad8.52bd6.png%252F1200x630.png?signature=063mgiig2qd5zzeXTT5mcAPmgFk= "Pay as little as $25 per month for your phone service with Visible and reap these benefits")
+
+
+[Pay as little as $25 per month for your phone service with Visible and reap these benefits](https://mashable.com/shopping/visible-new-benefits-5g/)
+
+
+> TL;DR: Save money on your phone bill with Visible's solo or party plan pricing . So you want to lower your phone bill. If you're not especially aroused by going to brick-and-mortar wireless carriers in person and know how to activate a SIM on your own (trust us, you can do it), Visible is an attractive option for saving money . One of a few budget-friendly wireless providers coming on the radar recently, Visible is owned by Verizon, but operates independently, which means access to Verizon's 4G LTE and 5G networks .
+
+
+***
+![Learn to code in up to 9 different languages with this $35 training](https://mondrian.mashable.com/2021%252F02%252F12%252F94%252Fe251fa88d2c144dba68204f6188bfe44.9fae1.jpg%252F1200x630.jpg?signature=PTUQBDnAJSJffx1PxwnTddUfaQk= "Learn to code in up to 9 different languages with this $35 training")
+
+
+[Learn to code in up to 9 different languages with this $35 training](https://mashable.com/shopping/feb-12-the-master-learn-to-code-2021-certification-bundle/)
+
+
+> TL;DR: Take your coding skills to the next level with the Master Learn to Code 2021 Certification Bundle, on sale for 98% off. As of Feb. 12, get the full bundle for $34.99.  enhancing old skills and learning new ones — with tech skills at the forefront. In fact, research from BoxBoat found that one in four people spent their time during the lockdown . Whether you're hoping to improve your tech skills for career development or seeking to improve job prospects, learning to code is pretty much never a bad idea.
+
+
+***
+![Grab the Amazon Echo Dot 4th generation for less with this deal](https://cdn.mos.cms.futurecdn.net/jEmdEeQ6cWVpdsX8GfDNGY-1200-80.jpg "Grab the Amazon Echo Dot 4th generation for less with this deal")
+
+
+[Grab the Amazon Echo Dot 4th generation for less with this deal](https://www.techradar.com/news/grab-the-amazon-echo-dot-4th-generation-for-less-with-this-deal)
+
+
+> (Image credit: TechRadar) Amazon's smallest smart speaker, the Echo Dot 4th generation has been discounted by the tech giant to £34.99 in the UK just in time for Valentine's Day. If you're looking to give the gift of Alexa to a loved one this year, you can bag a £15 saving if you snap up this deal.  While this isn't the lowest price the smallest Amazon smart speaker has ever sold for, with a 30% saving it's still good value for money. The Amazon Echo Dot 4th generation with Clock has also been discounted to £44.
+
+
+***
+![Hacked Nvidia RTX 3080 laptops are getting big performance boosts for free](https://cdn.mos.cms.futurecdn.net/rErUDJ63C6tSssAU7e5yyG-1200-80.jpg "Hacked Nvidia RTX 3080 laptops are getting big performance boosts for free")
+
+
+[Hacked Nvidia RTX 3080 laptops are getting big performance boosts for free](https://www.techradar.com/news/hacked-nvidia-rtx-3080-laptops-are-getting-big-performance-boosts-for-free)
+
+
+> (Image credit: Asus) Some clever (and brave) owners of new gaming laptops with Nvidia RTX 3080 mobile GPUs have found that they can get a pretty impressive performance boost with a few choice tweaks – essentially upgrading their laptop for free. At CES 2021 , Nvidia announced its RTX 3080 laptop graphics card , along with laptop versions of the RTX 3070 and RTX 3060 as well. While these shared the same names as Nvidia's desktop Ampere graphics cards, they are actually quite different, due to the power and thermal constraints of laptops.
+
+
+***
+![Save 35% on a 3-in-1 hybrid charging cable](https://mondrian.mashable.com/2021%252F02%252F12%252F2f%252F972df71f89844380bd6368c2668d502f.5e52b.jpg%252F1200x630.jpg?signature=BtQaMRsxjA0yCPFEYIVZwmfcyY0= "Save 35% on a 3-in-1 hybrid charging cable")
+
+
+[Save 35% on a 3-in-1 hybrid charging cable](https://mashable.com/shopping/feb-12-naztech-hybrid-3-in-1-charge-and-sync-cable/)
+
+
+> TL;DR: Charge all your devices with the Naztech 3-in-1 Hybrid Cable , which is on sale for $18.69. As of Feb. 12, use code PREZ2021 to score a total of 35% off the regular price. You have a ton of devices. Most of those devices need different chargers. Thanks to Naztech, though, you can charge many of them using the same hybrid cable. This cable is made of braided nylon and copper, and is purportedly 10 times stronger than a standard cable. It also supports high-speed charging and data sync and is six feet long, so you can charge from a distance.
+
+
