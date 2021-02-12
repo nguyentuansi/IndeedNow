@@ -25666,3 +25666,53 @@
 > When it comes to brick-and-mortar clubhouses, getting in is typically the challenge. Clubhouse, the buzzy audio-focused social media app, appears to have flipped that logic on its head.  Unlike Twitter or Facebook, Clubhouse provides no immediate way for users to delete their accounts. Instead of an option to do so in the app itself, or via the company's website, Clubhouse's privacy policy states that users need to email the company a deletion request. "Please log in to your account or contact us (at support@alphaexplorationco.
 
 
+***
+![Microsoft backs search engines paying for news worldwide](https://static.bangkokpost.com/media/content/20210212/c1_3892747_700.jpg "Microsoft backs search engines paying for news worldwide")
+
+
+[Microsoft backs search engines paying for news worldwide](https://www.bangkokpost.com/tech/2067127/microsoft-backs-search-engines-paying-for-news-worldwide)
+
+
+> Microsoft has offered to fill the void if rival Google follows through on a threat to turn off its search engine in Australia. SAN FRANCISCO: Microsoft on Thursday lobbied for other countries to follow Australia's lead in demanding news outlets to be paid for stories search engines publish online, a move opposed by Facebook and Google. Microsoft last week offered to fill the void if rival Google follows through on a threat to turn off its search engine in Australia over the plan. Microsoft President Brad Smith said in a statement the company fully supports proposed legislation in Australia that would force Google and Facebook to compensate media for their journalism.
+
+
+***
+![Microsoft backs search engines paying for news worldwide](https://imagevars.gulfnews.com/2021/02/12/20210212-microsoft-sydent_177945a97d6_medium.jpg "Microsoft backs search engines paying for news worldwide")
+
+
+[Microsoft backs search engines paying for news worldwide](https://gulfnews.com/technology/microsoft-backs-search-engines-paying-for-news-worldwide-1.1613101900284)
+
+
+> The Microsoft company logo is displayed at their offices in Sydney. Image Credit: AP San Francisco: Microsoft on Thursday lobbied for other countries to follow Australia's lead in calling for news outlets to be paid for stories published online, a move opposed by Facebook and Google. Microsoft last week offered to fill the void if rival Google follows through on a threat to turn off its search engine in Australia over the plan. Microsoft President Brad Smith said in a statement the company fully supports proposed legislation in Australia that would force Google and Facebook to compensate media for their journalism.
+
+
+***
+![Apple's decision to stop iPhone 12 Mini production will have an impact on Android smartphones too](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/ip666-647x363.jpeg?86KVJOfOaBbRYgwqUZwgDWYm10RpSQf_ "Apple's decision to stop iPhone 12 Mini production will have an impact on Android smartphones too")
+
+
+[Apple's decision to stop iPhone 12 Mini production will have an impact on Android smartphones too](https://www.indiatoday.in/technology/talking-points/story/apple-s-decision-to-stop-iphone-12-mini-production-will-have-an-impact-on-android-smartphones-too-1768431-2021-02-12)
+
+
+> Is this even a smartphone anymore? It looks like a mini-TV hahaha ...who needs that big a screen? We should rather make calls using a tablet! These were some of the commonly cracked jokes or asked questions, only few years ago, when the smartphone makers were increasing the display sizes. It was a rather new concept and users were still adjusting to it. Massive displays led to bigger smartphone sizes and rightly so. Smartphones were being used to read text, watch videos and interact with other users.
+
+
+***
+![Time-lapse: NASA's massive Deep Space Station 56 antenna construction](https://www.gannett-cdn.com/presto/2021/02/12/USAT/2a9296a9-7ad1-45ad-af3f-dffb0555ad45-VPC_NASA_ANTENNA_CONSTRUCTION_TIMELAPSE_WIDE.jpg?quality=10 "Time-lapse: NASA's massive Deep Space Station 56 antenna construction")
+
+
+[Time-lapse: NASA's massive Deep Space Station 56 antenna construction](https://www.usatoday.com/videos/tech/2021/02/12/time-lapse-nasas-massive-deep-space-station-56-antenna-construction/6730592002/)
+
+
+> NASA says the DSS-56 is an 'all-in-one' antenna that can communicate with all the missions that their Deep Space Network supports.
+
+
+***
+![Twitter to Start Labeling Personal Accounts of Heads of State](https://external-preview.redd.it/GdNluzvbg1Vax4zCkpWjIDgHh7ZaLMmBC7QiywJ_J0E.jpg?auto=webp&s=944df415f07295aa6ba225b2aada947ab748439c "Twitter to Start Labeling Personal Accounts of Heads of State")
+
+
+[Twitter to Start Labeling Personal Accounts of Heads of State](https://www.reddit.com/r/technology/comments/li30n6/twitter_to_start_labeling_personal_accounts_of/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
