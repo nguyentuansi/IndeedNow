@@ -25913,3 +25913,50 @@
 > BusinessToday.In | February 12, 2021 US President Joe Biden and his Chinese counterpart Xi Jinping held their first phone call as leaders and appeared at odds on most issues. While Xi has called for 'win-win' cooperation, Biden has called China America's 'most serious competitor' and vowed to 'out compete' Beijing; The job market continues to improve sequentially across the country, with job postings getting improved in some industries; The UK coronavirus variant that has wreaked havoc in the country and spread to multiple countries could eventually become the dominant strain, say experts.
 
 
+***
+![MVNO's Visible and Mint Mobile battle it out, but who wins? You do!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/visible-speed-test-lte-galaxy-s20-feb2020.jpg "MVNO's Visible and Mint Mobile battle it out, but who wins? You do!")
+
+
+[MVNO's Visible and Mint Mobile battle it out, but who wins? You do!](https://www.androidcentral.com/visible-vs-mint-mobile)
+
+
+> Mint Mobile uses T-Mobile to power its network, and while that means coverage isn't quite as expansive, you get a lot of bang for your buck. Plans are sold in bulk, meaning you have a bigger upfront cost but save a lot of money month-to-month. And, unlike Visible, you can use Mint Mobile with just about any Android phone. From $15/mo. at Mint Mobile Cheaper monthly rates Lots of plan options Unlimited talk and text Free hotspot access Works with most unlocked phones Coverage isn't quite as dense as Visible's Want access to Verizon's incredible LTE network for a fraction of the cost? That's what Visible brings to the table.
+
+
+***
+![South Africa is switching off its analogue TVs](https://cdn.mos.cms.futurecdn.net/irfY6msjucf7Dz62X2BeGi-1200-80.jpg "South Africa is switching off its analogue TVs")
+
+
+[South Africa is switching off its analogue TVs](https://global.techradar.com/news/south-africa-is-switching-off-its-analogue-tvs)
+
+
+> (Image credit: Twitter) In the State of the Nation Address on Thursday, February 11 South Africa's president, Cyril Ramaphosa promised that the digital migration process will be completed by the end of March 2022.'The completion of digital migration is vital to our ability to effectively harness the enormous opportunities presented by technological change. After many delays, we will begin the phased switch-off of our analogue TV transmitters from next month. It is anticipated that this process, which will be done province-by-province, will be completed by the end of March 2022,' said Ramaphosa.
+
+
+***
+[USDCAD returns to retest the 200 hour MA](https://www.forexlive.com/technical-analysis/!/usdcad-returns-to-retest-the-200-hour-ma-20210212)
+
+
+> Earlier technical breaks to the upside, paved the way to the upside The USDCAD fell to a new week low yesterday to 1.26599. That broke the Wednesday low at 1.2666 but only by 7 pips. The momentum could not be sustained, and the pair snapped higher into the close.
+
+
+***
+![Robotic Assistance Devices Indicates that Momentum for Products Accelerates](https://mms.businesswire.com/media/20210212005118/en/783394/23/RAD_Logo_New_Portrait.jpg "Robotic Assistance Devices Indicates that Momentum for Products Accelerates")
+
+
+[Robotic Assistance Devices Indicates that Momentum for Products Accelerates](https://www.businesswire.com/news/home/20210212005118/en/Robotic-Assistance-Devices-Indicates-that-Momentum-for-Products-Accelerates---Receives-Multiple-Orders)
+
+
+> February 12, 2021 08:52 AM Eastern Standard Time HENDERSON, Nev.--(BUSINESS WIRE)--Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) is experiencing an acceleration of activity and demand across all product offerings. In late January, through a press release, RAD announced new orders for their ROSA and AVA Autonomous Remote Services solutions. Today the company announces additional new orders and new channel partners.
+
+
+***
+![More Than 120 Smartphones With Snapdragon 888 Are Being Developed](https://www.androidheadlines.com/wp-content/uploads/2020/12/snapdragon-888-5g.png "More Than 120 Smartphones With Snapdragon 888 Are Being Developed")
+
+
+[More Than 120 Smartphones With Snapdragon 888 Are Being Developed](https://www.androidheadlines.com/2021/02/over-120-smartphones-snapdragon-888-developed.html)
+
+
+> Qualcomm has revealed that more than 120 smartphones with Snapdragon 888 are currently being developed. This information got revealed by the Chairman of Qualcomm China, Meng Pu, reports Tech Agent, a well-known tipster.We'll see quite a few flagship smartphones with the Snapdragon 888 this year, it seemsWe're not sure if all those phones will make it to market, or will they make it to market in 2021, but there you go. Needless to say, that's a lot of phones, considering that the Snapdragon 888 is a flagship processor.
+
+
