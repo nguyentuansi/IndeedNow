@@ -25960,3 +25960,53 @@
 > Qualcomm has revealed that more than 120 smartphones with Snapdragon 888 are currently being developed. This information got revealed by the Chairman of Qualcomm China, Meng Pu, reports Tech Agent, a well-known tipster.We'll see quite a few flagship smartphones with the Snapdragon 888 this year, it seemsWe're not sure if all those phones will make it to market, or will they make it to market in 2021, but there you go. Needless to say, that's a lot of phones, considering that the Snapdragon 888 is a flagship processor.
 
 
+***
+![Regulator gears up for Bitcoin crackdown amid digital coin frenzy](https://www.telegraph.co.uk/content/dam/news/2021/01/12/TELEMMGLPICT000248441027_trans_NvBQzQNjv4BqufPWexoDNO0wvV3FQMbBIMPgwNfBwKBHKlx2e4jvRJ0.jpeg?impolicy=logo-overlay "Regulator gears up for Bitcoin crackdown amid digital coin frenzy")
+
+
+[Regulator gears up for Bitcoin crackdown amid digital coin frenzy](https://www.telegraph.co.uk/technology/2021/02/12/regulator-gears-bitcoin-crackdown-amid-digital-coin-frenzy/)
+
+
+> Bitcoin and other cryptocurrencies are set to face new regulation and oversight under the Biden administration as interest in the digital coins rises. Gary Gensler, the incoming chair of the US Securities and Exchange Commission (SEC), is expected to establish rules that allow more firms to handle Bitcoin but will come with strings attached that increase protection for customers. Jeff Bandman, a former fintech official at the Commodities and Futures Trading Commission (CFTC) where Mr Gensler pioneered new financial protection laws under Barack Obama, said the SEC could push for similar regulations around cryptocurrencies.
+
+
+***
+![Bumble shows dating apps can be about finding friends as well as lovers](https://www.telegraph.co.uk/content/dam/technology/2021/02/12/BUMBLE_TINDER1_LEAD_trans_NvBQzQNjv4BqK3Ytq28vYzV8vgytz3tt2x6vTgUo7goj1e1R4oK598Y.jpg?impolicy=logo-overlay "Bumble shows dating apps can be about finding friends as well as lovers")
+
+
+[Bumble shows dating apps can be about finding friends as well as lovers](https://www.telegraph.co.uk/technology/2021/02/12/bumble-shows-dating-apps-can-finding-friends-lovers/)
+
+
+> The pandemic has left Sonali Misra unable to see her family and friends for more than a year. The PhD researcher, who is from India but based in Edinburgh, says she began feeling 'extremely isolated' and made her turn to  Bumble's friend-matching service  called BFF. 'I matched with a few women and really clicked with one,' says Misra, who recently published 21 Fantastic Failures , a book on missteps that preceded huge successes like those made by Steve Jobs and Oprah Winfrey. 'We have similar interests — we're both writers and love books and languages.
+
+
+***
+![Twitter wants to help users identify accounts with government links](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/twitter_12022021-seo.jpg "Twitter wants to help users identify accounts with government links")
+
+
+[Twitter wants to help users identify accounts with government links](https://www.malaymail.com/news/tech-gadgets/2021/02/12/twitter-wants-to-help-users-identify-accounts-with-government-links/1949352)
+
+
+> In the coming months, Twitter plans to add labels to the accounts of state-affiliated media entities. — Picture from Twitter via ETX Studio Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 12 — Twitter is taking steps to provide more context on the platform. In fact, the social network plans to more clearly signal the personal accounts of government figures such as heads of state. The measures were launched in several countries in August 2020 and will be expanded to 16 new countries from February 17.
+
+
+***
+![Ford's electric Mustang Mach-E is an important leap into the future](https://www.popsci.com/resizer/LYTzJUtf_gPc5QM9ptRQd0mb82s=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/3OVHFXYDPFG2VHEOKP4XH3RRLM.jpg "Ford's electric Mustang Mach-E is an important leap into the future")
+
+
+[Ford's electric Mustang Mach-E is an important leap into the future](https://www.popsci.com/story/technology/ford-mustang-electric-car-review/)
+
+
+> The automaker knows that it has to adapt or die. With the new electric Mustang, it has. moments agoMore Technology
+
+
+***
+![Gmail Will Now Add Email Address Aliases To Search Bar Results](https://sm.mashable.com/t/mashable_in/news/g/gmails-dar/gmails-dark-mode-goes-missing-forcing-our-eyes-to-endure-unb_ghd5.1200.jpg "Gmail Will Now Add Email Address Aliases To Search Bar Results")
+
+
+[Gmail Will Now Add Email Address Aliases To Search Bar Results](https://in.mashable.com/tech/20257/gmail-will-now-add-email-address-aliases-to-search-bar-results)
+
+
+> Google introduced major changes to Gmail for G Suite last year that put together its core services like video, chat, email, files, and tasks under one roof. Part of that update was an added capability for Gmail's search feature that would show Chat in addition to email results. Now, Google is expanding that capability. The company announced today that all associated email aliases will show up in Gmail's search bar. Still trying to figure out what I'm referring to? Well, email aliases are alternative addresses you can use to receive email.
+
+
