@@ -25566,3 +25566,53 @@
 > Facebook  on Wednesday announced that it will officially start reducing the number of political posts that American users see on the platform "in the coming weeks." Ticker Security Last Change Change % FB FACEBOOK INC. 270.39 -1.48 -0.54% The changes come after Facebook CEO  Mark Zuckerberg  said during the company's fourth-quarter 2020 earnings call in January that he wants to "reduce the amount of politics" on the platform as  social media  sites face criticism for facilitating political divides.
 
 
+***
+![More than 100M people wear an Apple Watch, analyst says](https://photos5.appleinsider.com/gallery/40283-77535-210211-AppleWatchGraph-xl.jpg "More than 100M people wear an Apple Watch, analyst says")
+
+
+[More than 100M people wear an Apple Watch, analyst says](https://appleinsider.com/articles/21/02/12/more-than-100m-people-wear-an-apple-watch-analyst-says)
+
+
+> More than 100M people wear an Apple Watch, analyst says 13 minutes ago Disney+ hits 94.9M paid subscribers 2 hours ago Apple releases 'For All Mankind: Time Capsule' AR experience 3 hours ago
+
+
+***
+![Moon exploration: Intuitive Machines unveils new command center before its November mission](https://media.khou.com/assets/KHOU/images/ec39a5ff-18c3-43da-aea8-244e541c1d7c/ec39a5ff-18c3-43da-aea8-244e541c1d7c_1140x641.jpg "Moon exploration: Intuitive Machines unveils new command center before its November mission")
+
+
+[Moon exploration: Intuitive Machines unveils new command center before its November mission](https://www.khou.com/article/tech/science/space/moon-exploration-intuitive-machines-unveils-new-command-center-before-its-november-mission/285-62117820-ce31-4049-a7e8-77a6e05748e3)
+
+
+> HOUSTON — It's the next step in exploring the Moon. Houston's very own Intuitive Machines is hoping to be the first commercial company to bring NASA payloads to the lunar surface through their Nova-C Lunar Lander. 'A payload is an instrument or a scientific package that's meant to go to the moon and collect scientific data so that we can understand the moon better," Intuitive Machines Vice President for Control Centers Dr. Troy LeBlanc said. But LeBlanc said none of that can be done without first building the new Nova Control command center.
+
+
+***
+![How a tech expert recommends approaching parental controls](https://media3.s-nbcnews.com/j/newscms/2021_06/3449159/210210-stock-parent-child-tablet-ew-250p_057f2d6a38df69408bc50cfd9149f206.nbcnews-fp-1200-630.jpg "How a tech expert recommends approaching parental controls")
+
+
+[How a tech expert recommends approaching parental controls](https://www.nbcnews.com/shopping/tech-gadgets/set-parental-controls-n1257409)
+
+
+> Keeping your kids safe on the internet isn't easy and standard parental control filters can be cumbersome to manage. Your Wi-Fi router may come with some rudimentary built-in blocking capabilities, but it likely won't equip a lot of fine-grained control. On the other hand, software solutions may only be compatible with certain devices. That's why a few brands have released new devices that apply complex rules network-wide, allowing you to block sites, set screen time limits and monitor activity on any device you have at home.
+
+
+***
+![Anti-Vaccine Accounts Remain Active on Facebook](https://static01.nyt.com/images/2021/02/11/reader-center/11disinfo-facebook-vaccine/11disinfo-facebook-vaccine-facebookJumbo-v3.png "Anti-Vaccine Accounts Remain Active on Facebook")
+
+
+[Anti-Vaccine Accounts Remain Active on Facebook](https://www.nytimes.com/interactive/2021/02/11/technology/facebook-instagram-vaccine.html)
+
+
+> Facebook said Monday that it was banning vaccine misinformation. On Wednesday, it removed the Instagram account of Robert F. Kennedy Jr., one of the most prominent anti-vaccine activists on social media. Still, dozens of prominent anti-vaccine activists remain active on Facebook and Instagram →
+
+
+***
+![The Sun](https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?strip=all "The Sun")
+
+
+[The Sun](https://www.thesun.co.uk)
+
+
+> Romeo Beckham flaunts eagle tattoo on leg - but his girlfriend isn't happy Holly Willoughby reveals her bedroom and antique dressing table in rare pic Emmerdale's Mark Charnock pays tribute to his on-screen son after his death Kylie Minogue pictured for the first time in SIX years with sister Dannii Coronation Street's Colson Smith reveals angry row with co-star Jack P Shepherd Katie Price's boyfriend Carl Woods shows off huge painting of her at home Katie Price says ill mum 'hasn't got long left' & lungs have '32% capacity' Katie Price told off by her mum on GMB after she vows to marry Carl Woods Stacey Solomon hits back at trolls over baby Rex playing gloveless in snow Corrie's Alex Bain admits 'dark times' after trolls called him a bad dad at 17 When 'holidays' is becoming a dirty word, we're doing something very wrong Sage's Covid doom-mongering is making our depressed, anxious nation feel worse Loud and a giant pain.
+
+
