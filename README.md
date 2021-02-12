@@ -25616,3 +25616,53 @@
 > Romeo Beckham flaunts eagle tattoo on leg - but his girlfriend isn't happy Holly Willoughby reveals her bedroom and antique dressing table in rare pic Emmerdale's Mark Charnock pays tribute to his on-screen son after his death Kylie Minogue pictured for the first time in SIX years with sister Dannii Coronation Street's Colson Smith reveals angry row with co-star Jack P Shepherd Katie Price's boyfriend Carl Woods shows off huge painting of her at home Katie Price says ill mum 'hasn't got long left' & lungs have '32% capacity' Katie Price told off by her mum on GMB after she vows to marry Carl Woods Stacey Solomon hits back at trolls over baby Rex playing gloveless in snow Corrie's Alex Bain admits 'dark times' after trolls called him a bad dad at 17 When 'holidays' is becoming a dirty word, we're doing something very wrong Sage's Covid doom-mongering is making our depressed, anxious nation feel worse Loud and a giant pain.
 
 
+***
+![Popular Bearpaw boots are on sale for less than $30 right now](https://www.gannett-cdn.com/presto/2021/02/09/USAT/33eb17d6-479b-42f5-a520-f5be55244520-bearpaw_hero.jpg?crop=4779,2689,x0,y0&width=3200&height=1680&fit=bounds "Popular Bearpaw boots are on sale for less than $30 right now")
+
+
+[Popular Bearpaw boots are on sale for less than $30 right now](https://www.usatoday.com/story/tech/reviewedcom/2021/02/11/bearpaw-boots-shop-womens-styles-30-right-now/4457360001/)
+
+
+> Nab these stylish boots for less right now. (Photo: Saks OFF 5TH/Getty Images)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.You might think you need to spend tons of money to snag a stylish pair of winter boots that will keep your feet warm and toasty until spring finally arrives, but Saks Off 5th is here to save your winter—and your wallet. The discount designer retail hub is having an incredible sale on Bearpaw boots, offering a slew of styles from the footwear brand for just under $30!Get expert shopping advice delivered to your phone.
+
+
+***
+![Disney Plus AU will get heaps more TV shows and movies via Star this month](https://cdn.mos.cms.futurecdn.net/UxEeVtTMeu5DzHP75fjrth-1200-80.jpg "Disney Plus AU will get heaps more TV shows and movies via Star this month")
+
+
+[Disney Plus AU will get heaps more TV shows and movies via Star this month](https://www.techradar.com/news/disney-plus-au-will-get-heaps-more-tv-shows-and-movies-via-star-this-month)
+
+
+> Disney Plus is finally getting adult TV shows and movies in several territories outside of the US, and Australia is confirmed as one of the chosen ones. This content will come under the new Star brand in 2021 – a new 'general entertainment' section that will significantly increase the remit of the service. Rather than being offered as a separate streamer, though, Disney Plus will get a small price bump anywhere that Star launches, and the vertical will be integrated directly into the streaming app.
+
+
+***
+![MyRepublic just delivered the cheapest NBN 1000 plan yet](https://cdn.mos.cms.futurecdn.net/Guf2mwFgVz3pc3H3Q2ooTD-1200-80.jpg "MyRepublic just delivered the cheapest NBN 1000 plan yet")
+
+
+[MyRepublic just delivered the cheapest NBN 1000 plan yet](https://www.techradar.com/news/myrepublic-just-delivered-the-cheapest-nbn-1000-plan-yet)
+
+
+> (Image credit: Getty Images) Aussie Broadband came out with the first consumer 1000Mbps plan last year, and it was surprisingly affordable at AU$149 a month. Now, though, that price seems exorbitant to what MyRepublic currently has on offer.MyRepublic has drastically cut the cost of its NBN 1000 plan down to just AU$99 a month, which is the cheapest plan we've seen in this ultra-fast speed tier.You'll get this AU$30 discount each month for your first six months with the provider, after which it will go back to the standard AU$129p/m for each billing cycle.
+
+
+***
+![I built my own TikTok/Zoom/Teams virtual background effect and made a video about it.](https://external-preview.redd.it/FhGH3eVf0sAzaQhym0QWJwvuB46ugENNwAs2FvGum-I.jpg?auto=webp&s=3c5e8251c6f0320a8328ad2539cf00585e32af83 "I built my own TikTok/Zoom/Teams virtual background effect and made a video about it.")
+
+
+[I built my own TikTok/Zoom/Teams virtual background effect and made a video about it.](https://www.reddit.com/r/Python/comments/li0qx7/i_built_my_own_tiktokzoomteams_virtual_background/)
+
+
+> Watch here Using Python, OpenCV, Numpy, and PyTorch, I built my own virtual background effect. Method 1 The first method we explore is generating a mask using background plate. I've actually used this in a gesture recognition project and you can check that out here. The idea is to capture the background and then comparing the captured frame to each new frame. Each pixel that is close enough to the background frame will be subtracted, and each different pixel will be kept. Method 2 The second method uses a deep neural network that performs image segmentation on each frame of video.
+
+
+***
+![How to delete your Clubhouse account and why you might want to](https://mondrian.mashable.com/2021%252F02%252F12%252F49%252F496783fed231473ead747e2d999d56c2.6de09.jpg%252F1200x630.jpg?signature=CopJ1ICiXG6gNw1jjQkYSPGHf_Y= "How to delete your Clubhouse account and why you might want to")
+
+
+[How to delete your Clubhouse account and why you might want to](https://mashable.com/article/clubhouse-app-privacy-policy-how-to-delete-account/)
+
+
+> When it comes to brick-and-mortar clubhouses, getting in is typically the challenge. Clubhouse, the buzzy audio-focused social media app, appears to have flipped that logic on its head.  Unlike Twitter or Facebook, Clubhouse provides no immediate way for users to delete their accounts. Instead of an option to do so in the app itself, or via the company's website, Clubhouse's privacy policy states that users need to email the company a deletion request. "Please log in to your account or contact us (at support@alphaexplorationco.
+
+
