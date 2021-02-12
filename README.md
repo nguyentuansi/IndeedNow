@@ -25716,3 +25716,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+[Clubhouse 好夯，祖克柏開完房間後也想研發類似平台搶語音市場](https://technews.tw/2021/02/12/clubhouse-facebook/)
+
+
+> Clubhouse 正夯，就連 Facebook 也想參一腳。根據紐約時報報導，Facebook 內部員工透露 […]
+
+
+***
+![Pattern matching is coming to Python](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Pattern matching is coming to Python")
+
+
+[Pattern matching is coming to Python](https://www.reddit.com/r/Python/comments/li4v3r/pattern_matching_is_coming_to_python/)
+
+
+> Sorry, this post was deleted by the person who originally posted it. It doesn't appear in any feeds, and anyone with a direct link to it will see a message like this one.
+
+
+***
+![Bitcoin soars to all-time high after BNY Mellon announces crypto venture](https://www.thehindu.com/sci-tech/technology/yjtqx5/article33817602.ece/ALTERNATES/LANDSCAPE_615/bitcoin-AFP-2jpg "Bitcoin soars to all-time high after BNY Mellon announces crypto venture")
+
+
+[Bitcoin soars to all-time high after BNY Mellon announces crypto venture](https://www.thehindu.com/sci-tech/technology/bitcoin-soars-to-all-time-high/article33817548.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Bitcoin on Thursday jumped to a fresh all-time high after BNY Mellon said it formed a new unit to help clients hold, transfer, and issue digital assets.The new unit at BNY Mellon is expected to roll out the offerings later this year, the bank said.Bitcoin hit a record high of $48,481.45 earlier on Thursday and was last up 6.9% at $47,932. The largest virtual currency in terms of market capitalization has gained about 66% so far this year and soared roughly 1,200% since mid-March 2020.
+
+
+***
+![Amazon Echo devices users can now share music with friends: Here's how it will work](https://images.indianexpress.com/2020/11/WhatsApp-Image-2020-11-04-at-12.04.59-PM.jpeg "Amazon Echo devices users can now share music with friends: Here's how it will work")
+
+
+[Amazon Echo devices users can now share music with friends: Here's how it will work](https://indianexpress.com/article/technology/tech-news-technology/amazon-echo-devices-alexa-music-sharing-friends-7185178/)
+
+
+> Amazon has added a unique music sharing feature, which will allow users to share music via the Alexa App on Echo devices. Users can share any song they come across while listening to music on an Echo device. The command that will activate this feature is 'Alexa share this song with,' followed by the contact's name. In an instant, Alexa will share that particular track with the contact's name as asked. The contact with will now be able to listen to the song and send a reaction as feedback as well.
+
+
+***
+![Impact Entrepreneur Kunal Sood is transforming the world by impacting a billion lives](https://images.assettype.com/fortuneindia/2021-02/0bf14044-c477-4245-8cef-b2b31ed0fa1a/1__1_.jpeg?w=700 "Impact Entrepreneur Kunal Sood is transforming the world by impacting a billion lives")
+
+
+[Impact Entrepreneur Kunal Sood is transforming the world by impacting a billion lives](https://www.fortuneindia.com/technology/impact-entrepreneur-kunal-sood-is-transforming-the-world-by-impacting-a-billion-lives/105182)
+
+
+> On 21 September 2019 founder Kunal Sood conceptualized and launched #WeThePlanet as a high-level in-person convening at the United Nations during the 74th UNGA with the President of the UN General Assembly María Fernanda Espinosa Garcés and H.E. Thomas Remengesau Jr., President of Palau to transform our world for a better future. #WeThePlanet is on a mission to make the impossible possible by uniting the youth and the elders, the left and the right to positively impact a billion lives over the next decade.
+
+
