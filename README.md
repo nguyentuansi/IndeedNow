@@ -26107,3 +26107,53 @@
 > Continue reading the main storyAnalysts estimate that the tax will generate up to $250 million for schools in the state in the first year. It will also probably face fierce legal challenges.Bill Ferguson, president of the Maryland Senate, is the primary champion of a law that will tax tech giants.Credit...Andrew Mangum for The New York TimesFeb. 12, 2021Updated 2:49 p.m. ETState politicians, struggling with yawning budget gaps from the pandemic, have made no secret about their interest in getting a bigger piece of the tech industry's riches.
 
 
+***
+![Former QAnon follower Jitarth Jadeja on 'The Takeout'](https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/12/937bf0e9-da95-4d96-ad6b-fab155d051cd/thumbnail/1200x630/59cf5ba8d48a7d2e293fe15ffb7c5862/0212-thetakeout-full-645351-640x360.jpg "Former QAnon follower Jitarth Jadeja on 'The Takeout'")
+
+
+[Former QAnon follower Jitarth Jadeja on 'The Takeout'](https://www.cbsnews.com/video/former-qanon-follower-jitarth-jadeja-on-the-takeout-2122021/)
+
+
+> No body in the article.
+
+
+***
+![Black Knight, Inc. (BKI) Earnings Estimates](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Black Knight, Inc. (BKI) Earnings Estimates")
+
+
+[Black Knight, Inc. (BKI) Earnings Estimates](https://seekingalpha.com/symbol/BKI/earnings/estimates)
+
+
+> No body in the article.
+
+
+***
+![Black Knight, Inc. (BKI) Earnings EPS Surprise Summary](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Black Knight, Inc. (BKI) Earnings EPS Surprise Summary")
+
+
+[Black Knight, Inc. (BKI) Earnings EPS Surprise Summary](https://seekingalpha.com/symbol/BKI/earnings/eps_surprise_summary)
+
+
+> No body in the article.
+
+
+***
+![Microsoft Corporation (MSFT) Stock Price Today, Quote & News](https://static.seekingalpha.com/cdn/iex/stable/stock/msft/logo?asImage=true "Microsoft Corporation (MSFT) Stock Price Today, Quote & News")
+
+
+[Microsoft Corporation (MSFT) Stock Price Today, Quote & News](https://seekingalpha.com/symbol/MSFT)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Facebook to 'significantly reduce' Burma military content](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/AP21043322071829-1.jpg?ve=1&tl=1 "Facebook to 'significantly reduce' Burma military content")
+
+
+[Facebook to 'significantly reduce' Burma military content](https://www.foxbusiness.com/technology/facebook-burma-military-content)
+
+
+> Facebook will "significantly reduce" content from accounts linked to the Burmese military as the Southeast Asian nation grapples with a military coup. Ticker Security Last Change Change % FB FACEBOOK INC. 270.50 +0.11 +0.04% The social media platform said in a Thursday blog post that it has put "several measures in place to support our community in Myanmar," or Burma, such as "the decision to significantly reduce the distribution of all content on Facebook Pages and profiles run by the Myanmar Military ('Tatmadaw') that have continued to spread misinformation.
+
+
