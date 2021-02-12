@@ -26010,3 +26010,50 @@
 > Google introduced major changes to Gmail for G Suite last year that put together its core services like video, chat, email, files, and tasks under one roof. Part of that update was an added capability for Gmail's search feature that would show Chat in addition to email results. Now, Google is expanding that capability. The company announced today that all associated email aliases will show up in Gmail's search bar. Still trying to figure out what I'm referring to? Well, email aliases are alternative addresses you can use to receive email.
 
 
+***
+[USDCAD completes lap up and down](https://www.forexlive.com/technical-analysis/!/usdcad-completes-lap-up-and-down-20210212)
+
+
+> Follows USD lower and oil prices The USDCAD just a few hours ago was testing and breaking above its 200 hour moving average for the 1st time since February 5. The the high price extended up to the low of a swing area between 1.2762 and 1.27645. The 50% retracement of the move down from February 2 was
+
+
+***
+![Digital divide: The initiatives working to provide deprived children with laptops](https://i.inews.co.uk/content/uploads/2021/02/PRI_182585349.jpg "Digital divide: The initiatives working to provide deprived children with laptops")
+
+
+[Digital divide: The initiatives working to provide deprived children with laptops](https://inews.co.uk/news/technology/digital-divide-initiatives-working-provide-deprived-children-laptops-869560)
+
+
+> For thousands of children across the UK, one of the most challenging aspects of the past year has been finding the means to complete their schoolwork.Around 1.8m children in the UK (around 9 per cent) did not have access to a laptop, desktop computer or tablet at the start of the pandemic, according to estimates from Ofcom, while more than 880,000 children are living in households with only a mobile internet connection. Among homes with an annual income of less than £13,500, around 18 per cent do not own or have access to a desktop or laptop, according to research from Deloitte.
+
+
+***
+![Looking to learn about Graph Databases while building a cool Streamlit App?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Looking to learn about Graph Databases while building a cool Streamlit App?")
+
+
+[Looking to learn about Graph Databases while building a cool Streamlit App?](https://www.reddit.com/r/programming/comments/ligien/looking_to_learn_about_graph_databases_while/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Reconnecting your application after a Postgres failover (cross post from r/postgresql)](https://external-preview.redd.it/9mEYi-Uwd09Nx3f6FlUebPj6hUitRpzXOti8DS-mzGs.jpg?auto=webp&s=c80b156a0554848e80e5c6fe5a9706f66c785d41 "Reconnecting your application after a Postgres failover (cross post from r/postgresql)")
+
+
+[Reconnecting your application after a Postgres failover (cross post from r/postgresql)](https://www.reddit.com/r/programming/comments/lighgr/reconnecting_your_application_after_a_postgres/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Middle East and North Africa OTT TV and Video Forecasts 2020-2021](https://mms.businesswire.com/media/20210212005457/en/371054/23/ResearchAndMarkets_800px.jpg "Middle East and North Africa OTT TV and Video Forecasts 2020-2021")
+
+
+[Middle East and North Africa OTT TV and Video Forecasts 2020-2021](https://www.businesswire.com/news/home/20210212005457/en/Middle-East-and-North-Africa-OTT-TV-and-Video-Forecasts-2020-2021---ResearchAndMarkets.com)
+
+
+> February 12, 2021 12:53 PM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Middle East and North Africa OTT TV and Video Forecasts 2021" report has been added to ResearchAndMarkets.com's offering. The 20 countries in the Middle East and North Africa region will have 32.65 million SVOD subscriptions by 2026, up from the 14.16 million recorded at end-2020. Turkey will remain the market leader by a considerable distance, with nearly 14 million subscriptions by 2026. Simon Murray, Principal Analyst, said: "Netflix and Disney+ will account for about half of the region's total by 2026, despite Disney+ only starting in 2022 in a limited number of countries.
+
+
