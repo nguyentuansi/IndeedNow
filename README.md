@@ -26057,3 +26057,53 @@
 > February 12, 2021 12:53 PM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Middle East and North Africa OTT TV and Video Forecasts 2021" report has been added to ResearchAndMarkets.com's offering. The 20 countries in the Middle East and North Africa region will have 32.65 million SVOD subscriptions by 2026, up from the 14.16 million recorded at end-2020. Turkey will remain the market leader by a considerable distance, with nearly 14 million subscriptions by 2026. Simon Murray, Principal Analyst, said: "Netflix and Disney+ will account for about half of the region's total by 2026, despite Disney+ only starting in 2022 in a limited number of countries.
 
 
+***
+![Tech gifts for your Valentine](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/1_505_130221121120.jpg "Tech gifts for your Valentine")
+
+
+[Tech gifts for your Valentine](https://www.businesstoday.in/technology/news/tech-gifts-for-your-valentine/story/431144.html)
+
+
+> Chocolates, flowers and soft toys are so passe. How about gifting your Valentine a gadget to make them feel special? Look no further as here is a well-researched list of tech gifts you can buy. For Her Dyson Corrale: Rs 36,900 Girls love to style their hair but running to a salon is not always possible. Having Dyson's Corrale hair straightener is like having a salon at home. It will not just help her with straight, smooth hair but can be used to create textured waves for a tousled look, flowing waves and even voluminous, bouncy curls.
+
+
+***
+![Intel should be ashamed of its Apple silicon attack ads](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2016/02/Intel-logo.jpg "Intel should be ashamed of its Apple silicon attack ads")
+
+
+[Intel should be ashamed of its Apple silicon attack ads](https://www.imore.com/intel-should-be-ashamed-its-apple-silicon-attack-ads)
+
+
+> Source: Intel Apple released its M1 chips into the wild at the end of last year and Intel's nose was immediately pushed out of joint. Speed tests of all kinds have shown that the first-generation Apple silicon bests Intel's chips handily, and the chipmaker isn't happy. So it's gone on the offensive. Not by making better chips – it's still struggling with that. Instead, Intel is running attack ads that are trying to show what the M1 can't do. Whether the arguments are valid, or not. The goings-on of the last couple of days are actually sad to see.
+
+
+***
+![These are the best phones you can get on AT&T](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/samsung-galaxy-s21-ultra-review-3.jpg "These are the best phones you can get on AT&T")
+
+
+[These are the best phones you can get on AT&T](https://www.androidcentral.com/best-att-phones)
+
+
+> Best AT&T Phones Android Central 2021 With so many great options to choose from, it can be hard to pick the best Android phone from AT&T's selection. If you're a little overwhelmed by all of the options and want some help determining which AT&T phone is the right for you — you've come to the right place. Here are some of the best AT&T phones available right now! Staff Pick Need a powerful Android phone that can do it all? Look no further than the Galaxy S21 Ultra. It has a big, brilliant 6.8-inch display, a Snapdragon 888 processor, 5G support, and a 108MP main camera backed by a 100X telephoto and an ultra-wide.
+
+
+***
+![Replica 3 lets you mirror your iPhone and iPad screen to a web browser](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/replica-3-banner.jpg "Replica 3 lets you mirror your iPhone and iPad screen to a web browser")
+
+
+[Replica 3 lets you mirror your iPhone and iPad screen to a web browser](https://www.imore.com/replica-3-lets-you-mirror-your-iphone-and-ipad-screen-web-browser)
+
+
+> Source: Tiago Martinho Popular screencasting app Replica has received a big version 3.0 update that adds a feature that could be pretty great for people who are doing presentations and whatnot. With Replica 3 installed users can cast their screen to a web browser as well as the usual array of streaming sticks and smart TVs. While casting to a web browser might not be something most people need, it does open up possibilities for people to do impromptu presentations almost anywhere, so long as they have a browser and a network connection.
+
+
+***
+![Maryland Approves Country's First Tax on Big Tech's Ad Revenue](https://static01.nyt.com/images/2021/02/11/business/00HFO-bigtechtax/00HFO-bigtechtax-facebookJumbo.jpg "Maryland Approves Country's First Tax on Big Tech's Ad Revenue")
+
+
+[Maryland Approves Country's First Tax on Big Tech's Ad Revenue](https://www.nytimes.com/2021/02/12/technology/maryland-digital-ads-tax.html)
+
+
+> Continue reading the main storyAnalysts estimate that the tax will generate up to $250 million for schools in the state in the first year. It will also probably face fierce legal challenges.Bill Ferguson, president of the Maryland Senate, is the primary champion of a law that will tax tech giants.Credit...Andrew Mangum for The New York TimesFeb. 12, 2021Updated 2:49 p.m. ETState politicians, struggling with yawning budget gaps from the pandemic, have made no secret about their interest in getting a bigger piece of the tech industry's riches.
+
+
