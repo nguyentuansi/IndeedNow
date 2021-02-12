@@ -25863,3 +25863,53 @@
 > TL;DR: Charge all your devices with the Naztech 3-in-1 Hybrid Cable , which is on sale for $18.69. As of Feb. 12, use code PREZ2021 to score a total of 35% off the regular price. You have a ton of devices. Most of those devices need different chargers. Thanks to Naztech, though, you can charge many of them using the same hybrid cable. This cable is made of braided nylon and copper, and is purportedly 10 times stronger than a standard cable. It also supports high-speed charging and data sync and is six feet long, so you can charge from a distance.
 
 
+***
+![Twitter suspends Project Veritas account over privacy violations](https://assets2.rappler.com/2021/02/Screen-Shot-2021-02-12-at-4-1613120416715.58.13-PM.png "Twitter suspends Project Veritas account over privacy violations")
+
+
+[Twitter suspends Project Veritas account over privacy violations](https://www.rappler.com/technology/social-media/twitter-suspends-project-veritas-account-over-privacy-violations)
+
+
+> Twitter Incorporated said on Thursday, February 11, it suspended the account of US conservative activist group Project Veritas for repeated violations of its private information policy, which prohibits sharing, or threatening to share, others' private information without consent. The social media company also temporarily locked the account of the group's founder, James O'Keefe, for violating the same policy, a Twitter spokeswoman said in a statement. Project Veritas said in a public Telegram post that the Tweet that led to the suspension was a video of one of their journalists asking Facebook's VP of integrity Guy Rosen a question about censorship.
+
+
+***
+![Singtel to hire, train 500 over 2 years for 5G, new tech roles](https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/11/st_20210211_lwsingtel_63263012.jpg?itok=YnkCQ_uy "Singtel to hire, train 500 over 2 years for 5G, new tech roles")
+
+
+[Singtel to hire, train 500 over 2 years for 5G, new tech roles](https://www.straitstimes.com/tech/singtel-to-hire-train-500-over-2-years-for-5g-new-tech-roles)
+
+
+> Singtel will hire and train 500 professionals in Singapore over the next two years as part of a collaboration with the Infocomm Media Development Authority (IMDA), the National University of Singapore (NUS) and Singapore Polytechnic (SP). Of these, 150 will fill new 5G roles in areas such as network engineering, digital services and 5G product and platform development. The rest will be trained in other emerging technologies such as the Internet of Things, cloud engineering and data analytics, Singtel said yesterday.
+
+
+***
+![பர்ஸ்ட் டைம் செல்லப்பிராணிகளை வளர்கிறீர்களா? வீட்டை எப்போதும் சுத்தமாக பராமரிக்க சில ஆலோசனைகள்!– News18 Tamil](https://images.news18.com/tamil/uploads/2020/12/dog-pet-6.jpg "பர்ஸ்ட் டைம் செல்லப்பிராணிகளை வளர்கிறீர்களா? வீட்டை எப்போதும் சுத்தமாக பராமரிக்க சில ஆலோசனைகள்!– News18 Tamil")
+
+
+[பர்ஸ்ட் டைம் செல்லப்பிராணிகளை வளர்கிறீர்களா? வீட்டை எப்போதும் சுத்தமாக பராமரிக்க சில ஆலோசனைகள்!– News18 Tamil](https://tamil.news18.com/photogallery/lifestyle/home-interior-the-report-became-pet-parents-recently-here-s-the-perfect-cleaning-regime-for-you-esr-ghta-410117.html)
+
+
+> Home » Photogallery » Home-interior © Copyright Network18 Media and Investments Ltd 2016. All rights reserved. NETWORK 18 SITES
+
+
+***
+![Centre, Twitter India get SC notice on plea seeking mechanism to regulate content spreading hate](https://english.mathrubhumi.com/polopoly_fs/1.5076308.1610610140!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg "Centre, Twitter India get SC notice on plea seeking mechanism to regulate content spreading hate")
+
+
+[Centre, Twitter India get SC notice on plea seeking mechanism to regulate content spreading hate](https://english.mathrubhumi.com/technology/tech-news/centre-twitter-india-get-sc-notice-on-plea-seeking-mechanism-to-regulate-content-spreading-hate-1.5432773)
+
+
+> New Delhi: The Supreme Court on Friday sought responses from the Centre and Twitter India on a plea seeking a mechanism for regulating content and advertisements spreading hatred through fake news and instigative messages via bogus accounts. A bench of Chief Justice SA Bobde and justices AS Bopanna and V Ramasubramanian issued notice to the Centre and Twitter Communication India Pvt Ltd on the plea filed by one Vinit Goenka, which said there are hundreds of fake Twitter handles and bogus Facebook accounts in the name of eminent people and high dignitaries.
+
+
+***
+![China will 'eat our lunch', says Biden; Expert warns against UK variant : News Reel](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/thumb_web_660_120221025505.jpg "China will 'eat our lunch', says Biden; Expert warns against UK variant : News Reel")
+
+
+[China will 'eat our lunch', says Biden; Expert warns against UK variant : News Reel](https://www.businesstoday.in/videos/news-reel/china-will-eat-our-lunch-says-biden-expert-warns-against-uk-variant/431081.html)
+
+
+> BusinessToday.In | February 12, 2021 US President Joe Biden and his Chinese counterpart Xi Jinping held their first phone call as leaders and appeared at odds on most issues. While Xi has called for 'win-win' cooperation, Biden has called China America's 'most serious competitor' and vowed to 'out compete' Beijing; The job market continues to improve sequentially across the country, with job postings getting improved in some industries; The UK coronavirus variant that has wreaked havoc in the country and spread to multiple countries could eventually become the dominant strain, say experts.
+
+
