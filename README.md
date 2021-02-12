@@ -25763,3 +25763,53 @@
 > On 21 September 2019 founder Kunal Sood conceptualized and launched #WeThePlanet as a high-level in-person convening at the United Nations during the 74th UNGA with the President of the UN General Assembly María Fernanda Espinosa Garcés and H.E. Thomas Remengesau Jr., President of Palau to transform our world for a better future. #WeThePlanet is on a mission to make the impossible possible by uniting the youth and the elders, the left and the right to positively impact a billion lives over the next decade.
 
 
+***
+![Twitter to label govt, world leaders' accounts, including Thailand](https://static.bangkokpost.com/media/content/20210212/c1_2067199_700.jpg "Twitter to label govt, world leaders' accounts, including Thailand")
+
+
+[Twitter to label govt, world leaders' accounts, including Thailand](https://www.bangkokpost.com/tech/2067199/twitter-to-label-govt-world-leaders-accounts-including-thailand)
+
+
+> People holding mobile phones are silhouetted against a backdrop showing the Twitter logo. (Photo: Reuters) NEW YORK: Twitter Inc said on Thursday it will next week add labels to identify more state-affiliated accounts, including world leaders' personal accounts, to give users more context for geopolitical conversations on the platform. The move comes as Twitter's approach to prominent figures and government is under scrutiny after the high-profile ban of former US president Donald Trump's account and as political firestorms have raged in Myanmar and India.
+
+
+***
+![Tips for optimal smartphone charging](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/smartphone_charging_120221-seo.jpg "Tips for optimal smartphone charging")
+
+
+[Tips for optimal smartphone charging](https://www.malaymail.com/news/tech-gadgets/2021/02/12/tips-for-optimal-smartphone-charging/1949263)
+
+
+> In general, there's absolutely no need to charge your smartphone battery to 100 per cent each time you recharge. ― Getty Images via ETX Studio Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 12 ― While it's important to use your smartphone battery wisely to help boost its lifespan, it's also worth thinking about how you recharge it, to help prevent damage. Current Lithium-ion batteries theoretically support an average 500 to 1,000 charge cycles before giving up the ghost for good.
+
+
+***
+![Motorola to soon launch rugged smartphones globally](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/bullit_motorola_partnership-483x271_1200_210212133517.jpeg "Motorola to soon launch rugged smartphones globally")
+
+
+[Motorola to soon launch rugged smartphones globally](https://www.indiatoday.in/technology/news/story/motorola-to-soon-launch-rugged-smartphones-globally-1768541-2021-02-12)
+
+
+> The CAT phone maker Bullitt has partnered with Motorola to bring shock and drop-proof devices under the Motorola moniker. Ayush Chourasia | February 12, 2021 | Updated 13:08 IST Bullit Motorola partnership
+
+
+***
+![Realme, The Chainsmokers come together for company's next active noise-cancelling wireless earbuds](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_chainsmokers-483x271_1200_210212133508.jpeg "Realme, The Chainsmokers come together for company's next active noise-cancelling wireless earbuds")
+
+
+[Realme, The Chainsmokers come together for company's next active noise-cancelling wireless earbuds](https://www.indiatoday.in/technology/news/story/realme-the-chainsmokers-come-together-for-company-s-next-active-noise-cancelling-wireless-earbuds-1768550-2021-02-12)
+
+
+> Realme may be working on the 2021 flagship truly wireless earbuds in partnership with the EDM duo The Chainsmokers. Shubham Verma | February 12, 2021 | Updated 13:34 IST Source: Ishan Agarwal/ Twitter
+
+
+***
+!['Eiyuden Chronicle: Hundred Heroes' to be published by 505 Games](https://assets2.rappler.com/2021/02/eiyudenchronicle-1613113959279.jpg "'Eiyuden Chronicle: Hundred Heroes' to be published by 505 Games")
+
+
+['Eiyuden Chronicle: Hundred Heroes' to be published by 505 Games](https://www.rappler.com/technology/gaming/eiyuden-chronicle-hundred-heroes-to-be-published-505-games)
+
+
+> The spiritual successor to the Suikoden games, Eiyuden Chronicle: Hundred Heroes , has found a publisher. 505 Games has come on board, partnering with the Japan-based Rabbit & Bear Studios to publish what became 2020's biggest video game Kickstarter campaign. The publisher made the announcement, Friday, February 12, Philippine time. Eiyuden Chronicle made waves when it was announced in July 2020 as the game will have Yoshitaka Murayama and Junko Kawano, who are among the creators of the Suikoden series, back in the lead again.
+
+
