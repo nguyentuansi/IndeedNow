@@ -26701,3 +26701,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Android phone deals February 2021: Galaxy S21 from $75 and more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/samsung-galaxy-note-20-ultra-review-7.jpg "Android phone deals February 2021: Galaxy S21 from $75 and more")
+
+
+[Android phone deals February 2021: Galaxy S21 from $75 and more](https://www.androidcentral.com/android-phone-deals)
+
+
+> Getting a new phone in your hands doesn't have to be as expensive as you might think. There are always deals out there on Android phones but they tend to come and go rather quickly with other discounts appearing in their place. However, if you're hoping to buy one of the latest devices on the market, finding a proper deal is easier than ever these days. Source: Daniel Bader / Android Central When it comes to buying a new smartphone, there are two main types of deals to consider. You could buy your new phone unlocked so that you own it and can bring it to any carrier where it's compatible, or you can purchase devices through carrier deals at a retailer such as Verizon or T-Mobile.
+
+
+***
+![Presidents Day 2021: All the best deals to shop from the Best Buy Presidents Day sale](https://www.gannett-cdn.com/presto/2021/02/13/USAT/aa7cc57d-9a7f-4312-a717-1130390ab29d-best-buy-background_copy.jpg?crop=1991,1120,x8,y0&width=1600&height=800&fit=bounds "Presidents Day 2021: All the best deals to shop from the Best Buy Presidents Day sale")
+
+
+[Presidents Day 2021: All the best deals to shop from the Best Buy Presidents Day sale](https://www.usatoday.com/story/tech/reviewedcom/2021/02/13/presidents-day-2021-best-deals-best-buy-presidents-day-sale/6736826002/)
+
+
+> These Presidents Day savings are some of the best we've seen.   (Photo: LG/Beats by Dr. Dre) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Take a look around your home. Chances are, there's at least one major appliance that needs upgrading. There's also probably a few you just want  ( air fryer , anyone?). Whatever your kitchen gadget—or tech. Or audio—needs, Best Buy has you covered with its Presidents Day 2021 sale .
+
+
+***
+![Someone Unearthed Something Else Justin Timberlake Needs To Apologize For](https://cdn.digg.com/wp-content/uploads/2021/02/13214647/Screen-Shot-2021-02-13-at-4.46.32-PM.jpg "Someone Unearthed Something Else Justin Timberlake Needs To Apologize For")
+
+
+[Someone Unearthed Something Else Justin Timberlake Needs To Apologize For](https://digg.com/2021/someone-unearthed-something-else-justin-timberlake-needs-to-apologize-for)
+
+
+> The Senate just voted to acquit former President Trump in his second impeachment trial. The vote was 57-43, with seven Republicans joining the Democrats. Senators needed a two-thirds majority to convict Trump. This modern tiny house might make you jealous. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. Now that he's fessed up to his past misdeeds, fans on Twitter found more lighthearted things that the singer should atone for, specifically this bizarre beat-boxing spectacle he put on during a *NSYNC concert in 2000.
+
+
+***
+![Monkey Get Paid for Public Domain Verbal Development (AU3, C, APK, ASM)](https://external-preview.redd.it/mFt27wY4v7jswg29-zwJxlbINGsIM1ibsNfGQ4zzfLI.jpg?auto=webp&s=e6cad405b76b571fd78ab5c587341087cbd87156 "Monkey Get Paid for Public Domain Verbal Development (AU3, C, APK, ASM)")
+
+
+[Monkey Get Paid for Public Domain Verbal Development (AU3, C, APK, ASM)](https://www.reddit.com/r/programming/comments/lja0lj/monkey_get_paid_for_public_domain_verbal/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![The worst of the two worlds: Excel meets Outlook](https://external-preview.redd.it/Lxge6wtQlg3u7eYrBAai_g-hvHVv6GsvmvA3tSDq63Y.jpg?auto=webp&s=56bf313fa435e523279772b4d73194a5a6b3c9b1 "The worst of the two worlds: Excel meets Outlook")
+
+
+[The worst of the two worlds: Excel meets Outlook](https://www.reddit.com/r/programming/comments/lj9ue1/the_worst_of_the_two_worlds_excel_meets_outlook/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
