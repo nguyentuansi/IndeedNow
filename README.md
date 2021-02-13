@@ -26307,3 +26307,50 @@
 > Facebook has discussed making its chief executive, Mark Zuckerberg, available to appear before the House Energy and Commerce Committee, the report added, citing two people. Twitter and its chief, Jack Dorsey, have discussed the same, Politico said, citing one person.https://images.indianexpress.com/2020/08/1x1.png According to the report, the appearance of the Facebook and Twitter CEOs could be contingent on them testifying jointly alongside Sundar Pichai, chief executive of Google and its parent company, Alphabet Inc.
 
 
+***
+![Python Array for Beginners](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Python Array for Beginners")
+
+
+[Python Array for Beginners](https://www.reddit.com/r/Python/comments/liuo6d/python_array_for_beginners_array_examples_in/)
+
+
+> What is an Array? An array is a group or collection of items will memory locations. In short, an array is basically used to store multiple items of the same type. Keep practicing more programs to master the array in python programming. Here we have explained everything in brief about the arrays in python. Also, do not forget to try other built-in methods in your programming. If you face any problem, please let us know in comments we will surely help you out https://rrtutors.com/tutorials/python-
+
+
+***
+[After researchers raised data privacy concerns, Clubhouse says it is taking steps "to prevent Clubhouse clients from ever transmitting pings to Chinese servers" (Stanford Internet Observatory)](http://www.techmeme.com/210213/p2#a210213p2)
+
+
+> Stanford Internet Observatory: After researchers raised data privacy concerns, Clubhouse says it is taking steps “to prevent Clubhouse clients from ever transmitting pings to Chinese servers” — The audio chat app “Clubhouse” went viral among Chinese-speaking audiences. Stanford Internet Observatory examines …
+
+
+***
+![Continuous input help with C#](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Continuous input help with C#")
+
+
+[Continuous input help with C#](https://www.reddit.com/r/programming/comments/liugtd/continuous_input_help_with_c/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![COVID fuelling risk of recruitment and use of children in conflict, UN and EU warn on International Day](http://www.globalsecurity.org/images/temp/one-billion-americans.jpg "COVID fuelling risk of recruitment and use of children in conflict, UN and EU warn on International Day")
+
+
+[COVID fuelling risk of recruitment and use of children in conflict, UN and EU warn on International Day](http://www.globalsecurity.org/military/library/news/2021/02/mil-210212-unnews03.htm)
+
+
+> 12 February 2021 - More children could be pushed into the joining armed forces and armed groups due to the impact of the coronavirus pandemic, senior United Nations and European Union (EU) officials said on International Day against the Use of Child Soldiers, observed on Thursday. In a joint statement EU High Representative Josep Borrell and Special Representative of the UN Secretary-General for Children and Armed Conflict Virginia Gamba also warned that very few among those released by armed forces and groups are able to access reintegration programmes or support.
+
+
+***
+![Statement by Secretary of Defense Lloyd J. Austin III on the Department's Representatives to the Congressionally-Mandated Commission on the Naming of Items in the Department of Defense That Commemorate the Confederate States of America](http://www.globalsecurity.org/images/temp/one-billion-americans.jpg "Statement by Secretary of Defense Lloyd J. Austin III on the Department's Representatives to the Congressionally-Mandated Commission on the Naming of Items in the Department of Defense That Commemorate the Confederate States of America")
+
+
+[Statement by Secretary of Defense Lloyd J. Austin III on the Department's Representatives to the Congressionally-Mandated Commission on the Naming of Items in the Department of Defense That Commemorate the Confederate States of America](http://www.globalsecurity.org/military/library/news/2021/02/mil-210212-dod01.htm)
+
+
+> February 12, 2021 Release I am pleased to announce today the names of four outstanding leaders who have agreed to serve as the Department's representatives to the Congressionally-mandated commission on the naming of items of the Department of Defense that commemorate the Confederate States of America. They are: Admiral Michelle Howard, U.S. Navy, retired General Bob Neller, U.S. Marine Corps, retired Dr. Kori Schake, Director of Foreign & Defense Policy Studies, American Enterprise Institute Brigadier General Ty Seidule, U.
+
+
