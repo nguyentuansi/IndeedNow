@@ -26257,3 +26257,53 @@
 > 为了那些仍在纽约市通勤的'打工人'，大都会运输署（MTA）希望在疫情期间邀请名人给予他们提醒和支持。MTA 邀请了 25 位纽约标志性人物在地铁上播报，提醒乘客正确佩戴口罩，阅读一些公告，播放音乐等等。 据悉这 25 位名人包括脱口秀主持人乌比·戈德堡 (Whoopi Goldberg)、喜剧演员杰罗姆·艾伦 (Jerry Seinfeld)、《大城小妞》 (Broad City)中的伊拉纳·格雷泽（Ilana Glazer）和艾比·雅各布森 (Abbi Jacobson)、《黑道家族 》(The Sopranos)中的艾迪·法柯 (Edie Falco)，说唱歌手卡姆隆 (Cam'ron)和贾达基斯 (Jadakiss)以及弗兰·勒波维茨 (Fran Lebowitz)等等。 责任编辑：study875
 
 
+***
+![Facebook, Twitter CEOs in talks to testify at House hearing as early as March – Politico](https://assets2.rappler.com/2021/02/facebook-twitter-hearing-February-13-2021-1613184600628.jpg "Facebook, Twitter CEOs in talks to testify at House hearing as early as March – Politico")
+
+
+[Facebook, Twitter CEOs in talks to testify at House hearing as early as March – Politico](https://www.rappler.com/technology/social-media/facebook-twitter-ceos-talks-testify-house-hearing)
+
+
+> The chief executives of Facebook and Twitter are in talks with House of Representatives lawmakers to testify at a hearing as early as next month, Politico reported on Friday, February 12, citing people familiar with the plans. The exact focus of the hearing is not yet clear, the report said. Facebook has discussed making its chief executive, Mark Zuckerberg, available to appear before the House Energy and Commerce Committee, the report added, citing two people. Twitter and its chief, Jack Dorsey, have discussed the same, Politico said, citing one person.
+
+
+***
+![US FTC opens probe into Nvidia's acquisition of Arm](https://assets2.rappler.com/2021/02/nvidia-arm-1613187835771.jpg "US FTC opens probe into Nvidia's acquisition of Arm")
+
+
+[US FTC opens probe into Nvidia's acquisition of Arm](https://www.rappler.com/technology/us-ftc-probe-nvidia-acquisition-arm)
+
+
+> The US Federal Trade Commission (FTC) has opened an in-depth probe into Nvidia's agreement to acquire Arm, Bloomberg reported on Friday, February 12, citing a source. The FTC has sent information demands to third parties, according to Bloomberg. The FTC and Nvidia did not respond to requests for comment outside regular working hours. Nvidia struck a deal with Japan's SoftBank Group in September to buy UK-based chip designer Arm Holdings for as much as $40 billion. In addition to the FTC probe, Alphabet, Qualcomm, and Microsoft have complained to US antitrust regulators about the deal, the report added, citing people familiar with the process.
+
+
+***
+![How I bickered and bonded with a Spotify hacker](https://ichef.bbci.co.uk/news/1024/branded_news/0551/production/_116916310_woman2.jpg "How I bickered and bonded with a Spotify hacker")
+
+
+[How I bickered and bonded with a Spotify hacker](https://www.bbc.com/news/technology-56026200)
+
+
+> By Eloise Horsfield Reporter image caption Eloise Horsfield's Spotify account was compromised on 2 February When my Spotify account was hacked during the current lockdown, I communicated with the unwanted visitor using song and podcast titles. I live alone in Bristol and work from home. One morning, when I hadn't seen anyone except the cat for four full days, I received three emails - each informing me of a "new login" to the music-streaming service. The mystery user was apparently in the US. I opened the app on my phone and, sure enough, a song I hadn't selected was playing.
+
+
+***
+![Toxic chemicals found in town's water](https://cdn.newsapi.com.au/image/v1/8171e69c533e2bd94f1d5ae8e33c32cc?width=1280 "Toxic chemicals found in town's water")
+
+
+[Toxic chemicals found in town's water](https://www.news.com.au/technology/environment/toxic-chemicals-above-drinking-standards-detected-near-central-queensland-power-station/news-story/cea0a6f8ce984801e47e443d8bc84a58)
+
+
+> Toxic chemicals have been detected in ground and surface water near a Queensland power station, with some sites well above standard drinking levels.CS Energy, which runs the Callide Power Station at Biloela, south of Rockhampton, announced that toxic PFAS chemicals had been detected at a number of sites near the power station during a voluntary testing program.Test results from some sample locations on Callide Creek were above guideline levels for drinking water and species protection, it said.About 20 landholders live along Callide Creek.
+
+
+***
+![Facebook, Twitter CEOs in talks to testify at House hearing as early as March: Report](https://images.indianexpress.com/2018/04/zuckerberg1-1200.jpg "Facebook, Twitter CEOs in talks to testify at House hearing as early as March: Report")
+
+
+[Facebook, Twitter CEOs in talks to testify at House hearing as early as March: Report](https://indianexpress.com/article/technology/facebook-twitter-ceos-in-talks-to-testify-at-house-hearing-as-early-as-march-report-7186654/)
+
+
+> Facebook has discussed making its chief executive, Mark Zuckerberg, available to appear before the House Energy and Commerce Committee, the report added, citing two people. Twitter and its chief, Jack Dorsey, have discussed the same, Politico said, citing one person.https://images.indianexpress.com/2020/08/1x1.png According to the report, the appearance of the Facebook and Twitter CEOs could be contingent on them testifying jointly alongside Sundar Pichai, chief executive of Google and its parent company, Alphabet Inc.
+
+
