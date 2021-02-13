@@ -26601,3 +26601,53 @@
 > Welcome to episode 18 of the Neowin Podcast, the only bi-weekly podcast that has absolutely never missed a beat since its creation. After returning two weeks ago to talk about fitness tech, episode 18 is focused on one of our favorite hobbies - videogames. On this episode, Rich and João talk about their memories with videogames and their first consoles, as well as some of their favorite experiences with the medium. As you may know, we've been running a poll to decide which is our community's favorite console of all time, and the first round is almost over, so we take a look at the results so far and which ones are our favorites.
 
 
+***
+![These weather apps will help you decide if you should wear your rain boots](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/05/acuweather-minutecast-hero.jpg "These weather apps will help you decide if you should wear your rain boots")
+
+
+[These weather apps will help you decide if you should wear your rain boots](https://www.androidcentral.com/best-weather-apps-android)
+
+
+> Source: Ara Wagoner / Android Central In today's world, we've gotten used to seeing the weather change with little notice — and sometime no notice at all. From flash floods and hurricanes to knowing precisely how ungodly hot it is outside, having a trusty weather app on your side can make all the difference. There are a lot of options to choose from if you're looking for the best weather apps for Android, and we've rounded up some of our favorites here. It's easy to understand why Accuweather is one of the best Android apps after you download it.
+
+
+***
+![How cryptomining Bitcoin is making it harder to find the graphics cards you want](https://cdn.mos.cms.futurecdn.net/tP8QZyK8hWJrs27FyqspLe-1200-80.jpg "How cryptomining Bitcoin is making it harder to find the graphics cards you want")
+
+
+[How cryptomining Bitcoin is making it harder to find the graphics cards you want](https://www.techradar.com/news/how-cryptomining-is-making-it-harder-to-find-the-graphics-cards-you-want)
+
+
+> If you've attempted to buy the new Nvidia RTX 3080 or AMD Radeon RX 6800 XT graphics cards, you've probably noticed that you can't find them anywhere. Retailer after retailer – and even Nvidia and AMD themselves – put new stock up for sale and sell out almost before word even gets around about the restock.While there is no shortage of bots out there buying up all the available units before you even add an aftermarket card to your cart, behind the profiteers are a growing crowd of buyers who have no problem paying the exorbitant markups and buying up cards in bulk: cryptominers.
+
+
+***
+![The best Presidents' Day sales and deals: Home Depot, Best Buy, Walmart, and Lowe's](https://cdn.mos.cms.futurecdn.net/rado6DjMtGbZbGYqNgYMED-1200-80.jpg "The best Presidents' Day sales and deals: Home Depot, Best Buy, Walmart, and Lowe's")
+
+
+[The best Presidents' Day sales and deals: Home Depot, Best Buy, Walmart, and Lowe's](https://www.techradar.com/news/presidents-day-sales-deals-2021)
+
+
+> Presidents' Day sales are live and we're rounding up the best deals that are happening online from retailers such as Home Depot, Best Buy, Lowe's, Walmart, and Amazon, and mattress brands like Nectar, Purple, and Tempur-Pedic. We've also included the top Presidents' Day deals that include everything from mattresses, appliances, and furniture to TVs, laptops, tablets, and so much more. Some highlighted bargains from this year's Presidents' Day sale event includes the powerful XPS 13 on sale for $783.
+
+
+***
+![White House cites 'deep concerns' about WHO COVID report, demands early data from China](https://external-preview.redd.it/zcWcscytZ-E8hPgHT4_HBPtdrcWa-gI7QgymuBkTVm0.jpg?auto=webp&s=02cc91ca0795fb5018fc61ecc89058977aff7f1a "White House cites 'deep concerns' about WHO COVID report, demands early data from China")
+
+
+[White House cites 'deep concerns' about WHO COVID report, demands early data from China](https://www.reddit.com/r/technology/comments/lj541v/white_house_cites_deep_concerns_about_who_covid/)
+
+
+> No body in the article.
+
+
+***
+![Robinhood CEO admits communications shortcomings, ahead of House testimony](https://i-invdn-com.akamaized.net/news/LYNXMPEA8I0M2_L.jpg "Robinhood CEO admits communications shortcomings, ahead of House testimony")
+
+
+[Robinhood CEO admits communications shortcomings, ahead of House testimony](https://www.investing.com/news/technology-news/robinhood-ceo-admits-communications-shortcomings-ahead-of-house-testimony-2418298)
+
+
+> 2/2 © Reuters. FILE PHOTO: Vlad Tenev, co-founder and co-CEO of investing app Robinhood, speaks during the TechCrunch Disrupt event in Brooklyn borough of New York 2/2 By John McCrank NEW YORK (Reuters) - Robinhood, the trading app popular with young investors, could have better explained why it restricted the buying of heavily shorted stocks caught up in the social media-fueled trading frenzy around GameStop Corp (NYSE:), said the company's chief executive officer. "No doubt we could have communicated this a little bit better to customers," CEO Vlad Tenev said late Friday on the All-In Podcast, the hosts of which include Chamath Palihapitiya, who had strongly criticized Robinhood over the trading restrictions, and Jason Calacanis, a Robinhood investor.
+
+
