@@ -26207,3 +26207,53 @@
 > A data leak by a popular webcam app exposed email addresses and user location. Find out if your data has been exposed.
 
 
+***
+![Apple HomeKit vs Google Assistant](https://cdn.mos.cms.futurecdn.net/w9446o9booiDHmcE9z5HgN.jpg "Apple HomeKit vs Google Assistant")
+
+
+[Apple HomeKit vs Google Assistant](https://www.techradar.com/news/apple-homekit-vs-google-assistant)
+
+
+> If you are trying to decide between Google Home or Apple Home for your smart home system, we've researched and compared the two platforms to help you decide which is the best smart home system for your home.See also: What Is A Smart Home?(Image credit: Apple)What is Apple Homekit? Apple Home, also known as Apple Homekit, is Apple's smart home control system that gives you control over your smart thermostat, lights, locks and more with your Apple smartphone. HomeKit is an excellent starting point for Apple fans who are beginning their smart home journey.
+
+
+***
+![Facebook, Twitter CEOs in talks to testify at House hearing as early as March: Politico](https://i-invdn-com.akamaized.net/news/LYNXMPED5D1TW_L.jpg "Facebook, Twitter CEOs in talks to testify at House hearing as early as March: Politico")
+
+
+[Facebook, Twitter CEOs in talks to testify at House hearing as early as March: Politico](https://www.investing.com/news/technology-news/facebook-twitter-ceos-in-talks-to-testify-at-house-hearing-as-early-as-march-politico-2418176)
+
+
+> No body in the article.
+
+
+***
+![Qualcomm latest to object to Nvidia-Arm deal](https://cdn.mos.cms.futurecdn.net/jTeqmUejrz7h7eVnbYkfTS-1200-80.jpg "Qualcomm latest to object to Nvidia-Arm deal")
+
+
+[Qualcomm latest to object to Nvidia-Arm deal](https://www.techradar.com/news/qualcomm-latest-to-object-to-nvidia-arm-deal)
+
+
+> (Image credit: Jejim / Shutterstock) Nvidia's $40bn proposed acquisition of the UK-based chip designer Arm has already come under scrutiny from regulators and now US chipmaker Qualcomm has weighed in on the deal.The company is against the acquisition and it recently voiced its concerns to the US Federal Trade Commission, the European Commission, the UK's Competition and Markets Authority and China's State Administration for Market Regulation. However, the Competition and Markets Authority as well as the European Commission have both already launched investigations into the matter.
+
+
+***
+![Amazon Alexa Vs. Google Home](https://cdn.mos.cms.futurecdn.net/wXndqHT3RCcMA25Tm5T6Se-1200-80.png "Amazon Alexa Vs. Google Home")
+
+
+[Amazon Alexa Vs. Google Home](https://www.techradar.com/news/amazon-alexa-vs-google-home)
+
+
+> Of all the entry-level smart home devices on the market, making the decision between Amazon Alexa and Google Home can be a tough one. Both systems have evolved considerably over the past few years and more devices are compatible with the voice recognition assistants. We took a hard look at the pros, cons and differences between the two smart home heavyweights in the top three use cases namely Smart Home compatibility, Voice Recognition and Apps/Skills to help you decide which is the best smart home system for your home.
+
+
+***
+![MTA邀请25位名人用声音陪伴纽约通勤者 提醒他们佩戴口罩](https://static.cnbetacdn.com/thumb/article/2021/0213/ff23aeb448fbadf.jpg "MTA邀请25位名人用声音陪伴纽约通勤者 提醒他们佩戴口罩")
+
+
+[MTA邀请25位名人用声音陪伴纽约通勤者 提醒他们佩戴口罩](http://www.cnbeta.com/articles/tech/1090131.htm)
+
+
+> 为了那些仍在纽约市通勤的'打工人'，大都会运输署（MTA）希望在疫情期间邀请名人给予他们提醒和支持。MTA 邀请了 25 位纽约标志性人物在地铁上播报，提醒乘客正确佩戴口罩，阅读一些公告，播放音乐等等。 据悉这 25 位名人包括脱口秀主持人乌比·戈德堡 (Whoopi Goldberg)、喜剧演员杰罗姆·艾伦 (Jerry Seinfeld)、《大城小妞》 (Broad City)中的伊拉纳·格雷泽（Ilana Glazer）和艾比·雅各布森 (Abbi Jacobson)、《黑道家族 》(The Sopranos)中的艾迪·法柯 (Edie Falco)，说唱歌手卡姆隆 (Cam'ron)和贾达基斯 (Jadakiss)以及弗兰·勒波维茨 (Fran Lebowitz)等等。 责任编辑：study875
+
+
