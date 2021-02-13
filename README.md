@@ -26651,3 +26651,53 @@
 > 2/2 © Reuters. FILE PHOTO: Vlad Tenev, co-founder and co-CEO of investing app Robinhood, speaks during the TechCrunch Disrupt event in Brooklyn borough of New York 2/2 By John McCrank NEW YORK (Reuters) - Robinhood, the trading app popular with young investors, could have better explained why it restricted the buying of heavily shorted stocks caught up in the social media-fueled trading frenzy around GameStop Corp (NYSE:), said the company's chief executive officer. "No doubt we could have communicated this a little bit better to customers," CEO Vlad Tenev said late Friday on the All-In Podcast, the hosts of which include Chamath Palihapitiya, who had strongly criticized Robinhood over the trading restrictions, and Jason Calacanis, a Robinhood investor.
 
 
+***
+![ERA: Survival RPG Review](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/ERA%20Survival%20Header.jpg?itok=6vX96en- "ERA: Survival RPG Review")
+
+
+[ERA: Survival RPG Review](https://techraptor.net/tabletop/reviews/era-survival-tabletop-rpg-review)
+
+
+> Published: Saturday, February 13, 2021 - 12:00 | By: Giaco Furino Home Tabletop Tabletop Reviews ERA: Survival RPG Review Realistic, Gritty, And Accessible Growing up on Gaia, you've seen some pretty nasty stuff. Death, Infection, Pain, Loss. But for the first time in your life you feel like you might really be in the deep end. You're almost out of bullets, your gas mask's filter is just about spent, and you think you and your crew may have wandered into a Hi-Zone. Something groans and shambles from the back of the facility you're raiding.
+
+
+***
+![These are the best wireless earbuds you can buy at every price](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/02/best-wirelessearbuds-hero.jpg "These are the best wireless earbuds you can buy at every price")
+
+
+[These are the best wireless earbuds you can buy at every price](https://www.androidcentral.com/best-wireless-earbuds)
+
+
+> The best wireless earbuds are comfortable, sound great, and have long-lasting battery life. These tiny headphones from companies like Jabra, Samsung, Sennheiser, Sony and others are almost as important as the phones we have in our pockets, and the market has become crowded over the years with options. We've reviewed a sizeable number of models available, and rated the absolute leaders of the pack, helping you find the best fit and value for your ears and budget. Our buyer's guide will help you navigate this space and find the pair that suits your needs and tastes the best, no matter what you like listening to.
+
+
+***
+![Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://external-preview.redd.it/EzP1uvGlnP8swT2BlQLnMSJqFF5Sm-TY8yAITE1WX4U.jpg?auto=webp&s=be65beebcd16f0d1c8fce7774e3c19998b06ae94 "Ziglings: Learn the Zig programming language by fixing tiny broken programs")
+
+
+[Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://www.reddit.com/r/programming/comments/lj7t10/ziglings_learn_the_zig_programming_language_by/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat(2016)](https://media.npr.org/assets/img/2016/09/13/sugar_wide-c334d683622a1f40a8f97f8acc8199a44f233e68.jpg?s=1400 "50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat(2016)")
+
+
+[50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat(2016)](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
+
+
+> A newly discovered cache of internal documents reveals that the sugar industry downplayed the risks of sugar in the 1960s. Luis Ascui/Getty Images In the 1960s, the sugar industry funded research that downplayed the risks of sugar and highlighted the hazards of fat, according to a newly published article in JAMA Internal Medicine. The article draws on internal documents to show that an industry group called the Sugar Research Foundation wanted to "refute" concerns about sugar's possible role in heart disease.
+
+
+***
+![Looking for a buddy! Mentor! Tutor? (c# .Net)](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Looking for a buddy! Mentor! Tutor? (c# .Net)")
+
+
+[Looking for a buddy! Mentor! Tutor? (c# .Net)](https://www.reddit.com/r/programming/comments/lj7qza/looking_for_a_buddy_mentor_tutor_c_net/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
