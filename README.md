@@ -26504,3 +26504,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Should you buy the Fossil Gen 5 LTE or the Galaxy Watch Active 2 LTE?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/09/galaxy-watch-active-2-silver-with-green-band-7.jpg "Should you buy the Fossil Gen 5 LTE or the Galaxy Watch Active 2 LTE?")
+
+
+[Should you buy the Fossil Gen 5 LTE or the Galaxy Watch Active 2 LTE?](https://www.androidcentral.com/fossil-gen-5-lte-vs-samsung-galaxy-watch-active-2-lte)
+
+
+> If you want a smartwatch with LTE connectivity that can also help you keep track of your health and fitness stats, the Galaxy Watch Active 2 LTE is for you. It's bursting at the seams with features, including, GPS, heart-rate monitoring, automatic workout recognition, ECG, blood pressure monitoring, and more. $297 at Amazon GPS, HRM, NFC Detailed health/fitness tracking Two sizes, three colors Military-grade durability ECG sensor Older model Battery drains faster with LTE Existing Wear OS users, or those who want a more general lifestyle watch, might be more inclined to check out the Fossil Gen 5 LTE.
+
+
+***
+![Massive Nintendo Switch deals offer discounts on games and accessories in Presidents' Day sales](https://cdn.mos.cms.futurecdn.net/Kkuf3tWxkWvrvYHzFtwrLi-1200-80.jpg "Massive Nintendo Switch deals offer discounts on games and accessories in Presidents' Day sales")
+
+
+[Massive Nintendo Switch deals offer discounts on games and accessories in Presidents' Day sales](https://www.techradar.com/news/massive-nintendo-switch-deals-offer-discounts-on-games-and-accessories-in-presidents-day-sales)
+
+
+> (Image credit: Future) Nintendo Switch deals have been difficult to come by over the last few months. As stock shortages on the main console continue, it's in the games and accessories that you'll find most of this weekend's Presidents Day sales. However, you'll find a massive range of Nintendo Switch deals available right now, with savings on everything from controllers to games, and even discounts on premium accessories. Best Buy is taking $10 off a massive range of Nintendo Switch games in its Presidents' Day sale.
+
+
+***
+![Logic board in a 21.5" Imac late 2012](https://images.macrumors.com/social/?t=2284533&v=6 "Logic board in a 21.5" Imac late 2012")
+
+
+[Logic board in a 21.5" Imac late 2012](https://forums.macrumors.com/threads/logic-board-in-a-21-5-imac-late-2012.2284533/)
+
+
+> Hi all, new here so I wonder if anyone can help? I have a 21.5" late 2012 imac, 2.5ghz 8gb model, A1418. The USB slots have all fried and don't work, except for one that just provides power. I use a blutooth key board and mouse, so I can still use the system. Anyhow, I obvs need a new logic/motherboard, and I was wondering if I could put a late 2013 A1418 i7 3.1ghz Haswell logic board in to replace my damaged 2012? Is is compatible? I have looked at photos of the 2012 and 2013 boards, and they have same form factor (as do the chassis) and screw mount positions.
+
+
+***
+[PS5 stock updates LIVE – Argos to restock PS5 ‘next week' with UK drop rumours at Smyths, GAME, Amazon and Very](https://www.thesun.ie/tech/6554731/ps5-stock-updates-live-smyths-restock-argos-currys-game/)
+
+
+> GAMERS may be able to get their hands on a PS5 console as early as “next week”, a tipster has revealed. The coveted console could be available at Argos from Tuesday to Thursday next week following a leak that they had arrived to their warehouses on Friday. Since its launch last November, millions of gamers […]
+
+
+***
+![The eco-friendly search engine that wants to kill Google with kindness](https://cdn.mos.cms.futurecdn.net/7NWo6vwb3wedCyEJThSNwH-1200-80.jpg "The eco-friendly search engine that wants to kill Google with kindness")
+
+
+[The eco-friendly search engine that wants to kill Google with kindness](https://www.techradar.com/news/the-eco-friendly-search-engine-that-wants-to-kill-google-with-kindness)
+
+
+> For a man that once dreamed of making a name for himself on Wall Street, Christian Kroll cares very little about maximizing profit. In fact, since founding search engine Ecosia in 2009, he has dedicated himself to building a business that defies the tenets of modern capitalism.Ecosia is a non-profit organization that funnels any revenue that isn't needed to cover its overheads, tax and marketing efforts towards tree planting initiatives. The company is founded on green principles and its infrastructure is powered by massive solar farms, which produce an excess that actively removes dirty energy from the grid.
+
+
