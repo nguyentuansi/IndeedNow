@@ -26454,3 +26454,53 @@
 > Whether you lost your AirPods (sorry) or are looking for something a little different, Presidents Day is the perfect time to buy a new set of wireless earbuds . Why? Because we've got deals on 21 different pairs that won't break the bank. From well-known buds from brands like Motorola and Naztech to lesser-known gems, there's a pair for every style and budget on this list. Just remember to use the code PREZ2021 at checkout to score the best possible price for a limited time. Under $50 HyperSonic Lite True Wireless Earphones Get these true wireless headphones for just $42.
 
 
+***
+![India slow at vaccinations; Nadella on laws for social media : News Reel](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/thumb_web_660_130221042522.jpg "India slow at vaccinations; Nadella on laws for social media : News Reel")
+
+
+[India slow at vaccinations; Nadella on laws for social media : News Reel](https://www.businesstoday.in/videos/news-reel/india-slow-at-vaccinations-nadella-on-laws-for-social-media/431185.html)
+
+
+> BusinessToday.In | February 13, 2021 Indian health workers have managed to vaccinate only 7.5 million frontline workers on priority, a rate at which it would take country several years to reach its goal of vaccinating 300 million people by August; India's retail inflation stayed within the central bank's target range for the second consecutive month as it fell to a 16-month low in January; Microsoft's Chief Executive Officer Satya Nadella has called for a well-defined framework of laws and norms to govern free speech on social-media services like Facebook, Twitter and YouTube.
+
+
+***
+![Moto E7 Power appears on Geekbench ahead of launch](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-11_at_4_1200_210213150509.35._1-483x271.png "Moto E7 Power appears on Geekbench ahead of launch")
+
+
+[Moto E7 Power appears on Geekbench ahead of launch](https://www.indiatoday.in/technology/news/story/moto-e7-power-appears-on-geekbench-ahead-of-launch-1768919-2021-02-13)
+
+
+> The company has been rumored to launch the Moto E7 Power in India and now the smartphone has also appeared on Geekbench. Ankita Chakravarti | February 13, 2021 | Updated 14:55 IST
+
+
+***
+![Twitter CEO Jack Dorsey, Jay-Z collaborate for bitcoin endowment](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-13_at_2_1200_210213143541.00.-483x271.png "Twitter CEO Jack Dorsey, Jay-Z collaborate for bitcoin endowment")
+
+
+[Twitter CEO Jack Dorsey, Jay-Z collaborate for bitcoin endowment](https://www.indiatoday.in/technology/news/story/-twitter-ceo-jack-dorsey-jay-z-collaborate-for-bitcoin-endowment-1768905-2021-02-13)
+
+
+> Dorsey took to Twitter to announced that he and Jay are giving 500 BTC ( approximately $23.7 million) to a new endowment to fund Bitcoin development. Ankita Chakravarti | February 13, 2021 | Updated 14:22 IST
+
+
+***
+![Samsung ਦਾ ਇਹ ਸਮਾਰਟਫ਼ੋਨ ਹੋਇਆ 9 ਹਜ਼ਾਰ ਰੁਪਏ ਸਸਤਾ, ਜਾਣੋ ਖ਼ਾਸੀਅਤ](https://static.jagbani.com/multimedia/2021_2image_13_50_097247134ysamsung3-ll.jpg "Samsung ਦਾ ਇਹ ਸਮਾਰਟਫ਼ੋਨ ਹੋਇਆ 9 ਹਜ਼ਾਰ ਰੁਪਏ ਸਸਤਾ, ਜਾਣੋ ਖ਼ਾਸੀਅਤ")
+
+
+[Samsung ਦਾ ਇਹ ਸਮਾਰਟਫ਼ੋਨ ਹੋਇਆ 9 ਹਜ਼ਾਰ ਰੁਪਏ ਸਸਤਾ, ਜਾਣੋ ਖ਼ਾਸੀਅਤ](https://jagbani.punjabkesari.in/gadgets/news/samsung-s-premium-smartphone-galaxy-s20-fan-edition-gets-rs-9-000-cheaper-1268555)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![Easiest Programming Languages to Learn](https://external-preview.redd.it/pTAVXZ-siPHry8H7uUn8qiKJrqjEbkvMGWMmnwDnInI.jpg?auto=webp&s=1b8a6db3d2ec99c4332db3d965e3b313c5195011 "Easiest Programming Languages to Learn")
+
+
+[Easiest Programming Languages to Learn](https://www.reddit.com/r/programming/comments/lizaya/easiest_programming_languages_to_learn/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
