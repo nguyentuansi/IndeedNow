@@ -26157,3 +26157,53 @@
 > Facebook will "significantly reduce" content from accounts linked to the Burmese military as the Southeast Asian nation grapples with a military coup. Ticker Security Last Change Change % FB FACEBOOK INC. 270.50 +0.11 +0.04% The social media platform said in a Thursday blog post that it has put "several measures in place to support our community in Myanmar," or Burma, such as "the decision to significantly reduce the distribution of all content on Facebook Pages and profiles run by the Myanmar Military ('Tatmadaw') that have continued to spread misinformation.
 
 
+***
+![Bumble CEO's net worth nears $2 billion as stock rallies post debut](https://assets2.rappler.com/2021/02/reuters-20210213-whitney-wolfe-herd-bumble-2021-02-11T110637Z_1703426601_RC2BQL9FXI00_RTRMADP_3_BUMBLE-IPO-1613172431706.jpg "Bumble CEO's net worth nears $2 billion as stock rallies post debut")
+
+
+[Bumble CEO's net worth nears $2 billion as stock rallies post debut](https://www.rappler.com/technology/bumble-stock-rallies-post-debut)
+
+
+> Bumble Chief Executive Officer Whitney Wolfe Herd's stake in the women-centric dating app operator was worth nearly $2 billion, as shares rallied for a second straight day after a blockbuster debut on Thursday, February 11. Bumble, backed by Blackstone Group Inc, was valued at $15.69 billion on Friday, with its stock price nearly doubling from the initial public offering price of $43 per share, underscoring investor's insatiable appetite for tech shares in a buoyant US equities market. Wolfe Herd owns 21.
+
+
+***
+![Google's $76-million deal with French publishers leaves many outlets infuriated](https://assets2.rappler.com/2021/02/reuters-20210213-france-news-outlets-2021-02-12T180048Z_28589986_RC26RL9DL3KT_RTRMADP_3_GOOGLE-FRANCE-COPYRIGHT-1613173893161.jpg "Google's $76-million deal with French publishers leaves many outlets infuriated")
+
+
+[Google's $76-million deal with French publishers leaves many outlets infuriated](https://www.rappler.com/technology/google-deal-with-french-publishers-leaves-many-outlets-infuriated)
+
+
+> Alphabet's Google has agreed to pay $76 million over 3 years to a group of 121 French news publishers to end a more than year-long copyright spat, documents seen by Reuters show. The move infuriated many other French outlets, which deemed it unfair and opaque. Publishers in other countries will scrutinize the French agreement, the highest-profile in the world under Google's new program to provide compensation for news snippets used in search results. Agence France-Presse (AFP) and other French news providers that do not belong to the group are not part of the agreement and are pressing forward with various actions against Google.
+
+
+***
+![Technology helping Regina community stay connected for Lunar New Year](https://globalnews.ca/wp-content/uploads/2021/02/chinese-new-pic.jpg?quality=85&strip=all&w=720&h=379&crop=1 "Technology helping Regina community stay connected for Lunar New Year")
+
+
+[Technology helping Regina community stay connected for Lunar New Year](https://globalnews.ca/news/7638599/technology-lunar-new-year-regina/)
+
+
+> Typically, the Regina Chinese Canadian Association (RCCA) would be preparing dishes and performances for a banquet to celebrate the Lunar New Year.Ideally, Feb. 12 would have seen traditional food and dances help ring in the Year of the Ox.RCCA public relations director Shelly Zhao said with the ongoing COVID-19 pandemic, the association won't be able to have the same kind of event.Zhao said that technology is helping community members stay connected.'Technology really (does) play a very important role during this pandemic so people still connected,' Zhao said.
+
+
+***
+![Saturday Daily Thread: Resource Request and Sharing!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Saturday Daily Thread: Resource Request and Sharing!")
+
+
+[Saturday Daily Thread: Resource Request and Sharing!](https://www.reddit.com/r/Python/comments/liocry/saturday_daily_thread_resource_request_and_sharing/)
+
+
+> Found a neat resource related to Python over the past week? Looking for a resource to explain a certain topic? Use this thread to chat about and share Python resources!
+
+
+***
+![Webcam videos leaked after accounts left exposed online](https://www.komando.com/wp-content/uploads/2021/02/data-leak-970x546.jpg "Webcam videos leaked after accounts left exposed online")
+
+
+[Webcam videos leaked after accounts left exposed online](https://www.komando.com/security-privacy/webcam-videos-leaked/778409/)
+
+
+> A data leak by a popular webcam app exposed email addresses and user location. Find out if your data has been exposed.
+
+
