@@ -26354,3 +26354,53 @@
 > February 12, 2021 Release I am pleased to announce today the names of four outstanding leaders who have agreed to serve as the Department's representatives to the Congressionally-mandated commission on the naming of items of the Department of Defense that commemorate the Confederate States of America. They are: Admiral Michelle Howard, U.S. Navy, retired General Bob Neller, U.S. Marine Corps, retired Dr. Kori Schake, Director of Foreign & Defense Policy Studies, American Enterprise Institute Brigadier General Ty Seidule, U.
 
 
+***
+![Can't charge MacBook Pro beyond 1pc? Apple is offering free battery replacements for select models](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/apple-macbook-pro-16_130221-seo.jpg "Can't charge MacBook Pro beyond 1pc? Apple is offering free battery replacements for select models")
+
+
+[Can't charge MacBook Pro beyond 1pc? Apple is offering free battery replacements for select models](https://www.soyacincau.com/2021/02/12/apple-macbook-pro-2016-2017-free-battery-cannot-charge/)
+
+
+> It was reported that that Apple is offering free battery replacements if your MacBook Pro still couldn't charge more than 1 per cent. ― SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Feb 13 ― It was recently reported that some MacBook Pro 2016 and 2017 users were facing a problem which prevents them from charging their laptops. To solve the issue, Apple has released its macOS BigSur 11.2.1 update which addresses a variety of issues related to external displays, iCloud, ProRAW photos, Bluetooth as well as the charging.
+
+
+***
+![Facebook building smartwatch with health features: The Information](https://imagevars.gulfnews.com/2020/07/04/OPN_Facebook_173193fc428_medium.jpg "Facebook building smartwatch with health features: The Information")
+
+
+[Facebook building smartwatch with health features: The Information](https://gulfnews.com/technology/consumer-electronics/facebook-building-smartwatch-with-health-features-the-information-1.1613191284212)
+
+
+> The social media giant plans to start selling the device next year Published:  February 13, 2021 08:40 Reuters Image Credit: Reuters Facebook Inc is building a smartwatch that will let users send messages and also offer health and fitness features, The Information reported on Friday, citing people with direct knowledge of the device. The social media giant plans to start selling the device next year, according to the report, a move that would mark its entry into a market currently dominated by Apple Inc and Huawei.
+
+
+***
+![Tech fuels rally as stocks wrap up choppy week](https://wehco.media.clients.ellingtoncms.com/img/photos/2021/02/13/resized_150246-2d1stocks0213_34-32172_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676 "Tech fuels rally as stocks wrap up choppy week")
+
+
+[Tech fuels rally as stocks wrap up choppy week](https://www.nwaonline.com/news/2021/feb/13/tech-fuels-rally-as-stocks-wrap-up-choppy-week/)
+
+
+> Technology companies led a late-afternoon rally on Wall Street on Friday that capped a week of wobbly trading with the major stock indexes hitting all-time highs. The S&P 500 rose 0.5% after spending most of the day wavering between small gains and losses. The gain nudged the benchmark index to a record high for the second day in a row. The tech-heavy Nasdaq composite and the Dow Jones Industrial Average also set new highs. More companies reported solid earnings, including manufacturer Mohawk Industries and genetic testing company Illumina.
+
+
+***
+![Microsoft wants to give cricket a major digital upgrade](https://cdn.mos.cms.futurecdn.net/aWCzMYCcKQuPPZ48bN6oJ7-1200-80.jpg "Microsoft wants to give cricket a major digital upgrade")
+
+
+[Microsoft wants to give cricket a major digital upgrade](https://www.techradar.com/news/microsoft-wants-to-give-cricket-a-digital-upgrade)
+
+
+> (Image credit: Shutterstock.com / Rawpixel.com) Microsoft is looking to bring big changes to English cricket as the sport looks to inspire a new generation of players.Typically seen as a paragon of tradition, with its stereotypes of genteel village surroundings, crisp whites and afternoon tea, the ECB, the governing body of cricket in England and Wales is now looking to Microsoft to help encourage a digital revolution.The two organisations have signed a wide-ranging deal that the ECB, which oversees more than 2.
+
+
+***
+![Week of rain to batter east coast](https://content.api.news/v3/images/bin/c70928c4c16a643c16d22436ead06719 "Week of rain to batter east coast")
+
+
+[Week of rain to batter east coast](https://www.news.com.au/technology/environment/australias-east-coast-braces-for-up-to-100mm-dumping-over-next-week/news-story/2327ce63ced84e7a73c7a72c168d0962)
+
+
+> Parts of Australia's east coast are forecast to be drenched over the next week with rainfalls of up to 100mm fall in parts of the country.Heavy rainfalls are forecast to batter the east Australian coast over next week, with some regions expected to receive drenchings of up to 150mm.Major capital cities are set to cop a drenching from Sunday, with the majority concentrated around Queensland's south coast and northern NSW.Parts of the state have already received a drenching at the weekend, with a rain front pushing up into Australia's north.
+
+
