@@ -26551,3 +26551,53 @@
 > For a man that once dreamed of making a name for himself on Wall Street, Christian Kroll cares very little about maximizing profit. In fact, since founding search engine Ecosia in 2009, he has dedicated himself to building a business that defies the tenets of modern capitalism.Ecosia is a non-profit organization that funnels any revenue that isn't needed to cover its overheads, tax and marketing efforts towards tree planting initiatives. The company is founded on green principles and its infrastructure is powered by massive solar farms, which produce an excess that actively removes dirty energy from the grid.
 
 
+***
+![Quick tech fix: Stop annoying notifications for good](https://static.foxnews.com/foxnews.com/content/uploads/2019/11/Instagram-Likes-iStock.jpg "Quick tech fix: Stop annoying notifications for good")
+
+
+[Quick tech fix: Stop annoying notifications for good](https://www.foxnews.com/tech/quick-tech-fix-stop-annoying-notifications-for-good)
+
+
+> Remember the days before our gadgets were buzzing and beeping at us all day long? Yeah, me neither. Maybe your issue is email. If your inbox is a mess, give yourself the gift of clearing it out. No, you don't have to go through email by email. Tap or click for steps on archiving your inbox. Or perhaps your phone is full of apps that won't leave you alone. I'm willing to bet you've got quite a few you haven't opened in months. Your best bet is to do a quick audit of all your downloads now and then.
+
+
+***
+![Clubhouse says reviewing data protection practices after report points to flaws](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/Clubhouse_13022021-seo.JPG "Clubhouse says reviewing data protection practices after report points to flaws")
+
+
+[Clubhouse says reviewing data protection practices after report points to flaws](https://www.malaymail.com/news/tech-gadgets/2021/02/13/clubhouse-says-reviewing-data-protection-practices-after-report-points-to-f/1949523)
+
+
+> The social audio app Clubhouse is pictured near a star on the Chinese flag in this illustration picture taken February 8, 2021.— Reuters pic Subscribe to our Telegram channel for the latest updates on news you need to know. SHANGHAI, Feb 13 — US audio app Clubhouse said it is reviewing its data protection practices, after a report by the Stanford Internet Observatory said it contained security flaws that left users' data vulnerable to access by the Chinese government. The app said in a response to the study, published by the research group at Stanford University, that while it had opted not to make the app available in China, some people had found a workaround to download the app which meant the conversations they were a part of could be transmitted via Chinese servers.
+
+
+***
+![Presidents Day 2021: The Dyson V11 Torque Drive cordless vacuum is $100 off right now](https://www.gannett-cdn.com/-mm-/925c90cac2950828bbb61819371c14292ee6081b/c=0-0-792-446/local/-/media/2021/01/13/USATODAY/usatsports/Dyson-V11-Torque-Drive-Hero.jpg?width=1600&height=800&fit=crop "Presidents Day 2021: The Dyson V11 Torque Drive cordless vacuum is $100 off right now")
+
+
+[Presidents Day 2021: The Dyson V11 Torque Drive cordless vacuum is $100 off right now](https://www.usatoday.com/story/tech/reviewedcom/2021/02/13/dyson-v-11-torque-drive-get-best-cordless-vacuum-ever-100-off/4472925001/)
+
+
+> It's hard to go wrong with a Dyson, but the V11 is a cut above the rest.   (Photo: Reviewed / Jackson Ruckar) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Big holidays, like Presidents Day 2021 , are the perfect time to purchase items that are normally way too expensive. A great example? A Dyson vacuum. When it comes to raw power, Dyson cordless vacuums are basically peerless—and their price tends to reflect that.
+
+
+***
+![Privacy tip: How to delete cookies from your phone](https://static.foxnews.com/foxnews.com/content/uploads/2018/12/Cyber.png "Privacy tip: How to delete cookies from your phone")
+
+
+[Privacy tip: How to delete cookies from your phone](https://www.foxnews.com/tech/privacy-tip-how-to-delete-cookies-from-your-phone)
+
+
+> Make no mistake: You're being tracked. Want to be shocked? Take a look at the secret map in your smartphone that watches your every move. Tap or click here to see the map tracking you and wipe it clean What about advertisements that follow you across the web? Facebook is one of the biggest data hogs. Tap or click for ways to stop or limit targeted ads on Facebook. And then there are cookies, small bits of data that track your activity online. They're not just lurking in your computer. On your smartphone, cookies save your passwords and help you log on more quickly, but they can also collect a lot more than you want.
+
+
+***
+![Neowin Podcast Episode 18: Let's talk about videogames](https://cdn.neow.in/news/images/uploaded/2021/02/1613162920_neowin_podcast_episode_18_story.jpg "Neowin Podcast Episode 18: Let's talk about videogames")
+
+
+[Neowin Podcast Episode 18: Let's talk about videogames](https://www.neowin.net/news/neowin-podcast-episode-18-lets-talk-about-videogames/)
+
+
+> Welcome to episode 18 of the Neowin Podcast, the only bi-weekly podcast that has absolutely never missed a beat since its creation. After returning two weeks ago to talk about fitness tech, episode 18 is focused on one of our favorite hobbies - videogames. On this episode, Rich and João talk about their memories with videogames and their first consoles, as well as some of their favorite experiences with the medium. As you may know, we've been running a poll to decide which is our community's favorite console of all time, and the first round is almost over, so we take a look at the results so far and which ones are our favorites.
+
+
