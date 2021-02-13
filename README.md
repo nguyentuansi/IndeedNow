@@ -26404,3 +26404,53 @@
 > Parts of Australia's east coast are forecast to be drenched over the next week with rainfalls of up to 100mm fall in parts of the country.Heavy rainfalls are forecast to batter the east Australian coast over next week, with some regions expected to receive drenchings of up to 150mm.Major capital cities are set to cop a drenching from Sunday, with the majority concentrated around Queensland's south coast and northern NSW.Parts of the state have already received a drenching at the weekend, with a rain front pushing up into Australia's north.
 
 
+***
+![Build the video game of your dreams with this Unity training bundle](https://mondrian.mashable.com/2021%252F02%252F13%252F5b%252Ffa4f07123f784c909a46d7d5f0220349.d2e2e.jpg%252F1200x630.jpg?signature=jm6Bp0AjCGpTZ36KLLRMzPe8Ibo= "Build the video game of your dreams with this Unity training bundle")
+
+
+[Build the video game of your dreams with this Unity training bundle](https://mashable.com/shopping/feb-13-the-2021-premium-unity-game-developer-certification-bundle/)
+
+
+> TL;DR: Get in on the video game creation process with the 2021 Premium Unity Game Developer Certification Bundle . As of Feb. 13, get it for $44.99 — a 98% savings. Last year might've sucked big time, but it was actually a great year for gaming. A couple shiny new consoles came out, as well as a treasure trove of new games. Major studios had some big releases — like Nintendo's Animal Crossing: New Horizons and Square Enix's FFVII Remake — but the biggest standouts of the year were the indie gems.
+
+
+***
+![Prevent your laptop from overheating with a cooling pad on sale](https://mondrian.mashable.com/2021%252F02%252F13%252Fd7%252Fe056c5d0149e4426b67979eb8c55314d.13331.jpg%252F1200x630.jpg?signature=6JgMlGnZwO4jne7xCiHCoLIiSYc= "Prevent your laptop from overheating with a cooling pad on sale")
+
+
+[Prevent your laptop from overheating with a cooling pad on sale](https://mashable.com/shopping/feb-13-havit-laptop-cooling-pad/)
+
+
+> TL;DR: As of Feb. 13, use code PREZ2021 at checkout to save 24% and get a HAVIT Laptop cooling pad for only $28. If you're worried about your laptop overheating, this cooling pad designed by Havit should be on your radar. In addition to its three large fans, the pad offers an ergonomic design with an incline, making it ideal for all-day typing. It also has LED indicators showing the status of the cooler, which also serve as an additional light source. All you have to do is place your laptop on the pad, connect them using the USB cable, and press the button.
+
+
+***
+![Get closer to becoming a certified CompTIA pro with 16 courses on sale for $69](https://mondrian.mashable.com/2021%252F02%252F13%252Fc5%252F5c57ccdfbee84e2dbdf8f55aafeb40e5.c05df.jpg%252F1200x630.jpg?signature=N23LHZAlm-ZdHeD_t4jv9-hZkNQ= "Get closer to becoming a certified CompTIA pro with 16 courses on sale for $69")
+
+
+[Get closer to becoming a certified CompTIA pro with 16 courses on sale for $69](https://mashable.com/shopping/feb-13-the-2021-complete-comptia-certification-prep-super-bundle/)
+
+
+> TL;DR: Get qualified for a career in the tech industry with the 2021 Complete CompTIA Certification Prep Super Bundle . As of Feb. 13, get access to the 16-course bundle for $69 — a 98% savings.  It's no secret that money lies in the tech industry . What's a bit vaguer is how to get there and make that career possible. Contrary to popular belief, you don't have to go back to school to get the basics. You can save time and thousands of dollars in the process, and get started in a career in IT security, risk management, and more, from the comfort of your home.
+
+
+***
+![Need more cloud storage? Here are the deals for you.](https://mondrian.mashable.com/2021%252F02%252F13%252F3e%252Fb5be37a8e104477590c323a5faa6fc69.ec7b2.jpg%252F1200x630.jpg?signature=F2Y6L0PjVlTOfqqig4-Qhl3XTq8= "Need more cloud storage? Here are the deals for you.")
+
+
+[Need more cloud storage? Here are the deals for you.](https://mashable.com/shopping/feb-13-cloud-storage-sale-presidents-day/)
+
+
+> If you aren't the type to clear out your phone regularly, you've likely seen the annoying 'out of storage' alert pop up time after time. Popular cloud solutions like iCloud , Google Drive, and Dropbox offer free storage, but you might not be able to fit everything on those. Instead, check out some of these storage options that are on sale for Presidents Day. Just add the code PREZ2021 at checkout to score a sweet deal. Koofr Cloud Storage: Lifetime Subscription (1TB) Safe and easy to use, Koofr is a cloud storage service that compiles all of your existing accounts — Dropbox, Google Drive, Amazon, OneDrive, etc.
+
+
+***
+![21 pairs of wireless earbuds on sale this Presidents Day weekend](https://mondrian.mashable.com/2021%252F02%252F13%252F9b%252F9fa76ad7e3a848a6a47a5fe6ac723a62.59eb4.jpg%252F1200x630.jpg?signature=QyA_JuqxSMFiR_qtGqWVVYxdOe4= "21 pairs of wireless earbuds on sale this Presidents Day weekend")
+
+
+[21 pairs of wireless earbuds on sale this Presidents Day weekend](https://mashable.com/shopping/feb-13-wireless-earbuds-presidents-day-sale/)
+
+
+> Whether you lost your AirPods (sorry) or are looking for something a little different, Presidents Day is the perfect time to buy a new set of wireless earbuds . Why? Because we've got deals on 21 different pairs that won't break the bank. From well-known buds from brands like Motorola and Naztech to lesser-known gems, there's a pair for every style and budget on this list. Just remember to use the code PREZ2021 at checkout to score the best possible price for a limited time. Under $50 HyperSonic Lite True Wireless Earphones Get these true wireless headphones for just $42.
+
+
