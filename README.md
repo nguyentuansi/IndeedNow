@@ -26791,3 +26791,50 @@
 > Blockchain News – Argo Blockchain's 1500% Rise Comes with a Warning: Don't Buy MeSince December, Argo Blockchain (OTCMKTS:ARBKF) stock has ridden the Bitcoin (CCC:BTC-USD) rocket ship to new heights. After listing on the OTC markets last year, the UK.-listed blockchain mining company has seen shares rise from $0.17 to $2.72 — a stunning 1,500% return. The reason for the outsized returns is simple: cryptocurrency miners have incredibly high operating leverage. That means the doubling in Bitcoin prices since late last year will increase mining profitability by an even greater magnitude.
 
 
+***
+![Help building an automated stock screener](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Help building an automated stock screener")
+
+
+[Help building an automated stock screener](https://www.reddit.com/r/programming/comments/ljemk7/help_building_an_automated_stock_screener/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Following Bumble's IPO, CEO and founder Whitney Wolfe Herd, who is 31, became the youngest female CEO ever to take a company public in the US (Angel Au-Yeung/Forbes)](http://www.techmeme.com/210213/p13#a210213p13)
+
+
+> Angel Au-Yeung / Forbes: Following Bumble's IPO, CEO and founder Whitney Wolfe Herd, who is 31, became the youngest female CEO ever to take a company public in the US — [Update 7 pm ET: Whitney Wolfe Herd ended the day Thursday with a net worth of $1.5 billion based on Bumble stock closing at $70.55.]
+
+
+***
+![Iphonetsu10 tomfoolery](https://images.macrumors.com/social/?t=2284610&v=6 "Iphonetsu10 tomfoolery")
+
+
+[Iphonetsu10 tomfoolery](https://forums.macrumors.com/threads/iphonetsu10-tomfoolery.2284610/)
+
+
+> Now, I've bought an Iphone X, a used one. Knowingly bought one with a busted rear camera (x2 worked initially just fine). A crack on the screen up top, but not crossing any of the many sensors up there.. (something simpy disconnected?) Face ID didn't work, but theselfie camera found my face, no problem. Face id did not work at all, didn't tell me to move came down or up, Just tells me to 'point at yo' face', not updating. Then I let it update from 13.? to 14.4. Now none of the three cameras work.
+
+
+***
+![Statement on New York Times Article](https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff79365ba-cfb1-4887-ba59-d167e4cf62f1_480x393.jpeg "Statement on New York Times Article")
+
+
+[Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article)
+
+
+> There was recently a negative article about me and my blog in the New York Times. Most of you already know the history behind this, but for anyone referred here by NYT, this is where I give my side and defend myself. Like many people in the early 2000s, I started a blog when I was in college. To stay anonymous, I wrote it under my first and middle names – Scott Alexander – while leaving out my last name. I continued writing in it through medical school, residency, and until the present. Although I've never personally been involved in the tech industry, my blog became very popular among people in tech because it discussed ideas centering around scientific and technological progress, especially artificial intelligence.
+
+
+***
+![UFC 258: Usman vs Burns live stream, time and how to watch full card online anywhere](https://cdn.mos.cms.futurecdn.net/W4EcSNcZkxRCAyHtHEpJVV-1200-80.jpg "UFC 258: Usman vs Burns live stream, time and how to watch full card online anywhere")
+
+
+[UFC 258: Usman vs Burns live stream, time and how to watch full card online anywhere](https://www.techradar.com/news/watch-ufc-258-live-stream-usman-vs-burns-online-time-card-anywhere)
+
+
+> The APEX Center in Las Vegas welcomes back top drawer UFC action this weekend with a mouth-watering welterweight title showdown - here's how to find a UFC 258 live stream and watch the drama unfold online, plus the start time and much more. Pitching current title holder Kamaru Usman against his old sparring partner Gilbert Burns, the fight brings with it a huge clash in styles.Previously scheduled for last summer, the fight has been put on the back burner three times thanks to Burns testing positive for COVID-19 and Usman being forced to withdraw after suffering an injury.
+
+
