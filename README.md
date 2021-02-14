@@ -26751,3 +26751,43 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Tech company's job posting required all applicants to be non-Asian. The latest in anti-Asian discrimination in the name of equity](https://www.neogaf.com/styles/neogaf/icons/icon.png "Tech company's job posting required all applicants to be non-Asian. The latest in anti-Asian discrimination in the name of equity")
+
+
+[Tech company's job posting required all applicants to be non-Asian. The latest in anti-Asian discrimination in the name of equity](https://www.neogaf.com/threads/tech-companys-job-posting-required-all-applicants-to-be-non-asian-the-latest-in-anti-asian-discrimination-in-the-name-of-equity.1591451/)
+
+
+> It was removed after many complaints. The amount of anti-Asian racism going on in the country lately is really disturbing. It seems to be picking up significant steam. Lol LinkedIn? Of course. I had a feeling it was that. That company was one of the first to go full woke-equity bullshit a few years ago. Also do Indians count as Asians these days? I never know anymore. Last edited: 45 minutes ago MS owns LinkedIn now, yeah? Yeah they do, I guess that explains some of it. I still am amazed at just how woke Microsoft of all companies went down the shitter.
+
+
+***
+![Egypt: Archaeologists unearth ancient beer factory in Abydos](https://www.clickondetroit.com/resizer/sdlZ9k-GawsPt9CaBZBRra5cT5k=/640x360/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/2F4653V7T5GLHMOLPIHK7MQ7TA.jpg "Egypt: Archaeologists unearth ancient beer factory in Abydos")
+
+
+[Egypt: Archaeologists unearth ancient beer factory in Abydos](https://www.clickondetroit.com/tech/2021/02/13/egypt-archaeologists-unearth-ancient-beer-factory-in-abydos/)
+
+
+> CAIRO – American and Egyptian archaeologists have unearthed what could be the oldest known beer factory at one of the most prominent archaeological sites of ancient Egypt, a top antiquities official said on Wednesday.Mostafa Waziri, secretary general of the Supreme Council of Antiquities, said the factory was found in Abydos, an ancient burial ground located in the desert west of the Nile River, over 450 kilometers (280 miles) south of Cairo.He said the factory apparently dates back to the region of King Narmer, who is widely known for his unification of ancient Egypt at the beginning of the First Dynastic Period (3150 B.
+
+
+***
+![Receive notification, raise wrist to see, lower wrist, raise back to face immediately?](https://help.apple.com/assets/5FC7E0F6680CE2AB1DD5C9B5/5FC7E100680CE2AB1DD5C9CD/en_US/8c52f054ea82a2dc5f3278a2463f73f8.png "Receive notification, raise wrist to see, lower wrist, raise back to face immediately?")
+
+
+[Receive notification, raise wrist to see, lower wrist, raise back to face immediately?](https://forums.macrumors.com/threads/receive-notification-raise-wrist-to-see-lower-wrist-raise-back-to-face-immediately.2284603/)
+
+
+> When I receive a notification, I raise my wrist to see it. When I lower my wrist, I want the notification to be gone and back to the watch face when I raise my wrist immediately after. I've read about this and still can't figure this out. I‘ve gone to this setting... ————Return to the clock face​You can choose how long before Apple Watch returns to the clock face from an open app. Open the Settings app on your Apple Watch. Go to General > Wake Screen, and make sure Wake on Wrist Raise is turned on.
+
+
+***
+![Blockchain News](https://s.yimg.com/ny/api/res/1.2/mlxJ1osgRL3U82VJoGtVkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUyNy40NzI1Mjc0NzI1Mjc0/https://s.yimg.com/uu/api/res/1.2/.qPf02IzB3rKcgQVd1.uwA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/fba0df643813c516befa605908bc2f4e "Blockchain News")
+
+
+[Blockchain News](https://fintechzoom.com/fintech_news_blockchain-news/blockchain-news-argo-blockchains-1500-rise-comes-with-a-warning-dont-buy-me/)
+
+
+> Blockchain News – Argo Blockchain's 1500% Rise Comes with a Warning: Don't Buy MeSince December, Argo Blockchain (OTCMKTS:ARBKF) stock has ridden the Bitcoin (CCC:BTC-USD) rocket ship to new heights. After listing on the OTC markets last year, the UK.-listed blockchain mining company has seen shares rise from $0.17 to $2.72 — a stunning 1,500% return. The reason for the outsized returns is simple: cryptocurrency miners have incredibly high operating leverage. That means the doubling in Bitcoin prices since late last year will increase mining profitability by an even greater magnitude.
+
+
