@@ -26838,3 +26838,50 @@
 > The APEX Center in Las Vegas welcomes back top drawer UFC action this weekend with a mouth-watering welterweight title showdown - here's how to find a UFC 258 live stream and watch the drama unfold online, plus the start time and much more. Pitching current title holder Kamaru Usman against his old sparring partner Gilbert Burns, the fight brings with it a huge clash in styles.Previously scheduled for last summer, the fight has been put on the back burner three times thanks to Burns testing positive for COVID-19 and Usman being forced to withdraw after suffering an injury.
 
 
+***
+![Dtec – a thriving hub for start-ups](https://imagevars.gulfnews.com/2021/02/09/-_17786cd65f8_medium.jpg "Dtec – a thriving hub for start-ups")
+
+
+[Dtec – a thriving hub for start-ups](https://gulfnews.com/technology/dtec--a-thriving-hub-for-start-ups-1.1612874676131)
+
+
+> Video Credit: Supplied Tech start-ups, particularly those that run an agile operation, need flexibility. The Dubai Technology Entrepreneur Campus (Dtec), located in Dubai Silicon Oasis, offers an optimal ecosystem for companies operating in a rapidly changing business environment. After launching as one of the UAE's first start-up hubs and building on the success of its first location, Dtec opened a second purpose-built space in January 2020, bringing its total area up to 10,000 square metres. ShortPoint, a software-as-a-service (SaaS) intranet design platform, is one of the many start-ups that has benefited from being based at Dtec, whose location and support system have helped the SME grow from $20,000 (Dh73,450) in revenue and five customers in 2015 to working with some of the world's largest multinationals.
+
+
+***
+![ਨਗਰ ਕੌਂਸਲ ਚੋਣਾਂ: ਵੋਟਿੰਗ ਸ਼ੁਰੂ ਵਾਰਡ ਨੰਬਰ 19 'ਚ ਇਕ ਮਸ਼ੀਨ ਹੋਈ ਖਰਾਬ ,ਨਵੀਂ ਮਸ਼ੀਨ ਲਗਾ ਕੇ ਵੋਟਿੰਗ ਕੀਤੀ ਗਈ ਸ਼ੁਰੂ](https://static.jagbani.com/multimedia/2021_2image_09_32_272406169vote-ll.jpg "ਨਗਰ ਕੌਂਸਲ ਚੋਣਾਂ: ਵੋਟਿੰਗ ਸ਼ੁਰੂ ਵਾਰਡ ਨੰਬਰ 19 'ਚ ਇਕ ਮਸ਼ੀਨ ਹੋਈ ਖਰਾਬ ,ਨਵੀਂ ਮਸ਼ੀਨ ਲਗਾ ਕੇ ਵੋਟਿੰਗ ਕੀਤੀ ਗਈ ਸ਼ੁਰੂ")
+
+
+[ਨਗਰ ਕੌਂਸਲ ਚੋਣਾਂ: ਵੋਟਿੰਗ ਸ਼ੁਰੂ ਵਾਰਡ ਨੰਬਰ 19 'ਚ ਇਕ ਮਸ਼ੀਨ ਹੋਈ ਖਰਾਬ ,ਨਵੀਂ ਮਸ਼ੀਨ ਲਗਾ ਕੇ ਵੋਟਿੰਗ ਕੀਤੀ ਗਈ ਸ਼ੁਰੂ](https://jagbani.punjabkesari.in/malwa/news/municipal-council-elections--voting--machine--sunam-udham-singh-wala-1268670)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![Clubhouse says reviewing data protection practices after report points to flaws](https://images.indianexpress.com/2021/02/b6c1d814-a203-444e-a5ca-8bb03ce55dcb-1.jpg "Clubhouse says reviewing data protection practices after report points to flaws")
+
+
+[Clubhouse says reviewing data protection practices after report points to flaws](https://indianexpress.com/article/technology/social/clubhouse-reviewing-data-protection-practices-security-flaws-7187947/)
+
+
+> U.S. audio app Clubhouse said it is reviewing its data protection practices, after a report by the Stanford Internet Observatory said it contained security flaws that left users' data vulnerable to access by the Chinese government. The app said in a response to the study, published by the research group at Stanford University, that while it had opted not to make the app available in China, some people had found a workaround to download the app which meant the conversations they were a part of could be transmitted via Chinese servers.
+
+
+***
+![So I Accidentally Made a (Harmless) Virus...](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "So I Accidentally Made a (Harmless) Virus...")
+
+
+[So I Accidentally Made a (Harmless) Virus...](https://www.reddit.com/r/Python/comments/ljghmz/so_i_accidentally_made_a_harmless_virus/)
+
+
+> I was messing around with python (specifically pynput) and got bored, and thought "wouldn't it be cool if I made a virus?" Now, when I thought this, I was doing purely for shits and giggles, and I had/have no harmful intent. So the virus consists of a basic forever loop, which just takes control of your mouse, and prevents you from moving. Really basic, I know. So I run the file, and to my surprise is works! Except I didn't implement a fail safe, so nothing would work to stop the program. I obviously couldn't use task manager, and Alt + F4 didn't work.
+
+
+***
+[Tesla to Set up Electric Car Manufacturing Unit in K'taka: CM BSY](https://www.thequint.com/tech-and-auto/tesla-electric-car-manufacturing-unit-karnataka-cm-yeddiyurappa)
+
+
+> This is the first statement stating an electric car manufacturing unit will be built in Karnataka by Tesla.
+
+
