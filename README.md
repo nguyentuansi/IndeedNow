@@ -27035,3 +27035,50 @@
 > Hi everyone, I'm Kiril and together with my co-founder we are building developer tools we wish existed. Our og idea was building a new version control system (and we do have it bootstrapped), but now we are making tools that are easier to be plugged into an existing workflow. We built two tools we heard from other devs might be cool: A plugin for VSCode that detects in real time if your _local_ and even _uncommitted_ code conflicts with other on your team. Check it out here http://getsturdy.com/ A Pull Request bot that will write a comment in the PR if it conflicts with other PRs https://getsturdy.
 
 
+***
+![Cyberpunk 2077 and The Witcher 3 stolen source code reportedly being auctioned on the dark web](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/cyberpunk-483x271_1200_210214170712.jpeg "Cyberpunk 2077 and The Witcher 3 stolen source code reportedly being auctioned on the dark web")
+
+
+[Cyberpunk 2077 and The Witcher 3 stolen source code reportedly being auctioned on the dark web](https://www.indiatoday.in/technology/news/story/cyberpunk-2077-and-the-witcher-3-stolen-source-code-reportedly-being-on-the-dark-web-1769151-2021-02-14)
+
+
+> Highlights Cyberpunk 2077 and The Witcher 3 source code were stolen in a ransomware attack. When CD Projekt Red refused to pay the ransom the hackers auctioned the source code files on the dark web. It is still unclear who the buyer is or what they intend to do with the files. The auction was held on a popular hacking forum on the dark web, and the bidding started at $1 million, according to Vx-underground. The auction concluded shortly after, once hackers received a satisfying bid, per KELA Research.
+
+
+***
+![Clubhouse upgrades security over fears China could spy on users](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/clubhouse-voice-chat-social-ne-483x271_1200_210214143511.jpeg "Clubhouse upgrades security over fears China could spy on users")
+
+
+[Clubhouse upgrades security over fears China could spy on users](https://www.indiatoday.in/technology/news/story/clubhouse-upgrades-security-over-fears-china-could-spy-on-users-1769111-2021-02-14)
+
+
+> The new audio-chat app is invite-only and allows conversations in 'chat rooms'. A report by the Stanford Internet Observatory said it contained security flaws that left users' data vulnerable to access by the Chinese government. Akarsh Verma | February 14, 2021 | Updated 14:17 IST
+
+
+***
+[TechJobGuide.com](https://www.namepros.com/threads/techjobguide-com-499-or-your-best-offer.1225994/)
+
+
+> I am selling a catchy and brandable domain, TechJobGuide.com. There are many coding course affiliate programs you can use to monetize this domain, for example, Team Treehouse, Udemy, PluralSight, DataCamp, Coursera, SkillCrush and others. Registered with GoDaddy.com. Renewal $17.99. Expires on April 16, 2021. Transfer will happen over Escrow.com, payment can be made by wire / credit card / PayPal. Domain value: In my opinion, mid-to-high X,XXX USD to the right end user. My...
+
+
+***
+![The 1979 CP/M OS— How Does It Look Like Today](https://external-preview.redd.it/gPI1soTnnkmeUzTV1CgX-5qMjXgXXsPns4iE_-U7izA.jpg?auto=webp&s=03febe41e3e089bca766cf37621674e9204d16f9 "The 1979 CP/M OS— How Does It Look Like Today")
+
+
+[The 1979 CP/M OS— How Does It Look Like Today](https://www.reddit.com/r/programming/comments/ljmv9j/the_1979_cpm_os_how_does_it_look_like_today/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Day One has no search](https://images.macrumors.com/social/?t=2284651&v=6 "Day One has no search")
+
+
+[Day One has no search](https://forums.macrumors.com/threads/day-one-has-no-search.2284651/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
