@@ -26985,3 +26985,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Crappy WiFi signal? Give it a boost with a WiFi repeater on sale.](https://mondrian.mashable.com/2021%252F02%252F14%252Fb0%252Fae31e03a463249098185113912d40ede.1d6c6.jpg%252F1200x630.jpg?signature=whgZpJDiUCtMLogUw01uy2bDlU4= "Crappy WiFi signal? Give it a boost with a WiFi repeater on sale.")
+
+
+[Crappy WiFi signal? Give it a boost with a WiFi repeater on sale.](https://mashable.com/shopping/feb-14-super-boost-wifi-repeater/)
+
+
+> TL;DR: Say goodbye to spotty WiFi with this Super Boost Wi-Fi Repeater on sale for $22.94. As of Feb. 14, use code PREZ2021 to save a total of 66%. If working from home has taught us anything, it's that without high-speed internet, we're pretty much incapable of having virtual meetings or getting our work done efficiently.  There are ways to step up your current setup, though. In order to do that, you'll need a WiFi booster , extender, repeater, or all three. Here's a Super Boost Wi-Fi Repeater on sale for just under $23 to get you started.
+
+
+***
+![Keep your dog entertained with an interactive toy on sale](https://mondrian.mashable.com/2021%252F02%252F14%252Fdb%252F5adf1cb34786442590c0ba967e8c6129.7dc9e.jpg%252F1200x630.jpg?signature=88UtohZZ5EWL8yplOTrN0QmeHw0= "Keep your dog entertained with an interactive toy on sale")
+
+
+[Keep your dog entertained with an interactive toy on sale](https://mashable.com/shopping/feb-14-wicked-ball-interactive-dog-toy/)
+
+
+> TL;DR: Help your dog stay active when you're not home with the Wicked Ball Interactive Dog Toy . As of Feb. 14, use code PREZ2021 to get a total of 25% off and get it for only $36.51. Having a dog is great, but it can be hard to leave your pet home alone — even if it's just to get groceries. Keep your pup occupied while you're away with The Wicked Ball , which was successfully funded on both Indiegogo and Kickstarter. Set the ball to your dog's activity level: gentle, active, or normal. If your pet is motivated by food , there's even a compartment for a treat, which will unlock after some active play.
+
+
+***
+![21 cool gadgets on sale for Presidents Day](https://mondrian.mashable.com/2021%252F02%252F14%252F96%252Fdfe8c47ae64f423393d6cf8c7a0eb29b.f758a.jpg%252F1200x630.jpg?signature=sBraQrYbrVHALwuWQUCODwTsZRI= "21 cool gadgets on sale for Presidents Day")
+
+
+[21 cool gadgets on sale for Presidents Day](https://mashable.com/shopping/presidents-day-tech-sale/)
+
+
+> You can never have too many gadgets — especially in an era where boredom is skyrocketing (thanks, COVID). Fortunately, we've got loads of Presidents Day deals for you on every kind of gadget or gizmo you can imagine. From portable projectors and Bluetooth speakers to smart watches and video doorbells , you can score an extra 15% off these already-on-sale gadgets for a limited time. Just remember to add the promo code PREZ2021 at checkout to get the lowest price. Ilumi Color PAR30 Spot Smart Light Bulb Improve any space with some mood lighting, courtesy of the Ilumi Color PAR30 Spot Smart Light Bulb.
+
+
+***
+![UK is building the world's first airport for flying cars](https://static.theprint.in/wp-content/uploads/2021/02/Flying-car.jpg "UK is building the world's first airport for flying cars")
+
+
+[UK is building the world's first airport for flying cars](https://theprint.in/tech/uk-is-building-the-worlds-first-airport-for-flying-cars/604483/)
+
+
+> The Air-One facility will be open for just one month, and is a collaboration between government agencies, private-sector businesses and the aviation industry. It has been developed by Urban Air Port, with the involvement of the Urban Air Mobility Division of Hyundai Motor Group and Coventry City Council. The pop-up airport is being built as a proof of concept of a zero-emissions hub for future modes of travel. Electric vertical take-off and landing (eVTOL) vehicles are being suggested as a low-carbon way to ease congestion as people travel between urban centres.
+
+
+***
+![We made a tool to prevent merge conflicts before they even happen](https://external-preview.redd.it/_8Tq7b5xm0NRjtC29S9ai16YTnbZ9XYw1qp_lgb6hHc.jpg?auto=webp&s=bcc48482baaadb89d12893d36ca0441a7e2c5954 "We made a tool to prevent merge conflicts before they even happen")
+
+
+[We made a tool to prevent merge conflicts before they even happen](https://www.reddit.com/r/Python/comments/ljlj8e/we_made_a_tool_to_prevent_merge_conflicts_before/)
+
+
+> Hi everyone, I'm Kiril and together with my co-founder we are building developer tools we wish existed. Our og idea was building a new version control system (and we do have it bootstrapped), but now we are making tools that are easier to be plugged into an existing workflow. We built two tools we heard from other devs might be cool: A plugin for VSCode that detects in real time if your _local_ and even _uncommitted_ code conflicts with other on your team. Check it out here http://getsturdy.com/ A Pull Request bot that will write a comment in the PR if it conflicts with other PRs https://getsturdy.
+
+
