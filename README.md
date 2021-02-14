@@ -27082,3 +27082,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+![【新手教學】Python 基礎教學 Part 2 (廣東話)](https://external-preview.redd.it/RBYyGCoy-gg5-r-MKM7f5txmTGE4-XOLctkQrVBHsFQ.jpg?auto=webp&s=86dc25f1fb7e280fcd9f69d3bf2c6912b527f976 "【新手教學】Python 基礎教學 Part 2 (廣東話)")
+
+
+[【新手教學】Python 基礎教學 Part 2 (廣東話)](https://www.reddit.com/r/Python/comments/ljoz0e/新手教學python_基礎教學_part_2_廣東話_list_function_if/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Do Python users enjoy using functions?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Do Python users enjoy using functions?")
+
+
+[Do Python users enjoy using functions?](https://www.reddit.com/r/programming/comments/ljoqi6/do_python_users_enjoy_using_functions/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Regina King and Kenan Thompson hilariously threaten Gorilla Glue on 'SNL'](https://mondrian.mashable.com/2021%252F02%252F14%252F8f%252F379e96ac35804d88900d5e8f11747379.bdfe5.png%252F1200x630.png?signature=7DGsIMkd2b9X7nf_23kKQoqCVTk= "Regina King and Kenan Thompson hilariously threaten Gorilla Glue on 'SNL'")
+
+
+[Regina King and Kenan Thompson hilariously threaten Gorilla Glue on 'SNL'](https://mashable.com/video/gorilla-glue-lawyers-regina-king-kenan-thompson-snl/)
+
+
+> By now you've almost surely heard about the journey of Tessica Brown, the woman who used Gorilla Glue in place of hairspray. After appealing to the people of TikTok for help and going viral, Ms. Brown connected with a Los Angeles plastic surgeon who offered to fix her problem for no charge. The whole affair feels like it was made for a Saturday Night Live sketch, and sure enough we now have guest host Regina King joining Kenan Thompson for a send-up of one of those cheesy legal ads. You know the ones, where a lawyer or two speaks awkwardly to the camera while equally awkward testimonials from past clients are peppered in.
+
+
+***
+![Is Huawei planning to rival the PS5 with a game console?](https://images.indianexpress.com/2019/08/huawei-12.jpg "Is Huawei planning to rival the PS5 with a game console?")
+
+
+[Is Huawei planning to rival the PS5 with a game console?](https://indianexpress.com/article/technology/gaming/huawei-gaming-console-in-works-rival-playstation-xbox-7188376/)
+
+
+> Huawei is working on a gaming console to take on the likes of Sony's PlayStation and Microsoft's Xbox. As per a report by Huawei Central, a post spotted on Weibo by a tipster revealed that Huawei is working on its own gaming console and notebooks dedicated to gaming. There is no expected date of Huawei's gaming console debut. However, the company will launch a set of gaming notebooks adding to its current lineup. There is no word about the specifications of the upcoming gaming console or the notebooks but it will try to break the duopoly created by Sony and Microsoft with their gaming consoles over the years.
+
+
+***
+![The eternal need driving of one of the oldest open source projects around](https://cdn.mos.cms.futurecdn.net/tpH4g2byrVmPoKJgPHMKeZ-1200-80.jpg "The eternal need driving of one of the oldest open source projects around")
+
+
+[The eternal need driving of one of the oldest open source projects around](https://www.techradar.com/news/the-eternal-problem-driving-of-one-of-the-oldest-open-source-projects-around)
+
+
+> Two decades on from the launch of open source CMS Drupal, its founder Dries Buytaert is wondering precisely where the time went.In that period, the platform has weathered an overhaul to the browser market, the transition to a mobile-first web and the rise of multi-channel digital experiences, and is currently used by 1 in 30 websites worldwide for some of the most complex use cases. The technology sector is in the habit of chewing up businesses and spitting them back out, but Drupal appears to have found the formula for continued relevance and the open source ecosystem is arguably healthier than ever.
+
+
