@@ -27226,3 +27226,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Fintech, social media key to SME growth in 2021: Gojek](https://img.jakpost.net/c/2020/09/28/2020_09_28_104982_1601303092._large.jpg "Fintech, social media key to SME growth in 2021: Gojek")
+
+
+[Fintech, social media key to SME growth in 2021: Gojek](https://www.thejakartapost.com/paper/2021/02/14/fintech-social-media-key-to-sme-growth-in-2021-gojek.html)
+
+
+> Please Update your browser Your browser is out of date, and may not be compatible with our website. A list of the most popular web browsers can be found below. Just click on the icons to get to the download page.
+
+
+***
+![ZINQ ERUPT HEADPHONES: Good quality at a nice price](https://images.financialexpress.com/2021/02/1-333.jpg "ZINQ ERUPT HEADPHONES: Good quality at a nice price")
+
+
+[ZINQ ERUPT HEADPHONES: Good quality at a nice price](https://www.financialexpress.com/industry/technology/zinq-erupt-headphones-good-quality-at-a-nice-price/2194066/)
+
+
+> The ZinQ Erupt pair of headphones offers Bluetooth connectivity, has playing time up to eight hours and standby time of about 100 hours.If you are looking for a good-sounding and easy-on-pocket pair of headphone that can be your constant audio companion, the ZinQ Erupt (Model ZQHP-4155) Super Bass On-Ear Bluetooth headphones can be a good option. A brainchild of Quantum Hitech Merchandising (a computer and gaming peripherals, sound systems, and surveillance solutions brand), ZinQ Technologies is a fast-growing lifestyle gadgets, and accessories firm.
+
+
+***
+![Distribution of JVM Desktop Applications](https://blog.frankel.ch/assets/resources/state-jvm-desktop-frameworks/tree-flower-jungle-usa-garden-mailbox-1148044-pxhere.com.jpg "Distribution of JVM Desktop Applications")
+
+
+[Distribution of JVM Desktop Applications](https://blog.frankel.ch/state-jvm-desktop-frameworks/6/)
+
+
+> The previous posts of this series focused on different frameworks to develop JVM-based applications. This is the 6th post in the The state of JVM desktop frameworks focus series.Other posts include: Distributing applications on a couple of computers inside the same company is not an issue. A lot of products are available for automating the pushing of files onto computers. Issues might start to appear when you need to coordinate the deployment across different physical sites. However, the biggest problem is when computers are not known in advance: in that case, it's not possible to push.
+
+
+***
+![Best microphones 2021 for video calling, podcasting and streaming](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/149272-laptops-news-buyer-s-guide-best-microphones-for-video-calling-podcasting-and-streaming-image8-ipsegstzd0.jpg "Best microphones 2021 for video calling, podcasting and streaming")
+
+
+[Best microphones 2021 for video calling, podcasting and streaming](https://www.pocket-lint.com/laptops/buyers-guides/149272-best-microphones-for-gamers-content-creators-and-streamers)
+
+
+> (Pocket-lint) - When playing with friends, streaming for your audience or creating content for YouTube or any other platform, you need to ensure you're heard loudly and clearly. Gaming headsets often pack a built-in microphone, but they're not always great and certainly not as good as a dedicated microphone. If you've been thinking about adding a dedicated mic to your setup, but aren't sure what to buy then we've got you covered. We've put together a list of the very best USB microphones, most of which are easy-to-use plug and play affairs with incredible audio capabilities.
+
+
+***
+![Presidents' Day sales: save up to $300 in Best Buy's electric scooter deals](https://cdn.mos.cms.futurecdn.net/cb8HQQQcrck9CbxePV2zFJ-1200-80.jpg "Presidents' Day sales: save up to $300 in Best Buy's electric scooter deals")
+
+
+[Presidents' Day sales: save up to $300 in Best Buy's electric scooter deals](https://www.techradar.com/news/presidents-day-sales-save-up-to-dollar300-in-best-buys-electric-scooter-deals-this-weekend-only)
+
+
+> (Image credit: Future) Best Buy has launched its Presidents' Day sales this weekend, and if you're keen to get out and about you'll want to take a look at these excellent electric scooter deals. When they first started populating our streets, these motorized scooters came at a premium. However, as more and more have been adopted we've seen prices fall considerably in the last year. That means you'll find an electric scooter for as little as $179.99 this weekend. The Hover-1 Gambit is taking a $70 discount from a $249.
+
+
