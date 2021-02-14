@@ -27182,3 +27182,47 @@
 > Prepaid subscribers of Airtel can avail up to 6GB of free data as a part of the 'Free Data Coupons' offer currently run by Bharti Airtel. Akarsh Verma | February 14, 2021 | Updated 19:14 IST
 
 
+***
+![These are the best cases for the LG V30](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2017/08/lg-v30-speedtest-1.jpg "These are the best cases for the LG V30")
+
+
+[These are the best cases for the LG V30](https://www.androidcentral.com/best-cases-lg-v30)
+
+
+> Best LG V30 Cases Android Central 2021 The LG V30 is still a pretty enticing phone, and whether you just recently bought it or have been rocking it since it first came out, there's one thing we can all agree on — it's a phone that needs a case. The glass back may look great, but it's also a slippery mess that's just asking to be shattered at any given moment. Need some recommendations on what case you should buy? Here are our favorites. For those of you reading this that have come to terms with the fact that you're a butterfingers, you'll want to turn your attention to SUPCASE.
+
+
+***
+![It's almost time to party with Animal Crossing Festivale!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/acnh-pave-festival-colorful.jpg "It's almost time to party with Animal Crossing Festivale!")
+
+
+[It's almost time to party with Animal Crossing Festivale!](https://www.imore.com/animal-crossing-pave-and-festivale-what-expect-new-horizons)
+
+
+> Source: iMore Yet another year has come and gone with Animal Crossing Toy Day and New Year's firmly in the rearview mirror. Now it's time to turn our attention to the year's first in-game celebration found in the form of Festivale. Islanders are visited by Pavé, the fabulous peacock, who brings with him plenty of color and cheer to light up the cold winter months. Here's everything you need to know about Animal Crossing Festivale and Pavé. One of the reasons that Animal Crossing is one of the best Nintendo Switch games is because it allows us to celebrate real-world holidays and seasonal events in-game.
+
+
+***
+[A Facebook dating app? Dive into Facebook's newest, strangest feature](https://filmdaily.co/tech/facebook-dating-app/)
+
+
+> Looking for a date for Valentine's Day? Facebook might be able to help. See if their newest app can help you find true love right here. The post A Facebook dating app? Dive into Facebook’s newest, strangest feature appeared first on Film Daily.
+
+
+***
+[The most terrifying fact about blockchains is rogue AIs you can't switch off](https://twitter.com/11111110b/status/1360988574225735683)
+
+
+> We've detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center. Help Center
+
+
+***
+![Aaron Epstein, 90, spent $10,000 to run a newspaper ad about his slow AT&T Internet](https://external-preview.redd.it/xJpLoSzuTj_94vP9g0GpC7rBuDKJGD58dtc0u1aiQFk.jpg?auto=webp&s=4c1711f559ba5e00dcf07d4faae114ab8943c1c4 "Aaron Epstein, 90, spent $10,000 to run a newspaper ad about his slow AT&T Internet")
+
+
+[Aaron Epstein, 90, spent $10,000 to run a newspaper ad about his slow AT&T Internet](https://www.reddit.com/r/technology/comments/ljsy13/aaron_epstein_90_spent_10000_to_run_a_newspaper/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
