@@ -26885,3 +26885,53 @@
 > This is the first statement stating an electric car manufacturing unit will be built in Karnataka by Tesla.
 
 
+***
+![We've been thinking about collaboration wrong this whole time](https://cdn.mos.cms.futurecdn.net/unBoXU4JWpti7UfcBc7mLE-1200-80.jpg "We've been thinking about collaboration wrong this whole time")
+
+
+[We've been thinking about collaboration wrong this whole time](https://www.techradar.com/news/weve-been-thinking-about-collaboration-wrong-this-whole-time)
+
+
+> With the widespread transition to remote working, communication and collaboration has become all the more important.A problem many businesses face, however, is that they are required to juggle an impractical number of tools to benefit from all functionality needed to support remote work: text chat, email, video calling, file-sharing, cloud storage etc.We caught up with Frank Karlitschek, founder and CEO at Nextcloud, to find out why doing all this in a secure and simple manner might require a different approach to that of traditional SaaS providers.
+
+
+***
+![The 3 least popular Macs that proves Apple is an ‘offbeat' company at heart](https://images.indianexpress.com/2021/02/TAM-FBBB.jpg "The 3 least popular Macs that proves Apple is an ‘offbeat' company at heart")
+
+
+[The 3 least popular Macs that proves Apple is an ‘offbeat' company at heart](https://indianexpress.com/article/technology/tech-news-technology/the-3-least-popular-macs-that-proves-apple-is-an-offbeat-company-at-heart-7188043/)
+
+
+> Watching a young Steve Jobs, dressed in a fine black suit and bow tie, unveiling the Macintosh in 1984 can give anyone a sense of deja vu. Those in the tech fraternity call that moment the beginning of a new dawn for personal computers with Apple at the helm of it. More than 36 years have passed since then, and while Jobs is no longer with us, the Mac remains integral to Apple. No wonder the Mac is the longest-running product in the history of consumer technology, and it's getting stronger with each passing year.
+
+
+***
+![Top 10 Romantic Movies to Watch on Valentine's Day in 2021](https://i2.wp.com/technosports.co.in/wp-content/uploads/2021/02/val.jpg?fit=1503%2C2167&ssl=1 "Top 10 Romantic Movies to Watch on Valentine's Day in 2021")
+
+
+[Top 10 Romantic Movies to Watch on Valentine's Day in 2021](https://technosports.co.in/2021/02/14/top-10-romantic-movies-to-watch-on-valentines-day-in-2021/)
+
+
+> As we have faced many challenges in the last year due to terrible COVID-19 which is now in a little bit of control so it will be a good idea to spend this valentine's day inside our home and stay safe by avoiding the festive crowd. If you think that sitting at home on valentine's day is not good then there Is a good idea to spend your day at home by watching a romantic film with your beloved ones. There have many fantastic films to watch this valentine's day.Here is a list of the top 10 movies to watch on Valentine's Day:10.
+
+
+***
+![What program to download youtube video/songs for free on Windows laptop?](https://images.macrumors.com/social/?t=2284630&v=6 "What program to download youtube video/songs for free on Windows laptop?")
+
+
+[What program to download youtube video/songs for free on Windows laptop?](https://forums.macrumors.com/threads/what-program-to-download-youtube-video-songs-for-free-on-windows-laptop.2284630/)
+
+
+> A while back, I used this program called YTD Video Downloader that i installed on my windows computer. I would copy/paste the link of the youtube video... whether it was a video or song... then it would download it pretty fast. Then i would i believe change the song format to where i could play it on winamp on my computer. Then i transferred a lot of these songs to my iphone via itunes to play music there. But a while back, I noticed the youtubedownloader program no longer worked. Im not sure if it asked me to upgrade to the new version or not.
+
+
+***
+![Polestar will cease production of its first and last hybrid this year](https://external-preview.redd.it/xPNpzWNJ-qc-6ChIQfZMuiAnexf43_vtrUl1xnq904s.jpg?auto=webp&s=a6277631e7a7e99a96652dd4f0287a2aa9710909 "Polestar will cease production of its first and last hybrid this year")
+
+
+[Polestar will cease production of its first and last hybrid this year](https://www.reddit.com/r/technology/comments/ljiajo/polestar_will_cease_production_of_its_first_and/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
