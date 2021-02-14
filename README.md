@@ -26935,3 +26935,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![What is Clubhouse? Here's all you need to know about the new audio chat app](https://imagevars.gulfnews.com/2021/02/14/CLubHouse_1779eeb76f2_medium.jpg "What is Clubhouse? Here's all you need to know about the new audio chat app")
+
+
+[What is Clubhouse? Here's all you need to know about the new audio chat app](https://gulfnews.com/technology/what-is-clubhouse-heres-all-you-need-to-know-about-the-new-audio-chat-app-1.1613279284644)
+
+
+> Apple's App Store page for the social media app Clubhouse is displayed on a smartphone screen in Beijing, Tuesday, Feb. 9, 2021 Image Credit: AP Photo/Mark Schiefelbein The trending topic of the day is Clubhouse. For the uninitiated, it may make no sense yet – an app that requires an invite, involves audio-only chats and is totally free, for now. Clubhouse is a social media app that launched less than a year ago, and has already caught the attention of bigshot players such as Tesla CEO Elon Musk and Facebook Inc.
+
+
+***
+![Google updates its iOS YouTube app, the first update to one of its major iOS apps since December](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/5332834_060519-cc-ss-youtube-g-483x271_1200_210214130511.jpeg "Google updates its iOS YouTube app, the first update to one of its major iOS apps since December")
+
+
+[Google updates its iOS YouTube app, the first update to one of its major iOS apps since December](https://www.indiatoday.in/technology/news/story/google-updates-its-ios-youtube-app-the-first-update-to-one-of-its-major-ios-apps-since-december-1769086-2021-02-14)
+
+
+> Highlights Picture-in-picture feature comes in handy for multitasking people. The feature was available on Android for quite some time, and has now been introduced to iOS. Google denies trying to avoid Apple's new privacy labels. Google has provided a bug fix to its iOS YouTube app, the first update to a major Google iOS app since December, 9to5Googlereports. Although there's been speculation that the reason for the lack of updates to iOS versions of Gmail, Docs, Search, and Photos is an attempt to avoid Apple's new privacy labels, Google has explicitly denied that was the case.
+
+
+***
+![Here are 10 most admired tech companies according to Fortune](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/webp_1200_210214120513.net-resizeimage-483x271.png "Here are 10 most admired tech companies according to Fortune")
+
+
+[Here are 10 most admired tech companies according to Fortune](https://www.indiatoday.in/technology/news/story/here-are-10-most-admired-tech-1769075-2021-02-14)
+
+
+> Highlights Apple has topped the list of most admired companies for the 14th year in a row. Amazon has retained its second spot from last year. All the top 10 most admired companies in Fortune's 2021 list are American. Fortune Magazine, one of the leading Multinational business magazines headquartered in New York regularly ranked lists. The Fortune 500 is a famous list published every year of the 500 largest American corporations by total revenue. Fortune has been compiling a list of the World's most admired companies annually.
+
+
+***
+![Building Reproducible Data Pipelines with Airflow and lakeFS](https://external-preview.redd.it/TB77YTnKk04rwRvUxadnjapb94Y6n7GyaIkc3V9SOeU.jpg?auto=webp&s=425d717e5ed5e1a9a962d2484c19d491bb54e1e6 "Building Reproducible Data Pipelines with Airflow and lakeFS")
+
+
+[Building Reproducible Data Pipelines with Airflow and lakeFS](https://www.reddit.com/r/programming/comments/ljkb16/building_reproducible_data_pipelines_with_airflow/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Good resources for linking two languages](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Good resources for linking two languages")
+
+
+[Good resources for linking two languages](https://www.reddit.com/r/programming/comments/ljk98t/good_resources_for_linking_two_languages/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
