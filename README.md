@@ -27132,3 +27132,53 @@
 > Two decades on from the launch of open source CMS Drupal, its founder Dries Buytaert is wondering precisely where the time went.In that period, the platform has weathered an overhaul to the browser market, the transition to a mobile-first web and the rise of multi-channel digital experiences, and is currently used by 1 in 30 websites worldwide for some of the most complex use cases. The technology sector is in the habit of chewing up businesses and spitting them back out, but Drupal appears to have found the formula for continued relevance and the open source ecosystem is arguably healthier than ever.
 
 
+***
+![Robinhood CEO Goes To Confessional: Vlad Tenev Admits Mistakes On Chamath Palihapitiya's Podcast](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/robinhood.jpeg "Robinhood CEO Goes To Confessional: Vlad Tenev Admits Mistakes On Chamath Palihapitiya's Podcast")
+
+
+[Robinhood CEO Goes To Confessional: Vlad Tenev Admits Mistakes On Chamath Palihapitiya's Podcast](https://www.benzinga.com/fintech/21/02/19657004/robinhood-ceo-goes-to-confessional-vlad-tenev-admits-mistakes-on-chamath-palihapitiyas-podcast)
+
+
+> Robinhood CEO Vlad Tenev admitted his company could have done a better job explaining the restrictions it took amid the Reddit and  GameStop Corp. (NYSE: GME) craze. What Happened:  'No doubt we could have communicated this a little bit better to customers,' Tenev  said  on the All-In Podcast late Friday, the co-host of which, Chamath Palihapitiya, said earlier that those who made the restrictions decision 'should go to jail.' 'We just did what we had to do to meet our deposit requirements. Because if we didn't, we would be in a violation, and the consequences would be much worse,' Tenev explained, referring to the decision the company  made  on Jan.
+
+
+***
+![Erich Schaefer On Starblo](https://techraptor.net/sites/default/files/styles/image_header/public/imports/2018/12/starblo-erich-schaefer.jpg?itok=MiK3-Nlj "Erich Schaefer On Starblo")
+
+
+[Erich Schaefer On Starblo](https://techraptor.net/gaming/interview/erich-schaefer-on-starblo-blizzards-unreleased-sci-fi-arpg)
+
+
+> Starblo is the name of a game that you likely haven't heard of before, but you certainly know the company who worked on it: Blizzard Entertainment. Double Damage Games President (and former Blizzard Vice President) Erich Schaefer and some of the other fine folks at the company had a simple idea to make a  Diablo -style game but with a science fiction twist.  Starblo was the result, and it never saw the light of day. I had already spoken with Erich Schaefer once before about his upcoming game  Rebel Galaxy Outlaw , a title that I'm very much looking forward to.
+
+
+***
+![Green With Envy For Nvidia Stock: How Much $1,000 Invested 5 Years Ago Would Be Worth Today](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/nvidia-1201077_1280_14_0.jpg "Green With Envy For Nvidia Stock: How Much $1,000 Invested 5 Years Ago Would Be Worth Today")
+
+
+[Green With Envy For Nvidia Stock: How Much $1,000 Invested 5 Years Ago Would Be Worth Today](https://www.benzinga.com/general/education/21/02/19596942/green-with-envy-for-nvidia-stock-how-much-1-000-invested-5-years-ago-would-be-worth-today)
+
+
+> Investors who have owned stocks since 2016 generally have experienced some big gains. In fact, the SPDR S&P 500 (NYSE: SPY ) total return in the past five years is 131.9%. But there is no question some big-name stocks performed better than others along the way. Nvidia's Big Run: One company that has been a solid investment in the past five years is semiconductor giant NVIDIA Corporation (NASDAQ: NVDA ). Not only has Nvidia beat the market in the past five years, it has been one of the best investments on the planet.
+
+
+***
+![SpaceX built a true commercial space line for fun, profit and a good cause](https://thehill.com/sites/default/files/muskelon_spacex_122217getty.jpg "SpaceX built a true commercial space line for fun, profit and a good cause")
+
+
+[SpaceX built a true commercial space line for fun, profit and a good cause](https://thehill.com/opinion/technology/538799-spacex-built-a-true-commercial-space-line-for-fun-profit-and-a-good-cause)
+
+
+> The purpose of the Commercial Crew Program, started under President Barack Obama Barack Hussein Obama White House denies involvement in Senate decision on trial witnesses Poll finds Obama named best US president, Trump worst Getting Europe's help on China MORE , was to provide a means to get astronauts to and from the International Space Station (ISS) cheaper than had been the case with the space shuttle system.  So far, the program has succeeded with that goal brilliantly with the advent of the SpaceX Crew Dragon.
+
+
+***
+![Airtel prepaid customers can avail 6GB of data, here's how](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/webp_1200_210214193511.net-resizeimage-1-483x271.png "Airtel prepaid customers can avail 6GB of data, here's how")
+
+
+[Airtel prepaid customers can avail 6GB of data, here's how](https://www.indiatoday.in/technology/news/story/free-6gb-data-coupons-for-airtel-users-with-these-prepaid-plans-1769173-2021-02-14)
+
+
+> Prepaid subscribers of Airtel can avail up to 6GB of free data as a part of the 'Free Data Coupons' offer currently run by Bharti Airtel. Akarsh Verma | February 14, 2021 | Updated 19:14 IST
+
+
