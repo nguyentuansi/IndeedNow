@@ -27276,3 +27276,50 @@
 > (Image credit: Future) Best Buy has launched its Presidents' Day sales this weekend, and if you're keen to get out and about you'll want to take a look at these excellent electric scooter deals. When they first started populating our streets, these motorized scooters came at a premium. However, as more and more have been adopted we've seen prices fall considerably in the last year. That means you'll find an electric scooter for as little as $179.99 this weekend. The Hover-1 Gambit is taking a $70 discount from a $249.
 
 
+***
+[Released v1.0.0 of pmaw, a multithreaded Pushshift API wrapper I've been working on](https://www.reddit.com/r/Python/comments/ljxwni/released_v100_of_pmaw_a_multithreaded_pushshift/)
+
+
+> Over the last few weeks, I've been working on a Pushshift API wrapper to extract large amounts of Reddit data. In my previous projects, I was using psaw to search for comments and submissions and found that the request completion times became quite slow when querying for 200,000 or more comments or submissions. I decided to try putting together a more optimized wrapper that would incorporate multithreading to improve the performance. After doing some benchmarking, I found that my package pmaw was 1.
+
+
+***
+![Chevy finally reveals what its Bolt EUV with hands-free driving looks like](https://mondrian.mashable.com/2021%252F02%252F14%252F99%252Fa5aad403080e4ee286b52285d05633fa.4bdc2.jpg%252F1200x630.jpg?signature=yldmzt9XmwVvo-KEML2GLmQJBZY= "Chevy finally reveals what its Bolt EUV with hands-free driving looks like")
+
+
+[Chevy finally reveals what its Bolt EUV with hands-free driving looks like](https://mashable.com/article/chevy-bolt-euv-electric-vehicle-video-reveal/)
+
+
+> The Chevy Bolt EUV was revealed Sunday and it looks like a pumped-up Chevy Bolt EV.  On the Chevy website, the new Bolt EUV electric car was unveiled during a 15-minute video, pre-recorded at Walt Disney World in Florida. The EUV is an SUV-sized version of the smaller hatchback Chevy Bolt with more legroom in the backseat. "EUV" stands for "electric utility vehicle" which is Chevy's play on SUV as it markets a tougher, heftier EV. The Bolt EV came out in 2017 as the first all-electric vehicle from General Motors, which now plans to produce only EVs by 2035.
+
+
+***
+![Audi's upgraded SUV hits the road](https://content.api.news/v3/images/bin/f0197bb831a132a8badf0473a7975cc7 "Audi's upgraded SUV hits the road")
+
+
+[Audi's upgraded SUV hits the road](https://www.news.com.au/technology/motoring/luxury/new-audi-q5-review-big-tech-upgrades-arrive-for-popular-suv/news-story/2de49282d62c2ef406dc70b6057d7c89)
+
+
+> This is one of the most popular luxury SUVs on the road and a mass of new equipment and hi-tech advancements make it even better.A sharper grille and cleaner styling are among the highlights for the updated Audi Q5 mid-sized SUV that has just gone on sale.But the tech and infotainment updates for the popular luxury SUV dominate centre stage. A mild-hybrid system promises to reduce fuel use by about 0.3 litres per 100 kilometres.As well as standard ambient lighting and a three-way customisable instrument cluster, the Q5 allows owners to choose the light pattern displayed within the redesigned tail lights.
+
+
+***
+![No code is a lie (2019)](https://assets-global.website-files.com/583347ca8f6c7ee058111b55/5dc46c4e65a0da59e43d904a_no-code-is-a-lie.jpeg "No code is a lie (2019)")
+
+
+[No code is a lie (2019)](https://webflow.com/blog/no-code-is-a-lie)
+
+
+> Developers often assume to mistake the "no code" movement to mean "no coders" or "not for coders." I used to be one of them. As a developer, I used to either regard "no code" as a threat, or dismiss "no code" tools as something beneath me, something you only resort to if you, well, can't code. But there is an open secret behind the current generation of "no code" tools — it's all code. "No code" tools generate code. "No code" tools run on mountains of code. "No code" tools can even interact with your code.
+
+
+***
+![The weirdest Valentine's Day tweets filling up our timelines](https://mondrian.mashable.com/2021%252F02%252F14%252F9f%252Ff90c1d153e6444638334c60d4c2f15a6.010f9.png%252F1200x630.png?signature=mAmmyQu-vtTc5Qi1pq0Cf6v90ws= "The weirdest Valentine's Day tweets filling up our timelines")
+
+
+[The weirdest Valentine's Day tweets filling up our timelines](https://mashable.com/article/valentines-day-weird-tweets/)
+
+
+> Happy Valentine's Day! Everyone's favorite Hallmark holiday is back, and performative love is in the air once again. It's in our timelines, too. The annual love holiday always brings out social media's various peanut galleries, but 2021 is a special case because it's our first Valentine's during the U.S. era of COVID-19. We've all been cooped up in our homes for the better part of a year, which means we've also had plenty of time to write new material instead of going out and finding love (or lust or, really, whatever you're searching for — it's all valid!).
+
+
