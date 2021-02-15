@@ -27614,3 +27614,53 @@
 > The Xiaomi Mi 10T Lite (Image credit: TechRadar) While the Xiaomi Mi 11 Lite didn't land alongside the standard Xiaomi Mi 11 at the latter phone's launch event, the handset keeps leaking, suggesting it's still on the way, and the most recent leak takes the form of a high-quality render showing the design in full. Shared by Digital Chat Station (a leaker with a solid track record), this looks as though it might be an official press render. It shows a phone with a very similar design to the standard Xiaomi Mi 11, complete with a triple-lens camera on the back, a punch-hole camera on the front, and an overall near-identical look to its sibling.
 
 
+***
+![Twitter a goldmine for tracking consumer mood on prices, Bank of Italy finds](https://assets2.rappler.com/2020/09/twitter-shutterstock-1613385794348.jpg "Twitter a goldmine for tracking consumer mood on prices, Bank of Italy finds")
+
+
+[Twitter a goldmine for tracking consumer mood on prices, Bank of Italy finds](https://www.rappler.com/technology/social-media/twitter-goldmine-tracking-consumer-mood-prices-bank-of-italy)
+
+
+> The Bank of Italy said on Monday, February 15, a set of experimental indicators it created from the content of millions of tweets accurately tracked consumer mood on price, offering scope for a powerful new monetary policy tool. The effort comes as economists and policy-makers around the world increasingly turn to social media and other unconventional sources to measure consumer behavior and as inflation continues to defy targets set by many leading central banks. Researchers found their indicators, based on millions of tweets, not only tallied with final inflation read-outs and existing measures of price expectations by Italy's national statistics office, financial markets and other forecasters but were also in real-time and provided more granular detail.
+
+
+***
+![Samsung Galaxy F62 smartphone launched](https://photogallery.maharashtratimes.indiatimes.com/photo/80925149.cms "Samsung Galaxy F62 smartphone launched")
+
+
+[Samsung Galaxy F62 smartphone launched](https://photogallery.indiatimes.com/gadgets/phones/samsung-galaxy-f62-smartphone-launched/articleshow/80925149.cms)
+
+
+> /gadgets/phones/samsung-galaxy-f62-smartphone-launched/eventshow/80925149.cms Samsung launched its new smartphone Galaxy F62 in India - Photogallery Samsung launched its new smartphone Galaxy F62 in India. The handset is priced at Rs 23,999 for the 6GB RAM and 128GB internal storage variant and the 8GB RAM and 128GB internal storage variant comes with a price tag of Rs 25,999. The device will be available at select retail stores and major e-commerce websites from February 22. It will be available in three colours - laser blue, laser green and laser grey.
+
+
+***
+![PUBG Mobile Season 18 release date, upcoming features, and new map: Here is what we know](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/pubg_mobile_reuters_0-483x271_1200_210215170531.jpeg "PUBG Mobile Season 18 release date, upcoming features, and new map: Here is what we know")
+
+
+[PUBG Mobile Season 18 release date, upcoming features, and new map: Here is what we know](https://www.indiatoday.in/technology/news/story/pubg-mobile-season-18-release-date-upcoming-features-and-new-map-here-is-what-we-know-1769469-2021-02-15)
+
+
+> PUBG Mobile Season 17 Runic Power is currently available to play with several features but the next season will bring a new map over and above everything else. Shubham Verma | February 15, 2021 | Updated 16:58 IST
+
+
+***
+![You can see Moon and Mars conjunction AND Jupiter with the naked eye this week](https://www.thesun.co.uk/wp-content/uploads/2021/02/NINTCHDBPICT000622192834.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "You can see Moon and Mars conjunction AND Jupiter with the naked eye this week")
+
+
+[You can see Moon and Mars conjunction AND Jupiter with the naked eye this week](https://www.thesun.co.uk/tech/14051164/how-to-see-moon-and-mars-conjunction/)
+
+
+> STARGAZERS are in for a treat this week with the return of Jupiter as a pre-dawn 'star' and a conjunction between the Moon and Mars. This Thursday the waxing crescent Moon will appear about four degrees below Mars in the evening sky. You should be able to see Mars and Jupiter without a telescope this weekCredit: Splash News The Moon will be about 42%-lit, meaning Mars should shine bright enough to be visible with the naked eye. The Red Planet should look just like a bright star very close to the Moon.
+
+
+***
+![Xiaomi asks fans to choose between Best 120Hz LCD and AMOLED displays, deletes tweet after latter wins](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/roll1-483x271_1200_210215153444.jpeg "Xiaomi asks fans to choose between Best 120Hz LCD and AMOLED displays, deletes tweet after latter wins")
+
+
+[Xiaomi asks fans to choose between Best 120Hz LCD and AMOLED displays, deletes tweet after latter wins](https://www.indiatoday.in/technology/news/story/xiaomi-asks-fans-to-choose-between-best-120hz-lcd-and-amoled-displays-deletes-tweet-after-latter-wins-1769430-2021-02-15)
+
+
+> Xiaomi had anembarrassing moment on Twitter on Monday afternoon, when one of its polls didn't go as planned, forcing the smartphone maker to even delete the tweet. India Today Tech | February 15, 2021 | Updated 15:20 IST Close to 90 per cent users voted for an AMOLED display.
+
+
