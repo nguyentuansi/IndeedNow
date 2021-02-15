@@ -27420,3 +27420,53 @@
 > More than 93,000 cars across Australia have been urgently recalled over fears the engine could burst into flames - even when the car is off.A manufacturing error has been detected in 93,572 Hyundai Tuscons sold from November 2014 to November 2020, which could potentially result in death.An electronic control circuit board in the Anti-Lock Braking System has been found to short circuit when the components are exposed to moisture. Product Safety Australia said in a statement there is a risk of an engine compartment fire, even when the car is turned off, as the circuit is constantly powered.
 
 
+***
+![Bitcoin pulls back from brink of $50,000](https://assets2.rappler.com/2021/02/reuters-021521-bitcoin-1613359664218.jpg "Bitcoin pulls back from brink of $50,000")
+
+
+[Bitcoin pulls back from brink of $50,000](https://www.rappler.com/technology/bitcoin-pulls-back-from-brink-50000-thousand-dollars)
+
+
+> Bitcoin pulled back from a record high on Monday, February 15, and other cryptocurrencies slipped, as investors took profits from a record-breaking rally that had pushed bitcoin close to $50,000. Bitcoin fell as much as 5.6% to $45,914 in Asian trading hours after having posting a record peak of $49,714.66 on Sunday, while rival crypto ethereum slid more than 8%. Once on the fringes of finance, bitcoin is fast gaining legitimacy as an asset class and has leapt 20% in the week since electric carmaker Tesla Inc announced it had $1.
+
+
+***
+![ਸਰਕਾਰ ਨੂੰ ਅਸੀਂ ਫੁੱਲ ਦਿੱਤੇ ਸਨ...ਪਰ ਸਾਨੂੰ ‘ਫੂਲ' ਬਣਾਇਆ ਗਿਆ](https://static.jagbani.com/multimedia/2021_2image_09_35_320743455farmer-ll.jpg "ਸਰਕਾਰ ਨੂੰ ਅਸੀਂ ਫੁੱਲ ਦਿੱਤੇ ਸਨ...ਪਰ ਸਾਨੂੰ ‘ਫੂਲ' ਬਣਾਇਆ ਗਿਆ")
+
+
+[ਸਰਕਾਰ ਨੂੰ ਅਸੀਂ ਫੁੱਲ ਦਿੱਤੇ ਸਨ...ਪਰ ਸਾਨੂੰ ‘ਫੂਲ' ਬਣਾਇਆ ਗਿਆ](https://jagbani.punjabkesari.in/national/news/kisan-andolan--singhu-border--government--internet-1268828)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![10 Years Later: Pokemon Black and White's Top 10 Pokemon](https://techraptor.net/sites/default/files/styles/image_header/public/2020-09/Pokemon-Black-and-White-Wallpaper-82-images-.jpg?itok=0C-g2rbO "10 Years Later: Pokemon Black and White's Top 10 Pokemon")
+
+
+[10 Years Later: Pokemon Black and White's Top 10 Pokemon](https://techraptor.net/gaming/features/pokemon-black-white-top-ten)
+
+
+> Since the release of Pokemon Red & Blue in 1996 , Game Freak have followed the philosophy that if it ain't broke, don't fix it . They found a winning formula of catching, evolving, and battling a weird and wonderful variety of critters and have more or less stuck with it ever since. That's not to knock the games in the slightest. Many titles down the years have stood the test of time as influential, classic games. However, there have been some slight deviations from the norm. Pokemon Black and White  released 10 years ago on Sept.
+
+
+***
+![Tech giants 'close' to deals with Australian media](https://imagevars.gulfnews.com/2021/02/15/google-and-facebook_177a3d540d2_medium.jpg "Tech giants 'close' to deals with Australian media")
+
+
+[Tech giants 'close' to deals with Australian media](https://gulfnews.com/business/tech-giants-close-to-deals-with-australian-media-1.1613361502508)
+
+
+> Image Credit: Shutterstock Sydney: Google and Facebook are "very close" to deals with major Australian media to pay for news, a top government official said Monday, as the tech giants scramble to avoid landmark regulation. Australian Treasurer Josh Frydenberg said talks with Facebook CEO Mark Zuckerberg and Google CEO Sundar Pichai had made "great progress" in resolving a standoff being closely watched around the world. Australia is poised to adopt legislation that would force digital companies to pay for news content, something that would create a global precedent and, according to Facebook and Google, wreck the way the internet works.
+
+
+***
+![Uttarakhand glacier burst: Rescuers pull out 6 bodies from Tapovan tunnel; toll rises to 51](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/tapovan_505_150221083723.jpg "Uttarakhand glacier burst: Rescuers pull out 6 bodies from Tapovan tunnel; toll rises to 51")
+
+
+[Uttarakhand glacier burst: Rescuers pull out 6 bodies from Tapovan tunnel; toll rises to 51](https://www.businesstoday.in/latest/trends/uttarakhand-glacier-burst-rescuers-pull-out-6-bodies-from-tapovan-tunnel-toll-rises-to-51/story/431270.html)
+
+
+> Rescue operations continue at Tapovan Tunnel, following glacier burst in Joshimath causing a massive flood in the Dhauli Ganga river, in Chamoli district of Uttarakhand
+
+
