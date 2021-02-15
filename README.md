@@ -27517,3 +27517,50 @@
 > As the coronavirus spread, speculation about its origins was close behind
 
 
+***
+![Tech giants 'close' to deals with Australian media](https://static.bangkokpost.com/media/content/20210215/c1_3895135_700.jpg "Tech giants 'close' to deals with Australian media")
+
+
+[Tech giants 'close' to deals with Australian media](https://www.bangkokpost.com/tech/2068535/tech-giants-close-to-deals-with-australian-media)
+
+
+> Australia is poised to adopt legislation that would force digital companies to pay for news content -- creating a global precedent. SYDNEY: Google and Facebook are "very close" to deals with major Australian media to pay for news, a top government official said Monday, as the tech giants scramble to avoid landmark regulation. Australian Treasurer Josh Frydenberg said talks with Facebook CEO Mark Zuckerberg and Google CEO Sundar Pichai had made "great progress" in resolving a standoff being closely watched around the world.
+
+
+***
+![Maxis to release new Mesh WiFi solution for home fibre broadband on Feb 18](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/maxis-mesh-wifi-coming-hero_15022021-seo.jpg "Maxis to release new Mesh WiFi solution for home fibre broadband on Feb 18")
+
+
+[Maxis to release new Mesh WiFi solution for home fibre broadband on Feb 18](https://www.soyacincau.com/2021/02/15/maxis-home-fibre-broadband-new-mesh-wifi-coming-soon/)
+
+
+> Mesh WiFi routers are designed to help expand your home's WiFi network by minimising dead zones and to offer a seamless connection across your devices at home. — SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. PETALING JAYA, Feb 15 — Maxis has started teasing its upcoming hardware solution that promises to improve the WiFi experience at your home. This appears to be a new Mesh WiFi product which could replace its current AirTies Air4830 solution that's now offered for free on its higher-tier fibre broadband plans.
+
+
+***
+![5G in India, are we there yet?](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Screenshot_2021-02-15_at_1.29.-647x363.png?JWnzKEWuYQT2pnmhQ8ykv2OtYHKgpFTn "5G in India, are we there yet?")
+
+
+[5G in India, are we there yet?](https://www.indiatoday.in/technology/features/story/5g-in-india-are-we-there-yet-1769386-2021-02-15)
+
+
+> 5G has been a hot topic of discussion this year, with telecom giants Jio and Airtel announcing the plans for 5G in India, awaiting the spectrum auction slated for March 2021 and government approvals. However, the spectrum slated for March 1 this year does not include the desired frequency band for 5G services. As per recent discussions, the 5G network will not require a separate SIM and reports have noted that the transition to 5G will be different from earlier cellular generation shifts. According to Qualcomm, "5G wireless technology is meant to deliver higher multi-Gbps peak data speeds, ultra-low latency, more reliability, massive network capacity, increased availability, and a more uniform user experience to more users.
+
+
+***
+[EUR/USD Daily Outlook](https://www.actionforex.com/technical-outlook/eurusd-outlook/360091-eur-usd-daily-outlook-1052/)
+
+
+> Daily Pivots: (S1) 1.2089; (P) 1.2112; (R1) 1.2142; More… Intraday bias in EUR/USD remains neutral first. On the upside, break of 1.2148 temporary top will reaffirm the case that correction from 1.2348 has completed with three waves down to 1.1951. Intraday bias will be back on the upside for 1.2188 and then 1.2348 high. However, […] The post EUR/USD Daily Outlook appeared first on Action Forex.
+
+
+***
+![Health check: Smartphone app measures vital signs](https://ichef.bbci.co.uk/images/ic/400xn/p0960y42.jpg "Health check: Smartphone app measures vital signs")
+
+
+[Health check: Smartphone app measures vital signs](https://www.bbc.com/news/av/technology-55934009)
+
+
+> The coronavirus pandemic has seen a rise in innovative health focused technology. From an app which uses a device's camera to measure your vital signs to kit which could help doctors with a remote diagnosis, BBC Click's Lara Lewington looks at some of the latest technology. See more at Click's website and @BBCClick
+
+
