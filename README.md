@@ -27714,3 +27714,53 @@
 > The February futures of lead on the Multi Commodity Exchange (MCX), which has been moving in a sideways trend between ₹160 and ₹165, broke out of this range before a couple of weeks. Since then, it has gradually been moving upwards and is currently hovering around ₹170. The volume profile has been good over the past week i.e., it has been increasing steadily, signifying the strength of the uptrend.Corroborating the upward inclination, the daily relative strength index stays above the mid-point level of 50 and the moving average convergence divergence indicator on the daily chart is tracing an upward trajectory.
 
 
+***
+![Why China is investing heavily in blockchain](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/18/96018d0a-518d-11eb-ad83-255e1243236c_image_hires_210008.jpg?itok=Oqv1gowh&v=1610974817 "Why China is investing heavily in blockchain")
+
+
+[Why China is investing heavily in blockchain](https://www.scmp.com/tech/blockchain/article/3117745/what-blockchain-how-it-works-and-how-china-will-lead-world)
+
+
+> China is racing ahead to develop its own internet for blockchain and new blockchain solutions after a call from President Xi Jinping to invest in the technology. Unlike 5G and artificial intelligence, though, the US has shown little interest. Illustration: SCMP
+
+
+***
+![Bitcoin ‘lai see' could make cryptocurrency more accessible, says Hong Kong start-up](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/11/8caabeb4-6c0b-11eb-8f06-a7293cc48ccd_image_hires_200510.jpg?itok=0UxPsK_p&v=1613045121 "Bitcoin ‘lai see' could make cryptocurrency more accessible, says Hong Kong start-up")
+
+
+[Bitcoin ‘lai see' could make cryptocurrency more accessible, says Hong Kong start-up](https://www.scmp.com/tech/policy/article/3121474/hong-kong-fintech-start-hopes-bitcoin-paper-envelope-will-broaden)
+
+
+> Hugo Zheng, manager of ixFintech, demonstrates the paper wallets containing QR codes to buy bitcoin. Photo: Felix Wong
+
+
+***
+![G2A](https://techraptor.net/sites/default/files/styles/image_header/public/imports/2017/03/g2a-logo.jpg?itok=A9mjl7xS "G2A")
+
+
+[G2A](https://techraptor.net/gaming/editorials/g2a-dont-believe-their-half-truths)
+
+
+> G2A is pretty smart. They know that because they often have the best deals on games, people are going to buy from them. Most people don't care about what buying from G2A does or think about why the deal is too good to be true. A good deal is a good deal. G2A has become the king of responses that say nothing while openly attacking those accusing of them of wrongdoing or otherwise criticizing their business practices. This has happened yet again in their recent dealings with Gearbox Software. G2A's response to Gearbox's list of demands does all that while taking the opportunity to try to beef up their own reputation.
+
+
+***
+![New Tesla Roadster Patent Shows Wild Windshield Wiper Design](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/qddo1ihaow70kgu-y5xdksoafrlsv4q-5lncobcmkimiw2rhbph-rg8nogdyciuw5uasoxy9dzw819voarzamb-mqcko2tpmprwakwjifjz348fhsouchopxmkz41gnx8gzxwz0ppgiow8hl8g8vs8ikn3yrkwwz3ipysrvkr0mrfd9hvaghr_he7_rbbqed.png "New Tesla Roadster Patent Shows Wild Windshield Wiper Design")
+
+
+[New Tesla Roadster Patent Shows Wild Windshield Wiper Design](https://www.benzinga.com/tech/21/02/19662808/new-tesla-roadster-patent-shows-wild-windshield-wiper-design)
+
+
+> Tesla Inc's (NASDAQ: TSLA ) Roadster is already set to be the quickest supercar on the market, with a 0-60 time below the 1.99 seconds of the already record-setting Model S Plaid. CEO Elon Musk has also said he wants the car to be able to hover up to 6 feet in the air for short periods of time. Now a new patent shared by Teslarati shows even the windshield wipers will have a design never before seen. The wiper will be electromagnetic and have one giant blade on a rail. This would allow one giant wiper blade to move from one side of the windshield to the other, clearing the entire windshield of rain.
+
+
+***
+![Hero-U: Rogue to Redemption Review](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/hero-u-rogue-to-redemption-switch-hero.jpg?itok=guDVKcZ7 "Hero-U: Rogue to Redemption Review")
+
+
+[Hero-U: Rogue to Redemption Review](https://techraptor.net/gaming/reviews/hero-u-rogue-to-redemption-nintendo-switch-review)
+
+
+> Hero-U: Rogue to Redemption is an old school game at heart. All its depth and subtlety comes from traditional storytelling and the implementation of simple mechanics in creative ways. In many ways, it feels more like a Choose Your Own Adventure book than a typical video game, something to the credit of creators Corey and Lori Cole. Decision-making is at the heart of everything: you micromanage your time and how to approach each scenario the game throws your way. The actions you choose, including a wide variety of dialogue options, have an impact on the storyline and how NPCs interact with you.
+
+
