@@ -27664,3 +27664,53 @@
 > Xiaomi had anembarrassing moment on Twitter on Monday afternoon, when one of its polls didn't go as planned, forcing the smartphone maker to even delete the tweet. India Today Tech | February 15, 2021 | Updated 15:20 IST Close to 90 per cent users voted for an AMOLED display.
 
 
+***
+![This is what a 'targeted' stimulus check means, and how it could affect your payment](https://cnet4.cbsistatic.com/img/9m2fW7_jhfHqX04WfaPRctIi5PY=/1200x630/2021/02/05/6f24eee2-e0a2-4ea7-bf87-ecc779da3655/044-cash-money-stimulus-checks-bill-passed-congress-1400-dollars-payment-target-supplement-bullseye-2021-biden.jpg "This is what a 'targeted' stimulus check means, and how it could affect your payment")
+
+
+[This is what a 'targeted' stimulus check means, and how it could affect your payment](https://www.cnet.com/personal-finance/this-is-what-a-targeted-stimulus-check-means-and-how-it-could-affect-your-payment/)
+
+
+> A targeted stimulus check means some people could get $1,400 per person and others could get nothing. Sarah Tew/CNET While senators were embroiled in the impeachment trial of former President Donald Trump, the House of Representatives made significant strides on settling the portion of the $1.9 trillion stimulus package that contains a third stimulus check. If no further changes are made -- and last-minute adjustments are always a possibility -- a $1,400 stimulus payment would include a major recalculation.
+
+
+***
+![Honda dealers want a full-size SUV and an AWD sedan, report says](https://cnet3.cbsistatic.com/img/9vNGGPNeoV4YiW8odk1YLWf2XtE=/1200x630/2021/02/12/a91ab2f3-279b-44c1-a599-56bead1869a6/pilot-ogi.jpg "Honda dealers want a full-size SUV and an AWD sedan, report says")
+
+
+[Honda dealers want a full-size SUV and an AWD sedan, report says](https://www.cnet.com/roadshow/news/honda-dealers-full-size-suv-awd-sedan/)
+
+
+> What, not big enough for ya? Honda Honda has a pretty robust lineup of cars, from compact crossovers to sporty hatchbacks to a minivan and even a midsize truck. But dealers still say there's room for growth and are specifically asking for a full-size SUV and an all-wheel-drive sedan."As far as holes in the product lineup, [one place] where we'd like to see product is something larger than the current-generation Pilot," William Feinstein, chairman of Honda's national dealer advisory board, told Automotive News in an interview last week.
+
+
+***
+![Aura Air launches a pair of air purifiers for at home and on the go](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/aura-air-lifestyle.jpeg "Aura Air launches a pair of air purifiers for at home and on the go")
+
+
+[Aura Air launches a pair of air purifiers for at home and on the go](https://www.imore.com/aura-air-smart-air-purifier-launch)
+
+
+> Source: Aura Air Aura Air has announced the launch of the Aura Air and Aura Air Mini air purifiers. Aura Air purifier includes smart app controls, while the smaller Aura Air Mini is portable with a built-in battery. Both purifiers are now available directly from Aura Air, with prices starting at $179. Aura Air has announced the release of the company's personal Aura Air and Aura Air Mini air purifiers. Previously available only through crowd-funding campaigns, the Aura Air features multi-stage air filtration and smart app controls, while the smaller, Aura Air Mini packs in a rechargeable battery for portable use.
+
+
+***
+![AirDrop not working? Here's how to troubleshoot!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/airdrop-on-ios-14.jpg "AirDrop not working? Here's how to troubleshoot!")
+
+
+[AirDrop not working? Here's how to troubleshoot!](https://www.imore.com/how-to-fix-airdrop-iphone-ipad)
+
+
+> Source: Luke Filipowicz / iMore AirDrop lets you wirelessly beam almost anything from your iPhone, iPad, or Mac to any other recent Apple device. It uses Bluetooth 4.x for power-efficient broadcast and discovery, and peer-to-peer Wi-Fi for speedy transfer. Transferring files to your different Apple devices is part of what makes using the best iPhone, iPad, or Mac so painless. The entire process isn't just simple, it's incredibly secure... when it works. That's right, even though we raved about how stable and amazing Apple's newest batch of software is in our iOS 14 review, all software can malfunction at times.
+
+
+***
+![Commodity call: MCX-Lead might extend the rally](https://www.thehindubusinessline.com/portfolio/technical-analysis/c5t4l7/article33843515.ece/ALTERNATES/LANDSCAPE_615/BL16MCXLeadcol "Commodity call: MCX-Lead might extend the rally")
+
+
+[Commodity call: MCX-Lead might extend the rally](https://www.thehindubusinessline.com/portfolio/technical-analysis/commodity-call-mcx-lead-might-extend-the-rally/article33843516.ece)
+
+
+> The February futures of lead on the Multi Commodity Exchange (MCX), which has been moving in a sideways trend between ₹160 and ₹165, broke out of this range before a couple of weeks. Since then, it has gradually been moving upwards and is currently hovering around ₹170. The volume profile has been good over the past week i.e., it has been increasing steadily, signifying the strength of the uptrend.Corroborating the upward inclination, the daily relative strength index stays above the mid-point level of 50 and the moving average convergence divergence indicator on the daily chart is tracing an upward trajectory.
+
+
