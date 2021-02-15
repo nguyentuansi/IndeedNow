@@ -27858,3 +27858,53 @@
 > As if modern dating wasn't exhausting enough, now singles worry about "Fauci-ing" someone.  Dr. Anthony Fauci, chief medical advisor to President Biden, has been working to curb the spread of the devastating COVID-19 pandemic for the past year. He's become the de facto face of the government response to the virus, advocating for mask wearing and social distancing measures, informing the public about reopening timelines, and now, weighing in on American dating.  The term "Fauci-ing" was coined by dating site Plenty of Fish, and supposedly involves cutting someone off for not taking social distancing measures seriously enough.
 
 
+***
+![TechnipFMC Completes Separation of Two Industry-Leading, Independent, Publicly Traded Companies](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "TechnipFMC Completes Separation of Two Industry-Leading, Independent, Publicly Traded Companies")
+
+
+[TechnipFMC Completes Separation of Two Industry-Leading, Independent, Publicly Traded Companies](https://www.benzinga.com/pressreleases/21/02/b19664884/technipfmc-completes-separation-of-two-industry-leading-independent-publicly-traded-companies)
+
+
+> Regulatory News: TechnipFMC (NYSE: FTI ) (PARIS: FTI) (ISIN:GB00BDSFG982) TechnipFMC today announced the completion of its spin-off transaction to create two industry leading, independent, publicly traded companies, TechnipFMC and Technip Energies. In connection with the separation, the Technip Energies technical reference price was set at €9.00 ahead of its direct listing on the Euronext Paris Exchange where it will trade under the symbol "TE". 1 Doug Pferdehirt, Chairman and CEO of TechnipFMC, stated: "I am delighted to announce the successful completion of the separation transaction.
+
+
+***
+![Samsung Galaxy F62 Launched In India With The Note 10's Exynos 9825 Processor, 7000 mAh Battery](https://sm.mashable.com/t/mashable_in/photo/default/samsung-galaxy-f62_pbkw.1200.jpg "Samsung Galaxy F62 Launched In India With The Note 10's Exynos 9825 Processor, 7000 mAh Battery")
+
+
+[Samsung Galaxy F62 Launched In India With The Note 10's Exynos 9825 Processor, 7000 mAh Battery](https://in.mashable.com/tech/20303/samsung-galaxy-f62-launched-in-india-with-the-note-10s-exynos-9825-processor-7000-mah-battery)
+
+
+> Samsung today announced the Galaxy F62, a new mid-range smartphone for the Indian market. The device's specs are headlined by a massive 7,000mAh battery and an Exynos 9825 processor. The offering starts at an asking price of INR 23,999, a sweet-spot for the Indian mid-range market. The Galaxy F62 launches on 22nd February on Flipkart.com for an asking price of INR 23,999 for the 6GB RAM and 128GB internal storage variant. Those wanting the 8GB RAM variant will have to shell out INR 25,999. Meaning better performance, longer battery life, a smoother experience and a life that's faster than ever! Own yours now, starting at ₹23999.
+
+
+***
+![Acer adds a powerful Core i3 processor to its Chromebook](https://cnet4.cbsistatic.com/img/H_kTaUaqEH5NXwO93UL3WOJrTHo=/1200x630/2014/04/29/15d8c96a-a5c6-4830-99fc-61ea7d7f1177/acer-chromebook-intel-core-i3-photos01.jpg "Acer adds a powerful Core i3 processor to its Chromebook")
+
+
+[Acer adds a powerful Core i3 processor to its Chromebook](https://www.cnet.com/reviews/acer-chromebook-intel-core-i3-preview/)
+
+
+> The current generation of Chromebooks may shift a little in terms of price and features, but they're largely cut from the same cloth. Our current favorite is actually the 11-inch Acer C720p, which includes a reasonably priced touchscreen. Briefly shown off by Acer is a new model that may reset Chromebook expectations. Instead of the Intel Celeron processor found in most models, this upcoming version will have an Intel Core i3 CPU. The only other model to offer a Core i-series CPU is the Google Chromebook Pixel, which costs $1,299.
+
+
+***
+![Sony takes the folding-screen Flip line smaller with the Vaio Fit 11A Flip PC](https://cnet3.cbsistatic.com/img/fh0TL_ZYo16QxGVagSAWEJv2SAc=/868x488/2014/01/02/e24c06b4-84ca-11e3-beb9-14feb5ca9861/Fit_11A_Hero08_B_Pen_starts8-1.jpg "Sony takes the folding-screen Flip line smaller with the Vaio Fit 11A Flip PC")
+
+
+[Sony takes the folding-screen Flip line smaller with the Vaio Fit 11A Flip PC](https://www.cnet.com/reviews/sony-vaio-fit-11a-flip-pc-preview/)
+
+
+> Sony LAS VEGAS -- Hybrids come in many shapes and sizes as PC makers struggle to figure out the best way to combine the practicality of a laptop with the potability of a tablet. Some have screens that bend over backward, others detach their displays, and still others slide or swivel their screens around. One of the more interesting late-2012 versions was the Sony Vaio Flip line , which literally split is display panel horizontally down the middle. The lid folds back along that line, allowing the screen to tilt back, either to a kiosk mode, with the screen pointing out from the back of the system and away from the keyboard and touch pad, or with the lid pushed shut to form a slate-style tablet.
+
+
+***
+![The cheapest Presidents Day sales under $50](https://cdn.mos.cms.futurecdn.net/2Xt8FvPnRaoH9YzaKWrfDX-1200-80.jpg "The cheapest Presidents Day sales under $50")
+
+
+[The cheapest Presidents Day sales under $50](https://www.techradar.com/news/the-cheapest-presidents-day-sales-under-dollar50)
+
+
+> (Image credit: Future) The Presidents' Day sales are now well underway, and while you'll find plenty of laptops, TVs, and high-end gadgets discounted right now, there's also a massive range of more budget-friendly deals up for grabs as well.  From fitness trackers to headphones, kitchen appliances to security cameras, there are plenty of Presidents' Day sales hitting the under $50 price range this week. The Samsung Galaxy Buds are sitting at just $49.99 (was $129.99) , for example, and you'll even find a Razer Kraken gaming headset available for $39.
+
+
