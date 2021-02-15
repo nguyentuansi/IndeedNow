@@ -27564,3 +27564,53 @@
 > The coronavirus pandemic has seen a rise in innovative health focused technology. From an app which uses a device's camera to measure your vital signs to kit which could help doctors with a remote diagnosis, BBC Click's Lara Lewington looks at some of the latest technology. See more at Click's website and @BBCClick
 
 
+***
+![Chevy Finally Reveals What Its Bolt EUV With Hands-Free Driving Looks Like!](https://sm.mashable.com/t/mashable_in/news/c/chevy-fina/chevy-finally-reveals-what-its-bolt-euv-with-hands-free-driv_4wn3.1200.jpg "Chevy Finally Reveals What Its Bolt EUV With Hands-Free Driving Looks Like!")
+
+
+[Chevy Finally Reveals What Its Bolt EUV With Hands-Free Driving Looks Like!](https://in.mashable.com/tech/20268/chevy-finally-reveals-what-its-bolt-euv-with-hands-free-driving-looks-like)
+
+
+> The Chevy Bolt EUV was revealed Sunday and it looks like a pumped-up Chevy Bolt EV.  On the Chevy website, the new Bolt EUV electric car was unveiled during a 15-minute video, pre-recorded at Walt Disney World in Florida. The EUV is an SUV-sized version of the smaller hatchback Chevy Bolt with more legroom in the backseat. "EUV" stands for "electric utility vehicle" which is Chevy's play on SUV as it markets a tougher, heftier EV. The Bolt EV came out in 2017 as the first all-electric vehicle from General Motors, which now plans to produce only EVs by 2035 .
+
+
+***
+![Snag a refurbished MacBook for a steal this Presidents Day](https://mondrian.mashable.com/2021%252F02%252F15%252Ffb%252F7bbedeba589a4c6e9cbd8021dcef62dd.d6693.jpg%252F1200x630.jpg?signature=iSPya5eTDVP0YC1GFfxoZoe1JLg= "Snag a refurbished MacBook for a steal this Presidents Day")
+
+
+[Snag a refurbished MacBook for a steal this Presidents Day](https://mashable.com/shopping/feb-15-presidents-day-sale-refurbished-macbooks/)
+
+
+> Whether your kids are in need of new supplies for schooling at home, you need a backup computer to handle your extended screen time for work, or you're just looking for something to binge all six seasons of Schitt's Creek , a refurbished MacBook is a solid option. These computers have been tested and overhauled to work well and last. In honor of Presidents Day, you can snag a refurbished MacBook, MacBook Pro, or MacBook Air for a steal for a limited time. Just be sure to check all the details before making your pick.
+
+
+***
+![MacBook Pro (M1) review: Baby's first content creation machine](https://sm.mashable.com/t/mashable_me/review/m/macbook-pr/macbook-pro-m1-review-babys-first-content-creation-machine_1qnr.1200.jpg "MacBook Pro (M1) review: Baby's first content creation machine")
+
+
+[MacBook Pro (M1) review: Baby's first content creation machine](https://me.mashable.com/tech/12897/macbook-pro-m1-review-babys-first-content-creation-machine)
+
+
+> With Apple's in-house M1 chip now on the scene, the fine line between its MacBook Air and MacBook Pro has become a little blurry.  The MacBook Pro, traditionally equipped with the lineup's beefiest processor and capable of handling intense professional tasks, has up to now been Apple's top-tier laptop offering. But its status is somewhat in limbo thanks to a recent 13-inch Pro refresh featuring the company's M1 chip — a processor that just so happens to also be running under the hood of the company's latest Air.
+
+
+***
+![Pillagers Of Tropical Forests Can't Hide Behind Clouds Anymore](https://media.npr.org/assets/img/2021/02/12/gettyimages-474928137_wide-c434977a8be689c674292b7e4031d3b42085a62a.jpg?s=1400 "Pillagers Of Tropical Forests Can't Hide Behind Clouds Anymore")
+
+
+[Pillagers Of Tropical Forests Can't Hide Behind Clouds Anymore](https://www.npr.org/2021/02/15/967377462/pillagers-of-tropical-forests-cant-hide-behind-clouds-anymore)
+
+
+> Deforested land on Indonesia's Borneo Island. Activists are using satellites to monitor deforestation, but cloud cover sometimes hides it from view. Bay Ismoyo/AFP via Getty Images The world continues to lose millions of acres of its most valuable tropical forests each year. But defenders of those forests have just deployed a new tool in their struggle to stop it - or at least alert the world when it's happening. It's an upgrade of a system called Global Forest Watch, created by the World Resources Institute.
+
+
+***
+![Xiaomi Mi 11 Lite leak suggests a similar design to the Mi 11, with one big difference](https://cdn.mos.cms.futurecdn.net/oGVSQhHhHnU4rDnFWwJYr9-1200-80.jpg "Xiaomi Mi 11 Lite leak suggests a similar design to the Mi 11, with one big difference")
+
+
+[Xiaomi Mi 11 Lite leak suggests a similar design to the Mi 11, with one big difference](https://www.techradar.com/news/xiaomi-mi-11-lite-leak-suggests-a-similar-design-to-the-mi-11-with-one-big-difference)
+
+
+> The Xiaomi Mi 10T Lite (Image credit: TechRadar) While the Xiaomi Mi 11 Lite didn't land alongside the standard Xiaomi Mi 11 at the latter phone's launch event, the handset keeps leaking, suggesting it's still on the way, and the most recent leak takes the form of a high-quality render showing the design in full. Shared by Digital Chat Station (a leaker with a solid track record), this looks as though it might be an official press render. It shows a phone with a very similar design to the standard Xiaomi Mi 11, complete with a triple-lens camera on the back, a punch-hole camera on the front, and an overall near-identical look to its sibling.
+
+
