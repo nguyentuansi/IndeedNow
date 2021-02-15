@@ -27323,3 +27323,53 @@
 > Happy Valentine's Day! Everyone's favorite Hallmark holiday is back, and performative love is in the air once again. It's in our timelines, too. The annual love holiday always brings out social media's various peanut galleries, but 2021 is a special case because it's our first Valentine's during the U.S. era of COVID-19. We've all been cooped up in our homes for the better part of a year, which means we've also had plenty of time to write new material instead of going out and finding love (or lust or, really, whatever you're searching for — it's all valid!).
 
 
+***
+![Bullet Points](https://techraptor.net/sites/default/files/styles/image_header/public/imports/http%3A//techraptor.net/wp-content/uploads/2016/04/Berserk-header_5.png?itok=VQT4aADd "Bullet Points")
+
+
+[Bullet Points](https://techraptor.net/originals/bullet-points-souls-series-love-of-berserk)
+
+
+> Published: Thursday, April 14, 2016 - 11:00 | By: Perry Ruhland Home TR Originals Bullet Points - The Souls Series' Love of Berserk Through four games (five, if you count Bloodborne ) in the Souls series, a few things have stayed consistent with Hidetaka Miyazaki's difficult action RPGs. From  Demon's Souls  to  Dark Souls III , there are a handful of elements you can expect to see in each and every one of his works. There'll be punishing difficulty, an excess of strange monsters, and there will always, without fail, be a handful of references to  Berserk .
+
+
+***
+![Hades: The Myths Behind the Weapons](https://techraptor.net/sites/default/files/styles/image_header/public/2020-10/Hades%20Infernal%20Arms%20Mythology.jpg?itok=4McYupZT "Hades: The Myths Behind the Weapons")
+
+
+[Hades: The Myths Behind the Weapons](https://techraptor.net/gaming/features/hades-weapons-mythology-meaning)
+
+
+> Every good hero needs his or her arsenal of weapons, and Zagreus in Supergiant Games' Hades is no exception. Gifted the weapons by none other than the mythological Achilles, they are the tools you use to break Zagreus out of the Underworld . And, much like everything else in the game, they are steeped in ancient mythology. So, we sat down to take a look at the weapons and see how far back we could trace their mythological origins and inspirations. Hades - Stygius, the Stygian Blade Origins & Meaning One of the starting weapons of Hades , the adjective Stygian means 'of or relating to the River Styx.
+
+
+***
+![Review: Android 10  on the Nintendo Switch  is just as messy and awesome as it sounds](https://fdn.gsmarena.com/imgroot/news/21/02/nintendo-switch-android-10/-476x249w4/gsmarena_001.jpg "Review: Android 10  on the Nintendo Switch  is just as messy and awesome as it sounds")
+
+
+[Review: Android 10  on the Nintendo Switch  is just as messy and awesome as it sounds](https://www.gsmarena.com/android_10_is_now_available_for_the_nintendo_switch_and_its_just_as_messy_and_awesome_as_it_sounds-news-47704.php)
+
+
+> It will hardly come as a surprise that us geek folk over at GSMArena love the Nintendo Switch. Less surprising still is the fact that we love Android. Put the two together, sprinkle-in a hefty dose of tinkering and you get a janky "fusion" recipe that is just hard to pass by. Running LineageOS on Nintendo's amazingly popular handheld/home console is actually nothing new. A bunch of amazing people who refer to themselves as the switchroot group have been working hard on getting alternative platforms running on exploitable Nintendo Switch units, including Ubuntu, forks of LineageOS, originating from the Nvidia Shield TV branches of Android.
+
+
+***
+![Rumored DJI FPV drone revealed in full in unboxing video](https://cdn.mos.cms.futurecdn.net/SLfHVUB8e5PJtxsX5BSLFU-1200-80.jpg "Rumored DJI FPV drone revealed in full in unboxing video")
+
+
+[Rumored DJI FPV drone revealed in full in unboxing video](https://www.techradar.com/news/rumored-dji-fpv-drone-revealed-in-full-in-unboxing-video)
+
+
+> (Image credit: @OsitaLV) We've been hearing a lot about a DJI FPV (first-person-view) drone over the last few months, with leaked images and news of its US registration in December sparking rumors that DJI is making a new kind of drone.It seems those rumors may now well be true after an unboxing video of the DJI FPV drone leaked on Twitter, spilling a lot of its design secrets. The only thing we don't know is how well the upcoming quadcopter flies and what its exact specs are.full version is here https://t.
+
+
+***
+![How to watch The Luminaries online: stream the entire miniseries from anywhere now](https://cdn.mos.cms.futurecdn.net/ktou4CXm9VTeJGpcqQ3e69-1200-80.jpg "How to watch The Luminaries online: stream the entire miniseries from anywhere now")
+
+
+[How to watch The Luminaries online: stream the entire miniseries from anywhere now](https://www.techradar.com/news/how-to-watch-the-luminaries-online-free-stream-anywhere)
+
+
+> (Image credit: BBC) Based on Eleanor Catton's epic, complex Man Booker Prize-winning novel of the same name, The Luminaries is an other-worldly murder mystery love story that follows Anna Wetherell (Eve Hewson) as she voyages alone to New Zealand's South Island in search of a new life during the 1860s West Coast Gold Rush, only to be dragged into a vortex of love, greed and fickle fortune. Read on as we explain how to watch The Luminaries online and stream every episode, no matter where you are in the world right now.
+
+
