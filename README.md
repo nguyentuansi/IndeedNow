@@ -27811,3 +27811,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Python in Plain English](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Python in Plain English")
+
+
+[Python in Plain English](https://www.reddit.com/r/Python/comments/lklt7f/python_in_plain_english/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Valheim Sales Hit 2 Million In Its Second Week](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Valheim%20Sales%20Second%20Week%20cover.jpg?itok=zdgiPM6z "Valheim Sales Hit 2 Million In Its Second Week")
+
+
+[Valheim Sales Hit 2 Million In Its Second Week](https://techraptor.net/gaming/news/valheim-sales-hit-2-million-in-its-second-week)
+
+
+> Published: Monday, February 15, 2021 - 13:34 | By: Robert N. Adams Home Gaming Gaming News Valheim Sales Hit 2 Million In Its Second Week 2 Million Vikings and Counting Valheim  sales and its player count have both continued to grow at a surprisingly fast pace — the Viking-themed survival crafting game has crossed two million copies sold on Steam and it's not even the game's second week. If you haven't yet played  Valheim , you're missing out on what may very well be one of the best survival crafting games created in recent memory.
+
+
+***
+![No, Diablo 2's Second Expansion Was Not an MMO](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Diablo%202%20MMO%20ARPG%20cover.jpg?itok=3EWpIqfv "No, Diablo 2's Second Expansion Was Not an MMO")
+
+
+[No, Diablo 2's Second Expansion Was Not an MMO](https://techraptor.net/gaming/news/no-diablo-2s-second-expansion-was-not-mmo)
+
+
+> Published: Monday, February 15, 2021 - 14:56 | By: Robert N. Adams Home Gaming Gaming News No, Diablo 2's Second Expansion Was Not an MMO The Diablo That Never Was Former Blizzard North President David Brevik recently talked about a second  Diablo 2  expansion that was never made. Unfortunately, there's some confusion that it was going to be an MMORPG, but that's simply not the case. David Brevik is a man with a solid history in game design, serving as one of the co-founders of the  Diablo  developer Blizzard North and the company's President for a time.
+
+
+***
+[Archives maildir emails…](https://www.reddit.com/r/Python/comments/lklqp9/archives_maildir_emails/)
+
+
+> Before I embark on another project to do in my ample spare time⸮ Do you fine folks know of any Python email archiving software to take a maildir and split out all the mails that are older than a year into a Maildir/archive/YYYY/whatever mailbox? Basically, I want all email that are at least a year old. After that, they can be archives per year. Mailbox could be actually quiet handy in doing that. Ages ago, there was archivemail but it only exports to mbox and is woefully out of date since support seems to have vanished.
+
+
+***
+![Dr. Fauci weighs in on new dating term 'Fauci-ing'](https://mondrian.mashable.com/2021%252F02%252F15%252F1f%252Fe2e52fe2ebf849559837efdd0e9ad75f.bc271.jpg%252F1200x630.jpg?signature=A2moKxtjs_V6QTb5yHg52Kor968= "Dr. Fauci weighs in on new dating term 'Fauci-ing'")
+
+
+[Dr. Fauci weighs in on new dating term 'Fauci-ing'](https://mashable.com/article/fauci-dating-term/)
+
+
+> As if modern dating wasn't exhausting enough, now singles worry about "Fauci-ing" someone.  Dr. Anthony Fauci, chief medical advisor to President Biden, has been working to curb the spread of the devastating COVID-19 pandemic for the past year. He's become the de facto face of the government response to the virus, advocating for mask wearing and social distancing measures, informing the public about reopening timelines, and now, weighing in on American dating.  The term "Fauci-ing" was coined by dating site Plenty of Fish, and supposedly involves cutting someone off for not taking social distancing measures seriously enough.
+
+
