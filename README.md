@@ -27373,3 +27373,50 @@
 > (Image credit: BBC) Based on Eleanor Catton's epic, complex Man Booker Prize-winning novel of the same name, The Luminaries is an other-worldly murder mystery love story that follows Anna Wetherell (Eve Hewson) as she voyages alone to New Zealand's South Island in search of a new life during the 1860s West Coast Gold Rush, only to be dragged into a vortex of love, greed and fickle fortune. Read on as we explain how to watch The Luminaries online and stream every episode, no matter where you are in the world right now.
 
 
+***
+![Looking for newbie programmers to learn programming/data science together](https://external-preview.redd.it/-XzznTODft9Kl1xVhzHPuj7UHGBjCsEh7su3uuw98ss.jpg?auto=webp&s=819d888309108eb5903e7feef5d867397a3b9212 "Looking for newbie programmers to learn programming/data science together")
+
+
+[Looking for newbie programmers to learn programming/data science together](https://www.reddit.com/r/Python/comments/lk33yr/looking_for_newbie_programmers_to_learn/)
+
+
+> I am a newbie at programming and I am trying to build a career around it... Looking for teammates to learn, practice and grow together! This is a project I have started yesterday. I am trying to build a visualizer for various path finding algorithms! https://github.com/ss892714028/Maze-PathFinder-Visualization-Python This is a project I used to work on in school. I tried to use only Numpy to implement various machine learning algorithms! https://github.com/ss892714028/MachineLearningAlgorithmsWi
+
+
+***
+![Apple approached Nissan over autonomous car project but talks have ended: FT](https://i-invdn-com.akamaized.net/news/LYNXMPEA610V5_L.jpg "Apple approached Nissan over autonomous car project but talks have ended: FT")
+
+
+[Apple approached Nissan over autonomous car project but talks have ended: FT](https://www.investing.com/news/technology-news/apple-approached-nissan-recently-over-autonomous-car-project-talks-have-ended-ft-2418626)
+
+
+> 2/2 © Reuters. FILE PHOTO: The Apple Inc logo is seen hanging at the entrance to the Apple store on 5th Avenue in New York 2/2 (Reuters) - Apple Inc (NASDAQ:) approached Japan's Nissan (OTC:) Motor Co Ltd in recent months about a tie-up for its autonomous car project, but the talks ended after disagreement over branding, the Financial Times reported https://on.ft.com/3jMzXei. The contact was brief and the discussions did not advance to senior management level, the report added, citing people briefed on the matter.
+
+
+***
+![Removing a computer from iCloud](https://images.macrumors.com/social/?t=2284711&v=6 "Removing a computer from iCloud")
+
+
+[Removing a computer from iCloud](https://forums.macrumors.com/threads/removing-a-computer-from-icloud.2284711/)
+
+
+> Hi All, Just curious, if I remove one of my laptops from my iCloud account, how do I re-add it at another time? Also, do you all keep all of your Mac products connected on your iCloud account? Are there any pros/negatives to doing so? Thanks!
+
+
+***
+[drone data systems](https://www.itwire.com/freelancer-sp-720/tag/drone%20data%20systems.html)
+
+
+> Australian-listed drone data systems provider Delta Drone has expanded operations into Zambia to deliver a specialised agricultural project for multinational agriculture services company, Syngenta.
+
+
+***
+![Fears Hyundai Tuscon could burst into flames when off sparks warning](https://images.perthnow.com.au/publication/00E23699B559F88926AED4B0FA814466/1612486464495_G8534R04M.1-2.jpeg.jpg?imwidth=1024 "Fears Hyundai Tuscon could burst into flames when off sparks warning")
+
+
+[Fears Hyundai Tuscon could burst into flames when off sparks warning](https://www.news.com.au/technology/motoring/motoring-news/fears-hyundai-tuscon-could-burst-into-flames-when-off-sparks-warning/news-story/00e23699b559f88926aed4b0fa814466)
+
+
+> More than 93,000 cars across Australia have been urgently recalled over fears the engine could burst into flames - even when the car is off.A manufacturing error has been detected in 93,572 Hyundai Tuscons sold from November 2014 to November 2020, which could potentially result in death.An electronic control circuit board in the Anti-Lock Braking System has been found to short circuit when the components are exposed to moisture. Product Safety Australia said in a statement there is a risk of an engine compartment fire, even when the car is turned off, as the circuit is constantly powered.
+
+
