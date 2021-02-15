@@ -27470,3 +27470,50 @@
 > Rescue operations continue at Tapovan Tunnel, following glacier burst in Joshimath causing a massive flood in the Dhauli Ganga river, in Chamoli district of Uttarakhand
 
 
+***
+![ISRO and MapmyIndia join hands for a rival to Google Maps](https://cdn.mos.cms.futurecdn.net/3tpnAF2bHsyWSRf52ue4xQ-1200-80.jpg "ISRO and MapmyIndia join hands for a rival to Google Maps")
+
+
+[ISRO and MapmyIndia join hands for a rival to Google Maps](https://www.techradar.com/news/isro-and-mapmyindia-join-hands-for-a-rival-to-google-maps)
+
+
+> Home-grown navigation solutions provider MapmyIndia is partnering with the Indian Space Research Organisation (ISRO) to create an alternative to Google Maps, which itself is trying to get Indian with its transliteration efforts in local languages.The Department of Space (DoS), under which ISRO comes, signed an MoU with geospatial technology company CE Info Systems Pvt Ltd, which MapmyIndia owns.Through the combined partnership with ISRO, MapmyIndia's end user maps, apps and services will now integrate with ISRO's huge catalogue of satellite imagery and earth observation data, a MapmyIndia statement said.
+
+
+***
+![Fastly](https://cdn.mos.cms.futurecdn.net/VVqHEuFPVKWm3yr8kyGF7L-1200-80.jpg "Fastly")
+
+
+[Fastly](https://www.techradar.com/reviews/fastly)
+
+
+> San Francisco-based Fastly is a versatile cloud company with a lengthy roster of big-name customers: New York Times, Spotify, Github, Kickstarter, Ticketmaster, Deliveroo and more.Fastly's CDN follows the simpler-than-most Cloudflare-like reverse proxy model. Instead of giving you a ‘cdn.mydomain.com' address where you can store specific files, Fastly routes all website traffic through its servers. To make this work you must update the CNAME record for your site with the domain registrar, but after that it ‘just works', no website code changes required.
+
+
+***
+![Clubhouse may be leaking data to Chinese government, says Stanford report](https://image-prod.iol.co.za/resize/6960x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/45d63ab9-2069-500b-a2e5-b442bc5bbb68&operation=CROP&offset=0x366&resize=6960x3915 "Clubhouse may be leaking data to Chinese government, says Stanford report")
+
+
+[Clubhouse may be leaking data to Chinese government, says Stanford report](https://www.iol.co.za/technology/mobile/clubhouse-may-be-leaking-data-to-chinese-government-says-stanford-report-9c9cc61c-f9fc-41f5-a722-59ec2c8c1b5f)
+
+
+> New Delhi - As invite-only audio chat app Clubhouse becomes popular globally including in India, researchers at Stanford University in the US have warned that the app may be leaking users' audio data to the Chinese government.The Stanford Internet Observatory (SIO) has confirmed that Agora, a Shanghai-based provider of real-time engagement software, supplies back-end infrastructure to the Clubhouse app."The SIO has determined that a user's unique Clubhouse ID number and chatroom ID are transmitted in plaintext, and Agora would likely have access to users' raw audio, potentially providing access to the Chinese government," the researchers said in a blog post.
+
+
+***
+![SolarWinds Hack Was 'Largest and Most Sophisticated Attack' Ever: Microsoft](https://i.gadgets360cdn.com/large/solarwinds_sunny_reuters_1609993271837.jpg "SolarWinds Hack Was 'Largest and Most Sophisticated Attack' Ever: Microsoft")
+
+
+[SolarWinds Hack Was 'Largest and Most Sophisticated Attack' Ever: Microsoft](https://gadgets.ndtv.com/internet/news/solarwinds-hack-microsoft-president-brad-smith-largest-most-sophisticated-us-treasure-justice-commerce-department-2370754)
+
+
+> A hacking campaign that used a US tech company as a springboard to compromise a raft of US government agencies is "the largest and most sophisticated attack the world has ever seen," Microsoft President Brad Smith said.The operation, which was identified in December and that the US government has said was likely orchestrated by Russia, breached software made by SolarWinds, giving hackers access to thousands of companies and government offices that used its products.The hackers got access to emails at the US Treasury, Justice and Commerce departments and other agencies.
+
+
+***
+[The superspreaders behind top COVID-19 conspiracy theories](https://www.mymotherlode.com/news/technology/1543028/the-superspreaders-behind-top-covid-19-conspiracy-theories.html)
+
+
+> As the coronavirus spread, speculation about its origins was close behind
+
+
