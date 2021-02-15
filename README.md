@@ -27764,3 +27764,50 @@
 > Hero-U: Rogue to Redemption is an old school game at heart. All its depth and subtlety comes from traditional storytelling and the implementation of simple mechanics in creative ways. In many ways, it feels more like a Choose Your Own Adventure book than a typical video game, something to the credit of creators Corey and Lori Cole. Decision-making is at the heart of everything: you micromanage your time and how to approach each scenario the game throws your way. The actions you choose, including a wide variety of dialogue options, have an impact on the storyline and how NPCs interact with you.
 
 
+***
+![Opinions on best way to manage logging in Python CLI utilities](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Opinions on best way to manage logging in Python CLI utilities")
+
+
+[Opinions on best way to manage logging in Python CLI utilities](https://www.reddit.com/r/Python/comments/lkj52j/opinions_on_best_way_to_manage_logging_in_python/)
+
+
+> Hello everyone. I'm using Python mainly to write simple CLI utilities for my job (automation, web scraping, etc.). These utilities write on the standard output by using print statements (e.g. when parsing my retail banking website, I want my utility to print the amount for the next installment of my mortgage). I'm ok with this. Now, I'm looking for some opinions around logging when developing CLI scripts. INFO, DEBUG, ERROR I have no issues with the levels. Specifically shall I always include one or more options to force a specific log level (e.
+
+
+***
+[Parler says it is now accessible for existing users and will accept new signups from next week, announces Tea Party activist Mark Meckler as interim CEO (Adi Robertson/The Verge)](http://www.techmeme.com/210215/p11#a210215p11)
+
+
+> Adi Robertson / The Verge: Parler says it is now accessible for existing users and will accept new signups from next week, announces Tea Party activist Mark Meckler as interim CEO — An Amazon suspension shut it down in January — The alternative social network Parler has reopened after a month offline.
+
+
+***
+![If Apple has a March 2021 Event, here's what I'd love to see...](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/09/tim-cook-apple-park-background.png "If Apple has a March 2021 Event, here's what I'd love to see...")
+
+
+[If Apple has a March 2021 Event, here's what I'd love to see...](https://www.imore.com/if-apple-has-march-2021-event-heres-what-id-love-see)
+
+
+> Apple's March events vary… a lot… A lot a lot. In the last five years alone, we got the iPhone SE and 9.7-inch iPad Pro in 2016. Nothing in 2017. iPad and education in 2018. Apple News+, Card, Arcade, and TV+ in 2019. And more nothing in 2020. Because 2020. But a new iPhone SE and A12Z iPad Pro shipped anyway. So, what about this year? You know the drill. Logo. Speed ramp. Drone shot. Apple Park. Transition. Steady Cam. Rapid zoom. Tim Cook. Good Morning! And then… what exactly? Source: iMore Maybe Tim stays on camera, or maybe we cut across to Eddy Cue, Senior Vice President of services.
+
+
+***
+![Will WandaVision episode 7 feature Reed Richards of the Fantastic Four?](https://cdn.mos.cms.futurecdn.net/cuNNfATRmYc6TzwF4xdYSE-1200-80.jpg "Will WandaVision episode 7 feature Reed Richards of the Fantastic Four?")
+
+
+[Will WandaVision episode 7 feature Reed Richards of the Fantastic Four?](https://www.techradar.com/news/will-wandavision-episode-7-feature-reed-richards-of-the-fantastic-four)
+
+
+> Spoilers for WandaVision's most recent episode follow, as well as potential spoilers for upcoming episodes.WandaVision has already given us one massive surprise in Pietro Maximoff returning from the dead, this time played by the X-Men movies' Evan Peters. But could the first MCU show on Disney Plus have an even bigger cameo in its back pocket for its remaining three episodes?Speculation is rife that Monica Rambeau (Teyonah Parris) will meet her "aerospace engineer" contact this week, who's been teased across the past two episodes, and that it'll turn out to be someone big from the Marvel comics.
+
+
+***
+![Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem](https://external-preview.redd.it/4gvnnFRn5uWxxoeXRegW0lquxWSKszSg-9oxYDCZb8I.jpg?auto=webp&s=bee56845a7b23b2ee508573284becfd36c27026f "Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem")
+
+
+[Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem](https://www.reddit.com/r/technology/comments/lkiyez/microsoft_azure_and_canonical_ubuntu_linux_have_a/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
