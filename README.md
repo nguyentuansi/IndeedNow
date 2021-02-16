@@ -28002,3 +28002,53 @@
 > The right-wing friendly social network Parler says it's re-launching
 
 
+***
+![Investing in AI with a conscience](https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/16/ST_20210216_LWAI_6328626.jpg?itok=QRxL3typ "Investing in AI with a conscience")
+
+
+[Investing in AI with a conscience](https://www.straitstimes.com/tech/investing-in-ai-with-a-conscience-0)
+
+
+> SINGAPORE - Local start-up BasisAI is preparing to go regional with "responsible" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA). BasisAI's machine-learning Bedrock solution serves as a cyber auditor of AI algorithms by making their decision-making processes more transparent, and helping data scientists identify when an algorithm might be unfairly biased. The company recently partnered Facebook and IMDA to mentor 12 other start-ups in the Asia-Pacific region to prototype ethical and efficient AI algorithms in a six-month programme that ended last month.
+
+
+***
+![Motorola Moto E7 Power to launch in India on February 19: Here is everything we know so far](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-11_at_4_1200_210216092012.35._3-483x271.png "Motorola Moto E7 Power to launch in India on February 19: Here is everything we know so far")
+
+
+[Motorola Moto E7 Power to launch in India on February 19: Here is everything we know so far](https://www.indiatoday.in/technology/news/story/motorola-moto-e7-power-to-launch-in-india-on-february-19-here-is-everything-we-know-so-far-1769634-2021-02-16)
+
+
+> The India launch date of Motorola Moto E7 Power was confirmed through a listing on Flipkart. Ankita Chakravarti | February 16, 2021 | Updated 09:08 IST
+
+
+***
+![TikTok's Chinese parent company ditches plans to sell app's US operations: report](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/AP20301651833297-1.jpg?ve=1&tl=1 "TikTok's Chinese parent company ditches plans to sell app's US operations: report")
+
+
+[TikTok's Chinese parent company ditches plans to sell app's US operations: report](https://nypost.com/2021/02/15/bytedance-reportedly-scraps-deal-to-sell-tiktok-to-oracle/)
+
+
+> TikTok's Chinese parent company has scrapped its plans to sell the video-sharing app's US operations, according to a new report. Ticker Security Last Change Change % WMT WALMART INC. 144.47 +0.45 +0.31% ORCL ORACLE CORPORATION 63.08 +0.38 +0.61% Beijing-based tech giant ByteDance has shelved its proposed deal with American firms Oracle and Walmart now that former President Donald Trump is out of office, the South China Morning Post reported Sunday. Trump's departure from the White House took away the impetus for the deal given that he was the one who threatened to ban TikTok in the US unless ByteDance sold the app's American operations, the Hong Kong-based newspaper says.
+
+
+***
+![Is Hatch or Sharesies better?](https://resources.stuff.co.nz/content/dam/images/4/y/q/a/p/f/image.related.StuffLandscapeSixteenByNine.1420x800.21zdnd.png/1613448272324.jpg "Is Hatch or Sharesies better?")
+
+
+[Is Hatch or Sharesies better?](https://www.stuff.co.nz/technology/reviewsfire/124262617/is-hatch-or-sharesies-better)
+
+
+> This article was first published at reviewsfire.com. Is Hatch or Sharesies better? It's all dependent on how much you want to invest. Sharesies is cheaper for investments under $500; Hatch is cheaper for investments over $500. Digital investment platforms make investing simple. They appeal to anyone who is looking to invest money. In New Zealand, two of the main digital investment platforms are Hatch and Sharesies. Both of these platforms allow people to invest in opportunities in New Zealand and the United States, but it can be tricky figuring out which one is better for you.
+
+
+***
+![Realme Race flagship teased again, now with Nissan GT-R model to confirm GT name](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_logo_1_1200x768_1-483x271_1200_210216092006.jpeg "Realme Race flagship teased again, now with Nissan GT-R model to confirm GT name")
+
+
+[Realme Race flagship teased again, now with Nissan GT-R model to confirm GT name](https://www.indiatoday.in/technology/news/story/realme-race-flagship-teased-again-now-with-nissan-gt-r-model-to-confirm-gt-name-1769635-2021-02-16)
+
+
+> Realme has posted a photo of a Nissan GT-R car model that straightaway confirms the Race will be called GT. Shubham Verma | February 16, 2021 | Updated 09:11 IST Representational image
+
+
