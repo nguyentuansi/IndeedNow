@@ -28052,3 +28052,50 @@
 > Realme has posted a photo of a Nissan GT-R car model that straightaway confirms the Race will be called GT. Shubham Verma | February 16, 2021 | Updated 09:11 IST Representational image
 
 
+***
+![Stimulus check shake-up for dependents: A third payment could bring huge change](https://cnet2.cbsistatic.com/img/_GnYXZaVYeVcAxKP-QohX6KXjac=/1200x630/2021/02/01/dcba37e3-ff1d-4d89-8381-14586f4f2349/stimulus-check-economic-impack-payment-statue-of-liberty-checks-2382.jpg "Stimulus check shake-up for dependents: A third payment could bring huge change")
+
+
+[Stimulus check shake-up for dependents: A third payment could bring huge change](https://www.cnet.com/personal-finance/stimulus-check-shake-up-for-dependents-a-third-payment-could-bring-huge-change/)
+
+
+> Who Congress considered a dependent for stimulus checks could dramatically change. Here's how it works. Angela Lang/CNET House Democrats are filling in the details on President Joe Biden's $1.9 trillion stimulus package proposal with the goal of wrapping up their work on the bill by the end of the month before sending to the Senate and then finally on to Biden, for a signature before federal benefits expire. That's the goal, anyway, and in light of it, lawmakers have already settled on the majority of details for a third stimulus check for up to $1,400, including several significant changes to the qualifications for dependents.
+
+
+***
+![Python 3.7.10 and 3.6.13 security updates now available](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Python 3.7.10 and 3.6.13 security updates now available")
+
+
+[Python 3.7.10 and 3.6.13 security updates now available](https://www.reddit.com/r/Python/comments/lkx6qq/python_3710_and_3613_security_updates_now/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Many Small Queries Are Efficient in SQLite](https://sqlite.org/np1queryprob.html)
+
+
+> Many Small Queries Are Efficient In SQLite 200 SQL statements per webpage is excessive for client/server database engines like MySQL, PostgreSQL, or SQL Server. But with SQLite, 200 or more SQL statement per webpage is not a problem. SQLite can also do large and complex queries efficiently, just like client/server databases. But SQLite can do many smaller queries efficiently too. Application developers can use whichever technique works best for the task at hand. The Appropriate Uses For SQLite page says that dynamic pages on the SQLite website typically do about 200 SQL statements each.
+
+
+***
+![Nokia 5.4 review: Buy it if clean software is priority](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/nokia_5.4_it_2-647x363.jpeg?.uIRpwRoxDcQnJfuouJgV8lUQ.hcxfZI "Nokia 5.4 review: Buy it if clean software is priority")
+
+
+[Nokia 5.4 review: Buy it if clean software is priority](https://www.indiatoday.in/technology/reviews/story/nokia-5-4-review-buy-it-if-clean-software-is-priority-1769681-2021-02-16)
+
+
+> Nokia brand licensee HMD Global has kicked off its 2021 innings in India with two phones, the Nokia 5.4 and the Nokia 3.4. The former is the big brother here. It has mostly better specifications than what you get on Nokia 3.4, and it is also the next upgrade over last year's Nokia 5.3. Now, Nokia 5.3 was a pretty decent phone for its price, which was Rs 13,999. And interestingly, the new Nokia 5.4 costs the same, in what could be HMD's attempt in making the phone more appealing than it already is.
+
+
+***
+![How to delete website shortcuts?](https://images.macrumors.com/social/?t=2284851&v=6 "How to delete website shortcuts?")
+
+
+[How to delete website shortcuts?](https://forums.macrumors.com/threads/how-to-delete-website-shortcuts.2284851/)
+
+
+> Jun 20, 2009 470 32 New Mexico Ok, I was visiting a web site and did "share" and then "Add to Homescreen" which of course put a nifty little icon on the home screen, which I can tap to instantly open that website. However, now I want to delete that little icon and can't figure out how. WHen I press the icons and they start to wiggle, this particular icon does not have an X to delete it. I've searched Google and saw were there were ways to do this on older ios, but how to do it on iOS 14? Anyone know? Thanks in advance.
+
+
