@@ -28293,3 +28293,53 @@
 > February 16, 2021 09:00 AM Eastern Standard Time PASADENA, Calif.--(BUSINESS WIRE)--Supplyframe today announced additional sessions of its Executive Insights series, its popular series of virtual roundtable events that brings together executive leaders, experts, partners, and professionals to discuss the most important topics facing global electronics today. This interactive series caters to sourcing, procurement, and sales and marketing professionals at distributors, electronic manufacturing services (EMS) organizations, manufacturers, and suppliers.
 
 
+***
+![The West has been staggeringly complicit in Beijing's rare earth dominance](https://www.telegraph.co.uk/content/dam/news/2019/01/31/TELEMMGLPICT000163669893_trans_NvBQzQNjv4BqP4pV-m6laGcMQMbuKYgJGRAi9QsRfzh9VHt38cYMhuU.jpeg?impolicy=logo-overlay "The West has been staggeringly complicit in Beijing's rare earth dominance")
+
+
+[The West has been staggeringly complicit in Beijing's rare earth dominance](https://www.telegraph.co.uk/technology/2021/02/16/west-has-staggeringly-complicit-beijings-rare-earth-dominance/)
+
+
+> With the US chips down, Beijing is hitting back. That's one way of looking at news that, almost two years after the Trump administration began restricting supplies of advanced silicon chips to its rival superpower, China is considering export controls of the rare earth metals vital to two industries of global strategic importance - defence and renewable energy.  The metals are only needed in tiny quantities by comparison to other commodities - according to the US geological survey , the value of the rare earths America imported last year was just $110m (£79m).
+
+
+***
+![MPs sign up to Clubhouse app despite Chinese security concerns](https://www.telegraph.co.uk/content/dam/technology/2021/02/08/TELEMMGLPICT000250505059_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "MPs sign up to Clubhouse app despite Chinese security concerns")
+
+
+[MPs sign up to Clubhouse app despite Chinese security concerns](https://www.telegraph.co.uk/technology/2021/02/16/mps-sign-clubhouse-app-despite-chinese-security-concerns/)
+
+
+> MPs are flocking to an invite-only social network that is grappling with moderating hate speech and facing concerns over its security. Clubhouse, an audio-only social network where users can listen in on chats with Silicon Valley personalities, has seen a surge in popularity in the UK. The app allows users to listen to podcast-like chats where they can be invited to ask questions or join into conversations. It has become popular with Silicon Valley glitterati such as Elon Musk and features Mark Zuckerberg and billionaire Silicon Valley investors among its users.
+
+
+***
+!['Most healthcare apps not up to NHS standards'](https://ichef.bbci.co.uk/news/1024/branded_news/1442D/production/_116998928_gettyimages-1220059468.jpg "'Most healthcare apps not up to NHS standards'")
+
+
+['Most healthcare apps not up to NHS standards'](https://www.bbc.com/news/technology-56083231)
+
+
+> By Zoe Kleinman Technology reporter image copyright Getty Images A firm which reviews healthcare apps for several NHS trusts says 80% of them do not meet its standards. Failings include poor information, lack of security updates and insufficient awareness of regulatory requirements, said Orcha chief executive Liz Ashall-Payne. The firm's reviews help determine whether an app should be recommended to patients by NHS staff. There are about 370,000 health-related apps available online, Orcha said. App developers can categorise their apps themselves and the ones reviewed by the firm include those tagged health, fitness and medical.
+
+
+***
+![Socket Mobile Is A Lucrative Buy (NASDAQ:SCKT)](https://static.seekingalpha.com/uploads/2016/11/8/681960-14786426307991595.png "Socket Mobile Is A Lucrative Buy (NASDAQ:SCKT)")
+
+
+[Socket Mobile Is A Lucrative Buy (NASDAQ:SCKT)](https://seekingalpha.com/article/4021522-socket-mobile-is-lucrative-buy)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Accenture Acquires UK-Based Infinity Works To Bolster Its Cloud And Engineering Competences](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Accenture Acquires UK-Based Infinity Works To Bolster Its Cloud And Engineering Competences")
+
+
+[Accenture Acquires UK-Based Infinity Works To Bolster Its Cloud And Engineering Competences](https://www.benzinga.com/m-a/21/02/19668115/accenture-acquires-uk-based-infinity-works-to-bolster-its-cloud-and-engineering-competences)
+
+
+> Accenture Acquires Ecommerce Platform Operator Businet System Accenture And Salesforce To Embed ESG Goals In Cloud Technologies Benzinga's Top Upgrades, Downgrades For January 6, 2021
+
+
