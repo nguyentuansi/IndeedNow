@@ -28443,3 +28443,53 @@
 > The Galaxy Note 20 series are two of the best Android phones right now. If you're already a fan of the Note lineup, then you'll have a lot to be excited about with the new generation. If you aren't a fan, you should be. The phones have all the latest from Samsung, including a powerful Qualcomm Snapdragon 865+ processor, a triple camera setup, 5G connectivity, and a new and improved S Pen stylus. Being brand new, these phones are going to set you back a penny or two, but we're on top of that. We've got every place you can find the Note 20 (or the Note 20 Ultra) and every deal available right now.
 
 
+***
+![The BenQ X1300i is the first gaming projector built for the PS5 and Xbox Series X](https://cdn.mos.cms.futurecdn.net/K24cHhqQGcHZCsgXXm73tQ-1200-80.jpg "The BenQ X1300i is the first gaming projector built for the PS5 and Xbox Series X")
+
+
+[The BenQ X1300i is the first gaming projector built for the PS5 and Xbox Series X](https://www.techradar.com/news/the-benq-x1300i-is-the-first-gaming-projector-built-for-the-ps5-and-xbox-series-x)
+
+
+> (Image credit: BenQ) BenQ is releasing a new gaming projector that should make anyone with a PS5 or Xbox Series X – as limited of a population as that may be – very excited.  Dubbed the BenQ X1300i and announced toward the end of last year in the UK, the latest 4LED beamer from BenQ has a native 1080p resolution at 120Hz with 4K HDR compatibility and a seriously impressive 8.3ms of latency. In terms of specs, BenQ says the X1300i puts out over 3,000 lumens and has a 500,000:1 contrast ratio. That, the company says, helps the X1300i cover 98% of the Rec709 color space.
+
+
+***
+![Data Immutability, Verifiability and Integrity without the Blockchain overhead](https://external-preview.redd.it/oZF-wPfbqQZ6GLJy9v_MzzOar_pWLq9VRrohSzwt-O4.jpg?auto=webp&s=44605656dc00bc598ddf3037dceefb0be7a6f36e "Data Immutability, Verifiability and Integrity without the Blockchain overhead")
+
+
+[Data Immutability, Verifiability and Integrity without the Blockchain overhead](https://www.reddit.com/r/programming/comments/llets6/data_immutability_verifiability_and_integrity/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![TradeZero Co-Founder Talks Volatility, Added Value: 'The Best Trading Experience Wins'](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/pexels-photo-2422278.jpeg "TradeZero Co-Founder Talks Volatility, Added Value: 'The Best Trading Experience Wins'")
+
+
+[TradeZero Co-Founder Talks Volatility, Added Value: 'The Best Trading Experience Wins'](https://www.benzinga.com/fintech/21/02/19665495/tradezero-co-founder-talks-volatility-added-value-the-best-trading-experience-wins)
+
+
+> In recent weeks, brokers like Robinhood came under scrutiny for limiting trade in GameStop Corporation (NYSE: GME ), AMC Entertainment Holdings Inc (NYSE: AMC ) and Koss Corporation (NASDAQ: KOSS ), among other stocks.  In light of the volatility and market's response to the controversial decision to limit trade, Benzinga spoke with Dan Pipitone, co-founder at TradeZero , a trading technology and brokerage firm.  About TradeZero: TradeZero is a holistic solution for the beginner and advanced market participant.
+
+
+***
+![One Small Step For Mankind, One Giant Leap For Space X](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/pexels-pixabay-256152.jpg "One Small Step For Mankind, One Giant Leap For Space X")
+
+
+[One Small Step For Mankind, One Giant Leap For Space X](https://www.benzinga.com/tech/21/02/19686913/one-small-step-for-mankind-one-giant-leap-for-space-x)
+
+
+> Space Exploration Technologies Corp, or SpaceX, is another gem in Elon Musk's collection, but is not "just" an aerospace manufacturer and space transportation company. It was initially founded to make the colonization of Mars possible by reducing space transportation costs. That has remained as the final destination of SpaceX's Falcon rockets. But until we reach Mars, SpaceX has another promising project called Starlink, a satellite internet service consisting of thousands of mass-produced satellites in low Earth orbit providing internet access.
+
+
+***
+![12 Information Technology Stocks Moving In Tuesday's After-Market Session](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "12 Information Technology Stocks Moving In Tuesday's After-Market Session")
+
+
+[12 Information Technology Stocks Moving In Tuesday's After-Market Session](https://www.benzinga.com/after-hours-center/21/02/19689329/12-information-technology-stocks-moving-in-tuesdays-after-market-session)
+
+
+> Cornerstone OnDemand (NASDAQ: CSOD ) stock increased by 9.61% to $50.71 during Tuesday's after-market session. Cornerstone OnDemand's trading volume hit 3.8K shares by close, accounting for 0.95% of its average volume over the last 100 days. The market value of their outstanding shares is at $3.2 billion. As per the news, the Q4 earnings report came out today. Cemtrex (NASDAQ: CETX ) shares increased by 8.2% to $2.9. Cemtrex's trading volume hit 48.3K shares by close, accounting for 2.84% of its average volume over the last 100 days.
+
+
