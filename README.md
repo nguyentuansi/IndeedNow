@@ -28099,3 +28099,53 @@
 > Jun 20, 2009 470 32 New Mexico Ok, I was visiting a web site and did "share" and then "Add to Homescreen" which of course put a nifty little icon on the home screen, which I can tap to instantly open that website. However, now I want to delete that little icon and can't figure out how. WHen I press the icons and they start to wiggle, this particular icon does not have an X to delete it. I've searched Google and saw were there were ways to do this on older ios, but how to do it on iOS 14? Anyone know? Thanks in advance.
 
 
+***
+![Carl Pei's Nothing takes over Essential](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-16_at_10_1200_210216104420.16-483x271.png "Carl Pei's Nothing takes over Essential")
+
+
+[Carl Pei's Nothing takes over Essential](https://www.indiatoday.in/technology/news/story/carl-pei-s-nothing-takes-over-essential-1769656-2021-02-16)
+
+
+> Carl Pei's startup Nothing has taken over by a one-time smartphone brand Essential owned Andy Rubin. Ankita Chakravarti | February 16, 2021 | Updated 10:25 IST
+
+
+***
+![Hyundai Motor's electric bus catches fire in South Korea](https://assets2.rappler.com/2021/02/reuters-20210216-hyundai-2021-02-08T041045Z_615101582_RC24OL9LMIBT_RTRMADP_3_AUTOS-TECH-APPLE-HYUNDAI-MOTOR-1613455258199.jpg "Hyundai Motor's electric bus catches fire in South Korea")
+
+
+[Hyundai Motor's electric bus catches fire in South Korea](https://www.rappler.com/technology/hyundai-motor-electric-bus-catches-fire-south-korea)
+
+
+> An electric bus manufactured by Hyundai Motor Company caught fire on Monday, February 15, while in use in South Korea, a fire official said on Tuesday, months after similar fires in electric cars led to a recall to inspect batteries. No one was injured in the incident, which occurred as the empty bus was returning to the garage after an inspection, an official at the Fire Service Headquarters in the southeastern city of Changwon said. The maker of the batteries in the bus has not been identified, the fire official said, but local media reports said the Elec City bus was powered by LG Chem's wholly owned battery division LG Energy Solution's batteries.
+
+
+***
+![NASA wants to fly a helicopter on Mars for the first time](https://imagevars.gulfnews.com/2021/02/16/2021216-ingenuity_177a94204ec_medium.jpg "NASA wants to fly a helicopter on Mars for the first time")
+
+
+[NASA wants to fly a helicopter on Mars for the first time](https://gulfnews.com/technology/nasa-wants-to-fly-a-helicopter-on-mars-for-the-first-time-1.1613452658570)
+
+
+> NASA depicts the Ingenuity helicopter on Mars after launching from the Perseverance rover, background left. Image Credit: AP Washington: More than a century after the first powered flight on Earth, NASA intends to prove it's possible to replicate the feat on another world. Transported aboard the Mars 2020 spacecraft that arrives at the Red Planet on Thursday, the small Ingenuity helicopter will have several challenges to overcome - the biggest being the rarefied Martian atmosphere, which is just one percent the density of Earth's.
+
+
+***
+![Sony may soon launch FX3 cinema camera with support for 4K videos at 120fps](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/fx0-483x271_1200_210216123515.jpeg "Sony may soon launch FX3 cinema camera with support for 4K videos at 120fps")
+
+
+[Sony may soon launch FX3 cinema camera with support for 4K videos at 120fps](https://www.indiatoday.in/technology/news/story/sony-may-soon-launch-fx3-cinema-camera-with-support-for-4k-videos-at-120fps-1769710-2021-02-16)
+
+
+> Sony can soon expand its line-up of cinema cameras with the launch of Sony FX3. The images of this new camera have recently been leaked. India Today Tech | February 16, 2021 | Updated 12:16 IST The top body of the camera features the three standard tripod screws and large recording button. (Image Source - Nokoshita and Joe Lawry)
+
+
+***
+![Elon Musk invites Vladimir Putin for a conversation on Clubhouse, Kremlin calls it interesting](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-16_at_10_1200_210216110521.58-483x271.png "Elon Musk invites Vladimir Putin for a conversation on Clubhouse, Kremlin calls it interesting")
+
+
+[Elon Musk invites Vladimir Putin for a conversation on Clubhouse, Kremlin calls it interesting](https://www.indiatoday.in/technology/news/story/elon-musk-invites-vladimir-putin-for-a-conversation-on-clubhouse-kremlin-calls-it-interesting-1769676-2021-02-16)
+
+
+> Tesla CEO Elon Musk has invited the Russian President for a discussion on the audio-only app, Clubhouse. Putin's spokesperson noted that the proposal is interesting but the Kremlin needs to first understand what is meant and what is proposed. India Today Tech | February 16, 2021 | Updated 11:01 IST (Picture: Reuters)
+
+
