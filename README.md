@@ -27955,3 +27955,50 @@
 > Parler, which asserted it once had over 20 million users, said it would bring its current users back online in the first week and would be open to new users the next week. — Reuters pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 16 ― Parler, a social media service popular with American right-wing users that virtually vanished after the US Capitol riot, re-launched yesterday and said its new platform was built on 'sustainable, independent technology.
 
 
+***
+![Really want to get into Data Science using python.](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Really want to get into Data Science using python.")
+
+
+[Really want to get into Data Science using python.](https://www.reddit.com/r/Python/comments/lkt10l/really_want_to_get_into_data_science_using_python/)
+
+
+> Really want to get into Data Science using python. Does anyone have any free resources I can use to get started? Such as setting up my machines and the basic flow of how things work.
+
+
+***
+![Can someone help with my StackOverflow question?](https://external-preview.redd.it/QgPvRTknlY3rMNDqH1k4I37XGiq9tZF_FsygC_Xht4o.jpg?auto=webp&s=8cd5e918e2bde6ca72d4445d6fc007f203689799 "Can someone help with my StackOverflow question?")
+
+
+[Can someone help with my StackOverflow question?](https://www.reddit.com/r/programming/comments/lkszmi/can_someone_help_with_my_stackoverflow_question/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Cache poisoning in popular open source packages](https://external-preview.redd.it/F6plivtP7KUPsTfaNfna6-ep0bHu6e8lRdQ9lGQ4oNg.jpg?auto=webp&s=faad5fa474740080ad74166c74cebc28df2168b0 "Cache poisoning in popular open source packages")
+
+
+[Cache poisoning in popular open source packages](https://www.reddit.com/r/programming/comments/lksxs0/cache_poisoning_in_popular_open_source_packages/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Best Buy offering up to free 6 months of Apple Music, News+, and Fitness+](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/apple_fitnessplus-strength-workout_12142020.jpg "Best Buy offering up to free 6 months of Apple Music, News+, and Fitness+")
+
+
+[Best Buy offering up to free 6 months of Apple Music, News+, and Fitness+](https://www.imore.com/best-buy-offering-free-6-months-apple-music-news-and-fitness)
+
+
+> Source: Apple Best Buy is offering free trials of Apple Music, Apple News+, and Apple Fitness+. There are free six month trails for Apple Music and Apple News+ as well as two months for Apple Fitness+. Best Buy routinely runs special offers for different Apple services, and the offers it is currently running are some of the best we've seen for Apple Music, Apple Fitness+, and Apple News+. While Apple Music has seen three and four-month promotions from platforms like Shazam and TikTok, Best Buy has one-upped them all by offering six months of the service for free.
+
+
+***
+[Right-wing friendly Parler announces re-launch](https://www.mymotherlode.com/news/technology/1544264/right-wing-friendly-parler-announces-re-launch.html)
+
+
+> The right-wing friendly social network Parler says it's re-launching
+
+
