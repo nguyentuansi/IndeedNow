@@ -28246,3 +28246,50 @@
 > February 16, 2021   01:50 pm - Prof. Channa Jayasumana has been appointed as the Acting Cabinet Minister of Health, says the President's Media Division (PMD). He is also the State Minister of Production, Supply and Regulation of Pharmaceuticals. Prof. Jayasumana will serve in his new portfolio until Minister of Health Pavithra Wanniarachchi, who is under medical care for Covid-19, returns to duty. In the meantime, State Minister Roshan Ranasinghe was appointed as the State Minister of Provincial Councils and Local Government Affairs.
 
 
+***
+[GBPUSD gives up gains on the day. Trades lower on the day.](https://www.forexlive.com/technical-analysis/!/gbpusd-gives-up-gains-on-the-day-20210216)
+
+
+> GBPUSD has been up 7 of the last 8 trading days. The GBPUSD it is not a given up its gains for the day and trades in the red. The pair closed yesterday at 1.3901. The GBPUSD has been up 7 last 8 trading days.   The high today did extend to 1.39508 which was good for the highest level since April
+
+
+***
+![India Setting Up Digital Intelligence Unit To Arrest Telecallers, Fraud Calls](https://im.indiatimes.in/content/2021/Feb/Facebook-Image-93_602b9b84d48a0.jpg "India Setting Up Digital Intelligence Unit To Arrest Telecallers, Fraud Calls")
+
+
+[India Setting Up Digital Intelligence Unit To Arrest Telecallers, Fraud Calls](https://www.indiatimes.com/technology/news/india-digital-intelligence-unit-telecallers-fraud-calls-534447.html)
+
+
+> With the rise of all things online, cybercrime is also growing -- whether its the fraudulent calls asking for OTPs or telecallers who can be really annoying at times. To help tackle this rising menace, telecom ministry has announced the setting up of an intelligence unit as well as a consumer protection system to prevent these annoying calls. PTIReported first by PTI, in a recent meeting, Chief Minister of Communications, Ravi Shankar Prasad and other officials looked at ways to address rising concerns of harassment consumers over calls or messages by telecallers and fraudsters.
+
+
+***
+![Review: Box and kick box with the best of them with FightCamp](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/fightcamp_hero.jpg "Review: Box and kick box with the best of them with FightCamp")
+
+
+[Review: Box and kick box with the best of them with FightCamp](https://www.imore.com/fightcamp-review)
+
+
+> Source: Nicolette Roux / iMore I've put a lot of research into finding the best connected fitness equipment available on the market today and FightCamp is one of my favorites overall. FightCamp is a boxing and kick boxing program designed for total body fitness. It blends body punches, defensive moves, plyometric sprints, and body-weight exercises to build ever-changing combinations that will keep your mind engaged and your body guessing. You'll train with some of the top boxers in the business and there are hundreds of different workouts, drills, and tutorials to choose from.
+
+
+***
+![The Teracube 2e is sustainable, affordable, and now available for purchase](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/teracube-2e-hero-1.jpg "The Teracube 2e is sustainable, affordable, and now available for purchase")
+
+
+[The Teracube 2e is sustainable, affordable, and now available for purchase](https://www.androidcentral.com/teracube-2e-now-available-us-and-canada)
+
+
+> Source: Jeramy Johnson / Android Central The Teracube 2e is now available for purchase in the U.S. and Canada. This is the company's second sustainably-focused smartphone. The device will retail for $199. With electronic waste quickly becoming a growing environmental and economic concern, many consumers have started looking for alternatives to help them jump off the constant hamster wheel of phone upgrades. Some are holding onto their devices longer, while others are looking for signals from manufacturers like Apple and Samsung that they are taking these environmental issues seriously.
+
+
+***
+![Supplyframe Expands Executive Insights Virtual Roundtable Series](https://mms.businesswire.com/media/20210216005022/en/810757/23/4389824_SF_Logo_Black_highres.jpg "Supplyframe Expands Executive Insights Virtual Roundtable Series")
+
+
+[Supplyframe Expands Executive Insights Virtual Roundtable Series](https://www.businesswire.com/news/home/20210216005022/en/Supplyframe-Expands-Executive-Insights-Virtual-Roundtable-Series)
+
+
+> February 16, 2021 09:00 AM Eastern Standard Time PASADENA, Calif.--(BUSINESS WIRE)--Supplyframe today announced additional sessions of its Executive Insights series, its popular series of virtual roundtable events that brings together executive leaders, experts, partners, and professionals to discuss the most important topics facing global electronics today. This interactive series caters to sourcing, procurement, and sales and marketing professionals at distributors, electronic manufacturing services (EMS) organizations, manufacturers, and suppliers.
+
+
