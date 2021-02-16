@@ -28196,3 +28196,53 @@
 > Uncovered Fund , a VC firm targeting early-stage startups in Africa, announced today that it has launched its $15 million fund which is expected to close at the end of June this year. The Tokyo-based outfit founded by Takuma Terakubo in 2019 will invest $50,000 to $500,000 in African startups in seed and Series A stages. Before Uncovered Fund, Terakubo was the CEO of Leapfrog Ventures. Together with Japanese startup incubator, Samurai Incubate, they launched Samurai Incubate Fund ; a fund focused on early-stage African startups.
 
 
+***
+![MTNL Mumbai reintroduces prepaid vouchers starting at Rs 196 with up to 2GB daily data for promotional period](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-16_at_4_1200_210216173545.47.-483x271.png "MTNL Mumbai reintroduces prepaid vouchers starting at Rs 196 with up to 2GB daily data for promotional period")
+
+
+[MTNL Mumbai reintroduces prepaid vouchers starting at Rs 196 with up to 2GB daily data for promotional period](https://www.indiatoday.in/technology/news/story/mtnl-mumbai-reintroduces-prepaid-vouchers-starting-at-rs-196-with-up-to-2gb-daily-data-for-promotional-period-1769852-2021-02-16)
+
+
+> MTNL has reintroduced five prepaid vouchers that got expired in November. Now, the plans have been extended till May 2021. Yasmin Ahmed | February 16, 2021 | Updated 17:34 IST
+
+
+***
+![Oppo wants to make selfie cameras move side-to-side on phones, files new design patent](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/oppo_patent_letsgodigital-483x271_1200_210216173554.jpeg "Oppo wants to make selfie cameras move side-to-side on phones, files new design patent")
+
+
+[Oppo wants to make selfie cameras move side-to-side on phones, files new design patent](https://www.indiatoday.in/technology/news/story/oppo-wants-to-make-selfie-cameras-move-side-to-side-on-phones-files-new-design-patent-1769847-2021-02-16)
+
+
+> Oppo has patented a new smartphone with one of the most unique camera workarounds we have seen so far. Shubham Verma | February 16, 2021 | Updated 17:16 IST Source: LetsGoDigital
+
+
+***
+![TikTok hit with consumer law breaches complaints across Europe](https://assets2.rappler.com/2021/02/tiktok-021621-1613472335807.jpg "TikTok hit with consumer law breaches complaints across Europe")
+
+
+[TikTok hit with consumer law breaches complaints across Europe](https://www.rappler.com/technology/apps/tiktok-hit-consumer-law-breaches-complaints-europe)
+
+
+> Chinese-owned short video-sharing app TikTok was hit with multiple complaints from EU consumer groups on Tuesday, February 16, for allegedly violating the bloc's consumer laws and for failing to protect children from hidden advertising and inappropriate content. Owned by China's ByteDance, TikTok has been rapidly growing in popularity around the world, particularly among teenagers. It faces growing criticism about its privacy and safety policies following a number of incidents. European consumer group BEUC cited several issues in its complaint, among them its terms of service.
+
+
+***
+![EV charging to solar panels: How connected tech is changing the homes we live in](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dIT28.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "EV charging to solar panels: How connected tech is changing the homes we live in")
+
+
+[EV charging to solar panels: How connected tech is changing the homes we live in](https://www.cnbc.com/2021/02/16/ev-charging-solar-panels-how-tech-is-changing-the-homes-we-live-in.html)
+
+
+> Many of us now have easy access to a raft of information about the buildings we live in. Thanks to the proliferation of hardware and software within the home, this trend shows no sign of letting up and comes in many different forms. © Provided by CNBC This photo, from May 2020, shows a house in Germany with solar panels and an electric vehicle parked outside. Driven by advances in tech and the advent of high-speed internet connections, many of us now have easy access to a raft of information about the buildings we live in.
+
+
+***
+![Channa Jayasumana appointed Acting Health Minister](https://adaderanaenglish.s3.amazonaws.com/1613467860-Channa-Jayasumana-appointed-Acting-Health-Minister-L.jpg "Channa Jayasumana appointed Acting Health Minister")
+
+
+[Channa Jayasumana appointed Acting Health Minister](http://www.adaderana.lk/news/71605/channa-jayasumana-appointed-acting-health-minister)
+
+
+> February 16, 2021   01:50 pm - Prof. Channa Jayasumana has been appointed as the Acting Cabinet Minister of Health, says the President's Media Division (PMD). He is also the State Minister of Production, Supply and Regulation of Pharmaceuticals. Prof. Jayasumana will serve in his new portfolio until Minister of Health Pavithra Wanniarachchi, who is under medical care for Covid-19, returns to duty. In the meantime, State Minister Roshan Ranasinghe was appointed as the State Minister of Provincial Councils and Local Government Affairs.
+
+
