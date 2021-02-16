@@ -28393,3 +28393,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Metal Gear Solid Board Game In Serious Trouble](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/MGS%20Board%20Game.jpg?itok=rbkIF3BX "Metal Gear Solid Board Game In Serious Trouble")
+
+
+[Metal Gear Solid Board Game In Serious Trouble](https://techraptor.net/tabletop/news/metal-gear-solid-board-game-in-serious-trouble)
+
+
+> Published: Tuesday, February 16, 2021 - 14:48 | By: William Worrall Home Tabletop Tabletop News Metal Gear Solid Board Game In Serious Trouble Snake? Snake?! SNAAAAAAKE The upcoming Metal Gear Solid  board game has hit a huge roadblock after publisher IDW pulled out of the project. The news was announced in  a Board Game Geek post from the game's designer, Emerson Matsuuchi . Metal Gear Solid: The Board Game  Is In Serious Trouble The  Metal Gear Solid  board game was originally announced back in 2018 with a 2019 release date, but since then it was pushed back several times.
+
+
+***
+![Amazon's New World Release Date Delayed Again](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/New%20World%20release%20date%20delayed%20again%20cover.jpg?itok=t8YROYDc "Amazon's New World Release Date Delayed Again")
+
+
+[Amazon's New World Release Date Delayed Again](https://techraptor.net/gaming/news/amazons-new-world-release-date-delayed-again)
+
+
+> Published: Tuesday, February 16, 2021 - 13:54 | By: Robert N. Adams Home Gaming Gaming News Amazon's New World Release Date Delayed Again New Features and a New Delay Another one of Amazon's upcoming games has come into a bit of trouble — the  New World  release date has been delayed yet again and is now set for August 2021. New World  is an upcoming MMORPG from Amazon Games and has had its fair share of development troubles — not all that unusual for an Amazon Games title. It was first delayed to August 2020 and delayed again to 2021 ; now, it's being delayed for a third time until August 2021.
+
+
+***
+![Xbox Announces New Game Pass Games, and Wireless Headset](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Game%20Pass.jpg?itok=0CiP4Onr "Xbox Announces New Game Pass Games, and Wireless Headset")
+
+
+[Xbox Announces New Game Pass Games, and Wireless Headset](https://techraptor.net/gaming/news/xbox-game-pass-will-soon-see-dirt-5-and-wreckfest-xbox-wireless-headset-announced)
+
+
+> Published: Tuesday, February 16, 2021 - 11:48 | By: Patrick Perrault The Xbox Game Pass has Dirt 5 , Killer Queen Black , Wreckfest , and more incoming while Microsoft has also just announced the Xbox Wireless Headset, which comes with some nifty features for those who game on both their computer and Xbox console.  What Games Are Coming to Xbox Game Pass? Code Vein is a souls-like RPG where players team up with their friends to unlock the past and escape a destroyed world. It's coming to PC on February 18.
+
+
+***
+![Marvel's Avengers Hawkeye Update Arrives March 2021](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Marvel%27s%20Avengers%20Hawkeye%20revealed%20cover.jpg?itok=s10i892h "Marvel's Avengers Hawkeye Update Arrives March 2021")
+
+
+[Marvel's Avengers Hawkeye Update Arrives March 2021](https://techraptor.net/gaming/news/marvels-avengers-hawkeye-revealed)
+
+
+> Published: Tuesday, February 16, 2021 - 14:26 | By: Robert N. Adams Home Gaming Gaming News Marvel's Avengers Hawkeye Update Arrives March 2021 The Future is Now, Old Man The  Marvel's Avengers  Hawkeye Update will be arriving in around a month along with a new storyline that will see you and your team fighting against a very dark future. Marvel's Avengers  has been out for a few months now and it's already launched the first of what will hopefully be many post-launch characters. Kate Bishop arrived late last year , and now her mentor Hawkeye is entering the stage with a time-traveling, mind-bending story that should be well-familiar to fans of Marvel comics.
+
+
+***
+![Best Note 20 deals: Here's where to buy Samsung's latest Galaxy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/galaxy-note-20-ultra-bronze-18.jpg "Best Note 20 deals: Here's where to buy Samsung's latest Galaxy")
+
+
+[Best Note 20 deals: Here's where to buy Samsung's latest Galaxy](https://www.androidcentral.com/best-note-20-deals)
+
+
+> The Galaxy Note 20 series are two of the best Android phones right now. If you're already a fan of the Note lineup, then you'll have a lot to be excited about with the new generation. If you aren't a fan, you should be. The phones have all the latest from Samsung, including a powerful Qualcomm Snapdragon 865+ processor, a triple camera setup, 5G connectivity, and a new and improved S Pen stylus. Being brand new, these phones are going to set you back a penny or two, but we're on top of that. We've got every place you can find the Note 20 (or the Note 20 Ultra) and every deal available right now.
+
+
