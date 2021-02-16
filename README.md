@@ -28149,3 +28149,50 @@
 > Tesla CEO Elon Musk has invited the Russian President for a discussion on the audio-only app, Clubhouse. Putin's spokesperson noted that the proposal is interesting but the Kremlin needs to first understand what is meant and what is proposed. India Today Tech | February 16, 2021 | Updated 11:01 IST (Picture: Reuters)
 
 
+***
+![8 best running headphones: Wireless earbuds that won't fall out during a workout](https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/04/16/17/best-wireless-headphones-.jpg?width=1200&auto=webp&quality=75 "8 best running headphones: Wireless earbuds that won't fall out during a workout")
+
+
+[8 best running headphones: Wireless earbuds that won't fall out during a workout](https://www.independent.co.uk/extras/indybest/gadgets-tech/headphones-earphones/best-wireless-headphones-earbuds-running-workout-noise-cancelling-a9468586.html)
+
+
+> It might not occur to everyone that choosing a pair of earphones, especially in-ear ones, is a deeply personal experience.Our ears are all very different shapes and sizes, and there are myriad factors earbuds must succeed at to deliver the best experience; whether that's comfort, fit, sound, convenience or durability.And when it comes to working out, earbuds need to deliver on all of those factors – and also not fall out of our ears while we sweat our way through that jog.Our testers took all manner of truly wireless earbuds out for a spin (sometimes, a spin class), focusing on comfort, durability and clarity of sound.
+
+
+***
+![Mälarenergi Selects Hansen Trade for Automated Intraday Trading](https://mms.businesswire.com/media/20210216005032/en/858943/23/Hansen_logo.jpg "Mälarenergi Selects Hansen Trade for Automated Intraday Trading")
+
+
+[Mälarenergi Selects Hansen Trade for Automated Intraday Trading](https://www.businesswire.com/news/home/20210216005032/en/M%C3%A4larenergi-Selects-Hansen-Trade-for-Automated-Intraday-Trading)
+
+
+> February 16, 2021 05:00 AM Eastern Standard Time MELBOURNE, Australia--(BUSINESS WIRE)--Hansen Technologies (ASX:HSN) is pleased to announce the signing of a new agreement with Mälarenergi. Under the terms of the agreement, Hansen Trade will enable the Swedish utility company to automate continuous intraday trading operations in Nord Pool's intraday market. The trading environment is rapidly transitioning towards one that is automated, making manual trading more challenging and costly. This changing market environment has pushed energy companies to reassess their processes and tools in order to maintain competitiveness and take advantage of opportunities in the market.
+
+
+***
+![Vienna Insurance Group's Digital Start-up, Beesafe, Achieves Rapid Four-month Guidewire Deployment in Midst of Global Pandemic](https://mms.businesswire.com/media/20210216005561/en/570423/21/guidewire_logo_new_2color_h_screen.jpg "Vienna Insurance Group's Digital Start-up, Beesafe, Achieves Rapid Four-month Guidewire Deployment in Midst of Global Pandemic")
+
+
+[Vienna Insurance Group's Digital Start-up, Beesafe, Achieves Rapid Four-month Guidewire Deployment in Midst of Global Pandemic](https://www.businesswire.com/news/home/20210216005561/en/Vienna-Insurance-Group%E2%80%99s-Digital-Start-up-Beesafe-Achieves-Rapid-Four-month-Guidewire-Deployment-in-Midst-of-Global-Pandemic)
+
+
+> WARSAW & LONDON--(BUSINESS WIRE)--Beesafe, the digital brand of the Vienna Insurance Group's (VIG) Polish subsidiary, and Guidewire Software, Inc. (NYSE: GWRE), the platform general insurers trust to engage, innovate, and grow efficiently, today announced that Beesafe has deployed Guidewire to underpin its business processes and drive its digital insurance model. Guidewire PartnerConnect Consulting partner, Sollers Consulting, supported the implementation programme. Beesafe, a digital start-up, was established by VIG, the leading insurance group in Austria, Central and Eastern Europe, to provide a dynamic distribution company with a unique customer offering, and potential for expansion into other countries where VIG operates.
+
+
+***
+![Apple Watch stopped charging? You could get a free repair directly from Apple](https://cdn.mos.cms.futurecdn.net/kCFbp8PYnsvtERsVTWEzdC-1200-80.jpg "Apple Watch stopped charging? You could get a free repair directly from Apple")
+
+
+[Apple Watch stopped charging? You could get a free repair directly from Apple](https://www.techradar.com/news/apple-watch-stopped-charging-you-could-get-a-free-repair-directly-from-apple)
+
+
+> (Image credit: Anna Hoychuk / Shutterstock) If you've invested in an Apple Watch , it has almost certainly become an integral part of your life. For anyone tracking runs and workouts using the wearable, problems with charging can have a serious impact.  Apple has now acknowledged a problem with some devices that fail to charge after entering Power Reserve mode, and the company is offering free repairs to some owners. In some cases, simply updating watchOS to the latest version is enough to fix the issue, but in a "small number" of cases, Apple will need to intervene.
+
+
+***
+[Japan's Uncovered Fund launches $15M fund to back early-stage startups in Africa – TechCrunch](https://techcrunch.com/2021/02/15/japans-uncovered-fund-launches-15m-fund-to-back-early-stage-startups-in-africa/)
+
+
+> Uncovered Fund , a VC firm targeting early-stage startups in Africa, announced today that it has launched its $15 million fund which is expected to close at the end of June this year. The Tokyo-based outfit founded by Takuma Terakubo in 2019 will invest $50,000 to $500,000 in African startups in seed and Series A stages. Before Uncovered Fund, Terakubo was the CEO of Leapfrog Ventures. Together with Japanese startup incubator, Samurai Incubate, they launched Samurai Incubate Fund ; a fund focused on early-stage African startups.
+
+
