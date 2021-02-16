@@ -28343,3 +28343,53 @@
 > Accenture Acquires Ecommerce Platform Operator Businet System Accenture And Salesforce To Embed ESG Goals In Cloud Technologies Benzinga's Top Upgrades, Downgrades For January 6, 2021
 
 
+***
+![Singapore's leading telco hit by cybersecurity incident](http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/4/0/7/p-large/35bc4909ded92774afba5cb7dd02e0ba175d7fbb.jpg "Singapore's leading telco hit by cybersecurity incident")
+
+
+[Singapore's leading telco hit by cybersecurity incident](http://www.digitaljournal.com/tech-and-science/technology/singapore-s-leading-telco-hit-by-cybersecurity-incident/article/585588)
+
+
+> A major telecoms company has announced that a supply chain attack may have led to the compromise its customer data. The attack has impacted Singtel and a FTA (File Transfer Appliance) was compromised by unknown hackers. In relation to Singtel's cybersecurity breach, the Singapore telco issue has affected a file-sharing system developed by third-party vendor Accellion, which the Singapore telco has used internally and with external stakeholders. It is believed that the breach may have compromised customer data.
+
+
+***
+![Done Answering Questions on Stack Overflow](https://external-preview.redd.it/7rNWSdaKfScD3q4-Uy2D6NFiGR-VA1CFDhy5HQsu6uM.jpg?auto=webp&s=a278eea5aa62a546372f144cd7f6ed755082c3f0 "Done Answering Questions on Stack Overflow")
+
+
+[Done Answering Questions on Stack Overflow](https://www.reddit.com/r/programming/comments/ll9kqv/done_answering_questions_on_stack_overflow/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Long Beach Accelerator Welcomes Inaugural Cohort](http://www.businesswire.com/images/bwlogo_square.png "Long Beach Accelerator Welcomes Inaugural Cohort")
+
+
+[Long Beach Accelerator Welcomes Inaugural Cohort](https://www.businesswire.com/news/home/20210216005998/en/Long-Beach-Accelerator-Welcomes-Inaugural-Cohort)
+
+
+> February 16, 2021 01:00 PM Eastern Standard Time LONG BEACH, Calif.--(BUSINESS WIRE)--The Long Beach Accelerator (LBA) welcomed its first cohort of startups on February 15th. The LBA is a partnership between Sunstone Management, the City of Long Beach's Economic Development Department and California State University Long Beach's Institute for Innovation & Entrepreneurship (CSLUB IIE). The inaugural cohort members represent a strong group of diverse founders, industries, geographies and verticals, including 3 companies based in Long Beach.
+
+
+***
+![What are the best terminal emulators for Linux?](https://external-preview.redd.it/kVnBrWGTrbn8IcPl7jUrXtEdtv9OiF6cB5yvHuhS0DQ.jpg?auto=webp&s=6d7270a81292542349e2e7cef89703505553a1f6 "What are the best terminal emulators for Linux?")
+
+
+[What are the best terminal emulators for Linux?](https://www.reddit.com/r/programming/comments/ll9ip2/what_are_the_best_terminal_emulators_for_linux/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![VkFFT now supports Vulkan/CUDA/HIP as backend](https://external-preview.redd.it/aGpiJH8zSzH29EFMSCtGhUtVVDpGlLD20O7pI1n_v5g.jpg?auto=webp&s=0495323414c82f4378ac00a6fd24151c3cd0329e "VkFFT now supports Vulkan/CUDA/HIP as backend")
+
+
+[VkFFT now supports Vulkan/CUDA/HIP as backend](https://www.reddit.com/r/programming/comments/ll9fom/vkfft_now_supports_vulkancudahip_as_backend/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
