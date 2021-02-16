@@ -27908,3 +27908,50 @@
 > (Image credit: Future) The Presidents' Day sales are now well underway, and while you'll find plenty of laptops, TVs, and high-end gadgets discounted right now, there's also a massive range of more budget-friendly deals up for grabs as well.  From fitness trackers to headphones, kitchen appliances to security cameras, there are plenty of Presidents' Day sales hitting the under $50 price range this week. The Samsung Galaxy Buds are sitting at just $49.99 (was $129.99) , for example, and you'll even find a Razer Kraken gaming headset available for $39.
 
 
+***
+![Xgboost. I have a little problem... you can help ? thank you](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Xgboost. I have a little problem... you can help ? thank you")
+
+
+[Xgboost. I have a little problem... you can help ? thank you](https://www.reddit.com/r/Python/comments/lkr6wd/xgboost_i_have_a_little_problem_you_can_help/)
+
+
+> I have a little problem ... inside my anaconda the library '' Xgboost '' is installed that is C / USER / me / anaconda3 / lib / sitepackages / xgboost, right? I installed by giving the command at the prompt. beauty, but what's the problem? when i open JUPYTER LAB and try to import xgboost the following error appears: import xgboost ModuleNotFoundError: No module named 'xgboost' Could you help me please? Thank you all ...
+
+
+***
+![{'META':{'META':None}} What has happened to this sub?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "{'META':{'META':None}} What has happened to this sub?")
+
+
+[{'META':{'META':None}} What has happened to this sub?](https://www.reddit.com/r/Python/comments/lkr6ob/metametanone_what_has_happened_to_this_sub/)
+
+
+> I've been a silent part of this community since around 2006 and never have I seen so many [META] what has happened to this sub posts like during this pandemic, that I really have to speak up, which is very rare, I tell you. It really feels like there is a virus going around, that makes people post META posts to discuss the current meta situation of the sub on a meta level. I really don't understand why they do not post to r/meta, since their idea of python is so metaphysically above everything else, it's not even pythonic anymore.
+
+
+***
+![Best Budget Gaming PC 2021: Cheap Gaming PCs for New PC Gamers](https://assets1.ignimgs.com/2020/07/29/budget-gaming-pc-1596057852331.jpg?width=1280 "Best Budget Gaming PC 2021: Cheap Gaming PCs for New PC Gamers")
+
+
+[Best Budget Gaming PC 2021: Cheap Gaming PCs for New PC Gamers](https://www.ign.com/articles/best-budget-gaming-pc)
+
+
+> When it comes to gaming, budget PCs haven't always been shoo-ins. The more powerful the components are, after all, the more expensive they tend to be. Or at least, they used to be. With AMD changing the GPU and CPU scenes thanks to its capable yet affordable offerings like the bargain AMD Radeon RX 5700 and value-oriented Ryzen 3rd Generation CPUs, graphics cards and processors are more affordable than ever. This has allowed budget PCs to hit the gaming arena with some pretty impressive contributions of their own.
+
+
+***
+[Doodle 0.4.2 released](https://www.reddit.com/r/programming/comments/lkr3yq/doodle_042_released/)
+
+
+> submitted by /u/pusolito [link] [comments]
+
+
+***
+![Social media app Parler crawls back online on 'independent technology'](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/2021-01-11T000000Z_283337667_MT1SIPA0006O9X1X_RTRMADP_3_SIPA-USA-seo.JPG "Social media app Parler crawls back online on 'independent technology'")
+
+
+[Social media app Parler crawls back online on 'independent technology'](https://www.malaymail.com/news/tech-gadgets/2021/02/16/social-media-app-parler-crawls-back-online-on-independent-technology/1950029)
+
+
+> Parler, which asserted it once had over 20 million users, said it would bring its current users back online in the first week and would be open to new users the next week. — Reuters pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 16 ― Parler, a social media service popular with American right-wing users that virtually vanished after the US Capitol riot, re-launched yesterday and said its new platform was built on 'sustainable, independent technology.
+
+
