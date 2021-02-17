@@ -28730,3 +28730,53 @@
 > Story Twitter said each voice message can be up to 2 minutes 20 seconds long and can help people chat quickly. The experiment will be rolled out in phases to the users of India, Japan, and Brazil BusinessToday.In | February 17, 2021 | Updated 11:55 IST Last year, Twitter introduced audio messaging on its platform with Voice Tweets
 
 
+***
+![FBR to roll out track and trace system in July to enhance revenue collection](https://sm.mashable.com/t/mashable_pk/photo/default/tax_ygw1.1200.jpg "FBR to roll out track and trace system in July to enhance revenue collection")
+
+
+[FBR to roll out track and trace system in July to enhance revenue collection](https://pk.mashable.com/tech/7772/fbr-to-roll-out-track-and-trace-system-in-july-to-enhance-revenue-collection)
+
+
+> Federal Board of Revenue (FBR) will be rolling out the new track and trace system in July this year to enhance the revenue collection process in Pakistan. This was told by the officials of FBR during a meeting of the Senate Standing Committee on Finance, Revenue and Economic Affairs on Monday. In the meeting the Committee Chairman, Senator Farooq Hamid Naek was informed that the scope of the track and trace system would be expanded to industries like sugar, cement and fertilizer. The new system from FBR will also monitor the beverage industry and would help in widening the tax base besides addressing the issue of under invoicing.
+
+
+***
+![Best home printers 2018 REDIRECTED](https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/09/28/10/printers-comp.jpg?width=1200&width=1200&auto=webp&quality=75 "Best home printers 2018 REDIRECTED")
+
+
+[Best home printers 2018 REDIRECTED](https://www.standard.co.uk/shopping/esbest/gadgets-tech/best-home-printers-2020-wireless-photos-home-office-a4556571.html)
+
+
+> If there's one thing we've come to the stark realisation of during the past six months of working from home, it's just how much we rely on our office printers. Whether it's printing off meeting notes or a cheeky personal document, we didn't realise just how much we use it. But with working from home becoming the new norm (and government-enforced for the next six months at least), there's set to be a surge in this oft-forgot home necessity. Not only are they great to have for printing off assignments or for proof-reading work, they are especially handy for those who run small businesses from home.
+
+
+***
+![Epic Games takes Apple fight to EU antitrust regulators](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/GettyImages-599928722.jpg?ve=1&tl=1 "Epic Games takes Apple fight to EU antitrust regulators")
+
+
+[Epic Games takes Apple fight to EU antitrust regulators](https://www.foxbusiness.com/technology/epic-games-takes-apple-fight-to-eu-antitrust-regulators)
+
+
+> Fortnite creator Epic Games has taken its fight against Apple to EU antitrust regulators after failing to make headway in a U.S. court in a dispute over the iPhone maker's payment system on its App Store and control over apps downloads. The two companies have been locked in a legal dispute since August last year when the game maker tried to get around Apple's 30% fee on some in-app purchases on the App Store by launching its own in-app payment system. GET FOX BUSINESS ON THE GO BY CLICKING HERE That prompted Apple to kick Epic's Fortnite game off the App Store and threaten to terminate an affiliated account that would have effectively blocked distribution of Unreal Engine, a software tool used by hundreds of app makers to create games.
+
+
+***
+![Economic Data Scheduled For Wednesday](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/economic_data_141.png "Economic Data Scheduled For Wednesday")
+
+
+[Economic Data Scheduled For Wednesday](https://www.benzinga.com/news/21/02/19698134/economic-data-scheduled-for-wednesday)
+
+
+> The MBA's index of mortgage application activity for the latest week is scheduled for release at 7:00 a.m. ET. The Producer Price Index for January will be released at 8:30 a.m. ET. Analysts expect producer prices rising 0.4% on a monthly basis in January. Data on retail sales for January will be released at 8:30 a.m. ET. Retail sales are likely to rise 1.1% in January. The Johnson Redbook Retail Sales Index for the latest week is scheduled for release at 8:55 a.m. ET. Data on industrial production for January will be released at 8:30 a.
+
+
+***
+![How to Buy a Real N95 Mask Online](https://static01.nyt.com/images/2021/02/17/business/17Techfix-illo/17Techfix-illo-facebookJumbo.jpg "How to Buy a Real N95 Mask Online")
+
+
+[How to Buy a Real N95 Mask Online](https://www.nytimes.com/2021/02/17/technology/personaltech/buy-real-n95-mask.html)
+
+
+> Continue reading the main storyFakes and little-known brands still abound, even as health officials have advised us to up our mask game. Here's what to do.Credit...Glenn HarveyFeb. 17, 2021, 5:00 a.m. ETA year into the coronavirus pandemic, buying a heavy-duty medical mask online remains downright maddening.The most coveted mask to keep safe against Covid-19 has been the N95, the gold standard for pandemic protection because of its tight fit and 95 percent efficiency in filtering airborne particles.
+
+
