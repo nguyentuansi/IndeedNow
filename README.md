@@ -28830,3 +28830,47 @@
 > One of the most embarrassing parts of a video call can be trying to leave but failing to find the right button. Now a device which allows you to finish a call more easily has been invented. Created by Brian Moore, a 3D-printed pull cord sends an instruction via Bluetooth to your computer to end the call. BBC Click's Spencer Kelly reports. See more at Click's website and @BBCClick
 
 
+***
+![Facebook fined again in Italy for misleading users over what it does with their data](https://external-preview.redd.it/yfTLACxF-AdmjR-NuBkCPX3zNQnxBqOSqp3vfILPNyo.jpg?auto=webp&s=9c0a9890758fb4d2bfa1f6233ce673a980ca6aba "Facebook fined again in Italy for misleading users over what it does with their data")
+
+
+[Facebook fined again in Italy for misleading users over what it does with their data](https://www.reddit.com/r/technology/comments/llv2dr/facebook_fined_again_in_italy_for_misleading/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![PS5 stock arrives at Argos in middle of the night, leaving PlayStation fans frustrated once more](https://static.independent.co.uk/2020/11/24/10/ps5west.jpg?width=1200&auto=webp&quality=75 "PS5 stock arrives at Argos in middle of the night, leaving PlayStation fans frustrated once more")
+
+
+[PS5 stock arrives at Argos in middle of the night, leaving PlayStation fans frustrated once more](https://www.independent.co.uk/life-style/gadgets-and-tech/ps5-stock-argos-uk-time-b1803447.html)
+
+
+> PlayStation fans have been frustrated once again after the latest set of new PS5s arrived in the middle of the night.The PlayStation 5 has been almost impossible to buy for months, since long before its original launch in November. Supply has been constrained by problems with getting hold of the required chips, Sony has said, while demand is higher than normal given the fact that lockdowns have led many people to gaming.Argos added the new consoles to its site with little official fanfare and in the very early hours of the morning, meaning that only those who had stayed up through the night were able to buy one before they quickly sold out again.
+
+
+***
+[Dollar moves higher after retail sales/PPI data. A look at the EURUSD, USDJPY and GBPUSD.](https://www.forexlive.com/technical-analysis/!/dollar-moves-higher-after-retail-salesppi-data-20210217)
+
+
+> Better data sends the USD higher The US dollars moved higher after the higher than expected retail sales and PPI data out of the US this morning. EURUSD: The EURUSD has continued its moved to the downside and looks to test the 61.8% retracement of the move up from the February 4 low at 1.20346. A move below that
+
+
+***
+![iPhone Flip release date, price, leaks and what we want from Apple's foldable iPhone](https://cdn.mos.cms.futurecdn.net/VNvoR6YAqrPZetqA6JhtLL-1200-80.jpg "iPhone Flip release date, price, leaks and what we want from Apple's foldable iPhone")
+
+
+[iPhone Flip release date, price, leaks and what we want from Apple's foldable iPhone](https://www.techradar.com/news/foldable-iphone)
+
+
+> We've been hearing rumors for years that Apple has been working on a foldable iPhone, and so far, that's all they are: rumors. But enough have cropped up to suggest design elements and features that may come to the final device.How long Apple has been working on a foldable phone – which may end up being called the iPhone Flip, or maybe iPhone Fold – is unclear, but the tech giant infamously keeps its projects under wraps until it's ready to reveal them. Likewise, Apple has typically taken its time releasing its own take on new devices, so we weren't surprised the device didn't debut alongside the iPhone 12 and iPhone 12 Pro in October 2020.
+
+
+***
+[Copado, a DevOps platform built for Salesforce, raises $96M Series B led by Insight partners and Salesforce Ventures, bringing its total funding to $117M (Paul Sawers/VentureBeat)](http://www.techmeme.com/210217/p11#a210217p11)
+
+
+> Paul Sawers / VentureBeat: Copado, a DevOps platform built for Salesforce, raises $96M Series B led by Insight partners and Salesforce Ventures, bringing its total funding to $117M — Copado, a developer operations (DevOps) platform built for Salesforce, has closed a $96 million series B round of funding co-led by Insight partners and Salesforce Ventures.
+
+
