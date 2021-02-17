@@ -28968,3 +28968,53 @@
 > Ubisoft's piratical adventure Skull & Bones has had a troubled development but be assured it is still on the horizon. Announced back in 2017 at Ubisoft's E3 conference with a scheduled release date of 2018, the game has since been delayed several times. However, after an update in September 2020 (more on that below), we know that Skull & Bones is still in the works and that production is 'in full swing with a new vision.' It remains unclear what this 'new vision' involves, though there have been rumors that Ubisoft is looking to introduce more live game elements, and we still don't know an exact release date.
 
 
+***
+![Daimler partners with Amazon on self-driving trucks](https://imagevars.gulfnews.com/2021/02/17/Daimler_177b127d1a5_medium.jpg "Daimler partners with Amazon on self-driving trucks")
+
+
+[Daimler partners with Amazon on self-driving trucks](https://gulfnews.com/technology/daimler-partners-with-amazon-on-self-driving-trucks-1.1613584924701)
+
+
+> Image Credit: Shutterstock Berlin: German automobile giant Daimler, the world leader in heavy-goods vehicles, said Wednesday that it had enlisted Amazon to help with its testing of Level 4 self-driving trucks. Daimler subsidiary Torc Robotics, which specialises in vehicle automation software, selected Amazon Web Services as a cloud provider for its upcoming truck tests in the US states of New Mexico and Virginia, the German company said in a statement. Amazon's "extensive capabilities" in areas such as data transfer, storage and analytics would help Torc "accelerate its testing and commercialization" of Level 4 technology, Daimler said.
+
+
+***
+![News Corp signs news partnership deal with Google](https://imagevars.gulfnews.com/2021/02/17/News-Corporation_177b13c4f58_medium.jpg "News Corp signs news partnership deal with Google")
+
+
+[News Corp signs news partnership deal with Google](https://gulfnews.com/technology/media/news-corp-signs-news-partnership-deal-with-google-1.1613586141141)
+
+
+> The News Corporation logo is displayed on the side of a building in midtown Manhattan in New York. Image Credit: REUTERS News Corp struck a global news deal with Alphabet Inc's Google, the Rupert Murdoch-controlled media company said on Wednesday, in one of the most extensive deals of its kind with big tech. The companies will develop a subscription platform, share advertising revenue through Google's ad technology services, build out audio journalism and develop video journalism by YouTube. The deal comes after years of public feuding between Murdoch and Google, most recently in Australia, where Google has threatened to shut down its search engine to avoid "unworkable" content laws.
+
+
+***
+![Facebook restricts publishers in Australia from sharing and viewing news content](https://imagevars.gulfnews.com/2020/12/01/Facebook_1761d099696_medium.jpg "Facebook restricts publishers in Australia from sharing and viewing news content")
+
+
+[Facebook restricts publishers in Australia from sharing and viewing news content](https://gulfnews.com/technology/facebook-restricts-publishers-in-australia-from-sharing-and-viewing-news-content-1.1613588123503)
+
+
+> Latest News UAE Living In UAE Gulf Your Money Saving and Investment Budget Living Taxation Expert Columns Community Tips Business World Opinion Editorials Op-Eds Letters Off the Cuff Cartoons From the Editors Sport Entertainment Going Out Photos News Entertainment Readers' Photos Lifestyle Business Sports Parenting Pregnancy & Baby Learning & Play Child Health For Mums & Dads Ask Us Auto News Test Drives Car Culture Auto Care Lifestyle GN Reach Jobs Tech Electronics Gaming Trends Fin-Tech Media
+
+
+***
+![Maersk to launch first carbon neutral ship within two years](https://imagevars.gulfnews.com/2015/5/7/1_16a0817d9c2.1506772_3488892248_16a0817d9c2_medium.jpg "Maersk to launch first carbon neutral ship within two years")
+
+
+[Maersk to launch first carbon neutral ship within two years](https://gulfnews.com/technology/maersk-to-launch-first-carbon-neutral-ship-within-two-years-1.1613584324819)
+
+
+> The ship will run on bio-methanol Published:  February 17, 2021 21:49 AFP Illustrative image. Image Credit: Reuters Copenhagen: Danish shipping giant AP Moller-Maersk announced Wednesday it would launch the "world's first carbon neutral" vessel by 2023, seven years ahead of its initial target. Originally scheduled for 2030, the company said in a statement that the launch had been "fast-tracked by advances in technology and increasing customer demand for sustainable supply chains." The ship will run on bio-methanol and will be deployed in one of Maersk's "intra-regional networks.
+
+
+***
+![Printed in days, a house: New York firm takes 3D printing to the next level](https://imagevars.gulfnews.com/2021/02/17/3D-printed-house_177b134c71b_medium.jpg "Printed in days, a house: New York firm takes 3D printing to the next level")
+
+
+[Printed in days, a house: New York firm takes 3D printing to the next level](https://gulfnews.com/technology/printed-in-days-a-house-new-york-firm-takes-3d-printing-to-the-next-level-1.1613585666467)
+
+
+> The outside of a proof of concept 3D printed house is pictured in Long Island, New York. Image Credit: REUTERS Most homes are built block by block, or brick by brick. But a demo house in Calverton, New York, was constructed scan by scan - its walls made using a giant three-dimensional printer. The demo house was built by construction firm SQ4D, to show the public and industry what was possible. Now the company is putting one up for sale - a still to-be-built house in the nearby town of Riverhead, which has been listed on property site Zillow at $299,000.
+
+
