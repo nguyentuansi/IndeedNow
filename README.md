@@ -28680,3 +28680,53 @@
 > The Commonwealth Bank of Australia has announced they will offering a ‘CommBank Green Loan' product. This loan will offer families the ability to take a 10 year fixed loan of up to $20,000 for just 0.99% interest per year. That rate is far lower than any personal loan and even much lower than the record low home load rates which are typically the cheapest form of finance. If you're a CommBank home loan customer, as in you have a mortgage with them (or move to them), then you'll be able to get up to A$20,000 to spend on eligible small-scale renewables such as solar panels, battery packs and electric vehicle charging stations.
 
 
+***
+![Texans shiver through night, as Arctic cold keeps energy offline](https://static.reuters.com/resources/r/?m=02&d=20210217&t=2&i=1551817408&r=LYNXMPEH1G0FU&w=800 "Texans shiver through night, as Arctic cold keeps energy offline")
+
+
+[Texans shiver through night, as Arctic cold keeps energy offline](https://www.reuters.com/article/us-usa-weather-idUSKBN2AH0S5)
+
+
+> LUBBOCK, Texas (Reuters) - Millions of people in Texas awoke on Wednesday without heat again, as power failures continued to plague the state following a historic winter storm that has killed 21 people so far. Texas Governor Greg Abbott and other top officials in the state, the country's second largest, are demanding answers from operators and leaders at the Electric Reliability Council of Texas (Ercot), an energy cooperative responsible for 90% of the state's electricity. The storm has killed at least 21 people across four states, and the cold is not expected to let up until this weekend.
+
+
+***
+![OnePlus 9 Pro may come with 12GB of RAM and here's why we are not surprised](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/oneplus8pro-it-483x271_1200_210217131424.jpeg "OnePlus 9 Pro may come with 12GB of RAM and here's why we are not surprised")
+
+
+[OnePlus 9 Pro may come with 12GB of RAM and here's why we are not surprised](https://www.indiatoday.in/technology/features/story/oneplus-9-pro-may-come-with-12gb-of-ram-and-here-s-why-we-are-not-surprised-1770086-2021-02-17)
+
+
+> OnePlus 9 Pro is said to come with 12GB of RAM, same as OnePlus 8 Pro, and we might see a reason why the Galaxy S21 series should be worried. Ketan Pratap | February 17, 2021 | Updated 12:55 IST OnePlus 9 Pro expected to launch early this year. (Inage: OnePlus 8 Pro)
+
+
+***
+![Sony WF-1000XM3 selling on Amazon India at Rs 13,990 and is a deal you should consider](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/sny-483x271_1200_210217120530.jpeg "Sony WF-1000XM3 selling on Amazon India at Rs 13,990 and is a deal you should consider")
+
+
+[Sony WF-1000XM3 selling on Amazon India at Rs 13,990 and is a deal you should consider](https://www.indiatoday.in/technology/features/story/sony-wf-1000xm3-selling-on-amazon-india-at-rs-13-990-and-is-a-deal-you-should-consider-1770063-2021-02-17)
+
+
+> One of the best Active Noise Cancellation earbuds – the Sony WF-1000XM3 – are selling in India with a major discount and it is a deal you should definitely consider. India Today Tech | February 17, 2021 | Updated 12:03 IST The Sony WF-1000XM3 are now listed at Rs 13,990 on Amazon India.
+
+
+***
+![LastPass to remove cross-platform functionality for free users](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-17_at_1_1200_210217131416.09.-483x271.png "LastPass to remove cross-platform functionality for free users")
+
+
+[LastPass to remove cross-platform functionality for free users](https://www.indiatoday.in/technology/news/story/lastpass-to-remove-cross-platform-functionality-for-free-users-1770097-2021-02-17)
+
+
+> LastPass Free users can only use either the smartphone or the computer to store their passwords starting March 16. February 17, 2021 | Updated 13:14 IST
+
+
+***
+![Twitter tests voice messages in DMs in India, Japan, Brazil](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/twitter_505_170221115525.jpg "Twitter tests voice messages in DMs in India, Japan, Brazil")
+
+
+[Twitter tests voice messages in DMs in India, Japan, Brazil](https://www.businesstoday.in/technology/news/twitter-tests-voice-messages-in-dms-in-india-japan-brazil/story/431499.html)
+
+
+> Story Twitter said each voice message can be up to 2 minutes 20 seconds long and can help people chat quickly. The experiment will be rolled out in phases to the users of India, Japan, and Brazil BusinessToday.In | February 17, 2021 | Updated 11:55 IST Last year, Twitter introduced audio messaging on its platform with Voice Tweets
+
+
