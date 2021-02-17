@@ -28643,3 +28643,40 @@
 > These deals are Reviewed-approved.   (Photo: Amazon/Tineco) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Anytime Amazon has sales on great items, it's worth getting excited about. But it's even more exciting when those items just so happen to include a number of gear and gadgets we've already tested—and approved. That just so happens to be the case with a number of items on the site today–some of which are more than 40% off.
 
 
+***
+![First Australian evidence of big shift in Earth's magnetic poles found, might help predict the next- Technology News, Firstpost](https://images.firstpost.com/wp-content/uploads/2019/12/Earth-magnetic-poles.jpg "First Australian evidence of big shift in Earth's magnetic poles found, might help predict the next- Technology News, Firstpost")
+
+
+[First Australian evidence of big shift in Earth's magnetic poles found, might help predict the next- Technology News, Firstpost](https://www.nytimes.com/2021/02/07/technology/vaccine-algorithms.html)
+
+
+> The ConversationFeb 17, 2021 11:24:15 ISTAbout 41,000 years ago, something remarkable happened: Earth's magnetic field flipped and, for a temporary period, magnetic north was south and magnetic south was north. Palaeomagnetists refer to this as a geomagnetic excursion. This event, which is different to a complete magnetic pole reversal, occurs irregularly through time and reflects the dynamics of Earth's molten outer core. The strength of Earth's magnetic field would have almost vanished during the event, called the Laschamp excursion, which lasted a few thousand years.
+
+
+***
+![Sony to launch new Cinema Line camera on February 23, likely to be FX3](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Sony-FX3-Cinema-Line-Camera-La-647x363.jpeg?jEleziDEEv8uPMhUd0__xAVqAsLW.EFQ "Sony to launch new Cinema Line camera on February 23, likely to be FX3")
+
+
+[Sony to launch new Cinema Line camera on February 23, likely to be FX3](https://www.indiatoday.in/technology/news/story/sony-to-launch-new-cinema-line-camera-on-february-23-likely-to-be-fx3-1770043-2021-02-17)
+
+
+> We earlier reported that Sony may launch a new Cinema Line camera. Now, it is confirmed. The company has revealed the launch date of the new camera, which may be called Sony FX3. The company announced on Twitter, "Coming Soon! Know more (Link)" and the image attached with the tweet reveals the date, that is, February 23, 2021.The link incorporated in the tweet is of Sony's official YouTube channel where the livestream will take place. Sony's upcoming Cinema Line camera will be unveiled virtually.
+
+
+***
+[電池供應商 SK Innovation 敗訴，在美將面臨 10 年禁令](https://technews.tw/2021/02/17/sk-innovation-loses-the-lawsuit-and-faces-a-10-year-ban/)
+
+
+> 近日，彭博社報導稱，美國國際貿易委員會（US International Trade Commission）對 […]
+
+
+***
+![CommBank Green Loan: Get $20,000 at just 0.99% for 10yrs to fund solar, battery packs and electric vehicle chargers](https://s3-ap-southeast-2.amazonaws.com/techau-images/wp-media-folder-techau/wp-content/uploads/2021/02/SolarPanelsRoofTopAustralia.jpg "CommBank Green Loan: Get $20,000 at just 0.99% for 10yrs to fund solar, battery packs and electric vehicle chargers")
+
+
+[CommBank Green Loan: Get $20,000 at just 0.99% for 10yrs to fund solar, battery packs and electric vehicle chargers](https://techau.com.au/commbank-green-loan-get-20000-at-just-0-99-for-10yrs-to-fund-solar-battery-packs-and-electric-vehicle-chargers/)
+
+
+> The Commonwealth Bank of Australia has announced they will offering a ‘CommBank Green Loan' product. This loan will offer families the ability to take a 10 year fixed loan of up to $20,000 for just 0.99% interest per year. That rate is far lower than any personal loan and even much lower than the record low home load rates which are typically the cheapest form of finance. If you're a CommBank home loan customer, as in you have a mortgage with them (or move to them), then you'll be able to get up to A$20,000 to spend on eligible small-scale renewables such as solar panels, battery packs and electric vehicle charging stations.
+
+
