@@ -28543,3 +28543,53 @@
 > Before giving away or reselling your smartphone, you should make sure that all your personal data has been deleted. ― Getty Images via ETX Studio Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 17 ― While many studies, such as the one recently conducted by antivirus vendor Kaspersky, show that the majority of secondhand electronic devices still contain personal data from their previous owners, it is easy to dispose of them, making sure not to leave any trace behind.
 
 
+***
+![Apple launches new 'Shared Values' page on its Jobs at Apple website](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/apple-shared-values-jobs-website.jpg "Apple launches new 'Shared Values' page on its Jobs at Apple website")
+
+
+[Apple launches new 'Shared Values' page on its Jobs at Apple website](https://www.imore.com/apple-launches-new-shared-values-page-its-jobs-apple-website)
+
+
+> Source: Apple As part of its Jobs website, Apple has launched a new "Shared Values" page that highlights the individual stories of some Apple employees. The page begins with a statement saying that "the values we share at Apple inspire the work we share with everyone." At Apple, we're committed to leaving the world better than we found it. Each of us contributes to that effort in our own way, bringing a passion for what we do best and what we believe matters most. As you'll see from these conversations, our stories are all different, yet each shows what's possible when personal and professional values align.
+
+
+***
+![SolarWinds: How Russian spies hacked the Justice, State, Treasury, Energy and Commerce Departments](https://external-preview.redd.it/H52rWrHbuogseUjYG9pAMqzZCjkw-r8I1O_ChNPqmdQ.jpg?auto=webp&s=67a3b04761784eca2edb21a62e2592f8d38c170f "SolarWinds: How Russian spies hacked the Justice, State, Treasury, Energy and Commerce Departments")
+
+
+[SolarWinds: How Russian spies hacked the Justice, State, Treasury, Energy and Commerce Departments](https://www.reddit.com/r/technology/comments/llj18h/solarwinds_how_russian_spies_hacked_the_justice/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![The best laptops of 2021 in Australia: our picks of the top laptops on sale now](https://cdn.mos.cms.futurecdn.net/pbMyEg3zPtnEmVsN4qv2dM-1200-80.jpg "The best laptops of 2021 in Australia: our picks of the top laptops on sale now")
+
+
+[The best laptops of 2021 in Australia: our picks of the top laptops on sale now](https://www.techradar.com/news/mobile-computing/laptops/best-laptops-1304361)
+
+
+> Looking for the best laptops of 2020? Then you've come to the right place, as on this page, we've listed the top laptops for all kinds of budgets, and each one has been thoroughly tested by us.The best laptop overall, in our opinion, is the MacBook Air (M1, 2020). Apple's refreshed thin and light laptop is an absolutely brilliant device that combines a gorgeous design with amazing battery life and superb performance thanks to its new M1 chip - which has been specially designed by Apple.It's not only the best laptop Apple has ever made, it's the best laptop money can buy right now.
+
+
+***
+![New part enables same-unit repair for iPhone 12 and iPhone 12 mini](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/iphone-12-mini.jpg "New part enables same-unit repair for iPhone 12 and iPhone 12 mini")
+
+
+[New part enables same-unit repair for iPhone 12 and iPhone 12 mini](https://www.imore.com/new-part-enables-same-unit-repair-iphone-12-mini-and-iphone-12)
+
+
+> Source: Apple As reported by MacRumors, it appears that Apple has figured out how to repair certain issues affecting the iPhone 12 mini and iPhone 12 without having to replace the entire phone. The new repair method will allow authorized repair technicians to offer same-unit repairs on devices experiencing power, logic board, and other issues. In an internal memo, obtained by MacRumors, Apple said technicians will be able to offer same-unit repairs starting February 23 for iPhone 12 mini and iPhone 12 models that are unable to be powered on or are experiencing issues with the logic board, Face ID system, or the enclosure of the device, such as cracked rear glass.
+
+
+***
+!['DOTA: Dragon's Blood' Netflix series will delve into the 'Dota 2' universe](https://mondrian.mashable.com/2021%252F02%252F17%252F45%252Fcb2ee9d9284b455d9500b2b77e352605.2880a.png%252F1200x630.png?signature=w8SResTJe7keodLbwk3DbFOMnBE= "'DOTA: Dragon's Blood' Netflix series will delve into the 'Dota 2' universe")
+
+
+['DOTA: Dragon's Blood' Netflix series will delve into the 'Dota 2' universe](https://mashable.com/video/dota-2-anime-dragons-blood-netflix/)
+
+
+> Netflix and developer Valve have just announced they're collaborating on a new anime series called DOTA: Dragon's Blood. Based on the popular video game Dota 2, the anime will follow fire-breathing hero Davion, the Dragon Knight. According to his Dota 2 backstory, Davion was asked by an old, dying dragon to grant him an honourable death in combat. When the knight obliged, the dragon used the last of its strength to imbue Davion with all his power and wisdom, turning Davion into the Dragon Knight and giving him the sick ability to transform into a giant flying reptile.
+
+
