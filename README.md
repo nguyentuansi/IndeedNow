@@ -28593,3 +28593,53 @@
 > Netflix and developer Valve have just announced they're collaborating on a new anime series called DOTA: Dragon's Blood. Based on the popular video game Dota 2, the anime will follow fire-breathing hero Davion, the Dragon Knight. According to his Dota 2 backstory, Davion was asked by an old, dying dragon to grant him an honourable death in combat. When the knight obliged, the dragon used the last of its strength to imbue Davion with all his power and wisdom, turning Davion into the Dragon Knight and giving him the sick ability to transform into a giant flying reptile.
 
 
+***
+![Depa puts focus on game service providers](https://static.bangkokpost.com/media/content/dcx/2021/02/17/3896311_700.png "Depa puts focus on game service providers")
+
+
+[Depa puts focus on game service providers](https://www.bangkokpost.com/tech/2069507/depa-puts-focus-on-game-service-providers)
+
+
+> A gamer plays a sports game at AIS e-sports studio. Thailand's gaming industry is projected to be valued at 33 billion baht this year. The Digital Economy Promotion Agency (Depa) is scaling up efforts to forge the establishment of Thailand-based game service providers as another driver for this multibillion-baht industry. Depa president and chief executive Nuttapon Nimmanphatcharin said Thailand's game industry was valued at 29 billion baht in 2020 with an average growth of 14% per year, based on his agency's survey.
+
+
+***
+![Apple fixes serious macOS Big Sur update bug that resulted in users losing all their data](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/apple-macbook-pro-16-review-malaysia-specs-price170221-seo.jpg "Apple fixes serious macOS Big Sur update bug that resulted in users losing all their data")
+
+
+[Apple fixes serious macOS Big Sur update bug that resulted in users losing all their data](https://www.soyacincau.com/2021/02/17/apple-fixes-macos-big-sur-update-bug-that-resulted-in-users-losing-all-their-data/)
+
+
+> According to Apple, a user would need at least 35.5GB of free available storage space when they attempt to install the OS. ― SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Feb 17 ― Apple macOS Big Sur was reported to have a big problem that resulted in data loss when users attempt to upgrade their Mac to the latest version but lacked the free space to do so. The Cupertino company has since released a new build of the operating system that fixes the issue.
+
+
+***
+![Nokia 5.4 goes on first sale today on Flipkart: Should you buy this Android One phone?](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/nokia_5_1200_210217093503.4_b_0-483x271.jpeg "Nokia 5.4 goes on first sale today on Flipkart: Should you buy this Android One phone?")
+
+
+[Nokia 5.4 goes on first sale today on Flipkart: Should you buy this Android One phone?](https://www.indiatoday.in/technology/news/story/nokia-5-4-goes-on-first-sale-today-on-flipkart-should-you-buy-this-android-one-phone-1769993-2021-02-17)
+
+
+> Nokia 5.4 in Polar Night colour. Highlights Nokia 5.4 first sale will be held today at noon on Flipkart. The Nokia 5.4 comes for a price of Rs 13,999 for the base variant. Nokia 5.4 brings Android One experience to the category. Nokia 5.4 will go on the first sale today in India. The smartphone was launched by HMD Global recently as its new budget offering. It is a gorgeous phone, much like some other Nokia phones, with a big display, a powerful battery, and, more importantly, the promise of clean software that is Android One.
+
+
+***
+![Is my office a safe place to work?](https://assets2.rappler.com/2021/02/women-office-masks-1613441901294.jpg "Is my office a safe place to work?")
+
+
+[Is my office a safe place to work?](https://www.rappler.com/brandrap/tech-and-innovation/signs-factors-safe-office-workplace-covid-19-pandemic)
+
+
+> Amid the pandemic, physical distancing regulations have now become one of our major considerations when going somewhere.  As we conduct our daily tasks and run our errands – such as going to the bank or buying groceries – it is inevitable that we encounter other people. Because of this, the need for public spaces to amplify their health and safety protocols is one that cannot be ignored.  Nowadays, consumers typically flock to establishments that facilitate minimized contact either through cashless payments, curbside pickups, or online deliveries.
+
+
+***
+![The 5 best Amazon deals you can get this Tuesday](https://www.gannett-cdn.com/presto/2021/02/17/USAT/0542c5a2-106e-47b7-b171-d4838d7d2e01-amazon-tuesd.jpg?crop=7375,4148,x32,y0&width=3200&height=1680&fit=bounds "The 5 best Amazon deals you can get this Tuesday")
+
+
+[The 5 best Amazon deals you can get this Tuesday](https://www.usatoday.com/story/tech/reviewedcom/2021/02/16/amazon-deals-shop-price-cuts-vacuums-tablets-and-more/4456575001/)
+
+
+> These deals are Reviewed-approved.   (Photo: Amazon/Tineco) — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Anytime Amazon has sales on great items, it's worth getting excited about. But it's even more exciting when those items just so happen to include a number of gear and gadgets we've already tested—and approved. That just so happens to be the case with a number of items on the site today–some of which are more than 40% off.
+
+
