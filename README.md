@@ -28493,3 +28493,53 @@
 > Cornerstone OnDemand (NASDAQ: CSOD ) stock increased by 9.61% to $50.71 during Tuesday's after-market session. Cornerstone OnDemand's trading volume hit 3.8K shares by close, accounting for 0.95% of its average volume over the last 100 days. The market value of their outstanding shares is at $3.2 billion. As per the news, the Q4 earnings report came out today. Cemtrex (NASDAQ: CETX ) shares increased by 8.2% to $2.9. Cemtrex's trading volume hit 48.3K shares by close, accounting for 2.84% of its average volume over the last 100 days.
 
 
+***
+![App Store will require apps offering vaccination proof to be submitted by health authorities](https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/Covid-vaccine-proof-apple-wallet.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "App Store will require apps offering vaccination proof to be submitted by health authorities")
+
+
+[App Store will require apps offering vaccination proof to be submitted by health authorities](https://9to5mac.com/2021/02/16/app-store-will-require-apps-offering-vaccination-proof-to-be-submitted-by-health-authorities/)
+
+
+> The vaccination against COVID-19 has started in several countries around the world, and we have already seen some apps that let users prove that they have taken the vaccine with just their iPhones. Now Apple is tightening the App Store rules to ensure that apps offering proof of vaccination are only submitted by health authorities. According to a statement shared with developers on Tuesday, Apple is seeing an increase in the number of apps that generate health passes with proof of vaccination, which can be required to enter buildings.
+
+
+***
+![Bringing MiniDisc back from the dead](https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_25/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_no_label_no_age_social_wm/db0770282da1e20440dd30ea1d854048cbac13bd "Bringing MiniDisc back from the dead")
+
+
+[Bringing MiniDisc back from the dead](https://www.smh.com.au/technology/bringing-minidisc-back-from-the-dead-20210215-p572ii.html)
+
+
+> They were invented by Sony in the early '90s, five years before the world's first MP3 player, but never took off; in part because of Sony's obsession with proprietary formats and oppressive digital rights management.Tape recorders were still standard issue for recording interviews back when I did my cadetship at The Age in the late '90s but, as a tech-head, I was one of the first journalists at the paper to make the leap to a portable MiniDisc recorder.On the train ride home I'd listen to music I'd copied from CD in flagrant disregard for Australia's archaic copyright laws.
+
+
+***
+![The 100 Best Games of the 2010s](https://techraptor.net/sites/default/files/styles/image_header/public/2019-12/Games%20of%20The%20Decade%202010s.jpg?itok=x4a3sYrt "The 100 Best Games of the 2010s")
+
+
+[The 100 Best Games of the 2010s](https://techraptor.net/gaming/features/100-best-games-2010s)
+
+
+> Looking at any ten year period in gaming's history, you're going to find a ton of really great games, but the 2010s were more than that. The past has been filled with a ton of amazing games, but 2010 is where gaming has really hit its stride across the board. The innovative indie scene has seen megahits that have propelled developers into the mainstream gaming consciousness, and we have seen the most refined game design ever. To call the 2010s, particularly the second half, a golden age of gaming would not be a stretch.
+
+
+***
+![Chancellor 'set to bring back £1,000 bonus for bosses that unfurlough staff'](https://www.thesun.co.uk/wp-content/uploads/2021/02/COMPS-DD-OPCHANCELLOR.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Chancellor 'set to bring back £1,000 bonus for bosses that unfurlough staff'")
+
+
+[Chancellor 'set to bring back £1,000 bonus for bosses that unfurlough staff'](https://www.thesun.co.uk/news/14070564/chancellor-jobs-tax-cut-cash-bunus-unfurlough-staff/)
+
+
+> RISHI Sunak wants to coax bosses into a hiring spree with his Budget next month. He is considering cutting the jobs tax and bringing back a £1,000 bonus for those that unfurlough staff. 🦠 Read our coronavirus liv e blog for the latest news & updates Chancellor Rishi Sunak wants to encourage bosses into a hiring spree with next month's Budget Credit: Reuters The Chancellor hopes he can wean employers off state support as shops, pubs and other businesses gradually reopen. A source said: 'The Treasury is keen to support jobs rather than businesses.
+
+
+***
+![Resetting your smartphone and erasing all your data isn't that hard (but a lot of people don't do it)](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/electronic_devices_170221-seo.jpg "Resetting your smartphone and erasing all your data isn't that hard (but a lot of people don't do it)")
+
+
+[Resetting your smartphone and erasing all your data isn't that hard (but a lot of people don't do it)](https://www.malaymail.com/news/tech-gadgets/2021/02/17/resetting-your-smartphone-and-erasing-all-your-data-isnt-that-hard-but-a-lo/1950374)
+
+
+> Before giving away or reselling your smartphone, you should make sure that all your personal data has been deleted. ― Getty Images via ETX Studio Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 17 ― While many studies, such as the one recently conducted by antivirus vendor Kaspersky, show that the majority of secondhand electronic devices still contain personal data from their previous owners, it is easy to dispose of them, making sure not to leave any trace behind.
+
+
