@@ -28874,3 +28874,50 @@
 > Paul Sawers / VentureBeat: Copado, a DevOps platform built for Salesforce, raises $96M Series B led by Insight partners and Salesforce Ventures, bringing its total funding to $117M — Copado, a developer operations (DevOps) platform built for Salesforce, has closed a $96 million series B round of funding co-led by Insight partners and Salesforce Ventures.
 
 
+***
+[Laptops at the Gaming Table, Part 1 of 2](https://gnomestew.com/laptops-part-1/)
+
+
+> It's the 21 st Century, and we still don't have flying cars, or meal tablets, or robo-maids. (Shut up, Roomba.) But we do have laptops at the gaming table. Ten years ago, only the very rich or slightly crazy (or both) would have a laptop at the table. Today, I'd bet that at least half of the tables out there have a laptop present. In this article, I'll cover the basic advantages and disadvantages of a laptop at the gaming table, along with some additional factors. If you do decide to make the digital leap, a future article will cover some of the tips and tricks that the fellow Gnomes and I have picked up over the years, so you can min-max your experience.
+
+
+***
+![Omensight: Definitive Edition Switch Trailer](https://i2.wp.com/www.iskmogul.com/wp-content/uploads/2018/12/omensight-switch_opt.jpg?fit=750%2C422&ssl=1 "Omensight: Definitive Edition Switch Trailer")
+
+
+[Omensight: Definitive Edition Switch Trailer](https://www.iskmogul.com/omensight-definitive-edition-launches-on-switch/)
+
+
+> The game coming to Switch brings a new and dark adventure to the mobile platform, with tons of unique content and an interesting story. The game's story takes great time-traveling tale to a really weird place, and it's surprisingly engaging. As the world is ending, you're tasked with the role of the Harbinger. The Harbinger is the catalyst for the entire story, and will ultimately decide the overall course of the game. Omensight brings in the time travel mechanics as a vital story element, wherein the player must go back and correct previous mistakes in order to get the needed aspects in place to achieve the desired ending.
+
+
+***
+![CooTek Looks Ahead to Rapid Growth in 2021 Thanks to New Partnerships and Key Strategy Shifts](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "CooTek Looks Ahead to Rapid Growth in 2021 Thanks to New Partnerships and Key Strategy Shifts")
+
+
+[CooTek Looks Ahead to Rapid Growth in 2021 Thanks to New Partnerships and Key Strategy Shifts](https://www.benzinga.com/markets/21/02/19706367/cootek-looks-ahead-to-rapid-growth-in-2021-thanks-to-new-partnerships-and-key-strategy-shifts)
+
+
+> After taking a hit in 2019, CooTek made a strong recovery in 2020, reporting a 238% year-over-year revenue increase in its most recent earnings call. CooTek had to make big changes and reexamine the core drivers of its success in order to make that recovery, and the numbers prove the company's success.  The source of this growth comes from a rebalancing and refocusing of its product portfolio, as well as a renewed commitment to use its powerful AI and data-driven systems to improve user experience across its platforms.
+
+
+***
+![Investors Are Now Valuing Stripe At $115 Billion](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602c43628fd0eb297af995dc%2F0x0.jpg "Investors Are Now Valuing Stripe At $115 Billion")
+
+
+[Investors Are Now Valuing Stripe At $115 Billion](https://www.forbes.com/sites/jeffkauflin/2021/02/17/investors-are-now-valuing-stripe-at-115-billion/)
+
+
+> Stripe CEO Patrick Collison started the fintech payments company with his brother John in 2010. Getty Images With additional reporting by Alex Konrad. Investors are valuing Stripe at a $115 billion valuation in 'secondary market' transactions, where shares of a private company's stock are sold after they were first issued. That valuation is up more than threefold from the $36 billion Stripe fetched when it raised money in April 2020 from venture firms including Andreessen Horowitz, General Catalyst and Sequoia.
+
+
+***
+![Shattered](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Shattered%20Tale%20Of%20The%20Forgotten%20King%20Main.jpg?itok=tBoVmR2I "Shattered")
+
+
+[Shattered](https://techraptor.net/gaming/reviews/shattered-tale-of-forgotten-king-review)
+
+
+> Here's a question for you to ponder: is Soulslike a helpful genre classification anymore? With such a wide variety in approach and aesthetic, you'd think these games would have escaped the shadow of their progenitor. Unfortunately, the  Dark Souls -slash-From Software gameplay loop is so distinctive that it's impossible to resist comparisons. Explore expansive environments, battle difficult enemies, rest periodically at checkpoints to replenish health items and unlock shortcuts to more easily resume exploration.
+
+
