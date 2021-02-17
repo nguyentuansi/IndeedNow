@@ -29018,3 +29018,53 @@
 > The outside of a proof of concept 3D printed house is pictured in Long Island, New York. Image Credit: REUTERS Most homes are built block by block, or brick by brick. But a demo house in Calverton, New York, was constructed scan by scan - its walls made using a giant three-dimensional printer. The demo house was built by construction firm SQ4D, to show the public and industry what was possible. Now the company is putting one up for sale - a still to-be-built house in the nearby town of Riverhead, which has been listed on property site Zillow at $299,000.
 
 
+***
+![TechnipFMC Awarded a Significant Integrated EPCI (iEPCI™) Contract for the Development of North El Amriya and North Idku (NEA/NI)](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "TechnipFMC Awarded a Significant Integrated EPCI (iEPCI™) Contract for the Development of North El Amriya and North Idku (NEA/NI)")
+
+
+[TechnipFMC Awarded a Significant Integrated EPCI (iEPCI™) Contract for the Development of North El Amriya and North Idku (NEA/NI)](https://www.benzinga.com/pressreleases/21/02/b19715038/technipfmc-awarded-a-significant-integrated-epci-iepci-contract-for-the-development-of-north-el-am)
+
+
+> Regulatory News: TechnipFMC (Paris:FTI) (NYSE: FTI ) (ISIN:GB00BDSFG982) has been awarded a significant (1) integrated Engineering Procurement Construction and Installation (iEPCI™) contract by NIpetco and PetroAmriya, two Joint Ventures between Energean and Egyptian Natural Gas Holding Company (EGAS) and Egyptian General Petroleum Corporation (EGPC) for a subsea tieback located offshore Egypt on the North El Amriya and North Idku concession. TechnipFMC will design, manufacture, deliver and install subsea equipment including the subsea production system, subsea trees, production manifolds, umbilicals, flexible pipelines, jumpers and associated subsea and topside controls.
+
+
+***
+![Bitcoin Cash, Ripple & Uniswap](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/bitcoin-1813503_1920_150.jpg "Bitcoin Cash, Ripple & Uniswap")
+
+
+[Bitcoin Cash, Ripple & Uniswap](https://www.benzinga.com/markets/cryptocurrency/21/02/19715246/bitcoin-cash-ripple-uniswap-american-wrap-2172021)
+
+
+> Bitcoin Cash price has been slowly climbing from a low of $601 on February 15 to $719 at the time of writing but could be on the verge of collapsing. There are many indicators that show BCH is extremely bearish and awaits a 19% downswing.  Ripple Price Forecast: XRP Is About To Breakout To $0.65 After a significant rebound from its local bottom at $0.30, XRP has managed to hit $0.64 again thanks to an initial pump that started on January 30 from the WallStreetBets community on Reddit. Ripple price is ready for another leg up as technicals scream buy.
+
+
+***
+![Facebook prohibits sharing of news content in Australia](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/Facebook-Austrailia.jpg?ve=1&tl=1 "Facebook prohibits sharing of news content in Australia")
+
+
+[Facebook prohibits sharing of news content in Australia](https://www.foxbusiness.com/technology/facebook-prohibits-sharing-of-news-content-in-australia)
+
+
+> Facebook Inc . said it would restrict publishers and users in Australia from viewing or sharing news articles, ramping up a standoff with the government there over a proposal that would force tech companies to pay newspapers for content. The Australian proposal , which is proceeding through the legislature, could prompt other countries to follow suit in a global transformation of the relationship between tech companies and traditional media. FACEBOOK EXPANDS PUSH TO COMBAT COVID-19 VACCINE MISINFORMATION Facebook's move will result in a blackout for content from Australian publishers on Facebook world-wide as well as the unavailability of stories from both domestic and international news content within Australia.
+
+
+***
+![Former top Homeland Security official responds to whistleblower allegations](https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/17/47ac6720-bdfe-443e-ba96-dc567e7c7663/thumbnail/1200x630/255a9e7bcfc3306bb6edcb9605f308a6/cbsn-fusion-ken-cuccinelli-whistleblower-allegations-homeland-security-thumbnail-648134-640x360.jpg "Former top Homeland Security official responds to whistleblower allegations")
+
+
+[Former top Homeland Security official responds to whistleblower allegations](https://www.cbsnews.com/video/ken-cuccinelli-whistleblower-allegations-homeland-security/)
+
+
+> No body in the article.
+
+
+***
+![Watch Live: Texas Governor Greg Abbott gives update on response to winter storm](https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/17/8e5bcbbf-dedd-4a11-b078-fd4b1f15a777/thumbnail/1200x630g4/184ee82e4a863b73faf856607290929c/gettyimages-1231221887.jpg "Watch Live: Texas Governor Greg Abbott gives update on response to winter storm")
+
+
+[Watch Live: Texas Governor Greg Abbott gives update on response to winter storm](https://www.cbsnews.com/news/texas-winter-storm-update-governor-greg-abbott-watch-live-stream-today-2021-02-17/)
+
+
+> February 17, 2021 / 2:43 PM / CBS News CBSN Live Texas Governor Greg Abbott is giving an update Wednesday as anger over the state's power outages in the face of a record winter freeze continued to mount, and as a large swath of the state is under yet another winter storm warning. Millions of residents in the energy capital of the U.S. remain shivering. Historic snowfall and single-digit temperatures created a surge in demand for electricity to warm up homes unaccustomed to such extreme lows, buckling the state's power grid and causing widespread blackouts.
+
+
