@@ -28780,3 +28780,53 @@
 > Continue reading the main storyFakes and little-known brands still abound, even as health officials have advised us to up our mask game. Here's what to do.Credit...Glenn HarveyFeb. 17, 2021, 5:00 a.m. ETA year into the coronavirus pandemic, buying a heavy-duty medical mask online remains downright maddening.The most coveted mask to keep safe against Covid-19 has been the N95, the gold standard for pandemic protection because of its tight fit and 95 percent efficiency in filtering airborne particles.
 
 
+***
+![Cambodia adopts China-style internet gateway amid opposition crackdown](https://assets2.rappler.com/2021/02/reuters-20210217-cambodia-internet-use-2021-02-17T111841Z_1708129341_RC2BUL92UX3I_RTRMADP_3_CAMBODIA-INTERNET-1613561080338.jpg "Cambodia adopts China-style internet gateway amid opposition crackdown")
+
+
+[Cambodia adopts China-style internet gateway amid opposition crackdown](https://www.rappler.com/technology/cambodia-adopts-china-style-internet-gateway-amid-opposition-crackdown)
+
+
+> Cambodia's government has issued a decree establishing a China-style internet gateway that will allow online traffic to be controlled and monitored, prompting local concern that democratic freedoms could be under threat. The 11-page decree announced on Wednesday, February 17, seeks to facilitate and manage internet connections to help revenue collection, protect national security and maintain social order, culture, and tradition. The gateway's operator will support authorities with "measures to prevent and disconnect all network connections that affect national income, security, social order, morality, culture, traditions and customs".
+
+
+***
+![Leniency observed in Facebook's treatment of Trump's false posts – study](https://assets2.rappler.com/2021/01/IMG_20210114_092942-1613562097432.jpg "Leniency observed in Facebook's treatment of Trump's false posts – study")
+
+
+[Leniency observed in Facebook's treatment of Trump's false posts – study](https://www.rappler.com/technology/social-media/leniency-observed-facebook-treatment-trump-false-posts-the-markup)
+
+
+> While Facebook banned former US president Donald Trump after the January 6 US insurrection, a study by US nonprofit newsroom The Markup found that it took a lot for a Trump post to be labeled false by the platform. "Trump's False Posts Were Treated with Kid Gloves by Facebook," its headline went. According to data gathered from 2,200 Facebook users volunteering in the newsroom's Citizen Browser project, labels that could have immediately informed someone that a post is false or misleading were unevenly applied.
+
+
+***
+![Italian watchdog fines Facebook 7 million euros over improper data use](https://assets2.rappler.com/2021/02/reuters-20200106-facebook-logo-1613559372054.jpg "Italian watchdog fines Facebook 7 million euros over improper data use")
+
+
+[Italian watchdog fines Facebook 7 million euros over improper data use](https://www.rappler.com/technology/social-media/italian-watchdog-fines-facebook-improper-data-use)
+
+
+> Italy's competition watchdog has fined Facebook 7 million euros ($8.5 million) for not complying with a request to correct improper commercial practices in its treatment of user data, the regulator said on Wednesday, February 17. In November 2018, the antitrust body ruled Facebook had not informed users properly about its collection and use of data. It fined the US company 5 million euros ($5.5 million) and asked it to publish an amended statement on the homepage of its website for Italy, on the Facebook app, and on the personal page of each registered Italian user.
+
+
+***
+![Infographic: NASA's Mars 2020 mission](https://imagevars.gulfnews.com/2021/02/17/20210217-perseverance_177af3e531e_medium.jpg "Infographic: NASA's Mars 2020 mission")
+
+
+[Infographic: NASA's Mars 2020 mission](https://gulfnews.com/technology/infographic-nasas-mars-2020-mission-1.1613552885882)
+
+
+> Latest News UAE Living In UAE Gulf Your Money Saving and Investment Budget Living Taxation Expert Columns Community Tips Business World Opinion Editorials Op-Eds Letters Off the Cuff Cartoons From the Editors Sport Entertainment Going Out Photos News Entertainment Readers' Photos Lifestyle Business Sports Parenting Pregnancy & Baby Learning & Play Child Health For Mums & Dads Ask Us Auto News Test Drives Car Culture Auto Care Lifestyle GN Reach Jobs Tech Electronics Gaming Trends Fin-Tech Media
+
+
+***
+![How to leave a meeting without an awkward goodbye](https://ichef.bbci.co.uk/images/ic/400xn/p096hhls.jpg "How to leave a meeting without an awkward goodbye")
+
+
+[How to leave a meeting without an awkward goodbye](https://www.bbc.com/news/av/technology-56002148)
+
+
+> One of the most embarrassing parts of a video call can be trying to leave but failing to find the right button. Now a device which allows you to finish a call more easily has been invented. Created by Brian Moore, a 3D-printed pull cord sends an instruction via Bluetooth to your computer to end the call. BBC Click's Spencer Kelly reports. See more at Click's website and @BBCClick
+
+
