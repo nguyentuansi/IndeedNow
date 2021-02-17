@@ -28921,3 +28921,50 @@
 > Here's a question for you to ponder: is Soulslike a helpful genre classification anymore? With such a wide variety in approach and aesthetic, you'd think these games would have escaped the shadow of their progenitor. Unfortunately, the  Dark Souls -slash-From Software gameplay loop is so distinctive that it's impossible to resist comparisons. Explore expansive environments, battle difficult enemies, rest periodically at checkpoints to replenish health items and unlock shortcuts to more easily resume exploration.
 
 
+***
+![AI-based software tool for automated diagnosis of COVID-19 lung infection](https://scx2.b-cdn.net/gfx/news/hires/2021/aibasedsoftw.jpg "AI-based software tool for automated diagnosis of COVID-19 lung infection")
+
+
+[AI-based software tool for automated diagnosis of COVID-19 lung infection](https://techxplore.com/news/2021-02-ai-based-software-tool-automated-diagnosis.html)
+
+
+> Key steps in the proposed approach for automated segmentation of abnormalities/anomalies in chest CT images. Credit: IEEE A new software tool that reveals the severity of lung infections in COVID-19 patients has been developed by researchers from the Departments of Computational and Data Science (CDS) and Instrumentation and Applied Physics at the Indian Institute of Science (IISc), in collaboration with colleagues from the Oslo University Hospital and the University of Agder in Norway. It has been described in a recent study published in the journal IEEE Transactions on Neural Networks and Learning Systems.
+
+
+***
+![OnePlus 9 release date, price, specs and latest news](https://images.immediate.co.uk/production/volatile/sites/3/2021/02/OnePlus-9-release-date-e996023.png?quality=90&resize=620,413 "OnePlus 9 release date, price, specs and latest news")
+
+
+[OnePlus 9 release date, price, specs and latest news](https://www.radiotimes.com/technology/oneplus-9-release-date/)
+
+
+> Despite having only launched its last phone, the 8T, in October last year, OnePlus is already prepping to replace it. Its successor, the OnePlus 9, along with two other models are expected to be released in March, and with only a month to go, there is much speculation about what the phone will look like. So far we've seen leaked specs and a few sneak peeks at what the OnePlus 9 could look like, but very little when it comes to confirmed details. We expect OnePlus to reveal more about its new flagship phone closer to the time, but here is everything we know so far on the price, specs and latest news and rumours about that highly-anticipated release date.
+
+
+***
+![PSA: Don't dive into freezing water to save an iPhone. Obviously.](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/01/catalyst-waterproof-case-camera-iphone-xs-max-hero.jpeg "PSA: Don't dive into freezing water to save an iPhone. Obviously.")
+
+
+[PSA: Don't dive into freezing water to save an iPhone. Obviously.](https://www.imore.com/psa-dont-dive-freezing-water-save-iphone-obviously)
+
+
+> madness But you knew that already, right? 17 Feb 2021 Source: Catalyst A British Columbia man decided it was a good idea to jump into freezing water to save his iPhone XS. The stricken iPhone continued to work after spending a day underwater. I can't believe that I need to say this but an iPhone XS isn't worth risking your life for. One British Columbia man would disagree, however, after he reportedly threw himself into freezing water to retrieve his iPhone XS. First reported by Victoria Buzz and spotted by AppleInsider, the story goes that Roman Czarnomski managed to drop his iPhone into the water when taking photos.
+
+
+***
+[GBPJPY moves down to a cluster of support](https://www.forexlive.com/technical-analysis/!/gbpjpy-moves-down-to-a-cluster-of-support-20210217)
+
+
+> Support stalls the fall The GBPJPY moved down along with the other JPY crosses today, but has found a cluster of support defined by some swing lows from February 15, the 38.2% of the move up from the Feb 12 low and the underside of a broken trend line. All converged right around the 146.38 level. 
+
+
+***
+![Skull & Bones release date, news and trailers](https://cdn.mos.cms.futurecdn.net/GZTyqhayKut9Gam4htNCo5-1200-80.jpg "Skull & Bones release date, news and trailers")
+
+
+[Skull & Bones release date, news and trailers](https://www.techradar.com/news/skull-and-bones-release-date-news-and-trailers)
+
+
+> Ubisoft's piratical adventure Skull & Bones has had a troubled development but be assured it is still on the horizon. Announced back in 2017 at Ubisoft's E3 conference with a scheduled release date of 2018, the game has since been delayed several times. However, after an update in September 2020 (more on that below), we know that Skull & Bones is still in the works and that production is 'in full swing with a new vision.' It remains unclear what this 'new vision' involves, though there have been rumors that Ubisoft is looking to introduce more live game elements, and we still don't know an exact release date.
+
+
