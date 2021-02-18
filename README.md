@@ -29547,3 +29547,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![UN: Huge changes in society needed to keep nature, Earth OK](https://s.abcnews.com/images/Technology/WireAP_1cb787dd2a5c478f9280b85a98bfed48_16x9_992.jpg "UN: Huge changes in society needed to keep nature, Earth OK")
+
+
+[UN: Huge changes in society needed to keep nature, Earth OK](https://abcnews.go.com/Technology/wireStory/huge-society-needed-nature-earth-75972560)
+
+
+> Humans are making Earth a broken and increasingly unlivable planet through climate change, biodiversity loss and pollution. So the world must make dramatic changes to society, economics and daily life, a new United Nations report says. Unlike past U.N. reports that focused on one issue and avoided telling leaders actions to take, Thursday's report combines three intertwined environment crises and tells the world what's got to change. It calls for changing what governments tax, how nations value economic output, how power is generated, the way people get around, fish and farm, as well as what they eat.
+
+
+***
+![Tech that can improve your gaming experience](https://i1.wp.com/invisioncommunity.co.uk/wp-content/uploads/2021/02/Tech.jpg "Tech that can improve your gaming experience")
+
+
+[Tech that can improve your gaming experience](https://invisioncommunity.co.uk/tech-that-can-improve-your-gaming-experience/)
+
+
+> Tags Gaming Experience tech Tech that can improve your gaming experience Hello, My name is Alison, I am the site manager of IGC and good friends of Craig (Finite), I actually live on the same street as him, that's how close we are. This account is being used to post news by myself, and a few members of our team. Personally, I am an avid fan of JRPG's and RPG's in general, I also love old school retro platformers like Mario, and finally, for some reason, I enjoy souls-like games. I run my own business along with 2 other sites, one for holidays and the other for music.
+
+
+***
+![Britain must hold firm against Facebook's dangerous ban on news](https://www.telegraph.co.uk/content/dam/technology/2021/02/18/TELEMMGLPICT000251321353_1_trans_NvBQzQNjv4BqkZdGXfzOPVSbO-9sH583RFqaPefEGY05nXXPGqlPqGQ.jpeg?impolicy=logo-overlay "Britain must hold firm against Facebook's dangerous ban on news")
+
+
+[Britain must hold firm against Facebook's dangerous ban on news](https://www.telegraph.co.uk/technology/2021/02/18/britain-must-hold-firm-against-facebooks-dangerous-ban-news/)
+
+
+> This has become increasingly important as more people use companies like Facebook as a source for news. In the UK, over a third of people regularly get their news from Facebook, meaning that rather than viewing it on news websites or on broadcast channels or buying a newspaper, they principally get it through social media. News publishers make no or very little money from this, so the Australian Government is requesting that companies like Facebook, make a contribution back for content they themselves make money out of, so that content has got a sustainable future.
+
+
+***
+![Nioh 2](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Nioh2_Review_header.jpg?itok=DId9F6n8 "Nioh 2")
+
+
+[Nioh 2](https://techraptor.net/gaming/reviews/nioh-2-complete-edition-review)
+
+
+> In the wave of imitators to Dark Souls that have released over the last decade, Team Ninja's 2017 hit Nioh stood out as perhaps the best attempt at replicating FromSoftware's formula. While not strictly mimicking every mechanic and idea, it nonetheless captured the same intensity with its combat and intrigue with its level design that mixed historical facts with mythological fiction. It also saw Team Ninja recover from the loss of Itagaki in 2008 (a departure that haunted the company for nearly a decade) by making possibly the best game in its storied history.
+
+
+***
+[Why is Facebook founder Mark Zuckerberg at war with Australia?](https://filmdaily.co/tech/facebook-war/)
+
+
+> Facebook has recently made a shocking new business decision to block news sharing in Australia. Has the founder declared war? The post Why is Facebook founder Mark Zuckerberg at war with Australia? appeared first on Film Daily.
+
+
