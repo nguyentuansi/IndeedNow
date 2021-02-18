@@ -29162,3 +29162,53 @@
 > Who's noticed since iPadOS 14.x using iPad and it becomes unresponsive? iPad (6th generation) Such as webpages in Safari stop responding, tabs frozen, URL bar doesn't respond, open the keyboard to type and each letter takes 10 seconds or so to display, iPad hangs and freezes for 10+ seconds, same in email, same for other apps like NPlayer just hang and stall trying to access network folders, spin spin spin for so long time, totally fsckd. For me its happening many times a day, have to shut it down and restart.
 
 
+***
+![Facebook news goes dark in Australia as content spat escalates](https://assets2.rappler.com/2021/02/reuters-021021-facebook-1-1613607433245.jpg "Facebook news goes dark in Australia as content spat escalates")
+
+
+[Facebook news goes dark in Australia as content spat escalates](https://www.rappler.com/technology/social-media/facebook-blocks-news-content-australia-blasts-proposed-law)
+
+
+> Australians woke to empty news feeds on their Facebook Inc pages on Thursday after the social media giant blocked all media content in a surprise and dramatic escalation of a dispute with the government over paying for content. The move, announced in a blog post on Wednesday, represents a divergence in responses among the big tech giants to demands by news publishers, which have blamed the companies for destroying their advertising business. The move was swiftly criticized by news producers, politicians and human rights advocates, many of whom pointed out that official health and meteorology information had also been scrubbed during the coronavirus pandemic and at the height of Australia's summer bushfire season.
+
+
+***
+![Facebook blocks news from Australia, dozens of public information pages wiped](https://assets2.rappler.com/2021/02/2021-02-09T202005Z_428805719_RC28PL9BBXRH_RTRMADP_3_MEXICO-SOCIALMEDIA-1613609775214.jpg "Facebook blocks news from Australia, dozens of public information pages wiped")
+
+
+[Facebook blocks news from Australia, dozens of public information pages wiped](https://www.rappler.com/technology/social-media/facebook-blocks-news-australia-dozens-public-information-pages-wiped)
+
+
+> Australians woke to empty news feeds in their Facebook Inc accounts on Thursday, February 18, after the social media giant blocked all local media content in a surprise and dramatic escalation of a dispute with the government over paying for content. The move was swiftly criticized by several local media outlets and lawmakers, many of whom pointed out that official health department pages and government meteorology pages had also been scrubbed – during the coronavirus pandemic and at the height of Australia's summer bushfire season.
+
+
+***
+![Banning news links just days before Australia's COVID-19 vaccine rollout? Facebook, that's just dangerous](https://assets2.rappler.com/2021/02/2021-02-15T015358Z_1890327932_RC2PSL9TH4GK_RTRMADP_3_HEALTH-CORONAVIRUS-AUSTRALIA-1613620056985.jpg "Banning news links just days before Australia's COVID-19 vaccine rollout? Facebook, that's just dangerous")
+
+
+[Banning news links just days before Australia's COVID-19 vaccine rollout? Facebook, that's just dangerous](https://www.rappler.com/technology/social-media/banning-news-days-before-australia-covid-19-vaccine-rollout-facebook-dangerous)
+
+
+> Facebook's decision to ban media organizations from posting links to news articles on the social media giant's platform comes less than a week before Australia's COVID-19 vaccine rollout begins. The ban also prevented many health organizations, government health departments, and other organizations from posting links (some, but not all, have now been restored). The combined effect of this could be incredibly damaging. My research is on how poor-quality information and misinformation in online environments, including social media, is presenting serious challenges for public health.
+
+
+***
+![Lessons we learned from Sprout HR Experts webinar on logistics](https://assets2.rappler.com/2021/02/logistics-truck-delivery-1613615200978.001.jpeg "Lessons we learned from Sprout HR Experts webinar on logistics")
+
+
+[Lessons we learned from Sprout HR Experts webinar on logistics](https://www.rappler.com/brandrap/tech-and-innovation/lessons-sprout-dingdong-ph-human-resources-experts-webinar-logistics)
+
+
+> In the first half 2020, more Filipinos turned to online shopping as quarantine regulations were implemented nationwide. Logistics companies then faced a new challenge: how could they adapt to the increased need for their services?  This was the central topic discussed in 'The Rise of Logistics in a Post-Pandemic World', a free webinar conducted by Sprout Solutions, one of the leading innovators of automated HR and payroll services in the Philippines, and DingDong PH, the fastest-rising delivery app and web-based platform, on January 28.
+
+
+***
+![What we know so far about Facebook's blocking of news content in Australia](https://assets2.rappler.com/2021/01/reuters-012821-facebook-1613615442796.jpg "What we know so far about Facebook's blocking of news content in Australia")
+
+
+[What we know so far about Facebook's blocking of news content in Australia](https://www.rappler.com/technology/what-we-know-so-far-facebook-blocking-news-content-read-shared-australia-2021)
+
+
+> International news sites, including those from the Philippines, were also blocked. Here are the details so far: According to William Easton, managing director at Facebook Australia & New Zealand, Australian publishers are restricted from sharing or posting any content on Facebook pages. Page administrators will still be able to access other features, including Page Insights and Creator Studio, as well as data tools and CrowdTangle. This means users in and out of the country cannot view or share Australian news content on Facebook or content from Australian news pages.
+
+
