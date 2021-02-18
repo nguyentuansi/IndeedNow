@@ -29406,3 +29406,47 @@
 > Asus ROG Strix Scar 17 G733 with Nvidia GeForce RTX 30 Series Video Credit: Vaibhav Pradip A new era of laptops begins today featuring the Nvidia Ampere architecture, with the launch of Asus ROG Strix Scar 17 G733 powered by GeForce RTX 30 Series Laptop GPUs. Nearly three-quarters of laptop gamers play esports, spurring the popularity of high-refresh-rate laptops, sales of which doubled last year. Over half of the new GeForce RTX 30 Series laptops will offer 240Hz or higher refresh rates. With the performance of the GeForce RTX 3080 Laptop GPU, gamers will be able to play at 240 frames per second across top titles like Overwatch, Rainbow Six, Valorant and Fortnite.
 
 
+***
+![Review: Little Nightmares 2 is an artistic experience](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/little-nightmares-2-switch-hero.jpg "Review: Little Nightmares 2 is an artistic experience")
+
+
+[Review: Little Nightmares 2 is an artistic experience](https://www.imore.com/little-nightmares-ii-review-nintendo-switch)
+
+
+> Source: iMore As an enthusiast of all things dark, strange, and horror, I was immediately drawn into Little Nightmares 2 the very second the menu screen came up on my Nintendo Switch. The creepy, haunted music box style song, the crash of the waves in a hauntingly otherwise silent land — it created a perfect ambiance for the rest of the game. It may look cute, but when it comes to envoking fear, this game does not hold back. Bottom line: For a horror, this is an oddly beautiful game filled with gorgeous scenes and amazing detail.
+
+
+***
+[I just had a baby, so naturally I had to program a tool for deciphering his schedule](https://www.reddit.com/r/Python/comments/lmnd6w/i_just_had_a_baby_so_naturally_i_had_to_program_a/)
+
+
+> (TLDR at the bottom) THE SITUATION My son came into the world last month and, as first time parents, we've had a hard time handling his hectic feeding schedule. He would burst into screams, and we'd scramble to get a bottle prepared/warmed. However there wasn't a very good way to know how much milk to warm (once you heat it, it has to be either consumed or discarded). And since a bottle takes 5+ minutes to heat up, we'd spend that time fumbling to soothe him until it was ready. After one-to-two weeks of this, I decided to do something about it.
+
+
+***
+![Pick Up The PowerA Nintendo Switch (Mario White) Controller For $15](https://www.androidheadlines.com/wp-content/uploads/2021/02/6425373cv16d.jpeg "Pick Up The PowerA Nintendo Switch (Mario White) Controller For $15")
+
+
+[Pick Up The PowerA Nintendo Switch (Mario White) Controller For $15](https://www.androidheadlines.com/powera-nintendo-switch-controller-mario-sale)
+
+
+> Best Buy has the PowerA wired Nintendo Switch Controller (in Mario White) available for just $14.99. That's going to save you $9 on its regular price. Making it a really great deal. Not to mention, Mario is on the actual controller, which looks really cool.Play your favorite Nintendo Switch games in style using this officially licensed PowerA Enhanced Wired Controller. Designed for comfort during extended gaming sessions, this wired controller features a 3.5mm audio jack, mappable Advanced Gaming Buttons, and standard ergonomic layout.
+
+
+***
+![Samsung's Android 11 update has one big problem](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/samsung-galaxy-s21-review-3.jpg "Samsung's Android 11 update has one big problem")
+
+
+[Samsung's Android 11 update has one big problem](https://www.androidcentral.com/samsung-aggressively-killing-background-apps-android-11-theres-easy-fix)
+
+
+> Source: Hayato Huseman / Android Central Samsung is now the top Android manufacturer on the DontKilllMyApp chart. DontKillMyApp is a website that ranks Android manufacturers based on how aggressively they kill background apps on their phones. Before it released the Android 11-based One UI 3.0 update, Samsung was placed third on the list. Samsung has done a phenomenal job with its Android 11-based One UI 3.0 rollout so far. Nearly all of its 2019 flagships have already been updated to Android 11, and the update is now heading to the company's budget and mid-range devices.
+
+
+***
+[Midway Through The End-to-End ML MVP Tutorial I'm Making for My Students: I Speedran The Last Couple Videos So Please Let Me Know If You Have Questions!](https://www.reddit.com/r/Python/comments/lmnbqd/midway_through_the_endtoend_ml_mvp_tutorial_im/)
+
+
+> submitted by /u/chriskok1337 [link] [comments]
+
+
