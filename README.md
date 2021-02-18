@@ -29256,3 +29256,53 @@
 > CAPE CANAVERAL, Fla. – A NASA rover streaked toward a landing on Mars on Thursday in the riskiest step yet in an epic quest to bring back rocks that could answer whether life ever existed on the red planet.Ground controllers at the space agency's Jet Propulsion Laboratory in Pasadena, California, settled in nervously for the descent of Perseverance to the surface of Mars, long a deathtrap for incoming spacecraft. It takes a nail-biting 11 1/2 minutes for a signal that would confirm success to reach Earth.
 
 
+***
+![Digi sets up free 4G-powered WiFi to help B40 students in five states](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/digi_b40_18022021-seo.jpg "Digi sets up free 4G-powered WiFi to help B40 students in five states")
+
+
+[Digi sets up free 4G-powered WiFi to help B40 students in five states](https://www.malaymail.com/news/tech-gadgets/2021/02/18/digi-sets-up-free-4g-powered-wifi-to-help-b40-students-in-five-states/1950788)
+
+
+> For the last two months, the company has installed wireless routers in various facilities in the PPR vicinity. — SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Feb 18 — Digi shared that they have set up free 4G WiFi at 12 People's Housing Programmes ( PPR ) in Perlis, Perak, Terengganu, Melaka, and Johor. The effort is to 'help facilitate online learning for students among the B40 communities' until they've finished their exams at the end of April 2021.
+
+
+***
+![Which fibre broadband provider cost the most to terminate within contract?](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/210209-fibre-broadband-unifi-time-maxis-768x414-seo.jpg "Which fibre broadband provider cost the most to terminate within contract?")
+
+
+[Which fibre broadband provider cost the most to terminate within contract?](https://www.soyacincau.com/2021/02/18/compare-fibre-broadband-termination-policy-within-contract-unifi-maxis-time-digi-celcom/)
+
+
+> What happens if you need to terminate your fibre broadband during the contract due to unforeseen circumstances? — SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Feb 18 — Most fibre broadband plans in Malaysia typically come with a 24-month contract in exchange for free router with no additional upfront payment required. But what happens if you need to terminate your fibre broadband during the contract due to unforeseen circumstances? To find out, we've compared the contract termination policies of our main fibre broadband providers such as TM Unifi, Maxis, Time, Digi and Celcom.
+
+
+***
+![Hong Kong sees rush for burner phones as government pushes contact-tracing app](https://assets2.rappler.com/2021/02/reuters-20210218-hong-kong-leavehomesafe-app-1000px-2021-02-18T055905Z_1451877196_RC2TUL9JEFYZ_RTRMADP_3_HEALTH-CORONAVIRUS-HONGKONG-1613633912041.jpg "Hong Kong sees rush for burner phones as government pushes contact-tracing app")
+
+
+[Hong Kong sees rush for burner phones as government pushes contact-tracing app](https://www.rappler.com/technology/gadgets/hong-kong-rush-burner-phones-government-pushes-contact-tracing-app)
+
+
+> Electronics shops in Hong Kong have seen a sharp increase in demand for cheap burner phones as the Chinese-ruled city's government eases coronavirus restrictions but pushes the use of a contact-tracing app which has raised privacy concerns. The former British colony saw anti-government and anti-China protests erupt in 2019 and a sweeping national security law imposed by Beijing in 2020 in response, along with the arrest of most of its prominent pro-democracy activists. The swift authoritarian turn taken by the government, which denies curbing the rights and freedoms of the special administrative region's 7.
+
+
+***
+![Australia's news revenue-sharing law behind battle with Big Tech](https://assets2.rappler.com/2021/02/reuters-fb-australian-news-02182021-1613631458061.jpg "Australia's news revenue-sharing law behind battle with Big Tech")
+
+
+[Australia's news revenue-sharing law behind battle with Big Tech](https://www.rappler.com/technology/social-media/australia-news-revenue-sharing-law-battle-big-tech-explainer)
+
+
+> Facebook has blocked Australian users from sharing and viewing news content on its popular social media platform, escalating a dispute with the government over paying media publishers for content. While Big Tech and media outlets have battled over the right to news content in other jurisdictions, Australia's looming law represents the most expansive reform and is being closely watched around the world. The so-called Media Bargaining Code has been designed by the government and competition regulator to address a power imbalance between the social media giants and publishers when negotiating payment for news content used on the tech firms' sites.
+
+
+***
+![Facebook has pulled the trigger on news content — and possibly shot itself in the foot](https://assets2.rappler.com/2021/02/2048px-Mark_Zuckerberg_F8_2018_Keynote-1613623818826.jpg "Facebook has pulled the trigger on news content — and possibly shot itself in the foot")
+
+
+[Facebook has pulled the trigger on news content — and possibly shot itself in the foot](https://www.rappler.com/technology/social-media/facebook-pulled-trigger-blocking-news-content-australia-possibly-shot-itself-foot)
+
+
+> Facebook today made good on its  threat  to block Australians from accessing or posting news content. The ban includes blocking links to Australian and overseas news publishers. Facebook said the ban was a direct response to the federal government's news media code legislation, which is expected to become law soon and would require digital platforms such as Facebook and Google to pay news media companies whose content they host. The move is either a last-ditch attempt to gain concessions in the legislation, or a simple cut-and-run by Facebook.
+
+
