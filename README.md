@@ -29068,3 +29068,50 @@
 > February 17, 2021 / 2:43 PM / CBS News CBSN Live Texas Governor Greg Abbott is giving an update Wednesday as anger over the state's power outages in the face of a record winter freeze continued to mount, and as a large swath of the state is under yet another winter storm warning. Millions of residents in the energy capital of the U.S. remain shivering. Historic snowfall and single-digit temperatures created a surge in demand for electricity to warm up homes unaccustomed to such extreme lows, buckling the state's power grid and causing widespread blackouts.
 
 
+***
+![Ninja Gaiden Master Collection slices its way onto Steam in June](https://www.pcinvasion.com/wp-content/uploads/2021/02/ninja-gaiden-master-collection-steam-june.jpg "Ninja Gaiden Master Collection slices its way onto Steam in June")
+
+
+[Ninja Gaiden Master Collection slices its way onto Steam in June](https://www.pcinvasion.com/ninja-gaiden-master-collection-steam-june/)
+
+
+> Ah, Ninja Gaiden . To this day, since I played the original game back in 2004, I still think about it — the style, the action, all that colorful swearing. I've often imagined what it would be like to play Ninja Gaiden again, but on PC. Today, that desire was granted by Koei Tecmo. During the earlier Nintendo Direct, the publisher unveiled the Ninja Gaiden Master Collection , an anthology of the three hack ‘n' slash games that began on the original Xbox. The  Ninja Gaiden Master Collection consists of the final versions of the trilogy, and will be available on PC via Steam on June 10.
+
+
+***
+[DataRobot Feature Discovery integration with Snowflake improves models' accuracy](https://www.helpnetsecurity.com/2021/02/18/datarobot-snowflake/)
+
+
+> DataRobot announced the latest integration with Snowflake. Building off of DataRobot's expanded partnership and existing integration with Snowflake, the new Feature Discovery pushdown integration dramatically improves the speed and accuracy of developing models, unlocking new use cases, and accelerating time to value for joint customers. DataRobot's Feature Discovery, which has been a part of the DataRobot enterprise AI platform since 2019, automatically discovers, tests, and creates hundreds of valuable new features for machine learning models.
+
+
+***
+![the legend of zelda](https://www.eluniversal.com.mx/sites/all/themes/universal/images/default600x315px.jpg "the legend of zelda")
+
+
+[the legend of zelda](https://www.eluniversal.com.mx/tag/legend-zelda)
+
+
+> Techbit 27/02/2017 Disfruta de La La Land, The Matrix, Sin City, The Avengers y otras fabulosas películas al estilo 8 bits
+
+
+***
+![Facebook bans all news for Australian users amid government spat](https://www.telegraph.co.uk/content/dam/technology/2021/02/17/TELEMMGLPICT000250121736_trans_NvBQzQNjv4Bqprz2gMA9YgKCL6PlJRPofBPEZMttGJla8VnaqORq7Do.jpeg?impolicy=logo-overlay "Facebook bans all news for Australian users amid government spat")
+
+
+[Facebook bans all news for Australian users amid government spat](https://www.telegraph.co.uk/technology/2021/02/17/facebook-bans-news-australian-users/)
+
+
+> Facebook has taken the nuclear option in its dispute over new Australian media laws, banning news content from its service entirely rather than be forced to pay for it. The social media giant said on Wednesday that it had blocked all Australian publishers from posting on Facebook and prevented users across the world from sharing their content, as well as hiding all news and journalism from Australian users. It came in response to a new government media code that would force Facebook and Google to agree direct fees with news producers or else accept a price decided from an official arbitrator.
+
+
+***
+![Omegle: Children expose themselves on video chat site](https://ichef.bbci.co.uk/news/1024/branded_news/D3A3/production/_116997145_omeglemainimage.jpg "Omegle: Children expose themselves on video chat site")
+
+
+[Omegle: Children expose themselves on video chat site](https://www.bbc.com/news/technology-56085499)
+
+
+> By Joe Tidy Cyber reporter Warning: this story contains disturbing adult themes. A BBC investigation into the increasingly popular live video chat website Omegle has found what appear to be prepubescent boys explicitly touching themselves in front of strangers. Omegle links up random people for virtual video and text chats, and claims to be moderated - but has a reputation for unpredictable and shocking content. Global child protection groups are increasingly concerned about predators using the site to gather self-generated child sexual abuse material.
+
+
