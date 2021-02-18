@@ -29356,3 +29356,53 @@
 > No body in the article.
 
 
+***
+![What Facebook's news content ban means for Filipinos in Australia](https://assets2.rappler.com/2021/02/facebook-news-block-1-1613643235948.jpg "What Facebook's news content ban means for Filipinos in Australia")
+
+
+[What Facebook's news content ban means for Filipinos in Australia](https://www.rappler.com/technology/what-facebook-news-content-ban-means-impact-filipinos-australia)
+
+
+> As one of the largest migrant groups in Australia, Filipinos are sure to be affected by Facebook's ban of local and international news content from its news feed in the country. Data from the Australian government shows that Filipinos are the 5th largest migrant community, with 277,510 Filipino-born people living in the country as of June 2018. Overseas Filipinos, in general, use Facebook to connect to friends and family back in the Philippines, which is dubbed the social media capital of the world.
+
+
+***
+![Facebook 'unfriends' Australia; news pages go dark in test for global publishing](https://assets2.rappler.com/2021/02/reuters-20210218-australia-facebook-2021-02-18T091735Z_263791565_RC2XUL9Q6QLC_RTRMADP_3_AUSTRALIA-MEDIA-FACEBOOK-1613646060581.jpg "Facebook 'unfriends' Australia; news pages go dark in test for global publishing")
+
+
+[Facebook 'unfriends' Australia; news pages go dark in test for global publishing](https://www.rappler.com/technology/social-media/facebook-unfriends-australia-news-pages)
+
+
+> Australians woke to empty Facebook news feeds on Thursday, February 18, after the social media giant blocked all media content in a surprise escalation of a dispute with the government, which could be a test for the future of online publishing worldwide. The move was swiftly criticized by news producers, politicians and human rights advocates, particularly as it became clear that official health pages, emergency safety warnings, and welfare networks had all been scrubbed from the site along with news.
+
+
+***
+![Facebook, the social media behemoth, throws its weight around](https://assets2.rappler.com/2021/02/2021-02-04T201048Z_325039418_RC2WLL95G79I_RTRMADP_3_MYANMAR-POLITICS-FACEBOOK-1613642994379.jpg "Facebook, the social media behemoth, throws its weight around")
+
+
+[Facebook, the social media behemoth, throws its weight around](https://www.rappler.com/technology/features/facebook-australia-news-ban-social-media-behemoth-throws-weight-around)
+
+
+> Facebook laid out on a platter the final evidence we needed to see how much of a dictator the platform has become. Cross us, and we'll ban you – even if we are right in the middle of an disinformation crisis that has, in spite of efforts worldwide, shown no signs of slowing down. This is the message that the company sent as it silenced Australian media over a law attempting to correct an imbalance that has news outfits gasping for air.  Facebook knows all too well the weight it carries, and that's all too evident in a blog post that's disingenuous, to say the least.
+
+
+***
+![New Nintendo Switch games revealed – including Mario Golf, Fall Guys and Star Wars](https://www.thesun.co.uk/wp-content/uploads/2021/02/mario.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "New Nintendo Switch games revealed – including Mario Golf, Fall Guys and Star Wars")
+
+
+[New Nintendo Switch games revealed – including Mario Golf, Fall Guys and Star Wars](https://www.thesun.co.uk/tech/14085521/new-nintendo-switch-games-2021-2022-mario-golf-fall-guys-star-wars/)
+
+
+> NINTENDO has revealed dozens of new games coming out this year and next. During a special Direct event, Nintendo Switch owners were bombarded with new titles approaching launch. Your Nintendo Switch is getting loads of new games this yearCredit: Nintendo The list includes a mix of newer games and existing titles from other platforms – as well as some older Nintendo ports. There's something for everyone, with a good mix of traditional Nintendo franchises and third-party offerings. There's Mario Golf Super Rush and a HD remake of The Legend of Zelda: Skyward Sword.
+
+
+***
+![Asus ROG Strix Scar 17 G733 with Nvidia GeForce RTX 30 Series offers unrivalled power and performance](https://imagevars.gulfnews.com/2021/02/18/Asus-ROG-Scar-Strix-17_177b4d2a7fc_medium.jpg "Asus ROG Strix Scar 17 G733 with Nvidia GeForce RTX 30 Series offers unrivalled power and performance")
+
+
+[Asus ROG Strix Scar 17 G733 with Nvidia GeForce RTX 30 Series offers unrivalled power and performance](https://gulfnews.com/technology/asus-rog-strix-scar-17-g733-with-nvidia-geforce-rtx-30-series-offers-unrivalled-power-and-performance-1.1613647717003)
+
+
+> Asus ROG Strix Scar 17 G733 with Nvidia GeForce RTX 30 Series Video Credit: Vaibhav Pradip A new era of laptops begins today featuring the Nvidia Ampere architecture, with the launch of Asus ROG Strix Scar 17 G733 powered by GeForce RTX 30 Series Laptop GPUs. Nearly three-quarters of laptop gamers play esports, spurring the popularity of high-refresh-rate laptops, sales of which doubled last year. Over half of the new GeForce RTX 30 Series laptops will offer 240Hz or higher refresh rates. With the performance of the GeForce RTX 3080 Laptop GPU, gamers will be able to play at 240 frames per second across top titles like Overwatch, Rainbow Six, Valorant and Fortnite.
+
+
