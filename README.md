@@ -29594,3 +29594,50 @@
 > Facebook has recently made a shocking new business decision to block news sharing in Australia. Has the founder declared war? The post Why is Facebook founder Mark Zuckerberg at war with Australia? appeared first on Film Daily.
 
 
+***
+[Mars landing LIVE – NASA Perseverance rover sends back incredible first pics of Martian surface after landing](https://www.thesun.ie/tech/6578709/mars-landing-nasa-live/)
+
+
+> NASA’S Perseverance rover has beamed back amazing first images of Mars after successfully landing on the Red Planet. It ended its seven-month journey to another world after touching down in a crater that was once a lake billions of years ago. The six-wheeled machine will now collect rock samples from the crater that will later […]
+
+
+***
+![Microsoft announces Office 2021 for Windows and macOS](https://cdn.mos.cms.futurecdn.net/Ba3xKbhLaVDPJuRzCpd7o6-1200-80.jpg "Microsoft announces Office 2021 for Windows and macOS")
+
+
+[Microsoft announces Office 2021 for Windows and macOS](https://www.techradar.com/news/microsoft-announces-office-2021-for-windows-and-macos)
+
+
+> (Image credit: Shutterstock) Microsoft announced its latest update to their productivity suite, Office 2021, this week in a blog post by Jared Shapiro, Microsoft 365's corporate vice president. He also announced Office Long Term Servicing Channel (LTSC) for businesses that need a long-term, static option for the software. Like the previous release, Office 2019 , Office 2021 is designed for personal and small business users who do not want to subscribe to the company's cloud service, Microsoft 365.
+
+
+***
+![Dropbox EPS beats by $0.04, beats on revenue (NASDAQ:DBX)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Dropbox EPS beats by $0.04, beats on revenue (NASDAQ:DBX)")
+
+
+[Dropbox EPS beats by $0.04, beats on revenue (NASDAQ:DBX)](https://seekingalpha.com/news/3663629-dropbox-eps-beats-0_04-beats-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Applied Materials EPS beats by $0.11, beats on revenue (NASDAQ:AMAT)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Applied Materials EPS beats by $0.11, beats on revenue (NASDAQ:AMAT)")
+
+
+[Applied Materials EPS beats by $0.11, beats on revenue (NASDAQ:AMAT)](https://seekingalpha.com/news/3663611-applied-materials-eps-beats-0_11-beats-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![AXT EPS beats by $0.03, beats on revenue (NASDAQ:AXTI)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "AXT EPS beats by $0.03, beats on revenue (NASDAQ:AXTI)")
+
+
+[AXT EPS beats by $0.03, beats on revenue (NASDAQ:AXTI)](https://seekingalpha.com/news/3663676-axt-eps-beats-0_03-beats-on-revenue)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
