@@ -29450,3 +29450,53 @@
 > submitted by /u/chriskok1337 [link] [comments]
 
 
+***
+![Nice Reports Q4 Margin Compression, Record Cloud Revenue, Issues Optimistic Guidance](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Nice Reports Q4 Margin Compression, Record Cloud Revenue, Issues Optimistic Guidance")
+
+
+[Nice Reports Q4 Margin Compression, Record Cloud Revenue, Issues Optimistic Guidance](https://www.benzinga.com/news/earnings/21/02/19723044/nice-reports-q4-margin-compression-record-cloud-revenue-issues-optimistic-guidance)
+
+
+> NICE: Q4 Earnings Insights Earnings Scheduled For February 18, 2021 Earnings Outlook For NICE Benzinga's Top Ratings Upgrades, Downgrades For January 29, 2021 10 Biggest Price Target Changes For Friday Stocks That Hit 52-Week Highs On Tuesday
+
+
+***
+![Unusual Options Activity Insight: NVIDIA](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Unusual Options Activity Insight: NVIDIA")
+
+
+[Unusual Options Activity Insight: NVIDIA](https://www.benzinga.com/markets/options/21/02/19728401/unusual-options-activity-insight-nvidia)
+
+
+> NVIDIA (NASDAQ: NVDA ) shares experienced unusual options activity on Thursday. The stock price moved down to $591.84 following the option alert. Sentiment: BULLISH Option Type: SWEEP Trade Type: PUT Expiration Date: 2021-04-16 Strike Price: $590.00 Volume: 201 Open Interest: 165 Three Signs Of Unusual Options Activity One way options market activity can be considered unusual is when volume is exceptionally higher than its historical average. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![Ault Global Purchases Minority Stake In NTN Buzztime To Stop Gaming Asset Divestment](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Ault Global Purchases Minority Stake In NTN Buzztime To Stop Gaming Asset Divestment")
+
+
+[Ault Global Purchases Minority Stake In NTN Buzztime To Stop Gaming Asset Divestment](https://www.benzinga.com/m-a/21/02/19723896/ault-global-purchases-minority-stake-in-ntn-buzztime-to-stop-gaming-asset-divestment)
+
+
+> 40 Stocks Moving in Thursday's Pre-Market Session 92 Biggest Movers From Yesterday 43 Stocks Moving In Tuesday's Mid-Day Session 78 Biggest Movers From Yesterday 62 Stocks Moving In Wednesday's Mid-Day Session Mid-Morning Market Update: Markets Mixed; Alphabet Beats Q4 Expectations
+
+
+***
+![Software Demo Platform Reprise Raises $17M Series A Funding From Bain Capital](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Software Demo Platform Reprise Raises $17M Series A Funding From Bain Capital")
+
+
+[Software Demo Platform Reprise Raises $17M Series A Funding From Bain Capital](https://www.benzinga.com/news/21/02/19725119/software-demo-platform-reprise-raises-17m-series-a-funding-from-bain-capital)
+
+
+> 12 Information Technology Stocks Moving In Friday's After-Market Session Stocks That Hit 52-Week Highs On Thursday Stocks That Hit 52-Week Highs On Wednesday Stocks That Hit 52-Week Highs On Tuesday Stocks That Hit 52-Week Highs On Monday
+
+
+***
+![Stratasys Acquires UK's 3D Printers And Solutions Provider RP Support](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Stratasys Acquires UK's 3D Printers And Solutions Provider RP Support")
+
+
+[Stratasys Acquires UK's 3D Printers And Solutions Provider RP Support](https://www.benzinga.com/m-a/21/02/19725969/stratasys-acquires-uks-3d-printers-and-solutions-provider-rp-support)
+
+
+> 12 Information Technology Stocks Moving In Monday's After-Market Session 12 Information Technology Stocks Moving In Friday's Pre-Market Session Stocks That Hit 52-Week Highs On Wednesday Stocks That Hit 52-Week Highs On Monday Stocks That Hit 52-Week Highs On Thursday Stocks That Hit 52-Week Highs On Wednesday
+
+
