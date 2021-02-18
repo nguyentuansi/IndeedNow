@@ -29500,3 +29500,50 @@
 > 12 Information Technology Stocks Moving In Monday's After-Market Session 12 Information Technology Stocks Moving In Friday's Pre-Market Session Stocks That Hit 52-Week Highs On Wednesday Stocks That Hit 52-Week Highs On Monday Stocks That Hit 52-Week Highs On Thursday Stocks That Hit 52-Week Highs On Wednesday
 
 
+***
+![Android 12 Developer Preview Now Available For Android TV](https://www.androidheadlines.com/wp-content/uploads/2021/02/Android-12-Logo-AH-4.jpg "Android 12 Developer Preview Now Available For Android TV")
+
+
+[Android 12 Developer Preview Now Available For Android TV](https://www.androidheadlines.com/2021/02/android-12-developer-preview-android-tv)
+
+
+> In addition to releasing the Android 12 Developer Preview for smartphones and tablets, the preview is also available for Android TV.This is actually quite a bit surprising, since Android TV doesn't typically get the developer preview on the same day. It's typically a few months later on. And the final release is also usually much later on. Perhaps, we'll be seeing a more uniform release among all Android device types this year.There's not a lot of details on what's new with Android 12 for Android TV, however, Google does mention that developers can test their Android TV apps on Android 12, and also test it on the all-new Google TV experience.
+
+
+***
+[Facebook adds multi-user support and app sharing to Oculus Quest (João Carrasqueira/Neowin)](http://www.techmeme.com/210218/p26#a210218p26)
+
+
+> João Carrasqueira / Neowin: Facebook adds multi-user support and app sharing to Oculus Quest — Facebook is making Oculus Quest headsets easier to share with others with a couple of new features being rolled out starting today. Support for multiple user accounts as well as app sharing are coming to the more recent Quest 2 first …
+
+
+***
+![Here's The First Developer Preview Of Android 12!](https://www.androidheadlines.com/wp-content/uploads/2021/02/Android-12-Logo-AH-3.jpg "Here's The First Developer Preview Of Android 12!")
+
+
+[Here's The First Developer Preview Of Android 12!](https://www.androidheadlines.com/2021/02/android-12-developer-preview-1-release)
+
+
+> Google has just released the first developer preview for Android 12.As usual, this is a developer preview, and meant only for developers. And not to be used on your main device. That is because it is still full of bugs and broken features. Basically, it's pretty rough, so if you have a second phone, then you can put the preview on your Pixel and play around with it, but we wouldn't recommend putting it on your main phone.What's new with Android 12?With the first developer preview being geared towards developers, the majority of the features being announced (right now) are developer features.
+
+
+***
+![Defending software build pipelines from malicious attack](https://external-preview.redd.it/Zfz9jDcIf3vHKyVRBGRUkLJdPY7qOFRVbtOpOTcrWzk.jpg?auto=webp&s=0646738b875187bb0291e749452eff2f6a0dab7f "Defending software build pipelines from malicious attack")
+
+
+[Defending software build pipelines from malicious attack](https://www.reddit.com/r/programming/comments/lmso7w/defending_software_build_pipelines_from_malicious/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![A short article I wrote on intermediate/advanced programming ideas.](https://external-preview.redd.it/I2vbI6E7GY42Qr5bx0fZPRsu0AZcMwwric3U8npgxDs.jpg?auto=webp&s=005f67de73c0a28734ca6b41409b4afa6fc5281b "A short article I wrote on intermediate/advanced programming ideas.")
+
+
+[A short article I wrote on intermediate/advanced programming ideas.](https://www.reddit.com/r/programming/comments/lmsn9a/a_short_article_i_wrote_on_intermediateadvanced/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
