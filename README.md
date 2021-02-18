@@ -29212,3 +29212,47 @@
 > International news sites, including those from the Philippines, were also blocked. Here are the details so far: According to William Easton, managing director at Facebook Australia & New Zealand, Australian publishers are restricted from sharing or posting any content on Facebook pages. Page administrators will still be able to access other features, including Page Insights and Creator Studio, as well as data tools and CrowdTangle. This means users in and out of the country cannot view or share Australian news content on Facebook or content from Australian news pages.
 
 
+***
+[Sources: Google will restructure its Responsible AI teams to centralize them under a single Black executive, Marian Croak, in wake of Timnit Gebru's departure (Bloomberg)](http://www.techmeme.com/210218/p3#a210218p3)
+
+
+> Bloomberg: Sources: Google will restructure its Responsible AI teams to centralize them under a single Black executive, Marian Croak, in wake of Timnit Gebru's departure — - Company seeks to stabilize department amid internal rancor — Responsible AI teams to be centralized under single executive
+
+
+***
+![Microsoft Surface Duo finally lands in the UK today – and is available to order now](https://images.immediate.co.uk/production/volatile/sites/3/2021/02/microsoft_surface_duo_2-2b3d911.jpg?quality=45&crop=13px,193px,2075px,1382px&resize=620,413 "Microsoft Surface Duo finally lands in the UK today – and is available to order now")
+
+
+[Microsoft Surface Duo finally lands in the UK today – and is available to order now](https://www.radiotimes.com/technology/microsoft-surface-duo-launch/)
+
+
+> Whether they be long-delayed blockbusters or well-deserved holidays, it feels like we've all been waiting an especially long time for a lot of things lately. But there's good news for technology fans who have been patiently awaiting the arrival of the Microsoft Surface Duo in the UK – it finally launches today. Microsoft's half-phone, half-tablet was first announced by the tech giant back in 2019. An exciting deep-dive video was released in a press briefing last summer, before the Duo was launched in the US market in September 2020.
+
+
+***
+[Transformational solutions shaping inclusive Connected Citizen Ecosystem](https://www.zeebiz.com/technology/news-transformational-solutions-shaping-inclusive-connected-citizen-ecosystem-150009)
+
+
+> Hitachi MGRM Net's Citizen Lifecycle e-Governance platform resides on a very advanced analytics engine on the upstream side and lends empowerment on the downstream side. For instance, by giving neutral payment access across banks and wallets by combining sound user security solutions
+
+
+***
+![NASA rover streaks toward a landing on Mars](https://www.clickorlando.com/resizer/d1GxtyYxVEHVh72hwEyZv_dDlo4=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/5BJRJHXWZ5C4NI3PCBI7BBWX3U.jpg "NASA rover streaks toward a landing on Mars")
+
+
+[NASA rover streaks toward a landing on Mars](https://www.clickorlando.com/tech/2021/02/18/nasa-rover-streaks-toward-a-landing-on-mars/)
+
+
+> CAPE CANAVERAL, Fla. – A NASA rover streaked toward a landing on Mars on Thursday in the riskiest step yet in an epic quest to bring back rocks that could answer whether life ever existed on the red planet.Ground controllers at the space agency's Jet Propulsion Laboratory in Pasadena, California, settled in nervously for the descent of Perseverance to the surface of Mars, long a deathtrap for incoming spacecraft. It takes a nail-biting 11 1/2 minutes for a signal that would confirm success to reach Earth.
+
+
+***
+![NASA rover streaks toward a landing on Mars](https://www.clickondetroit.com/resizer/d1GxtyYxVEHVh72hwEyZv_dDlo4=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/5BJRJHXWZ5C4NI3PCBI7BBWX3U.jpg "NASA rover streaks toward a landing on Mars")
+
+
+[NASA rover streaks toward a landing on Mars](https://www.clickondetroit.com/tech/2021/02/18/nasa-rover-streaks-toward-a-landing-on-mars/)
+
+
+> CAPE CANAVERAL, Fla. – A NASA rover streaked toward a landing on Mars on Thursday in the riskiest step yet in an epic quest to bring back rocks that could answer whether life ever existed on the red planet.Ground controllers at the space agency's Jet Propulsion Laboratory in Pasadena, California, settled in nervously for the descent of Perseverance to the surface of Mars, long a deathtrap for incoming spacecraft. It takes a nail-biting 11 1/2 minutes for a signal that would confirm success to reach Earth.
+
+
