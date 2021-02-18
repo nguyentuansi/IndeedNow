@@ -29115,3 +29115,50 @@
 > By Joe Tidy Cyber reporter Warning: this story contains disturbing adult themes. A BBC investigation into the increasingly popular live video chat website Omegle has found what appear to be prepubescent boys explicitly touching themselves in front of strangers. Omegle links up random people for virtual video and text chats, and claims to be moderated - but has a reputation for unpredictable and shocking content. Global child protection groups are increasingly concerned about predators using the site to gather self-generated child sexual abuse material.
 
 
+***
+![Big Sur + LG 5K + MBP = Major Slowdowns](https://images.macrumors.com/social/?t=2285143&v=6 "Big Sur + LG 5K + MBP = Major Slowdowns")
+
+
+[Big Sur + LG 5K + MBP = Major Slowdowns](https://forums.macrumors.com/threads/big-sur-lg-5k-mbp-major-slowdowns.2285143/)
+
+
+> Ever since I've updated to Big Sur, my 16 inch (32 GB Ram, i7, 5300M 4 GB) MBP when connected to the LG 5K monitor is incredibly slow. Sometimes the cursor is lagging, other times it's just lagging and sluggish. I've tried: 1. Turning off graphic switching. 2. Turning off seperate spaces. 3. Closing laptop lid. 4. Completely wiping mac and reinstalling OS. The only solution that works is disconnecting the 5K. Any ideas?
+
+
+***
+[Abdiel Capital](https://www.itwire.com/freelancer-sp-720/tag/Abdiel%20Capital.html)
+
+
+> With its growth equity raised demonstrating an 'expanding market for smarter ways to build modern applications', the funding will be used to 'expand investments in its R&D and go to market strategy.'
+
+
+***
+![Bitfinex, the Italian Network Behind the Boss That Makes Bitcoin Tremble](https://miro.medium.com/max/850/1*CDRAj_ICfswFEX77ZpZl2w.jpeg "Bitfinex, the Italian Network Behind the Boss That Makes Bitcoin Tremble")
+
+
+[Bitfinex, the Italian Network Behind the Boss That Makes Bitcoin Tremble](https://nicolaborzi.medium.com/the-lawless-rollercoaster-of-bitcoin-enriches-few-investors-while-many-often-lose-everything-f9b4789444c2)
+
+
+> On February 20, 2015, along with Mr Fracassi, he also founded Mainstreet Financials Ltd in London, today named Holland Street Ltd. Mr Fracassi was an important contact [for Mr Devasini]: after a career at the Italian Chamber of Commerce in Hong Kong, in Salomon Smith Barney, Franklin Templeton and Goldman Sachs, Mr Rodolfo Fracassi Ratti Mentone today with Mainstreet Partners as an advisor deals with sustainable investments for Italian clients such as [major listed companies] Banca Generali, Fideuram, Sella Sgr, CDP [Cassa Depositi e Prestiti, Italy's sovereign fund] and is a member of the Human Foundation of Ms Giovanna Melandri [an Italian economist and politician, Member of Parliament since 1994 to 2013, Italy Culture minister since October 21, 1998, to June 11, 2001, and Sports minister since May 17, 2006, to May 7, 2008].
+
+
+***
+![10 of the most popular products from celebrity QVC lines](https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2021/02/17/USATODAY/usatsports/Reviewed.com-RvEW-26748-QVCHero.jpg?width=1600&height=800&fit=crop "10 of the most popular products from celebrity QVC lines")
+
+
+[10 of the most popular products from celebrity QVC lines](https://www.usatoday.com/story/tech/reviewedcom/2021/02/17/10-most-popular-products-celebrity-qvc-lines/43392183/)
+
+
+> Shop your favorite celeb's exclusive collections at QVC. (Photo: Reviewed.com)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.In recent years, QVC has proven itself as much more than the television channel your older relatives like to watch. In fact, the home shopping powerhouse is so popular, even big-name Hollywood stars have launched exclusive collections with the company. From apparel and beauty labels to homeware and decor lines, customers can shop a range of brands from their favorite celebrities including Katy Perry, Jamie Foxx, Catherine Zeta-Jones, and many more! Better still, you don't have to tune into QVC's TV network to get your hands on these celeb-made items—every piece from each collection is up for grabs on the QVC site.
+
+
+***
+![iPad's become unresponsive, freeze, internet stops working etc need restart to fix](https://images.macrumors.com/social/?t=2285141&v=6 "iPad's become unresponsive, freeze, internet stops working etc need restart to fix")
+
+
+[iPad's become unresponsive, freeze, internet stops working etc need restart to fix](https://forums.macrumors.com/threads/ipads-become-unresponsive-freeze-internet-stops-working-etc-need-restart-to-fix.2285141/)
+
+
+> Who's noticed since iPadOS 14.x using iPad and it becomes unresponsive? iPad (6th generation) Such as webpages in Safari stop responding, tabs frozen, URL bar doesn't respond, open the keyboard to type and each letter takes 10 seconds or so to display, iPad hangs and freezes for 10+ seconds, same in email, same for other apps like NPlayer just hang and stall trying to access network folders, spin spin spin for so long time, totally fsckd. For me its happening many times a day, have to shut it down and restart.
+
+
