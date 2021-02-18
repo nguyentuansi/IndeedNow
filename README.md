@@ -29306,3 +29306,53 @@
 > Facebook today made good on its  threat  to block Australians from accessing or posting news content. The ban includes blocking links to Australian and overseas news publishers. Facebook said the ban was a direct response to the federal government's news media code legislation, which is expected to become law soon and would require digital platforms such as Facebook and Google to pay news media companies whose content they host. The move is either a last-ditch attempt to gain concessions in the legislation, or a simple cut-and-run by Facebook.
 
 
+***
+![Samsung Galaxy S21 features are coming to the S20, Note 20 and more](https://cdn.mos.cms.futurecdn.net/mNEi85pp5QD8HycUxL7jYB-1200-80.jpg "Samsung Galaxy S21 features are coming to the S20, Note 20 and more")
+
+
+[Samsung Galaxy S21 features are coming to the S20, Note 20 and more](https://www.techradar.com/news/samsung-galaxy-s21-features-are-coming-to-the-s20-note-20-and-more)
+
+
+> The Samsung Galaxy S20 is getting some upgrades (Image credit: Future) You don't have to buy a Samsung Galaxy S21 to get some of the new features offered by the phone, as a number of them are coming to older Samsung handsets wirh One UI 3.1, which has started rolling out to select devices. The Samsung Galaxy S20 range, Samsung Galaxy Note 20 range, Samsung Galaxy Z Fold 2 , and Samsung Galaxy Z Flip are all getting these features, which include Enhanced Single Take – a feature that lets you capture a variety of photos and videos with one tap.
+
+
+***
+![TechMet's Battery Recycler Li-Cycle Enters SPAC Listing on New York Stock Exchange](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "TechMet's Battery Recycler Li-Cycle Enters SPAC Listing on New York Stock Exchange")
+
+
+[TechMet's Battery Recycler Li-Cycle Enters SPAC Listing on New York Stock Exchange](https://www.benzinga.com/pressreleases/21/02/n19721459/techmets-battery-recycler-li-cycle-enters-spac-listing-on-new-york-stock-exchange)
+
+
+> DUBLIN , Feb. 18, 2021 /PRNewswire/ -- TechMet  funded Li-Cycle, an industry leader in lithium-ion battery recycling, has entered into a definitive business combination agreement with Peridot Acquisition Corp. (NYSE: PDAC ); upon closing the combined company will be renamed Li-Cycle Holdings Corp. and will be listed on the New York Stock Exchange under the new ticker symbol "LICY".   See more details on the Li-Cycle website . TechMet has been the primary funder of Li-Cycle over the last two years as the company has developed its first two commercial plants in Ontario, Canada and Rochester, New York .
+
+
+***
+![Connect with your Star like never before with Mercedes me](https://sm.mashable.com/mashable_in/photo/default/mercedes-reels-cover_72h9.jpg "Connect with your Star like never before with Mercedes me")
+
+
+[Connect with your Star like never before with Mercedes me](https://in.mashable.com/tech/20333/connect-with-your-star-like-never-before-with-mercedes-me)
+
+
+> By Mashable Brand X 18 February 2021
+
+
+***
+![LIVE STREAM: NASA attempts to land Rover ‘Perseverance' on Mars](https://www.clickondetroit.com/resizer/mQbS97RKE2U05J3K1FnB4Smuc5w=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/MLXDYSUINVHX3CPCNZ7AUUU4OM.jpg "LIVE STREAM: NASA attempts to land Rover ‘Perseverance' on Mars")
+
+
+[LIVE STREAM: NASA attempts to land Rover ‘Perseverance' on Mars](https://www.clickondetroit.com/tech/2021/02/18/live-stream-nasa-attempts-to-land-rover-perseverance-on-mars/)
+
+
+> CAPE CANAVERAL, Fla. – NASA will attempt to land its newest Mars Rover, Perseverance, on Thursday -- and it won't be easy.Perseverance was launched successfully back in July from Cape Canaveral Air Force Station, Florida. The rover is set to land on Mars on Thursday at the planet's Jezero Crater.Spacecraft aiming to land on Mars have skipped past the planet, burned up on entry, smashed into the surface, and made it down amid a fierce dust storm only to spit out a single fuzzy gray picture before dying.
+
+
+***
+![A former Reddit CEO is turning arid land into robust forests. Here's how to scale it globally](https://mondrian.mashable.com/2021%252F02%252F18%252F75%252F4b33132ecae240158c63949861830d32.66e53.png%252F1200x630.png?signature=Ij9igrTLQFj5fkVAJ0HK8OYyyeA= "A former Reddit CEO is turning arid land into robust forests. Here's how to scale it globally")
+
+
+[A former Reddit CEO is turning arid land into robust forests. Here's how to scale it globally](https://mashable.com/video/yishan-wong-terraformation-reforestation-climate-change/)
+
+
+> No body in the article.
+
+
