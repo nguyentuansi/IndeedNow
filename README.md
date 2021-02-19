@@ -29832,3 +29832,53 @@
 > When Reliance Jio started building its 4G LTE wireless network, it had the option of using a standard map to decide things such as the customers it will reach out to and places where it will set up its towers. This manual process would have taken several quarters before it could have been streamlined. In order to get going as fast and with as much precision as possible, it built maps based on a geographic information system. While Jio Maps helped find the best sites to set up towers for optimum coverage, Jio used the tool to coordinate materials for just-in-time deliveries and dispatch teams for network construction.
 
 
+***
+![Monster Truck Championship heads to PS5 and Xbox Series XS](https://i0.wp.com/invisioncommunity.co.uk/wp-content/uploads/2020/08/Monster-Truck-Championship.jpg "Monster Truck Championship heads to PS5 and Xbox Series XS")
+
+
+[Monster Truck Championship heads to PS5 and Xbox Series XS](https://invisioncommunity.co.uk/monster-truck-championship-heads-to-ps5-and-xbox-series-xs/)
+
+
+> Tags Monster Truck Championship Nacon Teyon Hello, My name is Alison, I am the site manager of IGC and good friends of Craig (Finite), I actually live on the same street as him, that's how close we are. This account is being used to post news by myself, and a few members of our team. Personally, I am an avid fan of JRPG's and RPG's in general, I also love old school retro platformers like Mario, and finally, for some reason, I enjoy souls-like games. I run my own business along with 2 other sites, one for holidays and the other for music.
+
+
+***
+![Sony PlayStation 5 Malaysia: Pre-order the latest batch of stocks today](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/soyacincau_Sony-PS5-Console_190221-seo.jpg "Sony PlayStation 5 Malaysia: Pre-order the latest batch of stocks today")
+
+
+[Sony PlayStation 5 Malaysia: Pre-order the latest batch of stocks today](https://www.soyacincau.com/2021/02/18/sony-playstation-5-malaysia-pre-order-new-batch-online-store-xrs/)
+
+
+> Sony Malaysia has announced that its third batch of pre-orders for the PlayStation 5 will be available today. ― SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Feb 19 ― If you missed the last two rounds of PS5 pre-order, here's another chance for you to get your hands on latest Sony gaming console. Sony Malaysia has announced that its third batch of pre-orders for the PlayStation 5 will be available from 00:01 today, February 19, 2021.
+
+
+***
+![Alphabet shuts internet balloon company](https://static.reuters.com/resources/r/?d=20210107&i=OVDWAKGWB&r=OVDWAKGWB&t=2 "Alphabet shuts internet balloon company")
+
+
+[Alphabet shuts internet balloon company](https://www.reuters.com/video/watch/idOVDWAKGWB)
+
+
+> Posted Alphabet is shutting down Loon after concluding the business, which offers balloons as an alternative to cell towers, is not commercially viable, Google's parent company said on Thursday. Fred Katayama reports.
+
+
+***
+![Android 12 developer preview released with new features, here is when you will get it](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-19_at_1_1200_210219131414.09._0-483x271.png "Android 12 developer preview released with new features, here is when you will get it")
+
+
+[Android 12 developer preview released with new features, here is when you will get it](https://www.indiatoday.in/technology/news/story/android-12-developer-preview-released-with-new-features-here-is-when-you-will-get-it-1770910-2021-02-19)
+
+
+> Android 12 has only released the developers' preview so it is still ions away from an official launch. Ankita Chakravarti | February 19, 2021 | Updated 13:13 IST
+
+
+***
+![Alphabet Shuts Down Loon Internet Balloon Company](https://a.fsdn.com/sd/topics/topicgoogle_fb.gif "Alphabet Shuts Down Loon Internet Balloon Company")
+
+
+[Alphabet Shuts Down Loon Internet Balloon Company](https://tech.slashdot.org/story/21/01/22/1418212/alphabet-shuts-down-loon-internet-balloon-company)
+
+
+> Slashdot Apparel is back! SHOP NOW! | Do you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly and easily with this tool and take advantage of SourceForge's massive reach. Check out all of SourceForge's improvements. | Follow Slashdot on LinkedIn × 141431394 story Posted by msmash on Friday January 22, 2021 @11:01AM from the how-about-that dept. Google's parent firm, Alphabet, is done exploring the idea of using a fleet of balloons to beam high-speed internet in remote parts of the world.
+
+
