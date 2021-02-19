@@ -29691,3 +29691,50 @@
 > If you need something to keep you warm while you wait for the seasons to turn then Nutaku has you covered. A brand-new, free-to-play dating simulator has just hit the site, called  Waifu Surprise , with art from Whentai, the artists behind Fap CEO. The surprise? It's waifus.  Surprise! Waifus in  Wiafu Surprise Waifu Surprise  is a puzzle game/dating simulator hybrid that tasks you with wooing up to 30 or more beautiful waifus. Puzzle your way through this classic match-3 puzzler while you earn the girls' favor, as well as dressing up the girls in various different outfits, including numerous special cosplay unlocks for the waifus.
 
 
+***
+![#TECH: Micron aims to hire 50 people with disabilities this year](https://assets.nst.com.my/images/articles/botsmicron_NSTfield_image_socialmedia.var_1613700021.jpg "#TECH: Micron aims to hire 50 people with disabilities this year")
+
+
+[#TECH: Micron aims to hire 50 people with disabilities this year](https://www.nst.com.my/lifestyle/bots/2021/02/666979/tech-micron-aims-hire-50-people-disabilities-year)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![This Tacoma wellness center is offering up the future of healing](https://media.king5.com/assets/KING/images/67f5f3b6-a638-4d44-ba12-8857a6840869/67f5f3b6-a638-4d44-ba12-8857a6840869_1140x641.jpg "This Tacoma wellness center is offering up the future of healing")
+
+
+[This Tacoma wellness center is offering up the future of healing](https://www.king5.com/article/tech/grit-city-wellness-recovery/281-0efde227-f839-40c3-a59e-ad6e77971830)
+
+
+> Tech Grit City Wellness is using cold temperatures and bright colors to help sore bodies heal Author: Saint Bryan, KING 5 Evening (KING 5) Published: 5:33 PM PST February 18, 2021 Updated: 5:47 PM PST February 18, 2021 TACOMA, Wash — It only looks like I'm sleeping on the job. I'm inside a Somadome meditation pod, a high-tech machine that uses colored lights and sounds to guide the mind to a state of bliss.'I still think we're the only one in the state that has one,' says Grit City Wellness owner Chyna Willman.
+
+
+***
+![Chromecast with Google TV现可以观看苹果原创剧了](https://static.cnbetacdn.com/thumb/article/2021/0219/12186e2eb373e24.jpg "Chromecast with Google TV现可以观看苹果原创剧了")
+
+
+[Chromecast with Google TV现可以观看苹果原创剧了](http://www.cnbeta.com/articles/tech/1092095.htm)
+
+
+> Chromecast with Google TV 在近日的更新中，谷歌引入了对 Apple TV 应用和 Apple TV+ 流媒体服务的支持，意味着用户能够在谷歌硬件上观看苹果原创剧。这家搜索巨头曾在去年 12 月的时候宣布，Apple TV 应用将会在 2021 年年初登陆其机顶盒设备中。本周四，谷歌兑现了这个诺言，宣布面向全球谷歌硬件开放 Apple TV 支持。 在美国，Chromecast with Google TV 用户将能够在其推荐和搜索结果中浏览苹果原创内容。用户还可以使用 Google Assistant 打开 Apple TV 应用或播放苹果原创内容，并可以将 Apple TV+ 内容添加到 Google Watchlist 列表中。谷歌表示，这些功能将在 "未来几个月 "在全球范围内推出，但没有给出确切的时间表。在推文中写道：'Apple TV 应用终于登陆 Chromecast with Google TV 了'。该公司在 2020 年 9 月推出了 150 美元的 Chromecast with Google TV 设备。虽然它的功能与过去的 Chrome
+
+
+***
+[大学健康网络启动新研究 探索Apple Watch如何帮助及早发现心力衰竭](https://www.cnbeta.com/articles/tech/1092093.htm)
+
+
+> 大学健康网络（University Health Network ）周四宣布启动一项新的研究，旨在找出Apple Watch如何帮助早期识别心衰进展。心脏病专家Heather Ross博士正在与苹果公司合作，将Apple Watch收集的数据与心力衰竭患者接受的体检中常规收集的数据进行比较。 阅读全文
+
+
+***
+![Australian news sites' traffic falls after Facebook blocks content -Chartbeat](https://japantoday.com/images/japan-today-social.jpg "Australian news sites' traffic falls after Facebook blocks content -Chartbeat")
+
+
+[Australian news sites' traffic falls after Facebook blocks content -Chartbeat](https://japantoday.com/category/tech/australian-news-sites'-traffic-falls-after-facebook-blocks-content-chartbeat)
+
+
+> Total web traffic to Australian news sites dropped by around 13% after Facebook Inc blocked their content on the social media platform this week, according to early data that underscores the outsize impact the U.S. company has on the local market. The data from New York-based analytics firm Chartbeat showed that a pickup in traffic to news sites from Google was outweighed by a significant slump in traffic from Facebook. "Unfortunately, Facebook's disappearance has resulted in a hit to publishers' traffic numbers: when Facebook traffic dropped off, overall Australian traffic did not shift to other platforms," a Chartbeat spokeswoman said.
+
+
