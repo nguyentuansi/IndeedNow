@@ -30173,3 +30173,50 @@
 > Source: Chefsteps Though sous vide cooking has been around for years, not everybody is familiar with it. The French term itself might come off as intimidating and best suited for a professional chef, but the "under vacuum" technique is actually much easier than you'd think—especially when it has a smart touch to it. All you need is one of the best smart sous vide machines, also called an immersion circulator, which will heat a water bath to a precise temperature. Food that is vacuum-sealed or placed in airtight bags is submerged into this water, which circulates and slowly cooks food until it reaches the desired temperature.
 
 
+***
+![Prince Harry, Meghan Markle Officially Give Up Roles As Working Royals: What's Next?](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/meghanmarkle.princeharry.lowres.jpeg "Prince Harry, Meghan Markle Officially Give Up Roles As Working Royals: What's Next?")
+
+
+[Prince Harry, Meghan Markle Officially Give Up Roles As Working Royals: What's Next?](https://www.benzinga.com/news/21/02/19751832/prince-harry-meghan-markle-officially-give-up-roles-as-working-royals-whats-next)
+
+
+> Prince Harry and Meghan Markle, The Duke and Duchess of Sussex, have officially resigned and will no longer be working members of The Royal Family, Buckingham Palace said in an official statement. What Happened: For weeks there has been speculation around the 'one-year review' of their position after the couple left the U.K. and said they wanted to become financially independent. Following conversations The Duke had with Queen Elizabeth, the couple will step away from being working members of The Royal Family, as they won't be able to continue with those responsibilities and duties, according to the Buckingham Palace statement.
+
+
+***
+![Should you get Mint Mobile or Cricket Wireless?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/mint-mobile-sim-galaxy-s20.jpg "Should you get Mint Mobile or Cricket Wireless?")
+
+
+[Should you get Mint Mobile or Cricket Wireless?](https://www.androidcentral.com/mint-mobile-vs-cricket-wireless)
+
+
+> Save money by buying in bulk. Plans come with unlimited talk, text, and have no overages after you've used your data. Speeds are lowered, but you can upgrade your plan mid-cycle or easily add more data. From $15/month at Mint Mobile T-Mobile LTE network Unlimited talk and text Free calls to Canada and Mexico Hotspot on every plan 5G on all plans Minimum term is three months Unlimited plan is slowed at 35GB Take advantage of the massive AT&T network without the contracts. You can start as small as just talk and text, then go all the way up to unlimited data with 15GB of hotspot data.
+
+
+***
+![BTC endgame](https://external-preview.redd.it/uREJJPzaeBmLmAgs34A5QxWI8XCe_BeUzFMYEcLdv8U.jpg?auto=webp&s=c1831f55084b261094955a38fe4364782c3c077d "BTC endgame")
+
+
+[BTC endgame](https://www.reddit.com/r/programming/comments/lnribd/btc_endgame_a_research_project_aiming_to_test/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Google to evaluate executive performance on diversity, inclusion](https://static.reuters.com/resources/r/?m=02&d=20210219&t=2&i=1552213828&r=LYNXMPEH1I1FY&w=800 "Google to evaluate executive performance on diversity, inclusion")
+
+
+[Google to evaluate executive performance on diversity, inclusion](https://www.reuters.com/article/us-alphabet-google-diversity-idUSKBN2AJ2IG)
+
+
+> FILE PHOTO: A man walks past a logo of Google in front of at an office building in Zurich, Switzerland July 1, 2020. REUTERS/Arnd Wiegmann (Reuters) - Alphabet Inc's Google will evaluate the performance of its vice presidents and above on team diversity and inclusion starting this year, the company said on Friday in one of several responses to concerns about its treatment of a Black scientist. Timnit Gebru, co-leader of Google's ethical artificial intelligence research team, said in December that Google abruptly fired her after she criticized its diversity efforts and threatened to resign.
+
+
+***
+[Deere, Applied Materials rise; Rackspace, Facebook fall](https://www.mymotherlode.com/news/technology/1552946/deere-applied-materials-rise-rackspace-facebook-fall.html)
+
+
+> Stocks that traded heavily or made big moves Friday: Deere, Applied Materials rise; Rackspace, Facebook fall
+
+
