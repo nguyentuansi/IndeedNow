@@ -29979,3 +29979,47 @@
 > A DISASTROUS collapse of the Earth's magnetic field wiped out the Neanderthals and could happen again, according to a new study. Researchers say the event left Earth exposed to burning cosmic radiation and, unfortunately, think we're overdue a repeat. The Earth is protected from cosmic radiation by a magnetic field that stems from its magnetic polesCredit: Getty Images - Getty Earth's magnetic field shields us from the cosmic radiation of space. It stretches out from Earth's magnetic poles located at the north and south of the planet.
 
 
+***
+[An early analysis of Birdwatch, Twitter's crowdsourced fact-checking pilot with about 1,000 users, shows partisan rhetoric and a lack of source citations (Alex Mahadevan/Poynter)](http://www.techmeme.com/210219/p5#a210219p5)
+
+
+> Alex Mahadevan / Poynter: An early analysis of Birdwatch, Twitter's crowdsourced fact-checking pilot with about 1,000 users, shows partisan rhetoric and a lack of source citations — A Poynter analysis found that less than half of Birdwatch users include sources and many fact-checking notes contain partisan rhetoric.
+
+
+***
+![Apple hiring engineers to develop 6G wireless](https://images.indianexpress.com/2021/02/Apple-Logo_Reuters1.jpg "Apple hiring engineers to develop 6G wireless")
+
+
+[Apple hiring engineers to develop 6G wireless](https://indianexpress.com/article/technology/tech-news-technology/apple-hiring-engineers-to-develop-6g-wireless-7196024/)
+
+
+> Apple Inc launched its first iPhones with 5G wireless speeds a few months ago. Now it's looking to start work on sixth-generation cellular connectivity, or 6G, indicating it wants to be a leader in the technology rather than relying on other companies. The Cupertino, California-based company this week posted job ads seeking wireless system research engineers for current and next-generation networks. The listings are for positions at Apple's offices in Silicon Valley and San Diego, where the company works on wireless technology development and chip design.
+
+
+***
+[GBPUSD extends above 1.4000 and tests topside channel trend line on the daily chart](https://www.forexlive.com/technical-analysis/!/gbpusd-extends-above-14000-and-tests-topside-channel-trend-line-on-the-daily-chart-20210219)
+
+
+> Trend line cuts across at 1.4043  The GBPUSD pushed above the 1.4000 level for the first time since April 23, 2018.  The move has sent the price to a high for day at 1.4035 and closer to a topside channel trend line at 1.40437.  A move above that level would open the door for further gains,
+
+
+***
+![Get ready to play Little Nightmares 2 with these tips](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/little-nightmares-2-switch-thin-man-tv.jpg "Get ready to play Little Nightmares 2 with these tips")
+
+
+[Get ready to play Little Nightmares 2 with these tips](https://www.imore.com/little-nightmares-2-tips-and-tricks)
+
+
+> Source: iMore Little Nightmares 2 is a horror platformer where Six comes back with a new friend, Mono, and getting through their adventure will be easier with these Little Nightmares 2 tips and tricks. Players control Mono while Six is around to help. With these two cute characters, players need to complete various puzzles to get through to the end of one of the best horror games for Nintendo Switch. It takes two Make your way through a town of horrors with Six and Mono. Avoid being spotted and make your way to signal tower to shut it all down.
+
+
+***
+![Django 3.2 beta 1 released](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Django 3.2 beta 1 released")
+
+
+[Django 3.2 beta 1 released](https://www.reddit.com/r/Python/comments/lngg5l/django_32_beta_1_released/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
