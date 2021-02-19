@@ -29788,3 +29788,47 @@
 > Canada vowed on Thursday, February 18, to make Facebook Inc pay for news content, seeking allies in the media battle with tech giants and pledging not to back down if the social media platform shuts off the country's news as it did in Australia. Facebook blocked all Australian news content on its service over proposed legislation requiring it and Alphabet Inc's Google to pay fees to Australian publishers for news links. Canadian Heritage Minister Steven Guilbeault, in charge of crafting similar legislation to be unveiled in coming months, condemned Facebook's action and said it would not deter Ottawa.
 
 
+***
+![Divided over Draghi, Italy's 5-Star has an identity crisis](https://static.reuters.com/resources/r/?m=02&d=20210219&t=2&i=1552110720&r=LYNXMPEH1I083&w=800 "Divided over Draghi, Italy's 5-Star has an identity crisis")
+
+
+[Divided over Draghi, Italy's 5-Star has an identity crisis](https://www.reuters.com/article/us-italy-politics-5star-insight-idUSKBN2AJ0GQ)
+
+
+> By Gavin Jones , Angelo Amante , Giuseppe Fonte ROME (Reuters) - Italy's 5-Star Movement, once a prototype for successful populist and anti-establishment parties around Europe, is at a crossroads. Does it fully embrace the political mainstream, or revert to being an outsider? FILE PHOTO: Italy's Prime Minister Mario Draghi drinks a beverage during a debate at the Senate ahead of a confidence vote for the government, in Rome, Italy, February 17, 2021. REUTERS/Yara Nardi/Pool/File Photo With support ebbing, its fate could shape Italian politics for years to come, and the battle lines over its future have been drawn.
+
+
+***
+[Laptop desk Booming Segments; Investors Seeking Growth](https://www.openpr.com/news/2245223/laptop-desk-booming-segments-investors-seeking-growth)
+
+
+> A Latest intelligence report published by AMA Research with title "Laptop desk Market Outlook to 2025.A detailed study accumulated to offer Latest insights about acute features of the Laptop desk market.This report provides a detailed overview of key factors in
+
+
+***
+![Best Free Android VPN Apps in 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/tunnelbear-vpn-multi-device.jpg "Best Free Android VPN Apps in 2021")
+
+
+[Best Free Android VPN Apps in 2021](https://www.androidcentral.com/best-free-android-vpn)
+
+
+> If you're running an Android phone or tablet and want the anonymity, security, and geo-restriction freedom that a VPN can offer, you've come to the right place to find the best free Android VPN app for you. A virtual private network will allow you to keep your digital life more secure meaning your personal details are kept just that, private. This is great if you use open Wi-Fi like at coffee shops, airports, or hotels where you're potentially open to threats. It's also ideal for watching geo-restricted shows on Netflix when abroad.
+
+
+***
+[Gleam v0.14 released: a type-safe language for the Erlang VM](https://www.reddit.com/r/programming/comments/ln8ea9/gleam_v014_released_a_typesafe_language_for_the/)
+
+
+> submitted by /u/redramsam [link] [comments]
+
+
+***
+![Streamlining Workflow](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/72_73_505_190221111344.jpg "Streamlining Workflow")
+
+
+[Streamlining Workflow](https://www.businesstoday.in/magazine/technology/streamlining-workflow/story/431657.html)
+
+
+> When Reliance Jio started building its 4G LTE wireless network, it had the option of using a standard map to decide things such as the customers it will reach out to and places where it will set up its towers. This manual process would have taken several quarters before it could have been streamlined. In order to get going as fast and with as much precision as possible, it built maps based on a geographic information system. While Jio Maps helped find the best sites to set up towers for optimum coverage, Jio used the tool to coordinate materials for just-in-time deliveries and dispatch teams for network construction.
+
+
