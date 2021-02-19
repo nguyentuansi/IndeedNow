@@ -29641,3 +29641,53 @@
 > Javascript is Disabled Your current browser configuration is not compatible with this site.
 
 
+***
+![Humble Books Bundle: Fallout RPG & 3D Miniatures Takes You To The Wasteland](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/humble%20fallout%20bundle.jpg?itok=So7DzC2K "Humble Books Bundle: Fallout RPG & 3D Miniatures Takes You To The Wasteland")
+
+
+[Humble Books Bundle: Fallout RPG & 3D Miniatures Takes You To The Wasteland](https://techraptor.net/deals/humble-books-bundle-fallout-rpg-3d-miniatures-takes-you-to-wasteland)
+
+
+> Published: Thursday, February 18, 2021 - 19:17 | By: William Worrall Become The Wanderer Of The Wasteland Have you ever wanted to enter the wasteland for yourself, without the need for electricity or a games console? Well, now you can. The Humble Books Bundle: Fallout RPG & 3D Miniatures gives you everything you need to expand your Fallout: Wasteland Warfare tabletop experience into a full-blown RPG, as well as adding some fancy new terrain for anyone lucky enough to own a 3D-printer.  Humble Books Bundle: Fallout RPG & 3D Miniatures - $1 Tier The first tier of the Humble Books Bundle: Fallout RPG & 3D Miniatures gives you access to some great features, including some special STL files that allow you to 3D-print your own Ruined Red Rocket.
+
+
+***
+![UK's secretive £800m tech research agency to launch next year](https://www.telegraph.co.uk/content/dam/politics/2021/02/09/TELEMMGLPICT000250288944_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "UK's secretive £800m tech research agency to launch next year")
+
+
+[UK's secretive £800m tech research agency to launch next year](https://www.telegraph.co.uk/technology/2021/02/19/uks-secretive-800m-tech-research-agency-launch-next-year/)
+
+
+> A new Government-funded tech research agency that will back back 'high risk, high reward' projects will launch next year. The £800m Advanced Research and Invention Agency (ARIA) will be led by scientists who will be given freedom to identify and fund transformational science and technology projects. ARIA, which will operate independently from the Government, is Britain's answer to America's Defence Advanced Research Projects Agency (Darpa) . The US agency is best known for its involvement in the creation of the internet, GPS, and stealth bombers.
+
+
+***
+!['Smart' face masks promise high-tech protection](https://ichef.bbci.co.uk/images/ic/400xn/p097dg4z.jpg "'Smart' face masks promise high-tech protection")
+
+
+['Smart' face masks promise high-tech protection](https://www.bbc.com/news/av/technology-56114512)
+
+
+> Face masks have become an everyday item due to the spread of coronavirus. But now some brands are exploring ways to add hi-tech features focused on safety and utility. BBC Click's Lara Lewington tried out some of the more elaborate "smart" masks on offer. See more at Click's website and @BBCClick
+
+
+***
+![Fanfest is over, but lets watch it again shall we?](https://i0.wp.com/www.iskmogul.com/wp-content/uploads/2015/03/worlds-collide-logo_v001.jpg?fit=1080%2C607&ssl=1 "Fanfest is over, but lets watch it again shall we?")
+
+
+[Fanfest is over, but lets watch it again shall we?](https://www.iskmogul.com/fanfest-is-over-but-lets-watch-it-again-shall-we/)
+
+
+> No body in the article.
+
+
+***
+![Prepare For A Waifu Surprise With Nutaku's Latest Sexy Dating Sim](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/nutakujpg.jpg?itok=QjcCTnan "Prepare For A Waifu Surprise With Nutaku's Latest Sexy Dating Sim")
+
+
+[Prepare For A Waifu Surprise With Nutaku's Latest Sexy Dating Sim](https://techraptor.net/adult-gaming/prepare-for-waifu-surprise-with-nutakus-latest-sexy-dating-sim)
+
+
+> If you need something to keep you warm while you wait for the seasons to turn then Nutaku has you covered. A brand-new, free-to-play dating simulator has just hit the site, called  Waifu Surprise , with art from Whentai, the artists behind Fap CEO. The surprise? It's waifus.  Surprise! Waifus in  Wiafu Surprise Waifu Surprise  is a puzzle game/dating simulator hybrid that tasks you with wooing up to 30 or more beautiful waifus. Puzzle your way through this classic match-3 puzzler while you earn the girls' favor, as well as dressing up the girls in various different outfits, including numerous special cosplay unlocks for the waifus.
+
+
