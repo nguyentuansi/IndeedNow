@@ -29738,3 +29738,53 @@
 > Total web traffic to Australian news sites dropped by around 13% after Facebook Inc blocked their content on the social media platform this week, according to early data that underscores the outsize impact the U.S. company has on the local market. The data from New York-based analytics firm Chartbeat showed that a pickup in traffic to news sites from Google was outweighed by a significant slump in traffic from Facebook. "Unfortunately, Facebook's disappearance has resulted in a hit to publishers' traffic numbers: when Facebook traffic dropped off, overall Australian traffic did not shift to other platforms," a Chartbeat spokeswoman said.
 
 
+***
+![Sending private voicemail messages on Twitter will soon be possible](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-11/20201124_Twitter_logo_AFP-seo.jpg "Sending private voicemail messages on Twitter will soon be possible")
+
+
+[Sending private voicemail messages on Twitter will soon be possible](https://www.malaymail.com/news/tech-gadgets/2021/02/19/sending-private-voicemail-messages-on-twitter-will-soon-be-possible/1950972)
+
+
+> Currently, users in India, Japan and Brazil can send voice notes via the Twitter app. — AFP pic via ETX Studio Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 19 ― Twitter is turning up the volume. Voice messages are a massive trend at the moment on social networks and Twitter is no exception. In India, Brazil and Japan, it is now possible to send voice notes as a private message to users. A function that is in the test phase and may well be extended in the future to other countries.
+
+
+***
+![Realme Narzo 30 Pro, Narzo 30A key specifications leaked ahead of India launch next week](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/1613618941249-483x271_1200_210219093509.jpeg "Realme Narzo 30 Pro, Narzo 30A key specifications leaked ahead of India launch next week")
+
+
+[Realme Narzo 30 Pro, Narzo 30A key specifications leaked ahead of India launch next week](https://www.indiatoday.in/technology/news/story/realme-narzo-30-pro-narzo-30a-key-specifications-leaked-ahead-of-india-launch-next-week-1770801-2021-02-19)
+
+
+> Highlights Realme Narzo 30 Pro is said to come with only 30W fast charging. The Realme Narzo 30A is said to have 13MP dual cameras. Both Narzo 30 Pro and Narzo 30A are coming to India on February 24. Realme Narzo 30 series is going to be launched on February 24. Rumours are rife there will be just two smartphones in the series, at least at the launch, the Narzo 30 Pro and the Narzo 30A. So far, Realme has only confirmed that Narzo 30 Pro will be powered by a MediaTek Dimensity 800U SoC while the rest of the details are heard through the grapevine.
+
+
+***
+![Undeterred by Facebook news blackout, Australia commits to content law](https://assets2.rappler.com/2021/02/reuters-021921-facebook-1613699956975.jpg "Undeterred by Facebook news blackout, Australia commits to content law")
+
+
+[Undeterred by Facebook news blackout, Australia commits to content law](https://www.rappler.com/technology/social-media/undeterred-facebook-news-blackout-australia-commits-to-content-law)
+
+
+> Australian Prime Minister Scott Morrison vowed on Friday, February 19, to press ahead with laws to force Facebook Inc to pay news outlets for content, saying he had received support from world leaders after the social media giant blacked out all media. Facebook stripped the pages of domestic and foreign news outlets for Australians and blocked users of its platform from sharing any news content on Thursday, saying it had been left with no choice ahead of the new content laws. The move, which also erased several state government and emergency department accounts, as well as nonprofit charity sites, caused outrage.
+
+
+***
+![Australian news sites' traffic falls after Facebook blocks content – Chartbeat](https://assets2.rappler.com/2021/02/reuters-021921-facebook0-2-1613700622573.jpg "Australian news sites' traffic falls after Facebook blocks content – Chartbeat")
+
+
+[Australian news sites' traffic falls after Facebook blocks content – Chartbeat](https://www.rappler.com/technology/social-media/australian-news-sites-traffic-falls-facebook-blocks-content)
+
+
+> Total web traffic to Australian news sites dropped by around 13% after Facebook Inc blocked their content on the social media platform this week, according to early data that underscores the outsize impact the US company has on the local market. The data from New York-based analytics firm Chartbeat showed that a pickup in traffic to news sites from Google was outweighed by a significant slump in traffic from Facebook. "Unfortunately, Facebook's disappearance has resulted in a hit to publishers' traffic numbers: when Facebook traffic dropped off, overall Australian traffic did not shift to other platforms," a Chartbeat spokeswoman said.
+
+
+***
+![Canada vows to be next country to go after Facebook to pay for news](https://assets2.rappler.com/2021/02/reuters-021921-facebook-3-1613702370558.jpg "Canada vows to be next country to go after Facebook to pay for news")
+
+
+[Canada vows to be next country to go after Facebook to pay for news](https://www.rappler.com/technology/canada-vows-next-country-go-after-facebook-pay-for-news)
+
+
+> Canada vowed on Thursday, February 18, to make Facebook Inc pay for news content, seeking allies in the media battle with tech giants and pledging not to back down if the social media platform shuts off the country's news as it did in Australia. Facebook blocked all Australian news content on its service over proposed legislation requiring it and Alphabet Inc's Google to pay fees to Australian publishers for news links. Canadian Heritage Minister Steven Guilbeault, in charge of crafting similar legislation to be unveiled in coming months, condemned Facebook's action and said it would not deter Ottawa.
+
+
