@@ -29929,3 +29929,53 @@
 > AUD/USD climbs to a high of 0.7837, its highest level since March 2018 The dollar is slumping further across the board and that is helping to lift AUD/USD to its highest levels in almost three years as the pair looks to break resistance at around 0.7800-20 and keep a break towards 0.8000 potentially next.
 
 
+***
+![Motorola Moto E7 Power launched in India: Price, specifications and more](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/power_3-483x271_1200_210219165022.jpeg "Motorola Moto E7 Power launched in India: Price, specifications and more")
+
+
+[Motorola Moto E7 Power launched in India: Price, specifications and more](https://www.indiatoday.in/technology/features/story/motorola-moto-e7-power-launched-in-india-price-specifications-and-more-1771008-2021-02-19)
+
+
+> The Moto E7 Power has been launched with two RAM variants that come with different price tags. Ankita Chakravarti | February 19, 2021 | Updated 16:34 IST
+
+
+***
+![Masslogger Trojan spreads fast, steals passwords from Chrome and Outlook](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/hacking_pixabay-483x271_1200_210219165012.jpeg "Masslogger Trojan spreads fast, steals passwords from Chrome and Outlook")
+
+
+[Masslogger Trojan spreads fast, steals passwords from Chrome and Outlook](https://www.indiatoday.in/technology/news/story/masslogger-trojan-spreads-fast-steals-passwords-from-chrome-and-outlook-1771013-2021-02-19)
+
+
+> Security researchers at Cisco Talos have found a new variant of old spyware that has attacked the Windows platform for years. Shubham Verma | February 19, 2021 | Updated 16:41 IST
+
+
+***
+![Asus ROG Phone 5 gaming phone launch set for March 10](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/asus_rog_phone_5_launch-483x271_1200_210219150530.jpeg "Asus ROG Phone 5 gaming phone launch set for March 10")
+
+
+[Asus ROG Phone 5 gaming phone launch set for March 10](https://www.indiatoday.in/technology/news/story/asus-rog-phone-5-gaming-phone-launch-set-for-march-10-1770953-2021-02-19)
+
+
+> Asus is bringing the ROG Phone 5 gaming phone much before the predecessor ROG Phone 3 launch date last year. Shubham Verma | February 19, 2021 | Updated 14:40 IST
+
+
+***
+![How to install Android 12, here's a list of phones supported](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-19_at_3_1200_210219161417.54.-483x271.png "How to install Android 12, here's a list of phones supported")
+
+
+[How to install Android 12, here's a list of phones supported](https://www.indiatoday.in/technology/news/story/how-to-install-android-12-here-s-a-list-of-phones-supported-1770990-2021-02-19)
+
+
+> The Android 12 developer preview is meant for developers to get hands-on with the all-new Google software update. The Android 12 developer preview can be accessed on a PC, macOS, or Linux, phones from Pixel 3, Pixel 3a, Pixel 4, Pixel 4a, or Pixel 5. India Today Tech | February 19, 2021 | Updated 15:57 IST (Picture: Reuters)
+
+
+***
+![Magnetic catastrophe ‘that wiped out Neanderthals' is due to happen AGAIN, scientists warn](https://www.thesun.co.uk/wp-content/uploads/2021/02/NINTCHDBPICT000637188327.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Magnetic catastrophe ‘that wiped out Neanderthals' is due to happen AGAIN, scientists warn")
+
+
+[Magnetic catastrophe ‘that wiped out Neanderthals' is due to happen AGAIN, scientists warn](https://www.thesun.co.uk/tech/14097356/magnetic-pole-flip-killed-neanderthals/)
+
+
+> A DISASTROUS collapse of the Earth's magnetic field wiped out the Neanderthals and could happen again, according to a new study. Researchers say the event left Earth exposed to burning cosmic radiation and, unfortunately, think we're overdue a repeat. The Earth is protected from cosmic radiation by a magnetic field that stems from its magnetic polesCredit: Getty Images - Getty Earth's magnetic field shields us from the cosmic radiation of space. It stretches out from Earth's magnetic poles located at the north and south of the planet.
+
+
