@@ -29882,3 +29882,50 @@
 > Slashdot Apparel is back! SHOP NOW! | Do you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly and easily with this tool and take advantage of SourceForge's massive reach. Check out all of SourceForge's improvements. | Follow Slashdot on LinkedIn × 141431394 story Posted by msmash on Friday January 22, 2021 @11:01AM from the how-about-that dept. Google's parent firm, Alphabet, is done exploring the idea of using a fleet of balloons to beam high-speed internet in remote parts of the world.
 
 
+***
+![Drishyam 2 Leaked On Tamilrockers, Torrents: Why You Shouldn't Download It Illegally](https://im.indiatimes.in/content/2021/Feb/Facebook-Image---2021-02-19T113349223_602f55aed2bc0.jpg "Drishyam 2 Leaked On Tamilrockers, Torrents: Why You Shouldn't Download It Illegally")
+
+
+[Drishyam 2 Leaked On Tamilrockers, Torrents: Why You Shouldn't Download It Illegally](https://www.indiatimes.com/technology/news/drishyam-2-leaked-on-tamilrockers-torrents-do-not-download-illegally-534664.html)
+
+
+> People who follow Malayalam cinema were desperately waiting for the sequel of Drishyam -- Drishyam 2, and after a long wait due to the pandemic, the movie was finally released on popular streaming platform Amazon Prime Video. Drishyam 2However, soon after Drishyam 2 surfaced online in full-HD prints on torrent sites like Tamilrockers, as well as the highly anticipated movie was found to be circulated on other group sharing services like Telegram. Mohanlal and Meena starrer Drishyam 2 was originally planned to be released in theatres but had to push their plans due to the ongoing COVID-19 pandemic, forcing the movie makers to release the movie on a streaming service instead.
+
+
+***
+![Pakistani fintech PayPro gets over PKR7 million in funding from USAID](https://sm.mashable.com/t/mashable_pk/photo/default/paypro_xx6w.1200.png "Pakistani fintech PayPro gets over PKR7 million in funding from USAID")
+
+
+[Pakistani fintech PayPro gets over PKR7 million in funding from USAID](https://pk.mashable.com/tech/7829/pakistani-fintech-paypro-gets-over-pkr7-million-in-funding-from-usaid)
+
+
+> A fintech startup named PayPro has announced that it has received a grant of PKR7.4 million from USAID Small and Medium Enterprise Activity (SMEA), allowing the company to further develop its marketplace platform for MSMEs with integrated digital commerce solutions. PayPro focuses on business to business (B2B) and business to consumer (B2C) payments. It was launched in 2019 and has 'processed approximately 70,000 transactions valued at more than one billion in throughput till date, with more than 430 merchants accepting payments through its services and a market accessibility of 25 plus financial institutions".
+
+
+***
+![Will there be an Apple Event on 16 March?](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155787-homepage-news-will-there-be-an-apple-event-on-16-march-image1-zxaz2tikbe.jpg "Will there be an Apple Event on 16 March?")
+
+
+[Will there be an Apple Event on 16 March?](https://www.pocket-lint.com/gadgets/news/apple/155787-will-there-be-an-apple-event-on-16-march)
+
+
+> (Pocket-lint) - Will there be an Apple Event on the 16 March? That's the latest rumour - and it's a plausible one.We're expecting the AirTags trackers to launch soon, after what seems like a delay to their original likely launch date of last September-October.We also believe that there could well be a revised iPad Pro featuring Apple's latest A14 platform (which the iPad Air and iPhone 12 series have). The iPad Pro tops out Apple's iPad range, of course, but the iPad Air runs it very close so Apple will want to open that gap up again.
+
+
+***
+![Apple to donate to Texas relief efforts, says Tim Cook](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/08/apple-tim-cook-keynote-adih.jpg "Apple to donate to Texas relief efforts, says Tim Cook")
+
+
+[Apple to donate to Texas relief efforts, says Tim Cook](https://www.imore.com/apple-donate-texas-relief-efforts-says-tim-cook)
+
+
+> Source: Apple Apple CEO Tim Cook has tweeted in support of the state of Texas and has promised that Apple will donate to ongoing relief efforts in the disaster-stricken state. Overnight Cook stated: Our hearts are with everyone across Texas and around the US, including many of our team members, as they endure the impact of the harsh winter storms. Apple will be making a financial contribution to local, community-based organizations to support their relief efforts. Our hearts are with everyone across Texas and around the US, including many of our team members, as they endure the impact of the harsh winter storms.
+
+
+***
+[AUD/USD breaks to highest levels since March 2018 as the dollar slumps](https://www.forexlive.com/technical-analysis/!/audusd-breaks-to-highest-levels-since-march-2018-as-the-dollar-slumps-20210219)
+
+
+> AUD/USD climbs to a high of 0.7837, its highest level since March 2018 The dollar is slumping further across the board and that is helping to lift AUD/USD to its highest levels in almost three years as the pair looks to break resistance at around 0.7800-20 and keep a break towards 0.8000 potentially next.
+
+
