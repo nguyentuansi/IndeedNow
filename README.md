@@ -30073,3 +30073,53 @@
 > (Image credit: Capcom) Dataminers have discovered clues that hint that Street Fighter could be Fortnite's next big crossover event. Fresh leaks from the good boat Fortnite suggest the next batch of crossover characters hail from Street Fighter's roster.  Noted dataminer ShiinaBR reportedly found assets from this season's next in-game portal – codenamed Skirmish – that give us a peek at a familiar background from Street Fighter 2, Suzaku Castle.  Better yet, Shiina's clip also shares Skirmish's audio, too, which should be recognizable to some as Ryu's theme.
 
 
+***
+![The best Bluetooth headphones for under $50](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/08/cowin-e7-lifestyle_cropped.jpg "The best Bluetooth headphones for under $50")
+
+
+[The best Bluetooth headphones for under $50](https://www.androidcentral.com/best-wireless-headphones-under-50)
+
+
+> Source: COWIN Best Bluetooth Headphones Under $50 Android Central 2021 Finding a headphone jack on a phone now is rare. Chances are, your phone doesn't have one — leaving you to go the wireless route to keep the music playing. If your need coincides with a tight budget, the COWIN E7 is your best starting point to get a set of great, all-around Bluetooth headphones. Here are some of our top choices for the best Bluetooth headphones under $50.Source: Cowin For something at this price range, the COWIN E7 offers dependable sound quality that is, not surprisingly, centered around the bass.
+
+
+***
+![Why We Want Tech Copycats to Fail](https://static01.nyt.com/images/2021/02/19/business/19ontech-copycats/19ontech-copycats-facebookJumbo.jpg "Why We Want Tech Copycats to Fail")
+
+
+[Why We Want Tech Copycats to Fail](https://www.nytimes.com/2021/02/19/technology/why-we-want-tech-copycats-to-fail.html)
+
+
+> Continue reading the main storyBig Tech likes to copy the hot new thing. But that's not always good for the rest of us.Credit...Alvaro DominguezFeb. 19, 2021, 12:59 p.m. ETThis article is part of the On Tech newsletter. You can sign up here to receive it weekdays.One of the things I obsess about is whether our current state of technology is immutable.Are Amazon, Facebook, Google, Apple and other tech giants invincible? Will they forever command a big chunk of our attention and money, shape how economies and labor markets operate and influence what people believe? Or is there room for others?One way to explore these questions is to look at tech copycats.
+
+
+***
+![Disney Plus deal: it's your last weekend to sign up before the price hike kicks in](https://cdn.mos.cms.futurecdn.net/UxEeVtTMeu5DzHP75fjrth-1200-80.jpg "Disney Plus deal: it's your last weekend to sign up before the price hike kicks in")
+
+
+[Disney Plus deal: it's your last weekend to sign up before the price hike kicks in](https://www.techradar.com/news/disney-plus-price-hike-isnt-far-away-heres-how-to-sign-up-at-the-cheaper-price)
+
+
+> (Image credit: The Walt Disney Company) Since its initial launch in November 2019 and ongoing roll-out across the globe since, Disney Plus has been lauded for its cheap subscription fee. Despite the ridiculously high quality of its content, access to the treasure trove is yours for little more than the price of a couple of takeout coffees each month.But following the removal of the Disney Plus free trial in most territories last year, It's probably no surprise that a price hike would follow. And now is finally the time.
+
+
+***
+![The original Nyan Cat GIF is being auctioned for thousands of dollars so someone can ‘own' it](https://static.independent.co.uk/2021/02/19/16/newFile-7.jpg?width=1200&auto=webp&quality=75 "The original Nyan Cat GIF is being auctioned for thousands of dollars so someone can ‘own' it")
+
+
+[The original Nyan Cat GIF is being auctioned for thousands of dollars so someone can ‘own' it](https://www.independent.co.uk/life-style/gadgets-and-tech/nyan-cat-gif-beeple-auction-cryptocurrency-b1804805.html)
+
+
+> Nyan Cat, and many other digital art pieces, are currently being auctioned off for the cryptocurrency Ethereum (ether) at a price of thousands of pounds.In a celebration of the meme's 10-year anniversary, a remastered version of the original GIF is currently on sale. At the time of writing, with less than an hour to go until the end of the auction, the highest bid is 20.69 ether, or approximately £28,000.It is one of several digital artworks that are currently on sale. Auction house Christie's is currently conducting its first ever digital art auction with work from Mike Winkelmann, aka Beeple, who made an image every day from 1 May 2007 to 7 January 2021.
+
+
+***
+![Drama 'The Mosquito Coast,' starring Justin Theroux, debuts April 30](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/the-mosquito-coast-art.jpg "Drama 'The Mosquito Coast,' starring Justin Theroux, debuts April 30")
+
+
+[Drama 'The Mosquito Coast,' starring Justin Theroux, debuts April 30](https://www.imore.com/apple-tv-drama-mosquito-coast-starring-justin-theroux-debuts-april-30)
+
+
+> Source: Apple TV+ Apple TV+ confirmed The Mosquito Coast will arrive on April 30. The drama will star Justin Theroux, Melissa George, Logan Polish and Gabriel Bateman. Apple TV+ today confirmed that drama The Mosquito Coast will debut on March 30. Starring Justin Theroux, Melissa George, Logan Polish, and Gabriel Bateman, the series will be based on the best-selling novel. Alongside the date for the big release, Apple TV+ also shared the first teaser for our delectation. From award-winning novelist and creator Neil Cross, and based on the best-selling book by Paul Theroux which celebrates its 40th anniversary this year, "The Mosquito Coast" is a gripping adventure and layered character drama following the dangerous journey of a radical idealist and brilliant inventor, Allie Fox (played by Justin Theroux), who uproots his family for Mexico when they suddenly find themselves on the run from the US government.
+
+
