@@ -30123,3 +30123,53 @@
 > Source: Apple TV+ Apple TV+ confirmed The Mosquito Coast will arrive on April 30. The drama will star Justin Theroux, Melissa George, Logan Polish and Gabriel Bateman. Apple TV+ today confirmed that drama The Mosquito Coast will debut on March 30. Starring Justin Theroux, Melissa George, Logan Polish, and Gabriel Bateman, the series will be based on the best-selling novel. Alongside the date for the big release, Apple TV+ also shared the first teaser for our delectation. From award-winning novelist and creator Neil Cross, and based on the best-selling book by Paul Theroux which celebrates its 40th anniversary this year, "The Mosquito Coast" is a gripping adventure and layered character drama following the dangerous journey of a radical idealist and brilliant inventor, Allie Fox (played by Justin Theroux), who uproots his family for Mexico when they suddenly find themselves on the run from the US government.
 
 
+***
+![Wizards of the Coast Gives Us Our First Look At Strixhaven](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/magic%20the%20gathering%20strixhaven%20.jpg?itok=jF9X-hjV "Wizards of the Coast Gives Us Our First Look At Strixhaven")
+
+
+[Wizards of the Coast Gives Us Our First Look At Strixhaven](https://techraptor.net/tabletop/news/wizards-of-coast-gives-us-our-first-look-at-strixhaven)
+
+
+> Published: Friday, February 19, 2021 - 14:07 | By: William Worrall Magic School Without The Sassy Boy Wizards Wizards of the Coast has finally dropped some of the first details for the upcoming  Magic the Gathering  set,  Strixhaven: School of Magic . The new set is expected to drop in April and is set in the titular school of magic on the plane of Arcavious.  Strixhaven: School of Magic Wizards just gave us our first big look at  Strixhaven: School of Magic , and it's shaping up to be a great set.
+
+
+***
+![Leaks Suggest Next Hearthstone Expansion is Set in The Barrens](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Next%20Hearthstone%20expansion%20cover.jpg?itok=S4J_rduQ "Leaks Suggest Next Hearthstone Expansion is Set in The Barrens")
+
+
+[Leaks Suggest Next Hearthstone Expansion is Set in The Barrens](https://techraptor.net/gaming/news/leaks-suggest-next-hearthstone-expansion-is-set-in-barrens)
+
+
+> Published: Friday, February 19, 2021 - 14:28 | By: Robert N. Adams Forging a New Path Forward A series of leaks have uncovered what may be the next  Hearthstone  expansion. Reportedly titled Hearthstone: Forged in the Barrens , it will introduce the game's first Tauren Hero and, as always, a number of cool new cards. Hearthstone  is a digital collectible card game that periodically releases batches of new content in a similar fashion to physical CCGs like  Magic: The Gathering  and the developers have recently revealed some big changes coming to the game's formats.
+
+
+***
+![Caviar made a gold PS5 that's available for half a million dollars](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/caviar-gold-ps5.jpeg "Caviar made a gold PS5 that's available for half a million dollars")
+
+
+[Caviar made a gold PS5 that's available for half a million dollars](https://www.androidcentral.com/you-can-try-get-gold-ps5-caviar-499000)
+
+
+> Source: Caviar Luxury brand Caviar has created a gold PS5 called the Golden Rock model. Nine of these Golden Rock units have been made and each one will cost $499,999. Additional premium PS5 units made with leather are also being produced. If you're having trouble grabbing a PS5, you've got another opportunity to try for, provided you have a spare half a million dollars. Caviar, a brand known for producing high-end luxury versions of items, has created the PS5 Golden Rock. Mad with 24-karat gold, nine of these consoles will be made and are available for the price of $499,000.
+
+
+***
+![Most re-read books and the REPL](https://external-preview.redd.it/9x_Wk7GkaFtqoRym4XBcCnLpdhxQ7xeMl3ISASSGbmw.jpg?auto=webp&s=df92ee52129213700d3984029462fd3bc04aa35b "Most re-read books and the REPL")
+
+
+[Most re-read books and the REPL](https://www.reddit.com/r/programming/comments/lnp10x/most_reread_books_and_the_repl/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![The top six reasons why you need a smart sous vide in your kitchen](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/joule-sous-vide-cooking-lifestyle.jpg "The top six reasons why you need a smart sous vide in your kitchen")
+
+
+[The top six reasons why you need a smart sous vide in your kitchen](https://www.androidcentral.com/6-reasons-you-should-buy-smart-sous-vide)
+
+
+> Source: Chefsteps Though sous vide cooking has been around for years, not everybody is familiar with it. The French term itself might come off as intimidating and best suited for a professional chef, but the "under vacuum" technique is actually much easier than you'd think—especially when it has a smart touch to it. All you need is one of the best smart sous vide machines, also called an immersion circulator, which will heat a water bath to a precise temperature. Food that is vacuum-sealed or placed in airtight bags is submerged into this water, which circulates and slowly cooks food until it reaches the desired temperature.
+
+
