@@ -30023,3 +30023,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Fintech Spotlight: How Morpher Lets You Buy Apple, On A Weekend, With As Little As $1](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/cover_photo_1_2.png "Fintech Spotlight: How Morpher Lets You Buy Apple, On A Weekend, With As Little As $1")
+
+
+[Fintech Spotlight: How Morpher Lets You Buy Apple, On A Weekend, With As Little As $1](https://www.benzinga.com/fintech/21/02/19742212/fintech-spotlight-how-morpher-lets-you-buy-apple-on-a-weekend-with-as-little-as-1)
+
+
+> When typically discussed, blockchain lacks a utility component. That's what Morpher CEO Martin Fröhler is looking to change. Fröhler is a mathematician, with a background in quantitative finance, specializing in research and trading algorithms. After founding a decentralized quantitative hedge fund in Silicon Valley, Martin co-developed the Morpher Protocol to replicate the trading of any market, on the blockchain, without actually trading underlying assets. In the simplest way, Morpher cuts out the middleman -- brokers, exchanges, and counterparties -- allowing market participants the ability to trade assets, with infinite liquidity, on an incorruptible protocol.
+
+
+***
+![OnePlus Watch launch soon: Specs, features, India price, and what we know so far](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/OnePlus_Watch_patent-647x363.jpeg?qnb2CwlqdhbKfQSzyzLqDUFo7BkCo78U "OnePlus Watch launch soon: Specs, features, India price, and what we know so far")
+
+
+[OnePlus Watch launch soon: Specs, features, India price, and what we know so far](https://www.indiatoday.in/technology/features/story/oneplus-watch-launch-soon-specs-features-india-price-and-what-we-know-so-far-1771064-2021-02-19)
+
+
+> The smartwatch market has seen a number of launches in recent time. With manufacturers like Oppo, Xiaomi, Realme, and OnePlus bumping into it, the midrange smartwatch segment's competition is getting even tighter. Last month, the BBK owned smartphone maker OnePlus launched its first smart band at Rs 2,499 in India. The smart band competes directly with the Mi Band 5, which also comes at the same price. However, the OnePlus Band will need a few more iterations to get as good as the Mi Band. Now the brand is keen to get into the smartwatch market, as reported by some credible websites.
+
+
+***
+![Fiverr pares gains after report of Microsoft rival service (NYSE:FVRR)](https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png "Fiverr pares gains after report of Microsoft rival service (NYSE:FVRR)")
+
+
+[Fiverr pares gains after report of Microsoft rival service (NYSE:FVRR)](https://seekingalpha.com/news/3663991-fiverr-pares-gains-after-report-of-microsoft-rival-service)
+
+
+> Javascript is Disabled Your current browser configuration is not compatible with this site.
+
+
+***
+![Lawsuit Claims Facebook Inflated Its Ad Metrics To Generate More Advertising Revenue](https://sm.mashable.com/mashable_in/seo/2/24884/24884_wum8.jpg "Lawsuit Claims Facebook Inflated Its Ad Metrics To Generate More Advertising Revenue")
+
+
+[Lawsuit Claims Facebook Inflated Its Ad Metrics To Generate More Advertising Revenue](https://in.mashable.com/tech/20423/lawsuit-claims-facebook-inflated-its-ad-metrics-to-generate-more-advertising-revenue)
+
+
+> It's not uncommon for Facebook to fall into controversies and now there's another one that puts the tech giant under the scanner. In recently revealed legal documents, companies have accused Facebook of inflating its advertising audiences to generate more advertising revenue. SEE ALSO: Want Trump Off Facebook Forever? Here's How To Make Your Voice Heard! As reported by AFP, the lawsuit argues that Facebook knowingly and deliberately didn't remove duplicate or fake accounts from its 'potential reach' tool metrics.
+
+
+***
+![Street Fighter could collide with Fortnite in the next crossover event](https://cdn.mos.cms.futurecdn.net/JmDZQMmh8aH9w6JdCfDMQH-1200-80.jpg "Street Fighter could collide with Fortnite in the next crossover event")
+
+
+[Street Fighter could collide with Fortnite in the next crossover event](https://www.techradar.com/news/street-fighter-could-collide-with-fortnite-in-the-next-crossover-event)
+
+
+> (Image credit: Capcom) Dataminers have discovered clues that hint that Street Fighter could be Fortnite's next big crossover event. Fresh leaks from the good boat Fortnite suggest the next batch of crossover characters hail from Street Fighter's roster.  Noted dataminer ShiinaBR reportedly found assets from this season's next in-game portal – codenamed Skirmish – that give us a peek at a familiar background from Street Fighter 2, Suzaku Castle.  Better yet, Shiina's clip also shares Skirmish's audio, too, which should be recognizable to some as Ryu's theme.
+
+
