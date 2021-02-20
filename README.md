@@ -30404,3 +30404,53 @@
 > At BlizzCon 2021, we've learned more about Diablo Immortal, Blizzard's mobile entry in the iconic action RPG franchise. After a technical alpha that ended in January, we've got a clearer view of how the game's shaping up – and by the developers' own accounts, Diablo Immortal is a mobile MMO with tone and gameplay in line with the franchise but could have a few tricks all its own.Important things out of the way first: there's no release date yet, and it looks like the next phase will be another alpha, according to a Q&A with press held during BlizzConline 2021.
 
 
+***
+![Nintendo's upcoming Mario Golf will include a fine, fresh, fierce-looking Wario (VIDEO)](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/mario-golf-wario_200221-seo.jpg "Nintendo's upcoming Mario Golf will include a fine, fresh, fierce-looking Wario (VIDEO)")
+
+
+[Nintendo's upcoming Mario Golf will include a fine, fresh, fierce-looking Wario (VIDEO)](https://www.soyacincau.com/2021/02/20/nintendos-upcoming-mario-golf-will-include-a-fine-fresh-fierce-looking-wario/)
+
+
+> ‘Mario Golf: Super Rush' will arrive on June 25, 2021 on the Nintendo Switch. ― SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Feb 20 ― Nintendo announced Mario Golf: Super Rush , arriving June 25, 2021 on the Nintendo Switch . The game will let players 'actually play golf' with the Switch's motion controls, have a variety of modes, and even have classic Super Mario characters dressed in fancy golf gear—including a fly-as-heck Wario in checkered pants and a cowboy hat.
+
+
+***
+![Undeterred by Facebook news blackout, Australia commits to content law](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2020-03-18_at_10_1200_210220130539.42_1-483x271.png "Undeterred by Facebook news blackout, Australia commits to content law")
+
+
+[Undeterred by Facebook news blackout, Australia commits to content law](https://www.indiatoday.in/technology/news/story/undeterred-by-facebook-news-blackout-australia-commits-to-content-law-1771237-2021-02-20)
+
+
+> Australian Prime Minister Scott Morrison vowed on Friday to press ahead with laws to force Facebook Inc to pay news outlets for content Reuters | February 20, 2021 | Updated 12:50 IST
+
+
+***
+![Nokia 3.4 goes on first sale today: Should you buy this?](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-20_at_11_1200_210220113510.22-483x271.png "Nokia 3.4 goes on first sale today: Should you buy this?")
+
+
+[Nokia 3.4 goes on first sale today: Should you buy this?](https://www.indiatoday.in/technology/news/story/nokia-3-4-goes-on-first-sale-today-should-you-buy-this-1771213-2021-02-20)
+
+
+> Highlights HMD Global unveiled two budget smartphones Nokia 3.4 and Nokia 5.4 in India. Nokia 3.4 available for purchase across all retail outlets and e-commerce platforms including Amazon, Flipkart and Nokia's official website. The Nokia 3.4 launched at a price of Rs 11,999 for the 4GB and 64GB variant. HMD Global unveiled two budget smartphones Nokia 3.4 and Nokia 5.4 in India. While the Nokia 5.4 went on its first sale a few days ago, Nokia 3.4 will go on sale today. The budget smartphone will be available for purchase across all retail outlets and e-commerce platforms including Amazon, Flipkart and Nokia's official website.
+
+
+***
+![YouTube will now let Android users play videos in 4K](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-20_at_10_1200_210220101408.10-483x271.png "YouTube will now let Android users play videos in 4K")
+
+
+[YouTube will now let Android users play videos in 4K](https://www.indiatoday.in/technology/news/story/youtube-will-now-let-android-users-play-videos-in-4k-1771191-2021-02-20)
+
+
+> YouTube has finally rolled out 4K support for Android users. This means that the users can now stream videos in 2160p or 4K. Currently, Android users can stream upto 1080p or Full HD content because 1080p is the standard resolution on most smartphones. However, now Android users will have the option of watching videos in 2160p or 4K. Earlier, Google had set the resolution to 1440p for Android users even when the video was uploaded in 4k. The feature was already available in iOS. As per XDADevelopers, Google is adding a new streaming option to YouTube on Android devices.
+
+
+***
+![Most of us still aren't properly equipped to work from home](https://cdn.mos.cms.futurecdn.net/Z9oq35HMdsb8y7vyhpdjd6-1200-80.jpg "Most of us still aren't properly equipped to work from home")
+
+
+[Most of us still aren't properly equipped to work from home](https://www.techradar.com/news/most-of-us-still-arent-properly-equipped-to-work-from-home)
+
+
+> (Image credit: Shutterstock.com / Master1305) A shockingly large proportion of employees across the UK still don't have all the right equipment they need to work from home effectively.Almost a year on from the first lockdown and stay-at-home orders due to the coronavirus pandemic, many workers are lacking vital hardware such as home printers and portable monitors needed to do their jobs properly, new research from Currys PC World and Canon has found.This is despite nearly all businesses being forced to switch to a remote working environment, with employees needing to stay away from offices and connect to work networks from home.
+
+
