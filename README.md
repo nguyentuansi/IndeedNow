@@ -30504,3 +30504,53 @@
 > TL;DR: Charge your phone and play your tunes wherever you go with the durable HyperGear Quake wireless speaker. As of Feb. 20, get it for $44.99 and save 25%.  Just because you're a fan of the outdoors doesn't mean you have to be a fan of silence. That's why the HyperGear Quake wireless speaker was made specifically for outdoor enthusiasts. The Quake works within 33 feet of your device to emit clear sound, and is designed to be shock-, splash-, drop-, and weather-proof. It's powered by a rechargeable battery that runs for up to 15 hours on a single charge.
 
 
+***
+![Orochimaru Comes to Naruto to Boruto Shinobi Striker](https://i0.wp.com/www.iskmogul.com/wp-content/uploads/2018/11/naruto-orochimaru-dlc_opt.jpg?fit=750%2C422&ssl=1 "Orochimaru Comes to Naruto to Boruto Shinobi Striker")
+
+
+[Orochimaru Comes to Naruto to Boruto Shinobi Striker](https://www.iskmogul.com/orochimaru-dlc-naruto-to-boruto-shinobi-striker/)
+
+
+> As part of the post-launch content plan for Naruto to Boruto Shinobi Striker , there's a new character pack DLC. This new DLC character for Naruto to Boruto Shinobi Striker will unlock a new master trainer in the fighting game. Are you prepared to take on the lord of serpents, Orochimaru? Available as part of a new content pack for Naruto fans, this DLC character will allow you to unlock a series of new abilities. The Master Character Training Pack – Orochimaru pack allows the chance to head to train with iconic character to earn some new attacks and cosmetic items for your created characters.
+
+
+***
+![Android 12 may get a new lock screen with a giant clock](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-19_at_1_1200_210220150532.09._1-483x271.png "Android 12 may get a new lock screen with a giant clock")
+
+
+[Android 12 may get a new lock screen with a giant clock](https://www.indiatoday.in/technology/news/story/-android-12-may-get-a-new-lock-screen-with-a-giant-clock-1771264-2021-02-20)
+
+
+> During the tests, it was discovered that the Android 12 could come up with a new UI and lock screen. Ankita Chakravarti | February 20, 2021 | Updated 14:36 IST
+
+
+***
+![A Galaxy Watch Active with Android could be the best women's watch ever](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/galaxy-watch-active-fitness-reminder.jpg "A Galaxy Watch Active with Android could be the best women's watch ever")
+
+
+[A Galaxy Watch Active with Android could be the best women's watch ever](https://www.androidcentral.com/galaxy-watch-active-android-could-be-best-womens-watch-ever)
+
+
+> Source: Ara Wagoner / Android Central For the last couple of years, the best Android smartwatches actually haven't run Android, they've run Samsung's Tizen. This means that Android watch-buyers had to choose between getting great hardware or getting access to the apps and services they actually want to use like Google Assistant and Google Pay. Samsung's new watch will use Android to replace Tizen.— Ice universe (@UniverseIce) February 19, 2021 But if reports from leaker extraordinaire Ice universe are to be believed — and they usually are — you may be able to get the best of all worlds in Samsung's next watch.
+
+
+***
+![White House working with social media giants to silence anti-vaxxers](https://external-preview.redd.it/UI9Offz1RpNPwpG_Qwd0ukjG-lB8Qb2ePiYmRn7lu-c.jpg?auto=webp&s=d71a34a8006d85f22d3e92618fac82ffc5e39ca5 "White House working with social media giants to silence anti-vaxxers")
+
+
+[White House working with social media giants to silence anti-vaxxers](https://www.reddit.com/r/technology/comments/lo5p6t/white_house_working_with_social_media_giants_to/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Flipkart Cooling Days sale: Top deals on ACs, refrigerators and coolers](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Screenshot_2021-02-20_at_5.10.-647x363.png?eR3vZGW0oQBGqyNUQmuVAmwHrSkYrpMi "Flipkart Cooling Days sale: Top deals on ACs, refrigerators and coolers")
+
+
+[Flipkart Cooling Days sale: Top deals on ACs, refrigerators and coolers](https://www.indiatoday.in/technology/news/story/flipkart-cooling-days-sale-top-deals-on-acs-refrigerators-and-coolers-1771314-2021-02-20)
+
+
+> Flipkart is back with yet another mega sale but this time not on smartphones. Flipkart's Cooling Days sale with offers on coolers, refrigerators, Air conditioners, fans and more has kickstarted on the website. The sale has gone live today and will go on till February 24. Flipkart is also offering instant discounts for Kotal Mahindra Bank account holders. If you are a Kotak Mahindra cardholder, you can get an instant discount of 10 percent. Flipkart page says that buyers will get up to 10 percent instant discount on Kotak Credit Cards and EMI transactions on credit and debit cards.
+
+
