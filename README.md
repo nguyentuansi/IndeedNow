@@ -30554,3 +30554,53 @@
 > Flipkart is back with yet another mega sale but this time not on smartphones. Flipkart's Cooling Days sale with offers on coolers, refrigerators, Air conditioners, fans and more has kickstarted on the website. The sale has gone live today and will go on till February 24. Flipkart is also offering instant discounts for Kotal Mahindra Bank account holders. If you are a Kotak Mahindra cardholder, you can get an instant discount of 10 percent. Flipkart page says that buyers will get up to 10 percent instant discount on Kotak Credit Cards and EMI transactions on credit and debit cards.
 
 
+***
+![We need more Nintendo Switch games – but these ports won't cut it](https://cdn.mos.cms.futurecdn.net/SefpRNyiit2LxgtBFoBhHF-1200-80.jpg "We need more Nintendo Switch games – but these ports won't cut it")
+
+
+[We need more Nintendo Switch games – but these ports won't cut it](https://www.techradar.com/news/we-need-more-nintendo-switch-games-but-these-ports-wont-cut-it)
+
+
+> We waited 532 days for a Nintendo Direct, and all we got was a lousy Wii port for Nintendo Switch. Okay, maybe that's a little harsh on The Legend of Zelda: Skyward Sword, but its announcement was indicative of Nintendo's biggest problem: the Japanese giant simply can't stick to a healthy release cadence without reverting back to its tried and tested strategy of releasing older games, most of which we've played countless times before. I've already expressed my frustration at how a disappointing number of Wii U games have been ported to Nintendo Switch, often with little to no enhancements to speak of (did we really need a ‘Funky New Mode' in Donkey Kong Country: Tropical Freeze?).
+
+
+***
+![Review: Spiritfarer is great experience for Switch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/9.jpg "Review: Spiritfarer is great experience for Switch")
+
+
+[Review: Spiritfarer is great experience for Switch](https://www.imore.com/spiritfarer-review)
+
+
+> Source: iMore Spiritfarer is a magical game dressed in an adorable art style that also really knows how to punch my feels in the gut. I got to play as the adorable Stella, whose task is to guide spirits into the afterlife as the new Spiritfarer. It made me think about my life, my regrets, my dreams — and I pondered on who I may have had to guide were I in Stella's position. For a cute game, it delves into some surprisingly adult topics about morals, ethics and dealing with illness. As someone who enjoys psychology and the things that make people tick, Spiritfarer was a grand time.
+
+
+***
+![Should you upgrade to the Jabra Elite 85t from the 65t?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/jabra-elite-85t-review-12.jpg "Should you upgrade to the Jabra Elite 85t from the 65t?")
+
+
+[Should you upgrade to the Jabra Elite 85t from the 65t?](https://www.androidcentral.com/jabra-elite-85t-vs-elite-65t)
+
+
+> Jabra doesn't disappoint every time it launches a new pair of true wireless earbuds, and the Elite 85t earn their place among the best available. By adding new features and improving on some existing ones, they become a compelling way to plug your ears when you want to get what you pay for. $200 at Amazon Hybrid ANC Great sound quality Better call quality than Elite 65t Comfortable fit Responsive controls Wireless charging case No big difference in size More proprietary ear tips Taller and heavier case By now, the Elite 65t are showing their age relative to their successors, but that only makes them more interesting as a budget option.
+
+
+***
+![I Hate Talking About The 'Pandemic Wall'](https://miro.medium.com/max/1200/0*GX1ZGeTQldGbyWAM "I Hate Talking About The 'Pandemic Wall'")
+
+
+[I Hate Talking About The 'Pandemic Wall'](https://gen.medium.com/i-hate-talking-about-the-pandemic-wall-f66fd716f2fd)
+
+
+> 1 day ago·6 min readThis person is simply skating in front of their pandemic wall. Photo: 青 晨/UnsplashI knew this would happen at some point in the pandemic, but this is the week I finally feel like I'm fully losing my mind. I am going to go ahead and assume you are an ungenerous reader and get my stupid little self-aware disclaimers out of the way now. I am a young, relatively healthy person in my late twenties. I live in a big city, I don't have a family to support, I have the privilege of working from home, and I don't have to interface with the general public a whole lot.
+
+
+***
+![Not Just Perseverance, Linux Is On Mars Too With NASA's Recent Success](https://im.indiatimes.in/content/2021/Feb/NASA-Ingenuity_6030e692c6936.jpg "Not Just Perseverance, Linux Is On Mars Too With NASA's Recent Success")
+
+
+[Not Just Perseverance, Linux Is On Mars Too With NASA's Recent Success](https://www.indiatimes.com/technology/news/not-just-perseverance-linux-is-on-mars-too-with-nasas-recent-success-534765.html)
+
+
+> NASA's Perseverance landed on the surface of Mars earlier this week amid appreciation from the whole world. The achievement was monumental after all, the small rover travelled to a distant planet that can soon be the next 'home' for humans. However, it wasn't the only man-made thing in doing so.The now-renowned rover is accompanied by a tiny helicopter named Ingenuity, which is set to take the first ever flight on a planet other than Earth soon. Though it hasn't got a lot of coverage, but interestingly enough, the autonomous drone is powered by a Linux system.
+
+
