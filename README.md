@@ -30270,3 +30270,47 @@
 > Blizzard Entertainment at its online-only fan event, BlizzConline, unveiled the latest expansion and year-long event to its digital collectible card game, Hearthstone . The expansion, titled Forged in the Barrens , kicks off the new Year of The Gryphon event and returns the game to its World of Warcraft roots, taking players to the sun-baked savanna of central Kalimdor, where they can recruit legendary mercenaries, collect new cards, and use a new keyword.  Here's a preview of all the announcements: What would a Hearthstone expansion be without new cards to collect.
 
 
+***
+[Google fires AI manager who protested her peer's departure](https://www.mymotherlode.com/news/technology/1553429/google-fires-ai-manager-who-protested-her-peers-departure.html)
+
+
+> Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field
+
+
+***
+![Titan Medical Announces Filing of Final Short Form Prospectus](https://mms.businesswire.com/media/20210219005534/en/860232/23/TitanMedicalLogo.jpg "Titan Medical Announces Filing of Final Short Form Prospectus")
+
+
+[Titan Medical Announces Filing of Final Short Form Prospectus](https://www.businesswire.com/news/home/20210219005534/en/Titan-Medical-Announces-Filing-of-Final-Short-Form-Prospectus)
+
+
+> February 19, 2021 08:36 PM Eastern Standard Time TORONTO--(BUSINESS WIRE)--Titan Medical Inc. ('Titan' or the 'Company') (TSX:TMD) (Nasdaq:TMDI), a medical device company focused on the design and development of surgical technologies for robotic single access surgery, announced today that it has filed and been receipted for a final short form prospectus with applicable securities regulators in Ontario, British Columbia and Alberta in connection with its previously announced offering of 8,335,000 units of the Company ('Units') on a 'bought deal' basis, at a price of US$2.
+
+
+***
+[Internal email: Mailchimp CEO tells staff that "we have work to do" on pay equity and inclusion, after company denied allegations of bias from engineer who quit (Tyler Sonnemaker/Insider)](http://www.techmeme.com/210219/p21#a210219p21)
+
+
+> Tyler Sonnemaker / Insider: Internal email: Mailchimp CEO tells staff that “we have work to do” on pay equity and inclusion, after company denied allegations of bias from engineer who quit — - MailChimp CEO Ben Chestnut said the company has “work to do” on pay equity. — Chestnut's email to employees followed …
+
+
+***
+![Google Fires Researcher Meg Mitchell, Escalating AI Saga](https://external-preview.redd.it/FP842RAiDai0Qklvm1UkQO5BiU6765CL7bU57NMu_3c.jpg?auto=webp&s=c4e0ca6fcd5628a8c04d7ab9dc377cd90b21432a "Google Fires Researcher Meg Mitchell, Escalating AI Saga")
+
+
+[Google Fires Researcher Meg Mitchell, Escalating AI Saga](https://www.reddit.com/r/technology/comments/lnvt0e/google_fires_researcher_meg_mitchell_escalating/)
+
+
+> Google fired the lead of its Ethical Artificial Intelligence team, Meg Mitchell, escalating the turmoil surrounding its AI division after the acrimonious exit of Mitchell's former colleague Timnit Gebru.In the aftermath of Friday's firing, Google's head of AI, Jeff Dean, tried to repair relations with the company's staff, saying at an all-hands meeting that he took 'some responsibility' for the break in trust with researchers.'I take some amount of responsibility and I feel like other leads in the organization also take responsibility,' Dean said during the meeting.
+
+
+***
+![Google fires AI manager who protested her peer's departure](https://www.wftv.com/pb/resources/images/share_logos/WFTV_1200x630.png "Google fires AI manager who protested her peer's departure")
+
+
+[Google fires AI manager who protested her peer's departure](https://www.wftv.com/news/technology/google-fires-ai/TAD67XQKCO5SYJTI5B6KOQDYRA/)
+
+
+> The firing comes a month after Mitchell also vented on Twitter about the handling of her former colleague, Timnit Gebru, who parted ways with Google late last year. Gebru, a Black woman, said she was fired in a dispute over a research paper, while Google said it had accepted her resignation.
+
+
