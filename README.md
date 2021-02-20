@@ -30604,3 +30604,53 @@
 > NASA's Perseverance landed on the surface of Mars earlier this week amid appreciation from the whole world. The achievement was monumental after all, the small rover travelled to a distant planet that can soon be the next 'home' for humans. However, it wasn't the only man-made thing in doing so.The now-renowned rover is accompanied by a tiny helicopter named Ingenuity, which is set to take the first ever flight on a planet other than Earth soon. Though it hasn't got a lot of coverage, but interestingly enough, the autonomous drone is powered by a Linux system.
 
 
+***
+![Benzinga's Bulls And Bears Of The Week: Disney, QuantumScape, Tesla, Walmart And More](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/disney-2692578_1920_1_0_0.jpg "Benzinga's Bulls And Bears Of The Week: Disney, QuantumScape, Tesla, Walmart And More")
+
+
+[Benzinga's Bulls And Bears Of The Week: Disney, QuantumScape, Tesla, Walmart And More](https://www.benzinga.com/markets/cryptocurrency/21/02/19762301/benzingas-bulls-and-bears-of-the-week-disney-quantumscape-tesla-walmart-and-more)
+
+
+> Benzinga has examined the prospects for many investor favorite stocks over the past week. The week's bullish calls included a rebounding entertainment giant, a well-positioned homebuilder and a retail giant with prospects. An EV maker facing softening demand and a couple of overvalued stocks were among the bearish calls seen. The Dow Jones industrial average and the S&P 500 ended the past week more or less flat, while the Nasdaq slipped less than 2%. It was a week that started with a major winter storm that slammed parts of the country not prepared for such weather, likely resulting in a long recovery and widespread fallout.
+
+
+***
+![WhatsApp to go ahead with changes despite backlash](https://adaderanaenglish.s3.amazonaws.com/1613829467-WhatsApp-to-go-ahead-with-changes-despite-backlash-L.jpg "WhatsApp to go ahead with changes despite backlash")
+
+
+[WhatsApp to go ahead with changes despite backlash](https://www.adaderana.lk/technology/71733/whatsapp-to-go-ahead-with-changes-despite-backlash)
+
+
+> February 20, 2021   07:26 pm - WhatsApp is pushing ahead with controversial changes to its terms of service, but altering the way it notifies users following a backlash. After its first announcement in January, millions of users downloaded apps from WhatsApp's competitors. The Facebook-owned platform previously said it had been the victim of 'misinformation' around the change. But WhatsApp now says it has 'reflected' on how it could have explained the changes better. The phrasing of the warning in the initial push led to widespread fears that it was going to share large amounts of WhatsApp data with Facebook.
+
+
+***
+![Kumbh Mela 2021: Check dates, registration link and all other details](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/kumb_505_200221090051.jpg "Kumbh Mela 2021: Check dates, registration link and all other details")
+
+
+[Kumbh Mela 2021: Check dates, registration link and all other details](https://www.businesstoday.in/latest/trends/kumbh-mela-2021-check-dates-registration-link-and-all-other-details/story/431848.html)
+
+
+> Story The duration of Kumbh Mela, which is considered as the largest religious gathering anywhere around the world, has been reduced to just 30 days in view of the COVID-19 pandemic BusinessToday.In | February 20, 2021 | Updated 21:00 IST The Maha Kumbh Mela is celebrated every twelve years at the four river-bank pilgrimage sites spread across the country
+
+
+***
+![Air India plane suffers minor mishap at Vijayawada Airport; passengers safe](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/airindia_accident_505_200221081014.jpg "Air India plane suffers minor mishap at Vijayawada Airport; passengers safe")
+
+
+[Air India plane suffers minor mishap at Vijayawada Airport; passengers safe](https://www.businesstoday.in/current/corporate/air-india-plane-suffers-minor-mishap-at-vijayawada-airport-passengers-safe/story/431845.html)
+
+
+> Story An Air India Express flight lost control and hit an electric pole while landing at the Vijayawada International Airport in Andhra Pradesh BusinessToday.In | February 20, 2021 | Updated 20:13 IST Air India flight suffered a minor mishap at the Vijayawada International Airport Image: ANI
+
+
+***
+![Bitcoin reaches new high; RBI tightens digital security : News Reel](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/thumb_web_660_200221055619.jpg "Bitcoin reaches new high; RBI tightens digital security : News Reel")
+
+
+[Bitcoin reaches new high; RBI tightens digital security : News Reel](https://www.businesstoday.in/videos/news-reel/bitcoin-reaches-new-high-rbi-tightens-digital-security/431840.html)
+
+
+> BusinessToday.In | February 20, 2021 Bitcoin got another leg-up on Friday after billionaire Elon Musk defended the investment by his electric vehicle company Tesla in the popular cryptocurrency; Facebook Inc's WhatsApp said on Thursday it will go ahead with its controversial privacy policy update but will allow users to read it at 'their own pace' and will also display a banner providing additional information; The Reserve Bank of India (RBI) has toughened digital payment security norms to improve security, control, and compliance for banks and other regulated entities.
+
+
