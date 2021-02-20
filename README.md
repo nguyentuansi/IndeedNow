@@ -30654,3 +30654,53 @@
 > BusinessToday.In | February 20, 2021 Bitcoin got another leg-up on Friday after billionaire Elon Musk defended the investment by his electric vehicle company Tesla in the popular cryptocurrency; Facebook Inc's WhatsApp said on Thursday it will go ahead with its controversial privacy policy update but will allow users to read it at 'their own pace' and will also display a banner providing additional information; The Reserve Bank of India (RBI) has toughened digital payment security norms to improve security, control, and compliance for banks and other regulated entities.
 
 
+***
+![Asylum-seekers are still struggling to access vital services without wi-fi or devices](https://static.independent.co.uk/2021/02/19/14/GettyImages-1272585980.jpg?width=1200&auto=webp&quality=75 "Asylum-seekers are still struggling to access vital services without wi-fi or devices")
+
+
+[Asylum-seekers are still struggling to access vital services without wi-fi or devices](https://www.independent.co.uk/life-style/gadgets-and-tech/asylum-seekers-wifi-data-devices-online-b1803619.html)
+
+
+> Availability of laptops, tablets, and smartphones is limited for these most vulnerable people.And a lack of broadband or mobile data means many are struggling to stay connected to their families, access language courses, or help their children with their schoolwork.Though the Home Office denies the existence of a 'digital divide with asylum seekers', charities that help asylum seekers paint a grim picture of the situation.According to data gathered by Refugee Action, 22 out of 29 organisations across the UK working with refugee, asylum and migrant families with school-aged children do not think the children of the families they work with are getting enough support to successfully engage in online learning.
+
+
+***
+![10 Amazing Python Hacks](https://external-preview.redd.it/ht7IIZvzhsZBM6nZ1hO_TGQsec0cyhzmLwKUfFkb6cI.jpg?auto=webp&s=8d05a127c50cc8e70e99f83434caac6eb3e8ff0b "10 Amazing Python Hacks")
+
+
+[10 Amazing Python Hacks](https://www.reddit.com/r/Python/comments/locfhb/10_amazing_python_hacks/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Simple Google Sheets Clone. I have recorded the whole development process and Github repo and Netlify demo are available.](https://external-preview.redd.it/Y00vu8ngHpT84pmhCx_bvQBGBoRRLv6TTw99ejb8V_o.jpg?auto=webp&s=311037314ef87267a7b39156129628bd7f96f5b2 "Simple Google Sheets Clone. I have recorded the whole development process and Github repo and Netlify demo are available.")
+
+
+[Simple Google Sheets Clone. I have recorded the whole development process and Github repo and Netlify demo are available.](https://www.reddit.com/r/programming/comments/loc799/simple_google_sheets_clone_i_have_recorded_the/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Martian satellite captures rover parachuting through Mars' atmosphere](https://mondrian.mashable.com/2021%252F02%252F20%252Ff8%252F97749a559eb64d54a002b1df44aa9457.5f3de.jpg%252F1200x630.jpg?signature=uK6lZ4nqNt-26X7oiUp3vulETQk= "Martian satellite captures rover parachuting through Mars' atmosphere")
+
+
+[Martian satellite captures rover parachuting through Mars' atmosphere](https://mashable.com/article/mars-perseverance-rover-image-parachute/)
+
+
+> Talk about a unique satellite image. A crucial NASA satellite orbiting Mars, the Mars Reconnaissance Orbiter, spotted the car-sized Perseverance rover parachuting through the Martian atmosphere on Thursday, en route to a successful, though dramatic, landing. The space agency released the shot on Friday. "Every picture tells a story," NASA tweeted. "This one captures me in midair, floating over Mars while hanging from my parachute during the final #CountdownToMars." In the image below, the square shows an enlarged view of the parachuting rover, and the small white circle depicts where the rover ultimately landed in the Jezero Crater.
+
+
+***
+![Little: a statically typed, C-like scripting language.](https://external-preview.redd.it/iWnWMEUTTCvzU5UOYx2JE1nNNWeluBpzg-1vd81cYQ4.jpg?auto=webp&s=979cb478b44ef77b12082663463565538bfa950b "Little: a statically typed, C-like scripting language.")
+
+
+[Little: a statically typed, C-like scripting language.](https://www.reddit.com/r/programming/comments/loc1u0/little_a_statically_typed_clike_scripting_language/)
+
+
+> If you like this, I do a weekly roundup of open source projects that includes an interview with the dev of one of the projects that you can subscribe to.
+
+
