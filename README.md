@@ -30704,3 +30704,53 @@
 > If you like this, I do a weekly roundup of open source projects that includes an interview with the dev of one of the projects that you can subscribe to.
 
 
+***
+![This musician makes $4,500 a month streaming her songwriting process on Twitch](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dRp3J.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=942&y=387 "This musician makes $4,500 a month streaming her songwriting process on Twitch")
+
+
+[This musician makes $4,500 a month streaming her songwriting process on Twitch](https://www.cnbc.com/2021/02/20/songwriter-makes-4500-monthly-streaming-process-on-twitch.html)
+
+
+> © Provided by CNBC Sereda. Sereda , who performs under her last name, was ready to give up on music . She'd been trying to make it in L.A. for seven years, meeting with label executives time and again in hopes of getting some representation. "I was contemplating whether I was going to quit music , because it's a grinding, grueling thing," she says. "I came to L.A. with a dream, and I basically failed." In May 2019, a friend introduced her to livestreaming platform Twitch , which at that point was mostly a place for gamers to livestream themselves playing video games.
+
+
+***
+![Keep the juice flowing with a best-selling CR2032 battery](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2016/06/Bluetooth-Tracker-Hero-fixed-770n_0.jpg "Keep the juice flowing with a best-selling CR2032 battery")
+
+
+[Keep the juice flowing with a best-selling CR2032 battery](https://www.androidcentral.com/best-cr2032-batteries)
+
+
+> Best CR2032 Batteries Android Central 2021 More and more devices today are powered by energy-efficient lithium CR2032 batteries, from car key fobs to wristwatches and even the latest Bluetooth trackers from brands like Tile. The small coin-shaped batteries last longer than previous generation batteries and take up less room in a drawer. Which are the best CR2032 batteries? Let's take a look. Energizer's little CR2032 lithium button batteries add significant power to devices! This six-pack delivers on performance and value.
+
+
+***
+![Why does Google prepend while(1); to their JSON responses?](https://external-preview.redd.it/QgPvRTknlY3rMNDqH1k4I37XGiq9tZF_FsygC_Xht4o.jpg?auto=webp&s=8cd5e918e2bde6ca72d4445d6fc007f203689799 "Why does Google prepend while(1); to their JSON responses?")
+
+
+[Why does Google prepend while(1); to their JSON responses?](https://www.reddit.com/r/programming/comments/lof89i/why_does_google_prepend_while1_to_their_json/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Tesla makes more money on bitcoin than on cars](https://external-preview.redd.it/nipyW0c6rjjz5n99FlF4pp29nJNYrZay5ctj9zM2kCk.jpg?auto=webp&s=07b21bf364e45efa5f6c90966f863e36dd7a2e12 "Tesla makes more money on bitcoin than on cars")
+
+
+[Tesla makes more money on bitcoin than on cars](https://www.reddit.com/r/technology/comments/loey1n/tesla_makes_more_money_on_bitcoin_than_on_cars/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Nick Jonas joins the elite club of 'SNL' hosts who did double duty as musical guests](https://mondrian.mashable.com/2021%252F02%252F20%252Fb5%252F18f12e640605434b8e538fc537b21aa7.32d3a.png%252F1200x630.png?signature=kx4q-41IqlvMn_FOEjkhJXb9UU0= "Nick Jonas joins the elite club of 'SNL' hosts who did double duty as musical guests")
+
+
+[Nick Jonas joins the elite club of 'SNL' hosts who did double duty as musical guests](https://mashable.com/article/snl-nick-jonas-host-musical-guest-double-duty/)
+
+
+> Nick Jonas is returning to Saturday Night Live on Feb. 27, this time without his older brothers tagging along. The youngest Jonas will not only host the upcoming SNL, he's also be the evening's musical guest. All three Jonas brothers previously graced the SNL stage in February 2009 as that evening's musical guest, and Nick got the chance to do the same as a solo artist in 2016. But this is the first time any of the brothers will get to host. Nick notably did appear in a couple of sketches alongside the night's host Julia Louis-Dreyfus during his 2016 appearance.
+
+
