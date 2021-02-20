@@ -30454,3 +30454,53 @@
 > (Image credit: Shutterstock.com / Master1305) A shockingly large proportion of employees across the UK still don't have all the right equipment they need to work from home effectively.Almost a year on from the first lockdown and stay-at-home orders due to the coronavirus pandemic, many workers are lacking vital hardware such as home printers and portable monitors needed to do their jobs properly, new research from Currys PC World and Canon has found.This is despite nearly all businesses being forced to switch to a remote working environment, with employees needing to stay away from offices and connect to work networks from home.
 
 
+***
+![Ignoring backlash, WhatsApp to implement new privacy update soon](https://sm.mashable.com/t/mashable_pk/news/w/whatsapp-i/whatsapp-is-using-status-stories-to-make-users-feel-better-a_pzha.1200.jpg "Ignoring backlash, WhatsApp to implement new privacy update soon")
+
+
+[Ignoring backlash, WhatsApp to implement new privacy update soon](https://pk.mashable.com/tech/7856/ignoring-backlash-whatsapp-to-implement-new-privacy-update-soon)
+
+
+> The Facebook owned instant messaging service, WhatsApp has said that it will be moving ahead with its controversial privacy policy update but will allow users to read it 'their own pace' and will display a banner providing additional information as well. The privacy policy update which was announced earlier in January faced criticism from the world, as the company said that under the new update it could share limited user data with Facebook and its group firms. Sparking massive outrage, the news of the update made users to switch to WhatsApp's rival app, Telegram and Signal, among others, prompting the messaging giant to delay the new privacy launch to May, earlier announced to be introduced in February 8.
+
+
+***
+![Save 50% on a smartwatch that actually looks like a watch](https://mondrian.mashable.com/2021%252F02%252F20%252Fc1%252F07fef82d07a64c1dac17433c71035a82.098e1.jpg%252F1200x630.jpg?signature=SEZMFAG2HQh08lo14Oz9fNTi7JI= "Save 50% on a smartwatch that actually looks like a watch")
+
+
+[Save 50% on a smartwatch that actually looks like a watch](https://mashable.com/shopping/feb-20-sinji-premium-smart-watch/)
+
+
+> TL;DR: Track your heart rate, step count, and more with the Sinji Premium Smartwatch , on sale for $49.95 — a 50% savings — as of Feb. 20.  If you're craving a little more data in your approach to your health, a smartwatch can be super helpful. This one, the the Sinji Premium Smartwatch , can track your heart rate, daily step count, sleep quality, oxygen saturation, blood pressure, calorie consumption, and even body temperature. All of this data can help you make more informed decisions when it comes to your health — which means less guessing on your part.
+
+
+***
+![Make your space feel fresh with a smart air purifier on sale](https://mondrian.mashable.com/2021%252F02%252F20%252F9b%252F416a06588c17448ea52145460652f09e.9e27b.png%252F1200x630.png?signature=3WcDiIxQoXhZyN-C_miftJJX8lc= "Make your space feel fresh with a smart air purifier on sale")
+
+
+[Make your space feel fresh with a smart air purifier on sale](https://mashable.com/shopping/feb-20-sensibo-pure-smart-air-purifier/)
+
+
+> TL;DR: Keep the air in your home fresh with the Sensibo Pure: Smart Air Purifier . As of Feb. 20, save 14% and get it for $127.99. Before you start your spring cleaning, do yourself a favor and invest in the Sensibo Pure: Smart Air Purifier . The air purifier has both HEPA and carbon filters and is designed to be able to filter particles as small as 0.1μm to help fight against viruses, bacteria, dust, smoke, and even bad odors. Not only will you notice a difference in air quality, you can count on your space smelling better, too.
+
+
+***
+![Grab a pair of stylish wireless earbuds for under $30](https://mondrian.mashable.com/2021%252F02%252F20%252F0f%252Fa92ffd227d7f46aaab5121af589985c7.1b78a.jpg%252F1200x630.jpg?signature=Sep7ffbA-4V7JHMcC0jSYoW-Wss= "Grab a pair of stylish wireless earbuds for under $30")
+
+
+[Grab a pair of stylish wireless earbuds for under $30](https://mashable.com/shopping/feb-20-avanca-t1-bluetooth-wireless-earbuds/)
+
+
+> TL;DR: For a cheaper alternative to AirPods, try the Avanca T1 Wireless Earbuds , on sale for $29.95 — a 50% savings — as of Feb. 20. A quick Amazon search for wireless earbuds will deliver thousands of results — from AirPod lookalikes  to quirky buds with obscure names. The trick is to decide what features matter most to you. Do you want something that's designed like AirPods  but carries a more affordable price tag? Is sound more important to you than looks? Or is it an all-day battery life you're after? The Avanca T1 Wireless Earbuds deliver style, a solid battery life, and an affordable price tag.
+
+
+***
+![This wireless speaker doubles as a power bank — and it's 25% off](https://mondrian.mashable.com/2021%252F02%252F20%252Fca%252Fb9fd2eaaaab64b58a942aec9959561e7.3d795.jpg%252F1200x630.jpg?signature=o5IOY3Y7lQVxlQGzwaDox2EAAZg= "This wireless speaker doubles as a power bank — and it's 25% off")
+
+
+[This wireless speaker doubles as a power bank — and it's 25% off](https://mashable.com/shopping/feb-20-hypergear-quake-wireless-speaker-with-built-in-power-bank/)
+
+
+> TL;DR: Charge your phone and play your tunes wherever you go with the durable HyperGear Quake wireless speaker. As of Feb. 20, get it for $44.99 and save 25%.  Just because you're a fan of the outdoors doesn't mean you have to be a fan of silence. That's why the HyperGear Quake wireless speaker was made specifically for outdoor enthusiasts. The Quake works within 33 feet of your device to emit clear sound, and is designed to be shock-, splash-, drop-, and weather-proof. It's powered by a rechargeable battery that runs for up to 15 hours on a single charge.
+
+
