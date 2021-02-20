@@ -30354,3 +30354,53 @@
 > Hi, new here, ive recently bought an online course on udemy to learn how to code and its teaching me to code on python. Is this a good way to start? Will courses like this and certificates like this help me land a job in the future or is there something i need to do to actually help land me a job in coding once i know enough. any thoughts or advice are welcome.
 
 
+***
+![Huawei to cut phone production by over half in 2021: Report](https://image-prod.iol.co.za/resize/4299x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/048bbe43-d22c-5391-86ef-406753a8e726&operation=CROP&offset=0x226&resize=4299x2418 "Huawei to cut phone production by over half in 2021: Report")
+
+
+[Huawei to cut phone production by over half in 2021: Report](https://www.iol.co.za/technology/huawei-to-cut-phone-production-by-over-half-in-2021-report-c35337cf-2fa2-5578-b97a-c2ccf516e400)
+
+
+> Beijing - Chinese tech giant Huawei has reportedly told suppliers that smartphone production will drop by about 60 per cent in 2021.According to Nikkei Asia, citing people familiar with the matter, Huawei has notified its suppliers that it plans to order enough components for 70-80 million smartphones this year.The company is reported to have shipped 189 million handsets in 2020 which was already a sizable decrease from the 240 million phones sold in 2019.The report did not mention if any specific Huawei smartphones will be affected by the cut.
+
+
+***
+![Carmakers wake up to new pecking order as chip crunch intensifies](https://www.thehindu.com/sci-tech/technology/j67xeb/article33792567.ece/ALTERNATES/LANDSCAPE_615/chip-shortage-reuters-2jpg "Carmakers wake up to new pecking order as chip crunch intensifies")
+
+
+[Carmakers wake up to new pecking order as chip crunch intensifies](https://www.thehindu.com/sci-tech/technology/carmakers-wake-up-to-new-pecking-order-as-chip-crunch-intensifies/article33886082.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)The semiconductor crunch that has battered the auto sector leaves carmakers with a stark choice: pay up, stock up or risk getting stuck on the sidelines as chipmakers focus on more lucrative business elsewhere.Car manufacturers including Volkswagen, Ford and General Motors have cut output as the chip market was swept clean by makers of consumer electronics such as smartphones - the chip industry's preferred customers because they buy more advanced, higher-margin chips.
+
+
+***
+![This week in Auto: Hyundai#39;s silver jubilee in India; Renault Kiger launch; Hero MotoCorp capex plans; and more](https://images.moneycontrol.com/static-mcnews/2020/02/Hyundai-Creta-e1591715604628-770x433.jpg "This week in Auto: Hyundai#39;s silver jubilee in India; Renault Kiger launch; Hero MotoCorp capex plans; and more")
+
+
+[This week in Auto: Hyundai#39;s silver jubilee in India; Renault Kiger launch; Hero MotoCorp capex plans; and more](https://www.moneycontrol.com/news/technology/auto/this-week-in-auto-hyundais-silver-jubilee-in-india-renault-kiger-launch-hero-motocorp-capex-plans-and-more-6546961.html)
+
+
+> Apart from a couple of new model launches, the week also saw a thriving automotive company completing 25 years in India. Hyundai has managed to strengthen its foothold in the country at a time when many rivals struggled to make headway. But before delving deeper into the reasons for Hyundai's success here, let's take a quick look at what else made headlines this past week in the automotive space.Maruti to shift to rupee-based royalty in 2023The shift to a rupee-denominated royalty payment system by 2022 envisaged by Maruti Suzuki to its parent Suzuki Motor Corporation will be  delayed by nearly two years.
+
+
+***
+![Bandu's Blockbusters](https://www.thehindubusinessline.com/portfolio/technical-analysis/hidwsg/article33886078.ece/ALTERNATES/LANDSCAPE_615/BLTemplateLibraryPFchart17blART8IMG "Bandu's Blockbusters")
+
+
+[Bandu's Blockbusters](https://www.thehindubusinessline.com/portfolio/technical-analysis/bandus-blockbusters/article33886079.ece)
+
+
+> BL Research BureauNifty 50 February Futures (15,065)Taking bearish cues ... The stock of ABB India, which underwent price correction during the first ... The price of zinc futures on Multi Commodity Exchange (MCX) displayed signs ... BL Research BureauNifty 50 February Futures (15,110)The Indian benchmark ... BL Research BureauThe rupee (INR), after opening with a considerable ... Despite hitting a fresh lifetime high of ₹1,231.9, the stock of Havells ... The futures price of chana on the National Commodity and Derivatives .
+
+
+***
+![Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021](https://cdn.mos.cms.futurecdn.net/n54cYymNCykaFLUMcFCNEc-1200-80.png "Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021")
+
+
+[Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021](https://www.techradar.com/news/diablo-immortal-will-be-a-mobile-mmo-developers-reveal-at-blizzcon-2021)
+
+
+> At BlizzCon 2021, we've learned more about Diablo Immortal, Blizzard's mobile entry in the iconic action RPG franchise. After a technical alpha that ended in January, we've got a clearer view of how the game's shaping up – and by the developers' own accounts, Diablo Immortal is a mobile MMO with tone and gameplay in line with the franchise but could have a few tricks all its own.Important things out of the way first: there's no release date yet, and it looks like the next phase will be another alpha, according to a Q&A with press held during BlizzConline 2021.
+
+
