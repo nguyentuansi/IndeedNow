@@ -30314,3 +30314,43 @@
 > The firing comes a month after Mitchell also vented on Twitter about the handling of her former colleague, Timnit Gebru, who parted ways with Google late last year. Gebru, a Black woman, said she was fired in a dispute over a research paper, while Google said it had accepted her resignation.
 
 
+***
+![Chatty robot Franzi cheers up German patients](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-02/franzi_robot_200221-seo.jpg "Chatty robot Franzi cheers up German patients")
+
+
+[Chatty robot Franzi cheers up German patients](https://www.malaymail.com/news/tech-gadgets/2021/02/20/chatty-robot-franzi-cheers-up-german-patients/1951306)
+
+
+> Cleaning robot 'Franzi' cleans in the entrance area of a hospital in Munich Neuperlach, southern Germany. ― AFP pic via ETX Studio Subscribe to our Telegram channel for the latest updates on news you need to know. MUNICH, Feb 20 ― Cleaning robot Franzi makes sure floors are spotless at the Munich hospital where she works, and has taken on a new role during the pandemic: cheering up patients and staff. 'Can you move out the way, please? I need to clean,' trills the robot in German when people block her pre-programmed cleaning route.
+
+
+***
+![Margaret Mitchell: Google fires AI ethics founder](https://ichef.bbci.co.uk/news/1024/branded_news/6823/production/_117095662_7c1e1076-acc3-49f2-b2a5-900bb9a9f42b.jpg "Margaret Mitchell: Google fires AI ethics founder")
+
+
+[Margaret Mitchell: Google fires AI ethics founder](https://www.bbc.com/news/technology-56135817)
+
+
+> image caption Google said Margaret Mitchell had moved files outside the company Google has fired the founder and co-head of its artificial intelligence ethics unit, claiming she violated the company's code of conduct. In a statement, Google said an investigation found Margaret Mitchell had moved files outside the company. The ethics unit has been under scrutiny since December, following the departure of another senior figure, Timnit Gebru. Both women had campaigned for more diversity at Google and raised concerns about censorship within the company.
+
+
+***
+![Australia says Facebook in talks with government after news ban](https://thehill.com/sites/default/files/morrisonscott_092019as3_lead.jpg "Australia says Facebook in talks with government after news ban")
+
+
+[Australia says Facebook in talks with government after news ban](https://thehill.com/policy/technology/539698-australia-says-facebook-in-talks-with-government-after-news-ban)
+
+
+> Australian Prime Minister Scott Morrison said Facebook is back in negotiations with the government after the tech platform decided to restrict users in Australia from sharing news content. 'What I'm pleased about is that Facebook's back at the table. And that's what we want to see,' Morrison said at a press conference Saturday morning local time. 'We want to work through this issue. So I welcome the fact that they're back engaging with the government, as they should.' The company has 'tentatively friended us again,' he quipped.
+
+
+***
+![New to python, any advice is welcome.](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "New to python, any advice is welcome.")
+
+
+[New to python, any advice is welcome.](https://www.reddit.com/r/Python/comments/lnycrk/new_to_python_any_advice_is_welcome/)
+
+
+> Hi, new here, ive recently bought an online course on udemy to learn how to code and its teaching me to code on python. Is this a good way to start? Will courses like this and certificates like this help me land a job in the future or is there something i need to do to actually help land me a job in coding once i know enough. any thoughts or advice are welcome.
+
+
