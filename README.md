@@ -30220,3 +30220,53 @@
 > Stocks that traded heavily or made big moves Friday: Deere, Applied Materials rise; Rackspace, Facebook fall
 
 
+***
+![Weather experts: Lack of planning caused cold catastrophe](https://s.abcnews.com/images/Technology/WireAP_cc09d245e0b1461b92eff662551758dc_16x9_992.jpg "Weather experts: Lack of planning caused cold catastrophe")
+
+
+[Weather experts: Lack of planning caused cold catastrophe](https://abcnews.go.com/Technology/wireStory/weather-experts-lack-planning-caused-cold-catastrophe-76006389)
+
+
+> This week's killer freeze in the U.S. was no surprise. Government and private meteorologists saw it coming, some nearly three weeks in advance. They started sounding warnings two weeks ahead of time. They talked to officials. They issued blunt warnings through social media. And yet catastrophe happened. At least 20 people have died and 4 million homes at some point lost power, heat or water. Experts said meteorologists had both types of sciences down right: the math-oriented atmospheric physics for the forecast and the squishy social sciences on how to get their message across.
+
+
+***
+![Blizzard leans into Diablo, Warcraft at BlizzCon for 30th anniversary](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OX5EUJQZ6VHSVFGTIKOMJTYTNQ.jpg&w=1440 "Blizzard leans into Diablo, Warcraft at BlizzCon for 30th anniversary")
+
+
+[Blizzard leans into Diablo, Warcraft at BlizzCon for 30th anniversary](https://www.washingtonpost.com/video-games/2021/02/19/blizzcon-diablo-warcraft/)
+
+
+> When J. Allen Brack first arrived at Activision-Blizzard in 2006, it was housed in a dour office park that belied the transformative changes happening within. Fresh off releasing 'World of Warcraft,' the seminal massively multiplayer online RPG now celebrating its 17th year, Blizzard was in the process of becoming a cultural powerhouse. But looking at its nondescript collection of buildings in Southern California 'you would never have known that it was a video game campus,' Brack remembered. Support our journalism.
+
+
+***
+!['Awestruck': NASA releases incredible images from Mars rover landing](https://media.khou.com/assets/CCT/images/e425e513-82d8-4ac7-bda9-abc2b3ad43db/e425e513-82d8-4ac7-bda9-abc2b3ad43db_1140x641.jpg "'Awestruck': NASA releases incredible images from Mars rover landing")
+
+
+['Awestruck': NASA releases incredible images from Mars rover landing](https://www.khou.com/article/tech/mars-landing-team-awestruck-by-photo-of-descending-rover/507-30270cdb-0267-44b9-89e3-5a963e1a3b51)
+
+
+> The world got its first close-up look at a Mars landing on Friday, as NASA released a stunning picture of its newest rover being lowered onto the dusty red surface. The photo was released less than 24 hours after  the Perseverance rover successfully touched down near an ancient river delta, where it will search for signs of ancient life and set aside the most promising rock samples for return to Earth in a decade. NASA equipped the spacecraft with a record 25 cameras and two microphones, many of which were turned on during Thursday's descent.
+
+
+***
+![Small businesses are luring away Amazon's customers from under its nose with a Chrome extension](https://external-preview.redd.it/DYNOs5Qvzhm5fkCy9aVCkR1NshO_bDjMSiqB0g4jnsk.jpg?auto=webp&s=c0abd1acd85c6266d334740fcb0fa1f54b0d8757 "Small businesses are luring away Amazon's customers from under its nose with a Chrome extension")
+
+
+[Small businesses are luring away Amazon's customers from under its nose with a Chrome extension](https://www.reddit.com/r/technology/comments/lnue3v/small_businesses_are_luring_away_amazons/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![What's coming to Hearthstone's new expansion, event: new cards, Classic Format, mercenaries](https://assets2.rappler.com/2021/02/hearthstone-1-1613741034891.jpg "What's coming to Hearthstone's new expansion, event: new cards, Classic Format, mercenaries")
+
+
+[What's coming to Hearthstone's new expansion, event: new cards, Classic Format, mercenaries](https://www.rappler.com/technology/gaming/hearthstone-new-expansion-event-forged-in-the-barrens)
+
+
+> Blizzard Entertainment at its online-only fan event, BlizzConline, unveiled the latest expansion and year-long event to its digital collectible card game, Hearthstone . The expansion, titled Forged in the Barrens , kicks off the new Year of The Gryphon event and returns the game to its World of Warcraft roots, taking players to the sun-baked savanna of central Kalimdor, where they can recruit legendary mercenaries, collect new cards, and use a new keyword.  Here's a preview of all the announcements: What would a Hearthstone expansion be without new cards to collect.
+
+
