@@ -30754,3 +30754,53 @@
 > Nick Jonas is returning to Saturday Night Live on Feb. 27, this time without his older brothers tagging along. The youngest Jonas will not only host the upcoming SNL, he's also be the evening's musical guest. All three Jonas brothers previously graced the SNL stage in February 2009 as that evening's musical guest, and Nick got the chance to do the same as a solo artist in 2016. But this is the first time any of the brothers will get to host. Nick notably did appear in a couple of sketches alongside the night's host Julia Louis-Dreyfus during his 2016 appearance.
 
 
+***
+![The best dramas on Hulu right now](https://icdn4.digitaltrends.com/image/digitaltrends/dead-poets-society-2-1200x630-c-ar1.91.jpg "The best dramas on Hulu right now")
+
+
+[The best dramas on Hulu right now](https://www.digitaltrends.com/home-theater/best-dramas-on-hulu/)
+
+
+> From old '80s classics to modern-day tales, Hulu is home to tons of fantastic dramas. Some have comedic twists while others are mind-bending thrillers. Many of them are Academy Award winners and nominees as well, representing some of the best of the best in cinema. Looking for a good drama to watch on a Friday night while enjoying a cozy evening at home on your own or with a romantic partner? Here are some of the absolute best dramas you can watch on Hulu right now. Browse other genres Dead Poets Society (1989) When it comes to unconventional teachers, the gold standard is John Keating (Robin Williams), Dead Poet Society‘s rebellious English teacher who had his class stand on their desks to discuss life, rip pages from their poetry books, and walk around in unique ways to express their individuality.
+
+
+***
+![Jim Henson's Hilariously Dark Commercials Showing A Muppet Getting Murdered For Not Drinking Wilkins Coffee Resurface](https://cdn.digg.com/wp-content/uploads/2021/02/20213959/Screen-Shot-2021-02-20-at-4.39.45-PM.jpg "Jim Henson's Hilariously Dark Commercials Showing A Muppet Getting Murdered For Not Drinking Wilkins Coffee Resurface")
+
+
+[Jim Henson's Hilariously Dark Commercials Showing A Muppet Getting Murdered For Not Drinking Wilkins Coffee Resurface](https://digg.com/video/jim-hensons-wilkins-coffee-ads)
+
+
+> J. Kenji López-Alt wants perfect weekday eggs without the fuss. For that, he employs this brilliant technique. Spanning from 1957 to 1961, Jim Henson made 179 commercials for the defunct brand Wilkins Coffee and they're surprisingly violent. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. A contestant trashed the set of Gettu Betur after losing in a spectacularly awkward TV moment. Fast food chain and Jon Stewart foil Arby's publicly acknowledged the existence of their $10 secret menu sandwich called the Meat Mountain on Twitter late Friday.
+
+
+***
+![Is raid 0 reliable?](https://images.macrumors.com/social/?t=2285558&v=6 "Is raid 0 reliable?")
+
+
+[Is raid 0 reliable?](https://forums.macrumors.com/threads/is-raid-0-reliable.2285558/)
+
+
+> Hi all, How do you use raid0 disks? Is there reliability issues to use raid0 for main storage (everything will be synced to Dropbox)? I recently acquired highpoint 7101a-01 and 4x 970 Evo Plus; was wondering whether to migrate all of my working files to the raid0 drive. Everything is backed up on Dropbox, though I am afraid of corrupted drives overwriting Dropbox copies of the files as well. How do you guys use raid0?
+
+
+***
+![Google fires another lead AI ethics researcher](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/a0/aa/3f765bd40be6da51bdc9b44d51b91951b535/a0aa3f765bd40be6da51bdc9b44d51b91951b535_1.jpg "Google fires another lead AI ethics researcher")
+
+
+[Google fires another lead AI ethics researcher](https://japantoday.com/category/tech/google-fires-another-lead-ai-ethics-researcher)
+
+
+> Google has fired a lead artificial intelligence ethics researcher, following controversy last year over the tech giant's dismissal of a Black colleague who was an outspoken diversity advocate. "I'm fired," Margaret Mitchell announced on Twitter. Google told AFP that after reviewing "this manager's conduct, we confirmed that there were multiple violations of our code of conduct, as well as of our security policies, which included the exfiltration of confidential business-sensitive documents and private data of other employees.
+
+
+***
+![We need a social media early warning center](https://thehill.com/sites/default/files/capitol.riot_.010621.4.jpg "We need a social media early warning center")
+
+
+[We need a social media early warning center](https://thehill.com/opinion/technology/539728-we-need-a-social-media-early-warning-center)
+
+
+> 'One if by land, two if by sea' — Paul Revere's early warning that the British were coming was heeded by the colonists, but the early warnings of social media watchdog groups of pending violence in Washington on Jan. 6 fell largely on deaf ears. Why?The Capitol insurrection came as no surprise to social media watchdog groups — the extremists had been plotting in plain sight online. Both U.S. and international web watchdogs that monitor Big Tech and their extremist fringe inhabitants began dispatching red flags before the insurrection.
+
+
