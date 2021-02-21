@@ -30804,3 +30804,53 @@
 > 'One if by land, two if by sea' — Paul Revere's early warning that the British were coming was heeded by the colonists, but the early warnings of social media watchdog groups of pending violence in Washington on Jan. 6 fell largely on deaf ears. Why?The Capitol insurrection came as no surprise to social media watchdog groups — the extremists had been plotting in plain sight online. Both U.S. and international web watchdogs that monitor Big Tech and their extremist fringe inhabitants began dispatching red flags before the insurrection.
 
 
+***
+![Best Gaming PCs 2021: Prebuilt Desktop PCs Made to Game](https://assets1.ignimgs.com/2018/07/06/bestbuiltpcs-1280-1530908206303.jpg?width=1280 "Best Gaming PCs 2021: Prebuilt Desktop PCs Made to Game")
+
+
+[Best Gaming PCs 2021: Prebuilt Desktop PCs Made to Game](https://www.ign.com/articles/the-best-prebuilt-gaming-pcs)
+
+
+> The Xbox Series X is shaping up to be the 4K gaming machine it promises to be and presumably the PS5 will follow suit. But if you're looking for the best possible looking games there's still several reasons to buy a gaming PC instead. Firstly, you can just get more raw graphical power packed into a gaming desktop especially if you opt for machine with one of Nvidia's Ampere graphics cards like the RTX 3080 or RTX 3090 .While gaming desktops might much more complicated, buying a desktop computer isn't too different buying a new Xbox or PlayStation especially with us to help guide you.
+
+
+***
+![Kroger is latest victim of third-party software data breach](https://s.abcnews.com/images/Technology/WireAP_2a0441752187413280bc6ae6d270f996_16x9_992.jpg "Kroger is latest victim of third-party software data breach")
+
+
+[Kroger is latest victim of third-party software data breach](https://abcnews.go.com/Technology/wireStory/kroger-latest-victim-party-software-data-breach-76021184)
+
+
+> Kroger Co. says it was among the multiple victims of a data breach involving a third-party vendor's file-transfer service BOSTON -- Kroger Co. says it was among the multiple victims of a data breach involving a third-party vendor's file-transfer service and is notifying potentially impacted customers, offering them free credit monitoring. The Cincinnati-based grocery and pharmacy chain said in a statement Friday that it believes less than 1% of its customers were affected — specifically some using its Health and Money Services — as well as some current and former employees because a number of personnel records were apparently viewed.
+
+
+***
+![Harry told ‘don't disrespect your gran' amid 'Megxit clashes with William'](https://www.thesun.co.uk/wp-content/uploads/2021/02/KY-COMP-HARRY-MEG-QUEEN-2002-02.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Harry told ‘don't disrespect your gran' amid 'Megxit clashes with William'")
+
+
+[Harry told ‘don't disrespect your gran' amid 'Megxit clashes with William'](https://www.thesun.co.uk/news/14112604/prince-harry-dont-disrespect-gran-clashes-william-megxit/)
+
+
+> PRINCE Harry has been told not to "disrespect your gran" after he had a dig at the Queen yesterday as he was stripped of his royal roles following Megxit. It comes as Prince William was said to be "really sad and genuinely shocked" by his brother's behavior towards their grandmother.  👑 Read our Meghan and Harry live blog for the very latest news.. . A source told the Sunday Times that the response by the Sussexes to Buckingham Palace's announcement that the couple must give up their royal duties as ‘petulant and insulting to the Queen' Credit: Getty - Contributor Sources said there was deep unhappiness at Harry and Meghan's 'hurtful jibe' especially as 99-year-old Prince Philip lay sick in his hospital bed Credit: AFP or licensors William is believed to be furious at his brother over his decision to abandon his royal duties Credit: Getty Images - Getty It is feared the siblings' row is the worst since George VI was thrust onto the throne in 1936 after older brother, Edward VIII, abdicated from the throne.
+
+
+***
+![NASA Has Decided to Start Building the Lunar Gateway Using the Falcon Heavy](https://www.universetoday.com/wp-content/uploads/2021/02/iac5_gateway_ppehalo_001.jpg "NASA Has Decided to Start Building the Lunar Gateway Using the Falcon Heavy")
+
+
+[NASA Has Decided to Start Building the Lunar Gateway Using the Falcon Heavy](https://www.universetoday.com/150124/nasa-has-decided-to-start-building-the-lunar-gateway-using-the-falcon-heavy/)
+
+
+> In October of 2024, NASA will send 'the first woman and the next man' to the Moon as part of the Artemis Program. This will be the first crewed mission to the lunar surface, and the first mission beyond Low Earth Orbit (LEO), since the closing of the Apollo Era in 1972. Beyond that, NASA plans to establish infrastructure on and around the Moon that will allow for 'sustained lunar exploration and development.' A key aspect of this is the Lunar Gateway, an orbiting habitat that will allow astronauts to make regular trips to and from the lunar surface.
+
+
+***
+![One more test, before returning the MM](https://images.macrumors.com/social/?t=2285562&v=6 "One more test, before returning the MM")
+
+
+[One more test, before returning the MM](https://forums.macrumors.com/threads/one-more-test-before-returning-the-mm.2285562/)
+
+
+> Since Tuesday I've owned my Mac Mini. During that time I've dealt with a few issues: Bluetooth mouse issues (even with the OS update). A few HDMI issues, now resolved. With the mouse issue, apparently some are experiencing this issue even with a dongle, versus Bluetooth. I will perform a few tests. But, if it persists, it might be time to return the MM... The idea behind the purchase was to merely learn Mac OS, and possibly learn iMovie. Here we are 4 days later and I feel I just exhausted with the unit.
+
+
