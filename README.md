@@ -31195,3 +31195,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Mark Carney jumps aboard payments processor Stripe](https://www.telegraph.co.uk/content/dam/business/2020/03/11/TELEMMGLPICT000227558415_trans_NvBQzQNjv4BqcfkQk4cqx4Va3DoXcACS6DeA1dawhw288hJVuGVccAY.jpeg?impolicy=logo-overlay "Mark Carney jumps aboard payments processor Stripe")
+
+
+[Mark Carney jumps aboard payments processor Stripe](https://www.telegraph.co.uk/technology/2021/02/21/mark-carney-jumps-aboard-payments-processor-stripe/)
+
+
+> Mark Carney, the former Governor of the Bank of England , has joined the board of US financial technology business Stripe as the company prepares to raise new funding at a $115bn (£82bn) valuation. The payments processing business, founded in 2010 by two Irish brothers, has expanded to operate in 42 countries and has benefitted from a boom in e-commerce during the pandemic. Mr Carney, a former Goldman Sachs executive who also served as the Governor of the Bank of Canada, will provide Stripe with his experience of financial systems and governance, the company said.
+
+
+***
+![The UAE's Hope, China's Tainwen-1 and NASA's Perseverance arrives at Mars](https://thehill.com/sites/default/files/ca_mars_istock.jpg "The UAE's Hope, China's Tainwen-1 and NASA's Perseverance arrives at Mars")
+
+
+[The UAE's Hope, China's Tainwen-1 and NASA's Perseverance arrives at Mars](https://thehill.com/opinion/technology/539704-the-uaes-hope-chinas-tainwen-1-and-nasas-perseverance-arrives-at-mars)
+
+
+> Mars has always been a source of wonder for many space enthusiasts. While practical entrepreneurs plan to mine the Moon and the asteroids, others dream of exploring the Red Planet and, eventually, making it a second home.  Robert Zubrin envisions Mars as the next frontier , serving the Earth as a place to go and make a new start much as the Americas did 200 or so years ago. SpaceX's Elon Musk Elon Reeve Musk SpaceX built a true commercial space line for fun, profit and a good cause Oldest US bank BNY Mellon to hold Bitcoin for clients Mastercard to support cryptocurrencies MORE is even now building the rocket ships that he hopes will take pioneers to populate the first city on the Red Planet.
+
+
+***
+![Petrol 100 Not Out: Netizens share memes on skyrocketing fuel prices](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/diesel_petrol_505_210221072359.jpg "Petrol 100 Not Out: Netizens share memes on skyrocketing fuel prices")
+
+
+[Petrol 100 Not Out: Netizens share memes on skyrocketing fuel prices](https://www.businesstoday.in/latest/trends/petrol-100-not-out-netizens-share-memes-on-skyrocketing-fuel-prices/story/431899.html)
+
+
+> Story Fuel rates have increased for 12 consecutive days in the country, with petrol crossing Rs 100 mark in Rajasthan and Madhya Pradesh. In Mumbai, it has inched close to Rs 100 as of Saturday, February 20 BusinessToday.In | February 21, 2021 | Updated 19:25 IST Several netizens have started a #Petrol100NotOut trend on Twitter to take a subtle jibe at the Centre for ignoring the common men's ordeal.
+
+
+***
+![Pixel 5 users can hide punch hole camera with Android 12 update](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/webp_1200_210221190513.net-resizeimage-2-483x271.png "Pixel 5 users can hide punch hole camera with Android 12 update")
+
+
+[Pixel 5 users can hide punch hole camera with Android 12 update](https://www.indiatoday.in/technology/news/story/pixel-5-users-can-hide-punch-hole-camera-with-android-12-update-1771570-2021-02-21)
+
+
+> The latest iteration of Android brings with it a whole array of new facets and features. Google Pixel 5 running on Android 12 will have the option to hide the front punch hole camera. Akarsh Verma | February 21, 2021 | Updated 18:38 IST
+
+
+***
+[Apple's new Platform Security user guide follows the industry trend of growing vertical hardware, software, and cloud integration to improve ecosystem security (Rich Mogull/TidBITS)](http://www.techmeme.com/210221/p8#a210221p8)
+
+
+> Rich Mogull / TidBITS: Apple's new Platform Security user guide follows the industry trend of growing vertical hardware, software, and cloud integration to improve ecosystem security — Even as a security professional, it's easy to get lost within the digital covers of Apple's latest Platform Security user guide.
+
+
