@@ -31048,3 +31048,50 @@
 > Subscribe Now! Facebook twitter google +
 
 
+***
+[Gamingrum 3.0](https://www.sweclockers.com/forum/trad/1627150-gamingrum-3-0)
+
+
+> Dator specs: Fractal Design Define R6 Blackout Tempered Glass Gigabyte Z390 GAMING X Intel Core i5 9600K 3.7 GHz 9MB ASUS GeForce RTX 2070 8GB ROG STRIX GAMING OC Corsair 32GB (4x8GB) DDR4 2400MHz CL16 Vengeance 2 x Samsung 970 EVO 500GB NVMe M.2 Corsair Hydro H80i v2 Fractal Design Edison M 750W Monitor: ASUS 25" VG258QR 165 Hz Besök galleriet här
+
+
+***
+![‘THREAT TO FREEDOM': Pressure grows to take serious action on China](https://cdn.newsapi.com.au/image/v1/21635057a91ee82cc5207ac5ad6493b5?width=1280 "‘THREAT TO FREEDOM': Pressure grows to take serious action on China")
+
+
+[‘THREAT TO FREEDOM': Pressure grows to take serious action on China](https://www.news.com.au/technology/innovation/military/joe-biden-says-xi-jinping-most-serious-competitor-to-us-as-south-china-sea-freedom-under-threat/news-story/7a69476906ffba44f80b9723eb9683d9)
+
+
+> A warship sailed among islands claimed by Beijing this week as the US steps up its military presence in response to China's 'open fire' laws. But an Australian strategist warns Beijing may have already its next escalation plan ready: wolf-warriors of the sea.US President Joe Biden has called Xi Jinping's regime America's 'most serious competitor' because of its attacks on 'global governance'. His statement – and the warship's movements – came after Beijing passed a provocative law enabling its Coast Guard to shoot at 'intruders'.
+
+
+***
+![‘SERIOUS COMPETITOR': Tension mounts as US steps up China pressure](https://cdn.newsapi.com.au/image/v1/21635057a91ee82cc5207ac5ad6493b5?width=1280 "‘SERIOUS COMPETITOR': Tension mounts as US steps up China pressure")
+
+
+[‘SERIOUS COMPETITOR': Tension mounts as US steps up China pressure](https://www.news.com.au/technology/innovation/military/joe-biden-says-xi-jinping-most-serious-competitor-to-us-as-south-china-sea-freedom-under-threat/news-story/7a69476906ffba44f80b9723eb9683d9)
+
+
+> A warship sailed among islands claimed by Beijing this week as the US steps up its military presence in response to China's 'open fire' laws. But an Australian strategist warns Beijing may have already its next escalation plan ready: wolf-warriors of the sea.US President Joe Biden has called Xi Jinping's regime America's 'most serious competitor' because of its attacks on 'global governance'. His statement – and the warship's movements – came after Beijing passed a provocative law enabling its Coast Guard to shoot at 'intruders'.
+
+
+***
+![WhatsApp Reveals What Happens to Users Who Don't Agree to Upcoming Privacy Policy Changes](https://images.macrumors.com/t/qsJgKOnEaM-DGU6_fPbAMq5BfP0=/1600x/https://images.macrumors.com/article-new/2020/05/whatsappiconcleaned.png "WhatsApp Reveals What Happens to Users Who Don't Agree to Upcoming Privacy Policy Changes")
+
+
+[WhatsApp Reveals What Happens to Users Who Don't Agree to Upcoming Privacy Policy Changes](https://www.macrumors.com/2021/02/21/whatsapp-fate-of-accounts-privacy-policy/)
+
+
+> WhatsApp has revealed how it will gradually cripple the accounts of its users who do not accept the platform's impending privacy policy changes, due to come into effect on May 15. WhatsApp's new banner explaining the privacy policy changesAccording to an email seen by TechCrunch to one of its merchant partners, WhatsApp said it will "slowly ask" users who have not yet accepted the policy changes to comply with the new terms over the coming weeks, "in order to have full functionality of WhatsApp" starting May 15.
+
+
+***
+![Razer Hammerhead True Wireless Pro review](https://cdn.mos.cms.futurecdn.net/hewxBcyoMVWDFP79jJWqCE-1200-80.jpg "Razer Hammerhead True Wireless Pro review")
+
+
+[Razer Hammerhead True Wireless Pro review](https://www.laptopmag.com/reviews/razer-hammerhead-true-wireless-pro)
+
+
+> A year after launching its first-ever true wireless earbuds, the Hammerhead True Wireless, Razer went back to work developing its more powerful successor: the Hammerhead True Wireless Pro.These new buds pack stronger specs, more features, and complementary audio across all media formats (not just gaming) into a moderately updated design that resembles the brand's gorgeously constructed gaming laptops. Add noise cancellation and some cool features into the mix, and they have the makings to compete against category leaders like the AirPods Pro and Samsung Galaxy Buds Pro.
+
+
