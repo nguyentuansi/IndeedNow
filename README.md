@@ -31339,3 +31339,53 @@
 > The caveat comes at the end of the article: these are only $5k in China because they don't include total cost as cars sold in the rest of the world are required to.Once you add in the features required to meet European regulations and the penalty payments for not meeting environmental standards in the construction phase, the price is just over $10k — still cheap, but not AS cheap.
 
 
+***
+![Custom Github contribution graph generator](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Custom Github contribution graph generator")
+
+
+[Custom Github contribution graph generator](https://www.reddit.com/r/Python/comments/lp7rng/custom_github_contribution_graph_generator/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Canada to follow Australia and take on Facebook, seeking payment for content](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/facebook.jpg?ve=1&tl=1 "Canada to follow Australia and take on Facebook, seeking payment for content")
+
+
+[Canada to follow Australia and take on Facebook, seeking payment for content](https://www.foxbusiness.com/technology/canada-to-follow-australia-and-take-on-facebook-seeking-payment-for-content)
+
+
+> Canada is poised to take on Facebook , following the example set by Australia , which began a war with the tech giant when the country's publishers backed proposed legislation demanding payment for their content. Canadian Heritage Minister Steven Guilbeault condemned Facebook's actions as 'highly irresponsible' last week when the social media giant removed all Australian news content from its sites in retaliation. GOOGLE TO EVALUATE EXECUTIVES ON DIVERSITY AND INCLUSION Guilbeault warned that Canada would be next in making sure Facebook paid for news content from Canadian publishers.
+
+
+***
+![21 best movies to see on Amazon Prime Video](https://cnet1.cbsistatic.com/img/jcxGNYAxL09WY_YXBzv5rX0aYNY=/0x238:2048x1389/1200x630/2021/02/10/865d05b4-c342-4a27-bd9b-ab55dd6ba161/21150331-high-res-small-axe.jpg "21 best movies to see on Amazon Prime Video")
+
+
+[21 best movies to see on Amazon Prime Video](https://www.cnet.com/news/21-best-movies-to-see-on-amazon-prime-video/)
+
+
+> Slyvie's Love, starring Tessa Thompson and Nnamdi Asomugha. Amazon Studios While clicking through Amazon Prime Video, you've probably come across a handful of Amazon original movies. They can be hit and miss, but some of them are surprising gems. Amazon snaps up movies like Manchester by the Sea to show in the US, but it also nabs worldwide rights to originals perfect for a night in with a smaller screen. Hopefully you'll find something to your taste (and available in your country) below.Read more: The 19 best TV shows to watch on Amazon Prime Video Amazon A sublime anthology that doesn't drop the ball across its five films.
+
+
+***
+![The Apparent Kia Ransomware Hackers Are Demanding Millions in Bitcoin](https://api.thedrive.com/wp-content/uploads/2021/02/Kia-Topshot.jpg?quality=85 "The Apparent Kia Ransomware Hackers Are Demanding Millions in Bitcoin")
+
+
+[The Apparent Kia Ransomware Hackers Are Demanding Millions in Bitcoin](https://www.thedrive.com/tech/39309/the-apparent-hackers-behind-kias-ransomware-attack-are-demanding-millions-in-bitcoin)
+
+
+> Kia seems to be in quite a predicament. As we reported earlier today, the automaker's online services appear to have been severed from the outside world, with customers unable to start their cars remotely via Kia's apps or even log into the company's financing website to pay their bills. All signs pointed to a potential cyberattack against Kia—ransomware most likely—and that's exactly what a new report is claiming it is.A report by information security news site Bleeping Computer seems to solidify that theory, as the publication shared a screenshot of an alleged ransom note asking Kia for the hefty sum of $20,000,000 to decrypt its files.
+
+
+***
+![Taisei develops method to make concrete using carbon dioxide](https://japantoday.com/images/japan-today-social.jpg "Taisei develops method to make concrete using carbon dioxide")
+
+
+[Taisei develops method to make concrete using carbon dioxide](https://japantoday.com/category/tech/taisei-develops-method-to-make-concrete-using-carbon-dioxide)
+
+
+> Japanese contractor Taisei Corp has developed a technology to convert carbon dioxide, a common greenhouse gas, emitted at manufacturing plants into a building material. The company aims to commercialize concrete made with CO2-infused calcium and blast furnace slag, a byproduct from steel production, by around 2030. The process eliminates the use of cement, a key ingredient in concrete and a major source of CO2 emission. Taisei said its new method will be carbon negative. Concrete loses an ability to prevent corrosion of steel used for reinforcement if it directly absorbs CO2, according to Taisei.
+
+
