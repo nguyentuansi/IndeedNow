@@ -31289,3 +31289,53 @@
 > Actor Kevin Sorbo was banned from Facebook for posting content that the platform's 'fact checkers' have deemed to be 'debunked' information regarding coronavirus vaccines. Sorbo reacted to the ban by saying: 'All I can say is that I find it amazing that a place like Facebook has more power than our government, apparently. And the government allows them to do what they're doing right now, in terms of just canceling people that they don't agree with.' 'We removed Kevin Sorbo's Page for repeatedly sharing debunked claims about the coronavirus or vaccines,' a Facebook spokesperson told Breitbart News.
 
 
+***
+![Nokia 5.4: Shoot like a pro with this Nokia phone](https://images.financialexpress.com/2021/02/1-553.jpg "Nokia 5.4: Shoot like a pro with this Nokia phone")
+
+
+[Nokia 5.4: Shoot like a pro with this Nokia phone](https://www.financialexpress.com/industry/technology/nokia-5-4-shoot-like-a-pro-with-this-nokia-phone/2198444/)
+
+
+> The impressive combo of a 48MP quad camera and 16MP front camera allows you to take pretty good photos and videos.If you are looking for a good camera phone in the mid-range category, look no further. HMD Global, the makers of Nokia phones, has introduced its new offering—Nokia 5.4—that brings out the creator in you with its ability to take amazing photos and videos. At a time when screens are getting larger, camera photo sensors are becoming more advanced and chipsets are getting more powerful, this Nokia creation will certainly take your mobile photography to the next level.
+
+
+***
+![This Reddit Thread About A Woman Who Accidentally Created An Army Of Crows Is The Best Bird Story You'll Ever Read](https://cdn.digg.com/wp-content/uploads/2021/02/21192310/HT_bird4_floating_cf_160526_16x9_1600.jpg "This Reddit Thread About A Woman Who Accidentally Created An Army Of Crows Is The Best Bird Story You'll Ever Read")
+
+
+[This Reddit Thread About A Woman Who Accidentally Created An Army Of Crows Is The Best Bird Story You'll Ever Read](https://digg.com/2021/reddit-thread-about-a-woman-who-accidentally-created-an-army-of-crows)
+
+
+> A Redditor realized she inadvertently created an army of crows that loyally defended her from strangers. What happened next might surprise you. According to the FAA, the Boeing 777-200's right engine failed shortly after takeoff, and parts of it fell in areas outside Denver. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. For the first time in 45 years a Victorian home, that is over 140-years-old, in San Francisco is being moved. It's transported using a remote operated hydraulic dolly.
+
+
+***
+![Richer harvests: Advent of technology in agriculture sector has proven to be a game-changer](https://images.financialexpress.com/2021/02/1-552.jpg "Richer harvests: Advent of technology in agriculture sector has proven to be a game-changer")
+
+
+[Richer harvests: Advent of technology in agriculture sector has proven to be a game-changer](https://www.financialexpress.com/industry/technology/richer-harvests-technology-a-farmers-true-friend/2198440/)
+
+
+> Thirukumaran Nagarajan PortraitBy Thirukumaran NagarajanTechnological advancements have changed the face of every sector; agriculture is no stranger to such developments. Here are some ways in which technology can be a harbinger of hope for farmers across the Indian subcontinent:Smart farmingThis umbrella concept entails the integration of Information and Communication Technologies (ICT) into the spectrum of agriculture. It includes the joint application of Internet of Things (IoT), GPS, robotics, sensors and actuators amongst others.
+
+
+***
+![Impacts of TX snowstorm on electronics supply chain](http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/4/8/9/p-large/52c8686ccda391a2a30aff64fdef150ac047f245.jpg "Impacts of TX snowstorm on electronics supply chain")
+
+
+[Impacts of TX snowstorm on electronics supply chain](http://www.digitaljournal.com/tech-and-science/technology/impacts-of-tx-snowstorm-on-electronics-supply-chain/article/585854)
+
+
+> The unexepdcted storms impact on semiconductor fabrication plants in the lone star state have not received as much attention as the impact on people, yet going forwards the economic impact upon this sector will be considerable. The snowstorms in Texas have led to a 133-car pileup. This incident left six people dead. in addition, the strange weather left nearly a half-million without power. On this issue, to take one local example, the mayor of Mansfield, Texas, Michael Evans, described the crisis in the state as "life or death.
+
+
+***
+![New $5,000 Electric Car Is Already Outselling The Model 3](https://external-preview.redd.it/ZlolYxP1dOicV3PcRQ5ktuCxSWbeIg-l15Bub5yRtxI.jpg?auto=webp&s=8da13b8f29bf1f497a70d9a5ce47f6067158c5e5 "New $5,000 Electric Car Is Already Outselling The Model 3")
+
+
+[New $5,000 Electric Car Is Already Outselling The Model 3](https://www.reddit.com/r/technology/comments/lp4pym/new_5000_electric_car_is_already_outselling_the/)
+
+
+> The caveat comes at the end of the article: these are only $5k in China because they don't include total cost as cars sold in the rest of the world are required to.Once you add in the features required to meet European regulations and the penalty payments for not meeting environmental standards in the construction phase, the price is just over $10k — still cheap, but not AS cheap.
+
+
