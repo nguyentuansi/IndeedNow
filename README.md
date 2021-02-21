@@ -30901,3 +30901,53 @@
 > Tech promises to make your life better. Does it? Water Saver is a showerhead that promises to save 80% more water at salons by shrinking the droplets to be more efficient. L'Oreal Over a month after this year's virtual CES tech trade show, touting new and conceptual products of the future, I was left wondering whether these products actually worked.At this year's show, we saw splashy announcements like transparent TVs and rollable phones. I wanted to test some of the tech that promised to make life better, and give them enough time to see if they were worthwhile.
 
 
+***
+![AI and cybersecurity: Who will hold the strings?](https://imagevars.gulfnews.com/2021/02/21/SmartHomes-Offices-AICybersecurity-for-web_177c262724a_medium.jpg "AI and cybersecurity: Who will hold the strings?")
+
+
+[AI and cybersecurity: Who will hold the strings?](https://gulfnews.com/technology/ai-and-cybersecurity-who-will-hold-the-strings-1.1613874427243)
+
+
+> Image Credit: Shutterstock As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools. Cloud security firm Trend Micro in a new report said more than two-fifth (41 per cent) of IT leaders believe that AI would replace their role by 2030. Just 9 per cent of respondents said AI would not replace their job within the next decade. Nearly a third (32 per cent) said AI would eventually work to automate all cybersecurity.
+
+
+***
+![IoT front and centre for smart home and office solutions](https://imagevars.gulfnews.com/2021/02/21/SmartOffice-Home-IoT-Overview-LEAD-for-web_177c24eacc7_medium.jpg "IoT front and centre for smart home and office solutions")
+
+
+[IoT front and centre for smart home and office solutions](https://gulfnews.com/technology/iot-front-and-centre-for-smart-home-and-office-solutions-1.1613872718079)
+
+
+> Image Credit: Shutterstock When it started more than a decade ago, to be frank the Internet of Things (IoT) was never anything more than a conversation starter, inspiring living room chatter and boardroom discussions on the way of the future for homes and offices because the topic deflected towards tangibles. However, growing awareness about commercial and mass technology has led to a general increase in popularity for IoT-enabled gadgets, which is especially true here in the UAE, a regional benchmark for technological progress.
+
+
+***
+![How to generate Access code in ZOHO for WaysUp Connect](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "How to generate Access code in ZOHO for WaysUp Connect")
+
+
+[How to generate Access code in ZOHO for WaysUp Connect](https://www.reddit.com/r/programming/comments/loo674/how_to_generate_access_code_in_zoho_for_waysup/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Monkey Public Domain Verbal Creator](https://external-preview.redd.it/PyQ_Z2GmEuNK8AmLxW-zLAYjn4O1Pyqodm24BjpKb_8.jpg?auto=webp&s=2add168416ce6bf649dc439ed3079291b89b7b4c "Monkey Public Domain Verbal Creator")
+
+
+[Monkey Public Domain Verbal Creator](https://www.reddit.com/r/programming/comments/loo3c8/monkey_public_domain_verbal_creator/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Making an excellent shopping site p2](https://external-preview.redd.it/-McQb96CfqYqJ_fOfY0QNSKGddv0zf9SAe2QBnSIIEw.jpg?auto=webp&s=f26a818e173df214142a9b4880fc120cfb39647b "Making an excellent shopping site p2")
+
+
+[Making an excellent shopping site p2](https://www.reddit.com/r/programming/comments/loo2ad/making_an_excellent_shopping_site_p2_technical/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
