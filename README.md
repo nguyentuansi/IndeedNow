@@ -31001,3 +31001,50 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hi! I have a 2011 MBP 8,1 and I just ran the Apple Hardware Test and one error code was shown: 4SNS/1/40000001:VP0R-0.057 Does anyone know what that could mean? I think it may have something to do with my power source as I can only really use the computer while it's plugged in, when it is using only the battery for power everything lags BAD, like not usable. I even replaced the battery and the magsafe 'port' and I'm still having problems.
 
 
+***
+![Privacy faces risks in tech-infused post-Covid workplace](https://static.bangkokpost.com/media/content/20210221/c1_3900375_700.jpg "Privacy faces risks in tech-infused post-Covid workplace")
+
+
+[Privacy faces risks in tech-infused post-Covid workplace](https://www.bangkokpost.com/tech/2071975/privacy-faces-risks-in-tech-infused-post-covid-workplace)
+
+
+> A thermal imaging camera are displayed on a screen as a person waits at the reception desk at the St Giles Hotel near Heathrow Airport in west London, in an example of technology being used to screen for Covid-19 symptoms. WASHINGTON: People returning to work following the long pandemic will find an array of tech-infused gadgetry to improve workplace safety but which could pose risks for long-term personal and medical privacy. Temperature checks, distance monitors, digital "passports," wellness surveys and robotic cleaning and disinfection systems are being deployed in many workplaces seeking to reopen.
+
+
+***
+[The Night Comes for Us](https://www.tribunnews.com/tag/the-night-comes-for-us)
+
+
+> No body in the article.
+
+
+***
+![Redmi 9 Power 6GB RAM and 128GB storage model to go on sale on Monday in India](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/gwigwi_1200_210221113510.com-alasan-xiaomi-andal-483x271.jpeg "Redmi 9 Power 6GB RAM and 128GB storage model to go on sale on Monday in India")
+
+
+[Redmi 9 Power 6GB RAM and 128GB storage model to go on sale on Monday in India](https://www.indiatoday.in/technology/news/story/redmi-9-power-6gb-ram-and-128gb-storage-model-to-go-on-sale-on-monday-in-india-1771445-2021-02-21)
+
+
+> Redmi 9 Power's another 6GB RAM variant is going to launch soon in India and will carry a reasonable price tag as well. Akarsh Verma | February 21, 2021 | Updated 11:27 IST
+
+
+***
+![What happens if you do not accept new Privacy Policy by May 15, WhatsApp explains](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/18_whatsapp_hacks_0-483x271_1200_210221100730.jpeg "What happens if you do not accept new Privacy Policy by May 15, WhatsApp explains")
+
+
+[What happens if you do not accept new Privacy Policy by May 15, WhatsApp explains](https://www.indiatoday.in/technology/news/story/what-happens-if-you-do-not-accept-new-privacy-policy-by-may-15-whatsapp-explains-1771428-2021-02-21)
+
+
+> WhatsApp will not delete the accounts of users who do not accept the new privacy policy, but the functionality of the account will be limited until the changes are accepted. Akarsh Verma | February 21, 2021 | Updated 10:03 IST
+
+
+***
+![ਪੱਟੀ ਚ ਵਿਆਹ ਵਾਲੇ ਘਰ ਡੀ. ਜੀ. ਤੇ ਚੱਲੀਆਂ ਗੋਲ਼ੀਆਂ, 13 ਸਾਲਾ ਬੱਚੇ ਦੀ ਮੌਤ](https://static.jagbani.com/multimedia/2021_2image_17_07_294287960picmjrg-ll.jpg "ਪੱਟੀ ਚ ਵਿਆਹ ਵਾਲੇ ਘਰ ਡੀ. ਜੀ. ਤੇ ਚੱਲੀਆਂ ਗੋਲ਼ੀਆਂ, 13 ਸਾਲਾ ਬੱਚੇ ਦੀ ਮੌਤ")
+
+
+[ਪੱਟੀ ਚ ਵਿਆਹ ਵਾਲੇ ਘਰ ਡੀ. ਜੀ. ਤੇ ਚੱਲੀਆਂ ਗੋਲ਼ੀਆਂ, 13 ਸਾਲਾ ਬੱਚੇ ਦੀ ਮੌਤ](https://jagbani.punjabkesari.in/punjab/news/marriage--child--death-1269854)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
