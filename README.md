@@ -30854,3 +30854,50 @@
 > Since Tuesday I've owned my Mac Mini. During that time I've dealt with a few issues: Bluetooth mouse issues (even with the OS update). A few HDMI issues, now resolved. With the mouse issue, apparently some are experiencing this issue even with a dongle, versus Bluetooth. I will perform a few tests. But, if it persists, it might be time to return the MM... The idea behind the purchase was to merely learn Mac OS, and possibly learn iMovie. Here we are 4 days later and I feel I just exhausted with the unit.
 
 
+***
+![The 'Wingcopter' that offers vaccines by air](https://static.reuters.com/resources/r/?d=20210203&i=OVDY3IC87&r=OVDY3IC87&t=2 "The 'Wingcopter' that offers vaccines by air")
+
+
+[The 'Wingcopter' that offers vaccines by air](https://www.reuters.com/video/watch/idOVDY3IC87)
+
+
+> Posted German start-up Wingcopter has joined the race to offer vaccine distribution by air, pointing to its experience in remote areas like the South Pacific Ocean nation of Vanuatu.
+
+
+***
+![How do I run this script to auto eject a dead 2nd drive?](https://images.macrumors.com/social/?t=2285573&v=6 "How do I run this script to auto eject a dead 2nd drive?")
+
+
+[How do I run this script to auto eject a dead 2nd drive?](https://forums.macrumors.com/threads/how-do-i-run-this-script-to-auto-eject-a-dead-2nd-drive.2285573/)
+
+
+> I have a barely Kindergarten understanding of Terminal but I need to be able to disable the dead HDD of a Fusion Drive. I found this script that would accomplish this. 2ndrive​ The Bash script for auto/manual ejecting second drive on Mac OS' boot. If you have SSD and HDD and you do not want to use HDD constantly, it'll help you to decrease noise level of a computer and save battery power as well. Steps​ Open repository folder in Terminal, run sh 2nd.sh. From the shown list please select the disk's number you want to make disabled automatically.
+
+
+***
+[Facebook's Australia ban is acute for people in places like Fiji, who rely on phone plans with cheap Facebook access as going to news websites costs more data (Sheldon Chanel/The Guardian)](http://www.techmeme.com/210220/p14#a210220p14)
+
+
+> Sheldon Chanel / The Guardian: Facebook's Australia ban is acute for people in places like Fiji, who rely on phone plans with cheap Facebook access as going to news websites costs more data — Media experts fear that communities reliant on the site for information will suffer significant impact
+
+
+***
+![Broner vs Santiago live stream: how to watch the big comeback fight online anywhere](https://cdn.mos.cms.futurecdn.net/TLcrDd9CRN3UAJnuYF2R2Q-1200-80.jpg "Broner vs Santiago live stream: how to watch the big comeback fight online anywhere")
+
+
+[Broner vs Santiago live stream: how to watch the big comeback fight online anywhere](https://www.techradar.com/news/broner-vs-santiago-live-stream-how-to-watch-the-big-comeback-fight-online-anywhere)
+
+
+> More than two years on from his last fight, Adrien Broner steps into the ring for a comeback bout that few had seen coming. 'The Problem' has spent much of the past two years living up to his nickname, and needs to perform against the little-known Jovenie Santiago if he's to avoid going down in the history books as little more than a Floyd Mayweather tribute act. Read on as we explain how to watch a Broner vs Santiago live stream right now and catch all the boxing action online from anywhere in the world now.
+
+
+***
+![Tech promises to make your life better. Does it?](https://bloximages.newyork1.vip.townnews.com/newsadvance.com/content/tncms/assets/v3/editorial/6/4a/64a8bec2-758e-5b31-bbf0-9dd33f2f40d3/602fd6853da4b.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize "Tech promises to make your life better. Does it?")
+
+
+[Tech promises to make your life better. Does it?](https://news.lee.net/lifestyles/technology/tech-promises-to-make-your-life-better-does-it/article_03668494-b049-5790-8bbb-a4ed5f4acbd9.html)
+
+
+> Tech promises to make your life better. Does it? Water Saver is a showerhead that promises to save 80% more water at salons by shrinking the droplets to be more efficient. L'Oreal Over a month after this year's virtual CES tech trade show, touting new and conceptual products of the future, I was left wondering whether these products actually worked.At this year's show, we saw splashy announcements like transparent TVs and rollable phones. I wanted to test some of the tech that promised to make life better, and give them enough time to see if they were worthwhile.
+
+
