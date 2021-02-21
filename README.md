@@ -31145,3 +31145,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![An Interactive Python Cheat Sheet That Brings The Answer To You](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "An Interactive Python Cheat Sheet That Brings The Answer To You")
+
+
+[An Interactive Python Cheat Sheet That Brings The Answer To You](https://www.reddit.com/r/Python/comments/loxpv6/an_interactive_python_cheat_sheet_that_brings_the/)
+
+
+> After realizing that I spent far too much time looking things up while coding, I decided to solve the problem and created this... The Python SpeedSheet: https://speedsheet.io/s/python It is an interactive cheat sheet that brings the answer to you. It is a really simple idea but it worked so well that it has become an indispensable tool for me any time I'm coding. Type in what you are looking for in the search bar and the speed sheet will display the answer. It covers core Python only and I'm sure it is missing 'must have' items but I think it is still very useful.
+
+
+***
+![A Trippy Visualization Charts the Internet's Growth Since 1997](https://external-preview.redd.it/4pVYoIuoIPCF8_cr1_7ERbw3cdo5kmER3JL5UfqiVnc.jpg?auto=webp&s=9c26d555471234a4823b8c6ee8d02fbcc38a152b "A Trippy Visualization Charts the Internet's Growth Since 1997")
+
+
+[A Trippy Visualization Charts the Internet's Growth Since 1997](https://www.reddit.com/r/technology/comments/loxixb/a_trippy_visualization_charts_the_internets/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![This new Microsoft Word feature is bound to be a hit, especially with slow typists](https://cdn.mos.cms.futurecdn.net/TTzww9ePfnJq67Vt5cpbfH-1200-80.jpg "This new Microsoft Word feature is bound to be a hit, especially with slow typists")
+
+
+[This new Microsoft Word feature is bound to be a hit, especially with slow typists](https://www.techradar.com/news/this-new-microsoft-word-feature-is-bound-to-be-a-hit-especially-with-slow-typists)
+
+
+> (Image credit: Shutterstock) Microsoft is working on a new feature for Word that should help users compose documents more quickly and with greater ease.As per an entry in the company's product roadmap, Word will soon receive a text predictions feature, designed to anticipate what the user intends to write next and save them the effort of typing it out in full.Once the update has been deployed, Word will begin to generate text predictions in real-time as the user types. These predictions will be greyed out until either typed over, approved using the TAB key or rejected using ESC.
+
+
+***
+![Singapore vending machines now dispense salmon, crab and even cacti](https://external-preview.redd.it/nk1njblLSr_WeZKq0VNq-wA8wjehN2zYQuqrtrBPBNA.jpg?auto=webp&s=8ffecff1ca05af734185db42ae4e6c17d0712ae9 "Singapore vending machines now dispense salmon, crab and even cacti")
+
+
+[Singapore vending machines now dispense salmon, crab and even cacti](https://www.reddit.com/r/technology/comments/lox3az/singapore_vending_machines_now_dispense_salmon/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Tesla Billionaire Elon Musk Made A Stark Bitcoin And Ethereum Price Warning As Crypto Market Nears $2 Trillion](https://external-preview.redd.it/zp-bsoH8Yv0QoF1YjeL83KU_SUof8CQ5H8zCCT6WEoY.jpg?auto=webp&s=763a0bdc6dd5f49862e090e7463ad94c3eba9594 "Tesla Billionaire Elon Musk Made A Stark Bitcoin And Ethereum Price Warning As Crypto Market Nears $2 Trillion")
+
+
+[Tesla Billionaire Elon Musk Made A Stark Bitcoin And Ethereum Price Warning As Crypto Market Nears $2 Trillion](https://www.reddit.com/r/technology/comments/lox24u/tesla_billionaire_elon_musk_made_a_stark_bitcoin/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
