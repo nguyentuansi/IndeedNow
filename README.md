@@ -31242,3 +31242,50 @@
 > Rich Mogull / TidBITS: Apple's new Platform Security user guide follows the industry trend of growing vertical hardware, software, and cloud integration to improve ecosystem security — Even as a security professional, it's easy to get lost within the digital covers of Apple's latest Platform Security user guide.
 
 
+***
+![Should you get a prepaid plan with Verizon's Visible or Metro by T-Mobile?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/01/metro-by-t-mobile-website-hero.jpg "Should you get a prepaid plan with Verizon's Visible or Metro by T-Mobile?")
+
+
+[Should you get a prepaid plan with Verizon's Visible or Metro by T-Mobile?](https://www.androidcentral.com/visible-vs-metro-t-mobile)
+
+
+> Visible uses Verizon's 4G LTE and 5G network to give subscribers great coverage at only $40 per month, no strings attached. This one and only plan comes with unlimited data, unlimited hotspot data, and unlimited calling and texting. You can even save more by signing up multiple lines with Party pay, making Visible one of the best value prepaid carriers out there. From $40 at Visible Verizon 4G LTE and 5G network Unlimited data, calling, and texting Unlimited hotspot data Affordable Party pay savings Hotspot speed limit (5Mbps) 480p video streaming No add-ons Metro by T-Mobile offers four different plans, though those with unlimited data will tempt most.
+
+
+***
+[FAU-G a failure? Why India is yet to produce a world-class smartphone game](https://www.freepressjournal.in/technology/fau-g-a-failure-why-india-is-yet-to-produce-a-world-class-smartphone-game)
+
+
+> No body in the article.
+
+
+***
+![When Apple stops crippling their iPhone's.](https://images.macrumors.com/social/?t=2285648&v=6 "When Apple stops crippling their iPhone's.")
+
+
+[When Apple stops crippling their iPhone's.](https://forums.macrumors.com/threads/when-apple-stops-crippling-their-iphones.2285648/)
+
+
+> For laughs, I updated my super old iPhone 6S to the iOS 14.4 and it works amazingly well. Also tried a few games on it, it handles all the games thrown at it. And Touch ID works amazing, it is basically just as fast as Face ID, since with Face ID, you have to swipe up to unlock your phone. Honestly, this iPhone 6S Plus is good enough for everyday use in terms of performance. I remember the old days when you had to buy a new iPhone and iPad every few years, because all those iOS updates made your iPhone's and iPads slow as hell.
+
+
+***
+![Techie found dead at home](https://www.thehindu.com/static/theme/default/base/img/og-image.jpg "Techie found dead at home")
+
+
+[Techie found dead at home](https://www.thehindu.com/news/cities/Hyderabad/techie-found-dead-at-home/article33897271.ece)
+
+
+> A techie was found dead at his residence in Ameerpet here on Sunday morning.According to SR Nagar police, Bala Sridhar Narishetty (44), a team leader at Tata Consultancy Services, ended his life by hanging himself from a ceiling fan in his bedroom at around 11 a.m.His wife Padma, who returned home from a nearby hypermarket, found him hanging and fell unconscious. Bala Sridhar resorted to the extreme step allegedly due to financial issues, Sub-Inspector B. Bhaskar Rao said.He said that even six months ago, the victim attempted to end his life.
+
+
+***
+![Kevin Sorbo on Facebook Blacklisting: Zuckerberg Has More Power Than Our Government](https://media.breitbart.com/media/2018/09/KevinSorbo1.jpg "Kevin Sorbo on Facebook Blacklisting: Zuckerberg Has More Power Than Our Government")
+
+
+[Kevin Sorbo on Facebook Blacklisting: Zuckerberg Has More Power Than Our Government](https://www.breitbart.com/tech/2021/02/21/kevin-sorbo-on-facebook-blacklisting-zuckerberg-has-more-power-than-our-government/)
+
+
+> Actor Kevin Sorbo was banned from Facebook for posting content that the platform's 'fact checkers' have deemed to be 'debunked' information regarding coronavirus vaccines. Sorbo reacted to the ban by saying: 'All I can say is that I find it amazing that a place like Facebook has more power than our government, apparently. And the government allows them to do what they're doing right now, in terms of just canceling people that they don't agree with.' 'We removed Kevin Sorbo's Page for repeatedly sharing debunked claims about the coronavirus or vaccines,' a Facebook spokesperson told Breitbart News.
+
+
