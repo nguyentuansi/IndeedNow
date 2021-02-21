@@ -31095,3 +31095,53 @@
 > A year after launching its first-ever true wireless earbuds, the Hammerhead True Wireless, Razer went back to work developing its more powerful successor: the Hammerhead True Wireless Pro.These new buds pack stronger specs, more features, and complementary audio across all media formats (not just gaming) into a moderately updated design that resembles the brand's gorgeously constructed gaming laptops. Add noise cancellation and some cool features into the mix, and they have the makings to compete against category leaders like the AirPods Pro and Samsung Galaxy Buds Pro.
 
 
+***
+![Redmi K40 to have high quality Samsung E4 OLED display](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/redmi-k40-specifications-483x271_1200_210221164419.jpeg "Redmi K40 to have high quality Samsung E4 OLED display")
+
+
+[Redmi K40 to have high quality Samsung E4 OLED display](https://www.indiatoday.in/technology/news/story/redmi-k40-to-have-high-quality-samsung-e4-oled-display-1771543-2021-02-21)
+
+
+> Highlights The Redmi K40 series features flat OLED panels. In addition to the K40 and K40 Pro, there will be a more affordable K40S variant. According to the leaks, the K40 Pro will feature Qualcomm's flagship processor Snapdragon 888. The Redmi K40 series is officially going to be revealed on 25th February. As the countdown continues, the posts made by Redmi further adds to the excitement. The posts also reveal the features of the new specifications heavy smartphone. Redmi, which previously showed the K40's rear camera system closely, has now shared details about the screen.
+
+
+***
+![Digilocker app: Applying for Passport services made simpler and paperless](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/webp_1200_210221152132.net-resizeimage_26_-483x271.jpeg "Digilocker app: Applying for Passport services made simpler and paperless")
+
+
+[Digilocker app: Applying for Passport services made simpler and paperless](https://www.indiatoday.in/technology/news/story/digilocker-app-applying-for-passport-services-made-simpler-and-paperless-1771517-2021-02-21)
+
+
+> The central government on Friday launched a new scheme by which an applicant can the Digilocker platform while applying for any passport related services from anywhere in India. Akarsh Verma | February 21, 2021 | Updated 14:53 IST
+
+
+***
+![Here's Why PS5 Joysticks Drift (and Why They'll Only Get Worse)](https://external-preview.redd.it/DPsrHp0nP_of36e32cbmvgaZPEYI57VkmNm--S2MLTg.jpg?auto=webp&s=7525d2330368ea8332b6c081b2d97ef34f8a5781 "Here's Why PS5 Joysticks Drift (and Why They'll Only Get Worse)")
+
+
+[Here's Why PS5 Joysticks Drift (and Why They'll Only Get Worse)](https://www.reddit.com/r/technology/comments/lov2br/heres_why_ps5_joysticks_drift_and_why_theyll_only/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Waze CEO sparks debate over Google's ‘entitled' work culture](https://www.haaretz.com/polopoly_fs/1.9556486.1613906136!/image/3935978342.jpg_gen/derivatives/headline_1200x630/3935978342.jpg "Waze CEO sparks debate over Google's ‘entitled' work culture")
+
+
+[Waze CEO sparks debate over Google's ‘entitled' work culture](https://www.haaretz.com/israel-news/tech-news/.premium-waze-ceo-sparks-debate-over-google-s-entitled-work-culture-1.9556482)
+
+
+> Outgoing Waze CEO Noam Bardin stepped down last week from Google, which bought the Israeli GPS application. In a damning post, Bardin blasted Google's organizational culture and called out its employees' sense of entitlement and self-indulgence, sparking debate among tech workers. He laid out his reasons for staying in the company, which he led for 12 years from an independent start-up to after it had been purchased by Google. Bardin was based in Google's Silicon Valley headquarters, while a large part of Waze's staff – about 300 of 550 – work in the company's Israeli offices.
+
+
+***
+![How to have a better relationship with your tech](https://external-preview.redd.it/Cg0O1_jwgPqpJ1fE-qv9HdOej-mkIT8ZQGM0Sa__79k.jpg?auto=webp&s=b26233dc812affd827e2e10adb1ebbeaff77f66b "How to have a better relationship with your tech")
+
+
+[How to have a better relationship with your tech](https://www.reddit.com/r/technology/comments/louve9/how_to_have_a_better_relationship_with_your_tech/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
