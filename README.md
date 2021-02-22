@@ -31439,3 +31439,53 @@
 > From the day The Lincoln Project launched in late 2019 as a group of high-profile Republicans determined to take down then-President Donald Trump, the super PAC positioned itself as a moral authority on the fate of the country.  "As Americans, we must stem the damage he and his followers are doing to the rule of law, the Constitution and the American character," the project's co-founders wrote in a New York Times op-ed. So when it recently became public that 21 men accused co-founder John Weaver of online sexual harassment, and that its leaders allegedly knew about some of those complaints as early as last March, The Lincoln Project swiftly lost its credibility.
 
 
+***
+![Malware Found on Some New Apple M1 Macs Mystifies Experts](https://icdn4.digitaltrends.com/image/digitaltrends/macbook-air-macbook-pro-m1-1200x630-c-ar1.91.jpg "Malware Found on Some New Apple M1 Macs Mystifies Experts")
+
+
+[Malware Found on Some New Apple M1 Macs Mystifies Experts](https://www.digitaltrends.com/computing/malware-found-on-some-new-apple-m1-macs-mystifies-experts/)
+
+
+> Hackers appear to have wasted little time in targeting Apple's recently launched Mac computers featuring its new M1 chip. Colorado-based security firm Red Canary says it's discovered malware on nearly 30,000 Mac computers globally, though experts are currently trying to work out its precise purpose. The malware, dubbed 'Silver Sparrow,' is described as a 'previously undetected strain,' though another version of it had Intel-made equipment in its sights, according to Red Canary. According to Arstechnica, researchers have discovered that the mysterious malware is set up to check a control server once an hour.
+
+
+***
+![Agree to the policies or face deletion of account says WhatsApp](https://cdn.mos.cms.futurecdn.net/kkQUKxfMmLeeANp9SimduR-1200-80.jpg "Agree to the policies or face deletion of account says WhatsApp")
+
+
+[Agree to the policies or face deletion of account says WhatsApp](https://www.techradar.com/news/agree-to-the-policies-or-face-deletion-of-account-says-whatsapp)
+
+
+> (Image credit: Shutterstock) WhatsApp's new privacy policies have been amongst the most discussed topics in the recent past. Not only has this change caused users to migrate to different platforms, but also initiated legal challenges for the instant messaging service in India with the Supreme Court stepping in.In the interim, owing to the backlash, the policy was pushed back till May 15. Ever since, WhatsApp has tried to clarify the policies with massive full-page print ads or via 'Stories', clarification on its official blog.
+
+
+***
+![Australia won't change planned content laws despite Facebook block: lawmaker](https://i-invdn-com.akamaized.net/news/LYNXMPEA8I0M2_L.jpg "Australia won't change planned content laws despite Facebook block: lawmaker")
+
+
+[Australia won't change planned content laws despite Facebook block: lawmaker](https://www.investing.com/news/technology-news/australian-wont-change-planned-content-laws-despite-facebook-block-lawmaker-2424974)
+
+
+> © Reuters. A 3D printed Facebook logo is seen in front of displayed Australia's flag in this illustration photo SYDNEY (Reuters) - Australia will not change proposed laws that would make Alphabet (NASDAQ:) Inc's Google and Facebook (NASDAQ:) pay news outlets for content, a senior lawmaker said on Monday, despite vocal opposition from the Big Tech firms. Facebook has strongly protested the laws and last week abruptly blocked all news content and several state government and emergency department accounts.
+
+
+***
+![These career paths could give you an AI-proof job](https://bloximages.newyork1.vip.townnews.com/newsadvance.com/content/tncms/assets/v3/editorial/2/82/28273810-491a-5013-8d54-3264eb47bb56/602d99f3e784c.preview.jpg?crop=990%2C557%2C0%2C50&resize=990%2C557&order=crop%2Cresize "These career paths could give you an AI-proof job")
+
+
+[These career paths could give you an AI-proof job](https://news.lee.net/lifestyles/technology/these-career-paths-could-give-you-an-ai-proof-job/article_fefeda94-9248-585f-91c5-eec1a60257ac.html)
+
+
+> These career paths could give you an AI-proof job The pandemic is speeding up the roles automation and artificial intelligence (AI) play in the workplace.As an August 2020 Time magazine article reports, the deployment of robots as a response to the coronavirus has been rapid.What are the jobs or career paths people should consider if they want to AI-proof their job prospects as much as possible?While it is true AI is changing the face of the job market, the future isn't as bleak as it is sometimes painted to be.
+
+
+***
+![Australian won't change planned content laws despite Facebook block: lawmaker](https://i-invdn-com.akamaized.net/news/LYNXMPEA8I0M2_L.jpg "Australian won't change planned content laws despite Facebook block: lawmaker")
+
+
+[Australian won't change planned content laws despite Facebook block: lawmaker](https://www.investing.com/news/technology-news/australian-wont-change-planned-content-laws-despite-facebook-block-lawmaker-2424974)
+
+
+> © Reuters. A 3D printed Facebook logo is seen in front of displayed Australia's flag in this illustration photo SYDNEY (Reuters) - Australia will not change proposed laws that would make Alphabet (NASDAQ:) Inc's Google and Facebook (NASDAQ:) pay news outlets for content, a senior lawmaker said on Monday, despite vocal opposition from the Big Tech firms. Facebook has strongly protested the laws and last week abruptly blocked all news content and several state government and emergency department accounts.
+
+
