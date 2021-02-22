@@ -31739,3 +31739,47 @@
 > LG has launched the W41 series in India with three smartphones under it that bring a good design and budget specifications. Shubham Verma | February 22, 2021 | Updated 14:15 IST
 
 
+***
+[Ageras, which offers accountancy software and a marketplace for businesses to find accountants, raises $73M from Lugard Road Capital (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210222/p7#a210222p7)
+
+
+> Ingrid Lunden / TechCrunch: Ageras, which offers accountancy software and a marketplace for businesses to find accountants, raises $73M from Lugard Road Capital — Vertical marketplaces continue to be a key lynchpin in the digital economy, a centralized place where people providing certain goods or services can connect …
+
+
+***
+[Mi Launches Bluetooth Speaker, Neckband Pro: Check Details Here](https://www.thequint.com/tech-and-auto/mi-bluetooth-audio-devices-launched-check-price-specifications)
+
+
+> The two devices that were launched earlier today are Mi Neckband Bluetooth Pro and Mi Bluetooth Speaker (16W).
+
+
+***
+![Jailer, a Database Subsetting and Relational Data Browsing Tool.](https://external-preview.redd.it/mzleY3ar27qycmI4X_ei1m1Peo7buSdCRaMqSgZxiOo.jpg?auto=webp&s=01439010dd46390a5079270977ccddcf98a160ed "Jailer, a Database Subsetting and Relational Data Browsing Tool.")
+
+
+[Jailer, a Database Subsetting and Relational Data Browsing Tool.](https://www.reddit.com/r/programming/comments/lpooov/jailer_a_database_subsetting_and_relational_data/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![The Mantis Shrimp Inspires a New Material—Made by Bacteria](https://media.wired.com/photos/60300b7b091d7b01b7e2080b/191:100/w_1280,c_limit/Science_mantisshrimp-1061398692.jpg "The Mantis Shrimp Inspires a New Material—Made by Bacteria")
+
+
+[The Mantis Shrimp Inspires a New Material—Made by Bacteria](https://www.wired.com/story/the-mantis-shrimp-inspires-a-new-material-made-by-bacteria/)
+
+
+> A good kind of chaotic, as it happens. When the researchers tested the strength of each lattice, the Type IV Bouligand structure absorbed 20 times as much energy as Type I. 'This kind of microstructure makes sure that this kind of composite is very tough,' says University of Southern California engineer Qiming Wang, coauthor on a new paper describing the findings in the journal Advanced Materials. 'When you have a crack, that crack will propagate in the twist pattern to dissipate the energy inside the material.
+
+
+***
+![Lenovo's X1 Carbon Shows Why Linux Is Great on ThinkPads](https://media.wired.com/photos/602c68a067698c0b408ea754/191:100/w_1280,c_limit/Gear-ThinkPad-X1-Carbon-front-SOURCE-Lenovo.jpg "Lenovo's X1 Carbon Shows Why Linux Is Great on ThinkPads")
+
+
+[Lenovo's X1 Carbon Shows Why Linux Is Great on ThinkPads](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-linux-edition/)
+
+
+> For most of eternity, if you wanted to run Linux on your laptop you bought a Windows laptop, wiped Windows, and installed Linux. This was known as the "Windows tax," the extra money you paid for an operating system you didn't need. About 15 years ago, pioneering companies like System76 began selling white-label hardware with Linux preinstalled, along with all the necessary drivers to ensure hardware compatibility. Linux worked out of the box. They were seldom what you'd call svelte laptops, but they were solid machines, and hey, no Windows tax.
+
+
