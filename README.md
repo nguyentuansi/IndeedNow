@@ -31783,3 +31783,50 @@
 > For most of eternity, if you wanted to run Linux on your laptop you bought a Windows laptop, wiped Windows, and installed Linux. This was known as the "Windows tax," the extra money you paid for an operating system you didn't need. About 15 years ago, pioneering companies like System76 began selling white-label hardware with Linux preinstalled, along with all the necessary drivers to ensure hardware compatibility. Linux worked out of the box. They were seldom what you'd call svelte laptops, but they were solid machines, and hey, no Windows tax.
 
 
+***
+![Microsoft to add text predictions in Word on Windows](https://imagevars.gulfnews.com/2021/02/12/20210212-microsoft-sydent_177945a97d6_medium.jpg "Microsoft to add text predictions in Word on Windows")
+
+
+[Microsoft to add text predictions in Word on Windows](https://gulfnews.com/technology/microsoft-to-add-text-predictions-in-word-on-windows-1.1614009867105)
+
+
+> The tool would work like the 'Smart Compose' option in Google Docs Published:Â  February 22, 2021 20:02 IANS Image Credit: AP New Delhi: Microsoft is bringing text predictions to its Word tool on Windows next month that would work like the 'Smart Compose' option in Google Docs. According to a report in Neowin, a recent entry to the Microsoft 365 roadmap revealed that text predictions will roll out to Microsoft Word users in March. The feature will help "users write more efficiently by predicting text quickly, timely and accurately.
+
+
+***
+[How to make Tkinter look modern?](https://www.reddit.com/r/Python/comments/lps11c/how_to_make_tkinter_look_modern_how_to_use_themes/)
+
+
+> Tkinter looks terrible by default. You can change this if you use the ttk submodule, but even this is very outdated (platform dependent). So, how can you modernize tkinter? There are two options: Using a Style to use built-in or third-party themes and set the appearance of the widgets, or Using the ttkthemes package, which contains many different themes, and makes them much easier to use Let's look at the first option first: Ttk has built-in themes that are available on all os, but there are also platform specific themes.
+
+
+***
+![Top tips for buying a PS5 at Amazon during a restock](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/dualsense-right-closeup.jpg "Top tips for buying a PS5 at Amazon during a restock")
+
+
+[Top tips for buying a PS5 at Amazon during a restock](https://www.androidcentral.com/top-tips-buying-ps5-amazon-during-restock)
+
+
+> Source: Jennifer Locke / Android Central Amazon has PS5 restocks less frequently than other stores, but that doesn't mean you shouldn't keep an eye out for one at the retailer. Since its release in November 2020, the PS5 has been incredibly difficult to find online and in-store. The pandemic certainly through a wrench in production, but it's also just a popular console. We've rounded up a few tips that should help you snag one from Amazon. Our PS5 review stated that Sony raised the bar with its newest system, creating a console that beats its predecessor in every category and complementing it with an equally impressive controller.
+
+
+***
+![The Best and Worst Pokemon Designs of Gen VII](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/BestWorst%20Gen7.jpg?itok=H6mGhcRN "The Best and Worst Pokemon Designs of Gen VII")
+
+
+[The Best and Worst Pokemon Designs of Gen VII](https://techraptor.net/gaming/features/pokemon-designs-gen-vii-best-worst)
+
+
+> Generation VII of Pokemon is a pretty good one. There is some fatigue in the formula settling in again, but the characters were top notch, the new Sci-Fi elements were unique, and the Alola setting is one that is both relaxing and inviting, more so than any generation before. It is also home to some pretty good Pokemon designs. Since Generation VI, Pokemon has focused on smaller Pokedexes with less Pokemon, and Alola fits that description well. It is also the first time since Generation V that Game Freak went more thematic with the Pokemon designs, creating monsters that fit the Hawaiian-based setting.
+
+
+***
+![Keysight Technologies Acquires Sanjole](https://mms.businesswire.com/media/20210222005599/en/860418/23/Keysight_Pref_Logo_Color.jpg "Keysight Technologies Acquires Sanjole")
+
+
+[Keysight Technologies Acquires Sanjole](https://www.businesswire.com/news/home/20210222005599/en/Keysight-Technologies-Acquires-Sanjole)
+
+
+> February 22, 2021 11:00 AM Eastern Standard Time SANTA ROSA, Calif.--(BUSINESS WIRE)--Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced it has completed the acquisition of Sanjole, a leader in solutions for protocol decoding and interoperability of 4G, 5G and other wireless technologies. As 5G technology evolves and deployments of private 5G networks scale, customers benefit from an integrated solution that enables them to troubleshoot issues in complex communication systems.
+
+
