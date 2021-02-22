@@ -31639,3 +31639,53 @@
 > The Redmi K40 phones from Xiaomi are launching on February 25. The possible specs reveal these are going to high-end affordable smartphones with their India price expected around Rs 30,000. Ayush Chourasia | February 22, 2021 | Updated 12:33 IST Redmi K40 teaser camera setup
 
 
+***
+![Three new mobile firms to set up manufacturing units in Pakistan](https://sm.mashable.com/t/mashable_pk/photo/default/mobile_4cjp.1200.jpg "Three new mobile firms to set up manufacturing units in Pakistan")
+
+
+[Three new mobile firms to set up manufacturing units in Pakistan](https://pk.mashable.com/tech/7884/three-new-mobile-firms-to-set-up-manufacturing-units-in-pakistan)
+
+
+> After recent relaxations from the government in withholding tax, three companies named Vivo mobiles, Airlink and Advance Telecom have shown interest to establish manufacturing units in Pakistan. The government abolished the tax on locally manufactured mobile phones to encourage assembling and eventually production of parts in the country. However, the investors will have to obtain multiple approvals from Pakistan Telecommunication Authority (PTA) and the Ministry of Industries and Production (MoIP), as these institutions are the regulatory bodies in this regard.
+
+
+***
+![Learn to code with the best free courses and tutorials on Udemy](https://mondrian.mashable.com/2021%252F02%252F22%252Fc8%252F81898ee198fa4579ad630def8cde4658.f15dc.jpg%252F1200x630.jpg?signature=M9_hRy_MoFDBtaDwiRUvJNPY99E= "Learn to code with the best free courses and tutorials on Udemy")
+
+
+[Learn to code with the best free courses and tutorials on Udemy](https://mashable.com/uk/shopping/feb-22-best-free-coding-courses-udemy/)
+
+
+> TL;DR: A wide range of coding courses and tutorials are available for free on Udemy. Another day, another batch of free courses have been made available on Udemy. Fresh from releasing a wide range of AWS-centric courses and tutorials for nothing, Udemy has now launched free courses on coding. The only difference is that you'll need some codes this time around. This could be your best chance to seriously expand your knowledge on this important subject, and possibly kickstart a career in coding. These courses are generally listed at over £50, so this really is a great opportunity to save.
+
+
+***
+![Redmi K40 series price, launch date, news, and leaks](https://cdn.mos.cms.futurecdn.net/pRh8XHUuYbKgy5KoGhPiQK-1200-80.jpg "Redmi K40 series price, launch date, news, and leaks")
+
+
+[Redmi K40 series price, launch date, news, and leaks](https://www.techradar.com/news/redmi-k40-price-specs-availability)
+
+
+> Redmi K40 series will launch in the last week of February, just a few weeks after the Chinese New Year. The upcoming series will include high-end flagships from the word go. The launch date is set for February 25 in China. Needless to say, the Redmi K40 series will be the successor to the Redmi K30 series. For context, the Redmi K30 series had multiple devices Redmi K30, Redmi K30 Pro, Redmi K30S, Redmi K30i, Redmi K30 5G, K30 Ultra,  K30 Racing Edition, and  K30 Racing Edition. Launching soonThe Redmi K40, for starters, will have three variants - Redmi K40 Pro, Redmi K40, and Redmi K40S.
+
+
+***
+![LG W41, W41+, W41 Pro launched in India: Check price, specifications](https://images.indianexpress.com/2021/02/LG-W41-series.jpg "LG W41, W41+, W41 Pro launched in India: Check price, specifications")
+
+
+[LG W41, W41+, W41 Pro launched in India: Check price, specifications](https://indianexpress.com/article/technology/mobile-tabs/lg-w41-w41-plus-w41-pro-launched-in-india-check-price-specifications-7199493/)
+
+
+> LG has launched its latest mid-range smartphones in India today, the LG W41 series. The series consists of the vanilla W41, the W41+ and the W41 Pro. All three phones are essentially the same devices, differentiated by only the RAM and storage configurations. The LG W41 features 4GB RAM and 64GB storage, while the LG W41+ features 4GB RAM and 128GB storage. The highest-end LG W41 Pro feature 6GB RAM and 128GB storage. With the MediaTek Helio G35, 48MP quad-camera setup and a 5,000mAh battery, the phone will compete with devices like the Poco M3, Realme 7i and the Redmi 9 power.
+
+
+***
+![What happens to your WhatsApp account if you don't accept Facebook-owned company's new privacy policy update](https://images.financialexpress.com/2021/02/whatsapp_5_reuters.jpg "What happens to your WhatsApp account if you don't accept Facebook-owned company's new privacy policy update")
+
+
+[What happens to your WhatsApp account if you don't accept Facebook-owned company's new privacy policy update](https://www.financialexpress.com/industry/technology/what-happens-to-your-whatsapp-account-if-you-dont-accept-facebook-owned-companys-new-privacy-policy-update/2199615/)
+
+
+> Facebook-owned app said that it would provide users with more information regarding the new policy.WhatsApp privacy policy: Despite global backlash, instant messaging platform WhatsApp has announced that it would go ahead with its controversial new privacy policy update. However, the Facebook-owned app said that it would provide users with more information regarding the new policy which they would be able to read at their own pace. The app would incorporate banners with additional information and these banners would appear as in-app notifications, the company said.
+
+
