@@ -31389,3 +31389,53 @@
 > Japanese contractor Taisei Corp has developed a technology to convert carbon dioxide, a common greenhouse gas, emitted at manufacturing plants into a building material. The company aims to commercialize concrete made with CO2-infused calcium and blast furnace slag, a byproduct from steel production, by around 2030. The process eliminates the use of cement, a key ingredient in concrete and a major source of CO2 emission. Taisei said its new method will be carbon negative. Concrete loses an ability to prevent corrosion of steel used for reinforcement if it directly absorbs CO2, according to Taisei.
 
 
+***
+![Facial recognition may help find US Capitol rioters, but at a cost](https://apicms.thestar.com.my/uploads/images/2021/02/21/1044988.jpg "Facial recognition may help find US Capitol rioters, but at a cost")
+
+
+[Facial recognition may help find US Capitol rioters, but at a cost](https://www.thestar.com.my/tech/tech-news/2021/02/22/facial-recognition-may-help-find-us-capitol-rioters-but-at-a-cost)
+
+
+> Police officers in riot gear stand guard while supporters of then president Donald Trump protest on the steps of the US Capitol building in Washington, D.C., on Jan 6, 2021. As facial recognition is increasingly used by authorities to nab lawbreakers from criminals to US Capitol rioters, experts warn it could harm many others. — Abaca Press/TNS
+
+
+***
+![Tech platforms have a duty to society](https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/21/st-editorial.jpg?itok=yhirDmpA "Tech platforms have a duty to society")
+
+
+[Tech platforms have a duty to society](https://www.straitstimes.com/opinion/st-editorial/tech-platforms-have-a-duty-to-society)
+
+
+> Events in Australia are catalysing an overdue conversation: how best to preserve a faltering access to a reliable way of learning about the ever-changing world or, in a word, news. Producing reliable, high-quality news has never been cheap and ever since technology firms became the mediators between producers and consumers of news, traditional media companies have found themselves increasingly cut off from their main source of revenue: advertising. Australia's recourse is a law that will require foreign tech companies, specifically Facebook and Google, to pay for news content that appears on their websites.
+
+
+***
+![FastAPI Websocket RPC and Pub/Sub](https://external-preview.redd.it/FnF4_FG2ufWzEQQl_f8EP3dnRcgivSmJlfY9eAxXzG4.jpg?auto=webp&s=931d3c856cf23ffcbfd34adeb3119be80bfbbab3 "FastAPI Websocket RPC and Pub/Sub")
+
+
+[FastAPI Websocket RPC and Pub/Sub](https://www.reddit.com/r/Python/comments/lpa7z7/fastapi_websocket_rpc_and_pubsub/)
+
+
+> Looking for an easy way to build over-the-web realtime comms, updates, or data distribution? We've recently published two Python open source packages for ⚡ RPC and Pub/Sub over Websockets (on top of FastAPI) Stars, PRs, issues, and feedback are super welcome 😇 https://github.com/authorizon/fastapi_websocket_pubsub https://github.com/authorizon/fastapi_websocket_rpc
+
+
+***
+![Onward Security Signs Cornet Solutions as Reseller in Japan](https://mms.businesswire.com/media/20210221005002/en/838702/23/Onward_Security_LOGO.jpg "Onward Security Signs Cornet Solutions as Reseller in Japan")
+
+
+[Onward Security Signs Cornet Solutions as Reseller in Japan](https://www.businesswire.com/news/home/20210221005002/en/Onward-Security-Signs-Cornet-Solutions-as-Reseller-in-Japan)
+
+
+> February 21, 2021 07:00 PM Eastern Standard Time NEW TAIPEI CITY, Taiwan--(BUSINESS WIRE)--Onward Security, a leader in IoT cybersecurity compliance solutions, has signed Cornet as a reseller for Onward Security HERCULES, an automated product security assessment platform comprising SecFlow, product security management system, and SecDevice automated vulnerability assessment tool, in the Japan territory. With the office in Tokyo, Cornet enhances Onward Security's end-user support with expanded sales and Industrial IoT security applications.
+
+
+***
+![The Lincoln Project imploded, and burned liberals who backed its anti-Trump viral videos](https://mondrian.mashable.com/2021%252F02%252F21%252F2b%252Fe139270b7bf4464a93ed6c62c834f092.509e4.jpg%252F1200x630.jpg?signature=HXY-9FWrfZqPwe5b3D_hAcftqaU= "The Lincoln Project imploded, and burned liberals who backed its anti-Trump viral videos")
+
+
+[The Lincoln Project imploded, and burned liberals who backed its anti-Trump viral videos](https://mashable.com/article/lincoln-project-scandal/)
+
+
+> From the day The Lincoln Project launched in late 2019 as a group of high-profile Republicans determined to take down then-President Donald Trump, the super PAC positioned itself as a moral authority on the fate of the country.  "As Americans, we must stem the damage he and his followers are doing to the rule of law, the Constitution and the American character," the project's co-founders wrote in a New York Times op-ed. So when it recently became public that 21 men accused co-founder John Weaver of online sexual harassment, and that its leaders allegedly knew about some of those complaints as early as last March, The Lincoln Project swiftly lost its credibility.
+
+
