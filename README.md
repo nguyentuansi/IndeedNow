@@ -31871,3 +31871,53 @@
 > KLH Fusion, when looked at under a thorough review, offers up several key attributes to start them out well ahead of many competing brands and models. From the case design and included extras to features such as voice control, these earbuds are forward-looking and aesthetically brilliant.To begin with, the design feels timeless, is comfortable in terms of both earbuds and carry-and-charge case, and durable against day-to-day wear. But usability also plays into the design. Both with regard to carry-ability and in-hand feel, and with regard to reading battery levels.
 
 
+***
+![Tesla has already made $1bn profit on its Bitcoin investment](https://cdn.mos.cms.futurecdn.net/oFZ3HfKaDyZphnPr2xHafj-1200-80.jpg "Tesla has already made $1bn profit on its Bitcoin investment")
+
+
+[Tesla has already made $1bn profit on its Bitcoin investment](https://www.techradar.com/news/tesla-has-already-made-dollar1bn-profit-on-its-bitcoin-investment)
+
+
+> (Image credit: Shutterstock / REDPIXEL.PL) Investing in Bitcoin is already paying off for US automaker Tesla according to analyst at Wedbush Securities Daniel Ives who calculated that the company has already made around $1bn in paper profits from its investment.Back in January, the company announced that it had purchased $1.5bn worth of Bitcoin in an effort to 'further diversify and maximize returns' on its cash. Tesla also said that it will begin accepting the cryptocurrency as payment for its electric vehicles on a limited basis in the future.
+
+
+***
+![Will the IRS extend Tax Day 2020? How the April deadline to file taxes could change](https://cnet4.cbsistatic.com/img/QJmtKoRzOUy-xDx-14UT2ewAIG0=/1200x630/2021/01/22/6d2da500-423b-41a7-bbea-d79a15b2bde0/020-calendar-money-cash-stimulus-bill-tax-2021.jpg "Will the IRS extend Tax Day 2020? How the April deadline to file taxes could change")
+
+
+[Will the IRS extend Tax Day 2020? How the April deadline to file taxes could change](https://www.cnet.com/personal-finance/will-the-irs-extend-tax-day-2020-how-the-april-deadline-to-file-taxes-could-change/)
+
+
+> Would the IRS consider postponing Tax Day this year? A request has been made. Sarah Tew/CNET If the idea of getting your federal tax returns filed by the April 15 deadline is stressing you out, you may find comfort in knowing the IRS could grant a request to push back the filing date a few months. A House of Representatives committee made the case to the IRS on Feb. 18 that automatically extending the deadline to file (without people needing to file for an extension) would give taxpayers much-needed relief from the financial fallout of the COVID-19 pandemic.
+
+
+***
+![Best Blu-ray player for 2021](https://cnet3.cbsistatic.com/img/hY59dCAFQ8F-rFSMxcv1WwnaNfw=/1200x630/2016/09/23/c868efaa-13ce-4c93-9c25-4fc4eec22515/sony-bdp-s3700-09.jpg "Best Blu-ray player for 2021")
+
+
+[Best Blu-ray player for 2021](https://www.cnet.com/news/best-blu-ray-player/)
+
+
+> There are some good reasons to watch movies on the humble Blu-ray player -- even in the streaming age. A hardware player offers the best image and sound quality available, thanks to the enhanced storage capacities of Blu-ray discs. There are two types of discs available: 1080p Blu-ray and 4K UHD Blu-ray. Getting a 4K player will let you play both kinds and give you access to formats like Dolby Atmos, Dolby Vision, DTS:X and HDR10. Streaming problems like bandwidth caps, dropouts or buffering are nonexistent.
+
+
+***
+![The best dashcam for 2021](https://cnet4.cbsistatic.com/img/OmIvTMOy9_QLqrhHwnCsbHm0Kb8=/1200x630/2019/08/14/2bef7969-67dd-4e67-9ed1-c600e3e54cb5/a301w-magnetic-mount-4.png "The best dashcam for 2021")
+
+
+[The best dashcam for 2021](https://www.cnet.com/roadshow/news/best-dash-cam/)
+
+
+> There are certain things you should always have in your car: an emergency kit, jumper cables, a tire pressure gauge and, these days, a dashcam. These little cameras can be attached to your dashboard or rearview mirror in minutes, are relatively inexpensive, and can save you a boatload of money with video evidence in the event of an accident. You see, there are lots of benefits of having dashcam footage on hand, like you can prove to your insurance that you weren't responsible for that fender bender or you can get a picture of the license plate of that car that side-swiped you on the highway.
+
+
+***
+![The best HOTAS controllers for PS5 are all here](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2020/06/star-wars-squadrons-x-wing-image-2h8p.jpg "The best HOTAS controllers for PS5 are all here")
+
+
+[The best HOTAS controllers for PS5 are all here](https://www.androidcentral.com/best-hotas-controllers-ps5)
+
+
+> Source: EA Best HOTAS Controllers for PS5 Android Central 2021 While it's still a niche market on consoles, many PS5 players will want to enjoy using a flight stick with compatible games. No dedicated PS5 sticks have yet been released, so it's slim pickings for now. Fortunately, there's a couple of PS4 options that'll work with Sony's new console and our favorite is the Thrustmaster T-Flight Hotas 4, which handles great for games like Star Wars: Squadrons or Ace Combat 7: Skies Unknown. The release of Microsoft Flight Simulator 2020 and Star Wars: Squadrons wiped out most of the available HOTAS systems, so finding joysticks that are available right now is extraordinarily difficult.
+
+
