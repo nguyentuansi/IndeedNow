@@ -31589,3 +31589,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Australia won't change planned content laws despite Facebook block – lawmaker](https://assets2.rappler.com/2021/02/reuters-021921-facebook-1613974591487.jpg "Australia won't change planned content laws despite Facebook block – lawmaker")
+
+
+[Australia won't change planned content laws despite Facebook block – lawmaker](https://www.rappler.com/technology/social-media/australia-will-not-change-planned-content-laws-despite-facebook-block)
+
+
+> Australia will not change proposed laws that would make Alphabet's Google and Facebook pay news outlets for content, a senior lawmaker said on Monday, February 22, despite vocal opposition from the Big Tech firms. Facebook has strongly protested the laws and last week abruptly blocked all news content and several state government and emergency department accounts. The social media giant and Australian leaders continued discussing the changes over the weekend. But with the bill scheduled for a debate in the Senate on Monday, Australia's most senior lawmaker in the upper house said there would be no further amendments.
+
+
+***
+![Philippines' second cube satellite Maya-2 launched](https://assets2.rappler.com/2021/02/maya-2-1613980392882.jpg.png "Philippines' second cube satellite Maya-2 launched")
+
+
+[Philippines' second cube satellite Maya-2 launched](https://www.rappler.com/technology/philippines-second-cube-satellite-maya-2-launched)
+
+
+> MAYA-2. Maya 2-engineers Izrael Zenar Bautista, Mark Angelo Purio, and Marloun Sejera at the laboratory in Kyutech
+
+
+***
+![30,000 Macs infected by fast-spreading malware with unknown payload](https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/A01D145AE2204EF8A2EF0E04355D8E13/macbookpros-1613976489844.jpg "30,000 Macs infected by fast-spreading malware with unknown payload")
+
+
+[30,000 Macs infected by fast-spreading malware with unknown payload](https://www.rappler.com/technology/macintosh-computers-infected-malware-silver-sparrow-red-canary)
+
+
+> A new malware has been discovered on 30,000 Macs worldwide whose payload is currently unknown but can supposedly be triggered at any time, Ars Technica reports. The malware has been found in 153 countries with a large concentration in the US, UK, Canada, France, and Germany. Researchers have not been able to spot any delivered payload to any of the machines infected at the moment, but the malware has been observed to check a server for new commands to execute. With no warning, the malware can execute its true payload.
+
+
+***
+![Vivo S9 5G phone confirmed for March 3 launch with 90Hz screen, dual selfie cameras](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/vivo_s7_press-483x271_1200_210222131419.jpeg "Vivo S9 5G phone confirmed for March 3 launch with 90Hz screen, dual selfie cameras")
+
+
+[Vivo S9 5G phone confirmed for March 3 launch with 90Hz screen, dual selfie cameras](https://www.indiatoday.in/technology/news/story/vivo-s9-5g-phone-confirmed-for-march-3-launch-with-90hz-screen-dual-selfie-cameras-1771760-2021-02-22)
+
+
+> Vivo has announced that the S9 smartphone will be launched in China on March 3. Shubham Verma | February 22, 2021 | Updated 12:56 IST Vivo S7
+
+
+***
+![Xiaomi Redmi K40 launch soon, and here are details on its specs, India price and everything else important](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/k40_poster-483x271_1200_210222123636.jpeg "Xiaomi Redmi K40 launch soon, and here are details on its specs, India price and everything else important")
+
+
+[Xiaomi Redmi K40 launch soon, and here are details on its specs, India price and everything else important](https://www.indiatoday.in/technology/features/story/xiaomi-redmi-k40-launch-soon-and-here-are-details-on-its-specs-india-price-and-everything-else-important-1771744-2021-02-22)
+
+
+> The Redmi K40 phones from Xiaomi are launching on February 25. The possible specs reveal these are going to high-end affordable smartphones with their India price expected around Rs 30,000. Ayush Chourasia | February 22, 2021 | Updated 12:33 IST Redmi K40 teaser camera setup
+
+
