@@ -31830,3 +31830,44 @@
 > February 22, 2021 11:00 AM Eastern Standard Time SANTA ROSA, Calif.--(BUSINESS WIRE)--Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced it has completed the acquisition of Sanjole, a leader in solutions for protocol decoding and interoperability of 4G, 5G and other wireless technologies. As 5G technology evolves and deployments of private 5G networks scale, customers benefit from an integrated solution that enables them to troubleshoot issues in complex communication systems.
 
 
+***
+[How to use PS5 DualSense controller on PC to play games](https://www.the-sun.com/lifestyle/tech/2384864/how-to-use-ps5-dualsense-controller-on-pc-play-games/)
+
+
+> WANT to play with your DualSense controller on a PC? It’s easy if you know how. The PS5’s smash-hit joypad works on PC with minimal fuss. What is PS5 DualSense controller? The PS5 launched last November with phenomenal success, remaining largely sold out around the world ever since. One part of its appeal is the […]
+
+
+***
+[How to use PS5 DualSense controller on PC to play games](https://www.thesun.ie/tech/6605316/how-to-use-ps5-dualsense-controller-on-pc-play-games/)
+
+
+> WANT to play with your DualSense controller on a PC? It’s easy if you know how. The PS5’s smash-hit joypad works on PC with minimal fuss. What is PS5 DualSense controller? The PS5 launched last November with phenomenal success, remaining largely sold out around the world ever since. One part of its appeal is the […]
+
+
+***
+![ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks](https://external-preview.redd.it/6_72pCPGhLMPvGeqOnq1Wiwmcp1-uKFRplUyaueAixI.jpg?auto=webp&s=00fa9698b5ce6f490a9160e10c8c9baceb72ef1e "ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks")
+
+
+[ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks](https://www.reddit.com/r/programming/comments/lpv38r/etl_extract_transform_load_best_practices_etl/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[EURUSD moves up to test last week's high](https://www.forexlive.com/technical-analysis/!/eurusd-moves-up-to-test-last-weeks-high-20210222)
+
+
+> Moves above swing area  The EURUSD traded above and below a swing area between 1.21435 and 1.21496. However in the last hour or so, more buyers have entered the market and pushed the price up toward the high price from last week at 1.2169. There should be some sellers against the level with stops on a break above.  Move
+
+
+***
+![KLH Fusion Review – So Close To Perfect You Can Almost Hear It](https://www.androidheadlines.com/wp-content/uploads/2021/01/00-KLH-Fusion-Review-title-DG-AH-2021.jpg "KLH Fusion Review – So Close To Perfect You Can Almost Hear It")
+
+
+[KLH Fusion Review – So Close To Perfect You Can Almost Hear It](https://www.androidheadlines.com/2021/02/klh-fusion-review-true-wireless-earbuds.html)
+
+
+> KLH Fusion, when looked at under a thorough review, offers up several key attributes to start them out well ahead of many competing brands and models. From the case design and included extras to features such as voice control, these earbuds are forward-looking and aesthetically brilliant.To begin with, the design feels timeless, is comfortable in terms of both earbuds and carry-and-charge case, and durable against day-to-day wear. But usability also plays into the design. Both with regard to carry-ability and in-hand feel, and with regard to reading battery levels.
+
+
