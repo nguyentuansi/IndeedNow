@@ -31539,3 +31539,53 @@
 > (Image credit: Future) PS5 restock update for late Sunday: Good news and bad news if you're looking for new PS5 stock at retailers in the US. As predicted, stores didn't have the console over the weekend and rarely ever do. But, for Monday and Tuesday, when we expect to see more, we have setup a new method of tracking PS5 restock updates on Twitter.   Follow us for alerts on when to buy PS5 next – it has worked for Twitter users. PS5 restock sold out at Best Buy. About 35% of my tweet replies are from people who got it! Shocking! 😮Follow & ♻️RT me + @techradar for instant PlayStation 5 tracking alerts 🚨 pic.
 
 
+***
+![Nuklear: A cross-platform GUI library in C](https://external-preview.redd.it/l_BpHSd3FSDIKxP9bacgN2uNmE8hksu9nEqEuSPNJ9k.jpg?auto=webp&s=292b15417e39629ba6b4bbf7fc8565e7445fc4e7 "Nuklear: A cross-platform GUI library in C")
+
+
+[Nuklear: A cross-platform GUI library in C](https://www.reddit.com/r/programming/comments/lpgf0p/nuklear_a_crossplatform_gui_library_in_c/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Not a smooth transition between cameras while zooming](https://images.macrumors.com/social/?t=2285694&v=6 "Not a smooth transition between cameras while zooming")
+
+
+[Not a smooth transition between cameras while zooming](https://forums.macrumors.com/threads/not-a-smooth-transition-between-cameras-while-zooming.2285694/)
+
+
+> Jul 22, 2009 1,085 7 UYBAATC when zooming in and out, the camera jerks significantly. I'm assuming bc it's transition between the camera, but it seems too significant to be normal. Anyone have insight on this issue? Also, when I hit 2.5 zoom and then touch the screen for focus, it jerks as well. thanks
+
+
+***
+![Mogo Announces US$54 Million Registered Direct Offering Priced At-the-Market](http://www.businesswire.com/images/bwlogo_square.png "Mogo Announces US$54 Million Registered Direct Offering Priced At-the-Market")
+
+
+[Mogo Announces US$54 Million Registered Direct Offering Priced At-the-Market](https://www.businesswire.com/news/home/20210221005071/en/Mogo-Announces-US54-Million-Registered-Direct-Offering-Priced-At-the-Market)
+
+
+> February 22, 2021 12:45 AM Eastern Standard Time VANCOUVER, British Columbia--(BUSINESS WIRE)--Mogo Inc. (NASDAQ:MOGO) (TSX:MOGO) ("Mogo" or the "Company"), a financial technology, digital payments and crypto company, announced today that it has entered into definitive agreements with certain institutional investors for the sale of an aggregate of 5,346,536 common shares at a purchase price of US$10.10 per common share in a registered direct offering (the "Offering") priced at-the-market under the Nasdaq Capital Market (the "Nasdaq") rules.
+
+
+***
+![Additional Redmi K40 design and specs confirmed ahead of launch](https://cdn.mos.cms.futurecdn.net/TppxNcsTHhT6kWW3ttST5K-1200-80.jpg "Additional Redmi K40 design and specs confirmed ahead of launch")
+
+
+[Additional Redmi K40 design and specs confirmed ahead of launch](https://www.techradar.com/news/additional-redmi-k40-design-and-specs-confirmed-ahead-of-launch)
+
+
+> (Image credit: Weibo) The Redmi K40 series will mark its debut on February 25 in China. The company is expected to launch at least two new phones - the Redmi K40 and Redmi K40 Pro while the Redmi K40S might also be unveiled at the event. A few days ahead of the launch, the company has confirmed some details of the display, battery and design of the upcoming Redmi K40 smartphone. Lu Weibing, Xiaomi spokesperson confirmed the Redmi K40 series will use an E4 AMOLED panel. The E4 AMOLED is the latest gen OLED screen from Samsung.
+
+
+***
+![YouTube AI Blocked Chess Channel after Confusing 'Black' and 'White' for Racist Slurs](https://external-preview.redd.it/Vjk71ZHNVW86FNfliGMaGBOaj13QLn0kArsn-sRDmF0.jpg?auto=webp&s=badd34dd07c28b08f96b37bd1dd319a9fa184655 "YouTube AI Blocked Chess Channel after Confusing 'Black' and 'White' for Racist Slurs")
+
+
+[YouTube AI Blocked Chess Channel after Confusing 'Black' and 'White' for Racist Slurs](https://www.reddit.com/r/technology/comments/lpgavk/youtube_ai_blocked_chess_channel_after_confusing/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
