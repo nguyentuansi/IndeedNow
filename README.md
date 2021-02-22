@@ -31489,3 +31489,53 @@
 > © Reuters. A 3D printed Facebook logo is seen in front of displayed Australia's flag in this illustration photo SYDNEY (Reuters) - Australia will not change proposed laws that would make Alphabet (NASDAQ:) Inc's Google and Facebook (NASDAQ:) pay news outlets for content, a senior lawmaker said on Monday, despite vocal opposition from the Big Tech firms. Facebook has strongly protested the laws and last week abruptly blocked all news content and several state government and emergency department accounts.
 
 
+***
+![2/21/2021: Attack on the Judiciary, Handcuffed to the Truth, QAnon](https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/22/b5b7daab-46dc-4d57-95db-b41af5a70830/thumbnail/1200x630/73229d16060a16ac2fd0c41ee68f79d4/fullepisode-650882-640x360.jpg "2/21/2021: Attack on the Judiciary, Handcuffed to the Truth, QAnon")
+
+
+[2/21/2021: Attack on the Judiciary, Handcuffed to the Truth, QAnon](https://www.cbsnews.com/video/60minutes-2021-02-21/)
+
+
+> No body in the article.
+
+
+***
+![Dell launches US$50m R&D centre in S'pore, 1st team outside US to focus on user experiences](https://www.straitstimes.com/s3/files/styles/x_large/public/articles/2021/02/22/ycccs220221.jpg?itok=wyWZLmY1 "Dell launches US$50m R&D centre in S'pore, 1st team outside US to focus on user experiences")
+
+
+[Dell launches US$50m R&D centre in S'pore, 1st team outside US to focus on user experiences](https://www.straitstimes.com/tech/tech-news/dell-launches-us50m-singapore-rd-centre-1st-team-outside-us-to-focus-on-user)
+
+
+> SINGAPORE - American tech giant Dell Technologies officially launched a new US$50 million (S$66 million) research and development centre (R&D) here on Monday (Feb 22) that will, for the first time outside the United States, have a team dedicated to improving user experiences. This includes developing a wellness tracker application built into a laptop that captures a person's seating posture and delivers prompts and alerts to encourage the user to move or make adjustments to address challenges from working from home, such as neck and lower back pain.
+
+
+***
+![Xiaomi to launch two new audio products today: Expected features, livestream and everything else to know](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/misp_0-483x271_1200_210222081412.png "Xiaomi to launch two new audio products today: Expected features, livestream and everything else to know")
+
+
+[Xiaomi to launch two new audio products today: Expected features, livestream and everything else to know](https://www.indiatoday.in/technology/news/story/xiaomi-to-launch-two-new-audio-products-today-expected-features-livestream-and-everything-else-to-know-1771642-2021-02-22)
+
+
+> Xiaomi is set to launch two new audio products in India today during its 'Mi Sound Unveil' event. At least of these products is likely to be the Mi Portable Speaker, already launched globally. India Today Tech | February 22, 2021 | Updated 08:11 IST Xiaomi is set to launch two new audio products in India today during its ‘Mi Sound Unveil' event.
+
+
+***
+![Foxconn plans to launch its first set of EVs by the end of this year](https://cdn.mos.cms.futurecdn.net/P76jFdWUS2fioazjeZdWVW-1200-80.jpg "Foxconn plans to launch its first set of EVs by the end of this year")
+
+
+[Foxconn plans to launch its first set of EVs by the end of this year](https://www.techradar.com/news/foxconn-plans-to-launch-its-first-set-of-evs-by-the-end-of-this-year)
+
+
+> (Image credit: Getty Images) Apple's leading supplier and iPhone assembler Foxconn had plans of entering the fast lane with electric vehicles (EVs). The company now says that it would launch its first such vehicle by the end-2021 that will be built on its own open software and hardware platform.Foxconn revealed that it will launch two light battery-powered vehicles on its open platform dubbed as MIH by Q4 this year. Nikkei reported that Young Liu, Chairman of Foxconn's flagship unit Hon Hai Precision Industry Co also announced that the company may also launch an electric bus around the same time, apart from the two passenger vehicles.
+
+
+***
+![PS5 restock update: how to track the new console stock on Twitter](https://cdn.mos.cms.futurecdn.net/HBqcs9sdFPk2tQko2afTCU-1200-80.jpg "PS5 restock update: how to track the new console stock on Twitter")
+
+
+[PS5 restock update: how to track the new console stock on Twitter](https://www.techradar.com/news/ps5-restock-for-saturday-how-to-track-the-new-console-stock-on-twitter)
+
+
+> (Image credit: Future) PS5 restock update for late Sunday: Good news and bad news if you're looking for new PS5 stock at retailers in the US. As predicted, stores didn't have the console over the weekend and rarely ever do. But, for Monday and Tuesday, when we expect to see more, we have setup a new method of tracking PS5 restock updates on Twitter.   Follow us for alerts on when to buy PS5 next – it has worked for Twitter users. PS5 restock sold out at Best Buy. About 35% of my tweet replies are from people who got it! Shocking! 😮Follow & ♻️RT me + @techradar for instant PlayStation 5 tracking alerts 🚨 pic.
+
+
