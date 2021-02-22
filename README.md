@@ -31689,3 +31689,53 @@
 > Facebook-owned app said that it would provide users with more information regarding the new policy.WhatsApp privacy policy: Despite global backlash, instant messaging platform WhatsApp has announced that it would go ahead with its controversial new privacy policy update. However, the Facebook-owned app said that it would provide users with more information regarding the new policy which they would be able to read at their own pace. The app would incorporate banners with additional information and these banners would appear as in-app notifications, the company said.
 
 
+***
+![Chinese spyware code was copied from America's NSA – researchers](https://assets2.rappler.com/2021/02/hacker-shutterstock-ls-1613993302263.jpg "Chinese spyware code was copied from America's NSA – researchers")
+
+
+[Chinese spyware code was copied from America's NSA – researchers](https://www.rappler.com/technology/chinese-spyware-code-copied-from-america-national-security-agency)
+
+
+> Chinese spies used code first developed by the US National Security Agency to support their hacking operations, Israeli researchers said on Monday, February 22, another indication of how malicious software developed by governments can boomerang against their creators. Tel Aviv-based Check Point Software Technologies issued a report noting that some features in a piece of China-linked malware it dubs "Jian" were so similar they could only have been stolen from some of the National Security Agency break-in tools leaked to the internet in 2017.
+
+
+***
+![Facebook takes down pages of Myanmar state TV](https://assets2.rappler.com/2021/02/facebook-logo-2-1613988402825.jpg "Facebook takes down pages of Myanmar state TV")
+
+
+[Facebook takes down pages of Myanmar state TV](https://www.rappler.com/technology/facebook-takes-down-myanmar-state-tv-pages)
+
+
+> Facebook took down the pages of Myanmar's state-run television on Monday, February 22, a day after the channel had warned anti-coup protesters against taking action and said that confrontation could put lives at risk. "In line with our global policies, we've removed the MRTV and MRTV Live Pages from Facebook for repeated violations of our Community Standards, including our violence and incitement policy," said Rafael Frankel, director of public policy, APAC, emerging markets.  – Rappler.com
+
+
+***
+![Facebook removes Myanmar's army page for incitement of violence](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-22_at_4_1200_210222171422.59.-483x271.png "Facebook removes Myanmar's army page for incitement of violence")
+
+
+[Facebook removes Myanmar's army page for incitement of violence](https://www.indiatoday.in/technology/news/story/facebook-removes-myanmar-s-army-page-for-incitement-of-violence-1771866-2021-02-22)
+
+
+> Two people were killed in Myanmar's second city Mandalay on Saturday when police and soldiers fired at protesters demonstrating against the overthrow of the elected government of Aung San Suu Kyi. India Today Tech | February 22, 2021 | Updated 17:04 IST (Picture: Reuters)
+
+
+***
+![Poco claims to sell 2.5 lakh Poco M3 units in 10 days, next sale on February 23](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/p4-483x271_1200_210222163539.jpeg "Poco claims to sell 2.5 lakh Poco M3 units in 10 days, next sale on February 23")
+
+
+[Poco claims to sell 2.5 lakh Poco M3 units in 10 days, next sale on February 23](https://www.indiatoday.in/technology/news/story/poco-claims-to-sell-2-5-lakh-poco-m3-units-in-10-days-next-sale-on-february-23-1771851-2021-02-22)
+
+
+> Xiaomi spin-off Poco has sold over 2.5 lakh units of its new budget smartphone – Poco M3 in India. The company has claimed to achieve this milestone in less than 10 days. India Today Tech | February 22, 2021 | Updated 16:22 IST The Poco M3 features a 6.5-inch FHD+ IPS LCD display with a 60Hz refresh rate.
+
+
+***
+![LG W41, W41+, W41 Pro budget smartphones launched in India, prices start at Rs 13,490](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lg_w41_pro-483x271_1200_210222143509.jpeg "LG W41, W41+, W41 Pro budget smartphones launched in India, prices start at Rs 13,490")
+
+
+[LG W41, W41+, W41 Pro budget smartphones launched in India, prices start at Rs 13,490](https://www.indiatoday.in/technology/news/story/lg-w41-w41-w41-pro-budget-smartphones-launched-in-india-prices-start-at-rs-13-490-1771800-2021-02-22)
+
+
+> LG has launched the W41 series in India with three smartphones under it that bring a good design and budget specifications. Shubham Verma | February 22, 2021 | Updated 14:15 IST
+
+
