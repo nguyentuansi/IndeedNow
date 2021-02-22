@@ -31921,3 +31921,53 @@
 > Source: EA Best HOTAS Controllers for PS5 Android Central 2021 While it's still a niche market on consoles, many PS5 players will want to enjoy using a flight stick with compatible games. No dedicated PS5 sticks have yet been released, so it's slim pickings for now. Fortunately, there's a couple of PS4 options that'll work with Sony's new console and our favorite is the Thrustmaster T-Flight Hotas 4, which handles great for games like Star Wars: Squadrons or Ace Combat 7: Skies Unknown. The release of Microsoft Flight Simulator 2020 and Star Wars: Squadrons wiped out most of the available HOTAS systems, so finding joysticks that are available right now is extraordinarily difficult.
 
 
+***
+![15 things that will upgrade your home office setup](https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2021/02/22/USATODAY/usatsports/Reviewed.com-RvEW-26764-HERO.png?width=1272&height=716&fit=crop&format=pjpg&auto=webp "15 things that will upgrade your home office setup")
+
+
+[15 things that will upgrade your home office setup](https://www.reviewed.com/lifestyle/features/15-things-upgrade-your-home-office-setup)
+
+
+> 15 things that will upgrade your home office setup (Photo: Reviewed.com)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.There are some items that every person working from home these days needs. Yes, you can get by working from the couch or the counter for a while, but eventually, your body and your energy won't be able to keep up. Whether you have a dedicated office space or not, you can improve your setup to make you feel more comfortable and organized.
+
+
+***
+![Recap: Republic Services Q4 Earnings](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Recap: Republic Services Q4 Earnings")
+
+
+[Recap: Republic Services Q4 Earnings](https://www.benzinga.com/news/earnings/21/02/19784905/recap-republic-services-q4-earnings)
+
+
+> Shares of Republic Services (NYSE:RSG) fell in after-market trading after the company reported Q4 results. Quarterly Results Earnings per share were up 9.89% over the past year to $1.00, which beat the estimate of $0.81. Revenue of $2,573,000,000 declined by 0.16% year over year, which beat the estimate of $2,570,000,000. Looking Ahead Republic Services Sees FY21 Adj. EPS $3.65-$3.73 vs $3.70 Estimate, Sales Growth 1.5-2% Year Over Year How To Listen To The Conference Call Date: Feb 22, 2021 Time: 05:00 PM ET Webcast URL: https://dpregister.
+
+
+***
+![Recap: Occidental Petroleum Q4 Earnings](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Recap: Occidental Petroleum Q4 Earnings")
+
+
+[Recap: Occidental Petroleum Q4 Earnings](https://www.benzinga.com/news/earnings/21/02/19784847/recap-occidental-petroleum-q4-earnings)
+
+
+> Shares of Occidental Petroleum (NYSE:OXY) decreasedÂ in after-market trading after the company reported Q4 results. Quarterly Results Earnings per share decreased 160.00% year over year to ($0.78), which missed the estimate of ($0.59). Revenue of $3,348,000,000 decreased by 50.74% year over year, which missed the estimate of $4,370,000,000. Guidance Occidental Petroleum hasn't issued any earnings guidance for the time being. Occidental Petroleum hasn't issued any revenue guidance for the time being.
+
+
+***
+![Zuckerberg feared Facebook's conservative users, so they received special treatment](https://mondrian.mashable.com/2021%252F02%252F22%252Fdd%252Ff45fdcca3df743e0b45331f85ab34914.0e7d3.jpg%252F1200x630.jpg?signature=jaQdq1eU10Tc-MNLQh2_ggokUKc= "Zuckerberg feared Facebook's conservative users, so they received special treatment")
+
+
+[Zuckerberg feared Facebook's conservative users, so they received special treatment](https://mashable.com/article/facebook-mark-zuckerberg-conservative-pages/)
+
+
+> Facebook has long shown its preference for right-wing content, but a new report has made it clearer than ever. On Sunday, BuzzFeed News published a piece featuring comments from former policy employees at Facebook. In it, they detailed how Facebook founder and CEO Mark Zuckerberg would often personally get involved with policy decisions involving prominent conservative pundits and publishers. The Facebook head would overrule previously established policy in order to specifically land on more lenient outcomes for those right wing personalities.
+
+
+***
+![Anyone have any Ideas?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Anyone have any Ideas?")
+
+
+[Anyone have any Ideas?](https://www.reddit.com/r/Python/comments/lq0zva/anyone_have_any_ideas/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
