@@ -32018,3 +32018,53 @@
 > Let our global subject matter experts broaden your perspective with timely insights and opinions you can't find anywhere else. Choose your subscription Full Terms and Conditions apply to all Subscriptions. Learn more and compare subscriptions
 
 
+***
+![Something I made that will hopefully help](https://external-preview.redd.it/zBh01E1PKRkHfmkTMbFKCmkz20WNum63LK07ORoYYYA.jpg?auto=webp&s=38b8ac48b2acc586ffc39e843d8dba17cb71cea3 "Something I made that will hopefully help")
+
+
+[Something I made that will hopefully help](https://www.reddit.com/r/programming/comments/lq5ys3/something_i_made_that_will_hopefully_help/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![LG Rollable may be delayed, or even cancelled, suggests supply chain intel](https://cdn.mos.cms.futurecdn.net/wNDbHyNdbn6SRinBN7rxZE-1200-80.jpg "LG Rollable may be delayed, or even cancelled, suggests supply chain intel")
+
+
+[LG Rollable may be delayed, or even cancelled, suggests supply chain intel](https://www.techradar.com/news/lg-rollable-may-be-delayed-or-even-cancelled-suggests-supply-chain-intel)
+
+
+> (Image credit: LG) Yet another rumor suggests that the LG Rollable may have been delayed, if not cancelled outright. LG has allegedly told its suppliers, including those providing displays, that the rollable project has been put on hold, according to Yonhap News.The Rollable was dramatically unveiled at the online-only CES 2021, and subsequently confirmed a 2021 release date – but weeks later, we heard that the device might be cancelled. These uneven rumors make us wonder if the LG Rollable is coming out this year after all.
+
+
+***
+![#TECH: iPhone 12 sales propel Apple to top of smartphone market](https://assets.nst.com.my/images/articles/botsappsales_NSTfield_image_socialmedia.var_1614043820.jpg "#TECH: iPhone 12 sales propel Apple to top of smartphone market")
+
+
+[#TECH: iPhone 12 sales propel Apple to top of smartphone market](https://www.nst.com.my/lifestyle/bots/2021/02/668095/tech-iphone-12-sales-propel-apple-top-smartphone-market)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![If JavaScript frameworks had to introduce themselves](https://external-preview.redd.it/VhYAcgyAsb3aVAV1GNrRcz8H70-01yyLJZIoM_93DMI.jpg?auto=webp&s=5e8dfd53a890255d684499a447b8ee1997d282d2 "If JavaScript frameworks had to introduce themselves")
+
+
+[If JavaScript frameworks had to introduce themselves](https://www.reddit.com/r/programming/comments/lq5in5/if_javascript_frameworks_had_to_introduce/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Parsing floating-point numbers really fast in C#](https://external-preview.redd.it/Cr4JKY-bI9lr_vlu0MULASf-H_m-K4_9P3uFnn5yPJk.jpg?auto=webp&s=e9ed5c551769365629ec32b8489fae7c6f4d7011 "Parsing floating-point numbers really fast in C#")
+
+
+[Parsing floating-point numbers really fast in C#](https://www.reddit.com/r/programming/comments/lq5i26/parsing_floatingpoint_numbers_really_fast_in_c/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
