@@ -32209,3 +32209,53 @@
 > February 23, 2021 02:50 AM Eastern Standard Time LUXEMBOURG--(BUSINESS WIRE)--Japan International Broadcasting Inc. (JIB), a subsidiary of Japan's sole public broadcaster NHK and official distributor of NHK WORLD-JAPAN, has renewed its multi-year contract with SES for satellite capacity. The agreement will permit NHK's free-to-air, English-language news and information channel in High Definition (HD) to continue to be distributed in SES's prime orbital neighbourhood at 19.2 degrees East to over 45 million satellite TV-equipped homes across Europe.
 
 
+***
+![Facebook Reverses Australian News Ban, Bows to Government Regulation](https://media.breitbart.com/media/2021/02/facebook-logos.jpg "Facebook Reverses Australian News Ban, Bows to Government Regulation")
+
+
+[Facebook Reverses Australian News Ban, Bows to Government Regulation](https://www.breitbart.com/tech/2021/02/23/big-tech-backflip-facebook-drops-australian-news-ban-bows-to-government-regulation/)
+
+
+> In an extraordinary backflip, Facebook announced Tuesday it will reverse its block on Australian users sharing news on its site and accept proposed government media bargaining laws that force it to pay for content. The capitulation came after Prime Minister Scott Morrison called Facebook 'arrogant,' warning against 'Big Tech companies who think they are bigger than governments and that the rules should not apply to them.' Discussions between Treasurer Josh Frydenberg and Facebook boss Mark Zuckerberg have now delivered a result in the government's favor and stemmed the fierce public backlash against the media giant.
+
+
+***
+![PS5 restock: PS5 bundles are back at Game, but there's a queue](https://cdn.mos.cms.futurecdn.net/MzG7h4YQdU279jqQh9z56U-1200-80.jpg "PS5 restock: PS5 bundles are back at Game, but there's a queue")
+
+
+[PS5 restock: PS5 bundles are back at Game, but there's a queue](https://www.techradar.com/news/ps5-restock-ps5-bundles-are-back-at-game-but-theres-a-queue)
+
+
+> (Image credit: Future) If you're searching where to buy PS5, Game has launched a new round of PS5 restocks with a range of bundles on both the PS5 Digital Edition and standard consoles. The PS5 is also available to purchase on its own for £449.99 and the PS5 Digital Edition is £359.99, but expect these to sell out fast.As we've come to expect with Game, there is a queue in place, with wait times varying wildly depending on when you joined. There's also sadly no guarantee that just because you're in the queue that stock will be available once your time is up.
+
+
+***
+![Optional chaining helps to avoid "undefined is not a function" exceptions](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Optional chaining helps to avoid "undefined is not a function" exceptions")
+
+
+[Optional chaining helps to avoid "undefined is not a function" exceptions](https://www.reddit.com/r/programming/comments/lqes0h/optional_chaining_helps_to_avoid_undefined_is_not/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Oppo Find X3 release date leaked, and it's very soon](https://cdn.mos.cms.futurecdn.net/GG3DhtcwoHEpnFvtfoJtLH-1200-80.jpg "Oppo Find X3 release date leaked, and it's very soon")
+
+
+[Oppo Find X3 release date leaked, and it's very soon](https://www.techradar.com/news/oppo-find-x3-release-date-leaked-and-its-very-soon)
+
+
+> The Oppo Find X2 Pro (Image credit: Aakash Jhaveri) The Oppo Find X3 range could feature some of the most exciting high-end phones of the year, and it's almost here. We know that for sure as Oppo has already said the range is being unveiled in March, but we now also have a good idea of exactly what date.According to Jon Prosser (a leaker with a mixed but reasonable track record) the Oppo Find X3 Pro, Oppo Find X3 Lite, and Oppo Find X3 Neo are all being unveiled on March 11, which at the time of writing is only just over two weeks away.
+
+
+***
+![Facebook's Australian news ban to be lifted following 'difficult' talks](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/03/facebook-close-icon-iphone-x-hero.jpg "Facebook's Australian news ban to be lifted following 'difficult' talks")
+
+
+[Facebook's Australian news ban to be lifted following 'difficult' talks](https://www.imore.com/facebooks-australian-news-ban-be-lifted-following-difficult-talks)
+
+
+> Source: iMore Facebook is to restore news access on its platform in Australia following "difficult" negotiations surrounding a new Media Bargaining Law in the country. In an update overnight to changes made last week Facebook stated: We're pleased that we've been able to reach an agreement with the Australian government and appreciate the constructive discussions we've had with Treasurer Frydenberg and Minister Fletcher over the past week. We have consistently supported a framework that would encourage innovation and collaboration between online platforms and publishers.
+
+
