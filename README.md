@@ -32259,3 +32259,53 @@
 > Source: iMore Facebook is to restore news access on its platform in Australia following "difficult" negotiations surrounding a new Media Bargaining Law in the country. In an update overnight to changes made last week Facebook stated: We're pleased that we've been able to reach an agreement with the Australian government and appreciate the constructive discussions we've had with Treasurer Frydenberg and Minister Fletcher over the past week. We have consistently supported a framework that would encourage innovation and collaboration between online platforms and publishers.
 
 
+***
+![Vaccine passports: How Covid documents could help UK venues to reopen after lockdown – and what experts say](https://i.inews.co.uk/content/uploads/2021/02/PRI_183923071.jpg "Vaccine passports: How Covid documents could help UK venues to reopen after lockdown – and what experts say")
+
+
+[Vaccine passports: How Covid documents could help UK venues to reopen after lockdown – and what experts say](https://inews.co.uk/news/technology/vaccine-passports-covid-document-uk-venues-reopen-lockdown-roadmap-explained-883967)
+
+
+> Venues that have been left closed throughout the pandemic could be able to reopen with the use of 'vaccine passports', following the Prime Minister's confirmation of a review into the use of the documents.Boris Johnson on Monday said the Government wanted to determine whether offering 'Covid status certificates' could help venues to open again while delivering his four-part roadmap to easing lockdown restrictions over the coming months. While senior ministers have frequently appeared to dismiss the idea of introducing vaccine passports in the UK, the Prime Minister said a study into the use of vaccine and testing certificates will be one of four reviews conducted as part of easing the current restrictions.
+
+
+***
+![Spotify unveils brand new level of audio quality](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/03/spotify-hulu-3-c5ti.jpg "Spotify unveils brand new level of audio quality")
+
+
+[Spotify unveils brand new level of audio quality](https://www.imore.com/spotify-unveils-brand-new-level-audio-quality)
+
+
+> Source: iMore Spotify subscribers are getting a brand new level of audio quality thanks to Spotify HiFi, coming later this year. In an announcement the company stated: Artists and fans have told us that sound quality is important to them. We agree, and that's why today at Stream On we announced Spotify HiFi. Beginning later this year, Premium subscribers in select markets will be able to upgrade their sound quality to Spotify HiFi and listen to their favorite songs the way artists intended. Spotify says that high-quality streaming is "consistently one of the most requested new features by our users.
+
+
+***
+![Call of Duty Cold War to be released for FREE this week – how to get it](https://www.thesun.co.uk/wp-content/uploads/2021/02/callofduty02-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Call of Duty Cold War to be released for FREE this week – how to get it")
+
+
+[Call of Duty Cold War to be released for FREE this week – how to get it](https://www.thesun.co.uk/tech/14134304/call-of-duty-cold-war-free-season-2-access-week/)
+
+
+> CALL of Duty Cold War is going to be totally free to play for an entire week. It means you can enjoy regular Multiplayer and Zombies. You can enjoy a free week of Call of DutyCredit: Activision You'll also be able to play Warzone as usual. The only part of the game not included is the single-player campaign. You won't need to pay a penny to access the game – you'll just load it up for free like Warzone. The free access week begins at 6pm UK time on March 4. You can play the Multiplayer mode of Cold War without paying a pennyCredit: Activision It's to celebrate the beginning of Call of Duty Cold War 2021 Season 2.
+
+
+***
+![OPPO licenses VOOC flash charging to Anker, Volkswagen, and more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/oppo-reno-4-pro-lifestyle.jpg "OPPO licenses VOOC flash charging to Anker, Volkswagen, and more")
+
+
+[OPPO licenses VOOC flash charging to Anker, Volkswagen, and more](https://www.androidcentral.com/oppos-insane-vooc-flash-charging-tech-coming-anker-volkswagen-and-more)
+
+
+> Source: OPPO OPPO has licensed its VOOC flash charging standard to third-party brands with The Flash Initiative. Anker, Volkswagen, and NXP Semiconductors are the first brands to leverage the fast charging tech. With the move, OPPO's charging tech will make its way to automobiles, public spaces, and even IoT devices. OPPO paved the way for fast charging with its VOOC tech. The standard made its debut back in 2014 on the Find 7, introducing 20W charging speeds. It soon became a mainstay on OPPO phones — and was licensed to OnePlus as Dash Charge and then Warp Charge and Realme.
+
+
+***
+![Clubhouse chatroom app closes down site rebroadcasting content](https://i.guim.co.uk/img/media/2de892c6c6fc6d309529264c0d7bcd12828a5b0d/0_74_7035_4221/master/7035.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b658faecee324d57a5bcba644a779de "Clubhouse chatroom app closes down site rebroadcasting content")
+
+
+[Clubhouse chatroom app closes down site rebroadcasting content](http://www.theguardian.com/technology/2021/feb/23/clubhouse-chatroom-app-closes-down-site-rebroadcasting-content)
+
+
+> Clubhouse, the audio-chatroom app that has emerged as the latest craze to consume Silicon Valley, has shut down a site that was rebroadcasting the platform's content, renewing concerns over the service's ability to promise security and privacy for its users.The app, currently available only on iPhones, allows users to quickly and easily set up and discover panel-style discussions, with a small group of speakers and potentially thousands of listeners in each room. It has been strictly limited since its launch last April, with users requiring an invitation before they can create an account, and initially gained popularity inside the tech and venture capitalist community of the San Francisco Bay area.
+
+
