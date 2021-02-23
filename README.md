@@ -32309,3 +32309,50 @@
 > Clubhouse, the audio-chatroom app that has emerged as the latest craze to consume Silicon Valley, has shut down a site that was rebroadcasting the platform's content, renewing concerns over the service's ability to promise security and privacy for its users.The app, currently available only on iPhones, allows users to quickly and easily set up and discover panel-style discussions, with a small group of speakers and potentially thousands of listeners in each room. It has been strictly limited since its launch last April, with users requiring an invitation before they can create an account, and initially gained popularity inside the tech and venture capitalist community of the San Francisco Bay area.
 
 
+***
+![Your Galaxy Note 20 Ultra deserves the feel of a leather case](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/galaxy-note-20-ultra-leather-case-hero.jpg "Your Galaxy Note 20 Ultra deserves the feel of a leather case")
+
+
+[Your Galaxy Note 20 Ultra deserves the feel of a leather case](https://www.androidcentral.com/best-leather-cases-samsung-galaxy-note-20-ultra)
+
+
+> Best Leather Cases For Samsung Galaxy Note 20 Ultra Android Central 2021 The best Note 20 cases can be found in all different sizes, colors, and shades, but the materials are what truly separate the class acts from the imitators. Plastic feels cheap, metal inhibits wireless charging, and wood can feel lovely but is inflexible. Leather, on the other hand, is luxurious in the hand, easy to work with, and it keeps your phone looking every bit as premium as its price tag. These are the best leather Galaxy Note 20 Ultra cases on the market today.
+
+
+***
+![PS5 DualSense controller experts claim joysticks only have 417 hours of operating life — drift unpreventable](https://cdn.mos.cms.futurecdn.net/THh5po7ovWXhnWj5oXATtP-1200-80.jpg "PS5 DualSense controller experts claim joysticks only have 417 hours of operating life — drift unpreventable")
+
+
+[PS5 DualSense controller experts claim joysticks only have 417 hours of operating life — drift unpreventable](https://www.laptopmag.com/news/ps5-dualsense-controller-experts-claim-joysticks-only-have-417-hours-of-operating-life-drift-unpreventable)
+
+
+> (Image credit: Future) Repair experts have revealed the disappointingly low life cycle expectancy of PS5 DualSense controller, and it all comes down to an age-old joystick module. Unfortunately, it will be quite familiar to those who own other controllers, too. According to a recent teardown on repair site iFixit, the PS5 DualSense Controller uses the same joystick components seen in a PS4 controller, Xbox Series X controller, Nintendo Switch Pro controller and even the very pricey Xbox One Elite controller.
+
+
+***
+![Google Photos advanced editing tools: Here's how to use them](https://images.indianexpress.com/2021/02/Google-Photos-Advanced-Features-ED.jpg "Google Photos advanced editing tools: Here's how to use them")
+
+
+[Google Photos advanced editing tools: Here's how to use them](https://indianexpress.com/article/technology/techook/google-photos-advanced-editing-tools-heres-how-to-use-them-7201517/)
+
+
+> Google Photos has been the default gallery app for some users with stock Android, the go-to media backup tool for others. However, the app has had some neat photo editing tools that have so far been exclusive to the Pixel phones. These tools include Portrait Light, Portrait Blur, and tools that help you manage your media storage.  Now, Google is offering these Pixel-exclusive editing features to all Google Photos users, provided they have a Google One subscription, Android 8 and above, and at least 3GB RAM.
+
+
+***
+[USDJPY trades back above its 200 hour moving average](https://www.forexlive.com/technical-analysis/!/usdjpy-trades-back-above-its-200-hour-moving-average-20210223)
+
+
+> 200 hour moving average, 200 day moving average and 100 hour moving average are lined up on the topside The USDJPY fell back below its 200 hour moving average in trading yesterday. Recall that on Friday, buyers came in against that level and push the price back to the upside. The move below yesterday tilt the bias more to
+
+
+***
+![Crude oil facing a crucial resistance band](https://www.thehindubusinessline.com/portfolio/technical-analysis/commodity-calls/kwsvp0/article33915247.ece/ALTERNATES/LANDSCAPE_615/BL24MCXCrudecol "Crude oil facing a crucial resistance band")
+
+
+[Crude oil facing a crucial resistance band](https://www.thehindubusinessline.com/portfolio/technical-analysis/commodity-calls/crude-oil-facing-a-crucial-resistance-band/article33915248.ece)
+
+
+> The Crude Palm Oil (CPO) continuous futures contract on the Multi Commodity ... The price of zinc futures on Multi Commodity Exchange (MCX) displayed signs ... The futures price of chana on the National Commodity and Derivatives ... Until last week, since the beginning of 2021, the February futures contract ... The February futures of lead on the Multi Commodity Exchange (MCX), which ...  Gaining bullish momentum, the MCX-Natural Gas futures contract has jumped ... Since its March 2020 low of ₹131.
+
+
