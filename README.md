@@ -32450,3 +32450,50 @@
 > Broadband connections were already important. But recently they have revealed to be a vital connection to the world, offering everything from the latest films to meaningful chats with friends.But for all the excitement and joy that your broadband can bring, actually choosing one can be a confusing and somewhat dull exercise. And if you choose the wrong one, it can be even worse, leaving you with loading screens rather than silver screens and dropped connections rather than deep conversations.Thankfully, NOW Broadband is ready to solve all of those issues.
 
 
+***
+![Beat poet Lawrence Ferlinghetti dies at age 101](https://static.reuters.com/resources/r/?m=02&d=20210223&t=2&i=1552642307&r=LYNXMPEH1M1CT&w=800 "Beat poet Lawrence Ferlinghetti dies at age 101")
+
+
+[Beat poet Lawrence Ferlinghetti dies at age 101](https://www.reuters.com/article/us-people-ferlinghetti-idUSKBN2AN28R)
+
+
+> (Reuters) - Poet and publisher Lawrence Ferlinghetti, whose City Lights Bookstore in San Francisco became a West Coast literary haven for Beat Generation writers like Jack Kerouac and Allen Ginsberg, has died at the age of 101, City Lights said on Tuesday.FILE PHOTO: Lawrence Ferlinghetti stands outside his bookstore in San Francisco, California, U.S. August 18, 1998. Stringer/File PhotoFerlinghetti, who played a key role in a free-speech battle after he published Ginsberg's poem 'Howl' in 1956, passed away on Monday evening, said City Lights Books on Twitter, adding 'We love you, Lawrence.
+
+
+***
+![Building a cryptocurrency dashboard using Plotly and Binance API](https://external-preview.redd.it/taCFso8A7y9yLJbjSqaDLx3iVc5mIfKbJKFTp1ywbMk.jpg?auto=webp&s=5bc355a24f394e88b7a52980ac3779b120a3b2dd "Building a cryptocurrency dashboard using Plotly and Binance API")
+
+
+[Building a cryptocurrency dashboard using Plotly and Binance API](https://www.reddit.com/r/Python/comments/lqrn8l/building_a_cryptocurrency_dashboard_using_plotly/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![LinkedIn says working to resolve technical glitch on platform](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "LinkedIn says working to resolve technical glitch on platform")
+
+
+[LinkedIn says working to resolve technical glitch on platform](https://www.reuters.com/article/us-linkedin-outages-idUSKBN2AN28D)
+
+
+> By Reuters Staff(Reuters) - LinkedIn, Microsoft Corp's professional networking site, said on Tuesday it was investigating a technical issue on its platform, after thousands of users reported difficulties in accessing the website.Downdetector, an outage tracking website, showed there were more than 24,000 incidents of people reporting issues with LinkedIn.'We are investigating the issue and working on a resolution,' LinkedIn said.California-based LinkedIn helps employers assess a candidate's suitability for a role and employees use the platform to find new job.
+
+
+***
+[Dr. Seuss](https://www.surfnetkids.com/resources/dr-seuss/)
+
+
+> Theodor Seuss Geisel (1904 -1991), winner of the Pulitzer Prize and three Academy Awards, is best known as Dr. Seuss, author and illustrator of forty-six children’s books. Since his first children’s book in 1936, Dr. Seuss has introduced several generations […]
+
+
+***
+![Here are the best robot vacuums on the market right now](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/07/irobot-roomba-i7-lifestyle.jpg "Here are the best robot vacuums on the market right now")
+
+
+[Here are the best robot vacuums on the market right now](https://www.androidcentral.com/best-robot-vacuums)
+
+
+> Using one of the best robot vacuums to help you keep your house clean may be one of the smartest decisions that you can make right now. Over the past few years, robot vacuums have become much smarter, they last longer, and clean better. Options like the Roborock S4 Max, which happens to top the list of our best robot vacuums, lets you control it with just your voice. You can also set schedules and the sensors help prevent it from just bumping into everything. What are the best robot vacuums you can buy today? There are a LOT of great robot vacuum models that are available right now, and picking the right one can be a difficult task.
+
+
