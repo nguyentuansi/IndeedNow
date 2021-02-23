@@ -31971,3 +31971,50 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Lightning storm lights up night sky](https://content.api.news/v3/images/bin/89813e7ffe670cb0e7adaa919dfc41b0 "Lightning storm lights up night sky")
+
+
+[Lightning storm lights up night sky](https://www.news.com.au/technology/environment/qld-weather-sweltering-heatwave-to-continue-but-more-storms-on-the-way/news-story/f5a469d16125daa53e8bb5e76fada630)
+
+
+> Southeast Queensland has been treated to a late night lightning show, and the bureau warns more rain could be on the way as the Sunshine State swelters through a heatwave.Southeast Queensland has been treated to a late night lightning show as the state swelters through one last summer heatwave. While only 18mm fell in Brisbane overnight, lightning lit up the sky around 11pm, captured by Twitter users, some of whom were woken by the storm. The most rainfall was recorded in Goonburra, south of Toowoomba, measuring 34mm.
+
+
+***
+![Google's Upcoming Pixel 5a Apparently Looks Like the Pixel 5](https://www.droid-life.com/wp-content/uploads/2021/02/Pixel-5a-Render-1-980x644.jpg "Google's Upcoming Pixel 5a Apparently Looks Like the Pixel 5")
+
+
+[Google's Upcoming Pixel 5a Apparently Looks Like the Pixel 5](https://www.droid-life.com/2021/02/22/googles-upcoming-pixel-5a-apparently-looks-like-the-pixel-5/)
+
+
+> Rumors and leaks surrounding a potential 2021 line-up of Google Pixel phones haven’t been as free flowing as in years past. By this time last year, we had seen renders of the Pixel 4a and would be days away from a full device reveal. Today, we may be getting a first render of an upcoming … Continued Read the original post: Google’s Upcoming Pixel 5a Apparently Looks Like the Pixel 5
+
+
+***
+![Liberty Media Corporation to Present at Morgan Stanley Technology, Media and Telecom Conference](https://mms.businesswire.com/media/20210222005969/en/262528/21/Liberty_logo_high_def.jpg "Liberty Media Corporation to Present at Morgan Stanley Technology, Media and Telecom Conference")
+
+
+[Liberty Media Corporation to Present at Morgan Stanley Technology, Media and Telecom Conference](https://www.businesswire.com/news/home/20210222005969/en/Liberty-Media-Corporation-to-Present-at-Morgan-Stanley-Technology-Media-and-Telecom-Conference)
+
+
+> February 22, 2021 07:03 PM Eastern Standard Time ENGLEWOOD, Colo.--(BUSINESS WIRE)--Liberty Media Corporation (NASDAQ: LSXMA, LSXMB, LSXMK, FWONA, FWONK, BATRA, BATRK) announced that Greg Maffei, President and CEO of Liberty Media Corporation, will be presenting at the Morgan Stanley Technology, Media and Telecom Conference on Monday, March 1st at 4:15 p.m. E.S.T. During his presentation, Mr. Maffei may make observations regarding the company's financial performance and outlook, as well as other forward-looking matters.
+
+
+***
+![Liberty Broadband Corporation to Present at Morgan Stanley Technology, Media and Telecom Conference](https://mms.businesswire.com/media/20210222005964/en/440092/21/Logo-Broadband_4c.jpg "Liberty Broadband Corporation to Present at Morgan Stanley Technology, Media and Telecom Conference")
+
+
+[Liberty Broadband Corporation to Present at Morgan Stanley Technology, Media and Telecom Conference](https://www.businesswire.com/news/home/20210222005964/en/Liberty-Broadband-Corporation-to-Present-at-Morgan-Stanley-Technology-Media-and-Telecom-Conference)
+
+
+> February 22, 2021 07:02 PM Eastern Standard Time ENGLEWOOD, Colo.--(BUSINESS WIRE)--Liberty Broadband Corporation (Nasdaq: LBRDA, LBRDK, LBRDP) announced that Greg Maffei, President and CEO of Liberty Broadband Corporation, will be presenting at the Morgan Stanley Technology, Media and Telecom Conference on Monday, March 1st at 4:15 p.m. E.S.T. During his presentation, Mr. Maffei may make observations regarding the company's financial performance and outlook, as well as other forward looking matters.
+
+
+***
+[The Apple dilemma for Japan's car industry](https://www.ft.com/content/63ca45a9-12fe-498d-ac99-a20b59d6ea8b)
+
+
+> Let our global subject matter experts broaden your perspective with timely insights and opinions you can't find anywhere else. Choose your subscription Full Terms and Conditions apply to all Subscriptions. Learn more and compare subscriptions
+
+
