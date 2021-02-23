@@ -32356,3 +32356,47 @@
 > The Crude Palm Oil (CPO) continuous futures contract on the Multi Commodity ... The price of zinc futures on Multi Commodity Exchange (MCX) displayed signs ... The futures price of chana on the National Commodity and Derivatives ... Until last week, since the beginning of 2021, the February futures contract ... The February futures of lead on the Multi Commodity Exchange (MCX), which ...  Gaining bullish momentum, the MCX-Natural Gas futures contract has jumped ... Since its March 2020 low of ₹131.
 
 
+***
+![How to watch 'MTV Unplugged presents BTS' live stream from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/mtv-unplugged-bts-hero.jpg "How to watch 'MTV Unplugged presents BTS' live stream from anywhere")
+
+
+[How to watch 'MTV Unplugged presents BTS' live stream from anywhere](https://www.androidcentral.com/how-watch-mtv-unplugged-presents-bts-stream-dynamite-performance-anywhere)
+
+
+> BTS is heading to the MTV Unplugged stage for an acoustic performance of songs from the group's latest album, Be. The iconic MTV series which has overseen famous musicians stripping back their songs for intimate performances since the late 1980s may not debut new episodes all that often anymore, though this month's event is certain to be a blast. Jin, Suga, J-Hope, RM, Jimin, V, and Jungkook will be performing a collection of their hit songs like "Dynamite" straight from Seoul, South Korea, though thanks to MTV Unplugged, fans from all over the world will be able to watch their performance live.
+
+
+***
+![Apple iPhone history: the evolution of the smartphone that started it all](https://m-cdn.phonearena.com/images/article/98169-two_1200/Apple-iPhone-history-the-evolution-of-the-smartphone-that-started-it-all.jpg "Apple iPhone history: the evolution of the smartphone that started it all")
+
+
+[Apple iPhone history: the evolution of the smartphone that started it all](https://www.phonearena.com/news/Apple-iPhone-history-evolution-every-model-list_id98169)
+
+
+> The history of the Apple iPhone starts in 2007 when Steve Jobs took the world by surprise with the announcement of a mysterious 3-in-1 device that for the first time combined an iPod music player, an Internet communication device and a traditional phone: the original Apple iPhone.And while the iPhone has changed a lot since its inception, the foundation that was laid at the start was a solid one that ensured success for the years to come. Every iPhone would deliver predictably smooth performance, a recognizable, easy to use interface, a focus on privacy and come with a set of features that would make it stand out.
+
+
+***
+![Alpha Capital's SPAC Closes $230 Million IPO on Nasdaq](https://mms.businesswire.com/media/20210223005852/en/860785/23/Alpha_Capital%27s_founders_and_sponsors_Rafael_Steinhauser_and_Alec_Oxenford.jpg "Alpha Capital's SPAC Closes $230 Million IPO on Nasdaq")
+
+
+[Alpha Capital's SPAC Closes $230 Million IPO on Nasdaq](https://www.businesswire.com/news/home/20210223005852/en/Alpha-Capital%E2%80%99s-SPAC-Closes-230-Million-IPO-on-Nasdaq)
+
+
+> NEW YORK--(BUSINESS WIRE)--Alpha Capital announced today that it has closed its $230 million initial public offering on the Nasdaq Capital Market ('Nasdaq'), trading under the ticker symbol 'ASPCU'. The special purpose acquisition company ('SPAC') will use the funds to seek a business combination with a Latin American-focused technology company. Alpha announced pricing last Thursday. There are over 20,000 technology companies in that region according to Crunchbase. While they have generally been funded by a growing local network of early-stage investors, later-stage capital has been far less available in Latin America, which has limited growth opportunities.
+
+
+***
+[The Apple Store glossary](https://departmentmap.store)
+
+
+> This is a nice little resource, built and maintained by Michael Steeber, worth a moment of your time. In a nutshell, it's a deep dive into all the elements that make up the Apple Store. For example, follow the headline link, tap on Boardroom, you'll go to a page that introduces the concept of an Apple Store's Boardroom (have you ever seen one?), with a few images, and a link to a detailed Boardroom article.∞ Read this on The Loop
+
+
+***
+[Apple Pay finally launches in Mexico](https://www.idownloadblog.com/2021/02/23/apple-pay-mexico-launch/)
+
+
+> After an extended wait, Apple Pay is finally available in Mexico.
+
+
