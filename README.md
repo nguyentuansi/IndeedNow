@@ -32162,3 +32162,50 @@
 > Music streaming service Spotify announced that it will be rolling out its premium subscription service Spotify HiFi later this year. The announcement was made by the company during its virtual event,'Stream On'. Spotify says that their new high-end service will offer music in 'CD-quality, lossless audio format.' The livestream also included popular singer Billie Eilish and singer-songwriter Finneas explaining what high-quality video provides. Spotify has not revealed the specific time of release or the increased subscription amount users will have to pay if they wish to upgrade.
 
 
+***
+![Realme says will launch two flagship phones a year going forward](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/realme_gt_5g_racing_yellow-647x363.jpeg?.dfCSQ6FcFN.DdHykn7.viNhyWnyXQcR "Realme says will launch two flagship phones a year going forward")
+
+
+[Realme says will launch two flagship phones a year going forward](https://www.indiatoday.in/technology/news/story/realme-says-will-launch-two-flagship-phones-a-year-going-forward-1772126-2021-02-23)
+
+
+> Realme will launch GT 5G on March 4 but another flagship later.One flagship will have a Qualcomm processor while one will rock a MediaTek chipset.This new strategy is called "Dual-platform, Dual-flagship".Realme has announced it will launch two flagship smartphones in a year going forward. This would mean the upcoming Realme GT 5G will have some company by another phone with just as powerful specifications later this year. But what will set these two flagships apart will be the chipset powering them.
+
+
+***
+![Ynvisible & SpotSee Announce Collaboration to Bring New Temperature Indication Solutions To Market](https://mms.businesswire.com/media/20210223005158/en/860468/23/5fce402d04bbd804a32108f3_LCR-tempsafe.jpg "Ynvisible & SpotSee Announce Collaboration to Bring New Temperature Indication Solutions To Market")
+
+
+[Ynvisible & SpotSee Announce Collaboration to Bring New Temperature Indication Solutions To Market](https://www.businesswire.com/news/home/20210223005158/en/Ynvisible-SpotSee-Announce-Collaboration-to-Bring-New-Temperature-Indication-Solutions-To-Market)
+
+
+> February 23, 2021 03:00 AM Eastern Standard Time VANCOUVER, British Columbia--(BUSINESS WIRE)--Ynvisible Interactive Inc. (the "Company" or "Ynvisible") (TSX-V: YNV, FSE: 1XNA, OTCQB: YNVYF) announces its first customer collaboration to bring new temperature indication solutions to market with SpotSee, the global leader in shock, vibration and temperature monitoring through low-cost connectivity and data. Both companies are partners in the CHARISMA project, funded by The European Union, Horizon 2020 Marie Skłodowska-Curie Actions program.
+
+
+***
+[Tata Safari Launched in India at Rs 14.69 Lakh](https://www.thequint.com/tech-and-auto/tata-safari-launched-in-india-at-rs-1469-lakh)
+
+
+> The new Tata Safari flagship SUV is available in the price bracket of Rs14.69 lakh - 21.45 lakh.
+
+
+***
+![SES Networks Transforms Cruise Market Again as Leading Cruise Companies Choose O3b mPOWER for Enhanced Connected Guest Experiences](https://mms.businesswire.com/media/20210222006011/en/860552/23/SES_Press_Release_Cruise_image.jpg "SES Networks Transforms Cruise Market Again as Leading Cruise Companies Choose O3b mPOWER for Enhanced Connected Guest Experiences")
+
+
+[SES Networks Transforms Cruise Market Again as Leading Cruise Companies Choose O3b mPOWER for Enhanced Connected Guest Experiences](https://www.businesswire.com/news/home/20210222006011/en/SES-Networks-Transforms-Cruise-Market-Again-as-Leading-Cruise-Companies-Choose-O3b-mPOWER-for-Enhanced-Connected-Guest-Experiences)
+
+
+> February 23, 2021 02:50 AM Eastern Standard Time LUXEMBOURG--(BUSINESS WIRE)--Four of the top five major cruise companies have entered into long-term strategic framework agreements, with the majority extending through 2026 and beyond, for services delivered over SES's next-generation O3b mPOWER communications system, SES announced today. These agreements will enable enhanced connectivity experiences onboard their current fleets as well as ships planned as part of their extensive new-build programmes, and result in a backlog of over EUR 220 million.
+
+
+***
+![NHK WORLD-JAPAN Extends Multi-year Contract with SES on ASTRA 19.2 Degrees East](https://mms.businesswire.com/media/20210222006009/en/860565/23/SES_Press_Release_NHK_World_Japan_image.jpg "NHK WORLD-JAPAN Extends Multi-year Contract with SES on ASTRA 19.2 Degrees East")
+
+
+[NHK WORLD-JAPAN Extends Multi-year Contract with SES on ASTRA 19.2 Degrees East](https://www.businesswire.com/news/home/20210222006009/en/NHK-WORLD-JAPAN-Extends-Multi-year-Contract-with-SES-on-ASTRA-19.2-Degrees-East)
+
+
+> February 23, 2021 02:50 AM Eastern Standard Time LUXEMBOURG--(BUSINESS WIRE)--Japan International Broadcasting Inc. (JIB), a subsidiary of Japan's sole public broadcaster NHK and official distributor of NHK WORLD-JAPAN, has renewed its multi-year contract with SES for satellite capacity. The agreement will permit NHK's free-to-air, English-language news and information channel in High Definition (HD) to continue to be distributed in SES's prime orbital neighbourhood at 19.2 degrees East to over 45 million satellite TV-equipped homes across Europe.
+
+
