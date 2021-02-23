@@ -32497,3 +32497,47 @@
 > Using one of the best robot vacuums to help you keep your house clean may be one of the smartest decisions that you can make right now. Over the past few years, robot vacuums have become much smarter, they last longer, and clean better. Options like the Roborock S4 Max, which happens to top the list of our best robot vacuums, lets you control it with just your voice. You can also set schedules and the sensors help prevent it from just bumping into everything. What are the best robot vacuums you can buy today? There are a LOT of great robot vacuum models that are available right now, and picking the right one can be a difficult task.
 
 
+***
+![The Best Time to Buy a Laptop (And the Worst Time to Buy)](https://icdn4.digitaltrends.com/image/digitaltrends/intel-ces-2021-h-series-laptops-1200x630-c-ar1.91.jpg "The Best Time to Buy a Laptop (And the Worst Time to Buy)")
+
+
+[The Best Time to Buy a Laptop (And the Worst Time to Buy)](https://www.digitaltrends.com/computing/best-time-to-buy-a-laptop/)
+
+
+> Take a scan of our top laptop recommendations, and you'll see that most prices vary between $600 and $1,500. That's a fair chunk of change to drop on a new device, so we understand if you are interested in any available discounts. While laptops have discount schedules similar to major appliances like a fridge or TV, there are also key differences. Here are the best times to pick up a new laptop to save, and when you really shouldn't be buying something new. Best times to buy a laptop Back-to-school deals The best annual laptop deals, especially for highly portable laptops, frequently happen during the back-to-school days, when discounts are focused on students and the supplies they'll need.
+
+
+***
+![Tech Leaders Aisera and Cloud MSG Partner to 'Break' Service Model on Global Scale](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Tech Leaders Aisera and Cloud MSG Partner to 'Break' Service Model on Global Scale")
+
+
+[Tech Leaders Aisera and Cloud MSG Partner to 'Break' Service Model on Global Scale](https://www.benzinga.com/pressreleases/21/02/n19810222/tech-leaders-aisera-and-cloud-msg-partner-to-break-service-model-on-global-scale)
+
+
+> PALO ALTO, Calif., Feb. 23, 2021 /PRNewswire/ -- Tech leader Cloud MSG touts working with Google, Dell, Microsoft, and others and now enters a trailblazing partnership with Aisera, an artificial intelligence leader of AI Service Management solutions. The two companies unite to offer a next-generation managed service deployable in any IT organization. This plug-and-play solution uses existing infrastructure to bring the benefits of Conversational AI and RPA to any size enterprise. Aisera is an established market leader in the fields of Conversational AI, Workflow Automation and Orchestration, offering the only pure-play artificial intelligence.
+
+
+***
+[How major US stock indexes fared Tuesday](https://www.mymotherlode.com/news/technology/1559723/how-major-us-stock-indexes-fared-tuesday-4.html)
+
+
+> A late burst of buying erased much of an early slide on Wall Street Tuesday
+
+
+***
+![The Best Stimulus Idea Democrats Are Leaving On The Table](https://images.digg.com/aHR0cHM6Ly9jZG4uZGlnZy5jb20vc3VibWl0dGVkLWxpbmtzLzE2MTQxMTcxMDdiLmpwZw-730-400.jpg "The Best Stimulus Idea Democrats Are Leaving On The Table")
+
+
+[The Best Stimulus Idea Democrats Are Leaving On The Table](https://digg.com/vox/link/the-best-stimulus-idea-democrats-are-leaving-on-the-table-U6M3Bq4HQI)
+
+
+> No body in the article.
+
+
+***
+[Draft executive order from Biden admin orders development of a US supply chain strategy less reliant on China, focused on chips, batteries, rare-earth metals (Nikkei Asia)](http://www.techmeme.com/210223/p36#a210223p36)
+
+
+> Nikkei Asia: Draft executive order from Biden admin orders development of a US supply chain strategy less reliant on China, focused on chips, batteries, rare-earth metals — Exclusive: Biden to sign presidential order to bolster chip, battery and rare-earth industries — WASHINGTON/TAIPEI …
+
+
