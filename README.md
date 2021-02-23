@@ -32118,3 +32118,47 @@
 > SINGAPORE - Chinese phone maker Huawei on Tuesday (Feb 23) launched a US$40 million (S$52.8 million) regional centre here - its first in Asia-Pacific - that lets developers test apps and services for its mobile devices. The centre, dubbed a DigiX Lab, will provide online and offline consultation for developers, and hands-on support in app development using augmented and virtual reality, artificial intelligence, software to port apps to Huawei devices, and other technologies. The launch comes amid a United States ban on Huawei since May 2019 that limits its ability to use American tech giant Google's services and apps, like the Google Play app store, for its products.
 
 
+***
+![Disney Plus gets bigger as Star lands on streaming service today](https://images.immediate.co.uk/production/volatile/sites/3/2021/02/star_on_disney_plus-1-d60c7a4.jpg?quality=90&crop=9px,71px,1533px,1021px&resize=620,413 "Disney Plus gets bigger as Star lands on streaming service today")
+
+
+[Disney Plus gets bigger as Star lands on streaming service today](https://www.radiotimes.com/technology/disney-plus-star-released-today/)
+
+
+> With Disney and Pixar's entire back catalogue and both Star Wars and Marvel franchises included in the package, you're hardly short of things to watch on Disney Plus. But cartoons, capes and clone troopers aren't everyone's cup of tea – and that's an issue Disney seems keen to rectify in its ever-increasing remit. That's because, today, the company has launched a brand-new tier of service called Star on Disney Plus – one that's aimed specifically at a grown-up audience. If you're already a Disney Plus subscriber, the good news is that you don't need to do anything: Star isn't a bolt-on service.
+
+
+***
+![Samsung to support security updates for Galaxy devices for at least 4 yrs](https://cdn.mos.cms.futurecdn.net/ppA2F74WspKYxTzfTAu5VL-1200-80.jpg "Samsung to support security updates for Galaxy devices for at least 4 yrs")
+
+
+[Samsung to support security updates for Galaxy devices for at least 4 yrs](https://www.techradar.com/news/samsung-to-support-security-updates-for-galaxy-devices-for-at-least-4-yrs)
+
+
+> Samsung Electronics has announced that it would provide security updates for Galaxy mobile devices "for a minimum of four years after the initial phone release"Samsung offers along with Samsung Knox, its defense-grade security platform, the embedded Secure Element (eSE) a Secure Processor to protect against physical attacks; and the recently introduced Knox Vault, which adds another layer of security.Samsung said more than 130 models released after 2019 are subject to its regular security updates.
+
+
+***
+[Huawei Mate X2 smartphone costs whopping Rs 2 lakh+?; Check what is special](https://www.zeebiz.com/technology/mobiles/news-huawei-mate-x2-smartphone-costs-whopping-rs-2-lakh-check-what-is-special-150565)
+
+
+> Chinese tech giant launched its latest foldable flagship the Huawei Mate X2 which is the successor to the Mate X that was launched back in 2019.
+
+
+***
+[Facebook will restore news in Australia after talks with the government](https://ktvz.com/lifestyle/technology/2021/02/22/facebook-will-restore-news-in-australia-after-talks-with-the-government/)
+
+
+> Facebook says it will restore news pages in Australia after a breakthrough in talks with the government. The announcement caps month of bitter dispute between the American tech firm and Canberra, which had been working on legislation that would force tech platforms to pay news publishers for content. The agreement 'will allow us to support the publishers we choose to, including small and local publishers,' said Campbell Brown, Facebook's vice president for global news partnerships, in a statement.
+
+
+***
+![Spotify HiFi is a more premium streaming service launching later this year: Here's what it will offer](https://images.indianexpress.com/2020/12/365199993.png "Spotify HiFi is a more premium streaming service launching later this year: Here's what it will offer")
+
+
+[Spotify HiFi is a more premium streaming service launching later this year: Here's what it will offer](https://indianexpress.com/article/technology/tech-news-technology/what-is-spotifiy-hifi-stream-service-launch-subscription-7199838/)
+
+
+> Music streaming service Spotify announced that it will be rolling out its premium subscription service Spotify HiFi later this year. The announcement was made by the company during its virtual event,'Stream On'. Spotify says that their new high-end service will offer music in 'CD-quality, lossless audio format.' The livestream also included popular singer Billie Eilish and singer-songwriter Finneas explaining what high-quality video provides. Spotify has not revealed the specific time of release or the increased subscription amount users will have to pay if they wish to upgrade.
+
+
