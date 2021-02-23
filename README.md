@@ -32068,3 +32068,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Today at Apple is launching virtual Product Skills sessions for everyone](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/today-at-apple-at-home.jpg "Today at Apple is launching virtual Product Skills sessions for everyone")
+
+
+[Today at Apple is launching virtual Product Skills sessions for everyone](https://www.imore.com/today-apple-launching-virtual-product-skills-sessions-everyone)
+
+
+> Source: Apple As reported by 9to5Mac, Today at Apple is making some of its creative sessions available virtually to anyone. Starting in March, the company will offer basic sessions on the iPhone, iPad, and Mac online for any customers to attend. The sessions, according to Apple, are perfect for those who are new to a device, upgraded to a new design, or just want a refresher. Apple says the virtual versions of its popular Product Skills sessions are designed for those who are new to their device, have recently upgraded, or simply want to learn more on how to get the most out of their iPhone, iPad, or Mac.
+
+
+***
+![#TECH: TM One to provide end-to-end solutions to support Govt agencies' digital journey](https://assets.nst.com.my/images/articles/botstmone_NSTfield_image_socialmedia.var_1614051300.jpg "#TECH: TM One to provide end-to-end solutions to support Govt agencies' digital journey")
+
+
+[#TECH: TM One to provide end-to-end solutions to support Govt agencies' digital journey](https://www.nst.com.my/lifestyle/bots/2021/02/668172/tech-tm-one-provide-end-end-solutions-support-govt-agencies-digital)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Tesla rival Lucid Motors to go public in $11.8 billion blank-check merger](https://i-invdn-com.akamaized.net/news/LYNXMPED5Q0VX-ORUTP_L.jpg "Tesla rival Lucid Motors to go public in $11.8 billion blank-check merger")
+
+
+[Tesla rival Lucid Motors to go public in $11.8 billion blank-check merger](https://www.investing.com/news/technology-news/ev-maker-lucid-motors-to-go-public-via-michael-kleinbacked-blankcheck-firm-2426204)
+
+
+> © Reuters. Lucid Air speed test car displayed at the 2017 New York International Auto Show in New York (Reuters) - Luxury electric vehicle maker Lucid Motors on Monday agreed to go public by merging with blank-check firm Churchill Capital IV Corp in a deal that valued the combined company at $11.75 billion. Lucid, run by an ex-Tesla engineer, is the latest firm to tap the initial public offering market, with investors rushing into the EV sector, spurred by the rise of Tesla (NASDAQ:) Inc and with emissions regulations toughening in Europe and elsewhere.
+
+
+***
+![Luxury EV maker Lucid Motors to go public in $11.75 billion blank-check merger](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/lucidmotors-cropped-920p.jpg?ve=1&tl=1 "Luxury EV maker Lucid Motors to go public in $11.75 billion blank-check merger")
+
+
+[Luxury EV maker Lucid Motors to go public in $11.75 billion blank-check merger](https://www.foxbusiness.com/technology/luxury-ev-maker-lucid-motors-to-go-public-in-11-75-billion-blank-check-merger)
+
+
+> Luxury electric vehicle maker Lucid Motors on Monday agreed to go public by merging with blank-check firm Churchill Capital IV Corp in a deal that valued the combined company at $11.75 billion.CCIV, which is backed by Wall Street dealmaker and former Citigroup banker Michael Klein, and new private investors are getting shares at different prices, with the newer private investors paying a premium.The publicly traded shares of CCIV fell nearly a third to $40.35 in volatile extended trading, giving the merged company a market capitalization of about $64 billion.
+
+
+***
+![Huawei launches US$40m regional centre in S'pore to support phone app development](https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/23/af_huawei_2302_0_0.jpg?itok=KupAEkbG "Huawei launches US$40m regional centre in S'pore to support phone app development")
+
+
+[Huawei launches US$40m regional centre in S'pore to support phone app development](https://www.straitstimes.com/tech/tech-news/huawei-launches-us40m-regional-centre-in-spore-to-support-app-development-for-its)
+
+
+> SINGAPORE - Chinese phone maker Huawei on Tuesday (Feb 23) launched a US$40 million (S$52.8 million) regional centre here - its first in Asia-Pacific - that lets developers test apps and services for its mobile devices. The centre, dubbed a DigiX Lab, will provide online and offline consultation for developers, and hands-on support in app development using augmented and virtual reality, artificial intelligence, software to port apps to Huawei devices, and other technologies. The launch comes amid a United States ban on Huawei since May 2019 that limits its ability to use American tech giant Google's services and apps, like the Google Play app store, for its products.
+
+
