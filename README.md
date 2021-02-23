@@ -32400,3 +32400,53 @@
 > After an extended wait, Apple Pay is finally available in Mexico.
 
 
+***
+![These Oculus Quest 2 workout accessories will keep it clean and you healthy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/vr-cover-quest-2-controller-grips-halo-protector-05.jpg "These Oculus Quest 2 workout accessories will keep it clean and you healthy")
+
+
+[These Oculus Quest 2 workout accessories will keep it clean and you healthy](https://www.androidcentral.com/best-oculus-quest-2-workout-accessories)
+
+
+> Best Oculus Quest 2 Workout Accessories Android Central 2021 The main perk of VR workouts is that you don't need to buy gym equipment or even go outside to burn calories; all you need is your headset! Yet without the right tools, you're liable to turn your Oculus Quest 2 into a sweaty, germy mess, or even potentially damage your equipment or injure yourself. Here are the best VR workout accessories that'll make your daily indoor fitness routine that much cleaner, safer, and more fun. Most active VR games involve lots of punching and swiping, making you tightly hold the Touch controllers for long periods of time.
+
+
+***
+![Best Pixel 5 deals of February 2021: Where to buy Google's new phone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/google-pixel-5-and-pixel-4a-5g-family.jpg "Best Pixel 5 deals of February 2021: Where to buy Google's new phone")
+
+
+[Best Pixel 5 deals of February 2021: Where to buy Google's new phone](https://www.androidcentral.com/best-pixel-5-deals)
+
+
+> It's never too soon to start saving. Sure, the Google Pixel 5 is still brand new, but thanks to carriers and stores competing for your business, it's usually not too difficult to find an early discount on a popular product such as this. Pixel 5 deals may be limited at first, but we expect we'll be seeing plenty of offers in no time with carrier discounts arriving first and deals on unlocked devices following. Of course, if the Pixel 5 is out of your price range, there are also some stellar Pixel 4a deals available right now.
+
+
+***
+![Best Pixel 4a Deals of February 2021: Where to buy Google's new phone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/pixel-4a-alex-google-launcher-assistant.jpg "Best Pixel 4a Deals of February 2021: Where to buy Google's new phone")
+
+
+[Best Pixel 4a Deals of February 2021: Where to buy Google's new phone](https://www.androidcentral.com/best-google-pixel-4a-deals)
+
+
+> Google's Pixel smartphones are some of the best Android devices ever released, but if you're hoping to get your hands on one of these stellar devices at a discount, you should first take a look at the recently released Google Pixel 4a models. This model takes the best features of the Google Pixel 4 and places them in a more affordable package. Snagging a great deal on one isn't so tough either; we've gathered the best offers available right now and put them in a list just below. Then again, there are some excellent Pixel 5 deals to consider too if you'd rather purchase an upgraded model.
+
+
+***
+![Elon Musk reveals Starlink space internet will be 10 TIMES faster than broadband this year – and it's live in UK and US](https://www.thesun.co.uk/wp-content/uploads/2021/02/NINTCHDBPICT000583147706-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Elon Musk reveals Starlink space internet will be 10 TIMES faster than broadband this year – and it's live in UK and US")
+
+
+[Elon Musk reveals Starlink space internet will be 10 TIMES faster than broadband this year – and it's live in UK and US](https://www.thesun.co.uk/tech/14139850/elon-musk-starlink-satellite-speeds/)
+
+
+> SKY NET Charlotte Edwards, Digital Technology and Science Reporter23 Feb 2021, 17:57Updated: 23 Feb 2021, 17:57ELON Musk has revealed his Starlink satellite internet service will be 10 times faster than broadband by the end of the year. The billionaire CEO revealed the news in a tweeted response to a Starlink customer. Speed will double to ~300Mb/s & latency will drop to ~20ms later this year— Elon Musk (@elonmusk) February 22, 2021 The customer tweeted a picture of their Starlink dish setup. Musk responded: "Speed will double to ~300Mb/s & latency will drop to ~20ms later this year.
+
+
+***
+![Fab Fibre and Super Fibre Broadband Deals from Now Broadband: High speeds at great prices](https://static.standard.co.uk/2021/02/17/17/hub_front.png?width=1200&width=1200&auto=webp&quality=75 "Fab Fibre and Super Fibre Broadband Deals from Now Broadband: High speeds at great prices")
+
+
+[Fab Fibre and Super Fibre Broadband Deals from Now Broadband: High speeds at great prices](https://www.standard.co.uk/tech/fibre-super-fibre-broadband-deals-now-tv-high-speeds-great-prices-b920098.html)
+
+
+> Broadband connections were already important. But recently they have revealed to be a vital connection to the world, offering everything from the latest films to meaningful chats with friends.But for all the excitement and joy that your broadband can bring, actually choosing one can be a confusing and somewhat dull exercise. And if you choose the wrong one, it can be even worse, leaving you with loading screens rather than silver screens and dropped connections rather than deep conversations.Thankfully, NOW Broadband is ready to solve all of those issues.
+
+
