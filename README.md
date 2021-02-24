@@ -32735,3 +32735,53 @@
 > ICICI Securities says that India is amongst the fastest growing digital economies in the world. Digital economy growth will be within a range of 4-8% of GDP for India according to various estimates. However, given the trajectory in internet data consumption and proliferation of various digital platforms, this number could have risen significantly.
 
 
+***
+![Realme Narzo 30 Pro launched as cheapest 5G phone in India alongside Narzo 30A](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/euaa_a2vcaen9ot_1-483x271_1200_210224133511.jpeg "Realme Narzo 30 Pro launched as cheapest 5G phone in India alongside Narzo 30A")
+
+
+[Realme Narzo 30 Pro launched as cheapest 5G phone in India alongside Narzo 30A](https://www.indiatoday.in/technology/news/story/realme-narzo-30-pro-launched-as-cheapest-5g-phone-in-india-alongside-narzo-30a-1772470-2021-02-24)
+
+
+> Realme has launched the new Narzo 30 series phones in India and this time is it is just the two of them.Shubham Verma | February 24, 2021 | Updated 13:34 IST Realme Narzo 30 Pro
+
+
+***
+![VidMob Raises $50 Million Series C to Accelerate Broad Adoption of its Platform for Intelligent Creative](https://mms.businesswire.com/media/20210224005246/en/860755/23/VidMob_Wordmark_Black_RGB.jpg "VidMob Raises $50 Million Series C to Accelerate Broad Adoption of its Platform for Intelligent Creative")
+
+
+[VidMob Raises $50 Million Series C to Accelerate Broad Adoption of its Platform for Intelligent Creative](https://www.businesswire.com/news/home/20210224005246/en/VidMob-Raises-50-Million-Series-C-to-Accelerate-Broad-Adoption-of-its-Platform-for-Intelligent-Creative)
+
+
+> February 24, 2021 03:00 AM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--VidMob, the leading platform for Intelligent Creative, announced today that it has closed its Series C financing, raising $50 million in expansion capital from a group of funds, strategic investors, and influential companies in the creative technology space. The new round will support VidMob's global expansion, new e-commerce initiatives, ongoing investments into advanced technology, and data science to help marketers maximize the value of advertising creative.
+
+
+***
+![CybelAngel Reveals How Cybercriminals Target Healthcare Sector](https://mms.businesswire.com/media/20210224005385/en/860951/23/cybelangel_logo.jpg "CybelAngel Reveals How Cybercriminals Target Healthcare Sector")
+
+
+[CybelAngel Reveals How Cybercriminals Target Healthcare Sector](https://www.businesswire.com/news/home/20210224005385/en/CybelAngel-Reveals-How-Cybercriminals-Target-Healthcare-Sector)
+
+
+> February 24, 2021 03:00 AM Eastern Standard Time PARIS & NEW YORK--(BUSINESS WIRE)--CybelAngel, a global leader in digital risk protection, today published in-depth original research revealing how cybercriminals plan healthcare-related fraud, ransomware and other attacks by obtaining stolen credentials, leaked database files and other materials from specialized sources in the cybercrime underground. In their new paper, 'Healthcare Data Actively Targeted and Sold on the Dark Web,' CybelAngel analysts describe how the ongoing COVID-19 pandemic's strain on hospitals, coupled with the healthcare industry's porous cybersecurity defenses, give criminals ample ability and resources to methodically launch lucrative intrusions jeopardizing patient safety.
+
+
+***
+![#TECH: Lenovo's new Yoga series laptops feature smarter innovation and design](https://assets.nst.com.my/images/articles/BOTSyogaseries_NSTfield_image_socialmedia.var_1614153237.jpg "#TECH: Lenovo's new Yoga series laptops feature smarter innovation and design")
+
+
+[#TECH: Lenovo's new Yoga series laptops feature smarter innovation and design](https://www.nst.com.my/lifestyle/bots/2021/02/668605/tech-lenovos-new-yoga-series-laptops-feature-smarter-innovation-and)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Google's Android update brings features such as ability to schedule text messages and more](https://images.indianexpress.com/2021/02/schedule-text-message.jpg "Google's Android update brings features such as ability to schedule text messages and more")
+
+
+[Google's Android update brings features such as ability to schedule text messages and more](https://indianexpress.com/article/technology/tech-news-technology/google-android-update-spring-2021-rollout-apps-6-maps-google-maps-dark-mode-schedule-send-text-messages-7202470/)
+
+
+> Google has added new features to Android. The latest update will help improve battery life, and gives users the ability to do more with their smartphones and go hands-free. The rollout of these features has already begun worldwide. In order to access these features ensure that your apps are updated or look for an update on Google Play Store. Better password security on Google account Google has integrated Password Checkup with your Google accounts. This feature will help users know whether the password used previously has been exposed or not.
+
+
