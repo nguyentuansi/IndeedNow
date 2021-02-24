@@ -32835,3 +32835,53 @@
 > (Image credit: Future) When it rains it pours, and it seems when one gaming smartphone is teased, they all seemingly are; we've now heard about three gaming smartphones over the last week.Just days after the Nubia Red Magic 6 launch was scheduled for March 4 and the Asus ROG Phone 5 event was penciled in for March 10, Lenovo has given us a first glimpse at its newest games-focused smartphone.In a post on Chinese social media platform Weibo, a new Lenovo gaming smartphone was teased. This is presumably a follow-up to the Lenovo Legion Phone Duel, which (at time of writing) tops our list of the best smartphones for gaming.
 
 
+***
+![Funky electronics chain Fry's is no more](https://www.wftv.com/resizer/YYZDf4JdSgjEwuSVKq3j2Udswnw=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/HNMMCTH26YEPT7OGIBXBFGNLHY.jpg "Funky electronics chain Fry's is no more")
+
+
+[Funky electronics chain Fry's is no more](https://www.wftv.com/news/technology/funky-electronics-chain-frys-is-no-more/XDHRHUODJ3CP6WXTZM7FDYDDWA/)
+
+
+> The company, perhaps even more well known for outlandish themes at some of its stores, from Aztec to "Alice's Adventures in Wonderland," said Wednesday in an online posting that the COVID-19 pandemic had made it impossible to continue.
+
+
+***
+![Call of Duty Season 2 begins TONIGHT – Cold War and Warzone changes, new maps, guns and more](https://www.thesun.co.uk/wp-content/uploads/2021/02/coldwar.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Call of Duty Season 2 begins TONIGHT – Cold War and Warzone changes, new maps, guns and more")
+
+
+[Call of Duty Season 2 begins TONIGHT – Cold War and Warzone changes, new maps, guns and more](https://www.thesun.co.uk/tech/14146606/call-of-duty-season-2-cold-war-war-zone-maps-guns-modes/)
+
+
+> CALL of Duty Season 2 is about to begin – and we've got all the details. The major Cold War and Warzone update lands this week, and it's adding loads of new content. New Operators have been added, including Wolf (left) and Rivas (right)Credit: Activision Call of Duty seasons are major events, introducing new storylines, as well as maps, weapons, modes and more. The latest is 2021 Season 2, and arrives on Thursday, February 25. There's a new story that takes Frank Woods to Laos, where he previously visited with Alex Mason in the original Black Ops.
+
+
+***
+![The worldwide chip shortage is about to get even worse](https://www.siliconrepublic.com/wp-content/uploads/2021/02/chips.jpeg "The worldwide chip shortage is about to get even worse")
+
+
+[The worldwide chip shortage is about to get even worse](https://www.siliconrepublic.com/machines/global-chip-shortage-taiwan-drought)
+
+
+> As the drought in Taiwan has led to water shortages and restrictions, the country's chipmakers could face bigger challenges amid the global shortage. While the Covid-19 pandemic has sparked a global chip shortage, manufacturers in Taiwan have been hit with a new challenge as the country's drought brings water supply restrictions. According to Reuters, Taiwan chipmakers are 'buying water by the truckload' for their factories, in preparation for the continuing water shortages. Taiwan is a key hug in the global technology supply chain and has reportedly already received requests to help bridge the gap of auto chips from other countries including the US and Germany.
+
+
+***
+![Carl Pei's Nothing collaborates with Swedish boutique audio company Teenage Engineering](https://images.indianexpress.com/2021/02/OB4.jpg "Carl Pei's Nothing collaborates with Swedish boutique audio company Teenage Engineering")
+
+
+[Carl Pei's Nothing collaborates with Swedish boutique audio company Teenage Engineering](https://indianexpress.com/article/technology/tech-news-technology/carl-pei-nothing-collaborates-with-swedish-boutique-audio-company-teenage-engineering-7202817/)
+
+
+> Nothing, Carl Pei's audio startup, has named the Swedish audio brand Teenage engineering as a founding partner. The Stockholm-based company will take command of Nothing's design, a move that will help Pei's startup to differentiate its upcoming products from the crowd. Teenage Engineering is known for creating audio products where the emphasis is given on industrial design. Its products target a niche crowd. The OB-4 'magic radio', for instance, is a $599 Bluetooth speaker with built-in FM radio and analogue controls.
+
+
+***
+![Funky electronics chain Fry's is no more](https://www.clickorlando.com/resizer/ElkWMwKwcGX80zkAoZ9aCwLUUjA=/1600x1039/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/VBD77VFG4ZFO7OAF3VTHD7AEDU.jpg "Funky electronics chain Fry's is no more")
+
+
+[Funky electronics chain Fry's is no more](https://www.clickorlando.com/tech/2021/02/24/funky-electronics-chain-frys-is-no-more/)
+
+
+> SAN FRANCISCO – Fry's Electronics, the go-to chain for tech tinkerers looking for an obscure part, is closing for good. The company, perhaps even more well known for outlandish themes at some of its stores, from Aztec to 'Alice's Adventures in Wonderland," said Wednesday in an online posting that the COVID-19 pandemic had made it impossible to continue. Fans immediately took to Twitter to post images and memories (good and bad). The chain was concentrated on the West Coast, but had 31 stores in nine states.
+
+
