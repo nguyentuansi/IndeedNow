@@ -32935,3 +32935,50 @@
 > Skip to main contentIt's one of the most affordable outdoor activities, but you still need a pair of lightweight, nimble shoes.Save this story for later.Even before the pandemic started, trail running was growing in popularity. But last year was a blowout year for trail runners, who set records (known as fastest known times, or FKTs) on trails all over the world. I love trail running. I've been doing it for more than 20 years, and I still log a couple of miles (almost) every day. Trail running shoes are also a lighter, more affordable, and more versatile alternative to traditional hiking boots.
 
 
+***
+![Amazon Web Services Mac instances now support macOS Big Sur](https://photos5.appleinsider.com/gallery/40490-78002-macOS-Big-Sur-Art-xl.jpg "Amazon Web Services Mac instances now support macOS Big Sur")
+
+
+[Amazon Web Services Mac instances now support macOS Big Sur](https://appleinsider.com/articles/21/02/24/amazon-web-services-mac-instances-now-support-macos-big-sur)
+
+
+> Amazon Web Services Mac instances now support macOS Big Sur 5 seconds ago 'Apple Car' could generate $50B in revenue by 2030, analyst says 1 hour ago Remembering Steve Jobs on his 66th birthday 1 hour ago Long-time Apple retailer Fry's Electronics suddenly shuts down 2 hours ago Apple isn't considering free, ad-supported Apple Music tiers 2 hours ago
+
+
+***
+![Amazon Prime Video on Roku: How to get it and start watching now](https://cdn.mos.cms.futurecdn.net/sPQC8YrShyfqkwLr47LjMZ-1200-80.jpg "Amazon Prime Video on Roku: How to get it and start watching now")
+
+
+[Amazon Prime Video on Roku: How to get it and start watching now](https://www.techradar.com/news/amazon-prime-video-roku)
+
+
+> (Image credit: Future) Amazon Prime Video is one of the most popular streaming services on the market, which is why it'll be important to many knowing how to watch Amazon Prime Video on Roku. Giving its subscribers access to a broad range of movies and TV shows, including many exclusively created for Prime Video, there are several devices through which you can access Amazon Prime Video, including the range of players produced by Roku. Want to know how to install the streaming service on your Roku device? Our guide will tell you everything you need to know about accessing Amazon Prime Video on Roku.
+
+
+***
+![OxygenOS 10.5.11 Update and January 2021 security patch rolling out for users](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/OnePlus_Nord-647x363.jpeg?aRmnwhiv6u8dzUvfxKHSjx6P1bSXmDZ0 "OxygenOS 10.5.11 Update and January 2021 security patch rolling out for users")
+
+
+[OxygenOS 10.5.11 Update and January 2021 security patch rolling out for users](https://www.indiatoday.in/technology/news/story/oxygenos-10-5-11-update-and-january-2021-security-patch-rolling-out-for-users-1772715-2021-02-24)
+
+
+> OxygenOS 10.5.11 update has started rolling out for users after an interval of two months. The last update came as an Android security update back in December last year. Even this new update like the last one brings no new feature but just system stability.As per our information, OnePlus has been testing the Android 11 based Android 11 build on the OnePlus Nord for a while now. Through which we can predict that the Android 11 update is not too far. Meanwhile, users can check for system update by heading over to Settings>System>System Update.
+
+
+***
+[MCMC insists govt entity approach for 5G will be transparent, private sector will be involved](https://www.soyacincau.com/2021/02/25/mcmc-clarification-5g-gom-spv-transparency-private-sector/)
+
+
+> The Malaysian Communications and Multimedia Commission (MCMC) has issued a statement to provide greater clarity on the recent briefing of the proposed Special Purpose Vehicle (SPV) for 5G rollout. As announced during the launch of MyDigital, Malaysia aims to launch full range of commercial 5G services by Q4 2021. According to the MCMC, they will […] The post MCMC insists govt entity approach for 5G will be transparent, private sector will be involved appeared first on SoyaCincau.com.
+
+
+***
+![Will the OnePlus 9 Lite be known as OnePlus 9R? One tipster says yes, another is unsure](https://m-cdn.phonearena.com/images/article/130342-two_1200/Will-the-OnePlus-9-Lite-be-known-as-OnePlus-9R-One-tipster-says-yes-another-is-unsure.jpg "Will the OnePlus 9 Lite be known as OnePlus 9R? One tipster says yes, another is unsure")
+
+
+[Will the OnePlus 9 Lite be known as OnePlus 9R? One tipster says yes, another is unsure](https://www.phonearena.com/news/oneplus-9r-lite-budget-flagship-leak_id130342)
+
+
+> OnePlus is developing a so-called affordable flagship for release alongside the OnePlus 9 and 9 Pro. Past reports have referred to it as both the OnePlus 9 Lite and OnePlus 9E, but Evan Blass believes it'll be marketed under a different name.The well-known tipster who has shared reliable information about OnePlus devices in the past, as well as accurate renders, has found references to an upcoming smartphone dubbed ‘OnePlus 9R.' He believes it's the name OnePlus has chosen for its next budget flagship.
+
+
