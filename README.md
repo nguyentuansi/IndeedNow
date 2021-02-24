@@ -32688,3 +32688,50 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Python Math Library made in 3 Days as a 14 year-old](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Python Math Library made in 3 Days as a 14 year-old")
+
+
+[Python Math Library made in 3 Days as a 14 year-old](https://www.reddit.com/r/Python/comments/lr583o/python_math_library_made_in_3_days_as_a_14/)
+
+
+> Hey r/Python! Today, I wanted to make a post about a recent project I took upon myself (This is my first "major" project). This project is both a mixture of math, and computer science and I thought it was worth sharing here. Install libmaths on PyPi or from my GitHub: PyPi | GitHub Repo Three days ago, I decided to create my own Python library as a 14-year old high school student, libmaths. I've always used them but something I never understood was how they were made or where they were coming from.
+
+
+***
+![Tom Holland insists the previous Spider-Men aren't in 'Spider-Man 3,' nobody believes him](https://mondrian.mashable.com/2021%252F02%252F24%252Fa8%252F58d4ebcf587e4e7caad43af6770b8e30.82353.png%252F1200x630.png?signature=plaS-AucwHEhfw7avwTXaZUWLzE= "Tom Holland insists the previous Spider-Men aren't in 'Spider-Man 3,' nobody believes him")
+
+
+[Tom Holland insists the previous Spider-Men aren't in 'Spider-Man 3,' nobody believes him](https://mashable.com/video/spider-man-3-tom-holland-maguire-garfield-fallon/)
+
+
+> Marvel's Spider-crew has been mercilessly toying with fans today, with stars Tom Holland, Jacob Batalon, and Zendaya each sharing different title cards revealing different titles for the next MCU Spider-Man film. According to Holland's Instagram, the third film will be called Spider-Man: Phone Home, giving a distinct E.T. vibe. However, Batalon's feed declared the title to be Spider-Man: Home-Wrecker. To make matters more confusing, Zendaya then announced a third potential name: Spider-Man: Home Slice.
+
+
+***
+![Malaysian Football League Agrees Long-Term Official Data and Integrity Partnership with Genius Sports Group](https://mms.businesswire.com/media/20210223006265/en/860857/23/Genius_Sports_MFL_Press_Release_-_February_2021%5B3%5D.jpg "Malaysian Football League Agrees Long-Term Official Data and Integrity Partnership with Genius Sports Group")
+
+
+[Malaysian Football League Agrees Long-Term Official Data and Integrity Partnership with Genius Sports Group](https://www.businesswire.com/news/home/20210223006265/en/Malaysian-Football-League-Agrees-Long-Term-Official-Data-and-Integrity-Partnership-with-Genius-Sports-Group)
+
+
+> February 24, 2021 12:43 AM Eastern Standard Time KUALA LUMPUR, Malaysia--(BUSINESS WIRE)--The Malaysian Football League, the national governing body of the largest competitions including the Liga Super, Piala FA and Piala Malaysia, has formed a new live data and integrity partnership with Genius Sports Group (GSG' or 'Genius'). As the trusted data and technology partner to leagues and federations across Asian football, GSG will power the MFL's first live data collection and distribution platform.
+
+
+***
+![Singapore trials Smartphone app offering mini check-ups](https://www.thehindu.com/sci-tech/technology/8g12nr/article33920148.ece/ALTERNATES/LANDSCAPE_615/singaap "Singapore trials Smartphone app offering mini check-ups")
+
+
+[Singapore trials Smartphone app offering mini check-ups](https://www.thehindu.com/sci-tech/technology/singapore-trials-smartphone-app-offering-mini-check-ups/article33920072.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Each morning before work at a Singapore construction site, Gunasekar Udayakumar, 41, gets his vital signs checked, without going to a clinic, or even seeing anurse.All he needs is his smartphone, which in just 45 seconds can tell him his heartrate, oxygen levels and even his stress levels.It can also tell him if he should see a doctor.The application, developed by Singapore startup Nervotec, is what construction firm Kajima considers its first line of defence against another outbreak of the coronavirus in Singapore.
+
+
+***
+[Digital economy to outpace GDP growth, will result in 'competitive advantage period' for leaders in digital space highlights ICICI Securities](https://www.zeebiz.com/technology/news-digital-economy-to-outpace-gdp-growth-will-result-in-competitive-advantage-period-for-leaders-in-digital-space-highlights-icici-securities-150700)
+
+
+> ICICI Securities says that India is amongst the fastest growing digital economies in the world. Digital economy growth will be within a range of 4-8% of GDP for India according to various estimates. However, given the trajectory in internet data consumption and proliferation of various digital platforms, this number could have risen significantly.
+
+
