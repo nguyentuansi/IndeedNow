@@ -32638,3 +32638,53 @@
 > The Realme Narzo 30 series is launching in India today. Ahead of the launch, there have been a lot of leaks around the new devices. The Realme Narzo 30 Pro 5G, the highest-end variant of the series, is expected to be the most affordable 5G phone in India to date. How to watch the Realme Narzo 30 series launch The Realme Narzo 30 Pro launch event will begin at 12:30 pm on February 24. The launch can be live-streamed on Realme's official YouTube channel as well as the social media handles. While the live stream link isn't officially out yet, we will be updating the same here as soon as possible.
 
 
+***
+![Practical Projects to Learn AWS](https://external-preview.redd.it/f5AXvMSZam6ZEhbL5-Zp3_S731A8u3ai4zSo9djjutE.jpg?auto=webp&s=ab86941ff1b3e074713ad59116b8edf975739cdd "Practical Projects to Learn AWS")
+
+
+[Practical Projects to Learn AWS](https://www.reddit.com/r/programming/comments/lr34kd/practical_projects_to_learn_aws/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Review: Xiaomi Mi 11 beats the Galaxy S21 where it counts](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/xiaomi-mi-11-31.jpg "Review: Xiaomi Mi 11 beats the Galaxy S21 where it counts")
+
+
+[Review: Xiaomi Mi 11 beats the Galaxy S21 where it counts](https://www.androidcentral.com/xiaomi-mi-11-review)
+
+
+> Source: Apoorva Bhardwaj / Android Central I've used all Xiaomi phones in the Mi numbered series starting with the Mi 3. The Mi 3 and Mi 4 offered outstanding value for money and set up Xiaomi as a viable alternative to established brands in countries like India. The Mi 5 continued that push with a gorgeous metal and glass design, the Mi 5s switched to an all-metal aesthetic, the Mi 6 showcased Xiaomi's hardware and camera prowess, the Mi 8 saw the introduction of the notch, and the Mi 9 had a great camera but was a letdown in terms of software.
+
+
+***
+![Calendar Sync w/ Google in Big Sur](https://images.macrumors.com/social/?t=2285971&v=6 "Calendar Sync w/ Google in Big Sur")
+
+
+[Calendar Sync w/ Google in Big Sur](https://forums.macrumors.com/threads/calendar-sync-w-google-in-big-sur.2285971/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Since updating to Big Sur, my google accounts have stopped syncing with Calendar. They would show the error triangle. When I click on the triangle, they should just say "error connecting to server." I tried the cache clean. I disabled and enabled the accounts in Calendar. Finally, I removed the accounts from "Internet Accounts," which is where I am now. The two accounts in Calendar don't show an error, but they aren't syncing at all.
+
+
+***
+![California to enforce net neutrality after judge rejects challenge by internet providers](https://i-invdn-com.akamaized.net/news/LYNXNPEB7G0X5_L.jpg "California to enforce net neutrality after judge rejects challenge by internet providers")
+
+
+[California to enforce net neutrality after judge rejects challenge by internet providers](https://www.investing.com/news/technology-news/us-judge-will-reject-industry-effort-to-block-california-net-neutrality-law--lawyer-2427631)
+
+
+> 2/2 © Reuters. A supporter of Net Neutrality protests the FCC's recent decision to repeal the program in Los Angeles 2/2 By David Shepardson WASHINGTON (Reuters) - California should soon implement its landmark net neutrality law under a judge's ruling on Tuesday, nearly three years after the state legislature enacted the measure, the state attorney general's office said. U.S. Judge John Mendez for the Eastern District of California said in an oral ruling he would not block the law from taking effect as four telecom and broadband industry groups sought, his office confirmed.
+
+
+***
+![composable dataflow using python](https://external-preview.redd.it/QgPvRTknlY3rMNDqH1k4I37XGiq9tZF_FsygC_Xht4o.jpg?auto=webp&s=8cd5e918e2bde6ca72d4445d6fc007f203689799 "composable dataflow using python")
+
+
+[composable dataflow using python](https://www.reddit.com/r/Python/comments/lr2nl0/composable_dataflow_using_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
