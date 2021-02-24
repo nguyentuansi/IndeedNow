@@ -32982,3 +32982,53 @@
 > OnePlus is developing a so-called affordable flagship for release alongside the OnePlus 9 and 9 Pro. Past reports have referred to it as both the OnePlus 9 Lite and OnePlus 9E, but Evan Blass believes it'll be marketed under a different name.The well-known tipster who has shared reliable information about OnePlus devices in the past, as well as accurate renders, has found references to an upcoming smartphone dubbed ‘OnePlus 9R.' He believes it's the name OnePlus has chosen for its next budget flagship.
 
 
+***
+![Brython: Python in Your Browser – Real Python](https://external-preview.redd.it/4EKtUKusTPt6-MMIAp8sv9ufN8dnnirMau7v_tzrn48.jpg?auto=webp&s=536379ffc9fb6ddf27a9ff1c9d47303d07d764a8 "Brython: Python in Your Browser – Real Python")
+
+
+[Brython: Python in Your Browser – Real Python](https://www.reddit.com/r/Python/comments/lrj475/brython_python_in_your_browser_real_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Gladbach vs Man City live stream: how to watch 2021 Champions League match from anywhere](https://cdn.mos.cms.futurecdn.net/rq2dnPsJHhAWz2UsKftPCL-1200-80.jpg "Gladbach vs Man City live stream: how to watch 2021 Champions League match from anywhere")
+
+
+[Gladbach vs Man City live stream: how to watch 2021 Champions League match from anywhere](https://www.techradar.com/news/gladbach-vs-man-city-live-stream-how-to-watch-2021-champions-league-match-from-anywhere)
+
+
+> Pep Guardiola will be hoping his side can continue their incredible form as they take on German opposition in Budapest - don't miss a kick with our guide to getting a Borussia Monchengladbach vs Man City live stream and watch the match online.City come into the match of the back of a 0-1 win away at Arsenal in the Premier League on Sunday - a result which saw the Sky Blues make it 18 straight wins in a row.The Group C winners now head in to the knock-out stages with a first-leg clash against Borussia Monchengladbach - a side playing for the first time in this round of the tournament.
+
+
+***
+![New Returnal trailer gives a fresh look at PS5 exclusive gameplay](https://cdn.mos.cms.futurecdn.net/77TyTqqSCMtcWqFoaAFMjk-1200-80.jpg "New Returnal trailer gives a fresh look at PS5 exclusive gameplay")
+
+
+[New Returnal trailer gives a fresh look at PS5 exclusive gameplay](https://www.techradar.com/news/new-returnal-trailer-gives-a-fresh-look-at-ps5-exclusive-gameplay)
+
+
+> (Image credit: Sony) Sony Interactive Entertainment and developer Housemarque have revealed a fresh look at the upcoming PS5 exclusive, Returnal, in a brand new gameplay trailer. After not seeing too much from Returnal in a little while, the new gameplay trailer focuses on the game's setting of Atropos and gives us a look at a few of the locations the stranded protagonist, Selene, will explore. The environments shown in the trailer, which include and some overgrown ruins, a deserted citadel and the hot-and-cold crimson wastes, seem very varied and explorable.
+
+
+***
+![Hackers Find TV Support for Nintendo DS Lite](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/nintendo-ds-lite.jpg?itok=hF3Am6R2 "Hackers Find TV Support for Nintendo DS Lite")
+
+
+[Hackers Find TV Support for Nintendo DS Lite](https://techraptor.net/gaming/news/hackers-find-tv-support-for-nintendo-ds-lite)
+
+
+> Published: Wednesday, February 24, 2021 - 12:53 | By: Brian Renadette Home Gaming Gaming News Hackers Find TV Support for Nintendo DS Lite A feature hidden there all along. Released worldwide in 2006, the Nintendo DS Lite was a slimmer and brighter redesign of the Nintendo DS, a handheld console most notably remembered for making use of two screens and touch controls. However, one feature the Lite version could perform, which was to send video to a TV or other external display, was unused and hidden.
+
+
+***
+![Spider-Man 3 is officially called Spider-Man: No Way Home (Updated)](https://cdn.mos.cms.futurecdn.net/88Bj69Ys6QaNga2tVpSwE4-1200-80.jpg "Spider-Man 3 is officially called Spider-Man: No Way Home (Updated)")
+
+
+[Spider-Man 3 is officially called Spider-Man: No Way Home (Updated)](https://www.techradar.com/news/spider-man-3-title-teased-by-tom-holland-as-first-official-photo-is-released)
+
+
+> (Image credit: Marvel Studios/Sony) Update: After some light trolling, the third MCU Spider-Man movie's official title has been revealed: Spider-Man: No Way Home is releasing later this year. Check out a short video below for more.This, we can confirm. #SpiderManNoWayHome only in movie theaters this Christmas. pic.twitter.com/kCeI8VgkdmFebruary 24, 2021See moreOriginal story: Tom Holland has given us a first glimpse of Spider-Man 3 – and trolled fans over the movie's supposed title.Holland, alongside co-stars Zendaya and Jacob Batalon, took to Instagram on Tuesday evening to tease fans with the first official stills from the upcoming MCU flick.
+
+
