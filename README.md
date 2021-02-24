@@ -32785,3 +32785,53 @@
 > Google has added new features to Android. The latest update will help improve battery life, and gives users the ability to do more with their smartphones and go hands-free. The rollout of these features has already begun worldwide. In order to access these features ensure that your apps are updated or look for an update on Google Play Store. Better password security on Google account Google has integrated Password Checkup with your Google accounts. This feature will help users know whether the password used previously has been exposed or not.
 
 
+***
+![New iPad Pro 2021 looking even more likely to land soon with a Mini LED display](https://cdn.mos.cms.futurecdn.net/qj2f2jH6ytz66QnKJLNwFE-1200-80.jpg "New iPad Pro 2021 looking even more likely to land soon with a Mini LED display")
+
+
+[New iPad Pro 2021 looking even more likely to land soon with a Mini LED display](https://www.techradar.com/news/new-ipad-pro-2021-looking-even-more-likely-to-land-soon-with-a-mini-led-display)
+
+
+> The iPad Pro 12.9 (2018) (Image credit: Future) There are two main rumors about the iPad Pro 2021. One is that it will land soon, while the other is that it will have a Mini LED screen, and a new piece of information supports both of those claims.According to industry sources speaking to DigiTimes, Ennostar will begin producing Mini LED backlight units for Apple either at the end of the first quarter of the year (so by the end of March), or sometime in the second quarter.While the article doesn't specify what these Mini LED units will be used for, when it comes to Apple the bulk of the rumors around Mini LED say that it will make its way to the next iPad Pro model.
+
+
+***
+![A New Generation of Wi-Fi to Improve Your Home Network](https://static01.nyt.com/images/2021/02/24/business/24Techfix-illo/24Techfix-illo-facebookJumbo.jpg "A New Generation of Wi-Fi to Improve Your Home Network")
+
+
+[A New Generation of Wi-Fi to Improve Your Home Network](https://www.nytimes.com/2021/02/24/technology/personaltech/new-generation-wi-fi-home-network.html)
+
+
+> Continue reading the main storyThe technology, Wi-Fi 6, is designed to reduce congestion from devices. We put it to the test.Credit...Glenn HarveyFeb. 24, 2021, 5:00 a.m. ETWhen the pandemic upended our lives, many of us were forced to stay home and shift our work and hobbies to the internet. Office meetings and classrooms were replaced with video calls. We binged on Netflix, played more video games and shopped online.The result: We slammed our home Wi-Fi networks with more devices that were doing more than ever before.
+
+
+***
+![Biden to sign order improving supply chain for chips, other critical resources](https://thehill.com/sites/default/files/bidenjoe_021921getty_iran.jpg "Biden to sign order improving supply chain for chips, other critical resources")
+
+
+[Biden to sign order improving supply chain for chips, other critical resources](https://thehill.com/policy/technology/540214-biden-to-sign-order-improving-supply-chain-for-chips-other-critical)
+
+
+> President BidenJoe BidenHoyer: House will vote on COVID-19 relief bill Friday Pence huddles with senior members of Republican Study Committee Powell pushes back on GOP inflation fears MORE will sign an executive order Wednesday afternoon aimed at improving the supply chain for semiconductors, or chips, used in many new technologies, along with other critical resources.Biden administration officials told reporters ahead of the order's rollout that it would require a 100-day review of the supply chains for chips, used in everything from mobile phones to new cars.
+
+
+***
+![HP launches updated Pavilion 13, Pavilion 14, and Pavilion 15 laptops in India](https://cdn.mos.cms.futurecdn.net/Dv4EbcoLfLJb2ZEVBCX5p6-1200-80.jpg "HP launches updated Pavilion 13, Pavilion 14, and Pavilion 15 laptops in India")
+
+
+[HP launches updated Pavilion 13, Pavilion 14, and Pavilion 15 laptops in India](https://www.techradar.com/news/hp-launches-updated-pavilion-13-pavilion-14-and-pavilion-15-laptops-in-india)
+
+
+> (Image credit: HP) HP has announced the updated Pavilion lineup of laptops in India. These new laptops - including the Pavilion 13, Pavilion 14, and Pavilion 15 are made from post-consumer recycled and ocean-bound plastics, a first for the company.The newly announced laptops from HP come equipped with Intel's latest 11th-generation Tiger Lake processors coupled with Iris Xe graphics. The laptops run on Windows 10 Home out of the box and come with Bang and Olufsen speakers. Other key features include the presence of a fingerprint sensor and backlit keyboard on all the laptops.
+
+
+***
+![The best gaming phone is getting a follow-up, and one big feature has been teased](https://cdn.mos.cms.futurecdn.net/RGkrkUKKSZV2s4tQF4TxMR-1200-80.jpg "The best gaming phone is getting a follow-up, and one big feature has been teased")
+
+
+[The best gaming phone is getting a follow-up, and one big feature has been teased](https://www.techradar.com/news/the-best-gaming-phone-is-getting-a-follow-up-and-one-big-feature-has-been-teased)
+
+
+> (Image credit: Future) When it rains it pours, and it seems when one gaming smartphone is teased, they all seemingly are; we've now heard about three gaming smartphones over the last week.Just days after the Nubia Red Magic 6 launch was scheduled for March 4 and the Asus ROG Phone 5 event was penciled in for March 10, Lenovo has given us a first glimpse at its newest games-focused smartphone.In a post on Chinese social media platform Weibo, a new Lenovo gaming smartphone was teased. This is presumably a follow-up to the Lenovo Legion Phone Duel, which (at time of writing) tops our list of the best smartphones for gaming.
+
+
