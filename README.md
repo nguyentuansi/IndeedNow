@@ -32541,3 +32541,53 @@
 > Nikkei Asia: Draft executive order from Biden admin orders development of a US supply chain strategy less reliant on China, focused on chips, batteries, rare-earth metals — Exclusive: Biden to sign presidential order to bolster chip, battery and rare-earth industries — WASHINGTON/TAIPEI …
 
 
+***
+![Apple gives developers additional guidance on App Store privacy labels](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/app-privacy-label-example.jpg "Apple gives developers additional guidance on App Store privacy labels")
+
+
+[Apple gives developers additional guidance on App Store privacy labels](https://www.imore.com/apple-gives-developers-additional-guidance-app-store-privacy-labels)
+
+
+> Source: Apple App Store privacy labels have been in effect for a little bit now, and Apple is now offering additional guidance on the policy to developers. In an update on the Apple Developer website, the company says that it has published additional details about how to ensure your App Store privacy labels are up to standard. It has also included more information about data types as well as data collected and data entered by users. Additional details have been published on completing your App Store privacy labels, including more information about data types, such as email or text messages, and gameplay content.
+
+
+***
+![Tech firms say there's little doubt Russia behind major hack](https://whdh.com/wp-content/uploads/sites/3/2020/10/untitled-2020-10-29T094546.059-e1603979183497.jpg?quality=60&strip=color&w=775 "Tech firms say there's little doubt Russia behind major hack")
+
+
+[Tech firms say there's little doubt Russia behind major hack](https://whdh.com/news/tech-firms-say-theres-little-doubt-russia-behind-major-hack/)
+
+
+> WASHINGTON (AP) — Leading technology companies said Tuesday that a months-long breach of corporate and government networks was so sophisticated, focused and labor-intensive that a nation had to be behind it, with all the evidence pointing to Russia. In the first congressional hearing on the breach, representatives of technology companies involved in the response described a hack of almost breathtaking precision, ambition and scope. The perpetrators stealthily scooped up specific emails and documents on a target list from the U.
+
+
+***
+![Facebook adds new tools to fight online child exploitation](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-07/facebook_16072020-seo.JPG "Facebook adds new tools to fight online child exploitation")
+
+
+[Facebook adds new tools to fight online child exploitation](https://www.malaymail.com/news/tech-gadgets/2021/02/24/facebook-adds-new-tools-to-fight-online-child-exploitation/1952326)
+
+
+> The social media giant updated its guidelines to make it clear it will remove Facebook or Instagram accounts dedicated to sharing images of children posted along with captions, hashtags or comments containing innuendo or inappropriate signs of affection. — Reuters pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, Feb 24 ― Facebook yesterday said it is stepping up its fight against child abuse with new tools for spotting such content and tighter rules about what crosses the line.
+
+
+***
+![Social media users should be banned from having anonymous accounts, Victims' Commissioner says](https://static.standard.co.uk/2021/02/16/22/urnpublicidap.orgd5c1490b03c34b6895c4d11ba528eff9.jpg?width=1200&width=1200&auto=webp&quality=75 "Social media users should be banned from having anonymous accounts, Victims' Commissioner says")
+
+
+[Social media users should be banned from having anonymous accounts, Victims' Commissioner says](https://www.standard.co.uk/tech/social-media-anonymous-accounts-ban-victims-commissioner-b920970.html)
+
+
+> Social media users should not be allowed to post from anonymous accounts, the Victims' Commissioner for England and Wales has said.Dame Vera Baird QC said tech giants such as Twitter and Facebook should not allow people to sign up without providing accurate identifiable information.It comes amid concern the practice is allowing people to abuse others online with little prospect of being identified and prosecuted.Celebrities such as England footballer and poverty campaigner Marcus Rashford and former Little Mix singer Jesy Nelson were among those to have been abused repeatedly on social media in recent months.
+
+
+***
+![PopBox Asia Services Enhances its Delivery Process with Vonage](https://mms.businesswire.com/media/20210223005605/en/832188/23/VonageLogo_Primary_Black_%281%29_%281%29.jpg "PopBox Asia Services Enhances its Delivery Process with Vonage")
+
+
+[PopBox Asia Services Enhances its Delivery Process with Vonage](https://www.businesswire.com/news/home/20210223005605/en/PopBox-Asia-Services-Enhances-its-Delivery-Process-with-Vonage)
+
+
+> February 23, 2021 07:00 PM Eastern Standard Time SINGAPORE--(BUSINESS WIRE)--Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has been chosen by PopBox Asia Services, an automated parcel locker service provider, to enhance its last-mile delivery process in Indonesia. PopBox Asia customers include ecommerce companies such as Lazada, Zalora, Herbalife, Blibli, FMCG brands such as Coca-Cola, Indofood, and courier companies such as Pos Malaysia and Ninja Express, GDEx and many more.
+
+
