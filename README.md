@@ -32591,3 +32591,50 @@
 > February 23, 2021 07:00 PM Eastern Standard Time SINGAPORE--(BUSINESS WIRE)--Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has been chosen by PopBox Asia Services, an automated parcel locker service provider, to enhance its last-mile delivery process in Indonesia. PopBox Asia customers include ecommerce companies such as Lazada, Zalora, Herbalife, Blibli, FMCG brands such as Coca-Cola, Indofood, and courier companies such as Pos Malaysia and Ninja Express, GDEx and many more.
 
 
+***
+![Sharing a long article I wrote explaining X.509](https://external-preview.redd.it/5wHWndnc0aNwTomi_407mthwa5O350yrzKpUmZ6gTc0.jpg?auto=webp&s=fcaca0ed666d817cf23cc3338f6562f27c804a2b "Sharing a long article I wrote explaining X.509")
+
+
+[Sharing a long article I wrote explaining X.509](https://www.reddit.com/r/programming/comments/lr0s2h/sharing_a_long_article_i_wrote_explaining_x509/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Monkey )) YouTube )) Monetization )) Show Me The Money #1](https://external-preview.redd.it/LkeFPBXR6MvclHD9vQu0BWxcMvrr7vWeY7AG4Woz29Y.jpg?auto=webp&s=8b6500214c2ce0b2d01c4c34b22e8670c6c039ea "Monkey )) YouTube )) Monetization )) Show Me The Money #1")
+
+
+[Monkey )) YouTube )) Monetization )) Show Me The Money #1](https://www.reddit.com/r/programming/comments/lr0gh8/monkey_youtube_monetization_show_me_the_money_1/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[LG says that it will license its webOS software to other TV brands, such as RCA, Ayonz, and Konka; LG's redesigned webOS 5.0 version will not be included (Chris Welch/The Verge)](http://www.techmeme.com/210223/p47#a210223p47)
+
+
+> Chris Welch / The Verge: LG says that it will license its webOS software to other TV brands, such as RCA, Ayonz, and Konka; LG's redesigned webOS 5.0 version will not be included — The modern webOS is no longer exclusive to LG's TV lineup — LG tonight announced that the company's webOS smart TV platform will soon be found on TVs from other brands.
+
+
+***
+![Sharks swimming at sunset help American win the Underwater Photographer of the Year award](https://cnet1.cbsistatic.com/img/KXqrh1oNWwbcE2HuwLHN3O7lzEo=/1200x630/2021/02/22/c0fd5ef9-8251-4bc4-8e61-4083ab5b8396/101reneecapozzola-2-social-crop.jpg "Sharks swimming at sunset help American win the Underwater Photographer of the Year award")
+
+
+[Sharks swimming at sunset help American win the Underwater Photographer of the Year award](https://www.cnet.com/news/sharks-swimming-at-sunset-help-american-win-the-underwater-photographer-of-the-year-award/)
+
+
+> Californian Renee Capozzola dedicated several evenings to photographing sealife in the shallows off the tiny island of Moorea, finally landing this winning sunset shot. Renee Capozzola/UPY 2021 American Renee Capozzola became the first woman ever to win the title of Underwater Photographer of the Year award earlier this month for her image of reef sharks swimming while sea birds soar overhead in a tranquil corner of the Pacific Ocean off the island of Moorea."French Polynesia strongly protects its sharks, it is my favorite place to photograph them," Capozzola said in a statement.
+
+
+***
+![Realme Narzo 30 Pro 5G launch today; How to watch livestream, other details](https://images.indianexpress.com/2021/02/Realme-Narzo-30-Pro-5G.jpg "Realme Narzo 30 Pro 5G launch today; How to watch livestream, other details")
+
+
+[Realme Narzo 30 Pro 5G launch today; How to watch livestream, other details](https://indianexpress.com/article/technology/mobile-tabs/realme-narzo-30-pro-5g-launch-how-to-watch-live-stream-other-detailsrealme-narzo-30-pro-5g-launch-tomorrow-heres-how-to-watch-other-details-7201618/)
+
+
+> The Realme Narzo 30 series is launching in India today. Ahead of the launch, there have been a lot of leaks around the new devices. The Realme Narzo 30 Pro 5G, the highest-end variant of the series, is expected to be the most affordable 5G phone in India to date. How to watch the Realme Narzo 30 series launch The Realme Narzo 30 Pro launch event will begin at 12:30 pm on February 24. The launch can be live-streamed on Realme's official YouTube channel as well as the social media handles. While the live stream link isn't officially out yet, we will be updating the same here as soon as possible.
+
+
