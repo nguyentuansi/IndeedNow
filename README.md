@@ -32885,3 +32885,53 @@
 > SAN FRANCISCO – Fry's Electronics, the go-to chain for tech tinkerers looking for an obscure part, is closing for good. The company, perhaps even more well known for outlandish themes at some of its stores, from Aztec to 'Alice's Adventures in Wonderland," said Wednesday in an online posting that the COVID-19 pandemic had made it impossible to continue. Fans immediately took to Twitter to post images and memories (good and bad). The chain was concentrated on the West Coast, but had 31 stores in nine states.
 
 
+***
+![Bethesda Hit By Class Action Lawsuit Over Fallout 4 DLC](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Bethesda%20Class%20Action%20Lawsuit%20Fallout%204%20Main.jpg?itok=z9OeBA3N "Bethesda Hit By Class Action Lawsuit Over Fallout 4 DLC")
+
+
+[Bethesda Hit By Class Action Lawsuit Over Fallout 4 DLC](https://techraptor.net/gaming/news/bethesda-hit-by-class-action-lawsuit-over-fallout-4-dlc)
+
+
+> Published: Wednesday, February 24, 2021 - 09:02 | By: Joseph Allen Bethesda has been hit by a class-action lawsuit regarding Fallout 4 DLC. Specifically, the lawsuit alleges that the Creation Club feature constituted paid DLC and thus violated the terms of the Fallout 4 Season Pass. What is the Bethesda class action lawsuit about? According to VentureBeat, Bethesda originally claimed that the Fallout 4 Season Pass would contain "all of the Fallout 4 DLC we ever do" for a single price. In 2017, however, the Creation Club was announced, a feature that constituted new content created by Bethesda and "outside development partners".
+
+
+***
+![ProtonVPN Review](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/02/protonvpn-hero.jpg "ProtonVPN Review")
+
+
+[ProtonVPN Review](https://www.androidcentral.com/protonvpn-review)
+
+
+> Last updated February 24, 2021 A super secure, powerful, and high-quality mobile app-toting VPN that unblocks most streaming platforms.Works withMacWindowsAndroidiPhone & iPadLinuxRoutersBest VPN forNetflix, Disney+, BBC iPlayer and streamingTorrenting and downloadingSecurity and privacy Unblocks Netflix, Disney+, iPlayer, Amazon Free plan with unlimited data Open-source and audited apps Pricey paid plans No live chat support ProtonVPN has made it onto our list of the best VPN services thanks to a whole host of positives and very few negatives.
+
+
+***
+![Project Triangle Strategy offers small but unique takes on the RPG genre](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/project-triangle-strategy-scales.jpg "Project Triangle Strategy offers small but unique takes on the RPG genre")
+
+
+[Project Triangle Strategy offers small but unique takes on the RPG genre](https://www.imore.com/project-triangle-strategy-demo-hands-on)
+
+
+> Source: iMore During the February 2021 Nintendo Direct, Square Enix showed up with a brand-new tactical RPG: Project Triangle Strategy. While this is a working title, we actually have a little more than a few screenshots and a tentative name. If you have a Nintendo Switch, you can test this game out for yourself with a free demo! Though it is still a work in progress, after giving the demo a shot, this game is very promising for fans of the genre. Project Triangle Strategy is a new, 2D tactical RPG from Square Enix and the teams behind Bravely Default and Octopath Traveler about a world on the brink of war.
+
+
+***
+![Biden Faces a Steep Challenge to Unite Democracies on Tech](https://media.wired.com/photos/60359df33a0450bfbe5c756e/191:100/w_1280,c_limit/OpEd-Biden-1230971361.jpg "Biden Faces a Steep Challenge to Unite Democracies on Tech")
+
+
+[Biden Faces a Steep Challenge to Unite Democracies on Tech](https://www.wired.com/story/opinion-biden-faces-a-steep-challenge-to-unite-democracies-on-tech/)
+
+
+> In a February 19 speech at the Munich Security Conference, delivered virtually from the White House, President Joe Biden declared, 'We must shape the rules that will govern the advance of technologies and the norms of behavior in cyberspace, artificial intelligence, biotechnology, so they are used to lift people up, not used to pin them down.' A few weeks earlier, during an address at the State Department's Truman Building, the president said, 'Diplomacy is back at the center of our foreign policy.
+
+
+***
+![Need Trail Running Shoes? These Are Our 8 Favorite Pairs](https://media.wired.com/photos/60149f34056378f4af9cf9f1/191:100/w_1600,c_limit/Gear-Topo-Athletic-Ultraventure-Pro.jpg "Need Trail Running Shoes? These Are Our 8 Favorite Pairs")
+
+
+[Need Trail Running Shoes? These Are Our 8 Favorite Pairs](https://www.wired.com/gallery/best-trail-running-shoes-round-up/)
+
+
+> Skip to main contentIt's one of the most affordable outdoor activities, but you still need a pair of lightweight, nimble shoes.Save this story for later.Even before the pandemic started, trail running was growing in popularity. But last year was a blowout year for trail runners, who set records (known as fastest known times, or FKTs) on trails all over the world. I love trail running. I've been doing it for more than 20 years, and I still log a couple of miles (almost) every day. Trail running shoes are also a lighter, more affordable, and more versatile alternative to traditional hiking boots.
+
+
