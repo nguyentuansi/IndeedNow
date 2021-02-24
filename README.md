@@ -33082,3 +33082,53 @@
 > Published: Wednesday, February 24, 2021 - 14:50 | By: Robert N. Adams Home Gaming Gaming News Turok 2 Online Multiplayer Comes to Switch Tomorrow Turok 2Â online multiplayer is all set to arrive on the Nintendo Switch tomorrow and that's not all that's on the way â€' both of the franchise's first two games are making their way to PlayStation on the same day. Turok: Dinosaur HunterÂ is a first-person shooter that has players engage in the reprehensible hunting of dinosaurs (and other bad guys). That game was then followed byÂ Turok 2: Seeds of Evil, a title that expanded on the successes of its predecessor and launched with a robust multiplayer mode.
 
 
+***
+![Facebook says it cracked down on climate change lies. Then came false power outage claims during Texas winter storm](https://www.gannett-cdn.com/presto/2021/02/24/USAT/21397b3d-8d34-4c4d-b567-1da24b0608e2-GTY_1302856902.jpg?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp "Facebook says it cracked down on climate change lies. Then came false power outage claims during Texas winter storm")
+
+
+[Facebook says it cracked down on climate change lies. Then came false power outage claims during Texas winter storm](https://www.usatoday.com/story/tech/2021/02/24/facebook-texas-power-outage-fox-news-winter-storm-misinformation/6803133002/)
+
+
+> CLOSE In the most ambitious U.S. effort to stave off the worst effects of climate change, President Joe Biden is aiming to cut oil, gas and coal emissions and double energy production from offshore wind turbines through orders signed Wednesday. (Jan. 27) AP DomesticMisleading claims shared by prominent conservatives that wind turbines caused massive winter storm power outages in Texas whipped through Facebook without fact-checking labels, racking up millions of views, according to a new report shared exclusively with USA TODAY.
+
+
+***
+![Rep. Bill Johnson: Democrat Efforts to Censor Dissident Media 'Eerily Similar' to Communist China](https://media.breitbart.com/media/2020/11/Chinese-flag-barbed-wire-housing-compound-Xinjiang-China-Uighur-Getty-640x480-640x335.jpg "Rep. Bill Johnson: Democrat Efforts to Censor Dissident Media 'Eerily Similar' to Communist China")
+
+
+[Rep. Bill Johnson: Democrat Efforts to Censor Dissident Media 'Eerily Similar' to Communist China](https://www.breitbart.com/tech/2021/02/24/rep-bill-johnson-democrat-efforts-to-censor-dissident-media-eerily-similar-to-communist-china/)
+
+
+> Rep. Bill Johnson (R-OH) said that Democrat efforts to censor dissident media are 'eerily similar' to communist China's on Wednesday during the House Committee hearing on 'Fanning the Flames: Disinformation and Extremism in the Media.' 'Just two weeks ago, China's national radio and television administration banned BBC World News from broadcasting in China, because it found BBC's reports, I quote, ‘seriously violate' broadcast guidelines, including, and I quote again, ‘the requirement that news should be truthful, and fair, and not harm China's national interests,'' said Johnson during the hearing on Wednesday.
+
+
+***
+![Democrats' letter targeting Fox, Newsmax for misinformation sparks clash during hearing](https://thehill.com/sites/default/files/010621getty_misinformation.jpg "Democrats' letter targeting Fox, Newsmax for misinformation sparks clash during hearing")
+
+
+[Democrats' letter targeting Fox, Newsmax for misinformation sparks clash during hearing](https://thehill.com/policy/technology/540386-democrats-letter-targeting-fox-newsmax-for-misinformation-sparks-clash)
+
+
+> Democrats fended off accusations of partisan bias during a debate over disinformation in the media at a House Energy and Commerce hearing on Wednesday.Reps. Anna EshooAnna Georges EshooHouse panel to dive into misinformation debate Hillicon Valley: Google lifting ban on political ads | DHS taking steps on cybersecurity | Controversy over TV 'misinformation rumor mills' House Democrats demand answers on TV 'misinformation rumor mills' MORE (D-Calif.) and Jerry McNerneyGerlad (Jerry) Mark McNerneyHouse panel to dive into misinformation debate Hillicon Valley: Google lifting ban on political ads | DHS taking steps on cybersecurity | Controversy over TV 'misinformation rumor mills' House Democrats demand answers on TV 'misinformation rumor mills' MORE (D-Calif.
+
+
+***
+![Controls Are Coming To Migrate Your Teens & Tweens From YouTube Kids](https://www.androidheadlines.com/wp-content/uploads/2019/01/YouTube-AH-NS-05.jpg "Controls Are Coming To Migrate Your Teens & Tweens From YouTube Kids")
+
+
+[Controls Are Coming To Migrate Your Teens & Tweens From YouTube Kids](https://www.androidheadlines.com/2021/02/controls-parents-tweens-teens-youtube-kids.html)
+
+
+> YouTube and YouTube Kids have stood as a separator between kid-appropriate content and that for older users for some time. Now, the company is reportedly looking to release parental controls meant to help migrate tweens and teens away from YouTube Kids. And, more directly, toward using YouTube safely and responsibly instead.Summarily, the new parental controls are part of an overarching revision to how YouTube handles supervised accounts. The company won't be parting ways with the YouTube controls already found in accounts managed by Family Link or other apps.
+
+
+***
+![Panel urges quick adoption of carbon pricing to hit emissions goal](https://japantoday.com/images/japan-today-social.jpg "Panel urges quick adoption of carbon pricing to hit emissions goal")
+
+
+[Panel urges quick adoption of carbon pricing to hit emissions goal](https://japantoday.com/category/tech/japan-advisers-urge-quick-adoption-of-carbon-pricing-to-hit-emissions-goal)
+
+
+> Japan must introduce carbon pricing and fiscal incentives for green investment to achieve its goal of becoming carbon-neutral by 2050, private-sector members of a key government panel said on Wednesday. Prime Minister Yoshihide Suga last December instructed his environment and industry ministries to work on a plan in 2021 to create a carbon pricing scheme, as part of efforts to meet his pledge to make Japan carbon-neutral by 2050. But progress has been slow due to differences between the environment ministry, which is keen to adopt carbon pricing, and the industry ministry, which is wary of initiatives that increase costs for Japan's manufacturers.
+
+
