@@ -33464,3 +33464,53 @@
 > February 25, 2021 07:00 AM Eastern Standard Time OLATHE, Kan.--(BUSINESS WIRE)--NIC Inc. Chief Executive Officer and Chairman of the Board Harry Herington was honored by CEO Today Magazine with a 2021 CEO Global award, recognizing the strong and innovative leadership amongst the most inspiring CEOs and business leaders across the globe. CEO Today features Herington in the winner's edition of the magazine, now available to more than 150,000 readers. In the article, Herington discusses his leadership philosophy, commitment to corporate social responsibility and NIC's remarkable momentum, following a year in which the company developed more than 130 digital solutions to help government move services online due to the COVID-19 pandemic, communicate with citizens efficiently, facilitate pandemic unemployment assistance and provide secure and reliable COVID-19 testing to hundreds of thousands across the nation.
 
 
+***
+![Pandas tutorial: answering 10 popular questions for Python data frames](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Pandas tutorial: answering 10 popular questions for Python data frames")
+
+
+[Pandas tutorial: answering 10 popular questions for Python data frames](https://www.reddit.com/r/Python/comments/ls77ir/pandas_tutorial_answering_10_popular_questions/)
+
+
+> Pandas is one of the first libraries you will learn about when you start working with Python for data analysis and data science. In this tutorial, we will answer 10 of the most frequently asked questions people have when working with pandas. The questions covered in this tutorial mostly come from Stack Overflow. Tutorial: https://datalore.jetbrains.com/view/notebook/6gojhrbqOlQNBil7H542XF
+
+
+***
+![Target to expand Apple offerings in stores and online](https://i-invdn-com.akamaized.net/news/Computer_800x533_L_1612384128.jpg "Target to expand Apple offerings in stores and online")
+
+
+[Target to expand Apple offerings in stores and online](https://www.investing.com/news/technology-news/target-to-expand-apple-offerings-in-stores-and-online-2429979)
+
+
+> No body in the article.
+
+
+***
+![PS5 UK stock latest – Currys to list consoles on March 1, fans predict, plus Argos, Amazon, GAME Playstation news LIVE](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/02/TOB-PS5-1200x1200-3.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 UK stock latest – Currys to list consoles on March 1, fans predict, plus Argos, Amazon, GAME Playstation news LIVE")
+
+
+[PS5 UK stock latest – Currys to list consoles on March 1, fans predict, plus Argos, Amazon, GAME Playstation news LIVE](https://www.thesun.co.uk/tech/14160314/ps5-uk-stock-playstation-game-argos-console-latest-live/)
+
+
+> CURRYS will get new PS5 stock on March 1, Playstation fans have predicted. The store is one of very few major UK retailers who didn't restock in February, with multiple Twitter stock trackers now convinced the new month could bring a Currys console drop. Meanwhile Playstation CEO Jim Ryan said Sony are "working as hard as they possibly can" to get more stock and blamed a global shortage in semiconductors for a slow rollout that has caused misery around the world. "I know there were people who wanted a PS5 and couldn't find one.
+
+
+***
+![How to customize and theme your Galaxy phone with Samsung's Good Lock app](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/good-lock-theme-park-color-picker-preview.jpg "How to customize and theme your Galaxy phone with Samsung's Good Lock app")
+
+
+[How to customize and theme your Galaxy phone with Samsung's Good Lock app](https://www.androidcentral.com/theme-your-galaxy-samsung-good-lock)
+
+
+> Source: Ara Wagoner / Android Centra Samsung has always allowed a greater degree of customization and theming on its phones than other Android manufacturers, but when it unveiled Good Lock back in 2016, it opened a bold new chapter. From building your own lock screen to customizing the way you interact with notifications, Good Lock allowed you to take your Galaxy smartphone and make it truly your own. It's just one of many features that have helped Samsung make the best Android phones on the market, distinctive and customizable inside and out.
+
+
+***
+![Using a PS5 controller on Android in a few simple steps](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/dualsense-ps5-horizon-zero-dawn-comic.jpg "Using a PS5 controller on Android in a few simple steps")
+
+
+[Using a PS5 controller on Android in a few simple steps](https://www.androidcentral.com/how-use-ps5-controller-android)
+
+
+> Source: Jennifer Locke / Android Central Connecting your PS5 DualSense controller to your Android mobile device is a quick and painless process thanks to Bluetooth. Should you ever want to use Remote Play or find another use for that DualSense on your phone, you'll be ready to go in less than a minute. All it takes is pressing a couple of buttons to get everything set up and connected. Hold the Share button and PS button on your DualSense controller at the same time for a few seconds until the light bar starts to flash blue.
+
+
