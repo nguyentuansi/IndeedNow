@@ -33561,3 +33561,50 @@
 > Coinbase has filed papers with U.S. regulators to become a publicly traded company as digital currencies continue to march toward mainstream acceptance.The digital currency exchange is seeking a direct listing, which would allow company insiders and early investors to convert their stakes in Coinbase into publicly traded stock.In a Thursday filing with the Securities and Exchange Commission, Coinbase also revealed how interest in digital currency is gaining steam on the exchange. Revenue more than doubled to $1.
 
 
+***
+![Train Multi-Lingual classifier for 100 languages in 1 Line, Hindi Word Embeddings, Bengali NER NYC/DC Meetup Webinar, in NLU 1.1.2](https://external-preview.redd.it/T1Gvrk-6ikOXB2FJ2UxTc8ZJaATvVLXy5wa88Y3OMQU.jpg?auto=webp&s=26d4e2ccac57601a99f4cf45d17f0e00f92fead8 "Train Multi-Lingual classifier for 100 languages in 1 Line, Hindi Word Embeddings, Bengali NER NYC/DC Meetup Webinar, in NLU 1.1.2")
+
+
+[Train Multi-Lingual classifier for 100 languages in 1 Line, Hindi Word Embeddings, Bengali NER NYC/DC Meetup Webinar, in NLU 1.1.2](https://www.reddit.com/r/Python/comments/lscl19/train_multilingual_classifier_for_100_languages/)
+
+
+> NLU 1.1.2 Release Notes We are very happy to announce NLU 1.1.2 has been released with the integration of 30+ models and pipelines Bengali Named Entity Recognition, Hindi Word Embeddings, and state-of-the-art transformer based OntoNotes models and pipelines from the incredible Spark NLP 2.7.3 Release in addition to a few bugfixes. In addition to that, there is a new NLU Webinar video showcasing in detail how to use NLU to analyze a crypto news dataset to extract keywords unsupervised and predict sentimential/emotional distributions of the dataset and much more! Using just 1 line of Python code by leveraging the NLU library, which is powered by the award-winning Spark NLP.
+
+
+***
+![Zotac RTX 3060 Graphics Card: For The Performance-Hungry Budget Gamer](https://im.indiatimes.in/content/2021/Feb/Article-Body---2021-02-25T162122231_603786d9aae4b.jpg "Zotac RTX 3060 Graphics Card: For The Performance-Hungry Budget Gamer")
+
+
+[Zotac RTX 3060 Graphics Card: For The Performance-Hungry Budget Gamer](https://www.indiatimes.com/technology/reviews/zotac-rtx-3060-graphics-card-review-535134.html)
+
+
+> Nvidia just unveiled its entry-level RTX enabled GPU -- the RTX3060. This GPU is expected to replace the existing RTX 2060 while offering ray-tracing capabilities at a slightly affordable price point.  ZotacWe got our hands on the Zotac RTX 3060 for a few days and I tested this out on my humble machine powered by an Intel Core i5 6600K, with 32GB of RAM.  IndiatimesWhile the setup surely is a bit dated for testing a graphics card, most buyers who are planning on getting this GPU might have a similarly dated system, so this also gives those buyers a clearer perspective on how the games would look on their system.
+
+
+***
+![Foundation on Apple TV Plus: release date, plot, cast, and what we know so far](https://cdn.mos.cms.futurecdn.net/DorZTpXpiX2jmapwPa5LCJ-1200-80.jpg "Foundation on Apple TV Plus: release date, plot, cast, and what we know so far")
+
+
+[Foundation on Apple TV Plus: release date, plot, cast, and what we know so far](https://www.techradar.com/news/foundation-on-apple-tv-plus-release-date-plot-cast-and-what-we-know-so-far)
+
+
+> Foundation, Apple TV's upcoming sci-fi series based on the novels by Isaac Asimov, has generated plenty of buzz since it was first announced in August 2018. Since then, snippets of information and a teaser trailer are the only things we've had to go on for this mysterious show, even though it's supposed to arrive later this year.Still: what do we know about Foundation's plot, cast, development, and potential release date at this point? There has been confirmation on some of these aspects, and we've gathered them together here to provide you with everything that's worth knowing about Foundation on Apple TV Plus so far.
+
+
+***
+![Best laptops for kids 2021: the top laptops for kids in elementary school and beyond](https://cdn.mos.cms.futurecdn.net/xYtLupBD3MiRn2VFbQ6feL-1200-80.jpg "Best laptops for kids 2021: the top laptops for kids in elementary school and beyond")
+
+
+[Best laptops for kids 2021: the top laptops for kids in elementary school and beyond](https://www.techradar.com/news/best-laptops-for-kids)
+
+
+> Buying the best laptop for kids is more important than ever, thanks to schools being closed and kids now learning remotely from home. More and more parents are looking for excellent yet affordable laptops to help with their kids' daily classes, homework and projects, and if you're among them, you've come to the right place.Choosing the best laptop for kids isn't as simple as finding the cheapest one and hoping for the best. You don't want to spring for something too pricey as your kids might lose or break it too quick for comfort.
+
+
+***
+[Cybersecurity experts and US lawmakers criticize Amazon for a lack of public transparency about the SolarWinds hack, which was likely launched using AWS (Wall Street Journal)](http://www.techmeme.com/210225/p19#a210225p19)
+
+
+> Wall Street Journal: Cybersecurity experts and US lawmakers criticize Amazon for a lack of public transparency about the SolarWinds hack, which was likely launched using AWS — Tech giant says it wasn't breached, but it is seen as having valuable data on the attack — As lawmakers and security researchers continue …
+
+
