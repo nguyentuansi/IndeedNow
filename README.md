@@ -33514,3 +33514,50 @@
 > Source: Jennifer Locke / Android Central Connecting your PS5 DualSense controller to your Android mobile device is a quick and painless process thanks to Bluetooth. Should you ever want to use Remote Play or find another use for that DualSense on your phone, you'll be ready to go in less than a minute. All it takes is pressing a couple of buttons to get everything set up and connected. Hold the Share button and PS button on your DualSense controller at the same time for a few seconds until the light bar starts to flash blue.
 
 
+***
+![Endzone](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Endzone.jpg?itok=xPOHzRw0 "Endzone")
+
+
+[Endzone](https://techraptor.net/gaming/news/endzone-world-apart-is-coming-out-steams-early-access-soon)
+
+
+> Published: Thursday, February 25, 2021 - 11:10 | By: Patrick Perrault Endzone - A World Apart is fully releasing on March 18, 2021 for Steam and GOG after selling 150,000 units in Steam's Early Access. During the title's Early Access phase, there have been 11 major updates that have added new mechanics, buildings, environmental hazards, equipment, branching skill trees, and more. The game will also be receiving its first expansion later this year, so Endzone fans should be on the lookout for that.
+
+
+***
+[Launch HN: Polytomic (YC W20) – Get internal data to your business teams](https://news.ycombinator.com/item?id=26264257)
+
+
+> Hello, HN comrades!I'm Ghalib, with my co-founder Nathan, and we've built Polytomic (https:///www.polytomic.com). Polytomic is a no-code web app to sync your company's internal data from databases and spreadsheets to business systems like Salesforce, Marketo, HubSpot, Google Sheets, and others.Business teams who live in these systems often want data piped in from databases or spreadsheets. Think about the salesperson who lives in Salesforce and wants to generate a report there about which of their customers have logged into the product recently.
+
+
+***
+![Presenting BetterGitCLI](https://external-preview.redd.it/ZADL6dLCdmqdXW6OPWxAw7ZOSR1P7zyljW0Y4YNFoCM.jpg?auto=webp&s=01de9c20b83dc2d93a9bbcd173f9bb4f798daeea "Presenting BetterGitCLI")
+
+
+[Presenting BetterGitCLI](https://www.reddit.com/r/Python/comments/ls9ttx/presenting_bettergitcli_github_cli_with_ui_and/)
+
+
+> I have created a GitHub CLI in Python, which lets you perform multiple actions on your GitHub accounts like managing repositories, user details and more! I've finally gotten it to a state where I'm somehow happy with it, so here it is. It is not perfect, it is not free of bugs, and does not have a whole ton of features now, but this is a project that I want to actively develop and engage in, and would also love contributions from other people! You can view it on my GitHub over at PiotrRut/Better
+
+
+***
+![Digital exchange Coinbase takes a step toward going public](https://www.clickorlando.com/resizer/N8PMuZAyIwlHmv6a4CbW4feP46s=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/WOG7VF6MSFCG5OLIUOYYMMEXOI.jpg "Digital exchange Coinbase takes a step toward going public")
+
+
+[Digital exchange Coinbase takes a step toward going public](https://www.clickorlando.com/tech/2021/02/25/digital-exchange-coinbase-takes-a-step-toward-going-public/)
+
+
+> Coinbase has filed papers with U.S. regulators to become a publicly traded company as digital currencies continue to march toward mainstream acceptance.The digital currency exchange is seeking a direct listing, which would allow company insiders and early investors to convert their stakes in Coinbase into publicly traded stock.In a Thursday filing with the Securities and Exchange Commission, Coinbase also revealed how interest in digital currency is gaining steam on the exchange. Revenue more than doubled to $1.
+
+
+***
+![Digital exchange Coinbase takes a step toward going public](https://www.local10.com/resizer/N8PMuZAyIwlHmv6a4CbW4feP46s=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/WOG7VF6MSFCG5OLIUOYYMMEXOI.jpg "Digital exchange Coinbase takes a step toward going public")
+
+
+[Digital exchange Coinbase takes a step toward going public](https://www.local10.com/tech/2021/02/25/digital-exchange-coinbase-takes-a-step-toward-going-public/)
+
+
+> Coinbase has filed papers with U.S. regulators to become a publicly traded company as digital currencies continue to march toward mainstream acceptance.The digital currency exchange is seeking a direct listing, which would allow company insiders and early investors to convert their stakes in Coinbase into publicly traded stock.In a Thursday filing with the Securities and Exchange Commission, Coinbase also revealed how interest in digital currency is gaining steam on the exchange. Revenue more than doubled to $1.
+
+
