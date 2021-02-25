@@ -33317,3 +33317,50 @@
 > Battle royale games are one of the most popular genres in gaming these days and it's all thanks to PUBG, a game that has evolved into a few different titles, with its latest being PUBG: New State.Officially announced on February 24 by KRAFTON Inc., with development being led by PUBG Studio, PUBG: New State is in a way the future of the PUBG franchise. And, it's a mobile-only title. While that might not seem like a big deal at first, it is.It solidifies two things. For one, it shows that mobile is a tried and true platform for gaming and that PUBG Studio and KRAFTON are able to recognize the room for more growth potential.
 
 
+***
+![All eyes on GameStop after shares double in late-night surge](https://www.telegraph.co.uk/content/dam/technology/2021/02/18/TELEMMGLPICT000249599698_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?impolicy=logo-overlay "All eyes on GameStop after shares double in late-night surge")
+
+
+[All eyes on GameStop after shares double in late-night surge](https://www.telegraph.co.uk/technology/2021/02/25/eyes-gamestop-shares-double-late-night-surge-live-updates/)
+
+
+> The chairman of the Daily Mail and General Trust, Lord Rothermere, has waded into the row over Facebook's moves in Australia, saying the social media site has "won the battle" after resorting to "blackmail". Lord Rothermere, whose company owns the Daily Mail, wrote in a letter in the Financial Times that "politicians should be very worried about events in Australia".  "News publishers and governments have worked together to fight for fair treatment. In the UK, a new digital regulator is being set up; in Australia, parliament has been debating a law to force platforms to pay for content.
+
+
+***
+![CSS BUTTON COLLECTION](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "CSS BUTTON COLLECTION")
+
+
+[CSS BUTTON COLLECTION](https://www.reddit.com/r/programming/comments/ls1f5m/css_button_collection/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Firefox has a new feature in the fight against tracking](https://www.komando.com/wp-content/uploads/2021/02/firefox-cookie-tracking-970x546.jpg "Firefox has a new feature in the fight against tracking")
+
+
+[Firefox has a new feature in the fight against tracking](https://www.komando.com/security-privacy/firefox-total-cookie-protection/780570/)
+
+
+> Cookies track your online activity and follow you around the web. Firefox just added a feature to fight back against tracking cookies.
+
+
+***
+[PUBG Mobile New State official trailer released, pre-registration on Google Play Store](https://www.zeebiz.com/technology/news-pubg-mobile-new-state-official-trailer-released-pre-registration-on-google-play-store-all-new-features-details-here-150846)
+
+
+> PUBG Mobile New State: In good news for PUBG Mobile game lovers around the world, the developer of the game, PUBG Studio has released the trailer for the latest PUBG: New State mobile game and is up for pre-registration on Google Play Store.
+
+
+***
+![Work, play or learn](https://cdn.mos.cms.futurecdn.net/s2JVvBBMZvQeF6RZG2UKqi-1200-80.jpg "Work, play or learn")
+
+
+[Work, play or learn](https://global.techradar.com/news/work-play-or-learn-you-can-do-it-all-with-the-super-smart-samsung-smart-monitor)
+
+
+> (Image credit: Samsung) It started in 2020, with more people working remotely, parents becoming teachers and even news reporters sharing breaking news from their garage. Simply put, around the world; work, education and entertainment transformed into home-centred activities. Samsung's new Smart Monitor has therefore arrived just in time with a single display packed with all-in-one features for work, learning and entertainment.Get work and learning done effortlesslySamsung's Smart Monitor incorporates powerful mobile and PC connectivity for a remote home office or learning platform.
+
+
