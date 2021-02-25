@@ -33182,3 +33182,47 @@
 > Just as we are driven today to watch gifs that get better with every loop, people 100+ years ago entertained themselves with various persistence of vision toys that used the power of optical illusions to make still images come to life. [jollifactory] recently recreated one of the first POV devices — the phenakistoscope — into a toy for our times. The original phenakistoscopes were simple, but the effect they achieved was utterly amazing. Essentially a picture disk with a handle, the user would hold the handle with one hand and spin the disk with the other while looking in a mirror through slits in the disk.
 
 
+***
+[ViacomCBS says Paramount+ will cost $5/month with ads and $10/month without ads; the ad tier will be available in June while the ad-free tier starts on March 4 (Richard Lawler/Engadget)](http://www.techmeme.com/210224/p44#a210224p44)
+
+
+> Richard Lawler / Engadget: ViacomCBS says Paramount+ will cost $5/month with ads and $10/month without ads; the ad tier will be available in June while the ad-free tier starts on March 4 — ViacomCBS has a ‘mountain of content’ on the way to streaming, including a ‘Halo’ series and ‘Beavis and Butthead.’
+
+
+***
+![Future bright for TVs with new display tech (and jargon) in 2021](https://resources.stuff.co.nz/content/dam/images/4/y/r/6/4/o/image.related.StuffLandscapeSixteenByNine.1420x800.4yr66e.png/1614218422853.jpg "Future bright for TVs with new display tech (and jargon) in 2021")
+
+
+[Future bright for TVs with new display tech (and jargon) in 2021](https://www.stuff.co.nz/technology/300239366/future-bright-for-tvs-with-new-display-tech-and-jargon-in-2021)
+
+
+> Amid incredible demand for new TVs over the past few months, the biggest names in the business are preparing to introduce new models that look better than ever and offer entirely new tech. Of course with a spate of amazing televisions comes an overwhelming array of new jargon, acronyms and similar sounding brand names that will confuse TV shoppers everywhere. So what does it all mean, and which ones are actually worth getting excited about? When it comes to picture quality, OLED is king. Unlike LCD televisions, which require a backlight to illuminate the pixels on screen, OLED is self-emissive.
+
+
+***
+[Tech retailer Fry's Electronics announces it will cease operations effective immediately, blames industry changes and the pandemic for the shutdown (Sean Hollister/The Verge)](http://www.techmeme.com/210224/p43#a210224p43)
+
+
+> Sean Hollister / The Verge: Tech retailer Fry's Electronics announces it will cease operations effective immediately, blames industry changes and the pandemic for the shutdown — Your best buys are no longer at Fry's, guaranteed — Fry's Electronics, one of the last big brick-and-mortar electronics store chains …
+
+
+***
+![There's No Way This Video Of A Woman Upset With Someone Trying To Tell Her She Left The Gas Hose In Her Car Is Real But Watch It Anyway](https://cdn.digg.com/wp-content/uploads/2021/02/25014848/Screen-Shot-2021-02-24-at-8.48.31-PM.jpg "There's No Way This Video Of A Woman Upset With Someone Trying To Tell Her She Left The Gas Hose In Her Car Is Real But Watch It Anyway")
+
+
+[There's No Way This Video Of A Woman Upset With Someone Trying To Tell Her She Left The Gas Hose In Her Car Is Real But Watch It Anyway](https://digg.com/video/woman-leaves-gas-hose-in-car)
+
+
+> The founding father of American birding soared on the wings of white privilege. The birding community and organizations that bear his name must grapple with this racist legacy to create a more just, inclusive world. This video of a man attempting to reason with a woman who left a gas hose in her car has got to be fake. Right? With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. A homeowner observing the weather out of their balcony saw two men out in the distance fighting with lightsabers.
+
+
+***
+![Australian media reforms pass parliament after last-ditch changes](https://i-invdn-com.akamaized.net/news/LYNXMPEE040EX_L.jpg "Australian media reforms pass parliament after last-ditch changes")
+
+
+[Australian media reforms pass parliament after last-ditch changes](https://www.investing.com/news/technology-news/australian-parliament-passes-news-media-bargaining-code-2429173)
+
+
+> © Reuters. FILE PHOTO: A 3D printed Facebook logo is seen in front of displayed Australia's flag in this illustration photo By Colin Packham and Swati Pandey CANBERRA (Reuters) - The Australian parliament on Thursday passed a new law designed to force Alphabet (NASDAQ:) Inc's Google and Facebook Inc (NASDAQ:) to pay media companies for content used on their platforms in reforms that could be replicated in other countries. Australia will be the first country where a government arbitrator will decide the price to be paid by the tech giants if commercial negotiations with local news outlets fail.
+
+
