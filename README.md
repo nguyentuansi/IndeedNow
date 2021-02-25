@@ -33608,3 +33608,47 @@
 > Wall Street Journal: Cybersecurity experts and US lawmakers criticize Amazon for a lack of public transparency about the SolarWinds hack, which was likely launched using AWS — Tech giant says it wasn't breached, but it is seen as having valuable data on the attack — As lawmakers and security researchers continue …
 
 
+***
+[Hyas, which maps the "command and control" structure and communication patterns of bad actors to intercept cyberattacks, raises $16M Series B (Chris O'Brien/VentureBeat)](http://www.techmeme.com/210225/p25#a210225p25)
+
+
+> Chris O'Brien / VentureBeat: Hyas, which maps the “command and control” structure and communication patterns of bad actors to intercept cyberattacks, raises $16M Series B — After launching its Hyas Protect service last year, threat detection company Hyas today announced a $16 million round to accelerate growth.
+
+
+***
+[Fintech Can Help You Protect Your Nest Egg](https://banyanhill.com/fintech-protect-your-nest-egg/)
+
+
+> There's one version of fintech that I use every day. You may not even think of it as fintech, but it is. And it's quite advanced.
+
+
+***
+![Best gaming mouse 2021: the best gaming mice we've tested](https://cdn.mos.cms.futurecdn.net/m3XrwcaHT4eXuHHuKpsMDF-1200-80.jpg "Best gaming mouse 2021: the best gaming mice we've tested")
+
+
+[Best gaming mouse 2021: the best gaming mice we've tested](https://www.techradar.com/news/best-gaming-mouse)
+
+
+> You'll certainly experience a difference when you switch to the best gaming mouse for your battle station. Not only will you end up with colorful RGB lighting, but you'll also get improved speed and accuracy as well as extra features to help you with your gaming. And it's worth the investment to get the full potential from that best graphics card you upgraded to, or the best gaming PC you just bought.It doesn't matter if you're a casual gamer or a competitive one. The best gaming mouse will provide that extra gaming edge you need, including more accuracy and responsiveness than more run-of-the-mill mice, as well as top-notch sensors that offer higher DPI.
+
+
+***
+![Google judge tells lawyers to figure out document dispute](https://i-invdn-com.akamaized.net/news/LYNXMPEE2J1MY_L.jpg "Google judge tells lawyers to figure out document dispute")
+
+
+[Google judge tells lawyers to figure out document dispute](https://www.investing.com/news/technology-news/google-judge-tells-lawyers-to-figure-out-document-dispute-2430479)
+
+
+> © Reuters. FILE PHOTO: The Google sign is shown on one of the company's office buildings in Irvine, California WASHINGTON (Reuters) - A federal judge hearing a U.S. government antitrust case against Google on Thursday urged the lawyers to work out a complicated dispute on pre-trial document production among themselves. The Justice Department has been pushing Alphabet (NASDAQ:)'s Google to produce documents on a long list of topics related to its lawsuit, which accuses the company of breaking antitrust law in its search and search advertising businesses.
+
+
+***
+![Majid Al Futtaim Retail Expands Tally Robot Deployment to a Dozen Carrefour Stores in the UAE](https://mms.businesswire.com/media/20210225006096/en/832517/23/Simbe-Logo-Regular.jpg "Majid Al Futtaim Retail Expands Tally Robot Deployment to a Dozen Carrefour Stores in the UAE")
+
+
+[Majid Al Futtaim Retail Expands Tally Robot Deployment to a Dozen Carrefour Stores in the UAE](https://www.businesswire.com/news/home/20210225006096/en/Majid-Al-Futtaim-Retail-Expands-Tally-Robot-Deployment-to-a-Dozen-Carrefour-Stores-in-the-UAE)
+
+
+> February 25, 2021 02:53 PM Eastern Standard Time SAN FRANCISCO--(BUSINESS WIRE)--A year after introducing Simbe Robotics' autonomous inventory robot Tally to their Dubai's Mall of Emirates store, Majid Al futtaim, owner and operator of Carrefour in the UAE, announced it is launching the technology in an additional 11 stores to ensure items are on shelves, inform better restocking and replenishment systems, and support its growing online grocery business. Carrefour first launched Simbe's Tally robot in September 2019, utilizing its real-time product availability, placement, and pricing data to ensure shelves are stocked and planograms correctly executed.
+
+
