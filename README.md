@@ -33226,3 +33226,47 @@
 > © Reuters. FILE PHOTO: A 3D printed Facebook logo is seen in front of displayed Australia's flag in this illustration photo By Colin Packham and Swati Pandey CANBERRA (Reuters) - The Australian parliament on Thursday passed a new law designed to force Alphabet (NASDAQ:) Inc's Google and Facebook Inc (NASDAQ:) to pay media companies for content used on their platforms in reforms that could be replicated in other countries. Australia will be the first country where a government arbitrator will decide the price to be paid by the tech giants if commercial negotiations with local news outlets fail.
 
 
+***
+[PUBG Mobile 2 may launch next week](https://www.zeebiz.com/technology/apps/news-massive-update-pubg-mobile-2-may-launch-next-week-check-availability-download-link-and-more-now-150697)
+
+
+> PlayerUnknown's Battlegrounds or PUBG Mobile is undoubtedly one of the most famous battle royale game globally at present. After the huge success of the PUBG Mobile around the world, the game developers are planning to bring sequel for both its web and mobile versions.
+
+
+***
+![Australia passes law requiring Facebook and Google to pay for news content](https://cdn.vox-cdn.com/thumbor/ur79HGb9ir4zq0hf6rrbqClBA0s=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10801249/acastro_180508_1777_google_IO_0002.jpg "Australia passes law requiring Facebook and Google to pay for news content")
+
+
+[Australia passes law requiring Facebook and Google to pay for news content](https://www.theverge.com/2021/2/24/22283777/australia-new-media-bargaining-code-facebook-google-paying-news)
+
+
+> Illustration by Alex Castro / The Verge The Australian government has passed a new law requiring Google and Facebook to negotiate with news outlets to pay for their content or face arbitration. 'This is a significant milestone,' said Josh Frydenberg, the Liberal party's deputy leader who spearheaded the new law. 'This legislation will help level the playing field & see Australian news media businesses paid for generating original content.' The Australian Competition and Consumer Commission (ACCC) says the law will address 'a significant bargaining power imbalance between Australian news media businesses and Google and Facebook.
+
+
+***
+![Grab to hire 350 people in Singapore to deliver financial services, support digitalisation of companies](https://www.straitstimes.com/s3/files/styles/x_large/public/articles/2021/02/25/nz_grab_250252.jpg?itok=_0I6vnwD "Grab to hire 350 people in Singapore to deliver financial services, support digitalisation of companies")
+
+
+[Grab to hire 350 people in Singapore to deliver financial services, support digitalisation of companies](https://www.straitstimes.com/tech/tech-news/grab-to-hire-350-people-in-singapore-to-deliver-financial-services-support)
+
+
+> SINGAPORE - Ride-hailing operator Grab will be hiring about 350 more employees here this year to help it deliver financial services in South-east Asia. The new hires will also develop its digital banking business and support micro enterprises in their digital transformation. Grab is looking at those with skills in artificial intelligence, cyber security, data science, software engineering, as well as project management and design. They are expected to be involved in projects to improve the ability of merchants to offer better and tailored products to their customers.
+
+
+***
+![Joe Biden to press for $37 billion to boost chip manufacturing amid shortfall](https://images.indianexpress.com/2021/02/Joe-Biden-3.jpg "Joe Biden to press for $37 billion to boost chip manufacturing amid shortfall")
+
+
+[Joe Biden to press for $37 billion to boost chip manufacturing amid shortfall](https://indianexpress.com/article/technology/tech-news-technology/joe-biden-seeks-37-billion-boost-chip-manufacturing-7203806/)
+
+
+> President Joe Biden said on Wednesday he would seek $37 billion in funding for legislation to supercharge chip manufacturing in the United States as a shortfall of semiconductors has forced U.S. automakers and other manufacturers to cut production. Biden also signed an executive order on Wednesday aimed at addressing the global semiconductor chip shortage that has alarmed the White House and members of Congress, administration officials said. The scarcity, exacerbated by the pandemic, was also the subject of a discussion between Biden and a bipartisan group of U.
+
+
+***
+[Amazon announces general availability of Lookout for Vision, a cloud service that spots defects and anomalies in manufactured goods using computer vision (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210224/p46#a210224p46)
+
+
+> Kyle Wiggers / VentureBeat: Amazon announces general availability of Lookout for Vision, a cloud service that spots defects and anomalies in manufactured goods using computer vision — Amazon today announced the general availability of Amazon Lookout for Vision, a cloud service that analyzes images using computer vision …
+
+
