@@ -33414,3 +33414,53 @@
 > The government on Thursday announced new rules to curb misuse of social media platforms, as it mandated firms to appoint grievance officer, disclose the first originator of the mischievous information and remove, within 24 hours, content depicting nudity or morphed pictures of women.Concerns have been raised about rampant abuse of social media platforms and spread of fake news and the government is bringing in a "soft touch" regulation, IT Minister Ravi Shankar Prasad said while announcing the new guidelines.
 
 
+***
+![Samsung Galaxy Fold & Note 10 Series Are Getting One UI 3.1 Update](https://www.androidheadlines.com/wp-content/uploads/2019/08/Samsung-Galaxy-Note-10-Plus-Review-AM-AH-1-4.jpg "Samsung Galaxy Fold & Note 10 Series Are Getting One UI 3.1 Update")
+
+
+[Samsung Galaxy Fold & Note 10 Series Are Getting One UI 3.1 Update](https://www.androidheadlines.com/2021/02/samsung-galaxy-fold-note-10-one-ui-3-1-update.html)
+
+
+> Samsung has started rolling out One UI 3.1 update for the Galaxy Note 10 series and the Galaxy Fold. These two phones are following the Galaxy S20 series, Note 20 series, Z Fold 2, Z Flip, and the Z Flip 5G.In regards to the Galaxy Note 10 and Note 10+, both devices have started receiving the update in France. The Galaxy Fold, on the other hand, has started receiving the update in Germany. Other markets will follow soon.Samsung Galaxy Fold & Note 10 series are getting One UI 3.1 with March 2021 security updateThis latest update carries the firmware version N97xFXXU6FUBD for the Galaxy Note 10 series devices, reports SamMobile.
+
+
+***
+![I'm anti-Facebook, but even I can see value in its rumored wearable devices](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/whatsapp-wearos.jpg "I'm anti-Facebook, but even I can see value in its rumored wearable devices")
+
+
+[I'm anti-Facebook, but even I can see value in its rumored wearable devices](https://www.androidcentral.com/facebook-smartwatch-isnt-crazy-it-sounds)
+
+
+> Source: Derrek Lee / Android Central If recent reports are true, it appears that everybody's favorite privacy-focused company, Facebook, is preparing to bring its own smartwatch (and other wearables) to market sometime in 2021. First reported by The Information, this new wearable could likely run a version of Google's Wear OS, and lean in heavily on Facebook's messaging services, as well as have a focus on health and fitness. Jitesh Ubrani, Research Manager for Worldwide Mobile Device Trackers at IDC, told AC that he isn't surprised by these whispers at all.
+
+
+***
+![Surge in Digital Home Insurance Claims During COVID-19 Drives Faster Cycle Times and Improved Customer Satisfaction, J.D. Power Finds](https://mms.businesswire.com/media/20210225005029/en/860704/23/2021015.jpg "Surge in Digital Home Insurance Claims During COVID-19 Drives Faster Cycle Times and Improved Customer Satisfaction, J.D. Power Finds")
+
+
+[Surge in Digital Home Insurance Claims During COVID-19 Drives Faster Cycle Times and Improved Customer Satisfaction, J.D. Power Finds](https://www.businesswire.com/news/home/20210225005029/en/Surge-in-Digital-Home-Insurance-Claims-During-COVID-19-Drives-Faster-Cycle-Times-and-Improved-Customer-Satisfaction-J.D.-Power-Finds)
+
+
+> February 25, 2021 07:00 AM Eastern Standard Time TROY, Mich.--(BUSINESS WIRE)--Digital transformation became more than a buzzword for home insurers at the onset of the COVID-19 pandemic—it also became the key to faster claims settlement, payment and record high levels of customer satisfaction. The J.D. Power 2021 U.S. Property Claims Satisfaction Study,SM released today, tracked customer experiences with home insurance claims both before and during the COVID-19 pandemic. The study finds that customer adoption of digital claims reporting, estimation and, most importantly, insurers' use of photos/videos for estimation increased during 2020.
+
+
+***
+![RingCentral Opens Innovation Centers in India](https://mms.businesswire.com/media/20210225005119/en/675665/23/ringcentral_logo.jpg "RingCentral Opens Innovation Centers in India")
+
+
+[RingCentral Opens Innovation Centers in India](https://www.businesswire.com/news/home/20210225005119/en/RingCentral-Opens-Innovation-Centers-in-India)
+
+
+> February 25, 2021 07:00 AM Eastern Standard Time BELMONT, Calif.--(BUSINESS WIRE)--RingCentral, Inc. (NYSE: RNG), a leading provider of global enterprise cloud communications, collaboration, video meetings, and contact center solutions, today announced plans to open two new innovation centers in India. The centers, which will be located in Bangalore and Gurgaon, will undertake research and development for RingCentral's suite of products. This is the latest stage of the company's global expansion and it expects to hire top talent in India.
+
+
+***
+![NIC CEO Harry Herington Earns Worldwide Honor](https://mms.businesswire.com/media/20210225005187/en/861314/23/NIC_no_tag_line.jpg "NIC CEO Harry Herington Earns Worldwide Honor")
+
+
+[NIC CEO Harry Herington Earns Worldwide Honor](https://www.businesswire.com/news/home/20210225005187/en/NIC-CEO-Harry-Herington-Earns-Worldwide-Honor)
+
+
+> February 25, 2021 07:00 AM Eastern Standard Time OLATHE, Kan.--(BUSINESS WIRE)--NIC Inc. Chief Executive Officer and Chairman of the Board Harry Herington was honored by CEO Today Magazine with a 2021 CEO Global award, recognizing the strong and innovative leadership amongst the most inspiring CEOs and business leaders across the globe. CEO Today features Herington in the winner's edition of the magazine, now available to more than 150,000 readers. In the article, Herington discusses his leadership philosophy, commitment to corporate social responsibility and NIC's remarkable momentum, following a year in which the company developed more than 130 digital solutions to help government move services online due to the COVID-19 pandemic, communicate with citizens efficiently, facilitate pandemic unemployment assistance and provide secure and reliable COVID-19 testing to hundreds of thousands across the nation.
+
+
