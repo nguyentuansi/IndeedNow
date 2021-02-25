@@ -33652,3 +33652,50 @@
 > February 25, 2021 02:53 PM Eastern Standard Time SAN FRANCISCO--(BUSINESS WIRE)--A year after introducing Simbe Robotics' autonomous inventory robot Tally to their Dubai's Mall of Emirates store, Majid Al futtaim, owner and operator of Carrefour in the UAE, announced it is launching the technology in an additional 11 stores to ensure items are on shelves, inform better restocking and replenishment systems, and support its growing online grocery business. Carrefour first launched Simbe's Tally robot in September 2019, utilizing its real-time product availability, placement, and pricing data to ensure shelves are stocked and planograms correctly executed.
 
 
+***
+![Ukraine Court Orders Access Blocked to 400 Websites for Ties to Russia](https://media.breitbart.com/media/2021/02/Russia-computer-640x335.jpg "Ukraine Court Orders Access Blocked to 400 Websites for Ties to Russia")
+
+
+[Ukraine Court Orders Access Blocked to 400 Websites for Ties to Russia](https://www.breitbart.com/europe/2021/02/25/ukraine-court-orders-access-blocked-400-websites-ties-russia/)
+
+
+> A court in Kyiv ordered internet regulators to block over 400 websites in the country, many of them allegedly having ties to the Russian government, Ukrainian media reported Wednesday. Ukraine is currently at war with Russia-backed separatists in its eastern Donbass region, where fighters in both the Donetsk and Luhansk areas have declared themselves sovereign state entities. Kyiv regularly accuses the Russian government of exacerbating violence in the area; Moscow claims the fighters are merely ethnic Russians who are not tied to the Russian military.
+
+
+***
+![Bokhari: Microsoft and Friends Want to Destroy Online Privacy](https://media.breitbart.com/media/2018/03/wi/afp/29/3qb52p_shakeup-announced-by-microsoft-ceo-satya-nadella-pushes-onetime-tech-leader-e1527783650906.jpg "Bokhari: Microsoft and Friends Want to Destroy Online Privacy")
+
+
+[Bokhari: Microsoft and Friends Want to Destroy Online Privacy](https://www.breitbart.com/tech/2021/02/25/bokhari-microsoft-and-friends-want-to-destroy-online-privacy/)
+
+
+> Microsoft has teamed up with a number of tech and media companies to create a system of tracing content around the internet that could destroy online privacy and anonymity, radically transforming the nature of the web. Against stiff competition, the alliance of tech and media giants has devised a plan that may constitute Big Tech's most brazen power-grab yet. According to Microsoft's press release, it has partnered with several other organizations to form the Coalition for Content Provenance and Authenticity (C2PA).
+
+
+***
+[Game on, again: GameStop surges and no one truly knows why](https://japantoday.com/category/tech/game-on-again-gamestop-surges-and-no-one-truly-knows-why)
+
+
+> Wall Street's GameStop saga won't stop. After weeks of going dormant, shares of GameStop have suddenly shot higher again, rising 18.6% Thursday after surging 75% in the last…
+
+
+***
+![Govt frames new rules to hold social media, OTT accountable for content](https://images.indianexpress.com/2021/02/ravi-shaakar.jpg "Govt frames new rules to hold social media, OTT accountable for content")
+
+
+[Govt frames new rules to hold social media, OTT accountable for content](https://indianexpress.com/article/technology/tech-news-technology/govt-frames-new-rules-to-hold-social-media-ott-accountable-for-content-7205063/)
+
+
+> The Centre Thursday notified new guidelines for intermediaries in 'soft touch oversight' rules, saying these were needed to hold social media and other companies accountable for 'misuse and abuse'. These will require Big Tech platforms to set up stronger grievance redressal mechanisms, and appoint executives to coordinate with law enforcement in India. For social media platforms like Twitter, Facebook, etc, the guidelines essentially remove the 'safe harbour' provided to these companies — it limited their liability over content that users posted on their platforms — if the platforms do not comply with due diligence norms.
+
+
+***
+![Facebook launches PR campaign to defend targeted ads in spat with Apple](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/ec/1b/4bf19c16521f03ea01b548e6e4f378be2263/ec1b4bf19c16521f03ea01b548e6e4f378be2263_12.jpg "Facebook launches PR campaign to defend targeted ads in spat with Apple")
+
+
+[Facebook launches PR campaign to defend targeted ads in spat with Apple](https://japantoday.com/category/tech/facebook-launches-pr-campaign-to-defend-targeted-ads-in-spat-with-apple)
+
+
+> Facebook is not backing down in its fight with Apple over a new privacy feature that could curb tracking needed for the social network's targeted ads, launching a major media campaign to defend a practice that is a big revenue generator. The "Good Ideas Deserve To Be Found" initiative unveiled on Thursday includes television, radio and digital spots. "Every business starts with an idea, and being able to share that idea through personalized ads is a game changer for small businesses," Facebook said in a statement, citing examples like a farm that offers goat yoga classes.
+
+
