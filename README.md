@@ -33270,3 +33270,50 @@
 > Kyle Wiggers / VentureBeat: Amazon announces general availability of Lookout for Vision, a cloud service that spots defects and anomalies in manufactured goods using computer vision — Amazon today announced the general availability of Amazon Lookout for Vision, a cloud service that analyzes images using computer vision …
 
 
+***
+[USD/CAD falls below 1.2500 for the first time in three years](https://www.forexlive.com/technical-analysis/!/usdcad-falls-below-12500-for-the-first-time-in-three-years-20210225)
+
+
+> The loonie has been quietly making its way higher in trading this year Higher oil prices have proved to be a boon for the Canadian dollar to start the year but a weaker dollar has also exacerbated the drop in USD/CAD as of late.
+
+
+***
+![Facebook bowed to demands from Turkey to block one of its military opponents](https://external-preview.redd.it/3-sL_AnsuHwZVU_GVbHyjVGFU1lQdnwtEL8PFMf7I3U.jpg?auto=webp&s=da806469be2955da53c9498c5e95b9e7f27c23c2 "Facebook bowed to demands from Turkey to block one of its military opponents")
+
+
+[Facebook bowed to demands from Turkey to block one of its military opponents](https://www.reddit.com/r/technology/comments/lrzfjm/facebook_bowed_to_demands_from_turkey_to_block/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Facebook adds features to curb child exploitation content on its platform](https://www.thehindu.com/sci-tech/technology/i65w3v/article33921984.ece/ALTERNATES/LANDSCAPE_615/Facebook-AFP-3jpg "Facebook adds features to curb child exploitation content on its platform")
+
+
+[Facebook adds features to curb child exploitation content on its platform](https://www.thehindu.com/sci-tech/technology/internet/facebook-adds-features-to-curb-child-exploitation-content/article33929801.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Facebook has added new features to curb child harassment and exploitation on its platform by focusing on content that victimises children. Child abuse content include posts on child nudity, sexual exploitation, inappropriate interactions with children and non-sexual child abuse.The social network's app will now display a pop-up when a user searches for terms associated with child exploitation.
+
+
+***
+![YouTube to let parents choose what their kids can watch](https://cdn.mos.cms.futurecdn.net/JzHnaW2NteQCGAsdXUeCjb-1200-80.png "YouTube to let parents choose what their kids can watch")
+
+
+[YouTube to let parents choose what their kids can watch](https://www.techradar.com/news/youtube-to-let-parents-choose-what-their-kids-can-watch-this-is-how)
+
+
+> (Image credit: YouTube) YouTube is launching a "supervised' version, which is essentially a middle-ground between YouTube Kids and the main site. This is to let parents offer an age-appropriate YouTube experience to children who outgrow the content in YouTube Kids.The new supervised mode will be available to children over 13, and will come with content settings and limited features. The various access tiers would allow parents to control what their children can watch."In the coming months, we'll launch a new experience in beta for parents to allow their children to access YouTube through a supervised Google Account," YouTube said.
+
+
+***
+![PUBG: New State Is The Future Of PUBG & It's Exclusively On Mobile](https://www.androidheadlines.com/wp-content/uploads/2021/02/PUBG-New-State-2.jpg "PUBG: New State Is The Future Of PUBG & It's Exclusively On Mobile")
+
+
+[PUBG: New State Is The Future Of PUBG & It's Exclusively On Mobile](https://www.androidheadlines.com/2021/02/pubg-new-state-battle-royale-mobile-android-gaming-shooter-games.html)
+
+
+> Battle royale games are one of the most popular genres in gaming these days and it's all thanks to PUBG, a game that has evolved into a few different titles, with its latest being PUBG: New State.Officially announced on February 24 by KRAFTON Inc., with development being led by PUBG Studio, PUBG: New State is in a way the future of the PUBG franchise. And, it's a mobile-only title. While that might not seem like a big deal at first, it is.It solidifies two things. For one, it shows that mobile is a tried and true platform for gaming and that PUBG Studio and KRAFTON are able to recognize the room for more growth potential.
+
+
