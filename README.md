@@ -33132,3 +33132,53 @@
 > Japan must introduce carbon pricing and fiscal incentives for green investment to achieve its goal of becoming carbon-neutral by 2050, private-sector members of a key government panel said on Wednesday. Prime Minister Yoshihide Suga last December instructed his environment and industry ministries to work on a plan in 2021 to create a carbon pricing scheme, as part of efforts to meet his pledge to make Japan carbon-neutral by 2050. But progress has been slow due to differences between the environment ministry, which is keen to adopt carbon pricing, and the industry ministry, which is wary of initiatives that increase costs for Japan's manufacturers.
 
 
+***
+![Facebook, Google news laws pass](https://content.api.news/v3/images/bin/5f941eb7e7be6883512a1219984f808a "Facebook, Google news laws pass")
+
+
+[Facebook, Google news laws pass](https://www.dailytelegraph.com.au/technology/facebook-google-can-be-forced-to-pay-for-news-after-media-law-passes/news-story/68784d99e564569d5d99662817c69e21)
+
+
+> Australia has become one of the first countries in the world that can force tech giants to pay for news after new laws pass.Australia has become one of the first countries in the world with the power to force tech giants to pay for the news they use after a controversial law passed in parliament today. The News Media and Digital Platforms Mandatory Bargaining Code, created by Australia's competition watchdog, could be used to force powerful US firms Google and Facebook to pay Australian news outlets for using their content, achieving what other countries have tried and failed to do.
+
+
+***
+![Apple launches new Ethics and Compliance website](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/02/apple-park-photo-1-building-trees.jpg "Apple launches new Ethics and Compliance website")
+
+
+[Apple launches new Ethics and Compliance website](https://www.imore.com/apple-launches-new-ethics-and-compliance-website)
+
+
+> Source: Apple Apple has launched a new Ethics and Compliance webpage that outlines the company's commitment to ethical business practices and following the law of within each of the countries it operates. Apple conducts business ethically, honestly, and in full compliance with the law. We believe that how we conduct ourselves is as critical to Apple's success as making the best products in the world. Our Business Conduct and Compliance policies are foundational to how we do business and how we put our values into practice every day.
+
+
+***
+![The Pixel's excellent Recorder app is coming to the web](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/pixel-4a-alex-recorder.jpg "The Pixel's excellent Recorder app is coming to the web")
+
+
+[The Pixel's excellent Recorder app is coming to the web](https://www.androidcentral.com/google-bringing-pixels-recorder-app-web)
+
+
+> Source: Alex Dobie / Android Central Google will soon let Pixel owners access recordings made on the Recorder app via the web. A new companion web client went live this week. It's not yet available for use, with an update delivered to the Pixel's Recorder app itself yet to go live. Google is finally bringing the Pixel's Recorder app to the desktop by way of a web app. Spotted initially by the folks over at 9to5Google, the app is a web mirror of sorts for the Recorder app. It won't be able to record sounds as you can do on the phone, but you'll be able to do everything else — as the placeholder page boldly declares.
+
+
+***
+![Chinese company's plan to build utes in Oz](https://content.api.news/v3/images/bin/4b737f3132ce239d51379ca257ebd4d8 "Chinese company's plan to build utes in Oz")
+
+
+[Chinese company's plan to build utes in Oz](https://www.news.com.au/technology/motoring/motoring-news/chinese-company-byd-wants-to-build-electric-utes-in-australia/news-story/ad65a58c1d426b613f9af4275597886b)
+
+
+> This Chinese company might be the biggest car maker you've never heard of, and it has ambitious plans to build cars here.Forget Holden and Ford utes: Australia could soon have a new homegrown pick-up – and it will be powered purely by electricity.Little known Chinese car maker BYD is in the development phase of a top-secret electric ute that could one day be built in Australia.Fresh from announcing it would begin selling cars in Australia from 2022, the managing director of BYD importer Nexport says an EV ute is in the works.
+
+
+***
+![Motor-Driven Movement Modernizes POV Toy](https://hackaday.com/wp-content/uploads/2021/02/phenakistoscope-800.jpg "Motor-Driven Movement Modernizes POV Toy")
+
+
+[Motor-Driven Movement Modernizes POV Toy](https://hackaday.com/2021/02/24/motor-driven-movement-modernizes-pov-toy/)
+
+
+> Just as we are driven today to watch gifs that get better with every loop, people 100+ years ago entertained themselves with various persistence of vision toys that used the power of optical illusions to make still images come to life. [jollifactory] recently recreated one of the first POV devices — the phenakistoscope — into a toy for our times. The original phenakistoscopes were simple, but the effect they achieved was utterly amazing. Essentially a picture disk with a handle, the user would hold the handle with one hand and spin the disk with the other while looking in a mirror through slits in the disk.
+
+
