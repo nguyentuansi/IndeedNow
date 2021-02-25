@@ -33364,3 +33364,53 @@
 > (Image credit: Samsung) It started in 2020, with more people working remotely, parents becoming teachers and even news reporters sharing breaking news from their garage. Simply put, around the world; work, education and entertainment transformed into home-centred activities. Samsung's new Smart Monitor has therefore arrived just in time with a single display packed with all-in-one features for work, learning and entertainment.Get work and learning done effortlesslySamsung's Smart Monitor incorporates powerful mobile and PC connectivity for a remote home office or learning platform.
 
 
+***
+![Global Zero Trust Security Markets, 2021-2025: Analysis & Forecast by Data Security, Endpoint Security, API Security, Security Analytics, Security Policy Management](https://mms.businesswire.com/media/20210225005438/en/371054/23/ResearchAndMarkets_800px.jpg "Global Zero Trust Security Markets, 2021-2025: Analysis & Forecast by Data Security, Endpoint Security, API Security, Security Analytics, Security Policy Management")
+
+
+[Global Zero Trust Security Markets, 2021-2025: Analysis & Forecast by Data Security, Endpoint Security, API Security, Security Analytics, Security Policy Management](https://www.businesswire.com/news/home/20210225005438/en/Global-Zero-Trust-Security-Markets-2021-2025-Analysis-Forecast-by-Data-Security-Endpoint-Security-API-Security-Security-Analytics-Security-Policy-Management---ResearchAndMarkets.com)
+
+
+> February 25, 2021 05:09 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Global Zero Trust Security Market by Solution Type (Data Security, Endpoint Security, API Security, Security Analytics, Security Policy Management), Deployment Type, Authentication Type, Organization Size, Vertical, and Region - Forecast to 2026" report has been added to ResearchAndMarkets.com's offering. In the post-COVID-19 scenario, the global zero trust security market is projected to grow from USD 19.6 billion in 2020 to USD 51.
+
+
+***
+![These AR glasses can seriously enhance your home workspace](https://mondrian.mashable.com/2021%252F02%252F25%252F19%252F55aedac280fa417aba0a17c7620aafbc.73306.png%252F1200x630.png?signature=IP8URpactFTg7jIHv77WNbHEyAo= "These AR glasses can seriously enhance your home workspace")
+
+
+[These AR glasses can seriously enhance your home workspace](https://mashable.com/video/qualcomm-xr1-ar-smart-viewer/)
+
+
+> No body in the article.
+
+
+***
+![China's Xiaomi adds manufacturing muscle in India to boost phone production](https://static.reuters.com/resources/r/?m=02&d=20210225&t=2&i=1552862555&r=LYNXMPEH1O0KA&w=800 "China's Xiaomi adds manufacturing muscle in India to boost phone production")
+
+
+[China's Xiaomi adds manufacturing muscle in India to boost phone production](https://www.reuters.com/article/us-xiaomi-india-idUSKBN2AP13K)
+
+
+> By Reuters StaffFILE PHOTO: The logo of Xiaomi is seen inside the company's office in Bengaluru, India, January 18, 2018. Picture taken January 18, 2018. REUTERS/Abhishek N. ChinnappaBENGALURU (Reuters) - China's Xiaomi Corp is enlisting more contract manufacturers to make its phones in India, adding heft in a country where it is already one of the biggest smartphone brands.China's BYD and DBG will be the company's new suppliers in India, Manu Jain, managing director of Xiaomi's India operations, said at a press conference on Thursday.
+
+
+***
+![$54 Billion Genomics Markets, 2025 by Product & Service (System & Software, Consumables, Services), Technology (Sequencing, PCR), Application (Drug Discovery & Development, Diagnostic, Agriculture)](https://mms.businesswire.com/media/20210225005431/en/371054/23/ResearchAndMarkets_800px.jpg "$54 Billion Genomics Markets, 2025 by Product & Service (System & Software, Consumables, Services), Technology (Sequencing, PCR), Application (Drug Discovery & Development, Diagnostic, Agriculture)")
+
+
+[$54 Billion Genomics Markets, 2025 by Product & Service (System & Software, Consumables, Services), Technology (Sequencing, PCR), Application (Drug Discovery & Development, Diagnostic, Agriculture)](https://www.businesswire.com/news/home/20210225005431/en/54-Billion-Genomics-Markets-2025-by-Product-Service-System-Software-Consumables-Services-Technology-Sequencing-PCR-Application-Drug-Discovery-Development-Diagnostic-Agriculture---ResearchAndMarkets.com)
+
+
+> February 25, 2021 05:02 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Global Genomics Market by Product & Service (System & Software, Consumables, Services), Technology (Sequencing, PCR), Application (Drug Discovery & Development, Diagnostic, Agriculture), End-user (Hospital & Clinics, Research Centers), and Region - Forecast to 2025" report has been added to ResearchAndMarkets.com's offering. The global genomics market is projected to reach USD 54.4 billion by 2025 from USD 22.7 billion in 2020, at a CAGR of 19% during the forecast period.
+
+
+***
+![Social Media Platforms Must Remove Posts With Nudity Within 24 Hours](https://i.gadgets360cdn.com/large/ravi_shankar_prasad_full_1559564864333.jpg "Social Media Platforms Must Remove Posts With Nudity Within 24 Hours")
+
+
+[Social Media Platforms Must Remove Posts With Nudity Within 24 Hours](https://gadgets.ndtv.com/social-networking/news/social-media-guidelines-government-intermediaries-appoint-grievance-officer-complaints-ravi-shankar-prasad-2378432)
+
+
+> The government on Thursday announced new rules to curb misuse of social media platforms, as it mandated firms to appoint grievance officer, disclose the first originator of the mischievous information and remove, within 24 hours, content depicting nudity or morphed pictures of women.Concerns have been raised about rampant abuse of social media platforms and spread of fake news and the government is bringing in a "soft touch" regulation, IT Minister Ravi Shankar Prasad said while announcing the new guidelines.
+
+
