@@ -33893,3 +33893,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![5 simple tips on avoiding cryptocurrency scams](https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/8117EC963326475B942A54A093EE3AFE/cryptocurrency-hijacking-1614325551964.jpg "5 simple tips on avoiding cryptocurrency scams")
+
+
+[5 simple tips on avoiding cryptocurrency scams](https://www.rappler.com/technology/features/how-to-avoid-cryptocurrency-scams-tips)
+
+
+> Avoid get-rich-quick promisesBitcoin and cryptocurrencies are speculative and highly volatile assets. Investing in them involves a high risk of losing all your money. Anyone who promises you guaranteed returns in exchange for an initial investment is outright lying to you. This is actually true not just for cryptocurrency but for any form of investment. As they say, if it sounds too good to be true, it probably isn't. Buy only from Bangko Sentral ng Pilipinas (BSP)-licensed cryptocurrency exchangesOur central bank actually has pretty clear regulations on cryptocurrencies.
+
+
+***
+![Anker  PowerCore  power bank with 20,000mAh battery launched in India](https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/02/35117/anker-powercore_425_735.jpg "Anker  PowerCore  power bank with 20,000mAh battery launched in India")
+
+
+[Anker  PowerCore  power bank with 20,000mAh battery launched in India](https://www.themobileindian.com/news/anker-powercore-power-bank-with-20000mah-battery-launched-in-india-35117)
+
+
+> Anker has launched its Powercore 20,000mAh power bank in India with PowerIQ technology.
+
+
+***
+![Twitter to make content moderation practices more transparent, says Jack Dorsey](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/untitled_2_505x264_040919045130_080420105339_260221012013.jpg "Twitter to make content moderation practices more transparent, says Jack Dorsey")
+
+
+[Twitter to make content moderation practices more transparent, says Jack Dorsey](https://www.businesstoday.in/technology/news/twitter-to-make-content-moderation-practices-more-transparent-says-jack-dorsey/story/432427.html)
+
+
+> StoryTwitter CEO Jack Dorsey said the microblogging platform is making a lot of progress in its accountability by "owning our mistakes and correcting, and reliability by following published principles and not wavering"PTI | February 26, 2021 | Updated 13:26 IST Twitter CEO Jack Dorsey
+
+
+***
+![Nifty call: Sell on rallies with stop-loss at 14,700](https://www.thehindubusinessline.com/todays-paper/tp-others/t4tccc/article33892372.ece/ALTERNATES/LANDSCAPE_615/PO21CGIndexOG8A8A1SIF3jpgjpg "Nifty call: Sell on rallies with stop-loss at 14,700")
+
+
+[Nifty call: Sell on rallies with stop-loss at 14,700](https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-call-sell-on-rallies-with-a-stop-loss-at-14700/article33940328.ece)
+
+
+> Nifty 50 March futures (14,635)Markets globally are painted red today. After the US market closed with significant losses, the Asian markets have been in a sea of red since morning. By taking negative cues, the Indian benchmark indices, too, opened on a weak note and have been on the decline. The Nifty 50 and the Sensex are now down by 3.4 per cent each.Among the Asian majors, the Nikkei 225 and the Hang Seng lost 4 per cent and 3.3 per cent, respectively. In the last session, the S&P 500 and the Dow Jones ended with a loss of 2.
+
+
+***
+![Xiaomi, Realme effect: Samsung set to join the ‘affordable' high refresh rate smartphone battle in India with Galaxy A32](https://images.financialexpress.com/2021/02/a32.png "Xiaomi, Realme effect: Samsung set to join the ‘affordable' high refresh rate smartphone battle in India with Galaxy A32")
+
+
+[Xiaomi, Realme effect: Samsung set to join the ‘affordable' high refresh rate smartphone battle in India with Galaxy A32](https://www.financialexpress.com/industry/technology/xiaomi-realme-effect-samsung-set-to-join-the-affordable-high-refresh-rate-smartphone-battle-in-india-with-galaxy-a32/2202371/)
+
+
+> Samsung has only confirmed the arrival of the Galaxy A32 4G.High refresh rate smartphones are all the rage these days. With brands like Xiaomi and Realme ‘democratizing' fast and smooth displays on smartphones, already, it was only about time that Samsung joined the bandwagon too. The South Korean major on Friday said that it will launch a phone called the Galaxy A32 in India soon, which would – ideally – be its most affordable phone with a high refresh rate screen.The Galaxy A32 hardware details have already been announced, so we have some idea of what to expect.
+
+
