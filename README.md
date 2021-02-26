@@ -33943,3 +33943,50 @@
 > Samsung has only confirmed the arrival of the Galaxy A32 4G.High refresh rate smartphones are all the rage these days. With brands like Xiaomi and Realme ‘democratizing' fast and smooth displays on smartphones, already, it was only about time that Samsung joined the bandwagon too. The South Korean major on Friday said that it will launch a phone called the Galaxy A32 in India soon, which would – ideally – be its most affordable phone with a high refresh rate screen.The Galaxy A32 hardware details have already been announced, so we have some idea of what to expect.
 
 
+***
+![Samsung Galaxy A32 4G announced, and it might be better than the 5G version](https://cdn.mos.cms.futurecdn.net/WhJYVZFPz7Z2CsbtsKkXmR-1200-80.jpg "Samsung Galaxy A32 4G announced, and it might be better than the 5G version")
+
+
+[Samsung Galaxy A32 4G announced, and it might be better than the 5G version](https://www.techradar.com/news/samsung-galaxy-a32-4g-announced-and-it-might-be-better-than-the-5g-version)
+
+
+> (Image credit: Samsung) One of these days, companies will learn how to effectively name their smartphones, but until then we'll keep finding ourselves in situations like this: Samsung has announced the Galaxy A32 4G, a phone that's completely different to (and arguably better than) the Galaxy A32 5G.The 4G version of the Samsung Galaxy A32 has a 6.4-inch Full HD+ Super AMOLED screen with a 90Hz refresh rate, while the Galaxy A32 5G has an LCD panel with a 60Hz refresh rate and a lower resolution.
+
+
+***
+![This Arlo Pro 3 floodlight deal will beef up your home security and save you cash](https://cdn.mos.cms.futurecdn.net/8zjxD2AtZJh4SJXoDMFWPC-1200-80.jpg "This Arlo Pro 3 floodlight deal will beef up your home security and save you cash")
+
+
+[This Arlo Pro 3 floodlight deal will beef up your home security and save you cash](https://www.techradar.com/deals/this-arlo-pro-3-floodlight-deal-will-beef-up-your-home-security-and-save-you-cash)
+
+
+> (Image credit: TechRadar) The best home security cameras can provide peace of mind when you're not at home, but they're usually a pricey investment and a good deal is always welcome - and Amazon has slashed the price of one of Arlo's best home security cameras with a built-in floodlight in the US.The Arlo Pro 3 Floodlight has been reduced to $188.99 from $249.99 - that's a 24% saving, and brings the home security camera and floodlight in one back down to the same price we saw on Black Friday last year.
+
+
+***
+![Britain sets out blueprint to keep fintech 'crown' after Brexit](https://i-invdn-com.akamaized.net/news/Computer-(tech-sector)_800x533_L_1412662134.jpg "Britain sets out blueprint to keep fintech 'crown' after Brexit")
+
+
+[Britain sets out blueprint to keep fintech 'crown' after Brexit](https://www.investing.com/news/technology-news/britain-sets-out-blueprint-for-fintech-after-brexit-2431146)
+
+
+> 2/2 © Reuters. EU Commission President von der Leyen and British PM Johnson meet in Brussels 2/2 By Huw Jones LONDON (Reuters) - Brexit, COVID-19 and overseas competition are challenging fintech's future in Britain and the country should act to stay competitive, a government-backed review said on Friday. Britain's departure from the European Union has cut the fintech industry's access to the world's biggest single market, making the UK less attractive for fintechs wanting to expand cross-border. The review headed by Ron Kalifa, former CEO of payments fintech Worldpay, sets out a "strategy and delivery model" that includes a new billion pound start-up fund and fast-tracking work visas for hiring the best talent globally.
+
+
+***
+![#TECH: Pokemon turns 25](https://assets.nst.com.my/images/articles/botspoke_NSTfield_image_socialmedia.var_1614333297.jpg "#TECH: Pokemon turns 25")
+
+
+[#TECH: Pokemon turns 25](https://www.nst.com.my/lifestyle/bots/2021/02/669320/tech-pokemon-turns-25)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[比爾蓋茲上 Clubhouse 暢聊卻不愛 iPhone，因部分 Android 手機會預載微軟 App](https://ccc.technews.tw/2021/02/26/bill-gates-clubhouse-iphone/)
+
+
+> 微軟（Microsoft）創辦人比爾蓋茲在本週三晚間首次使用了 Clubhouse ，並在房內暢聊與氣候、比特 […]
+
+
