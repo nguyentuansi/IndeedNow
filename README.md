@@ -33796,3 +33796,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Twitter considers charging users for special content, in revenue push](https://imagevars.gulfnews.com/2021/02/26/20210226-twitter_177dc768ebb_medium.jpg "Twitter considers charging users for special content, in revenue push")
+
+
+[Twitter considers charging users for special content, in revenue push](https://gulfnews.com/technology/twitter-considers-charging-users-for-special-content-in-revenue-push-1.1614311763949)
+
+
+> Twitter aims to reach a milestone of 315 million "monetizable" users in 2023 Image Credit: AFP San Francisco:Â Twitter said Thursday it plans to offer a subscription service in which users would pay for special content from high-profile accounts, part of an economic model to diversify its revenue. The globally popular social media platform announced the potential new Super Follows service at its annual investor meeting, as it searches for new revenue streams beyond targeted advertising. "Exploring audience funding opportunities like Super Follows will allow creators and publishers to be directly supported by their audience and will incentivize them to continue creating content that their audience loves," a Twitter spokesperson told AFP.
+
+
+***
+![Realme to bet on 5G in India and focus on Rs 20,000-30,000 price segment, says CEO Madhav Sheth](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/realme_madhav_sheth-647x363.jpeg?oG58W2K0ciLChGP1SKPN7Bvq9hD0iNHW "Realme to bet on 5G in India and focus on Rs 20,000-30,000 price segment, says CEO Madhav Sheth")
+
+
+[Realme to bet on 5G in India and focus on Rs 20,000-30,000 price segment, says CEO Madhav Sheth](https://www.indiatoday.in/technology/features/story/realme-madhav-sheth-exclusive-interview-5g-phones-smart-products-phone-sales-1773266-2021-02-26)
+
+
+> Realme has come a long way. It has managed to grab many firsts for itself, while the aggressive pricing for products helped it reach India's top five smartphone brands' charts. Smartphones are Realme's primary business, but it does not want to be known as a phone company, which is why the company has diversified its product lines over time to include earphones, televisions, smart products, and clothing. And with every launch event, Realme keeps increasing the products in their respective categories.
+
+
+***
+![Twitter to let users charge for tweets with Super Follow feature](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Screenshot_2021-02-26_at_9.12.-647x363.png?pGef.uAWPvqojeYO.hAL4FAK69Qwy4Rn "Twitter to let users charge for tweets with Super Follow feature")
+
+
+[Twitter to let users charge for tweets with Super Follow feature](https://www.indiatoday.in/technology/news/story/twitter-to-let-users-charge-for-tweets-with-super-follow-feature-1773265-2021-02-26)
+
+
+> Twitter announced a couple of features during an Analyst event. Twitter has been rumored to be working on its paid subscription service to increase revenue.The Super Follow feature will provide access to exclusive deals, content to creators for a monthly sum.Twitter announced a couple of features during an Analyst event. The micro-blogging site announced a paid subscription service called Super Follow. Twitter has been rumored to be working on its paid subscription service to increase revenue. The Super Follow feature will provide access to exclusive deals, content to creators for a monthly sum.
+
+
+***
+![Best mining GPU 2021: the best graphics cards for mining Bitcoin, Ethereum and more](https://cdn.mos.cms.futurecdn.net/PKSEto7DWYCnEdHWrPpQK7-1200-80.jpg "Best mining GPU 2021: the best graphics cards for mining Bitcoin, Ethereum and more")
+
+
+[Best mining GPU 2021: the best graphics cards for mining Bitcoin, Ethereum and more](https://www.techradar.com/news/best-mining-gpu)
+
+
+> Choosing hardware is not always easy, but if you're looking for the best mining GPU to delve into cryptocurrency mining, then you've arrived at the right place. Excellent mining GPUs need enough memory and power for mining, but without breaking the bank, and we've got the best of them right here. After all, when you first start mining for Bitcoin or Ethereum, you won't be yielding large amounts of cryptocurrency in the beginning. Minimizing your initial costs is an ideal way to get profitable quickly.
+
+
+***
+[PUBG Mobile 2: PUBG Mobile New State official trailer released, pre-registration on Google Play Store](https://www.zeebiz.com/technology/news-pubg-mobile-new-state-official-trailer-released-pre-registration-on-google-play-store-all-new-features-details-here-150846)
+
+
+> PUBG Mobile New State: In good news for PUBG Mobile game lovers around the world, the developer of the game, PUBG Studio has released the trailer for the latest PUBG: New State mobile game and is up for pre-registration on Google Play Store.
+
+
