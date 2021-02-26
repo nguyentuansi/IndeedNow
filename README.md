@@ -33749,3 +33749,50 @@
 > Another major VC firm has closed two major rounds, underscoring the long-term confidence investors continue to have for backing privately-held companies in the tech sector. Early-stage VC firm Bessemer Venture Partners announced Thursday the close of two new funds totaling $3.3 billion that it will be using both to back early-stage startups as well as growth rounds for more mature companies. The Redwood City-based firm closed BVP XI with $2.475 billion and BVP Century II with $825 million in total commitments.
 
 
+***
+[Newsela, a SaaS platform for K-12 educational content, raises $100M Series D at a $1B valuation led by Franklin Templeton and TCV (Natasha Mascarenhas/TechCrunch)](http://www.techmeme.com/210225/p41#a210225p41)
+
+
+> Natasha Mascarenhas / TechCrunch: Newsela, a SaaS platform for K-12 educational content, raises $100M Series D at a $1B valuation led by Franklin Templeton and TCV — Newsela, a SaaS platform for K-12 instructional material backed by the likes of TCV, Kleiner Perkins, Reach Capital, and Owl Ventures, announced today that it has raised $100 million in a Series D round.
+
+
+***
+![Texas Supreme Court Justice Probes Section 230 Immunity](http://images.xbiz.com/images/news/257627/900x506.jpg/t/1614301956 "Texas Supreme Court Justice Probes Section 230 Immunity")
+
+
+[Texas Supreme Court Justice Probes Section 230 Immunity](https://www.xbiz.com/news/257627/texas-supreme-court-justice-probes-section-230-immunity-after-fosta-sesta)
+
+
+> HOUSTON — A Texas Supreme Court Justice questioned long-standing interpretations of Section 230 liability protections this week, while hearing a case that deliberately tests the exception to the so-called 'First Amendment of the internet' that were carved out by FOSTA-SESTA for alleged instances of human trafficking. The Texas Supreme Court is hearing the case after a Harris County district judge and a Houston appellate court rejected Facebook's argument that Section 230 explicitly shields online platforms from liability for content posted by third-party uploaders.
+
+
+***
+![Cryptography Interface Design is a Security Concern](https://external-preview.redd.it/d48HLb5rDWg6F2cPMLEqEWTZtdRWVa0Us0z7TJswUyM.jpg?auto=webp&s=6b63bc45c2643285d559befec25a15dedbb26080 "Cryptography Interface Design is a Security Concern")
+
+
+[Cryptography Interface Design is a Security Concern](https://www.reddit.com/r/programming/comments/lsmyd2/cryptography_interface_design_is_a_security/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![I entered a competition last week to design a new method of opening Windows applications](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "I entered a competition last week to design a new method of opening Windows applications")
+
+
+[I entered a competition last week to design a new method of opening Windows applications](https://www.reddit.com/r/programming/comments/lsmv6a/i_entered_a_competition_last_week_to_design_a_new/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+!["Newton's Method: How to Compute Pretty much Anything"](https://external-preview.redd.it/5Yq-FVraNVR75H2KgdbzM_G9Z8x4tVC2dAoTLtKVY0U.jpg?auto=webp&s=db294ad7aa1f25728a39983ac4e50abacfc0ccc7 ""Newton's Method: How to Compute Pretty much Anything"")
+
+
+["Newton's Method: How to Compute Pretty much Anything"](https://www.reddit.com/r/programming/comments/lsmv4s/newtons_method_how_to_compute_pretty_much_anything/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
