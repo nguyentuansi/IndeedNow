@@ -34037,3 +34037,50 @@
 > Realme GT 5G will be the company's all-new smartphone that's set to launch next week. The company is looking to expand further and strengthen its portfolio with a Qualcomm Snapdragon 888 powered device. Just a reminder, the brand was the first to confirm the existence of a Snapdragon 888 smartphone post-Qualcomm's announcement.The brand is also targeting the midrange flagship market, which has devices like the OnePls Nord, Pixel 4a, Samsung Galaxy M51, Mi 10i and more. Even Realme has a decent portfolio of midrange flagships, including Realme X2 Pro, Realme X3 Surperzoom, Realme X50 Pro, and the recently launched Realme X7 Pro.
 
 
+***
+![Jumio Named to CRN's 20 Coolest Identity Access Management and Data Protection Companies of 2021](https://mms.businesswire.com/media/20210226005031/en/800987/23/Jumio_Logo-on_light-01.jpg "Jumio Named to CRN's 20 Coolest Identity Access Management and Data Protection Companies of 2021")
+
+
+[Jumio Named to CRN's 20 Coolest Identity Access Management and Data Protection Companies of 2021](https://www.businesswire.com/news/home/20210226005031/en/Jumio-Named-to-CRN%E2%80%99s-20-Coolest-Identity-Access-Management-and-Data-Protection-Companies-of-2021)
+
+
+> PALO ALTO, Calif.--(BUSINESS WIRE)--Jumio, the leading provider of AI-powered end-to-end identity verification and eKYC solutions, today announces the company has been named to CRN's 2021 list of the 20 Coolest Identity Access Management and Data Protection Companies. According to CRN: 'The global data protection market is being driven by the growing volume of data being generated across various industries such as financial services, manufacturing, retail, IT and telecommunications. Companies are therefore looking for new technologies to monitor, manage and protect this growing volume of data, which in turn is expected to positively influence the market over the next half-decade.
+
+
+***
+![Model N to Present at the JMP Securities Technology Conference](http://www.businesswire.com/images/bwlogo_square.png "Model N to Present at the JMP Securities Technology Conference")
+
+
+[Model N to Present at the JMP Securities Technology Conference](https://www.businesswire.com/news/home/20210226005123/en/Model-N-to-Present-at-the-JMP-Securities-Technology-Conference)
+
+
+> February 26, 2021 09:00 AM Eastern Standard Time SAN MATEO, Calif.--(BUSINESS WIRE)--Model N, Inc. (NYSE: MODN), the leader in cloud revenue management solutions, today announced that Jason Blessing, president and chief executive officer, and John Ederer, chief financial officer, will present at the following virtual investor conference. JMP Securities Technology Conference. This presentation is scheduled for Monday, March 1, 2021, at 8:30 a.m. PT or 11:30 a.m. ET. Live webcasts of the presentations will be accessible from the investor relations page of the Model N website at https://investor.
+
+
+***
+[PS5 latest updates LIVE – Sony to give Playstation 5 INTERNAL storage plus latest stock at Currys, Amazon, Game, Argos](https://www.thesun.ie/tech/6619920/ps5-uk-stock-playstation-game-argos-currys-storage-latest/)
+
+
+> PLAYSTATION fans have predicted new stock will land at Curry’s on March 1, as the new month is expected to bring a series of restocks. The store is one of very few major UK retailers who didn’t restock in February, which has convinced multiple Twitter stock trackers that the next month could bring a Currys […]
+
+
+***
+![Slack adds record number of paying customers last year](https://cdn.mos.cms.futurecdn.net/ARwmNkFCWPQ4PbcEHbVexN-1200-80.jpg "Slack adds record number of paying customers last year")
+
+
+[Slack adds record number of paying customers last year](https://www.techradar.com/news/slack-adds-record-number-of-paying-customers-last-year)
+
+
+> (Image credit: Shutterstock / rafapress) Top online collaboration platform Slack has revealed it ended 2020 with a bang, recording strong growth and bringing in thousands of new paying customers. Parent company Salesforce said in its recently released financial results for the fourth quarter, that Slack brought in $250.6 million in total revenue in the three months leading up to January 2021.The platform also added 14,000 net new paid customers during the quarter, the report further added, saying the company grew its paying user base by 180% year-on-year.
+
+
+***
+![What to do when your old iPhone or iPad doesn't run iOS 14 or iPadOS 14](https://cdn.mos.cms.futurecdn.net/Do7gcWH4yjc7cjZTyUAYg-1200-80.jpg "What to do when your old iPhone or iPad doesn't run iOS 14 or iPadOS 14")
+
+
+[What to do when your old iPhone or iPad doesn't run iOS 14 or iPadOS 14](https://www.techradar.com/how-to/what-to-do-when-your-old-iphone-or-ipad-doesnt-run-ios-14-or-ipados-14)
+
+
+> Late September 2020 saw the release of iOS 14 and iPad equivalent iPadOS 14. Although Apple is better than most about supporting older equipment, not every device made the cut. That said, the cut-off was the same as it was for iOS 13, so if you have that you should be able to get iOS 14.In other words, if your device is older than an iPhone 6s / iPhone SE (2016), an iPod touch 7th gen, the 5th-gen iPad, the iPad mini 4, or the iPad Air 2, the most recent operating system it's ever going to run is iOS 12.
+
+
