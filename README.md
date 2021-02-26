@@ -34084,3 +34084,53 @@
 > Late September 2020 saw the release of iOS 14 and iPad equivalent iPadOS 14. Although Apple is better than most about supporting older equipment, not every device made the cut. That said, the cut-off was the same as it was for iOS 13, so if you have that you should be able to get iOS 14.In other words, if your device is older than an iPhone 6s / iPhone SE (2016), an iPod touch 7th gen, the 5th-gen iPad, the iPad mini 4, or the iPad Air 2, the most recent operating system it's ever going to run is iOS 12.
 
 
+***
+![I made a script that moves the files in a folder based on thier extensions](https://external-preview.redd.it/jgpxuiVHSCa7pySDGEbEXPbjn3zkwRb3lxCZuWXX-2g.jpg?auto=webp&s=0515c9c12eb760b910845139f10d5abac66d2dc4 "I made a script that moves the files in a folder based on thier extensions")
+
+
+[I made a script that moves the files in a folder based on thier extensions](https://www.reddit.com/r/Python/comments/lt0rcm/i_made_a_script_that_moves_the_files_in_a_folder/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Hey guys, check out this awesome video on how to make voice assistant in 4 min! #1](https://external-preview.redd.it/x-MMiOGe7YN3heZOHZ39itcjWJupv9nWobT4RbqQRI8.jpg?auto=webp&s=bca85c80005fa9587f98586a09204edd1427c7d0 "Hey guys, check out this awesome video on how to make voice assistant in 4 min! #1")
+
+
+[Hey guys, check out this awesome video on how to make voice assistant in 4 min! #1](https://www.reddit.com/r/Python/comments/lt0qpv/hey_guys_check_out_this_awesome_video_on_how_to/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Facebook a 'Hotbed of Child Sexual Abuse Material' with 20M Incidents](https://media.breitbart.com/media/2021/02/Zuckerberg-640x335.png "Facebook a 'Hotbed of Child Sexual Abuse Material' with 20M Incidents")
+
+
+[Facebook a 'Hotbed of Child Sexual Abuse Material' with 20M Incidents](https://www.breitbart.com/tech/2021/02/26/report-facebook-a-hotbed-of-child-sexual-abuse-material-with-20m-incidents/)
+
+
+> A recent report from the National Center for Missing and Exploited Children claims that Facebook had 20.3 million reported incidents of child sexual abuse material. In comparison, Pornhub's parent company MindGeek had only 13,000 reports. Facebook accounted for 95 percent of the incidents in the report. The Daily Beast reports that according to new data from the National Center for Missing and Exploited Children's (NCMEC) CyberTipline, the vast majority of online child exploitation reports were linked to Facebook.
+
+
+***
+![The Playism Storefront is Shutting Down This Spring](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Playism.jpg?itok=1sY-kJSD "The Playism Storefront is Shutting Down This Spring")
+
+
+[The Playism Storefront is Shutting Down This Spring](https://techraptor.net/gaming/news/playism-storefront-is-shutting-down-this-spring)
+
+
+> Published: Friday, February 26, 2021 - 11:00 | By: Patrick Perrault Home Gaming Gaming News The Playism Storefront is Shutting Down This Spring The indie storefront Playism--which focuses on Japanese releases--will be shutting down on March 24, 2021, with purchase history also expiring on May 10, 2021. It's important to note that this is just the storefront, and that they will still be distributing games and content through Steam and consoles such as the Nintendo Switch. Check out the full announcement below: As of 13:00 on March 24th, 2021 (Wed.
+
+
+***
+![7 best video doorbells: Cameras to add smart security to your home](https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/03/17/17/best-camera-doorbells-indybest.jpg?width=1200&auto=webp&quality=75 "7 best video doorbells: Cameras to add smart security to your home")
+
+
+[7 best video doorbells: Cameras to add smart security to your home](https://www.independent.co.uk/extras/indybest/gadgets-tech/best-doorbell-camera-wifi-wireless-ring-a9405056.html)
+
+
+> The video doorbell is still a new concept. As a homeowner it's great to see who is at your door, whether you're upstairs on in another country.Being able to tap a microphone icon on your phone so the doorbell speaker can tell your visitor that you're out or where to leave that parcel, is very useful.The best video doorbells also record footage even before the bell button is pressed. Handy if someone is loitering. Also, how long the video is saved for is something to consider.One downside is that they are dependent on your home wifi speed and the speed of your smartphone's connection: if both are slow, it can take as much as a minute for you to be notified someone's there – and they may have left by then.
+
+
