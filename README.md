@@ -33699,3 +33699,53 @@
 > Facebook is not backing down in its fight with Apple over a new privacy feature that could curb tracking needed for the social network's targeted ads, launching a major media campaign to defend a practice that is a big revenue generator. The "Good Ideas Deserve To Be Found" initiative unveiled on Thursday includes television, radio and digital spots. "Every business starts with an idea, and being able to share that idea through personalized ads is a game changer for small businesses," Facebook said in a statement, citing examples like a farm that offers goat yoga classes.
 
 
+***
+![European court: governments must prove climate change effort](https://s.abcnews.com/images/Technology/WireAP_19d0c1d20a2b4da4bd360f461cf4d327_16x9_992.jpg "European court: governments must prove climate change effort")
+
+
+[European court: governments must prove climate change effort](https://abcnews.go.com/Technology/wireStory/european-court-governments-prove-climate-change-effort-76122723)
+
+
+> A top European court is forcing 33 governments to prove they are cutting emissions in line with the requirements of the 2015 Paris climate accordLISBON, Portugal -- A top European court is forcing 33 governments to prove they are cutting emissions in line with the requirements of the 2015 Paris climate accord.The European Court of Human Rights has also rejected an attempt by those governments in the same case to overturn its decision to fast-track an ambitious climate change action brought by six young Portuguese activists.
+
+
+***
+![Square Enix Announces Two New Final Fantasy VII Titles](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Screenshot%20%2843%29.jpg?itok=YWcdoUYH "Square Enix Announces Two New Final Fantasy VII Titles")
+
+
+[Square Enix Announces Two New Final Fantasy VII Titles](https://techraptor.net/gaming/news/square-enix-announces-two-new-final-fantasy-vii-titles)
+
+
+> Published: Thursday, February 25, 2021 - 19:11 | By: Courtney Ehrenhofler If the promise of the new Yuffie DLC for Final Fantasy VII Remake wasn't enough to sate your desire to see more of Cloud's world, hold on to your moogles because Square Enix dropped not one but two new trailers for new mobile entries in the Compilation of Final Fantasy VII series. First up, Square Enix decided to hop on the universal bandwagon and announced an upcoming Battle Royale game, taking place 30 years before the events of Final Fantasy VII.
+
+
+***
+![Oculus Quest 2 gets new 'Hey Facebook' wake word for voice commands](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/01/facebook-logo-quest-2.jpg "Oculus Quest 2 gets new 'Hey Facebook' wake word for voice commands")
+
+
+[Oculus Quest 2 gets new 'Hey Facebook' wake word for voice commands](https://www.androidcentral.com/hey-facebook-wake-word-added-oculus-quest-and-portal-devices)
+
+
+> Source: Nick Sutrich / Android Central It was announced that "Hey Facebook" is now a new wake word for devices like the Oculus Quest 2. Documents also show the wake word being available for Facebook's Portal devices as well. The new wake word is optional, should you want to activate it on your devices. Last year, Facebook brought voice commands to its popular VR headsets like the Oculus Quest 2, allowing users to control their headset with the sound of their voice. This approach was accomplished by double pressing on the Oculus controller button, prompting the device to listen out for commands.
+
+
+***
+![Amazon rainforest plots sold via Facebook Marketplace ads](https://ichef.bbci.co.uk/news/1024/branded_news/400E/production/_117289361_gettyimages-brazil-creditignaciopalacios-rightscleared.jpg "Amazon rainforest plots sold via Facebook Marketplace ads")
+
+
+[Amazon rainforest plots sold via Facebook Marketplace ads](https://www.bbc.com/news/technology-56168844)
+
+
+> By Joao Fellet & Charlotte PammentBBC World Servicemedia captionWATCH: On patrol with an indigenous leader trying to protect the Amazon from land grabbersParts of Brazil's Amazon rainforest are being illegally being sold on Facebook, the BBC has discovered.The protected areas include national forests and land reserved for indigenous peoples.Some of the plots listed via Facebook's classified ads service are as large as 1,000 football pitches.Facebook said it was "ready to work with local authorities", but indicated it would not take independent action of its own to halt the trade.
+
+
+***
+![Bessemer Venture Partners closes on $3.3 billion across two funds](https://techcrunch.com/wp-content/uploads/2021/01/money-explosion-gradient-02.jpg?w=711 "Bessemer Venture Partners closes on $3.3 billion across two funds")
+
+
+[Bessemer Venture Partners closes on $3.3 billion across two funds](https://techcrunch.com/2021/02/25/bessemer-venture-partners-closes-on-3-3-billion-across-two-funds/)
+
+
+> Another major VC firm has closed two major rounds, underscoring the long-term confidence investors continue to have for backing privately-held companies in the tech sector. Early-stage VC firm Bessemer Venture Partners announced Thursday the close of two new funds totaling $3.3 billion that it will be using both to back early-stage startups as well as growth rounds for more mature companies. The Redwood City-based firm closed BVP XI with $2.475 billion and BVP Century II with $825 million in total commitments.
+
+
