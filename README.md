@@ -34231,3 +34231,50 @@
 > The freemium marketing approach has become commonplace among B2C and B2B software providers alike. Considering that most see fewer than 5% of free users move to paid plans, even a slight improvement in conversion can translate to significant revenue gains. The (multi) million-dollar question is, how do they do it? The answer lies in product analytics, which offer teams the ability to ask and answer any number of questions about the customer journey on an ad-hoc basis. Combined with a commitment to testing, measurement and iteration, this puts data in the driver's seat and helps teams make better decisions about what's in the free tier and what's behind the paywall.
 
 
+***
+![Google blew millions on game licenses for Stadia and sold miserably](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_blw/public/article_images/2019/03/stadia-swish.jpg "Google blew millions on game licenses for Stadia and sold miserably")
+
+
+[Google blew millions on game licenses for Stadia and sold miserably](https://www.androidcentral.com/google-stadia-failed-after-spending-millions-get-popular-games)
+
+
+> Source: Android Central Google allegedly spent millions to get popular games onto Stadia. However, it failed to deliver promised features and exclusive games. It reportedly missed its targets in sales and users by "hundreds of thousands." Two new reports, one from Wired and one from Bloomberg have shed new light on what the heck has happened to Google Stadia. Both Wired and Bloomberg reveal that, according to inside sources, Google put a lot of money into getting third-party games on the service, but never got the number of users it was counting on, leading to the closure of the company's two game studios.
+
+
+***
+![Here are the best sleeves for the Lenovo Flex 5 Chromebook](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/07/lenovo-flex-5-chromebook-review-festival-hero.jpg "Here are the best sleeves for the Lenovo Flex 5 Chromebook")
+
+
+[Here are the best sleeves for the Lenovo Flex 5 Chromebook](https://www.androidcentral.com/best-sleeves-lenovo-flex-5-chromebook)
+
+
+> Best Sleeves for Lenovo Flex 5 Chromebook Android Central 2021 Lightweight at under 3 pounds with a sizable 13.3-inch screen and nearly 10 hours of battery life, the Lenovo Flex 5 Chromebook is a great computer to take on the go. Whether you're a businessperson using it for productivity or a student plugging away at schoolwork, it's a versatile, 360-degree, 2-in-1 that can get the job done. But before you can bring the Chromebook along with you, you need a convenient way to carry it. That's where a sleeve comes in, and these are among the best sleeves for Lenovo Flex 5 Chromebook.
+
+
+***
+[Facebook's NPE division launches BARS, a TikTok-like app for rappers to create and share their raps using professionally created beats, in closed beta (Sarah Perez/TechCrunch)](http://www.techmeme.com/210226/p18#a210226p18)
+
+
+> Sarah Perez / TechCrunch: Facebook's NPE division launches BARS, a TikTok-like app for rappers to create and share their raps using professionally created beats, in closed beta — Facebook's internal R&D group, NPE Team, is today launching its next experimental app, called BARS. The app makes it possible for rappers …
+
+
+***
+![Hard-coded key vulnerability in Logix PLCs has severity score of 10 out of 10](https://external-preview.redd.it/UkfAf1FrvZ_MZxLmpFcrgOj5dXRyUsFN8ZCJhm1ZUCE.jpg?auto=webp&s=44846d38afbe2e76ca543727834569fb138049ee "Hard-coded key vulnerability in Logix PLCs has severity score of 10 out of 10")
+
+
+[Hard-coded key vulnerability in Logix PLCs has severity score of 10 out of 10](https://www.reddit.com/r/technology/comments/lt8u3b/hardcoded_key_vulnerability_in_logix_plcs_has/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Deathloop for PS5 preorder guide — Every edition and what's in them](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/deathloop-julianna-sniper.jpg "Deathloop for PS5 preorder guide — Every edition and what's in them")
+
+
+[Deathloop for PS5 preorder guide — Every edition and what's in them](https://www.androidcentral.com/deathloop-ps5-preorder-guide-every-edition)
+
+
+> Source: Bethesda (screenshot) Deathloop, a game from Bethesda Softworks and Arkane Lyon about rival assassins Colt and Julianna Blake, is right around the corner and in a year that is seeing countless games delayed, it's promising to be one of the best PS5 games available. Here are the different editions of Deathloop available for preorder, so if you aren't sure which version of the game you want to grab, we've got you covered. Deathloop all editions available for preorder There are two different versions of Deathloop available for preorder, a standard edition for $60 and a deluxe edition for $80.
+
+
