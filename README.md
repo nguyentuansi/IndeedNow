@@ -34184,3 +34184,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Why we need to rebuild internet search, putting user privacy first](https://cdn.mos.cms.futurecdn.net/HXQSqQqoi4s7TKihKpF4xL-1200-80.jpg "Why we need to rebuild internet search, putting user privacy first")
+
+
+[Why we need to rebuild internet search, putting user privacy first](https://www.techradar.com/news/why-we-need-to-rebuild-internet-search-putting-user-privacy-first)
+
+
+> Everyone who browses the internet is familiar with advertising. Regardless of what browser, search engine or social media app we use to search the web, every day we are peppered with ads that prey on our aspirations and insecurities to sell us products. An entire generation has grown up believing that if you want to check in on your friends, learn new skills or just entertain yourself then the cost of doing business is companies will exploit your personal data to sell you things. So why is this the case?When the internet's infrastructure was first being built, the major platforms understandably needed to make money early on, and decided that showing advertising on top of content was the quickest solution.
+
+
+***
+![Facebook launches BARS, a TikTok-like app for creating and sharing raps – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/02/bars-app-1.jpg "Facebook launches BARS, a TikTok-like app for creating and sharing raps – TechCrunch")
+
+
+[Facebook launches BARS, a TikTok-like app for creating and sharing raps – TechCrunch](https://techcrunch.com/2021/02/26/facebook-launches-bars-a-tiktok-like-app-for-creating-and-sharing-raps/)
+
+
+> Facebook's internal R&D group, NPE Team, is today launching its next experimental app, called BARS. The app makes it possible for rappers to create and share their raps using professionally created beats, and is the NPE Team's second launch in the music space following its recent public debut of music video app Collab. While Collab focuses on making music with others online, BARS is instead aimed at would-be rappers looking to create and share their own videos. In the app, users will select from any of the hundreds of professionally created beats, then write their own lyrics and record a video.
+
+
+***
+![Google Stadia's Launch Troubles Detailed in New Report](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/Google%20Stadia%20problems%20cover.jpg?itok=uRuwSM1N "Google Stadia's Launch Troubles Detailed in New Report")
+
+
+[Google Stadia's Launch Troubles Detailed in New Report](https://techraptor.net/gaming/news/google-stadias-launch-troubles-detailed-in-new-report)
+
+
+> Published: Friday, February 26, 2021 - 14:57 | By: Robert N. Adams A Few Big Names and Not Enough Time Google Stadia has had its fair share of problems throughout its short history as a gaming device. Now, a new report details the problems behind the scenes — some of which likely contributed to the game streaming console's mediocre launch. Gamers first got their hands on Google Stadia back in late November. The "game streaming" part of the service ran pretty well by all accounts, with one small problem: there wasn't a whole lot to actually play on the service.
+
+
+***
+[NOT REAL NEWS:  A look at what didn't happen this week](https://www.mymotherlode.com/news/technology/1566191/not-real-news-a-look-at-what-didnt-happen-this-week-5.html)
+
+
+> Social media users shared numerous false claims this week about President Joe Biden and his administration
+
+
+***
+![In freemium marketing, product analytics are the difference between conversion and confusion – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1222431239.jpg "In freemium marketing, product analytics are the difference between conversion and confusion – TechCrunch")
+
+
+[In freemium marketing, product analytics are the difference between conversion and confusion – TechCrunch](https://techcrunch.com/2021/02/26/in-freemium-marketing-product-analytics-are-the-difference-between-conversion-and-confusion/)
+
+
+> The freemium marketing approach has become commonplace among B2C and B2B software providers alike. Considering that most see fewer than 5% of free users move to paid plans, even a slight improvement in conversion can translate to significant revenue gains. The (multi) million-dollar question is, how do they do it? The answer lies in product analytics, which offer teams the ability to ask and answer any number of questions about the customer journey on an ad-hoc basis. Combined with a commitment to testing, measurement and iteration, this puts data in the driver's seat and helps teams make better decisions about what's in the free tier and what's behind the paywall.
+
+
