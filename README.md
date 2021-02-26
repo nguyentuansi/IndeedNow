@@ -34134,3 +34134,53 @@
 > The video doorbell is still a new concept. As a homeowner it's great to see who is at your door, whether you're upstairs on in another country.Being able to tap a microphone icon on your phone so the doorbell speaker can tell your visitor that you're out or where to leave that parcel, is very useful.The best video doorbells also record footage even before the bell button is pressed. Handy if someone is loitering. Also, how long the video is saved for is something to consider.One downside is that they are dependent on your home wifi speed and the speed of your smartphone's connection: if both are slow, it can take as much as a minute for you to be notified someone's there – and they may have left by then.
 
 
+***
+![Unit testing framework for python](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Unit testing framework for python")
+
+
+[Unit testing framework for python](https://www.reddit.com/r/Python/comments/lt3qlq/unit_testing_framework_for_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Best PS4 controllers 2021: the best options for smarter gaming](https://cdn.mos.cms.futurecdn.net/UpTxVCwPVS38r7GfGFzMpG-1200-80.jpg "Best PS4 controllers 2021: the best options for smarter gaming")
+
+
+[Best PS4 controllers 2021: the best options for smarter gaming](https://www.techradar.com/news/best-ps4-controllers)
+
+
+> You'll love your PS4 controller even more when you read the latest news about the PS5's DualSense wireless controller. iFixit has found the new gamepad's analogue sticks can start to go bad within 400 hours. We have DualShock 4s that much have clocked up thousands of hours by now. But if you're here it's probably because your PS4 controller isn't doing so well or you want another backup gamepad. The bad news is the PS5's arrival does not seem to have put a dent in the price of the DualShock 4. We're not surprised, but we are a little disappointed.
+
+
+***
+![Phishing websites detection using machine learning- chrome extension](https://external-preview.redd.it/L8VtWQOL4kV2sqg90tQxKfQDRF76ZUZoF8GrKtRMoe4.jpg?auto=webp&s=ce36bdc160414d629632b54e333b55c6dc6b2b1f "Phishing websites detection using machine learning- chrome extension")
+
+
+[Phishing websites detection using machine learning- chrome extension](https://www.reddit.com/r/programming/comments/lt3nbr/phishing_websites_detection_using_machine/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Anthem: update news, DLC, tips, patch notes and more](https://cdn.mos.cms.futurecdn.net/PkuuyoVVGJgwfSoPgrme9g-1200-80.jpg "Anthem: update news, DLC, tips, patch notes and more")
+
+
+[Anthem: update news, DLC, tips, patch notes and more](https://www.techradar.com/news/anthem-update-news-dlc-tips-patch-notes-and-more)
+
+
+> Anthem, BioWare's cooperative, team-based shooter is a change of pace for the makers of Dragon Age and Mass Effect. With a focus on cooperative PvE combat popularized by the likes of Destiny, it landed amid a swirl of hype and expectation, which it has so far failed to meet.Anthem had a big challenge in front of it then – with arguments that its endgame content is weak, its loot system broken and its story not up to scratch when compared with previous narrative-driven BioWare RPGs, it's fighting to win back the hearts of those who were initially in awe of its promise.
+
+
+***
+![What did the exhausted traveling salesman order in the Algo Café?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "What did the exhausted traveling salesman order in the Algo Café?")
+
+
+[What did the exhausted traveling salesman order in the Algo Café?](https://www.reddit.com/r/programming/comments/lt3fpb/what_did_the_exhausted_traveling_salesman_order/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
