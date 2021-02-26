@@ -33990,3 +33990,50 @@
 > 微軟（Microsoft）創辦人比爾蓋茲在本週三晚間首次使用了 Clubhouse ，並在房內暢聊與氣候、比特 […]
 
 
+***
+![Nvidia accidentally reveals some big news about its new mining GPUs](https://cdn.mos.cms.futurecdn.net/yaTc7yRkfydWWSj2tD8dGH-1200-80.jpg "Nvidia accidentally reveals some big news about its new mining GPUs")
+
+
+[Nvidia accidentally reveals some big news about its new mining GPUs](https://www.techradar.com/news/nvidia-accidentally-reveals-some-big-news-about-its-new-mining-gpus)
+
+
+> (Image credit: Yevhen Vitte / Shutterstock) As it released the latest version of its drivers, sharp-eyed fans were quick to spot that the upcoming new line of Cryptocurrency Mining Processors (CMP) aren't based on Nvidia's latest Ampere architecture.The CMP came about to pacify users who were up in arms as Nvidia severely curbed the crypto mining capabilities of its latest line of graphics cards. The graphics-hardware vendor then announced a new line of processors especially for miners.While the original announcement did not go into much detail about the CMP cards, it has now emerged that the CMPs will be based on the old Turing architecture.
+
+
+***
+![Ophelia (YC W20) is hiring a Software Engineer to help combat the opioid crisis](https://images.unsplash.com/photo-1557682250-33bd709cbe85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMDczMTJ8MHwxfHNlYXJjaHw3fHxwdXJwbGV8ZW58MHwwfHw&ixlib=rb-1.2.1&q=80&w=1080 "Ophelia (YC W20) is hiring a Software Engineer to help combat the opioid crisis")
+
+
+[Ophelia (YC W20) is hiring a Software Engineer to help combat the opioid crisis](https://coda.io/@ryan-greenberg/software-engineering-ophelia)
+
+
+> Software Engineering @ Ophelia
+
+
+***
+[Vodafone Idea: Vi brings Wi-Fi calling service in Delhi](https://www.zeebiz.com/technology/news-vodafone-idea-vi-brings-wi-fi-calling-service-in-delhi-check-full-list-of-phones-151076)
+
+
+> Good news for people living in Delhi, Vodafone Idea (Vi) has introduced a Wi-Fi calling service in the national capital- Delhi. This service was earlier launched in Mumbai, Kolkata and Gujarat.
+
+
+***
+![Eco-horror as huge Amazon rainforest plots being illegally sold on Facebook – some the size of 1,000 football pitches](https://www.the-sun.com/wp-content/uploads/sites/6/2021/02/MT-FOREST-FACEBOOK.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Eco-horror as huge Amazon rainforest plots being illegally sold on Facebook – some the size of 1,000 football pitches")
+
+
+[Eco-horror as huge Amazon rainforest plots being illegally sold on Facebook – some the size of 1,000 football pitches](https://www.the-sun.com/lifestyle/tech/2411339/rainforest-sold-on-facebook-marketplace/)
+
+
+> AMAZON rainforest plots in Brazil are being illegally sold on Facebook. A BBC investigation found criminals have been trying to sell protected natural forests and land allocated to indigenous groups. Deforestation in the Brazilian Amazon is at a 10 year highCredit: AFP or licensors Sections of the Amazon rainforest were found for sale on Facebook Marketplace, a section of Facebook people often use for selling furniture or unwanted household items. The BBC says it found adverts for land as large as 1,000 football pitches.
+
+
+***
+![Realme GT 5G launch date confirmed: Specs, features, India price, and everything we know so far](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/Realme_GT_5G-647x363.jpeg?xc8IDqA4C1JnwfViBOBLRfbC_n1H.Lm9 "Realme GT 5G launch date confirmed: Specs, features, India price, and everything we know so far")
+
+
+[Realme GT 5G launch date confirmed: Specs, features, India price, and everything we know so far](https://www.indiatoday.in/technology/features/story/realme-gt-5g-launch-date-confirmed-specs-features-india-price-and-everything-we-know-so-far-1773496-2021-02-26)
+
+
+> Realme GT 5G will be the company's all-new smartphone that's set to launch next week. The company is looking to expand further and strengthen its portfolio with a Qualcomm Snapdragon 888 powered device. Just a reminder, the brand was the first to confirm the existence of a Snapdragon 888 smartphone post-Qualcomm's announcement.The brand is also targeting the midrange flagship market, which has devices like the OnePls Nord, Pixel 4a, Samsung Galaxy M51, Mi 10i and more. Even Realme has a decent portfolio of midrange flagships, including Realme X2 Pro, Realme X3 Surperzoom, Realme X50 Pro, and the recently launched Realme X7 Pro.
+
+
