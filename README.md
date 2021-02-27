@@ -34697,3 +34697,53 @@
 > Photo: AllisonTruck YeahThe trucks are good!In Reno, Nevada sits a Jeep so rare that I'm certain it's the only one of its kind remaining. Not only is the vehicle outfitted with a manual transmission, making it one of roughly 1,500 'holy grail' Jeeps ever built, but it's also missing the big plastic, questionable-looking door cladding found on 99.9 percent of all Grand Cherokee ZJs. Here's why that makes this Jeep the holy grail of holy grails.I realize I've beaten the topic of manual Jeep Grand Cherokees to death, having recently told you about how I resisted a beautiful purple example for sale only 45 minutes from my house.
 
 
+***
+![Stadia: Everything you need to know about Google's cloud gaming service](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/01/stadia-verizon-hero.jpg "Stadia: Everything you need to know about Google's cloud gaming service")
+
+
+[Stadia: Everything you need to know about Google's cloud gaming service](https://www.androidcentral.com/google-project-stream-announced)
+
+
+> Source: Android Central The world of gaming is changing, thanks in part to new cloud gaming platforms like Google Stadia. Rather than coming to market with another console or PC competitor, Google employed its powerful cloud-streaming tech to allow anyone with a fast internet connection to play AAA games on their phones, tablets, Chromebooks, Macbooks, and other underpowered devices. While we're big fans of Stadia, it's undeniable that the service is going through some serious issues lately. Ready to learn more? Let's dive in.
+
+
+***
+![These are the best Samsung Galaxy S21 cases you can buy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/06_galaxys21_lifestyle_pink_hand_201230074010.jpg "These are the best Samsung Galaxy S21 cases you can buy")
+
+
+[These are the best Samsung Galaxy S21 cases you can buy](https://www.androidcentral.com/best-samsung-galaxy-s21-cases)
+
+
+> Best Samsung Galaxy S21 Cases Android Central 2021 The best Samsung Galaxy S21 cases will not only keep your new smartphone protected, but they'll keep it looking as stylish as you are. Whether you prefer a clear case, a flip case, something colorful, or something rugged, with a phone as popular as the Galaxy 21, you have options. Here are some of the best Galaxy S21 cases you can buy today. The best part of all is that you don't have to spend a lot of money to keep your Galaxy S21 looking great for the long-term! Staff pick The Galaxy S21 is the first Android phone to get Caseology's Nano Pop Series, and it was 110% worth the wait.
+
+
+***
+![These Alienware deals with GeForce RTX graphics cards are surprisingly good value](https://cdn.mos.cms.futurecdn.net/8jT8w3KX7jbvr9vsw3Qyb7-1200-80.jpg "These Alienware deals with GeForce RTX graphics cards are surprisingly good value")
+
+
+[These Alienware deals with GeForce RTX graphics cards are surprisingly good value](https://www.techradar.com/news/these-alienware-deals-with-geforce-rtx-graphics-cards-are-surprisingly-good-value)
+
+
+> (Image credit: Future) If you're a gamer thinking about upgrading in the near future, we've spotted a couple of Alienware deals that feature powerful GeForce RTX graphics cards and reasonable prices that won't see you ripped off.Take this RTX 2070 equipped M15 R3 laptop for $1,299.99 (was $1,949.99) for example. A huge $600 discount means this machine is generally around $200 less than the cheapest RTX 3070 laptops currently while also offering a really premium chassis and a 300Hz refresh rate display that most brands simply can't touch.
+
+
+***
+![Paul Rudd Has The Best Response To How To Pronounce The Name Of Thor's Hammer](https://cdn.digg.com/wp-content/uploads/2021/02/27174429/Screen-Shot-2021-02-27-at-12.44.16-PM.jpg "Paul Rudd Has The Best Response To How To Pronounce The Name Of Thor's Hammer")
+
+
+[Paul Rudd Has The Best Response To How To Pronounce The Name Of Thor's Hammer](https://digg.com/video/paul-rudd-has-the-best-response-to-how-to-pronounce-the-name-of-thors-hammer)
+
+
+> In Reno, Nevada sits a Jeep so rare that I'm certain it's the only one of its kind remaining. A look at why Justin Timberlake avoided any kind of scrutiny for his role in the controversial Super Bowl Halftime Show in 2004. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. Here's how everyone thinks Mjolnir is supposed to be pronounced. And then there's Paul Rudd. "Never Rarely Sometimes Always," "Nomadland," and "First Cow" have been named the best films of 2020 in IndieWire's annual critics poll.
+
+
+***
+![Graphite India tests a key barrier](https://www.thehindubusinessline.com/portfolio/technical-analysis/utst7z/article33950918.ece/ALTERNATES/LANDSCAPE_615/2802GraphiteIndiacolcol "Graphite India tests a key barrier")
+
+
+[Graphite India tests a key barrier](https://www.thehindubusinessline.com/portfolio/technical-analysis/graphite-india-tests-a-key-barrier/article33950919.ece)
+
+
+> I am holding shares in Graphite India and HEG. Please advise their short-, medium- and long-term prospects.Bhaskar ParabGraphite India (₹481.3): The stock of Graphite India has been in an intermediate-term uptrend since it took support at around ₹103 in March 2020. However, the stock had met with key resistance at ₹200 in May 2020 and consolidated sideways in the band between ₹160 and ₹210 until the stock broke out of this sideways movement in November 2020. Since then, the stock has been in a medium-term uptrend.
+
+
