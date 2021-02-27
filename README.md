@@ -34797,3 +34797,50 @@
 > Best Smart Plugs for HomeKit iMore 2021 Smart accessories make managing your home easier, and the best smart plugs for HomeKit can help to bring older devices to the connected party. These simple HomeKit accessories can turn on your coffee maker at sunrise automatically through scenes and automations created in the Home app. If you are ready to make your home smarter, these are the best smart plugs for HomeKit that you can buy today. Staff Favorite Belkin's Wemo mini features a slim profile that won't block the other receptacle on the wall, allowing two of them to be used in a single outlet.
 
 
+***
+![Creating a simple binary tree in NodeJS](https://external-preview.redd.it/BbZNTGSYTCZSwFtzjDHsewX3KhFU6e7g5Q9-XOo5CeA.jpg?auto=webp&s=b4cb5076a26fa54dd7212e3b588fe349495cce3f "Creating a simple binary tree in NodeJS")
+
+
+[Creating a simple binary tree in NodeJS](https://www.reddit.com/r/programming/comments/lty8vs/creating_a_simple_binary_tree_in_nodejs/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[NFTs are great for creators because they remove intermediaries, enable granular price tiering, and eliminate customer acquisition costs by making users owners (Chris Dixon/Andreessen Horowitz)](http://www.techmeme.com/210227/p12#a210227p12)
+
+
+> Chris Dixon / Andreessen Horowitz: NFTs are great for creators because they remove intermediaries, enable granular price tiering, and eliminate customer acquisition costs by making users owners — In his classic 2008 essay “1000 True Fans,” Kevin Kelly predicted that the internet would transform the economics of creative activities:
+
+
+***
+![SoftBank reaches deal with WeWork](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/63/89/7c78b869dabc24620eb53b405255fc5bf016/63897c78b869dabc24620eb53b405255fc5bf016.jpg "SoftBank reaches deal with WeWork")
+
+
+[SoftBank reaches deal with WeWork](https://japantoday.com/category/tech/softbank-reaches-deal-with-wework)
+
+
+> Internet investor SoftBank Group said Saturday it reached a settlement with WeWork co-founder Adam Neumann and other investors in the office sharing giant, amid reports that the deal would give the ex-CEO an extra $50 million. SoftBank Group did not release details of the agreement that puts to rest a bitter dispute emerging from the Japan-based firm's 2019 decision to bail out WeWork, once regarded as a soaring unicorn but which quickly spiralled into deep troubles as it lost cash and cancelled its eagerly waited share offering.
+
+
+***
+![Prime numbers in C code](https://external-preview.redd.it/XMPk0Rdc_9tiJ2TUllLg8G3M6HH1jEyrCDUEkYkwoi0.jpg?auto=webp&s=f2fd07254022993e61c6cd49085febc42e17fd05 "Prime numbers in C code")
+
+
+[Prime numbers in C code](https://www.reddit.com/r/programming/comments/ltxpfm/prime_numbers_in_c_code/)
+
+
+> Function-Code in C take a N number and return TRUE if N is prime number or FALSE if not.
+
+
+***
+![Watch Kubernetes Experts Fix Clusters Broken by the Community](https://external-preview.redd.it/8x-w-dvEjUiQ-QEZlksmFZskLkcnQv0g8HXoAaB_fIU.jpg?auto=webp&s=7e925354240d9fd3d46088a2ba513194224601bb "Watch Kubernetes Experts Fix Clusters Broken by the Community")
+
+
+[Watch Kubernetes Experts Fix Clusters Broken by the Community](https://www.reddit.com/r/programming/comments/ltxkl3/watch_kubernetes_experts_fix_clusters_broken_by/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
