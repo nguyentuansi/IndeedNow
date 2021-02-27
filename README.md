@@ -34447,3 +34447,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![DAZN free trial: does it offer one and how do I sign up?](https://cdn.mos.cms.futurecdn.net/GPnZXvs2rvMyifpYVXwVDA-1200-80.jpg "DAZN free trial: does it offer one and how do I sign up?")
+
+
+[DAZN free trial: does it offer one and how do I sign up?](https://www.techradar.com/news/dazn-free-trial-sign-up)
+
+
+> (Image credit: DAZN) It's been quite the meteoric rise for sports streaming service DAZN, which was founded as recently as 2015 and humbly launched in Austria, Germany, Switzerland and Japan the following year. Now, it operates in more than 200 markets and streams some of the world's biggest sports, including the NFL, Premier League, and many of the top boxing fights around. Its offering varies depending on where you are in the world - especially when it comes to whether you can sign up for DAZN from just £1.
+
+
+***
+![Samsung's Galaxy Watch 4 switching to Wear OS doesn't make sense right now](https://cdn.mos.cms.futurecdn.net/4qqpLbW5cHqR4gCNN5FSXM-1200-80.jpg "Samsung's Galaxy Watch 4 switching to Wear OS doesn't make sense right now")
+
+
+[Samsung's Galaxy Watch 4 switching to Wear OS doesn't make sense right now](https://www.techradar.com/news/samsungs-galaxy-watch-4-switching-to-wear-os-doesnt-make-sense-right-now)
+
+
+> Cast your mind back to 2014: Wear OS was still Android Wear and the Apple Watch, or the iWatch as it was being called, was still roughly a year away from being officially unveiled. The Samsung Gear Live was one of the two launch devices that represented Google's ambitions to live on our wrists.Just six months later, Samsung pushed out the Gear S that ran on the company's own Tizen software rather than Wear OS. There might have been a sense that Samsung was hedging its bets and backing two horses to see which of the two took off.
+
+
+***
+![Microsoft is making the Windows 10 update process a whole lot easier](https://cdn.mos.cms.futurecdn.net/khUGUetkdjAtskxioZJoAY-1200-80.jpg "Microsoft is making the Windows 10 update process a whole lot easier")
+
+
+[Microsoft is making the Windows 10 update process a whole lot easier](https://www.techradar.com/news/microsoft-is-making-the-windows-10-update-process-a-whole-lot-easier)
+
+
+> (Image credit: Microsoft) Microsoft looks set to shake up how it issues Windows 10 update releases following the unveiling of a new type of download.The company has issued a cumulative Windows 10 update that brings together a range of upgrades and fixes in one package to make it easier for customer systems to install.It is hoped that this new method of bundling and releasing Windows 10 updates will increase the success rate of download and installs, as well as preventing possible upgrade issues sometimes seen in the past.
+
+
+***
+![Motorola likely to announce new Moto Watch series soon](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-02-27_at_1_1200_210227133509.09.-483x271.png "Motorola likely to announce new Moto Watch series soon")
+
+
+[Motorola likely to announce new Moto Watch series soon](https://www.indiatoday.in/technology/news/story/motorola-likely-to-announce-new-moto-watch-series-soon-1773704-2021-02-27)
+
+
+> HighlightsMotorola could launch the new Moto Watch series soon. Speculations are rife that the smartwatches would be called the Moto Watch, the Moto Watch One, and the Moto G Watch.Moto 360 Watch series was a rage amongst users but Motorola had to exit the market due to a lack of customer base.Motorola could launch the new Moto Watch series soon. As per reports, Motorola is preparing to launch three new Motorola smartwatches in the market. Speculations are rife that the smartwatches would be called the Moto Watch, the Moto Watch One, and the Moto G Watch.
+
+
+***
+![Joseph Parker vs Junior Fa live stream: how to watch the fight online anywhere](https://cdn.mos.cms.futurecdn.net/RiiNpqUGd29DYrtUABNJ4m-1200-80.jpg "Joseph Parker vs Junior Fa live stream: how to watch the fight online anywhere")
+
+
+[Joseph Parker vs Junior Fa live stream: how to watch the fight online anywhere](https://www.techradar.com/news/joseph-parker-vs-junior-fa-live-stream-how-to-watch-the-fight-online-anywhere)
+
+
+> It's one of the biggest bouts in New Zealand boxing history and boy have we waited for it. Postponed from last year, this marks the fifth time these two Kiwi fighters have locked horns, with honours even across their four previous fights - all of which too place in the amateur ranks. Read on as our guide explains how to watch a Joseph Parker vs Junior Fa live stream and catch all the boxing action online from anywhere in the world today.Watch: Joseph Parker vs Junior Fa live streamDate: Saturday, February 27Venue: Spark Arena, Auckland, New ZealandMain card time: 8pm NZDT / 6pm AEDT / 7am GMT / 2am ET / 11pm PT (Friday) Parker vs Fa ring walk time: 10.
+
+
