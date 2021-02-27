@@ -34366,3 +34366,40 @@
 > The South China Morning Post (SCMP) reported on Thursday that Zhang Wenfang, a resident of Hubei province, was thrown in prison for six months last April because she wrote social media posts that included coronavirus information the Chinese Communist Party (CCP) wished to suppress. According to Chinese court documents, Zhang wrote posts on Weibo, the Chinese version of the banned Twitter social media platform, in early April to commemorate people who died during the coronavirus pandemic. She was arrested on the CCP's all-purpose charge of 'picking quarrels and provoking troubles' and later slapped with additional jail time for 'knowingly spreading false information and causing serious disruption to public order.
 
 
+***
+![JS table front-end framework](https://external-preview.redd.it/ZYDwQetF4nNuoJ9jxpMlmol4GhKwksUHMFWyTiYUwqA.jpg?auto=webp&s=197e5ded4799263c24902664d4984780ed77db68 "JS table front-end framework")
+
+
+[JS table front-end framework](https://www.reddit.com/r/programming/comments/ltf81r/js_table_frontend_framework_edit_sorting_history/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![China's Huawei telecom, reeling from U.S. sanctions, reportedly will make EVs](https://external-preview.redd.it/yXWvndXQS6oLkh2uN3Jf2r3TGhPfZgh6CihET6JXTLk.jpg?auto=webp&s=720c157ba512fb00fe8a7aeb78b1c9d4f79583c7 "China's Huawei telecom, reeling from U.S. sanctions, reportedly will make EVs")
+
+
+[China's Huawei telecom, reeling from U.S. sanctions, reportedly will make EVs](https://www.reddit.com/r/technology/comments/ltf60s/chinas_huawei_telecom_reeling_from_us_sanctions/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+[What really is a 'Product Vision?' A tale with 2½ examples, from Microsoft to Apple](https://www.reddit.com/r/programming/comments/ltf5q0/what_really_is_a_product_vision_a_tale_with_2½/)
+
+
+> submitted by /u/otiose321 [link] [comments]
+
+
+***
+![Telegram update features including widgets, home screen, auto-delete, and more.](https://external-preview.redd.it/iAlqCvn81PvKsyGmr4JIg3rjgqvOhEWWu0dQfFn4g1Y.jpg?auto=webp&s=891ae4d49b5225a292622bbe6bc1a00f93c6295c "Telegram update features including widgets, home screen, auto-delete, and more.")
+
+
+[Telegram update features including widgets, home screen, auto-delete, and more.](https://www.reddit.com/r/technology/comments/ltf5lm/telegram_update_features_including_widgets_home/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
