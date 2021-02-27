@@ -34278,3 +34278,47 @@
 > Source: Bethesda (screenshot) Deathloop, a game from Bethesda Softworks and Arkane Lyon about rival assassins Colt and Julianna Blake, is right around the corner and in a year that is seeing countless games delayed, it's promising to be one of the best PS5 games available. Here are the different editions of Deathloop available for preorder, so if you aren't sure which version of the game you want to grab, we've got you covered. Deathloop all editions available for preorder There are two different versions of Deathloop available for preorder, a standard edition for $60 and a deluxe edition for $80.
 
 
+***
+[Nevada governor proposes giving tech firms power to govern](https://www.mymotherlode.com/news/technology/1566710/nevada-governor-proposes-giving-tech-firms-power-to-govern.html)
+
+
+> The governor of Nevada unveiled a proposal to allow technology companies to form 'Innovation Zones' with powers similar to local government
+
+
+***
+![Watch the Redmi K40 and K40 Pro get disassembled on video](https://fdn.gsmarena.com/imgroot/news/21/02/redmi-k40-disassembled/-476x249w4/gsmarena_001.jpg "Watch the Redmi K40 and K40 Pro get disassembled on video")
+
+
+[Watch the Redmi K40 and K40 Pro get disassembled on video](https://www.gsmarena.com/watch_the_redmi_k40_and_k40_pro_get_disassembled_on_video-news-47968.php)
+
+
+> Yesterday Xiaomi's sub-brand Redmi introduced its flagship lineup for 2021, namely the Redmi K40, K40 Pro, and K40 Pro+. While the launch was China-only, rumor has it at least one of these will be available globally under the Poco brand. It's only been around 24 hours after the launch, but someone in China has already managed to disassemble the Redmi K40 and K40 Pro, and here's the video proof of that. Note that the audio is Chinese, unsurprisingly, but even if you don't understand the language the shots of the insides of the phones speak for themselves.
+
+
+***
+![TikTok to cough up $92m to settle data privacy sueballs over harvesting too much data](https://regmedia.co.uk/2021/02/26/tiktok.jpg "TikTok to cough up $92m to settle data privacy sueballs over harvesting too much data")
+
+
+[TikTok to cough up $92m to settle data privacy sueballs over harvesting too much data](https://www.theregister.com/2021/02/27/tiktok_lawsuit_settlement/)
+
+
+> ByteDance, the parent company of TikTok, has offered to pay less than $100m to settle multiple privacy class-action lawsuits in the US. Last year, the China-based biz was hit with 21 sueballs filed mostly on behalf of children who used its trendy vid-sharing app, which is wildly popular among teens. It was alleged TikTok uses AI tools to collect and store biometric data of people appearing in videos hosted on the platform without obtaining their explicit consent as required by law. Now, the software maker, which last year banked $7bn in operating profit, has agreed to settle [motion, settlement PDFs] the matter out of court by paying $92m to some 90 million fans covered by the class action.
+
+
+***
+![Need a break during quarantine? Why not try Stardew Valley?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/stardew-valley-farm.png "Need a break during quarantine? Why not try Stardew Valley?")
+
+
+[Need a break during quarantine? Why not try Stardew Valley?](https://www.androidcentral.com/stardew-valley-can-break-monotony-quarantine-even-if-just-little-while)
+
+
+> Source: Android Central I have an enormous video game backlog. It's over 100 titles long, and I know that pales in comparison to some of the other backlogs I've seen. Going into quarantine, I thought I'd have plenty of time to make a dent. Instead, I've just been going through some old favorites and a few of the best PS5 games, like Alan Wake and Dead Space. However, lately I've been putting all of my time into Stardew Valley, a 2016 farming and life simulator (and one of the best simulation games out there) that is the definition of comforting.
+
+
+***
+[Here's how to visit the iconic hill in the Windows XP background](https://filmdaily.co/tech/windows-xp-real-photo/)
+
+
+> Remember that Windows XP background that was on everyone's computers? Here's the story of how one random photograph ended up on a billion computers. The post Here’s how to visit the iconic hill in the Windows XP background appeared first on Film Daily.
+
+
