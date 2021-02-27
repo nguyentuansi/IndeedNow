@@ -34497,3 +34497,53 @@
 > It's one of the biggest bouts in New Zealand boxing history and boy have we waited for it. Postponed from last year, this marks the fifth time these two Kiwi fighters have locked horns, with honours even across their four previous fights - all of which too place in the amateur ranks. Read on as our guide explains how to watch a Joseph Parker vs Junior Fa live stream and catch all the boxing action online from anywhere in the world today.Watch: Joseph Parker vs Junior Fa live streamDate: Saturday, February 27Venue: Spark Arena, Auckland, New ZealandMain card time: 8pm NZDT / 6pm AEDT / 7am GMT / 2am ET / 11pm PT (Friday) Parker vs Fa ring walk time: 10.
 
 
+***
+![Apple developers despair as DTK rebate offers vary worldwide](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/06/apple-developer-transition-kit.jpg "Apple developers despair as DTK rebate offers vary worldwide")
+
+
+[Apple developers despair as DTK rebate offers vary worldwide](https://www.imore.com/apple-developers-despair-dtk-rebate-offers-vary-worldwide)
+
+
+> March 31 The developers will get $500 store credit in return, but it has been a rough ride for some... 27 Feb 2021 Source: Axel Roest Apple has confirmed that developers must return their Apple silicon DTK units by March 31. It comes following a fiasco about the amount of credit offered to developers in return. Some developers are now upset they aren't getting the full rebate amount they paid like developers in the U.S. Apple has confirmed to developers they must return their Developer Transition Kit by March 31, 2021, but some developers still aren't happy about the rebate being offered by Apple.
+
+
+***
+![The Two Most Useful Python Courses](https://external-preview.redd.it/jINRuT5ulVlkA9WGbVQ_fsbMoexmGhu9QsNqpvB68d4.jpg?auto=webp&s=a970f553e781a431968a511608f52e133feb5eb7 "The Two Most Useful Python Courses")
+
+
+[The Two Most Useful Python Courses](https://www.reddit.com/r/Python/comments/ltkryq/the_two_most_useful_python_courses_corey_schafer/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Battery status at 99% just after a month](https://images.macrumors.com/social/?t=2286414&v=6 "Battery status at 99% just after a month")
+
+
+[Battery status at 99% just after a month](https://forums.macrumors.com/threads/battery-status-at-99-just-after-a-month.2286414/)
+
+
+> Hi all, i just found that my 12PM has decreased to 99% after just a 1,5 month of use and 27 cycle. I charge it overnight with optimized option and a 5w charger. I went below 20% yesterday for the very first time and this morning it's 99%. Is there a connection? Average use last week: 7h It's not normal to me. What do you think? Thanks
+
+
+***
+![Moto Watch, Moto Watch One, Moto G Smartwatch Images Surface Online](https://i.gadgets360cdn.com/large/moto_watch_one_g_smartwatch_images_twitter_felipe_berhau_1614417453639.jpg "Moto Watch, Moto Watch One, Moto G Smartwatch Images Surface Online")
+
+
+[Moto Watch, Moto Watch One, Moto G Smartwatch Images Surface Online](https://gadgets.ndtv.com/wearables/news/moto-watch-one-g-smartwatch-launch-june-july-features-images-leak-2379901)
+
+
+> Moto Watch, Moto Watch One, and Moto G Smartwatch have surfaced online as the next-generation Motorola smartwatches. The new Moto Watch models could launch later this year. Meanwhile, a couple of images showing the design of the smartwatches have surfaced on Twitter. One of the new models, the Moto Watch, appears to come in a square-shaped design. In contrast, the Moto Watch One and the Moto G Smartwatch are likely to come with a circular build — similar to that of the Moto 360 smartwatch.Twitter user Felipe Berhau, who regularly posts about Motorola products, has leaked images showing the design of the Moto Watch, the Moto Watch One, and the Moto G Smartwatch.
+
+
+***
+![Microsoft could be planning on unleashing ‘the new Windows' soon](https://cdn.mos.cms.futurecdn.net/5p9jACEXVhLM7aF5pA9TM-1200-80.jpg "Microsoft could be planning on unleashing ‘the new Windows' soon")
+
+
+[Microsoft could be planning on unleashing ‘the new Windows' soon](https://www.techradar.com/news/microsoft-could-be-planning-on-unleashing-the-new-windows-soon)
+
+
+> (Image credit: Microsoft) Rumor has it that Microsoft is getting ready to deploy what it's calling ‘the new Windows' in the near future.This comes from well-known Microsoft leaker WalkingCat on Twitter, who tweeted that this ‘new' Windows – whatever it may be – is coming next month. Although a follow-up tweet quickly clarified that 'it's coming, but maybe not next month, sorry'.Correction: its coming, but maybe not next month, sorry 😿 https://t.co/vbEjaJ8if8February 26, 2021See moreOf course, that means that ‘maybe' it could still turn up in March, and seemingly March but more likely April are the months to watch for the debut of what is presumably Windows 10X, Microsoft's incoming lightweight version of Windows.
+
+
