@@ -34403,3 +34403,47 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+[In a hearing with US lawmakers, ex-SolarWinds CEO blamed an intern for the "solarwinds123" password leak discovered in 2019 that had exposed a SolarWinds server (CNN)](http://www.techmeme.com/210227/p1#a210227p1)
+
+
+> CNN: In a hearing with US lawmakers, ex-SolarWinds CEO blamed an intern for the “solarwinds123” password leak discovered in 2019 that had exposed a SolarWinds server — FireEye CEO on how the SolarWinds hack was discovered — Washington (CNN)Current and former top executives …
+
+
+***
+![The 12 best things to buy from the private Tory Burch sale happening now](https://www.gannett-cdn.com/presto/2021/02/27/USAT/792fc01c-8185-492a-b63f-a17c0d104712-tory-2_copy.jpg?crop=1493,840,x0,y0&width=1600&height=800&fit=bounds "The 12 best things to buy from the private Tory Burch sale happening now")
+
+
+[The 12 best things to buy from the private Tory Burch sale happening now](https://www.usatoday.com/story/tech/reviewedcom/2021/02/26/tory-burch-sale-shop-stores-twice-yearly-private-sale-now/6838320002/)
+
+
+> This sale comes but twice a year. (Photo: Tory Burch)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.As we eagerly await the first day of spring on March 20, Tory Burch is giving us something to smile about in the meantime. To welcome the new season that's almost at hand, the designer brand has gifted us with the Private Sale: a major savings bonanza that comes but twice a year and includes top-rated goods in all of its categories, from apparel, shoes and handbags to watches, jewelry and home pieces.
+
+
+***
+![Realme Narzo 30 Pro 5G vs Realme X7 5G: Price in India, design, specifications compared](https://images.indianexpress.com/2021/02/Realme-Narzo-30-Pro-vs-Realme-X7.jpg "Realme Narzo 30 Pro 5G vs Realme X7 5G: Price in India, design, specifications compared")
+
+
+[Realme Narzo 30 Pro 5G vs Realme X7 5G: Price in India, design, specifications compared](https://indianexpress.com/article/technology/mobile-tabs/realme-narzo-30-pro-5g-vs-realme-x7-5g-price-design-specifications-compared-7206959/)
+
+
+> Realme Narzo 30 Pro has been launched in India and the new 5G phone packs a MediaTek Dimensity 800U. The same chip is also powering the recently launched Realme X7 5G phone. The latter features 64MP triple rear cameras, 65W fast charging, AMOLED panel and more. With the Realme Narzo 30 Pro, you get an LCD display, 30W fast charger, 48MP triple rear camera setup, and more. The Realme X7 will cost you Rs 3,000 more than the Narzo phone but for that, you are getting slightly better specs. Read on to get more clarity on these 5G devices.
+
+
+***
+[Have an OpenAPI Specification (Swagger) and want to run a Mock server out of it?](https://www.reddit.com/r/Python/comments/lth4eq/have_an_openapi_specification_swagger_and_want_to/)
+
+
+> Easily serve your swagger into localhost with many options with this:- https://github.com/bikcrum/Mock-API-server ​ Just hit this command and serve it. As easy as it gets. python app.py -s /path/to/swagger.json ​ Extended use: python app.py --port 5000 --source /path/to/swagger.json --status_code 200 --random_seed 1 --default_value id=2 name=John --list_size 2 3 ​ Any contributions are welcomed. #python #flask #swagger #openapi #opensource #mockserver submitted by /u/
+
+
+***
+![Python vs Matlab](https://external-preview.redd.it/6D1decWclCdUvmoINgIBYufAk4DpBX2jZtXDM0v4828.jpg?auto=webp&s=00a61dc512a853f2c61f5e2849ca7664102b35b2 "Python vs Matlab")
+
+
+[Python vs Matlab](https://www.reddit.com/r/programming/comments/lth1c6/python_vs_matlab/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
