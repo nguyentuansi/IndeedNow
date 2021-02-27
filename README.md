@@ -34647,3 +34647,53 @@
 > Watching the next big boxing fight or sports event can get quite expensive, especially if you're watching on PPV with matches costing anywhere from $50 upwards. That's where specialist sports streaming website DAZN (pronounced "Da Zone") might just trigger your interest.And the great news is that it seems to be getting bigger and bigger. DAZN service first launched in Austria, Germany, Japan and Switzerland back in August 2016 but soon expanded into Canada. Building on this success, DAZN has since launched in the US, UK, Italy, Brazil and by the end of 2020 DAZN has been made available in over 200 countries.
 
 
+***
+![New Motorola watches to be revealed later this year](https://fdn.gsmarena.com/imgroot/news/21/02/moto-watches-2021/-476x249w4/gsmarena_000.jpg "New Motorola watches to be revealed later this year")
+
+
+[New Motorola watches to be revealed later this year](https://www.gsmarena.com/new_motorola_watches_to_be_revealed_later_this_year__moto_g_watch_and_one-news-47974.php)
+
+
+> Last year, Motorola's iconic Moto 360 smartwatch running on Wear OS made a comeback, but it was manufactured by one of Motorola's partners - eBuyNow. And it looks like the two companies are extending their partnership by bringing three more Moto-branded smartwatches later this year. In a presentation showing off the roadmap of future devices, we can see a Moto G smartwatch scheduled for a June release and as the name implies, we are probably looking at a budget device. A circular design is at hand with two physical buttons to the side.
+
+
+***
+![Mint Mobile makes more sense than Ting if you need data](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/07/ting-mobile-galaxy-s9-hero.jpg "Mint Mobile makes more sense than Ting if you need data")
+
+
+[Mint Mobile makes more sense than Ting if you need data](https://www.androidcentral.com/mint-mobile-vs-ting)
+
+
+> Buy in bulk to save money for service on T-Mobile's network with Mint Mobile. Plans come in 4GB, 10GB, and 15GB packages with an unlimited plan with up to 35GB of high-speed data. Calls and texts are unlimited, and calling to Mexico and Canada is included. From $15/month at Mint Mobile Lots of data Unlimited calls and texts Compatible with most phones Discounts in bulk Ting is a great value for many people, especially light users that are looking for a plan that starts cheap but can still use data without getting too expensive.
+
+
+***
+![5 simple ways to speed up your smartphone](https://www.komando.com/wp-content/uploads/2021/02/rebooting-phone-970x546.jpg "5 simple ways to speed up your smartphone")
+
+
+[5 simple ways to speed up your smartphone](https://www.komando.com/kims-column/speed-up-your-phone/780942/)
+
+
+> From rebooting to removing apps you no longer use, here are five simple ways to speed up your smartphone.
+
+
+***
+![Arab Media Spreads Wikipedia Hoax Claim About Late Saudi Oil Minister](https://media.breitbart.com/media/2019/06/Jimmy-Wales-co-founder-of-Wikipedia.jpg "Arab Media Spreads Wikipedia Hoax Claim About Late Saudi Oil Minister")
+
+
+[Arab Media Spreads Wikipedia Hoax Claim About Late Saudi Oil Minister](https://www.breitbart.com/tech/2021/02/27/arab-media-spreads-wikipedia-hoax-claim-about-late-saudi-oil-minister/)
+
+
+> Former Saudi Oil Minister Ahmed Zaki Yamani, who died Tuesday, was an architect of the 1973 oil embargo and widely misreported by Arab-language media, including CNN's Arab edition, to have been the first Secretary-General of the Organization of Petroleum Exporting Countries (OPEC). Arab News reported Wednesday that the claim of him serving as secretary-general was false and attributed it to Yamani's page on the Arabic Wikipedia, which has included the false claim since the page's creation in 2005.
+
+
+***
+![Why This 'Holy Grail' Jeep Grand Cherokee Is So Rare And Why I Bought It Sight Unseen From 2000 Miles Away](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/pgxwl34bdn9c3ozdhvjj.png "Why This 'Holy Grail' Jeep Grand Cherokee Is So Rare And Why I Bought It Sight Unseen From 2000 Miles Away")
+
+
+[Why This 'Holy Grail' Jeep Grand Cherokee Is So Rare And Why I Bought It Sight Unseen From 2000 Miles Away](https://jalopnik.com/why-this-holy-grail-jeep-grand-cherokee-is-so-rare-and-1846354856)
+
+
+> Photo: AllisonTruck YeahThe trucks are good!In Reno, Nevada sits a Jeep so rare that I'm certain it's the only one of its kind remaining. Not only is the vehicle outfitted with a manual transmission, making it one of roughly 1,500 'holy grail' Jeeps ever built, but it's also missing the big plastic, questionable-looking door cladding found on 99.9 percent of all Grand Cherokee ZJs. Here's why that makes this Jeep the holy grail of holy grails.I realize I've beaten the topic of manual Jeep Grand Cherokees to death, having recently told you about how I resisted a beautiful purple example for sale only 45 minutes from my house.
+
+
