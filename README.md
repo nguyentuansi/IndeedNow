@@ -34322,3 +34322,47 @@
 > Remember that Windows XP background that was on everyone's computers? Here's the story of how one random photograph ended up on a billion computers. The post Here’s how to visit the iconic hill in the Windows XP background appeared first on Film Daily.
 
 
+***
+[Sources detail Google's troubles with game development as the company couldn't stomach the complicated creative process amid Stadia's poor streaming numbers (Cecilia D'Anastasio/Wired)](http://www.techmeme.com/210226/p24#a210226p24)
+
+
+> Cecilia D'Anastasio / Wired: Sources detail Google's troubles with game development as the company couldn't stomach the complicated creative process amid Stadia's poor streaming numbers — The tech giant hired 150 game developers for Stadia Games and Entertainment, only to lay them all off. Sources say it never gave the studios a chance.
+
+
+***
+[Why isn't Godot an ECS-based game engine?](https://www.reddit.com/r/programming/comments/ltczc7/why_isnt_godot_an_ecsbased_game_engine/)
+
+
+> submitted by /u/alibix [link] [comments]
+
+
+***
+![An Interactive Guide to CSS Transitions](https://external-preview.redd.it/7qEAkk4UwmhjFiMBEjVf-YzPZ8ogMwp9ldP7-5AdXX0.jpg?auto=webp&s=5bc804bb9d14c12a2e8660e1bf02c5b6ac7257b8 "An Interactive Guide to CSS Transitions")
+
+
+[An Interactive Guide to CSS Transitions](https://www.reddit.com/r/programming/comments/ltcrjt/an_interactive_guide_to_css_transitions/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Any libraries to detect BPM of an MP3 file?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Any libraries to detect BPM of an MP3 file?")
+
+
+[Any libraries to detect BPM of an MP3 file?](https://www.reddit.com/r/Python/comments/ltcnyn/any_libraries_to_detect_bpm_of_an_mp3_file/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Chinese Woman Jailed Six Months for Coronavirus Social Media Post](https://media.breitbart.com/media/2021/02/China-Phone-640x335.jpg "Chinese Woman Jailed Six Months for Coronavirus Social Media Post")
+
+
+[Chinese Woman Jailed Six Months for Coronavirus Social Media Post](https://www.breitbart.com/national-security/2021/02/26/china-jailed-woman-for-six-months-for-honoring-coronavirus-dead-on-social-media/)
+
+
+> The South China Morning Post (SCMP) reported on Thursday that Zhang Wenfang, a resident of Hubei province, was thrown in prison for six months last April because she wrote social media posts that included coronavirus information the Chinese Communist Party (CCP) wished to suppress. According to Chinese court documents, Zhang wrote posts on Weibo, the Chinese version of the banned Twitter social media platform, in early April to commemorate people who died during the coronavirus pandemic. She was arrested on the CCP's all-purpose charge of 'picking quarrels and provoking troubles' and later slapped with additional jail time for 'knowingly spreading false information and causing serious disruption to public order.
+
+
