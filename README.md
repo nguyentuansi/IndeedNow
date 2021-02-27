@@ -34547,3 +34547,53 @@
 > (Image credit: Microsoft) Rumor has it that Microsoft is getting ready to deploy what it's calling ‘the new Windows' in the near future.This comes from well-known Microsoft leaker WalkingCat on Twitter, who tweeted that this ‘new' Windows – whatever it may be – is coming next month. Although a follow-up tweet quickly clarified that 'it's coming, but maybe not next month, sorry'.Correction: its coming, but maybe not next month, sorry 😿 https://t.co/vbEjaJ8if8February 26, 2021See moreOf course, that means that ‘maybe' it could still turn up in March, and seemingly March but more likely April are the months to watch for the debut of what is presumably Windows 10X, Microsoft's incoming lightweight version of Windows.
 
 
+***
+![The 20 Best Weekend Deals If You Work From Home](https://media.wired.com/photos/5dc5b013c955950008b267b9/191:100/w_1280,c_limit/Gear-jarvis-standing-desk-from-amazon.jpg "The 20 Best Weekend Deals If You Work From Home")
+
+
+[The 20 Best Weekend Deals If You Work From Home](https://www.wired.com/story/weekend-deals-february-27-2021/)
+
+
+> We're coming up on a year since the pandemic first imposed a lockdown in the US, forcing many people to work from home for the first time, and kids to learn remotely. If you've yet to make a home office of sorts, temporary or not, now is still a good time, as the pandemic isn't disappearing just yet. We found several deals this week that can help you get it together, and if you already have your own space, maybe you'll find something here that'll make remote learning and working just a little more comfortable.
+
+
+***
+![Alexa Skills That Are Actually Fun and Useful](https://media.wired.com/photos/60399811040af4d50d8ff86c/191:100/w_1280,c_limit/Gear-Alexa-Skills-1226031771.jpg "Alexa Skills That Are Actually Fun and Useful")
+
+
+[Alexa Skills That Are Actually Fun and Useful](https://www.wired.com/story/alexa-skills-that-are-actually-fun-and-useful/)
+
+
+> Amazon's Echo devices can do a lot of cool things out of the box, but if you want to add extra features, you can turn to the Alexa Skills library. These mini-apps let you add new voice commands, connect to third-party apps, and even play games. There's just one problem: A lot of them aren't great. To cut through the chaff, we've got a list of the best skills that are actually worth enabling on your Echo.7-Minute WorkoutFinding time to work out during the day is one of those tasks that can feel more overwhelming than it really is.
+
+
+***
+![How Blizzard Transforms Its Fans Into Employees](https://media.wired.com/photos/60395725cb267f5208ca89bd/191:100/w_1280,c_limit/games_blizzard_870311694.jpg "How Blizzard Transforms Its Fans Into Employees")
+
+
+[How Blizzard Transforms Its Fans Into Employees](https://www.wired.com/story/blizzard-fans-into-employees-blizzcon/)
+
+
+> Ion Hazzikostas was fairly certain that Blizzard had broken World of Warcraft. He and his guildmates were deep in the ancient sanctum of Ahn'Qiraj, face to face with the delirious cosmic gaze of the eldritch god C'Thun. The dusty tomes of the Warcraft legendarium imply that C'Thun is one of the most powerful beings in the universe; he commands an army of obsidian golems and routinely devours raid members whole with one of his many toothy maws. Still, the amount of damage he was soaking up seemed a bit overtuned.
+
+
+***
+![Global Oncolytic Virus Market](http://technologymagazine.org/assets/imgs/news-1.jpg "Global Oncolytic Virus Market")
+
+
+[Global Oncolytic Virus Market](http://technologymagazine.org/global-oncolytic-virus-market/)
+
+
+> The ' Oncolytic Virus market' report, recently added by Market Study Report, LLC, examines the industry in terms of the global expanse, highlighting the present & future growth potential of each region as well as consolidated statistics. The study also presents a precise summary of the competitive milieu, key developments, and application landscape of the Oncolytic Virus market based on the impact of the financial and non-financial facades of the industry. Executive Summary: The Oncolytic Virus market report offers a detailed perusal of this business sphere, with a key emphasis on the driving forces and restraints, as well as the opportunities and associated risks that will influence the profitability graph over the forecast period.
+
+
+***
+![iOS 14 runs on 80% of all iPhones, says Apple](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/07/ios-14-widgets-iphone-11-pro-hero.jpeg "iOS 14 runs on 80% of all iPhones, says Apple")
+
+
+[iOS 14 runs on 80% of all iPhones, says Apple](https://www.imore.com/ios-14-runs-80-all-iphones-says-apple)
+
+
+> Source: Joseph Keller / iMore New official figures from Apple have revealed 80% of all active iPhones run iOS 14, and that the figure is even higher for iPhones introduced in the last four years. In figures posted to its developer support pages Apple states: 86% of all devices introduced in the last four years use iOS 14. From those figures, a further 12% run iOS 13, with only 2 percent of iPhones introduced in the last four years running an OS older than iOS 13. For all iPhones, 80% of active devices use iOS 14, again 12% run iOS 13, and only 8% run an OS older than iOS 14.
+
+
