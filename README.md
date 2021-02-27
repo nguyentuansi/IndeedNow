@@ -34747,3 +34747,53 @@
 > I am holding shares in Graphite India and HEG. Please advise their short-, medium- and long-term prospects.Bhaskar ParabGraphite India (₹481.3): The stock of Graphite India has been in an intermediate-term uptrend since it took support at around ₹103 in March 2020. However, the stock had met with key resistance at ₹200 in May 2020 and consolidated sideways in the band between ₹160 and ₹210 until the stock broke out of this sideways movement in November 2020. Since then, the stock has been in a medium-term uptrend.
 
 
+***
+![This weekend's Chromebook deals feature price cuts of up to $300 at Amazon and Best Buy](https://cdn.mos.cms.futurecdn.net/HLku7gJWb4NzzrSeqAt4yR-1200-80.jpg "This weekend's Chromebook deals feature price cuts of up to $300 at Amazon and Best Buy")
+
+
+[This weekend's Chromebook deals feature price cuts of up to $300 at Amazon and Best Buy](https://www.techradar.com/news/this-weekends-chromebook-deals-feature-price-cuts-of-up-to-dollar300-at-amazon-and-best-buy)
+
+
+> (Image credit: Future) If you're a fan of lightweight laptops, this weekend's Chromebook deals at Best Buy and Amazon are yielding some really great prices on a variety of machines.Best Buy, for example, has Chromebook deals starting at just $249 (was $299) for this Lenovo Duet 2-in-1 device - which is a great little machine if you're looking for something capable of straddling both the laptop and tablet worlds. Amazon too has a great deal on this Acer Chromebook Spin for $269.99 (was $499), which features an Intel Celeron processor and five different modes of use.
+
+
+***
+![I am so glad I'm Uncoordinated! (Distributed Systems)](https://external-preview.redd.it/cmZIol6ZmvFFjyuLZ199lxzaLsJsW7mxpQGo45jjoDI.jpg?auto=webp&s=43d055cd41b63b891658183fee65650ae79abe6d "I am so glad I'm Uncoordinated! (Distributed Systems)")
+
+
+[I am so glad I'm Uncoordinated! (Distributed Systems)](https://www.reddit.com/r/programming/comments/ltvqtp/i_am_so_glad_im_uncoordinated_distributed_systems/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Why France's new 'repairability index' is a big deal](https://external-preview.redd.it/ZocYpPDYfHef8ZiLuYSMkV7yriwTJR9g2Ehxr5wRV1I.jpg?auto=webp&s=ce8a44a6f00f8cd00c8d4619f0460e0311938982 "Why France's new 'repairability index' is a big deal")
+
+
+[Why France's new 'repairability index' is a big deal](https://www.reddit.com/r/technology/comments/ltvlxy/why_frances_new_repairability_index_is_a_big_deal/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Mac Pro 5.1 CRASHING and RESTARTING DURING VIDEO EPXORTING](https://images.macrumors.com/social/?t=2286462&v=6 "Mac Pro 5.1 CRASHING and RESTARTING DURING VIDEO EPXORTING")
+
+
+[Mac Pro 5.1 CRASHING and RESTARTING DURING VIDEO EPXORTING](https://forums.macrumors.com/threads/mac-pro-5-1-crashing-and-restarting-during-video-epxorting.2286462/)
+
+
+> Hi! My Mac Pro Crash, I got green screen, some times black, and Mac restart. It just happening when Im exporting video It is not the software (Davinci Resolve) I've tested with other softwares too (Premiere Pro, Final Cut). /// tested same Project, files etc in other computers (and its fine) tried reinstall the system, reinstall software (several times). Tried different projects with different files so its not the software or the files for sure. Its not the GPU it self, I've tested it on windows and the GPUs is fine I can play games, render files on the Software Time Line and it fine and incredible fast , smooth etc.
+
+
+***
+![Automate your home with the best HomeKit smart plugs around](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/wemo-mini-lifestyle.jpeg "Automate your home with the best HomeKit smart plugs around")
+
+
+[Automate your home with the best HomeKit smart plugs around](https://www.imore.com/these-smart-plugs-work-siri-and-apples-homekit)
+
+
+> Best Smart Plugs for HomeKit iMore 2021 Smart accessories make managing your home easier, and the best smart plugs for HomeKit can help to bring older devices to the connected party. These simple HomeKit accessories can turn on your coffee maker at sunrise automatically through scenes and automations created in the Home app. If you are ready to make your home smarter, these are the best smart plugs for HomeKit that you can buy today. Staff Favorite Belkin's Wemo mini features a slim profile that won't block the other receptacle on the wall, allowing two of them to be used in a single outlet.
+
+
