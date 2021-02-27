@@ -34597,3 +34597,53 @@
 > Source: Joseph Keller / iMore New official figures from Apple have revealed 80% of all active iPhones run iOS 14, and that the figure is even higher for iPhones introduced in the last four years. In figures posted to its developer support pages Apple states: 86% of all devices introduced in the last four years use iOS 14. From those figures, a further 12% run iOS 13, with only 2 percent of iPhones introduced in the last four years running an OS older than iOS 13. For all iPhones, 80% of active devices use iOS 14, again 12% run iOS 13, and only 8% run an OS older than iOS 14.
 
 
+***
+![Change your default Apple Pay card on Apple Watch and make it rain](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/01/apple-pay-apple-watch-hero.jpeg "Change your default Apple Pay card on Apple Watch and make it rain")
+
+
+[Change your default Apple Pay card on Apple Watch and make it rain](https://www.imore.com/how-set-default-card-apple-pay-apple-watch)
+
+
+> Source: iMore Apple Pay provides a convenient way to make purchases on iPhone and Apple Watch when out and about (or in the comfort of your home) without needing your physical debit or credit card. You can add as many virtual cards to your Apple Pay as needed. The first card you add ends up as your default, but you can change that with ease on the best Apple Watch and other models. Here's how to assign a default card for Apple Pay on Apple Watch. To change the default Apple Pay payment method on Apple Watch: Open the Apple Watch app on your iPhone.
+
+
+***
+![The 1979 Apple II — How Does It Look Today?](https://external-preview.redd.it/wzod0Dp-hGZYh89oljRYBDt--jt4yDc84CFjokcTI-o.jpg?auto=webp&s=906e2b6a2e72ce5cddc7250a29571e3e65ac7487 "The 1979 Apple II — How Does It Look Today?")
+
+
+[The 1979 Apple II — How Does It Look Today?](https://www.reddit.com/r/programming/comments/ltookm/the_1979_apple_ii_how_does_it_look_today/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Here's everything we know about Apple's next iMac](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/jon-prosser-imac-2021colors.jpg "Here's everything we know about Apple's next iMac")
+
+
+[Here's everything we know about Apple's next iMac](https://www.imore.com/2021-imac)
+
+
+> Coming soon? It could be the biggest change to iMac... ever! 27 Feb 2021 Source: Jon Prosser / Front Page Tech With Apple's November 'One More Thing' event and the dawn of Apple silicon, the company cemented its plans to overhaul its entire Mac lineup over the course of the next two years. Whilst the majority of those changes come under the hood by way of Apple silicon, each new release is a chance to rethink each of Apple's Mac lineups. No Mac has changed less on the outside in the last few years than the iMac, but 2021 could bring about an end to all of that.
+
+
+***
+![This web browser you've never heard of is absolutely rapid, but don't get too excited](https://cdn.mos.cms.futurecdn.net/R9AxregGhFkLJZ5VywpFTa-1200-80.jpg "This web browser you've never heard of is absolutely rapid, but don't get too excited")
+
+
+[This web browser you've never heard of is absolutely rapid, but don't get too excited](https://www.techradar.com/news/this-web-browser-youve-never-heard-of-is-absolutely-rapid-but-dont-get-too-excited)
+
+
+> With hardware becoming ever more powerful, even the most affordable laptops and computers now boast plenty of firepower. However, for users to reap the benefits of performance increases at a hardware level, applications must also be optimized to take advantage.According to software firm Ekioh, this particular dynamic is standing in the way of significant improvements in the web browsing experience, with maximum speeds and overall smoothness limited by the way the current crop of browsers are built.
+
+
+***
+![What is DAZN and how can I watch it?](https://cdn.mos.cms.futurecdn.net/FsAivAFcA74xErTYjoysJD-1200-80.jpg "What is DAZN and how can I watch it?")
+
+
+[What is DAZN and how can I watch it?](https://www.techradar.com/how-to/what-is-dazn-and-how-do-i-watch-it)
+
+
+> Watching the next big boxing fight or sports event can get quite expensive, especially if you're watching on PPV with matches costing anywhere from $50 upwards. That's where specialist sports streaming website DAZN (pronounced "Da Zone") might just trigger your interest.And the great news is that it seems to be getting bigger and bigger. DAZN service first launched in Austria, Germany, Japan and Switzerland back in August 2016 but soon expanded into Canada. Building on this success, DAZN has since launched in the US, UK, Italy, Brazil and by the end of 2020 DAZN has been made available in over 200 countries.
+
+
