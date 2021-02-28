@@ -35362,3 +35362,44 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+[How Reddit, at ~$6B arguably one of the most undervalued companies in world, can unlock the next step-change in valuation and protect against niche competitors (Mario Gabriele/The Generalist)](http://www.techmeme.com/210228/p7#a210228p7)
+
+
+> Mario Gabriele / The Generalist: How Reddit, at ~$6B arguably one of the most undervalued companies in world, can unlock the next step-change in valuation and protect against niche competitors — One of social media's oldest companies is also its most undervalued. … ‍ — “You ever stop to realize how fragile all this is?”
+
+
+***
+![Microsoft chief's claims on cloud security result in sharp rejoinder](https://www.itwire.com/media/k2/items/cache/2fa01e3875966c91133c031d7676a303_XS.jpg "Microsoft chief's claims on cloud security result in sharp rejoinder")
+
+
+[Microsoft chief's claims on cloud security result in sharp rejoinder](https://www.itwire.com/security/microsoft-chief-s-claims-on-cloud-security-result-in-sharp-rejoinder.html)
+
+
+> Comments made by Microsoft president Brad Smith to the US Senate Select Committee on Intelligence, which held a hearing on the SolarWinds attacks last week, claiming that there is more security in the cloud than in on-premises servers, have met a tough response from former NSA hacker Jake Williams, who characterised them as having caused more harm to security than the SolarWinds attackers did in the first place. Williams, a well-known figure in the infosec community who runs his own private security outfit, Rendition Infosec, said in a tweet: "I've been thinking a LOT about Brad Smith's testimony this week about #SolariGate.
+
+
+***
+[John Capobianco](https://www.itwire.com/freelancer-sp-720/tag/John%20Capobianco.html)
+
+
+> Comments made by Microsoft president Brad Smith to the US Senate Select Committee on Intelligence, which held a hearing on the SolarWinds attacks last week, claiming that there is more security in the cloud than in on-premises servers, have met a tough response from former NSA hacker Jake Williams, who characterised them as having caused more harm to security than the SolarWinds attackers did in the first place.
+
+
+***
+[What it comes down to in 2021](https://www.reddit.com/r/programming/comments/luqt7j/what_it_comes_down_to_in_2021/)
+
+
+> submitted by /u/codephony [link] [comments]
+
+
+***
+![How do you build and deploy?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "How do you build and deploy?")
+
+
+[How do you build and deploy?](https://www.reddit.com/r/Python/comments/luqsxx/how_do_you_build_and_deploy/)
+
+
+> Who is in charge of the build and deploy processes in your company? The developers, or a DevOps team, or people dedicated to it? And how is it done (architecture, technologies)?
+
+
