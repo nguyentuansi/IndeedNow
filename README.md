@@ -35312,3 +35312,53 @@
 > I created the following library in python that enables crawling the web in an easy way. The library provides many of the common features and functionality of other web spiders/crawlers. There is already a top notch crawler/spider framework in python, but I am not aware of any strong libraries in the space. Any feedback would be greatly appreciated. GitHub: https://github.com/austynherman112994/bitcrawler RTD: https://bitcrawler.readthedocs.io/en/latest/bitcrawler.html#bitcrawler Pypi: https://pypi.
 
 
+***
+![Chess & Cloud:  Why the right moves matter](https://images.financialexpress.com/2021/02/1-767.jpg "Chess & Cloud:  Why the right moves matter")
+
+
+[Chess & Cloud:  Why the right moves matter](https://www.financialexpress.com/industry/technology/chess-cloud-why-the-right-moves-matter/2203075/)
+
+
+> Vaibhav Gawde, head—Solution Engineering, Oracle IndiaTOP-END performance, consistently lower costs, easy integration and smooth cloud migration have made cloud an alluring choice for businesses. However, making the right cloud choice can sometimes be tricky for an organisation, given previous IT investments, complex processes that cut across multiple departments, a number of cloud providers to choose from and the reality of hybrid IT setups.Vaibhav Gawde, head—Solution Engineering, Oracle India, suggests that in a cloud-first world, organisations may consider cloud infrastructure as their key pawn to make the winning moves—faster innovation, better customer experience and sustained growth.
+
+
+***
+![Oracle, Which Promised To Protect TikTok User Data From China, Helps Chinese Law Enforcement Snarf Through Lots Of Private Data](https://external-preview.redd.it/mTXJrxCvif-K5f4XFJxTMKqq4RdLHYI2bRMypKAwArY.jpg?auto=webp&s=d0df2efb3cf666e26fba450e7c480d7e61d93543 "Oracle, Which Promised To Protect TikTok User Data From China, Helps Chinese Law Enforcement Snarf Through Lots Of Private Data")
+
+
+[Oracle, Which Promised To Protect TikTok User Data From China, Helps Chinese Law Enforcement Snarf Through Lots Of Private Data](https://www.reddit.com/r/technology/comments/luolhm/oracle_which_promised_to_protect_tiktok_user_data/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Walmart Hires 2 Goldman Sachs Bankers To Lead New Fintech Venture](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/walmart-store-exterior-at-night_0_0.jpg "Walmart Hires 2 Goldman Sachs Bankers To Lead New Fintech Venture")
+
+
+[Walmart Hires 2 Goldman Sachs Bankers To Lead New Fintech Venture](https://www.benzinga.com/fintech/21/02/19903153/walmart-hires-2-goldman-sachs-bankers-to-lead-new-fintech-venture)
+
+
+> Walmart has lured two Goldman Sachs bankers to help run its new, as-of-yet-unnamed fintech venture. What Happened: Walmart Inc (NYSE: WMT) has hired Goldman Sachs Group Inc's (NYSE: GS) consumer banking chief Omer Ismail, along with David Stark, one of his top lieutenants at Goldman, to leads its new fintech startup, Bloomberg has reported, citing people with the knowledge of the matter. Seeking to forge a path in the financial world, the retail giant in January announced a tie-up with investment firm Ribbit Capital to offer financial services.
+
+
+***
+![Oppo Enco X: These earphones give you a musical high](https://images.financialexpress.com/2021/02/1-766.jpg "Oppo Enco X: These earphones give you a musical high")
+
+
+[Oppo Enco X: These earphones give you a musical high](https://www.financialexpress.com/industry/technology/oppo-enco-x-earphones-these-earphones-give-you-a-musical-high/2203067/)
+
+
+> The earphones combine a custom acoustic design and advanced software to provide a good listening experience with Hybrid Active Noise Cancelling.The market is flooded with wireless earphones these days. Whether you want an affordable pair for the gym or an expensive pair for listening when travelling, there is a model for every budget thereby, making the choice difficult for the user. If you are ready to splurge, then Oppo's Enco X can be a good choice; it is a fantastic pair of true wireless noise cancelling earbuds with very good battery life.
+
+
+***
+![tRPC](https://external-preview.redd.it/dEg4fpD8rvGv7Cs3Ea4ru0wiypH1qqYwjfusekgHoVU.jpg?auto=webp&s=76e9ad01b8d8b0679223e52b19d58b18580f0a4c "tRPC")
+
+
+[tRPC](https://www.reddit.com/r/programming/comments/luog23/trpc_an_endtoend_typesafe_data_layer_for/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
