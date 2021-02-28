@@ -35212,3 +35212,53 @@
 > Two men were being held hostage in a Bronx apartment. They had been threatened at gunpoint, tied up and tortured for hours by two other men who pretended to be plumbers to get inside, police said.
 
 
+***
+![how to read multispectral images on python](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "how to read multispectral images on python")
+
+
+[how to read multispectral images on python](https://www.reddit.com/r/Python/comments/lujean/how_to_read_multispectral_images_on_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Wearables don't work the same on dark skin. It's time to change that](https://icdn7.digitaltrends.com/image/digitaltrends/ppg-heart-rate-sensors-1200x630-c-ar1.91.jpg "Wearables don't work the same on dark skin. It's time to change that")
+
+
+[Wearables don't work the same on dark skin. It's time to change that](https://www.digitaltrends.com/mobile/does-skin-tone-affect-ppg-heart-rate-sensor-accuracy/)
+
+
+> Ever since wearables equipped with heart rate tech began entering the mainstream, there have been questions about the accuracy of optical heart rate sensors when taking readings on different skin tones. From Apple's infamous so-called 'tattoogate' shining a green LED light on the problem in 2015 to various academic studies during the years that followed, there has been a lot of discussion, but not a lot of conclusions. Trending in Mobile: What is 5G? 5G Network Coverage Map Andy Boxall/Digital Trends What happened? Have sensors changed to cope with different skin tones, or has the industry failed to change? It turns out the early research has prompted change, and may also inspire new standards for wearable heart rate sensors.
+
+
+***
+![Solving the climate and energy crises: Mine the Moon's helium-3?](https://thehill.com/sites/default/files/moon.jpg "Solving the climate and energy crises: Mine the Moon's helium-3?")
+
+
+[Solving the climate and energy crises: Mine the Moon's helium-3?](https://thehill.com/opinion/technology/540856-solving-the-climate-and-energy-crises-mine-the-moons-helium-3)
+
+
+> Recently, U.S. Nuclear Corp. and Solar System Resources Corporation signed a letter of intent that will either change the history of the world or be just a footnote in humanity's quest to develop clean, abundant sources of energy. Solar System Resources has agreed to provide 500 kilograms of helium-3 mined from the Moon to U.S. Nuclear Corp. in the 2028-2032 timeframe.According to a paper published by Jeff Bonde and Anthony Tortorello, helium-3 is an isotope that has been deposited in lunar soil over billions of years by solar wind.
+
+
+***
+![This top-rated Eureka vacuum packs a powerful punch—and it's just over $100](https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2020/07/10/USATODAY/usatsports/Reviewed.com-RvEW-25132-Eureka-Groove-hero-2.jpg?width=1272&height=636&fit=crop&format=pjpg&auto=webp "This top-rated Eureka vacuum packs a powerful punch—and it's just over $100")
+
+
+[This top-rated Eureka vacuum packs a powerful punch—and it's just over $100](https://www.usatoday.com/story/tech/reviewedcom/2021/02/28/eureka-vacuum-get-top-rated-model-just-over-100/6859895002/)
+
+
+> This little vacuum is super powerful for the price. (Photo: Reviewed.com)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Robot vacuums are a dime a dozen, and most will cost you a pretty penny. But how do you know which ones are actually worth the extra spend and which ones will perform just fine for less? Quite frankly? You don't—but that's why we're here. Reviewed has spent hours upon hours testing these machines to help you figure out which ones will give you the most bang for your buck.
+
+
+***
+![Tips For Beginners to Open Source](https://external-preview.redd.it/mvGobSvwByRbqJS0Bk-eGKJmgNLLgScCGMEPfLlrUiI.jpg?auto=webp&s=8de9c05e0de3cd3e0b78252b8196c0c0ca07b9cb "Tips For Beginners to Open Source")
+
+
+[Tips For Beginners to Open Source](https://www.reddit.com/r/programming/comments/luj1z8/tips_for_beginners_to_open_source/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
