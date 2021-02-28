@@ -35038,3 +35038,53 @@
 > The Void Linux team is switching back to OpenSSL on March 5th, 2021 (2021-03-05). For most users, there should be no noticeable change. If you have any packages installed that are no longer provided by Void, or your system has explicit dependencies on LibreSSL, you will of course need to take action to ensure your system continues to function after the switch. If you experience any issues, feel free to reach out to us! You can open an issue on GitHub or ping us in the #voidlinux channel on https://freenode.
 
 
+***
+![Microsoft Word will soon let you transform your documents into PowerPoint presentations](https://cdn.mos.cms.futurecdn.net/enfEnVQhS8skbH2fE2UjFM-1200-80.jpg "Microsoft Word will soon let you transform your documents into PowerPoint presentations")
+
+
+[Microsoft Word will soon let you transform your documents into PowerPoint presentations](https://www.techradar.com/news/microsoft-word-will-soon-let-you-transform-your-documents-into-powerpoint-presentations)
+
+
+> (Image credit: Shutterstock / monticello) A new Office 365 feature will soon allows users to convert Microsoft Word documents into PowerPoint slide decks.Available to members of the company's early access program, the new Transform option can be sampled via the Microsoft Word web client, under the File > Transform menu.When selected, the feature will prompt the user to pick out a visual style to apply to the presentation, before generating a preview in PowerPoint and dropping the presentation file into OneDrive.
+
+
+***
+![Netflix hacks – from requesting your favourite shows to watching for free](https://www.the-sun.com/wp-content/uploads/sites/6/2021/02/NINTCHDBPICT000572394362.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Netflix hacks – from requesting your favourite shows to watching for free")
+
+
+[Netflix hacks – from requesting your favourite shows to watching for free](https://www.the-sun.com/lifestyle/tech/2421491/how-to-watch-netflix-for-free-hacks/)
+
+
+> EVER wanted to enhance your Netflix experience? We've rounded up some of the best Netflix hacks and tricks you can try today, including requesting specific content for the platform and playing Netflix Roulette. Netflix offers some content for freeCredit: Alamy How to request Netflix content Netflix has lots of great original content but sometimes it leaves us disappointed when it doesn't have certain films or shows in the library. If you're a big fan of a certain TV series or a film but Netflix doesn't have it then you don't have to suffer in silence.
+
+
+***
+![Netflix hacks – from requesting your favourite shows to watching for free](https://www.thesun.co.uk/wp-content/uploads/2021/02/NINTCHDBPICT000572394362.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Netflix hacks – from requesting your favourite shows to watching for free")
+
+
+[Netflix hacks – from requesting your favourite shows to watching for free](https://www.thesun.co.uk/tech/14175464/how-to-watch-netflix-for-free-hacks/)
+
+
+> EVER wanted to enhance your Netflix experience? We've rounded up some of the best Netflix hacks and tricks you can try today, including requesting specific content for the platform and playing Netflix Roulette. Netflix offers some content for freeCredit: Alamy How to request Netflix content Netflix has lots of great original content but sometimes it leaves us disappointed when it doesn't have certain films or shows in the library. If you're a big fan of a certain TV series or a film but Netflix doesn't have it then you don't have to suffer in silence.
+
+
+***
+![New BSNL broadband and landline customers to get free 4G SIM card, details](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/1200px-bsnl_chennai_broadband_-483x271_1200_210228130731.jpeg "New BSNL broadband and landline customers to get free 4G SIM card, details")
+
+
+[New BSNL broadband and landline customers to get free 4G SIM card, details](https://www.indiatoday.in/technology/news/story/new-bsnl-broadband-and-landline-customers-to-get-free-4g-sim-card-details-1773937-2021-02-28)
+
+
+> HighlightsThe 4G SIM card comes with a Rs. 75 Plan Voucher.BSNL is offering free 4G SIM cards along with broadband and landline connections in Kerala and Tamil Nadu circles.The offer is valid till 31st March 2021.The state-owned telecom firm Bharat Sanchar Nigam Limited (BSNL) has started giving free 4G-enabled SIM cards to its new broadband and landline customers. The free 4G SIM card scheme started last week with telecom circles in Tamil Nadu and Kerala and the offer is valid till 31st March 2021.
+
+
+***
+![What is Computer Engineering?  Definition, importance, applications, books and courses, salary. With 10 trending fields of Computer Engineering in 2021](https://external-preview.redd.it/5XxGVhyezpz6dDuXC4oRQAxhgk-rlBz1yUNPyoHh3is.jpg?auto=webp&s=e6f1a0c83f4ac3838ccd7626858ddfc7e9252a13 "What is Computer Engineering?  Definition, importance, applications, books and courses, salary. With 10 trending fields of Computer Engineering in 2021")
+
+
+[What is Computer Engineering?  Definition, importance, applications, books and courses, salary. With 10 trending fields of Computer Engineering in 2021](https://www.reddit.com/r/programming/comments/lu9x9n/what_is_computer_engineering_definition/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
