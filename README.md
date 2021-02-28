@@ -35088,3 +35088,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Fortnite's approach to guest characters is aggressively dull](https://cdn.mos.cms.futurecdn.net/dGK6h3K3iwXtL2C5KdP95D-1200-80.jpg "Fortnite's approach to guest characters is aggressively dull")
+
+
+[Fortnite's approach to guest characters is aggressively dull](https://www.techradar.com/news/fortnites-approach-to-guest-characters-is-aggressively-dull)
+
+
+> There's no denying the monolithic success of Fortnite Battle Royale. Like a phoenix rising from the ashes, the mode once considered ancillary to Save the World – Fortnite's co-op-centric horde mode that pitted players against waves of zombies – eclipsed it in no time at all.In the years since, Fortnite has surpassed other battle royale giants like PUBG to become the undisputed leader in terms of player numbers, revenue and in-game events. It's a shame, then, that its crossover events with other franchises feel woefully tacked on.
+
+
+***
+![Get the most out of Adobe After Effects with a training bundle on sale](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F125128%252F5c756ecd-858e-4eef-8fc7-ae870a5d0b0d.jpg%252F950x534.jpg?signature=78R2G6p5ex8ZSJ5DzRSo7PEJuBg=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "Get the most out of Adobe After Effects with a training bundle on sale")
+
+
+[Get the most out of Adobe After Effects with a training bundle on sale](https://mashable.com/shopping/feb-28-the-ultimate-adobe-after-effects-pro-bundle/)
+
+
+> TL;DR: Learn how to make titles, intros, and cool effects in Adobe After Effects with the Ultimate Adobe After Effects Pro Bundle. As of Feb. 28, get the full bundle for $29.99 — a 96% savings. Adobe After Effects is a video tool used to add elements to moving pictures and animations. It's not incredibly beginner-friendly, but this After Effects training can get you ready to rock and roll in no time. This highly-rated training includes five different courses, which tackle everything from 3D layers, transform tools, and mask animations to transitions, color correction, and green screen editing.
+
+
+***
+![Save up to 70% on portable heaters, air purifiers, and more](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F125163%252F9e26c271-f915-4526-86b2-11269ced17db.jpg%252F640x360.jpg?signature=ilEv4KIW7s5txhctknQY18av4AA=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "Save up to 70% on portable heaters, air purifiers, and more")
+
+
+[Save up to 70% on portable heaters, air purifiers, and more](https://mashable.com/shopping/feb-28-portable-heaters-air-conditioners-humidifiers-air-purifiers/)
+
+
+> To personalize the comfort levels in your home, snag one of these gadgets while they're on sale. From heaters and purifiers to AC units and humidifiers, there's a deal for everyone.  Prices are effective as of Feb. 28. Heaters SOLUS⁺ Smart Infrared Heater This smart, energy-efficient infrared heater uses NanoWave technology to rapidly heat rooms in your home with less energy than a typical space heater. Using the integrated app, you can even set smart zones and set a schedule when you're away from home.
+
+
+***
+![Dubai doctors to monitor patients at home via AI-powered medical device](https://sm.mashable.com/t/mashable_me/photo/default/shutterstock-1119057482_n68f.1200.jpg "Dubai doctors to monitor patients at home via AI-powered medical device")
+
+
+[Dubai doctors to monitor patients at home via AI-powered medical device](https://me.mashable.com/tech/12973/dubai-doctors-to-monitor-patients-at-home-via-ai-powered-medical-device)
+
+
+> Surge in use of digital solutions and restrictions on movement have created an environment where occasionally used online tools and gadgets have become a mainstream necessity. A boost for smart tech in healthcare has unlocked the potential for telemedicine and the use of data for empowering both doctors and patients to make informed decisions. Emirati tech hub Dubai has successfully capitalised on an existing digital infrastructure and seamless connectivity, to boost innovation in remote consultations.
+
+
+***
+![What do Python programmers use as an alternative of Gradle in Java](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "What do Python programmers use as an alternative of Gradle in Java")
+
+
+[What do Python programmers use as an alternative of Gradle in Java](https://www.reddit.com/r/Python/comments/luc1yb/what_do_python_programmers_use_as_an_alternative/)
+
+
+> Hello Pythonistas! I would like to know what do Python programmers use as an alternative of Gradle in Java. Is it necessary at all, to use a tool like Gradle in Python, maybe it is implemented in another way? As I am a python programmer I have no idea of using Gradle in Java, AFAK it is used for script automations. Please let me know, thanks!
+
+
