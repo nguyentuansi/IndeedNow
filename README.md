@@ -34991,3 +34991,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![My own rack, pls comment](https://external-preview.redd.it/JmB-sdNXtU4Z05FeOh181FE1vBSVafCPfpJS_I4rXyE.jpg?auto=webp&s=9811e79093768f654ad7df602560d2543b2b0852 "My own rack, pls comment")
+
+
+[My own rack, pls comment](https://www.reddit.com/r/technology/comments/lu8g8b/my_own_rack_pls_comment/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![How to buy a Samsung Galaxy smartphone in 2021: Your complete guide](https://images.indianexpress.com/2021/02/S20-FE-FB.jpg "How to buy a Samsung Galaxy smartphone in 2021: Your complete guide")
+
+
+[How to buy a Samsung Galaxy smartphone in 2021: Your complete guide](https://indianexpress.com/article/technology/mobile-tabs/how-to-buy-a-samsung-galaxy-smartphone-in-2021-7208097/)
+
+
+> If you walk into a shopping mall, you spend a great amount of time running from one store to another than actually buying a product. Samsung is just like your neighbourhood mall; it offers the maximum number of smartphone models among its competitors, right from a phone that costs Rs 7000 to Rs 150,000 for a foldable device. Because Samsung sells so many different models, buying a Galaxy smartphone can be a confusing task. If you are in the market for a Samsung Galaxy phone, it's important to know exactly what you're looking for – something that no retailer/or tech website ever tells you.
+
+
+***
+![MP 1,1 Turns on but won't chime, won't boot, and a black screen](https://forums.macrumors.com/attachments/9ad0bc84-41f6-4cdc-966f-fd36c48a7cfb-jpeg.1736402/ "MP 1,1 Turns on but won't chime, won't boot, and a black screen")
+
+
+[MP 1,1 Turns on but won't chime, won't boot, and a black screen](https://forums.macrumors.com/threads/mp-1-1-turns-on-but-wont-chime-wont-boot-and-a-black-screen.2286496/)
+
+
+> Feb 27, 2021 1 0 Tilted Towers Hey, so recently I decided to upgrade the EFI of my Mac Pro 1,1 to go to a 2,1 (netkas method) and the EFI & SMC upgrade was successful. I also enabled AHCI for Windows via OS X Utilities. Everything went well, OS X and Windows booted flawlessly until I tried OC the Front Bus like my friend did, he got his x5365's to run at 3.33 GHz with no issues or thermal throttling. I tried to do the same exact thing to mine but my pc froze every time and the red lights lit up on my logic board but a restart always fixed the issue.
+
+
+***
+![Bill Gates reveals why he prefers Android over iPhone on Clubhouse](https://images.financialexpress.com/2021/02/bill-gates-1200.jpg "Bill Gates reveals why he prefers Android over iPhone on Clubhouse")
+
+
+[Bill Gates reveals why he prefers Android over iPhone on Clubhouse](https://www.financialexpress.com/industry/technology/bill-gates-reveals-why-he-prefers-android-over-iphone-on-clubhouse/2203430/)
+
+
+> Apple is a highly premium brand, and several high-profile celebrities use iPhone. (File image)Android vs iPhone: The debate on whether Android is better or iPhone has been a longstanding one. There is, obviously, never any conclusion to this debate. Apple is a highly premium brand, and several high-profile celebrities use iPhone. However, Microsoft co-founder Bill Gates is not among them, as he has previously also revealed. But more details behind his preference for Android was disclosed by him recently during an interaction on Clubhouse, an invite-only audio chat platform which is ironically only available on iOS at the moment.
+
+
+***
+[Void Linux Switching Back to OpenSSL](https://voidlinux.org/news/2021/02/OpenSSL.html)
+
+
+> The Void Linux team is switching back to OpenSSL on March 5th, 2021 (2021-03-05). For most users, there should be no noticeable change. If you have any packages installed that are no longer provided by Void, or your system has explicit dependencies on LibreSSL, you will of course need to take action to ensure your system continues to function after the switch. If you experience any issues, feel free to reach out to us! You can open an issue on GitHub or ping us in the #voidlinux channel on https://freenode.
+
+
