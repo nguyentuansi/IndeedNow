@@ -35262,3 +35262,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![One UI 3.1 hits the Samsung Galaxy Z Fold2 5G](https://external-preview.redd.it/9qtIvxl7dXxfOe2ytuBsI7ZBJI6qgLe18lCjv05w8x4.jpg?auto=webp&s=de3454a63d6fdfcab93b1836b625e4523a037429 "One UI 3.1 hits the Samsung Galaxy Z Fold2 5G")
+
+
+[One UI 3.1 hits the Samsung Galaxy Z Fold2 5G](https://www.reddit.com/r/technology/comments/lulzy5/one_ui_31_hits_the_samsung_galaxy_z_fold2_5g/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![I built a reverse shell and run it on the darknet](https://external-preview.redd.it/b-29Ycy8ZE6NmvT6L0gTvNHzwAlmSlWhuVh6yj3EUs0.jpg?auto=webp&s=aaeff116dbaf51eb714eb1f1bf2ff304fb094d13 "I built a reverse shell and run it on the darknet")
+
+
+[I built a reverse shell and run it on the darknet](https://www.reddit.com/r/programming/comments/luluzy/i_built_a_reverse_shell_and_run_it_on_the_darknet/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Ideaology Platform Is Successfully Audited by CertiK To Implement Crowdfunding Smart-Contracts](https://external-preview.redd.it/Y5zg4cOHbJ32sKYC9vdm6Ip8lc8nzUmEDxRdg3VSeRI.jpg?auto=webp&s=3eeea899d522cee4a1a1505c4d12b4af83680e4e "Ideaology Platform Is Successfully Audited by CertiK To Implement Crowdfunding Smart-Contracts")
+
+
+[Ideaology Platform Is Successfully Audited by CertiK To Implement Crowdfunding Smart-Contracts](https://www.reddit.com/r/programming/comments/lultxa/ideaology_platform_is_successfully_audited_by/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Users are losing out against Big Sur's sealed System](https://s0.wp.com/i/blank.jpg "Users are losing out against Big Sur's sealed System")
+
+
+[Users are losing out against Big Sur's sealed System](https://eclecticlight.co/2021/02/28/last-week-on-my-mac-users-are-losing-out-against-big-surs-sealed-system/)
+
+
+> Big Sur's sealed System volume seemed like a good idea. Although the read-only version in Catalina may look impregnable, guaranteeing integrity using a Merkle Tree of hashes, then locking the whole lot in a snapshot, looks even more robust. Like other good engineering ideas, though, it also needs thinking through thoroughly. Even in a perfect macOS development cycle, there are normally at least five substantial updates. In addition, there are often compelling reasons for urgent patches. The recent sudo bug is a good example in which no one is at fault, although everyone might be to blame for not spotting this in a decade.
+
+
+***
+![Created a web crawling/spider library BitCrawler.](https://external-preview.redd.it/JGldV6wt55GbViMCLVB1jfaMbDypugbOorbTCYD9-Zs.jpg?auto=webp&s=b40e5ff3a5e95534faadfcdb860f848cdea9657a "Created a web crawling/spider library BitCrawler.")
+
+
+[Created a web crawling/spider library BitCrawler.](https://www.reddit.com/r/Python/comments/lulogn/created_a_web_crawlingspider_library_bitcrawler/)
+
+
+> I created the following library in python that enables crawling the web in an easy way. The library provides many of the common features and functionality of other web spiders/crawlers. There is already a top notch crawler/spider framework in python, but I am not aware of any strong libraries in the space. Any feedback would be greatly appreciated. GitHub: https://github.com/austynherman112994/bitcrawler RTD: https://bitcrawler.readthedocs.io/en/latest/bitcrawler.html#bitcrawler Pypi: https://pypi.
+
+
