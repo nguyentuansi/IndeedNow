@@ -34941,3 +34941,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![‘We want to give choice… target all types of users': Microsoft India Surface head](https://images.indianexpress.com/2021/02/Surface-Pro.jpg "‘We want to give choice… target all types of users': Microsoft India Surface head")
+
+
+[‘We want to give choice… target all types of users': Microsoft India Surface head](https://indianexpress.com/article/technology/tech-news-technology/interview-microsoft-india-country-head-surface-devices-7208002/)
+
+
+> 'What we've been able to do is create this new group of users who want to be differentiated by the different form factors that Surface is bringing to the table,' Amrita Sapre, Country Head for Surface devices at Microsoft India, gives a candid reply when asked her about growing competition from Apple in the premium PC market. While Sapre does see Apple as a competitor to Microsoft's Surface lineup, she also believes the larger aim is not to compete with 'Apple' but to give its customers different experiences and different devices.
+
+
+***
+![Realme CEO: ‘We lost a quarter… but still grew in 2020'](https://images.indianexpress.com/2021/02/Realme-Narzo-30-Pro.jpg "Realme CEO: ‘We lost a quarter… but still grew in 2020'")
+
+
+[Realme CEO: ‘We lost a quarter… but still grew in 2020'](https://indianexpress.com/article/technology/tech-news-technology/realme-ceo-we-lost-a-quarter-but-still-grew-in-2020-7207996/)
+
+
+> Though just three years old, Realme has made a significant impact in the Indian smartphone landscape with a range of devices in the budget segment. Now, the company is slowly moving into more premium price segments as well as other categories. CEO Madhav Sheth gives us some insight into how the company thinks about its products. Excerpts from the latest episode of our tech podcast, Our Own Devices. What is the secret behind the success behind the phenomenal growth, that too over many quarters'https://images.
+
+
+***
+![India's Reliance partners with Google, Facebook for digital payment network bid: Report](https://images.indianexpress.com/2021/01/Reliance.jpg "India's Reliance partners with Google, Facebook for digital payment network bid: Report")
+
+
+[India's Reliance partners with Google, Facebook for digital payment network bid: Report](https://indianexpress.com/article/technology/tech-news-technology/india-reliance-partners-google-facebook-digital-payment-network-bid-7208014/)
+
+
+> India's conglomerate Reliance Industries has partnered with Facebook Inc, Google and fintech player Infibeam to set up a national digital payment network, Economic Times newspaper reported on Saturday, citing unnamed sources. Last year, India's central bank invited companies to forge new umbrella entities (NUEs) to create a payments network that would rival the system operated by the National Payments Council of India (NPCI), as it seeks to reduce concentration risks in the space. Set up in 2008, NPCI is a not-for-profit company, which as of March 2019 counted dozens of banks as its shareholders, including the State Bank of India, Citibank and HSBC.
+
+
+***
+![to improve your website's SEO performance, when should you consider updating your SEO plan in 2021](https://external-preview.redd.it/iNoaTSW_FcWEHxOd-dHM9MjW5WVTYSzIbHXhOKgzwoA.jpg?auto=webp&s=89ad92049eebd75fae679552d6e3c28a5c924345 "to improve your website's SEO performance, when should you consider updating your SEO plan in 2021")
+
+
+[to improve your website's SEO performance, when should you consider updating your SEO plan in 2021](https://www.reddit.com/r/programming/comments/lu4n62/to_improve_your_websites_seo_performance_when/)
+
+
+> to improve your website's SEO performance, when should you consider updating your SEO plan in 2021 - Technical Sayan
+
+
+***
+![A Guide to Automated Testing](https://external-preview.redd.it/DL-cqtRBn-k9A_0O4pzKgGMh8BTz0Qn_lLY6tBnzr6Y.jpg?auto=webp&s=27ef262fd9d2fe0d01a535bbaa8adc67d6a0000b "A Guide to Automated Testing")
+
+
+[A Guide to Automated Testing](https://www.reddit.com/r/programming/comments/lu48xf/a_guide_to_automated_testing/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
