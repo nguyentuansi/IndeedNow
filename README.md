@@ -34844,3 +34844,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Bias, disrespect, and demotions: employees say Amazon has a race problem. internal data obtained by Recode indicate that Amazon employees are promoted less frequently and are rated more harshly based on color of skin](https://external-preview.redd.it/tCA2B5Yxon69JShmr8YqTOsWDBGOma7DQdLXb4-C9ZE.jpg?auto=webp&s=bbd7fda07b2025ccfcf3bdb0f187724a7363047b "Bias, disrespect, and demotions: employees say Amazon has a race problem. internal data obtained by Recode indicate that Amazon employees are promoted less frequently and are rated more harshly based on color of skin")
+
+
+[Bias, disrespect, and demotions: employees say Amazon has a race problem. internal data obtained by Recode indicate that Amazon employees are promoted less frequently and are rated more harshly based on color of skin](https://www.reddit.com/r/technology/comments/lu0tww/bias_disrespect_and_demotions_employees_say/)
+
+
+> Bias, disrespect, and demotions: employees say Amazon has a race problem. internal data obtained by Recode indicate that Amazon employees are promoted less frequently and are rated more harshly based on color of skin
+
+
+***
+![Canelo Alvarez vs Anvi Yildirim live stream: how to watch online from anywhere now](https://cdn.mos.cms.futurecdn.net/whcSsonUKqT95nkDxtzhRQ-1200-80.jpg "Canelo Alvarez vs Anvi Yildirim live stream: how to watch online from anywhere now")
+
+
+[Canelo Alvarez vs Anvi Yildirim live stream: how to watch online from anywhere now](https://www.techradar.com/news/watch-canelo-alvarez-vs-anvi-yildirim-live-stream-online-anywhere-now)
+
+
+> Three super middleweight title belts are on the line at the Hard Rock Stadium in Miami tonight as one of the biggest draws in the entire sport, Canelo Alvarez, takes to the ring with both his world championships and legendary reputation on the line. Read on as we explain how to watch a Canelo vs Avni Yildirim live stream, the time of the Alvarez fight, and much more.  No time to spare? Almost everywhere, all you need is a great value DAZN subscription - which is as little as £2 a month in some places and offers a free trial in others.
+
+
+***
+![An aggressive market-driven model for US fusion power development](https://external-preview.redd.it/8UXzh5GVuawy0cNIMGncGAzcpK-3ESFwkIHfe0RTO_8.jpg?auto=webp&s=8a2807c260e4a1063653bdb77978e3aa7f889eed "An aggressive market-driven model for US fusion power development")
+
+
+[An aggressive market-driven model for US fusion power development](https://www.reddit.com/r/technology/comments/lu0lr5/an_aggressive_marketdriven_model_for_us_fusion/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![WhatsApp can tell on you without snooping](https://images.financialexpress.com/2021/02/1-797.jpg "WhatsApp can tell on you without snooping")
+
+
+[WhatsApp can tell on you without snooping](https://www.financialexpress.com/industry/technology/whatsapp-can-tell-on-you-without-snooping/2203325/)
+
+
+> However, for such traceability there needs to be a domestic law in place which mandates for how long the data needs to be stored by WhatsApp.With the government notifying new, stricter guidelines for social media companies, which includes messaging apps, once again a debate has started whether this means breaking of end-to-end encryption by WhatsApp, which would have to break the secrecy of private conversations amongst individuals.The government has asked companies to disclose the first originator of what is deemed as mischievous messages by the government.
+
+
+***
+![Pool Noodle Robot Shines A Light On The Pros and Cons Of Soft Robots](https://hackaday.com/wp-content/uploads/2021/02/Pool-noodle-robot.png "Pool Noodle Robot Shines A Light On The Pros and Cons Of Soft Robots")
+
+
+[Pool Noodle Robot Shines A Light On The Pros and Cons Of Soft Robots](https://hackaday.com/2021/02/27/pool-noodle-robot-shines-a-light-on-the-pros-and-cons-of-soft-robots/)
+
+
+> [James Bruton]'s impressive portfolio of robots has always used conventional rigid components, so he decided to take a bit of a detour and try his hand at a soft robot. Using a couple of few inflatable pool noodles for quick prototyping, his experiments quickly showed some of the strengths and weaknesses of soft robots. Most of the soft robots we see require an external air source to inflate cells in the robot and make the limbs actuate. Taking inspiration from a recent Stanford research project, [James] decided to take an alternative approach, using partially inflated tubes and squeezing them in one section to make the other sections more rigid.
+
+
