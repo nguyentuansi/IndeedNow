@@ -35138,3 +35138,43 @@
 > Hello Pythonistas! I would like to know what do Python programmers use as an alternative of Gradle in Java. Is it necessary at all, to use a tool like Gradle in Python, maybe it is implemented in another way? As I am a python programmer I have no idea of using Gradle in Java, AFAK it is used for script automations. Please let me know, thanks!
 
 
+***
+![Reliance Jio offering exciting benefits to new JioPhone users](https://images.indianexpress.com/2020/08/JioPhone_NEW_1.jpg "Reliance Jio offering exciting benefits to new JioPhone users")
+
+
+[Reliance Jio offering exciting benefits to new JioPhone users](https://indianexpress.com/photos/technology-gallery/reliance-jio-new-jiophone-users-data-unlimited-calls-7208503/)
+
+
+> Updated: February 28, 2021 5:19:00 pm Updated : February 28, 2021 5:19:00 pmReliace Jio has said that it won't change extra for data and call services for new buyers of JioPhone (Express File Photo)Reliance Jio has announced two offers for potential JioPhone buyers. For Rs 1,999, JioPhone buyer will get free unlimited voice call benefits to all networks and 2GB of high-speed data monthly. The validity of this offer has been capped at two years. (Express File Photo)For buyers paying Rs 1,499, the company will offer free unlimited voice calls and 2GB of unlimited data for one year.
+
+
+***
+![ਸੈਮਸੰਗ ਦਾ 17 ਹਜ਼ਾਰ ਵਾਲਾ ਸਮਾਰਟਫੋਨ ਮਿਲ ਰਿਹੈ ਸਿਰਫ 10,849 ਰੁਪਏ ਚ, ਮਿਲੇਗੀ 6000mAh ਦੀ ਬੈਟਰੀ](https://static.jagbani.com/multimedia/2021_2image_12_34_536505098xsams-ll.jpg "ਸੈਮਸੰਗ ਦਾ 17 ਹਜ਼ਾਰ ਵਾਲਾ ਸਮਾਰਟਫੋਨ ਮਿਲ ਰਿਹੈ ਸਿਰਫ 10,849 ਰੁਪਏ ਚ, ਮਿਲੇਗੀ 6000mAh ਦੀ ਬੈਟਰੀ")
+
+
+[ਸੈਮਸੰਗ ਦਾ 17 ਹਜ਼ਾਰ ਵਾਲਾ ਸਮਾਰਟਫੋਨ ਮਿਲ ਰਿਹੈ ਸਿਰਫ 10,849 ਰੁਪਏ ਚ, ਮਿਲੇਗੀ 6000mAh ਦੀ ਬੈਟਰੀ](https://jagbani.punjabkesari.in/gadgets/news/samsung-s-17-000-smartphone-is-available-for-just-rs-10-849-1271020)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![Kuurne-Brussel-Kuurne live stream 2021: how to watch cycling online anywhere today](https://cdn.mos.cms.futurecdn.net/mtFh5Nmm7uJH4zMn6hsTuW-1200-80.jpg "Kuurne-Brussel-Kuurne live stream 2021: how to watch cycling online anywhere today")
+
+
+[Kuurne-Brussel-Kuurne live stream 2021: how to watch cycling online anywhere today](https://www.techradar.com/news/kuurne-brussel-kuurne-live-stream-2021-how-to-watch-cycling-online-anywhere-today)
+
+
+> (Image credit: Peter De Voecht - Pool/Getty Images) The opening weekend of the Spring Classics concludes with the Kuurne-Brussel-Kuurne, aka the KBK, which as ever follows hot on the heels of yesterday's Omloop Het Nieuwsblad. Follow our guide below as we explain how to get a Kuurne-Brussel-Kuurne live stream and watch UCI WorldTour cycling online from anywhere today.Both are one-day events on the cobbles, but the Kuurne has a reputation for being more of a game for sprinters and gamblers and, famously, nobody has won both on the same weekend.
+
+
+***
+![M-cap of 9 out of 10 top firms plunges by Rs 2.2 lakh crore; Reliance Industries lone gainer](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/stocks8_505_280221045347.jpg "M-cap of 9 out of 10 top firms plunges by Rs 2.2 lakh crore; Reliance Industries lone gainer")
+
+
+[M-cap of 9 out of 10 top firms plunges by Rs 2.2 lakh crore; Reliance Industries lone gainer](https://www.businesstoday.in/markets/market-perspective/m-cap-of-9-out-of-10-top-firms-plunges-by-rs-22-lakh-crore-reliance-industries-lone-gainer/story/432578.html)
+
+
+> StoryTata Consultancy Services (TCS) was among top losers, followed by HDFC Bank, ICICI bank, Infosys HDFC, HUL, Bajaj Finance, Kotak Mahindra Bank, among othersBusinessToday.In | February 28, 2021 | Updated 16:57 IST Reliance Industries was the lone gainer in the list of top 10 most-valued companies
+
+
