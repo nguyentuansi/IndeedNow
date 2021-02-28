@@ -34894,3 +34894,50 @@
 > [James Bruton]'s impressive portfolio of robots has always used conventional rigid components, so he decided to take a bit of a detour and try his hand at a soft robot. Using a couple of few inflatable pool noodles for quick prototyping, his experiments quickly showed some of the strengths and weaknesses of soft robots. Most of the soft robots we see require an external air source to inflate cells in the robot and make the limbs actuate. Taking inspiration from a recent Stanford research project, [James] decided to take an alternative approach, using partially inflated tubes and squeezing them in one section to make the other sections more rigid.
 
 
+***
+![TikTok vid captures most Aussie bloke ever](https://content.api.news/v3/images/bin/97b6f4551020659219153d0ac4a248f7 "TikTok vid captures most Aussie bloke ever")
+
+
+[TikTok vid captures most Aussie bloke ever](https://www.news.com.au/technology/online/social/footage-of-australian-bloke-carrying-snake-through-suburbia-goes-viral/news-story/0e30aa4c4fee9e1690dd57cc33b46d43)
+
+
+> Move over Crocodile Dundee, this fellow has just gone viral overnight after being filmed with his snake at a pedestrian crossing.A viral TikTok video has captured the moment a 21st century Crocodile Dundee surprised onlookers by walking through the streets nonchalantly with animals hanging off him.The unidentified male can be seen enjoying his afternoon stroll with a yellow bird perched on his shoulder and a giant snake wrapped between his arms. The snake can be seen dipping its head around before the man places it on the concrete to hit the pedestrian crossing button.
+
+
+***
+![How China's internet giants have failed the country's youth](https://external-preview.redd.it/jUGyfDtaLeZD-jiQTe6rZjy-xEb-KJLQAX1GElTiEtY.jpg?auto=webp&s=5867a9486891e1c5ccb273be6086b26a046057dc "How China's internet giants have failed the country's youth")
+
+
+[How China's internet giants have failed the country's youth](https://www.reddit.com/r/technology/comments/lu2t4l/how_chinas_internet_giants_have_failed_the/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Web Scraping python](https://external-preview.redd.it/E2I3657Gn5FVh_3_gLFCWT0xcuCQzhl2tVyAQ9zdtvQ.jpg?auto=webp&s=b7661d688efc0c0a002c70e8e5a2e2473376168a "Web Scraping python")
+
+
+[Web Scraping python](https://www.reddit.com/r/programming/comments/lu2sw2/web_scraping_python/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Unmanned systems, artificial intelligence dominate the IDEX showroom](https://external-preview.redd.it/ir8PK9yl903fvyXmu9IPLGuiOXe9OfbWrTpu0GCGv9c.jpg?auto=webp&s=ae7468e438d403934cc1ecad87caf65f062d1144 "Unmanned systems, artificial intelligence dominate the IDEX showroom")
+
+
+[Unmanned systems, artificial intelligence dominate the IDEX showroom](https://www.reddit.com/r/technology/comments/lu2n3h/unmanned_systems_artificial_intelligence_dominate/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+[Plots of Amazon rainforest being illegally sold through Facebook](https://www.reddit.com/r/technology/comments/lu2mas/plots_of_amazon_rainforest_being_illegally_sold/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
