@@ -35178,3 +35178,37 @@
 > StoryTata Consultancy Services (TCS) was among top losers, followed by HDFC Bank, ICICI bank, Infosys HDFC, HUL, Bajaj Finance, Kotak Mahindra Bank, among othersBusinessToday.In | February 28, 2021 | Updated 16:57 IST Reliance Industries was the lone gainer in the list of top 10 most-valued companies
 
 
+***
+![Here's how to measure you wrist for a smartwatch](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/07/polar-grit-x-on-wrist-3.jpg "Here's how to measure you wrist for a smartwatch")
+
+
+[Here's how to measure you wrist for a smartwatch](https://www.androidcentral.com/how-properly-measure-your-wrist-different-smartwatch-sizes)
+
+
+> Source: Andrew Martonik / Android Central When it comes to finding the best Android smartwatch, there are various factors you'll want to consider. For starters, you'll need to think about what features you want, what operating system you prefer, what design you're seeking, and what size smartwatch is best for your wrist. There are a few different ways to go about this. Your method of choice will depend on what watch you're interested in and what equipment you have available. Here are a few simple tips on how to measure your wrist for smartwatches.
+
+
+***
+!['SNL' Covers Frasier Revival And More In Weekend Update](https://cdn.digg.com/wp-content/uploads/2021/02/28134305/test-309.jpg "'SNL' Covers Frasier Revival And More In Weekend Update")
+
+
+['SNL' Covers Frasier Revival And More In Weekend Update](https://digg.com/video/snl-covers-frasier-revival-and-more-in-weekend-update)
+
+
+> The Kremlin has constructed an entire infrastructure of repression but has not displaced Western apps. Instead, it is turning to outright intimidation. And of course Dr. Fauci is the host. With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. Colin Jost and Michael Che tackle the latest news in pop-culture to aviation, and everything in between. We can learn from our failures. A former employee at Trader Joe's on the Upper West Side claims to have been fired shortly after sending a letter to the supermarket's CEO requesting improved worker protections for COVID-19.
+
+
+***
+[impressive](https://www.itwire.com/freelancer-sp-720/tag/impressive.html)
+
+
+> In my hands and in use at various times during the past 48 hours, the MacBook Air with M1 processor is super fast, has great battery life, runs a wide range of iPhone and iPad apps, has no cooling fan and even makes Office 365 run without the "Intel beachball of slowdown pain".
+
+
+***
+[Digidog, a robotic dog used by the police, stirs privacy concerns](https://bdnews24.com/technology/2021/02/28/digidog-a-robotic-dog-used-by-the-police-stirs-privacy-concerns)
+
+
+> Two men were being held hostage in a Bronx apartment. They had been threatened at gunpoint, tied up and tortured for hours by two other men who pretended to be plumbers to get inside, police said.
+
+
