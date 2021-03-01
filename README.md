@@ -35935,3 +35935,53 @@
 > Show comments Hide Comments
 
 
+***
+![Lawsuit: Amazon Manager Claims Racial and Gender Discrimination, Sexual Assault, Harassment](https://media.breitbart.com/media/2019/04/afp-alex-wong.jpg "Lawsuit: Amazon Manager Claims Racial and Gender Discrimination, Sexual Assault, Harassment")
+
+
+[Lawsuit: Amazon Manager Claims Racial and Gender Discrimination, Sexual Assault, Harassment](https://www.breitbart.com/tech/2021/03/01/lawsuit-amazon-manager-claims-racial-and-gender-discrimination-sexual-assault-harassment/)
+
+
+> A black senior manager at Amazon Web Services (AWS) is suing the tech giant and two of its executives, alleging race and gender discrimination, violation of the Equality Pay Act, as well as sexual assault and harassment. Charlotte Newman, who was once an adviser to Senator Cory Booker (D-NJ), filed a lawsuit against the tech giant in district court in Washington, DC on Monday, according to a report by Vox. Newman told Vox's Recode that the discrimination started when she was first hired as a public policy manager and that it involved her being denied a promotion for more than a year, despite her performing aspects of a more senior role.
+
+
+***
+![Twitter will label COVID-19 vaccine misinformation and enforce a strike system](https://cdn.vox-cdn.com/thumbor/gis6O8YIaKNn2OEAaBuu6WvwcgY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22019592/acastro_201106_1777_vote_0004.0.jpg "Twitter will label COVID-19 vaccine misinformation and enforce a strike system")
+
+
+[Twitter will label COVID-19 vaccine misinformation and enforce a strike system](https://www.theverge.com/2021/3/1/22307919/twitter-covid-19-vaccine-labels-five-strike-system)
+
+
+> Illustration by Alex Castro / The Verge Twitter announced Monday that it will start labeling tweets that share misleading information about COVID-19 vaccines. The labels will include links to relevant information from official bodies like the Centers for Disease Control and Prevention, and Twitter plans to enforce a five-strike system for repeat offenders that can lead to locked accounts and permanent suspension. The new labels are similar to Facebook's anti-misinformation banners or the labels Twitter began deploying early in the pandemic.
+
+
+***
+![YouTube Temporarily Bans Rudy Giuliani from Uploading Videos, Streaming](https://media.breitbart.com/media/2019/06/Google-owned-Youtube-CEO-Susan-Wojcicki.jpg "YouTube Temporarily Bans Rudy Giuliani from Uploading Videos, Streaming")
+
+
+[YouTube Temporarily Bans Rudy Giuliani from Uploading Videos, Streaming](https://www.breitbart.com/tech/2021/03/01/youtube-temporarily-bans-rudy-giuliani-from-uploading-videos-streaming/)
+
+
+> Google-owned YouTube has temporarily banned former New York City Mayor Rudy Giuliani from uploading and streaming videos on its platform. The suspension comes after Giuliani claimed that the 2020 presidential election was stolen from former President Donald Trump, according to a report by Bloomberg. Giuliani has served as the former president's attorney for the Trump Campaign's bid to prove allegations of election fraud following the November 2020 presidential election. The former New York City mayor has also been using YouTube for his popular podcast, Rudy Giuliani's Common Sens‪e.
+
+
+***
+![How to use a Chromecast with a monitor.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/chromecast-googletv-monitor.jpg "How to use a Chromecast with a monitor.")
+
+
+[How to use a Chromecast with a monitor.](https://www.androidcentral.com/can-you-use-chromecast-monitor)
+
+
+> Source: Ara Wagoner/Android CentralBest Answer: Yes. If you have an HDMI compatible monitor with built-in speakers, you should be able to use Chromecast with a monitor. If your HDMI compatible monitor doesn't have internal speakers, you can still connect the Chromecast with some extra steps. Plug your Chromecast into the HDMI port on your monitor. Source: Ara Wagoner/Android Central Tap Set Up under the option for your Chromecast and follow the prompts to connect your device. Once the Chromecast with Google TV is plugged into the HDMI port, you should be able to use your Chromecast with Google TV remote to navigate the menu and stream to your heart's content.
+
+
+***
+![AWS reorganizes DeepRacer League to encourage more newbies – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-01-at-4.47.14-PM.jpg?w=637 "AWS reorganizes DeepRacer League to encourage more newbies – TechCrunch")
+
+
+[AWS reorganizes DeepRacer League to encourage more newbies – TechCrunch](https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/)
+
+
+> AWS launched the DeepRacer League in 2018 as a fun way to teach developers machine learning, and it's been building on the idea ever since. Today, it announced the latest league season with two divisions: Open and Pro. As Marcia Villalba wrote in a blog post announcing the new league, 'AWS DeepRacer is an autonomous 1/18th scale race car designed to test [reinforcement learning] models by racing virtually in the AWS DeepRacer console or physically on a track at AWS and customer events. AWS DeepRacer is for developers of all skill levels, even if you don't have any ML experience.
+
+
