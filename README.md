@@ -35647,3 +35647,53 @@
 > South Korean tech giant Samsung is ready to introduce new 'M series' smartphone in India this month. According to the details listed on the company microsite, Samsung Galaxy M12 will launch in India on March 11 at 12pm (noon).
 
 
+***
+![How to get FREE PS5 and PS4 games right now – including Final Fantasy 7 remake](https://www.thesun.co.uk/wp-content/uploads/2021/03/ff7-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "How to get FREE PS5 and PS4 games right now – including Final Fantasy 7 remake")
+
+
+[How to get FREE PS5 and PS4 games right now – including Final Fantasy 7 remake](https://www.thesun.co.uk/tech/14194773/free-ps5-games-ps4-ps-plus-march-2021/)
+
+
+> SONY is doling out FOUR free games to PS Plus members in March 2021. Better still, you'll get to keep the games for as long as you've got a membership, as long as you claim them before the offer expires. Final Fantasy 7 Remake is one of this month's PS Plus freebiesCredit: Square Enix PlayStation Plus – what is PS Plus? PS Plus is a premium subscription service for PS4 gamers. It gives you access to online multiplayer as well as exclusive discounts across the PlayStation Store. But it also nets you two hand-picked PS4 games to download and play each month, which remain available as long as you're a member.
+
+
+***
+![TSMC on Track to Begin Volume Production of 3nm Chips in 2022](https://images.macrumors.com/article-new/2020/08/tsmc_semiconductor_chip_inspection_678x452.jpg "TSMC on Track to Begin Volume Production of 3nm Chips in 2022")
+
+
+[TSMC on Track to Begin Volume Production of 3nm Chips in 2022](https://www.macrumors.com/2021/03/01/tsmc-3nm-chip-volume-production-2022/)
+
+
+> Apr 12, 2001 51,488 13,129 TSMC, Apple's main chip supplier, is on track to begin risk production of a 3-nanometer fabrication process in the second half of this year, when the foundry will be capable of processing 30,000 wafers built using the more advanced technology, according to a new report today (via DigiTimes). TSMC reportedly plans to expand its 3nm process capacity to 55,000 units monthly in 2022, thanks to Apple's order commitment, and will further scale up the output to 105,000 units in 2023.
+
+
+***
+![Rayleigh-Bernard convection](https://external-preview.redd.it/wDqCwlz7MgN0yX9VCzu-scUZ1GBPDLftfxG2dHMJV2s.jpg?auto=webp&s=301d36fa680376a9dfbb40c58b532c3be53731d2 "Rayleigh-Bernard convection")
+
+
+[Rayleigh-Bernard convection](https://www.reddit.com/r/Python/comments/lv5odg/rayleighbernard_convection/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![OnePlus Nord gets Android 11 with first stable OxygenOS 11 build](https://images.indianexpress.com/2021/03/OnePlus-Nord.jpg "OnePlus Nord gets Android 11 with first stable OxygenOS 11 build")
+
+
+[OnePlus Nord gets Android 11 with first stable OxygenOS 11 build](https://indianexpress.com/article/technology/mobile-tabs/oneplus-nord-gets-android-11-with-first-stable-oxygenos-11-build-7209663/)
+
+
+> After almost two months and three open beta builds, OnePlus Nord users have finally begun receiving the first stable build for Android 11 via an OxygenOS 11 build. The new Oxygen OS 11.0.0.0 build, is almost 3GB in size and comes with a huge changelog. Here's all you need to know about the update. OnePlus Nord Oxygen OS 11: What's new? The biggest change of the new update is the Android version bump. Android 11 and OxygenOS 11 bring with it, a lot of changes including visual elements like the UI and new features like the music player notification, which is now a part of the quick toggles.
+
+
+***
+![Best Google Home deals in March 2021](https://images.immediate.co.uk/production/volatile/sites/3/2021/01/Google-Home-deals-7d62569.png?quality=90&resize=620,413 "Best Google Home deals in March 2021")
+
+
+[Best Google Home deals in March 2021](https://www.radiotimes.com/technology/technology-deals/best-google-home-deals/)
+
+
+> Google has quickly become of the biggest manufacturers of smart home technology, with its smart speakers taking centre stage. The Google Home range – also known as Google Nest – is made up of four devices; two smart speakers and two smart displays. The smallest and cheapest is the Google Nest Mini. At £49, it also happens to be Google's most popular smart speaker.  Google's second, and newly-released, smart speaker is the Google Nest Audio. It is a bigger and more powerful smart speaker than the Google Nest Mini.
+
+
