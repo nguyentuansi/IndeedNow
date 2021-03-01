@@ -35403,3 +35403,53 @@
 > Who is in charge of the build and deploy processes in your company? The developers, or a DevOps team, or people dedicated to it? And how is it done (architecture, technologies)?
 
 
+***
+![PS5 UK latest updates LIVE – Latest stock at Amazon, Game and Argos as Currys rumoured to drop console batch on MONDAY](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/02/RF-COMP-PS5.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 UK latest updates LIVE – Latest stock at Amazon, Game and Argos as Currys rumoured to drop console batch on MONDAY")
+
+
+[PS5 UK latest updates LIVE – Latest stock at Amazon, Game and Argos as Currys rumoured to drop console batch on MONDAY](https://www.thesun.co.uk/tech/14160314/ps5-uk-stock-playstation-game-argos-console-latest-live/)
+
+
+> NEXT Month could see more PS5 restocks dropping as Playstation fans predict new stock will land at Curry's on MONDAY. The store is one of very few major UK retailers who didn't restock in February, which has convinced multiple Twitter stock trackers that the next month could bring a Currys console drop. Playstation CEO Jim Ryan reassured fans that Sony are "working as hard as they possibly can" to get more stock and blamed a global shortage in semiconductors for a slow rollout that has caused prolonged misery around the world.
+
+
+***
+![Uber accused of using 'loaded questions' in drivers survey](https://i.guim.co.uk/img/media/317790170a584480cd7a99b42c9e6a1b77c0a8ab/0_144_6773_4067/master/6773.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=1aaea634e31a796a374b777b83f7df92 "Uber accused of using 'loaded questions' in drivers survey")
+
+
+[Uber accused of using 'loaded questions' in drivers survey](http://www.theguardian.com/technology/2021/mar/01/uber-accused-of-using-loaded-questions-in-drivers-survey)
+
+
+> Uber has been accused of using 'loaded questions' in a consultation with drivers, after a landmark court ruling handed workers rights to improved conditions.The firm may have to pay out over £100m in compensation to 10,000 drivers, after the UK supreme court ruled last week they are entitled to holiday pay, a company pension and the national minimum wage. Uber has previously argued that its 60,000 UK drivers are self-employed independent contractors with limited employment rights.A questionnaire, sent out via the Uber drivers' app following the ruling, offers a limited choice of answers on questions about benefits and flexible working without mentioning holiday pay or the national minimum wage – both of which the court found Uber drivers were entitled to.
+
+
+***
+![Tech titans club together to launch climate change taskforce](https://www.cityam.com/wp-content/uploads/2021/01/at-the-moment-its-hard-to-think-beyond-the-next-six-weeks-but-2021-is-set-to-be-a-huge-year-for-climate-action-around-the-world-849990116.jpg "Tech titans club together to launch climate change taskforce")
+
+
+[Tech titans club together to launch climate change taskforce](https://www.cityam.com/tech-titans-club-together-to-launch-climate-change-taskforce/)
+
+
+> Some of the UK's largest tech firms are set to create a taskforce to tackle climate change with commitments to reach net zero and boost green investment.  The fifteen companies will work alongside the government's sustainable business council to help with the move  The 'Tech Zero taskforce' includes leaders of allplants, Bulb, Babylon, Citymapper, Faculty, Gocardless, Habito, Hopin, Moneysupermarket, Olio, Onfido, Revolut, Starling Bank, what3words and Wise.  Read more: Drax ditches plans for gas-fired power plants in climate push It will be led by Bulb's co-founder and chief executive Hayden Wood who will work alongside Andrew Griffith MP.
+
+
+***
+![Hackaday Links: February 28, 2021](https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg "Hackaday Links: February 28, 2021")
+
+
+[Hackaday Links: February 28, 2021](https://hackaday.com/2021/02/28/hackaday-links-february-28-2021/)
+
+
+> In an announcement that came as a surprise to few, NASA now says that landing humans on the Moon by 2024 is no longer likely. Acting administrator Steve Jurczyk lays the blame at the feet of Congress, for failing to provide the funds needed for Human Landing Systems development, a critical step needed to meet the aggressive overall timeline. The announcement doesn't mark the end of the Artemis program; in fact, NASA is continuing to work on a realistic timeline for getting boots back on the lunar surface, and a decision on which of the three submitted proposals for a lunar lander will be further developed should be coming in the next few months.
+
+
+***
+![VeriSilicon High-Performance and High-Quality AI Video Processor Powers Leading Datacenters](https://mms.businesswire.com/media/20210228005023/en/861844/23/New_VeriSilicon_logo.jpg "VeriSilicon High-Performance and High-Quality AI Video Processor Powers Leading Datacenters")
+
+
+[VeriSilicon High-Performance and High-Quality AI Video Processor Powers Leading Datacenters](https://www.businesswire.com/news/home/20210228005023/en/VeriSilicon-High-Performance-and-High-Quality-AI-Video-Processor-Powers-Leading-Datacenters)
+
+
+> February 28, 2021 07:00 PM Eastern Standard Time SHANGHAI--(BUSINESS WIRE)--VeriSilicon (688521.SH) announces the next generation of video processing: The combination of its newly improved VC9000 video codec and its VIP9400 artificial intelligence (AI) and neural network processing technology to process video streams in data centers more efficiently. The increasing number of live and on-demand gaming and video-streaming services, continuing expansion of broadband availability, and the need to deliver video to wide range of devices continues to require cloud platform companies to adopt the latest video-processing solutions like VC9000 coupled with VIP9400.
+
+
