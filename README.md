@@ -35503,3 +35503,53 @@
 > Hi Folks, Ready for March? Here is my new month challenge: 2,400 total exercise minutes which works out to 77 minutes per day. Wish me luck! What are your challenges? Do share! PS: I believe Women's Day is March 8th, so we might have a special challenge there.
 
 
+***
+![Tech demand drives Asia's factory revival, China's slowdown puts dampener](https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-03/01/2021-03-01T031243Z_1_LYNXNPEH200N2_RTROPTP_3_GLOBAL-MARKETS-BONDS-ROUT.JPG "Tech demand drives Asia's factory revival, China's slowdown puts dampener")
+
+
+[Tech demand drives Asia's factory revival, China's slowdown puts dampener](https://kfgo.com/2021/02/28/tech-demand-drives-asias-factory-revival-chinas-slowdown-puts-dampener/)
+
+
+> By Leika Kihara TOKYO (Reuters) - Solid demand for technology goods drove extended growth in Asia's factories in February, but a slowdown in China underscored the challenges facing the region as it seeks a sustainable recovery from the shattering COVID-19 pandemic blow. The vaccine rollouts globally and pick-up in demand provided optimism for a vast number of businesses that had grappled for months with a cash-flow crunch and falling profits. In Japan, manufacturing activity expanded at the fastest pace in over two years while South Korea's exports rose for a fourth straight month in February, suggesting the region's export-reliant economies were benefiting from robust global trade.
+
+
+***
+![Oppo F19 Pro+ 5G phone teased on Amazon India, may sport Dimensity 1200 SoC](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/oppo_f19_poster_leak-647x363.jpeg?T872dhbPxeIitHJGx2NlAp_2Ssp6b8TH "Oppo F19 Pro+ 5G phone teased on Amazon India, may sport Dimensity 1200 SoC")
+
+
+[Oppo F19 Pro+ 5G phone teased on Amazon India, may sport Dimensity 1200 SoC](https://www.indiatoday.in/technology/news/story/oppo-f19-pro-may-be-5g-phone-with-dimensity-1200-chipset-30w-charging-1774122-2021-03-01)
+
+
+> Oppo seems ready for the launch of its next F-series smartphones. There will be two smartphones once again but their names are going to be slightly different. While the F17 will be succeeded by F19, the F17 Pro will have the F19 Pro+. Amazon India has made the "Notify Me" pages for the launch of the two phones live, hinting at an imminent launch. The launch date is still not available.Some previous reports suggested there may be three variants this time, the F19, the F19 Pro, and a new F19 Pro+. The third variant is expected to be a 5G phone.
+
+
+***
+![Verizon Tells Consumers To Turn Off 5G To Preserve Battery Life Then Instantly Regrets It](https://images.digg.com/aHR0cHM6Ly9jZG4uZGlnZy5jb20vc3VibWl0dGVkLWxpbmtzLzE2MTQ1NzAwMjZiLmpwZw-730-400.jpg "Verizon Tells Consumers To Turn Off 5G To Preserve Battery Life Then Instantly Regrets It")
+
+
+[Verizon Tells Consumers To Turn Off 5G To Preserve Battery Life Then Instantly Regrets It](https://digg.com/technology/link/verizon-tells-consumers-to-turn-off-5-g-to-preserve-battery-life-then-instantly-regrets-it-vtoSOSNDyF)
+
+
+> No body in the article.
+
+
+***
+![Accept an string if the pattern has the same count value Python](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Accept an string if the pattern has the same count value Python")
+
+
+[Accept an string if the pattern has the same count value Python](https://www.reddit.com/r/Python/comments/luysuv/accept_an_string_if_the_pattern_has_the_same/)
+
+
+> I'm trying to make a program that prints if a string is accepted or not under the condition that the number of times a pattern appears in the sequence has the same count value; for example: 'aaabbbccc' would be accepted but not 'aabccc'. I have some ideas of how to implement it, but I'm stuck. Any advice would be helpful, thanks a lot
+
+
+***
+![MU launches the disinfecting robot MUDRA](https://images.financialexpress.com/2021/03/disinfection.jpg "MU launches the disinfecting robot MUDRA")
+
+
+[MU launches the disinfecting robot MUDRA](https://www.financialexpress.com/industry/technology/mu-launches-the-disinfecting-robot-mudra/2203878/)
+
+
+> According to the US FDA, UVC radiation has been shown to destroy the outer protein coating of the SARS viruses. (Representational image)Hyderabad-based Mahindra University has made a disinfecting robot called the MUDRA (Mahindra Universite UV Desinfectant Robot Autonome). It is designed to disinfect rooms, labs, offices, shop floors and various other enclosed spaces using ultraviolet-C (UVC) rays.'The MUDRA is an indigenously designed, developed in-house and funded disinfecting robot, which helps sanitise surfaces,' said Yajulu Medury, vice-chancellor, Mahindra University.
+
+
