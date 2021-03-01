@@ -35888,3 +35888,50 @@
 > Source: Sony Best Noise-Canceling Headphones Android Central 2021 If you're a commuter or work in a busy environment, you're likely in the market for some of the best noise-canceling headphones. Drowning out all that background noise comes in the form of active noise-canceling (ANC) technology, and it's become a highly sought-after feature now that it's no longer exclusive to expensive headphones. The Sony WH-1000XM4's ANC heads up a group of class-leading headphones through their excellent performance and battery life.
 
 
+***
+![You can customize almost anything on this laptop, down to the ports you want – Future Blink](https://mondrian.mashable.com/2021%252F03%252F01%252F43%252F97addecc61874c739ac4fd6eaf4e088e.0163e.jpg%252F1200x630.jpg?signature=oeQe9t38kvXrAyoF8_M3TwhZv_E= "You can customize almost anything on this laptop, down to the ports you want – Future Blink")
+
+
+[You can customize almost anything on this laptop, down to the ports you want – Future Blink](https://mashable.com/video/customizable-laptop-framework/)
+
+
+> No body in the article.
+
+
+***
+![Best cheap TV deals: great 4K TV deals and sales in the US in March 2021](https://cdn.mos.cms.futurecdn.net/s5UceHCpxUgMUm34Ph5uFQ-1200-80.jpg "Best cheap TV deals: great 4K TV deals and sales in the US in March 2021")
+
+
+[Best cheap TV deals: great 4K TV deals and sales in the US in March 2021](https://www.techradar.com/deals/cheap-4k-tv-deals-sales)
+
+
+> Look no further for the best cheap TV deals. On this page, we've curated the latest discounts on some of the best TVs - as well as the best cheap TVs from retailers like Best Buy, Amazon, Walmart, and more. Whether you're looking for a 4K TV deal or more – and no matter what size or type of TV you want – we've got you covered. You'll find this week's very best TV deals right here. February is a fantastic time to score cheap TV deals thanks to retailers discounting last year's models to make room for 2021 sets and March Madness TV sales from retailers like Best Buy, Walmart, and Amazon.
+
+
+***
+![Seth Rogen launched a weed brand, and the site immediately crashed](https://mondrian.mashable.com/default-m.jpg%252F1200x630.jpg?signature=kswTpPR3inhc4GK7pgVk3N133sA= "Seth Rogen launched a weed brand, and the site immediately crashed")
+
+
+[Seth Rogen launched a weed brand, and the site immediately crashed](https://mashable.com/article/seth-rogen-evan-goldberg-weed-brand-houseplant/)
+
+
+> Seth Rogen announced the launch of his cannabis brand and the internet loved it so much, the site immediately went down.  The actor/filmmaker/stoner and his longtime creative partner, Evan Goldberg, announced the launch of their cannabis company Houseplant on Monday. The name combines the brand's two main products: "House" goods like ceramic ashtrays and lighters, and weed (plant) strains curated by the two Pineapple Express writers.  "If you know anything about me at all, it's probably that I really love weed," Rogen said in a  video announcing the brand's launch.
+
+
+***
+![Facebook, TikTok least trusted by Americans, Google most trusted, says survey](https://external-preview.redd.it/oA4z7e0_hQrV2DOQ8JN5F_zW2rt9cqOXyqtkDBavTbQ.jpg?auto=webp&s=6215f6a0891d9b94196e83dff5df02dcc0534e73 "Facebook, TikTok least trusted by Americans, Google most trusted, says survey")
+
+
+[Facebook, TikTok least trusted by Americans, Google most trusted, says survey](https://www.reddit.com/r/technology/comments/lvib5p/facebook_tiktok_least_trusted_by_americans_google/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
+***
+[Tech, Not Troops, at Core of Biden's China Policy](https://www.realclearpolitics.com/2021/03/01/tech_not_troops_at_core_of_bidens_china_policy_537186.html)
+
+
+> Show comments Hide Comments
+
+
