@@ -35553,3 +35553,50 @@
 > According to the US FDA, UVC radiation has been shown to destroy the outer protein coating of the SARS viruses. (Representational image)Hyderabad-based Mahindra University has made a disinfecting robot called the MUDRA (Mahindra Universite UV Desinfectant Robot Autonome). It is designed to disinfect rooms, labs, offices, shop floors and various other enclosed spaces using ultraviolet-C (UVC) rays.'The MUDRA is an indigenously designed, developed in-house and funded disinfecting robot, which helps sanitise surfaces,' said Yajulu Medury, vice-chancellor, Mahindra University.
 
 
+***
+![Oppo Find X3 launch date confirmed](https://cdn.mos.cms.futurecdn.net/rTDmdRoRbUbwzCEdks2quX-1200-80.jpg "Oppo Find X3 launch date confirmed")
+
+
+[Oppo Find X3 launch date confirmed](https://www.techradar.com/news/oppo-find-x3-launch-date-confirmed-but-something-might-be-missing-from-the-event)
+
+
+> Oppo Find X3 (Image credit: Oppo) After some anticipation, we've finally got confirmation of the Oppo Find X3 launch date - we're going to see the next generation of flagship Oppo phones unveiled on March 11.This event is set to stream on the company's YouTube channel - a page is already live - and it will kick off at 3:30am PT / 6:30am ET / 11:30am GMT / 10:30pm ACT. That's pretty early in some regions, but since Oppo doesn't sell smartphones in the US, it makes sense.TechRadar will be sure to cover the launch event and everything it brings, so check back at the allotted time for that.
+
+
+***
+![Bill Gates prefers Android over iPhone](https://image-prod.iol.co.za/resize/400x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/2b24bc37-25b3-597b-b4a5-3781045003ee&operation=CROP&offset=0x27&resize=400x225 "Bill Gates prefers Android over iPhone")
+
+
+[Bill Gates prefers Android over iPhone](https://www.iol.co.za/technology/mobile/bill-gates-prefers-android-over-iphone-here-is-why-017d5ba9-9d6f-4896-83a4-60506f767fac)
+
+
+> New Delhi - Microsoft co-founder and billionaire philanthropist Bill Gates prefers an Android smartphone over an Apple iPhone owing to the pre-install Microsoft software in the Android ecosystem that makes things easy for him.In an interview on the invite-only audio chat app Clubhouse, Gates said that he often plays around with iPhones, "but the one I carry around happens to be Android"."I actually use an Android phone. Because I want to keep track of everything," Gates told journalist Andrew Ross Sorkin in the interview.
+
+
+***
+![Daily Rupee call: Momentum favouring the rupee](https://www.thehindubusinessline.com/portfolio/technical-analysis/dnz8tb/article33959790.ece/ALTERNATES/LANDSCAPE_615/bl-rupee "Daily Rupee call: Momentum favouring the rupee")
+
+
+[Daily Rupee call: Momentum favouring the rupee](https://www.thehindubusinessline.com/portfolio/technical-analysis/daily-rupee-call-momentum-favouring-the-rupee/article33959791.ece)
+
+
+> The rupee (INR), which was making gradual progress for most part of last week, faced a wave of selling pressure on Friday, resulting in a sharp fall against the dollar (USD). Consequently, the local currency ended the week at 73.46 versus previous week's close of 72.65, posting a weekly loss of 1.1 per cent. Extending the loss, the rupee opened with a considerable gap-down today at 73.77. Nevertheless, the strength of the bears seem to have diminished at this stage as INR has closed the gap by moving up.
+
+
+***
+![Now streaming: best new TV shows & movies this week in Australia (Mar 1-7)](https://cdn.mos.cms.futurecdn.net/thGTpUdF3dPsdEDUJ66fpB-1200-80.jpg "Now streaming: best new TV shows & movies this week in Australia (Mar 1-7)")
+
+
+[Now streaming: best new TV shows & movies this week in Australia (Mar 1-7)](https://www.techradar.com/news/now-streaming-best-new-tv-shows-and-movies-this-week-in-australia-mar-1-7)
+
+
+> (Image credit: Amazon) With so many shows and movies to choose from on Australia's major streaming services, it can often be difficult to find the best new stuff to entertain yourself with each week. In an effort to make things easier, every Monday we'll be highlighting the best new shows and movies to watch on Aussie streaming platforms, covering the likes of Netflix, Disney Plus, Binge, Foxtel Now, Stan and Amazon Prime Video. Below, you'll find a list of this week's highlights, separated by streaming service, with binge-worthy new shows sitting alongside some great big-budget new movie arrivals – and a couple of oddball left-of-field entries, just for some variety.
+
+
+***
+[一个模子，刻不出两个Clubhouse](http://www.tmtpost.com/5032236.html)
+
+
+> Clubhouse可以被复制，但已不再迷人。
+
+
