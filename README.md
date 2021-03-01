@@ -35453,3 +35453,53 @@
 > February 28, 2021 07:00 PM Eastern Standard Time SHANGHAI--(BUSINESS WIRE)--VeriSilicon (688521.SH) announces the next generation of video processing: The combination of its newly improved VC9000 video codec and its VIP9400 artificial intelligence (AI) and neural network processing technology to process video streams in data centers more efficiently. The increasing number of live and on-demand gaming and video-streaming services, continuing expansion of broadband availability, and the need to deliver video to wide range of devices continues to require cloud platform companies to adopt the latest video-processing solutions like VC9000 coupled with VIP9400.
 
 
+***
+![The OPPO Find X3 Pro launch date is set to finally take on the Galaxy S21](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/oppo-find-x2-review-4.jpg "The OPPO Find X3 Pro launch date is set to finally take on the Galaxy S21")
+
+
+[The OPPO Find X3 Pro launch date is set to finally take on the Galaxy S21](https://www.androidcentral.com/oppo-find-x3-launch-date-announcement)
+
+
+> Source: Alex Dobie / Android Central The OPPO Find X3 series is set to be launched on March 11. The Find X3 Pro will run Qualcomm's Snapdragon 888 5G chipset. OPPO's 10-bit color management system will debut on the Find X3. OPPO's next flagship smartphone lineup is on the way and the company has just announced the date of its launch event. We're expecting a few phones to be unveiled including the OPPO Find X3, Find X3 Lite, and Find X3 Pro. OPPO even managed to include a few details about its higher-end Pro model which will be the cream of the crop in the company's smartphone lineup this year.
+
+
+***
+![Logitech Increases Fiscal Year 2021 Outlook, Raises Long-Term Financial Model](http://www.businesswire.com/images/bwlogo_square.png "Logitech Increases Fiscal Year 2021 Outlook, Raises Long-Term Financial Model")
+
+
+[Logitech Increases Fiscal Year 2021 Outlook, Raises Long-Term Financial Model](https://www.businesswire.com/news/home/20210228005048/en/Logitech-Increases-Fiscal-Year-2021-Outlook-Raises-Long-Term-Financial-Model)
+
+
+> February 28, 2021 09:00 PM Eastern Standard Time LAUSANNE, Switzerland & NEWARK, Calif.--(BUSINESS WIRE)--In advance of a meeting to be held with financial analysts and investors, Logitech International (SIX:LOGN) (Nasdaq:LOGI) today: Raised its Fiscal Year 2021 annual outlook to approximately 63 percent sales growth in constant currency, and approximately $1.1 billion in non-GAAP operating income. The Company's previous outlook was between 57 and 60 percent sales growth in constant currency, and approximately $1.
+
+
+***
+![Datto Selects NEXTGEN Asia as First Distributor in Southeast Asia](https://mms.businesswire.com/media/20210228005022/en/689155/23/Datto-blue.jpg "Datto Selects NEXTGEN Asia as First Distributor in Southeast Asia")
+
+
+[Datto Selects NEXTGEN Asia as First Distributor in Southeast Asia](https://www.businesswire.com/news/home/20210228005022/en/Datto-Selects-NEXTGEN-Asia-as-First-Distributor-in-Southeast-Asia)
+
+
+> February 28, 2021 09:00 PM Eastern Standard Time SINGAPORE--(BUSINESS WIRE)--Datto Holding Corp. ('Datto') (NYSE:MSP), the leading global provider of cloud-based software and technology solutions purpose-built for delivery by managed service providers (MSPs), today announced a distribution agreement with NEXTGEN Asia, to help accelerate growth of the Managed Service Provider (MSP) channel in Southeast Asia. Datto, the MSP technology company, will expand its investment in Southeast Asia to equip MSPs with solutions that can help small and medium-sized enterprises (SMEs) avoid downtime and disruptions that occur in the aftermath of a cyber attack.
+
+
+***
+![Tina Fey And Amy Poehler Open The 2021 Golden Globes With Guns Blazing Against The Hollywood Foreign Press Association](https://cdn.digg.com/wp-content/uploads/2021/03/01015555/Screen-Shot-2021-02-28-at-8.55.38-PM.jpg "Tina Fey And Amy Poehler Open The 2021 Golden Globes With Guns Blazing Against The Hollywood Foreign Press Association")
+
+
+[Tina Fey And Amy Poehler Open The 2021 Golden Globes With Guns Blazing Against The Hollywood Foreign Press Association](https://digg.com/video/tina-fey-and-amy-poehler-open-the-2021-golden-globes-with-guns-blazing-against-the-hollywood-foreign-press-association)
+
+
+> A recent legal decision may force Wall Street to think twice before saddling struggling companies with debts they can't handle. Tina Fey and Amy Poehler roasted the HFPA for their lack of Black voters. "Look, we all know award shows are stupid," Fey quipped. "But even with stupid things inclusivity is important, and there are no Black members of the Hollywood Foreign Press." With Adobe Sign you can stop chasing down signatures and get documents signed in minutes — not days. Here's the rendition of the national anthem that opened the Conservative Political Action Conference.
+
+
+***
+![March 2021 Activity Challenge](https://forums.macrumors.com/attachments/0e212d89-267f-4c73-a449-80c53e522b98-png.1736812/ "March 2021 Activity Challenge")
+
+
+[March 2021 Activity Challenge](https://forums.macrumors.com/threads/march-2021-activity-challenge.2286589/)
+
+
+> Hi Folks, Ready for March? Here is my new month challenge: 2,400 total exercise minutes which works out to 77 minutes per day. Wish me luck! What are your challenges? Do share! PS: I believe Women's Day is March 8th, so we might have a special challenge there.
+
+
