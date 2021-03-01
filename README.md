@@ -35791,3 +35791,53 @@
 > We'll see quite a few foldables this year, and it seems like HONOR is working one as well. The HONOR Magic foldable smartphone is coming, revealed a well-known Chinese tipster, Digital Chat Station.The HONOR Magic foldable smartphone tipped to launch in the second half of 2021He shared the information via his official Weibo account. The tipster said that the device will launch in the second half of the year, while he also shared some information regarding other devices from the company.He confirmed that HONOR is planning to announce new mid-range phones, and a tablet as well.
 
 
+***
+![Chinese tech firm Tencent launches cloud services in Middle East via data centre in Bahrain](https://sm.mashable.com/t/mashable_me/photo/default/shutterstock-664638928_wewx.1200.jpg "Chinese tech firm Tencent launches cloud services in Middle East via data centre in Bahrain")
+
+
+[Chinese tech firm Tencent launches cloud services in Middle East via data centre in Bahrain](https://me.mashable.com/tech/12985/chinese-tech-firm-tencent-launches-cloud-services-in-middle-east-via-data-centre-in-bahrain)
+
+
+> Consumers and service providers alike have opted for a migration towards online solutions in the past year, and this has transformed digitisation from an alternative trade tactic into an absolute necessity for the future. The Arab world has witnessed a surge in digitisation, and Saudi Arabia alone has see 36000 new e-stores pop up on its digital landscape. Bahrain has also emerged as a prominent stake holder in the Middle East's tech transformation, especially after it became first in the region to achieve nationwide 5G coverage.
+
+
+***
+![Apple sued in Portugal over iPhone 6, iPhone 6S 'designed obsolescence' battery patch](https://photos5.appleinsider.com/apps/ipad/images/articles/57458.jpg "Apple sued in Portugal over iPhone 6, iPhone 6S 'designed obsolescence' battery patch")
+
+
+[Apple sued in Portugal over iPhone 6, iPhone 6S 'designed obsolescence' battery patch](https://appleinsider.com/articles/21/03/01/apple-sued-in-portugal-iphone-6-iphone-6s-battery-patch-designed-obsolescence)
+
+
+> How to remove, reorganize, and launch Apple Watch apps faster 1 hour ago AMD Radeon RX 6700 XT GPU may launch at March 3 event 1 hour ago
+
+
+***
+![EU to propose a ‘digital pass' for COVID-19 vaccination/test status to help safer travel – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1230580890.jpg "EU to propose a ‘digital pass' for COVID-19 vaccination/test status to help safer travel – TechCrunch")
+
+
+[EU to propose a ‘digital pass' for COVID-19 vaccination/test status to help safer travel – TechCrunch](https://techcrunch.com/2021/03/01/eu-to-propose-a-digital-pass-for-covid-19-vaccination-test-status-to-help-safer-travel/)
+
+
+> Natasha Lomas @riptari / 8 hours The European Commission has said it will present a legislative plan later this month for what it's calling a 'digital green pass' — aka a digital certificate — which it says will be aimed at facilitating cross-border travel in the age of coronavirus. President Ursula von der Leyen said today that the planned digital tool will aim to provide proof that a person has been vaccination — but not just that; the ‘digital green pass' will also display the results of tests, i.
+
+
+***
+![Uber Wants to Replace Public Transportation in Major Cities](https://media.breitbart.com/media/2017/10/wi/afp/28/vanmko-e1511554735216.jpg "Uber Wants to Replace Public Transportation in Major Cities")
+
+
+[Uber Wants to Replace Public Transportation in Major Cities](https://www.breitbart.com/tech/2021/03/01/uber-wants-to-replace-public-transportation-in-major-cities/)
+
+
+> Ride-sharing giant Uber is reportedly attempting to strike a deal with government transit agencies to replace certain elements of public transport in major cities around the world. A recent report from Quartz states that the ride-sharing service Uber has begun shifting its focus away from self-driving cars and robotaxis and is now attempting to replace portions of public transit systems worldwide. Quartz reports: In January, Uber published a 52-page report on what it aims to do for public transportation, amid a crisis that has hollowed out transit agency budgets and sent ridership on a steep decline.
+
+
+***
+![This ‘90s accessory was all over at the Golden Globes 2021—where to get it on sale](https://www.gannett-cdn.com/presto/2021/03/01/USAT/989e8504-25ff-42cf-b910-b213919c2ef0-USP_Entertainment-_78th_Annual_Golden_Globe_Awards.jpg?crop=5471,3077,x1,y190&width=3200&height=1800&format=pjpg&auto=webp "This ‘90s accessory was all over at the Golden Globes 2021—where to get it on sale")
+
+
+[This ‘90s accessory was all over at the Golden Globes 2021—where to get it on sale](https://www.usatoday.com/story/tech/reviewedcom/2021/03/01/golden-globes-2021-save-celeb-approved-accessory-here/6867378002/)
+
+
+> Amy Poehler, one of the co-hosts of last night's award show, rocked a super 90's-inspired look. (Photo: Rich Polk, NBCU Photo Bank via Getty Images)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.The Golden Globes isn't just one of the biggest nights in film—it's also a huge fashion event. Hollywood actors and actresses come dressed to impress, showing off stylish ensembles courtesy of some of the world's most sought-after designers, such as Oscar de la Renta, Valentino and Gucci.
+
+
