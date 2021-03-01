@@ -35841,3 +35841,50 @@
 > Amy Poehler, one of the co-hosts of last night's award show, rocked a super 90's-inspired look. (Photo: Rich Polk, NBCU Photo Bank via Getty Images)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.The Golden Globes isn't just one of the biggest nights in film—it's also a huge fashion event. Hollywood actors and actresses come dressed to impress, showing off stylish ensembles courtesy of some of the world's most sought-after designers, such as Oscar de la Renta, Valentino and Gucci.
 
 
+***
+[Jupiter and Mercury conjunction – see Solar System's smallest and biggest planets together this week](https://www.thesun.ie/tech/6640593/how-to-see-jupiter-and-mercury-conjunction/)
+
+
+> STARGAZERS will be treated to a close meeting between Jupiter and Mercury this week. The Solar System’s largest and smallest planets will reach conjunction on Friday morning. That means they’ll look like they’re almost touching to us Earthly observers. This celestial event is one for early risers. You’ll need to spot the planets just before […]
+
+
+***
+![PS5 restock this week](https://static.independent.co.uk/2020/11/19/11/ps5.jpg?width=1200&auto=webp&quality=75 "PS5 restock this week")
+
+
+[PS5 restock this week](https://www.independent.co.uk/life-style/gadgets-and-tech/ps5-restock-how-to-guide-b1809579.html)
+
+
+> March has arrived – and, with it, fresh rumours of PlayStation 5 restocks.All of the major UK retailers – including Amazon, Game and Argos – are said to be planning drops of consoles this month.And Sony has promised that it is doing its best to provide more PlayStation 5s on an ongoing basis, though has stopped short of committing to any fixed date for when the shortage will end.For now, that means the same frustrations are going to greet fans if they try to buy consoles: websites going down, shops selling out, and being beaten by automated systems that are built to catch any PlayStation 5s as soon as they go on sale.
+
+
+***
+![Read a paper: Concurrency Control in Groupware Systems](https://external-preview.redd.it/eMmqGWIyuzxgzMJFKZsnwx2dOz2Nx9bxjKiN64MBKow.jpg?auto=webp&s=6790eeec50b2e00a2eca8664306239d90bd6d21e "Read a paper: Concurrency Control in Groupware Systems")
+
+
+[Read a paper: Concurrency Control in Groupware Systems](https://www.reddit.com/r/programming/comments/lvfrq1/read_a_paper_concurrency_control_in_groupware/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Best Android tablet deals February 2021: Galaxy Tab S7 from $70 and more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/samsung-galaxy-tab-s7-plus-lifestyle.jpg "Best Android tablet deals February 2021: Galaxy Tab S7 from $70 and more")
+
+
+[Best Android tablet deals February 2021: Galaxy Tab S7 from $70 and more](https://www.androidcentral.com/best-android-tablet-deals)
+
+
+> Finding decent Android tablet deals isn't so tough anymore, though finding a deal on one of the best tablets can be a bit more difficult. Of course, there are always opportunities to save on tablets even when it's not one of the biggest shopping events of the year like Black Friday or Prime Day. We're gathering all the best Android tablet deals and listing them right here to make saving on your next tablet simple. With all the various Android tablets to choose from, you might be wondering which tablet is actually worth buying.
+
+
+***
+![The best headphones and earbuds with noise-canceling](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/05/sennheiser-momentum-3-wireless-review-15.jpg "The best headphones and earbuds with noise-canceling")
+
+
+[The best headphones and earbuds with noise-canceling](https://www.androidcentral.com/best-noise-canceling-headphones)
+
+
+> Source: Sony Best Noise-Canceling Headphones Android Central 2021 If you're a commuter or work in a busy environment, you're likely in the market for some of the best noise-canceling headphones. Drowning out all that background noise comes in the form of active noise-canceling (ANC) technology, and it's become a highly sought-after feature now that it's no longer exclusive to expensive headphones. The Sony WH-1000XM4's ANC heads up a group of class-leading headphones through their excellent performance and battery life.
+
+
