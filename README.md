@@ -35697,3 +35697,50 @@
 > Google has quickly become of the biggest manufacturers of smart home technology, with its smart speakers taking centre stage. The Google Home range – also known as Google Nest – is made up of four devices; two smart speakers and two smart displays. The smallest and cheapest is the Google Nest Mini. At £49, it also happens to be Google's most popular smart speaker.  Google's second, and newly-released, smart speaker is the Google Nest Audio. It is a bigger and more powerful smart speaker than the Google Nest Mini.
 
 
+***
+[How to delete apps on an iPhone](https://www.thesun.ie/tech/6638477/how-to-delete-apps-on-iphone/)
+
+
+> APPS can take up valuable memory space on your iPhone – and chances are, there are some apps you’re hardly ever using. So how can you quickly get rid of those unneeded apps, and free up space for other things? How to delete apps on an iPhone Apps can either be deleted from your iPhone […]
+
+
+***
+![Best TV deals UK: cheap offers on TVs this March](https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/03/26/10/tv-deals.jpg?width=1200&width=1200&auto=webp&quality=75 "Best TV deals UK: cheap offers on TVs this March")
+
+
+[Best TV deals UK: cheap offers on TVs this March](https://www.standard.co.uk/shopping/esbest/gadgets-tech/best-tv-deals-uk-offers-cheap-a4396301.html)
+
+
+> We may have been in lockdown for the best part of a year but the one silver lining getting us through is the epic binge-worthy offering served up by our favourite streaming services on the small screen.Whether you are spending your evenings devouring the latest Netflix show or Oscar-worthy flicks, it feels more important than ever to upgrade your home entertainment system - which begins with a new television.There are huge savings across the latest crop of TVs, so if you've been questioning your current set up - there's no better time to invest.
+
+
+***
+![iPhone 13 to Include 1TB Storage Option and LiDAR Across the Board, Says Wedbush Analyst](https://images.macrumors.com/t/Wz8b6-lXu8yoD_uVGJgYsLox1g8=/1600x/https://images.macrumors.com/article-new/2020/11/iphone-12-pro-display-video.jpg "iPhone 13 to Include 1TB Storage Option and LiDAR Across the Board, Says Wedbush Analyst")
+
+
+[iPhone 13 to Include 1TB Storage Option and LiDAR Across the Board, Says Wedbush Analyst](https://www.macrumors.com/2021/03/01/wedbush-iphone-13-1tb-storage-lidar/)
+
+
+> Apple's forthcoming iPhone 13 could include a 1TB storage option for some models and LiDAR Scanners across the entire lineup, according to a report from Wedbush analysts. In a new note to investors, seen by MacRumors, Wedbush analyst Daniel Ives said that initial Asian supply chain checks gave the firm "increased confidence" that Apple's 5G-driven product cycle would extend well into 2022, and that this would be reflected in improved technical specifications. From the report: Initial Asia supply chain builds for ‌iPhone 13‌ are currently in the 100 million unit range compared to our initial iPhone 12 reads at 80 million units and represents a 25% increase YoY out of the gates.
+
+
+***
+![Epsilon Imaging Partners With Siemens Healthineers to Offer Echoinsight® Visualization and Analysis Strain Imaging to syngo® Dynamics Users](https://mms.businesswire.com/media/20210301005012/en/861246/23/Epsilon-logo-smallR_%282%29.jpg "Epsilon Imaging Partners With Siemens Healthineers to Offer Echoinsight® Visualization and Analysis Strain Imaging to syngo® Dynamics Users")
+
+
+[Epsilon Imaging Partners With Siemens Healthineers to Offer Echoinsight® Visualization and Analysis Strain Imaging to syngo® Dynamics Users](https://www.businesswire.com/news/home/20210301005012/en/Epsilon-Imaging-Partners-With-Siemens-Healthineers-to-Offer-Echoinsight%C2%AE-Visualization-and-Analysis-Strain-Imaging-to-syngo%C2%AE-Dynamics-Users)
+
+
+> March 01, 2021 07:00 AM Eastern Standard Time ANN ARBOR, Mich.--(BUSINESS WIRE)--Epsilon Imaging, a visualization and analysis software provider transforming cardiac diagnostic workflow with strain imaging, today announced a partnership with Siemens Healthineers, a leading developer of medical imaging and information management solutions, to offer syngo Dynamics users EchoInsight visualization and analysis with strain imaging. This syngo Dynamics integration enables clinicians to gain quick and easy access to EchoInsight strain imaging with automated cardiac function measurements based on ASE Guidelines for improved quality, standardization and efficiency in echo interpretation and management.
+
+
+***
+![U.S. PTAB Denies One CommScope and Two JMA Petitions for Inter Partes Review, Reinforcing the Validity of Dali's Intellectual Property](https://mms.businesswire.com/media/20210301005067/en/861722/23/DALI_LOGO.jpg "U.S. PTAB Denies One CommScope and Two JMA Petitions for Inter Partes Review, Reinforcing the Validity of Dali's Intellectual Property")
+
+
+[U.S. PTAB Denies One CommScope and Two JMA Petitions for Inter Partes Review, Reinforcing the Validity of Dali's Intellectual Property](https://www.businesswire.com/news/home/20210301005067/en/U.S.-PTAB-Denies-One-CommScope-and-Two-JMA-Petitions-for-Inter-Partes-Review-Reinforcing-the-Validity-of-Dali%E2%80%99s-Intellectual-Property)
+
+
+> MENLO PARK, Calif.--(BUSINESS WIRE)--Dali Wireless, Inc., a worldwide pioneer in digital radio distribution systems and digital predistortion technology, today announced that it has received three significant decisions from the United States Patent Trial and Appeal Board (PTAB), which rejected the arguments of CommScope Technologies LLC's petition regarding U.S. Patent No. 8,682,338, and John Mezzalingua Associates, LLC d/b/a JMA Wireless petitions regarding U.S. Patent Nos. 9,820,171 and 10,334,499.
+
+
