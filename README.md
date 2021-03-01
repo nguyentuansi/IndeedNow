@@ -35744,3 +35744,50 @@
 > MENLO PARK, Calif.--(BUSINESS WIRE)--Dali Wireless, Inc., a worldwide pioneer in digital radio distribution systems and digital predistortion technology, today announced that it has received three significant decisions from the United States Patent Trial and Appeal Board (PTAB), which rejected the arguments of CommScope Technologies LLC's petition regarding U.S. Patent No. 8,682,338, and John Mezzalingua Associates, LLC d/b/a JMA Wireless petitions regarding U.S. Patent Nos. 9,820,171 and 10,334,499.
 
 
+***
+![21 states consider Right to Repair, and tractor repair comes into sharp focus](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "21 states consider Right to Repair, and tractor repair comes into sharp focus")
+
+
+[21 states consider Right to Repair, and tractor repair comes into sharp focus](https://www.reddit.com/r/technology/comments/lv9xvk/21_states_consider_right_to_repair_and_tractor/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+[Sydney-based HR software developer Employment Hero raises $45M AUD Series D at a $250M+ AUD valuation led by SEEK (Catherine Shu/TechCrunch)](http://www.techmeme.com/210301/p11#a210301p11)
+
+
+> Catherine Shu / TechCrunch: Sydney-based HR software developer Employment Hero raises $45M AUD Series D at a $250M+ AUD valuation led by SEEK — Businesses, and the tech platforms that support their operations, had to adapt quickly to the pandemic. Ben Thompson, co-founder and chief executive officer …
+
+
+***
+![Are you still waiting on your Samsung Galaxy S21 to arrive?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/01/samsung-galaxy-s21-vs-s21-ultra-2.jpg "Are you still waiting on your Samsung Galaxy S21 to arrive?")
+
+
+[Are you still waiting on your Samsung Galaxy S21 to arrive?](https://www.androidcentral.com/are-you-still-waiting-your-samsung-galaxy-s21-arrive)
+
+
+> Source: Hayato Huseman / Android Central The Samsung Galaxy S21 lineup offers some intriguing options at more accessible price points than last year, and each of the three sizes -- the S21, S21+, and S21 Ultra are strong candidates already for the best Android phones of the year. Samsung announced and launched its flagship series earlier this year than in recent memory and begun shipping them out to customers over the past few weeks. While browsing through the AC Forums this morning, we noticed several posters commenting that recent shipping delays were influenced by the unusually severe weather in Texas and other parts of the southern U.
+
+
+***
+![We help you decide between two of the best Wi-Fi 6 mesh routers out now](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/eero_6_pro.jpg "We help you decide between two of the best Wi-Fi 6 mesh routers out now")
+
+
+[We help you decide between two of the best Wi-Fi 6 mesh routers out now](https://www.androidcentral.com/tp-link-deco-x60-vs-eero-pro-6)
+
+
+> Eero has made a name for itself by making simple-to-use mesh systems with enough speed for most people. The Eero Pro 6 is the first Eero that can keep up with a gigabit internet connection with multiple nodes thanks to a fast tri-band AX4200 Wi-Fi solution. You can even upgrade an older Eero system with Wi-Fi 6 at the core thanks to full compatibility with all other Eeros. $599 at Amazon Fast tri-band Wi-Fi 6 connection Compact size Compatible with all other Eeros Great management app Expensive Only two Ethernet ports The TP-Link Deco X60 is easily one of the best values in mesh systems thanks to an AX3000 Wi-Fi 6 setup that should be fast enough for most people.
+
+
+***
+![HONOR Magic Foldable Smartphone Is Coming As Well](https://www.androidheadlines.com/wp-content/uploads/2020/07/AH-HONOR-logo-1.jpg "HONOR Magic Foldable Smartphone Is Coming As Well")
+
+
+[HONOR Magic Foldable Smartphone Is Coming As Well](https://www.androidheadlines.com/2021/03/honor-magic-foldable-smartphone-coming.html)
+
+
+> We'll see quite a few foldables this year, and it seems like HONOR is working one as well. The HONOR Magic foldable smartphone is coming, revealed a well-known Chinese tipster, Digital Chat Station.The HONOR Magic foldable smartphone tipped to launch in the second half of 2021He shared the information via his official Weibo account. The tipster said that the device will launch in the second half of the year, while he also shared some information regarding other devices from the company.He confirmed that HONOR is planning to announce new mid-range phones, and a tablet as well.
+
+
