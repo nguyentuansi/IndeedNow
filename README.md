@@ -35600,3 +35600,50 @@
 > Clubhouse可以被复制，但已不再迷人。
 
 
+***
+![U.S. envoy visits Kabul looking for ways to speed up Afghan peace process](https://static.reuters.com/resources/r/?m=02&d=20210301&t=2&i=1553288084&r=LYNXNPEH200IY&w=800 "U.S. envoy visits Kabul looking for ways to speed up Afghan peace process")
+
+
+[U.S. envoy visits Kabul looking for ways to speed up Afghan peace process](https://www.reuters.com/article/us-usa-afghanistan-envoy-idUSKCN2AT0YN)
+
+
+> By Reuters StaffWASHINGTON/KABUL (Reuters) - The U.S. special envoy to Afghanistan, Zalmay Khalilzad held discussions on Monday with a senior Afghan official in Kabul over ways to accelerate the peace process, before heading to Qatar, where negotiations with Taliban representatives are ongoing.FILE PHOTO: Zalmay Khalilzad, U.S. envoy for peace in Afghanistan is seen during talks between the Afghan government and Taliban insurgents in Doha, Qatar September 12, 2020. REUTERS/Ibraheem al Omari/File PhotoU.
+
+
+***
+![Istanbul's Dream Games snaps up $50M and launches its first game, the puzzle-based Royal Match – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/02/royal-match.jpg?w=764 "Istanbul's Dream Games snaps up $50M and launches its first game, the puzzle-based Royal Match – TechCrunch")
+
+
+[Istanbul's Dream Games snaps up $50M and launches its first game, the puzzle-based Royal Match – TechCrunch](https://techcrunch.com/2021/02/28/istanbuls-dream-games-snaps-up-50m-and-launches-its-first-game-the-puzzle-based-royal-match/)
+
+
+> On the back of Zynga acquiring Turkey's Peak Games for $1.8 billion last year and then following it up with another gaming acquisition in the country, Turkey has been making a name for itself as a hub for mobile gaming startups, and specifically those building casual puzzle games, the wildly popular and very sticky format that takes players through successive graphic challenges that test their logic, memory and ability to think under time pressure. Today, one of the more promising of those startups, Istanbul-based, Peak alum-founded Dream Games, is announcing the GA launch of its first title, Royal Match (on both iOS and Android), along with $50 million in funding to double down on the opportunity ahead — the largest Series A raised by a startup in Turkey to date.
+
+
+***
+![PixelJunk Raiders Review](https://techraptor.net/sites/default/files/styles/image_header/public/2021-02/PixelJunk-Raiders.jpg?itok=aeTu3V-C "PixelJunk Raiders Review")
+
+
+[PixelJunk Raiders Review](https://techraptor.net/gaming/reviews/pixeljunk-raiders-review)
+
+
+> 03/01/2021 - 03:00 | By: James Bentley Home Gaming Game Reviews PixelJunk Raiders Review PixelJunk Raiders is a bit of a strange beast — an alien one is perhaps more accurate. It sits at this intersection between a roguelite and an exploration game but occasionally misses the best parts of each. It's an interesting game but it's hard to say how good it really is. It's just a little too boring to fit a nice roguelite and a little too samey to fit a really good adventure game. As an addition to Stadia Pro, it's probably worth your time.
+
+
+***
+![The ultimate guide to LinkedIn API: People Profile API](https://external-preview.redd.it/H7EsozXdrXvtZB9Ge-gfwGZmkFas51sOZfSSMoJX_V4.jpg?auto=webp&s=225bcd9dec9f2572d1f917bfb18d4178a49e0b7c "The ultimate guide to LinkedIn API: People Profile API")
+
+
+[The ultimate guide to LinkedIn API: People Profile API](https://www.reddit.com/r/programming/comments/lv3gmk/the_ultimate_guide_to_linkedin_api_people_profile/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Samsung Galaxy M12 with 48MP quad camera, MASSIVE 6000mAh Battery set to launch in India: Check Date, Timings, Specs and other details NOW!](https://www.zeebiz.com/technology/mobiles/news-samsung-galaxy-m12-with-48mp-quad-camera-massive-6000mah-battery-set-to-launch-in-india-check-date-timings-specs-and-other-details-now-151211)
+
+
+> South Korean tech giant Samsung is ready to introduce new 'M series' smartphone in India this month. According to the details listed on the company microsite, Samsung Galaxy M12 will launch in India on March 11 at 12pm (noon).
+
+
