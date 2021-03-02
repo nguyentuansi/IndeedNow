@@ -36514,3 +36514,50 @@
 > Gold up $10 on the day Is anything more hated than gold right now? Sentiment has turned wildly against the shiny stuff as bitcoin and other high-flying cryptocurrencies steal its luster. Add in the technical break below the November lows and it's tough to find a short-term bull.
 
 
+***
+![Tell a story with your commits](https://external-preview.redd.it/_8Tq7b5xm0NRjtC29S9ai16YTnbZ9XYw1qp_lgb6hHc.jpg?auto=webp&s=bcc48482baaadb89d12893d36ca0441a7e2c5954 "Tell a story with your commits")
+
+
+[Tell a story with your commits](https://www.reddit.com/r/Python/comments/lwdszd/tell_a_story_with_your_commits_making_an_app_to/)
+
+
+> Hey everyone! TL;DR: I am working on a new version control tool that keeps track of all of your file changes automatically, and makes it easy for you to craft the perfect git history after you're done working. Would love to hear if you folks find this useful. Site is https://getsturdy.com/ The main idea right now is to make it easy to create a clear and logical sequence of commits from your work-in-progress code (a.k.a. simple commit history that's easier to review, lower risk of bugs slipping through).
+
+
+***
+![20 of the most popular subscriptions on Cratejoy](https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2021/03/01/USATODAY/usatsports/Reviewed.com-RvEW-26800-hero.png?width=1272&height=636&fit=crop&format=pjpg&auto=webp "20 of the most popular subscriptions on Cratejoy")
+
+
+[20 of the most popular subscriptions on Cratejoy](https://www.usatoday.com/story/tech/reviewedcom/2021/03/02/20-popular-cratejoy-subscription-boxes/43447693/)
+
+
+> There's a subscription service for every interest under the sun. (Photo: Reviewed.com)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.It's become an ongoing joke in my house that I've spent the last year checking the mail semi-obsessively. What can I say? Even in the best of times, winter tends to make me feel dreary and lonely—and nothing brightens up a day more effectively than a letter or a package.Luckily, you don't have to sit around waiting to get something fun in the mail.
+
+
+***
+![Google Workspace & Assistant Get Even More Work-Ready](https://www.androidheadlines.com/wp-content/uploads/2021/03/Workspace-Google-Assistant-and-updates-from-Google.jpg "Google Workspace & Assistant Get Even More Work-Ready")
+
+
+[Google Workspace & Assistant Get Even More Work-Ready](https://www.androidheadlines.com/2021/03/google-workspace-assistant-integration-updates.html)
+
+
+> Google is now reportedly prepping a plethora of new updates, including some to its Assistant, for its enterprise-focused Workspace offering. The changes are intended to make the platform, previously known as G Suite, better well-suited for productivity.The biggest change to Google's Workspace within the confines of the updates is its Assistant AI improvements. Namely, that Google Assistant is now ready to work in Workspace. Now, users can use Google Assistant directly to join in on meetings, check work scheduling and events via the calendar, and send messages.
+
+
+***
+[HPE reports Q1 with revenue of $6.8B vs estimates of $6.75B, down 2% YoY, net earnings of $223M, down from $333M YoY, storage sales of $1.2B, down 5% YoY (Jon Swartz/MarketWatch)](http://www.techmeme.com/210302/p37#a210302p37)
+
+
+> Jon Swartz / MarketWatch: HPE reports Q1 with revenue of $6.8B vs estimates of $6.75B, down 2% YoY, net earnings of $223M, down from $333M YoY, storage sales of $1.2B, down 5% YoY — 'Our revenue exceeded our outlook and we significantly expanded our gross and operating margins to drive strong profitability across most of our businesses,' CEO Antonio Neri says
+
+
+***
+![Russia's Stealth Fighter Has An Unearthly Scream](https://images.digg.com/aHR0cHM6Ly9jZG4uZGlnZy5jb20vc3VibWl0dGVkLWxpbmtzLzE2MTQ3MjE2OTNiLmpwZw-730-400.jpg "Russia's Stealth Fighter Has An Unearthly Scream")
+
+
+[Russia's Stealth Fighter Has An Unearthly Scream](https://digg.com/technology/link/russia-s-stealth-fighter-has-an-unearthly-scream-uT7TpG23n1)
+
+
+> No body in the article.
+
+
