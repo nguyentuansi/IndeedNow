@@ -36129,3 +36129,53 @@
 > Apple is working on four different models of the iPhone 13 which it plans to release in the second half of the year, TFI Securities analyst Ming-Chi Kuo predicted in a new investor note.  The 2021 lineup, which will succeed the highly successful iPhone 12 series, could feature a smaller notch as well as 120Hz displays for 'Pro' models. The iPhone 13 series will also include larger batteries, an improved 5G modem and better cameras. Kuo believes the next-generation iPhone 13 series will be improved versions of existing devices, as Apple plans to bring minor changes to the new lineup.
 
 
+***
+![You can now directly send and receive text messages from some Samsung PCs](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/samsung-messaging-app.jpg "You can now directly send and receive text messages from some Samsung PCs")
+
+
+[You can now directly send and receive text messages from some Samsung PCs](https://www.androidcentral.com/new-app-samsung-lets-you-send-and-receive-texts-your-windows-10-pc)
+
+
+> Source: Samsung Samsung has launched a new messaging app for Windows 10. The new Samsung Messaging app lets you send and receive text messages directly, without having to use the Your Phone app. The app is currently limited to the Galaxy Tab Pro S, Galaxy Book 10.6 LTE, Galaxy Book 12 LTE, and Galaxy Book 2. Samsung has quietly introduced a new messaging app for Windows 10, dubbed Samsung Messaging. First spotted by the folks at Aggionamenti Lumia, the app's listing on the Microsoft Store says the app is only meant for devices that have 5G or 4G LTE support.
+
+
+***
+![Betting on death of petrol cars, Volvo to go all electric by 2030](https://external-preview.redd.it/EJyrVSoBcx5ldYg6W1L7KsrQfNFsw7GLlx3a4Ook40g.jpg?auto=webp&s=08e8762b89d19cc208cd334001305d4712eb7159 "Betting on death of petrol cars, Volvo to go all electric by 2030")
+
+
+[Betting on death of petrol cars, Volvo to go all electric by 2030](https://www.reddit.com/r/technology/comments/lvuwed/betting_on_death_of_petrol_cars_volvo_to_go_all/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Asus ROG Phone 5 will have more RAM than most gaming laptops](https://cdn.mos.cms.futurecdn.net/LrT7ahpqQXSSRgkYeGSWhK-1200-80.jpg "Asus ROG Phone 5 will have more RAM than most gaming laptops")
+
+
+[Asus ROG Phone 5 will have more RAM than most gaming laptops](https://www.techradar.com/news/asus-rog-phone-5-will-have-more-ram-than-most-gaming-laptops)
+
+
+> (Image credit: Aakash Jhaveri) The Asus ROG Phone 5 will be the first major gaming smartphone of the year when it launches next week. New information suggests that it will also be the most powerful one.Arriving on March 10 in India and other markets, the Asus ROG Phone 5 was recently spotted on Geekbench listings. It confirms that the phone will be powered by Snapdragon 888 chipset and will run on Android 11 out of the box. On the benchmark, it clocked a single-core score of 1,113 and a multi-core score of 3,468.
+
+
+***
+![What's new on Netflix Australia for March 2021](https://cdn.mos.cms.futurecdn.net/2CwyadzM5RCbuMTEFozTQE-1200-80.jpg "What's new on Netflix Australia for March 2021")
+
+
+[What's new on Netflix Australia for March 2021](https://www.techradar.com/news/heres-whats-new-on-netflix-this-month)
+
+
+> (Image credit: Netflix) As the number of shows and movies available to stream in Australia continues to grow at an impressive rate, it can be tough to keep up with all the new additions to each streaming service each month. We've all come to anticipate a new stable of Netflix Originals releases each month, but figuring out which shows they are and when exactly they become available isn't so easy. And what about the large number licensed shows and films that are made available to stream, if only for a limited time?Check out the competition and see the best Disney plus priceIn an effort to keep you informed of the best shows and movies that are in the process of being added to Netflix, we'll be bringing you an updated list of what you can expect on the service on a monthly basis.
+
+
+***
+![All the best free online courses and tutorials on Udemy](https://mondrian.mashable.com/2021%252F03%252F02%252F82%252Fb69969cb93ce4b2e9d3df3fa27b87bc4.3fbe3.png%252F1200x630.png?signature=lDIroREUwldR6ivjs_UziBfyzXs= "All the best free online courses and tutorials on Udemy")
+
+
+[All the best free online courses and tutorials on Udemy](https://mashable.com/uk/shopping/mar-2-best-free-online-courses-udemy/)
+
+
+> TL;DR: As of March 2, a wide range of online courses and tutorials are available for free on Udemy. We have been completely and utterly spoiled in the past few weeks. There have been absolutely loads of opportunities to take top online courses for free recently, and they just keep coming. Udemy has dropped another batch of free online courses and tutorials, covering topics like accounting, bookkeeping, and photo editing. You can also take a bunch of free coding courses on everything from JavaScript to HTML.
+
+
