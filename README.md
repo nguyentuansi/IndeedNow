@@ -36229,3 +36229,53 @@
 > Xiaomi's Redmi Note 10 series will have at least one phone which sports an  AMOLED display. The key specification was confirmed by Xiaomi's India managing director Manu Kumar Jain on Twitter. The confirmation comes just two days ahead of the release of budget mid-range devices. This is the first time the Redmi Note series will feature an AMOLED display. A few days earlier, leaked images of Redmi Note 10 by Xiaomi Leaks Ph on Facebook suggested that the phone will have a 6.43-inch AMOLED display. Along with the display, the leaked photo of Redmi Note 10's retail box also revealed that it will be powered by Qualcomm Snapdragon 678 processor.
 
 
+***
+![Twitter now labeling tweets with misinformation about COVID-19 vaccines with new strike system](https://external-preview.redd.it/QmVZFuV-wEnH1pIg6WRpo-26N59HKLh9J5hVgFuMu1E.jpg?auto=webp&s=45467ed693c351d52eee8b2977fb5fb0045d9d28 "Twitter now labeling tweets with misinformation about COVID-19 vaccines with new strike system")
+
+
+[Twitter now labeling tweets with misinformation about COVID-19 vaccines with new strike system](https://www.reddit.com/r/technology/comments/lvyh48/twitter_now_labeling_tweets_with_misinformation/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![eBay and Adevinta offer to sell UK ads firms to secure £6.5bn merger  – live updates](https://www.telegraph.co.uk/content/dam/technology/2019/03/01/TELEMMGLPICT000190080110_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?impolicy=logo-overlay "eBay and Adevinta offer to sell UK ads firms to secure £6.5bn merger  – live updates")
+
+
+[eBay and Adevinta offer to sell UK ads firms to secure £6.5bn merger  – live updates](https://www.telegraph.co.uk/technology/2021/03/02/rudy-giuliani-suspended-youtube-trump-election-claims-live/)
+
+
+> 9:40AM Rudy Giuliani, Donald Trump's lawyer has been banned from YouTube for two weeks after making false claims about the 2020 election. The Alphabet-owned site said Mr Giuliani had broken its election integrity rules as well as its policy against promoting nicotine sales, according to Bloomberg. Mr Giuliani, who was central to the former president's bid to overturn the election, is now one strike away from a permanent suspension from the site, YouTube said. The video-streaming sites claims appear to be a reference to bizarre commercial interludes in which the former New York City mayor broke off from groundless claims about mass election fraud to recommend his viewers visit an online cigar shop.
+
+
+***
+![This Shark vacuum cleaner deal will kickstart your spring clean](https://cdn.mos.cms.futurecdn.net/WqfyzLvE5p2XYktv5LqHeG-1200-80.jpg "This Shark vacuum cleaner deal will kickstart your spring clean")
+
+
+[This Shark vacuum cleaner deal will kickstart your spring clean](https://www.techradar.com/deals/this-shark-vacuum-cleaner-deal-will-kickstart-your-spring-clean)
+
+
+> (Image credit: TechRadar) The best vacuum cleaners are powerful enough to remove everything in their way, from dust and pet hair to larger debris like cereal, but they can be costly, so a good deal is always welcome – and Amazon has just discounted one of the best vacuums we've tested.In the UK, the Shark DuoClean Powered Lift-Away Upright NZ801 has been discounted by more than £100, bringing it down to just £229 – that's a 31% saving on the RRP. (Not in the UK? Scroll down for the best Shark vacuum cleaner deals in your region.
+
+
+***
+![Google is paying for more information in a break with its past](https://image-prod.iol.co.za/resize/5568x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/cbea87ab-4c5c-5e49-888b-e90c68c8f9be&operation=CROP&offset=0x293&resize=5568x3132 "Google is paying for more information in a break with its past")
+
+
+[Google is paying for more information in a break with its past](https://www.iol.co.za/technology/software-and-internet/google-is-paying-for-more-information-in-a-break-with-its-past-1cca90a6-7e85-421d-a89e-65586dab87c6)
+
+
+> By Nico Grant Google is under growing pressure to pay for information that, for two decades, the search provider snipped from the web -- and made a mint from -- without paying a penny.Australian and French efforts to force Google to compensate news publishers are only the latest examples of a trend spanning the globe. Canada is considering a similar requirement and rival Microsoft has urged the U.S. to pass a comparable law."If Australia is successful, it could be a precedent for the rest of the world," said Belinda Barnet, a senior lecturer at Swinburne University of Technology in Melbourne.
+
+
+***
+![Multiavatar Generator rewritten in Python](https://external-preview.redd.it/SG2SvQ2sjWswb8vshbairXxY4S1vCz323tkj7L7MUwY.jpg?auto=webp&s=30f2bc5753556f8b506ef95621f10bf702fae789 "Multiavatar Generator rewritten in Python")
+
+
+[Multiavatar Generator rewritten in Python](https://www.reddit.com/r/Python/comments/lvyd82/multiavatar_generator_rewritten_in_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
