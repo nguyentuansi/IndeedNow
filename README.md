@@ -36082,3 +36082,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+[A report from the National Security Commission on AI, which is chaired by Eric Schmidt, finds that the US is not fully prepared for AI competition with China (Mila Jasper/Nextgov)](http://www.techmeme.com/210301/p32#a210301p32)
+
+
+> Mila Jasper / Nextgov: A report from the National Security Commission on AI, which is chaired by Eric Schmidt, finds that the US is not fully prepared for AI competition with China — Retaining any edge will take White House leadership and a substantial investment, according to the National Security Commission on Artificial Intelligence.
+
+
+***
+![OnePlus 9 series launch date could be announced on March 8, the company teases Moonshot](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/oneplus9pro-leak-483x271_1200_210302093515.jpeg "OnePlus 9 series launch date could be announced on March 8, the company teases Moonshot")
+
+
+[OnePlus 9 series launch date could be announced on March 8, the company teases Moonshot](https://www.indiatoday.in/technology/news/story/oneplus-9-series-launch-date-could-be-announced-on-march-8-the-company-teases-moonshot-1774592-2021-03-02)
+
+
+> OnePlus is likely to announce the launch date for the OnePlus 9 series on March 8.India Today Tech | March 2, 2021 | Updated 09:30 IST OnePlus 9 Pro (Image: David Lee/ YouTube)
+
+
+***
+![FAUG developer gets defamation notices after comments on gambling apps](https://cdn.mos.cms.futurecdn.net/KxbyiqvAjUmNC2SDndg4fX-1200-80.jpg "FAUG developer gets defamation notices after comments on gambling apps")
+
+
+[FAUG developer gets defamation notices after comments on gambling apps](https://www.techradar.com/news/faug-developer-gets-defamation-notices-after-comments-on-gambling-apps)
+
+
+> (Image credit: Bodhisatwa Ray) Gambling apps have been actively trying to pass themselves off as gaming ones for a while now and they have started pushing to make it official now. Recently, people like the co-founder of Nodwin Gaming, Akshat Rathee and Vishal Gondal, Co-Founder and Chairman of FAU-G studio Ncore Games spoke out about the same. And now according to a post of Twitter by Vishal Gondal, he has been slapped with six legal notices from people all based in different cities in India. These legal notices threaten him with criminal and civil action for his tweets.
+
+
+***
+![AIFF to hold trials for Indian team to participate in FIFAe Nations Series 2021](https://cdn.mos.cms.futurecdn.net/ksRjrPZTpacaEXqZhNzBDD-1200-80.jpg "AIFF to hold trials for Indian team to participate in FIFAe Nations Series 2021")
+
+
+[AIFF to hold trials for Indian team to participate in FIFAe Nations Series 2021](https://www.techradar.com/news/aiff-to-hold-trials-for-indian-team-to-participate-in-fifae-nations-series-2021)
+
+
+> (Image credit: FIFA) All India Football Federation is all set to get into esports and has announced that it is going to hold trials to form and Indian team that will participate in FIFAe Nations Series 2021. This trial will be in the form of a tournament which has been named 'AIFF eFootball Challenge'. With the selection and forming of a eNational Squad, AIFF announced that this will be a first for India to participate in the FIFAe Nations Series 2021. This is FIFA's flagship tournament for Member Associations and is contested by eNational Teams in the game EA Sports FIFA 21.
+
+
+***
+![Apple's future lineup includes iPhone 13 with smaller notch, foldable phone in 2023](https://images.indianexpress.com/2021/03/iPhone.jpg "Apple's future lineup includes iPhone 13 with smaller notch, foldable phone in 2023")
+
+
+[Apple's future lineup includes iPhone 13 with smaller notch, foldable phone in 2023](https://indianexpress.com/article/technology/mobile-tabs/apples-future-lineup-includes-iphone-13-with-smaller-notch-foldable-phone-in-2023-7210380/)
+
+
+> Apple is working on four different models of the iPhone 13 which it plans to release in the second half of the year, TFI Securities analyst Ming-Chi Kuo predicted in a new investor note.  The 2021 lineup, which will succeed the highly successful iPhone 12 series, could feature a smaller notch as well as 120Hz displays for 'Pro' models. The iPhone 13 series will also include larger batteries, an improved 5G modem and better cameras. Kuo believes the next-generation iPhone 13 series will be improved versions of existing devices, as Apple plans to bring minor changes to the new lineup.
+
+
