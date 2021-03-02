@@ -36179,3 +36179,53 @@
 > TL;DR: As of March 2, a wide range of online courses and tutorials are available for free on Udemy. We have been completely and utterly spoiled in the past few weeks. There have been absolutely loads of opportunities to take top online courses for free recently, and they just keep coming. Udemy has dropped another batch of free online courses and tutorials, covering topics like accounting, bookkeeping, and photo editing. You can also take a bunch of free coding courses on everything from JavaScript to HTML.
 
 
+***
+![New Pixel Feature Drop update brings Smart Compose, other features](https://images.indianexpress.com/2021/03/Google-Pixel-3A.jpg "New Pixel Feature Drop update brings Smart Compose, other features")
+
+
+[New Pixel Feature Drop update brings Smart Compose, other features](https://indianexpress.com/article/technology/mobile-tabs/new-pixel-feature-drop-update-brings-smart-compose-other-features-7210832/)
+
+
+> Google's Pixel devices are known for quick updates and new timely features added straight from the tech giant. After the last Pixel feature drop in December, a new update has now arrived, which brings features such as Adaptive Sound, Google Photos suggestions to name a few. While some features are exclusive to certain Pixel phones,  most of the new changes are available to all Pixel devices since the Pixel 3. Here are the new features explained in detail. Google Recorder Backup and sync Google Recorder has now introduced backup and sync support.
+
+
+***
+![Introducing Samotics: Semiotic Labs Rebrands and Announces New Investment](https://mms.businesswire.com/media/20210301005992/en/862306/23/Samotics_logo.jpg "Introducing Samotics: Semiotic Labs Rebrands and Announces New Investment")
+
+
+[Introducing Samotics: Semiotic Labs Rebrands and Announces New Investment](https://www.businesswire.com/news/home/20210301005992/en/Introducing-Samotics-Semiotic-Labs-Rebrands-and-Announces-New-Investment)
+
+
+> March 02, 2021 02:55 AM Eastern Standard Time LEIDEN, Netherlands--(BUSINESS WIRE)--Samotics, a leading provider of AI-driven predictive analytics, today announces its new brand identity and recent investment, reflecting the organization's rapid growth into a global enterprise. Samotics will replace Semiotic Labs as the official company name, alongside a new visual identity and website. The company has also completed a new 5 million euro funding round, signifying high confidence in its future business strategy and growth targets.
+
+
+***
+![Why Ada Is The Language You Want To Be Programming Your Systems With](https://external-preview.redd.it/bNaLTMZIPQzWPK3lznWF1QcSPwwVURlwAu9puNKDBu0.jpg?auto=webp&s=6edaf22d06ba2a4049051fa6f282f4831ef19981 "Why Ada Is The Language You Want To Be Programming Your Systems With")
+
+
+[Why Ada Is The Language You Want To Be Programming Your Systems With](https://www.reddit.com/r/programming/comments/lvwuda/why_ada_is_the_language_you_want_to_be/)
+
+
+> Why Ada Is The Language You Want To Be Programming Your Systems With
+
+
+***
+![Twitter to boot users who persist with Covid-19 lies](https://media2.malaymail.com/resize_cache/uploads/articles/twitter_logo_phones_10042013-seo.JPG "Twitter to boot users who persist with Covid-19 lies")
+
+
+[Twitter to boot users who persist with Covid-19 lies](https://www.malaymail.com/news/tech-gadgets/2021/03/02/twitter-to-boot-users-who-persist-with-covid-19-lies/1954183)
+
+
+> Twitter users will be notified when a tweet is labeled as misleading or needs to be removed for breaking the platform's rules, earning a strike, according to the company. — Reuters pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, March 2 — Twitter said yesterday it will start labeling misleading tweets about Covid-19 vaccines and boot users who persist in spreading such misinformation. The one-to-many messaging service introduced a 'strike system' that will gradually escalate to a permanent ban after the fifth offending tweet.
+
+
+***
+![Xiaomi's Redmi Note 10 series will come with AMOLED display](https://images.indianexpress.com/2021/03/redminote10.jpg "Xiaomi's Redmi Note 10 series will come with AMOLED display")
+
+
+[Xiaomi's Redmi Note 10 series will come with AMOLED display](https://indianexpress.com/article/technology/mobile-tabs/redmi-note-10-series-super-amoled-display-specs-confirmed-7210747/)
+
+
+> Xiaomi's Redmi Note 10 series will have at least one phone which sports an  AMOLED display. The key specification was confirmed by Xiaomi's India managing director Manu Kumar Jain on Twitter. The confirmation comes just two days ahead of the release of budget mid-range devices. This is the first time the Redmi Note series will feature an AMOLED display. A few days earlier, leaked images of Redmi Note 10 by Xiaomi Leaks Ph on Facebook suggested that the phone will have a 6.43-inch AMOLED display. Along with the display, the leaked photo of Redmi Note 10's retail box also revealed that it will be powered by Qualcomm Snapdragon 678 processor.
+
+
