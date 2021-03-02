@@ -36370,3 +36370,53 @@
 > (Image credit: XanderSt / Shutterstock) Popular streaming service Netflix has shared details about its new backend platform, which should allow it to support more programming and millions more users worldwide. Dubbed Cosmos, the new system homogenizes media coming in from the different studios to make sure it can all be streamed across all platforms and devices, shares Netflix senior software engineer Frank San Miguel.Cosmos replaces the previous architecture called Reloaded, which served the platform for the past seven years.
 
 
+***
+![Practus LLP Announces That the First Mutual Fund to ETF Conversion on Behalf of SmartETFs is Underway](https://mms.businesswire.com/media/20210302005884/en/862494/23/Practus_Logo.jpg "Practus LLP Announces That the First Mutual Fund to ETF Conversion on Behalf of SmartETFs is Underway")
+
+
+[Practus LLP Announces That the First Mutual Fund to ETF Conversion on Behalf of SmartETFs is Underway](https://www.businesswire.com/news/home/20210302005884/en/Practus-LLP-Announces-That-the-First-Mutual-Fund-to-ETF-Conversion-on-Behalf-of-SmartETFs-is-Underway)
+
+
+> March 02, 2021 11:13 AM Eastern Standard Time WASHINGTON--(BUSINESS WIRE)--Practus, LLP, a virtual law firm with an innovative approach to client service and cutting-edge legal work, today announced the effectiveness of certain filings with the Securities and Exchange Commission that will allow for the first ever mutual fund to exchange-traded-fund (ETF) conversion on behalf of client Guinness Atkinson Asset Management and SmartETFs, its family of exchange-traded funds. It is anticipated that the transactions will be completed on or about March 26, 2021.
+
+
+***
+![Fairbanks Morse Delivers Four Common Rail Technology Engines for USS John L. Canley](https://mms.businesswire.com/media/20210302005877/en/862613/23/fbm_logo_2.jpg "Fairbanks Morse Delivers Four Common Rail Technology Engines for USS John L. Canley")
+
+
+[Fairbanks Morse Delivers Four Common Rail Technology Engines for USS John L. Canley](https://www.businesswire.com/news/home/20210302005877/en/Fairbanks-Morse-Delivers-Four-Common-Rail-Technology-Engines-for-USS-John-L.-Canley)
+
+
+> March 02, 2021 11:10 AM Eastern Standard Time BELOIT, Wis.--(BUSINESS WIRE)--Fairbanks Morse, a portfolio company of Arcline Investment Management and a leading provider of solutions that are powering the world forward, recently delivered four FM 6L48/60CR engines to General Dynamics NASSCO in San Diego for Military Sealift Command on the USS John L. Canley (ESB 6). The ship is the sixth in the U.S. Navy's Military Sealift Command Expeditionary Transfer Dock (ESD)/Expeditionary Sea Base (ESB) program and is designed to serve as a mobile sea base that provides access to critical infrastructure for the deployment of forces and supplies.
+
+
+***
+![Insigneo to Move Into Transformed Brickell Penthouse Offices](https://mms.businesswire.com/media/20210302005879/en/862608/23/Insigneo_Building.jpg "Insigneo to Move Into Transformed Brickell Penthouse Offices")
+
+
+[Insigneo to Move Into Transformed Brickell Penthouse Offices](https://www.businesswire.com/news/home/20210302005879/en/Insigneo-to-Move-Into-Transformed-Brickell-Penthouse-Offices)
+
+
+> March 02, 2021 11:10 AM Eastern Standard Time MIAMI--(BUSINESS WIRE)--Insigneo, the Miami-based Independent Broker-Dealer and Registered Investment Advisory firm, has signed a new lease and will move its headquarters to 1221 Brickell Avenue in the heart of Miami's financial district. The building will bear the company's name and new logo. The offices will reside on the penthouse of the class-A building, and the floor below it, representing a total of more than 27,047 square feet. This move comes while the company is experiencing a strong period of sustained growth, at a very rapid pace.
+
+
+***
+![Kansas Real Estate Appraisal Board Launches Redesigned Website](https://mms.businesswire.com/media/20210302005878/en/862640/23/KREAB-bl_logo-2.jpg "Kansas Real Estate Appraisal Board Launches Redesigned Website")
+
+
+[Kansas Real Estate Appraisal Board Launches Redesigned Website](https://www.businesswire.com/news/home/20210302005878/en/Kansas-Real-Estate-Appraisal-Board-Launches-Redesigned-Website)
+
+
+> March 02, 2021 11:10 AM Eastern Standard Time TOPEKA, Kan.--(BUSINESS WIRE)--The Kansas Real Estate Appraisal Board has announced the launch of its newly redesigned website, https://kreab.kansas.gov. The new site has a completely updated look and feel as well as enhanced capabilities. The site will continue to offer the same helpful content to users. 'Our organization is pleased with the new look and function of our website,' said Sally Pritchett, Kansas Real Estate Appraisal Board Executive Director.
+
+
+***
+![Twitter Will Enforce a 'Strike System' Against Coronavirus Vaccine 'Misinformation'](https://media.breitbart.com/media/2021/01/Dorsey.png "Twitter Will Enforce a 'Strike System' Against Coronavirus Vaccine 'Misinformation'")
+
+
+[Twitter Will Enforce a 'Strike System' Against Coronavirus Vaccine 'Misinformation'](https://www.breitbart.com/tech/2021/03/02/twitter-will-enforce-a-strike-system-against-coronavirus-vaccine-misinformation/)
+
+
+> Social media giant Twitter announced this week that it will begin labeling tweets that share 'misleading information' about the coronavirus vaccine and will implement a strike system for repeat offenders of the 'misinformation policy.' The Verge reports that Twitter announced on Monday that it will begin labeling tweets that share what the company decides is misleading information about coronavirus vaccines. The labels will link to relevant information from government bodies such as the Centers for Disease Control and Prevention and a system allowing for five strikes will be implemented for users that repeatedly violate its misinformation policies.
+
+
