@@ -36470,3 +36470,47 @@
 > Although we haven't officially seen Starfield in nearly two years, there's still a lot to be excited about. Not only is it Bethesda's first self-developed title not in the Fallout or Elder Scrolls franchises, but it finally gives Todd Howard the ability to create something unlike anything we've seen before.After the release of Fallout 76, Bethesda went through a bit of a rough patch. Starfield has the potential to restore the company's reputation and at just the right time considering the massive hype revolving around The Elder Scrolls 6.
 
 
+***
+[Intel ordered to pay $2.18B after a federal court jury in TX found it infringed two patents once owned by NXP Semiconductors and now owned by VLSI Technology (Bloomberg)](http://www.techmeme.com/210302/p31#a210302p31)
+
+
+> Bloomberg: Intel ordered to pay $2.18B after a federal court jury in TX found it infringed two patents once owned by NXP Semiconductors and now owned by VLSI Technology — - Intel had claimed royalty demands of VLSI were ‘outrageous’ — NXP would get a share of any damage award, Intel lawyer said
+
+
+***
+![Top 10 Best Samsung Galaxy S20 Cases – Updated March 2021](https://www.androidheadlines.com/wp-content/uploads/2020/03/best-galaxy-s20-cases-AH.png "Top 10 Best Samsung Galaxy S20 Cases – Updated March 2021")
+
+
+[Top 10 Best Samsung Galaxy S20 Cases – Updated March 2021](https://www.androidheadlines.com/best-samsung-galaxy-s20-cases)
+
+
+> The Galaxy S20 is a fragile and expensive phone. Starting at $999 and being essentially a glass sandwich. Which means that you're going to need some protection for this new smartphone. There are a ton of cases available for the Galaxy S20 already, with more coming in the next few weeks. We've rounded up the cases that are the absolute best for the Galaxy S20 right now.Top 10 Best Samsung Galaxy S20 CasesFrom flip cases, to leather folios, to TPU cases, we've got everything you might need for your Galaxy S20 right here.
+
+
+***
+![Newegg is First to Offer the Intel 670p SSD to Customers in the United States](https://mms.businesswire.com/media/20210302006066/en/862705/23/Intel-SSD.jpg "Newegg is First to Offer the Intel 670p SSD to Customers in the United States")
+
+
+[Newegg is First to Offer the Intel 670p SSD to Customers in the United States](https://www.businesswire.com/news/home/20210302006066/en/Newegg-is-First-to-Offer-the-Intel-670p-SSD-to-Customers-in-the-United-States)
+
+
+> March 02, 2021 02:57 PM Eastern Standard Time LOS ANGELES--(BUSINESS WIRE)--Newegg, one of the leading tech-focused e-retailers in North America, became the first to offer Intel's new 670p SSD to customers in the United States. Newegg was the only U.S. partner to sell Intel's new 144-layer QLC SSD at launch. 'Being the first to sell the 670p SSD in the U.S. is the latest milestone in our longstanding partnership with Intel,' said Anthony Chow, Global CEO of Newegg. 'Our customers value having access to the latest technology, and we appreciate that Intel entrusted Newegg to get this great new SSD in the hands of eager consumers in the U.
+
+
+***
+![5 Painfully Relatable Programming Memes on The Internet (March 2021)](https://external-preview.redd.it/zhSSItlZheJZVvmawqOAy4yX_1Lw9pl8ybopVl_GWeU.jpg?auto=webp&s=5119b9b707e2d4140bbc1074f9834cd694659763 "5 Painfully Relatable Programming Memes on The Internet (March 2021)")
+
+
+[5 Painfully Relatable Programming Memes on The Internet (March 2021)](https://www.reddit.com/r/programming/comments/lwayjf/5_painfully_relatable_programming_memes_on_the/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Gold higher but the bounce has a dead-cat flavour](https://www.forexlive.com/technical-analysis/!/gold-higher-but-the-bounce-has-a-dead-cat-flavour-20210302)
+
+
+> Gold up $10 on the day Is anything more hated than gold right now? Sentiment has turned wildly against the shiny stuff as bitcoin and other high-flying cryptocurrencies steal its luster. Add in the technical break below the November lows and it's tough to find a short-term bull.
+
+
