@@ -35985,3 +35985,53 @@
 > AWS launched the DeepRacer League in 2018 as a fun way to teach developers machine learning, and it's been building on the idea ever since. Today, it announced the latest league season with two divisions: Open and Pro. As Marcia Villalba wrote in a blog post announcing the new league, 'AWS DeepRacer is an autonomous 1/18th scale race car designed to test [reinforcement learning] models by racing virtually in the AWS DeepRacer console or physically on a track at AWS and customer events. AWS DeepRacer is for developers of all skill levels, even if you don't have any ML experience.
 
 
+***
+![Fortnite: From piano player to pro gamer](https://ichef.bbci.co.uk/news/1024/branded_news/176F9/production/_117339959_newteam_33_gaming_joseph_deen.jpg "Fortnite: From piano player to pro gamer")
+
+
+[Fortnite: From piano player to pro gamer](https://www.bbc.com/news/technology-56239242)
+
+
+> By Joe TidyCyber reporter image captionEight-year-old Joseph Deen from California is the youngest-ever professional Fortnite playerThe highlight of most children's eighth birthday is blowing out the candles on their cake.However, for Joseph Deen, it was blowing the ink dry on his freshly-signed contract to be a professional gamer.Joseph is the youngest-ever paid Fortnite player, after signing with Team 33 in December last year.The Californian esports team invited him to their headquarters to give him a $33,000 (£23,600) signing-on bonus, and high-speed computer system.
+
+
+***
+![Fortnite: From piano player to pro gamer](https://ichef.bbci.co.uk/news/1024/branded_news/176F9/production/_117339959_newteam_33_gaming_joseph_deen.jpg "Fortnite: From piano player to pro gamer")
+
+
+[Fortnite: From piano player to pro gamer](https://www.bbc.co.uk/news/technology-56239242)
+
+
+> By Joe TidyCyber reporter image captionEight-year-old Joseph Deen from California is the youngest-ever professional Fortnite playerThe highlight of most children's eighth birthday is blowing out the candles on their cake.However, for Joseph Deen, it was blowing the ink dry on his freshly-signed contract to be a professional gamer.Joseph is the youngest-ever paid Fortnite player, after signing with Team 33 in December last year.The Californian esports team invited him to their headquarters to give him a $33,000 (£23,600) signing-on bonus, and high-speed computer system.
+
+
+***
+![Twitter will label misleading COVID-19 vaccines posts](https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/02/85b5de5a-ecf8-4e57-9254-6a71f9ada1c1/thumbnail/1200x630/951f56069e658a163c9fc578803ba8b6/twitter-misleading-posts-2021-03-01.png "Twitter will label misleading COVID-19 vaccines posts")
+
+
+[Twitter will label misleading COVID-19 vaccines posts](https://www.cbsnews.com/news/twitter-labels-covid-19-vaccine-misinformation/)
+
+
+> By Musadiq Bidar March 1, 2021 / 7:06 PM / CBS News Twitter announced Monday that it will begin applying labels to tweets that include misleading information about COVID-19 vaccines and is introducing a strike policy to curb users from repeatedly violating those rules. In an effort to root out misinformation surrounding the coronavirus from its platform, Twitter said the labels will first be applied by human moderators. But the goal is to eventually use both humans and artificial intelligence to address content that spreads COVID-19 vaccine misinformation.
+
+
+***
+![Where to get face masks, cleaning wipes and other household essentials for less](https://www.gannett-cdn.com/-mm-/84782def0a8168006e51cc1bbaed01bd1f204c58/c=0-38-724-445/local/-/media/2021/02/25/USATODAY/usatsports/MotleyFool-TMOT-f254964b-34a560f0.jpg?width=724&height=407&fit=crop&format=pjpg&auto=webp "Where to get face masks, cleaning wipes and other household essentials for less")
+
+
+[Where to get face masks, cleaning wipes and other household essentials for less](https://www.usatoday.com/story/tech/reviewedcom/2021/03/01/household-essentials-get-toilet-paper-face-masks-and-more-sale/6874625002/)
+
+
+> Save on cleaning supplies and household essentials. (Photo: Getty Images)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.In the height of the COVID-19 pandemic, basic household essentials, such as toilet paper and disposable gloves, were nearly impossible to find—and, if you managed to spot them, prices were often hiked up due to high demand. While the panic for these items gradually lessened over time as production caught up and states began to roll out vaccinations, it's still important to have certain necessities, such as face masks and hand sanitizer, on deck.
+
+
+***
+![Tuesday Daily Thread: Advanced questions](https://external-preview.redd.it/8lGJXaQoY6hm0yzDNsG2yzAE7FYF_iP0iW_mCsRiqLk.jpg?auto=webp&s=0c1985f1543fe7a14d14311c2652d980005ef82b "Tuesday Daily Thread: Advanced questions")
+
+
+[Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/lvongh/tuesday_daily_thread_advanced_questions/)
+
+
+> Have some burning questions on advanced Python topics? Use this thread to ask more advanced questions related to Python. If your question is a beginner question we hold a beginner Daily Thread tomorrow (Wednesday) where you can ask any question! We may remove questions here and ask you to resubmit tomorrow. This thread may be fairly low volume in replies, if you don't receive a response we recommend looking at r/LearnPython or joining the Python Discord server at https://discord.gg/python where you stand a better chance of receiving a response.
+
+
