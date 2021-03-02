@@ -36420,3 +36420,53 @@
 > Social media giant Twitter announced this week that it will begin labeling tweets that share 'misleading information' about the coronavirus vaccine and will implement a strike system for repeat offenders of the 'misinformation policy.' The Verge reports that Twitter announced on Monday that it will begin labeling tweets that share what the company decides is misleading information about coronavirus vaccines. The labels will link to relevant information from government bodies such as the Centers for Disease Control and Prevention and a system allowing for five strikes will be implemented for users that repeatedly violate its misinformation policies.
 
 
+***
+![Does Marshall's new portable bluetooth speaker live up to the brand's reputation? We find out](https://static.independent.co.uk/2021/02/22/09/marshall%20emberton%20.jpg?width=1200&auto=webp&quality=75 "Does Marshall's new portable bluetooth speaker live up to the brand's reputation? We find out")
+
+
+[Does Marshall's new portable bluetooth speaker live up to the brand's reputation? We find out](https://www.independent.co.uk/extras/indybest/gadgets-tech/audio/marshall-emberton-portable-bluetooth-speaker-b1805474.html)
+
+
+> The most famous scene from spoof 'rockumentary'This Is Spinal Tap focusses on guitarist Nigel Tufnel, who shows the documentary maker a Marshall amp that, instead of the usual zero to 10, has volume knobs that are marked up to 11. Nigel can't process that the sound is the same as other amps, just without the normal 0-10 settings – to him, that extra notch shows the amp's superiority: 'It's one louder, isn't it?'Marshall, a go-to name in professional-level sound, is superior regardless of an extra volume notch.
+
+
+***
+![The best PS5 and PS5 games you can play online without PlayStation Plus](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/genshin-impact-character-banner.jpg "The best PS5 and PS5 games you can play online without PlayStation Plus")
+
+
+[The best PS5 and PS5 games you can play online without PlayStation Plus](https://www.androidcentral.com/best-playstation-4-games-you-can-play-online-without-playstation-plus)
+
+
+> Source: miHoYo While PlayStation Plus is usually a requirement to play online multiplayer, there are notable exceptions to this rule. Most free-to-play games allow people to enjoy online multiplayer matches without needing to be active PlayStation Plus subscribers. If you're wondering which games fall into this category, we've created a list of some of the best online games you can play without PS Plus. Should you want to see the full list of free-to-play games offered on PS4 and PS5, Sony has an entire section of its store dedicated to just that.
+
+
+***
+![Deals: Get Apple's Newest iPad Air Models for $50 Off, Starting at $549 for 64GB Wi-Fi](https://images.macrumors.com/article-new/2021/01/iPad-Air-50-Off-Feature.jpg "Deals: Get Apple's Newest iPad Air Models for $50 Off, Starting at $549 for 64GB Wi-Fi")
+
+
+[Deals: Get Apple's Newest iPad Air Models for $50 Off, Starting at $549 for 64GB Wi-Fi](https://www.macrumors.com/2021/03/02/deals-ipad-air-50-off/)
+
+
+> Apr 12, 2001 51,515 13,147 The 2020 iPad Air has a few discounts on Amazon and B&H Photo this week, starting at $549.00 for the 64GB Wi-Fi model. We've seen this device go lower to about $539.00 in past sales, but today's price tag is far more common and still a solid $50 discount on the latest iPad Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. For the 256GB Wi-Fi model, you'll find this device priced at $699.
+
+
+***
+![Hi i'm looking for dedicated & friendly english nativer who can help me to get expert me on below skills simulteniously. I can discover myself i never be skilled without partner who has same interest on!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Hi i'm looking for dedicated & friendly english nativer who can help me to get expert me on below skills simulteniously. I can discover myself i never be skilled without partner who has same interest on!")
+
+
+[Hi i'm looking for dedicated & friendly english nativer who can help me to get expert me on below skills simulteniously. I can discover myself i never be skilled without partner who has same interest on!](https://www.reddit.com/r/programming/comments/lw88q2/hi_im_looking_for_dedicated_friendly_english/)
+
+
+> Hi i'm looking for dedicated & friendly english nativer who can help me to get expert me on below skills simulteniously. I can discover myself i never be skilled without partner who has same interest on!
+
+
+***
+![Starfield: Release date, setting, gameplay and more](https://cdn.mos.cms.futurecdn.net/5RwdQZx36YqxhMXNMpuwj9-1200-80.jpg "Starfield: Release date, setting, gameplay and more")
+
+
+[Starfield: Release date, setting, gameplay and more](https://www.laptopmag.com/news/starfield-release-date-setting-gameplay-and-more)
+
+
+> Although we haven't officially seen Starfield in nearly two years, there's still a lot to be excited about. Not only is it Bethesda's first self-developed title not in the Fallout or Elder Scrolls franchises, but it finally gives Todd Howard the ability to create something unlike anything we've seen before.After the release of Fallout 76, Bethesda went through a bit of a rough patch. Starfield has the potential to restore the company's reputation and at just the right time considering the massive hype revolving around The Elder Scrolls 6.
+
+
