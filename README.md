@@ -36035,3 +36035,50 @@
 > Have some burning questions on advanced Python topics? Use this thread to ask more advanced questions related to Python. If your question is a beginner question we hold a beginner Daily Thread tomorrow (Wednesday) where you can ask any question! We may remove questions here and ask you to resubmit tomorrow. This thread may be fairly low volume in replies, if you don't receive a response we recommend looking at r/LearnPython or joining the Python Discord server at https://discord.gg/python where you stand a better chance of receiving a response.
 
 
+***
+![I want to use Python commercially for free. Is Miniconda the best way to go (as opposed to Anaconda)?](https://external-preview.redd.it/82u25n7GqLt8KDGNHNBMAAueziSlogiAmCOiuDpG6fY.jpg?auto=webp&s=838875fa62852fe3431ce5a7d926c5e09f1252f2 "I want to use Python commercially for free. Is Miniconda the best way to go (as opposed to Anaconda)?")
+
+
+[I want to use Python commercially for free. Is Miniconda the best way to go (as opposed to Anaconda)?](https://www.reddit.com/r/Python/comments/lvr85n/i_want_to_use_python_commercially_for_free_is/)
+
+
+> My interpretation of the Anaconda Terms of Service is that if you're at a for-profit organization with 200 or more staff members, you need to pay for Anaconda. Therefore, I am interested in replacing Anaconda, which I installed for my school's Python class, with an alternative setup. I plan to potentially use Python for data science work, along with some individual programming projects. Would Miniconda be the best way to go? Or would Miniforge be a good alternative? I guess I'm concerned that I will accidentally install something through Miniconda that would then require me to pay for Anaconda, although this concern may be unfounded.
+
+
+***
+[三洋化成 10 月量產不易起火的全樹脂電池，拚 23 年轉盈](https://technews.tw/2021/03/02/sanyo-chemical-plans-to-mass-produce-all-resin-batteries/)
+
+
+> 三洋化成工業（Sanyo Chemical Industries）計畫在今年 10 月開始量產不易起火的次世代 […]
+
+
+***
+![First car to get zero-star safety score](https://content.api.news/v3/images/bin/606697fc8c011fce6bd79c56c67a9c69 "First car to get zero-star safety score")
+
+
+[First car to get zero-star safety score](https://www.news.com.au/technology/motoring/motoring-news/shock-crash-test-result-for-mitsubishi-express-van/news-story/b1c9754323e065ac75cefc19a2ce1d09)
+
+
+> A household brand slapped with first zero-star review by Australian crash testing organisation, suggesting a 'high risk of injury' in a crash.Mitsubishi says it has no plans to stop sales of the first car to receive a zero-star safety score in Australia.The Australasian New Car Assessment Program (ANCAP) responsible for independent crash tests of new vehicles says the Mitsubishi Express van is the first car to fail to score a single star in its local test program.The result could rule the van out of contention for corporate fleets increasingly focused on strong safety scores, prompting the automotive industry to question ANCAP's approach.
+
+
+***
+![Springbox AI: The AI App That Trades For You](https://external-preview.redd.it/_lgvblzpFZZxHtcFf1zi412Qj84mo-O_TPj_wAwAEBI.jpg?auto=webp&s=7b41526a710144c0b93a12a4d6f411a59a07eeb5 "Springbox AI: The AI App That Trades For You")
+
+
+[Springbox AI: The AI App That Trades For You](https://www.reddit.com/r/programming/comments/lvqzp0/springbox_ai_the_ai_app_that_trades_for_you/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Virtual Study Zoom for learners who need accountability and productivity while coding at home alone~(Password: selfstudy)](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Virtual Study Zoom for learners who need accountability and productivity while coding at home alone~(Password: selfstudy)")
+
+
+[Virtual Study Zoom for learners who need accountability and productivity while coding at home alone~(Password: selfstudy)](https://www.reddit.com/r/programming/comments/lvqzjt/virtual_study_zoom_for_learners_who_need/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
