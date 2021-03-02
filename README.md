@@ -36279,3 +36279,44 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+[Laptops, tablets and connectivity progress data during the coronavirus (COVID-19) outbreak](https://www.gov.uk/government/collections/laptops-and-tablets-progress-data-during-the-coronavirus-covid-19-outbreak)
+
+
+> Information about how many laptops, and tablets and 4G routers we have delivered or dispatched to local authorities, and academy trusts and FE colleges.
+
+
+***
+[Laptops and tablets progress data as of 2 March 2021](https://www.gov.uk/government/statistics/laptops-and-tablets-progress-data-as-of-2-march-2021)
+
+
+> Information about how many laptops and tablets that have been delivered or dispatched to local authorities and academy trusts.
+
+
+***
+![You'll be blocked from WhatsApp if you don't accept new terms and privacy policy](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/02/whatsapp-terms.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "You'll be blocked from WhatsApp if you don't accept new terms and privacy policy")
+
+
+[You'll be blocked from WhatsApp if you don't accept new terms and privacy policy](https://www.thescottishsun.co.uk/tech/6760095/whatsapp-block-privacy-terms-condition/)
+
+
+> WHATSAPP is having another go at getting ALL users to accept controversial new privacy terms. It follows a disastrous first attempt that saw millions of users download rival chat apps – with many deleting WhatsApp altogether. This is the new pop-up you'll see very soonCredit: Facebook / WhatsApp Users now have until May 15 this year to click "Accept", or face being locked out of their WhatsApp accounts. The new terms are related to messaging with businesses – but were poorly explained. Even WhatsApp admitted that they were far too confusing, and pushed back the "Accept" deadline from February to May.
+
+
+***
+![Amazon changes its logo AGAIN after it was trolled for ‘looking like Adolf Hitler'](https://www.the-sun.com/wp-content/uploads/sites/6/2021/01/D-_Users_CHooper1_Desktop_PSD-COMPS_COMP-CH-TWIN-HITLER-AMAZON.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Amazon changes its logo AGAIN after it was trolled for ‘looking like Adolf Hitler'")
+
+
+[Amazon changes its logo AGAIN after it was trolled for ‘looking like Adolf Hitler'](https://www.the-sun.com/lifestyle/tech/2433183/amazon-new-logo-hitler-design-iphone/)
+
+
+> AMAZON has changed its logo AGAIN after it was trolled for "looking like Adolf Hitler". The new design is tweaked to remove any similarity to former Nazi chief. Amazon's revamped logo looked like the smile and trimmed moustache of Hitler, according to social media jokestersCredit: The Sun Amazon's mobile logo has looked rubbish for years, so a new version was rolled out in January. The image was meant to resemble one of the US shopping giant's brown delivery boxes emblazoned with its "smile" logo.
+
+
+***
+[Amazon changes its logo AGAIN after it was trolled for ‘looking like Adolf Hitler'](https://www.thesun.ie/tech/6642888/amazon-new-logo-hitler-design-iphone/)
+
+
+> AMAZON has changed its logo AGAIN after it was trolled for “looking like Adolf Hitler”. The new design is tweaked to remove any similarity to former Nazi chief. Amazon’s mobile logo has looked rubbish for years, so a new version was rolled out in January. The image was meant to resemble one of the US […]
+
+
