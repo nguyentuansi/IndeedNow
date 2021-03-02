@@ -36320,3 +36320,53 @@
 > AMAZON has changed its logo AGAIN after it was trolled for “looking like Adolf Hitler”. The new design is tweaked to remove any similarity to former Nazi chief. Amazon’s mobile logo has looked rubbish for years, so a new version was rolled out in January. The image was meant to resemble one of the US […]
 
 
+***
+![Google announces new features so workers at home don't lose out if colleagues return to the office](https://static.independent.co.uk/2021/03/02/13/Google%20workplace.jpg?width=1200&auto=webp&quality=75 "Google announces new features so workers at home don't lose out if colleagues return to the office")
+
+
+[Google announces new features so workers at home don't lose out if colleagues return to the office](https://www.independent.co.uk/life-style/gadgets-and-tech/google-workplace-home-office-new-features-b1810476.html)
+
+
+> Google is adding a range of new features to its Google Workspace functions, in order to ensure its users can continue to access its products in a post-pandemic world where many continue to work remotely.Google says the tools and features are to help people manage their time better and 'collaborate equally'. This includes more Google Assistant functionality, so the voice-controlled tool can tell users what is next in their work calendar, join meetings, and send messages on mobile devices, smart speakers, and smart displays - although functionality for the latter two currently remains in beta.
+
+
+***
+![NFTs: How celebrities sell ‘crypto digital artworks' for millions](https://static.independent.co.uk/2021/03/02/11/cryptocurrency-3085139_1920.jpg?width=1200&auto=webp&quality=75 "NFTs: How celebrities sell ‘crypto digital artworks' for millions")
+
+
+[NFTs: How celebrities sell ‘crypto digital artworks' for millions](https://www.independent.co.uk/life-style/gadgets-and-tech/nft-fungible-token-digital-artwork-cryptocurrency-b1810338.html)
+
+
+> Grimes, Beeple, Logan Paul, the creator of Nyan Cat, and many other artists and celebrities are making huge amounts of money selling the ownership of digital images.Grimes sold 10 images of digital artwork, the most expensive for nearly $400,000, to someone who wanted ownership of the online goods. These artworks are called NFTs, or 'non-fungible tokens', and they exist on a similar blockchain technology to bitcoin as a way to prove 'ownership' of them. On an internet built on spreading images for free over social media platforms, the idea of tying ownership to a specific, single image that one did not create is peculiar- but it is not new.
+
+
+***
+![Oppo Band price in India, launch date, and features and more](https://cdn.mos.cms.futurecdn.net/q7aDQYzyqypSd5tYJWvVsj-1200-80.jpg "Oppo Band price in India, launch date, and features and more")
+
+
+[Oppo Band price in India, launch date, and features and more](https://www.techradar.com/news/oppo-band-india)
+
+
+> Oppo Band India launch is expected to happen sometime during March or early April. The Oppo Band will be the company's first budget fitness tracker and will be its second smart wearable after the Oppo Watch from 2020. Although Oppo as a brand is known for its smartphones, 2020 was the year when Oppo aced in the audio segment. The company launched the Oppo W11, W31, and W51 true wireless earbuds and Enco M31 back in 2020. And, all of them were pretty impressive in their price segments. Oppo started 2021 with a bang by launching the Oppo Enco X.
+
+
+***
+![LA musician helped NASA mic up Mars rover, record first sounds of the red planet](https://www.krqe.com/wp-content/uploads/sites/12/2021/03/IMG_7104-1.jpg?w=1280 "LA musician helped NASA mic up Mars rover, record first sounds of the red planet")
+
+
+[LA musician helped NASA mic up Mars rover, record first sounds of the red planet](https://ktla.com/morning-news/technology/jason-achilles-mezilis-mars-2020-perseverance-rover-musician-microphone/)
+
+
+> LOS ANGELES (KTLA) — It is the Martian breeze heard around the world. 'That little puff of wind is what saved the day, because that's the actual sound of the planet,' explained Jason Achilles Mezilis, an L.A.-based musician and NASA consultant. For the first time, a Mars rover captured audio from the red planet 'and it worked, which is amazing,' added Mezilis. NASA · Sounds From Mars: Filters Out Rover Self-Noise Mezilis is part of the team that made the recording possible, thanks to his own perseverance landing him a spot on the rover's audio team.
+
+
+***
+![Netflix has got a major tech upgrade to deal with a huge rise in viewers](https://cdn.mos.cms.futurecdn.net/29JVQAGDEvq3KWiMCSXXa6-1200-80.jpg "Netflix has got a major tech upgrade to deal with a huge rise in viewers")
+
+
+[Netflix has got a major tech upgrade to deal with a huge rise in viewers](https://www.techradar.com/news/netflix-has-got-a-major-tech-upgrade-to-deal-with-a-huge-rise-in-viewers)
+
+
+> (Image credit: XanderSt / Shutterstock) Popular streaming service Netflix has shared details about its new backend platform, which should allow it to support more programming and millions more users worldwide. Dubbed Cosmos, the new system homogenizes media coming in from the different studios to make sure it can all be streamed across all platforms and devices, shares Netflix senior software engineer Frank San Miguel.Cosmos replaces the previous architecture called Reloaded, which served the platform for the past seven years.
+
+
