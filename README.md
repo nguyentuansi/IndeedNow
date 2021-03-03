@@ -36795,3 +36795,50 @@
 > (Image credit: Mi.com) We've been waiting for the launch of the Poco F2 since 2018. While that may never happen, we might get to see another similarly high-end flagship from the brand in the form of the Poco F3. Here's everything you need to know about it.The Poco F1 was launched in India in 2018 by Xiaomi at a very competitive price. It was well-received by critics and fans alike, generating a lot of interest in how its successor would follow up. But in the years to come, the now-independent sub-brand only focussed on budget smartphones in India.
 
 
+***
+[PUBG Update: PUBG New State game may launch in India? Details here](https://www.zeebiz.com/technology/apps/news-pubg-update-pubg-new-state-game-may-launch-in-india-details-here-151516)
+
+
+> The PUBG Mobile New State trailer shows some gameplay, graphics, and some new mechanics that will be available in the game. PUBG: New State is set in the year 2051 and brings new vehicles, weapons, new map, and more. This game is also up for pre-registration.
+
+
+***
+![Man claims iPhone X exploded in his pocket, sues Apple for second-degree burns](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/burnt_iphone_7news-483x271_1200_210303153502.jpeg "Man claims iPhone X exploded in his pocket, sues Apple for second-degree burns")
+
+
+[Man claims iPhone X exploded in his pocket, sues Apple for second-degree burns](https://www.businesstoday.in/technology/man-claims-iphone-x-exploded-in-his-pocket-sues-apple-for-second-degree-burns/story/432885.html)
+
+
+> Highlights A Melbourne-based man has alleged the iPhone X exploded in his pocket. The explosion caused second-degree burns to his leg. Apple spokesperson said the matter is being investigated. An iPhone user based in Australia is suing Apple over the allegations that his iPhone X exploded in his pocket, seeking damages. The man claims that the iPhone X began to warm, causing pain in his leg, followed by a fizzing sound that hinted to him the phone had exploded. He has alleged that the explosion caused him second-degree burns, for which he is now demanding compensation from Apple.
+
+
+***
+![Panclus the multipurpose module.](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Panclus the multipurpose module.")
+
+
+[Panclus the multipurpose module.](https://www.reddit.com/r/Python/comments/lwqb0j/panclus_the_multipurpose_module/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Fintech adoption: How startups have impacted banking, financial services, insurance in India so far](https://images.financialexpress.com/2021/02/1-243.jpg "Fintech adoption: How startups have impacted banking, financial services, insurance in India so far")
+
+
+[Fintech adoption: How startups have impacted banking, financial services, insurance in India so far](https://www.financialexpress.com/industry/sme/cafe-sme/fintech-adoption-how-startups-have-impacted-banking-financial-services-insurance-in-india-so-far/2205519/)
+
+
+> Over the years, fintech players seem to be foraying into other domains such as insurance, and wealth management.There is no denying the fact that fintech players have disrupted the Banking, financial services and insurance (BFSI) sector by storm, and it is only a starting phase. Concepts like paperless lending, mobile-first banking, secure payment gateways, mobile wallets, etc. are not a distant future anymore, it's already happening. Thanks to fintech startups for understanding consumer requirements and serving them more seamlessly than ever before.
+
+
+***
+![How to delete my Twitter account](https://www.the-sun.com/wp-content/uploads/sites/6/2020/06/NINTCHDBPICT000399554521-1-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "How to delete my Twitter account")
+
+
+[How to delete my Twitter account](https://www.the-sun.com/lifestyle/tech/2439694/how-to-delete-twitter-account/)
+
+
+> PEOPLE wishing to wave goodbye to Twitter can delete their profile in a matter of minutes. It's an easy process - but how do you go about it? Deleting Twitter is easy - but you have to deactivate it firstCredit: Alamy How do I delete my Twitter account? Before your Twitter account can be permanently deleted, it has to be deactivated. To do this, simply sign into your account and click on the three-dotted-button in the bottom left-hand corner of your screen. Then click on the 'Settings and privacy' tab and choose Deactivate account.
+
+
