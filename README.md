@@ -36561,3 +36561,53 @@
 > No body in the article.
 
 
+***
+![Exploring Hotwire, the new approach to building responsive web applications](https://external-preview.redd.it/-sys30IWxeqJXn6LAsVKk6mIrcPQeGolo0_0Csg7H6k.jpg?auto=webp&s=8e447fce4a676f4c917a54dd83289e9c2ad6daa9 "Exploring Hotwire, the new approach to building responsive web applications")
+
+
+[Exploring Hotwire, the new approach to building responsive web applications](https://www.reddit.com/r/programming/comments/lwgem7/exploring_hotwire_the_new_approach_to_building/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![‘We Score': The app that lets you follow the football match while at the wheel](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-03/20210303_Volkswagen_app_Football_ETX-seo.jpg "‘We Score': The app that lets you follow the football match while at the wheel")
+
+
+[‘We Score': The app that lets you follow the football match while at the wheel](https://www.malaymail.com/news/tech-gadgets/2021/03/03/we-score-the-app-that-lets-you-follow-the-football-match-while-at-the-wheel/1954386)
+
+
+> Volkswagen presents the ‘We Score' app, keeping football fans on the ball while driving. — Picture courtesy of Volkswagen Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, March 3 — Volkswagen presents 'We Score,' a new application aimed at football fans. The app lets fans follow football news in real time and get live goal alerts for their favourite teams with minimal distraction, while they're at the wheel. The app is currently available to owners of the latest Golf model.
+
+
+***
+![PS5 UK stock updates – Argos and GAME could sell Playstations TODAY' plus how to get consoles at Currys, Very and Smyths](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/02/TOB-PS5-1200x1200-3.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 UK stock updates – Argos and GAME could sell Playstations TODAY' plus how to get consoles at Currys, Very and Smyths")
+
+
+[PS5 UK stock updates – Argos and GAME could sell Playstations TODAY' plus how to get consoles at Currys, Very and Smyths](https://www.thesun.co.uk/tech/14160314/ps5-uk-stock-playstation-game-argos-console-latest-live/)
+
+
+> THIS week could see more PS5 restocks dropping as Playstation fans predict new stock may even land at Curry's TODAY. The store is one of very few major UK retailers who didn't restock in February, which has convinced multiple Twitter stock trackers that March could bring a Currys console drop. Playstation CEO Jim Ryan reassured fans that Sony are "working as hard as they possibly can" to get more stock and blamed a global shortage in semiconductors for a slow rollout that has caused prolonged misery around the world.
+
+
+***
+![Facebook's BARS is an app for rappers](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-03/20210303_Bars_App_ETX-seo.jpg "Facebook's BARS is an app for rappers")
+
+
+[Facebook's BARS is an app for rappers](https://www.malaymail.com/news/tech-gadgets/2021/03/03/facebooks-bars-is-an-app-for-rappers/1954381)
+
+
+> The ‘BARS' application also enables the use of voice effects. — Picture courtesy of NPE Team LLC/App Store Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, March 3 — Facebook is getting into the rap scene. A new application is available to help budding rappers generate some buzz. 'BARS' allows artists to use professional sounds by adding their own lyrics before sharing them online. The application, which on the surface seems a bit like TikTok, is available only for iOS.
+
+
+***
+![How to watch Disney's Raya and the Last Dragon online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/raya-and-the-last-dragon-disney.jpeg "How to watch Disney's Raya and the Last Dragon online from anywhere")
+
+
+[How to watch Disney's Raya and the Last Dragon online from anywhere](https://www.androidcentral.com/how-watch-disneys-raya-and-last-dragon-online-anywhere)
+
+
+> Just as it did with its live-action version of Mulan last year, Disney has decided to release its latest animated feature film Raya and the Last Dragon via Disney Plus Premier Access and we have all the details on how you can stream it online. Raya and the Last Dragon is set in the fantasy world of Kumandra where humans and dragons once lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Source: Disney Now 500 years later, the Druun have returned and it's up to the lone warrior Raya (voiced by Kelly Marie Tran) to track down the last living dragon and defeat them once and for all.
+
+
