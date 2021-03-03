@@ -36661,3 +36661,40 @@
 > (Image credit: Future) LG's next flagship, the supposedly-called LG Rainbow, might have been delayed indefinitely after reports emerged that the phone's pre-release field testing has been put on hold. While the phone was expected to come out in March, it's unclear if it will come out at all.LG and mobile network operators chose not to proceed with field testing that was scheduled for the end of February, which would precede a March release window, a source told Korean outlet Chosun. The Rainbow, which followed last year's LG Velvet, had gotten far enough in development to have produced a prototype that packed a Snapdragon 888 and used a stylus, the report continued.
 
 
+***
+[PUBG Mobile Lite 0.20.1 global update download: Download APK link and check guide for global users](https://www.zeebiz.com/technology/apps/news-pubg-mobile-lite-0201-global-version-update-season-21-how-to-download-apk-link-and-guide-for-global-users-149223)
+
+
+> PUBG Mobile Lite 0.20.1 global update download: PUBG Mobile Lite is one of the most played battle royale titles on the mobile platform. This is the toned-down version of PUBG Mobile and was made for players with low-end devices.
+
+
+***
+![Instagram accidentally hid likes for some users](https://cdn.cnn.com/cnnnext/dam/assets/200914085128-03-instagram-app-stock-super-tease.jpg "Instagram accidentally hid likes for some users")
+
+
+[Instagram accidentally hid likes for some users](https://www.cnn.com/2021/03/02/tech/instagram-hiding-likes-bug/index.html)
+
+
+> "We've been testing a new experience to hide likes on... posts," a spokesperson for Facebook (FB), which owns Instagram, told CNN Business. "We unintentionally added more people to the test today, which was a bug — we're fixing this issue and restoring like counts to those people as soon as possible." Several users reported seeing the change on their profiles Tuesday, with the number of likes replaced with the phrase "and others." Instagram has been running limited tests of that change for years — in 2019, the company said it would start removing the number of likes from a limited number of accounts in Canada.
+
+
+***
+![Oppo F19 Pro+ 5G, F19 Pro India launch date revealed, specifications leaked](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/evdkupjvcagkpoo-483x271_1200_210303092004.jpeg "Oppo F19 Pro+ 5G, F19 Pro India launch date revealed, specifications leaked")
+
+
+[Oppo F19 Pro+ 5G, F19 Pro India launch date revealed, specifications leaked](https://www.indiatoday.in/technology/news/story/oppo-f19-pro-5g-f19-pro-india-launch-date-revealed-specifications-leaked-1774971-2021-03-03)
+
+
+> Oppo launched the F17 series last year and it is now ready for the launch of F19 series phones.Shubham Verma | March 3, 2021 | Updated 09:16 IST
+
+
+***
+![Apple may be dropping certain configurations for the 21.5-inch iMac](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/04/2019-imac-apple-hero.jpg "Apple may be dropping certain configurations for the 21.5-inch iMac")
+
+
+[Apple may be dropping certain configurations for the 21.5-inch iMac](https://www.imore.com/apple-may-be-dropping-certain-configurations-215-inch-imac)
+
+
+> Source: Apple A new report says that the unavailable iMac configurations will be permanent. The 512GB and 1TB SSD configurations of the 21.5-inch iMac have been unavailable for over a week. Last week, it was reported that certain configurations for the 21.5-inch iMac were unavailable to customers on the Apple Store website. Both the 512GB or 1TB SSD configuration was unavailable, sparking more rumors about the launch of the redesigned iMac that is expected for 2021. Certain configurations of the current 21.
+
+
