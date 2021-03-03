@@ -36842,3 +36842,47 @@
 > PEOPLE wishing to wave goodbye to Twitter can delete their profile in a matter of minutes. It's an easy process - but how do you go about it? Deleting Twitter is easy - but you have to deactivate it firstCredit: Alamy How do I delete my Twitter account? Before your Twitter account can be permanently deleted, it has to be deactivated. To do this, simply sign into your account and click on the three-dotted-button in the bottom left-hand corner of your screen. Then click on the 'Settings and privacy' tab and choose Deactivate account.
 
 
+***
+[Redmi Note 10 series launch tomorrow: Check expected Price, Specs, Features and more!](https://www.zeebiz.com/technology/mobiles/news-redmi-note-10-series-launch-tomorrow-check-expected-price-specs-features-and-more-151539)
+
+
+> Redmi Note 10 series: The smartphone brand Xiaomi is all set to unveil Redmi Note 10 series globally tomorrow (March 4). Xiaomi is expected to launch three devices including the Redmi Note 10, Redmi Note 10 Pro and Redmi Note 10 Pro.
+
+
+***
+![New PS5 and PS4 games coming in 2021 LEAKED by game rating watchdog](https://www.thesun.co.uk/wp-content/uploads/2021/03/playstation5-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "New PS5 and PS4 games coming in 2021 LEAKED by game rating watchdog")
+
+
+[New PS5 and PS4 games coming in 2021 LEAKED by game rating watchdog](https://www.thesun.co.uk/tech/14218359/new-ps5-games-ps4-leaked-esrb/)
+
+
+> NEW games coming to the PS5 and PS4 have been leaked ahead of release. It's thanks to the USA's video game rating watchdog, which has reviewed several unconfirmed titles. New games have leaked for the PS5 and PS4Credit: Sony PlayStation The ESRB is responsible for rating games, so that young children don't end up playing titles with graphic content. Sometimes the ESRB will publicly rate a game before it's even been announced. This typically happens if a game is very close to release but remains unannounced.
+
+
+***
+[Zeus is hiring designers and marketers to build the future of flexible housing](https://zeusliving.com/careers)
+
+
+> We see a world full of possibility, where location is flexible and housing doesn't hold you back. Help us make this vision a reality.We see a world full of possibility, where location is flexible and housing doesn't hold you back. Come help us make this vision a reality.Human-Centric & TransparentWe build trust and put our teams first through transparencyWe're a no-secrets company. Everyone on the team knows our direction, key decisions, and how much is in the bank. People come first. Our business wouldn't work without our team, partners, and customers.
+
+
+***
+![Portnox Aids Credit Unions in Meeting New NCUA ACET Compliance Standards for Cybersecurity](https://mms.businesswire.com/media/20210303005066/en/862627/23/portnox-logo-1200x628.jpg "Portnox Aids Credit Unions in Meeting New NCUA ACET Compliance Standards for Cybersecurity")
+
+
+[Portnox Aids Credit Unions in Meeting New NCUA ACET Compliance Standards for Cybersecurity](https://www.businesswire.com/news/home/20210303005066/en/Portnox-Aids-Credit-Unions-in-Meeting-New-NCUA-ACET-Compliance-Standards-for-Cybersecurity)
+
+
+> March 03, 2021 07:00 AM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--Portnox, a leading provider of network access control (NAC) and network security solutions, today announced that it has begun working with a number of U.S.-based credit unions to enhance their cybersecurity programs and meet stricter controls standards laid out within the National Credit Union Administration's (NCUA) new Automated Cybersecurity Examination Tool (ACET) framework. According to the NCUA, the ACET mirrors the FFIEC's Cybersecurity Assessment Tool developed for voluntary use by banks and credit unions.
+
+
+***
+![Tech Firm Increases Global Reach with New Australian Data Centre Offer](https://mms.businesswire.com/media/20210303005114/en/775250/23/Questionmark_PrimaryLogo.jpg "Tech Firm Increases Global Reach with New Australian Data Centre Offer")
+
+
+[Tech Firm Increases Global Reach with New Australian Data Centre Offer](https://www.businesswire.com/news/home/20210303005114/en/Tech-Firm-Increases-Global-Reach-with-New-Australian-Data-Centre-Offer)
+
+
+> March 03, 2021 07:00 AM Eastern Standard Time TRUMBULL, Conn.--(BUSINESS WIRE)--Questionmark, the online assessment provider, has bolstered its global capacity with a new Australian data centre offer. The centre makes it possible for customers to keep critical assessment data within Australia to comply with data protection regulations. Measuring the existing skills of the workforce through online assessments gives employers the information they need to make better decisions about training, recruitment, compliance and career development.
+
+
