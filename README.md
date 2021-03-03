@@ -37024,3 +37024,53 @@
 > Apple's upcoming iPhone update adds the option to find 'items' such as bags or keys.The feature broadens the function of the 'Find My' app – currently used only to locate Apple's own devices, such as other iPads or AirPods – so that it can be used to locate 'non-Apple products'.Other companies such as Apple-owned Beats and even Belkin have allowed their products to be found by the app, meaning that people should more easily be able to locate their missing headphones.But the feature is probably also a preview of Apple's long rumoured 'AirTags', which are said to be small pucks or stickers that can be attached to any item so that it can be tracked by the iPhone.
 
 
+***
+![These are the best USB-C hubs for your Chromebook](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/05/uni-8-in-1-usb-c-hub-topview.jpg "These are the best USB-C hubs for your Chromebook")
+
+
+[These are the best USB-C hubs for your Chromebook](https://www.androidcentral.com/best-usb-c-hubs-chromebooks)
+
+
+> Best USB-C Hubs for Chromebooks Android Central 2021 Chromebooks are built light, lithe, and long-lasting, but as more Chromebooks shed USB-A and card-reading ports for future-proof, multi-functional USB-C ports, users are faced with a choice. You can try to upgrade all your peripherals to USB-C, or you can get a USB-C hub and keep using your USB-A keyboard and ripping photos off your camera's SD cards. Many USB-C hubs also support HDMI monitors, Ethernet, and Power Delivery charging, too, so no matter your needs, there's a great USB-C hub out there for you! This credit-card sized hub allows you to swap out the host cable for a longer C-to-C cable and keep the hub on your desk while your laptop sits in an elevated stand.
+
+
+***
+![Samsung Galaxy A12: This mid-ranger offers a lot of bang for your buck](https://images.financialexpress.com/2021/03/1-23.jpg "Samsung Galaxy A12: This mid-ranger offers a lot of bang for your buck")
+
+
+[Samsung Galaxy A12: This mid-ranger offers a lot of bang for your buck](https://www.financialexpress.com/industry/technology/samsung-galaxy-a12-this-mid-ranger-offers-a-lot-of-bang-for-your-buck/2205772/)
+
+
+> Moving on to the cameras, the Galaxy A12 comes equipped with a powerful 48MP camera that lets you take sharp and clear shots.With so much competition in the mid-range segment, it becomes a daunting task to pick a mobile phone that has a decent set of features, good all-around performance, yet will not force you to break the bank. The Samsung Galaxy A12 comes as an affordable option for people who want a device with an attractive screen, good build quality and cameras, powerful battery and a host of other innovative features.
+
+
+***
+![Tiny Epic Dungeons Changes Artwork After Backlash Over 'Problematic' Cover Art](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/tinyepicdungeons.jpg?itok=-TDvGWHV "Tiny Epic Dungeons Changes Artwork After Backlash Over 'Problematic' Cover Art")
+
+
+[Tiny Epic Dungeons Changes Artwork After Backlash Over 'Problematic' Cover Art](https://techraptor.net/tabletop/news/tiny-epic-dungeons-under-fire-for-problematic-cover-art)
+
+
+> 03/03/2021 - 14:48 | By: William Worrall Creators of Tiny Epic Dungeons, Gamelyn Games, are coming under fire for the depiction of female characters on the box art for the game. After a user on Twitter bought it up, Elizabeth Hargrave, designer of Wingspan, bought it to the attention of the wider BGG community, and in response,  Gamelyn has altered the cover art.  Tiny Epic Dungeons In Big Messy Trouble Tiny Epic Dungeons is an upcoming dungeon-crawling board game currently mid-Kickstarter campaign from Gamelyn Games.
+
+
+***
+![FinTech Heads Warn UK Mandates Could Throttle New Firms](https://securecdn.pymnts.com/wp-content/uploads/2021/03/FinTech-mandates-UK-startups-1000x600.jpg "FinTech Heads Warn UK Mandates Could Throttle New Firms")
+
+
+[FinTech Heads Warn UK Mandates Could Throttle New Firms](https://www.pymnts.com/news/regulation/2021/fintech-heads-warn-uk-mandates-could-throttle-new-firms/)
+
+
+> New U.K. FinTech mandates following the Wirecard debacle could make it more difficult for startup firms to launch, according to a Financial Times report citing industry executives.'If I was starting a payments business today I would look at e-money and think it wouldn't be attractive ... because the capital requirements are so much tighter,' said Nik Storonsky, chief executive of digital bank Revolut, per FT.He added that Revolut has multiple revenue streams, including fees from subscriptions and trading, but newer companies could face hardships if they depend on collecting charges from card transactions.
+
+
+***
+![South Africa's information regulator says WhatsApp cannot share users' contact information](https://i-invdn-com.akamaized.net/news/LYNXMPEA7E034_L.jpg "South Africa's information regulator says WhatsApp cannot share users' contact information")
+
+
+[South Africa's information regulator says WhatsApp cannot share users' contact information](https://www.investing.com/news/technology-news/south-africas-information-regulator-says-whatsapp-cannot-share-users-contact-information-2436422)
+
+
+> © Reuters. A 3D printed Whatsapp logo is placed on a computer motherboard JOHANNESBURG (Reuters) - Facebook Inc (NASDAQ:) cannot share any contact information it collects from WhatsApp users with its other properties without first obtaining authorisation from South Africa's Information Regulator (IR), the agency said on Wednesday. In January, the Facebook-owned messaging platform WhatsApp informed users it was preparing a new privacy policy, under which it could share some data, including location and phone numbers, with Facebook and its other units such as Instagram and Messenger.
+
+
