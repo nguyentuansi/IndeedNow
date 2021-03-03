@@ -37074,3 +37074,53 @@
 > © Reuters. A 3D printed Whatsapp logo is placed on a computer motherboard JOHANNESBURG (Reuters) - Facebook Inc (NASDAQ:) cannot share any contact information it collects from WhatsApp users with its other properties without first obtaining authorisation from South Africa's Information Regulator (IR), the agency said on Wednesday. In January, the Facebook-owned messaging platform WhatsApp informed users it was preparing a new privacy policy, under which it could share some data, including location and phone numbers, with Facebook and its other units such as Instagram and Messenger.
 
 
+***
+![Wikipedia Article About Nazi 'Big Lie' Concept Now Includes Trump Election Fraud Claims](https://media.breitbart.com/media/2020/10/Nazi-sign-640x335.jpg "Wikipedia Article About Nazi 'Big Lie' Concept Now Includes Trump Election Fraud Claims")
+
+
+[Wikipedia Article About Nazi 'Big Lie' Concept Now Includes Trump Election Fraud Claims](https://www.breitbart.com/tech/2021/03/03/wikipedia-article-about-nazi-big-lie-concept-now-includes-trump-election-fraud-claims/)
+
+
+> Wikipedia's page on the term 'big lie' has been expanded with mention of Donald Trump's claims of fraud in the 2020 Presidential election. Previously, the page focused on the Nazi Party using the term to describe what they claimed were false allegations Jews spread to vilify Germany following World War I, which helped fuel antisemitic sentiment in Germany and led to the mass slaughter of Jews during the Holocaust. Attempts at removing mention of Trump's claims in the Wikipedia article have been repeatedly undone.
+
+
+***
+![Gay Dating App Grindr Produces Original Scripted Series 'Bridesman'](https://media.breitbart.com/media/2021/03/Jimmy-Fowlie.jpg "Gay Dating App Grindr Produces Original Scripted Series 'Bridesman'")
+
+
+[Gay Dating App Grindr Produces Original Scripted Series 'Bridesman'](https://www.breitbart.com/tech/2021/03/03/gay-dating-app-grindr-produces-original-scripted-series-bridesman/)
+
+
+> Popular gay dating app Grindr is joining in on the original scripted content world with its new Bridesman series, which is set to begin production this month and air in Fall 2021. The new show, created by John Onieal, will be a comedy series that follows a gay 'bridesman' as he undermines his best friend's wedding. according to a report by Deadline. The report added that each episode will be six to ten minutes long, and will be available on YouTube as well as the Grindr app. Bridesman will be directed by Julian Buchan, and will feature comedians Jimmy Fowlie, Sydnee Washington, and Shannon Devido, and is co-written by Frank Spiro, and produced by Katie White and Jeremy Truong.
+
+
+***
+![Lobbyists for Apple, Google Swarm Arizona Over App Store Reform Bill](https://media.breitbart.com/media/2018/03/wi/ap/27/2fh60s_apple-education-49654-tim-cook-apple-ceo-tim-cook-watches-demonstration-e1523660859693.jpg "Lobbyists for Apple, Google Swarm Arizona Over App Store Reform Bill")
+
+
+[Lobbyists for Apple, Google Swarm Arizona Over App Store Reform Bill](https://www.breitbart.com/tech/2021/03/03/lobbyists-for-apple-google-swarm-arizona-over-app-store-reform-bill/)
+
+
+> Lobbyists for Apple and Google have reportedly descended on Arizona as the state considers legislation that would allow app developers to use third-party payment systems to circumvent the 15 to 30 percent cut that Apple and Google demand from app sales. Protocol reports that Arizona State Rep. Regina Cobb (R) had not yet even formally introduced her app store legislation last month when suddenly Apple and Google lobbyists descended on the state. Apple worked extremely fast, having its own lobbyist Rob Diridon begin lobbying in Arizona before hiring Kirk Adams, the former chief of staff to Arizona Governor Doug Ducey and speaker of the Arizona House of Representatives to negotiate with Cobb on behalf of the firm.
+
+
+***
+![Utah Lawmakers Seek to Close Remaining Confucius Institutes](https://media.breitbart.com/media/2020/11/Chinese-flag-barbed-wire-housing-compound-Xinjiang-China-Uighur-Getty-640x480-640x335.jpg "Utah Lawmakers Seek to Close Remaining Confucius Institutes")
+
+
+[Utah Lawmakers Seek to Close Remaining Confucius Institutes](https://www.breitbart.com/tech/2021/03/03/utah-lawmakers-seek-to-close-remaining-confucius-institutes/)
+
+
+> Utah state lawmakers have proposed a joint resolution 'to protect Utah's institutions of higher education from Chinese Communist Party influence.' The resolution seeks to close the remaining Confucius Institutes located at universities and colleges in the state. The new resolution, introduced by Rep. Candice Pierucci (R), cites security concerns and propaganda from the Chinese Communist Party. 'It is essential that students in Utah's higher education system have access to language and cultural offerings free from manipulation of the Chinese Communist Party and its proxies,' reads the resolution.
+
+
+***
+![Kohl's just launched a massive spring refresh sale and the savings are incredible](https://www.gannett-cdn.com/presto/2021/03/03/USAT/6e61d403-766e-4fb3-9a94-bb24f414fb66-kohls_hero.jpg?crop=4779,2689,x0,y0&width=1600&height=800&format=pjpg&auto=webp "Kohl's just launched a massive spring refresh sale and the savings are incredible")
+
+
+[Kohl's just launched a massive spring refresh sale and the savings are incredible](https://www.usatoday.com/story/tech/reviewedcom/2021/03/03/kohls-appliances-vacuums-and-more-home-goods-mega-sale/6904101002/)
+
+
+> Shop to save at this awesome Kohl's sale. (Photo: Kohl's / Getty Images)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.With winter gradually coming to a close, it's safe to say that many of us could use a seasonal reset as we officially bid adieu to snowstorms and chilly temperatures. Whether that means snagging some spring-ready apparel for your closet or giving your space a good old-fashioned makeover, Kohl's has got you covered with its Great Refresh Sale.
+
+
