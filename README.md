@@ -36927,3 +36927,53 @@
 > (Image credit: Shutterstock.com) Security researchers have identified a 'highly skilled and sophisticated' Chinese state-sponsored threat actor that's using exploits in Microsoft Exchange to make away with confidential company data.The Microsoft Threat Intelligence Center (MSTIC) detected multiple zero-day exploits in its flagship on-premise email server, which it said were primarily being used by the threat actor, dubbed Hafnium. The vulnerabilities have now been patched, and the software company urges all its business customers to update their Exchange server installations.
 
 
+***
+!['Calls' trailer brings audio suspense, minimal visuals to Apple TV+](https://photos5.appleinsider.com/gallery/40616-78312-Calls-1-xl.jpg "'Calls' trailer brings audio suspense, minimal visuals to Apple TV+")
+
+
+['Calls' trailer brings audio suspense, minimal visuals to Apple TV+](https://appleinsider.com/articles/21/03/03/calls-trailer-brings-audio-suspense-minimal-visuals-to-apple-tv)
+
+
+> Twelve South launches HoverBar Duo arm for iPhone and iPad 38 minutes ago Microsoft reveals Chinese hack targeting Microsoft Exchange 3 hours ago Australia approves Apple Watch ECG function 4 hours ago Find My adds 'Items' tab in latest iOS 14.5 beta 5 hours ago
+
+
+***
+![CondensationDB: A database to synchronize and manage data directly on the client, servers are not necessary anymore, and you get by design end-to-end encryption, digital signatures, and data integrity, all for secure multiple user collaboration. Now open-source with the lightest code base.](https://external-preview.redd.it/G654mgsH6sMymK0TdbEFuyzgJJD4EUt9TnF6jUw0r_M.jpg?auto=webp&s=5bea9938cdb63d5637296a068bc7bc296cf94b8f "CondensationDB: A database to synchronize and manage data directly on the client, servers are not necessary anymore, and you get by design end-to-end encryption, digital signatures, and data integrity, all for secure multiple user collaboration. Now open-source with the lightest code base.")
+
+
+[CondensationDB: A database to synchronize and manage data directly on the client, servers are not necessary anymore, and you get by design end-to-end encryption, digital signatures, and data integrity, all for secure multiple user collaboration. Now open-source with the lightest code base.](https://www.reddit.com/r/programming/comments/lwxh4p/condensationdb_a_database_to_synchronize_and/)
+
+
+> CondensationDB: A database to synchronize and manage data directly on the client, servers are not necessary anymore, and you get by design end-to-end encryption, digital signatures, and data integrity, all for secure multiple user collaboration. Now open-source with the lightest code base.
+
+
+***
+![AMD Radeon RX 6700 XT launched to steal Nvidia RTX 3070's 1440p crown](https://cdn.mos.cms.futurecdn.net/UX9gcuTduQx5Dj3Nj5VsLR-1200-80.jpg "AMD Radeon RX 6700 XT launched to steal Nvidia RTX 3070's 1440p crown")
+
+
+[AMD Radeon RX 6700 XT launched to steal Nvidia RTX 3070's 1440p crown](https://www.techradar.com/news/amd-radeon-rx-6700-xt)
+
+
+> The AMD Radeon RX 6700 XT has just been announced at a special launch event. This mid-range GPU is the fourth graphics card in the new AMD RNDA 2 lineup, but its closest predecessor isn't the Radeon RX 6900 XT – it's 2019's Radeon RX 5700 XT. Back in July 2019, AMD launched its RDNA graphics card lineup at E3, bringing its 7nm mastery to Radeon for the first time. And, while that graphics card didn't exactly topple Nvidia at the high-end, AMD did make waves back then by basically forcing Team Green to change the prices of its RTX Super cards at the last minute.
+
+
+***
+![How to catch Mew or Mewtwo in Pokémon Go](https://cdn.mos.cms.futurecdn.net/D8ozkcNhJwm53YTrQ3feFP-1200-80.png "How to catch Mew or Mewtwo in Pokémon Go")
+
+
+[How to catch Mew or Mewtwo in Pokémon Go](https://www.techradar.com/how-to/how-to-catch-mew-or-mewtwo-in-pokemon-go)
+
+
+> Mewtwo and Mew are some of the most coveted Pokémon in the entire franchise and catching them in Pokémon Go is no easy feat. If you've been wondering how to get your hands on two of the most legendary Pokémon, then you've come to the right place.Mewtwo is a Legendary Psychic type Pokémon and in terms of stats, is considered to be one of the most powerful if not the most powerful Pokémon you can catch in the game. They have a max CP of 4178 and its base stats are 300 attack, 182 defense and 214 stamina.
+
+
+***
+![Follow live updates as SpaceX attempts latest Starship SN10 launch](https://static.independent.co.uk/2021/03/03/13/spacex%20starship%20sn10%20live.jpg?width=1200&auto=webp&quality=75 "Follow live updates as SpaceX attempts latest Starship SN10 launch")
+
+
+[Follow live updates as SpaceX attempts latest Starship SN10 launch](https://www.independent.co.uk/life-style/gadgets-and-tech/spacex-starship-sn10-launch-live-schedule-b1811798.html)
+
+
+> SpaceX boss Elon Musk has confirmed that the latest attempt to launch and land its Mars-bound Starship spacecraft will go ahead on Wednesday.Starship SN10 is already on the launchpad at SpaceX's Boca Chica facility in Texas, and has an eight hour window to achieve what it predecessors could not.If successful, SN10 will become the first Starship prototype to achieve a landing after flying to a high altitude, with similar tests of SN8 and SN8 ending in fiery explosions.The launch window runs from 9am local time (3pm GMT) until 6pm (12am GMT, Thursday), and you can follow all the latest updates right here.
+
+
