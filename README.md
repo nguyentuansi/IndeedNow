@@ -36745,3 +36745,53 @@
 > by Helene DauschyOne of the best-known modern technologies owes its name and logo to a Viking-era king with a bad tooth: a quarter century ago, two engineers hatched the idea for the moniker "Bluetooth" over beers.At the end of the 1990s, Sven Mattisson, a Swedish engineer working at telecom group Ericsson, and Jim Kardach, an American employed by Intel, were among those developing the revolutionary technology.In 1998, at the dawn of the "wireless" era, the two men were part of an international consortium that created a universal standard for the technology first developed by Ericsson in 1994.
 
 
+***
+![An ancient monastery in Iraq is a symbol of Christian survival](https://static.reuters.com/resources/r/?m=02&d=20210303&t=2&i=1553559448&r=LYNXNPEH220BN&w=800 "An ancient monastery in Iraq is a symbol of Christian survival")
+
+
+[An ancient monastery in Iraq is a symbol of Christian survival](https://www.reuters.com/article/us-pope-iraq-monastery-idUSKCN2AV0PA)
+
+
+> By John DavisonALQOSH, Iraq (Reuters) - Nestled in a steep rocky hillside among the remote mountains of northern Iraq, the Rabban Hormizd Monastery has watched invaders come and go through Christianity's tumultuous history in this corner of ancient Mesopotamia.A view of Rabban Hormizd Monastery is seen in Alqosh, Iraq February 18, 2021. Picture taken February 18, 2021. REUTERS/Thaier al-SudaniMongols, Persians, Arabs, Kurds and Ottomans have sacked, surrounded or occupied the seventh century monastery and the Christian town of Alqosh, above which it perches, near the borders with Turkey, Syria and Iran.
+
+
+***
+![Amazon changes logo icon after comparisons to Adolf Hitler](https://static.independent.co.uk/2021/03/02/10/AFP_9369FW-1.jpg?width=1200&auto=webp&quality=75 "Amazon changes logo icon after comparisons to Adolf Hitler")
+
+
+[Amazon changes logo icon after comparisons to Adolf Hitler](https://www.independent.co.uk/life-style/gadgets-and-tech/amazon-logo-change-adolf-hitler-b1810656.html)
+
+
+> Amazon has changed the design of its new app icon after it was seen as too similar to Adolf Hitler.' My parents use Amazon nearly every day. They're going to be lost for the next few days. When they ask where Amazon's gone, I'll tell them to look for the cardboard Hitler…', one tweeted.'It's not just a ripped scotch tape, it's a ripped scotch tape that has a similar shape and is right on top of a smiling mouth. Looks like a happy little cardboard Adolf to me', another user commented.In a statement about the launch of the now-edited icon, Amazon said: 'We designed the new icon to spark anticipation, excitement, and joy when customers start their shopping journey on their phone, just as they do when they see our boxes on their door step.
+
+
+***
+![Singapore tech enthusiast switches careers from banking to IT security at 50](https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic_new.jpg "Singapore tech enthusiast switches careers from banking to IT security at 50")
+
+
+[Singapore tech enthusiast switches careers from banking to IT security at 50](https://www.straitstimes.com/singapore/jobs/tech-enthusiast-switches-careers-from-banking-to-it-security-at-50)
+
+
+> SINGAPORE - After working in banking for 25 years, Mr Arnold Lim made a drastic career switch to become an information technology security consultant at the mature age of 50. The father of three was retrenched from his job as assistant general manager at a large Japanese bank in November 2017. At first, he tried to return to banking. But despite his many years of experience in finance and management, there was no equivalent position for him anymore. Three years later, the now 53-year-old, who works at IT security solutions provider Pulse Secure, said: "I realised the need to be realistic.
+
+
+***
+![New Deloitte Report Explores Future of Work Post-Covid](http://www.businesswire.com/images/bwlogo_square.png "New Deloitte Report Explores Future of Work Post-Covid")
+
+
+[New Deloitte Report Explores Future of Work Post-Covid](https://www.businesswire.com/news/home/20210303005132/en/New-Deloitte-Report-Explores-Future-of-Work-Post-Covid)
+
+
+> March 03, 2021 03:00 AM Eastern Standard Time LONDON, United Kingdom--(BUSINESS WIRE)--The Future of Work is Here report from Deloitte outlines a future world of work shaped by the Covid-19 pandemic which requires more transparent and consultative leadership, greater focus from employees on career development as automation increases and a more proactive role for governments to invest to close the digital divide. Commissioned by Liberty Global, one of the world's leading converged video, broadband and communications companies, the report draws on in-depth interviews with 26 European business leaders, policymakers and researchers.
+
+
+***
+![Poco F3 price in India, launch date, specifications and leaks](https://cdn.mos.cms.futurecdn.net/fWnKz4wUDFm2mv87noF8vY-1200-80.png "Poco F3 price in India, launch date, specifications and leaks")
+
+
+[Poco F3 price in India, launch date, specifications and leaks](https://www.techradar.com/news/poco-f3-india)
+
+
+> (Image credit: Mi.com) We've been waiting for the launch of the Poco F2 since 2018. While that may never happen, we might get to see another similarly high-end flagship from the brand in the form of the Poco F3. Here's everything you need to know about it.The Poco F1 was launched in India in 2018 by Xiaomi at a very competitive price. It was well-received by critics and fans alike, generating a lot of interest in how its successor would follow up. But in the years to come, the now-independent sub-brand only focussed on budget smartphones in India.
+
+
