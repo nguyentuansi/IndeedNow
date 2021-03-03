@@ -36698,3 +36698,50 @@
 > Source: Apple A new report says that the unavailable iMac configurations will be permanent. The 512GB and 1TB SSD configurations of the 21.5-inch iMac have been unavailable for over a week. Last week, it was reported that certain configurations for the 21.5-inch iMac were unavailable to customers on the Apple Store website. Both the 512GB or 1TB SSD configuration was unavailable, sparking more rumors about the launch of the redesigned iMac that is expected for 2021. Certain configurations of the current 21.
 
 
+***
+[How Long Does it Take To Make an App?](https://www.reddit.com/r/programming/comments/lwmjqv/how_long_does_it_take_to_make_an_app/)
+
+
+> submitted by /u/SachinKody [link] [comments]
+
+
+***
+![Instagram accidentally hid likes for a few hours and everyone freaked out](https://mondrian.mashable.com/2021%252F03%252F03%252Fa3%252F04967f23e8a5422fb65b3c4096da0485.741d3.jpg%252F1200x630.jpg?signature=M80qDUe2658JJ0yTzN5mXElGAVo= "Instagram accidentally hid likes for a few hours and everyone freaked out")
+
+
+[Instagram accidentally hid likes for a few hours and everyone freaked out](https://mashable.com/article/instagram-hidden-likes-influencers/)
+
+
+> Instagram mistakenly — and temporarily — hid like counts for a large swathe of users on Tuesday. And people lost their entire minds. The change came with no warning or explanatory blog post, bucking the custom for such significant changes to an app. Instagram users simply logged on, went to check how many people appreciated their latest brunch snap, and received a rude shock.  Instead of text revealing the exact number of likes their posts had gained, users were merely told that they was liked by a named account "and others.
+
+
+***
+![Starlink calling India: All your questions answered about Elon Musk's revolutionary satellite broadband service](https://images.financialexpress.com/2021/03/musk-spaceX-reuters.jpg "Starlink calling India: All your questions answered about Elon Musk's revolutionary satellite broadband service")
+
+
+[Starlink calling India: All your questions answered about Elon Musk's revolutionary satellite broadband service](https://www.financialexpress.com/industry/technology/starlink-calling-india-all-your-questions-answered-about-elon-musks-revolutionary-satellite-broadband-service/2205337/)
+
+
+> Starlink is a venture under Musk's SpaceX and it relies on the over 1,000 satellites that the company has already positioned into the Earth's orbit. (Image: Reuters)Elon Musk's Starlink satellite: Starlink satellite, the ambitious high-speed internet programme backed by Elon Musk, has announced that it will enter India next year. The pre-order for the same has begun, with users being able to register for the connection on the official website of Starlink for a hardware deposit fee of $99 (approximately Rs 7,300).
+
+
+***
+![Wipro Joins World Economic Forum Initiative to Advance Racial Justice and Social Equality](https://mms.businesswire.com/media/20210302006233/en/819057/23/Wipro.jpg "Wipro Joins World Economic Forum Initiative to Advance Racial Justice and Social Equality")
+
+
+[Wipro Joins World Economic Forum Initiative to Advance Racial Justice and Social Equality](https://www.businesswire.com/news/home/20210302006233/en/Wipro-Joins-World-Economic-Forum-Initiative-to-Advance-Racial-Justice-and-Social-Equality)
+
+
+> March 03, 2021 12:46 AM Eastern Standard Time EAST BRUNSWICK, N.J. & BANGALORE, India--(BUSINESS WIRE)--Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has joined the ‘Partnering for Racial Justice in Business initiative' launched by the World Economic Forum to promote a culture of diversity, inclusion, equity and justice for people of all racial backgrounds in the workplace. The initiative is aimed towards driving action and accountability for companies to confront racism at a systemic level, set new global standards for racial justice in business and accomplish necessary policy changes for inclusion and advancement of professionals with under-represented racial and ethnic identities.
+
+
+***
+![This is how Bluetooth got its name](https://image-prod.iol.co.za/resize/505x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/95f0c20d-f460-5d19-b276-8aba6e938088&operation=CROP&offset=0x37&resize=505x284 "This is how Bluetooth got its name")
+
+
+[This is how Bluetooth got its name](https://www.iol.co.za/technology/mobile/this-is-how-bluetooth-got-its-name-51c6ae05-cb8e-4a8b-802a-63443c14ba0d)
+
+
+> by Helene DauschyOne of the best-known modern technologies owes its name and logo to a Viking-era king with a bad tooth: a quarter century ago, two engineers hatched the idea for the moniker "Bluetooth" over beers.At the end of the 1990s, Sven Mattisson, a Swedish engineer working at telecom group Ericsson, and Jim Kardach, an American employed by Intel, were among those developing the revolutionary technology.In 1998, at the dawn of the "wireless" era, the two men were part of an international consortium that created a universal standard for the technology first developed by Ericsson in 1994.
+
+
