@@ -36886,3 +36886,44 @@
 > March 03, 2021 07:00 AM Eastern Standard Time TRUMBULL, Conn.--(BUSINESS WIRE)--Questionmark, the online assessment provider, has bolstered its global capacity with a new Australian data centre offer. The centre makes it possible for customers to keep critical assessment data within Australia to comply with data protection regulations. Measuring the existing skills of the workforce through online assessments gives employers the information they need to make better decisions about training, recruitment, compliance and career development.
 
 
+***
+[DTC health insurance provider Oscar Health prices IPO at $39 per share, raising $1.44B at a valation of $9.5B (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/210303/p8#a210303p8)
+
+
+> Alex Wilhelm / TechCrunch: DTC health insurance provider Oscar Health prices IPO at $39 per share, raising $1.44B at a valation of $9.5B — Late last night Oscar Health, a tech-enabled medical insurance provider, priced its IPO at $39 per share. The final price came in $1 per share above its raised IPO guidance …
+
+
+***
+![Exciting New Features in Django 3.2](https://external-preview.redd.it/j4QNCaf6qqxQWsouyRQQtjLmde659JX7coK3fYiY4mI.jpg?auto=webp&s=2862c9000955b0cbd4651f1fe42e0a01bc3990a4 "Exciting New Features in Django 3.2")
+
+
+[Exciting New Features in Django 3.2](https://www.reddit.com/r/Python/comments/lwula3/exciting_new_features_in_django_32/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Creating a Data Science Resume](https://www.reddit.com/r/Python/comments/lwul8z/creating_a_data_science_resume/)
+
+
+> submitted by /u/hacknomus [link] [comments]
+
+
+***
+[Will 5G Tech Affect Your Phone Battery Life & Drain it Faster?](https://www.thequint.com/tech-and-auto/will-5g-technology-affect-your-phone-battery-life)
+
+
+> The 5G technology is known to be 20 times faster than 4G service.
+
+
+***
+![Chinese hackers target Microsoft Exchange email servers to launch attacks](https://cdn.mos.cms.futurecdn.net/7nFUScNqssCqAANmZefPDm-1200-80.jpg "Chinese hackers target Microsoft Exchange email servers to launch attacks")
+
+
+[Chinese hackers target Microsoft Exchange email servers to launch attacks](https://www.techradar.com/news/chinese-hackers-target-microsoft-exchange-email-servers-to-launch-attacks)
+
+
+> (Image credit: Shutterstock.com) Security researchers have identified a 'highly skilled and sophisticated' Chinese state-sponsored threat actor that's using exploits in Microsoft Exchange to make away with confidential company data.The Microsoft Threat Intelligence Center (MSTIC) detected multiple zero-day exploits in its flagship on-premise email server, which it said were primarily being used by the threat actor, dubbed Hafnium. The vulnerabilities have now been patched, and the software company urges all its business customers to update their Exchange server installations.
+
+
