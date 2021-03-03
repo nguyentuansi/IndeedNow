@@ -36977,3 +36977,50 @@
 > SpaceX boss Elon Musk has confirmed that the latest attempt to launch and land its Mars-bound Starship spacecraft will go ahead on Wednesday.Starship SN10 is already on the launchpad at SpaceX's Boca Chica facility in Texas, and has an eight hour window to achieve what it predecessors could not.If successful, SN10 will become the first Starship prototype to achieve a landing after flying to a high altitude, with similar tests of SN8 and SN8 ending in fiery explosions.The launch window runs from 9am local time (3pm GMT) until 6pm (12am GMT, Thursday), and you can follow all the latest updates right here.
 
 
+***
+[Indie.vc, a six-year-old effort by O'Reilly AlphaTech Ventures to invest small amounts in bootstrapped businesses, shuts down after results left LPs unimpressed (Axios)](http://www.techmeme.com/210303/p17#a210303p17)
+
+
+> Axios: Indie.vc, a six-year-old effort by O'Reilly AlphaTech Ventures to invest small amounts in bootstrapped businesses, shuts down after results left LPs unimpressed — Indie.vc, an effort launched six years ago to invest small amounts in bootstrapped businesses, announced on Tuesday that it's winding down.
+
+
+***
+![Postscript raises $35M to give Shopify stores SMS superpowers – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/postscript.jpg?w=764 "Postscript raises $35M to give Shopify stores SMS superpowers – TechCrunch")
+
+
+[Postscript raises $35M to give Shopify stores SMS superpowers – TechCrunch](https://techcrunch.com/2021/03/03/postscript-raises-35m-to-give-shopify-stores-sms-superpowers/)
+
+
+> Postscript helps Shopify stores stay in touch with customers via SMS, with a focus on keeping everything opt-in, legally compliant, and spam free. The company raised $4.5M back at the end of 2019; this morning it's announcing it has raised a $35M Series B. The company has grown pretty rapidly over the last year. When we last checked in with them in December of 2019, they had 14 employees and around 530 customers; today, they're at 61 employees with over 3,500 customers. Their vision for the product has grown a bit over the last year as well.
+
+
+***
+![New media outlets expanding in Turkey, still face online hurdles](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "New media outlets expanding in Turkey, still face online hurdles")
+
+
+[New media outlets expanding in Turkey, still face online hurdles](https://www.reuters.com/article/us-turkey-media-idUSKCN2AV2D9)
+
+
+> By Reuters StaffISTANBUL (Reuters) - Newer media outlets in Turkey are reaching a wider audience but the practices of big tech gate keepers such as Google and Facebook are slowing their efforts to catch up with mainstream, mostly pro-government media, a report said on Wednesday.Algorithms that direct news searches online and on social media sites and videos platforms such as YouTube tend to favour established media outlets, the report by the International Press Institute (IPI) found.Some 90% of major media in Turkey is now owned by the state or is close to the government after more than a decade of pressure by President Tayyip Erdogan and his Islamist-rooted AK Party that has included fines, taxes and litigation.
+
+
+***
+![Sennheiser's CX400BT True Wireless Earbuds are now £70 OFF at Amazon](https://www.thesun.co.uk/wp-content/uploads/2021/03/Sennheiser-CX400BT_3.jpg?strip=all&quality=100&w=1200&h=775&crop=1 "Sennheiser's CX400BT True Wireless Earbuds are now £70 OFF at Amazon")
+
+
+[Sennheiser's CX400BT True Wireless Earbuds are now £70 OFF at Amazon](https://www.thesun.co.uk/tech/14223166/sennheiser-cx400bt-earbuds-save-amazon-deal/)
+
+
+> APPLE'S Airpods aren't the only wireless earbuds on the market, with tech brands offering their own distinct models. Sennheiser's own CX400BT True Wireless set is chic, fully featured and now available at a lower price. Sennheiser's stylis CX400BTTrue Wireless Earbuds are £70 off This article and featured products have been independently chosen by Sun journalists. It contains links which are ads, and if you click a link and buy a product we will earn revenue. The Sennheiser CX400BT True Wireless Earbuds make a good first impression.
+
+
+***
+![iPhone update lets it find missing ‘items' like keys and bags](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/31/17/iphone.jpg?width=1200&auto=webp&quality=75 "iPhone update lets it find missing ‘items' like keys and bags")
+
+
+[iPhone update lets it find missing ‘items' like keys and bags](https://www.independent.co.uk/life-style/gadgets-and-tech/iphone-update-ios-14-items-find-my-b1812011.html)
+
+
+> Apple's upcoming iPhone update adds the option to find 'items' such as bags or keys.The feature broadens the function of the 'Find My' app – currently used only to locate Apple's own devices, such as other iPads or AirPods – so that it can be used to locate 'non-Apple products'.Other companies such as Apple-owned Beats and even Belkin have allowed their products to be found by the app, meaning that people should more easily be able to locate their missing headphones.But the feature is probably also a preview of Apple's long rumoured 'AirTags', which are said to be small pucks or stickers that can be attached to any item so that it can be tracked by the iPhone.
+
+
