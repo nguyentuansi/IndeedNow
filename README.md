@@ -37553,3 +37553,47 @@
 > March 04, 2021 11:10 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Network Function Virtualization (NFV) Market by Component, Virtualized Network Function, Application, End User - Global Forecast to 2027" report has been added to ResearchAndMarkets.com's offering. The Network Function Virtualization (NFV) Market is expected to reach $122 billion by 2027, growing at a CAGR of 34.9% during the forecast period of 2019 to 2027. The growth of this market is mainly attributed to the growing number of network complexities and ever-increasing demand for cloud-based services, deployment of IoT, security agility, cloud migration, increasing demand for network virtualization and automation, and need for advanced network management system are the key factors driving the growth of the network function virtualization market.
 
 
+***
+![With $19M A round, Halo Dx combines data streams to better diagnose cancers, dementia and more – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/halo-header.png?w=635 "With $19M A round, Halo Dx combines data streams to better diagnose cancers, dementia and more – TechCrunch")
+
+
+[With $19M A round, Halo Dx combines data streams to better diagnose cancers, dementia and more – TechCrunch](https://techcrunch.com/2021/03/04/with-19m-a-round-halo-dx-combines-data-streams-to-better-diagnose-cancers-dementia-and-more/)
+
+
+> Healthcare is one of the most complex industries out there, creating frustration on the consumer side but also the opportunity for huge improvements from, in a way, rather simple methods. Halo Diagnostics (or Dx for short) has raised a $19M series A to improve diagnosis of several serious illnesses by crossing the streams from multiple tests and making the improved process easily available to providers. They've also taken the unusual step of taking out an eight-figure line of credit to buy outright the medical facilities they'll need to do it.
+
+
+***
+[Nasdaq looks toward 100 day MA](https://www.forexlive.com/technical-analysis/!/nasdaq-looks-toward-100-day-ma-20210304)
+
+
+> Down 2% on the day.  100 they moving average at 12616.717 The NASDAQ index is pushing sharply to the downside. The price is currently down 275 points at 12722 .39. The next major target comes in at the 100 day moving average at 12616.569.
+
+
+***
+[How can we get free followers on Instagram in 2021?](https://filmdaily.co/tech/free-followers-instagram/)
+
+
+> Getting followers on Instagram can be tricky. Here are some tips on how to get free followers on the platform. The post How can we get free followers on Instagram in 2021? appeared first on Film Daily.
+
+
+***
+![Bain's Sarah Smith, former head of HR at Quora, will share the recruiting playbook at Early Stage – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/early-stage-sarah-smith.jpg?w=764 "Bain's Sarah Smith, former head of HR at Quora, will share the recruiting playbook at Early Stage – TechCrunch")
+
+
+[Bain's Sarah Smith, former head of HR at Quora, will share the recruiting playbook at Early Stage – TechCrunch](https://techcrunch.com/2021/03/04/bains-sarah-smith-former-head-of-hr-at-quora-will-share-the-recruiting-playbook-at-early-stage/)
+
+
+> If you're a startup that's worried about building your team today for tomorrow's successes you're not going to want to miss our session with Bain Capital Ventures' Sarah Smith at TechCrunch Early Stage on April 1 & 2. The current Bain Capital Ventures partner who invests in early to mid-stage companies saw what it was like to grow a startup business firsthand as the vice president of human resources at Quora, a position she held from 2012 to 2016. While at Quora, Sarah built the HR and operations teams responsible for company culture, compensation, benefits, equity refreshers, performance reviews, HRIS/ATS implementation, people development, policy enforcement and content moderation.
+
+
+***
+![Final Fantasy 7 Remake Intergrade: what you need to know about FF7 Remake on PS5](https://cdn.mos.cms.futurecdn.net/eHgC3nW2kGVppSiaP2fUvH-1200-80.jpg "Final Fantasy 7 Remake Intergrade: what you need to know about FF7 Remake on PS5")
+
+
+[Final Fantasy 7 Remake Intergrade: what you need to know about FF7 Remake on PS5](https://www.techradar.com/news/final-fantasy-7-remake-intergrade-what-you-need-to-know-about-ff7-remake-on-ps5)
+
+
+> (Image credit: Square Enix / Sony) Final Fantasy 7 Remake Intergrade was revealed during Sony's State of Play in February 2021, following leaks suggesting that Square Enix was working on a PS5 version of the game.Intergrade is an 'enhanced and expanded' version of the critically acclaimed Final Fantasy 7 Remake for PS5, which is due to release on June 10. This PS5 version brings with it visual optimizations, a new Photo Mode, and a new story content featuring fan-favorite Yuffie. What's more, those who own the game on PS4 are in luck as (most) will be able to upgrade to the PS5 version for free.
+
+
