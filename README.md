@@ -37124,3 +37124,53 @@
 > Shop to save at this awesome Kohl's sale. (Photo: Kohl's / Getty Images)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.With winter gradually coming to a close, it's safe to say that many of us could use a seasonal reset as we officially bid adieu to snowstorms and chilly temperatures. Whether that means snagging some spring-ready apparel for your closet or giving your space a good old-fashioned makeover, Kohl's has got you covered with its Great Refresh Sale.
 
 
+***
+![What happens when cancel culture meets Adolf Hitler pareidolia? Amazon decides it needs a new app logo](https://regmedia.co.uk/2021/03/03/amazon.jpg "What happens when cancel culture meets Adolf Hitler pareidolia? Amazon decides it needs a new app logo")
+
+
+[What happens when cancel culture meets Adolf Hitler pareidolia? Amazon decides it needs a new app logo](https://www.theregister.com/2021/03/04/amazon_hitler_logo/)
+
+
+> Logowatch Adolf Hitler killed himself in 1945 having been responsible for the death of millions as the leader of Germany's Nazi party. He had a small rectangular mustache. Seventy-five years later, e-commerce giant Amazon has had to change its mobile app's new logo that featured its trademark smile and a jagged blue ribbon on top a brown rounded rectangle to a grin with a blue ribbon folded in the corner on top a brown rounded rectangle because – according to people on the internet – it looked like the German dictator.
+
+
+***
+![Zoom recovers from hours-long outage, says issues were likely due to local internet glitch](https://i-invdn-com.akamaized.net/news/LYNXMPEA7I0WL_L.jpg "Zoom recovers from hours-long outage, says issues were likely due to local internet glitch")
+
+
+[Zoom recovers from hours-long outage, says issues were likely due to local internet glitch](https://www.investing.com/news/technology-news/zoom-down-for-more-than-a-thousand-users--downdetector-2436194)
+
+
+> © Reuters. FILE PHOTO: Small toy figures are seen in front of diplayed Zoom logo (Reuters) - Zoom Video Communications (NASDAQ:) Inc said it had recovered from an outage where some users were unable to join meetings on the video-conferencing platform on Wednesday. The company's status page said all systems were operational. Zoom said the glitch was likely due to a localized internet service issue. The platform has seen a meteoric rise in users, thanks to remote work and online learning against the backdrop of stay-at-home orders.
+
+
+***
+![Watch SpaceX Starship SN10 Prototype Successfully Stick The Landing](https://cdn.digg.com/wp-content/uploads/2021/03/04000824/Screen-Shot-2021-03-03-at-7.07.47-PM.jpg "Watch SpaceX Starship SN10 Prototype Successfully Stick The Landing")
+
+
+[Watch SpaceX Starship SN10 Prototype Successfully Stick The Landing](https://digg.com/video/watch-spacex-starship-sn10-prototype-successfully-stick-the-landing)
+
+
+> I just add things to my shopping cart without hitting "buy," and I won't stop anytime soon. SpaceX's latest Starship prototype made a successful landing on Wednesday, though it exploded moments later. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. While it might look deceptively innocuous, here's why you should be on your guard when you see wire on your car. For the past thirty years, he has taught us that being just a little bit ugly is cool.
+
+
+***
+![Here's another huge clue that the next Galaxy Watch will run Wear OS](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/samsung-galaxy-watch-3-4.jpg "Here's another huge clue that the next Galaxy Watch will run Wear OS")
+
+
+[Here's another huge clue that the next Galaxy Watch will run Wear OS](https://www.androidcentral.com/samsung-galaxy-watch-wear-os-codename-merlot)
+
+
+> Like a fine wine The upcoming Wear OS Galaxy Watch has an elegant codename. Source: Hayato Huseman / Android Central Samsung has been rumored to ditch Tizen for Wear OS in its next Galaxy Watch. The upcoming watch has supposedly been spotted in the source code for the Galaxy S20. The code hints at least some of the connectivity options for the rumored smartwatch. Rumors of Samsung replacing Tizen with Wear OS for its next Galaxy Watch certainly came out of nowhere. For years, the company had been pretty adamant about proving that it didn't need to rely on Google for everything.
+
+
+***
+![Amazon's first cashierless store arrives in Britain in sign of global expansion](https://static.reuters.com/resources/r/?m=02&d=20210304&t=2&i=1553676483&r=LYNXMPEH23003&w=800 "Amazon's first cashierless store arrives in Britain in sign of global expansion")
+
+
+[Amazon's first cashierless store arrives in Britain in sign of global expansion](https://www.reuters.com/article/us-uk-amazon-com-store-idUSKBN2AW004)
+
+
+> By Jeffrey DastinFILE PHOTO: The logo of Amazon is seen on the door of an Amazon Books retail store in New York City, U.S., February 14, 2019. REUTERS/Brendan McDermid(Reuters) - Amazon.com Inc will open its first-ever physical store outside the United States on Thursday.The world's largest online retailer said the cashierless store, dubbed 'Amazon Fresh,' is located in Britain, in the London Borough of Ealing. It will carry a private UK food brand it's calling 'by Amazon' and will let consumers skip the checkout line when they shop.
+
+
