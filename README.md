@@ -37597,3 +37597,50 @@
 > (Image credit: Square Enix / Sony) Final Fantasy 7 Remake Intergrade was revealed during Sony's State of Play in February 2021, following leaks suggesting that Square Enix was working on a PS5 version of the game.Intergrade is an 'enhanced and expanded' version of the critically acclaimed Final Fantasy 7 Remake for PS5, which is due to release on June 10. This PS5 version brings with it visual optimizations, a new Photo Mode, and a new story content featuring fan-favorite Yuffie. What's more, those who own the game on PS4 are in luck as (most) will be able to upgrade to the PS5 version for free.
 
 
+***
+[Microsoft rolls out new features for Edge, including vertical tabs and a feature that it says can improve startup times by 29% to 41% after a device reboots (Tom Warren/The Verge)](http://www.techmeme.com/210304/p31#a210304p31)
+
+
+> Tom Warren / The Verge: Microsoft rolls out new features for Edge, including vertical tabs and a feature that it says can improve startup times by 29% to 41% after a device reboots — Microsoft Edge gets some new features for March — Microsoft is rolling out some new improvements to its Edge browser this month.
+
+
+***
+![Review: Marshall Mode II are unique wireless earbuds with signature style](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/marshall-mode-ii-on_guitar.jpg "Review: Marshall Mode II are unique wireless earbuds with signature style")
+
+
+[Review: Marshall Mode II are unique wireless earbuds with signature style](https://www.imore.com/marshall-mode-ii-review-truly-wireless-earbuds-unique-flair)
+
+
+> Source: Luke Filipowicz / iMore When you hear Marshall, you likely think of guitar amps, bass pre-amps, or other musical equipment. After all, the British company got its start in the 60s trying to make amps for guitarists that were loud and "crunchy" sounding, but recently, Marshall has been dipping its toes in the consumer headphones market, with some success. We reviewed the Marshall Monitor II ANC and liked them a fair amount. While Marshall's headphone lineup is small, it was missing something in the truly wireless earbuds space until now.
+
+
+***
+![Git, GitHub and GitLab guide for beginners](https://external-preview.redd.it/lbAats_1E20N7WTQsecV2gb07aV17E8h8lt3Z3Eg8Kc.jpg?auto=webp&s=e70f783a9eccd3493686d72375bb7db34b7c0722 "Git, GitHub and GitLab guide for beginners")
+
+
+[Git, GitHub and GitLab guide for beginners](https://www.reddit.com/r/programming/comments/lxtkx2/git_github_and_gitlab_guide_for_beginners/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Zagg, InvisibleShield announces two new hybrid iPhone 12 screen protectors](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/glassfusion-visionguard-render.png "Zagg, InvisibleShield announces two new hybrid iPhone 12 screen protectors")
+
+
+[Zagg, InvisibleShield announces two new hybrid iPhone 12 screen protectors](https://www.imore.com/invisibileshields-new-glassfusion-visionguard-new-hybrid-iphone-screen-protector)
+
+
+> We may earn a commission for purchases using our links. Learn more. Protected D3O is a non-Newtonian fluid, apparently. 4 Mar 2021 Source: InvisibleShield InvisibleShield announced the GlassFusion VisionGuard+ with D3O and GlassFusion+ with D3O screen protectors. Both new screen protectors feature the fancy D30 non-Newtonian fluid. Accessory maker InvisibleShield today announced that both the GlassFusion VisionGuard+ with D3O and GlassFusion+ with D3O screen protectors are now available for iPhone 12, iPhone 12 mini, iPhone 12 Pro, and iPhone 12 Pro Max.
+
+
+***
+![Coursera is planning to file to go public tomorrow – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1147839022.jpg?w=600 "Coursera is planning to file to go public tomorrow – TechCrunch")
+
+
+[Coursera is planning to file to go public tomorrow – TechCrunch](https://techcrunch.com/2021/03/04/coursera-is-planning-to-file-to-go-public-tomorrow/)
+
+
+> Coursera, an online education platform that has seen its business grow amid the coronavirus pandemic, is planning to file paperwork tomorrow for its initial public offering, sources familiar with the matter say. The company has been talking to underwriters since last year, but tomorrow could mark its first legal step in the process to IPO. The Mountain View-based business, founded in 2012, was last valued at $2.4 billion in the private markets, during a Series F fundraising event in July 2020. Bloomberg pegs Coursera's latest valuation at $5 billion.
+
+
