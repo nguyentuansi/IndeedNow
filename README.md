@@ -37412,3 +37412,50 @@
 > (Image credit: Amazon) High-street shopping as we know it might be about to change for good after the opening of Amazon's new store in London.The ecommerce giant has unveiled its first till-free Amazon Fresh store in Ealing in West London, opening up a 2,500 square feet shop to customers from today, offering a wide selection of food and drink products, including the new "by Amazon" brand.Employing Amazon's ‘Just Walk Out' technology, all customers need to do in order to make purchases is scan the Amazon Go app at the gate and do their shopping.
 
 
+***
+![What's the problem with Cyrptocurrency Bill? Industry insiders explain](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/crypto_505_040321053819.jpg "What's the problem with Cyrptocurrency Bill? Industry insiders explain")
+
+
+[What's the problem with Cyrptocurrency Bill? Industry insiders explain](https://www.businesstoday.in/technology/news/whats-the-problem-with-cyrptocurrency-bill-industry-insiders-explain/story/433002.html)
+
+
+> The proposed bill to ban cryptocurrency in India has caused great confusion among cryptocurrency players. While it has spooked existing Bitcoin and other crypto investors, it is also keeping prospective investors at bay. However, some crypto experts see a silver lining. They say at least the government has finally started discussing cryptocurrency. "I look at this whole development as more of a positive direction for the crypto sector in India. The reason being that before this we had no understanding of what the Government was thinking, and if the Government was even thinking of cryptocurrency as a sector in India," says Nischal Shetty, founder, CEO, WazirX.
+
+
+***
+[Researchers have devised a digital method to virtually unfold and read letters sealed with "letterlocking", an old practice of securing letters before envelopes (William J. Broad/New York Times)](http://www.techmeme.com/210304/p3#a210304p3)
+
+
+> William J. Broad / New York Times: Researchers have devised a digital method to virtually unfold and read letters sealed with “letterlocking”, an old practice of securing letters before envelopes — M.I.T. researchers have devised a virtual-reality technique that lets them read old letters that were mailed …
+
+
+***
+![How to go live on TikTok?](https://www.thesun.co.uk/wp-content/uploads/2021/03/NINTCHDBPICT000556859063.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "How to go live on TikTok?")
+
+
+[How to go live on TikTok?](https://www.thesun.co.uk/tech/13950856/how-to-go-live-on-tiktok/)
+
+
+> TIKTOK has exploded in popularity since its launch in 2016. It had 800 million active users worldwide by 2020, but many are not aware of its many functions, and going live is one feature that is fun to explore. The TikTok app has been downloaded over two billion times on Apple's App Store and Google PlayCredit: Alamy Unlike some social media platforms, TikTok has some minimum requirements before your account is permitted to go live. You need a minimum of 1,000 followers and you must be aged 16 or over (although you can create an account from the age of 13).
+
+
+***
+![Review: Xplora X5 Play is a kids smartwatch with a lot of potential](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/xplora-x5-play-lifestyle-010.jpg "Review: Xplora X5 Play is a kids smartwatch with a lot of potential")
+
+
+[Review: Xplora X5 Play is a kids smartwatch with a lot of potential](https://www.androidcentral.com/xplora-x5-play-kids-smartwatch-review)
+
+
+> Source: Chris Wedel/Android Central Wearables for kids are becoming more and more common, which why I wanted to do an Xplora X5 Play review. This device is more than just another wearable; it's also a phone. This opens up more possibilities as well as problems for families. The Xplora X5 Play attempts to combine many of the features that I have found in watches I have previously reviewed, like polished hardware of the GizmoWatch 2 and the camera found in the TickTalk 3. Xplora is a brand based in Norway and has been making very popular devices for children in Europe for years, but the X5 Play is the first to make it to the United States.
+
+
+***
+![Allurion Technologies Announces 5 Million Pound Challenge in Celebration of World Obesity Day](https://mms.businesswire.com/media/20210304005007/en/764748/23/Logo_RGB.jpg "Allurion Technologies Announces 5 Million Pound Challenge in Celebration of World Obesity Day")
+
+
+[Allurion Technologies Announces 5 Million Pound Challenge in Celebration of World Obesity Day](https://www.businesswire.com/news/home/20210304005007/en/Allurion-Technologies-Announces-5-Million-Pound-Challenge-in-Celebration-of-World-Obesity-Day)
+
+
+> March 04, 2021 07:00 AM Eastern Standard Time NATICK, Mass.--(BUSINESS WIRE)--Allurion Technologies, a pioneering leader in the development of innovative, scalable and trusted weight loss experiences, today announced two major milestones for its Allurion Weight Loss Program with the completion of a 1 million pound challenge launched just last year and the launch of a 5 million pound challenge in celebration of World Obesity Day. The Allurion™ Weight Loss Program features the Elipse® Gastric Balloon—the world's first and only procedureless™ medical device for weight loss—and the Allurion® Virtual Care Suite of wearables and telehealth and AI-powered software that provide real-time insights to both patients and providers.
+
+
