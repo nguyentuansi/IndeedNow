@@ -37644,3 +37644,53 @@
 > Coursera, an online education platform that has seen its business grow amid the coronavirus pandemic, is planning to file paperwork tomorrow for its initial public offering, sources familiar with the matter say. The company has been talking to underwriters since last year, but tomorrow could mark its first legal step in the process to IPO. The Mountain View-based business, founded in 2012, was last valued at $2.4 billion in the private markets, during a Series F fundraising event in July 2020. Bloomberg pegs Coursera's latest valuation at $5 billion.
 
 
+***
+![Reps. Jim Jordan, Ken Buck Say Twitter Failed to Aid Congressional Investigation](https://media.breitbart.com/media/2020/11/Jack-Dorsey-before-Senate-640x335.jpg "Reps. Jim Jordan, Ken Buck Say Twitter Failed to Aid Congressional Investigation")
+
+
+[Reps. Jim Jordan, Ken Buck Say Twitter Failed to Aid Congressional Investigation](https://www.breitbart.com/tech/2021/03/04/reps-jim-jordan-ken-buck-say-twitter-failed-to-aid-congressional-investigation/)
+
+
+> Twitter failed to provide requested data and documentation to assist a House Judiciary Committee investigation into the size, competitiveness, and role of social media companies, according to a letter sent to CEO Jack Dorsey by Reps. Jim Jordan (R-OH) and Ken Buck (R-CO). In the letter, the Republican representatives reiterate their request that Twitter provides the committee with communications related to a number of issues, including content moderation decisions, decisions to 'fact check' the tweets of former President Trump, and the company's assertion that the President's warnings to violent protesters in the summer of 2020 violated its policies.
+
+
+***
+![Consolidated Communications Announces Pricing of Senior Secured Notes](https://mms.businesswire.com/media/20210304006103/en/1012713/23/CCI%2520logo_rgb_hr.jpg "Consolidated Communications Announces Pricing of Senior Secured Notes")
+
+
+[Consolidated Communications Announces Pricing of Senior Secured Notes](https://www.businesswire.com/news/home/20210304006103/en/Consolidated-Communications-Announces-Pricing-of-Senior-Secured-Notes)
+
+
+> March 04, 2021 05:00 PM Eastern Standard Time MATTOON, Ill.--(BUSINESS WIRE)--Consolidated Communications Holdings, Inc. (NASDAQ: CNSL) ('Consolidated') announced today that its wholly-owned subsidiary, Consolidated Communications, Inc. ('CCI'), priced an offering (the 'Offering') of $400 million aggregate principal amount of 5.000% senior secured notes due 2028 (the 'Notes'). The Notes bear interest at a rate of 5.000% per annum, payable semi-annually on April 1 and Oct. 1, commencing on Oct. 1, 2021.
+
+
+***
+![YouTuber Tries His Best To Punch A Hole Through Solid Steel Using Liquid Nitrogen](https://cdn.digg.com/wp-content/uploads/2021/03/04214224/test-98.jpg "YouTuber Tries His Best To Punch A Hole Through Solid Steel Using Liquid Nitrogen")
+
+
+[YouTuber Tries His Best To Punch A Hole Through Solid Steel Using Liquid Nitrogen](https://digg.com/video/punching-a-hole-through-solid-steel-frozen-with-liquid-nitrogen-the-action-lab)
+
+
+> The studio's giant catalogue is only partially represented on the new service. John Hughes shot a three hour version of the beloved John Candy classic "Uncle Buck." Here's what's missing from the original cut. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. This reimagined intro from Lenivko Kvadratjić is impressively dark and disturbed. Building a new monitor for your iMac will take you an hour and save you lots of money.
+
+
+***
+![HP Spectre x360 14 vs. Dell XPS 13: Specs, Performance, More](https://icdn4.digitaltrends.com/image/digitaltrends/dell-xps-13-9310-featured-image-1200x630-c-ar1.91.jpg "HP Spectre x360 14 vs. Dell XPS 13: Specs, Performance, More")
+
+
+[HP Spectre x360 14 vs. Dell XPS 13: Specs, Performance, More](https://www.digitaltrends.com/computing/hp-spectre-x360-14-vs-dell-xps-13/)
+
+
+> Spectre and XPS have been the most premium laptop brands for years now, and the most recent entries in those lines have taken things to another level. The HP Spectre x360 14 and the Dell XPS 13 are undoubtedly two of the best laptops you can buy. Don't let HP's name fool you: The HP Spectre x360 14 uses a 13.5-inch 3:2 display and is officially in the same class as the Dell XPS 13. They also both now use a 16:10 aspect ratio, making for a similarly shaped design. Comparing them makes sense beyond just their displays, though — if you're looking for a 13-inch laptop, then these two machines should be at the top of your list.
+
+
+***
+![DXC Technology Welcomes Dawn Rogers and Kiko Washington to Board of Directors](https://mms.businesswire.com/media/20210304006085/en/593354/23/DXC.jpg "DXC Technology Welcomes Dawn Rogers and Kiko Washington to Board of Directors")
+
+
+[DXC Technology Welcomes Dawn Rogers and Kiko Washington to Board of Directors](https://www.businesswire.com/news/home/20210304006085/en/DXC-Technology-Welcomes-Dawn-Rogers-and-Kiko-Washington-to-Board-of-Directors)
+
+
+> March 04, 2021 04:45 PM Eastern Standard Time TYSONS, Va.--(BUSINESS WIRE)--DXC Technology (NYSE: DXC) today announced the appointments of Dawn Rogers and Kiko Washington to the company's Board of Directors, effective March 4, 2021. Dawn is a global human resources executive and transformation leader with 35 years of experience in organizational design, people analytics, M&A, talent management, change programs, and succession planning for large and small companies. She is currently Director of Human Capital at American Securities LLC where she provides leadership and support to the firm's portfolio of companies in all areas of human capital management.
+
+
