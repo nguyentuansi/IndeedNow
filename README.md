@@ -37362,3 +37362,53 @@
 > Posted: Mar 4, 2021 / 02:54 AM EST / Updated: Mar 4, 2021 / 02:54 AM EST Doctor Anil Mehta, surrounded by his team of doctors, administers a dose of the Pfizer vaccine to Geeta Waddon to mark the 10,000th jab in his small practice in London, Sunday, Feb. 28, 2021. (AP Photo/Frank Augstein) LONDON (AP) — Regulators in the U.K. and four other countries plan to fast-track the development of modified COVID-19 vaccines to ensure that drugmakers are able to move swiftly in targeting emerging variants of the disease.
 
 
+***
+![Paramount Plus: launch time, free trial, apps, movies, shows and everything we know at launch](https://cdn.mos.cms.futurecdn.net/zUmPbd44H7eZB6UEbdJuEM-1200-80.jpg "Paramount Plus: launch time, free trial, apps, movies, shows and everything we know at launch")
+
+
+[Paramount Plus: launch time, free trial, apps, movies, shows and everything we know at launch](https://www.techradar.com/news/paramount-plus-launch-time-free-trial-apps-movies-shows-and-everything-we-know-at-launch)
+
+
+> Paramount Plus has now launched in the US – and despite a few notable originals, it looks quite a lot like CBS All Access so far. This rebranding of ViacomCBS' existing streaming service, which is the home of numerous Star Trek shows and the CBS network's own shows, will eventually be the home of big originals the Halo TV series, Star Trek: Strange New Worlds and a Frasier reboot – not to mention a growing library of movies, including Mission: Impossible 7 and A Quiet Place Part 2. As it stands at launch, it's basically the home of CBS All Access' existing content (which is a solid amount of movies and TV shows) and three originals: MTV's The Real World Homecoming, the long-awaited The SpongeBob Movie: Sponge on the Run and docuseries For Heaven's Sake.
+
+
+***
+![Twitter hails iOS 14 privacy changes](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/01/twitter-privacy-settings-hero.jpg "Twitter hails iOS 14 privacy changes")
+
+
+[Twitter hails iOS 14 privacy changes](https://www.imore.com/twitter-hails-ios-14-privacy-changes)
+
+
+> Source: iMore Twitter's CFO Ned Segal has said the company is confident ahead of Apple's planned changes to iOS 14. From CNBC: Twitter CFO Ned Segal on Wednesday said the social media company is feeling confident as it prepares for Apple's planned privacy update to iOS 14, which will make it easier for iPhone and iPad users to block companies from tracking their activity to target ads. Segal said "We look at the unique signal that Twitter has with a growing audience, with better formats and more relevance and the ability to better leverage that signal, much of which isn't tied to a device ID" whilst speaking at the Morgan Stanley Technology, Media, and Telecom Conference, saying "we feel really good about our ability to leverage that combination.
+
+
+***
+![HomeKit makes Ikea's cheap buttons and motion sensors much more powerful](https://cdn.vox-cdn.com/thumbor/ITtLaRMPRp4Ke2-STvH2rCGttXM=/0x142:2040x1210/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22342010/verge_DSC_3808_2040pxl.jpg "HomeKit makes Ikea's cheap buttons and motion sensors much more powerful")
+
+
+[HomeKit makes Ikea's cheap buttons and motion sensors much more powerful](https://www.theverge.com/22310841/ikea-shortcut-button-motion-sensor-homekit-smart-home-review-test)
+
+
+> If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Ikea's new $9.99 / €7.99 / £6 Trådfri Shortcut Buttons and existing $14.99 / €12.95 / £12 Trådfri Motion Sensors recently gained HomeKit support to the delight of many Apple device owners. Importantly, the addition is cumulative for the most part, allowing the Ikea devices to function with the best features of Ikea Home Smart while layering on the best of Apple. I've been testing both Ikea Home Smart devices for the past few days and while setup is predictably buggy, when they're up and running it's glorious, especially for the price.
+
+
+***
+![#TECH: Facebook's BARS, an app for rappers](https://assets.nst.com.my/images/articles/botsrap_NSTfield_image_socialmedia.var_1614851209.jpg "#TECH: Facebook's BARS, an app for rappers")
+
+
+[#TECH: Facebook's BARS, an app for rappers](https://www.nst.com.my/lifestyle/bots/2021/03/670999/tech-facebooks-bars-app-rappers)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![First till-free Amazon Fresh store opens in the UK](https://cdn.mos.cms.futurecdn.net/Yo3xbPFkoi8TMSfifMDMT-1200-80.jpg "First till-free Amazon Fresh store opens in the UK")
+
+
+[First till-free Amazon Fresh store opens in the UK](https://www.techradar.com/news/first-till-free-amazon-fresh-store-opens-in-the-uk)
+
+
+> (Image credit: Amazon) High-street shopping as we know it might be about to change for good after the opening of Amazon's new store in London.The ecommerce giant has unveiled its first till-free Amazon Fresh store in Ealing in West London, opening up a 2,500 square feet shop to customers from today, offering a wide selection of food and drink products, including the new "by Amazon" brand.Employing Amazon's ‘Just Walk Out' technology, all customers need to do in order to make purchases is scan the Amazon Go app at the gate and do their shopping.
+
+
