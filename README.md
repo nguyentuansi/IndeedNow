@@ -37459,3 +37459,47 @@
 > March 04, 2021 07:00 AM Eastern Standard Time NATICK, Mass.--(BUSINESS WIRE)--Allurion Technologies, a pioneering leader in the development of innovative, scalable and trusted weight loss experiences, today announced two major milestones for its Allurion Weight Loss Program with the completion of a 1 million pound challenge launched just last year and the launch of a 5 million pound challenge in celebration of World Obesity Day. The Allurion™ Weight Loss Program features the Elipse® Gastric Balloon—the world's first and only procedureless™ medical device for weight loss—and the Allurion® Virtual Care Suite of wearables and telehealth and AI-powered software that provide real-time insights to both patients and providers.
 
 
+***
+![My new game made with Python and Pygame](https://external-preview.redd.it/mkbiAcVpnulDAd0frV187GXFYWqkpfKXoZame_X2I5A.jpg?auto=webp&s=58d9d41be40acf8d16ebca775f1a078cf35704eb "My new game made with Python and Pygame")
+
+
+[My new game made with Python and Pygame](https://www.reddit.com/r/Python/comments/lxl82j/my_new_game_made_with_python_and_pygame_cosmic/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Truecaller rolls out new personal safety app Guardians: how to download and use on Android, iPhone](https://images.financialexpress.com/2021/03/Guardians_Blog.png "Truecaller rolls out new personal safety app Guardians: how to download and use on Android, iPhone")
+
+
+[Truecaller rolls out new personal safety app Guardians: how to download and use on Android, iPhone](https://www.financialexpress.com/industry/technology/truecaller-rolls-out-new-personal-safety-app-guardians-how-to-download-and-use-on-android-iphone/2206347/)
+
+
+> The company has assured that there will be no sharing of any information with third-party apps that can be used for commercial use.A new personal safety app has been developed by Truecaller and it's called Guardians. The app is equipped with many safety features that will allow users to keep in touch with their close ones in emergency situations. It is to note that this is the second app developed by the company and will help people feed their emergency contacts- family, friends, community guardians, and authorities in a list.
+
+
+***
+![The Future Games Show returns this month with PS5 world premieres](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/future-games-show-spring-showcase-2021.jpeg "The Future Games Show returns this month with PS5 world premieres")
+
+
+[The Future Games Show returns this month with PS5 world premieres](https://www.androidcentral.com/future-games-show-returns-month-over-40-games-ps5-and-other-consoles)
+
+
+> Source: Future The Future Games Show is an event held by GamesRadar+ showcasing upcoming games. This year the spring festivities will be held on March 25th with a look at 40 games from over 30 different publishers and developers. The announcements will range from world premieres for PS5 and more to developer interviews. Resident Evil 3 Remake stars Jeff Schine (Carlos Oliveira) and Nicole Tompkins (Jill Valentine) will be hosting the event. Following the success of multiple Future Games Shows last year amid the pandemic, GamesRadar+ has announced that the Future Games Show is returning this spring.
+
+
+***
+[Hyundai's sporty new small car](https://www.couriermail.com.au/technology/hyundais-sporty-new-small-car/video/e47dc9c2474a31820723aa74725c9566)
+
+
+> My NewsMy LocalQLDNationalWorldOpinionBusinessEntertainmentLifestyleSport
+
+
+***
+[Hyundai's sporty new small car](https://www.heraldsun.com.au/technology/hyundais-sporty-new-small-car/video/e47dc9c2474a31820723aa74725c9566)
+
+
+> My NewsMy LocalVictoriaNationalWorldOpinionBusinessEntertainmentLifestyleSport
+
+
