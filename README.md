@@ -37315,3 +37315,50 @@
 > Electric vehicles (EV) can help reduce pollution and tackle climate change. However, the lack of public charging infrastructure has hampered the growth of EVs. India has just about 250 public charging stations for EVs, according to reports. Out of the 231 million vehicles sold in India in 2019-20, only 156,000 were EVs. The long waiting time to recharge a battery has stopped many from going electric. Sun Mobility, a Bangalore-based startup has come up with a pay-as-you-go battery service system. Users can stop at a swapping station before their battery runs out of power.
 
 
+***
+[WhatsApp working on new self-destructing images feature](https://www.zeebiz.com/technology/news-whatsapp-working-on-new-self-destructing-images-feature-151630)
+
+
+> New Delhi, March 4 (IANS) Instant messaging app WhatsApp is reportedly rolling out a new feature that would allow the receiver to only view images once, without the ability to save them to their device.
+
+
+***
+![WhatsApp gets major update for its desktop app](https://static.independent.co.uk/2021/01/07/13/whatsapp%20update%20new%20privacy%20policy.jpg?width=1200&auto=webp&quality=75 "WhatsApp gets major update for its desktop app")
+
+
+[WhatsApp gets major update for its desktop app](https://www.independent.co.uk/life-style/gadgets-and-tech/whatsapp-update-desktop-app-calling-voice-video-b1812232.html)
+
+
+> WhatsApp has added calls to its desktop app, as part of a plan to make 'conversations on WhatsApp to feel as close to in-person as possible'.Users will now be able to conduct voice and video calls through their computer in the same way they do their phone, simply calling other users and having them pop up on their desktop.For now, the feature is limited to one-to-one calls, a decision WhatsApp said it had made to ensure the system was reliable. It would look to expand to group calls in the future, it said, without giving any specific date.
+
+
+***
+![Countingup closes £9.1M for its business current account with built-in accounting features – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/TimandMikeOnStage.jpg?w=600 "Countingup closes £9.1M for its business current account with built-in accounting features – TechCrunch")
+
+
+[Countingup closes £9.1M for its business current account with built-in accounting features – TechCrunch](https://techcrunch.com/2021/03/04/countingup-series-a/)
+
+
+> Countingup, the U.K. fintech offering a business current account with built-in accounting features, has closed £9.1 million in Series A investment. Leading the round is Framework Venture Partners, with participation from Gresham House Ventures, Sage and existing investors. It's noteworthy that Countingup has previously taken investment from ING, and the addition of Sage as a backer is interesting since both could help the startup reach more business customers. It also potentially sets up one future road to exit.
+
+
+***
+![WhatsApp desktop app adds voice and video calls support – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/whatsapp-desktop-video-call-feature.jpg "WhatsApp desktop app adds voice and video calls support – TechCrunch")
+
+
+[WhatsApp desktop app adds voice and video calls support – TechCrunch](https://techcrunch.com/2021/03/04/whatsapp-rolls-out-voice-and-video-call-support-to-desktop-app/)
+
+
+> WhatsApp is rolling out support for voice and video calling to its desktop app, the Facebook-owned messaging service said Thursday, providing relief to countless people sitting in front of computers who have had to reach for their phone every time their WhatsApp rang. For now, WhatsApp said its nearly five-year-old desktop app for Mac and Windows will only support one-to-one calls for now, but that it will be expanding this feature to include group voice and video calls 'in the future.' Video calls work 'seamlessly' for both portrait and landscape orientation, and the desktop client is 'set to be always on top so you never lose your video chats in a browser tab or stack of open windows,' it said.
+
+
+***
+![UK and 4 nations to fast-track modified COVID-19 vaccines](https://www.abc27.com/wp-content/uploads/sites/55/2021/03/fbe9b4914cba408181fb8bd63546e86b.jpg?w=1280 "UK and 4 nations to fast-track modified COVID-19 vaccines")
+
+
+[UK and 4 nations to fast-track modified COVID-19 vaccines](https://www.abc27.com/news/us-world/tech/uk-and-4-nations-to-fast-track-modified-covid-19-vaccines/)
+
+
+> Posted: Mar 4, 2021 / 02:54 AM EST / Updated: Mar 4, 2021 / 02:54 AM EST Doctor Anil Mehta, surrounded by his team of doctors, administers a dose of the Pfizer vaccine to Geeta Waddon to mark the 10,000th jab in his small practice in London, Sunday, Feb. 28, 2021. (AP Photo/Frank Augstein) LONDON (AP) — Regulators in the U.K. and four other countries plan to fast-track the development of modified COVID-19 vaccines to ensure that drugmakers are able to move swiftly in targeting emerging variants of the disease.
+
+
