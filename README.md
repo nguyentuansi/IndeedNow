@@ -37503,3 +37503,53 @@
 > My NewsMy LocalVictoriaNationalWorldOpinionBusinessEntertainmentLifestyleSport
 
 
+***
+![All The New Game+ Expo 2.0 Announcements](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/Suda%2051.jpg?itok=FllieLz3 "All The New Game+ Expo 2.0 Announcements")
+
+
+[All The New Game+ Expo 2.0 Announcements](https://techraptor.net/gaming/news/all-new-game-expo-20-announcements)
+
+
+> 03/04/2021 - 11:13 | By: Don Parsons Home Gaming Gaming News All The New Game+ Expo 2.0 Announcements More Jap Games then you can shake a stick at New Game+ Expo 2.0 started off with a wise Grasshopper kicking things off, namely Suda51 appearing to make an announcement and introduce the events. Silver Case and its sequel Silver Case: 25th Ward are being remastered to the Nintendo Switch as a single title called Silvercase 2425. It can be played on the tv or handheld mode. It releases July 6, 2021.
+
+
+***
+![Teardown's Version 0.6 Brings Steam Workshop Support](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/Teardown.jpg?itok=vrRw_puj "Teardown's Version 0.6 Brings Steam Workshop Support")
+
+
+[Teardown's Version 0.6 Brings Steam Workshop Support](https://techraptor.net/gaming/news/teardowns-version-06-brings-steam-workshop-support)
+
+
+> 03/04/2021 - 11:12 | By: Patrick Perrault Teardown's Version 0.6 brings Steam Workshop, custom tools, and additional content to support modding to the game. There are over 100 mods that are already available, which is pretty impressive. Let's check them out: The first mod is The Junkyard by BattleBob72, which is a map that is described as a "junkyard of cards and a monster truck test course." There's a bunch of things to play with such as a car shredder, a killdozer, a shreddozer, monster trucks, and more vehicles.
+
+
+***
+![Wow. Classy move. (Reddit adding default-on presence indicators](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Wow. Classy move. (Reddit adding default-on presence indicators")
+
+
+[Wow. Classy move. (Reddit adding default-on presence indicators](https://www.reddit.com/r/programming/comments/lxo444/wow_classy_move_reddit_adding_defaulton_presence/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Huge Apple sale at Amazon: deals on AirPods, iPads, Apple Watch, and more](https://cdn.mos.cms.futurecdn.net/BEXdGmoeuiSK2gWNvpYQpP-1200-80.jpg "Huge Apple sale at Amazon: deals on AirPods, iPads, Apple Watch, and more")
+
+
+[Huge Apple sale at Amazon: deals on AirPods, iPads, Apple Watch, and more](https://www.techradar.com/news/huge-apple-sale-at-amazon-deals-on-airpods-ipads-apple-watch-and-more)
+
+
+> (Image credit: Future) We're rounding up today's best Apple deals from Amazon's sale, which include huge savings on Apple's best-selling devices like AirPods, iPads, the Apple Watch, and the powerful MacBook Pro M1.See more Apple deals at AmazonOur favorite Apple deals include the best-selling AirPods Pro, which are in stock and back down to $199, a massive $300 discount on the Apple Watch 5 with cellular, and the powerful MacBook Pro M1 on sale for a record-low price of $1,199.99. If you're interested in iPad deals, you can score a $50 price cut on the all-new iPad Air and snag the latest model Apple iPad on sale for $319.
+
+
+***
+![$120+ Billion Network Function Virtualization (NFV) Market by Component, Virtualized Network Function, Application, End User](https://mms.businesswire.com/media/20210304005775/en/371054/23/ResearchAndMarkets_800px.jpg "$120+ Billion Network Function Virtualization (NFV) Market by Component, Virtualized Network Function, Application, End User")
+
+
+[$120+ Billion Network Function Virtualization (NFV) Market by Component, Virtualized Network Function, Application, End User](https://www.businesswire.com/news/home/20210304005775/en/120-Billion-Network-Function-Virtualization-NFV-Market-by-Component-Virtualized-Network-Function-Application-End-User---Global-Forecast-to-2027---ResearchAndMarkets.com)
+
+
+> March 04, 2021 11:10 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Network Function Virtualization (NFV) Market by Component, Virtualized Network Function, Application, End User - Global Forecast to 2027" report has been added to ResearchAndMarkets.com's offering. The Network Function Virtualization (NFV) Market is expected to reach $122 billion by 2027, growing at a CAGR of 34.9% during the forecast period of 2019 to 2027. The growth of this market is mainly attributed to the growing number of network complexities and ever-increasing demand for cloud-based services, deployment of IoT, security agility, cloud migration, increasing demand for network virtualization and automation, and need for advanced network management system are the key factors driving the growth of the network function virtualization market.
+
+
