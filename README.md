@@ -37221,3 +37221,47 @@
 > We may earn a commission for purchases using our links. Learn more. Unrelated The two issues this customer was experiencing are separate problems. 3 Mar 2021 Source: iMore Apple has released a statement addressing fear about the consequences of a missed Apple Card payment. The company explains that the issues this particular customer was experiencing are not related to each other. Yesterday, a story arose about Apple potentially locking a user out of their Apple ID on all of their devices after failing to make a payment on their Apple Card.
 
 
+***
+[Google：淘汰第三方 Cookie 後，不會採用新的追蹤用戶技術](https://technews.tw/2021/03/04/google-says-it-will-not-use-new-ways-of-tracking-you-as-it-phases-out-browser-cookies-for-ads/)
+
+
+> Google 承諾 2022 年初終止 Chrome 瀏覽器支援 Cookie，而且不再使用其他技術「追蹤」網 […]
+
+
+***
+![Go behind episode 207 of 'Servant' with M. Night Shyamalan](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/servant-episode-207.jpg "Go behind episode 207 of 'Servant' with M. Night Shyamalan")
+
+
+[Go behind episode 207 of 'Servant' with M. Night Shyamalan](https://www.imore.com/go-behind-episode-207-servant-m-night-shyamalan)
+
+
+> Source: Apple TV+ Apple has released its latest behind the episode of Servant. M. Night Shyamalan talks about the questions that the latest episode poses. Apple has shared its latest behind-the-scenes look at Servant, the Apple TV+ thriller that is helmed by M. Night Shyamalan. This time, the series is taking viewers behind episode 207 of the second season of the series, titled Marino. M. Night Shyamalan dives deep into the inner workings of Servant Episode 207, specifically how the mystery is contained within the Turners' walls.
+
+
+***
+![WhatsApp slowly rolling out voice, video calling feature for web](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/Screenshot_2020-03-16_at_12.11-647x363.png?mxatt_pUaJQnPZLGd.aS0BFeY1891ec1 "WhatsApp slowly rolling out voice, video calling feature for web")
+
+
+[WhatsApp slowly rolling out voice, video calling feature for web](https://www.indiatoday.in/technology/news/story/whatsapp-slowly-rolling-out-voice-video-calls-feature-for-web-1775396-2021-03-04)
+
+
+> WhatsApp has been long rumored to roll out the video and voice calling feature in the desktop version of the app.A new report suggests that WhatsApp is rolling out of the feature for non-beta users.As per WAbetainfo report, WhatsApp video and voice call features are out from betaWhatsApp has been long rumored to roll out the video and voice calling feature in the desktop version of the app. A new report suggests that WhatsApp is rolling out of the feature for non-beta users. As of now, the voice and video calling feature was only available in the mobile version of the app but WhatsApp is working to bring the feature to the web.
+
+
+***
+![Become an AI/ML Developer series.](https://external-preview.redd.it/SW3SRjvuN_3Em7Hn1QpJYD5A64jY_7osnx7kxAFDDDI.jpg?auto=webp&s=0640d0ca8563d96f1a2eb12e9148adf455fe81c3 "Become an AI/ML Developer series.")
+
+
+[Become an AI/ML Developer series.](https://www.reddit.com/r/Python/comments/lxbsi2/become_an_aiml_developer_series/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Zoom recovers from hours-long outage, says issues were likely due to local internet glitch](https://www.zeebiz.com/technology/news-zoom-recovers-from-hours-long-outage-says-issues-were-likely-due-to-local-internet-glitch-151575)
+
+
+> (Reuters) - Zoom Video Communications Inc said it had recovered from an outage where some users were unable to join meetings on the video-conferencing platform on Wednesday.
+
+
