@@ -37174,3 +37174,50 @@
 > By Jeffrey DastinFILE PHOTO: The logo of Amazon is seen on the door of an Amazon Books retail store in New York City, U.S., February 14, 2019. REUTERS/Brendan McDermid(Reuters) - Amazon.com Inc will open its first-ever physical store outside the United States on Thursday.The world's largest online retailer said the cashierless store, dubbed 'Amazon Fresh,' is located in Britain, in the London Borough of Ealing. It will carry a private UK food brand it's calling 'by Amazon' and will let consumers skip the checkout line when they shop.
 
 
+***
+![Gillmor Gang: Off The Record – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/07/F06D2685-6169-42C0-AE3B-D2545A1B3534.jpeg?w=711 "Gillmor Gang: Off The Record – TechCrunch")
+
+
+[Gillmor Gang: Off The Record – TechCrunch](https://techcrunch.com/2021/03/03/gillmor-gang-off-the-record/)
+
+
+> Of all the gin joints etc. etc. Clubhouse continues to confound those who don't believe in the restorative powers of the Next Big Thing. It doesn't make sense, they say, that an audio service based on live podcasts will change the course of human history, And they are right. Social computing is in the doghouse in the wake of January 6 and the former president. But the folks behind Clubhouse have gotten a few key things right. The main thing is that in the beginning of the return to some rational possibility for the suppression of Covid, we're opening our hearts to the hope we've abandoned for more than a year.
+
+
+***
+![Yamaha to Begin Offering Samples of YGPX024 TEG Module for Vehicle Use](https://mms.businesswire.com/media/20210303005333/en/862507/23/YGPX024_with_Scale.jpg "Yamaha to Begin Offering Samples of YGPX024 TEG Module for Vehicle Use")
+
+
+[Yamaha to Begin Offering Samples of YGPX024 TEG Module for Vehicle Use](https://www.businesswire.com/news/home/20210303005333/en/Yamaha-to-Begin-Offering-Samples-of-YGPX024-TEG-Module-for-Vehicle-Use)
+
+
+> March 03, 2021 09:00 PM Eastern Standard Time HAMAMATSU, Japan--(BUSINESS WIRE)--Yamaha Corporation (TOKYO:7951) has developed the YGPX024, the world's largest*1 and most powerful*2 thermoelectric power generation (TEG) module using automotive exhaust gas heat energy to generate power. Sample sales are set to begin March 5 (JST). Global warming is an ongoing challenge. Hybrid vehicles and EVs have become a new trend in the automobile industry, while new energy and dispersed power sources are becoming popular power supply measures.
+
+
+***
+![Heilind Asia Pacific Expanded the Product Line with Pomona Electronics](http://www.businesswire.com/images/bwlogo_square.png "Heilind Asia Pacific Expanded the Product Line with Pomona Electronics")
+
+
+[Heilind Asia Pacific Expanded the Product Line with Pomona Electronics](https://www.businesswire.com/news/home/20210303005336/en/Heilind-Asia-Pacific-Expanded-the-Product-Line-with-Pomona-Electronics)
+
+
+> March 03, 2021 09:00 PM Eastern Standard Time HONG KONG--(BUSINESS WIRE)--Heilind Asia Pacific, part of Heilind Electronics Inc., announced an expanded inventory of electronic components and solutions from Pomona Electronics, the go-to supplier for bench engineers and technicians, field technicians, and product designers who need reliable cables, connectors, and adapters for everything from the latest electronics to legacy devices. Pomona Electronics was founded in 1951 in Pomona, California (USA).
+
+
+***
+[NZ-based Xero, provider of accounting software for small businesses, will acquire Denmark-based workforce management platform Planday in a deal worth €183.5M (Aimee Chanthadavong/ZDNet)](http://www.techmeme.com/210303/p30#a210303p30)
+
+
+> Aimee Chanthadavong / ZDNet: NZ-based Xero, provider of accounting software for small businesses, will acquire Denmark-based workforce management platform Planday in a deal worth €183.5M — Under the deal, valued at €183.5 million, Xero will pay €155.7 million upfront and the remainder will be paid based …
+
+
+***
+![No, a late Apple Card payment doesn't hold your Apple ID hostage](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/08/apple-card-hero_0.jpeg "No, a late Apple Card payment doesn't hold your Apple ID hostage")
+
+
+[No, a late Apple Card payment doesn't hold your Apple ID hostage](https://www.imore.com/no-late-apple-card-payment-doesnt-hold-your-apple-id-hostage)
+
+
+> We may earn a commission for purchases using our links. Learn more. Unrelated The two issues this customer was experiencing are separate problems. 3 Mar 2021 Source: iMore Apple has released a statement addressing fear about the consequences of a missed Apple Card payment. The company explains that the issues this particular customer was experiencing are not related to each other. Yesterday, a story arose about Apple potentially locking a user out of their Apple ID on all of their devices after failing to make a payment on their Apple Card.
+
+
