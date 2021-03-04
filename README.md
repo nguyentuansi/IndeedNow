@@ -37265,3 +37265,53 @@
 > (Reuters) - Zoom Video Communications Inc said it had recovered from an outage where some users were unable to join meetings on the video-conferencing platform on Wednesday.
 
 
+***
+![WhatsApp can't share users' contact info](https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/a6e0d788-1c3e-5c3c-8feb-5d3e6484d68f&operation=CROP&offset=0x184&resize=3500x1969 "WhatsApp can't share users' contact info")
+
+
+[WhatsApp can't share users' contact info](https://www.iol.co.za/technology/mobile/whatsapp-cant-share-users-contact-info-sa-information-regulator-98293891-35df-4400-a126-b9cd95905702)
+
+
+> Johannesburg - Facebook Inc cannot share any contact information it collects from WhatsApp users in South Africa with its other properties without first obtaining authorisation from the country's Information Regulator (IR), the agency said on Wednesday.In January, the Facebook-owned messaging platform WhatsApp informed users it was preparing a new privacy policy, under which it could share some data, including location and phone numbers, with Facebook and its other units such as Instagram and Messenger.
+
+
+***
+![Redmi Note 10 Series Renders, Specifications Leaked Ahead of Launch](https://i.gadgets360cdn.com/large/Redmi_Note_10_leak_twitter_1614836153558.jpg "Redmi Note 10 Series Renders, Specifications Leaked Ahead of Launch")
+
+
+[Redmi Note 10 Series Renders, Specifications Leaked Ahead of Launch](https://gadgets.ndtv.com/mobiles/news/redmi-note-10-series-leak-renders-specifications-ahead-official-launch-march-4-xiaomi-2383311)
+
+
+> Redmi Note 10 series renders and specifications have leaked ahead of its official launch later today, March 4. A known tipster has shared the renders for the three phones – Redmi Note 10, Redmi Note 10 Pro, and Redmi Note 10 Pro Max, along with specifications for Redmi Note 10 Pro Max. The phone is said to come with a 120Hz refresh rate and be powered by the Snapdragon 732 SoC. Redmi Note 10 Pro is said to carry almost the same specifications as the Pro Max variant, with a difference in rear cameras.
+
+
+***
+![Vivo S9 5G, Vivo S9e 5G With Triple Rear Cameras Launched](https://i.gadgets360cdn.com/large/vivo_s9_main_1_1614836077605.jpg "Vivo S9 5G, Vivo S9e 5G With Triple Rear Cameras Launched")
+
+
+[Vivo S9 5G, Vivo S9e 5G With Triple Rear Cameras Launched](https://gadgets.ndtv.com/mobiles/news/vivo-s9-s9e-5g-price-cny-2399-2999-launch-specifications-sale-date-march-12-22-china-2383312)
+
+
+> Vivo S9 5G and Vivo S9e 5G have launched in China on Wednesday as the latest smartphones from the company. The phones are successors to the Vivo S7 range and support 5G. The Vivo S9 5G is powered by the MediaTek Dimensity 1100 SoC, whereas the Vivo S9e 5G is powered by the MediaTek Dimensity 820 SoC. The Vivo S9 5G has a wide display notch that houses two selfie cameras, while the Vivo S9e 5G has a waterdrop-style notch that houses a single selfie camera.Vivo S9 5G, Vivo S9e 5G priceThe new Vivo S9 5G is priced in China starting at CNY 2,999 (roughly Rs.
+
+
+***
+![Brush up for ML coding interviews: practice ML algorithms in Python, including a new daily problem](https://external-preview.redd.it/3jA_HjCgAYfnNmRh1eQvY92OwTwNJr3DZQpgqBv9UqQ.jpg?auto=webp&s=c2bb999b308c0ebc9682578c7fec9ec84dee13cb "Brush up for ML coding interviews: practice ML algorithms in Python, including a new daily problem")
+
+
+[Brush up for ML coding interviews: practice ML algorithms in Python, including a new daily problem](https://www.reddit.com/r/programming/comments/lxdjj7/brush_up_for_ml_coding_interviews_practice_ml/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Watch: A new swappable battery system](https://www.thehindu.com/sci-tech/technology/luw2kt/article33985997.ece/ALTERNATES/LANDSCAPE_615/Swapstations "Watch: A new swappable battery system")
+
+
+[Watch: A new swappable battery system](https://www.thehindu.com/sci-tech/technology/watch-swappable-battery-system/article33986008.ece)
+
+
+> Electric vehicles (EV) can help reduce pollution and tackle climate change. However, the lack of public charging infrastructure has hampered the growth of EVs. India has just about 250 public charging stations for EVs, according to reports. Out of the 231 million vehicles sold in India in 2019-20, only 156,000 were EVs. The long waiting time to recharge a battery has stopped many from going electric. Sun Mobility, a Bangalore-based startup has come up with a pay-as-you-go battery service system. Users can stop at a swapping station before their battery runs out of power.
+
+
