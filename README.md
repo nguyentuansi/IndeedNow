@@ -37794,3 +37794,53 @@
 > No body in the article.
 
 
+***
+![Redmi Note 10 Pro Max vs OnePlus Nord vs Vivo V20 Pro: Price, cameras, battery and other features compared](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/redmi_note_10_pro_max_vs_onepl-483x271_1200_210305093530.jpeg "Redmi Note 10 Pro Max vs OnePlus Nord vs Vivo V20 Pro: Price, cameras, battery and other features compared")
+
+
+[Redmi Note 10 Pro Max vs OnePlus Nord vs Vivo V20 Pro: Price, cameras, battery and other features compared](https://www.indiatoday.in/technology/features/story/redmi-note-10-pro-max-vs-oneplus-nord-vs-vivo-v20-pro-price-cameras-battery-and-other-features-compared-1775806-2021-03-05)
+
+
+> The Redmi Note 10 Pro Max, OnePlus Nord, and Vivo V20 Pro are fairly powerful mid-range smartphones. Here's a detailed comparison to help you pick the best of three.Ayush Chourasia | March 5, 2021 | Updated 09:26 IST Redmi Note 10 Pro Max vs OnePlus Nord vs Vivo V20 Pro
+
+
+***
+![Motorola hints at Moto G30, Moto G10 launch in India](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-03-04_at_10_1200_210305093509.29_0-483x271.png "Motorola hints at Moto G30, Moto G10 launch in India")
+
+
+[Motorola hints at Moto G30, Moto G10 launch in India](https://www.indiatoday.in/technology/news/story/motorola-hints-at-moto-g30-moto-g10-launch-in-india-1775816-2021-03-05)
+
+
+> Motorola Moto G10 and Moto G30 have already been launched in Europe. The company is expected to sell the G10 as the G10 power in India.Ankita Chakravarti | March 5, 2021 | Updated 09:25 IST
+
+
+***
+![9 great apes get COVID-19 vaccinations at San Diego Zoo](https://www.clickondetroit.com/resizer/2Qhks0Ao0X76SGf5YFVcTun_sPg=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/DYV3XZAPYNEV5OJQM26SKTR46E.jpg "9 great apes get COVID-19 vaccinations at San Diego Zoo")
+
+
+[9 great apes get COVID-19 vaccinations at San Diego Zoo](https://www.clickondetroit.com/tech/2021/03/05/9-great-apes-get-covid-19-vaccinations-at-san-diego-zoo/)
+
+
+> SAN DIEGO – The San Diego Zoo has vaccinated nine great apes for the coronavirus after a troop of gorillas in its Safari Park became infected, officials said Thursday.Four orangutans and five bonobos received COVID-19 injections in January and February. Three bonobos and a gorilla also were expected to receive the vaccine, which is experimental.It was developed by Zoetis Inc., a U.S. firm that produces medicine for animals.The vaccinations followed a January outbreak of COVID-19 at the zoo's Safari Park.
+
+
+***
+![Realme Narzo 30A goes on first Flipkart sale today, should you buy this budget phone](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_narzo_30a_4-483x271_1200_210305093517.jpeg "Realme Narzo 30A goes on first Flipkart sale today, should you buy this budget phone")
+
+
+[Realme Narzo 30A goes on first Flipkart sale today, should you buy this budget phone](https://www.indiatoday.in/technology/news/story/realme-narzo-30a-goes-on-first-flipkart-sale-today-should-you-buy-this-budget-phone-1775811-2021-03-05)
+
+
+> Realme Narzo 30A comes in Laser Black and Laser Blue colours but the design looks like that of a briefcase.Shubham Verma | March 5, 2021 | Updated 09:13 IST
+
+
+***
+![9 great apes get COVID-19 vaccinations at San Diego Zoo](https://www.clickorlando.com/resizer/2Qhks0Ao0X76SGf5YFVcTun_sPg=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/DYV3XZAPYNEV5OJQM26SKTR46E.jpg "9 great apes get COVID-19 vaccinations at San Diego Zoo")
+
+
+[9 great apes get COVID-19 vaccinations at San Diego Zoo](https://www.clickorlando.com/tech/2021/03/05/9-great-apes-get-covid-19-vaccinations-at-san-diego-zoo/)
+
+
+> SAN DIEGO – The San Diego Zoo has vaccinated nine great apes for the coronavirus after a troop of gorillas in its Safari Park became infected, officials said Thursday.Four orangutans and five bonobos received COVID-19 injections in January and February. Three bonobos and a gorilla also were expected to receive the vaccine, which is experimental.It was developed by Zoetis Inc., a U.S. firm that produces medicine for animals.The vaccinations followed a January outbreak of COVID-19 at the zoo's Safari Park.
+
+
