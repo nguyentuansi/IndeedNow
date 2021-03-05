@@ -38078,3 +38078,53 @@
 > March 05, 2021 08:44 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Robotic Waste Sorting System Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)" report has been added to ResearchAndMarkets.com's offering. Global Robotic Waste Sorting System Market is expected to register a CAGR of 19.5% over the forecast period (2021 - 2026). According to Waste Management World, "Intelligent robotic systems can process almost any given waste stream and sorting capabilities can be redefined for every new market situation - even on a daily basis.
 
 
+***
+![Tech hiring in India above pre-pandemic levels: Indeed](https://cdn.siasat.com/wp-content/uploads/2021/03/Untitled-1-6.jpg "Tech hiring in India above pre-pandemic levels: Indeed")
+
+
+[Tech hiring in India above pre-pandemic levels: Indeed](https://www.siasat.com/tech-hiring-in-india-above-pre-pandemic-levels-indeed-2103963/)
+
+
+> Mumbai: A study of tech job postings on job site Indeed on Friday showed that hiring in tech roles between April 2020 and January 2021 was consistently above pre-pandemic levels, peaking 17 per cent in November 2020. Tech job postings in India were up 13 per cent in January 2021 from a year ago, showed the data from Indeed. Indeed also assessed the fastest growing tech roles in India and companies actively hiring for these roles from 2020-2021. Hiring for tech roles was primarily driven by IT, IT enabled Services (ITeS), financial services, e-commerce, and consulting sectors.
+
+
+***
+![New-look Ryuk ransomware is now deadlier than ever](https://cdn.mos.cms.futurecdn.net/KNuiSqpPz8yXiQ6Q3WVVxX-1200-80.jpg "New-look Ryuk ransomware is now deadlier than ever")
+
+
+[New-look Ryuk ransomware is now deadlier than ever](https://www.techradar.com/news/new-look-ryuk-ransomware-is-now-deadlier-than-ever)
+
+
+> (Image credit: Shutterstock) Ryuk, one of the most prolific and resilient ransomware strains, has taken on new worm-like capabilities, according to security researchers.The ransomware is operated by Russian cybercriminal syndicate Wizard Spider, and has been infecting victims for several years. It's been on the radar of several cybersecurity agencies, especially since its operators were ruthless enough to attack healthcare facilities in the middle of the Covid19-pandemic.Analyzing a new sample of the ransomware at the National Agency for the Security of Information Systems (ANSSI), France's national cybersecurity agency, researchers discovered that Ryuk can now spread from one machine to another on its own.
+
+
+***
+![The Hyundai IONIQ 5 Cuts a Serious Case for an All-Electric Future](https://design-milk.com/images/2021/02/45011-HyundaiIONIQ5RedefinesElectricMobilityLifestyle.jpg "The Hyundai IONIQ 5 Cuts a Serious Case for an All-Electric Future")
+
+
+[The Hyundai IONIQ 5 Cuts a Serious Case for an All-Electric Future](https://design-milk.com/angular-hyundai-ioniq-5-cuts-a-serious-case-for-an-all-electric-future/)
+
+
+> Korean automotive brand Hyundai's 45 Concept made waves back in 2019 at the Frankfurt Motor Show for the vehicle's linear crispness accompanied alongside the aspirational promises of an all-electric future. Fast forward to 2021 and the automotive brand has somehow kept the ‘Sensuous Sportiness' of the monocoque-style body and a futuristic interior mostly intact in the form of the IONIQ 5. The original 45 Concept was conceived as a spiritual tribute to one Hyundai's most notable designs, the Pony Coupe Concept, an origami-like expression of sheet metal designed by an Italian designer, Giorgetto Giugiaro.
+
+
+***
+![This is when we think the third stimulus check could come](https://cnet3.cbsistatic.com/img/ZtYun4e1QPsefBtaR-mGO4NpK8U=/1200x630/2020/06/09/5b084f29-1639-4b97-a3dd-82639635b6ef/008-money-us-dollar-bills-roll-stack-cash.jpg "This is when we think the third stimulus check could come")
+
+
+[This is when we think the third stimulus check could come](https://www.cnet.com/personal-finance/when-will-you-get-the-new-stimulus-check-it-all-comes-down-to-possible-senate-delays/)
+
+
+> The Senate may not be done wrestling with the third stimulus check details. Sarah Tew/CNET After a grinding late-night session, where Senate clerks read aloud the 628-page bill, the Senate picked up the debate on the $1.9 trillion stimulus package early Friday morning. Today is not expected to get any easier, with the Senate heading into a marathon amendment session called 'vote-a-rama" that could stretch into Saturday morning. The goal for Senate Democrats is to bring the stimulus bill up for a vote as soon as tonight and have President Joe Biden sign the legislation into law before the middle of the month, with an eye to sending the next round of checks shortly after.
+
+
+***
+![Outriders is Not The Next Destiny and That's OK](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/Outriders%20Title.jpg?itok=nH_J1mZW "Outriders is Not The Next Destiny and That's OK")
+
+
+[Outriders is Not The Next Destiny and That's OK](https://techraptor.net/gaming/opinions/outriders-not-next-destiny)
+
+
+> 03/05/2021 - 11:00 | By: Tyler Chancey Home Gaming Gaming Opinions Outriders is Not The Next Destiny and That's OK A Shooter Can Just be a Shooter My first impressions of Outriders was concerning. While the marketing was sparse, there were two painfully generic trailers and nothing else, I was more than curious to see what People Can Fly could do with modern hardware and Square Enix footing the bill. But as the recent shelving of Anthem Next can attest, the online looter shooter craze is dying down.
+
+
