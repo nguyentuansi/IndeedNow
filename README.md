@@ -37844,3 +37844,43 @@
 > SAN DIEGO – The San Diego Zoo has vaccinated nine great apes for the coronavirus after a troop of gorillas in its Safari Park became infected, officials said Thursday.Four orangutans and five bonobos received COVID-19 injections in January and February. Three bonobos and a gorilla also were expected to receive the vaccine, which is experimental.It was developed by Zoetis Inc., a U.S. firm that produces medicine for animals.The vaccinations followed a January outbreak of COVID-19 at the zoo's Safari Park.
 
 
+***
+![AMD fans may finally get one of Intel's most exciting features](https://cdn.mos.cms.futurecdn.net/sXqQ4S8JxDMv69G6np8hgE-1200-80.jpg "AMD fans may finally get one of Intel's most exciting features")
+
+
+[AMD fans may finally get one of Intel's most exciting features](https://www.techradar.com/news/amd-fans-may-finally-get-one-of-intels-most-exciting-features)
+
+
+> (Image credit: ASUS/Reddit) ASUS might be about to shake up the motherboard market after revealing more about a new offering that offers a vital recent Intel hardware update, promising to combine its motherboard with the Thunderbolt 4 connectivity.Posting on Reddit, ASUS's Technical Product Marketing Manager disclosed information  about the new  ASUS ProART B550-Creator, an AMD-based cheap motherboard that will be the first to take advantage of Intel's Thunderbolt 4 controller for professionals and content creators.
+
+
+***
+![Netflix adds TikTok-style 'Fast Laughs' to mobile app](https://cdn.mos.cms.futurecdn.net/6xgyVgkhkzm32CwkbAkxM7-1200-80.png "Netflix adds TikTok-style 'Fast Laughs' to mobile app")
+
+
+[Netflix adds TikTok-style 'Fast Laughs' to mobile app](https://www.techradar.com/news/netflix-adds-tiktok-style-fast-laughs-to-mobile-app)
+
+
+> (Image credit: Netflix) The streaming giant Netflix seems to have gone deeper into short video format with a new mobile feature for its subscribers. Named Fast Laughs, it features clips from different shows and specials. The feel is decidedly that of viewing videos on TikTok.Netflix is using its huge library of comedic content to keep Fast Laughts going."Fast Laughs offers a full-screen feed of funny clips from our big comedy catalog including films (Murder Mystery), series (Big Mouth), sitcoms (The Crew) and stand-up from comedians like Kevin Hart and Ali Wong," Netflix said.
+
+
+***
+![How to watch WandaVision episode 9 online: stream Marvel series finale from anywhere](https://cdn.mos.cms.futurecdn.net/eEcaKhbfTEMX3WiFre6GgY-1200-80.jpg "How to watch WandaVision episode 9 online: stream Marvel series finale from anywhere")
+
+
+[How to watch WandaVision episode 9 online: stream Marvel series finale from anywhere](https://www.techradar.com/news/how-to-watch-wandavision-episode-9-online-stream-the-series-finale-from-anywhere)
+
+
+> It's time to take one last trip to Westview, Marvel fans, as WandaVision releases its ninth and final episode on Disney Plus. For a show that's give us precious few answers as to where it ultimately sits within the wider MCU, we learnt a lot last week - and it looks like we're set for a barnstorming series finale. Read on as we explain how to watch WandaVision online and stream all-new episode 9 by getting Disney Plus from just $6.99/£7.99 today.How to watch WandaVision episode 9Release date: March 5Release time: midnight PT / 3am ET / 8am GMT / 7pm AEDT Cast: Elizabeth Olsen, Paul Bettany, Teyonah Parris, Kathryn Hahn, Kat Dennings, Randall ParkDirector: Matt ShakmanWatch now: get Disney Plus for just $6.
+
+
+***
+![Best laptop sales in Australia: cheap laptops to buy in March 2021](https://cdn.mos.cms.futurecdn.net/NXppM7VeyLJAekSeYJ73EU-1200-80.jpg "Best laptop sales in Australia: cheap laptops to buy in March 2021")
+
+
+[Best laptop sales in Australia: cheap laptops to buy in March 2021](https://www.techradar.com/news/the-best-laptop-deals)
+
+
+> We're bringing you all the best cheap laptop deals currently on the shelves, and right now you can pick up some excellent specs for some great prices. Not only are we seeing powerful machines on sale right now (some offering the latest 11th generation Intel Evo processors) but there are plenty of 2-in-1 laptop deals offering discounts on flexible machines with some great functionality. From Best Buy to Walmart, MSI to HP you'll find all the best cheap laptop deals right here. That means we've weeded out all the discounts that aren't worth your time to bring you only the highest quality laptop deals on the shelves right now.
+
+
