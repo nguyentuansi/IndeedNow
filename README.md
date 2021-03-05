@@ -38128,3 +38128,53 @@
 > 03/05/2021 - 11:00 | By: Tyler Chancey Home Gaming Gaming Opinions Outriders is Not The Next Destiny and That's OK A Shooter Can Just be a Shooter My first impressions of Outriders was concerning. While the marketing was sparse, there were two painfully generic trailers and nothing else, I was more than curious to see what People Can Fly could do with modern hardware and Square Enix footing the bill. But as the recent shelving of Anthem Next can attest, the online looter shooter craze is dying down.
 
 
+***
+![How do the cameras on Samsung's Galaxy Ultra models compare?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/galaxy-s21-ultra-hayato-taking-photos.jpg "How do the cameras on Samsung's Galaxy Ultra models compare?")
+
+
+[How do the cameras on Samsung's Galaxy Ultra models compare?](https://www.androidcentral.com/android-camera-comparison-2021-galaxy-ultra)
+
+
+> Source: Dakota Johnson / Android Central Photography is a huge part of the mobile experience these days, and that's especially true with Samsung's Ultra line of premium devices. These are the best Samsung phones you can buy, featuring some of the best Android cameras along with super-powerful specs and large, beautiful displays. Samsung debuted the Ultra series with the Galaxy S20 Ultra last year, which featured a 108MP primary sensor and up to 100X telephoto zoom — what we now know as Space Zoom.
+
+
+***
+![Here's how to keep your Chromebook files and downloads in tip-top shape](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/chromebook-usb-hero.jpg "Here's how to keep your Chromebook files and downloads in tip-top shape")
+
+
+[Here's how to keep your Chromebook files and downloads in tip-top shape](https://www.androidcentral.com/how-manage-downloads-and-files-your-chromebook)
+
+
+> Source: Chris Wedel/Android Central The best Chromebooks are designed from the ground up to work "with the cloud" and they do a fine job at it, but knowing how to manage downloads and files on your Chromebook is important to properly maintain the onboard storage. Even if you regularly work from the cloud, you might want to keep a local copy of a document you're working on in case you get stuck somewhere away from Wi-Fi. Your Chromebook doesn't really care where you store your files, but because most devices have 64GB internal storage or less, you'll want to take a bit of care about how and where you put the important stuff.
+
+
+***
+![Stocks swerve as economy, yield pressure heat up; tech sinks](https://www.mymotherlode.com/wp-content/uploads/2021/03/files_d3dd6e846a.jpeg "Stocks swerve as economy, yield pressure heat up; tech sinks")
+
+
+[Stocks swerve as economy, yield pressure heat up; tech sinks](https://www.mymotherlode.com/news/technology/1579259/shares-slip-in-asia-after-bond-yield-spike-hits-wall-st.html)
+
+
+> NEW YORK (AP) — Stocks are swerving through another rocky ride Friday, as investors struggle to figure out what an encouraging report on the economy and the recent march higher for bond yields should mean for the market. The S&P 500 was 0.4% higher in early afternoon trading, though the modest move belies sharp swings from earlier. At the start of trading, it had jumped to an immediate 1% gain, only for it all to disappear within a half hour and disintegrate into a 1% loss. Other stock indexes went through similar zigzags.
+
+
+***
+![Class Action Lawsuit Over Apple Providing Refurbished Replacement Devices Proceeding to Trial in August](https://images.macrumors.com/article-new/2021/03/apple-products-refurbished-store-banner.jpg "Class Action Lawsuit Over Apple Providing Refurbished Replacement Devices Proceeding to Trial in August")
+
+
+[Class Action Lawsuit Over Apple Providing Refurbished Replacement Devices Proceeding to Trial in August](https://www.macrumors.com/2021/03/05/applecare-refurbished-class-action-lawsuit/)
+
+
+> Apr 12, 2001 51,572 13,190 Initially filed in 2016, a class action lawsuit that accuses Apple of violating the Magnusson-Moss Warranty Act, Song-Beverly Consumer Warranty Act, and other U.S. laws by providing customers with refurbished replacement devices is set to proceed to trial August 16, according to a notice this week from law firm Hagens Berman Sobol Shapiro LLP. Apple's repair terms and conditions state that, when servicing a customer's product, the company "may use parts or products that are new or refurbished and equivalent to new in performance and reliability.
+
+
+***
+![My Time at Sandrock Early Access Release Date Delayed](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/My%20Time%20at%20Sandrock%20Early%20Access%20release%20date%20delayed%20cover.jpg?itok=T9cchbeB "My Time at Sandrock Early Access Release Date Delayed")
+
+
+[My Time at Sandrock Early Access Release Date Delayed](https://techraptor.net/gaming/news/my-time-at-sandrock-early-access-release-date-delayed)
+
+
+> 03/05/2021 - 12:53 | By: Robert N. Adams Caught Between a Sandrock and a Hard Place The My Time at Sandrock Early Access release date has been delayed due to certification requirements, pushing back the expected launch of this game (and its beta) for an unknown amount of time. My Time at Sandrock is the upcoming sequel to My Time at Portia, a farming RPG very much in the vein of games like Stardew Valley and Harvest Moon. The product of a successful Kickstarter, this game has built enough hype to get wishlisted more than 100,000 times on Steam and players were very much looking forward to playing the game sometime in 2021.
+
+
