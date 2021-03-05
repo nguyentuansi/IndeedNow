@@ -37984,3 +37984,53 @@
 > (Image credit: Hulu) Imagine an ultra-violent vision of Groundhog Day, where an ex-special forces soldier had to spend each fighting to evade increasingly violent attempts on his life. A day that always ends with his death. That's what this new Frank Grillo and Mel Gibson movie is all about, so read on as we detail how to watch Boss Level online and stream the 2021 movie on Hulu right now, where a free 30-day trial is available.Watch Boss Level onlineStreaming release date: March 5, 2021Director: Joe CarnahanCast: Frank Grillo, Mel Gibson, Naomi Watts, Michelle Yeoh, Ken JeongRun time: 1 hour 40 minutesRating: N/AWatch now: Try Hulu for FREE for 1-monthBoss Level is a time-loop action film starring Frank Grillo as Roy Pulver, a retired special ops agent trapped in a sinister program that forces him to relive the same excruciating day over and over and over again.
 
 
+***
+![Nubia beats Asus; launches world's first smartphone with 18GB RAM](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/redmagic_505_050321053617.jpg "Nubia beats Asus; launches world's first smartphone with 18GB RAM")
+
+
+[Nubia beats Asus; launches world's first smartphone with 18GB RAM](https://www.businesstoday.in/technology/news/nubia-beats-asus-launches-worlds-first-smartphone-with-18gb-ram/story/433099.html)
+
+
+> StoryNubia recently launched the Red Magic 6 series in China; one of the models in this series - Red Magic 6 Pro - has 18GB RAM and 512GB of internal storage. This is the world's first smartphone to have 18GB of RAMBusinessToday.In | March 5, 2021 | Updated 17:38 IST Red Magic 6 Pro has up to 18GB of RAM and 512GB internal storage
+
+
+***
+![Vivo X60 series India launch details confirmed, Vivo X60, X60 Pro, and X60 Pro+ expected](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/vivo-x60proplus-china-647x363.jpeg?cIIkV9HQVTBZ7A.4ksAAJAGb.ZorGxaF "Vivo X60 series India launch details confirmed, Vivo X60, X60 Pro, and X60 Pro+ expected")
+
+
+[Vivo X60 series India launch details confirmed, Vivo X60, X60 Pro, and X60 Pro+ expected](https://www.indiatoday.in/technology/news/story/vivo-x60-series-india-launch-details-confirmed-vivo-x60-x60-pro-and-x60-pro-expected-1776063-2021-03-05)
+
+
+> Vivo X60 series, including the Vivo X60, X60 Pro, and X60 Pro+, has been confirmed to launch later this month. Nipun Marya, Director Brand Strategy, Vivo India, while announcing the company's latest Vision+ campaign targeted towards mobile photography enthusiasts, confirmed the news about the X60 series. The company also confirmed that the Vivo X60 series would be the first smartphone range under the new Vivo initiative.Marya, during the announcement, said that the new initiative aims to build a visual content ecosystem for mobile photography enthusiasts through initiatives including content co-creation, education, and cultural exchanges.
+
+
+***
+![Scrum Ventures launches new program to connect startups with Japanese corporations – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/Masami-Takahashi-Profile_Final.jpg?w=600 "Scrum Ventures launches new program to connect startups with Japanese corporations – TechCrunch")
+
+
+[Scrum Ventures launches new program to connect startups with Japanese corporations – TechCrunch](https://techcrunch.com/2021/03/05/scrum-ventures-launches-new-program-to-connect-startups-with-japanese-corporations/)
+
+
+> Masami Takahashi, the president of Scrum Studios Headquartered in San Francisco and Tokyo, Scrum Ventures is known for its accelerator programs focused on sports, food and smart city tech. Today it announced the launch of a new incubator program that will help startups from business partnerships with Japanese corporations. Called Scrum Studio, it will be spun out as an independent entity from Scrum Ventures, and headed by Masami Takahasi, who was previously strategy officer and general manager for WeWork Japan.
+
+
+***
+![Outriders demo update will improve matchmaking and change loot drops](https://cdn.mos.cms.futurecdn.net/TiNHxKCCHxdUeBNkju9qYG-1200-80.jpg "Outriders demo update will improve matchmaking and change loot drops")
+
+
+[Outriders demo update will improve matchmaking and change loot drops](https://www.techradar.com/news/outriders-demo-update-will-improve-matchmaking-and-change-loot-drops)
+
+
+> (Image credit: People Can Fly / Square Enix) Square Enix has detailed a new update coming to the Outriders demo which is set to make matchmaking faster, make Captains less frustrating and put an end to players taking advantage of the game's Loot Cave.The publisher detailed the upcoming update on Reddit, revealing that this backend update will make Captain's less frustrating, by reducing the effectiveness of the Healing Light mob ability and increasing the cooldowns for the From the Ashes and Phoenix Aura abilities.
+
+
+***
+![Cryptocurrency trading volumes spike 17% in February](https://image-prod.iol.co.za/resize/1920x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/a83946c3-b382-58c6-b38d-994d98faf2e2&operation=CROP&offset=0x134&resize=1920x1080 "Cryptocurrency trading volumes spike 17% in February")
+
+
+[Cryptocurrency trading volumes spike 17% in February](https://www.iol.co.za/technology/fintech/cryptocurrency-trading-volumes-spike-17-in-february-cryptocompare-598b0619-285b-4160-b00e-f33ad4c6c690)
+
+
+> London - Cryptocurrency trading volumes soared by 17% last month in the wake of Tesla's $1.5 billion bitcoin bet, with larger exchanges taking a growing share of the overall volumes, data showed on Friday.Trading volumes jumped to $2.7 trillion in February, with volumes at major exchanges jumping over 35% to $2.4 trillion, researcher CryptoCompare said. Smaller exchanges saw volumes slump by 36% to $381 billion, suggesting growing consolidation of trading at larger venues.Volumes hit an all-time high of $159.
+
+
