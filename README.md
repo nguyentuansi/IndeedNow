@@ -38178,3 +38178,50 @@
 > 03/05/2021 - 12:53 | By: Robert N. Adams Caught Between a Sandrock and a Hard Place The My Time at Sandrock Early Access release date has been delayed due to certification requirements, pushing back the expected launch of this game (and its beta) for an unknown amount of time. My Time at Sandrock is the upcoming sequel to My Time at Portia, a farming RPG very much in the vein of games like Stardew Valley and Harvest Moon. The product of a successful Kickstarter, this game has built enough hype to get wishlisted more than 100,000 times on Steam and players were very much looking forward to playing the game sometime in 2021.
 
 
+***
+![You don't have to spend more than $500 to get a great monitor](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/xiaomi-gaming-monitor-15.jpg "You don't have to spend more than $500 to get a great monitor")
+
+
+[You don't have to spend more than $500 to get a great monitor](https://www.androidcentral.com/best-cheap-monitors)
+
+
+> Source: Harish Jonnalagadda / Android Central Best Cheap Monitors Android Central 2021 Whether you're working from home, or are just in the market to replace your old monitor, there are a lot of great options for those looking at the best cheap monitors. For under $500, you can get a monitor that provides about 90% of the same features found in monitors that are priced much, much higher. Some of these are amongst the best external monitors for Chromebooks, while others provide more of a focus on being the best gaming monitors.
+
+
+***
+![Save £52 on the Apple Airpods Pro at the lowest price EVER](https://www.the-sun.com/wp-content/uploads/sites/6/2021/03/Airpods-Pro-3.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Save £52 on the Apple Airpods Pro at the lowest price EVER")
+
+
+[Save £52 on the Apple Airpods Pro at the lowest price EVER](https://www.the-sun.com/lifestyle/tech/2457936/apple-airpods-pro-lowest-ever-amazon/)
+
+
+> ON the hunt for Apple Airpods Pro deals? We're keeping our eyes on prices. Luckily, we've found a great offer for the pricey earbuds to help save you some money. Airpods Pro come with a charging case, offering a total 24 hours' charge This article and featured products have been independently chosen by Sun journalists. It contains links which are ads, and if you click a link and buy a product we will earn revenue. A new Airpod Pro deal is available on Amazon, saving you £52 on the iconic earbuds.
+
+
+***
+![Apple's Find My app may soon let you know if someone is keeping tabs on you](https://cdn.mos.cms.futurecdn.net/nBcqPGg7yQmcjaxrgPbCT8-1200-80.jpg "Apple's Find My app may soon let you know if someone is keeping tabs on you")
+
+
+[Apple's Find My app may soon let you know if someone is keeping tabs on you](https://www.techradar.com/news/apples-find-my-app-may-soon-let-you-know-if-someone-is-keeping-tabs-on-you)
+
+
+> (Image credit: Apple) Apple users that have misplaced or lost a device are well aware of just how useful the company's Find My app can be but now it looks like the feature will be getting additional functionality in the next update to iOS.As reported by 9to5Mac, a new safety feature called 'Item Safety Alerts' was recently discovered in the iOS 14.5 beta. When released, this feature will notify users if an unknown device tracked in the Find My app is moving with them so that they can remove it or disable it.
+
+
+***
+[Save £52 on the Apple Airpods Pro at the lowest price EVER](https://www.thesun.ie/tech/6661824/apple-airpods-pro-lowest-ever-amazon/)
+
+
+> ON the hunt for Apple Airpods Pro deals? We're keeping our eyes on prices. Luckily, we've found a great offer for the pricey earbuds to help save you some money. This article and featured products have been independently chosen by Sun journalists. It contains links which are ads, and if you click a link and […]
+
+
+***
+![Cheap laptop deals: prices starting at just $189.99 at the Best Buy 3-day sale](https://cdn.mos.cms.futurecdn.net/HtERkT7zC7xAmE89EUMZD4-1200-80.jpg "Cheap laptop deals: prices starting at just $189.99 at the Best Buy 3-day sale")
+
+
+[Cheap laptop deals: prices starting at just $189.99 at the Best Buy 3-day sale](https://www.techradar.com/news/cheap-laptop-deals-prices-starting-at-just-dollar18999-at-the-best-buy-3-day-sale)
+
+
+> (Image credit: Future) Upgrade your machine and save money with these cheap laptop deals from Best Buy's 3-day sale. Starting today through Sunday, you can score huge discounts on a range of laptops with prices starting at just $189.99 from brands like Dell, HP, Lenovo, Microsoft, and more.See more cheap laptop deals from the Best Buy saleSome highlighted laptop deals include the best-selling Dell Inspiron 7000 on sale for $629.99, this 11-inch HP Chromebook marked down to just $189.99, and a massive $300 discount on the Lenovo Yoga 9i.
+
+
