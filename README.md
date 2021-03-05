@@ -38225,3 +38225,53 @@
 > (Image credit: Future) Upgrade your machine and save money with these cheap laptop deals from Best Buy's 3-day sale. Starting today through Sunday, you can score huge discounts on a range of laptops with prices starting at just $189.99 from brands like Dell, HP, Lenovo, Microsoft, and more.See more cheap laptop deals from the Best Buy saleSome highlighted laptop deals include the best-selling Dell Inspiron 7000 on sale for $629.99, this 11-inch HP Chromebook marked down to just $189.99, and a massive $300 discount on the Lenovo Yoga 9i.
 
 
+***
+![NASA's new Mars rover hits dusty red road, 1st trip 21 feet](https://www.clickorlando.com/resizer/ux6lIuA5wrf4_WN6jVbgSTJ6CZI=/1442x1080/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/EWUVXHXXVVEQLFM35IHS3CD3XI.jpg "NASA's new Mars rover hits dusty red road, 1st trip 21 feet")
+
+
+[NASA's new Mars rover hits dusty red road, 1st trip 21 feet](https://www.clickorlando.com/tech/2021/03/05/nasas-new-mars-rover-hits-dusty-red-road-1st-trip-21-feet/)
+
+
+> CAPE CANAVERAL, Fla. – NASA's newest Mars rover hit the dusty red road this week, putting 21 feet on the odometer in its first test drive. The Perseverance rover ventured from its landing position Thursday, two weeks after landing on the red planet to seek signs of past life.The roundabout, back and forth drive lasted just 33 minutes and went so well that the six-wheeled rover was back on the move Friday. During a news conference Friday, NASA's Jet Propulsion Laboratory in Pasadena, California, shared photos of the tire tracks over and around small rocks.
+
+
+***
+![NASA's new Mars rover hits dusty red road, 1st trip 21 feet](https://www.local10.com/resizer/ux6lIuA5wrf4_WN6jVbgSTJ6CZI=/1442x1080/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/EWUVXHXXVVEQLFM35IHS3CD3XI.jpg "NASA's new Mars rover hits dusty red road, 1st trip 21 feet")
+
+
+[NASA's new Mars rover hits dusty red road, 1st trip 21 feet](https://www.local10.com/tech/2021/03/05/nasas-new-mars-rover-hits-dusty-red-road-1st-trip-21-feet/)
+
+
+> CAPE CANAVERAL, Fla. – NASA's newest Mars rover hit the dusty red road this week, putting 21 feet on the odometer in its first test drive. The Perseverance rover ventured from its landing position Thursday, two weeks after landing on the red planet to seek signs of past life.The roundabout, back and forth drive lasted just 33 minutes and went so well that the six-wheeled rover was back on the move Friday. During a news conference Friday, NASA's Jet Propulsion Laboratory in Pasadena, California, shared photos of the tire tracks over and around small rocks.
+
+
+***
+![John McAfee indicted by US officials for alleged cryptocurrency scheme](https://thehill.com/sites/default/files/mcafeejohn_8162016_gettyimages.jpg "John McAfee indicted by US officials for alleged cryptocurrency scheme")
+
+
+[John McAfee indicted by US officials for alleged cryptocurrency scheme](https://thehill.com/policy/cybersecurity/541872-john-mcafee-indicted-by-us-officials-for-alleged-cryptocurrency-scheme)
+
+
+> The Justice Department announced Friday that John McAfee, the founder of anti-virus software company McAfee, has been indicted on alleged fraud and money laundering charges tied to a cryptocurrency investment scheme.McAfee, who is currently detained in Spain, was indicted alongside Jimmy Gale Watson Jr., an executive advisor to McAfee, according to federal officials. Watson was arrested in Texas on Thursday night.Charges against the men were unsealed in a Manhattan federal court on Friday. Both are alleged to have used McAfee's Twitter account to spread information on cryptocurrency investments to hundreds of thousands of followers and profit from the effort.
+
+
+***
+![Easy steps on how to share your location using WhatsApp](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/how-to-share-location-whatsapp.jpg "Easy steps on how to share your location using WhatsApp")
+
+
+[Easy steps on how to share your location using WhatsApp](https://www.androidcentral.com/how-share-your-location-whatsapp)
+
+
+> Source: Harish Jonnalagadda / Android Central WhatsApp has a location-sharing feature that makes it as easy as possible to share your current location with your friends or family. There are two options available — you can share your current location, or broadcast your location with select contacts for a set amount of time. Here's how to get started with sharing your location in WhatsApp. How to share your location in WhatsApp Select the contact you'd like to share your location with. In the conversation window, hit the attach button.
+
+
+***
+![Android Auto Is Now Getting Split-Screen If You Have The Right Device](https://www.androidheadlines.com/wp-content/uploads/2018/05/Android-Auto-Widescreen-AM-AH-12.jpg "Android Auto Is Now Getting Split-Screen If You Have The Right Device")
+
+
+[Android Auto Is Now Getting Split-Screen If You Have The Right Device](https://www.androidheadlines.com/2021/03/android-auto-split-screen-head-units-update.html)
+
+
+> A new post reportedly spotted on the r/AndroidAuto subreddit seems to confirm that split-screen features are now rolling out to Android Auto. The feature is somewhat limited in its current capacity, based on responses and further comments on the matter. But that does mean that at least some users will now be able to run two apps at once.How does Android Auto work in split-screen view?Put simply, the incoming change appears to simply split the screen between two apps running simultaneously. That split isn't even though and, as of this writing, there's no way to run a single screen app on its own once it's enabled.
+
+
