@@ -38034,3 +38034,47 @@
 > London - Cryptocurrency trading volumes soared by 17% last month in the wake of Tesla's $1.5 billion bitcoin bet, with larger exchanges taking a growing share of the overall volumes, data showed on Friday.Trading volumes jumped to $2.7 trillion in February, with volumes at major exchanges jumping over 35% to $2.4 trillion, researcher CryptoCompare said. Smaller exchanges saw volumes slump by 36% to $381 billion, suggesting growing consolidation of trading at larger venues.Volumes hit an all-time high of $159.
 
 
+***
+![Functions and Classes](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Functions and Classes")
+
+
+[Functions and Classes](https://www.reddit.com/r/Python/comments/lycg0f/functions_and_classes_is_there_a_time_where_a/)
+
+
+> When I think of Classes in Python, I think of them as more robust functions. That might be a dumb way to think about it, because everything in Python is an object and there are functions (well methods) inside of classes, etc... But I digress. Are there any rules of thumb regarding when it would make sense to you use a function instead of a class? The one thing I can think of is that functions are quick and dirty and easy and they're ideal for learners, but that's probably the only advantage I can think of.
+
+
+***
+![Tech launches of the week: Redmi Note 10 series, JBL Boombox 2 speaker, and more](https://images.indianexpress.com/2021/03/Tech-launches-of-the-week-5.jpg "Tech launches of the week: Redmi Note 10 series, JBL Boombox 2 speaker, and more")
+
+
+[Tech launches of the week: Redmi Note 10 series, JBL Boombox 2 speaker, and more](https://indianexpress.com/photos/technology-gallery/tech-launches-of-the-week-redmi-note-10-jbl-boombox-2-speaker-and-more-launched-in-india-7215699/)
+
+
+> Updated: March 5, 2021 7:32:26 pm Updated : March 5, 2021 7:32:26 pmThe Redmi Note 10 series made its debut in India this week. The standard version is priced at Rs 11,999, while the Redmi Note 10 Pro is selling for Rs 15,999. The top-end Redmi Note 10 Pro Max carries a price tag of Rs 18,999 in India. With the most affordable version, you get a 6.43-inch full-HD+ Super AMOLED display, a Qualcomm Snapdragon 678 processor, a 48MP quad rear camera setup, a 13MP selfie camera, and a 5,000mAh battery with support for a 33W charger.
+
+
+***
+[PS5 UK stock LIVE – ShopTo drop rumours TODAY, plus Currys, GAME, Very, Argos and Smyths console restock latest](https://www.thesun.ie/tech/6619920/ps5-uk-stock-live-shopto-currys-game-console-latest/)
+
+
+> SMYTHS have been predicted to do a ‘mini drop’ this MORNING and Playstation fans predict more stock could be dropping across other retailers. Those looking to get their hands on a new console should be aware that there could be yet another new scam waiting to catch people out. One PS5 tracker account wrote: “WARNING. […]
+
+
+***
+[Initial reactions: Dollar moves higher after better jobs data. 10 year yield higher.](https://www.forexlive.com/technical-analysis/!/dollar-moves-higher-after-better-jobs-data-10-year-yield-higher-20210305)
+
+
+> Tenure yield moves to a new cycle high The US dollar has moved higher as well but is retracing some of the gains. Moved lower initially. The Dow industrial average and S&P have moved back into positive territory. The NASDAQ index remains at negative.
+
+
+***
+![Global Robotic Waste Sorting System Market (2021 to 2026)](https://mms.businesswire.com/media/20210305005315/en/371054/23/ResearchAndMarkets_800px.jpg "Global Robotic Waste Sorting System Market (2021 to 2026)")
+
+
+[Global Robotic Waste Sorting System Market (2021 to 2026)](https://www.businesswire.com/news/home/20210305005315/en/Global-Robotic-Waste-Sorting-System-Market-2021-to-2026---Growth-Trends-COVID-19-Impact-and-Forecasts---ResearchAndMarkets.com)
+
+
+> March 05, 2021 08:44 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Robotic Waste Sorting System Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)" report has been added to ResearchAndMarkets.com's offering. Global Robotic Waste Sorting System Market is expected to register a CAGR of 19.5% over the forecast period (2021 - 2026). According to Waste Management World, "Intelligent robotic systems can process almost any given waste stream and sorting capabilities can be redefined for every new market situation - even on a daily basis.
+
+
