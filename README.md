@@ -37934,3 +37934,53 @@
 > The best URL filtering software makes it simpler and easier to manage website access across a business network, and help reduce security risks.Monitoring and prohibiting access to certain websites is a common way for parents to ensure kids stay safe online. But URL filtering can be just as effective in a business context too.As well as blocking a website on the basis of quality, the best URL filtering software can scan the content of a website and withhold access to users if anything within it is deemed unsafe or inappropriate.
 
 
+***
+![Twitter is working on the next best thing to an edit button](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2015/09/twitter-3d-touch-iphone6s-plus-hero.jpg "Twitter is working on the next best thing to an edit button")
+
+
+[Twitter is working on the next best thing to an edit button](https://www.imore.com/twitter-working-next-best-thing-edit-button)
+
+
+> Source: iMore One of the best iPhone apps going might be about to get a whole lot better, with the news that Twitter is reportedly working on a new 'Undo' button that will let you quickly recall a tweet before it goes live. As spotted by Jane Manchun Wong: Twitter is working on 'Undo Send' timer for tweets pic.twitter.com/nS0kuijPK0— Jane Manchun Wong (@wongmjane) March 5, 2021 From the image, it seems clear the feature (which is being tested behind the scenes and is not available to the public yet) is a popup that lets a user quickly press 'Undo' for a few seconds shortly after posting a tweet.
+
+
+***
+![UK Enterprises Step Up Intelligent Automation Projects as Brexit, Pandemic Pose Long-Term Business Challenges](https://mms.businesswire.com/media/20210305005089/en/1016900/23/ISG_%28R%29_Logo.jpg "UK Enterprises Step Up Intelligent Automation Projects as Brexit, Pandemic Pose Long-Term Business Challenges")
+
+
+[UK Enterprises Step Up Intelligent Automation Projects as Brexit, Pandemic Pose Long-Term Business Challenges](https://www.businesswire.com/news/home/20210305005089/en/UK-Enterprises-Step-Up-Intelligent-Automation-Projects-as-Brexit-Pandemic-Pose-Long-Term-Business-Challenges)
+
+
+> March 05, 2021 05:00 AM Eastern Standard Time LONDON--(BUSINESS WIRE)--More enterprises in the U.K. are deploying intelligent business process automation, partly in response to the effects of Brexit and the COVID-19 pandemic, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2020 ISG Provider Lens™ Intelligent Automation – Solutions and Services report for the U.K. finds an increasing number of companies fast-tracking digital transformation.
+
+
+***
+![iOS 14.5 release date, beta and every new feature the update brings to your iPhone](https://cdn.mos.cms.futurecdn.net/HuoToCyNyM8ysfYfDAEZSU-1200-80.jpg "iOS 14.5 release date, beta and every new feature the update brings to your iPhone")
+
+
+[iOS 14.5 release date, beta and every new feature the update brings to your iPhone](https://www.techradar.com/news/ios-145-update)
+
+
+> iOS 14.5 is the next version of iOS, and while it won't be as big an update as iOS 15, which isn't expected to land in finished form until September, it's still set to add a bunch of new features and improvements.We know this because iOS 14.5 is already in beta, so developers and members of the public have turned up all sorts of interesting additions. Some of these are handy upgrades, like an alternative to Face ID that lets you unlock your iPhone by wearing an Apple Watch.iOS 14.5 beta 3 has now arrived, and it brings in a new feature that allows you to put third-party items in the Find My app on your iPhone.
+
+
+***
+![CI/CD with .NET Core](https://external-preview.redd.it/Vps7LTZzL2kEkN2M_G26dnLQuhn_1uGrNJrTeoqL4PI.jpg?auto=webp&s=3b2da70ee6501a18cafc6274810673094dfa49a2 "CI/CD with .NET Core")
+
+
+[CI/CD with .NET Core](https://www.reddit.com/r/programming/comments/ly8hhc/cicd_with_net_core/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![How to watch Boss Level online: stream the new Frank Grillo movie on Hulu today](https://cdn.mos.cms.futurecdn.net/oKnQ4XXDrjzejpKmeak3vh-1200-80.jpg "How to watch Boss Level online: stream the new Frank Grillo movie on Hulu today")
+
+
+[How to watch Boss Level online: stream the new Frank Grillo movie on Hulu today](https://www.techradar.com/news/how-to-watch-boss-level-online-stream-the-new-frank-grillo-movie-on-hulu-today)
+
+
+> (Image credit: Hulu) Imagine an ultra-violent vision of Groundhog Day, where an ex-special forces soldier had to spend each fighting to evade increasingly violent attempts on his life. A day that always ends with his death. That's what this new Frank Grillo and Mel Gibson movie is all about, so read on as we detail how to watch Boss Level online and stream the 2021 movie on Hulu right now, where a free 30-day trial is available.Watch Boss Level onlineStreaming release date: March 5, 2021Director: Joe CarnahanCast: Frank Grillo, Mel Gibson, Naomi Watts, Michelle Yeoh, Ken JeongRun time: 1 hour 40 minutesRating: N/AWatch now: Try Hulu for FREE for 1-monthBoss Level is a time-loop action film starring Frank Grillo as Roy Pulver, a retired special ops agent trapped in a sinister program that forces him to relive the same excruciating day over and over and over again.
+
+
