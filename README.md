@@ -37694,3 +37694,53 @@
 > March 04, 2021 04:45 PM Eastern Standard Time TYSONS, Va.--(BUSINESS WIRE)--DXC Technology (NYSE: DXC) today announced the appointments of Dawn Rogers and Kiko Washington to the company's Board of Directors, effective March 4, 2021. Dawn is a global human resources executive and transformation leader with 35 years of experience in organizational design, people analytics, M&A, talent management, change programs, and succession planning for large and small companies. She is currently Director of Human Capital at American Securities LLC where she provides leadership and support to the firm's portfolio of companies in all areas of human capital management.
 
 
+***
+![Huawei CFO should appeal to Canada justice minister, not court, prosecutor says](https://i-invdn-com.akamaized.net/news/LYNXNPED4E0PB_L.jpg "Huawei CFO should appeal to Canada justice minister, not court, prosecutor says")
+
+
+[Huawei CFO should appeal to Canada justice minister, not court, prosecutor says](https://www.investing.com/news/technology-news/huawei-cfo-should-appeal-to-canada-justice-minister-not-court-prosecutor-says-2437920)
+
+
+> © Reuters. FILE PHOTO: Huawei's CFO, Meng, arrives at court in Vancouver By Sarah Berman and Moira Warburton VANCOUVER (Reuters) - Canadian prosecutors told a court on Thursday that it was not a judge's role to decide whether national security and geopolitical concerns can be used to strike down a U.S. request to extradite Huawei executive Meng Wanzhou. Meng, 49, was arrested in December 2018 on a U.S. warrant accused of misleading HSBC about Huawei's business dealings in Iran, putting the bank at risk of violating U.
+
+
+***
+![The entire Nordstrom sale section is up to 60% off right now—what to buy](https://www.gannett-cdn.com/presto/2021/03/04/USAT/e315e16c-f880-4818-90f5-626ffa0152e7-nordstrom.jpg?crop=4779,2689,x0,y0&width=3200&height=1801&format=pjpg&auto=webp "The entire Nordstrom sale section is up to 60% off right now—what to buy")
+
+
+[The entire Nordstrom sale section is up to 60% off right now—what to buy](https://www.usatoday.com/story/tech/reviewedcom/2021/03/04/nordstrom-sale-shop-up-60-off-clearance-styles-right-now/4578854001/)
+
+
+> These savings are bananas. (Photo: Nordstrom / Getty Images)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.If there's one store that knows how to do a sale, it's Nordstrom. The retailer is home to tons of customer-loved brands, from UGG and The North Face to Nike and adidas. And right now, there's an incredible Nordstrom sale on a plethora of clearance items for both men and women—and we've got the scoop on all the best deals.
+
+
+***
+![Realme GT Neo is on the way with Dimensity 1200 chipset](https://fdn.gsmarena.com/imgroot/news/21/03/realme-gt-neo-teased/-476x249w4/gsmarena_000.jpg "Realme GT Neo is on the way with Dimensity 1200 chipset")
+
+
+[Realme GT Neo is on the way with Dimensity 1200 chipset](https://www.gsmarena.com/realme_gt_neo_is_on_the_way_with_dimensity_1200_chipset-news-48058.php)
+
+
+> Less than 24 hours ago, Realme took the wraps off its latest flagship smartphone, the GT, at an event in China. At the end of the event, Realme VP Xu Qi also teased an additional member of the new GT family, which is supposedly coming soon. We're talking about the Realme GT Neo, and this one will have MediaTek's Dimensity 1200 chipset at the helm, unlike the GT which uses Qualcomm's Snapdragon 888. That's all we know about it so far, but we wouldn't be surprised to see various leaks and rumors regarding the GT Neo in the coming days and weeks.
+
+
+***
+![COVID-19 vaccine doses sold on the dark web. Are they real?](https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/04/94f055a4-fd29-48c7-b206-af8591506a13/thumbnail/1200x630/0b230f65e3ab7693ab9a5a4d136beb9d/darknet-vaccines-6.jpg "COVID-19 vaccine doses sold on the dark web. Are they real?")
+
+
+[COVID-19 vaccine doses sold on the dark web. Are they real?](https://www.cbsnews.com/news/covid-vaccine-dark-web/)
+
+
+> By Stephen Gandel Updated on: March 4, 2021 / 7:02 PM / MoneyWatch Sellers on 15 different "dark web" marketplaces have dispersed hundreds of doses of what they allege are COVID-19 vaccines, according to a new study by cybersecurity firm Kaspersky. What's more, Kaspersky's researchers believe a significant portion of those sales, as much as 30%, could be of actual vaccines. "There is evidence that suggests some of these sellers are providing real doses," said Dmitry Galov, a researcher at Kaspersky who led the study of illicit online vaccines sales.
+
+
+***
+![Facebook rainforest ads: Inquiry ordered into Amazon land sales](https://ichef.bbci.co.uk/news/1024/branded_news/D69A/production/_117383945_f6174cb6-b373-48d7-9268-68212ff6973a.jpg "Facebook rainforest ads: Inquiry ordered into Amazon land sales")
+
+
+[Facebook rainforest ads: Inquiry ordered into Amazon land sales](https://www.bbc.com/news/technology-56272379)
+
+
+> By Joao Fellet & Charlotte PammentBBC Brasilimage copyrightGetty Images/BBCBrazil's Supreme Federal Court has ordered an inquiry into the sale of protected areas of the Amazon rainforest via Facebook.It follows a BBC investigation, which revealed plots as large as 1,000 football pitches listed among the platform's Marketplace classified ads.The court is asking the government to "take the appropriate civil and criminal measures".Facebook has said it is "ready to work with local authorities".But the tech firm has indicated it will not take independent action of its own to halt the trade.
+
+
