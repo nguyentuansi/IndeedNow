@@ -37744,3 +37744,53 @@
 > By Joao Fellet & Charlotte PammentBBC Brasilimage copyrightGetty Images/BBCBrazil's Supreme Federal Court has ordered an inquiry into the sale of protected areas of the Amazon rainforest via Facebook.It follows a BBC investigation, which revealed plots as large as 1,000 football pitches listed among the platform's Marketplace classified ads.The court is asking the government to "take the appropriate civil and criminal measures".Facebook has said it is "ready to work with local authorities".But the tech firm has indicated it will not take independent action of its own to halt the trade.
 
 
+***
+![Bryan Cantrill: The Summer of RUST](https://external-preview.redd.it/8D8ZHKzHSu4QccsmD3XPAn6JFNaDhk4kmK8Y0i9XX8A.jpg?auto=webp&s=7a3e8c82c66a2b6eedaf1d215e470320bfae0836 "Bryan Cantrill: The Summer of RUST")
+
+
+[Bryan Cantrill: The Summer of RUST](https://www.reddit.com/r/programming/comments/ly1jas/bryan_cantrill_the_summer_of_rust/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![The Ultimate Hacking Keyboard: A long term report](https://external-preview.redd.it/1o0k9sfVcYb3WOw3t_cj3Srhbx3ELv5gZXed5-y4aEY.jpg?auto=webp&s=ad978dc636d59b51515397f096b8965e92014dce "The Ultimate Hacking Keyboard: A long term report")
+
+
+[The Ultimate Hacking Keyboard: A long term report](https://www.reddit.com/r/programming/comments/ly1h6q/the_ultimate_hacking_keyboard_a_long_term_report/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Nine Masts Capital Selects Bare Cove Technology as Their Cloud Technology Partner](https://mms.businesswire.com/media/20210304006188/en/863402/23/bare-cove-technology-WEB-01.jpg "Nine Masts Capital Selects Bare Cove Technology as Their Cloud Technology Partner")
+
+
+[Nine Masts Capital Selects Bare Cove Technology as Their Cloud Technology Partner](https://www.businesswire.com/news/home/20210304006188/en/Nine-Masts-Capital-Selects-Bare-Cove-Technology-as-Their-Cloud-Technology-Partner)
+
+
+> March 04, 2021 09:06 PM Eastern Standard Time HONG KONG--(BUSINESS WIRE)--Bare Cove Technology (BCT) is pleased to announce that Nine Masts Capital has successfully migrated to Bare Cove Technology's fully managed, cloud-hosted IT services platform. In addition to cloud hosting and IT support, Nine Masts has engaged BCT on an ongoing basis to provide CTO consultancy, cyber security advisory, and software development services. 'Nine Masts believes investment in technology is key to staying competitive and furthering our growth strategy.
+
+
+***
+![Jamf 34% Q4 revenue growth, indicating strong Apple enterprise demand](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/09/jamf-review-mockuuup.jpeg "Jamf 34% Q4 revenue growth, indicating strong Apple enterprise demand")
+
+
+[Jamf 34% Q4 revenue growth, indicating strong Apple enterprise demand](https://www.imore.com/jamf-34-q4-revenue-growth-indicating-strong-apple-enterprise-demand)
+
+
+> Source: Jamf Jamf has announced that its Q4 total revenue grew 34% year-over-year to $76.4 million, with Q4 recurring revenue growing even at a higher rate of 40% year-over-year to $70.0 million. Dean Hager, CEO of Jamf, says that the company plans to continue on the trajectory it has set for itself with the enterprise community. "We finished 2020 with high growth across every product, geography, and the top 10 industries we serve, demonstrating the strength and diversity of our platform," said Dean Hager, CEO of Jamf.
+
+
+***
+![China to increase annual R&D spending by more than 7% in next five years: work report](https://i-invdn-com.akamaized.net/news/LYNXMPED350QS_L.jpg "China to increase annual R&D spending by more than 7% in next five years: work report")
+
+
+[China to increase annual R&D spending by more than 7% in next five years: work report](https://www.investing.com/news/technology-news/china-to-increase-annual-rd-spending-by-more-than-7-in-next-five-years-work-report-2438101)
+
+
+> No body in the article.
+
+
