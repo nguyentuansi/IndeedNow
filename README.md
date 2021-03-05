@@ -37884,3 +37884,53 @@
 > We're bringing you all the best cheap laptop deals currently on the shelves, and right now you can pick up some excellent specs for some great prices. Not only are we seeing powerful machines on sale right now (some offering the latest 11th generation Intel Evo processors) but there are plenty of 2-in-1 laptop deals offering discounts on flexible machines with some great functionality. From Best Buy to Walmart, MSI to HP you'll find all the best cheap laptop deals right here. That means we've weeded out all the discounts that aren't worth your time to bring you only the highest quality laptop deals on the shelves right now.
 
 
+***
+![How to watch Coming 2 America: Release date, cast, and more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/coming-2-america-hero.jpg "How to watch Coming 2 America: Release date, cast, and more")
+
+
+[How to watch Coming 2 America: Release date, cast, and more](https://www.androidcentral.com/how-watch-coming-2-america-release-date-cast-and-more)
+
+
+> After being removed from the theatrical release schedule and delayed for several months, Coming 2 America is finally coming to a screen near you — today, in fact. This follow-up to the 1988 hit comedy sees Eddie Murphy return as Prince Akeem along with many of his original Coming to America co-stars such as Arsenio Hall and Shari Headley. One of several films which have made their debut on streaming recently, Coming 2 America is skipping theaters and heading straight to the Amazon Prime Video streaming service! Though Prime Video is easy to watch almost anywhere using the Prime Video app on your phone or tablet, you'll also need an Amazon Prime membership to unlock access to the film.
+
+
+***
+![Are Amazonbasics TVs Good Enough to Beat Mi TVs in India?](https://i.gadgets360cdn.com/large/amazonbasics_55_inch_led_tv_review_ui_1611569766809.jpg "Are Amazonbasics TVs Good Enough to Beat Mi TVs in India?")
+
+
+[Are Amazonbasics TVs Good Enough to Beat Mi TVs in India?](https://gadgets.ndtv.com/podcasts/features/are-amazonbasics-tvs-good-enough-to-beat-mi-tvs-in-india-2384220)
+
+
+> AmazonBasics TVs are available at a low price in India. The company has launched 4K TVs under Rs. 30,000. Our in-house TV expert Ali Pardiwala joins host Pranay Parab to talk about these TVs and whether they belong in the list of best TVs under Rs. 30,000 in India. We begin this episode by sharing our thoughts on what the AmazonBasics TVs do well, and why people might want to consider buying these TVs in India. Then we talk about the negatives of AmazonBasics TVs and some features that really should've been there in this TV.
+
+
+***
+![Realme GT Neo is the brand's next affordable 5G flagship](https://cdn.mos.cms.futurecdn.net/RYqkjqZSvxwuvvXAtPUqJF-1200-80.jpg "Realme GT Neo is the brand's next affordable 5G flagship")
+
+
+[Realme GT Neo is the brand's next affordable 5G flagship](https://www.techradar.com/news/realme-gt-neo-is-the-brands-next-affordable-5g-flagship)
+
+
+> (Image credit: Realme) Launched yesterday, the Realme GT is one of the first Snapdragon 888-powered flagships globally. The company has now confirmed that it has a sibling on the way.The Realme GT launch was followed by a teaser that mentioned the name of the next device in the series — the Realme GT Neo. A closer looks at the image reveals a mention of '1200', which could be a reference to the new MediaTek Dimensity 1200 chipset that is yet to make its debut on a smartphone. Realme GT Neo is coming up as well.
+
+
+***
+![Moto G10 Power and Moto G30 to launch on March 9 in India](https://cdn.mos.cms.futurecdn.net/RhRLxGuVWSsh7qQ8qopgyf-1200-80.jpg "Moto G10 Power and Moto G30 to launch on March 9 in India")
+
+
+[Moto G10 Power and Moto G30 to launch on March 9 in India](https://www.techradar.com/news/moto-g10-power-g30-specs-price-launch-date-india)
+
+
+> (Image credit: Flipkart) Moto G10 Power and Moto G30 will launch in India on March 9. The two devices will be new budget phones in the G series. The Moto G30 and Moto G10 smartphones were unveiled globally a few weeks back. Motorola India has scheduled the launch event at 12 noon on March 9 in India. The devices will be available on Flipkart. While the Moto G30 is coming to India, the Moto G10 Power looks like a new phone that has not been launched elsewhere. The Power moniker is generally associated with big battery phones from Moto.
+
+
+***
+![Best URL filtering software of 2021](https://cdn.mos.cms.futurecdn.net/UJ5CFPQLDaMmXUqcw3CEXh-1200-80.jpg "Best URL filtering software of 2021")
+
+
+[Best URL filtering software of 2021](https://www.techradar.com/best/best-url-filtering-software)
+
+
+> The best URL filtering software makes it simpler and easier to manage website access across a business network, and help reduce security risks.Monitoring and prohibiting access to certain websites is a common way for parents to ensure kids stay safe online. But URL filtering can be just as effective in a business context too.As well as blocking a website on the basis of quality, the best URL filtering software can scan the content of a website and withhold access to users if anything within it is deemed unsafe or inappropriate.
+
+
