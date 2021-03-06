@@ -38563,3 +38563,53 @@
 > Chinese phone brand Realme hasn't previously specialized in premium smartphones but that's about to change because the Realme GT is official and it looks set to be packed to the rafters with top specs.Previously thought to be called the Realme Race, the Realme GT aims to be a premium phone with impressive power, features and design – and it's likely coming alongside a Pro-grade sibling.The device has now been officially announced in China, so we've gone ahead and collected all the available information surrounding the Realme GT and it's more premium variant, along with a host of leaks and rumors while we await further updates.
 
 
+***
+![Ratatouille is still the best Pixar movie on Disney Plus – here's why](https://cdn.mos.cms.futurecdn.net/GcTCQwqvX7aNxuXNKXQv2S-1200-80.jpg "Ratatouille is still the best Pixar movie on Disney Plus – here's why")
+
+
+[Ratatouille is still the best Pixar movie on Disney Plus – here's why](https://www.techradar.com/news/ratatouille-is-still-the-best-pixar-movie-on-disney-plus-heres-why)
+
+
+> Few film studios can boast the commercial and cultural pedigree of Pixar. Whether through toys, bugs, fish, monsters or even actual human emotions, Disney's flagship animation house has rarely misfired in its near 30-year quest to capture the hearts and minds of adults and children alike.With Disney Plus being widely available, subscribers now have access to Pixar's entire library of movies and animated shorts on demand – and none are more worthy of a revisit than Ratatouille. Co-written and directed by studio mainstays Brad Bird and Jan Pinkava, Ratatouille tells the understated tale of Remy, a Parisian rat with a talent for cooking, in such a way as to elevate the medium of family animation to genuinely artistic filmmaking.
+
+
+***
+![No, Chromium browsers aren't going anywhere any time soon](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/brave-browser-pixel-slate.jpg "No, Chromium browsers aren't going anywhere any time soon")
+
+
+[No, Chromium browsers aren't going anywhere any time soon](https://www.androidcentral.com/no-chromium-browsers-arent-going-anywhere-any-time-soon)
+
+
+> Source: Jerry Hildenbrand / Android Central I've seen something being shared around that looks like terrible news for anyone who loves the way Chrome can render a web page but hates the extra bloat that's baked into Google's browser. According to It's FOSS — a web site dedicated to all things open-source and a site I read regularly — third-party browsers that use Chromium are being locked out of certain features because Google is worried about market share. That would be a devastating loss to you, me, and the internet as a whole if it were the case, but I don't think it has anything to do with the market share of Chrome or that Google really cares about the particular features in play here.
+
+
+***
+![China's and Russia's spying spree will take years to unpack — full extent of SolarWinds hack, Hafnium's attack on Exchange Server may never be known.](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "China's and Russia's spying spree will take years to unpack — full extent of SolarWinds hack, Hafnium's attack on Exchange Server may never be known.")
+
+
+[China's and Russia's spying spree will take years to unpack — full extent of SolarWinds hack, Hafnium's attack on Exchange Server may never be known.](https://www.reddit.com/r/technology/comments/lz04bo/chinas_and_russias_spying_spree_will_take_years/)
+
+
+> China's and Russia's spying spree will take years to unpack — full extent of SolarWinds hack, Hafnium's attack on Exchange Server may never be known.
+
+
+***
+![SPCE Stock](https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F615828%2Fgettyimages-1141239154.jpg&w=700&op=resize "SPCE Stock")
+
+
+[SPCE Stock](https://fintechzoom.com/fintech_news_stock-market/spce-stock-4-spacs-for-the-future/)
+
+
+> What's nice about being early in picking a future winner is that you don't have to put up a large amount of money to eventually make a fortune. A $1,000 investment made when a company is a small cap can produce tremendous returns over the next 20 years. And because of the revolution in special purpose acquisition companies (SPACs), we're seeing a wave of opportunities that fit that exact bill, right now. Here are four SPACs that I really like: HighCape Capital Acquisition (NASDAQ:CAPA), Holicity (NASDAQ:HOL), Gores Holdings VI (NASDAQ:GHVI), and VG Acquisition (NYSE:VGAC).
+
+
+***
+![Our Long Year Of Being Mad At Each Other Online](https://miro.medium.com/max/1200/0*U6Fwk6i91GO1Ea6j "Our Long Year Of Being Mad At Each Other Online")
+
+
+[Our Long Year Of Being Mad At Each Other Online](https://kosoff.medium.com/our-long-year-of-being-mad-at-each-other-online-a5bef847cf80)
+
+
+> 19 hours ago·4 min readNo matter how you've conducted yourself over the past year, someone has decided that the way you're handling the pandemic is wrong. This judgment, anger and confusion stem from the fact that nobody in any level of government is providing us with specific guidelines for conducting our behavior so in absence of any real leadership we're all becoming snitches and police. We got mad at runners for running (even while masked!) last year. Then we got mad at people for going to parks, posting pictures of people who wanted to relax on a patch of grass after being confined to their homes.
+
+
