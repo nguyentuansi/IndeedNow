@@ -38275,3 +38275,50 @@
 > A new post reportedly spotted on the r/AndroidAuto subreddit seems to confirm that split-screen features are now rolling out to Android Auto. The feature is somewhat limited in its current capacity, based on responses and further comments on the matter. But that does mean that at least some users will now be able to run two apps at once.How does Android Auto work in split-screen view?Put simply, the incoming change appears to simply split the screen between two apps running simultaneously. That split isn't even though and, as of this writing, there's no way to run a single screen app on its own once it's enabled.
 
 
+***
+![More than 20,000 U.S. organizations compromised through Microsoft flaw: source](https://i-invdn-com.akamaized.net/news/Computer_800x533_L_1612384128.jpg "More than 20,000 U.S. organizations compromised through Microsoft flaw: source")
+
+
+[More than 20,000 U.S. organizations compromised through Microsoft flaw: source](https://www.investing.com/news/technology-news/as-microsoft-email-software-hack-spreads-experts-brace-for-more-impact-2438840)
+
+
+> No body in the article.
+
+
+***
+![George Floyd: Minneapolis wanted to pay social media influencers to fight misinformation around Derek Chauvin trial](https://www.gannett-cdn.com/presto/2021/03/04/USAT/7299ca38-913d-43a8-8d4e-90a72dcb67f3-USP_News-_George_Floyd_Protests.jpg?crop=5567,3131,x0,y0&width=1600&height=800&format=pjpg&auto=webp "George Floyd: Minneapolis wanted to pay social media influencers to fight misinformation around Derek Chauvin trial")
+
+
+[George Floyd: Minneapolis wanted to pay social media influencers to fight misinformation around Derek Chauvin trial](https://www.usatoday.com/story/tech/2021/03/05/minneapolis-influencers-george-floyd-death-derek-chauvin-trial/6907903002/)
+
+
+> CLOSE As the trial begins for a former police officer accused of killing George Floyd, here's what you need to know about the case. USA TODAYThe plan seemed simple enough: The City of Minneapolis was going to enlist the help of several key community influencers with the hopes of handling misinformation on social media and easing possible tensions as the murder trial that sparked a racial reckoning worldwide gets under way. And for that, the city would pay them each $2,000.With jury selection set to start Monday in the trial of Derek Chauvin, the former Minneapolis police officer facing murder charges in the death of George Floyd, city officials, nervous about the spread of misinformation that could lead to uprisings and violence, hoped to employ the power and reach of social media as a best defense.
+
+
+***
+[Instagram Reels: How to Use it to Increase Your Engagement](https://filmdaily.co/tech/instagram-reels/)
+
+
+> Instagram Reels are gaining traction. Here are some ways to increase your engagement by using the Instagram Reels. The post Instagram Reels: How to Use it to Increase Your Engagement appeared first on Film Daily.
+
+
+***
+![Email Me When My Site is Down](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Email Me When My Site is Down")
+
+
+[Email Me When My Site is Down](https://www.reddit.com/r/Python/comments/lyph18/email_me_when_my_site_is_down/)
+
+
+> Imagine you launch your website and out of the blue your site goes down and you have no idea. Yikes! Well, that's where https://github.com/Salaah01/website_pinger/ comes in! I had my website go down a few days ago and only noticed when I hardly had any traffic come onto my site https://www.bluishpink.com. And so, I've written a little bit of Python that will email me from now on whenever the site is down that is triggered by a shell script. Just a little code you can use to email yourself if you
+
+
+***
+![PS5 UK stock LIVE – New PlayStation consoles predicted next week at John Lewis, Argos, Currys and Smyths](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/02/TOB-PS5-1200x1200-1-.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 UK stock LIVE – New PlayStation consoles predicted next week at John Lewis, Argos, Currys and Smyths")
+
+
+[PS5 UK stock LIVE – New PlayStation consoles predicted next week at John Lewis, Argos, Currys and Smyths](https://www.thesun.co.uk/tech/14160314/ps5-uk-stock-playstation-game-argos-console-latest-live/)
+
+
+> GAMERS will be getting another chance to buy a PS5 console very soon. More stock is being released next week, and according to the latest reports, restocks will be happening at several major retailers. John Lewis is expected to be on the lucky list, alongside others like Smyths, Argos and Currys. Playstation CEO Jim Ryan reassured fans that Sony are "working as hard as they possibly can" to get more stock and blamed a global shortage in semiconductors for a slow rollout that has caused prolonged misery around the world.
+
+
