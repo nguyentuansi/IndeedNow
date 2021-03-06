@@ -38613,3 +38613,47 @@
 > 19 hours ago·4 min readNo matter how you've conducted yourself over the past year, someone has decided that the way you're handling the pandemic is wrong. This judgment, anger and confusion stem from the fact that nobody in any level of government is providing us with specific guidelines for conducting our behavior so in absence of any real leadership we're all becoming snitches and police. We got mad at runners for running (even while masked!) last year. Then we got mad at people for going to parks, posting pictures of people who wanted to relax on a patch of grass after being confined to their homes.
 
 
+***
+![Italian prosecutor seeks life sentences for U.S. students accused of killing](https://static.reuters.com/resources/r/?m=02&d=20210306&t=2&i=1553968943&r=LYNXMPEH250C8&w=800 "Italian prosecutor seeks life sentences for U.S. students accused of killing")
+
+
+[Italian prosecutor seeks life sentences for U.S. students accused of killing](https://www.reuters.com/article/us-italy-usa-killing-idUSKBN2AY0FN)
+
+
+> By Reuters StaffROME (Reuters) - An Italian prosecutor on Saturday demanded life sentences for two young Americans being tried on murder charges after a policeman was killed following a botched drugs sale in Rome.Finnegan Lee Elder, who was 19 at the time, has admitted to stabbing Mario Cerciello Rega in the early hours of July 26, 2019, while his friend Gabriel Christian Natale-Hjorth, then 18, was tussling with another police officer.Under Italian law, anyone who participates even indirectly in a murder can face murder charges.
+
+
+***
+[Why your team doesn't need to use pull requests](https://www.reddit.com/r/programming/comments/lz20zu/why_your_team_doesnt_need_to_use_pull_requests/)
+
+
+> submitted by /u/speckz [link] [comments]
+
+
+***
+![Flipkart Smartphone Carnival sale on March 8: Poco X3, Realme C3 to get big discount](https://images.indianexpress.com/2021/01/Poco-X3-discount.jpg "Flipkart Smartphone Carnival sale on March 8: Poco X3, Realme C3 to get big discount")
+
+
+[Flipkart Smartphone Carnival sale on March 8: Poco X3, Realme C3 to get big discount](https://indianexpress.com/article/technology/techook/flipkart-smartphone-carnival-sale-on-march-8-poco-x3-realme-c3-to-get-big-discount-7217261/)
+
+
+> Flipkart is all set to host a new Smartphone Carnival on March 8. The five-day sale will continue until March 12 and will offer no-cost EMI options as well as exchange offers. Customers will also be able to avail up to Rs 1,250 discount on Axis Bank cards. Ahead of the sale, Flipkart has revealed some of the smartphones deals. During the Flipkart Smartphone Carnival sale, the Poco X3 will be available for Rs 14,499, as per the dedicated sale page published by the e-commerce site. The same device is currently listed on the site for Rs 16,999.
+
+
+***
+![Better BASHing Through Technology](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Better BASHing Through Technology")
+
+
+[Better BASHing Through Technology](https://www.reddit.com/r/programming/comments/lz1wrn/better_bashing_through_technology/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[I'm writing a chess openings explorer in python with tkinter](https://www.reddit.com/r/Python/comments/lz1rk4/im_writing_a_chess_openings_explorer_in_python/)
+
+
+> I've taken the articles from Wikibooks:Chess Opening Theory that describe a specific opening line and created a database of openings with their wiki pages to use for my program. The program shows a board with the starting position and each time you make a move, it brings up the wikibooks article for that opening if there is one. Screenshot: https://i.imgur.com/D1bXTOA.png Video: https://i.imgur.com/QjnLMfQ.mp4 The idea is that it'll give you a feel for the openings because you can see a pretty in-depth analysis for each opening as you play through each move.
+
+
