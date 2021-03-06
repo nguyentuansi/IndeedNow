@@ -38369,3 +38369,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+![Twitter's Dorsey auctions first ever tweet as digital memorabilia](https://media2.malaymail.com/resize_cache/uploads/articles/2018/2018-11/dorjac2111-seo.jpg "Twitter's Dorsey auctions first ever tweet as digital memorabilia")
+
+
+[Twitter's Dorsey auctions first ever tweet as digital memorabilia](https://www.malaymail.com/news/tech-gadgets/2021/03/06/twitters-dorsey-auctions-first-ever-tweet-as-digital-memorabilia/1955385)
+
+
+> Twitter boss Jack Dorsey listed his famous post as a unique digital signature on a website for selling tweets as non-fungible tokens. — Reuters pic Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, March 6 ― 'Just setting up my twttr' ― the first ever tweet on the platform is up for sale after Twitter boss Jack Dorsey listed his famous post as a unique digital signature on a website for selling tweets as non-fungible tokens (NFTs). The post, sent from Dorsey's account in March of 2006, received offers yesterday that went as high as US$88,888.
+
+
+***
+![My snake hates search engines now](https://preview.redd.it/0ntcdfr9zbl61.jpg?auto=webp&s=21ed226bae196faf8841dad8d340f75362250e65 "My snake hates search engines now")
+
+
+[My snake hates search engines now](https://www.reddit.com/r/Python/comments/lytghk/my_snake_hates_search_engines_now/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Our favorite Rubbermaid storage set is at a mind-blowing price right now](https://www.gannett-cdn.com/presto/2021/03/06/USAT/2ed032fb-64b1-4160-99a9-61e3b7709a6a-rubbermaid.jpg?crop=2488,1400,x11,y0&width=2488&height=1400&format=pjpg&auto=webp "Our favorite Rubbermaid storage set is at a mind-blowing price right now")
+
+
+[Our favorite Rubbermaid storage set is at a mind-blowing price right now](https://www.usatoday.com/story/tech/reviewedcom/2021/03/05/rubbermaid-storage-save-64-these-top-rated-food-containers/6886553002/)
+
+
+> A top-notch food storage container set for less than $20? Sign us up. (Photo: Rubbermaid/Getty)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.If your food storage collection is a mishmash of plastic lids and containers with no rhyme or reason, you're probably all too familiar with the never-ending cupboard scramble for a matching set in which to store your leftovers. But what if we told you there was a single set with which you could eliminate all your mismatched food storage container woes? Enter: The Rubbermaid 42-piece press and lock easy find set, which is currently on sale for an incredible price at Walmart.
+
+
+***
+![This week in Auto: Delhi Govt withdraws subsidy; No more visits to RTO; India woos Elon Musk for Tesla factory and more](https://images.moneycontrol.com/static-mcnews/2020/11/Royal-Enfield-Meteor-2-770x433.jpg "This week in Auto: Delhi Govt withdraws subsidy; No more visits to RTO; India woos Elon Musk for Tesla factory and more")
+
+
+[This week in Auto: Delhi Govt withdraws subsidy; No more visits to RTO; India woos Elon Musk for Tesla factory and more](https://www.moneycontrol.com/news/technology/auto/this-week-in-auto-delhi-govt-withdraws-subsidy-no-more-visits-to-rto-india-woos-elon-musk-for-tesla-factory-and-more-6611911.html)
+
+
+> Imagine going to an automotive dealership and using a menu card for ordering what you actually want to pay for. This colour with that windshield or that colour and trim with a diesel engine. Automotive companies have taken the process of vehicle buying to another level of personalisation. Find out more about this in today's wrap of the week. But first here is what made headlines during the week.Tata Motors looking for a partner for JaguarThe race for electric vehicles is hotting up. Tata Motors, the parent company of Jaguar Land Rover (JLR), is searching for a partner.
+
+
+***
+![Euler fluid simulation i created with C++ and SFML](https://external-preview.redd.it/A6kbmfaZ3gF32hIHuk5Oz9n5ktoFV7FXJ_XCDwZrDxQ.jpg?auto=webp&s=ba096cb721b680c180b44e896dab8638f52b51cb "Euler fluid simulation i created with C++ and SFML")
+
+
+[Euler fluid simulation i created with C++ and SFML](https://www.reddit.com/r/programming/comments/lyt16s/euler_fluid_simulation_i_created_with_c_and_sfml/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
