@@ -38322,3 +38322,50 @@
 > GAMERS will be getting another chance to buy a PS5 console very soon. More stock is being released next week, and according to the latest reports, restocks will be happening at several major retailers. John Lewis is expected to be on the lucky list, alongside others like Smyths, Argos and Currys. Playstation CEO Jim Ryan reassured fans that Sony are "working as hard as they possibly can" to get more stock and blamed a global shortage in semiconductors for a slow rollout that has caused prolonged misery around the world.
 
 
+***
+![Microservices on Knative with Spring Boot and GraalVM](https://external-preview.redd.it/c3QbFKMGfssPIhPnoi3qCrnaO0gs0yyzEbfILGL4KK4.jpg?auto=webp&s=889c6080d9cd637bc6e99a671e5dcc817eccf012 "Microservices on Knative with Spring Boot and GraalVM")
+
+
+[Microservices on Knative with Spring Boot and GraalVM](https://www.reddit.com/r/programming/comments/lyrn9e/microservices_on_knative_with_spring_boot_and/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Facebook's AI model SEER was designed to exclude Instagram images from the EU in its dataset, likely to avoid GDPR violations (Dave Gershgorn/OneZero )](http://www.techmeme.com/210305/p25#a210305p25)
+
+
+> Dave Gershgorn / OneZero : Facebook's AI model SEER was designed to exclude Instagram images from the EU in its dataset, likely to avoid GDPR violations — The team purposely excluded Instagram images from the European Union, likely because of GDPR — OneZero's General Intelligence is a roundup …
+
+
+***
+![Svelte NodeGUI, a lightweight Electron alternative with native UI](https://external-preview.redd.it/C6WGhPZMVjcsokoDIzcg6X3Uf9o_NLs2hnEnqJEx898.jpg?auto=webp&s=02e14592ccf1db153e4d069d336d65d9b65c75b1 "Svelte NodeGUI, a lightweight Electron alternative with native UI")
+
+
+[Svelte NodeGUI, a lightweight Electron alternative with native UI](https://www.reddit.com/r/programming/comments/lyrln4/svelte_nodegui_a_lightweight_electron_alternative/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![First Fig, by Edna St Vincent Millay, (1892-1950)](https://external-preview.redd.it/DFEI8eCXErsp5ZcZAKegtIQYheNlyDh6_v_4hy0oNOA.jpg?auto=webp&s=302275d062e61ad3fb8e7d7c4547993d48e7ab0c "First Fig, by Edna St Vincent Millay, (1892-1950)")
+
+
+[First Fig, by Edna St Vincent Millay, (1892-1950)](https://www.reddit.com/r/programming/comments/lyrll7/first_fig_by_edna_st_vincent_millay_18921950/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![macOS apps not updating properly](https://images.macrumors.com/social/?t=2287266&v=6 "macOS apps not updating properly")
+
+
+[macOS apps not updating properly](https://forums.macrumors.com/threads/macos-apps-not-updating-properly.2287266/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
