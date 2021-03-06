@@ -38757,3 +38757,47 @@
 > Stimulus checks are getting closer, but you still want to know when yours will arrive in your hands. Sarah Tew/CNET The Senate passed the COVID-19 relief stimulus bill on Saturday, setting into motion a definitive course for a third stimulus check. Although the bill isn't law yet (the House will have to vote on the amended bill again before President Joe Biden can sign it), the $1,400 payment reduces the upper income limit once again, which means fewer people will be eligible to get more stimulus money than originally thought.
 
 
+***
+![Could a Weber iGrill 3 help up your grilling game?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/weber-igrill3-lifestyle.jpg "Could a Weber iGrill 3 help up your grilling game?")
+
+
+[Could a Weber iGrill 3 help up your grilling game?](https://www.androidcentral.com/should-you-buy-weber-igrill3-your-weber-bbq)
+
+
+> Source: WeberBest answer: Yes, the Weber iGrill 3 is a great grilling gadget that can monitor the temperature of up to four cuts of meat and will send notifications straight to your phone when food is ready to be served. Have you ever taken your steak off the grill only to discover that it's still rare instead of medium leaving you no choice but to throw it back on? We've all been there, but it's a scenario that's best avoided. It's why smart grilling tools like the Weber iGrill 3 were created in the first place—to take some of the uncertainty out of the grilling process and give you accurate temperature reads.
+
+
+***
+[Interview with Qualcomm's incoming CEO Cristiano Amon on the global chip shortage, why it won't build its own fabs, and opposition to the Nvidia-Arm deal (Shara Tibken/CNET)](http://www.techmeme.com/210306/p8#a210306p8)
+
+
+> Shara Tibken / CNET: Interview with Qualcomm's incoming CEO Cristiano Amon on the global chip shortage, why it won't build its own fabs, and opposition to the Nvidia-Arm deal — Cristiano Amon, incoming CEO of chipmaker Qualcomm, warns in an interview with CNET that the shortage may not end until late 2021.
+
+
+***
+![Red hypergiant as bright as 300,000 suns could explain what's up with Betelgeuse](https://icdn5.digitaltrends.com/image/digitaltrends/stsci-h-p2109c-d-1200x630-c-ar1.91.jpg "Red hypergiant as bright as 300,000 suns could explain what's up with Betelgeuse")
+
+
+[Red hypergiant as bright as 300,000 suns could explain what's up with Betelgeuse](https://www.digitaltrends.com/news/hubble-vy-canis-majoris/)
+
+
+> This artist's impression of hypergiant star VY Canis Majoris shows the star's vast convection cells and violent ejections. VY Canis Majoris is so large that if it replaced the Sun, the star would extend for hundreds of millions of miles, between the orbits of Jupiter and Saturn. NASA , ESA , and R. Humphreys (University of Minnesota), and J. Olmsted (STScI ) Something strange is up with one of the brightest stars in the sky, Betelgeuse. In the past 18 months, the star has dimmed dramatically from its usual brightness levels, leading to competing theories that it may be covered in sunspots or about to go supernova.
+
+
+***
+[The Hindu Explains](https://www.thehindu.com/sci-tech/technology/red-echo-over-india/article34008299.ece)
+
+
+> How did Recorded Future track malware in Indian systems?
+
+
+***
+![Here's who may not qualify for a third stimulus check. The latest update](https://cnet3.cbsistatic.com/img/WUNvl9VQrZWldMbPLnuyBx-e9y8=/1200x630/2020/11/03/2e34124f-26fd-4ee9-bba1-2f8773d2d166/049-cash-stimulus-bill-help-americans-poverty-last-dollar-torn-apart-election.jpg "Here's who may not qualify for a third stimulus check. The latest update")
+
+
+[Here's who may not qualify for a third stimulus check. The latest update](https://www.cnet.com/personal-finance/heres-who-may-not-qualify-for-a-third-stimulus-check-the-latest-update/)
+
+
+> The stimulus check rules could change in your favor, or it may leave you out this time around. Sarah Tew/CNET The $1.9 trillion stimulus bill could become law as soon as Tuesday, now that the Senate has approved the package. Based on a number of amendments made to the language of the bill, we now have a clearer idea for who might qualify for the third stimulus check -- along with who wouldn't be eligible for the new $1,400 payment.  Among several changes made by the Senate is a lower income limit for individuals and families, which would disqualify 16 million people, The Hill reported.
+
+
