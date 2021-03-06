@@ -38657,3 +38657,53 @@
 > I've taken the articles from Wikibooks:Chess Opening Theory that describe a specific opening line and created a database of openings with their wiki pages to use for my program. The program shows a board with the starting position and each time you make a move, it brings up the wikibooks article for that opening if there is one. Screenshot: https://i.imgur.com/D1bXTOA.png Video: https://i.imgur.com/QjnLMfQ.mp4 The idea is that it'll give you a feel for the openings because you can see a pretty in-depth analysis for each opening as you play through each move.
 
 
+***
+![Parental controls on Android: how to make a phone or tablet child friendly](https://cdn.mos.cms.futurecdn.net/GgpBu37NPcUwdKjqwuLEFF-1200-80.jpeg "Parental controls on Android: how to make a phone or tablet child friendly")
+
+
+[Parental controls on Android: how to make a phone or tablet child friendly](https://www.techradar.com/how-to/how-to-set-parental-controls-on-android)
+
+
+> For all their many joys, mobile devices can expose your kids to content you'd rather they didn't see. The good news is that your Android smartphone or tablet comes with built-in tools that can help you ensure your little ones can access only age-appropriate content – and, as we'll discover, those tools are effective and straightforward to use.In this tutorial, we'll show you how parental controls work on a standard Android smartphone. Note that some other Android-powered devices may have their own, manufacturer-specific parental controls.
+
+
+***
+![I'm running across the entirety of America, and I can't do it without technology](https://cdn.mos.cms.futurecdn.net/gPQiuMxHM2w9CA5NNNZX5H-1200-80.jpg "I'm running across the entirety of America, and I can't do it without technology")
+
+
+[I'm running across the entirety of America, and I can't do it without technology](https://www.techradar.com/news/im-running-across-the-entirety-of-america-and-i-cant-do-it-without-technology)
+
+
+> Where am I?(Image credit: End to End)Date written: 02/03/21 Days in: 4 Current location: Chicago, IL Distance traveled: 19.94 miles Distance left: 2251.51 miles Current tracker: Honor Watch GS ProIn the mid-20th century, countless people travelled down US Route 66, travelling from east to west in pursuit of new fortunes. And almost exactly 95 years after the route number was designated, I'm stepping foot upon the road too, albeit in a very different way.I won't give you a full history lesson here, but for the uninitiated, Route 66 started in Chicago, and travelled through eight states to end in Los Angeles nearly 4,000km or 2,500 miles down the road - it was most used during the Dust Bowl and Great Depression, by people seeking their fortunes out west.
+
+
+***
+![Kings of War Armada Guide](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/Kings%20of%20War%20Armada.jpg?itok=khBTjUAl "Kings of War Armada Guide")
+
+
+[Kings of War Armada Guide](https://techraptor.net/tabletop/guides/kings-of-war-armada-guide)
+
+
+> 03/06/2021 - 11:00 | By: Adam Potts Home Tabletop Tabletop Guides Kings of War Armada Guide Kings of War Armada is a ship wargame by Mantic Games, set in their fantasy Kings of War setting in the world of Pannithor. In this guide, we'll look at the Kings of War Armada key mechanics, the different factions and talk about what you need to play. If you want to know more about Kings of War, you can read our Guide here. You can buy all the Kings of War Products from our Tabletop Sponsor, Firestorm Games.
+
+
+***
+![Robinhood Moves Toward IPO Despite GameStop Controversy](https://media.breitbart.com/media/2021/03/Robinhood-CEO-Vladimir-Tenev.jpg "Robinhood Moves Toward IPO Despite GameStop Controversy")
+
+
+[Robinhood Moves Toward IPO Despite GameStop Controversy](https://www.breitbart.com/tech/2021/03/06/robinhood-chooses-nasdaq-for-ipo-despite-gamestop-controversy/)
+
+
+> Stock trading app Robinhood has chosen Nasdaq as the exchange for its IPO this year, despite being embroiled in controversy over its treatment of its customers during the Gamestop trading frenzy and previous problems including trading outages. CNBC reports that the popular day-trading app Robinhood has chosen the Nasdaq as the exchange for its eventual initial public offering, according to sources. The company has not yet filed officially for the listing but is expected to at some point this year.
+
+
+***
+![How Workers At One Amazon Warehouse Could Change The Union Landscape](https://s.yimg.com/uu/api/res/1.2/OHHO20O5b6NnIcjeKmiFdw--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/los_angeles_times_opinion_902/c2fc4bcee0f169716b832551b29611e1 "How Workers At One Amazon Warehouse Could Change The Union Landscape")
+
+
+[How Workers At One Amazon Warehouse Could Change The Union Landscape](https://news.yahoo.com/op-ed-workers-one-amazon-113032233.html)
+
+
+> Some Democratic members of Congress and national union leaders on Friday sought to rustle up support for unionizing a massive Amazon facility outside Birmingham, comparing Alabama workers' organizing campaign to the civil rights movement. It's the largest organizing attempt in Amazon's history, carrying high stakes for the second-largest employer in the country, which has a record of crushing unionizing efforts at its warehouses and its Whole Foods grocery stores. The outcome is critical for Amazon and organized labor in general.
+
+
