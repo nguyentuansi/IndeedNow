@@ -38513,3 +38513,53 @@
 > VALHEIM is the game everybody is talking about, and with good reason. This epic Viking sandbox survival game is like someone mashed together a Norse RPG with Minecraft – with phenomenal success. The game has already accrued 5million players in just a few weeks of Early Access on Steam. Impressive, given it was created by […]
 
 
+***
+![New fun and interactive way to learn python programming](https://external-preview.redd.it/S6XtScRmMUjggnYY6zTMiKGlxWO1etRf_QIyru82Lvw.jpg?auto=webp&s=883e20becdef4c0d5e65565a68fc10a1db758002 "New fun and interactive way to learn python programming")
+
+
+[New fun and interactive way to learn python programming](https://www.reddit.com/r/Python/comments/lyye96/new_fun_and_interactive_way_to_learn_python/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Women's Day 2021: Safety tips for your Facebook and Instagram accounts](https://images.indianexpress.com/2021/03/Facebook_Reuters_2.jpg "Women's Day 2021: Safety tips for your Facebook and Instagram accounts")
+
+
+[Women's Day 2021: Safety tips for your Facebook and Instagram accounts](https://indianexpress.com/article/technology/techook/womens-day-2021-safety-tips-for-your-facebook-and-instagram-accounts-7215442/)
+
+
+> While the internet has given women many opportunities, it can also be a space where many feel unsafe given the harassment that it is all too common. On social media platforms, harassment and safety is a major concern for women. From strangers messaging on Facebook to unwanted comments on Instagram photos, there are several problems that women face when navigating social media. Ahead of women's day 2021, here are safety tips from Facebook and Instagram to stay safe on both platforms. Tips for keeping your account safe on Facebook 2-Factor authentication and omitting unrecognised logins This is important to ensure that your account is not compromised or accessed by anyone else.
+
+
+***
+![5 best SIM only deals to get you fired up this weekend including 100GB for £16 a month](https://cdn.mos.cms.futurecdn.net/QtrxpW76A4FwKnwPwHr5o3-1200-80.jpg "5 best SIM only deals to get you fired up this weekend including 100GB for £16 a month")
+
+
+[5 best SIM only deals to get you fired up this weekend including 100GB for £16 a month](https://www.techradar.com/news/5-best-sim-only-deals-to-get-you-fired-up-this-weekend-including-100gb-for-pound16-a-month)
+
+
+> (Image credit: Future) Nothing feels better than paying off your contract, or - better still - having the finances to buy a swanky new handset outright. Well, actually, securing a fantastic SIM only deal to match feels pretty great, too. Want a slice of that goodness? We're bringing you the very best SIMs currently available.Whether you want shed loads of data or an affordable monthly rate with enough data to comfortably see you from month-to-month, we've got the tariffs for you.From Three's exceptional value unlimited plan for just £16 a month, to £1 per gigabyte with Voxi's 12GB for £12 a month - with unlimited streaming and social media on top.
+
+
+***
+![Apple Watch stuck between old and new iPhone](https://images.macrumors.com/social/?t=2287291&v=6 "Apple Watch stuck between old and new iPhone")
+
+
+[Apple Watch stuck between old and new iPhone](https://forums.macrumors.com/threads/apple-watch-stuck-between-old-and-new-iphone.2287291/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Jun 4, 2014 134 174 Sweden Last night started setting up new iPhone (12 pro max) by transferring ota from old iPhone (Xs max). I.e. started by placing beside each other and using that automatic process ota. During the setup process it was asked if I want to transfer the Watch (6) from old iPhone. But something went wrong in the process with setting up the Watch while I continued setting up new iPhone.
+
+
+***
+![Realme GT price in India, specs, launch date and leaks](https://cdn.mos.cms.futurecdn.net/j79B4CZpQ9EJSFwBoTycmX-1200-80.jpg "Realme GT price in India, specs, launch date and leaks")
+
+
+[Realme GT price in India, specs, launch date and leaks](https://www.techradar.com/news/realme-gt-release-date)
+
+
+> Chinese phone brand Realme hasn't previously specialized in premium smartphones but that's about to change because the Realme GT is official and it looks set to be packed to the rafters with top specs.Previously thought to be called the Realme Race, the Realme GT aims to be a premium phone with impressive power, features and design – and it's likely coming alongside a Pro-grade sibling.The device has now been officially announced in China, so we've gone ahead and collected all the available information surrounding the Realme GT and it's more premium variant, along with a host of leaks and rumors while we await further updates.
+
+
