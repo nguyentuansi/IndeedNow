@@ -38707,3 +38707,53 @@
 > Some Democratic members of Congress and national union leaders on Friday sought to rustle up support for unionizing a massive Amazon facility outside Birmingham, comparing Alabama workers' organizing campaign to the civil rights movement. It's the largest organizing attempt in Amazon's history, carrying high stakes for the second-largest employer in the country, which has a record of crushing unionizing efforts at its warehouses and its Whole Foods grocery stores. The outcome is critical for Amazon and organized labor in general.
 
 
+***
+![The Apple Watch 6 cellular has just hit its lowest price yet in Amazon's latest deals](https://cdn.mos.cms.futurecdn.net/icxzE5R6p9WqTMzLQhFLEb-1200-80.jpg "The Apple Watch 6 cellular has just hit its lowest price yet in Amazon's latest deals")
+
+
+[The Apple Watch 6 cellular has just hit its lowest price yet in Amazon's latest deals](https://www.techradar.com/news/the-apple-watch-6-cellular-has-just-hit-its-lowest-price-yet-in-amazons-latest-deals)
+
+
+> (Image credit: Apple) Apple Watch deals have been quite a regular fixture over at Amazon these past few weeks, however it's rare to see the cellular version of the latest Apple Watch Series 6 go for as little as $429.98 (was $499).This $70 saving brings this cellular version down to its lowest price yet, and only $45 more than the standard GPS Series 6. Overall, it's a great buy if you're looking to snag a top-end smartwatch and cut the cord to your smartphone... figuratively speaking.Going cellular means that with this particular device you'll be able to stream music directly from your watch, use apps, and even make and receive calls without having to be synced with your phone.
+
+
+***
+![Oprah interview with Prince Harry and Meghan: How to watch, what to know](https://cnet4.cbsistatic.com/img/sOD27MGrdv3T2uvki7Sey__WN7U=/1200x630/2021/03/01/87c6b7e4-6be5-485f-a7f8-f9c85ac4a9ba/harryandmeghan.jpg "Oprah interview with Prince Harry and Meghan: How to watch, what to know")
+
+
+[Oprah interview with Prince Harry and Meghan: How to watch, what to know](https://www.cnet.com/how-to/oprahs-big-interview-with-prince-harry-and-meghan-how-to-watch-what-to-know/)
+
+
+> Prince Harry and Meghan sit down for a chat with Oprah.  CBS video screenshot by Leslie Katz/CNET Royals don't grant interviews to Oprah. It's simply Not Done. Then again, Prince Harry, the second son of Prince Charles and the late Diana, Princess of Wales, herself a true iconoclast, was never going to be a prince who did things by the book. Now, Harry and his wife, American-born Meghan, Duchess of Sussex, are sitting down with celebrity royalty, Oprah Winfrey, for a much-anticipated televised interview.
+
+
+***
+![Get this ultra-small, ultra-fast-charging 10,000-mAh power bank for just $16](https://cnet3.cbsistatic.com/img/HpvB78uSJWW-LZhY2d0E_YYA1Nw=/1200x630/2021/03/06/e2bde04b-9083-42e9-b670-e3668469a4f2/aukey.jpg "Get this ultra-small, ultra-fast-charging 10,000-mAh power bank for just $16")
+
+
+[Get this ultra-small, ultra-fast-charging 10,000-mAh power bank for just $16](https://www.cnet.com/news/get-this-ultra-small-ultra-fast-charging-10000-mah-power-bank-for-just-16/)
+
+
+> Aukey When it comes to power banks, the small the better, so it's hard to beat Aukey's PB-N83, one of the smallest 10,000-mAh models we've ever seen.  It's a little over an inch thick, but fits comfortably on a credit card. Combine that with the fact that it has dual charging ports -- an 18-watt Power Delivery USB-C connection and a Quick Charge 3.0 USB-A port, and you have a formidable charger. Regularly priced at $21, right now you can get the Aukey PB-N83 power bank for as little as $16 using the coupon on the product page.
+
+
+***
+![Patio furniture is hugely discounted right now for Overstock's Semi-Annual Sale](https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2021/03/05/USATODAY/usatsports/Reviewed.com-RvEW-25161-patio-furniture-hero.jpg?width=1600&height=800&fit=crop "Patio furniture is hugely discounted right now for Overstock's Semi-Annual Sale")
+
+
+[Patio furniture is hugely discounted right now for Overstock's Semi-Annual Sale](https://www.usatoday.com/story/tech/reviewedcom/2021/03/06/patio-furniture-shop-overstock-semi-annual-sale-save-big/4609226001/)
+
+
+> Shop price cuts galore on all-things outdoor at Overstock. (Photo: Reviewed.com)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Springtime is just around the corner—it's Saturday, March 20, FYI!—which means it's time to start getting your outdoor space ready for warm weather. While patio furniture can sometimes teeter on the more expensive end of the spectrum, Overstock has just launched its massive Semi-Annual Sale that encompasses a bunch of amazing price cuts on lounge chairs, dining sets and so much more.
+
+
+***
+![When the IRS could send your next stimulus check, now that the Senate has passed the bill](https://cnet3.cbsistatic.com/img/ZtYun4e1QPsefBtaR-mGO4NpK8U=/1200x630/2020/06/09/5b084f29-1639-4b97-a3dd-82639635b6ef/008-money-us-dollar-bills-roll-stack-cash.jpg "When the IRS could send your next stimulus check, now that the Senate has passed the bill")
+
+
+[When the IRS could send your next stimulus check, now that the Senate has passed the bill](https://www.cnet.com/personal-finance/when-the-irs-could-send-your-next-stimulus-check-now-that-the-senate-passed-the-bill/)
+
+
+> Stimulus checks are getting closer, but you still want to know when yours will arrive in your hands. Sarah Tew/CNET The Senate passed the COVID-19 relief stimulus bill on Saturday, setting into motion a definitive course for a third stimulus check. Although the bill isn't law yet (the House will have to vote on the amended bill again before President Joe Biden can sign it), the $1,400 payment reduces the upper income limit once again, which means fewer people will be eligible to get more stimulus money than originally thought.
+
+
