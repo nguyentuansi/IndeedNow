@@ -38466,3 +38466,50 @@
 > Highlights Motorola is all set to launch two new smartphones in the Indian market. Motorola has finally confirmed that it will Moto G30 and Moto G10 on March 9 in the Indian market. The smartphones will come with stock Android 11 out of the box. Motorola is all set to launch two new smartphones in the Indian market. After months of speculations and leaks, Motorola has finally confirmed that it will Moto G30 and Moto G10 on March 9 in the Indian market. The smartphones were launched in the European markets but Motorola will sell the Moto G10 as Moto G10 Power in India.
 
 
+***
+![Sony smartphones: a complete history of Xperia flagship phones ahead of Xperia 1 III](https://cdn.mos.cms.futurecdn.net/8RX8udQF4GfBPN2TRZy3id-1200-80.jpg "Sony smartphones: a complete history of Xperia flagship phones ahead of Xperia 1 III")
+
+
+[Sony smartphones: a complete history of Xperia flagship phones ahead of Xperia 1 III](https://www.techradar.com/news/sony-phones-history)
+
+
+> Sony has been making top-quality smartphones for longer than you might have realized, and to help jog your memory, we're going to take a look back at the history of its flagship Xperia handsets – or at least the part of its history that goes as far back as 2013 anyway.That's when the Sony Xperia Z arrived, and it marked one of many minor resets that the series has had down the years, with a tweaked design and new features to appeal to the masses. It's a lot different to today's phones, but it's still recognizable as a Sony Xperia.
+
+
+***
+![Best Buy is having a 3-day sale of epic proportions—here's all the best deals](https://www.gannett-cdn.com/presto/2021/03/06/USAT/f4e44d81-89f9-4719-aaee-93d4cad13db0-Best-Buy_Background_copy.jpg?crop=2241,1261,x4,y0&width=2241&height=1261&format=pjpg&auto=webp "Best Buy is having a 3-day sale of epic proportions—here's all the best deals")
+
+
+[Best Buy is having a 3-day sale of epic proportions—here's all the best deals](https://www.usatoday.com/story/tech/reviewedcom/2021/03/06/best-buy-shop-top-picks-stores-huge-3-day-sale-right-now/4601028001/)
+
+
+> By Christine Persaud — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. Technology has taken over nearly every facet of our lives, whether we're surfing the web at home, enjoying some tunes as we soak up the sun at the beach or watching a movie on our personal devices mid-road trip. And right now is a great time to stock up on everything you'll need to make sure yours is up to date, since Best Buy is hosting a three-day sale of epic proportions.
+
+
+***
+![Indian scientist's solution for son's asthma is now an air purifier that destroys pollutants](https://images.indianexpress.com/2021/03/Molekule-1.jpg "Indian scientist's solution for son's asthma is now an air purifier that destroys pollutants")
+
+
+[Indian scientist's solution for son's asthma is now an air purifier that destroys pollutants](https://indianexpress.com/article/technology/tech-news-technology/indian-scientists-solution-for-sons-asthma-is-now-an-air-purifier-that-destroys-pollutants-7216734/)
+
+
+> What an Indian scientist created as a solution for his son's asthma a few decades back has spawned itself into a new solution to tackle indoor pollution. Molekule's PECO technology, based on Dr Yogi Goswami's work in the US, has now been launched in India. 'What my father did was look at a solar groundwater purification technology that he was working on at the Tyndall Air Force Base in Florida, and how he could apply that to air purification,' explains Jaya Rao, co-founder and CEO of Molekule. Her brother Dilip Goswami, to cure whose asthma Dr Goswami stared working on an indoor air purifier, is now President and CTO of this family-run company.
+
+
+***
+![Valheim review: Stop what you're doing and buy this £15 Viking masterpiece now](https://www.the-sun.com/wp-content/uploads/sites/6/2021/03/valheim.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Valheim review: Stop what you're doing and buy this £15 Viking masterpiece now")
+
+
+[Valheim review: Stop what you're doing and buy this £15 Viking masterpiece now](https://www.the-sun.com/lifestyle/tech/2459772/valheim-review-stop-what-youre-doing-and-buy-this-15-viking-masterpiece-now/)
+
+
+> VALHEIM is the game everybody is talking about, and with good reason. This epic Viking sandbox survival game is like someone mashed together a Norse RPG with Minecraft – with phenomenal success. Valheim is an epic co-op RPGCredit: Iron Gate Studios The game has already accrued 5million players in just a few weeks of Early Access on Steam. Impressive, given it was created by a small team of five at Iron Gate Studio. That pace shows no sign of slowing, and I'm overjoyed to count myself as one of the millions of hardy Vikings.
+
+
+***
+[Valheim review: Stop what you're doing and buy this £15 Viking masterpiece now](https://www.thesun.ie/tech/6663058/valheim-review-stop-what-youre-doing-and-buy-this-15-viking-masterpiece-now/)
+
+
+> VALHEIM is the game everybody is talking about, and with good reason. This epic Viking sandbox survival game is like someone mashed together a Norse RPG with Minecraft – with phenomenal success. The game has already accrued 5million players in just a few weeks of Early Access on Steam. Impressive, given it was created by […]
+
+
