@@ -38801,3 +38801,53 @@
 > The stimulus check rules could change in your favor, or it may leave you out this time around. Sarah Tew/CNET The $1.9 trillion stimulus bill could become law as soon as Tuesday, now that the Senate has approved the package. Based on a number of amendments made to the language of the bill, we now have a clearer idea for who might qualify for the third stimulus check -- along with who wouldn't be eligible for the new $1,400 payment.  Among several changes made by the Senate is a lower income limit for individuals and families, which would disqualify 16 million people, The Hill reported.
 
 
+***
+![Browsers and the Web (chapter of Web Browser Engineering)](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Browsers and the Web (chapter of Web Browser Engineering)")
+
+
+[Browsers and the Web (chapter of Web Browser Engineering)](https://www.reddit.com/r/programming/comments/lzc8b3/browsers_and_the_web_chapter_of_web_browser/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Massive increase in cyberattacks on higher education](http://www.digitaljournal.com/img/5/9/2/8/1/2/i/1/1/0/p-large/DSC00134.JPG "Massive increase in cyberattacks on higher education")
+
+
+[Massive increase in cyberattacks on higher education](http://www.digitaljournal.com/tech-and-science/technology/massive-increase-in-cyberattacks-on-higher-education/article/586248)
+
+
+> The past twelve months have seen a growing number of ransomware attacks aimed at the education and healthcare sectors. With education, the university sector has seen the greatest number of targeted attacks. Ransomware attacks represent the number one cybersecurity threat for universities, as ZDNet reports. In 2020, attacks against higher education were up 100 percent compared to 2019 with the average ransom demand being the huge sum of $447,000. It remains that ransomware is an issue for all businesses, however universities are currently facing even greater risk with students taking more online classes and academics also working from home due to the pandemic (based on a BlueVoyant survey).
+
+
+***
+![Can't boot into recovery mode or boot from USB Installer](https://forums.macrumors.com/attachments/img_0550-jpg.1739897/ "Can't boot into recovery mode or boot from USB Installer")
+
+
+[Can't boot into recovery mode or boot from USB Installer](https://forums.macrumors.com/threads/cant-boot-into-recovery-mode-or-boot-from-usb-installer.2287361/)
+
+
+> Jan 6, 2004 668 43 United Kingdom Hi all, I have a 12-core 3.46GHz 4,1 -> 5,1 MP with RX 580 8GB and a PCIe AHCI boot drive, running Mojave 10.14.6 and Open Core 0.6.7 (Martin Lo config). I wanted to install Big Sur on a spare/empty SSD to test compatibility and have been running up against constant problems. After creating a bootable USB Installer of Big Sur 11.2.2 the machine doesn't see it as bootable in OSX nor in the bootpicker. USB stick is formatted GUID/Journaled (Extended). I tried to boot into recovery mode to see if I had set a firmware password or blocked booting from other drives (despite having no recollection of this) and first noticed that there are two recovery partitions (see attached pictre), one for 10.
+
+
+***
+![Jakarta EE 9.1 Release Plan](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Jakarta EE 9.1 Release Plan")
+
+
+[Jakarta EE 9.1 Release Plan](https://www.reddit.com/r/programming/comments/lzbov8/jakarta_ee_91_release_plan/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![UK investors must develop an appetite for risk-taking](https://www.telegraph.co.uk/content/dam/business/2021/01/26/TELEMMGLPICT000247975649_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "UK investors must develop an appetite for risk-taking")
+
+
+[UK investors must develop an appetite for risk-taking](https://www.telegraph.co.uk/technology/2021/03/06/uk-investors-must-develop-appetite-risk-taking/)
+
+
+> Britain's vibrant technology start-up scene is booming. It enjoys big advantages – great universities, a still competitive tax regime and a growing pool of talented entrepreneurs with expertise in starting and building young companies. Figures compiled for the Government showed UK companies raised a record $15bn (£11bn) in 2020, slightly ahead of $14.8bn a year earlier and more than the rest of Europe combined. The problem comes when those firms start to scale up and find UK venture capitalists much more conservative and risk averse than overseas – especially the US.
+
+
