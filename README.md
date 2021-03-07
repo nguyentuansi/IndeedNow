@@ -39145,3 +39145,53 @@
 > The Razer Opus is an odd release – Razer has always seemed to live by the creed "for gamers, by gamers", with a wealth of gaming mice, keyboards and even some of the best gaming laptops we've ever used. However, the Opus looks to branch out further: it's a pair of noise-cancelling headphones meant more for your daily commute than your daily deathmatch in Halo 2. It's surprisingly affordable for what it brings to the table: for $199 (£199, AU$330), you're getting a surprisingly stylish pair of headphones that will cancel out outside noise, with plenty of quality of life features that will make them appealing to people who may have never engaged with the brand.
 
 
+***
+![There's a Surge of New EVs. We Take Them for a Spin](https://media.wired.com/photos/6042cab69341cc3166ba47c3/191:100/w_1280,c_limit/business_ev_chevy.jpg "There's a Surge of New EVs. We Take Them for a Spin")
+
+
+[There's a Surge of New EVs. We Take Them for a Spin](https://www.wired.com/story/surge-new-evs-we-take-spin/)
+
+
+> In the last year, options for the EV-curious have exploded. Not long ago, Tesla, Chevrolet, Nissan, and BMW were the only truly viable games in town. Now, there are extremely capable all-electric models from virtually every manufacturer. Most have ranges well above 200 miles, and a few start below $40,000.Among the latest entries: Volkswagen's ID.4 compact crossover, the Volvo XC40 Recharge, Hyundai's Ioniq, the Ford Mustang Mach-E, the Polestar 2, Kia's Niro EV, a new Chevy Bolt and larger Bolt EUV, and more affordable versions of Porsche's performance-oriented Taycan.
+
+
+***
+![How to Tell Which Emails Quietly Track You](https://media.wired.com/photos/604282883a2f2b60b2ccfc04/191:100/w_1280,c_limit/sec_tracking1285131695.png "How to Tell Which Emails Quietly Track You")
+
+
+[How to Tell Which Emails Quietly Track You](https://www.wired.com/story/how-to-tell-which-emails-track-you/)
+
+
+> Everyone sends emails now: political parties, your book club, freelance journalists, the social networks you're signed up to, your parents, that online store that you only bought one item from a decade ago, and many, many more.What do a lot of those email senders have in common? They want to know whether the messages they send you are being opened, and there are a variety of tools available to help them do just that—tools that aren't all that hard to use.A tracking pixel, embedded somewhere in the email, is how most people monitor whether an email gets opened.
+
+
+***
+![An Old Book Filled With New Ways to Heat Meaty Treats](https://media.wired.com/photos/6042abc39341cc3166ba47b9/191:100/w_1280,c_limit/Gear-Escarole-&-Beans-3-25.jpg "An Old Book Filled With New Ways to Heat Meaty Treats")
+
+
+[An Old Book Filled With New Ways to Heat Meaty Treats](https://www.wired.com/review/all-about-braising-coobook/)
+
+
+> The first time I braised short ribs was a milestone in my culinary education. Braising encapsulated so much of what I enjoyed about cooking: in this case, searing the meat, gently sautéing the carrots, onion, shallots, and garlic that perfumed the kitchen with their aroma, then giving everything a long, tenderizing bath in good red wine. The ribs I made were from The Balthazar Cookbook, and that recipe is a mix of hands-on time and letting a slow process work its magic, one that has a lot of wiggle room built in and a high wow factor, leaving you with an incredibly tender, decadent dinner.
+
+
+***
+![Drones vs hungry moths: Dutch use hi-tech to protect crops](https://imagevars.gulfnews.com/2021/03/07/Copy-of-Netherlands_Drones_vs_Moths_51784_1780c923549_medium.jpg "Drones vs hungry moths: Dutch use hi-tech to protect crops")
+
+
+[Drones vs hungry moths: Dutch use hi-tech to protect crops](https://gulfnews.com/technology/drones-vs-hungry-moths-dutch-use-hi-tech-to-protect-crops-1.1615118707631)
+
+
+> A moth-killing drone hovers over crops in a green house in Monster, Netherlands, Thursday, Feb. 25, 2021. Image Credit: AP Monster, Netherlands: Dutch cress grower Rob Baan has enlisted high-tech helpers to tackle a pest in his greenhouses: palm-sized drones seek and destroy moths that produce caterpillars that can chew up his crops. "I have unique products where you don't get certification to spray chemicals and I don't want it,'' Baan said in an interview in a greenhouse bathed in the pink glow of LED lights that help his seedlings grow.
+
+
+***
+![Those fever scanners that everyone is using to fight covid can be wildly inaccurate, researchers find](https://external-preview.redd.it/2bLkcN9M2qHtcVjhXq1AJcNfmolrwEvPIaQ8EyWXp7Y.jpg?auto=webp&s=0945e2a0c7404952b3276e0c2e376e254c9e9f7a "Those fever scanners that everyone is using to fight covid can be wildly inaccurate, researchers find")
+
+
+[Those fever scanners that everyone is using to fight covid can be wildly inaccurate, researchers find](https://www.reddit.com/r/technology/comments/lzp6j9/those_fever_scanners_that_everyone_is_using_to/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
