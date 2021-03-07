@@ -39339,3 +39339,53 @@
 > Hi HN,My name is Jeff Whitlock. I'm the co-founder and CEO of PingPong (https://www.getpingpong.com/), where we help remote teams collaborate and stay connected by exchanging video, voice, and screen recordings asynchronously. Think of it as Marco Polo or Snapchat (sans ephemerality) for globally-distributed product teams.We got the idea from our own experience on a different startup. Murphy, the co-founder and CTO, lives in Nigeria, and I live in the US (Utah). We had five other team members spread across three countries and four time zones.
 
 
+***
+![Want a MVNO that uses T-Mobile? Here are the best options.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/06/t-mobile-store-nyc-2018.jpg "Want a MVNO that uses T-Mobile? Here are the best options.")
+
+
+[Want a MVNO that uses T-Mobile? Here are the best options.](https://www.androidcentral.com/best-mvnos-use-t-mobiles-network)
+
+
+> Source: Android Central Best MVNOs That Use T-Mobile's Network Android Central 2021 The best MVNOs that use the T-Mobile network deliver great data speeds and solid coverage on one of the nation's fastest-growing networks. The T-Mobile network has been one of the biggest surprises in recent years and now its 5G network covers more people than any other. T-Mobile's network also works with the best Android phones you can get. Metro by T-Mobile manages to be one of the best-prepaid carriers to use the network with tons of data and even great roaming partner access.
+
+
+***
+![The #BoycottAmazon pro-union movement wants you to skip Prime for a week](https://mondrian.mashable.com/2021%252F03%252F07%252Fd2%252F03bf29688a0346e4b76a40fa127afede.edc6b.jpg%252F1200x630.jpg?signature=ep9wd_zgOJFcoHBiDLE0Hfg2rU0= "The #BoycottAmazon pro-union movement wants you to skip Prime for a week")
+
+
+[The #BoycottAmazon pro-union movement wants you to skip Prime for a week](https://mashable.com/article/boycott-amazon-union-march/)
+
+
+> Supporters of Amazon workers attempting to unionize have a simple request: Don't use Prime and other Amazon products for seven days, beginning today, Sunday, March 7.  Some 6,000 workers at a huge Amazon facility in Bessemer, Ala. are voting on whether they'll unionize. Voting began in February and will wrap up at the end of March. Should it get approved, it would be the first Amazon union in the U.S.  It's a critically important moment for union activists. Should the Bessemer's effort prove successful, other Amazon workers could follow suit.
+
+
+***
+![THE EPLANE COMPANY:  Flying taxis for a roof-to-roof commute](https://images.financialexpress.com/2021/03/1-127.jpg "THE EPLANE COMPANY:  Flying taxis for a roof-to-roof commute")
+
+
+[THE EPLANE COMPANY:  Flying taxis for a roof-to-roof commute](https://www.financialexpress.com/industry/technology/the-eplane-company-flying-taxis-for-a-roof-to-roof-commute/2207434/)
+
+
+> The ePlane Company co-founder & CEO Pranjal Mehta (L) with co-founder & CTO Satya ChakravarthyBy Srinath SrinivasanIncubated by IIT incubation cell at IIT Madras Research Park, The ePlane Company started by IIT Madras professor Satya Chakravarthy and his student, Pranjal Mehta, aims to make electric planes for civilian transportation within cities, enabling door-to-door, or rather roof-to-roof, travel. The company is set to begin testing initial models from July 2021 and has recently raised an undisclosed amount in seed funding from investors such as Speciale Invest, IIM Ahmedabad's CIIE.
+
+
+***
+![bug in TV OS 14.4 using YouTube in 4k dolby vision ?](https://forums.macrumors.com/attachments/img_0017-jpeg.1740279/ "bug in TV OS 14.4 using YouTube in 4k dolby vision ?")
+
+
+[bug in TV OS 14.4 using YouTube in 4k dolby vision ?](https://forums.macrumors.com/threads/bug-in-tv-os-14-4-using-youtube-in-4k-dolby-vision.2287452/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. hi I was wanting too no if any one else has this bug in YouTube where it will not show full screen why you are on the 4k dolby vision I this now noticed this bug with TV OS 14.4 I all ready tried too moved the app in re install but some issue I all so notice that this the same issue on all the 4k settings on the apple TV so am seeing if any one else has this issue You must log in or register to reply here.
+
+
+***
+![How to watch Oprah with Meghan and Harry online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/oprah-with-meghan-harry-cbs.jpg "How to watch Oprah with Meghan and Harry online from anywhere")
+
+
+[How to watch Oprah with Meghan and Harry online from anywhere](https://www.androidcentral.com/how-watch-oprah-meghan-and-harry-online-anywhere)
+
+
+> After ending her iconic talk show back in 2011, Oprah is back for a new two-hour sit-down interview with Meghan Markle and Prince Harry and we have all the details on how you can watch Oprah with Meghan and Harry on TV or online. Although Oprah attended the wedding of Prince Harry and Meghan Markle back in 2018, the couple first discussed their experiences with the media and public life with ITV in a documentary titled Harry and Meghan: An African Journey that aired in 2019. Just a year later though, the couple announced that they would be stepping down as working members of British royal family and moving to North American in order to become financially independent.
+
+
