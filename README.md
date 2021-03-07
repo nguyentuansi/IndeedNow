@@ -39195,3 +39195,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Tech Time: Michigan Science Center launches spring break camps](https://www.clickondetroit.com/resizer/z1ZI3d2SP-Y9dqD-QKK4DgtlXts=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/03-07-2021/t_529d98aa07684fdd9aa77b158467063e_name_image.jpg "Tech Time: Michigan Science Center launches spring break camps")
+
+
+[Tech Time: Michigan Science Center launches spring break camps](https://www.clickondetroit.com/news/local/2021/03/07/tech-time-michigan-science-center-launches-spring-break-camps/)
+
+
+> DETROIT – Sunday's segment of Tech Time takes a look at the various upcoming Spring programs being launched by the Michigan Science Center amid the pandemic. Read and watch more: Tech Time segmentsCopyright 2021 by WDIV ClickOnDetroit - All rights reserved.
+
+
+***
+![These are the best cheap, rugged Chromebooks for kids](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/07/asus-chromebook-flip-c214-review-hero-frontier.jpg "These are the best cheap, rugged Chromebooks for kids")
+
+
+[These are the best cheap, rugged Chromebooks for kids](https://www.androidcentral.com/best-chromebooks-kids)
+
+
+> Source: Ara Wagoner / Android Central Best Kids Chromebook Android Central 2021 You'll have a few different priorities when buying the best kids' Chromebook than you would for an adult. Smaller, lighter-weight laptops might be preferable for younger children, and older kids might want a larger screen or need more powerful components for gaming (or homework). No matter what age, there's an extra emphasis on ruggedness, dependable performance, and battery since we need to at least get through the entire school day on a single charge.
+
+
+***
+![Save 20% and plug in with the Aukey Omnia 4-port USB-C charger](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/aukey-4-port-omnia.jpg "Save 20% and plug in with the Aukey Omnia 4-port USB-C charger")
+
+
+[Save 20% and plug in with the Aukey Omnia 4-port USB-C charger](https://www.androidcentral.com/save-20-and-plug-aukey-omnia-4-port-usb-c-charger)
+
+
+> Time to take full advantage of that USB-C port and stop hindering your own device's ability to recharge faster with that old charger. The Aukey Omnia is a 4-port 102W USB-C wall charger, and when you clip the 20% off on-page coupon you can get it for $45.59 compared to its regular $57 street price. The Omnia has only been around since November. It's quite new and has never seen a direct price drop on Amazon before. You can get it today at its best price ever. This price is unique to the white version, and you can tell it's a huge discount because the black version is currently going for $77.
+
+
+***
+[Ny EU Rust server!](https://www.sweclockers.com/forum/trad/1628669-ny-eu-rust-server)
+
+
+> RusticWinter x2 Solo-Quad Modded IP: steam://connect/185.7.32.5:28215 Website: https://rusticwinter.tebex.io/ Name: RusticWinter x2 Solo-Quad Location: EU! Timezone GMT+1 (Sweden) Mods: Clans: Maximum of 4 players in one clan! (Not allowed to team up) - With Autoteam! Rates: x2 with x2,5 Sulfur and Wood! Scrap: x2 Barrels: Components only! Resources: Stacks increased Ammo: Remove Incendiary Ammo from Pistol and 5.56 Ammunition in Loottable! BP: got all WB1 BP but not Siliencer! Hiticon! Quicksmelt: 50% faster then default! Craftingspeed: 50% Faster then default! AirdropMarker: Shows where on the map the airdrop/supply signals is coming! Skins: /skin Command! for VIP only (2.
+
+
+***
+![No fan = awesome!](https://images.macrumors.com/social/?t=2287411&v=6 "No fan = awesome!")
+
+
+[No fan = awesome!](https://forums.macrumors.com/threads/no-fan-awesome.2287411/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Oct 8, 2008 1,125 12 Maine Just want to post this thread after playing civilization VI on my MacBook Air. Admittedly not a graphics intensive game by today's standards, but it's so much more pleasing to run these games without fans whining in the background. My MacBook was on my lap the whole time and didn't burn my skin off. Actually felt cooler than my fairly recent 2020 13" MacBook Pro with a fan.
+
+
