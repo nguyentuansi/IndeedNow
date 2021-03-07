@@ -38951,3 +38951,53 @@
 > Should I wait for the 13 series or is the 12 pro still a good buy right now? I hear the 13 pro is getting a 120hz which would be really nice, but at the same time I would like a new phone pretty soon. Any help is appreciated. No one knows whether the 13 will come out this year or 2022. If you are asking about the 2021 model, we are probably 7 months out, so it is up to you. If you need something soon, don't wait. If you can wait, the 5G modem should be improved. Which might be more important even though I've not used 5G yet myself.
 
 
+***
+![The 5 best Amazon deals you can get this weekend](https://www.gannett-cdn.com/presto/2021/03/05/USAT/2b6537a8-58f5-4add-ba5d-83f4b4cfa243-lead_hero_amazon_daily_deal.jpg?crop=1911,1075,x3,y0&width=1600&height=800&format=pjpg&auto=webp "The 5 best Amazon deals you can get this weekend")
+
+
+[The 5 best Amazon deals you can get this weekend](https://www.usatoday.com/story/tech/reviewedcom/2021/03/06/amazon-deals-save-le-creuset-cocotte-top-rated-hammock-and-more/4593684001/)
+
+
+> Shop your way into the weekend. (Photo: Le Creuset/Chef's Choice/Getty)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Between the Big Winter Sale that's happening at Amazon right now, which features huge savings on home, kitchen and more and the site's everyday savings, there's a lot going on at the retailer. Everything—and we do mean everything—that you could ever want for seems to be on sale.Get expert shopping advice delivered to your phone.
+
+
+***
+![Michelle Keegan denies 'marriage problems' with Mark Wright](https://i2-prod.mirror.co.uk/incoming/article23622368.ece/ALTERNATES/s1200/1_Michelle-Keegan-sends-sweet-message-of-support-to-Mark-Wright-after-his-winning-debut-for-Crawley-FC.jpg "Michelle Keegan denies 'marriage problems' with Mark Wright")
+
+
+[Michelle Keegan denies 'marriage problems' with Mark Wright](https://www.mirror.co.uk/3am/michelle-keegan-denies-rumours-marriage-23622392)
+
+
+> Michelle Keegan has denied rumours of "marriage problems" between her and partner Mark Wright. The actress rubbished claims that her months away filming Our Girl caused trouble in the couple's relationship. Speaking to You magazine, the 33-year-old shot down speculation that her relationship with the former The Only Way Is Essex star was strained when she filmed in South Africa and Malaysia. She said: "Going away for work is never seen as a good thing, only as a negative, and I don't understand that.
+
+
+***
+![Explained](https://www.thehindu.com/sci-tech/technology/yj1v9y/article34008298.ece/ALTERNATES/LANDSCAPE_615/powergris "Explained")
+
+
+[Explained](https://www.thehindu.com/sci-tech/technology/red-echo-over-india/article34008299.ece)
+
+
+> The story so far: On March 3, Maharashtra Power Minister Nitin Raut announced that a State Cyber Cell probe had found 14 Trojan horses in the servers of the Maharashtra State Electricity Transmission Company. These malwares had the potential to disrupt power distribution in the State. The announcement came in the wake of a report from Recorded Future, a U.S.-based cybersecurity firm, stating that a group linked to the Chinese government, which it called ‘Red Echo', had targeted 10 vital nodes in India's power distribution system and two seaports.
+
+
+***
+![Twitter's Jack Dorsey auctions first ever tweet as digital memorabilia](https://smartcdn.prod.postmedia.digital/torontosun/wp-content/uploads/2021/03/JACK-DORSEY-scaled-e1615089146873.jpg?quality=100&strip=all "Twitter's Jack Dorsey auctions first ever tweet as digital memorabilia")
+
+
+[Twitter's Jack Dorsey auctions first ever tweet as digital memorabilia](https://torontosun.com/technology/twitters-jack-dorsey-auctions-first-ever-tweet-as-digital-memorabilia)
+
+
+> Twitter CEO Jack Dorsey addresses students during a town hall at the Indian Institute of Technology (IIT) in New Delhi, India, Nov. 12, 2018. Photo by Anushree Fadnavis /REUTERS 'just setting up my twttr' – the first ever tweet on the platform is up for sale after Twitter boss Jack Dorsey listed his famous post as a unique digital signature on a website for selling tweets as non-fungible tokens (NFTs). The post, sent from Dorsey's account in March of 2006, received offers on Friday that went as high as $88,888.
+
+
+***
+![I made a tutorial to unsave all instagram posts using python hehe](https://external-preview.redd.it/QuB2zI0iqVmaGn96SMEynGyshM7D78d22Hy0lwAV9ss.jpg?auto=webp&s=69bbae076f724810a6fd151010a441940249efe5 "I made a tutorial to unsave all instagram posts using python hehe")
+
+
+[I made a tutorial to unsave all instagram posts using python hehe](https://www.reddit.com/r/Python/comments/lzif2l/i_made_a_tutorial_to_unsave_all_instagram_posts/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
