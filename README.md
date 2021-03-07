@@ -39292,3 +39292,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Seattle's surveillance contractor has history of illegal sales, bribery, worrying privacy advocates](https://external-preview.redd.it/-dtEjqICQ6UKRljmBPGBcPMRafKcF_kxfu8QeOTlaq0.jpg?auto=webp&s=fc3b6a3a04b8de0024277220de2260dd8eac7a82 "Seattle's surveillance contractor has history of illegal sales, bribery, worrying privacy advocates")
+
+
+[Seattle's surveillance contractor has history of illegal sales, bribery, worrying privacy advocates](https://www.reddit.com/r/technology/comments/lzvveq/seattles_surveillance_contractor_has_history_of/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![It's true, you may not qualify for a third stimulus check. What to know](https://cnet3.cbsistatic.com/img/WUNvl9VQrZWldMbPLnuyBx-e9y8=/1200x630/2020/11/03/2e34124f-26fd-4ee9-bba1-2f8773d2d166/049-cash-stimulus-bill-help-americans-poverty-last-dollar-torn-apart-election.jpg "It's true, you may not qualify for a third stimulus check. What to know")
+
+
+[It's true, you may not qualify for a third stimulus check. What to know](https://www.cnet.com/personal-finance/its-true-you-may-not-qualify-for-a-third-stimulus-check-what-to-know/)
+
+
+> The stimulus check rules could change in your favor, or they may leave you out this time around. Sarah Tew/CNET Now that the Senate has approved the COVID-19 relief package, the $1.9 trillion stimulus bill could become law as soon as this week. Based on a number of amendments made to the language of the bill (PDF), we now have a clearer idea of who might qualify for the third stimulus check -- along with who wouldn't be eligible for the new, $1,400 payment. Among several changes made by the Senate is a lower income limit for individuals and families, which would disqualify 16 million people, The Hill reported.
+
+
+***
+![Memory-mapped IO registers in zig](https://external-preview.redd.it/_psQXPFmJL4hdpqpPmuTv9UpkJ_kimkjZJPskLd2Qig.jpg?auto=webp&s=dc818c42ab6ffd5b32967c340756cefeffffc8f8 "Memory-mapped IO registers in zig")
+
+
+[Memory-mapped IO registers in zig](https://www.reddit.com/r/programming/comments/lzvgxb/memorymapped_io_registers_in_zig/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Oprah interview with Harry and Meghan is tonight: Start time, how to watch](https://cnet4.cbsistatic.com/img/sOD27MGrdv3T2uvki7Sey__WN7U=/1200x630/2021/03/01/87c6b7e4-6be5-485f-a7f8-f9c85ac4a9ba/harryandmeghan.jpg "Oprah interview with Harry and Meghan is tonight: Start time, how to watch")
+
+
+[Oprah interview with Harry and Meghan is tonight: Start time, how to watch](https://www.cnet.com/how-to/oprah-interview-with-harry-and-meghan-is-tonight-start-time-how-to-watch/)
+
+
+> Prince Harry and Meghan sit down for a chat with Oprah.  CBS video screenshot by Leslie Katz/CNET Royals don't grant interviews to Oprah. It's just Not Done. Then again, Prince Harry, the second son of Prince Charles and the late Diana, Princess of Wales, herself a true iconoclast, was never going to be a prince who did things by the book. Now, Harry and his wife, American-born Meghan Markle, Duchess of Sussex, are sitting down with celebrity royalty, Oprah Winfrey, for a much-anticipated televised interview Sunday night.
+
+
+***
+[Launch HN: PingPong (YC W21) – Video messaging for remote teams](https://news.ycombinator.com/item?id=26377761)
+
+
+> Hi HN,My name is Jeff Whitlock. I'm the co-founder and CEO of PingPong (https://www.getpingpong.com/), where we help remote teams collaborate and stay connected by exchanging video, voice, and screen recordings asynchronously. Think of it as Marco Polo or Snapchat (sans ephemerality) for globally-distributed product teams.We got the idea from our own experience on a different startup. Murphy, the co-founder and CTO, lives in Nigeria, and I live in the US (Utah). We had five other team members spread across three countries and four time zones.
+
+
