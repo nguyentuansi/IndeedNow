@@ -39045,3 +39045,53 @@
 > Facebook has removed 915 malicious accounts from its main app and 606 fake accounts from Instagram in February that were involved in misleading users.
 
 
+***
+![Four iPhone 14 leaks you need to know, even though it isn't coming until 2022](https://cdn.mos.cms.futurecdn.net/BqGDrWtuJwqQf54MTDzRcN-1200-80.jpg "Four iPhone 14 leaks you need to know, even though it isn't coming until 2022")
+
+
+[Four iPhone 14 leaks you need to know, even though it isn't coming until 2022](https://www.techradar.com/news/four-iphone-14-leaks-you-need-to-know-even-though-it-isnt-coming-until-2022)
+
+
+> The iPhone 12 range was released in late 2020, so the next Apple phones we're looking forward to are the iPhone 13 handsets – but all the rumors suggest a lot of small improvements. That means we might have to wait until Apple's 2022 phones, the supposed iPhone 14 range, for the big changes that could bring iPhones into the future.Some of these big changes are advances that might be coming, but not in time for the iPhone 13. Ergo, we expect things like finally losing the notch to happen in the iPhone 14 – in which case, we'd expect a punch-hole to house the selfie camera, but it's always possible Apple puts it under the display – which would make sense given all its Face ID-enabling sensors.
+
+
+***
+![iPhone 12 vs iPhone SE (2020): double the price, double the phone?](https://cdn.mos.cms.futurecdn.net/9pQTEFyh878ifRcrh7xibe-1200-80.jpg "iPhone 12 vs iPhone SE (2020): double the price, double the phone?")
+
+
+[iPhone 12 vs iPhone SE (2020): double the price, double the phone?](https://www.techradar.com/news/iphone-12-vs-iphone-se)
+
+
+> The iPhone 12 is Apple's smartphone standard bearer for 2021, and the phone that will tick the most boxes for the most people. But it's not for everyone.As we noted in our review, the iPhone 12 is more expensive than its predecessor the iPhone 11, which was hardly cheap itself. There are some, too, who will lament Apple's continued move towards ever larger displays.For those who are operating on a strict budget, or who simply prefer the compact iPhone designs of yesteryear, there's the iPhone SE (2020).
+
+
+***
+![Robo-writers: the rise and risks of language-generating AI](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Robo-writers: the rise and risks of language-generating AI")
+
+
+[Robo-writers: the rise and risks of language-generating AI](https://www.reddit.com/r/programming/comments/lzm2d6/robowriters_the_rise_and_risks_of/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Kode Redeem Genshin Impact Terbaru, Ini Cara Menukarkan Redeem Code](https://cdn-2.tstatic.net/tribunnews/foto/bank/images/genshin-impact.jpg "Kode Redeem Genshin Impact Terbaru, Ini Cara Menukarkan Redeem Code")
+
+
+[Kode Redeem Genshin Impact Terbaru, Ini Cara Menukarkan Redeem Code](https://www.tribunnews.com/techno/2021/03/07/kode-redeem-genshin-impact-terbaru-ini-cara-menukarkan-redeem-code)
+
+
+> Minggu, 7 Maret 2021 14:53 WIB lihat foto genshin.mihoyo.comGenshin Impact. Kode Redeem Genshin Impact Terbaru, Ini Cara Menukarkan Redeem CodeÂ
+
+
+***
+![Simple To-Do List app made using Python Tkinter](https://external-preview.redd.it/NkKR8ghVxzXEYfEZRRSAiWhVlthVehXyJ7lQa389JcU.jpg?auto=webp&s=42897384cf3c38059a5bb33f0a60b253ea39adea "Simple To-Do List app made using Python Tkinter")
+
+
+[Simple To-Do List app made using Python Tkinter](https://www.reddit.com/r/programming/comments/lzlxqb/simple_todo_list_app_made_using_python_tkinter/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
