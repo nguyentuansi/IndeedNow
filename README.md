@@ -39095,3 +39095,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Young tech founders and investors are giving more of their wealth away as social impact philanthropy grows](https://i.insider.com/60424a97715c580018242fd0?width=1200&format=jpeg "Young tech founders and investors are giving more of their wealth away as social impact philanthropy grows")
+
+
+[Young tech founders and investors are giving more of their wealth away as social impact philanthropy grows](https://www.businessinsider.com/tech-philanthropy-young-founders-commit-funds-for-social-impact-2021-3)
+
+
+> Tech billionaires have long been into philanthropy. Microsoft's Bill Gates, Salesforce's Marc Benioff, and Jeff Bezos, billionaires with seemingly limitless wealth, all back a variety of personal or external philanthropic efforts.Now new groups targeted at charitable techies are competing for the attentions of the wealthy or soon to be wealthy.In recent years, the Founders Pledge, the Giving Pledge, the Pledge 1%, and Epic Foundation have emerged as key avenues for socially conscious entrepreneurs to give back.
+
+
+***
+![I've used the Oppo X 2021 rollable smartphone: what I like and what I don't](https://cdn.mos.cms.futurecdn.net/3sE3KR9jCYfU4jrCwbPfmW-1200-80.jpg "I've used the Oppo X 2021 rollable smartphone: what I like and what I don't")
+
+
+[I've used the Oppo X 2021 rollable smartphone: what I like and what I don't](https://www.techradar.com/news/ive-used-the-oppo-x-2021-rollable-smartphone-what-i-like-and-what-i-dont)
+
+
+> If you follow smartphone news, you probably know that rollable smartphones are the next big thing, stealing the thunder from foldable phones so to speak. These devices let you extend the screen size, as part of the display is rolled up in the body of the phone, and can unravel when you want. It's a futuristic concept, and one no commercially available smartphone has right now, though we've seen Oppo, TCL and LG all show off their versions.I got hands-on with the Oppo X 2021, Oppo's rollable smartphone, to see what the fuss is about this form factor, and see just how fun unrolling such a phone is.
+
+
+***
+![return boolean for two nonzero elements, a and b, in the list, a % b is a member](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "return boolean for two nonzero elements, a and b, in the list, a % b is a member")
+
+
+[return boolean for two nonzero elements, a and b, in the list, a % b is a member](https://www.reddit.com/r/Python/comments/lznlxt/return_boolean_for_two_nonzero_elements_a_and_b/)
+
+
+> Hi fellas, I thought of a problem that is sort of bugging me. How would you solve this given any, every, and all two nonzero elements, a and b? That is if there is a list of positive integers (includes 0) and returning True if for any two nonzero elements, a and b, in the list, a % b is a member of the list as well, and False otherwise.
+
+
+***
+![Microsoft email users in NZ told to act quickly after mass hack](https://resources.stuff.co.nz/content/dam/images/4/y/r/c/0/t/image.related.StuffLandscapeSixteenByNine.1420x800.4yrc0r.png/1615110191118.jpg "Microsoft email users in NZ told to act quickly after mass hack")
+
+
+[Microsoft email users in NZ told to act quickly after mass hack](https://www.stuff.co.nz/technology/300246939/microsoft-email-users-in-nz-told-to-act-quickly-after-mass-hack)
+
+
+> New Zealanders are being warned to be concerned and act swiftly after a massive email hack that's being blamed on China. Microsoft said its email exchange software has been infiltrated in a state-sponsored attack which the White House is now calling an "active threat". There are fears hundreds of thousands of public and private sector organisations worldwide have been compromised, allowing hackers to download emails. AUT computer science professor Dave Parry said the hackers could steal valuable intellectual property or use information to blackmail people.
+
+
+***
+![Razer Opus](https://cdn.mos.cms.futurecdn.net/wKPFtMbMbAtG5wtJjJ62Ta-1200-80.jpg "Razer Opus")
+
+
+[Razer Opus](https://www.techradar.com/reviews/razer-opus)
+
+
+> The Razer Opus is an odd release – Razer has always seemed to live by the creed "for gamers, by gamers", with a wealth of gaming mice, keyboards and even some of the best gaming laptops we've ever used. However, the Opus looks to branch out further: it's a pair of noise-cancelling headphones meant more for your daily commute than your daily deathmatch in Halo 2. It's surprisingly affordable for what it brings to the table: for $199 (£199, AU$330), you're getting a surprisingly stylish pair of headphones that will cancel out outside noise, with plenty of quality of life features that will make them appealing to people who may have never engaged with the brand.
+
+
