@@ -39389,3 +39389,50 @@
 > After ending her iconic talk show back in 2011, Oprah is back for a new two-hour sit-down interview with Meghan Markle and Prince Harry and we have all the details on how you can watch Oprah with Meghan and Harry on TV or online. Although Oprah attended the wedding of Prince Harry and Meghan Markle back in 2018, the couple first discussed their experiences with the media and public life with ITV in a documentary titled Harry and Meghan: An African Journey that aired in 2019. Just a year later though, the couple announced that they would be stepping down as working members of British royal family and moving to North American in order to become financially independent.
 
 
+***
+![Exclusive: PS5 restock at Target is likely to happen tomorrow – here's when](https://cdn.mos.cms.futurecdn.net/NhhhAN8nK8y3AUuACnXPgB-1200-80.jpg "Exclusive: PS5 restock at Target is likely to happen tomorrow – here's when")
+
+
+[Exclusive: PS5 restock at Target is likely to happen tomorrow – here's when](https://www.techradar.com/news/exclusive-ps5-restock-target)
+
+
+> (Image credit: Future) TechRadar can confirm that Target employees have been preparing for a PS5 restock that is likely to happen tomorrow morning. An Xbox Series X restock is also said to be ready for the same online-only ordering."We have roughly 8 Xbox consoles and 22 PS5 consoles," we were told in a Direct Message on Twitter. There are more said to be many more PS5 Disc Editions and very few to no PS5 Digital Editions for the impending Target restock.Last time there was a major Target PS5 restock, it happened at 8am EST, so it's best to be prepared to wake up early, even if you're on the West Coast.
+
+
+***
+![Finally, an easy transfer tool to move your photos from Apple to Google!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/google-photos-search-lifestyle.jpg "Finally, an easy transfer tool to move your photos from Apple to Google!")
+
+
+[Finally, an easy transfer tool to move your photos from Apple to Google!](https://www.androidcentral.com/how-transfer-your-icloud-photos-and-videos-google-photos)
+
+
+> Source: Hayato Huseman / Android Central Moving hardware and software ecosystems can be stressful. It can be scary to try a new OS and new user interface, and then you have to worry about potentially switching from apps and services that you were familiar with to a new way of doing things. But even if you're not switching to Android from an iOS, you may still use Apple's services but want to switch over more of your data and memories to Google. Apple recently enabled a feature whereby users can now seamlessly and securely transfer their iCloud Photos from Apple to their Google Photos account.
+
+
+***
+![Apple's first mixed reality headset is reportedly coming in mid-2022](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F125421%252F4ffbd040-80bd-4219-8e2e-541f68baaacf.jpg%252F640x360.jpg?signature=9k-g-AAFPZJGazDHapSXboDBRsY=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "Apple's first mixed reality headset is reportedly coming in mid-2022")
+
+
+[Apple's first mixed reality headset is reportedly coming in mid-2022](https://mashable.com/article/apple-vr-mixed-reality-headset-ming-chi-kuo-2022/)
+
+
+> Apple's first step into virtual spaces might be a little more than a year away. A new research note from top Apple analyst Ming-Chi Kuo predicts a "mid-2022" release for the company's first mixed reality headset. Its release will also mark the kickoff of a new product line as Apple capitalizes on the still-emerging tech space around virtual reality and augmented reality devices. "We predict that Apple's MR/AR product roadmap includes three phases: helmet type by 2022, glasses type by 2025, and contact lens type by 2030–2040," the note reads, via MacRumors.
+
+
+***
+![The #BoycottAmazon pro-union movement wants you to skip Prime for a week](https://external-preview.redd.it/lIwwXmYfw2UfqdWf6a1LvYT6XysT7cqt5iuNttn1JzE.jpg?auto=webp&s=722f4d55fbcf1e2ce8fbca4cc84f95bdc9a662f9 "The #BoycottAmazon pro-union movement wants you to skip Prime for a week")
+
+
+[The #BoycottAmazon pro-union movement wants you to skip Prime for a week](https://www.reddit.com/r/technology/comments/m00e05/the_boycottamazon_prounion_movement_wants_you_to/)
+
+
+> No body in the article.
+
+
+***
+[Some popular YouTubers are building their own video sites, like Floatplane and Nebula, to help other creators publish and monetize niche video content (David Molloy/BBC)](http://www.techmeme.com/210307/p8#a210307p8)
+
+
+> David Molloy / BBC: Some popular YouTubers are building their own video sites, like Floatplane and Nebula, to help other creators publish and monetize niche video content — Whether he's showing off astronomically expensive computer gaming hardware or dumpster-diving for the cheapest PC builds possible …
+
+
