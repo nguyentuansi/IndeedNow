@@ -39242,3 +39242,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Oct 8, 2008 1,125 12 Maine Just want to post this thread after playing civilization VI on my MacBook Air. Admittedly not a graphics intensive game by today's standards, but it's so much more pleasing to run these games without fans whining in the background. My MacBook was on my lap the whole time and didn't burn my skin off. Actually felt cooler than my fairly recent 2020 13" MacBook Pro with a fan.
 
 
+***
+![Would Carl Sagan have agreed with Elon Musk for wanting to settle on Mars?](https://thehill.com/sites/default/files/muskelon_12082020getty.jpg "Would Carl Sagan have agreed with Elon Musk for wanting to settle on Mars?")
+
+
+[Would Carl Sagan have agreed with Elon Musk for wanting to settle on Mars?](https://thehill.com/opinion/technology/541966-would-carl-sagan-have-agreed-with-elon-musk-for-wanting-to-settle-on-mars)
+
+
+> As Space News reports, SpaceX launched the third iteration of its Starship rocket. It rose into the afternoon south Texas sky, did the belly flop maneuver, then descended. At the last moment, the Starship SN10 righted itself and touched down on a tail of flame. At long last, SpaceX had landed its stainless-steel rocket ship.The triumph was to be short lived. A few minutes later the Starship, swaying to one side like a metal Leaning Tower of Pisa, exploded.Still, Musk and his hard-working SpaceX engineers have taken a baby step toward the dream of a rocket that can cross interplanetary gulfs and, in time, convey the first settlers to the planet Mars.
+
+
+***
+![Start a face-to-face chat with friends directly through your Echo Show](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/04/amazon-echo-show-video-calling-official-lifestyle-1.jpg "Start a face-to-face chat with friends directly through your Echo Show")
+
+
+[Start a face-to-face chat with friends directly through your Echo Show](https://www.androidcentral.com/how-make-video-calls-amazon-echo-show)
+
+
+> Source: Amazon I love my Amazon Echo Show device for a lot of reasons. It cycles through my favorite photos to remind me of better times. It lets me watch shows and movies while I'm cooking or doing chores. I can even get video news briefings, check the weather, and watch YouTube through an actual web browser like Mozilla's Firefox or Amazon's Silk (hello Google/Nest?). However, hands-down, one of the neatest things it can do is easy peasy, hands-free video calling with Alexa. I'll show you how simple it is to make a video call on an Echo Show device in the steps below.
+
+
+***
+![Are social media platform abusing their power? GOP pushes bills to allow 'censorship' lawsuits](https://www.gannett-cdn.com/presto/2020/10/20/USAT/2b168710-de5d-4784-ba96-dbb58461390e-money-tech-icons_Social_media_news.png?crop=1079,607,x1,y184&width=1079&height=607&format=pjpg&auto=webp "Are social media platform abusing their power? GOP pushes bills to allow 'censorship' lawsuits")
+
+
+[Are social media platform abusing their power? GOP pushes bills to allow 'censorship' lawsuits](https://www.usatoday.com/story/tech/news/2021/03/07/gop-pushes-bills-allow-social-media-censorship-lawsuits/4619827001/)
+
+
+> Republican state lawmakers are pushing for social media giants to face costly lawsuits for policing content on their websites, taking aim at a federal law that prevents internet companies from being sued for removing posts.GOP politicians in roughly two dozen states have introduced bills that would allow for civil lawsuits against platforms for what they call the "censorship" of posts. Many protest the deletion of political and religious statements, according to the National Conference of State Legislatures.
+
+
+***
+![Microsoft Weekly: An unfortunate Exchange, Ignite in the spring, and Windows generations](https://cdn.neow.in/news/images/uploaded/2021/03/1615131527_msw-20210307_story.jpg "Microsoft Weekly: An unfortunate Exchange, Ignite in the spring, and Windows generations")
+
+
+[Microsoft Weekly: An unfortunate Exchange, Ignite in the spring, and Windows generations](https://www.neowin.net/news/microsoft-weekly-an-unfortunate-exchange-ignite-in-the-spring-and-windows-generations/)
+
+
+> The week brought everything from Ignite news aplenty – as expected – to a rather serious set of Exchange on-prem vulnerabilities, and the usual Windows Insider builds. You can find info about that, as well as much more below, in your Microsoft digest for the week of February 28 – March 6. An unfortunate Exchange CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-27065, otherwise known as the set of vulnerabilities in Exchange on-premises servers that were used by state-sponsored Chinese hacking group HAFNIUM in its attacks this week (and the days prior).
+
+
+***
+![Apple will stop selling the iMac Pro](https://external-preview.redd.it/7x7JFuo8Y-20rMnNfim2Ld6ZXg1xuf4uWpA37h8mjOY.jpg?auto=webp&s=c32ef98234410fc7fe0398644c5956c3b0d58c1c "Apple will stop selling the iMac Pro")
+
+
+[Apple will stop selling the iMac Pro](https://www.reddit.com/r/technology/comments/lzt9sy/apple_will_stop_selling_the_imac_pro/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
