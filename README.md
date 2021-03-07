@@ -38851,3 +38851,53 @@
 > Britain's vibrant technology start-up scene is booming. It enjoys big advantages – great universities, a still competitive tax regime and a growing pool of talented entrepreneurs with expertise in starting and building young companies. Figures compiled for the Government showed UK companies raised a record $15bn (£11bn) in 2020, slightly ahead of $14.8bn a year earlier and more than the rest of Europe combined. The problem comes when those firms start to scale up and find UK venture capitalists much more conservative and risk averse than overseas – especially the US.
 
 
+***
+![PS5 UK stock LIVE – New PlayStation consoles predicted to drop next week at GAME, Argos and Amazon](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/02/TOB-PS5-1200x1200-1-.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 UK stock LIVE – New PlayStation consoles predicted to drop next week at GAME, Argos and Amazon")
+
+
+[PS5 UK stock LIVE – New PlayStation consoles predicted to drop next week at GAME, Argos and Amazon](https://www.thesun.co.uk/tech/14160314/ps5-uk-stock-playstation-game-argos-console-latest-live/)
+
+
+> GAMERS will be getting another chance to buy a PS5 console very soon. More stock is being released next week, and according to the latest reports, restocks will be happening at several major retailers. John Lewis is expected to be on the lucky list, alongside others like Amazon, Argos and GAME. Playstation CEO Jim Ryan reassured fans that Sony are "working as hard as they possibly can" to get more stock and blamed a global shortage in semiconductors for a slow rollout that has caused prolonged misery around the world.
+
+
+***
+![Skullcandy Jib True wireless earbuds review](https://fdn.gsmarena.com/imgroot/news/21/03/jib-true-review/-476x249w4/gsmarena_000.jpg "Skullcandy Jib True wireless earbuds review")
+
+
+[Skullcandy Jib True wireless earbuds review](https://www.gsmarena.com/skullcandy_jib_true_wireless_earbuds_review-news-48080.php)
+
+
+> The Skullcandy Jib True are the company's most inexpensive pair of wireless earbuds. The Jib True are meant to be a basic pair of truly wireless earbuds for undemanding buyers on a shoestring budget. Priced at 30 USD/2999 INR, these earbuds are an easy entry point for those purchasing their first pair. Design Despite the relatively low price, the Jib True don't feel cheap or poorly made. Our review unit came in the trendy Blue colorway, which has bright yellow and red highlights. You can also buy these in more plain Black or Gray colors.
+
+
+***
+![11 tech and everyday essentials dirtier than your toilet](https://www.komando.com/wp-content/uploads/2021/03/dirty-tech-970x546.jpg "11 tech and everyday essentials dirtier than your toilet")
+
+
+[11 tech and everyday essentials dirtier than your toilet](https://www.komando.com/amazon/tech-dirtier-than-your-toilet/781777/)
+
+
+> 11 everyday items, including your phone, that are dirtier than a toilet and how to clean them properly.
+
+
+***
+![Waterjet-Cut Precision Pastry](https://hackaday.com/wp-content/uploads/2021/03/wwwmtteccom-watercut-waterjet-cutters-in-action-eootx4t7ocamp4-shot0002.jpg "Waterjet-Cut Precision Pastry")
+
+
+[Waterjet-Cut Precision Pastry](https://hackaday.com/2021/03/06/waterjet-cut-precision-pastry/)
+
+
+> We need more high-end, geometric pastry in our lives. This insight is courtesy of a fairly old video, embedded below, demonstrating an extremely clever 2D CNC mechanism that cuts out shapes on a cake pan, opening up a universe of arbitrary cake topologies. The coolest thing about this machine for us is the drive mechanism. A huge circular gear is trapped between two toothed belts. When the two belts move together the entire thing translates, but when they move in opposite directions, it turns. It seems to be floating on a plastic platform, and because the design allows the water-jet cutting head to remain entirely fixed, only a small hole underneath is necessary, which doubtless simplifies high-pressure water delivery and collection.
+
+
+***
+![Apple now allows transfer from iCloud to Google Photos](https://techstory.in/wp-content/uploads/2021/03/apple.jpg "Apple now allows transfer from iCloud to Google Photos")
+
+
+[Apple now allows transfer from iCloud to Google Photos](https://techstory.in/apple-now-allows-transfer-from-icloud-to-google-photos/)
+
+
+> Apple has rolled out yet another skillful feature that will allow clients to duplicate their photos and recordings stored in iCloud to Google Photos with no issue.How can this new feature be used?The new feature will permit clients to consequently move collections, recordings, and  photographs, from your iCloud Photo Library to Google Photos according to a report from the Verge. The component has a help archive illustrating the system, which just involves going to privacy.apple.com, signing in, and experiencing the ‘move a copy of your data' process.
+
+
