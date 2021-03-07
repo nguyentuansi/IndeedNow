@@ -39001,3 +39001,47 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+[States are increasingly granting small delivery robots generous access to city sidewalks; in PA, they are classified as "pedestrians" and can drive up to 12 mph (Jennifer A. Kingson/Axios)](http://www.techmeme.com/210307/p2#a210307p2)
+
+
+> Jennifer A. Kingson / Axios: States are increasingly granting small delivery robots generous access to city sidewalks; in PA, they are classified as “pedestrians” and can drive up to 12 mph — As small robots proliferate on sidewalks and city streets, so does legislation that grants them generous access rights …
+
+
+***
+![Over 20,000 U.S. organisations compromised through Microsoft flaw](https://images.indianexpress.com/2021/03/Microsoft-Reuters.jpg "Over 20,000 U.S. organisations compromised through Microsoft flaw")
+
+
+[Over 20,000 U.S. organisations compromised through Microsoft flaw](https://indianexpress.com/article/technology/tech-news-technology/over-20000-u-s-organisations-compromised-through-microsoft-flaw-7217864/)
+
+
+> More than 20,000 U.S. organizations have been compromised through a back door installed via recently patched flaws in Microsoft Corp's email software, a person familiar with the U.S. government's response said on Friday. The hacking has already reached more places than all of the tainted code downloaded from SolarWinds Corp, the company at the heart of another massive hacking spree uncovered in December. The latest hack has left channels for remote access spread among credit unions, town governments and small businesses, according to records from the U.
+
+
+***
+![UAE's First Independent Digital Banking Platform Launches](https://www.usnews.com/static/images/favicon.ico "UAE's First Independent Digital Banking Platform Launches")
+
+
+[UAE's First Independent Digital Banking Platform Launches](https://www.usnews.com/news/technology/articles/2021-03-07/uaes-first-independent-digital-banking-platform-launches)
+
+
+> By Lisa Barrington DUBAI (Reuters) - The first independent digital banking platform in the United Arab Emirates launched on Sunday, a neobank hoping to become a leader in the Middle East, Africa and South Asia. Dubai-based YAP does not have a banking licence itself but has partnered with RAK Bank which provides international bank account numbers for YAP users and secures their funds under its own banking licence. YAP, like other neobanks which do not have physical branches, does not offer traditional banking services like loans and mortgages, but offers spending and budgeting analytics, peer-to-peer payments and remittances services and bill payments.
+
+
+***
+![[ANALYSIS] Daewoong-Medytox settlement to affect LG-SK dispute](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202103/b1de50825c5f4953b9e5a19cbfb36fec.jpg "[ANALYSIS] Daewoong-Medytox settlement to affect LG-SK dispute")
+
+
+[[ANALYSIS] Daewoong-Medytox settlement to affect LG-SK dispute](http://www.koreatimes.co.kr/www/tech/2021/03/515_305108.html)
+
+
+> This pictured image shows SKI's battery plant under construction in the U.S. state of Georgia, left, and LGES's battery plant in the U.S. state of Michigan. Courtesy of each companyBy Kim Yoo-chulA settlement between Daewoong Pharmaceutical and Medytox is emerging as a precedent for a possible settlement in a legal dispute between LG Energy Solution (LGES) and SK Innovation. The possibility of a settlement increased after a senior LGES executive confirmed plans to receive compensation from SKI with the United States International Trade Commission (USITC) reaffirming its ruling against SKI in an intellectual property dispute involving electric vehicle (EV) batteries.
+
+
+***
+[Facebook removes 1,521 malicious accounts in Feb](https://www.zeebiz.com/technology/news-facebook-removes-1521-malicious-accounts-in-feb-151930)
+
+
+> Facebook has removed 915 malicious accounts from its main app and 606 fake accounts from Instagram in February that were involved in misleading users.
+
+
