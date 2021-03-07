@@ -38901,3 +38901,53 @@
 > Apple has rolled out yet another skillful feature that will allow clients to duplicate their photos and recordings stored in iCloud to Google Photos with no issue.How can this new feature be used?The new feature will permit clients to consequently move collections, recordings, and  photographs, from your iCloud Photo Library to Google Photos according to a report from the Verge. The component has a help archive illustrating the system, which just involves going to privacy.apple.com, signing in, and experiencing the ‘move a copy of your data' process.
 
 
+***
+![An Interactive Web Page to Review WindowEventHandlers](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "An Interactive Web Page to Review WindowEventHandlers")
+
+
+[An Interactive Web Page to Review WindowEventHandlers](https://www.reddit.com/r/programming/comments/lzgu8r/an_interactive_web_page_to_review/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Garmin Vivoactive 4s review](https://resources.stuff.co.nz/content/dam/images/4/y/r/b/v/s/image.related.StuffLandscapeSixteenByNine.1420x800.4yrbvp.png/1615082688662.jpg "Garmin Vivoactive 4s review")
+
+
+[Garmin Vivoactive 4s review](https://www.reviewsfire.com/tech/garmin-vivoactive-4s-review/)
+
+
+> This article originally appeared on ReviewsFire. The Vivoactive 4s is a smartwatch that sits in a strange place in the market. It isn't as fitness focussed or hardcore as Garmin's Forerunner 945 and it isn't as technologically advanced as the Apple Watch 6. It's somewhere in the middle. The Garmin Vivoactive 4s is a great smartwatch for anyone that wants the accurate health-tracking data that Garmin is known for, on a smartwatch with an impressive seven-day battery life. It's perfect for those who like outdoor activities, however it lacks the more advanced smartwatch-y features that we have seen released by its competitors.
+
+
+***
+![Apple discontinues its pricey iMac Pro, available ‘while supplies last'](https://images.indianexpress.com/2021/03/iMac-Pro-FB.jpg "Apple discontinues its pricey iMac Pro, available ‘while supplies last'")
+
+
+[Apple discontinues its pricey iMac Pro, available ‘while supplies last'](https://indianexpress.com/article/technology/tech-news-technology/apple-discontinues-its-pricey-imac-pro-available-while-supplies-last-7217638/)
+
+
+> In a surprise move, Apple is discontinuing the iMac Pro all-in-one desktop computer. Although the computer is still available to purchase as of now, the iMac Pro will be permanently removed once the inventory is gone forever. 9to5Mac first reported that the iMac Pro will discontinue the build-to-order high-end desktop computer, and later Apple confirmed to CNET about the discontinuation of the iMac Pro. Not one model but Apple has discontinued the entire iMac Pro variants. That being said, the base model of the iMac Pro is still listed on Apple India's store for Rs 464,900 and ships in around 2-3 weeks.
+
+
+***
+![Creating Docker container for PHP scripts](https://external-preview.redd.it/I0OheXaeiLUx0g9e8XoGPad4dOJlXCgv23CLUahb7QU.jpg?auto=webp&s=bc8311ea1640e1e4b3358ee8331ed6aa1c46386d "Creating Docker container for PHP scripts")
+
+
+[Creating Docker container for PHP scripts](https://www.reddit.com/r/programming/comments/lzgi79/creating_docker_container_for_php_scripts/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![12 pro or wait for the 13 series](https://images.macrumors.com/social/?t=2287376&v=6 "12 pro or wait for the 13 series")
+
+
+[12 pro or wait for the 13 series](https://forums.macrumors.com/threads/12-pro-or-wait-for-the-13-series.2287376/)
+
+
+> Should I wait for the 13 series or is the 12 pro still a good buy right now? I hear the 13 pro is getting a 120hz which would be really nice, but at the same time I would like a new phone pretty soon. Any help is appreciated. No one knows whether the 13 will come out this year or 2022. If you are asking about the 2021 model, we are probably 7 months out, so it is up to you. If you need something soon, don't wait. If you can wait, the 5G modem should be improved. Which might be more important even though I've not used 5G yet myself.
+
+
