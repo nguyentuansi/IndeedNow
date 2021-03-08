@@ -39536,3 +39536,50 @@
 > Today's best Acer Swift 3x dealsAcer Swift 3x specsPrice: $1,199CPU: Intel Core i7-1165G7GPU: Intel Iris Xe MAXRAM: 16GB Storage: 1TB SSDDisplay: 14-inch, 1080pBattery: 7:53Size: 12.7 x 8.6 x 0.7 inchesWeight: 3.02 poundsThe Acer Swift 3x, priced at $1,199, is no punk. In fact, it's a monstrous, mighty machine. No matter what you throw at it, this notebook will shred ‘em to pieces. Even when we pitted the Swift 3x against herculean premium laptops like the Dell XPS 13, the Acer ultraportable drew blood and took no prisoners.
 
 
+***
+[Marybeth Sheppard](https://www.itwire.com/freelancer-sp-720/tag/Marybeth%20Sheppard.html)
+
+
+> March 8 is International Women's Day, a global day celebrating the social, economic, cultural, and political achievements of women, and a day that "marks a call to action for accelerating women's equality", and iTWire is proud to be taking part in sharing some powerful stories from inspirational women in the world of technology.
+
+
+***
+![Redmi K40 Pro launch soon: Specs, features, India price, and what we know so far](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/Redmi_K40_lineup_-647x363.jpeg?vxzPDcBmjq.nEfBS9_DOVaJJMLT87YnY "Redmi K40 Pro launch soon: Specs, features, India price, and what we know so far")
+
+
+[Redmi K40 Pro launch soon: Specs, features, India price, and what we know so far](https://www.indiatoday.in/technology/features/story/redmi-k40-pro-launch-soon-specs-features-india-price-and-what-we-know-so-far-1776753-2021-03-08)
+
+
+> The Redmi K40 lineup has already made it to China, and now the brand is keen to introduce the lineup in India. All the smartphones in the lineup, i.e. the Redmi K40, Redmi K40 Pro and Redmi K40 Pro+, rock Snapdragon 800 series and impressive camera systems.The Redmi K40 lineup succeeds over the Redmi K20 series that was launched back in 2019. The Redmi K20 lineup offered top of the line specs at really affordable pricing back then. Now with this new lineup, Redmi is looking to take over the midrange flagship market again.
+
+
+***
+![Back from US, Bengaluru woman brings AR Yoga instructor to your iPhones](https://images.indianexpress.com/2021/03/prayoga.jpg "Back from US, Bengaluru woman brings AR Yoga instructor to your iPhones")
+
+
+[Back from US, Bengaluru woman brings AR Yoga instructor to your iPhones](https://indianexpress.com/article/technology/tech-news-technology/international-womens-day-2021-back-from-us-bengaluru-woman-brings-ar-yoga-instructor-to-your-iphones-7218927/)
+
+
+> For the past 20 years, Raksha Rao, 33, has been learning and practising Carnatic vocals and even ran a music school in the US with 50 students. But this mother from Bengaluru now runs Parjanya Creative Solutions, the company behind Prayoga, an app that uses augmented reality (AR) and body tracking technology to help users learn Yoga. The idea to develop Prayoga came from Rao and her husband's personal experience of using Yoga apps. 'When you go to a trainer or a gym, what they try to do is, they'll give you a set of exercises and you will have to perform in front of them.
+
+
+***
+![Netflix reveals massive migration to new mix of microservices, asynchronous workflows and serverless functions • The Register](https://external-preview.redd.it/aTWK5iQnvJxlX_gOrdbmEG5Iavxmhm-FUMJnV02-Ucg.jpg?auto=webp&s=b5b732585ee7bd66bfdb81ed2a940009b9fff93e "Netflix reveals massive migration to new mix of microservices, asynchronous workflows and serverless functions • The Register")
+
+
+[Netflix reveals massive migration to new mix of microservices, asynchronous workflows and serverless functions • The Register](https://www.reddit.com/r/programming/comments/m06zv4/netflix_reveals_massive_migration_to_new_mix_of/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![#TECH: Dawn of a new 'Concorde'](https://assets.nst.com.my/images/articles/BOTS080321Boom_NSTfield_image_socialmedia.var_1615174966.jpg "#TECH: Dawn of a new 'Concorde'")
+
+
+[#TECH: Dawn of a new 'Concorde'](https://www.nst.com.my/lifestyle/bots/2021/03/671974/tech-dawn-new-concorde)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
