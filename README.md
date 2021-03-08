@@ -39924,3 +39924,53 @@
 > March 08, 2021 12:57 PM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--Arrivalist announced today that it has partnered with Samsung Ads, the advertising arm of Samsung Electronics and global leader in advanced TV, to provide its travel vertical advertising clients with independent, incremental measurement of advanced TV. 'As a leader in advanced and connected TV it's critical that we help our clients understand how their video spend correlates to sales. This first-of-its kind partnership for travel with Arrivalist enables us to do just that.
 
 
+***
+![Six Days In Fallujah Publisher Backtracks, Says Game "Inseparable" From Politics](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/Six%20Days%20In%20Fallujah%20Main.jpg?itok=qn6kjUY- "Six Days In Fallujah Publisher Backtracks, Says Game "Inseparable" From Politics")
+
+
+[Six Days In Fallujah Publisher Backtracks, Says Game "Inseparable" From Politics](https://techraptor.net/gaming/news/six-days-in-fallujah-publisher-backtracks-says-game-inseparable-from-politics)
+
+
+> 03/08/2021 - 15:07 | By: Joseph Allen Six Days in Fallujah mastermind Peter Tamte has repeatedly stated that the game won't have a political angle. Now, however, its publisher Victura has taken to Twitter to assert the opposite, claiming the game is "inseparable" from politics. What has Victura said about politics in Six Days in Fallujah? In a tweet, Victura says it understands that "the events recreated in Six Days in Fallujah are inseparable from politics". This is despite Victura CEO Peter Tamte stating on several occasions that Six Days in Fallujah isn't trying to "make a political commentary" and that he doesn't think the game "needs to portray the atrocities".
+
+
+***
+![The Surface Pro 7 drops to $599 in epic deal at Best Buy](https://cdn.mos.cms.futurecdn.net/rAUKRCqfWypzYJ7A29BsqG-1200-80.jpg "The Surface Pro 7 drops to $599 in epic deal at Best Buy")
+
+
+[The Surface Pro 7 drops to $599 in epic deal at Best Buy](https://www.techradar.com/news/surface-pro-7-deal-price-best-buy)
+
+
+> (Image credit: Future) Kick this week off with this epic deal on the Surface Pro 7 at Best Buy. Right now, you can get Microsoft's Surface Pro 7 with Type Cover on sale for $599 (was $959). That's a massive $360 discount and the lowest price we've found for the laptop-tablet hybrid.See more of the top deals at Best BuyMicrosoft Surface Pro 7 with black Type Cover: $959 $599 at Best Buy Save $360 - Score a massive $360 price cut on the Surface Pro 7 with black Type Cover at Best Buy. The powerful tablet features a 12.
+
+
+***
+![Best cordless drill of 2021](https://cnet3.cbsistatic.com/img/CeNYnh_JUbkLG8AclsQjI8J2UaQ=/1200x630/2020/12/07/628042c8-b62e-47d7-8054-8a855c357b52/18v-cordless-drills-9.jpg "Best cordless drill of 2021")
+
+
+[Best cordless drill of 2021](https://www.cnet.com/news/best-cordless-drill/)
+
+
+> A good drill is one of the staples your home improvement power tool collection needs. According to Cognition Smart Data, DIY projects are on the rise, and if you're planning any work around your house this year, a drill is essential. There are tons of options if you're looking to buy a new drill or drill set. To help you sort through those options and find the best cordless drill to meet your needs, I gathered up 16 of the most popular cordless power drill models and put them to the test.For now I'll set aside a few categories of drills.
+
+
+***
+![SITA data breach affects millions of airline passengers](https://cdn.mos.cms.futurecdn.net/SEXM8ah9EKKpBKB22d7Ak3-1200-80.jpg "SITA data breach affects millions of airline passengers")
+
+
+[SITA data breach affects millions of airline passengers](https://www.techradar.com/news/sita-data-breach-affects-millions-of-airline-passengers)
+
+
+> (Image credit: Shutterstock) The global information technology company SITA has suffered a data breach after hackers were able to gain access to its servers which contain passenger data from multiple airlines around the world.Almost a dozen different airlines have begun informing passengers that some of their data has been accessed after an intruder managed to breach SITA's Passenger Service System (PSS) that is used to handle a number of  transactions from ticket reservations to boarding.While the total number of impacted travelers is not yet known, the figure is already over 2.
+
+
+***
+![Start spring cleaning on the cheap: Save up to $120 on a Neato robot vacuum](https://cnet4.cbsistatic.com/img/zdVmgxK8I17RMD8I5X2X76bxiKA=/1200x630/2020/01/16/d89af7da-7738-418d-b4e4-e07f7e24ee1e/cnet-cheap-expensive-19a-neato-d7-robot-vacuum.jpg "Start spring cleaning on the cheap: Save up to $120 on a Neato robot vacuum")
+
+
+[Start spring cleaning on the cheap: Save up to $120 on a Neato robot vacuum](https://www.cnet.com/news/start-spring-cleaning-on-the-cheap-save-up-to-120-on-a-neato-robot-vacuum/)
+
+
+> Robot vacuum cleaners are one of the success stories of modern tech: 20 years ago they were the stuff of science fiction, but these days we take them for granted as they scurry under our feet, cleaning the floor so we don't have to. Neato is one of those robo-vac makers that bests Roomba at its own game, often selling cheaper models that offer the same features and capabilities. Right now Neato has all three of its models on sale, and you can save between $86 and $120 depending upon which model catches your eye.
+
+
