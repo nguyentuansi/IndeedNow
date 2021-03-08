@@ -39633,3 +39633,50 @@
 > Rules for the '$500 Press Challenge' have been revised to welcome entries from storytellers, artists & communicators that are made in languages of their choice. BANGALORE, KARNATAKA, INDIA, March 8, 2021 /EINPresswire.com/ -- India-based social impact Tech Startup Mokusei Intelligence offers up to 100% Financial Aid and Sponsorship to people for covering Education or Travel expenses in exchange for their help with testing Mokusei's 'Cheating-Detection' EdTech Software. Mokusei is currently reaching out to people from all across the world with an invitation to apply to become Mokusei's 'BETA Testers'.
 
 
+***
+![New Google Pixel smartphone may launch on June 11](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/pixel_4a_1-483x271_1200_210308133509.jpeg "New Google Pixel smartphone may launch on June 11")
+
+
+[New Google Pixel smartphone may launch on June 11](https://www.indiatoday.in/technology/news/story/new-google-pixel-smartphone-may-launch-on-june-11-1776856-2021-03-08)
+
+
+> Google might launch a new Pixel device and Pixel Buds on June 11.Ayush Chourasia | March 8, 2021 | Updated 13:32 IST Pixel 4a
+
+
+***
+![How Do Silicon Valley Techies Celebrate Getting Rich in a Pandemic?](https://static01.nyt.com/images/2021/03/05/business/00ipo-rich/00ipo-rich-videoSixteenByNine3000.jpg "How Do Silicon Valley Techies Celebrate Getting Rich in a Pandemic?")
+
+
+[How Do Silicon Valley Techies Celebrate Getting Rich in a Pandemic?](https://www.nytimes.com/2021/03/08/technology/silicon-valley-techies-rich-pandemic.html)
+
+
+> Continue reading the main storyNot by buying airplanes. Instead, the newest start-up millionaires are proceeding cautiously.Credit...Jan BuchczikMarch 8, 2021, 3:00 a.m. ETSAN FRANCISCO — Things are so hot in Silicon Valley that it's freaking people out.As tech start-ups have rushed to go public and valuations have soared, Aaron Rubin, a partner at Werba Rubin Papier Wealth Management, said his clients were in shock over their newfound wealth.When the pandemic hit a year ago, tech workers worried that their start-up stock might never pay off.
+
+
+***
+[OnePlus 9 series global launch on March 23; Packs Hasselblad cameras and more](https://www.zeebiz.com/technology/mobiles/news-oneplus-9-series-global-launch-on-march-23-packs-hasselblad-cameras-and-more-check-all-details-here-152002)
+
+
+> The smartphone brand also officially announced a three-year partnership with legendary camera manufacturer Hasselblad to co-develop the next generation of smartphone camera systems for future OnePlus flagship devices.
+
+
+***
+![5 Android Smartphone Cyber Security Tips For SMBs](https://www.androidheadlines.com/wp-content/uploads/2021/03/Cyber-security.jpg "5 Android Smartphone Cyber Security Tips For SMBs")
+
+
+[5 Android Smartphone Cyber Security Tips For SMBs](https://www.androidheadlines.com/2021/03/android-smartphone-cyber-security-tips.html)
+
+
+> When it comes to cybersecurity, many small business owners assume that hackers will not target them due to their small volume. Furthermore, they believe hackers will target bigger organizations or companies where they can easily find so much information to steal. Unfortunately, this is not the case in reality.Hackers prefer to target small businesses more than large companies or organizations. According to research conducted by Verizon in 2019, 43% of cyberattacks targeted small businesses.Therefore, small business owners must take some precautionary measures that allow them to safeguard their sensitive business data on different devices.
+
+
+***
+![Google HR reportedly advised mental health leave in response to complaints of racist or sexist behavior](https://external-preview.redd.it/hAzqajgy4k_ZOY3juiiiG5Vsj2zSg---jLGr1JSYl5o.jpg?auto=webp&s=deb312065f6573ab06b74dbfc7076de125aca106 "Google HR reportedly advised mental health leave in response to complaints of racist or sexist behavior")
+
+
+[Google HR reportedly advised mental health leave in response to complaints of racist or sexist behavior](https://www.reddit.com/r/technology/comments/m0aqpx/google_hr_reportedly_advised_mental_health_leave/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
