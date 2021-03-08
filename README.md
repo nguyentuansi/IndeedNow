@@ -39974,3 +39974,53 @@
 > Robot vacuum cleaners are one of the success stories of modern tech: 20 years ago they were the stuff of science fiction, but these days we take them for granted as they scurry under our feet, cleaning the floor so we don't have to. Neato is one of those robo-vac makers that bests Roomba at its own game, often selling cheaper models that offer the same features and capabilities. Right now Neato has all three of its models on sale, and you can save between $86 and $120 depending upon which model catches your eye.
 
 
+***
+![Recap: Mohawk Gr Hldgs Q4 Earnings](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Recap: Mohawk Gr Hldgs Q4 Earnings")
+
+
+[Recap: Mohawk Gr Hldgs Q4 Earnings](https://www.benzinga.com/news/earnings/21/03/20066099/recap-mohawk-gr-hldgs-q4-earnings)
+
+
+> Shares of Mohawk Gr Hldgs (NASDAQ:MWK) fellÂ in after-market trading after the company reported Q4 results. Quarterly Results Earnings per share were up 68.87% over the past year to ($0.33), which missed the estimate of ($0.31). Revenue of $41,492,000 rose by 61.86% from the same period last year, which beat the estimate of $38,850,000. Outlook Earnings guidance hasn't been issued by the company for now. The upcoming fiscal year's revenue expected to be between $350,000,000 and $380,000,000. How To Listen To The Conference Call Date: Mar 08, 2021 Time: 05:00 PM ET Webcast URL: https://edge.
+
+
+***
+![Activists turn hacktivists](https://external-preview.redd.it/FdnjibwT-baDKo2UGzUZ0hMj2GGvkao3FxqDwgbJn5c.jpg?auto=webp&s=0c49e68fec1f1bdd80111bc6812c4a495458ff56 "Activists turn hacktivists")
+
+
+[Activists turn hacktivists](https://www.reddit.com/r/technology/comments/m0rcct/activists_turn_hacktivists_new_ransomware_that/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![National CineMedia: Q4 Earnings Insights](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "National CineMedia: Q4 Earnings Insights")
+
+
+[National CineMedia: Q4 Earnings Insights](https://www.benzinga.com/news/earnings/21/03/20066021/national-cinemedia-q4-earnings-insights)
+
+
+> Shares of National CineMedia (NASDAQ:NCMI) were flat in after-market trading after the company reported Q4 results. Quarterly Results Earnings per share decreased 358.33% over the past year to ($0.62), which missed the estimate of ($0.18). Revenue of $15,700,000 decreased by 89.33% from the same period last year, which beat the estimate of $12,470,000. Looking Ahead National CineMedia Says Will Not Provide Guidance For FY21 Conference Call Details Date: Mar 08, 2021 Time: 05:00 PM ET Webcast URL: https://investor.
+
+
+***
+![Future-proof your home with the best Wi-Fi 6 routers](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/best-wifi-6-router-hero.jpeg "Future-proof your home with the best Wi-Fi 6 routers")
+
+
+[Future-proof your home with the best Wi-Fi 6 routers](https://www.androidcentral.com/best-wifi-6-routers)
+
+
+> The best Wi-Fi 6 routers get us closer to 5G speeds at home. Wi-Fi 6 (802.11ax) has arrived and promises to push Wi-Fi speeds over 10Gbps by combining 2.4GHz and wider 5GHz bands to provide a better experience and much wider coverage in the home. The new Wi-Fi standard is becoming increasingly common in phones and laptops and now is the right time to invest in one of the best Wi-Fi 6 routers on the market. What are the best Wi-Fi 6 routers? The Netgear Nighthawk RAX70 comes with everything that people expect out of a Wi-Fi 6 router with great AX6600 speeds, tri-band, eight streams, and 160MHz support.
+
+
+***
+![9 things you need for a more sustainable bathroom](https://www.gannett-cdn.com/presto/2021/03/08/USAT/d18d69ef-befe-4027-8223-429dbdde6a6d-hero.jpeg?crop=968,545,x3,y0&width=968&height=484&format=pjpg&auto=webp "9 things you need for a more sustainable bathroom")
+
+
+[9 things you need for a more sustainable bathroom](https://www.usatoday.com/story/tech/reviewedcom/2021/03/08/9-things-you-need-more-sustainable-bathroom/4635689001/)
+
+
+> Clean for you and clean for the planet. (Photo: Leaf Shave / Cocokind)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Beginning a zero waste journey may seem daunting, but taking small steps rather than swapping everything at once will get you there without feeling overwhelmed. Most people find it easiest to pick an area of their life—or their home—to tackle first. The bathroom is one of the easiest places to start because people tend to cycle through products like toothpaste, shampoo, and razors relatively quickly, meaning you can make the switch pretty organically.
+
+
