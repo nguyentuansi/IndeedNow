@@ -39583,3 +39583,53 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![OnePlus 9 phones launch March 23, and its Hasselblad cameras are the focus](https://cdn.mos.cms.futurecdn.net/xgvQDFzYZHRRY5jzQFYywV-1200-80.png "OnePlus 9 phones launch March 23, and its Hasselblad cameras are the focus")
+
+
+[OnePlus 9 phones launch March 23, and its Hasselblad cameras are the focus](https://www.techradar.com/news/oneplus-9-phones-launch-march-23-and-its-hasselblad-cameras-are-the-focus)
+
+
+> (Image credit: OnePlus) OnePlus has finally announced its long-rumored flagship OnePlus 9 series of phones to rival the Samsung Galaxy S21 range as the top phones of 2021. What's more, we have a OnePlus 9 release date: March 23, with a 10am EST launch event streaming from OnePlus' website.The OnePlus 9 series, rumored to be the 9 and 9 Pro, have one big ace up their sleeve: famed camera company Hasselblad has cooperated with OnePlus to help revamp the new phones' camera systems, according to a press release.
+
+
+***
+![Billionaire philanthropist MacKenzie Scott marries Seattle science teacher](https://external-preview.redd.it/kQGWEyY3K2VNj3_F4xBOz-5xCZiC474-M3ksS2scfgA.jpg?auto=webp&s=736d6f204d06f503e893187e313c38ff31adfc65 "Billionaire philanthropist MacKenzie Scott marries Seattle science teacher")
+
+
+[Billionaire philanthropist MacKenzie Scott marries Seattle science teacher](https://www.reddit.com/r/technology/comments/m098gm/billionaire_philanthropist_mackenzie_scott/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Google unveils $25 million in grants aimed at empowering women and girls – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/google-internet-saathi.jpg?w=651 "Google unveils $25 million in grants aimed at empowering women and girls – TechCrunch")
+
+
+[Google unveils $25 million in grants aimed at empowering women and girls – TechCrunch](https://techcrunch.com/2021/03/07/google-unveils-25-million-in-grants-aimed-at-empowering-women-and-girls/)
+
+
+> Google announced a range of programs as well as grants worth $25 million on Monday to fund works of nonprofits and social enterprises that are committed to empower women and girls. The effort, unveiled on Internet Women's Day, is aimed at addressing systemic barriers so that women get access to economic equality, opportunity to build financial independence and pursue entrepreneurism, said Google chief executive Sundar Pichai at a virtual event. 'Whatever these teams need, we are going to be alongside them and help carry out their vision,' said Jacquelline Fuller, President of Google.
+
+
+***
+![Sensirion Gains Capacity Support from UMC as Both Companies Partner to Support the Battle Against Covid-19](https://mms.businesswire.com/media/20210307005064/en/542628/23/UMClogo.jpg "Sensirion Gains Capacity Support from UMC as Both Companies Partner to Support the Battle Against Covid-19")
+
+
+[Sensirion Gains Capacity Support from UMC as Both Companies Partner to Support the Battle Against Covid-19](https://www.businesswire.com/news/home/20210307005064/en/Sensirion-Gains-Capacity-Support-from-UMC-as-Both-Companies-Partner-to-Support-the-Battle-Against-Covid-19)
+
+
+> March 08, 2021 12:45 AM Eastern Standard Time STÄFA, Switzerland & HSINCHU, Taiwan--(BUSINESS WIRE)--Sensirion a leading microsensor manufacturer and United Microelectronics Corporation (NYSE: UMC; TWSE: 2303) ("UMC"), a leading global semiconductor foundry, today announced that the two companies have collaborated to produce medical related ICs used for the battle against the Covid-19 pandemic. UMC has allocated capacity for the production of Sensirion's temperature sensor ICs for Covid-19 vaccine transport and flow-sensors for medical ventilators, despite global tightness in foundry semiconductor manufacturing capacity.
+
+
+***
+![Tech startup Mokusei Intelligence that Sponsors your Education & Travel, revises guidelines for '$500 Press Challenge'](https://img.einnews.com/ampsize/183118/mokusei-intelligence-black.jpeg "Tech startup Mokusei Intelligence that Sponsors your Education & Travel, revises guidelines for '$500 Press Challenge'")
+
+
+[Tech startup Mokusei Intelligence that Sponsors your Education & Travel, revises guidelines for '$500 Press Challenge'](https://www.einnews.com/pr_news/536493443/tech-startup-mokusei-intelligence-that-sponsors-your-education-travel-revises-guidelines-for-500-press-challenge)
+
+
+> Rules for the '$500 Press Challenge' have been revised to welcome entries from storytellers, artists & communicators that are made in languages of their choice. BANGALORE, KARNATAKA, INDIA, March 8, 2021 /EINPresswire.com/ -- India-based social impact Tech Startup Mokusei Intelligence offers up to 100% Financial Aid and Sponsorship to people for covering Education or Travel expenses in exchange for their help with testing Mokusei's 'Cheating-Detection' EdTech Software. Mokusei is currently reaching out to people from all across the world with an invitation to apply to become Mokusei's 'BETA Testers'.
+
+
