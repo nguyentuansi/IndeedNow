@@ -39730,3 +39730,53 @@
 > If you want to turn your iPad Pro into a full-time work machine, you can't go far wrong Apple's own Magic Keyboard. The premium keyboard turns your iPad into a laptop instantly with no fussy pairing process and no clipping in and out of a case. And right now, you can score the 12-inch model at close to $100 off via Amazon. It's never gone this low before and we don't know how long this deal will last so don't wait on placing your order. You'll see the full savings at checkout. It's not often that we see big discounts on first-party Apple accessories, but today is one of those days.
 
 
+***
+![OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://media.onesignal.com/cms/_1200x630_crop_center-center_82_none/onesignal-hiring.png?mtime=20200330124838&focal=none&tmtime=20210221114835 "OneSignal Is Hiring Engineers in California, New York, Texas, and the UK")
+
+
+[OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
+
+
+> Ready to board the OneSignal rocket ship? 8 Billion+Daily messages sent At OneSignal, Senior Engineers have the option of working remotely or in an office. In the United States, we currently support remote work in CA, NY and TX and we have offices in New York City and San Mateo. In collaboration with our partner Elements Global Services, remote work options are available in the United Kingdom and an in office experience is available in London. Intelligent Risk Taking Client Success Empowerment Rigor Have Fun Meals and snacks provided when in office.
+
+
+***
+![Does the Apple Watch work with Android devices?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/apple-watch-series-6-apple-watch-se-12.jpg "Does the Apple Watch work with Android devices?")
+
+
+[Does the Apple Watch work with Android devices?](https://www.androidcentral.com/can-you-use-apple-watch-android)
+
+
+> Source: Android CentralBest answer: No, the Apple Watch is designed for exclusive use alongside an Apple iPhone, iPad, or other device within the Apple ecosystem.Source: Apoorva Bhardwaj / Android Central The Apple Watch is a premium smartwatch designed by Apple to work seamlessly with the Apple iPhone or other Apple devices. That includes the most recent Apple Watch Series 6 models, as well as other available versions like the Apple Watch SE and Apple Watch Series 3. Unfortunately, the Apple Watch is not like Samsung Galaxy smartwatches, which do offer specific advantages with Galaxy smartphones, but also work with other Android devices and even iPhones.
+
+
+***
+![Beyond.pl Selects HPE GreenLake to Power New Cloud Services Portfolio](http://www.businesswire.com/images/bwlogo_square.png "Beyond.pl Selects HPE GreenLake to Power New Cloud Services Portfolio")
+
+
+[Beyond.pl Selects HPE GreenLake to Power New Cloud Services Portfolio](https://www.businesswire.com/news/home/20210308005323/en/Beyond.pl-Selects-HPE-GreenLake-to-Power-New-Cloud-Services-Portfolio)
+
+
+> March 08, 2021 07:00 AM Eastern Standard Time WARSAW, Poland--(BUSINESS WIRE)--Hewlett Packard Enterprise (HPE) today announced it has signed a collaborative agreement with Beyond.pl, a leading data center and cloud service provider in Central Europe. As part of the agreement, Beyond.pl is launching a new suite of cloud services for clients powered by HPE GreenLake and will leverage HPE GreenLake to transform part of its existing IT estate. HPE has also selected Beyond.pl to serve as a HPE GreenLake colocation facility for HPE-managed customers, who require off-premises as-a-service solutions.
+
+
+***
+![Liberty Latin America Celebrates International Women's Day With a Focus on Equality, Diversity & Inclusion](https://mms.businesswire.com/media/20210308005407/en/863603/23/Employees_at_Southwest_Plaza_Nassau_Bahamas.jpg "Liberty Latin America Celebrates International Women's Day With a Focus on Equality, Diversity & Inclusion")
+
+
+[Liberty Latin America Celebrates International Women's Day With a Focus on Equality, Diversity & Inclusion](https://www.businesswire.com/news/home/20210308005407/en/Liberty-Latin-America-Celebrates-International-Women%E2%80%99s-Day-With-a-Focus-on-Equality-Diversity-Inclusion)
+
+
+> Employees at the Southwest Plaza store in Nassau, Bahamas, striking the #ChooseToChallenge pose in support of the International Women's Day global campaign. (Photo: Business Wire) Employees at the Southwest Plaza store in Nassau, Bahamas, striking the #ChooseToChallenge pose in support of the International Women's Day global campaign. (Photo: Business Wire) DENVER, Colorado--(BUSINESS WIRE)--Liberty Latin America Ltd. ('Liberty Latin America' or 'LLA') (NASDAQ: LILA and LILAK, OTC Link: LILAB) continues its ongoing commitment in celebrating with the global community on International Women's Day (IWD).
+
+
+***
+![OPPO's Rollable Smartphone Won't Become Available Anytime Soon](https://www.androidheadlines.com/wp-content/uploads/2020/11/OPPO-X-2021-image-4.jpeg "OPPO's Rollable Smartphone Won't Become Available Anytime Soon")
+
+
+[OPPO's Rollable Smartphone Won't Become Available Anytime Soon](https://www.androidheadlines.com/2021/03/oppo-rollable-smartphone-not-coming-anytime-soon.html)
+
+
+> It seems like OPPO's very first rollable smartphone won't become available anytime soon. As some of you may recall, OPPO announced the OPPO X 2021 rollable smartphone at INNO Day 2020 last year.It was initially said that the device won't be coming to stores anytime soon. It was said we shouldn't expect it before 2022 at the earliest. Soon after that, rumors started saying otherwise, claiming it will become available this year.Following that, the OPPO X 2021 started popping up in YouTube videos, and it was working perfectly fine.
+
+
