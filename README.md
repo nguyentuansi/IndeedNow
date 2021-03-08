@@ -39486,3 +39486,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Glitch workers sign tech's first collective bargaining agreement](https://external-preview.redd.it/zFq0gqTpavkAE19SoEmeO23tHbBHqycvmnsVIZSiASk.jpg?auto=webp&s=ca43028fc27242ad20a1aba314c731668d009fcc "Glitch workers sign tech's first collective bargaining agreement")
+
+
+[Glitch workers sign tech's first collective bargaining agreement](https://www.reddit.com/r/technology/comments/m059eb/glitch_workers_sign_techs_first_collective/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![U.S. crowd-safety firm Evolv to go public in $1.7 billion SPAC deal](https://i-invdn-com.akamaized.net/news/LYNXNPEC2F0DH_L.jpg "U.S. crowd-safety firm Evolv to go public in $1.7 billion SPAC deal")
+
+
+[U.S. crowd-safety firm Evolv to go public in $1.7 billion SPAC deal](https://www.investing.com/news/technology-news/us-crowdsafety-firm-evolv-to-go-public-in-17-billion-spac-deal-2439597)
+
+
+> © Reuters. By Bhargav Acharya (Reuters) - U.S. crowd-safety company Evolv Technology said on Sunday it is combining with blank-check firm NewHold Investment Corp to go public in a deal that will value it at about $1.7 billion. Evolv is backed by investors including Microsoft (NASDAQ:) co-founder Bill Gates and venture capital firm General Catalyst. The deal is expected to close in the second quarter, and the company expects to trade on the Nasdaq under the ticker "EVLV", according to the Wall Street Journal, which first reported the news.
+
+
+***
+![Apple Discontinues the iMac Pro, Its Priciest All-in-one PC](https://icdn3.digitaltrends.com/image/digitaltrends/apple-imac-pro-3-1200x630-c-ar1.91.jpg "Apple Discontinues the iMac Pro, Its Priciest All-in-one PC")
+
+
+[Apple Discontinues the iMac Pro, Its Priciest All-in-one PC](https://www.digitaltrends.com/computing/apple-discontinues-the-imac-pro-its-priciest-all-in-one-pc/)
+
+
+> Apple has stopped making one of its most powerful and priciest computers, the iMac Pro. The machine first went on sale in 2017 and launched with the ad shown at the top of this page. The tech giant recently added a 'while supplies last' label to the iMac Pro's online listing, and stopped offering any options to tweak the specs with various upgrades. The company has confirmed to multiple news outlets that it has stopped making the iMac Pro and will remove it from its online store once all remaining models have been sold.
+
+
+***
+![iMore Show 741: No Such Thing as a Confirmed Rumor](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/imore741-yt-thumb.jpg "iMore Show 741: No Such Thing as a Confirmed Rumor")
+
+
+[iMore Show 741: No Such Thing as a Confirmed Rumor](https://www.imore.com/imore-show-741-no-such-thing-confirmed-rumor)
+
+
+> We may earn a commission for purchases using our links. Learn more. Apple Events Season 2 The iMore show brings you everything you need to know about the week in iPhone, iPad, Watch, TV, Mac, and Apple! 7 Mar 2021 Source: iMore Christine Romero-Chan joins us once again for a tsunami of iPhone rumors and insight into new features found in the latest iOS beta. Listen now Subscribe in iTunes: Audio Subscribe in RSS: Audio Download directly: Audio Send in your comments, questions, feedback, or follow-up to: We may earn a commission for purchases using our links.
+
+
+***
+![Acer Swift 3x review: An agile laptop for antsy artists](https://cdn.mos.cms.futurecdn.net/fhp22B2zLZPcuuGKWQckvh-1200-80.jpg "Acer Swift 3x review: An agile laptop for antsy artists")
+
+
+[Acer Swift 3x review: An agile laptop for antsy artists](https://www.laptopmag.com/reviews/acer-swift-3x)
+
+
+> Today's best Acer Swift 3x dealsAcer Swift 3x specsPrice: $1,199CPU: Intel Core i7-1165G7GPU: Intel Iris Xe MAXRAM: 16GB Storage: 1TB SSDDisplay: 14-inch, 1080pBattery: 7:53Size: 12.7 x 8.6 x 0.7 inchesWeight: 3.02 poundsThe Acer Swift 3x, priced at $1,199, is no punk. In fact, it's a monstrous, mighty machine. No matter what you throw at it, this notebook will shred ‘em to pieces. Even when we pitted the Swift 3x against herculean premium laptops like the Dell XPS 13, the Acer ultraportable drew blood and took no prisoners.
+
+
