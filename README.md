@@ -39830,3 +39830,47 @@
 > Source: Tile It feels like it's been a long time since I have been nervous for an Apple product to launch. Heck, I don't know if there ever was a time I was nervous for a product to launch, but AirTags have me nervous? Why would a simple tracker be causing me so many stomach-twisting thoughts? Well, I decided to wait for AirTags instead of buying a Tile, so for me, it's personal. The backstory Okay, putting aside the very real (actually fake) drama of it all, I feel like I have a bit of a personal stake in AirTags as a product because I believed in them as soon as I heard of them.
 
 
+***
+![Xiaomi working on phone with 200W charging, coming in H2 2021](https://fdn.gsmarena.com/imgroot/news/21/03/xiaomi-200W/-476x249w4/gsmarena_000.jpg "Xiaomi working on phone with 200W charging, coming in H2 2021")
+
+
+[Xiaomi working on phone with 200W charging, coming in H2 2021](https://www.gsmarena.com/xiaomi_working_on_phone_with_200w_charging_for_second_half_of_2021-news-48102.php)
+
+
+> Xiaomi is reportedly working on a phone with support for 200W wired charging, as well as wireless charging, reverse wireless charging and a 5,000mAh battery. The report comes from well-known tipster Digital Chat Station (translated) on Weibo. The report claims the device is geared towards the second half of the year, but it sounds very much like the upcoming Xiaomi Mi 11 Ultra, which is expected earlier. Last year, the Xiaomi Mi 10 Ultra was the fastest-charging phone in 2020 with 120W wired charging.
+
+
+***
+[How To Erase Private Data On iPhone The Right Way](https://www.redmondpie.com/how-to-erase-private-data-on-iphone-the-right-way/)
+
+
+> Here's how to erase private data on your iPhone or iPad the right and easy way using our guide below. [ Continue reading this over at RedmondPie.com ]
+
+
+***
+![Eve System's Tim Both talks to AppleInsider about its new products](https://photos5.appleinsider.com/gallery/40693-78506-40305-77603-Eve-xl-xl.jpg "Eve System's Tim Both talks to AppleInsider about its new products")
+
+
+[Eve System's Tim Both talks to AppleInsider about its new products](https://appleinsider.com/articles/21/03/08/eve-systems-tim-both-talks-to-appleinsider-about-its-new-products)
+
+
+> Tim Both from Eve Systems joins us for an exclusive interview to talk about the development of its new HomeKit-enabled Eve Weather as well as what's next for the company.This interview is from the March 8 episode of HomeKit Insider, AppleInsider's weekly smart home podcast. Be sure to subscribe to hear more interviews, news, reviews, tips, and listener questions.Originally, Eve System's CEO Jerome Gackel was scheduled to stop by, but unanticipated travel led to Tim Both stopping by once again.Tim Both: Hello.
+
+
+***
+![Both Apple Magic Keyboards for the iPad Pro and Air are $100 off](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F125438%252Fa9e6b3bd-5321-47e6-baf5-b066c0dfdfbf.png%252F640x360.png?signature=Y9D1P8LSj0BDfZQALbsih4mZBKw=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "Both Apple Magic Keyboards for the iPad Pro and Air are $100 off")
+
+
+[Both Apple Magic Keyboards for the iPad Pro and Air are $100 off](https://mashable.com/article/march-8-best-apple-magic-keyboard-deal/)
+
+
+> Save $100: The Apple Magic Keyboard for the 12.9-inch iPad Pro as well as the model for the 11-inch iPad Pro and iPad Air are $100 off at Amazon as of March 8. While searching for a new laptop, ask yourself: Do you already have an iPad? If yes, you might be making this much harder than it needs to be. Amid all of your options, the best one might be to not get a laptop at all. Instead, push your iPad to its full potential with Apple's Magic Keyboard.  SEE ALSO: Apple might launch AirTags, iPad Pro, and more on March 23 Both models are $100 off at Amazon as of March 8: Get the one for the iPad Air (4th gen) and 11-inch iPad Pro (2nd gen) for $199 and the one for the 12.
+
+
+***
+[The real reason behind Vumatel's high fibre prices](https://mybroadband.co.za/news/fibre/388764-the-real-reason-behind-vumatels-high-fibre-prices.html)
+
+
+> Vumatel's fibre-to-the-home prices are far higher than Openserve's - and it may increase even further. Here is what is really happening.
+
+
