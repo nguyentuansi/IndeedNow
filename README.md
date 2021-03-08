@@ -39436,3 +39436,53 @@
 > David Molloy / BBC: Some popular YouTubers are building their own video sites, like Floatplane and Nebula, to help other creators publish and monetize niche video content — Whether he's showing off astronomically expensive computer gaming hardware or dumpster-diving for the cheapest PC builds possible …
 
 
+***
+![Tech is dominated by white males but Kimberly Bryant is changing that](https://static.independent.co.uk/2021/02/26/22/Kimberly-Bryant1%20.jpg?width=1200&auto=webp&quality=75 "Tech is dominated by white males but Kimberly Bryant is changing that")
+
+
+[Tech is dominated by white males but Kimberly Bryant is changing that](https://www.independent.co.uk/independentpremium/technology-diversity-kimberly-bryant-black-google-amazon-bezos-women-b1808336.html)
+
+
+> Independent Premium Monday 08 March 2021 00:01 commentsKimberly Bryant has helped 80,000 women and girls make a start in the tech industryWhen Kimberly Bryant started the organisation Black Girls Code she wanted to address a glaring deficiency within the world of technology: it was too male and it was too white. The corporate executive wanted there to be more women, and particularly more women of colour. So she quit her job and set about trying to 'move the needle'.Ten years later, her group has helped train and mentor more than 80,000 girls and young women in many of the skills that could help them launch a career in various fields of technology.
+
+
+***
+![Kimberly Bryant is ‘turning the dial' on tech's lack of diversity](https://static.independent.co.uk/2021/02/26/22/Kimberly-Bryant1%20.jpg?width=1200&auto=webp&quality=75 "Kimberly Bryant is ‘turning the dial' on tech's lack of diversity")
+
+
+[Kimberly Bryant is ‘turning the dial' on tech's lack of diversity](https://www.independent.co.uk/independentpremium/technology-diversity-kimberly-bryant-black-google-amazon-bezos-women-b1808336.html)
+
+
+> Independent Premium Monday 08 March 2021 00:01 commentsKimberly Bryant has helped 80,000 women and girls make a start in the tech industryWhen Kimberly Bryant started the organisation Black Girls Code she wanted to address a glaring deficiency within the world of technology: it was too male and it was too white. The corporate executive wanted there to be more women, and particularly more women of colour. So she quit her job and set about trying to 'move the needle'.Ten years later, her group has helped train and mentor more than 80,000 girls and young women in many of the skills that could help them launch a career in various fields of technology.
+
+
+***
+![Fintern taps AI and Open Banking to enter consumer loans market](https://www.finextra.com/finextra-images/top_pics/xl/fintern.png "Fintern taps AI and Open Banking to enter consumer loans market")
+
+
+[Fintern taps AI and Open Banking to enter consumer loans market](https://www.finextra.com/newsarticle/37616/fintern-taps-ai-and-open-banking-to-enter-consumer-loans-market)
+
+
+> No body in the article.
+
+
+***
+![Icici registers one million users from other banks for mobile payments super app](https://www.finextra.com/finextra-images/top_pics/xl/icici.jpg "Icici registers one million users from other banks for mobile payments super app")
+
+
+[Icici registers one million users from other banks for mobile payments super app](https://www.finextra.com/newsarticle/37612/icici-registers-one-million-users-from-other-banks-for-mobile-payments-super-app)
+
+
+> No body in the article.
+
+
+***
+![How to Break Software](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "How to Break Software")
+
+
+[How to Break Software](https://www.reddit.com/r/programming/comments/m030py/how_to_break_software/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
