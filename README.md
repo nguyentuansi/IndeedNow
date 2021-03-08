@@ -39780,3 +39780,53 @@
 > It seems like OPPO's very first rollable smartphone won't become available anytime soon. As some of you may recall, OPPO announced the OPPO X 2021 rollable smartphone at INNO Day 2020 last year.It was initially said that the device won't be coming to stores anytime soon. It was said we shouldn't expect it before 2022 at the earliest. Soon after that, rumors started saying otherwise, claiming it will become available this year.Following that, the OPPO X 2021 started popping up in YouTube videos, and it was working perfectly fine.
 
 
+***
+![PS5 UK stock LIVE – John Lewis, Currys, Argos, Amazon UK, AO and Very tipped for Playstation 5 console drops within DAYS](https://www.the-sun.com/wp-content/uploads/sites/6/2021/02/TOB-PS5-1200x1200-1-.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 UK stock LIVE – John Lewis, Currys, Argos, Amazon UK, AO and Very tipped for Playstation 5 console drops within DAYS")
+
+
+[PS5 UK stock LIVE – John Lewis, Currys, Argos, Amazon UK, AO and Very tipped for Playstation 5 console drops within DAYS](https://www.the-sun.com/lifestyle/tech/2404339/ps5-uk-stock-playstation-5-console-john-lewis-argos/)
+
+
+> It looks like this could be a good week for anyone wanting to snap up a PS5 console with reports suggesting many stores will be getting a restock. This week in the UK, John Lewis, Very, and AO have been tipped for a PS5 stock drop, while Argos and Amazon UK are expected to be dropping the standard disc edition "in the next 15 days" according to PS5StockAlertUK. John Lewis shoppers have been warned that the retailer's drop will be "very early morning" – apparently following in the footsteps of Argos which has defended its pre-dawn PS5 inventory releases to minimise strain on the website, T3 reports.
+
+
+***
+![eBay wants you to buy more  refurbished phones](https://cdn.mos.cms.futurecdn.net/WsFZQM7PPY2pozU6BqXM9L-1200-80.jpg "eBay wants you to buy more  refurbished phones")
+
+
+[eBay wants you to buy more  refurbished phones](https://www.techradar.com/news/ebay-launches-hub-for-certified-refurbished-products)
+
+
+> (Image credit: Shutterstock.com / AstroStar) eBay has launched its ‘Certified Refurbished' programme in the UK, allowing vendors and resellers to capitalise on the growing trend for ‘like new' electronics.Electronics from Dyson, Eve and GoPro are included, which has already been launched in Australia and the US, while mobile device manufacturers and retailers are encouraged to sign up.The increasing cost of devices, coupled with a perceived lack of innovation in the market, has led to longer refresh cycles and slowing sales of flagship handsets.
+
+
+***
+![WandaVision: White Vision and 4 more unanswered questions we have after the finale](https://cdn.mos.cms.futurecdn.net/2GHF8dfUVVp4g9G9NyUKLA-1200-80.jpg "WandaVision: White Vision and 4 more unanswered questions we have after the finale")
+
+
+[WandaVision: White Vision and 4 more unanswered questions we have after the finale](https://www.techradar.com/news/wandavision-5-big-questions-we-have-after-the-disney-plus-shows-season-finale)
+
+
+> Spoilers for WandaVision's full season follow.WandaVision may have finished on Disney Plus, but the show is still the subject of hot debate online. Episode 9 wrapped up plenty of plot threads that had run throughout the series, but not every question or theory was answered by the time that the second post-credits scene had come and gone.Any unresolved plot threads will likely be part of Wanda's, Vision's or other characters' stories in the MCU's future. Still, that doesn't stop us from speculating about those unanswered questions in the meantime – here are the five things we need to know following WandaVision's finale.
+
+
+***
+![NewsWatch: Tech stocks are selling off. Don't buy the dip, sell the bounces, strategist says](https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png "NewsWatch: Tech stocks are selling off. Don't buy the dip, sell the bounces, strategist says")
+
+
+[NewsWatch: Tech stocks are selling off. Don't buy the dip, sell the bounces, strategist says](https://www.marketwatch.com/story/tech-stocks-are-selling-off-dont-buy-the-dip-sell-the-bounces-strategist-says-2021-03-08)
+
+
+> Technology stocks are under pressure at the start of the week, as bond yields continue to rise. See full story.Beauty app maker, oil services firm follow Tesla and Microstrategy in pouring millions into cryptocurrencies Publicly traded companies outside the U.S. are now following Tesla and Microstrategy in buying cryptocurrencies. See full story.Meghan Markle and Prince Harry level racism charges against British royal household Questions raised within the royal family about their son's skin color nearly drove the wife of Prince Harry to suicide, the couple said on Sunday night in a much anticipated CBS interview with Oprah Winfrey.
+
+
+***
+![Will AirTags be worth the wait? I sure hope so!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/10/new-tile-pro-cmh6-cmh6.jpg "Will AirTags be worth the wait? I sure hope so!")
+
+
+[Will AirTags be worth the wait? I sure hope so!](https://www.imore.com/will-i-regret-my-decision-wait-airtags-instead-buying-tile-i-sure-hope-not)
+
+
+> Source: Tile It feels like it's been a long time since I have been nervous for an Apple product to launch. Heck, I don't know if there ever was a time I was nervous for a product to launch, but AirTags have me nervous? Why would a simple tracker be causing me so many stomach-twisting thoughts? Well, I decided to wait for AirTags instead of buying a Tile, so for me, it's personal. The backstory Okay, putting aside the very real (actually fake) drama of it all, I feel like I have a bit of a personal stake in AirTags as a product because I believed in them as soon as I heard of them.
+
+
