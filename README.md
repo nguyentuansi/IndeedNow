@@ -39680,3 +39680,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![62 Biggest Movers From Yesterday](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/yesterdays_movers_154.png "62 Biggest Movers From Yesterday")
+
+
+[62 Biggest Movers From Yesterday](https://www.benzinga.com/news/21/03/20050085/62-biggest-movers-from-yesterday)
+
+
+> 12 Health Care Stocks Moving In Friday's Intraday Session 12 Consumer Discretionary Stocks Moving In Friday's Intraday Session 54 Stocks Moving In Friday's Mid-Day Session 32 Stocks Moving in Friday's Pre-Market Session
+
+
+***
+![OnePlus 9 Series Will Launch On March 23 With Hasselblad Camera](https://www.androidheadlines.com/wp-content/uploads/2021/03/OnePlus-9-Pro-Hasselblad-confirmation.jpg "OnePlus 9 Series Will Launch On March 23 With Hasselblad Camera")
+
+
+[OnePlus 9 Series Will Launch On March 23 With Hasselblad Camera](https://www.androidheadlines.com/2021/03/oneplus-9-series-march-23-launch-hasselblad.html)
+
+
+> It is now official, the OnePlus 9 series will launch on March 23, along with a Hasselblad camera. This launch date has been rumored for a while, and the company just confirmed it.OnePlus teased that something will launch on March 8, and this is it. The company did not list what phones can we expect exactly, but the OnePlus 9, 9R, and 9 Pro are expected to launch. Pre-orders are expected to start on March 23 as well.Now, some of you may get excited about the Hasselblad partnership that OnePlus announced.
+
+
+***
+![How to amp up your marketing efforts with AR](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F125401%252Ff98b42b9-d1a3-4a55-83c1-cb61d7faff8d.jpg%252F950x534.jpg?signature=9NrAZi5IXlWbw9KaTOSyGh-4uvM=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "How to amp up your marketing efforts with AR")
+
+
+[How to amp up your marketing efforts with AR](https://mashable.com/shopping/march-8-aryel-ar-marketing-platform-lifetime-subscription/)
+
+
+> TL;DR: Use augmented reality to boost audience engagement with the Aryel AR Marketing Platform, on sale for 92% off. As of March 8, get lifetime access for only $69.99. Augmented reality is an excellent way to shake up your business's content and get people to check out your campaigns. And the Aryel AR Marketing Platform offers small businesses and individuals a way to turn heads. AR is similar to virtual reality, except instead of replacing your vision, it adds to it. Remember Pokémon Go? That's what Aryel does, except it creates brand-specific experiences to market to users.
+
+
+***
+![Apple smart contact lenses could be coming, but you'll be waiting a long time](https://cdn.mos.cms.futurecdn.net/sMmFDLCEXQR6FaxdHykKf-1200-80.png "Apple smart contact lenses could be coming, but you'll be waiting a long time")
+
+
+[Apple smart contact lenses could be coming, but you'll be waiting a long time](https://www.techradar.com/news/apple-smart-contact-lenses-could-be-coming-but-youll-be-waiting-a-long-time)
+
+
+> After smart glasses we might get smart contact lenses (Image credit: TechRadar) We're still waiting for the long-rumored Apple Glasses to arrive, but Apple might have far more ambitious plans beyond those, with a new report suggesting that augmented reality contact lenses could be in the company's future.This comes from Ming-Chi Kuo (an analyst with a great track record for Apple information), in a research note seen by MacRumors. However, he says we probably won't see them until the 2030s.Kuo claims that these contact lenses probably won't have independent computing power and storage, which suggests they'd likely be connected to an iPhone or other device.
+
+
+***
+![Epic iPad Pro Magic Keyboard deal takes $99 off 12.9-inch version](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/magic-keyboard-ipad-pro-2020-hero.jpeg "Epic iPad Pro Magic Keyboard deal takes $99 off 12.9-inch version")
+
+
+[Epic iPad Pro Magic Keyboard deal takes $99 off 12.9-inch version](https://www.imore.com/rare-deal-takes-99-apples-magic-keyboard-129-inch-ipad-pro)
+
+
+> If you want to turn your iPad Pro into a full-time work machine, you can't go far wrong Apple's own Magic Keyboard. The premium keyboard turns your iPad into a laptop instantly with no fussy pairing process and no clipping in and out of a case. And right now, you can score the 12-inch model at close to $100 off via Amazon. It's never gone this low before and we don't know how long this deal will last so don't wait on placing your order. You'll see the full savings at checkout. It's not often that we see big discounts on first-party Apple accessories, but today is one of those days.
+
+
