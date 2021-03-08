@@ -39874,3 +39874,53 @@
 > Vumatel's fibre-to-the-home prices are far higher than Openserve's - and it may increase even further. Here is what is really happening.
 
 
+***
+![How to watch Harry and Meghan Oprah interview: stream online free from anywhere now](https://cdn.mos.cms.futurecdn.net/hANjmoMXijiECdc5uBgYZR-1200-80.jpg "How to watch Harry and Meghan Oprah interview: stream online free from anywhere now")
+
+
+[How to watch Harry and Meghan Oprah interview: stream online free from anywhere now](https://www.techradar.com/news/how-to-watch-meghan-and-harrys-interview-on-oprah-stream-from-anywhere-today)
+
+
+> It's the TV event of the year to date as Britain's renegade royal couple, Prince Harry and Meghan Markle, star in a two-hour CBS primetime Oprah special that premiered in the US Sunday night - and is now starting its world tour. If you missed it live, folks in places like the UK and elsewhere can watch it live or on-demand this Monday, so follow our guide as we explain how to watch the Harry and Meghan interview on Oprah wherever you are right now - including how to get a free online stream in the US now that it's aired.
+
+
+***
+![A History of Six Days in Fallujah](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/Six%20Days%201.jpg?itok=AlSmdSc_ "A History of Six Days in Fallujah")
+
+
+[A History of Six Days in Fallujah](https://techraptor.net/gaming/features/history-of-six-days-in-fallujah)
+
+
+> It's 2004. It's just over a year since the invasion of Iraq by coalition forces, the first stage of a war that had already seen an estimated 13,500 people lose their lives. Destineer, a small publishing outfit, are noticed for their military-strategy titles and are commissioned by the CIA and FBI to create training material for the United States Military. They start work on Judgmental Shooting Simulator, and worked closely with Marines during development.  But of course, the Marines they worked alongside would be called back into active duty.
+
+
+***
+![GameStop shares soar 45pc as firm readies push into e-commerce](https://www.telegraph.co.uk/content/dam/technology/2021/02/25/TELEMMGLPICT000251421608_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "GameStop shares soar 45pc as firm readies push into e-commerce")
+
+
+[GameStop shares soar 45pc as firm readies push into e-commerce](https://www.telegraph.co.uk/technology/2021/03/08/deliveroo-give-riders-10000-london-listing-live-updates/)
+
+
+> 6:00PM Check back in tomorrow morning for the latest technology news! 4:45PM A group of 23 Democrat politicians have asked Facebook chief executive, Mark Zuckerberg, for answers on how the social network targets people to show them adverts for gun accessories and protective equipment. Frank Pallone, chairman of the House Energy Commerce Committee, claimed that adverts had been shown next to potentially harmful disinformation after January 6, the day of the deadly Capitol riots. 'According to recent troubling reports, Facebook ran ads showing gun accessories and protective equipment next to content that amplified election misinformation.
+
+
+***
+![Make your Apple Watch more accessible with these handy features](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/apple-watch-2020-leather-band-hero.jpeg "Make your Apple Watch more accessible with these handy features")
+
+
+[Make your Apple Watch more accessible with these handy features](https://www.imore.com/how-set-and-use-vision-accessibility-features-apple-watch)
+
+
+> Source: iMore There's been a lot of discussion over the years about accessibility and iPhone. Often missed are the many accessibility features available for the Apple Watch Series 6 and other models, including those for the visually impaired. Fortunately, we're going to show you how to make use of them! Be sure to also check out the best accessories for Apple Watch. Here's the latest on Apple Watch vision accessibility! VoiceOver is a gesture-based screen reader that uses the built-in Apple Watch speaker.
+
+
+***
+![Arrivalist Provides Independent Measurement for Samsung Ads Smart TV Travel and Tourism Advertising Campaigns](https://mms.businesswire.com/media/20210308005763/en/863739/23/Arrivalist_Logo_Large.jpg "Arrivalist Provides Independent Measurement for Samsung Ads Smart TV Travel and Tourism Advertising Campaigns")
+
+
+[Arrivalist Provides Independent Measurement for Samsung Ads Smart TV Travel and Tourism Advertising Campaigns](https://www.businesswire.com/news/home/20210308005763/en/Arrivalist-Provides-Independent-Measurement-for-Samsung-Ads-Smart-TV-Travel-and-Tourism-Advertising-Campaigns)
+
+
+> March 08, 2021 12:57 PM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--Arrivalist announced today that it has partnered with Samsung Ads, the advertising arm of Samsung Electronics and global leader in advanced TV, to provide its travel vertical advertising clients with independent, incremental measurement of advanced TV. 'As a leader in advanced and connected TV it's critical that we help our clients understand how their video spend correlates to sales. This first-of-its kind partnership for travel with Arrivalist enables us to do just that.
+
+
