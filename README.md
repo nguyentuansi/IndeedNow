@@ -40203,3 +40203,53 @@
 > (Image credit: Facebook) As popularity of short videos keeps growing in India, Facebook continues to look for ways to push Instagram Reels (its short video offering) to multiple users across its platforms. Facebook, which launched Reels in India first, has now announced that it is testing the ability for Instagram creators to have their public Reels recommended on Facebook in India.This would enable Reels creators to share their Reels clips also into the Facebook News Feed and to Facebook Watch, facilitating a potentially huge expansion of Reels exposure.
 
 
+***
+![$1,400 stimulus check versus $600 and $1,200 checks: New important detail to know](https://cnet4.cbsistatic.com/img/7PmSC0nx5EaoiCLHNxnfIMbc_oM=/1200x630/2021/02/05/76f23eaa-3f4e-49cf-8586-c34a1e59c766/023-cash-money-stimulus-checks-bill-passed-congress-1400-dollars-payment-target-supplement-bullseye-2021-biden.jpg "$1,400 stimulus check versus $600 and $1,200 checks: New important detail to know")
+
+
+[$1,400 stimulus check versus $600 and $1,200 checks: New important detail to know](https://www.cnet.com/personal-finance/1400-stimulus-check-versus-600-and-1200-checks-new-important-detail-to-know/)
+
+
+> The three stimulus checks follow different paths. Sarah Tew/CNET The Senate passed the $1.9 trillion relief bill, but not without making some vital changes first. Before the third stimulus checks can be processed and sent out, the House must accept the new changes that could affect your $1,400 payment. President Joe Biden hopes the payments can be made starting this month.If approved, this would be the third round of coronavirus relief checks issued by the federal government in one year. Each round has revealed different priorities for lawmakers, who've remained divided on every aspect of the checks, including whether they should exist.
+
+
+***
+![Tech's Legal Shield Appears Likely to Survive as Congress Focuses on Details](https://static01.nyt.com/images/2021/03/09/business/00techshield-01/merlin_182065947_0979be22-13f0-4ce3-a2c7-56cbdb2d2430-facebookJumbo.jpg "Tech's Legal Shield Appears Likely to Survive as Congress Focuses on Details")
+
+
+[Tech's Legal Shield Appears Likely to Survive as Congress Focuses on Details](https://www.nytimes.com/2021/03/09/technology/section-230-congress.html)
+
+
+> Continue reading the main storySection 230 isn't expected to be revoked, but even the more modest proposals for weakening it could have effects that ripple across the internet.Senator Ron Wyden of Oregon, who co-wrote Section 230, said, 'I think it would be a huge mistake to use the disgusting, nauseating attacks on the Capitol as a vehicle to suppress free speech.'Credit...Jason Andrew for The New York TimesMarch 9, 2021, 3:00 a.m. ETWASHINGTON — Former President Donald J. Trump called multiple times for repealing the law that shields tech companies from legal responsibility over what people post.
+
+
+***
+![Moving packages inside warehouses with AI-powered high-speed robots](https://www.thehindu.com/sci-tech/technology/n0ccp7/article34025947.ece/ALTERNATES/LANDSCAPE_615/LoadRunners-Robots "Moving packages inside warehouses with AI-powered high-speed robots")
+
+
+[Moving packages inside warehouses with AI-powered high-speed robots](https://www.thehindu.com/sci-tech/technology/moving-packages-inside-warehouses-with-ai-powered-high-speed-robots/article34025946.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)A growth in e-commerce means more number of warehouses that store and pack large quantities of inventories. To move these boxes in and around these units, robots are increasingly being used.The latest in that line of bots is the artificial intelligence (AI)-powered automated guided vehicles, dubbed ‘LoadRunners'. They can sort large-sized packages and move them as fast as roughly a kilometre in less than two minutes.
+
+
+***
+![अर्थसंकल्पात शेतकऱ्यांना फायदा झाला का? Ajit Pawar  Maharashtra Budget 2021](https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/waefjipjrbvai32jai43bjetijbiwje_202103575822.jpg "अर्थसंकल्पात शेतकऱ्यांना फायदा झाला का? Ajit Pawar  Maharashtra Budget 2021")
+
+
+[अर्थसंकल्पात शेतकऱ्यांना फायदा झाला का? Ajit Pawar  Maharashtra Budget 2021](https://www.lokmat.com/videos/maharashtra/did-budget-benefit-farmers-ajit-pawar-maharashtra-budget-2021-vidhansabha-a678/)
+
+
+> हॊमव्हिडिओ महाराष्ट्रDid the budget benefit the farmers? Ajit Pawar | Maharashtra Budget 2021 | VidhansabhaPublished: March 9, 2021 01:29 PM | Updated: March 9, 2021 01:29 PMशेअर कराटॅग्सशेती क्षेत्रशेतकरीबजेट 2021अजित पवारEntertainmentSportsLifestyle गौतमीने महिलांना दिला एक खास संदेश | Gautami Deshpande Send's A Special Message to Womens प्रार्थना बेहेरेचा महिलांसाठी भावपूर्ण संदेश | Prarthana Behere Send Special Message To Women's स्त्रीचा सन्मान रोजच हवा | Women's Day Special | Girija Prabhu and Archana Patkar | Lokmat CNX Filmy राधिका - सोहमची भावनिक पोस्ट | Anita date (Radhika) and Ashutosh Patki (Soham) | Lokmat CNX Filmy होम मिनिस्टरमध्ये महिलादिन साजरा | Aadesh Bandekar Home Minister Show Women's Day special रसिका सुनिलच्या आयुष्यातील अविस्मरणीय क्षण | Rasika Sunil (Shanaya) & Aditya Bilagi Memorable Days What's happening in Online Gaming Industry? Hrishi Oberoi | TheRawKnee | Mohit Sureka & Others मोटेराच्या खेळपट्टीवर दोन दिवसात कसोटी सामन्याचा निकाल | IND VS ENG 3rd Test 2021 | Ahmadabad Test पृथ्वी शॉ आणि सूर्यकुमार यादवचा धावांचा पाऊस | Vijay Hazare Trophy | Mumbai VS Puducherry | Sports मुंबईत या ठिकाणी करता येईल Heritage Walk | Mumbai Heritage Walk Tour | Heritage Walk In Mumbai | BMC IPL 2021 Auction: तेंडुलकरला सर्वात कमी रक्कम,सर्वात जास्त कोणाला? All Sold Players List and Price क्रिकेटच्या मैदानावरच क्रिकेटपटूने गमावला प्राण | Crickerter Death On Ground | Pune News भारतावर इम्पॅक्ट करणारी BREAKING थेट अमेरिकेतून | Dr.
+
+
+***
+![India's Paytm turns Android smartphones into POS machines in merchants push](https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-631364250.jpg?w=600 "India's Paytm turns Android smartphones into POS machines in merchants push")
+
+
+[India's Paytm turns Android smartphones into POS machines in merchants push](https://techcrunch.com/2021/03/08/india-paytm-turns-android-smartphones-into-pos-machines-in-merchants-push/)
+
+
+> Paytm said on Tuesday it is turning NFC-enabled Android smartphones into point-of-sale machines, as it looks to win more merchants in one of the world's largest mobile payments markets. A Paytm merchant partner will now be able to enable card acceptance feature from their Paytm Business app. Once activated, they will be able to process a transaction by tapping a plastic card to their phone. Paytm Smart POS supports Visa, Mastercard, and Rupeek, the Indian startup said. Existing payment devices in the market haven't proven very successful in reaching small and medium sized businesses in India, most of which remain offline, said Vijay Shekhar Sharma, founder and chief executive of Paytm, at a virtual press conference today.
+
+
