@@ -40024,3 +40024,47 @@
 > Clean for you and clean for the planet. (Photo: Leaf Shave / Cocokind)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Beginning a zero waste journey may seem daunting, but taking small steps rather than swapping everything at once will get you there without feeling overwhelmed. Most people find it easiest to pick an area of their life—or their home—to tackle first. The bathroom is one of the easiest places to start because people tend to cycle through products like toothpaste, shampoo, and razors relatively quickly, meaning you can make the switch pretty organically.
 
 
+***
+![How to Disable Tab Previews in Safari on Mac](https://images.macrumors.com/t/zsWDyYA8pTKAPbJlDFLjHC_scHE=/2250x/https://images.macrumors.com/article-new/2020/08/iOS-14-safari-feature.jpg "How to Disable Tab Previews in Safari on Mac")
+
+
+[How to Disable Tab Previews in Safari on Mac](https://www.macrumors.com/how-to/disable-tab-previews-safari-mac/)
+
+
+> Monday March 8, 2021 2:25 am PST by Sami FathiApple will hold its first event of the year on March 23, according to information provided by a reputable Chinese leaker (via DuanRui). Apple is expected to launch AirTags, new iPads, and possibly updated AirPods at a spring event, and leaker "Kang" believes that date will be March 23. Initial speculation pointed to an event happening on March 16; however, Bloomberg's Mark Gurman shot down...
+
+
+***
+[From Tech Gadgets to Comfy Sofas, Shop The 28 Best Home Deals Right Now](https://gossipbucket.com/popsugar/1805630/tech-gadgets-to-comfy-sofas-shop-28-home-deals-right/)
+
+
+> Nothing gets us in the mood to shop like a good sale. If you're the same and feeling like your house could use a little fixing up, then you're in the right place. Right now, there are a ton of great sales happening at some of our favorite retailers. Whether you're thinking of investing in new furniture or even organizers, there's no doubt finding them on sale will make it that much better. Ahead, we curated a list of the best things we spotted on discount right now. We're talking everything from comfortable sectional sofas perfect for lounging to a brand-new coffeemaker.
+
+
+***
+![OnePlus 9 Pro will have a charger in the box, video teaser reveals camera island design](https://fdn.gsmarena.com/imgroot/news/21/03/oneplus-teaser-image-charger/-476x249w4/gsmarena_001.jpg "OnePlus 9 Pro will have a charger in the box, video teaser reveals camera island design")
+
+
+[OnePlus 9 Pro will have a charger in the box, video teaser reveals camera island design](https://www.gsmarena.com/oneplus_9_pro_will_have_a_charger_in_the_box_video_teaser_reveals_camera_island_design-news-48108.php)
+
+
+> Earlier today, OnePlus announced the date of its announcement of its next flagship smartphones, the 9 series, and that's March 23. The company also made its partnership with Hasselblad official, and a few hours later we have the first official teaser of the OnePlus 9 Pro posted on Twitter by OnePlus itself. You can see it below, the money shot is at the end when we catch a glimpse of what is essentially the top half of the back of the 9 Pro. It all begins with a simple thought. Discover the #OnePlus9Series, co-developed with Hasselblad, on March 23.
+
+
+***
+[Fintech funding deals globally 1-7 March 2021](https://www.fintechfutures.com/2021/03/fintech-funding-deals-globally-1-7-march-2021/)
+
+
+> Featuring Klarna, Papaya Global, TaxBit, Beam Technologies, and Xendit.
+
+
+***
+![Oliver Dowden: I will keep a close eye on Facebook and Twitter's reactions to threats against journalists](https://i.inews.co.uk/content/uploads/2021/03/PRI_184073131.jpg "Oliver Dowden: I will keep a close eye on Facebook and Twitter's reactions to threats against journalists")
+
+
+[Oliver Dowden: I will keep a close eye on Facebook and Twitter's reactions to threats against journalists](https://inews.co.uk/news/technology/oliver-dowden-i-will-keep-a-close-eye-on-facebook-and-twitters-reactions-to-threats-against-journalists-904083)
+
+
+> In February, during the brutal crackdown against dissent in Russia, a chilling video emerged of journalist Gennady Shulga being bound and physically humiliated by police, his face being forced down into a dog bowl. In Mexico, more than 150 journalists have been killed since 2000; in Myanmar, reporters have been thrown in jail for covering the protests in the country.Freedom of speech – one of the cornerstones of democracy – is fragile. Journalists across the world are being threatened and attacked simply for doing their job.
+
+
