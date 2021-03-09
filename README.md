@@ -40253,3 +40253,53 @@
 > Paytm said on Tuesday it is turning NFC-enabled Android smartphones into point-of-sale machines, as it looks to win more merchants in one of the world's largest mobile payments markets. A Paytm merchant partner will now be able to enable card acceptance feature from their Paytm Business app. Once activated, they will be able to process a transaction by tapping a plastic card to their phone. Paytm Smart POS supports Visa, Mastercard, and Rupeek, the Indian startup said. Existing payment devices in the market haven't proven very successful in reaching small and medium sized businesses in India, most of which remain offline, said Vijay Shekhar Sharma, founder and chief executive of Paytm, at a virtual press conference today.
 
 
+***
+![Zack Snyder's Justice League leaked overnight by mistake](https://cdn.mos.cms.futurecdn.net/ddNppZJaN8Hq3zBMj2FzcJ-1200-80.jpg "Zack Snyder's Justice League leaked overnight by mistake")
+
+
+[Zack Snyder's Justice League leaked overnight by mistake](https://www.techradar.com/news/zack-snyders-justice-league-leaked-overnight-by-mistake)
+
+
+> (Image credit: HBO Max) The release of Zack Snyder's Justice League is right around the corner, but it appears that some people simply can't wait that long for its arrival. Despite the movie being set for a March 18 release, some HBO Max users were able to watch a portion of the film after it was accidentally leaked ahead of schedule. Quite why it replaced Tom and Jerry, though, is just as puzzling.According to Variety, subscribers to the streamer managed to watch the first hour of the Snyder Cut on Monday evening.
+
+
+***
+![Apple's VR headset could have 15 cameras](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/apple-vr.jpg "Apple's VR headset could have 15 cameras")
+
+
+[Apple's VR headset could have 15 cameras](https://www.imore.com/apples-vr-headset-could-have-15-cameras)
+
+
+> Source: The Information A new report from Apple supply chain analyst Ming-Chi Kuo says the Apple VR headset could have as many as 15 cameras for AR and biometrics. In a new research note seen by iMore, Kuo notes his own previous reports into Apple's plans to launch an augmented/mixed-reality headset towards the middle of 2021. Kuo says the device could be powered by micro-OLED displays and have several optical camera modules to power the AR/VR experience. Turns out he meant 15 cameras. The note says Kuo predicts Apple will use eight camera modules "to provide image-transmissive AR experience", six modules for "innovative biometrics" and one further module for environmental detection.
+
+
+***
+![Apple's iPhone might get a periscope camera, but don't expect it very soon](https://mondrian.mashable.com/2021%252F03%252F09%252Fac%252Febfd0874e1fd45a180628166c3362975.3409e.jpg%252F1200x630.jpg?signature=d0RSmyRBataiHPVo2ayjSn31SYc= "Apple's iPhone might get a periscope camera, but don't expect it very soon")
+
+
+[Apple's iPhone might get a periscope camera, but don't expect it very soon](https://mashable.com/article/iphone-periscope-camera/)
+
+
+> The iPhone will get a periscope lens for its telephoto camera, a new report says, but don't expect it before 2023. This is according to Apple analyst Ming-Chi Kuo (via MacRumors), who previously said the iPhone might get such a camera as early as 2022, but has now pushed his prediction into 2023.  Smartphones with periscope lens cameras have been around for a few years. China's Oppo was the first company to show a working prototype phone with such a camera, giving it 5x lossless zoom. The phone's periscope lens consisted of two lenses, one of which was positioned vertically, and the other horizontally, similar to the way a submarine periscope works.
+
+
+***
+![Woot is running two huge refurbished iPad sales today only](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/06/ipad-pro-10-5-inch-hero.jpg "Woot is running two huge refurbished iPad sales today only")
+
+
+[Woot is running two huge refurbished iPad sales today only](https://www.imore.com/woot-running-two-huge-refurbished-ipad-sales-today-only)
+
+
+> If you're on the lookout for the best iPad deals available, Woot has just kicked off not one but two sales today that you need to check out. The first offers recent iPad models (from 2017 or later) in refurbished condition with prices as low as $240 which gives you the chance to snag your next daily tablet for less. Alternatively, its second sale on early-gen iPads offers prices from just $70. Though none of the devices are new, they have been tested to ensure they are fully functional and Woot offers a 90-day warranty with whichever you choose.
+
+
+***
+![Apple Produced the Most Smartphones in Q4 2020: TrendForce](https://i.gadgets360cdn.com/large/IMG_0932_1_1606400890236.jpg "Apple Produced the Most Smartphones in Q4 2020: TrendForce")
+
+
+[Apple Produced the Most Smartphones in Q4 2020: TrendForce](https://gadgets.ndtv.com/mobiles/news/apple-iphone-production-highest-q4-2020-samsung-top-2021-oppo-huawei-vivo-xiaomi-trendforce-2386923)
+
+
+> Apple ranked first in terms of smartphone production volume for the fourth quarter of 2020, the latest analysis by a market research firm TrendForce shows. Overall, the global smartphone production is estimated to grow 25 percent year-on-year (YoY) in the first quarter of 2021 but decline six percent compared to the previous quarter (Q4 2020). The analysis states Apple produced 77.6 million iPhone units in Q4 2020 and overtook Samsung that produced the most smartphones in Q3 2020. However, Samsung is expected to take back the crown in Q1 2021 and stay on top for the entire year.
+
+
