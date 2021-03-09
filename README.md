@@ -40497,3 +40497,50 @@
 > Grilling season is in full swing, and if you're in the market for a new grill, there are plenty of options out there. Whether it's a pellet grill, a classic charcoal model or a gas grill, these outdoor cookers can get the job done. Picking the right grill for you means deciding on fuel type, size, price, style and extra features. All that can get overwhelming quickly, so we've gathered our best tips for finding the perfect fit for your patio, and we update them periodically. Here are a few key features to consider.
 
 
+***
+![Will you be able to play Resident Evil Village on PS4?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop/public/field/image/2020/07/resident-evil-village-witches-28ei.jpg "Will you be able to play Resident Evil Village on PS4?")
+
+
+[Will you be able to play Resident Evil Village on PS4?](https://www.androidcentral.com/resident-evil-village-playable-ps4)
+
+
+> Source: CapcomBest answer: Yes. The official Resident Evil Showcase announced that Resident Evil Village would be coming to PS4, PS5, and other last-gen platforms. Resident Evil Village is one of the most hotly anticipated games coming to PlayStation this spring and could be one of the best games on the PS5 this year. It marks the continuation of the story from where the previous game Resident Evil VII left off. Whether you experience it on PS4 or PS5, it will undoubtedly be one of the best horror games released this year.
+
+
+***
+![Achtung! Cthulhu RPG 2D20 by Modiphius Available Now](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/acthungcthulhu.jpg?itok=C9Hpv7wY "Achtung! Cthulhu RPG 2D20 by Modiphius Available Now")
+
+
+[Achtung! Cthulhu RPG 2D20 by Modiphius Available Now](https://techraptor.net/tabletop/news/achtung-cthulhu-rpg-based-on-2d20-system-available-now)
+
+
+> 03/09/2021 - 14:59 | By: William Worrall Nazis Meet Cthulhu (And Presumably Go Mad) Modiphius' highly-anticipated tabletop RPG based on their already existing 2D20 System is finally available. Achtung! Cthulhu is an exciting RPG that mashes together the tales of pulp heroism of the WWII era, and the mind-bending cosmic horror of Lovecraft's Cthulhu mythos.  Achtung! Cthulhu  The latest RPG from beloved creators Modiphius' is Achtung! Cthulhu, a mash-up between the dark and terrifying world of Lovecraft's most famous creation, and the adventures from pulp-novels popular in the early 1900s.
+
+
+***
+[USDCHF continues fall through 100 hour MA.  First close below since Feb 23](https://www.forexlive.com/technical-analysis/!/usdchf-continues-fall-through-100-hour-ma-first-close-below-since-feb-23-20210309)
+
+
+> 100 hour MA broken at 0.9290 The USDCHF has continued its fall through the 100 hour moving average at 0.9290 (). The full below that moving average is a first time (on a closing basis) since February 23. The break gives sellers added confidence.  
+
+
+***
+![Hey guys, I hope everyone is doing well! I recently made a video on performing sentiment analysis on newspaper articles in Python and I think it will help out those who are getting into NLP or learning Python for the first time! Let me know what you think, I hope this helps.](https://external-preview.redd.it/aHfPYubcfkd7AHp9rJgugAE0ne4Xm-VnWziVAzpH308.jpg?auto=webp&s=08357c99cbf549d0ba7238c36062f1234fbdc551 "Hey guys, I hope everyone is doing well! I recently made a video on performing sentiment analysis on newspaper articles in Python and I think it will help out those who are getting into NLP or learning Python for the first time! Let me know what you think, I hope this helps.")
+
+
+[Hey guys, I hope everyone is doing well! I recently made a video on performing sentiment analysis on newspaper articles in Python and I think it will help out those who are getting into NLP or learning Python for the first time! Let me know what you think, I hope this helps.](https://www.reddit.com/r/Python/comments/m1eq9x/hey_guys_i_hope_everyone_is_doing_well_i_recently/)
+
+
+> Hey guys, I hope everyone is doing well! I recently made a video on performing sentiment analysis on newspaper articles in Python and I think it will help out those who are getting into NLP or learning Python for the first time! Let me know what you think, I hope this helps.
+
+
+***
+![Facebook's lawyers blast attorney fees bid in deal over 2018 data breach](https://i-invdn-com.akamaized.net/news/LYNXMPEB4E0IS_L.jpg "Facebook's lawyers blast attorney fees bid in deal over 2018 data breach")
+
+
+[Facebook's lawyers blast attorney fees bid in deal over 2018 data breach](https://www.investing.com/news/technology-news/facebooks-lawyers-blast-attorney-fees-bid-in-deal-over-2018-data-breach-2441694)
+
+
+> © Reuters. Facebook logo displayed on a mobile phone is seen through a magnifying glass in this picture illustration By Sara Merken (Reuters) - Facebook Inc (NASDAQ:) is pushing back on plaintiffs lawyers' request for nearly $12 million in fees and costs for securing an injunctive relief-only settlement stemming from a 2018 cyberattack that affected millions of Facebook users. In a Monday night filing in California federal court, Facebook's lawyers at Latham & Watkins said the request is "not supported by law" and is contrary to the court's guidance when appointing the counsel for the class.
+
+
