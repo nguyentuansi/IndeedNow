@@ -40115,3 +40115,47 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hey guys! I need to get myself a new laptop and looking at the 16' MacBook Pro base model (2399) Is this thing powerful enough to handle photoshop/illustrator and all of these kinds of programs without freezing up overheating like the 13' has on me? many reviews as well would be great. I had the butterfly keys that were on the 13' I have. Absolutely horrible You must log in or register to reply here.
 
 
+***
+[In an interview, Mark Zuckerberg discusses AR/VR and says that by 2030, he expects people with smart glasses to "teleport" to locations for in-person meetings (Kif Leswing/CNBC)](http://www.techmeme.com/210308/p29#a210308p29)
+
+
+> Kif Leswing / CNBC: In an interview, Mark Zuckerberg discusses AR/VR and says that by 2030, he expects people with smart glasses to “teleport” to locations for in-person meetings — - Mark Zuckerberg said on Monday that by 2030, people could use advanced smart glasses to “teleport” to other people's homes …
+
+
+***
+[只怕被追撞！模擬顯示 Waymo 自駕車能避開致命車禍](https://technews.tw/2021/03/09/simulation-shows-waymo-can-avoid-fatal-car-accidents/)
+
+
+> Waymo（Alphabet Inc. 旗下自駕車子公司）安全研究和最佳實踐主任 Trent Victor 3 […]
+
+
+***
+![Oppo F19 Pro+ 5G phone launched with 48MP triple cameras: Price, specifications, and features](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/oppo_f19_pro_plus_a_0-647x363.jpeg?HkBHQPMmPyVnMGV9MqMtdw_zaqiVgjPo "Oppo F19 Pro+ 5G phone launched with 48MP triple cameras: Price, specifications, and features")
+
+
+[Oppo F19 Pro+ 5G phone launched with 48MP triple cameras: Price, specifications, and features](https://www.indiatoday.in/technology/features/story/oppo-f19-pro-5g-phone-launched-with-48mp-triple-cameras-price-specifications-and-features-1777124-2021-03-09)
+
+
+> Oppo F19 Pro series is the latest entry to India's smartphone market. There are two smartphones in the series, like always, but this time they both have the 'Pro' suffix added to their names. This is also the first time an F-series phone has 5G. The Oppo F19 Pro+, which is pricier among the two, comes with 5G connectivity, which means the phone is future proof. That is because there is no 5G in India right now but there will be at some point in time in future, say about 12-18 months. Those who buy the F19 Pro+ right now would not need to get another one just for 5G.
+
+
+***
+![Only with access to information can women move forward, says Sapna Chadha on Google Internet Saathi programme](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/RTX9KII7-647x363.png?11pvfeDD8EVbxBJX7AawUkT1jKDuaTOa "Only with access to information can women move forward, says Sapna Chadha on Google Internet Saathi programme")
+
+
+[Only with access to information can women move forward, says Sapna Chadha on Google Internet Saathi programme](https://www.indiatoday.in/technology/features/story/only-with-access-to-information-can-women-move-forward-says-sapna-chadha-on-google-internet-saathi-programme-1777117-2021-03-09)
+
+
+> Google launched an Internet Saathi programme five years ago to bring internet literacy to women from underdeveloped areas in India. Google collaborated with Tata for the programme that benefitted over 30 million women in India. The programme has now come to an end as Google has other important projects in the pipeline. The search giant has collaborated with Nasscom Foundation to bring internet literacy to 100,000 women farmers in India under a programme called "Women Will".Through its Internet Saathi programme, Google has benefitted over 30 million women across India through training provided by over 80,000 Internet Saathis.
+
+
+***
+![Hisense U80G ULED 8K TV](https://cdn.mos.cms.futurecdn.net/gjUrkCzMbtkSXBcWKkeQJV-1200-80.jpg "Hisense U80G ULED 8K TV")
+
+
+[Hisense U80G ULED 8K TV](https://www.techradar.com/reviews/hisense-u80g-uled-8k-tv)
+
+
+> In the past, we've criticized Hisense somewhat for the occasional image scrambling that can happen on its televisions during fast moving scenes. We're happy to report that this is seemingly not an issue with the fantastic new Hisense U80G ULED 8K TV, which delivered exceptionally smooth motion and picture quality during our tests.Launching initially in Australia, Hisense's 75-inch U80G ULED (65-inch and 85-inch models set to arrive later in the year) is the Chinese company's first 8K television, and what a great debut it is.
+
+
