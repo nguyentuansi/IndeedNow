@@ -40400,3 +40400,50 @@
 > Best Garmin Vivoactive 4 Bands Android Central 2021 The Garmin Vivoactive 4 has a lot to offer, both in terms of features and design. Make sure you choose a suitable band for your wearable. Whether you need a band that can handle high-intensity workouts or you want to dress it up for fancy occasions, there are plenty of options. The Vivoactive 4 works with 22mm quick release bands. If you prefer the smaller Vivoactive 4S, you'll need 18mm bands instead. Not to worry, we've included the best Garmin Vivoactive 4 bands in both sizes.
 
 
+***
+![Fire TV users can now stream Vudu's catalog on-demand](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/vudu-amazon-fire-tv_2.jpg "Fire TV users can now stream Vudu's catalog on-demand")
+
+
+[Fire TV users can now stream Vudu's catalog on-demand](https://www.androidcentral.com/fandangos-vudu-demand-streaming-service-debuts-amazon-fire-tv)
+
+
+> Source: Vudu Fandango is launching its Vudu On-Demand streaming service on all Amazon Fire TV devices. Fire TV users will be able to access over 150,000 titles from Vudu. Any purchases or rentals from Vudu's website will be immediately available on the Fire TV app. It seems like every other week, there is a new streaming option for Amazon Fire TV customers, and the latest is arguably one of the biggest and most exciting. Vudu is bringing its on-demand streaming service to all Amazon Fire TV devices, including the best Fire TV Edition smart TVs, the best Fire TV sticks, and even the Fire TV Cube.
+
+
+***
+![Videography Diary: Why I bought a 2018 camera in 2021 and made a 1-minute film](https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2021/03/bmpcc4k.jpg?resize=1200%2C628&ssl=1 "Videography Diary: Why I bought a 2018 camera in 2021 and made a 1-minute film")
+
+
+[Videography Diary: Why I bought a 2018 camera in 2021 and made a 1-minute film](https://9to5toys.com/2021/03/09/videography-diary-bmpcc-4k/)
+
+
+> My videography diary is a series recounting my experiences as a newbie videographer, after many years of still photography. In it, I'll cover the kit I use, as well as the lessons I've learned that may prove useful to others who are also making a move into video. For someone who loves the latest and greatest technology, I made kind of an odd decision when it came to my choice of camera … Back in my magazine days, tech writers were expected to do one thing and one thing only: write. Magazines had photographers and art directors.
+
+
+***
+![The Railsification of SaaS](https://external-preview.redd.it/uSXYzOAFzz2mi_5TJ6tczdMAzhk45W8bVTE_ZOg1FxU.jpg?auto=webp&s=9fcdd9e04814f054d9720c262a9c0a2064a58bba "The Railsification of SaaS")
+
+
+[The Railsification of SaaS](https://www.reddit.com/r/programming/comments/m19p4x/the_railsification_of_saas/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Privacera, which helps teams access data from multiple clouds while remaining compliant with regulations like GDPR, raises $50M Series B led by Insight Partners (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210309/p18#a210309p18)
+
+
+> Kyle Wiggers / VentureBeat: Privacera, which helps teams access data from multiple clouds while remaining compliant with regulations like GDPR, raises $50M Series B led by Insight Partners — Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. — Privacera announced …
+
+
+***
+![Biden to nominate Big Tech critic Lina Khan to Federal Trade Commission](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AK5OGGTS4QI6PDAXKM6FFMXQCQ.jpg&w=1440 "Biden to nominate Big Tech critic Lina Khan to Federal Trade Commission")
+
+
+[Biden to nominate Big Tech critic Lina Khan to Federal Trade Commission](https://www.washingtonpost.com/technology/2021/03/09/lina-khan-biden-ftc/)
+
+
+> Today's Headlines The most important news stories of the day, curated by Post editors and delivered every morning. By signing up you agree to our Terms of Use and Privacy Policy
+
+
