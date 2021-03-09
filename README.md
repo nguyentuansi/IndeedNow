@@ -40544,3 +40544,53 @@
 > © Reuters. Facebook logo displayed on a mobile phone is seen through a magnifying glass in this picture illustration By Sara Merken (Reuters) - Facebook Inc (NASDAQ:) is pushing back on plaintiffs lawyers' request for nearly $12 million in fees and costs for securing an injunctive relief-only settlement stemming from a 2018 cyberattack that affected millions of Facebook users. In a Monday night filing in California federal court, Facebook's lawyers at Latham & Watkins said the request is "not supported by law" and is contrary to the court's guidance when appointing the counsel for the class.
 
 
+***
+![Former head of the World Resources Institute has a new role leading Bezos' $10 billion Earth Fund – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/10/Jeff-Bezos-IAC-2019.jpg?w=600 "Former head of the World Resources Institute has a new role leading Bezos' $10 billion Earth Fund – TechCrunch")
+
+
+[Former head of the World Resources Institute has a new role leading Bezos' $10 billion Earth Fund – TechCrunch](https://techcrunch.com/2021/03/09/former-head-of-the-world-resources-institute-has-a-new-role-leading-bezos-10-billion-earth-fund/)
+
+
+> The $10 billion Bezos Earth Fund has a new chief executive and it's Andrew Steer, the former head of the World Resources Institute — an organization that Bezos described as 'working to alleviate poverty while protecting the natural world.' As the head of the fund, Steer will be responsible for spending that money down by the end of 2030, according to a tweet from none other than Steer himself. I am deeply honored to have been invited by @JeffBezos to become the first President and CEO of the $10B Earth Fund.
+
+
+***
+![Facebook Censors Wall Street Journal Over 'Fact Checked' Coronavirus Op-Ed by Johns Hopkins Surgeon](https://media.breitbart.com/media/2020/09/GettyImages-1227832366-1-640x335.jpg "Facebook Censors Wall Street Journal Over 'Fact Checked' Coronavirus Op-Ed by Johns Hopkins Surgeon")
+
+
+[Facebook Censors Wall Street Journal Over 'Fact Checked' Coronavirus Op-Ed by Johns Hopkins Surgeon](https://www.breitbart.com/tech/2021/03/09/facebook-censors-wall-street-journal-over-fact-checked-coronavirus-op-ed-by-johns-hopkins-surgeon/)
+
+
+> Facebook's fact-checkers have come for the Wall Street Journal, causing the mainstream newspaper to be censored on the world's largest social network, after the Journal published an op-ed from a Johns Hopkins surgeon who argued that the United States is likely to achieve herd immunity to the COVID-19 virus by April. The surgeon, Dr. Marty Makary, argued that a failure to take natural immunity as well as vaccine immunity into account was leading some to underestimate when herd immunity could be achieved.
+
+
+***
+![Microsoft Hack Goes Global as Organizations Rush to Secure Systems](https://media.breitbart.com/media/2018/12/wi/afp/01/6c52e3_microsoft-ceo-satya-nadella-has-helped-fuel-rebound-by-technology-giant-e1548279807597.jpg "Microsoft Hack Goes Global as Organizations Rush to Secure Systems")
+
+
+[Microsoft Hack Goes Global as Organizations Rush to Secure Systems](https://www.breitbart.com/tech/2021/03/09/microsoft-hack-goes-global-as-organizations-rush-to-secure-systems/)
+
+
+> A cyberattack on Microsoft's email software Exchange has turned into a global cybersecurity crisis as hackers rush to infect as many networks as possible before companies can secure their computer systems. The Seattle Times reports that the recent hack of Microsoft's business email software has now become a global security crisis as hackers continue to infect computer systems worldwide. Microsoft recently warned customers that it believes a Chinese-stated backed hacking group, referred to as Hafnium, has used four previously undisclosed security flaws in Microsoft's Exchange Server enterprise email product in an attempt to steal private information.
+
+
+***
+![12 things you need to organize your home, according to 'The Home Edit'](https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2021/03/09/USATODAY/usatsports/Reviewed.com-RvEW-26903-Hero.jpg?width=1272&height=636&fit=crop&format=pjpg&auto=webp "12 things you need to organize your home, according to 'The Home Edit'")
+
+
+[12 things you need to organize your home, according to 'The Home Edit'](https://www.reviewed.com/home-outdoors/features/12-things-organize-your-home-according-home-edit)
+
+
+> The Home Edit's Clea and Joanna share essential items to organize your home.The Home Edit's Clea and Joanna share essential items to organize your home. (Photo: The Container Store)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Although spring cleaning may look a little different this year thanks to the pandemic (we have been staring at our floors for an entire year), it doesn't have to be difficult. Small changes—like the addition of carefully positioned turntables in your pantry—can truly make all the difference when used correctly.
+
+
+***
+![The Sonos Roam may be the best Sonos speaker yet – and it's the cheapest so far](https://cdn.mos.cms.futurecdn.net/r5sT7xKhVBpLWwRPf95Ju8-1200-80.jpg "The Sonos Roam may be the best Sonos speaker yet – and it's the cheapest so far")
+
+
+[The Sonos Roam may be the best Sonos speaker yet – and it's the cheapest so far](https://www.techradar.com/news/sonos-roam-speaker)
+
+
+> It's finally here: the Sonos Roam has been announced, with the wireless speaker being described by the company's CEO Patrick Spence as 'the smartest speaker we have ever built'. The portable speaker – which comes with both Wi-Fi and Bluetooth connectivity – will be released on April 20, and is available to preorder from the Sonos website now for $169 / £159 / AU$279.Boasting a lightweight, water-resistant and dust-proof build, the Sonos Roam bridges the gap between smart assistant and portable speaker, coming with Alexa and Google Assistant built in for smart home control.
+
+
