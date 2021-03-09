@@ -40353,3 +40353,50 @@
 > MILLIONS of employees are still working from their original makeshift 'home office' set-ups – on the ironing board, behind the sofa and even the bed. A study of 2,000 adults working from home found 61 per cent still consider the environment to be temporary despite having been there for almost 12 months. Working from home doesn't always go smoothlyCredit: Unsplash Three per cent of respondents even claim to still be working inside a walk-in wardrobe, while nine per cent have simply set up their office in the middle of a room.
 
 
+***
+[PS5 UK stock LIVE – Currys launches RAFFLE to sell Playstations ‘fairly' and latest console news at Argos, Amazon, GAME](https://www.thesun.ie/tech/6619920/ps5-uk-stock-currys-live-playstation-console-game-latest/)
+
+
+> CURRYS has made a dramatic change to way customers can buy PS5s, introducing a new “raffle” system. The tech retailer is planning to scrap the queue system it and many other websites have previously used as it “unfairly” rewards those with stronger interview connections and with time to sit online. Now Curry’s is allowing customers […]
+
+
+***
+![Target PS5 restock shows 'back in stock' – but frustrated users can't check out](https://cdn.mos.cms.futurecdn.net/YiQxrZpieyCAJnXbbWGo7Z-1200-80.jpg "Target PS5 restock shows 'back in stock' – but frustrated users can't check out")
+
+
+[Target PS5 restock shows 'back in stock' – but frustrated users can't check out](https://www.techradar.com/news/target-ps5-and-xbox-restock-theyre-back-in-stock-how-to-get-them-fast)
+
+
+> Update: The Target restock appears to be a false alarm, promising to ship the console to users, but we're going to keep checking for it to come back in stock – could turn on any second or launch on a different day this week.Prior storyThe Target PS5 restock is happening online (not in stores) right now, with the US retailer allowing for in-store pickup at a local Target once a purchase is secured.This means you could buy and start playing the PlayStation 5 today. This Target PS5 restock isn't a complete surprise.
+
+
+***
+![The Insta360 Go 2 is a tiny, impressive vlogging camera – read our full review](https://cdn.mos.cms.futurecdn.net/ZeLSFaizk2KCrTLxGqAPFD-1200-80.jpg "The Insta360 Go 2 is a tiny, impressive vlogging camera – read our full review")
+
+
+[The Insta360 Go 2 is a tiny, impressive vlogging camera – read our full review](https://www.techradar.com/news/the-insta360-go-2-is-a-tiny-impressive-vlogging-camera-read-our-full-review)
+
+
+> The Insta360 Go 2 has officially arrived after its fairly unsubtle teaser video last week – and as our full Insta360 Go 2 review reveals, the 27g vlogging camera is a significant improvement on its predecessor. The original Insta360 Go arrived in 2019 as a thumb-sized, 18.3g action camera that could capture short bursts of video, but was let down by its usability and image quality. Fortunately for anyone who needs a wearable, water-resistant camera that can be taken anywhere, the Insta360 Go 2 improves on both of those issues.
+
+
+***
+![The Fitbit Ace 3 will motivate your little Minions to active](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/fitbit_proxima_kids_lifestyle_cosmic_blue_backyard_hula_hoop_090.jpg "The Fitbit Ace 3 will motivate your little Minions to active")
+
+
+[The Fitbit Ace 3 will motivate your little Minions to active](https://www.androidcentral.com/fitbit-ace-3-tracker-brings-minions-your-kids-wrists)
+
+
+> Source: Fitbit Fitbit has announced the launch of the Fitbit Ace 3 wearable for kids. The new fitness tracker has an 8-day battery life and is swim-proof. Fitbit is also bringing the beloved Minions characters to your kids' wrists with Despicable Blue and Mischief Black accessory bands. Fitbit currently offers some fantastic smartwatches in the Versa 3 and Sense, but the company cut its teeth by making some of the best fitness trackers around. While most of its devices are geared towards adults looking to improve their overall health and fitness, the company is also one of the only tech companies making dedicated health trackers for children.
+
+
+***
+![Swap out your Garmin Vivoactive 4 band for something more suitable](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/garmin-vivoactive-4-press-hero.jpg "Swap out your Garmin Vivoactive 4 band for something more suitable")
+
+
+[Swap out your Garmin Vivoactive 4 band for something more suitable](https://www.androidcentral.com/best-bands-garmin-vivoactive-4)
+
+
+> Best Garmin Vivoactive 4 Bands Android Central 2021 The Garmin Vivoactive 4 has a lot to offer, both in terms of features and design. Make sure you choose a suitable band for your wearable. Whether you need a band that can handle high-intensity workouts or you want to dress it up for fancy occasions, there are plenty of options. The Vivoactive 4 works with 22mm quick release bands. If you prefer the smaller Vivoactive 4S, you'll need 18mm bands instead. Not to worry, we've included the best Garmin Vivoactive 4 bands in both sizes.
+
+
