@@ -40159,3 +40159,47 @@
 > In the past, we've criticized Hisense somewhat for the occasional image scrambling that can happen on its televisions during fast moving scenes. We're happy to report that this is seemingly not an issue with the fantastic new Hisense U80G ULED 8K TV, which delivered exceptionally smooth motion and picture quality during our tests.Launching initially in Australia, Hisense's 75-inch U80G ULED (65-inch and 85-inch models set to arrive later in the year) is the Chinese company's first 8K television, and what a great debut it is.
 
 
+***
+![What devices does ExpressVPN support?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/expressvpn-devices-cropped.png "What devices does ExpressVPN support?")
+
+
+[What devices does ExpressVPN support?](https://www.androidcentral.com/what-devices-does-expressvpn-support)
+
+
+> ExpressVPN is one of the best VPN services we've ever tested, but while the fact that users can only connect up to five devices at once is limiting, it provides apps and configurations for a range of different platforms. The ability to connect different types and makes of devices is important for a VPN service because most people own and use a multitude of gadgets, whether it's a smartphone, tablet, laptop, streaming box, or games console. And having a premium VPN has benefits for all these technologies, from being able to access content that isn't available in your region to adding an extra layer of privacy to your device.
+
+
+***
+![Govt approves 20% ethanol blending in petrol to reduce vehicular pollution](https://images.moneycontrol.com/static-mcnews/2018/10/Petrol-diesel-price-770x433.jpg "Govt approves 20% ethanol blending in petrol to reduce vehicular pollution")
+
+
+[Govt approves 20% ethanol blending in petrol to reduce vehicular pollution](https://www.moneycontrol.com/news/technology/auto/govt-approves-20-ethanol-blending-in-petrol-to-reduce-vehicular-pollution-6623451.html)
+
+
+> The Ministry of Road Transport and Highways (MORTH) has notified the use of E20, a mix of 20 percent ethanol and 80 percent petrol. A notification was issued late on March 8.The latest notification follows a draft issued by MORTH in December that spoke about type approval of pure ethanol, flex fuel and ethanol-gasoline blend vehicles. The government earlier invited comments and suggestions from stakeholders against the draft.At present, 10 percent ethanol (E10) is allowed to be blended with petrol.
+
+
+***
+[Facebook CEO bets on more realistic digital avatars](https://www.zeebiz.com/technology/news-facebook-ceo-bets-on-more-realistic-digital-avatars-152145)
+
+
+> San Francisco, March 9 (IANS) Facebook CEO Mark Zuckerberg is aiming to introduce more realistic digital avatars for users of virtual reality (VR) headsets with eye and face tracking, in order to create a better social experience into the device.
+
+
+***
+[Facebook tests feature in India to share Instagram reels on its news feed](https://www.zeebiz.com/technology/news-facebook-tests-feature-in-india-to-share-instagram-reels-on-its-news-feed-152146)
+
+
+> (Reuters) - Facebook Inc said on Monday it was testing a feature on Instagram that allows some content creators in India to share short video clips, known as reels, on their Facebook accounts.
+
+
+***
+![Instagram to integrate 'Reels' into Facebook in India](https://cdn.mos.cms.futurecdn.net/Z4X8S3bT3WMtyj6gFE2Umi-1200-80.png "Instagram to integrate 'Reels' into Facebook in India")
+
+
+[Instagram to integrate 'Reels' into Facebook in India](https://www.techradar.com/news/instagram-to-integrate-reels-into-facebook-in-india)
+
+
+> (Image credit: Facebook) As popularity of short videos keeps growing in India, Facebook continues to look for ways to push Instagram Reels (its short video offering) to multiple users across its platforms. Facebook, which launched Reels in India first, has now announced that it is testing the ability for Instagram creators to have their public Reels recommended on Facebook in India.This would enable Reels creators to share their Reels clips also into the Facebook News Feed and to Facebook Watch, facilitating a potentially huge expansion of Reels exposure.
+
+
