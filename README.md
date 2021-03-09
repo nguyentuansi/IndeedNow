@@ -40447,3 +40447,53 @@
 > Today's Headlines The most important news stories of the day, curated by Post editors and delivered every morning. By signing up you agree to our Terms of Use and Privacy Policy
 
 
+***
+![Google and Facebook Killed Free](https://static01.nyt.com/images/2021/03/09/business/09ontech-subscriptions/09ontech-subscriptions-facebookJumbo-v3.png "Google and Facebook Killed Free")
+
+
+[Google and Facebook Killed Free](https://www.nytimes.com/2021/03/09/technology/google-and-facebook-killed-free.html)
+
+
+> Continue reading the main storyIs the mania for subscriptions a choice, or the only path in an ad system dominated by giants?VideoCreditCredit...By Shira InbarMarch 9, 2021, 1:12 p.m. ETThis article is part of the On Tech newsletter. You can sign up here to receive it weekdays.We're constantly being nudged to pay to subscribe.There are all those paid streaming video and music services. News organizations, including The New York Times, want subscribers. Your favorite dating site, email service or messaging app might also ask you to pay for stuff you once got free.
+
+
+***
+![Best email services of 2021: paid, free and business providers](https://cdn.mos.cms.futurecdn.net/MCTaifsDFHvU7pJ9uKmjzY-1200-80.jpg "Best email services of 2021: paid, free and business providers")
+
+
+[Best email services of 2021: paid, free and business providers](https://www.techradar.com/news/best-email-provider)
+
+
+> The best email serviceIf you're looking for the best email service providers around today, you've come to the right place.Getting hold of the best email service providers today can be easy. Sign up with an ISP and you've got one account for starters. Creating an account with Google, Microsoft or other big names will get you more. Buy a decent web hosting package and you'll probably get enough email addresses to power a large business, all for no extra charge.But picking the best email service providers for you can be more difficult, as there's a lot to consider - especially in these days of remote working.
+
+
+***
+![RTX 3060, RTX 3060 Ti, and RTX 3070 on Newegg Shuffle for a limited time](https://cdn.mos.cms.futurecdn.net/xGBf2JnFHyPwTDQjYaNgL3-1200-80.jpg "RTX 3060, RTX 3060 Ti, and RTX 3070 on Newegg Shuffle for a limited time")
+
+
+[RTX 3060, RTX 3060 Ti, and RTX 3070 on Newegg Shuffle for a limited time](https://www.techradar.com/news/rtx-3060-rtx-3060-ti-and-rtx-3070-on-newegg-shuffle-for-a-limited-time)
+
+
+> (Image credit: Future) The latest Newegg Shuffle is here, and it's all about RTX graphics cards, including the RTX 3060, RTX 3060 Ti, and RTX 3070 cards from Asus, EVGA, and MSI, and runs from March 9, 1pm to 4pm EST. It's a bit lighter than the Shuffles we saw last week, but hopefully that means there's more actual stock of the available cards. Check out the latest offerings from Newegg Shuffle hereFirst up, we have the Asus Dual RTX 3060 12GB for a very affordable $329, making it the cheapest card on the list today.
+
+
+***
+![Blur that background: Video conferencing brings security risks](http://www.digitaljournal.com/img/4/2/9/6/2/6/i/4/6/2/p-large/Zoom.jpg "Blur that background: Video conferencing brings security risks")
+
+
+[Blur that background: Video conferencing brings security risks](http://www.digitaljournal.com/tech-and-science/technology/blur-that-background-video-conferencing-brings-security-risks/article/586611)
+
+
+> With the rise of the virtual workforce there's a new security threat that people need to watch for. The threat involves our video backgrounds, and cues that this can provide to malicious actors. Through the rise of Zoom, Teams and other video platforms during the past twelve months, hackers are learning they do not have to go after businesses that are heavily protected to be successful. Some rogue actors are assessing videos in order obtain personal information about people that can be used for nefarious activities.
+
+
+***
+![Grill buying guide: How to buy the right grill for you](https://cnet4.cbsistatic.com/img/ufMNHYCpYk9gbXe7iQQxW-Y8bEA=/1200x630/2017/07/26/929e1774-0d7d-4ec5-afe9-ed8d47072cea/how-to-grill-7.jpg "Grill buying guide: How to buy the right grill for you")
+
+
+[Grill buying guide: How to buy the right grill for you](https://www.cnet.com/how-to/best-grill-buying-guide-2021-how-to-buy/)
+
+
+> Grilling season is in full swing, and if you're in the market for a new grill, there are plenty of options out there. Whether it's a pellet grill, a classic charcoal model or a gas grill, these outdoor cookers can get the job done. Picking the right grill for you means deciding on fuel type, size, price, style and extra features. All that can get overwhelming quickly, so we've gathered our best tips for finding the perfect fit for your patio, and we update them periodically. Here are a few key features to consider.
+
+
