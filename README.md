@@ -40068,3 +40068,50 @@
 > In February, during the brutal crackdown against dissent in Russia, a chilling video emerged of journalist Gennady Shulga being bound and physically humiliated by police, his face being forced down into a dog bowl. In Mexico, more than 150 journalists have been killed since 2000; in Myanmar, reporters have been thrown in jail for covering the protests in the country.Freedom of speech – one of the cornerstones of democracy – is fragile. Journalists across the world are being threatened and attacked simply for doing their job.
 
 
+***
+[Twitter sues Texas AG, claiming retaliation for Trump ban](https://www.mymotherlode.com/news/technology/1585730/twitter-sues-texas-ag-claiming-retaliation-for-trump-ban.html)
+
+
+> Twitter has filed a lawsuit against Texas Attorney General Ken Paxton
+
+
+***
+![India is trying to build its own internet](https://external-preview.redd.it/0Fu5et0UBWnQbaUcoLjwn6F4SCzSFuWILFvGOOmGJtE.jpg?auto=webp&s=8f6be0127489114b19aa856aff835db2b16a6a93 "India is trying to build its own internet")
+
+
+[India is trying to build its own internet](https://www.reddit.com/r/technology/comments/m0vxjv/india_is_trying_to_build_its_own_internet/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Intel wants to make cloud encryption tougher than ever](https://cdn.mos.cms.futurecdn.net/UJ5CFPQLDaMmXUqcw3CEXh-1200-80.jpg "Intel wants to make cloud encryption tougher than ever")
+
+
+[Intel wants to make cloud encryption tougher than ever](https://www.techradar.com/news/intel-wants-to-make-cloud-encryption-tougher-than-ever)
+
+
+> (Image credit: Shutterstock) Intel has announced that it has signed an agreement with the US government's Defense Advanced Research Projects Agency (DARPA) to join its Data Protection in Virtual Environments (DPRIVE) program to develop an accelerator for fully homomorphic encryption (FHE).Unlike with other types of encryption, FHE enables encrypted data to be processed without first having to decrypt it.In addition to Intel, Microsoft is the key cloud ecosystem and homomorphic encryption partner working with DARPA on its DPRIVE program.
+
+
+***
+![Microsoft server hack has victims hustling to stop intruders](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/d6/9e/cb1bbccda5fc679ae0f1d503e7f17c94f772/downloadrolemainqtSkZXl6XhG-Fcidef3cfa6059314d8287bab00494da8f35ptMzE3NDh8ODU0MzZ8MnwwfC0ai4813d462835dcf54cd1397adb94d468bapikeyofg7szy7sjwd4nq89x737iordw.jpeg "Microsoft server hack has victims hustling to stop intruders")
+
+
+[Microsoft server hack has victims hustling to stop intruders](https://japantoday.com/category/tech/microsoft-server-hack-has-victims-hustling-to-stop-intruders)
+
+
+> Victims of a massive global hack of Microsoft email server software — estimated in the tens of thousands by cybersecurity responders — hustled Monday to shore up infected systems and try to diminish chances that intruders might steal data or hobble their networks. The White House has called the hack an 'active threat' and said senior national security officials were addressing it The breach was discovered in early January and attributed to Chinese cyber spies targeting U.S. policy think tanks. Then in late February, five days before Microsoft issued a patch on March 2, there was an explosion of infiltrations by other intruders, piggybacking on the initial breach.
+
+
+***
+![MacBook Pro 16'](https://images.macrumors.com/social/?t=2287606&v=6 "MacBook Pro 16'")
+
+
+[MacBook Pro 16'](https://forums.macrumors.com/threads/macbook-pro-16-base-model-questions.2287606/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hey guys! I need to get myself a new laptop and looking at the 16' MacBook Pro base model (2399) Is this thing powerful enough to handle photoshop/illustrator and all of these kinds of programs without freezing up overheating like the 13' has on me? many reviews as well would be great. I had the butterfly keys that were on the 13' I have. Absolutely horrible You must log in or register to reply here.
+
+
