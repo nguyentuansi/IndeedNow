@@ -40303,3 +40303,53 @@
 > Apple ranked first in terms of smartphone production volume for the fourth quarter of 2020, the latest analysis by a market research firm TrendForce shows. Overall, the global smartphone production is estimated to grow 25 percent year-on-year (YoY) in the first quarter of 2021 but decline six percent compared to the previous quarter (Q4 2020). The analysis states Apple produced 77.6 million iPhone units in Q4 2020 and overtook Samsung that produced the most smartphones in Q3 2020. However, Samsung is expected to take back the crown in Q1 2021 and stay on top for the entire year.
 
 
+***
+![Eye surgery robotics startup ForSight raises $10M – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/unnamed-23.jpg?w=650 "Eye surgery robotics startup ForSight raises $10M – TechCrunch")
+
+
+[Eye surgery robotics startup ForSight raises $10M – TechCrunch](https://techcrunch.com/2021/03/09/eye-surgery-robotics-startup-forsight-raises-10m/)
+
+
+> Israel-based ForSight Robotics announced today that it has raised $10 million for what it has deemed a 'mega-seed round.' Led by Eclipse Ventures and Mithril Capital, the round will go toward expanding the company's headcount and global reach, as it looks to bring its offerings to international markets, pending the sorts of regulatory approvals that go into launching a robotic surgery platform. The company's surgical platform is designed specifically for ophthalmological (eye) surgeries — a category requiring a great deal of precision.
+
+
+***
+![Get rid of old backups to free up space on Mac](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/01/time-machine-mac-hero.jpg "Get rid of old backups to free up space on Mac")
+
+
+[Get rid of old backups to free up space on Mac](https://www.imore.com/how-free-space-your-mac-deleting-old-backups)
+
+
+> Source: iMore Apple's built-in backup program for the Mac on macOS Big Sur, Time Machine, makes it incredibly easy to back up all of your important data so you can restore your computer if something should happen. You can even recover deleted files if you accidentally lose them. On Apple laptops, like the MacBook, MacBook Air, and MacBook Pro, Time Machine includes the added feature of creating local snapshots so that, if you disconnect your MacBook from its external hard drive, you'll still have backups stored on your internal hard drive so you can recover data if you need to.
+
+
+***
+![Carl Pei's Nothing reveals ‘Concept 1' TWS earbuds with a transparent design](https://images.financialexpress.com/2021/03/nothing.png "Carl Pei's Nothing reveals ‘Concept 1' TWS earbuds with a transparent design")
+
+
+[Carl Pei's Nothing reveals ‘Concept 1' TWS earbuds with a transparent design](https://www.financialexpress.com/industry/technology/nothing-reveals-concept-1-tws-earbuds-with-a-transparent-design/2209275/)
+
+
+> Nothing Concept 1 TWS earbudsNothing is finally showing something that it says it has been working on for the last few months. Its first wave of products will include a pair of truly wireless (TWS) earbuds, curiously called the ‘Concept 1', which seems to suggest the final version may look different. In their current form, these earbuds have a minimalist transparent design without any ‘unnecessary branding' on the surface to seemingly highlight Nothing's sales pitch— just barely-noticeable technology that empowers everyone to be more human.
+
+
+***
+![Everbridge Announces Pricing of Upsized $325 Million Convertible Notes Offering](https://mms.businesswire.com/media/20210309005556/en/864046/23/4496589_Yahoo%21-Finance-PR-Everbridge-Logo---640x360+%283%29.jpg "Everbridge Announces Pricing of Upsized $325 Million Convertible Notes Offering")
+
+
+[Everbridge Announces Pricing of Upsized $325 Million Convertible Notes Offering](https://www.businesswire.com/news/home/20210309005556/en/Everbridge-Announces-Pricing-of-Upsized-325-Million-Convertible-Notes-Offering)
+
+
+> March 09, 2021 06:58 AM Eastern Standard Time BURLINGTON, Mass.--(BUSINESS WIRE)--Everbridge, Inc. (Nasdaq: EVBG) announced today the pricing of $325.0 million aggregate principal amount of 0% convertible senior notes due 2026 (the Notes) in a private placement to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended. The Notes will be issued at a price equal to 100% of the principal amount thereof. In connection with the offering, Everbridge has also granted the initial purchasers a 13-day option to purchase up to an additional $50.
+
+
+***
+![Millions of Brits still working from ‘makeshift home offices' – including on ironing boards](https://www.thesun.co.uk/wp-content/uploads/2021/03/photo-1601129490376-e24f32ed8024.jpeg?strip=all&quality=100&w=1200&h=800&crop=1 "Millions of Brits still working from ‘makeshift home offices' – including on ironing boards")
+
+
+[Millions of Brits still working from ‘makeshift home offices' – including on ironing boards](https://www.thesun.co.uk/tech/14282530/brits-working-from-home-desk-office-ironing-board/)
+
+
+> MILLIONS of employees are still working from their original makeshift 'home office' set-ups – on the ironing board, behind the sofa and even the bed. A study of 2,000 adults working from home found 61 per cent still consider the environment to be temporary despite having been there for almost 12 months. Working from home doesn't always go smoothlyCredit: Unsplash Three per cent of respondents even claim to still be working inside a walk-in wardrobe, while nine per cent have simply set up their office in the middle of a room.
+
+
