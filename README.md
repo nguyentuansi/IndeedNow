@@ -40825,3 +40825,53 @@
 > Justice League Snyder Cut is, finally, nearly here. It feels almost unreal that a film which once existed as a mythical thing in the minds of DC fans and in an unfinished state on Zack Snyder's laptop will soon premiere online around the world. Of course, a lot has happened in between. Warner Bros. and HBO Max gave Snyder $70 million (about Rs. 510 crores) to finish the raw footage that he shot during the original Justice League production. Most of this footage was never used, as Snyder's replacement Joss Whedon decided to do major rewrites and did reshoots that raised the DC film's budget to $300 million (about Rs.
 
 
+***
+![POCO F1 is finally getting a successor — and it may be the X3 Pro](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/01/poco-f1-2020-24.jpg "POCO F1 is finally getting a successor — and it may be the X3 Pro")
+
+
+[POCO F1 is finally getting a successor — and it may be the X3 Pro](https://www.androidcentral.com/poco-f1-finally-getting-successor-and-it-may-be-x3-pro)
+
+
+> Source: Android Central The highly-anticipated successor to the POCO F1 will finally arrive this year. POCO claims the upcoming device will be even better than its predecessor. The phone is rumored to be called the X3 Pro and is expected to launch later this month. Back in August 2018, Xiaomi launched a new smartphone brand called POCO in India. The brand's first product was the POCO F1, which offered flagship-grade specs for under $300. Thanks to its impressive hardware and surprisingly low price tag, it quickly became one of the most popular mid-range phones in the country.
+
+
+***
+![IE App Reviews: ‘Oxygen Updater' brings you the fastest OnePlus updates](https://images.indianexpress.com/2021/03/Oxygen-Updater-Review.jpg "IE App Reviews: ‘Oxygen Updater' brings you the fastest OnePlus updates")
+
+
+[IE App Reviews: ‘Oxygen Updater' brings you the fastest OnePlus updates](https://indianexpress.com/article/technology/social/ie-app-reviews-oxygen-updater-brings-you-the-fastest-oneplus-updates-7222229/)
+
+
+> OnePlus phones are pretty popular in India's upper mid-range and affordable-flagship market. Apart from the fact that OnePlus phones pack great hardware, a key factor in the brand's phones is its clean software experience via OxygenOS. Feature-packed, yet minimal where it needs to be, OxygenOS is made even better by quick updates. However, like most Android software updates across brands, OxygenOS updates are also rolled out in batches. This allows the brand to test new software for critical bugs on a small number of users, before rolling it out to the masses.
+
+
+***
+![Xiaomi Mi 10S 5G with Snapdragon 870 processor launched: Price, specs](https://images.indianexpress.com/2021/03/Mi10s-poster.jpg "Xiaomi Mi 10S 5G with Snapdragon 870 processor launched: Price, specs")
+
+
+[Xiaomi Mi 10S 5G with Snapdragon 870 processor launched: Price, specs](https://indianexpress.com/article/technology/mobile-tabs/xiaomi-mi-10s-5g-with-snapdragon-870-processor-launched-7222350/)
+
+
+> Xiaomi has launched its latest Mi 10S 5G smartphone in China. The key highlights of the new Mi 10 series phone are a Snapdragon 870 processor, 108MP quad rear camera setup, 90Hz AMOLED display, 33W fast charging and more. Xiaomi is selling the device in three variants. The 8GB + 128GB storage model of the Mi 10S is priced at RMB 3,299 (approximately Rs 37,000). There is also an 8GB RAM + 256GB storage configuration, which will cost you RMB 3,499 (around Rs 39,200). The top-end 12GB RAM + 256GB storage variant will be sold for RMB 3,799 (approximately Rs 42,600).
+
+
+***
+![Thoughts Of A Past Future, by Internet Monkey Boy](https://external-preview.redd.it/Nkevn1xzKxRB3PREPxNVpEnOL84c-BU7I1wm38D0nCI.jpg?auto=webp&s=2e2959260e9f6aefa72c56e94b929d26197f2f6d "Thoughts Of A Past Future, by Internet Monkey Boy")
+
+
+[Thoughts Of A Past Future, by Internet Monkey Boy](https://www.reddit.com/r/programming/comments/m1tyq9/thoughts_of_a_past_future_by_internet_monkey_boy/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![The best torrent clients for 2021](https://icdn2.digitaltrends.com/image/digitaltrends/macbook-air-2018-review-5872-1200x630-c-ar1.91.jpg "The best torrent clients for 2021")
+
+
+[The best torrent clients for 2021](https://www.digitaltrends.com/computing/best-torrent-clients/)
+
+
+> Torrent clients are not actual people, but rather a method of downloading files that uses a peer-to-peer system. These clients give the digital world a faster way to get large files, such as movies. But picking the best torrent client can be difficult with all the options available. There are the bare-bones ones like Deluge, or if you're looking for something with fuller features, then Tixati could be your next client. Check out our list of recommended torrent clients to learn about these and more.
+
+
