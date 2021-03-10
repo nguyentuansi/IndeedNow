@@ -40641,3 +40641,43 @@
 > Commercial motor insurance provider Zego has become the UK's latest technology 'unicorn' with a valuation of more than $1bn (£719m) after raising $150m in funding. The company, which provides insurance to gig economy drivers as well as fleets of commercial vehicles, is now valued at $1.1bn following the injection of capital from backers including billionaire Yuri Milner's DST Global fund and General Catalyst. Chief executive Sten Saar said the company now plans to grow further into Europe and is also considering US expansion.
 
 
+***
+![Disney Plus has reached 100 million subscribers in just a year and a half](https://cdn.mos.cms.futurecdn.net/vCHcWZ4o2vjVgrLp2W9TdE-1200-80.jpg "Disney Plus has reached 100 million subscribers in just a year and a half")
+
+
+[Disney Plus has reached 100 million subscribers in just a year and a half](https://www.techradar.com/news/disney-plus-has-reached-100-million-subscribers-in-just-a-year-and-a-half)
+
+
+> (Image credit: Marvel/Disney) It appears that Disney Plus' momentum will not be slowing down any time soon, with the streaming service reaching 100 million subscribers worldwide, as revealed by Disney CEO Bob Chapek during the company's annual shareholders meeting yesterday.Last month, Disney reported a subscriber-base of 94.9 million, and it's likely that the recent launch of Disney Plus in Singapore, along with the addition of its new Star brand in several non-US territories, were contributing factors to the boost in new members.
+
+
+***
+![The Google Pixel 6 could bring some welcome changes to the selfie camera](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/10/google-pixel-4a-5g-review-hayato-2.jpg "The Google Pixel 6 could bring some welcome changes to the selfie camera")
+
+
+[The Google Pixel 6 could bring some welcome changes to the selfie camera](https://www.androidcentral.com/google-pixel-6-rumored-selfie-camera-changes)
+
+
+> Source: Hayato Huseman / Android Central An update to the Google Camera app suggests changes being made to the Pixel 6. The Pixel 6 may move the selfie camera to the center while upgrading its video capabilities. The Pixel 5a may have a smaller camera hole than its predecessor. The Google Pixel 5a is expected to be the first smartphone launch of 2021 from the tech giant, and leaked renders of the device suggest it could arrive sooner than expected, at least relative to last year's models. While the renders are by no means official, there's a good chance that they're pretty accurate, and the Pixel 5a will look nearly identical to its predecessors, down to the hole-punch selfie camera.
+
+
+***
+![Microsoft Edge updates will make cross-device browsing seamless](https://cdn.mos.cms.futurecdn.net/6EsgWEi3jyBFsqRZvHfsRg-1200-80.jpg "Microsoft Edge updates will make cross-device browsing seamless")
+
+
+[Microsoft Edge updates will make cross-device browsing seamless](https://www.techradar.com/news/microsoft-edge-updates-will-make-cross-device-browsing-seamless)
+
+
+> (Image credit: Wachiwit / Shutterstock) Since releasing Chromium-based Edge last November, Microsoft has continually updated its browser with new features and capabilities to entice users to switch.Recently the software giant rolled out support for vertical tabs in Edge which allows power users to see all of their open tabs in a panel on the left side of their browser window. At the same time though, Microsoft is trying to reinvent the toolbar by making it possible for users to access their favorites, history and collections instantly while browsing the web.
+
+
+***
+!['Wolfwalkers' and 'Greyhound' earn nominations at 2021 BAFTA Awards](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/05/tom-hanks-greyhound.jpg "'Wolfwalkers' and 'Greyhound' earn nominations at 2021 BAFTA Awards")
+
+
+['Wolfwalkers' and 'Greyhound' earn nominations at 2021 BAFTA Awards](https://www.imore.com/wolfwalkers-and-greyhound-earn-nominations-2021-bafta-awards)
+
+
+> Source: Apple Wolfwalkers and Greyhound have each been nominated at the 2021 BAFTA Awards. Wolfwalkers has been nominated for Animated Film. Greyhound has been nominated for its sound and special effects work. Apple TV+ has received a handful of nominations for this year's BAFTA (British Academy of Film and Television Arts) awards. Both Wolfwalkers and Greyhound were nominated in different categories. Wolfwalkers, the Apple TV+ animated film that received ten nominations at the 2021 Annie Awards and a Golden Globe nomination for Best Animated Film, has also been nominated for Animated Film at the BAFTA Awards.
+
+
