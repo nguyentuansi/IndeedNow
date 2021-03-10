@@ -40775,3 +40775,53 @@
 > TL;DR: Udemy has released a wide range of free online courses covering topics like photo editing and coding. Online courses are a fantastic way of kickstarting a new career, boosting your CV, and learning something new. Most of the best courses provide lifetime access so you can learn at your own pace, with a bunch of resources that you can dip in and out of whenever you need them. Udemy is one of the most popular providers of online courses and tutorials, and you can take a wide range of them for free as of March 10.
 
 
+***
+![Russia slows Twitter's speed over failure to remove banned content](https://assets2.rappler.com/2021/02/reuters-021021-twitter-1615363403104.jpg "Russia slows Twitter's speed over failure to remove banned content")
+
+
+[Russia slows Twitter's speed over failure to remove banned content](https://www.rappler.com/technology/social-media/russia-slows-twitter-speed-over-failure-remove-banned-content)
+
+
+> Russia's state communications watchdog said on Wednesday it was restricting the use of Twitter by slowing down its speed, accusing the social media platform of repeatedly failing to remove banned content from its site. Roskomnadzor threatened to block the service completely and said there were more than 3,000 posts containing illegal content on it as of Wednesday, March 10. Twitter, like other US social media, is used widely inside Russia by allies of Kremlin critic Alexei Navalny whose jailing last month prompted nationwide protests.
+
+
+***
+![LG OLED TVs are at record low prices – but not for long](https://cdn.mos.cms.futurecdn.net/6SocKpvyyEZTLisMKxgdmA-1200-80.jpg "LG OLED TVs are at record low prices – but not for long")
+
+
+[LG OLED TVs are at record low prices – but not for long](https://www.techradar.com/news/lg-oled-tvs-are-at-record-low-prices-but-not-for-long)
+
+
+> (Image credit: TechRadar/LG) LG makes some of the most coveted OLED TVs in the business, and its 2020 models have just been hit by a massive discount.All three of the LG BX, LG CX and LG GX Gallery Series OLED models are now at a record-low price point, with a 55-inch B Series model even coming in at less than £1,000. (Not in the UK? Scroll down for deals in your region below.)It's a temporary flash sale, and will only last for a week from March 10 (today, at the time of writing), meaning the deal should end on March 17.
+
+
+***
+![TRAI delays new SMS rules by 7 days as customers face OTP problems](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/Screenshot_2021-03-10_at_1.17._0-647x363.png?S90xjGI880kxU0ClK_Oa6vch3y7F9FTf "TRAI delays new SMS rules by 7 days as customers face OTP problems")
+
+
+[TRAI delays new SMS rules by 7 days as customers face OTP problems](https://www.indiatoday.in/technology/news/story/trai-delays-new-sms-rules-by-7-days-as-customers-face-otp-problems-1777672-2021-03-10)
+
+
+> The TRAI has given seven more days to the principal entities to speed up the registration process so that the new rules can go into effect.SMSes with only registered principal entities, who are the message senders will get delivered to users.The Distributed Ledger Technology (DLT) is a blockchain-based technology and telecom operators have noted that they have implemented the new system.The Telecom Regulatory Authority of India (TRAI) has temporarily delayed the new SMS rules by seven days after many customers faced problems with OTP transactions earlier this week.
+
+
+***
+![Facebook reveals plan for augmented reality smart glasses](https://www.telegraph.co.uk/content/dam/technology/2021/03/10/Screenshot-2021-03-10-at-07-39-08_trans_NvBQzQNjv4Bq4J7r88xNRHxBjHjQmdZaxjW7w4CdI0WUNdtBqWFMm-c.png?impolicy=logo-overlay "Facebook reveals plan for augmented reality smart glasses")
+
+
+[Facebook reveals plan for augmented reality smart glasses](https://www.telegraph.co.uk/technology/2021/03/10/facebook-reveals-plan-augmented-reality-smart-glasses-live/)
+
+
+> Facebook has revealed its vision for augmented reality smart glasses, announcing that it will be used alongside a wrist-worn piece of technology that will track hand movements. The company's Reality Labs division is working on a wristband that includes an EMG sensor that would measure small movements of the hand. It's also planning to reveal what it called a 'haptic glove' that could be used to control the augmented reality headset worn on the head. Facebook's ambition is to build 'comfortable, all-day wearable devices,' it said, meaning people will be happy to wear Facebook's smart glasses throughout their day.
+
+
+***
+![Everything You Need to Know About Justice League Snyder Cut](https://i.gadgets360cdn.com/large/justice_league_snyder_cut_batfleck_small_1615362050820.jpg "Everything You Need to Know About Justice League Snyder Cut")
+
+
+[Everything You Need to Know About Justice League Snyder Cut](https://gadgets.ndtv.com/entertainment/features/justice-league-snyder-cut-india-release-date-time-review-full-movie-trailer-runtime-cast-price-watch-2387551)
+
+
+> Justice League Snyder Cut is, finally, nearly here. It feels almost unreal that a film which once existed as a mythical thing in the minds of DC fans and in an unfinished state on Zack Snyder's laptop will soon premiere online around the world. Of course, a lot has happened in between. Warner Bros. and HBO Max gave Snyder $70 million (about Rs. 510 crores) to finish the raw footage that he shot during the original Justice League production. Most of this footage was never used, as Snyder's replacement Joss Whedon decided to do major rewrites and did reshoots that raised the DC film's budget to $300 million (about Rs.
+
+
