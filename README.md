@@ -40681,3 +40681,50 @@
 > Source: Apple Wolfwalkers and Greyhound have each been nominated at the 2021 BAFTA Awards. Wolfwalkers has been nominated for Animated Film. Greyhound has been nominated for its sound and special effects work. Apple TV+ has received a handful of nominations for this year's BAFTA (British Academy of Film and Television Arts) awards. Both Wolfwalkers and Greyhound were nominated in different categories. Wolfwalkers, the Apple TV+ animated film that received ten nominations at the 2021 Annie Awards and a Golden Globe nomination for Best Animated Film, has also been nominated for Animated Film at the BAFTA Awards.
 
 
+***
+![Hackers gain access to Verkada surveillance cameras in Tesla facilities and other companies](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-03-10_at_9_1200_210310092257.17.-483x271.png "Hackers gain access to Verkada surveillance cameras in Tesla facilities and other companies")
+
+
+[Hackers gain access to Verkada surveillance cameras in Tesla facilities and other companies](https://www.indiatoday.in/technology/news/story/hackers-gain-access-to-verkada-surveillance-cameras-in-tesla-facilities-and-other-companies-1777556-2021-03-10)
+
+
+> As per reports, the hackers were able to access the live footage from over 150,000 cameras in Tesla facilities and other companies.Ankita Chakravarti | March 10, 2021 | Updated 09:22 IST
+
+
+***
+[Real estate software and data company VTS acquires Rise Buildings, which develops a mobile app for managing properties, sources say for about $100M (Peter Grant/Wall Street Journal)](http://www.techmeme.com/210309/p44#a210309p44)
+
+
+> Peter Grant / Wall Street Journal: Real estate software and data company VTS acquires Rise Buildings, which develops a mobile app for managing properties, sources say for about $100M — Real-estate firm VTS is buying startup Rise Buildings in $100 million deal — Investors are pouring money into phone apps that enable companies …
+
+
+***
+![Best cheap Chromebook deals for March 2021](https://icdn3.digitaltrends.com/image/digitaltrends/hp-chromebook-x360-12-inch-hd-touchscreen-laptop-1-1200x630-c-ar1.91.jpg "Best cheap Chromebook deals for March 2021")
+
+
+[Best cheap Chromebook deals for March 2021](https://www.digitaltrends.com/computing/cheap-chromebook-deals/)
+
+
+> If you're looking for laptop deals and you're shopping on a tight budget, don't limit your search to just Windows and Mac. Chromebooks — laptops that feature Google's cloud-based Chrome operating system — have become a hot commodity among students, remote workers, and everybody else who needs a solid work machine and doesn't want to pay out the nose. If any of those describe you, you've found the right place, because we've scooped up all the best cheap Chromebook deals available this month from no-frills workstations to the latest 2-in-1s.
+
+
+***
+![Asus ROG Phone 5 India launch today, here are specifications, expected price, and more](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/asus_rog_phone_5_launch_event-483x271_1200_210310092305.jpeg "Asus ROG Phone 5 India launch today, here are specifications, expected price, and more")
+
+
+[Asus ROG Phone 5 India launch today, here are specifications, expected price, and more](https://www.indiatoday.in/technology/news/story/asus-rog-phone-5-india-launch-price-specifications-camera-flipkart-1777547-2021-03-10)
+
+
+> Asus ROG Phone 5 is going to be a gaming beast that goes into the specifications overdrive to bring you the best performance.Shubham Verma | March 10, 2021 | Updated 09:03 IST
+
+
+***
+![Podcast Downloads in Australia Exceed 43 Million in February 2021](https://mms.businesswire.com/media/20210309006119/en/722487/23/3847276_TD_highres_logo%5B1%5D.jpg "Podcast Downloads in Australia Exceed 43 Million in February 2021")
+
+
+[Podcast Downloads in Australia Exceed 43 Million in February 2021](https://www.businesswire.com/news/home/20210309006119/en/Podcast-Downloads-in-Australia-Exceed-43-Million-in-February-2021)
+
+
+> March 09, 2021 10:33 PM Eastern Standard Time SYDNEY--(BUSINESS WIRE)--Triton Digital®, the global technology and services leader to the digital audio and podcast industry, announced today the release of the latest Australian Podcast Ranker. The Ranker provides insight into the Top 100 Podcasts as well as the Top 10 Publishers in Australia from 1 February through 28 February, 2021, as measured by Triton's Podcast Metrics measurement service. A number of new entities appear in the Top 100 Podcast Ranker this reporting period, including The Apology Line (Wondery), The Daily Show with Trevor Noah: Ears Edition (ARN/iHeartMedia), and Naked City (Nine Publishing).
+
+
