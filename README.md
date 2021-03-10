@@ -41066,3 +41066,47 @@
 > March 10, 2021 12:58 PM Eastern Standard Time SCOTTSDALE, Ariz.--(BUSINESS WIRE)--Emerge ranks #23 in America's Top 500 Best Startup Employers by business media outlet, Forbes. The list was created in partnership with market and consumer research firm, Statista, and evaluated three key factors: employee satisfaction, employee reputation and company growth. 'We have always felt that our culture and employee engagement were special, but the inclusion on this list has really validated that. To be in such a prestigious publication, amongst such amazing companies, and be ranked as high as we are, is one of our proudest moments,' Michael Leto, CEO said.
 
 
+***
+![Acer's Spin 311 can't compete with the Lenovo Chromebook Duet. Here's why!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/lenovo-chromebook-duet-laptop-mode-3.jpg "Acer's Spin 311 can't compete with the Lenovo Chromebook Duet. Here's why!")
+
+
+[Acer's Spin 311 can't compete with the Lenovo Chromebook Duet. Here's why!](https://www.androidcentral.com/lenovo-chromebook-duet-vs-acer-chromebook-spin-311-3h)
+
+
+> With the keyboard and kickstand included in-box, the Duet is great whether you're lounging on the couch to read comics or typing emails while you're at the corner cafe. The keyboard is a tiny bit cramped, but it's easy to adapt to so long as your hands are slender. $231 at Amazon (64GB) Higher quality screen More storage Detachable keyboard Smaller screen Quiet speakers Acer cut every bit of fat and excess from previous generations to get the price for the latest 311 down to its lowest yet. If you need a Chromebook that's more suited to being used in your lap or in cramped quarters, the Spin 311 can fit the bill so long as you don't need tons of storage.
+
+
+***
+![Review: The Twelve South ParcSlope for MacBook & iPad really stands up](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/twelve-south-parcslope-with-macbook-air.jpeg "Review: The Twelve South ParcSlope for MacBook & iPad really stands up")
+
+
+[Review: The Twelve South ParcSlope for MacBook & iPad really stands up](https://www.imore.com/twelve-south-parcslope-macbook-ipad-review)
+
+
+> Source: Joe Wituschek / iMore When I moved to a new apartment that actually had a room that I could turn into an office, I immediately jumped into figuring out the perfect home office setup for me. I'm quite minimal, so I've held off on the idea of getting a monitor with a separate trackpad and monitor because of not only clutter but also cost. Plus, I've been working at home from my couch for the better part of a year, so why swing the pendulum so far the other way as soon as the opportunity exists? I've always been happy working from a MacBook Air or MacBook Pro.
+
+
+***
+![Certain suburbs being left to swelter](https://content.api.news/v3/images/bin/3e708832023331698c156260cefffefb "Certain suburbs being left to swelter")
+
+
+[Certain suburbs being left to swelter](https://www.news.com.au/technology/environment/climate-change/certain-suburbs-being-left-to-swelter-under-higher-temperatures-due-to-lack-of-vegetation/news-story/d3885f5475ff85b02d994d7f5bcf0285)
+
+
+> Some suburbs in Australia's major cities are suffering from rising temperatures more than others – but it could be fixed with one simple solution.Certain suburbs in Australia's major cities are being left to swelter under higher temperatures – which could be reduced through one simple measure.Monash University researchers have released a report today commissioned by the Australian Conservation Foundation that says Australia's major cities need more trees and vegetation to reduce serious heatwave impacts.
+
+
+***
+[Millions of websites offline after fire at French cloud services firm](https://bdnews24.com/technology/2021/03/11/millions-of-websites-offline-after-fire-at-french-cloud-services-firm)
+
+
+> A fire at a French cloud services firm has disrupted millions of websites, knocking out government agencies' portals, banks, shops, news websites and taking out a chunk of the .FR web space, according to internet monitors.
+
+
+***
+[Rural Sweden is getting cashierless shops thanks to BankID, a national ID app operated by Sweden's banks, and barcodes that bill pre-registered bank cards (Maddy Savage/BBC)](http://www.techmeme.com/210310/p38#a210310p38)
+
+
+> Maddy Savage / BBC: Rural Sweden is getting cashierless shops thanks to BankID, a national ID app operated by Sweden's banks, and barcodes that bill pre-registered bank cards — Dark clouds loom over the pine forest surrounding Hummelsta, a town of 1,000 people that hasn't had any local shops for a decade.
+
+
