@@ -40925,3 +40925,47 @@
 > Source: Rene Ritchie / iMore In this world of social media, we've got a lot of chat channels available. Whether you're checking your Twitter DMs, Facebook Messenger postings, or iMessages, you can have most of them in one place with a dedicated chat client. You can also go in another direction and use one of the newer solutions like WhatsApp and Telegram. These, like Apple's iMessage, are more stand-alone and emphasize security. Even the best MacBook needs tools to communicate with your friends and family conveniently and safely.
 
 
+***
+![Stand out by creating a custom watch face for your Wear OS smartwatch](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/ticwatch-pro-3-lloyd-lifestyle-01.jpg "Stand out by creating a custom watch face for your Wear OS smartwatch")
+
+
+[Stand out by creating a custom watch face for your Wear OS smartwatch](https://www.androidcentral.com/how-create-custom-watch-faces-wear-os)
+
+
+> Source: Chris Wedel/Android Central One of the best parts of using a smartwatch is being able to change your watch face — and there are some great ones out there, but do you know how to create custom watch faces on Wear OS for yourself? The best Android smartwatches all have access to a wide array of watch faces that are pre-made for you to install and use. However, there are only a few options that make creating personalized watch faces easy. From elaborate and intricate designs that rival even the most well-known traditional watches, to designs the just make you smile, you have it all — and here's how.
+
+
+***
+[Web security: the must-know for developers](https://www.reddit.com/r/programming/comments/m1y1je/web_security_the_mustknow_for_developers/)
+
+
+> submitted by /u/Vooodou [link] [comments]
+
+
+***
+[Twitter Spaces Vs Clubhouse: Which App Is Safer?](https://www.thequint.com/tech-and-auto/twitter-spaces-vs-clubhouse-which-app-is-safer)
+
+
+> Here is a look on how these apps store and manage your conversation data.
+
+
+***
+![LOGIX Fiber Networks Announces Partner Agreement with AppSmart](https://mms.businesswire.com/media/20210310005258/en/864287/23/LOGIX_3.10_Image.jpg "LOGIX Fiber Networks Announces Partner Agreement with AppSmart")
+
+
+[LOGIX Fiber Networks Announces Partner Agreement with AppSmart](https://www.businesswire.com/news/home/20210310005258/en/LOGIX-Fiber-Networks-Announces-Partner-Agreement-with-AppSmart)
+
+
+> March 10, 2021 08:55 AM Eastern Standard Time HOUSTON--(BUSINESS WIRE)--LOGIX Fiber Networks, a Texas-based provider of highly secure fiber-based data, voice and data center services, has partnered with AppSmart® to expand its telecom service offerings across Texas. LOGIX has provided fiber-based connectivity services to Texas businesses for more than 35 years. The company operates the state's largest independently owned network with 285,000 miles of fiber, 3,000 on-net buildings and 100+ connected data centers in major Texas cities.
+
+
+***
+![Medallia Joins Guidewire PartnerConnect Solution Alliance Ecosystem to Improve Trust, Retention and Engagement for Insurers](https://mms.businesswire.com/media/20210310005051/en/560949/23/guidewire_logo_new_2color_h_screen.jpg "Medallia Joins Guidewire PartnerConnect Solution Alliance Ecosystem to Improve Trust, Retention and Engagement for Insurers")
+
+
+[Medallia Joins Guidewire PartnerConnect Solution Alliance Ecosystem to Improve Trust, Retention and Engagement for Insurers](https://www.businesswire.com/news/home/20210310005051/en/Medallia-Joins-Guidewire-PartnerConnect-Solution-Alliance-Ecosystem-to-Improve-Trust-Retention-and-Engagement-for-Insurers)
+
+
+> March 10, 2021 08:55 AM Eastern Standard Time SAN FRANCISCO & SAN MATEO, Calif.--(BUSINESS WIRE)--Medallia, Inc. (NYSE: MDLA), a leading customer and employee experience management company, and Guidewire Software, Inc. (NYSE: GWRE), the platform P&C insurers trust to engage, innovate, and grow efficiently, today announced that Medallia has joined Guidewire PartnerConnect as a Solution partner. The Medallia Experience Cloud solution has been used by leading property and casualty (P&C) carriers around the world to drive higher CSAT/NPS® scores, boost customer retention and deliver a more satisfying experience across the entire policy lifecycle.
+
+
