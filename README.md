@@ -40875,3 +40875,53 @@
 > Torrent clients are not actual people, but rather a method of downloading files that uses a peer-to-peer system. These clients give the digital world a faster way to get large files, such as movies. But picking the best torrent client can be difficult with all the options available. There are the bare-bones ones like Deluge, or if you're looking for something with fuller features, then Tixati could be your next client. Check out our list of recommended torrent clients to learn about these and more.
 
 
+***
+![The second season of the popular Call of Duty: Mobile begins today!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/09/call-of-duty-mobile-image-4pa7-4pa7.jpg "The second season of the popular Call of Duty: Mobile begins today!")
+
+
+[The second season of the popular Call of Duty: Mobile begins today!](https://www.imore.com/call-duty-mobile-season-2-begins-today)
+
+
+> Source: Activision Season 2 of the popular Call of Duty: Mobile will begin on March 10, 2021, starting at 4 p.m. PT, 7 p.m. ET for players on iOS and Android devices. The new season brings with it many requested features for the game, such as new maps, weapons, and events. There are also new updates to existing features of Call of Duty: Mobile, such as the Battle Royale mode, Lucky Draws and Bundles. Players who own both the free and paid versions of the game can enjoy new weapons, like the assault rifle AS VAL, and the SP-R-208 sniper rifle which will appear later in the season through a seasonal challenge.
+
+
+***
+![Apple has rescheduled new MacBook mass production, says report](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/macbook-air-m1-29.jpg "Apple has rescheduled new MacBook mass production, says report")
+
+
+[Apple has rescheduled new MacBook mass production, says report](https://www.imore.com/apple-has-rescheduled-new-macbook-mass-production-says-report)
+
+
+> Source: Daniel Bader / Android Central A new report indicates Apple has rescheduled production for its new MacBook models, expected later this year. From Nikkei Asia: Meanwhile, Apple has rescheduled plans to begin mass-producing two new MacBook laptops in the second half of the year, from the previous schedule of May or June, Nikkei has learned. The two MacBooks will be powered by the Apple Silicon processor as part of a two-year transition away from longtime supplier Intel's microprocessors. It is widely rumored Apple will unveil two new MacBook models later this year featuring Apple silicon and mini-LED displays, including a new 14-inch model and a replacement for the current 16-inch MacBook Pro.
+
+
+***
+![Cheese raises $3.6M for its digital bank aimed at the Asian-American community – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/Cheese-cofounders.jpeg?w=764 "Cheese raises $3.6M for its digital bank aimed at the Asian-American community – TechCrunch")
+
+
+[Cheese raises $3.6M for its digital bank aimed at the Asian-American community – TechCrunch](https://techcrunch.com/2021/03/10/cheese-raises-3-6m-for-its-digital-bank-aimed-at-the-asian-american-community/)
+
+
+> Many things have accelerated in the world of fintech over the past year, not the least of which is the trend of digital banks aimed at specific communities in the U.S. In the past few months alone, a number of neobanks targeting the Black and Latinx communities have emerged. Most recently, we covered the $5 million raise of one such bank — First Boulevard. Today, Cheese announced the launch of its digital banking platform that is aimed at primarily serving the Asian-American community. Co-founder and CEO Ken Lian came to the United States from China in 2008 to attend college.
+
+
+***
+![Wabtec Declares Regular Quarterly Common Dividend](https://mms.businesswire.com/media/20210310005022/en/863781/23/Wabtec-Corporation.jpg "Wabtec Declares Regular Quarterly Common Dividend")
+
+
+[Wabtec Declares Regular Quarterly Common Dividend](https://www.businesswire.com/news/home/20210310005022/en/Wabtec-Declares-Regular-Quarterly-Common-Dividend)
+
+
+> March 10, 2021 07:00 AM Eastern Standard Time PITTSBURGH--(BUSINESS WIRE)--Wabtec Corporation (NYSE: WAB) announced today that its Board of Directors declared a regular quarterly common dividend of 12 cents per share, payable on May 21, 2021 to holders of record on May 7, 2021. About Wabtec Corporation Wabtec Corporation is a leading global provider of equipment, systems, digital solutions and value-added services for freight and transit rail. Drawing on nearly four centuries of collective experience across Wabtec, GE Transportation and Faiveley Transport, the company has unmatched digital expertise, technological innovation, and world-class manufacturing and services, enabling the digital-rail-and-transit ecosystems.
+
+
+***
+![Want to chat with your friends on Mac? Check out these messaging apps.](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/08/macos-big-sur-preview-messages-hero.jpg "Want to chat with your friends on Mac? Check out these messaging apps.")
+
+
+[Want to chat with your friends on Mac? Check out these messaging apps.](https://www.imore.com/best-messaging-apps-mac)
+
+
+> Source: Rene Ritchie / iMore In this world of social media, we've got a lot of chat channels available. Whether you're checking your Twitter DMs, Facebook Messenger postings, or iMessages, you can have most of them in one place with a dedicated chat client. You can also go in another direction and use one of the newer solutions like WhatsApp and Telegram. These, like Apple's iMessage, are more stand-alone and emphasize security. Even the best MacBook needs tools to communicate with your friends and family conveniently and safely.
+
+
