@@ -41016,3 +41016,53 @@
 > As the U.S. reportedly readies for retaliation against Russia for hacking into some of the government's most sensitive federal networks, the U.S. is facing another old adversary in cyberspace: China. Microsoft last week revealed a new hacking group it calls Hafnium, which operates in, and is backed by, China. Hafnium used four previously unreported vulnerabilities — or zero-days — to break into at least tens of thousands of organizations running vulnerable Microsoft Exchange email servers and steal email mailboxes and address books.
 
 
+***
+![Thank You Python Community](https://external-preview.redd.it/4wJTwtvn8LCAAONPKvgJU8ucnofU9MDqnmBoCXlbwaI.jpg?auto=webp&s=8c4eebe867f0bf9ad9eeb0246a642fef243dcd41 "Thank You Python Community")
+
+
+[Thank You Python Community](https://www.reddit.com/r/Python/comments/m23zks/thank_you_python_community/)
+
+
+> I just wanted to thank the community for making my project what it is today. When I shared this project in this community it was just a cli script that downloaded youtube videos but through this community I found people who contributed to the project and turned it into a full gui and made it more useful. I'm just really thankful for being part of python community https://github.com/YouTubeDownload/YouTubeDownload
+
+
+***
+![Short video with example of Don't Repeat Yourself (D.R.Y)](https://external-preview.redd.it/d6MEDCavaZhl8m4MYqheun2Ks-iqLaauRamYk-GnI60.jpg?auto=webp&s=47e78eeb00d1a7b68969745b86d3179daef4b1da "Short video with example of Don't Repeat Yourself (D.R.Y)")
+
+
+[Short video with example of Don't Repeat Yourself (D.R.Y)](https://www.reddit.com/r/programming/comments/m23xpt/short_video_with_example_of_dont_repeat_yourself/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Protect your S20 Plus's display with these screen protectors](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/02/galaxy-s20-home-screen.jpg "Protect your S20 Plus's display with these screen protectors")
+
+
+[Protect your S20 Plus's display with these screen protectors](https://www.androidcentral.com/best-samsung-galaxy-s20-plus-screen-protectors)
+
+
+> Best Samsung Galaxy S20 Plus Screen Protectors Android Central 2021 The Samsung Galaxy S20+ has everything you could want from a 2020 flagship. There's a powerful Snapdragon 865 processor, multiple rear cameras, and a gorgeous 120Hz AMOLED display. That display is one of the main reasons to pick up the S20+, but if it happens to get scratched or shattered, the experience won't be the same. Prevent that from happening by picking up one of the best Galaxy S20+ screen protectors. Trust us — you want one.
+
+
+***
+![GTA 5 PS5 and Xbox Series X: release date, enhancements and what we know](https://cdn.mos.cms.futurecdn.net/g2eUmC9mie6Et6Aic4zHPF-1200-80.jpg "GTA 5 PS5 and Xbox Series X: release date, enhancements and what we know")
+
+
+[GTA 5 PS5 and Xbox Series X: release date, enhancements and what we know](https://www.techradar.com/news/gta-5-ps5-xbox-series-x)
+
+
+> GTA 5 PS5 and Xbox Series X is happening. The iconic GTA 5 will have released on three generations of consoles after it arrives, "expanded and enhanced", on the new consoles later this year. More than seven years after its first release, and 130 million copies shipped later, GTA 5 (and its multiplayer component, GTA Online) is still enormously successful for Rockstar Games and Take-Two Interactive. Even if it means you're not getting GTA 6 in the immediate future, the key intent here is keeping GTA Online's player base engaged across generations.
+
+
+***
+![Emerge Ranks #23 on Forbes Top 500 Best Startup Employers](https://mms.businesswire.com/media/20210310005814/en/864409/23/Forbes-BizWire.jpg "Emerge Ranks #23 on Forbes Top 500 Best Startup Employers")
+
+
+[Emerge Ranks #23 on Forbes Top 500 Best Startup Employers](https://www.businesswire.com/news/home/20210310005814/en/Emerge-Ranks-23-on-Forbes-Top-500-Best-Startup-Employers)
+
+
+> March 10, 2021 12:58 PM Eastern Standard Time SCOTTSDALE, Ariz.--(BUSINESS WIRE)--Emerge ranks #23 in America's Top 500 Best Startup Employers by business media outlet, Forbes. The list was created in partnership with market and consumer research firm, Statista, and evaluated three key factors: employee satisfaction, employee reputation and company growth. 'We have always felt that our culture and employee engagement were special, but the inclusion on this list has really validated that. To be in such a prestigious publication, amongst such amazing companies, and be ranked as high as we are, is one of our proudest moments,' Michael Leto, CEO said.
+
+
