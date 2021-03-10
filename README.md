@@ -40969,3 +40969,50 @@
 > March 10, 2021 08:55 AM Eastern Standard Time SAN FRANCISCO & SAN MATEO, Calif.--(BUSINESS WIRE)--Medallia, Inc. (NYSE: MDLA), a leading customer and employee experience management company, and Guidewire Software, Inc. (NYSE: GWRE), the platform P&C insurers trust to engage, innovate, and grow efficiently, today announced that Medallia has joined Guidewire PartnerConnect as a Solution partner. The Medallia Experience Cloud solution has been used by leading property and casualty (P&C) carriers around the world to drive higher CSAT/NPS® scores, boost customer retention and deliver a more satisfying experience across the entire policy lifecycle.
 
 
+***
+[Epic Games sues Google in Australia, arguing Google forces developers to use its payments system, expanding on lawsuits in US and UK against Google and Apple (Shiyin Chen/Bloomberg)](http://www.techmeme.com/210310/p25#a210310p25)
+
+
+> Shiyin Chen / Bloomberg: Epic Games sues Google in Australia, arguing Google forces developers to use its payments system, expanding on lawsuits in US and UK against Google and Apple — - Fortnite maker has already sued Google in the U.S. and U.K. — Dispute centers around fees charged by app store operators
+
+
+***
+![Scientists create ‘electronic textiles' that could change the future of clothes](https://static.independent.co.uk/2020/08/19/11/breaking-news.png?width=1200&auto=webp&quality=75 "Scientists create ‘electronic textiles' that could change the future of clothes")
+
+
+[Scientists create ‘electronic textiles' that could change the future of clothes](https://www.independent.co.uk/life-style/gadgets-and-tech/smart-electronic-textiles-clothes-b1815276.html)
+
+
+> Scientists have created flowing smart textiles that could potentially change the future of both displays and clothing, they say.The newly created textile is like most other fabrics: it is flexible, breathable and durable, allowing it to be used for a variety of purposes. It can be washed and worn without worrying about it being destroyed or wearing out.But it is also electronic and functions like a display. It can even be integrated with a touch-sensitive keyboard and power supply, both made of fabric, that essentially turn the fabric itself into a computer.
+
+
+***
+![High-energy particle spotted speeding through Earth](https://static.independent.co.uk/2020/08/19/11/breaking-news.png?width=1200&auto=webp&quality=75 "High-energy particle spotted speeding through Earth")
+
+
+[High-energy particle spotted speeding through Earth](https://www.independent.co.uk/life-style/gadgets-and-tech/space/high-energy-particle-icecube-neutrino-b1815280.html)
+
+
+> Scientists have watched a high-energy particle speed through the Earth in what they are hailing as a major breakthrough.The particle fell towards Earth in December 2016, making its way from outer space at almost the speed of light. As it flew into the Earth, it smashed into an electron buried inside an ice sheet at the South Pole – producing a particle that then decayed into a host of secondary particles.Those particles were picked up by the IceCube Neutrino Observatory, a huge telescope that is buried underneath the surface of the Antarctic.
+
+
+***
+![Hackers Gain Access to 150K+ Security Cameras in Hospitals, Schools, Companies](https://media.breitbart.com/media/2016/11/laptop-girl-dark-getty.jpg "Hackers Gain Access to 150K+ Security Cameras in Hospitals, Schools, Companies")
+
+
+[Hackers Gain Access to 150K+ Security Cameras in Hospitals, Schools, Companies](https://www.breitbart.com/tech/2021/03/10/hackers-gain-access-to-150k-security-cameras-in-hospitals-schools-companies/)
+
+
+> A group of hackers has reportedly breached a huge collection of security-camera data collected by Silicon Valley startup Verkada, gaining access to live streams of 150,000 surveillance cameras inside hospitals, police departments, prisons, schools, and companies including Tesla. Bloomberg reports that a group of hackers claim to have breached a massive trove of security-camera data collected by the Silicon Valley startup firm Verkada. The hackers have allegedly gained access to the live feeds of 150,000 surveillance cameras inside hospitals, police departments, companies, prisons, and schools.
+
+
+***
+![America's small businesses face the brunt of China's Exchange server hacks](https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-151047981.jpg?w=600 "America's small businesses face the brunt of China's Exchange server hacks")
+
+
+[America's small businesses face the brunt of China's Exchange server hacks](https://techcrunch.com/2021/03/10/america-small-business-hafnium-exchange-hacks/)
+
+
+> As the U.S. reportedly readies for retaliation against Russia for hacking into some of the government's most sensitive federal networks, the U.S. is facing another old adversary in cyberspace: China. Microsoft last week revealed a new hacking group it calls Hafnium, which operates in, and is backed by, China. Hafnium used four previously unreported vulnerabilities — or zero-days — to break into at least tens of thousands of organizations running vulnerable Microsoft Exchange email servers and steal email mailboxes and address books.
+
+
