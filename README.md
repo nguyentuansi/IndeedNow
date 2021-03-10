@@ -41110,3 +41110,53 @@
 > Maddy Savage / BBC: Rural Sweden is getting cashierless shops thanks to BankID, a national ID app operated by Sweden's banks, and barcodes that bill pre-registered bank cards — Dark clouds loom over the pine forest surrounding Hummelsta, a town of 1,000 people that hasn't had any local shops for a decade.
 
 
+***
+![COVID pandemic has worsened food insecurity, left more children going hungry](https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/10/12547939-535e-4e3e-9440-513a07fb44f7/thumbnail/1200x630/403eb42fe1856d631531ed61b6c2e6d0/cbsn-fusion-covid-pandemic-food-insecurity-children-thumbnail-665100-640x360.jpg "COVID pandemic has worsened food insecurity, left more children going hungry")
+
+
+[COVID pandemic has worsened food insecurity, left more children going hungry](https://www.cbsnews.com/video/covid-pandemic-food-insecurity-children/)
+
+
+> COVID pandemic has worsened food insecurity, left more children going hungry The campaign "No Kid Hungry" estimates 1 in 4 kids in the U.S. face hunger today because of the COVID-19 pandemic. Pamela Taylor is the senior vice president of "Share our Strength" and joins CBSN's Tanya Rivero for a closer look at the problem.
+
+
+***
+![Standard Competencies by Software Engineering Level](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Standard Competencies by Software Engineering Level")
+
+
+[Standard Competencies by Software Engineering Level](https://www.reddit.com/r/programming/comments/m2a3kw/standard_competencies_by_software_engineering/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Why Apple's Stock Sell-Off Is A Golden Buying Opportunity](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/apple_wwdc20-keynote-tim-cook_06222020_9.jpg "Why Apple's Stock Sell-Off Is A Golden Buying Opportunity")
+
+
+[Why Apple's Stock Sell-Off Is A Golden Buying Opportunity](https://www.benzinga.com/analyst-ratings/analyst-color/21/03/20099210/why-apples-stock-sell-off-is-a-golden-buying-opportunity)
+
+
+> Apple Inc. (NASDAQ: AAPL) shares may have taken a beating in the recent tech sell-off, but an analyst at Wedbush analyst said his conviction in the stock has only increased. The Apple Analyst: Daniel Ives has an Outperform rating and $175 price target for Apple shares, with the bull case price target at $225. Wedbush added the stock to its "Best Ideas" list.  The Apple Thesis: After a stellar December quarter, when Apple managed to crush iPhone estimates, some cuts in the iPhone forecasts for fiscal year 2021 were discounted by the market, Ives said in a note.
+
+
+***
+![Make gaming and chatting easier with a PS4 or PS5 compatible keyboard](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/05/playstation-4-keyboard.jpg "Make gaming and chatting easier with a PS4 or PS5 compatible keyboard")
+
+
+[Make gaming and chatting easier with a PS4 or PS5 compatible keyboard](https://www.androidcentral.com/best-keyboard-playstation-4)
+
+
+> Best Keyboards for PS4 and PS5 Android Central 2021 So, you want a keyboard to use with your PS4 or PS5. If you want to use it with games, know that most PS4 games only support keyboards for sending messages to other players in-game, not as an alternative controller. Because of this, you should probably save your money and don't go all-out on a fancy mechanical gaming keyboard. A compact or lightweight keyboard can sit next to you on the couch while you play games and is just as easy to pull into your lap for a quick message.
+
+
+***
+![Rust's async isn't f#@king colored!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Rust's async isn't f#@king colored!")
+
+
+[Rust's async isn't f#@king colored!](https://www.reddit.com/r/programming/comments/m29uju/rusts_async_isnt_fking_colored/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
