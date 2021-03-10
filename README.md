@@ -40728,3 +40728,50 @@
 > March 09, 2021 10:33 PM Eastern Standard Time SYDNEY--(BUSINESS WIRE)--Triton Digital®, the global technology and services leader to the digital audio and podcast industry, announced today the release of the latest Australian Podcast Ranker. The Ranker provides insight into the Top 100 Podcasts as well as the Top 10 Publishers in Australia from 1 February through 28 February, 2021, as measured by Triton's Podcast Metrics measurement service. A number of new entities appear in the Top 100 Podcast Ranker this reporting period, including The Apology Line (Wondery), The Daily Show with Trevor Noah: Ears Edition (ARN/iHeartMedia), and Naked City (Nine Publishing).
 
 
+***
+![Tesla comes clean on self-driving claims](https://content.api.news/v3/images/bin/cddb7e1d2fc2b168003fd8d9f0357772 "Tesla comes clean on self-driving claims")
+
+
+[Tesla comes clean on self-driving claims](https://www.news.com.au/technology/motoring/luxury/teslas-full-self-driving-mode-exposed/news-story/947bd36e493e6de509b96ddfb66a554c)
+
+
+> The electric car maker has copped flak for a controversially named feature on its products, and now it has been caught out.Tesla has admitted one of its most controversial features doesn't live up to its name.The American electric car maker has talked up the performance and capabilities of its Full Self Driving Mode, but documents sent by Tesla to the California Department of Motor Vehicles (DMV) provide a conflicting opinion.According to US publication Car and Driver, the documents were acquired via a public record request by legal website Plainsite.
+
+
+***
+![Get python certification course](https://external-preview.redd.it/OBNhaKurMRk1tLtLclDjATbHBzPDsicBkF5MrvECcnE.jpg?auto=webp&s=b1a3467ee5f361c6bb54dbcf134b80a7291a9c66 "Get python certification course")
+
+
+[Get python certification course](https://www.reddit.com/r/Python/comments/m1qbae/get_python_certification_course/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Community group-buy firms fined, women boost consumption · TechNode](https://technode.com/2021/03/10/china-fines-community-group-buy-firms-she-economy-retailheads/)
+
+
+> Last week, China fined five community group-buy platforms for price dumping. The 'she economy' is on the rise as consumption from Chinese women grows. Cross-border e-commerce site Ymatou and coffee chain Manner Coffee receive new funding. China's top market regulator levied fines totaling RMB 6.5 million (around $1 million) on five community group-buy platforms for price dumping, reinforcing Beijing's efforts to regulate the red hot industry. The companies subject to the penalty are Didi's Chengxin Youxuan, Pinduoduo's Duoduo Maicai, Meituan's Meituan Youxuan, Alibaba-backed Nicetuan, and Wuhan-based Shixianghui.
+
+
+***
+![Virtualising: Host / Guest combinations (multiple displays)](https://images.macrumors.com/social/?t=2287768&v=6 "Virtualising: Host / Guest combinations (multiple displays)")
+
+
+[Virtualising: Host / Guest combinations (multiple displays)](https://forums.macrumors.com/threads/virtualising-host-guest-combinations-multiple-displays.2287768/)
+
+
+> Jun 5, 2013 1,563 1,250 Australia Hi Folks, Just wondering if anyone happens to know a solution to getting virtualising working - eg running older (32 bit) macOS apps on newer systems, when the following conditions are required: multiple displays on Host, and Guest Displays are set to use a single space for all displays (one menubar only on the main display) on Host & Guest Guest preferably runs as a Space. So I have a triple-display system, with a single space, so just one menubar on the centre display (single space is so I can span things across displays).
+
+
+***
+![All the best online Udemy courses that you can take for free](https://mondrian.mashable.com/2021%252F03%252F10%252F77%252Fffa41755415e4298b0d3f21b7059a3f8.166a2.png%252F1200x630.png?signature=FBtLdi_TLA3CyPK_56p8tGtH3nU= "All the best online Udemy courses that you can take for free")
+
+
+[All the best online Udemy courses that you can take for free](https://mashable.com/uk/shopping/march-10-best-free-online-courses/)
+
+
+> TL;DR: Udemy has released a wide range of free online courses covering topics like photo editing and coding. Online courses are a fantastic way of kickstarting a new career, boosting your CV, and learning something new. Most of the best courses provide lifetime access so you can learn at your own pace, with a bunch of resources that you can dip in and out of whenever you need them. Udemy is one of the most popular providers of online courses and tutorials, and you can take a wide range of them for free as of March 10.
+
+
