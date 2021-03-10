@@ -40594,3 +40594,50 @@
 > It's finally here: the Sonos Roam has been announced, with the wireless speaker being described by the company's CEO Patrick Spence as 'the smartest speaker we have ever built'. The portable speaker – which comes with both Wi-Fi and Bluetooth connectivity – will be released on April 20, and is available to preorder from the Sonos website now for $169 / £159 / AU$279.Boasting a lightweight, water-resistant and dust-proof build, the Sonos Roam bridges the gap between smart assistant and portable speaker, coming with Alexa and Google Assistant built in for smart home control.
 
 
+***
+![I created a very interesting tutorial that has never been done before. It's a tooltip with position detection on the screen from scratch (it will auto reposition so it will not overflow the screen/container), the concept could be applied to many situations (eg. dropdown)](https://external-preview.redd.it/uCbB2CoULDl6oXQMqqO0dsYfujnlxAvFSrALk3FopaI.jpg?auto=webp&s=a11709a3034625217b730855af314897909c6e34 "I created a very interesting tutorial that has never been done before. It's a tooltip with position detection on the screen from scratch (it will auto reposition so it will not overflow the screen/container), the concept could be applied to many situations (eg. dropdown)")
+
+
+[I created a very interesting tutorial that has never been done before. It's a tooltip with position detection on the screen from scratch (it will auto reposition so it will not overflow the screen/container), the concept could be applied to many situations (eg. dropdown)](https://www.reddit.com/r/programming/comments/m1kerk/i_created_a_very_interesting_tutorial_that_has/)
+
+
+> I created a very interesting tutorial that has never been done before. It's a tooltip with position detection on the screen from scratch (it will auto reposition so it will not overflow the screen/container), the concept could be applied to many situations (eg. dropdown)
+
+
+***
+[Spain's Jobandtalent raises €180m to drive ecommerce expansion](https://www.ft.com/content/8662ba2e-b691-4922-94ab-16a671c2a68a)
+
+
+> Gain a global perspective on the US and go beyond with curated news and analysis from 600 journalists in 50+ countries covering politics, business, innovation, trends and more. Choose your subscription Full Terms and Conditions apply to all Subscriptions. Learn more and compare subscriptions
+
+
+***
+![Jobandtalent takes $120M from Softbank to enter the US market – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/Series-D-image.png "Jobandtalent takes $120M from Softbank to enter the US market – TechCrunch")
+
+
+[Jobandtalent takes $120M from Softbank to enter the US market – TechCrunch](https://techcrunch.com/2021/03/09/jobandtalent-takes-120m-from-softbank-to-enter-the-us-market/)
+
+
+> Spain's Jobandtalent, a digital temp staffing agency startup which operates a dual-sided platform that matches temps with employers needing casual labor in sectors like ecommerce, warehousing, logistics and manufacturing, has grabbed €100 million (~$120M) in Series D funding from SoftBank's Vision Fund 2. Previous investors — including Atomico, Seek, DN Capital, InfraVia, Quadrille, Kibo and FJ Labs — also participated in the round. The new raise fast-follows a $108M top up to Jobandtalent's Series C round, which we reported on back in January.
+
+
+***
+![Facebook adverts to ask users how Covid-19 misinformation makes them feel](https://i.inews.co.uk/content/uploads/2021/03/PRI_185135223.jpg "Facebook adverts to ask users how Covid-19 misinformation makes them feel")
+
+
+[Facebook adverts to ask users how Covid-19 misinformation makes them feel](https://inews.co.uk/news/technology/facebook-covid-19-misinformation-who-full-fact-904642)
+
+
+> Facebook will place adverts on its own platform encouraging users to consider the source of what they suspect to be Covid-19 misinformation and to ask themselves how it makes them feel. The month-long campaign, launched in partnership with the World Health Organisation (WHO) and independent fact-checking organisation Full Fact, will encourage visitors to Facebook to complete a three-stage review when they encounter what they believe is a false claim: to check the source, how it makes them feel and the content's context.
+
+
+***
+![Britain's Zego valued at more than $1bn after fresh funding](https://www.telegraph.co.uk/content/dam/technology/2021/03/09/Sten_Roof_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg?impolicy=logo-overlay "Britain's Zego valued at more than $1bn after fresh funding")
+
+
+[Britain's Zego valued at more than $1bn after fresh funding](https://www.telegraph.co.uk/technology/2021/03/10/britains-zego-valued-1bn-fresh-funding/)
+
+
+> Commercial motor insurance provider Zego has become the UK's latest technology 'unicorn' with a valuation of more than $1bn (£719m) after raising $150m in funding. The company, which provides insurance to gig economy drivers as well as fleets of commercial vehicles, is now valued at $1.1bn following the injection of capital from backers including billionaire Yuri Milner's DST Global fund and General Catalyst. Chief executive Sten Saar said the company now plans to grow further into Europe and is also considering US expansion.
+
+
