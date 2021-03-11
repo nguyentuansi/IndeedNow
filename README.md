@@ -41454,3 +41454,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![11 best Bluetooth speakers for every budget: Wireless, waterproof and portable](https://static.independent.co.uk/2020/12/17/12/IndyBest%20home%20speakers.jpg?width=1200&auto=webp&quality=75 "11 best Bluetooth speakers for every budget: Wireless, waterproof and portable")
+
+
+[11 best Bluetooth speakers for every budget: Wireless, waterproof and portable](https://www.independent.co.uk/extras/indybest/gadgets-tech/audio/best-bluetooth-speaker-portable-uk-b1775584.html)
+
+
+> ExtrasIndyBestTechAudioDavid TaylorWednesday 30 December 2020 12:42We've tested mostly for audio excellence but also for ease of setup and snazziness of designWe've been spending a lot of time in our homes this year, haven't we? If you're anything like us, too much time spent sitting in a quiet room with just our own sparkling personality soon becomes unbearable. The saviour is music – but how best to listen?We're not talking about music streaming services – that's another kettle of fish entirely.
+
+
+***
+![Laptop Startup Framework Thinks It Can Succeed Where Many Others Have Failed](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60492603c9b379bf11e7f05a%2F0x0.jpg "Laptop Startup Framework Thinks It Can Succeed Where Many Others Have Failed")
+
+
+[Laptop Startup Framework Thinks It Can Succeed Where Many Others Have Failed](https://www.forbes.com/sites/dwightsilverman/2021/03/11/laptop-startup-framework-thinks-it-can-succeed-where-many-others-have-failed/)
+
+
+> Framework Computer founder Nirav Patel demonstrates a replaceable bezel around the screen of his ... [+] company's modular laptop during a Zoom call. When Framework's laptop becomes available this summer, customers will be able to configure machines using plug-in components Dwight Silverman / Zoom screenshot Among PC enthusiasts, a modular notebook computer has been an unattainable Holy Grail. There have been attempts to build and sell a laptop with easily interchangeable parts, but most have failed.
+
+
+***
+![Council Post: Technology's Role In Helping Property Management Teams Navigate 2021 Recovery And Future Shocks](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048cff9443596f5f2e7f05a%2F0x0.jpg "Council Post: Technology's Role In Helping Property Management Teams Navigate 2021 Recovery And Future Shocks")
+
+
+[Council Post: Technology's Role In Helping Property Management Teams Navigate 2021 Recovery And Future Shocks](https://www.forbes.com/sites/forbesrealestatecouncil/2021/03/11/technologys-role-in-helping-property-management-teams-navigate-2021-recovery-and-future-shocks/)
+
+
+> Senior Vice President, Investment Management at AppFolio, which provides cloud-based property management software solutions. getty The past year was unmatched in terms of how many quick pivots businesses across nearly every category had to make. In reflection of the pandemic year as we approach the one-year mark of lockdowns in the U.S., one thing is clear: It is never too early to start preparing for future shocks. In property management, a segment that has been very much at the front lines of the pandemic, running properties and buildings for residents who are now spending most of their time in those spaces, the impact of the pandemic on daily activities is significant.
+
+
+***
+![Best on-hold messaging services of 2021](https://cdn.mos.cms.futurecdn.net/bNnpW4jdsWtPED7VxJcLi5-1200-80.jpg "Best on-hold messaging services of 2021")
+
+
+[Best on-hold messaging services of 2021](https://www.techradar.com/best/best-on-hold-messaging-services)
+
+
+> The best on-hold messaging services can support customers while also providing marketing services.Many cloud phone systems provide the option to record your own messages for customers on hold, as part of the menu options for a general business phone system or even a full-scale Contact Center as a Service (CCaaS). However, it's inevitable that a lot of businesses would prefer to have a messaging and answering service that sounds as professional as possible. After all, customers who have to make a phone call to a business don't want to be put on-hold, so if your business has to do this you need to make the experience as painless and effective as possible.
+
+
+***
+![Over 10 different threat groups exploit Microsoft mail server flaws, researchers say](https://external-preview.redd.it/XScg2WWw3pR8JSKZXhEEfWlMb9U4ky6j-hme9siPcL8.jpg?auto=webp&s=c13359627760898b7cb869bef00c8acb508692d6 "Over 10 different threat groups exploit Microsoft mail server flaws, researchers say")
+
+
+[Over 10 different threat groups exploit Microsoft mail server flaws, researchers say](https://www.reddit.com/r/technology/comments/m2ogum/over_10_different_threat_groups_exploit_microsoft/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
