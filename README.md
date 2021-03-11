@@ -41354,3 +41354,53 @@
 > Xiaomi has tried to introduce ‘flagship killers' in the past. We all know how that went. It might have finally got one without realising or at least claiming to. The Redmi Note series is known for pushing the limits in the budget category and bringing high-end specifications at a bargain price. The Redmi Note 10 Pro Max further push the boundaries by entering the mid-range category where it will compete against the OnePlus Nord, Vivo V20 and Xiaomi's own Mi 10i. Needless to say, the Redmi Note 10 Pro Max is the biggest overall upgrade on a Redmi Note smartphone.
 
 
+***
+![Automate Your Analysis](https://external-preview.redd.it/1ZsDfTWrfqE_gOkmyGsa_-90BE_POhXxm3KgjEDAfU4.jpg?auto=webp&s=0c6791c28cf27e861b7d9a4dd83ff169dad26f6f "Automate Your Analysis")
+
+
+[Automate Your Analysis](https://www.reddit.com/r/Python/comments/m2l5oo/automate_your_analysis/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Just Made A Python Project](https://external-preview.redd.it/p3HQXQzdkmyXyJ89enL6PkgmSdstFY5z1QkzOzRNUaU.jpg?auto=webp&s=01b29ed2d2e90d072e1fc7295da2c1cb3797f686 "Just Made A Python Project")
+
+
+[Just Made A Python Project](https://www.reddit.com/r/Python/comments/m2l4tw/just_made_a_python_project/)
+
+
+> Hey guys! I made a Python Application That can Encrypt and Decrypt Text! Made the GUI with PyQT5 and used Cryptocode for Encrypting and Decrypting and it is Open Source too! The Project Can be Found Here
+
+
+***
+![Millions of websites offline after fire at French cloud services firm](https://assets2.rappler.com/2021/03/ovhcloud-fire-france-march-10-2021-reuters-1615449542723.jpg "Millions of websites offline after fire at French cloud services firm")
+
+
+[Millions of websites offline after fire at French cloud services firm](https://www.rappler.com/technology/millions-websites-offline-fire-french-cloud-services-firm-ovhcloud)
+
+
+> A fire at a French cloud services firm has disrupted millions of websites, knocking out government agencies' portals, banks, shops, and news websites. It has also taken out a chunk of the .FR web space, according to internet monitors. The fire, which broke out on Wednesday, March 10, shortly after midnight at OVHcloud, destroyed one of four data centers in Strasbourg, in eastern France, and damaged another, the company said. There was no immediate explanation provided for the blaze, which erupted just two days after the French cloud computing firm kicked off plans for an initial public offering.
+
+
+***
+![How to watch Harry and Meghan interview on Oprah: stream free online from anywhere](https://cdn.mos.cms.futurecdn.net/hANjmoMXijiECdc5uBgYZR-1200-80.jpg "How to watch Harry and Meghan interview on Oprah: stream free online from anywhere")
+
+
+[How to watch Harry and Meghan interview on Oprah: stream free online from anywhere](https://www.techradar.com/news/how-to-watch-meghan-and-harrys-interview-on-oprah-stream-from-anywhere-today)
+
+
+> (Image credit: Joe Pugliese / Harpo Productions) You can't avoid it and it won't ignore you. Prince Harry and Meghan Markle's interview with Oprah Winfrey won't be going away or out of the tabloid headlines any time soon - the renegade royal couple's bombshell TV appearance still all the world wants to talk about nearly one week on. Didn't catch it live? Read on as we explain how to watch the Harry and Meghan Oprah interview wherever you are today - including where you can stream it free online.We've been building towards this moment since November 2016, when Prince Harry issued a statement calling out the abuse, harassment and racially motivated smears his then-girlfriend had been subjected to on a daily basis by Britain's gutter media.
+
+
+***
+![#TECH: Apple Watch still leads the smartwatch market](https://assets.nst.com.my/images/articles/botswatch_NSTfield_image_socialmedia.var_1615449235.jpg "#TECH: Apple Watch still leads the smartwatch market")
+
+
+[#TECH: Apple Watch still leads the smartwatch market](https://www.nst.com.my/lifestyle/bots/2021/03/672929/tech-apple-watch-still-leads-smartwatch-market)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
