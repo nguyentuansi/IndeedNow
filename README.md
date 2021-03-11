@@ -41160,3 +41160,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Samsung Galaxy M12 भारत में आज होगा लॉन्च, पहले ही पता चल गए ये दो खास फीचर्स](https://images.news18.com/ibnkhabar/uploads/ "Samsung Galaxy M12 भारत में आज होगा लॉन्च, पहले ही पता चल गए ये दो खास फीचर्स")
+
+
+[Samsung Galaxy M12 भारत में आज होगा लॉन्च, पहले ही पता चल गए ये दो खास फीचर्स](https://hindi.news18.com/photogallery/tech/samsung-galaxy-m12-set-to-launch-in-india-today-11-march-2021-at-12pm-6000mah-battery-48mp-camera-aaaq-3509373.html)
+
+
+> {{mySplit(x.name,0)}}-{{mySplit(x.name,1)}}
+
+
+***
+![Dating app Bumble expects pent up demand](https://i-invdn-com.akamaized.net/news/Bumble_800x533_L_1613480537.jpg "Dating app Bumble expects pent up demand")
+
+
+[Dating app Bumble expects pent up demand](https://www.investing.com/news/technology-news/bumble-quarterly-revenue-jumps-more-than-31-2443067)
+
+
+> © Reuters. The Bumble Inc. (BMBL) app is shown on an Apple iPhone in this photo illustration By Sohini Podder (Reuters) - Bumble Inc on Wednesday said it expects pent up demand from people who had been avoiding dating in person due to the COVID-19 pandemic, after it reported a bigger-than-expected rise in fourth-quarter revenue. Dating apps have benefited from social distancing restrictions that made people yearn for company as casual gatherings with friends and family became a rarity. The company said it will build its friendship product Bumble BFF beyond its minimum viable offering as it expects friendships and platonic relationships at large to be a massive opportunity going forward.
+
+
+***
+![UK's M&S seeks to turbocharge online sales with guest clothes brands](https://i-invdn-com.akamaized.net/news/LYNXMPEB410C9_L.jpg "UK's M&S seeks to turbocharge online sales with guest clothes brands")
+
+
+[UK's M&S seeks to turbocharge online sales with guest clothes brands](https://www.investing.com/news/technology-news/uks-ms-seeks-to-turbocharge-online-sales-with-guest-clothes-brands-2443263)
+
+
+> © Reuters. FILE PHOTO: A woman walks past a M&S store at Oxford Street in London By James Davey LONDON (Reuters) - Britain's Marks & Spencer (OTC:) said on Thursday it would launch a wave of guest clothing brands on its website this spring, including Hobbs, White Stuff, Joules and Sloggi, in bid to accelerate online growth. The UK's clothing sector has been hammered by COVID-19 lockdowns, forcing retailers to rely on online channels. M&S Chief Executive Steve Rowe said last year the group, still Britain's biggest clothing retailer by value, was shifting strategy and would sell other brands to broaden its appeal.
+
+
+***
+![Hilarious Adult Game House Party Comes To Nutaku](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/houseparty.jpg?itok=wvz18EeM "Hilarious Adult Game House Party Comes To Nutaku")
+
+
+[Hilarious Adult Game House Party Comes To Nutaku](https://techraptor.net/adult-gaming/hilarious-adult-game-house-party-coming-to-nutaku)
+
+
+> Home Adult Games Hilarious Adult Game House Party Comes To Nutaku One of the internet's most famous adult games, House Party, is finally coming to the internet's favorite adult gaming platform, Nutaku. The game is an erotic, comedy adventure that also features internet comedians Arin Hanson and Dan Avidan, more commonly known as Game Grumps.  House Party Is More Than Just A Party House Party is a comedic adult game that puts the player inside a house party with a bunch of people they don't know. The player must make their way around the party, interacting with strangers and, of course, trying to get the hot women in attendance to bang you.
+
+
+***
+![Apple TV+ renews 'Central Park' again, second season to debut June 25](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/01/central-park-apple-tv-plus.jpg "Apple TV+ renews 'Central Park' again, second season to debut June 25")
+
+
+[Apple TV+ renews 'Central Park' again, second season to debut June 25](https://www.imore.com/apple-tv-renews-central-park-again-second-season-debut-june-25)
+
+
+> Source: Apple TV+ The second season of Central Park will premiere on June 25 on Apple TV+. The series has also been renewed for a third season. The Apple TV+ musical comedy series Central Park had two big updates for fans today. In a newsroom update, Apple has announced that season two of of the Emmy and NAACP Image Award-nominated series will premiere globally on Friday, June 25. In addition, the company also revealed that the show has already been renewed for a third season. To celebrate the announcements, Apple posted a first look at one of the songs from the second season called the "Weehawken Rap.
+
+
