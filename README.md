@@ -41504,3 +41504,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Make room for more movies on your Galaxy S20 with a microSD card](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/02/samsung-galaxy-s20-plus-bader-3.jpg "Make room for more movies on your Galaxy S20 with a microSD card")
+
+
+[Make room for more movies on your Galaxy S20 with a microSD card](https://www.androidcentral.com/best-microsd-cards-galaxy-s20)
+
+
+> Best MicroSD Cards for Samsung Galaxy S20 Android Central 2021 Samsung starts the Samsung Galaxy S20 off with 128GB of memory. Still, if you like to download movies for trips like me or are just an absolute shutterbug that needs to capture literally every moment of your or your kid's life, you'll probably want to invest in a microSD card. It's the perfect thing to expand and offload your media so that the internal memory can be used for apps and those super-duper slow-mos. Here are some of the best Galaxy S20 SD cards you can buy right now.
+
+
+***
+![Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security](https://mms.businesswire.com/media/20210311005034/en/770768/23/Mavenir_Logo_CMYK.jpg "Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security")
+
+
+[Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security](https://www.businesswire.com/news/home/20210311005034/en/Mavenir-Extends-AI-and-Analytics-Portfolio-to-Enable-Mobile-Network-Optimization-Automation-Security)
+
+
+> March 11, 2021 09:00 AM Eastern Standard Time RICHARDSON, Texas--(BUSINESS WIRE)--Mavenir, the industry's only end-to-end cloud-native Network Software Provider and a leader in accelerating software network transformation for communications service providers (CSPs), announced today its extended Artificial Intelligence (AI) and Analytics portfolio to enable closed-loop automation and drive digital transformation. AI and machine learning (ML) in mobile network infrastructure is expected to lower costs by automating functions that typically require human interaction and to speed new revenue generating service offerings, becoming increasingly important as edge, open radio access networks (Open RAN), and 5G cores get deployed.
+
+
+***
+![Open RF Association and MIPI Alliance Sign Cooperation Framework (Liaison) Agreement](https://mms.businesswire.com/media/20210311005076/en/827593/23/OpenRF_Logo_FINAL_RGB.jpg "Open RF Association and MIPI Alliance Sign Cooperation Framework (Liaison) Agreement")
+
+
+[Open RF Association and MIPI Alliance Sign Cooperation Framework (Liaison) Agreement](https://www.businesswire.com/news/home/20210311005076/en/Open-RF-Association-and-MIPI-Alliance-Sign-Cooperation-Framework-Liaison-Agreement)
+
+
+> March 11, 2021 09:00 AM Eastern Standard Time PISCATAWAY, N.J. & BEAVERTON, Ore.--(BUSINESS WIRE)--The Open RF Association (OpenRF™) and the MIPI Alliance today announced their execution of a Cooperation Framework (Liaison) Agreement which allows the two organizations to engage in joint collaborative projects relating to radio frequency (RF) front-end architecture, design, and technology. MIPI Alliance is an international organization serving industries that develop mobile and mobile-influenced devices.
+
+
+***
+![PROS Partners with ISB AG to Tackle Pent-up Demand for Pricing Excellence in DACH](https://mms.businesswire.com/media/20210311005082/en/351469/23/PROS_logo_Dec_2012.jpg "PROS Partners with ISB AG to Tackle Pent-up Demand for Pricing Excellence in DACH")
+
+
+[PROS Partners with ISB AG to Tackle Pent-up Demand for Pricing Excellence in DACH](https://www.businesswire.com/news/home/20210311005082/en/PROS-Partners-with-ISB-AG-to-Tackle-Pent-up-Demand-for-Pricing-Excellence-in-DACH)
+
+
+> March 11, 2021 09:00 AM Eastern Standard Time HOUSTON--(BUSINESS WIRE)--PROS® (NYSE: PRO), a provider of AI-powered solutions that optimize selling in the digital economy, today announced a strategic partnership with ISB AG to expand the PROS implementation, integration and support capabilities to customers across Germany, Austria and Switzerland. The new partnership will deliver PROS industry-leading pricing software with ISB AG's implementation expertise to customers with the ongoing support needed to enable future adoption of PROS solutions, helping to accelerate digital selling transformations in the region.
+
+
+***
+![COVID Clinic, the US's Largest COVID Testing Organization, Selects Five9 to Power its Cloud Contact Center](https://mms.businesswire.com/media/20210311005094/en/839991/23/Five9_logo_1c_BLACK_RGB.jpg "COVID Clinic, the US's Largest COVID Testing Organization, Selects Five9 to Power its Cloud Contact Center")
+
+
+[COVID Clinic, the US's Largest COVID Testing Organization, Selects Five9 to Power its Cloud Contact Center](https://www.businesswire.com/news/home/20210311005094/en/COVID-Clinic-the-US%E2%80%99s-Largest-COVID-Testing-Organization-Selects-Five9-to-Power-its-Cloud-Contact-Center)
+
+
+> SAN RAMON, Calif.--(BUSINESS WIRE)--Five9, Inc. (NASDAQ: FIVN), an industry-leading provider of the intelligent cloud contact center, announced today that the company was selected by COVID Clinic, the largest COVID testing organization in the United States, as its chosen Cloud Contact Center (CCaaS), solution provider, helping them to engage patients and citizens and deliver a positive customer experience. COVID Clinic provides a critical public health service by delivering drive-through testing sites for COVID-19.
+
+
