@@ -41654,3 +41654,50 @@
 > (Image credit: EverythingApplePro) There's plenty of reason to be excited for the iPhone 13, after all, the iPhone 12 and its siblings are some of the best smartphones on the market. Moreover, rumors have pointed to some excellent upgrades for the iPhone in 2021. A new investor note spotted by MacRumors from the ever-reliable Apple analyst Ming-Chi Kuo has identified yet another update coming to all four of the iPhone 13 models: larger batteries.While there were certain aspects of the iPhone 12 to quibble about, like the lack of a high refresh rate display or a periscope telephoto camera, the one flaw that was universally agreed upon was the overall weak battery life.
 
 
+***
+[Hugging Face, which is building an open source library for natural language processing technologies, raises $40M Series B led by Addition (Romain Dillet/TechCrunch)](http://www.techmeme.com/210311/p25#a210311p25)
+
+
+> Romain Dillet / TechCrunch: Hugging Face, which is building an open source library for natural language processing technologies, raises $40M Series B led by Addition — Hugging Face has raised a $40 million Series B funding round — Addition is leading the round. The company has been building an open source library …
+
+
+***
+![See what you need by adjusting the screen brightness on your Wear OS watch](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop_wm_brw/public/article_images/2021/03/ticwatch-pro-3-lifestyle-brightness-01.jpg "See what you need by adjusting the screen brightness on your Wear OS watch")
+
+
+[See what you need by adjusting the screen brightness on your Wear OS watch](https://www.androidcentral.com/how-change-screen-brightness-wear-os)
+
+
+> Source: Chris Wedel/Android Central Adjusting screen brightness for a phone or watch is necessary for different reasons at different times, and knowing how to change screen brightness on a Wear OS smartwatch can help in all of them. Even the best Android smartwatch can only pack so much battery capacity into its small case, and lowering screen brightness is one of the ways to extend the battery life on your Wear OS watch. Some smartwatches like the Fossile Gen 5 LTE have an ambient light sensor built in to automatically change the screen brightness based on the light around it.
+
+
+***
+![5 Best Computer Monitor Cases](https://heavy.com/wp-content/uploads/2021/03/monitor-cases.jpg?quality=65&strip=all "5 Best Computer Monitor Cases")
+
+
+[5 Best Computer Monitor Cases](https://heavy.com/tech/monitor-cases/)
+
+
+> Amazon While portable monitors are a viable option for on-the-go professionals, there are clear benefits to traveling with your primary monitor in a monitor case (especially if it's a nice one). If you're using it for gaming you won't have to adjust to different latencies or refresh rates and if you're using it for business then you're saving a good chunk on a whole new monitor. Without further ado, let's browse some monitor cases. Price: $249.99 Amazon Customer Reviews Pros: Fits 27-32" monitors Hard shell design Shoulder strap and carry handle Cons: Doesn't fit large monitors Not waterproof No accessory pockets As long as your monitor or display is between 27 and 32 inches, the Rufntuf Roto Monitor Case is hands-down the safest option for transporting it to and from events.
+
+
+***
+![How To Change The ROG Vision Image On The ROG Phone 5](https://www.androidheadlines.com/wp-content/uploads/2021/03/ASUS-ROG-Phone-5-Ultimate-1.jpg "How To Change The ROG Vision Image On The ROG Phone 5")
+
+
+[How To Change The ROG Vision Image On The ROG Phone 5](https://www.androidheadlines.com/how-to-change-the-rog-vision-image-on-the-rog-phone-5.html)
+
+
+> The ROG Vision display on the back of the ROG Phone 5 Pro and ROG Phone 5 Ultimate is a cool little way to keep things customized. And there are a lot of different ways to make it your own and show your passion for gaming.Whether you're a solo player, someone who enjoys playing with their friends, or on an Esports team, the ROG Phone 5's Vision display provides a method for stamping any number of things onto the back of your phone.If you plan to get one of the ROG Phone 5 devices that have the ROG Vision, changing things is up is super easy to do and fun to explore.
+
+
+***
+![March Madness TV sales 2021: the best TV deals from Best Buy, Walmart, and more](https://cdn.mos.cms.futurecdn.net/HuJ3ykwZoC9YXmHLW2uuSc-1200-80.jpg "March Madness TV sales 2021: the best TV deals from Best Buy, Walmart, and more")
+
+
+[March Madness TV sales 2021: the best TV deals from Best Buy, Walmart, and more](https://www.techradar.com/news/best-march-madness-tv-sales-deals-4k-tvs-samsung-sony-lg)
+
+
+> March Madness TV sales have arrived which means you can find incredible TV deals right now from retailers like Best Buy, Walmart, and Amazon with record-low prices from brands such as Samsung, Sony, LG, and more. To help you sort through all the offers, we've listed the best March Madness TV sales and deals just below. Our top March Madness TV picks include everything from a mid-size 50-inch TV to a massive 70-inch set, with prices starting at just $260 and different features like HDR, smart functionality, and voice control.
+
+
