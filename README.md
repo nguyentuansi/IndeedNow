@@ -41701,3 +41701,53 @@
 > March Madness TV sales have arrived which means you can find incredible TV deals right now from retailers like Best Buy, Walmart, and Amazon with record-low prices from brands such as Samsung, Sony, LG, and more. To help you sort through all the offers, we've listed the best March Madness TV sales and deals just below. Our top March Madness TV picks include everything from a mid-size 50-inch TV to a massive 70-inch set, with prices starting at just $260 and different features like HDR, smart functionality, and voice control.
 
 
+***
+![India Claims Increased Cyberattacks from China During Lockdowns](https://media.breitbart.com/media/2019/11/Chinese-Hackers-Technology-Theft-640x335.jpg "India Claims Increased Cyberattacks from China During Lockdowns")
+
+
+[India Claims Increased Cyberattacks from China During Lockdowns](https://www.breitbart.com/asia/2021/03/11/india-claims-increased-cyberattacks-china-pakistan-during-lockdowns/)
+
+
+> India's Ministry of Electronics and Information Technology (MEITY) issued a cybersecurity report on Thursday that found India weathered a dramatic increase in cyberattacks from China and Pakistan during the year of coronavirus lockdowns. The MEITY report assured lawmakers that the ministry deployed 'additional resources' and completed security audits to combat the increased security threat, but also warned India should 'significantly augment' its budget to address emerging and evolving threats. In particular, the report argued India is not spending enough on research and development for 'projects to address the new cybersecurity challenges.
+
+
+***
+![Russia Insists Mysterious Web Access Issues Not Censorship](https://media.breitbart.com/media/2021/03/GettyImages-1231628224-640x335.png "Russia Insists Mysterious Web Access Issues Not Censorship")
+
+
+[Russia Insists Mysterious Web Access Issues Not Censorship](https://www.breitbart.com/tech/2021/03/11/russia-blames-data-center-fire-google-outage/)
+
+
+> The Russian government on Wednesday deflected blame for a myriad of web access issues — including difficulty using Google and YouTube, as well as crashes on government websites — asserting the problems were not the result of the Kremlin's deliberate slowdown of Twitter. Russia's Digital Ministry tweeted Wednesday that several issues with government websites were the result of router malfunctions within PJSC Rostelecom's network. Rostelecom is Russia's largest internet service provider. 'Problems with access to a number of government and other sites are associated with malfunctions of routers used in the network of PJSC Rostelecom,' the ministry posted on Twitter.
+
+
+***
+![Star Citizen Developers Clash Over Forced Work Claims](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/Star%20Citizen%20Developers%20Texas%20Snowstorm%20PTO%20cover.jpg?itok=rfn4nr9z "Star Citizen Developers Clash Over Forced Work Claims")
+
+
+[Star Citizen Developers Clash Over Forced Work Claims](https://techraptor.net/gaming/news/star-citizen-developers-dispute-forced-work-claims)
+
+
+> A number of anonymous Star Citizen developers are claiming that they were forced to work during the recent Texas Blizzard, but several other employees from the company are publicly disputing these claims. Star Citizen is a game that has had a very long development cycle. It's an ambitious title and that involves a lot of work. However, a new article is claiming that Cloud Imperium Games was overzealous in its desire to keep development going in the midst of a natural disaster. Anonymous Star Citizen Developers Speak Out About the Texas Blizzard A new Kotaku article contains claims from anonymous Star Citizen developers who claim that Cloud Imperium Games' response to the recent (and disastrous) Texas Blizzard was inadequate at best.
+
+
+***
+![Wanting a new music player for your phone? These are the best options](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/02/spotify-pixel-4-hero-8.jpeg "Wanting a new music player for your phone? These are the best options")
+
+
+[Wanting a new music player for your phone? These are the best options](https://www.androidcentral.com/best-music-players-android)
+
+
+> Source: Andrew Myrick / Android Central Over the years music fans have gradually changed how they listen to their music and what they listen to it on. With the rise of the smartphone, it's only natural that now the one device we carry with us everywhere is also our primary media player. On Android, we're also fortunate that there's a huge community of developers that create some of the best Android apps that can better the experience we're provided by the folks who made our phones. So it's time dive deep into the depths of the Play Store and find out which options are the best music player apps on Android.
+
+
+***
+![My first Python app that checks whether an item is back in stock](https://external-preview.redd.it/v8YVxIuDn9jBwykEzcVEctEmzT1vfgnTeHjxXvfQlYs.jpg?auto=webp&s=52728c37f56f14aeef476867f039a0967e46cf2f "My first Python app that checks whether an item is back in stock")
+
+
+[My first Python app that checks whether an item is back in stock](https://www.reddit.com/r/Python/comments/m31vqj/my_first_python_app_that_checks_whether_an_item/)
+
+
+> reddit: the front page of the internet
+
+
