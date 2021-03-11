@@ -41210,3 +41210,50 @@
 > Source: Apple TV+ The second season of Central Park will premiere on June 25 on Apple TV+. The series has also been renewed for a third season. The Apple TV+ musical comedy series Central Park had two big updates for fans today. In a newsroom update, Apple has announced that season two of of the Emmy and NAACP Image Award-nominated series will premiere globally on Friday, June 25. In addition, the company also revealed that the show has already been renewed for a third season. To celebrate the announcements, Apple posted a first look at one of the songs from the second season called the "Weehawken Rap.
 
 
+***
+![Toshiba Releases 650V Super Junction Power MOSFETs in TOLL Package That Help Improve Efficiency of High Current Equipment](https://mms.businesswire.com/media/20210310005381/en/864333/23/TOLL-PKG-DTMOS%E2%85%A5_1200_628.jpg "Toshiba Releases 650V Super Junction Power MOSFETs in TOLL Package That Help Improve Efficiency of High Current Equipment")
+
+
+[Toshiba Releases 650V Super Junction Power MOSFETs in TOLL Package That Help Improve Efficiency of High Current Equipment](https://www.businesswire.com/news/home/20210310005381/en/Toshiba-Releases-650V-Super-Junction-Power-MOSFETs-in-TOLL-Package-That-Help-Improve-Efficiency-of-High-Current-Equipment)
+
+
+> March 10, 2021 09:00 PM Eastern Standard Time TOKYO--(BUSINESS WIRE)--Toshiba Electronic Devices & Storage Corporation ("Toshiba") has launched 650V super junction power MOSFETs, TK065U65Z, TK090U65Z, TK110U65Z, TK155U65Z and TK190U65Z, in its DTMOSVI series that are housed in a TOLL (TO-leadless) package. Volume production shipments start today. TOLL is a surface-mount package that has an approximately 27% smaller footprint than the usual D2PAK package. It is also a 4-pin type package that allows Kelvin connection of its signal source terminal for the gate drive.
+
+
+***
+![Allegro DVT Releases New Versions of its Encoder and Decoder IPs with Support for 12-bits Sample Size and 4:4:4 Chroma Format](https://mms.businesswire.com/media/20210310005005/en/861124/23/LogoAllegro-50dpi.jpg "Allegro DVT Releases New Versions of its Encoder and Decoder IPs with Support for 12-bits Sample Size and 4:4:4 Chroma Format")
+
+
+[Allegro DVT Releases New Versions of its Encoder and Decoder IPs with Support for 12-bits Sample Size and 4:4:4 Chroma Format](https://www.businesswire.com/news/home/20210310005005/en/Allegro-DVT-Releases-New-Versions-of-its-Encoder-and-Decoder-IPs-with-Support-for-12-bits-Sample-Size-and-444-Chroma-Format)
+
+
+> March 10, 2021 09:00 PM Eastern Standard Time GRENOBLE, France--(BUSINESS WIRE)--Allegro DVT, the leading provider of video processing silicon IPs, today announced the release of new versions of its D3x0 and E2x0 decoder and encoder IPs with extended of sample sizes up to 12-bits and chroma sampling ranging from 4:2:0, 4:2:2 up to 4:4:4. The explosion in processing demands for video codecs in emerging verticals that include cloud gaming and automotive continues to stress, and at the high end exceed, the capabilities of CPU, GPU and accelerator assisted hardware implementations.
+
+
+***
+![How to watch the South Park Vaccination Special online right now](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/south-park-comedy-central.jpg "How to watch the South Park Vaccination Special online right now")
+
+
+[How to watch the South Park Vaccination Special online right now](https://www.androidcentral.com/how-watch-south-park-vaccination-special-online-anywhere)
+
+
+> After last year's Pandemic Special, the residents of the sleepy mountain town of South Park are back with an all-new hour-long special and we have all the details on how you can watch the South Park Vaccination Special online or on TV. While season 24 of the animated sitcom has already been announced, Matt Stone and Trey Parker decided to take the show in a different direction last year when they revealed that South Park would be doing its first hour-long episode covering the pandemic. Source: Comedy Central The Pandemic Special showed us just how Stan, Kyle, Kenny, Eric, Butters and the other kids from South Park Elementary have been dealing with wearing masks, social distancing and doing distance learning classes on Zoom.
+
+
+***
+[淡马锡、腾讯参与投资，原生元宇宙概念股Roblox上市了](http://www.tmtpost.com/5069739.html)
+
+
+> We are shepherds the metaverse。
+
+
+***
+![Hackers breach thousands of security cameras with passwords found online](https://resources.stuff.co.nz/content/dam/images/4/y/r/e/n/k/image.related.StuffLandscapeSixteenByNine.1420x800.4yrelu.png/1615427691445.jpg "Hackers breach thousands of security cameras with passwords found online")
+
+
+[Hackers breach thousands of security cameras with passwords found online](https://www.stuff.co.nz/technology/300250290/hackers-breach-thousands-of-security-cameras-with-passwords-found-online)
+
+
+> A group of hackers say they breached a massive trove of security-camera data collected by Silicon Valley startup Verkada Inc, gaining access to live feeds of 150,000 surveillance cameras inside hospitals, companies, police departments, prisons and schools. Companies whose footage was exposed include carmaker Tesla and software provider Cloudflare. In addition, hackers were able to view video from inside women's health clinics, psychiatric hospitals and the offices of Verkada itself. Some of the cameras, including in hospitals, use facial-recognition technology to identify and categorise people captured on the footage.
+
+
