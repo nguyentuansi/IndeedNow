@@ -41604,3 +41604,53 @@
 > Source: Android Central Best Security Cameras That Store Locally Android Central 2021 As our connected lifestyles and smart homes continue to merge, we are finding new ways to secure our houses and belongings, like choosing from among the best security cameras with local storage. In light of recent data breaches and privacy scandals, many are looking for options that feature on-device storage solutions (a.k.a. don't use the cloud), so we've put together a list of some of the best options for your reference.
 
 
+***
+![Apple Launches New Web Page With Privacy Labels for Its Own Apps](https://images.macrumors.com/t/xWFvOmoa7i2Qb3THk5tImcKpf3g=/1600x/https://images.macrumors.com/article-new/2021/03/apple-privacy-labels-website.jpg "Apple Launches New Web Page With Privacy Labels for Its Own Apps")
+
+
+[Apple Launches New Web Page With Privacy Labels for Its Own Apps](https://www.macrumors.com/2021/03/11/apple-launches-privacy-labels-page/)
+
+
+> Apple today updated its privacy website with a new "Labels" section that brings privacy labels for all of Apple's apps together in one place, making it easier for users to learn about how Apple apps handle their personal data. Apple already provided privacy labels for its apps since the feature launched last year, but on individual support pages, so this new "Labels" section makes it easier to view the labels all in one place, and in alphabetical order. Privacy labels are available for Apple's apps across iOS, iPadOS, macOS, watchOS, and tvOS, so some apps like GarageBand appear more than once.
+
+
+***
+![Edit videos like a pro with these great software titles for Mac!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/video-apps-hero.jpeg "Edit videos like a pro with these great software titles for Mac!")
+
+
+[Edit videos like a pro with these great software titles for Mac!](https://www.imore.com/best-video-editing-software-mac)
+
+
+> Source: Bryan M. Wolfe/iMore Your Mac is a great tool for editing video, but the software needed can get a little pricey. If you're looking for something less expensive, or at least want to see what is on the market, you've come to the right place. These video editing software for Mac titles should get the job done. Each works very well on macOS Big Sur, and the best MacBook on the market really likes these titles! Source: Adobe The leading video editing software for film, TV, and the web, Adobe Premiere Pro CC is also one of the most expensive.
+
+
+***
+![Why you need to be doing code reviews (disclaimer: post from my company)](https://external-preview.redd.it/Rwcvep8utZ5rEKRFQ-HcCWIYqfKhvea_hMNXLxb_aqs.jpg?auto=webp&s=db59a11e2ecf2fe875895c8191e43bd02972b7c5 "Why you need to be doing code reviews (disclaimer: post from my company)")
+
+
+[Why you need to be doing code reviews (disclaimer: post from my company)](https://www.reddit.com/r/programming/comments/m2wb7f/why_you_need_to_be_doing_code_reviews_disclaimer/)
+
+
+> reddit: the front page of the internet
+
+
+***
+![Google Pixel 4a 5G hits all-time low price of $449](https://cdn.mos.cms.futurecdn.net/z2mMw9JJeG4CR7ojyByBQC-1200-80.jpg "Google Pixel 4a 5G hits all-time low price of $449")
+
+
+[Google Pixel 4a 5G hits all-time low price of $449](https://www.laptopmag.com/news/google-pixel-4a-5g-hits-all-time-low-price-of-dollar449)
+
+
+> Google Pixel 4a 5G (Image credit: Shutterstock) Although it's not Google's flagship phone, the Pixel 4a 5G is still one of the best smartphones to buy. It offers nearly the same features as the Pixel 5 and forthcoming Pixel 5a for a cheaper price. Currently, Amazon has the unlocked Google Pixel 4a 5G on sale for $449. Usually, this phone retails for $499, so that's a $50 in savings. It's the lowest price we've ever seen for this Android phone. If you're on the hunt for an affordable unlocked 5G device, it's one of the best phone deals available right now.
+
+
+***
+![iPhone 13 battery life could get this huge upgrade — step aside, iPhone 12](https://cdn.mos.cms.futurecdn.net/fDxx6G5myWSkqzBM73rdHP-1200-80.png "iPhone 13 battery life could get this huge upgrade — step aside, iPhone 12")
+
+
+[iPhone 13 battery life could get this huge upgrade — step aside, iPhone 12](https://www.laptopmag.com/news/iphone-13-battery-life-could-get-this-huge-upgrade-step-aside-iphone-12)
+
+
+> (Image credit: EverythingApplePro) There's plenty of reason to be excited for the iPhone 13, after all, the iPhone 12 and its siblings are some of the best smartphones on the market. Moreover, rumors have pointed to some excellent upgrades for the iPhone in 2021. A new investor note spotted by MacRumors from the ever-reliable Apple analyst Ming-Chi Kuo has identified yet another update coming to all four of the iPhone 13 models: larger batteries.While there were certain aspects of the iPhone 12 to quibble about, like the lack of a high refresh rate display or a periscope telephoto camera, the one flaw that was universally agreed upon was the overall weak battery life.
+
+
