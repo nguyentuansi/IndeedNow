@@ -41404,3 +41404,53 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![Native American tribes lead the way on coronavirus vaccinations](https://images.axios.com/qeS-HJriTGDpbdvprWsk3HSCDks=/0x0:6720x3780/1366x768/2021/03/08/1615243248121.jpg "Native American tribes lead the way on coronavirus vaccinations")
+
+
+[Native American tribes lead the way on coronavirus vaccinations](https://www.axios.com/covid-vaccine-native-americans-internet-access-6f1ebc15-987f-4c2a-bf1f-7dcffce7ce8f.html)
+
+
+> Native American tribes are pulling off many of the most successful coronavirus vaccination campaigns in the U.S., bucking stereotypes about tribal governments.The big picture: Despite severe technological barriers, some tribes are vaccinating their members so efficiently, and at such high rates, that they've been able to branch out and offer coronavirus vaccines to people outside of their tribes. Why it matters: Native Americans are one of the most at-risk groups for contracting and dying from the coronavirus.
+
+
+***
+![Coronavirus relief measure could net you $50 toward your broadband bill, help erase the digital divide](https://www.gannett-cdn.com/presto/2020/06/11/USAT/d42aa84b-ee8c-41fd-90c2-bb101006b3a4-AFP_AFP_1Q22CI.JPG?crop=4235,2383,x0,y215&width=1600&height=800&format=pjpg&auto=webp "Coronavirus relief measure could net you $50 toward your broadband bill, help erase the digital divide")
+
+
+[Coronavirus relief measure could net you $50 toward your broadband bill, help erase the digital divide](https://www.usatoday.com/story/tech/2021/03/11/discount-broadband-internet-congress-tackles-digital-divide/6940680002/)
+
+
+> Some in Congress want to do more to narrow the digital divide.A new bill, The Accessible, Affordable Internet for All Act, set to be introduced Thursday in the U.S. House and Senate, devotes more than $94 billion to connect currently unserved and underserved communities with affordable high-speed internet access.The coronavirus pandemic exposed the problems caused by the digital divide, the disparity in access to broadband and computers or devices to successfully participate in remote school and work.
+
+
+***
+![OnePlus Teases "Distortion-Free" Ultrawide Photography For OnePlus 9](https://www.androidheadlines.com/wp-content/uploads/2021/03/OnePlus-9-ultrawide-camera.jpg "OnePlus Teases "Distortion-Free" Ultrawide Photography For OnePlus 9")
+
+
+[OnePlus Teases "Distortion-Free" Ultrawide Photography For OnePlus 9](https://www.androidheadlines.com/2021/03/oneplus-teases-distortion-free-ultrawide-photography-oneplus-9.html)
+
+
+> OnePlus recently confirmed that the ultrawide cameras on its upcoming OnePlus 9 series will use a 50-megapixel Sony IMX766 sensor. Now the company CEO Pete Lau has shared a sample from the new camera, teasing improved, "distortion-free" ultrawide photography.Lau has posted a couple of pictures on his official Twitter account. One is captured with a conventional ultrawide camera, while the other is taken with the Sony IMX766 sensor on the OnePlus 9 series. As you can see in the images below, the photo taken with the OnePlus 9 is free of distortion or has minimal lens distortion as compared to the other.
+
+
+***
+![One year into the pandemic, the mute button has been the best (and worst) at work](https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/02/25/USATODAY/usatsports/gettyimages-1226737565.jpg?width=2121&height=1193&fit=crop&format=pjpg&auto=webp "One year into the pandemic, the mute button has been the best (and worst) at work")
+
+
+[One year into the pandemic, the mute button has been the best (and worst) at work](https://www.usatoday.com/story/tech/2021/03/11/mute-button-covid-pandemic-anniversary-zoom-fatigue/6917967002/)
+
+
+> It's only 2021, but we may already have the phrase of the decade: "I thought I was on mute." Or perhaps it's "Sorry, I was on mute," or "You're still on mute."For the past year, many Americans have lived and worked remotely, navigating Zoom calls and Slack channels to do our jobs, manage our kids' school lives, and stay connected with friends virtually. There has, perhaps, been no larger symbol of virtual life in the pandemic than the mute button.Think about the number of conversations you've had to restart because that dreaded red slash across the microphone icon was enabled, or, maybe worse, the work meeting where a "hot mic" led to an uncomfortable exchange about muting.
+
+
+***
+![Algorithm Selection](https://external-preview.redd.it/ft6WgnFLE8bV8dmpIGqzQSPKMLI2CFuHEgwUcw-cx1I.jpg?auto=webp&s=c0425f55a681ebc7da19d1d975b6363f49af2475 "Algorithm Selection")
+
+
+[Algorithm Selection](https://www.reddit.com/r/programming/comments/m2mrxk/algorithm_selection/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
