@@ -41554,3 +41554,53 @@
 > SAN RAMON, Calif.--(BUSINESS WIRE)--Five9, Inc. (NASDAQ: FIVN), an industry-leading provider of the intelligent cloud contact center, announced today that the company was selected by COVID Clinic, the largest COVID testing organization in the United States, as its chosen Cloud Contact Center (CCaaS), solution provider, helping them to engage patients and citizens and deliver a positive customer experience. COVID Clinic provides a critical public health service by delivering drive-through testing sites for COVID-19.
 
 
+***
+![How a year of living online has changed us](https://mondrian.mashable.com/2021%252F03%252F11%252F38%252Fdbc85e029a114a569424d1e7f9a1f495.6bd3e.jpg%252F1200x630.jpg?signature=Iv-5OWo56uJsOUBHuxbFz8RYpgc= "How a year of living online has changed us")
+
+
+[How a year of living online has changed us](https://mashable.com/article/covid-19-pandemic-internet-use/)
+
+
+> Imagine a household where everyone logged on to the internet in the morning and spent the rest of the day online. Four hours on Zoom or FaceTime. Three hours browsing the web. Three hours scrolling through Facebook, Instagram, and Twitter. Three hours gaming. Four hours streaming HD Netflix. Imagine they did this every day of the month.  It seems impossible that so many people sit in front of their screens for so long, and yet something like it is a new normal in America. As work, school, and social interactions migrated online once COVID-19 became a global pandemic last March, the average monthly household data use in 2020 skyrocketed by 40 percent compared to the prior year, according to OpenVault, a global provider of broadband industry analytics.
+
+
+***
+![VS Code 1.54 Release Party](https://external-preview.redd.it/ROhwVVcOkRRXFBPt2m2LudXwjPmvxPnnq-98nRewU1c.jpg?auto=webp&s=a5155edd5c8f64ac7046298e8772d6b9e3191602 "VS Code 1.54 Release Party")
+
+
+[VS Code 1.54 Release Party](https://www.reddit.com/r/programming/comments/m2tsf2/vs_code_154_release_party/)
+
+
+> No body in the article.
+
+
+***
+![Feasible Software Development](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Feasible Software Development")
+
+
+[Feasible Software Development](https://www.reddit.com/r/programming/comments/m2toeq/feasible_software_development/)
+
+
+> reddit: the front page of the internet
+
+
+***
+![Boston Omaha Corporation Announces Retirement of Gregory A. Friedman, AireBeam's Founder and CEO](https://mms.businesswire.com/media/20210311005749/en/778902/23/AireBeam.jpg "Boston Omaha Corporation Announces Retirement of Gregory A. Friedman, AireBeam's Founder and CEO")
+
+
+[Boston Omaha Corporation Announces Retirement of Gregory A. Friedman, AireBeam's Founder and CEO](https://www.businesswire.com/news/home/20210311005749/en/Boston-Omaha-Corporation-Announces-Retirement-of-Gregory-A.-Friedman-AireBeam%E2%80%99s-Founder-and-CEO)
+
+
+> OMAHA, Neb.--(BUSINESS WIRE)--Boston Omaha Corporation (NASDAQ: BOMN) announces that Gregory A. Friedman, founder and Chief Executive Officer of FIF AireBeam, LLC, has elected to retire from day-to-day employment, effective March 10, 2021. Greg will continue to make his experience available to the company in the role of non-executive Chairman. Greg and his wife, Judith, founded AireBeam in 2001 and steered its growth over the years to cover most of Southern Arizona serving thousands of customers.
+
+
+***
+![Back that thing up (locally) with these security cameras](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/07/eufycam2-review-2.jpg "Back that thing up (locally) with these security cameras")
+
+
+[Back that thing up (locally) with these security cameras](https://www.androidcentral.com/best-security-cameras-store-locally-not-cloud)
+
+
+> Source: Android Central Best Security Cameras That Store Locally Android Central 2021 As our connected lifestyles and smart homes continue to merge, we are finding new ways to secure our houses and belongings, like choosing from among the best security cameras with local storage. In light of recent data breaches and privacy scandals, many are looking for options that feature on-device storage solutions (a.k.a. don't use the cloud), so we've put together a list of some of the best options for your reference.
+
+
