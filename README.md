@@ -41257,3 +41257,53 @@
 > A group of hackers say they breached a massive trove of security-camera data collected by Silicon Valley startup Verkada Inc, gaining access to live feeds of 150,000 surveillance cameras inside hospitals, companies, police departments, prisons and schools. Companies whose footage was exposed include carmaker Tesla and software provider Cloudflare. In addition, hackers were able to view video from inside women's health clinics, psychiatric hospitals and the offices of Verkada itself. Some of the cameras, including in hospitals, use facial-recognition technology to identify and categorise people captured on the footage.
 
 
+***
+![Tech startup eyes 'meatless schnitzel' with new lab-made protein](https://assets2.rappler.com/2021/03/2021-03-03T095957Z_1844251895_RC2L3M9J3ARI_RTRMADP_3_FINLAND-FOOD-AIR-1615435026467.jpg "Tech startup eyes 'meatless schnitzel' with new lab-made protein")
+
+
+[Tech startup eyes 'meatless schnitzel' with new lab-made protein](https://www.rappler.com/life-and-style/food-drinks/tech-startup-eyes-meatless-schnitzel-new-laboratory-made-protein)
+
+
+> A Finnish tech startup hopes to produce protein out of thin air and not much more, creating a plant-based product they can put into healthy drinks and yogurts or even turn into a meatless schnitzel, the company said. Solar Foods has received nearly 25 million euros ($30 million) in government and private funding to commercialize the product called Solein, a yellow flour-type ingredient containing some 65% protein manufactured in a miniature bioreactor inside a laboratory. The flour is ground from a liquid microorganism that is made out of carbon dioxide from air, electricity, water, microbes, and nutrients.
+
+
+***
+![Nike CEO says company has been working on anti-bot technology](https://assets2.rappler.com/2021/03/nike-logo-3-1615433593654.jpg "Nike CEO says company has been working on anti-bot technology")
+
+
+[Nike CEO says company has been working on anti-bot technology](https://www.rappler.com/technology/nike-ceo-says-company-working-anti-bot-technology)
+
+
+> Nike CEO John Donahoe in an internal meeting said the company had been "working on anti-bot technology for the last several years,' according to a report by lifestyle website Complex. 'That is part of the solution, but we need to double down our efforts," said the executive, referring to problems being created by the sneaker reselling business and the company's limited edition shoe releases. Regular customers nowadays compete with resellers snagging pairs to sell for a profit, exacerbated by automated bots that can get pairs faster when limited edition shoes are put up for sale on a shopping website or by internal employee connections at physical retail outlets.
+
+
+***
+![The best movies on Netflix Australia: great films you can watch right now](https://cdn.mos.cms.futurecdn.net/QibCFK5SoQQprLXN8QVBaX-1200-80.jpg "The best movies on Netflix Australia: great films you can watch right now")
+
+
+[The best movies on Netflix Australia: great films you can watch right now](https://www.techradar.com/best/best-netflix-movies)
+
+
+> Want to watch the best Netflix movies in the US? Then good news: we update our list of the 30 best movies on Neflix every single week with great new films to check out, and cycle out older suggestions as they leave the service. Netflix's best movies are a mix of classics it licenses from other studios (The Social Network, The Dark Knight and so on) and the big original movies it's been throwing money at for a few years now (The Irishman and Okja, for example).While Netflix has a ton of competition for great movies in 2021 – HBO Max has an enviable library of terrific films, while Disney Plus is the exclusive home of Star Wars and Marvel – the biggest streaming service in the world spends invests so much in originals that it's still ahead of the curve.
+
+
+***
+![Best cheap Alienware deals for March 2021](https://icdn5.digitaltrends.com/image/digitaltrends/alienware-aurora-r8-review-7767-1200x630-c-ar1.91.jpg "Best cheap Alienware deals for March 2021")
+
+
+[Best cheap Alienware deals for March 2021](https://www.digitaltrends.com/dtdeals/best-cheap-alienware-deals/)
+
+
+> It's no secret that Alienware makes some of the beefiest gaming machines and most impressive accessories around, which means it's no surprise that this premium gear comes with price tags to match. If you're in the market for some new kit for your battle station and have your sights set on that iconic Martian's head logo, however, then let us help you out a bit. We've smoked out a handful of the best cheap Alienware deals available right now on desktop PCs, gaming laptops, monitors, and more. Want to see what else is up for grabs? Check out these gaming PC deals and gaming laptop deals, too.
+
+
+***
+![Instagram Lite app launched for people with space crunch](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-03-11_at_9_1200_210311093500.13.-483x271.png "Instagram Lite app launched for people with space crunch")
+
+
+[Instagram Lite app launched for people with space crunch](https://www.indiatoday.in/technology/news/story/instagram-lite-app-launched-for-people-with-space-crunch-1777997-2021-03-11)
+
+
+> The company had launched the app in India back in December and now it has been expanded to 170 other countries.Ankita Chakravarti | March 11, 2021 | Updated 09:16 IST
+
+
