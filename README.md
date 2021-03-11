@@ -41307,3 +41307,50 @@
 > The company had launched the app in India back in December and now it has been expanded to 170 other countries.Ankita Chakravarti | March 11, 2021 | Updated 09:16 IST
 
 
+***
+[Kuo: all four iPhone 13 models will feature larger batteries with higher capacities, hence new models will also be heavier than iPhone 12 (Hartley Charlton/MacRumors)](http://www.techmeme.com/210311/p1#a210311p1)
+
+
+> Hartley Charlton / MacRumors: Kuo: all four iPhone 13 models will feature larger batteries with higher capacities, hence new models will also be heavier than iPhone 12 — Apple appears to be improving the iPhone's battery life with the iPhone 13 lineup, using a number of design changes, bigger batteries, and efficiency improvements.
+
+
+***
+![How to Decorate Your New Home Before You Move](https://static01.nyt.com/images/2021/03/10/technology/personaltech/10TECHTIP-TOP/10TECHTIP-TOP-facebookJumbo.jpg "How to Decorate Your New Home Before You Move")
+
+
+[How to Decorate Your New Home Before You Move](https://www.nytimes.com/2021/03/10/technology/personaltech/decorate-new-home-before-move.html)
+
+
+> Continue reading the main storyMeasuring, design and shopping tools built into smartphone apps can help you get your next house in order.In addition to creating floor plans and interior designs, the Room Planner app supplies virtual Ikea products that you can buy for real if you like the way they look.Credit...Room PlannerMoving in a pandemic has special challenges — especially if your new place is across the country and you can't make repeated visits to gradually set things up. And shopping for furniture in crowded stores may make some people uneasy while the Covid-19 vaccines are still being distributed.
+
+
+***
+![Redmi Note 10 Pro Max Review: The #39;master blaster#39; of budget smartphones](https://images.moneycontrol.com/static-mcnews/2021/03/Redmi-Note-10-Pro-Max-8-770x433.jpg "Redmi Note 10 Pro Max Review: The #39;master blaster#39; of budget smartphones")
+
+
+[Redmi Note 10 Pro Max Review: The #39;master blaster#39; of budget smartphones](https://www.moneycontrol.com/news/photos/technology/redmi-note-10-pro-max-review-the-master-blaster-of-budget-smartphones-6629541.html)
+
+
+> Personal TechAutoWonder WomenOpinionWebinarMF ForumResearchStartupsIPORESEARCHPre-MarketAdviceBroker ResearchTechnicalsWEBINARINTERVIEW SERIESOTHERSBondsCryptocurrencyToolsTOOLSReturns CalculatorRisk AnalyzerAsset AllocatorSIP ReturnMF FORUMTRACKYour MF InvestmentMF Prices
+
+
+***
+![Globe unit Asticom Technology among Asia-Pacific's ‘best professional employer organizations' in 2021](https://technology.inquirer.net/files/2021/03/Globe-Logo-Blue-620x276.jpg "Globe unit Asticom Technology among Asia-Pacific's ‘best professional employer organizations' in 2021")
+
+
+[Globe unit Asticom Technology among Asia-Pacific's ‘best professional employer organizations' in 2021](https://technology.inquirer.net/108398/globe-unit-asticom-technology-among-asia-pacifics-best-professional-employer-organizations-in-2021)
+
+
+> Asticom Technology, a subsidiary of Globe, was recognized as one of the Top 10 Best Professional Employer Organizations (PEO) in the Asia Pacific Region for 2021 by the prestigious Manage HR Network. ADVERTISEMENT Asticom earned recognition after consistently delivering in-demand services not only in the Philippines but in the whole region as well through its various solutions such as Human Resources, administrative, customer experience, financial services with extensive IT support, sales and retail services, and engineering and logistics services.
+
+
+***
+![Redmi Note 10 Pro Max review: More than enough for most people](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/prm0-647x363.jpeg?sJqr2xxmdfYOk8EgySDfTUW6jkAt0NlR "Redmi Note 10 Pro Max review: More than enough for most people")
+
+
+[Redmi Note 10 Pro Max review: More than enough for most people](https://www.indiatoday.in/technology/reviews/story/redmi-note-10-pro-max-review-more-than-enough-for-most-people-1778037-2021-03-11)
+
+
+> Xiaomi has tried to introduce ‘flagship killers' in the past. We all know how that went. It might have finally got one without realising or at least claiming to. The Redmi Note series is known for pushing the limits in the budget category and bringing high-end specifications at a bargain price. The Redmi Note 10 Pro Max further push the boundaries by entering the mid-range category where it will compete against the OnePlus Nord, Vivo V20 and Xiaomi's own Mi 10i. Needless to say, the Redmi Note 10 Pro Max is the biggest overall upgrade on a Redmi Note smartphone.
+
+
