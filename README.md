@@ -42286,3 +42286,53 @@
 > Dow industrial average continues to lead the way and the Nasdaq lags far behind The S&P index is traded to a new session high 3937.66. That took the price nearly to unchanged on the day. The current price is at 3937.31, down -2.03 points or -0.05%.
 
 
+***
+![A beginner's guide to Android: Everything you need to know](https://img.dtcn.com/image/digitaltrends/google-pixel-3-and-3-xl-hands-on-5095-2-1200x630-c-ar1.91.jpg "A beginner's guide to Android: Everything you need to know")
+
+
+[A beginner's guide to Android: Everything you need to know](https://www.digitaltrends.com/mobile/guide-to-android/)
+
+
+> Moving from an iPhone to an Android device can be a little jarring. You might not get the true Android experience as Google intended, and you won't see the same messaging unification across devices. On the flip side, however, you likely won't encounter the same in-app restrictions, giving you more purchasing freedom than you had on an iPhone. Trending in Mobile: What is 5G? Best 5G Phones 5G Coverage Map If you're jumping onto the Android bandwagon for the first time, there's a lot to figure out.
+
+
+***
+![US lawmakers propose Australia-style bill for media, tech negotiations](https://cdn.arstechnica.net/wp-content/uploads/2021/03/GettyImages-1231668415-760x380.jpg "US lawmakers propose Australia-style bill for media, tech negotiations")
+
+
+[US lawmakers propose Australia-style bill for media, tech negotiations](https://arstechnica.com/tech-policy/2021/03/us-lawmakers-propose-australia-style-bill-for-media-tech-negotiations/)
+
+
+> Enlarge / Rep. Ken Buck (R-Co.) and Microsoft president Brad Smith at a House hearing on regulation and competition in the news media industry on March 12, 2021. A group of US lawmakers are proposing new legislation that would allow media organizations to set terms with social media platforms for sharing their content, reminiscent of a controversial measure recently adopted in Australia. The Journalism Competition and Preservation Act of 2021 basically creates a temporary, 48-month carve-out to existing antitrust and competition law that would allow small news outlets to join forces to negotiate as a collective bloc with "online content distributors" such as Facebook and Google for favorable terms.
+
+
+***
+![PS5 restock: Best Buy just is sold out – here's where to go next](https://cdn.mos.cms.futurecdn.net/EECyFAvaoMEhyP3NBHxZ2R-1200-80.jpg "PS5 restock: Best Buy just is sold out – here's where to go next")
+
+
+[PS5 restock: Best Buy just is sold out – here's where to go next](https://www.techradar.com/news/exclusive-ps5-restock-best-buy-march-12)
+
+
+> Friday update: The Best Buy PS5 restock is now sold out. However, we reported on both the Target and Best Buy restock in advance of any other publication. We'll have exclusive reporting regarding next week's Amazon PS5 restock soon.The Amazon restock will appear at $499 PS5 Disc version at Amazon – in stock soon $399 PS5 Digital Edition at Amazon – in stock soonIt'll look like:🚨🚨🚨PS5 restock! 🏷 BEST BUY 🏷 in the US has it right now.♻️RT this + follow @mattswider + @techradar for instant Xbox & PlayStation 5 updatesPS5 Disc ($499) https://t.
+
+
+***
+![Microsoft and Google continue battle over online news as Brad Smith testifies on Capitol Hill](https://cdn.geekwire.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-12-at-10.31.49-AM.png "Microsoft and Google continue battle over online news as Brad Smith testifies on Capitol Hill")
+
+
+[Microsoft and Google continue battle over online news as Brad Smith testifies on Capitol Hill](https://www.geekwire.com/2021/microsoft-google-continue-battle-online-news-brad-smith-testifies-capitol-hill/)
+
+
+> Microsoft President Brad Smith testifies at a House Judiciary subcommittee hearing on Friday. (House Committee on the Judiciary stream screenshot) Microsoft vs. Google: The tech titans have been locked in a tense battle for the past several weeks over how online platforms such as Google and Facebook distribute content from news media organizations. The issue revolves around how and if tech companies should pay local publishers and broadcasters for content included in search results or news feeds.
+
+
+***
+![Apple deals: AirPods, iPads, Apple Watch, and the MacBook Pro on sale this weekend](https://cdn.mos.cms.futurecdn.net/wMEHRPVtTM8f5d4CXVmVdE-1200-80.jpg "Apple deals: AirPods, iPads, Apple Watch, and the MacBook Pro on sale this weekend")
+
+
+[Apple deals: AirPods, iPads, Apple Watch, and the MacBook Pro on sale this weekend](https://www.techradar.com/news/huge-apple-sale-epic-deals-airpods-ipads-apple-watch)
+
+
+> (Image credit: Future) Kick your weekend off with these incredible Apple deals from Amazon's latest sale. You can save up to $99 on Apple's best-selling gadgets, including AirPods, the Apple Watch, iPads, and the powerful MacBook Pro M1.See more Apple deals at AmazonAmazon's best Apple deals include the best-selling AirPods Pro, which are in stock and on sale for $199, a $50 discount on the all-new Apple Watch 6, and the powerful MacBook Pro M1 on sale for a record-low price of $1,199.99. If you're interested in iPad deals, you can score a $40 price cut on the all-new iPad Air and snag the latest model Apple iPad on sale for $299 - the lowest price we've seen for the 10.
+
+
