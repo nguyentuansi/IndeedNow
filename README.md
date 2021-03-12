@@ -42242,3 +42242,47 @@
 > The pandemic has been a boom time for America's richest billionaires. The wealth of nine of the country's top titans has increased by more than $360 billion in the past year. And they are all tech barons, underscoring the power of the industry in the U.S. economy. Tesla's Elon Musk more than quadrupled his fortune and jockeyed with Amazon's Jeff Bezos for the title of world's wealthiest person. Facebook's Mark Zuckerberg topped $100 billion. Google co-founders Larry Page and Sergey Brin gained a combined $65 billion.
 
 
+***
+![Android phone deals March 2021: Galaxy S21 from $100 and more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/samsung-galaxy-note-20-ultra-review-7.jpg "Android phone deals March 2021: Galaxy S21 from $100 and more")
+
+
+[Android phone deals March 2021: Galaxy S21 from $100 and more](https://www.androidcentral.com/android-phone-deals)
+
+
+> Getting a new phone in your hands doesn't have to be as expensive as you might think. There are always deals out there on Android phones but they tend to come and go rather quickly with other discounts appearing in their place. However, if you're hoping to buy one of the latest devices on the market, finding a proper deal is easier than ever these days. Source: Daniel Bader / Android Central When it comes to buying a new smartphone, there are two main types of deals to consider. You could buy your new phone unlocked so that you own it and can bring it to any carrier where it's compatible, or you can purchase devices through carrier deals at a retailer such as Verizon or T-Mobile.
+
+
+***
+![Protect little ears with the best volume-limiting headphones for kids](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/puro-bt-2200-kids-headphones-cropped.jpg "Protect little ears with the best volume-limiting headphones for kids")
+
+
+[Protect little ears with the best volume-limiting headphones for kids](https://www.androidcentral.com/best-kids-headphones)
+
+
+> Source: Puro Best Kids Headphones Android Central 2021 When looking for the best kids headphones, there's a special set of criteria. First, they need to be smaller to fit a child's head. They also need to include simplified controls, be comfortable, and crucially, include built-in volume-limiting technology to ensure that a child can't crank the volume up beyond levels that are considered to be safe for little ears. Luckily, safe kids' headphones are more affordable than ever. Some limit audio to as low as 75 decibels, which is safe for even toddlers.
+
+
+***
+[Viralyft review: Best social media services provider](https://filmdaily.co/tech/viralyft-review/)
+
+
+> Viralyft is a social media services provider. Check out our Viralyft review to determine if its the provider for you. The post Viralyft review: Best social media services provider appeared first on Film Daily.
+
+
+***
+![Officials sound alarm over widespread hack of email servers](https://static.independent.co.uk/2021/03/12/16/microsoft.jpg?width=1200&auto=webp&quality=75 "Officials sound alarm over widespread hack of email servers")
+
+
+[Officials sound alarm over widespread hack of email servers](https://www.independent.co.uk/life-style/gadgets-and-tech/microsoft-exchange-hack-update-ncsc-uk-b1816542.html)
+
+
+> UK officials have urged companies to update their email servers amid fears of widespread hacks.Last week, Microsoft said that it had found major vulnerabilities in its Exchange Server tools, which is used to run email and calendars for many large companies.Those vulnerailities were already being exploited, it said. Since then it has emerged that such attacks could be widespread, with a range of hackers making use of the security flaw.Microsoft has since issued updates intended to fix them, but companies are only safe if they have applied those updates.
+
+
+***
+[S&P trades to a new session high and nearly erases loss for the day](https://www.forexlive.com/technical-analysis/!/sp-trades-to-a-new-session-high-and-nearly-erases-loss-for-the-day-20210312)
+
+
+> Dow industrial average continues to lead the way and the Nasdaq lags far behind The S&P index is traded to a new session high 3937.66. That took the price nearly to unchanged on the day. The current price is at 3937.31, down -2.03 points or -0.05%.
+
+
