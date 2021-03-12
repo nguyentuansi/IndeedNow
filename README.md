@@ -42092,3 +42092,53 @@
 > After months of waiting, Google last month finally acknowledged the "Hey Google" issue on Wear OS watches and said that it's working on a fix. It appears the company is now starting to roll out the said fix.A Redditor with an Oppo Watch has posted a short video on the Wear OS subreddit, showing the "Hey Google" command working again (via Android Police). The feature is also seemingly working for some other users with Fossil Gen 5 and Gen 3 watches. Some users claim that conversational actions are also working fine now.
 
 
+***
+![UK police confirm body found in woodland is of missing woman](https://static.reuters.com/resources/r/?m=02&d=20210312&t=2&i=1554682243&r=LYNXMPEH2B0Z4&w=800 "UK police confirm body found in woodland is of missing woman")
+
+
+[UK police confirm body found in woodland is of missing woman](https://www.reuters.com/article/us-britain-crime-missing-body-idUSKBN2B41OS)
+
+
+> By Reuters StaffLONDON (Reuters) - British police said on Friday that human remains found in a wood outside London was the body of Sarah Everard, whose disappearance last week has sparked anger and fears among women about their safety.'I can now confirm that it is the body of Sarah Everard. Clearly Sarah's family have been updated with this most distressing news,' London Assistant Commissioner Nick Ephgrave said.
+
+
+***
+![Can you repair the Raspberry Pi 400 from home? We've got the answer.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/raspberry-pi-400-kit-1.jpg "Can you repair the Raspberry Pi 400 from home? We've got the answer.")
+
+
+[Can you repair the Raspberry Pi 400 from home? We've got the answer.](https://www.androidcentral.com/raspberry-pi-400-user-repairable)
+
+
+> Source: Jerry Hildenbrand / Android CentralBest answer: The Raspberry Pi 400 uses a unique mainboard to house all the components and connectors that isn't sold separately at this time so repairs aren't something you can do yourself. If you watch a teardown video of the Raspberry Pi 400, you'll see that inside there are really only two parts outside of the plastic casing itself: a mainboard and a heatsink. The heatsink spans the length of the keyboard and also keeps the board and the whole keyboard from flexing too much, so it does double duty.
+
+
+***
+![Global Rugged Phones Market Forecast to 2027](https://mms.businesswire.com/media/20210312005297/en/371054/23/ResearchAndMarkets_800px.jpg "Global Rugged Phones Market Forecast to 2027")
+
+
+[Global Rugged Phones Market Forecast to 2027](https://www.businesswire.com/news/home/20210312005297/en/Global-Rugged-Phones-Market-Forecast-to-2027---COVID-19-Impact-and-Analysis---ResearchAndMarkets.com)
+
+
+> March 12, 2021 08:59 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Rugged Phones Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Type, Screen Size, and End-User" report has been added to ResearchAndMarkets.com's offering. According to this report the market was valued at US$ 2,432.84 million in 2019 and is projected to reach US$ 3,960.79 million by 2027; it is expected to grow at a CAGR of 6.5% from 2020 to 2027. North America led the global rugged phones market with more than 30.
+
+
+***
+![MSCI Launches Private Offering of $500 Million Senior Unsecured Notes Due 2030; To Redeem 4.750% Notes Due 2026](http://www.businesswire.com/images/bwlogo_square.png "MSCI Launches Private Offering of $500 Million Senior Unsecured Notes Due 2030; To Redeem 4.750% Notes Due 2026")
+
+
+[MSCI Launches Private Offering of $500 Million Senior Unsecured Notes Due 2030; To Redeem 4.750% Notes Due 2026](https://www.businesswire.com/news/home/20210312005296/en/MSCI-Launches-Private-Offering-of-500-Million-Senior-Unsecured-Notes-Due-2030-To-Redeem-4.750-Notes-Due-2026)
+
+
+> March 12, 2021 08:59 AM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--MSCI Inc. (NYSE: MSCI), a leading provider of critical decision support tools and services for the global investment community, announced today that it intends to issue $500.0 million aggregate principal amount of senior unsecured notes due 2030 (the 'notes') in a private offering that is exempt from the registration requirements of the Securities Act of 1933, as amended (the 'Securities Act'). The notes will constitute a further issuance of, be fully fungible with, rank equally with and form a single series with the $400.
+
+
+***
+![Malware Found In 9 Utility Apps That Were Available In The Play Store](https://www.androidheadlines.com/wp-content/uploads/2019/03/Privacy-Cyber-Security-AH-Nov-AH-2019.jpg "Malware Found In 9 Utility Apps That Were Available In The Play Store")
+
+
+[Malware Found In 9 Utility Apps That Were Available In The Play Store](https://www.androidheadlines.com/2021/03/malware-9-utility-apps-android.html)
+
+
+> Check Point Research spotted malware in 9 utility apps, all of which are now removed from the Play Store. This malware dropper is called ‘Cast82', and it's a serious problem.This malware avoided detection by Google Play ProtectThis new malware has the ability to avoid detection by Google Play Protect. It can also change the payload dropped from a non-malicious payload to the AlienBot banker and MRAT:To clarify, the AlienBot malware family is a Malware-as-a-Service (MaaS) for Android devices. 'It allows a remote attacker to inject malicious code into legitimate financial applications', states Check Point Research.
+
+
