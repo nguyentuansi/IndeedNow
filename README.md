@@ -41751,3 +41751,50 @@
 > reddit: the front page of the internet
 
 
+***
+![WordPress 5.7 now lets you safeguard your website with just one click](https://cdn.mos.cms.futurecdn.net/yDX5VaYZa9C9jFuEEHgxiD-1200-80.jpg "WordPress 5.7 now lets you safeguard your website with just one click")
+
+
+[WordPress 5.7 now lets you safeguard your website with just one click](https://www.techradar.com/news/wordpress-57-now-lets-you-safeguard-your-website-with-just-one-click)
+
+
+> (Image credit: Shutterstock) Building websites and upgrading their security is about to get a whole lot easier in WordPress with the release of the latest version of the world's most popular CMS.WordPress 5.7 'Esperanza' is the first WordPress release of this year and it is named in honor of the modern musical prodigy Esperanza Spalding.In addition to improvements to the editor, one of the biggest features in this release is the ability to convert WordPress sites from HTTP to HTTPS in just one click.
+
+
+***
+![The 'OK Google' wake word on Wear OS has finally been fixed](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/07/fossil-gen-5-1-year-review-6.jpeg "The 'OK Google' wake word on Wear OS has finally been fixed")
+
+
+[The 'OK Google' wake word on Wear OS has finally been fixed](https://www.androidcentral.com/wear-os-ok-google-assistant-wake-word-fixed)
+
+
+> Source: Joe Maring / Android Central Users have reported that the Google Assistant hotword for Wear OS has been fixed. The feature has reportedly been broken since at least October. Wear OS users can access Google with their voice or by holding the crown. Wear OS has its share of problems, but a problem with popular feature on the best Wear OS watches has taken Google months to address. As far back as October, users have reported that their Wear OS smartwatches, such as the Fossil Gen 5 LTE, have been unable to access Google Assistant using the hands-free "OK Google" wake word.
+
+
+***
+![How to watch the winter premiere of Grey's Anatomy online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/greys-anatomy-abc.jpg "How to watch the winter premiere of Grey's Anatomy online from anywhere")
+
+
+[How to watch the winter premiere of Grey's Anatomy online from anywhere](https://www.androidcentral.com/how-watch-winter-premiere-greys-anatomy-online-anywhere)
+
+
+> Grey's Anatomy returned to television back in November of last year for its 17th season following the longest hiatus in the show's 15 year history. Fans only got to watch six new episodes of the show though before its winter finale but now Grey's Anatomy is coming back once again and we have all the details on how you can watch its 2021 winter premiere on TV or online. Instead of picking up where season 16 left off, the latest season of Grey's Anatomy began about a month and a half into the pandemic with Dr.
+
+
+***
+![Web inventor Berners-Lee says 'fad' of internet giants will pass](https://i-invdn-com.akamaized.net/news/LYNXMPEE2P0BD_L.jpg "Web inventor Berners-Lee says 'fad' of internet giants will pass")
+
+
+[Web inventor Berners-Lee says 'fad' of internet giants will pass](https://www.investing.com/news/technology-news/web-inventor-bernerslee-says-fad-of-internet-giants-will-pass-2444692)
+
+
+> 2/2 © Reuters. FILE PHOTO: World Wide Web founder Tim Berners-Lee poses for a photograph following a speech at the Mozilla Festival 2018 in London 2/2 LONDON (Reuters) - Tim Berners-Lee, the inventor of the World Wide Web, has said the dominance of internet giants is a "fad" that does not have to endure, adding that urgent change was needed to improve a digital divide in young people's online access. Berners-Lee, who invented the internet navigation system known as the World Wide Web in 1989, said he sensed "a feeling out there of restlessness, a feeling that we need to tip things over to change them".
+
+
+***
+[Google is further integrating the Publisher Provided Identifier into its Ad Manager, aiding publishers' first-party tracking in lieu of third-party cookies (Sarah Sluis/AdExchanger)](http://www.techmeme.com/210311/p33#a210311p33)
+
+
+> Sarah Sluis / AdExchanger: Google is further integrating the Publisher Provided Identifier into its Ad Manager, aiding publishers' first-party tracking in lieu of third-party cookies — The PPID's technical setup works like this: the publisher will create a unique ID for users, based on a first-party cookie or a log-in ID.
+
+
