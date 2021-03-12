@@ -41898,3 +41898,50 @@
 > reddit: the front page of the internet
 
 
+***
+[外資：蘋果自製 5G modem 後年問市，料由台積電代工](https://technews.tw/2021/03/12/apple-5g-modem-may-be-manufactured-by-tsmc/)
+
+
+> 蘋果自製的 5G modem 將在後年問世？巴克萊（Barclays）預測，2023 年問世的 iPhone， […]
+
+
+***
+![Foundation for 'air traffic control tower' for drones in Singapore in place after successful trials](https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/03/12/nz_drone_120371.jpg?itok=TaFWzc2U "Foundation for 'air traffic control tower' for drones in Singapore in place after successful trials")
+
+
+[Foundation for 'air traffic control tower' for drones in Singapore in place after successful trials](https://www.straitstimes.com/tech/tech-news/foundation-for-air-traffic-control-tower-for-drones-in-singapore-in-place-after)
+
+
+> SINGAPORE - The building blocks for an "air traffic control tower" for drones are in place after trials for the system were recently completed, a development the Government said would help efforts to find ways to better manage drone traffic safely on a large scale in Singapore.Drone use on a mass scale could see them delivering parcels, inspecting buildings and ships and, possibly, even transporting people, not unlike scenes in science fiction.A consortium led by Nova Systems, an Australian technical consultancy and professional services firm, announced on Friday (March 12) that it had successfully completed trials for a system that can manage air traffic for unmanned aircraft systems (UAS), or aerial drones.
+
+
+***
+![Netflix password sharing could come to an end as company tests new feature](https://images.indianexpress.com/2021/03/Netflix_1_Reuters.jpg "Netflix password sharing could come to an end as company tests new feature")
+
+
+[Netflix password sharing could come to an end as company tests new feature](https://indianexpress.com/article/technology/tech-news-technology/netflix-password-sharing-could-come-to-an-end-company-testing-a-new-feature-7224899/)
+
+
+> Netflix is testing a new feature, which will ensure that only those who own the account or live with the owners of the account are able to access to it. Password sharing for Netflix accounts is very common among friends and family members, but it looks like the company could make it more difficult with an upcoming feature, which will require a code before accessing the account. The feature was spotted by Gammawire, which has shared a screenshot of the same as well. Netflix confirmed that it is testing such a feature to The Verge.
+
+
+***
+![Gmail makes it easier for you to copy and paste email addresses](https://images.indianexpress.com/2021/03/Gmail-New-Logo-1.jpg "Gmail makes it easier for you to copy and paste email addresses")
+
+
+[Gmail makes it easier for you to copy and paste email addresses](https://indianexpress.com/article/technology/tech-news-technology/gmail-gets-new-copy-remove-button-paste-email-addresses-7224836/)
+
+
+> Gmail has improved the way you copy and paste an email address. The company has added two new options in the Compose Mail screen on the Gmail app. You will now notice the ‘Copy' and ‘Remove' button in the same section. All you need to do is tap on the email address of the and its associated name will appear on the screen with 'Copy' and 'Remove.' Earlier, users had to tap on the email address and then long-press it to launch the ‘Copy' button. This used to appear on the bottom right corner of the screen.
+
+
+***
+![Honor MagicBook Pro (Intel edition) 16-inch laptop](https://cdn.mos.cms.futurecdn.net/6SJFJEUENuyCGB9GFowtt-1200-80.jpg "Honor MagicBook Pro (Intel edition) 16-inch laptop")
+
+
+[Honor MagicBook Pro (Intel edition) 16-inch laptop](https://www.techradar.com/reviews/honor-magicbook-pro-intel-edition-16-inch-laptop)
+
+
+> Honor, once the rising star that lived in the shadows of Huawei, is now an independent entity in control of its own destiny. Its smartphones sold tens of millions of units worldwide and now that it has cut all ties with its former controlling entity, it is embracing other lucrative verticals. The MagicBook Pro that we're reviewing today is a variant of the model that we reviewed back in September 2020, one that swaps the AMD Ryzen processor for a 10th generation Intel Core i5 processor as the main driver and targeting the creative professionals looking for a capable mobile workstation.
+
+
