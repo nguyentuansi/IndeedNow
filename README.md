@@ -41798,3 +41798,53 @@
 > Sarah Sluis / AdExchanger: Google is further integrating the Publisher Provided Identifier into its Ad Manager, aiding publishers' first-party tracking in lieu of third-party cookies — The PPID's technical setup works like this: the publisher will create a unique ID for users, based on a first-party cookie or a log-in ID.
 
 
+***
+![iPad Air 4 (2020) review](https://cdn.mos.cms.futurecdn.net/TJ5sG8sLNJLxvE9P6VBhUW-1200-80.jpg "iPad Air 4 (2020) review")
+
+
+[iPad Air 4 (2020) review](https://www.techradar.com/reviews/ipad-air-4-review)
+
+
+> The iPad Air 4 (2020) doesn't bring anything revolutionary to Apple's tablet range, but a lot of the features that were previously exclusive to the iPad Pro have trickled down to this far more affordable, and therefore more attractive, device,While this is a tablet that's unlikely to tempt power-hungry users away from the iPad Pro, it brings a lot of what makes that series of tablets great to a cheaper device, albeit one that isn't as cheap as the standard iPad. Finally, the iPad Air 4 (2020) is the middle choice between both extremes of Apple's tablet lineup.
+
+
+***
+![Best 5G phones 2021: these are the next-gen handsets you should pick up](https://cdn.mos.cms.futurecdn.net/aJEv9yeecgx7Ca6AYWcC5b-1200-80.jpg "Best 5G phones 2021: these are the next-gen handsets you should pick up")
+
+
+[Best 5G phones 2021: these are the next-gen handsets you should pick up](https://www.techradar.com/best/best-5g-phones)
+
+
+> Two years after the first smartphone with 5G connectivity hit the market it seems like every other phone launched is 5G-capable, that it's really hard to pick which is the best for you to use. It all depends on how you want to use your 5G phone.5G is the next generation of mobile data connectivity, bringing super-fast speeds along with improved reliability and connection stability over 4G, making it great for tasks like online gaming, streaming movies and downloading large files quickly.Given how many 5G-capable phones are coming in 2021, we've compiled this list of the best 5G phones to lay out your top options.
+
+
+***
+![Performance Optimizations for React Native Applications](https://external-preview.redd.it/FKeAq4Z_sa8bCzvm5QIFIph8gXqCLsQenRycLcc60vM.jpg?auto=webp&s=4938ac8cfe70c930a5eadce41f464a8bab47e080 "Performance Optimizations for React Native Applications")
+
+
+[Performance Optimizations for React Native Applications](https://www.reddit.com/r/programming/comments/m36jve/performance_optimizations_for_react_native/)
+
+
+> reddit: the front page of the internet
+
+
+***
+![Save 50% on meal plan delivery services with the latest Apple Pay promotion](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/apple-pay-grocery-meal-plan-delivery-services-march-2021.jpg "Save 50% on meal plan delivery services with the latest Apple Pay promotion")
+
+
+[Save 50% on meal plan delivery services with the latest Apple Pay promotion](https://www.imore.com/save-50-meal-plan-delivery-services-latest-apple-pay-promotion)
+
+
+> Source: Apple Apple has launched its latest Apple Pay promotion. The promotion offers savings on Instacart, Hello Fresh, and Daily Harvest. Apple has launched its latest Apple Pay promotion, and this one actually features offers from three separate brands. The latest Apple Pay promotion is all about food and offers savings on a number of grocery and meal plan delivery services between today and March 17. Use Apple Pay to subscribe and get exclusive offers on grocery and meal plan delivery services, through March 17.
+
+
+***
+![Makers of that bowling alley drone video reveal hardest move](https://icdn4.digitaltrends.com/image/digitaltrends/fpv-drone-bowling-alley-1200x630-c-ar1.91.jpg "Makers of that bowling alley drone video reveal hardest move")
+
+
+[Makers of that bowling alley drone video reveal hardest move](https://www.digitaltrends.com/news/makers-of-that-bowling-alley-drone-video-reveal-hardest-move/)
+
+
+> A stunning video (above) shot from a drone flying through a bowling alley caused a sensation when it appeared online earlier this week. Captured by filmmaker and expert drone pilot Jay Christensen of Minnesota-based Rally Studios, the astonishing 90-second sequence, called Right Up Our Alley, comprises a single shot that glides through Bryant Lake Bowl and Theater in Minneapolis. The film, which has so far been viewed more than five million times on Twitter alone, was shot using a first-person-view (FPV) Cinewhoop quadcopter, a small, zippy drone that's used, as the name suggests, to capture cinematic footage.
+
+
