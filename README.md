@@ -41848,3 +41848,53 @@
 > A stunning video (above) shot from a drone flying through a bowling alley caused a sensation when it appeared online earlier this week. Captured by filmmaker and expert drone pilot Jay Christensen of Minnesota-based Rally Studios, the astonishing 90-second sequence, called Right Up Our Alley, comprises a single shot that glides through Bryant Lake Bowl and Theater in Minneapolis. The film, which has so far been viewed more than five million times on Twitter alone, was shot using a first-person-view (FPV) Cinewhoop quadcopter, a small, zippy drone that's used, as the name suggests, to capture cinematic footage.
 
 
+***
+![Apple AirPods, Dyson V11 and 8 more deals worth joining eBay Plus for](https://cdn.mos.cms.futurecdn.net/5k86B9iRPrDZirvdxJDgLo-1200-80.jpg "Apple AirPods, Dyson V11 and 8 more deals worth joining eBay Plus for")
+
+
+[Apple AirPods, Dyson V11 and 8 more deals worth joining eBay Plus for](https://www.techradar.com/news/apple-airpods-dyson-v11-and-8-more-deals-worth-joining-ebay-plus-for)
+
+
+> (Image credit: Future) Over the past couple of years, many Aussie retailers have introduced membership programs that, for a flat monthly or yearly fee, offer cheaper or free shipping alongside access to exclusive offers and further savings on already discounted items. eBay Plus is arguably one of the better-value options out there because of the sheer number of deals it gets you access to, with Plus coupons regularly knocking 10, 15 or even 20% off huge numbers of products in specific categories or from big-name retailers.
+
+
+***
+![Google Pay will now send you personalised ads based on your spends](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/Screenshot_2021-03-12_at_9.15.-647x363.png?dkyf6oBRp8kzZ.pwUlUAIknozwzBDBn4 "Google Pay will now send you personalised ads based on your spends")
+
+
+[Google Pay will now send you personalised ads based on your spends](https://www.indiatoday.in/technology/news/story/google-pay-will-now-send-you-personalised-ads-based-on-your-spends-1778377-2021-03-12)
+
+
+> Google Pay will now send you personalised ads based on your spendsGoogle Pay announced a couple of privacy features yesterday. The search giant revealed in a blog that it will now let users delete their UPI transaction data. Apart from this, Google Pay will also let its users personalize the app. Based on your spending on the app, the company will send you relevant offers and rewards.Google is rolling out the new set of features for the users in India. The company will start sending advertisements based on traffic and the spending habits of users.
+
+
+***
+![Google Podcasts could soon provide better recommendations](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/google-podcasts-homescreen-lifestyle.jpg "Google Podcasts could soon provide better recommendations")
+
+
+[Google Podcasts could soon provide better recommendations](https://www.androidcentral.com/google-podcasts-could-soon-provide-better-recommendations)
+
+
+> Source: Jeramy Johnson / Android Central Google Podcasts could soon add a 'heart' icon. This is designed to help improve recommendations for other podcasts. The feature is not available for everyone, as it can only be enabled on the backend. Podcasts are the new radio, and it's important to be using the best podcast apps for Android. Google Podcasts falls in that category, and it won't be long before the app provides better recommendations for new shows. Google has pushed a new update for the beta version of its Podcasts app, and 9to5Google has found mentions of some lines of code suggesting some features.
+
+
+***
+![Realme 8 Pro, Realme 8 design, specifications, launch date leaked](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/realme_8_pro_clip_1-647x363.jpeg?v_Ggv3r4X_xJWGawsT.2skz0XLbvWbtC "Realme 8 Pro, Realme 8 design, specifications, launch date leaked")
+
+
+[Realme 8 Pro, Realme 8 design, specifications, launch date leaked](https://www.indiatoday.in/technology/news/story/realme-8-pro-realme-8-design-specifications-launch-date-leaked-1778376-2021-03-12)
+
+
+> Realme 8 Pro launch in India is imminent. It has been confirmed by Realme alongside the Realme 8. So, at least two smartphones in the Realme 8 series are arriving. Realme has also shared some details on the specifications of the two phones but the information has been sparing. Especially for the Realme 8 Pro, the concrete details about which include the 108MP camera and a 5G model. Now, a new piece of information begs to tell that model number sourced from certification websites. Besides, the launch date of the Realme 8 series has also been tipped.
+
+
+***
+![Terry Crews Launches his own Cryptocurrency](https://external-preview.redd.it/Y3LypUHSGYymrbfN0V2x5uALaj16DQe2GZXCJSxopsg.jpg?auto=webp&s=d905c79c3af12654dc12fcca16de7a97965437d5 "Terry Crews Launches his own Cryptocurrency")
+
+
+[Terry Crews Launches his own Cryptocurrency](https://www.reddit.com/r/technology/comments/m38f96/terry_crews_launches_his_own_cryptocurrency/)
+
+
+> reddit: the front page of the internet
+
+
