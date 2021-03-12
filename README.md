@@ -42142,3 +42142,53 @@
 > Check Point Research spotted malware in 9 utility apps, all of which are now removed from the Play Store. This malware dropper is called ‘Cast82', and it's a serious problem.This malware avoided detection by Google Play ProtectThis new malware has the ability to avoid detection by Google Play Protect. It can also change the payload dropped from a non-malicious payload to the AlienBot banker and MRAT:To clarify, the AlienBot malware family is a Malware-as-a-Service (MaaS) for Android devices. 'It allows a remote attacker to inject malicious code into legitimate financial applications', states Check Point Research.
 
 
+***
+![Women's safety: Smartphone tips shared online](https://ichef.bbci.co.uk/news/1024/branded_news/1116A/production/_117549996_gettyimages-994315236.jpg "Women's safety: Smartphone tips shared online")
+
+
+[Women's safety: Smartphone tips shared online](https://www.bbc.com/news/technology-56373292)
+
+
+> By Zoe KleinmanTechnology reporterimage copyrightGetty ImagesPeople in the UK have been sharing personal safety tips on social media following the death of Sarah Everard who disappeared as she walked home from a friend's house in south London last week. Police have confirmed that a body found in woodland near Ashford in Kent is that of the 33-year-old marketing executive. Metropolitan police commissioner Dame Cressida Dick has said it is "thankfully incredibly rare" for women to be abducted on the streets of London, but women around the country have shared experiences of facing fear or intimidation.
+
+
+***
+![How to use emergency SOS features on your iPhone, Android phone or smartwatch](https://cdn.mos.cms.futurecdn.net/UxXEzggWeqs6cwBX4HLDjX-1200-80.jpg "How to use emergency SOS features on your iPhone, Android phone or smartwatch")
+
+
+[How to use emergency SOS features on your iPhone, Android phone or smartwatch](https://www.techradar.com/how-to/how-to-use-emergency-sos-features-on-your-iphone-android-phone-or-smartwatch)
+
+
+> Looking to use your phone in an emergency? Modern smartphones and smartwatches allow you to set certain features that will ping your last known location to emergency contacts in a situation where you're unable to talk on the phone.Both Apple and Google have baked these features into the respective iOS and Android platforms, and we're seeing more and more wearable manufacturers include the features too.Why would you want to set up emergency SOS location tracking? There's a variety of scenarios where you may not be able to talk on a phone, but you will be able to find a way to send your location to trusted individuals.
+
+
+***
+![OnePlus 9 camera videos spilling their own beans](https://cdn.slashgear.com/wp-content/uploads/2021/03/oneplusgawewea.jpg "OnePlus 9 camera videos spilling their own beans")
+
+
+[OnePlus 9 camera videos spilling their own beans](https://www.slashgear.com/oneplus-9-camera-videos-spilling-their-own-beans-12663494/)
+
+
+> The latest release from OnePlus shows a whole lot about the OnePlus 9 and their upcoming collaboration with Hassleblad. A 'Behind the Lens' series was revealed, with 'Episode 1' appearing on March 11, 2021. This first episode in the series shows not only a bunch of details of the development of the first Hassleblad x OnePlus phone – it also gives several looks at said device, both front and back. The OnePlus 9 series will more than likely be released in more than one iteration, based on leaks we've seen over the past few weeks.
+
+
+***
+![Save £119 on 256GB storage Samsung Galaxy S21 deals through Amazon](https://cdn.mos.cms.futurecdn.net/gyc5gsNXPU7XAsiVUz59Vm-1200-80.jpg "Save £119 on 256GB storage Samsung Galaxy S21 deals through Amazon")
+
+
+[Save £119 on 256GB storage Samsung Galaxy S21 deals through Amazon](https://www.techradar.com/news/save-pound119-on-256gb-storage-samsung-galaxy-s21-deals-through-amazon)
+
+
+> (Image credit: Future) Samsung Galaxy S21 deals really haven't been available for that long, with the phone itself launching at the beginning of 2021. And yet, we're already seeing some big savings on the handset.Amazon has just released a deal that gets you the Samsung S21 for its lowest price yet. Plus, this offer is on the 256GB of storage model of the handset, while charging less than the smaller 128GB version.With this discount, you're saving a total of £119. That leaves you with a price of just £699.
+
+
+***
+![Bollinger prices its Class 3 EV cab and platform – and now there's a dually](https://cdn.slashgear.com/wp-content/uploads/2021/03/2021.March-Bollinger-Motors-B2CC-Rear-3.4-two-door-Dually.jpg "Bollinger prices its Class 3 EV cab and platform – and now there's a dually")
+
+
+[Bollinger prices its Class 3 EV cab and platform – and now there's a dually](https://www.slashgear.com/bollinger-prices-its-class-3-ev-cab-and-platform-and-now-theres-a-dually-12663477/)
+
+
+> Bollinger Motors is scaling up its commercial electric vehicle ambitions, with new rear-wheel drive and dually versions of the platforms it plans to offer to companies looking to build their own zero-emissions Class 3 truck. Announced last year, the Bollinger B2 CHASS-E Cab and CHASS-E effectively aim to fast-track commercial fleets as they transition to electric, with the appeal of the two versions depending on just how much customization each company wants to do. The B3 CHASS-E Cab, for instance, looks a lot like a traditional chassis cab truck platform, albeit one with Bollinger's distinctive angular styling.
+
+
