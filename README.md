@@ -41945,3 +41945,53 @@
 > Honor, once the rising star that lived in the shadows of Huawei, is now an independent entity in control of its own destiny. Its smartphones sold tens of millions of units worldwide and now that it has cut all ties with its former controlling entity, it is embracing other lucrative verticals. The MagicBook Pro that we're reviewing today is a variant of the model that we reviewed back in September 2020, one that swaps the AMD Ryzen processor for a 10th generation Intel Core i5 processor as the main driver and targeting the creative professionals looking for a capable mobile workstation.
 
 
+***
+![Vivo X60 series to launch in India on March 25](https://cdn.mos.cms.futurecdn.net/bzioEEUzKbGxrpVGG4LUu7-1200-80.jpg "Vivo X60 series to launch in India on March 25")
+
+
+[Vivo X60 series to launch in India on March 25](https://www.techradar.com/news/vivo-x60-india-launch-date)
+
+
+> (Image credit: Vivo) Vivo X60 series launch in India will happen on March 25. The company has sent out invites for the launch event for its upcoming Vivo X60 series launch in India. The invite says "Photography Redefined". The key feature of the Vivo X series has always been its cameras. Well, this time around its no different. The Vivo X60 series cameras are powered by Zeiss and the Vivo X60, Vivo X60 Pro, and the top of the Vivo X60 Pro Plus devices are expected to launch on March 25. All three phones have been launched in China and the Indian variant is said to come with a slight change in terms of the chipset.
+
+
+***
+![Red Flags I Saw While Doing 60+ Technical Interviews in 30 Days](https://external-preview.redd.it/u6lpBw90OCU3SgD89ZEtmviGBvV7eKFmVSulDPYtoI8.jpg?auto=webp&s=3ecb17ab7b15d86011c2ad516d9a768edb6bcef8 "Red Flags I Saw While Doing 60+ Technical Interviews in 30 Days")
+
+
+[Red Flags I Saw While Doing 60+ Technical Interviews in 30 Days](https://www.reddit.com/r/programming/comments/m3cvu2/red_flags_i_saw_while_doing_60_technical/)
+
+
+> reddit: the front page of the internet
+
+
+***
+![Embed Google reCAPTCHA Validation in Odoo using Python](https://external-preview.redd.it/t5Ev1tv7kZu_5MeIU3T_GC4vI6dOYCr8jJbKqBCWAEI.jpg?auto=webp&s=a625c5d368a46a38168fb0c2843b1f4e17ea5ce7 "Embed Google reCAPTCHA Validation in Odoo using Python")
+
+
+[Embed Google reCAPTCHA Validation in Odoo using Python](https://www.reddit.com/r/Python/comments/m3crv9/embed_google_recaptcha_validation_in_odoo_using/)
+
+
+> reddit: the front page of the internet
+
+
+***
+![Can You Really Work From Home With Your Android Phone?](https://www.androidheadlines.com/wp-content/uploads/2021/03/Work-from-home.jpg "Can You Really Work From Home With Your Android Phone?")
+
+
+[Can You Really Work From Home With Your Android Phone?](https://www.androidheadlines.com/2021/03/work-from-home-android-phone.html)
+
+
+> Working from home is something that is increasing in popularity and has been since before the COVID-19 pandemic. FlexJobs estimates that 26.7% of the American workforce will continue to work remotely through 2021.Sources report that the average business computer can cost you anywhere from $400 to $3,500 out the door, not to mention the cost of WiFi hardware and computer software that will get your work from home operation up and running.Some people out there may be looking for ways to work remotely without having to shell out big bucks in order to do so.
+
+
+***
+![Optibus/playback A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).](https://external-preview.redd.it/kYqcRAcygJ_9s6JhPmT7-7jdJ7IAX-Lm6dJRZ3Fqn7o.jpg?auto=webp&s=348c3234bff70f12b78fabbbb4eeda5a98af882e "Optibus/playback A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).")
+
+
+[Optibus/playback A Python decorator-based framework that lets you "record" and "replay" operations (e.g. API requests, workers consuming jobs from queues).](https://www.reddit.com/r/Python/comments/m3cplh/optibusplayback_a_python_decoratorbased_framework/)
+
+
+> reddit: the front page of the internet
+
+
