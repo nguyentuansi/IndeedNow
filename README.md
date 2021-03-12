@@ -42192,3 +42192,53 @@
 > Bollinger Motors is scaling up its commercial electric vehicle ambitions, with new rear-wheel drive and dually versions of the platforms it plans to offer to companies looking to build their own zero-emissions Class 3 truck. Announced last year, the Bollinger B2 CHASS-E Cab and CHASS-E effectively aim to fast-track commercial fleets as they transition to electric, with the appeal of the two versions depending on just how much customization each company wants to do. The B3 CHASS-E Cab, for instance, looks a lot like a traditional chassis cab truck platform, albeit one with Bollinger's distinctive angular styling.
 
 
+***
+![PS5 UK stock LIVE – Amazon set to drop console stock on MONDAY – plus latest Playstation news at Currys, Very, GAME](https://www.the-sun.com/wp-content/uploads/sites/6/2021/02/TOB-PS5-1200x1200-3.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 UK stock LIVE – Amazon set to drop console stock on MONDAY – plus latest Playstation news at Currys, Very, GAME")
+
+
+[PS5 UK stock LIVE – Amazon set to drop console stock on MONDAY – plus latest Playstation news at Currys, Very, GAME](https://www.the-sun.com/lifestyle/tech/2404339/ps5-argos-stock-uk-currys-live-playstation-console-latest/)
+
+
+> AMAZON is shipping and distributing a new batch of PS5 consoles this weekend - with insiders predicting a stock drop as early as MONDAY. On Friday morning, stock tracker PS5UKStock highlighted how the online retailer had started listing the consoles, but without the option to pay – meaning stock is bound to follow. But hours later, the tracker tweeted how a 'large shipment" is "moving tomorrow and being distributed across the weekend'. It means another chance for eager gamers to bag the console of their dreams.
+
+
+***
+![Pyqt6 is launched! See its new Features](https://external-preview.redd.it/4wK2pCGQAFCNJAJCgy5s6qLFbcJRyXDx5RuPhRXH1Sc.jpg?auto=webp&s=9eddbe040fc99b18840955878ead5b5de0ce0ed2 "Pyqt6 is launched! See its new Features")
+
+
+[Pyqt6 is launched! See its new Features](https://www.reddit.com/r/Python/comments/m3n8c8/pyqt6_is_launched_see_its_new_features/)
+
+
+> reddit: the front page of the internet
+
+
+***
+![Searching a Binary Search Tree BST](https://external-preview.redd.it/H0UGEXlxHq8baCQgJnfcVME93I_tlwQNmhYRYwT188c.jpg?auto=webp&s=2ae47abfd87b3fa4a84c1c541435f2fb54ad817d "Searching a Binary Search Tree BST")
+
+
+[Searching a Binary Search Tree BST](https://www.reddit.com/r/Python/comments/m3n88r/searching_a_binary_search_tree_bst/)
+
+
+> No body in the article.
+
+
+***
+![How China's attack on Microsoft escalated into a 'reckless' hacking spree](https://external-preview.redd.it/fovYFKOx627Gr-vjq55Zt6FzWaum3jzHKOYHyOWnI40.jpg?auto=webp&s=2f0fa1719cbbd78d6afea528caefe64f5bd165dc "How China's attack on Microsoft escalated into a 'reckless' hacking spree")
+
+
+[How China's attack on Microsoft escalated into a 'reckless' hacking spree](https://www.reddit.com/r/technology/comments/m3n6rn/how_chinas_attack_on_microsoft_escalated_into_a/)
+
+
+> reddit: the front page of the internet
+
+
+***
+![9 tech titans made $360 billion during the pandemic. Will that shatter the myth of the benevolent billionaire?](https://www.washingtonpost.com/resizer/Ki1CVSJtCgIb2KT4eAU70DdcOTo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PJXRVB6JVBDERI2VJSPSTYOCTI.jpg "9 tech titans made $360 billion during the pandemic. Will that shatter the myth of the benevolent billionaire?")
+
+
+[9 tech titans made $360 billion during the pandemic. Will that shatter the myth of the benevolent billionaire?](https://www.washingtonpost.com/technology/2021/03/12/musk-bezos-zuckerberg-gates-pandemic-profits/)
+
+
+> The pandemic has been a boom time for America's richest billionaires. The wealth of nine of the country's top titans has increased by more than $360 billion in the past year. And they are all tech barons, underscoring the power of the industry in the U.S. economy. Tesla's Elon Musk more than quadrupled his fortune and jockeyed with Amazon's Jeff Bezos for the title of world's wealthiest person. Facebook's Mark Zuckerberg topped $100 billion. Google co-founders Larry Page and Sergey Brin gained a combined $65 billion.
+
+
