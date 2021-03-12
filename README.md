@@ -42045,3 +42045,50 @@
 > General view of The High Court in Admiralty. 18JUN20 SCMP/ Warton Li General view of The High Court in Admiralty. 18JUN20 SCMP/ Warton Li
 
 
+***
+![Google Pay will allow users to delete transaction history in updated version](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/Screenshot_2021-03-12_at_4.53.-647x363.png?z5t30WPvmKAetIGFcAnBz4Jyi3oil2vq "Google Pay will allow users to delete transaction history in updated version")
+
+
+[Google Pay will allow users to delete transaction history in updated version](https://www.indiatoday.in/technology/news/story/google-pay-will-allow-users-to-delete-transaction-history-in-updated-version-1778614-2021-03-12)
+
+
+> Google Pay will prompt users if they would like to turn the control on or off as soon as they upgrade to the next version of the Google Pay app.Users can view and delete individual transactions and activity records that they don't want Google Pay to use to personalise their experience.Google noted that turning on personalisation within Google Pay will provide a more tailored experience within the platform.Google Pay users will now be able to delete their payment or transaction history as the unified payment interface (UPI) platform aims to give users more control of their account by 'putting them in the driver's seat to manage their data.
+
+
+***
+![Can I share my Netflix password? Account rules explained](https://www.thesun.co.uk/wp-content/uploads/2021/03/netflix.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Can I share my Netflix password? Account rules explained")
+
+
+[Can I share my Netflix password? Account rules explained](https://www.thesun.co.uk/tech/14317365/netflix-password-can-i-share-account-login-rules-ban/)
+
+
+> SHARING a Netflix account is very common – but it's not always allowed. Worse still, Netflix is now trying to catch people breaking the rules. Here's what you need to know. Netflix is one of the most popular apps in the worldCredit: Unsplash Can I share my Netflix password? Netflix currently forbids the sharing of Netflix passwords. According to the terms and services, you shouldn't pass on your login "beyond your household". That means if you've got friends, brothers, sisters, cousins, long-distance lovers or kids at university using your Netflix, you may be breaking the rules.
+
+
+***
+[Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers)
+
+
+> Competitive salaries & stock options  Health & Wellness stipend401(k) PlanTeam events, awesome coworkers and plenty of snacksCommuter benefits & commute friendly location (BART, 101 & parking)Long Term Disability CoverageComprehensive Health Insurance (Medical, Dental & Vision)Paid vacation, sick time and company holidaysChoice of Mac or Windows laptopNoise canceling headphones
+
+
+***
+![YouTube pulls 30k videos with COVID-19 vaccine misinformation](https://imagevars.gulfnews.com/2020/11/18/YouTube_175dc620fda_medium.jpg "YouTube pulls 30k videos with COVID-19 vaccine misinformation")
+
+
+[YouTube pulls 30k videos with COVID-19 vaccine misinformation](https://gulfnews.com/technology/media/youtube-pulls-30k-videos-with-covid-19-vaccine-misinformation-1.1615550138361)
+
+
+> Image Credit: Shutterstock San Francisco: With the aim to demotivate false claims about Covid-19, video-streaming platform YouTube has removed over 30,000 videos for sharing misinformation about Covid-19 vaccines over the last six months. According to a report by Axios, the video-streaming platform has taken down more than 800,000 videos containing Covid-19 misinformation since February 2020. The videos are first flagged by either the company's AI systems or human reviewers, then receive another level of review.
+
+
+***
+![Fix For ‘Hey Google' Detection Issue On Wear OS Is Rolling Out](https://www.androidheadlines.com/wp-content/uploads/2020/02/Emporio-Armani-Smartwatch-3-Review-5.jpg "Fix For ‘Hey Google' Detection Issue On Wear OS Is Rolling Out")
+
+
+[Fix For ‘Hey Google' Detection Issue On Wear OS Is Rolling Out](https://www.androidheadlines.com/2021/03/hey-google-detection-issue-fix-rolling-out.html)
+
+
+> After months of waiting, Google last month finally acknowledged the "Hey Google" issue on Wear OS watches and said that it's working on a fix. It appears the company is now starting to roll out the said fix.A Redditor with an Oppo Watch has posted a short video on the Wear OS subreddit, showing the "Hey Google" command working again (via Android Police). The feature is also seemingly working for some other users with Fossil Gen 5 and Gen 3 watches. Some users claim that conversational actions are also working fine now.
+
+
