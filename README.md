@@ -41995,3 +41995,53 @@
 > reddit: the front page of the internet
 
 
+***
+![Best broadband plans with up to 150Mbps speed: ACT, JioFiber, Hathway, Airtel, and more](https://images.indianexpress.com/2021/03/Wifi-1.jpg "Best broadband plans with up to 150Mbps speed: ACT, JioFiber, Hathway, Airtel, and more")
+
+
+[Best broadband plans with up to 150Mbps speed: ACT, JioFiber, Hathway, Airtel, and more](https://indianexpress.com/article/technology/techook/best-broadband-plans-with-up-to-150mbps-speed-act-jiofiber-hathway-airtel-and-more-7225155/)
+
+
+> ACT Fibernet, JioFiber, Hathway, Airtel, and other broadband service providers are offering up to 150Mbps plans with unlimited data benefits. Some of the companies might be giving limited data, but they are offering a good Wi-Fi connection. Companies like ACT, Jio and Airtel are also giving free access to OTT content, which makes the deal sweeter. If you are looking for up to 150Mbps speed plans with a lot of data, then check out the best broadband plans below. Best broadband plans with up to 150Mbps speed JioFiber broadband plans Reliance Jio's JioFiber just recently garnered the top spot in India's fixed broadband speed rankings in Q4 2020.
+
+
+***
+![US Search review](https://cdn.mos.cms.futurecdn.net/RsrfkxsLfpoCDCDiTwCrWD-1200-80.jpg "US Search review")
+
+
+[US Search review](https://www.techradar.com/reviews/us-search)
+
+
+> US Search is a simple yet effective people search finder and background check tool. The service enables you to search for anyone using just a name, phone number, or address.Want to try US Search? Check out the website hereUS Search reports often have erroneous information, so they cannot be used for official purposes like employment or credit checks. However, the platform is still useful for reconnecting with an old friend or investigating a new acquaintance's history.In our US Search review, we'll help you decide whether this people finder is worth the money.
+
+
+***
+![Tape that: Dutch inventor of audio cassette dies at age 94](https://www.abc27.com/wp-content/uploads/sites/55/2021/03/64608afdaf05419284a12b75de3fa393.jpg?w=1280 "Tape that: Dutch inventor of audio cassette dies at age 94")
+
+
+[Tape that: Dutch inventor of audio cassette dies at age 94](https://www.abc27.com/news/us-world/tech/tape-that-dutch-inventor-of-audio-cassette-dies-at-age-94/)
+
+
+> by: MIKE CORDER, Associated Press Posted: Mar 12, 2021 / 04:56 AM EST / Updated: Mar 12, 2021 / 04:56 AM EST In this photo dated 1988, structural engineer Lou Ottens holding an audio cassette poses for a photo. The Dutch inventor of the cassette tape, Ottens died Saturday March 6, 2021, at the age of 94, according to an announcement issued by the Philips company. (Philips Company Archives via AP) THE HAGUE, Netherlands (AP) — Lou Ottens, the Dutch inventor of the cassette tape, the medium of choice for millions of bedroom mix tapes, has died, said Philips, the company where he also helped develop the compact disc.
+
+
+***
+![TruthFinder review](https://cdn.mos.cms.futurecdn.net/DxUFsEAADdf5D6DV2Jg9hg-1200-80.jpg "TruthFinder review")
+
+
+[TruthFinder review](https://www.techradar.com/reviews/truthfinder)
+
+
+> TruthFinder is a platform that claims to be one of the most trusted and best background check services in America. The company says it goes deeper than competing services by scanning dating profiles, education history, and owned assets when performing a check. Want to try TruthFinder? Check out the website hereBut how well does the site work in practice? As you'll find out in this TruthFinder review, there are a few problems with the service, especially when it comes to pricing transparency and overenthusiastic promises about the level of information you'll receive.
+
+
+***
+![Hong Kong court hears Meng Wanzhou's application to access HSBC documents to undergird her bid to quash extradition to US](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/12/84c27716-1f32-4b1c-895e-168facb5642d_e8401c2c.jpg?itok=PGjF6vIM&v=1615542565 "Hong Kong court hears Meng Wanzhou's application to access HSBC documents to undergird her bid to quash extradition to US")
+
+
+[Hong Kong court hears Meng Wanzhou's application to access HSBC documents to undergird her bid to quash extradition to US](https://www.scmp.com/tech/tech-war/article/3125229/hong-kong-court-hears-meng-wanzhous-application-access-hsbc-documents)
+
+
+> General view of The High Court in Admiralty. 18JUN20 SCMP/ Warton Li General view of The High Court in Admiralty. 18JUN20 SCMP/ Warton Li
+
+
