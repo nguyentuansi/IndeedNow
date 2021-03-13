@@ -42523,3 +42523,53 @@
 > OnePlus Watch is all set to launch on March 23. The company has confirmed via its official Twitter handle that its smartwatch will most likely launch alongside the OnePlus 9 series. The brand already offers neckband-style earphones, TWS wireless earbuds, a backpack, a fitness band, Smart TVs, and now it is finally launching the OnePlus Watch. The teasers posted by the company doesn't reveal much about the upcoming OnePlus Watch. It does suggest that the smartwatch will feature a round dial, which the company has already hinted in the past via teasers.
 
 
+***
+![Oppo Find X3 Pro vs Samsung Galaxy S21 Ultra: two camera kings compete](https://cdn.mos.cms.futurecdn.net/fpbcVRTHcdfzEdKwzKFs6i-1200-80.jpg "Oppo Find X3 Pro vs Samsung Galaxy S21 Ultra: two camera kings compete")
+
+
+[Oppo Find X3 Pro vs Samsung Galaxy S21 Ultra: two camera kings compete](https://www.techradar.com/news/oppo-find-x3-pro-vs-samsung-galaxy-s21-ultra)
+
+
+> The Oppo Find X3 Pro is one of the biggest rivals to the Samsung Galaxy S21 Ultra yet. It's tremendously powerful, has high-end specs and features, and even has a clever microlens camera that you won't find on other phones.So does it have the Samsung Galaxy S21 Ultra beat? Well, not in all ways, but for some people it could certainly be the better choice.We've reviewed both of these phones, but below we'll directly compare them, looking at both their on-paper specs, and how we found them in practice.
+
+
+***
+![Tech pulls back, but Dow climbs to another record](https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/197654709_197653186-9cce12e8d0e04e1ca15246db328d9bf4_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676 "Tech pulls back, but Dow climbs to another record")
+
+
+[Tech pulls back, but Dow climbs to another record](https://www.arkansasonline.com/news/2021/mar/13/tech-pulls-back-but-dow-climbs-to-another-record/)
+
+
+> A late-afternoon burst of buying helped nudge several U.S. stock indexes to all-time highs Friday, despite a pullback in big tech companies as bond yields headed higher. The S&P 500 rose 0.1% after having been in the red for most of the day. The benchmark index also notched its second-straight weekly gain. Financial and industrial companies led a broad rally, outweighing the slide in technology and communications stocks. The Dow Jones Industrial Average and Russell 2000 index of smaller-company stocks hit all-time highs for the second day in a row.
+
+
+***
+![Resurrecting Fortran](https://external-preview.redd.it/PpBJ1Jrh1ysW6Ff4_0UrDiwEJbLZI_MGheVux9cXSKg.jpg?auto=webp&s=309eac16ae92061efc1d94b34eb52b2e6026c5e6 "Resurrecting Fortran")
+
+
+[Resurrecting Fortran](https://www.reddit.com/r/programming/comments/m41w9j/resurrecting_fortran/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![This crafty email scam smuggles malware behind .zipx files](https://cdn.mos.cms.futurecdn.net/iSQfGe9XA3XqEH7JGhjApZ-1200-80.jpg "This crafty email scam smuggles malware behind .zipx files")
+
+
+[This crafty email scam smuggles malware behind .zipx files](https://www.techradar.com/uk/news/this-crafty-email-scam-smuggles-malware-behind-zipx-files)
+
+
+> (Image credit: Shutterstock / rupadaratan) Researchers have identified a new email scam that applies a number of crafty techniques to bypass security filters and infect victims with malware.As described in a blog post from security firm Trustwave, cybercriminals are abusing file compression techniques to smuggle NanoCore malware into inboxes.By concealing the malicious executable within a .zipx file, the scam operators improve their chances of circumventing security protections. The .zipx file is also dressed up as a PDF, complete with an Adobe Acrobat icon, in a bid to trick the victim into opening the attachment without thinking twice.
+
+
+***
+![Snyk raises $300 million at a $4.7 billion valuation as employees cash in and the security company beefs up – TechCrunch](https://external-preview.redd.it/fenxCySZw2y9II-yLtrxK1TXNOWTdPabNKZpWkwI1i8.jpg?auto=webp&s=6b179c30ac3076522591a6100e69bf5c22f41267 "Snyk raises $300 million at a $4.7 billion valuation as employees cash in and the security company beefs up – TechCrunch")
+
+
+[Snyk raises $300 million at a $4.7 billion valuation as employees cash in and the security company beefs up – TechCrunch](https://www.reddit.com/r/programming/comments/m41rdf/snyk_raises_300_million_at_a_47_billion_valuation/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
