@@ -42663,3 +42663,53 @@
 > The workflow and software pipelines that have come to define Animated and Visual Effects (photoreal) feature production are traditionally divergent, but as virtual production sweeps the film industry, the distinctions between them are disappearing.Whether working on a CG animated feature or working on the visual effects (VFX) for a photoreal feature, the design methodologies, development workflow, and software tools are almost identical during pre-production.  Artists create 2D artwork using tools like Photoshop to flesh out characters, environments, and events in the film.
 
 
+***
+![iLife A10 Robot Vacuum Review: A smarter bot that still needs babysitting](https://img.dtcn.com/image/digitaltrends/ilife-a10-robot-vacuum-review-5-of-9-1200x630-c-ar1.91.jpg "iLife A10 Robot Vacuum Review: A smarter bot that still needs babysitting")
+
+
+[iLife A10 Robot Vacuum Review: A smarter bot that still needs babysitting](https://www.digitaltrends.com/smart-home-reviews/ilife-a10-robot-vacuum-review/)
+
+
+> 'The iLife A10 is a robot vacuum that needs supervision to get the job done.' Lidar allows it to effectively clean Affordable price Comes with dual side-sweeping brushes Gets tripped up by obstacles Trouble clearing humps The Wyze Robot Vacuum has certainly raised eyebrows of late, showing us that a low-cost offering can deliver just as good of a cleaning as bots double its price. However, we can't neglect to mention another company that has its roots in the entry-level robot vacuum space, iLife.
+
+
+***
+![Which Eufy vacuum cleaner is right for your home?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/eufy-homevac-h11-lifestyle_0.jpg "Which Eufy vacuum cleaner is right for your home?")
+
+
+[Which Eufy vacuum cleaner is right for your home?](https://www.androidcentral.com/best-eufy-vacuum-cleaner)
+
+
+> Source: Eufy Best Eufy Vacuum Cleaner Android Central 2021 Some days it feels like the housework never ends, and there is always a litany of chores to be done. Eufy has taken it upon itself to help eliminate some of those chores from your list. I find more and more, I have less time to get some of the mundane things checked off, like vacuuming. Whether you like to do it yourself or you'd rather set up a RoboVac to do it for you, Eufy has you covered. Our personal favorite is the RoboVac G30 Hybrid, which is a healthy mix of all the best features while keeping the price from breaking the bank.
+
+
+***
+![OnePlus to launch its first smartwatch on March 23 with OnePlus 9 series](https://images.financialexpress.com/2021/03/z35.jpg "OnePlus to launch its first smartwatch on March 23 with OnePlus 9 series")
+
+
+[OnePlus to launch its first smartwatch on March 23 with OnePlus 9 series](https://www.financialexpress.com/industry/technology/oneplus-to-launch-its-first-smartwatch-on-march-23-with-oneplus-9-series/2212061/)
+
+
+> Apart from the speculated round dial design, the leaked design of the smartwatch has revealed that the watch will have a flouted bracelet (straps) to give it a casual look. (Credit: Reuters)OnePlus will launch its first smartwatch, likely to be called the OnePlus Watch, on March 23 alongside the OnePlus 9 series. The company let this information out through an eight-second video teaser which it posted on Twitter.So, as per the announcement made by the company, the smartwatch will be launched on March 23.
+
+
+***
+![Apple discontinues HomePod smart speaker in India, less than one year after putting it up on sale](https://images.financialexpress.com/2021/03/apple-homepod.jpg "Apple discontinues HomePod smart speaker in India, less than one year after putting it up on sale")
+
+
+[Apple discontinues HomePod smart speaker in India, less than one year after putting it up on sale](https://www.financialexpress.com/industry/technology/apple-discontinues-homepod-smart-speaker-in-india-less-than-one-year-after-putting-it-up-on-sale/2212057/)
+
+
+> Going forward, Apple will focus its efforts on the HomePod Mini, its more affordable ‘mini' smart speaker. (File Photo)Apple has discontinued the HomePod smart speaker globally including in India. The news stands out particularly in India than say elsewhere, because Apple only started selling the HomePod here in May 2020, almost two years after it was launched for global markets. Because there is no successor to the HomePod just yet, you can say, it probably had the shortest life cycle for any Apple product in India.
+
+
+***
+![The ASUS ROG 5 Ultimate's 18GB of RAM is crazy, but awesome](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/asus-rog-phone-5-44.jpg "The ASUS ROG 5 Ultimate's 18GB of RAM is crazy, but awesome")
+
+
+[The ASUS ROG 5 Ultimate's 18GB of RAM is crazy, but awesome](https://www.androidcentral.com/asus-rog-5-ultimate-has-18gb-ram-and-thats-awesome-and-crazy)
+
+
+> Source: Jerry Hildenbrand / Android Central Yep. The new ASUS Republic of Gamers Phone 5 Ultimate (that's a mouthful) has up to 18 GB of RAM under the hood. That's enough to store over 19 billion ASCII characters if you were writing the longest email ever or even enough to play Cyberpunk 2077 with Ray Tracing enabled if it were on your video card, so it's a lot. It's also completely unnecessary but so very cool. Don't ask me why I think it's so cool because I don't really have an answer other than "you can have 18GB of RAM inside a phone and that's so cool!" but I know there are at least a few people out there that agree with me on that.
+
+
