@@ -42483,3 +42483,43 @@
 > If you're trying to limit the number of services you pay monthly fees for, many of the most popular ones -- including Netflix, Hulu, Apple Music, Grubhub and DoorDash -- can be swapped for free alternatives. You might not end up with the exact same product, but you can often get pretty darn close. That's especially good news if you're one of the millions of people whose employment has been affected by the coronavirus pandemic and you're looking to cut costs where you can.Unlike their paid counterparts, many of these free services operate with ads and the streaming services won't let you download stuff to watch or listen to them offline.
 
 
+***
+![How to install ExpressVPN on Apple TV](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2015/11/apple-tv-settings-hero.jpg "How to install ExpressVPN on Apple TV")
+
+
+[How to install ExpressVPN on Apple TV](https://www.imore.com/how-install-expressvpn-apple-tv)
+
+
+> Source: iMore Using a VPN on your Mac, iPad or iPhone has become pretty commonplace and it's really easy to get set up with a service like ExpressVPN on these devices. Unlike macOS and iOS devices, the Apple TV doesn't have the ability to download a VPN app and easily connect to a VPN service, making the process a little more tricky (though not impossible). Instead of simply installing an app, there are a few more steps required to set up an ExpressVPN MediaStreamer connection within your Apple TV's Settings app.
+
+
+***
+![How Do You Take 1.3 Billion People to the Bank?](https://external-preview.redd.it/PxQmW_yiLYTSO5tFUVZcbTDE0kxBfYs4ISot4jwBPfs.jpg?auto=webp&s=1a87b0886755bc0c0d1517f4460265135ea3814f "How Do You Take 1.3 Billion People to the Bank?")
+
+
+[How Do You Take 1.3 Billion People to the Bank?](https://www.reddit.com/r/technology/comments/m3zy40/how_do_you_take_13_billion_people_to_the_bank_in/)
+
+
+> How Do You Take 1.3 Billion People to the Bank? | In about a decade, India has built digital infrastructure to improve services for hundreds of millions by way of biometric IDs and mobile phones.
+
+
+***
+![Some Bethesda games now on Xbox Game Pass are getting frame rate boosts on Xbox Series X/S](https://external-preview.redd.it/4sknjXkobw3ZyxVCq8r83TBOUIUlwHkuFa6vi4psN94.jpg?auto=webp&s=8633a92e5e3c08753939d82254b8369a03c74d26 "Some Bethesda games now on Xbox Game Pass are getting frame rate boosts on Xbox Series X/S")
+
+
+[Some Bethesda games now on Xbox Game Pass are getting frame rate boosts on Xbox Series X/S](https://www.reddit.com/r/technology/comments/m3zuv3/some_bethesda_games_now_on_xbox_game_pass_are/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![OnePlus Watch to launch alongside OnePlus 9 series, company confirms](https://images.indianexpress.com/2021/02/oneplus-smartwatch-sketch.jpg "OnePlus Watch to launch alongside OnePlus 9 series, company confirms")
+
+
+[OnePlus Watch to launch alongside OnePlus 9 series, company confirms](https://indianexpress.com/article/technology/tech-news-technology/oneplus-watch-to-launch-india-alongside-oneplus-9-series-march-23-company-confirms-7226375/)
+
+
+> OnePlus Watch is all set to launch on March 23. The company has confirmed via its official Twitter handle that its smartwatch will most likely launch alongside the OnePlus 9 series. The brand already offers neckband-style earphones, TWS wireless earbuds, a backpack, a fitness band, Smart TVs, and now it is finally launching the OnePlus Watch. The teasers posted by the company doesn't reveal much about the upcoming OnePlus Watch. It does suggest that the smartwatch will feature a round dial, which the company has already hinted in the past via teasers.
+
+
