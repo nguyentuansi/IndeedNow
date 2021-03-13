@@ -42810,3 +42810,53 @@
 > You'd think a co-working space opened a month before a global pandemic would be a sure failure. But for co-founders Frederick Pikovsky and Tim Tedesco, the pandemic didn't halt their business. It instead helped solidify their vision for the future of work: remote co-working outside city centers that redefines work-life balance."You can get out of the city, get out into nature, do outdoorsy stuff, and enjoy small-town living without missing a beat when it comes to work," says Pikovsky.The two partners met on the Facebook housing-search group Gypsy Housing in 2017 and bonded over a shared passion for the outdoors and escaping the city.
 
 
+***
+![Minimalist Movie Poster snippet collections reaches 121!](https://external-preview.redd.it/42OY53PGWIXw75jHMhH0oLWlKVOJE8MqQysKstBPNQE.jpg?auto=webp&s=e3aded84a8f12188648c5e2f40537dedf7a10ad9 "Minimalist Movie Poster snippet collections reaches 121!")
+
+
+[Minimalist Movie Poster snippet collections reaches 121!](https://www.reddit.com/r/programming/comments/m4e1vc/minimalist_movie_poster_snippet_collections/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![EIP cards and stimulus checks: Who could get the debit card, what you have to do](https://cnet1.cbsistatic.com/img/7ysjnEd8nT7xVkLqa7jVs8RNexk=/726x433:4000x2667/1200x630/2020/10/02/c3a0b827-825a-4523-a039-c305f7c77f86/money-cash-dollars-measuring-flag-colors-8091.jpg "EIP cards and stimulus checks: Who could get the debit card, what you have to do")
+
+
+[EIP cards and stimulus checks: Who could get the debit card, what you have to do](https://www.cnet.com/personal-finance/eip-cards-and-stimulus-checks-who-could-get-the-debit-card-what-you-have-to-do/)
+
+
+> Your third stimulus check could arrive as an EIP card. Angela Lang/CNET Stimulus checks are already being sent out. That's great news for anyone receiving up to $1,400 per person (including dependents) through direct deposit -- starting Monday you can even track the payment online. But what does it mean for the millions of people who don't have direct deposit set up with the IRS? This group will receive their third stimulus check funds in the mail as paper checks or as something called an Economic Impact Payment debit card.
+
+
+***
+![Surviving Mars Tourism Update Arrives Next Week](https://techraptor.net/sites/default/files/styles/image_header/public/2021-03/Surviving%20Mars%20Tourism%20Update%20cover.jpg?itok=nrQIDxmy "Surviving Mars Tourism Update Arrives Next Week")
+
+
+[Surviving Mars Tourism Update Arrives Next Week](https://techraptor.net/gaming/news/surviving-mars-tourism-update-arrives-next-week)
+
+
+> 03/13/2021 - 15:00 | By: Robert N. Adams Home Gaming Gaming News Surviving Mars Tourism Update Arrives Next Week 'Abstraction' Heading Up New Developments Paradox Interactive has announced the Surviving Mars Tourism Update as part of Abstraction's new work on the game, and that's not all — the Surviving Mars In-Dome Buildings Pack is also on the way. Surviving Mars is a city builder that's all about establishing a colony on the red planet, but it has some unique elements that make it stand out from similarly-styled games.
+
+
+***
+![I made a javascript learning path on GitHub .commit and improve. thank you](https://external-preview.redd.it/c3MBw5hlK0RScwdkWLToe1mfLVppepxDra4I-XhC1zs.jpg?auto=webp&s=1da9871c7a50a69eff814193a013121fb5dae4e1 "I made a javascript learning path on GitHub .commit and improve. thank you")
+
+
+[I made a javascript learning path on GitHub .commit and improve. thank you](https://www.reddit.com/r/programming/comments/m4e06d/i_made_a_javascript_learning_path_on_github/)
+
+
+> No body in the article.
+
+
+***
+![Free Udemy Course – 14 March 2021](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Free Udemy Course – 14 March 2021")
+
+
+[Free Udemy Course – 14 March 2021](https://www.reddit.com/r/programming/comments/m4dwnc/free_udemy_course_14_march_2021/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
