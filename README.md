@@ -42713,3 +42713,50 @@
 > Source: Jerry Hildenbrand / Android Central Yep. The new ASUS Republic of Gamers Phone 5 Ultimate (that's a mouthful) has up to 18 GB of RAM under the hood. That's enough to store over 19 billion ASCII characters if you were writing the longest email ever or even enough to play Cyberpunk 2077 with Ray Tracing enabled if it were on your video card, so it's a lot. It's also completely unnecessary but so very cool. Don't ask me why I think it's so cool because I don't really have an answer other than "you can have 18GB of RAM inside a phone and that's so cool!" but I know there are at least a few people out there that agree with me on that.
 
 
+***
+![Review: The iStorage DiskAshur M2 is a go-anywhere, super-secure SSD](https://photos5.appleinsider.com/gallery/40729-78655-header-xl.jpg "Review: The iStorage DiskAshur M2 is a go-anywhere, super-secure SSD")
+
+
+[Review: The iStorage DiskAshur M2 is a go-anywhere, super-secure SSD](https://appleinsider.com/articles/21/03/13/review-the-istorage-diskashur-m2-is-a-go-anywhere-super-secure-ssd)
+
+
+> The rugged, portable DiskAshur M2 keeps your files secure behind military-grade encryption without requiring any fussy companion software.There are plenty of benefits to storing sensitive information digitally rather than as a physical hardcopy. It's often easier to keep track of large amounts of data when you can conveniently search for them from your desktop. Meanwhile, a file folder on your computer can easily replace several file cabinets within your home or office. However, leaving information on a computer, your data could easily be accessed by hackers or those who have physical access to your devices.
+
+
+***
+![Here are all the weapon types and move sets in Monster Hunter Rise](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/monster-hunter-rise-hero-image-02_0.jpg "Here are all the weapon types and move sets in Monster Hunter Rise")
+
+
+[Here are all the weapon types and move sets in Monster Hunter Rise](https://www.imore.com/list-weapons-and-new-moves-monster-hunter-rise)
+
+
+> Source: Capcom Trying to survive within the savage world of Monster Hunter Rise is no easy task. The staggering number of monsters looking to tear you limb from limb would make anyone question their bravery. While having a good set of armor will keep you alive, you won't get far unless you have a powerful weapon to slay these beasts. Thankfully, there are 14 types of weapons to choose from and you can customize each of their movesets by swapping certain attacks to suit your playstyle. Here's our list of all 14 weapons and the new moves introduced for them in Monster Hunter Rise that utilize the game's unique gameplay feature — the Wirebug.
+
+
+***
+[Free online Haskell course](https://www.reddit.com/r/programming/comments/m491d6/free_online_haskell_course_new_videos_added/)
+
+
+> submitted by /u/grahamhutton [link] [comments]
+
+
+***
+![Social Workers Instead Of Police? Denver's 911 Experiment Is A Promising Start](https://pyxis.nymag.com/v1/imgs/608/ca8/1e7cf26ceaca2648609d1bdef2fd57c67d-Caring-for-Denver-.1x.rsocial.w1200.jpg "Social Workers Instead Of Police? Denver's 911 Experiment Is A Promising Start")
+
+
+[Social Workers Instead Of Police? Denver's 911 Experiment Is A Promising Start](https://www.curbed.com/2021/03/denver-social-workers-instead-of-police.html)
+
+
+> Instead of a police cruiser, a van with bottled water and snacks. Photo: Courtesy of Caring for Denver A 911 dispatch looks about the same no matter where you are in the U.S.: sirens, strobe lights atop police cruisers, and first responders armed with guns and pepper spray, the reason for the call notwithstanding. But if you dial 911 in Denver, you might be greeted instead by a mental-health clinician and a paramedic driving a customized van equipped with food, water, and blankets. For the past six months, the city's Support Team Assisted Response program, known as STAR, has been dispatching social workers instead of cops on nonemergency calls, with astoundingly good outcomes.
+
+
+***
+![Nuances of Overloading and Overriding in Java](https://external-preview.redd.it/3yXRnJwSFEwUWrGryEqKP5k-oWKfggKo682E6buglBI.jpg?auto=webp&s=2bbdb6808efa829d279b9bba0067cdceb127ed68 "Nuances of Overloading and Overriding in Java")
+
+
+[Nuances of Overloading and Overriding in Java](https://www.reddit.com/r/programming/comments/m48sib/nuances_of_overloading_and_overriding_in_java/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
