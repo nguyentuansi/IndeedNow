@@ -42386,3 +42386,50 @@
 > By Svea Herbst-BaylissBOSTON (Reuters) - Proxy adviser Institutional Shareholder Services Inc. said LG Corp. shareholders should vote against the South Korean company's plan to spin off five affiliates, arguing there is no 'compelling' reason for the proposed transaction.LG announced in November that it would spin off a new holding company and transfer its holdings in LG Hausys, LG MMA, Silicon Works, LG International, and Pantos into the new entity, marking the latest reorganization at one of the country's family-led conglomerates as they pass to a new generation.
 
 
+***
+![Disgraced Theranos founder Elizabeth Holmes' trial could be delayed by pregnancy](https://i.guim.co.uk/img/media/efcbd47a40f0c69a0a49017cbc7257b23bcb01a5/0_89_5194_3117/master/5194.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f41bf793815bbdcbe4017b4b9aa7cd95 "Disgraced Theranos founder Elizabeth Holmes' trial could be delayed by pregnancy")
+
+
+[Disgraced Theranos founder Elizabeth Holmes' trial could be delayed by pregnancy](http://www.theguardian.com/technology/2021/mar/12/elizabeth-holmes-theranos-trial-delay-pregnancy)
+
+
+> Sign up for the Guardian Today US newsletterThe alleged Theranos fraudster Elizabeth Holmes is pregnant, according to a new court filing, potentially delaying her trial by several weeks.Holmes is being charged with fraud for her role at the helm of Theranos, a blood-testing startup that was a rising star in Silicon Valley before it emerged it had misrepresented the effectiveness of its technology.Lawyers for Holmes asked the judge on 2 March to delay the start of jury selection to 31 August, after her due date.
+
+
+***
+![You'll soon be able to find COVID-19 vaccination centre info on Google Maps, Search](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/03/13/963741-google.jpg "You'll soon be able to find COVID-19 vaccination centre info on Google Maps, Search")
+
+
+[You'll soon be able to find COVID-19 vaccination centre info on Google Maps, Search](https://www.dnaindia.com/technology/report-you-ll-soon-be-able-to-find-vaccination-centre-info-on-google-maps-search-2880772)
+
+
+> Google India on Friday said it is working with the Union Health Ministry and the Bill and Melinda Gates Foundation to accurately surface the information on vaccination centres on Search, Maps and Assistant. The search engine giant said that it expects to roll out information on vaccination centres in the coming weeks. So far, 2.6 crore doses of corona vaccine have been administered in the country since the drive began on January 16 after approval for Covishield and Covaxin. "As Covid-19 continues to challenge our communities, we remain committed to doing all we can to assist the country's health agencies at this key juncture of the pandemic, where the successful rollout of these large-scale vaccinations can help us collectively turn a corner and see a much-needed return to normalcy," Google India said in a statement.
+
+
+***
+![Cinemark to Reopen Los Angeles Area Movie Theatres, Bringing Back the Immersive, Cinematic Experience Beginning on March 13](https://mms.businesswire.com/media/20210312005565/en/812859/23/Cinemark_Stacked_CMYK.jpg "Cinemark to Reopen Los Angeles Area Movie Theatres, Bringing Back the Immersive, Cinematic Experience Beginning on March 13")
+
+
+[Cinemark to Reopen Los Angeles Area Movie Theatres, Bringing Back the Immersive, Cinematic Experience Beginning on March 13](https://www.businesswire.com/news/home/20210312005565/en/Cinemark-to-Reopen-Los-Angeles-Area-Movie-Theatres-Bringing-Back-the-Immersive-Cinematic-Experience-Beginning-on-March-13)
+
+
+> March 12, 2021 09:03 PM Eastern Standard Time PLANO, Texas--(BUSINESS WIRE)--Cinemark Holdings, Inc., one of the world's largest and most influential movie theatre companies, today announced it will open its theatres in the greater Los Angeles area, bringing the immersive, cinematic experience back to one of the world's most important moviegoing markets. More than 10 theatres will reopen on beginning Saturday, March 13, and reopening will continue through Monday, March 15. All theatres will reopen with enhanced cleaning and safety protocols, which have consistently received 96 percent guest satisfaction rating, as well as Cinemark's fan-favorite Private Watch Parties and some of this year's newest films.
+
+
+***
+[Preemptive Pluralization is (Probably) Not Evil](https://www.reddit.com/r/programming/comments/m3wovo/preemptive_pluralization_is_probably_not_evil/)
+
+
+> submitted by /u/mooreds [link] [comments]
+
+
+***
+![$3,600 Child Tax Credit for 2021 is really happening: 5 things to know](https://cnet2.cbsistatic.com/img/uz9X26om4qRxVQKKytbusgXnF7g=/717x265:4000x2565/1200x630/center/top/2020/08/06/e5a0fbe2-3806-4b7c-a0fa-434568a33829/breaking-the-piggy-bank-stimulus-check-cash-money-savings-debt-personal-finance-024.jpg "$3,600 Child Tax Credit for 2021 is really happening: 5 things to know")
+
+
+[$3,600 Child Tax Credit for 2021 is really happening: 5 things to know](https://www.cnet.com/personal-finance/3600-child-tax-credit-for-2021-is-really-happening-5-things-to-know/)
+
+
+> Families with children in need of money will see some help soon.  CNET Millions of Americans are poised to receive a third stimulus check, totaling as much as $1,400 and arriving as soon as this weekend (here's how to track your payment). President Joe Biden signed his $1.9 trillion relief bill into law Thursday after negotiations completed in the House and Senate. Besides the $1,400 stimulus checks, included in Biden's American Rescue Plan is an expanded Child Tax Credit. For eligible parents, the expanded CTC will provide much more than the third stimulus payment -- up to $3,600 per child.
+
+
