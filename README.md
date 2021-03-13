@@ -42760,3 +42760,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Apple Promotes iPhone 12 'Ceramic Shield' Display In New 'Cook' Ad](https://images.macrumors.com/social/?t=2288216&v=6 "Apple Promotes iPhone 12 'Ceramic Shield' Display In New 'Cook' Ad")
+
+
+[Apple Promotes iPhone 12 'Ceramic Shield' Display In New 'Cook' Ad](https://www.macrumors.com/2021/03/13/iphone-12-cook-ad/)
+
+
+> Apr 12, 2001 51,671 13,275 In a new ad on its YouTube channel, Apple is promoting the durability and water resistance of the iPhone 12 and the performance of the "Ceramic Shield" display. The ad, named "Cook," showcases a chef putting an iPhone 12‌ through its paces by splashing it with liquids and flour, plus dropping it on its screen multiple times. The ad aims to highlight the "Ceramic Shield" display on the iPhone 12, a new type of glass made by "introducing nano-ceramic crystals into the glass.
+
+
+***
+![This weekend's top gaming laptop deals feature super cheap RTX graphics cards, plus more](https://cdn.mos.cms.futurecdn.net/fLUTiKehhMMdYMNPJnqJQa-1200-80.jpg "This weekend's top gaming laptop deals feature super cheap RTX graphics cards, plus more")
+
+
+[This weekend's top gaming laptop deals feature super cheap RTX graphics cards, plus more](https://www.techradar.com/news/this-weekends-top-gaming-laptop-deals-feature-super-cheap-rtx-graphics-cards-plus-more)
+
+
+> (Image credit: Future) For those on a budget, we've spotted some particularly good cheap gaming laptop deals at the official Dell store and Walmart this weekend, featuring price cuts all the way up to $400.First up, this Dell G3 15 at the official Dell store for $649.99 (was $859.99) is a really, really strong budget option right now. With a GTX 1650 Ti graphics card, Intel Core i5-10300H processor, 8GB of RAM, and a 256GB SSD, this inexpensive machine is more than capable of putting out some respectable frames at 1080p especially if you're playing less demanding games.
+
+
+***
+![I created a simple HTTP server in Python](https://external-preview.redd.it/r9zvCH608sn0GF2-anU5UvdDQMiONBh6lXRByNT-cIQ.jpg?auto=webp&s=80df6203d58908af5b66fb87e9c3551602a22bbb "I created a simple HTTP server in Python")
+
+
+[I created a simple HTTP server in Python](https://www.reddit.com/r/Python/comments/m4b903/i_created_a_simple_http_server_in_python/)
+
+
+> Hello everyone, how are you? I've just finished my first Python package, it's a simple HTTP framework, kind of based on Express (Node.js). This project took me about 4-5 days to finish and I intend to add more features in the future. I'd like to get some feedback and, obviously, PRs are welcome. Here's the repository: https://github.com/luisbrandino/easyhttp
+
+
+***
+![Big screen iPad](https://images.macrumors.com/social/?t=2288214&v=6 "Big screen iPad")
+
+
+[Big screen iPad](https://forums.macrumors.com/threads/big-screen-ipad.2288214/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hello all. unkl bob here. Just new to this forum today. Reasonably tech savvy. Among other stuff (3 iPhones incl. 12 pro max, iPad mini 5, refurbed 2012 MacBook Pro 13"w/all ssd's) I have the original iPad Pro 12.9" (2016). My screen time on this device alone averages about three hours/day and I love it. But... I vowed at purchase to not update ‘til I could get a bigger screen.
+
+
+***
+![This Posh Co-Working Space In New York's Hudson Valley Wants To Redefine Work-Life Balance. Is This The Future Of Work?](https://www.incimages.com/uploaded_files/image/1024x576/1---BF-booths_462554.jpg "This Posh Co-Working Space In New York's Hudson Valley Wants To Redefine Work-Life Balance. Is This The Future Of Work?")
+
+
+[This Posh Co-Working Space In New York's Hudson Valley Wants To Redefine Work-Life Balance. Is This The Future Of Work?](https://www.inc.com/brit-morse/barnfox-frederick-pikovsky-tim-tedesco-coworking.html)
+
+
+> You'd think a co-working space opened a month before a global pandemic would be a sure failure. But for co-founders Frederick Pikovsky and Tim Tedesco, the pandemic didn't halt their business. It instead helped solidify their vision for the future of work: remote co-working outside city centers that redefines work-life balance."You can get out of the city, get out into nature, do outdoorsy stuff, and enjoy small-town living without missing a beat when it comes to work," says Pikovsky.The two partners met on the Facebook housing-search group Gypsy Housing in 2017 and bonded over a shared passion for the outdoors and escaping the city.
+
+
