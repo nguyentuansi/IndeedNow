@@ -42336,3 +42336,53 @@
 > (Image credit: Future) Kick your weekend off with these incredible Apple deals from Amazon's latest sale. You can save up to $99 on Apple's best-selling gadgets, including AirPods, the Apple Watch, iPads, and the powerful MacBook Pro M1.See more Apple deals at AmazonAmazon's best Apple deals include the best-selling AirPods Pro, which are in stock and on sale for $199, a $50 discount on the all-new Apple Watch 6, and the powerful MacBook Pro M1 on sale for a record-low price of $1,199.99. If you're interested in iPad deals, you can score a $40 price cut on the all-new iPad Air and snag the latest model Apple iPad on sale for $299 - the lowest price we've seen for the 10.
 
 
+***
+![Third time's a harm? Microsoft tries to get twice-rejected compression patent past skeptical examiners](https://regmedia.co.uk/2018/11/30/shutterstock_1110530786.jpg "Third time's a harm? Microsoft tries to get twice-rejected compression patent past skeptical examiners")
+
+
+[Third time's a harm? Microsoft tries to get twice-rejected compression patent past skeptical examiners](https://www.theregister.com/2021/03/13/microsoft_ans_patent/)
+
+
+> Analysis In June, 2019, Microsoft applied for a US patent covering enhancements to a data encoding method known as rANS, one of several variants in the Asymmetric Numeral System (ANS) family that form the foundation of data compression schemes used by Apple, Facebook, Google, various other companies, and open source projects. Its US patent application was published on the last day of 2020. Recently, the inventor of ANS, Jarosław Duda, assistant professor at Institute of Computer Science at Jagiellonian University in Poland, expressed concern that if Microsoft's patent application is granted, anyone using software that incorporates an ANS-based encoder could be at risk of a potential infringement claim.
+
+
+***
+![Proxy adviser ISS recommends LG shareholders reject spinoff plan](https://i-invdn-com.akamaized.net/news/LYNXNPEB9P070_L.jpg "Proxy adviser ISS recommends LG shareholders reject spinoff plan")
+
+
+[Proxy adviser ISS recommends LG shareholders reject spinoff plan](https://www.investing.com/news/technology-news/proxy-adviser-iss-recommends-lg-shareholders-reject-spinoff-plan-2445756)
+
+
+> © Reuters. By Svea Herbst-Bayliss BOSTON (Reuters) - Proxy adviser Institutional Shareholder Services Inc. said LG Corp. shareholders should vote against the South Korean company's plan to spin off five affiliates, arguing there is no "compelling" reason for the proposed transaction. LG announced in November that it would spin off a new holding company and transfer its holdings in LG Hausys, LG MMA, Silicon Works, LG International, and Pantos into the new entity, marking the latest reorganization at one of the country's family-led conglomerates as they pass to a new generation.
+
+
+***
+![I Shipped, Therefore I Am](https://external-preview.redd.it/Add7Xp0JlPS7BXd9ql4JX0ZomIJXZQRjr12n-Cvc2EQ.jpg?auto=webp&s=ec6b89a06d41529f3e65fdc2a82d49ca7a12000a "I Shipped, Therefore I Am")
+
+
+[I Shipped, Therefore I Am](https://www.reddit.com/r/programming/comments/m3ut0h/i_shipped_therefore_i_am/)
+
+
+> reddit: the front page of the internet
+
+
+***
+![40+ Genius Tech Gifts That Cost Less Than $100](https://media1.popsugar-assets.com/files/thumbor/8Ws_qWmMHYtd1cbO2D4V3dzpTXY/2x29:1200x628/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2021/03/12/801/n/1922507/018ba30d604baf8f38b0e5.57894737_.png "40+ Genius Tech Gifts That Cost Less Than $100")
+
+
+[40+ Genius Tech Gifts That Cost Less Than $100](https://www.popsugar.com/tech/Tech-Gifts-Women-Under-100-42737847)
+
+
+> Tech finds and gadgets are a tried and true gift that your loved one will appreciate. Although they are generally pricey, we found innovative gadgets that are under $100. Whether you are looking for speakers, work-from-home necessities, filming and photography accessories, or home upgrades, these gadgets are the perfect present. We've scoured the internet for the coolest, innovative items this year, so all you have to do is shop. Trust us — there's no way you'll go wrong with a single one of these under-$100 treats.
+
+
+***
+![Proxy adviser ISS recommends LG shareholders reject spinoff plan](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "Proxy adviser ISS recommends LG shareholders reject spinoff plan")
+
+
+[Proxy adviser ISS recommends LG shareholders reject spinoff plan](https://www.reuters.com/article/us-lg-corp-restructuring-iss-idUSKBN2B5001)
+
+
+> By Svea Herbst-BaylissBOSTON (Reuters) - Proxy adviser Institutional Shareholder Services Inc. said LG Corp. shareholders should vote against the South Korean company's plan to spin off five affiliates, arguing there is no 'compelling' reason for the proposed transaction.LG announced in November that it would spin off a new holding company and transfer its holdings in LG Hausys, LG MMA, Silicon Works, LG International, and Pantos into the new entity, marking the latest reorganization at one of the country's family-led conglomerates as they pass to a new generation.
+
+
