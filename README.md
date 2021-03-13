@@ -42613,3 +42613,53 @@
 > 5/5 © Reuters. Demonstration of TikTok teamLab Reconnect, digital artwork combined with sauna, ahead of its opening to the public this month in Tokyo 2/5 By Antoni Slodkowski TOKYO (Reuters) - A wall of flower petals bursts into a thousand fragments. A huge ball levitates in the air, turning from red to blue to purple. Hundreds of butterflies dart around a screen of tiny water particles. This is not a modern art museum, but the latest creation of Japan's teamLab collective of engineers, artists and architects, anchored around a maze of seven saunas lit up in hues of red, green and yellow.
 
 
+***
+![Asus ROG 5: what can you do with 18GB of RAM?](https://cdn.mos.cms.futurecdn.net/rVsxwPkfmpUMia4A9GTiRB-1200-80.jpg "Asus ROG 5: what can you do with 18GB of RAM?")
+
+
+[Asus ROG 5: what can you do with 18GB of RAM?](https://www.techradar.com/news/asus-rog-5-what-can-you-do-with-18gb-of-ram)
+
+
+> The Asus ROG 5 just launched with up to 16GB of RAM – and if you somehow snag the limited-release Ultimate model, you can hold one of the only smartphones in the world with a whopping 18GB of RAM. But... what does all that RAM get you?For years, RAM has been used alongside chipset and storage space as shorthand for a phone's performance. Roughly, the more RAM, the more the phone can do at once: currently open applications use RAM as quickly accessible memory, with excess RAM keeping track of other applications in the background so you can swiftly swap back and forth.
+
+
+***
+![Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://www.notion.so/images/meta/default.png "Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)")
+
+
+[Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://www.notion.so)
+
+
+> No body in the article.
+
+
+***
+![How to check your PC's frame rate when playing video games](https://img.dtcn.com/image/digitaltrends/sc-5-1200x630-c-ar1.91.jpg "How to check your PC's frame rate when playing video games")
+
+
+[How to check your PC's frame rate when playing video games](https://www.digitaltrends.com/computing/check-pcs-framerate-fps-playing-video-games/)
+
+
+> PC gaming is all about pushing frames per second (fps) as high as possible. The problem is that it's really difficult to tell the difference between two frame rates without some point of reference. That's why we put together a guide on how to check your PC's frame rate while playing video games. There are a lot of PC frame rate counters, including options from AMD and Nvidia, a counter built directly into Steam, and a few third-party tools. If you have a gaming PC, you have access to an fps counter.
+
+
+***
+![Tiles are like widgets for Wear OS; here's how to customize them](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/03/ticwatch-pro-3-wear-os-tiles-lifestyle.jpg "Tiles are like widgets for Wear OS; here's how to customize them")
+
+
+[Tiles are like widgets for Wear OS; here's how to customize them](https://www.androidcentral.com/how-customize-wear-os-tiles)
+
+
+> Source: Chris Wedel/Android Central In an update a couple of years ago, Wear OS picked up the ability to add widgets — called Tiles — and knowing how to customize Wear OS Tiles is a great way to quickly access the info you want. While the best Wear OS watches have access to some great apps for Wear OS, unfortunately, few of them can offer a Tile for your watch. That may be changing soon, as Google is opening up Tiles to more third-party developers in the future. Even though there may not be many Tiles available on Wear OS watches right now, the ones that are accessible now are still useful.
+
+
+***
+![Live action vs. animated features: How computer graphics are used to make movies](https://cdn.mos.cms.futurecdn.net/azoGBsqPYmdUvbkzic9ep-1200-80.jpeg "Live action vs. animated features: How computer graphics are used to make movies")
+
+
+[Live action vs. animated features: How computer graphics are used to make movies](https://www.techradar.com/news/live-action-vs-animated-features-how-computer-graphics-are-used-to-make-movies)
+
+
+> The workflow and software pipelines that have come to define Animated and Visual Effects (photoreal) feature production are traditionally divergent, but as virtual production sweeps the film industry, the distinctions between them are disappearing.Whether working on a CG animated feature or working on the visual effects (VFX) for a photoreal feature, the design methodologies, development workflow, and software tools are almost identical during pre-production.  Artists create 2D artwork using tools like Photoshop to flesh out characters, environments, and events in the film.
+
+
