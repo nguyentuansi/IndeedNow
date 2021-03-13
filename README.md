@@ -42433,3 +42433,53 @@
 > Families with children in need of money will see some help soon.  CNET Millions of Americans are poised to receive a third stimulus check, totaling as much as $1,400 and arriving as soon as this weekend (here's how to track your payment). President Joe Biden signed his $1.9 trillion relief bill into law Thursday after negotiations completed in the House and Senate. Besides the $1,400 stimulus checks, included in Biden's American Rescue Plan is an expanded Child Tax Credit. For eligible parents, the expanded CTC will provide much more than the third stimulus payment -- up to $3,600 per child.
 
 
+***
+![Everything you'll want to buy from the Friends and Family Banana Republic sale](https://www.gannett-cdn.com/presto/2021/03/12/USAT/1210de75-b827-4029-9068-fbda3af72dbc-banana_republic_new_lead.jpg?crop=1911,1075,x8,y0&width=1911&height=1075&format=pjpg&auto=webp "Everything you'll want to buy from the Friends and Family Banana Republic sale")
+
+
+[Everything you'll want to buy from the Friends and Family Banana Republic sale](https://www.usatoday.com/story/tech/reviewedcom/2021/03/12/banana-republic-sale-shop-friends-and-family-event-right-now/4670026001/)
+
+
+> The Banana Republic Friends and Family sale is live right now. (Photo: Banana Republic / Getty)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Now that spring is just around the corner, there's a chance your closet is in need of a refresh. If that's the case, you're going to want to book it to Banana Republic's website, because the brand is having a blowout Friends and Family savings event, and just about everything in its entire stock is included.
+
+
+***
+![5 Chinese companies pose threat to US national security – FCC](https://assets2.rappler.com/2021/03/huawei-september-3-2020-reuters-1615606431638.jpg "5 Chinese companies pose threat to US national security – FCC")
+
+
+[5 Chinese companies pose threat to US national security – FCC](https://www.rappler.com/technology/fcc-chinese-companies-threat-us-national-security)
+
+
+> The Federal Communications Commission (FCC) on Friday designated 5 Chinese companies as posing a threat to national security under a 2019 law aimed at protecting U.S. communications networks. The FCC said the companies included Huawei Technologies, ZTE, Hytera Communications, Hangzhou Hikvision Digital Technology, and Zhejiang Dahua Technology. A 2019 law requires the FCC to identify companies producing telecommunications equipment and services "that have been found to pose an unacceptable risk to US national security.
+
+
+***
+![Canada judge rejects Huawei CFO's push to use employee statements as evidence in US extradition case](https://assets2.rappler.com/2021/03/meng-wanzhou-canada-huawei-december-7-2020-reuters-1615605839324.jpg "Canada judge rejects Huawei CFO's push to use employee statements as evidence in US extradition case")
+
+
+[Canada judge rejects Huawei CFO's push to use employee statements as evidence in US extradition case](https://www.rappler.com/technology/canada-judge-rejects-huawei-meng-wanzhou-push-employee-statements-evidence)
+
+
+> The Canadian judge in Huawei CFO Meng Wanzhou's US extradition case rejected her request to admit as evidence Huawei employee statements that contradict a US claim she misled bankers about the company's business in Iran, a ruling said on Friday, March 12. But the judge provisionally allowed parts of an expert's report that Meng's team requested be permitted into evidence, subject to further submissions about its relevance, the ruling showed. Meng, 49, was arrested in December 2018 at Vancouver International Airport on a US warrant for allegedly misleading HBSC about Huawei's business dealings in Iran and causing the bank to violate U.
+
+
+***
+![How IBM India build an AI-based chatbot to help students learn English in rural Bengal](https://images.indianexpress.com/2021/03/chatbot-FB.jpg "How IBM India build an AI-based chatbot to help students learn English in rural Bengal")
+
+
+[How IBM India build an AI-based chatbot to help students learn English in rural Bengal](https://indianexpress.com/article/technology/tech-news-technology/how-ibm-india-build-an-ai-based-chatbot-to-help-students-learn-english-in-rural-bengal-7226294/)
+
+
+> When a group of IBM India employees, including data scientists and communication experts, volunteered to work on a tech solution that could help students learn the English language, the challenge was to figure out what that solution would be. After months of brainstorming, the team started working on 'Professor Idiom', an AI-powered Chatbot developed for Abheda Foundation, an NGO based in Kolkata. 'When we thought of creating a chatbot, the problem was to fix a topic, because if you want to talk to an open-ended chatbot it could be very difficult to build,' Sourav Mallik, AI – Data Scientist & IBM India volunteer, tells indianexpress.
+
+
+***
+![Cut your monthly budget: Replace Hulu, Netflix and more with free subscriptions](https://cnet3.cbsistatic.com/img/i69j3GLjXnJtXQXG21qYP-nNT7k=/1200x630/2020/11/03/1cca13f0-522a-44cd-a5e1-a82cea4cb49d/048-cash-stimulus-bill-help-americans-poverty-last-dollar-torn-apart-election.jpg "Cut your monthly budget: Replace Hulu, Netflix and more with free subscriptions")
+
+
+[Cut your monthly budget: Replace Hulu, Netflix and more with free subscriptions](https://www.cnet.com/how-to/cut-your-monthly-budget-replace-hulu-netflix-and-more-with-free-subscriptions/)
+
+
+> If you're trying to limit the number of services you pay monthly fees for, many of the most popular ones -- including Netflix, Hulu, Apple Music, Grubhub and DoorDash -- can be swapped for free alternatives. You might not end up with the exact same product, but you can often get pretty darn close. That's especially good news if you're one of the millions of people whose employment has been affected by the coronavirus pandemic and you're looking to cut costs where you can.Unlike their paid counterparts, many of these free services operate with ads and the streaming services won't let you download stuff to watch or listen to them offline.
+
+
