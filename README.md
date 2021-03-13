@@ -42860,3 +42860,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Deep Learning Enables Real-Time 3D Holograms On a Smartphone](https://external-preview.redd.it/1gZzbJr86zalMiz7lEUcCe4NsZYkgR-rV5Mn6ABJ_bk.jpg?auto=webp&s=7ba4d725be8164fed3375312436245691c384a81 "Deep Learning Enables Real-Time 3D Holograms On a Smartphone")
+
+
+[Deep Learning Enables Real-Time 3D Holograms On a Smartphone](https://www.reddit.com/r/technology/comments/m4g5mi/deep_learning_enables_realtime_3d_holograms_on_a/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Toyota Chief Says Apple Should Steel for Long Haul if It Enters Auto Industry. Akio Toyoda says new entrants to the sector should be ready for 40-year commitment](https://external-preview.redd.it/H5zXqsSore75tg7i9jOS6Nbwzso4HN2BnIBGQbJFaPU.jpg?auto=webp&s=e168b2aa1224bb38a030567a63194f4182e1bc30 "Toyota Chief Says Apple Should Steel for Long Haul if It Enters Auto Industry. Akio Toyoda says new entrants to the sector should be ready for 40-year commitment")
+
+
+[Toyota Chief Says Apple Should Steel for Long Haul if It Enters Auto Industry. Akio Toyoda says new entrants to the sector should be ready for 40-year commitment](https://www.reddit.com/r/technology/comments/m4g2ch/toyota_chief_says_apple_should_steel_for_long/)
+
+
+> Toyota Chief Says Apple Should Steel for Long Haul if It Enters Auto Industry. Akio Toyoda says new entrants to the sector should be ready for 40-year commitment
+
+
+***
+![Google Must Face Suit Over Snooping on ‘Incognito' Browsing](https://external-preview.redd.it/oUrah2egxC5saHJrG8A87OGScLeuIOoSOkSo0XD7zSA.jpg?auto=webp&s=726f7fe66277a1b1e68112e11260349f99dfd0dd "Google Must Face Suit Over Snooping on ‘Incognito' Browsing")
+
+
+[Google Must Face Suit Over Snooping on ‘Incognito' Browsing](https://www.reddit.com/r/technology/comments/m4g20f/google_must_face_suit_over_snooping_on_incognito/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![How to take on Mega Manectric in Pokémon Go](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/pokemon-go-mega-energy.jpg "How to take on Mega Manectric in Pokémon Go")
+
+
+[How to take on Mega Manectric in Pokémon Go](https://www.imore.com/pokemon-go-mega-manectric-mega-raid-guide)
+
+
+> Beginning March 16, 2021, Mega Manectric will make its debut in Pokémon Go Mega Raids! This is one Mega Raid you won't want to miss. Fortunately, we here and iMore have everything you need to know to win, and be sure to check out our Best Pokémon Go Accessories, so you can be fully equipped for your Pokémon Journey! Who is Mega Manectric in Pokémon Go? Source: The Pokémon Company Originally encountered in the Hoenn region of Gen III, the blue and yellow canine Manectric served as little more than a Pokédex entry when introduced to Pokémon Go.
+
+
+***
+![Experimental Nintendo Switch Emulator written in C#](https://avatars.githubusercontent.com/u/39036280?s=400&v=4 "Experimental Nintendo Switch Emulator written in C#")
+
+
+[Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
+
+
+> As of February 2021, Ryujinx has been tested on over 3,200 titles: ~2,500 boot past menus and into gameplay, with approximately 1,700 of those being considered playable. See the compatibility list here. Usage To run this emulator, we recommend that your PC have at least 8GB of RAM; less than this amount can result in unpredictable behavior and may cause crashes or unacceptable performance. See our Setup & Configuration Guide on how to set up the emulator. Latest build These builds are compiled automatically for each commit on the master branch.
+
+
