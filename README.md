@@ -42573,3 +42573,43 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![i am 2nd year student started solving data structures and algorithms.if i cant solve a question how much time i should work on it before giving up. and why cant i solve some questions ?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "i am 2nd year student started solving data structures and algorithms.if i cant solve a question how much time i should work on it before giving up. and why cant i solve some questions ?")
+
+
+[i am 2nd year student started solving data structures and algorithms.if i cant solve a question how much time i should work on it before giving up. and why cant i solve some questions ?](https://www.reddit.com/r/programming/comments/m43bcj/i_am_2nd_year_student_started_solving_data/)
+
+
+> i am 2nd year student started solving data structures and algorithms.if i cant solve a question how much time i should work on it before giving up. and why cant i solve some questions ?
+
+
+***
+![Make Sagas Consistent with Debezium](https://external-preview.redd.it/A8OlSDO6qKXl7tNqQ2pWvwbLbcgQPiOjz5Y3qftvWs8.jpg?auto=webp&s=63c352e0b551afffc5d6a877eca81bec8964a425 "Make Sagas Consistent with Debezium")
+
+
+[Make Sagas Consistent with Debezium](https://www.reddit.com/r/programming/comments/m437qy/make_sagas_consistent_with_debezium/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Royal Enfield Nirvik all-weather touring jacket review](https://images.moneycontrol.com/static-mcnews/2021/03/IMG_6014-770x433.jpg "Royal Enfield Nirvik all-weather touring jacket review")
+
+
+[Royal Enfield Nirvik all-weather touring jacket review](https://www.moneycontrol.com/news/technology/auto/royal-enfield-nirvik-all-weather-touring-jacket-review-6642441.html)
+
+
+> Royal Enfield is known for its bikes with almost legendary status. With its entry into riding gear space, too, it didn't do so bad, especially with the launch of the Darcha riding jacket created in partnership with Rev'it. But then the Darcha was too expensive for the audience that Royal Enfield was really targeting. Now, even with the end of that partnership, we have The Royal Enfield Nirvik, and the motorcycle maker has learned a thing or two, even with a decrease in price.The Nirvik is, what Royal Enfield is calling, an all-weather touring jacket and for the most part, it holds up its end of the bargain.
+
+
+***
+![Japan's teamLab melds museum and sauna in fresh digital art experience](https://i-invdn-com.akamaized.net/news/LYNXNPEC2F0DH_L.jpg "Japan's teamLab melds museum and sauna in fresh digital art experience")
+
+
+[Japan's teamLab melds museum and sauna in fresh digital art experience](https://www.investing.com/news/technology-news/japans-teamlab-melds-museum-and-sauna-in-fresh-digital-art-experience-2445832)
+
+
+> 5/5 © Reuters. Demonstration of TikTok teamLab Reconnect, digital artwork combined with sauna, ahead of its opening to the public this month in Tokyo 2/5 By Antoni Slodkowski TOKYO (Reuters) - A wall of flower petals bursts into a thousand fragments. A huge ball levitates in the air, turning from red to blue to purple. Hundreds of butterflies dart around a screen of tiny water particles. This is not a modern art museum, but the latest creation of Japan's teamLab collective of engineers, artists and architects, anchored around a maze of seven saunas lit up in hues of red, green and yellow.
+
+
