@@ -42910,3 +42910,50 @@
 > As of February 2021, Ryujinx has been tested on over 3,200 titles: ~2,500 boot past menus and into gameplay, with approximately 1,700 of those being considered playable. See the compatibility list here. Usage To run this emulator, we recommend that your PC have at least 8GB of RAM; less than this amount can result in unpredictable behavior and may cause crashes or unacceptable performance. See our Setup & Configuration Guide on how to set up the emulator. Latest build These builds are compiled automatically for each commit on the master branch.
 
 
+***
+![[P] Looking for a Co-Founder/CTO](https://external-preview.redd.it/uIHCcvsPTDf7TRQl33yk7JRNB9NN9-Ajt61JJHtNyIo.jpg?auto=webp&s=32e31dfb41403261821a820913029973588a4b8e "[P] Looking for a Co-Founder/CTO")
+
+
+[[P] Looking for a Co-Founder/CTO](https://www.reddit.com/r/MachineLearning/comments/m4jf8q/p_looking_for_a_cofoundercto/)
+
+
+> I am looking for someone to join me in building a new type of product geared to help assist home buyers and sellers through the home buying journey. The core of the home buyer experience requires NLP to ensure the system can support a conversation with the home buyer over SMS/IM as well as interact over SMS/IM with other actors in the process (ie. realtor, loan officer, lawyer, etc.). For anyone who's interested and willing to accept the short-term risk of joining a startup for the long term equity upside, the link below is of a short video of me sharing a bit more about the role and the venture capital firm backing the business.
+
+
+***
+![Motorola Moto G10 in for review](https://fdn.gsmarena.com/imgroot/news/21/03/motorola-moto-g10-in-for-review/-476x249w4/gsmarena_000.jpg "Motorola Moto G10 in for review")
+
+
+[Motorola Moto G10 in for review](https://www.gsmarena.com/motorola_moto_g10_in_for_review-news-48157.php)
+
+
+> The Motorola Moto G10 has arrived at our office and it has some tough questions to answer. It seems rather pricey for a phone with a 720p+ display and a Snapdragon 460 chipset. Things look even worse when you notice that the Moto G10 Power is cheaper. Okay, that's not entirely correct. The Power model is available only in India right now, the vanilla G10 is available only in Europe. So, a direct price comparison is not possible, but the gap is pretty large – the vanilla model is €150, the Power is INR 10,000, which works out to €115 or so.
+
+
+***
+![I made an application to watermark images, I would love to see people contribute to it!](https://external-preview.redd.it/VWR_hzEpqoyr3Cn4J6T0jbJDqkPDz22VRHqJaAn4ZLQ.jpg?auto=webp&s=2660181bc529a87eebabc236cda73d434c7d867b "I made an application to watermark images, I would love to see people contribute to it!")
+
+
+[I made an application to watermark images, I would love to see people contribute to it!](https://www.reddit.com/r/programming/comments/m4in6c/i_made_an_application_to_watermark_images_i_would/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![ACB Stock – ACB Stock – UTX Stock – Aircraft Environmental Control Systems Market Introducing New Industry Dynamics Through Swot Analysis 2021 Mecaer Aviation Group, Fimac Spa, Air Innovations, United Technologies Corporation  Fintech Zoom](https://fintechzoom.com/wp-content/uploads/2021/03/A2Z-Market-Research-15.png "ACB Stock – ACB Stock – UTX Stock – Aircraft Environmental Control Systems Market Introducing New Industry Dynamics Through Swot Analysis 2021 Mecaer Aviation Group, Fimac Spa, Air Innovations, United Technologies Corporation  Fintech Zoom")
+
+
+[ACB Stock – ACB Stock – UTX Stock – Aircraft Environmental Control Systems Market Introducing New Industry Dynamics Through Swot Analysis 2021 Mecaer Aviation Group, Fimac Spa, Air Innovations, United Technologies Corporation  Fintech Zoom](https://fintechzoom.com/fintech_news_stock-market/acb-stock-acb-stock-utx-stock-aircraft-environmental-control-systems-market-introducing-new-industry-dynamics-through-swot-analysis-2021-mecaer-aviation-group-fimac-spa-air-innovations-unite/)
+
+
+> ACB Stock – ACB Stock – UTX Stock – Aircraft Environmental Control Systems Market Introducing New Industry Dynamics Through Swot Analysis 2021| Mecaer Aviation Group, Fimac Spa, Air Innovations, United Technologies Corporation | Fintech Zoom | Fintech ZoomACB Stock – UTX Stock – Aircraft Environmental Control Systems Market Introducing New Industry Dynamics Through Swot Analysis 2021| Mecaer Aviation Group, Fimac Spa, Air Innovations, United Technologies Corporation | Fintech Zoom UTX Stock – Aircraft Environmental Control Systems Market Introducing New Industry Dynamics Through Swot Analysis 2021| Mecaer Aviation Group, Fimac Spa, Air Innovations, United Technologies Corporation Aircraft Environmental Control Systems Market report focused on the comprehensive analysis of current and future prospects of the Aircraft Environmental Control Systems industry.
+
+
+***
+[Streaming in Canada on Amazon Prime Video, Apple TV+, Crave, Disney+ and Netflix [March 8-14]](https://mobilesyrup.com/2021/03/13/streaming-in-canada-amazon-prime-video-apple-tv-plus-crave-disney-plus-netflix/)
+
+
+> Every week, MobileSyrup outlines some of the most notable movies and TV shows that recently hit Canadian streaming platforms. Our ‘Streaming in Canada’ column typically focuses on new content from Amazon Prime Video Canada, Crave and Netflix Canada, but other services like Apple TV+ and Disney+ will be mentioned when relevant. We'll also highlight shows... The post Streaming in Canada on Amazon Prime Video, Apple TV+, Crave, Disney+ and Netflix [March 8-14] appeared first on MobileSyrup.
+
+
