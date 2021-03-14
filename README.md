@@ -43379,3 +43379,50 @@
 > March Madness is back, and it starts today at 3 p.m. PT/6 p.m. ET with Selection Sunday on CBS. The pandemic caused last year's NCAA tournament to be canceled, but college basketball's premier event has returned for 2021, albeit with a few changes to account for COVID-19. Typically, the early rounds are scattered across the country in different "regions," but this year the 67 men's games will all take place in Indiana with the bulk of the action happening in Indianapolis. Because of this change, tweaks have also been made to the seeding process for figuring out which teams are playing in which group.
 
 
+***
+![Twitter users find themselves banned if they tweet specific word](https://static.independent.co.uk/2021/03/14/19/twitter-tablet.544x306.jpg?width=1200&auto=webp&quality=75 "Twitter users find themselves banned if they tweet specific word")
+
+
+[Twitter users find themselves banned if they tweet specific word](https://www.independent.co.uk/life-style/gadgets-and-tech/twitter-accounts-ban-memphis-b1817064.html)
+
+
+> Twitter users have reported the social media site temporarily banning them for tweeting the word "Memphis". Tweeting the word appeared to result in dozens of accounts being automatically suspended. Several users shared online screenshots of them being banned, stating the word that caused problems was "Memphis". The situation has since been resolved with no explanation from Twitter about the bug. The Independent has contacted Twitter for a comment. But it caught the attention of several people, including players at Olympique Lyonnais, the French football club.
+
+
+***
+![The Roblox final fantasy – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/07/roblox-1franklin-7215-scaled.jpg?w=596 "The Roblox final fantasy – TechCrunch")
+
+
+[The Roblox final fantasy – TechCrunch](https://techcrunch.com/2021/03/14/the-roblox-final-fantasy/)
+
+
+> Hello friends, and welcome to Week in Review. Last week, I talked a bit about NFTs and their impact on artists. If you're inundated with NFT talk just take one quick look at this story I wrote this week about the $69 million sale of Beeple's photo collage. This hype cycle is probably all the result of crypto folks talking each other up and buying each other's stuff, but that doesn't mean there won't be lasting impacts. That said, I would imagine we're pretty close to the peak of this wave, with a larger one down the road after things cool off a bit.
+
+
+***
+[Tweeting 'Memphis' autolocks your Twitter account](https://twitter.com/swiftonsecurity/status/1371183849712009219)
+
+
+> We've detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center. Help Center
+
+
+***
+![Twitter users flag bug where accounts are banned if they tweet ‘Memphis'](https://static.independent.co.uk/2021/03/14/19/twitter-tablet.544x306.jpg?width=1200&auto=webp&quality=75 "Twitter users flag bug where accounts are banned if they tweet ‘Memphis'")
+
+
+[Twitter users flag bug where accounts are banned if they tweet ‘Memphis'](https://www.independent.co.uk/life-style/gadgets-and-tech/twitter-accounts-ban-memphis-b1817064.html)
+
+
+> Twitter users have reported the social media site temporarily banning them for tweeting the word "Memphis". Tweeting the word appeared to result in dozens of accounts being automatically suspended. Several users shared online screenshots of them being banned, stating the word that caused problems was "Memphis". The situation has since been resolved with no explanation from Twitter about the bug. The Independent has contacted Twitter for a comment. But it caught the attention of several people, including players at Olympique Lyonnais, the French football club.
+
+
+***
+![The Full List Of Instagram's Features](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/03/Instagram-feature-screenshots.jpg "The Full List Of Instagram's Features")
+
+
+[The Full List Of Instagram's Features](https://screenrant.com/instagram-full-features-list/)
+
+
+> Instagram is one of the biggest social media platforms in the world with over a billion monthly active users estimated. Part of retaining — and even growing — a user base that is already that big is providing enough in the way of features to appeal to enough people. That's why what was once simply a photo-sharing app is now so much more. Instagram was launched in October 2010 with its focus on photography and user lifestyles distilled into its iconic square and often filtered format. Explosive growth in popularity saw it hit 10 million users less than a year later and catch the attention of Facebook, which bought the firm in 2012 for a cool $1 billion.
+
+
