@@ -43145,3 +43145,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Getting started with COBOL development on Fedora Linux 33 -- "COBOL is still powering business critical operations within many major organizations. As the need to update, upgrade and troubleshoot these applications grows, so may the demand for anyone with COBOL development knowledge."](https://external-preview.redd.it/s9wPPMlrzKFK23WuOJ9dH_WpOlBVR_inBWrUlXkiCSY.jpg?auto=webp&s=2f2b6234714a3dc54198f622c3b64d4da21b64e8 "Getting started with COBOL development on Fedora Linux 33 -- "COBOL is still powering business critical operations within many major organizations. As the need to update, upgrade and troubleshoot these applications grows, so may the demand for anyone with COBOL development knowledge."")
+
+
+[Getting started with COBOL development on Fedora Linux 33 -- "COBOL is still powering business critical operations within many major organizations. As the need to update, upgrade and troubleshoot these applications grows, so may the demand for anyone with COBOL development knowledge."](https://www.reddit.com/r/programming/comments/m4sfmd/getting_started_with_cobol_development_on_fedora/)
+
+
+> Getting started with COBOL development on Fedora Linux 33 -- "COBOL is still powering business critical operations within many major organizations. As the need to update, upgrade and troubleshoot these applications grows, so may the demand for anyone with COBOL development knowledge."
+
+
+***
+![Meet the audio description experts making games more accessible to the visually impaired](https://cdn.mos.cms.futurecdn.net/Y3kGis4HqiLyGz4aMvFjx7-1200-80.jpg "Meet the audio description experts making games more accessible to the visually impaired")
+
+
+[Meet the audio description experts making games more accessible to the visually impaired](https://www.techradar.com/news/meet-the-audio-description-experts-making-games-more-accessible-to-the-visually-impaired)
+
+
+> Accessibility in video games has been improving dramatically in recent years, with last year being particularly notable. The sheer scope of accessibility features in both the critically-acclaimed The Last of Us Part 2 and Ubisoft's Watch Dogs Legion was inspirational, while Rare continued to roll out updates that added accessibility improvements to Sea of Thieves. All of these are encouraging examples that developers are becoming more aware of the importance of accessibility options.This tremendous work has spanned indie and AAA studios alike, but accessibility has been slowly improving across the industry as a whole.
+
+
+***
+[Notes about Linked open data(Knowledge Graph)](https://www.reddit.com/r/programming/comments/m4sadz/notes_about_linked_open_dataknowledge_graph/)
+
+
+> submitted by /u/congolomera [link] [comments]
+
+
+***
+![AI Can Detect 'Diabetes Of Eyes' In Minutes To Successfully Save People's Eyesight](https://im.indiatimes.in/content/2021/Mar/Facebook-Image---2021-03-11T175918546_604a0d53afcc9.jpg "AI Can Detect 'Diabetes Of Eyes' In Minutes To Successfully Save People's Eyesight")
+
+
+[AI Can Detect 'Diabetes Of Eyes' In Minutes To Successfully Save People's Eyesight](https://www.indiatimes.com/technology/news/intel-ai-detects-diabetic-retinopathy-in-minutes-to-saves-people-eyesight-536125.html)
+
+
+> Diabetes is known to cause an array of ailments in humans that can result in severe lifestyle changes. India is approaching over 98 million cases of diabetes by 2030, according to the Lancet Diabetes and Endocrinology Global Study. Getty ImagesWhile issues with cardiac health, blood pressure and other such complications, one that often gets ignored is Diabetic Retinopathy or DR. This medical condition if not treated in time can result in vision-related issues, even permanent blindness. What makes this issue more challenging is the lack of skilled trained retinal specialists in India.
+
+
+***
+![Can a Vegan Diet Be Healthy? A Literature Review](https://www.erichgrunewald.com/img/vegan_sketch_1.jpeg "Can a Vegan Diet Be Healthy? A Literature Review")
+
+
+[Can a Vegan Diet Be Healthy? A Literature Review](https://www.erichgrunewald.com/posts/can-a-vegan-diet-be-healthy-a-literature-review/)
+
+
+> The skins crawled, and the meat that was stuck on the spits bellowed, both roast and raw, and the noise was like the lowing of cattle. – Homer The first question is: healthy compared to what? To a lacto-ovo-vegetarian diet? or to a standard Western diet? or to the mean world diet, if that is even a coherent concept? The papers I will cover in this post don't all answer the same question, so I'll try to be clear in pointing out what they are comparing to. They also differ in which non-carnivorous diets they are looking at.
+
+
