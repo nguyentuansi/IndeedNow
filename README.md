@@ -43007,3 +43007,47 @@
 > Organizing your own schedule is hard enough. What happens when you need to be aware of friends' and family members' schedules, too? It's a lot to handle. And that's where Google Calendar comes in.  If you've only been using it for yourself up to now, you might not know about the world of shared calendars, which you can use to corral appointments for your whole family (however you choose to define "family") and make sure everyone sees events all handily in one place. If you have a Gmail email account, the calendar is one of the included features.
 
 
+***
+[Learn the Flask Python Web Development Framework by Building an Ecommerce Platform](https://www.reddit.com/r/Python/comments/m4ng90/learn_the_flask_python_web_development_framework/)
+
+
+> submitted by /u/ConfidentMushroom [link] [comments]
+
+
+***
+![The 5 best Amazon deals to buy this weekend](https://www.gannett-cdn.com/presto/2021/03/14/USAT/6a256e0e-7580-4953-bb3a-ec3b20acb2b7-weekend-background_copy.jpg?crop=1493,840,x0,y0&width=1493&height=840&format=pjpg&auto=webp "The 5 best Amazon deals to buy this weekend")
+
+
+[The 5 best Amazon deals to buy this weekend](https://www.usatoday.com/story/tech/reviewedcom/2021/03/13/amazon-deals-get-cuisinart-knife-set-jbl-clip-3-and-more/4687333001/)
+
+
+> This weekend's deals were worth the wait. (Photo: JBL/Cuisinart)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.There's something about the onset of spring that makes us want to shop with wild abandon. Maybe it's all those hobbies we're gung-ho to take up as soon as the weather cooperates, or maybe we're simply overdue for a few new things around the house, but our interest has been piqued by a whole slew of Amazon deals.
+
+
+***
+![Cool Gadgets to Buy Under Rs. 500](https://i.gadgets360cdn.com/large/cool_gadgets_amazon_flipkart_1615555856102.jpg "Cool Gadgets to Buy Under Rs. 500")
+
+
+[Cool Gadgets to Buy Under Rs. 500](https://gadgets.ndtv.com/internet/features/cool-gadgets-buy-under-rs-500-amazon-flipkart-price-in-india-bluetooth-speaker-gorilla-tripod-wireless-mouse-2389532)
+
+
+> Amazon and Flipkart act as online marketplaces for a host of things. Apart from smartphones, you can buy accessories, small gadgets like speakers, headphones, and many other things on e-commerce sites. There are so many options on these sites that sometimes it gets difficult to discover the right products. If you're looking to stock up on cool gadgets without shelling out too much money, we've listed some quirky gadgets under Rs. 500 that you can buy right now via online sites like Amazon or Flipkart.
+
+
+***
+[How to Read Data from SQLite Database in Python](https://www.reddit.com/r/Python/comments/m4mxz2/how_to_read_data_from_sqlite_database_in_python/)
+
+
+> submitted by /u/hacknomus [link] [comments]
+
+
+***
+![Slick Tom Cruise Deepfakes Signal That Near Flawless Forgeries May Be Here](https://external-preview.redd.it/TBNAi5S2ZJfG_IGzBMqtYI_oivce7dWea9Ob6AmIGKc.jpg?auto=webp&s=4a7c00df27898f2766cd7c73bbbcbc6a52ebbdbf "Slick Tom Cruise Deepfakes Signal That Near Flawless Forgeries May Be Here")
+
+
+[Slick Tom Cruise Deepfakes Signal That Near Flawless Forgeries May Be Here](https://www.reddit.com/r/technology/comments/m4mhx6/slick_tom_cruise_deepfakes_signal_that_near/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
