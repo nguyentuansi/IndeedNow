@@ -43282,3 +43282,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Organization Claims White People Sharing Oprah Memes Is 'Digital Blackface'](https://media.breitbart.com/media/2021/03/harry-meghan-oprah-getty-640x335.jpg "Organization Claims White People Sharing Oprah Memes Is 'Digital Blackface'")
+
+
+[Organization Claims White People Sharing Oprah Memes Is 'Digital Blackface'](https://www.breitbart.com/tech/2021/03/14/organization-claims-white-people-sharing-oprah-memes-is-digital-blackface/)
+
+
+> The non-profit organization Slow Factory Foundation is warning white people that they are engaging in a phenomenon known as 'digital blackface' by posting memes that feature black people in them. People are getting 'canceled' for their tweets from a decade ago. In ten years from now, a new wave of cancelations could include people who are sharing harmless memes today, as an organization dedicated to social justice is now accusing social media users of 'digital blackface.' According to the Slow Factory Foundation, 'digital blackface' is 'an online phenomenon where white and non-black people share GIFs and photos of black folks to express emotion or reaction to anything happening on the internet.
+
+
+***
+![From the Editor's Desk: The times, they are a-changing](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/lenovo-smart-clock-essential-kolaches-time-change.jpg "From the Editor's Desk: The times, they are a-changing")
+
+
+[From the Editor's Desk: The times, they are a-changing](https://www.androidcentral.com/editors-desk-times-they-are-changing)
+
+
+> Source: Ara Wagoner / Android Central Waking up on Sunday morning usually sucks for a decent percent of the populace, but there is one morning a year where everyone wakes up, looks at a clock, and then curses in their favored tongue: the "Spring Forward" date that daylight saving time begins for the year. People can make all the arguments about it still being useful for that extra hour of daylight before sunset each day, but let's be honest: this doesn't save energy, we collectively lose billions in personal and corporate productivity hours each year during the subsequent days we all struggle to get back into our routine, and since only some countries use DST, it means that for the next few weeks, we have to triple-check that we have the right time for meetings with anyone outside North America.
+
+
+***
+![Netflix Considers Crackdown on Password Sharing](https://media.breitbart.com/media/2020/12/Reed-Hastings.jpg "Netflix Considers Crackdown on Password Sharing")
+
+
+[Netflix Considers Crackdown on Password Sharing](https://www.breitbart.com/tech/2021/03/14/netflix-considers-crackdown-on-password-sharing/)
+
+
+> Streaming giant Netflix is reportedly considering cracking down on users sharing their account passwords with friends and family. BBC News reports that some Netflix users have reported seeing a screen when logging onto Netflix that states 'If you don't live with the owner of this account, you need your own account to keep watching.' A Netflix spokesperson told the BBC: 'This test is designed to help ensure that people using Netflix accounts are authorized to do so.' It's common knowledge that many Netflix users share passwords with friends and family, so far Netflix has done little to combat this but soon may begin cracking down on potentially lost profits from account sharing as other rival streaming services like Disney+ and HBO Max begin to gain traction.
+
+
+***
+![Breakthrough in electronic display fabrics could help pave the way for smart clothing](https://external-preview.redd.it/CRh11RMlZuFL2Jxxy6lp0BX_ht1llOwzhWJdheHDato.jpg?auto=webp&s=035396d878e4391a33df29617d46dedae69c7b74 "Breakthrough in electronic display fabrics could help pave the way for smart clothing")
+
+
+[Breakthrough in electronic display fabrics could help pave the way for smart clothing](https://www.reddit.com/r/technology/comments/m4xpaf/breakthrough_in_electronic_display_fabrics_could/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Hit Japanese app Crabhouse forced to change name on iOS](https://external-preview.redd.it/Chgiydh9J-lMTVhPGod_lHAPp8sRDlOHQFDp18IHw3I.jpg?auto=webp&s=4bff1f71bb2eaaa4edffc837da093a377bbf76cb "Hit Japanese app Crabhouse forced to change name on iOS")
+
+
+[Hit Japanese app Crabhouse forced to change name on iOS](https://www.reddit.com/r/technology/comments/m4xman/hit_japanese_app_crabhouse_forced_to_change_name/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
