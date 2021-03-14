@@ -43426,3 +43426,53 @@
 > Instagram is one of the biggest social media platforms in the world with over a billion monthly active users estimated. Part of retaining — and even growing — a user base that is already that big is providing enough in the way of features to appeal to enough people. That's why what was once simply a photo-sharing app is now so much more. Instagram was launched in October 2010 with its focus on photography and user lifestyles distilled into its iconic square and often filtered format. Explosive growth in popularity saw it hit 10 million users less than a year later and catch the attention of Facebook, which bought the firm in 2012 for a cool $1 billion.
 
 
+***
+![How to watch the 2021 Grammy Awards online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/grammys-cbs.jpg "How to watch the 2021 Grammy Awards online from anywhere")
+
+
+[How to watch the 2021 Grammy Awards online from anywhere](https://www.androidcentral.com/how-watch-2021-grammy-awards-online-anywhere)
+
+
+> Music's Biggest Night is here and we have all the details on how you can watch the 63rd annual Grammy Awards online or on TV. Unlike last year's award show which took place in late January before the pandemic, the 2021 Grammys will be held with full Covid-19 protocols in place. In fact, there will be five different stages and this year, the nominees will be the show's audience though each nominee will be able to bring one guest. The event was originally scheduled to take place at the Staples Center but it was decided to due to a rise in Covid cases to hold it at the smaller Los Angeles Convention Center instead.
+
+
+***
+![How To Fix Your Messed-Up Sleeping Position](https://media.gq.com/photos/6047ec8d83126439ad3dbd2d/16:9/w_1280,c_limit/sleepyman3.jpg "How To Fix Your Messed-Up Sleeping Position")
+
+
+[How To Fix Your Messed-Up Sleeping Position](https://www.gq.com/story/how-to-fix-your-messed-up-sleep-position)
+
+
+> On the other hand, for those who suffer from sleep apnea or even just simple snoring, sleeping on one's back causes gravity to work against your airway, encouraging it to close more, explained Dr. Clete Kushida, medical director of the Stanford Sleep Medicine Center. Salas noted that 80 percent of people who meet the diagnostic criteria for sleep apnea are not diagnosed and that some people have positional sleep apnea, which mostly occurs when they end up on their backs. Back-sleeping may also not be particularly great for those who experience heartburn, Salas said.
+
+
+***
+![Nokia 10 release date, news, leaks and rumors](https://cdn.mos.cms.futurecdn.net/XvG2T4tvvvx2CHUVNZinrQ-1200-80.jpg "Nokia 10 release date, news, leaks and rumors")
+
+
+[Nokia 10 release date, news, leaks and rumors](https://www.techradar.com/news/nokia-10)
+
+
+> We've been hearing rumors of, and eagerly anticipating, the Nokia 10 for well over a year now. But like a ghost on a stormy night, the new Nokia smartphone seems to vanish as soon as it seems to get close.We've been waiting for a follow-up to the Nokia 9 PureView since its release in early 2019, and as time's gone on, we've slowly been giving up hope to see this rumored phone.That follow-up was thought to be called the Nokia 9.2, or 9.3, but Nokia 10 was a name we'd also heard, and more recent news makes it seem much more likely that'll be the final release name of the device.
+
+
+***
+![Sight diagnostics: Artificial Intelligence solution to help prevent blindness](https://images.financialexpress.com/2021/03/1-324.jpg "Sight diagnostics: Artificial Intelligence solution to help prevent blindness")
+
+
+[Sight diagnostics: Artificial Intelligence solution to help prevent blindness](https://www.financialexpress.com/industry/technology/sight-diagnostics-artificial-intelligence-solution-to-help-prevent-blindness/2211689/)
+
+
+> Research shows that DR is a leading cause of blindness and vision loss in adults, and early detection and treatment is critical to stopping the damage.Sankara Eye Foundation and Singapore-based Leben Care are deploying a comprehensive retina risk assessment software-as-a-service platform in India. Netra.AI, the cloud-based artificial intelligence (AI) solution, is powered by Intel technology and uses deep learning to identify retinal conditions in a short span of time with the accuracy level of human doctors.
+
+
+***
+![iPhone 13 release date, price, news, leaks and what we know about the new iPhone](https://cdn.mos.cms.futurecdn.net/4fxJtRFSxRMGs6yUsjhrkS-1200-80.jpg "iPhone 13 release date, price, news, leaks and what we know about the new iPhone")
+
+
+[iPhone 13 release date, price, news, leaks and what we know about the new iPhone](https://www.techradar.com/news/new-iphone-13-2021)
+
+
+> The iPhone 13 - or maybe the iPhone 12S - is likely the new iPhone you'll be considering buying later in 2021, and thanks to a variety of leaks and rumors we're gaining an idea of what to expect.It may feel like the iPhone 12 family has just landed, but we've heard a variety of leaks of what to expect from the next flagship phone that we expect to be flanked by the iPhone 13 Pro, iPhone 13 Pro Max and iPhone 13 mini.What's the overall word right now? We've heard from all different types of sources not to expect any humongous upgrades, as rumors point to the company focusing on refining the design, improving the internals, and perhaps even bringing in more powerful cameras that take sharper photos and better night shots.
+
+
