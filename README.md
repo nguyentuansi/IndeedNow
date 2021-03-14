@@ -43192,3 +43192,53 @@
 > The skins crawled, and the meat that was stuck on the spits bellowed, both roast and raw, and the noise was like the lowing of cattle. – Homer The first question is: healthy compared to what? To a lacto-ovo-vegetarian diet? or to a standard Western diet? or to the mean world diet, if that is even a coherent concept? The papers I will cover in this post don't all answer the same question, so I'll try to be clear in pointing out what they are comparing to. They also differ in which non-carnivorous diets they are looking at.
 
 
+***
+![How to run ChromeOS in VirtualBox](https://img.dtcn.com/image/digitaltrends/chrome-os-virtualbox-running-1200x630-c-ar1.91.png "How to run ChromeOS in VirtualBox")
+
+
+[How to run ChromeOS in VirtualBox](https://www.digitaltrends.com/computing/how-to-run-chrome-os-in-virtualbox/)
+
+
+> Want to try ChromeOS in VirtualBox? Whether you're considering buying a Chromebook and want to get a feel for the operating system, or you're just curious about ChromeOS, a virtual machine is a great way to try Google's browser-first OS. Unfortunately, Google does not offer downloads of ChromeOS — at least, not in a form that's easy to use with a virtual machine. The popular ChromeOS builds once offered by Hexxah seem to have disappeared, too. Even Neverware's CloudReady version has limitations. That said, your choices for running ChromeOS in a virtual machine are extremely narrow.
+
+
+***
+![How to restore a Mac to its factory settings](https://img.dtcn.com/image/digitaltrends/applemacbook-review-speakers-1200x630-c-ar1.91.jpg "How to restore a Mac to its factory settings")
+
+
+[How to restore a Mac to its factory settings](https://www.digitaltrends.com/computing/how-to-restore-a-mac-to-factory-settings/)
+
+
+> Restoring your Mac to its factory settings will erase all your data from the hard drive as well as your preferences and customized settings. You can fix a number of technical issues by restoring a Mac to its factory settings, and it's also something you should do before selling your Mac or giving it to someone — you'll protect your personal data and allow the new owner to personalize the device. Our simple step-by-step guide will help you erase everything on your Mac, reinstall MacOS, and restore your machine to its original factory settings.
+
+
+***
+![Microsoft investigating if internal leaks are responsible for large scale suspected Chinese hack](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/microsoft-4608125_1920-647x363.jpeg?xY61JgKp.9apsJRGR5VY2mTOOLEXILuI "Microsoft investigating if internal leaks are responsible for large scale suspected Chinese hack")
+
+
+[Microsoft investigating if internal leaks are responsible for large scale suspected Chinese hack](https://www.indiatoday.in/technology/news/story/microsoft-investigating-if-internal-leaks-are-responsible-for-large-scale-suspected-chinese-hack-1779210-2021-03-14)
+
+
+> Microsoft is investigating whether a world-wide cyber attack on tens of thousands of its corporate customers may be linked to a leak of information by the company or its partners, according to people familiar with the matter.The investigation centres in part on the question of how a stealthy cyberattack that began in early January picked up steam in the week before the company was able to send a software fix to customers. In that time, a handful of China-linked hacking groups obtained the tools that allowed them to launch wide-ranging cyberattacks that have now infected computers all over the world running Microsoft's Exchange email software.
+
+
+***
+![How to resize an image](https://img.dtcn.com/image/digitaltrends/kostenlose_programme_bildbearbeitung_1-1200x630-c-ar1.91.jpg "How to resize an image")
+
+
+[How to resize an image](https://www.digitaltrends.com/computing/how-to-resize-an-image/)
+
+
+> There is a virtually endless number of tools to choose from when it comes to resizing pictures. Your Windows 10 desktop or Chromebook already has the vast majority of these handy tools, so you can edit your images quickly without paying for expensive editing software that hogs precious memory space. This guide will show you how you can resize an image using Photos in Windows 10, Preview in MacOS, and Gallery in Chrome OS. In case you're not a fan of those apps, we'll also provide instructions for a web-based client.
+
+
+***
+![How to reset your router](https://img.dtcn.com/image/digitaltrends/21458106_10156580250138502_2902571199086271539_o-1200x630-c-ar1.91-s.jpg "How to reset your router")
+
+
+[How to reset your router](https://www.digitaltrends.com/computing/how-to-reset-your-router/)
+
+
+> Resetting your router is one of the first things you should try if your internet goes down. Restarting your router will reset your connection settings, interrupt malicious attacks on your network, and boot off unwanted devices from your network. Rebooting your router will also resolve a wide range of issues with speed and connectivity. Here is how you can reset your router manually and remotely, plus some important things you should know about rebooting your router. Step 1: Physically unplug your router and modem While your router may have an onboard option called Reset or Restart, you should be careful about using these since they may initiate a factory reboot and erase all your current settings.
+
+
