@@ -43051,3 +43051,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Samsung Firmware Downloader is a free cross-platform tool to download software updates for Galaxy devices](https://external-preview.redd.it/0uVmUxMd7QM3myJbYVekxfsx9UK2P1GQbHbsAD51Ozg.jpg?auto=webp&s=689c638ea490086d454f832a0b8cc9d9b60cfeda "Samsung Firmware Downloader is a free cross-platform tool to download software updates for Galaxy devices")
+
+
+[Samsung Firmware Downloader is a free cross-platform tool to download software updates for Galaxy devices](https://www.reddit.com/r/technology/comments/m4pexy/samsung_firmware_downloader_is_a_free/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The billionaire boom](https://external-preview.redd.it/S3Q-yvIwgbLxWQ7WNGSfTs5MTBGyRLIEuP5-5KEBVu0.jpg?auto=webp&s=b13a696f6371968869ddca607cf872b2ef4ab330 "The billionaire boom")
+
+
+[The billionaire boom](https://www.reddit.com/r/technology/comments/m4pdc5/the_billionaire_boom/)
+
+
+> Since the late 1990s, Silicon Valley has cultivated the ideology that 'the pursuit of innovation and capital is and of itself a social good,' said Megan Tompkins-Stange, a public policy professor at the University of Michigan.
+
+
+***
+[Nimble Robotics, which develops imitation learning-based warehouse robotic systems, raises $50M Series A, and adds Fei-Fei Li and Sebastian Thrun to its board (Brian Heater/TechCrunch)](http://www.techmeme.com/210314/p1#a210314p1)
+
+
+> Brian Heater / TechCrunch: Nimble Robotics, which develops imitation learning-based warehouse robotic systems, raises $50M Series A, and adds Fei-Fei Li and Sebastian Thrun to its board — Warehouse automation company Nimble Robotics today announced that it has raised a $50 million Series A. Led by DNS Capital …
+
+
+***
+![With OnePlus 9 series set to bear the Hasselblad name, 5 facts to know about the iconic camera maker](https://images.indianexpress.com/2021/03/Hasselblad-FB.jpg "With OnePlus 9 series set to bear the Hasselblad name, 5 facts to know about the iconic camera maker")
+
+
+[With OnePlus 9 series set to bear the Hasselblad name, 5 facts to know about the iconic camera maker](https://indianexpress.com/article/technology/mobile-tabs/with-oneplus-9-series-set-to-bear-the-hasselblad-name-5-facts-to-know-about-the-iconic-camera-maker-7227594/)
+
+
+> OnePlus has inked a new three-year partnership with Hasselblad, the iconic Swedish camera maker. A three-year deal with Hasselblad will hopefully improve the camera experience on OnePlus' next-generation smartphones, including the soon-to-be-announced OnePlus 9 series. Based in Gothenburg, Sweden, Hasselblad has been known for medium-format cameras since World War II. In fact, the company is behind some of the most expensive cameras on the market, joining the elite camera manufacturer club which also includes the likes of Leica.
+
+
+***
+![Example on integrating TypeScript with Webpack](https://external-preview.redd.it/L7cz4_prJ2SsCUEh40uMOjfC1DqHcJEcGQajGlWlMVM.jpg?auto=webp&s=d64c818f8fddd20cfd118493aa7f0bb90682b0dd "Example on integrating TypeScript with Webpack")
+
+
+[Example on integrating TypeScript with Webpack](https://www.reddit.com/r/programming/comments/m4ogvk/example_on_integrating_typescript_with_webpack/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
