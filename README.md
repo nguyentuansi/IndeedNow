@@ -43098,3 +43098,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![DocuSign CEO sees continued digitization past the pandemic](https://external-preview.redd.it/H1cv6AlrkUglAUuPdUKMoSxOf7BQjiZkOqWndx_bOI8.jpg?auto=webp&s=a96d8ac4ad9a036fa360c1c0197a257757a7654a "DocuSign CEO sees continued digitization past the pandemic")
+
+
+[DocuSign CEO sees continued digitization past the pandemic](https://www.reddit.com/r/technology/comments/m4qx3t/docusign_ceo_sees_continued_digitization_past_the/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Micromax IN 1 specifications leaked ahead of March 19 launch](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/Webp.net-resizeimage-647x363.png?aC1NEMiWvdX6YytwTLB6PLSJVIoRm1rI "Micromax IN 1 specifications leaked ahead of March 19 launch")
+
+
+[Micromax IN 1 specifications leaked ahead of March 19 launch](https://www.indiatoday.in/technology/news/story/micromax-in-1-specifications-leaked-ahead-of-march-19-launch-1779143-2021-03-14)
+
+
+> Micromax In 1 will be launched in India on 19th March.It is expected to sport a 6.67-inch FHD+ display with a screen resolution of 2460 × 1080 pixels.The smartphone is expected to be powered by MediaTek's Helio G80 chipset.The Indian smartphone manufacturing giant, Micromax, marked its return to the smartphone business last November with the launch of the IN Note 1 and IN 1B. On March 19, it plans to add another model that will launch as the Micromax In 1. According to a leak by XDA Developers Senior Writer Tushar Mehta the smartphone will have an Helio G80 processor and a 5000mAh battery capacity.
+
+
+***
+![Female scientists who changed the world – from discovering radioactivity to making Covid-19 vaccines](https://www.the-sun.com/wp-content/uploads/sites/6/2021/03/comp-ap-6469-women-scientists.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Female scientists who changed the world – from discovering radioactivity to making Covid-19 vaccines")
+
+
+[Female scientists who changed the world – from discovering radioactivity to making Covid-19 vaccines](https://www.the-sun.com/lifestyle/tech/2508322/female-scientists-who-changed-the-world/)
+
+
+> IN honour of Women's History Month we've rounded up some of the most amazing female scientists you should know about. From discovering radioactivity to HIV and Covid-19 breakthroughs, these women have changed the world. Marie Curie Marie Curie was the first female winner of a Nobel PrizeCredit: Alamy Born in Poland in 1867, Marie Curie went on to become one of the most famous female scientists in the world. She is well-known for discovering radioactivity and she invented a mobile X-ray unit that was used in WWI.
+
+
+***
+[Female scientists who changed the world – from discovering radioactivity to making Covid-19 vaccines](https://www.thesun.ie/tech/6700800/female-scientists-who-changed-the-world/)
+
+
+> IN honour of Women’s History Month we’ve rounded up some of the most amazing female scientists you should know about. From discovering radioactivity to HIV and Covid-19 breakthroughs, these women have changed the world. Marie Curie Born in Poland in 1867, Marie Curie went on to become one of the most famous female scientists in […]
+
+
+***
+![Google will face lawsuit over Incognito mode tracking](https://external-preview.redd.it/oZvTG9HHcMISh15ThnnLm9Q-hZrnuV-AQ1-NC-5K1v0.jpg?auto=webp&s=ab9bb602530e8d781f73d019d478e079f8253097 "Google will face lawsuit over Incognito mode tracking")
+
+
+[Google will face lawsuit over Incognito mode tracking](https://www.reddit.com/r/technology/comments/m4qldq/google_will_face_lawsuit_over_incognito_mode/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
