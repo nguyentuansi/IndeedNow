@@ -43332,3 +43332,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Building a Stock Research Terminal Tool with Python](https://external-preview.redd.it/feh3HUsVPM0unGEg4yFO2-qenyuberrc2vmgRUsJSkg.jpg?auto=webp&s=40aecf8d7ba8483eb197b9883735d5d11c50c5ca "Building a Stock Research Terminal Tool with Python")
+
+
+[Building a Stock Research Terminal Tool with Python](https://www.reddit.com/r/Python/comments/m50aff/building_a_stock_research_terminal_tool_with/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Choosing The Right Institute For The CCNP 350 401 Certification](https://filmdaily.co/tech/find-best-ccnp-program/)
+
+
+> Are you looking for a way to advance your IT career? Finding the right institute for the CCNP certification can help you do that. Find out more here. The post Choosing The Right Institute For The CCNP 350 401 Certification appeared first on Film Daily.
+
+
+***
+![Anyone interested in sharing educative.io subscription ? DM me](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Anyone interested in sharing educative.io subscription ? DM me")
+
+
+[Anyone interested in sharing educative.io subscription ? DM me](https://www.reddit.com/r/Python/comments/m506cm/anyone_interested_in_sharing_educativeio/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Pick up a case to protect that brand new 11-inch iPad Pro (2020)](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/03/ipad-pro-2020.jpg "Pick up a case to protect that brand new 11-inch iPad Pro (2020)")
+
+
+[Pick up a case to protect that brand new 11-inch iPad Pro (2020)](https://www.imore.com/best-cases-2020-11-inch-ipad-pro)
+
+
+> Source: Apple Best Cases for the 2020 11-inch iPad Pro iMore 2021 Protect your substantial investment when you purchase an iPad Pro with a great case. The 2020 iPad Pro's dimensions are unchanged from the 2018 version, so if you have a sleeve or bag, that will still fit. However, the larger camera module means that a case will not fit, and you'll need a new one specific to this model. Some cases offer simple protection while others add functionality, such as folding into a stand, holding an Apple Pencil, or including a keyboard.
+
+
+***
+![March Madness 2021: NCAA Selection Sunday, tournament schedule, how to watch and what you need to know](https://cnet1.cbsistatic.com/img/mFsAucs54hBhWixy2AELRKeI-Zc=/1200x630/2021/03/04/640ea32d-4911-4346-af04-40447c26899e/lucas-oil-stadium-march-madness.jpg "March Madness 2021: NCAA Selection Sunday, tournament schedule, how to watch and what you need to know")
+
+
+[March Madness 2021: NCAA Selection Sunday, tournament schedule, how to watch and what you need to know](https://www.cnet.com/news/march-madness-2021-ncaa-selection-sunday-tournament-schedule-how-to-watch-and-what-you-need-to-know/)
+
+
+> March Madness is back, and it starts today at 3 p.m. PT/6 p.m. ET with Selection Sunday on CBS. The pandemic caused last year's NCAA tournament to be canceled, but college basketball's premier event has returned for 2021, albeit with a few changes to account for COVID-19. Typically, the early rounds are scattered across the country in different "regions," but this year the 67 men's games will all take place in Indiana with the bulk of the action happening in Indianapolis. Because of this change, tweaks have also been made to the seeding process for figuring out which teams are playing in which group.
+
+
