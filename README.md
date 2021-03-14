@@ -42957,3 +42957,53 @@
 > Every week, MobileSyrup outlines some of the most notable movies and TV shows that recently hit Canadian streaming platforms. Our ‘Streaming in Canada’ column typically focuses on new content from Amazon Prime Video Canada, Crave and Netflix Canada, but other services like Apple TV+ and Disney+ will be mentioned when relevant. We'll also highlight shows... The post Streaming in Canada on Amazon Prime Video, Apple TV+, Crave, Disney+ and Netflix [March 8-14] appeared first on MobileSyrup.
 
 
+***
+![Best cheap gaming PC deals for March 2021](https://img.dtcn.com/image/digitaltrends/origin-neuron-gaming-desktop-review-lifestyle-behind-shoulder-1200x630-c-ar1.91.jpg "Best cheap gaming PC deals for March 2021")
+
+
+[Best cheap gaming PC deals for March 2021](https://www.digitaltrends.com/dtdeals/best-cheap-gaming-pc-deals/)
+
+
+> Gaming laptops have come a long way from their early days, but be that as it may, none of them can compare to a proper desktop setup for true in-game immersion. And while you can build a desktop PC yourself, that's not really going to save you all that much cash — time is money, after all — and good luck even finding a reasonably priced GPU in the current market. Nevertheless, if you need a new gaming battle station and you're on a budget, we're here to help. We've smoked out the five best cheap gaming PC deals and rounded them up right here.
+
+
+***
+![I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/img/post-34-polars/polars.webp "I wrote one of the fastest DataFrame libraries")
+
+
+[I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
+
+
+> 1. Introduction At the time of writing this, the coronavirus has been in our country for a year, which means I have been sitting at home for a very long time. At the start of the pandemic, I had a few pet projects in Rust under my belt and I noticed that the 'are we DataFrame yet', wasn't anywhere near my satisfaction. So I wondered if I could make a minimalistic crate that solved a specific use case of mine. But boy, did that get out of hand. A year later with lots of programming resulting in one of the fastest DataFrame libraries available in Rust and Python.
+
+
+***
+![Best cheap desktop computer deals for March 2021](https://img.dtcn.com/image/digitaltrends/best-cheap-desktop-deals-featured-1-1200x630-c-ar1.91.jpg "Best cheap desktop computer deals for March 2021")
+
+
+[Best cheap desktop computer deals for March 2021](https://www.digitaltrends.com/dtdeals/best-cheap-desktop-computer-deals/)
+
+
+> As many laptop deals, MacBook deals, and gaming laptop deals as there are up for grabs online year-round, the best desktop PCs will always beat portable clamshell computers when it's time to settle in for a few hours of work or gaming. You don't have to spend a lot of money to get a good one, either. Whether you're feeling boxed-in by your cramped laptop and are switching to a desktop PC to enhance your entertainment and productivity, or you're simply replacing your old desktop tower that's getting a little long in the tooth, we've snatched up the five best cheap desktop computer deals available right now and put them right here.
+
+
+***
+![BISTel Features Big Data-Driven Smart Analytical Solutions Designed for China's Semiconductor Manufacturing Sector at Semicon China 2021](https://mms.businesswire.com/media/20210313005004/en/777416/23/BISTel-Logo-Outline_Page_1.jpg "BISTel Features Big Data-Driven Smart Analytical Solutions Designed for China's Semiconductor Manufacturing Sector at Semicon China 2021")
+
+
+[BISTel Features Big Data-Driven Smart Analytical Solutions Designed for China's Semiconductor Manufacturing Sector at Semicon China 2021](https://www.businesswire.com/news/home/20210313005004/en/BISTel-Features-Big-Data-Driven-Smart-Analytical-Solutions-Designed-for-China%E2%80%99s-Semiconductor-Manufacturing-Sector-at-Semicon-China-2021)
+
+
+> SHENZHEN, China--(BUSINESS WIRE)--BISTel, the world leader in engineering automation systems (EES) and AI applications for semiconductor and flat panel display smart manufacturing announced today that it will provide a preview to its smart manufacturing strategy for China at the annual Semicon China exposition in Shanghai, March 17-19, 2021. Called Big Data-Driven Smart Analytical Solutions Designed for China's Semiconductor Manufacturing, Senior Director, Wang Feng, will unveil a wave of smart analysis solutions designed for China's fast growing semiconductor manufacturing market.
+
+
+***
+![How to create a family calendar on Google](https://mondrian.mashable.com/2021%252F03%252F14%252F80%252F34f90d3e92f24064aefa00bd43a9fe7f.67c3e.jpg%252F1200x630.jpg?signature=nia625R4-Rj5vPdULfR5-Vh4dWk= "How to create a family calendar on Google")
+
+
+[How to create a family calendar on Google](https://mashable.com/article/how-to-create-family-google-calendar/)
+
+
+> Organizing your own schedule is hard enough. What happens when you need to be aware of friends' and family members' schedules, too? It's a lot to handle. And that's where Google Calendar comes in.  If you've only been using it for yourself up to now, you might not know about the world of shared calendars, which you can use to corral appointments for your whole family (however you choose to define "family") and make sure everyone sees events all handily in one place. If you have a Gmail email account, the calendar is one of the included features.
+
+
