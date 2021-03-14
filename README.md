@@ -43242,3 +43242,43 @@
 > Resetting your router is one of the first things you should try if your internet goes down. Restarting your router will reset your connection settings, interrupt malicious attacks on your network, and boot off unwanted devices from your network. Rebooting your router will also resolve a wide range of issues with speed and connectivity. Here is how you can reset your router manually and remotely, plus some important things you should know about rebooting your router. Step 1: Physically unplug your router and modem While your router may have an onboard option called Reset or Restart, you should be careful about using these since they may initiate a factory reboot and erase all your current settings.
 
 
+***
+![The best thing about VR? Playing old school shooters](https://cdn.mos.cms.futurecdn.net/wr4ryfRjSZeXLrEVNyPwqT-1200-80.jpg "The best thing about VR? Playing old school shooters")
+
+
+[The best thing about VR? Playing old school shooters](https://www.techradar.com/news/the-best-thing-about-vr-playing-old-school-shooters)
+
+
+> 2020 was a breakthrough year for VR, when big questions were finally answered about the medium's ability to host blockbuster games with full-blooded stories and graphics that could compete with consoles and PC. There was Walking Dead: Saints and Sinners, with its moral quandaries and freedom of approach and, of course, we got Half-life: Alyx, a technical marvel that proved to be just as seminal for VR as its predecessors were for PC gaming.I own both of the above games and love them dearly. They're the champions that VR has long been crying out for - proof to the wider gaming public that it's a serious gaming platform.
+
+
+***
+![Up your game by collecting all the Super Smash Bros. Ultimate amiibo](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/super-smash-bros-ultimate-nintendo.jpg "Up your game by collecting all the Super Smash Bros. Ultimate amiibo")
+
+
+[Up your game by collecting all the Super Smash Bros. Ultimate amiibo](https://www.imore.com/every-amiibo-you-will-want-super-smash-bros-nintendo-switch)
+
+
+> Source: Nintendo Super Smash Bros. Ultimate has many playable characters from throughout Nintendo's history with their own look and fun moves. Having a Super Smash Bros. Ultimate amiibo can give you access to your favorites, even if you haven't unlocked it through the game or a DLC. When scanned, these Super Smash Bros. Ultimate amiibo will come into your game as FP (Figure Player) fighters, allowing you to train and level them to become stronger the more you play with them. These FP fighters appear and function just like their standard counterparts otherwise.
+
+
+***
+![How to password protect a PDF](https://img.dtcn.com/image/digitaltrends/lenovo-thinkpad-x1-carbon-2018-review-10-1200x630-c-ar1.91.jpg "How to password protect a PDF")
+
+
+[How to password protect a PDF](https://www.digitaltrends.com/computing/password-protect-pdf/)
+
+
+> PDF is a user-friendly, printable, downloadable file format that works across all systems. In our digital age, PDF has replaced many paper documents, making security all the more important. Thankfully, PDFs have password-protected encryption built directly into the format, whether you're running Windows or MacOS. There are several methods to password protect a PDF. In this guide, we will walk you through each of the methods. More PDF guides Password protecting a PDF with Adobe Acrobat screenshot Step 1: Navigate to the main Adobe Acrobat Pro DC free trial page and click the blue Get Started button.
+
+
+***
+![3D map for inner ear created with advanced X-ray technology](https://external-preview.redd.it/_kSD4gn2ALs5298TRZLb6ZksmL-ORUEIHq3kPUMdPtw.jpg?auto=webp&s=ba153ccc85c384b03f3f08b18a306f6dafe8a923 "3D map for inner ear created with advanced X-ray technology")
+
+
+[3D map for inner ear created with advanced X-ray technology](https://www.reddit.com/r/technology/comments/m4v3pq/3d_map_for_inner_ear_created_with_advanced_xray/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
