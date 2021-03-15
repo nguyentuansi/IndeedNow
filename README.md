@@ -43520,3 +43520,50 @@
 > The resilience of the tech sector has seen hiring return to pre-pandemic levels and now it is turning to the government's kickstart scheme to recruit under-24s. The digital tech sector has seen hiring surge to pre-pandemic levels with 122,446 advertised roles in the IT sector alone.  Firms are making use of the government's Kickstart Scheme which launched last autumn as part of the Chancellor's bid to create more jobs for young people. Data from the Office for National Statistics (ONS) reveals youth unemployment reached 14.
 
 
+***
+![Mitsubishi Electric Joins WIPO GREEN as Partner](https://mms.businesswire.com/media/20210314005003/en/864899/23/MELCO_logo.jpg "Mitsubishi Electric Joins WIPO GREEN as Partner")
+
+
+[Mitsubishi Electric Joins WIPO GREEN as Partner](https://www.businesswire.com/news/home/20210314005003/en/Mitsubishi-Electric-Joins-WIPO-GREEN-as-Partner)
+
+
+> March 14, 2021 10:10 PM Eastern Daylight Time TOKYO--(BUSINESS WIRE)--Mitsubishi Electric Corporation (TOKYO:6503) announced today that it has become a partner in the WIPO GREEN technology platform operated by the World Intellectual Property Organization (WIPO), through which Mitsubishi Electric will leverage its green technologies to drive open innovation and contribute to global efforts to achieve the United Nation's Sustainable Development Goals. Specifically, Mitsubishi Electric will register its green technologies in the WIPO GREEN database to expand opportunities for other entities to apply these technologies toward a more sustainable world based on decarbonization and climate-change mitigation.
+
+
+***
+![Limelight's State of Online Gaming Report Shows Online Gaming Spikes as Consumers Seek Social Connection and Entertainment](https://mms.businesswire.com/media/20210314005012/en/595810/21/llnw_logo.jpg "Limelight's State of Online Gaming Report Shows Online Gaming Spikes as Consumers Seek Social Connection and Entertainment")
+
+
+[Limelight's State of Online Gaming Report Shows Online Gaming Spikes as Consumers Seek Social Connection and Entertainment](https://www.businesswire.com/news/home/20210314005012/en/Limelight%E2%80%99s-State-of-Online-Gaming-Report-Shows-Online-Gaming-Spikes-as-Consumers-Seek-Social-Connection-and-Entertainment)
+
+
+> SINGAPORE--(BUSINESS WIRE)--Video game playing has risen to a new level, with consumers' playing more than 9 hours of online games each week. The desire to stay connected and entertained while stuck at home during the pandemic has driven online gaming popularity, according to the 'State of Online Gaming 2021,' a report commissioned by Limelight Networks, Inc. (Nasdaq: LLNW), on global gaming preferences and habits. New data shows that the spikes in gaming over the last year are driven by gamers' desire for social connections.
+
+
+***
+![Why spacewalk training involves getting very wet](https://img.dtcn.com/image/digitaltrends/29603598996_cb9174b3e0_k1-1200x630-c-ar1.91.jpg "Why spacewalk training involves getting very wet")
+
+
+[Why spacewalk training involves getting very wet](https://www.digitaltrends.com/news/why-spacewalk-training-involves-getting-very-wet/)
+
+
+> NASA completed its latest spacewalk at the International Space Station (ISS) on Saturday, March 13, successfully carrying out various maintenance and upgrade tasks on the outside of the orbiting outpost 250 miles above Earth. Such extravehicular activities (EVAs), as they're officially called, can last up to seven hours and, as you'd expect, require a great deal of training and preparation back on terra firma. The European Space Agency's Thomas Pesquet is one such astronaut currently undergoing spacewalk training ahead of a planned ISS mission in April 2021.
+
+
+***
+[義德新冠疫情拉警報，福奇稱美國防疫措施還不能取消](https://technews.tw/2021/03/15/italy-germany-covid-19-alert/)
+
+
+> 美國總統首席醫學顧問福奇（Anthony Fauci）週日（3 月 14 日）接受 CNN「State of […]
+
+
+***
+![Cardano: Hot cryptocurrency raises questions while price surges](https://resources.stuff.co.nz/content/dam/images/4/y/r/g/p/c/image.related.StuffLandscapeSixteenByNine.1420x800.4yrgms.png/1615771770117.jpg "Cardano: Hot cryptocurrency raises questions while price surges")
+
+
+[Cardano: Hot cryptocurrency raises questions while price surges](https://www.stuff.co.nz/technology/300252916/cardano-hot-cryptocurrency-raises-questions-while-price-surges)
+
+
+> The meteoric rise of Cardano over the past three months is catching the attention of some of the savviest investors in cryptocurrencies. Billionaire Michael Novogratz sought to crowdsource information on the digital token, also known as Ada, on Tuesday, asking for help to explain the more than sixfold surge since the middle of December that briefly made it the third-biggest cryptocurrency by market value after stalwarts Bitcoin and Ethereum.QuoteInspector.com/SuppliedCardano is the brainchild of Charles Hoskinson.
+
+
