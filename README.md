@@ -43814,3 +43814,53 @@
 > The online payment company Stripe continues to attract investors, raising $600 million in funding to reach a whopping company valuation of $95 billion. Stripe is by far the most valuable private fintech company in the world. Robinhood, the trading platform recently making headlines, just raised $3 billion to reach a valuation of around $11.2 billion. The company which makes software that allows companies to accept online or in person card payments said it will use the capital in the latest round of funding to invest in its European operations, particularly its Dublin headquarters.
 
 
+***
+![Twitter accidentally blocks users who post the word 'Memphis'](https://i.guim.co.uk/img/media/1f7367b6c1b665354f6346fe65d3004f32816870/188_346_5012_3009/master/5012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36288e0678ee5f4c30b919c72f17ee49 "Twitter accidentally blocks users who post the word 'Memphis'")
+
+
+[Twitter accidentally blocks users who post the word 'Memphis'](http://www.theguardian.com/technology/2021/mar/15/twitter-accidentally-blocks-users-who-post-the-word-memphis)
+
+
+> Memphis, Tennessee, is a city with a storied past. A heartland of rock'n'roll, blues, gospel and country music, it's the home of Graceland and FedEx, and a cornerstone of the civil rights movement. So it came as a surprise when Twitter decided to ban the city from its site.Over the weekend, users of the social network discovered that simply tweeting the word 'Memphis' was enough to land them with an automatic 12-hour suspension, and a requirement to delete the tweet.According to the moderation messages, doing so broke Twitter's rules on the dissemination of personal information – and to be fair to the site, Memphis is the home address of more than 600,000 people, though most postal carriers require more specificity to delivery a letter.
+
+
+***
+![Metrolinx and Toronto's Up Express pick up Apple Pay support](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/01/apple-pay-apple-watch-hero.jpeg "Metrolinx and Toronto's Up Express pick up Apple Pay support")
+
+
+[Metrolinx and Toronto's Up Express pick up Apple Pay support](https://www.imore.com/metrolinx-and-torontos-express-pick-apple-pay-support)
+
+
+> Source: iMore Metrolinx is adding Apple Pay support to Up Express in Toronto. Tapping a PRESTO device with an iPhone or Apple Watch will activate a terminal. Metrolinx is in the process of adding support for Apple Pay to Toronto's Up Express. The feature will allow users to pay for their fare using an Apple Watch or an iPhone. As first reported by 9to5Mac, a new pilot program will allow people to tap a PRESTO device to pay via Visa, Mastercard, and American Express thanks to Apple Pay. "Our customers have asked for more ways to pay, and we're so excited to roll out the next stage with PRESTO contactless payment on UP Express," said Metrolinx President and CEO Phil Verster.
+
+
+***
+![Best Android Smartphone Deals – Updated March 2021](https://www.androidheadlines.com/wp-content/uploads/2021/01/samsung-galaxy-s21-Ultra-AH-2.jpg "Best Android Smartphone Deals – Updated March 2021")
+
+
+[Best Android Smartphone Deals – Updated March 2021](https://www.androidheadlines.com/best-android-smartphone-deals)
+
+
+> Despite the best smartphone deals being in the holiday season, you can still get some great deals right now. From Samsung, to Motorola, to Google and everyone in between. Now is a really great time to pick up a new Android smartphone.There are a ton of new smartphones on the market this year, mostly from Samsung, but other OEMs have also released quite a few. So there are a ton of great deals, even now, that would make great gifts this holiday season. Smartphones make for a really great gift this holiday season, as they can be quite expensive to replace, and getting one as a gift is always nice.
+
+
+***
+![The best USB hubs for your PS4 or PS5](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/08/ps4-pro-hero-games.jpg "The best USB hubs for your PS4 or PS5")
+
+
+[The best USB hubs for your PS4 or PS5](https://www.androidcentral.com/best-usb-hub-playstation-4)
+
+
+> Best USB Hub for PS4 and PS5 Android Central 2021 With accessories like hard drives, charging cables, flash drives, PlayStation Move controllers, and PSVR headsets fighting for life on your PS4 or PS5, you'll find there just isn't enough USB ports to go around. If you want to avoid endless amounts of cable swapping, you can easily remedy the problem with the best PS4 USB hub. Here are some of our favorites you can find right now. Staff Pick The Anker's slim aluminum design and premium quality finish make it a great addition to your PS4 setup, and the four USB 3.
+
+
+***
+![A second face for Face ID is very beneficial — here's how to set it up!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/10/iphone-11-pro-face-id.jpg "A second face for Face ID is very beneficial — here's how to set it up!")
+
+
+[A second face for Face ID is very beneficial — here's how to set it up!](https://www.imore.com/how-add-second-person-face-id)
+
+
+> Source: Rene Ritchie / iMore When Apple launched the iPhone X with Face ID, there was a limitation: only one face could be set up. This means that if you wanted someone else to be able to unlock your device (like a significant other in case of emergency), or if you just look really different with glasses or sunglass, a hat, or even a face mask, then you may run into issues unlocking the best iPhone or iPad with Face ID. Thankfully, Apple added the option to add a secondary, or alternate face to Face ID in iOS 12 and later.
+
+
