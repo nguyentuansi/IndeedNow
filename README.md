@@ -43567,3 +43567,53 @@
 > The meteoric rise of Cardano over the past three months is catching the attention of some of the savviest investors in cryptocurrencies. Billionaire Michael Novogratz sought to crowdsource information on the digital token, also known as Ada, on Tuesday, asking for help to explain the more than sixfold surge since the middle of December that briefly made it the third-biggest cryptocurrency by market value after stalwarts Bitcoin and Ethereum.QuoteInspector.com/SuppliedCardano is the brainchild of Charles Hoskinson.
 
 
+***
+![Google Map now allows you to add new or missing roads](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-03/1503_210315-google-maps-hero-seo.jpeg "Google Map now allows you to add new or missing roads")
+
+
+[Google Map now allows you to add new or missing roads](https://www.soyacincau.com/2021/03/15/google-map-now-allows-you-to-add-new-or-missing-roads/)
+
+
+> The updates let everyone contribute to Google Maps. — Picture via SoyaCincau Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, Mar 15 — Google announced of a few updates that lets everyone contribute to Google Maps. They hope that the community-led additions 'will help make sharing and finding local recommendations and information easier'. 'To make sure your map reflects the real world, we make it easy for anyone with a Google account to contribute their local knowledge about more than 200 million places in Google Maps.
+
+
+***
+![Nokia X20, X10 may be HMD's affordable 5G phones, tipped to launch soon](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/nokia_3.4_b-647x363.jpeg?FR6QqxIpC9AIqH_.piVE6RXypHauIVem "Nokia X20, X10 may be HMD's affordable 5G phones, tipped to launch soon")
+
+
+[Nokia X20, X10 may be HMD's affordable 5G phones, tipped to launch soon](https://www.indiatoday.in/technology/news/story/nokia-x20-x10-5g-hmd-global-new-phones-launch-event-specifications-1779365-2021-03-15)
+
+
+> Representational image of Nokia 3.4.HMD Global may be working on Nokia X20 and Nokia X10 phones.The Nokia X20 and Nokia X10 may be new mid-range phones.HMD Global has already confirmed an event for April 8.Nokia's phone business licensee HMD Global is holding an event on April 8 to launch a new product. Speculation is that this event is going to be focused on the new Nokia phone, the G10 that we have been hearing about for some time. The Nokia G10 is expected to be an entirely new device that will follow HMD's renewed naming system, away from the dot pattern.
+
+
+***
+![The Mac is poised to have its biggest year ever, says Barclays](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/jon-prosser-imac-2021colors.jpg "The Mac is poised to have its biggest year ever, says Barclays")
+
+
+[The Mac is poised to have its biggest year ever, says Barclays](https://www.imore.com/mac-poised-have-its-biggest-year-ever-says-barclays)
+
+
+> Source: Jon Prosser / Front Page Tech Barclays believes Apple may ship a record number of Macs this year. The prediction is contingent on new MacBook Pro and iMac releases. Apple may have a record year on its hands when it comes to the Mac. As reported by MacRumors, a new research note from Barclays says that the firm expects record Mac shipments for fiscal year 2021. In a research note shared with MacRumors today, Barclays analysts said they expect Apple to report record Mac shipments in the 2021 fiscal year.
+
+
+***
+![Best WordPress themes for blogs in 2021](https://cdn.mos.cms.futurecdn.net/SjD29bXoQtK3joTcZUF6nd-1200-80.jpg "Best WordPress themes for blogs in 2021")
+
+
+[Best WordPress themes for blogs in 2021](https://www.techradar.com/news/best-wordpress-themes-for-blogs)
+
+
+> Blogging is one the most popular activities online - it seems that everywhere you go, and every site you visit, there's a blog in there, somewhere. Blogging is a great way to express yourself, and put your thoughts down to share with others, and if you're using the popular website builder and optional web hosting solution that is WordPress, you'll know it has a plethora of themes that cater to this specific activity. We've selected five we feel are definitely worth a look at if you're thinking of venturing into this weird and wonderful world.
+
+
+***
+![User IDs probably shouldn't be passed around as ints](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "User IDs probably shouldn't be passed around as ints")
+
+
+[User IDs probably shouldn't be passed around as ints](https://www.reddit.com/r/programming/comments/m5bm6y/user_ids_probably_shouldnt_be_passed_around_as/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
