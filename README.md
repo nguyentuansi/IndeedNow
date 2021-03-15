@@ -44011,3 +44011,47 @@
 > Important Notice Alpha will be closing on March 31. If you are not a current Alphamember, stay tuned for more news on where you can watch.
 
 
+***
+![Wireless charging on Pixel phones may be broken after March update](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/google-pixel-5-wireless-charger-2.jpg "Wireless charging on Pixel phones may be broken after March update")
+
+
+[Wireless charging on Pixel phones may be broken after March update](https://www.androidcentral.com/google-pixel-wireless-charging-not-working-march-update)
+
+
+> Source: Daniel Bader / Android Central Users are reporting that their Pixel phones are unable to charge wirelessly after receiving the March update. Pixel Stand chargers seem to work after being recently updated, but the problem still affects third-party chargers. There appears to be no fix from Google, and troubleshooting has not seemed to work. Smartphone security updates usually come with several improvements, and Google's Pixel smartphones receive them very regularly. The most recent update started rolling out at the beginning of the month and brought several bug fixes, such as one that addressed the battery indicator getting stuck.
+
+
+***
+![The best laptops for 2021](https://img.dtcn.com/image/digitaltrends/dell-xps-13-2020-01-3-2-3-2-2-2-1200x630-c-ar1.91.jpg "The best laptops for 2021")
+
+
+[The best laptops for 2021](https://www.digitaltrends.com/computing/best-laptops/)
+
+
+> We've tested and reviewed well over 400 laptops over the years, searching for the best of the best. And when it comes to picking the best laptop overall for 2021, there was a clear winner: The Dell XPS 13. With fantastic performance, a display with modern-looking and thin bezels, a well-built keyboard and touchpad, and great battery life, the Dell XPS 13 performs well in terms of every important aspect of a laptop. But if you're looking for the best Chromebook, gaming laptops, or 2-in-1, we've made choices for these as well.
+
+
+***
+![The best HP laptops, monitors and more to buy on sale right now](https://www.gannett-cdn.com/-mm-/925c90cac2950828bbb61819371c14292ee6081b/c=0-0-792-446/local/-/media/2021/02/25/USATODAY/usatsports/Reviewed.com-RvEW-26814-hp1.jpg?width=1600&height=800&fit=crop "The best HP laptops, monitors and more to buy on sale right now")
+
+
+[The best HP laptops, monitors and more to buy on sale right now](https://www.usatoday.com/story/tech/reviewedcom/2021/03/15/hp-laptops-sale-get-computers-monitors-and-more-up-45-off/4704919001/)
+
+
+> It's time for a computer upgrade. (Photo: Reviewed.com / TJ Donegan)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.You don't need us to tell you that purchasing a laptop, desktop, printer or monitor typically means parting with more money than most of us would like. Thankfully, HP is here to make upgrading your tech that much more wallet-friendly. Right now, the electronics retailer is hosting weekly deals with price cuts on must-have tech gadgets as high as 45%.
+
+
+***
+[A List of top five coffee makers of Keurig](https://filmdaily.co/tech/top-coffee-makers-keurig/)
+
+
+> Keurig is the biggest brand of coffee maker. Here's a list of the five best coffee makers to buy online. The post A List of top five coffee makers of Keurig appeared first on Film Daily.
+
+
+***
+[30 current and former Mailchimp staffers detail the conditions that led to a "mass exodus" of women and people of color, including high profile execs, directors (Tyler Sonnemaker/Business Insider ...)](http://www.techmeme.com/210315/p34#a210315p34)
+
+
+> Tyler Sonnemaker / Business Insider Australia: 30 current and former Mailchimp staffers detail the conditions that led to a “mass exodus” of women and people of color, including high profile execs, directors — - Women and people of color have left Mailchimp in droves in recent months. — Those who spoke to Insider …
+
+
