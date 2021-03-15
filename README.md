@@ -43667,3 +43667,50 @@
 > Tech Mahindra Ltd. became the top performer on the Nifty 50 after the software services provider approved a proposal to acquire a majority stake in Perigord Asset Holdings Ltd.Tech Mahindra plans to acquire 70% equity shares in the Ireland-based BPO services company directly and indirectly through its wholly owned subsidiary, Mahindra Engineering Services (Europe) Ltd., according to an exchange filing.Tech Mahindra will acquire the Indian subsidiaries of Perigord — Perigord Data Solutions India Pvt.
 
 
+***
+[Chrome 89 瀏覽器效率提升，節省更多記憶體消耗](https://technews.tw/2021/03/15/advanced-memory-management-and-more-performance-improvements-in-chrome-89/)
+
+
+> Google 詳細介紹本月初釋出 Chrome 89 瀏覽器所帶來的效率提升，其在 Windows、macOS […]
+
+
+***
+![Is India's new draft e-commerce rule against Amazon, Flipkart & others?](https://cdn.mos.cms.futurecdn.net/zmPHGY44XkkCyteYVcYVem-1200-80.jpg "Is India's new draft e-commerce rule against Amazon, Flipkart & others?")
+
+
+[Is India's new draft e-commerce rule against Amazon, Flipkart & others?](https://www.techradar.com/news/is-indias-new-draft-e-commerce-rule-against-amazon-flipkart-and-others)
+
+
+> (Image credit: Pixabay) The small retailers in India are always known to back the BJP, the ruling party in India now. Little wonder that the BJP government is now thinking of new business rules that would make things tougher for e-commerce behemoths like the Amazon, the Walmart-owned Flipkart.  The previous draft was, as it happened, no different. The new draft e-commerce policy, which has been leaked in the media, will require e-commerce firms to treat sellers equally on their platforms and ensure transparency.
+
+
+***
+![[Integration Guide] Salesforce to any REST API](https://external-preview.redd.it/SMvqPEZ1g2X0PWvcFvRg3lCo8-BdXfZ4cRBcbcQMU_8.jpg?auto=webp&s=0bdfa839b3af28c4cf732131696fc87b01288696 "[Integration Guide] Salesforce to any REST API")
+
+
+[[Integration Guide] Salesforce to any REST API](https://www.reddit.com/r/programming/comments/m5fkkp/integration_guide_salesforce_to_any_rest_api/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![9 of the best java testing frameworks for 2021](https://external-preview.redd.it/ry48cOQCIBdu1MGLqf-vAbmGoIBoai59OIJCc21CGt0.jpg?auto=webp&s=d06daffc4a189bd295c426e597d8de67210cef12 "9 of the best java testing frameworks for 2021")
+
+
+[9 of the best java testing frameworks for 2021](https://www.reddit.com/r/programming/comments/m5fjsz/9_of_the_best_java_testing_frameworks_for_2021/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Facebook to label all posts about COVID-19 vaccines](https://imagevars.gulfnews.com/2020/12/01/Facebook_1761d099696_medium.jpg "Facebook to label all posts about COVID-19 vaccines")
+
+
+[Facebook to label all posts about COVID-19 vaccines](https://gulfnews.com/technology/media/facebook-to-label-all-posts-about-covid-19-vaccines-1.1615794671083)
+
+
+> Image Credit: AFP Facebook Inc, which has been criticised by lawmakers and researchers for allowing vaccine misinformation to spread on its platforms, said on Monday it has started adding labels to posts that discuss the safety of the shots and will soon label all posts about the vaccines. The social media company said in a blog post it is also launching a tool in the United States to give people information about where to get COVID-19 vaccines and adding a COVID-19 information area to its photo-sharing site Instagram.
+
+
