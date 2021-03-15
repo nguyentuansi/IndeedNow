@@ -43864,3 +43864,53 @@
 > Source: Rene Ritchie / iMore When Apple launched the iPhone X with Face ID, there was a limitation: only one face could be set up. This means that if you wanted someone else to be able to unlock your device (like a significant other in case of emergency), or if you just look really different with glasses or sunglass, a hat, or even a face mask, then you may run into issues unlocking the best iPhone or iPad with Face ID. Thankfully, Apple added the option to add a secondary, or alternate face to Face ID in iOS 12 and later.
 
 
+***
+![Xiaomi Black Shark 4 Pro  to have AI triple camera, sample photo shared](https://fdn.gsmarena.com/imgroot/news/21/03/black-shark-4-pro-camera-sample/-476x249w4/gsmarena_000.jpg "Xiaomi Black Shark 4 Pro  to have AI triple camera, sample photo shared")
+
+
+[Xiaomi Black Shark 4 Pro  to have AI triple camera, sample photo shared](https://www.gsmarena.com/xiaomi_black_shark_4_pro_camera_sample_teased_will_come_with_triple_camera-news-48214.php)
+
+
+> The upcoming Xiaomi Black Shark 4 Pro will have a triple camera, just like its predecessor. The information comes from a camera sample, shared on Weibo by Black Shark CEO Lou Yuzhou. The image, which you can see below, is of a sunrise and has a watermark of the Black Shark 4 Pro's AI triple camera. Lou Yuzhou goes on to tease that the Black Shark 4 Pro is coming soon. Black Shark 4 Pro camera sample (click for larger image) Thanks to leaks from Google Play console, 3c certification, TENAA and Geekbench, we know that the Black Shark 4 will have a 4,500mAh battery with 120W charging that can go from 0 to 100% in 15 minutes, a 6.
+
+
+***
+![Apple steps up US-wide lobbying at state level ahead of Arizona bill vote](https://photos5.appleinsider.com/gallery/40831-78873-000-lead-App-Store-xl.jpg "Apple steps up US-wide lobbying at state level ahead of Arizona bill vote")
+
+
+[Apple steps up US-wide lobbying at state level ahead of Arizona bill vote](https://appleinsider.com/articles/21/03/15/apple-steps-up-us-wide-lobbying-at-state-level-ahead-of-arizona-bill-vote)
+
+
+> States are debating policies that could force changes to the App Store, and Apple is increasing its lobbying efforts to prevent it.Following Arizona's narrowly passing a bill that would mean changes to Apple's App Store and Google's equivalent, other states are looking to enact similar measures. Broadly, they would stop Apple and Google from enforcing in-app payment systems, and from mandating that app developers pay a 30% or 15% cut.According to the Wall Street Journal, Apple's response has been to increase its lobbying efforts in every state concerned.
+
+
+***
+![10 best PlayStation 4 games: From the ‘Ghost of Tsushima' to ‘The Last Of Us'](https://static.independent.co.uk/2021/02/25/16/indybest%20ps4%20games.jpg?width=1200&auto=webp&quality=75 "10 best PlayStation 4 games: From the ‘Ghost of Tsushima' to ‘The Last Of Us'")
+
+
+[10 best PlayStation 4 games: From the ‘Ghost of Tsushima' to ‘The Last Of Us'](https://www.independent.co.uk/extras/indybest/gadgets-tech/best-ps4-games-playstation-b1807350.html)
+
+
+> ExtrasIndyBestTechSara ElsamMonday 15 March 2021 16:10We looked for a wide range of gameplay that showed the console's technical capabilityThe PlayStation 4 is a machine of real beauty. Released in 2013 to critical acclaim and noted for its glorious technical performance, it's sold over a hundred million units in under a decade. And while its successor, the PlayStation 5, launched last year, the PlayStation 4 still offers a vast and intricate library of excellent games. All of which are of course, compatible with the PlayStation 5.
+
+
+***
+![What's Happening With AMC Stock, CCL Stock And RIOT Stock?](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/cruise-ships-1330422_1920_5.jpg "What's Happening With AMC Stock, CCL Stock And RIOT Stock?")
+
+
+[What's Happening With AMC Stock, CCL Stock And RIOT Stock?](https://www.benzinga.com/news/21/03/20172170/whats-happening-with-amc-stock-ccl-stock-and-riot-stock)
+
+
+> One of the most common questions traders have about stocks is 'Why Is It Moving?' That's why Benzinga created the Why Is It Moving, or WIIM, feature in Benzinga Pro. WIIMs are a one-sentence description as to why that stock is moving. Here's the latest price action and updates for AMC, cruise line stocks and Riot Blockchain. AMC Entertainment Holdings Inc (NYSE: AMC) shares are trading higher after the company announced it plans to open nearly all of its California AMC locations on March 19. Carnival Corp (NYSE: CCL) Royal Caribbean Cruises Ltd (NYSE: RCL) and Norwegian Cruise Line Holdings Ltd (NYSE: NCLH) shares are trading higher amid strength in travel names as more Americans continue to get vaccinated for COVID-19.
+
+
+***
+![JK Moving Services Strengthens Focus on Data Centers](https://mms.businesswire.com/media/20210315005596/en/710651/23/JK_Logo_LockUp_082310.jpg "JK Moving Services Strengthens Focus on Data Centers")
+
+
+[JK Moving Services Strengthens Focus on Data Centers](https://www.businesswire.com/news/home/20210315005596/en/JK-Moving-Services-Strengthens-Focus-on-Data-Centers)
+
+
+> March 15, 2021 12:10 PM Eastern Daylight Time STERLING, Va.--(BUSINESS WIRE)--With an estimated 70% of the world's internet traffic flowing through Northern Virginia's 12 million square feet of commissioned data center space, JK Moving Services recognizes the mission critical need to build best in class experience for data centers and critical environments, including hiring Tucker Gladhill as director of technology services within the Commercial Services division to cultivate this segment. 'Data centers are part of the landscape here in Northern Virginia and beyond.
+
+
