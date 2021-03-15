@@ -43961,3 +43961,53 @@
 > The 2021 Oscars are fast approaching, and the annual celebration of all things movies is set to take place on April 25. The 93rd Academy Awards ceremony is happening later than normal due to the Covid-19 pandemic, which has caused plenty of disruption to film release date schedules over the past year. Despite this knock-on effect, there are still plenty of contenders for the Oscars' top prizes. Who, then, is likely to win in 2021?With the 2021 Oscar nominations now revealed, we know who exactly is in the running for the most prestigious gongs.
 
 
+***
+![Did OnePlus just reveal the 9 Pro early to get ahead of a rumored Apple event?](https://mondrian.mashable.com/2021%252F03%252F15%252F98%252F26994ed5872d48f6bc6c275ef2eec0b8.2cd01.jpg%252F1200x630.jpg?signature=QjH99d_QlJucZ80IRIktgZXJcZ8= "Did OnePlus just reveal the 9 Pro early to get ahead of a rumored Apple event?")
+
+
+[Did OnePlus just reveal the 9 Pro early to get ahead of a rumored Apple event?](https://mashable.com/article/oneplus-9-pro-images-tweet/)
+
+
+> OnePlus jumped the gun on its own March 23 event by a week, and it might have something to do with a rumored Apple event that same day. The Chinese electronics company tweeted out several images of its new OnePlus 9 Pro on Monday, a full week before its actual reveal. Granted, we didn't get much in the way of details about the phone, but you can see it in its "Morning Mist" color in the images below. Showing off several high-quality renders of the OnePlus 9 Pro so far ahead of the event might seem counterintuitive.
+
+
+***
+![Sensata Technologies Holding plc Announces Pricing of $750 Million of Senior Notes by Sensata Technologies B.V.](https://mms.businesswire.com/media/20210315005804/en/816566/23/sen_clr_v_rgb.jpg "Sensata Technologies Holding plc Announces Pricing of $750 Million of Senior Notes by Sensata Technologies B.V.")
+
+
+[Sensata Technologies Holding plc Announces Pricing of $750 Million of Senior Notes by Sensata Technologies B.V.](https://www.businesswire.com/news/home/20210315005804/en/Sensata-Technologies-Holding-plc-Announces-Pricing-of-750-Million-of-Senior-Notes-by-Sensata-Technologies-B.V.)
+
+
+> March 15, 2021 05:20 PM Eastern Daylight Time SWINDON, United Kingdom--(BUSINESS WIRE)--Sensata Technologies Holding plc (NYSE: ST) ('Sensata Technologies') today announced that its indirect wholly owned subsidiary Sensata Technologies B.V. (the 'Issuer') priced $750 million in aggregate principal amount of 4.0% senior notes due 2029 (the 'Notes') in a private offering that is exempt from registration under the Securities Act of 1933, as amended (the 'Securities Act'). The Notes were priced at par.
+
+
+***
+![5 Tips to increase your productivity!](https://external-preview.redd.it/dX-CFnW6RmZ1tDYcK_uubKC0qpyzjXDwjS_vaSnncmM.jpg?auto=webp&s=f91d64ee2434551c8ec0b135d6bf056dd1d36922 "5 Tips to increase your productivity!")
+
+
+[5 Tips to increase your productivity!](https://www.reddit.com/r/programming/comments/m5uy7n/5_tips_to_increase_your_productivity/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Microsoft Teams down: Here's why you can't log on to your video calls right now](https://cdn.mos.cms.futurecdn.net/LowE5V3dgYcMxtosuYBWkS-1200-80.jpg "Microsoft Teams down: Here's why you can't log on to your video calls right now")
+
+
+[Microsoft Teams down: Here's why you can't log on to your video calls right now](https://www.techradar.com/news/microsoft-teams-down-video-conferencing-tool-offline)
+
+
+> (Image credit: Shutterstock / dennizn) UPDATE: As of 5.17pm ET, Microsoft says it is, "currently rolling out a mitigation worldwide. Customers should begin seeing recovery at this time, and we anticipate full remediation within 60 minutes."Top videoconferencing tool Microsoft Teams is down for users across the world. The online collaboration platform started suffering issues around 3:30PM ET, with Microsoft quickly confirming there were issues with the service worldwide.The outage comes as Microsoft appears to be suffering a major outage across a number of its services, with the likes of Xbox Live, Office 365 and Azure also down.
+
+
+***
+![A Christmas Story Archives](https://nerdist.com/wp-content/uploads/2018/08/cropped-apple-touch-icon-152x152_preview-32x32.png "A Christmas Story Archives")
+
+
+[A Christmas Story Archives](https://nerdist.com/tags/a-christmas-story/)
+
+
+> Important Notice Alpha will be closing on March 31. If you are not a current Alphamember, stay tuned for more news on where you can watch.
+
+
