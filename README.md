@@ -43714,3 +43714,53 @@
 > Image Credit: AFP Facebook Inc, which has been criticised by lawmakers and researchers for allowing vaccine misinformation to spread on its platforms, said on Monday it has started adding labels to posts that discuss the safety of the shots and will soon label all posts about the vaccines. The social media company said in a blog post it is also launching a tool in the United States to give people information about where to get COVID-19 vaccines and adding a COVID-19 information area to its photo-sharing site Instagram.
 
 
+***
+![Focus: Money, talent flowing into mRNA sector after COVID-19 success](https://static.reuters.com/resources/r/?m=02&d=20210315&t=2&i=1554920467&r=LYNXMPEH2E0O8&w=800 "Focus: Money, talent flowing into mRNA sector after COVID-19 success")
+
+
+[Focus: Money, talent flowing into mRNA sector after COVID-19 success](https://www.reuters.com/article/us-health-coronavirus-mrna-idUSKBN2B713D)
+
+
+> By Deena Beasley(Reuters) - The success of COVID-19 vaccines based on messenger RNA (mRNA) is smoothing the way for using the novel technology not only in other vaccines, but possibly as treatments for cystic fibrosis, cancer and other hard-to-treat diseases.FILE PHOTO: A scientist conducts research on a vaccine for the novel coronavirus (COVID-19) at the laboratories of RNA medicines company Arcturus Therapeutics in San Diego, California, U.S., March 17, 2020. REUTERS/Bing Guan/File PhotoScientists say mRNA has the potential to target diseases that cannot be reached by conventional drugs.
+
+
+***
+![Here's five reasons to try Peacock's free tier right now](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/peacock_home.jpg "Here's five reasons to try Peacock's free tier right now")
+
+
+[Here's five reasons to try Peacock's free tier right now](https://www.androidcentral.com/5-reasons-try-free-tier-peacock)
+
+
+> Source: Keegan Prosser/Android Central NBC's Peacock streaming service is the only major streaming platform currently offering a free, introductory level to subscribers. While you'll still be required to create an account linked to your email, the free tier of Peacock gives you access to approximately 13,000 hours of ad-supported television and film content. Here are five reasons to try the free tier of Peacock. You can access two-thirds of Peacock's library Source: Android Central The free tier still provides streamers with roughly 13,000 hours of ad-supported programming.
+
+
+***
+![C-Sweet Event: Recruit and Retain Executive Level Talent](https://mms.businesswire.com/media/20210315005173/en/814637/23/C-sweet_logo.jpg "C-Sweet Event: Recruit and Retain Executive Level Talent")
+
+
+[C-Sweet Event: Recruit and Retain Executive Level Talent](https://www.businesswire.com/news/home/20210315005173/en/C-Sweet-Event-Recruit-and-Retain-Executive-Level-Talent)
+
+
+> March 15, 2021 06:00 AM Eastern Daylight Time LOS ANGELES--(BUSINESS WIRE)--C-Sweet, a rapidly growing national organization with a mission to foster executive level relationships for women across sectors in business and industry, announces a new virtual event — C-Sweet Recruit and Retain Executive Level Talent — set for Thursday, March 18, 2021, at 12 p.m. PDT. This event will feature Human Resource executives Erica Hahn, Senior Talent Acquisition Consultant at LexisNexis/Knowable; Joe Kelly, Senior Vice President of Talent, Interpublic Group; and Jennifer Greenwald, Senior Vice President of People at Playboy Enterprises, as they address competitive challenges in recruiting senior management, retaining top employees and more.
+
+
+***
+![#TECH: Young female tech achievers share experience from MDEC programme](https://assets.nst.com.my/images/articles/botsmdecw_NSTfield_image_socialmedia.var_1615802314.jpg "#TECH: Young female tech achievers share experience from MDEC programme")
+
+
+[#TECH: Young female tech achievers share experience from MDEC programme](https://www.nst.com.my/lifestyle/bots/2021/03/674048/tech-young-female-tech-achievers-share-experience-mdec-programme)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Mobile Industry Awards 2021](https://cdn.mos.cms.futurecdn.net/htuEw33bt6bXeZAsdDnvYg-1200-80.jpg "Mobile Industry Awards 2021")
+
+
+[Mobile Industry Awards 2021](https://www.techradar.com/news/mobile-industry-awards-2021-one-week-to-go)
+
+
+> (Image credit: Future) There's only a few days left to get your entries in for this years Mobile Industry Awards!If you want to be in with a chance of joining our elite band of winners, entries for the Mobile Industry Awards 2021 are open now - but act fast, as they are set to close at 6pm on Friday March 18! Running for more than a decade, the MIAs represent the gold standard of excellencein the industry. From the boardroom to the grassroots, the entrants represent the best and brightest the UK mobile industry has to offer.
+
+
