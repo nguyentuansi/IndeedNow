@@ -43476,3 +43476,47 @@
 > The iPhone 13 - or maybe the iPhone 12S - is likely the new iPhone you'll be considering buying later in 2021, and thanks to a variety of leaks and rumors we're gaining an idea of what to expect.It may feel like the iPhone 12 family has just landed, but we've heard a variety of leaks of what to expect from the next flagship phone that we expect to be flanked by the iPhone 13 Pro, iPhone 13 Pro Max and iPhone 13 mini.What's the overall word right now? We've heard from all different types of sources not to expect any humongous upgrades, as rumors point to the company focusing on refining the design, improving the internals, and perhaps even bringing in more powerful cameras that take sharper photos and better night shots.
 
 
+***
+![Python match-case (switch-case?)](https://external-preview.redd.it/_ydXLKts5NCUE3azeLtkARIpnYyA5hImMp280Ft8m_c.jpg?auto=webp&s=6478d6153e8ae382041345c252831f6ecde05d4c "Python match-case (switch-case?)")
+
+
+[Python match-case (switch-case?)](https://www.reddit.com/r/Python/comments/m57xt9/python_matchcase_switchcase/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[PS5 UK stock LIVE – Amazon set to drop console stock on MONDAY – plus latest Playstation news at Currys, Very, GAME](https://www.thesun.ie/tech/6619920/ps5-argos-stock-uk-currys-live-playstation-console-latest/)
+
+
+> AMAZON is shipping and distributing a new batch of PS5 consoles this weekend – with insiders predicting a stock drop as early as MONDAY. On Friday morning, stock tracker PS5UKStock highlighted how the online retailer had started listing the consoles, but without the option to pay – meaning stock is bound to follow. But hours […]
+
+
+***
+![Twitter bug automatically suspends you when tweeting 'Memphis'](https://external-preview.redd.it/f8RGwphk3ryUCPWhtmiA-YYFwu4ICjkiO4TnWc9khOc.jpg?auto=webp&s=9920f0456632da7b066a6d042e1c6a8c9af4eaa8 "Twitter bug automatically suspends you when tweeting 'Memphis'")
+
+
+[Twitter bug automatically suspends you when tweeting 'Memphis'](https://www.reddit.com/r/technology/comments/m57vxy/twitter_bug_automatically_suspends_you_when/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+[I summarised how to handle string IO in Python](https://www.reddit.com/r/Python/comments/m57vez/i_summarised_how_to_handle_string_io_in_python/)
+
+
+> In this article (StringIO in Python), I summarised the important stuff about string IO in Python. Hope it can be helpful! submitted by /u/yangzhou1993 [link] [comments]
+
+
+***
+![Tech hiring surges as firms turn to government's Kickstart Scheme](https://www.cityam.com/wp-content/uploads/2020/12/talktalk-has-extended-the-deadline-for-major-shareholder-toscafund-to-make-a-solid-offer-for-the-telecoms-firm-for-the-second-time-493925828-scaled.jpg "Tech hiring surges as firms turn to government's Kickstart Scheme")
+
+
+[Tech hiring surges as firms turn to government's Kickstart Scheme](https://www.cityam.com/tech-hiring-surges-as-firms-turn-to-governments-kickstart-scheme/)
+
+
+> The resilience of the tech sector has seen hiring return to pre-pandemic levels and now it is turning to the government's kickstart scheme to recruit under-24s. The digital tech sector has seen hiring surge to pre-pandemic levels with 122,446 advertised roles in the IT sector alone.  Firms are making use of the government's Kickstart Scheme which launched last autumn as part of the Chancellor's bid to create more jobs for young people. Data from the Office for National Statistics (ONS) reveals youth unemployment reached 14.
+
+
