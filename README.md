@@ -43914,3 +43914,50 @@
 > March 15, 2021 12:10 PM Eastern Daylight Time STERLING, Va.--(BUSINESS WIRE)--With an estimated 70% of the world's internet traffic flowing through Northern Virginia's 12 million square feet of commissioned data center space, JK Moving Services recognizes the mission critical need to build best in class experience for data centers and critical environments, including hiring Tucker Gladhill as director of technology services within the Commercial Services division to cultivate this segment. 'Data centers are part of the landscape here in Northern Virginia and beyond.
 
 
+***
+![Tinder to let you run background checks on dates](https://www.telegraph.co.uk/content/dam/technology/2021/03/15/TELEMMGLPICT000211873978_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Tinder to let you run background checks on dates")
+
+
+[Tinder to let you run background checks on dates](https://www.telegraph.co.uk/technology/2021/03/15/bitcoin-reaches-62000-potential-india-ban-dampens-rally-live/)
+
+
+> 6:02PM Thanks for reading, we'll see you tomorrow.5:43PM The surge in Bitcoin's price in recent weeks has been put down to a wave of new interest from companies and professional investors, as opposed to the general public who have been behind previous rallies.But interest among institutions may be fading, according to research from JP Morgan. Bloomberg reports that the bank's researchers have shown more retail purchases than institutional ones in the first quarter of the year.Using Square and Paypal data as a proxy, retail investors have purchased over 187,000 Bitcoins so far this quarter, compared to roughly 205,000 last quarter, strategists including Nikolaos Panigirtzoglou wrote in a Friday report.
+
+
+***
+![All you need to know about ads on Paramount Plus](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/paramount_screen.jpg "All you need to know about ads on Paramount Plus")
+
+
+[All you need to know about ads on Paramount Plus](https://www.androidcentral.com/does-paramount-plus-have-commercials)
+
+
+> Source: Keegan Prosser / Android CentralBest answer: Yes, Paramount+'s cheapest subscription costs $5.99 per month and provides access to the entire Paramount+ media library with limited commercials. If you want to skip the ads, you'll need to upgrade to the next payment tier. New and improved streaming: Paramount+ from $5.99/mo. at Paramount+ Source: Android Central The Paramount+ Limited Commercials plan is comparable to the ad-supported plans offered by most other major streaming services and currently costs just $5.
+
+
+***
+[It's getting hot in here: Watch ‘Raya and the Last Dragon' for free now](https://filmdaily.co/tech/raya-and-the-last-dragon/)
+
+
+> 'Raya and the Last Dragon' hit Disney+, but few people want to pay to watch the movie. Save by seeing where else you can watch this fiery film. The post It’s getting hot in here: Watch ‘Raya and the Last Dragon’ for free now appeared first on Film Daily.
+
+
+***
+![Best cheap MacBook deals for March 2021](https://img.dtcn.com/image/digitaltrends/macbook-air-2018-review-5879-1200x630-c-ar1.91.jpg "Best cheap MacBook deals for March 2021")
+
+
+[Best cheap MacBook deals for March 2021](https://www.digitaltrends.com/computing/best-cheap-macbook-deals/)
+
+
+> Many people fondly remember those old beige-colored Mac computers, but today, when you think of MacOS, a MacBook is probably what jumps into your head. MacBooks are likely the single most popular laptop make (even if all the Windows brands combined are still more common overall), but every Apple lover knows that these aren't the cheapest machines on the market. That said, if you're on the hunt for laptop deals and have your heart set on a Mac, keep reading. We've got all the best cheap MacBook deals of the week right here.
+
+
+***
+![Oscars predictions 2021: who will win, from Nomadland to Minari](https://cdn.mos.cms.futurecdn.net/KFuaBefJkXcGm5Sp4kswZD-1200-80.jpg "Oscars predictions 2021: who will win, from Nomadland to Minari")
+
+
+[Oscars predictions 2021: who will win, from Nomadland to Minari](https://www.techradar.com/news/oscars-predictions-2021)
+
+
+> The 2021 Oscars are fast approaching, and the annual celebration of all things movies is set to take place on April 25. The 93rd Academy Awards ceremony is happening later than normal due to the Covid-19 pandemic, which has caused plenty of disruption to film release date schedules over the past year. Despite this knock-on effect, there are still plenty of contenders for the Oscars' top prizes. Who, then, is likely to win in 2021?With the 2021 Oscar nominations now revealed, we know who exactly is in the running for the most prestigious gongs.
+
+
