@@ -43617,3 +43617,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Disney beating Netflix at its own game is a lesson for companies threatened by the tech giants](https://www.telegraph.co.uk/content/dam/tv/2021/03/05/TELEMMGLPICT000252554446_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg?impolicy=logo-overlay "Disney beating Netflix at its own game is a lesson for companies threatened by the tech giants")
+
+
+[Disney beating Netflix at its own game is a lesson for companies threatened by the tech giants](https://www.telegraph.co.uk/technology/2021/03/15/disney-beating-netflix-game-lesson-companies-threatened-tech/)
+
+
+> The comparison is obviously unfair. Netflix was launched in a world of slower internet connections and before app stores, smart TVs and tablets. But regardless, Disney's success is a lesson for any incumbent company on how to manage the looming and constant threat of technological change.In 2019, Disney appeared laughably late to streaming. Netflix had moved from a DVD-by-post company to a streaming one 12 years earlier and Amazon was in a strong second-place. Disney had dipped its toes, holding a stake in US service Hulu and running a limited offering called DisneyLife in the UK.
+
+
+***
+![Tech Mahindra acquires majority stake in Perigord Asset Holdings](https://images.livemint.com/img/2021/03/15/600x338/mahindra1_1611933393993_1611933401557_1615786878555.jpg "Tech Mahindra acquires majority stake in Perigord Asset Holdings")
+
+
+[Tech Mahindra acquires majority stake in Perigord Asset Holdings](https://www.livemint.com/companies/news/tech-mahindra-acquires-majority-stake-in-perigord-asset-holdings-11615786341027.html)
+
+
+> BENGALURU: Tech Mahindra Ltd on Monday said it has acquired 70% stake in Perigord Asset Holdings Ltd, a digital workflow and artwork labelling and BPO services firm. The acquisition will help Tech Mahindra boost expertise in the global pharmaceutical, healthcare and life science (HLS) sectors. The strategic partnership is expected to strengthen Tech Mahindra's position as a leading digital transformation enabler in the artwork and packaging services space with an integrated platform and services portfolio.
+
+
+***
+![Alleged Xiaomi Mi 11 Lite pops up at TENAA ahead of launch](https://images.indianexpress.com/2021/01/Xiaomi-Mi-11.jpg "Alleged Xiaomi Mi 11 Lite pops up at TENAA ahead of launch")
+
+
+[Alleged Xiaomi Mi 11 Lite pops up at TENAA ahead of launch](https://indianexpress.com/article/technology/mobile-tabs/mi-11-lite-thin-dimensions-specifications-leaks-india-launch-price-7228713/)
+
+
+> Xiaomi is gearing up to launch a new smartphone, and it's going to be a lite version of the company's flagship phone Mi 11. Ahead of the smartphone's alleged launch, the Mi 11 Lite has been spotted on the TENAA certification website, as spotted by MyFixGuide. The listing has associated the device with model number M2101K9C. The listing reveals that Mi 11 Lite will sport a 6.55-inch display which is smaller than the flagship phone launched last year. It will have a 4,150 mAh battery which is again smaller than the Mi 11.
+
+
+***
+![Air 3 still in stock for warranty exchanges? They did fix the white spot at some point?](https://images.macrumors.com/social/?t=2288329&v=6 "Air 3 still in stock for warranty exchanges? They did fix the white spot at some point?")
+
+
+[Air 3 still in stock for warranty exchanges? They did fix the white spot at some point?](https://forums.macrumors.com/threads/air-3-still-in-stock-for-warranty-exchanges-they-did-fix-the-white-spot-at-some-point.2288329/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Just enter in an air 3 with applecare due to the bright spot issue. I have 2 questions: - They didn't had an air 3 to swap it, they ordered back and told me in 3-4 days I should have news... there is any possibility apple won't have it and sent me something else or propose I pay a difference for an upgrade? -what happens with the warranty of the new one? I will have only what was left from the original? And how probable is to get the same issue on the new one? They ever fix it? Thanks! You must log in or register to reply here.
+
+
+***
+![Tech Mahindra To Acquire Majority Stake In Perigord; Stock Jumps](https://gumlet.assettype.com/bloombergquint%2F2019-11%2Fed74889f-b6d7-48ff-9a87-35c34267e74d%2FINDIA_HYDERABAD_28.jpg?rect=0%2C567%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true "Tech Mahindra To Acquire Majority Stake In Perigord; Stock Jumps")
+
+
+[Tech Mahindra To Acquire Majority Stake In Perigord; Stock Jumps](https://www.bloombergquint.com/markets/tech-mahindra-to-acquire-majority-stake-in-perigord-stock-jumps)
+
+
+> Tech Mahindra Ltd. became the top performer on the Nifty 50 after the software services provider approved a proposal to acquire a majority stake in Perigord Asset Holdings Ltd.Tech Mahindra plans to acquire 70% equity shares in the Ireland-based BPO services company directly and indirectly through its wholly owned subsidiary, Mahindra Engineering Services (Europe) Ltd., according to an exchange filing.Tech Mahindra will acquire the Indian subsidiaries of Perigord — Perigord Data Solutions India Pvt.
+
+
