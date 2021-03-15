@@ -43764,3 +43764,53 @@
 > (Image credit: Future) There's only a few days left to get your entries in for this years Mobile Industry Awards!If you want to be in with a chance of joining our elite band of winners, entries for the Mobile Industry Awards 2021 are open now - but act fast, as they are set to close at 6pm on Friday March 18! Running for more than a decade, the MIAs represent the gold standard of excellencein the industry. From the boardroom to the grassroots, the entrants represent the best and brightest the UK mobile industry has to offer.
 
 
+***
+![It's time to address the millennial in your boardroom](https://cdn.mos.cms.futurecdn.net/eDLg8GdiqAtNfRiafRRUYA-1200-80.jpg "It's time to address the millennial in your boardroom")
+
+
+[It's time to address the millennial in your boardroom](https://www.techradar.com/news/its-time-to-address-the-millennial-in-your-boardroom)
+
+
+> Technology has become our lifeline in the past year – in all aspects of life. In business, as strategic plans shifted to support business survival, new technologies have been integral. But as with everything in business, its people at the helm. That's why employees across every department, business, and industry are feeling under pressure.While the stress and burnout of the last year will be felt to some degree by all workers, one might expect senior leaders to be able to weather the storm with ease, or millennial employees to cope better with the demands of remote working.
+
+
+***
+![Apple VR headset controller might be a pair of 'thimble' rings](https://cdn.mos.cms.futurecdn.net/Sq9ifrJZ5wuFAaLXpAwj5L-1200-80.jpg "Apple VR headset controller might be a pair of 'thimble' rings")
+
+
+[Apple VR headset controller might be a pair of 'thimble' rings](https://www.techradar.com/news/apple-vr-headset-controller-might-be-a-pair-of-thimble-rings)
+
+
+> (Image credit: Andrush/Shutterstock) From leaks and patent filings, we're starting to get an idea of what the Apple VR headset is likely to look like. And now, thanks to another patent filing, we may be getting a picture of what it will be like to control, too.Patently Apple has spotted a filing describing a potential controller for Apple's VR, mixed reality and augmented reality hardware ambitions.The "Self-Mixing Interferometry-Based Gesture Input System Including a Wearable or Handheld Device" patent describes a thimble-like device consisting of two rings worn on thumb and index finger.
+
+
+***
+![DeepSee.ai raises $22.6M Series A for its AI-centric process automation platform – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1297327343.jpg?w=600 "DeepSee.ai raises $22.6M Series A for its AI-centric process automation platform – TechCrunch")
+
+
+[DeepSee.ai raises $22.6M Series A for its AI-centric process automation platform – TechCrunch](https://techcrunch.com/2021/03/15/deepsee-ai-raises-22-6m-series-a-for-its-ai-centric-process-automation-platform/)
+
+
+> DeepSee.ai, a startup that helps enterprises use AI to automate line-of-business problems, today announced that it has raised a $22.6 million Series A funding round led by led by ForgePoint Capital. Previous investors AllegisCyber Capital and Signal Peak Ventures also participated in this round, which brings the Salt Lake City-based company's total funding to date to $30.7 million. The company argues that it offers enterprises a different take on process automation. The industry buzzword these days is ‘robotic process automation,' but DeepSee.
+
+
+***
+![Stripe raises $600M, company valued at $95B](https://www.clickorlando.com/resizer/ugvP2BC1L0iARO2NY3QIhBcFEhE=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/KYJW6SI7CZEL7D7ETMTE724BXQ.jpg "Stripe raises $600M, company valued at $95B")
+
+
+[Stripe raises $600M, company valued at $95B](https://www.clickorlando.com/tech/2021/03/15/stripe-raises-600m-company-valued-at-95b/)
+
+
+> The online payment company Stripe continues to attract investors, raising $600 million in funding to reach a whopping company valuation of $95 billion. Stripe is by far the most valuable private fintech company in the world. Robinhood, the trading platform recently making headlines, just raised $3 billion to reach a valuation of around $11.2 billion. The company which makes software that allows companies to accept online or in person card payments said it will use the capital in the latest round of funding to invest in its European operations, particularly its Dublin headquarters.
+
+
+***
+![Stripe raises $600M, company valued at $95B](https://www.local10.com/resizer/ugvP2BC1L0iARO2NY3QIhBcFEhE=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/KYJW6SI7CZEL7D7ETMTE724BXQ.jpg "Stripe raises $600M, company valued at $95B")
+
+
+[Stripe raises $600M, company valued at $95B](https://www.local10.com/tech/2021/03/15/stripe-raises-600m-company-valued-at-95b/)
+
+
+> The online payment company Stripe continues to attract investors, raising $600 million in funding to reach a whopping company valuation of $95 billion. Stripe is by far the most valuable private fintech company in the world. Robinhood, the trading platform recently making headlines, just raised $3 billion to reach a valuation of around $11.2 billion. The company which makes software that allows companies to accept online or in person card payments said it will use the capital in the latest round of funding to invest in its European operations, particularly its Dublin headquarters.
+
+
