@@ -44249,3 +44249,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Digital payments firm SumUp borrows 750 mln euros to fund growth](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "Digital payments firm SumUp borrows 750 mln euros to fund growth")
+
+
+[Digital payments firm SumUp borrows 750 mln euros to fund growth](https://www.reuters.com/article/tech-sumup-idUSL8N2LD4EZ)
+
+
+> By Reuters StaffBERLIN, March 16 (Reuters) - Digital payments provider SumUp said on Tuesday it had borrowed 750 million euros ($894 million) from backers led by Goldman Sachs to invest in acquisitions and new products as it continues its global expansion.Also backing the debt round by the provider of mobile point-of-sale terminals for small businesses like cafes and car repair shops were Singapore's Temasek Holdings, Bain Capital Credit, Crestline and funds run by Oaktree Capital Management.'We are interested in everything relating to small merchants,' said Marc-Alexander Christ, SumUp's co-founder, adding that the choice of debt financing meant that existing shareholders would not have their stakes diluted.
+
+
+***
+![Black Shark 4 smartphone to launch in China on March 23](https://cdn.mos.cms.futurecdn.net/y2oesdZAJVNR9CTJqqk2Wk-1200-80.jpg "Black Shark 4 smartphone to launch in China on March 23")
+
+
+[Black Shark 4 smartphone to launch in China on March 23](https://www.techradar.com/in/news/black-shark-4-smartphone-to-launch-in-china-on-march-23)
+
+
+> (Image credit: Weibo) It seems like we have a date for the launch of the Black Shark 4 gaming smartphone. According to a launch teaser image, the gaming smartphone will be launching in China on March 23 at an event slated for 3 p.m.This teaser image was posted on Weibo by Black Shark, but it shares no other detail or even a look of the smartphone. Besides this, another leak suggests that the Black Shark Pro variant may feature a 108MP camera.Black Shark 4: What to expect?The Black Shark 4 gaming smartphone is set to take on the likes of Nubia Red Magic 6 and Asus ROG Phone 5.
+
+
+***
+![Croma launches range of Croma Fire TV Edition Smart LED TVs, Prices start at Rs 17,999](https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/03/35304/Croma-FTVE_425_735.jpg "Croma launches range of Croma Fire TV Edition Smart LED TVs, Prices start at Rs 17,999")
+
+
+[Croma launches range of Croma Fire TV Edition Smart LED TVs, Prices start at Rs 17,999](https://www.themobileindian.com/news/croma-launches-range-of-croma-fire-tv-edition-smart-led-tvs-prices-start-at-rs-17999-35304)
+
+
+> Croma Fire TV Edition Smart LED TVs are available in sizes ranging from 32 inch to 55 inch in HD and 4K option.
+
+
+***
+![SumUp, which helps businesses take card payments, raises $895M to double down on growth – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-917777936.jpg "SumUp, which helps businesses take card payments, raises $895M to double down on growth – TechCrunch")
+
+
+[SumUp, which helps businesses take card payments, raises $895M to double down on growth – TechCrunch](https://techcrunch.com/2021/03/16/sumup-which-helps-businesses-take-card-payments-raises-895m-to-double-down-on-growth/)
+
+
+> SumUp, a London-based startup that helps businesses power revenues through card payments — by way of physical readers, online payments and invoices — is itself powering up in a big way. Today it announced funding of €750 million (around $895 million at today's rates), money that it will be using to continue expanding its business — specifically, for acquisitions; to launch in new markets in Europe, Latin America and Asia; and to build out the suite of services that it provides to businesses. The company is already active in 33 countries (most recently Chile, Colombia, and Romania) and has some 3 million businesses as customers.
+
+
+***
+![What Is RSS And How To Integrate It With Other Applications?](https://www.androidheadlines.com/wp-content/uploads/2021/03/RSS-feed.jpg "What Is RSS And How To Integrate It With Other Applications?")
+
+
+[What Is RSS And How To Integrate It With Other Applications?](https://www.androidheadlines.com/2021/03/what-is-rss-integrate-with-other-applications.html)
+
+
+> RSS is the single most important tool to adopt in your day to day. If you're on the Internet, RSS brings order to your online reading and really helps you stay on top of news. All thanks to excellent automation and powerful features, which transform RSS feed readers into bona fide productivity tools in their own right.Learn how to integrate them with other applications and you're looking at a perfectly streamlined workflow.I don't want to assume you know the ins and outs of RSS, so we're going to cover the basics.
+
+
