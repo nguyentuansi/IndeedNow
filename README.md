@@ -44393,3 +44393,40 @@
 > Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers, currently focuses on e-commerce, retail and financial services, but it notes that it will use the new funding to power its product development and expand into new industries. The company's platform offers a collection of what are essentially pre-built AI building blocks that enterprises can then connect to third-party tools like their data warehouse, Salesforce, Stripe and other data sources.
 
 
+***
+![Better Perl: Using map and grep](https://external-preview.redd.it/EUl5Vo0ACVODQFoxl6-YojOUf5aR3393s43sLvhtAeI.jpg?auto=webp&s=25f50c19bd15b256a9803eb7a124ee1be5f3d610 "Better Perl: Using map and grep")
+
+
+[Better Perl: Using map and grep](https://www.reddit.com/r/programming/comments/m69xkr/better_perl_using_map_and_grep/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Insight Tech Journal Explores the Business Transition to Anywhere Operations in 2021](http://www.businesswire.com/images/bwlogo_square.png "Insight Tech Journal Explores the Business Transition to Anywhere Operations in 2021")
+
+
+[Insight Tech Journal Explores the Business Transition to Anywhere Operations in 2021](https://www.businesswire.com/news/home/20210316005724/en/Insight-Tech-Journal-Explores-the-Business-Transition-to-Anywhere-Operations-in-2021)
+
+
+> March 16, 2021 10:11 AM Eastern Daylight Time TEMPE, Ariz.--(BUSINESS WIRE)--Now a year into the true test of business resiliency caused by the mass shift to remote work, businesses across all industries are striving to create a sustainable model that solidifies ad-hoc IT fixes into long-term strategies promoting digital readiness, virtual collaboration and greater agility for decentralized, 'anywhere operations.' In the spring issue of its quarterly digital magazine, Tech Journal, Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, reflects on lessons learned from a year of pivots.
+
+
+***
+[#Technically Speaking: Another Way To Look At Long-Term Bubble Cycles](https://www.investmentwatchblog.com/technically-speaking-another-way-to-look-at-long-term-bubble-cycles/)
+
+
+> by Lance Roberts Yes. We are in a stock market bubble. But what if conventional methods of examining market cycles miss a crucial point? While we often talk about parts of cycles (bull
+
+
+***
+![TouchMate Eyes $7.6 Billion Customer Experience Management Market](https://mms.businesswire.com/media/20210316005645/en/1052836/23/Main_Logo.jpg "TouchMate Eyes $7.6 Billion Customer Experience Management Market")
+
+
+[TouchMate Eyes $7.6 Billion Customer Experience Management Market](https://www.businesswire.com/news/home/20210316005645/en/TouchMate-Eyes-7.6-Billion-Customer-Experience-Management-Market)
+
+
+> March 16, 2021 10:10 AM Eastern Daylight Time AUSTIN, Texas--(BUSINESS WIRE)--TouchMate today announced a new partnership with ViewPoint to manufacture and distribute feedback kiosks in the United States, targeting the US Customer Experience (CX) management industry. The US CX management market is forecast to grow by 17.7% CAGR over the next six years, reaching a market value of $23.6 billion by 2027. Real-time feedback, the gold standard for tracking in-the-moment responses from customers and employees, is one of the driving factors of this growth.
+
+
