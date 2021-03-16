@@ -44430,3 +44430,50 @@
 > March 16, 2021 10:10 AM Eastern Daylight Time AUSTIN, Texas--(BUSINESS WIRE)--TouchMate today announced a new partnership with ViewPoint to manufacture and distribute feedback kiosks in the United States, targeting the US Customer Experience (CX) management industry. The US CX management market is forecast to grow by 17.7% CAGR over the next six years, reaching a market value of $23.6 billion by 2027. Real-time feedback, the gold standard for tracking in-the-moment responses from customers and employees, is one of the driving factors of this growth.
 
 
+***
+![Google reduces Play Store fee by 15 per cent for Indian developers making less than $1 million per year](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/google-play-store-pixabay-647x363.jpeg?fItRnwgUOz_exEer1K39TOO3YnFWfdtB "Google reduces Play Store fee by 15 per cent for Indian developers making less than $1 million per year")
+
+
+[Google reduces Play Store fee by 15 per cent for Indian developers making less than $1 million per year](https://www.indiatoday.in/technology/news/story/google-reduces-play-store-fee-by-15-per-cent-for-indian-developers-making-less-than-1-million-per-year-1780088-2021-03-16)
+
+
+> Google on Tuesday announced that it would cut Play Store fees to 15 per cent for the first $1 million per year earned by developers. The cut applies to developers across countries, including India. Google's latest move to cut Play Store fees follows Apple's announcement last year where the Cupertino-based giant said it would cut App Store commissions by half to 15% for developers that make less than $1 million in annual net sales.Sameer Samat, Vice President, Android and Google Play, in a blog post announcing the cut, said, "Starting on July 1, 2021, we are reducing the service fee Google Play receives to 15% for the first $1M (USD) of revenue every developer earns each year.
+
+
+***
+[Hackers can get access to your SMSes for just Rs 1,160](https://www.freepressjournal.in/technology/hackers-can-get-access-to-your-smses-for-just-rs-1160)
+
+
+> No body in the article.
+
+
+***
+![Tail Call Optimization: The Musical](https://external-preview.redd.it/PCMCzhGEbAKTvRFgY43t7vCvPzSBPnV1zWoQZM_DEPU.jpg?auto=webp&s=f7ff464a903cc05934b85daf5f89ae59f614b745 "Tail Call Optimization: The Musical")
+
+
+[Tail Call Optimization: The Musical](https://www.reddit.com/r/programming/comments/m6cl80/tail_call_optimization_the_musical/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Tuesday's best deals on iPads see prices drop to $299](https://photos5.appleinsider.com/gallery/40858-78940-ipad-8th-gen-299-amazon-xl.jpg "Tuesday's best deals on iPads see prices drop to $299")
+
+
+[Tuesday's best deals on iPads see prices drop to $299](https://appleinsider.com/articles/21/03/16/tuesdays-best-deals-on-ipads-see-prices-drop-to-299)
+
+
+> Tuesday's best deals on iPads see prices drop to $299 2 minutes ago Apple researching modular light switches to expand HomeKit 1 hour ago Arizona voters overwhelmingly support App Fairness bill 1 hour ago French regulator starts privacy probe into Apple ad tools 1 hour ago Future Apple touchscreens may compensate for damp fingers 3 hours ago
+
+
+***
+![Google following Apple, cutting Google Play commission fee to 15%](https://photos5.appleinsider.com/gallery/40857-78941-google-play-store-header-xl.jpg "Google following Apple, cutting Google Play commission fee to 15%")
+
+
+[Google following Apple, cutting Google Play commission fee to 15%](https://appleinsider.com/articles/21/03/16/google-following-apple-cutting-google-play-commission-fee-to-15)
+
+
+> Google is following Apple's lead in cutting app store commission by introducing a 15% commission fee schedule for Google Play transactions that is similar to the App Store Small Business Program. The standard 30% commission paid for purchases in the Google Play Store will be reduced down to 15%, Google announced on Tuesday. The change, which will commence on July 1, will apply to the first $1 million in revenue generated using the Play store's payment mechanism each year. After the developer passes the $1 million in revenue milestone for the year, the fee will return to its usual 30% level, TechCrunch reports.
+
+
