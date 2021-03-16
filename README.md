@@ -44105,3 +44105,50 @@
 > PlayStation 5's hidden web browser works with a USB mouse – well, if you access it from within free-to-play title War Thunder, anyway. As many of you will know, while it's gated off, Sony's next-gen console does have a web browser – send a hyperlink in a Messages thread, for example, and you'll be able to click it. You can even position web pages next to your games, allowing you to watch YouTube videos while you play. And now, as alluded to above, one Reddit user has discovered USB mouse support within the browser.
 
 
+***
+![JavaScript: Object plus Array is not Zero](https://external-preview.redd.it/L1Jv9z_CdhuUDsnK0YlcfZ3yQNyNxOm4SL5n3wDXrgk.jpg?auto=webp&s=a1274a9370328f3ff25e737eb4cf08c6bf5fbdd5 "JavaScript: Object plus Array is not Zero")
+
+
+[JavaScript: Object plus Array is not Zero](https://www.reddit.com/r/programming/comments/m5yj3p/javascript_object_plus_array_is_not_zero/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[environmental impact](https://www.itwire.com/freelancer-sp-720/tag/environmental%20impact.html)
+
+
+> Some technologies, like laser printers, can have high energy and environmental costs, but new 'ground-breaking research' shows that the latest tech can significantly reduce those costs - while delivering other genuinely useful tech improvements.
+
+
+***
+![Check out my 15-part video series and course that uses Python Data Science, Web Scraping, and Natural Language Processing to detect corrupt news bias in New York Times Articles!](https://external-preview.redd.it/L7PM9XEuYu3GVOlbmsfigp5Z6lRdkzydVnnodmX6RJ8.jpg?auto=webp&s=8bbc8eaf182067056381bfc98740984a522ac2ca "Check out my 15-part video series and course that uses Python Data Science, Web Scraping, and Natural Language Processing to detect corrupt news bias in New York Times Articles!")
+
+
+[Check out my 15-part video series and course that uses Python Data Science, Web Scraping, and Natural Language Processing to detect corrupt news bias in New York Times Articles!](https://www.reddit.com/r/Python/comments/m5ydez/check_out_my_15part_video_series_and_course_that/)
+
+
+> Check it out here: https://youtube.com/playlist?list=PLvICEeb-TZEFujzRmU8hzXh3lR8Z6gMIW I spent a lot of time on this project and put in excessive amounts of work to make each and every video perfect for a beginner to understand. If you are getting into web scraping or NLP and want to learn more, or if you want to learn a little bit more Python, this course is perfect for you! I really hope this resource helps you guys out, please let me know if you have any feedback or advice!
+
+
+***
+![Redmi Note 10 to Go on First Sale Today at Noon via Amazon, Mi.com](https://i.gadgets360cdn.com/large/redmi_note_10_rear_ndtv_1615796631014.jpg "Redmi Note 10 to Go on First Sale Today at Noon via Amazon, Mi.com")
+
+
+[Redmi Note 10 to Go on First Sale Today at Noon via Amazon, Mi.com](https://gadgets.ndtv.com/mobiles/news/redmi-note-10-first-sale-price-in-india-rs-11999-13999-offers-march-16-specifications-2391334)
+
+
+> Redmi Note 10 will go on sale for the first time in India today, March 16, via both online and offline retailers. The phone was launched alongside the Redmi Note 10 Pro and Redmi Note 10 Pro Max earlier this month as a budget friendly offering with impressive specifications. The phone is powered by an octa-core SoC and comes with a quad rear camera setup. The Redmi Note 10 also has a large 5,000mAh battery, fast charging support, and is offered in two configurations.Redmi Note 10 price, sale detailsThe Redmi Note 10 is priced at Rs.
+
+
+***
+![Microsoft outage affects Teams, Azure and Xbox Live](https://external-preview.redd.it/g5bJsc7TTJ5fkMttyMv6fje8ZMFwtX0XUoU9GPWoJqY.jpg?auto=webp&s=1e78ef8a350a33251f94d413f591866cb65bda28 "Microsoft outage affects Teams, Azure and Xbox Live")
+
+
+[Microsoft outage affects Teams, Azure and Xbox Live](https://www.reddit.com/r/technology/comments/m5yb3u/microsoft_outage_affects_teams_azure_and_xbox_live/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
