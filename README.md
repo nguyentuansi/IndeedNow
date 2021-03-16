@@ -44527,3 +44527,53 @@
 > Source: Variety Apple and the Redford Center have partnered together for the second annual Redford Center Stories Challenge, a youth filmmaking challenge that aims to put a spotlight on environmental justice. As reported by Variety, students will use Apple's Clips app to create stories that will be shared on a platform created by the company. The 2021 Redford Center Stories Challenge will promote social and environmental justice themes to empower middle-school-aged youth and create a learning community of transformational storytelling.
 
 
+***
+![Mini Review: Hunting Simulator 2 (PS5) – An Unexpectedly Tranquil Excursion](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Mini Review: Hunting Simulator 2 (PS5) – An Unexpectedly Tranquil Excursion")
+
+
+[Mini Review: Hunting Simulator 2 (PS5) – An Unexpectedly Tranquil Excursion](https://en.brinkwire.com/technology/mini-review-hunting-simulator-2-ps5-an-unexpectedly-tranquil-excursion/)
+
+
+> While the title may suggest violence and shooting, Hunting Simulator 2 is a surprisingly meditative game. Sure, on the most basic level, it's a shooter – but you'll pull the trigger so rarely that it barely qualifies, despite the large number of weapons and gear at your disposal. Ultimately, it serves a better role as an educational walking simulator. The game dedicates its time to making sure you hunt properly, requiring all the paperwork and faff that goes with prepping for a hunt. You have to keep track of how many of a given animal you've hunted, use the correct calibre, take a specific number of shots, and more.
+
+
+***
+![2022 Audi e-tron GT first drive review: This slot car needs no track](https://img.dtcn.com/image/digitaltrends/audi-e-tron-gt-front-1200x630-c-ar1.91.jpg "2022 Audi e-tron GT first drive review: This slot car needs no track")
+
+
+[2022 Audi e-tron GT first drive review: This slot car needs no track](https://www.digitaltrends.com/cars/audi-e-tron-gt-first-drive-review/)
+
+
+> Audi's e-tron nameplate started life as a shrunken, R8-bodied concept that broke cover at the 2009 Frankfurt Motor Show. The all-electric supercar touted impressive tech for the time, including four electric motors, a 42-kWh battery, 156-mile range, and regenerative braking. But it was a full decade from the e-tron's conceptual debut to Audi's 2019 e-tron, its first series-production all-electric. In that time, pure EVs moved from novelty to mainstream, and Audi was no longer an alternative energy trendsetter.
+
+
+***
+![COVID crisis: Vaccine conspiracy theories, hoaxes in Spanish targeting Hispanic community breed fear, hesitancy](https://www.gannett-cdn.com/presto/2021/03/16/USAT/66a2fc13-f703-4888-a27b-05e444e46d07-AFP_AFP_9368HH.jpg?crop=4730,2661,x0,y194&width=3200&height=1680&fit=bounds "COVID crisis: Vaccine conspiracy theories, hoaxes in Spanish targeting Hispanic community breed fear, hesitancy")
+
+
+[COVID crisis: Vaccine conspiracy theories, hoaxes in Spanish targeting Hispanic community breed fear, hesitancy](https://www.usatoday.com/story/tech/2021/03/16/facebook-whatsapp-covid-vaccine-misinformation-spanish-hispanic-hesitancy/4711556001/)
+
+
+> CLOSE The CDC says people who are fully vaccinated may get together with other fully vaccinated individuals in small groups without masks. USA TODAYIlan Shapiro, a physician working in COVID-ravaged areas of Los Angeles and Orange County, where Latinos face high rates of infection, hospitalization and death, says he waited 13 months for life-saving vaccines only to be thwarted by Spanish-language viral misinformation spreading on social media.Knocking down false rumors, conspiracy theories and misleading news reports that play on vaccine fears has become a routine and necessary part of treating patients.
+
+
+***
+![25 relaxing self-care gifts that everyone could use this year](https://www.gannett-cdn.com/presto/2021/03/16/USAT/f30acc1a-047e-49e7-b7c0-5bc9c0532332-self-care.png?crop=1593,897,x6,y0&width=1600&height=800&fit=bounds "25 relaxing self-care gifts that everyone could use this year")
+
+
+[25 relaxing self-care gifts that everyone could use this year](https://www.usatoday.com/story/tech/reviewedcom/2020/11/25/25-relaxing-self-care-gifts-everyone-could-use-year/6424181002/)
+
+
+> Give the special people in your life a little extra TLC. (Photo: Getty images / ClairdeLume)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.If you're anything like us, 2020 didn't feel like a full year... it felt like five. It's been over a full year since COVID restrictions went into place, meaning many of us have been sheltering at home and spending more time talking to our pets than usual (please say it's not just me?).
+
+
+***
+![Fortnite Season 6 event LIVE – Chapter 2 update launches with new maps, patch notes, weapons and wildlife](https://www.the-sun.com/wp-content/uploads/sites/6/2021/03/1-46.png?strip=all&quality=100&w=1200&h=800&crop=1 "Fortnite Season 6 event LIVE – Chapter 2 update launches with new maps, patch notes, weapons and wildlife")
+
+
+[Fortnite Season 6 event LIVE – Chapter 2 update launches with new maps, patch notes, weapons and wildlife](https://www.the-sun.com/lifestyle/tech/2521187/fortnite-season-6-live-chapter-2-new-map-latest/)
+
+
+> FORT-FULL Mar 16 2021, 15:43 ETUpdated: Mar 16 2021, 15:43 ETFORTNITE Chapter 2 Season 6 went live today in a major new update to the huge gaming series. New patch notes, maps, weapons and wildlife all feature in the update which Fortnite fans are going to love exploring over the coming weeks and months. But first things first - you'll need to download and install the Fortnite update to enjoy the new goodies on offer. Describing the update, Epic Games said: "When you first launch into the new season, you'll play through the conclusion of Agent Jones' mission in the Zero Crisis Finale.
+
+
