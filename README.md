@@ -44577,3 +44577,50 @@
 > FORT-FULL Mar 16 2021, 15:43 ETUpdated: Mar 16 2021, 15:43 ETFORTNITE Chapter 2 Season 6 went live today in a major new update to the huge gaming series. New patch notes, maps, weapons and wildlife all feature in the update which Fortnite fans are going to love exploring over the coming weeks and months. But first things first - you'll need to download and install the Fortnite update to enjoy the new goodies on offer. Describing the update, Epic Games said: "When you first launch into the new season, you'll play through the conclusion of Agent Jones' mission in the Zero Crisis Finale.
 
 
+***
+![Mom, Daughter Accused of Hacking Accounts to Cast Homecoming Votes](https://media.breitbart.com/media/2021/03/mugshot-ht-ml-210316_1615901748382_hpMain_16x9_992-640x335.png "Mom, Daughter Accused of Hacking Accounts to Cast Homecoming Votes")
+
+
+[Mom, Daughter Accused of Hacking Accounts to Cast Homecoming Votes](https://www.breitbart.com/crime/2021/03/16/mom-daughter-accused-hacking-student-accounts-cast-homecoming-votes/)
+
+
+> Florida law enforcement officers say an assistant principal and her daughter face charges for allegedly hacking student accounts to vote for the teen to be crowned homecoming queen. 'Florida Department of Law Enforcement announced they arrested 50-year-old Laura Rose Carroll and her daughter. Both live in Pensacola. Investigators said they cast 246 votes in Tate High School's homecoming court election,' Fox 13 reported Tuesday. The teenager was named homecoming queen in October and in November, FDLE began investigating once the school district reported the unauthorized access into its student's accounts.
+
+
+***
+![How Shazam Works (Probably!)](https://external-preview.redd.it/0NNxZXYSU7M2dfUurJDGjLnYjOX-ONgAIIrm1gTqm0o.jpg?auto=webp&s=dda257f48cf970ca70bc69252e6633d6fc9c4c0f "How Shazam Works (Probably!)")
+
+
+[How Shazam Works (Probably!)](https://www.reddit.com/r/programming/comments/m6klr5/how_shazam_works_probably_computerphile/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Tech tactics: How Artificial Intelligence is aiding the fight against Covid-19](https://images.financialexpress.com/2021/03/z6-6.jpg "Tech tactics: How Artificial Intelligence is aiding the fight against Covid-19")
+
+
+[Tech tactics: How Artificial Intelligence is aiding the fight against Covid-19](https://www.financialexpress.com/industry/technology/tech-tactics-how-artificial-intelligence-is-aiding-the-fight-against-covid-19/2214094/)
+
+
+> The scientists say their findings could help to target the surveillance for new diseases – possibly helping prevent the next pandemic before its starts.Clinicians, academicians and government entities around the world have leaned on new-age technologies such as artificial intelligence (AI), machine learning (ML) and data science, to track and fight the coronavirus pandemic. While AI has greatly facilitated exchanges of views and information between the scientific community, we take a look at two interesting research breakthroughs that have deployed this niche technology to fight the virus.
+
+
+***
+[Florida teen sentenced in hack of celebrity Twitter accounts](https://www.mymotherlode.com/news/technology/1601357/florida-teen-sentenced-in-hack-of-celebrity-twitter-accounts.html)
+
+
+> By AP News Published Mar 16, 2021 02:56 pm TAMPA, Fla. (AP) — A Florida teenager was sentenced Tuesday to three years in prison for his role in hacking the Twitter accounts of prominent politicians, celebrities and technology moguls and scamming people around the globe out of more than $100,000 in Bitcoin. Graham Ivan Clark, 18, pleaded guilty to multiple fraud charges as part of a deal with Hillsborough County prosecutors, the Tampa Bay Times reported. Clark was the mastermind behind the scheme to take over prominent Twitter accounts and send tweets seeking Bitcoin payments, prosecutors said.
+
+
+***
+![Riot Games Investigation Finds No Evidence of Misconduct By CEO Nicolo Laurent](https://static.hollywoodreporter.com/sites/default/files/2019/05/riot_games_hq-1024x577.jpg "Riot Games Investigation Finds No Evidence of Misconduct By CEO Nicolo Laurent")
+
+
+[Riot Games Investigation Finds No Evidence of Misconduct By CEO Nicolo Laurent](https://www.hollywoodreporter.com/news/riot-games-investigation-finds-no-evidence-of-misconduct-by-ceo-nicolo-laurent)
+
+
+> Riot Games says that an investigation into the sexual harassment and gender discrimination allegations against CEO Nicolo Laurent found no evidence that he acted inappropriately with his former executive assistant. The Santa Monica-based League of Legends developer was served with a lawsuit from Sharon O'Donnell in January alleging that Riot Games and Laurent created a hostile work environment in violation of the California Labor Code and Fair Employment and Housing Act "based on alleged sexual discrimination, harassment, and retaliation.
+
+
