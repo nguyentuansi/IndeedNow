@@ -44152,3 +44152,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Encrypted messaging app Signal stops working in China](https://assets2.rappler.com/2021/01/signal-app-shutterstock-1615867602124.jpg "Encrypted messaging app Signal stops working in China")
+
+
+[Encrypted messaging app Signal stops working in China](https://www.rappler.com/technology/apps/encrypted-messaging-app-signal-stops-working-china)
+
+
+> Encrypted messaging app Signal appeared to no longer be working in China without the use of a virtual private network (VPN) on Tuesday morning, March 16, users in the country said. China's cyber authorities have become increasingly strict in recent years, widening the scope of apps, media outlets and social media sites banned in the country. Signal's website was also inaccessible in China on Tuesday morning. The app was still available on Apple's China app store as of Tuesday morning, and the app and website appeared to be working normally in Hong Kong.
+
+
+***
+![Read Only Memories: NEURODIVER Returns to Neo-San Francisco on PS5, PS4](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Read Only Memories: NEURODIVER Returns to Neo-San Francisco on PS5, PS4")
+
+
+[Read Only Memories: NEURODIVER Returns to Neo-San Francisco on PS5, PS4](https://en.brinkwire.com/technology/read-only-memories-neurodiver-returns-to-neo-san-francisco-on-ps5-ps4/)
+
+
+> The sequel to retro-style PlayStation 4 and PS Vita adventure game 2064: Read Only Memories will investigate PS5 and PS4 this year, developer Midboss has announced. While already planned for release on Sony's last-gen console, the studio has added the company's next-gen system to the mix, as Read Only Memories: NEURODIVER plots a return to Neo-San Francisco. 'Take on the role of ES88, a telepath with the ability to delve into memories employed by MINERVA, a powerful organization specializing in neurotechnology and extrasensory projection phenomena,' the blurb reads.
+
+
+***
+[Signal app and website are unavailable in China but the app is still available in the App Store; Greatfire says Signal's website was banned on March 15 (Rita Liao/TechCrunch)](http://www.techmeme.com/210316/p1#a210316p1)
+
+
+> Rita Liao / TechCrunch: Signal app and website are unavailable in China but the app is still available in the App Store; Greatfire says Signal's website was banned on March 15 — Chinese users of the instant messenger Signal knew that the good times wouldn't last long. The app, which is used for encrypted conversations …
+
+
+***
+![Zoom Escaper Gives You the Perfect Excuse to Flee Calls](https://img.dtcn.com/image/digitaltrends/zoom-meeting-office-2-510x510-c-ar1.jpg "Zoom Escaper Gives You the Perfect Excuse to Flee Calls")
+
+
+[Zoom Escaper Gives You the Perfect Excuse to Flee Calls](https://www.digitaltrends.com/news/zoom-escaper-gives-you-the-perfect-excuse-to-flee-calls/)
+
+
+> Soon after the pandemic turned the world upside down, many people began using videoconferencing software like Zoom for work and socializing. It felt like a lot of fun at first, but for many folks nearing their gazillionth Zoom call, the novelty has long since worn off. Trending in Mobile: What is 5G? Best 5G Phones 5G Coverage Map If that's you, then this ingenious piece of software will no doubt appeal. Zoom Escaper does what it says on the tin — provides you with the perfect excuse to drop out of a Zoom call.
+
+
+***
+![Wanna learn c# (I have a free c# course on YT for ya )](https://external-preview.redd.it/eu91WZXlomD2QPBzhEjaQbdea-gcmIgBYiCikF1jYqY.jpg?auto=webp&s=cec2f8694f791f587bfeb88955320db99fe3e6fc "Wanna learn c# (I have a free c# course on YT for ya )")
+
+
+[Wanna learn c# (I have a free c# course on YT for ya )](https://www.reddit.com/r/programming/comments/m60hd5/wanna_learn_c_i_have_a_free_c_course_on_yt_for_ya/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
