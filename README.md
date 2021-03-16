@@ -44477,3 +44477,53 @@
 > Google is following Apple's lead in cutting app store commission by introducing a 15% commission fee schedule for Google Play transactions that is similar to the App Store Small Business Program. The standard 30% commission paid for purchases in the Google Play Store will be reduced down to 15%, Google announced on Tuesday. The change, which will commence on July 1, will apply to the first $1 million in revenue generated using the Play store's payment mechanism each year. After the developer passes the $1 million in revenue milestone for the year, the fee will return to its usual 30% level, TechCrunch reports.
 
 
+***
+![Chromebooks vs. laptops](https://img.dtcn.com/image/digitaltrends/acer-chromebook-14-hero-v2-1200x630-c-ar1.91.jpg "Chromebooks vs. laptops")
+
+
+[Chromebooks vs. laptops](https://www.digitaltrends.com/computing/chromebook-vs-laptop/)
+
+
+> Many people consider the Chromebook to be the sleeker, quicker, and even simpler cousin of the traditional laptop. Unlike a Mac or Windows system, a Chromebook mostly relies heavily on the internet for everyday tasks.  Since they're also typically less expensive, you might be wondering how a Chromebook compares to a regular laptop. Are they a waste of money or an affordable diamond in the rough? Read on to find out! Both Chromebooks and laptops shouldn't be expensive. Check out the best Chromebook deals and best laptop sales available now, if you're looking for a discount.
+
+
+***
+![Why does the battery drain so much when not on the wrist?](https://images.macrumors.com/social/?t=2288542&v=6 "Why does the battery drain so much when not on the wrist?")
+
+
+[Why does the battery drain so much when not on the wrist?](https://forums.macrumors.com/threads/why-does-the-battery-drain-so-much-when-not-on-the-wrist.2288542/)
+
+
+> If I take my watch off and leave it overnight etc the battery drains almost as much as if I were still wearing it. I don't understand why this is. It isn't measuring my heart rate or anything else, it doesnt have to do anything from the phone. For all intents and purposes it shouldn't, in theory, use any battery at all when off the wrist. So why does it just continue soaking up juice when it isn't doing anything or connected to anything? Or is it just mine?
+
+
+***
+![App Privacy Study Looks at Most 'Invasive' Apps Collecting User Data](https://images.macrumors.com/t/wxnECzDuXKWz3xac96GMilByB8w=/2205x/https://images.macrumors.com/article-new/2020/12/appstoreprivacy-feature.jpg "App Privacy Study Looks at Most 'Invasive' Apps Collecting User Data")
+
+
+[App Privacy Study Looks at Most 'Invasive' Apps Collecting User Data](https://www.macrumors.com/2021/03/16/app-privacy-study-most-invasive-apps/)
+
+
+> With App Privacy labels now available for many of the top apps in the App Store, pCloud earlier this month took a look at the most "invasive" apps that collect the most data from users. It will come as no surprise to many that Instagram and Facebook share the most data with third-party advertisers, collecting info on purchases, location, contact details, user content, search history, browsing history, and more. Instagram collects 79 percent of personal data, while Facebook collects 57 percent. LinkedIn and Uber Eats were also serious offenders, collecting 50 percent of data.
+
+
+***
+![The best desktop computers for 2021](https://img.dtcn.com/image/digitaltrends/hp-omen-30l-6-2-1200x630-c-ar1.91.jpg "The best desktop computers for 2021")
+
+
+[The best desktop computers for 2021](https://www.digitaltrends.com/computing/best-desktop-computers/)
+
+
+> The best desktop computer you can buy is the Dell XPS 8940. While building your own computer will always get you the best performance per dollar, the XPS 8940 is the best prebuilt PC you can buy, whether that's for a family room at home or for a student dorm room. You can spec it up with powerful processors, but Dell also offers an affordable base model. Many people choose desktops over laptops for extreme performance needs, though, which is why we've included picks below for heavier tasks like gaming or video editing.
+
+
+***
+![Apple partners with Redford Center on youth filmmaking challenge](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/apple-robert-redford.jpg "Apple partners with Redford Center on youth filmmaking challenge")
+
+
+[Apple partners with Redford Center on youth filmmaking challenge](https://www.imore.com/apple-partners-redford-center-youth-filmmaking-challenge)
+
+
+> Source: Variety Apple and the Redford Center have partnered together for the second annual Redford Center Stories Challenge, a youth filmmaking challenge that aims to put a spotlight on environmental justice. As reported by Variety, students will use Apple's Clips app to create stories that will be shared on a platform created by the company. The 2021 Redford Center Stories Challenge will promote social and environmental justice themes to empower middle-school-aged youth and create a learning community of transformational storytelling.
+
+
