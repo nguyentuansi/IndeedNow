@@ -44055,3 +44055,53 @@
 > Tyler Sonnemaker / Business Insider Australia: 30 current and former Mailchimp staffers detail the conditions that led to a “mass exodus” of women and people of color, including high profile execs, directors — - Women and people of color have left Mailchimp in droves in recent months. — Those who spoke to Insider …
 
 
+***
+![The Galaxy S21 has better 5G download speeds than the iPhone 12](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/05/galaxy-s10-5g-test-details.jpg "The Galaxy S21 has better 5G download speeds than the iPhone 12")
+
+
+[The Galaxy S21 has better 5G download speeds than the iPhone 12](https://www.androidcentral.com/samsungs-a51-5g-has-better-5g-speeds-iphone-12)
+
+
+> Source: Android Central An Opensignal report shed some light on 5G performance on Android phones vs iPhones in the US. Android phones outperformed the iPhone, with even cheap phones like the A51 pulling ahead of the iPhone 12 Pro. Samsung accounted for 60% of the top 25 performers in the list. If you're buying an Android phone this year, you'll likely have 5G onboard. Whether it's the ostentatious Galaxy S21 Ultra, the sensible Pixel 5, or even the cheap Nord N10, there's going to be a 5G option for your budget.
+
+
+***
+![[Comedy, Educational] Using python & threads to DEMOLISH guitar hero!](https://external-preview.redd.it/EVi04KWwFQ75DzQwDvzG99ls7a3kbLgg-BHQ4bNcN8U.jpg?auto=webp&s=e273899f517e1ed293047b2ffa60c351bcddd264 "[Comedy, Educational] Using python & threads to DEMOLISH guitar hero!")
+
+
+[[Comedy, Educational] Using python & threads to DEMOLISH guitar hero!](https://www.reddit.com/r/Python/comments/m5vu3v/comedy_educational_using_python_threads_to/)
+
+
+> Hey guys! I just graduated from school and wanted to dig deeper into AI / ML so I created a youtube channel! This is my 2nd video and if you're looking for a quick laugh, check it out! https://youtu.be/plYJPfDx7rg
+
+
+***
+![Google Took Down My Chrome Extension for Using Lodash](https://www.notion.so/images/meta/default.png "Google Took Down My Chrome Extension for Using Lodash")
+
+
+[Google Took Down My Chrome Extension for Using Lodash](https://roadtoramen.com/Day-435-Google-Took-Down-My-Extension-for-Using-Lodash-a3096c51321f42e0a04c77e1a25f484a)
+
+
+> No body in the article.
+
+
+***
+![India's cryptocurrency hostility may soon lead to an outright ban](https://cdn.slashgear.com/wp-content/uploads/2021/03/thought-catalog-bj8U389A9N8-unsplash.jpg "India's cryptocurrency hostility may soon lead to an outright ban")
+
+
+[India's cryptocurrency hostility may soon lead to an outright ban](https://www.slashgear.com/indias-cryptocurrency-hostility-may-soon-lead-to-an-outright-ban-15663807/)
+
+
+> India's government has been vocal about its hostility toward cryptocurrencies like bitcoin, and it seems things may be once again heating up. According to a new report, the nation's government may be planning to introduce a bill soon that, if passed, would ban all cryptocurrencies in India, including mining, potentially under the penalty of fines and prison time. The latest developments come from Reuters, which reports that an unnamed senior government official has tipped an upcoming proposal that would ban cryptocurrencies and penalize anyone found to possess or mine the digital coins.
+
+
+***
+![War Thunder Workaround Adds USB Mouse Support to PS5's Secret Web Browser](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "War Thunder Workaround Adds USB Mouse Support to PS5's Secret Web Browser")
+
+
+[War Thunder Workaround Adds USB Mouse Support to PS5's Secret Web Browser](https://en.brinkwire.com/technology/war-thunder-workaround-adds-usb-mouse-support-to-ps5s-secret-web-browser/)
+
+
+> PlayStation 5's hidden web browser works with a USB mouse – well, if you access it from within free-to-play title War Thunder, anyway. As many of you will know, while it's gated off, Sony's next-gen console does have a web browser – send a hyperlink in a Messages thread, for example, and you'll be able to click it. You can even position web pages next to your games, allowing you to watch YouTube videos while you play. And now, as alluded to above, one Reddit user has discovered USB mouse support within the browser.
+
+
