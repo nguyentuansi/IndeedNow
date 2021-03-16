@@ -44346,3 +44346,50 @@
 > RESEARCH TRIANGLE PARK, N.C.--(BUSINESS WIRE)--Today, Lenovo (HKSE: 992) (ADR: LNVGY) Data Center Group (DCG) announces new industry leading ThinkSystem and ThinkAgile hyperconverged infrastructure (HCI) solutions to support edge-to-cloud computing. These new and enhanced hybrid cloud solutions are designed to help organizations of all sizes, modernize, better secure their IT infrastructure, and deliver faster data insights – all powered by the new AMD EPYC™ 7003 Series processors. Specifically optimized to run demanding cloud computing workloads such as VDI, database and analytics, artificial intelligence and more, these solutions have built-in security features to help protect against data integrity and firmware threats.
 
 
+***
+![Hands-On With Kensington's New $400 StudioDock for iPad Pro](https://images.macrumors.com/t/h90GMgGv35fPlP_s0fjdHPSd68A=/2000x/https://images.macrumors.com/article-new/2021/03/kensington-dock.jpg "Hands-On With Kensington's New $400 StudioDock for iPad Pro")
+
+
+[Hands-On With Kensington's New $400 StudioDock for iPad Pro](https://www.macrumors.com/2021/03/16/kensington-studiodock-ipad-pro/)
+
+
+> Kensington in February began accepting pre-orders for the StudioDock docking station that it released for the iPad Pro, and now those StudioDock orders have started arriving to customers. We picked up one of the new StudioDocks to see if it's worth the high purchase price for an iPad workflow. Subscribe to the MacRumors YouTube channel for more videos.Available for the 11-inch ‌iPad Pro‌, the 10.9-inch iPad Air, and the 12.9-inch ‌iPad Pro‌, the StudioDock has a magnetic base where an ‌iPad‌ can attach, and it can be used in either landscape or portrait mode.
+
+
+***
+[Trading platform eToro says it will go public via SPAC, valuing the company at $10.4B and raising $650M (Ryan Weeks/The Block)](http://www.techmeme.com/210316/p21#a210316p21)
+
+
+> Ryan Weeks / The Block: Trading platform eToro says it will go public via SPAC, valuing the company at $10.4B and raising $650M — Quick Take — The investment platform is merging with FinTech Acquisition Corp. V — The SPAC merger follows years of speculation about the fintech firm going public
+
+
+***
+![Fortnite Season 6 LIVE – New maps, patch notes, weapons and wildlife as Chapter 2 update launches TODAY – latest updates](https://www.the-sun.com/wp-content/uploads/sites/6/2021/03/1-46.png?strip=all&quality=100&w=1200&h=800&crop=1 "Fortnite Season 6 LIVE – New maps, patch notes, weapons and wildlife as Chapter 2 update launches TODAY – latest updates")
+
+
+[Fortnite Season 6 LIVE – New maps, patch notes, weapons and wildlife as Chapter 2 update launches TODAY – latest updates](https://www.the-sun.com/lifestyle/tech/2521187/fortnite-season-6-live-chapter-2-new-map-latest/)
+
+
+> FORT-FULL Mar 16 2021, 8:03 ETUpdated: Mar 16 2021, 8:03 ETFORTNITE Chapter 2 Season 6 went live today in a major new update to the huge gaming series. New patch notes, maps, weapons and wildlife all feature in the update which Fortnite fans are going to love exploring over the coming weeks and months. But first things first - you'll need to download and install the Fortnite update to enjoy the new goodies on offer. Describing the update, Epic Games said: "When you first launch into the new season, you'll play through the conclusion of Agent Jones' mission in the Zero Crisis Finale.
+
+
+***
+![Fortnite Season 6 LIVE – Chapter 2 update latest info as new maps, patch notes, weapons and wildlife launch TODAY](https://www.thesun.co.uk/wp-content/uploads/2021/03/1-46.png?strip=all&quality=100&w=1200&h=800&crop=1 "Fortnite Season 6 LIVE – Chapter 2 update latest info as new maps, patch notes, weapons and wildlife launch TODAY")
+
+
+[Fortnite Season 6 LIVE – Chapter 2 update latest info as new maps, patch notes, weapons and wildlife launch TODAY](https://www.thesun.co.uk/tech/14354803/fortnite-season-6-live-chapter-2-new-map-latest/)
+
+
+> FORT-FULL 16 Mar 2021, 12:03Updated: 16 Mar 2021, 12:04FORTNITE Chapter 2 Season 6 went live today in a major new update to the huge gaming series. New patch notes, maps, weapons and wildlife all feature in the update which Fortnite fans are going to love exploring over the coming weeks and months. But first things first - you'll need to download and install the Fortnite update to enjoy the new goodies on offer. Describing the update, Epic Games said: "When you first launch into the new season, you'll play through the conclusion of Agent Jones' mission in the Zero Crisis Finale.
+
+
+***
+![Noogata raises $12M seed round for its no-code enterprise AI platform – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222192913.jpg "Noogata raises $12M seed round for its no-code enterprise AI platform – TechCrunch")
+
+
+[Noogata raises $12M seed round for its no-code enterprise AI platform – TechCrunch](https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/)
+
+
+> Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers, currently focuses on e-commerce, retail and financial services, but it notes that it will use the new funding to power its product development and expand into new industries. The company's platform offers a collection of what are essentially pre-built AI building blocks that enterprises can then connect to third-party tools like their data warehouse, Salesforce, Stripe and other data sources.
+
+
