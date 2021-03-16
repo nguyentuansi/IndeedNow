@@ -44299,3 +44299,50 @@
 > RSS is the single most important tool to adopt in your day to day. If you're on the Internet, RSS brings order to your online reading and really helps you stay on top of news. All thanks to excellent automation and powerful features, which transform RSS feed readers into bona fide productivity tools in their own right.Learn how to integrate them with other applications and you're looking at a perfectly streamlined workflow.I don't want to assume you know the ins and outs of RSS, so we're going to cover the basics.
 
 
+***
+![Social media platforms on the right fail to maintain post-Jan. 6 growth](https://thehill.com/sites/default/files/capitol_riot_010621getty_social-media_biz.jpg "Social media platforms on the right fail to maintain post-Jan. 6 growth")
+
+
+[Social media platforms on the right fail to maintain post-Jan. 6 growth](https://thehill.com/policy/technology/543324-social-media-platforms-on-the-right-fail-to-maintain-post-jan-6-growth)
+
+
+> Alternative social media platforms that saw a surge in users immediately after the Jan. 6 attack on the Capitol are failing to maintain growth anywhere near those levels more than two months after the insurrection.The Capitol riot, coupled with former President TrumpDonald TrumpThe Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate Juan Williams: Trump's jealous rants can't hide his failures MORE's removal from Facebook, Twitter and YouTube, provided a rare opportunity for alternative social media platforms to challenge the established players.
+
+
+***
+[Chinese state broadcaster says Xi Jinping ordered regulators to increase oversight on internet companies, crack down on monopolies, and promote fair competition (Zheping Huang/Bloomberg)](http://www.techmeme.com/210316/p7#a210316p7)
+
+
+> Zheping Huang / Bloomberg: Chinese state broadcaster says Xi Jinping ordered regulators to increase oversight on internet companies, crack down on monopolies, and promote fair competition — - Comments from top leader follows fintech, antitrust actions — Regulators are said to set their sights on Tencent after Ant
+
+
+***
+![Tiberium Announces FROST & MYTHIC – Managed security services using automation, powered by Azure Sentinel and ‘AI Bots'](https://mms.businesswire.com/media/20210316005173/en/865239/23/Tiberium-Logo.jpg "Tiberium Announces FROST & MYTHIC – Managed security services using automation, powered by Azure Sentinel and ‘AI Bots'")
+
+
+[Tiberium Announces FROST & MYTHIC – Managed security services using automation, powered by Azure Sentinel and ‘AI Bots'](https://www.businesswire.com/news/home/20210316005173/en/Tiberium-Announces-FROST-MYTHIC-%E2%80%93-Managed-security-services-using-automation-powered-by-Azure-Sentinel-and-%E2%80%98AI-Bots%E2%80%99)
+
+
+> LONDON--(BUSINESS WIRE)--Cybersecurity innovator Tiberium launched two Microsoft based services last week leveraging Azure Sentinel and Microsoft Defender. Founded by Kiwi, Drew Perry, the launch sees the first major step for Tiberium since closing a successful funding round and welcoming experienced security players to the Board at the turn of the year. Perry is keen to stress the ‘Outcome First' and ‘Automate Everything' elements of the strategy within the company, which is seen as the foundation for differentiation in the UK MSSP market.
+
+
+***
+![Cy Wins 2021 Best Robo Advisory Platform FinTech Breakthrough Award](https://mms.businesswire.com/media/20210316005281/en/865211/23/Cy-R.jpg "Cy Wins 2021 Best Robo Advisory Platform FinTech Breakthrough Award")
+
+
+[Cy Wins 2021 Best Robo Advisory Platform FinTech Breakthrough Award](https://www.businesswire.com/news/home/20210316005281/en/Cy-Wins-2021-Best-Robo-Advisory-Platform-FinTech-Breakthrough-Award)
+
+
+> March 16, 2021 06:00 AM Eastern Daylight Time RED BANK, N.J.--(BUSINESS WIRE)--Cy, a revolutionary financial advisor-assisted robo advisory platform, today announced that it has been selected as winner of the 'Best Robo Advisory Platform' in the 5th Annual FinTech Breakthrough Awards program conducted by FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in today's global FinTech market. Built by WBI's software development firm CyborgTech LLC, Cy is an enterprise grade robo advisory platform that pairs human financial advice with machine optimized portfolios.
+
+
+***
+![Lenovo Delivers Edge-to-Cloud Solutions With AMD EPYC™ 7003 Processors, Setting a New Standard for Modern IT Architectures](http://www.businesswire.com/images/bwlogo_square.png "Lenovo Delivers Edge-to-Cloud Solutions With AMD EPYC™ 7003 Processors, Setting a New Standard for Modern IT Architectures")
+
+
+[Lenovo Delivers Edge-to-Cloud Solutions With AMD EPYC™ 7003 Processors, Setting a New Standard for Modern IT Architectures](https://www.businesswire.com/news/home/20210316005367/en/Lenovo-Delivers-Edge-to-Cloud-Solutions-With-AMD-EPYC%E2%84%A2-7003-Processors-Setting-a-New-Standard-for-Modern-IT-Architectures)
+
+
+> RESEARCH TRIANGLE PARK, N.C.--(BUSINESS WIRE)--Today, Lenovo (HKSE: 992) (ADR: LNVGY) Data Center Group (DCG) announces new industry leading ThinkSystem and ThinkAgile hyperconverged infrastructure (HCI) solutions to support edge-to-cloud computing. These new and enhanced hybrid cloud solutions are designed to help organizations of all sizes, modernize, better secure their IT infrastructure, and deliver faster data insights – all powered by the new AMD EPYC™ 7003 Series processors. Specifically optimized to run demanding cloud computing workloads such as VDI, database and analytics, artificial intelligence and more, these solutions have built-in security features to help protect against data integrity and firmware threats.
+
+
