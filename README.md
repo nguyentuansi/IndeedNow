@@ -44199,3 +44199,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Garena Free Fire Holi event goes live in India](https://cdn.mos.cms.futurecdn.net/NG6d827CM8LPGAVAiHNzT8-1200-80.jpg "Garena Free Fire Holi event goes live in India")
+
+
+[Garena Free Fire Holi event goes live in India](https://www.techradar.com/news/garena-free-fire-holi-event-goes-live-in-india-heres-what-we-know)
+
+
+> (Image credit: Garena) Free Fire has just released a new update that celebrates Holi, the festival of colours with Survivors all across India. The update is bringing a host of activities, rewards, and content for Survivors on this occasion. As far as the narrative of this event goes, Free Fire explains that with Holi just round the corner (it actually falls on March 29), everyone is looking forward to festival that heralds the onset of Spring. But these plans go out the window when a Demoness invades Free Fire and steals all the colours away.
+
+
+***
+![Temporaty Hip Spacers Market Size, Share, Statistics, Demand and Revenue, Forecast 2026](http://technologymagazine.org/assets/imgs/news-10.jpg "Temporaty Hip Spacers Market Size, Share, Statistics, Demand and Revenue, Forecast 2026")
+
+
+[Temporaty Hip Spacers Market Size, Share, Statistics, Demand and Revenue, Forecast 2026](http://technologymagazine.org/temporaty-hip-spacers-market-size/)
+
+
+> The latest trending report Global Temporaty Hip Spacers Market to 2026 available at MarketStudyReport.com is an informative study covering the market with detailed analysis. The report will assist reader with better understanding and decision making. The business intelligence report on Temporaty Hip Spacers market offers granular insights on aspects that will shape future industry trends. It identifies the key growth markers as well as the potential opportunities that may augment the profitability in the coming years.
+
+
+***
+![Now streaming: best new TV shows & movies this week in Australia (Mar 15-21)](https://cdn.mos.cms.futurecdn.net/qyBDvFaCaq6EgyudybcFxf-1200-80.jpg "Now streaming: best new TV shows & movies this week in Australia (Mar 15-21)")
+
+
+[Now streaming: best new TV shows & movies this week in Australia (Mar 15-21)](https://www.techradar.com/news/now-streaming-best-new-tv-shows-and-movies-this-week-in-australia-mar-15-21)
+
+
+> (Image credit: Warner Bros.) With so many shows and movies to choose from on Australia's major streaming services, it can often be difficult to find the best new stuff to entertain yourself with each week. In an effort to make things easier, every Monday we'll be highlighting the best new shows and movies to watch on Aussie streaming platforms, covering the likes of Netflix, Disney Plus, Binge, Foxtel Now, Stan and Amazon Prime Video. Below, you'll find a list of this week's highlights, separated by streaming service, with binge-worthy new shows sitting alongside some great big-budget new movie arrivals – and a couple of oddball left-of-field entries, just for some variety.
+
+
+***
+![Marvel's Secret Invasion Casts Kingsley Ben-Adir as Villain: Report](https://i.gadgets360cdn.com/large/kingsley_ben_adir_one_night_in_miami_1615872833162.jpg "Marvel's Secret Invasion Casts Kingsley Ben-Adir as Villain: Report")
+
+
+[Marvel's Secret Invasion Casts Kingsley Ben-Adir as Villain: Report](https://gadgets.ndtv.com/entertainment/news/kingsley-ben-adir-secret-invasion-villain-cast-mcu-disney-plus-series-marvel-skrull-2391704)
+
+
+> Kingsley Ben-Adir will reportedly play the villain in Marvel's Secret Invasion series, set to air on Disney+ and Disney+ Hotstar worldwide. That means Ben-Adir will portray the leader of a faction of shape-shifting Skrulls who have been infiltrating Earth for years. Ben-Adir is best known for playing human rights activist Malcolm X in Regina King's directorial debut One Night in Miami… for Amazon Prime Video. The 35-year-old London native joins a Secret Invasion cast that already includes Samuel L.
+
+
+***
+![Laravel vs. CodeIgniter: Which is more significant?](https://external-preview.redd.it/ews8zTjQitk6VC9coImoNpqJJKAaWvpy9NKwBbbHghw.jpg?auto=webp&s=ce432c9bfdc46e16203cbf671ad166a4e791afcd "Laravel vs. CodeIgniter: Which is more significant?")
+
+
+[Laravel vs. CodeIgniter: Which is more significant?](https://www.reddit.com/r/programming/comments/m61yyb/laravel_vs_codeigniter_which_is_more_significant/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
