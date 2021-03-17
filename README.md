@@ -44868,3 +44868,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Japan messenger app Line let engineers in China access user data without consent](https://external-preview.redd.it/HJyhteXN_Ay7_zbPFEWgAtPLP9VjxN616qWsjvWr_ng.jpg?auto=webp&s=7b165d0a87cc77e8e68c7c327acf8f21f1996db5 "Japan messenger app Line let engineers in China access user data without consent")
+
+
+[Japan messenger app Line let engineers in China access user data without consent](https://www.reddit.com/r/technology/comments/m6wzta/japan_messenger_app_line_let_engineers_in_china/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![The split at the heart of tech's new labor movement](https://images.axios.com/8hrKJa1ZK_2fCLGVq7UMy6-9KQo=/0x0:1920x1080/1366x768/2021/03/16/1615936663054.jpg "The split at the heart of tech's new labor movement")
+
+
+[The split at the heart of tech's new labor movement](https://www.axios.com/techs-new-labor-movement-split-010e0710-b91e-46cd-b291-73e0e479e102.html)
+
+
+> Tech's burgeoning new labor movement has its own class divide — between a conventional organizing push among blue collar employees and an effort among white collar employees that's based on a different set of concerns and goals.Why it matters: The tech industry rose to power and wealth largely union-free. But a recent wave of labor organizing catches tech's biggest companies at a vulnerable moment, when they're being challenged by antitrust suits, hostile regulators and doubts among their workforce.
+
+
+***
+![Microsoft breach ramps up pressure on Biden to tackle cyber vulnerabilities](https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg "Microsoft breach ramps up pressure on Biden to tackle cyber vulnerabilities")
+
+
+[Microsoft breach ramps up pressure on Biden to tackle cyber vulnerabilities](https://thehill.com/policy/cybersecurity/543535-microsoft-breach-ramps-up-pressure-on-biden-to-tackle-cyber)
+
+
+> The Biden administration is coming under increasing pressure to address U.S. cybersecurity vulnerabilities following the Microsoft breach that has quickly been viewed as a massive threat to the U.S.Officials are still trying to wrap their heads around the extent of the cyberattack more than two weeks after the U.S. tech giant announced it was hit.Complicating matters is the fact that the breach comes as the administration continues to gauge the widening fallout of what has become known as the SolarWinds hack.
+
+
+***
+![Google blocked nearly 100 million misleading coronavirus ads in 2020](https://thehill.com/sites/default/files/google_11042016_getty.jpg "Google blocked nearly 100 million misleading coronavirus ads in 2020")
+
+
+[Google blocked nearly 100 million misleading coronavirus ads in 2020](https://thehill.com/policy/technology/543529-google-blocked-nearly-100-million-misleading-coronavirus-ads-in-2020)
+
+
+> Google blocked 99 million ads worldwide related to the coronavirus pandemic that would have violated its policies in 2020, according to a transparency report released by the company Wednesday.The advertisements included attempts to sell fabricated cures, N95 masks when there was a shortage early in the pandemic and fake vaccines.'As we learned more about the virus and health organizations issued new guidance, we evolved our enforcement strategy to start allowing medical providers, health organizations, local governments and trusted businesses to surface critical updates and authoritative content, while still preventing opportunistic abuse,' Google's vice president of ad privacy and safety Scott Spencer said in a blog post.
+
+
+***
+![Chelsea vs Atlético Madrid live stream: How to watch UEFA Champions League](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/chelsea-atletico-madrid.jpg "Chelsea vs Atlético Madrid live stream: How to watch UEFA Champions League")
+
+
+[Chelsea vs Atlético Madrid live stream: How to watch UEFA Champions League](https://www.androidcentral.com/chelsea-atletico-madrid-live-stream-champions-league)
+
+
+> With a 1-0 win in the away leg, Chelsea of the Premier League now host current La Liga frontrunners Atlético Madrid. Can Atleti turn things around in London? Don't miss a moment with our Chelsea vs Atlético Madrid live stream guide. Source: Android Central In their last meeting, Chelsea secured a narrow 1-0 win which gives them not only an aggregate lead but an away goal advantage as they try to book their spot in the Champions League quarter-finals. It was a tight game last time out with relatively few chances for either side.
+
+
