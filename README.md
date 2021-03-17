@@ -44724,3 +44724,50 @@
 > © Reuters. FILE PHOTO: Huawei Technologies Chief Financial Officer Meng Wanzhou leaves court on a break in Vancouver By Moira Warburton VANCOUVER (Reuters) - Canada has called for two of Huawei Chief Financial Officer Meng Wanzhou's main arguments in her fight against U.S. extradition to be dismissed, saying her claims are not backed with evidence and one issue has been ruled on, court documents released on Tuesday showed. Meng, 49, was arrested at Vancouver International Airport in December 2018 on a warrant from the United States, where she faces charges of bank fraud for allegedly misleading HSBC about Huawei's business dealings in Iran, causing the bank to break U.
 
 
+***
+![PS5, PS4 Horror Evil Inside Is All Corridors and Creaking Light Fittings](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "PS5, PS4 Horror Evil Inside Is All Corridors and Creaking Light Fittings")
+
+
+[PS5, PS4 Horror Evil Inside Is All Corridors and Creaking Light Fittings](https://en.brinkwire.com/technology/ps5-ps4-horror-evil-inside-is-all-corridors-and-creaking-light-fittings/)
+
+
+> We must admit, we're tiring of the PT-style of survival horror now. All that aside, Evil Inside looks like it's going to be another competent take on the formula – this brand new trailer, released by developer JanduSoft, sure manages to create an unsettling atmosphere. The game's due out on 25th March for both PlayStation 5 and PS4. 'Evil Inside is a first-person psychological horror game,' the blurb explains. 'After the death of his mother and the arrest of his father for it, our protagonist Mark tries to contact her through the Spiritual board, which explodes mysteriously and causes Mark to fade away.
+
+
+***
+![Apple has a team that hunts down counterfeit products on Instagram](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/pexels-brett-jordan-instragram-app-iphone.jpg "Apple has a team that hunts down counterfeit products on Instagram")
+
+
+[Apple has a team that hunts down counterfeit products on Instagram](https://www.imore.com/apple-has-team-hunts-down-counterfeit-products-instagram)
+
+
+> Source: Brett Jordan Andrea Stroppa, a cybersecurity researcher, had an iPhone charger explode on her. As reported by Bloomberg, the investigation that she and her colleagues launched afterward revealed some shocking results. Stroppa and his colleagues at Ghost Data Team, a cybersecurity, social-media research firm, looked into the incident and found he was far from alone. Chinese illicit factories and wholesale vendors are using the Facebook Inc. app to sell fake Apple accessories such as AirPods, lightning cables, iPhone batteries and USB power adapters.
+
+
+***
+![Facebook set to launch newsletter product for writers and journalists](https://assets2.rappler.com/2021/03/facebook-logos-file-may-13-2015-reuters-1615953254761.jpg "Facebook set to launch newsletter product for writers and journalists")
+
+
+[Facebook set to launch newsletter product for writers and journalists](https://www.rappler.com/technology/facebook-to-launch-newsletter-product-writers-journalists)
+
+
+> Facebook Inc is rolling out a new publishing platform in the coming months in the United States that lets independent writers and journalists reach new audiences and monetize their work through email newsletters and individual websites. More writers and journalists are lately getting on the email newsletter bandwagon preferring the editorial freedom intrinsic to the medium, which also allows them to move away from ad-reliant business models that have been on a steady decline. Competition is heating up in the space between firms like Substack, Medium, and Twitter's recently acquired Revue, which lets content creators try out a mix of paid and free email newsletters to reach potential readers.
+
+
+***
+![Russia will block Twitter in one month unless it deletes banned content](https://assets2.rappler.com/2021/02/reuters-021021-twitter-1615953178561.jpg "Russia will block Twitter in one month unless it deletes banned content")
+
+
+[Russia will block Twitter in one month unless it deletes banned content](https://www.rappler.com/technology/social-media/russia-block-twitter-unless-delete-banned-content)
+
+
+> Russia will block Twitter in one month unless the US social media giant complies with a demand to remove banned content, Russian news agencies cited a senior regulatory official as saying on Tuesday, March 16. Twitter said at the time that it was worried about the impact on free speech of the Russian action, and denied that it allowed its platform to be used to promote illegal behaviour as alleged by Russian authorities. In a move that escalates the growing stand-off, Vadim Subbotin, the deputy head of Roskomnadzor, the communications watchdog, was cited as saying on Tuesday that Twitter had not addressed Russian concerns yet and would be blocked in Russia in a month unless it did so.
+
+
+***
+[Japan messenger app Line let engineers in China access user data without consent -media](https://www.zeebiz.com/technology/news-japan-messenger-app-line-let-engineers-in-china-access-user-data-without-consent-media-152907)
+
+
+> TOKYO (Reuters) - Japanese messaging app Line, owned by SoftBank Corp`s Z Holdings Corp, allowed Chinese engineers at a Shanghai affiliate to access data on Japanese users without gaining their consent, Japanese media reported on Wednesday.
+
+
