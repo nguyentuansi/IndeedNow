@@ -44771,3 +44771,50 @@
 > TOKYO (Reuters) - Japanese messaging app Line, owned by SoftBank Corp`s Z Holdings Corp, allowed Chinese engineers at a Shanghai affiliate to access data on Japanese users without gaining their consent, Japanese media reported on Wednesday.
 
 
+***
+[英 Ofcom 提出數據共享計畫，但遭抨擊恐使美國矽谷科技巨頭獲更大權力及利益](https://technews.tw/2021/03/17/ofcom-open-communications-scheme-was-criticized/)
+
+
+> 英國通訊監管機構 Ofcom 提出寬頻數據共享計畫（Open Communications scheme），旨 […]
+
+
+***
+![Samsung Galaxy Note 21 is the latest victim of the global semiconductor shortage](https://cdn.mos.cms.futurecdn.net/aDLSSkWmXiJkpdJZejrLcn-1200-80.jpg "Samsung Galaxy Note 21 is the latest victim of the global semiconductor shortage")
+
+
+[Samsung Galaxy Note 21 is the latest victim of the global semiconductor shortage](https://www.techradar.com/news/samsung-galaxy-note-21-is-the-latest-victim-of-the-global-semiconductor-shortage)
+
+
+> (Image credit: Aakash Jhaveri) The Samsung Galaxy Note 21 has been hitting headlines for all the wrong reasons over the last few months. A new development seemingly confirms that it will not be launched in 2021.At the 52nd regular shareholders' meeting in South Korea today, Samsung co-CEO DJ Koh talked about the imbalance between the demand and supply of semiconductors globally — becoming the largest consumer tech company to publicly talk about the shortage. Samsung, which is also a chipset manufacturer itself, expects the disparity to affect its business in the next quarter.
+
+
+***
+![App Privacy Study Looks at Most 'Invasive' Apps Collecting User Data](https://external-preview.redd.it/OlAQUVcxA91-nsPrWcw3d_o78lx6xLP2Ids7-l1MXNg.jpg?auto=webp&s=d464c058a2b0da93dfca19fc0ae70ec577a386f6 "App Privacy Study Looks at Most 'Invasive' Apps Collecting User Data")
+
+
+[App Privacy Study Looks at Most 'Invasive' Apps Collecting User Data](https://www.reddit.com/r/technology/comments/m6tgw0/app_privacy_study_looks_at_most_invasive_apps/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Uber to give UK drivers minimum wage, pension, holiday pay](https://www.thehindu.com/sci-tech/technology/21u5t0/article34088845.ece/ALTERNATES/LANDSCAPE_615/uberwage "Uber to give UK drivers minimum wage, pension, holiday pay")
+
+
+[Uber to give UK drivers minimum wage, pension, holiday pay](https://www.thehindu.com/sci-tech/technology/uber-to-give-uk-drivers-minimum-wage-pension-holiday-pay/article34088702.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Uber is giving its UK drivers the minimum wage, pensions and holiday pay, following a recent court ruling that said they should be classified as workers and entitled to such benefits.The ride hailing giant's announcement Tuesday comes after it lost an appeal last month at the U.K. Supreme Court following a years long court battle. The court's decision holds wider implications for the country's gig economy.
+
+
+***
+![Honda temporarily cutting production at all US, Canada plants](https://images.moneycontrol.com/static-mcnews/2021/03/Honda-770x433.jpg "Honda temporarily cutting production at all US, Canada plants")
+
+
+[Honda temporarily cutting production at all US, Canada plants](https://www.moneycontrol.com/news/technology/auto/honda-temporarily-cutting-production-at-all-us-canada-plants-6656501.html)
+
+
+> Honda Motor Co said late Tuesday supply chain issues will force a halt to production at a majority of US and Canadian auto plants for a week.The Japanese automaker added the issue will result in some production cuts next week at all US and Canadian plants, citing "the impact from COVID-19, congestion at various ports, the microchip shortage and severe winter weather over the past several weeks.""In some way, all of our auto plants in the US and Canada will be impacted," Honda said.Some US and Canadian plants are expected to have smaller production cuts next week, but a spokesman for Honda added "the timing and length of production adjustments could change.
+
+
