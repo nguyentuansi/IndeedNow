@@ -44965,3 +44965,53 @@
 > APPLE may be preparing to unleash a flurry of new gadgets in a matter of days A top-secret Apple launch event has been rumoured, and we've got all the details. Apple chief Tim Cook is a regular speaker at product launch eventsCredit: Apple What is the Apple Spring Event 2021? Apple regularly hosts special events in the spring. It's usually a chance to showcase products that aren't the flagship iPhone. This includes spin-off iPhones, iPads or accessories. Apple hasn't confirmed an event for 2021, but rumours suggest one will take place nonetheless.
 
 
+***
+![The Apple MacBook Pro M1 hits lowest sale price ever in massive $150 discount](https://cdn.mos.cms.futurecdn.net/kUVR6KydRM5EtoovZFs8ii-1200-80.jpg "The Apple MacBook Pro M1 hits lowest sale price ever in massive $150 discount")
+
+
+[The Apple MacBook Pro M1 hits lowest sale price ever in massive $150 discount](https://www.techradar.com/news/apple-macbook-pro-m1-hits-lowest-price-ever-discount)
+
+
+> (Image credit: Apple) If you're looking to snag a deal on Apple's powerful MacBook Pro M1, then you're in luck. Right now, Amazon has the MacBook Pro M1 on sale for $1,149.99 when you apply the additional $50 coupon at checkout. That's a $150 discount and the lowest price we've seen for the 13-inch laptop.See more Apple deals at AmazonApple MacBook Pro M1: $1,299 $1,149.99 at Amazon Save $99 -  Amazon has the powerful Macbook Pro M1 on sale for a record-low price of $1,149.99 when you apply the additional $50 coupon at checkout.
+
+
+***
+![Malicious Microsoft Office files are running rampant](https://cdn.mos.cms.futurecdn.net/xXaZ3Lb4ZEejUv9ipwK3ha-1200-80.jpg "Malicious Microsoft Office files are running rampant")
+
+
+[Malicious Microsoft Office files are running rampant](https://www.techradar.com/news/malicious-microsoft-office-files-are-running-rampant)
+
+
+> (Image credit: Shutterstock.com) Ever since the Covid-19 pandemic forced the majority of the world's workforce into a remote working environment, cybercriminals have been increasingly utilizing weaponized Microsoft Office files.A new report from cybersecurity firm SonicWal claims it witnessed a 67% spike in the distribution of malicious Office files last year. The rising popularity of Office as means of malware distribution seems to have come at the expense of PDF files, whose use in malicious purposes dropped by almost a quarter (22%) in the same timeframe.
+
+
+***
+![Cheap smartphones that don't cost $1000](https://cdn.newsapi.com.au/image/v1/0cdb17db129d2f4d55f2eb4f09cb023b?width=1280 "Cheap smartphones that don't cost $1000")
+
+
+[Cheap smartphones that don't cost $1000](https://www.news.com.au/technology/gadgets/mobile-phones/samsungs-galaxy-aseries-a52-5g-and-a72-releasing-april-9/news-story/63dd1d6e2b950f1ee2c838eb16470c9a)
+
+
+> Korean smartphone giant Samsung has announced new devices for its mid-range, millennial-targeting Galaxy A series, rivalling more expensive phones with high-quality cameras and long battery life without costing upwards of $1000.Samsung announced the release of the Galaxy A52 ($599), Galaxy A52 5G ($649) and Galaxy A72 ($749) smartphones on Thursday morning.'The Galaxy A series has innovations for all, but especially for spontaneous, social-savvy creatives who are looking for fun and freedom, as they love to express and share their passions with their world,' Samsung senior vice president Stephanie Choi said.
+
+
+***
+![HACKATHON ANNOUNCEMENT! Golem + Gitcoin GR9 Hackathon, up to 30k USDC in prizes and no blockchain experience required](https://external-preview.redd.it/u-cRcr_T20lWs7FPmNLdBdJgA4Wykdre1JWhDcxQN6o.jpg?auto=webp&s=452e7e1053f833528aade022b4318ab43a9a5ed3 "HACKATHON ANNOUNCEMENT! Golem + Gitcoin GR9 Hackathon, up to 30k USDC in prizes and no blockchain experience required")
+
+
+[HACKATHON ANNOUNCEMENT! Golem + Gitcoin GR9 Hackathon, up to 30k USDC in prizes and no blockchain experience required](https://www.reddit.com/r/programming/comments/m712ao/hackathon_announcement_golem_gitcoin_gr9/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Samsung's cheap and colorful Galaxy A52, A52 5G, and A72 phones are here](https://img.dtcn.com/image/digitaltrends/galaxy-a72-purple-1200x630-c-ar1.91.jpg "Samsung's cheap and colorful Galaxy A52, A52 5G, and A72 phones are here")
+
+
+[Samsung's cheap and colorful Galaxy A52, A52 5G, and A72 phones are here](https://www.digitaltrends.com/mobile/samsung-galaxy-a52-5g-a72-news/)
+
+
+> Samsung's not satisfied with only launching the new Galaxy S21, Galaxy S21+, and S21 Ultra during the first half of the year, and has announced the new Galaxy A52, Galaxy A52 5G, and Galaxy A72 to join them. However, unlike the expensive flagship S-series, the A-series phones are much cheaper but according to the company, they're still awesome. Trending in Mobile: What is 5G? Best 5G Phones 5G Coverage Map Samsung Galaxy A72 You're going to hear the word 'awesome' a lot when the new A-series is being talked about, as it's everywhere in Samsung's promo material.
+
+
