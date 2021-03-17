@@ -45015,3 +45015,53 @@
 > Samsung's not satisfied with only launching the new Galaxy S21, Galaxy S21+, and S21 Ultra during the first half of the year, and has announced the new Galaxy A52, Galaxy A52 5G, and Galaxy A72 to join them. However, unlike the expensive flagship S-series, the A-series phones are much cheaper but according to the company, they're still awesome. Trending in Mobile: What is 5G? Best 5G Phones 5G Coverage Map Samsung Galaxy A72 You're going to hear the word 'awesome' a lot when the new A-series is being talked about, as it's everywhere in Samsung's promo material.
 
 
+***
+![Pre-embryos made in lab could spur research, ethics debates](null "Pre-embryos made in lab could spur research, ethics debates")
+
+
+[Pre-embryos made in lab could spur research, ethics debates](https://abcnews.go.com/Technology/wireStory/pre-embryos-made-lab-spur-research-ethics-debates-76512631)
+
+
+> WASHINGTON -- For the first time, scientists have used human cells to make structures that mimic the earliest stages of development, which they say will pave the way for more research without running afoul of restrictions on using real embryos.Two papers published Wednesday in the journal Nature detail how two teams of scientists independently made such structures.They stressed that their work is only for research, not reproduction, but it likely will pose new ethical questions.'Studying early human development is really difficult.
+
+
+***
+![The best Google Nest products of 2021](https://cdn57.androidauthority.net/wp-content/uploads/2020/10/Google-Nest-Audio-AA-10-of-10-920x470.jpg "The best Google Nest products of 2021")
+
+
+[The best Google Nest products of 2021](https://www.androidauthority.com/best-google-nest-products-1208215/)
+
+
+> Nest Labs joined Google back in 2014, and its products have become integral parts of many smart homes. From speakers and displays to thermostats, almost everything Google offers now bears the Nest name. Some of the company's offerings are absolute must-haves for any smart home, and we're here to play favorites. Here are the best Google Nest products you can buy right now.See also: The best Google Assistant devices to spend your money onWe've done our best to cover the full range of options. You may know Nest best for its thermostats, they're only the tip of the iceberg.
+
+
+***
+![T-Mobile Customers Get Exclusive Pandora Content Next Week for Free](https://www.droid-life.com/wp-content/uploads/2020/10/T-Mobile-Logo-980x632.png "T-Mobile Customers Get Exclusive Pandora Content Next Week for Free")
+
+
+[T-Mobile Customers Get Exclusive Pandora Content Next Week for Free](https://www.droid-life.com/2021/03/17/t-mobile-customers-get-exclusive-pandora-content-next-week-for-free/)
+
+
+> Next week’s T-Mobile Tuesday is noteworthy. No, it’s not free pizza, but it is free tunes courtesy of Pandora and SiriusXM. Announced today, on March 23, all eligible T-Mobile customers will receive access to an, “enhanced Pandora streaming experience with unprecedented listener benefits, curated just for T-Mobile users.” What does that mean, exactly? It means … Continued Read the original post: T-Mobile Customers Get Exclusive Pandora Content Next Week for Free
+
+
+***
+![Best elliptical machine 2021: Get indoor exercise a gentler way](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155894-gadgets-news-buyer-s-guide-best-elliptical-2021-get-indoor-exercise-a-gentler-way-image1-rjfystxkqn.jpg "Best elliptical machine 2021: Get indoor exercise a gentler way")
+
+
+[Best elliptical machine 2021: Get indoor exercise a gentler way](https://www.pocket-lint.com/gadgets/buyers-guides/155894-best-elliptical)
+
+
+> (Pocket-lint) - Ellipticals are really great exercise machines that can look a bit more intimidating than they actually are. They're machines that use your own momentum to help you keep moving, and they're also a bit gentler on your joints than something like a treadmill.They're a great option, then, if you want to pick up a machine to help you get in shape from home. Shopping for one can be a bit of a challenge, though, which is why we've gathered some of the very best options out there right here for you to compare.
+
+
+***
+![SPIE Photonics West Digital Forum Showcases Best of Optics, Photonics, Quantum, Biomedical Technologies in Applications and Research](https://mms.businesswire.com/media/20210317005651/en/865566/23/PW-920.jpg "SPIE Photonics West Digital Forum Showcases Best of Optics, Photonics, Quantum, Biomedical Technologies in Applications and Research")
+
+
+[SPIE Photonics West Digital Forum Showcases Best of Optics, Photonics, Quantum, Biomedical Technologies in Applications and Research](https://www.businesswire.com/news/home/20210317005651/en/SPIE-Photonics-West-Digital-Forum-Showcases-Best-of-Optics-Photonics-Quantum-Biomedical-Technologies-in-Applications-and-Research)
+
+
+> March 17, 2021 12:08 PM Eastern Daylight Time BELLINGHAM, Wash.--(BUSINESS WIRE)--SPIE, the international society for optics and photonics, welcomed an engaged global audience to its SPIE Photonics West Digital Forum 6-11 March with 8,000 registered attendees. Across the highly regarded BiOS, LASE, and OPTO symposia, as well as the new industry-focused Quantum West conference, SPIE Photonics West showcased more than 20 plenary speakers, including Ursula Keller, Gérard Mourou, Susumu Noda, Satoshi Kako, Kohji Mitani, Sheila Nirenberg, Laura Fabris, and Yeka Aponte.
+
+
