@@ -45159,3 +45159,50 @@
 > Sam Altman: AI will drive a new tech revolution, applying Moore's law to everything; to rebalance the newly-created wealth, society should favor taxing capital over labor — My work at OpenAI reminds me every day about the magnitude of the socioeconomic change that is coming sooner than most people believe.
 
 
+***
+![Polls show Brazil's Bolsonaro faces record disapproval, pressure from Lula](https://static.reuters.com/resources/r/?m=02&d=20210317&t=2&i=1555266010&r=LYNXMPEH2G1QQ&w=800 "Polls show Brazil's Bolsonaro faces record disapproval, pressure from Lula")
+
+
+[Polls show Brazil's Bolsonaro faces record disapproval, pressure from Lula](https://www.reuters.com/article/us-brazil-politics-bolsonaro-idUSKBN2B9317)
+
+
+> By Reuters StaffFILE PHOTO: Brazilian President Jair Bolsonaro speaks during a ceremony at Planalto Palace in Brasilia, Brazil, February 23, 2021. REUTERS/Ueslei MarcelinoSAO PAULO (Reuters) - Brazilians' disapproval of President Jair Bolsonaro's handling of the COVID-19 crisis is at a record high and he may face a tough campaign for re-election next year, according to new polls, as Brazil struggles with its worst pandemic surge yet.A Datafolha survey, released late on Tuesday, showed 54% of Brazilians regard Bolsonaro's handling of the crisis as bad or awful.
+
+
+***
+[Sources: faster iPads Pros may come as early as April with better cameras; Apple aims to use MiniLED on at least the 12.9" model, has tested using Thunderbolt (Mark Gurman/Bloomberg)](http://www.techmeme.com/210317/p44#a210317p44)
+
+
+> Mark Gurman / Bloomberg: Sources: faster iPads Pros may come as early as April with better cameras; Apple aims to use MiniLED on at least the 12.9" model, has tested using Thunderbolt — - Company plans updated iPad Pro line with faster processor — Apple's iPad sales have jumped in work-from-home environment
+
+
+***
+![Sony is giving you these 10 PS4 and PS5 games – for free](https://cdn.mos.cms.futurecdn.net/SmCgqDZbb9GFsQpwwnsyLo-1200-80.jpg "Sony is giving you these 10 PS4 and PS5 games – for free")
+
+
+[Sony is giving you these 10 PS4 and PS5 games – for free](https://www.techradar.com/news/sony-is-giving-you-these-10-ps4-and-ps5-games-for-free)
+
+
+> (Image credit: Guerrilla Games) Sony is giving away a bunch of new titles for free starting on March 25 for its Play at Home 2021 event that began earlier this month with a free copy of Ratchet & Clank. Now, Sony says it will give away another 10 games for PS4, PS5 and PlayStation VR, including the award-winning Horizon Zero Dawn Complete Edition.The first batch of free PS4 games up for grabs are Abzu, Enter the Gungeon, Rez Infinite, Subnautica and The Witness, while PSVR owners can get copies of Astro Bot Rescue Mission, Moss, Thumper and Paper Beast from March 25 at 11pm EDT (8am PDT, 3am GMT) to April 22 at 11pm (8pm PDT, 3am GMT).
+
+
+***
+![Why Banks Need APM?](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/blog-header-images-copy_-_copy_2.jpg "Why Banks Need APM?")
+
+
+[Why Banks Need APM?](https://www.benzinga.com/21/03/20225041/why-banks-need-apm)
+
+
+> APM: The go-to solution for BFSI The banking industry is based heavily on business-critical customer-facing applications, many of which are available on a mobile platform. Clients expect these programs to have negligible downtime. The banking industry has been way ahead in embracing DevOps practices, as it needs to deliver user experiences that go beyond their expectations. Specifically, many banks have focused on executing a process to obtain regular feedback from continuous application performance monitoring tools.
+
+
+***
+![CORRECTING and REPLACING PagerDuty Announces Fourth Quarter and Full Year Results for Fiscal 2021](https://mms.businesswire.com/media/20210317005795/en/774630/23/PagerDuty_logo.jpg "CORRECTING and REPLACING PagerDuty Announces Fourth Quarter and Full Year Results for Fiscal 2021")
+
+
+[CORRECTING and REPLACING PagerDuty Announces Fourth Quarter and Full Year Results for Fiscal 2021](https://www.businesswire.com/news/home/20210317005795/en/CORRECTING-and-REPLACING-PagerDuty-Announces-Fourth-Quarter-and-Full-Year-Results-for-Fiscal-2021)
+
+
+> March 17, 2021 05:57 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--In the Financial Outlook section, two instances of "2021" should read: "2022" The updated release reads: PAGERDUTY ANNOUNCES FOURTH QUARTER AND FULL YEAR RESULTS FOR FISCAL 2021 Fourth quarter revenue growth accelerated to 29% year-over-year to a record $59 million Fourth quarter total Dollar-Based Net Retention accelerated sequentially to 121% Digital Operations offering doubled year-over-year to power digital transformations $10 million of full year positive operating cash flow PagerDuty, Inc.
+
+
