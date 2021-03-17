@@ -44918,3 +44918,50 @@
 > With a 1-0 win in the away leg, Chelsea of the Premier League now host current La Liga frontrunners Atlético Madrid. Can Atleti turn things around in London? Don't miss a moment with our Chelsea vs Atlético Madrid live stream guide. Source: Android Central In their last meeting, Chelsea secured a narrow 1-0 win which gives them not only an aggregate lead but an away goal advantage as they try to book their spot in the Champions League quarter-finals. It was a tight game last time out with relatively few chances for either side.
 
 
+***
+![GoPro Quik app for smartphones relaunched with new features](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/GoPro-Hero-9-Pavni-6-647x363.jpeg?a3i08dGkudG5N0uvP89f7GAXAgHufEol "GoPro Quik app for smartphones relaunched with new features")
+
+
+[GoPro Quik app for smartphones relaunched with new features](https://www.indiatoday.in/technology/news/story/gopro-quik-app-for-smartphones-relaunched-with-new-features-1780384-2021-03-17)
+
+
+> GoPro had an app by the same name for smartphone users. Through this app, users were able to remote control their GoPro camera and transfer data. Now, the company has modernized the app with big updates. The first one being the name of the app which is now called GoPro Quik Video + Photo Editor. With the new version of the app comes a boatload of features such as Mural, some video editing tools, Quik-exclusive filters, GoPro original music and more.Speaking of Mural, it is an interactive feature where users can revisit their favourite photos and videos.
+
+
+***
+![Making lunch faster with Python concurrency](https://external-preview.redd.it/9n6cz8frbVWpoYPcqdw8Pu6YoLpdDLS9iLE2ldDJD2Q.jpg?auto=webp&s=fb7f31ad5abf68f95ae2055b17c2ca4f7422418c "Making lunch faster with Python concurrency")
+
+
+[Making lunch faster with Python concurrency](https://www.reddit.com/r/Python/comments/m6ywfb/making_lunch_faster_with_python_concurrency/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Apple says it has generated 1.2 GW of clean energy and removed an average of 921K metric tons of carbon emissions annually, as part of its $4.7B Green Bond (Sami Fathi/MacRumors)](http://www.techmeme.com/210317/p10#a210317p10)
+
+
+> Sami Fathi / MacRumors: Apple says it has generated 1.2 GW of clean energy and removed an average of 921K metric tons of carbon emissions annually, as part of its $4.7B Green Bond — In a press release today, Apple touted the significant progress it has made as part of its $4.7 billion Green Bond.
+
+
+***
+![Vulcan Cyber raises $21M Series B for its risk-based vulnerability remediation platform – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/Vulcan-Team-Photo-1.jpg?w=639 "Vulcan Cyber raises $21M Series B for its risk-based vulnerability remediation platform – TechCrunch")
+
+
+[Vulcan Cyber raises $21M Series B for its risk-based vulnerability remediation platform – TechCrunch](https://techcrunch.com/2021/03/17/vulcan-cyber-raises-21m-series-b-for-its-vulnerability-remediation-platform/)
+
+
+> Tel Aviv-based Vulcan Cyber, a cybersecurity startup that helps businesses prioritize and fix security vulnerabilities, today announced that it has raised a $21 million Series B funding round led by Dawn Capital. Wipro Ventures and existing investors YL Ventures and Ten Eleven Ventures also participated in this round. The company says it will use the new funding to roll out new remediation solutions and launch a free risk-based vulnerability management platform under the Vulcan Free monicker. With this new round, Vulcan Cyber's total funding to date is now $35 million.
+
+
+***
+![Apple Spring Event 2021 – new gadgets coming in April NOT March, leakers reveal](https://www.thesun.co.uk/wp-content/uploads/2021/02/timcook.png?strip=all&quality=100&w=1200&h=800&crop=1 "Apple Spring Event 2021 – new gadgets coming in April NOT March, leakers reveal")
+
+
+[Apple Spring Event 2021 – new gadgets coming in April NOT March, leakers reveal](https://www.thesun.co.uk/tech/14161393/apple-spring-event-march-2021-date-ipad-airpods-airtags/)
+
+
+> APPLE may be preparing to unleash a flurry of new gadgets in a matter of days A top-secret Apple launch event has been rumoured, and we've got all the details. Apple chief Tim Cook is a regular speaker at product launch eventsCredit: Apple What is the Apple Spring Event 2021? Apple regularly hosts special events in the spring. It's usually a chance to showcase products that aren't the flagship iPhone. This includes spin-off iPhones, iPads or accessories. Apple hasn't confirmed an event for 2021, but rumours suggest one will take place nonetheless.
+
+
