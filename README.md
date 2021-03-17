@@ -45112,3 +45112,50 @@
 > 5:58PM Thanks, as always, for reading. We'll be back with you tomorrow. 5:27PM Mark Zuckerberg has long touted Facebook Groups as the future of the social network - communities dedicated to a topic or place, away from the angry algorithmically-driven posts on the news feed. But it is fair to say this hasn't gone so well: groups have often allowed users to coalesce around conspiracy theories, or the "Stop the Steal" movement, or illegal raves. In other words, groups risk linking the wrong people, as well as the right ones.
 
 
+***
+![Techland released an update video for Dying Light 2 with new in-engine footage](https://www.dsogaming.com/wp-content/uploads/2019/06/Dying-Light-2-new-1.jpg "Techland released an update video for Dying Light 2 with new in-engine footage")
+
+
+[Techland released an update video for Dying Light 2 with new in-engine footage](https://www.dsogaming.com/news/techland-released-an-update-video-for-dying-light-2-with-new-in-engine-footage/)
+
+
+> As promised, Techland released a development update video for Dying Light 2. However, and as we predicted, the team did not reveal anything meaningful. Instead, it is asking its fans to trust them, and that it will be talking about it soon.At the end of this update video, the team shared some new in-engine footage. This is a teaser of a future gameplay video/trailer that will most likely come out in a few months.Seriously, this dev update was a bit meaningless. The team did not address the game's development hell rumors.
+
+
+***
+![The best laptops under $500 for 2021](https://img.dtcn.com/image/digitaltrends/lenovo-chromebook-flex-5-feature-1200x630-c-ar1.91-s.jpg "The best laptops under $500 for 2021")
+
+
+[The best laptops under $500 for 2021](https://www.digitaltrends.com/computing/best-laptops-under-500/)
+
+
+> The best laptop under $500 is the Lenovo Chromebook Flex 5. Laptops at this price point often make significant compromises, whether in performance, screen quality, or battery life. The Lenovo Chromebook Flex 5, though, manages to have almost everything you'd want in a modern laptop at an impressive price discount (and don't forget Black Friday deals — maybe you can even score an additional discount as part of Black Friday laptop deals). That is — as long as you're OK with a Chromebook. Beyond that, we've also made selections for best Windows laptop under $500, best 2-in-1 under $500, the best laptop under $300, and more.
+
+
+***
+![All about micro interactions by Thatcher Snyder](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "All about micro interactions by Thatcher Snyder")
+
+
+[All about micro interactions by Thatcher Snyder](https://www.reddit.com/r/programming/comments/m793u8/all_about_micro_interactions_by_thatcher_snyder/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Leaked code all but confirms that new M-series iMacs could launch soon](https://img.dtcn.com/image/digitaltrends/imac-g4-xhakomo-doda-1-1200x630-c-ar1.91.jpg "Leaked code all but confirms that new M-series iMacs could launch soon")
+
+
+[Leaked code all but confirms that new M-series iMacs could launch soon](https://www.digitaltrends.com/computing/apple-arm-imac-apepars-in-xcode-crash-log/)
+
+
+> An unreleased Apple iMac with an M-series processor could already be in the wild somewhere on the desk of a developer. Screenshots circulating crash code from Apple's Xcode integrated development environment were recently obtained by 9to5Mac and point to the existence of an ARM-based iMac. This is best to be taken lightly, but a new iMac has been long-rumored for a launch sometime in 2021. Some reports have also been pointing to a redesigned model with a flat back, new colors, and thinner bezels.
+
+
+***
+[AI will drive a new tech revolution, applying Moore's law to everything; to rebalance the newly-created wealth, society should favor taxing capital over labor (Sam Altman)](http://www.techmeme.com/210317/p41#a210317p41)
+
+
+> Sam Altman: AI will drive a new tech revolution, applying Moore's law to everything; to rebalance the newly-created wealth, society should favor taxing capital over labor — My work at OpenAI reminds me every day about the magnitude of the socioeconomic change that is coming sooner than most people believe.
+
+
