@@ -44818,3 +44818,53 @@
 > Honda Motor Co said late Tuesday supply chain issues will force a halt to production at a majority of US and Canadian auto plants for a week.The Japanese automaker added the issue will result in some production cuts next week at all US and Canadian plants, citing "the impact from COVID-19, congestion at various ports, the microchip shortage and severe winter weather over the past several weeks.""In some way, all of our auto plants in the US and Canada will be impacted," Honda said.Some US and Canadian plants are expected to have smaller production cuts next week, but a spokesman for Honda added "the timing and length of production adjustments could change.
 
 
+***
+![Claim a free pair of £129 AKG Y500 Wireless headphones with the Samsung Galaxy Book S from Currys](https://cdn.mos.cms.futurecdn.net/WuxpNRAP4aaKkCD5sue48j-1200-80.jpg "Claim a free pair of £129 AKG Y500 Wireless headphones with the Samsung Galaxy Book S from Currys")
+
+
+[Claim a free pair of £129 AKG Y500 Wireless headphones with the Samsung Galaxy Book S from Currys](https://www.techradar.com/news/claim-a-free-pair-of-pound129-akg-y500-wireless-headphones-with-the-samsung-galaxy-book-s-from-currys)
+
+
+> (Image credit: Samsung) We have a hot deal to tell you about. Buy a Samsung Galaxy Book S Windows laptop before March 23 and you can claim a pair of AKG Y500 Wireless headphones worth £129. These are incredible headphones too, rated five stars out of five by What Hi-Fi.You can buy the Samsung Galaxy Book S today starting from £949 at Currys. Several other Samsung Galaxy Book series laptops are part of this offer too, including the high-end Galaxy Book Ion and the convertible Galaxy Book Flex.But today we're going to focus on the Galaxy Book S, because for many it is the perfect sub-£1000 portable lifestyle computer.
+
+
+***
+![Nigeria's Plentywaka gets backing from Techstars, plans expansion to Canada – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/Plentywaka-Founders-Techstars-Announcement.jpg?w=544 "Nigeria's Plentywaka gets backing from Techstars, plans expansion to Canada – TechCrunch")
+
+
+[Nigeria's Plentywaka gets backing from Techstars, plans expansion to Canada – TechCrunch](https://techcrunch.com/2021/03/17/nigerias-plentywaka-gets-backing-from-techstars-plans-expansion-to-canada/)
+
+
+> Plentywaka, a Nigerian bus-booking platform, today announced that it has been accepted into the Techstars Toronto accelerator program. It will join nine other startups in the class of 2021 and secure funding from the accelerator as it sets its sights on global expansion. The Lagos-based company, founded by Onyeka Akumah, Johnny Ena, John Shaibu and Afolabi Oluseyi, operates an ‘Uber-for-buses' model connecting commuters with buses via an app. Plentywaka launched in September 2019, and in the first two months, moved an average of six people daily, according to CEO Akumah.
+
+
+***
+![Nexign and MegaFon Introduced the Unified Billing to Facilitate Digital Transformation](https://mms.businesswire.com/media/20210317005340/en/865546/23/Logo_Nexign_Green.jpg "Nexign and MegaFon Introduced the Unified Billing to Facilitate Digital Transformation")
+
+
+[Nexign and MegaFon Introduced the Unified Billing to Facilitate Digital Transformation](https://www.businesswire.com/news/home/20210317005340/en/Nexign-and-MegaFon-Introduced-the-Unified-Billing-to-Facilitate-Digital-Transformation)
+
+
+> March 17, 2021 04:00 AM Eastern Daylight Time SAINT PETERSBURG, Russia--(BUSINESS WIRE)--Nexign (a part of ICS Holding LLC), a leading Business Support System (BSS) and Internet of Things (IoT) solutions provider, and MegaFon, the pan-Russian operator of digital opportunities, have completed the project of unifying billing systems for all 8 MegaFon's subsidiaries on a single BSS platform. The companies also migrated subscriber data to the new environment with no impact on customers. The need to go beyond classical telecom services pushed MegaFon to transform the billing core and develop a unified billing system in order to facilitate digital transformation.
+
+
+***
+![Intel launches 11th generation Rocket Lake desktop processors](https://assets2.rappler.com/2021/03/Intel-11th_Gen-Core-desktop-7-1615966645258.jpeg "Intel launches 11th generation Rocket Lake desktop processors")
+
+
+[Intel launches 11th generation Rocket Lake desktop processors](https://www.rappler.com/technology/gadgets/intel-11th-generation-rocket-lake-desktop-processors)
+
+
+> Intel on Wednesday, March 17, announced the launch of its 11th generation of desktop processors, nicknamed Rocket Lake. Intel boasts of up to 19% generation-over-generation IPC (instructions per cycle/clock) performance improvements, as well as 50% better integrated graphics performance. Additionally, the Rocket Lake processors have enhanced overclocking tools and features to allow advanced users to tune their experience accordingly. Among the offerings is the flagship i9-11900K, which is priced at $539 and can offer up to 5.
+
+
+***
+![3 laws](https://external-preview.redd.it/fC1PnwM0nw4bgw3dpVn2z3ybOB0MjckBDQEJ1v6XxaE.jpg?auto=webp&s=d1abff5b78a6e328c4a2c6325082acd0bb716c61 "3 laws")
+
+
+[3 laws](https://www.reddit.com/r/programming/comments/m6v6wk/3_laws/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
