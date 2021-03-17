@@ -44624,3 +44624,53 @@
 > Riot Games says that an investigation into the sexual harassment and gender discrimination allegations against CEO Nicolo Laurent found no evidence that he acted inappropriately with his former executive assistant. The Santa Monica-based League of Legends developer was served with a lawsuit from Sharon O'Donnell in January alleging that Riot Games and Laurent created a hostile work environment in violation of the California Labor Code and Fair Employment and Housing Act "based on alleged sexual discrimination, harassment, and retaliation.
 
 
+***
+![Uber to give UK drivers minimum wage, pension, holiday pay](https://s.abcnews.com/images/Technology/WireAP_c4e651ac33114e0bb5a18ed08dc49838_16x9_992.jpg "Uber to give UK drivers minimum wage, pension, holiday pay")
+
+
+[Uber to give UK drivers minimum wage, pension, holiday pay](https://abcnews.go.com/Technology/wireStory/uber-give-uk-drivers-minimum-wage-pension-holiday-76499935)
+
+
+> Uber is giving its U.K. drivers the minimum wage, pensions and holiday pay, following a recent court ruling that said they should be classified as workers and entitled to such benefitsLONDON -- Uber is giving its U.K. drivers the minimum wage, pensions and holiday pay, following a recent court ruling that said they should be classified as workers and entitled to such benefits.The ride hailing giant's announcement Tuesday comes after it lost an appeal last month at the U.K. Supreme Court following a yearslong court battle.
+
+
+***
+![Teen who hacked Joe Biden and Bill Gates' Twitter accounts sentenced to three years in prison](https://i.guim.co.uk/img/media/8f085b0cf01c1ec03ec47be419fb89596290c29d/0_142_5154_3093/master/5154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8abd457b31600aefe83b24e11839f19 "Teen who hacked Joe Biden and Bill Gates' Twitter accounts sentenced to three years in prison")
+
+
+[Teen who hacked Joe Biden and Bill Gates' Twitter accounts sentenced to three years in prison](http://www.theguardian.com/technology/2021/mar/16/florida-teen-sentenced-twitter-bitcoin-hack)
+
+
+> An 18-year-old hacker who pulled off a massive heist in 2020, infiltrating several high profile Twitter accounts to solicit bitcoin transactions, has agreed to serve three years in prison for his actions.Graham Ivan Clark, of Florida, was 17 years old at the time of the hack in July, during which he took over a number of major accounts including those of Joe Biden, Bill Gates and Kim Kardashian West.Once he accessed them, Clark tweeted a link to a bitcoin address and wrote 'all bitcoin sent to our address below will be sent back to you doubled!' According to court documents, Clark made more than $100,000 from the scheme, which his lawyers say he has since returned.
+
+
+***
+![Google fails to neutralize lawsuit that claims Chrome's incognito mode isn't very private at all](https://regmedia.co.uk/2021/03/16/incognito.jpg "Google fails to neutralize lawsuit that claims Chrome's incognito mode isn't very private at all")
+
+
+[Google fails to neutralize lawsuit that claims Chrome's incognito mode isn't very private at all](https://www.theregister.com/2021/03/17/google_incognito_lawsuit/)
+
+
+> Netziens who say Google continued to track them around the web even when using Chrome's incognito mode can proceed with their privacy lawsuit against the internet giant, a judge has ruled. The decision by Judge Lucy Koh, based in a San Jose federal district court just up the road from Google HQ, once again sees the internet titan and its data-snaffling policies under the microscope. Specifically, the judge denied Google's motion to dismiss the class-action-seeking lawsuit, stating: 'The court concludes that Google did not notify users that Google engages in the alleged data collection while the user is in private browsing mode.
+
+
+***
+![Anyone know why this website isn't working and/or a workaround to access it?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Anyone know why this website isn't working and/or a workaround to access it?")
+
+
+[Anyone know why this website isn't working and/or a workaround to access it?](https://www.reddit.com/r/programming/comments/m6n8v5/anyone_know_why_this_website_isnt_working_andor_a/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Fortnite Chapter 2 Season 6 LATEST – Neymar and Lara Croft join in update as new maps, weapons and wildlife added](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/03/COMPS-DD-FORTNITE.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Fortnite Chapter 2 Season 6 LATEST – Neymar and Lara Croft join in update as new maps, weapons and wildlife added")
+
+
+[Fortnite Chapter 2 Season 6 LATEST – Neymar and Lara Croft join in update as new maps, weapons and wildlife added](https://www.thesun.co.uk/tech/14354803/fortnite-season-6-live-chapter-2-new-map-latest/)
+
+
+> FORT-FULL 17 Mar 2021, 0:07Updated: 17 Mar 2021, 0:07FORTNITE Chapter 2 Season 6 went live today in a major new update to the huge gaming series featuring Lara Croft and footballer star Neymar. New patch notes, maps, weapons and wildlife are all included in the update which Fortnite fans are going to love exploring over the coming weeks and months. But first things first - you'll need to download and install the Fortnite update to enjoy the new goodies on offer. Describing the update, Epic Games said: "When you first launch into the new season, you'll play through the conclusion of Agent Jones' mission in the Zero Crisis Finale.
+
+
