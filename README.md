@@ -44674,3 +44674,53 @@
 > FORT-FULL 17 Mar 2021, 0:07Updated: 17 Mar 2021, 0:07FORTNITE Chapter 2 Season 6 went live today in a major new update to the huge gaming series featuring Lara Croft and footballer star Neymar. New patch notes, maps, weapons and wildlife are all included in the update which Fortnite fans are going to love exploring over the coming weeks and months. But first things first - you'll need to download and install the Fortnite update to enjoy the new goodies on offer. Describing the update, Epic Games said: "When you first launch into the new season, you'll play through the conclusion of Agent Jones' mission in the Zero Crisis Finale.
 
 
+***
+![Built a simple image compression app using PyQt5 to reduce image file size (the image compression engine is based on TinyPNG API)](https://external-preview.redd.it/vblsd7AAv5COJjWYrgoVkXyrtSN0NLs4mjCey3rt9qg.jpg?auto=webp&s=31abe4b7cd2506e49d0e87cf4e3f6c5e7b70690b "Built a simple image compression app using PyQt5 to reduce image file size (the image compression engine is based on TinyPNG API)")
+
+
+[Built a simple image compression app using PyQt5 to reduce image file size (the image compression engine is based on TinyPNG API)](https://www.reddit.com/r/Python/comments/m6pr65/built_a_simple_image_compression_app_using_pyqt5/)
+
+
+> This is something I built as a proof of concept for my local WordPress group. Image files take a chunk of the hosting storage and I am hoping this tool would be at least somewhat useful. I documented the process as a tutorial video here: https://youtu.be/PBDPMdAwbe4
+
+
+***
+![LastPass scaling back free tier. Find out if you need to pay](https://img.dtcn.com/image/digitaltrends/lp-auth-lifestyle-2016-1500-1200x630-c-ar1.91-nw.jpg "LastPass scaling back free tier. Find out if you need to pay")
+
+
+[LastPass scaling back free tier. Find out if you need to pay](https://www.digitaltrends.com/computing/lastpass-to-tweak-free-tier-find-out-if-youll-need-to-pay/)
+
+
+> LastPass currently offers a free tier that lets a single user access its password manager service on all their mobile devices and computers. But that's about to change. Starting March 16, the company will limit its free tier to only one device type, either mobile or computer. So if you select to keep the free tier for mobile, you'll be asked to pay a fee to continue using the service on computers, and vice versa. Trending in Mobile: What is 5G? Best 5G Phones 5G Coverage Map LastPass defines 'mobile' as mobile phones, smartwatches, and tablets, and 'computers' as desktops and laptops.
+
+
+***
+![Unironically Using Kubernetes for my Blog](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Unironically Using Kubernetes for my Blog")
+
+
+[Unironically Using Kubernetes for my Blog](https://www.reddit.com/r/programming/comments/m6pfsg/unironically_using_kubernetes_for_my_blog/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Dire warning: ‘Huge' new deluge on way](https://cdn.newsapi.com.au/image/v1/4a95aa8a74747c003275115f88aa5432?width=1280 "Dire warning: ‘Huge' new deluge on way")
+
+
+[Dire warning: ‘Huge' new deluge on way](https://www.news.com.au/technology/environment/fresh-band-of-moisture-set-to-bring-huge-amounts-of-rain-to-east/news-story/0598fac659033739b42c001f14571ec3)
+
+
+> Huge areas of the east are already sodden with warnings of flash flooding in place for parts of central Queensland. Now forecasters have warned a second band of heavy rain is creeping from west to east across the country that could extend the deluge and deliver more flooding in the week to come.Some locations could see three times' March's rainfall descend in just a few days. It's almost certain that most parts of the NSW coast and into southern Queensland will at least surpass their average monthly rain in the coming week.
+
+
+***
+![Canada asks court to dismiss two of Huawei CFO Meng's arguments in extradition case](https://i-invdn-com.akamaized.net/news/LYNXNPEB7G0X5_L.jpg "Canada asks court to dismiss two of Huawei CFO Meng's arguments in extradition case")
+
+
+[Canada asks court to dismiss two of Huawei CFO Meng's arguments in extradition case](https://www.investing.com/news/technology-news/canada-asks-court-to-dismiss-two-of-huawei-cfo-mengs-arguments-in-extradition-case-2448817)
+
+
+> © Reuters. FILE PHOTO: Huawei Technologies Chief Financial Officer Meng Wanzhou leaves court on a break in Vancouver By Moira Warburton VANCOUVER (Reuters) - Canada has called for two of Huawei Chief Financial Officer Meng Wanzhou's main arguments in her fight against U.S. extradition to be dismissed, saying her claims are not backed with evidence and one issue has been ruled on, court documents released on Tuesday showed. Meng, 49, was arrested at Vancouver International Airport in December 2018 on a warrant from the United States, where she faces charges of bank fraud for allegedly misleading HSBC about Huawei's business dealings in Iran, causing the bank to break U.
+
+
