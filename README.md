@@ -45065,3 +45065,50 @@
 > March 17, 2021 12:08 PM Eastern Daylight Time BELLINGHAM, Wash.--(BUSINESS WIRE)--SPIE, the international society for optics and photonics, welcomed an engaged global audience to its SPIE Photonics West Digital Forum 6-11 March with 8,000 registered attendees. Across the highly regarded BiOS, LASE, and OPTO symposia, as well as the new industry-focused Quantum West conference, SPIE Photonics West showcased more than 20 plenary speakers, including Ursula Keller, Gérard Mourou, Susumu Noda, Satoshi Kako, Kohji Mitani, Sheila Nirenberg, Laura Fabris, and Yeka Aponte.
 
 
+***
+[FCC fines two Texas-based telemarketers a record $225M for making around 1B automated robocalls in 2019 (Kif Leswing/CNBC)](http://www.techmeme.com/210317/p35#a210317p35)
+
+
+> Kif Leswing / CNBC: FCC fines two Texas-based telemarketers a record $225M for making around 1B automated robocalls in 2019 — - The Federal Communications Commission fined two Texas-based telemarketers $225 million on Wednesday for making automated sales phone calls, or robocalls, in 2019.
+
+
+***
+![Undo typing in Notes](https://images.macrumors.com/social/?t=2288660&v=6 "Undo typing in Notes")
+
+
+[Undo typing in Notes](https://forums.macrumors.com/threads/undo-typing-in-notes.2288660/)
+
+
+> May 14, 2008 1,578 510 UK Where has the undo/redo/fonts bar gone from the top of the keyboard? I found an undo feature undo pencil, this is a pain having to open that to undo. And the 'shake' feature is just bloomin ridiculous.....oh yeah I'm gonna pick up a 12.9" iPad whenever I need to undo...😠
+
+
+***
+![These are all the confirmed Pokémon for Pokémon Legends: Arceus](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/pokemon-legends-arceus-player-and-bidoof.jpg "These are all the confirmed Pokémon for Pokémon Legends: Arceus")
+
+
+[These are all the confirmed Pokémon for Pokémon Legends: Arceus](https://www.imore.com/pokemon-legends-arceus-all-confirmed-pokemon)
+
+
+> Source: The Pokemon Company The open-world Pokémon RPG that so many of us have wanted for so long is finally being made in the form of Pokémon Legends: Arceus. Players will explore a feudal Sinnoh region and are given the objective of completing the first-ever Pokédex. Game Freak has currently created 893 official Pokémon from various Pokémon games, but not all of them will be in Pokémon Legends: Arceus. So, which ones can you catch? We've been hard at work scouring through official videos, images, and promos to see which Pokémon are actually in the game.
+
+
+***
+![RTX 3060, RTX 3060 Ti, and RX 6900 XT available on Newegg Shuffle](https://cdn.mos.cms.futurecdn.net/wEW5e9Cn7XVsfWPbSHgDy6-1200-80.jpg "RTX 3060, RTX 3060 Ti, and RX 6900 XT available on Newegg Shuffle")
+
+
+[RTX 3060, RTX 3060 Ti, and RX 6900 XT available on Newegg Shuffle](https://www.techradar.com/news/rtx-3060-rtx-3060-ti-and-rx-6900-xt-available-on-newegg-shuffle)
+
+
+> (Image credit: AMD) Newegg is keeping the streak going with their third Shuffle event in as many days, this time offering RTX 3060, RTX 3060 Ti, and RX 6900 XT graphics cards on March 17, from 1pm to 4pm EDT.Check out the latest offerings from Newegg Shuffle hereThe way Newegg Shuffle works is you sign up for a Newegg account and during the event window, you select the items you want and simply click the button marked "Enter the Shuffle." When the event window closes, in about an hour, winning accounts will be drawn from the list for each item and the winners notified at the email associated with the account.
+
+
+***
+![Samsung unveils A52 5G and A72 Galaxy smartphones](https://img.youtube.com/vi/admxiZk0xR0/maxresdefault.jpg "Samsung unveils A52 5G and A72 Galaxy smartphones")
+
+
+[Samsung unveils A52 5G and A72 Galaxy smartphones](https://www.telegraph.co.uk/technology/2021/03/17/samsung-raises-alarm-semiconductor-shortage-live-updates/)
+
+
+> 5:58PM Thanks, as always, for reading. We'll be back with you tomorrow. 5:27PM Mark Zuckerberg has long touted Facebook Groups as the future of the social network - communities dedicated to a topic or place, away from the angry algorithmically-driven posts on the news feed. But it is fair to say this hasn't gone so well: groups have often allowed users to coalesce around conspiracy theories, or the "Stop the Steal" movement, or illegal raves. In other words, groups risk linking the wrong people, as well as the right ones.
+
+
