@@ -45644,3 +45644,53 @@
 > THE EU has made a major U-turn on the suspension of the Oxford jab with its regulator today saying it's "safe and effective". Emer Cooke, executive director of the EMA, said their "clear scientific conclusion" is that the vaccine is "safe and effective" with the "benefits far outweighing the risks". ğŸ¦  Read ourÂ coronavirus live blogÂ for the latest news & updates... The EU was expected to make a U-turn on the ban of AstraZeneca jabsCredit: Reuters Cases are now on the rise across Europe with Poland and Bulgaria the latest nations to announce further lockdown measures.
 
 
+***
+![March Madness live stream: how to watch NCAA basketball online from anywhere today](https://cdn.mos.cms.futurecdn.net/AFcvLNahMCBavEcFuEqrLf-1200-80.jpg "March Madness live stream: how to watch NCAA basketball online from anywhere today")
+
+
+[March Madness live stream: how to watch NCAA basketball online from anywhere today](https://www.techradar.com/news/march-madness-live-stream-how-to-watch-ncaa-basketball-2021-online)
+
+
+> Two long years. That's how much patience we've had to have since we saw the Virginia Cavaliers win the 2019 NCAA Division I Men's Basketball Championship Game. But now, thankfully, March Madness is back - read on as we explain how to watch a March Madness live stream for every game of the NCAA basketball tournament wherever you are in the world.You won't need us to remind you that last year marked the first ever cancellation of March Madness, as the annual NCAA basketball institution found itself an early victim of the global Covid-19 sports shutdown.
+
+
+***
+![New PS5 games: upcoming PS5 game release dates](https://cdn.mos.cms.futurecdn.net/XcrujDdaz4ZezjMt98eqyY-1200-80.jpg "New PS5 games: upcoming PS5 game release dates")
+
+
+[New PS5 games: upcoming PS5 game release dates](https://www.techradar.com/news/new-ps5-games)
+
+
+> (Image credit: Insomniac Games) There's a host of new PS5 games on the horizon that will be sure to make the most of your new PlayStation 5 (or persuade you to pick one up), and if you want to know exactly when you'll get your hands on them, you're in the right place.While the start of 2021 has been a bit light, the rest of this year and beyond looks to be packed with plenty of top-notch new PS5 games to keep you busy, including the likes of Ratchet and Clank: Rift Apart, Returnal and Horizon Forbidden West.
+
+
+***
+![Why Coding Is Hard](https://external-preview.redd.it/9GJJroihiLIOxgyduhPWwvFJZmxzJCsmGZiU83R2kWY.jpg?auto=webp&s=094e5c70340a19bcadc05011681c4f1a94e955c4 "Why Coding Is Hard")
+
+
+[Why Coding Is Hard](https://www.reddit.com/r/programming/comments/m7wow9/why_coding_is_hard/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![New games 2021: game release dates for console and PC](https://cdn.mos.cms.futurecdn.net/7vTk57eCSapaCbb4vaNGz7-1200-80.jpg "New games 2021: game release dates for console and PC")
+
+
+[New games 2021: game release dates for console and PC](https://www.techradar.com/news/new-games-2021)
+
+
+> (Image credit: Future) If you're searching for all the new games coming out in 2021 for console and PC, we've rounded up all the key dates you need to know.While the beginning of 2021 has been relatively quiet for game releases (which is typical for this time of year), there are some big hitters releasing throughout this year that are absolutely worth marking your calendar for, including the likes of Resident Evil Village, Deathloop and Halo Infinite.It's certainly shaping up to be another exciting year for gaming as developers push the power of the PS5 and Xbox Series X, but it's not just next-gen console owners who are set to have all the fun.
+
+
+***
+![Sex consent app sparks backlash](https://www.telegraph.co.uk/content/dam/technology/2021/03/18/TELEMMGLPICT000253647322_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay "Sex consent app sparks backlash")
+
+
+[Sex consent app sparks backlash](https://www.telegraph.co.uk/technology/2021/03/18/uber-offers-drivers-cash-replace-holiday-pay-live-updates/)
+
+
+> 6:04PM Check in tomorrow for more tech news!5:32PM The vast majority of artists on Spotify are making less than $1,000 (£717) a year from the streaming service, despite it paying out billions in royalties last year, James Titcomb writes. The Swedish company, the world's biggest music streaming service, yesterday released its most detailed figures on its payments to the industry in response to growing scrutiny of the amounts artists are earning from streaming.Its total payments, which include those to rights holders such as record labels as well as artists, rose to $5bn last year, up from $3.
+
+
