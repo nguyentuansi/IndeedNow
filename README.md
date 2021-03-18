@@ -45256,3 +45256,53 @@
 > T-Mobile has teamed up with SiriusXM to launch a new perk for the carrier's mobile customers: a ‘first of its kind' Pandora offering that includes SiriusXM curated ‘Top Tracks' stations, ad-free weekend radio, and early access to original podcasts. The new offering, which was announced today, will go live for T-Mobile subscribers later this month. The new perk will be offered as part of T-Mobile Tuesdays, which means it'll be available to any subscriber who has access to that program. The ‘special enhanced' Pandora offering will be provided for free, offering the same personalized experience you get from the ordinary Pandora platform, which will include ad-free weekend radio until March 2022.
 
 
+***
+![The global chip shortage is affecting everyone but Apple](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/apple-m1-chip.jpg "The global chip shortage is affecting everyone but Apple")
+
+
+[The global chip shortage is affecting everyone but Apple](https://www.imore.com/global-chip-shortage-affecting-everyone-apple)
+
+
+> Source: Apple The world's chip shortage seems to be affecting everyone except Apple right now. As reported by Bloomberg, Samsung, the world's largest chipmaker, is warning that the shortage may have a material impact on it and other companies next quarter. According to the report, the company might skip the release of a new generation of the Galaxy Note, its flagship smartphone. Samsung, one of the world's largest makers of chips and consumer electronics, expects the crunch to pose a problem to its business next quarter, co-Chief Executive Officer Koh Dong-jin said during an annual shareholders meeting in Seoul.
+
+
+***
+![S6 training breaks iphone gps](https://images.macrumors.com/social/?t=2288704&v=6 "S6 training breaks iphone gps")
+
+
+[S6 training breaks iphone gps](https://forums.macrumors.com/threads/s6-training-breaks-iphone-gps.2288704/)
+
+
+> So I'm walking a lot now with my kid in the stroller, I have the iPhone 12PM in a mount and apple watch s6 gps on my wrist. I also like to play pokemon go on the walk. but whenever I start a training session (walking) on the watch, my character in pokemon stops walking. Even google maps & apple maps gets stuck in place and it's position updates rarely, if so it gets stuck in a new position. I close the training and the GPS works fine again. talked to apple support and they just keep telling me to restore everything, I've restored my phone through itunes, and my watch through unpairing it.
+
+
+***
+![AWS launches new Graviton2-powered EC2 instances](https://cdn.mos.cms.futurecdn.net/5egycZyR8KutGdsgWQA3M7-1200-80.jpg "AWS launches new Graviton2-powered EC2 instances")
+
+
+[AWS launches new Graviton2-powered EC2 instances](https://www.techradar.com/news/aws-launches-new-graviton2-powered-ec2-instances)
+
+
+> (Image credit: Tony Webster / Flickr) AWS has announced that the next generation of instances powered by its ARM-based Graviton2 processors are now generally available.The cloud computing company's Amazon Elastic Compute Cloud (EC2) X2gd instances utilize AWS Graviton2 processors to deliver up to 55 percent better price to performance when compared to current generation X86-based X1 instances. At the same time though, these new instances also offer increased memory per vCPU compared to other Graviton-based instances.
+
+
+***
+![Maxar Technologies Announces Sale of $400 Million of Common Stock](http://www.businesswire.com/images/bwlogo_square.png "Maxar Technologies Announces Sale of $400 Million of Common Stock")
+
+
+[Maxar Technologies Announces Sale of $400 Million of Common Stock](https://www.businesswire.com/news/home/20210317005924/en/Maxar-Technologies-Announces-Sale-of-400-Million-of-Common-Stock)
+
+
+> March 17, 2021 09:41 PM Eastern Daylight Time WESTMINSTER, Colo.--(BUSINESS WIRE)--Maxar Technologies Inc. (NYSE:MAXR) (TSX:MAXR) ('Maxar' or the 'Company'), a trusted partner and innovator in Earth Intelligence and Space Infrastructure, today announced the pricing of its previously announced underwritten public offering of $400 million of shares of common stock, par value $0.0001 per share, of the Company at a public offering price of $40 per share of common stock. The Company has granted the underwriters of the offering a 30-day option to purchase up to $60 million of additional shares of common stock.
+
+
+***
+![Cuisinart's Multiclad Pro is our favorite stainless-steel cookware set—and it's on sale](https://www.gannett-cdn.com/presto/2021/03/18/USAT/f6219b3c-0ae3-43d6-8424-46a1b60dcbee-mcpro.jpeg?crop=817,460,x0,y0&width=817&height=460&format=pjpg&auto=webp "Cuisinart's Multiclad Pro is our favorite stainless-steel cookware set—and it's on sale")
+
+
+[Cuisinart's Multiclad Pro is our favorite stainless-steel cookware set—and it's on sale](https://www.usatoday.com/story/tech/reviewedcom/2021/03/17/stainless-steel-cookware-cuisinart-multiclad-pro-set-just-went-sale/4743149001/)
+
+
+> Arielle Tschinkel — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. There's cookware that will get you by ... and then there's great cookware. If you've got your heart set on the latter, you're in luck: The best stainless-steel cookware we've ever tested—Cuisinart's 12-piece Multiclad Pro set—is on sale for a huge discount right now at Macy's. Get expert shopping advice delivered to your phone. Sign up for text message alerts from the deal-hunting nerds at Reviewed.
+
+
