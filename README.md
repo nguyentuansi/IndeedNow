@@ -45547,3 +45547,50 @@
 > All three devices come with a quad-camera setup at the back with 64 MP high resolution.
 
 
+***
+![How to create a Discord bot with Python: Part 6](https://external-preview.redd.it/Bk7ux8_mYWCiRjCPTc1R71WMK2nbsG3frWt9nbHo8mA.jpg?auto=webp&s=6d6724dbb9423fbad6df4af8c4b22265b485c6f5 "How to create a Discord bot with Python: Part 6")
+
+
+[How to create a Discord bot with Python: Part 6](https://www.reddit.com/r/Python/comments/m7rijn/how_to_create_a_discord_bot_with_python_part_6/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![ASUS May Announce A "Mini" Flagship Phone With SD888 & 120Hz Display](https://www.androidheadlines.com/wp-content/uploads/2019/04/ASUS-new-logo-2018-AM-AH-1.jpg "ASUS May Announce A "Mini" Flagship Phone With SD888 & 120Hz Display")
+
+
+[ASUS May Announce A "Mini" Flagship Phone With SD888 & 120Hz Display](https://www.androidheadlines.com/2021/03/asus-mini-flagship-phone.html)
+
+
+> According to some new information from XDA Developer Freak07, ASUS is planning for several new ZenFone 8 devices. One of them will be the ASUS ZenFone 8 'Mini', and that handset will be a flagship-grade smartphone.To be clear, three devices got detailed by the source, the ASUS 'SAKE', 'PICASSO', and 'VODKA'. The ASUS 'SAKE' is allegedly the ZenFone 8 Mini model, and the source did share some information about the phone.The upcoming 'Mini' flagship from ASUS is expected to utilize a 120Hz display & SD888 SoCThe device will feature a 5.
+
+
+***
+[YouTube's TikTok competitor hits the US](https://ktvz.com/lifestyle/technology/2021/03/18/youtubes-tiktok-competitor-hits-the-us/)
+
+
+> YouTube's TikTok competitor has come to the United States. On Thursday, the company said it's expanding the beta program for its short-form video offering, called Shorts, to the United States now and over the next several weeks. Previously, it tested the product only in India. Globally, users have been able to view Shorts, but not create them. YouTube says its feature allows social media creators to 'shoot short, catchy videos using nothing but their mobile phones.' It offers a way to string multiple clips together, add music, and use a timer and countdown to record videos hands-free, all features currently available on TikTok.
+
+
+***
+![Best Smart TV Deals – Updated March 2021](https://www.androidheadlines.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-10-at-10.17.32-AM.png "Best Smart TV Deals – Updated March 2021")
+
+
+[Best Smart TV Deals – Updated March 2021](https://www.androidheadlines.com/best-smart-tv-deals.html)
+
+
+> Is it time to buy a new smart TV for your home? We've got you covered. With the very best smart TV deals that are currently available.Most people think that Black Friday is the best time to buy a TV, and it actually isn't. The myth exists because of doorbusters. Where you can get a 50-inch TV for some stupid cheap price like $199. But that's usually a bad TV, from a brand you've probably never heard of. While the good TVs from brands like Sony, Samsung, LG, Hisense and others are discounted, but not as heavily.
+
+
+***
+![15 top-rated patio sets that are perfect for spring](https://www.gannett-cdn.com/presto/2021/03/17/USAT/effd925a-829f-4a4e-a8c6-f63354ecc7b0-PATIO-SET-HERO-IMAGE.jpg?crop=969,545,x1,y0&width=1600&height=800&fit=bounds "15 top-rated patio sets that are perfect for spring")
+
+
+[15 top-rated patio sets that are perfect for spring](https://www.usatoday.com/story/tech/reviewedcom/2021/03/18/15-top-rated-patio-sets-perfect-spring/4746244001/)
+
+
+> An option for every budget! (Photo: Wayfair)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Now that the days are longer and the weather is warming up, many of us are thinking about how to make the most of our outdoor spaces, specifically with a new patio set. After all, even though the COVID-19 vaccines are becoming more readily available, this spring and summer will likely still require some social distancing. With that in mind, we're here to help you elevate your outdoor space—whether you have a small balcony or expansive backyard—so that you can bask in nature's beauty and warmth in a safe way.
+
+
