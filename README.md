@@ -45406,3 +45406,53 @@
 > Source: August Update, March 18 (1:20 am ET): The biometric verification feature now works for Bluetooth operations as well. You can now unlock your August or Yale smart lock remotely through a fingerprint or face scan. The feature is available for all August Smart Locks and Yale Assure Locks and Levers with Wi-Fi. August has also rolled out a new "Hide Entry Codes" feature to allow users to hide keypad entry codes within the app. If you own an August or Yale smart lock, you can now unlock your home as easily as you unlock your phone.
 
 
+***
+![OnePlus phones to switch to Oppo's ColorOS](https://cdn.mos.cms.futurecdn.net/vQrKeVmdtxQiEdg2t2K4C-1200-80.jpg "OnePlus phones to switch to Oppo's ColorOS")
+
+
+[OnePlus phones to switch to Oppo's ColorOS](https://www.techradar.com/news/oneplus-phones-to-switch-to-oppos-coloros-in-china-though)
+
+
+> (Image credit: Aakash Jhaveri) OnePlus has been able to build a very loyal fan following thanks to its focus on key features like fast charging and a seamless user experience thanks to a truckload of memory and a custom Android skin.With the upcoming OnePlus 9 Series, the company in collaboration with Hasselblad wants to fix the biggest gripe that it's users ever had. However, reports also suggest that the company may be switching to Oppo's Color OS instead of HydrogenOS back home in China.For those who are not aware, OnePlus phones offer a near-stock Android experience thanks to the OxygenOS on its global devices while the ones that retail in China run on HydrogenOS.
+
+
+***
+![OnePlus smartphones may soon ditch HydrogenOS for Oppo's ColorOS](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/Hydrogen_OS_vs_ColorOS-647x363.jpeg?pAvX2qpMJ5tpoiZ63I37g8qWkg7VqK79 "OnePlus smartphones may soon ditch HydrogenOS for Oppo's ColorOS")
+
+
+[OnePlus smartphones may soon ditch HydrogenOS for Oppo's ColorOS](https://www.indiatoday.in/technology/news/story/oneplus-smartphones-may-soon-ditch-hydrogenos-for-oppo-s-coloros-1780688-2021-03-18)
+
+
+> ColorOS will soon replace HydrogenOS on OnePlus smartphones in China.OnePlus devices will soon ship with ColorOS in China.OnePlus smartphone will be sold via Oppo stores in China.Hydrogen OS website will shut down on March 24.OnePlus's OxygenOS is one of the best amongst all available smartphone operating systems. It is clean, minimal while being feature-rich.Most people are only aware of OxygenOS, which is used globally. However, there's another version of OxygenOS that's used in China called HydrogenOS.
+
+
+***
+![how to convert string & integer into date time](https://external-preview.redd.it/zlfx7JXgtpCjUAqGvkkJfqnpnX4qi0PextiddeYhksQ.jpg?auto=webp&s=4ff53c9e93dbf9f6a9528db9ef598e5d6aecae1c "how to convert string & integer into date time")
+
+
+[how to convert string & integer into date time](https://www.reddit.com/r/Python/comments/m7lwpl/how_to_convert_string_integer_into_date_time/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Samsung Neo QLED TVs get coveted German certification for gaming performance](https://cdn.mos.cms.futurecdn.net/K3UyHVZm37FBDWogPMLk8L-1200-80.jpg "Samsung Neo QLED TVs get coveted German certification for gaming performance")
+
+
+[Samsung Neo QLED TVs get coveted German certification for gaming performance](https://www.techradar.com/news/samsung-neo-qled-tvs-get-coveted-german-certification-for-gaming-performance)
+
+
+> (Image credit: Samsung) Samsung has announced that its '2021 Neo QLED' has become the first TV to receive certification for 'Gaming TV Performance' from a coveted German institute.Samsung's Neo QLED has been bestowed the certification by 'Verband Deutscher Elektrotechniker (VDE)', a respected electrical engineering certification institute in Germany.Four models from Samsung's 2021 Neo QLED lineup  --- QN900, QN800, QN90, QN85 --- have received the certification, according to a press release from the company.
+
+
+***
+![Official Ulefone Note 11P Hands-On Video Is Live On YouTube](https://www.androidheadlines.com/wp-content/uploads/2021/03/Ulefone-Note-11P-image-1-1.jpg "Official Ulefone Note 11P Hands-On Video Is Live On YouTube")
+
+
+[Official Ulefone Note 11P Hands-On Video Is Live On YouTube](https://www.androidheadlines.com/2021/03/official-ulefone-note-11p-hands-on-video.html)
+
+
+> Ulefone has decided to show off its new smartphone. The company has posted an official hands-on video with the Ulefone Note 11P on YouTube. The video is embedded below the article.The Ulefone Note 11P hands-on video highlights the phone's design & featuresThis is the company's brand new budget smartphone, and the aforementioned video has a duration of two minutes. In it, you'll be able to take a closer look at the phone, while the company is also highlighting some software features in it.These are mostly Android 11 features, as this handset does ship with Android 11.
+
+
