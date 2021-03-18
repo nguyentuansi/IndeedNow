@@ -45306,3 +45306,53 @@
 > Arielle Tschinkel — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. There's cookware that will get you by ... and then there's great cookware. If you've got your heart set on the latter, you're in luck: The best stainless-steel cookware we've ever tested—Cuisinart's 12-piece Multiclad Pro set—is on sale for a huge discount right now at Macy's. Get expert shopping advice delivered to your phone. Sign up for text message alerts from the deal-hunting nerds at Reviewed.
 
 
+***
+![Digital Detox Challenge: Can you survive 24 hours without tech? AUD/USD $2400 is up for grabs!](https://itwire.com/media/k2/items/cache/1da80a128c04b250f7a84d0e49fe6be0_XS.jpg "Digital Detox Challenge: Can you survive 24 hours without tech? AUD/USD $2400 is up for grabs!")
+
+
+[Digital Detox Challenge: Can you survive 24 hours without tech? AUD/USD $2400 is up for grabs!](https://itwire.com/home-it/digital-detox-challenge-can-you-survive-24-hours-without-tech-aud-usd-$2400-is-up-for-grabs.html)
+
+
+> In what is also an obvious promotion for reviews site Reviews.org, the company has cleverly come up with a digital detox challenge for one person in the US, and another in Australia, offering USD or AUD $2400 to each successful applicant to do just that. Reviews.org's Trevor Wheelwright has posted a digital detox challenge for one person in the US and another person in Australia. Wheelwright asks "Do you need to escape your daily routine with a digital detox? We know it's hard to take even a day away from work, school, socialising, games, and the endless scrolling and streaming online, but what if we could make it worth your while? "Reviews.
+
+
+***
+![Stock Market Live Updates: Sensex opens 471 pts higher, Nifty at 14,845; DLF, PNB, Future Retail in focus](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/stock_a_505_180321083707.jpg "Stock Market Live Updates: Sensex opens 471 pts higher, Nifty at 14,845; DLF, PNB, Future Retail in focus")
+
+
+[Stock Market Live Updates: Sensex opens 471 pts higher, Nifty at 14,845; DLF, PNB, Future Retail in focus](https://www.businesstoday.in/markets/market-perspective/share-market-live-updates-sensex-nifty-stocks-price-dlf-vedanta-future-retail-pnb-on-march-18/story/434117.html)
+
+
+> Snapping four sessions losing streak, Indian benchmark indices opened higher on Thursday, tracking firm cues from Asian markets which surged on dovish stance by the US Federal Reserve. The BSE Sensex opened at 50,273.50, higher by 471 points or by 0.95 per cent, and the NSE Nifty was at 14,845, up by 125 points or by 0.86 per cent. On the global front, Asian markets were trading higher, tracking strong cues from the US stocks which settled at record highs after Federal Reserve signaled that there would be no interest rate hikes through 2023.
+
+
+***
+![Google Chrome 89 rolls out live caption feature to transcribe videos on desktop](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/RTX9KII7_0-647x363.png?Wip_wvdWo.qF4eXqwOIZ43l32e56AODr "Google Chrome 89 rolls out live caption feature to transcribe videos on desktop")
+
+
+[Google Chrome 89 rolls out live caption feature to transcribe videos on desktop](https://www.indiatoday.in/technology/news/story/google-chrome-89-rolls-out-live-caption-feature-to-transcribe-videos-on-desktop-1780572-2021-03-18)
+
+
+> Google is finally rolling out live caption feature for Google Chrome 89 on desktop.As the name suggests, the featureÂ displays the captions of whatever is being played on your smartphones and now the desktop.For now, the feature has been rolled out in English language only.Google is finally rolling out live caption feature for Google Chrome 89 on desktop. The feature was initially available only Pixel 4 devices but was later available in the other Pixel phones including the Pixel 3, Pixel 3a. As the name suggests, the feature displays the captions of whatever is being played on your smartphones and now the desktop.
+
+
+***
+![2021 iPad Pro may have M1-like chipset, Thunderbolt port and be launched in April](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/ipad_pixabay-647x363.jpeg?DCz.3.fFGWYdYhEX_xEBd9.jw8PqWHzi "2021 iPad Pro may have M1-like chipset, Thunderbolt port and be launched in April")
+
+
+[2021 iPad Pro may have M1-like chipset, Thunderbolt port and be launched in April](https://www.indiatoday.in/technology/news/story/2021-ipad-pro-may-have-m1-like-chipset-thunderbolt-port-and-be-launched-in-april-1780571-2021-03-18)
+
+
+> Apple is highly anticipated to bring major upgrades to the iPad this year. Several rumours have pointed out the iPad 2021 will be the first device from Apple with a mini-LED display, the technology said to replace LCD as manufacturers move closer to OLEDs. Among these rumours, the latest one from Bloomberg has offered some interesting insights. Apple is said to launch new iPad Pro models as early as April, which is about a month later than what was being speculated so far. Moreover, according to the report, there will be new iPad and iPad mini models that may arrive later this year.
+
+
+***
+![China regulators held talks with Alibaba, Tencent, ByteDance on 'deepfake' technologies](https://i-invdn-com.akamaized.net/news/LYNXMPEA680E9_L.jpg "China regulators held talks with Alibaba, Tencent, ByteDance on 'deepfake' technologies")
+
+
+[China regulators held talks with Alibaba, Tencent, ByteDance on 'deepfake' technologies](https://www.investing.com/news/technology-news/china-regulators-held-talks-with-alibaba-tencent-bytedance-on-deepfake-technologies-2450163)
+
+
+> More News
+
+
