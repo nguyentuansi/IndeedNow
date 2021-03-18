@@ -45356,3 +45356,53 @@
 > More News
 
 
+***
+![Chrome now immediately captions audio and video on the web](https://assets.thehansindia.com/h-upload/2021/03/18/1038042-chrome.jpg "Chrome now immediately captions audio and video on the web")
+
+
+[Chrome now immediately captions audio and video on the web](https://www.thehansindia.com/tech/chrome-now-immediately-captions-audio-and-video-on-the-web-677423)
+
+
+> Google is expanding its real-time captioning feature, Live Captions, from Pixel phones to anyone using a Chrome browser, as XDA developers first spotted. Live Captions uses machine learning to spontaneously create captions for video or audio where they didn't exist before and make the Web much more accessible to anyone who has difficulty hearing. When enabled, live captions automatically get displayed in a small, movable box at the bottom of your browser when we're watching or listening to a piece of content that people are talking about.
+
+
+***
+![YouTube to warn creators before posting videos](https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/cfb59938-333c-5313-8311-7e00f964b08c&operation=CROP&offset=0x201&resize=3500x1969 "YouTube to warn creators before posting videos")
+
+
+[YouTube to warn creators before posting videos](https://www.iol.co.za/technology/software-and-internet/youtube-to-warn-creators-before-posting-videos-1c6baa8e-2fde-4f88-ae89-d011ac36d4ad)
+
+
+> New Delhi - In an attempt to help creators upload videos easier and make money, Google-owned YouTube is rolling out a new tool that will automatically check the videos and tell them for potential copyright claims and ad suitability restrictions before the videos are published.The new tool called "Checks" in the upload process on Studio desktop will help creators minimise the number of videos uploaded with copyright claims and/or yellow icons and avoid surprises or worries, YouTube said in a statement on Wednesday.
+
+
+***
+![The spring Kohl's Friends and Family sale has arrived and the deals are incredible](https://www.gannett-cdn.com/presto/2021/03/17/USAT/2b8fcd89-2a7d-4fb0-be24-b838e3d913c2-kohls-friends-family.jpg?crop=2241,1261,x4,y0&width=1600&height=800&fit=bounds "The spring Kohl's Friends and Family sale has arrived and the deals are incredible")
+
+
+[The spring Kohl's Friends and Family sale has arrived and the deals are incredible](https://www.usatoday.com/story/tech/reviewedcom/2021/03/18/kohls-friends-and-family-sale-get-markdowns-sitewide-and-extra-20-off/4736153001/)
+
+
+> Get killer deals on patio furniture, vacuums and small appliances at the Kohl's Friends and Family Sale (Photo: Sonoma Goods for Life/Bissell/Ninja/Getty)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Spring has nearly sprung (there's just two more days to go!), and with the new season at hand comes a slew of great sales designed to help you save on all of the essentials you'll be needing to officially say 'buh-bye' to winter and usher in warmer days ahead.
+
+
+***
+![#TECH: DJI opens first authorised store in Malaysia](https://assets.nst.com.my/images/articles/BOTSdjikedai_NSTfield_image_socialmedia.var_1616046038.jpg "#TECH: DJI opens first authorised store in Malaysia")
+
+
+[#TECH: DJI opens first authorised store in Malaysia](https://www.nst.com.my/lifestyle/bots/2021/03/674910/tech-dji-opens-first-authorised-store-malaysia)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![August and Yale smart locks now support remote biometric verification](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/august-yale-biometric-verification.jpg "August and Yale smart locks now support remote biometric verification")
+
+
+[August and Yale smart locks now support remote biometric verification](https://www.androidcentral.com/august-and-yale-smart-locks-now-support-remote-biometric-verification)
+
+
+> Source: August Update, March 18 (1:20 am ET): The biometric verification feature now works for Bluetooth operations as well. You can now unlock your August or Yale smart lock remotely through a fingerprint or face scan. The feature is available for all August Smart Locks and Yale Assure Locks and Levers with Wi-Fi. August has also rolled out a new "Hide Entry Codes" feature to allow users to hide keypad entry codes within the app. If you own an August or Yale smart lock, you can now unlock your home as easily as you unlock your phone.
+
+
