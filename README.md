@@ -45456,3 +45456,50 @@
 > Ulefone has decided to show off its new smartphone. The company has posted an official hands-on video with the Ulefone Note 11P on YouTube. The video is embedded below the article.The Ulefone Note 11P hands-on video highlights the phone's design & featuresThis is the company's brand new budget smartphone, and the aforementioned video has a duration of two minutes. In it, you'll be able to take a closer look at the phone, while the company is also highlighting some software features in it.These are mostly Android 11 features, as this handset does ship with Android 11.
 
 
+***
+![Rumored Canon EOS R5c could fix the Canon EOS R5's video weaknesses](https://cdn.mos.cms.futurecdn.net/jkLeKSEqr8SYPjHfjgWykd-1200-80.jpg "Rumored Canon EOS R5c could fix the Canon EOS R5's video weaknesses")
+
+
+[Rumored Canon EOS R5c could fix the Canon EOS R5's video weaknesses](https://www.techradar.com/news/rumored-canon-eos-r5c-could-fix-the-canon-eos-r5s-video-weaknesses)
+
+
+> (Image credit: Canon) The Canon EOS R5c is strongly rumored to be an incoming, video-focused version of the Canon EOS R5 – and yet another powerful mirrorless camera for pro filmmakers in 2021.Canon Rumors has posted a very confident declaration stating that the Canon EOS R5c is "confirmed" and "is going to be announced this year". The site has also given the rumor its highest trust rating, which it reserves for when "we're sure what we're posting if a fact".The EOS R5c sounds likely a pretty likely launch, then, but what kind of camera will it be? Canon Rumors says the EOS R cinema camera "will be equipped with the same image sensor as the EOS R5 and will have all of the same recording options".
+
+
+***
+![Venom 2's release date has been delayed again – here's why](https://cdn.mos.cms.futurecdn.net/sZXnnjMquEg7ygpAaK4wL5-1200-80.jpg "Venom 2's release date has been delayed again – here's why")
+
+
+[Venom 2's release date has been delayed again – here's why](https://www.techradar.com/news/venom-2s-release-date-has-been-delayed-again-heres-why)
+
+
+> (Image credit: Sony Pictures) Venom: Let There Be Carnage has had its release date pushed back for a second time.Multiple outlets, including Variety and IGN, have reported that the Marvel anti-hero and Spider-Man villain's sequel would not be arriving on June 25 as previously planned. Instead, the Sony Pictures developed movie will now launch worldwide on September 17, providing that there are no more delays as a result of the Covid-19 pandemic.Venom: Let There Be Carnage was originally supposed to arrive in theaters on October 2, 2020.
+
+
+***
+![Global $122 Billion Cloud Enterprise Content Management Market Trajectory & Analytics to 2027](https://mms.businesswire.com/media/20210318005414/en/371054/23/ResearchAndMarkets_800px.jpg "Global $122 Billion Cloud Enterprise Content Management Market Trajectory & Analytics to 2027")
+
+
+[Global $122 Billion Cloud Enterprise Content Management Market Trajectory & Analytics to 2027](https://www.businesswire.com/news/home/20210318005414/en/Global-122-Billion-Cloud-Enterprise-Content-Management-Market-Trajectory-Analytics-to-2027---ResearchAndMarkets.com)
+
+
+> March 18, 2021 05:56 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Cloud Enterprise Content Management - Global Market Trajectory & Analytics" report has been added to ResearchAndMarkets.com's offering. Global Cloud Enterprise Content Management Market to Reach US$ 122 Billion by the Year 2027 Amid the COVID-19 crisis, the global market for Cloud Enterprise Content Management estimated at US$ 18.7 Billion in the year 2020, is projected to reach a revised size of US$ 122 Billion by 2027, growing at a CAGR of 30.
+
+
+***
+![What's in JDK 16 and how do you get to play with it?](https://external-preview.redd.it/mu5fSndOuOEef4IGu3WItTieKviihZy-lXIosA_tUqs.jpg?auto=webp&s=4016474152d0ccdb0058a697fc9aff05d9b9bba5 "What's in JDK 16 and how do you get to play with it?")
+
+
+[What's in JDK 16 and how do you get to play with it?](https://www.reddit.com/r/programming/comments/m7ng8u/whats_in_jdk_16_and_how_do_you_get_to_play_with_it/)
+
+
+> What's in JDK 16 and how do you get to play with it?
+
+
+***
+[Fortnite Season 6 latest – Chapter 2 SLAMMED for ‘ridiculous' characters and a storyline ‘going nowhere' after 4 years](https://www.thesun.ie/tech/6710637/fortnite-shop-item-season-6-map-typical-latest-live/)
+
+
+> FORTNITE Chapter 2 Season 6 went live on Tuesday in a major new update to the huge gaming series featuring Lara Croft and footballer star Neymar. New patch notes, maps, weapons and wildlife are all included in the update which Fortnite fans are going to love exploring over the coming weeks and months. According to […]
+
+
