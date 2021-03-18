@@ -45694,3 +45694,53 @@
 > 6:04PM Check in tomorrow for more tech news!5:32PM The vast majority of artists on Spotify are making less than $1,000 (£717) a year from the streaming service, despite it paying out billions in royalties last year, James Titcomb writes. The Swedish company, the world's biggest music streaming service, yesterday released its most detailed figures on its payments to the industry in response to growing scrutiny of the amounts artists are earning from streaming.Its total payments, which include those to rights holders such as record labels as well as artists, rose to $5bn last year, up from $3.
 
 
+***
+![Astropad's 'Project Blue' Beta Turns an iPad Into a Drawing Tablet for a PC](https://images.macrumors.com/t/-Q7DsFJX20AisVs1sZWIAKPPimU=/1600x/https://images.macrumors.com/article-new/2021/03/astropad-project-blue-2.jpg "Astropad's 'Project Blue' Beta Turns an iPad Into a Drawing Tablet for a PC")
+
+
+[Astropad's 'Project Blue' Beta Turns an iPad Into a Drawing Tablet for a PC](https://www.macrumors.com/2021/03/18/astropad-ipad-drawing-tablet-pc/)
+
+
+> Astropad today announced the launch of "Project Blue," a new public beta initiative that introduces cross-platform support for connecting an iPad to a PC. With the beta, ‌iPad‌ artists can use an ‌iPad‌ as a wireless drawing tablet for a PC by mirroring their Windows desktop to their iPads. Prior to today, the Astropad software could turn an ‌iPad‌ into a drawing device able to be used with a Mac, but the functionality is now available for ‌iPad‌ owners who want to use a PC instead of a Mac. Project Blue is optimized for drawing with the Apple Pencil, and the ‌iPad‌'s touch gestures can be customized to access tools and shortcuts in Windows apps.
+
+
+***
+![Want to expand your business? Take care of your operations](https://static.straitstimes.com.sg/s3fs-public/articles/2021/03/11/jtn_1883-edit_1.jpg "Want to expand your business? Take care of your operations")
+
+
+[Want to expand your business? Take care of your operations](https://www.straitstimes.com/tech/want-to-expand-your-business-take-care-of-your-operations)
+
+
+> As it grew its operations several-fold in the first year, a home-grown start-up knew it had to quickly solve a pressing issue – its accounting system and financial flows. For Moovaz, a company that helps global citizens relocate from one country to another, it was clear the company had to move beyond using simple spreadsheets to manage its working capital flows and keep track of its accounts. It needed a better system to keep track of payments in and out, claims made by staff for expenses and a host of other accounting items all too common to small- and medium-sized enterprises (SMEs).
+
+
+***
+![Here are some robot vacuums that actually suck up pet hair](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2019/06/irobot-roomba-860-main-e930.jpg "Here are some robot vacuums that actually suck up pet hair")
+
+
+[Here are some robot vacuums that actually suck up pet hair](https://www.androidcentral.com/best-robot-vacuums-pet-hair)
+
+
+> Source: iRobot Corporation Best Robot Vacuums for Pets Android Central 2021 When you live in a home with pets, it's not uncommon to find fur balls collecting in different areas of the house. Cats and dogs never seem to stop shedding, which makes cleaning up a bit of a hassle. The best way to keep your home clean is with a reliable robot vacuum like the iRobot Roomba i7+ that takes care of the furry mess every day. We've done our research and gathered a list of the best robot vacuums for pets, which varies from our picks for best robot vacuums overall.
+
+
+***
+![Zack Snyder's Justice League epilogue explained: what the Joker cameo means](https://cdn.mos.cms.futurecdn.net/seHrorsCLPVwJxWpB5Mmbm-1200-80.jpg "Zack Snyder's Justice League epilogue explained: what the Joker cameo means")
+
+
+[Zack Snyder's Justice League epilogue explained: what the Joker cameo means](https://www.techradar.com/news/zack-snyders-justice-league-epilogue-explained-what-the-knightmare-means)
+
+
+> Spoilers follow for Zack Snyder's Justice League.Zack Snyder's Justice League has finally been released. The movie is now available to watch on HBO Max in the US, alongside Sky Cinema and Now in the UK, and if you've seen all four hours of it, you might have questions about the film's cameo-packed epilogue. The final part of the Snyder Cut contains plenty of footage that wasn't present in the theatrical cut, and there are two significant moments that show what any Justice League sequels might have entailed.
+
+
+***
+![A New York Lawmaker Wants to Ban Police Use of Armed Robots](https://external-preview.redd.it/WLoxXJ-mSvfmPLxXQIWOTupSUKRigwMEwDYKAertJxc.jpg?auto=webp&s=4a5870d36266f31173b58e3b512a2c3b507b72cd "A New York Lawmaker Wants to Ban Police Use of Armed Robots")
+
+
+[A New York Lawmaker Wants to Ban Police Use of Armed Robots](https://www.reddit.com/r/technology/comments/m7z6tm/a_new_york_lawmaker_wants_to_ban_police_use_of/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
