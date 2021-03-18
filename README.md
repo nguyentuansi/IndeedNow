@@ -45594,3 +45594,53 @@
 > An option for every budget! (Photo: Wayfair)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Now that the days are longer and the weather is warming up, many of us are thinking about how to make the most of our outdoor spaces, specifically with a new patio set. After all, even though the COVID-19 vaccines are becoming more readily available, this spring and summer will likely still require some social distancing. With that in mind, we're here to help you elevate your outdoor space—whether you have a small balcony or expansive backyard—so that you can bask in nature's beauty and warmth in a safe way.
 
 
+***
+![Nokia Announces Partnership With AT&T For 5G Technology](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/img_7524.jpg "Nokia Announces Partnership With AT&T For 5G Technology")
+
+
+[Nokia Announces Partnership With AT&T For 5G Technology](https://www.benzinga.com/news/21/03/20235998/nokia-announces-partnership-with-at-t-for-5g-technology)
+
+
+> Nokia Oyj (NYSE: NOK) has landed another partnership for its 5G technology. This time with AT&T Inc. (NYSE: T). What Happened: On Thursday, Nokia announced it entered into a five-year partnership with AT&T for use of Nokia's C-Band Solutions Portfolio. The C-Band portfolio, which includes Nokia's 5G technology, will be deployed to AT&T customers across parts of the U.S. with the first phase opening up toward the end of 2021. The deal will help AT&T to increase its network capacity to support 5G coverage, both indoor and outdoor, and will include Nokia's MIMO antenna solutions, macro remote radio heads and next-generation AirScale baseband equipment, all of which are part of its C-Band portfolio.
+
+
+***
+![Mid-Day Market Update: Crude Oil Down 4%; Upstart Shares Spike Higher](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Mid-Day Market Update: Crude Oil Down 4%; Upstart Shares Spike Higher")
+
+
+[Mid-Day Market Update: Crude Oil Down 4%; Upstart Shares Spike Higher](https://www.benzinga.com/news/earnings/21/03/20238520/mid-day-market-update-crude-oil-down-4-upstart-shares-spike-higher)
+
+
+> Midway through trading Thursday, the Dow traded up 0.30% to 33,113.42 while the NASDAQ fell 1.35% to 13,342.40. The S&P also fell, dropping 0.49% to 3,954.63. The U.S. has the highest number of coronavirus cases and deaths in the world, reporting a total of 29,608,020 cases with around 538,090 deaths. Brazil reported over 11,693,830 COVID-19 cases with 284,770 deaths, while India confirmed a total of at least 11,474,600 cases and 159,210 deaths. In total, there were at least 121,295,600 cases of COVID-19 worldwide with more than 2,682,400 deaths, according to data compiled by Johns Hopkins University.
+
+
+***
+![Rustler Is Retro Grand Theft Auto in Ye Olde Days for PS5, PS4](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Rustler Is Retro Grand Theft Auto in Ye Olde Days for PS5, PS4")
+
+
+[Rustler Is Retro Grand Theft Auto in Ye Olde Days for PS5, PS4](https://en.brinkwire.com/technology/rustler-is-retro-grand-theft-auto-in-ye-olde-days-for-ps5-ps4/)
+
+
+> It's surprising to us that more indie developers haven't looked to the classic style of Grand Theft Auto gameplay, but Rustler is wearing its inspiration on its chain mail. Billed as a Medieval sandbox for PlayStation 5 and PS4, this is a throwback isometric experience featuring an 'historically inaccurate world'. The blurb reads: 'In Rustler, you'll play as Guy, a tough-as-nails peasant whose parents were apparently too lazy to give him a proper name. After a typical night of drinking, Guy awakens in a dazed and confused stupor – and this is where his adventures begin.
+
+
+***
+![Assassin's Creed Valhalla Ostara Festival Is Live, Features Minigames and Cosmetic Rewards](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Assassin's Creed Valhalla Ostara Festival Is Live, Features Minigames and Cosmetic Rewards")
+
+
+[Assassin's Creed Valhalla Ostara Festival Is Live, Features Minigames and Cosmetic Rewards](https://en.brinkwire.com/technology/assassins-creed-valhalla-ostara-festival-is-live-features-minigames-and-cosmetic-rewards/)
+
+
+> The second season of Assassin's Creed Valhalla content kicks off today with the entirely free Ostara Festival. Much like the Yule Festival that took place at the start of the year, this new event introduces a number of minigames, a couple of new quests, and a selection of unique rewards. Once again, the festivities are all contained within your settlement. The idea is that you'll compete in the aforementioned minigames in order to win Festival Tokens, which can then be spent on Ostara-specific items.
+
+
+***
+![EU makes major U-TURN on AZ vaccine after jabs banned over blood clot fears](https://www.thesun.co.uk/wp-content/uploads/2021/03/TM-composite-european-jabs.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "EU makes major U-TURN on AZ vaccine after jabs banned over blood clot fears")
+
+
+[EU makes major U-TURN on AZ vaccine after jabs banned over blood clot fears](https://www.thesun.co.uk/news/14378957/eu-makes-u-turn-over-astrazeneca-vaccine-blood-clot-ema-ban/)
+
+
+> THE EU has made a major U-turn on the suspension of the Oxford jab with its regulator today saying it's "safe and effective". Emer Cooke, executive director of the EMA, said their "clear scientific conclusion" is that the vaccine is "safe and effective" with the "benefits far outweighing the risks". ğŸ¦  Read ourÂ coronavirus live blogÂ for the latest news & updates... The EU was expected to make a U-turn on the ban of AstraZeneca jabsCredit: Reuters Cases are now on the rise across Europe with Poland and Bulgaria the latest nations to announce further lockdown measures.
+
+
