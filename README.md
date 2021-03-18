@@ -45206,3 +45206,53 @@
 > March 17, 2021 05:57 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--In the Financial Outlook section, two instances of "2021" should read: "2022" The updated release reads: PAGERDUTY ANNOUNCES FOURTH QUARTER AND FULL YEAR RESULTS FOR FISCAL 2021 Fourth quarter revenue growth accelerated to 29% year-over-year to a record $59 million Fourth quarter total Dollar-Based Net Retention accelerated sequentially to 121% Digital Operations offering doubled year-over-year to power digital transformations $10 million of full year positive operating cash flow PagerDuty, Inc.
 
 
+***
+![Macy's just launched a major spring sale with more than 50% off top buys](https://www.gannett-cdn.com/presto/2021/03/17/USAT/36b9752b-2130-48f5-884a-6704842d6d1f-macys_sale_2.jpg?crop=1899,1068,x0,y3&width=1600&height=800&fit=bounds "Macy's just launched a major spring sale with more than 50% off top buys")
+
+
+[Macy's just launched a major spring sale with more than 50% off top buys](https://www.usatoday.com/story/tech/reviewedcom/2021/03/17/macys-promo-code-use-code-get-up-extra-20-off/4734850001/)
+
+
+> These are the best deals to shop at Macy's. (Photo: Giani Bernini/Cuisinart/Getty)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.If you've been sitting at home, twiddling your thumbs and counting down the hours until the weekend arrives, we've got something that's sure to make the time go by faster. Macy's just launched a mega spring sale that will not only get you over the mid-week hump, it will ease you into the new season that's nearly at hand.
+
+
+***
+![‘SYDNEY COULD FLOOD': Dire warning as storms thrash the east coast](https://cdn.newsapi.com.au/image/v1/4ade9d7ad824624eeea04ff503d0cc77?width=1280 "‘SYDNEY COULD FLOOD': Dire warning as storms thrash the east coast")
+
+
+[‘SYDNEY COULD FLOOD': Dire warning as storms thrash the east coast](https://www.news.com.au/technology/environment/warnings-of-flooding-in-sydney-as-rain-deluge-swamps-eastern-australia/news-story/cc393c19670c9eb0a536dd716fe65974)
+
+
+> There are warnings that Sydney could flood this weekend as a huge rain event batters large parts of eastern Australia.Already, some communities have seen their wettest March for two years and forecasters have warned that 'many months of rain could fall' in the coming days.Those planning a weekend getaway to northern New South Wales are advised to delay their trip, with holiday spots like Port Macquarie to be the heaviest hit with up to 120mm forecast to fall on Friday alone.As much as 300mm could fall on parts of the state over the next few days, forecasters have cautioned.
+
+
+***
+![New deluge threat: ‘Sydney could flood'](https://content.api.news/v3/images/bin/4ade9d7ad824624eeea04ff503d0cc77 "New deluge threat: ‘Sydney could flood'")
+
+
+[New deluge threat: ‘Sydney could flood'](https://www.news.com.au/technology/environment/warnings-of-flooding-in-sydney-as-rain-deluge-swamps-eastern-australia/news-story/cc393c19670c9eb0a536dd716fe65974)
+
+
+> Months worth of rain will fall in a matter of days across east and central Australia, with severe warnings in place and advice to avoid travel.There are warnings that Sydney could flood this weekend as a huge rain event batters large parts of eastern Australia.Already, some communities have seen their wettest March for two years and forecasters have warned that 'many months of rain could fall' in the coming days.Those planning a weekend getaway to northern New South Wales are advised to delay their trip, with holiday spots like Port Macquarie to be the heaviest hit with up to 120mm forecast to fall on Friday alone.
+
+
+***
+![Fortnite Chapter 2 Season 6 LATEST – Lara Croft and Neymar join update as new weapons ‘leaked'](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/03/COMPS-DD-FORTNITE.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Fortnite Chapter 2 Season 6 LATEST – Lara Croft and Neymar join update as new weapons ‘leaked'")
+
+
+[Fortnite Chapter 2 Season 6 LATEST – Lara Croft and Neymar join update as new weapons ‘leaked'](https://www.thesun.co.uk/tech/14354803/fortnite-season-6-live-chapter-2-new-map-latest/)
+
+
+> FORT-FULL Live Blog18 Mar 2021, 0:07Updated: 18 Mar 2021, 0:07FORTNITE Chapter 2 Season 6 went live on Tuesday in a major new update to the huge gaming series featuring Lara Croft and footballer star Neymar. New patch notes, maps, weapons and wildlife are all included in the update which Fortnite fans are going to love exploring over the coming weeks and months. According to rumours, new weapons have already been "leaked", including a 'Recycler'. Twitter account @HYPEX claims the 'Recycler' weapon "will suck in/recycle some type of ammo/mats and shoot a Junk Bomb".
+
+
+***
+![T-Mobile subscribers get special Pandora experience with extra perks](https://cdn.slashgear.com/wp-content/uploads/2021/03/tmobile_pandora_main.jpg "T-Mobile subscribers get special Pandora experience with extra perks")
+
+
+[T-Mobile subscribers get special Pandora experience with extra perks](https://www.slashgear.com/t-mobile-subscribers-get-special-pandora-experience-with-extra-perks-17664283/)
+
+
+> T-Mobile has teamed up with SiriusXM to launch a new perk for the carrier's mobile customers: a ‘first of its kind' Pandora offering that includes SiriusXM curated ‘Top Tracks' stations, ad-free weekend radio, and early access to original podcasts. The new offering, which was announced today, will go live for T-Mobile subscribers later this month. The new perk will be offered as part of T-Mobile Tuesdays, which means it'll be available to any subscriber who has access to that program. The ‘special enhanced' Pandora offering will be provided for free, offering the same personalized experience you get from the ordinary Pandora platform, which will include ad-free weekend radio until March 2022.
+
+
