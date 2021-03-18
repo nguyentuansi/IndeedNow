@@ -45503,3 +45503,47 @@
 > FORTNITE Chapter 2 Season 6 went live on Tuesday in a major new update to the huge gaming series featuring Lara Croft and footballer star Neymar. New patch notes, maps, weapons and wildlife are all included in the update which Fortnite fans are going to love exploring over the coming weeks and months. According to […]
 
 
+***
+![Saving multidimensional JSON arrays in Google Sheets?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Saving multidimensional JSON arrays in Google Sheets?")
+
+
+[Saving multidimensional JSON arrays in Google Sheets?](https://www.reddit.com/r/Python/comments/m7pa6h/saving_multidimensional_json_arrays_in_google/)
+
+
+> The Google sheets above show sleep_data for 3 days along with other daily values. Would you recommend saving it like this or with one array per cell? (I just want easy programmatic access to the values later)
+
+
+***
+![OnePlus CEO shares key details on the upcoming OnePlus 9R](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/07/oneplus-nord-15.jpg "OnePlus CEO shares key details on the upcoming OnePlus 9R")
+
+
+[OnePlus CEO shares key details on the upcoming OnePlus 9R](https://www.androidcentral.com/oneplus-ceo-shares-key-details-upcoming-oneplus-9r)
+
+
+> Source: Apoorva Bhardwaj / Android Central OnePlus CEO Pete Lau has revealed a few more details about the upcoming OnePlus 9R. With the OnePlus 9R, the company aims to provide a "robust flagship experience" at a more accessible price point. The OnePlus 9R is set to be unveiled alongside the OnePlus 9 and 9 Pro on March 23. OnePlus will finally unveil its next-gen OnePlus 9 series flagship phones at a global launch event next week. The flagship OnePlus 9 and 9 Pro will be joined by a more budget-focused model called the OnePlus 9R.
+
+
+***
+![New tool to check commit messages. Many rules, work as Git hook and CI tool too](https://external-preview.redd.it/vlYxqnvaLJijrKSlfygTfr9qVXQQHnJ1PkYp0ghM5lQ.jpg?auto=webp&s=70c643f3c1dc38e1afcfef67d26d37166019ef00 "New tool to check commit messages. Many rules, work as Git hook and CI tool too")
+
+
+[New tool to check commit messages. Many rules, work as Git hook and CI tool too](https://www.reddit.com/r/Python/comments/m7p9gy/new_tool_to_check_commit_messages_many_rules_work/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Fireblocks, which lets users store, transfer, and issue digital assets, raises $133M Series C, bringing its total raised to $179M (Romain Dillet/TechCrunch)](http://www.techmeme.com/210318/p7#a210318p7)
+
+
+> Romain Dillet / TechCrunch: Fireblocks, which lets users store, transfer, and issue digital assets, raises $133M Series C, bringing its total raised to $179M — Fireblocks has raised a $133 million Series C funding round led by Coatue, Ribbit, and Stripes. The company provides several products that let you store, transfer and issue digital assets.
+
+
+***
+[Samsung Reveals Galaxy A52, A52 5G and A72, Check Details](https://www.thequint.com/tech-and-auto/samsung-reveals-galaxy-a52-a52-5g-and-a72-check-price-and-specifications)
+
+
+> All three devices come with a quad-camera setup at the back with 64 MP high resolution.
+
+
