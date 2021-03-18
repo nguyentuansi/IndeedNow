@@ -45744,3 +45744,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Hillicon Valley: Senate Republicans call for hearing on FTC's Obama-era Google decision](https://thehill.com/sites/default/files/google_11042016_getty.jpg "Hillicon Valley: Senate Republicans call for hearing on FTC's Obama-era Google decision")
+
+
+[Hillicon Valley: Senate Republicans call for hearing on FTC's Obama-era Google decision](https://thehill.com/policy/technology/overnights/543940-hillicon-valley-senate-republicans-call-for-hearing-on-ftcs)
+
+
+> Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter by clicking HERE. Welcome! Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@chrisismills) and Rebecca Klar (@rebeccaklar_), for more coverage.Several Senate Republicans pushed for a Judiciary Committee hearing into the Federal Trade Commission's decision nearly a decade ago not to sue Google, as lawmakers take a closer look at the tech giant's market power.
+
+
+***
+![Tech stocks drag down U.S. markets amid surge in bond yields](https://media.breitbart.com/media/2021/03/wi/upi/18/tech-stocks-drag-markets-surge-bond-yields-nyse-wstreet.jpg "Tech stocks drag down U.S. markets amid surge in bond yields")
+
+
+[Tech stocks drag down U.S. markets amid surge in bond yields](https://www.breitbart.com/news/tech-stocks-drag-down-u-s-markets-amid-surge-in-bond-yields/)
+
+
+> March 18 (UPI) — Tech stocks dragged the broader U.S. market down on Thursday as another spike in bond yields scared off investors. The Dow Jones Industrial Average fell 153.07, or 0.46%, while the S&P 500 dropped 1.48% and the Nasdaq Composite plummetted 3.02% as the 10-year treasury yield climbed 11 basis points to above 1.75% at its session high, its highest level since January 2020. Additionally, the 30-year rate also increased 6 basis points to rise above 2.5% for the first time since August 2019.
+
+
+***
+![how can i access the next element in char** string (full question linked below)](https://external-preview.redd.it/QgPvRTknlY3rMNDqH1k4I37XGiq9tZF_FsygC_Xht4o.jpg?auto=webp&s=8cd5e918e2bde6ca72d4445d6fc007f203689799 "how can i access the next element in char** string (full question linked below)")
+
+
+[how can i access the next element in char** string (full question linked below)](https://www.reddit.com/r/programming/comments/m81utx/how_can_i_access_the_next_element_in_char_string/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Why Is the Egg Industry Still Killing 7 Billion Day-Old Male Chicks a Year?](https://compote.slate.com/images/eefe7f52-781d-462d-be8b-be12f254a0d1.jpeg?width=780&height=520&rect=4272x2848&offset=0x0 "Why Is the Egg Industry Still Killing 7 Billion Day-Old Male Chicks a Year?")
+
+
+[Why Is the Egg Industry Still Killing 7 Billion Day-Old Male Chicks a Year?](https://undark.org/2021/03/15/egg-industry-grapples-with-chick-culling/)
+
+
+> This story was originally published by Undark and has been republished here with permission. Every year, up to 7 billion day-old male chicks are tossed into shredding machines, gassed, or suffocated in plastic bags—a process known as chick culling. This grim ritual is underpinned by both biology and economics: Male chicks don't lay eggs, and they fatten up too slowly to be sold as meat. Across the globe, culling has become the default strategy for the egg industry to eliminate the unwanted hatchlings.
+
+
+***
+![Where Anti-Vaccine Propaganda Went When YouTube Banned It](https://compote.slate.com/images/75459d44-4801-4e09-b268-3e0df5c37cb4.jpeg?width=780&height=520&rect=4732x3155&offset=0x0 "Where Anti-Vaccine Propaganda Went When YouTube Banned It")
+
+
+[Where Anti-Vaccine Propaganda Went When YouTube Banned It](https://slate.com/technology/2021/03/youtube-rumble-vaccine-misinformation.html)
+
+
+> Search the term 'vaccine' on YouTube, and the top results will be news stories about the COVID-19 vaccines from sources like CBS, Good Morning America, and CNN. Search that same term on Rumble, a video-streaming platform that has become popular with conservatives as an alternative to YouTube, and it serves up videos with titles like, 'Vaccine Halted In Europe After Deaths & DC Arrests' and 'Why You MUST Refuse The Vaccine.' As coronavirus vaccines become more widely available to the general public, misinformation meant to discourage people from getting a shot is rising in tandem.
+
+
