@@ -45846,3 +45846,53 @@
 > © Reuters. FILE PHOTO: British Telecom (BT)'s headquarters is seen in central London LONDON (Reuters) - Britain said more than one million rural homes and businesses would get gigabit broadband in the first phase of a 5 billion pound ($7 billion) programme to connect places that commercial roll-outs by BT and its rivals would not reach. Up to 510,000 premises in Cambridgeshire, Cornwall, Cumbria, Dorset, Durham, Essex, Northumberland, South Tyneside and Tees Valley will be the first to benefit, it said on Friday, with building due to start in the first half of 2022.
 
 
+***
+![Intro to C++ Lambdas](https://external-preview.redd.it/Wv_nkAZfWqLY9gbJmMMX5VNHzmceJLqPtGp04hr2ulA.jpg?auto=webp&s=5a5abd0d4cfed9e650574752d3208aa9cd8f8240 "Intro to C++ Lambdas")
+
+
+[Intro to C++ Lambdas](https://www.reddit.com/r/programming/comments/m86vho/intro_to_c_lambdas/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Skillz Announces Pricing of Public Offering of Class A Common Stock](https://mms.businesswire.com/media/20210318006065/en/1041526/23/Skillz_Logo.jpg "Skillz Announces Pricing of Public Offering of Class A Common Stock")
+
+
+[Skillz Announces Pricing of Public Offering of Class A Common Stock](https://www.businesswire.com/news/home/20210318006065/en/Skillz-Announces-Pricing-of-Public-Offering-of-Class-A-Common-Stock)
+
+
+> March 18, 2021 10:11 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Skillz Inc. (NYSE: SKLZ) ('Skillz') announced today the pricing of its previously announced underwritten public offering of 32,000,000 shares of its Class A common stock. Skillz will sell 17,000,000 shares of its Class A common stock and certain selling stockholders will sell 15,000,000 shares of Class A common stock, at a public offering price of $24.00 per share. The selling stockholders have granted the underwriters a 30-day option to purchase up to an additional 4,800,000 shares of Class A common stock.
+
+
+***
+![#TECH: A tool that can help you escape from Zoom meetings](https://assets.nst.com.my/images/articles/botszooms_NSTfield_image_socialmedia.var_1616119219.jpg "#TECH: A tool that can help you escape from Zoom meetings")
+
+
+[#TECH: A tool that can help you escape from Zoom meetings](https://www.nst.com.my/lifestyle/bots/2021/03/675135/tech-tool-can-help-you-escape-zoom-meetings)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Magnite Announces Closing of $400 Million of Convertible Notes](https://mms.businesswire.com/media/20210318006064/en/837208/23/Logo.jpg "Magnite Announces Closing of $400 Million of Convertible Notes")
+
+
+[Magnite Announces Closing of $400 Million of Convertible Notes](https://www.businesswire.com/news/home/20210318006064/en/Magnite-Announces-Closing-of-400-Million-of-Convertible-Notes)
+
+
+> March 18, 2021 10:00 PM Eastern Daylight Time LOS ANGELES--(BUSINESS WIRE)--Magnite (Nasdaq: MGNI) today announced that it has closed its offering of $400 million aggregate principal amount of 0.25% convertible senior notes due 2026 (the 'notes'), including the full exercise of the option to purchase $50 million of additional notes granted by Magnite to the initial purchasers. The notes were issued in a private placement to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended (the 'Act').
+
+
+***
+![NEC Qualifies 24 Fiber Pair Subsea Telecom Cable System](https://mms.businesswire.com/media/20210318006059/en/668386/23/NEC_Logo.jpg "NEC Qualifies 24 Fiber Pair Subsea Telecom Cable System")
+
+
+[NEC Qualifies 24 Fiber Pair Subsea Telecom Cable System](https://www.businesswire.com/news/home/20210318006059/en/NEC-Qualifies-24-Fiber-Pair-Subsea-Telecom-Cable-System)
+
+
+> March 18, 2021 10:00 PM Eastern Daylight Time TOKYO--(BUSINESS WIRE)--NEC Corporation (NEC; TOKYO: 6701) and its subsidiary OCC Corporation announced today that they have completed full qualification of subsea repeaters and optical cable containing up to 24 fiber pairs (FPs) (48 fibers). This is a 50% improvement in fiber count over the 16 fiber pair systems generally available today. This development allows cable owners worldwide to construct subsea telecom cables with superior traffic capacity while reducing the cost per bit of the wet plant.
+
+
