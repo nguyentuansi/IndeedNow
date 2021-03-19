@@ -45794,3 +45794,55 @@
 > Search the term 'vaccine' on YouTube, and the top results will be news stories about the COVID-19 vaccines from sources like CBS, Good Morning America, and CNN. Search that same term on Rumble, a video-streaming platform that has become popular with conservatives as an alternative to YouTube, and it serves up videos with titles like, 'Vaccine Halted In Europe After Deaths & DC Arrests' and 'Why You MUST Refuse The Vaccine.' As coronavirus vaccines become more widely available to the general public, misinformation meant to discourage people from getting a shot is rising in tandem.
 
 
+***
+![NASA officially joins Biden administration's National Climate Task Force](https://cdn.slashgear.com/wp-content/uploads/2021/03/earth_nasa_main.jpg "NASA officially joins Biden administration's National Climate Task Force")
+
+
+[NASA officially joins Biden administration's National Climate Task Force](https://www.slashgear.com/nasa-officially-joins-biden-administrations-national-climate-task-force-18664490/)
+
+
+> On Thursday, NASA announced that it has joined the National Climate Task Force, which is the Biden administration's agenda for addressing climate change. NASA points out that it has spent decades studying Earth in addition to other celestial bodies, and it holds the distinction of being the only space agency with ‘end-to-end research' on our planet. On January 27, the Biden administration penned an executive order that aims to put ‘the climate crisis at the center of' US national security and foreign policy.
+
+
+***
+![Huawei Mate X2 Impressions: I Was Right!](https://external-preview.redd.it/Ks7ec0N-apdmsCwGkaIiMNDuB5NrxsRB6EdWI6-65PU.jpg?auto=webp&s=57ab6baa1ef26f6fe42912dd8cac4ff36f5ef096 "Huawei Mate X2 Impressions: I Was Right!")
+
+
+[Huawei Mate X2 Impressions: I Was Right!](https://www.reddit.com/r/Android/comments/m84pqe/huawei_mate_x2_impressions_i_was_right_marques/)
+
+
+> Android news, reviews, tips, and discussions about rooting, tutorials, and apps. Generic discussion about phones/tablets is allowed, but technical-support, upgrade related questions or buy/sell posts, app recommendations and carrier-related issues should be asked in their respective subreddits!
+
+
+***
+![Instagram for kids? Facebook explores creating a platform for users under 13](https://www.gannett-cdn.com/-mm-/a8a3ef5517b43be355184f51dbaa7b5768d28597/c=0-25-700-419/local/-/media/2020/12/14/USATODAY/usatsports/MotleyFool-TMOT-59fa3c1f-instagram-reels.jpg?width=700&height=394&fit=crop&format=pjpg&auto=webp "Instagram for kids? Facebook explores creating a platform for users under 13")
+
+
+[Instagram for kids? Facebook explores creating a platform for users under 13](https://www.usatoday.com/story/tech/2021/03/18/instagram-kids-facebook-exploring/4757667001/)
+
+
+> CLOSE Facebook is launching a new app for Instagram called Reels. The app is almost identical to popular social media app TikTok. USA TODAYFacebook is looking into creating an Instagram for kids.The world's largest social media network told USA TODAY Thursday it is exploring the possibility of building a version of its popular video- and photo-sharing app for children ages 13 and under.An Instagram for kids could be similar to Facebook's 2017 launch of Messenger Kids, a version of the popular texting app for children between the ages of 6 and 12.
+
+
+***
+![YouTube Shorts launched in the United States in beta to compete with TikTok](https://img.20mn.fr/IL-sQyP-R96Ld3wiYVBRww/310x190_youtube-shorts-veut-concurrencer-tiktok-courtes-videos-virales.jpg "YouTube Shorts launched in the United States in beta to compete with TikTok")
+
+
+[YouTube Shorts launched in the United States in beta to compete with TikTok](https://www.tellerreport.com/tech/2021-03-19-
+---youtube-shorts-launched-in-the-united-states-in-beta-to-compete-with-tiktok
+--.BkEjVnPZNO.html)
+
+
+> After India, Google wants to move up a gear but by far on short videos Youtube Shorts wants to compete with TikTok with short viral videos. - Google YouTube launched Thursday in the United States a first version of its tool for creating and sharing lightweight Shorts, supposed to compete with the popular TikTok application. In tests in India, this new service of Google's video platform had accumulated up to 6.5 billion views per day, said Todd Sherman, product manage Youtube Shorts wants to compete with TikTok with short viral videos.
+
+
+***
+![Britain to start connecting first 1 million premises in rural broadband push](https://i-invdn-com.akamaized.net/news/LYNXNPED4E0PB_L.jpg "Britain to start connecting first 1 million premises in rural broadband push")
+
+
+[Britain to start connecting first 1 million premises in rural broadband push](https://www.investing.com/news/technology-news/britain-to-start-connecting-first-1-million-premises-in-rural-broadband-push-2451360)
+
+
+> © Reuters. FILE PHOTO: British Telecom (BT)'s headquarters is seen in central London LONDON (Reuters) - Britain said more than one million rural homes and businesses would get gigabit broadband in the first phase of a 5 billion pound ($7 billion) programme to connect places that commercial roll-outs by BT and its rivals would not reach. Up to 510,000 premises in Cambridgeshire, Cornwall, Cumbria, Dorset, Durham, Essex, Northumberland, South Tyneside and Tees Valley will be the first to benefit, it said on Friday, with building due to start in the first half of 2022.
+
+
