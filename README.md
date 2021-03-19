@@ -45896,3 +45896,53 @@
 > March 18, 2021 10:00 PM Eastern Daylight Time TOKYO--(BUSINESS WIRE)--NEC Corporation (NEC; TOKYO: 6701) and its subsidiary OCC Corporation announced today that they have completed full qualification of subsea repeaters and optical cable containing up to 24 fiber pairs (FPs) (48 fibers). This is a 50% improvement in fiber count over the 16 fiber pair systems generally available today. This development allows cable owners worldwide to construct subsea telecom cables with superior traffic capacity while reducing the cost per bit of the wet plant.
 
 
+***
+![Facebook working on an Instagram app for kids under 13](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/insta_505_190321091829.jpg "Facebook working on an Instagram app for kids under 13")
+
+
+[Facebook working on an Instagram app for kids under 13](https://www.businesstoday.in/technology/news/facebook-working-on-an-instagram-app-for-kids-under-13/story/434254.html)
+
+
+> Facebook Inc. is working on a version of Instagram for kids under the age of 13. The social media giant is building a version of the photo-sharing app tending to get its popular products to the next generation of internet users. Instagram announced the new app internally on Thursday, March 18, but has not launched it yet, BuzzFeed News reported. As per the current policies of the photo-sharing platform, users under the age of 13 are prohibited from using the app, although a parent or manager can operate an account on their behalf.
+
+
+***
+![OnePlus 9R will be exclusive to India, launch alongside OnePlus 9 and OnePlus 9 Pro confirms CEO Pete Lau](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/oneplus-9pro-morn-mist-press_0-647x363.jpeg?6sVAas6PB45mJ.0YAm9yKUXyGX.mGqe7 "OnePlus 9R will be exclusive to India, launch alongside OnePlus 9 and OnePlus 9 Pro confirms CEO Pete Lau")
+
+
+[OnePlus 9R will be exclusive to India, launch alongside OnePlus 9 and OnePlus 9 Pro confirms CEO Pete Lau](https://www.indiatoday.in/technology/news/story/oneplus-9r-will-be-exclusive-to-india-launch-alongside-oneplus-9-and-oneplus-9-pro-confirms-ceo-pete-lau-1781003-2021-03-19)
+
+
+> OnePlus 9R, the third-smartphone in the company's OnePlus 9 series has been confirmed by CEO Pete Lau merely days before the launch. Talking about the 9R, Lau said that the new smartphone would offer a flagship experience at an affordable price. OnePlus is the same company that gave the world the OnePlus One back in 2014, which was hailed as the flagship killer at that time. As we have written earlier, the OnePlus 9R (earlier referred to as OnePlus 9E in several reports) will be the most affordable in the OnePlus 9 series.
+
+
+***
+![Betting on China's driverless future, Toyota, Bosch, Daimler jump on board Momenta's $500M round – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/momenta-2021.jpg?w=533 "Betting on China's driverless future, Toyota, Bosch, Daimler jump on board Momenta's $500M round – TechCrunch")
+
+
+[Betting on China's driverless future, Toyota, Bosch, Daimler jump on board Momenta's $500M round – TechCrunch](https://techcrunch.com/2021/03/18/momenta-500-million-fundraise/)
+
+
+> Across the street from Suzhou North, a high-speed railway station in a historic city near Shanghai, a futuristic M-shaped building easily catches the eye of anyone passing by. It houses the headquarters of the five-year-old Chinese autonomous driving startup, Momenta. Like other major Chinese cities, Suzhou, which is famous for its serene canals and classical gardens, offers subsidized offices and policy support to attract high-tech firms. It seems to have chosen well. Momenta exceeded $1 billion in valuation in two years and became one of the most-funded driving companies in China.
+
+
+***
+![Everything we know so far about the next PSVR](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/psvr-2-playstation-vr-2-logo-01.jpg "Everything we know so far about the next PSVR")
+
+
+[Everything we know so far about the next PSVR](https://www.androidcentral.com/psvr-2)
+
+
+> Source: Nick Sutrich / Android Central From brand new controller designs to higher-fidelity visuals, there's a lot to get excited about with PS5 VR. PlayStation VR on the PS4 has been a success story in some very real ways, and Sony plans to continue that trend on the PS5. With over 5 million units sold and a steady library of games, Sony proved that VR gaming can be successful as an add-on to an already successful console. Sony has confirmed that the PSVR 2 will be a PS5-exclusive release and will debut after 2021 with some exciting new technologies in tow.
+
+
+***
+![Facebook may soon launch Instagram for kids under the age of 13](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/Screenshot_2020-03-20_at_10.43_0-647x363.png?4reImeiQHqS2zKLdzxZe2ufI9g2B.KU4 "Facebook may soon launch Instagram for kids under the age of 13")
+
+
+[Facebook may soon launch Instagram for kids under the age of 13](https://www.indiatoday.in/technology/news/story/facebook-may-soon-launch-instagram-for-kids-under-the-age-of-13-1780991-2021-03-19)
+
+
+> Facebook is working on a new version of Instagram that would be only for kids who are aged under 13.Instagram introduced new policies which would make it difficult for adult users to get in touch with a young user if he is being followed by the young user.Currently, users who are above 13 can create an account for themselves on Instagram.Facebook is working on a new version of Instagram that would be only for kids who are aged under 13. This news comes a day after the photo-sharing app ramped up its features to protect the young users from the prying eyes of the adults on the app.
+
+
