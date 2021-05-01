@@ -224,3 +224,53 @@
 > Source: Jerry Hildenbrand / Android Central FLoC (Federated Learning of Cohorts) is Google's answer to "fixing" online advertising. It's not a bad solution at all if you look into the tech. Instead of tracking you using cookies (something almost every advertiser does now), it uses your machine and an algorithm built into Chrome to place you into anonymous groups that will receive targeted ads. The idea, which is still in the works but is available as a Chrome Dev demo, has already done a lot of good, just not how Google has hoped.
 
 
+***
+![Can speculative fiction teach us anything in a world this crazy? – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1132519027.jpg?w=533 "Can speculative fiction teach us anything in a world this crazy? – TechCrunch")
+
+
+[Can speculative fiction teach us anything in a world this crazy? – TechCrunch](https://techcrunch.com/2021/05/01/can-speculative-fiction-teach-us-anything-in-a-world-this-crazy/)
+
+
+> There's an old saw from Mark Twain about how truth is stranger than fiction, and I think it's fair to say we've lived through a very strange reality this past year. With all the chaos and change, we're led to a foundational question: what's the purpose of speculative fiction and its adjacent genres of science fiction and fantasy when so much of our world seems to already embody the fantastical worlds these works depict? So I got our occasional fictional columnist Eliot Peper and the author of Veil, the three part Analog Series and other speculative fiction novels on the Gmail for an epistolary conversation on digesting 2020, the meaning of speculative fiction, and the future of art.
+
+
+***
+![8K Blu-ray players are possible – but will they happen?](https://cdn.mos.cms.futurecdn.net/pPKgcVjGPvaDYgvwQBamQm-1200-80.jpg "8K Blu-ray players are possible – but will they happen?")
+
+
+[8K Blu-ray players are possible – but will they happen?](https://www.techradar.com/news/8k-blu-ray-players-are-possible-but-will-they-happen)
+
+
+> Are 8K Blu-ray movies on the way? With the 8K resolution standard gaining steam and appearing in more televisions every year – Samsung, LG and Sony all supporting the technology to varying degrees – the true cinephiles out there may be wondering whether their 4K Blu-ray player could soon be upgraded with an 8K iteration.Disc players remain a beloved part of many home theater systems, offering high-quality viewing of TV shows, documentaries and films without buffering or internet connectivity issues found when streaming over Netflix, Disney Plus, Hulu, and the like.
+
+
+***
+![I was terrified of upgrading my PC](https://cdn.mos.cms.futurecdn.net/DACrCZCV7wDWkpb4ZNezhf-1200-80.jpg "I was terrified of upgrading my PC")
+
+
+[I was terrified of upgrading my PC](https://www.techradar.com/news/i-was-terrified-of-upgrading-my-pc-until-i-actually-did-it)
+
+
+> Growing up, I was always slightly envious of friends who had built or bought their own PCs, for a number of reasons. PCs are obviously superb for gaming, but they also provide a space for you to discover hobbies and work on that creative project that's been burning a hole in your brain. The allure of gaming at higher frame rates, plus faster load times and the ability to use powerful creativity and streaming software like Clip Studio Paint, Streamlabs and Adobe Premiere all contributed to my purchasing decisions.
+
+
+***
+![DJI Mavic 3 Pro release date, price, rumors and what we want to see](https://cdn.mos.cms.futurecdn.net/vitbxWEPT7N9Sw7F9RTbp4-1200-80.jpg "DJI Mavic 3 Pro release date, price, rumors and what we want to see")
+
+
+[DJI Mavic 3 Pro release date, price, rumors and what we want to see](https://www.techradar.com/news/dji-mavic-3-pro)
+
+
+> The DJI Mavic 3 Pro is the rumored successor to the DJI Mavic 2 Pro, which is currently the drone giant's flagship compact flier – and still one of the best drones you can buy.We've been hearing vague whispers about a Mavic 3 for over six months now, but recently some more substantial leaks and rumors have emerged. These are a long way off being official news, but they do suggest that a new ‘Pro' Mavic could be en route this year. Or possibly a 'DJI Pro 3', given DJI's gradual retirement of the 'Mavic' name.
+
+
+***
+![Linux Hypervisor Setup (libvirt/QEMU/KVM)](https://octetz.s3.us-east-2.amazonaws.com/running-a-minimal-hypervisor/title-card.png "Linux Hypervisor Setup (libvirt/QEMU/KVM)")
+
+
+[Linux Hypervisor Setup (libvirt/QEMU/KVM)](http://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/)
+
+
+> One of the best things about Linux is how easily you can throw together a few tools and end up with a great system. This is especially true for provisioning VMs. Arguably, this is one of the key things that keeps me on a Linux desktop for my day-to-day work! However, these tools can also be used to turn an old laptop or desktop into a screaming hypervisor. This way you can laugh at all your friends with their $10,000 homelab investment while you're getting all the same goodness on commodity hardware :).
+
+
