@@ -174,3 +174,53 @@
 > Departmental Development Working Party (DDWP) of the Ministry of IT and Telecommunications has approved a project National Center for testing 5G/IOT Products and Services worth PKR651.771 million. As per the news release shared by the authority, the project was approved in the third meeting of the DDWP for the fiscal year 2020-2021, held under the supervision of the Federal Secretary of IT and Telecommunications, Shoaib Ahmad Siddiqui. Along with the approval for the project, the secretary also chaired meeting regarding the Progress Review of PSDP FY-2020-21.
 
 
+***
+![How to detect the hand landmarks and grab objects in real time [project]](https://external-preview.redd.it/toUVlIBnNsDcsJEMuDoFuAPpXk6_f_ZuOs4bu260NKc.jpg?auto=webp&s=64cec34f67720802acaf9c324a63df5ae8ca0a25 "How to detect the hand landmarks and grab objects in real time [project]")
+
+
+[How to detect the hand landmarks and grab objects in real time [project]](https://www.reddit.com/r/Python/comments/n2h17t/how_to_detect_the_hand_landmarks_and_grab_objects/)
+
+
+> Hi,Do you want to learn how to detect the hand landmarks and grab objects in real time ?You can watch this tutorial , step by step how to to do it using the MediaPipe modelThe link : https://youtu.be/YeRJ53sHH-0This tutorial is part of several lessons (Step 3) . The link for the playlist is in the video descriptionMore videos are comingEran
+
+
+***
+![‘STAGGERING' WAR COST: Concerns over the West's chances to defeat China](https://cdn.newsapi.com.au/image/v1/e8a7e43030e7556562fd138327db557d?width=1280 "‘STAGGERING' WAR COST: Concerns over the West's chances to defeat China")
+
+
+[‘STAGGERING' WAR COST: Concerns over the West's chances to defeat China](https://www.news.com.au/technology/innovation/military/us-gets-arse-handed-to-it-in-chinarussia-war-games/news-story/4b18f914429775197d7bdc4442e4d896)
+
+
+> 'We lose a lot of people. We lose a lot of equipment. We usually fail to achieve our objective.'David Ochmanek, a RAND warfare analyst and former deputy assistant secretary of defence, was damning of the West's ability to defend Taiwan as far back as 2019. 'In our games, when we fight Russia and China, ‘blue' (the West) gets its arse handed to it,' he declared.This shouldn't have been entirely unexpected.The purpose of war games isn't to win. It's to learn.Indeed, in a recent issue of The Diplomat, US Navy Commander Jeffrey Vanak wrote that such war games aren't about failure.
+
+
+***
+![The best gaming monitors for 2021](https://img.dtcn.com/image/digitaltrends/alienware-aw3418dw-ultrawide-gaming-monitor-review-6650-1200x630-c-ar1.91.jpg "The best gaming monitors for 2021")
+
+
+[The best gaming monitors for 2021](https://www.digitaltrends.com/computing/best-gaming-monitors/)
+
+
+> A new gaming monitor can enhance your gaming experience and even make you a more competitive player. But picking the best monitor for you can be confusing, especially when deciding the most important specifications, like resolution, refresh rate, or response time. Our top pick is the Asus Rog Swift PG35VQ because of its excellent display and G-Sync technology.  We've compiled a collection of the best gaming monitors to help you find the right addition to your gaming PC or gaming laptop. They offer the latest and greatest technologies, from 4K resolution to G-Sync and fast refresh rates, all at great prices.
+
+
+***
+![Capture all the action with these accessories for the DJI Pocket 2](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/dji-pocket-2-review-01.jpeg "Capture all the action with these accessories for the DJI Pocket 2")
+
+
+[Capture all the action with these accessories for the DJI Pocket 2](https://www.imore.com/best-dji-pocket-2-accessories)
+
+
+> We may earn a commission for purchases using our links. Learn more. Action Jackson Best DJI Pocket 2 Accessories iMore 2021 Our DJI Pocket 2 review found us singing the praises of this tiny action camera. With a wider field of view than the original DJI Osmo Pocket and an improved sensor, this is one of the best action cameras on the market today. It lacks nothing but will do more with a few accessories. Carry cases, mini controllers, and memory cards will boost the performance of your Pocket 2 and make your workflow smoother.
+
+
+***
+![Google's savvy solution for tracking cookies has a major trust problem](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/10/sundar-pichai-google-event.jpg "Google's savvy solution for tracking cookies has a major trust problem")
+
+
+[Google's savvy solution for tracking cookies has a major trust problem](https://www.androidcentral.com/everyone-hates-floc-not-because-its-bad-idea-they-just-dont-trust-google)
+
+
+> Source: Jerry Hildenbrand / Android Central FLoC (Federated Learning of Cohorts) is Google's answer to "fixing" online advertising. It's not a bad solution at all if you look into the tech. Instead of tracking you using cookies (something almost every advertiser does now), it uses your machine and an algorithm built into Chrome to place you into anonymous groups that will receive targeted ads. The idea, which is still in the works but is available as a Chrome Dev demo, has already done a lot of good, just not how Google has hoped.
+
+
