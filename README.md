@@ -274,3 +274,47 @@
 > One of the best things about Linux is how easily you can throw together a few tools and end up with a great system. This is especially true for provisioning VMs. Arguably, this is one of the key things that keeps me on a Linux desktop for my day-to-day work! However, these tools can also be used to turn an old laptop or desktop into a screaming hypervisor. This way you can laugh at all your friends with their $10,000 homelab investment while you're getting all the same goodness on commodity hardware :).
 
 
+***
+![Monkey Code & Money [21.TCPIP.121]](https://external-preview.redd.it/254aDIt-VcKH724BLsRslOPnPxU8SOS4gjhySv_PpTM.jpg?auto=webp&s=41810ba4a42143fe921a6375721dccc299f12869 "Monkey Code & Money [21.TCPIP.121]")
+
+
+[Monkey Code & Money [21.TCPIP.121]](https://www.reddit.com/r/programming/comments/n2lj84/monkey_code_money_21tcpip121/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Ringo Starr Reveals His Favorite Beatles Song And Shares His Intriguing Theory About Milk With Stephen Colbert](https://cdn.digg.com/wp-content/uploads/2021/05/01161117/Screen-Shot-2021-05-01-at-12.11.03-PM.jpg "Ringo Starr Reveals His Favorite Beatles Song And Shares His Intriguing Theory About Milk With Stephen Colbert")
+
+
+[Ringo Starr Reveals His Favorite Beatles Song And Shares His Intriguing Theory About Milk With Stephen Colbert](https://digg.com/video/ringo-starr-reveals-his-favorite-beatles-song-and-shares-his-intriguing-theory-about-milk-with-stephen-colbert)
+
+
+> The former restaurateurs, now both 68, have watched as their money survived a series of booms and busts. After 30 years of retirement, their nest egg currently sits at $1 million. A Republican-led effort to recount 2.1 million ballots from the November election in Arizona is underway. CNN tried to report on what was happening on the ground and it didn't go very well. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up.
+
+
+***
+![Video: Amazon worker says he found noose at jobsite](https://uploads.dailydot.com/2021/05/amazon_nooses.jpg?auto=compress%2Cformat&ixlib=php-3.3.0 "Video: Amazon worker says he found noose at jobsite")
+
+
+[Video: Amazon worker says he found noose at jobsite](https://www.dailydot.com/debug/amazon-nooses/)
+
+
+> One noose and several other hanging ropes were found inside an Amazon construction site in Connecticut.  According to Fox 61, law enforcement came to the construction site on April 27 to remove the first noose after receiving a suspicious activity complaint. A construction supervisor said a safety team documented the incident and threw the noose away.  'We don't tolerate that,' the police captain told the news outlet. 'We want to find out who did it and the motivation behind it.' But a day later, police were called back to respond to a report of a second rope thrown around a beam.
+
+
+***
+[Report: Streaming Viewing Time is Up 36% in Q1 2021](https://www.cordcuttersnews.com/report-streaming-viewing-time-is-up-36-in-q1-2021/)
+
+
+> It looks like the pandemic-induced spike in streaming is here to stay. Conviva released its State of Streaming report for Q1 2021 and the data shows that overall streaming viewing time is up 36% for the first part of this year. Viewing time grew by 18% in North America which is a solid number, but […] The post Report: Streaming Viewing Time is Up 36% in Q1 2021 appeared first on Cord Cutters News.
+
+
+***
+[Multiprocessing in Python](https://www.reddit.com/r/Python/comments/n2l7uo/multiprocessing_in_python/)
+
+
+> Hey,I've been trying to use multiprocessing to speed up my work. I have 100's of CSV files with 100's of thousands of rows of data in (100+ columns) stored in a directory and I need to read all of them, extract relevant information (few necessary columns), analyse them (groupby) and output the resulting dataframe to a csv.I've been trying to use the multiprocessing module of Python and pass a list of path's to each individual file to a function which will read an individual file and perform the analysis (groupby).
+
+
