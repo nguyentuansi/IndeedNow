@@ -83,3 +83,50 @@
 > Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+[how can i solve it this error?](https://www.reddit.com/r/Python/comments/n2dv27/how_can_i_solve_it_this_error/)
+
+
+> Using cached locket-0.2.1-py2.py3-none-any.whl (4.1 kB)Building wheels for collected packages: scikit-imageBuilding wheel for scikit-image (PEP 517) ... error
+
+
+***
+![Where to get oxygen concentrators online](https://images.indianexpress.com/2021/05/Oxygen-Concentrators.jpg "Where to get oxygen concentrators online")
+
+
+[Where to get oxygen concentrators online](https://indianexpress.com/article/technology/tech-news-technology/where-to-get-oxygen-concentrators-online-7297786/)
+
+
+> As the number of Covid patients continues to go up in record numbers in the country, oxygen concentrators are in big demand. Patients who are suffering from Covid-19 and require oxygen therapy are looking for these machines as Hospitals continue to face a shortage. Getting an oxygen concentrator online may be the best option for some people, especially if oxygen is in short supply in their area.  Here are a few online portals where users may be able to buy themselves an oxygen concentrator. https://images.
+
+
+***
+![Best cheap refurbished iPad deals and sales for May 2021](https://img.dtcn.com/image/digitaltrends/ipad-22-1200x630-c-ar1.91.jpg "Best cheap refurbished iPad deals and sales for May 2021")
+
+
+[Best cheap refurbished iPad deals and sales for May 2021](https://www.digitaltrends.com/mobile/best-refurbished-ipad-sales-deals/)
+
+
+> If you're an iPad fan or require a new-to-you iPad to work remotely or for other purposes, you'll soon discover that even the best cheap iPad deals you can find for brand-new models are pricey and often hard to find. Cheap refurbished iPads are plentiful and can save you loads of money. Searching for the best refurbished iPad sales takes time, but if you know where to look, there are always good refurbished iPad deals available. We scour the best online sources for the best cheap refurbished iPads and update the list below regularly.
+
+
+***
+![Best cheap refurbished iPhone deals and sales for May 2021](https://img.dtcn.com/image/digitaltrends/apple-iphone-11-1-1200x630-c-ar1.91.jpg "Best cheap refurbished iPhone deals and sales for May 2021")
+
+
+[Best cheap refurbished iPhone deals and sales for May 2021](https://www.digitaltrends.com/dtdeals/best-refurbished-iphone-sales-deals/)
+
+
+> A new iPhone costs a pretty penny — actually, a lot of pretty pennies. Finding the best cheap iPhone deals can be tough if you insist on buying a brand new product. If you're searching for cheap refurbished iPhones, however, you're in luck. Many online retailers have refurbished iPhone sales, including Apple itself with its Certified Refurbished iPhone deals. We've gathered the best cheap refurbished iPhones below and will update this list regularly. iPhones aren't the only refurbished products with amazing deals.
+
+
+***
+![Group video calls to launch on Telegram in May](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-05/20210501_Telegram_Group_Chat_01-seo.jpg "Group video calls to launch on Telegram in May")
+
+
+[Group video calls to launch on Telegram in May](https://www.malaymail.com/news/tech-gadgets/2021/05/01/group-video-calls-to-launch-on-telegram-in-may/1970879)
+
+
+> Pavel Durov's announcement of group video calls on Telegram was accompanied by a short promotional video. — Picture courtesy of Pavel Durov/Telegram via ETX Studio Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, May 1 ­— In a fresh challenge to WhatsApp, Telegram is also about to launch group video calling. The communications app is to bring out the new feature in May, offering a further incentive to attract new users to its platform. On April 28, Telegram CEO Pavel Durov announced the news.
+
+
