@@ -318,3 +318,50 @@
 > Hey,I've been trying to use multiprocessing to speed up my work. I have 100's of CSV files with 100's of thousands of rows of data in (100+ columns) stored in a directory and I need to read all of them, extract relevant information (few necessary columns), analyse them (groupby) and output the resulting dataframe to a csv.I've been trying to use the multiprocessing module of Python and pass a list of path's to each individual file to a function which will read an individual file and perform the analysis (groupby).
 
 
+***
+[Elon Musk has a solution to our internet issues. Plans to launch 2824 Satellites for High-Speed Internet](http://www.pinkvilla.com/tech/news/elon-musk-has-a-solution-to-our-internet-issues-plans-to-launch-2824-satellites-for-high-speed-internet-722155)
+
+
+> Attach Main technology Image: Image Caption: Elon Musk has a solution to our internet issues. Plans to launch 2824 Satellites for High-Speed Internet Social Media Image : Enter the Technology details: With most of us working from home, internet consumptions have skyrocketed. Initially, local internet providers found it difficult to deal with the sudden surge in usage which also put a strain on the servers. Internet connections are now stabilising in the city. But what about the people in remote places? Due to the limited number of mobile towers, people continue to struggle with the internet.
+
+
+***
+![What are some of the best rowing machines for Apple Fitness+?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/f69f2row-hx-trainer-in-living-room-by-window-l.jpg "What are some of the best rowing machines for Apple Fitness+?")
+
+
+[What are some of the best rowing machines for Apple Fitness+?](https://www.imore.com/best-rowing-machines-apple-fitness-plus)
+
+
+> Best Rowing Machines for Apple Fitness Plus iMore 2021 Apple Fitness+ is Apple's growing subscription fitness service introduced in December 2020. One of the many workouts you can do on the Apple Fitness+ service is rowing. Rowing is a full-body workout that is low intensity and good for people of any fitness level to try. Of course, you will need to have a rowing machine on hand to use, as well as your Apple Watch. Which rower is best for you? These some of the best rowing machines for Apple Fitness+.
+
+
+***
+![Monotremes](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Monotreme_collage.jpg/1200px-Monotreme_collage.jpg "Monotremes")
+
+
+[Monotremes](https://en.wikipedia.org/wiki/Monotreme)
+
+
+> It has been suggested that Platypoda be merged into this article. (Discuss) Proposed since March 2021. Order of egg-laying mammals Monotremes /ˈmɒnətriːmz/ are one of the three main groups of living mammals, along with placentals (Eutheria) and marsupials (Metatheria). The monotremes are typified by structural differences in their brains, jaws, digestive tract, reproductive tract, and other body parts compared to the more common mammalian types. In addition, they lay eggs rather than bearing live young, but, like all mammals, the female monotremes nurse their young with milk.
+
+
+***
+![Breadth Search Algorithm made easy](https://external-preview.redd.it/gni3vstRf_-GfM08EP1PePGK4sXFJSlEQi0ljcJ1lNY.jpg?auto=webp&s=01b0b7e7fa9f50878c10843c8f6c6a05968674f0 "Breadth Search Algorithm made easy")
+
+
+[Breadth Search Algorithm made easy](https://www.reddit.com/r/Python/comments/n2nb4d/breadth_search_algorithm_made_easy/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![iOS 14.6 Beta 1 Code Hints at Upcoming HiFi Apple Music Support](https://images.macrumors.com/article-new/2021/05/apple-music-album-cover-art.png "iOS 14.6 Beta 1 Code Hints at Upcoming HiFi Apple Music Support")
+
+
+[iOS 14.6 Beta 1 Code Hints at Upcoming HiFi Apple Music Support](https://www.macrumors.com/2021/05/01/ios-14-6-beta-6-hifi-apple-music/)
+
+
+> Apr 12, 2001 52,343 13,994 Apple is laying the groundwork for adding HiFi support to Apple Music which would offer Apple Music subscribers and owners of compatible devices such as certain models of AirPods access to high-fidelity audio streaming, according to code within the iOS 14.6 beta discovered by MacRumors. Earlier today, a report claimed that Apple will announce a new $9.99 per month Apple Music tier that offers HiFi music streaming in the "coming weeks.
+
+
