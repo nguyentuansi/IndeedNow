@@ -130,3 +130,47 @@
 > Pavel Durov's announcement of group video calls on Telegram was accompanied by a short promotional video. — Picture courtesy of Pavel Durov/Telegram via ETX Studio Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, May 1 ­— In a fresh challenge to WhatsApp, Telegram is also about to launch group video calling. The communications app is to bring out the new feature in May, offering a further incentive to attract new users to its platform. On April 28, Telegram CEO Pavel Durov announced the news.
 
 
+***
+![The best free antivirus platforms for Mac in 2021](https://img.dtcn.com/image/digitaltrends/applemacbook-review-kybrd1-1200x630-c-ar1.91.jpg "The best free antivirus platforms for Mac in 2021")
+
+
+[The best free antivirus platforms for Mac in 2021](https://www.digitaltrends.com/computing/best-free-antivirus-software-for-mac/)
+
+
+> If you're a Mac user, you probably love the sleek desktop experience and how easy it is to use and understand. Luckily, it's not the most-targeted platform on the planet, but having antivirus software installed on your Mac can certainly give you peace of mind. Finding an antivirus platform can be challenging because so many options are only compatible with Windows. However, there are plenty of antivirus solutions offered to Mac owners. Here is a list of the best free antivirus platforms for Mac, so you can protect your Mac OS.
+
+
+***
+[Windows 10's next big update enhances Bluetooth audio with AAC support](https://www.zeebiz.com/technology/news-windows-10s-next-big-update-enhances-bluetooth-audio-with-aac-support-155878)
+
+
+> Tech company Microsoft`s next Windows 10 update for later this year will incorporate some important audio improvements.
+
+
+***
+[BHIM UPI transactions come down slightly at Rs 4.94 lakh crore in April](https://www.zeebiz.com/technology/apps/news-bhim-upi-transactions-come-down-slightly-at-rs-494-lakh-crore-in-april-155877)
+
+
+> The digital transactions through BHIM UPI in April this year fell by 2.2 per cent from a month ago to Rs 4.94 lakh crore, data from the NPCI showed on Saturday.
+
+
+***
+![This week in Auto](https://images.moneycontrol.com/static-mcnews/2021/05/MeruEVGO-1-770x433.jpg "This week in Auto")
+
+
+[This week in Auto](https://www.moneycontrol.com/news/technology/auto/this-week-in-auto-maruti-to-shut-plants-2021-suzuki-hayabusa-launched-mahindra-fully-buys-meru-and-more-6841301.html)
+
+
+> Coronavirus dominated national news throughout the week and the auto industry was not spared by the deadly pandemic either. Auto companies announced plant shutdowns for reasons ranging from diverting oxygen consumed for medical purposes to containing the spread of the virus. Amidst all the chaos Mahindra & Mahindra announced the full takeover of the ride hailing company Meru. More on this later in the copy but first, here is a wrap of all the important news that broke during the week in the auto industryMaruti Suzuki to shut plants from May 1Maruti Suzuki will advance its maintenance shutdown period by a month to reroute oxygen consumed by its two Haryana plants for medical needs, the company said in a stock exchange filing.
+
+
+***
+![DDWP approves project worth PKR651.771m for testing 5G/IOT products and services](https://sm.mashable.com/t/mashable_pk/photo/default/5g-nokia-doha-1280-800-84-s-c1-640x400_7wxc.1200.jpg "DDWP approves project worth PKR651.771m for testing 5G/IOT products and services")
+
+
+[DDWP approves project worth PKR651.771m for testing 5G/IOT products and services](https://pk.mashable.com/tech/9225/ddwp-approves-project-worth-pkr651771m-for-testing-5giot-products-and-services)
+
+
+> Departmental Development Working Party (DDWP) of the Ministry of IT and Telecommunications has approved a project National Center for testing 5G/IOT Products and Services worth PKR651.771 million. As per the news release shared by the authority, the project was approved in the third meeting of the DDWP for the fiscal year 2020-2021, held under the supervision of the Federal Secretary of IT and Telecommunications, Shoaib Ahmad Siddiqui. Along with the approval for the project, the secretary also chaired meeting regarding the Progress Review of PSDP FY-2020-21.
+
+
