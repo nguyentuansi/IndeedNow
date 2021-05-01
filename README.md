@@ -412,3 +412,53 @@
 > Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+![Best cheap fitness deals for May 2021](https://img.dtcn.com/image/digitaltrends/nordictrack-x32i-press-lifestyle-1200x630-c-ar1.91.jpg "Best cheap fitness deals for May 2021")
+
+
+[Best cheap fitness deals for May 2021](https://www.digitaltrends.com/dtdeals/best-fitness-deals/)
+
+
+> If you're shopping for workout and fitness gear for your home, you already know the demand for home fitness equipment continues to be tight. We survey what's available each week, and if you're looking for fitness equipment, we have you covered. Take advantage of the opportunity to get in shape or stay in shape. We did the research and found the best fitness deals and compiled them here. Fitness retailers have deep inventories of standbys such as dumbells, water bottles, and mats, plus a wide assortment of the latest fitness technology.
+
+
+***
+![Best cheap elliptical machine deals for May 2021](https://img.dtcn.com/image/digitaltrends/golds-gym-stride-trainer-380-elliptical-1200x630-c-ar1.91-n.jpg "Best cheap elliptical machine deals for May 2021")
+
+
+[Best cheap elliptical machine deals for May 2021](https://www.digitaltrends.com/dtdeals/best-elliptical-deals/)
+
+
+> Are you shopping for home cardio equipment and trying to decide between a treadmill or an elliptical machine? Listen to your joints. Many people prefer ellipticals machines because they put less stress on their bodies compared to the impact of running on a treadmill. With an elliptical machine, your feet never leave the pedals, which minimizes the potentially damaging impact on joints. Below, we've collected some fantastic elliptical machine deals. Equally important is that, unlike treadmills, most elliptical machines have handles that provide both an upper and lower body workout.
+
+
+***
+![Best cheap treadmill deals for May 2021](https://img.dtcn.com/image/digitaltrends/nordictrack-t-9-5-s-treadmill-2-1-1200x630-c-ar1.91.jpg "Best cheap treadmill deals for May 2021")
+
+
+[Best cheap treadmill deals for May 2021](https://www.digitaltrends.com/dtdeals/best-treadmill-deals/)
+
+
+> Treadmills are still the most popular cardiovascular exercise machines for good reasons related to your health.  While commercial treadmill prices can take your breath away, treadmills designed for home use are relative bargains. If you want a good quality treadmill for your home, there are plenty of appealing treadmill deals that won't empty your bank account. Some treadmill models fold up to save space if you're concerned about not having enough room to set up a treadmill. Today's top treadmill deals Famistar W500C Portable Folding Electric Treadmill — $400, was $1,000 Famistar M7 Plus Electric Folding Treadmill w/ Heart Pulse System — $460, was $2,000 NordicTrack Folding Treadmill with 7-inch Interactive Touchscreen Display — $597, was $899 Famistar 3.
+
+
+***
+![Best cheap home internet deals for May 2021: AT&T, Spectrum, Optimum and more](https://img.dtcn.com/image/digitaltrends/wrt1900acs-router-position-location-direction-improve-signal-2-1200x630-c-ar1.91.jpg "Best cheap home internet deals for May 2021: AT&T, Spectrum, Optimum and more")
+
+
+[Best cheap home internet deals for May 2021: AT&T, Spectrum, Optimum and more](https://www.digitaltrends.com/dtdeals/best-home-internet-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. It's hard to imagine living today without a consistent internet signal. Is your internet connection fast enough? Do you lose connections in the middle of video calls or streaming media? Fast and stable home internet is no longer a luxury, but a necessity. Many people rely on the web for work, learning, and communicating with distant loved ones. You also need high-speed internet for data-hungry activities such as online gaming and the streaming of movies, live sports, and TV shows.
+
+
+***
+![Here's a list of portable tech gadgets you'll want to use every day](https://img.dtcn.com/image/digitaltrends/71krugkzcyl-_sl1500_-1200x630-c-ar1.91.jpg "Here's a list of portable tech gadgets you'll want to use every day")
+
+
+[Here's a list of portable tech gadgets you'll want to use every day](https://www.digitaltrends.com/dtdeals/portable-tech-gadgets-roundup/)
+
+
+> Electronics are getting smaller and smaller, and we all seem to have our own special must-have gadgets that we never leave home without. You undoubtedly have a smartphone with you whenever you leave the house, but that's not to say there couldn't be a few more conveniences. If you're in the market for some new tech or a few cool add-ons, we've rounded up a large handful of palm-sized devices to add to your EDC loadout. If you know where to look, you can get affordable prices on key finders, SD cards, car USB chargers, wireless earbuds, portable speakers, and more.
+
+
