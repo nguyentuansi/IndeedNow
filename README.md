@@ -365,3 +365,50 @@
 > Apr 12, 2001 52,343 13,994 Apple is laying the groundwork for adding HiFi support to Apple Music which would offer Apple Music subscribers and owners of compatible devices such as certain models of AirPods access to high-fidelity audio streaming, according to code within the iOS 14.6 beta discovered by MacRumors. Earlier today, a report claimed that Apple will announce a new $9.99 per month Apple Music tier that offers HiFi music streaming in the "coming weeks.
 
 
+***
+![Big Tech is now worth so much we've forgotten to be shocked by the numbers – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=533 "Big Tech is now worth so much we've forgotten to be shocked by the numbers – TechCrunch")
+
+
+[Big Tech is now worth so much we've forgotten to be shocked by the numbers – TechCrunch](https://techcrunch.com/2021/05/01/big-tech-is-now-worth-so-much-weve-forgotten-to-be-shocked-by-the-numbers/)
+
+
+> Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It's broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. If you want it in your inbox every Saturday morning, sign up here. Ready? Let's talk money, startups and spicy IPO rumors. TechCrunch isn't a public-market-focused publication. We care about startups. But public tech companies can, at times, provide interesting insights into how the broader technology market is performing.
+
+
+***
+[A deep dive into Apple's M&A strategy, which focuses on technology and engineering talent, and, sources say, values startups at around $3M per engineer (Kif Leswing/CNBC)](http://www.techmeme.com/210501/p9#a210501p9)
+
+
+> Kif Leswing / CNBC: A deep dive into Apple's M&A strategy, which focuses on technology and engineering talent, and, sources say, values startups at around $3M per engineer — - In February, Apple CEO Tim Cook told shareholders that the company had bought about 100 companies in the past six years …
+
+
+***
+![Here are all of the monsters you can find in Monster Hunter Rise](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/monster-hunter-rise-rampage.jpg "Here are all of the monsters you can find in Monster Hunter Rise")
+
+
+[Here are all of the monsters you can find in Monster Hunter Rise](https://www.imore.com/monster-hunter-rise-list-confirmed-monsters-so-far)
+
+
+> Source: Capcom In the world of Monster Hunter Rise, your goal is to protect Kamura Village from a smorgasbord of monsters threatening to destroy it. These beasties can range from small reptiles that gang up on their prey to gargantuan-sized behemoths that can crush you like a grape. If you want to stand a chance, you will need to learn what these monsters are capable of. Here is our list of the monsters you will be facing in Monster Hunter Rise. We will continually update this list as Monster Hunter Rise receives future title updates and downloadable content.
+
+
+***
+![Someone Unearthed This 2007 VH1 Clip From 'The Fabulous Life Of Billion Dollar Wall Street Ballers' Celebrating Jeffrey Epstein And It Really Didn't Age Well](https://cdn.digg.com/wp-content/uploads/2021/05/01193837/Screen-Shot-2021-05-01-at-3.38.16-PM.jpg "Someone Unearthed This 2007 VH1 Clip From 'The Fabulous Life Of Billion Dollar Wall Street Ballers' Celebrating Jeffrey Epstein And It Really Didn't Age Well")
+
+
+[Someone Unearthed This 2007 VH1 Clip From 'The Fabulous Life Of Billion Dollar Wall Street Ballers' Celebrating Jeffrey Epstein And It Really Didn't Age Well](https://digg.com/video/someone-unearthed-this-2007-vh1-clip-celebrating-jeffrey-epstein)
+
+
+> WHAT'S THE MATTER WITH KANSAS? Kansas state Rep. Mark Samsel was arrested on charges of misdemeanor battery on Thursday after getting into a physical altercation with a student while substitute teaching in Wellsville. With awkward mentions of Bill Clinton and Kevin Spacey, this segment about Jeffrey Epstein from VH1's "The Fabulous Life Of… Wall Street Billionaire Ballers" is pretty cringeworthy in hindsight. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up.
+
+
+***
+![Solo Loop Size 1 is too Large. Is there an XS 3rd party Solo Loop?](https://images.macrumors.com/social/?t=2294360&v=6 "Solo Loop Size 1 is too Large. Is there an XS 3rd party Solo Loop?")
+
+
+[Solo Loop Size 1 is too Large. Is there an XS 3rd party Solo Loop?](https://forums.macrumors.com/threads/solo-loop-size-1-is-too-large-is-there-an-xs-3rd-party-solo-loop.2294360/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
