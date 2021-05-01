@@ -46,3 +46,40 @@
 > In an apartment in Seoul, when residents blocked delivery vehicles from entering the ground, courier workers refused individual delivery. This time, the apartment side reported two courier workers to the police, claiming that they made an appeal without permission. In an apartment in Seoul, when residents blocked parcels from entering the ground, courier workers refused to deliver individual delivery. This time, the apartment side reported two courier workers to the police, claiming that they made an appeal without permission.
 
 
+***
+[Ahead of the Epic vs. Apple trial, which starts on Monday, a look at what is at stake, how the trial will work, key witnesses who will testify, and more (David Pierce/Protocol)](http://www.techmeme.com/210501/p3#a210501p3)
+
+
+> David Pierce / Protocol: Ahead of the Epic vs. Apple trial, which starts on Monday, a look at what is at stake, how the trial will work, key witnesses who will testify, and more — On Monday, Apple and Epic Games will meet in court to decide one of the most consequential antitrust arguments in the history of the tech industry.
+
+
+***
+![Bridesmaids slammed for wedding stunt](https://content.api.news/v3/images/bin/d0f3a5b0e60da4dc43708d59cdd53c17 "Bridesmaids slammed for wedding stunt")
+
+
+[Bridesmaids slammed for wedding stunt](https://www.news.com.au/technology/online/social/bridesmaids-prank-bride-by-wearing-banned-shoes-in-viral-stunt/news-story/1385bc76ad411c4a75d10ae593bb8419)
+
+
+> A group of bridesmaids has been roundly criticised on social media for breaking the bride's dress code on her wedding day.A group of bridesmaids has been slammed on social media for breaking the bride's dress code on her wedding day. A video showing the bridesmaids' prank was posted on TikTok by user @gabyrojas992 earlier this month. The clip, which has been viewed more than 8.5 million times, shows six bridesmaids in purple dresses — and purple Crocs. The video is captioned: 'When she said no to crocs.
+
+
+***
+![Bridesmaids slammed for wedding pic stunt](https://content.api.news/v3/images/bin/d0f3a5b0e60da4dc43708d59cdd53c17 "Bridesmaids slammed for wedding pic stunt")
+
+
+[Bridesmaids slammed for wedding pic stunt](https://www.news.com.au/technology/online/social/bridesmaids-prank-bride-by-wearing-banned-shoes-in-viral-stunt/news-story/1385bc76ad411c4a75d10ae593bb8419)
+
+
+> A group of bridesmaids has been roundly criticised on social media for breaking the bride's dress code on her wedding day.A group of bridesmaids has been slammed on social media for breaking the bride's dress code on her wedding day. A video showing the bridesmaids' prank was posted on TikTok by user @gabyrojas992 earlier this month. The clip, which has been viewed more than 8.5 million times, shows six bridesmaids in purple dresses — and purple Crocs. The video is captioned: 'When she said no to crocs.
+
+
+***
+![May 2021 Activity Thread](https://forums.macrumors.com/attachments/58808815-05bf-4896-a4c5-2427a9bb7ea9-jpeg.1767950/ "May 2021 Activity Thread")
+
+
+[May 2021 Activity Thread](https://forums.macrumors.com/threads/may-2021-activity-thread.2294257/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
