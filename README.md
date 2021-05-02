@@ -844,3 +844,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Building a convolutional variational autoencoder (VAE) in PyTorch](https://external-preview.redd.it/Bgy98s9Fn0PH75SghwsOaGbjo8SqUhuG1MElmty7RsE.jpg?auto=webp&s=a957bf27c4ab35b1ab2484850294f4fbfcff6952 "Building a convolutional variational autoencoder (VAE) in PyTorch")
+
+
+[Building a convolutional variational autoencoder (VAE) in PyTorch](https://www.reddit.com/r/programming/comments/n39r8p/building_a_convolutional_variational_autoencoder/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Building a variational autoencoder (VAE) in PyTorch](https://external-preview.redd.it/Bgy98s9Fn0PH75SghwsOaGbjo8SqUhuG1MElmty7RsE.jpg?auto=webp&s=a957bf27c4ab35b1ab2484850294f4fbfcff6952 "Building a variational autoencoder (VAE) in PyTorch")
+
+
+[Building a variational autoencoder (VAE) in PyTorch](https://www.reddit.com/r/programming/comments/n39in7/building_a_variational_autoencoder_vae_in_pytorch/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Increasing'vaccine passports'... Vaccine type/variable variable](https://img.sbs.co.kr/newimg/news/20210429/201546094_1280.jpg "Increasing'vaccine passports'... Vaccine type/variable variable")
+
+
+[Increasing'vaccine passports'... Vaccine type/variable variable](https://www.tellerreport.com/tech/2021-05-02-increasing-vaccine-passports-----vaccine-type-variable-variable.SkcKpr2P_.html)
+
+
+> A growing number of countries are allowing people who have received the corona vaccine to travel freely without self-isolation. On the map of Europe you see now, those countries are marked in green, and places marked in red, such as Italy and Spain, are countries that are about to be implemented. A growing number of countries are allowing people who have received the corona vaccine to travel freely without self-isolation. On the map of Europe you see now, those countries are marked in green, and places marked in red, such as Italy and Spain, are countries that are about to be implemented.
+
+
+***
+![Python projects for resume](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Python projects for resume")
+
+
+[Python projects for resume](https://www.reddit.com/r/Python/comments/n39hym/python_projects_for_resume/)
+
+
+> What projects should be done in Python for resume and uploading in github ? (Particularly to show skills/get a job/internship ) After learning algorithms what should be next step in learning Python? Or it would be better to gain knowledge in other languages ?
+
+
+***
+![Top 7 best Sensational React Native tutorials.](https://external-preview.redd.it/_SjUnSTsDsFAMHVX3WPE5-RHUZ0_iUONGCD1xJE8npA.jpg?auto=webp&s=a0f64e3d4532fd2c85b8d10801a04a38393cb6eb "Top 7 best Sensational React Native tutorials.")
+
+
+[Top 7 best Sensational React Native tutorials.](https://www.reddit.com/r/programming/comments/n39fd4/top_7_best_sensational_react_native_tutorials/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
