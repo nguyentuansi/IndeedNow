@@ -559,3 +559,53 @@
 > New 'Mad Max'-inspired superyacht would be powered by re-purposed jet engines Yacht designer Uros Pavasovic says he came up with the yacht concept after seeing the huge numbers of aircraft retired during the pandemic. Rather than dropping in popularity, superyachts have been more in demand than ever during a global pandemic.But the same can't be said for passenger jet airplanes. In fact, global business jet deliveries dropped by 20.4% in 2020, while hundreds of airplanes have been decommissioned, with some likely to never fly again.
 
 
+***
+![A device to flush out fake juvenile delinquents experienced in Paris](https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/faits-divers/un-dispositif-pour-debusquer-les-faux-mineurs-delinquants-experimente-a-paris-4041348/57074160-6-fre-FR/Un-dispositif-pour-debusquer-les-faux-mineurs-delinquants-experimente-a-Paris.jpg "A device to flush out fake juvenile delinquents experienced in Paris")
+
+
+[A device to flush out fake juvenile delinquents experienced in Paris](https://www.tellerreport.com/tech/2021-05-02-a-device-to-flush-out-fake-juvenile-delinquents-experienced-in-paris.SJ9Z8siwu.html)
+
+
+> Delinquency attributed to unaccompanied minors from the Maghreb increased sharply in Paris between 2019 and 2020. But in many cases, these suspects are in reality adults seeking to escape harsher penalties. To fight against this phenomenon, the Paris Police Prefecture has set up a system to better ensure their identity. & Nbsp; Delinquency attributed to unaccompanied minors from the Maghreb increased sharply in Paris between 2019 and 2020. But in many cases, these suspects are in reality adults seeking to escape harsher penalties.
+
+
+***
+![Country Border Relationship with Plotly](https://preview.redd.it/evwtwjbjrmw61.png?width=2000&format=png&auto=webp&s=03e6790cb4b186662ab4a68c9006e8e5e9e784d5 "Country Border Relationship with Plotly")
+
+
+[Country Border Relationship with Plotly](https://www.reddit.com/r/Python/comments/n2yh3g/country_border_relationship_with_plotly/)
+
+
+> Country Border RelationshipIncludes:Flag located in the capitalScaling of the flag by areaNode diagram with border relationshttps://gitlab.com/Fernando3161/map-network
+
+
+***
+![Twitter India blocks posts critical of Modi's Covid-19 response](https://external-preview.redd.it/Br6BS5tdreH4mQktFoSMGqliVD9PjHaXJYRXJv2z2Ts.jpg?auto=webp&s=32771ad9667788ec5479c21617eb311c5c622e28 "Twitter India blocks posts critical of Modi's Covid-19 response")
+
+
+[Twitter India blocks posts critical of Modi's Covid-19 response](https://www.reddit.com/r/technology/comments/n2ye47/twitter_india_blocks_posts_critical_of_modis/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![[Breaking News] Prosecutor General Candidate Osu Kim · Bonsun Koo · Seongbeom Bae · Namgwan Cho… Lee Seong-yoon eliminated](https://img.sbs.co.kr/newimg/news/20210429/201545869_1280.jpg "[Breaking News] Prosecutor General Candidate Osu Kim · Bonsun Koo · Seongbeom Bae · Namgwan Cho… Lee Seong-yoon eliminated")
+
+
+[[Breaking News] Prosecutor General Candidate Osu Kim · Bonsun Koo · Seongbeom Bae · Namgwan Cho… Lee Seong-yoon eliminated](https://www.tellerreport.com/tech/2021-05-02-[breaking-news]-prosecutor-general-candidate-osu-kim-·-bonsun-koo-·-seongbeom-bae-·-namgwan-cho…-lee-seong-yoon-eliminated.rkqMxiswO.html)
+
+
+> If you get the vaccine, you are exempt from quarantine... "The first step to daily recovery" vs. "Prematurely"
+
+
+***
+![Is it possible to search for a phrase?](https://images.macrumors.com/social/?t=2294405&v=6 "Is it possible to search for a phrase?")
+
+
+[Is it possible to search for a phrase?](https://forums.macrumors.com/threads/is-it-possible-to-search-for-a-phrase.2294405/)
+
+
+> I was looking for a previous post by a specific user, and wanted to search on a phrase rather than a set of possible keywords. I put the phrase in quotes thusly: 'search phrase'. The search engine completely ignored the quotes, as best I can tell, and seems to be giving results with one or the other word but not the phrase. Is there a syntax to search for a phrase?
+
+
