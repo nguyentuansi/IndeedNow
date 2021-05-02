@@ -794,3 +794,53 @@
 > Many users were left aghast when, for the first time ever, Spotify announced that they are raising their subscription prices for many users. Users across the UK, US and in parts of Europe can expect to see a considerable increase to their Spotify bill. In the UK, a Premium Student account will increase from £4.99 a month to £5.99, while the two-person Duo offering will increase from £12.99 a month to £13.99. While the price of an individual account remains steady at £9.99, it is families who will experience the biggest blow, as Spotify's Premium Family plan is set to sky-rocket from £14.
 
 
+***
+![Which size Apple Watch should you get?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/09/apple-watch-series-5.jpeg "Which size Apple Watch should you get?")
+
+
+[Which size Apple Watch should you get?](https://www.imore.com/which-apple-watch-size-should-you-get)
+
+
+> The 44mm Apple Watch is the largest Apple Watch version to date, replacing the 42mm versions on the Apple Watch Series 1 through Apple Watch Series 3. This model is the one with more official bands available. From $309 at Apple More real estate Larger battery, longer battery life More expensive Too big for some The 40mm Apple Watch has a screen size that's slightly bigger than the 38mm Apple Watch Series 3, but that's mainly because the display is so much larger. Smaller wrists will love this model as well as your pocketbook.
+
+
+***
+![‘A Perfect Positive Storm': Bonkers Dollars for Big Tech](https://static01.nyt.com/images/2021/04/30/business/30bigtech-print1/29bigtech-sub-facebookJumbo.jpg "‘A Perfect Positive Storm': Bonkers Dollars for Big Tech")
+
+
+[‘A Perfect Positive Storm': Bonkers Dollars for Big Tech](https://www.nytimes.com/2021/04/29/technology/big-tech-pandemic-economy.html)
+
+
+> Continue reading the main storyThe dictionary doesn't have enough superlatives to describe what's happening to the five biggest technology companies, raising uncomfortable questions for their C.E.O.s.Amazon's stock market value is $1.8 trillion, nearly double what it was before the pandemic.Credit...Gianni Cipriano for The New York TimesPublished April 29, 2021Updated May 2, 2021, 9:55 a.m. ETIn the Great Recession more than a decade ago, big tech companies hit a rough patch just like everyone else.
+
+
+***
+![Tech Mahindra, Reagene to file patent for coronavirus attacking molecule](https://bsmedia.business-standard.com/_media/bs/img/hp/home-page/2021-04/26/full/1619434290-2884.jpg "Tech Mahindra, Reagene to file patent for coronavirus attacking molecule")
+
+
+[Tech Mahindra, Reagene to file patent for coronavirus attacking molecule](https://www.business-standard.com/article/companies/tech-mahindra-reagene-to-file-patent-for-coronavirus-attacking-molecule-121050200662_1.html)
+
+
+> IT company Tech Mahindra is in the process of filing a patent, along with Reagene Biosciences, for a drug molecule that can potentially attack coronavirus, according to a senior company official. Tech Mahindra Global Head (Makers Lab) Nikhil Malhotra told PTI that the company along with its partner is applying for patenting on which further testing will be done. Markers Lab is the research and development arm of Tech Mahindra. "We have found a molecule that can potentially attack coronavirus. We have applied for a joint patent and cannot reveal the name of the molecule unless the patent process is completed," Malhotra said.
+
+
+***
+![Crew-1 astronauts splash down safely off the Florida coast](https://img.dtcn.com/image/digitaltrends/nasas-spacex-crew-1-splashdown-1200x630-c-ar1.91.jpg "Crew-1 astronauts splash down safely off the Florida coast")
+
+
+[Crew-1 astronauts splash down safely off the Florida coast](https://www.digitaltrends.com/news/crew-1-astronauts-safe-splashdown/)
+
+
+> NASA astronauts Shannon Walker, left, Victor Glover, Mike Hopkins, and Japan Aerospace Exploration Agency (JAXA) astronaut Soichi Noguchi, right are seen inside the SpaceX Crew Dragon Resilience spacecraft onboard the SpaceX GO Navigator recovery ship shortly after landing in the Gulf of Mexico off the coast of Panama City, Florida, at 2:56 a.m. EDT May 2, 2021. NASA/Bill Ingalls The four astronauts of the Crew-1 mission have made it home safely from the International Space Station, splashing down in the ocean off the coast of Florida early this morning at 2:56 a.
+
+
+***
+![How do I remove the first 300 million lines from a 700 GB txt file on a system with 1 TB max disk space?](https://external-preview.redd.it/bK4oXKNpgxoE53LCEzd4qyFMVNZmmo1f8nfKJ6xAfwY.jpg?auto=webp&s=4d3a3fdcce8a0b6f57eff17914edd41d6cba223d "How do I remove the first 300 million lines from a 700 GB txt file on a system with 1 TB max disk space?")
+
+
+[How do I remove the first 300 million lines from a 700 GB txt file on a system with 1 TB max disk space?](https://www.reddit.com/r/programming/comments/n36swe/how_do_i_remove_the_first_300_million_lines_from/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
