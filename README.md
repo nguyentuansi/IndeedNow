@@ -894,3 +894,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![The plug-and-play API built right into the Java core](https://external-preview.redd.it/G8Nur_nbLfNSqc-pxS0dwhSFWZmDNOUNKmrJjqnovuc.jpg?auto=webp&s=3e192d5c4bdbc3087c3bad42c131b12ceae8c4c7 "The plug-and-play API built right into the Java core")
+
+
+[The plug-and-play API built right into the Java core](https://www.reddit.com/r/programming/comments/n3c485/the_plugandplay_api_built_right_into_the_java/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The Comfort Revolution is dead. Long live the Comfort Revolution.](https://mondrian.mashable.com/2021%252F05%252F02%252Fe2%252F6da84c8bbd9a4d9bb3f2064b1f8507ee.cb45c.jpg%252F1200x630.jpg?signature=3ELrY9wi_4tkYEa9M_O7ZAYjx-g= "The Comfort Revolution is dead. Long live the Comfort Revolution.")
+
+
+[The Comfort Revolution is dead. Long live the Comfort Revolution.](https://mashable.com/article/comfort-revolution-post-covid-pandemic/)
+
+
+> In a time of increasingly promising pandemic-related news in the United States — new cases are dropping as vaccinations continue — it brings me displeasure to report a bit of bad news: The Comfort Revolution may be coming to an end.  The Comfort Revolution is a phrase entirely invented by me and my editor, but you likely know what I mean. During the pandemic we've been comfy. Amid the horrifying COVID crisis — which created a new reality in which many folks worked from home and could no longer socialize — getting dressed up made zero sense.
+
+
+***
+![GitHub Profile README Generator](https://external-preview.redd.it/NB0cnvVTlWa4R0QEXwTb166rZ9aloRtYk58PGKG59LM.jpg?auto=webp&s=3f3ca892f2a652b644a72062999fc592a57222cf "GitHub Profile README Generator")
+
+
+[GitHub Profile README Generator](https://www.reddit.com/r/programming/comments/n3bp50/github_profile_readme_generator/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Microsoft planned to reduce its cut from 30% to 12% for Xbox games too, a document filed as part of Epic vs Apple lawsuit in January shows (Tom Warren/The Verge)](http://www.techmeme.com/210502/p7#a210502p7)
+
+
+> Tom Warren / The Verge: Microsoft planned to reduce its cut from 30% to 12% for Xbox games too, a document filed as part of Epic vs Apple lawsuit in January shows — Confidential Microsoft documents reveal some big plans — Microsoft has been planning to cut its Xbox store cut to just 12 percent …
+
+
+***
+![We're on track to set a new record for global meat consumption](https://wp.technologyreview.com/wp-content/uploads/2021/04/Turbine-Meat-merged.gif?resize=1200,600 "We're on track to set a new record for global meat consumption")
+
+
+[We're on track to set a new record for global meat consumption](https://www.technologyreview.com/2021/04/26/1023636/sustainable-meat-livestock-production-climate-change/)
+
+
+> Bill Gates made headlines earlier this year for saying that 'all rich countries should move to 100% synthetic beef' in an interview with MIT Technology Review about the release of his new book, How to Avoid a Climate Disaster. Although he recognized the political difficulty of telling Americans they can't eat any more red meat, Gates said he sees real potential in plant-based alternatives from companies like Beyond Meat and Impossible Foods. Nevertheless, the world is expected to eat more meat in 2021 than ever before.
+
+
