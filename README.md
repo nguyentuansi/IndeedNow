@@ -941,3 +941,53 @@
 > Bill Gates made headlines earlier this year for saying that 'all rich countries should move to 100% synthetic beef' in an interview with MIT Technology Review about the release of his new book, How to Avoid a Climate Disaster. Although he recognized the political difficulty of telling Americans they can't eat any more red meat, Gates said he sees real potential in plant-based alternatives from companies like Beyond Meat and Impossible Foods. Nevertheless, the world is expected to eat more meat in 2021 than ever before.
 
 
+***
+![These Zelda Switch controllers will make you yell, "HYAHH!"](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/zelda-controller-lifestyle-hero.jpg "These Zelda Switch controllers will make you yell, "HYAHH!"")
+
+
+[These Zelda Switch controllers will make you yell, "HYAHH!"](https://www.imore.com/best-zelda-switch-controllers)
+
+
+> Best Zelda Switch Controllers iMore 2021 When playing The Legend of Zelda games, your success is all about wielding the right tool, which translates in real life to having the best Zelda Switch controller. You can celebrate Zelda's 35th anniversary this year with one of plenty of Zelda-themed controllers to choose from. As you know, it's dangerous to go alone, take one of these! Staff Pick This is a beautiful-looking controller from PowerA with 30 hours of gameplay on a full charge. It's wireless to help you keep the handheld freedom the Switch offers.
+
+
+***
+![The Powerbeats Pro earbuds have a long-lasting battery and are just $170](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/powerbeats-pro-headphones.jpg "The Powerbeats Pro earbuds have a long-lasting battery and are just $170")
+
+
+[The Powerbeats Pro earbuds have a long-lasting battery and are just $170](https://www.imore.com/powerbeats-pro-earbuds-have-long-lasting-battery-and-great-low-price-170)
+
+
+> The Powerbeats Pro earbuds are some of our favorite true wireless earbuds around, mostly for the super great battery life. Right now you can find just about every color on sale, including the standard black version on sale for $169.99 at Amazon. On Amazon, the black earbuds have never dropped below today's deal price on Amazon and this even matches what we saw them drop to on Black Friday last year. Other colors on sale include Glacier Blue, Ivory, and Navy. This price is also being matched at Apple in a couple of colors.
+
+
+***
+![Apple and Epic Head to Court Over Their Slices of the App Pie](https://external-preview.redd.it/sG_pasrJRmTx8DtKjESRR2XM89HPTW5KL4ibhoLgJ6s.jpg?auto=webp&s=10f1cb4582f4d512e76ed837f56b3d72dcadc9ba "Apple and Epic Head to Court Over Their Slices of the App Pie")
+
+
+[Apple and Epic Head to Court Over Their Slices of the App Pie](https://www.reddit.com/r/programming/comments/n3e9o4/apple_and_epic_head_to_court_over_their_slices_of/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Neuralink co-founder Max Hodak leaves Elon Musk's brain implant company](https://external-preview.redd.it/Rx7381HtYwbC65zakw7qAVzip9rwdMK2OW4IN3UFAM4.jpg?auto=webp&s=b4be69a877ddddc9b99469a2103612dc7dc196ff "Neuralink co-founder Max Hodak leaves Elon Musk's brain implant company")
+
+
+[Neuralink co-founder Max Hodak leaves Elon Musk's brain implant company](https://www.reddit.com/r/technology/comments/n3e5tv/neuralink_cofounder_max_hodak_leaves_elon_musks/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Download InCopy: How to try Adobe InCopy for free or with Creative Cloud](https://cdn.mos.cms.futurecdn.net/wMsiVLNVeGJ8fsQpuMUaeY-1200-80.jpg "Download InCopy: How to try Adobe InCopy for free or with Creative Cloud")
+
+
+[Download InCopy: How to try Adobe InCopy for free or with Creative Cloud](https://www.techradar.com/how-to/try-adobe-incopy-for-free-or-with-creative-cloud)
+
+
+> With Adobe InCopy, copywriters and editors can edit and style text, even while a designer is simultaneously working on the same document in partner program InDesign. So if you're in the writing game and looking for the best desktop publishing software for your needs, it's an option worth considering.InCopy is part of Adobe's Creative Cloud suite and there are several different ways you can access and pay for these apps. In this article, we explain how to download InCopy and try it out for free, the various subscription plans available, and what alternatives you might want to consider.
+
+
