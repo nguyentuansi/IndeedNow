@@ -609,3 +609,47 @@
 > I was looking for a previous post by a specific user, and wanted to search on a phrase rather than a set of possible keywords. I put the phrase in quotes thusly: 'search phrase'. The search engine completely ignored the quotes, as best I can tell, and seems to be giving results with one or the other word but not the phrase. Is there a syntax to search for a phrase?
 
 
+***
+[Members of the Linux developer community reflect on "hypocrite commits" research, which got University of Minnesota banned from contributing to the Linux kernel (Monica Chin/The Verge)](http://www.techmeme.com/210502/p2#a210502p2)
+
+
+> Monica Chin / The Verge: Members of the Linux developer community reflect on “hypocrite commits” research, which got University of Minnesota banned from contributing to the Linux kernel — On the evening of April 6th, a student emailed a patch to a list of developers. Fifteen days later …
+
+
+***
+![Apple's App Store had 78% margin in 2019, Epic expert says](https://images.indianexpress.com/2021/05/82c0b0ed-90dc-45e8-9c62-f445372a3845.jpg "Apple's App Store had 78% margin in 2019, Epic expert says")
+
+
+[Apple's App Store had 78% margin in 2019, Epic expert says](https://indianexpress.com/article/technology/tech-news-technology/apples-app-store-had-78-margin-in-2019-epic-expert-says-7298806/)
+
+
+> Apple Inc's App Store had operating margins of almost 78% in fiscal year 2019, according to testimony from an Epic Games Inc expert witness based on documents obtained from the iPhone maker. The figure comes from Ned Barnes, a financial and economics researcher, who said he obtained documents 'prepared by Apple's Corporate Financial Planning and Analysis group and produced from the files of Apple CEO Tim Cook.' Apple is disputing the accuracy of Barnes's calculations and urging a judge to restrict public discussion of App Store profit, as the companies head into a high-stakes trial Monday in Oakland, California.
+
+
+***
+[Apple vs. Facebook: The war of words illustrated](https://www.reddit.com/r/technology/comments/n305op/apple_vs_facebook_the_war_of_words_illustrated/)
+
+
+> Thank you for your submission, but due to the high volume of spam coming from Medium.com and similar self-publishing sites, r/Technology has opted to filter all of those posts pending mod approval. You may message the moderators to request a review/approval provided you are not the author or are not associated at all with the submission. Thank you for understanding.I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.
+
+
+***
+![Apple could announce AirPods 3 and Apple Music HiFi tier in ‘coming weeks'](https://images.indianexpress.com/2021/05/apple-music.jpg "Apple could announce AirPods 3 and Apple Music HiFi tier in ‘coming weeks'")
+
+
+[Apple could announce AirPods 3 and Apple Music HiFi tier in ‘coming weeks'](https://indianexpress.com/article/technology/tech-news-technology/apple-could-announce-airpods-3-and-apple-music-hifi-tier-in-coming-weeks-7298726/)
+
+
+> Apple could be adding a new Hi-Fi subscription tier to its Apple Music, offering high-resolution music streaming to better compete with Spotify. Sources close to Hits Daily Double claim the announcement will be made within weeks. This means the new 'Hi-Fi' tier will bring CD-quality, lossless audio to iPhones and iPads. Details are sketchy at the moment, but the new Apple Music HiFi will reportedly cost $9.99 per user, the same as its individual plans. Essentially, Apple Music HiFi will provide a high-quality music experience to listeners.
+
+
+***
+![How to Create a UAN Number Online](https://i.gadgets360cdn.com/large/laptop_on_hand_image_pexels_christina_morillo_1619876563385.jpg "How to Create a UAN Number Online")
+
+
+[How to Create a UAN Number Online](https://gadgets.ndtv.com/how-to/features/uan-number-create-generate-epfo-aadhaar-how-to-guide-steps-tutorial-2426001)
+
+
+> UAN number is necessary when you join the Employees' Provident Fund. Although the Employees' Provident Fund Organisation (EPFO) allows employers to generate their employees' Universal Account Number (commonly known as UAN) through its portal, individual users can also create their UAN online. You can look at your Employees' Provident Fund (EPF) account once you have your 12-digit UAN number ready. It also lets you view your passbook and check the total amount you have in your EPF account.Once completed, you will receive your UAN number and password on your registered mobile number.
+
+
