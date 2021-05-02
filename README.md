@@ -462,3 +462,50 @@
 > Electronics are getting smaller and smaller, and we all seem to have our own special must-have gadgets that we never leave home without. You undoubtedly have a smartphone with you whenever you leave the house, but that's not to say there couldn't be a few more conveniences. If you're in the market for some new tech or a few cool add-ons, we've rounded up a large handful of palm-sized devices to add to your EDC loadout. If you know where to look, you can get affordable prices on key finders, SD cards, car USB chargers, wireless earbuds, portable speakers, and more.
 
 
+***
+[By limiting iOS apps' ad tracking capabilities, Apple could see increased commissions from IAPs and subscriptions if developers start charging for apps (Patrick McGee/Financial Times)](http://www.techmeme.com/210501/p11#a210501p11)
+
+
+> Patrick McGee / Financial Times: By limiting iOS apps' ad tracking capabilities, Apple could see increased commissions from IAPs and subscriptions if developers start charging for apps — The iPhone maker is taking on developers as well as Facebook and Google, transforming the $400bn digital ads market
+
+
+***
+![How Mark Zuckerberg and Apple's C.E.O. Became Foes](https://static01.nyt.com/images/2021/04/17/business/17facebookapple/17facebookapple-facebookJumbo.jpg "How Mark Zuckerberg and Apple's C.E.O. Became Foes")
+
+
+[How Mark Zuckerberg and Apple's C.E.O. Became Foes](https://www.nytimes.com/2021/04/26/technology/mark-zuckerberg-tim-cook-facebook-apple.html)
+
+
+> Continue reading the main storyThe chief executives of Facebook and Apple have opposing visions for the future of the internet. Their differences escalated this week.Facebook's chief executive, Mark Zuckerberg, left, and Apple's chief executive, Tim Cook.Credit...Mel HaaschBy Mike Isaac and Jack NicasPublished April 26, 2021Updated May 1, 2021, 8:20 p.m. ET阅读简体中文版閱讀繁體中文版Leer en españolSAN FRANCISCO — At a confab for tech and media moguls in Sun Valley, Idaho, in July 2019, Timothy D. Cook of Apple and Mark Zuckerberg of Facebook sat down to repair their fraying relationship.
+
+
+***
+![This $12 million desert mansion, once owned by the 'Oceans 11' producer, will make your jaw drop and Pied Piper went 'Oceans 11' in the latest 'Silicon Valley'](https://https://www.thearkatech.com/img/news_img/all/7251_3_1200.pic "This $12 million desert mansion, once owned by the 'Oceans 11' producer, will make your jaw drop and Pied Piper went 'Oceans 11' in the latest 'Silicon Valley'")
+
+
+[This $12 million desert mansion, once owned by the 'Oceans 11' producer, will make your jaw drop and Pied Piper went 'Oceans 11' in the latest 'Silicon Valley'](https://www.thearkatech.com/en/41116/)
+
+
+> © Instagram / oceans 11 This $12 million desert mansion, once owned by the 'Oceans 11' producer, will make your jaw drop and Pied Piper went 'Oceans 11' in the latest 'Silicon Valley' This $12 million desert mansion, once owned by the 'Oceans 11' producer, will make your jaw drop and Pied Piper went 'Oceans 11' in the latest 'Silicon Valley' Last News: Pied Piper went 'Oceans 11' in the latest 'Silicon Valley' and This $12 million desert mansion, once owned by the 'Oceans 11' producer, will make your jaw drop Indians vs.
+
+
+***
+![Cast Of Oceans 11: What They're Worth Today and Sandra Bullock Oceans 11 Remake](https://https://www.thearkatech.com/img/news_img/all/7251_9_1200.pic "Cast Of Oceans 11: What They're Worth Today and Sandra Bullock Oceans 11 Remake")
+
+
+[Cast Of Oceans 11: What They're Worth Today and Sandra Bullock Oceans 11 Remake](https://www.thearkatech.com/en/41115/)
+
+
+> © Instagram / oceans 11 By: Jacob Johnson2021-05-02 03:15:45 Last News: Sandra Bullock Oceans 11 Remake and Cast Of Oceans 11: What They're Worth Today Panthers draft guard Deonte Brown in sixth round. Tigers get revenge and roll to Class 6 state title. Overcoming COVID myths and fears in Malawi. NHL Roundup: Latest rumors, Adam Fox Norris quest, Tortorella's future, and more. news Quotes. Bill Belichick says long-time Patriots associate Ernie Adams worked his final draft. 2021 NFL Draft: Browns add receiving option in UCLA running back Demetric Felton.
+
+
+***
+![Jenny Slate Considers Abortion in ‘Obvious Child' and Obvious Child: Sundance Review](https://https://www.thearkatech.com/img/news_img/all/7247_11_1200.pic "Jenny Slate Considers Abortion in ‘Obvious Child' and Obvious Child: Sundance Review")
+
+
+[Jenny Slate Considers Abortion in ‘Obvious Child' and Obvious Child: Sundance Review](https://www.thearkatech.com/en/41114/)
+
+
+> © Instagram / obvious child Jenny Slate Considers Abortion in ‘Obvious Child' and Obvious Child: Sundance Review Obvious Child: Sundance Review and Jenny Slate Considers Abortion in ‘Obvious Child' Last News: What Comes Out at the End of Therapy, and Why It Matters. Hill and Sederquist vie for Leander Mayor during May 1 election. Amherst Native and former Badger running back Garrett Groshek signs with the Raiders. Jury has case of St. Louis man accused of killing his 10-month-old son and two others.
+
+
