@@ -703,3 +703,50 @@
 > If you're excited for the new iPad Pro 2021, or perhaps one of the tablets we're expecting Apple to debut later in the year like the new iPad or iPad Mini 6, news probably hasn't escaped you of possible stock shortages (or perhaps news had escaped you, so we're sorry you had to find out this way).Word is that when each of the new iPads goes on sale, stock will be pretty limited - we've seen the same thing for PS5s, Xbox Series Xs and RTX 3090 graphics cards, and apparently iPads are next.If you're trying to buy one, then, you might find lots of retailers out of stock, or with units in just a few configurations, and if you try to order one there might be a several-month wait time.
 
 
+***
+![Man United vs Liverpool live stream: How to watch Premier League football](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/man-united-liverpool.jpg "Man United vs Liverpool live stream: How to watch Premier League football")
+
+
+[Man United vs Liverpool live stream: How to watch Premier League football](https://www.androidcentral.com/man-united-liverpool-live-stream-premier-league)
+
+
+> Two of English football's biggest rivals battle it out in the Premier League on Sunday in what we expect to be a full-blooded encounter. Don't miss a moment with our Man United vs Liverpool live stream guide. Source: Android Central While local rivals Man City have all but tied up the Premier League title already, Man United will want to keep the pressure on the Sky Blues with a win today. United come into today's game on a 7-game unbeaten streak and will be brimming with confidence after thrashing Roma 6-2 in the Europa League in their last outing.
+
+
+***
+![The psychology behind why we hate-follow people on social media](https://external-preview.redd.it/ezJJnG1Pp4vdyLwvvVk22kVOXvNmiCzTM-6qg0WLEHI.jpg?auto=webp&s=9a4d4cb02dd7744fbdc639329f6702961ed380c4 "The psychology behind why we hate-follow people on social media")
+
+
+[The psychology behind why we hate-follow people on social media](https://www.reddit.com/r/technology/comments/n338rl/the_psychology_behind_why_we_hatefollow_people_on/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Hand Gesture Controlled Tello Drone using Python and OpenCV 2021](https://external-preview.redd.it/NTFgSLMuKKC4754Ngii4rRU1q8uo7tiU-VlVmLCh6gc.jpg?auto=webp&s=801384f46c05c30d0ec4409a0021958dfc630da7 "Hand Gesture Controlled Tello Drone using Python and OpenCV 2021")
+
+
+[Hand Gesture Controlled Tello Drone using Python and OpenCV 2021](https://www.reddit.com/r/Python/comments/n337mh/hand_gesture_controlled_tello_drone_using_python/)
+
+
+> This project was inspired by Murtaza's Workshop - Robotics and AI's videos on hand gesture control using google's mediapipe and the DJI Tello Drone. I've used python and opencv to basically recreate the drone controller using your fingers in the air. Hands and fingers are detected using google's media pipe. The code can be found here: https://github.com/NikTechT/drone_control .A video can be found here: https://youtu.be/4o77ZJJ_ynU
+
+
+***
+[I landed a junior position coding in Python, I'm so excited and I'd LOVE advice](https://www.reddit.com/r/Python/comments/n332zn/i_landed_a_junior_position_coding_in_python_im_so/)
+
+
+> Bit o' background: While I've always loved computers and dabbled with web dev as a kid, I recently (6ish months?) started coding again hardcore. I had just had a business fail, money was tight as shit, debt to our eyeballs... and I wanted to start again with one of my oldest passions that I'd always been afraid to pursue. So I hunkered down and got into Python, because I remembered liking the language.I pretty quickly got a job in non-Python web dev (Angular and Node.Js, which I was competent enough in thanks to dabbling) but it was awful.
+
+
+***
+![Run Python Code In Parallel Using Multiprocessing](https://external-preview.redd.it/5dBHHnOk8ejMTHZ-qXPBy6pZrKVyMgQ2RyOV8Vvv8JQ.jpg?auto=webp&s=5e06fed3b01e30124d9ca06ffd19d4ded7eca939 "Run Python Code In Parallel Using Multiprocessing")
+
+
+[Run Python Code In Parallel Using Multiprocessing](https://www.reddit.com/r/Python/comments/n330wk/run_python_code_in_parallel_using_multiprocessing/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
