@@ -991,3 +991,47 @@
 > With Adobe InCopy, copywriters and editors can edit and style text, even while a designer is simultaneously working on the same document in partner program InDesign. So if you're in the writing game and looking for the best desktop publishing software for your needs, it's an option worth considering.InCopy is part of Adobe's Creative Cloud suite and there are several different ways you can access and pay for these apps. In this article, we explain how to download InCopy and try it out for free, the various subscription plans available, and what alternatives you might want to consider.
 
 
+***
+![The Complete Android Kotlin Developer Course](https://external-preview.redd.it/f0zu4WLigQ-tGLfDY9XIhqN4atDlzCX85zLp-pZBpis.jpg?auto=webp&s=b55275c0974579147460fd0aa82d5c253c18be65 "The Complete Android Kotlin Developer Course")
+
+
+[The Complete Android Kotlin Developer Course](https://www.reddit.com/r/programming/comments/n3h2b1/the_complete_android_kotlin_developer_course/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Part 5 video of pair programming a Perl web app](https://external-preview.redd.it/WBhQ46cK5d28EziR_vZ4_C5ezDsmKX9Kcnb5d87WFzc.jpg?auto=webp&s=af2ff6042b47bb0ebac6b2a3e9b4f656aa895b5e "Part 5 video of pair programming a Perl web app")
+
+
+[Part 5 video of pair programming a Perl web app](https://www.reddit.com/r/programming/comments/n3h218/part_5_video_of_pair_programming_a_perl_web_app/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![One year of TILs](https://external-preview.redd.it/FxABDLtKvV-TCm_yEER3l1WeD34K9TlanJzvSP3i_pA.jpg?auto=webp&s=3c5ade75e492461b8908d66c7729737993a86adf "One year of TILs")
+
+
+[One year of TILs](https://www.reddit.com/r/programming/comments/n3h1hz/one_year_of_tils/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Sources: Verizon is nearing a deal to sell its media division, including AOL and Yahoo!, to Apollo; deal could be worth ~$5B and be announced as soon as Monday (Bloomberg)](http://www.techmeme.com/210502/p10#a210502p10)
+
+
+> Bloomberg: Sources: Verizon is nearing a deal to sell its media division, including AOL and Yahoo!, to Apollo; deal could be worth ~$5B and be announced as soon as Monday — - Deal for Verizon Media could be announced as soon as Monday — Division includes online brands Yahoo!, AOL and TechCrunch
+
+
+***
+[What3Words – The Algorithm](https://www.reddit.com/r/programming/comments/n3gv0c/what3words_the_algorithm/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
