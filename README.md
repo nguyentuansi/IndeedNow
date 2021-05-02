@@ -750,3 +750,47 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[Cloudflare, which was sued by "patent troll" Sable Networks, is offering a $100K bounty to those who can find evidence of prior art on Sable Networks' patents (Doug Kramer/The Cloudflare Blog)](http://www.techmeme.com/210502/p4#a210502p4)
+
+
+> Doug Kramer / The Cloudflare Blog: Cloudflare, which was sued by “patent troll” Sable Networks, is offering a $100K bounty to those who can find evidence of prior art on Sable Networks' patents — Here we go again. — On March 15, Cloudflare was sued by a patent troll called Sable Networks …
+
+
+***
+![Binance Trading Bot  Built with React.js  Project](https://external-preview.redd.it/8Gyln3IxZyMCqfL6xpRdFVaGaqJfnXW_swLmidkyXuU.jpg?auto=webp&s=85ff73baff042a242d73c14aced7f51e461c9e7b "Binance Trading Bot  Built with React.js  Project")
+
+
+[Binance Trading Bot  Built with React.js  Project](https://www.reddit.com/r/programming/comments/n3505y/binance_trading_bot_built_with_reactjs_project/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Aquaman 2: release date, cast and what else we know about DC's return to Atlantis](https://cdn.mos.cms.futurecdn.net/V2oZ5SHZ8Qoqk5CfS6mT4n-1200-80.jpg "Aquaman 2: release date, cast and what else we know about DC's return to Atlantis")
+
+
+[Aquaman 2: release date, cast and what else we know about DC's return to Atlantis](https://www.techradar.com/news/aquaman-2-release-date-cast-and-what-else-we-know-about-dcs-return-to-atlantis)
+
+
+> The first film made such a splash that Aquaman 2 soon became inevitable. That's because the highest-grossing movie ever based on a DC Comics character doesn't belong to any of the famous trinity of Batman, Superman or Wonder Woman. Instead, the Jason Momoa-starring, James Wan-directed Aquaman beat them all – the new king of Atlantis was also crowned DC's king of the box office.It's something of a sea-change for a character who'd traditionally been the butt of the joke in comic-book circles – in everything from Family Guy to the fake James Cameron movie in Entourage.
+
+
+***
+[OpenPhone (YC S18) Is Hiring Engineers and PMs](https://openphone.co/)
+
+
+> No body in the article.
+
+
+***
+![Spotify has announced a controversial price hike. Will musicians see any of it?](https://cdn.mos.cms.futurecdn.net/qB6cCJSi4aqcVZvcSXKbDe-1200-80.jpg "Spotify has announced a controversial price hike. Will musicians see any of it?")
+
+
+[Spotify has announced a controversial price hike. Will musicians see any of it?](https://www.techradar.com/news/spotify-has-announced-a-controversial-price-hike-will-musicians-see-any-of-it)
+
+
+> Many users were left aghast when, for the first time ever, Spotify announced that they are raising their subscription prices for many users. Users across the UK, US and in parts of Europe can expect to see a considerable increase to their Spotify bill. In the UK, a Premium Student account will increase from £4.99 a month to £5.99, while the two-person Duo offering will increase from £12.99 a month to £13.99. While the price of an individual account remains steady at £9.99, it is families who will experience the biggest blow, as Spotify's Premium Family plan is set to sky-rocket from £14.
+
+
