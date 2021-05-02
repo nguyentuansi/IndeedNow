@@ -509,3 +509,53 @@
 > © Instagram / obvious child Jenny Slate Considers Abortion in ‘Obvious Child' and Obvious Child: Sundance Review Obvious Child: Sundance Review and Jenny Slate Considers Abortion in ‘Obvious Child' Last News: What Comes Out at the End of Therapy, and Why It Matters. Hill and Sederquist vie for Leander Mayor during May 1 election. Amherst Native and former Badger running back Garrett Groshek signs with the Raiders. Jury has case of St. Louis man accused of killing his 10-month-old son and two others.
 
 
+***
+![How the Pentagon Started Taking U.F.O.s Seriously](https://external-preview.redd.it/lP6mEZxvVSrJeAIsjmxLarx6gx3Gr8ZjfgyZ2JBcMdk.jpg?auto=webp&s=513144c271876aa865bdacba501298f6e33fb381 "How the Pentagon Started Taking U.F.O.s Seriously")
+
+
+[How the Pentagon Started Taking U.F.O.s Seriously](https://www.reddit.com/r/technology/comments/n2x3p3/how_the_pentagon_started_taking_ufos_seriously/)
+
+
+> (from another thread) The huge takeaway here is Senator Harry Reid couldnt get access to the materials that Lockheed has supposedly had for decades. Materials exist folks. Now waiting for Jacque Vallee and Gary Nolans peer-reviewed Harvard paper on unknown materials.Edit and yes everybody knows what a UFO is. You dont have to say it. Theyre called Unidentified Aerial Phenomena now anyway.And no this doesnt mean aliens but it COULD be an unknown intelligence thats been here a very long time.The DoD doesnt even comment on secret projects so no this isnt anything of ours and China and Russia likely hasnt leap frogged us since the 40s or earlier.
+
+
+***
+![Live-streamers flock to eastern China's e-commerce hub in search of fame and fortune, hawking wares online](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/04/30/15ef892e-a975-11eb-b289-8dea5309a3db_image_hires_170857.JPEG?itok=tqHN4qlx&v=1619773748 "Live-streamers flock to eastern China's e-commerce hub in search of fame and fortune, hawking wares online")
+
+
+[Live-streamers flock to eastern China's e-commerce hub in search of fame and fortune, hawking wares online](https://www.scmp.com/tech/tech-trends/article/3131737/live-streamers-flock-eastern-chinas-e-commerce-hub-search-fame-and)
+
+
+> Zheng Liuping selling a wok while live-streaming in Beixiazhu village. Photo: Handout Zheng Liuping selling a wok while live-streaming in Beixiazhu village. Photo: Handout
+
+
+***
+![Input Time Selector in Vuetify for shifts with weird hours](https://external-preview.redd.it/IQIyVyA7Y7RKsV5OTIWsJTWHSEphNnhz5vRZC_dGeQg.jpg?auto=webp&s=a55fec2466b887138553eda06f6a445c1c4020a9 "Input Time Selector in Vuetify for shifts with weird hours")
+
+
+[Input Time Selector in Vuetify for shifts with weird hours](https://www.reddit.com/r/programming/comments/n2wiyy/input_time_selector_in_vuetify_for_shifts_with/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![4 Cybersecurity Threats to Your Family – And How to Face Them](https://goodmenproject.com/wp-content/uploads/2021/04/shutterstock_1669180291-scaled-e1619623143326.jpg "4 Cybersecurity Threats to Your Family – And How to Face Them")
+
+
+[4 Cybersecurity Threats to Your Family – And How to Face Them](https://goodmenproject.com/technology/4-cybersecurity-threats-to-your-family-and-how-to-face-them/)
+
+
+> — Since the start of the pandemic, countless aspects of our everyday lives have shifted online. Consequently, it's more important than ever to be aware of threats that you and your family face in the virtual sphere. Over the past 12 months, cybercrime has proliferated. UN statistics show a 600% increase in attempted data breaches, rising in time with the number of people working from home and children being schooled remotely. A recent study also found that the majority of families are aware of the dangers lurking online.
+
+
+***
+![New 'Mad Max'-inspired superyacht would be powered by re-purposed jet engines](https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/3/bf/3bf15bd0-6f95-5c71-8357-c8e3c82c86e7/608c1baef21a4.preview.jpg?resize=1120%2C630 "New 'Mad Max'-inspired superyacht would be powered by re-purposed jet engines")
+
+
+[New 'Mad Max'-inspired superyacht would be powered by re-purposed jet engines](https://news.lee.net/lifestyles/technology/new-mad-max-inspired-superyacht-would-be-powered-by-re-purposed-jet-engines/article_3b6b916f-ed67-5aa2-a99e-8c2051d511ff.html)
+
+
+> New 'Mad Max'-inspired superyacht would be powered by re-purposed jet engines Yacht designer Uros Pavasovic says he came up with the yacht concept after seeing the huge numbers of aircraft retired during the pandemic. Rather than dropping in popularity, superyachts have been more in demand than ever during a global pandemic.But the same can't be said for passenger jet airplanes. In fact, global business jet deliveries dropped by 20.4% in 2020, while hundreds of airplanes have been decommissioned, with some likely to never fly again.
+
+
