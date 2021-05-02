@@ -653,3 +653,53 @@
 > UAN number is necessary when you join the Employees' Provident Fund. Although the Employees' Provident Fund Organisation (EPFO) allows employers to generate their employees' Universal Account Number (commonly known as UAN) through its portal, individual users can also create their UAN online. You can look at your Employees' Provident Fund (EPF) account once you have your 12-digit UAN number ready. It also lets you view your passbook and check the total amount you have in your EPF account.Once completed, you will receive your UAN number and password on your registered mobile number.
 
 
+***
+![LG Chem conducts large-scale recruitment in EV battery materials biz](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/d8b7e33bcc9a4ff9ab55f0838a1ebe89.jpg "LG Chem conducts large-scale recruitment in EV battery materials biz")
+
+
+[LG Chem conducts large-scale recruitment in EV battery materials biz](https://www.koreatimes.co.kr/www/tech/2021/05/515_308163.html)
+
+
+> By Kim Hyun-binLG Chem is in the midst of a large-scale recruitment drive at its advanced materials and electric battery materials businesses to meet demand in the fast-growing market.According to the company, the advanced materials division aims to hire both new recruits and experienced workers in the battery materials field.This is the largest recruitment drive since the division was established in 2019. Through the new hires, LG Chem is aiming to diversify its businesses including anodes, separation membranes, battery materials, and engineering and OLED materials.
+
+
+***
+![GS25 hit for sexist promotional poster](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/c4f32b6024b74653a96acf54ac60a5ec.jpg "GS25 hit for sexist promotional poster")
+
+
+[GS25 hit for sexist promotional poster](https://www.koreatimes.co.kr/www/tech/2021/05/694_308161.html)
+
+
+> GS25's first promotional poster for camping items / Courtesy of GS RetailBy Kim Jae-heunGS Retail's convenience store brand, GS25, decided to delete a poster for camping products after the ad was criticized for containing sexist content that belittles men.The convenience store chain revealed the promotional material on Saturday on its social networking service that contains a drawing of a hand trying to grab a sausage. The poster was planned to be displayed for a month.However, one customer pointed out online that the hand depicted in the poster is making a sign used by misandrists belonging to the radical feminist online community "Megalia" to express their hatred towards men.
+
+
+***
+![Parts business to boost LG's new holding firm](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/a1dd0dca849d4f2c9460dbdaa68f12ea.jpg "Parts business to boost LG's new holding firm")
+
+
+[Parts business to boost LG's new holding firm](https://www.koreatimes.co.kr/www/tech/2021/05/133_308160.html)
+
+
+> Silicon Works' research center in Daejeon, south of Seoul, is seen in this photo, Sunday. Korea Times fileBy Kim Yoo-chulAfter confirming the official launch of LX Group, a spin-off holding company from the LG Group, investors' attention is on how Chairman Koo Bon-joon will formulate his thoughts into detailed corporate growth focusing on its semiconductor affiliate, Silicon Works.Silicon Works is the country's largest fabless (non-manufacturing) company and is set to diversify its business portfolio under this new leadership, given Koo's strong interest and successful track record in managing component-oriented businesses, according to people familiar with the issue.
+
+
+***
+![World's Biggest Airplane Takes To The Skies For A Second Time After A Two Year Hiatus](https://external-preview.redd.it/XQ3SSMxRF9A1pSUtZ-heO5EpUU_-HWXDgmqqCQm_NEw.jpg?auto=webp&s=77f33168f0ae36dc04b1f2f6be991220098d87e3 "World's Biggest Airplane Takes To The Skies For A Second Time After A Two Year Hiatus")
+
+
+[World's Biggest Airplane Takes To The Skies For A Second Time After A Two Year Hiatus](https://www.reddit.com/r/technology/comments/n31u5s/worlds_biggest_airplane_takes_to_the_skies_for_a/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Will new iPad Pro and other 2021 iPads be hard to buy? Here's what we know so far](https://cdn.mos.cms.futurecdn.net/AHPPmBheLkKTKKakwZ8fbi-1200-80.jpg "Will new iPad Pro and other 2021 iPads be hard to buy? Here's what we know so far")
+
+
+[Will new iPad Pro and other 2021 iPads be hard to buy? Here's what we know so far](https://www.techradar.com/news/will-new-ipad-pro-and-other-2021-ipads-be-hard-to-buy-heres-what-we-know-so-far)
+
+
+> If you're excited for the new iPad Pro 2021, or perhaps one of the tablets we're expecting Apple to debut later in the year like the new iPad or iPad Mini 6, news probably hasn't escaped you of possible stock shortages (or perhaps news had escaped you, so we're sorry you had to find out this way).Word is that when each of the new iPads goes on sale, stock will be pretty limited - we've seen the same thing for PS5s, Xbox Series Xs and RTX 3090 graphics cards, and apparently iPads are next.If you're trying to buy one, then, you might find lots of retailers out of stock, or with units in just a few configurations, and if you try to order one there might be a several-month wait time.
+
+
