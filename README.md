@@ -1555,3 +1555,53 @@
 > Every industry needs to step up and commit to environmental goals, but tech has a big problem – 53.6 million tonnes worth of a problem, to be exact.According to the Global E-waste Monitor, that's how much electronic waste, known as e-waste, was generated globally in 2019. Even worse, only 17.4% of it was correctly recycled, meaning 83% was discarded through improper means – mostly in landfills, which could leak harmful toxins into the earth.So what can we do about it? In this guide, we'll look at some of the different ways audio companies make their products and services more sustainable.
 
 
+***
+![Fintech Focus For May 4, 2021](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Fintech Focus For May 4, 2021")
+
+
+[Fintech Focus For May 4, 2021](https://www.benzinga.com/fintech/21/05/20927996/fintech-focus-for-may-4-2021)
+
+
+> Quote To Start The Day: Life is what happens to us while we are making other plans. Source: Allen Saunders One Big Thing In Fintech: Affirm, a leader in payments, recently announced it would acquire Returnly, a return and post-purchase payments solution, for $300 million. Benzinga spoke with Laura González-Estéfani, the founder and CEO of Miami-based TheVentureCity, on her firm's role in bolstering Returnly growth initiatives and steps going forward. Source: Benzinga Other Key Fintech Developments: Fasset, NEC tokenize Tesla charger.
+
+
+***
+![‘Soggy' cold front brings significant rain to Victoria and NSW](https://images.perthnow.com.au/publication/C-2751173/2d224150db22dd7499bdaf6815555f2b1653572d-16x9-x0y6w827h465.jpg?imwidth=1024 "‘Soggy' cold front brings significant rain to Victoria and NSW")
+
+
+[‘Soggy' cold front brings significant rain to Victoria and NSW](https://www.news.com.au/technology/environment/soggy-cold-front-brings-significant-rain-to-victoria-and-nsw/news-story/dbaef64dc2e0b20711e4ed4d15e9e36e)
+
+
+> Coastal Victoria has been smashed by more rain in the past 24 hours than some parts of the state in the past six months as a cold snap crosses southeast Australia.Persistent rain set in across southern Victoria on Monday evening and continued throughout the night, with Aireys Inlet on the Surf Coast recording a torrential 116mm.That's more rain than Swan Hill – in Victoria's northwest – has seen in the past six months with only 67.2mm recorded there since the start of November.Melbourne has recorded 31mm in the past 24 hours, while Laverton and Avalon in the city's west saw 42mm and 38mm.
+
+
+***
+![U. of Florida Students: LeBron James 'Hypocritical' for Using Police Escorts](https://media.breitbart.com/media/2019/10/AP-Photo_Mark-J.-Terrill.jpg "U. of Florida Students: LeBron James 'Hypocritical' for Using Police Escorts")
+
+
+[U. of Florida Students: LeBron James 'Hypocritical' for Using Police Escorts](https://www.breitbart.com/tech/2021/05/03/u-of-florida-students-lebron-james-hypocritical-for-using-police-escorts/)
+
+
+> Students at the University of Florida say NBA star LeBron James is 'hypocritical' for using police escorts after publicly spreading anti-police rhetoric. Campus Reform correspondent Leana Dippie asked students if they agreed with James' anti-police rhetoric. While many students expressed that they would like to see police 'reform,' they nonetheless agreed that the NBA star is 'hypocritical' for using police for his personal security and protection. With regards to whether or not James is engaging in hypocrisy, one student said, '100 percent,' adding that it was 'not entirely surprising, given that so many celebrities do so many similar things.
+
+
+***
+![Tom Hanks to star in 'Finch,' a new sci-fi drama coming to Apple TV Plus](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/03/apple-introduces-apple-tv-plus-03252019.jpg "Tom Hanks to star in 'Finch,' a new sci-fi drama coming to Apple TV Plus")
+
+
+[Tom Hanks to star in 'Finch,' a new sci-fi drama coming to Apple TV Plus](https://www.imore.com/tom-hanks-star-finch-new-sci-fi-drama-coming-apple-tv-plus)
+
+
+> We may earn a commission for purchases using our links. Learn more. Another one Tom Hanks is coming back for a third time to Apple TV+. 3 May 2021 Source: Apple Apple TV+ has landed the rights to "Finch." The new sci-fi drama will star Tom Hanks. Tom Hanks and Apple TV+ continue to build a beautiful relationship. As reported by Deadline, Apple has landed the streaming rights to "Finch," a new sci-fi film from Amblin Entertainment that will star Tom Hanks. The film is expected to release later this year on the streaming service as well as in theaters.
+
+
+***
+![Verizon Sells AOL And Yahoo For $5 Billion](https://www.androidheadlines.com/wp-content/uploads/2019/02/verizon-Logo-2019-AM-AH-1.jpg "Verizon Sells AOL And Yahoo For $5 Billion")
+
+
+[Verizon Sells AOL And Yahoo For $5 Billion](https://www.androidheadlines.com/2021/05/verizon-sells-aol-and-yahoo-for-5-billion.html)
+
+
+> Verizon has sold off its media group, which includes AOL and Yahoo. This news comes after about a week of speculation and rumors. Verizon will get back a fraction of the money that it paid for Yahoo and AOL.The company will be sold to a private equity firmVerizon Monday stated in a press release that it is selling off its media group- this report however comes to us via The Verge. The sale puts an end to Verizon's abortive attempt at managing a media and advertisement division. Though it may not be 100% finalized, it's said that Verizon sold the group for around $5 billion.
+
+
