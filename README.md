@@ -1035,3 +1035,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Autopilot for the ISS docking simulator](https://external-preview.redd.it/b1s9exex_fVZDIYZyW54xzqri2rIj_dvucd50iWIVl4.jpg?auto=webp&s=384aa748fe4e8a2f48d09cb50f0235fd18428c5c "Autopilot for the ISS docking simulator")
+
+
+[Autopilot for the ISS docking simulator](https://www.reddit.com/r/Python/comments/n3jwa5/autopilot_for_the_iss_docking_simulator/)
+
+
+> Hi there,SpaceX released a ISS docking simulator: https://iss-sim.spacex.comUsing selenium, I hacked together an autopilot for it. You can find a video here: https://www.youtube.com/watch?v=HD3xq8EtdOMThe code is available here: https://github.com/svencan/motherdockerMain improvement points will be modularity, unit tests and a rework of the correction functions. I just wanted to get it working for now.Cheers.
+
+
+***
+![How companies alienate engineers by getting out of the innovation business](https://external-preview.redd.it/wAWRd_Z3-1RYLz_XPHdDan5QoRdi0gRMMpfkHPJbWfs.jpg?auto=webp&s=d0b5a92f4a7b671637e2aed4cee6e35d46a5f391 "How companies alienate engineers by getting out of the innovation business")
+
+
+[How companies alienate engineers by getting out of the innovation business](https://www.reddit.com/r/programming/comments/n3jl8o/how_companies_alienate_engineers_by_getting_out/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Krystal Goodman is the BamaCentral Crimson Tide Athlete of the Week and Next Krystal Offers $1 Chili Cheese Pups Deal Starting April 19, 2021](https://https://www.thearkatech.com/img/news_img/all/6506_5_1200.pic "Krystal Goodman is the BamaCentral Crimson Tide Athlete of the Week and Next Krystal Offers $1 Chili Cheese Pups Deal Starting April 19, 2021")
+
+
+[Krystal Goodman is the BamaCentral Crimson Tide Athlete of the Week and Next Krystal Offers $1 Chili Cheese Pups Deal Starting April 19, 2021](https://www.thearkatech.com/en/41871/)
+
+
+> © Instagram / krystal By: Emily Brown2021-05-03 03:16:24 Last News: Gausman, Tauchman lead Giants past Padres 7-1 to avoid sweep. Phillies LHP Alvarado suspended 3 games for dustup with Mets. Fire Marshall investigates house fire in Bucksport. Bali to deport influencers after fake mask 'prank'. Sherman School band program thriving throughout pandemic. Lee Do Hyun And Go Min Si Share What Viewers Can Look Forward To In «Youth Of May». US to launch trade talks on COVID-19 vaccine distribution.
+
+
+***
+![Krystal Biotech Stock Sees Relative Strength Rating Jump To Noteworthy Territory and Krystal Biotech Provides Update on Pivotal GEM-3 Study of B-VEC for DEB](https://https://www.thearkatech.com/img/news_img/all/6506_11_1200.pic "Krystal Biotech Stock Sees Relative Strength Rating Jump To Noteworthy Territory and Krystal Biotech Provides Update on Pivotal GEM-3 Study of B-VEC for DEB")
+
+
+[Krystal Biotech Stock Sees Relative Strength Rating Jump To Noteworthy Territory and Krystal Biotech Provides Update on Pivotal GEM-3 Study of B-VEC for DEB](https://www.thearkatech.com/en/41870/)
+
+
+> © Instagram / krystal By: Andrew Garcia2021-05-03 03:15:28 Last News: Bad, Worse, Worst: Assets To Avoid. Fourth annual Concours D'Elegance draws large crowds. Power Broker: Arthur Aidala, Attorney to the A-Listers. Northbound lanes blocked on WIS 32/57 in Wrightstown due to a crash. A's: Ramón Laureano, Matt Olson put on a show in win against Orioles. Bob Baffert reflects on 7th Kentucky Derby victory. 'I was just in disbelief'. Barry Andrews: No time for charade on Europe-wide public health.
+
+
+***
+![King Lear live-streamed from Watford's Pump House Theatre and King Lear: Imagery](https://https://www.thearkatech.com/img/news_img/all/6464_3_1200.pic "King Lear live-streamed from Watford's Pump House Theatre and King Lear: Imagery")
+
+
+[King Lear live-streamed from Watford's Pump House Theatre and King Lear: Imagery](https://www.thearkatech.com/en/41869/)
+
+
+> © Instagram / king lear King Lear live-streamed from Watford's Pump House Theatre and King Lear: Imagery King Lear live-streamed from Watford's Pump House Theatre and King Lear: Imagery Last News: King Lear: Imagery and King Lear live-streamed from Watford's Pump House Theatre O'Ward gets 1st IndyCar win at Texas after big 1st-lap crash. Biden Falls Short On Criminal Justice Reform In First 100 Days. The Vera Institute's Jamila Hodge On Reshaping Prosecution. Motorcyclist dies from injuries in collision on local highway.
+
+
