@@ -1411,3 +1411,50 @@
 > In the real world – the world on which the global economy runs – we don't expose every aspect of our financial activity in public. We want to be able to select which parties can access our financial data and under what circumstances – for example, our credit history or bank transactions. The problem with the blockchain world is that this financial privacy doesn't really exist. This has led to pretty bad abuses, such as the practice of front-running' where a nefarious person can take advantage of you immediately after seeing your transaction on a public blockchain.
 
 
+***
+[AUDUSD stalls near MA/swing areas](https://www.forexlive.com/technical-analysis/!/audusd-stalls-near-maswing-areas-20210503)
+
+
+> Swing area between 0.7758 to 0.77654 The AUDUSD has stalled there MA/swing areas with the the swing area between 0.7758 to 0.77654. The 100/200 hour moving averages are just below those levels with the 100 hour MA at 0.77572, and 200 hour MA at 0.77558. Stay below that area keeps the sellers in play despite the run higher in the pair
+
+
+***
+![Sully Says: Is Kevin Kopps man or machine? and Sully explains how TuSimple raises over $1 billion in one day -](https://https://www.thearkatech.com/img/news_img/all/8249_10_1200.pic "Sully Says: Is Kevin Kopps man or machine? and Sully explains how TuSimple raises over $1 billion in one day -")
+
+
+[Sully Says: Is Kevin Kopps man or machine? and Sully explains how TuSimple raises over $1 billion in one day -](https://www.thearkatech.com/en/42512/)
+
+
+> © Instagram / sully By: Sophia Moore2021-05-03 19:16:35 Last News: Get creative and draw your own cows. The Wrap: Covid, Summer, and Public Safety. May 3rd MLB Player Props – Best Home Run, Strikeout, and Hits Props to Bet for Monday. Directed Energy Weapon Systems Market Is Booming Worldwide. COVID-19 In Pittsburgh: Allegheny Co. Health Dept. Reports 454 New Coronavirus Cases In Last 48 Hours. Neuralink co-founder leaves Elon Musk's company. COVID-19 Ireland latest figures as no further deaths and 453 more cases announced by NPHET.
+
+
+***
+![Weinstein's ‘Suite Francaise' Lands On Lifetime: Michelle Williams-Matthias Schoenaerts WWII Romance Gets Airdate and Is 'Suite Francaise' A True Story? The Movie Has A Tragic Backstory](https://https://www.thearkatech.com/img/news_img/all/8248_13_1200.pic "Weinstein's ‘Suite Francaise' Lands On Lifetime: Michelle Williams-Matthias Schoenaerts WWII Romance Gets Airdate and Is 'Suite Francaise' A True Story? The Movie Has A Tragic Backstory")
+
+
+[Weinstein's ‘Suite Francaise' Lands On Lifetime: Michelle Williams-Matthias Schoenaerts WWII Romance Gets Airdate and Is 'Suite Francaise' A True Story? The Movie Has A Tragic Backstory](https://www.thearkatech.com/en/42511/)
+
+
+> © Instagram / suite francaise By: Ethan Thomas2021-05-03 19:15:40 Last News: Is 'Suite Francaise' A True Story? The Movie Has A Tragic Backstory and Weinstein's ‘Suite Francaise' Lands On Lifetime: Michelle Williams-Matthias Schoenaerts WWII Romance Gets Airdate Biden's North Korea Policy Is More Realistic Than Trump's. That's a Low Bar. CVS and Walgreens have wasted more COVID vaccine doses than most state agencies combined. Coach houses, basement and attic apartments make a return to Chicago.
+
+
+***
+![Midautumn is a Newly Announced Hades-like Dungeon Crawler/Roguelite](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/Midautumn.jpg?itok=Hgp2B4rG "Midautumn is a Newly Announced Hades-like Dungeon Crawler/Roguelite")
+
+
+[Midautumn is a Newly Announced Hades-like Dungeon Crawler/Roguelite](https://techraptor.net/gaming/news/midautumn-is-hades-like-dungeon-crawler-coming-to-kickstarter-this-year)
+
+
+> 05/03/2021 - 12:15 | By: Patrick Perrault Sisi Jiang, the maker of IGF-nominated Lionkiller, has announced Midautumn, which is a supernatural dungeon crawler roguelite that has you blasting evil spirits, and focusing on Asian Disapora and Gentrification. It is coming to Kickstarter later this year and focused on Robin Lam, a recent college grad with no clear direction in her life. She resorts to moving to live with her grandmother in the fictional town of Nambo Quay, California, where it's revealed that the Spirit World is real, its entrance is in the basement, and Robin is to be its latest protector.
+
+
+***
+![Cohasset author sheds light on forgotten suffragette in new novel and Suffragette white: Decoding the colours 110-year-old history of being used as a protest tool by women](https://https://www.thearkatech.com/img/news_img/all/8247_12_1200.pic "Cohasset author sheds light on forgotten suffragette in new novel and Suffragette white: Decoding the colours 110-year-old history of being used as a protest tool by women")
+
+
+[Cohasset author sheds light on forgotten suffragette in new novel and Suffragette white: Decoding the colours 110-year-old history of being used as a protest tool by women](https://www.thearkatech.com/en/42510/)
+
+
+> © Instagram / suffragette By: Jacob Johnson2021-05-03 19:14:31 Last News: Marvel unveils new titles, release dates and footage from several films. Lake, Sumter COVID vaccines surpass 248,000 doses. Indy Native And R&B Star Maeta Is Ready To Take Over – Indianapolis Monthly. Irving voters approve $563 million in bonds, elect council and school board officials. Here is How America's Subtle Alterations to Democracy and Social Justice Avoid Political Monopolies. Why the TRIPS Waiver Objections Don't Add Up.
+
+
