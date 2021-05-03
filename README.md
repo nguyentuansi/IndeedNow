@@ -1505,3 +1505,53 @@
 > HP Envy 13-ba1047wm (Image credit: HP) The HP Envy 13 Intel Evo laptop is one of the best notebook PCs to buy — and a cheaper MacBook alternative. If you're shopping around for a new PC or the best tech for mom, you might find interest in this deal. Walmart currently has the HP Envy 13 Intel Evo laptop on sale for $649. That's $150 off its $799 normal price and one of the best laptop deals out there. HP Envy 13 dealHP Envy 13: was $799 now $649 @ Walmart Now $150 off, the HP Envy 13 is one of the best laptops for the money.
 
 
+***
+![The Art of Writing Loops in Python](https://external-preview.redd.it/qyX0b_ip-muby2R32TpqcrcaaRLzNIWdjwpnKW1aulU.jpg?auto=webp&s=0b570052b0216a68abdff37ed1578c2fa465b513 "The Art of Writing Loops in Python")
+
+
+[The Art of Writing Loops in Python](https://www.reddit.com/r/programming/comments/n45mi3/the_art_of_writing_loops_in_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![C++ Weekly](https://external-preview.redd.it/g9eVfk54QwnaoCVrdMfybAnetww5bweaiW-N1VaDeLg.jpg?auto=webp&s=f93589c3897438696c1ccb749389221905a6b296 "C++ Weekly")
+
+
+[C++ Weekly](https://www.reddit.com/r/programming/comments/n45k6m/c_weekly_ep_270_break_abi_to_save_c/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple](https://cdn.geekwire.com/wp-content/uploads/2019/04/bigstock-Los-Angeles-California-Usa-290625067.jpg "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple")
+
+
+[Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple](https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/)
+
+
+> (Bigstock Photo) Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement.
+
+
+***
+![How to Save Ourselves From Disinformation, A Times Event](https://static01.nyt.com/images/2021/04/27/business/27DisinfoEvent-Still/frame_00_delay-0-facebookJumbo.jpg "How to Save Ourselves From Disinformation, A Times Event")
+
+
+[How to Save Ourselves From Disinformation, A Times Event](https://www.nytimes.com/2021/04/27/technology/fake-news-disinformation-event.html)
+
+
+> Continue reading the main storyComedian Sarah Silverman and The Times's Kevin Roose, Sheera Frenkel and Davey Alba explore how disinformation spreads, and how we can fight back.VideoPublished April 27, 2021Updated May 3, 2021, 3:43 p.m. ET It spreads through social media and message boards. Through television pundits and talk radio. And in daily conversations, in every corner of the world. Disinformation can change minds and fuel movements.
+
+
+***
+![Sustainable sound: how headphones, speakers and turntables are going green](https://cdn.mos.cms.futurecdn.net/XMTKXd33DQPUGCs6oKCFda-1200-80.jpeg "Sustainable sound: how headphones, speakers and turntables are going green")
+
+
+[Sustainable sound: how headphones, speakers and turntables are going green](https://www.techradar.com/news/sustainable-sound-how-headphones-speakers-and-turntables-are-going-green)
+
+
+> Every industry needs to step up and commit to environmental goals, but tech has a big problem – 53.6 million tonnes worth of a problem, to be exact.According to the Global E-waste Monitor, that's how much electronic waste, known as e-waste, was generated globally in 2019. Even worse, only 17.4% of it was correctly recycled, meaning 83% was discarded through improper means – mostly in landfills, which could leak harmful toxins into the earth.So what can we do about it? In this guide, we'll look at some of the different ways audio companies make their products and services more sustainable.
+
+
