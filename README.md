@@ -1273,3 +1273,50 @@
 > Imagine you just bought a brand new car featuring all the latest bells and whistles. You're itching to take advantage of speed camera detection and try out the heated seat backs and armrests. Unfortunately, when you try to turn your car on, nothing happens. If the vehicle doesn't work, then what's the point of having it and all its exciting features? Ideally, you want something that provides the latest bells and whistles but also performs as promised whenever you want. This is equally true for cloud security solutions.
 
 
+***
+[Apple's ban on alt iOS browser engines and years of delays in adding features to WebKit can explain why web apps are not a viable alternative to App Store apps (Alex Russell/Infrequently Noted)](http://www.techmeme.com/210503/p5#a210503p5)
+
+
+> Alex Russell / Infrequently Noted: Apple's ban on alt iOS browser engines and years of delays in adding features to WebKit can explain why web apps are not a viable alternative to App Store apps — Do App Store policies harm developers? Is the web a credible alternative? A look at the data. — Three facts...
+
+
+***
+![How to use AirTags with iOS 14.5](https://cdn.mos.cms.futurecdn.net/aFfyuX8sDb93Nxnb7xWsmN-1200-80.jpg "How to use AirTags with iOS 14.5")
+
+
+[How to use AirTags with iOS 14.5](https://www.techradar.com/how-to/how-to-use-airtags-with-ios-145)
+
+
+> Apple AirTag is Apple's iOS-only answer to Tile. Place an AirTag in a bag or attach it to a set of keys, and presto, you can track your valuables down using Bluetooth, the Find My app and (on newer iPhones) Ultra Wideband.As an Apple device, AirTags are pretty straightforward to set up. Still, if you're having trouble getting them to work, or if you're considering buying one and want to know how time-consuming the process is, here's how to set up and use AirTags on your iPhone, iPad or iPod Touch.
+
+
+***
+![Polaroid vs Instax: which is the best instant camera brand?](https://cdn.mos.cms.futurecdn.net/oWQ7yZQ9eW7hYT9U4K9fH-1200-80.jpg "Polaroid vs Instax: which is the best instant camera brand?")
+
+
+[Polaroid vs Instax: which is the best instant camera brand?](https://www.techradar.com/news/polaroid-vs-instax)
+
+
+> Instant cameras have been booming again lately, with new models like the Polaroid Go and Fujifilm Instax Mini 40 recently arriving for new analogue thrills. But with both brands having huge heritage in the field, which one deserves to win the great 'Polaroid vs Instax' debate?That's a tough question, but one we're in a good position to answer having grown up with the original cameras (even if that does give away how old we are). Today's Polaroid and Instax ranges have never been in better health, but to really understand the brands we need to step back into their origin stories.
+
+
+***
+![Review: The Amazon Echo Frames (2nd Gen) are more than a concept product](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/echo-frames-gen-2-hero.jpg "Review: The Amazon Echo Frames (2nd Gen) are more than a concept product")
+
+
+[Review: The Amazon Echo Frames (2nd Gen) are more than a concept product](https://www.androidcentral.com/amazon-echo-frames-2nd-gen-review)
+
+
+> Source: Jeramy Johnson / Android Central Before you roll your eyes at another smart glasses review, just hear me out. The Amazon Echo Frames (Gen 2) may sound like another half-hearted attempt by a tech company to shove smart virtual assistants where they don't belong, further complicating and confusing our already crazy lives. But I'm here to tell you that these are actually pretty well thought out, designed, and implemented. After all, they've already been wear-tested for over a year by hundreds of nerds like me.
+
+
+***
+![Tech Smart: Here are two fast and easy ways to scan in your old slides](https://ktla.com/wp-content/uploads/sites/4/2021/05/20210419_121049.jpg?w=1280 "Tech Smart: Here are two fast and easy ways to scan in your old slides")
+
+
+[Tech Smart: Here are two fast and easy ways to scan in your old slides](https://ktla.com/morning-news/technology/we-tried-two-diy-ways-to-scan-in-old-slides-and-one-is-a-clear-winner/)
+
+
+> Chances are, you or someone in your family has some old slides laying around. Wouldn't it be nice to have them in a digital format that you could share over email or display on your TV screen? We tested two different DIY ways to scan them in. One is a $140 digital scanner while the other is a free app called SlideScan. The app is unique in that all you need to scan your slides is your iPhone or Android. It works really well, but we found that the process is more time consuming and the final results could be hit or miss.
+
+
