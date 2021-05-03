@@ -1320,3 +1320,47 @@
 > Chances are, you or someone in your family has some old slides laying around. Wouldn't it be nice to have them in a digital format that you could share over email or display on your TV screen? We tested two different DIY ways to scan them in. One is a $140 digital scanner while the other is a free app called SlideScan. The app is unique in that all you need to scan your slides is your iPhone or Android. It works really well, but we found that the process is more time consuming and the final results could be hit or miss.
 
 
+***
+![Mogo Expands Crypto Portfolio with Corporate Investment in Ethereum Alongside its Existing Investment in Bitcoin](http://www.businesswire.com/images/bwlogo_square.png "Mogo Expands Crypto Portfolio with Corporate Investment in Ethereum Alongside its Existing Investment in Bitcoin")
+
+
+[Mogo Expands Crypto Portfolio with Corporate Investment in Ethereum Alongside its Existing Investment in Bitcoin](https://www.businesswire.com/news/home/20210503005398/en/Mogo-Expands-Crypto-Portfolio-with-Corporate-Investment-in-Ethereum-Alongside-its-Existing-Investment-in-Bitcoin)
+
+
+> May 03, 2021 08:14 AM Eastern Daylight Time VANCOUVER, British Columbia--(BUSINESS WIRE)--Mogo Inc. (NASDAQ:MOGO) (TSX:MOGO) ('Mogo' or the 'Company'), a digital payments and financial technology company, today announced that it has purchased approximately 146 Ether (ETH) at an average price US$2,780. Ethereum is an open-source, block-chain based, decentralized software platform that uses its own cryptocurrency, Ether. Mogo's Ethereum investment is consistent with management's plans to increase the Company's on balance sheet investment in the blockchain and fintech ecosystem, particularly as it monetizes its portfolio of equity investments which had a value of approximately $18.
+
+
+***
+[Verizon says it will sell Yahoo and AOL to PE firm Apollo Global Management for $5B, keeping a 10% stake in the company, which will be rebranded as just "Yahoo" (Steve Kovach/CNBC)](http://www.techmeme.com/210503/p9#a210503p9)
+
+
+> Steve Kovach / CNBC: Verizon says it will sell Yahoo and AOL to PE firm Apollo Global Management for $5B, keeping a 10% stake in the company, which will be rebranded as just “Yahoo” — - Verizon will sell its media group, which includes brands from AOL and Yahoo, to private equity firm Apollo Global Management.
+
+
+***
+[More than 30 of Europe's largest banks and credit card processors form the European Payment Initiative, aiming to compete with a US-dominated "oligopoly" (Olaf Storbeck/Financial Times)](http://www.techmeme.com/210503/p8#a210503p8)
+
+
+> Olaf Storbeck / Financial Times: More than 30 of Europe's largest banks and credit card processors form the European Payment Initiative, aiming to compete with a US-dominated “oligopoly” — More than 30 lenders designing rival to take on PayPal, Mastercard, Visa and Apple — More than 30 of Europe's largest banks …
+
+
+***
+![Path Robotics raises $56M Series B for automated welding – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/04/Factory_Scenario_Perspective.png?w=698 "Path Robotics raises $56M Series B for automated welding – TechCrunch")
+
+
+[Path Robotics raises $56M Series B for automated welding – TechCrunch](https://techcrunch.com/2021/05/03/path-robotics-raises-56m-series-b-for-automated-welding/)
+
+
+> Columbus, Ohio-based firm Path Robotics today announced the completion of a $56 million Series B. The round, led by Addition (featuring Drive Capital, Basis Set and Lemnos Lab) brings the robotic welding company's total funding to $71 million. Adding another piece to the broader automated manufacturing puzzle, the company is focused on robotic welding. The system uses scanning, computer vision and AI to adjust itself to different parts, understanding that sizing parts is a kind of imperfect science.
+
+
+***
+![Go wireless anywhere with these Qi-powered portable chargers](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/12/pixel-4-aukey-qi-pack-red.jpg "Go wireless anywhere with these Qi-powered portable chargers")
+
+
+[Go wireless anywhere with these Qi-powered portable chargers](https://www.androidcentral.com/best-qi-wireless-charging-power-banks)
+
+
+> Best Qi Wireless Portable Chargers & Power Banks Android Central 2021 The best Qi wireless portable chargers allow you to charge whenever, wherever, and however you want. Did you leave your cable at home? Charge wirelessly! Do you need a quicker burst of power for an almost dead phone? Plug in for a faster charge. While Qi power banks aren't quite as popular as traditional power banks, the best wireless charging portable chargers will keep you topped off and ready to roll no matter where you've camped out during your daily errands.
+
+
