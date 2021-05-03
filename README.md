@@ -1229,3 +1229,47 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![[Looking for] "Son who disappeared from the Han River, stay alive"](https://static.sbsdlab.co.kr/image/thumb_default.png "[Looking for] "Son who disappeared from the Han River, stay alive"")
+
+
+[[Looking for] "Son who disappeared from the Han River, stay alive"](https://www.tellerreport.com/tech/2021-05-03-[looking-for]-"son-who-disappeared-from-the-han-river--stay-alive".Hk4G9yVpDd.html)
+
+
+> I hope you can take a closer look at the face of the young man behind me. This is Son Jeong-min, 22, who went missing last Sunday near Banpo Bridge on the Han River. Families are looking eagerly. I hope you can take a closer look at the face of the young man behind me. This is Son Jeong-min, 22, who went missing last Sunday near Banpo Bridge on the Han River. Families are looking eagerly. If you have ever seen it, please contact us. Shin Jung-eun is a reporter. 'I'm looking for my son. It's a very precious memory for me and my son won't hurt even if I put it in my eyes.
+
+
+***
+[Provide math equations in comments](https://www.reddit.com/r/Python/comments/n3qviz/provide_math_equations_in_comments/)
+
+
+> I would write much better comments if I had a clear way in the comments of showing some mathematical formulas... maybe using latex... for instance:def square(x): """ Evaluate $x^2$ """ return x*x So I was wondering if there was some software (like PyCharm) able to render the latex formula live (like typora). Does anyone of you have this problem? How do you deal with it?
+
+
+***
+[App displaying crypto coins popularity on r/cryptocurrency](https://www.reddit.com/r/Python/comments/n3qt55/app_displaying_crypto_coins_popularity_on/)
+
+
+> Ever wondered what crypto coins are the most popular and discussed on Reddit's r/cryptocurrency? Check out www.redditcoins.app. An app to keep track of coin popularity on the sub. Let me know what you think. Suggestions are welcome!Also, if your interested in code, check out the github links in the websites footer.
+
+
+***
+![This is the new Army night vision goggles that mark enemies like in a video game](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/04/29/16197178086785.jpg "This is the new Army night vision goggles that mark enemies like in a video game")
+
+
+[This is the new Army night vision goggles that mark enemies like in a video game](https://www.tellerreport.com/tech/2021-05-03-this-is-the-new-army-night-vision-goggles-that-mark-enemies-like-in-a-video-game.rybNwpmawO.html)
+
+
+> The images seem to be taken from a video game or a science fiction movie made in Hollywood: the silhouette of the soldiers and the military equipment is clear and highlighted in ... Kalashnikov weapons manufactures an intelligent 'terminator' capable of deciding who to shoot without human intervention Weapons Kalashnikov launches a "smart shotgun" for youtubers and "hipsters" that teaches you to shoot The images look like they were taken from a video game or a science fiction movie made in Hollywood: the silhouette of the soldiers and military equipment are clear and highlighted in a yellowish color as if their outline were formed by neon lights .
+
+
+***
+![Why uptime and performance are key to cloud security](https://itwire.com/media/k2/items/cache/32c492e6ac41806a5f998bfab2ee02fd_XS.jpg "Why uptime and performance are key to cloud security")
+
+
+[Why uptime and performance are key to cloud security](https://itwire.com/guest-articles/guest-opinion/why-uptime-and-performance-are-key-to-cloud-security.html)
+
+
+> Imagine you just bought a brand new car featuring all the latest bells and whistles. You're itching to take advantage of speed camera detection and try out the heated seat backs and armrests. Unfortunately, when you try to turn your car on, nothing happens. If the vehicle doesn't work, then what's the point of having it and all its exciting features? Ideally, you want something that provides the latest bells and whistles but also performs as promised whenever you want. This is equally true for cloud security solutions.
+
+
