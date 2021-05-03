@@ -1085,3 +1085,47 @@
 > © Instagram / king lear King Lear live-streamed from Watford's Pump House Theatre and King Lear: Imagery King Lear live-streamed from Watford's Pump House Theatre and King Lear: Imagery Last News: King Lear: Imagery and King Lear live-streamed from Watford's Pump House Theatre O'Ward gets 1st IndyCar win at Texas after big 1st-lap crash. Biden Falls Short On Criminal Justice Reform In First 100 Days. The Vera Institute's Jamila Hodge On Reshaping Prosecution. Motorcyclist dies from injuries in collision on local highway.
 
 
+***
+[In Apple versus Epic Games, courtroom battle is only half the fight](https://bdnews24.com/technology/2021/05/03/in-apple-versus-epic-games-courtroom-battle-is-only-half-the-fight)
+
+
+> Epic Games faces an uphill legal battle against Apple Inc in an antitrust trial starting Monday, and a defeat for the maker of "Fortnite" could make it harder for US government regulators to pursue a similar case against the iPhone maker, legal experts said.
+
+
+***
+![In Apple versus Epic Games, courtroom battle is only half the fight](https://bsmedia.business-standard.com/_media/bs/img/article/2018-07/06/full/1530858510-4793.jpg "In Apple versus Epic Games, courtroom battle is only half the fight")
+
+
+[In Apple versus Epic Games, courtroom battle is only half the fight](https://www.business-standard.com/article/technology/in-apple-versus-epic-games-courtroom-battle-is-only-half-the-fight-121050300144_1.html)
+
+
+> By Stephen Nellis SAN FRANCISCO (Reuters) - Epic Games faces an uphill legal battle against Apple Inc in an antitrust trial starting Monday, and a defeat for the maker of "Fortnite" could make it harder for U.S. government regulators to pursue a similar case against the iPhone maker, legal experts said. But win or lose at the trial, Epic, which has pursued an aggressive public relations campaign against Apple alongside its court pleadings, may have already accomplished a major goal: Drawing Apple squarely into the global debate over whether and how massive technology companies should be regulated.
+
+
+***
+![Intel will 'focus' less on buying back company stock: CEO Pat Gelsinger](https://bsmedia.business-standard.com/_media/bs/img/article/2017-09/07/full/1504727712-2072.jpg "Intel will 'focus' less on buying back company stock: CEO Pat Gelsinger")
+
+
+[Intel will 'focus' less on buying back company stock: CEO Pat Gelsinger](https://www.business-standard.com/article/technology/intel-will-focus-less-on-buying-back-company-stock-ceo-pat-gelsinger-121050300143_1.html)
+
+
+> NEW YORK (Reuters) - The chief executive of the biggest U.S. chip-maker, Intel Corp, said the company is going to curb its focus on buying back its own stock. "We will not be anywhere near as focused on buybacks going forward as we have in the past," Intel Chief Executive Officer Pat Gelsinger said in an interview on the CBS news magazine "60 Minutes" to air on Sunday night. Gelsinger's comments were in response to a question comparing how much Intel has spent buying its own stock compared to its investment in research and development.
+
+
+***
+![#TECH: Samsung releases 5G version of Galaxy A52](https://assets.nst.com.my/images/articles/botsa52g_NSTfield_image_socialmedia.var_1620007219.jpg "#TECH: Samsung releases 5G version of Galaxy A52")
+
+
+[#TECH: Samsung releases 5G version of Galaxy A52](https://www.nst.com.my/lifestyle/bots/2021/05/687394/tech-samsung-releases-5g-version-galaxy-a52)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[I have a question about a certificate or authority what ever it's called in privacy and security google chrome settings](https://www.reddit.com/r/technology/comments/n3ldhg/i_have_a_question_about_a_certificate_or/)
+
+
+> It's called starfield technologies and i unchecked everything.Everytime i log onto my computer and log on to schoology on my school chromebook it says back to safety. When i go on Schoology it doesn't load anything. I need help someone please help me.
+
+
