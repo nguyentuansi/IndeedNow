@@ -1458,3 +1458,50 @@
 > © Instagram / suffragette By: Jacob Johnson2021-05-03 19:14:31 Last News: Marvel unveils new titles, release dates and footage from several films. Lake, Sumter COVID vaccines surpass 248,000 doses. Indy Native And R&B Star Maeta Is Ready To Take Over – Indianapolis Monthly. Irving voters approve $563 million in bonds, elect council and school board officials. Here is How America's Subtle Alterations to Democracy and Social Justice Avoid Political Monopolies. Why the TRIPS Waiver Objections Don't Add Up.
 
 
+***
+[Blockchain-based trading platform INX says it estimates it raised $125M from over 7,200K investors in its SEC-approved token and equity offerings (Gertrude Chavez-Dreyfuss/Reuters)](http://www.techmeme.com/210503/p23#a210503p23)
+
+
+> Gertrude Chavez-Dreyfuss / Reuters: Blockchain-based trading platform INX says it estimates it raised $125M from over 7,200K investors in its SEC-approved token and equity offerings — NEW YORK (Reuters) - INX Ltd, the blockchain-based global trading platform for digital securities and cryptocurrencies, said on Monday it expects …
+
+
+***
+![Sony announces PlayStation partnership with Discord](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article-images/2018/11/discordapp-xhd.jpg "Sony announces PlayStation partnership with Discord")
+
+
+[Sony announces PlayStation partnership with Discord](https://www.androidcentral.com/sony-announces-playstation-partnership-discord)
+
+
+> Source: Discord In a surprise move, Sony announced today it would be partnering with Discord to integrate the popular chat platform into the PlayStation ecosystem. Discord will be connected to "your social and gaming experience on PlayStation Network" starting sometime early next year. The announcement comes from Sony Interactive Entertainment CEO Jim Ryan, who said in a statement: "Our goal is to bring the Discord and PlayStation experiences closer together on console and mobile starting early next year, allowing friends, groups, and communities to hang out, have fun, and communicate more easily while playing games together.
+
+
+***
+![Best Note 20 deals of May 2021: Note 20 from $10/month or up to $1,000 off](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/galaxy-note-20-ultra-bronze-18.jpg "Best Note 20 deals of May 2021: Note 20 from $10/month or up to $1,000 off")
+
+
+[Best Note 20 deals of May 2021: Note 20 from $10/month or up to $1,000 off](https://www.androidcentral.com/best-note-20-deals)
+
+
+> The Galaxy Note 20 series are two of the best Android phones right now. If you're already a fan of the Note lineup, then you'll have a lot to be excited about with the new generation. If you aren't a fan, you should be. The phones have all the latest from Samsung, including a powerful Qualcomm Snapdragon 865+ processor, a triple camera setup, 5G connectivity, and a new and improved S Pen stylus. Being brand new, these phones are going to set you back a penny or two, but we're on top of that. We've got every place you can find the Note 20 (or the Note 20 Ultra) and every deal available right now.
+
+
+***
+![MacBook Air vs. MacBook Pro: Which Mac Should You Buy in 2021?](https://cdn.mos.cms.futurecdn.net/uWjEogFLUTBc8mSvagdiuP-1200-80.jpg "MacBook Air vs. MacBook Pro: Which Mac Should You Buy in 2021?")
+
+
+[MacBook Air vs. MacBook Pro: Which Mac Should You Buy in 2021?](https://www.laptopmag.com/articles/macbook-vs-air-vs-pro)
+
+
+> Apple's laptops are more streamlined than ever, now comprised of a 13-inch MacBook Air and 13-inch and 16-inch MacBook Pro models. But it can still be tough deciding which MacBook to buy, especially since Apple offers some models with custom M1 chip and others with Intel processors.That's where our MacBook Air vs. MacBook Pro guide comes in. Between the MacBook Air, the two 13-inch MacBook Pro models, and the 16-inch MacBook Pro, we'll help you decide which laptop is worth your money by comparing price, features, performance, battery life and more.
+
+
+***
+![HP Envy 13 gets $150 price cut in epic laptop deal](https://cdn.mos.cms.futurecdn.net/d5Hr6WS7yfnhEiTtPUycQN-1200-80.png "HP Envy 13 gets $150 price cut in epic laptop deal")
+
+
+[HP Envy 13 gets $150 price cut in epic laptop deal](https://www.laptopmag.com/news/hp-envy-13-gets-dollar150-price-cut-in-epic-laptop-deal)
+
+
+> HP Envy 13-ba1047wm (Image credit: HP) The HP Envy 13 Intel Evo laptop is one of the best notebook PCs to buy — and a cheaper MacBook alternative. If you're shopping around for a new PC or the best tech for mom, you might find interest in this deal. Walmart currently has the HP Envy 13 Intel Evo laptop on sale for $649. That's $150 off its $799 normal price and one of the best laptop deals out there. HP Envy 13 dealHP Envy 13: was $799 now $649 @ Walmart Now $150 off, the HP Envy 13 is one of the best laptops for the money.
+
+
