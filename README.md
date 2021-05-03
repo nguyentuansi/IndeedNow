@@ -1179,3 +1179,53 @@
 > Apple is working to launch a foldable iPhone with an 8-inch QHD+ flexible OLED display in 2023, Apple analyst Ming-Chi Kuo said today in a note to investors that was seen by MacRumors. Based on our latest industry survey, we forecast that Apple will likely launch a foldable ‌iPhone‌ with an 8-inch QHD+ flexible OLED display in 2023, with SDC as the exclusive display supplier and Samsung Foundry as the exclusive DDI foundry provider. Based on Apple's requested capacity plan, we predict that the foldable ‌iPhone‌ shipments will reach 15-20 million units in 2023.
 
 
+***
+![WhatsApp-Indian govt faceoff may intensify](https://cdn.mos.cms.futurecdn.net/Vomc44iEJRp67copJb9SHm-1200-80.jpg "WhatsApp-Indian govt faceoff may intensify")
+
+
+[WhatsApp-Indian govt faceoff may intensify](https://www.techradar.com/news/whatsapp-indian-govt-faceoff-may-intensify)
+
+
+> (Image credit: Oasisamuel / Shutterstock) Ever since WhatsApp tweaked its privacy policy features, there has been a huge hue and cry against its plans. Especially in India, where WhatsApp and its Facebook have been dragged to the courts by the government itself even while the country's fair trade regulator has started an independent probe against the messaging platform's new privacy policy proposals.At the core, the bone of contention is WhatsApp's insistence on end-to-end encryption. On the one hand, the Indian government wants it to help trace the source of problematic/fake forwards on the platform.
+
+
+***
+![Ruby Schedulers: Whenever vs Sidekiq Cron vs Sidekiq Scheduler](https://external-preview.redd.it/H_in6CmzaqkfNR3NYqEuJzEJaiSWyY2yegnPo-obX2g.jpg?auto=webp&s=f9239037a0efb2e893df7cbceebf656820ed3f93 "Ruby Schedulers: Whenever vs Sidekiq Cron vs Sidekiq Scheduler")
+
+
+[Ruby Schedulers: Whenever vs Sidekiq Cron vs Sidekiq Scheduler](https://www.reddit.com/r/programming/comments/n3ow0d/ruby_schedulers_whenever_vs_sidekiq_cron_vs/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Ethereum breaks past $3,000 to quadruple in value in 2021](https://japantoday.com/images/japan-today-social.jpg "Ethereum breaks past $3,000 to quadruple in value in 2021")
+
+
+[Ethereum breaks past $3,000 to quadruple in value in 2021](https://japantoday.com/category/tech/update-3-ethereum-breaks-past-3-000-to-quadruple-in-value-in-2021)
+
+
+> Cryptocurrency ether broke past$3,000 on Monday to set a new record high in a dazzling rally that has outshone the bigger bitcoin, as investors bet that ether will be of ever greater use in a decentralised future financial system. Ether, the token transacted on the ethereum blockchain, rose 3% on the Bitstamp exchange to $3,051.99 by lunchtime in Asia. It is up more than 300% for the year so far, easily outpacing a 95% rise in the more popular bitcoin. In part, the big rally is a catch-up to late 2020 gains in bitcoin, said James Quinn, managing director at Q9 Capital, a Hong Kong cryptocurrency private wealth manager.
+
+
+***
+![Online share of retail sales jumps to 19% amid lockdowns: U.N.](https://i-invdn-com.akamaized.net/news/LYNXMPEA610V5_L.jpg "Online share of retail sales jumps to 19% amid lockdowns: U.N.")
+
+
+[Online share of retail sales jumps to 19% amid lockdowns: U.N.](https://www.investing.com/news/technology-news/online-share-of-retail-sales-jumps-to-19-amid-lockdowns--un-2492454)
+
+
+> 2/2 © Reuters. FILE PHOTO: A woman uses a computer keyboard in this photo illustration taken in Sydney 2/2 ZURICH (Reuters) - Online sales accounted for nearly a fifth of total retail turnover last year as lockdowns to combat the spread of the coronavirus pandemic fuelled a boom in e-commerce, a United Nations study released on Monday showed. Online sales accounted for 19% of overall retail sales in 2020, up from 16% a year earlier, according to estimates from the UN Conference on Trade and Development (UNCTAD) based on national statistical offices in major economies.
+
+
+***
+![Python FTP Server](https://external-preview.redd.it/xSQp4epzA4PNa7o8ojnbRuMSZ1ykx8sCFZO7Lfcmemc.jpg?auto=webp&s=95ba7c0bba22fbbc219b8bbfde82d91f32d0aae1 "Python FTP Server")
+
+
+[Python FTP Server](https://www.reddit.com/r/Python/comments/n3or16/python_ftp_server/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
