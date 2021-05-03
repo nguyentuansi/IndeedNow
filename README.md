@@ -1364,3 +1364,50 @@
 > Best Qi Wireless Portable Chargers & Power Banks Android Central 2021 The best Qi wireless portable chargers allow you to charge whenever, wherever, and however you want. Did you leave your cable at home? Charge wirelessly! Do you need a quicker burst of power for an almost dead phone? Plug in for a faster charge. While Qi power banks aren't quite as popular as traditional power banks, the best wireless charging portable chargers will keep you topped off and ready to roll no matter where you've camped out during your daily errands.
 
 
+***
+![Facebook's Oversight Board has decided the fate of Trump's account. Here's everything you need to know.](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DAXC7LSREUI6XIPV7WXSRT6KSA.jpg&w=1440 "Facebook's Oversight Board has decided the fate of Trump's account. Here's everything you need to know.")
+
+
+[Facebook's Oversight Board has decided the fate of Trump's account. Here's everything you need to know.](https://www.washingtonpost.com/technology/2021/05/03/facebook-trump-decision-faq/)
+
+
+> SAN FRANCISCO — It's been four months since former president Donald Trump was last allowed to post on Facebook, after CEO Mark Zuckerberg said he was banned 'indefinitely.'Now the Facebook Oversight Board, an outside group funded and created by Facebook to review the social media giant's thorniest policy choices, has made a decision on the case. It is expected to announce on Wednesday whether Facebook can uphold its suspension of Trump or if it has to allow him back on the site.Support our journalism.
+
+
+***
+[Q&A with Jenny Lay-Flurrie, Microsoft's chief accessibility officer, on holding every department accountable, validating ROI, and hiring staff with disabilities (Katie Deighton/Wall Street Journal)](http://www.techmeme.com/210503/p16#a210503p16)
+
+
+> Katie Deighton / Wall Street Journal: Q&A with Jenny Lay-Flurrie, Microsoft's chief accessibility officer, on holding every department accountable, validating ROI, and hiring staff with disabilities — Jenny Lay-Flurrie holds every department—from hiring to videogaming—accountable for being accessible to people with disabilities
+
+
+***
+![Building a Sudoku Solver using Backtracking in Python](https://external-preview.redd.it/wLaatZK_ex9yYxPyWqh1cfvvMNek4e7seL8QBcjSrfE.jpg?auto=webp&s=644841abf6bbf0d1fcaac75f21be70019bb6cb6c "Building a Sudoku Solver using Backtracking in Python")
+
+
+[Building a Sudoku Solver using Backtracking in Python](https://www.reddit.com/r/Python/comments/n3wuzs/building_a_sudoku_solver_using_backtracking_in/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Scrape Google Search Results for any Country using Python](https://external-preview.redd.it/zishOjiYNxLhAKEm1juNhwoQ2Utbq8ALDb3BOJN6-WA.jpg?auto=webp&s=488f68a7f4c24dab853d9ca4cee69c167ca81e82 "Scrape Google Search Results for any Country using Python")
+
+
+[Scrape Google Search Results for any Country using Python](https://www.reddit.com/r/Python/comments/n3wuvd/scrape_google_search_results_for_any_country/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![In the race towards Web 3 financial privacy, Secret Network attracts backing from key players – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027924112.jpg?w=691 "In the race towards Web 3 financial privacy, Secret Network attracts backing from key players – TechCrunch")
+
+
+[In the race towards Web 3 financial privacy, Secret Network attracts backing from key players – TechCrunch](https://techcrunch.com/2021/05/03/in-the-race-towards-web-3-financial-privacy-secret-network-attracts-backing-from-key-players/)
+
+
+> In the real world – the world on which the global economy runs – we don't expose every aspect of our financial activity in public. We want to be able to select which parties can access our financial data and under what circumstances – for example, our credit history or bank transactions. The problem with the blockchain world is that this financial privacy doesn't really exist. This has led to pretty bad abuses, such as the practice of front-running' where a nefarious person can take advantage of you immediately after seeing your transaction on a public blockchain.
+
+
