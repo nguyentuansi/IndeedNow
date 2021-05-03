@@ -1129,3 +1129,53 @@
 > It's called starfield technologies and i unchecked everything.Everytime i log onto my computer and log on to schoology on my school chromebook it says back to safety. When i go on Schoology it doesn't load anything. I need help someone please help me.
 
 
+***
+![Hyundai Mobis strives to secure future growth innovations](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/3abebdd2a14e43538c2bf7f42ec062ab.jpg "Hyundai Mobis strives to secure future growth innovations")
+
+
+[Hyundai Mobis strives to secure future growth innovations](https://www.koreatimes.co.kr/www/tech/2021/05/419_308199.html)
+
+
+> Hyundai Mobis' concept car, M.Vision X / Courtesy of Hyundai MobisBy Kim Hyun-binHyundai Mobis is moving away from its traditional auto component company image and working to transition into a leading platform and software firm to secure future growth engines within the industry.Through a differentiated series of strategies, the company aims to secure long-term growth businesses, diversify its customer base and come up with innovative business models to fuel future growth.Hyundai Mobis is seeking a total transformation to meet the ever-changing landscape of the current auto industry ecosystem better, the company said.
+
+
+***
+![Facebook shows notices in iOS apps to sell you on app tracking as it helps keep it free of charge](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/facebook_reuters_0-647x363.png?h8QsKIoWZhT7U2Spm7StCqpgloGAYTwu "Facebook shows notices in iOS apps to sell you on app tracking as it helps keep it free of charge")
+
+
+[Facebook shows notices in iOS apps to sell you on app tracking as it helps keep it free of charge](https://www.indiatoday.in/technology/news/story/facebook-shows-notices-in-ios-apps-to-sell-you-on-app-tracking-as-it-helps-keep-it-free-of-charge-1798229-2021-05-03)
+
+
+> Apple's controversial App Tracking Transparency has finally rolled out to several iPhone users with the iOS 14.5 update. The keyword here is controversial, and that is because Apple's new policy for iOS apps is not sitting well with some developers. The most notable company that has been campaigning against Apple's App Tracking Transparency is Facebook. And it is continuing with its stance with a new tactic. Facebook is adding a popup within its iOS app to urge users to allow tracking because that 'helps keep Facebook free of charge.
+
+
+***
+![This advanced medical accessory is the unexpected superyacht must-have of 2021](https://www.telegraph.co.uk/content/dam/luxury/2021/04/27/LEGEND-Antarctica-Chistopher-Scholey-LOVELYSIDESHOT19_trans_NvBQzQNjv4BqpiVx42joSuAkZ0bE9ijUnLXU7gd1mWUCWbCauCXAOdc.jpg?impolicy=logo-overlay "This advanced medical accessory is the unexpected superyacht must-have of 2021")
+
+
+[This advanced medical accessory is the unexpected superyacht must-have of 2021](https://www.telegraph.co.uk/luxury/technology/advanced-medical-accessory-unexpected-superyacht-must-have-2021/)
+
+
+> As mental and physical health has been talked about more than ever before over the past year, many of us have become much more attuned to looking out for illness symptoms and discerning what they might indicate. For the one percent, Covid has merely heightened the desire to be kept healthy and well, no matter where they are or what it takes. Combine this with the general desire to get as far away as possible from other people and the current surge in interest in superyachts with advanced medical facilities makes a lot of sense.
+
+
+***
+![Why Cathie Wood Bought $72.4M In Twitter As Stock Tanked Post Earnings-Report](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/alexander-shatov-k1xf2d7jwus-unsplash_1_0.jpg?width=720 "Why Cathie Wood Bought $72.4M In Twitter As Stock Tanked Post Earnings-Report")
+
+
+[Why Cathie Wood Bought $72.4M In Twitter As Stock Tanked Post Earnings-Report](https://www.benzinga.com/trading-ideas/long-ideas/21/05/20908225/why-cathie-wood-bought-72-4m-in-twitter-as-stock-tanked-post-earnings-report)
+
+
+> Cathie Wood-led Ark Investment Management bought over 1.3 million shares, worth about $72.42 million, in Twitter Inc (NYSE:TWTR) on Friday as the stock slumped after the social media company reported lower-than-expected user growth in the first quarter. Why Ark Sees Upside To TWTR: Twitter shares closed 15.16% lower at $55.22 on Friday. The stock has a 52-week high of $80.75 and a low of $27.12.   The investment firm bought the shares of the San Francisco-based company via two of its funds; the Ark Innovation ETF (NYSE:ARKK) and the ARK Next Generation Internet ETF (NYSE:ARKW).
+
+
+***
+![Kuo: Apple to Launch 8-Inch Foldable iPhone in 2023](https://images.macrumors.com/t/x6I3RA1oIxPQajjh45icJx2DMak=/1716x/https://images.macrumors.com/article-new/2020/11/foldable-iPhone-concept-feature.jpg "Kuo: Apple to Launch 8-Inch Foldable iPhone in 2023")
+
+
+[Kuo: Apple to Launch 8-Inch Foldable iPhone in 2023](https://www.macrumors.com/2021/05/02/kuo-8-inch-foldable-iphone-2023/)
+
+
+> Apple is working to launch a foldable iPhone with an 8-inch QHD+ flexible OLED display in 2023, Apple analyst Ming-Chi Kuo said today in a note to investors that was seen by MacRumors. Based on our latest industry survey, we forecast that Apple will likely launch a foldable ‌iPhone‌ with an 8-inch QHD+ flexible OLED display in 2023, with SDC as the exclusive display supplier and Samsung Foundry as the exclusive DDI foundry provider. Based on Apple's requested capacity plan, we predict that the foldable ‌iPhone‌ shipments will reach 15-20 million units in 2023.
+
+
