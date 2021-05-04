@@ -1655,3 +1655,50 @@
 > © Instagram / king lear By: Emma Williams2021-05-04 03:15:11 Last News: Lauren Gunderson Merges Her Grandfather's Dementia, King Lear In New Audio Play 'The Heath' and King Lear and Trump Bill and Melinda Gates Are Divorcing After 27 Years of Marriage. WHRHS Baseball and Softball Fall to Hunterdon Central. Thunderstorms slam Southeast with hail, wind and heavy rain. Florida looks for season sweep in third meeting with Hatters. Knicks' Taj Gibson: Joins starting five. 18-wheeler on edge of overpass in Wichita Falls.
 
 
+***
+[美國保護半導體，中韓兩國受傷害](https://technews.tw/2021/05/04/us-cn-s-korea/)
+
+
+> 南韓全經聯（FKI, the Federation of Korean Industries）4 月 29 日 […]
+
+
+***
+![Renault Samsung closes plant against strike](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/668004fee232466d8a44f73a671d6821.jpg "Renault Samsung closes plant against strike")
+
+
+[Renault Samsung closes plant against strike](https://www.koreatimes.co.kr/www/tech/2021/05/419_308252.html)
+
+
+> Renault Samsung's manufacturing plant in Busan / Courtesy of Renault SamsungRenault Samsung Motors, the South Korean unit of Renault S.A., said Tuesday it has temporarily closed its plant as the union continues strikes for a wage hike amid the prolonged COVID-19 pandemic.Renault Samsung shut down its sole plant in Busan, 450 kilometers south of Seoul, on Tuesday as the 1,900-strong union extended their strike for three consecutive working days from Friday, a company spokesman said over the phone.
+
+
+***
+![The 36 best movies to watch on Disney Plus](https://www.cnet.com/a/img/zKeq_Mst7Z03a4FD6QpjsTl2ahs=/0x87:874x578/1200x630/2021/05/04/fb179181-d424-428e-a432-ff6ee296a3da/safety-disney.jpg "The 36 best movies to watch on Disney Plus")
+
+
+[The 36 best movies to watch on Disney Plus](https://www.cnet.com/news/the-36-best-movies-to-watch-on-disney-plus/)
+
+
+> Safety will satisfy uplifting sports movie cravings. Disney Aside from Star Wars, Marvel, Pixar, classic animated films and live-action remakes, what else is there to watch Disney Plus? This list attempts to answer that by rounding up the less obvious picks peppered somewhere among the big hitters. (Anyone else think Disney Plus' navigation menu could still use some work?) Fingers crossed you'll find a hidden gem or two to hit the spot. Read more: The 16 best TV shows to watch on Disney Plus | Everything you need to know to sign up to Disney Plus Disney A biographical sports flick that hits all the uplifting notes.
+
+
+***
+![APRA AMCOS Taps Klarrio to Accelerate IT Modernisation](https://mms.businesswire.com/media/20210503005667/en/781794/23/KlarrioTagline.jpg "APRA AMCOS Taps Klarrio to Accelerate IT Modernisation")
+
+
+[APRA AMCOS Taps Klarrio to Accelerate IT Modernisation](https://www.businesswire.com/news/home/20210503005667/en/APRA-AMCOS-Taps-Klarrio-to-Accelerate-IT-Modernisation)
+
+
+> May 03, 2021 10:00 PM Eastern Daylight Time SYDNEY--(BUSINESS WIRE)--APRA AMCOS, a music rights management organisation for Australian and New Zealand songwriters and music publishers, has engaged Klarrio to help modernise its IT architecture and accelerate its digital transformation journey. Klarrio, a systems integrator specialising in real-time data streaming and customised IT architecture modernisation, is helping APRA AMCOS migrate from an on-premise, single-threaded processing system to a cloud-based, distributed processing platform.
+
+
+***
+![Epic Games and Apple spar over consoles and walled gardens on opening day of trial](https://cdn.cnn.com/cnnnext/dam/assets/210503171933-tim-sweeney-0503-super-tease.jpg "Epic Games and Apple spar over consoles and walled gardens on opening day of trial")
+
+
+[Epic Games and Apple spar over consoles and walled gardens on opening day of trial](https://www.cnn.com/2021/05/03/tech/apple-vs-epic-trial-sweeney/index.html)
+
+
+> At the center of the lawsuit is Fortnite, the hugely popular video game made by Epic that was kicked out of Apple's App Store last summer for flouting its rules on digital payments by establishing its own system. Apple (AAPL) gets a 30% cut of many in-app purchases on iOS devices and does not allow alternative payment systems. Fortnite's removal from the App Store prompted Epic to sue Apple. On day one, Epic and its first witness — the company's CEO, Tim Sweeney — sought to establish that Apple's App Store and its refusal to allow other app stores on its platform constitute anti-competitive behavior.
+
+
