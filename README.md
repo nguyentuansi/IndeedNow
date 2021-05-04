@@ -1981,3 +1981,41 @@
 > (Image credit: Shutterstock / monticello) Microsoft Office 365 appears to be suffering an outage, with some users unable to log into the full range of applications.According to data from DownDetector, issues began at roughly 8am ET/1pm BST, predominantly affecting customers in the United States.Currently, the Microsoft status portal is reporting no issues whatsover, but the company has acknowledged the problem via Twitter."We're investigating an issue with Power Apps," the company told one user, via the Microsoft 365 Status account.
 
 
+***
+![How the next patent office director could shape the patent system](https://cdn.arstechnica.net/wp-content/uploads/2021/05/GettyImages-1232598743-760x380.jpg "How the next patent office director could shape the patent system")
+
+
+[How the next patent office director could shape the patent system](https://arstechnica.com/tech-policy/2021/05/how-the-next-patent-office-director-could-shape-the-patent-system/)
+
+
+> Enlarge / Joe Biden speaks at a rally in Georgia on April 29, 2021. In the next few weeks, President Joe Biden is expected to choose a new director for the US Patent and Trademark Office. In recent days, I've talked to a dozen people who are deeply involved in the patent system. During these conversations, three names came up over and over again as leading candidates. One is patent lawyer Ellisen Turner. Over an 18-year career, Turner has represented a wide range of clients, from big tech companies to companies that do little more than collect patent licensing revenue.
+
+
+***
+[Sources: TSMC is planning to build up to five more chipmaking facilities in Arizona, beyond the one currently planned (Reuters)](http://www.techmeme.com/210504/p19#a210504p19)
+
+
+> Reuters: Sources: TSMC is planning to build up to five more chipmaking facilities in Arizona, beyond the one currently planned — TAIPEI (Reuters) - Taiwan Semiconductor Manufacturing Co Ltd (TSMC) is planning to build several more chipmaking factories in the U.S. state of Arizona beyond the one currently planned …
+
+
+***
+[I built a personalized search engine for one of my favorite YouTubers using Python, youtube-dl, selenium & react!](https://www.reddit.com/r/Python/comments/n4s0uf/i_built_a_personalized_search_engine_for_one_of/)
+
+
+> Excited to announce my first python web app, DuckDuckAbdaal, a personalized search engine for my favorite YouTubers, Ali Abdaal. I used selenium to scrape all his videos, youtube-dl to download them as audio files, and Google Speech Recognition to transcribe the audio files.I then took all the data and used it to populate a Postgres database hosted on supabase, then built a frontend with React where users can look up phrases and find out how many times and in which videos were they said.Live site: https://abdaal-search.
+
+
+***
+[It's not you: Discord shuts down Microsoft talks and inks deal with Sony](https://www.verdict.co.uk/discord-and-sony-deal/)
+
+
+> Chat platform Discord has cosied up to Sony in a new deal after acquisition talks with Microsoft ground to a halt last month. The rapid switch from one console giant to another highlights just how competitive the gaming space has become. There are few details about what exactly the new partnership will mean moving forward. […] The post It’s not you: Discord shuts down Microsoft talks and inks deal with Sony appeared first on Verdict.
+
+
+***
+[Using numba, my code now runs faster by about 20 times 😲](https://www.reddit.com/r/Python/comments/n4rzi1/using_numba_my_code_now_runs_faster_by_about_20/)
+
+
+> Proof: https://github.com/Mamdasn/comparing-numba-less-and-numba-flavored-version Showing that it's about 21 times faster in my case I recently added im2dhisteq to my repository and because it was very slow, I searched for a new way to make my code run faster, as I was already using numpy built-in functions and there were no (at least easy) other way to optimize the code using just numpy. I recently found out about Numba, which is advertised to run my codes 1000 times faster, but as I later found out the degree of that is actually very dependant on your code.
+
+
