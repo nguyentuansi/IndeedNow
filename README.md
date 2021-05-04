@@ -2019,3 +2019,50 @@
 > Proof: https://github.com/Mamdasn/comparing-numba-less-and-numba-flavored-version Showing that it's about 21 times faster in my case I recently added im2dhisteq to my repository and because it was very slow, I searched for a new way to make my code run faster, as I was already using numpy built-in functions and there were no (at least easy) other way to optimize the code using just numpy. I recently found out about Numba, which is advertised to run my codes 1000 times faster, but as I later found out the degree of that is actually very dependant on your code.
 
 
+***
+![Hone your dungeon keeping with the best RPGs for Android!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/07/titan_quest_hero.jpg "Hone your dungeon keeping with the best RPGs for Android!")
+
+
+[Hone your dungeon keeping with the best RPGs for Android!](https://www.androidcentral.com/best-rpgs-android)
+
+
+> Source: Android Central Role-playing games are wonderful, story-driven experiences that complement the mobile gaming experience nicely. Despite the relatively tiny mobile screens we're used to (yes, 5.7 inches is still small by gaming standards), RPGs allow us to get lost in fanciful worlds for a while. In the case of some games, especially those ported over from PC, that "while" could be 20, 30 hours, or even more! This makes the best RPGs worth their price in the Google Play Store. Unfortunately, like most game genres, there are some mobile duds.
+
+
+***
+[EURGBP retraces run higher](https://www.forexlive.com/technical-analysis/!/eurgbp-retraces-run-higher-20210504)
+
+
+> Holding 100/200 hour MA got the ball rolling back down The NA session began with the EURGBP spiking higher (see post "").  EURUSD bounces. EURGBP in play
+
+
+***
+![Tech tools for small business week](https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/cy78ADpgmzBeFHpSzkQIz8ccnGE=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SAV3NE46IRE2TKS4RF2WBMUW7Y.jpg "Tech tools for small business week")
+
+
+[Tech tools for small business week](https://www.wsaz.com/2021/05/04/tech-tools-for-small-business-week/)
+
+
+> HUNTINGTON, W.Va. (WSAZ) -This is the time of year people celebrate National Small Business Week, as more than half of Americans either own or work for a small business.Tech Expert Marc Saltzman has a few tech tools that can help these companies or home businesses thrive.Copyright 2021 WSAZ. All rights reserved.
+
+
+***
+![How to get Snapchat Dark Mode: Where to turn on new feature in app appearance as it's finally rolled out](https://i.inews.co.uk/content/uploads/2021/05/SEI_75833180.jpg "How to get Snapchat Dark Mode: Where to turn on new feature in app appearance as it's finally rolled out")
+
+
+[How to get Snapchat Dark Mode: Where to turn on new feature in app appearance as it's finally rolled out](https://inews.co.uk/news/technology/snapchat-dark-mode-how-get-where-turn-on-app-appearance-explained-983791)
+
+
+> Snapchat, the multimedia messaging app, has launched a Dark Mode feature to some users, joining the long list of apps that now have this option.Dark Mode gives apps a dark background, which some say is less harsh on the eyes, among other potential benefits. Here's how to turn Snapchat to Dark Mode and who can currently get the feature.How to switch on dark mode in Snapchat?Open the Snapchat app on your phone – make sure the app is up to date, if it's not head to the Apple App store to update it. Tap on the avatar profile icon in the top left corner of the screen of the app.
+
+
+***
+![Hello World](https://external-preview.redd.it/zmaqIOCGecHmAWSqc0_2e3g4MNJm1K9U9EetcJKBcRI.jpg?auto=webp&s=f397b92dd3c89d17945d0594d04f8faebc485789 "Hello World")
+
+
+[Hello World](https://www.reddit.com/r/programming/comments/n4uh30/hello_world_python_vs_java/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
