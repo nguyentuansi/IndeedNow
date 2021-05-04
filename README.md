@@ -1793,3 +1793,50 @@
 > Reinhard Ploss, CEO of German semiconductor manufacturer Infineon poses before the company's annual shareholder meeting in Munich, Germany, February 20, 2020 REUTERS/Michael Dalder/File PhotoGerman chipmaker Infineon (IFXGn.DE) raised its guidance on Tuesday for revenue and margins in the current fiscal year, saying that demand was greatly exceeding supply and it continued to invest in additional capacity.Munich-based Infineon, the leading semiconductor supplier to the car industry, lifted its revenue forecast for the year to Sept.
 
 
+***
+![Namyang Chairman's resign lift stock price](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/8c8cba3658a04ca1ad64ad22c938750e.jpg "Namyang Chairman's resign lift stock price")
+
+
+[Namyang Chairman's resign lift stock price](https://www.koreatimes.co.kr/www/tech/2021/05/694_308295.html)
+
+
+> Namyang Diary Product Chairman Hong Won-sik bows during an apology Tuesday for claims the company made last month, backed by false reports, that its yogurt drink Bulgaris had anti-viral properties making it effective against the coronavirus causing COVID-19. YonhapBy Kim Jae-heunNamyang Dairy Product's shares soared 9.52 percent Tuesday following the much-awaited departure of Chairman Hong Won-sik from the top post.Hong said he took full responsibility for claims made last month, backed by false reports, that the company's yogurt drink Bulgaris had anti-viral properties making it effective against the coronavirus causing COVID-19.
+
+
+***
+![Kakao trying to 'duplicate' Amazon's business model](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/744444e81522441298dee024f0601e2a.jpg "Kakao trying to 'duplicate' Amazon's business model")
+
+
+[Kakao trying to 'duplicate' Amazon's business model](https://www.koreatimes.co.kr/www/tech/2021/05/133_308293.html)
+
+
+> By Baek Byung-yeulKakao, the country's biggest mobile messaging app operator, is speeding up its mission to "duplicate" the business model of U.S.-based e-commerce titan Amazon, in an attempt to establish a business empire encompassing online shopping, online comics and novels, media content and logistics, industry analysts and officials said Tuesday.Amazon is the world's largest e-commerce business operator, logging $108.5 billion in sales in the first quarter, a 44-percent increase year-on-year.
+
+
+***
+![Incheon airport becomes Israel Aerospace Industries' 1st overseas aircraft conversion partner](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/7dae233448f84eef9b553f02e6a4db99.jpg "Incheon airport becomes Israel Aerospace Industries' 1st overseas aircraft conversion partner")
+
+
+[Incheon airport becomes Israel Aerospace Industries' 1st overseas aircraft conversion partner](https://www.koreatimes.co.kr/www/tech/2021/05/774_308280.html)
+
+
+> Incheon International Airport Corp. President and CEO Kim Kyung-wook, center, holds a memorandum of agreement with Yossi Melamed, right, general manager of the aviation group of Israel Aerospace Industries, and Paik Soon-suk, CEO and president of Sharp Technics K, during a signing ceremony at Paradise City in Incheon, Tuesday. Courtesy of Incheon International Airport Corp.By Jun Ji-hyeIncheon International Airport, Korea's main travel gateway, has been selected as the first overseas production base of Israel Aerospace Industries (IAI) to convert wide-body passenger planes to freighters, beating competitors in China and India.
+
+
+***
+[GBP/JPY Daily Outlook](https://www.actionforex.com/technical-outlook/gbpjpy-outlook/376507-gbp-jpy-daily-outlook-1106/)
+
+
+> Daily Pivots: (S1) 151.12; (P) 151.52; (R1) 152.12; More… Intraday bias in GBP/JPY stays neutral for the moment. On the upside, above 152.38 will reaffirm the case that correction from 153.39 has already completed, and bring retest of this high next. However, break of 149.03 will bring deeper fall to extend the correction from 153.39. […] The post GBP/JPY Daily Outlook appeared first on Action Forex.
+
+
+***
+![Mac0S 11.3.1 download failed](https://images.macrumors.com/social/?t=2294741&v=6 "Mac0S 11.3.1 download failed")
+
+
+[Mac0S 11.3.1 download failed](https://forums.macrumors.com/threads/mac0s-11-3-1-download-failed-said-internet-issue-how-do-i-start-download-again-from-scratch.2294741/)
+
+
+> Hi All, Summary: M1 MBA Start: Said 6.6Gb to download. Failed to download and install over night Now: Says 5.7Gb to download. Question: I want to start from scratch, and download the whole 6.6Gb cleanly in one go. I am apprehensive about just installing the incremental 5.7Gb left I also do not want to wipe the MBA and start again. I just want to restart the update process from scratch again. How do I reset the update process, to start a clean download of the 6.6Gb again? NB: Error this morning: '.
+
+
