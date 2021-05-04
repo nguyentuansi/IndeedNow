@@ -2066,3 +2066,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Tech Sees Bigger Opportunity In Utah — If The State Works On Its Image](https://media.npr.org/assets/img/2021/05/03/gettyimages-1197863832_wide-ae067a85349efab0ad56ead26982936033ad643b.jpg?s=1400 "Tech Sees Bigger Opportunity In Utah — If The State Works On Its Image")
+
+
+[Tech Sees Bigger Opportunity In Utah — If The State Works On Its Image](https://www.npr.org/2021/05/04/991943295/tech-sees-bigger-opportunity-in-utah-if-the-state-works-on-its-image)
+
+
+> Mark Zuckerberg, chief executive officer and founder of Facebook Inc., speaks during the Silicon Slopes Tech Summit in Salt Lake City, Utah, U.S., on Friday, Jan. 31, 2020. George Frey/Bloomberg via Getty Images On any given day, half a dozen cranes tower over Utah's "Silicon Slopes" region just south of Salt Lake City erecting glassy office buildings in order to make more room for Utah's already steadily growing tech industry. Companies and the state want that growth to continue but industry leaders argue that in order to do that, the state's image needs some work.
+
+
+***
+![Make your Nintendo Switch more comfortable to hold with these thumb grips](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/12/nintendo-switch-hero.jpg "Make your Nintendo Switch more comfortable to hold with these thumb grips")
+
+
+[Make your Nintendo Switch more comfortable to hold with these thumb grips](https://www.imore.com/best-thumb-grips-your-nintendo-switch)
+
+
+> Best Nintendo Switch Thumb Grips iMore 2021 Do you find your hands cramping or slipping during long play sessions using your Nintendo Switch Joy-Cons? If you don't have the cash to upgrade to a Nintendo Switch Pro Controller, you can improve your experience on a budget by picking up a set of thumb grips. These are the best Nintendo Switch thumb grips to make your gaming more comfortable and add a little style to your joysticks. Staff Pick Also compatible with the Switch Lite, this set of eight thumb grips fit over your joysticks to make them more comfortable while reducing slippage.
+
+
+***
+![Here's everything you need to know about Bravely Default 2](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/switch_bravelydefault2_01.jpg "Here's everything you need to know about Bravely Default 2")
+
+
+[Here's everything you need to know about Bravely Default 2](https://www.imore.com/bravely-default-ii-everything-you-need-know)
+
+
+> Source: Nintendo The Nintendo Switch had a pretty good 2020, thanks in part to games like Hyrule Warriors: Age of Calamity and the juggernaut known as Animal Crossing: New Horizons. But what about the Nintendo Switch exclusives releasing in 2021? With Super Mario 3D World + Bowser's Fury and Monster Hunter Rise satisfying Switch owners, Switch faithful might be curious about Bravely Default 2, the latest entry in the Bravely series that's exclusive to the Nintendo Switch. While Bravely Default is a traditional JRPG by most standards, it still manages to be a lot of fun, and is one of the best RPGs on the Nintendo Switch.
+
+
+***
+[EXPLAINER: Will Donald Trump return to Facebook?](https://www.mymotherlode.com/news/technology/1707164/explainer-will-donald-trump-return-to-facebook.html)
+
+
+> Donald Trump will find out whether he gets to return to Facebook on Wednesday
+
+
+***
+!['Ted Lasso' and 'Stillwater' both nominated for Peabody Awards](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/ted-lasso-locker-room.jpeg "'Ted Lasso' and 'Stillwater' both nominated for Peabody Awards")
+
+
+['Ted Lasso' and 'Stillwater' both nominated for Peabody Awards](https://www.imore.com/ted-lasso-and-stillwater-both-nominated-peabody-awards)
+
+
+> Source: Apple TV+ Two Apple TV+ series have received Peabody Awards nominations. "Ted Lasso" has received dozens of awards at this point. Apple TV+ continues to rack up the nominations in this year's awards season. In a press release, Apple has announced that both "Ted Lasso" and "Stillwater" have received nominations for the Peabody Awards. According to the release, each series was selected for nomination from a list of 1,300 entries that were submitted for consideration. The Peabody organization celebrates the finest in broadcasting and digital media, including television, radio/podcasts, and the web, in entertainment, news, documentary, children's and public service programming.
+
+
