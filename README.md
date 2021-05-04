@@ -1702,3 +1702,50 @@
 > At the center of the lawsuit is Fortnite, the hugely popular video game made by Epic that was kicked out of Apple's App Store last summer for flouting its rules on digital payments by establishing its own system. Apple (AAPL) gets a 30% cut of many in-app purchases on iOS devices and does not allow alternative payment systems. Fortnite's removal from the App Store prompted Epic to sue Apple. On day one, Epic and its first witness — the company's CEO, Tim Sweeney — sought to establish that Apple's App Store and its refusal to allow other app stores on its platform constitute anti-competitive behavior.
 
 
+***
+![Pfizer COVID vaccine could be authorized for adolescents as soon as next week](https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/28/0c419a70-81a6-496f-9dc8-fc653758aa84/thumbnail/1200x630g3/54dd4d95a054aa6cb56eb459ca2898de/gettyimages-1296059261.jpg "Pfizer COVID vaccine could be authorized for adolescents as soon as next week")
+
+
+[Pfizer COVID vaccine could be authorized for adolescents as soon as next week](https://www.cbsnews.com/news/pfizer-covid-19-vaccine-adolescents/)
+
+
+> By Alexander Tin May 4, 2021 / 12:07 AM / CBS News The Food and Drug Administration is expected to authorize Pfizer-BioNTech's COVID-19 vaccine for administration to adolescents by early next week, according to a federal health official with knowledge of the agency's plans. The move would allow many American middle- and high-school students to be vaccinated against COVID-19 well before the start of the next school year, using a shot Pfizer claims demonstrated "100% efficacy" in children as young as 12 years old with side effectsÂ similar to those that have been appearing in young adults.
+
+
+***
+![Twitter Spaces now available to anyone with at least 600 followers](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Screenshot_2021-05-04_at_9.34.-647x363.png?bmXLrmuT73dSXEkvwtjdUs5_8Qj8vmlU "Twitter Spaces now available to anyone with at least 600 followers")
+
+
+[Twitter Spaces now available to anyone with at least 600 followers](https://www.indiatoday.in/technology/news/story/twitter-spaces-now-available-to-anyone-with-at-least-600-followers-1798589-2021-05-04)
+
+
+> Twitter is rolling out Spaces to users with around 600 followers on the micro-blogging site.The company had introduced a Clubhouse-like audio chat room called Spaces last year.The new feature, which is also a voice chatting feature, lets users create live rooms with up to 10 speakers.Twitter is rolling out Spaces to users with around 600 followers on the micro-blogging site. The company had introduced a Clubhouse-like audio chat room called Spaces last year. However, Twitter had not immediately rolled out the feature to all its users, it had only started testing Spaces with a limited group of people.
+
+
+***
+![Realme laptop may arrive in India in Q3 2021, cost you less than Rs 50,000](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/realme_reuters-647x363.jpeg?0XhG1LC.3qwmkXGpcSC..gMTC32mtC16 "Realme laptop may arrive in India in Q3 2021, cost you less than Rs 50,000")
+
+
+[Realme laptop may arrive in India in Q3 2021, cost you less than Rs 50,000](https://www.indiatoday.in/technology/news/story/realme-laptop-may-arrive-in-india-in-q3-2021-cost-you-less-than-rs-50-000-1798586-2021-05-04)
+
+
+> Realme may be planning to launch a laptop in India soon.Realme's laptop may arrive as early as Q3 2021, if we go by the questionnaire.Realme may launch the laptop priced between Rs 30,000 and Rs 50,000.Realme may be getting serious about making a laptop after it joked about it on April Fools' Day. The smartphone company has started a questionnaire on its forum where it is asking its fans and anyone who stumbles on it their preferences for a laptop. Realme has asked people if they are planning on buying a new laptop in the next three months.
+
+
+***
+![Aussie suburbs that could eventually upgrade to NBN 1000 speed tier announced](https://cdn.mos.cms.futurecdn.net/vvwjMeeTXEbDdZCNEHRSBH-1200-80.jpg "Aussie suburbs that could eventually upgrade to NBN 1000 speed tier announced")
+
+
+[Aussie suburbs that could eventually upgrade to NBN 1000 speed tier announced](https://www.techradar.com/news/aussie-suburbs-that-could-eventually-upgrade-to-nbn-1000-speed-tier-announced)
+
+
+> NBN Co has today announced that over a million Australian homes will be getting upgrades by 2023 that will allow them to sign up for the ultrafast NBN speed tiers, offering up to 1Gbps download speed in the case of NBN 1000.This means that eligible premises will be able to upgrade their existing fibre-to-the-node (FTTN) technology to a more capable fibre-to-the-premises (FTTP) connection, bypassing any existing copper and its associated congestion in doing so.Some fibre-to-the-curb (FTTC) connections may also get the same FTTP upgrade treatment, but NBN Co has proposed that "customers living or working in premises currently served by this technology will need to order a plan based on wholesale speed tiers of 250/25 Mbps or higher to qualify for a full fibre upgrade".
+
+
+***
+[Gendered Caste System at Netflix](https://astjames.medium.com/gendered-caste-system-at-netflix-3f75fecd2e14)
+
+
+> 6 days ago·14 min readStreaming Gender Inequality in 2021: A Caste System at NetflixWhen I was 35, I quit my Marketing position at an Application Security company and attended a women's Bootcamp because I wanted to become an Information Security professional. I commuted four hours a day, missed my family, and spent my weekends doing homework.When I was approaching graduation, a mentor asked me, 'What is your dream job? Your dream company?' I immediately said: 'My dream is to work at Netflix!'Netflix Dream Comes True, Morphed into a NightmareFast forward to September 2017, my first day at Netflix.
+
+
