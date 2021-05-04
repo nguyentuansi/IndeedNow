@@ -1605,3 +1605,53 @@
 > Verizon has sold off its media group, which includes AOL and Yahoo. This news comes after about a week of speculation and rumors. Verizon will get back a fraction of the money that it paid for Yahoo and AOL.The company will be sold to a private equity firmVerizon Monday stated in a press release that it is selling off its media group- this report however comes to us via The Verge. The sale puts an end to Verizon's abortive attempt at managing a media and advertisement division. Though it may not be 100% finalized, it's said that Verizon sold the group for around $5 billion.
 
 
+***
+![Open Source AI Data Annotation 2.0](https://external-preview.redd.it/yPDwpylRgYms30eXqeWcKV6Ri_UeYwu3SPd60vYuY6I.jpg?auto=webp&s=6831c1872c8089a166023acd4bccbbe556c0ee64 "Open Source AI Data Annotation 2.0")
+
+
+[Open Source AI Data Annotation 2.0](https://www.reddit.com/r/programming/comments/n4bk13/open_source_ai_data_annotation_20/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Google is now rolling out the May update to supported Pixels](https://fdn.gsmarena.com/imgroot/news/21/05/pixel-update/-476x249w4/gsmarena_001.jpg "Google is now rolling out the May update to supported Pixels")
+
+
+[Google is now rolling out the May update to supported Pixels](https://www.gsmarena.com/google_is_now_rolling_out_the_may_update_to_supported_pixels-news-48945.php)
+
+
+> It's the first Monday of the month, and you know what that means? A Google update. Of Android. For its Pixel line. Well, those that are still supported anyway. We're talking Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL, Pixel 4a, Pixel 4a 5G, and Pixel 5. That's the entire list. All of these devices aside from the Pixel 4a 5G and the Pixel 5 have build RQ2A.210505.002 headed towards them, while the Pixel 4a 5G and the Pixel 5 get build RQ2A.210505.003. As usual with Google updates, expect this one to take multiple weeks reaching all of the units out there in the wild, in a very staged rollout.
+
+
+***
+![Learn about Object Oriented Programming, Introduction to OOP](https://external-preview.redd.it/4j3BjyOMg7nV_EzvITojwyB92fydv1xO4GrZoR5BXiM.jpg?auto=webp&s=ca744926679aca8d5a8706ee8ec8db8a0f06982d "Learn about Object Oriented Programming, Introduction to OOP")
+
+
+[Learn about Object Oriented Programming, Introduction to OOP](https://www.reddit.com/r/programming/comments/n4bgsn/learn_about_object_oriented_programming/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![A happy ending for King Lear? Trauma of plague caused Shakespeare to change play's finale and Shakespeare on the Lawn brings the tragedy of 'King Lear' to Zoom](https://https://www.thearkatech.com/img/news_img/all/6464_13_1200.pic "A happy ending for King Lear? Trauma of plague caused Shakespeare to change play's finale and Shakespeare on the Lawn brings the tragedy of 'King Lear' to Zoom")
+
+
+[A happy ending for King Lear? Trauma of plague caused Shakespeare to change play's finale and Shakespeare on the Lawn brings the tragedy of 'King Lear' to Zoom](https://www.thearkatech.com/en/42726/)
+
+
+> © Instagram / king lear By: Emma Williams2021-05-04 03:16:11 Last News: Shakespeare on the Lawn brings the tragedy of 'King Lear' to Zoom and A happy ending for King Lear? Trauma of plague caused Shakespeare to change play's finale Two Woodland High School students selected to take part in Western Aerospace Scholars program and help design a mission to Mars. Michigan health department: 70% vaccination goal not based on herd immunity. Denver City Council To Vote On Proposal For Landlords To Have Licenses, Inspections For Rental Properties.
+
+
+***
+![King Lear and Trump and Lauren Gunderson Merges Her Grandfather's Dementia, King Lear In New Audio Play 'The Heath'](https://https://www.thearkatech.com/img/news_img/all/6464_16_1200.pic "King Lear and Trump and Lauren Gunderson Merges Her Grandfather's Dementia, King Lear In New Audio Play 'The Heath'")
+
+
+[King Lear and Trump and Lauren Gunderson Merges Her Grandfather's Dementia, King Lear In New Audio Play 'The Heath'](https://www.thearkatech.com/en/42725/)
+
+
+> © Instagram / king lear By: Emma Williams2021-05-04 03:15:11 Last News: Lauren Gunderson Merges Her Grandfather's Dementia, King Lear In New Audio Play 'The Heath' and King Lear and Trump Bill and Melinda Gates Are Divorcing After 27 Years of Marriage. WHRHS Baseball and Softball Fall to Hunterdon Central. Thunderstorms slam Southeast with hail, wind and heavy rain. Florida looks for season sweep in third meeting with Hatters. Knicks' Taj Gibson: Joins starting five. 18-wheeler on edge of overpass in Wichita Falls.
+
+
