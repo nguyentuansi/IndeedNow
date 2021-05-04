@@ -2113,3 +2113,37 @@
 > Source: Apple TV+ Two Apple TV+ series have received Peabody Awards nominations. "Ted Lasso" has received dozens of awards at this point. Apple TV+ continues to rack up the nominations in this year's awards season. In a press release, Apple has announced that both "Ted Lasso" and "Stillwater" have received nominations for the Peabody Awards. According to the release, each series was selected for nomination from a list of 1,300 entries that were submitted for consideration. The Peabody organization celebrates the finest in broadcasting and digital media, including television, radio/podcasts, and the web, in entertainment, news, documentary, children's and public service programming.
 
 
+***
+[At trial, Tim Sweeney contends that the App Store taking "30% off of the top" is an existential threat to Fortnite becoming a metaverse or platform for creators (Nick Statt/Protocol)](http://www.techmeme.com/210504/p31#a210504p31)
+
+
+> Nick Statt / Protocol: At trial, Tim Sweeney contends that the App Store taking “30% off of the top” is an existential threat to Fortnite becoming a metaverse or platform for creators — Day two in Epic v. Apple featured the second half of multi-hour testimony from the Epic CEO.
+
+
+***
+![How to defeat Nemesis in Returnal](https://cdn.mos.cms.futurecdn.net/jTfywYKnjJDwhJNYaBS7Sn-1200-80.jpg "How to defeat Nemesis in Returnal")
+
+
+[How to defeat Nemesis in Returnal](https://www.techradar.com/how-to/how-to-defeat-nemesis-in-returnal)
+
+
+> Housemarque's recent PS5 exclusive Returnal has boss fights that are both captivating to behold and brutally difficult to beat. Of the bosses in Act 1, none demonstrate these dual qualities as well as Nemesis. This opponent is the final one you'll face in Act 1, capping off the third biome with an impressive fight using incredible scale.Fortunately, once you pick your jaw up off the ground and read through our tips, you'll be equipped to take this on this fight. How to unlock and fight Nemesis(Image credit: Future)Nemesis is found in the third Biome of Returnal, the Derelict Citadel.
+
+
+***
+![Apple Card Grows To 6.4 Million Cardholders Thanks To Women](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6091c44a604970f5fa9d4448%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D720%26cropY1%3D36%26cropY2%3D441 "Apple Card Grows To 6.4 Million Cardholders Thanks To Women")
+
+
+[Apple Card Grows To 6.4 Million Cardholders Thanks To Women](https://www.forbes.com/sites/ronshevlin/2021/05/04/apple-card-grows-to-64-million-cardholders-thanks-to-women/)
+
+
+> Tim Cook of Apple announcing the Apple Card Source: Getty In March 2020, I reported that there were 3.1 million Apple Card credit cardholders in the US (based on a January 2020 consumer survey from Cornerstone Advisors). How did the card, which was launched in August 2019, do throughout 2020? Pretty well, it turns out. According to a Cornerstone Advisors survey from December 2020, the number of Apple Card customers more than doubled over the course of the year. Cornerstone now estimates that 6.4 million Americans are Apple Card holders.
+
+
+***
+[After teasing a new social media platform, Trump debuts a new section on his website that's effectively a blog, ahead of the Oversight Board's decision on Wed. (Makena Kelly/The Verge)](http://www.techmeme.com/210504/p30#a210504p30)
+
+
+> Makena Kelly / The Verge: After teasing a new social media platform, Trump debuts a new section on his website that's effectively a blog, ahead of the Oversight Board's decision on Wed. — A true poster never logs off for long — After months of promising his own social media network for banned posters …
+
+
