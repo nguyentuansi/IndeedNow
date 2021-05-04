@@ -1749,3 +1749,47 @@
 > 6 days ago·14 min readStreaming Gender Inequality in 2021: A Caste System at NetflixWhen I was 35, I quit my Marketing position at an Application Security company and attended a women's Bootcamp because I wanted to become an Information Security professional. I commuted four hours a day, missed my family, and spent my weekends doing homework.When I was approaching graduation, a mentor asked me, 'What is your dream job? Your dream company?' I immediately said: 'My dream is to work at Netflix!'Netflix Dream Comes True, Morphed into a NightmareFast forward to September 2017, my first day at Netflix.
 
 
+***
+![Elliptic Labs Collaborates with Cirrus Logic to Bring Next-Generation User Experiences to PC, Laptop, and Smartphone Customers](https://mms.businesswire.com/media/20210503005828/en/875846/23/ellipticlabs-logo-blue.jpg "Elliptic Labs Collaborates with Cirrus Logic to Bring Next-Generation User Experiences to PC, Laptop, and Smartphone Customers")
+
+
+[Elliptic Labs Collaborates with Cirrus Logic to Bring Next-Generation User Experiences to PC, Laptop, and Smartphone Customers](https://www.businesswire.com/news/home/20210503005828/en/Elliptic-Labs-Collaborates-with-Cirrus-Logic-to-Bring-Next-Generation-User-Experiences-to-PC-Laptop-and-Smartphone-Customers)
+
+
+> May 04, 2021 02:00 AM Eastern Daylight Time OSLO, Norway--(BUSINESS WIRE)--Elliptic Labs (EuroNext Growth: ELABS.OL), a global AI software company and leader in Virtual Smart Sensors, is collaborating with Cirrus Logic, Inc. (Nasdaq: CRUS), a leader in low-power, high-precision mixed-signal processing solutions, to certify and optimize Elliptic Labs' AI Virtual Smart Sensor Platform on Cirrus Logic's latest smart boosted amplifiers for smartphone, PC/laptop, and IoT customers. Elliptic Labs' Virtual Smart Sensors bring innovative user experiences like proximity and presence detection, as well as 3D touchless gesture sensing to next-generation smart devices.
+
+
+***
+![Time Series Analysis in Python. Master Applied Data Analysis](https://external-preview.redd.it/60AXMhtzj9-Dg7BsrDPphdFq8i7_bGZb3eHIYr2xHTU.jpg?auto=webp&s=1dc57a5e1349593803bd6ce401492b88f8e2acc1 "Time Series Analysis in Python. Master Applied Data Analysis")
+
+
+[Time Series Analysis in Python. Master Applied Data Analysis](https://www.reddit.com/r/Python/comments/n4h8qc/time_series_analysis_in_python_master_applied/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[help new to python and pipfile](https://www.reddit.com/r/Python/comments/n4h848/help_new_to_python_and_pipfile/)
+
+
+> can someone help me to run python program? it is a repo it have a pipfile and i dont know how to install
+
+
+***
+[how i write a program input a character and tell type of vowels?](https://www.reddit.com/r/Python/comments/n4h66u/how_i_write_a_program_input_a_character_and_tell/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Infineon raises revenue, margin guidance on chip boom](https://www.reuters.com/resizer/ZQ-Dw7euIRQpFTMQeUFcO6NQv2Y=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/CXKBUAICDRPIRFKMFVF24TXY6I.jpg "Infineon raises revenue, margin guidance on chip boom")
+
+
+[Infineon raises revenue, margin guidance on chip boom](https://www.reuters.com/technology/infineon-raises-revenue-margin-guidance-chip-boom-2021-05-04/)
+
+
+> Reinhard Ploss, CEO of German semiconductor manufacturer Infineon poses before the company's annual shareholder meeting in Munich, Germany, February 20, 2020 REUTERS/Michael Dalder/File PhotoGerman chipmaker Infineon (IFXGn.DE) raised its guidance on Tuesday for revenue and margins in the current fiscal year, saying that demand was greatly exceeding supply and it continued to invest in additional capacity.Munich-based Infineon, the leading semiconductor supplier to the car industry, lifted its revenue forecast for the year to Sept.
+
+
