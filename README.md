@@ -1890,3 +1890,44 @@
 > May 04, 2021 06:00 AM Eastern Daylight Time CENTENNIAL, Colo. & CHICAGO--(BUSINESS WIRE)--Periscope Equity announced today the launch of brightfin, a new company formed from recent acquisitions of MobiChord, Visage, and Mobile Solutions. brightfin provides a unified platform to manage mobile, telecom (fixed), and cloud expenses, offered natively through ServiceNow or as a SaaS solution. IDC reports that Information and Communications Technology (ICT) spending is expected to continue its rapid growth with worldwide spend reaching nearly $6 trillion by 20231.
 
 
+***
+[How Digital Dukaandaar, an education startup helps people build eCommerce businesses](https://www.zeebiz.com/technology/news-how-digital-dukaandaar-an-education-startup-helps-people-build-ecommerce-businesses-156068)
+
+
+> Founded in 2018, Delhi Based education startup Digital Dukaandaar helps people build profitable eCommerce businesses from scratch
+
+
+***
+[Soundcore Liberty Air 2: sconto del 30% per le cuffie TWS](https://www.telefonino.net/notizie/soundcore-liberty-air-2-sconto-del-30-per-le-cuffie-tws/)
+
+
+> Vanno in offerta le Soundcore Liberty Air 2, cuffie true wireless con bluetooth 5.0, ricarica wireless e cancellazione del rumore.
+
+
+***
+![Apple supplier TSMC planning six U.S. fabs, says report](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/05/tsmc-2.jpg "Apple supplier TSMC planning six U.S. fabs, says report")
+
+
+[Apple supplier TSMC planning six U.S. fabs, says report](https://www.imore.com/apple-supplier-tsmc-planning-six-us-fabs-says-report)
+
+
+> Source: Taiwan Semiconductor Manufacturing Co., Ltd. A new report says Apple supplier TSMC, which makes the chips for devices like the iPhone 12 and the M1 MacBook Pro, could build six plants in the U.S. As Reuters notes, TSMC has one plant in the pipeline for the state of Arizona, but could be planning a further five: Taiwan Semiconductor Manufacturing Co Ltd (TSMC) is planning to build several more chipmaking factories in the U.S. state of Arizona beyond the one currently planned, three people familiar with the matter told Reuters.
+
+
+***
+[Filing: Amazon had sales of €44B in Europe in 2020, but made a €1.2B loss and therefore paid no corporate tax (Rupert Neate/The Guardian)](http://www.techmeme.com/210504/p3#a210504p3)
+
+
+> Rupert Neate / The Guardian: Filing: Amazon had sales of €44B in Europe in 2020, but made a €1.2B loss and therefore paid no corporate tax — Despite lockdown surge the firm's Luxembourg unit made a €1.2bn loss and therefore paid zero corporation tax — Fresh questions have been raised over Amazon's tax planning …
+
+
+***
+![Riot Games and Konvoy Ventures back games publisher Carry1st in $6M Series A – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/IMG_3285-Edit-1024x683-1.jpg "Riot Games and Konvoy Ventures back games publisher Carry1st in $6M Series A – TechCrunch")
+
+
+[Riot Games and Konvoy Ventures back games publisher Carry1st in $6M Series A – TechCrunch](https://techcrunch.com/2021/05/04/riot-games-and-konvoy-ventures-back-games-publisher-carry1st-in-6m-series-a/)
+
+
+> Africa is the last frontier for basically anything. Mobile gaming is no exception. For a continent that is home to more than 1 billion millennials and Gen Zers, mobile gaming has never really picked up, despite the continent witnessing rapid economic growth and smartphone adoption. Two issues have proved detrimental to this growth: distribution and payments. With fragmented and unresolved distribution and digital payments ecosystems, game studios have found it difficult to serve African consumers and make a ton of money doing so.
+
+
