@@ -1931,3 +1931,53 @@
 > Africa is the last frontier for basically anything. Mobile gaming is no exception. For a continent that is home to more than 1 billion millennials and Gen Zers, mobile gaming has never really picked up, despite the continent witnessing rapid economic growth and smartphone adoption. Two issues have proved detrimental to this growth: distribution and payments. With fragmented and unresolved distribution and digital payments ecosystems, game studios have found it difficult to serve African consumers and make a ton of money doing so.
 
 
+***
+![The aftermath of 2020: navigating the next normal against fraud](https://cdn.mos.cms.futurecdn.net/UNBhCvCBZ47GpjzV7AN5mG-1200-80.jpg "The aftermath of 2020: navigating the next normal against fraud")
+
+
+[The aftermath of 2020: navigating the next normal against fraud](https://www.techradar.com/news/the-aftermath-of-2020-navigating-the-next-normal-against-fraud)
+
+
+> The Covid-19 pandemic put businesses on the hot seat with consumers abandoning the local high street for the global digital marketplace, causing society to undergo a sudden 'digital acceleration' – a once-in-a-generation event whereby our dependence on technology has been expedited by over a decade, if not more, in the span of a single year. Overnight, organizations have had to build the solutions needed to support the verification of identity, transactions, and interactions.About the authorGus Tomlinson is General Manager Identity Fraud at GBG.
+
+
+***
+![Squarespace looks set for a bumper listing](https://cdn.mos.cms.futurecdn.net/SFdYLbu8A9FE2CcpGsz3XT-1200-80.jpg "Squarespace looks set for a bumper listing")
+
+
+[Squarespace looks set for a bumper listing](https://www.techradar.com/news/squarespace-looks-set-for-a-bumper-listing)
+
+
+> (Image credit: Squarespace) In the lead up to popular website builder and web hosting company Squarespace's decision to go public later this month, the company has registered 40,401,820 Class A shares for its recently announced direct listing.The company has been approved to list its Class A common stock on the NYSE under the ticker symbol 'SQSP'.Squarespace will not be raising fresh capital with the offering but its stockholders will have the option to sell or not sell their shares, according to a recent filing.
+
+
+***
+![Best cheap laptop deals and sales for May 2021](https://cdn.mos.cms.futurecdn.net/NXppM7VeyLJAekSeYJ73EU-1200-80.jpg "Best cheap laptop deals and sales for May 2021")
+
+
+[Best cheap laptop deals and sales for May 2021](https://www.techradar.com/news/the-best-laptop-deals)
+
+
+> We're bringing you all the best cheap laptop deals currently on the shelves, and right now you can pick up some excellent specs for some great prices. Not only are we seeing powerful machines on sale right now (some offering the latest 11th generation Intel Evo processors) but there are plenty of 2-in-1 laptop deals offering discounts on flexible machines with some great functionality. From Best Buy to Walmart, MSI to HP you'll find all the best cheap laptop deals right here. That means we've weeded out all the discounts that aren't worth your time to bring you only the highest quality laptop deals on the shelves right now.
+
+
+***
+![MotoGP live stream 2021: how to watch every Grand Prix online from anywhere](https://cdn.mos.cms.futurecdn.net/swzkiQ3jos5zaMfvjt5vD-1200-80.jpg "MotoGP live stream 2021: how to watch every Grand Prix online from anywhere")
+
+
+[MotoGP live stream 2021: how to watch every Grand Prix online from anywhere](https://www.techradar.com/news/motogp-live-stream-2021-how-to-watch-every-grand-prix-online)
+
+
+> After one of the most wildly competitive MotoGP seasons ever, the 2021 MotoGP season has already proven to be another unpredictable ride, and with Marc Marquez's getting comfortable again we've just about got a full grid. Don't miss a single lap with our guide - here's how to watch a MotoGP live stream no matter where you are in the world, and there are even options to watch absolutely FREE in some regions.The 2020 season saw nine different race-winning riders, five of whom had never topped the podium before.
+
+
+***
+![Office 365 down: Some apps not working for users](https://cdn.mos.cms.futurecdn.net/cebgFCzr2bSAE9HhsiM86G-1200-80.jpg "Office 365 down: Some apps not working for users")
+
+
+[Office 365 down: Some apps not working for users](https://www.techradar.com/news/office-365-outage-some-apps-not-working-for-users)
+
+
+> (Image credit: Shutterstock / monticello) Microsoft Office 365 appears to be suffering an outage, with some users unable to log into the full range of applications.According to data from DownDetector, issues began at roughly 8am ET/1pm BST, predominantly affecting customers in the United States.Currently, the Microsoft status portal is reporting no issues whatsover, but the company has acknowledged the problem via Twitter."We're investigating an issue with Power Apps," the company told one user, via the Microsoft 365 Status account.
+
+
