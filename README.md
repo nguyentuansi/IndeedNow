@@ -1840,3 +1840,53 @@
 > Hi All, Summary: M1 MBA Start: Said 6.6Gb to download. Failed to download and install over night Now: Says 5.7Gb to download. Question: I want to start from scratch, and download the whole 6.6Gb cleanly in one go. I am apprehensive about just installing the incremental 5.7Gb left I also do not want to wipe the MBA and start again. I just want to restart the update process from scratch again. How do I reset the update process, to start a clean download of the 6.6Gb again? NB: Error this morning: '.
 
 
+***
+![Five things to watch in Facebook Oversight Board ruling on Trump](https://thehill.com/sites/default/files/trumpdonald_102421getty_facebook.jpg "Five things to watch in Facebook Oversight Board ruling on Trump")
+
+
+[Five things to watch in Facebook Oversight Board ruling on Trump](https://thehill.com/policy/technology/551603-five-things-to-watch-in-facebook-oversight-board-ruling-on-trump)
+
+
+> Facebook's Oversight Board will rule Wednesday morning on whether to uphold or reverse a ban on former President TrumpDonald TrumpFacebook Oversight Board to rule on Trump ban Wednesday Rubio keeping door open on White House bid Lincoln Project taunts Trump, saying he lost to 'swamp,' McConnell MORE's account on the platform.It's by far the most high-profile case to come before the collection of academics, former politicians and journalists who make up the ostensibly independent organization.Facebook's critics have warned against reinstating Trump over his repeated violations of the platform's policies — beyond his posts about the Capitol insurrection that the review is centered on.
+
+
+***
+![Skydio starts shipping first X2 enterprise drones with prices from $10,999](https://cdn.vox-cdn.com/thumbor/KX9Ad2jLAJ2vWvB2z6c6rJxl364=/0x267:3200x1867/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/20081506/Skydio_AB_2125.jpg "Skydio starts shipping first X2 enterprise drones with prices from $10,999")
+
+
+[Skydio starts shipping first X2 enterprise drones with prices from $10,999](https://www.theverge.com/2021/5/4/22418785/skydio-enterprise-drones-x2-x2e-x2d-prices-specs)
+
+
+> Photo: Skydio US dronemaker Skydio has begun shipping its first enterprise drones today with prices starting at an enterprise-worthy $10,999. Skydio is best known as a pioneer of self-flying drone tech, but in recent years has shifted its attention away from a consumer market dominated by Chinese giant DJI to courting enterprise customers instead. This switch is partly due to geopolitics. The US government blacklisted various Chinese drones over spying fears last year, meaning law enforcement, military, and federal customers are looking more to US firms instead.
+
+
+***
+![Sitetracker launches extension to popular certification course for asset and field workflow mastery](https://mms.businesswire.com/media/20210504005102/en/875213/23/ST_Cert_Proj_Asset_Field_Badge.jpg "Sitetracker launches extension to popular certification course for asset and field workflow mastery")
+
+
+[Sitetracker launches extension to popular certification course for asset and field workflow mastery](https://www.businesswire.com/news/home/20210504005102/en/Sitetracker-launches-extension-to-popular-certification-course-for-asset-and-field-workflow-mastery)
+
+
+> May 04, 2021 06:00 AM Eastern Daylight Time PALO ALTO, Calif.--(BUSINESS WIRE)--Sitetracker, the global standard for deploying, operating, and servicing critical infrastructure technology, announces the launch of Sitetracker Asset and Field Workflow Mastery, the second offering in the overall Sitetracker Certification series. The class is an extension of the original course, which is now renamed Sitetracker Project Workflow Mastery. The second course is immediately available to Sitetracker users who have completed the first.
+
+
+***
+![beqom rapide Fast-Tracks Compensation Automation](https://mms.businesswire.com/media/20210504005160/en/707327/23/beqom-logo-tag-red.jpg "beqom rapide Fast-Tracks Compensation Automation")
+
+
+[beqom rapide Fast-Tracks Compensation Automation](https://www.businesswire.com/news/home/20210504005160/en/beqom-rapide-Fast-Tracks-Compensation-Automation)
+
+
+> May 04, 2021 06:00 AM Eastern Daylight Time NYON, Switzerland--(BUSINESS WIRE)--beqom, a cloud-based compensation management software provider, has announced the launch of beqom rapide, a new fast track approach to automate the compensation processes of large and mid-sized organizations in as little as six weeks. 'Companies typically spend months, if not years, on IT projects to implement compensation management systems,' according to Joost Hoppenbrouwers, beqom's Head of Services. 'From our decade of working with world-renowned companies to automate their compensation processes, we have been able to distill the best practices that will enable other companies to get up and running in a matter of weeks.
+
+
+***
+![Three Technology Expense Management (TEM) Companies Merge to Expand Offerings into IT Finance Management (ITFM)](https://mms.businesswire.com/media/20210504005246/en/875579/23/periscope_logotype_600px.jpg "Three Technology Expense Management (TEM) Companies Merge to Expand Offerings into IT Finance Management (ITFM)")
+
+
+[Three Technology Expense Management (TEM) Companies Merge to Expand Offerings into IT Finance Management (ITFM)](https://www.businesswire.com/news/home/20210504005246/en/Three-Technology-Expense-Management-TEM-Companies-Merge-to-Expand-Offerings-into-IT-Finance-Management-ITFM)
+
+
+> May 04, 2021 06:00 AM Eastern Daylight Time CENTENNIAL, Colo. & CHICAGO--(BUSINESS WIRE)--Periscope Equity announced today the launch of brightfin, a new company formed from recent acquisitions of MobiChord, Visage, and Mobile Solutions. brightfin provides a unified platform to manage mobile, telecom (fixed), and cloud expenses, offered natively through ServiceNow or as a SaaS solution. IDC reports that Information and Communications Technology (ICT) spending is expected to continue its rapid growth with worldwide spend reaching nearly $6 trillion by 20231.
+
+
