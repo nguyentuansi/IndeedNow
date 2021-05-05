@@ -2235,3 +2235,50 @@
 > Source: Hunter Fan Company Hunter has announced the release of a new HomeKit-enabled ceiling fan. The 52-inch Hunter Aerodyne ceiling fan sports four speeds, LED lighting, and quiet operation. Latest fan is available now in two finishes for $179.99 Hunter Fan Company has announced the release of a new HomeKit-enabled ceiling fan on Tuesday, the Hunter Aerodyne ceiling fan. Like the best HomeKit ceiling fans, the Aerodyne supports convenient controls through the Home app and via voice with Apple's virtual assistant Siri.
 
 
+***
+![Is Trump back on Facebook? Facebook Oversight Board will rule whether his ban lifts or becomes permanent today](https://www.gannett-cdn.com/presto/2021/05/04/USAT/ea9211db-9579-49a5-a317-1bef9ae29567-AP_Twitter-CEO_Statement-Trump_Ban.jpg?crop=5173,2910,x0,y0&width=3200&height=1801&format=pjpg&auto=webp "Is Trump back on Facebook? Facebook Oversight Board will rule whether his ban lifts or becomes permanent today")
+
+
+[Is Trump back on Facebook? Facebook Oversight Board will rule whether his ban lifts or becomes permanent today](https://www.usatoday.com/story/tech/2021/05/05/facebook-oversight-board-trump-ban-decision-day/4943106001/)
+
+
+> CLOSE The big three social media platforms have locked President Trump's accounts because his posts violated their policies during riots at the U.S. Capitol. USA TODAYFour months after his ouster from Facebook and Instagram, former president Donald Trump will learn Wednesday whether he can reconnect with tens of millions of followers or be permanently barred from both social media platforms.A return to Facebook would be a boon for outreach and fundraising should Trump run for president again in 2024.
+
+
+***
+![Signal tries to highlight how Facebook collects data from users, gets banned by Facebook](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/RTX8M71S-647x363.png?z4LImvjggesr5KI2.zEAXGLQXYQblv3H "Signal tries to highlight how Facebook collects data from users, gets banned by Facebook")
+
+
+[Signal tries to highlight how Facebook collects data from users, gets banned by Facebook](https://www.indiatoday.in/technology/news/story/signal-tries-to-highlight-how-facebook-collects-data-from-users-gets-banned-by-facebook-1798968-2021-05-05)
+
+
+> Signal posted a series of ads on Instagram to depict how Facebook collects information from usersThe encrypted messaging platform alleged that the Facebook-owned platforms collect everything they can to sell visibility into people and their lives.Signal in a blogpost revealed that Facebook had rejected the ads that Signal tried to buy on Instagram.Signal posted a series of ads on Instagram to depict how Facebook collects information from users and then displays ads on the basis of that. Signal through the ads informed users that Facebook and its photo-sharing platform Instagram uses its own ad tech tools to gather information from users.
+
+
+***
+[意法不打算加入歐盟晶片聯盟，英飛凌無意加碼擴產](https://technews.tw/2021/05/05/stmicroelectronics-does-not-intend-to-join-the-eu-chip-alliance/)
+
+
+> Thomson Reuters 報導，意法半導體（STMicroelectronics N.V.）執行長 Je […]
+
+
+***
+![CORRECTING and REPLACING Skillz Reports Record Q1 Revenue and Raises 2021 Guidance](https://mms.businesswire.com/media/20210504006307/en/1041526/23/Skillz_Logo.jpg "CORRECTING and REPLACING Skillz Reports Record Q1 Revenue and Raises 2021 Guidance")
+
+
+[CORRECTING and REPLACING Skillz Reports Record Q1 Revenue and Raises 2021 Guidance](https://www.businesswire.com/news/home/20210504006307/en/CORRECTING-and-REPLACING-Skillz-Reports-Record-Q1-Revenue-and-Raises-2021-Guidance)
+
+
+> May 04, 2021 11:43 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Fifth bullet under First Quarter Financial Highlights should read: Adjusted EBITDA was $(31.1) million during the first quarter of 2021, compared with $(14.6) million in the prior year (instead of Adjusted EBITDA was $31.1 million during the first quarter of 2021, compared with $14.6 million in the prior year). The updated release reads: SKILLZ REPORTS RECORD Q1 REVENUE AND RAISES 2021 GUIDANCE - First Quarter Revenue Hits $84 Million, Up 92% Year-over-Year - Paying Monthly Active Users Grows 81% Year-over-Year - Raises Full Year 2021 Revenue Guidance to $375 Million Skillz Inc.
+
+
+***
+![Looking for Python Textbook](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Looking for Python Textbook")
+
+
+[Looking for Python Textbook](https://www.reddit.com/r/Python/comments/n56dsq/looking_for_python_textbook/)
+
+
+> Hello everyone, I'm looking for a textbook that covers Python. I recently finished a Java course where I found that reading the textbook really aided my understanding of the concepts. The Java book was called Starting out with Java by Tony Gaddis. I'm looking to see if there is something similar for Python out there. Thanks in advance!
+
+
