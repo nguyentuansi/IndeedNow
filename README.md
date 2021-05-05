@@ -2482,3 +2482,47 @@
 > It is an underpass between Sinwol and Yeouido that connects Seoul Sinwol Junction and Yeouido. The'small car-only toll road', which opened last month, is where large cars cannot enter, but trucks and ladders are often trying to get in here, destroying facilities or getting caught in the underpass. This is an underpass between Sinwol and Yeouido that connects the Sinwol Junction in Seoul and Yeouido. The'small car-only toll road', which opened last month, is where large cars cannot enter, but trucks and ladders are often trying to get in here, destroying facilities or getting caught in the underpass.
 
 
+***
+[Chinese chip companies are auditing their supply chains to replace US imports with domestic suppliers, in a quest for self-sufficiency following US sanctions (Nikkei Asia)](http://www.techmeme.com/210505/p10#a210505p10)
+
+
+> Nikkei Asia: Chinese chip companies are auditing their supply chains to replace US imports with domestic suppliers, in a quest for self-sufficiency following US sanctions — How Washington's sanctions boosted China's semiconductor sector — TAIPEI — Once a month, senior executives …
+
+
+***
+![Cobra Kai season 4: release date, cast, story, trailer and what we know](https://cdn.mos.cms.futurecdn.net/q9fFk44VweoKqqUAMWrWVW-1200-80.jpg "Cobra Kai season 4: release date, cast, story, trailer and what we know")
+
+
+[Cobra Kai season 4: release date, cast, story, trailer and what we know](https://www.techradar.com/news/cobra-kai-season-4-release-date-story-season-3-ending-explained-and-what-we-know)
+
+
+> Cobra Kai season 4's release date has been set for late 2021 – and now the Karate Kid spin-off show has finished filming, as of May 2021. That means you don't have too long to wait until the further adventures of Johnny Lawrence (William Zabka) and Daniel LaRusso (Ralph Macchio) return to the streaming service.Cobra Kai has become a monster hit for Netflix. After starting life on YouTube's premium service, the series moved to the world's most popular streamer mid-pandemic and found a massive new audience.
+
+
+***
+![Dogecoin leapfrogs XRP to become fourth largest cryptocurrency in the world](https://cdn.mos.cms.futurecdn.net/RNbPzi2yNnS5ANXYfsqLa-1200-80.jpg "Dogecoin leapfrogs XRP to become fourth largest cryptocurrency in the world")
+
+
+[Dogecoin leapfrogs XRP to become fourth largest cryptocurrency in the world](https://www.techradar.com/news/dogecoin-leapfrogs-xrp-to-become-fourth-largest-cryptocurrency-in-the-world)
+
+
+> (Image credit: Shuttestock / Irina Veneeva) The price of meme cryptocurrency Dogecoin has rocketed to a new record high above $0.69 per coin, a price point originally targeted by its community ahead of 'DogeDay' last month.As per data from CoinMarketCap, Dogecoin has now vaulted XRP to become the fourth largest cryptocurrency in the world, with a total market capitalization of roughly $87 billion.Although Bitcoin and Ether are far and away the largest digital currencies, with a combined value of $1.
+
+
+***
+[USDJPY dips below the 100 hour MA but not for long (again)](https://www.forexlive.com/technical-analysis/!/usdjpy-dips-below-the-100-hour-ma-but-not-for-long-again-20210505)
+
+
+> Dips below the rising 100 hour MA have been short lived this week The USDJPY just dip below its 100 hour moving average as yields moved back down and stocks seemed to be getting off to a "sell the higher open" start. However, the dip below the MA line at 109.189 was short lived (so far at least). The
+
+
+***
+![The most common Chromebook problems and how to fix them](https://img.dtcn.com/image/digitaltrends/toshiba-chromebook-2-cb35-hero2-1200x630-c-ar1.91.jpg "The most common Chromebook problems and how to fix them")
+
+
+[The most common Chromebook problems and how to fix them](https://www.digitaltrends.com/computing/common-chromebook-problems-and-how-to-fix-them/)
+
+
+> Chromebooks are great alternatives to MacBooks and Windows 10 laptops, but they aren't perfect. Any laptop computer is bound to have issues, and some of the most common problems faced by Chromebook users can feel difficult or even impossible to solve on their own.  From issues with updates to internet connectivity, troubleshooting common Chromebook problem doesn't have to ruin your day. Read on to discover easy fixes to the most frequent issues Chromebook users face. First things first: The Diagnostics app Chromebooks now have a Diagnostics app specifically for troubleshooting, which can provide valuable information when narrowing down your issue, monitoring a specific problem, or — if it comes down to it — knowing exactly what hardware you have for repairs or replacements.
+
+
