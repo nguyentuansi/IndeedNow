@@ -2147,3 +2147,44 @@
 > Makena Kelly / The Verge: After teasing a new social media platform, Trump debuts a new section on his website that's effectively a blog, ahead of the Oversight Board's decision on Wed. — A true poster never logs off for long — After months of promising his own social media network for banned posters …
 
 
+***
+![Fortnite's Battle Lab mode returns as suddenly as it disappeared](https://cdn.slashgear.com/wp-content/uploads/2021/05/fortnite_BL_main.jpg "Fortnite's Battle Lab mode returns as suddenly as it disappeared")
+
+
+[Fortnite's Battle Lab mode returns as suddenly as it disappeared](https://www.slashgear.com/fortnites-battle-lab-mode-returns-as-suddenly-as-it-disappeared-04671592/)
+
+
+> With its Fortnite update last week, Epic quietly removed the game's Battle Lab mode — and though it later confirmed that it had intentionally removed it, the company didn't offer an explanation about why it made this decision. Content creators in particular were upset about this removal, noting that they relied on the mode for creating a variety of videos. Now, only days after its removal, Epic has announced that Battle Lab is back in Fortnite, though it offered neither an explanation for its removal nor why it decided to bring the game mode back.
+
+
+***
+[60% of school apps are sending student data with third parties without consent](https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/)
+
+
+> What you need to know: 60% of school apps were sending student data to a variety of third parties, including advertising platforms like Google and Facebook On average, there were more than 10 third-party data channels per app Public-school apps are more likely to send student data to third parties than private-school apps (67% public vs. 57% of private school apps) 18% of public-school apps included very high-risk third parties – i.e., third parties that further share data with possibly hundreds or thousands of networked entities Android apps are much more likely than iOS apps to be sending data to third parties, and are much more likely to be sending to high or very high-risk third parties Me2B Alliance, a non-profit industry group focused on respectful technology, today published a research report to drive awareness to the data sharing practices of education apps associated with schools and school districts.
+
+
+***
+[24 Startup CTO Interview Questions](https://www.reddit.com/r/programming/comments/n52agk/24_startup_cto_interview_questions/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Theranos founder can cite Silicon Valley hyperbole in defense](https://ca-times.brightspotcdn.com/dims4/default/5e7b35e/2147483647/strip/true/crop/4250x2391+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2F4c%2Fd42a0cf34f2f8faef70f734eb7d5%2Fap16190366481760.jpg "Theranos founder can cite Silicon Valley hyperbole in defense")
+
+
+[Theranos founder can cite Silicon Valley hyperbole in defense](https://www.latimes.com/business/technology/story/2021-05-04/theranos-founder-can-lean-on-silicon-valley-hyperbole-in-defense)
+
+
+> The lofty ambitions and hyperbole of Silicon Valley startups and their founders is fair game for Elizabeth Holmes to use at her pending criminal trial, a judge ruled.For the first time since the pandemic shut down in-person hearings, the former Theranos chief executive and her lawyers appeared Tuesday before a federal judge in San Jose to argue about what evidence should be permitted and excluded from her trial, which is scheduled to start in August. The public and members of the media weren't permitted in court but could listen in by phone.
+
+
+***
+[Technology shares sink broader market although Dow has gain](https://www.examiner.org/technology-shares-sink-broader-market-although-dow-has-gain/)
+
+
+> Technology companies dragged indexes lower on Wall Street Tuesday, pulling the market further from its recent all-time highs. The S&P 500 fell 0.7%, erasing its gains from last week. Big technology companies like Apple and Microsoft fell as the sector declined for the sixth straight day. Losses in communications stocks and companies that rely on consumer spending also weighed on the market, offsetting gains by financial, industrial and materials stocks. Treasury yields fell slightly. Investors continue to focus on corporate earnings and on gauging the economic recovery's progress.
+
+
