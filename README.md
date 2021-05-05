@@ -2332,3 +2332,53 @@
 > I am working on a web scraping project where I scrape wind data from a weather site. The scraper is coded and now I would like to plot this data on a graph and have it be displayed live, updating every 15 minutes with the wind speed. I am not sure what software to use for this. I would like it to look pretty (Be able to set colors and customizable) since I am going to have the live display mounted on my desk. I am fairly new to python. Thank you for any help or suggestions.
 
 
+***
+![5G: everything you need to know](https://cdn.mos.cms.futurecdn.net/jWoHQU4jfdaojkqv6ELpTc-1200-80.jpg "5G: everything you need to know")
+
+
+[5G: everything you need to know](https://www.techradar.com/news/what-is-5g-everything-you-need-to-know)
+
+
+> 5G networks are the next generation of mobile internet connectivity, offering faster speeds and more reliable connections on smartphones and other devices than ever before.Combining cutting-edge network technology and the latest high-spec'd devices, 5G should offer connections that are multitudes faster than previous mobile technology, with average download speeds of around 1Gbps expected to be the norm across many (if not most) next-gen network.The networks are expected to supercharge Internet of Things technology, providing the infrastructure needed to carry huge amounts of data that will enable a smarter and more connected world.
+
+
+***
+![Bitcoin price live: Dogecoin and ethereum hit new highs ahead of Elon Musk's SNL appearance](https://static.independent.co.uk/2021/04/29/08/bitcoin%20price%20live%20ethereum%20dogecoin.jpg?width=1200&auto=webp&quality=75 "Bitcoin price live: Dogecoin and ethereum hit new highs ahead of Elon Musk's SNL appearance")
+
+
+[Bitcoin price live: Dogecoin and ethereum hit new highs ahead of Elon Musk's SNL appearance](https://www.independent.co.uk/life-style/gadgets-and-tech/dogecoin-price-live-bitcoin-cryptocurrency-b1842298.html)
+
+
+> Dogecoin and ethereum have hit new all-time highs on Tuesday amid a crypto market frenzy. The price surges mean that the combined value of all cryptocurrencies is now greater than the market cap of Apple – the world's most valuable company.Bitcoin has also continued its recovery from the late April price crash, which saw it fall from around $65,000 to $48,000. It is currently trading at around $56,000 and has seen steady gains over the last few days.The surprise jump in the price of dogecoin has been spurred on by tweets from Elon Musk and the announcement by the popular trading app eToro that it will now offer the meme-inspired cryptocurrency to its 20 million users.
+
+
+***
+![COVID Triggers Changes in Payments Habits Amongst Over Eight in Ten Consumers](https://mms.businesswire.com/media/20210505005426/en/831957/23/Paysafe_Logo.jpg "COVID Triggers Changes in Payments Habits Amongst Over Eight in Ten Consumers")
+
+
+[COVID Triggers Changes in Payments Habits Amongst Over Eight in Ten Consumers](https://www.businesswire.com/news/home/20210505005426/en/COVID-Triggers-Changes-in-Payments-Habits-Amongst-Over-Eight-in-Ten-Consumers)
+
+
+> May 05, 2021 04:00 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--More than eight in ten consumers (86%) say that their payments habits have changed since the start of the pandemic, with 59% trying a new payment method for the first time – a number which rises to 77% among the 18- to 24-year-old age group. That's according to new research released by leading specialised payments platform, Paysafe (NYSE: PSFE), in which 8,000 consumers were surveyed for the company's latest Lost in Transaction report.
+
+
+***
+![Best phones under Rs 20,000 in India for May 2021](https://cdn.mos.cms.futurecdn.net/CfWit3iXBMPYp3qHPyn6pK-1200-80.jpg "Best phones under Rs 20,000 in India for May 2021")
+
+
+[Best phones under Rs 20,000 in India for May 2021](https://www.techradar.com/news/best-value-for-money-phones-under-rs-20000)
+
+
+> The smartphones under Rs 20,000 segment is one of the most crowded segments in India after the under Rs 15,000 segment. The phones in this segment are now more competitive than ever. We are seeing phones with 5G, high refresh rate, geat cameras,  fast charging, powerful performance in the sub Rs 20,000 segment now which otherwise was reserved for only flagship phones in India. From the past couple of years, we've seen companies trying to fill the bridge the gap between two segments with smart software implementations.
+
+
+***
+![iQOO 7 Legend review: The best smartphone under Rs 40,000, almost](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/iqoo-7-legend-review-main-imag-647x363.jpeg?mMFvErMoymBrl7t77fYmrvVodVKbg0yB "iQOO 7 Legend review: The best smartphone under Rs 40,000, almost")
+
+
+[iQOO 7 Legend review: The best smartphone under Rs 40,000, almost](https://www.indiatoday.in/technology/reviews/story/iqoo-7-legend-review-the-best-smartphone-under-rs-40-000-almost-1799077-2021-05-05)
+
+
+> iQOO, a company that began its journey as a sub-brand of Vivo, has now grown into a mainstream competitor in the mid-range smartphone segment. Courtesy - its latest flagship in the form of iQOO 7 Legend, now retailing for Rs 39,990. Launched as a step-up version of the iQOO 7, one can figure that the company has given it all to make the iQOO Legend appealing to the buyers in India. So much so that iQOO partnered with BMW M Motorsport for this particular edition. Such partnerships are not unheard of but definitely let know of the company's motive to promote the device as its most capable ever.
+
+
