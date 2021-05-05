@@ -2673,3 +2673,53 @@
 > Source: Andrew Myrick / Android Central The Raspberry Pi's convenience, versatility, and usefulness simply cannot be understated. With just a few clicks, you can set up just about everything, including the ability to set up Plex on a Raspberry Pi. After you've finished loading up your library of movies, TV shows, and even music, you can then download the Plex app on any of your devices and enjoy your favorite content from anywhere. Today, we're going to show you how you can get everything set up.
 
 
+***
+![Technical Levels To Watch As Ethereum Classic Surges](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/1321.png?width=720 "Technical Levels To Watch As Ethereum Classic Surges")
+
+
+[Technical Levels To Watch As Ethereum Classic Surges](https://www.benzinga.com/markets/cryptocurrency/21/05/20975558/technical-levels-to-watch-as-ethereum-classic-surges)
+
+
+> Ethereum Classic (CRYPTO:ETC) is another version of Ethereum (CRYPTO:ETH) with slight differences. Both are cryptocurrencies that support the use of smart contracts. Ethereum has taken a performance-based focus in its 2.0 iteration as it moves to a Proof of Stake model, while Ethereum Classic is sticking with the proof of work model. Another difference between the cryptocurrencies is that Ethereum Classic has a fixed supply of 210 million while the supply of Ethereum can be changed. Below is a technical analysis of Ethereum Classic's chart.
+
+
+***
+![Facebook Permaently Blacklists LifeSite News](https://media.breitbart.com/media/2020/09/GettyImages-1227832366-1.jpg "Facebook Permaently Blacklists LifeSite News")
+
+
+[Facebook Permaently Blacklists LifeSite News](https://www.breitbart.com/tech/2021/05/05/facebook-permaently-blacklists-lifesite-news/)
+
+
+> LifeSite News, a major pro-life news website, reports that Facebook has permanently blacklisted its page over 'false information about COVID-19' and 'vaccine discouraging information.' Via LifeSite News: In a quick series of notices and emails to LifeSiteNews' marketing department, Facebook delivered the shocking news, accusing LifeSite of publishing 'false information about COVID-19 that could contribute to physical harm.' Facebook also said that they deplatform Facebook pages that publish 'vaccine discouraging information on the platform.
+
+
+***
+![Should you buy an AirTag or a Tile tracker? Here's how they stack up](https://cdn.cnn.com/cnnnext/dam/assets/210505163140-4-airtags-vs-tile-super-169.jpg "Should you buy an AirTag or a Tile tracker? Here's how they stack up")
+
+
+[Should you buy an AirTag or a Tile tracker? Here's how they stack up](https://www.cnn.com/2021/05/05/cnn-underscored/apple-airtags-vs-tile-tracker/index.html)
+
+
+> Jacob Krol/CNN (CNN) —   In the realm of item tracking, Tile is likely the most well-known Bluetooth tracker. With a plethora of models to choose from and compatibility across devices, Tile has made it easy to locate items at various price points. Now Apple is in the item-tracking game with the $29 AirTag — and features like Precision Finding and Apple integration make it competitive against Tile. Both use Bluetooth for tracking and connect to a network of other devices, which work to pinpoint locations.
+
+
+***
+![Hillicon Valley: Trump's Facebook ban to stay in place, board rules](https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg "Hillicon Valley: Trump's Facebook ban to stay in place, board rules")
+
+
+[Hillicon Valley: Trump's Facebook ban to stay in place, board rules](https://thehill.com/policy/technology/overnights/552031-hillicon-valley-trumps-facebook-ban-to-stay-in-place-board-rules)
+
+
+> Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter by clicking HERE. Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@chrisismills) and Rebecca Klar (@rebeccaklar_), for more coverage.The Facebook Oversight Board upheld the suspension on former President TrumpDonald TrumpTrump's Facebook ban to stay in place, board rules Trump allies launching nonprofit focused on voter fraud DOJ asks for outside lawyer to review Giuliani evidence MORE's account on Wednesday, but the board's long awaited decision largely kicked the issue back over to Facebook.
+
+
+***
+![14 Stocks Moving In Wednesday's After-Hours Session](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "14 Stocks Moving In Wednesday's After-Hours Session")
+
+
+[14 Stocks Moving In Wednesday's After-Hours Session](https://www.benzinga.com/news/21/05/20978491/14-stocks-moving-in-wednesdays-after-hours-session)
+
+
+> 12 Consumer Discretionary Stocks Moving In Wednesday's After-Market Session 12 Information Technology Stocks Moving In Wednesday's After-Market Session Etsy: Q1 Earnings Insights Earnings Scheduled For May 5, 2021 Analyzing Etsy's Unusual Options Activity 12 Information Technology Stocks Moving In Monday's Pre-Market Session
+
+
