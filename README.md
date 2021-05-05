@@ -2188,3 +2188,50 @@
 > Technology companies dragged indexes lower on Wall Street Tuesday, pulling the market further from its recent all-time highs. The S&P 500 fell 0.7%, erasing its gains from last week. Big technology companies like Apple and Microsoft fell as the sector declined for the sixth straight day. Losses in communications stocks and companies that rely on consumer spending also weighed on the market, offsetting gains by financial, industrial and materials stocks. Treasury yields fell slightly. Investors continue to focus on corporate earnings and on gauging the economic recovery's progress.
 
 
+***
+[Pega Customer Decision Hub](https://itwire.com/freelancer-sp-720/tag/Pega%20Customer%20Decision%20Hub.html)
+
+
+> Business software provider Pegasystems has released a new version of its Pega Infinity suite with features to support digital transformation initiatives. This includes low-code capabilities allowing citizen developers to create user interfaces.
+
+
+***
+![#TECH: You may soon be able to comment on an exact minute of a YouTube video](https://assets.nst.com.my/images/articles/botsyoucomment_NSTfield_image_socialmedia.var_1620180020.jpg "#TECH: You may soon be able to comment on an exact minute of a YouTube video")
+
+
+[#TECH: You may soon be able to comment on an exact minute of a YouTube video](https://www.nst.com.my/lifestyle/bots/2021/05/687956/tech-you-may-soon-be-able-comment-exact-minute-youtube-video)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![NASA's mighty moon rocket completes its gentlest mission ever](https://img.dtcn.com/image/digitaltrends/pegasus-rocket-transporter-1200x630-c-ar1.91.jpg "NASA's mighty moon rocket completes its gentlest mission ever")
+
+
+[NASA's mighty moon rocket completes its gentlest mission ever](https://www.digitaltrends.com/news/nasas-mighty-moon-rocket-completes-leisurely-barge-trip/)
+
+
+> For such a powerful piece of machinery, it's incongruous to see NASA's SLS moon rocket taking a leisurely barge trip. The space agency used the enormous Pegasus barge to transport its 212-foot-tall (64.6 meters), 27.6-foot-diameter (8.4 meters) core stage booster from the agency's Stennis Space Center near Bay St. Louis, Mississippi, where it underwent testing, to Kennedy Space Center in Florida for Artemis I launch preparations. Relying on barge power instead of its awesome RS-25 engines, the SLS rocket traveled 900 miles along both inland and ocean waterways aboard the 310-foot-long (94.
+
+
+***
+![Australia has some of the fastest 5G speeds in the world](https://cdn.mos.cms.futurecdn.net/C3jtjg7xBBTd4qWYazSL6V-1200-80.jpg "Australia has some of the fastest 5G speeds in the world")
+
+
+[Australia has some of the fastest 5G speeds in the world](https://www.techradar.com/news/australia-has-some-of-the-fastest-5g-speeds-in-the-world)
+
+
+> (Image credit: Apple) Australia's 5G rollout is well and truly underway at this stage, with Telstra claiming that its own coverage reached 50% of the Australian population by January this year, less than two years after initiating the rollout.And it looks like the Aussie telcos are doing well in this regard, as per the latest report from internet speed-testing company Ookla. The report suggests that Australia's 5G network is one of the best in the world, with a median download speed of 283.56Mbps – a significant figure when compared wth the global average of 142.
+
+
+***
+![Hunter's slick new Aerodyne ceiling fan works with HomeKit and Siri](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/04/hunter-aerodyne-ceiling-fan-matte-silver-lifestyle.jpg "Hunter's slick new Aerodyne ceiling fan works with HomeKit and Siri")
+
+
+[Hunter's slick new Aerodyne ceiling fan works with HomeKit and Siri](https://www.imore.com/hunter-aerodyne-homekit-ceiling-fan-release)
+
+
+> Source: Hunter Fan Company Hunter has announced the release of a new HomeKit-enabled ceiling fan. The 52-inch Hunter Aerodyne ceiling fan sports four speeds, LED lighting, and quiet operation. Latest fan is available now in two finishes for $179.99 Hunter Fan Company has announced the release of a new HomeKit-enabled ceiling fan on Tuesday, the Hunter Aerodyne ceiling fan. Like the best HomeKit ceiling fans, the Aerodyne supports convenient controls through the Home app and via voice with Apple's virtual assistant Siri.
+
+
