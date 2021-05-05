@@ -2623,3 +2623,53 @@
 > The Asus ZenBook 14 UX425 is the best laptop under $1,000. It's a budget PC with great performance thanks to a cutting-edge CPU, a near-premium build quality, and a low-power and high-quality display that's very hard to find at such a low price. We're not just picking our favorite sub-$1,000 laptops out of thin air, though. We've reviewed hundreds of laptops of all kinds and at all price points, spending thousands of hours doing so. It's a Herculean task for sure (and a lot of fun, frankly), and it has given us great insight into what makes for a good laptop and what holds a laptop back.
 
 
+***
+![Hisense's 2021 TV lineup: 8K, Dual-Cell, and gamer-friendly features](https://img.dtcn.com/image/digitaltrends/hisense-2021-u800-8k-roku-tv-1200x630-c-ar1.91.jpg "Hisense's 2021 TV lineup: 8K, Dual-Cell, and gamer-friendly features")
+
+
+[Hisense's 2021 TV lineup: 8K, Dual-Cell, and gamer-friendly features](https://www.digitaltrends.com/home-theater/hisense-2021-tvs-pricing-specifications-availability/)
+
+
+> Today, in a hilarious prerecorded video hosted by Community's Joel McHale, Hisense launched its 2021 smart TV lineup, which includes the company's first 8K Roku TV and the first TV in the U.S. to offer Dual-Cell technology. What will these TVs cost, when can you buy them, and exactly which features can you expect? We've got all of the details. U9DG Series: 4K ULED XD TV with Dual-Cell Technology Hisense You're probably familiar with terms like quantum dots, HDR, and 4K resolution, but Hisense's new U9DG Series brings a new buzzword: Dual-Cell technology.
+
+
+***
+![The best travel apps for iOS and Android](https://img.dtcn.com/image/digitaltrends/64632627_xl-1200x630-c-ar1.91.jpg "The best travel apps for iOS and Android")
+
+
+[The best travel apps for iOS and Android](https://www.digitaltrends.com/mobile/best-travel-apps/)
+
+
+> The smartphone is the modern-day travel agent. From the palm of your hand, you can book flights, plan accommodations, and even reserve a seat at a seaside restaurant using nothing more than your phone. Finding the most affordable flight and hotel and making sure you'll have plenty of cash to spend during your trip can be challenging. Check out these travel-booking apps to be a master planner. Once your trip is booked, you can use the best flight-tracking apps to make sure traveling is as seamless as possible.
+
+
+***
+![Giant sequoia still smoldering from 2020 California wildfire](https://www.clickondetroit.com/resizer/DWF3aYraQknjixAGlpGy2Qv9cX8=/800x600/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/DUXDA2JIHVFYPEGEOMXAAUNOUM.jpg "Giant sequoia still smoldering from 2020 California wildfire")
+
+
+[Giant sequoia still smoldering from 2020 California wildfire](https://www.clickondetroit.com/tech/2021/05/05/giant-sequoia-still-smoldering-from-2020-california-wildfire/)
+
+
+> SEQUOIA NATIONAL PARK, Calif. – A giant sequoia has been found smoldering and smoking in a part of Sequoia National Park that burned in one of California's huge wildfires last year, the National Park Service said Wednesday.'The fact areas are still smoldering and smoking from the 2020 Castle Fire demonstrates how dry the park is,' said Leif Mathiesen, assistant fire management officer for Sequoia and Kings Canyon National Parks in central California. 'With the low amount of snowfall and rain this year, there may be additional discoveries as spring transitions into summer.
+
+
+***
+![Giant sequoia still smoldering from 2020 California wildfire](https://www.clickorlando.com/resizer/DWF3aYraQknjixAGlpGy2Qv9cX8=/800x600/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/DUXDA2JIHVFYPEGEOMXAAUNOUM.jpg "Giant sequoia still smoldering from 2020 California wildfire")
+
+
+[Giant sequoia still smoldering from 2020 California wildfire](https://www.clickorlando.com/tech/2021/05/05/giant-sequoia-still-smoldering-from-2020-california-wildfire/)
+
+
+> SEQUOIA NATIONAL PARK, Calif. – A giant sequoia has been found smoldering and smoking in a part of Sequoia National Park that burned in one of California's huge wildfires last year, the National Park Service said Wednesday.'The fact areas are still smoldering and smoking from the 2020 Castle Fire demonstrates how dry the park is,' said Leif Mathiesen, assistant fire management officer for Sequoia and Kings Canyon National Parks in central California. 'With the low amount of snowfall and rain this year, there may be additional discoveries as spring transitions into summer.
+
+
+***
+![Use Plex on the Raspberry Pi to create the ultimate home theater server](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/raspberry-pi-etyntk-lifestyle.jpg "Use Plex on the Raspberry Pi to create the ultimate home theater server")
+
+
+[Use Plex on the Raspberry Pi to create the ultimate home theater server](https://www.androidcentral.com/how-set-up-plex-raspberry-pi)
+
+
+> Source: Andrew Myrick / Android Central The Raspberry Pi's convenience, versatility, and usefulness simply cannot be understated. With just a few clicks, you can set up just about everything, including the ability to set up Plex on a Raspberry Pi. After you've finished loading up your library of movies, TV shows, and even music, you can then download the Plex app on any of your devices and enjoy your favorite content from anywhere. Today, we're going to show you how you can get everything set up.
+
+
