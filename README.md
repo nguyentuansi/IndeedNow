@@ -2282,3 +2282,53 @@
 > Hello everyone, I'm looking for a textbook that covers Python. I recently finished a Java course where I found that reading the textbook really aided my understanding of the concepts. The Java book was called Starting out with Java by Tony Gaddis. I'm looking to see if there is something similar for Python out there. Thanks in advance!
 
 
+***
+![Open RAN radios still face big challenges to gain traction: survey](https://itwire.com/media/k2/items/cache/a7ecfe67924b4eedb97df1fae4750e4e_XS.jpg "Open RAN radios still face big challenges to gain traction: survey")
+
+
+[Open RAN radios still face big challenges to gain traction: survey](https://itwire.com/telecoms-and-nbn/open-ran-radios-still-face-big-challenges-to-gain-traction-survey.html)
+
+
+> Pixabay A survey of the open RAN radios available from both established and new markets has found that there are still significant challenges for the vendors before they gained traction in the market. Counterpoint Research said in a statement that the survey had compiled technical details of all open RAN radios by market (outdoor macro/small cell and indoors), type (single/dual,tri-band and MIMO/nMIMO), frequency bands and other factors. Analyst Gareth Owens said there were more than 25 products in the market at the moment.
+
+
+***
+![Instagram introduces Captions sticker for Stories; Here is how to use them](https://images.indianexpress.com/2021/05/Instagram-Captions-sticker.jpg "Instagram introduces Captions sticker for Stories; Here is how to use them")
+
+
+[Instagram introduces Captions sticker for Stories; Here is how to use them](https://indianexpress.com/article/technology/social/instagram-introduces-captions-sticker-for-stories-here-is-how-to-use-them-7302647/)
+
+
+> Instagram has introduced a news sticker option for its stories called Captions. The Captions sticker can automatically transcribe speech in Instagram stories and will let viewers see real-time subtitles. Here is all you need to know about the feature. How to easily caption Instagram Live Stories Instagram's caption feature was already there in IGTV and the Threads app. Now Instagram is adding the feature to Stories and Reels. The feature can be implemented in two ways. The first is by using the caption sticker.
+
+
+***
+![Do you get this red ghosting when scrolling?](https://images.macrumors.com/social/?t=2294875&v=6 "Do you get this red ghosting when scrolling?")
+
+
+[Do you get this red ghosting when scrolling?](https://forums.macrumors.com/threads/do-you-get-this-red-ghosting-when-scrolling.2294875/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![U.S. Commerce Dept. presses Taiwan for more chips to automakers](https://www.reuters.com/resizer/2-5X9-eLQD9rL4EQkVVyPa8R7TQ=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/QQO6VLYDOVJYVG4OT5O7254UEY.jpg "U.S. Commerce Dept. presses Taiwan for more chips to automakers")
+
+
+[U.S. Commerce Dept. presses Taiwan for more chips to automakers](https://www.reuters.com/technology/us-commerce-dept-pressing-taiwan-supply-more-chips-us-automakers-2021-05-04/)
+
+
+> The logo of Taiwan Semiconductor Manufacturing Co (TSMC) is pictured at its headquarters, in Hsinchu, Taiwan, Jan. 19, 2021. REUTERS/Ann WangThe U.S. Commerce Department is pressing Taiwan Semiconductor Manufacturing Co Ltd (2330.TW) and other Taiwanese firms to prioritise the needs of U.S. automakers to ease chip shortages in the near term, Commerce Secretary Gina Raimondo said.Raimondo told a Council of the Americas event on Tuesday that longer term, increased investment was needed to produce more semiconductors in the United States and that other critical supply chains needed re-shoring, including to allied countries.
+
+
+***
+![Live Graph Plotting with Python](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Live Graph Plotting with Python")
+
+
+[Live Graph Plotting with Python](https://www.reddit.com/r/Python/comments/n58es2/live_graph_plotting_with_python/)
+
+
+> I am working on a web scraping project where I scrape wind data from a weather site. The scraper is coded and now I would like to plot this data on a graph and have it be displayed live, updating every 15 minutes with the wind speed. I am not sure what software to use for this. I would like it to look pretty (Be able to set colors and customizable) since I am going to have the live display mounted on my desk. I am fairly new to python. Thank you for any help or suggestions.
+
+
