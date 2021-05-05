@@ -2382,3 +2382,53 @@
 > iQOO, a company that began its journey as a sub-brand of Vivo, has now grown into a mainstream competitor in the mid-range smartphone segment. Courtesy - its latest flagship in the form of iQOO 7 Legend, now retailing for Rs 39,990. Launched as a step-up version of the iQOO 7, one can figure that the company has given it all to make the iQOO Legend appealing to the buyers in India. So much so that iQOO partnered with BMW M Motorsport for this particular edition. Such partnerships are not unheard of but definitely let know of the company's motive to promote the device as its most capable ever.
 
 
+***
+![Python QR Code Tutorial Please Check out its easy anyone need than please check out](https://external-preview.redd.it/gOlAOm_K0pqdLLxmMwW8RreOp_WvpEPpOnp6DhJZFJc.jpg?auto=webp&s=6f8a0dd32b50272ab20686cd890cd94a324bf2cc "Python QR Code Tutorial Please Check out its easy anyone need than please check out")
+
+
+[Python QR Code Tutorial Please Check out its easy anyone need than please check out](https://www.reddit.com/r/Python/comments/n5cej5/python_qr_code_tutorial_please_check_out_its_easy/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Best Material to make Jarvis in Python!](https://external-preview.redd.it/f0SXhoU78ozRj5imcjmXXC9Fib2pdzGqgMrYY1fIW5k.jpg?auto=webp&s=b863683aa7ce316b4a709958d25ba46ed7d8492d "Best Material to make Jarvis in Python!")
+
+
+[Best Material to make Jarvis in Python!](https://www.reddit.com/r/Python/comments/n5ce99/best_material_to_make_jarvis_in_python/)
+
+
+> https://www.youtube.com/c/KaushikShresth/videosThis Guys has made so many things in Python. If you are interested check him out. I was searching about wake word detection in python and found his channel, just to appreciate his work, sharing this with you all.
+
+
+***
+![YouTube star MrBeast accused of bullying and ‘toxic' working conditions by former staff](https://www.thesun.co.uk/wp-content/uploads/2021/05/comp-skc-mrbeast-op.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "YouTube star MrBeast accused of bullying and ‘toxic' working conditions by former staff")
+
+
+[YouTube star MrBeast accused of bullying and ‘toxic' working conditions by former staff](https://www.thesun.co.uk/tech/14855400/youtube-mr-beast-bullying-toxic-former-staff/)
+
+
+> YOUTUBE millionaire MrBeast has been accused of bullying and fostering a "hostile" work environment by former staff members. Speaking to the New York Times, 11 ex-employees described the philanthropic web star, real name Jimmy Donaldson, as a "perfectionist" who made "unreasonable demands." MrBeast is one of YouTuber's most popular and highest-paid creators MrBeast, who is one of YouTube's most viewed and highest paid creators, was also accused of berating and belittling staff. They said his "demeanour changed when the cameras weren't around" and described a "difficult work environment.
+
+
+***
+![Here's how you can apply to the FCC for the $50 discount on your broadband bill](https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/04/15/USATODAY/usatsports/students-surfing-the-internet-studying-getty.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp "Here's how you can apply to the FCC for the $50 discount on your broadband bill")
+
+
+[Here's how you can apply to the FCC for the $50 discount on your broadband bill](https://www.usatoday.com/story/tech/2021/05/05/fcc-broadband-subsidy-internet-discount-covid-payment/4939089001/)
+
+
+> Under the Emergency Broadband Benefit Program, you may be eligible for a $50 monthly coronavirus pandemic discount on your home broadband bill starting next week. (Photo: Charles Krupa, AP)You may be eligible for a $50 monthly coronavirus pandemic discount on your home broadband bill starting next week.The Emergency Broadband Benefit Program was included as part of the roughly $900 billion COVID-19 relief package passed by Congress in December 2020 and signed by President Trump. It set aside $3.2 billion for the Federal Communications Commission to cover the program.
+
+
+***
+![The best cheap printers for 2021](https://img.dtcn.com/image/digitaltrends/canon-pixma-mg6820-1200x630-c-ar1.91.jpg "The best cheap printers for 2021")
+
+
+[The best cheap printers for 2021](https://www.digitaltrends.com/computing/best-cheap-printers/)
+
+
+> Back in the day when printers first went mainstream, many sold at extremely high prices. Today's best printers sell at a fraction of the cost, allowing you to print photos, documents, and everything in between without shelling out insane wads of cash. They even ditch the old tether for a wireless connection. Anyone can now buy a cheap printer, but which is the best? Which provides the most bang for your buck? Keep reading to find out! Canon Pixma iP8720 The Pixma iP8720 is an excellent, home-friendly printer that combines great features with an affordable price.
+
+
