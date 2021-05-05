@@ -2573,3 +2573,53 @@
 > 05/05/2021 - 12:04 | By: Joshua Robertson Home Gaming Gaming Guides Returnal Act 3 Guide You have more secrets to discover. Returnal is a game full of secrets to discover, and its rogue-lite nature means that you probably won't have discovered all of them even after the game's credits have rolled. One such secret is the game's hidden ending, one which requires a fair amount of work to see. Fear not though, as this guide takes you through each step you need to take to conquer Returnal and finally see the true ending.
 
 
+***
+![Amazon's Mother's Day sale: Save on Kindle Oasis, Fire HD 8, and more](https://cdn.mos.cms.futurecdn.net/2AM5gzTYybT8ufxTupQFzf-1200-80.jpg "Amazon's Mother's Day sale: Save on Kindle Oasis, Fire HD 8, and more")
+
+
+[Amazon's Mother's Day sale: Save on Kindle Oasis, Fire HD 8, and more](https://www.laptopmag.com/news/amazons-mothers-day-sale-save-on-kindle-oasis-fire-hd-8-and-more)
+
+
+> Amazon Kindle Oasis (Image credit: Amazon) Amazon's Mother's Day sale offers Prime Day worthy deals on the best gifts for mom. For a limited time, save up to $55 on Amazon's popular Kindle e-reader and Fire HD tablets. And to ensure your gift arrives by Mother's Day, you can get free two-day shipping for orders of $25 or more.As part of the sale, you can get mom the excellent Kindle Oasis Bundle for $290. It usually retails for $320, so that's $30 in savings. It's one of the best prices we've seen for this value pack and one of the best Mother's Day deals out there.
+
+
+***
+![PS5 restock update: Best Buy, Walmart, and Target dates – when and where to buy it next](https://cdn.mos.cms.futurecdn.net/KtBgmToAoKnjkncoahtCoH-1200-80.jpg "PS5 restock update: Best Buy, Walmart, and Target dates – when and where to buy it next")
+
+
+[PS5 restock update: Best Buy, Walmart, and Target dates – when and where to buy it next](https://www.techradar.com/news/ps5-restock-date-may-5)
+
+
+> Update: Our PS5 restock Twitter tracker Matt Swider is monitoring stores in the US including Best Buy, Walmart, Target and Newegg to know when the Sony console is back in stock. Matt will send you Twitter alerts you can buy PS5 in the US – if you follow his Twitter account and turn on notifications. When and where will PS5 be available? We're tracking the next Walmart PS5 restock (could be Thursday at 3pm EDT) and Best Buy (look out on Friday at 12pm EDT), as well as other retailers in the US, including Costco and Antonline.
+
+
+***
+![Should I buy a Hisense TV? A look at the budget smart TV brand](https://cdn.mos.cms.futurecdn.net/NVzw3JN5CLhSTLXazCfu67-1200-80.jpg "Should I buy a Hisense TV? A look at the budget smart TV brand")
+
+
+[Should I buy a Hisense TV? A look at the budget smart TV brand](https://www.techradar.com/news/should-i-buy-a-hisense-television)
+
+
+> Should you buy a Hisense TV? There are many TV brands on the market to choose from with a whole range of different models. Lots of choices can only be a good thing. But it does mean that deciding whether to buy one of the best budget small TVs or consider a super-sized display and all the other sizes and types in-between can be a hard task. Not only is there a lot of choice, but there are also many confusing tech terms (QLED, OLED, 4K, and the like) to decipher, as well as many nitty-gritty specs to compare and contrast between each brand.
+
+
+***
+![Best Prime Day office chair deals 2021: What to expect](https://img.dtcn.com/image/digitaltrends/best-home-office-chairs-aeron-1200x630-c-ar1.91.jpg "Best Prime Day office chair deals 2021: What to expect")
+
+
+[Best Prime Day office chair deals 2021: What to expect](https://www.digitaltrends.com/dtdeals/best-prime-day-office-chair-deals/)
+
+
+> Perhaps you're outfitting your very first home office, or moving, or simply renovating now things are heading back to normal; whatever the reason, our Prime Day deals will have discounts that can help. Selecting the right office chair can be a key factor in not only being more comfortable during the workday but more productive too. If you're thinking that Amazon Prime Day might have some discounts on office chairs and more; keep reading if you want to know what to expect. What Prime Day office chair deals to expect Office chairs come in all shapes and sizes and we expect the Prime Day office chair deals to reflect that; there will be something here no matter if you're looking to outfit a whole new office on a budget, or if you're looking for the ultimate, luxury, ergonomic chair, just for yourself.
+
+
+***
+![The best laptops under $1,000 you can buy right now](https://img.dtcn.com/image/digitaltrends/asus-zenbook-13-ux333fa-review-1-1200x630-c-ar1.91.jpg "The best laptops under $1,000 you can buy right now")
+
+
+[The best laptops under $1,000 you can buy right now](https://www.digitaltrends.com/computing/best-laptops-under-1000/)
+
+
+> The Asus ZenBook 14 UX425 is the best laptop under $1,000. It's a budget PC with great performance thanks to a cutting-edge CPU, a near-premium build quality, and a low-power and high-quality display that's very hard to find at such a low price. We're not just picking our favorite sub-$1,000 laptops out of thin air, though. We've reviewed hundreds of laptops of all kinds and at all price points, spending thousands of hours doing so. It's a Herculean task for sure (and a lot of fun, frankly), and it has given us great insight into what makes for a good laptop and what holds a laptop back.
+
+
