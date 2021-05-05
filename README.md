@@ -2526,3 +2526,50 @@
 > Chromebooks are great alternatives to MacBooks and Windows 10 laptops, but they aren't perfect. Any laptop computer is bound to have issues, and some of the most common problems faced by Chromebook users can feel difficult or even impossible to solve on their own.  From issues with updates to internet connectivity, troubleshooting common Chromebook problem doesn't have to ruin your day. Read on to discover easy fixes to the most frequent issues Chromebook users face. First things first: The Diagnostics app Chromebooks now have a Diagnostics app specifically for troubleshooting, which can provide valuable information when narrowing down your issue, monitoring a specific problem, or — if it comes down to it — knowing exactly what hardware you have for repairs or replacements.
 
 
+***
+![These are the questions Facebook refused to answer about Donald Trump's ban](https://static.independent.co.uk/2021/05/05/16/70461144_10163173031505725_7128646740621656064_n.jpeg?width=1200&auto=webp&quality=75 "These are the questions Facebook refused to answer about Donald Trump's ban")
+
+
+[These are the questions Facebook refused to answer about Donald Trump's ban](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-donald-trump-ban-questions-b1842592.html)
+
+
+> Donald Trump will remain banned from Facebook and Instagram, per the ruling of Facebook's Oversight Board, but important questions that remain unanswered about how the social media company's features promoted the former president's rhetoric.The Oversight Board, a committee funded by Facebook to moderate the social media giant's policy decisions, said that Facebook had acted inappropriately in enforcing the indefinite suspension against the former president.Within six months, Facebook must make a new decision: either restore Mr Trump's account, make the suspension permanent, or suspend the account for a determined period of time, Michael McConnell, co-chair of the Board, said in a press call, arguing that there was a lack of clarity around the decision.
+
+
+***
+![Want to quit Facebook over the Trump ban? Here's how to delete your account.](https://www.gannett-cdn.com/presto/2021/04/21/USAT/ef9447eb-24be-47aa-b69a-df98cbb83a8e-AFP_AFP_97W9BG.jpg?crop=4999,2812,x0,y192&width=3200&height=1801&format=pjpg&auto=webp "Want to quit Facebook over the Trump ban? Here's how to delete your account.")
+
+
+[Want to quit Facebook over the Trump ban? Here's how to delete your account.](https://www.usatoday.com/story/tech/2021/05/05/delete-your-facebook-profile-how-quit-after-trump-ban-decision/4954663001/)
+
+
+> CLOSE Protect your Facebook information from third-part apps in just a few steps. Jefferson Graham reports on #Talking Tech. The Facebook Oversight Board announced Wednesday its decision to uphold the band of former president Donald Trump on its social platforms, namely Facebook and Instagram.The Board's decision came with a caveat saying it was not appropriate for Facebook to impose an "indeterminate and standardless penalty" of indefinite suspension and instructed the company to review the matter within six months, possibly opening the door toÂ Trump's return.
+
+
+***
+[python tkinter frustration](https://www.reddit.com/r/Python/comments/n5jh0v/python_tkinter_frustration/)
+
+
+> I was trying to follow a youtube video for creating an app, so within the command line in VS Code, I first successfully installed pipenv Then, it says to install tkinter pyinstaller tkmessagebox and I get the following message: ERROR: Could not find a version that satisfies the requirement tkinter (from versions: none) ERROR: No matching distribution found for tkinter submitted by /u/brzz55 [link] [comments]
+
+
+***
+![TeamGroup builds "ultra-durable" NVMe SSDs designed for Chia mining](https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-05-image-12.jpg "TeamGroup builds "ultra-durable" NVMe SSDs designed for Chia mining")
+
+
+[TeamGroup builds "ultra-durable" NVMe SSDs designed for Chia mining](https://www.techspot.com/news/89560-teamgroup-ultra-durable-t-create-expert-nvme-ssd.html)
+
+
+> In context: Seeing as there are graphics cards designed specifically for mining cryptocurrency, the inevitable has happened: a company has introduced an SSD with an incredible endurance level, pitching it as the perfect solution for mining storage-based Chia crypto. We've been warned of potential storage shortages and price hikes as a result of Chia, which uses a proof of space and time model that allows miners to farm/earn the currency by allocating their unused disk space. Adata says it has prompted a 500% increase in its SSD sales, while Galax says that mining Chia will void its SSDs' warranties.
+
+
+***
+![Returnal Act 3 Guide](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/Returnal%20Act%203%20Guide%281%29.jpg?itok=XRDZUX2P "Returnal Act 3 Guide")
+
+
+[Returnal Act 3 Guide](https://techraptor.net/gaming/guides/returnal-how-to-finish-act-3)
+
+
+> 05/05/2021 - 12:04 | By: Joshua Robertson Home Gaming Gaming Guides Returnal Act 3 Guide You have more secrets to discover. Returnal is a game full of secrets to discover, and its rogue-lite nature means that you probably won't have discovered all of them even after the game's credits have rolled. One such secret is the game's hidden ending, one which requires a fair amount of work to see. Fear not though, as this guide takes you through each step you need to take to conquer Returnal and finally see the true ending.
+
+
