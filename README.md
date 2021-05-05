@@ -2432,3 +2432,53 @@
 > Back in the day when printers first went mainstream, many sold at extremely high prices. Today's best printers sell at a fraction of the cost, allowing you to print photos, documents, and everything in between without shelling out insane wads of cash. They even ditch the old tether for a wireless connection. Anyone can now buy a cheap printer, but which is the best? Which provides the most bang for your buck? Keep reading to find out! Canon Pixma iP8720 The Pixma iP8720 is an excellent, home-friendly printer that combines great features with an affordable price.
 
 
+***
+!['Han River died' college student motive "I decided to drink together..."](https://img.sbs.co.kr/newimg/news/20210505/201547928_1280.jpg "'Han River died' college student motive "I decided to drink together..."")
+
+
+['Han River died' college student motive "I decided to drink together..."](https://www.tellerreport.com/tech/2021-05-05--han-river-died--college-student-motive-"i-decided-to-drink-together---".ry8VtoZlud.html)
+
+
+> It is a real-time e-news that takes a look at the news that became hot topics on the Internet overnight. Sohn Jung-min, a college student who was found missing and dead in the Han River, originally decided to have a drink together with one other friend, but he was very interested in the interview article of a friend who did not go to a drink that day. It is a real-time e-news that takes a look at the news that became hot topics on the Internet overnight. Sohn Jung-min, a college student who was found missing and dead in the Han River, originally decided to have a drink together with one other friend, but he was very interested in the interview article of a friend who did not go to a drink that day.
+
+
+***
+![AirTag review: A neat product at odds with Apple's pro-privacy messaging](https://cdn.arstechnica.net/wp-content/uploads/2021/05/AirTag-1-760x380.png "AirTag review: A neat product at odds with Apple's pro-privacy messaging")
+
+
+[AirTag review: A neat product at odds with Apple's pro-privacy messaging](https://arstechnica.com/gadgets/2021/05/airtag-review-a-neat-product-at-odds-with-apples-pro-privacy-messaging/)
+
+
+> The other side of Apple's AirTag. AirTags also come in packs of four for $99. An AirTag with a loop accessory. An AirTag with a leather loop accessory. An AirTag with a leather keychain accessory. All three AirTag accessories we assessed this week. Apple's AirTag is not a revolutionary new product. Rather, it's a significant refinement of an idea that, up until now, has been fairly niche. It works very, very well, but it works so well it seems to undermine Apple's attempts to focus its products on privacy and security.
+
+
+***
+![AirTag review: They work great—maybe a little too great](https://cdn.arstechnica.net/wp-content/uploads/2021/05/AirTag-1-760x380.png "AirTag review: They work great—maybe a little too great")
+
+
+[AirTag review: They work great—maybe a little too great](https://arstechnica.com/gadgets/2021/05/airtag-review-a-neat-product-at-odds-with-apples-pro-privacy-messaging/)
+
+
+> The other side of Apple's AirTag. AirTags also come in packs of four for $99. An AirTag with a loop accessory. An AirTag with a leather loop accessory. An AirTag with a leather keychain accessory. All three AirTag accessories we assessed this week. Apple's AirTag is not a revolutionary new product. Rather, it's a significant refinement of an idea that, up until now, has been fairly niche. It works very, very well, but it works so well it seems to undermine Apple's attempts to focus its products on privacy and security.
+
+
+***
+![Used furniture is about to become a $16.6 billion business. Even Ikea is getting in on it](https://external-preview.redd.it/IUR4cdbVedK4m5pFUF3uxsMAAHeOxcQvt7rCNt0J4SE.jpg?auto=webp&s=f013587336a27c04cbb8a8c3d44a3d7e61e54939 "Used furniture is about to become a $16.6 billion business. Even Ikea is getting in on it")
+
+
+[Used furniture is about to become a $16.6 billion business. Even Ikea is getting in on it](https://www.reddit.com/r/technology/comments/n5e878/used_furniture_is_about_to_become_a_166_billion/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Underpass where cars get stuck every day... Eventually imposed a fine](https://static.sbsdlab.co.kr/image/thumb_default.png "Underpass where cars get stuck every day... Eventually imposed a fine")
+
+
+[Underpass where cars get stuck every day... Eventually imposed a fine](https://www.tellerreport.com/tech/2021-05-05-underpass-where-cars-get-stuck-every-day----eventually-imposed-a-fine.HJWfuw-xdO.html)
+
+
+> It is an underpass between Sinwol and Yeouido that connects Seoul Sinwol Junction and Yeouido. The'small car-only toll road', which opened last month, is where large cars cannot enter, but trucks and ladders are often trying to get in here, destroying facilities or getting caught in the underpass. This is an underpass between Sinwol and Yeouido that connects the Sinwol Junction in Seoul and Yeouido. The'small car-only toll road', which opened last month, is where large cars cannot enter, but trucks and ladders are often trying to get in here, destroying facilities or getting caught in the underpass.
+
+
