@@ -3058,3 +3058,50 @@
 > Desktop Metal today announced the launch of wood 3D printing tool, Forust. Founded in 2019, the company specializes in 3D printing for interior design. The company's 'non-destructive' printing methods have managed to largely fly under the radar, with minimal press coverage until now — making them a pretty ideal acquisition candidate. In fact, the gross assets acquisition actually occurred back in October 2020, according to a filing, which pegs it at a price at $2.5 million, including $2 million in cash considerations.
 
 
+***
+![Government to inject $58.6m into gas projects over shortage warning](https://images.perthnow.com.au/publication/C-2776601/a2fea7d37bdc017d1686a0748c7eda77d41e91b1-16x9-x0y192w2047h1151.jpg?imwidth=1024 "Government to inject $58.6m into gas projects over shortage warning")
+
+
+[Government to inject $58.6m into gas projects over shortage warning](https://www.news.com.au/technology/environment/government-to-inject-586m-into-gas-projects-over-shortage-warning/news-story/f60ccfa4711f48f00d819d1bca61a764)
+
+
+> Gas projects will receive a $58.6m boost as the federal government moves to head off shortages predicted in eastern states within three years.The package, to be included in next week's federal budget, will be underpinned by $38.7m to accelerate gas storage projects along the east coast.The announcement came as the government was warned a shortfall of gas, which it has made central to its energy plans, could occur within the next decade.The National Gas Infrastructure Plan forecasted supply would fall short of residential, commercial, and industrial demand by 2024.
+
+
+***
+![COVID-19: Government website will now help find hospital beds, plasma, medical oxygen and more](https://images.financialexpress.com/2021/04/1-110.jpg "COVID-19: Government website will now help find hospital beds, plasma, medical oxygen and more")
+
+
+[COVID-19: Government website will now help find hospital beds, plasma, medical oxygen and more](https://www.financialexpress.com/industry/technology/covid-19-government-website-will-now-help-find-hospital-beds-plasma-medical-oxygen-and-more/2247360/)
+
+
+> The process will be done via crowdsourced information.As the second wave of COVID-19 has been wreaking havoc in India, many people are left helpless with no bed availability, oxygen or plasma for treatment. Many have taken to social media, seeking help from people around for any update as they struggle to find medical resources for their family members and other loved ones. After almost a month of people looking for various information on finding hospital beds, oxygen cylinders as well as medicines, the government has come up with a platform that will allow users to find important leads.
+
+
+***
+[Sources: US quietly informed Apple that a Qihoo 360 researcher's iPhone 0-day that won China's top hacking contest in 2018 was used by China to spy on Uyghurs (Patrick Howell O'Neill/MIT Technology ...)](http://www.techmeme.com/210506/p11#a210506p11)
+
+
+> Patrick Howell O'Neill / MIT Technology Review: Sources: US quietly informed Apple that a Qihoo 360 researcher's iPhone 0-day that won China's top hacking contest in 2018 was used by China to spy on Uyghurs — An attack that targeted Apple devices was used to spy on China's Muslim minority—and US officials claim it was developed at the country's top hacking competition.
+
+
+***
+![No matter your needs, these are the best Macs on the market today](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/macbook-air-m1-18.jpg "No matter your needs, these are the best Macs on the market today")
+
+
+[No matter your needs, these are the best Macs on the market today](https://www.imore.com/best-mac)
+
+
+> The Mac lineup is in transition with the late 2020 introduction of the first Apple silicon computers. For the next few months (and perhaps into 2022), Macs will come with Apple's M1 (or later) native system on a chip (SoC), while others will still have Intel on the inside. It's under these conditions we select the best Mac of the year. When possible, we've selected the ones with Apple silicon; otherwise, you'll see the latest Intel-based version. Apple's Mac products fall into two broad categories.
+
+
+***
+![What Can We Learn from the Ofqual Algorithm Debacle?](https://external-preview.redd.it/51sftakgBTZRIjIpv_g9F_zE6GgIIf-uBlDZiEQ_q48.jpg?auto=webp&s=d817128174df4a5cd27bcbdfba4150d5d72677dc "What Can We Learn from the Ofqual Algorithm Debacle?")
+
+
+[What Can We Learn from the Ofqual Algorithm Debacle?](https://www.reddit.com/r/programming/comments/n67weg/what_can_we_learn_from_the_ofqual_algorithm/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
