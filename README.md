@@ -3190,3 +3190,53 @@
 > TechCrunch's Startup Battlefield is one of the most popular parts of our annual TechCrunch Disrupt conference which is happening on September 21-23 this year. Now we're very excited to reveal one of the fine people who will be judging Startup Battlefield at this year's all-virtual event in September: Shauntel Garvey, a general partner at Reach Capital, a VC specializing in the world of education technology. Startup Battlefield sees startups applying far and wide for a chance to pitch their ideas to a panel, and to all of us in the audience, giving the finalists a lot of exposure and a shot at winning the grand prize of $50,000.
 
 
+***
+![AirTag Secret Mode Discovered: What It Tells Us About Apple's Tracker](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/05/Apple-AirTag-Find-My-Color-Changed-To-Purple.jpg "AirTag Secret Mode Discovered: What It Tells Us About Apple's Tracker")
+
+
+[AirTag Secret Mode Discovered: What It Tells Us About Apple's Tracker](https://screenrant.com/airtag-apple-tracker-secret-mode-discovered-enable/)
+
+
+> An AirTag owner accidentally discovered a developer mode overlay in Apple's Find My app that shows more data and allows changes to the user interface. Apple introduced its advanced tracker recently, but details of the AirTag have been leaking out for quite some time. Now one owner accidentally discovered a secret mode that reveals more information and controls that allow some additional customization. Apple's AirTag is already a fascinating location beacon with potential for much more, and some of those additional features have already surfaced.
+
+
+***
+![HAS APPLE REPLACED YOUR OLD 2015 12" BATTTERY?](https://images.macrumors.com/social/?t=2295113&v=6 "HAS APPLE REPLACED YOUR OLD 2015 12" BATTTERY?")
+
+
+[HAS APPLE REPLACED YOUR OLD 2015 12" BATTTERY?](https://forums.macrumors.com/threads/has-apple-replaced-your-old-2015-12-batttery.2295113/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![2021 mbp MagSafe vs usbC](https://images.macrumors.com/social/?t=2295112&v=6 "2021 mbp MagSafe vs usbC")
+
+
+[2021 mbp MagSafe vs usbC](https://forums.macrumors.com/threads/2021-mbp-magsafe-vs-usbc.2295112/)
+
+
+> I'm curious what others thoughts are on the possible switch back to MagSafe. Don't get me wrong, I loved MagSafe on my 2011 mbp, but I've actually gotten very used to usb c now and love that I can move around the house without needing to bring a charger because my husbands android chargers are everywhere! (Still working on converting him to apple 😅) I saw that the rumor for the new 14' mbp is that it'll still have the usbC thunderbolt ports, do we think thank charging will still work out of tho
+
+
+***
+![Will Apple AirTag work with my Android phone?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/apple-airtag-accessories-bag.jpg "Will Apple AirTag work with my Android phone?")
+
+
+[Will Apple AirTag work with my Android phone?](https://www.androidcentral.com/can-i-use-apple-airtag-my-android-phone)
+
+
+> Source: AppleBest answer: No, not as a tracker. The Apple AirTag will work with an Android phone via NFC when the tracker is in Lost Mode to return it to its owner. When Apple announced the AirTag during its Spring Loaded Event in April 2021, this question came up: "Will the Apple AirTag work with an Android phone or not?" After all, it works like all the other excellent Bluetooth trackers on the market, right? Kind of. While the Apple AirTag has Bluetooth, which can help track it down, there is much more technology inside that coin-shaped device than just Bluetooth.
+
+
+***
+![New tough Aussie-tuned ute tested](https://content.api.news/v3/images/bin/1cab05ddc199a8c62e4d9b08927ca142 "New tough Aussie-tuned ute tested")
+
+
+[New tough Aussie-tuned ute tested](https://www.news.com.au/technology/motoring/new-cars/2021-volkswagen-amarok-w580s-review-walkinshaw-beefsup-dualcab/news-story/41cb73e8f4bc159b6dcc4e378742ca4a)
+
+
+> A legendary Australian company that used to build fast Commodore has worked its magic on this popular dual cab ute.Volkswagen has taken a different path to its rivals with the new range-topping Amarok W580S. Rather than developing a rugged ute with more off-road ability, the brand is offering a new machine that plays to the Amarok's strengths.It has teamed up with Australian tuning firm Walkinshaw to produce a tough-looking ute with superior driving characteristics to regular models.Walkinshaw engineer Dave Kermond helped produce some of Australia's best V8 muscle cars for HSV and was tasked with refining the Amarok's manners on tarmac.
+
+
