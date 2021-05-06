@@ -3143,3 +3143,50 @@
 > Kyle Wiggers / VentureBeat: Huntress, which offers an endpoint security service to IT resellers, raises $40M Series B led by JMI, bringing its total raised to $60M — Join Transform 2021 this July 12-16. Register fo r the AI event of the year. — Cybersecurity startup Huntress today announced it has closed …
 
 
+***
+![Here are the best S Pen cases and accessories for the Galaxy S21 Ultra](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/galaxy-s21-ultra-review-11.jpg "Here are the best S Pen cases and accessories for the Galaxy S21 Ultra")
+
+
+[Here are the best S Pen cases and accessories for the Galaxy S21 Ultra](https://www.androidcentral.com/best-s-pen-cases-accessories-samsung-galaxy-s21-ultra)
+
+
+> Best S Pen Cases & Accessories for Samsung Galaxy S21 Ultra Android Central 2021 One of Samsung's latest smartphones, the Galaxy S21 Ultra, impresses with tons of fabulous features, including amazing cameras and a super sleek design that's complemented by the absolutely gorgeous 6.8-inch screen. The phone is IP68 dust and water-resistant, but it's still important to protect it with a case. And while the device doesn't come with the popular Samsung S Pen, it works seamlessly with one. So, it's a no-brainer to grab the S Pen — easily the best stylus for Android phones like this one — to use with this phone.
+
+
+***
+![Keep it organized with these wallet cases for iPhone 11 Pro](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/10/hero-wallet-case-iphone-11-pro.jpg "Keep it organized with these wallet cases for iPhone 11 Pro")
+
+
+[Keep it organized with these wallet cases for iPhone 11 Pro](https://www.imore.com/best-wallet-cases-iphone-11-pro)
+
+
+> Source: Twelve South Best Wallet Cases for iPhone 11 Pro iMore 2021 Pockets feeling heavy? A thick wallet, plus an iPhone and keys, is a lot to expect from your jeans. One way to lighten up the load is to minimize by combining your iPhone and wallet into one handy wallet case. For the iPhone 11 Pro, there are hundreds of options for wallet cases, so it might be hard to narrow down the choices. Lucky for you, we've put together a list of the best iPhone 11 Pro wallet cases below. Without a doubt, the best all-around wallet case is the BookBook by Twelve South, but there are other options.
+
+
+***
+[Bitcoin price updates – Dogecoin and Ethereum reaches RECORD high as experts predict early signs of rally](https://www.thesun.ie/tech/6943688/bitcoin-price-live-cardano-dogecoin-elon-musk-ethereum-latest/)
+
+
+> A SURGE in crytpo investment this week has led to Dogecoin and Ethereum reaching yet another all-time high. Currently, Bitcoin is trading at around $56,000 and has seen steady gains over the last few days. Dogecoin is up by nearly 20 per cent over the last 24 hours and by 60 per cent over the […]
+
+
+***
+![FinTech Remitly Makes Move Toward $5 Billion New York IPO](https://securecdn.pymnts.com/wp-content/uploads/2021/05/shutterstock_1137157064-1000x600.jpg "FinTech Remitly Makes Move Toward $5 Billion New York IPO")
+
+
+[FinTech Remitly Makes Move Toward $5 Billion New York IPO](https://www.pymnts.com/news/ipo/2021/fintech-remitly-makes-move-toward-5b-new-york-ipo/)
+
+
+> The FinTech startup Remitly is taking steps toward an initial public offering (IPO) in New York that could give the remittance platform a $5 billion valuation, WTBV reported, citing sources. Remitly has partnered with investment banks — Goldman Sachs, J.P. Morgan Chase and Barclays — to move the IPO process forward. The firm itends to file before the end of the year. The Seattle, Washington company was valued at $1.5 billion in a July funding round. Remitly, which was founded in 2011, has the backing of Generation Investment Management as well as Amazon's family office and PayU, a division of Prosus NV, the article indicated.
+
+
+***
+![Shauntel Garvey of Reach Capital will join us to judge this year's Startup Battlefield – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/disrupt-2021-garvey.jpg?w=764 "Shauntel Garvey of Reach Capital will join us to judge this year's Startup Battlefield – TechCrunch")
+
+
+[Shauntel Garvey of Reach Capital will join us to judge this year's Startup Battlefield – TechCrunch](https://techcrunch.com/2021/05/06/shauntel-garvey-of-reach-capital-will-join-us-to-judge-this-years-startup-battlefield/)
+
+
+> TechCrunch's Startup Battlefield is one of the most popular parts of our annual TechCrunch Disrupt conference which is happening on September 21-23 this year. Now we're very excited to reveal one of the fine people who will be judging Startup Battlefield at this year's all-virtual event in September: Shauntel Garvey, a general partner at Reach Capital, a VC specializing in the world of education technology. Startup Battlefield sees startups applying far and wide for a chance to pitch their ideas to a panel, and to all of us in the audience, giving the finalists a lot of exposure and a shot at winning the grand prize of $50,000.
+
+
