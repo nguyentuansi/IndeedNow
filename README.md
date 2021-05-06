@@ -2723,3 +2723,50 @@
 > 12 Consumer Discretionary Stocks Moving In Wednesday's After-Market Session 12 Information Technology Stocks Moving In Wednesday's After-Market Session Etsy: Q1 Earnings Insights Earnings Scheduled For May 5, 2021 Analyzing Etsy's Unusual Options Activity 12 Information Technology Stocks Moving In Monday's Pre-Market Session
 
 
+***
+[Cymulate, which tests clients' networks by running simulated machine learning-based cyber attacks, raises $45M Series C led by One Peak Partners (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210505/p36#a210505p36)
+
+
+> Ingrid Lunden / TechCrunch: Cymulate, which tests clients' networks by running simulated machine learning-based cyber attacks, raises $45M Series C led by One Peak Partners — With cybercrime on course to be a $6 trillion problem this year, organizations are throwing ever more resources at the issue to avoid being a target.
+
+
+***
+!['Student Of The Year 2' Trailer: Unrealistic College Gives Students Everything But An Education and Student of the Year 2: Tiger Shroff is back to college](https://https://www.thearkatech.com/img/news_img/all/8238_15_1200.pic "'Student Of The Year 2' Trailer: Unrealistic College Gives Students Everything But An Education and Student of the Year 2: Tiger Shroff is back to college")
+
+
+['Student Of The Year 2' Trailer: Unrealistic College Gives Students Everything But An Education and Student of the Year 2: Tiger Shroff is back to college](https://www.thearkatech.com/en/43715/)
+
+
+> © Instagram / student of the year 2 By: Michael Miller2021-05-06 03:15:33 Last News: Student of the Year 2: Tiger Shroff is back to college and 'Student Of The Year 2' Trailer: Unrealistic College Gives Students Everything But An Education Missouri Highways and Transportation Commission approves bridge improvements on I-70 in Boone and Callaway County. UPDATE: Man shot and killed in northeast valley found in roadway. Giants vs. Rockies. Celebrating a Half Century Since its Founding, Women of Stanford Law Still Going Strong.
+
+
+***
+![Adam Sandler's Sandy Wexler wants your audition tape and ‘Sandy Wexler' Teaser Trailer: Adam Sandler and Jennifer Hudson Head Back to the ‘90s For Netflix Movie](https://https://www.thearkatech.com/img/news_img/all/7825_8_1200.pic "Adam Sandler's Sandy Wexler wants your audition tape and ‘Sandy Wexler' Teaser Trailer: Adam Sandler and Jennifer Hudson Head Back to the ‘90s For Netflix Movie")
+
+
+[Adam Sandler's Sandy Wexler wants your audition tape and ‘Sandy Wexler' Teaser Trailer: Adam Sandler and Jennifer Hudson Head Back to the ‘90s For Netflix Movie](https://www.thearkatech.com/en/43714/)
+
+
+> © Instagram / sandy wexler By: Hannah Harris2021-05-06 03:14:25 Last News: ‘Sandy Wexler' Teaser Trailer: Adam Sandler and Jennifer Hudson Head Back to the ‘90s For Netflix Movie and Adam Sandler's Sandy Wexler wants your audition tape Drinks with Daniels: Celebrating Asian American and Pacific Islander Heritage Month. Pokemon Sword and Shield's Scorbunny Build-a-Bear Revealed. Nationwide Shortage Of Chlorine And Propane Tank Impacting Pools Right Before Summer. Superman and Lois' Morgan Edge Villain Had a Dark Connection to Darkseid.
+
+
+***
+![St. Tammany Parish celebrates two Louisiana Student of the Year winners and ECpE alum Vivek Kumar Singh recognized with 2020 NASPI Outstanding Student of the Year Award • College of Engineering News • Iowa State University](https://https://www.thearkatech.com/img/news_img/all/8237_1_1200.pic "St. Tammany Parish celebrates two Louisiana Student of the Year winners and ECpE alum Vivek Kumar Singh recognized with 2020 NASPI Outstanding Student of the Year Award • College of Engineering News • Iowa State University")
+
+
+[St. Tammany Parish celebrates two Louisiana Student of the Year winners and ECpE alum Vivek Kumar Singh recognized with 2020 NASPI Outstanding Student of the Year Award • College of Engineering News • Iowa State University](https://www.thearkatech.com/en/43713/)
+
+
+> © Instagram / student of the year By: Sophia Moore2021-05-06 03:13:25 Last News: Political Subdivisions and Public Finance: A Q&A With Locke Lord's Carey Troell. Gentille and Vorkunov: What Rangers fans can expect now that James Dolan is giving them the Knicks treatment. Ratchet and Clank: Rift Apart Looks Like a PS5 Showcase. Incoming Memphis police chief faces myriad of challenges. MediciNova Receives a Notice of Intention to Grant for a New Patent Covering the Combination of MN-166. Explosive-detecting K9s practice in OKC for ATF's national odor recognition test.
+
+
+***
+![VIDEO: guccihighwaters Releases Single/Video 'straight jacket' and Revolution Brewing releases V.S.O.R. and Straight Jacket beers Friday](https://https://www.thearkatech.com/img/news_img/all/8213_9_1200.pic "VIDEO: guccihighwaters Releases Single/Video 'straight jacket' and Revolution Brewing releases V.S.O.R. and Straight Jacket beers Friday")
+
+
+[VIDEO: guccihighwaters Releases Single/Video 'straight jacket' and Revolution Brewing releases V.S.O.R. and Straight Jacket beers Friday](https://www.thearkatech.com/en/43712/)
+
+
+> © Instagram / straight jacket By: Mia Martinez2021-05-06 03:12:24 Last News: Revolution Brewing releases V.S.O.R. and Straight Jacket beers Friday and VIDEO: guccihighwaters Releases Single/Video 'straight jacket' John McCroskey Commentary: Back to Writing: The State of the Country and Ever-Shifting Goalposts. Live Blog: SD County Expands Evening Vaccinations And Reports 219 New COVID-19 Cases. ADTRAN, Inc. Reports Earnings for the First Quarter of 2021 and Declares Quarterly Cash Dividend. How a court ruling undoing the CDC's eviction ban affects Coloradans waiting for rental assistance, recovery.
+
+
