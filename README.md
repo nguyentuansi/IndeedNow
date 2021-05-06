@@ -2817,3 +2817,50 @@
 > Reuters: Sources: Tencent is in talks with CFIUS to negotiate agreements that would allow the company to keep its ownership stakes in Riot Games and Epic Games — Tencent Holdings Ltd (0700.HK) is negotiating agreements with a U.S. national security panel that would allow it to keep its ownership stakes …
 
 
+***
+![Bid On A Flight With Blue Origin: How You Can Go To Space On July 20](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/46172109345_3e3e67096d_o.jpg "Bid On A Flight With Blue Origin: How You Can Go To Space On July 20")
+
+
+[Bid On A Flight With Blue Origin: How You Can Go To Space On July 20](https://www.benzinga.com/news/21/05/20972975/bid-on-a-flight-with-blue-origin-how-you-can-go-to-space-on-july-20)
+
+
+> Blue Origin announced details Wednesday of its first manned flight to space on July 20 aboard the sub-orbital rocket New Shepard. What Happened: Blue Origin, the space company founded by Amazon.com's (NASDAQ: AMZN) Jeff Bezos, revealed details on a three-step process for people to bid on a seat on the first New Shepard manned flight. From May 5 to May 19, bidders can bid any amount up to a certain cap. On May 19, bidders will be unsealed and those biddings will have to exceed the current highest amount.
+
+
+***
+![Realme C20A launch set for May 13, will be a rebranded C20 with 5000mAh battery](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/realme_c20A_teaser-647x363.jpeg?UkefagODVVsll.uVEIcos25iEq4NIkr4 "Realme C20A launch set for May 13, will be a rebranded C20 with 5000mAh battery")
+
+
+[Realme C20A launch set for May 13, will be a rebranded C20 with 5000mAh battery](https://www.indiatoday.in/technology/news/story/realme-c20a-launch-set-for-may-13-will-be-a-rebranded-c20-with-5000mah-battery-1799375-2021-05-06)
+
+
+> Realme has confirmed it will launch a new C-series smartphone this month.The Realme C20A is coming to Bangladesh on May 13.It seems like a rebranded version of the Realme C20.Realme is launching a new affordable smartphone this month. It is called the Realme C20A for some reason and will arrive in Bangladesh on May 13. Now, ahead of the launch, Realme has gone all out to share what the smartphone looks like and what specifications it packs inside. The biggest takeaway here is the MediaTek Helio G35 processor, which also powers the Realme C20 and Realme C21 smartphones.
+
+
+***
+[Is there a way i can print details of some list items to a pdf from table search results?](https://www.reddit.com/r/programming/comments/n5ygts/is_there_a_way_i_can_print_details_of_some_list/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Twitter will now warn you if you post offensive tweets](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Screenshot_2021-05-06_at_9.06.-647x363.png?WGtdlYXyf93u8se7ULbn4pjrP7amTVvX "Twitter will now warn you if you post offensive tweets")
+
+
+[Twitter will now warn you if you post offensive tweets](https://www.indiatoday.in/technology/news/story/twitter-will-now-warn-you-if-you-post-offensive-tweets-1799374-2021-05-06)
+
+
+> Twitter is rolling out a much-needed feature that would stop users from spewing venom on the platform. Twitter is one of the most badly used platforms, often used for trolling or harassing users. However, now the micro-blogging site will not let users who post offensive tweets pass off easily. Twitter will now start warning users before they post offensive tweets. The feature was being tested a year ago, but it will now be rolled out to a wider audience.Back in 2020, Twitter had started testing the feature with a small group of people.
+
+
+***
+![Apple's EU and Epic Games legal clash questions its app store supremacy](https://resources.stuff.co.nz/content/dam/images/4/y/s/i/1/h/image.related.StuffLandscapeSixteenByNine.1420x800.4yshyt.png/1620272481048.jpg "Apple's EU and Epic Games legal clash questions its app store supremacy")
+
+
+[Apple's EU and Epic Games legal clash questions its app store supremacy](https://www.stuff.co.nz/technology/apps/300301301/apples-eu-and-epic-games-legal-clash-questions-its-app-store-supremacy)
+
+
+> OPINION: Is the App Store a monopoly? Something odd happened this week. Apple's stock price dropped nearly 5 per cent following impressive quarterly profits of US$1.40 a share versus the industry's estimate of US$0.98.In this February 5 photo, an Apple store employee wears personal protective equipment in New York. Closer analysis reveals that its revenue was up 66 per cent for iPhones, 70 per cent for Macs, 79 per cent for iPads, 25 per cent for wearables. This, to my simple mind, suggests that its share price should be going up, not down.
+
+
