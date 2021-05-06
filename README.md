@@ -3105,3 +3105,41 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+[AirTag Can Be Used For Stalking Very Easily Despite Apple's Efforts, Here's Why](https://www.redmondpie.com/airtag-can-be-used-for-stalking-very-easily-despite-apples-efforts-heres-why/)
+
+
+> AirTag can be used for stalking very easily despite Apple's efforts to avoid this. Here's a look into why this is happening. [ Continue reading this over at RedmondPie.com ]
+
+
+***
+[Europe's technology industry saw a rise of 17.30% in cloud deal activity in Q1 2021](https://www.verdict.co.uk/europes-technology-industry-saw-a-rise-of-17-30-in-cloud-deal-activity-in-q1-2021/)
+
+
+> Led by $2.5bn acquisition of Itiviti Group, Europe's technology industry saw a rise of 17.30% in cloud deal activity during Q1 2021, when compared to the last four-quarter average, according to GlobalData's deals database. Embed this chart Embed this chart into your website Copy and paste the image source into your website to display the […] The post Europe's technology industry saw a rise of 17.30% in cloud deal activity in Q1 2021 appeared first on Verdict.
+
+
+***
+[Telus investing $54 billion in infrastructure and new technology through 2024](https://mobilesyrup.com/2021/05/06/telus-investing-54-billion-in-infrastructure-and-new-technology-through-2024/)
+
+
+> Telus is investing an additional $54 billion in infrastructure and operations across the country through 2024. The Vancouver-based national carrier says the investments will enable Canadians to work, learn and access healthcare from home. It notes that the investment will also create 38,000 jobs. Telus will expand its 5G network to an additional 529 new... The post Telus investing $54 billion in infrastructure and new technology through 2024 appeared first on MobileSyrup.
+
+
+***
+![Kids on TikTok find the sunny app has a dark side](https://imagevars.gulfnews.com/2021/05/06/TikTok_1794271ffc9_medium.jpg "Kids on TikTok find the sunny app has a dark side")
+
+
+[Kids on TikTok find the sunny app has a dark side](https://gulfnews.com/technology/media/kids-on-tiktok-find-the-sunny-app-has-a-dark-side-1.1620317394115)
+
+
+> Image Credit: Shutterstock TikTok is known primarily as a launchpad for funny memes, dance routines and lip-synching videos. The company embraces that reputation with a tagline, "the last sunny corner on the internet." But there's a dark side to TikTok that engulfs some of the app's youngest users. Beneath the surface, TikTok also hosts videos promoting anorexia, bullying, suicide and sexual exploitation of minors. Highly personalised recommendations, driven by algorithms owned by the parent company ByteDance Ltd.
+
+
+***
+[Huntress, which offers an endpoint security service to IT resellers, raises $40M Series B led by JMI, bringing its total raised to $60M (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210506/p19#a210506p19)
+
+
+> Kyle Wiggers / VentureBeat: Huntress, which offers an endpoint security service to IT resellers, raises $40M Series B led by JMI, bringing its total raised to $60M — Join Transform 2021 this July 12-16. Register fo r the AI event of the year. — Cybersecurity startup Huntress today announced it has closed …
+
+
