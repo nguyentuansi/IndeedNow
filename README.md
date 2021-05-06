@@ -2914,3 +2914,53 @@
 > Redmi Note 10 Pro 5G is tipped to be launched with a 5G-supporting Qualcomm Snapdragon SoC soon. Although the smartphone is yet to receive an official confirmation, an image suggesting its existence has emerged on social media. Redmi Note 10 Pro 5G is speculated to have the Qualcomm Snapdragon 750G SoC. It may also come with a 120Hz AMOLED display that was one of the USPs of its 4G variant that debuted in India alongside Redmi Note 10 and Redmi Note 10 Pro Max in March.Tipster Abhishek Yadav tweeted the image suggesting the development of Redmi Note 10 Pro 5G.
 
 
+***
+![Samsung angered over Micron's 'tech manipulation'](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/287229dc95274ad3af563ce78f6e4305.jpg "Samsung angered over Micron's 'tech manipulation'")
+
+
+[Samsung angered over Micron's 'tech manipulation'](https://www.koreatimes.co.kr/www/tech/2021/05/133_308405.html)
+
+
+> Samsung Electronics' chip making plant in Pyeongtaek, Gyeonggi Province / Courtesy of Samsung ElectronicsBy Baek Byung-yeulWith the competition for chip refinement processes reaching a breaking point, marketing competition between memory chip king Samsung Electronics and U.S. chipmaker Micron seems to be heating up over how small they can make DRAM memory chips.During a conference call for first-quarter earnings held April 26, a Samsung Electronics executive unveiled a detail about a production schedule of its 10-nanometer-level DRAM memory chip.
+
+
+***
+![Hanwha Total completes expansion of W530 bil. polypropylene plant](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/7e5af08ce4d64876ba9dc6d9b282e511.jpg "Hanwha Total completes expansion of W530 bil. polypropylene plant")
+
+
+[Hanwha Total completes expansion of W530 bil. polypropylene plant](https://www.koreatimes.co.kr/www/tech/2021/05/693_308402.html)
+
+
+> Hanwha Total's polypropylene plant at Daesan, South Chungcheong Province / Courtesy of Hanwha Total Kim Hyun-binHanwha Total has successfully completed the expansion of its polypropylene plant, which is set to drastically increase annual production.The construction took 28 months injecting a total of 530 billion won ($472 million) to construct a new polypropylene plant and naphtha side cracker that could ramp up polypropylene production at Daesan, South Chungcheong Province, the company said, Wednesday.
+
+
+***
+![Overseas sales to go into double digits this year: Kakao](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/ba0a2c335617496f9bbcf68b20f42f32.jpg "Overseas sales to go into double digits this year: Kakao")
+
+
+[Overseas sales to go into double digits this year: Kakao](https://www.koreatimes.co.kr/www/tech/2021/05/133_308398.html)
+
+
+> By Kim Bo-eunKakao said Thursday it expects sales generated overseas to account for double digits in the proportion of its total sales this year, as it accelerates growth in the entertainment content business."We expect to be able to show Kakao's sales being diversified to overseas sources this year," CEO Yeo Min-soo said in a conference call on the company's first-quarter earnings. "Global content businesses have shown performances surpassing internal goals and market expectations for the past few quarters and we have confidence in these businesses.
+
+
+***
+![Could NFT auctions be moving away from Ethereum? One new group is betting they will – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/burntbanksy.jpg?w=711 "Could NFT auctions be moving away from Ethereum? One new group is betting they will – TechCrunch")
+
+
+[Could NFT auctions be moving away from Ethereum? One new group is betting they will – TechCrunch](https://techcrunch.com/2021/05/06/could-nft-auctions-be-moving-away-from-ethereum-one-new-group-is-betting-they-will/)
+
+
+> NFTs were arguably already taking off when Beeple sold his NFT artwork for $69m. But another crypto project attracted attention when it bought an original Banksy artwork for $95,000. The group literally burnt the artwork and sold its NFT on the OpenSea platform for $400,000. Although the stunt was covered by CBS News, BBC News, The Guardian, and others, it did actually make a significant point. By removing the physical piece, the group – calling itself 'Burnt Banksy' – proved that the value of the piece wasn't affected by being destroyed, given that the NFT went up so much in value.
+
+
+***
+![Sony finally puts an end to its A-mount DSLR cameras](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Sony-A-mount-Camera-System-Ind-647x363.jpeg?imIR8hXmhvHAXqJuEiTy4._6ap2_VlEb "Sony finally puts an end to its A-mount DSLR cameras")
+
+
+[Sony finally puts an end to its A-mount DSLR cameras](https://www.indiatoday.in/technology/news/story/sony-finally-puts-an-end-to-its-a-mount-dslr-cameras-1799482-2021-05-06)
+
+
+> Sony has discontinued with its A-mount system.Sony cameras that will not be available on the market are -a68, a77 II and a99 II.The last A-mount imaging product which Sony introduced was an A-mount to E-mount adapter.In an effort to shift to mirrorless cameras completely, many camera makers have started to discontinue with their DSLRs or lenses gingerly. Earlier we reported that Canon discontinued 26 EF-mount lenses. Now, Sony Alpha Rumors notes that the company has waved goodbye to its A-mount system.
+
+
