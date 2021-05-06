@@ -2864,3 +2864,53 @@
 > OPINION: Is the App Store a monopoly? Something odd happened this week. Apple's stock price dropped nearly 5 per cent following impressive quarterly profits of US$1.40 a share versus the industry's estimate of US$0.98.In this February 5 photo, an Apple store employee wears personal protective equipment in New York. Closer analysis reveals that its revenue was up 66 per cent for iPhones, 70 per cent for Macs, 79 per cent for iPads, 25 per cent for wearables. This, to my simple mind, suggests that its share price should be going up, not down.
 
 
+***
+![King County considers ban on facial recognition technology](https://media.king5.com/assets/KING/images/06a4d40b-773d-4c5b-9bee-7a46913eae80/06a4d40b-773d-4c5b-9bee-7a46913eae80_1140x641.jpg "King County considers ban on facial recognition technology")
+
+
+[King County considers ban on facial recognition technology](https://www.king5.com/video/tech/king-county-considers-ban-on-facial-recognition-tech/281-723417b1-d7d9-4341-a100-16ddbe71eba3)
+
+
+> The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff's office. Notifications can be turned off anytime in the browser settings.
+
+
+***
+![British political veteran steers Facebook's Trump decision](https://images.indianexpress.com/2021/01/Trump-social-media.jpg "British political veteran steers Facebook's Trump decision")
+
+
+[British political veteran steers Facebook's Trump decision](https://www.nytimes.com/2021/05/05/technology/facebook-trump-nick-clegg.html)
+
+
+> Written by Adam Satariano and Cecilia Kang When Facebook barred President Donald Trump from its service in January, Mark Zuckerberg, the chief executive, defended the decision in a Facebook post the morning after the siege of the Capitol. But the first draft was written the night before by Nick Clegg, a former British deputy prime minister who leads the company's public affairs. More than a week later, Clegg urged Zuckerberg to let a new outside panel decide whether to let Trump back on Facebook, employees involved in the deliberations said.
+
+
+***
+![Users Beware! This SMS Claiming Free COVID-19 Vaccine Registration in India is Fake](https://images.news18.com/ibnlive/uploads/2021/05/1620278771_covid19_fake_message.jpg "Users Beware! This SMS Claiming Free COVID-19 Vaccine Registration in India is Fake")
+
+
+[Users Beware! This SMS Claiming Free COVID-19 Vaccine Registration in India is Fake](https://www.news18.com/news/tech/users-beware-this-sms-claiming-free-covid-19-vaccine-registration-in-india-is-fake-3711677.html)
+
+
+> COVID-19 vaccination drive in India has begun for everyone above 18 years though many are facing problems with registration due to a shortage in vaccines. Several platforms have also been set up that uses CoWIN API (official COVID-19 vaccine registration platform in India) to help users find available slots around their location. Now, a message is doing rounds on the internet that offers a simple solution to register for the COVID-19 vaccine by downloading a new app. The SMS is primarily reaching Android users through the Messages app, and in reality, it's a link filled with malware.
+
+
+***
+![Does anybody using repl.it now? I stuck in login page for hour by [ Expected X-Requested-With header](https://external-preview.redd.it/-0r3xEFWnchi3rb851bKYzRLL-mfR9CCXJ-sGf785L4.jpg?auto=webp&s=841235505210adf3122debffe5cf8cb4a0561bda "Does anybody using repl.it now? I stuck in login page for hour by [ Expected X-Requested-With header")
+
+
+[Does anybody using repl.it now? I stuck in login page for hour by [ Expected X-Requested-With header](https://www.reddit.com/r/programming/comments/n607s4/does_anybody_using_replit_now_i_stuck_in_login/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Redmi Note 10 Pro 5G With Snapdragon 750G SoC Tipped to Debut Soon](https://i.gadgets360cdn.com/large/redmi_note_10_pro_5g_image_twitter_abhishek_yadav_1620279004621.jpg "Redmi Note 10 Pro 5G With Snapdragon 750G SoC Tipped to Debut Soon")
+
+
+[Redmi Note 10 Pro 5G With Snapdragon 750G SoC Tipped to Debut Soon](https://gadgets.ndtv.com/mobiles/news/redmi-note-10-pro-5g-launch-snapdragon-750g-specifications-xiaomi-rumour-2435016)
+
+
+> Redmi Note 10 Pro 5G is tipped to be launched with a 5G-supporting Qualcomm Snapdragon SoC soon. Although the smartphone is yet to receive an official confirmation, an image suggesting its existence has emerged on social media. Redmi Note 10 Pro 5G is speculated to have the Qualcomm Snapdragon 750G SoC. It may also come with a 120Hz AMOLED display that was one of the USPs of its 4G variant that debuted in India alongside Redmi Note 10 and Redmi Note 10 Pro Max in March.Tipster Abhishek Yadav tweeted the image suggesting the development of Redmi Note 10 Pro 5G.
+
+
