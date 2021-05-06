@@ -2964,3 +2964,53 @@
 > Sony has discontinued with its A-mount system.Sony cameras that will not be available on the market are -a68, a77 II and a99 II.The last A-mount imaging product which Sony introduced was an A-mount to E-mount adapter.In an effort to shift to mirrorless cameras completely, many camera makers have started to discontinue with their DSLRs or lenses gingerly. Earlier we reported that Canon discontinued 26 EF-mount lenses. Now, Sony Alpha Rumors notes that the company has waved goodbye to its A-mount system.
 
 
+***
+![Don't worry](https://cdn.mos.cms.futurecdn.net/LowE5V3dgYcMxtosuYBWkS-1200-80.jpg "Don't worry")
+
+
+[Don't worry](https://www.techradar.com/news/dont-worry-your-free-microsoft-teams-account-isnt-being-deleted)
+
+
+> (Image credit: Shutterstock / dennizn) Users with Microsoft Teams Free accounts have been reassured that their profiles will not be deleted after a number of customers raised the alarm after receiving an email from the company.Some Microsoft Teams Free admins reported receiving emails last month from the company stating that they had reached the end of a trial period, and that their accounts would be deleted if they did not now pay for a full subscription.But Microsoft has now said that the email was sent in error, and no users will have their video conferencing accounts deleted.
+
+
+***
+![Beware](https://cdn.mos.cms.futurecdn.net/yhG7RezFkb6DnQLwncsCva-1200-80.jpg "Beware")
+
+
+[Beware](https://www.techradar.com/news/beware-your-old-router-could-be-putting-you-at-risk-of-cyberattack)
+
+
+> (Image credit: Kittichai Boonpong / EyeEm) Millions of homes across the UK could be at risk of being attacked due to the security flaws in old internet routers, new research has warned.Consumer watchodg Which? has warned that around 7.5 million people are thought to be using devices that are falling short of upcoming government regulation on the security of connected devices.Around six million of these could be using a router that has not been updated since 2018 or earlier, meaning they lack proper security updates and protection against the latest threats.
+
+
+***
+![How to watch Girls5eva online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/girls5eva-peacock.jpg "How to watch Girls5eva online from anywhere")
+
+
+[How to watch Girls5eva online from anywhere](https://www.androidcentral.com/how-watch-girls5eva-online-anywhere)
+
+
+> It's been 20 years since their last performance but the fictional one-hit-wonder girl group Girls5eva is making a comeback in Peacock's latest original series and we have all the details on how you can watch the new musical comedy on TV or online. Source: NBCUniversal Created by writer and producer Meredith Scardino who is known for her work on Saturday Night Live, The Colbert Report and Unbreakable Kimmy Schmidt, Girls5eva tells the tale of Dawn (Sara Bareilles), Wickie (Renée Elise Goldsberry), Gloria (Paula Pell) and Summer (Busy Philipps) who rose to fame in the late 90s as members of the group Girls5eva.
+
+
+***
+![Desus and Mero join the NFT party selling art outside the Met](https://mondrian.mashable.com/2021%252F05%252F06%252F73%252F45a94986b0164aedb88b9698285262f1.b215a.png%252F1200x630.png?signature=bkikcVSuO4KxNMebIMR8pIbtYYc= "Desus and Mero join the NFT party selling art outside the Met")
+
+
+[Desus and Mero join the NFT party selling art outside the Met](https://mashable.com/video/desus-and-mero-nfts/)
+
+
+> Everyone's been getting into the NFT game, selling the non-fungible tokens — a unique type of cryptocurrency — for a shitload of money in some cases. These unique digital collectibles on the blockchain can be anything, from tweets to GIFs, even artworks, which have sold for millions. And now, Desus and Mero are jumping right in, attempting to sell their own interpretation, "Next Fucking Things" (NFTs), outside the Metropolitan Museum of Art in New York: original paintings by Brooklyn artist Alexandra Rubinstein.
+
+
+***
+![How we moved from MongoDB to Postgres without downtime and cut our costs by 30%](https://external-preview.redd.it/GiZb_FJUzeOUX8gJr9_CZ-cGeBoZonlBY_78rtnRli4.jpg?auto=webp&s=f3140488cadf85fd67da53ac3ec3ec583d8afda1 "How we moved from MongoDB to Postgres without downtime and cut our costs by 30%")
+
+
+[How we moved from MongoDB to Postgres without downtime and cut our costs by 30%](https://www.reddit.com/r/programming/comments/n63rjb/how_we_moved_from_mongodb_to_postgres_without/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
