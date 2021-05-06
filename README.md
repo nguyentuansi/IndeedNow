@@ -3240,3 +3240,50 @@
 > A legendary Australian company that used to build fast Commodore has worked its magic on this popular dual cab ute.Volkswagen has taken a different path to its rivals with the new range-topping Amarok W580S. Rather than developing a rugged ute with more off-road ability, the brand is offering a new machine that plays to the Amarok's strengths.It has teamed up with Australian tuning firm Walkinshaw to produce a tough-looking ute with superior driving characteristics to regular models.Walkinshaw engineer Dave Kermond helped produce some of Australia's best V8 muscle cars for HSV and was tasked with refining the Amarok's manners on tarmac.
 
 
+***
+![EXCLUSIVE: Rep. Mo Brooks: Tech Censorship Allows Evil to Thrive](https://media.breitbart.com/media/2020/01/rep-mo-brooks-2019-nbc-news-youtube-640x335.jpg "EXCLUSIVE: Rep. Mo Brooks: Tech Censorship Allows Evil to Thrive")
+
+
+[EXCLUSIVE: Rep. Mo Brooks: Tech Censorship Allows Evil to Thrive](https://www.breitbart.com/tech/2021/05/06/exclusive-rep-mo-brooks-tech-censorship-allows-evil-to-thrive/)
+
+
+> Rep. Mo Brooks (R-AL), who has been endorsed by Donald Trump in the Alabama Senate race, gave an exclusive interview to Breitbart News about the threat of tech censorship, comparing Silicon Valley's suppression of speech to Communist China's and urging the breakup of Big Tech companies. Rep. Brooks released a statement yesterday condemning the Facebook Oversight Board's decision to uphold a ban on Donald Trump from the platform, calling it a 'direct attack on the First Amendment's Freedom of Speech rights.
+
+
+***
+![Josh Hawley: Facebook's Upholding Trump Ban Proves Need for Antitrust](https://media.breitbart.com/media/2020/11/Josh-Hawley-Speaks-at-Hearing-640x335.jpg "Josh Hawley: Facebook's Upholding Trump Ban Proves Need for Antitrust")
+
+
+[Josh Hawley: Facebook's Upholding Trump Ban Proves Need for Antitrust](https://www.breitbart.com/tech/2021/05/06/josh-hawley-facebook-boards-decision-to-uphold-trump-ban-proves-need-antitrust/)
+
+
+> Sen. Josh Hawley (R-MO) said in an interview Wednesday that the Facebook oversight board's decision to uphold the social media giant's ban against former President Donald Trump proves the need to use antitrust against the company. Hawley slammed Facebook after its oversight board, a body Facebook created to review its content decisions, upheld the company's decision to ban Trump following the January 6 riots. The Missouri conservative said that the oversight board's decision proves the need to use antitrust to rein in Facebook's control over free speech.
+
+
+***
+![The best smart displays for 2021](https://icdn.digitaltrends.com/image/digitaltrends/echo-show-2.jpg "The best smart displays for 2021")
+
+
+[The best smart displays for 2021](https://www.digitaltrends.com/home/best-smart-displays/)
+
+
+> Smart displays let you control your smart devices from the convenience of one central location, and they can sometimes even include cameras and controls you can use for video chatting, home monitoring, and other purposes. The best smart displays work best with similarly branded smart devices, but many connect with different branded devices like kitchen appliances, cameras, light switches, vacuums, and thermostats. Here are the best smart displays for 2021. At a glance The best: Echo Show 3nd Generation John Velasco / Digital Trends Why we picked the Echo Show 3: The Echo Show 3 sports a large 10.
+
+
+***
+[IAC shareholders will vote on the spinoff of Vimeo on May 14; Vimeo posted Q1 revenue of $89.4M, up 57% YoY (Emily Bary/MarketWatch)](http://www.techmeme.com/210506/p34#a210506p34)
+
+
+> Emily Bary / MarketWatch: IAC shareholders will vote on the spinoff of Vimeo on May 14; Vimeo posted Q1 revenue of $89.4M, up 57% YoY — IAC shareholders will vote on splitting off video-creation software unit next week — IAC/InterActiveCorp. topped quarterly earnings expectations Thursday …
+
+
+***
+![Twitter begins publicly testing Tip Jar, doesn't take a cut from payments](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/twitter-tip-jar-payment-apps.jpg "Twitter begins publicly testing Tip Jar, doesn't take a cut from payments")
+
+
+[Twitter begins publicly testing Tip Jar, doesn't take a cut from payments](https://www.androidcentral.com/twitter-begins-publicly-testing-tip-jar-feature)
+
+
+> tips tips tips Twitter doesn't take a cut from your tips. Source: Twitter Twitter has started publicly testing its new Tip Jar feature. Tip Jar is being introduced as part of Twitter's plan to help grow the platform, particularly for influencers. Only certain accounts can accept tips from followers, with "more coming soon..." Twitter has begun publicly testing its tipping feature, dubbed "Tip Jar." The feature is rolling out on mobile devices, including the best Android phones, and allows users to pay for their favorite accounts using various services.
+
+
