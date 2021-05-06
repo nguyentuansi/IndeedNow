@@ -2770,3 +2770,50 @@
 > © Instagram / straight jacket By: Mia Martinez2021-05-06 03:12:24 Last News: Revolution Brewing releases V.S.O.R. and Straight Jacket beers Friday and VIDEO: guccihighwaters Releases Single/Video 'straight jacket' John McCroskey Commentary: Back to Writing: The State of the Country and Ever-Shifting Goalposts. Live Blog: SD County Expands Evening Vaccinations And Reports 219 New COVID-19 Cases. ADTRAN, Inc. Reports Earnings for the First Quarter of 2021 and Declares Quarterly Cash Dividend. How a court ruling undoing the CDC's eviction ban affects Coloradans waiting for rental assistance, recovery.
 
 
+***
+![The Engineer's Guide to Career Growth — Advice from My Time at Stripe and Facebook](https://external-preview.redd.it/XUDdXi0qfR-LSVi1fxzKz-wFdYz_HJLzYYCzAj1Uh-g.jpg?auto=webp&s=dd8bb1ad6d2d97cb7d81a77dc8493a3a68e6db15 "The Engineer's Guide to Career Growth — Advice from My Time at Stripe and Facebook")
+
+
+[The Engineer's Guide to Career Growth — Advice from My Time at Stripe and Facebook](https://www.reddit.com/r/programming/comments/n5x3sn/the_engineers_guide_to_career_growth_advice_from/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![iOS 15 release date, supported iPhones, features, leaks and what we know so far](https://cdn.mos.cms.futurecdn.net/yFCoU7gbwweXVUqKDEW3kc-1200-80.jpg "iOS 15 release date, supported iPhones, features, leaks and what we know so far")
+
+
+[iOS 15 release date, supported iPhones, features, leaks and what we know so far](https://www.techradar.com/news/ios-15)
+
+
+> iOS 15 is a long way off yet, but we're already hearing the first early leaks and rumors about it, all of which you'll find below. Beyond that, we also have a good idea of when it'll arrive – as well as which devices will support it. Expect it to arrive alongside the iPhone 13.Further down, we've also included a list of some key improvements we want to see from iOS 15, since the latest available version of iOS 14 isn't without its issues, despite how much it overhauled the operating system. Several updates have come since, incrementally patching out flaws and debuting new features.
+
+
+***
+![Twitter rolls out full-size image preview](https://cdn.mos.cms.futurecdn.net/wgUrCxuhjjBPxZhZhPpmHM-1200-80.png "Twitter rolls out full-size image preview")
+
+
+[Twitter rolls out full-size image preview](https://www.techradar.com/news/twitter-rolls-out-full-size-image-preview-is-it-good-or-bad)
+
+
+> (Image credit: Twitter) Twitter 'crop', sometimes relished and sometimes reviled, is now gone.The social media platform, all these days, would automatically crop uploaded images, unilaterally changing the aspect ratio based on whatever was uplinked by the user. Twitter has now thrown that system out. Users can now upload images on their Twitter timeline and there won't be any automatic cropping. What they upload with their iOS or Android device is what they and you see.Further, users can also preview a pic before uploading it.
+
+
+***
+![Review sees if Apple's AirTag prevents stalking with mixed results](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/04/airtag-battery-cover-open.jpg "Review sees if Apple's AirTag prevents stalking with mixed results")
+
+
+[Review sees if Apple's AirTag prevents stalking with mixed results](https://www.imore.com/washington-post-airtag-review-points-out-potential-stalking-issues)
+
+
+> Source: Joe Keller / iMore The Washington Post ran a stalking test for AirTag. The results were mixed, especially for Android users. Apple's AirTag may have more work to do to deter stalking. A new review from The Washington Post put AirTag to the test when it comes to potential stalking issues. Geoffrey A. Fowler had his colleague Jonathan Baran slip an AirTag into his bag and try to stalk him across San Francisco for a week. The purpose was simple: would Geoffrey get alerted enough to realize he was being tracked by someone else? While he did get alerted, he found mixed results.
+
+
+***
+[Sources: Tencent is in talks with CFIUS to negotiate agreements that would allow the company to keep its ownership stakes in Riot Games and Epic Games (Reuters)](http://www.techmeme.com/210505/p39#a210505p39)
+
+
+> Reuters: Sources: Tencent is in talks with CFIUS to negotiate agreements that would allow the company to keep its ownership stakes in Riot Games and Epic Games — Tencent Holdings Ltd (0700.HK) is negotiating agreements with a U.S. national security panel that would allow it to keep its ownership stakes …
+
+
