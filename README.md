@@ -3014,3 +3014,47 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[Chinese rocket falling to Earth ‘will crash on Saturday' after panicked scientists reveal it's out of control](https://www.thesun.ie/tech/6953337/chinese-rocket-fall-earth-weekend-out-of-control-debris-2/)
+
+
+> A HUGE Chinese rocket making an out-of-control tumble from space looks set to crash back to Earth this weekend as experts warn that debris from the impact could hit an inhabited area. Calculations of the 21-ton booster’s trajectory predict that it will fall on Saturday, US time, though where it will land “cannot be pinpointed […]
+
+
+***
+![New York could ban crypto mining over environmental concerns](https://cdn.mos.cms.futurecdn.net/yaTc7yRkfydWWSj2tD8dGH-1200-80.jpg "New York could ban crypto mining over environmental concerns")
+
+
+[New York could ban crypto mining over environmental concerns](https://www.techradar.com/news/new-york-could-ban-crypto-mining-over-environmental-concerns)
+
+
+> (Image credit: Yevhen Vitte / Shutterstock) A bill seeking to suspend cryptocurrency mining in the state of New York on environmental grounds is currently under review.Tabled by Democrat senator Kevin Parker, the bill seeks to establish a three-year moratorium on crypto mining, with the goal of preventing irreparable damage to the state's sustainability ambitions.The bill was referred to the Committee on Environmental Conservation on May 03 and, if passed, will require crypto miners to undergo an environmental impact review if they are to continue to operate.
+
+
+***
+![From bootstrapped to a $2.1B valuation, ReCharge raises $227M for subscription management platform – TechCrunch](https://techcrunch.com/wp-content/uploads/2015/06/unicorn-money.jpg?w=711 "From bootstrapped to a $2.1B valuation, ReCharge raises $227M for subscription management platform – TechCrunch")
+
+
+[From bootstrapped to a $2.1B valuation, ReCharge raises $227M for subscription management platform – TechCrunch](https://techcrunch.com/2021/05/06/from-bootstrapped-to-a-2-1b-valuation-recharge-raises-227m-in-growth-capital/)
+
+
+> ReCharge, a provider of subscription management software for e-commerce, announced today that it has raised $227 million in a Series B growth round at a $2.1 billion valuation.  Summit Partners, ICONIQ Growth and Bain Capital Ventures provided the capital. Notably, Santa Monica, California-based ReCharge was bootstrapped for several years before raising $50 million in a previously undisclosed Series A from Summit Partners in January of 2020. And, it's currently cash flow positive, according to company execs.
+
+
+***
+[IBM says it has created the first 2nm chip, which can improve performance by 45% at the same power or 75% energy at the same performance compared to 7nm chips (Dr. Ian Cutress/AnandTech)](http://www.techmeme.com/210506/p4#a210506p4)
+
+
+> Dr. Ian Cutress / AnandTech: IBM says it has created the first 2nm chip, which can improve performance by 45% at the same power or 75% energy at the same performance compared to 7nm chips — Every decade is the decade that tests the limits of Moore's Law, and this decade is no different.
+
+
+***
+![Desktop Metal adds wood printing to its portfolio – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/Forust_ProcessImage_02.jpg?w=600 "Desktop Metal adds wood printing to its portfolio – TechCrunch")
+
+
+[Desktop Metal adds wood printing to its portfolio – TechCrunch](https://techcrunch.com/2021/05/06/desktop-metal-adds-wood-printing-to-its-portfolio/)
+
+
+> Desktop Metal today announced the launch of wood 3D printing tool, Forust. Founded in 2019, the company specializes in 3D printing for interior design. The company's 'non-destructive' printing methods have managed to largely fly under the radar, with minimal press coverage until now — making them a pretty ideal acquisition candidate. In fact, the gross assets acquisition actually occurred back in October 2020, according to a filing, which pegs it at a price at $2.5 million, including $2 million in cash considerations.
+
+
