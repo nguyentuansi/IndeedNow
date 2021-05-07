@@ -3790,3 +3790,43 @@
 > Weekly forex futures positioning data from the CFTC for the week ending May 4, 2021 - EUR long 85K vs 81K long last week. Longs increased by 4K - GBP long 20K vs 29K long last week. Longs trimmed by 9K
 
 
+***
+![Google Assistant is so happy about vaccines that it will sing you a song](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/google-assistant-green.jpg "Google Assistant is so happy about vaccines that it will sing you a song")
+
+
+[Google Assistant is so happy about vaccines that it will sing you a song](https://www.androidcentral.com/google-assistant-vaccine-song)
+
+
+> Source: Nick Sutrich / Android Central Google Assistant celebrates the COVID-19 vaccine with a song. "The Vaccine Song" praises scientists for the record time that vaccines were developed. Just ask Google Assistant to sing the song and... judge for yourself. Google Assistant is apparently very happy about the COVID-19 vaccine, so much so that it now has a song titled "The Vaccine Song" that it will sing to you if you ask it to. It works on smart speakers like the Nest Audio, but if you ask it to since on any of the best Android phones, you get to enjoy the experience with on-screen lyrics, complete with emojis.
+
+
+***
+![Stores Still Matter. Where's Amazon?](https://static01.nyt.com/images/2021/05/06/business/04ontech-groceries/04ontech-groceries-facebookJumbo-v3.jpg "Stores Still Matter. Where's Amazon?")
+
+
+[Stores Still Matter. Where's Amazon?](https://www.nytimes.com/2021/05/04/technology/amazon-grocery-shopping.html)
+
+
+> Continue reading the main storyPeople are eager to return to grocery stores, but Amazon seems to be missing the opportunity.VideoCreditCredit...By Irene SuosaloPublished May 4, 2021Updated May 7, 2021, 5:57 p.m. ETThis article is part of the On Tech newsletter. You can sign up here to receive it weekdays.Amazon has been so successful in the last year that words almost fail me. Except in one area.Sales at Amazon's stores, mostly from its Whole Foods grocery chain, fell by 15 percent in the first three months of this year compared with the same period in 2020.
+
+
+***
+![New iMac (2021) release date, price, colors and specs: everything we know](https://cdn.mos.cms.futurecdn.net/mFYzcHxgLWbxzUdQKePEQC-1200-80.jpg "New iMac (2021) release date, price, colors and specs: everything we know")
+
+
+[New iMac (2021) release date, price, colors and specs: everything we know](https://www.techradar.com/news/imac-m1-2021)
+
+
+> The new iMac (M1, 2021) is finally here, and comes with a radical redesign, both externally and internally. As Apple's latest all-in-one PC, it doesn't come as a surprise that the new iMac (2021) is now powered with Apple's own M1 chip, rather than the 10th generation Intel Comet Lake processors that the 27-inch iMac (2020) came with.The M1 chip powering the new iMac (2021) is an impressive bit of tech, offering plenty of power to run apps like Final Cut Pro with ease as it did with the MacBook Pro 13-inch (M1, 2020), MacBook Air (M1, 2020) and Mac mini (M1, 2020).
+
+
+***
+![Best 4K monitors 2021: the top Ultra HD monitors and displays](https://cdn.mos.cms.futurecdn.net/jqa8BGV2m4KCcv8M5SrGt-1200-80.jpg "Best 4K monitors 2021: the top Ultra HD monitors and displays")
+
+
+[Best 4K monitors 2021: the top Ultra HD monitors and displays](https://www.techradar.com/news/best-4k-monitors)
+
+
+> There's no better place than the best 4K monitors to watch movies, videos, and games in 4K resolution. Everything is sharper and more detailed on one of these compared to 1080p and 1440p displays. That's not to mention that they come with some other advantages such as more screen real estate that help streamline creative workflows and multitasking.UHD is quickly becoming the norm, as more and more content comes in 4K and desktop PCs make huge leaps in performance capabilities, thanks to GPUs like the Nvidia Geforce RTX 3080.
+
+
