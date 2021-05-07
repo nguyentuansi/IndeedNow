@@ -3334,3 +3334,53 @@
 > Sony's phone-that-is-mainly-a-pro-camera-accessory, the Xperia Pro, was announced way back in February of last year, and it finally launched in the US and Japan this January with a hard to swallow price of $2,500. Today the company is announcing that the Xperia Pro is making it across the pond and over to Europe, where it will be offered in the UK, Germany, and Nordic countries. While Sony has refrained from providing an actual release date for the phone, it has announced that pre-orders have started today in the UK, and will be available until May 13.
 
 
+***
+![The best Android launchers for your phone 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/01/action-launcher-smart-launcher-klwp-jack-ryan-cinderella-themes-bluegrey.jpg "The best Android launchers for your phone 2021")
+
+
+[The best Android launchers for your phone 2021](https://www.androidcentral.com/best-android-launchers)
+
+
+> Source: Ara Wagoner / Android Central The way we arrange, organize, and interact with our apps on Android is called the launcher. Launchers usually consist of a series of home screens, where we can arrange app shortcuts and widgets and an app drawer. Every phone comes with a launcher, but when they drop the ball, there are endless third-party launchers that not only pick it up again but knock it clear out of the park. Everyone has their perfect launcher, but if you haven't found your favorite yet, then here are a few launchers we think will satisfy users of every type.
+
+
+***
+![Here's How Every Conversation Is Going To Go This Summer](https://cdn.digg.com/wp-content/uploads/2021/05/07020303/Screen-Shot-2021-05-06-at-10.02.50-PM.jpg "Here's How Every Conversation Is Going To Go This Summer")
+
+
+[Here's How Every Conversation Is Going To Go This Summer](https://digg.com/video/heres-how-every-conversation-is-going-to-go-this-summer)
+
+
+> 'THAT'S A LOT OF GRAND SLAMS' On her podcast "Office Ladies" with Jenna Fischer (Pam), Angela Kinsey (Angela) revealed that Astird's — uh, Astrid's — father's identity was actually written into the script. 'DO YOU KNOW ANYBODY THAT GOT THE JOHNSON & JOHNSON?' Nick Smith pretty much sums up everything we're going to be talking about for the next three months. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up.
+
+
+***
+![Automattic bbPress](https://cdn.mos.cms.futurecdn.net/iG7MrQqfeNvuV5PJz4XQzD-1200-80.jpg "Automattic bbPress")
+
+
+[Automattic bbPress](https://www.techradar.com/reviews/automattic-bbpress)
+
+
+> WordPress is easily one of the best website builders available due to its incredible versatility. By installing your choice of over 55,000 plugins, you can extend and change the functionality of your WordPress website.One popular WordPress plugin is bbPress. With bbPress, you can quickly add a forum to your WordPress website. It is an open-source project, but Automattic, the company behind WordPress, plays an active role in bbPress's development.In our Automattic bbPress review, we look at whether bbPress is the best solution for a WordPress site that needs an attached forum.
+
+
+***
+![#TECH: Luno introduces Bitcoin cash to Malaysian users](https://assets.nst.com.my/images/articles/botsluno_NSTfield_image_socialmedia.var_1620352857.jpg "#TECH: Luno introduces Bitcoin cash to Malaysian users")
+
+
+[#TECH: Luno introduces Bitcoin cash to Malaysian users](https://www.nst.com.my/lifestyle/bots/2021/05/688506/tech-luno-introduces-bitcoin-cash-malaysian-users)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Download XD: How to try Adobe XD for free or with Creative Cloud](https://cdn.mos.cms.futurecdn.net/zxYRzZjuG7BQSThzyR5fPZ-1200-80.jpg "Download XD: How to try Adobe XD for free or with Creative Cloud")
+
+
+[Download XD: How to try Adobe XD for free or with Creative Cloud](https://www.techradar.com/how-to/try-adobe-xd-for-free-or-with-creative-cloud)
+
+
+> While you may be familiar with many of the best graphic design software programs available, Adobe XD fills a specific niche: it's a user experience design app for creating mobile and web applications. You can design and animate apps using XD for Mac and Windows, then test them out on the accompanying mobile app.XD is part of Adobe's Creative Cloud suite of software and there are multiple options when it comes to accessing it, so you may be wondering which is the most cost-effective route. In this guide, we look at how to download Adobe XD for free, the options for paid subscriptions, and what alternatives are available.
+
+
