@@ -3287,3 +3287,50 @@
 > tips tips tips Twitter doesn't take a cut from your tips. Source: Twitter Twitter has started publicly testing its new Tip Jar feature. Tip Jar is being introduced as part of Twitter's plan to help grow the platform, particularly for influencers. Only certain accounts can accept tips from followers, with "more coming soon..." Twitter has begun publicly testing its tipping feature, dubbed "Tip Jar." The feature is rolling out on mobile devices, including the best Android phones, and allows users to pay for their favorite accounts using various services.
 
 
+***
+![IAN LADYMAN: With pace, poise and power, Phil Foden and Mason Mount are gems of England youth system](https://i.dailymail.co.uk/1s/2021/05/06/21/42668724-9551383-Mason_Mount_is_one_of_the_gems_of_England_s_future-a-37_1620333838491.jpg "IAN LADYMAN: With pace, poise and power, Phil Foden and Mason Mount are gems of England youth system")
+
+
+[IAN LADYMAN: With pace, poise and power, Phil Foden and Mason Mount are gems of England youth system](https://www.amedpost.com/ian-ladyman-with-pace-poise-and-power-phil-foden-and-mason-mount-are-gems-of-england-youth-system/)
+
+
+> There was a moment during the second half of Manchester City's victory against Paris Saint-Germain on Tuesday when Phil Foden took control of the ball, touched it past an opponent and used a turn of speed to take it away from two others. On TV, comparisons were made with the great Lionel Messi but a more appropriate comparison may have been to England's Paul Gascoigne. That is what Gazza used to do in his prime. Elbows carried high like car bumpers, Gascoigne was always just quick enough and strong enough to pull clear into space.
+
+
+***
+![How to find a buyer or seller's Facebook profile on Marketplace](https://mondrian.mashable.com/2021%252F05%252F05%252Fdd%252Fc839d1c7ddb24549ae3a73e177c36005.99358.png%252F1200x630.png?signature=tMzjbZffGVNtpMzOgMy6P6pEyuM= "How to find a buyer or seller's Facebook profile on Marketplace")
+
+
+[How to find a buyer or seller's Facebook profile on Marketplace](https://mashable.com/article/how-to-find-a-facebook-profile-on-marketplace/)
+
+
+> Despite countless reasons to leave Facebook, there's one feature that keeps me on the site: Facebook Marketplace, a section where you can buy and sell items such as furniture, cars, and vintage lamps. Facebook Marketplace is essentially a ripoff of Craigslist with one very big difference: It's linked to your public Facebook profile. While the anonymity of Craigslist is an appeal for some, being able to see who you are selling to or who you are buying something from is preferred by many people.  Historically, Facebook Marketplace has made it very easy to see who exactly you're buying from or selling to by including their full name and a link to their Facebook profile, but I noticed recently that there's been a change to the site's design.
+
+
+***
+![[Breaking News] Police seized and searched the office of Sanghak Park for'spraying a leaflet against North Korea'](https://img.sbs.co.kr/newimg/news/20210430/201546255_1280.jpg "[Breaking News] Police seized and searched the office of Sanghak Park for'spraying a leaflet against North Korea'")
+
+
+[[Breaking News] Police seized and searched the office of Sanghak Park for'spraying a leaflet against North Korea'](https://www.tellerreport.com/tech/2021-05-07-[breaking-news]-police-seized-and-searched-the-office-of-sanghak-park-for-spraying-a-leaflet-against-north-korea-.B1g8vVZGdO.html)
+
+
+> News/Politics 2021-05-03T13:03:12.941Z "I flew 500,000 copies of the North Korean Warfare"... First case after the Shear Prohibition Act Tech/Game 2021-03-29T12:35:49.934Z Seizure and search of former minister's aide... Pocheon public official arrest screening Tech/Game 2021-03-24T12:54:23.700Z Pocheon officials confiscated 4 billion real estate... Investigation of 3 members of the National Assembly Tech/Game 2021-03-24T11:23:20.430Z Pocheon officials confiscated 4 billion real estate... Investigation of 3 members of the National Assembly News/Politics 2021-01-26T16:04:29.
+
+
+***
+[How AI Dungeon, a text adventure game that uses the GPT-3 text generator, can create sex scenes involving children, and why attempts to stop it aren't working (Tom Simonite/Wired)](http://www.techmeme.com/210506/p37#a210506p37)
+
+
+> Tom Simonite / Wired: How AI Dungeon, a text adventure game that uses the GPT-3 text generator, can create sex scenes involving children, and why attempts to stop it aren't working — The game touted its use of the GPT-3 text generator. Then the algorithm started to generate disturbing stories, including sex scenes involving children.
+
+
+***
+![Sony Xperia Pro reaches Europe, pre-orders start](https://fdn.gsmarena.com/imgroot/news/21/05/xperia-pro-europe/-476x249w4/gsmarena_001.jpg "Sony Xperia Pro reaches Europe, pre-orders start")
+
+
+[Sony Xperia Pro reaches Europe, pre-orders start](https://www.gsmarena.com/sony_xperia_pro_reaches_europe_preorders_start-news-48993.php)
+
+
+> Sony's phone-that-is-mainly-a-pro-camera-accessory, the Xperia Pro, was announced way back in February of last year, and it finally launched in the US and Japan this January with a hard to swallow price of $2,500. Today the company is announcing that the Xperia Pro is making it across the pond and over to Europe, where it will be offered in the UK, Germany, and Nordic countries. While Sony has refrained from providing an actual release date for the phone, it has announced that pre-orders have started today in the UK, and will be available until May 13.
+
+
