@@ -3743,3 +3743,50 @@
 > Following confirmation by an Intel employee that Xe-HPG DG2 graphics cards are 'right around the corner,' specs for five different cards across mobile and, potentially, desktop have leaked out courtesy of Igor's Lab. The leak confirms earlier rumors that the flagship model of the DG2 range will feature 512 EUs (execution units) and 16GB of  GDDR6 video memory on a 256-bit bus. This card — tentatively named the DG2-512EU — isn't for desktop, though. Reports suggest Intel is focused on the mobile market, and that DG2 chips were originally planned as part of the Tiger Lake-H platform, which is apparently launching next week.
 
 
+***
+![Java beats out C++, Rust, C#, and golang in gRPC throughput performance](https://external-preview.redd.it/ehV5D_W7c7HFSuR1w-L8mYQfKw-yJxj9lE64qAF9nAI.jpg?auto=webp&s=a6556b12bc9d7ad61f7fe35dac42aa08b488051d "Java beats out C++, Rust, C#, and golang in gRPC throughput performance")
+
+
+[Java beats out C++, Rust, C#, and golang in gRPC throughput performance](https://www.reddit.com/r/programming/comments/n77d7w/java_beats_out_c_rust_c_and_golang_in_grpc/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![SmartThings For Windows 10 Is Now Available But Lacks Some Features](https://www.androidheadlines.com/wp-content/uploads/2019/01/Samsung-Smartthings-AH-NS-02.jpg "SmartThings For Windows 10 Is Now Available But Lacks Some Features")
+
+
+[SmartThings For Windows 10 Is Now Available But Lacks Some Features](https://www.androidheadlines.com/2021/05/smartthings-for-windows-10-is-now-available-but-lacks-some-features.html)
+
+
+> According to 9to5Google Samsung, SmartThings for Windows 10 is finally here. Samsung's SmartThings lets you control your smart connected devices. Since it is now available for Windows 10 a lot of users will be able to control their smart home from their PC while they work.The app is available now on the Microsoft Store. So for any Samsung fans out there, you can swing by the store to install it. Any Samsung SmartThings devices you have are natively supported, so that is a good thing.Natively supported devices include Samsung's sensors, Philips Hue light bulbs, etc.
+
+
+***
+![Medici Land Governance Deploys Systematic Titling, Land Administration and Paperless Land Transfer Systems Across Africa to Support Improved Land Governance](https://mms.businesswire.com/media/20210507005565/en/784745/23/MLG_Logo_-_Color.jpg "Medici Land Governance Deploys Systematic Titling, Land Administration and Paperless Land Transfer Systems Across Africa to Support Improved Land Governance")
+
+
+[Medici Land Governance Deploys Systematic Titling, Land Administration and Paperless Land Transfer Systems Across Africa to Support Improved Land Governance](https://www.businesswire.com/news/home/20210507005565/en/Medici-Land-Governance-Deploys-Systematic-Titling-Land-Administration-and-Paperless-Land-Transfer-Systems-Across-Africa-to-Support-Improved-Land-Governance)
+
+
+> May 07, 2021 03:46 PM Eastern Daylight Time SALT LAKE CITY--(BUSINESS WIRE)--Medici Land Governance (MLG) is cultivating a multifaceted presence on the African continent by helping communities at all levels of governance establish land management and administrative systems using 21st century technology, notably with gender equity and economic parity as priorities. The company aims to create collaborative alliances across municipalities and nation-states on the continent to share exemplary practices for strengthening and enhancing the infrastructure for land governance, which ultimately shapes the path for sustainable growth.
+
+
+***
+![Best cheap Bluetooth speaker deals for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/marshall-tufton-bluetooth-speaker-road.jpg "Best cheap Bluetooth speaker deals for May 2021")
+
+
+[Best cheap Bluetooth speaker deals for May 2021](https://www.digitaltrends.com/dtdeals/best-cheap-bluetooth-speaker-deals/)
+
+
+> If you're out and about hiking, cycling, or just hanging out with friends at a picnic or a pool party, then it's fun to be able to play your favorite tunes. For an easy and portable music solution, a Bluetooth speaker can bring the music everywhere you go, easily linking to your phone or other device. If you look for Bluetooth speakers online, you'll find an almost dizzying range available, and this can be confusing. What is the best option for your money? We can help with this. Our team searches through top online retailers to find the very best deals on quality Bluetooth speakers.
+
+
+***
+[CFTC commitments of traders: The loonie increased by 10K](https://www.forexlive.com/technical-analysis/!/cftc-commitments-of-traders-09-20210507)
+
+
+> Weekly forex futures positioning data from the CFTC for the week ending May 4, 2021 - EUR long 85K vs 81K long last week. Longs increased by 4K - GBP long 20K vs 29K long last week. Longs trimmed by 9K
+
+
