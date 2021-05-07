@@ -3549,3 +3549,50 @@
 > Huawei P40 dealsThe Huawei P40 is a top phone with some fantastic hardware combined to make a stunning experience when it comes to camera, battery life, and a variety of other top-end features you'll want from a modern smartphone.Much like every recent Huawei phone, the P40 is hampered by its software. The Huawei ban in the US has restricted the Chinese company's use of the Google Mobile Services apps, so you're now left with a much more limited experience.That's mostly owing to the lack of Google Play Store functionality, and while the Huawei AppGallery - the company's alternative app store - does offer a number of apps, it's hard for Huawei to compete with the Google behemoth that many developers have flocked to for years.
 
 
+***
+[AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](http://atob.com/careers)
+
+
+> No body in the article.
+
+
+***
+![Someone turned a bulky AirTag into a slimline card for their wallet](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/04/airtag-setup-hero.jpg "Someone turned a bulky AirTag into a slimline card for their wallet")
+
+
+[Someone turned a bulky AirTag into a slimline card for their wallet](https://www.imore.com/someone-turned-bulky-airtag-slimline-card-their-wallet)
+
+
+> Source: Joe Keller / iMore Apple's AirTag is here but it's a little on the bulky side, making it far from suited to living inside a wallet. One YouTuber decided to fix that by dismantling an AirTag and turning it into something much slimmer. Apple's AirTag is now here and it's generally been well received. But there's one problem that we just can't quite get away from – an AirTag is just too bulky to be put into a wallet. That is, it was until one YouTuber decided to fix all that. AirTags are pretty bulbous because they have their PCB and battery sat atop each other.
+
+
+***
+![Nvidia RTX DLSS: Everything you need to know](https://icdn.digitaltrends.com/image/digitaltrends/rtx-2080-vs-2080-ti.jpg "Nvidia RTX DLSS: Everything you need to know")
+
+
+[Nvidia RTX DLSS: Everything you need to know](https://www.digitaltrends.com/computing/everything-you-need-to-know-about-nvidias-rtx-dlss-technology/)
+
+
+> Nvidia has two standout features on its RTX 30-series graphics cards: Ray tracing and DLSS. The PlayStation 5 and Xbox Series X have done a good job introducing most people to ray tracing, but DLSS is still a little nebulous. It's a little complex, but it lets you play a game at a virtualized higher resolution, maintaining greater detail and higher frame rates without taxing your graphics card as much. It gives you the best of all worlds by harnessing the power of machine learning. But there's a little more to the story than that.
+
+
+***
+![What are the best Thunderbolt accessories for iMac in 2021?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/apple_new-imac-spring21_orange.jpg "What are the best Thunderbolt accessories for iMac in 2021?")
+
+
+[What are the best Thunderbolt accessories for iMac in 2021?](https://www.imore.com/best-thunderbolt-accessories-imac)
+
+
+> Best Thunderbolt Accessories for iMac iMore 2021 All iMacs that are for sale now have two Thunderbolt ports available for use. The M1 iMacs have two Thunderbolt/USB-4 ports, while the remaining Intel iMacs have two Thunderbolt 3 ports. Thunderbolt connections are one of the fastest ways to transfer data. There are many Thunderbolt accessories available on the market today, but which are the best to use with your iMac? Let's explore the best Thunderbolt accessories for iMac. Staff Pick If you are looking for external storage that can transfer data at lightning speeds, look no further than the Samsung X5 Portable SSD.
+
+
+***
+![The best car phone holder for your phone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/12/bolt-smart-wireless-charging-car-mount-hero-nophone-lower-alt.jpg "The best car phone holder for your phone")
+
+
+[The best car phone holder for your phone](https://www.androidcentral.com/best-universal-car-mounts)
+
+
+> Best Car Phone Holder Android Central 2021 The best car phone holders make sure your phone is secure and within reach while safely operating your vehicle. When you're on the go, your phone is more than just a tool for keeping in touch. It's your road trip DJ, your trusty navigator, and for safety's sake, you need to mount it up securely. Your hands need to be on the wheel, not your phone, and you don't need to be looking down for directions at highway speeds. We've gathered up a list of some excellent options for universal car phone holders and mounts for your needs.
+
+
