@@ -3509,3 +3509,43 @@
 > COVID-19 vaccine registration: In a bid to help people get vaccinated on time, India's homegrown digital financial services platform Paytm introduced a new tool inside of its main app, which allows users to find available COVID-19 vaccine slots in their area.
 
 
+***
+![AmorePacific withdraws Innisfree business from North America](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/82ab979b62524063a165b35de84b6d4d.jpg "AmorePacific withdraws Innisfree business from North America")
+
+
+[AmorePacific withdraws Innisfree business from North America](https://www.koreatimes.co.kr/www/tech/2021/05/694_308458.html)
+
+
+> AmorePacific's headquarters in Yongsan, Seoul / Korea times fileBy Kim Jae-heunAmorePacific will close all its Innisfree skincare brand stores in North America as of Saturday, the local cosmetic giant said Friday. The company revealed its decision to exit the North American market during a conference call last December; and it shuttered 10 stores in the United States in February.In Canada, the cosmetics firm has already shut two stores ― in the CF Toronto Eaton Centre and CF Markville Mall ― and will close two more ― in the Yorkdale Shopping Centre and Scarborough Town Centre ― by Saturday.
+
+
+***
+![Apple Watch SE review](https://cdn.mos.cms.futurecdn.net/iwRWrqK7Mzie652RwfqrCX-1200-80.jpg "Apple Watch SE review")
+
+
+[Apple Watch SE review](https://www.techradar.com/reviews/apple-watch-se-review)
+
+
+> Before you get stuck into this Apple Watch SE review, think about one thing: what do you actually want from a smartwatch? Because if it's just ‘an Apple Watch', then the Apple Watch SE is an under-rated hit in the making, the better-value smartwatch to get with all the best perks at a great price.However, it doesn't manage to address the flaws that remain in Apple's smartwatch line, despite some notable advantages and a starting price of just $279 / £269 / AU$429. It offers the best of what you'd expect without offering anything new, so you'll be waiting on the fabled Apple Watch SE 2 for any big changes.
+
+
+***
+![Techniques to scale your Relational Databases](https://external-preview.redd.it/FDcbDRuGEDYdgP2rVXcI8ic6j8qDe5H59hJdeeO9S1w.jpg?auto=webp&s=31bbfa9098fdc6e3f24fc3dc9b91b3acf86195b8 "Techniques to scale your Relational Databases")
+
+
+[Techniques to scale your Relational Databases](https://www.reddit.com/r/programming/comments/n6us8k/techniques_to_scale_your_relational_databases/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Huawei P40 review](https://cdn.mos.cms.futurecdn.net/agdg8p7yMjpVeq3frugiM-1200-80.jpg "Huawei P40 review")
+
+
+[Huawei P40 review](https://www.techradar.com/reviews/huawei-p40-review)
+
+
+> Huawei P40 dealsThe Huawei P40 is a top phone with some fantastic hardware combined to make a stunning experience when it comes to camera, battery life, and a variety of other top-end features you'll want from a modern smartphone.Much like every recent Huawei phone, the P40 is hampered by its software. The Huawei ban in the US has restricted the Chinese company's use of the Google Mobile Services apps, so you're now left with a much more limited experience.That's mostly owing to the lack of Google Play Store functionality, and while the Huawei AppGallery - the company's alternative app store - does offer a number of apps, it's hard for Huawei to compete with the Google behemoth that many developers have flocked to for years.
+
+
