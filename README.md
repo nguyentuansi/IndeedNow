@@ -3478,3 +3478,34 @@
 > Facebook has taken down nine networks from six countries in April targeting people with false and deceptive information. The social network removed 1,565 Facebook accounts, 141 Instagram accounts, 724 Pages and 63 Groups. In Palestine, Facebook removed 447 Facebook accounts, 256 Pages, 17 Groups, and 54 Instagram accounts from Palestine that targeted primarily Palestine, and to a lesser extent Lebanon, Turkey, Syria, and Qatar. "In addition, WhatsApp removed multiple accounts that were part of this activity.
 
 
+***
+![Apple tried to stop Netflix from dropping in-app purchases, emails reveal](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Screenshot_2021-05-04_at_1.31._0-647x363.png?aht5q3eDXIwuSR4Z1vvdBJhvGLvTMQiI "Apple tried to stop Netflix from dropping in-app purchases, emails reveal")
+
+
+[Apple tried to stop Netflix from dropping in-app purchases, emails reveal](https://www.indiatoday.in/technology/news/story/apple-tried-to-stop-netflix-from-dropping-in-app-purchases-emails-reveal-1799866-2021-05-07)
+
+
+> The ongoing Epic Games vs Apple trial which puts the latter's App Store policies in the spotlight has revealed emails from the company making attempts to stop streaming giant Netflix from leaving the App Store. The emails from Apple dates back to December 2018 when Netflix dropped new users from signing up for a subscription from Netflix for iPhone app. Apple's internal emails discuss various ways in which Apple and Netflix could find a middle ground and also suggest punitive measures for Netflix.
+
+
+***
+[EUR/JPY Daily Outlook](https://www.actionforex.com/technical-outlook/eurjpy-outlook/377301-eur-jpy-daily-outlook-1106/)
+
+
+> Daily Pivots: (S1) 131.16; (P) 131.50; (R1) 131.94; More…. EUR/JPY recovered after drawing support from 4 hour 55 EMA, but stays below 132.25. Intraday bias remains neutral first. In case of another fall, downside should be contained well above 129.57 support to bring rise resumption. On the upside, break of 132.35 will target 100% projection […] The post EUR/JPY Daily Outlook appeared first on Action Forex.
+
+
+***
+[Intuit: Covid sales bump for the TurboTax maker](https://www.ft.com/content/353e7af9-146f-43c2-aa03-5cc3967e5587)
+
+
+> Let our global subject matter experts broaden your perspective with timely insights and opinions you can't find anywhere else. Choose your subscription Full Terms and Conditions apply to all Subscriptions. Learn more and compare subscriptions
+
+
+***
+[COVID-19 vaccine registration: Follow these simple steps to check available Coronavirus vaccine slots in your area on Paytm app](https://www.zeebiz.com/technology/apps/news-covid-19-vaccine-registration-follow-these-simple-steps-to-check-available-coronavirus-vaccine-slots-in-your-area-on-paytm-app-156269)
+
+
+> COVID-19 vaccine registration: In a bid to help people get vaccinated on time, India's homegrown digital financial services platform Paytm introduced a new tool inside of its main app, which allows users to find available COVID-19 vaccine slots in their area.
+
+
