@@ -3384,3 +3384,53 @@
 > While you may be familiar with many of the best graphic design software programs available, Adobe XD fills a specific niche: it's a user experience design app for creating mobile and web applications. You can design and animate apps using XD for Mac and Windows, then test them out on the accompanying mobile app.XD is part of Adobe's Creative Cloud suite of software and there are multiple options when it comes to accessing it, so you may be wondering which is the most cost-effective route. In this guide, we look at how to download Adobe XD for free, the options for paid subscriptions, and what alternatives are available.
 
 
+***
+![Blue Origin launches first space tourists on July 20](https://media.nu.nl/m/nlwxvi4alsrj_wd1280.jpg/blue-origin-lanceert-eerste-ruimtetoeristen-op-20-juli.jpg "Blue Origin launches first space tourists on July 20")
+
+
+[Blue Origin launches first space tourists on July 20](https://www.tellerreport.com/tech/2021-05-07-blue-origin-launches-first-space-tourists-on-july-20.rkxKhhVz__.html)
+
+
+> Billionaire Jeff Bezos' American space company Blue Origin will launch its first manned rocket on July 20. It is a tourist flight with the New Shepard: a rocket and capsule with space for six people. Billionaire Jeff Bezos' American space company Blue Origin will launch its first manned rocket on July 20. It is a tourist flight with the New Shepard: a rocket and capsule with space for six people. The rocket is designed to lift the capsule to an altitude of 100 kilometers above the Earth. There, people are weightless for a few minutes and can observe the curvature of the Earth, before the capsule returns on its own to land with the help of parachutes.
+
+
+***
+![Battlegrounds Mobile India will need you to get permission from your parents to play if you are under 18](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/battlegrounds_mobile_india_0-647x363.jpeg?C5l8Qj0o1gH5ffznuOEfodL.yz2ROkzN "Battlegrounds Mobile India will need you to get permission from your parents to play if you are under 18")
+
+
+[Battlegrounds Mobile India will need you to get permission from your parents to play if you are under 18](https://www.indiatoday.in/technology/news/story/battlegrounds-mobile-india-will-need-you-to-get-permission-from-your-parents-to-play-if-you-are-under-18-1799758-2021-05-07)
+
+
+> Battlegrounds Mobile India is the new PUBG Mobile for India. Krafton, the parent company, announced it will soon release the new mobile title with a battle royale experience for players in India who have been awaiting the relaunch of PUBG Mobile. But there are going to be discernible changes to Battlegrounds Mobile India, and these changes are more or less an outcome of last year's ban. According to the privacy policy that the company has mentioned on the new website, players below 18 years of age will require permission from their guardian to be able to play Battlegrounds Mobile India.
+
+
+***
+![Pydeal, a GUI interface for the (I)Python shell](https://external-preview.redd.it/SjKfnPsbVI16v7O1n5QMu6c_H95rp874Y99tN-9VCaI.jpg?auto=webp&s=db4345bdd754f52210176c80272f37f95f5fd787 "Pydeal, a GUI interface for the (I)Python shell")
+
+
+[Pydeal, a GUI interface for the (I)Python shell](https://www.reddit.com/r/Python/comments/n6pl08/pydeal_a_gui_interface_for_the_ipython_shell/)
+
+
+> I created Pydeal, which is a relatively lightweight GUI wrapper around the interactive Python shell. It provides simple features like syntax highlighting, autocomplete, displaying documentation, etc., but is much more basic than a full-fledged IDE. It also uses the Jupyter/IPython kernel system, so you can use Pydeal to interact with Python versions in virtual environments, conda environments, etc. You can see a demo video here that gives a brief overview of Pydeal's features.I have been a longtime user of DreamPie, which is a similar tool.
+
+
+***
+![Apple's app store chief fends off attacks in antitrust trial](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/AppStore2.jpg?ve=1&tl=1 "Apple's app store chief fends off attacks in antitrust trial")
+
+
+[Apple's app store chief fends off attacks in antitrust trial](https://www.foxbusiness.com/technology/apples-app-store-chief-fends-off-attacks-in-antitrust-trial)
+
+
+> Apple's top app store executive on Thursday faced an avalanche of documents unleashed Thursday by an Epic Games lawyer aiming to prove allegations that the iPhone maker has been gouging app makers as part of a scheme hatched by Apple's late co-founder Steve Jobs. The confrontation in an Oakland, California, courtroom came during the fourth day of an antitrust trial targeting the empire that Apple has built around its iPhone and the digital storefront that serves as the exclusive outlet for people to install apps on the ubiquitous device.
+
+
+***
+![Google will not allow users to log in without enabling two-step verification](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Screenshot_2021-05-07_at_9.07.-647x363.png?8rHH5256ijzjgpLG_voI63.S3B4RsJjS "Google will not allow users to log in without enabling two-step verification")
+
+
+[Google will not allow users to log in without enabling two-step verification](https://www.indiatoday.in/technology/news/story/google-will-not-allow-users-to-log-in-without-enabling-two-step-verification-1799750-2021-05-07)
+
+
+> In a bid to boost the security and privacy of users, Google will start enrolling users in two-factor authentication by default. The only way to protect your Facebook, WhatsApp and Google account from phishing attacks is by enabling two-factor authentication. Google will start enrolling users for two-step verification automatically if their accounts are appropriately configured.Google in a blog on Thursday announced that the users will have to take two steps to sign-in to their Google accounts. 'Today we ask people who have enrolled in two-step verification (2SV) to confirm it's really them with a simple tap via a Google prompt on their phone whenever they sign in.
+
+
