@@ -3693,3 +3693,53 @@
 > As announced earlier this year, Final Fantasy VII Remake is getting an upgrade on PlayStation 5. That PS5 upgrade is called Final Fantasy VII Remake Intergrade, and as one would imagine, it'll take advantage of the PlayStation 5's more powerful hardware to improve visuals and loading times. Today, Square Enix debuted the final trailer for Final Fantasy VII Remake Intergrade, giving us a look at the PlayStation 5 upgrades in action. The new trailer was published at 60 frames per second in 1080p, so it should give us a good idea of how the game will perform on PlayStation 5.
 
 
+***
+![Best camera 2021: the 18 best cameras you can buy right now](https://cdn.mos.cms.futurecdn.net/Eo5YK8QxYQpPhU2EFZ5PJn-1200-80.jpg "Best camera 2021: the 18 best cameras you can buy right now")
+
+
+[Best camera 2021: the 18 best cameras you can buy right now](https://www.techradar.com/news/best-camera)
+
+
+> Trying to find the best camera for you? There's now a dizzying array of choices on offer, from DSLRs to compact mirrorless cameras and action cams. But whether you're in the market for a premium compact, mirrorless powerhouse or something in between, our in-depth guide will help you find the right one for you.This guide is based on our in-depth testing of every major camera that's come to market and we update it regularly to take into recent news and launches. This means that we can highlight current stars like the Canon EOS R5, while warning you that the Canon EOS R3 is coming later this year.
+
+
+***
+![Make sure you pair your Raspberry Pi with one of the best cases](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/raspberry-pi-case-options-lifestyle.jpg "Make sure you pair your Raspberry Pi with one of the best cases")
+
+
+[Make sure you pair your Raspberry Pi with one of the best cases](https://www.androidcentral.com/best-raspberry-pi-cases)
+
+
+> Best Raspberry Pi Cases Android Central 2021 The Raspberry Pi is an absolutely incredible little computing machine. Powered by Linux, if there's an idea that you can think of, chances are, you'll be able to use a Raspberry Pi to get it done. But there will be times when you need to find the best Raspberry Pi cases, especially if you don't want to use the ones included with the best Raspberry Pi kits. We've rounded up some of our favorites, but really, there are so many great options at your disposal.
+
+
+***
+![Pfizer's FDA Request, Vaccine Diplomacy, and More News](https://media.wired.com/photos/6095522368d4596874a4fd42/191:100/w_1280,c_limit/Science_NL_1232605566.jpg "Pfizer's FDA Request, Vaccine Diplomacy, and More News")
+
+
+[Pfizer's FDA Request, Vaccine Diplomacy, and More News](https://www.wired.com/story/pfizer-fda-request-vaccine-diplomacy-coronavirus-news/)
+
+
+> Pfizer seeks full FDA approval, the US supports waiving IP protections for vaccines, and people in India struggle to get the aid they need. Here's what you should know: Want to receive this weekly roundup and other coronavirus news? Sign up here!HeadlinesPfizer and BioNTech ask the FDA for full approval of its shot for adults, and emergency use for teensThis morning, Pfizer and BioNTech asked the FDA for full approval of their Covid-19 vaccine for Americans 16 and up. The agency granted the shot emergency use authorization in December after it had two months of safety and efficacy data.
+
+
+***
+![HDMI 2.1: What it is, and why your next TV should have it](https://icdn.digitaltrends.com/image/digitaltrends/hdmi-2-1-feat-hed.jpg "HDMI 2.1: What it is, and why your next TV should have it")
+
+
+[HDMI 2.1: What it is, and why your next TV should have it](https://www.digitaltrends.com/home-theater/hdmi-explained-everything-you-need-to-know-news-specs/)
+
+
+> HDMI 2.0 and its newer sibling, HDMI 2.0b, are still the most common versions of the HDMI standard, but in 2021 and beyond, their market share will start to decline as the industry rolls out the latest and greatest version: HDMI 2.1. But because HDMI 2.1 is still so new, you probably have tons of questions. Maybe you're worried about whether your new 4K TV, streaming media player, or 4K Ultra HD Blu-ray player is already out of date. Or maybe you're concerned that you'll need to purchase a bunch of new HDMI cables.
+
+
+***
+![Intel Xe-HPG DG2 leak reveals specs of five graphics cards launching later this year](https://icdn.digitaltrends.com/image/digitaltrends/intel-dg2-concept.jpg "Intel Xe-HPG DG2 leak reveals specs of five graphics cards launching later this year")
+
+
+[Intel Xe-HPG DG2 leak reveals specs of five graphics cards launching later this year](https://www.digitaltrends.com/computing/intel-xe-dg2-leak-five-graphics-cards-launching-this-year/)
+
+
+> Following confirmation by an Intel employee that Xe-HPG DG2 graphics cards are 'right around the corner,' specs for five different cards across mobile and, potentially, desktop have leaked out courtesy of Igor's Lab. The leak confirms earlier rumors that the flagship model of the DG2 range will feature 512 EUs (execution units) and 16GB of  GDDR6 video memory on a 256-bit bus. This card — tentatively named the DG2-512EU — isn't for desktop, though. Reports suggest Intel is focused on the mobile market, and that DG2 chips were originally planned as part of the Tiger Lake-H platform, which is apparently launching next week.
+
+
