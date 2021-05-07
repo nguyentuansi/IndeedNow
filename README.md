@@ -3434,3 +3434,47 @@
 > In a bid to boost the security and privacy of users, Google will start enrolling users in two-factor authentication by default. The only way to protect your Facebook, WhatsApp and Google account from phishing attacks is by enabling two-factor authentication. Google will start enrolling users for two-step verification automatically if their accounts are appropriately configured.Google in a blog on Thursday announced that the users will have to take two steps to sign-in to their Google accounts. 'Today we ask people who have enrolled in two-step verification (2SV) to confirm it's really them with a simple tap via a Google prompt on their phone whenever they sign in.
 
 
+***
+![16" 2020 mbp i9 firefox-only red flickering window fringing _Sometimes_](https://images.macrumors.com/social/?t=2295164&v=6 "16" 2020 mbp i9 firefox-only red flickering window fringing _Sometimes_")
+
+
+[16" 2020 mbp i9 firefox-only red flickering window fringing _Sometimes_](https://forums.macrumors.com/threads/16-2020-mbp-i9-firefox-only-red-flickering-window-fringing-_sometimes_.2295164/)
+
+
+> 8 core i9 64gigs ram, catalina Only when using firefox (official, not community builds). sometimes moving the mouse cursor or typing causes horizontal lines 50% wider than the underscore character to flicker at the top edge of the window. I use alot [sic] of tabs. Screenshot cannot capture it. Other people have witnessed it. Is this is me-only issue?
+
+
+***
+![Bitcoin price updates – Cryptocurrency surge forecast as Dogecoin and Ethereum hit RECORD highs in ‘early sign of rally'](https://www.thesun.co.uk/wp-content/uploads/2021/05/BITCOIN-LATEST-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price updates – Cryptocurrency surge forecast as Dogecoin and Ethereum hit RECORD highs in ‘early sign of rally'")
+
+
+[Bitcoin price updates – Cryptocurrency surge forecast as Dogecoin and Ethereum hit RECORD highs in ‘early sign of rally'](https://www.thesun.co.uk/tech/14848588/bitcoin-price-live-cryptocurrency-ethereum-dogecoin-elon-musk-latest/)
+
+
+> A SURGE in crytpo investment this week has led to Dogecoin and Ethereum reaching yet another all-time high. Currently, Bitcoin is trading at around $56,000 and has seen steady gains in the last few days. Dogecoin is up by nearly 20 per cent over the last 24 hours and by 60 per cent over the last week And the incredible price surge of Ethereum has made its 27-year-old founder a BILLIONAIRE. Vitalik Buterin now has at least $1 billion worth of the cryptocurrency in his main wallet - making him the world's youngest crypto billionaire.
+
+
+***
+[Bitcoin price updates – Cryptocurrency surge forecast as Dogecoin and Ethereum hit RECORD highs in ‘early sign of rally'](https://www.thesun.ie/tech/6943688/bitcoin-price-live-cryptocurrency-ethereum-dogecoin-elon-musk-latest/)
+
+
+> A SURGE in crytpo investment this week has led to Dogecoin and Ethereum reaching yet another all-time high. Currently, Bitcoin is trading at around $56,000 and has seen steady gains in the last few days. Dogecoin is up by nearly 20 per cent over the last 24 hours and by 60 per cent over the […]
+
+
+***
+[A look at misconceptions about bitcoin's energy footprint, including how energy consumption does not equal carbon emissions, its use of unused resources, more (Nic Carter/HBR.org)](http://www.techmeme.com/210507/p1#a210507p1)
+
+
+> Nic Carter / HBR.org: A look at misconceptions about bitcoin's energy footprint, including how energy consumption does not equal carbon emissions, its use of unused resources, more — Summary. — Today, Bitcoin consumes as much energy as a small country. This certainly sounds alarming — but the reality is a little more complicated.
+
+
+***
+![Facebook takes down 9 fake networks from 6 countries for violating policy](https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/08/full/1607421125-746.jpg "Facebook takes down 9 fake networks from 6 countries for violating policy")
+
+
+[Facebook takes down 9 fake networks from 6 countries for violating policy](https://www.business-standard.com/article/technology/facebook-takes-down-9-fake-networks-from-6-countries-for-violating-policy-121050700207_1.html)
+
+
+> Facebook has taken down nine networks from six countries in April targeting people with false and deceptive information. The social network removed 1,565 Facebook accounts, 141 Instagram accounts, 724 Pages and 63 Groups. In Palestine, Facebook removed 447 Facebook accounts, 256 Pages, 17 Groups, and 54 Instagram accounts from Palestine that targeted primarily Palestine, and to a lesser extent Lebanon, Turkey, Syria, and Qatar. "In addition, WhatsApp removed multiple accounts that were part of this activity.
+
+
