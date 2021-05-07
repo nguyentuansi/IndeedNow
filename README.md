@@ -3643,3 +3643,53 @@
 > Source: VIVO Best Monitor Stands iMore 2021 Desktop real estate often comes at a price. Either you have a cluttered workstation that is impossible to keep organized, or you're always looking for things you've had to move out of reach. That's where a monitor stand can help. Our favorite is the VIVO Dual Desk Mount because it pulls your monitors up and out of the way, so you gain more surface area. This isn't the only one that makes our list of favorites. Take a look at this list of the best monitor stands to find one that works for you.
 
 
+***
+![iQOO 7 Legend review in five points: Worthy option for sub-Rs 40,000 range?](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/iqoo-7-legend-review-main-imag_0-647x363.jpeg?kdhKrt3IZZh3pASFcb7gWiSnq0YHIXOF "iQOO 7 Legend review in five points: Worthy option for sub-Rs 40,000 range?")
+
+
+[iQOO 7 Legend review in five points: Worthy option for sub-Rs 40,000 range?](https://www.indiatoday.in/technology/features/story/iqoo-7-legend-review-in-five-points-worthy-option-for-sub-rs-40-000-range-1800075-2021-05-07)
+
+
+> The hotly contested mid-range smartphone segment recently had a strong entrant. That is when iQOO came up with its new iQOO 7 series, offering some top-notch specifications at less than the premium price you usually pay for a flagship phone.The top offering in this two-variant series is the iQOO 7 Legend, promising the best of firepower for extreme performance demands. The company marketed the phone as such, partnering with BMW M Motorsport to come up with a phone that looks a class apart.But just like any other gadget, this does not mean that the device is devoid of any shortcomings.
+
+
+***
+![The Arrests Of Capitol Rioters Per Million People In Each State, Mapped](https://cdn.digg.com/wp-content/uploads/2021/05/07151212/imet3ew2slx61.png "The Arrests Of Capitol Rioters Per Million People In Each State, Mapped")
+
+
+[The Arrests Of Capitol Rioters Per Million People In Each State, Mapped](https://digg.com/2021/capitol-rioter-arrests-in-each-state)
+
+
+> Which state has the highest number of Capitol insurrection-related arrests per capita? At a press event on Thursday, Jake Paul apparently stole Floyd Mayweather's hat and sparked a brawl. Staged or completely real? You decide. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. Irish president Michael D Higgins's pet Misneach, a very playful Bernese mountain dog, kept trying to get his attention during a press conference.
+
+
+***
+![We're Not Sure If This Jake Paul-Floyd Mayweather Brawl Is Staged Or Not, But Watch It Anyway](https://cdn.digg.com/wp-content/uploads/2021/05/07160452/Screen-Shot-2021-05-07-at-12.04.31-PM.jpg "We're Not Sure If This Jake Paul-Floyd Mayweather Brawl Is Staged Or Not, But Watch It Anyway")
+
+
+[We're Not Sure If This Jake Paul-Floyd Mayweather Brawl Is Staged Or Not, But Watch It Anyway](https://digg.com/video/were-not-sure-if-this-jake-paul-floyd-mayweather-tussle-is-staged-or-not-but-watch-it-anyway)
+
+
+> Which state has the highest number of Capitol insurrection-related arrests per capita? At a press event on Thursday, Jake Paul apparently stole Floyd Mayweather's hat and sparked a brawl. Staged or completely real? You decide. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. Irish president Michael D Higgins's pet Misneach, a very playful Bernese mountain dog, kept trying to get his attention during a press conference.
+
+
+***
+![TC Sessions: Mobility 2021 early bird price extended for one more day – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/1day_extension.png?w=711 "TC Sessions: Mobility 2021 early bird price extended for one more day – TechCrunch")
+
+
+[TC Sessions: Mobility 2021 early bird price extended for one more day – TechCrunch](https://techcrunch.com/2021/05/07/tc-sessions-mobility-2021-early-bird-price-extended-for-one-more-day/)
+
+
+> 'I feel the need — the need for speed.' That could be the official mobility startup founder credo, amirite? Speed and agility are important, but don't move so quickly that you miss the chance to save $100 on a pass to TC Sessions: Mobility 2021 on June 9. We've extended our early-bird price for just one more day. Slow your EV roll, reroute your autonomous vehicle or dock your scooter just long enough to buy a pass before the extended deadline expires on May 7, at 11:59 pm (PT). TC Sessions: Mobility is where you'll learn about the latest trends and tech advancements across the mobility spectrum — autonomous trucks, AI, EVs, the future of flight, regulatory issues, micromobility, robotics and more — from the brightest minds, makers and investors around the world.
+
+
+***
+![New Final Fantasy VII Remake Intergrade trailer shows PS5 upgrade in action](https://cdn.slashgear.com/wp-content/uploads/2021/05/Final-Fantasy-VII-Remake-Intergrade-Yuffie.jpg "New Final Fantasy VII Remake Intergrade trailer shows PS5 upgrade in action")
+
+
+[New Final Fantasy VII Remake Intergrade trailer shows PS5 upgrade in action](https://www.slashgear.com/new-final-fantasy-vii-remake-intergrade-trailer-shows-ps5-upgrade-in-action-07671917/)
+
+
+> As announced earlier this year, Final Fantasy VII Remake is getting an upgrade on PlayStation 5. That PS5 upgrade is called Final Fantasy VII Remake Intergrade, and as one would imagine, it'll take advantage of the PlayStation 5's more powerful hardware to improve visuals and loading times. Today, Square Enix debuted the final trailer for Final Fantasy VII Remake Intergrade, giving us a look at the PlayStation 5 upgrades in action. The new trailer was published at 60 frames per second in 1080p, so it should give us a good idea of how the game will perform on PlayStation 5.
+
+
