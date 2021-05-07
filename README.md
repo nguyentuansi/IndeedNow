@@ -3596,3 +3596,50 @@
 > Best Car Phone Holder Android Central 2021 The best car phone holders make sure your phone is secure and within reach while safely operating your vehicle. When you're on the go, your phone is more than just a tool for keeping in touch. It's your road trip DJ, your trusty navigator, and for safety's sake, you need to mount it up securely. Your hands need to be on the wheel, not your phone, and you don't need to be looking down for directions at highway speeds. We've gathered up a list of some excellent options for universal car phone holders and mounts for your needs.
 
 
+***
+![Growing cost of cloud infrastructure troubles many companies](https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg "Growing cost of cloud infrastructure troubles many companies")
+
+
+[Growing cost of cloud infrastructure troubles many companies](https://www.techradar.com/news/growing-cost-of-cloud-infrastructure-troubles-many-companies)
+
+
+> (Image credit: Shutterstock) A recent survey found that many companies have seen their cloud bills go up, likely due to the increase in demand for cloud computing services.Over two-thirds (68%) of respondents of the annual survey conducted by open source database company Percona, say that cloud infrastructure has become more expensive in the past year.The survey also found that large enterprises were most likely to have moved their databases and applications to cloud services, with only 15% of them continuing to run them at their on-premises data center.
+
+
+***
+[Amazon says it will postpone Prime Day in India and Canada due to worsening spread of COVID-19, but the event will go on as planned in June in other countries (Annie Palmer/CNBC)](http://www.techmeme.com/210507/p5#a210507p5)
+
+
+> Annie Palmer / CNBC: Amazon says it will postpone Prime Day in India and Canada due to worsening spread of COVID-19, but the event will go on as planned in June in other countries — - Amazon confirmed to CNBC that it will pause Prime Day in India and Canada as the countries face worsening spread of the coronavirus.
+
+
+***
+![6 new movies and TV shows on Netflix, Disney Plus, HBO Max and more this weekend](https://cdn.mos.cms.futurecdn.net/maWG2JDd5BN4XKj8xaoV3T-1200-80.jpg "6 new movies and TV shows on Netflix, Disney Plus, HBO Max and more this weekend")
+
+
+[6 new movies and TV shows on Netflix, Disney Plus, HBO Max and more this weekend](https://www.techradar.com/news/6-new-movies-and-tv-shows-on-netflix-disney-plus-hbo-max-and-more-this-weekend-may-8-2021)
+
+
+> When it comes to the roster of new movies and TV shows dropping on streaming services throughout the year, not all weekends are created equal. Sure, sometimes we're treated to the likes of Mortal Kombat, Shadow and Bone and Sound of Metal in the space of a few days – but other times, well, not so much. That's not to say the libraries of Netflix, Amazon Prime and Disney Plus are bereft of exciting new content this coming weekend – more Star Wars, anyone? – it's just that the latest arrivals are a little less Godzilla vs.
+
+
+***
+![Is the Samsung Galaxy A52 5G better than Google's Pixel 4a 5G?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/samsung-galaxy-a52-5g-review-washed-out-pixel-4a-comparison.jpg "Is the Samsung Galaxy A52 5G better than Google's Pixel 4a 5G?")
+
+
+[Is the Samsung Galaxy A52 5G better than Google's Pixel 4a 5G?](https://www.androidcentral.com/samsung-galaxy-a52-5g-vs-google-pixel-4a-5g)
+
+
+> Samsung tailored this phone for carriers. As a result, not only do we get a pretty solid phone, whether you're buying it unlocked or with carrier incentives, but we also get a phone that punches above its price point in most categories. Battery life is great, performance is steady most of the time, and even the cameras do pretty decently during the day. The only downside is that the 120Hz screen doesn't get as bright as the competition. $500 at Samsung Larger 120Hz screen Great battery life Four years of security updates IP67 water resistance Tons of carrier incentives No mmWave support Screen washes out Weaker cameras, especially at night The middle child of Google's 2020 lineup is still a great option for 5G on a budget, and with a beefier processor than the A52 5G and support for mmWave on the Verizon model, the Pixel 4a 5G is the more pragmatic pick if you're going to be paying full price.
+
+
+***
+![Rise up and put an end to neck pain with these monitor stands](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/09/vivo-hero-dual-mintors.jpg "Rise up and put an end to neck pain with these monitor stands")
+
+
+[Rise up and put an end to neck pain with these monitor stands](https://www.imore.com/best-monitor-stands)
+
+
+> Source: VIVO Best Monitor Stands iMore 2021 Desktop real estate often comes at a price. Either you have a cluttered workstation that is impossible to keep organized, or you're always looking for things you've had to move out of reach. That's where a monitor stand can help. Our favorite is the VIVO Dual Desk Mount because it pulls your monitors up and out of the way, so you gain more surface area. This isn't the only one that makes our list of favorites. Take a look at this list of the best monitor stands to find one that works for you.
+
+
