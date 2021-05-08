@@ -4139,3 +4139,47 @@
 > The largest Internet providers in the US funded a campaign that generated "8.5 million fake comments" to the Federal Communications Commission as part of the ISPs' fight against net neutrality rules during the Trump administration, according to a report issued Thursday by New York state attorney general Letitia James.This story originally appeared on Ars Technica, a trusted source for technology news, tech policy analysis, reviews, and more. Ars is owned by WIRED's parent company, Condé Nast.Nearly 18 million out of 22 million comments were fabricated, including both pro- and anti-net-neutrality submissions, the report said.
 
 
+***
+[The most durable laptops for 2021](https://www.digitaltrends.com/computing/-most-durable-laptops/)
+
+
+> The most durable laptops available feature ruggedized designs and features that can withstand serious outdoor, industrial, or military work. Here are the best.
+
+
+***
+![Oculus Quest 2 review: The best VR experience](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/oculus-quest-2-wearing-hero.jpg "Oculus Quest 2 review: The best VR experience")
+
+
+[Oculus Quest 2 review: The best VR experience](https://www.androidcentral.com/oculus-quest-2-review)
+
+
+> Source: Nick Sutrich / Android Central When the original Oculus Quest was announced in September 2018, even Facebook didn't expect it to do as well as it did (as evidenced by the fact that it could never keep the Quest in stock). The Oculus Quest experience went beyond what was expected of a VR headset by being more than just affordable — it was as easy to use as a video game console. Since that launch, Facebook has acquired several VR game development studios, brought several developers onboard with its Oculus Store, and changed the paradigm of what people expect from the standalone VR experience.
+
+
+***
+![I made a google search script](https://external-preview.redd.it/0VesJYOGthUiB-FMGTZQ0EmV3I6mvIjQjugYqovbEOE.jpg?auto=webp&s=223a87164fa141e74a1295a97d232023b3fe230b "I made a google search script")
+
+
+[I made a google search script](https://www.reddit.com/r/Python/comments/n7pro9/i_made_a_google_search_script/)
+
+
+> Hi fellow python programmers,I made a simple google search script that finds google search results for queries and speaks the results out loud. I need help to test it out for bugs and your recommendations, suggestions, and stuff. I've seen that this community is very friendly and helpful and I kindly request you to test thing script whenever you are able to do so. anyway, google is not a fan of bots so there can be issues. any help possible would be appreciated.repo link: https://github.com/Anu2001dev/google-searchEdit: the folder structure may look bloated but I am planning to add some AI to the script.
+
+
+***
+![System Services using data even when mobile data is switched off.](https://images.macrumors.com/social/?t=2295336&v=6 "System Services using data even when mobile data is switched off.")
+
+
+[System Services using data even when mobile data is switched off.](https://forums.macrumors.com/threads/system-services-using-data-even-when-mobile-data-is-switched-off.2295336/)
+
+
+> Just noticed this this morning after updated to 14.5.1. Last night, system services had used 131kb. This morning it was 200kb more, all from DNS services. Reset it again and 20 minutes later, it was up to 10kb, all from push notifications. Now the data obviously isn't high, but that is not the issue. How would system services use mobile data given it has been disabled? Anyone else had this issue?
+
+
+***
+[The Colonial Pipeline, which transports roughly 45% of fuel consumed on the US East Coast, says it halted all operations due to a cyberattack (Miguel Bustillo/Wall Street Journal)](http://www.techmeme.com/210508/p8#a210508p8)
+
+
+> Miguel Bustillo / Wall Street Journal: The Colonial Pipeline, which transports roughly 45% of fuel consumed on the US East Coast, says it halted all operations due to a cyberattack — Operator of the Colonial Pipeline, the leading fuel conduit to the East Coast, said it had temporarily halted operations after discovering the threat Friday
+
+
