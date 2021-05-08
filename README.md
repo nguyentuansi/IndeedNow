@@ -4327,3 +4327,53 @@
 > Tage Kene-Okafor / TechCrunch: Report: fintech startups across India, Africa, and Latin America raised a total of $23B since 2017; Indian companies raised $11.6B, including $4.8B just in 2019 — Tech investments in emerging markets have been in full swing over the past couple of years and their ecosystems have thrived as a result.
 
 
+***
+![How to watch Elon Musk's (sure to be cringe) 'Saturday Night Live,' even if you're outside the U.S.](https://mondrian.mashable.com/2021%252F05%252F08%252F57%252F5188977b88264d9da7e39157569d4274.64968.jpg%252F1200x630.jpg?signature=OeHQ1n9H8a3KEboBajlDUP1AfjA= "How to watch Elon Musk's (sure to be cringe) 'Saturday Night Live,' even if you're outside the U.S.")
+
+
+[How to watch Elon Musk's (sure to be cringe) 'Saturday Night Live,' even if you're outside the U.S.](https://mashable.com/article/how-to-watch-elon-musk-saturday-night-live/)
+
+
+> There are plenty of legit reasons to want to see Elon Musk host Saturday Night Live on May 8. For starters, he's a deeply awkward and unfunny person — and that level of cringe has its own sort of twisted appeal. Also, people seem to think he might mention dogecoin, so there's that.  Thankfully, as Musk himself made clear Saturday, it's now easier than ever to tune into the man who thinks people dying in an effort to colonize Mars is a laugh line — no matter where you live. "Special link to view SNL outside USA," wrote the billionaire.
+
+
+***
+![The Colonial Pipeline Hack Is a New Extreme for Ransomware](https://media.wired.com/photos/6096f72d0fb8afb8ea0ae8c0/191:100/w_1280,c_limit/Security-colonial_pipeline-hack-2.jpg "The Colonial Pipeline Hack Is a New Extreme for Ransomware")
+
+
+[The Colonial Pipeline Hack Is a New Extreme for Ransomware](https://www.wired.com/story/colonial-pipeline-ransomware-attack/)
+
+
+> For years, the cybersecurity industry has warned that state-sponsored hackers could shut down large swathes of US energy infrastructure in a geopolitically motivated act of cyberwar. But now apparently profit-focused cybercriminal hackers have inflicted a disruption that military and intelligence agency hackers have never dared to, shutting down a pipeline that carries nearly half the fuel consumed on the East Coast of the United States.On Saturday, the Colonial Pipeline company, which operates a pipeline that carries gasoline, diesel fuel and natural gas along a 5,500 mile path from Texas to New Jersey, released a statement confirming reports that ransomware hackers had hit its network.
+
+
+***
+![Got this weird network logon request today, and really can't understand it.](https://forums.macrumors.com/attachments/screen-shot-2021-05-08-at-9-31-43-am-png.1772020/ "Got this weird network logon request today, and really can't understand it.")
+
+
+[Got this weird network logon request today, and really can't understand it.](https://forums.macrumors.com/threads/got-this-weird-network-logon-request-today-and-really-cant-understand-it.2295390/)
+
+
+> Mar 7, 2007 5,951 2,641 Midwest America. I was looking at something on the 'net, and this error came up. It looks like no message I've ever seen, and it kept going through the whole session as I backed out, page by page on that website. It started after a few sub pages, so I wonder if I tripped into an 'intranet zone' thing, and it got stuck somehow, following me out as I rose to the surface. Does that hypothesis make sense? It was a discrete popup style window, I just trimmed it a little too close.
+
+
+***
+![How to watch SNL with Elon Musk: stream Saturday Night Live online from anywhere today](https://cdn.mos.cms.futurecdn.net/C4z6KDHE5Wj6XJvuMKo63N-1200-80.jpg "How to watch SNL with Elon Musk: stream Saturday Night Live online from anywhere today")
+
+
+[How to watch SNL with Elon Musk: stream Saturday Night Live online from anywhere today](https://www.techradar.com/news/how-to-watch-snl-with-elon-musk-live-stream-saturday-night-live-online-from-anywhere)
+
+
+> (Image credit: NBC) Controversial billionaire Elon Musk hosting live comedy institution Saturday Night Live... what could possibly go wrong!? Read on as we detail how to watch SNL with Elon Musk online and stream Saturday Night Live from anywhere - including for free in some places.The most hotly anticipated - grudgingly in many corners - episode of Saturday Night Live in years sees Elon Musk, the on-off-on-off richest person in the universe take hosting duties. Musk is an enormously divisive figure - a genius who's done more to champion clean energy than almost anyone else, ever, yet also an infantile attention-seeker prone to huge overreactions when things don't go his way.
+
+
+***
+![What is Itch.io? This oddball indie games store is a vital source of creativity.](https://mondrian.mashable.com/2021%252F05%252F08%252F36%252F7a466d1b31024698a2496d4d861e7196.e295b.jpg%252F1200x630.jpg?signature=TI7ice0ZOpuIsoiqrI05XERYmzM= "What is Itch.io? This oddball indie games store is a vital source of creativity.")
+
+
+[What is Itch.io? This oddball indie games store is a vital source of creativity.](https://mashable.com/article/itchio-what-is-it/)
+
+
+> There's a decent chance that you never heard the name "Itch.io" until Apple painted a less-than-complete picture of the indie games store on Friday, during its ongoing legal tussle with Epic Games. The dispute sees two multi-billion dollar companies duking it out over in-app purchasing. Epic contends that Apple's restrictive policy which carves out 30 percent of most in-app sales for the iPhone maker, are anti-competitive and therefore illegal. Apple, meanwhile, maintains that its policy barring competing storefronts from the App Store is necessary and justified by the service it provides in offering a curated and secure experience that is ostensibly free from fraud.
+
+
