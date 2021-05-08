@@ -3867,3 +3867,50 @@
 > Ben Zimmer / Wired: Dr. Fill, a puzzle-solving AI, won the American Crossword Puzzle Tournament last week, the first time AI managed to outscore human solvers at the national event — Dr. Fill, a puzzle-solving automaton, came out victorious at last week's national tournament—but human solvers shouldn't throw in the towel just yet.
 
 
+***
+![Tech men's lacrosse in NAIA title game](https://www.journalgazette.net/images/jgicons/jg_red_250x250.jpg "Tech men's lacrosse in NAIA title game")
+
+
+[Tech men's lacrosse in NAIA title game](https://www.journalgazette.net/sports/colleges/local-colleges/20210507/tech-mens-lacrosse-in-naia-title-game)
+
+
+> SAVANNAH, Ga. – The No. 2-ranked Indiana Tech men's lacrosse team defeated No. 6-ranked University of the Cumberlands in double overtime, 10-9, Friday to advance to the championship game of the NAIA National Invitational at Memorial Stadium. It's the first-ever trip to the national title game for the Warriors. After winning the opening faceoff of the second overtime period, Khanan Bodley found Andrew Ryan wide open on the left-side of the cage for the game-winning goal with 3:09 to go to send the Warriors to the title game.
+
+
+***
+![Disney Plus: Movies, shows, discount bundles and everything else to know](https://www.cnet.com/a/img/_qz5LaEu7bbHjI7QWglAX0Vu9Ek=/1200x630/2021/04/07/43fd4c4c-f882-49f2-a276-c789419dfcf6/010-disney-disney-plus-logo-on-phone-and-ipad-cnet-2021.jpg "Disney Plus: Movies, shows, discount bundles and everything else to know")
+
+
+[Disney Plus: Movies, shows, discount bundles and everything else to know](https://www.cnet.com/news/disney-plus-movies-shows-hulu-discount-bundles/)
+
+
+> Disney Plus has thrived in part thanks to original hits like The Mandalorian, WandaVision and The Falcon and the Winter Soldier. Sarah Tew/CNET Disney Plus has stood out as the breakout success among a wave of new streaming services, thanks in part to its large library of shows and movies and a widening pipeline of originals and exclusives. The biggest ones coming up: Its next Marvel original series, Loki, lands June 9. And after that, in what will be Disney Plus' biggest film release so far, its megabudget Marvel movie Black Widow will be available to stream on Disney Plus for an extra fee the same day it hits theaters July 9.
+
+
+***
+![Apple survey hints at blood glucose monitoring for next Apple Watch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/12/apple-watch-ecg-app-hero.jpg "Apple survey hints at blood glucose monitoring for next Apple Watch")
+
+
+[Apple survey hints at blood glucose monitoring for next Apple Watch](https://www.imore.com/apple-survey-hints-blood-glucose-monitoring-next-apple-watch)
+
+
+> Source: Apple Apple just gave off a potentially big hint about its next Apple Watch. As reported by 9to5Mac, Apple has sent out a new survey to Apple Watch users. Among other questions, the company asks if they use any apps to track their eating habits, medications, and blood glucose levels. A screenshot of the survey was shared with 9to5Mac by a Brazilian reader, who received it in his email on Friday. In the email, Apple says it wants feedback on the Apple Watch user experience, with a link to submit the answers.
+
+
+***
+[US endorses Christchurch Call, an effort to stop the spread of extremist content online, which Big Tech signed on to in 2019 and Trump's White House rejected (Anna Leask/NZ Herald)](http://www.techmeme.com/210507/p18#a210507p18)
+
+
+> Anna Leask / NZ Herald: US endorses Christchurch Call, an effort to stop the spread of extremist content online, which Big Tech signed on to in 2019 and Trump's White House rejected — Anna Leask is a senior reporter for the New Zealand Herald — The United States has joined the Christchurch Call to Action …
+
+
+***
+![Python, How to use if statements!](https://external-preview.redd.it/pY4X1Ly9q-KKn5qZ3jPhwTu6ytLEG0XDj1PJIyVIW4s.jpg?auto=webp&s=2886776d717eb32f989ca6146d430a9d489ec051 "Python, How to use if statements!")
+
+
+[Python, How to use if statements!](https://www.reddit.com/r/Python/comments/n7e27b/python_how_to_use_if_statements/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
