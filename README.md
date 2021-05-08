@@ -4280,3 +4280,50 @@
 > Why storing secrets and passwords in Git is a bad idea–and what to do instead
 
 
+***
+![Scientists at Germany's Karlsruhe Institute of Technology (KIT) claim to have achieved an efficiency of 18% for a perovskite solar module with an area of ​​4cm2 – a world record for a vacuum-processed perovskite panel.](https://external-preview.redd.it/q462xFXS_NI5HVCa6GS0IId-_9sTiuYKKQyweH7Nlv4.jpg?auto=webp&s=a34b5747c67f2695345eb1bdab1d8bdd302bc627 "Scientists at Germany's Karlsruhe Institute of Technology (KIT) claim to have achieved an efficiency of 18% for a perovskite solar module with an area of ​​4cm2 – a world record for a vacuum-processed perovskite panel.")
+
+
+[Scientists at Germany's Karlsruhe Institute of Technology (KIT) claim to have achieved an efficiency of 18% for a perovskite solar module with an area of ​​4cm2 – a world record for a vacuum-processed perovskite panel.](https://www.reddit.com/r/technology/comments/n7x6t8/scientists_at_germanys_karlsruhe_institute_of/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![watch and if you have liked subscribe please](https://external-preview.redd.it/DZP00l3FSMD-3suUff8NJ3iCOkPKkrqCqIhmKMO6rZs.jpg?auto=webp&s=4cfd90b0fe1a861e03c09e503cfd8b964770e766 "watch and if you have liked subscribe please")
+
+
+[watch and if you have liked subscribe please](https://www.reddit.com/r/programming/comments/n7x0gf/watch_and_if_you_have_liked_subscribe_please/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![How to spot a habitable exoplanet by investigating its core](https://icdn.digitaltrends.com/image/digitaltrends/earth-7701.jpg "How to spot a habitable exoplanet by investigating its core")
+
+
+[How to spot a habitable exoplanet by investigating its core](https://www.digitaltrends.com/news/habitable-exoplanets-iron-core/)
+
+
+> UBCO's Brendan Dyck is using his geology expertise about planet formation to help identify other planets that might support life. NASA/Goddard Space Flight Center In the last decade, we've been able to peer out beyond the solar system and to discover planets in systems beyond our own, discovering over 4,000 exoplanets in total. The next challenge to understand these distant worlds is to learn about whether they might be habitable, as many will likely be outside the habitable zone in which liquid water could be present on their surfaces.
+
+
+***
+![Resident Evil Village House Beneviento Guide](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/House%20Beneviento%20Cover%20Photo.jpg?itok=S-HXeeHH "Resident Evil Village House Beneviento Guide")
+
+
+[Resident Evil Village House Beneviento Guide](https://techraptor.net/gaming/guides/resident-evil-village-house-beneviento-guide)
+
+
+> The bulk of Resident Evil Village sees Ethan Winters taking on the Four Lords of the village, trying to obtain each of the lord's vials. After escaping Castle Dimitrescu you'll visit House Beneviento, the domain of the second lord. Once you reach the basement of the house Ethan is sent on one heck of a trip and forced to solve a lengthy puzzle to escape. Luckily, it just takes some piecing together to figure out the order of everything.  Resident Evil Village House Beneviento — Escaping the Basement In the final room of the basement the light will turn off and Ethan will lose all his weapons.
+
+
+***
+[Report: fintech startups across India, Africa, and Latin America raised a total of $23B since 2017; Indian companies raised $11.6B, including $4.8B just in 2019 (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/210508/p11#a210508p11)
+
+
+> Tage Kene-Okafor / TechCrunch: Report: fintech startups across India, Africa, and Latin America raised a total of $23B since 2017; Indian companies raised $11.6B, including $4.8B just in 2019 — Tech investments in emerging markets have been in full swing over the past couple of years and their ecosystems have thrived as a result.
+
+
