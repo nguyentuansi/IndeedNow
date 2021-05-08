@@ -3914,3 +3914,50 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+[WhatsApp privacy policy deadline: No accounts will be deleted on May 15 for not accepting update, says Facebook-owned messaging app](https://www.zeebiz.com/technology/apps/news-whatsapp-deadline-on-privacy-policy-no-accounts-will-be-deleted-on-may-15-for-not-accepting-the-policy-update-says-facebook-owned-messaging-app-156309)
+
+
+> WhatsApp new Policy deadline:  In a big relief for WhatsApp users, Facebook owned messenger has reportedly scrapped its May 15 deadline for users to accept its new policy.
+
+
+***
+![TikTok is still the world's most downloaded app](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-05/tiktok_app_080521-seo.jpg "TikTok is still the world's most downloaded app")
+
+
+[TikTok is still the world's most downloaded app](https://www.malaymail.com/news/tech-gadgets/2021/05/08/tiktok-is-still-the-worlds-most-downloaded-app/1972598)
+
+
+> TikTok was installed 59 million times in April 2021. ― Shutterstock pic via ETX Studio Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, May 8 ― TikTok is still the leader of the pack. The Chinese application is once again the most downloaded non-gaming app worldwide in April 2021, with over 59 million new downloads recorded in the space of a month. The social network outstrips Facebook and Instagram, and saw its largest number of installs in Brazil.
+
+
+***
+![iPad Pro 12.9 3rd Gen display vs MacBook Air M1 display](https://images.macrumors.com/social/?t=2295295&v=6 "iPad Pro 12.9 3rd Gen display vs MacBook Air M1 display")
+
+
+[iPad Pro 12.9 3rd Gen display vs MacBook Air M1 display](https://forums.macrumors.com/threads/ipad-pro-12-9-3rd-gen-display-vs-macbook-air-m1-display.2295295/)
+
+
+> Should the iPad Pro 12.9 3rd generation display look as great as the display on the MacBook Air M1? I have them both and the display on the Air is far superior to the iPad. I think there is something wrong with the iPad. There are not a lot of choices in the settings to change the display. After adjusting and trying everything, I still can't get it to look as great as the Air. The Air has more vibrant colors and is very clear. The iPad seems hazy and the colors don't pop like the Air. I would have never noticed if I hadn't starting using the Air recently.
+
+
+***
+![Nasa Mars helicopter heard humming through planet's thin Martian air](https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/08/full/1620445742-9851.jpg "Nasa Mars helicopter heard humming through planet's thin Martian air")
+
+
+[Nasa Mars helicopter heard humming through planet's thin Martian air](https://www.business-standard.com/article/technology/nasa-mars-helicopter-heard-humming-through-planet-s-thin-martian-air-121050800144_1.html)
+
+
+> First came the amazing pictures, then the video. Now NASA is sharing sounds of its little helicopter humming through the thin Martian air. NASA's Jet Propulsion Laboratory in California released this first-ever audio Friday, just before Ingenuity made its fifth test flight, a short one-way trip to a new airfield. During the fourth flight a week earlier, the low hum from the helicopter blades spinning at more than 2,500 revolutions per minute is barely audible. It almost sounds like a low-pitched, faraway mosquito or other flying insect.
+
+
+***
+![Created a Bot to Help me with School](https://external-preview.redd.it/webI-2OlV7gL6Fr8nmBHCTjMSpBycHYpW6PBr5JFjlA.jpg?auto=webp&s=48e9fe2b461479f5b2719227755cb4b779f7001c "Created a Bot to Help me with School")
+
+
+[Created a Bot to Help me with School](https://www.reddit.com/r/Python/comments/n7fu1k/created_a_bot_to_help_me_with_school/)
+
+
+> I created a bot to automate a learning site. I created this in about 2-5 hours and uses about 340 lines of code and it's not done yet. (email provider I used to create teacher accounts updated their site so id have to fix it later) BTW, this is using selenium python. What it can do: Scrape question and answers for me Create teacher accounts for me (ill be able to get answers with the teacher account) Abuses the "overall time" feature. In order to make my account look good, I made it so the bot answer on a loop to make my account look active Auto answers That's it! Thank you for reading.
+
+
