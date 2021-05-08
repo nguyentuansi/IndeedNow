@@ -3995,3 +3995,53 @@
 > Which programming language was used to build python interpreter from scratch?I want to make a workable mini python like interpreter from scratch , not as hobby but as big project.I want to see a minimalistic python interpreter (but same python workable) not as big today is, this would help me graps more .Thank you for helping me
 
 
+***
+![Floyd Mayweather vs Logan Paul: date, time, card and how to watch a live stream of the fight](https://cdn.mos.cms.futurecdn.net/iAwZTZURdUabDYxSCZq7h5-1200-80.jpg "Floyd Mayweather vs Logan Paul: date, time, card and how to watch a live stream of the fight")
+
+
+[Floyd Mayweather vs Logan Paul: date, time, card and how to watch a live stream of the fight](https://www.techradar.com/news/floyd-mayweather-vs-logan-paul-date-time-card-how-to-watch-live-stream)
+
+
+> (Image credit: Mayweather Promotions) One of the strangest fights ever organized sees retired boxing legend Floyd 'Money' Mayweather - one of the greatest to have ever stepped into the ring - get it on with YouTuber-turned-brawler Logan Paul, who's hoping to make up for a dearth of experience with massive weight, height, reach and age advantages. We're here to explain everything you need to know about Floyd Mayweather vs Logan Paul - including how to watch a Mayweather vs Logan Paul live stream when the time comes.
+
+
+***
+![Elon Musk Says Cryptocurrency Promising But Exercise Caution While Investing](https://i.gadgets360cdn.com/large/elon_musk_masked_reuters_1606893892667.jpg "Elon Musk Says Cryptocurrency Promising But Exercise Caution While Investing")
+
+
+[Elon Musk Says Cryptocurrency Promising But Exercise Caution While Investing](https://gadgets.ndtv.com/internet/news/elon-musk-dogecoin-price-cryptocurrency-promising-caution-invest-tweet-saturday-night-live-snl-2437641)
+
+
+> Elon Musk, the Tesla and SpaceX CEO who is a key proponent in the latest surge of cryptocurrency Dogecoin, has sounded a note of caution for those who are investing or want to invest in cryptocurrency. This comes ahead of his Saturday Night Live (SNL) appearance where he is expected to talk about his support for cryptocurrency and making humanity a multi-planet species. Musk warned his 53 million social media followers against investing their life-savings into cryptocurrency via a tweet, in which he also shared a video of an interview he did with TMZ in February.
+
+
+***
+![Apple AirPods 3 launch soon: Specs, features, India price, and everything we know so far](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/apple_airpods_3_44-483x271_1200_210508130710.jpeg "Apple AirPods 3 launch soon: Specs, features, India price, and everything we know so far")
+
+
+[Apple AirPods 3 launch soon: Specs, features, India price, and everything we know so far](https://www.indiatoday.in/technology/features/story/apple-airpods-3-launch-soon-specs-features-india-price-and-everything-we-know-so-far-1800215-2021-05-08)
+
+
+> Highlights Apple AirPods 3 may launch in the coming weeks. It may feature a U1 chip. It is supposed to feature smaller stems. Rumours around the launch of Apple's upcoming Airpods have been making rounds for quite some time. We had previously heard that the Apple Airpods would make a way in March or during the Spring Loaded event on April 20, both of which never materialized. That being said, strong assumptions are being made about the arrival of Apple AirPods 3 in the coming weeks. In addition to that, Apple may also release Apple Music HiFi alongside.
+
+
+***
+![How to watch Global Citizen VAX Live: Stream the concert live from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/global-citizen-vax-live-hero.jpg "How to watch Global Citizen VAX Live: Stream the concert live from anywhere")
+
+
+[How to watch Global Citizen VAX Live: Stream the concert live from anywhere](https://www.androidcentral.com/how-watch-global-citizen-vax-live-stream-concert-live-anywhere)
+
+
+> With COVID-19 vaccines now beginning to be administered worldwide, Global Citizen is holding a special event to help raise donations and make sure everyone, everywhere has access to a vaccine that could potentially save their life. Hosted by multi-platinum recording artist, actress and producer Selena Gomez, VAX LIVE: The Concert to Reunite the World will air worldwide this weekend in an effort to raise money for the cause and promote equitable distribution of the vaccines around the globe. Global Citizen has also created a website where you can learn more about COVID-19 vaccines.
+
+
+***
+![I lost my AirTag and it was found within 30 minutes](https://cdn.mos.cms.futurecdn.net/GYc7QwkzVzaTd3zyB3payN-1200-80.jpg "I lost my AirTag and it was found within 30 minutes")
+
+
+[I lost my AirTag and it was found within 30 minutes](https://www.techradar.com/news/i-lost-my-airtag-and-it-was-found-within-30-minutes-but-tile-took-a-whole-day)
+
+
+> A key finder like Apple's AirTag or rival Tile, can make the frustration of temporarily misplacing your keys, wallet, bag, or any other possession, a thing of the past. These small devices, also known as location trackers, can be attached to your possessions - then if you can't remember where you left the item, you can use an app on your smartphone to make the key finder emit a noise, making it easier to locate it.But what happens if your phone is too far from the key finder? Both Apple and Tile pride themselves on their community of users (those with the Tile app or a recently-updated iPhone) that can anonymously update your key finder's location if they happen to pass by it.
+
+
