@@ -4230,3 +4230,53 @@
 > (Image credit: Future) Still available on the official Dell store this weekend is what is, perhaps, the best Dell XPS 13 deal we've seen all year - this new 4K touchscreen model for just $949.99 (was $1,699).Yes, that's a whopping $750 saving. This one doesn't just have a fancy screen either, there's also a fairly powerful Intel Core i7-1065G7 processor, 8GB of RAM, and a 256GB SSD hiding under the hood. While that's not the latest processor on the market it's still very, very powerful, and you're still getting the latest chassis design here - one that features a beautiful bezel-less display.
 
 
+***
+![How Duolingo became a $2.4B language unicorn – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/03/duolingo.jpg?w=600 "How Duolingo became a $2.4B language unicorn – TechCrunch")
+
+
+[How Duolingo became a $2.4B language unicorn – TechCrunch](https://techcrunch.com/2021/05/08/how-duolingo-became-a-2-4b-language-unicorn/)
+
+
+> At the heart of Duolingo is its mission: to scale free education and increase income potential through language learning. However, the same mission that has helped it grow to a business valued at $2.4 billion with over 500 million registered learners, has led to tensions that continue to define the business. How do you survive as a startup if you don't want to charge users? How do you design a startup that isn't too hard to lose people, but isn't too easy to compromise education? How do you balance monetization goals while also keeping education as a product free? For my first EC-1, I spent months with Duolingo executives, investors, and of course, competitors, to answer some of these questions.
+
+
+***
+![These are some of the best iPhone 12 cases you can find right now](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/apple_iphone-12_color-blue_10132020.jpg "These are some of the best iPhone 12 cases you can find right now")
+
+
+[These are some of the best iPhone 12 cases you can find right now](https://www.imore.com/best-iphone-12-cases)
+
+
+> Best iPhone 12 Cases iMore 2021 The iPhone 12 sets itself apart from its predecessors with a brand new design, MagSafe charging mechanism, and many sweet new colors (hello Purple!) Protect that beauty with a case, and don't forget the iPhone 12 screen protector. Here are some of the best iPhone 12 cases that you can buy. Staff Favorite This year, Apple's cases for the iPhone 12 lineup come with MagSafe support, meaning they not only support the new magnetic accessories for the iPhone 12, like the wallet attachment and MagSafe charger, but they also just slide and snap onto your iPhone.
+
+
+***
+![PS5 restock: who will have PS5 in stock again? – how to get fast Twitter alerts](https://cdn.mos.cms.futurecdn.net/FKPFKFC4ictBCPWWCrWnSC-1200-80.jpg "PS5 restock: who will have PS5 in stock again? – how to get fast Twitter alerts")
+
+
+[PS5 restock: who will have PS5 in stock again? – how to get fast Twitter alerts](https://www.techradar.com/news/ps5-restock-date-analysis)
+
+
+> Update for Saturday: The next PS5 restock is unlikely to happen over the weekend, but we're tracking Best Buy, Walmart, GameStop, Target and other stores in the US in the new week, care of our own PS5 restock Twitter tracker Matt Swider. Matt has helped nearly 20,000 people buy the PlayStation 5 console even though the supply of the Sony PS5 is said to be 'dire', according to his American retailer sources who wished to remain anonymous (because they rely on Sony for inventory). The good news is that as fresh PS5 restock dates come about, Matt will send you instant alerts – that is, if you follow his Twitter account and turn on notifications.
+
+
+***
+![Will dollar continue its slide this week?](https://www.thehindubusinessline.com/portfolio/technical-analysis/x2o05l/article34517135.ece/ALTERNATES/LANDSCAPE_615/PO09Dollar "Will dollar continue its slide this week?")
+
+
+[Will dollar continue its slide this week?](https://www.thehindubusinessline.com/portfolio/technical-analysis/will-us-dollar-continue-its-slide-this-week/article34517136.ece)
+
+
+> The US Dollar Index witnessed a sharp fall in the US session on Friday. The trigger for the fall came from the US job numbers released on Friday. The US added just 2,66,000 jobs to its Non-Farm Payroll (NFP) for the month of April. Market was expecting close to 1 million jobs to be added for the month. The previous release for the month of March was also revised lower. Earlier, an increase of 9,16,000 jobs in the NFP was reported for March. This was revised lower to 7,70,000 as per the latest release.
+
+
+***
+![Why storing secrets and passwords in Git is a bad idea–and what to do instead](https://external-preview.redd.it/maj2sYLwGhXrGyNJPK8xFGiflbKNfsmugDMLQAjxRd8.jpg?auto=webp&s=cbbfd8fba706c33674d0cfd1eb352161ade05c49 "Why storing secrets and passwords in Git is a bad idea–and what to do instead")
+
+
+[Why storing secrets and passwords in Git is a bad idea–and what to do instead](https://www.reddit.com/r/programming/comments/n7ughn/why_storing_secrets_and_passwords_in_git_is_a_bad/)
+
+
+> Why storing secrets and passwords in Git is a bad idea–and what to do instead
+
+
