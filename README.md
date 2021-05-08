@@ -3961,3 +3961,37 @@
 > I created a bot to automate a learning site. I created this in about 2-5 hours and uses about 340 lines of code and it's not done yet. (email provider I used to create teacher accounts updated their site so id have to fix it later) BTW, this is using selenium python. What it can do: Scrape question and answers for me Create teacher accounts for me (ill be able to get answers with the teacher account) Abuses the "overall time" feature. In order to make my account look good, I made it so the bot answer on a loop to make my account look active Auto answers That's it! Thank you for reading.
 
 
+***
+![How to watch Bonnie Raitt and Sheryl Crow on Fantracks live from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/fantracks-mothers-day-rocks-hero.jpg "How to watch Bonnie Raitt and Sheryl Crow on Fantracks live from anywhere")
+
+
+[How to watch Bonnie Raitt and Sheryl Crow on Fantracks live from anywhere](https://www.androidcentral.com/how-watch-bonnie-raitt-and-sheryl-crow-live-fantracks-stream-mothers-day-concert-anywhere)
+
+
+> Spend the day with mom, Bonnie Raitt, Sheryl Crow, Norah Jones, Alison Krauss, and several other talented musicians this weekend during the Fantracks virtual Mother's Day Rocks concert. This one-day-only event is giving audience members livestream access to back-to-back concerts featuring women who truly rock. The first show of the day is Decades Rock Live Featuring Bonnie Raitt, recorded live at the Taj Mahal in Atlantic City, New Jersey. The event features Bonnie Raitt performing tracks like "Something to Talk About", "Love Letter", "You" and "I Don't Want Anything to Change" with her talented friends such as Norah Jones, Ben Harper, Alison Krauss, Keb' Mo' and Jon Cleary.
+
+
+***
+[Prescient, a North Carolina-based startup that makes architectural software, raises $190M from JE Dunn and Eldridge, bringing its total raised to around $295M (Zachery Eanes/Raleigh News & Observer)](http://www.techmeme.com/210508/p3#a210508p3)
+
+
+> Zachery Eanes / Raleigh News & Observer: Prescient, a North Carolina-based startup that makes architectural software, raises $190M from JE Dunn and Eldridge, bringing its total raised to around $295M — Prescient, a North Carolina-based startup that makes architectural software, said Monday it has raised $190 million from investors …
+
+
+***
+![I created a youtube video Downloader from python](https://external-preview.redd.it/FgX34o2aa11-4i4Uo7QEdA6dKaFS8CeCQ9Ez0gJZG6Y.jpg?auto=webp&s=d57fc7c4a729f79c0c88065fed32b763bcd429e4 "I created a youtube video Downloader from python")
+
+
+[I created a youtube video Downloader from python](https://www.reddit.com/r/Python/comments/n7i97a/i_created_a_youtube_video_downloader_from_python/)
+
+
+> You can download video (MP4 or MP3) just by its title (you don't even need an actual link). Watch it here - https://youtu.be/64NSIXwgfl0. The code is on the video descriptionYT downloader
+
+
+***
+[Where can i get python interpreter source code? I want to tinker it](https://www.reddit.com/r/Python/comments/n7i82e/where_can_i_get_python_interpreter_source_code_i/)
+
+
+> Which programming language was used to build python interpreter from scratch?I want to make a workable mini python like interpreter from scratch , not as hobby but as big project.I want to see a minimalistic python interpreter (but same python workable) not as big today is, this would help me graps more .Thank you for helping me
+
+
