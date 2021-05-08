@@ -3830,3 +3830,40 @@
 > There's no better place than the best 4K monitors to watch movies, videos, and games in 4K resolution. Everything is sharper and more detailed on one of these compared to 1080p and 1440p displays. That's not to mention that they come with some other advantages such as more screen real estate that help streamline creative workflows and multitasking.UHD is quickly becoming the norm, as more and more content comes in 4K and desktop PCs make huge leaps in performance capabilities, thanks to GPUs like the Nvidia Geforce RTX 3080.
 
 
+***
+![WhatsApp delays enforcing new privacy terms](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-05/whatsapp_080521-seo.jpg "WhatsApp delays enforcing new privacy terms")
+
+
+[WhatsApp delays enforcing new privacy terms](https://www.malaymail.com/news/tech-gadgets/2021/05/08/whatsapp-delays-enforcing-new-privacy-terms/1972560)
+
+
+> The platform had claimed the update was chiefly aimed at merchants who use WhatsApp to chat with customers ― allowing them to share data with Facebook. ― AFP pic via ETX Studio Subscribe to our Telegram channel for the latest updates on news you need to know. SAN FRANCISCO, May 8 ― Facebook-owned messaging colossus WhatsApp yesterday retreated again from its plan to force users to accept new terms which critics said could expand data collection from its two billion users around the world. WhatsApp, which was set to enforce its new data-sharing policy on May 15 ― following a delay in response to a user outcry ― revealed on its website that it would not immediately cut off users who don't accept the new terms, although it would send reminders to those who don't opt in.
+
+
+***
+![China's youth turn to Chairman Mao's writings for comfort after tech executive says they sleep too much](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/07/2d580ce6-af18-11eb-9c9f-63ba12e765d1_image_hires_183407.jpg?itok=TQBNFg9W&v=1620383659 "China's youth turn to Chairman Mao's writings for comfort after tech executive says they sleep too much")
+
+
+[China's youth turn to Chairman Mao's writings for comfort after tech executive says they sleep too much](https://www.scmp.com/tech/tech-trends/article/3132678/chinas-youth-turn-chairman-maos-writings-comfort-after-tech)
+
+
+> A police officer wearing a face mask stands guard under a giant portrait of the late Chinese chairman Mao Zedong at the Tiananmen Gate in Beijing, China, 2020. Photo: Reuters
+
+
+***
+![scons...doit...invoke...When will the Holy Grail Arrive?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "scons...doit...invoke...When will the Holy Grail Arrive?")
+
+
+[scons...doit...invoke...When will the Holy Grail Arrive?](https://www.reddit.com/r/Python/comments/n7chi4/sconsdoitinvokewhen_will_the_holy_grail_arrive/)
+
+
+> Probably every 2-3 years I check to see if somebody has launched a really great Python framework for dependency-based task execution. Something like make but pythonic. I've spent enough time with doit to know its good enough for most things. But its inability to support parallel execution is going to be a problem, so I went looking again. Then I found Invoke, which looks like the next beauty queen. Only it doesn't perform dependency checking? Seriously? Anybody else have a favorite I should look
+
+
+***
+[Dr. Fill, a puzzle-solving AI, won the American Crossword Puzzle Tournament last week, the first time AI managed to outscore human solvers at the national event (Ben Zimmer/Wired)](http://www.techmeme.com/210507/p17#a210507p17)
+
+
+> Ben Zimmer / Wired: Dr. Fill, a puzzle-solving AI, won the American Crossword Puzzle Tournament last week, the first time AI managed to outscore human solvers at the national event — Dr. Fill, a puzzle-solving automaton, came out victorious at last week's national tournament—but human solvers shouldn't throw in the towel just yet.
+
+
