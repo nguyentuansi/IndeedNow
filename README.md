@@ -4045,3 +4045,50 @@
 > A key finder like Apple's AirTag or rival Tile, can make the frustration of temporarily misplacing your keys, wallet, bag, or any other possession, a thing of the past. These small devices, also known as location trackers, can be attached to your possessions - then if you can't remember where you left the item, you can use an app on your smartphone to make the key finder emit a noise, making it easier to locate it.But what happens if your phone is too far from the key finder? Both Apple and Tile pride themselves on their community of users (those with the Tile app or a recently-updated iPhone) that can anonymously update your key finder's location if they happen to pass by it.
 
 
+***
+![Chinese rocket tracker LIVE: Booster could CRASH into Earth this weekend as US won't shoot it down](https://www.thesun.co.uk/wp-content/uploads/2021/05/Chinese-rocket.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Chinese rocket tracker LIVE: Booster could CRASH into Earth this weekend as US won't shoot it down")
+
+
+[Chinese rocket tracker LIVE: Booster could CRASH into Earth this weekend as US won't shoot it down](https://www.thesun.co.uk/tech/14890450/chinese-rocket-tracker-live-crash/)
+
+
+> EXPERTS are rushing to determine where the Chinese rocket part will land after it went out of control after its launch. China launched its first space station on Thursday in the first of 11 missions that will see a three-person crew sent up by the end of 2022. But the rocket part that broke off as planned was due to have a controlled re-entry - until Chinese authorities lost the ability to. It is now circling the Earth and is expected to crash land on our planet this weekend, with scientists trying to pinpoint the exact location it will hit.
+
+
+***
+[Technical Insight: McLaren joins the ‘Z-floor' trend in Spain](http://www.f1reader.com/news/technical-insight-mclaren-joins-the-z-floor-trend-in-spain-277415)
+
+
+> [MotorSportWeek.com] McLaren is aware it has a car which can once again claim third place in the Constructor's Championship, but the margins to those behind remain very tight and it is therefore locked into a development battle to ensure it maintains its slim lead. The potential of the MCL35M has been exploited by Lando Norris, who […]
+
+
+***
+![Huawei and NUST collaborate to develop AI-enabled talent in Pakistan](https://sm.mashable.com/t/mashable_pk/photo/default/nust-huawei_n3ve.1200.jpg "Huawei and NUST collaborate to develop AI-enabled talent in Pakistan")
+
+
+[Huawei and NUST collaborate to develop AI-enabled talent in Pakistan](https://pk.mashable.com/tech/9376/huawei-and-nust-collaborate-to-develop-ai-enabled-talent-in-pakistan)
+
+
+> A memorandum of understanding (MoU) has been signed between Huawei Pakistan and the National University of Sciences and Technology (NUST) to collaborate in the development of talent within Pakistan's artificial intelligence (AI) sector. The memorandum reaffirms an existing five-year healthy relationship between both entities, said the statement issued by the Chinese manufacturer. Under the MoU, Huawei will be sharing all the recent AI research with the NUST faculty and students so that they may benefit from the most secure, advanced solutions to improve the value of their academic programs.
+
+
+***
+![Get 60GB of data for just £11 a month with this cheap Vodafone SIM only deal](https://cdn.mos.cms.futurecdn.net/M59rfutRhLYoFet7arYW6L-1200-80.jpg "Get 60GB of data for just £11 a month with this cheap Vodafone SIM only deal")
+
+
+[Get 60GB of data for just £11 a month with this cheap Vodafone SIM only deal](https://www.techradar.com/news/get-60gb-of-data-for-just-pound11-a-month-with-this-cheap-vodafone-sim-only-deal)
+
+
+> (Image credit: Future) When going for big data SIM only deals, you often have to end up spending a lot to get them. However, a couple of offers from the retailer Mobiles.co.uk help to combat this issue.Mobiles.co.uk can currently get you 60GB of data for just £11 a month on the Vodafone network. While that alone would make this a pretty excellent offer, it does actually get better.Mobiles.co.uk is also throwing cashback in with this tariff. You can choose to take £90 in cashback, bringing your bills down to just £11 a month but having to claim this cashback back in five instalments across 18 months.
+
+
+***
+![Do you remember your first phone? We look back on our early mobiles](https://cdn.mos.cms.futurecdn.net/KwRfoXJo5EFGi92HCv3ZDJ-1200-80.jpg "Do you remember your first phone? We look back on our early mobiles")
+
+
+[Do you remember your first phone? We look back on our early mobiles](https://www.techradar.com/news/do-you-remember-your-first-phone)
+
+
+> Forget the iPhone 12 Pro Max, Samsung Galaxy S21 Ultra and OnePlus 9 Pro, and come take a trip down memory lane with the TechRadar team, as we look back and remember our first mobile phones.We'd love to hear about your first phones too, so tweet us @TechRadar and use the hashtag #MyFirstPhone to tell us all about your first handset.So from Siemens, Ericsson, Samsung and Motorola, through to a whole host of Nokias, these are the TechRadar team's first phones.Motorola T180John McCann, Global Managing EditorLaunched in 2000, the Motorola T180 was my first mobile phone.
+
+
