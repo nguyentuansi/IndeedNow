@@ -4092,3 +4092,50 @@
 > Forget the iPhone 12 Pro Max, Samsung Galaxy S21 Ultra and OnePlus 9 Pro, and come take a trip down memory lane with the TechRadar team, as we look back and remember our first mobile phones.We'd love to hear about your first phones too, so tweet us @TechRadar and use the hashtag #MyFirstPhone to tell us all about your first handset.So from Siemens, Ericsson, Samsung and Motorola, through to a whole host of Nokias, these are the TechRadar team's first phones.Motorola T180John McCann, Global Managing EditorLaunched in 2000, the Motorola T180 was my first mobile phone.
 
 
+***
+[Bitcoin price updates – Elon Musk to host Saturday Night Live tonight as Dogecoin value hits record high](https://www.thesun.ie/tech/6943688/bitcoin-price-live-cryptocurrency-ethereum-dogecoin-elon-musk-latest/)
+
+
+> ELON Musk will host Saturday Night Live tonight amid claims he will take the opportunity to play a little investing game. Ed Moya, a senior market analyst with online trading firm Oanda, said: “Musk will undoubtedly have a sketch on cryptocurrencies that will probably go viral for days and further motivate his army of followers […]
+
+
+***
+![Finder is being very slow to move files and to respond generally](https://images.macrumors.com/social/?t=2295326&v=6 "Finder is being very slow to move files and to respond generally")
+
+
+[Finder is being very slow to move files and to respond generally](https://forums.macrumors.com/threads/finder-is-being-very-slow-to-move-files-and-to-respond-generally.2295326/)
+
+
+> I'm on an iMac 2015, 8GB Ram. Big Sur, latest upgrade. It runs fine with apps, but Finder is a real headache. Moving files takes forever. I mean like many minutes. The rainbow wheel spinning away. Copying files if not longer. It starts by saying "Preparing to copy files" and does not come back for minutes. Opening a folder shows a Blank folder for up to a few minutes if there is a lot of content. Up to a minute for a blank folder. It's almost unusable in this state. iCloud brings files up and down no problem, but the moment I go near Finder, it all goes to pot.
+
+
+***
+![Lowkey (YC S18) is hiring senior engineers (full-stack and iOS) who like games](https://www.notion.so/images/meta/default.png "Lowkey (YC S18) is hiring senior engineers (full-stack and iOS) who like games")
+
+
+[Lowkey (YC S18) is hiring senior engineers (full-stack and iOS) who like games](https://www.notion.so)
+
+
+> No body in the article.
+
+
+***
+![Microsoft's 15-Inch Surface Laptop 4 Is a Battery Champion](https://media.wired.com/photos/608aea9cf2564ec31ad3ea00/191:100/w_1280,c_limit/Gear-Surface-Laptop-4-front-SOURCE-Microsoft.jpg "Microsoft's 15-Inch Surface Laptop 4 Is a Battery Champion")
+
+
+[Microsoft's 15-Inch Surface Laptop 4 Is a Battery Champion](https://www.wired.com/review/microsoft-surface-laptop-4/)
+
+
+> Microsoft's Surface Laptop 4 is everything I'd hoped the previous version would be, which is to say an excellent all-around, well-made machine with a speedy AMD chip. It isn't the most powerful laptop around, nor is it the cheapest, but it's powerful enough for most people and wraps Windows in a package that competes well with Apple's hardware.Same Package, Better PerformanceThe Surface Laptop 4 looks like the Surface Laptop 3. Technically, it's slightly thinner, but unless they're side by side, you won't notice.
+
+
+***
+![ISPs Funded 8.5 Million Fake Comments Opposing Net Neutrality](https://media.wired.com/photos/6095c2bd8abaca72c07069d3/191:100/w_1280,c_limit/Sec_ars-892329934.jpg "ISPs Funded 8.5 Million Fake Comments Opposing Net Neutrality")
+
+
+[ISPs Funded 8.5 Million Fake Comments Opposing Net Neutrality](https://arstechnica.com/tech-policy/2021/05/biggest-isps-paid-for-8-million-fake-fcc-comments-opposing-net-neutrality/)
+
+
+> The largest Internet providers in the US funded a campaign that generated "8.5 million fake comments" to the Federal Communications Commission as part of the ISPs' fight against net neutrality rules during the Trump administration, according to a report issued Thursday by New York state attorney general Letitia James.This story originally appeared on Ars Technica, a trusted source for technology news, tech policy analysis, reviews, and more. Ars is owned by WIRED's parent company, Condé Nast.Nearly 18 million out of 22 million comments were fabricated, including both pro- and anti-net-neutrality submissions, the report said.
+
+
