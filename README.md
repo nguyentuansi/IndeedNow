@@ -4183,3 +4183,50 @@
 > Miguel Bustillo / Wall Street Journal: The Colonial Pipeline, which transports roughly 45% of fuel consumed on the US East Coast, says it halted all operations due to a cyberattack — Operator of the Colonial Pipeline, the leading fuel conduit to the East Coast, said it had temporarily halted operations after discovering the threat Friday
 
 
+***
+[WhatsApp Won't Deactivate Your Account If Privacy Policy Is Not Accepted By Deadline](https://www.redmondpie.com/whatsapp-wont-deactivate-your-account-if-privacy-policy-is-not-accepted-by-deadline/)
+
+
+> WhatsApp won't deactivate your account if the new privacy policy is not accepted by deadline. Here are all the details. [ Continue reading this over at RedmondPie.com ]
+
+
+***
+![[Breaking News] Former Police Commissioner Cho Hyun-oh for'bribery' confirmed two years and six months in prison](https://img.sbs.co.kr/newimg/news/20210507/201548638_1280.jpg "[Breaking News] Former Police Commissioner Cho Hyun-oh for'bribery' confirmed two years and six months in prison")
+
+
+[[Breaking News] Former Police Commissioner Cho Hyun-oh for'bribery' confirmed two years and six months in prison](https://www.tellerreport.com/tech/2021-05-08-[breaking-news]-former-police-commissioner-cho-hyun-oh-for-bribery--confirmed-two-years-and-six-months-in-prison.HkW2UD4NdO.html)
+
+
+> Tech/Game 2021-05-08T09:58:40.383Z [Interview file] "Is this going to happen?"... 'K-vaccine app' penetrated by college students â‘¡ Tech/Game 2021-05-08T07:14:27.242Z Google changes the way you log in to Gmail: your password will no longer be enough Tech/Game 2021-05-08T07:13:23.887Z Mark Millar, creator of Jupiter's Legacy: "There are more options for there to be a Super League than for me to return to work at Marvel or DC" Tech/Game 2021-05-08T14:05:16.477Z Google Play Store will show what data apps collect Tech/Game 2021-05-08T11:36:12.
+
+
+***
+![Hey r/programming! I made this tutorial to show you how to create a Professional Looking Dashboard for your Arduino for FREE by using Cayenne! This Dashboard allows you to Monitor and Control your Arduino from Anywhere over the Internet!](https://external-preview.redd.it/oykiNxFfZx6XpTDgl8a9xXZpJasD73Cj-ium2sVtLLU.jpg?auto=webp&s=156a248c2d8f41b7a02aeecab6ea0bc7aafd4a91 "Hey r/programming! I made this tutorial to show you how to create a Professional Looking Dashboard for your Arduino for FREE by using Cayenne! This Dashboard allows you to Monitor and Control your Arduino from Anywhere over the Internet!")
+
+
+[Hey r/programming! I made this tutorial to show you how to create a Professional Looking Dashboard for your Arduino for FREE by using Cayenne! This Dashboard allows you to Monitor and Control your Arduino from Anywhere over the Internet!](https://www.reddit.com/r/programming/comments/n7sejj/hey_rprogramming_i_made_this_tutorial_to_show_you/)
+
+
+> Hey r/programming! I made this tutorial to show you how to create a Professional Looking Dashboard for your Arduino for FREE by using Cayenne! This Dashboard allows you to Monitor and Control your Arduino from Anywhere over the Internet!
+
+
+***
+![Hear the sounds of Mars in first-ever audio recording of Ingenuity in flight](https://icdn.digitaltrends.com/image/digitaltrends/pia23720-noborder-width-12801.jpg "Hear the sounds of Mars in first-ever audio recording of Ingenuity in flight")
+
+
+[Hear the sounds of Mars in first-ever audio recording of Ingenuity in flight](https://www.digitaltrends.com/news/mars-ingenuity-audio/)
+
+
+> NASA's Ingenuity helicopter has been making history as the first aircraft to fly on another planet, but its companion rover Perseverance has been setting records of its own as well. Perseverance was able to record audio of the Ingenuity helicopter in action, making it the first spacecraft to record the sounds of another spacecraft on another planet. The recording was taken during Ingenuity's fourth test flight on April 30. In the video, you can hear a low rumble caused by the wind on Mars as it blows past the rover.
+
+
+***
+![Save $750 and bag a 4K touchscreen in one of the best Dell XPS 13 deals ever](https://cdn.mos.cms.futurecdn.net/YSX22nmBtW2AdtY2UjBFDb-1200-80.jpg "Save $750 and bag a 4K touchscreen in one of the best Dell XPS 13 deals ever")
+
+
+[Save $750 and bag a 4K touchscreen in one of the best Dell XPS 13 deals ever](https://www.techradar.com/news/save-dollar750-and-bag-a-4k-touchscreen-model-in-one-of-the-best-dell-xps-13-deals-ever)
+
+
+> (Image credit: Future) Still available on the official Dell store this weekend is what is, perhaps, the best Dell XPS 13 deal we've seen all year - this new 4K touchscreen model for just $949.99 (was $1,699).Yes, that's a whopping $750 saving. This one doesn't just have a fancy screen either, there's also a fairly powerful Intel Core i7-1065G7 processor, 8GB of RAM, and a 256GB SSD hiding under the hood. While that's not the latest processor on the market it's still very, very powerful, and you're still getting the latest chassis design here - one that features a beautiful bezel-less display.
+
+
