@@ -4662,3 +4662,44 @@
 > (Image credit: Future) Most cutting edge technology starts off expensive and then gets cheaper over time, and that's likely to be the case for foldable phones as well – and a new leak suggests that the Samsung Galaxy Z Flip 3 might not cost quite as much as its predecessor.The 5G-ready Galaxy Z Flip that launched in June 2020 originally retailed for $1,449 / £1,399 / AU$2,599, but a new leak from tipster @FrontTron on Twitter suggests that the next clamshell-style foldable from Samsung is going to sell for $999-$1,199.
 
 
+***
+![Arrow function in JavaScript](https://external-preview.redd.it/4lrYrPajiMMdOmNjgLayoBgW0w9urv1tK_ussyWeYV4.jpg?auto=webp&s=c78d68823c262b1ae2f6bb29ca45084c63ebec11 "Arrow function in JavaScript")
+
+
+[Arrow function in JavaScript](https://www.reddit.com/r/programming/comments/n8ctkj/arrow_function_in_javascript/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Tenet is now on HBO Max and Sky – and Nolan's take on Bond deserves a second chance](https://cdn.mos.cms.futurecdn.net/GoRphaVx9XNQgtHSrRZ8hB-1200-80.jpg "Tenet is now on HBO Max and Sky – and Nolan's take on Bond deserves a second chance")
+
+
+[Tenet is now on HBO Max and Sky – and Nolan's take on Bond deserves a second chance](https://www.techradar.com/news/now-tenet-is-on-hbo-max-and-sky-nolans-movie-deserves-a-second-chance)
+
+
+> The biggest shock at the 2021 Oscars was probably Anthony Hopkins winning Best Actor over the late Chadwick Boseman. Second place, though – at least if you ask me – has to go to the injustice of Tenet missing out on a nomination for Best Original Score. Ludwig Göransson (the composer of the toe-tapping theme to The Mandalorian you like so much) created an innovative, thrilling soundtrack that even goes backwards at key moments, to reflect the characters' own journeys through time in the film. Tenet's score is one thing about the Christopher Nolan's Bond-esque sci-fi thriller that I recommend unconditionally.
+
+
+***
+[Ransomware gangs get more aggressive against law enforcement](https://www.mymotherlode.com/news/technology/1716707/ransomware-gangs-get-more-aggressive-against-law-enforcement.html)
+
+
+> Criminal hackers are now using increasingly brazen methods to try to extort money from law enforcement agencies, including leaking or threatening to leak highly sensitive and potentially life-threatening information
+
+
+***
+[(Program)](https://www.sweclockers.com/forum/trad/1634629-program-autohdr-aktivera-hdr-i-win10-per-spel)
+
+
+> Som ni vet är HDR i win10 minst sagt problematiskt. När det aktiveras så kan det bli en grå hinna över hela skärmen. Extra drygt är det att behöva aktivera det i win innan ett spel startar för för att kunna aktivera HDR i options och sen avaktivera igen efter. Jag hittade ett litet program vid namn AutoHDR som gör att det inte behövs. Det är skamligt att Microsoft inte fixat detta själva än. Förhoppningsvis kommer det en fix senare. https://camo.githubusercontent.com/e3e9816a4d0e7ddbb6bc30c6a8a2316349aa3718fad5a94ae37f9222dd1f4e79/68747470733a2f2f7261772e6769746875622e636f6d2f436f646563746f72792f4175746f4844522f6d61696e2f53637265656e73686f74732f5374617475735f312d362d302e706e67 https://camo.
+
+
+***
+[Screen Reactive LEDs (diy philips HUE) using arduino and python](https://www.reddit.com/r/Python/comments/n8ckks/screen_reactive_leds_diy_philips_hue_using/)
+
+
+> ​ https://reddit.com/link/n8ckks/video/df6pymv113y61/player ​ This is based on an arduino-python project. the arduino is connected to 2 RGB leds. The python Script reads the color on the left and right sids of the screen and sends them to the left and right LED on the arduino. You can find the detailed description here and code: https://hridaybarot.home.blog/2021/05/09/screen-reactive-leds/ ​ If you liked this project check out my: Blog: https://hridaybarot.home.blog/blog-feed/ Youtube: https://www.
+
+
