@@ -4615,3 +4615,50 @@
 > The headquarters of Hyundai Motor and Kia, both affiliates of Hyundai Motor Group, in southern Seoul / Korea Times fileBy Yi Whan-wooDespite their strong performance in the first quarter, the country's two leading automakers are facing potential setbacks in the second quarter amid a worsening shortage of automotive chips."Cutting production will be inevitable in the second quarter," an analyst said, forecasting that production will be "severely disrupted as early as in May."In the first quarter, Hyundai Motor saw its operating profit increase 91.
 
 
+***
+![How to watch Juventus vs AC Milan: Live stream Serie A online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/juventus-ac-milan.jpg "How to watch Juventus vs AC Milan: Live stream Serie A online")
+
+
+[How to watch Juventus vs AC Milan: Live stream Serie A online](https://www.androidcentral.com/juventus-vs-ac-milan-live-stream-how-watch-serie-online-anywhere)
+
+
+> With a defeat for either side likely to see the loser miss out on qualification for next year's Champions League, the stakes couldn't be higher for both teams going into this massive Serie A clash in Turin. Follow our guide below on how to get a Juventus vs AC Milan live stream and watch Italian football online no matter where you are in the world. Source: Android Central Both teams come into the game level on 69 points with second-placed Atalanta. Both Napoli on 67 and Lazio, who have a game in hand, on 64 are breathing down their necks, meaning the risk of missing out on a crucial top-four spot for both Juve and Milan is palpable.
+
+
+***
+![XGIMI Horizon Pro 4K projector review](https://cdn.mos.cms.futurecdn.net/YWfcLCRcLBh2G77PkYLTN8-1200-80.jpg "XGIMI Horizon Pro 4K projector review")
+
+
+[XGIMI Horizon Pro 4K projector review](https://www.techradar.com/reviews/xgimi-horizon-pro-4k-projector)
+
+
+> XGIMI's Horizon Pro is its flagship 4K HDR projector, and for good reason. With impressive 2,200 lumens brightness, excellent 4K recreation and a stunningly-designed casing, it's a joy both to handle and to watch its images in action – albeit with a handful of exceptions.The Horizon Pro really excels with native 4K content, and will work best as a key part of your home theater system, ideally with 4K Blu-rays (or at least high quality streams). Its image quality can be shockingly close to what you'd see on a quality flatscreen, with exceptional brightness control – an area that so many projectors fall short in.
+
+
+***
+![The curious case of Indian Fantasy League(s)](https://images.financialexpress.com/2021/05/mobile-fantasy-gaming.jpg "The curious case of Indian Fantasy League(s)")
+
+
+[The curious case of Indian Fantasy League(s)](https://www.financialexpress.com/industry/technology/indian-fantasy-league-fantasy-apps-fantasy-league-indian-mobile-fantasy-game-apps-dream11-mycircle11-dream11-fantasy-cricket-game/2248669/)
+
+
+> The participation fee across all these platforms ranges from zero to lakhs of rupees depending upon one's skill and risk-taking capabilities.By Adarsh Sharma/ˈfantəsi,ˈfantəzi/nounthe faculty or activity of imagining impossible or improbable things.'his online sports researches had moved into the realms of fantasy'It would have been better if this term had been understood in the true sense of Oxford Dictionary viz the faculty or activity of imagining impossible or improbable things by millions of fantasy league players.
+
+
+***
+[How do you feel about using sugondese formatting over PEP-8?](https://www.reddit.com/r/Python/comments/n8ardt/how_do_you_feel_about_using_sugondese_formatting/)
+
+
+> PEP-8 is the standard, but sugondese looks much nicer. What do you think?
+
+
+***
+![The Samsung Galaxy Z Flip 3 could cost less than we thought](https://cdn.mos.cms.futurecdn.net/RJ82XxWNfrXQaNikUVebWf-1200-80.jpg "The Samsung Galaxy Z Flip 3 could cost less than we thought")
+
+
+[The Samsung Galaxy Z Flip 3 could cost less than we thought](https://www.techradar.com/news/the-samsung-galaxy-z-flip-3-could-cost-less-than-we-thought)
+
+
+> (Image credit: Future) Most cutting edge technology starts off expensive and then gets cheaper over time, and that's likely to be the case for foldable phones as well – and a new leak suggests that the Samsung Galaxy Z Flip 3 might not cost quite as much as its predecessor.The 5G-ready Galaxy Z Flip that launched in June 2020 originally retailed for $1,449 / £1,399 / AU$2,599, but a new leak from tipster @FrontTron on Twitter suggests that the next clamshell-style foldable from Samsung is going to sell for $999-$1,199.
+
+
