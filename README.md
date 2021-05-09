@@ -4800,3 +4800,53 @@
 > The Epic vs. Apple court case started on May 3. As it still has two more weeks to go, here's what we've learned this week with the trial. Day one On day one, it was all about Epic's and Apple's opening statements. Epic focused on painting Apple and the App Store as a monopolistic and anti-competitive ecosystem that fails to offer the benefits to consumers that Apple touts. Epic's opening slideshow included a slew of internal emails from Apple execs detailing how the company built its so-called 'walled garden.
 
 
+***
+![Dogecoin's value tumbles after Elon Musk calls the virtual currency a ‘hustle'](https://i.guim.co.uk/img/media/e9b139d61d62705b819b150a7fa0a642c79889b4/0_101_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12f634a2ed3943f5a20f13115564d614 "Dogecoin's value tumbles after Elon Musk calls the virtual currency a ‘hustle'")
+
+
+[Dogecoin's value tumbles after Elon Musk calls the virtual currency a ‘hustle'](http://www.theguardian.com/technology/2021/may/09/dogecoins-value-tumbles-after-elon-musk-calls-the-virtual-currency-a-hustle)
+
+
+> The price of dogecoin tumbled by as much as a third on Sunday, after billionaire Elon Musk, one of its biggest supporters, appeared to call the virtual currency a 'hustle' while hosting Saturday Night Live.Cryptocurrency watchers had high expectations of what Tesla chief executive and crypto-enthusiast Musk, who has called himself the 'Dogefather', would say while hosting the American comedy sketch show, and dogecoin had risen in anticipation.However, Musk's appearance had the opposite effect to that expected by investors.
+
+
+***
+![Tumbling Soccer Player Somehow Manages To Dink The Ball Over The Goalkeeper And Score](https://cdn.digg.com/wp-content/uploads/2021/05/09174744/Screen-Shot-2021-05-09-at-1.44.22-PM.png "Tumbling Soccer Player Somehow Manages To Dink The Ball Over The Goalkeeper And Score")
+
+
+[Tumbling Soccer Player Somehow Manages To Dink The Ball Over The Goalkeeper And Score](https://digg.com/2021/tumbling-soccer-player-somehow-manages-to-dink-the-ball-over-the-goalkeeper-and-score)
+
+
+> "If the findings are upheld, Medina Spirit's results in the Kentucky Derby will be invalidated and Mandaloun will be declared the winner," Churchill Downs said in a Sunday statement. Australian soccer player Ajdin Hrustic made the right adjustment while he was on the floor to lift the ball over the goalkeeper and score a cheeky goal. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up.
+
+
+***
+![Clubhouse finally arrives on Android – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1231467577.jpg?w=600 "Clubhouse finally arrives on Android – TechCrunch")
+
+
+[Clubhouse finally arrives on Android – TechCrunch](https://techcrunch.com/2021/05/09/clubhouse-android-app-launch/)
+
+
+> Clubhouse finally has an Android app that you can download from the Play Store — provided you live in the U.S. The voice-based social network launched its beta Android app on Play Store for users in the U.S. on Sunday, and said it will gradually make the new app available in other English-speaking countries and then the rest of the world. The social network, valued at about $4 billion in its most recent fundraise, launched as an iPhone-only app last year. The app quickly gained popularity last year, attracting several high-profile celebrities, politicians, investors, and entrepreneurs.
+
+
+***
+![Remember The Homeless Chess Champion? The Boy Is Now A Chess Master](https://static01.nyt.com/images/2021/05/10/opinion/sunday/10kristof-lead-inyt/10kristof-lead-inyt-facebookJumbo-v2.jpg "Remember The Homeless Chess Champion? The Boy Is Now A Chess Master")
+
+
+[Remember The Homeless Chess Champion? The Boy Is Now A Chess Master](https://www.nytimes.com/2021/05/08/opinion/sunday/homeless-chess-champion-tani-adewumi.html)
+
+
+> Continue reading the main storyTanitoluwa Adewumi two years ago.Credit...Christopher Lee for The New York TimesBy Nicholas KristofOnce upon a time a 7-year-old refugee living in a homeless shelter sat down at a chess board in school and learned how to play. His school then agreed to his mom's plea to waive fees for him to join the chess club.The boy wasn't any good at first. His initial chess rating was 105, barely above the lowest possible rating, 100.But the boy, Tanitoluwa Adewumi — better known as Tani — enjoyed chess as an escape from the chaos of the homeless shelter, and his skills progressed in stunning fashion.
+
+
+***
+![Funeral Director And Mortician Clears Doubts By Answering A Bunch Of Dead Body Questions](https://cdn.digg.com/wp-content/uploads/2021/05/09172842/test-1-39.jpg "Funeral Director And Mortician Clears Doubts By Answering A Bunch Of Dead Body Questions")
+
+
+[Funeral Director And Mortician Clears Doubts By Answering A Bunch Of Dead Body Questions](https://digg.com/video/mortician-answers-dead-body-questions-from-twitter-tech-support-wired)
+
+
+> "If the findings are upheld, Medina Spirit's results in the Kentucky Derby will be invalidated and Mandaloun will be declared the winner," Churchill Downs said in a Sunday statement. Australian soccer player Ajdin Hrustic made the right adjustment while he was on the floor to lift the ball over the goalkeeper and score a cheeky goal. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up.
+
+
