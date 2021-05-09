@@ -4571,3 +4571,47 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+[Bitcoin price updates – Dogecoin price PLUMMETS during Elon Musk's SNL sketch as Tesla CEO calls himself the Dogefather](https://www.thesun.ie/tech/6943688/bitcoin-price-live-cryptocurrency-ethereum-dogecoin-elon-musk-latest/)
+
+
+> ELON Musk was watched by millions of viewers around the world as he hosted Saturday Night Live for the first time. The Tesla CEO was joined by his mom as he opened his highly anticipated hosting gig by revealing he has Asperger’s. The 49-year-old billionaire opened his monologue by mocking his monotonal speaking style, saying […]
+
+
+***
+![Bitcoin price updates – Dogecoin price PLUMMETS during Elon Musk's SNL sketch as Tesla CEO calls himself the Dogefather](https://www.thesun.co.uk/wp-content/uploads/2021/05/KY-BITCOIN-LATEST-0805.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price updates – Dogecoin price PLUMMETS during Elon Musk's SNL sketch as Tesla CEO calls himself the Dogefather")
+
+
+[Bitcoin price updates – Dogecoin price PLUMMETS during Elon Musk's SNL sketch as Tesla CEO calls himself the Dogefather](https://www.thesun.co.uk/tech/14848588/bitcoin-price-live-cryptocurrency-ethereum-dogecoin-elon-musk-latest/)
+
+
+> ELON Musk was watched by millions of viewers around the world as he hosted Saturday Night Live for the first time. The Tesla CEO was joined by his mom as he opened his highly anticipated hosting gig by revealing he has Asperger's. The 49-year-old billionaire opened his monologue by mocking his monotonal speaking style, saying no one can tell when he's joking. 'It's great to be hosting ‘Saturday Night Live,' and I really mean it,' said Musk standing on the stage in a black suit with a black T-shirt.
+
+
+***
+[2000+ Data Structures And Algorithms Solutions](https://www.reddit.com/r/programming/comments/n89a8v/2000_data_structures_and_algorithms_solutions/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
+***
+![Unions wield increasing influence at tech firms](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/44d4eff2954a448e89efc69b6b7b8862.jpg "Unions wield increasing influence at tech firms")
+
+
+[Unions wield increasing influence at tech firms](https://www.koreatimes.co.kr/www/tech/2021/05/133_308513.html)
+
+
+> Samsung Display's campus in Asan, South Chungcheong Province / YonhapBy Kim Bo-eunUnions are exercising growing influence at tech firms amid an industry-wide movement by workers seeking better compensation.The wave of calls for better compensation was triggered by demands early this year by unions of major firms in the tech sector, such as SK hynix, SK Telecom and Naver. Employees have contended that they deserve better pay given their companies' sharp growth in earnings.Samsung Display, for instance, is facing a possible walkout by workers due to wage issues.
+
+
+***
+![Chip shortage weighing on automakers in Q2](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/7acdfdd2ff694e05b5a264020f102c38.jpg "Chip shortage weighing on automakers in Q2")
+
+
+[Chip shortage weighing on automakers in Q2](https://www.koreatimes.co.kr/www/tech/2021/05/419_308510.html)
+
+
+> The headquarters of Hyundai Motor and Kia, both affiliates of Hyundai Motor Group, in southern Seoul / Korea Times fileBy Yi Whan-wooDespite their strong performance in the first quarter, the country's two leading automakers are facing potential setbacks in the second quarter amid a worsening shortage of automotive chips."Cutting production will be inevitable in the second quarter," an analyst said, forecasting that production will be "severely disrupted as early as in May."In the first quarter, Hyundai Motor saw its operating profit increase 91.
+
+
