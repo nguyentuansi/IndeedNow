@@ -4703,3 +4703,50 @@
 > ​ https://reddit.com/link/n8ckks/video/df6pymv113y61/player ​ This is based on an arduino-python project. the arduino is connected to 2 RGB leds. The python Script reads the color on the left and right sids of the screen and sends them to the left and right LED on the arduino. You can find the detailed description here and code: https://hridaybarot.home.blog/2021/05/09/screen-reactive-leds/ ​ If you liked this project check out my: Blog: https://hridaybarot.home.blog/blog-feed/ Youtube: https://www.
 
 
+***
+![I made madnessbracket.fm — a website where you can generate a tournament bracket with your favorite songs](https://external-preview.redd.it/K9ItctAkGQCov3fhY46DvTgX7nzZwKxZOC1w1yWgf9E.png?auto=webp&s=8da557fa58920a73ed9d7cba6cab64b72fc653c9 "I made madnessbracket.fm — a website where you can generate a tournament bracket with your favorite songs")
+
+
+[I made madnessbracket.fm — a website where you can generate a tournament bracket with your favorite songs](https://www.reddit.com/r/Python/comments/n8ekka/i_made_madnessbracketfm_a_website_where_you_can/)
+
+
+> Hi Pythonistas! This is my second attempt at creating a Flask-based web app. Madnessbracket.fm is for all the music lovers out there!The app will generate a tournament bracket for your favorite artist, e.g. Run The Jewels, looking a little something like this — RTJ's madness bracket — where each track's gradient is the colors of the album the track is coming from.You can then proceed to complete the bracket by choosing one track over the other.The bracket is shareable — any progress can be saved — whether you've completed the bracket or just started out.
+
+
+***
+[Just wanted to share a failed experiment](https://www.reddit.com/r/Python/comments/n8egb1/just_wanted_to_share_a_failed_experiment/)
+
+
+> fileSo I was trying out a new method of data compression where the binary sequence of a file gets converted into a huge decimal number and is then represented as the product of two smaller ones the bit_length sum of which is smaller than that of the original number. The program uses trial and error to find a perfect divider who satisfies this condition so the process can take a while. The idea is that those two resulting numbers can be multiplied anytime to yield the original number and therefore the binary source of the compressed file, but unfortunately it doesn't work that way.
+
+
+***
+![Apple and Epic wrap up first week of their blockbuster trial. Here's what happened and what's next](https://cdn.cnn.com/cnnnext/dam/assets/210507141326-apple-epic-trial-0503-super-tease.jpg "Apple and Epic wrap up first week of their blockbuster trial. Here's what happened and what's next")
+
+
+[Apple and Epic wrap up first week of their blockbuster trial. Here's what happened and what's next](https://www.cnn.com/2021/05/09/tech/apple-epic-trial-week-one/index.html)
+
+
+> Is an iPhone just another gaming device, or a tightly controlled ecosystem? And is it really as secure as it is reputed to be? These are just some of the many questions that have come up so far and been debated in what could be one of the most consequential trials for the modern-day tech industry. Apple, the maker of the iPhone, and Epic Games, the maker of Fortnite, wrapped up the first week of testimony on Friday, with the iPhone inventor trying to fend off accusations from the video game developer that its App Store constitutes a monopoly and that it has engaged in anti-competitive behavior.
+
+
+***
+![The Mars mission is saved on 'SNL' when Elon Musk finds a hero in... Chad](https://mondrian.mashable.com/2021%252F05%252F09%252F87%252F5fa1617e37c549ffa7d24ffb62b1b3a4.ffad9.png%252F1200x630.png?signature=T-DZxVSVdVcQ9xyjWAMsommxwu4= "The Mars mission is saved on 'SNL' when Elon Musk finds a hero in... Chad")
+
+
+[The Mars mission is saved on 'SNL' when Elon Musk finds a hero in... Chad](https://mashable.com/video/snl-pete-davidson-chad-elon-musk-mars-spacex/)
+
+
+> Chad! Pete Davidson's lovably terrible recurring character returned on the latest Saturday Night Live as a Mars astronaut. Host Elon Musk, playing himself, rushes to mission control when NASA's Mars mission goes horribly off the rails. Sacrifice will be necessary to save the crew, and a hero soon emerges in Chad. Musical guest Miley Cyrus also pops up as a fellow astronaut and soon-to-be baby mama to Chad's unborn child. But it's Musk who has the last laugh in the end when he throws back to his recurring IRL faux pas where he insists that "a bunch of people will probably die" once we embark on crewed missions to Mars.
+
+
+***
+![Windows 10X rumor says it's no longer being developed at Microsoft](https://cdn.mos.cms.futurecdn.net/heMoK4dhuCCQWAHmEyJTeQ-1200-80.jpg "Windows 10X rumor says it's no longer being developed at Microsoft")
+
+
+[Windows 10X rumor says it's no longer being developed at Microsoft](https://www.techradar.com/news/windows-10x-rumor-says-its-no-longer-being-developed-at-microsoft)
+
+
+> (Image credit: Microsoft) Windows 10X was originally announced in October 2019 as a new flavor of Microsoft's operating system for the dual-screen Surface Neo. With the future of the Neo uncertain, development on the software then switched to single-screen devices, and now it looks as though Windows 10X could be canceled completely.Petri reports that "people familiar with the company's plans" say that Microsoft won't ship Windows 10X this year, and that the OS "will likely never arrive" in its current form.
+
+
