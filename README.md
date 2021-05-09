@@ -4377,3 +4377,53 @@
 > There's a decent chance that you never heard the name "Itch.io" until Apple painted a less-than-complete picture of the indie games store on Friday, during its ongoing legal tussle with Epic Games. The dispute sees two multi-billion dollar companies duking it out over in-app purchasing. Epic contends that Apple's restrictive policy which carves out 30 percent of most in-app sales for the iPhone maker, are anti-competitive and therefore illegal. Apple, meanwhile, maintains that its policy barring competing storefronts from the App Store is necessary and justified by the service it provides in offering a curated and secure experience that is ostensibly free from fraud.
 
 
+***
+![Released talkweb 1.2](https://external-preview.redd.it/t62dFyDPi2VCgMVgQGcwAIdnrFg8m_7K1ttooh8a8z0.jpg?auto=webp&s=5f69ad06ede8a2c5a1ff4737ea16dd1fb42b0156 "Released talkweb 1.2")
+
+
+[Released talkweb 1.2](https://www.reddit.com/r/Python/comments/n824th/released_talkweb_12/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+!["May is the big tree..." Merchants sigh at the price of flowers that doubled](https://img.sbs.co.kr/newimg/news/20210507/201548780_1280.jpg ""May is the big tree..." Merchants sigh at the price of flowers that doubled")
+
+
+["May is the big tree..." Merchants sigh at the price of flowers that doubled](https://www.tellerreport.com/tech/2021-05-09-"may-is-the-big-tree---"-merchants-sigh-at-the-price-of-flowers-that-doubled.r17lKiNuO.html)
+
+
+> It's May when there are many flowers to give, and the prices of fresh flowers have risen significantly these days. Last year, in the aftermath of Corona 19, there was no demand, but this time, the flower industry is sighing, saying that consumers are burdened with the price. It is May when there are many flowers to give, and the price of fresh flowers has risen significantly these days. Last year, in the aftermath of Corona 19, there was no demand, but this time, the flower industry is sighing, saying that consumers are burdened with the price.
+
+
+***
+!["Lee Kun-hee Collection, New History of Korean Modern and Contemporary Art"](https://img.sbs.co.kr/newimg/news/20210507/201548776_1280.jpg ""Lee Kun-hee Collection, New History of Korean Modern and Contemporary Art"")
+
+
+["Lee Kun-hee Collection, New History of Korean Modern and Contemporary Art"](https://www.tellerreport.com/tech/2021-05-09-"lee-kun-hee-collection--new-history-of-korean-modern-and-contemporary-art".SJe_CuiVuu.html)
+
+
+> A detailed list of 1,488 contemporary and contemporary artworks donated to the National Museum of Modern and Contemporary Art by the bereaved family of the late Samsung Chairman Lee Kun-hee has been released. Not only major works by Lee Jung-seop and Park Soo-geun, but also rare works by Na Hye-suk and Paik Nam-soon, who were known to have few remaining works, are evaluated as having to rewrite our modern and contemporary art history. A detailed list of 1,488 contemporary and contemporary artworks donated to the National Museum of Modern and Contemporary Art by the bereaved family of the late Samsung Chairman Lee Kun-hee has been released.
+
+
+***
+![Dad's taxi driver indiscriminately assaulted... 20 passengers restrained](https://static.sbsdlab.co.kr/image/thumb_default.png "Dad's taxi driver indiscriminately assaulted... 20 passengers restrained")
+
+
+[Dad's taxi driver indiscriminately assaulted... 20 passengers restrained](https://www.tellerreport.com/tech/2021-05-09-dad-s-taxi-driver-indiscriminately-assaulted----20-passengers-restrained.r1YhOiVdO.html)
+
+
+> A video of a man in his twenties hitting his father's taxi driver was released, which aroused anger from many. The man spit and rioted at the police who were dispatched, but an arrest warrant was issued a while ago. A video of a man in his twenties hitting a taxi driver who is becoming his father was released, which aroused anger from many people. The man spit and rioted at the police who were dispatched, but an arrest warrant was issued a while ago. Reporter Jeong Ban-seok covered it. The night before the day (5th) in front of Nangok Tunnel in Sillim-dong, Seoul.
+
+
+***
+![High-risk group'chronic kidney disease', why wasn't half hit?](https://img.sbs.co.kr/newimg/news/20210507/201548809_1280.jpg "High-risk group'chronic kidney disease', why wasn't half hit?")
+
+
+[High-risk group'chronic kidney disease', why wasn't half hit?](https://www.tellerreport.com/tech/2021-05-09-high-risk-group-chronic-kidney-disease---why-wasn-t-half-hit-.Bkl2uuj4Ou.html)
+
+
+> People with chronic kidney disease who need dialysis can be more fatal than those with high blood pressure or diabetes if they get COVID-19. That's why I was asked to get the vaccine first, but less than half of those with severe kidney disease would like to get the vaccine. Patients with chronic kidney disease who need dialysis can be more fatal than those with high blood pressure or diabetes if they get COVID-19. That's why I was asked to get the vaccine first, but less than half of those with severe kidney disease would like to get the vaccine.
+
+
