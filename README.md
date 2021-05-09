@@ -4850,3 +4850,50 @@
 > "If the findings are upheld, Medina Spirit's results in the Kentucky Derby will be invalidated and Mandaloun will be declared the winner," Churchill Downs said in a Sunday statement. Australian soccer player Ajdin Hrustic made the right adjustment while he was on the floor to lift the ball over the goalkeeper and score a cheeky goal. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up.
 
 
+***
+![AQFIT W 11 Smartwatch: Stay fit at all times](https://images.financialexpress.com/2021/05/1-150.jpg "AQFIT W 11 Smartwatch: Stay fit at all times")
+
+
+[AQFIT W 11 Smartwatch: Stay fit at all times](https://www.financialexpress.com/industry/technology/aqfit-w-11-smartwatch-stay-fit-at-all-times/2248217/)
+
+
+> You can take your watch where you go, even for a swim. With IP68 certification for up to 5ATM, you can keep your watch on to track your swim with utmost accuracy and not worry about sweat or splashes damaging your watch.India continues its fight against the deadly Covid-19 second wave even as the healthcare system struggles with the overwhelming surge of cases in the past few weeks. No wonder, a healthier lifestyle in on top of the mind of most people. A trendy wrist wear from AQFIT can be a good health accessory during these pandemic times.
+
+
+***
+[马斯克唱衰，狗狗币过去24小时最高跌幅34%](http://news.zol.com.cn/767/7679628.html)
+
+
+> 2021-05-09 19:40:08 作者：轻舟 最新数据显示，狗狗币短线急挫，报价一度低至0.47966美元/枚。 按照coinmarketcap的检测数据，过去24小时，狗狗币最高点曾摸到0.7292美元，也就是价格最高跌去了超34%。 马斯克模棱两可的话语似乎将狗狗币的选择权交给了市场：狗狗币到底是货币的未来，还是骗局，你们二选一。<img src="http://article.fd.zol-img.com.cn/t_s640x2000/g6/M00/04/05/ChMkKWCXyreIFEf7AAEoGZ2OtncAAOjZQP0vgsAASgx342.jpg" width="640" class="index-module_large_1mscr" style="font-family: "΢���ź�,Microsoft YaHei"; font-size: 12px;"
+
+
+***
+![How to change the default email app on your iPhone in just a few seconds](https://mondrian.mashable.com/2021%252F05%252F09%252Fa3%252F2d21a599a61f4ed7841c6a4f02afaeb3.28a66.jpg%252F1200x630.jpg?signature=rB3xKEHawnyIn7j_LIwo2Nr9Jp0= "How to change the default email app on your iPhone in just a few seconds")
+
+
+[How to change the default email app on your iPhone in just a few seconds](https://mashable.com/article/how-to-change-default-email-app-iphone-ios/)
+
+
+> It doesn't matter who you are. There's simply no way of getting around the fact that everyone needs to use email at some point in their lives. Just because that's true, however, doesn't mean you need to stick with an inferior email app on your iPhone if you don't want to. Starting with the release of iOS 14 in 2020, Apple finally did one of the things it should have done years ago: Let users change their default web browsers and email apps.  Safari and the iPhone Mail app are both perfectly usable, but freedom is always a good thing.
+
+
+***
+![‘FAR SEA' OPERATIONS: Warship on the move as China tensions grow](https://cdn.newsapi.com.au/image/v1/faf2730b3b84615ad427b3c2ef2df016?width=1280 "‘FAR SEA' OPERATIONS: Warship on the move as China tensions grow")
+
+
+[‘FAR SEA' OPERATIONS: Warship on the move as China tensions grow](https://www.news.com.au/technology/innovation/military/britains-hms-queen-elizabeth-converges-on-indopacific-amid-china-tensions/news-story/dc588223318476f6dbd813223986bac2)
+
+
+> Britain's biggest naval task force since the Falklands War is headed our way. And its centrepiece, the aircraft carrier HMS Queen Elizabeth, is sailing into uncertain waters.Gunboat diplomacy has dominated news feeds in recent months.Regular US deployments of its nuclear-powered behemoths – including a rare double act – to the South China Sea has focussed attention on the region's troubles.Then, in April, the PLAN Liaoning deployed for the first time as the hub of a powerful Chinese carrier battle group circling Taiwan.
+
+
+***
+![The Original Kings of Esports: Black players pioneered what we now call esports. The industry hasn't paid them back.](https://external-preview.redd.it/StFa9WnX2rcequ7zNMuOr0yYpSxYdtSP4-vSUquJ0-s.jpg?auto=webp&s=05b240dd640cbc187822dae2f749436cb4e96f1d "The Original Kings of Esports: Black players pioneered what we now call esports. The industry hasn't paid them back.")
+
+
+[The Original Kings of Esports: Black players pioneered what we now call esports. The industry hasn't paid them back.](https://www.reddit.com/r/technology/comments/n8l692/the_original_kings_of_esports_black_players/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
