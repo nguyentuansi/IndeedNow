@@ -4427,3 +4427,50 @@
 > People with chronic kidney disease who need dialysis can be more fatal than those with high blood pressure or diabetes if they get COVID-19. That's why I was asked to get the vaccine first, but less than half of those with severe kidney disease would like to get the vaccine. Patients with chronic kidney disease who need dialysis can be more fatal than those with high blood pressure or diabetes if they get COVID-19. That's why I was asked to get the vaccine first, but less than half of those with severe kidney disease would like to get the vaccine.
 
 
+***
+![Dave Chappelle Reveals To Joe Rogan How He Was Able To Walk Away From His $50 Million Contract With Comedy Central](https://cdn.digg.com/wp-content/uploads/2021/05/09020951/Screen-Shot-2021-05-08-at-10.09.40-PM.jpg "Dave Chappelle Reveals To Joe Rogan How He Was Able To Walk Away From His $50 Million Contract With Comedy Central")
+
+
+[Dave Chappelle Reveals To Joe Rogan How He Was Able To Walk Away From His $50 Million Contract With Comedy Central](https://digg.com/video/dave-chappelle-reveals-to-joe-rogan-how-he-was-able-to-walk-away-from-his-50-million-contract-with-comedy-central)
+
+
+> White people love critical race theories. 'I MIGHT HAVE NEVER BEEN THE SAME' Dave Chappelle was able to successfully negotiate getting paid earlier this year for his past work on "Chappelle's Show." But when he originally walked away from his show, he recalled how people thought he had "ruined his life." Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. White House press secretary Jen Psaki held Newsmax's Emerald Robinson's feet to the fire after she attempted to ask a question by using unnamed sources.
+
+
+***
+[打破舊思維！能自由生長的「機器人」不避障也會導航](https://technews.tw/2021/05/09/new-type-of-soft-growing-robot/)
+
+
+> 2017 年 7 月《Science Robotics》封面，有款機器人外形像長條狀塑膠袋，前端配備小顆攝影鏡 […]
+
+
+***
+![Python programmers prepare for pumped-up performance: Article describes Pyston and plans to upstream Pyston changes back into CPython, plus Facebook's Cinder: "publicly available for anyone to download and try and suggest improvements."](https://external-preview.redd.it/_CX_CK_ORE646PI81QjRLQQtvWXChAy-HKUO1snR_xA.jpg?auto=webp&s=0bb873d9f27ba36c453d388071037e55d61e17a0 "Python programmers prepare for pumped-up performance: Article describes Pyston and plans to upstream Pyston changes back into CPython, plus Facebook's Cinder: "publicly available for anyone to download and try and suggest improvements."")
+
+
+[Python programmers prepare for pumped-up performance: Article describes Pyston and plans to upstream Pyston changes back into CPython, plus Facebook's Cinder: "publicly available for anyone to download and try and suggest improvements."](https://www.reddit.com/r/Python/comments/n83vvj/python_programmers_prepare_for_pumpedup/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Dogecoin price moves before Elon Musk appears on SNL](https://static.independent.co.uk/2021/05/06/19/GettyImages-1229893671.jpg?width=1200&auto=webp&quality=75 "Dogecoin price moves before Elon Musk appears on SNL")
+
+
+[Dogecoin price moves before Elon Musk appears on SNL](https://www.independent.co.uk/life-style/gadgets-and-tech/dogecoin-price-tracked-elon-musk-snl-b1844369.html)
+
+
+> The price of Dogecoin has dropped as Elon Musk's appearance on Saturday Night Live approaches.Many had suggested that the show could serve as a catalyst for an increase in the price. That seemed particularly likely when Mr Musk appeared to link his interest in the cryptocurrency to his appearance on the show, tweeting the date of his guest hosting spot and calling himself the 'Dogefather'.But the appearance also came after the Tesla and SpaceX boss urged people to exercise 'caution' when investing in cryptocurrencies.
+
+
+***
+![Flaskott 🔥](https://external-preview.redd.it/BtPJ9_de07dsiccbTJ3dNKKUc5x_mD0p3W6yopABdtY.jpg?auto=webp&s=e906bc9d7ef6f824669cf7bed7f2860ee2841b8e "Flaskott 🔥")
+
+
+[Flaskott 🔥](https://www.reddit.com/r/programming/comments/n83ki3/flaskott_real_hotreloading_for_flask/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
