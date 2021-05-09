@@ -4521,3 +4521,53 @@
 > The Long March 5B launched the China Space Station core module in April. The rocket is now spiraling back to Earth. China News Service/Getty The discarded body of a Chinese Long March 5B rocket ploughed through the Earth's atmosphere on Saturday evening, making an uncontrolled reentry in the Indian Ocean, west of the Maldives. The US Pentagon had been tracking the rocket body since last week but because of the unusual tumbling of the rocket body and its orbit it had been difficult to predict where -- exactly -- the huge piece of space junk would fall back to the planet.
 
 
+***
+![Elon Musk says he is ‘first person with Asperger's' to host Saturday Night Live](https://i.guim.co.uk/img/media/8af74dd2061723fe39df58352935f2448f0e453b/80_362_1834_1101/master/1834.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9c68dc3c85ba374ac8b216a93fffb31 "Elon Musk says he is ‘first person with Asperger's' to host Saturday Night Live")
+
+
+[Elon Musk says he is ‘first person with Asperger's' to host Saturday Night Live](http://www.theguardian.com/technology/2021/may/09/elon-musk-says-he-is-first-person-with-aspergers-to-host-saturday-night-live)
+
+
+> Elon Musk has told viewers of Saturday Night Live that he 'is the first person with Asperger's' to host the US sketch show, before joking about his son's name and smoking cannabis on a podcast for the first global livestream of the programme.During the opening, the billionaire entrepreneur spoke of how he sometimes posted strange comments on his social media, saying: 'To anyone I've offended, I just want to say ‘I reinvented electric cars and I'm sending people to Mars in a rocket ship, did you also think I was going to be a chill, normal dude?''Musk also referred to an incident in 2018 in which he smoked a joint during an appearance on Joe Rogan's show.
+
+
+***
+![Elon Musk on SNL: Watch his sketches here](https://www.cnet.com/a/img/kPATMm8YXNoL2d3LQPyNkpawyNc=/1200x630/2021/05/09/1f4c15e8-e914-4588-967b-69ebdc3b1372/drmusk.jpg "Elon Musk on SNL: Watch his sketches here")
+
+
+[Elon Musk on SNL: Watch his sketches here](https://www.cnet.com/news/elon-musk-on-snl-watch-his-sketches-here/)
+
+
+> Musk played a doctor, a dogecoin expert and himself on SNL. Video screenshot by Leslie Katz/CNET Elon Musk made his Saturday Night Live debut this weekend, hosting the show and appearing in a variety of sketches, live and pre-taped. Over the course of the NBC show, he played a doctor on a soap opera called GenZ Hospital; bowtie-wearing dogefather Lloyd Ostertag on Weekend Update; a lovestruck producer on an Icelandic TV show; and himself in a SpaceX sketch. Watch Musk's monologue, and his other SNL moments, below.
+
+
+***
+![Elon Musk brings Tesla's futuristic Cybertruck to New York for SNL: ‘Blade Runner vibes'](https://static.independent.co.uk/2021/05/09/04/GettyImages-1183845620.jpg?width=1200&auto=webp&quality=75 "Elon Musk brings Tesla's futuristic Cybertruck to New York for SNL: ‘Blade Runner vibes'")
+
+
+[Elon Musk brings Tesla's futuristic Cybertruck to New York for SNL: ‘Blade Runner vibes'](https://www.independent.co.uk/life-style/gadgets-and-tech/tesla-cybertruck-elon-musk-snl-b1844387.html)
+
+
+> Tesla's Cybertruck caused a stir in New York City as it took to the streets ahead of Elon Musk hosting Saturday Night Live.The futuristic electric vehicle's prototype was spotted driving around Manhattan hours before Musk was set to host the famed NBC comedy show.Tesla posted video of the Cybertruck driving past the NBC headquarters where the show will be beamed across the country at 11.30pm ET.And for the first time ever it will also be streamed live on Youtube to 100 countries outside of the United States as the show seeks to capitalise on Musk's fameThe billionaire will be the first non-entertainer or athlete to host the show since Donald Trump appeared on it.
+
+
+***
+![Mother's Day 2021 Gifts: 5 Gadgets for the Perfect Mother's Day Gift](https://c.ndtvimg.com/2020-11/lk0klo9o_samsung-galaxy-f41_640x480_28_November_20.jpg "Mother's Day 2021 Gifts: 5 Gadgets for the Perfect Mother's Day Gift")
+
+
+[Mother's Day 2021 Gifts: 5 Gadgets for the Perfect Mother's Day Gift](https://gadgets.ndtv.com/mobiles/features/mothers-day-2021-gifts-5-gadgets-for-perfect-mothers-day-gift-2438100)
+
+
+> Mother's Day 2021 is here, and people who've left it off the list till now should probably focus on getting something great that comes a little late instead by skipping the flowers, chocolates and other cliches — get some great gadgets instead because any mother would appreciate something practical that can be used for the whole year. On this Mother's Day, we've listed a few gifts that would be a great pick for your mother, mother-in-law, grandmother, or just to say thank you to the women in your life.
+
+
+***
+![Cyberattack prompts shutdown of major fuel pipeline in the US](https://external-preview.redd.it/sxj9M7UdRnC5RsLqGL85GQ4NsPT5dXZboj_k8yiW8sM.jpg?auto=webp&s=7f2e5cb2a570a72a407ba85e67501325c8486ba0 "Cyberattack prompts shutdown of major fuel pipeline in the US")
+
+
+[Cyberattack prompts shutdown of major fuel pipeline in the US](https://www.reddit.com/r/technology/comments/n87ajn/cyberattack_prompts_shutdown_of_major_fuel/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
