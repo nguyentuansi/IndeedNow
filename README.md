@@ -4474,3 +4474,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Shiba Inu And 9 Other Dogecoin Inspired Cryptocurrencies You Should Know About](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/melody-less-jo8wztwteag-unsplash_2.jpg?width=720 "Shiba Inu And 9 Other Dogecoin Inspired Cryptocurrencies You Should Know About")
+
+
+[Shiba Inu And 9 Other Dogecoin Inspired Cryptocurrencies You Should Know About](https://www.benzinga.com/markets/cryptocurrency/21/05/21007599/shiba-inu-and-9-other-dogecoin-inspired-cryptocurrencies-you-should-know-about)
+
+
+> Cryptocurrency Dogecoin (DOGE) emerged in 2013 as a joke, but has shot to prominence this year, partly due to celebrity endorsements from the likes of Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk, Dallas Mavericks owner Mark Cuban and rapper Snoop Dogg. Dogecoin is itself an 'altcoin,' as cryptocurrencies besides Bitcoin are often referred to, but there are now several imitators that are attempting to ride on the 'tailwind' of the frenzy surrounding the Musk-championed meme crypto. Let's take a look at some of the Doge clones.
+
+
+***
+![Tech Q&A: How to cope if fake Google search results hurt you](https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg "Tech Q&A: How to cope if fake Google search results hurt you")
+
+
+[Tech Q&A: How to cope if fake Google search results hurt you](https://www.unionleader.com/nh/lifestyles/tech-q-a-how-to-cope-if-fake-google-search-results-hurt-you/article_1f0cf596-3e23-5a09-832c-4eb0c871fe25.html)
+
+
+> Contact Steve Alexander at{span} {/span}steve.j.alexander@gmail.com{span}. Please include a full name, city and phone number.{/span}
+
+
+***
+[Sources: cybercrime gang DarkSide, which caused Colonial Pipeline to halt operations, stole and encrypted ~100GB of data on Thursday before demanding a ransom (Bloomberg)](http://www.techmeme.com/210508/p13#a210508p13)
+
+
+> Bloomberg: Sources: cybercrime gang DarkSide, which caused Colonial Pipeline to halt operations, stole and encrypted ~100GB of data on Thursday before demanding a ransom — - Attackers stole nearly 100GB of data in two hours on Thursday — Theft followed by locking of computers and ransom demand
+
+
+***
+![Chinese rocket finally falls to Earth, trackers say](https://static.independent.co.uk/2021/05/06/08/rocket.jpg?width=1200&auto=webp&quality=75 "Chinese rocket finally falls to Earth, trackers say")
+
+
+[Chinese rocket finally falls to Earth, trackers say](https://www.independent.co.uk/life-style/gadgets-and-tech/space/chinese-rocket-landed-indian-ocean-b1844391.html)
+
+
+> An out-of-control Chinese rocket has finally fallen to Earth over the Indian Ocean, according to organisations who had been tracking it.China's Long March 5B rocket was originally launched in late April to carry the first part of China's Tianhe module, which will serve as the core of its planned crewed space station. But the rocket booster itself went into orbit, and began an uncontrolled re-entry that led to fears it could come down above a populated area.It had been difficult to predict where or when the spacecraft might fall back down to Earth because of an array of unknown details, both about the rocket itself but also the way that the atmosphere would act on it.
+
+
+***
+![Debris from out-of-control Chinese rocket re-enters atmosphere over Indian Ocean](https://www.cnet.com/a/img/E_KomMqLr9SL0qifWRxXdytCn78=/1200x630/2021/05/07/d7589fd4-ebde-4a1a-8f89-dbb2f7eab614/tianhe1-launch.jpg "Debris from out-of-control Chinese rocket re-enters atmosphere over Indian Ocean")
+
+
+[Debris from out-of-control Chinese rocket re-enters atmosphere over Indian Ocean](https://www.cnet.com/news/debris-from-out-of-control-chinese-rocket-re-enters-atmosphere-over-indian-ocean/)
+
+
+> The Long March 5B launched the China Space Station core module in April. The rocket is now spiraling back to Earth. China News Service/Getty The discarded body of a Chinese Long March 5B rocket ploughed through the Earth's atmosphere on Saturday evening, making an uncontrolled reentry in the Indian Ocean, west of the Maldives. The US Pentagon had been tracking the rocket body since last week but because of the unusual tumbling of the rocket body and its orbit it had been difficult to predict where -- exactly -- the huge piece of space junk would fall back to the planet.
+
+
