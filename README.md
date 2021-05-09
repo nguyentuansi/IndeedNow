@@ -4750,3 +4750,53 @@
 > (Image credit: Microsoft) Windows 10X was originally announced in October 2019 as a new flavor of Microsoft's operating system for the dual-screen Surface Neo. With the future of the Neo uncertain, development on the software then switched to single-screen devices, and now it looks as though Windows 10X could be canceled completely.Petri reports that "people familiar with the company's plans" say that Microsoft won't ship Windows 10X this year, and that the OS "will likely never arrive" in its current form.
 
 
+***
+![Android users join the conversation: Clubhouse expands beyond Apple users in the US](https://www.gannett-cdn.com/presto/2021/02/10/USAT/252dd5c8-2989-4930-8047-60bc52f66d12-AP21041059459145.jpg?crop=5999,3374,x0,y489&width=3200&height=1800&format=pjpg&auto=webp "Android users join the conversation: Clubhouse expands beyond Apple users in the US")
+
+
+[Android users join the conversation: Clubhouse expands beyond Apple users in the US](https://www.usatoday.com/story/tech/2021/05/09/clubhouse-social-audio-app-android-facebook-twitter-spaces/5013139001/)
+
+
+> CLOSE Not everyone can join Clubhouse, but here's why so many people want to. WochitAndroid users in the U.S. can now join the invite-only Clubhouse, more than a year after the social audio app debuted.At its weekly "town hall" meeting Sunday, Clubhouse founders Paul Davison and Rohan Seth are expected to announce that the popular app will be available for American Android users in beta mode."With Android, we believe that Clubhouse will feel more complete. We are so grateful to all of the Android users out there for their patience," Davison and Seth said in a company blog post.
+
+
+***
+![Clubhouse finally launches on Android in the U.S.](https://mondrian.mashable.com/2021%252F05%252F09%252F84%252Fec8eb530256444b6bde4d0d5cf40c6e0.e1f8a.png%252F1200x630.png?signature=ZdzPuGM_wL9d8ZjMYJs6PKii8W8= "Clubhouse finally launches on Android in the U.S.")
+
+
+[Clubhouse finally launches on Android in the U.S.](https://mashable.com/article/clubhouse-android-launch-united-states/)
+
+
+> If you use the world's most popular mobile operating system and have been jonesing to get in on the Clubhouse action, today is your lucky day. That's because Clubhouse, the voice-based social network that's exploded in popularity over the past several months, is finally rolling out on Android starting Sunday in a beta state. It'll just be available in the United States at first, with other English-speaking places (and eventually the rest of the world) getting access in the coming weeks. According to the announcement, the U.
+
+
+***
+![Transcript: Michael Lewis on "Face the Nation," May 9, 2021](https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/09/7bbc9b20-d889-402d-8c3b-6d039838ab7f/thumbnail/1200x630/923d4a779954a83b701be152ab388182/cbsn-fusion-michael-lewis-says-delayed-us-covid-19-response-cost-thousands-and-thousands-of-lives-thumbnail-711293-640x360.jpg "Transcript: Michael Lewis on "Face the Nation," May 9, 2021")
+
+
+[Transcript: Michael Lewis on "Face the Nation," May 9, 2021](https://www.cbsnews.com/news/transcript-michael-lewis-on-face-the-nation-may-9-2021/)
+
+
+> The following is a transcript of an interview with author Michael Lewis that aired Sunday, May 9, 2021, on "Face the Nation.JOHN DICKERSON: And we go now to Michael Lewis, author of a new book, "The Premonition: A Pandemic Story." He joins us from Berkeley, California. Good morning, Michael.Â MICHAEL LEWIS: Morning, JOHN.JOHN DICKERSON: I want to start with a quote from Bill Parcells, the NFL football coach. "You are what your record says you are." You quote that in the book to explain your view about the American record on the coronavirus.
+
+
+***
+![TechnipFMC plc (NYSE:FTI) Shares Purchased by CWM Advisors LLC](https://www.marketbeat.com/logos/technipfmc-plc-logo.png "TechnipFMC plc (NYSE:FTI) Shares Purchased by CWM Advisors LLC")
+
+
+[TechnipFMC plc (NYSE:FTI) Shares Purchased by CWM Advisors LLC](https://rivertonroll.com/news/2021/05/09/technipfmc-plc-nysefti-shares-purchased-by-cwm-advisors-llc-2.html)
+
+
+> CWM Advisors LLC lifted its position in TechnipFMC plc (NYSE:FTI) by 117.0% in the first quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The firm owned 223,485 shares of the oil and gas company's stock after purchasing an additional 120,481 shares during the quarter. CWM Advisors LLC's holdings in TechnipFMC were worth $1,725,000 at the end of the most recent reporting period. A number of other institutional investors have also recently added to or reduced their stakes in the stock.
+
+
+***
+![Epic vs. Apple court case: first-week recap](https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/apple-vs-epic-trial-tim-cook-sweeney-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "Epic vs. Apple court case: first-week recap")
+
+
+[Epic vs. Apple court case: first-week recap](https://9to5mac.com/2021/05/09/epic-vs-apple-court-case-first-week-recap/)
+
+
+> The Epic vs. Apple court case started on May 3. As it still has two more weeks to go, here's what we've learned this week with the trial. Day one On day one, it was all about Epic's and Apple's opening statements. Epic focused on painting Apple and the App Store as a monopolistic and anti-competitive ecosystem that fails to offer the benefits to consumers that Apple touts. Epic's opening slideshow included a slew of internal emails from Apple execs detailing how the company built its so-called 'walled garden.
+
+
