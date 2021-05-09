@@ -4897,3 +4897,53 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![Is Epic Games' showdown with Apple turning into a mismatch?](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/b6/8a/1316811cc3e76e048b99834c9f3adb3bf7b1/download.jpg "Is Epic Games' showdown with Apple turning into a mismatch?")
+
+
+[Is Epic Games' showdown with Apple turning into a mismatch?](https://japantoday.com/category/tech/is-epic-games'-showdown-with-apple-turning-into-a-mismatch)
+
+
+> If Epic Games hopes to dismantle the fortress surrounding Apple's iPhone and its app store, the video game maker probably will need to roll out some heavier artillery heading into the second week of a trial threatening Apple's $2 trillion empire. So far, at least, Epic has been having trouble proving its allegations that the iPhone maker's 13-year-old app store has turned into an illegal monopoly. Epic, the maker of the popular Fortnite game, contends Apple has been gouging app makers by charging commissions ranging from 15% to 30% for in-app transactions because it forbids other options on its iPhone, iPad and iPod.
+
+
+***
+![How to enable two-factor sign-ins on your PlayStation 5 and Sony account](https://mondrian.mashable.com/2021%252F05%252F09%252F40%252F01ea3a912d8846a59c8e34e25922d95c.7b734.jpg%252F1200x630.jpg?signature=Dqn_HXrs8yhWJbUWDmIYnGEsZx0= "How to enable two-factor sign-ins on your PlayStation 5 and Sony account")
+
+
+[How to enable two-factor sign-ins on your PlayStation 5 and Sony account](https://mashable.com/article/how-to-set-up-2fa-on-ps5-ps4/)
+
+
+> Two-factor authentication should be your default setting for all the online spaces where you dwell. And for PlayStation owners specifically, setting that up is as easy as it could be. Sony's two-step verification (2SV), as the company calls it, can be switched on from your console, web browser, or the PS App. It's a similar process no matter where you do it, but let's walk through all three just so everyone's clear.  Setting up PlayStation 2SV on your console (PS4 or PS5) Whether you're on a PlayStation 4 or PlayStation 5, open up the main Settings menu and then select "Users and Accounts.
+
+
+***
+![The Syslog Hell](https://external-preview.redd.it/Zjb5IOZiMp2nEBmJ0vAE4zVeXoTM2G1cl5gKbRf6Lko.jpg?auto=webp&s=9d17de610f318fc4489138bc53983c3fb9112cc1 "The Syslog Hell")
+
+
+[The Syslog Hell](https://www.reddit.com/r/programming/comments/n8obar/the_syslog_hell/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Cyberattack on US pipeline is linked to criminal gang](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/AP21128481372844.jpg?ve=1&tl=1 "Cyberattack on US pipeline is linked to criminal gang")
+
+
+[Cyberattack on US pipeline is linked to criminal gang](https://www.foxbusiness.com/technology/cyberattack-on-us-pipeline-is-linked-to-criminal-gang)
+
+
+> The cyberattack attempt that has forced the shutdown of a vital gasoline and diesel pipeline was carried out by a criminal gang known as DarkSide that cultivates a Robin Hood image of stealing from corporations and giving a cut to charity, a person close to the investigation said Sunday. The shutdown, meanwhile, stretched into its third day, with the Biden administration saying an "all-hands-on-deck" effort is underway to restore operations and avoid disruptions in the fuel supply.Experts said that gasoline prices are unlikely to be affected if the pipeline is back to normal in the next few days but that the incident — the worst cyberattack to date on critical U.
+
+
+***
+![I made some enhancements to my fist detection code so it can detect the left and right fist now. I also used the pose estimation method as well. I'm using opencv and the mediapipe library to recreate the Iron Man fight analysis he did on Captain America. Enjoy!](https://external-preview.redd.it/KchsWlTYq9ucheTyJZd8K9NQHi-Kf1yd75GoJjN-bMk.jpg?auto=webp&s=bba94e4f517fb7f520d776520711b5357615fead "I made some enhancements to my fist detection code so it can detect the left and right fist now. I also used the pose estimation method as well. I'm using opencv and the mediapipe library to recreate the Iron Man fight analysis he did on Captain America. Enjoy!")
+
+
+[I made some enhancements to my fist detection code so it can detect the left and right fist now. I also used the pose estimation method as well. I'm using opencv and the mediapipe library to recreate the Iron Man fight analysis he did on Captain America. Enjoy!](https://www.reddit.com/r/Python/comments/n8o8mx/i_made_some_enhancements_to_my_fist_detection/)
+
+
+> I made some enhancements to my fist detection code so it can detect the left and right fist now. I also used the pose estimation method as well. I'm using opencv and the mediapipe library to recreate the Iron Man fight analysis he did on Captain America. Enjoy!
+
+
