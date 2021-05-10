@@ -4997,3 +4997,47 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+[Is anyone novice in python interested in starting a group GitHub project, just for educational purposes.](https://www.reddit.com/r/Python/comments/n8tb3j/is_anyone_novice_in_python_interested_in_starting/)
+
+
+> I'm not necessarily a novice but I've only developed my own stuff and never used GitHub and I use python at work to automate my life, reporting, running ETL between systems, etc.
+
+
+***
+![New wristbands serve as wearable vaccine card](https://www.krqe.com/wp-content/uploads/sites/12/2021/05/Immunaband.png?w=1280 "New wristbands serve as wearable vaccine card")
+
+
+[New wristbands serve as wearable vaccine card](https://fox5sandiego.com/news/tech/new-wristbands-serve-as-wearable-vaccine-card/)
+
+
+> SAN DIEGO (KSWB) — How do you know if the people around you have been vaccinated? A new wearable device aims to show you, and some in San Diego are already buying in. 'If we had something where you can say, ‘Hey, I support the vaccine effort, I've been vaccinated, I'm safe to be around,' then that would help us as we start to open back up,' Dr. Toshof Bernton, the man behind the idea for the new accessory, told NewsNation affiliate KSWB. His bracelet, the Immunaband, runs about $20 and stores vaccine records on it so people don't have to haul around their vaccine cards.
+
+
+***
+![Australian PC Awards 2021: Competition Terms & Conditions](https://cdn.mos.cms.futurecdn.net/36fx3ctHL7pT4nvFNnDKvb-1200-80.jpg "Australian PC Awards 2021: Competition Terms & Conditions")
+
+
+[Australian PC Awards 2021: Competition Terms & Conditions](https://www.techradar.com/news/australian-pc-awards-2021-competition-terms-and-conditions)
+
+
+> THE AUSTRALIAN PC AWARDS (2021) TERMS AND CONDITIONS1. The Promoter is Future Publishing (Overseas) Limited, Level 10, 89 York Street, Sydney NSW 2000. ABN: 96734906323 Ph: (02) 9955 2677 (Future Australia).2. 'Australian PC Awards' are the Awards. Information on how to vote on the Awards forms part of the terms of entry. Entry into the competition is deemed acceptance of these terms and conditions.3. To the extent of any inconsistency between these Terms and Conditions and any other reference to this competition, these Terms and Conditions prevail.
+
+
+***
+[NAND 將以年 30% 速度成長！WD：若加鎧俠，略超三星](https://technews.tw/2021/05/10/nand-will-grow-at-an-annual-rate-of-30/)
+
+
+> NAND 型快閃記憶體（Flash Memory）需求旺，美國半導體大廠 Western Digital（WD […]
+
+
+***
+![Dangerous eBay listings can be removed by regulators](https://ichef.bbci.co.uk/news/1024/branded_news/12DC3/production/_118415277_hi065992822.jpg "Dangerous eBay listings can be removed by regulators")
+
+
+[Dangerous eBay listings can be removed by regulators](https://www.bbc.co.uk/news/technology-57021383)
+
+
+> Online seller eBay says it is handing regulators the power to take down dangerous listings without consulting the company.Officials will be able to remove items "where they have evidence of a risk to consumer safety", eBay said.In the UK, that will include the Office for Product Safety and Standards and internet regulator Ofcom.Online market places, such as eBay, are engaged in a constant battle to ferret out unsafe items sold by their users.That is in part because nearly anyone can create a listing on online auction sites.
+
+
