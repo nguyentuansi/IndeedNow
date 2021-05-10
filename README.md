@@ -5238,3 +5238,53 @@
 > If youâ€™re a West Coast rap fan, you may have noticed that a new DJ Quik album appeared on Spotify in December. It might have popped up in your Release Radar, the weekly personalized playlist of new music from artists you already listen to, or maybe you saw it on Quikâ€™s verified Spotify profile. Either way, the moment you hit play you would have realized: This is fake as hell! For one thing, the vocals are in Spanish, a language DJ Quik doesnâ€™t rap in. The 22 tracks are listed in alphabetical order, starting with â€œ3en1â€� and ending with â€œZombiesâ€�â€'a strange choice.
 
 
+***
+![The Station: Einride preps for a US expansion, Argo AI reveals its lidar specs and a Tesla Autopilot reality check – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/Sunset-Pod.jpg?w=648 "The Station: Einride preps for a US expansion, Argo AI reveals its lidar specs and a Tesla Autopilot reality check – TechCrunch")
+
+
+[The Station: Einride preps for a US expansion, Argo AI reveals its lidar specs and a Tesla Autopilot reality check – TechCrunch](https://techcrunch.com/2021/05/10/the-station-einride-preps-for-a-us-expansion-argo-ai-reveals-its-lidar-specs-and-a-tesla-autopilot-reality-check/)
+
+
+> The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packages move (today and in the future) from Point A to Point B. What a week! It's too much to cover everything that happened in world of transportation, so here are some of the highlights. Oh, and yes, I know that the big story this weekend was Elon Musk's appearance on SNL.
+
+
+***
+![Google Assistant Gets A Vaccine Song](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/05/Google-Assistant-COVID-19-Vaccine.jpg "Google Assistant Gets A Vaccine Song")
+
+
+[Google Assistant Gets A Vaccine Song](https://screenrant.com/google-assistant-vaccine-song-how-to-get/)
+
+
+> Google Assistant has prepared a new song to encourage everyone to get vaccinated against COVID-19 when they can. Since the start of the pandemic, Google has developed ways to help the world cope with and rise above the dangers of the coronavirus. This latest song adds to the company's ongoing efforts to do so and also blends Google Assistant's penchant for quirky and fun responses. Throughout its development, Google Assistant has always prided itself with its more fun ways to spark a conversation with its users.
+
+
+***
+![Do AirTags have water resistance?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/airtag_belkin_keyring.jpg "Do AirTags have water resistance?")
+
+
+[Do AirTags have water resistance?](https://www.imore.com/are-airtags-water-resistant)
+
+
+> Source: Mark Goldschmitt/iMoreBest answer: Yes, Apple's AirTags are IP67 rated splash, water, and dust resistant. This means they can be submerged in 1 meter of water for up to 30 minutes. Apple's AirTag was introduced during its April 2021 event. The AirTag is Apple's version of an item tracker that takes advantage of the Find My network to locate missing items. Although other trackers such as Tile and Chipolo have been around for years, the AirTag is unique in that you can locate a missing AirTag using the U1 Ultra Wideband chip in an iPhone 11 or 12, while keeping location data private and using end to end encryption.
+
+
+***
+![If Chime Isn't A Bank, Then What Is It?](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6096fb7196385412ee8d8582%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1607%26cropY1%3D29%26cropY2%3D933 "If Chime Isn't A Bank, Then What Is It?")
+
+
+[If Chime Isn't A Bank, Then What Is It?](https://www.forbes.com/sites/ronshevlin/2021/05/10/if-chime-isnt-a-bank-then-what-is-it/)
+
+
+> Chime Founder & CEO Chris Britt (Photo by Kimberly White/Getty Images for TechCrunch) Getty Images for TechCrunch Challenger bank Chime—oh wait, I can't call the fintech a 'bank.' Let me start over. Chime, a provider of products and services that look, feel, and probably even smell like banking products—but regulatorily-speaking, aren't banking products—got some unwanted attention recently when American Banker reported: 'Chime is nearing a deadline to stop implying that it operates as a bank, according to a settlement agreement with California regulators.
+
+
+***
+![Your Instagram photos can be more beautiful with Android 12](http://www.tellerreport.com/images/no-image.png "Your Instagram photos can be more beautiful with Android 12")
+
+
+[Your Instagram photos can be more beautiful with Android 12](https://www.tellerreport.com/tech/2021-05-10-your-instagram-photos-can-be-more-beautiful-with-android-12.r1zH1eoI_u.html)
+
+
+> Android 12 will catch up with competitor iOS and allow apps to use the full potential of the smartphone's camera Your photos published on Instagram will find a better shine with the next version of Android, reports the specialized site Android Central . Changes to the Camera API in Android 12 will allow the social network to easily access the phone's camera and use many previously restricted features. Users will thus get closer to the experience that owners of an iPhone can have. Apple devices already allow Instagram to take advantage of the features present with the phone's camera, recalls Fredzone .
+
+
