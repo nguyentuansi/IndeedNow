@@ -5338,3 +5338,50 @@
 > Source: iMore Apple finds itself in the middle of another forced labor storm after no fewer than seven of its suppliers were accused of using forced labor in Xinjiang, China. In a report by The Information, accusations include factories that resemble prisons including guard towers. Advanced-Connectek has made unglamorous but critical computer components for Apple for more than a decade. For two of those years, it operated a factory inside an industrial park on the edge of the deserts of Xinjiang, a region of western China populated by a predominantly Muslim group known as Uyghurs.
 
 
+***
+![Adjusted timeline for SharedArrayBuffers](https://external-preview.redd.it/9T58fDNN4ECgENNMyPi-5Pipfa1X4-vRkz0N-8jIRy8.jpg?auto=webp&s=65d4b120b7dc43594706c65728a216e9931daa86 "Adjusted timeline for SharedArrayBuffers")
+
+
+[Adjusted timeline for SharedArrayBuffers](https://www.reddit.com/r/programming/comments/n9908q/adjusted_timeline_for_sharedarraybuffers/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Sona Comstar gets SEBI's nod for Rs 6,000-crore IPO](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/ipo_505_180220040430_100521093815.jpg "Sona Comstar gets SEBI's nod for Rs 6,000-crore IPO")
+
+
+[Sona Comstar gets SEBI's nod for Rs 6,000-crore IPO](https://www.businesstoday.in/current/corporate/sona-comstar-gets-sebis-nod-for-rs-6000-crore-ipo/story/438733.html)
+
+
+> Auto component maker Sona BLW Precision Forgings (Sona Comstar) has received capital markets regulator Sebi's approval to raise Rs 6,000 crore through an initial share sale. The IPO comprises a fund-raise via fresh issue amounting to Rs 300 crore and an offer for sale aggregating up to Rs 5,700 crore by selling shareholder Singapore VII Topco III Pte Ltd, an affiliate of the Blackstone Group Inc, according to draft red herring prospectus. Sona Comstar, which filed preliminary IPO papers in February, obtained Sebi's observation on May 6, an update with the markets regulator showed on Monday.
+
+
+***
+[Networking I/O with Virtual Threads](https://www.reddit.com/r/programming/comments/n98rgm/networking_io_with_virtual_threads_under_the_hood/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Amazon Gaming Week deals: Xbox Razer ‘surround sound' headset down to just £39](https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/razer01.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Amazon Gaming Week deals: Xbox Razer ‘surround sound' headset down to just £39")
+
+
+[Amazon Gaming Week deals: Xbox Razer ‘surround sound' headset down to just £39](https://www.the-sun.com/lifestyle/tech/2860731/amazon-gaming-week-deal-xbox-ps5-headset-razer-cheap/)
+
+
+> A SLICK Razer gaming headset has been discounted as part of a major Amazon sale. You can now save 20% on the Razer Kraken X – bringing the price down to just £39.99. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news The headset looks great, and doesn't break the bankCredit: Amazon / Razer It means you're saving £10 on the usual £50 price tag. The "ultralight" gaming headset works on a host of platforms, including Xbox, PlayStation, PC and Mac. It offers 7.
+
+
+***
+![Here's where you can pre-order PowerA's fancy new Nintendo Switch controller](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F127436%252F6a0fb84f-0ad5-4f31-90e7-46a702513df5.png%252F640x360.png?signature=WJ0wMJTso_agKmch_BJvYKcQnm8=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "Here's where you can pre-order PowerA's fancy new Nintendo Switch controller")
+
+
+[Here's where you can pre-order PowerA's fancy new Nintendo Switch controller](https://mashable.com/shopping/may-10-powera-fusion-pro-wireless-controller-nintendo-switch-preorder/)
+
+
+> PRE-ORDER: PowerA's new $99.99 Fusion Pro Wireless Controller for Nintendo Switch ships later this month — pre-order yours from Amazon for a May 15 release date, or reserve one at GameStop and it'll ship by May 21.  We aren't getting a Nintendo Switch Pro anytime soon (though its existence has seemingly been confirmed), so how's about a new pro-grade Switch controller? Replace your console's drifty Joy-Cons with the all-new Fusion Pro Wireless Controller for Nintendo Switch, a fully customizable and officially licensed gamepad from the popular gaming accessories brand PowerA.
+
+
