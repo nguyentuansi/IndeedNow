@@ -5141,3 +5141,50 @@
 > Dogecoin lost more than a third of its price on Sunday, after Tesla chief and cryptocurrency supporter Elon Musk called it a 'hustle' during his guest-host spot on the Saturday Night Live"] comedy sketch TV show.Dogecoin was quoted as low as $0.416 (roughly Rs. 30) on crypto exchange Binance, down 36 percent from levels around $0.65 (roughly Rs. 50) before the show. It retraced some of that move later on Sunday, and was last trading around $0.569 (roughly Rs. 40).The billionaire Tesla chief executive hosted the SNL show at 11:30pm EDT on Saturday (9:00am on Sunday IST).
 
 
+***
+![Chromebooks are affordable, easy-to-use and for right reasons extremely popular in Covid times](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/chromebook-it-647x363.jpeg?U1SJ3fcmdirPXdXsv.axdUmfkdf1T9ns "Chromebooks are affordable, easy-to-use and for right reasons extremely popular in Covid times")
+
+
+[Chromebooks are affordable, easy-to-use and for right reasons extremely popular in Covid times](https://www.indiatoday.in/technology/talking-points/story/chromebooks-are-affordable-easy-to-use-and-for-right-reasons-extremely-popular-in-covid-times-1800768-2021-05-10)
+
+
+> Online classes and remote work during the pandemic are some of the reasons that have caused a surge in demand for laptops for over a year. However, recent market research firm reports indicate that Chromebooks, in particular, have overtaken Windows and Macs, at least in terms of popularity, in recent times. For markets like India, the value for money proposition is one of the biggest reasons why Chromebooks are doing better.A recent report by Canalys, a market research firm, claimed Chromebooks registered a whopping 274.
+
+
+***
+[Chinese rocket tracker LIVE – Huge 18 tonne section burns up in sky and parts plunge into ocean after US direct hit fear](https://www.thesun.ie/tech/6966447/chinese-rocket-tracker-live-crash-sky-where/)
+
+
+> VIDEO allegedly captures the incredible moment debris from the out of control Chinese rocket crashed down in the Indian Ocean. Experts warned it could reach “as far north as Chicago, New York City, Rome and Beijing and as south as New Zealand and Chile” before the debris’ dramatic re-entry into the Earth’s atmosphere. China launched […]
+
+
+***
+![Boult Audio AirBass FX1 TWS earbuds launched in India with Type-C charging, IPX5 rating](https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/05/35763/Airbass-FX1-pic_425_735.jpg "Boult Audio AirBass FX1 TWS earbuds launched in India with Type-C charging, IPX5 rating")
+
+
+[Boult Audio AirBass FX1 TWS earbuds launched in India with Type-C charging, IPX5 rating](https://www.themobileindian.com/news/boult-audio-airbass-fx1-tws-earbuds-launched-in-india-with-type-c-charging-ipx5-rating-35763)
+
+
+> Boult Audio AirBass FX1 TWS earbuds have been launched in India with IPX5 rating and TYPE-C charging.
+
+
+***
+![Two-wheeler makers plan Rs 2,000 capex for FY22; multiple launches in the pipeline](https://images.moneycontrol.com/static-mcnews/2019/01/Bajaj-Pulsar-220-770x433.jpg "Two-wheeler makers plan Rs 2,000 capex for FY22; multiple launches in the pipeline")
+
+
+[Two-wheeler makers plan Rs 2,000 capex for FY22; multiple launches in the pipeline](https://www.moneycontrol.com/news/technology/auto/two-wheeler-makers-plan-rs-2000-capex-for-fy22-multiple-launches-in-the-pipeline-6872901.html)
+
+
+> TVS Motor Company, Hero MotoCorp and Bajaj Auto, who together control 70 percent of India's two-wheeler market, will add new production lines and launch new models including battery-powered scooters in FY22, although the pandemic may prompt them to recalibrate their capital expenditureBajaj Auto is going ahead with its planned new factory near Pune that will churn out KTM, Husqvarna and Triumph branded motorcycles. The total capex lined up by Bajaj Auto of Rs 800 crore for FY22 includes investment set aside for this new facility which is expected to begin production in 2023.
+
+
+***
+![Boult Audio AirBass FX1 TWS with up to 24 hours battery life launched](https://cdn.mos.cms.futurecdn.net/29YMcCUeh9a9E89JrzQvxU-1200-80.jpg "Boult Audio AirBass FX1 TWS with up to 24 hours battery life launched")
+
+
+[Boult Audio AirBass FX1 TWS with up to 24 hours battery life launched](https://www.techradar.com/news/boult-audio-airbass-fx1-price-specs-availability)
+
+
+> (Image credit: Amazon) Boult Audio has added a new budget true wireless earbuds in India today with the launch of Boult Audio AirBass FX1. The newly launched Boult Audio AirBass FX1 is priced under Rs 2,000 and comes with up to 24 hours battery life. In India, the TWS market is growing at a rapid pace as we are seeing multiple brands launching its offering, especially in the budget space. The  Boult Audio AirBass FX1 is an affordable pair of TWS that promises big on the battery life and emphasis on bass.
+
+
