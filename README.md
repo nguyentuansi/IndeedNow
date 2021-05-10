@@ -4947,3 +4947,53 @@
 > I made some enhancements to my fist detection code so it can detect the left and right fist now. I also used the pose estimation method as well. I'm using opencv and the mediapipe library to recreate the Iron Man fight analysis he did on Captain America. Enjoy!
 
 
+***
+![Why doesn't the iPad have a Calculator app? (VIDEO)](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-05/210430-ipad-pro-magic-keyboard-12.9-768x370-seo.jpg "Why doesn't the iPad have a Calculator app? (VIDEO)")
+
+
+[Why doesn't the iPad have a Calculator app? (VIDEO)](https://soyacincau.com/2021/05/09/why-doesnt-the-ipad-have-a-calculator-app/)
+
+
+> Ever since the first iPad was launched over 10 years ago, Apple has not shipped it with a Calculator app. — Picture courtesy of Apple via SoyaCincau Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, May 10 — The iPad is the dominant tablet in the market today, undeniably, and one of the key reasons for that success if the vast variety of apps that have been optimised for iPadOS over the years. Android simply can't keep up — but there's one crucial app that has been missing from the iPad's native armoury, one that seems almost too insignificant to miss: the Calculator.
+
+
+***
+![Best streaming service /movie/tv show to take advantage of iPad Pro 12.9" XDR and spatial audio?](https://images.macrumors.com/social/?t=2295505&v=6 "Best streaming service /movie/tv show to take advantage of iPad Pro 12.9" XDR and spatial audio?")
+
+
+[Best streaming service /movie/tv show to take advantage of iPad Pro 12.9" XDR and spatial audio?](https://forums.macrumors.com/threads/best-streaming-service-movie-tv-show-to-take-advantage-of-ipad-pro-12-9-xdr-and-spatial-audio.2295505/)
+
+
+> I've never had a HDR TV or OLED iPhone, and my current iPad is the 1st gen 12.9" iPad Pro. I preordered the M1 IPP 12.9 which will come May 21, and was wondering if there is a good streaming service / movie that will really show the benefits of HDR and spatial audio? Right now Im subscribed to Disney+, HBO Max, Amazon Prime. Thanks! Oct 25, 2013 10,174 6,421
+
+
+***
+![Top 10 trending phones of week 18](https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-476x249w4/gsmarena_001.jpg "Top 10 trending phones of week 18")
+
+
+[Top 10 trending phones of week 18](https://www.gsmarena.com/top_10_trending_phones_of_week_18-news-49021.php)
+
+
+> Xiaomi is still the dominant maker in our trending chart in week 18, although the order of the phones has shifted significantly. It's Redmi Note 10 Pro that took the lead this time, followed by the non-Pro Redmi Note 10 and the Poco X3 Pro. Last week's leader, the Redmi K40 Gamin is down to fourth ahead of the Poco F3. The quartet of Samsung phones retains formation with the Galaxy A72 ahead of the A52 5G, S21 Ultra and the vanilla A52. Only this time they have each gained a position and occupy positions sixth through ninth.
+
+
+***
+![Nuvei agrees $250m deal to buy crypto firm Simplex](https://www.finextra.com/finextra-images/top_pics/xl/bitcoin-3.jpg "Nuvei agrees $250m deal to buy crypto firm Simplex")
+
+
+[Nuvei agrees $250m deal to buy crypto firm Simplex](https://www.finextra.com/newsarticle/38010/nuvei-agrees-250m-deal-to-buy-crypto-firm-simplex)
+
+
+> No body in the article.
+
+
+***
+![RSA Key Generation](https://external-preview.redd.it/KMUJ-OJ-81RKATwcI9f4eprA6L0LyX2GzfJbWC3hyR4.jpg?auto=webp&s=4ac2d6a7b4ea4852d5d3576f847b8378a35cb099 "RSA Key Generation")
+
+
+[RSA Key Generation](https://www.reddit.com/r/programming/comments/n8qy7n/rsa_key_generation/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
