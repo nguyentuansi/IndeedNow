@@ -5479,3 +5479,53 @@
 > News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
 
 
+***
+![Bird reportedly prepares to go public via SPAC, aims for 2023 profitability – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/11/IMG_0905.jpg?w=533 "Bird reportedly prepares to go public via SPAC, aims for 2023 profitability – TechCrunch")
+
+
+[Bird reportedly prepares to go public via SPAC, aims for 2023 profitability – TechCrunch](https://techcrunch.com/2021/05/10/bird-reportedly-prepares-to-go-public-via-spac-aims-for-2023-profitability/)
+
+
+> Micromobility startups are following the lead of EV companies going public via mergers with special purpose acquisition companies, a financial instrument that came back en vogue in 2020. Bird Rides, the California-born micromobility company that now operates in more than 100 cities across the United States, Europe and the Middle East, plans to merge with Dallas-based blank-check company Switchback II Corporation, reports dot.LA. Switchback, the blank-check company merging with Bird, was formed in 2019 and led by former executives at oil and gas driller RSP Permian, Scott McNeill and Jim Mutrie.
+
+
+***
+![The cybersecurity ‘pandemic' that led to the Colonial Pipeline disaster](https://cdn.vox-cdn.com/thumbor/MsYU8u5Sam49iatlK1hgbyUPifU=/0x484:5808x3388/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/22505063/1317302232.jpg "The cybersecurity ‘pandemic' that led to the Colonial Pipeline disaster")
+
+
+[The cybersecurity ‘pandemic' that led to the Colonial Pipeline disaster](https://www.theverge.com/2021/5/10/22429433/colonial-pipeline-cyber-security-ransomware-attack)
+
+
+> WOODBRIDGE, NEW JERSEY - MAY 10: Fuel holding tanks are seen at Colonial Pipeline's Linden Junction Tank Farm on May 10, 2021 in Woodbridge, New Jersey. Alpharetta, Georgia-based Colonial Pipeline, which has the largest fuel pipeline, was forced to shut down its oil and gas pipeline system on Friday after a ransomware attack that has slowed down the transportation of oil in the eastern U.S. Photo by Michael M. Santiago/Getty Images The cyberattack that forced the Colonial Pipeline offline is just one failure to address existing weaknesses and an escalating 'ransomware pandemic,' experts tell The Verge.
+
+
+***
+![Amazon-first gadget brands Aukey and Mpow are suddenly, suspiciously disappearing](https://cdn.vox-cdn.com/thumbor/04tu5TjcUQ1I-M3wQrzLd-TIgb0=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443463/acastro_181114_1777_amazon_hq2_0003.jpg "Amazon-first gadget brands Aukey and Mpow are suddenly, suspiciously disappearing")
+
+
+[Amazon-first gadget brands Aukey and Mpow are suddenly, suspiciously disappearing](https://www.theverge.com/2021/5/10/22428858/amazon-aukey-mpow-listings-disappearing)
+
+
+> Illustration by Alex Castro / The Verge Many Amazon listings for two major electronics sellers have mysteriously disappeared as of Monday afternoon, and it's unclear exactly what might be going on. Here are a few screenshots from Aukey's Amazon page, taken shortly after 12PM ET on Monday. Aukey is a major seller of chargers, portable batteries, and more, but its Amazon page has a whole lot of blank product boxes and products listed as 'currently unavailable.' A section of Aukey's largely empty Amazon page.
+
+
+***
+![TESSCO Reports Fourth-Quarter 2021 Financial Results](https://mms.businesswire.com/media/20210510005991/en/750354/23/Tessco-logo2017.jpg "TESSCO Reports Fourth-Quarter 2021 Financial Results")
+
+
+[TESSCO Reports Fourth-Quarter 2021 Financial Results](https://www.businesswire.com/news/home/20210510005991/en/TESSCO-Reports-Fourth-Quarter-2021-Financial-Results)
+
+
+> May 10, 2021 06:00 PM Eastern Daylight Time HUNT VALLEY, Md.--(BUSINESS WIRE)--TESSCO TECHNOLOGIES INCORPORATED (NASDAQ: TESS) today reported financial results for its fourth quarter and fiscal year 2021, ended March 28, 2021. Fourth Quarter and Fiscal Year Financial Highlights: Fourth quarter fiscal year 2021 revenues of $88.7 million, down 16% compared to the fourth quarter of the prior year Fiscal year 2021 revenues of $373.3 million, down 9% from the prior year Sales bookings up 19% in the second half of fiscal 2021 as compared to the first half of the fiscal year Fiscal year-end 2021 sales backlog was higher than at any point since the pandemic began 'I am proud of the way that our team came together to provide our customers with superior service in what was a difficult year for Tessco,' said Sandip Mukerjee, TESSCO's President and Chief Executive Officer.
+
+
+***
+![The best gaming laptop deals in May 2021](https://cdn.mos.cms.futurecdn.net/oykGEjyfdfw5SH85Hgg8vZ-1200-80.jpg "The best gaming laptop deals in May 2021")
+
+
+[The best gaming laptop deals in May 2021](https://www.laptopmag.com/news/best-gaming-laptop-deals)
+
+
+> Asus ROG Zephyrus M15 Gaming Laptop (Image credit: Asus) We're seeing the best gaming laptop deals right now including solid discounts on today's top-rated gaming notebooks. This season, retailers are slashing prices on gaming laptop configurations of all sorts. Not to be outdone, PC makers Dell, HP and Lenovo are also offering tempting deals on their best gaming laptops. To make your life easier, we're rounding up the best gaming laptop deals in one place. Whether you want a fully-loaded gaming rig or an affordable gaming machine under $1000, we'll help you get the best gaming laptop for the money.
+
+
