@@ -5091,3 +5091,53 @@
 > A little over a year after making its debut in iOS, audio-chatting app Clubhouse is now opening its account in Android. The app was launched last March exclusively for iOS users to let connect them with others via chat rooms sans cameras.By the time it was ready for general use to all Apple users in June, ‘zoom fatigue' was starting to set in, making people log on to Clubhouse to socialise. Within ten months of its launch, the app enabled over two million people, from musicians to stock traders, to meet, to talk and connect on the platform.
 
 
+***
+![Published My First PyPI Package](https://external-preview.redd.it/9FZuS456Y3wSzJNG5sSPni5QCKeD-gaGntC4U3lVTxk.jpg?auto=webp&s=5ee84e18dcfa9985f39564973fba235e9a31a7f3 "Published My First PyPI Package")
+
+
+[Published My First PyPI Package](https://www.reddit.com/r/Python/comments/n8xcn8/published_my_first_pypi_package_pip_install_dbml/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Anker Soundcore Life Q35 review: budget headphones with good noise-cancelling](https://i.guim.co.uk/img/media/b92aae381e13b90d28edc2c1b785cbfb171b8c7c/115_202_5224_3134/master/5224.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=4bc016639406557188f0c319375da11f "Anker Soundcore Life Q35 review: budget headphones with good noise-cancelling")
+
+
+[Anker Soundcore Life Q35 review: budget headphones with good noise-cancelling](http://www.theguardian.com/technology/2021/may/10/anker-soundcore-life-q35-review-budget-headphones-with-good-noise-cancelling)
+
+
+> The latest Bluetooth headphones from Anker offer very long battery life and surprisingly effective noise-cancelling on a budget.The Soundcore Life Q35 cost £129.99 and replace the Life Q30 as the brand's top headphones, significantly undercutting leading models from rivals that often cost in excess of £300. The headphones have a reasonably simple design made of smooth, soft-touch plastic in a semi-metallic blue colour. Photograph: Samuel Gibbs/The GuardianThey are fairly bulky compared with some of the best but don't look ostentatious and are fairly light.
+
+
+***
+![I created an Instagram page Automator!](https://external-preview.redd.it/ubAbV-E6J2_N0-8C7ZdYhUrvRZbOv2tQlkeYTc_9O_Q.jpg?auto=webp&s=42663aeee4fa52193866948da2e1aa33fbcb4b89 "I created an Instagram page Automator!")
+
+
+[I created an Instagram page Automator!](https://www.reddit.com/r/Python/comments/n8x9bx/i_created_an_instagram_page_automator/)
+
+
+> Using two different APIs, I created a program that can take posts from specified subreddits and post them onto your Instagram page, with credits to the user and subreddit. You can also specify hashtags in the description, and specify a recurring time interval to post.You can check it out here: https://github.com/Divdude77/Instagram-Page-Automator
+
+
+***
+![Telkomsel invests an additional $300 million in Gojek – TechCrunch](https://techcrunch.com/wp-content/uploads/2017/08/go-jek.jpg?w=540 "Telkomsel invests an additional $300 million in Gojek – TechCrunch")
+
+
+[Telkomsel invests an additional $300 million in Gojek – TechCrunch](https://techcrunch.com/2021/05/09/telkomsel-invests-an-additional-300-million-in-gojek/)
+
+
+> Telkomsel, a unit of Indonesia's largest telecom operator Telkom, has invested an additional $300 million in ride-hailing and payments firm Gojek, the two firms said Monday, just months after the network provider wrote a $150 million check to the Southeast Asian firm. The announcement comes amid Gojek working to seal a proposed merger with e-commerce platform Tokopedia. The $18 billion deal would result in a new entity called GoTo, according to media reports. Telkomsel's investment today likely makes it one of GoTo's top eight investors.
+
+
+***
+![Dogecoin Price Dives After Elon Musk Calls it a 'Hustle' on SNL](https://i.gadgets360cdn.com/large/dogecoin_yellowbg_reuters_1620625541972.jpg "Dogecoin Price Dives After Elon Musk Calls it a 'Hustle' on SNL")
+
+
+[Dogecoin Price Dives After Elon Musk Calls it a 'Hustle' on SNL](https://gadgets.ndtv.com/internet/news/dogecoin-price-drop-elon-musk-snl-saturday-night-live-host-hustle-video-cryptocurrency-2438627)
+
+
+> Dogecoin lost more than a third of its price on Sunday, after Tesla chief and cryptocurrency supporter Elon Musk called it a 'hustle' during his guest-host spot on the Saturday Night Live"] comedy sketch TV show.Dogecoin was quoted as low as $0.416 (roughly Rs. 30) on crypto exchange Binance, down 36 percent from levels around $0.65 (roughly Rs. 50) before the show. It retraced some of that move later on Sunday, and was last trading around $0.569 (roughly Rs. 40).The billionaire Tesla chief executive hosted the SNL show at 11:30pm EDT on Saturday (9:00am on Sunday IST).
+
+
