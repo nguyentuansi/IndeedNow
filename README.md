@@ -5288,3 +5288,53 @@
 > Android 12 will catch up with competitor iOS and allow apps to use the full potential of the smartphone's camera Your photos published on Instagram will find a better shine with the next version of Android, reports the specialized site Android Central . Changes to the Camera API in Android 12 will allow the social network to easily access the phone's camera and use many previously restricted features. Users will thus get closer to the experience that owners of an iPhone can have. Apple devices already allow Instagram to take advantage of the features present with the phone's camera, recalls Fredzone .
 
 
+***
+![Brooks launches astronaut-inspired running shoe with nitrogen foam](https://cdn.mos.cms.futurecdn.net/TcQT9kF8idgdhKdGJPGiKm-1200-80.png "Brooks launches astronaut-inspired running shoe with nitrogen foam")
+
+
+[Brooks launches astronaut-inspired running shoe with nitrogen foam](https://www.techradar.com/news/brooks-launches-astronaut-inspired-running-shoe-with-nitrogen-foam)
+
+
+> (Image credit: Brooks) Brooks has launched a new limited-edition running shoe inspired by spacesuits, with a decoupled sole for improved roll, nitrogen-injected foam for lightweight cushioning, and a translucent upper just because it looks cool.The Brooks Aurora-BL was created in the company's Blue Line Lab – an ‘innovation accelerator setup' - essentially a part of the company that works on new materials and designs, and brings them to runners' feet as soon as possible. It's on sale now, in men's and women's sizes, but only 25,000 pairs will be produced.
+
+
+***
+![Best accessories to protect, secure your Apple AirPods](https://www.imore.com/sites/imore.com/files/styles/large/public/apple-airpods-open-box-231z.jpg "Best accessories to protect, secure your Apple AirPods")
+
+
+[Best accessories to protect, secure your Apple AirPods](https://www.imore.com/best-accessories-apple-airpods)
+
+
+> Best Accessories for Apple AirPods iMore 2021 Apple's AirPods are a magical accessory that complements all iPhones, iPads, and Macs. They're super intuitive to connect to your devices, and all you need to do to control them is tap or swipe on them to control playback. But they're expensive, so you'll want to protect your investment or even improve their fitness or staying power while you take them on a run. These are some of the best AirPod accessories you can buy. Staff Pick Twelve South is a trusted name in Apple accessories, and the AirSnap is another fantastic product.
+
+
+***
+![Amazon Prime Day 2021 could arrive earlier than we expect — here's why](https://cdn.mos.cms.futurecdn.net/76rN5qJYjzkEVCaBDiiF4Y-1200-80.jpg "Amazon Prime Day 2021 could arrive earlier than we expect — here's why")
+
+
+[Amazon Prime Day 2021 could arrive earlier than we expect — here's why](https://www.laptopmag.com/news/amazon-prime-day-2021-could-arrive-earlier-than-we-expect-heres-why)
+
+
+> Amazon Prime delivery (Image credit: Shutterstock) Amazon Prime Day, the retailer's big annual saving event, will be here before we know it. Normally held in July in honor of Amazon's July 5 founding date, Prime Day could arrive as early as June this year.  Amazon announced in its first-quarter earnings release, Prime Day 2021 will occur later in the second quarter (Q2) of this year, which suggests June. For financial accounting and reporting, Q2 is the period between April 1 to June 30. This news supports existing reports rumoring June as a tentative calendar date.
+
+
+***
+![This may be the best iPhone 12 deal in 2021 so far and comes with unlimited data](https://cdn.mos.cms.futurecdn.net/pjhNBLdZJWCywSAeqZoHEh-1200-80.jpg "This may be the best iPhone 12 deal in 2021 so far and comes with unlimited data")
+
+
+[This may be the best iPhone 12 deal in 2021 so far and comes with unlimited data](https://www.techradar.com/news/this-iphone-12-deal-gets-you-unlimited-data-at-a-market-leading-pound39-a-month)
+
+
+> (Image credit: Future) iPhone 12 deals have slowly started to loosen their price tags and head in the direction of affordability. And right now, if you're looking for a new tariff on this phone, a recent offer from Fonehouse looks like the way to go.This deal gets you the iPhone 12 with completely unlimited data, calls, and texts while only charging £39 a month and absolutely nothing upfront. That makes this easily the top contract on this handset, offering no caps on your data at one of the lower prices around.
+
+
+***
+![7 Apple suppliers are accused of using forced labor from Xinjiang, China](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2016/05/iphone-6s-plus-apple-logo.jpg "7 Apple suppliers are accused of using forced labor from Xinjiang, China")
+
+
+[7 Apple suppliers are accused of using forced labor from Xinjiang, China](https://www.imore.com/seven-apple-suppliers-are-accused-using-forced-labor-xinjiang-china)
+
+
+> Source: iMore Apple finds itself in the middle of another forced labor storm after no fewer than seven of its suppliers were accused of using forced labor in Xinjiang, China. In a report by The Information, accusations include factories that resemble prisons including guard towers. Advanced-Connectek has made unglamorous but critical computer components for Apple for more than a decade. For two of those years, it operated a factory inside an industrial park on the edge of the deserts of Xinjiang, a region of western China populated by a predominantly Muslim group known as Uyghurs.
+
+
