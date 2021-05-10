@@ -5429,3 +5429,53 @@
 > Stocks tilting lower As stocks tilt more to the downside, the AUDUSD is losing some upside momentum and has not dipped below a swing area in from some intraday highs and lows over the last two days between 0.78609 and 0.78643 the current price is trading at 0.78562 as I type.
 
 
+***
+![Smith Micro to Present at the 16th Annual Needham Virtual Technology & Media Conference on May 17, 2021](https://mms.businesswire.com/media/20210510005823/en/1059296/23/Smith%2520Micro%2520Logo.jpg "Smith Micro to Present at the 16th Annual Needham Virtual Technology & Media Conference on May 17, 2021")
+
+
+[Smith Micro to Present at the 16th Annual Needham Virtual Technology & Media Conference on May 17, 2021](https://www.businesswire.com/news/home/20210510005823/en/Smith-Micro-to-Present-at-the-16th-Annual-Needham-Virtual-Technology-Media-Conference-on-May-17-2021)
+
+
+> May 10, 2021 04:00 PM Eastern Daylight Time PITTSBURGH--(BUSINESS WIRE)--Smith Micro Software, Inc. (NASDAQ: SMSI) today announced that the company will participate in the Needham & Company 16th Annual Virtual Technology & Media Conference (NTMC), which will be held virtually May 17 – 20, 2021. William W. Smith, Jr., President and CEO of Smith Micro, Timothy Huffmyer, CFO of Smith Micro, and Charles Messman, VP of Investor Relations & Corporate Development with the company, will present virtually from 10:15 – 10:55 am Eastern Time on Monday, May 17.
+
+
+***
+![Inliner: no more file switching, pull in code blocks](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Inliner: no more file switching, pull in code blocks")
+
+
+[Inliner: no more file switching, pull in code blocks](https://www.reddit.com/r/Python/comments/n9ehte/inliner_no_more_file_switching_pull_in_code_blocks/)
+
+
+> http://inliner.io/ I hate having to jump between dozens of files when I'm trying to write code, especially with a codebase I'm not familiar with. I made a super lightweight extension in python that lets me inline multiple layers of code so I can code without any file switching. If you'd also find it helpful I'd love to share it with you! I'm currently a CS student and I've been working on this outside of school. If you guys have any feedback or advice, including what I should work on next, pleas
+
+
+***
+![Tech sell-off drags stocks lower, pulling market below highs](https://www.mymotherlode.com/wp-content/uploads/2021/05/files_d5a4bc63e0.jpeg "Tech sell-off drags stocks lower, pulling market below highs")
+
+
+[Tech sell-off drags stocks lower, pulling market below highs](https://www.mymotherlode.com/news/technology/1717562/asian-share-rise-on-us-rally-jobs-data-signaling-low-rates.html)
+
+
+> A sell-off in technology companies dragged stocks lower on Wall Street in afternoon trading Monday, pulling the market back from its recent all-time highs. The S&P 500 was down 0.7% as of 3:36 p.m. Eastern after wobbling between small gains and losses. The Nasdaq was down 2.2%, its worst day in more than seven weeks, as Big Tech companies that dominate the index like Apple, Google, Facebook and Amazon fell. The Dow Jones Industrial Average bucked the trend, but was losing momentum in the final hour of regular trading.
+
+
+***
+![Colonial hack: How did cyber-attackers shut off pipeline?](https://ichef.bbci.co.uk/news/1024/branded_news/BA09/production/_118452674_pipe.png "Colonial hack: How did cyber-attackers shut off pipeline?")
+
+
+[Colonial hack: How did cyber-attackers shut off pipeline?](https://www.bbc.com/news/technology-57063636)
+
+
+> By Joe TidyCyber reporter image copyrightGetty ImagesInvestigators at the largest fuel pipeline in the US are working to recover from a devastating cyber-attack that cut the flow of oil.The hack on Colonial Pipeline is being seen as one of the most significant attacks on critical national infrastructure in history.The pipeline transports nearly half of the east coast's fuel supplies and prices at pumps are expected to rise if the outage is long lasting.For many people, the image of the oil industry is one of pipes, pumps and greasy black liquid.
+
+
+***
+![String Interning in Python: A Hidden Gem That Makes Your Code Faster](https://external-preview.redd.it/eAB-BqvjWlQALEKZHhhnyu0PvKuuZBN9q6D28-6qQZQ.jpg?auto=webp&s=82491838132ae3ff597d205beafeaefd841c06c8 "String Interning in Python: A Hidden Gem That Makes Your Code Faster")
+
+
+[String Interning in Python: A Hidden Gem That Makes Your Code Faster](https://www.reddit.com/r/Python/comments/n9ebsj/string_interning_in_python_a_hidden_gem_that/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
