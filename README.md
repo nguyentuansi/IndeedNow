@@ -5385,3 +5385,47 @@
 > PRE-ORDER: PowerA's new $99.99 Fusion Pro Wireless Controller for Nintendo Switch ships later this month — pre-order yours from Amazon for a May 15 release date, or reserve one at GameStop and it'll ship by May 21.  We aren't getting a Nintendo Switch Pro anytime soon (though its existence has seemingly been confirmed), so how's about a new pro-grade Switch controller? Replace your console's drifty Joy-Cons with the all-new Fusion Pro Wireless Controller for Nintendo Switch, a fully customizable and officially licensed gamepad from the popular gaming accessories brand PowerA.
 
 
+***
+![Samsung's Exynos 2200 SoC could Power Laptops And Phones](https://www.androidheadlines.com/wp-content/uploads/2020/11/AH-Samsung-logo-new-12.jpg "Samsung's Exynos 2200 SoC could Power Laptops And Phones")
+
+
+[Samsung's Exynos 2200 SoC could Power Laptops And Phones](https://www.androidheadlines.com/2021/05/samsungs-exynos-2200-soc-could-power-laptops-and-phones.html)
+
+
+> Samsung is a company that is notorious for wanting to manufacture everything under the sun. That statement remains true as we get news that the Korean OEM is looking to enter the laptop chip market. According to Korean Economic Daily, Samsung is in the works of making an SoC that can be put into laptops.The processor might be called the Exynos 2200 SoC, and it could power laptops and phonesThe CPU business is in a weird place- companies like Intel are facing the onset of ARM-based chips being put into laptops/desktops.
+
+
+***
+![State AGs tell Facebook to scrap Instagram for kids plans – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/10/instagram-app-icon.jpg?w=711 "State AGs tell Facebook to scrap Instagram for kids plans – TechCrunch")
+
+
+[State AGs tell Facebook to scrap Instagram for kids plans – TechCrunch](https://techcrunch.com/2021/05/10/facebook-instagram-for-kids-state-attorneys-general-letter/)
+
+
+> In a new letter, attorneys general representing 44 U.S. states and territories are pressuring Facebook to walk away from new plans to open Instagram to children. The company is working on an age-gated version of Instagram for kids under the age of 13 that would lure in young users who are currently not permitted to use the app, which was designed for adults. 'It appears that Facebook is not responding to a need, but instead creating one, as this platform appeals primarily to children who otherwise do not or would not have an Instagram account,' the coalition of attorneys general wrote, warning that an Instagram for kids would be 'harmful for myriad reasons.
+
+
+***
+[5 Fintech ETFs to Watch Out For This Year](https://investmentu.com/fintech-etfs/)
+
+
+> The fintech industry has a lot of long-term potential for investors. Here is a list of fintech ETFs to consider this year... The post 5 Fintech ETFs to Watch Out For This Year appeared first on Investment U.
+
+
+***
+![Mice become instant friends after scientists reprogram their brains](https://static.independent.co.uk/2021/05/10/18/mice%20friends%20neuroscience.jpg?width=1200&auto=webp&quality=75 "Mice become instant friends after scientists reprogram their brains")
+
+
+[Mice become instant friends after scientists reprogram their brains](https://www.independent.co.uk/life-style/gadgets-and-tech/neuroscience-mice-friends-brain-optogenetics-b1845096.html)
+
+
+> Scientists have created a device that allows them to program mice to become friends with one another.The implant was developed by researchers at Northwestern University in the US, who sought to wirelessly reprogram the neurons in a mouse's brain in order for it to form an 'instant bond' with another mouse.'Brain activity in an isolated animal is interesting, but going beyond research on individuals to studies of complex, socially interacting groups is one of the most important and exciting frontiers in neuroscience,' said Professor John Rogers, who led the technology development.
+
+
+***
+[AUDUSD falls below from Friday and earlier today](https://www.forexlive.com/technical-analysis/!/audusd-falls-below-from-friday-and-earlier-today-20210510)
+
+
+> Stocks tilting lower As stocks tilt more to the downside, the AUDUSD is losing some upside momentum and has not dipped below a swing area in from some intraday highs and lows over the last two days between 0.78609 and 0.78643 the current price is trading at 0.78562 as I type.
+
+
