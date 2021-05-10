@@ -5041,3 +5041,53 @@
 > Online seller eBay says it is handing regulators the power to take down dangerous listings without consulting the company.Officials will be able to remove items "where they have evidence of a risk to consumer safety", eBay said.In the UK, that will include the Office for Product Safety and Standards and internet regulator Ofcom.Online market places, such as eBay, are engaged in a constant battle to ferret out unsafe items sold by their users.That is in part because nearly anyone can create a listing on online auction sites.
 
 
+***
+![University of Twente is participating in an alternative Solar Challenge in Morocco](https://media.nu.nl/m/1f3x938a0lsy_wd1280.jpg/universiteit-twente-doet-mee-aan-alternatieve-solar-challenge-in-marokko.jpg "University of Twente is participating in an alternative Solar Challenge in Morocco")
+
+
+[University of Twente is participating in an alternative Solar Challenge in Morocco](https://www.tellerreport.com/tech/2021-05-10-university-of-twente-is-participating-in-an-alternative-solar-challenge-in-morocco.rkUScb4IdO.html)
+
+
+> Solar Team Twente will participate in October in the Solar Challenge Morocco, an alternative to the Bridgestone World Solar Challenge in Australia. The University of Twente announced this on Friday. The Solar Challenge Morocco was created because the Australian solar car race was canceled due to the corona virus. Solar Team Twente will participate in October in the Solar Challenge Morocco, an alternative to the Bridgestone World Solar Challenge in Australia. The University of Twente announced this on Friday.
+
+
+***
+![Clubhouse, the invite-only voice-based social media app, debuts on Android](https://images.indianexpress.com/2021/05/Clubhouse-FBB.jpg "Clubhouse, the invite-only voice-based social media app, debuts on Android")
+
+
+[Clubhouse, the invite-only voice-based social media app, debuts on Android](https://indianexpress.com/article/technology/social/clubhouse-debuts-on-android-7308949/)
+
+
+> After being exclusive to iOS for more than a year, Clubhouse on Sunday debuted its Android app on the Play Store. The move will allow Android users to experience the popular audio-based social network for the first time. However, the beta app is currently live in the US but the company says the Android app will come to other English-speaking markets and then the rest of the world. The arrival of Clubhouse on Android, the world's most popular mobile operating system, will only help increase the popularity of the app.
+
+
+***
+![is it realistic to learn python somewhat well enough to get an internship in software engineering in 14 weeks with a decent amount of time spent a day?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "is it realistic to learn python somewhat well enough to get an internship in software engineering in 14 weeks with a decent amount of time spent a day?")
+
+
+[is it realistic to learn python somewhat well enough to get an internship in software engineering in 14 weeks with a decent amount of time spent a day?](https://www.reddit.com/r/Python/comments/n8vb6n/is_it_realistic_to_learn_python_somewhat_well/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![How network context helps cloud observability](https://itwire.com/media/k2/items/cache/d5f90375631455f8407c05a6cf828bb0_XS.jpg "How network context helps cloud observability")
+
+
+[How network context helps cloud observability](https://itwire.com/guest-articles/guest-opinion/how-network-context-helps-cloud-observability.html)
+
+
+> A simple web application running on the Internet may have the front end hosted on AWS, data stored on Azure, and machine-learning algorithms running on Google Cloud. This inherently creates a wider surface, with each facet operating within a different set of rules and requiring a different set of monitoring and analysing capabilities. The volume of data flowing cannot be stored in runtime and used for quick analysis and decision-making to figure out if traffic flow is a potential security threat.
+
+
+***
+![Clubhouse app says hello to Android](https://www.thehindu.com/static/theme/default/base/img/og-image.jpg "Clubhouse app says hello to Android")
+
+
+[Clubhouse app says hello to Android](https://www.thehindu.com/sci-tech/technology/internet/clubhouse-app-says-hello-to-android/article34524181.ece)
+
+
+> A little over a year after making its debut in iOS, audio-chatting app Clubhouse is now opening its account in Android. The app was launched last March exclusively for iOS users to let connect them with others via chat rooms sans cameras.By the time it was ready for general use to all Apple users in June, ‘zoom fatigue' was starting to set in, making people log on to Clubhouse to socialise. Within ten months of its launch, the app enabled over two million people, from musicians to stock traders, to meet, to talk and connect on the platform.
+
+
