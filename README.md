@@ -5188,3 +5188,53 @@
 > (Image credit: Amazon) Boult Audio has added a new budget true wireless earbuds in India today with the launch of Boult Audio AirBass FX1. The newly launched Boult Audio AirBass FX1 is priced under Rs 2,000 and comes with up to 24 hours battery life. In India, the TWS market is growing at a rapid pace as we are seeing multiple brands launching its offering, especially in the budget space. The  Boult Audio AirBass FX1 is an affordable pair of TWS that promises big on the battery life and emphasis on bass.
 
 
+***
+![A Peek Into The Markets: US Stock Futures Mixed; Crude Oil Edges Higher](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/peek_into_the_marketnew_171.png "A Peek Into The Markets: US Stock Futures Mixed; Crude Oil Edges Higher")
+
+
+[A Peek Into The Markets: US Stock Futures Mixed; Crude Oil Edges Higher](https://www.benzinga.com/news/earnings/21/05/21029354/a-peek-into-the-markets-us-stock-futures-mixed-crude-oil-edges-higher)
+
+
+> Pre-open movers U.S. stock futures traded mixed in early pre-market trade after the Dow Jones closed at a record high in the previous session. Investors are awaiting earnings results from Tyson Foods, Inc. (NYSE: TSN), US Foods Holding Corp (NYSE: USFD) and Aecom (NYSE: ACM). Federal Reserve Bank of Chicago President Charles Evans is set to speak at 8:30 a.m. ET, while the Investor Movement Index for April is scheduled for release at 12:30 p.m. ET. Futures for the Dow Jones Industrial Average rose 64 points to 34,750.
+
+
+***
+![This frustrating Windows 10 upgrade issue has finally been resolved by Microsoft](https://cdn.mos.cms.futurecdn.net/hkwvjVHfvVszcYUDPgzzaH-1200-80.jpg "This frustrating Windows 10 upgrade issue has finally been resolved by Microsoft")
+
+
+[This frustrating Windows 10 upgrade issue has finally been resolved by Microsoft](https://www.techradar.com/news/this-frustrating-windows-10-upgrade-issue-has-finally-been-resolved-by-microsoft)
+
+
+> (Image credit: Antonio Guillem / Shutterstock) Some Windows 10 users have experienced problems since May 2020 when trying to upgrade to versions 2004 or 20H2 due to Conexant issues should now find that all blocks have been rectified, with Microsoft stating that any users who experienced this are now safe to attempt the update again. A small number of computers saw complications with Conexant or Synaptic audio drivers that resulted in Windows 10 users receiving a stop error that caused the device to blue screen, which would then automatically trigger the system to roll back to an older version of Windows 10.
+
+
+***
+![These security cameras come with a real human guard to watch over your house and intervene if necessary](https://ktla.com/wp-content/uploads/sites/4/2021/05/20210504_120307.jpg?w=640 "These security cameras come with a real human guard to watch over your house and intervene if necessary")
+
+
+[These security cameras come with a real human guard to watch over your house and intervene if necessary](https://ktla.com/morning-news/technology/deep-sentinel-home-security-live-guard-ai-cameras-richontech-review/)
+
+
+> Imagine walking in front of a security camera and suddenly it comes to life, asking you what you're doing on the property. That's the premise behind Deep Sentinel, a new type of security company that's selling virtual guards with each of its cameras. Follow Rich DeMuro on Instagram for more tech news, tips and tricks. 'There are very few things that have actually moved the needle in making people not only feel safer but be safer,' explained David Selinger, co-founder and CEO of Deep Sentinel. David Selinger, co-founder and CEO of Deep Sentinel I met up with David at a residence in Los Angeles where the technology has been installed for a few years now.
+
+
+***
+![Sequans to Participate in Needham 2021 Virtual Technology and Media Conference](https://mms.businesswire.com/media/20210510005315/en/666570/23/Sequans_Logo-Update_061318%5B6%5D.jpg "Sequans to Participate in Needham 2021 Virtual Technology and Media Conference")
+
+
+[Sequans to Participate in Needham 2021 Virtual Technology and Media Conference](https://www.businesswire.com/news/home/20210510005315/en/Sequans-to-Participate-in-Needham-2021-Virtual-Technology-and-Media-Conference)
+
+
+> May 10, 2021 06:00 AM Eastern Daylight Time PARIS--(BUSINESS WIRE)--Sequans Communications S.A. (NYSE: SQNS), leading developer and provider of 5G and 4G solutions for broadband, critical, and massive IoT, announced today Georges Karam, CEO and Deborah Choate, CFO, will participate in the Needham Technology and Media Conference being held virtually May 17-20, 2021. Sequans will conduct one-on-one meetings on Monday, May 17th and Tuesday, May 18th between 8:00 am and 1:30 pm ET. The Company will participate in a fireside chat from 8:00 am to 8:40 am ET on Monday, May 17th.
+
+
+***
+![Spotify Is Overrun With Artist Impostors. I Tracked Some Down.](https://compote.slate.com/images/5ae50e3c-7150-4159-8654-1e43eee83026.png?width=780&height=520&rect=1383x922&offset=17x0 "Spotify Is Overrun With Artist Impostors. I Tracked Some Down.")
+
+
+[Spotify Is Overrun With Artist Impostors. I Tracked Some Down.](https://slate.com/technology/2021/05/spotify-same-name-artists-impostors.html)
+
+
+> If youâ€™re a West Coast rap fan, you may have noticed that a new DJ Quik album appeared on Spotify in December. It might have popped up in your Release Radar, the weekly personalized playlist of new music from artists you already listen to, or maybe you saw it on Quikâ€™s verified Spotify profile. Either way, the moment you hit play you would have realized: This is fake as hell! For one thing, the vocals are in Spanish, a language DJ Quik doesnâ€™t rap in. The 22 tracks are listed in alphabetical order, starting with â€œ3en1â€� and ending with â€œZombiesâ€�â€'a strange choice.
+
+
