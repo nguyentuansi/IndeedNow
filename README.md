@@ -5529,3 +5529,50 @@
 > Asus ROG Zephyrus M15 Gaming Laptop (Image credit: Asus) We're seeing the best gaming laptop deals right now including solid discounts on today's top-rated gaming notebooks. This season, retailers are slashing prices on gaming laptop configurations of all sorts. Not to be outdone, PC makers Dell, HP and Lenovo are also offering tempting deals on their best gaming laptops. To make your life easier, we're rounding up the best gaming laptop deals in one place. Whether you want a fully-loaded gaming rig or an affordable gaming machine under $1000, we'll help you get the best gaming laptop for the money.
 
 
+***
+![Tech sell-off drags stocks lower, pulling market below highs](https://ca-times.brightspotcdn.com/dims4/default/a289a54/2147483647/strip/true/crop/5400x2835+0+168/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F91%2F4dee1f9b4c7087e2ebbcfba63107%2Ffinancial-markets-wall-street-34922.jpg "Tech sell-off drags stocks lower, pulling market below highs")
+
+
+[Tech sell-off drags stocks lower, pulling market below highs](https://www.latimes.com/business/story/2021-05-10/tech-sell-off-drags-stocks-lower-pulling-market-below-highs)
+
+
+> A sell-off in technology companies Monday dragged stocks lower on Wall Street, pulling the major indexes back from their recent all-time highs.The Standard & Poor's 500 index fell 1% after wobbling between small gains and losses the first half of the day. The decline broke a three-session winning streak for the benchmark index, which set a record high Friday.Big Tech companies, including Apple, Facebook, Amazon and Google's parent company, accounted for most of the index's decline. Communication stocks and companies that rely on consumer spending also helped pull the market lower, outweighing gains in household goods makers, utilities and other sectors.
+
+
+***
+![Bitcoin price latest – $200bn worth of Bitcoin at risk from cyber theft, report warns](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/05/aj-bitcoin-offplat.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price latest – $200bn worth of Bitcoin at risk from cyber theft, report warns")
+
+
+[Bitcoin price latest – $200bn worth of Bitcoin at risk from cyber theft, report warns](https://www.thesun.co.uk/tech/14905928/bitcoin-price-shiba-inu-ethereum-cryptocurrency-dogecoin-elon-musk/)
+
+
+> NEARLY $200billion worth of Bitcoin is at risk from cyber theft, a shocking report has claimed. Approximately 3,480,000 out of the world's mined 18.5million Bitcoin, stands vulnerable to attacks as a result of improper safekeeping, it was claimed. The report by Opimas LLC, a finance-based management consultancy firm, extensively covered the various institutional safekeeping gaps – capable of exposing owners of cryptocurrencies to coin theft. Opimas highlights in its report the need for the establishment of more middlemen in cryptocurrencies.
+
+
+***
+[Zencargo, which helps companies organize and track movements of their SKUs via its freight forwarding platform, raises $42M Series B led by Digital+ Partners (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210510/p25#a210510p25)
+
+
+> Ingrid Lunden / TechCrunch: Zencargo, which helps companies organize and track movements of their SKUs via its freight forwarding platform, raises $42M Series B led by Digital+ Partners — While consumers and businesses continue to use their purchasing power to spin the wheels of the globalized economy …
+
+
+***
+![Replicated: Demand for on-premises software equally as strong as SaaS](https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-855686630.jpg?w=1200&strip=all "Replicated: Demand for on-premises software equally as strong as SaaS")
+
+
+[Replicated: Demand for on-premises software equally as strong as SaaS](https://venturebeat.com/2021/05/10/replicated-demand-for-on-premises-software-equally-as-strong-as-saas/)
+
+
+> Join Transform 2021 this July 12-16. Register for the AI event of the year. While there is a strong demand for cloud applications and software-as-a-service, security, regulatory, and compliance requirements continue to drive demand for on-premises software. In a new Dimensional Research report, 92% of companies said on-premises software was growing. The report, sponsored by Replicated, a software delivery and management company, found that current customer demand for on-premises software was equal to that of public cloud.
+
+
+***
+![‘Wake up call': Top doc's Sydney warning](https://content.api.news/v3/images/bin/48ddb4c2090c3c792914489848639e34 "‘Wake up call': Top doc's Sydney warning")
+
+
+[‘Wake up call': Top doc's Sydney warning](https://www.news.com.au/technology/gadgets/mobile-phones/nsw-residents-urged-to-use-qr-code-checkins-as-covid19-infection-mystery-continues/news-story/2a4ae574034b7598beff4333e01c496b)
+
+
+> A recent COVID-19 case in Sydney that has stumped NSW Health officials has prompted the state's chief health officer to issue a stern warning.NSW chief health officer Kerry Chant has stressed the importance of using QR codes to check into businesses as COVID-19 contact tracers scramble to find the source of infection for a man from Sydney's eastern suburbs.A man aged in his 50s and his wife became the first locally-acquired cases of the virus in NSW in more than a month when they tested positive last week.
+
+
