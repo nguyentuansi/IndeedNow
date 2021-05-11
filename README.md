@@ -5623,3 +5623,53 @@
 > submitted by /u/mooreds [link] [comments]
 
 
+***
+![EXCLUSIVE Foxconn iPhone India output drops 50% amid COVID surge-sources](https://www.reuters.com/resizer/Y7v2gjODRDiGqV5wrRWRmNaM5Cg=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/4OCZL4JCQBJS3EDGTXG6PJNPTM.jpg "EXCLUSIVE Foxconn iPhone India output drops 50% amid COVID surge-sources")
+
+
+[EXCLUSIVE Foxconn iPhone India output drops 50% amid COVID surge-sources](https://www.reuters.com/technology/exclusive-foxconn-iphone-india-output-drops-50-amid-covid-surge-sources-2021-05-11/)
+
+
+> The Apple Inc logo is shown outside the company's 2016 Worldwide Developers Conference in San Francisco, California, U.S. June 13, 2016. REUTERS/Stephen LamProduction of the Apple iPhone 12 (AAPL.O) at a Foxconn (2317.TW) factory in India has slumped by more than 50% because workers infected with COVID-19 have had to leave their posts, two sources told Reuters.The Foxconn facility in the southern state of Tamil Nadu produces iPhones specifically for India, the world's No.2 smartphone market.Tamil Nadu is one of the worst hit states in the second coronavirus wave engulfing India.
+
+
+***
+![Federal budget: Extinction Rebellion protesters block politicians from Parliament House](https://images.perthnow.com.au/publication/C-2811745/5fcdab47a288afba29928040c5e4d3467a595770-16x9-x0y0w2000h1125.jpg?imwidth=1024 "Federal budget: Extinction Rebellion protesters block politicians from Parliament House")
+
+
+[Federal budget: Extinction Rebellion protesters block politicians from Parliament House](https://www.news.com.au/technology/environment/climate-change/federal-budget-extinction-rebellion-protesters-block-politicians-from-parliament-house/news-story/861830c13ff4bef797bc8f06c2d02596)
+
+
+> Activists have chained themselves to government officials' cars and blocked entrances to and from a car park near Parliament House in their latest bid to get the nation's leaders to address climate change.Extinction Rebellion protesters want the federal government to include measures in Tuesday's budget that address global warming.It was still dark when they arrived outside a car depot near Canberra's Parliament House, armed with banners declaring a ‘climate emergency'.Some chained themselves to cars and blocked vehicles from entering or leaving a car depot in an attempt to stop politicians from getting to parliament on budget day.
+
+
+***
+![Indian cyber agency warns Android users about fake COVID-19 vaccine registration message](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/covid-647x363.jpeg?h1wrXOiSzboJuvFfMNApNVjdJVdjG4en "Indian cyber agency warns Android users about fake COVID-19 vaccine registration message")
+
+
+[Indian cyber agency warns Android users about fake COVID-19 vaccine registration message](https://www.indiatoday.in/technology/news/story/-indian-cyber-agency-warns-android-users-about-fake-covid-19-vaccine-registration-message-1801117-2021-05-11)
+
+
+> A fake COVID vaccine registration SMS has been doing the rounds. The message comes with a link which can compromise users' contact list.The message that is being sent with a nefarious intention by cybercriminals has been found in five variants.A fake COVID vaccine registration SMS has been doing the rounds. Apparently, the message is not only fake but also gains illegal access to a user's Android phone. The message comes with a link which can compromise users' contact list. The Cybersecurity agency in India has issued a warning about the same.
+
+
+***
+![iPhone to use Apple's in-house 5G modems by 2023, says analyst](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/iphone_5g-647x363.jpeg?ds1aZ4DzthU.wkoETSYHiGOLIPtYhjOP "iPhone to use Apple's in-house 5G modems by 2023, says analyst")
+
+
+[iPhone to use Apple's in-house 5G modems by 2023, says analyst](https://www.indiatoday.in/technology/news/story/iphone-to-use-apple-s-in-house-5g-modems-by-2023-says-analyst-1801115-2021-05-11)
+
+
+> Apple may be planning to switch to an in-house custom-designed 5G modem as early as the 2023 iPhone models. This would mean that the iPhone maker would have to no longer ask Qualcomm for its 5G modems that power the current generation of iPhone. Apple has been expanding its chip-making business at a steady pace, but the rumours around a 5G baseband chip have been there for a long time now. The new timeline for Apple's own 5G modems comes courtesy to renowned analyst Ming-Chi Kuo.In his recent investors note, obtained by MacRumors, Kuo said Apple's custom-designed 5G modem on the iPhone will arrive in 2023 'at the earliest.
+
+
+***
+![Super Easy Way to Program Embedded Operating System in MicroPython.](https://external-preview.redd.it/Md0mI3RbZZtEZeawIf1xsFb1z18jxXqUFKZIbqiPUM0.jpg?auto=webp&s=7a05b75e6ff4c179aa6ddb160bd044a70901903f "Super Easy Way to Program Embedded Operating System in MicroPython.")
+
+
+[Super Easy Way to Program Embedded Operating System in MicroPython.](https://www.reddit.com/r/programming/comments/n9o9pr/super_easy_way_to_program_embedded_operating/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
