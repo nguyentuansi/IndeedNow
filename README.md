@@ -5720,3 +5720,53 @@
 > Eric Lipton / New York Times: Overview of the major uptick in spending on lobbying in the US by crypto organizations like Coinbase, Ripple, and trade groups like the Blockchain Association — Companies behind digital currencies are rushing to hire well-connected lobbyists, lawyers and consultants as the battle over how to regulate them intensifies.
 
 
+***
+![Realme X7, Realme C15, and C12 gets Realme UI 2.0 Open beta](https://cdn.mos.cms.futurecdn.net/BdKKJwPgMyxVpT2VQB7wRY-1200-80.jpg "Realme X7, Realme C15, and C12 gets Realme UI 2.0 Open beta")
+
+
+[Realme X7, Realme C15, and C12 gets Realme UI 2.0 Open beta](https://www.techradar.com/news/realme-x7-realme-c15-and-c12-gets-realme-ui-20-open-beta)
+
+
+> (Image credit: Realme) Realme has been pushing out Realme UI 2.0 updates to multiple smartphones over the past few weeks in India. The latest ones to join the list is the Realme X7, Realme C15, and Realme C12. The Realme X7, Realme C15, and Realme C12 smartphones are now eligible for Realme UI 2.0 open beta update based on Android 11. The early access program is basically open beta for any users with the aforementioned trio. If you own one of these devices, you can be one of the first to try out the new features before it is made available for public rollout.
+
+
+***
+![Google Chrome brings dinosaur game, other widgets right to your iPhone home screen with new update](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/dino_game-647x363.jpeg?s.TszSESxbsP.A6O1pBVtWPVR6MUviZg "Google Chrome brings dinosaur game, other widgets right to your iPhone home screen with new update")
+
+
+[Google Chrome brings dinosaur game, other widgets right to your iPhone home screen with new update](https://www.indiatoday.in/technology/news/story/google-chrome-brings-dinosaur-game-other-widgets-right-to-your-iphone-home-screen-with-new-update-1801236-2021-05-11)
+
+
+> Google Chrome is getting a major update for the iPhone and iPad. The new Chrome 90 for iOS and iPadOS -- now rolling out -- brings the cool dinosaur game right to the home screen through a widget. Although Apple does not yet provide interactive widgets on the iPhone, the one for the Dino game will quickly open a new tab in Google Chrome where you can make that retro-looking dinosaur hop to avoid hurdles in the way. Other than the dino game widget, the new Chrome 90 also brings widgets for quick actions and search.
+
+
+***
+![These electric self-driving tractors could make farming much greener](https://cdn.cnn.com/cnnnext/dam/assets/210506123000-restricted-monarch-tractor-super-tease.jpeg "These electric self-driving tractors could make farming much greener")
+
+
+[These electric self-driving tractors could make farming much greener](https://www.cnn.com/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html)
+
+
+> The compact tractor can be programmed to perform tasks such as plowing, harvesting and mowing, and can operate for up to 10 hours from a five-hour charge, according to its makers, Monarch Tractor. Although it doesn't need a driver, to comply with US regulations it must have a designated remote operator who receives real-time alerts and can stop the vehicle if needed. It has sensors that can detect livestock and crops, and collision prevention systems that allow it to operate autonomously alongside farm workers.
+
+
+***
+![Xiaomi to launch new noise cancelling earphones on May 13](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/earb-647x363.jpeg?AsSUnwpCWCJf4xDBUB4_72JUDzQA8zlc "Xiaomi to launch new noise cancelling earphones on May 13")
+
+
+[Xiaomi to launch new noise cancelling earphones on May 13](https://www.indiatoday.in/technology/news/story/xiaomi-to-launch-new-noise-cancelling-earphones-on-may-13-1801234-2021-05-11)
+
+
+> Xiaomi is set to launch a new pair of truly wireless earphones in China on May 13. Interestingly, the company is launching two new products in India on the same date. It has announced that both Redmi Note 10S and Redmi watch will be launched in the country on May 13. According to posts on Chinese social media platform Weibo, the Xiaomi Noise Cancelling Headphones Pro will be launched on the mentioned date. The posts also confirm that these TWS will support Noise Cancellation. It is still not clear if Xiaomi will introduce these earbuds in India or not.
+
+
+***
+![Review: Price just one plus for OPPO A54, Australia's cheapest 5G device](https://itwire.com/media/k2/items/cache/29f647f2f922ae7f6d08ba2b3025e7df_XS.jpg "Review: Price just one plus for OPPO A54, Australia's cheapest 5G device")
+
+
+[Review: Price just one plus for OPPO A54, Australia's cheapest 5G device](https://itwire.com/mobile-devices/review-price-just-one-plus-for-oppo-a54,-australia-s-cheapest-5g-device.html)
+
+
+> The descent of 5G phone prices into the sub-$400 bracket has taken some time, given that Australia is considered a market where manufacturers can charge higher prices compared to other countries. But now that it has come, one can expect at least a couple more companies to land their devices Down Under and duke it out for sales. When Qualcomm announced earlier this year, that it would be bringing 5G to its 480 series, the company also predicted that this would see an era of much cheaper 5G smartphones.
+
+
