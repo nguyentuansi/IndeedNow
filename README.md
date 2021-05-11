@@ -5961,3 +5961,53 @@
 > FACEBOOK has introduced a new pop-up that encourages people to read news articles before sharing them. The warning message, currently being tested among select users, appears if someone clicks to share a link that they haven't opened. Facebook is encouraging users to read news articles before sharing themCredit: facebook/the sun The goal, the company said, it to curb the spread of dangerous or misleading information on the social media platform. For now, the pop-up has only rolled out to about six per cent of users of Facebook's Android app.
 
 
+***
+![Which Amazon Fire TV Stick should you get?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2018/11/amazon-fire-tv-stick-4k-4-3h9r-3h9r-3h9r.jpg "Which Amazon Fire TV Stick should you get?")
+
+
+[Which Amazon Fire TV Stick should you get?](https://www.androidcentral.com/best-amazon-fire-tv-stick)
+
+
+> Source: Android Central Best Amazon Fire TV Stick Android Central 2021 If you're looking for a great streaming device, we've ranked the best Amazon Fire TV Sticks that you can buy right now. A streaming stick is a great, low-cost option to bring all of the content you want into your living room, and there really isn't a better option than a Fire TV Stick. Even though it's a couple of years old at this point, we still believe that the best choice overall is the Fire TV Stick 4K. It comes with a handy Alexa Voice Remote and is the best all-around version of a Fire TV device.
+
+
+***
+![Lattice Automate Solution Stack Accelerates Development of Industrial Automation Systems](https://mms.businesswire.com/media/20210511005309/en/877377/23/Automation-Stack_press-graphic.jpg "Lattice Automate Solution Stack Accelerates Development of Industrial Automation Systems")
+
+
+[Lattice Automate Solution Stack Accelerates Development of Industrial Automation Systems](https://www.businesswire.com/news/home/20210511005309/en/Lattice-Automate-Solution-Stack-Accelerates-Development-of-Industrial-Automation-Systems)
+
+
+> May 11, 2021 02:00 PM Eastern Daylight Time HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, today extended its portfolio of comprehensive low power FPGA-based solution stacks with the introduction of Lattice Automate™. The stack includes software tools, industrial IP cores, modular hardware development boards, and software-programmable reference designs and demos that simplify and accelerate implementation of applications like robotics, scalable multi-channel motor control with predictive maintenance, and real-time industrial networking.
+
+
+***
+![Lattice Semiconductor Details Accelerated Growth Strategy and Long-Term Model at 2021 Investor Day](http://www.businesswire.com/images/bwlogo_square.png "Lattice Semiconductor Details Accelerated Growth Strategy and Long-Term Model at 2021 Investor Day")
+
+
+[Lattice Semiconductor Details Accelerated Growth Strategy and Long-Term Model at 2021 Investor Day](https://www.businesswire.com/news/home/20210511005891/en/Lattice-Semiconductor-Details-Accelerated-Growth-Strategy-and-Long-Term-Model-at-2021-Investor-Day)
+
+
+> May 11, 2021 02:00 PM Eastern Daylight Time HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, today detailed its leadership in growth markets, industry leading product portfolio, doubling of its addressable market, and raising of its financial targets at its 2021 Investor Day. A webcast replay of the event and copies of the presentation are available on the Investor Relations section of www.LatticeSemi.com. Jim Anderson, president and CEO, said, 'Over the past 3 years, we have rebuilt the foundation of the Company.
+
+
+***
+![Amp up productivity with an awesome USB-C monitor for your Mac](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/12/lg-27ud88-hero.jpg "Amp up productivity with an awesome USB-C monitor for your Mac")
+
+
+[Amp up productivity with an awesome USB-C monitor for your Mac](https://www.imore.com/best-usb-c-monitors-mac)
+
+
+> Source: iMore Best USB-C Monitors for Macbooks iMore 2021 Even if you have that large, lovely 16-inch Macbook Pro, that one monitor is not always enough for all the incredible things you'd like to do and see with your computer. If you're looking for the best monitor for Mac, you've come to the right place. Your best bet is the MSI Optix display, thanks to its versatility and price. It's perfect for most people, though there are other monitors better suited to different needs.Source: MSI Although it's not the most expensive or state-of-the-art monitor on this list, the MSI Optix brings the best bang for your buck.
+
+
+***
+![HyperX Partners with CodeCombat on Esports Coding League](https://mms.businesswire.com/media/20210511006058/en/738908/23/codecombat.jpg "HyperX Partners with CodeCombat on Esports Coding League")
+
+
+[HyperX Partners with CodeCombat on Esports Coding League](https://www.businesswire.com/news/home/20210511006058/en/HyperX-Partners-with-CodeCombat-on-Esports-Coding-League)
+
+
+> May 11, 2021 01:59 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Gaming peripherals leader HyperX has partnered with edtech innovator CodeCombat to support the CodeCombat AI League. As a leader in gaming and esports performance, HyperX brings premier prizing to the global tournament in the form of cutting edge Cloud headsets, Pulsefire mice and Alloy keyboards. 'HyperX's mission is to develop gaming solutions for every type of gamer, for the best gaming performance whether it is the sound and comfort of a headset or the accuracy of any of our products,' said Vince Quan, marketing coordinator at HyperX.
+
+
