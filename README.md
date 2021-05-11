@@ -6011,3 +6011,53 @@
 > May 11, 2021 01:59 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Gaming peripherals leader HyperX has partnered with edtech innovator CodeCombat to support the CodeCombat AI League. As a leader in gaming and esports performance, HyperX brings premier prizing to the global tournament in the form of cutting edge Cloud headsets, Pulsefire mice and Alloy keyboards. 'HyperX's mission is to develop gaming solutions for every type of gamer, for the best gaming performance whether it is the sound and comfort of a headset or the accuracy of any of our products,' said Vince Quan, marketing coordinator at HyperX.
 
 
+***
+![Safari popup that „s0.2mdn.net' wants to know my location](https://forums.macrumors.com/attachments/dc9bce08-832c-4b16-9f44-e637b023cfbf-jpeg.1773304/ "Safari popup that „s0.2mdn.net' wants to know my location")
+
+
+[Safari popup that „s0.2mdn.net' wants to know my location](https://forums.macrumors.com/threads/safari-popup-that-s0-2mdn-net-wants-to-know-my-location.2295766/)
+
+
+> Hi everyone, i just saw this popup on a website: It says that the mentioned website wants to know my location. Is this something I should worry about? Thanks in advance and best wishes Last edited: A moment ago If in doubt, click "Nicht erlauben". Better safe than sorry. Not familiar with what that website is.
+
+
+***
+![Laptop buying guide: What to look for in 2021, and what to avoid](https://icdn.digitaltrends.com/image/digitaltrends/laptop-buying-guide-header-2.jpg "Laptop buying guide: What to look for in 2021, and what to avoid")
+
+
+[Laptop buying guide: What to look for in 2021, and what to avoid](https://www.digitaltrends.com/computing/laptop-buying-guide/)
+
+
+> Whether you're loyal to Windows, a Mac fan, or willing to try something new, you should know what to look for in a laptop before making an investment. There's more to consider than just the operating system. Does it have the screen you want? Are there ports that support your peripherals? Can it play games in 1080p? These are considerations you need to weigh. In this guide, we explain what you should look for in 2021, and what you need to avoid. There are many options available to you for both Windows 10 and Chrome OS, whereas Apple limits its MacBooks to a limited number of configurations.
+
+
+***
+![Oakland-based Startup City Flavor Partners with Where's The Foodtruck to Continue to Modernize the Food Truck Industry](https://mms.businesswire.com/media/20210511006156/en/877712/23/city_flavor_logo.jpg "Oakland-based Startup City Flavor Partners with Where's The Foodtruck to Continue to Modernize the Food Truck Industry")
+
+
+[Oakland-based Startup City Flavor Partners with Where's The Foodtruck to Continue to Modernize the Food Truck Industry](https://www.businesswire.com/news/home/20210511006156/en/Oakland-based-Startup-City-Flavor-Partners-with-Where%E2%80%99s-The-Foodtruck-to-Continue-to-Modernize-the-Food-Truck-Industry)
+
+
+> OAKLAND, Calif.--(BUSINESS WIRE)--Oakland-based startup, City Flavor LLC (CF) solidified its partnership with Las Vegas-based company Where's The Foodtruck (WTF). With COVID-19 only expanding the market for high quality, accessible food options, the two teams decided to combine their technologies to create a fully integrated software solution which empowers their clients to book their own food trucks with ease, as well as to create a simple and efficient way to provide more opportunities and business to their food trucks.
+
+
+***
+![Intuit Expects to Exceed Full Fiscal Year 2021 Guidance; Adjusts Third Quarter Expectations Reflecting Significant Revenue Shift Due to the IRS Filing Deadline Extension](https://mms.businesswire.com/media/20210511006176/en/775388/23/Ecosystem-Lockup-2Line-FullColor-2019-PMS_%282%29.jpg "Intuit Expects to Exceed Full Fiscal Year 2021 Guidance; Adjusts Third Quarter Expectations Reflecting Significant Revenue Shift Due to the IRS Filing Deadline Extension")
+
+
+[Intuit Expects to Exceed Full Fiscal Year 2021 Guidance; Adjusts Third Quarter Expectations Reflecting Significant Revenue Shift Due to the IRS Filing Deadline Extension](https://www.businesswire.com/news/home/20210511006176/en/Intuit-Expects-to-Exceed-Full-Fiscal-Year-2021-Guidance-Adjusts-Third-Quarter-Expectations-Reflecting-Significant-Revenue-Shift-Due-to-the-IRS-Filing-Deadline-Extension)
+
+
+> May 11, 2021 04:00 PM Eastern Daylight Time MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Intuit Inc. (Nasdaq: INTU), maker of TurboTax, QuickBooks, Credit Karma and Mint, announced today that it expects to exceed the high end of its full year total company revenue, GAAP and Non-GAAP operating income, and GAAP and Non-GAAP earnings per share guidance provided on its fiscal second quarter earnings call on February 23. Intuit also announced that revenue and operating income for its third fiscal quarter were lower than expected due to the extension of the IRS tax filing deadline to May 17.
+
+
+***
+![Subaru's first electric vehicle is called the Solterra and it's due out in 2022 – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/Solterra2__mid.jpeg?w=600 "Subaru's first electric vehicle is called the Solterra and it's due out in 2022 – TechCrunch")
+
+
+[Subaru's first electric vehicle is called the Solterra and it's due out in 2022 – TechCrunch](https://techcrunch.com/2021/05/11/subaru-solterra-ev-2022/)
+
+
+> For Subaru diehards holding out for an electric vehicle, the wait is almost over. The Japanese automaker just announced new details about its first ever EV, which is set to hit the streets in 2022. Subaru will call its first EV the Solterra, a fitting name for a brand synonymous with outdoor adventures and you know, the sun and the Earth. Also fittingly, Subaru's first full-fledged EV will be an SUV thats ships with the manufacturer's well-regarded all-wheel drive capabilities. The Solterra is built on a new platform the company is developing in partnership with Toyota, which the latter company will use for its impossibly named BZ4X crossover (BZ stands for 'beyond zero,' apparently).
+
+
