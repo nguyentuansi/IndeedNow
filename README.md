@@ -5817,3 +5817,53 @@
 > May 11, 2021 06:00 AM Eastern Daylight Time IRVINE, Calif.--(BUSINESS WIRE)--After three years of intensive research and development, XSOC CORP has emerged from stealth mode and today announced the company's new cybersecurity solutions aimed at providing enhanced cryptographic capabilities for existing devices in localized industrial and wireless environments. XSOC CORP delivers post-quantum ready data security built to protect enterprises' most highly sensitive data and communications from well-financed hacking groups and nation-state attackers employing increasingly sophisticated attacks.
 
 
+***
+![Roscosmos confirmed the fall of a part of a stage of a Chinese rocket into the ocean](https://cdni.rt.com/russian/images/2021.05/article/60977fa002e8bd59104b2063.JPG "Roscosmos confirmed the fall of a part of a stage of a Chinese rocket into the ocean")
+
+
+[Roscosmos confirmed the fall of a part of a stage of a Chinese rocket into the ocean](https://www.tellerreport.com/tech/2021-05-11-roscosmos-confirmed-the-fall-of-a-part-of-a-stage-of-a-chinese-rocket-into-the-ocean.HJb-4mx__d.html)
+
+
+> News/Politics 2021-05-11T09:21:51.292Z Space: part of the Chinese rocket disintegrates over the Indian Ocean News/Politics 2021-05-11T09:07:35.479Z Part of the Chinese rocket disintegrated over the Indian Ocean News/Politics 2021-05-11T08:17:38.173Z Falling rocket re-entered the Indian Ocean, in an area close to the Maldives islands News/Politics 2021-05-11T11:18:52.748Z Part of the uncontrolled Chinese rocket disintegrated over the Indian Ocean Tech/Game 2021-05-11T12:06:00.759Z Roscosmos confirmed the fall of a part of a stage of a Chinese rocket into the ocean Tech/Game 2021-05-06T07:39:49.
+
+
+***
+![JioMeet video platform gets new layout options, add-ins from Microsoft Teams](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Screenshot_2021-05-11_at_5.26.-647x363.png?OOwQtglyG8XpEe6OfLS0h9pspDTo3qV5 "JioMeet video platform gets new layout options, add-ins from Microsoft Teams")
+
+
+[JioMeet video platform gets new layout options, add-ins from Microsoft Teams](https://www.indiatoday.in/technology/news/story/jiomeet-video-platform-gets-new-layout-options-add-ins-from-microsoft-teams-1801363-2021-05-11)
+
+
+> JioMeet, the video calling software, has added a set of features that will especially come in handy to small businesses and enterprises. The new set of features include add-ins for Microsoft Teams and Microsoft Outlook. This would enable small businesses that use Microsoft Teams to plan and join JioMeet calls. Users will be able to download Jio Meet which is available within Teams and allows users to join JioMeet from Teams itself.Additionally, the Outlook add-on will enable users to plan and schedule video meetings from within their email client interface.
+
+
+***
+![Apptopia raises $20M to expand its competitive intelligence business beyond mobile – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/apptopia-on-screen.jpg?w=600 "Apptopia raises $20M to expand its competitive intelligence business beyond mobile – TechCrunch")
+
+
+[Apptopia raises $20M to expand its competitive intelligence business beyond mobile – TechCrunch](https://techcrunch.com/2021/05/11/apptopia-raises-20m-to-expand-its-competitive-intelligence-business-beyond-mobile/)
+
+
+> Boston-based Apptopia, a company providing competitive intelligence in the mobile app ecosystem, has closed on $20 million in Series C funding aimed at fueling its expansion beyond the world of mobile apps. The new financing was led by ABS Capital Partners, and follows three consecutive years of 50% year-over-year growth for Apptopia's business, which has been profitable since the beginning of last year, the company says. Existing investors, including Blossom Street Ventures, also participated in the round.
+
+
+***
+![What are the best over-ear headphones for iMac in 2021?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/airpods-max-on-end-hero.jpeg "What are the best over-ear headphones for iMac in 2021?")
+
+
+[What are the best over-ear headphones for iMac in 2021?](https://www.imore.com/best-over-ear-headphones-imac)
+
+
+> Best Over-ear Headphones for iMac iMore 2021 An iMac is already one of the best all in one computers that you can buy, but why not purchase a great pair of over-ear headphones to go with it? You can use the over-ear headphones to block out the world while trying to work and listen to great music or a podcast. You can also use a good pair of headphones to participate in a video call or edit a video. Let's take a look at the best over-ear headphones for iMac in 2021. Staff Pick The AirPods Max are built to pair with other Apple products, making it a perfect set of headphones for your iMac.
+
+
+***
+![Digi International Introduces Dual-Action IX15 Gateway and Router, Bringing Added Power to the World-Class Digi XBee Ecosystem](https://mms.businesswire.com/media/20210511005013/en/876795/23/Digi_logo_2C_RGB.jpg "Digi International Introduces Dual-Action IX15 Gateway and Router, Bringing Added Power to the World-Class Digi XBee Ecosystem")
+
+
+[Digi International Introduces Dual-Action IX15 Gateway and Router, Bringing Added Power to the World-Class Digi XBee Ecosystem](https://www.businesswire.com/news/home/20210511005013/en/Digi-International-Introduces-Dual-Action-IX15-Gateway-and-Router-Bringing-Added-Power-to-the-World-Class-Digi-XBee-Ecosystem)
+
+
+> May 11, 2021 08:00 AM Eastern Daylight Time HOPKINS, Minn.--(BUSINESS WIRE)--Digi International (NASDAQ: DGII, www.digi.com), a leading global provider of Internet of Things (IoT) connectivity products and services, today unveiled the newest addition to its line of industrial-grade routers with the introduction of Digi IX15, the only fully functional industrial cellular gateway with Zigbee support. Serving as both a gateway and router, Digi IX15 delivers greater value by giving companies a complete, cost-effective IoT solution.
+
+
