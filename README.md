@@ -6061,3 +6061,50 @@
 > For Subaru diehards holding out for an electric vehicle, the wait is almost over. The Japanese automaker just announced new details about its first ever EV, which is set to hit the streets in 2022. Subaru will call its first EV the Solterra, a fitting name for a brand synonymous with outdoor adventures and you know, the sun and the Earth. Also fittingly, Subaru's first full-fledged EV will be an SUV thats ships with the manufacturer's well-regarded all-wheel drive capabilities. The Solterra is built on a new platform the company is developing in partnership with Toyota, which the latter company will use for its impossibly named BZ4X crossover (BZ stands for 'beyond zero,' apparently).
 
 
+***
+![PLAYSTUDIOS, Inc. Announces First Quarter 2021 Results](http://www.businesswire.com/images/bwlogo_square.png "PLAYSTUDIOS, Inc. Announces First Quarter 2021 Results")
+
+
+[PLAYSTUDIOS, Inc. Announces First Quarter 2021 Results](https://www.businesswire.com/news/home/20210511006250/en/PLAYSTUDIOS-Inc.-Announces-First-Quarter-2021-Results)
+
+
+> May 11, 2021 05:57 PM Eastern Daylight Time LAS VEGAS--(BUSINESS WIRE)--PLAYSTUDIOS, Inc. ('PLAYSTUDIOS' or the 'Company'), an award-winning developer of free-to-play casual games for mobile and social platforms that offer real-world rewards to loyal players, today announced financial results for the first quarter ended March 31, 2021. First Quarter 2021 Financial Highlights Revenue was $74.1 million during the first quarter of 2021, representing an increase of 27.1% year-over-year, compared to $58.
+
+
+***
+[EA reports Q4 revenue of $1.35B, down from $1.39B YoY, and net income of $76M, down from $418M YoY, but says annual net bookings were up 15% YoY for FY 2021 (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210511/p49#a210511p49)
+
+
+> Dean Takahashi / VentureBeat: EA reports Q4 revenue of $1.35B, down from $1.39B YoY, and net income of $76M, down from $418M YoY, but says annual net bookings were up 15% YoY for FY 2021 — Did you miss GamesBeat Summit 2021? Watch on-demand here! — Electronic Arts reported lukewarm earnings today …
+
+
+***
+![SoftBank targeting IPO for payment app PayPay](https://japantoday.com/images/japan-today-social.jpg "SoftBank targeting IPO for payment app PayPay")
+
+
+[SoftBank targeting IPO for payment app PayPay](https://japantoday.com/category/tech/SoftBank-targeting-IPO-for-payment-app-PayPay)
+
+
+> SoftBank wants to list payment app PayPay, the CEO of its wireless unit said on Tuesday, adding that subsidiary SB Payment Service could also be a candidate for listing, as he seeks to illustate growth potential at Japan's No.3 carrier. QR code payment app PayPay has acquired almost 40 million users since launch in October 2018 through aggressive rebates as Japanese consumers shift away from cash. "We want PayPay to IPO in the future so they will become independent... I don't think that would be too far out," said Junichi Miyakawa, who became chief executive of SoftBank Corp last month, at an earnings briefing.
+
+
+***
+![Tech giants join call for funding U.S. chip production](https://japantoday.com/images/japan-today-social.jpg "Tech giants join call for funding U.S. chip production")
+
+
+[Tech giants join call for funding U.S. chip production](https://japantoday.com/category/tech/tech-giants-join-call-for-funding-u.s.-chip-production)
+
+
+> Some of the world's biggest chip buyers, including Apple Inc, Microsoft Corp and Alphabet Inc's Google, are joining top chip-makers such as Intel Corp to create a new lobbying group to press for government chip manufacturing subsidies. The newly formed Semiconductors in America Coalition, which also includes Amazon.com's Amazon Web Services, said Tuesday it has asked U.S. lawmakers to provide funding for the CHIPS for America Act, for which President Joe Biden has asked Congress to provide $50 billion.
+
+
+***
+![Jamf snags zero trust security startup Wandera for $400M – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1287781079.jpg?w=600 "Jamf snags zero trust security startup Wandera for $400M – TechCrunch")
+
+
+[Jamf snags zero trust security startup Wandera for $400M – TechCrunch](https://techcrunch.com/2021/05/11/jamf-snags-zero-trust-security-startup-wandera-for-400m/)
+
+
+> Jamf, the enterprise Apple device management company, announced that it was acquiring Wandera, a zero trust security startup, for $400 million at the market close today. Today's purchase is the largest in the company's history. Jamf provides IT at large organizations with a set of management services for Apple devices. It is the leader in the market, and snagging Wandera provides a missing modern security layer for the platform. Jamf CEO Dean Hager says that Wandera's zero trust approach fills in an important piece in the Jamf platform tool set.
+
+
