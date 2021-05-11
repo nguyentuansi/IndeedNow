@@ -5867,3 +5867,53 @@
 > May 11, 2021 08:00 AM Eastern Daylight Time HOPKINS, Minn.--(BUSINESS WIRE)--Digi International (NASDAQ: DGII, www.digi.com), a leading global provider of Internet of Things (IoT) connectivity products and services, today unveiled the newest addition to its line of industrial-grade routers with the introduction of Digi IX15, the only fully functional industrial cellular gateway with Zigbee support. Serving as both a gateway and router, Digi IX15 delivers greater value by giving companies a complete, cost-effective IoT solution.
 
 
+***
+![Common Microsoft Edge problems, and how to fix them](https://icdn.digitaltrends.com/image/digitaltrends/microsoft_edge-laptop_feat.jpg "Common Microsoft Edge problems, and how to fix them")
+
+
+[Common Microsoft Edge problems, and how to fix them](https://www.digitaltrends.com/computing/common-microsoft-edge-problems-and-how-to-fix-them/)
+
+
+> Microsoft returned to its roots with Windows 10, and with it added the successor to its now-defunct Internet Explorer browser: Microsoft Edge. It's designed to replace Microsoft's older browser completely (yay!) but confronts users with an all-new interface in the process (not yay!). Even though it's been around for a few years, Microsoft Edge is still the new kid on the block, especially considering its recent Chromium remodel, meaning there are bugs to squash, unfamiliar controls to learn, and problems to troubleshoot.
+
+
+***
+![TCL goes big with 85-inch XL Collection 4K and 8K Roku TVs](https://icdn.digitaltrends.com/image/digitaltrends/modern-living-room-3d-rendering-2.jpg "TCL goes big with 85-inch XL Collection 4K and 8K Roku TVs")
+
+
+[TCL goes big with 85-inch XL Collection 4K and 8K Roku TVs](https://www.digitaltrends.com/home-theater/tcl-xl-collection-85-inch-roku-tv/)
+
+
+> Though not everyone will agree, when it comes to TVs, there's no such thing as too big. At least, that seems to be the guiding principle behind TCL's new 85-inch Roku TVs, which have been dubbed the XL Collection. Initially introduced at CES 2021, the XL Collection has been formally announced by TCL today. It consists of three models: The entry-level LED 4K HDR version, the step-up QLED-based 4K HDR version, and an OD Zero mini-LED 8K HDR version. All three will be available by the end of the year.
+
+
+***
+![Speed up your Wi-Fi connection on Windows 10 with these four simple tips](https://images.indianexpress.com/2021/05/Make-Wifi-fast.jpg "Speed up your Wi-Fi connection on Windows 10 with these four simple tips")
+
+
+[Speed up your Wi-Fi connection on Windows 10 with these four simple tips](https://indianexpress.com/article/technology/techook/work-from-home-speed-up-your-wi-fi-connection-on-windows-10-with-4-simple-tips-7311014/)
+
+
+> With the onset of a second wave of the COVID 19 pandemic, many people are confined to lockdowns across various regions in India. And work from home will remain the norm, so users will need to be prepared. One good way to make sure you don't run into connectivity hiccups during work hours from home is to make sure your connection is working at peak speeds. Here are 4 ways to speed up your Wi-Fi connection speeds on Windows 10. Disable background apps A good way to make sure your bandwidth is not being wasted in tools you're not going to be using is to disable the Windows 10 apps that you will not be using regularly.
+
+
+***
+![A mirrorless camera will make your perfect shot even better](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/nikon-z6ii-hero.jpg "A mirrorless camera will make your perfect shot even better")
+
+
+[A mirrorless camera will make your perfect shot even better](https://www.imore.com/best-mirrorless-cameras)
+
+
+> Best mirrorless cameras iMore 2021 Mirrorless cameras are quickly replacing bulky DSLRs. With optical viewfinders, lighter bodies, and frequently updated software, it's not hard to see a day when mirrorless makes DSLRs obsolete. If you're looking for the best digital camera today, start here. These are the top mirrorless cameras on the market this year. Staff Favorite I've owned the Nikon Z6 II since its release, and it's currently the best bang for your buck if you're looking for a full-frame mirrorless camera that will last you for years.
+
+
+***
+![Video tutorial: edge caching with Tinychain](https://external-preview.redd.it/mETGo27KdvhUnY_U_BgFlZSltNNiNqmkwVYvHvP7kzw.jpg?auto=webp&s=ab039f9e33f3d7c8900e3c445caca92cb3f651a0 "Video tutorial: edge caching with Tinychain")
+
+
+[Video tutorial: edge caching with Tinychain](https://www.reddit.com/r/Python/comments/n9xmm5/video_tutorial_edge_caching_with_tinychain/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
