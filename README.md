@@ -5576,3 +5576,50 @@
 > A recent COVID-19 case in Sydney that has stumped NSW Health officials has prompted the state's chief health officer to issue a stern warning.NSW chief health officer Kerry Chant has stressed the importance of using QR codes to check into businesses as COVID-19 contact tracers scramble to find the source of infection for a man from Sydney's eastern suburbs.A man aged in his 50s and his wife became the first locally-acquired cases of the virus in NSW in more than a month when they tested positive last week.
 
 
+***
+![Facebook tests prompt to stop people sharing articles they haven't read](https://cdn.mos.cms.futurecdn.net/yZF9bbEYRytYvdzPtofuXg-1200-80.jpg "Facebook tests prompt to stop people sharing articles they haven't read")
+
+
+[Facebook tests prompt to stop people sharing articles they haven't read](https://www.techradar.com/news/facebook-tests-prompt-to-stop-people-sharing-articles-they-havent-read)
+
+
+> (Image credit: Facebook) In its ongoing battle to curb misinformation, Facebook has announced that it's testing a new feature that will warn users who try to share articles they haven't actually read.According to the official image released by the social media giant, a pop-up message will appear when a user tries to share an unread article, advising them that "You are about to share an article without opening it."The pop-up goes on to state that "Sharing articles without reading them may mean missing key facts," before presenting the user with the options to open the article or continue sharing it anyway.
+
+
+***
+![Facebook starts testing 'read first' prompts to combat misinformation](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/facebook-informed-news-sharing.jpg "Facebook starts testing 'read first' prompts to combat misinformation")
+
+
+[Facebook starts testing 'read first' prompts to combat misinformation](https://www.androidcentral.com/facebook-informed-news-sharing-combat-misinformation)
+
+
+> Source: Facebook Facebook continues its crusade against the spread of misinformation by launching a new prompt to promote the "informed sharing of news articles." The prompt will appear when a user attempts to share a news article that they haven't read. It will provide the option to read the article or continue sharing it. The feature was announced Monday on Twitter: Starting today, we're testing a way to promote more informed sharing of news articles. If you go to share a news article link you haven't opened, we'll show a prompt encouraging you to open it and read it, before sharing it with others.
+
+
+***
+![US pipeline attackers appear to have bitten off more than they can chew](https://itwire.com/media/k2/items/cache/35157c657281cef154851d986196c144_XS.jpg "US pipeline attackers appear to have bitten off more than they can chew")
+
+
+[US pipeline attackers appear to have bitten off more than they can chew](https://itwire.com/security/us-pipeline-attackers-appear-to-have-bitten-off-more-than-they-can-chew.html)
+
+
+> The affiliate of ransomware operator DarkSide, the Windows malware that was used to attack the US Colonial Pipeline Company, appears to have taken on a target that was outside the parameters set down by the operator, judging from a statement made by the operator on its site on the dark web. DarkSide operates as ransomware-as-a-service and thus attacks are carried out by many different groups, all of which pay a commission to the actual creator and maintainer of the ransomware which works only on the Windows operating system.
+
+
+***
+![Convert Pandas Data Frames Directly into Bar Graphs](https://external-preview.redd.it/zTJ0moqD5B3g9ZgkR9xQhc2GQRlOU66Q6YpM0PUgrNc.jpg?auto=webp&s=1d0e93516ea3061a50ff38b5792ae44e8e766212 "Convert Pandas Data Frames Directly into Bar Graphs")
+
+
+[Convert Pandas Data Frames Directly into Bar Graphs](https://www.reddit.com/r/Python/comments/n9mab9/convert_pandas_data_frames_directly_into_bar/)
+
+
+> Do you know you can plot graphs directly from Pandas data frames? I thought to write this article because we all use Pandas data frames to manipulate datasets and we need to analyze datasets with graphs before starting to use that dataset. So, plotting and visualizing data in a Pandas data frame is very important and it will be very useful if we can directly convert a data frame into a graph.https://ravinduramesh.blogspot.com/2021/02/python3-matplotlib-bar-graphs-with.html
+
+
+***
+[Open source C FFT library](https://www.reddit.com/r/programming/comments/n9m8go/open_source_c_fft_library/)
+
+
+> submitted by /u/mooreds [link] [comments]
+
+
