@@ -5917,3 +5917,47 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![MiRider One review](https://cdn.mos.cms.futurecdn.net/rnxaiXPqvLQsw5DxfweFUW-1200-80.jpg "MiRider One review")
+
+
+[MiRider One review](https://www.techradar.com/reviews/mirider-one)
+
+
+> MiRider One dealsThe MiRider One is a tough, thoughtfully designed folding electric bike that costs a lot less than you might expect, and gives a smooth ride that belies its compact size.A folding e-bike is the perfect combination for city commuting – small enough to tuck under your desk or take on the train, with the power to iron out hills on your morning ride and ensure you arrive fresh in the morning. It's a tricky balancing act involving power, weight and size, but the MiRider One pulls it off admirably.
+
+
+***
+![Samsung announces global expansion of Bespoke home appliances](https://www.sammobile.com/wp-content/uploads/2021/05/Bespoke_Design_Collaboration_Press-Release_main1-360x157.jpg "Samsung announces global expansion of Bespoke home appliances")
+
+
+[Samsung announces global expansion of Bespoke home appliances](https://www.sammobile.com/news/samsung-announces-global-expansion-bespoke-home-appliances/)
+
+
+> Samsung hosted the BESPOKE Home 2021 event earlier today, and much to the public's expectations, the company announced its global expansion plans for its latest range of home appliances including refrigerators, air purifiers, vacuum cleaners, customized appliances for the entire kitchen, and more. The company also announced a few partnerships with artists who have created unique limited-edition refrigerator panel designs for the 2021 lineup.Samsung's BESPOKE refrigerators are coming to North America, Latin America, Europe, CIS, the Middle East, and select regions across Asia and Africa.
+
+
+***
+[EUR and CHF remains the strongest and weakest as London/European traders exit](https://www.forexlive.com/technical-analysis/!/eur-and-chf-remains-the-strongest-and-weakest-as-londoneuropean-traders-exit-20210511)
+
+
+> The USD is weaker As London/European traders look to exit for the day, the EUR and the CHF remain the strongest and weakest currencies for the day. They were the strongest and the weakest at the start of the NY session as well (). 
+
+
+***
+[Ant Group's Alipay joins China's government banks in trial of the People's digital currency](https://www.verdict.co.uk/alipay-china-digital-currency-pilot/)
+
+
+> MYBank, the online payment platform backed by Alibaba's fintech giant Ant Group, has been officially included in the trial run of China's central bank-backed digital currency. Chinese media reported on Monday that the Alipay app (MYBank's digital wallet) added a feature allowing transactions in e-Yuan. On social media, Chinese netizens discussed how the function suddenly […] The post Ant Group’s Alipay joins China’s government banks in trial of the People’s digital currency appeared first on Verdict.
+
+
+***
+![New Facebook pop-up will stop you instantly sharing news on app to ‘slow spread of fake stories'](https://www.thesun.co.uk/wp-content/uploads/2021/05/GL-facebook-pop-up-teaser.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "New Facebook pop-up will stop you instantly sharing news on app to ‘slow spread of fake stories'")
+
+
+[New Facebook pop-up will stop you instantly sharing news on app to ‘slow spread of fake stories'](https://www.thesun.co.uk/tech/14921974/facebook-pop-up-stop-sharing-news-app/)
+
+
+> FACEBOOK has introduced a new pop-up that encourages people to read news articles before sharing them. The warning message, currently being tested among select users, appears if someone clicks to share a link that they haven't opened. Facebook is encouraging users to read news articles before sharing themCredit: facebook/the sun The goal, the company said, it to curb the spread of dangerous or misleading information on the social media platform. For now, the pop-up has only rolled out to about six per cent of users of Facebook's Android app.
+
+
