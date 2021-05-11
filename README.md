@@ -5770,3 +5770,50 @@
 > The descent of 5G phone prices into the sub-$400 bracket has taken some time, given that Australia is considered a market where manufacturers can charge higher prices compared to other countries. But now that it has come, one can expect at least a couple more companies to land their devices Down Under and duke it out for sales. When Qualcomm announced earlier this year, that it would be bringing 5G to its 480 series, the company also predicted that this would see an era of much cheaper 5G smartphones.
 
 
+***
+![How to choose an external hard drive](https://icdn.digitaltrends.com/image/digitaltrends/samsung-t5-ssd-review-angle.jpg "How to choose an external hard drive")
+
+
+[How to choose an external hard drive](https://www.digitaltrends.com/computing/how-to-buy-an-external-hard-drive/)
+
+
+> While cloud storage is convenient, it's not guaranteed to be at your fingertips forever. Eventually, we'll move on from cloud storage to something we have yet to imagine. Until then, transferring copies of your files to an external drive is just good practice. Why create a backup? To ensure that all your vital information is safe and secure, no matter what happens to your computer or internet connection. Send everything to an external drive and use the cloud as a secondary source. But with tons of options now available, where do you start? Read on to find out how to choose an external drive for better peace of mind.
+
+
+***
+![IOL TECH Digimag: All you need to know about fintech in SA](https://image-prod.iol.co.za/resize/1356x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/eed58fe4-80f1-5c18-a639-414eb9b8cb51&operation=CROP&offset=22x0&resize=1271x715 "IOL TECH Digimag: All you need to know about fintech in SA")
+
+
+[IOL TECH Digimag: All you need to know about fintech in SA](https://www.iol.co.za/technology/fintech/iol-tech-digimag-all-you-need-to-know-about-fintech-in-sa-71d88d17-82b1-4ed4-b8ff-0f3d18ed59ab)
+
+
+> When we look back 10 years from now, 2021 will be remembered as the most important year in the history of financial technology. The listing of Coinbase on Nasdaq marked a very important moment that signals a new phase in the sector. This digital magazine tells you all about it. At this point, it is also important to take stock and focus on the fintech sector's progress in South Africa. From the things you can buy with cryptocurrencies to what you need to avoid, we provide you with all the necessary insights.
+
+
+***
+[Uber and Lyft, which have set a 2030 deadline to transition entirely to EVs in the US, are providing little to no capital to help drivers transition to EVs (Bloomberg)](http://www.techmeme.com/210511/p6#a210511p6)
+
+
+> Bloomberg: Uber and Lyft, which have set a 2030 deadline to transition entirely to EVs in the US, are providing little to no capital to help drivers transition to EVs — When Curt Kinder bought a new electric Chevy Bolt three years ago, he wanted an excuse to drive it as often as possible.
+
+
+***
+![Facebook urged to scrap controversial ‘Instagram for Kids' app over child safety fears](https://www.thesun.co.uk/wp-content/uploads/2021/05/NINTCHDBPICT000471966867.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Facebook urged to scrap controversial ‘Instagram for Kids' app over child safety fears")
+
+
+[Facebook urged to scrap controversial ‘Instagram for Kids' app over child safety fears](https://www.thesun.co.uk/tech/14916689/instagram-for-kids-backlash/)
+
+
+> FACEBOOK is facing backlash in the US over plans to create a version of Instagram for children under 13. Over 40 state attorneys general are now urging Facebook to drop its controversial 'Instagram for Kids' plan. Plans for the kids Instagram app were revealed in MarchCredit: Getty - Contributor The attorneys general have released an open letter to CEO Mark Zuckerberg arguing that the physical and mental health of young children could be at risk if they use social media. Concerns were raised over whether the platform will comply with existing federal children's privacy law and whether it will be able to do enough to keep children safe.
+
+
+***
+![XSOC CORP Emerges from Stealth and Launches Four Foundational Patent Pending Cryptographic Systems Built to Secure Critical Data Today and Long Into The Future](https://mms.businesswire.com/media/20210511005234/en/877440/23/XSOC_logo.jpg "XSOC CORP Emerges from Stealth and Launches Four Foundational Patent Pending Cryptographic Systems Built to Secure Critical Data Today and Long Into The Future")
+
+
+[XSOC CORP Emerges from Stealth and Launches Four Foundational Patent Pending Cryptographic Systems Built to Secure Critical Data Today and Long Into The Future](https://www.businesswire.com/news/home/20210511005234/en/XSOC-CORP-Emerges-from-Stealth-and-Launches-Four-Foundational-Patent-Pending-Cryptographic-Systems-Built-to-Secure-Critical-Data-Today-and-Long-Into-The-Future)
+
+
+> May 11, 2021 06:00 AM Eastern Daylight Time IRVINE, Calif.--(BUSINESS WIRE)--After three years of intensive research and development, XSOC CORP has emerged from stealth mode and today announced the company's new cybersecurity solutions aimed at providing enhanced cryptographic capabilities for existing devices in localized industrial and wireless environments. XSOC CORP delivers post-quantum ready data security built to protect enterprises' most highly sensitive data and communications from well-financed hacking groups and nation-state attackers employing increasingly sophisticated attacks.
+
+
