@@ -5673,3 +5673,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![POLL : iPhone Z : Apple's future folding iPhone ; What form should it take ?](https://images.macrumors.com/social/?t=2295670&v=6 "POLL : iPhone Z : Apple's future folding iPhone ; What form should it take ?")
+
+
+[POLL : iPhone Z : Apple's future folding iPhone ; What form should it take ?](https://forums.macrumors.com/threads/poll-iphone-z-apples-future-folding-iphone-what-form-should-it-take.2295670/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![A colourful, redesigned Apple MacBook Air could be on the way](https://images.indianexpress.com/2021/05/MacBook-Air-2021.jpg "A colourful, redesigned Apple MacBook Air could be on the way")
+
+
+[A colourful, redesigned Apple MacBook Air could be on the way](https://indianexpress.com/article/technology/laptops/apple-could-unveil-its-2021-macbook-air-in-different-colours-7310423/)
+
+
+> Apple is set to release a new MacBook Air in different colour options. A video shared by Apple leaker Jon Prosser on YouTube shows renders of the redesigned notebook in options for blue, silver, purple, pink, orange, yellow and green. This is for the first time Apple will sell a MacBook Air, perhaps the most popular Mac, in multiple colour options. Prosser does not share the actual images of the new MacBook Air. He, instead, created renders that were based on the leaked image in collaboration with RendersByIan.
+
+
+***
+![Foxconn iPhone India output drops 50 per cent amid COVID-19 surge](https://images.indianexpress.com/2021/05/Apple-iPhone-12.jpeg "Foxconn iPhone India output drops 50 per cent amid COVID-19 surge")
+
+
+[Foxconn iPhone India output drops 50 per cent amid COVID-19 surge](https://indianexpress.com/article/technology/tech-news-technology/foxconn-iphone-india-output-drops-50-per-cent-amid-covid-19-surge-7310537/)
+
+
+> Production of the Apple iPhone 12 at a Foxconn factory in India has slumped by more than 50% because workers infected with COVID-19 have had to leave their posts, two sources told Reuters.The Foxconn facility in the southern state of Tamil Nadu produces iPhones specifically for India, the world's No 2 smartphone market. Tamil Nadu is one of the worst hit states in the second coronavirus wave engulfing India. Officials imposed a full lockdown in the state from Monday, closing public transport and shuttering shops, to try slow surging infections.
+
+
+***
+![Now streaming: best new TV shows & movies this week in Australia (May 10-16)](https://cdn.mos.cms.futurecdn.net/aVsTXiLMv9S5kSXCje5Ssm-1200-80.jpg "Now streaming: best new TV shows & movies this week in Australia (May 10-16)")
+
+
+[Now streaming: best new TV shows & movies this week in Australia (May 10-16)](https://www.techradar.com/news/now-streaming-best-new-tv-shows-and-movies-this-week-in-australia-may-10-16)
+
+
+> (Image credit: Netflix) With so many shows and movies to choose from on Australia's major streaming services, it can often be difficult to find the best new stuff to entertain yourself with each week.In an effort to make things easier, we've hand-picked the best new shows and movies of the week to watch on Aussie streaming platforms, covering the likes of Netflix, Disney Plus, Binge, Foxtel Now, Stan and Amazon Prime Video.Below, you'll find a list of this week's highlights, separated by streaming service, with binge-worthy new shows sitting alongside some great big-budget new movie arrivals – and a couple of oddball left-of-field entries, just for some variety.
+
+
+***
+[Overview of the major uptick in spending on lobbying in the US by crypto organizations like Coinbase, Ripple, and trade groups like the Blockchain Association (Eric Lipton/New York Times)](http://www.techmeme.com/210511/p3#a210511p3)
+
+
+> Eric Lipton / New York Times: Overview of the major uptick in spending on lobbying in the US by crypto organizations like Coinbase, Ripple, and trade groups like the Blockchain Association — Companies behind digital currencies are rushing to hire well-connected lobbyists, lawyers and consultants as the battle over how to regulate them intensifies.
+
+
