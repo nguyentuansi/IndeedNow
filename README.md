@@ -6249,3 +6249,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Due to Strong Demand, NICE Expands Investment in Japan, creating a New Customer Experience Standard with CXone](https://mms.businesswire.com/media/20210511005688/en/532501/23/NICE-LOGO-300px-web.jpg "Due to Strong Demand, NICE Expands Investment in Japan, creating a New Customer Experience Standard with CXone")
+
+
+[Due to Strong Demand, NICE Expands Investment in Japan, creating a New Customer Experience Standard with CXone](https://www.businesswire.com/news/home/20210511005688/en/Due-to-Strong-Demand-NICE-Expands-Investment-in-Japan-creating-a-New-Customer-Experience-Standard-with-CXone)
+
+
+> May 12, 2021 02:00 AM Eastern Daylight Time HOBOKEN, N.J.--(BUSINESS WIRE)--NICE (Nasdaq: NICE) today announced the expansion of its operations in Japan, spearheading the launch of CXone. The industry's leading Contact Center as a Service (CCaaS) platform, NICE CXone will be supported by a dedicated Japanese support and services team to assist customers with their transition to the cloud to address localization needs. Local cloud providers will be utilized to maintain in-country requirements and provide the highest standards in data security.
+
+
+***
+![NTT: Establishment of an Israeli Subsidiary](https://mms.businesswire.com/media/20210511006287/en/877932/23/Noa_Asher.jpg "NTT: Establishment of an Israeli Subsidiary")
+
+
+[NTT: Establishment of an Israeli Subsidiary](https://www.businesswire.com/news/home/20210511006287/en/NTT-Establishment-of-an-Israeli-Subsidiary)
+
+
+> May 12, 2021 02:00 AM Eastern Daylight Time TOKYO--(BUSINESS WIRE)--NTT Corporation (NTT)(TOKYO:9432) is pleased to announce the establishment of a subsidiary in Israel to leverage cutting-edge Israeli technology into the NTT Group to help create new business opportunities. 1. Background Israel is where some of the world's most advanced technologies are developed, produced many successful technology startups, and housing many global companies' R&D operations. NTT has decided to invest in Israel by establishing a new company that will help provide access to these cutting-edge technologies and startups into future NTT products and services.
+
+
+***
+![Xiaomi shares jump after report on removal from U.S. blacklist](https://www.reuters.com/pf/resources/icons/favicon.ico?d=29 "Xiaomi shares jump after report on removal from U.S. blacklist")
+
+
+[Xiaomi shares jump after report on removal from U.S. blacklist](https://www.reuters.com/technology/xiaomi-shares-jump-after-report-removal-us-blacklist-2021-05-12/)
+
+
+> Shares in Xiaomi Corp (1810.HK) rose as much as 6.71% in Hong Kong afternoon trade on Wednesday, following a report that the telecoms giant would be removed from a U.S. blacklist. On Twitter, a Bloomberg reporter said the removal comes after the company reached a settlement with the U.S. Defense Department. Xiaomi shares were last up 4.88%. Our Standards: The Thomson Reuters Trust Principles.
+
+
+***
+[Location tracking tax apps like TaxBird, which aim to shield users from audit risks due to residency status, have become popular with the rise of remote work (Paul Sullivan/New York Times)](http://www.techmeme.com/210512/p5#a210512p5)
+
+
+> Paul Sullivan / New York Times: Location tracking tax apps like TaxBird, which aim to shield users from audit risks due to residency status, have become popular with the rise of remote work — With remote work more common now, tax apps that track your location have become relevant for professionals who want to work wherever they want to live.
+
+
+***
+![Fin whale carcasses dislodged from HMAS Sydney at US naval base](https://images.perthnow.com.au/publication/C-2821926/cdf0d41694e2aeb250146b189a3f97bb50ec94a9-16x9-x0y9w1280h720.jpg?imwidth=1024 "Fin whale carcasses dislodged from HMAS Sydney at US naval base")
+
+
+[Fin whale carcasses dislodged from HMAS Sydney at US naval base](https://www.news.com.au/technology/environment/fin-whale-carcasses-dislodged-from-hmas-sydney-at-us-naval-base/news-story/e07ab72aceec88eabbe0089e5117e964)
+
+
+> Two dead whales were discovered under a Royal Australian Navy ship as it docked in the US state of California over the weekend.About 9.45am local time on Saturday, the carcasses of two fin whales became dislodged from the hull of HMAS Sydney before surfacing at the Naval Base in San Diego.One was 20m in length while the other was about 8m.It is not yet known how the whales were killed, but the carcasses were retrieved with booms before they were removed.The incident, which happened at the Naval Base San Diego in southern California, was confirmed by the Australian Department of Defence in a statement to Nine on Wednesday.
+
+
