@@ -6393,3 +6393,53 @@
 > Microsoft Edge is easily the best browser ever shipped with Windows 10, but that doesn't necessarily mean you want it. The new, Chromium-based Microsoft Edge is a huge improvement on the legacy version that arrived when Windows 10 first launched, but by now there's every chance you're already settled on a different browser. Microsoft Edge is also pushed really hard in Windows 10. If you set a different default browser, Microsoft will remind you that Edge is apparently better. In the new-look Settings app, you'll see a warning under web browsing telling you ‘Restore recommended' if you dare to avoid using Microsoft Edge.
 
 
+***
+![Orbite offers a five-star ‘space camp' for would-be space travelers – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-BD5787-001.jpg?w=492 "Orbite offers a five-star ‘space camp' for would-be space travelers – TechCrunch")
+
+
+[Orbite offers a five-star ‘space camp' for would-be space travelers – TechCrunch](https://techcrunch.com/2021/05/12/orbite-offers-a-five-star-space-camp-for-would-be-space-travelers/)
+
+
+> As private companies like Axiom Space, Blue Origin, Virgin Galactic and SpaceX prepare to ferry private customers to the stars, a whole new market is opening up to train affluent would-be travelers for their future missions. Case in point: space training company Orbite, whose goal is to combine aeronautics and five-star hospitality in its inaugural astronaut training program. 'We're going to have hundreds, if not thousands of people this decade of the 2020s, who will go to space, but you just don't get off the couch and strap into a rocket […] you actually have to get mentally prepared, physically prepared, and also spiritually prepared for this out of out of this world journey,' co-founder Jason Andrews told TechCrunch.
+
+
+***
+![YouTube Announces A $100 Million Fund For Shorts Creators](https://www.androidheadlines.com/wp-content/uploads/2021/05/YouTube-Shorts-1-scaled.jpg "YouTube Announces A $100 Million Fund For Shorts Creators")
+
+
+[YouTube Announces A $100 Million Fund For Shorts Creators](https://www.androidheadlines.com/2021/05/youtube-announces-100-million-shorts-fund.html)
+
+
+> YouTube has announced YouTube Shorts Fund, a $100 million fund that will pay Shorts creators over the course of 2021-2022. The goal is to attract more creators to YouTube Shorts, the company's recently launched TikTok-like short-video platform.According to the official announcement, creators can't apply for the fund themselves. Instead, YouTube will reach out to 'creators whose Shorts receive the most engagement and views' each month. The company says the YouTube Shorts Fund will reward thousands of creators every month for their contributions to its Shorts platform.
+
+
+***
+![Handshake raises $80M at a $1.5B+ valuation as its diversity-focused recruitment network for grads passes 18M users – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-147517177.jpg?w=602 "Handshake raises $80M at a $1.5B+ valuation as its diversity-focused recruitment network for grads passes 18M users – TechCrunch")
+
+
+[Handshake raises $80M at a $1.5B+ valuation as its diversity-focused recruitment network for grads passes 18M users – TechCrunch](https://techcrunch.com/2021/05/12/handshake-raises-80m-at-a-1-5b-valuation-as-its-diversity-focused-recruitment-network-for-grads-passes-18m-users/)
+
+
+> Job-hunting for those close to leaving or just out of college is a different ballgame these days than it used to be. Gone (at least for now) are the open job fairs and so-called milk rounds where prospective employers go en masse to tap student bodies for potential new entrant hires. In their place, virtual fairs run by startups like Handshake. Today, the company, which has built a platform for professional networking and graduate recruitment aimed at the wider and diverse breadth of college students, is announcing a hefty round of funding — a sign of how it has capitalized on the new landscape and found a healthy place for itself within it.
+
+
+***
+![Walmart's Android TV Box To Be Very, Very Affordable](https://www.androidheadlines.com/wp-content/uploads/2019/03/Walmart-Logo-AH-2019.jpg "Walmart's Android TV Box To Be Very, Very Affordable")
+
+
+[Walmart's Android TV Box To Be Very, Very Affordable](https://www.androidheadlines.com/2021/05/walmart-android-tv-box-affordable.html)
+
+
+> Walmart 4K Android TV Box will be bringing an impressive array of features without burning a hole in your pocket.Living up to its reputation for offering products that don't cost a bomb, Walmart has adopted a similar strategy for its upcoming 4K Android TV Box.The device is called Walmart Onn. It seems all set to compete with popular brands such as Tivo Stream 4K, Google TV, and Chromecast.Moreover, it is expected to be an easy solution for those unwilling to spend a lot of money on an Android TV box.
+
+
+***
+![Applications to get $50 off your internet bill open](https://www.ksn.com/wp-content/uploads/sites/13/2021/05/U.S.-internet-well-equipped-to-handle-work-from-home-surge-1.jpg?w=1280 "Applications to get $50 off your internet bill open")
+
+
+[Applications to get $50 off your internet bill open](https://cw39.com/news/technology/applications-to-get-50-off-your-internet-bill-open/)
+
+
+> WASHINGTON – Americans can begin applying for $50 off their monthly internet bill on Wednesday as part of an emergency government program to help low-income households during the pandemic. The $3.2 billion program is part of the $900 billion December COVID-19-relief package.  On top of the $50 deduction, eligible households can also receive a one-time discount of up to $100 to buy laptops, desktop computers or tablets from participating providers if they contribute more than $10 and less than $50 toward the price.
+
+
