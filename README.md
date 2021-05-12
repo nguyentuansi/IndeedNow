@@ -6621,3 +6621,53 @@
 > Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+![Twitter Allowed China's Army of Fake Accounts to Run Amok](https://media.breitbart.com/media/2018/01/GettyImages-699574402.jpg "Twitter Allowed China's Army of Fake Accounts to Run Amok")
+
+
+[Twitter Allowed China's Army of Fake Accounts to Run Amok](https://www.breitbart.com/tech/2021/05/12/report-twitter-allowed-chinas-army-of-fake-accounts-to-run-amok/)
+
+
+> A recent report from the Associated Press claims that an army of fake bot accounts have been boosting China's messaging on Twitter, and the platform was slow to take action to stop the propaganda campaign. AP News reports that China's Communist Party has been using bot accounts to boost its messaging across Western social media. AP reports that Liu Xiaoming, China's former ambassador to the United Kingdom, has generated a large online following on Twitter and other social media websites. Liu has managed to gain a following of more than 119,000 users as he has become the role model for China's new sharp-edged 'wolf warrior' diplomacy, a term borrowed from the title of a popular Chinese action movie.
+
+
+***
+![shx: Enjoyable scripting experience with Python](https://external-preview.redd.it/y9Y8f_iNkgLPFeD2FlrmU_Krv4yb6XCF8R9yJaFhY4g.jpg?auto=webp&s=e3734ca78b96e8c866c524133b287226e53fdf28 "shx: Enjoyable scripting experience with Python")
+
+
+[shx: Enjoyable scripting experience with Python](https://www.reddit.com/r/Python/comments/nb0gby/shx_enjoyable_scripting_experience_with_python/)
+
+
+> google/zx is nice, but I still prefer Python's syntax sugars and libraries, so I port it to Python. Basically, with AsyncIO and token replacement, Bash plays nicely with Python:# Simply run a command $"echo hello" # Capture output __.capture = True assert (await $"echo hello").stdout == "hello\n" # Parallel execution ps = await gather(*($"printf $(($RANDOM % 2))" for _ in range(8))) assert 0 <= sum(int(p.stdout) for p in ps) <= 8 Github repo
+
+
+***
+![Southeast Qld lashed by storms, Kmart roof collapses as BOM sends emergency text](https://images.perthnow.com.au/publication/C-2827529/7ec331cbdb8cd0738dfbd3997164d2e07b747c54-16x9-x0y1w1280h720.jpg?imwidth=1024 "Southeast Qld lashed by storms, Kmart roof collapses as BOM sends emergency text")
+
+
+[Southeast Qld lashed by storms, Kmart roof collapses as BOM sends emergency text](https://www.news.com.au/technology/environment/southeast-qld-lashed-by-storms-kmart-roof-collapses-as-bom-sends-emergency-text/news-story/b631a5490be78da92a869dde5aef68e9)
+
+
+> Wild storms that brought heavy hail and more then a hundred thousand lightning strikes have caused the roof of a Queensland Kmart to collapse, forcing shoppers to be evacuated.Southeast Queensland was plunged into darkness and hit hard by a thunderstorm on Wednesday afternoon that brought 30 minute rainfall totals of 50mm in some areas including Caboolture.Giant hail was reported in Esk, Toogoolawah, Mt Mee and Biarra, while more than 100,000 lightning strikes were recorded into the night.Shoppers at Kmart Maroochydore at Sunshine Plaza were quick to record the collapse of the store's roof amid the storm just before 6pm.
+
+
+***
+![Drivers Scrambling for Fuel as Hacked Pipeline Restarts](https://www.usnews.com/dims4/USNEWS/e69f559/2147483647/thumbnail/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F0f%2F591d22e777355f9dd09f261cecefdf%2Fmedia%3A11457e37db374346897223b2efdcabf2Colonial_Pipeline_Cybersecurity_Attack_41360.jpg "Drivers Scrambling for Fuel as Hacked Pipeline Restarts")
+
+
+[Drivers Scrambling for Fuel as Hacked Pipeline Restarts](https://www.usnews.com/news/technology/articles/2021-05-11/pipeline-officials-hope-most-service-will-be-back-by-weekend)
+
+
+> By CATHY BUSSEWITZ, BEN FINLEY and TOM FOREMAN, JR., Associated Press CLEMMONS, N.C. (AP) — Drivers waited in long lines at gas stations in the Southeast on Wednesday after a hack of the nation's largest fuel pipeline led to distribution problems and panic-buying, draining supplies at thousands of gas stations. There is no gasoline shortage, according to government officials and energy analysts. But there is a problem getting the fuel from refineries on the Gulf Coast to the states that need it, and officials are scrambling to find alternate routes to deliver that fuel.
+
+
+***
+![Senate panel approves bill that would invest billions in tech](https://thehill.com/sites/default/files/schumercharles_051221gn3_lead.jpg "Senate panel approves bill that would invest billions in tech")
+
+
+[Senate panel approves bill that would invest billions in tech](https://thehill.com/policy/technology/553231-senate-panel-approves-bill-that-would-invest-billions-in-tech)
+
+
+> The Senate Commerce Committee voted Wednesday to approve legislation that would invest billions in science and emerging technologies in an effort to compete with China.The bipartisan Endless Frontiers Act was approved by the committee by a vote of 24-4, with four Republican members voting against the bill.The committee approved the legislation with significantly less funds included for the founding of a Technology and Innovation Directorate at the National Science Foundation, with much of the originally proposed $100 billion being funneled to other research efforts.
+
+
