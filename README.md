@@ -6346,3 +6346,50 @@
 > The Realme 8 5G, as the name suggests, has a 5G modem inside ready to connect you to the fastest mobile data connection available, now or in the future. Yet the phone costs just 200 British pounds, or about $280 at today's currency conversion rate, meaning that 5G is no longer only found on pricey mid- and high-specification phones. But cheap phones can also be substandard, especially when an 'expensive' feature like 5G gets slotted in to grab some headlines. The Realme 8 5G is cheap, but does it feel like it's cheap? MediaTek lends a hand How does Realme offer a phone with 5G for such a low price? One of the reasons is the phone uses a MediaTek Dimensity 700 processor, rather than a Qualcomm chip seen in mid-range smartphones like the Samsung Galaxy A52 5G and the Google Pixel 4a 5G.
 
 
+***
+![Apple iCloud Documents ends next year: how to save your data](https://cdn.mos.cms.futurecdn.net/h3Qe36NeJBhDbNpZoeGyLo-1200-80.jpeg "Apple iCloud Documents ends next year: how to save your data")
+
+
+[Apple iCloud Documents ends next year: how to save your data](https://www.techradar.com/news/apple-icloud-documents-ends-next-year-how-to-save-your-data)
+
+
+> (Image credit: Apple) Apple has announced that its legacy service of managing documents in iCloud is ending in May next year.When iOS 10 was announced back in 2016, a service and an app called iCloud Documents was unveiled, where you could save and manage data on your iPhone or iPad. However, there was confusion as to how the application worked, and a year later it was refactored as the Files app you see today.At the same time, Apple released a new service called iCloud Drive for managing data, but users had to update it through their settings.
+
+
+***
+![Bitcoin latest – Shiba Inu, Dogecoin and Ethereum cryptocurrency prices soar as new Coinbase rival Block.One emerges](https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/DOGECOIN-LATEST.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin latest – Shiba Inu, Dogecoin and Ethereum cryptocurrency prices soar as new Coinbase rival Block.One emerges")
+
+
+[Bitcoin latest – Shiba Inu, Dogecoin and Ethereum cryptocurrency prices soar as new Coinbase rival Block.One emerges](https://www.the-sun.com/lifestyle/tech/2857977/bitcoin-shiba-inu-cryptocurrency-ethereum-dogecoin-price-latest-updates/)
+
+
+> DOGECOIN now has a legitimate rival in Shiba Inu coin after yet another price surge, experts are predicting. The value of Shiba Inu is currently sitting at £0.000021 ($0.00003026), compared to a lower $0.0000006 in mid-April, according to CoinMarketCap. At the time of writing, it's up by almost 130% in 24 hours but it's obviously starting from a low number so rises will appear bigger. In comparison, Dogecoin is currently worth £0.36 ($0.51) - up from £0.0070 ($0.005) at the beginning of the year.
+
+
+***
+![Microsoft Teams takes another step closer to becoming the only work app you need](https://cdn.mos.cms.futurecdn.net/tbJgojt56KrKZsFxxRM3R7-1200-80.jpg "Microsoft Teams takes another step closer to becoming the only work app you need")
+
+
+[Microsoft Teams takes another step closer to becoming the only work app you need](https://www.techradar.com/news/microsoft-teams-takes-another-step-closer-to-becoming-the-only-work-app-you-need)
+
+
+> (Image credit: Shutterstock / Ink Drop) Microsoft has launched a series of new features for collaboration platform Teams designed to make webinar and virtual event hosting simpler than ever.In a blog post, the company highlights two new Microsoft Teams features in particular, both of which are available immediately: Webinars and PowerPoint Live.The former allows Teams users to host 'interactive webinars' for up to 1,000 participants. The setup process is reportedly much like preparing a regular Teams meeting, with the addition of a custom registration page and tighter permissioning.
+
+
+***
+[meSSIDge.py](https://www.reddit.com/r/Python/comments/nal3mj/messidgepy_send_and_receive_messages_by/)
+
+
+> I was looking at wifi names in my area from my pc and it got me wondering:Could I constantly change my Wifi/SSID name to broadcast a message?Could I also receive that message on another device/PC within range of my modem?And so I created meSSIDge:TLDR watch the VIDEOPossibly the slowest, stupidest, limited, and least secure messaging system ever conceivedHow it worksBroadcasting / SendingThe script prompts you for a unique 4 character identifier. This is used so the other device can listen out for your message.
+
+
+***
+![How to remove Microsoft Edge from Windows 10](https://cdn.mos.cms.futurecdn.net/gKc94DjUvacoqGc3mQ365Y-1200-80.jpg "How to remove Microsoft Edge from Windows 10")
+
+
+[How to remove Microsoft Edge from Windows 10](https://www.techradar.com/how-to/how-to-remove-microsoft-edge-from-windows-10)
+
+
+> Microsoft Edge is easily the best browser ever shipped with Windows 10, but that doesn't necessarily mean you want it. The new, Chromium-based Microsoft Edge is a huge improvement on the legacy version that arrived when Windows 10 first launched, but by now there's every chance you're already settled on a different browser. Microsoft Edge is also pushed really hard in Windows 10. If you set a different default browser, Microsoft will remind you that Edge is apparently better. In the new-look Settings app, you'll see a warning under web browsing telling you ‘Restore recommended' if you dare to avoid using Microsoft Edge.
+
+
