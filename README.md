@@ -6483,3 +6483,47 @@
 > If you're looking for big discounts on a big device, this week's best Samsung Galaxy S21 Ultra deals could be just what you need. Being the top Android device of the moment makes this one powerful device indeed - with a hefty price tag to match - but you'd be surprised at how much this week's Samsung Galaxy S21 Ultra deals can really help offset those costs. If you happen to have an older device to trade in you'll especially find a ton of great options right now for both unlocked and carrier devices.
 
 
+***
+![Best noise-cancelling earbuds: the top wireless earbuds to block out the world](https://cdn.mos.cms.futurecdn.net/mowaynHuh5v9PzFvcnPmbF-1200-80.jpg "Best noise-cancelling earbuds: the top wireless earbuds to block out the world")
+
+
+[Best noise-cancelling earbuds: the top wireless earbuds to block out the world](https://www.techradar.com/best/best-noise-cancelling-earbuds)
+
+
+> Noise-cancelling earbuds are a relatively new technology, but they have quickly become one of the best ways to enjoy your music and block out the annoying sound of the outside world without the bulk of over-ear headphones. Not too long ago, noise-cancelling earbuds were decidedly inferior to their over-ear counterparts; nowadays, they're an excellent form factor in their own right, and the best noise-cancelling earbuds can give even the best noise-cancelling headphones a run for their money. That's thanks to popular true wireless earbuds like the Sony WF-1000XM3 and the Apple AirPods Pro, which have helped to popularize the technology and convince us that compact in-ear headphones can offer active noise cancellation to rival over-ear cans.
+
+
+***
+![GameSir is launching two new controllers, aimed at mobile gamers](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/x2-controller-cyberpunk.jpg "GameSir is launching two new controllers, aimed at mobile gamers")
+
+
+[GameSir is launching two new controllers, aimed at mobile gamers](https://www.imore.com/gamesir-controllers-let-you-play-iphone-and-ipad-like-a-nintendo-switch)
+
+
+> Source: GameSir GameSir has announced two new controller peripherals for the iPhone and iPad. X2 Bluetooth Mobile Gaming Controller is a new device for iPhones, while the F7 Claw Tablet Game Controller is made for use on the iPad. The X2 Bluetooth Mobile Gaming Controller will cost $60, while the F7 Claw Tablet Game Controller will cost $40. The F7 Claw will be available on May 24th, while the X2 Bluetooth Mobile Gaming Controller is available now. If you play games on your iPhone, chances are you already know about the many excellent iPhone controllers you can choose from.
+
+
+***
+![FCC emergency program to give people $50 off internet bill](https://media1.s-nbcnews.com/j/rockcms/2021-05/1441/210512-broadband-program-al-0758-172603_7005aadac08f1fd93aae84454fe6d05b45849a5a.nbcnews-fp-1024-512.jpg "FCC emergency program to give people $50 off internet bill")
+
+
+[FCC emergency program to give people $50 off internet bill](https://www.nbcnews.com/tech/tech-news/fcc-emergency-program-give-people-50-internet-bill-rcna906)
+
+
+> Americans can begin applying for $50 off their monthly internet bill on Wednesday as part of an emergency government program to keep people connected during the pandemic.The $3.2 billion program is part of the $900 billion December pandemic-relief package. The government is increasing spending on broadband as the pandemic made stark that millions of Americans did not have access to, and could not afford, broadband at a time when jobs, school and health care was moving online.It's unclear how long the money will last but it's expected to be several months.
+
+
+***
+[Bungie turned on Destiny 2 cross-play by accident](https://mobilesyrup.com/2021/05/12/bungie-turned-on-destiny-2-cross-play-by-accident/)
+
+
+> Some Destiny 2 players have been able to access the game’s upcoming cross-play features months ahead of its official release. Bungie has previously said that cross-play with every platform Destiny 2 is available on, including the Xbox Series X/S, PlayStation 4/PlayStation 5, PC and Google Stadia versions of the game, would arrive later this year.... The post Bungie turned on Destiny 2 cross-play by accident appeared first on MobileSyrup.
+
+
+***
+[Virgin Mobile customers can get two months of Crave + Movies + HBO for free](https://mobilesyrup.com/2021/05/12/virgin-mobile-crave-movies-hbo-free-two-months/)
+
+
+> Bell is offering two months of its Crave streaming service for free to customers of its Virgin Mobile flanker brand. Specifically, Virgin customers will be given access to Crave + Movies + HBO, which includes content offered through the base Crave tier (such as Letterkenny and The Handmaid’s Tale), Starz (including Confronting a Serial Killer and Ramy) and Movies + HBO... The post Virgin Mobile customers can get two months of Crave + Movies + HBO for free appeared first on MobileSyrup.
+
+
