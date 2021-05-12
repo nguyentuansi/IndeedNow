@@ -6574,3 +6574,50 @@
 > Allison Johnson / The Verge: Review of Asus' new ZenFone 8 flagship, available for $599-$799: thoughtful and compact design, robust build, and great performance, but battery life is average — The ZenFone 8 delivers flagship-level build quality and performance in a small package — After a couple of generations making phones …
 
 
+***
+![The security hole exploited by WannaCry is still alive, four years later](https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg "The security hole exploited by WannaCry is still alive, four years later")
+
+
+[The security hole exploited by WannaCry is still alive, four years later](https://www.techradar.com/news/the-security-hole-exploited-by-wannacry-is-still-alive-four-years-later)
+
+
+> (Image credit: Shutterstock) The protocol which was exploited by the WannaCry ransomware to encrypt nearly a quarter of a million systems around the world four years ago is still being used in enterprise IT environments according to new research from ExtraHop.The network detection and response firm's threat research team first began looking into the prevalence of insecure protocols such as Server Message Block version one (SMBv1), Link-Local Multicast Name Resolutions (LLMNR), NT Lan Manager (NTLMv1) and Hypertext Transfer Protocol (HTTP) in enterprise IT environments earlier this year.
+
+
+***
+![Is the Roku Express 4K+ or Roku Streaming Stick+ better? Let's discuss!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/hulu_on_roku_hero.jpg "Is the Roku Express 4K+ or Roku Streaming Stick+ better? Let's discuss!")
+
+
+[Is the Roku Express 4K+ or Roku Streaming Stick+ better? Let's discuss!](https://www.androidcentral.com/roku-express-4k-vs-roku-streaming-stick)
+
+
+> The Roku Express 4K+ streaming box allows users to stream their favorite content in HD, 4K, and HDR with sharp resolution. It also includes a do-it-all remote with voice control to make navigating the platform even easier. $40 at Best Buy Easy setup Cheaper than cable Private listening on mobile Larger device Limited WiFi range Less RAM The Roku Streaming Stick+ is a compact streaming device that allows users to stream HD, 4K, and HDR content. The Streaming Stick+ also promises a wider range for WiFi connectivity.
+
+
+***
+[Aussie WhatsApp users to hand over more data or lose features](https://www.goldcoastbulletin.com.au/technology/online/whatsapp-users-must-accept-privacy-changes-by-friday-or-lose-access-to-messages-calls-features/news-story/a4b53d885e06f96b652ec22f449eacc1)
+
+
+> You have until Friday to accept WhatsApp's new privacy policy or find a new online messaging service.
+
+
+***
+![Microsoft restores Outlook after a bizarre bug affects users for hours](https://icdn.digitaltrends.com/image/digitaltrends/outlook-11.jpg "Microsoft restores Outlook after a bizarre bug affects users for hours")
+
+
+[Microsoft restores Outlook after a bizarre bug affects users for hours](https://www.digitaltrends.com/news/microsoft-is-working-right-now-to-fix-an-issue-with-outlook/)
+
+
+> Microsoft finally corrected an annoying bug that severely impacted Outlook desktop app users on the evening of May 11. The computer giant says a fix for an issue where email text might disappear, or where users might have trouble viewing the content of an email sent to them, has now officially rolled out, and there should no longer be issues. We've finished the deployment of our fix and we've confirmed via monitoring and user reports that the issue has been mitigated. Users will be required to restart their applications for the changes to take effect.
+
+
+***
+![Help ! Microphone 1 ch (mono) after uninstall BlackHole](https://forums.macrumors.com/attachments/c-png.1773806/ "Help ! Microphone 1 ch (mono) after uninstall BlackHole")
+
+
+[Help ! Microphone 1 ch (mono) after uninstall BlackHole](https://forums.macrumors.com/threads/help-microphone-1-ch-mono-after-uninstall-blackhole-macbook-air-m1.2295902/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
