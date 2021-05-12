@@ -6296,3 +6296,53 @@
 > Two dead whales were discovered under a Royal Australian Navy ship as it docked in the US state of California over the weekend.About 9.45am local time on Saturday, the carcasses of two fin whales became dislodged from the hull of HMAS Sydney before surfacing at the Naval Base in San Diego.One was 20m in length while the other was about 8m.It is not yet known how the whales were killed, but the carcasses were retrieved with booms before they were removed.The incident, which happened at the Naval Base San Diego in southern California, was confirmed by the Australian Department of Defence in a statement to Nine on Wednesday.
 
 
+***
+![[EXCLUSIVE] Moderna plans to build manufacturing facilities in Korea](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/bf9cc4e82fd4408d8345e0fcf080e057.jpg "[EXCLUSIVE] Moderna plans to build manufacturing facilities in Korea")
+
+
+[[EXCLUSIVE] Moderna plans to build manufacturing facilities in Korea](https://www.koreatimes.co.kr/www/tech/2021/05/693_308712.html)
+
+
+> People wait in a line to be vaccinated against COVID-19 at a center in Seoul, May 3. YonhapBy Baek Byung-yeulU.S. biotechnology firm Moderna has chosen Korea as its base to produce COVID-19 vaccines for Asian countries, according to multiple government sources, Wednesday. Amid the administration's ongoing vaccination efforts, attracting the U.S. firm is expected to help allay concerns about securing an adequate supply of COVID-19 vaccines."Moderna recently expressed its intention to purchase land on Yeongjong Island, an hour away from Incheon International Airport, and its CEO Stephane Bancel is expected to visit Cheong Wa Dae as early as this weekend or May 18 at the latest," a high-ranking government official told The Korea Times asking for anonymity.
+
+
+***
+![Korea emerging as Asia's vaccine hub](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/287a9c9cab974f88bded9045343b2631.jpg "Korea emerging as Asia's vaccine hub")
+
+
+[Korea emerging as Asia's vaccine hub](https://www.koreatimes.co.kr/www/tech/2021/05/693_308710.html)
+
+
+> By Kim Bo-eunKorea is quickly becoming a hub for producing vaccines and treatments for COVID-19 in Asia, based on its advanced manufacturing capabilities and capacity.Government officials told The Korea Times that Moderna is reviewing setting up a production plant on Incheon's Yeongjong Island, where Incheon International Airport is located.Incheon is a strategic location for bio firms, based on a variety of factors. It is home to a cluster of bio companies in Songdo International Business District.
+
+
+***
+![[ANALYSIS] Orion snacks sweep China, Russia and Vietnam](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/fb51c499f6724ce892b1ad266370bf01.jpg "[ANALYSIS] Orion snacks sweep China, Russia and Vietnam")
+
+
+[[ANALYSIS] Orion snacks sweep China, Russia and Vietnam](https://www.koreatimes.co.kr/www/tech/2021/05/694_308709.html)
+
+
+> By Kim Jae-heunThe outbreak of COVID-19 has brought about an unexpected increase in sales for local food companies ― strict social distancing measures have forced people to spend more time at home and they are consuming more food while they are there.Orion is one of the biggest beneficiaries. It is the largest food firm in terms of sales in Korea followed by Lotte Confectionery and Crown. Lotte took the No.1 spot in 2019, but thanks to the growing popularity of snack items overseas, Orion recaptured the top position in 2020.
+
+
+***
+![US removes Xiaomi from government blacklist, parties to resolve litigation](https://assets2.rappler.com/2021/05/shutterstock-xiaomi-ls-1620806521015.jpg "US removes Xiaomi from government blacklist, parties to resolve litigation")
+
+
+[US removes Xiaomi from government blacklist, parties to resolve litigation](https://www.rappler.com/technology/us-removes-xiaomi-from-government-blacklist)
+
+
+> The US Department of Defense will remove China's Xiaomi from a government blacklist, a court filing showed, clearing the way for any future American investment in the smartphone maker. The filing stated that the two parties would agree to resolve their ongoing litigation without further contest, bringing to an end a brief and controversial spat between the hardware company and Washington. Xiaomi did not immediately respond to a Reuters request for comment. Earlier this year the US Department of Defense, under the Trump administration, designated the firm as having ties to China's military and placed it on a list that would restrict US investment in the company.
+
+
+***
+![The Realme 8 5G shows the exciting future of cheap 5G phones](https://icdn.digitaltrends.com/image/digitaltrends/realme-8-5g-back.jpg "The Realme 8 5G shows the exciting future of cheap 5G phones")
+
+
+[The Realme 8 5G shows the exciting future of cheap 5G phones](https://www.digitaltrends.com/mobile/realme-8-5g-hands-on-features-price-photos-release-date/)
+
+
+> The Realme 8 5G, as the name suggests, has a 5G modem inside ready to connect you to the fastest mobile data connection available, now or in the future. Yet the phone costs just 200 British pounds, or about $280 at today's currency conversion rate, meaning that 5G is no longer only found on pricey mid- and high-specification phones. But cheap phones can also be substandard, especially when an 'expensive' feature like 5G gets slotted in to grab some headlines. The Realme 8 5G is cheap, but does it feel like it's cheap? MediaTek lends a hand How does Realme offer a phone with 5G for such a low price? One of the reasons is the phone uses a MediaTek Dimensity 700 processor, rather than a Qualcomm chip seen in mid-range smartphones like the Samsung Galaxy A52 5G and the Google Pixel 4a 5G.
+
+
