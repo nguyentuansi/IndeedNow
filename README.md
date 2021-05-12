@@ -6108,3 +6108,53 @@
 > Jamf, the enterprise Apple device management company, announced that it was acquiring Wandera, a zero trust security startup, for $400 million at the market close today. Today's purchase is the largest in the company's history. Jamf provides IT at large organizations with a set of management services for Apple devices. It is the leader in the market, and snagging Wandera provides a missing modern security layer for the platform. Jamf CEO Dean Hager says that Wandera's zero trust approach fills in an important piece in the Jamf platform tool set.
 
 
+***
+![Xiaomi Mi 11 Ultra lands in Germany on May 20 with free 80W wireless charger](https://fdn.gsmarena.com/imgroot/news/21/05/mi-11-ultra-germany/-476x249w4/gsmarena_001.jpg "Xiaomi Mi 11 Ultra lands in Germany on May 20 with free 80W wireless charger")
+
+
+[Xiaomi Mi 11 Ultra lands in Germany on May 20 with free 80W wireless charger](https://www.gsmarena.com/xiaomi_mi_11_ultra_lands_in_germany_on_may_20_with_free_80w_wireless_charger-news-49060.php)
+
+
+> Xiaomi is finally bringing its top of the line smartphone to Germany, following its launch in the UK last week. The Mi 11 Ultra will go on sale on the company's official online store for the country on May 20 at 1 PM CET. If you order one between then and May 23 you will receive a free 80W wireless charging stand. This is the one that can charge up the phone at 67W, in the same short time it takes the wired charger in the box. The price is €1,199, as announced at the official global unveiling of the device back in March.
+
+
+***
+![Fluke Networks LinkIQ combines cable performance technology with switch diagnostics](https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg "Fluke Networks LinkIQ combines cable performance technology with switch diagnostics")
+
+
+[Fluke Networks LinkIQ combines cable performance technology with switch diagnostics](https://www.helpnetsecurity.com/2021/05/12/fluke-networks-linkiq/)
+
+
+> Fluke Networks introduces the LinkIQ Cable+Network tester, which combines switch diagnostics with the cable measurement technology, simplifying the installation and troubleshooting of cabling and network devices. LinkIQ provides simple pass/fail test reports using the company's LinkWare software and verifies the performance of switches, including those that provide Power over Ethernet through an easy-to-use touchscreen interface, akin to a smartphone. 'Installing and troubleshooting advanced technologies at the core of today's networks is complex, time consuming and requires years of training,' stated Walter Hock, vice president of product for Fluke.
+
+
+***
+![You won't believe what a woman said about her kids' stepmom and 28 Alternative Names For Stepmom](https://https://www.thearkatech.com/img/news_img/all/8183_18_1200.pic "You won't believe what a woman said about her kids' stepmom and 28 Alternative Names For Stepmom")
+
+
+[You won't believe what a woman said about her kids' stepmom and 28 Alternative Names For Stepmom](https://www.thearkatech.com/en/48111/)
+
+
+> © Instagram / stepmom By: Margaret Wilson2021-05-12 03:15:14 Last News: 28 Alternative Names For Stepmom and You won't believe what a woman said about her kids' stepmom Covid-19 and Vaccine News: Live Updates. Colt Brennan, former quarterback for Hawaii and Mater Dei High, dies at 37. Track and field: 2021 season preview capsules. Pfizer vaccine could be available for ages 2 and up as early as this fall, exec says. SPC racks up 3rd-place finishes on first day of national. Prosecutor Calls Georgia Spa Shooting Hate Crime; Will Seek Death Penalty.
+
+
+***
+![Disease-related risk management is now a thing, and this young startup is at the forefront](https://techcrunch.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-5.09.35-PM.png?w=608 "Disease-related risk management is now a thing, and this young startup is at the forefront")
+
+
+[Disease-related risk management is now a thing, and this young startup is at the forefront](https://techcrunch.com/2021/05/11/charity_dean/)
+
+
+> Charity Dean has been in the national spotlight lately because she was among a group of doctors, scientists and tech entrepreneurs who sounded the pandemic alarm early last year and who are featured in a new book by Michael Lewis about the U.S. response, called The Premonition. It's no wonder the press — and, seemingly moviemakers, too — are interested in Dean. Surgery is her first love, but she also studied tropical diseases and not only applied what she knows about outbreaks on the front lines last year, but also came to appreciate an opportunity that only someone in her position could see.
+
+
+***
+![The SAAC releases the cast for 'Steel Magnolias' and Stars of the film Steel Magnolias](https://https://www.thearkatech.com/img/news_img/all/8175_10_1200.pic "The SAAC releases the cast for 'Steel Magnolias' and Stars of the film Steel Magnolias")
+
+
+[The SAAC releases the cast for 'Steel Magnolias' and Stars of the film Steel Magnolias](https://www.thearkatech.com/en/48110/)
+
+
+> © Instagram / steel magnolias By: Daniel White2021-05-12 03:13:13 Last News: Local Senior and Community Center resume indoor activities, members grateful for the return. COLUMN-Brazil's thirsty corn crop and dry forecast a boon for U.S. exporters -Braun. Doug Pederson: I'm excited for Jalen Hurts and what he can do. 2021 WNBA Team Preview: Chicago Sky. California governor announces $12 billion homeless plan. Family, friend and fans say final goodbyes to Bobby Unser. 19 Actors Who Actually Got Tattoos To Honor Their Movie And TV Roles.
+
+
