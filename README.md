@@ -6158,3 +6158,50 @@
 > © Instagram / steel magnolias By: Daniel White2021-05-12 03:13:13 Last News: Local Senior and Community Center resume indoor activities, members grateful for the return. COLUMN-Brazil's thirsty corn crop and dry forecast a boon for U.S. exporters -Braun. Doug Pederson: I'm excited for Jalen Hurts and what he can do. 2021 WNBA Team Preview: Chicago Sky. California governor announces $12 billion homeless plan. Family, friend and fans say final goodbyes to Bobby Unser. 19 Actors Who Actually Got Tattoos To Honor Their Movie And TV Roles.
 
 
+***
+![Germany opts out of WhatsApp's controversial new privacy policy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/01/whatsapp-dark-theme.jpg "Germany opts out of WhatsApp's controversial new privacy policy")
+
+
+[Germany opts out of WhatsApp's controversial new privacy policy](https://www.androidcentral.com/germany-opts-out-whatsapps-controversial-new-privacy-policy)
+
+
+> Source: Harish Jonnalagadda / Android Central Germany has banned Facebook from processing WhatsApp user data. The company's privacy policy is being criticized for being misleading. Facebook's previous data protection scandals such as Cambridge Analytica are being raised as potential concerns, especially as Germany heads towards federal elections later this summer. WhatsApp's new privacy policy rollout is shitting a snag in Germany. A regulator today issued a barring order on Facebook, banning it from accessing personal data from WhatsApp users.
+
+
+***
+[Online mortgage service Better.com to go public via a SPAC merger with Aurora Acquisition Corp. at $7.7B valuation; deal includes $1.5B SoftBank-led investment (Riley de León/CNBC)](http://www.techmeme.com/210511/p54#a210511p54)
+
+
+> Riley de León / CNBC: Online mortgage service Better.com to go public via a SPAC merger with Aurora Acquisition Corp. at $7.7B valuation; deal includes $1.5B SoftBank-led investment — - Digital mortgage lender Better will make its market debut by merging with Aurora Acquisition Corp., valuing the company at $7.7 billion.
+
+
+***
+![Dyson V12 Detect Slim release date, news and what to expect](https://cdn.mos.cms.futurecdn.net/oJ5viucttyybzeGdXSdipD-1200-80.jpg "Dyson V12 Detect Slim release date, news and what to expect")
+
+
+[Dyson V12 Detect Slim release date, news and what to expect](https://www.techradar.com/news/dyson-v12-release-date-news-and-what-to-expect)
+
+
+> While all the excitement was around the launch of the Dyson V15 Detect – what with its laser-lit cleaning head and piezo sensor – it's easy to overlook that there's a V12 model as well.There's no V13 or V14 to fill in the gap, but the V12 Detect Slim, launching alongside the V15 Detect in some markets, slots right in between the existing Dyson V11 range and the very innovative V15 Detect.We were expecting to hear about a V12 in March – which is in line with when Dyson usually makes its product announcements – but things aren't quite what we would call 'normal', are they? Still, the V12 Detect Slim is expected to bring everything that's great about the V15 Detect, just in a slightly different and more affordable package.
+
+
+***
+![Researchers control Venus flytraps using smartphones](https://smartcdn.prod.postmedia.digital/torontosun/wp-content/uploads/2021/05/TECHNOLOGY_84149106-scaled-e1620785051600.jpg?quality=100&strip=all "Researchers control Venus flytraps using smartphones")
+
+
+[Researchers control Venus flytraps using smartphones](https://torontosun.com/technology/researchers-control-venus-flytraps-using-smartphones)
+
+
+> A Venus flytrap is seen rigged with two electrodes during an experiment in a lab at Nanyang Technological University in Singapore April 27, 2021. Photo by Joseph Campbell /REUTERS SINGAPORE — Researchers in Singapore have found a way of controlling a Venus flytrap using electric signals from a smartphone, an innovation they hope will have a range of uses from robotics to employing the plants as environmental sensors. Luo Yifei, a researcher at Singapore's Nanyang Technological University (NTU), showed in a demonstration how a signal from a smartphone app sent to tiny electrodes attached to the plant could make its trap close as it does when catching a fly.
+
+
+***
+![Genesis vehicle sales exceed 500,000 in past 5 years](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/ba6874a20f774761966634a961cd6bba.jpg "Genesis vehicle sales exceed 500,000 in past 5 years")
+
+
+[Genesis vehicle sales exceed 500,000 in past 5 years](https://www.koreatimes.co.kr/www/tech/2021/05/419_308677.html)
+
+
+> Genesis G80 / Courtesy of Hyundai MotorHyundai Motor sold more than 500,000 units of vehicles under its independent Genesis brand since its launch five years ago, the company said Wednesday. Hyundai sold 378,999 Genesis vehicles in the domestic market and 121,192 units overseas since November 2015, the company said in a statement. The Genesis brand has advanced to the United States, Canada, the Middle East, Russia, and Australia, with a plan to make inroads into China and Europe this year. The Genesis lineup consists of the G90, G80 and G70 sedan as well as the GV80 and GV70 sport utility vehicle.
+
+
