@@ -6443,3 +6443,43 @@
 > WASHINGTON – Americans can begin applying for $50 off their monthly internet bill on Wednesday as part of an emergency government program to help low-income households during the pandemic. The $3.2 billion program is part of the $900 billion December COVID-19-relief package.  On top of the $50 deduction, eligible households can also receive a one-time discount of up to $100 to buy laptops, desktop computers or tablets from participating providers if they contribute more than $10 and less than $50 toward the price.
 
 
+***
+![Stampli raises $50 million in Series C to help companies intelligently manage invoices – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/Stampli-co-Founders-Ofer-Feldman-L-and-Eyal-FeldmanR.png?w=600 "Stampli raises $50 million in Series C to help companies intelligently manage invoices – TechCrunch")
+
+
+[Stampli raises $50 million in Series C to help companies intelligently manage invoices – TechCrunch](https://techcrunch.com/2021/05/12/stampli-raises-50-million-in-series-c-to-help-companies-intelligently-manage-invoices/)
+
+
+> This morning Stampli, a software platform that optimizes corporate invoice management, announced a $50 million Series C financing round, led by Insight Partners with participation from Signal Fire and Nextworld Capital. The company launched in 2015 with the goal of simplifying the process of invoice management. Why is that needed? Services and software are purchased by employees of companies across a variety of departments. The resulting invoices then land in the finance department, a part of companies that can be a bit siloed.
+
+
+***
+![Telegram inadvertently hosts a thriving illegal marketplace](https://cdn.mos.cms.futurecdn.net/DKnCXCBzVhrirv84RYHLg8-1200-80.jpg "Telegram inadvertently hosts a thriving illegal marketplace")
+
+
+[Telegram inadvertently hosts a thriving illegal marketplace](https://www.techradar.com/news/telegram-inadvertently-hosts-a-thriving-illegal-marketplace)
+
+
+> (Image credit: Shutterstock / song_about_summer) An investigation by security researchers has revealed that cybercriminals are exploiting Telegram's encryption capabilities to sell illegal goods. Cybersecurity experts from NortonLifeLock found evidence of a thriving illegal marketplace on Telegram where unscrupulous users hawk everything from Covid-19 vaccines and personal information, to pirated software and fake IDs.Encrypted chat apps have gained popularity in recent times and are slowly entering the mainstream, displacing incumbents such as WhatsApp, as users warm up to their privacy-centric advantages.
+
+
+***
+![Duolingo swipes Tinder in a Clash Royale – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/DuoHopEquity.gif?w=425 "Duolingo swipes Tinder in a Clash Royale – TechCrunch")
+
+
+[Duolingo swipes Tinder in a Clash Royale – TechCrunch](https://techcrunch.com/2021/05/12/duolingo-swipes-tinder-in-a-clash-royale/)
+
+
+> Natasha Mascarenhas Alex Wilhelm 7 hours Hello and welcome back to Equity, TechCrunch's venture capital-focused podcast, where we unpack the numbers behind the headlines. For this week's deep dive, Alex and Danny unpacked Natasha‘s latest project: The Duolingo EC-1. The 12,000 word four-part series was published last week and is worth a read. But, until you get to it, enjoy our podcast that doubles-clicks into its most interesting bits. Duo, Duolingo's mascot, flying around. Image Credits: Duolingo Here's how it went, after we got our morning allergy banter out of the way: What's an EC-1? A TechCrunch-style deep-dive into one of the startup world's most promising, and interesting companies.
+
+
+***
+![The best Samsung Galaxy S21 Ultra deals for May 2021](https://cdn.mos.cms.futurecdn.net/BidRQd8pYx7bNKg5hFjmGD-1200-80.jpg "The best Samsung Galaxy S21 Ultra deals for May 2021")
+
+
+[The best Samsung Galaxy S21 Ultra deals for May 2021](https://www.techradar.com/deals/the-best-samsung-galaxy-s21-ultra-deals)
+
+
+> If you're looking for big discounts on a big device, this week's best Samsung Galaxy S21 Ultra deals could be just what you need. Being the top Android device of the moment makes this one powerful device indeed - with a hefty price tag to match - but you'd be surprised at how much this week's Samsung Galaxy S21 Ultra deals can really help offset those costs. If you happen to have an older device to trade in you'll especially find a ton of great options right now for both unlocked and carrier devices.
+
+
