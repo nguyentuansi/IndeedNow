@@ -6527,3 +6527,50 @@
 > Bell is offering two months of its Crave streaming service for free to customers of its Virgin Mobile flanker brand. Specifically, Virgin customers will be given access to Crave + Movies + HBO, which includes content offered through the base Crave tier (such as Letterkenny and The Handmaid’s Tale), Starz (including Confronting a Serial Killer and Ramy) and Movies + HBO... The post Virgin Mobile customers can get two months of Crave + Movies + HBO for free appeared first on MobileSyrup.
 
 
+***
+![Rob Black's Winners & Losers: Gas prices continue to rise](https://www.kron4.com/wp-content/uploads/sites/11/2021/05/rob-black.png?w=1280 "Rob Black's Winners & Losers: Gas prices continue to rise")
+
+
+[Rob Black's Winners & Losers: Gas prices continue to rise](https://www.kron4.com/features/tech-trends/rob-blacks-winners-losers-gas-prices-continue-to-rise/)
+
+
+> by: Rob Black Posted: May 12, 2021 / 11:17 AM PDT / Updated: May 12, 2021 / 11:17 AM PDT SAN FRANCISCO (KRON)- On today's edition of Rob Black's Winners and Losers, financial expert Rob Black talks with KRON4's James Fletcher about stocks, gas prices, and Netflix's new movie. Tech-led selloff intensifies: On Wednesday, the Dow dropped 500 points while the S&P 500 lost 1.7%. Gas prices continue to rise: The average U.S. price of regular-grade gasoline jumped 6 cents over the past two weeks to $3.02 per gallon.
+
+
+***
+![Valve's Gabe Newell teases console-related plans for Steam games](https://cdn.mos.cms.futurecdn.net/fVn9kvuFHU7FaLjpZk2JJe-1200-80.jpg "Valve's Gabe Newell teases console-related plans for Steam games")
+
+
+[Valve's Gabe Newell teases console-related plans for Steam games](https://www.techradar.com/news/valves-gabe-newell-teases-console-related-plans-for-steam-games)
+
+
+> (Image credit: Steam/Valve) Gabe Newell, the co-founder and president of Valve, has hinted that the company could bring Steam games to consoles during a recent question and answer session.  The session took place at Sancta Maria College in Auckland, New Zealand, and a student's question and Newell's answer were recorded and uploaded to Reddit by user Odysseic (via VGC). When asked 'will Steam be porting any games to console, or will it just stay on PC?', Newell somewhat hesitantly replies 'You will get a better idea of that by the end of this year,' adding, 'and it won't be the answer you expect.
+
+
+***
+![Musk tweets Tesla self-driving rollout could take a couple of months; stock falls](https://www.reuters.com/resizer/r6ub-c6jejkxigepPahH2WFScUk=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/DAI3EOCMDBICXCN7OJU566M3SE.jpg "Musk tweets Tesla self-driving rollout could take a couple of months; stock falls")
+
+
+[Musk tweets Tesla self-driving rollout could take a couple of months; stock falls](https://www.reuters.com/technology/tesla-roll-out-improved-self-driving-technology-coming-weeks-musk-2021-05-12/)
+
+
+> Tesla Inc's (TSLA.O) top boss Elon Musk said Tesla is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next two to three weeks.Tesla shares fell 2.7% to $600.42 in morning trade, headed for a third straight decline. U.S. federal and state regulators have been scrutinizing Tesla's semi-automated driving system following accidents in Texas and other areas."I think we're maybe a month or two away from wide beta. But these things are hard to predict accurately," Musk said in a Tweet.
+
+
+***
+![PEP 659 -- Specializing Adaptive Interpreter (speeding up Python)](https://external-preview.redd.it/XACIlvLRgD0CrsIsxO7yWQMICHPINiGesu3WjxQxeXs.jpg?auto=webp&s=c7f0d77306cb94adced1c514958fdf68f575791c "PEP 659 -- Specializing Adaptive Interpreter (speeding up Python)")
+
+
+[PEP 659 -- Specializing Adaptive Interpreter (speeding up Python)](https://www.reddit.com/r/Python/comments/nav6w6/pep_659_specializing_adaptive_interpreter/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Review of Asus' new ZenFone 8 flagship, available for $599-$799: thoughtful and compact design, robust build, and great performance, but battery life is average (Allison Johnson/The Verge)](http://www.techmeme.com/210512/p35#a210512p35)
+
+
+> Allison Johnson / The Verge: Review of Asus' new ZenFone 8 flagship, available for $599-$799: thoughtful and compact design, robust build, and great performance, but battery life is average — The ZenFone 8 delivers flagship-level build quality and performance in a small package — After a couple of generations making phones …
+
+
