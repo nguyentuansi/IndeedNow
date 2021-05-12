@@ -6205,3 +6205,47 @@
 > Genesis G80 / Courtesy of Hyundai MotorHyundai Motor sold more than 500,000 units of vehicles under its independent Genesis brand since its launch five years ago, the company said Wednesday. Hyundai sold 378,999 Genesis vehicles in the domestic market and 121,192 units overseas since November 2015, the company said in a statement. The Genesis brand has advanced to the United States, Canada, the Middle East, Russia, and Australia, with a plan to make inroads into China and Europe this year. The Genesis lineup consists of the G90, G80 and G70 sedan as well as the GV80 and GV70 sport utility vehicle.
 
 
+***
+![iPhone production at Foxconn's Chennai plant drops by half as over 100 employees test Covid positive](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/iphone_reuters-647x363.jpeg?QpkGVj3fUBCr4_kHHKqyS3o9iwXtNE8c "iPhone production at Foxconn's Chennai plant drops by half as over 100 employees test Covid positive")
+
+
+[iPhone production at Foxconn's Chennai plant drops by half as over 100 employees test Covid positive](https://www.indiatoday.in/technology/news/story/iphone-production-at-foxconn-s-chennai-plant-drops-by-half-as-over-100-employees-test-covid-positive-1801576-2021-05-12)
+
+
+> Apple's manufacturing partner Foxconn recently confirmed that at least 10 employees at its Chennai facility tested Covid-19 positive. Since the Taiwanese company claimed it took all safety measures in hospitalising the patients and sanitising the facility, the iPhone manufacturing business kept running. But now, the production capacity of Foxconn's Chennai facility has dropped by half because over 100 employees have returned positive for Covid-19.A report by Reuters highlights that Foxconn is struggling to keep up with its full iPhone production capacity.
+
+
+***
+![Precision Camshaft looking for partners for electric vehicle ride](https://images.moneycontrol.com/static-mcnews/2020/02/770-by-433-Money-Control-Digpu-Precision-Image_-770x433.jpg "Precision Camshaft looking for partners for electric vehicle ride")
+
+
+[Precision Camshaft looking for partners for electric vehicle ride](https://www.moneycontrol.com/news/technology/auto/precision-camshaft-looking-for-partners-for-electric-vehicle-ride-6882191.html)
+
+
+> Precision Camshaft (PCL), India's biggest manufacturer of camshafts, is exploring talks with truck and bus makers for a tie-up that could see the company provide tailor-made electric vehicle solutions for the domestic market.The Maharashtra-based company which supplies camshafts to Hyundai, Maruti Suzuki, Volkswagen, Audi and Tata Motors in India and overseas is eager to venture into the steadily growing electric mobility market.PCL is making the EV push through its fully-acquired Dutch subsidiary Emoss, which specialises in retro fitment of electric drive systems onto fossil-fuel powered trucks or buses.
+
+
+***
+![What, Why and How for Micro Frontends](https://external-preview.redd.it/el63oppJZODmh2fkZ2Jm6aAI3PKyvOzfubSmQNqnIAQ.jpg?auto=webp&s=2ae1ea60325be9665e14df0191aa4c1e3a7639d6 "What, Why and How for Micro Frontends")
+
+
+[What, Why and How for Micro Frontends](https://www.reddit.com/r/programming/comments/nafxpx/what_why_and_how_for_micro_frontends_the_global/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Researcher discovers a series of vulnerabilities, known as Frag Attacks, impacting Wi-Fi devices from the past 24 years, even when WEP and WPA are activated (Catalin Cimpanu/The Record)](http://www.techmeme.com/210512/p1#a210512p1)
+
+
+> Catalin Cimpanu / The Record: Researcher discovers a series of vulnerabilities, known as Frag Attacks, impacting Wi-Fi devices from the past 24 years, even when WEP and WPA are activated — A Belgian security researcher has discovered a series of vulnerabilities that impact the WiFi standard, with some bugs dating …
+
+
+***
+[How I dealt with imposter syndrome as a programmer](https://www.reddit.com/r/programming/comments/nafwga/how_i_dealt_with_imposter_syndrome_as_a_programmer/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
