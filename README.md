@@ -7193,3 +7193,50 @@
 > Pinterest is expanding into live events. The company is planning to host a three-day virtual event that will feature live-streamed sessions from top creators, including big names like Jonathan Van Ness and Rebecca Minkoff, among others. The virtual event will run inside the Pinterest app from May 24th through May 25th, and will serve as the company's first public test of directly streaming creator content to its over 475 million global users. The rise of the creator economy and a pandemic-fueled demand for virtual events led Pinterest to explore the idea of live streaming.
 
 
+***
+[Bumble stock falls 14%+ on Thursday to $40.48, below its IPO price, after beating Q1 revenue expectations Wednesday but issuing a more cautious Q2 guidance (Jessica Bursztynsky/CNBC)](http://www.techmeme.com/210513/p32#a210513p32)
+
+
+> Jessica Bursztynsky / CNBC: Bumble stock falls 14%+ on Thursday to $40.48, below its IPO price, after beating Q1 revenue expectations Wednesday but issuing a more cautious Q2 guidance — - Shares of Bumble fell sharply Thursday morning, dipping below its initial public offering price of $43 apiece, after the company reported first-quarter results.
+
+
+***
+![Three students sue coding bootcamp Lambda School alleging false advertising and financial shenanigans – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/08/topfunnel-dover-lawsuit.jpg?w=753 "Three students sue coding bootcamp Lambda School alleging false advertising and financial shenanigans – TechCrunch")
+
+
+[Three students sue coding bootcamp Lambda School alleging false advertising and financial shenanigans – TechCrunch](https://techcrunch.com/2021/05/13/lambda-school-lawsuits/)
+
+
+> Lambda School has attracted a lot of attention, and raised some $130 million in venture funding from an impressive list of investors, for its novel approach to coding education: offering six-month virtual computer science courses for $30,000, with the option of paying for the courses in installments based on a sliding scale that only kicks in after you land a job that makes at least $50,000. But it turns out that the startup is attracting a a lot of controversy, too. In the latest development, three students have filed lawsuits against the company in California, claiming misleading financial and educational practices.
+
+
+***
+![Sarasota IT director reflects on city's 2016 ransomware attack in aftermath of Colonial Pipeline cyberattack](https://media.wtsp.com/assets/WTSP/images/8a4f487d-e3d9-4037-b9a8-75dcdd7c3c58/8a4f487d-e3d9-4037-b9a8-75dcdd7c3c58_1140x641.jpeg "Sarasota IT director reflects on city's 2016 ransomware attack in aftermath of Colonial Pipeline cyberattack")
+
+
+[Sarasota IT director reflects on city's 2016 ransomware attack in aftermath of Colonial Pipeline cyberattack](https://www.wtsp.com/article/tech/sarasota-ransomware-attack-colonial-pipeline/67-4fa070e3-e166-4f76-8652-cd7bedb42570)
+
+
+> SARASOTA, Fla. — While much of the southeast is reeling from gas shortages brought on by a cyberattack that led to the temporary shutdown of the Colonial Pipeline, the head of Sarasota's IT Department is reflecting on a time when the city faced a similarly grave situation. In 2016, Herminio Rodriguez was just a year into his role as IT Director for the City of Sarasota when his team caught wind of some suspicious activity. Rodriguez says servers containing the city's data were no longer accessible.
+
+
+***
+![Printer Reviews](https://icdn.digitaltrends.com/image/digitaltrends/dt_logo_lockup_blue.jpg "Printer Reviews")
+
+
+[Printer Reviews](https://www.digitaltrends.com/printer-reviews/)
+
+
+> Latest Printer Reviews More Printer Reviews
+
+
+***
+![Ex-Burbank school teacher gets 30 years in prison for producing child porn of former student](https://ktla.com/wp-content/uploads/sites/4/2020/12/jail-prison-generic-2-1.jpg "Ex-Burbank school teacher gets 30 years in prison for producing child porn of former student")
+
+
+[Ex-Burbank school teacher gets 30 years in prison for producing child porn of former student](https://ktla.com/news/local-news/ex-burbank-school-teacher-gets-30-years-in-prison-for-producing-child-porn-of-former-student/)
+
+
+> A former elementary school teacher who taught in Burbank and Hollywood was sentenced to 30 years in federal prison Thursday for producing pornographic images of his 15-year-old ex-student, officials announced. Sean David Sigler, 56, of Burbank, pleaded guilty in September 2019 to two counts of production of child pornography, the United States Attorney's Office for the Central District of California said in a news release. Sigler previously taught fifth grade at Bret Harte Elementary School in Burbank and at Gardner Street Elementary School in Hollywood.
+
+
