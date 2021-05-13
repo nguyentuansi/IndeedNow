@@ -7052,3 +7052,50 @@
 > Source: Hayato Huseman / Android Central Best foldable phone Android Central 2021 We're still in the early days of the foldable phone re-emergence, but there are a couple of options available if you want to buy in. These are no longer concepts or prototypes. They're complete phones that are on store shelves just like any other. Right now, the best overall option is the Samsung Galaxy Z Fold 2, but it's far from your only option. These are the best foldable phones you can buy. The Galaxy Z Fold 2 is by far the most refined foldable currently on the market.
 
 
+***
+![jsPolicy Launch Video](https://miro.medium.com/max/800/0*e0g81Ba0R7D5dAMO "jsPolicy Launch Video")
+
+
+[jsPolicy Launch Video](https://loft.sh/blog/jspolicy-youtube-video/)
+
+
+> by Rich BurroughsWe're very excited to announce our new open source tool for managing policies in Kubernetes called jsPolicy. Watch this YouTube video for more info and a demo, or read the transcript below if you prefer.Hi, I'm Rich with Loft Labs and I'm here to share with you another exciting open source tool that we've released for Kubernetes called jsPolicy. Policies are a hot topic in the Kubernetes community and for good reason. Many people operate Kubernetes clusters in regulated environments, and they're subject to audits like PCI-DSS, HIPAA or SOC 2.
+
+
+***
+![Busy day at VMware ended yesterday with Ragurham as CEO and COO Poonen exiting](https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-920359826.jpg?w=600 "Busy day at VMware ended yesterday with Ragurham as CEO and COO Poonen exiting")
+
+
+[Busy day at VMware ended yesterday with Ragurham as CEO and COO Poonen exiting](https://techcrunch.com/2021/05/13/busy-day-at-vmware-ended-yesterday-with-ragurham-as-ceo-and-coo-poonen-exiting/)
+
+
+> They say for every door that opens another closes and the executive shuffle at VMware is certainly proving that old chestnut true. Four months after Pat Gelsinger stepped down as CEO to return to run Intel, the virtual machine pioneer announced yesterday that long-time exec Raghu Raghuram was taking over that role. That set in motion another change when COO Sanjay Poonen, whom some had speculated might get the CEO job, announced yesterday afternoon on Twitter that he was leaving the company after 7 years.
+
+
+***
+![Square Enix Financials Reveals That They're Thinking About NFTs](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/Square%20Enix.jpg?itok=fLo7UW-D "Square Enix Financials Reveals That They're Thinking About NFTs")
+
+
+[Square Enix Financials Reveals That They're Thinking About NFTs](https://techraptor.net/gaming/news/square-enix-financials-reveals-that-theyre-is-thinking-about-nfts)
+
+
+> 05/13/2021 - 12:15 | By: Patrick Perrault Square Enix has done pretty well for themselves over the past year, and their latest financial results have revealed that they've been looking at NFT's. The note is brief but interesting, as it states that they are trying to "quickly adapt to environmental changes in the content business and proactively adopt the burgeoning technologies that result from them." In short, Square Enix has noted NFTs making big money and want a piece of the pie, so expect your buster sword NFT soon.
+
+
+***
+[FCC kicks off two pandemic relief connectivity programs worth $10 billion](http://feedproxy.google.com/~r/rcrwireless/sLmV/~3/OwXiY8jb1D0/fcc-kicks-off-two-pandemic-relief-connectivity-programs-worth-10-billion)
+
+
+> The Federal Communications Commission this week officially launched two pandemic relief programs designed to improve access to and affordability of broadband services. Families across the U.S. can now apply for the Emergency Broadband Benefit Program, which will make available up to $3.2 billion to provide up to $50 per month for most households (up to [...] The post FCC kicks off two pandemic relief connectivity programs worth $10 billion appeared first on RCR Wireless News.
+
+
+***
+![timetrace: A simple CLI for tracking your working time](https://external-preview.redd.it/FTMM0sbeASsr4KPNbiKTexgyGuE0CTybmF6f4oRMkGk.jpg?auto=webp&s=b25a3abf6f4ea502b861d1d317af0cb1c4dfd7de "timetrace: A simple CLI for tracking your working time")
+
+
+[timetrace: A simple CLI for tracking your working time](https://www.reddit.com/r/programming/comments/nbkbg0/timetrace_a_simple_cli_for_tracking_your_working/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
