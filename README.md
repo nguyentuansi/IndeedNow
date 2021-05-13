@@ -6721,3 +6721,53 @@
 > Electric car maker Tesla will stop accepting Bitcoin as a paymentElectric car maker Tesla will stop accepting Bitcoin as a payment, CEO Elon Musk tweeted on Wednesday, citing environmental concerns.'We are concerned about rapid increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel,' Musk said on Twitter. He added that cryptocurrency is a 'good idea on many levels' but its promise cannot come at a 'great cost to the environment.
 
 
+***
+![Asus takes a swing at Apple's iPhone 12 Mini with Zenfone 8, a compact flagship with big battery](https://images.financialexpress.com/2021/05/zenfone-8.jpg "Asus takes a swing at Apple's iPhone 12 Mini with Zenfone 8, a compact flagship with big battery")
+
+
+[Asus takes a swing at Apple's iPhone 12 Mini with Zenfone 8, a compact flagship with big battery](https://www.financialexpress.com/industry/technology/asus-takes-a-swing-at-apples-iphone-12-mini-with-zenfone-8-a-compact-flagship-with-big-battery/2251034/)
+
+
+> By: Saurabh Singh | May 13, 2021 8:01 AMAsus Zenfone 8Asus launched the Zenfone 8 family of smartphones last night. Unlike the Zenfone 7 line-up, Asus's 2021 flagship phones take two different trajectories. One of them called Zenfone 8 Flip builds on its flipping genius formula, while the other, simply called the Zenfone 8 takes a swing at Apple's iPhone 12 Mini by making a case for compact phones. Both phones are launching first in Europe and Taiwan. Asus had initially planned to launch them in India simultaneously but later decided to postpone those plans due to recent surge in COVID-19 cases in the country.
+
+
+***
+![Tech Critic Lina Khan's FTC Nomination Will Move To Full Senate Vote](https://securecdn.pymnts.com/wp-content/uploads/2021/05/Lina-Khan-ftc-1000x600.jpg "Tech Critic Lina Khan's FTC Nomination Will Move To Full Senate Vote")
+
+
+[Tech Critic Lina Khan's FTC Nomination Will Move To Full Senate Vote](https://www.pymnts.com/news/regulation/2021/tech-critic-lina-khans-ftc-nomination-will-move-to-full-senate-vote/)
+
+
+> Lina Khan, a law professor and outspoken critic of big tech companies' market power, appears headed to a seat on the Federal Trade Commission following bipartisan endorsement Wednesday from the U.S. Senate Commerce, Science and Transportation Committee. The nomination now will go to the full U.S. Senate. Eight of the committee's 12 Republicans and all of its Democrats voted to advance the nomination of Kahn, who at 32 will become the five-member FTC's youngest-ever commissioner. Kahn, who teaches at Columbia University Law School, served on the U.
+
+
+***
+![Type Casting & Conversions in Python 2021](https://external-preview.redd.it/0LOVCVaiAzfdOfD96rUooFOWGfNXielt-SFI5nnqMGw.jpg?auto=webp&s=27bf594d603461094dff9de970399ea9125d0a85 "Type Casting & Conversions in Python 2021")
+
+
+[Type Casting & Conversions in Python 2021](https://www.reddit.com/r/Python/comments/nb5ujk/type_casting_conversions_in_python_2021_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Telstra to pay $50m fine for ‘unconscionable' conduct towards Indigenous consumers](https://images.perthnow.com.au/publication/C-2829229/56177c187824183f078eebf72cb46b74c6c9ed6f-16x9-x0y755w1958h1101.jpg?imwidth=1024 "Telstra to pay $50m fine for ‘unconscionable' conduct towards Indigenous consumers")
+
+
+[Telstra to pay $50m fine for ‘unconscionable' conduct towards Indigenous consumers](https://www.news.com.au/technology/telstra-to-pay-50m-fine-for-unconscionable-conduct-towards-indigenous-consumers/news-story/66a2a9c43b1845403529afaf9f57d9fc)
+
+
+> Telstra has been hit with a whopping $50m fine for selling mobile phone contracts to more than 100 Indigenous customers who couldn't understand or couldn't pay for the plans.The telco giant was ordered to pay the penalty for unconscionable conduct on Thursday after the Australian consumer watchdog launched legal action in the Federal Court.Staff at five Telstra stores signed up 108 Indigenous customers to multiple postpaid mobile phone contracts that they could not understand or afford between January 2016 and August 2018.
+
+
+***
+![In Huge Breakthrough, The Largest Offshore Wind Farm in US History Was Just Approved](https://external-preview.redd.it/1YnwMfsDPaoDvFHvLIfuClud0yNjSY6HeS-FrsajI2I.jpg?auto=webp&s=1169fedb87c15c1812149878bb0cc0a45d3a7ff9 "In Huge Breakthrough, The Largest Offshore Wind Farm in US History Was Just Approved")
+
+
+[In Huge Breakthrough, The Largest Offshore Wind Farm in US History Was Just Approved](https://www.reddit.com/r/technology/comments/nb5kpd/in_huge_breakthrough_the_largest_offshore_wind/)
+
+
+> Whew, now we can finally start cooling off the ocean to create more ice. /s
+
+
