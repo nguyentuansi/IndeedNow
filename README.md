@@ -6671,3 +6671,53 @@
 > The Senate Commerce Committee voted Wednesday to approve legislation that would invest billions in science and emerging technologies in an effort to compete with China.The bipartisan Endless Frontiers Act was approved by the committee by a vote of 24-4, with four Republican members voting against the bill.The committee approved the legislation with significantly less funds included for the founding of a Technology and Innovation Directorate at the National Science Foundation, with much of the originally proposed $100 billion being funneled to other research efforts.
 
 
+***
+![Tesla stops accepting Bitcoin as payment for its cars.](https://static01.nyt.com/images/2021/05/12/business/12economy-briefing-tesla/merlin_168765879_9ab7d355-9229-4311-80be-f5c1d53acfbb-facebookJumbo.jpg "Tesla stops accepting Bitcoin as payment for its cars.")
+
+
+[Tesla stops accepting Bitcoin as payment for its cars.](https://www.nytimes.com/2021/05/12/automobiles/tesla-bitcoin.html)
+
+
+> Continue reading the main storyThree months after Tesla said it would begin accepting the cryptocurrency Bitcoin as payment, the electric carmaker has abruptly reversed course.In a message posted to Twitter on Wednesday, Elon Musk, Tesla's chief executive, said Tesla had suspended accepting Bitcoin because of concern about the energy consumed by computers crunching the calculations that underpin the currency.'Cryptocurrency is a good idea on many levels and we believe it has a promising future, but this cannot come at a great cost to the environment,' Mr.
+
+
+***
+![How Will We Cope With A 'Return To Normal?'](https://www.damemagazine.com/wp-content/uploads/2021/05/reopening-covid-anxiety.png "How Will We Cope With A 'Return To Normal?'")
+
+
+[How Will We Cope With A 'Return To Normal?'](https://www.damemagazine.com/2021/05/11/how-will-we-cope-with-a-return-to-normal/)
+
+
+> Throughout the pandemic, many of us found ourselves fantasizing about what life would be like once we were vaccinated. Some dreamed of returning to 'normal' life activities. We'd go to the movies. Eat in a restaurant. Visit friends. Take a trip. It was the reward we'd give ourselves for a year of isolation. But when vaccines became widely available in the U.S., we were faced with a reality that was still filled with uncertainty and far more gray areas then we could ever have anticipated. Questions about reopening and socializing safely, vaccinating children, chronic illness brought on by long-haul COVID, and more remain.
+
+
+***
+![Tech Audit of Colonial Pipeline Found ‘Glaring' Problems](https://i2.wp.com/media.nbcconnecticut.com/2021/05/AP_21132483474436.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1 "Tech Audit of Colonial Pipeline Found ‘Glaring' Problems")
+
+
+[Tech Audit of Colonial Pipeline Found ‘Glaring' Problems](https://www.necn.com/news/national-international/tech-audit-of-colonial-pipeline-found-glaring-problems/6104161/)
+
+
+> An outside audit three years ago of the major East Coast pipeline company hit by a cyberattack found 'atrocious' information management practices and 'a patchwork of poorly connected and secured systems,' its author told The Associated Press. 'We found glaring deficiencies and big problems,' said Robert F. Smallwood, whose consulting firm delivered an 89-page report in January 2018 after a six-month audit. 'I mean an eighth-grader could have hacked into that system.' How far the company, Colonial Pipeline, went to address the vulnerabilities isn't clear.
+
+
+***
+![Musk says Tesla halting bitcoin purchases, citing energy use](https://ca-times.brightspotcdn.com/dims4/default/7046e4f/2147483647/strip/true/crop/2400x1260+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdf%2F45%2F57d858144a2a88575fa2b03080bb%2Flatlogo-ss.jpg "Musk says Tesla halting bitcoin purchases, citing energy use")
+
+
+[Musk says Tesla halting bitcoin purchases, citing energy use](https://www.latimes.com/business/technology/story/2021-05-12/musk-says-tesla-halting-bitcoin-purchases-citing-energy-use)
+
+
+> Tesla Chief Executive Elon Musk said the electric-vehicle manufacturer will no longer allow customers to pay with bitcoin, triggering a slide in the value of the digital currency.In a Twitter post Wednesday, Musk cited concerns about 'rapidly increasing use of fossil fuels for Bitcoin mining and transactions.' The move comes after Tesla disclosed in February that it had purchased $1.5 billion in bitcoin and planned to accept it as a payment.As a newly added member of the blue chip Standard & Poor's 500 stock index, Tesla's surprise announcement added legitimacy to the cryptocurrency as an increasingly acceptable form of payment and as an investment.
+
+
+***
+![Tesla to stop accepting Bitcoin for car payments](https://s.abcnews.com/images/Technology/WireAP_a9caad0e174144c6a29fceee4c0fdc65_16x9_992.jpg "Tesla to stop accepting Bitcoin for car payments")
+
+
+[Tesla to stop accepting Bitcoin for car payments](https://abcnews.go.com/Technology/wireStory/tesla-stop-accepting-bitcoin-car-payments-77656963)
+
+
+> Electric car maker Tesla will stop accepting Bitcoin as a paymentElectric car maker Tesla will stop accepting Bitcoin as a payment, CEO Elon Musk tweeted on Wednesday, citing environmental concerns.'We are concerned about rapid increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel,' Musk said on Twitter. He added that cryptocurrency is a 'good idea on many levels' but its promise cannot come at a 'great cost to the environment.
+
+
