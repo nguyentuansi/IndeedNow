@@ -7146,3 +7146,50 @@
 > Tesla CEO Elon Musk tweeted that the electric vehicle maker would suspend car purchases using bitcoin, citing environmental concerns.As much as $365.85 billion was wiped off the entire cryptocurrency market though it did pare some losses. Bitcoin, ether and XRP were all sharply lower. Musk said Tesla will not be selling any bitcoin and intends to use it for transactions "as soon as mining transitions to more sustainable energy." Hundreds of billions of dollars were wiped off the entire cryptocurrency market after Tesla CEO Elon Musk tweeted that the electric vehicle maker would suspend car purchases using bitcoin.
 
 
+***
+[Pinterest says it will test livestreaming events this month through a three-day virtual event featuring sessions with around 21 top creators (Sarah Perez/TechCrunch)](http://www.techmeme.com/210513/p27#a210513p27)
+
+
+> Sarah Perez / TechCrunch: Pinterest says it will test livestreaming events this month through a three-day virtual event featuring sessions with around 21 top creators — Pinterest is expanding into live events. The company is planning to host a three-day virtual event that will feature live-streamed sessions from top creators …
+
+
+***
+![TO in mail](https://forums.macrumors.com/attachments/c1f85178-bebf-48b9-a016-9e7321e01305-jpeg.1774291/ "TO in mail")
+
+
+[TO in mail](https://forums.macrumors.com/threads/to-in-mail.2296045/)
+
+
+> Nov 11, 2012 51 46 Surrey UK Since updating to iOS 14.5, I have had a TO marker next to the subject field in all my messages in mail… but only on iPhone. Not on iPad or Mac. Anyone got any ideas as to what it is or what it means? Nothing is functioning any different, I'm just curious as to what it actually is!
+
+
+***
+![Indian PC market registers highest Q1 shipments in January-March 2021](https://images.financialexpress.com/2021/05/1-261.jpg "Indian PC market registers highest Q1 shipments in January-March 2021")
+
+
+[Indian PC market registers highest Q1 shipments in January-March 2021](https://www.financialexpress.com/industry/technology/indian-pc-market-registers-highest-q1-shipments-in-january-march-2021/2251576/)
+
+
+> By: Rishi Ranjan Kala | May 14, 2021 1:30 AMKey customer wins and better supplies in January-March 2021 helped HP regain the market leading position.The Indian personal computer (PC) market recorded its highest first quarter shipments during the January-March quarter this calendar year. The market continued its growth streak from the last two quarters, registering a healthy 73% year-on-year (y-o-y) growth. The market includes desktops, notebooks and workstations.'India's traditional PC market continued its growth streak with shipments growing 73.
+
+
+***
+![Shopify helps customers build online shops, but it's minting tech founders and investors, too – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1169040174.jpg?w=600 "Shopify helps customers build online shops, but it's minting tech founders and investors, too – TechCrunch")
+
+
+[Shopify helps customers build online shops, but it's minting tech founders and investors, too – TechCrunch](https://techcrunch.com/2021/05/13/shopify-helps-customers-build-online-shops-but-its-minting-tech-founders-and-investors-too/)
+
+
+> Last month, Jean-Michel Lemieux, the chief technology officer of Shopify, and chief talent officer Brittany Forsyth announced on Twitter that they are stepping down from their roles in the coming months. Chief legal officer Joe Frasca is also set to step down, according to a report from the Ottawa Business Journal, which noted that all three execs will end their tenures in June. In their new chapters, all seem keen to advise, invest in, or even launch startups, joining a growing number of former Shopify executives and employees to do the same.
+
+
+***
+![Pinterest to test live-streamed events this month with 21 creators – TechCrunch](https://techcrunch.com/wp-content/uploads/2017/09/pinterest-app-icon-ios.jpg?w=710 "Pinterest to test live-streamed events this month with 21 creators – TechCrunch")
+
+
+[Pinterest to test live-streamed events this month with 21 creators – TechCrunch](https://techcrunch.com/2021/05/13/pinterest-to-test-live-streamed-events-this-month-with-21-creators/)
+
+
+> Pinterest is expanding into live events. The company is planning to host a three-day virtual event that will feature live-streamed sessions from top creators, including big names like Jonathan Van Ness and Rebecca Minkoff, among others. The virtual event will run inside the Pinterest app from May 24th through May 25th, and will serve as the company's first public test of directly streaming creator content to its over 475 million global users. The rise of the creator economy and a pandemic-fueled demand for virtual events led Pinterest to explore the idea of live streaming.
+
+
