@@ -6821,3 +6821,53 @@
 > According to experts, this security breach affects nearly 40% of smartphones in circulation in the world Cybersecurity researchers have uncovered a new security flaw in the Qualcomm Mobile Station Modem network communication protocol. Problem: it is integrated into many smartphones around the world. The vulnerability would allow malicious code to be inserted into a phone using the Android operating system, Presse-Citron reports. Nearly 40% of smartphones currently in circulation would be affected, whether they are Samsung, Xiaomi, Google or One Plus, specify the experts at Check Point.
 
 
+***
+![S.Korea announces bigger tax breaks, loans to bolster local chip industry](https://www.reuters.com/resizer/HJGWBhUkEroYk2HFWPrK5uW-sLw=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/AN3CLFO74JLLLP34GE4N7YVIFE.jpg "S.Korea announces bigger tax breaks, loans to bolster local chip industry")
+
+
+[S.Korea announces bigger tax breaks, loans to bolster local chip industry](https://www.reuters.com/technology/skorea-announces-bigger-tax-breaks-loans-bolster-local-chip-industry-2021-05-13/)
+
+
+> The logo of SK Hynix is seen at its headquarters in Seongnam, South Korea, April 25, 2016. REUTERS/Kim Hong-JiSouth Korea on Thursday announced bigger tax breaks plus 1 trillion won ($883 million) in loans for the local chip industry as it navigates a challenging operating environment amid a global chip shortage.Many countries are working to bolster local chip supply chains as the severe shortage affects production in industries such as autos, and in March U.S. President Joe Biden flagged plans to invest $50 billion in semiconductor manufacturing and research.
+
+
+***
+![Best desktop monitor deals for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/dell-ultrasharp-27-4k-premiercolor-monitor.jpg "Best desktop monitor deals for May 2021")
+
+
+[Best desktop monitor deals for May 2021](https://www.digitaltrends.com/dtdeals/best-monitor-deals/)
+
+
+> Your monitor is a vital piece of equipment, serving as the primary visual interface between you and all that PC hardware under your computer's hood — and having to deal with a bad one is one of the surest ways to make your computing experience a daily chore. Thankfully, today's monitors sport all sorts of great features like IPS panels and harsh blue light-reducing technologies, putting them head and shoulders above the cheap displays of yesteryear. Best of all? You don't have to spend a fortune to get a good one with this roundup of the best desktop monitor deals available online right now.
+
+
+***
+![Drone delivery leader Wing plans to use quieter aircraft](https://icdn.digitaltrends.com/image/digitaltrends/google-wing-delivery-drone.jpg "Drone delivery leader Wing plans to use quieter aircraft")
+
+
+[Drone delivery leader Wing plans to use quieter aircraft](https://www.digitaltrends.com/news/drone-delivery-leader-wing-plans-to-use-quieter-aircraft/)
+
+
+> Wing Although advances have clearly been made in recent years, there are still a number of obstacles preventing drone delivery services from going mainstream. Top of the list is, of course, safety, with regulators keen for clear proof that any autonomous aircraft flying overhead won't suddenly crash into an obstacle — or indeed each other — putting people on the ground in danger. Another problem that gets less attention is noise. If drone delivery really is to become a part of everyday life for urban communities, the companies developing such aircraft will have to make them much quieter or risk a backlash from those irritated by the buzzing rotors as the machines fly back and forth during delivery runs.
+
+
+***
+![Wow I didn't realize the basic iPad could use a keyboard and pen now like the older brothers iPad Pro & iPad Air](https://images.macrumors.com/social/?t=2295954&v=6 "Wow I didn't realize the basic iPad could use a keyboard and pen now like the older brothers iPad Pro & iPad Air")
+
+
+[Wow I didn't realize the basic iPad could use a keyboard and pen now like the older brothers iPad Pro & iPad Air](https://forums.macrumors.com/threads/wow-i-didnt-realize-the-basic-ipad-could-use-a-keyboard-and-pen-now-like-the-older-brothers-ipad-pro-ipad-air.2295954/)
+
+
+> This is really good to know! Though my point and question is the older v1 version of the keyboard and pen that a normal basic iPad supports (7th and 8th generation basically) have any downsides or disadvantages compared to the newer keyboards and pen for the iPad Pro and iPad Air ? Reactions: motulist and cpatrick08 Oct 25, 2013 10,237 6,488 ASK doesn't have built-in trackpad. Instead of buying an ASK, I use just the keyboard/trackpad portion of the Logitech Combo Touch paired with my ESR SmartCase clone if I need to bring it somewhere (to be used on a table or other stable flat surface).
+
+
+***
+![Tips Music announces music licensing deal with YouTube Shorts: Details here](https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/15/full/1600145973-568.jpg "Tips Music announces music licensing deal with YouTube Shorts: Details here")
+
+
+[Tips Music announces music licensing deal with YouTube Shorts: Details here](https://www.business-standard.com/article/technology/tips-music-announces-music-licensing-deal-with-youtube-shorts-details-here-121051300357_1.html)
+
+
+> India's one of the oldest and largest music labels Tips Music on Thursday announced a music licensing deal with Google for the latter's newly introduced short-video platform YouTube 'Shorts'. As part of this deal, Tips will license its large catalogue to YouTube platform allowing the huge Indian diaspora across the world to create content inspired its ever popular and superhit music library in diverse Indian languages like Hindi, Punjabi, Bhojpuri, Haryanvi, Marathi, Gujarati, amongst many others.
+
+
