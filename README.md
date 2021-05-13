@@ -7099,3 +7099,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Zero-runtime stylesheets in TypeScript](https://external-preview.redd.it/cZ85WtyVHyo7wqjSgcm8KE75aL5daO5cRBpJ8Kr8Tgw.jpg?auto=webp&s=e3253a3dd1e71e1181e07054d642bd4189a8fab1 "Zero-runtime stylesheets in TypeScript")
+
+
+[Zero-runtime stylesheets in TypeScript](https://www.reddit.com/r/programming/comments/nbnaqr/zeroruntime_stylesheets_in_typescript/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Bezos Calculator](https://bezoscalculator.com/thumb.jpg "Bezos Calculator")
+
+
+[Bezos Calculator](https://bezoscalculator.com/)
+
+
+> This is how much Jeff Bezos made... $ , , ...since you started reading this page.
+
+
+***
+[Twitter has announced six acquisitions so far in 2021, the most the company has made in a calendar year since 2015, as part of its new product push (Kurt Wagner/Bloomberg)](http://www.techmeme.com/210513/p25#a210513p25)
+
+
+> Kurt Wagner / Bloomberg: Twitter has announced six acquisitions so far in 2021, the most the company has made in a calendar year since 2015, as part of its new product push — - Company announced six deals already in 2021, most since 2015 — Twitter CFO Segal says product clarity is part of M&A strategy
+
+
+***
+![PreMarket Prep Stock Of The Day: ContextLogic](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/online-2900303_1920_8.jpg?width=720 "PreMarket Prep Stock Of The Day: ContextLogic")
+
+
+[PreMarket Prep Stock Of The Day: ContextLogic](https://www.benzinga.com/trading-ideas/technicals/21/05/21112118/premarket-prep-stock-of-the-day-contextlogic)
+
+
+> Benzinga's PreMarket Prep airs every morning from 8-9 a.m. ET. During that fast-paced, highly informative hour, traders and investors tune in to get the major news of the day, the catalysts behind those moves and the corresponding price action for the upcoming session. On any given day, the show will cover at least 20 stocks determined by co-hosts Joel Elconin and Dennis Dick along with producer Spencer Israel. For the most part, the IPO market has been brutal in 2021. Whereas in other years, many issues have traded straight up from day one and never looked back, others have rallied out of the gate and then imploded.
+
+
+***
+![$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin](https://image.cnbcfm.com/api/v1/image/106851227-1615297653733-gettyimages-1231424737-widak-teslaand210227_npq97.jpeg?v=1616615846 "$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin")
+
+
+[$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin](https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html)
+
+
+> Tesla CEO Elon Musk tweeted that the electric vehicle maker would suspend car purchases using bitcoin, citing environmental concerns.As much as $365.85 billion was wiped off the entire cryptocurrency market though it did pare some losses. Bitcoin, ether and XRP were all sharply lower. Musk said Tesla will not be selling any bitcoin and intends to use it for transactions "as soon as mining transitions to more sustainable energy." Hundreds of billions of dollars were wiped off the entire cryptocurrency market after Tesla CEO Elon Musk tweeted that the electric vehicle maker would suspend car purchases using bitcoin.
+
+
