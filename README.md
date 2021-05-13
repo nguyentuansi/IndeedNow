@@ -6771,3 +6771,53 @@
 > Whew, now we can finally start cooling off the ocean to create more ice. /s
 
 
+***
+![Jump into the programming world with this discounted Python bundle](https://mondrian.mashable.com/2021%252F05%252F13%252Fe6%252Fb77469a9c89044f8906cb6a29f22c39a.0f82b.jpg%252F1200x630.jpg?signature=aihXkeaJsEJPvEJZgekx74LUyLk= "Jump into the programming world with this discounted Python bundle")
+
+
+[Jump into the programming world with this discounted Python bundle](https://mashable.com/uk/shopping/may-13-python-coding-bundle-sale/)
+
+
+> TL;DR: The Ultimate Training for Aspiring Developers Bundle is on sale for £35.35 as of May 13, saving you 92% on list price. For nearly a decade, JavaScript has remained the pinnacle of the programming world, with Java coming in as a close runner-up. It's pretty much remained that way since 2012 when the analysts at Red Monk started ranking the world's most-used coding languages. Until now, that is. For the first time, a non-Java or JavaScript entry has infiltrated the number two slot. And that happens to be the user-friendly, highly-adaptable Python language.
+
+
+***
+![Xiaomi Mi Band 6 review: The best budget fitness band gets even better](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/xiaomi-mi-band-6-1.jpg "Xiaomi Mi Band 6 review: The best budget fitness band gets even better")
+
+
+[Xiaomi Mi Band 6 review: The best budget fitness band gets even better](https://www.androidcentral.com/xiaomi-mi-band-6-review)
+
+
+> Source: Apoorva Bhardwaj / Android Central Xiaomi makes the best fitness trackers; the brand has dominated this segment over the last six years on the back of its affordable Mi Band series. In fact, Xiaomi is the second-largest wearable manufacturer in the world, second only to Apple. Xiaomi's success is due to the fact that its fitness bands offer the same set of features as Fitbit for a fraction of the price. Last year's Mi Band 5 introduced a large OLED screen and a new charging connector, and for 2021 Xiaomi is rolling out a few upgrades with the Mi Band 6.
+
+
+***
+![Understand how to handle data with this online bootcamp](https://mondrian.mashable.com/2021%252F05%252F13%252F45%252F8a14a7e572c1414486ae8fc9429b5d2a.0bc2d.jpg%252F1200x630.jpg?signature=erGSK-gnF2uTFF6JSb2z_LeQfew= "Understand how to handle data with this online bootcamp")
+
+
+[Understand how to handle data with this online bootcamp](https://mashable.com/uk/shopping/may-13-big-data-online-course-sale/)
+
+
+> TL;DR: The Complete Big Data and Power BI Bundle is on sale for £28.28 as of May 13, saving you 91% on list price. It's clear in today's business landscape that companies live and die by how quickly they respond to trends. But keeping up with market fluctuations and changes in the supply chain are not easy tasks by any means. These things take the expertise of an entire team, starting with data analysts. The ability to wrangle big data and use it to fuel decisions is a highly sought after skill and as a result, folks that possess it earn a pretty penny.
+
+
+***
+![Apple-Epic judge hints at compromise in feud over app store](https://apicms.thestar.com.my/uploads/images/2021/05/13/1148003.jpg "Apple-Epic judge hints at compromise in feud over app store")
+
+
+[Apple-Epic judge hints at compromise in feud over app store](https://www.thestar.com.my/tech/tech-news/2021/05/13/apple-epic-judge-hints-at-compromise-in-feud-over-app-store)
+
+
+> Tim Sweeney, chief executive officer of Epic Games Inc., waits to enter the U.S. district court in Oakland, California, US which is hearing its case against Apple. — Bloomberg The judge overseeing the high-stakes trial between Epic Games Inc. and Apple Inc. hinted at a compromise that could quell at least some of the game maker's concerns: the ability for app developers to inform users that the iPhone maker's virtual store isn't their only shopping option. US District Judge Yvonne Gonzalez Rogers appeared to be looking for middle ground while hearing from economists called by both companies as expert witnesses in a case that threatens to upend the multibillion-dollar marketplace for apps which run on mobile phones around the world.
+
+
+***
+![40% of Android smartphones affected by a cybersecurity breach](http://www.tellerreport.com/images/no-image.png "40% of Android smartphones affected by a cybersecurity breach")
+
+
+[40% of Android smartphones affected by a cybersecurity breach](https://www.tellerreport.com/tech/2021-05-13-40%-of-android-smartphones-affected-by-a-cybersecurity-breach.BJfG74m5_O.html)
+
+
+> According to experts, this security breach affects nearly 40% of smartphones in circulation in the world Cybersecurity researchers have uncovered a new security flaw in the Qualcomm Mobile Station Modem network communication protocol. Problem: it is integrated into many smartphones around the world. The vulnerability would allow malicious code to be inserted into a phone using the Android operating system, Presse-Citron reports. Nearly 40% of smartphones currently in circulation would be affected, whether they are Samsung, Xiaomi, Google or One Plus, specify the experts at Check Point.
+
+
