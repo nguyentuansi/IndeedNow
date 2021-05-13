@@ -6915,3 +6915,43 @@
 > Stellantis believes that Mahindra is trying to infringe the intellectual property rights of Jeep Wrangler.
 
 
+***
+![A Peek Into The Markets: US Stock Futures Down Following Wednesday's Sell-Off](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/peek_into_the_marketnew_174.png "A Peek Into The Markets: US Stock Futures Down Following Wednesday's Sell-Off")
+
+
+[A Peek Into The Markets: US Stock Futures Down Following Wednesday's Sell-Off](https://www.benzinga.com/news/earnings/21/05/21099929/a-peek-into-the-markets-us-stock-futures-down-following-wednesdays-sell-off)
+
+
+> Pre-open movers U.S. stock futures traded lower in early pre-market trade after the Dow Jones dipped over 680 points in the previous session amid rising inflationary pressures. Investors are awaiting earnings results from Alibaba Group Holding Ltd – ADR (NYSE: BABA), Walt Disney Co (NYSE: DIS) and Coinbase Global Inc (NASDAQ: COIN). Data on initial jobless claims for the latest week will be released at 8:30 a.m. ET. Jobless claims are likely to decline to 475,000 for the May 8 week from 498,000 in the previous week.
+
+
+***
+![Magnet Forensics Announces First Quarter 2021 Results](https://mms.businesswire.com/media/20210513005253/en/769243/23/MF_Logo_LI.jpg "Magnet Forensics Announces First Quarter 2021 Results")
+
+
+[Magnet Forensics Announces First Quarter 2021 Results](https://www.businesswire.com/news/home/20210513005253/en/Magnet-Forensics-Announces-First-Quarter-2021-Results)
+
+
+> May 13, 2021 06:00 AM Eastern Daylight Time TORONTO--(BUSINESS WIRE)--Magnet Forensics Inc. ('Magnet Forensics' or the 'Company') (TSX:MAGT), a developer of digital investigation software that acquires, analyzes, reports on, and manages evidence from digital sources, today announced its financial and operational results for the three months ended March 31, 2021 ('Q1 2021'). Financial references are in US dollars unless otherwise indicated. Q1 2021 Financial Highlights (Comparison periods in each case are the three months ended March 31, 2020, unless otherwise stated) Revenue of $14.
+
+
+***
+![Samsung Galaxy A72 review: Camera is the standout feature here](https://images.indianexpress.com/2021/05/GalaxyA72_LEAD.jpg "Samsung Galaxy A72 review: Camera is the standout feature here")
+
+
+[Samsung Galaxy A72 review: Camera is the standout feature here](https://indianexpress.com/article/technology/tech-reviews/samsung-galaxy-a72-review-7313555/)
+
+
+> The Galaxy A series typically tries to offer premium features, but at a more ‘mid-range' price in comparison to the flagship S series. With the Galaxy A72, Samsung is promising excellent camera performance, big battery and stylish design. The Galaxy A72 runs the Qualcomm Snapdragon 720G processor, instead of an Exynos one as is typically seen on most Samsung phones in India. It starts at Rs 34,999 for the 8GB RAM+128GB model, while the 256GB storage option costs Rs 37,999. I've used the Galaxy A72 for well for two weeks and here's my review.
+
+
+***
+![Ancient ‘City of the Dead' with dozens of human skeletons buried in giant POTS found on French island](https://www.thesun.co.uk/wp-content/uploads/2021/05/comp-sc-off-platform-skeletons.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Ancient ‘City of the Dead' with dozens of human skeletons buried in giant POTS found on French island")
+
+
+[Ancient ‘City of the Dead' with dozens of human skeletons buried in giant POTS found on French island](https://www.thesun.co.uk/tech/14940899/ancient-city-dead-human-skeletons-giant-pots/)
+
+
+> FORTY tombs, some featuring skeletons crammed into pots, have been found in an eerie "city of the dead" on a French island. The graveyard is thought to be 1,700 years old and contains several bodies inside of amphorae, or large jars, from Northern Africa. Forty tombs, some featuring skeletons crammed into pots, have been found on CorsicaCredit: Jean-Jacques Grizeaud French archaeologists discovered the site behind a church in the town of Île-Rousse on the Mediterranean island of Corsica. They were carrying out excavations ahead of planned construction works near the Christian building.
+
+
