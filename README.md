@@ -6871,3 +6871,47 @@
 > India's one of the oldest and largest music labels Tips Music on Thursday announced a music licensing deal with Google for the latter's newly introduced short-video platform YouTube 'Shorts'. As part of this deal, Tips will license its large catalogue to YouTube platform allowing the huge Indian diaspora across the world to create content inspired its ever popular and superhit music library in diverse Indian languages like Hindi, Punjabi, Bhojpuri, Haryanvi, Marathi, Gujarati, amongst many others.
 
 
+***
+![This is how you recognize the Twitter accounts with fake faces that Baudet retweets](https://pbs.twimg.com/profile_images/3506196254/8adf4f79e7c81c11ca00fbd0e706b905_normal.jpeg "This is how you recognize the Twitter accounts with fake faces that Baudet retweets")
+
+
+[This is how you recognize the Twitter accounts with fake faces that Baudet retweets](https://www.tellerreport.com/tech/2021-05-13-this-is-how-you-recognize-the-twitter-accounts-with-fake-faces-that-baudet-retweets.SkHXkD5dO.html)
+
+
+> Forum for Democracy Party Leader Thierry Baudet retweeted Twitter accounts with fake profile photos several times in the past month. How exactly can you spot those fake profiles? Forum for Democracy Party Leader Thierry Baudet retweeted Twitter accounts with fake profile photos several times in the past month. How exactly can you spot those fake profiles? Baudet retweeted a message from the account @MeneerPanini with the name Eduard van Vlugtenstahl on April 15. "Had an annoying post today," the user wrote.
+
+
+***
+[Bitcoin price crash LIVE – Cryptocurrency PLUMMETS on Elon Musk's shock Tesla announcement, plus Shiba Inu & Dogecoin](https://www.thesun.ie/tech/6970269/bitcoin-price-tesla-elon-musk-shiba-inu-cryptocurrency-dogecoin/)
+
+
+> THE price of Bitcoin has crashed following a shock announcement from Elon Musk. Musk yesterday released a statement saying Tesla would no longer be accepting Bitcoin for purchasing vehicles. Posting to his personal Twitter account, he wrote: ” Tesla has suspended vehicle purchases using Bitcoin. “We are concern about rapidly increasing use of fossil fuels […]
+
+
+***
+![[Report]'White stains' sticking to each car... "It's because of the construction site paint"](https://static.sbsdlab.co.kr/image/thumb_default.png "[Report]'White stains' sticking to each car... "It's because of the construction site paint"")
+
+
+[[Report]'White stains' sticking to each car... "It's because of the construction site paint"](https://www.tellerreport.com/tech/2021-05-13-[report]-white-stains--sticking-to-each-car----"it-s-because-of-the-construction-site-paint".HJg5n89dd.html)
+
+
+> One day in a village in Gangwon-do, there was a report that there were numerous white stains on several vehicles. This stain, which cannot be removed even after washing the car, is said to be a drop of paint. One day from a village in Gangwon-do, there was a report that there were numerous white stains on several vehicles. This stain, which cannot be removed even after washing the car, is said to be a drop of paint. Reporter Won Seok-jin of G1 Broadcasting reported on how this happened. Yoo Soo-hyung found a white foreign substance stuck to various parts of the vehicle earlier last month.
+
+
+***
+![Redmi smartwatch price in India, specs, features, and news](https://cdn.mos.cms.futurecdn.net/wWK7ebJxwzrNzy24RkhUkb-1200-80.png "Redmi smartwatch price in India, specs, features, and news")
+
+
+[Redmi smartwatch price in India, specs, features, and news](https://www.techradar.com/news/redmi-watch-price-india-specs-features-review)
+
+
+> Redmi's first smartwatch has been launched in India today. The Redmi Watch is the brand's first smartwatch and overall the second wearable after the Redmi Band. Redmi as a brand has now entered multiple segments including power banks, audio products, and even smart TV space. The Redmi Watch was unveiled along with the Redmi Note 10S, a new member of the Redmi Note 10 family. The Redmi Watch will compete with the likes of the Amazfit Bip U Pro, Realme Watch S, Honor Watch ES and other budget smartwatches.
+
+
+***
+[Jeep Takes Mahindra to Court Over Thar's Design in Australia](https://www.thequint.com/tech-and-auto/jeep-wrangler-takes-mahindra-to-court-over-thars-design-in-australia-fca-stellantis)
+
+
+> Stellantis believes that Mahindra is trying to infringe the intellectual property rights of Jeep Wrangler.
+
+
