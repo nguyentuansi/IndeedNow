@@ -6955,3 +6955,53 @@
 > FORTY tombs, some featuring skeletons crammed into pots, have been found in an eerie "city of the dead" on a French island. The graveyard is thought to be 1,700 years old and contains several bodies inside of amphorae, or large jars, from Northern Africa. Forty tombs, some featuring skeletons crammed into pots, have been found on CorsicaCredit: Jean-Jacques Grizeaud French archaeologists discovered the site behind a church in the town of Île-Rousse on the Mediterranean island of Corsica. They were carrying out excavations ahead of planned construction works near the Christian building.
 
 
+***
+![Tech companies wait a long time for approval of products by the government of India](https://media.nu.nl/m/j1tx9nra6ugs_wd1280.jpg/techbedrijven-wachten-lang-op-goedkeuring-producten-door-overheid-india.jpg "Tech companies wait a long time for approval of products by the government of India")
+
+
+[Tech companies wait a long time for approval of products by the government of India](https://www.tellerreport.com/tech/2021-05-13-tech-companies-wait-a-long-time-for-approval-of-products-by-the-government-of-india.SyPCxUc5du.html)
+
+
+> More than eighty products from American, Korean and Chinese tech manufacturers have been waiting for approval from the Wireless Planning and Coordination Wing (WPC), a branch of the Indian telecom agency, since November. That writes Reuters news agency. These are devices with Chinese WiFi modules, such as smartphones and laptops. More than eighty products from American, Korean and Chinese tech manufacturers have been waiting for approval from the Wireless Planning and Coordination Wing (WPC), a branch of the Indian telecom agency, since November.
+
+
+***
+![James Charles fans 'send death threats' to producer](https://ichef.bbci.co.uk/news/1024/branded_news/7165/production/_118492092_gettyimages-1170574110-1.jpg "James Charles fans 'send death threats' to producer")
+
+
+[James Charles fans 'send death threats' to producer](https://www.bbc.com/news/technology-57100468)
+
+
+> By Zoe KleinmanTechnology reporterimage copyrightGetty Imagesimage captionBeauty YouTuber James Charles had stepped away from social media.A woman who worked for beauty YouTuber James Charles says she has received online death threats since making her legal action against him public. Kelly Rocklein claims she was fired two weeks after fainting and hitting her head while with him at a nail salon.Mr Charles has responded by posting a video on Twitter, where he has 7.8 million followers.He had been taking a break from social media after admitting sending sexually explicit messages to two boys aged 16.
+
+
+***
+![New Story (YC S15) Is Hiring Head of People and Culture](https://newstorycharity.org/wp-content/uploads/2019/08/cust-success-twitter-card.png "New Story (YC S15) Is Hiring Head of People and Culture")
+
+
+[New Story (YC S15) Is Hiring Head of People and Culture](https://newstorycharity.org/careers/head-of-people-and-culture)
+
+
+> At New Story, culture and people are #1 and have been since we first started. As Head of People & Culture, your focus will be 'full stack,' meaning you'll own the People and Culture function and help us build a world-class culture. (The great news is that our starting point is an eNPS of 87.5.) We're looking for a dynamic and strategic leader who can drive change throughout the organization. You'll work to level up managers (and be wind in their sails), build relationships with future top talent, scale our team across the U.
+
+
+***
+![Canterbury Christ Church University Expands Use of YuJa Through Migration of All Instructional Media to One Platform](https://mms.businesswire.com/media/20210513005019/en/831144/23/0_%281%29.jpg "Canterbury Christ Church University Expands Use of YuJa Through Migration of All Instructional Media to One Platform")
+
+
+[Canterbury Christ Church University Expands Use of YuJa Through Migration of All Instructional Media to One Platform](https://www.businesswire.com/news/home/20210513005019/en/Canterbury-Christ-Church-University-Expands-Use-of-YuJa-Through-Migration-of-All-Instructional-Media-to-One-Platform)
+
+
+> May 13, 2021 08:00 AM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--United Kingdom-based Canterbury Christ Church University (CCCU) has expanded its use of the YuJa Enterprise Video Platform through the consolidation of tools to YuJa's single, unified platform. In the past, CCCU was using a different video content management and storage solution, however; officials found that it was not meeting the institution's needs. Migrating instructional materials not only enables more effective collaboration between teams, but simplifies workflows to benefit all users.
+
+
+***
+![Ciena Announces Reporting Date and Web Broadcast for Fiscal Second Quarter Results](https://mms.businesswire.com/media/20210513005071/en/722675/23/Ciena_rgb.jpg "Ciena Announces Reporting Date and Web Broadcast for Fiscal Second Quarter Results")
+
+
+[Ciena Announces Reporting Date and Web Broadcast for Fiscal Second Quarter Results](https://www.businesswire.com/news/home/20210513005071/en/Ciena-Announces-Reporting-Date-and-Web-Broadcast-for-Fiscal-Second-Quarter-Results)
+
+
+> May 13, 2021 08:00 AM Eastern Daylight Time HANOVER, Md.--(BUSINESS WIRE)--Ciena® Corporation (NYSE: CIEN) expects to announce its fiscal second quarter financial results on Thursday, June 3, 2021 before the open of the financial markets. The press release will be available on Ciena's website at www.ciena.com. In conjunction with the announcement, Ciena will post an additional set of supporting materials to the Quarterly Results page of the Investor Relations section of its website. Ciena's management will then host a live audio web broadcast beginning at 8:30 a.
+
+
