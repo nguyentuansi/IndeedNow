@@ -7005,3 +7005,50 @@
 > May 13, 2021 08:00 AM Eastern Daylight Time HANOVER, Md.--(BUSINESS WIRE)--Ciena® Corporation (NYSE: CIEN) expects to announce its fiscal second quarter financial results on Thursday, June 3, 2021 before the open of the financial markets. The press release will be available on Ciena's website at www.ciena.com. In conjunction with the announcement, Ciena will post an additional set of supporting materials to the Quarterly Results page of the Investor Relations section of its website. Ciena's management will then host a live audio web broadcast beginning at 8:30 a.
 
 
+***
+[Michigan GOP lawmaker introduces a bill that requires fact checkers to register with the state using a $1M fidelity bond, and levies $1K/day fine for violations (Detroit News)](http://www.techmeme.com/210513/p13#a210513p13)
+
+
+> Detroit News: Michigan GOP lawmaker introduces a bill that requires fact checkers to register with the state using a $1M fidelity bond, and levies $1K/day fine for violations — Lansing — A Michigan lawmaker who's been at the center of efforts to question the 2020 election introduced a bill Tuesday that would require …
+
+
+***
+![Twitter sentiment Analysis with ELON MUSK's Tweets in Python](https://external-preview.redd.it/21jz6ovLro2FcPE8_MGzJC4WyC0RTF2r5_2rEHg2FbM.jpg?auto=webp&s=46f477d5f20974309c3f9ce3d25beccd4e391a4e "Twitter sentiment Analysis with ELON MUSK's Tweets in Python")
+
+
+[Twitter sentiment Analysis with ELON MUSK's Tweets in Python](https://www.reddit.com/r/Python/comments/nbhdpr/twitter_sentiment_analysis_with_elon_musks_tweets/)
+
+
+> Learn how to do Twitter sentiment Analysis, with Elon's Tweetshttps://buggyprogrammer.com/twitter-sentiment-analysis/Most used word by Elon Musk on Twitter
+
+
+***
+![Learn Python for Data Science and Machine Learning](https://external-preview.redd.it/hmx7mgIqiCcutm9SDBZIFmci0ndYZdNsY_eGWBCqCSU.jpg?auto=webp&s=f1ad193fcf8925fda7eecec2e2eddfc4978a50e5 "Learn Python for Data Science and Machine Learning")
+
+
+[Learn Python for Data Science and Machine Learning](https://www.reddit.com/r/Python/comments/nbhch2/learn_python_for_data_science_and_machine_learning/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Japanese tycoon planning space station visit, then moon trip](https://www.local10.com/resizer/2TOKH1kHlqkTomKFALYU4fAxjFQ=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/XYALG53U75DIPKDSL2YKWDEH3M.jpg "Japanese tycoon planning space station visit, then moon trip")
+
+
+[Japanese tycoon planning space station visit, then moon trip](https://www.local10.com/tech/2021/05/13/japanese-tycoon-planning-space-station-visit-then-moon-trip/)
+
+
+> CAPE CANAVERAL, Fla. – The Japanese fashion tycoon who's booked a SpaceX ride to the moon is going to try out the International Space Station first. "Going to the ISS before the Moon," Yusaku Maezawa announced Thursday via Twitter.Maezawa has bought two seats on a Russian Soyuz capsule. He'll blast off in December on the 12-day mission with his production assistant and a professional cosmonaut. 'I'm so curious, ‘What's life like in space?' So, I am planning to find out on my own and share with the world,' Maezawa said in a statement.
+
+
+***
+![These are the best foldable phones in 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/galaxy-z-fold-2-vs-z-flip.jpg "These are the best foldable phones in 2021")
+
+
+[These are the best foldable phones in 2021](https://www.androidcentral.com/best-foldable-phone)
+
+
+> Source: Hayato Huseman / Android Central Best foldable phone Android Central 2021 We're still in the early days of the foldable phone re-emergence, but there are a couple of options available if you want to buy in. These are no longer concepts or prototypes. They're complete phones that are on store shelves just like any other. Right now, the best overall option is the Samsung Galaxy Z Fold 2, but it's far from your only option. These are the best foldable phones you can buy. The Galaxy Z Fold 2 is by far the most refined foldable currently on the market.
+
+
