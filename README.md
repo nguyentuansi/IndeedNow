@@ -7675,3 +7675,53 @@
 > (Image credit: HBO Max) Starring Angelina Jolie as Hannah, a tortured veteran smokejumper stationed in Montana, Those Who Wish Me Dead is a high-octane action throwback complete with sinister baddies, face-melting forces of nature, and a government conspiracy that goes all the way to the top. Read on as we explain how to watch Those Who Wish Me Dead online from anywhere right now, with HBO Max hosting the movie in the US alongside its theatrical release.How to watch Those Who Wish Me Dead onlineRelease date: US & Canada, May 14; UK, May 17; Australia, May 13Director: Taylor SheridanCast: Angelina Jolie, Nicholas Hoult, Aidan Gillen, Jon BernthalRun time: 100 minutesRating: RWatch in US: subscribe to HBO MaxWracked with guilt over a past assignment gone wrong, Hannah makes it her mission to keep the mysterious Connor Casserly (Finn Little) safe, after finding the blood-spattered and traumatized young boy wandering alone through the Montana wilderness.
 
 
+***
+![How Lies on Social Media Are Inflaming the Israeli-Palestinian Conflict](https://static01.nyt.com/images/2021/05/13/business/00misinfo-israel1/merlin_187656186_cd542978-8cac-45e2-b0b5-add38ff8691f-facebookJumbo.jpg "How Lies on Social Media Are Inflaming the Israeli-Palestinian Conflict")
+
+
+[How Lies on Social Media Are Inflaming the Israeli-Palestinian Conflict](https://www.nytimes.com/2021/05/14/technology/israel-palestine-misinformation-lies-social-media.html)
+
+
+> Continue reading the main storyMisinformation has flourished on Twitter, TikTok, Facebook and other social media about the violence between Israelis and Palestinians.The Al Shrouq building in central Gaza, which hosts offices for media outlets and companies, was destroyed during Israeli airstrikes on Wednesday.Credit...Hosam Salem for The New York TimesMay 14, 2021Updated 2:12 p.m. ETIn a 28-second video, which was posted to Twitter this week by a spokesman for Prime Minister Benjamin Netanyahu of Israel, Palestinian militants in the Gaza Strip appeared to launch rocket attacks at Israelis from densely populated civilian areas.
+
+
+***
+![Every early-stage startup must identify and evaluate a strategic advantage – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1203752624.jpg?w=667 "Every early-stage startup must identify and evaluate a strategic advantage – TechCrunch")
+
+
+[Every early-stage startup must identify and evaluate a strategic advantage – TechCrunch](https://techcrunch.com/2021/05/14/every-early-stage-startup-must-identify-and-evaluate-a-strategic-advantage/)
+
+
+> Whether you're building a company or thinking about investing, it's important to understand your strategic advantage. In order to determine one, you should ask fundamental questions like: What's the long-term, sustainable reason that the company will stay in business? The most important elements for founders to consider when figuring out their strategic advantage(s) include one-sided or 'direct' network effects (e.g., with social media sites like Facebook), marketplace network effects (e.g., with two-sided marketplaces like Uber), data moats, first mover and switching costs.
+
+
+***
+![Best Wi-Fi extenders of 2021: top devices for boosting your WiFi network](https://cdn.mos.cms.futurecdn.net/yHpuvFUfLEgz5y4cKJmZCn-1200-80.jpg "Best Wi-Fi extenders of 2021: top devices for boosting your WiFi network")
+
+
+[Best Wi-Fi extenders of 2021: top devices for boosting your WiFi network](https://www.techradar.com/news/the-best-wi-fi-extenders)
+
+
+> If you're having trouble with your wireless network performance then you could switch to one of the best wireless routers. You could also try one of the best Wi-Fi extenders with your existing router first, which could be a more cost-effective solution. The purpose of a Wi-Fi extender is to help stretch your wireless signal further, covering weak spots and providing better connectivity no matter where you bring your laptop.They work by grabbing your router's signal, then pushing it back out and extending its boundaries further than before so that every nook and cranny gets a great signal, extending your area of coverage.
+
+
+***
+![Rivalry Between Apple and Microsoft Heating Up Again Over Augmented Reality, Gaming, and More](https://images.macrumors.com/t/GCV1ZTacn22t7kpq8usbnuPGFH0=/2500x/https://images.macrumors.com/article-new/2021/05/Apple-vs-Microsoft-feature.jpg "Rivalry Between Apple and Microsoft Heating Up Again Over Augmented Reality, Gaming, and More")
+
+
+[Rivalry Between Apple and Microsoft Heating Up Again Over Augmented Reality, Gaming, and More](https://www.macrumors.com/2021/05/14/rivalry-between-apple-microsoft-heating-up/)
+
+
+> The iconic and industry-classic rivalry between Apple and Microsoft, which has arguably seen a slowdown in recent years, is poised to begin heating up as both companies target the future of augmented reality and renewed competition in the PC industry, according to an analysis from Bloomberg's Mark Gurman. Both Apple and Microsoft have strong ambitions for the future of augmented reality. Apple so far has committed to the AR space by offering developers tools and frameworks, such as ARKit, that enable AR experiences through the iPhone and iPad.
+
+
+***
+![Brave Cameraman Unfazed By 500 Kmph Israeli Rockets Destroying Two Buildings Near Him](https://im.indiatimes.in/content/2021/May/Facebook-Image-29_609e7d944992b.jpg "Brave Cameraman Unfazed By 500 Kmph Israeli Rockets Destroying Two Buildings Near Him")
+
+
+[Brave Cameraman Unfazed By 500 Kmph Israeli Rockets Destroying Two Buildings Near Him](https://www.indiatimes.com/technology/news/brave-cameraman-unfazed-by-500-kmph-israeli-rockets-destroying-two-buildings-540511.html)
+
+
+> Browsing through Reddit, I stumbled upon a video of a cameraman who was busy capturing the attack of the Israeli Air Force on what looked like two residential buildings in Gaza, during the ongoing conflict between Israel and Palestine.The moment the Al-Sharouk Tower was struck by an Israeli air strike on May 12. This video was captured and posted to IG by @omaralsersawi and shows the initial strike#AlSharouk #Gaza pic.twitter.com/dheM8axUYK— Alice Chambers (@aflchambers) May 13, 2021 Also Read: US Army Teases World's Fastest Missile That Can Travel At 20,991 Kmph The video shows severe explosions that get even more intense in a matter of seconds, with bombs being dropped a few metres away from the cameraman.
+
+
