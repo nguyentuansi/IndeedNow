@@ -7725,3 +7725,50 @@
 > Browsing through Reddit, I stumbled upon a video of a cameraman who was busy capturing the attack of the Israeli Air Force on what looked like two residential buildings in Gaza, during the ongoing conflict between Israel and Palestine.The moment the Al-Sharouk Tower was struck by an Israeli air strike on May 12. This video was captured and posted to IG by @omaralsersawi and shows the initial strike#AlSharouk #Gaza pic.twitter.com/dheM8axUYK— Alice Chambers (@aflchambers) May 13, 2021 Also Read: US Army Teases World's Fastest Missile That Can Travel At 20,991 Kmph The video shows severe explosions that get even more intense in a matter of seconds, with bombs being dropped a few metres away from the cameraman.
 
 
+***
+![Best cheap Bose speaker deals for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/bose-echo.jpg "Best cheap Bose speaker deals for May 2021")
+
+
+[Best cheap Bose speaker deals for May 2021](https://www.digitaltrends.com/dtdeals/best-bose-speaker-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. For top of the line audio products, Bose is a top brand among audio enthusiasts thanks to its high-quality audio options for use in home sound setups. Cheap Bose speakers and head-fi aren't always easy to come by, however. Whether you're after some great Bluetooth speaker deals from one of the best in the business or you need something a little bigger for your home stereo or theater system, we've got all the best Bose speaker deals here.
+
+
+***
+![Best cheap Samsung TV deals for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/samsung-neo-qled-game-bar.jpg "Best cheap Samsung TV deals for May 2021")
+
+
+[Best cheap Samsung TV deals for May 2021](https://www.digitaltrends.com/dtdeals/best-samsung-tv-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. For TVs ranging from a massive high-end 70-inch model to something smaller and cheaper for a smaller room, Samsung is a leading brand in the world of TVs. The good news is that the company doesn't only produce pricey options — you can find some surprisingly cheap model as well. Below, we've got all the best Samsung TV deals available right now along with a quick buying guide to help you pick the right one for your needs and price limit.
+
+
+***
+[What are some cool projects I can build using FastAPI?](https://www.reddit.com/r/Python/comments/nchm1t/what_are_some_cool_projects_i_can_build_using/)
+
+
+> Planning to start learning FastAPI from next week. As you know, the best way to learn is by building projects. What are some cool ideas that could be built using FASTAPI.Let me know if I have posted this in wrong sub.
+
+
+***
+![Best cheap Vizio TV deals for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/vizio-55-inch-oled-4k-tv-fe.jpg "Best cheap Vizio TV deals for May 2021")
+
+
+[Best cheap Vizio TV deals for May 2021](https://www.digitaltrends.com/dtdeals/best-vizio-tv-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. While a few years ago 4K TVs might have been out of reach for most as a luxury product, today they're more affordable than ever. If you're on the hunt for an affordable 4K TV, then one of the best value brands out there is Vizio. When you're looking for a cheap TV that still includes all the features you want like access to streaming services and high definition, then Vizio is a must-look. To save you the hassle of looking for a needle in a haystack, we've already taken care of the hard part for you, rounding up all the best cheap Vizio TVs right here.
+
+
+***
+![How Maserati beat Ferrari at its own game](https://content.api.news/v3/images/bin/a05420ca1b4cd9c5a0b9f6789b87749e "How Maserati beat Ferrari at its own game")
+
+
+[How Maserati beat Ferrari at its own game](https://www.news.com.au/technology/motoring/motoring-news/how-the-new-maserati-mc20-beat-ferrari-at-its-own-game/news-story/be7e38bcc44fe017b1c101fc097a39a1)
+
+
+> We knew Maserati's first proper supercar in years would look gorgeous. But we didn't know it would be sensational to drive.Italian supercar now comes in a delicious new flavour. It's called Maserati MC20. While this coupe from Modena puts more emphasis on elegance and ease, it isn't short of speed or spice...The MC20 sticks to traditional supercar basics. Its engine is in the middle and drives only the rear wheels. Maserati's near neighbours in the north of Italy also produce cars arranged exactly this way.
+
+
