@@ -7240,3 +7240,50 @@
 > A former elementary school teacher who taught in Burbank and Hollywood was sentenced to 30 years in federal prison Thursday for producing pornographic images of his 15-year-old ex-student, officials announced. Sean David Sigler, 56, of Burbank, pleaded guilty in September 2019 to two counts of production of child pornography, the United States Attorney's Office for the Central District of California said in a news release. Sigler previously taught fifth grade at Bret Harte Elementary School in Burbank and at Gardner Street Elementary School in Hollywood.
 
 
+***
+![Cutercon: Simple Minecraft Remote Console Program in Python + Qt6](https://external-preview.redd.it/qIARWMpV7rlQ6c010eUlsDztdpwufUMB9DPSlU1-pkE.jpg?auto=webp&s=d1ec6495b6e1a80b2d3ed78938dbab819d4f9d40 "Cutercon: Simple Minecraft Remote Console Program in Python + Qt6")
+
+
+[Cutercon: Simple Minecraft Remote Console Program in Python + Qt6](https://www.reddit.com/r/Python/comments/nbvsom/cutercon_simple_minecraft_remote_console_program/)
+
+
+> I decided I should practice my Python skills some more, and since I just set up a Minecraft server for my friends and I using Ubuntu Server, what better way to compliment it!Cutercon on GitHubCuterconI'd appreciate any feedback on how I can improve the code as well :)
+
+
+***
+![Apple holds edge in app store trial despite nagging issues](https://s.abcnews.com/images/Technology/WireAP_f91f4f5dc8834226b91318bc6a45376f_16x9_992.jpg "Apple holds edge in app store trial despite nagging issues")
+
+
+[Apple holds edge in app store trial despite nagging issues](https://abcnews.go.com/Technology/wireStory/apple-holds-edge-app-store-trial-nagging-issues-77674794)
+
+
+> SAN RAMON, Calif. -- Apple seems to be prevailing in an antitrust trial examining whether its mobile app store illegally skims profits from smaller companies.But the tech giant's apparent edge has been carved out amid nagging questions about the financial vise it holds people in when they buy digital services on iPhones, iPads and iPods.If nothing else, the skirmish has sharpened the focus on the exclusive payment system that Apple has built into transactions occurring within apps installed on its family of mobile devices.
+
+
+***
+![Save money on spring clothes, sunglasses, more with new Apple Pay promo](https://photos5.appleinsider.com/gallery/41991-81438-210513-ApplePaySpring-xl.jpg "Save money on spring clothes, sunglasses, more with new Apple Pay promo")
+
+
+[Save money on spring clothes, sunglasses, more with new Apple Pay promo](https://appleinsider.com/articles/21/05/14/save-money-on-spring-clothes-sunglasses-more-with-new-apple-pay-promo)
+
+
+> Disney+ reports 103M subscribers in Q1 2021 as growth slows 2 hours ago Apple notebook shipments grew 94% year-over-year in Q1 2021 4 hours ago
+
+
+***
+[歐洲藥品管理局：mRNA 疫苗「有望」對抗印度變種病毒](https://technews.tw/2021/05/14/ema-mrna-vaccine/)
+
+
+> 負責批准歐盟藥品的歐洲藥品管理局（European Medicines Agency，EMA）12 日表示，使 […]
+
+
+***
+![U.S. judge dismisses advertisers' antitrust claims against Google](https://www.reuters.com/resizer/7ffzteyXHi9OU_sgO-RnuRMXLUU=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/3JGO6P5MORIMRK23UEXXYIZ4YI.jpg "U.S. judge dismisses advertisers' antitrust claims against Google")
+
+
+[U.S. judge dismisses advertisers' antitrust claims against Google](https://www.reuters.com/technology/us-judge-dismisses-advertisers-antitrust-claims-against-google-2021-05-14/)
+
+
+> A sign is pictured outside a Google office near the company's headquarters in Mountain View, California, U.S., May 8, 2019. REUTERS/Paresh Dave/File PhotoA U.S. judge on Thursday dismissed antitrust claims against Alphabet Inc's (GOOGL.O) Google brought by a group of advertisers, though offered them a chance to try again after addressing her "serious concerns."The ruling by District Judge Beth Labson Freeman in San Jose, California marks one of the first major decisions in a spate of antitrust cases filed against Google over the last two years by users and rivals as well as the U.
+
+
