@@ -7431,3 +7431,53 @@
 > Cloudbet casino has added Dogecoin and Litecoin on its site after the two digital coins drew the largest number of votes in a recent survey of almost 10,000 customers. The casino ran the survey to ascertain which new cryptocurrencies to add. Now, customers can hold and use these coins to bet on the outcome of many sporting events, and also take a shot at popular games such as blackjack, poker, roulette, and baccarat. With the inclusion of these two digital assets, the number of cryptocurrencies supported by Cloudbet is now 12, including Bitcoin and Ether among others.
 
 
+***
+![‘We're shutting off your service': Frightening utility scam red flags](https://www.komando.com/wp-content/uploads/2021/05/clever-utility-scam-970x546.jpg "‘We're shutting off your service': Frightening utility scam red flags")
+
+
+[‘We're shutting off your service': Frightening utility scam red flags](https://www.komando.com/security-privacy/viral-utility-scams/789754/)
+
+
+> A nasty utility scam has gone viral. Watch for these signs.
+
+
+***
+![Chia: the ‘green' cryptocurrency bounces on Elon Musk's Bitcoin U-turn](https://www.telegraph.co.uk/content/dam/technology/2021/05/13/musk_bitcoin_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?impolicy=logo-overlay "Chia: the ‘green' cryptocurrency bounces on Elon Musk's Bitcoin U-turn")
+
+
+[Chia: the ‘green' cryptocurrency bounces on Elon Musk's Bitcoin U-turn](https://www.telegraph.co.uk/technology/2021/05/14/chia-green-cryptocurrency-bounces-elon-musks-bitcoin-u-turn/)
+
+
+> According to a report by Citigroup, Bitcoin uses around 66 times more electricity than it did in late 2015. Chia, meanwhile, is created using a concept known as 'proof of space'. To 'farm' Chia, users need empty hard drives to house 'plots' which are then given a certain number of blocks based on how much space is available.  'Instead of consuming massive amounts of electricity and wasteful… proof of space leverages the over-provisioned exabytes of disk space that already exist in the world today,' Chia claims in its White Paper, published this year.
+
+
+***
+![China's streaming giant iQiyi may turn a profit in 5 yrs](https://www.reuters.com/pf/resources/icons/favicon.ico?d=29 "China's streaming giant iQiyi may turn a profit in 5 yrs")
+
+
+[China's streaming giant iQiyi may turn a profit in 5 yrs](https://www.reuters.com/technology/chinas-streaming-giant-iqiyi-may-turn-profit-5-yrs-ceo-2021-05-14/)
+
+
+> Chinese video streaming platform iQiyi (IQ.O), majority-owned by Baidu (9888.HK), may be able to turn a profit in five years, its chief executive told Reuters in an interview.iQiyi, which incorporates artificial intelligence to predict viewership and box office, will turn to "intelligent production" to partly help it cut cost and turn a profit in the future, founder and CEO Gong Yu said on Friday.The Nasdaq-listed company, sometimes described as China's Netflix, has expanded from being a video streaming platform to also generating self-produced video content, including drama series and variety shows.
+
+
+***
+![Why SPACs aren't targeting African startups – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/africa-spac-1.jpg?w=711 "Why SPACs aren't targeting African startups – TechCrunch")
+
+
+[Why SPACs aren't targeting African startups – TechCrunch](https://techcrunch.com/2021/05/14/why-spacs-arent-targeting-african-startups/)
+
+
+> One. That's the number of African tech companies that have gone public on the NYSE in the last 10 years. Two, if you're counting local exchanges. The former is African-focused e-commerce company Jumia and the latter is Egyptian fintech company Fawry. As a tech company, Fawry's listing on the Egyptian Stock Exchange is a rarity. Typically, most exchanges in emerging markets like Africa, India, and Latin America are filled with traditional companies in age-old sectors like banking, telecoms, manufacturing, and energy.
+
+
+***
+![The Netherlands would become too dependent on foreign tech companies](https://media.nu.nl/m/yhdx925avox3_wd1280.jpg/nederland-zou-te-afhankelijk-van-buitenlandse-techbedrijven-worden.jpg "The Netherlands would become too dependent on foreign tech companies")
+
+
+[The Netherlands would become too dependent on foreign tech companies](https://www.tellerreport.com/tech/2021-05-14-the-netherlands-would-become-too-dependent-on-foreign-tech-companies.H1llO2sj_d.html)
+
+
+> The Dutch economy threatens to become too dependent on American and Chinese technology and the cabinet must intervene immediately to prevent the Netherlands from losing its grip on internet security. The Cyber ​​Security Council warns against this in a new advice, about which Het Financieele Dagblad (FD) writes on Friday. The Dutch economy threatens to become too dependent on American and Chinese technology and the cabinet must intervene immediately to prevent the Netherlands from losing its grip on internet security.
+
+
