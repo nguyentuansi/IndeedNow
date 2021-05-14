@@ -7287,3 +7287,50 @@
 > A sign is pictured outside a Google office near the company's headquarters in Mountain View, California, U.S., May 8, 2019. REUTERS/Paresh Dave/File PhotoA U.S. judge on Thursday dismissed antitrust claims against Alphabet Inc's (GOOGL.O) Google brought by a group of advertisers, though offered them a chance to try again after addressing her "serious concerns."The ruling by District Judge Beth Labson Freeman in San Jose, California marks one of the first major decisions in a spate of antitrust cases filed against Google over the last two years by users and rivals as well as the U.
 
 
+***
+![First spinal surgery with augmented reality headset takes place](https://external-preview.redd.it/jgbvbKtaTFYhDg7wziA2UMGOWUPRgr92iPQo5H7aQfw.jpg?auto=webp&s=a4b37d919b34583bfdc9236c289ae56008ae7c65 "First spinal surgery with augmented reality headset takes place")
+
+
+[First spinal surgery with augmented reality headset takes place](https://www.reddit.com/r/technology/comments/nbxzzf/first_spinal_surgery_with_augmented_reality/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Deleted conversations not "syncing" between iOS and macOS in Messages](https://images.macrumors.com/social/?t=2296070&v=6 "Deleted conversations not "syncing" between iOS and macOS in Messages")
+
+
+[Deleted conversations not "syncing" between iOS and macOS in Messages](https://forums.macrumors.com/threads/deleted-conversations-not-syncing-between-ios-and-macos-in-messages.2296070/)
+
+
+> So here's the deal: when someone sends me a message, I get it on both my iPhone and iMac. All replies to the conversation sync just fine between both devices. However, if I delete a conversation from my iPhone, it doesn't delete from my iMac. And if I delete a conversation from my iMac, it doesn't delete from my iPhone. What gives? macOS 11.3 iOS 14.6 Beta 3 Messages 14.0 (macOS)
+
+
+***
+![Fisker and Foxconn sign deal to build electric vehicles – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/Fisker_Project_PEAR.jpeg?w=711 "Fisker and Foxconn sign deal to build electric vehicles – TechCrunch")
+
+
+[Fisker and Foxconn sign deal to build electric vehicles – TechCrunch](https://techcrunch.com/2021/05/13/fisker-and-foxconn-sign-deal-to-build-electric-vehicles/)
+
+
+> Electric car startup Fisker signed an agreement with Foxconn, the Taiwanese company that assembles iPhones, to co-develop and manufacture a new electric vehicle. Production on the car, which will be sold under the Fisker brand name in North America, Europe, China and India, will begin in the U.S. by the end of 2023. Numerous details, including the type of car and the location of future manufacturing plants, have not been disclosed by the two companies. Fisker is calling the joint program Project PEAR, which stands for Personal Electric Automotive Revolution.
+
+
+***
+![A smaller Mac mini](https://images.macrumors.com/social/?t=2296069&v=6 "A smaller Mac mini")
+
+
+[A smaller Mac mini](https://forums.macrumors.com/threads/a-smaller-mac-mini.2296069/)
+
+
+> Late 2020 Mac mini has a volume of ~1.4 liters. If you open it up it's mostly empty air. Do you think Apple would shrink its volume down to say half? Like to ~0.7 liters or smaller? Late 2020 Mac mini has a volume of ~1.4 liters. If you open it up it's mostly empty air. Do you think Apple would shrink its volume down to say half? Like to ~0.7 liters or smaller? Eventually, maybe
+
+
+***
+[Name recommendation for my new Programming language, Like BrainFuck](https://www.reddit.com/r/programming/comments/nbx9k9/name_recommendation_for_my_new_programming/)
+
+
+> Just looking for a random name? What are the properties of the language?But if you want a name, how about "lobotologo"?
+
+
