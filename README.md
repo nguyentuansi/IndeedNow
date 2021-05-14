@@ -7628,3 +7628,50 @@
 > BETHESDA, Md.--(BUSINESS WIRE)--Fidelis Cybersecurity, the industry innovator in active extended detection and response (XDR) solutions trusted by Fortune 100 firms and governments worldwide, announced today the acquisition of CloudPassage, a pioneer in cloud security and compliance. Founded in 2010, San Francisco-based CloudPassage safeguards cloud infrastructure for the world's most-recognized brands in finance, e-commerce, gaming, B2B SaaS, healthcare, biotech, and digital media. The CloudPassage Halo® platform unifies security and compliance across servers, containers, and IaaS resources across any mix of public, private, hybrid, and multi-cloud environments.
 
 
+***
+![‘Wynonna Earp' renewal campaign heats up in L.A.](https://uploads.dailydot.com/2021/05/wynonna-earp.jpg?auto=compress%2Cformat&ixlib=php-3.3.0 "‘Wynonna Earp' renewal campaign heats up in L.A.")
+
+
+[‘Wynonna Earp' renewal campaign heats up in L.A.](https://www.dailydot.com/unclick/wynonna-earp-renewal-campaign-billboards/)
+
+
+> The supernatural Western show Wynonna Earp was cancelled by Syfy this year, airing its last episode in March. But fans are still campaigning hard for its return, supported by the show's creators. Right now, that campaign is ramping up in a big way. Wynonna Earp fandom already has practice with this kind of thing, thanks to the #FightForWynonna campaign back in 2019. This saw fans pay for a Times Square billboard protesting the show's potential cancelation, after season 4 was reportedly under threat at Syfy.
+
+
+***
+[Microsoft expands Dolby Vision HDR gaming testing on Xbox Series X/S](https://mobilesyrup.com/2021/05/14/microsoft-expands-test-of-dolby-vision-hdr-gaming-xbox-insider-alpha-ring/)
+
+
+> Microsoft has expanded its Dolby Vision HDR gaming test on the Xbox Series X and Series S to Xbox Insider Alpha ring users. The company is likely looking for more feedback on the feature before rolling it out to all Xbox Series X/S owners later this year. Just like with video content, Dolby Vision adds... The post Microsoft expands Dolby Vision HDR gaming testing on Xbox Series X/S appeared first on MobileSyrup.
+
+
+***
+![Irish hospitals cancel appointments after cyber attack on health service](https://media.nu.nl/m/0loxiiha1v7d_wd1280.jpg/ierse-ziekenhuizen-cancelen-afspraken-na-cyberaanval-op-gezondheidsdienst.jpg "Irish hospitals cancel appointments after cyber attack on health service")
+
+
+[Irish hospitals cancel appointments after cyber attack on health service](https://www.tellerreport.com/tech/2021-05-14-irish-hospitals-cancel-appointments-after-cyber-attack-on-health-service.SkpYxQnud.html)
+
+
+> The Irish health service Health Service Executive (HSE) fell victim to a cyber attack on the night from Thursday to Friday. As a result, a communication system has been switched off and some hospital appointments will expire on Friday. The Irish health service Health Service Executive (HSE) fell victim to a cyber attack on the night from Thursday to Friday. As a result, a communication system has been switched off and some hospital appointments will expire on Friday. According to HSE, the system has been shut down to protect it from the ransomware attack.
+
+
+***
+![The best Note 10 screen protectors](https://icdn.digitaltrends.com/image/digitaltrends/samsung-galaxy-note-10_15.jpg "The best Note 10 screen protectors")
+
+
+[The best Note 10 screen protectors](https://www.digitaltrends.com/mobile/best-samsung-galaxy-note-10-screen-protectors/)
+
+
+> So you've got a Samsung Galaxy Note 10. Your phone takes everything fantastic about Samsung's Note 10 range — the S Pen, an expansive display, and flagship specs, to name but a few — and shrinks it down to a slightly smaller package that you'll find easier to fit into your hand. Whether you've just bought your Note 10 or it's now your well-worn pocket companion, you'll still want to keep it protected. We've covered the best Note 10 cases, but what about the screen? The 6.3-inch Dynamic AMOLED display is a window into your wider world, and you don't want it to become dirty — or worse, break.
+
+
+***
+![How to watch Those Who Wish Me Dead online: stream new Angelina Jolie movie now](https://cdn.mos.cms.futurecdn.net/QXcxXRracVrNvSkaofssvd-1200-80.png "How to watch Those Who Wish Me Dead online: stream new Angelina Jolie movie now")
+
+
+[How to watch Those Who Wish Me Dead online: stream new Angelina Jolie movie now](https://www.techradar.com/news/how-to-watch-those-who-wish-me-dead-online-stream-new-angelina-jolie-movie-now)
+
+
+> (Image credit: HBO Max) Starring Angelina Jolie as Hannah, a tortured veteran smokejumper stationed in Montana, Those Who Wish Me Dead is a high-octane action throwback complete with sinister baddies, face-melting forces of nature, and a government conspiracy that goes all the way to the top. Read on as we explain how to watch Those Who Wish Me Dead online from anywhere right now, with HBO Max hosting the movie in the US alongside its theatrical release.How to watch Those Who Wish Me Dead onlineRelease date: US & Canada, May 14; UK, May 17; Australia, May 13Director: Taylor SheridanCast: Angelina Jolie, Nicholas Hoult, Aidan Gillen, Jon BernthalRun time: 100 minutesRating: RWatch in US: subscribe to HBO MaxWracked with guilt over a past assignment gone wrong, Hannah makes it her mission to keep the mysterious Connor Casserly (Finn Little) safe, after finding the blood-spattered and traumatized young boy wandering alone through the Montana wilderness.
+
+
