@@ -7481,3 +7481,53 @@
 > The Dutch economy threatens to become too dependent on American and Chinese technology and the cabinet must intervene immediately to prevent the Netherlands from losing its grip on internet security. The Cyber ​​Security Council warns against this in a new advice, about which Het Financieele Dagblad (FD) writes on Friday. The Dutch economy threatens to become too dependent on American and Chinese technology and the cabinet must intervene immediately to prevent the Netherlands from losing its grip on internet security.
 
 
+***
+![AMD FidelityFX Super Resolution: What it is and how to use it](https://icdn.digitaltrends.com/image/digitaltrends/amd-radeon-rx-6700-xt.jpg "AMD FidelityFX Super Resolution: What it is and how to use it")
+
+
+[AMD FidelityFX Super Resolution: What it is and how to use it](https://www.digitaltrends.com/computing/what-is-amd-fidelityfx-super-resolution/)
+
+
+> With the launch of the AMD RX 6700 XT, many fans expected AMD's long-awaited DLSS-alternative, FidelityFX Super Resolution, to come with it. It's not quite here yet, but it is on the way, and when it arrives, it could have a significant impact on gaming and the graphics market. Although DLSS and Super Resolution achieve the same goal, AMD and Nvidia are using different techniques. We're here to break down what FidelityFX Super Resolution is, when it might be releasing, and what you can expect once it launches.
+
+
+***
+![Tech giants throw support behind letting immigrant spouses work legally](https://thehill.com/sites/default/files/applelogo_092119getty.jpg "Tech giants throw support behind letting immigrant spouses work legally")
+
+
+[Tech giants throw support behind letting immigrant spouses work legally](https://thehill.com/policy/technology/553474-tech-giants-throw-support-behind-letting-immigrant-spouses-work-legally)
+
+
+> A group of nearly 30 tech companies and other organizations filed a legal brief Friday to defend a program that gives work authorization to the spouses of high-skilled immigrants.The Obama-era rule lets nearly 100,000 spouses of H1-B visa holders in the U.S. work. The rule, known as H-4 EAD, is currently being challenged in court by a group of American tech workers.Save Jobs USA, the coalition of tech companies and organizations advocating for the program, say that visa holders and their spouses unfairly compete with American workers.
+
+
+***
+![Google files legal brief to protect work program for immigrant spouses](https://cdn.vox-cdn.com/thumbor/x5bPoUvbJhKWBIxX7LV2j_Bpi_8=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19287010/acastro_191014_1777_google_pixel_0005.0.jpg "Google files legal brief to protect work program for immigrant spouses")
+
+
+[Google files legal brief to protect work program for immigrant spouses](https://www.theverge.com/2021/5/14/22435039/google-amicus-brief-work-authorization-h-4-visa)
+
+
+> Illustration by Alex Castro / The Verge Google has filed an amicus brief to protect a program that allows the spouses of H-1B visa holders to work in the United States. The brief has been signed by numerous tech giants including Apple, Amazon, Twitter, and Microsoft. The tech industry has long relied on foreign talent to fill the gaps in its workforce. In 2020, Google and Amazon were among the top sponsors of H-1B visas, which are reserved for highly skilled workers. Under President Trump, the program came under fire.
+
+
+***
+![Best cheap video game deals for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/fifa-football-best-ios-games.jpg "Best cheap video game deals for May 2021")
+
+
+[Best cheap video game deals for May 2021](https://www.digitaltrends.com/dtdeals/best-video-game-deals/)
+
+
+> Gamers are having the best time of their lives with the next-generation consoles that Sony and Microsoft have launched. However, while developers are shifting their focus to the PlayStation 5 and Xbox Series X, new games are still on the way for the PlayStation 4 and Xbox One, in addition to highly anticipated titles for the Nintendo Switch. This means that there won't be a shortage of video game deals any time soon, as retailers will look to help gamers fill their libraries of games on both generations of consoles.
+
+
+***
+![Irish health IT system shut down due to ransomware attack](https://mondrian.mashable.com/2021%252F05%252F14%252F39%252F592bfb555a4f419cb4ebdb8a7a20f970.f1ccc.jpg%252F1200x630.jpg?signature=hJjNVbaiZ2B7o49nUvIrT8SmnVg= "Irish health IT system shut down due to ransomware attack")
+
+
+[Irish health IT system shut down due to ransomware attack](https://mashable.com/article/ireland-health-system-ransomware/)
+
+
+> Ireland's health services are in jeopardy.  Health Service Executive, the country's health service, has shut down its IT system in order to deal with a "significant" ransomware attack.  "We have taken the precaution of shutting down all our our IT systems in order to protect them from this attack and to allow us fully assess the situation with our own security partners," HSE Ireland said on Twitter.  There is a significant ransomware attack on the HSE IT systems. We have taken the precaution of shutting down all our our IT systems in order to protect them from this attack and to allow us fully assess the situation with our own security partners.
+
+
