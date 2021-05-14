@@ -7578,3 +7578,53 @@
 > Best exercise bikes for Apple Fitness Plus iMore 2021 Apple Fitness+ is Apple's fast-growing exercise subscription service that was introduced to the world in December 2020. Some exercises only require an Apple Watch, while others require special equipment such as a treadmill, a rowing machine, or an exercise bike. If you are looking to purchase an exercise bike, there are many different options and features to choose from. Which one is best for you? Let's take a look at the best exercise bikes for Apple Fitness+.
 
 
+***
+![Netflix's 'The Woman in the Window' isn't a mystery worth solving](https://mondrian.mashable.com/2021%252F05%252F14%252Fa3%252F37cb149e30a749cea7c2e3e1be49eb9c.d1f10.jpg%252F1200x630.jpg?signature=gw0PwiH9ie9uYEbTQg86yR6u-q0= "Netflix's 'The Woman in the Window' isn't a mystery worth solving")
+
+
+[Netflix's 'The Woman in the Window' isn't a mystery worth solving](https://mashable.com/article/the-woman-in-the-window-movie-review/)
+
+
+> There's a point in The Woman in the Window when it dawns on Anna, its protagonist, that she might be wrong about what story she's living in. She thought she was witness to disturbing acts of violence within the family across the street. But her mental instability, her alcoholism, and her many prescription pills have others doubting her account, and eventually, she starts to question her own recollections as well. But while Anna's narrative eventually reaches definitive, if not terribly satisfying, answers about what's really been going on this whole time, the movie around her never seems to find that clarity.
+
+
+***
+![Dyson Airwrap styler review: Because you're worth it](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/147992-gadgets-review-dyson-airwrap-product-images-image1-jdxvvyk2g0.jpg "Dyson Airwrap styler review: Because you're worth it")
+
+
+[Dyson Airwrap styler review: Because you're worth it](https://www.pocket-lint.com/gadgets/reviews/dyson/147992-dyson-airwrap-styler-review-hair-styler)
+
+
+> (Pocket-lint) - Dyson has its fingers in several pies, from vacuum cleaners to hair care, all of which are pricey but deliver near-perfect results. The Dyson Supersonic might be the most expensive hair dryer on the market, for example, but having used that for a several years we'd not want to use anything else - it's worthy of its price tag.Can the same be said for Dyson's second haircare device, a hair styler called the Airwrap? Yes, yes it most definitely can. Here's why the Dyson Airwrap is the only hair styler you need in your life and, again, why the hard-to-stomach price tag is worth it in the long run.
+
+
+***
+![Twitter adds DM search feature for Android users](https://images.indianexpress.com/2021/05/Twitter-Logo-file.jpg "Twitter adds DM search feature for Android users")
+
+
+[Twitter adds DM search feature for Android users](https://indianexpress.com/article/technology/social/twitter-adds-dm-search-feature-for-android-users-7315263/)
+
+
+> Twitter is rolling out a new feature for Android users. One will now be able to search their Direct Messages (DMs). This feature will offer relief to those who are not able to find any of their old conversations on Twitter. Once the feature hits your device, you won't have to scroll through all the DMs to find any particular chat. 'We've brought the DM search bar to Android and are rolling out an improved version that lets you search for all of your old convos, not just the most recent ones,' Twitter said.
+
+
+***
+![KLAS Research Awards High Ratings to uPerform, the Leading Healthcare Digital Learning Platform](https://mms.businesswire.com/media/20210514005054/en/833472/23/uPerform_RGB_924x217.jpg "KLAS Research Awards High Ratings to uPerform, the Leading Healthcare Digital Learning Platform")
+
+
+[KLAS Research Awards High Ratings to uPerform, the Leading Healthcare Digital Learning Platform](https://www.businesswire.com/news/home/20210514005054/en/KLAS-Research-Awards-High-Ratings-to-uPerform-the-Leading-Healthcare-Digital-Learning-Platform)
+
+
+> May 14, 2021 10:00 AM Eastern Daylight Time ELKRIDGE, Md.--(BUSINESS WIRE)--ANCILE Solutions, the company behind the market-leading Digital Learning Platform uPerform®, was featured in the KLAS® First Look report on Disrupting Traditional Software Training released today. The report recognizes ANCILE's high scoring performance based on an independent survey of clients who use uPerform to provide digital training and in-application support for their electronic health record (EHR). ANCILE received A- to A+ performance ratings across all four customer experience categories included in the report – product has needed functionality, supports integration goals, executive involvement, and the likelihood of referrals.
+
+
+***
+![Fidelis Cybersecurity Acquires Cloud Security and Compliance Pioneer CloudPassage to Enhance Company's Active XDR Platform](https://mms.businesswire.com/media/20210514005062/en/511715/21/FID_Logo_RGB_Color_Positive.jpg "Fidelis Cybersecurity Acquires Cloud Security and Compliance Pioneer CloudPassage to Enhance Company's Active XDR Platform")
+
+
+[Fidelis Cybersecurity Acquires Cloud Security and Compliance Pioneer CloudPassage to Enhance Company's Active XDR Platform](https://www.businesswire.com/news/home/20210514005062/en/Fidelis-Cybersecurity-Acquires-Cloud-Security-and-Compliance-Pioneer-CloudPassage-to-Enhance-Company%E2%80%99s-Active-XDR-Platform)
+
+
+> BETHESDA, Md.--(BUSINESS WIRE)--Fidelis Cybersecurity, the industry innovator in active extended detection and response (XDR) solutions trusted by Fortune 100 firms and governments worldwide, announced today the acquisition of CloudPassage, a pioneer in cloud security and compliance. Founded in 2010, San Francisco-based CloudPassage safeguards cloud infrastructure for the world's most-recognized brands in finance, e-commerce, gaming, B2B SaaS, healthcare, biotech, and digital media. The CloudPassage Halo® platform unifies security and compliance across servers, containers, and IaaS resources across any mix of public, private, hybrid, and multi-cloud environments.
+
+
