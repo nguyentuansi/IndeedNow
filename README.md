@@ -7334,3 +7334,50 @@
 > Just looking for a random name? What are the properties of the language?But if you want a name, how about "lobotologo"?
 
 
+***
+[挑戰 Galaxy S21？　ZTE Axon 30 Ultra 5G 售價公開](https://www.eprice.com.tw/mobile/talk/102/5645116/1/)
+
+
+> 上月發表的 ZTE Axon 30 Ultra，昨日終於宣佈國際版上市安排，手機會由 5 月 27 日起於 ZTE 官網接受預訂，然後在 6 月 4 日正式開賣。預訂期間購買 Axon 30 Ultra，將會免費獲贈 ZTE Livebuds 真無線耳機。
+
+
+***
+![DBS private bank offers wealth succession planning for cryptocurrencies](https://apicms.thestar.com.my/uploads/images/2021/05/14/1148533.JPG "DBS private bank offers wealth succession planning for cryptocurrencies")
+
+
+[DBS private bank offers wealth succession planning for cryptocurrencies](https://www.thestar.com.my/tech/tech-news/2021/05/14/dbs-private-bank-offers-wealth-succession-planning-for-cryptocurrencies)
+
+
+> FILE PHOTO: A DBS logo on their office building in Singapore, February 22, 2016. DBS Group Holdings, Singapore's biggest lender, posted a 20 percent rise in quarterly profit that beat expectations, as its net interest margin rose to a five-year high. REUTERS/Edgar Su HONG KONG (Reuters) - DBS Group said on Friday its private banking arm has started offering trust services for cryptocurrencies, helping rich clients include the emerging asset class in their succession plans. This is the latest move into cryptocurrencies by Southeast Asia's largest bank, which late last year launched a cryptoexchange for institutional and other accredited investors.
+
+
+***
+![Apple AirPods 3 leak suggests launch on May 18, Apple Music HiFi to also arrive](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/airpods_3_leak-647x363.jpeg?0S61s66kTPJwhMYEpRGbXKUTC3i5QdLh "Apple AirPods 3 leak suggests launch on May 18, Apple Music HiFi to also arrive")
+
+
+[Apple AirPods 3 leak suggests launch on May 18, Apple Music HiFi to also arrive](https://www.indiatoday.in/technology/news/story/apple-airpods-3-leak-suggests-launch-on-may-18-apple-music-hifi-to-also-arrive-1802385-2021-05-14)
+
+
+> Apple introduced the new iPad, new iMac, new Apple TV, and the brand-new AirTag at its Spring Loaded event. But there was one product that was not a part of the launch announcement, the AirPods 3. Rumours have pointed towards the launch of third-generation AirPods for a long time, but the iPhone maker seems to be taking more time. That might end if a new rumour is anything to go by. A new sketchy leak now suggests that the Apple AirPods 3 might arrive on May 18.YouTuber Luke Miani (via AppleTrack) has claimed that the third-generation AirPods will indeed be launched this month.
+
+
+***
+![Global shortage of computer chips could last two years, says IBM boss](https://i.guim.co.uk/img/media/d92a44fdbd73fa2e1a6a068c21de6580c65eedba/0_33_8256_4954/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=792b085a19a0ad857978a0d94b57df1a "Global shortage of computer chips could last two years, says IBM boss")
+
+
+[Global shortage of computer chips could last two years, says IBM boss](http://www.theguardian.com/technology/2021/may/14/global-shortage-of-computer-chips-could-last-two-years-says-ibm-boss)
+
+
+> The shortage of computer chips plaguing industries around the world and helping to fuel inflation could last another two years, the boss of IBM has said.As Ford said it was redesigning some car parts to overcome the crippling shortage of semiconductors, IBM's president, Jim Whitehurst, told the BBC on Friday that the tech industry was struggling to keep up with demand brought on by the reopening of the world economy.Some factories were forced to close when the pandemic first struck in 2020. The backlog in production was compounded by soaring demand for chips from a boom in sales of laptops, game consoles and mobile phones as people were forced into lockdown.
+
+
+***
+![Twitter may start verifying accounts from next week, new verification request form surfaces online](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Screenshot_2020-03-19_at_11.16_0-647x363.png?.sVeKc7WHxj.HxLHv2tIoJx2LP.8.YE0 "Twitter may start verifying accounts from next week, new verification request form surfaces online")
+
+
+[Twitter may start verifying accounts from next week, new verification request form surfaces online](https://www.indiatoday.in/technology/news/story/twitter-may-start-verifying-accounts-from-next-week-new-verification-request-form-surfaces-online-1802381-2021-05-14)
+
+
+> Jump to navigation So if you wish to apply for a blue tick for your profile, you will have to go to the Account Settings menu, then tap on the Request Verification option. Do remember that you should belong to the following categories including Government, Companies, brands and organizations, News organizations and journalists, Entertainment, Sports and gaming, Activists, organizers, and other influential individuals to get a verified profile. So while filling up the verification form, the user will have to confirm his identity and provide various links to verify his identity and details related to his work.
+
+
