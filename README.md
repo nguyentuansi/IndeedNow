@@ -7772,3 +7772,53 @@
 > We knew Maserati's first proper supercar in years would look gorgeous. But we didn't know it would be sensational to drive.Italian supercar now comes in a delicious new flavour. It's called Maserati MC20. While this coupe from Modena puts more emphasis on elegance and ease, it isn't short of speed or spice...The MC20 sticks to traditional supercar basics. Its engine is in the middle and drives only the rear wheels. Maserati's near neighbours in the north of Italy also produce cars arranged exactly this way.
 
 
+***
+![Colonial Pipeline paid $5m ransom to hackers](https://cdn.mos.cms.futurecdn.net/G8SSmgihtdUePSjkJqSadi-1200-80.jpg "Colonial Pipeline paid $5m ransom to hackers")
+
+
+[Colonial Pipeline paid $5m ransom to hackers](https://www.techradar.com/news/colonial-pipeline-paid-dollar5m-ransom-to-hackers)
+
+
+> (Image credit: Shutterstock / binarydesign) Contrary to previous reports, it has now emerged that Colonial Pipeline paid nearly $5 million to the DarkSide ransomware gang in their choice of cryptocurrency.The DarkSide ransomware gang attacked the Colonial Pipeline late last week, making away with 100GB of data while encrypting Colonial's network. Colonial acknowledged the attack, which resulted in the shut down of one of the major fuel pipelines in the country, but didn't provide any information regarding the ransom.
+
+
+***
+![8 affordable gaming chair deals that will make you more comfortable](https://www.gannett-cdn.com/presto/2020/12/08/USAT/8705a1c7-c8d1-420e-bc9a-f9ab41d35b33-Secretlab_Omega.jpg?crop=2987,1681,x12,y0&width=1600&height=800&format=pjpg&auto=webp "8 affordable gaming chair deals that will make you more comfortable")
+
+
+[8 affordable gaming chair deals that will make you more comfortable](https://www.usatoday.com/story/tech/reviewed/2021/05/14/gaming-chair-best-deals-shop-right-now/5092975001/)
+
+
+> These are the best gaming chair deals to take advantage of right now. (Photo: Secretlab)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Whether you're an occasional or avid video game enthusiast trying to get your Fortnite team to victory, you've probably suffered from the aches and pains of sitting in an uncomfortable seat for too long at some point or another. The right chair can solve this problem, keeping you logged on to your virtual adventures for hours on end—and lucky for you, there's a great selection of comfortable, affordable gaming chairs seeing major markdowns right now.
+
+
+***
+![Google's ‘DVD Screensaver' Easter egg makes the logo bounce around your screen accordingly – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/Google-logo.jpg?w=496 "Google's ‘DVD Screensaver' Easter egg makes the logo bounce around your screen accordingly – TechCrunch")
+
+
+[Google's ‘DVD Screensaver' Easter egg makes the logo bounce around your screen accordingly – TechCrunch](https://techcrunch.com/2021/05/14/googles-dvd-screensaver-easter-egg-makes-the-logo-bounce-around-your-screen-accordingly/)
+
+
+> It's been a while since we've seen a good Easter egg out of Google. Not too long ago it felt like someone would discover a new hidden gag in Google's products every few weeks. The company cranked them out like it was their job. While we haven't seen as many new ones pop up lately, it looks like they're still finding their way in. The latest: with the right search terms, you can make the Google search page act like an early aughts media player thats been left idling too long. How to activate it: Be on Google on a desktop browser.
+
+
+***
+![Hillicon Valley: Amazon worker alleges security had keys to mailbox used in union vote](https://thehill.com/sites/default/files/amazon_alabama_unionvote_getty2021.jpg "Hillicon Valley: Amazon worker alleges security had keys to mailbox used in union vote")
+
+
+[Hillicon Valley: Amazon worker alleges security had keys to mailbox used in union vote](https://thehill.com/policy/technology/overnights/553646-hillicon-valley-amazon-worker-alleges-security-had-keys-to)
+
+
+> Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter by clicking HERE. Welcome! Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@chrisismills) and Rebecca Klar (@rebeccaklar_), for more coverage.A worker at Amazon's Bessemer, Ala. facility dropped a big allegation about security guards having access to a mailbox during the unionization election at a National Labor Relations Board hearing Friday.
+
+
+***
+![Flush with bitcoin, hacker group behind Colonial Pipeline attack says it's done](https://mondrian.mashable.com/2021%252F05%252F14%252F65%252F50546f064f0741f89ab786ef97d40790.eec62.jpg%252F1200x630.jpg?signature=hhd5Kiv5Qxh8SzmnNiuMQlJGreg= "Flush with bitcoin, hacker group behind Colonial Pipeline attack says it's done")
+
+
+[Flush with bitcoin, hacker group behind Colonial Pipeline attack says it's done](https://mashable.com/article/colonial-pipeline-ransomware-darkside-shut-down-bitcoin/)
+
+
+> When you're newly in the money with roughly $17.5 million worth of cryptocurrency, $5 million of which came courtesy of Colonial Pipeline, it makes sense to take some time off work and enjoy yourself.  DarkSide, the possibly Russian-based hacking group behind the ransomware which prompted Colonial Pipeline to proactively take its 5,500 miles of U.S. pipeline briefly offline, claimed Thursday that it had been forced to end its affiliates program. The program, which was a sort of ransomware-as-a-service business model, involved providing hackers access to DarkSide's ransomware software in exchange for a cut of any proceeds.
+
+
