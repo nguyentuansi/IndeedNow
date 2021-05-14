@@ -7381,3 +7381,53 @@
 > Jump to navigation So if you wish to apply for a blue tick for your profile, you will have to go to the Account Settings menu, then tap on the Request Verification option. Do remember that you should belong to the following categories including Government, Companies, brands and organizations, News organizations and journalists, Entertainment, Sports and gaming, Activists, organizers, and other influential individuals to get a verified profile. So while filling up the verification form, the user will have to confirm his identity and provide various links to verify his identity and details related to his work.
 
 
+***
+![Best cheap laptop deals for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/macbook-air-2020-sigma-20mm-f14-art-1.jpg "Best cheap laptop deals for May 2021")
+
+
+[Best cheap laptop deals for May 2021](https://www.digitaltrends.com/computing/best-laptop-deals/)
+
+
+> If you use a laptop for work, study, communication, or all of the above, then we don't have to tell you why these portable computers are so indispensable in the modern mobile world. It's also safe to say that if you need a new laptop, you probably need it fairly quickly, meaning that you can't afford to wait for seasonal sales like this summer's Prime Day deals to arrive. The best laptops don't come cheap, though, but if you're hunting around for a new one on a budget, let help you out a bit. We've rounded up the six best laptop deals available this week, each of which comes in at less than a grand.
+
+
+***
+![Loki release dates: When does episode 1 hit Disney Plus?](https://www.cnet.com/a/img/ArRXKJ1py281_h-GsOOY3b4uqa8=/0x0:1920x1079/1200x630/2021/04/23/6efae7ef-4936-4348-a7b1-6ac158660ac6/7c6df1c8-0ec9-4d36-ac86-6211196d218a-loki-tom-hiddleston.png "Loki release dates: When does episode 1 hit Disney Plus?")
+
+
+[Loki release dates: When does episode 1 hit Disney Plus?](https://www.cnet.com/news/loki-release-dates-when-does-episode-1-land-on-disney-plus/)
+
+
+> Tom Hiddleston as Loki... in Loki. Disney Plus Looking for Marvel viewing to fill the void left by The Falcon and the Winter Soldier? The good news is Loki, starring Tom Hiddleston as the god of mischief, is less than a month away. The bad news is it's nearly a month away.The premiere of Loki hits Disney Plus on June 9. That's a Wednesday, mischievously two days earlier than Loki was previously scheduled to arrive. The first season of Loki will consist of six episodes, releasing one a week on Wednesdays, with expected 40 to 50 minute runtimes.
+
+
+***
+![‘FragAttacks': New set of WiFi vulnerabilities expose millions of devices to attacks](https://images.indianexpress.com/2021/05/Hacking_NEW1-1.jpeg "‘FragAttacks': New set of WiFi vulnerabilities expose millions of devices to attacks")
+
+
+[‘FragAttacks': New set of WiFi vulnerabilities expose millions of devices to attacks](https://indianexpress.com/article/technology/tech-news-technology/fragattacks-new-set-of-wifi-vulnerabilities-expose-millions-of-devices-to-attacks-7314655/)
+
+
+> A number of vulnerabilities in a majority of Wi-Fi products have likely left users open to attacks and millions of devices are believed to be impacted. The flaws named FragAttacks were discovered by cybersecurity expert Mathy Vanhoef, a postdoctoral researcher at the New York University of Abu Dhabi. Vanhoef previously highlighted Kracattacks, which were a serious flaw in WPA2, a protocol used to secure protected Wi-Fi networks. ‘FragAttacks' or fragmentation and aggregation attacks, allow an attacker who is within range of one's Wi-Fi device to steal user information, including sensitive information such as passwords.
+
+
+***
+![Vivo Extends Warranty on Phones for Customers in Lockdown Imposed Areas](https://i.gadgets360cdn.com/large/vivo_v20_pro_first_look_cover_1606890681983.jpg "Vivo Extends Warranty on Phones for Customers in Lockdown Imposed Areas")
+
+
+[Vivo Extends Warranty on Phones for Customers in Lockdown Imposed Areas](https://gadgets.ndtv.com/mobiles/news/vivo-phone-warranty-extension-30-days-coronavirus-surge-india-2441472)
+
+
+> Vivo has extended warranty services for its customers in India by 30 days. The warranty extension is applicable on all Vivo devices, though it is not available to all consumers and is limited to customers living in lockdown-imposed areas. So, if you are in a city that is under lockdown due to a surge in coronavirus cases, you will be able to avail the extension of the warranty of your Vivo smartphone if it was about to expire. The company said that the policy would address concerns of all customers who could not visit a service centre to avail service due to the lockdown.
+
+
+***
+![Cloudbet Casino Adds Dogecoin, Litecoin Following Customer Survey](https://i.gadgets360cdn.com/large/dogecoin_bloomberg_1613366194851.jpg "Cloudbet Casino Adds Dogecoin, Litecoin Following Customer Survey")
+
+
+[Cloudbet Casino Adds Dogecoin, Litecoin Following Customer Survey](https://gadgets.ndtv.com/internet/news/dogecoin-price-cloudbet-casino-litecoin-bitcoin-cryptocurrency-add-online-site-2441441)
+
+
+> Cloudbet casino has added Dogecoin and Litecoin on its site after the two digital coins drew the largest number of votes in a recent survey of almost 10,000 customers. The casino ran the survey to ascertain which new cryptocurrencies to add. Now, customers can hold and use these coins to bet on the outcome of many sporting events, and also take a shot at popular games such as blackjack, poker, roulette, and baccarat. With the inclusion of these two digital assets, the number of cryptocurrencies supported by Cloudbet is now 12, including Bitcoin and Ether among others.
+
+
