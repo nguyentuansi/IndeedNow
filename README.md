@@ -7531,3 +7531,50 @@
 > Ireland's health services are in jeopardy.  Health Service Executive, the country's health service, has shut down its IT system in order to deal with a "significant" ransomware attack.  "We have taken the precaution of shutting down all our our IT systems in order to protect them from this attack and to allow us fully assess the situation with our own security partners," HSE Ireland said on Twitter.  There is a significant ransomware attack on the HSE IT systems. We have taken the precaution of shutting down all our our IT systems in order to protect them from this attack and to allow us fully assess the situation with our own security partners.
 
 
+***
+![Twitter For Android Finally Gets DM Search Feature](https://www.androidheadlines.com/wp-content/uploads/2019/01/Twitter-AH-NS-02.jpg "Twitter For Android Finally Gets DM Search Feature")
+
+
+[Twitter For Android Finally Gets DM Search Feature](https://www.androidheadlines.com/2021/05/twitter-android-dm-search-feature.html)
+
+
+> Twitter for Android is finally getting a much-needed and long-awaited feature – the ability to search direct messages (DM). This features rolled out on iOS and the web back in October 2019, after testing began in August. Now, nearly two years later, Twitter is bringing DM search to its Android app as well.According to the official announcement, it will be an improved version of the existing feature and is rolling out across all platforms. It allows you to search through your entire messaging history on Twitter, and not just the recent conversations.
+
+
+***
+![Fake MSI Afterburner Website & Malware: What You Need To Know](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/05/MSI-Afterburner-screenshot.jpg "Fake MSI Afterburner Website & Malware: What You Need To Know")
+
+
+[Fake MSI Afterburner Website & Malware: What You Need To Know](https://screenrant.com/msi-afterburner-fake-website-malware-explained/)
+
+
+> A website posing as the popular overclocking software MSI Afterburner poses a serious security risk. Here's what users should be wary of. A website posing as the popular PC overclocking software MSI Afterburner lures users into downloading a program that can potentially cause serious harm to computers. The threat comes at a time when MSI's official program is unavailable, making it a tempting alternative to those desperate to get their hands on the renowned performance-boosting tool. MSI isn't just known for coming up with powerful gaming laptops, but for producing reliable software as well.
+
+
+***
+[Centaur Labs (YC W19) is hiring an ML engineer who will also be Brigham postdoc](https://www.centaurlabs.com/careers/postdoctoral-machine-learning-engineer)
+
+
+> As a postdoc, you will play a key role in the success of a collaboration between Centaur Labs and Brigham and Women's Hospital (BWH) to develop large-scale labeled datasets of ultrasound clips, as well as state-of-the-art deep learning algorithms trained on those datasets.You will be employed by Centaur Labs, but you will also have an appointment with and work closely with researchers at BWH.Your objectives will include:- Serving as a project manager overseeing work at BWH to de-identify and clip ultrasound videos, and then secure transfer of clips to Centaur Labs for labeling.
+
+
+***
+![Personalize your pronouns on Instagram with these simple steps!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop_wm_brw/public/article_images/2021/05/how-to-change-pronouns-instagram-hero.jpg "Personalize your pronouns on Instagram with these simple steps!")
+
+
+[Personalize your pronouns on Instagram with these simple steps!](https://www.androidcentral.com/how-add-your-personal-pronouns-your-instagram-profile)
+
+
+> Source: Jeramy Johnson / Android Central Identity is such an important characteristic for our self-esteem and self-worth — it's literally an expression of who we are, or who we want the outside world to recognize us as. Whether your identity is tied up in your profession, hobbies, religion, sexuality, or any number of other descriptors, when you're putting your best face forward online or IRL, you want people to know the true you. More and more people are choosing the express their gender identity on social media, and apps like Instagram are taking notice.
+
+
+***
+![What are the best exercise bikes for Apple Fitness Plus?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/apple-fitness-plus-cycle.jpg "What are the best exercise bikes for Apple Fitness Plus?")
+
+
+[What are the best exercise bikes for Apple Fitness Plus?](https://www.imore.com/best-exercise-bikes-apple-fitness-plus)
+
+
+> Best exercise bikes for Apple Fitness Plus iMore 2021 Apple Fitness+ is Apple's fast-growing exercise subscription service that was introduced to the world in December 2020. Some exercises only require an Apple Watch, while others require special equipment such as a treadmill, a rowing machine, or an exercise bike. If you are looking to purchase an exercise bike, there are many different options and features to choose from. Which one is best for you? Let's take a look at the best exercise bikes for Apple Fitness+.
+
+
