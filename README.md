@@ -7919,3 +7919,50 @@
 > (Image credit: Future) In case you'd forgotten, EOFY sales are fast approaching, but you don't need to wait another month to score an excellent deal on a laptop. If you're looking to buy now, Dell's latest sale has seen up to 40% slashed off a range of laptops, and we also know of a codeword that'll save you a little extra.In particular, we're keen to see the savings available on Alienware gaming rigs. Dell's dedicated gaming brand doesn't often see a big price drop, but now there's up to 40% off the Alienware line.
 
 
+***
+![Know your way around data with this stacked online course bundle](https://mondrian.mashable.com/2021%252F05%252F15%252F26%252F7cbd42d71ac24173987f172dc514967a.9412a.jpg%252F1200x630.jpg?signature=2Ok9C6bF7yT2Donbztp0wFF_Rg4= "Know your way around data with this stacked online course bundle")
+
+
+[Know your way around data with this stacked online course bundle](https://mashable.com/uk/shopping/may-15-2021-advanced-data-analysis-bundle/)
+
+
+> TL;DR: The 2021 Advanced Data Analyst Bundle is on sale for £21.34 as of May 15, saving you 93% on list price. When put to good use, data can make a positive impact. It can fuel social good initiatives and innovations. And when used wisely by businesses, data can help us make smarter investment decisions, improve risk management processes, and much, much more. If you want to become a data analyst yourself, the Advanced Data Analyst Bundle includes enough information to get your foot in the door.
+
+
+***
+![Democrat Senator for Amazon's Home State Seeks $10B Giveaway for Jeff Bezos' Space Company](https://media.breitbart.com/media/2019/07/Jeff-Bezos-Gloats-640x335.png "Democrat Senator for Amazon's Home State Seeks $10B Giveaway for Jeff Bezos' Space Company")
+
+
+[Democrat Senator for Amazon's Home State Seeks $10B Giveaway for Jeff Bezos' Space Company](https://www.breitbart.com/tech/2021/05/14/democrat-senator-for-amazons-home-state-seeks-10b-giveaway-for-jeff-bezos-space-company/)
+
+
+> Sen. Maria Cantwell, a Democrat who represents the state of Washington where Amazon's world headquarters is located, is pushing for NASA to reopen a competition for third-party contractors to build its next lunar lander, after Jeff Bezos's Blue Origin lost out to Elon Musk's SpaceX in the competition for the contract last month. Earlier this week, Sen. Cantwell proposed an amendment to the Endless Frontier Act, a bill that funds NASA's Artemis Program, to land U.S. astronauts on the moon within the next five years.
+
+
+***
+![This professional email marketing bootcamp is on sale for 97% off](https://mondrian.mashable.com/2021%252F05%252F15%252Fe6%252F3862f7ab094f4129961c4e21df78b098.189d4.jpg%252F1200x630.jpg?signature=3WF51ebcKUxflJ4PTHMeyTPe8Jw= "This professional email marketing bootcamp is on sale for 97% off")
+
+
+[This professional email marketing bootcamp is on sale for 97% off](https://mashable.com/uk/shopping/may-15-email-marketing-bootcamp/)
+
+
+> TL;DR: The Complete Email Marketing Bootcamp is on sale for £21.34 as of May 15, saving you 97% on list price. To market your business yourself, it's essential to understand a few basic things — like copywriting, how to produce an email, and the fundamentals of email marketing systems. Get your feet wet by signing up for the Complete Email Marketing Bootcamp and investing a little time. This course bundle features seven courses, 164 lessons, and over 13 hours of content. You'll learn to create succinct, effective emails that drive customers to take action.
+
+
+***
+[Oklahoma hits six home runs, beats Tech in Big 12 tournament](https://www.lubbockonline.com/story/sports/college/2021/05/14/tech-sports-roundup-oklahoma-hits-six-home-runs-win-over-red-raiders/5104923001/)
+
+
+> OKLAHOMA CITY — Kinzie Hansen and Lynnsie Elam hit two home runs apiece of top-ranked Oklahoma's six and the Sooners beat Texas Tech 8-2 Friday night at the Big 12 Conference softball tournament.The game was the second of two pool-play games Friday for both teams and sent Oklahoma to the tournament championship game and Tech to a game between the two second-place teams in pool play.Both beat Baylor earlier Friday, Tech doing so 8-6 and Oklahoma run-ruling the Bears 10-2. Oklahoma (44-2) will play No.
+
+
+***
+![Save 70% on a subscription to this streaming-friendly VPN](https://mondrian.mashable.com/2021%252F05%252F15%252F80%252Fca17df036d5e43da9fc4b90297345a71.2db53.png%252F1200x630.png?signature=_NEbY2GzDNu3UEmiNeXLxCfHTX0= "Save 70% on a subscription to this streaming-friendly VPN")
+
+
+[Save 70% on a subscription to this streaming-friendly VPN](https://mashable.com/uk/shopping/may-15-best-pure-vpn-deal/)
+
+
+> SAVE 70%: A two-year subscription to PureVPN is on sale for £2.46 per month as of May 15, saving you 70% on list price. The battle to be the best VPN for streaming is pretty competitive. There are plenty of services that do the job effectively, but ExpressVPN is probably the best. It's also one of the most expensive services, so PureVPN may be better suited to beginners. PureVPN is one of the few services to offer a seven-day free trial with access to all of its features. If you decide to continue with the service after your trial, you can save 70% on a two-year subscription.
+
+
