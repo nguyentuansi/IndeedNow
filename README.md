@@ -8304,3 +8304,47 @@
 > This image taken with the NASA/ESA Hubble Space Telescope showcases the emission nebula NGC 2313. Emission nebulae are bright, diffuse clouds of ionized gas that emit their own light. ESA/Hubble, R. Sahai The Hubble Space Telescope has captured a stunning image of a fan of dust and gas illuminated by a star that forms a structure called an emission nebula. This nebula, known as NGC 2313 or LDN 1653, is located around 3,750 light-years away in the constellation of Monoceros. Hubble captured the image using its Advanced Camera for Surveys (ACS) instrument, which looks in both the visible light and near-infrared wavelengths.
 
 
+***
+![Amazon launches miniTV in India for free videos. Check how it's different from Prime Video](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/amazon_miniTV-647x363.png?MAvCXtDcdZDhLJvRKEPlQlBIjl.HRU6o "Amazon launches miniTV in India for free videos. Check how it's different from Prime Video")
+
+
+[Amazon launches miniTV in India for free videos. Check how it's different from Prime Video](https://www.indiatoday.in/technology/story/amazon-launches-minitv-in-india-for-free-videos-how-its-different-from-prime-video-1803033-2021-05-16)
+
+
+> In a first, Amazon has launched a 'miniTV' on its shopping app for users in India. The Amazon miniTV is an-ad supported "free video streaming service" that would not require any paid subscription unlike other streaming apps."In a global first for Amazon, Amazon.in, today announced the launch of miniTV. miniTV is a free, ad-supported video streaming service available within the Amazon shopping app," Amazon said in a blog post.Introducing the Amazon miniTV a free video streaming service. Watch entertaining, trendy and fresh videos for free no paid subscription required on Amazon's shopping app! https://t.
+
+
+***
+[Top gamers are quitting esports to become Twitch and YouTube influencers as esports organizations and game publishers reallocate resources to streamers (Cecilia D'Anastasio/Wired)](http://www.techmeme.com/210515/p9#a210515p9)
+
+
+> Cecilia D'Anastasio / Wired: Top gamers are quitting esports to become Twitch and YouTube influencers as esports organizations and game publishers reallocate resources to streamers — Top players have left pro leagues to pursue streaming full-time as the industry veers more toward content creators.
+
+
+***
+![Mac Gamers: Maximize your experience with these gaming acccessories](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/03/imac-pro-dark-hero.jpg "Mac Gamers: Maximize your experience with these gaming acccessories")
+
+
+[Mac Gamers: Maximize your experience with these gaming acccessories](https://www.imore.com/best-gaming-accessories-mac)
+
+
+> Best gaming accessories for Mac iMore 2021 Macs might not be as well suited for gaming as a PC, but that doesn't mean there aren't plenty of compatible games for you can play. If you want to improve your experience, you can invest in a few of the best Mac gaming accessories. When it comes to computer gaming, nothing beats a wired mouse. They provide the best precision when you play, and you don't have to worry about the batteries dying on you in the middle of a game or lag. This wired gaming mouse from VersionTECH comes in several colors with cool color-changing LED lights that breath while you play.
+
+
+***
+![$50 off monthly internet bill for eligible households: How to apply](https://www.kron4.com/wp-content/uploads/sites/11/2021/05/IMG_5581.jpg?w=1280 "$50 off monthly internet bill for eligible households: How to apply")
+
+
+[$50 off monthly internet bill for eligible households: How to apply](https://ktla.com/morning-news/technology/50-off-internet-bill-fcc-ebb-how-to-apply/)
+
+
+> (KTLA) – A new government program could save you $50 a month on your internet bill. The new FCC initiative, called the Emergency Broadband Benefit (EBB), is currently accepting applications. Here's what you need to know and how to apply. Emergency Broadband Benefit (Credit: FCC) The EBB program is aimed at helping households afford internet service amid the pandemic, in order to 'connect eligible households to jobs, critical healthcare services, virtual classrooms, and so much more.' With that in mind, the FCC has set aside $3.
+
+
+***
+[Fable 4 on Xbox Series X trailer, release date, Xbox Game Pass and what we know](https://www.techradar.com/news/fable-4-on-xbox-series-x-trailer-release-date-game-pass-and-what-we-know)
+
+
+> What we know about Fable 4 on Xbox Series X, or Fable, as it's officially known.
+
+
