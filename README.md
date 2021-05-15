@@ -8107,3 +8107,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![[Exclusive] Lee Chun-jae "Confess to know that it was an American murder case... Police are surprised"](https://img.sbs.co.kr/newimg/news/20210503/201547325_1280.jpg "[Exclusive] Lee Chun-jae "Confess to know that it was an American murder case... Police are surprised"")
+
+
+[[Exclusive] Lee Chun-jae "Confess to know that it was an American murder case... Police are surprised"](https://www.tellerreport.com/tech/2021-05-15-[exclusive]-lee-chun-jae-"confess-to-know-that-it-was-an-american-murder-case----police-are-surprised".BJghFcE6dO.html)
+
+
+> If Lee Chun-jae had not spoken, the truth that the police hid in the past would not have been revealed to the world even now. Lee Chun-jae confessed, knowing that the case of Hyun-Jung Yang was also treated as an American murder case, but later said that it was a disappearance case. If Lee Chun-jae hadn't spoken, the truth that the police hid in the past would not have been revealed to the world even now. Lee Chun-jae confessed, knowing that the case of Hyun-Jung Yang was also treated as an American murder case, but later said that it was a disappearance case.
+
+
+***
+![Signal takes a jibe at WhatsApp as confusion looms large over its new privacy policy](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Screenshot_2021-05-15_at_5.24.-647x363.png?ttrHJISHZ6lm1IVs7LE9x2C8ZE0tQrLI "Signal takes a jibe at WhatsApp as confusion looms large over its new privacy policy")
+
+
+[Signal takes a jibe at WhatsApp as confusion looms large over its new privacy policy](https://www.indiatoday.in/technology/news/story/signal-takes-a-jibe-at-whatsapp-as-confusion-looms-large-over-its-new-privacy-policy-1802955-2021-05-15)
+
+
+> WhatsApp will start taking action against the users who have not accepted the privacy policy starting today. No, it won't remove the account of users but take away some basic features. Users still are in two minds about accepting the privacy policy as there is too little information on what it truly signifies. Meanwhile, Signal, an encrypted messaging app, has made the full use of the opportunity to attract users to its own platform.A couple of days before the May 15 deadline, which was being dreaded by many, WhatsApp announced that it would not delete the accounts of users even if they don't accept the privacy policy by May 15.
+
+
+***
+![Can Apple's iPhone 12 & MagSafe Affect Pacemakers?](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/05/Apple-iPhone-12-MagSafe-Charging-Over-MRI-Machine.jpg "Can Apple's iPhone 12 & MagSafe Affect Pacemakers?")
+
+
+[Can Apple's iPhone 12 & MagSafe Affect Pacemakers?](https://screenrant.com/apple-magsafe-magnets-affect-pacemakers-medical-devices/)
+
+
+> Apple's MagSafe uses strong magnets, so the FDA's statement about possible effects on implanted medical devices is important for iPhone 12 owners. Apple's increasing use of magnets in its devices, such as for the MagSafe charging accessories, is raising some questions about their safety for use by those with pacemakers and other medical devices. Strong magnetic devices are known to have the potential to interfere with the normal function of medical devices or to activate special modes of operation.
+
+
+***
+![Marvel's Eternals explained: Everything we know about the MCU Phase 4 movie](https://www.cnet.com/a/img/58Wqhn9hBwb6h0QsS0DDviYYLOM=/1200x630/2021/05/03/d0bcb65a-2669-4557-8583-81609ad8aed5/eternals-3.png "Marvel's Eternals explained: Everything we know about the MCU Phase 4 movie")
+
+
+[Marvel's Eternals explained: Everything we know about the MCU Phase 4 movie](https://www.cnet.com/how-to/marvels-eternals-explained-everything-we-know-about-the-mcu-phase-4-movie/)
+
+
+> Director Chloé Zhao is bringing her Oscar-winning style to Marvel's Eternals. Marvel Studios Marvel Cinematic Universe fans are getting hyped for Black Widow coming out in July, Shang-Chi and the Legend of the Ten Rings in September and Spider-Man: No Way Home in December, but there's another major MCU movie hitting theaters in 2021. The debut of alien superteam the Eternals was pushed back a year due to the pandemic, but an epic trailer revealed the first footage last week.The movie is directed by Chloé Zhao, who just won a pair of Oscars for her film Nomadland, and it comes out Nov.
+
+
+***
+![How to negotiate with your internet service provider](https://www.cnet.com/a/img/PJWPNvMFI_XPaXMTo3QOr0nKmcc=/1200x630/2021/02/05/ca19eda8-9781-4abe-9e2e-05e6a9591177/045-cash-money-stimulus-checks-bill-passed-congress-1400-dollars-payment-target-supplement-bullseye-2021-biden.jpg "How to negotiate with your internet service provider")
+
+
+[How to negotiate with your internet service provider](https://www.cnet.com/home/how-to-negotiate-with-your-internet-service-provider/)
+
+
+> Sarah Tew/CNET Without a doubt, my wife is the main negotiator and deal maker of our household. Before we met, she'd already figured out major life moments like buying a house, hammering out a great deal on a new car and getting the best possible salary offer for a new job. When it came time to gather the best guidance for negotiating with your internet service provider, you'd better believe I asked for her advice."Kindness is key," she said. "Always be friendly and courteous." The person on the other end of the phone (or online chat, as the case may be) is much more likely to work with you if met with decency and patience.
+
+
