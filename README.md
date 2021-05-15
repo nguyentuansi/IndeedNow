@@ -8257,3 +8257,50 @@
 > The U.S. for the first time attended a summit on Saturday with tech giants and world leaders as part of an international effort to stop extremist violence from proliferating online while also protecting freedom of speech, AP reports.Why it matters: The effort was created by New Zealand Prime Minister Jacinda Ardern and French President Emmanuel Macron in the aftermath of the 2019 Christchurch, New Zealand, shootings and deadly attacks in France that were streamed or shared on social media platforms.
 
 
+***
+[How to buy Shiba Inu coin — the easiest way to buy the 'Dogecoin killer'](https://www.laptopmag.com/how-to/how-to-buy-shiba-coin)
+
+
+> "How to buy Shiba Inu coin" is a quick, easy-to-understand explainer on how to purchase the Dogecoin killer.
+
+
+***
+![Technical information about usb tethering](https://images.macrumors.com/social/?t=2296273&v=6 "Technical information about usb tethering")
+
+
+[Technical information about usb tethering](https://forums.macrumors.com/threads/technical-information-about-usb-tethering.2296273/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I have an iPhone 6s that I use everyday as my main internet modem for my pc through usb tethering. I got unlimited mobile internet and I average about 70gb of data in download everyday. I need to know the following: is all the data I tether being momentarily written and than immediately deleted from iPhone storage memory? My worry here is killing its 32gb internal flash NAND.
+
+
+***
+!['Hey, Siri, is it hot in here?'](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/05/ecobee-smartsensor-contactsensor-review-3.jpg "'Hey, Siri, is it hot in here?'")
+
+
+['Hey, Siri, is it hot in here?'](https://www.imore.com/best-homekit-temperature-sensors)
+
+
+> Best HomeKit temperature sensors iMore 2021 Ever ask yourself, "Is it hot in here?" at home? You probably answered yes to that question (don't worry, we've all done it). If you were equipped with one of the best HomeKit temperature sensors, then you can even automate a process with Siri and have it check for you, all without lifting a finger. When you have a HomeKit temperature sensor, you'll be able to get reports on the current temperature of any given room at any time, either through an app or through Siri itself.
+
+
+***
+![Best Oculus Quest 2 Deals for May 2021: up to $20 off instantly & more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/oculus-quest-2-leak-in-hands.jpg "Best Oculus Quest 2 Deals for May 2021: up to $20 off instantly & more")
+
+
+[Best Oculus Quest 2 Deals for May 2021: up to $20 off instantly & more](https://www.androidcentral.com/best-oculus-quest-2-deals)
+
+
+> The next step in VR hardware has arrived, and now that the Oculus Quest 2 is available on store shelves, you can discover an immersive virtual reality of gaming starting as low as $299. Of course, if you know where to shop, you might even be able to score a discount on this new VR system. While deals don't come around every day on this new release just yet, it's not too soon to score a discount on the Oculus Quest 2. In fact, we could be seeing some major savings sooner than you'd think. If you have yet to decide whether this VR headset is the right one for your home, our Oculus Quest 2 review can help you learn more about the new model.
+
+
+***
+![Hubble captures a cosmic cloud illuminated by starlight](https://icdn.digitaltrends.com/image/digitaltrends/cosmic-silver-lining.jpg "Hubble captures a cosmic cloud illuminated by starlight")
+
+
+[Hubble captures a cosmic cloud illuminated by starlight](https://www.digitaltrends.com/news/hubble-emission-nebula-ngc-2313/)
+
+
+> This image taken with the NASA/ESA Hubble Space Telescope showcases the emission nebula NGC 2313. Emission nebulae are bright, diffuse clouds of ionized gas that emit their own light. ESA/Hubble, R. Sahai The Hubble Space Telescope has captured a stunning image of a fan of dust and gas illuminated by a star that forms a structure called an emission nebula. This nebula, known as NGC 2313 or LDN 1653, is located around 3,750 light-years away in the constellation of Monoceros. Hubble captured the image using its Advanced Camera for Surveys (ACS) instrument, which looks in both the visible light and near-infrared wavelengths.
+
+
