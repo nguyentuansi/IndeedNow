@@ -7872,3 +7872,50 @@
 > A photo of Mars captured by China's Tianwen-1 probe in February. Photo: Xinhua via Getty Images Tonight, China attempted to land a pair of robots on the surface of Mars, making a daring bid to become the second country to land and operate a rover on the Red Planet. The Tianwen-1 spacecraft, which has been orbiting Mars since February, ejected a rover and lander bundled together for a seven-minute plunge through the thin Martian atmosphere. By now, China should know whether its mission was a success or failure, as enough time has now elapsed since its decent to send a signal back to Earth — but there's been no official word on its fate, and may not be for hours yet, according to experts tracking China's space program.
 
 
+***
+[DeFi hacks made up 60%+ of the crypto hack and theft volume in 2021 and 47% of major fraud and misappropriation; criminals netted ~$240M from DeFi-related hacks (Adam London/CipherTrace)](http://www.techmeme.com/210514/p23#a210514p23)
+
+
+> Adam London / CipherTrace: DeFi hacks made up 60%+ of the crypto hack and theft volume in 2021 and 47% of major fraud and misappropriation; criminals netted ~$240M from DeFi-related hacks — MAJOR TRENDS AND DEVELOPMENTS — DeFi Hacks Reach Record Highs 1% of Bitcoin Transactions are “Risky” 0.1% of Transacted Bitcoin Value is …
+
+
+***
+![Officials: Tesla Autopilot probed in fatal California crash](https://www.krmg.com/pf/resources/images/sites/cmg-rd-20111/station-logo.png?d=104 "Officials: Tesla Autopilot probed in fatal California crash")
+
+
+[Officials: Tesla Autopilot probed in fatal California crash](https://www.krmg.com/news/technology/officials-tesla/RFEKYCYUXGKPG4UFCUL7LE4X2I/)
+
+
+> LOS ANGELES — (AP) — A Tesla involved in a fatal crash on a Southern California freeway last week may have been operating on Autopilot before the wreck, according to the California Highway Patrol.The May 5 crash in Fontana, a city 50 miles (80 kilometers) east of Los Angeles, is also under investigation by the National Highway Traffic Safety Administration. The probe is the 29th case involving a Tesla that the federal agency has probed.In the Fontana crash, a 35-year-old man was killed when his Tesla Model 3 struck an overturned semi on a freeway about 2:30 a.
+
+
+***
+![Officials: Tesla Autopilot probed in fatal California crash](https://www.actionnewsjax.com/pf/resources/images/sites/cmg-tv-10050/station-fallback.png?d=104 "Officials: Tesla Autopilot probed in fatal California crash")
+
+
+[Officials: Tesla Autopilot probed in fatal California crash](https://www.actionnewsjax.com/news/technology/officials-tesla/RFEKYCYUXGKPG4UFCUL7LE4X2I/)
+
+
+> LOS ANGELES — (AP) — A Tesla involved in a fatal crash on a Southern California freeway last week may have been operating on Autopilot before the wreck, according to the California Highway Patrol.The May 5 crash in Fontana, a city 50 miles (80 kilometers) east of Los Angeles, is also under investigation by the National Highway Traffic Safety Administration. The probe is the 29th case involving a Tesla that the federal agency has probed.In the Fontana crash, a 35-year-old man was killed when his Tesla Model 3 struck an overturned semi on a freeway about 2:30 a.
+
+
+***
+![Brave and Unstoppable Domains join forces to allow users to access the decentralized web](https://cdn.mos.cms.futurecdn.net/WDPkdT9CqiLNx7wgLcceX7-1200-80.jpg "Brave and Unstoppable Domains join forces to allow users to access the decentralized web")
+
+
+[Brave and Unstoppable Domains join forces to allow users to access the decentralized web](https://www.techradar.com/news/brave-and-unstoppable-domains-join-forces-to-allow-users-to-access-the-decentralized-web)
+
+
+> (Image credit: Unstoppable Domains) Brave users will now be able to access the decentralized web on desktop and Android as the company behind the privacy-oriented browser has joined forced with the blockchain domain name provider Unstoppable Domains.After updating to the latest version, the browser's users will have access to 30,000 decentralized websites and 700,000 blockchain domain names registered with Unstoppable Domains.Co-founder and CTO of Brave, Brian Bondy provided further insight on the new partnership between the two companies in a press release, saying:'We are excited to work with Unstoppable Domains to enable decentralized DNS to a wider audience.
+
+
+***
+![Save AU$1,497 on this RTX 3080 Alienware gaming laptop](https://cdn.mos.cms.futurecdn.net/gRZRE4XrwYsJCgdTC7Y2fc-1200-80.jpg "Save AU$1,497 on this RTX 3080 Alienware gaming laptop")
+
+
+[Save AU$1,497 on this RTX 3080 Alienware gaming laptop](https://www.techradar.com/news/save-audollar1497-on-this-rtx-3080-alienware-gaming-laptop)
+
+
+> (Image credit: Future) In case you'd forgotten, EOFY sales are fast approaching, but you don't need to wait another month to score an excellent deal on a laptop. If you're looking to buy now, Dell's latest sale has seen up to 40% slashed off a range of laptops, and we also know of a codeword that'll save you a little extra.In particular, we're keen to see the savings available on Alienware gaming rigs. Dell's dedicated gaming brand doesn't often see a big price drop, but now there's up to 40% off the Alienware line.
+
+
