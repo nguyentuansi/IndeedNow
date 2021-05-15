@@ -7966,3 +7966,47 @@
 > SAVE 70%: A two-year subscription to PureVPN is on sale for £2.46 per month as of May 15, saving you 70% on list price. The battle to be the best VPN for streaming is pretty competitive. There are plenty of services that do the job effectively, but ExpressVPN is probably the best. It's also one of the most expensive services, so PureVPN may be better suited to beginners. PureVPN is one of the few services to offer a seven-day free trial with access to all of its features. If you decide to continue with the service after your trial, you can save 70% on a two-year subscription.
 
 
+***
+[A look at the renewed animosity between Apple and Microsoft, as they increasingly compete in everything from gaming to PCs to AR (Mark Gurman/Bloomberg)](http://www.techmeme.com/210515/p2#a210515p2)
+
+
+> Mark Gurman / Bloomberg: A look at the renewed animosity between Apple and Microsoft, as they increasingly compete in everything from gaming to PCs to AR — At a virtual product launch in November for Apple's Mac reboot, actor John Hodgman appeared in a nerdy, ill-fitting suit before a white backdrop.
+
+
+***
+[Comment by Redditor Aicire (/u/Aicire) in /r/cobol (Inside the Hidden World of Legacy IT), 15 May 2021: "I'm a product owner and the scrum team I work with are cobol developers. As an enterprise, we are trying to 'replace' our legacy system with an in-house solution. We are a multi billion company"](https://www.reddit.com/r/programming/comments/ncrun4/comment_by_redditor_aicire_uaicire_in_rcobol/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Apple, Google's COVID-19 tracing tech saved thousands of lives in UK, about time India gets it too](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-05-15_at_11_1200_210515113718.08-483x271.png "Apple, Google's COVID-19 tracing tech saved thousands of lives in UK, about time India gets it too")
+
+
+[Apple, Google's COVID-19 tracing tech saved thousands of lives in UK, about time India gets it too](https://www.businesstoday.in/technology/apple-googles-covid-19-tracing-tech-saved-thousands-of-lives-in-uk-about-time-india-gets-it-too/story/439116.html)
+
+
+> Highlights Apple and Google joined hands to develop the Exposure Notifications System to contact trace users. The tech giants introduced the API in June 2020 and turns out the contact tracing app has done wonders in the United Kingdom. A report eport has claimed that the contact tracing tech has saved lives of between 4,200 and 8,700 users in the UK. Apple and Google joined hands to develop the Exposure Notifications System to contact trace and alert users about possible COVID-19 exposure. The tech giants introduced the API in June 2020 and turns out the contact tracing app has done wonders in the United Kingdom.
+
+
+***
+![Microsoft: Python programming in Visual Studio Code is now faster and smarter than ever](https://external-preview.redd.it/falIEJoX07U1Q52AGsMiwuipjAUCRTQgRSTUBuks2ww.jpg?auto=webp&s=bab05a21c48462e9934d1d515c13ea2788534ff5 "Microsoft: Python programming in Visual Studio Code is now faster and smarter than ever")
+
+
+[Microsoft: Python programming in Visual Studio Code is now faster and smarter than ever](https://www.reddit.com/r/Python/comments/ncrsi4/microsoft_python_programming_in_visual_studio/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![clean install Big Sur in Recovery mode without data loss?](https://images.macrumors.com/social/?t=2296206&v=6 "clean install Big Sur in Recovery mode without data loss?")
+
+
+[clean install Big Sur in Recovery mode without data loss?](https://forums.macrumors.com/threads/clean-install-big-sur-in-recovery-mode-without-data-loss.2296206/)
+
+
+> If I'm running low on HD space but need to reinstall Big Sur ***without data loss,*** is it as simple as booting into Recovery mode, erasing 'Macintosh HD' (but NOT 'Macintosh HD - Data'), and then reinstalling Big Sur from the Recovery menu, or is this wishful thinking? I stupidly let my HD get too full and, of course, I have my first corrupted system in years. Thanks for all feedback. (Posting from my iPad.)
+
+
