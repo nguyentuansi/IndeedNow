@@ -7822,3 +7822,53 @@
 > When you're newly in the money with roughly $17.5 million worth of cryptocurrency, $5 million of which came courtesy of Colonial Pipeline, it makes sense to take some time off work and enjoy yourself.  DarkSide, the possibly Russian-based hacking group behind the ransomware which prompted Colonial Pipeline to proactively take its 5,500 miles of U.S. pipeline briefly offline, claimed Thursday that it had been forced to end its affiliates program. The program, which was a sort of ransomware-as-a-service business model, involved providing hackers access to DarkSide's ransomware software in exchange for a cut of any proceeds.
 
 
+***
+![Tech manager who called Bay Area women ‘soft and weak' says Apple fired him](https://www.eastbaytimes.com/wp-content/uploads/2021/05/sjm-PLE-1104-1_1038683054_70028017.jpg?w=1024&h=563 "Tech manager who called Bay Area women ‘soft and weak' says Apple fired him")
+
+
+[Tech manager who called Bay Area women ‘soft and weak' says Apple fired him](https://www.mercurynews.com/2021/05/14/tech-manager-who-called-bay-area-women-soft-and-weak-says-apple-fired-him)
+
+
+> A former Facebook product manager says Apple fired him shortly after hiring him following an employee protest about allegedly sexist and racist language in his best-selling book Chaos Monkeys. 'I was fired by Apple in a snap decision,' Antonio García-Martínez said Friday afternoon on Twitter. His LinkedIn page says he started working at the Cupertino iPhone and app-store giant last month. Apple earlier told Reuters in response to questions about his departure that, 'Behavior that demeans or discriminates against people for who they are has no place here.
+
+
+***
+![Vicky Cristina Barcelona (2008) « Celebrity Gossip and Movie News and 'Vicky Cristina Barcelona': Penélope Cruz &amp; Scarlett Johansson Showcase](https://https://www.thearkatech.com/img/news_img/all/9098_1_1200.pic "Vicky Cristina Barcelona (2008) « Celebrity Gossip and Movie News and 'Vicky Cristina Barcelona': Penélope Cruz &amp; Scarlett Johansson Showcase")
+
+
+[Vicky Cristina Barcelona (2008) « Celebrity Gossip and Movie News and 'Vicky Cristina Barcelona': Penélope Cruz &amp; Scarlett Johansson Showcase](https://www.thearkatech.com/en/49356/)
+
+
+> © Instagram / vicky cristina barcelona By: Emma Williams2021-05-15 03:15:33 Last News: 'Vicky Cristina Barcelona': Penélope Cruz & Scarlett Johansson Showcase and Vicky Cristina Barcelona (2008) « Celebrity Gossip and Movie News A cloudy and rainy weekend ahead in Saint Joseph and rain chances lingering into next week. OCC and P-Tech program helps student land job before graduation. MLS players and coaches reflect on their favorite jerseys. Darrell Taylor has a new position and jersey number as he gets back on field for Seahawks.
+
+
+***
+![New Samsung Galaxy Book Pro and Pro 360 available for pre-order with $180 Samsung Credit](https://fdn.gsmarena.com/imgroot/news/21/04/samsung-galaxy-laptops-announced/-476x249w4/gsmarena_000.jpg "New Samsung Galaxy Book Pro and Pro 360 available for pre-order with $180 Samsung Credit")
+
+
+[New Samsung Galaxy Book Pro and Pro 360 available for pre-order with $180 Samsung Credit](https://www.gsmarena.com/new_samsung_galaxy_book_pro_and_pro_360_available_for_preorder_with_180_samsung_credit-news-49122.php)
+
+
+> Last month, Samsung announced its lineup of new Samsung Galaxy Book computers: The Galaxy Book Pro and Galaxy Book Pro 360. The latter has a hinge that swings all the way around to take advantage of Windows 10's tablet mode. Each one comes in 13 and 15-inch versions and they're all currently on pre-order. Today (Friday) is the last day to take advantage of a promotion that Samsung is holding in the US. Anyone who pre-orders one of these Galaxy Book Pros will be eligible for $180 in Samsung Credit, redeemable towards any Samsung accessories or other Samsung products.
+
+
+***
+![The Usual Suspects: May 9, 2021 and Mid-Season Invitational Day 5 in Review: The usual suspects make it through](https://https://www.thearkatech.com/img/news_img/all/9082_7_1200.pic "The Usual Suspects: May 9, 2021 and Mid-Season Invitational Day 5 in Review: The usual suspects make it through")
+
+
+[The Usual Suspects: May 9, 2021 and Mid-Season Invitational Day 5 in Review: The usual suspects make it through](https://www.thearkatech.com/en/49355/)
+
+
+> © Instagram / usual suspects By: Samantha Thompson2021-05-15 03:13:29 Last News: KU's Bradford Ready for Big 12 Meet and Beyond. Jones, Page lift mask requirements for vaccinated people in St. Louis and St. Louis County. ABC Orders Quinta Brunson Sitcom, Brandy's Queens, and the Wonder Years Reboot to Series. Stop the Hate: Protecting our Asian American and Pacific Islander community. A guide to end-to-end encryption, the system that keeps your transmitted data and communication secure. 'I no longer have my Kru': Rick Davis taught martial arts and much more.
+
+
+***
+![The world waits to see if China's first Mars rover survived](https://cdn.vox-cdn.com/thumbor/TIhJJD_W0nCFHCuZq1dsB5vf6MA=/0x840:3000x2411/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22515377/1230995747.jpg "The world waits to see if China's first Mars rover survived")
+
+
+[The world waits to see if China's first Mars rover survived](https://www.theverge.com/2021/5/14/22436072/china-tianwen-1-mars-landing-zhurong-rover)
+
+
+> A photo of Mars captured by China's Tianwen-1 probe in February. Photo: Xinhua via Getty Images Tonight, China attempted to land a pair of robots on the surface of Mars, making a daring bid to become the second country to land and operate a rover on the Red Planet. The Tianwen-1 spacecraft, which has been orbiting Mars since February, ejected a rover and lander bundled together for a seven-minute plunge through the thin Martian atmosphere. By now, China should know whether its mission was a success or failure, as enough time has now elapsed since its decent to send a signal back to Earth — but there's been no official word on its fate, and may not be for hours yet, according to experts tracking China's space program.
+
+
