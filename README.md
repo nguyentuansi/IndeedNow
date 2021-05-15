@@ -8207,3 +8207,53 @@
 > The veteran supermodel is contesting the will of her late husband, Ric Ocasek — and writing herself a splashy new chapter. YOU CAN'T HANDLE THE TOOTH During a ride on the Slingshot, a man suddenly realizes he should have taken his fake tooth out before going on the ride. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. The best microwave technology we have available is curiously the Sharp Carousel Multiple Choice microwave from 1997.
 
 
+***
+![Person Of Interest Cast &amp; Characters and Videos: Person of Interest Cast and Creative Team Talk Final Episodes, Season 2 and more](https://https://www.thearkatech.com/img/news_img/all/10729_1_1200.pic "Person Of Interest Cast &amp; Characters and Videos: Person of Interest Cast and Creative Team Talk Final Episodes, Season 2 and more")
+
+
+[Person Of Interest Cast &amp; Characters and Videos: Person of Interest Cast and Creative Team Talk Final Episodes, Season 2 and more](https://www.thearkatech.com/en/49689/)
+
+
+> © Instagram / person of interest cast By: Hannah Harris2021-05-15 19:15:17 Last News: Videos: Person of Interest Cast and Creative Team Talk Final Episodes, Season 2 and more and Person Of Interest Cast & Characters Scott Melker Talks Trading Strategy and Price Targets. Shrimp and rice cauliflower. Starbucks, Publix and other places loosen mask restrictions for fully vaccinated. The Narrative: Morning Skate Update, One and Done? and You Can Pick Your Friends... Baccalaureate speaker Ruth J.
+
+
+***
+![Peppa Pig episodes: How many seasons of Peppa Pig are there? and Entertainment One to produce new Peppa Pig episodes](https://https://www.thearkatech.com/img/news_img/all/10727_2_1200.pic "Peppa Pig episodes: How many seasons of Peppa Pig are there? and Entertainment One to produce new Peppa Pig episodes")
+
+
+[Peppa Pig episodes: How many seasons of Peppa Pig are there? and Entertainment One to produce new Peppa Pig episodes](https://www.thearkatech.com/en/49688/)
+
+
+> © Instagram / peppa pig episodes Peppa Pig episodes: How many seasons of Peppa Pig are there? and Entertainment One to produce new Peppa Pig episodes Entertainment One to produce new Peppa Pig episodes and Peppa Pig episodes: How many seasons of Peppa Pig are there? Last News: Israel-Palestinian Conflict: Live Updates. Israeli Airstrike Flattens Building, Home To AP And Other Media In Gaza City. Questions and answers from the 'Car Doctor'. Q and A: TikTok artist's colors draw 4.3 million followers.
+
+
+***
+![PEN15 Season 2 Review: Deadly Emotional Accuracy and Pen15 Season 2 News, Release Date, Spoilers](https://https://www.thearkatech.com/img/news_img/all/10726_19_1200.pic "PEN15 Season 2 Review: Deadly Emotional Accuracy and Pen15 Season 2 News, Release Date, Spoilers")
+
+
+[PEN15 Season 2 Review: Deadly Emotional Accuracy and Pen15 Season 2 News, Release Date, Spoilers](https://www.thearkatech.com/en/49687/)
+
+
+> © Instagram / pen15 season 2 PEN15 Season 2 Review: Deadly Emotional Accuracy and Pen15 Season 2 News, Release Date, Spoilers Pen15 Season 2 News, Release Date, Spoilers and PEN15 Season 2 Review: Deadly Emotional Accuracy Last News: Recollections of a Pittsfield kid: Rocked and rolled over by a tank. China lands on Mars in major advance for its space ambitions. Israeli airstrikes in Gaza kill 10, destroy media offices for AP, Al Jazeera. Utah State Men Earn Three Medals on Day 2 of MW Outdoor T&F Championships.
+
+
+***
+![Massive database of fake Amazon reviews exposed](https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/1024/512/Cyber-crime-amazon-2.png?ve=1&tl=1 "Massive database of fake Amazon reviews exposed")
+
+
+[Massive database of fake Amazon reviews exposed](https://www.foxbusiness.com/technology/massive-database-fake-amazon-reviews-exposed)
+
+
+> Buyer beware. A major source of fake Amazon reviews lurks out there.   A server containing direct messages between Amazon vendors and customers who provide fake reviews was discovered by the cybersecurity website SafetyDetectives.Described as an "organized fake reviews scam," the server contains over 13 million records – about 7 GB of data – potentially involving more than 200,000 people in unethical activities, the SafetyDetectives report said.Fakery on Amazon, including not only fake reviews but fake products, is a problem that the retailer is always grappling with.
+
+
+***
+![U.S. joins international effort to curb online extremism](https://images.axios.com/1oqp7NYpoajQeuSvzAP2FyfBzrM=/0x354:5000x3167/1366x768/2021/05/15/1621091934076.jpg "U.S. joins international effort to curb online extremism")
+
+
+[U.S. joins international effort to curb online extremism](https://www.axios.com/us-international-curb-online-extremism-5931bb87-c8ab-42f2-a15a-00f3c8a6c253.html)
+
+
+> The U.S. for the first time attended a summit on Saturday with tech giants and world leaders as part of an international effort to stop extremist violence from proliferating online while also protecting freedom of speech, AP reports.Why it matters: The effort was created by New Zealand Prime Minister Jacinda Ardern and French President Emmanuel Macron in the aftermath of the 2019 Christchurch, New Zealand, shootings and deadly attacks in France that were streamed or shared on social media platforms.
+
+
