@@ -8010,3 +8010,53 @@
 > If I'm running low on HD space but need to reinstall Big Sur ***without data loss,*** is it as simple as booting into Recovery mode, erasing 'Macintosh HD' (but NOT 'Macintosh HD - Data'), and then reinstalling Big Sur from the Recovery menu, or is this wishful thinking? I stupidly let my HD get too full and, of course, I have my first corrupted system in years. Thanks for all feedback. (Posting from my iPad.)
 
 
+***
+![Moon Pic Shot By 16-Year-Old Pune Boy Is Made Of 55,000 Images And 186 GB](https://im.indiatimes.in/content/2021/May/Facebook-Image-21_609a99af6d850.jpg "Moon Pic Shot By 16-Year-Old Pune Boy Is Made Of 55,000 Images And 186 GB")
+
+
+[Moon Pic Shot By 16-Year-Old Pune Boy Is Made Of 55,000 Images And 186 GB](https://www.indiatimes.com/technology/news/moon-pic-16-year-old-pune-boy-has-55000-images-and-186-gb-540282.html)
+
+
+> While browsing through Reddit I stumbled upon an image that has to be one of the most detailed and most beautiful images of the Moon ever captured.  Prathamesh JajuAlso Read: Indian Guy Captured Amazing Pic Of Moon With Entry-Level DSLR, He Explains HowThe image of the moon was captured by one Prathamesh Jaju -- a 16-year-old teenager from Pune, Maharashtra. The image is a result of 55,000 images comprising data of over 186 gigabytes.Jaju in the comments explained how he managed to capture this beautiful image, 'This is my most detailed and clearest shot and my best work of the third quarter Mineral Moon.
+
+
+***
+![I made a visual terminal calculator](https://external-preview.redd.it/KgLrJlfVNUYE5a3ICOWetIWD_XOV3lunhit7tz7-SQ0.jpg?auto=webp&s=3e8847020b996d43d805acc8e45718e0a098474b "I made a visual terminal calculator")
+
+
+[I made a visual terminal calculator](https://www.reddit.com/r/Python/comments/nctm56/i_made_a_visual_terminal_calculator/)
+
+
+> Hello!This is my first post on r/Python, I recently decided that I wanted a calculator in the terminal that works interactively and most importantly: visually displays the equations using Unicode characters!You can find the source code on the GitHub page :)I chose RPN to input the equations. I am pretty proud of this project that is still in its infancy, mostly because I think it has potential for being a tool that I use regularly.
+
+
+***
+![[News Story] Micro plastic air raid](https://img.sbs.co.kr/newimg/news/20210514/201551167_1280.jpg "[News Story] Micro plastic air raid")
+
+
+[[News Story] Micro plastic air raid](https://www.tellerreport.com/tech/2021-05-15-[news-story]-micro-plastic-air-raid.BJf-JkZTdO.html)
+
+
+> The fact that microplastics float in the air was confirmed through an empirical study for the first time in Korea. The Seoul Institute of Health and Environment collected airborne substances in five homes and outdoors in Seoul and Gyeonggi Province. The fact that microplastics float in the air was confirmed through an empirical study for the first time in Korea. The Seoul Institute of Health and Environment collected airborne substances in five homes and outdoors in Seoul and Gyeonggi Province. As a result of analyzing 29 samples of suspended matter in the air, microplastics were detected in all of the samples.
+
+
+***
+![[Soonsal News] Why did the police officers cover the murder case?](https://static.sbsdlab.co.kr/image/thumb_default.png "[Soonsal News] Why did the police officers cover the murder case?")
+
+
+[[Soonsal News] Why did the police officers cover the murder case?](https://www.tellerreport.com/tech/2021-05-15-[soonsal-news]-why-did-the-police-officers-cover-the-murder-case-.r1QKYAxTOd.html)
+
+
+> My 8-year-old daughter, who went to school in the morning, went missing. For 30 years, the police said it was'missing'. Father waited for his daughter for 30 years without changing his home phone number. My 8-year-old daughter, who went to school in the morning, went missing. For 30 years, the police said it was'missing'. Father waited for his daughter for 30 years without changing his home phone number. In fact, I mean the'killed daughter'. The police knew. The body and relics were found, but they were hidden and covered.
+
+
+***
+![Fake COVID-19 vaccination registration apps are stealing users' private information](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/RTXAIOJE__1__0-647x363.png?_ZIbEXTubJZxZ4WDOYsNWsbogtQzVKwu "Fake COVID-19 vaccination registration apps are stealing users' private information")
+
+
+[Fake COVID-19 vaccination registration apps are stealing users' private information](https://www.indiatoday.in/technology/news/story/fake-covid-19-vaccination-registration-apps-are-stealing-users-private-information-downloading-malware-on-phones-1802875-2021-05-15)
+
+
+> If you are planning to book COVID-19 vaccination slot, you will have to be careful of the fake vaccine registration apps that are readily available. The Indian Computer Emergency Response Team (CERT-In) has warned users about the fake apps masquerading as CoWin, which is the official platform for booking COVID vaccination slots or registering for the vaccine. The CERT has reported that the apps are being circulated through viral SMSes.The CERT-in has alerted users about the fake CoWin apps that are sneaking into the phones of users and gaining illegal access to the sensitive information of users.
+
+
