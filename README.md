@@ -8060,3 +8060,50 @@
 > If you are planning to book COVID-19 vaccination slot, you will have to be careful of the fake vaccine registration apps that are readily available. The Indian Computer Emergency Response Team (CERT-In) has warned users about the fake apps masquerading as CoWin, which is the official platform for booking COVID vaccination slots or registering for the vaccine. The CERT has reported that the apps are being circulated through viral SMSes.The CERT-in has alerted users about the fake CoWin apps that are sneaking into the phones of users and gaining illegal access to the sensitive information of users.
 
 
+***
+[About a dozen highly active Clubhouse users, all of them women, say its block feature creates opportunities for abuse, tactical silencing, and intimidation (Will Oremus/The Atlantic)](http://www.techmeme.com/210515/p4#a210515p4)
+
+
+> Will Oremus / The Atlantic: About a dozen highly active Clubhouse users, all of them women, say its block feature creates opportunities for abuse, tactical silencing, and intimidation — On Clubhouse, a black badge was meant to identify trolls. It's become an emblem of the app's dysfunctional moderation system.
+
+
+***
+![Google Chrome will soon load pages faster on Windows, Linux and macOS](https://cdn.mos.cms.futurecdn.net/vwZyw6a7PNwEGfJbHXfYHi-1200-80.jpg "Google Chrome will soon load pages faster on Windows, Linux and macOS")
+
+
+[Google Chrome will soon load pages faster on Windows, Linux and macOS](https://www.techradar.com/news/google-chrome-will-soon-load-pages-faster-on-windows-linux-and-macos)
+
+
+> (Image credit: Monticello / Shutterstock) Google is working on an update for its web browser Chrome that will improve the speeds of clients for Windows, Linux and macOS.As reported by Windows Latest, Google is planning to introduce support for 'back-forward cache' on desktop platforms with Google Chrome 92. The feature, which has long be available on Android, enables instantaneous page loading when users click the 'back' or 'forward' buttons.According to the publication, Google has been testing the feature for almost two years now.
+
+
+***
+![Chelsea vs Leicester live stream: How to watch the FA Cup final online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/chelsea-leicester.jpg "Chelsea vs Leicester live stream: How to watch the FA Cup final online")
+
+
+[Chelsea vs Leicester live stream: How to watch the FA Cup final online](https://www.androidcentral.com/chelsea-leicester-live-stream-fa-cup-final)
+
+
+> As well as fighting it out for a top-four finish in the Premier League, Chelsea and Leicester go head-to-head in the FA Cup final today at Wembley. Don't miss a moment with our Chelsea vs Leicester live stream guide. Source: Android Central After knocking out newly-crowned Premier League winners Man City in the semi-final, Chelsea go into today's final as favorites to snag winners' medals. The Pensioners are appearing in their 16th FA Cup final today with the aim of lifting the trophy for the ninth time.
+
+
+***
+![How to watch Preakness Stakes 2021 online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/preakness-stakes-kate-jones.jpg "How to watch Preakness Stakes 2021 online from anywhere")
+
+
+[How to watch Preakness Stakes 2021 online from anywhere](https://www.androidcentral.com/preakness-stakes-2021-live-stream-how-watch-horse-racing-online-anywhere)
+
+
+> The second leg of the Triple Crown will be held this weekend at Pimlico Race Course in Baltimore, Maryland and we have all the details on how you can watch all of the horse racing at this year's Preakness Stakes on TV or online. The American Triple Crown of horse racing is a three-race series which normally begins with the Kentucky Derby and ends with the Belmont Stakes. Last year though, the Preakness Stakes was the final leg of the Triple Crown due to the pandemic but the race has now returned to its original spot in the series.
+
+
+***
+![Starlink review: broadband dreams fall to Earth](https://external-preview.redd.it/t9f4ypspWEG4MTRTkN32U68xjndmqTX5ZK-t6mv6YZA.jpg?auto=webp&s=f858557d287aadaff050899c522e70cb5ec4b1b3 "Starlink review: broadband dreams fall to Earth")
+
+
+[Starlink review: broadband dreams fall to Earth](https://www.reddit.com/r/technology/comments/ncv3ly/starlink_review_broadband_dreams_fall_to_earth/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
