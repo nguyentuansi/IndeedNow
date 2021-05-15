@@ -8157,3 +8157,53 @@
 > Sarah Tew/CNET Without a doubt, my wife is the main negotiator and deal maker of our household. Before we met, she'd already figured out major life moments like buying a house, hammering out a great deal on a new car and getting the best possible salary offer for a new job. When it came time to gather the best guidance for negotiating with your internet service provider, you'd better believe I asked for her advice."Kindness is key," she said. "Always be friendly and courteous." The person on the other end of the phone (or online chat, as the case may be) is much more likely to work with you if met with decency and patience.
 
 
+***
+![China successfully lands a rover on Mars for the first time](https://icdn.digitaltrends.com/image/digitaltrends/imagej1-50emin88-0max3207-0.jpg "China successfully lands a rover on Mars for the first time")
+
+
+[China successfully lands a rover on Mars for the first time](https://www.digitaltrends.com/news/china-rover-mars-landing/)
+
+
+> A black-and-white image of Mars taken by Tianwen-1. It's the first snapshot from the Chinese craft. China National Space Administration China has become just the third nation to land a spacecraft on the surface of Mars, joining the U.S. and Russia in that achievement. China's Zhurong rover, named after a traditional Chinese fire god, has touched down on the martian surface, the China National Space Administration (CNSA) confirmed on the morning of Saturday, May 15. The rover is part of the Tianwen-1 mission, which consists of an orbiter, a probe, and a lander.
+
+
+***
+![I made a TUI tool to manage projects with a Gantt chart](https://external-preview.redd.it/50gQkTfx7XsTA3w574-RJu1SGSLL8jY3mLNR9dIdFao.jpg?auto=webp&s=7d7516247ee6b06d00f668349ddc12b185e790fa "I made a TUI tool to manage projects with a Gantt chart")
+
+
+[I made a TUI tool to manage projects with a Gantt chart](https://www.reddit.com/r/Python/comments/nczfb9/i_made_a_tui_tool_to_manage_projects_with_a_gantt/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Netanyahu tries to spin destruction of Gaza tunnels into a victory – but it's not over yet](https://www.haaretz.com/polopoly_fs/1.9811375.1621086783!/image/4185450534.jpg_gen/derivatives/headline_1200x630/4185450534.jpg "Netanyahu tries to spin destruction of Gaza tunnels into a victory – but it's not over yet")
+
+
+[Netanyahu tries to spin destruction of Gaza tunnels into a victory – but it's not over yet](https://www.haaretz.com/israel-news/tech-news/.premium-netanyahu-spinning-destruction-of-gaza-tunnels-into-victory-but-it-s-not-over-yet-1.9811362)
+
+
+> After strenuous efforts – Israel has finally found a victory image around which it is possible to construct a justification for a ceasefire to end the fighting in the Gaza Strip. A successful Israel Defense Forces operation in which the elaborately ramified Hamas underground tunnel systems have been damaged is being leveraged in two directions – first, for the Israeli public, in order to convince it that we have won the battle against Hamas; and secondly, vis-à-vis Hamas, so that it will agree to a truce.
+
+
+***
+![IPhone 12 Pro Max A14 Bionic = iPhone 13 Pro Max A14 Bionic ?](https://images.macrumors.com/social/?t=2296255&v=6 "IPhone 12 Pro Max A14 Bionic = iPhone 13 Pro Max A14 Bionic ?")
+
+
+[IPhone 12 Pro Max A14 Bionic = iPhone 13 Pro Max A14 Bionic ?](https://forums.macrumors.com/threads/iphone-12-pro-max-a14-bionic-iphone-13-pro-max-a14-bionic.2296255/)
+
+
+> Question ? Will 2021 be the first year an iPhone shares the same CPU as the previous model ? even if the 13 has a 120hz display I don't want last years hardware is This is a deal breaker for anyone ?
+
+
+***
+![Guy Loses Fake Tooth During Slingshot Ride, Handles It Like A Champ](https://cdn.digg.com/wp-content/uploads/2021/05/15134022/Screen-Shot-2021-05-15-at-9.39.58-AM.jpg "Guy Loses Fake Tooth During Slingshot Ride, Handles It Like A Champ")
+
+
+[Guy Loses Fake Tooth During Slingshot Ride, Handles It Like A Champ](https://digg.com/video/guy-loses-fake-tooth-during-slingshot-ride-handles-it-like-a-champ)
+
+
+> The veteran supermodel is contesting the will of her late husband, Ric Ocasek — and writing herself a splashy new chapter. YOU CAN'T HANDLE THE TOOTH During a ride on the Slingshot, a man suddenly realizes he should have taken his fake tooth out before going on the ride. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. The best microwave technology we have available is curiously the Sharp Carousel Multiple Choice microwave from 1997.
+
+
