@@ -8348,3 +8348,50 @@
 > What we know about Fable 4 on Xbox Series X, or Fable, as it's officially known.
 
 
+***
+[Bitcoin crash latest – Dogecoin price climbs 23 per cent after Elon Musk's Tesla ban sees crypto market take $6bn hit](https://www.thesun.ie/tech/6970269/bitcoin-crash-dogecoin-price-elon-musk-tesla-crypto/)
+
+
+> DOGECOIN is rising after Elon Musk said he was working with the cryptocoin to improve its impact on the the environment, rising 29 per cent on Friday after a midweek dip. It came after stocks plummeted by 17 percent this week, shaving $6.1billion in value from Bitcoin after the tech billionaire banned its use to […]
+
+
+***
+![Blockchain Technology For Beginners](https://external-preview.redd.it/Uz4o1yo8IKt09fN0LnK0CQqawMgk6Fi-5xoNZpEWa2I.jpg?auto=webp&s=097d975c0caf325e55c527e0a8f28b02e663d002 "Blockchain Technology For Beginners")
+
+
+[Blockchain Technology For Beginners](https://www.reddit.com/r/programming/comments/nd981w/blockchain_technology_for_beginners/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![can someone else help me pick wristband size?](https://forums.macrumors.com/attachments/screenshot-2021-05-15-at-22-29-52-png.1775225/ "can someone else help me pick wristband size?")
+
+
+[can someone else help me pick wristband size?](https://forums.macrumors.com/threads/can-someone-else-help-me-pick-wristband-size.2296290/)
+
+
+> Hey folks, We got our first ever Apple Watches today, we got SE models, me 44mm and wife 38mm. Then we went on amazon to pick some wristbands, as the silicon ones are not very much to our liking. But then, we were met with this: I am extra confused now. I have 44, but why is there 42/44mm? Also, it seems the "longer option" that i had in my box, the second longer strap fits me ok, but I can't seem to find the size of original strap inside our boxes for 38 and 44. Has anyone done this before a
+
+
+***
+![can't unlock my Mac with Apple Watch after resetting passwords](https://images.macrumors.com/social/?t=2296289&v=6 "can't unlock my Mac with Apple Watch after resetting passwords")
+
+
+[can't unlock my Mac with Apple Watch after resetting passwords](https://forums.macrumors.com/threads/cant-unlock-my-mac-with-apple-watch-after-resetting-passwords.2296289/)
+
+
+> Dec 26, 2012 57 6 brownsville pa my iPhone and iCloud Keychain advised me my most recent password for my Apple ID was to weak.. I finally broke down and reset it.. after getting my watch, iPhone iPad and Mac all back in sync with the password my Mac then was rejecting my password for it and made me reset it.. upon resetting that and having to enable Touch ID as well because it wiped my fingerprints I now can't get my watch and Mac to communicate to turn the setting back on to unlock my Mac via the watch.
+
+
+***
+![Bitcoin crash latest – Dogecoin price climbs 23 per cent after Elon Musk's Tesla ban sees crypto market take $6bn hit](https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/DOGECOIN-LATEST-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin crash latest – Dogecoin price climbs 23 per cent after Elon Musk's Tesla ban sees crypto market take $6bn hit")
+
+
+[Bitcoin crash latest – Dogecoin price climbs 23 per cent after Elon Musk's Tesla ban sees crypto market take $6bn hit](https://www.the-sun.com/lifestyle/tech/2857977/bitcoin-crash-dogecoin-price-elon-musk-tesla-crypto/)
+
+
+> DOGECOIN is recovering after Elon Musk criticised crypto's environmental impact, rising 29 per cent on Friday after a midweek dip. It came after stocks plummeted by 17 percent this week, shaving $6.1billion in value from Bitcoin after the tech billionaire banned its use to buy Tesla. Musk on Wednesday released a statement saying Tesla would no longer be accepting Bitcoin for purchasing vehicles. According to CoinMarketCap, his tweet also triggered a fall in other currencies such as Dogecoin, which has also been promoted by the Billionaire tech entrepreneur.
+
+
