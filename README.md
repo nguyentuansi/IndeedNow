@@ -8477,3 +8477,50 @@
 > Reggie Ugwu / New York Times: A look at Spotify-exclusive “music and talk” podcasts, which let hosts avoid music licensing fees and fair-use legal fights via free access to Spotify catalog — Music-filled — and Spotify-exclusive — shows like “Black Girl Songbook” and “60 Songs That Explain the '90s” dance around copyright constraints.
 
 
+***
+![Optimise your processes with this stacked project management course](https://mondrian.mashable.com/2021%252F05%252F16%252F3c%252F5a0e97d8c542489c8db22b5d67805ecf.d1aa9.jpg%252F1200x630.jpg?signature=-hBsca-42f3jbANvaHeDFP2mWgo= "Optimise your processes with this stacked project management course")
+
+
+[Optimise your processes with this stacked project management course](https://mashable.com/uk/shopping/may-16-project-manager-essentials-bundle/)
+
+
+> TL;DR: The 2021 Project and Product Manager Essentials Bundle is on sale for £28.43 as of May 16, saving you 97% on list price. Being a project manager is no easy feat. After all, project management involves dealing with different types of people, keeping projects completed on time and within budget, and dealing with the pressure that ultimately, you're responsible for the success and failure of a project. Led by certified scrum masters, entrepreneurs, and seasoned project managers like Paul Ashun and Roelf Woldring, the 2021 Project and Product Manager Essentials Bundle offers hours of content on Agile, Trello, Kanban, JIRA, and Scrum, so you can optimise your processes and propel your team to success.
+
+
+***
+[Commentaires sur Immobilier : 3 Technologies Qui Vont Dessiner L'Avenir Du Secteur par nanaimo canada](https://www.forbes.fr/technologie/immobilier-3-technologies-qui-vont-dessiner-lavenir-du-secteur/#comment-24256)
+
+
+> <strong>nanaimo canada</strong> [...]we came across a cool web-site that you just may well enjoy. Take a search for those who want[...]
+
+
+***
+![Start marketing your own music with this discounted online bundle](https://mondrian.mashable.com/2021%252F05%252F16%252F3b%252F20344795b4d34e64bc3ef2ce52db0d19.f4624.jpg%252F1200x630.jpg?signature=o27UEur37z-VZ1hF8Euv8EGKa9s= "Start marketing your own music with this discounted online bundle")
+
+
+[Start marketing your own music with this discounted online bundle](https://mashable.com/uk/shopping/may-16-music-marketing-master-class-bundle/)
+
+
+> TL;DR: The Music Marketing Master Class Bundle is on sale for £24.88 as of May 16, saving you 97% on list price. If you're spending your increased time at home learning to play an instrument, maybe it's time to take those skills to the next level: writing and marketing your own music. You could just dive in with no formal training, but if you prefer a little instruction before getting down to business, check out this Music Marketing Master Class Bundle. With seven crash courses in songwriting, music production, digital distribution, and more, you'll learn how to launch and promote your own music in just 22 hours.
+
+
+***
+![Service Accounts in K8s (Kubernetes)](https://miro.medium.com/max/1120/1*mx9hOQ2gcNZpwGK-Mr-oNA.png "Service Accounts in K8s (Kubernetes)")
+
+
+[Service Accounts in K8s (Kubernetes)](https://sandeepbaldawa.medium.com/service-accounts-in-k8s-kubernetes-2779ee4fb331)
+
+
+> Just now·3 min readIn this post let's try understandingWhat is a service account in K8sWhy do we need it?Example on the sameK8s applications run in Pods. Pods usually need access to resources from cloud vendors like aws, gcloud, azure, etc.Pods requiring resourcesIsn't this equivalent of what we do in aws world? just create an IAM-Role with policies to talk with aws resources?Well not really…But why? why can't we just use an IAM-Role and move on in life? why add more complexity?Pod's life is not simple 😃, it is ephemeral in nature, it might belong to different namespaces, might come up and down(causing change in properties) etc.
+
+
+***
+![Watch American Netflix from the UK with this high-speed VPN](https://mondrian.mashable.com/2021%252F05%252F16%252F22%252F7a6c9c21519e484a9765f4dff9cfdc76.1b643.jpg%252F1200x630.jpg?signature=_rDy4vzIg85xp0Ar1KEr-LxMrqE= "Watch American Netflix from the UK with this high-speed VPN")
+
+
+[Watch American Netflix from the UK with this high-speed VPN](https://mashable.com/uk/shopping/may-16-best-express-vpn-deal-for-netflix/)
+
+
+> SAVE 49%: A one-year subscription to ExpressVPN is on sale for £4.90 per month as of May 16, and includes an extra three months for free. Do you want to seriously boost your content options without relying on a series of dodgy streams that flood you with unwanted ads and online threats? We have just what you need. VPNs are primarily used as security tools that provide protection for your sensitive information, but there's another reason that these services are so popular: they can unlock streaming sites from around the world.
+
+
