@@ -8565,3 +8565,47 @@
 > Todd Spangler / Variety: NBCU-owned Rotten Tomatoes launches a streaming channel, currently available on The Roku Channel and which will later expand to Peacock and Comcast's Xumo — Rotten Tomatoes is continuing on its quest to grow into something substantially bigger than its Tomatometer movie and TV rating scores.
 
 
+***
+[After launching Android beta in US last week, Clubhouse to roll out the app in Japan, Brazil, and Russia Tuesday, and the rest of the world by Friday afternoon (Manish Singh/TechCrunch)](http://www.techmeme.com/210516/p10#a210516p10)
+
+
+> Manish Singh / TechCrunch: After launching Android beta in US last week, Clubhouse to roll out the app in Japan, Brazil, and Russia Tuesday, and the rest of the world by Friday afternoon — Voice social network Clubhouse said on Sunday it will expand its Android app worldwide in a week, days after launching a beta version …
+
+
+***
+[Clubhouse, which launched its Android app in beta in the US last week, to expand the app to Japan, Brazil, and Russia on Tuesday, and globally by Friday (Manish Singh/TechCrunch)](http://www.techmeme.com/210516/p10#a210516p10)
+
+
+> Manish Singh / TechCrunch: Clubhouse, which launched its Android app in beta in the US last week, to expand the app to Japan, Brazil, and Russia on Tuesday, and globally by Friday — Voice social network Clubhouse said on Sunday it will expand its Android app worldwide in a week, days after launching a beta version …
+
+
+***
+![Liverpool Goalkeeper Comes Up For The Corner And Heads In A Last Second Winner](https://cdn.digg.com/wp-content/uploads/2021/05/16174602/Screen-Shot-2021-05-16-at-1.35.21-PM.png "Liverpool Goalkeeper Comes Up For The Corner And Heads In A Last Second Winner")
+
+
+[Liverpool Goalkeeper Comes Up For The Corner And Heads In A Last Second Winner](https://digg.com/2021/liverpool-goalkeeper-comes-up-for-the-corner-and-heads-in-a-last-second-winner)
+
+
+> Biden is placing a premium on nominating a diverse range of judicial nominees, and confirming them quickly with the help of the Senate. This empty hand versus spear set from Xiao Long Wu and Long Long Shi was given an impressive 9.73. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. In the dying seconds of the game, Liverpool FC's Brazilian goalkeeper Alisson headed in a goal to secure his team three points.
+
+
+***
+![Builder Design Pattern: Explanation and Code in both Python and Java](https://external-preview.redd.it/u7uaG0vXhFVDRYw3yRfrzpLrKdmcrBKidjJlpKxxU08.jpg?auto=webp&s=e22be9024730b5f02fec5f36553d83ee3cd34345 "Builder Design Pattern: Explanation and Code in both Python and Java")
+
+
+[Builder Design Pattern: Explanation and Code in both Python and Java](https://www.reddit.com/r/programming/comments/ndtnho/builder_design_pattern_explanation_and_code_in/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Bite Size Data Science: monthly educational and inspirational data science in Python!](https://external-preview.redd.it/lYcj5JZ8W8cibyg2pHdV4Y0GTB5FgW6Bi3iPOYr2JRM.jpg?auto=webp&s=c06be997ae762b0c7621c86f681dfb9362ab50dc "Bite Size Data Science: monthly educational and inspirational data science in Python!")
+
+
+[Bite Size Data Science: monthly educational and inspirational data science in Python!](https://www.reddit.com/r/Python/comments/ndtkuc/bite_size_data_science_monthly_educational_and/)
+
+
+> On Bite Size Data Science (a Patreon site) you will find monthly educational and inspirational Jupyter notebooks using Python, with exercises (and solution scripts), and you also support open source software (through NumFOCUS)! Upcoming topics are: - Declarative and Interactive plotting - Dissecting decision trees - Beyond just recognizing hand-written digits - Function inception and magic - Why logistic regression is a linear model - Pipelines to automate your workflow - What to put in your BAG
+
+
