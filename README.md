@@ -8609,3 +8609,53 @@
 > On Bite Size Data Science (a Patreon site) you will find monthly educational and inspirational Jupyter notebooks using Python, with exercises (and solution scripts), and you also support open source software (through NumFOCUS)! Upcoming topics are: - Declarative and Interactive plotting - Dissecting decision trees - Beyond just recognizing hand-written digits - Function inception and magic - Why logistic regression is a linear model - Pipelines to automate your workflow - What to put in your BAG
 
 
+***
+![The XPS 13 gets $750 slashed off price in fantastic deal from Dell](https://cdn.mos.cms.futurecdn.net/Pj4bdX9XxMSP5HLmGukhej-1200-80.jpg "The XPS 13 gets $750 slashed off price in fantastic deal from Dell")
+
+
+[The XPS 13 gets $750 slashed off price in fantastic deal from Dell](https://www.techradar.com/news/the-xps13-gets-750-slashed-off-price-in-fantastic-deal-from-dell)
+
+
+> (Image credit: Future) Upgrade your machine and save money thanks to this fantastic deal from Dell. Right now, you can get the XPS 13 laptop on sale for $949.99 (was $1,699.99). That's a massive $750 discount and an incredible price for Dell's powerful 13-inch Touch laptop.Dell XPS 13 Touch: $1,699.99 $949.99 at Dell Save $750 - Dell has the powerful XPS 13 Touch laptop on sale for just $899.99. This laptop features a 13-inch InfinityEdge Touch display, 8GB of RAM, 256GB of storage, and a 10th Generation Intel Core i5 processor.
+
+
+***
+![Anime2Sketch Demo: Transform Anime Images to Manga](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Anime2Sketch Demo: Transform Anime Images to Manga")
+
+
+[Anime2Sketch Demo: Transform Anime Images to Manga](https://www.reddit.com/r/Python/comments/ndw8bk/anime2sketch_demo_transform_anime_images_to_manga/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Upgraded Mid 2011 iMac memory to 32gig. Won't open Pro Tools](https://images.macrumors.com/social/?t=2296389&v=6 "Upgraded Mid 2011 iMac memory to 32gig. Won't open Pro Tools")
+
+
+[Upgraded Mid 2011 iMac memory to 32gig. Won't open Pro Tools](https://forums.macrumors.com/threads/upgraded-mid-2011-imac-memory-to-32gig-wont-open-pro-tools.2296389/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I just recently upgraded the memory in my mid 2011 iMac with an i5 processor to 32gig. I'm running High Sierra 10.13.6. After the upgraded I downloaded Focusrite Control and Pro Tools 2020.12. Neither one of these programs will open. I moved the Pro Tools folder out of the documents folder and still it will not open.
+
+
+***
+![I made a Table in ReactJS w/ resizable and movable columns](https://external-preview.redd.it/j4ETR1iutEpXX0AbZJP2CmfcXZM16twHZhbkbE7uBfc.jpg?auto=webp&s=30f38e98e0671803592bd341218a904bd7eab0e3 "I made a Table in ReactJS w/ resizable and movable columns")
+
+
+[I made a Table in ReactJS w/ resizable and movable columns](https://www.reddit.com/r/programming/comments/ndvxpz/i_made_a_table_in_reactjs_w_resizable_and_movable/)
+
+
+> Table's Features[x] Header value change callback[x] Resize column width (+ callback)[x] Change column position (+ callback)[x] Cell Lock / Unlock - When you want to lock a user from typing to a field due to another user accessing that same field at the same time[x] Cell input[x] Cell input change callback[x] Cell focus / blur callbackImportant DependenciesReact DnD - For header drag & dropReact DnD HTML5 BackendReplaceableLodash - Used for finding indexes and matching headers and records with he
+
+
+***
+![The best smart blinds for 2021](https://icdn.digitaltrends.com/image/digitaltrends/scandi-style-apartment-kitchen.jpg "The best smart blinds for 2021")
+
+
+[The best smart blinds for 2021](https://www.digitaltrends.com/home/best-smart-blinds/)
+
+
+> Smart shades may not be the first smart product we think of when envisioning automation for the home, but they're one of the most innovative. Having blinds that raise and lower with voice commands or on a set schedule is one of the best ways to create the illusion of people being home, even if you're away. Smart blinds are also an effective way to save on your energy bill. Let in more light, keep the heat turned down, and let the sun save you some dough. We've put together a list of some of our favorite smart blinds, from simple do-it-yourself innovations to flagship offerings from some of the leading shade makers.
+
+
