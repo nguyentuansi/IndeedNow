@@ -8524,3 +8524,44 @@
 > SAVE 49%: A one-year subscription to ExpressVPN is on sale for £4.90 per month as of May 16, and includes an extra three months for free. Do you want to seriously boost your content options without relying on a series of dodgy streams that flood you with unwanted ads and online threats? We have just what you need. VPNs are primarily used as security tools that provide protection for your sensitive information, but there's another reason that these services are so popular: they can unlock streaming sites from around the world.
 
 
+***
+[An examination of Chamath Palihapitiya-sponsored SPACs, including Clover Health, which have plunged 50% on average after the SPAC market hit its peak in mid-Feb (Zeke Faux/Bloomberg)](http://www.techmeme.com/210516/p4#a210516p4)
+
+
+> Zeke Faux / Bloomberg: An examination of Chamath Palihapitiya-sponsored SPACs, including Clover Health, which have plunged 50% on average after the SPAC market hit its peak in mid-Feb — One morning last October, as wildfires raged across Northern California, President Donald Trump convalesced from Covid‑ …
+
+
+***
+![The FTC says customers should have the right to repair their devices](https://external-preview.redd.it/97_AyDgFFNa6CSMTkjlo2dIkYSwqsBchSYDUX6rbG-o.jpg?auto=webp&s=c4c4743e55cc1411f48bfe27e2f6aa07b6767d74 "The FTC says customers should have the right to repair their devices")
+
+
+[The FTC says customers should have the right to repair their devices](https://www.reddit.com/r/technology/comments/ndhoyp/the_ftc_says_customers_should_have_the_right_to/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Working on GUI pygame](https://www.reddit.com/r/Python/comments/ndhgcz/working_on_gui_pygame/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Anamorphisms aka Unfolds Explained](https://external-preview.redd.it/lGP6JQnq8mIOF_w-sruGH_CyNu_fiBZRCRiKLLjyQCY.jpg?auto=webp&s=ac18b3e3bd751ced7e0870273f25b064d43f3bed "Anamorphisms aka Unfolds Explained")
+
+
+[Anamorphisms aka Unfolds Explained](https://www.reddit.com/r/programming/comments/ndhez0/anamorphisms_aka_unfolds_explained/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[NBCU-owned Rotten Tomatoes launches a streaming channel, currently available on The Roku Channel and which will later expand to Peacock and Comcast's Xumo (Todd Spangler/Variety)](http://www.techmeme.com/210516/p3#a210516p3)
+
+
+> Todd Spangler / Variety: NBCU-owned Rotten Tomatoes launches a streaming channel, currently available on The Roku Channel and which will later expand to Peacock and Comcast's Xumo — Rotten Tomatoes is continuing on its quest to grow into something substantially bigger than its Tomatometer movie and TV rating scores.
+
+
