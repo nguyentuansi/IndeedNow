@@ -8439,3 +8439,41 @@
 > DOGECOIN is rising after Elon Musk said he was working with the cryptocoin to improve its impact on the the environment, rising 29 per cent on Friday after a midweek dip. It came after stocks plummeted by 17 percent last week, shaving $6.1billion in value from Bitcoin after the tech billionaire banned its use to buy Tesla. Musk on Wednesday released a statement saying Tesla would no longer be accepting Bitcoin for purchasing vehicles. But Dogecoin jumped more than 20% on Friday after the billionaire SpaceX founder said he was involved in work to improve the token's transaction efficiency.
 
 
+***
+[Tech Talk: Top 5 stylish and affordable smartwatches you need to check out now!](https://www.freepressjournal.in/weekend/tech-talk-top-5-stylish-and-affordable-smartwatches-you-need-to-check-out-now)
+
+
+> No body in the article.
+
+
+***
+![I made a wrapper for the Tiingo Financial Markets API](https://external-preview.redd.it/Oe8KSAwkc_Zbf3gBvGPp3SFXufeYuSZ-5y5wIk7uIAw.jpg?auto=webp&s=2bab0044a419dd99625976c565decefc88357297 "I made a wrapper for the Tiingo Financial Markets API")
+
+
+[I made a wrapper for the Tiingo Financial Markets API](https://www.reddit.com/r/Python/comments/nddzei/i_made_a_wrapper_for_the_tiingo_financial_markets/)
+
+
+> Hey everyone,I created a Python SDK for the Tiingo Financial Markets API. It supports interfacing with the REST Endpoints of Tiingo's API and outputs data in JSON and Pandas formats. I'll be adding Websocket support as well in the very near future.Please star and give it a try at https://github.com/philipk19238/pytiingoRegarding Tiingo, I wholeheartedly believe that it is one of the best options for obtaining financial data. I have no connections to the firm but here are what I believe to be its strongest value propositions:Very generous free tier (500 requests per hour, 20,00 requests per day)Historical & Real-time data for equities, cryptocurrencies, and currenciesWebsocket access to firehose data, can stream live data that update by the nanosecondAccuracy - they have a propriety error checking frameworkGive it a try at https://api.
+
+
+***
+[One key to rule them all: Recovering the master key from RAM to break Android's file-based encryption](https://www.reddit.com/r/programming/comments/nddw56/one_key_to_rule_them_all_recovering_the_master/)
+
+
+> See Also: http://old.reddit.com/r/cobol/comments/nc6tbe/inside_the_hidden_world_of_legacy_it_systems_how
+
+
+***
+[How to create an unattended exe file](https://www.reddit.com/r/Python/comments/nddi50/how_to_create_an_unattended_exe_file/)
+
+
+> I 'm looking for a simple way to write a script file (or comparable setup) to auto-select options during an install. The idea is to create a "ready-to-run" installation file for end users to prevent confusion.Any ideas?---As an example:I have CorelDraw 2021 complete package with .exe as the installer. It has several modifications needed (User name, serial number input, eula checkbox etc.). What would be used to auto select the proper options for end users? Like just run setup take a dog for a walk and everything is done on it's own.
+
+
+***
+[A look at Spotify-exclusive "music and talk" podcasts, which let hosts avoid music licensing fees and fair-use legal fights via free access to Spotify catalog (Reggie Ugwu/New York Times)](http://www.techmeme.com/210515/p12#a210515p12)
+
+
+> Reggie Ugwu / New York Times: A look at Spotify-exclusive “music and talk” podcasts, which let hosts avoid music licensing fees and fair-use legal fights via free access to Spotify catalog — Music-filled — and Spotify-exclusive — shows like “Black Girl Songbook” and “60 Songs That Explain the '90s” dance around copyright constraints.
+
+
