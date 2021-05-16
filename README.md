@@ -8659,3 +8659,53 @@
 > Smart shades may not be the first smart product we think of when envisioning automation for the home, but they're one of the most innovative. Having blinds that raise and lower with voice commands or on a set schedule is one of the best ways to create the illusion of people being home, even if you're away. Smart blinds are also an effective way to save on your energy bill. Let in more light, keep the heat turned down, and let the sun save you some dough. We've put together a list of some of our favorite smart blinds, from simple do-it-yourself innovations to flagship offerings from some of the leading shade makers.
 
 
+***
+![Joe Biden's Secret Venmo Account Easily Found, Raising Security Concerns](https://media.breitbart.com/media/2021/04/Joe-Biden-CDC-Mask-Guidelines-640x335.jpg "Joe Biden's Secret Venmo Account Easily Found, Raising Security Concerns")
+
+
+[Joe Biden's Secret Venmo Account Easily Found, Raising Security Concerns](https://www.breitbart.com/tech/2021/05/16/joe-bidens-secret-venmo-account-easily-found-raising-security-concerns/)
+
+
+> President Joe Biden has a secret account — which was easily found — on the peer-to-peer payments app Venmo, raising concerns about privacy and security. Biden's Venmo account was found on Friday, 'after less than 10 minutes of looking for it,' according to a report by BuzzFeed News. In the process of finding the president's Venmo account, BuzzFeed also found the accounts for nearly a dozen Biden family members, including the president's children, and grandchildren, as well as senior White House officials, and all of their contacts on Venmo.
+
+
+***
+![Northern Michigan U.: Students Can Ditch Masks if They Show Proof of Vaccination](https://media.breitbart.com/media/2021/04/Pfizer-coronavirus-vaccine-covid19-getty-images-640x335.jpg "Northern Michigan U.: Students Can Ditch Masks if They Show Proof of Vaccination")
+
+
+[Northern Michigan U.: Students Can Ditch Masks if They Show Proof of Vaccination](https://www.breitbart.com/tech/2021/05/16/northern-michigan-u-students-can-ditch-masks-if-they-show-proof-of-vaccination/)
+
+
+> Northern Michigan University officials say students and staff are allowed to go maskless, but only after they provide proof that they have been vaccinated against the Chinese coronavirus. Northern Michigan University students and staff can take off their masks and stop 'social distancing' after Michigan gives the okay, but only if they can prove — through an app — to the school's Health Center that they have been fully vaccinated, according to a report by WNMU-FM. The decision comes after the Centers for Disease Control and Prevention (CDC) announced it is lifting indoor and outdoor mask requirements — as well as social distancing requirements — for people who are fully vaccinated.
+
+
+***
+![Bitcoin price lower after Musk tweet](https://www.reuters.com/resizer/IOmQAf3Dc_yy6g7C1MgdSeWQ6SI=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/F3OT6OZ3M5JD3EAIHR2U6JKXMM.jpg "Bitcoin price lower after Musk tweet")
+
+
+[Bitcoin price lower after Musk tweet](https://www.reuters.com/technology/bitcoin-price-lower-after-musk-tweet-2021-05-16/)
+
+
+> A representation of virtual currency Bitcoin is seen in front of a stock graph in this illustration taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File PhotoThe price of Bitcoin traded below $45,000 on Sunday after a tweet by Tesla CEO Elon Musk, an outspoken supporter of cryptocurrency, suggested Tesla may be considering or may have sold off its bitcoin holdings.Musk's tweet was in response to an unverified Twitter account called @CryptoWhale, which said, "Bitcoiners are going to slap themselves next quarter when they find out Tesla dumped the rest of their #Bitcoin holdings.
+
+
+***
+![How to reset your AirPods](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F127630%252Fb066dab1-0965-4236-86ec-7789b80bdd44.jpg%252F640x360.jpg?signature=2YHW1ZhxrgogVOVWrhpY1HL7mxQ=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "How to reset your AirPods")
+
+
+[How to reset your AirPods](https://mashable.com/article/how-to-reset-airpods/)
+
+
+> When your tech isn't working right, the age-old solution is to turn it off and turn it back on. Usually that's pretty straightforward: Hit the power button. But AirPods' general lack of buttons makes this process feel more complicated than it is. Lucky for you, we know exactly how to accomplish it for the next time your pods won't connect, won't charge correctly, or are generally acting wonky.  Step 1: Put your AirPods in their case. The only button on the whole setup (which, spoiler, we will press) is on the case, so make sure the pods are nestled safely inside before continuing.
+
+
+***
+![URL shorteners are so last year, so I made a URL lengthener](https://external-preview.redd.it/eDcxc4tFAdL7SiAY4O8I_fjB4tnMfhgXU6fSm7sDOVk.jpg?auto=webp&s=5f17a9a922c45e9f4b4b5789d219d15e73f4c2a6 "URL shorteners are so last year, so I made a URL lengthener")
+
+
+[URL shorteners are so last year, so I made a URL lengthener](https://www.reddit.com/r/programming/comments/ndyp0s/url_shorteners_are_so_last_year_so_i_made_a_url/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
