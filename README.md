@@ -8395,3 +8395,47 @@
 > DOGECOIN is recovering after Elon Musk criticised crypto's environmental impact, rising 29 per cent on Friday after a midweek dip. It came after stocks plummeted by 17 percent this week, shaving $6.1billion in value from Bitcoin after the tech billionaire banned its use to buy Tesla. Musk on Wednesday released a statement saying Tesla would no longer be accepting Bitcoin for purchasing vehicles. According to CoinMarketCap, his tweet also triggered a fall in other currencies such as Dogecoin, which has also been promoted by the Billionaire tech entrepreneur.
 
 
+***
+![U.S. Apple Stores keep mask mandate despite CDC's new ruling](https://m-cdn.phonearena.com/images/article/132139-wide-two_1200/U.S.-Apple-Stores-keep-mask-mandate-despite-CDCs-new-ruling.jpg "U.S. Apple Stores keep mask mandate despite CDC's new ruling")
+
+
+[U.S. Apple Stores keep mask mandate despite CDC's new ruling](https://www.phonearena.com/news/apple-keeps-mask-mandate-for-us-stores_id132139)
+
+
+> One by one some of the most popular retail chains in the U.S. have been dropping their mask mandates over the last couple of days. Trader Joe's, Costco, Sam's Club, Walmart and Publix are some of the companies that no longer demand that employees and customers wear face masks inside their stores. In case you're wondering, Bloomberg reports that Apple's mask mandate for U.S. Apple Stores remains in place along with other rules and procedures related to COVID-19.Noting that its first priority is to the health of employees and consumers, Apple informed its retail staff of its decision not to change its policies yesterday after the Center for Disease Control (CDC) said that people who have been fully vaccinated against the COVID-19 virus no longer need to wear a mask in most public places.
+
+
+***
+[Dont Use Inline Assembly](https://www.reddit.com/r/programming/comments/ndc93p/dont_use_inline_assembly/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![passing the 65535 parameter limit in postgres, for those bulk data use cases](https://external-preview.redd.it/A3qD7c5xvgVbss0wXbMQq-VpbP5N4eeVQMhw6rAhOO4.jpg?auto=webp&s=ecf68ed965a3c1976c2a3a5c965477b9fa6ec113 "passing the 65535 parameter limit in postgres, for those bulk data use cases")
+
+
+[passing the 65535 parameter limit in postgres, for those bulk data use cases](https://www.reddit.com/r/programming/comments/ndbzv5/passing_the_65535_parameter_limit_in_postgres_for/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[[D] Feedback for the first edition of The Gradient's newsletter](https://www.reddit.com/r/MachineLearning/comments/ndbzgm/d_feedback_for_the_first_edition_of_the_gradients/)
+
+
+> Hi there. I am one of the editors from The Gradient, which I think (or hope) many on here have seen and like. Having been around for more than 3 years now, we've decided to branch out beyond what we've been doing and just released the first edition of our newsletter, The Update.Though admittedly I am making this post partially to promote it, since it's the very first one I also really want to ask for your opinions on the format/length/content of it and whether you find it compelling. We discussed how to create something we thought was different from other newsletters out there and actually interesting/worth reading, but it's hard to tell if what we came up with is actually good.
+
+
+***
+![Bitcoin crash latest – Dogecoin price climbs 23 per cent after Elon Musk's Tesla ban sees crypto market take $6bn hit](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/05/DOGECOIN-LATEST-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin crash latest – Dogecoin price climbs 23 per cent after Elon Musk's Tesla ban sees crypto market take $6bn hit")
+
+
+[Bitcoin crash latest – Dogecoin price climbs 23 per cent after Elon Musk's Tesla ban sees crypto market take $6bn hit](https://www.thesun.co.uk/tech/14905928/bitcoin-price-shiba-inu-ethereum-cryptocurrency-dogecoin-elon-musk/)
+
+
+> DOGECOIN is rising after Elon Musk said he was working with the cryptocoin to improve its impact on the the environment, rising 29 per cent on Friday after a midweek dip. It came after stocks plummeted by 17 percent last week, shaving $6.1billion in value from Bitcoin after the tech billionaire banned its use to buy Tesla. Musk on Wednesday released a statement saying Tesla would no longer be accepting Bitcoin for purchasing vehicles. But Dogecoin jumped more than 20% on Friday after the billionaire SpaceX founder said he was involved in work to improve the token's transaction efficiency.
+
+
