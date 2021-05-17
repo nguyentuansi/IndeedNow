@@ -8947,3 +8947,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[Anyone like join me in learning python](https://www.reddit.com/r/Python/comments/nec7r8/anyone_like_join_me_in_learning_python/)
+
+
+> Hy, Iam kind of a beginner in python. I have been studying it for like 4 months but didn't really have much progress. So I thought that if there any others like me, then we can learn together and that might help learn fast. Iam currently studying data structures in python. If there is anyone out there interested, DM.
+
+
+***
+![Experts see new roles for artificial intelligence in college admissions process](https://thehill.com/sites/default/files/colleges04122021.jpg "Experts see new roles for artificial intelligence in college admissions process")
+
+
+[Experts see new roles for artificial intelligence in college admissions process](https://thehill.com/policy/technology/553632-experts-see-new-roles-for-artificial-intelligence-in-college-admissions)
+
+
+> This story is from The Hill's Changing America publication.The job of a college admissions officer is not an easy one. For any competitive higher learning institution, the admissions process used to hand-pick each incoming student has also come under increasing scrutiny in recent years.To ensure the ongoing success of an institution, admissions officers are tasked with the nearly impossible task of efficiently evaluating thousands of applications each school year, with the expectation that their choices will reflect the institution's standards, grow diversity and inspire enough students to enroll.
+
+
+***
+![IRIS Software Group and Western Union Partner to serve Global Payroll & Payments Worldwide](https://mms.businesswire.com/media/20210517005030/en/694526/23/28427862_WU_Logo_BlackBox_RGB.jpg "IRIS Software Group and Western Union Partner to serve Global Payroll & Payments Worldwide")
+
+
+[IRIS Software Group and Western Union Partner to serve Global Payroll & Payments Worldwide](https://www.businesswire.com/news/home/20210517005030/en/IRIS-Software-Group-and-Western-Union-Partner-to-serve-Global-Payroll-Payments-Worldwide)
+
+
+> May 17, 2021 06:00 AM Eastern Daylight Time DENVER--(BUSINESS WIRE)--IRIS Software Group, one of the UK's largest software companies, and Western Union Business Solutions, the payments arm of the Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced a five-year international partnership to offer simplified payroll and payments solutions worldwide. This partnership will serve the growing demand for world class, cross-border payroll and currency payments for organizations with a global workforce.
+
+
+***
+![Poco M3 Pro 5G's battery, display and other specifications revealed ahead of May 19 launch](https://images.indianexpress.com/2021/05/Poco_M3Pro_1.jpg "Poco M3 Pro 5G's battery, display and other specifications revealed ahead of May 19 launch")
+
+
+[Poco M3 Pro 5G's battery, display and other specifications revealed ahead of May 19 launch](https://indianexpress.com/article/technology/mobile-tabs/poco-m3-pro-5gs-battery-display-and-other-specifications-revealed-ahead-of-may-19-launch-7318641/)
+
+
+> Poco is launching its M3 Pro 5G version in a global event on May 19, and nearly all key specifications of the phone have been confirmed ahead of the event. The Poco M3 Pro 5G will have 6.5-inch full HD+ display with 90 Hz refresh rate, a 5000 mAh battery, MediaTek Dimensity 700 processor and 48MP triple camera at the back. The specifications were posted on Twitter by the official Poco global handle.  Here's a look at all confirmed specifications of the upcoming phone. Poco M3 Pro 5G: Specifications Poco M3 Pro 5G will sport a 6.
+
+
+***
+![Call of Duty bans half a MILLION players from Warzone in major crackdown on ‘cheaters'](https://www.thesun.co.uk/wp-content/uploads/2021/05/7B8B2C43-1BCC-4673-ADA3-CA196928CA19.jpeg?strip=all&quality=100&w=1200&h=800&crop=1 "Call of Duty bans half a MILLION players from Warzone in major crackdown on ‘cheaters'")
+
+
+[Call of Duty bans half a MILLION players from Warzone in major crackdown on ‘cheaters'](https://www.thesun.co.uk/tech/14978250/call-of-duty-warzone-cheats-cheating-banned-may-2021/)
+
+
+> MORE than half a million Call of Duty players have now been banned. It comes after a further 30,000 gamers were permanently blocked from Warzone for 'cheating' in various ways. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news Call of Duty is banning huge numbers of players from WarzoneCredit: Activision In a statement, game-maker Raven Software said: 'Banned over 30,000 malicious accounts across Call of Duty yesterday. 'Bringing us to over half a million accounts banned in Warzone.
+
+
