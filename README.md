@@ -8759,3 +8759,47 @@
 > © Instagram / pipe dream By: Christopher Taylor2021-05-17 03:07:59 Last News: WWE WrestleMania Backlash live results and analysis. Berry continues her push for Olympics and racial equality. 2021 MTV Movie and TV Awards winners list: Golden popcorn winners in every category [UPDATING LIVE]. Women in Poultry: Safaa Melhem Alam. Indians vs. Mariners. Tim Johnston reminisces after 38 years in educational athletics. White Sox following José Abreu's MVP lead in World Series quest. Cat adoption events allow people to get free cuddles.
 
 
+***
+[Bill Gates faces conduct accusations while navigating divorce](https://ktvz.com/lifestyle/technology/2021/05/16/bill-gates-faces-conduct-accusations-while-navigating-divorce/)
+
+
+> Bill Gates's 2020 resignation from Microsoft's board of directors came after the board hired a law firm to investigate a romantic relationship he had with a Microsoft employee, according to new reporting from the Wall Street Journal. Citing 'people familiar with the matter,' the Journal reported Sunday that a Microsoft engineer had 'alleged in a letter that she had a sexual relationship over years with Mr. Gates.' 'During the probe, some board members decided it was no longer suitable for Mr. Gates to sit as a director at the software company he started and led for decades,' the Journal reported.
+
+
+***
+![Bill Gates faces conduct accusations while navigating divorce](https://cdn.cnn.com/cnnnext/dam/assets/210516200718-bill-gates-2018-file-super-tease.jpg "Bill Gates faces conduct accusations while navigating divorce")
+
+
+[Bill Gates faces conduct accusations while navigating divorce](https://www.cnn.com/2021/05/16/tech/bill-gates-allegations/index.html)
+
+
+> Citing "people familiar with the matter," the Journal reported Sunday that a Microsoft engineer had "alleged in a letter that she had a sexual relationship over years with Mr. Gates.""During the probe, some board members decided it was no longer suitable for Mr. Gates to sit as a director at the software company he started and led for decades," the Journal reported. "Mr. Gates resigned before the board's investigation was completed."The employee was not named in the Journal's article. CNN has not confirmed the allegations cited by the Journal.
+
+
+***
+![New cheap Chinese SUV tested](https://content.api.news/v3/images/bin/1b11612d4cf276e0dfbbdcfe87296fdb "New cheap Chinese SUV tested")
+
+
+[New cheap Chinese SUV tested](https://www.news.com.au/technology/motoring/new-cars/2021-haval-h6-lux-reveal-good-looks-and-value-are-tempting/news-story/9fed6d70606d71d026780bb11389312e)
+
+
+> The latest SUV from an emerging Chinese brand has hit Aussie roads. It has good looks and very attractive price tag, we find out if its worth a look.Chinese car brands are on the rise in Australia, and Haval is fast becoming a common sight on our roads.Haval is the SUV brand of parent company Great Wall Motors, and it has just launched the new H6 mid-size SUV.Prices for the three-tier H6 range start at $30,990 drive-away for the two-wheel drive Premium grade.This is about $8000 cheaper than entry-level versions of the Toyota RAV4 and new Hyundai Tucson.
+
+
+***
+[US lawmakers say they are crafting bipartisan legislation to mandate cyberattack reporting by key infrastructure operators, following the Colonial pipeline hack (Politico)](http://www.techmeme.com/210516/p16#a210516p16)
+
+
+> Politico: US lawmakers say they are crafting bipartisan legislation to mandate cyberattack reporting by key infrastructure operators, following the Colonial pipeline hack — The Colonial Pipeline cyberattack, which led to hoarding and fuel shortages across the East Coast, is spurring new efforts …
+
+
+***
+![Praxonomy Selected by the FinTech Association of Hong Kong to Digitise Board Meetings and Governance](https://mms.businesswire.com/media/20210516005039/en/878506/23/Boardfolio_by_Praxonomy.jpg "Praxonomy Selected by the FinTech Association of Hong Kong to Digitise Board Meetings and Governance")
+
+
+[Praxonomy Selected by the FinTech Association of Hong Kong to Digitise Board Meetings and Governance](https://www.businesswire.com/news/home/20210516005039/en/Praxonomy-Selected-by-the-FinTech-Association-of-Hong-Kong-to-Digitise-Board-Meetings-and-Governance)
+
+
+> May 16, 2021 10:00 PM Eastern Daylight Time HONG KONG--(BUSINESS WIRE)--Praxonomy announced today that it has been chosen by the FinTech Association of Hong Kong (FTAHK), an independent, not-for-profit, membership-based organisation that has become the voice and champion of Hong Kong's local and global FinTech community, to reduce board meeting inefficiencies, enhance board communications, and improve their overall corporate governance practices with the implementation of its board management solution, Boardfolio.
+
+
