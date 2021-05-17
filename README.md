@@ -9141,3 +9141,50 @@
 > © Instagram / escape at dannemora By: Isabella Smith2021-05-17 19:12:04 Last News: Migraine and Ringing in the Ears: Causes, Treatments, and More. Heat Rash On Face: Symptoms, Treatments, and Home Remedies. Venable LLP attorneys Burnley and Wagner provide overview on transportation infrastructure outlook. Ohio, NASA teaming up to test drones for ‘personal travel and delivery of goods'. Top in cardiology: Hostility at work, FDA warning on cell phones and cardiac devices. Shipton '22 earns women's track and field all-NESCAC honors.
 
 
+***
+![Rocket Lab recovered the first stage from its failed May 15 launch, a silver lining for its reusability program – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/11/rocket-lab-recovery-2.jpg?w=504 "Rocket Lab recovered the first stage from its failed May 15 launch, a silver lining for its reusability program – TechCrunch")
+
+
+[Rocket Lab recovered the first stage from its failed May 15 launch, a silver lining for its reusability program – TechCrunch](https://techcrunch.com/2021/05/17/rocket-lab-recovered-the-first-stage-from-its-failed-may-15-launch-a-silver-lining-for-its-reusability-program/)
+
+
+> Rocket Lab may have experienced mission failure and total payload loss during the company's 20th planned mission on May 15, but it wasn't all bad news, the company said in an update Monday. Importantly, the Electron rocket's first stage – which contain nine Rutherford engines – performed as designed and did not contribute to the flight failure. Rocket Lab further said the first stage completed a successful ocean splashdown using a parachute and that the company was able to retrieve it, and bring it back to its production complex.
+
+
+***
+[Apple confirms that the Bluetooth AAC codec used by AirPods Pro and AirPods Max does not support Apple Music's new lossless streaming (Juli Clover/MacRumors)](http://www.techmeme.com/210517/p25#a210517p25)
+
+
+> Juli Clover / MacRumors: Apple confirms that the Bluetooth AAC codec used by AirPods Pro and AirPods Max does not support Apple Music's new lossless streaming — Apple today announced that starting in June, Apple Music songs will be available to stream in Lossless and Hi-Resolution Lossless formats …
+
+
+***
+![Apple Music will upgrade your audio at no extra cost, with some caveats](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/apple-music-lossless.jpg "Apple Music will upgrade your audio at no extra cost, with some caveats")
+
+
+[Apple Music will upgrade your audio at no extra cost, with some caveats](https://www.androidcentral.com/apple-music-hi-fi-lossless-dolby-atmos-spatial-audio-announcement)
+
+
+> Source: Apple Apple Music is introducing new lossless music tiers for Hi-Fi audio. Support for Dolby Atmos and spatial audio is also included in the upcoming update, exclusive to Apple devices. The new features will arrive in June at no extra cost to Apple Music subscribers. Following last week's leak of Apple's upcoming "Lossless" audio tier, the company has officially announced that Hi-Fi audio is coming to over 75 million Apple Music tracks next month. The new Lossless audio tier will be available to Apple Music subscribers at no additional cost, giving them access to up to 24-bit audio at 48kHz using Apple's ALAC codec.
+
+
+***
+![Humble Book Bundle: Learn You More Python by No Starch Press](https://external-preview.redd.it/igrm4QOgcqgWJEAPIPxrMA8Cfnt-L7O7TMOohPERlSA.jpg?auto=webp&s=381ac4c97ed7d1cc2fafdde1a39cb74606d3a1a7 "Humble Book Bundle: Learn You More Python by No Starch Press")
+
+
+[Humble Book Bundle: Learn You More Python by No Starch Press](https://www.reddit.com/r/Python/comments/nendk3/humble_book_bundle_learn_you_more_python_by_no/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![With $21M in funding, Code Ocean aims to help researchers replicate data-heavy science – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/code-ocean.png?w=693 "With $21M in funding, Code Ocean aims to help researchers replicate data-heavy science – TechCrunch")
+
+
+[With $21M in funding, Code Ocean aims to help researchers replicate data-heavy science – TechCrunch](https://techcrunch.com/2021/05/17/with-21m-in-funding-code-ocean-aims-to-help-researchers-replicate-data-heavy-science/)
+
+
+> Every branch of science is increasingly reliant on big data sets and analysis, which means a growing confusion of formats and platforms — more than inconvenient, this can hinder the process of peer review and replication of research. Code Ocean hopes to make it easier for scientists to collaborate by making a flexible, shareable format and platform for any and all datasets and methods, and it has raised a total of $21M to build it out. Certainly there's an air of 'Too many options? Try this one!' to this (and here's the requisite relevant XKCD).
+
+
