@@ -9091,3 +9091,53 @@
 > I spend a lot of time with my Apple TV, whether I've got YouTube on in the background while I work, or I'm checking out the home release of the latest Marvel movie in 4K Dolby Vision. It's how I know that the 32GB Apple TV 4K will be a great addition to your home theater. It offers full support for 4K, high-frame rate HDR, Dolby Vision, and Dolby Atmos and has enough storage for what most people need out of a streaming box. In addition, you can now use your Apple TV to work out with Apple Fitness +, or watch original programming on Apple TV+.
 
 
+***
+![Apple and Amazon have proven hi-res audio shouldn't be a luxury](https://cdn.mos.cms.futurecdn.net/twzJgetmkbWpQ9nPKRFsJC-1200-80.jpg "Apple and Amazon have proven hi-res audio shouldn't be a luxury")
+
+
+[Apple and Amazon have proven hi-res audio shouldn't be a luxury](https://www.techradar.com/news/apple-and-amazon-have-proven-hi-res-audio-shouldnt-be-a-luxury)
+
+
+> (Image credit: Rawpixel / Shutterstock.com) Hi-res audio: once the preserve of obsessive audiophiles who spend all their extra cash on the very best headphones and pricey Tidal subscriptions, the best-sounding music is becoming a little more attainable thanks to Apple Music and Amazon Music Unlimited. Both companies announced that they would be bringing hi-res audio to their streaming platforms at no extra cost to subscribers, in a surprising move that's bound to shake up rivals like Spotify, Tidal, and Deezer.
+
+
+***
+![One of the best Apple AirPods Pro deals ever is back with a bang](https://m-cdn.phonearena.com/images/article/132170-wide-two_1200/One-of-the-best-Apple-AirPods-Pro-deals-ever-is-back-with-a-bang.jpg "One of the best Apple AirPods Pro deals ever is back with a bang")
+
+
+[One of the best Apple AirPods Pro deals ever is back with a bang](https://www.phonearena.com/news/apple-airpods-pro-deal-certified-refurbished-best-buy_id132170)
+
+
+> We may earn a commission if you make a purchase from the links on this page. Apple caught us all off guard (kind of) earlier today by announcing (on a Monday?!) the free new Spatial and Lossless Audio features of its already crazy popular music streaming platform, but contrary to what some rumors suggested, the company's next big true wireless earbuds are not yet here.Of course, tomorrow is another day... when the noise-cancelling AirPods 3 could break cover to try to rain on Google's I/O opening parade, but until that happens (if it actually ends up happening), bargain hunters might find the latest deal on the 2019-released AirPods Pro pretty hard to resist.
+
+
+***
+![Thinking Through Euphoria Season 1, Episode 7: 'The Trials and Tribulations of Trying to Pee While Depressed' and Euphoria season 1, episode 2 recap: Stuntin' Like My Daddy](https://https://www.thearkatech.com/img/news_img/all/9868_5_1200.pic "Thinking Through Euphoria Season 1, Episode 7: 'The Trials and Tribulations of Trying to Pee While Depressed' and Euphoria season 1, episode 2 recap: Stuntin' Like My Daddy")
+
+
+[Thinking Through Euphoria Season 1, Episode 7: 'The Trials and Tribulations of Trying to Pee While Depressed' and Euphoria season 1, episode 2 recap: Stuntin' Like My Daddy](https://www.thearkatech.com/en/50663/)
+
+
+> © Instagram / euphoria season 1 By: Emily Brown2021-05-17 19:15:59 Last News: Update on the Current and Future 'State of the Campus'. Herpes on the Buttocks: Symptoms, Pictures, and Treatments. AT&T to spin off and combine WarnerMedia with Discovery in deal that would create streaming giant. Diebold Nixdorf President and CEO Gerrard Schmid to Participate in 49th Annual JP Morgan Global Technology, Media and Communications Conference. Lyft and Uber Driver Shortage Means Higher Pay For Drivers.
+
+
+***
+![Sketchy report suggests 14-inch and 16-inch MacBook Pro refresh could be delayed until 2022](https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/M1-MacBook-Pro-vs-M1-Mac-mini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "Sketchy report suggests 14-inch and 16-inch MacBook Pro refresh could be delayed until 2022")
+
+
+[Sketchy report suggests 14-inch and 16-inch MacBook Pro refresh could be delayed until 2022](https://9to5mac.com/2021/05/17/14-inch-16-inch-macbook-pro-update/)
+
+
+> A new report from Digitimes today could be bad news for MacBook Pro users eagerly awaiting new high-end Apple Silicon chips. The report suggests that the rumored mini-LED 14-inch and 16-inch MacBook Pro updates that have been rumored for 2021 could end up being delayed until 2022. The full report is not yet available, with Digitimes saying that today's post is a preview of a full story that will come out tomorrow. The report preview simply indicates that the launch of the mini-LED MacBook Pro models may have been delayed until 2022, without providing any more details or reasoning.
+
+
+***
+![‘Escape at Dannemora': Inside Ben Stiller's Obsessive Quest for Authenticity and Paul Dano Discusses Sitting Down With Convicted Murderer David Sweat For ‘Escape At Dannemora'](https://https://www.thearkatech.com/img/news_img/all/9865_2_1200.pic "‘Escape at Dannemora': Inside Ben Stiller's Obsessive Quest for Authenticity and Paul Dano Discusses Sitting Down With Convicted Murderer David Sweat For ‘Escape At Dannemora'")
+
+
+[‘Escape at Dannemora': Inside Ben Stiller's Obsessive Quest for Authenticity and Paul Dano Discusses Sitting Down With Convicted Murderer David Sweat For ‘Escape At Dannemora'](https://www.thearkatech.com/en/50662/)
+
+
+> © Instagram / escape at dannemora By: Isabella Smith2021-05-17 19:12:04 Last News: Migraine and Ringing in the Ears: Causes, Treatments, and More. Heat Rash On Face: Symptoms, Treatments, and Home Remedies. Venable LLP attorneys Burnley and Wagner provide overview on transportation infrastructure outlook. Ohio, NASA teaming up to test drones for ‘personal travel and delivery of goods'. Top in cardiology: Hostility at work, FDA warning on cell phones and cardiac devices. Shipton '22 earns women's track and field all-NESCAC honors.
+
+
