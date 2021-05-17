@@ -8900,3 +8900,50 @@
 > Home-grown audio accessory brand Zebronics recently launched the Zebronics Juke Bar 3800 Pro Dolby soundbar audio system. Priced at Rs 6,100, the soundbar is one of the few in entry-level segment to boast Dolby Digital Plus sound. Though it comes sans a woofer, the Zebronics Juke Bar 3800 Pro Dolby seems to be a value-for-money proposition in its segment. Is it? Let's find out: Design The Juke Bar 3800 Pro Dolby looks similar to other Zebronics soundbars. It has a sleek and minimal design, and good build quality.
 
 
+***
+![Bitcoin price crash – live: Elon Musk clarifies Tesla tweets after BTC and Dogecoin plunge](https://static.independent.co.uk/2021/05/12/11/crypto%20price%20live.jpg?width=1200&auto=webp&quality=75 "Bitcoin price crash – live: Elon Musk clarifies Tesla tweets after BTC and Dogecoin plunge")
+
+
+[Bitcoin price crash – live: Elon Musk clarifies Tesla tweets after BTC and Dogecoin plunge](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-live-elon-musk-dogecoin-b1848601.html)
+
+
+> The crypto market is facing a tough day amid continuing concerns about the climate impact of cryptocurrency and further comments by Elon Musk.Mr Musk – who has publicly become more sceptical about bitcoin in recent days – initially suggested that Tesla could have sold its vast bitcoin holdings. He later denied it, which helped the price steady but not recover.It follows public statements from the Tesla chief executive that he was concerned about the climate impact of the cryptocurrency. He has also said that he is working to make it cleaner, including discussions with engineers working on dogecoin.
+
+
+***
+![From Android 12, Pixel Buds A-series to Google silicon, here's everything to expect from Google I/O 2021 that kicks off on May 18](https://images.financialexpress.com/2021/05/Google-1.jpg "From Android 12, Pixel Buds A-series to Google silicon, here's everything to expect from Google I/O 2021 that kicks off on May 18")
+
+
+[From Android 12, Pixel Buds A-series to Google silicon, here's everything to expect from Google I/O 2021 that kicks off on May 18](https://www.financialexpress.com/industry/technology/from-android-12-pixel-buds-a-series-to-google-silicon-heres-everything-to-expect-from-google-i-o-2021-that-kicks-off-on-may-18/2253302/)
+
+
+> By: FE Online | May 17, 2021 1:26 PMIn April, Google had officially announced the Pixel 5A 5G.Google I/O keynote address: Search engine giant Google, which had cancelled its big developer conference last year due to the pandemic, is set to hold the Google I/O keynote this year! The conference is scheduled for May 18, i.e. Tuesday, and it will begin at 10:30 pm (IST). Google has not revealed much as to what would be announced during the address, but as always, the rumour mill is running wild with the possible announcements that the tech giant could make.
+
+
+***
+![Bitcoin latest: Cryptocurrency prices PLUMMET but analysts predict Ethereum could DOUBLE and overtake Bitcoin from here](https://www.thesun.co.uk/wp-content/uploads/2021/05/BITCOIN-LATEST-4.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin latest: Cryptocurrency prices PLUMMET but analysts predict Ethereum could DOUBLE and overtake Bitcoin from here")
+
+
+[Bitcoin latest: Cryptocurrency prices PLUMMET but analysts predict Ethereum could DOUBLE and overtake Bitcoin from here](https://www.thesun.co.uk/tech/14977351/bitcoin-latest-cryptocurrency-prices-plummet-ethereum-value/)
+
+
+> COIN SLUMP 17 May 2021, 8:52Updated: 17 May 2021, 8:52CRYPTOCURRENCY prices continue to plummet today as part of a steady decline since Elon Musk raised doubts about them. The Tesla billionaire triggered a market surge a few months back when he revealed his company had made a billion dollar investment in Bitcoin and planned to accept payments for cars in the currency too. He also inspired massive investments in Dogecoin - a joke coin that he seems to like - after declaring himself 'the Dogefather' and repeatedly talking about the coin on social media.
+
+
+***
+![1068,000 doses of AZ vaccine, shipped from Andong factory tomorrow](https://img.sbs.co.kr/newimg/news/20210327/201534152_1280.jpg "1068,000 doses of AZ vaccine, shipped from Andong factory tomorrow")
+
+
+[1068,000 doses of AZ vaccine, shipped from Andong factory tomorrow](https://www.tellerreport.com/tech/2021-05-17-1068-000-doses-of-az-vaccine--shipped-from-andong-factory-tomorrow.BkmeTliJtd.html)
+
+
+> 1068,000 doses of AstraZeneca's Corona 19 vaccine will be shipped from the Andong factory tomorrow and additionally supplied in Korea. The Corona 19 Vaccination Response Promotion Team said, "1068,000 doses of AstraZeneca vaccines individually purchased with a pharmaceutical company will be released tomorrow at the Andong factory of SK Bioscience, and will be sequentially delivered to each consignment medical institution." 1068,000 doses of AstraZeneca's Corona 19 vaccine will be shipped from the Andong factory tomorrow (17th) and additionally supplied in Korea.
+
+
+***
+[The Top 9 Python Libraries for Ethical Hacking](https://www.reddit.com/r/Python/comments/ne9yzh/the_top_9_python_libraries_for_ethical_hacking/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
