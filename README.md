@@ -8994,3 +8994,53 @@
 > MORE than half a million Call of Duty players have now been banned. It comes after a further 30,000 gamers were permanently blocked from Warzone for 'cheating' in various ways. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news Call of Duty is banning huge numbers of players from WarzoneCredit: Activision In a statement, game-maker Raven Software said: 'Banned over 30,000 malicious accounts across Call of Duty yesterday. 'Bringing us to over half a million accounts banned in Warzone.
 
 
+***
+![You may no longer have to click images of traffic light for human verification on internet](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/captcha-647x363.jpeg?MG30Pahwr7zHr2sCjJ6thrQv8AdDPfXt "You may no longer have to click images of traffic light for human verification on internet")
+
+
+[You may no longer have to click images of traffic light for human verification on internet](https://www.indiatoday.in/technology/news/story/you-may-no-longer-have-to-click-images-of-traffic-light-for-human-verification-on-internet-1803589-2021-05-17)
+
+
+> If you are reading this, chances are you have visited most websites on the internet. Some of these websites cannot identify if you are a human. So, in the most ironic way, the website asks you to prove you are a human by tapping on image boxes with a traffic light or a bus or a tractor, and whatnot. These are called CAPTCHAs, short for Completely Automated Public Turing test to tell Computers and Humans Apart. Cloudflare is now set to replace CAPTCHAs across the entire internet.Cloudflare is the DNS service provider for a major portion of websites on the internet.
+
+
+***
+![Woman horrified after discovering mum 'paid fiancé' to go out with her](https://i2-prod.mirror.co.uk/incoming/article24125304.ece/ALTERNATES/s1200/0_Midsection-Of-Newlywed-Couple-Standing-Outdoors.jpg "Woman horrified after discovering mum 'paid fiancé' to go out with her")
+
+
+[Woman horrified after discovering mum 'paid fiancé' to go out with her](https://www.mirror.co.uk/news/weird-news/woman-horrified-after-discovering-mum-24124232)
+
+
+> A furious bride has revealed how she found out her mum paid her fiancé to date her. The anonymous woman spoke out about the deceit on Buzzfeed after it asked readers to share the reasons why they'd called off their weddings. She said that she'd been with her boyfriend for just two months when he proposed. "It was all so fast and I was head over heels, so when he proposed with a massive diamond, I just went for it and said yes. I had nothing to lose," she explained. The pair were smitten and started planning the reception straight away.
+
+
+***
+![Biden repeals decree that adjusts liability online platforms](https://media.nu.nl/m/zyjx1jmat8be_wd1280.jpg/biden-trekt-decreet-in-dat-aansprakelijkheid-online-platforms-aanpast.jpg "Biden repeals decree that adjusts liability online platforms")
+
+
+[Biden repeals decree that adjusts liability online platforms](https://www.tellerreport.com/tech/2021-05-17-biden-repeals-decree-that-adjusts-liability-online-platforms.HJzofn0ktO.html)
+
+
+> US President Joe Biden on Friday revoked a decree by former President Donald Trump, the White House reported on Friday. The order dates back to May last year and was supposed to adjust the legal liability of online platforms, such as Twitter. US President Joe Biden on Friday revoked a decree by former President Donald Trump, the White House reported on Friday. The order dates back to May last year and was supposed to adjust the legal liability of online platforms, such as Twitter. The amendment would apply to Section 230 of the Communication Decency Act of 1996.
+
+
+***
+![FFVA Mutual Scales Digital Engagement, Creates Stronger Audience Insights with ON24](https://mms.businesswire.com/media/20210517005111/en/1084546/23/ON24_logo_1920x1080.jpg "FFVA Mutual Scales Digital Engagement, Creates Stronger Audience Insights with ON24")
+
+
+[FFVA Mutual Scales Digital Engagement, Creates Stronger Audience Insights with ON24](https://www.businesswire.com/news/home/20210517005111/en/FFVA-Mutual-Scales-Digital-Engagement-Creates-Stronger-Audience-Insights-with-ON24)
+
+
+> May 17, 2021 08:05 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--FFVA Mutual, a southeast regional insurance carrier specializing in workers' compensation since 1956, uses ON24 (NYSE: ONTF) to scale digital experiences to a larger number of agency partners and corporate policyholders. The ON24 Digital Experience Platform helps FFVA Mutual improve digital engagement with hundreds of stakeholders to build stronger audience relationships. With ON24, FFVA Mutual enabled nearly 50% more insurance agency partners and 31% more policyholders with online safety training compared to their previous webinar tool.
+
+
+***
+![GoFor to Offer New Two-Person, Over-the-Threshold Delivery Service](https://mms.businesswire.com/media/20210517005498/en/878700/23/GoFor-Logo.jpg "GoFor to Offer New Two-Person, Over-the-Threshold Delivery Service")
+
+
+[GoFor to Offer New Two-Person, Over-the-Threshold Delivery Service](https://www.businesswire.com/news/home/20210517005498/en/GoFor-to-Offer-New-Two-Person-Over-the-Threshold-Delivery-Service)
+
+
+> May 17, 2021 08:05 AM Eastern Daylight Time TORONTO--(BUSINESS WIRE)--GoFor Industries, North America's leading marketplace for last mile, on-demand and same-day delivery and logistics, announced today its newest delivery service: two-person, over-the-threshold delivery. Unlike traditional deliveries, which are completed by one person and left at the door, GoFor's two-person, over-the-threshold delivery will improve customer experience for deliveries of big and bulky items that require heavy lifting or more than one pair of hands, such as furniture, appliances, and anything that must be moved securely into a customer's home.
+
+
