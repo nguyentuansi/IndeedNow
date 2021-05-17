@@ -9238,3 +9238,53 @@
 > Anna (Adams) befriends her new neighbor (Julianne Moore) from across the street. Netflix The Woman in the Window might not have seen its theatrical release, instead finding a home on Netflix after a rocky series of delays and rewrites. This was probably the best outcome. It has Netflix thriller written all over it: a contained setting, a star lead, an easy-to-devour 90-minute runtime ... and a flimsily stitched together plot.Still, The Woman in the Window, streaming on Netflix now, is a swift-moving diversion, cramming in as many twists as humanly possible.
 
 
+***
+![Bitcoin latest – Elon Musk scammers stole more than $2million in crypto hacks as regulator reports ‘huge spike'](https://www.thesun.co.uk/wp-content/uploads/2021/05/crypto.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin latest – Elon Musk scammers stole more than $2million in crypto hacks as regulator reports ‘huge spike'")
+
+
+[Bitcoin latest – Elon Musk scammers stole more than $2million in crypto hacks as regulator reports ‘huge spike'](https://www.thesun.co.uk/tech/14977351/bitcoin-latest-cryptocurrency-prices-plummet-ethereum-value-elon-musk/)
+
+
+> CRYPTO SCAM 17 May 2021, 23:02Updated: 17 May 2021, 23:02FRAUDSTERS impersonating Elon Musk have stolen more than $2million in cryptocurrency scams, the US Federal Trade Commission said on Monday. In one type of scam, people are told that if they give a certain amount of cryptocurrency to a "celebrity" they will get more back. "People have reported sending more than $2 million in cryptocurrency to Elon Musk impersonators over just the past six months," the FTC said. Scammers also impersonate government authorities or a potential romantic partner, the FTC said.
+
+
+***
+![Streaming Live Creating A C Compiler](https://external-preview.redd.it/F41ghh2Rf2msXGRk3aj0Mnx0oJXxkk2Ol8kC7rwtc9g.jpg?auto=webp&s=37695c8db07f4bba57b9cb63424c90e0deeb936f "Streaming Live Creating A C Compiler")
+
+
+[Streaming Live Creating A C Compiler](https://www.reddit.com/r/programming/comments/net5ky/streaming_live_creating_a_c_compiler/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![WebBank Announces Seth Goodman Named SVP-Chief Revenue Officer](https://mms.businesswire.com/media/20210517005952/en/879125/23/WebBank-logo_2020.Final.jpg "WebBank Announces Seth Goodman Named SVP-Chief Revenue Officer")
+
+
+[WebBank Announces Seth Goodman Named SVP-Chief Revenue Officer](https://www.businesswire.com/news/home/20210517005952/en/WebBank-Announces-Seth-Goodman-Named-SVP-Chief-Revenue-Officer)
+
+
+> May 17, 2021 05:54 PM Eastern Daylight Time SALT LAKE CITY--(BUSINESS WIRE)--WebBank today announced the appointment of Seth Goodman as the Senior Vice President-Chief Revenue Officer. Seth joined WebBank in May 2021 and his team is responsible for business development, strategy and M&A. Seth brings over 20 years of banking, financial services and consulting industry experience to the bank. Before joining WebBank, Seth worked at Marcus by Goldman Sachs where he led business development for Marcus's Banking as a Service, deposits and wealth management verticals.
+
+
+***
+![Best cheap iPad deals and sales for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/ipad-pro-2020-screen.jpg "Best cheap iPad deals and sales for May 2021")
+
+
+[Best cheap iPad deals and sales for May 2021](https://www.digitaltrends.com/dtdeals/best-ipad-deals/)
+
+
+> Apple's iPad isn't the only tablet model line to score high marks in productivity and entertainment. Samsung and Amazon also make excellent tablets. Despite the strong alternative choices, however, the iPad is still the undisputed tablet champ. People love these sleek tablets for their simplicity, reliability, and great software (and we count ourselves among that number). A major draw of the iPads is also how affordable they can be. Add the availability of refurbished iPad deals, and there are tons of ways to save.
+
+
+***
+![You can get iPhone notifications in your Oculus Quest headset now](https://mondrian.mashable.com/2021%252F05%252F17%252F45%252F333e2dc880f547cb8479b07b206a97f1.fb59b.png%252F1200x630.png?signature=dGvik3rYTql9Ep3f6kIgp4F1s44= "You can get iPhone notifications in your Oculus Quest headset now")
+
+
+[You can get iPhone notifications in your Oculus Quest headset now](https://mashable.com/article/oculus-quest-apple-iphone-notifications/)
+
+
+> VR is futuristic, cool, and just plain fun, but it leaves you blind to the environment around you. The latest Oculus Quest software update just made that way less of a problem for iOS users. In the latest roundup of new Oculus features on the company blog, the VR headset maker announced that iPhone users can route push notifications from their phones to their Quest or Quest 2 headsets. Oculus said the update is rolling out gradually, so it may not be available for download right away, but rest assured it will be soon.
+
+
