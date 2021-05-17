@@ -9044,3 +9044,50 @@
 > May 17, 2021 08:05 AM Eastern Daylight Time TORONTO--(BUSINESS WIRE)--GoFor Industries, North America's leading marketplace for last mile, on-demand and same-day delivery and logistics, announced today its newest delivery service: two-person, over-the-threshold delivery. Unlike traditional deliveries, which are completed by one person and left at the door, GoFor's two-person, over-the-threshold delivery will improve customer experience for deliveries of big and bulky items that require heavy lifting or more than one pair of hands, such as furniture, appliances, and anything that must be moved securely into a customer's home.
 
 
+***
+![DigiTimes: MacBooks With Mini-LED Displays May Be Delayed Until 2022](https://images.macrumors.com/article-new/2020/11/13-inch-macbook-pro-m1.jpg "DigiTimes: MacBooks With Mini-LED Displays May Be Delayed Until 2022")
+
+
+[DigiTimes: MacBooks With Mini-LED Displays May Be Delayed Until 2022](https://www.macrumors.com/2021/05/17/mini-led-macbooks-possibly-delayed-until-2022/)
+
+
+> Apr 12, 2001 52,515 14,214 Apple is widely rumored to be planning redesigned 14-inch and 16-inch MacBook Pro models with mini-LED displays, but the notebooks may be released later than expected. While multiple sources have indicated that Apple planned to release the new MacBook Pro models in the second half of 2021, including analyst Ming-Chi Kuo, Taiwanese supply chain news website DigiTimes today claimed that the launch of MacBooks with mini-LED displays may be postponed until some point in 2022.
+
+
+***
+![PayPal, Square Are Shaping the Cryptocurrency Market](https://www.thestreet.com/.image/t_share/MTc0NDI2NDY2OTE3MTY0Mzky/payment-apps-venmo-paypal-sh.jpg "PayPal, Square Are Shaping the Cryptocurrency Market")
+
+
+[PayPal, Square Are Shaping the Cryptocurrency Market](https://www.thestreet.com/investing/fintech-players-are-shaping-the-cryptocurrency-market)
+
+
+> Various fintech names like PayPal  (PYPL) - Get Report and Square  (SQ) - Get Report have been aggressive in the cryptocurrency space. The two fintech giants offer users the ability to buy and sell cryptocurrency, and potentially even transact them at stores.Square invested $220 million, or 5%, of its cash into cryptocurrency in 2020 and it's worth more than twice that amount now. And, last month, PayPal's Venmo unit opened its service to buying, selling, and holding cryptocurrency directly within the Venmo app with as little as $1.
+
+
+***
+[USDCAD falls to a new session low](https://www.forexlive.com/technical-analysis/!/usdcad-falls-to-a-new-session-low-20210517)
+
+
+> Extends toward a swing level at 1.2078 The USDCAD has fallen to a new session low on the day after finding sellers near a swing area between 1.21297 to 1.21355.
+
+
+***
+![Apple Music now offers lossless audio for free, spatial audio too](https://images.indianexpress.com/2021/05/Apple-music.jpeg "Apple Music now offers lossless audio for free, spatial audio too")
+
+
+[Apple Music now offers lossless audio for free, spatial audio too](https://indianexpress.com/article/technology/tech-news-technology/apple-music-adds-lossless-audio-to-support-spatial-audio-with-dolby-atmos-7318960/)
+
+
+> Apple Music is getting support for lossless audio and the feature will be made available to all existing subscribers starting June 2021 at no extra cost. Apple is also adding support for spatial audio with Dolby Atmos. This will also roll out in June. 'Apple Music is making its biggest advancement ever in sound quality. Listening to a song in Dolby Atmos is like magic. The music comes from all around you and sounds incredible. Now we are bringing this truly innovative and immersive experience to our listeners with music from their favorite artists like J Balvin, Gustavo Dudamel, Ariana Grande, Maroon 5, Kacey Musgraves, The Weeknd, and so many more, ' Oliver Schusser, Apple's vice president of Apple Music and Beats said in a press statement.
+
+
+***
+![What is the best Apple TV available?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/09/apple-tv-4k-angle.jpg "What is the best Apple TV available?")
+
+
+[What is the best Apple TV available?](https://www.imore.com/best-apple-tv)
+
+
+> I spend a lot of time with my Apple TV, whether I've got YouTube on in the background while I work, or I'm checking out the home release of the latest Marvel movie in 4K Dolby Vision. It's how I know that the 32GB Apple TV 4K will be a great addition to your home theater. It offers full support for 4K, high-frame rate HDR, Dolby Vision, and Dolby Atmos and has enough storage for what most people need out of a streaming box. In addition, you can now use your Apple TV to work out with Apple Fitness +, or watch original programming on Apple TV+.
+
+
