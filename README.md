@@ -9188,3 +9188,53 @@
 > Every branch of science is increasingly reliant on big data sets and analysis, which means a growing confusion of formats and platforms — more than inconvenient, this can hinder the process of peer review and replication of research. Code Ocean hopes to make it easier for scientists to collaborate by making a flexible, shareable format and platform for any and all datasets and methods, and it has raised a total of $21M to build it out. Certainly there's an air of 'Too many options? Try this one!' to this (and here's the requisite relevant XKCD).
 
 
+***
+![Apple's M1 is a fast CPU—but M1 Macs 'feel' even faster due to QoS](https://cdn.arstechnica.net/wp-content/uploads/2021/05/GettyImages-1229573188-760x380.jpg "Apple's M1 is a fast CPU—but M1 Macs 'feel' even faster due to QoS")
+
+
+[Apple's M1 is a fast CPU—but M1 Macs 'feel' even faster due to QoS](https://arstechnica.com/gadgets/2021/05/apples-m1-is-a-fast-cpu-but-m1-macs-feel-even-faster-due-to-qos/)
+
+
+> Enlarge / The Apple M1 is a world-class processor—but it feels even faster than its already-great specs imply. Howard Oakley did a deep-dive investigation to find out why. Apple's M1 processor is a world-class desktop and laptop processor—but when it comes to general-purpose end-user systems, there's something even better than being fast. We're referring, of course, to feeling fast—which has more to do with a system meeting user expectations predictably and reliably than it does with raw speed. Howard Oakley—author of several Mac-native utilities such as Cormorant, Spundle, and Stibium—did some digging to find out why his M1 Mac felt faster than Intel Macs did, and he came to the conclusion that the answer is QoS.
+
+
+***
+![Skoda's small car: the Fadia becomes the Fabia](https://media1.faz.net/ppmedia/aktuell/technik-motor/706782371/1.7340799/facebook_teaser/der-neue-skoda-fabia.jpg "Skoda's small car: the Fadia becomes the Fabia")
+
+
+[Skoda's small car: the Fadia becomes the Fabia](https://www.tellerreport.com/tech/2021-05-17-skoda-s-small-car--the-fadia-becomes-the-fabia.HkHuNhHlY_.html)
+
+
+> The Fabia has always been a solid car with bland features. Now it's going to be a solid car with fine features. We predict certain difficulties for the competition. The Fabia has sold fabulously over the 22 years of its existence, 4.5 million units have reached customers. But he looked more to Fadia, slack lines or tired headlights didn't really lure anyone out from behind the stove. It will be different in the future. The Czech brand Skoda, which is responsible for basic work in the VW Group, treats its fourth generation small car to a powerful shot of Becherovka.
+
+
+***
+![Can you opt out of the child tax credit payments? Absolutely -- here's how](https://www.cnet.com/a/img/yXaEtfqUJmgoUtnDQCylCbpj-Yg=/1200x630/2021/04/07/c28306e2-c669-4ffd-9eb1-35364952c306/002-cash-money-up-to-3600-dollar-child-tax-credit-calculator-stimulus-federal-bill-taxes.jpg "Can you opt out of the child tax credit payments? Absolutely -- here's how")
+
+
+[Can you opt out of the child tax credit payments? Absolutely -- here's how](https://www.cnet.com/personal-finance/can-you-opt-out-of-the-child-tax-credit-payments-absolutely-heres-how/)
+
+
+> You can opt out of getting child tax credit payments. Sarah Tew/CNET In just under two months, the first child tax credit payment will be disbursed to those who are eligible with qualifying dependents. The first check will go out July 15, so make sure you're caught up on the age requirement details for your kids and what your adjusted gross income needs to be. If all requirements are met, you can get up to $3,600 per child. Checks will continue to be disbursed monthly on the 15th, but if you don't want to get your payments in monthly increments, you have options.
+
+
+***
+![Netflix: The 40 best movies to stream tonight](https://www.cnet.com/a/img/8tI4Wzxjtgdj143Tq2zSMCGRg8A=/0x446:4187x2797/1200x630/2021/05/17/fc0de12c-c1e3-422b-ab88-c3e0c8d12825/o2-20200803-unit-02343-r.jpg "Netflix: The 40 best movies to stream tonight")
+
+
+[Netflix: The 40 best movies to stream tonight](https://www.cnet.com/news/netflix-the-40-best-movies-to-stream-tonight/)
+
+
+> Mélanie Laurent stars in claustrophobic sci-fi thriller Oxygen. Ian Routledge If you were thinking of watching The Woman in the Window tonight, do yourself a favor and start looking back at films you missed or avoided. New French co-production Oxygen adds to Netflix's excellent international content with a well-rounded sci-fi.Or try Mank from David Fincher, which recently won a couple of Oscars, unless you're averse to black-and-white movies. Fingers crossed you find something that hits the spot.
+
+
+***
+![The Woman in the Window review: Amy Adams thriller loses the plot](https://www.cnet.com/a/img/BMe-2871UXi5UHueh0UEd2lzikc=/0x296:6000x3669/1200x630/2021/05/10/cc7630f6-84f4-4f50-ba32-b2f8de506832/df-06048-r.jpg "The Woman in the Window review: Amy Adams thriller loses the plot")
+
+
+[The Woman in the Window review: Amy Adams thriller loses the plot](https://www.cnet.com/news/the-woman-in-the-window-review-amy-adams-thriller-loses-the-plot/)
+
+
+> Anna (Adams) befriends her new neighbor (Julianne Moore) from across the street. Netflix The Woman in the Window might not have seen its theatrical release, instead finding a home on Netflix after a rocky series of delays and rewrites. This was probably the best outcome. It has Netflix thriller written all over it: a contained setting, a star lead, an easy-to-devour 90-minute runtime ... and a flimsily stitched together plot.Still, The Woman in the Window, streaming on Netflix now, is a swift-moving diversion, cramming in as many twists as humanly possible.
+
+
