@@ -8709,3 +8709,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![TUTS Pushes ROCK OF AGES to October and Adds JERSEY BOYS to its 2021-22 Season and Rock of Ages coming to Liverpool Empire Theatre](https://https://www.thearkatech.com/img/news_img/all/7726_9_1200.pic "TUTS Pushes ROCK OF AGES to October and Adds JERSEY BOYS to its 2021-22 Season and Rock of Ages coming to Liverpool Empire Theatre")
+
+
+[TUTS Pushes ROCK OF AGES to October and Adds JERSEY BOYS to its 2021-22 Season and Rock of Ages coming to Liverpool Empire Theatre](https://www.thearkatech.com/en/50309/)
+
+
+> © Instagram / rock of ages By: Ethan Thomas2021-05-17 03:16:31 Last News: Scottsburg man pleads guilty to home break-ins, larceny and vandalism. Transportation Commission to discuss road usage charging and ferry fare changes. Water acidification to improve piglet health and performance – 5 takeaways. Notes: Arenado splits; Carpenter; Mikolas. 2022 BMW 2-Series Coupe Coming This Summer with Up to 382 HP. Reds 7, Rockies 6: Colorado bullpen declared radioactive. Two woman hospitalized after near drowning in Johnson Bayou.
+
+
+***
+![What to Know About the Ring of Fire Annual Eclipse and National Parks Week: Why You Need To Forward-Plan An Extra-Special ‘Ring Of Fire' Eclipse Expedition](https://https://www.thearkatech.com/img/news_img/all/7700_4_1200.pic "What to Know About the Ring of Fire Annual Eclipse and National Parks Week: Why You Need To Forward-Plan An Extra-Special ‘Ring Of Fire' Eclipse Expedition")
+
+
+[What to Know About the Ring of Fire Annual Eclipse and National Parks Week: Why You Need To Forward-Plan An Extra-Special ‘Ring Of Fire' Eclipse Expedition](https://www.thearkatech.com/en/50308/)
+
+
+> © Instagram / ring of fire By: Michael Miller2021-05-17 03:14:10 Last News: COLLEGE TRACK AND FIELD: Sara Reifenrath wins Summit League Most Outstanding Performer. NBA News: Clippers' Kawhi Leonard and Paul George Status Against Thunder. Batman and Joker Become Best Friends in ArkhaManiacs. Resentencing Laws To Cut Terms Gain Momentum Across US. Swastiska Scratched Into SLC Synagogue Window. Late touchdown lifts Sam Houston State Bearkats past South Dakota State for first FCS title. For Justice Tech Entrepreneurs, It's Deeply Personal.
+
+
+***
+![Red Oak softball looking to move forward and Red Oak sweeps North Forney, advances](https://https://www.thearkatech.com/img/news_img/all/7631_3_1200.pic "Red Oak softball looking to move forward and Red Oak sweeps North Forney, advances")
+
+
+[Red Oak softball looking to move forward and Red Oak sweeps North Forney, advances](https://www.thearkatech.com/en/50307/)
+
+
+> © Instagram / red oak By: Margaret Wilson2021-05-17 03:09:58 Last News: Hamazkayin Eastern Regional Executive announces 2021 Minas and Kohar Tölölyan Prize in Contemporary Literature. Some aren't ready to give up masks despite new CDC guidance. FC Cincinnati loses to Inter Miami in TQL Stadium opener. Luggala peatlands to undergo restoration to support carbon capture and biodiversity. The Nevers: «Change can come from anywhere and so why not from a bunch of women in Victorian times with superpowers?».
+
+
+***
+![Big Sur and Brother MFC printers- need help scanning and updating](https://images.macrumors.com/social/?t=2296409&v=6 "Big Sur and Brother MFC printers- need help scanning and updating")
+
+
+[Big Sur and Brother MFC printers- need help scanning and updating](https://forums.macrumors.com/threads/big-sur-and-brother-mfc-printers-need-help-scanning-and-updating.2296409/)
+
+
+> Sorry, if this is answered elsewhere but I can't find it. Also cannot find info. on the Brother website. My MFC7840W seems to print fine from Big Sur As does my MFC 4410DW. But I used to use some software that made it really easy to scan from any of these printers. It was called "ControlCenter". If anyone has found updated software for this, or whatever the new product is I would appreciate it. Thank you in advance !! Wups, answering my own question. Apparently Brother iPrint&Scan is the software that works with Big Sur, it's supposed to have more features than the old Control Center.
+
+
+***
+![Serbia's EU accession: Pipe Dream or Possible Reality? and Two investors weigh in: Is your SPAC just a PIPE dream?](https://https://www.thearkatech.com/img/news_img/all/7454_14_1200.pic "Serbia's EU accession: Pipe Dream or Possible Reality? and Two investors weigh in: Is your SPAC just a PIPE dream?")
+
+
+[Serbia's EU accession: Pipe Dream or Possible Reality? and Two investors weigh in: Is your SPAC just a PIPE dream?](https://www.thearkatech.com/en/50306/)
+
+
+> © Instagram / pipe dream By: Christopher Taylor2021-05-17 03:07:59 Last News: WWE WrestleMania Backlash live results and analysis. Berry continues her push for Olympics and racial equality. 2021 MTV Movie and TV Awards winners list: Golden popcorn winners in every category [UPDATING LIVE]. Women in Poultry: Safaa Melhem Alam. Indians vs. Mariners. Tim Johnston reminisces after 38 years in educational athletics. White Sox following José Abreu's MVP lead in World Series quest. Cat adoption events allow people to get free cuddles.
+
+
