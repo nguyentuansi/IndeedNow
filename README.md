@@ -8853,3 +8853,50 @@
 > NEW YORK: Many of us were taught to share as kids. Now streaming services ranging from Netflix to Amazon to Disney+ want us to stop. That's the new edict from the giants of streaming media, who are hoping to discourage the common practice of sharing account passwords without alienating subscribers who've grown accustomed to the hack. Password sharing is estimated to cost streaming services several billion dollars a year in lost revenue. That's a small problem now for an industry that earns about US$120bil (RM496.
 
 
+***
+![Peru presidential candidate outlines new taxes, royalties for miners](https://www.reuters.com/pf/resources/icons/favicon.ico?d=29 "Peru presidential candidate outlines new taxes, royalties for miners")
+
+
+[Peru presidential candidate outlines new taxes, royalties for miners](https://www.reuters.com/world/americas/peru-presidential-candidate-outlines-new-taxes-royalties-miners-2021-05-17/)
+
+
+> Peru's socialist presidential candidate Pedro Castillo said on Sunday night he would raise taxes and royalties on Peru's key mining sector and renegotiate the tax contracts of large companies if elected to high office next month.Castillo, a teacher and trade union leader who was politically unknown before this year's election, said in a document outlining plans for his first 100 days in office that he would strengthen the role of the state with a "mixed economy" approach and actively regulate monopolies and oligopolies.
+
+
+***
+![Juniper Research: Point-of-Sale Transaction Values to Exceed $17.3 Trillion Globally by 2026, as Emerging Smart Features Drive Adoption](https://mms.businesswire.com/media/20210516005004/en/609744/21/JR_Logo_Final_RGB_300px.jpg "Juniper Research: Point-of-Sale Transaction Values to Exceed $17.3 Trillion Globally by 2026, as Emerging Smart Features Drive Adoption")
+
+
+[Juniper Research: Point-of-Sale Transaction Values to Exceed $17.3 Trillion Globally by 2026, as Emerging Smart Features Drive Adoption](https://www.businesswire.com/news/home/20210516005004/en/Juniper-Research-Point-of-Sale-Transaction-Values-to-Exceed-17.3-Trillion-Globally-by-2026-as-Emerging-Smart-Features-Drive-Adoption)
+
+
+> May 17, 2021 02:00 AM Eastern Daylight Time BASINGSTOKE, England--(BUSINESS WIRE)--A new study by Juniper Research has found the total value of transactions processed by POS terminals will exceed $17.3 trillion in 2026, from $14.8 trillion in 2021; growing 28%. The growth is driven by a continually evolving payment processing landscape in which cash plays a reduced role. The report found POS vendors must ensure they support omnichannel retail business models and are prepared to compete with alternative payment methods such as QR code payments.
+
+
+***
+![Ecovacs sticks it to Dyson with robotic vacs and its new DEEBOT T9+](https://itwire.com/media/k2/items/cache/09bdfafe5bf922cf52ee0e119c60e674_XS.jpg "Ecovacs sticks it to Dyson with robotic vacs and its new DEEBOT T9+")
+
+
+[Ecovacs sticks it to Dyson with robotic vacs and its new DEEBOT T9+](https://itwire.com/home-it/ecovacs-sticks-it-to-dyson-with-robotic-vacs-and-its-new-deebot-t9.html)
+
+
+> With Dyson the market leaders in handheld stick vacuums, and its new V15 Detect and green laser getting a lot of attention, its competitors have had to become clever in finding ways to offer real differences in technologies that both don't suck - and really do. While Dyson does offer a robotic vacuum cleaner in Japan, other companies have been working on bringing robotic vacuums into homes across the world, with ECOVACS ROBOTICS claiming to be the market leaders in robotic vacuums, who have also just launched what it calls 'an industry first product' in the DEEBOT T9+.
+
+
+***
+[mop](https://itwire.com/freelancer-sp-720/tag/mop.html)
+
+
+> If you want to terminate dust in your home, then a T-800 is definitely going overboard, but the robot Deebot T9+ is what Ecovacs says you need for an almost entirely hands-free deep cleaning experience.
+
+
+***
+![Zebronics Juke Bar 3800 Pro Dolby review: Great sounding soundbar in budget](https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/17/full/1621230849-5467.jpg "Zebronics Juke Bar 3800 Pro Dolby review: Great sounding soundbar in budget")
+
+
+[Zebronics Juke Bar 3800 Pro Dolby review: Great sounding soundbar in budget](https://www.business-standard.com/article/technology/zebronics-juke-bar-3800-pro-dolby-review-great-sounding-soundbar-in-budget-121051700313_1.html)
+
+
+> Home-grown audio accessory brand Zebronics recently launched the Zebronics Juke Bar 3800 Pro Dolby soundbar audio system. Priced at Rs 6,100, the soundbar is one of the few in entry-level segment to boast Dolby Digital Plus sound. Though it comes sans a woofer, the Zebronics Juke Bar 3800 Pro Dolby seems to be a value-for-money proposition in its segment. Is it? Let's find out: Design The Juke Bar 3800 Pro Dolby looks similar to other Zebronics soundbars. It has a sleek and minimal design, and good build quality.
+
+
