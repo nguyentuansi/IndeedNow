@@ -8803,3 +8803,53 @@
 > May 16, 2021 10:00 PM Eastern Daylight Time HONG KONG--(BUSINESS WIRE)--Praxonomy announced today that it has been chosen by the FinTech Association of Hong Kong (FTAHK), an independent, not-for-profit, membership-based organisation that has become the voice and champion of Hong Kong's local and global FinTech community, to reduce board meeting inefficiencies, enhance board communications, and improve their overall corporate governance practices with the implementation of its board management solution, Boardfolio.
 
 
+***
+![New twist after UK man rescued from sinking yacht off the coast of Newcastle](https://images.perthnow.com.au/publication/C-2861537/6afb56a76445ad4d59a9100a5be61668a67e2a46-16x9-x0y5w800h450.jpg?imwidth=1024 "New twist after UK man rescued from sinking yacht off the coast of Newcastle")
+
+
+[New twist after UK man rescued from sinking yacht off the coast of Newcastle](https://www.news.com.au/technology/environment/uk-man-in-sydney-hotel-quarantine-after-yacht-sinks-off-the-coast-of-newcastle/news-story/d95c0f6aa45c92eea776bfa562c2e398)
+
+
+> A UK man rescued at sea when a yacht he was sailing from Tahiti to Australia sank off the coast of Newcastle was transporting the vessel for someone else.NCA NewsWire understands the man was charterting the 50-foot Beneteau yacht, worth about $600,000, on behalf of its owner during the 6000km journey from the South Pacific island nation to Sydney.A 40-year-old UK national, who was the sole occupant of the vessel, is now in hotel quarantine in Sydney after a gruelling, 26-hour rescue operation that occurred almost 200km off the coast of Newcastle.
+
+
+***
+![Police arrest suspected attacker of correctional service centre in Owerri](https://guardian.ng/wp-content/uploads/2020/07/Nigerian-Police-2.jpg "Police arrest suspected attacker of correctional service centre in Owerri")
+
+
+[Police arrest suspected attacker of correctional service centre in Owerri](https://guardian.ng/news/police-arrest-suspected-attacker-of-correctional-service-centre-in-owerri/)
+
+
+> • Recover DSP rank uniform, fire-arm The Imo State Police Command, yesterday, said that it had arrested one Michael Osundu, suspected to be one of the masterminds of the April 5, 2021 attack on the Nigeria Correctional Service Custodial Centre, Owerri, where 1,844 inmates escaped. The command's Police Public Relations Officer (PPRO), Orlando Ikeokwu, who confirmed the arrest in a statement, said that a pump-action rifle and 26 live cartridges and police uniform bearing the rank of a Deputy Superintendent of Police (DSP) were recovered from the suspect, saying that he (the suspect) claimed to be residing in London, United Kingdom (UK).
+
+
+***
+![Artificial Intelligence—The Revolution Hasn't Happened Yet](https://external-preview.redd.it/63Q9Qc8dM2sDFHm5_rA0WIPjuem-BV8pThqvx3d-NOs.jpg?auto=webp&s=f94caf70d6fe33dc4ab7c41d12a2739997561ab8 "Artificial Intelligence—The Revolution Hasn't Happened Yet")
+
+
+[Artificial Intelligence—The Revolution Hasn't Happened Yet](https://www.reddit.com/r/programming/comments/ne6d79/artificial_intelligencethe_revolution_hasnt/)
+
+
+> "Stop Calling Everything AI, Machine-Learning Pioneer Says: Michael I. Jordan explains why today's artificial-intelligence systems aren't actually intelligent" by Kathy Pretz, published on 31 March 2021: https://spectrum.ieee.org/the-institute/ieee-member-news/stop-calling-everything-ai-machinelearning-pioneer-says , http://archive.is/72aR6
+
+
+***
+![Sharpen your photo and video skills with this beginner-friendly bundle](https://mondrian.mashable.com/2021%252F05%252F17%252F50%252Fe9e2dc4a3f6345a89d14a95c8f22dece.ffc04.jpg%252F1200x630.jpg?signature=869cKxWhtO8ITHHBe9yTtXCUVdY= "Sharpen your photo and video skills with this beginner-friendly bundle")
+
+
+[Sharpen your photo and video skills with this beginner-friendly bundle](https://mashable.com/uk/shopping/may-17-photography-courses-online-sale/)
+
+
+> TL;DR: The Beginner-To-Expert Photography and Videography Bundle is on sale for £24.89 as of May 17, saving you 97% on list price. There's never been a better time for content. Perhaps because there's little distracting us from getting our Netflix on. Or perhaps because Netflix has brought back the art of the teen rom-com (we are not worthy).  Either way, it's a great time to be producing some content of your own. And if your photography and video skills don't go beyond your iPhone's auto setting, the Beginner-To-Expert Photography and Videography Bundle will ensure you can do something at least a touch more interesting.
+
+
+***
+![Passing on your password? Streaming services are past it](https://apicms.thestar.com.my/uploads/images/2021/05/17/1150929.jpg "Passing on your password? Streaming services are past it")
+
+
+[Passing on your password? Streaming services are past it](https://www.thestar.com.my/tech/tech-news/2021/05/17/passing-on-your-password-streaming-services-are-past-it)
+
+
+> NEW YORK: Many of us were taught to share as kids. Now streaming services ranging from Netflix to Amazon to Disney+ want us to stop. That's the new edict from the giants of streaming media, who are hoping to discourage the common practice of sharing account passwords without alienating subscribers who've grown accustomed to the hack. Password sharing is estimated to cost streaming services several billion dollars a year in lost revenue. That's a small problem now for an industry that earns about US$120bil (RM496.
+
+
