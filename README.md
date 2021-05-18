@@ -9670,3 +9670,50 @@
 > (Image credit: Wix) Popular website builder Wix has joined forces with Vodafone as mobile network operator launches a series of business boosting packages for small and medium-sized enterprises (SMEs).The tools will be powered by Wix and have been designed to create or improve the online presence of SMEs across the UK.Vodafone said its packages feature tools to help with building a new website, growing a brand and protecting businesses and customers online from cyber-attacks. Website builders for SMEs Vodafone is offering three choices, the 'get selling' online package, the 'peace of mind online' package, and the 'supercharge my business online' package.
 
 
+***
+[Crude oil falls below 100 and 200 hour moving averages](https://www.forexlive.com/technical-analysis/!/crude-oil-falls-below-100-and-200-hour-moving-averages-20210518)
+
+
+> Encouraged by Iran nuclear talks Adam's post here The price of WTI crude oil futures fell down toward the $64 level (the low reached $64.11). In the process, the 100 /200 hour MAs were broken at $65.30 and $65.16 respectively. It would take a move back above those moving averages to increase the bullish bias now. Sellers are now
+
+
+***
+![Kickstarter](https://external-preview.redd.it/lLvd0O8c1OdCRES6quVbQp8uSqWt_KPB6Xtm7_sSOPo.jpg?auto=webp&s=d5f696c7944521cf8b729bba65c76204eb6a574f "Kickstarter")
+
+
+[Kickstarter](https://www.reddit.com/r/Python/comments/nfeu4w/kickstarter_opencv_for_beginners/)
+
+
+> The Kickstarter campaign for OpenCV for Beginners blew past its funding goal in just 27 mins after launch!The $47 EARLY BIRD deal ends at 10 AM Pacific Time, May 19, 2021.Play0:000:00SettingsFullscreenhttps://www.kickstarter.com/projects/opencv/opencv-for-beginners?ref=4xf6giDuring this Kickstarter campaign, our existing courses are also available at deeply discounted prices.Please help us spread the word - OpenCV for Beginners is a short, fun, and affordable course for people who want to get started in computer vision and AI.
+
+
+***
+![PyCon US 2021 Notes](https://external-preview.redd.it/YHEcVrK3bI-eWPhF5Zm7Ekr4NN1D5Z60GAdsS3tQfYs.jpg?auto=webp&s=5b80f8f9f734b7bc4786b431af9c70c0941b67c3 "PyCon US 2021 Notes")
+
+
+[PyCon US 2021 Notes](https://www.reddit.com/r/Python/comments/nfes13/pycon_us_2021_notes/)
+
+
+> These are the notes from the talks I attended on the first day of PyCon. What were your favorite talks? Are there any talks I missed that I should check out?
+
+
+***
+![Apple's Bargain in China](https://static01.nyt.com/images/2021/05/18/multimedia/18Biz-onTech-China/18Biz-onTech-China-facebookJumbo-v2.jpg "Apple's Bargain in China")
+
+
+[Apple's Bargain in China](https://www.nytimes.com/2021/05/18/technology/apple-china-investigation.html)
+
+
+> Continue reading the main storyApple touts its commitment to privacy and free speech. That's why its China operation is so striking.VideoCreditCredit...Irene SuosaloMay 18, 2021, 12:11 p.m. ETThis article is part of the On Tech newsletter. You can sign up here to receive it weekdays.Apple wouldn't be the company it is today without China. It's where Apple manufactures nearly all of its products and sells many of them.But my colleagues have a disturbing new article about what Apple's dependence on China costs the company and China's citizens.
+
+
+***
+![Enhancing Communications with MIMO 2021: Technologies, Markets and Applications](https://mms.businesswire.com/media/20210518005964/en/371054/23/ResearchAndMarkets_800px.jpg "Enhancing Communications with MIMO 2021: Technologies, Markets and Applications")
+
+
+[Enhancing Communications with MIMO 2021: Technologies, Markets and Applications](https://www.businesswire.com/news/home/20210518005964/en/Enhancing-Communications-with-MIMO-2021-Technologies-Markets-and-Applications---ResearchAndMarkets.com)
+
+
+> May 18, 2021 12:05 PM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Enhancing Communications with MIMO - Technologies, Markets and Applications" report has been added to ResearchAndMarkets.com's offering. This report researches advanced technologies and markets for wireless and wired communications systems that are supported by MIMO - Multiple Input/Multiple Output structures - to enhance their performance. It revises and updates earlier issues of the report as well as adds the analysis of the latest technologies.
+
+
