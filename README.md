@@ -9767,3 +9767,53 @@
 > Get ready: The god of mischief is finally back. In a live-action series for the streaming service, Disney brings Marvel's fan-favorite villain to life going toe-to-toe with the Time Variance Authority, who monitor realities throughout the multiverse.  SEE ALSO: Everything coming to Disney+ in June Starring Owen Wilson, Gugu Mbatha-Raw (The Morning Show), Sophia Di Martino, Wunmi Mosaku, and British actor Richard E. Grant as additional cast members, the much-hyped series picks up where Loki was last seen in Avengers: Endgame, after stealing the Tesseract and disappearing.
 
 
+***
+![Bitcoin takes heavy hit but analysts remain positive price will bounce back](https://www.thesun.co.uk/wp-content/uploads/2021/05/BLOG-MA-BITCOIN.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin takes heavy hit but analysts remain positive price will bounce back")
+
+
+[Bitcoin takes heavy hit but analysts remain positive price will bounce back](https://www.thesun.co.uk/tech/14977351/bitcoin-price-live-btc-value-plummet-china-analysts/)
+
+
+> BOUNCE AROUND 18 May 2021, 21:02Updated: 18 May 2021, 21:02BITCOIN'S price has plummeted by 30 per cent in just a week but analysts remain positive it will bounce back. The value of the cryptocurrency took a heavy dive from $59.3k to $41.9k, according to CoinGecko. Bitcoin is now at its lowest level since early February. China has banned financial institutions and payment companies from providing services related to cryptocurrency transactions. It also warned investors against speculative crypto trading, according toÂ Reuters.
+
+
+***
+![Google's new ARCore update opens the door to new AR experiences](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/03/arcore_hero.jpg "Google's new ARCore update opens the door to new AR experiences")
+
+
+[Google's new ARCore update opens the door to new AR experiences](https://www.androidcentral.com/googles-new-arcore-updates-open-door-new-ar-experiences)
+
+
+> Source: Android Central Google today announced ARCore 1.24. It's highlighting two new APIs, Raw Depth API as well as the Recording and Playback API. Google also shared that there were more than 850 million ARCore compatible devices. Alongside Android 12 and other announcements at Google I/O today, Google also brought in new updates for ARCore. The company unveiled ARCore 1.24, complete with a new Raw Depth API and a new Recording and Playback API. The Raw Depth API is aimed at helping developers take more accurate measurements of indoor spaces and built a better model of physical surroundings.
+
+
+***
+![Google IO: With new Wear OS, Google takes another aim at Apple Watch](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/google-io-wearos-647x363.jpeg?wvOmBWJPFtHMlgfjGSWH96j1kXlvspgk "Google IO: With new Wear OS, Google takes another aim at Apple Watch")
+
+
+[Google IO: With new Wear OS, Google takes another aim at Apple Watch](https://www.indiatoday.in/technology/talking-points/story/google-io-with-new-wear-os-google-takes-another-aim-at-apple-watch-1804176-2021-05-19)
+
+
+> Google, at its IO 2021 event, announced one of the biggest updates ever to Wear OS that powers wearables. One of the big surprise announcements was the unified wearable platform which will bring the best of Wear OS and Samsung's Tizen OS that powers Samsung wearables. The company says that the all-new Wear OS apps on smartwatches will start faster while battery life, one of the most crucial aspects of a wearable, will also see enhancements.This collaboration will mean that Google and Samsung will bring Wear and Tizen into a single unified platform.
+
+
+***
+![Magic The Gathering Head Designer Teases Modern Horizons 2 Details](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/Magic%20Modern%20Horizons%20Serra%20Featured.jpg?itok=7Wpw__rt "Magic The Gathering Head Designer Teases Modern Horizons 2 Details")
+
+
+[Magic The Gathering Head Designer Teases Modern Horizons 2 Details](https://techraptor.net/tabletop/news/magic-gathering-head-teases-modern-horizons-2-details)
+
+
+> 05/18/2021 - 16:00 | By: Tyler Chancey Magic The Gathering's Head of Design, Mark Rosewater has dropped tantalizing hints for the upcoming Modern Horizons 2 set. But as is custom at this point, those hints are presented like the assembled remains of a long lost manuscript with brittle pages and faded ink.. As found on Mark Rosewater's blog, the post started out with some innocuous teases. The list includes: • A character that first appeared in a Magic novel finally becomes a legendary creature • A legendary character best known for having his name on a powerful card (that's been banned) finally gets a legendary creature.
+
+
+***
+![The best 4K monitors for 2021](https://icdn.digitaltrends.com/image/digitaltrends/z4q9m3xv.jpg "The best 4K monitors for 2021")
+
+
+[The best 4K monitors for 2021](https://www.digitaltrends.com/computing/best-4k-monitors/)
+
+
+> Most consumers want a high-definition TV to watch, so why not have a high-definition monitor, too? A 4K monitor showcases a 4,000-pixel image with ultra-high definition. Images are clear and precise, creating a digital heaven for anyone using a PC for work or gaming. The LG 27UK850-W is the perfect example of that, and that's why it's our top pick. But don't worry if you aren't sure of which monitor to put your money on. Our roundup of the best 4K monitors for 2020 should help you make the right choice.
+
+
