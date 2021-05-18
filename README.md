@@ -9717,3 +9717,53 @@
 > May 18, 2021 12:05 PM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Enhancing Communications with MIMO - Technologies, Markets and Applications" report has been added to ResearchAndMarkets.com's offering. This report researches advanced technologies and markets for wireless and wired communications systems that are supported by MIMO - Multiple Input/Multiple Output structures - to enhance their performance. It revises and updates earlier issues of the report as well as adds the analysis of the latest technologies.
 
 
+***
+![Call of Duty's season 3 update doubles down on '80s action heroes](https://icdn.digitaltrends.com/image/digitaltrends/e1shspowuaiof_x.jpg "Call of Duty's season 3 update doubles down on '80s action heroes")
+
+
+[Call of Duty's season 3 update doubles down on '80s action heroes](https://www.digitaltrends.com/news/cold-war-and-warzones-season-3-reloaded-update-doubles-down-on-80s-action-stars/)
+
+
+> Call of Duty: Warzone and Black Ops Cold War‘s midseason 3 update is taking us back to '80s action films, with the addition of Rambo and Die Hard operator skins. The update is scheduled to go live on May 20 and has a lot in store for fans across both games. Activision released an updated road map detailing the contents of the next update. Reloaded road map The highlight of the update is the inclusion of John Rambo from the franchise that bears his name and John McClane from the Die Hard films. Players will be able to purchase these operator packs across either game.
+
+
+***
+![Google Maps is getting an improved Live View and more detail](https://icdn.digitaltrends.com/image/digitaltrends/google-maps-19.jpg "Google Maps is getting an improved Live View and more detail")
+
+
+[Google Maps is getting an improved Live View and more detail](https://www.digitaltrends.com/mobile/google-maps-updates-i-o-2021/)
+
+
+> Google is making Maps even more helpful than it already is. At Google I/O 2021, the company announced a series of updates to Google Maps that will make it more helpful in day-to-day life, and improve features like the AR view that Google launched in Maps last year. Perhaps the most notable change to Maps is that Google is adding more detail to the service. For example, Maps will now show users where things like crosswalks, street signs, and intersection markers are straight from the normal map view.
+
+
+***
+![How to successfully implement Python Classes and objects](https://external-preview.redd.it/SOVZy6k7wpDmw0ScIbRd792WIy9a-YZDOZurFeYZWUM.jpg?auto=webp&s=e5a76d6bc971db5deda47c51034865b0c66b4440 "How to successfully implement Python Classes and objects")
+
+
+[How to successfully implement Python Classes and objects](https://www.reddit.com/r/Python/comments/nfhzfj/how_to_successfully_implement_python_classes_and/)
+
+
+> Hi everyone, I run a robotics youtube channel called islander robotics. On my channel, I teach robotics through programming. This week I started a new series where I will be developing a youtube keyword planner in python. In each video of this series, I will be breaking down all of the main concepts required to build such software. Like this week, I went over how to implement a python class successfully. Click the link to learn more https://youtu.be/F4K0kFq-cKY. I hope you all enjoy, as always,
+
+
+***
+![The most complete DIY home security system under $500](https://icdn.digitaltrends.com/image/digitaltrends/lorex-sponsored.jpg "The most complete DIY home security system under $500")
+
+
+[The most complete DIY home security system under $500](https://www.digitaltrends.com/dtdeals/lorex-memorial-day-sale-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you've been thinking about investing in a home security system, perhaps you've been overwhelmed by the options available and don't know quite where to start. There is no shortage of configurations available, with variations in number and types of cameras, storage options, as well as many other bells and whistles. Fortunately, Lorex has simplified home security with its Lorex Home Center. Designed to be the hub of your home security system, the Lorex Home Center is an easy-to-use control center that allows you to configure your security system to your liking.
+
+
+***
+![Where to stream 'Loki' and catch the God of Mischief in all his glory](https://mondrian.mashable.com/2021%252F05%252F18%252F9a%252F36f5fe8f951346afaf14721f3d6a479d.f6f1e.jpg%252F1200x630.jpg?signature=wQDwxd5TTrhO7YaUpsk-DAnh39M= "Where to stream 'Loki' and catch the God of Mischief in all his glory")
+
+
+[Where to stream 'Loki' and catch the God of Mischief in all his glory](https://mashable.com/shopping/how-to-watch-loki/)
+
+
+> Get ready: The god of mischief is finally back. In a live-action series for the streaming service, Disney brings Marvel's fan-favorite villain to life going toe-to-toe with the Time Variance Authority, who monitor realities throughout the multiverse.  SEE ALSO: Everything coming to Disney+ in June Starring Owen Wilson, Gugu Mbatha-Raw (The Morning Show), Sophia Di Martino, Wunmi Mosaku, and British actor Richard E. Grant as additional cast members, the much-hyped series picks up where Loki was last seen in Avengers: Endgame, after stealing the Tesseract and disappearing.
+
+
