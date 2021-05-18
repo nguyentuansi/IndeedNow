@@ -9288,3 +9288,50 @@
 > VR is futuristic, cool, and just plain fun, but it leaves you blind to the environment around you. The latest Oculus Quest software update just made that way less of a problem for iOS users. In the latest roundup of new Oculus features on the company blog, the VR headset maker announced that iPhone users can route push notifications from their phones to their Quest or Quest 2 headsets. Oculus said the update is rolling out gradually, so it may not be available for download right away, but rest assured it will be soon.
 
 
+***
+![Siri](https://images.macrumors.com/social/?t=2296572&v=6 "Siri")
+
+
+[Siri](https://forums.macrumors.com/threads/siri-cannot-perform-this-function-right-now-when-trying-to-create-a-text-message.2296572/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. My car: 2017 BMW 440i GC. No CarPlay. Phone: iPhone 8 with IOS 14.5.1. Something happened when the phone was upgraded to IOS 14.5. Before the upgrade, I could ... - Activate Siri via a long press voice button on the steering wheel - Tell Siri "New message to [name] " - Tell Siri the text of the message - Tell Siri "Send" None of this works now.
+
+
+***
+![HomePod will support Spatial Audio for Apple Music, but not lossless audio](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/03/homepod-buyers-guide-speaker-hero.jpg "HomePod will support Spatial Audio for Apple Music, but not lossless audio")
+
+
+[HomePod will support Spatial Audio for Apple Music, but not lossless audio](https://www.imore.com/homepod-will-support-spatial-audio-apple-music-not-lossless)
+
+
+> Source: iMore Earlier today, Apple announced that Apple Music will be adding support for Spatial Audio, Dolby Atmos, and lossless audio in June. That proceeded to throw everyone into confusion over what AirPods and HomePod products would support the new features. According to a new report from MacRumors, the HomePod will support Spatial Audio with Dolby Atmos, but it will not support the new lossless audio qualities that are coming soon to the music streaming service. It is also currently unclear if Spatial Audio with Dolby Atmos will work on the HomePod mini.
+
+
+***
+![These training courses are essential to startup CEOs seeking venture capital](https://i1.wp.com/boingboing.net/wp-content/uploads/2021/05/sale_284660_article_image.jpeg?fit=1200%2C800&ssl=1 "These training courses are essential to startup CEOs seeking venture capital")
+
+
+[These training courses are essential to startup CEOs seeking venture capital](https://boingboing.net/2021/05/17/these-training-courses-are-essential-to-startup-ceos-seeking-venture-capital.html)
+
+
+> Do you have a team in place? Have you scoped out your competition? Do you know the right level of funding you need? And most importantly, why should I give you money when so many others are looking for the same thing? Those are all questions an investor will often ask a startup entrepreneur — and that founder better have those answers to earn the financial backing a fledgling company needs.  Securing funding to get a new business off the ground is one of the most important decisions any founder can make, so the training in The Complete CEO Startups Venture Capital Bundle can be crucial to the ultimate success or failure of the whole enterprise.
+
+
+***
+![Amazon rebrands Amazon Go Grocery to Amazon Fresh, closes Seattle-area store near Microsoft HQ](https://cdn.geekwire.com/wp-content/uploads/2020/09/amazongo0916_141319.jpg "Amazon rebrands Amazon Go Grocery to Amazon Fresh, closes Seattle-area store near Microsoft HQ")
+
+
+[Amazon rebrands Amazon Go Grocery to Amazon Fresh, closes Seattle-area store near Microsoft HQ](https://www.geekwire.com/2021/amazon-rebrands-amazon-go-grocery-amazon-fresh-closes-seattle-area-store-near-microsoft-hq/)
+
+
+> by Taylor Soper on May 17, 2021 at 5:23 pm The Amazon Go Grocery in Redmond, Wash., is closing. (GeekWire Photo / Taylor Soper) The news: Amazon is renaming its Amazon Go Grocery brand to 'Amazon Fresh' and closing its Amazon Go Grocery store in Redmond, Wash., near Microsoft's headquarters, GeekWire has learned. The other Amazon Go Grocery store in Seattle's Capitol Hill neighborhood will remain open and be called 'Amazon Fresh.' Why it matters: Amazon made it a little confusing to track its various new grocery options — Amazon Go, Amazon Go Grocery, Amazon Fresh grocery stores, Amazon Fresh delivery, Whole Foods delivery, Prime Now delivery, etc.
+
+
+***
+[Bright Machines, which uses robotics and AI to automate manufacturing tasks, is merging with a SPAC to go public at a $1.6B post-deal valuation (Amrith Ramkumar/Wall Street Journal)](http://www.techmeme.com/210517/p41#a210517p41)
+
+
+> Amrith Ramkumar / Wall Street Journal: Bright Machines, which uses robotics and AI to automate manufacturing tasks, is merging with a SPAC to go public at a $1.6B post-deal valuation — Manufacturing-software company joins 3D-printing companies hoping to modernize manufacturing that are going public through SPACs
+
+
