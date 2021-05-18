@@ -9523,3 +9523,53 @@
 > Credit Suisse Group (CSGN.S) said it planned to hire over 1,000 IT employees in India this year to show its commitment to the country and its intention to establish it as a global technology innovation center for the bank. The hires will comprise of developers and engineers with capabilities in emerging technologies such as cybersecurity, data analytics, cloud, API development, machine learning and artificial intelligence to support the bank's digital aspirations, the Swiss bank said in a statement on Tuesday.
 
 
+***
+![A Peek Into The Markets: US Stock Futures Up Ahead Of Walmart, Home Depot Earnings](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/peek_into_the_marketnew_177.png "A Peek Into The Markets: US Stock Futures Up Ahead Of Walmart, Home Depot Earnings")
+
+
+[A Peek Into The Markets: US Stock Futures Up Ahead Of Walmart, Home Depot Earnings](https://www.benzinga.com/news/earnings/21/05/21170272/a-peek-into-the-markets-us-stock-futures-up-ahead-of-walmart-home-depot-earnings)
+
+
+> Pre-open movers U.S. stock futures traded higher in early pre-market trade ahead of earnings from some major companies. The Dow Jones fell 50 points in the previous session after the Wall street recorded its worst week since February 26. Investors are awaiting earnings results from The Home Depot, Inc. (NYSE: HD), Walmart Inc. (NYSE: WMT) and Macy's, Inc. (NYSE: M). Data on housing starts and permits for April will be released at 8:30 a.m. ET. Federal Reserve Bank of Atlanta President Raphael Bostic is set to speak at 11:00 a.
+
+
+***
+![Mass Effect Legendary Edition's first patch fixes this frustrating Xbox Series X issue](https://cdn.mos.cms.futurecdn.net/BceBWg2SGc3Zbb9yV3Vap4-1200-80.jpg "Mass Effect Legendary Edition's first patch fixes this frustrating Xbox Series X issue")
+
+
+[Mass Effect Legendary Edition's first patch fixes this frustrating Xbox Series X issue](https://www.techradar.com/news/mass-effect-legendary-editions-first-patch-fixes-this-frustrating-xbox-series-x-issue)
+
+
+> (Image credit: EA) EA has rolled out its first patch for Mass Effect Legendary Edition. which aims to fix several in-game bugs and issues as well as implementing some improvements. But, perhaps the most welcome fix is that of a frustrating Xbox bug, which saw those attempting to boot up Mass Effect Legendary Edition on an Xbox Series X/S or Xbox One experiencing crashes when the hardware was connected to wireless headsets, like the Xbox Wireless Headset. Players reported being kicked back to the Xbox dashboard when they tried to open Mass Effect Legendary Edition while a wireless headset was attached.
+
+
+***
+![The best external hard drives for 2021](https://icdn.digitaltrends.com/image/digitaltrends/seagate-backup-plus-ultra-slim-2tb-hd-plugged-in-2.jpg "The best external hard drives for 2021")
+
+
+[The best external hard drives for 2021](https://www.digitaltrends.com/computing/best-external-hard-drives/)
+
+
+> Almost nothing is worse than realizing you don't have enough space on your PC to store your latest files. External drives can be a great solution to that problem, as well as a good backup source to keep your most precious data protected. As outlined in our guide on how to choose an external hard drive, you'll want one that's fast, easy to use, and won't break the bank. Our current top pick is the Samsung T5, a compact, affordable, high-speed storage solution. In addition to our top pick, we list other drives you should consider for durability, wireless connectivity, and more.
+
+
+***
+![Advocates warn 'homework gap' likely to persist after pandemic](https://thehill.com/sites/default/files/ca_remotelearning_43020istock.jpg "Advocates warn 'homework gap' likely to persist after pandemic")
+
+
+[Advocates warn 'homework gap' likely to persist after pandemic](https://thehill.com/policy/technology/553908-advocates-warn-homework-gap-likely-to-persist-after-pandemic)
+
+
+> The digital divide in education that was exposed by remote learning during the pandemic is likely to persist even when students return to classrooms, advocates warn.The 'homework gap' — the divide between students who have home access to the internet for educational purposes and those who don't — has proven challenging for educators in rural and even some urban areas where broadband is not available or affordable. Many teachers are also affected.While efforts are underway to provide students with adequate internet access, advocates say the problem is unlikely to go away in the fall because remote learning will not completely go away when in-person classes resume.
+
+
+***
+![Facebook will change YOUR profile picture if you break ‘fake news' rules in new clampdown](https://www.thesun.co.uk/wp-content/uploads/2021/01/NINTCHDBPICT000573222536.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Facebook will change YOUR profile picture if you break ‘fake news' rules in new clampdown")
+
+
+[Facebook will change YOUR profile picture if you break ‘fake news' rules in new clampdown](https://www.thesun.co.uk/tech/14988839/facebook-profile-picture-change-anti-vaccine/)
+
+
+> YOUR Facebook profile picture could be changed without your consent if you break certain rules. The move is part of Facebook's clampdown on fake news and anti-vaccine statements. Facebook is cracking down on fake newsCredit: AFP or licensors A report from the tech giant revealed how it's battling to remove profile pictures that promote an anti-vaccine message. Those types of profile pictures, which may feature a person's face surrounded by an anti-vaccine quote, breach Facebook's guidelines. It said in a blogpost: "An important part of our work to increase vaccinations is to address content that violates our rules on COVID-19 and vaccine misinformation.
+
+
