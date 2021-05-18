@@ -9432,3 +9432,47 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[java web app development](https://www.reddit.com/r/programming/comments/nf2pl9/java_web_app_development/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[MiniLED 良率問題難解，蘋果新一代 iPad Pro 傳延至 7 月出貨](https://technews.tw/2021/05/18/miniled-ipad-pro-2/)
+
+
+> 蘋果在春季發表會時發布新一代 iPad Pro，當中 12.9 吋的 iPad Pro 還搭載 MiniLED […]
+
+
+***
+![Microsoft Teams adds new features to make personal calls more engaging](https://cdn.mos.cms.futurecdn.net/SFzLcvENhDgDafNcu2WNdA-1200-80.jpg "Microsoft Teams adds new features to make personal calls more engaging")
+
+
+[Microsoft Teams adds new features to make personal calls more engaging](https://www.techradar.com/news/microsoft-teams-adds-new-features-to-make-personal-calls-more-engaging)
+
+
+> (Image credit: wichayada suwanachun / Shutterstock) Ever since the pandemic outbreak disrupted our lives, tools like Zoom, Microsoft Teams and Google Meet etc. have come to the fore to help people work remotely. However, the companies behind these platforms have identified that these applications are not only helpful in getting you through the days' work but can be extremely handy for people to connect with their loved ones.Hence, some of the new features added to these platforms are dedicated to the family and friends' audience looking to set up their personal meetings.
+
+
+***
+![Blue Origin set to reveal highest bid so far in space tourism auction](https://icdn.digitaltrends.com/image/digitaltrends/blue-origin-23-jan-2019.jpg "Blue Origin set to reveal highest bid so far in space tourism auction")
+
+
+[Blue Origin set to reveal highest bid so far in space tourism auction](https://www.digitaltrends.com/news/blue-origin-to-reveal-highest-bid-yet-in-space-trip-auction/)
+
+
+> Blue Origin is about to reveal the highest bid submitted during the initial private phase of an auction for its first space tourist seat. The company's first-ever crewed flight aboard its New Shepard rocket is set to take place on July 20 and will transport the crew to around 62 miles above Earth in a launch-to-landing experience lasting about 10 minutes. Blue Origin began the auction on May 5, and this week, on Wednesday, May 19, it will reveal the highest bid made so far. The bidding process will then go public, with participants having to exceed the highest offer to have a chance at bagging the first tourist seat for July's highly anticipated flight.
+
+
+***
+![Best Adobe InDesign alternatives: Free and paid software options from Corel and others](https://cdn.mos.cms.futurecdn.net/AduHjJdte6F52cx44SHY99-1200-80.jpeg "Best Adobe InDesign alternatives: Free and paid software options from Corel and others")
+
+
+[Best Adobe InDesign alternatives: Free and paid software options from Corel and others](https://www.techradar.com/best/adobe-indesign-alternatives)
+
+
+> Adobe InDesign is one of the most popular apps when it comes to desktop publishing software. Its extensive page layout features and wide selection of fonts are among the benefits that make it the number-one choice of many professionals for designing books, magazines, posters, and more.However, it isn't for everyone. A common criticism of Adobe software is its subscription pricing model, which can cause costs to add up over time. Some users also find InDesign's interface too cluttered and unintuitive.
+
+
