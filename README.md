@@ -9817,3 +9817,53 @@
 > Most consumers want a high-definition TV to watch, so why not have a high-definition monitor, too? A 4K monitor showcases a 4,000-pixel image with ultra-high definition. Images are clear and precise, creating a digital heaven for anyone using a PC for work or gaming. The LG 27UK850-W is the perfect example of that, and that's why it's our top pick. But don't worry if you aren't sure of which monitor to put your money on. Our roundup of the best 4K monitors for 2020 should help you make the right choice.
 
 
+***
+![Together, Google and Samsung just may have a chance to beat the Apple Watch](https://icdn.digitaltrends.com/image/digitaltrends/apple-watch-se-side-wrist-gold.jpg "Together, Google and Samsung just may have a chance to beat the Apple Watch")
+
+
+[Together, Google and Samsung just may have a chance to beat the Apple Watch](https://www.digitaltrends.com/wearables/google-samsung-together-may-beat-the-apple-watch/)
+
+
+> At this moment in time, Apple owns the smartwatch space, and the Apple Watch's status as the world's bestselling watch is well-deserved. Google, on the other hand, has let Wear OS stagnate over the years, and while the dedicated companies that use Wear OS keep making great hardware, the software usually feels substandard. Samsung makes the only true competitor to the Apple Watch. The Galaxy Watch 3's fluid, well-designed Tizen software and innovative control system make it a winner, but it lacks Google apps and services.
+
+
+***
+![Report: Bill Gates 'Pursued' Several Women in His Office While Married](https://media.breitbart.com/media/2019/11/bill-gates.jpg "Report: Bill Gates 'Pursued' Several Women in His Office While Married")
+
+
+[Report: Bill Gates 'Pursued' Several Women in His Office While Married](https://www.breitbart.com/tech/2021/05/18/report-bill-gates-pursued-several-women-in-his-office-while-married/)
+
+
+> Microsoft founder Bill Gates reportedly 'pursued' several women in his office while married to his wife, Melinda French Gates, who is now estranged. Six women told the New York Times that Gates was known for making 'graceless' approaches towards women both inside and outside the office. On at least a few occasions, Bill Gates pursued women who worked for him at both Microsoft, and the Bill and Melinda Gates Foundation, according to a report by the New York Times. Six current and former staffers told the newspaper that the billionaire's questionable conduct created, at times, an uncomfortable workplace environment, and that Gates was known for making graceless approaches toward women, both in and outside of the office.
+
+
+***
+![Watch singing AI blobs rock the house with Tune-Yards at Google I/O](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F127724%252Ff4dd622c-59fc-40d2-83b5-5abaf6d68bff.png%252F950x534.png?signature=NxzIfYOXvYTzSPXf9t_kugT8nwM=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "Watch singing AI blobs rock the house with Tune-Yards at Google I/O")
+
+
+[Watch singing AI blobs rock the house with Tune-Yards at Google I/O](https://mashable.com/video/blob-opera-tune-yards-google-io-2021/)
+
+
+> The blobs are back in town. Google opened its I/O developer conference Tuesday with a performance that felt genuinely innovative, and actually fun, from the avant-garde vocal and electronica artist Tune-Yards  — and Google's own Blob Opera. The Blob Opera is an interactive Google Arts & Culture project from December 2020 that lets users create their own opera song, sung by animated blobs. Four opera singers spent hours in the studio recording operatic music. Their voices were assigned to four animated characters — called blobs — one each for soprano, mezzo-soprano, tenor, and bass, with the ability to harmonize and sing together due to the machine learning algorithm that powers the project.
+
+
+***
+![Top streamer says Twitch revoked her ability to run ads without warning](https://cdn.vox-cdn.com/thumbor/SpsoqeVkj2tx7S1gVoHVG9CzPsY=/0x0:2087x1174/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/69308051/amouranth.0.png "Top streamer says Twitch revoked her ability to run ads without warning")
+
+
+[Top streamer says Twitch revoked her ability to run ads without warning](https://www.theverge.com/2021/5/18/22442733/amouranth-twitch-ads-suspended-indefinitely)
+
+
+> Amouranth during an ASMR stream. Image: Amouranth / Twitch Twitch has removed the ability for Kaitlyn 'Amouranth' Siragusa, one of the most popular streamers on its platform, to run ads on her videos — even though it's unclear that she broke any of the site's rules. Siragusa said in a tweet that it's because her streams are 'not advertiser friendly.' Siragusa is known for streaming herself chatting and gaming while wearing swimsuits. She's hugely popular, with more than 20,000 subscribers — putting her among the site's top 20, according to TwitchTracker.
+
+
+***
+![Game Reviews](https://icdn.digitaltrends.com/image/digitaltrends/dt_logo_lockup_blue.jpg "Game Reviews")
+
+
+[Game Reviews](https://www.digitaltrends.com/game-reviews/)
+
+
+> Best Games More Game Reviews
+
+
