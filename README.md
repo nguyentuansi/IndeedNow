@@ -9476,3 +9476,50 @@
 > Adobe InDesign is one of the most popular apps when it comes to desktop publishing software. Its extensive page layout features and wide selection of fonts are among the benefits that make it the number-one choice of many professionals for designing books, magazines, posters, and more.However, it isn't for everyone. A common criticism of Adobe software is its subscription pricing model, which can cause costs to add up over time. Some users also find InDesign's interface too cluttered and unintuitive.
 
 
+***
+!["Bread" and then punk"... Damaged by the Olympics in the rain](https://img.sbs.co.kr/newimg/news/20210517/201551547_1280.jpg ""Bread" and then punk"... Damaged by the Olympics in the rain")
+
+
+["Bread" and then punk"... Damaged by the Olympics in the rain](https://www.tellerreport.com/tech/2021-05-18-"bread"-and-then-punk"----damaged-by-the-olympics-in-the-rain.rkbYFIeWtu.html)
+
+
+> There is rain news today. During the weekend, there was quite a lot of rain for the spring rain, causing rainwater to pit roads everywhere. Yesterday evening, there were accidents in which the tires of a vehicle were damaged on a hollow road on Olympic Road in Seoul. There is rain news today (17th) as well. During the weekend, there was quite a lot of rain for the spring rain, causing rainwater to pit roads everywhere. Yesterday evening, there were accidents in which the tires of a vehicle were damaged on a hollow road on Olympic Road in Seoul.
+
+
+***
+[SnapMirror](https://itwire.com/freelancer-sp-720/tag/SnapMirror.html)
+
+
+> Cloud data management company Rubrik has announced enhancements to help organisations recover from ransomware attacks.
+
+
+***
+![ਬੁਰੀ ਖ਼ਬਰ! 15 ਦਿਨਾਂ ਅੰਦਰ 7 ਬਾਈਕਸ ਤੇ ਕਾਰਾਂ ਦੀ ਕੀਮਤ ਚ ਭਾਰੀ ਵਾਧਾ](https://static.jagbani.com/multimedia/2021_5image_08_59_21286019512-ll.jpg "ਬੁਰੀ ਖ਼ਬਰ! 15 ਦਿਨਾਂ ਅੰਦਰ 7 ਬਾਈਕਸ ਤੇ ਕਾਰਾਂ ਦੀ ਕੀਮਤ ਚ ਭਾਰੀ ਵਾਧਾ")
+
+
+[ਬੁਰੀ ਖ਼ਬਰ! 15 ਦਿਨਾਂ ਅੰਦਰ 7 ਬਾਈਕਸ ਤੇ ਕਾਰਾਂ ਦੀ ਕੀਮਤ ਚ ਭਾਰੀ ਵਾਧਾ](https://jagbani.punjabkesari.in/gadgets/news/prices-of-7-bikes-and-cars-skyrocket-in-15-days-1287775)
+
+
+> Subscribe Now! Facebook twitter google +
+
+
+***
+![Apple Music will offer Lossless Audio at no additional cost, but it won't work with AirPods](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-05/apple-airpods-max-malaysia_180521-seo.jpg "Apple Music will offer Lossless Audio at no additional cost, but it won't work with AirPods")
+
+
+[Apple Music will offer Lossless Audio at no additional cost, but it won't work with AirPods](https://soyacincau.com/2021/05/18/apple-music-spatial-lossless-audio-dolby-atmos-airpods/)
+
+
+> Apple has now confirmed that Lossless Audio will be coming to its streaming service in June 2021. ― SoyaCincau pic Subscribe to our Telegram channel for the latest updates on news you need to know. KUALA LUMPUR, May 18 ― The rumours were true, and Apple has now confirmed that Lossless Audio will be coming to its streaming service in June 2021. Along with that, Apple Music will also support Spatial Audio with Dolby Atmos — all of which will be offered to subscribers at no additional cost. This, as I previously mentioned, might just be the boost that the Cupertino-based company's music service needs, offering an edge over main rivals Spotify (who have yet to offer the lossless audio format).
+
+
+***
+![Credit Suisse to hire over 1,000 IT staff in India in 2021](https://www.reuters.com/pf/resources/icons/favicon.ico?d=29 "Credit Suisse to hire over 1,000 IT staff in India in 2021")
+
+
+[Credit Suisse to hire over 1,000 IT staff in India in 2021](https://www.reuters.com/technology/credit-suisse-hire-over-1000-it-staff-india-2021-2021-05-18/)
+
+
+> Credit Suisse Group (CSGN.S) said it planned to hire over 1,000 IT employees in India this year to show its commitment to the country and its intention to establish it as a global technology innovation center for the bank. The hires will comprise of developers and engineers with capabilities in emerging technologies such as cybersecurity, data analytics, cloud, API development, machine learning and artificial intelligence to support the bank's digital aspirations, the Swiss bank said in a statement on Tuesday.
+
+
