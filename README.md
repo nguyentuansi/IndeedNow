@@ -9573,3 +9573,53 @@
 > YOUR Facebook profile picture could be changed without your consent if you break certain rules. The move is part of Facebook's clampdown on fake news and anti-vaccine statements. Facebook is cracking down on fake newsCredit: AFP or licensors A report from the tech giant revealed how it's battling to remove profile pictures that promote an anti-vaccine message. Those types of profile pictures, which may feature a person's face surrounded by an anti-vaccine quote, breach Facebook's guidelines. It said in a blogpost: "An important part of our work to increase vaccinations is to address content that violates our rules on COVID-19 and vaccine misinformation.
 
 
+***
+![Cantaloupe Introduces ePort® Engage Series](https://mms.businesswire.com/media/20210518005349/en/1092778/23/cantaloupe_vertical_2c_%281%29.jpg "Cantaloupe Introduces ePort® Engage Series")
+
+
+[Cantaloupe Introduces ePort® Engage Series](https://www.businesswire.com/news/home/20210518005349/en/Cantaloupe-Introduces-ePort%C2%AE-Engage-Series)
+
+
+> May 18, 2021 08:15 AM Eastern Daylight Time MALVERN, Pa.--(BUSINESS WIRE)--Cantaloupe, Inc. (NASDAQ: CTLP) ('Cantaloupe' or the 'Company'), a digital payments and software services company that provides end-to-end technology solutions for the unattended retail market, today announced the development of the ePort® Connect Platform's premium and next generation touch screen devices, the ePort Engage and the ePort Engage Combo. This new iteration of the ePort Series gives retailers the ability to captivate consumers in new ways and enables truly frictionless purchasing.
+
+
+***
+![Press Ganey Secures New US Patent for AI-Driven Insights](https://mms.businesswire.com/media/20210518005677/en/879292/23/PressGaneyLogo.jpg "Press Ganey Secures New US Patent for AI-Driven Insights")
+
+
+[Press Ganey Secures New US Patent for AI-Driven Insights](https://www.businesswire.com/news/home/20210518005677/en/Press-Ganey-Secures-New-US-Patent-for-AI-Driven-Insights)
+
+
+> May 18, 2021 08:13 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Press Ganey today announced that the United States Patent and Trademark Office issued U.S. Patent No. 11,003,849 detailing an innovative artificial intelligence methodology allowing health care organizations to extract and parse impactful insights from unstructured text to enable continuous improvements and revolutionize the patient experience. 'This is an exciting innovation for Press Ganey, our clients and their patients,' said Daniel Litwer, Chief Client Officer, Press Ganey.
+
+
+***
+![The Great Engineering Newsletter](https://external-preview.redd.it/kZUFCZeV_cobG48JM-SG8WrSzEIqjGgWiHVWwZ15dbQ.jpg?auto=webp&s=97637266498dd2767dde5ca26923891192457589 "The Great Engineering Newsletter")
+
+
+[The Great Engineering Newsletter](https://www.reddit.com/r/programming/comments/nf93cg/the_great_engineering_newsletter/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![WordPress Evangelist Robert Jacobi Joins Cloudways Executive Team](https://mms.businesswire.com/media/20210518005676/en/878472/23/Cloudways_Blue_Logo.jpg "WordPress Evangelist Robert Jacobi Joins Cloudways Executive Team")
+
+
+[WordPress Evangelist Robert Jacobi Joins Cloudways Executive Team](https://www.businesswire.com/news/home/20210518005676/en/WordPress-Evangelist-Robert-Jacobi-Joins-Cloudways-Executive-Team)
+
+
+> May 18, 2021 08:12 AM Eastern Daylight Time CHICAGO--(BUSINESS WIRE)--Cloudways (www.cloudways.com), a cloud hosting provider focused on simplicity and productivity, is announcing that Robert Jacobi is joining its executive team. He brings his vast experience across the world of web hosting to join the company as Director of WordPress. Robert has led several successful ventures in the open-source and hosting industry and is an internationally recognized leader among web professionals. Cloudways is a multi-cloud managed application as a service platform that lets users choose where they want their website to be hosted from a variety of options, including Amazon Web Services, Google Cloud, DigitalOcean, Vultr, and Linode.
+
+
+***
+![Cobham Mission Systems Awarded Contract from Thales Alenia Space Italia for Orion ESM Life Support Components](https://mms.businesswire.com/media/20210518005344/en/879138/23/cobham-logo.jpg "Cobham Mission Systems Awarded Contract from Thales Alenia Space Italia for Orion ESM Life Support Components")
+
+
+[Cobham Mission Systems Awarded Contract from Thales Alenia Space Italia for Orion ESM Life Support Components](https://www.businesswire.com/news/home/20210518005344/en/Cobham-Mission-Systems-Awarded-Contract-from-Thales-Alenia-Space-Italia-for-Orion-ESM-Life-Support-Components)
+
+
+> May 18, 2021 08:07 AM Eastern Daylight Time ORCHARD PARK, N.Y.--(BUSINESS WIRE)--Cobham Mission Systems, the U.S.-based world leader in space life support systems, announced today it has been awarded a follow-on contract from Thales Alenia Space Italia for regulators and latch valves to be used on the European Service Modules for NASA's American-crewed Orion spacecraft. The ESM provides essential support functions for the Orion Multi-Purpose Crew Vehicle, which will be launched on the Space Launch System under the Artemis program to take astronauts to the moon and eventually to Mars.
+
+
