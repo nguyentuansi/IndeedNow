@@ -9382,3 +9382,53 @@
 > Charlie Savage / New York Times: Court doc: Twitter fought a subpoena from DOJ under Trump to identify the person behind an account mocking Rep. Devin Nunes; source: DOJ under Biden withdrew — An unsealed court filing shows that the social media company fought the subpoena, which the Biden administration is said to have withdrawn.
 
 
+***
+![Apple Music, Spotify with lossless audio quality may help refresh the music streaming service segment in India](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/apple-music-ui-647x363.jpeg?HJXVertje6ds1bIWaIBrPpIaIJbdoRSG "Apple Music, Spotify with lossless audio quality may help refresh the music streaming service segment in India")
+
+
+[Apple Music, Spotify with lossless audio quality may help refresh the music streaming service segment in India](https://www.indiatoday.in/technology/talking-points/story/apple-music-spotify-with-lossless-audio-quality-may-help-refresh-the-music-streaming-service-segment-in-india-1803800-2021-05-18)
+
+
+> First Spotify, and now Apple, is set to bring CD-quality and lossless audio format to its music streaming service. If there's one feature missing in popular streaming music services like Apple Music, Spotify, and other similar apps until now, then it has to be high-quality music streaming. Spotify, back in February, claimed that high-quality music streaming was one of the most requested features by its subscribers. After teasing what it calls "the next generation of sound", Apple on Monday announced lossless audio to its entire catalogue of the music library.
+
+
+***
+![Bolt undercuts rivals in nine-city German e-scooter rollout](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "Bolt undercuts rivals in nine-city German e-scooter rollout")
+
+
+[Bolt undercuts rivals in nine-city German e-scooter rollout](https://www.reuters.com/article/tech-bolt-idUSL5N2N45CY)
+
+
+> By Douglas BusvineBERLIN, May 18 (Reuters) - Estonian start-up Bolt launched electric scooter services in nine German cities on Tuesday, saying the rollout was the biggest of its kind and challenging rivals with ultra-low pricing.Bolt, formerly known as Taxify, will offer rides for as little as 0.05 euros ($0.06) per minute with no unlocking fee, undercutting competitors that typically charge 1 euro per trip plus 15-25 euro cents a minute.'We think that's a price point where really everyone can start using the service,' Bolt's 27-year-old chief executive and co-founder Markus Villig told Reuters.
+
+
+***
+![NetEase-Sony deal is newest blow to Tencent's grip over music](https://apicms.thestar.com.my/uploads/images/2021/05/18/1152131.jpg "NetEase-Sony deal is newest blow to Tencent's grip over music")
+
+
+[NetEase-Sony deal is newest blow to Tencent's grip over music](https://www.thestar.com.my/tech/tech-news/2021/05/18/netease-sony-deal-is-newest-blow-to-tencents-grip-over-music)
+
+
+> China is preparing to slap a fine on Tencent as part of its antitrust crackdown on the country's internet giants, Reuters reported in April, citing unnamed sources. Part of the investigation focuses on its music spinoff, the report said, and regulators have informed Tencent that it should give up exclusive music rights.China's antitrust watchdog had investigated Tencent's dealings with the world's three biggest record labels but the probe was suspended, people familiar with the matter told Bloomberg News last February.
+
+
+***
+![Protect all of your devices with a secure subscription to ZenMate VPN](https://mondrian.mashable.com/2021%252F05%252F18%252F6b%252F5883d6d9673a436a9e96d5e6853cfbf5.b8671.jpg%252F1200x630.jpg?signature=KTy-_H_1DfoiIJ1tVI5rkebG3gA= "Protect all of your devices with a secure subscription to ZenMate VPN")
+
+
+[Protect all of your devices with a secure subscription to ZenMate VPN](https://mashable.com/uk/shopping/may-18-best-zenmate-vpn-deal/)
+
+
+> SAVE 85%: A three-year subscription to ZenMate VPN is on sale for £1.44 per month as of May 18, saving you 85% on list price. Another day, another deal on a VPN. We know what you're thinking: aren't we bored of deals on VPNs at this point? Absolutely not. There's nothing we love more than sourcing the best deals on VPNs. Nothing. We're fine with this. Totally fine. Anyway, a three-year subscription to ZenMate VPN is on sale for £1.44 per month as of May 18. This deal saves you a massive 85% on list price, and is fully refundable for 30 days.
+
+
+***
+![Intel makes GTA V Hyperrealistic with CNN's!](https://external-preview.redd.it/teKLmwtn2TvPDwLg28XElvIPixe7YR5514S0_K4vfR8.jpg?auto=webp&s=bc66d47659567c12b45c828859007336c8271d6f "Intel makes GTA V Hyperrealistic with CNN's!")
+
+
+[Intel makes GTA V Hyperrealistic with CNN's!](https://www.reddit.com/r/programming/comments/nf0ja1/intel_makes_gta_v_hyperrealistic_with_cnns/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
