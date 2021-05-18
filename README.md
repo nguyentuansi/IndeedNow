@@ -9335,3 +9335,50 @@
 > Amrith Ramkumar / Wall Street Journal: Bright Machines, which uses robotics and AI to automate manufacturing tasks, is merging with a SPAC to go public at a $1.6B post-deal valuation — Manufacturing-software company joins 3D-printing companies hoping to modernize manufacturing that are going public through SPACs
 
 
+***
+![Emsisoft CTO ridicules claims that Russian keyboard setting could stop ransomware](https://itwire.com/media/k2/items/cache/54e5925621802ba877447b990663a057_XS.jpg "Emsisoft CTO ridicules claims that Russian keyboard setting could stop ransomware")
+
+
+[Emsisoft CTO ridicules claims that Russian keyboard setting could stop ransomware](https://itwire.com/security/emsisoft-cto-ridicules-claims-that-russian-keyboard-setting-could-stop-ransomware.html)
+
+
+> Image by Никита Сажин from Pixabay The chief technology officer of New Zealand-headquartered Emsisoft, a firm well known for its efforts in helping ransomware victims, has poked fun at the "new 'innovative' ways people will claim to be the next big fix for ransomware". "One of these eight-year-old running gags kinda turned into a real recommendation recently: Changing your keyboard layout to Russian," Fabian Wosar wrote in a tweet. He appeared to be taking a dig at former Washington Post employee Brian Krebs who posted an article on his blog titled "Try This One Weird Trick Russian Hackers Hate" on 17 May US time.
+
+
+***
+![Best cheap MacBook deals for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/macbook-air-2018-review-5879.jpg "Best cheap MacBook deals for May 2021")
+
+
+[Best cheap MacBook deals for May 2021](https://www.digitaltrends.com/computing/best-cheap-macbook-deals/)
+
+
+> In the expansive and highly competitive world of laptops, the MacBook still stands as a giant. In fact, the MacBook is easily one of the single most popular laptop models out there, despite that fact that Windows PCs combined still command more than 90% of the total market. MacBooks aren't known for being the most inexpensive laptops you can buy, but if you're one of the many people who keeps coming back to MacOS for its simplicity, reliability, and slick UI, then you know it's worth it. That said, we can help lighten the blow to your bank account with this hand-picked selection of the best MacBook deals available this week.
+
+
+***
+![Find My power usage on iPad OS 14.6](https://forums.macrumors.com/attachments/e60dfbcd-185d-4248-9494-12a4e0766e3a-jpeg.1776428/ "Find My power usage on iPad OS 14.6")
+
+
+[Find My power usage on iPad OS 14.6](https://forums.macrumors.com/threads/find-my-power-usage-on-ipad-os-14-6.2296585/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I am running the 14.6 beta 3 on a 10.5 inch iPad Pro. It has just been sitting on my nightstand. It went through almost half of the battery in 24 hours. 86% of the usage. There are 4 air tags in our house. Two on my iCloud account. I reported this via the feedback app. Has anyone else experienced this? My iPhone 12 Pro Max is not having this issue.
+
+
+***
+![The 2021 Australian PC Awards live stream: tune in June 23, 24 & 25](https://cdn.mos.cms.futurecdn.net/FUpUJcawWKQUc8QckhMrs4-1200-80.jpg "The 2021 Australian PC Awards live stream: tune in June 23, 24 & 25")
+
+
+[The 2021 Australian PC Awards live stream: tune in June 23, 24 & 25](https://www.techradar.com/news/apca-2021)
+
+
+> (Image credit: Future) [Update: Monday 17 May @ 9:30am: It's your last chance to vote! Entries for the Gold Award close at 11:59pm tonight, so click here to have your say and the chance to win one of three prize packs!]G'day and welcome to the 2021 Australian PC Awards!As we've done for the past four years, Future Australia is putting together a special awards event in 2021 that seeks to recognise and celebrate the most important products, technologies and companies operating in the PC space over the last 12 (or so) months – January 1, 2020 to March 31, 2021 to be exact.
+
+
+***
+[Court doc: Twitter fought a subpoena from DOJ under Trump to identify the person behind an account mocking Rep. Devin Nunes; source: DOJ under Biden withdrew (Charlie Savage/New York Times)](http://www.techmeme.com/210517/p43#a210517p43)
+
+
+> Charlie Savage / New York Times: Court doc: Twitter fought a subpoena from DOJ under Trump to identify the person behind an account mocking Rep. Devin Nunes; source: DOJ under Biden withdrew — An unsealed court filing shows that the social media company fought the subpoena, which the Biden administration is said to have withdrawn.
+
+
