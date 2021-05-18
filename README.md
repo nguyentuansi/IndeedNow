@@ -9623,3 +9623,50 @@
 > May 18, 2021 08:07 AM Eastern Daylight Time ORCHARD PARK, N.Y.--(BUSINESS WIRE)--Cobham Mission Systems, the U.S.-based world leader in space life support systems, announced today it has been awarded a follow-on contract from Thales Alenia Space Italia for regulators and latch valves to be used on the European Service Modules for NASA's American-crewed Orion spacecraft. The ESM provides essential support functions for the Orion Multi-Purpose Crew Vehicle, which will be launched on the Space Launch System under the Artemis program to take astronauts to the moon and eventually to Mars.
 
 
+***
+![Learn Complete Python](https://external-preview.redd.it/L_f0FvIui33ipsuVs4YGg66M6OaLjUzeRSWjbi8avFk.jpg?auto=webp&s=f70cafff75bc8e42b023b9dd4703710fe7d09d2c "Learn Complete Python")
+
+
+[Learn Complete Python](https://www.reddit.com/r/Python/comments/nfbl2a/learn_complete_python_go_from_zero_to_hero_in/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Extend raises $260M on a $1.6B valuation to expand its warranty and protection plan services – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/extend.jpg?w=487 "Extend raises $260M on a $1.6B valuation to expand its warranty and protection plan services – TechCrunch")
+
+
+[Extend raises $260M on a $1.6B valuation to expand its warranty and protection plan services – TechCrunch](https://techcrunch.com/2021/05/18/extend-raises-260m-on-a-1-6b-valuation-to-expand-its-warranty-and-protection-plan-services/)
+
+
+> A company that has built a new approach to the business of extended warranties — providing a cost-effective and efficient way for retailers or brands to offer them; and an easy way for consumers to buy and file claims against them — is today announcing a huge round of funding as it looks to take its business to the next level. Extend — which aims, in the words of co-founder and CEO Woody Levin, to become the 'Apple Care' for everything that's not an actual Apple product — has raised $260 million, a Series C that values the company at over $1.
+
+
+***
+[Piano, which offers analytics, subscription, and personalization tools for publishers, raises $88M Series B, bringing its total raised to $241M+ (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210518/p17#a210518p17)
+
+
+> Ingrid Lunden / TechCrunch: Piano, which offers analytics, subscription, and personalization tools for publishers, raises $88M Series B, bringing its total raised to $241M+ — As publishers face up to whatever might be their next existential crisis — there are so many options from which to choose …
+
+
+***
+![Review: Shin Megami Tensei III Nocturne HD Remaster doesn't update enough](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/shin-megami-tensei-nocturne-demifiend.jpg "Review: Shin Megami Tensei III Nocturne HD Remaster doesn't update enough")
+
+
+[Review: Shin Megami Tensei III Nocturne HD Remaster doesn't update enough](https://www.imore.com/shin-megami-tensei-iii-nocturne-hd-remaster-review-nintendo-switch)
+
+
+> Source: iMore I first began playing the Shin Megami Tensei games when they were published on the Nintendo DS and PlayStation Portable, meaning I missed the earlier console entries in the series. I was hoping that Shin Megami Tensei III Nocturne HD Remaster would rank among the best remakes and remasters on Nintendo Switch 2021, but the game is still largely stuck in 2003. While the upgraded visuals and audio are definitely well done, not enough has been changed. That makes the game feel extremely dated compared to more recent entries in the franchise.
+
+
+***
+![Wix and Vodafone teams up to bring website builders to SMEs](https://cdn.mos.cms.futurecdn.net/j9dVkTgb9nLRbKs2vh8yxn-1200-80.jpg "Wix and Vodafone teams up to bring website builders to SMEs")
+
+
+[Wix and Vodafone teams up to bring website builders to SMEs](https://www.techradar.com/news/wix-and-vodafone-teams-up-to-bring-website-builders-to-smes)
+
+
+> (Image credit: Wix) Popular website builder Wix has joined forces with Vodafone as mobile network operator launches a series of business boosting packages for small and medium-sized enterprises (SMEs).The tools will be powered by Wix and have been designed to create or improve the online presence of SMEs across the UK.Vodafone said its packages feature tools to help with building a new website, growing a brand and protecting businesses and customers online from cyber-attacks. Website builders for SMEs Vodafone is offering three choices, the 'get selling' online package, the 'peace of mind online' package, and the 'supercharge my business online' package.
+
+
