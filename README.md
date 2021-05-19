@@ -10246,3 +10246,53 @@
 > Well, the conference had been cancelled last year, so by no means was Google not going to make this one a big event.Google I/O 2021: Google's major developer conference, the Google I/O, kicked off on Tuesday with a keynote address in which several announcements were made. The new announcements include the new look that Android 12 would be getting along with several features being incorporated into the tech giant's productivity suite Google Workspace. Here's a look at all the major announcements Google made during the big conference.
 
 
+***
+![[OC] I built a way to create splash pages in less than 20 lines of python. Splashgen is an open source project](https://external-preview.redd.it/xiK3Xhoqt_jHHZnChaN-5xea2GtdUZvLTjLKk-VVg8k.jpg?auto=webp&s=c8eb97a44a531d03175629edda96d71efaabdf65 "[OC] I built a way to create splash pages in less than 20 lines of python. Splashgen is an open source project")
+
+
+[[OC] I built a way to create splash pages in less than 20 lines of python. Splashgen is an open source project](https://www.reddit.com/r/programming/comments/nga166/oc_i_built_a_way_to_create_splash_pages_in_less/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![10 best keyboards: Wireless and wired models for quick and easy typing](https://static.independent.co.uk/2020/09/11/15/best%20keyboards%20.jpg?width=1200&auto=webp&quality=75 "10 best keyboards: Wireless and wired models for quick and easy typing")
+
+
+[10 best keyboards: Wireless and wired models for quick and easy typing](https://www.independent.co.uk/extras/indybest/gadgets-tech/computer-accessories/best-keyboard-gaming-laptop-wireless-bluetooth-computer-mechanical-typing-mac-pc-b421927.html)
+
+
+> Keyboards come in two versions, wired and wireless. The wireless keyboard isn't just so your desk is spared one more cable, although it certainly looks the better for it. It's so you can move it around without snagging on something, put it on your lap if you need to, or type on the other side of the room if you fancy it (which might come in useful if you're using your computer screen as a TV and messaging friends at the same time).On the other hand, there are some situations where a cable is necessary: a gaming keyboard, for instance, needs that split-second speed advantage a wired connection offers and some bigger keyboards, especially ergonomic ones, use wires, too.
+
+
+***
+![How to buy Revain crypto? What is REV and how it works? Know details](https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zffxfpjvjtzacges_1621429100.jpeg?tr=f-jpeg "How to buy Revain crypto? What is REV and how it works? Know details")
+
+
+[How to buy Revain crypto? What is REV and how it works? Know details](https://www.republicworld.com/technology-news/other-tech-news/how-to-buy-revain-crypto-what-is-rev-and-how-it-works-know-details.html)
+
+
+> The curiosity and eagerness around cryptocurrencies have been growing increasingly in recent times. A few years back we only had a few cryptocurrencies in the market, however, now there is a lot of option and people are pretty peculiar with their choice. Nevertheless, many investors have been searching about how to buy Revain crypto and where to buy it. If you have been wondering about the same, then do not worry, here is all you need to know about it.What is Revain and how it works?Many investors are keen to learn about Revain as it is considered to be more established than SafeMoon, Shiba, Dogecoin and other cryptocurrencies by experts.
+
+
+***
+![Where to buy Yummy coin? What it is, how to buy and more](https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/uxixoxxsqqju9ae8_1621433818.jpeg "Where to buy Yummy coin? What it is, how to buy and more")
+
+
+[Where to buy Yummy coin? What it is, how to buy and more](https://www.republicworld.com/technology-news/other-tech-news/where-to-buy-yummy-coin-what-it-is-how-to-buy-and-more-know-details.html)
+
+
+> Over the past couple of years, the cryptocurrency market has seen explosive growth as prices of the most popular cryptocurrencies have skyrocketed. And now there is a lot of option and people are pretty peculiar with their choices. So, in this article, we will be talking about where to buy Yummy Coin and how to buy it. If you have been wondering about the same, here is all you need to know about it.What is Yummy Coin?Many investors are keen to learn about Yummy as it is considered a charitable organisation and as per the official site of the crypto, the developers have claimed to donate 3% of each transaction to a charity wallet.
+
+
+***
+![I made this AI that completes the game of Snake, with pathfinding algorithms [ENG sub]](https://external-preview.redd.it/K0UmxBT0X7xoEYQ6vVERM_hvetCLNoViRJiIuCrCPY0.jpg?auto=webp&s=615033972e1dfea49150d2e1d9acbc1608e83e6f "I made this AI that completes the game of Snake, with pathfinding algorithms [ENG sub]")
+
+
+[I made this AI that completes the game of Snake, with pathfinding algorithms [ENG sub]](https://www.reddit.com/r/programming/comments/nga0wk/i_made_this_ai_that_completes_the_game_of_snake/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
