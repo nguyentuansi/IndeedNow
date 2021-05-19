@@ -10337,3 +10337,53 @@
 > The Apple Watch is about due for a refresh. The last design refresh came with the Apple Watch Series 4, bringing an edge-to-edge display and refined look, but now, three years later, it's starting to look slightly stale. That design refresh, however, may well be on the way, at least according to a leak from serial leaker Jon Prosser. According to Prosser, who published a video detailing the upcoming design refresh, the Apple Watch Series 7 will likely come with a new flat-edge look that matches current iPhone and iPad models.
 
 
+***
+![Why the Cryptocurrency Selloff Might Still Have Further to Go](http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/32bf02d7-ec10-11e7-ad43-236eb4384957.png "Why the Cryptocurrency Selloff Might Still Have Further to Go")
+
+
+[Why the Cryptocurrency Selloff Might Still Have Further to Go](https://realmoney.thestreet.com/investing/technology/why-the-cryptocurrency-selloff-might-have-farther-to-go-15660484)
+
+
+> In several ways, the cryptocurrency crash seen over the last week or so brings to mind the plunge seen in a host of very richly-valued tech stocks in late February and early March, only on a more compressed timetable. And if the unwinding of the speculative frenzy in those tech stocks is any guide, this morning's lows won't spell the bottom for most cryptos, many of which are still trading far above their February and March levels. Just as the speculative mania seen in parts of the stock market was fueled in part by enthusiasm about products, services and technologies that had undoubtedly made big strides in terms of both capabilities and user adoption -- think electric cars, e-commerce, streaming, cloud software, etc.
+
+
+***
+![Here are the best Amazon Fire HD 10 & HD 10 Plus screen protectors](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/amazon-fire-hd-10-plus-lifestyle.jpg "Here are the best Amazon Fire HD 10 & HD 10 Plus screen protectors")
+
+
+[Here are the best Amazon Fire HD 10 & HD 10 Plus screen protectors](https://www.androidcentral.com/best-amazon-fire-hd-10-hd-10-plus-screen-protectors)
+
+
+> Best Amazon Fire HD 10 & HD 10 Plus screen protectors Android Central 2021 Amazon really upped its tablet game with the Fire HD 10 and HD 10 Plus models, which boast faster processing, more RAM, brighter HD displays, longer battery life, and an updated design compared to the previous generations. In fact, the HD 10 Plus is dubbed Amazon's most powerful 10-inch tablet to date. You'll want to protect either with a good Fire HD 10 case, but to further keep the 10.1-inch HD display free from scratches and fingerprints, a screen protector is a good idea too.
+
+
+***
+![Toss your book and fall in love with a visual novel on the Nintendo Switch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/steinsgate-elite-switch-hero.jpg "Toss your book and fall in love with a visual novel on the Nintendo Switch")
+
+
+[Toss your book and fall in love with a visual novel on the Nintendo Switch](https://www.imore.com/visual-novel-and-alternatives-nintendo-switch)
+
+
+> Best visual novel games for Nintendo Switch iMore 2021 Visual novels are hugely popular in Japan. In the last few years, they have slowly made their way to the West in greater numbers. Upon first glance, they may not appear to be a standard "game," but visual novels excel at telling unique stories that are not often told in the medium. This special form of storytelling has found an audience on the Nintendo Switch and make up some of the best games on the system. If you're looking to get a true visual novel game on the Switch, then The Charming Empire is likely going one of the only options for now, thanks to its focus on reading.
+
+
+***
+![How to use the Svelte JavaScript framework](https://external-preview.redd.it/NGgoe8c6YFjh4cF_13lcQm4PPEYn-RAKSSD-G9BpUz4.jpg?auto=webp&s=ebec9c40e2a5a95aa67aa795fffb5750c772a589 "How to use the Svelte JavaScript framework")
+
+
+[How to use the Svelte JavaScript framework](https://www.reddit.com/r/programming/comments/ngf4ct/how_to_use_the_svelte_javascript_framework/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![If anyone is wondering how to get into the tech industry, check this live room on May 21st.](https://external-preview.redd.it/lbHBKBD8i535uJi2Pa9BuTVdC1Zufwy_-7rycPbVBx4.jpg?auto=webp&s=3facedb72b0940bea21a1813e59867d4849fbc34 "If anyone is wondering how to get into the tech industry, check this live room on May 21st.")
+
+
+[If anyone is wondering how to get into the tech industry, check this live room on May 21st.](https://www.reddit.com/r/programming/comments/ngf2kz/if_anyone_is_wondering_how_to_get_into_the_tech/)
+
+
+> If anyone is wondering how to get into the tech industry, check this live room on May 21st.
+
+
