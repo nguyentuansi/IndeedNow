@@ -9911,3 +9911,47 @@
 > Stocks on Wall Street closed lower Tuesday as a late-in-the-session sell-off in technology companies helped nudge major stock indexes into the red for the second straight day. The Standard & Poor's 500 index ended down 0.9%, with most of the pullback coming in the last hour of trading. Shares of Apple, Facebook and Alphabet, Google's parent company, declined 1% or more as technology stocks fell broadly. Although they powered the market rebound last year, tech stocks are up only 2.6% this year, the lowest gain among the S&P 500's 11 sectors.
 
 
+***
+![Accenture Interactive's Droga5 Expands Global Footprint with Opening of Office in Japan](https://mms.businesswire.com/media/20210518005429/en/879082/23/Droga5Tokyo.jpg "Accenture Interactive's Droga5 Expands Global Footprint with Opening of Office in Japan")
+
+
+[Accenture Interactive's Droga5 Expands Global Footprint with Opening of Office in Japan](https://www.businesswire.com/news/home/20210518005429/en/Accenture-Interactive%E2%80%99s-Droga5-Expands-Global-Footprint-with-Opening-of-Office-in-Japan)
+
+
+> Demand for transformative brand experiences drives the expansion of Droga5 — part of Accenture Interactive — which includes the opening of a new office in Japan with sights on new offices in Brazil and China in the next 12 months. (Photo: Business Wire) NEW YORK--(BUSINESS WIRE)--Accenture (NYSE: ACN) today announced the expansion of Droga5 — part of Accenture Interactive — with the opening of an office in Tokyo and plans to open offices in Brazil and China in the next 12 months. The expansion comes on the heels of Accenture Interactive's recognition as the world's largest digital agency network for the sixth consecutive year and Droga5 being named 'Agency of the Decade' by leading advertising trade publications Ad Age and Adweek.
+
+
+***
+![Google I/O 2021: Android 12, Wear OS, Smart Canvas, AI and more announced](https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/19/full/1621390853-8022.jpg "Google I/O 2021: Android 12, Wear OS, Smart Canvas, AI and more announced")
+
+
+[Google I/O 2021: Android 12, Wear OS, Smart Canvas, AI and more announced](https://www.business-standard.com/article/technology/google-i-o-2021-android-12-wear-os-smart-canvas-ai-and-more-announced-121051900109_1.html)
+
+
+> Google I/O is an annual developer conference where the technology giant showcases its innovation competence with regard to products and services. This year, the company showcased some futuristic technologies besides detailing the upgrades coming to Android and Wear OS operating systems for smartphones and smartwatches, respectively. The Google I/O 2021 was full of surprises and interesting announcements. Here is a quick recap of everything announced at the Google I/O 2021: Android 12 Google has come a long way enhancing its Android operating system for smartphones.
+
+
+***
+[MVE](https://itwire.com/freelancer-sp-720/tag/MVE.html)
+
+
+> By deploying the Fortinet Secure SD-WAN on its Megaport Virtual Edge, Megaport accelerates edge to cloud and multi-cloud interconnectivity without compromising security.
+
+
+***
+[DailyPay, which provides software that lets workers control when they get paid, raises $175M Series D and $325M in debt funding, source says at a $1B+ valuation (Luisa Beltran/Barron's Online)](http://www.techmeme.com/210518/p55#a210518p55)
+
+
+> Luisa Beltran / Barron's Online: DailyPay, which provides software that lets workers control when they get paid, raises $175M Series D and $325M in debt funding, source says at a $1B+ valuation — DailyPay, a fintech that helps workers access their wages in real time, has raised $500 million in capital.
+
+
+***
+![monday.com宣布就擬議首次公開發行遞交登記報告](http://www.businesswire.com/images/bwlogo_square.png "monday.com宣布就擬議首次公開發行遞交登記報告")
+
+
+[monday.com宣布就擬議首次公開發行遞交登記報告](https://www.businesswire.com/news/home/20210518006241/zh-HK/)
+
+
+> May 18, 2021 10:15 PM Eastern Daylight Time 紐約和以色列特拉維夫--(BUSINESS WIRE)--(美國商業資訊)--monday.com Ltd. ('monday.com')是一家工作作業系統(Work OS)公司，任何規模的組織都可以在此系統中創建他們需要的工具和流程來管理各個工作環節。該公司今天宣佈，已向美國證券交易委員會('SEC')遞交了關於擬議中的普通股首次公開發行的Form F-1登記報告。擬議發行的股票數量和價格範圍尚未確定。monday.com計畫在納斯達克全球精選市場(Nasdaq Global Select Market)上市交易其普通股，股票代碼為'MNDY'。 高盛有限責任公司(Goldman Sachs & Co. LLC)和摩根大通(J.P. Morgan)將擔任此次擬議發行的主辦承銷商，Allen & Company LLC和富瑞集團(Jefferies)將擔任此次擬議發行的共同承銷商。William Blair、Piper Sandler、Oppenheimer & Co.、Canaccord Genuity、Cowen和Needham & Company將擔任擬議發行的協辦承銷商。 此次發行將僅以招股說明書的形式進行。與此次發行有關的初步招股說明書的副本可以向以下機構索取：高盛有限責任公司(Goldman Sachs & Co.
+
+
