@@ -9955,3 +9955,50 @@
 > May 18, 2021 10:15 PM Eastern Daylight Time 紐約和以色列特拉維夫--(BUSINESS WIRE)--(美國商業資訊)--monday.com Ltd. ('monday.com')是一家工作作業系統(Work OS)公司，任何規模的組織都可以在此系統中創建他們需要的工具和流程來管理各個工作環節。該公司今天宣佈，已向美國證券交易委員會('SEC')遞交了關於擬議中的普通股首次公開發行的Form F-1登記報告。擬議發行的股票數量和價格範圍尚未確定。monday.com計畫在納斯達克全球精選市場(Nasdaq Global Select Market)上市交易其普通股，股票代碼為'MNDY'。 高盛有限責任公司(Goldman Sachs & Co. LLC)和摩根大通(J.P. Morgan)將擔任此次擬議發行的主辦承銷商，Allen & Company LLC和富瑞集團(Jefferies)將擔任此次擬議發行的共同承銷商。William Blair、Piper Sandler、Oppenheimer & Co.、Canaccord Genuity、Cowen和Needham & Company將擔任擬議發行的協辦承銷商。 此次發行將僅以招股說明書的形式進行。與此次發行有關的初步招股說明書的副本可以向以下機構索取：高盛有限責任公司(Goldman Sachs & Co.
 
 
+***
+![Google teams with Samsung for wearables platform](https://apicms.thestar.com.my/uploads/images/2021/05/19/1153475.jpg "Google teams with Samsung for wearables platform")
+
+
+[Google teams with Samsung for wearables platform](https://www.thestar.com.my/tech/tech-news/2021/05/19/google-teams-with-samsung-for-wearables-platform)
+
+
+> The Google and Samsung tie-up means Samsung will use Google's Wear OS for its upcoming Galaxy smartwatches instead of its own Tizen platform. — AFP SAN FRANCISCO: Google and Samsung said they were teaming up on a joint software platform for smartwatches and other wearables in a move ramping up competition with market leader Apple. The move, announced at the Google developer conference in California, means Samsung will use Google's Wear OS for its upcoming Galaxy smartwatches instead of its own Tizen platform.
+
+
+***
+![React vs Vue.js: 6 Ways To divergence the Frameworks.](https://external-preview.redd.it/NZgQY433TYqRlwYkO-nWJyd3Ct-b92OkOv8cByC99qY.jpg?auto=webp&s=aee742fcc3769231c2a521fc466bf126e44a1a83 "React vs Vue.js: 6 Ways To divergence the Frameworks.")
+
+
+[React vs Vue.js: 6 Ways To divergence the Frameworks.](https://www.reddit.com/r/programming/comments/nfvioi/react_vs_vuejs_6_ways_to_divergence_the/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Thinking beyond the wrist: Twelve South Introduces ActionSleeve 2 Armband for Apple Watch](https://itwire.com/media/k2/items/cache/1a6c543b6d213d605b67d7441dbab80f_XS.jpg "Thinking beyond the wrist: Twelve South Introduces ActionSleeve 2 Armband for Apple Watch")
+
+
+[Thinking beyond the wrist: Twelve South Introduces ActionSleeve 2 Armband for Apple Watch](https://itwire.com/home-it/thinking-beyond-the-wrist-twelve-south-introduces-actionsleeve-2-armband-for-apple-watch.html)
+
+
+> With Apple Watch more than arguably the most advanced health and fitness device in the modern gadget gallery, the wrist is not always the perfect place to wear it, with Twelve South offering the ActionSleeve ready for all kinds of action. Sports like kickboxing, weightlifting and CrossFit training often require protective sports gear and full wrist mobility that can rule out the effectiveness of the Apple Watch. So, what's the solution from the Apple-enhancing team at Twelve South? Enter ActionSleeve 2, billed as the latest and greatest when it comes to supporting the use of your Apple Watch.
+
+
+***
+[weightlifting](https://itwire.com/freelancer-sp-720/tag/weightlifting.html)
+
+
+> With Apple Watch more than arguably the most advanced health and fitness device in the modern gadget gallery, the wrist is not always the perfect place to wear it, with Twelve South offering the ActionSleeve ready for all kinds of action.
+
+
+***
+![Chip crisis in ‘danger zone' as wait times reach new record](https://apicms.thestar.com.my/uploads/images/2021/05/19/1153378.jpg "Chip crisis in ‘danger zone' as wait times reach new record")
+
+
+[Chip crisis in ‘danger zone' as wait times reach new record](https://www.thestar.com.my/tech/tech-news/2021/05/19/chip-crisis-in-danger-zone-as-wait-times-reach-new-record)
+
+
+> Shortages in the semiconductor industry, which have already slammed automakers and consumer electronics companies, are getting even worse, complicating the global economy's recovery from the coronavirus pandemic. Chip lead times, the gap between ordering a chip and taking delivery, increased to 17 weeks in April, indicating users are getting more desperate to secure supply, according to research by Susquehanna Financial Group. That is the longest wait since the firm began tracking the data in 2017, in what it describes as the "danger zone.
+
+
