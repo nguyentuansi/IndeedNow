@@ -10149,3 +10149,53 @@
 > May 19, 2021 06:00 AM Eastern Daylight Time MINNEAPOLIS--(BUSINESS WIRE)--Digital River, an experienced global commerce enabler for established and fast-growing brands, announced a new Partner Integration Program today. This program gives technology providers across the ecommerce industry greater flexibility and support to access Digital River's Global Seller Services with their own integrations. The new program introduces a streamlined path for commerce and subscription partners to build integrations into their own platform, reducing the cost to connect to Digital River's merchant of record model, enabling Digital River's global payments, fraud, tax and compliance services.
 
 
+***
+![Samsung Galaxy Z Fold 3 & Z Flip 3 May Solve The 'Crease' Issue](https://www.androidheadlines.com/wp-content/uploads/2020/02/Samsung-Galaxy-Z-Flip-AM-AH-6.jpg "Samsung Galaxy Z Fold 3 & Z Flip 3 May Solve The 'Crease' Issue")
+
+
+[Samsung Galaxy Z Fold 3 & Z Flip 3 May Solve The 'Crease' Issue](https://www.androidheadlines.com/2021/05/samsung-galaxy-z-fold-3-z-flip-3-crease.html)
+
+
+> Samsung may have found a way to solve the ‘crease' issue, as the Galaxy Z Fold 3 and Z Flip 3 are tipped to do a lot better in that regard. This information comes from Ice Universe, a well-known tipster.Samsung may have found a way to hide the ‘crease' on the Galaxy Z Fold 3 & Z Flip 3In his first tweet, the source said that Samsung made 'significant progress' in solving the crease issue of the Galaxy Z Fold 3 and Z Flip 3. In a response to that tweet, he said that 'you can't see their creases'.If that is true, it would be a huge improvement.
+
+
+***
+![Demi Lovato announces they are non-binary in new podcast series](https://mondrian.mashable.com/2021%252F05%252F19%252Ff7%252Ff3414fc00d49445e8f13d67c3158ac07.4d3d0.png%252F1200x630.png?signature=O12_yFc-KvH6XLRZtYbxyXGk8xk= "Demi Lovato announces they are non-binary in new podcast series")
+
+
+[Demi Lovato announces they are non-binary in new podcast series](https://mashable.com/video/demi-lovato-nonbinary-podcast/)
+
+
+> Demi Lovato has announced that they are non-binary and uses they/them pronouns in a YouTube video launching their new weekly podcast series 4D With Demi Lovato. "Over the past year and a half I've been doing some healing and self-reflective work and through this work I've had the revelation that I identify as non-binary," the "Sorry Not Sorry" singer said in a YouTube video. "With that said, I'll officially be changing my pronouns to they/them. "I feel that this best represents the fluidity I feel in my gender expression and allows me to feel most authentic and true to the person I both know I am and still am discovering.
+
+
+***
+![Android 12 now comes with Privacy Dashboard to keep apps in check, takes a step closer to iOS-like privacy](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Screenshot_2021-05-19_at_5.35.-647x363.png?Ev7Z1Wr_I.P6qpELkpMNPcMsKFTLZCxF "Android 12 now comes with Privacy Dashboard to keep apps in check, takes a step closer to iOS-like privacy")
+
+
+[Android 12 now comes with Privacy Dashboard to keep apps in check, takes a step closer to iOS-like privacy](https://www.indiatoday.in/technology/news/story/android-12-now-comes-with-privacy-dashboard-to-keep-apps-in-check-takes-a-step-closer-to-ios-like-privacy-1804469-2021-05-19)
+
+
+> Google has introduced a Privacy Dashboard with Android 12.It intends to give Android users a clear picture of the data accessed by apps.The Privacy Dashboard will enable users to see which apps used potentially sensitive permissions in the past 24 hours.Google on Tuesday announced a host of new privacy features for Android 12 at the company's annual developer conference, Google I/O. One of these features is the Privacy Dashboard which intends to inform users about the data collected by any app which runs in the background.
+
+
+***
+![IFA Berlin tech show canceled, will return in 2022](https://mondrian.mashable.com/2021%252F05%252F19%252Fd2%252Ffbbc20c9d46f474eb7bd084dc7096f12.f5520.jpg%252F1200x630.jpg?signature=EHDGeqVY0VT-rXhPMITIGDSX5ro= "IFA Berlin tech show canceled, will return in 2022")
+
+
+[IFA Berlin tech show canceled, will return in 2022](https://mashable.com/article/ifa-berlin-2021-canceled/)
+
+
+> Even though the COVID-19 pandemic seems to be loosening its grip on many parts of the world, it appears big tech events and conferences are going to have to wait for a comeback until next year.  IFA Berlin, a major tech trade show that typically takes place in the fall, has been canceled for 2021.  "The decision was made following detailed conversations with public health experts and multiple stakeholders. Ultimately, several key global health metrics did not move as fast in the right direction as had been hoped for — from the rapid emergence of new COVID-19 variants, for example in South Asia, to continued uncertainties about the speed of the rollout of vaccination programmes around the world," the show's organizers, Messe Berlin and gfu Consumer and Home Electronics GmbH, wrote in a statement Wednesday.
+
+
+***
+![Twitch cracks down on ‘hot tub' star Amouranth over her controversial bikini streams](https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/COMP-SA-SINGLE-TWITCHBIKINI.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Twitch cracks down on ‘hot tub' star Amouranth over her controversial bikini streams")
+
+
+[Twitch cracks down on ‘hot tub' star Amouranth over her controversial bikini streams](https://www.the-sun.com/lifestyle/tech/2916107/twitch-hot-tub-amouranth-bikini-streams/)
+
+
+> STEAMY STREAMER Harry Pettit, Senior Digital Technology and Science Reporter IT appears that Twitch is finally cracking down on a raunchy new "hot tub" craze that has swept the platform in recent weeks. On Tuesday, streaming mega-star Amouranth, real name Kaitlyn Siragusa, announced that the site had suspended advertising on her channel following a string of racy broadcasts. Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on Facebook, WhatsApp and Instagram Twitch has suspended advertising on popular streamer Amouranth's channelCredit: amouranth It means the American model can temporarily no longer make money on her videos, which regularly pull in tens of thousands of viewers.
+
+
