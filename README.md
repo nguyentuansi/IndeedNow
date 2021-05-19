@@ -10199,3 +10199,50 @@
 > STEAMY STREAMER Harry Pettit, Senior Digital Technology and Science Reporter IT appears that Twitch is finally cracking down on a raunchy new "hot tub" craze that has swept the platform in recent weeks. On Tuesday, streaming mega-star Amouranth, real name Kaitlyn Siragusa, announced that the site had suspended advertising on her channel following a string of racy broadcasts. Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on Facebook, WhatsApp and Instagram Twitch has suspended advertising on popular streamer Amouranth's channelCredit: amouranth It means the American model can temporarily no longer make money on her videos, which regularly pull in tens of thousands of viewers.
 
 
+***
+[Samsung Galaxy M32 May Launch Soon in India; Check Price, Specs](https://www.thequint.com/tech-and-auto/samsung-galaxy-m32-may-launch-soon-in-india-price-in-india-specifications-specs)
+
+
+> The new Samsung Galaxy M32 is expected to be priced at Rs 16,999.
+
+
+***
+![You may need to buy a new case for the iPad Pro (2021)](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/apple-ipad-pro-2021.jpg "You may need to buy a new case for the iPad Pro (2021)")
+
+
+[You may need to buy a new case for the iPad Pro (2021)](https://www.imore.com/will-your-old-case-fit-your-new-ipad-pro)
+
+
+> Source: AppleBest answer: It depends on the model you buy. If you purchase the new 11-inch iPad Pro (2021), your case from the previous 11-inch iPad Pro will fit. If you desire a new 12.9-inch iPad Pro (2021), last year's case may not be a precise fit due to the 0.5mm thickness increase of the new 12.9-inch iPad Pro. You will need to buy a new case if you want it to fit perfectly. The new 3rd-generation 11-inch iPad Pro has the same dimensions as the previous 2020 model; therefore, if you have last year's model and are upgrading, you will not need to purchase a new case.
+
+
+***
+![Murray Steele: Maintainable Code Is Easy to Turn Off and Delete](https://external-preview.redd.it/NSoie-lS9vuuL6vj3IwDeSn65gJs1y9th6vq3uxtd2c.jpg?auto=webp&s=a71db06c28ba97e64a8ec1344a78f8a89a18e2ec "Murray Steele: Maintainable Code Is Easy to Turn Off and Delete")
+
+
+[Murray Steele: Maintainable Code Is Easy to Turn Off and Delete](https://www.reddit.com/r/programming/comments/ng6m7d/murray_steele_maintainable_code_is_easy_to_turn/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Poco M3 Pro 5G launched with MediaTek Dimensity 700 chip, 90Hz display: everything to know](https://images.financialexpress.com/2021/05/poco-m3-pro.jpg "Poco M3 Pro 5G launched with MediaTek Dimensity 700 chip, 90Hz display: everything to know")
+
+
+[Poco M3 Pro 5G launched with MediaTek Dimensity 700 chip, 90Hz display: everything to know](https://www.financialexpress.com/industry/technology/poco-m3-pro-5g-launched-with-mediatek-dimensity-700-chip-90hz-display-everything-to-know/2255131/)
+
+
+> By: FE Online | May 19, 2021 7:28 PMPoco M3 Pro 5GPoco M3 Pro 5G was launched for global markets on Wednesday. Follow-up to Poco M3, the Poco M3 Pro 5G comes with a new design, 5G-ready SoC and a faster display but packs a smaller battery in comparison. The Poco M3 Pro pricing and availability details haven't been shared yet. For some context, the Poco M3 starts at Rs 10,999 in India for a version with 6GB RAM and 64GB storage.Speaking of specs, the Poco M3 Pro 5G is a dual nano-SIM phone and it runs on Android 11-based MIUI 12.
+
+
+***
+![Google I/O 2021 quick look: From Android 12 with radical new design to Wear OS reboot, natural conversations with Pluto to Project Starline and more](https://images.financialexpress.com/2021/05/Google-IO-Pichai.png "Google I/O 2021 quick look: From Android 12 with radical new design to Wear OS reboot, natural conversations with Pluto to Project Starline and more")
+
+
+[Google I/O 2021 quick look: From Android 12 with radical new design to Wear OS reboot, natural conversations with Pluto to Project Starline and more](https://www.financialexpress.com/industry/technology/google-i-o-2021-quick-look-from-android-12-with-radical-new-design-to-wear-os-reboot-natural-conversations-with-pluto-to-project-starline-and-more/2255128/)
+
+
+> Well, the conference had been cancelled last year, so by no means was Google not going to make this one a big event.Google I/O 2021: Google's major developer conference, the Google I/O, kicked off on Tuesday with a keynote address in which several announcements were made. The new announcements include the new look that Android 12 would be getting along with several features being incorporated into the tech giant's productivity suite Google Workspace. Here's a look at all the major announcements Google made during the big conference.
+
+
