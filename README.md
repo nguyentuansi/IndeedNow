@@ -9867,3 +9867,47 @@
 > Best Games More Game Reviews
 
 
+***
+![New Wear launcher and task switcher get shown off in Google I/O video](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/wear-launcher-task-switcher.jpg "New Wear launcher and task switcher get shown off in Google I/O video")
+
+
+[New Wear launcher and task switcher get shown off in Google I/O video](https://www.androidcentral.com/google-shows-new-wear-os-launcher-along-long-awaited-task-switcher)
+
+
+> Source: Google Google's Wear platform is getting a recent apps switcher similar to what is on Android now. Tiles on Wear are being expanded to more developers with better tools The launcher on Wear looks like it's getting revamped with new indicators and ongoing activities. Among all of the announcements at Google I/O, Wear OS had some of the biggest. From the platform being co-developed with Samsung to Samsung announcing it will be making a Wear watch, it was a big day for Google's wearable platform.
+
+
+***
+[提升情緒分析精準度，用 AI 從社群媒體識別出諷刺言論](https://technews.tw/2021/05/19/new-ai-detects-sarcasm-in-social-media/)
+
+
+> 中佛羅里達大學（University of Central Florida, UCF）研究人員開發了一種能偵測 […]
+
+
+***
+[Three more years: Government renews Microsoft cloud, software and services deal](https://www.reseller.co.nz/article/688473/three-more-years-government-renews-microsoft-cloud-software-services-deal/?utm_medium=rss&utm_source=taxonomyfeed)
+
+
+> ​The government has signed a three-year renewal for the second term of the Microsoft cloud, software and services agreement.
+
+
+***
+![Powerbeats2 owners begin to receive payments from $9.75M settlement](https://photos5.appleinsider.com/gallery/42087-81569-210518-Powerbeats2-xl.jpg "Powerbeats2 owners begin to receive payments from $9.75M settlement")
+
+
+[Powerbeats2 owners begin to receive payments from $9.75M settlement](https://appleinsider.com/articles/21/05/19/powerbeats2-owners-begin-to-receive-payments-from-975m-settlement)
+
+
+> No body in the article.
+
+
+***
+![Stocks fall for the second straight day, led down by tech](https://ca-times.brightspotcdn.com/dims4/default/5627668/2147483647/strip/true/crop/5760x3240+0+300/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2Fa2%2Ff653e1a5c52e420ddc398ee62429%2Fd74c06b6730f4bdcb0861c695b3a3ea1 "Stocks fall for the second straight day, led down by tech")
+
+
+[Stocks fall for the second straight day, led down by tech](https://www.latimes.com/business/story/2021-05-18/tech-stocks-wall-street-fall)
+
+
+> Stocks on Wall Street closed lower Tuesday as a late-in-the-session sell-off in technology companies helped nudge major stock indexes into the red for the second straight day. The Standard & Poor's 500 index ended down 0.9%, with most of the pullback coming in the last hour of trading. Shares of Apple, Facebook and Alphabet, Google's parent company, declined 1% or more as technology stocks fell broadly. Although they powered the market rebound last year, tech stocks are up only 2.6% this year, the lowest gain among the S&P 500's 11 sectors.
+
+
