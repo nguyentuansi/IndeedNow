@@ -10387,3 +10387,53 @@
 > If anyone is wondering how to get into the tech industry, check this live room on May 21st.
 
 
+***
+![eReader Reviews](https://icdn.digitaltrends.com/image/digitaltrends/dt_logo_lockup_blue.jpg "eReader Reviews")
+
+
+[eReader Reviews](https://www.digitaltrends.com/ereader-reviews/)
+
+
+> Latest eReader Reviews More eReader Reviews
+
+
+***
+![Intel shareholders reject executive compensation plan -filing](https://www.reuters.com/resizer/iQt5zT7s105raT6ezXaRzn59Y2A=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/DSYGSG5N7RP3RAQBBNM2USG7T4.jpg "Intel shareholders reject executive compensation plan -filing")
+
+
+[Intel shareholders reject executive compensation plan -filing](https://www.reuters.com/technology/intel-shareholders-reject-executive-compensation-plan-filing-2021-05-19/)
+
+
+> Intel's logo is pictured during preparations at the CeBit computer fair, which will open its doors to the public on March 20, at the fairground in Hanover, Germany, March 19, 2017. REUTERS/Fabian Bimmer/Chipmaker Intel Corp's (INTC.O) shareholders did not approve an executive compensation plan of its listed officers, according to a regulatory filing on Wednesday.The decision, on a nonbinding advisory basis, was taken at the company's annual stockholder meeting on May 13. (https://bit.ly/3tWxAJe)In a statement, Intel said it "has a long-standing commitment to pay-for-performance, which holds executive officers accountable for business results and rewards them for consistently strong corporate performance and the creation of stockholder value .
+
+
+***
+![Report: Bill Gates Thought Jeffrey Epstein Was His Ticket to a Nobel Prize](https://media.breitbart.com/media/2016/12/AP_16348620716249.jpg "Report: Bill Gates Thought Jeffrey Epstein Was His Ticket to a Nobel Prize")
+
+
+[Report: Bill Gates Thought Jeffrey Epstein Was His Ticket to a Nobel Prize](https://www.breitbart.com/tech/2021/05/19/report-bill-gates-thought-jeffrey-epstein-was-his-ticket-to-a-nobel-prize/)
+
+
+> According to the Daily Beast, a former employee of Bill Gates said the billionaire thought that convicted pedophile Jeffrey Epstein was his ticket to being awarded a Nobel Peace Prize. An alleged ex-staffer told the Daily Beast that members of the communications team at the Bill & Melinda Gates Foundation were told Gate's relationship with Epstein 'was a maneuver to try to get himself a Nobel Peace Prize.' 'We were aware of things that were potential reputational risks for the foundation and the co-chairs, Bill and Melinda,' a former employee said.
+
+
+***
+![Poly Voyager Focus UC Headset: Get great sound, block outside noise](https://images.financialexpress.com/2021/05/1-359.jpg "Poly Voyager Focus UC Headset: Get great sound, block outside noise")
+
+
+[Poly Voyager Focus UC Headset: Get great sound, block outside noise](https://www.financialexpress.com/industry/technology/poly-voyager-focus-uc-headset-get-great-sound-block-outside-noise/2255172/)
+
+
+> By: Sudhir Chowdhary | May 20, 2021 3:30 AMWhen it's time to take a music break between back-to-back calls, the Voyager Focus UC delivers rich bass, crisp highs, and natural mid-tones to let you enjoy your favourite tunes.Working from home and remote working is here to stay but for us to successfully focus on our work, the right tools like headsets are critical. They are cord-free and hands-free, sound quality is great and serious workers (presently holed up in their homes) prefer these on-the-ear devices over the in-ear wireless earbuds that tend to fall, again and again, giving the wearer lot of disturbance.
+
+
+***
+![Digi Relocates Australian Headquarters to Milton to Bolster Exponential Growth and Opportunities](https://mms.businesswire.com/media/20210519005202/en/879542/23/Digi_logo_2C_RGB.jpg "Digi Relocates Australian Headquarters to Milton to Bolster Exponential Growth and Opportunities")
+
+
+[Digi Relocates Australian Headquarters to Milton to Bolster Exponential Growth and Opportunities](https://www.businesswire.com/news/home/20210519005202/en/Digi-Relocates-Australian-Headquarters-to-Milton-to-Bolster-Exponential-Growth-and-Opportunities)
+
+
+> May 19, 2021 06:00 PM Eastern Daylight Time HOPKINS, Minn.--(BUSINESS WIRE)--Digi International, (NASDAQ: DGII), a leading global provider of Internet of Things (IoT) connectivity products and services, today announced it will relocate its Brisbane-based headquarters from Rocklea to Milton in September 2021. The renovated facility will further concentrate its expanding team of engineering and technology talent in a modern, collaborative space including staff from Digi's Opengear subsidiary that specializes in solutions for secure, resilient network access and IT automation.
+
+
