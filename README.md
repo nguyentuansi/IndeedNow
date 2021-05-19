@@ -10002,3 +10002,50 @@
 > Shortages in the semiconductor industry, which have already slammed automakers and consumer electronics companies, are getting even worse, complicating the global economy's recovery from the coronavirus pandemic. Chip lead times, the gap between ordering a chip and taking delivery, increased to 17 weeks in April, indicating users are getting more desperate to secure supply, according to research by Susquehanna Financial Group. That is the longest wait since the firm began tracking the data in 2017, in what it describes as the "danger zone.
 
 
+***
+[Garena Free Fire update: Check Free Fire redeem codes May 19; Get Titian Mark Gun Skins and more](https://www.zeebiz.com/technology/apps/news-garena-free-fire-update-check-free-fire-redeem-codes-may-19-get-titian-mark-gun-skins-and-more-156937)
+
+
+> Garena Free Fire redeem codes: Good news for Garena Free Fire fans! The Free Fire redeem codes for May 19 are available now which brings several rewards and benefits to mobile gamers. The main Free Fire redeem code for today brings mobile gamers the Titian mark gun skins and several other benefits.
+
+
+***
+![Jio, Airtel and Vi announce special COVID-19 relief offers for less-privileged users](https://cdn.mos.cms.futurecdn.net/pVdAnCjFfKjHttzdmx6uUc-1200-80.jpg "Jio, Airtel and Vi announce special COVID-19 relief offers for less-privileged users")
+
+
+[Jio, Airtel and Vi announce special COVID-19 relief offers for less-privileged users](https://www.techradar.com/news/jio-airtel-and-vi-announce-special-covid-19-relief-offers-for-less-privileged-users)
+
+
+> (Image credit: Pixabay) The second wave of the coronavirus pandemic has hit the country hard and has impacted people from different walks of life in ways that cannot be summed up in an article. However, users in the less-privileged section of society have been impacted the most during the second wave of lockdowns.Fittingly, the Indian telecom companies are offering them some relief in the form of free recharges, extra talk time and data enabling them to stay connected with their loved ones during these testing times.
+
+
+***
+![Android 12: Here are all the new features in Google's latest mobile OS](https://images.indianexpress.com/2021/05/Android-12-fb.jpg "Android 12: Here are all the new features in Google's latest mobile OS")
+
+
+[Android 12: Here are all the new features in Google's latest mobile OS](https://indianexpress.com/article/technology/tech-news-technology/google-android-12-most-important-features-7320955/)
+
+
+> Android 12 is here, and it looks and feels different. During Tuesday's I/O 2021 keynote, Google unveiled a new version of Android with a refreshed look. This is the first time since 2014 Google has tweaked the appearance of the interface, bringing a personalised touch to Android. Available as a public beta, Android 12 includes many more new features, including new privacy options, better performance and battery life. Below are some of the prominent features of Android 12. Material You The biggest change coming to Android 12 is the dramatic appearance of the user interface.
+
+
+***
+![Airbnb is getting roasted by travelers complaining about extensive cleaning fees and rules](https://external-preview.redd.it/hn7SMKuvucBo1E-gk_lNKdw-9hAmB4zmv4aKkupK3W0.jpg?auto=webp&s=d62e0c02b120cf2ca5bb401b632cb4e9ed10c8a6 "Airbnb is getting roasted by travelers complaining about extensive cleaning fees and rules")
+
+
+[Airbnb is getting roasted by travelers complaining about extensive cleaning fees and rules](https://www.reddit.com/r/technology/comments/nfxa4a/airbnb_is_getting_roasted_by_travelers/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Google unveils 'magic window' that can let people chat virtually in lifelike 3D](https://external-preview.redd.it/vTLlZCpR023wAzC4Q9ZQjeETaZLn8HU8zeXlGj0cMbY.jpg?auto=webp&s=eac2ede60393ae383650171d018df1dc68785cc4 "Google unveils 'magic window' that can let people chat virtually in lifelike 3D")
+
+
+[Google unveils 'magic window' that can let people chat virtually in lifelike 3D](https://www.reddit.com/r/technology/comments/nfx9ko/google_unveils_magic_window_that_can_let_people/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
