@@ -10099,3 +10099,53 @@
 > May 19, 2021 04:00 AM Eastern Daylight Time LONDON & MADRID--(BUSINESS WIRE)--Highview Power, a global leader in long duration energy storage solutions, announced today it is developing up to 2 GWh of long duration, liquid air energy storage projects across Spain for an estimated investment of around $1 billion. These projects will enable several Spanish regions to move towards their net zero emissions target. Alongside development partners and a consortium of investors, which include TSK, one of the largest engineering companies in Europe, and the Center for Energy, Environmental and Technological Research (CIEMAT), Highview Power is planning to develop up to seven CRYOBattery™ projects ranging from 50 MW/300 MWh in Asturias, Cantabria, Castilla y Leon, and the Canary Islands.
 
 
+***
+![Logitech Scribe wants to make hybrid meetings a lot more collaborative](https://cdn.mos.cms.futurecdn.net/fiutJHyRqDG8kFQtTus2Nf-1200-80.jpg "Logitech Scribe wants to make hybrid meetings a lot more collaborative")
+
+
+[Logitech Scribe wants to make hybrid meetings a lot more collaborative](https://www.techradar.com/news/logitech-scribe-wants-to-make-hybrid-meetings-a-lot-more-collaborative)
+
+
+> (Image credit: Logitech) Logitech has released a new platform that aims to improve education and online collaboration experiences for remote workers and students.Logitech Scribe is mounted above a whiteboard or other dry erase surface and allows remote participants to get a clear, digitalized version of the whiteboard content, directly on their screens. It can capture surfaces up to six by four feet.The tool is AI-powered, Logitech claims, enabling it to digitally remove the presenter from in front of the whiteboard.
+
+
+***
+![A Peek Into The Markets: US Stock Futures Down Ahead Of Fed Minutes](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/peek_into_the_marketnew_178.png "A Peek Into The Markets: US Stock Futures Down Ahead Of Fed Minutes")
+
+
+[A Peek Into The Markets: US Stock Futures Down Ahead Of Fed Minutes](https://www.benzinga.com/news/earnings/21/05/21191573/a-peek-into-the-markets-us-stock-futures-down-ahead-of-fed-minutes)
+
+
+> Pre-open movers U.S. stock futures traded lower in early pre-market trade after the Dow Jones tumbled more than 260 points in the previous session. Investors are awaiting earnings results from Target Corporation (NYSE: TGT), Lowe`s Companies Inc (NYSE: LOW) and Cisco Systems Inc (NASDAQ: CSCO). Federal Reserve Governor Randal Quarles and Federal Reserve Bank of St. Louis President James Bullard will speak at 10:00 a.m. ET. The Federal Open Market Committee will issue minutes of its latest meeting at 2:00 p.
+
+
+***
+![Atalanta vs Juventus live stream: How to watch the Coppa Italia final](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/atalanta-juventus.jpg "Atalanta vs Juventus live stream: How to watch the Coppa Italia final")
+
+
+[Atalanta vs Juventus live stream: How to watch the Coppa Italia final](https://www.androidcentral.com/atalanta-juventus-live-stream-coppa-italia-final)
+
+
+> Two of Serie A's top sides battle it out for silverware in today's Coppa Italia final. Follow our guide below on how to get an Atalanta vs Juventus live stream online no matter where you are in the world. Source: Android Central Atalanta take to the field at Sassuolo's Città del Tricolore in just their fifth Coppa Italia final. La Dea have won the competition only once in their history, though Gian Piero Gasperini's side have definitely become overachievers in recent times. Having already secured a Champions League qualification spot for next season, their third successful campaign in a row, Gasperini's men can be fully focused on lifting the trophy.
+
+
+***
+![Distributed SQL Database Demand Drives Yugabyte's Expansion Worldwide](https://mms.businesswire.com/media/20210519005088/en/817764/23/ybDB_stacked.jpg "Distributed SQL Database Demand Drives Yugabyte's Expansion Worldwide")
+
+
+[Distributed SQL Database Demand Drives Yugabyte's Expansion Worldwide](https://www.businesswire.com/news/home/20210519005088/en/Distributed-SQL-Database-Demand-Drives-Yugabyte%E2%80%99s-Expansion-Worldwide)
+
+
+> SUNNYVALE, Calif.--(BUSINESS WIRE)--Yugabyte, the leader in open source distributed SQL databases, today announced an expanded global footprint with the opening of new business operations in the EMEA and APAC regions. The international expansion is being fueled by the worldwide demand for the YugabyteDB open source distributed SQL database and related products and services. Currently, Yugabyte has more than 100 employees worldwide and plans to double its headcount in the current fiscal year across all regions with a strategic focus on engineering, sales, and technical support functions.
+
+
+***
+![Digital River Unveils New Partner Integration Program Opening its Global Seller Services to More Platforms Worldwide](https://mms.businesswire.com/media/20210519005115/en/879416/23/DR_Logo_PRI_clr_p_web.jpg "Digital River Unveils New Partner Integration Program Opening its Global Seller Services to More Platforms Worldwide")
+
+
+[Digital River Unveils New Partner Integration Program Opening its Global Seller Services to More Platforms Worldwide](https://www.businesswire.com/news/home/20210519005115/en/Digital-River-Unveils-New-Partner-Integration-Program-Opening-its-Global-Seller-Services-to-More-Platforms-Worldwide)
+
+
+> May 19, 2021 06:00 AM Eastern Daylight Time MINNEAPOLIS--(BUSINESS WIRE)--Digital River, an experienced global commerce enabler for established and fast-growing brands, announced a new Partner Integration Program today. This program gives technology providers across the ecommerce industry greater flexibility and support to access Digital River's Global Seller Services with their own integrations. The new program introduces a streamlined path for commerce and subscription partners to build integrations into their own platform, reducing the cost to connect to Digital River's merchant of record model, enabling Digital River's global payments, fraud, tax and compliance services.
+
+
