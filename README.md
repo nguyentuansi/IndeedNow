@@ -10049,3 +10049,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Optus, Curtin Uni launch 5G lab; demonstrate use cases](https://itwire.com/media/k2/items/cache/37181677077602260718ea13cf73e7e7_XS.jpg "Optus, Curtin Uni launch 5G lab; demonstrate use cases")
+
+
+[Optus, Curtin Uni launch 5G lab; demonstrate use cases](https://itwire.com/telecoms-and-nbn/optus,-curtin-uni-launch-5g-lab-demonstrate-use-cases.html)
+
+
+> Western Australia's first industry-university 5G laboratory has opened, with telco Singtel Optus and Curtin University showcasing some 5G uses. A statement from Optus said WA Minister for Disability Services, Fisheries, Innovation and ICT Don Punch was among those who visited the university's campus in Perth to test out the 5G technologies. There were demonstrations showcasing the speeds and low latency of the Optus 5G network, including the potential to use 5G connectivity to deliver remote robot interaction and operation; remote training of vision impaired people in the use of guide dogs; remote monitoring of brain activity for epileptic events through subdural EEG recordings; and a new visual immersive platform for remote learning.
+
+
+***
+![Google Photos Will Use Machine Learning to Animate Your Still Shots](https://images.macrumors.com/article-new/2021/05/google-photos.jpg "Google Photos Will Use Machine Learning to Animate Your Still Shots")
+
+
+[Google Photos Will Use Machine Learning to Animate Your Still Shots](https://www.macrumors.com/2021/05/19/google-photos-cinematic-moments-feature/)
+
+
+> Apr 12, 2001 52,556 14,256 Google Photos is getting a new AI-driven feature that can take two similar pictures in your iPhone's camera roll and turn them into a single moving shot, reports The Verge. Google says the feature achieves this by using machine learning to generate additional frames between the two images, which creates the appearance of movement. If you've taken several shots in succession, for example, Google Photos can now bring the scene to life by turning it into a moving picture.
+
+
+***
+![Why the pink iPhone 13 rumor is actually kind of plausible](https://www.cnet.com/a/img/_0qqHUqDpLBmVw8tfS0r92uFryY=/1200x630/2021/05/14/57565c55-6747-4216-90d3-27da2fa5da0c/e0nk-pdxeaa1fy6.jpg "Why the pink iPhone 13 rumor is actually kind of plausible")
+
+
+[Why the pink iPhone 13 rumor is actually kind of plausible](https://www.cnet.com/news/why-the-pink-iphone-13-rumor-is-actually-kind-of-plausible/)
+
+
+> This photo, purporting to show a pink iPhone 13 leak, went viral on Twitter. @PengPhones It was only a matter of time before the great algorithm in the sky brought millennial pink and iPhone leaks together in capitalist matrimony. On May 5, a Twitter account called Peng Phones created a frenzy when it tweeted a photo of a pink iPhone 13 Pro Max render that looked like it was dreamed up by the same people who brought us "aesthetic" iPhone home screens. The phone, its color referred to as "Rose Pink" in the tweet, is surrounded by what appears to be other pink Apple accessories: AirPods, AirPods Max, an iPhone case.
+
+
+***
+![Exscientia announces multi-target, AI-driven drug discovery collaboration with Bristol Myers Squibb](https://mms.businesswire.com/media/20210519005180/en/879383/23/Exscientia_logo.jpg "Exscientia announces multi-target, AI-driven drug discovery collaboration with Bristol Myers Squibb")
+
+
+[Exscientia announces multi-target, AI-driven drug discovery collaboration with Bristol Myers Squibb](https://www.businesswire.com/news/home/20210519005180/en/Exscientia-announces-multi-target-AI-driven-drug-discovery-collaboration-with-Bristol-Myers-Squibb)
+
+
+> May 19, 2021 04:00 AM Eastern Daylight Time OXFORD, England--(BUSINESS WIRE)--Exscientia, the clinical stage, Artificial Intelligence (AI)-driven pharmatech company, announced today that it has entered into a collaboration agreement with Bristol-Myers Squibb Company (NYSE: BMY). This expanded collaboration has the potential to add to the Bristol Myers Squibb drug pipeline whilst enhancing Exscientia's portfolio of shared assets. The collaboration will use AI to accelerate the discovery of small molecule therapeutic drug candidates in multiple therapeutic areas, including oncology & immunology.
+
+
+***
+![Highview Power Developing 2 GWh of Liquid Air Long Duration Energy Storage Projects in Spain](https://mms.businesswire.com/media/20210519005177/en/879521/23/Highview_Power_logo_large_%28by_User_2533499%29.jpg "Highview Power Developing 2 GWh of Liquid Air Long Duration Energy Storage Projects in Spain")
+
+
+[Highview Power Developing 2 GWh of Liquid Air Long Duration Energy Storage Projects in Spain](https://www.businesswire.com/news/home/20210519005177/en/Highview-Power-Developing-2-GWh-of-Liquid-Air-Long-Duration-Energy-Storage-Projects-in-Spain)
+
+
+> May 19, 2021 04:00 AM Eastern Daylight Time LONDON & MADRID--(BUSINESS WIRE)--Highview Power, a global leader in long duration energy storage solutions, announced today it is developing up to 2 GWh of long duration, liquid air energy storage projects across Spain for an estimated investment of around $1 billion. These projects will enable several Spanish regions to move towards their net zero emissions target. Alongside development partners and a consortium of investors, which include TSK, one of the largest engineering companies in Europe, and the Center for Energy, Environmental and Technological Research (CIEMAT), Highview Power is planning to develop up to seven CRYOBattery™ projects ranging from 50 MW/300 MWh in Asturias, Cantabria, Castilla y Leon, and the Canary Islands.
+
+
