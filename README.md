@@ -10296,3 +10296,44 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[Camera Lens Reviews](https://www.digitaltrends.com/camera-lens-review/)
+
+
+> Choosing the right camera lens is of the utmost important. Luckily, Digital Trends' expert reviews will help you choose a model based on rating, focal length, and a variety of other metrics.
+
+
+***
+[Post-IDFA Alliance data: ad spending on Android is up ~21% after Apple's ATT changes, iOS spending drops ~3%; 63.5% to 83.2% of iOS users opt out of tracking (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210519/p34#a210519p34)
+
+
+> Dean Takahashi / VentureBeat: Post-IDFA Alliance data: ad spending on Android is up ~21% after Apple's ATT changes, iOS spending drops ~3%; 63.5% to 83.2% of iOS users opt out of tracking — Did you miss GamesBeat Summit 2021? Watch on-demand here! — Apple's decision to emphasize user privacy over targeted advertising …
+
+
+***
+[AMD announces a $4B stock buyback program, its first since 2001, representing about 4% of AMD's market value (Ian King/Bloomberg)](http://www.techmeme.com/210519/p33#a210519p33)
+
+
+> Ian King / Bloomberg: AMD announces a $4B stock buyback program, its first since 2001, representing about 4% of AMD's market value — Advanced Micro Devices Inc. unveiled a $4 billion stock buyback plan, its first repurchase authorization since 2001, underscoring the chipmaker's confidence in the future of its business.
+
+
+***
+![Rideable Reviews](https://icdn.digitaltrends.com/image/digitaltrends/dt_logo_lockup_blue.jpg "Rideable Reviews")
+
+
+[Rideable Reviews](https://www.digitaltrends.com/rideable-reviews/)
+
+
+> Rideable Reviews
+
+
+***
+![Apple Watch Series 7 design refresh leaked in renders](https://icdn.digitaltrends.com/image/digitaltrends/apple-watch-series-7-1.jpg "Apple Watch Series 7 design refresh leaked in renders")
+
+
+[Apple Watch Series 7 design refresh leaked in renders](https://www.digitaltrends.com/mobile/apple-watch-series-7-news-leak/)
+
+
+> The Apple Watch is about due for a refresh. The last design refresh came with the Apple Watch Series 4, bringing an edge-to-edge display and refined look, but now, three years later, it's starting to look slightly stale. That design refresh, however, may well be on the way, at least according to a leak from serial leaker Jon Prosser. According to Prosser, who published a video detailing the upcoming design refresh, the Apple Watch Series 7 will likely come with a new flat-edge look that matches current iPhone and iPad models.
+
+
