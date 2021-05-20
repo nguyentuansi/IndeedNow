@@ -10522,3 +10522,53 @@
 > A record-breaking cold snap sweeping across eastern Australia looks set to hang around over the weekend.Sydney has recorded its coldest run of May nights in 54 years after the minimum temperature again dipped to below 9C on Thursday morning to a chilly 8.6C.Not since 1967 has Sydney experienced a colder streak in May when the temperature fell below 9C for six nights in a row.The temperature in eastern Australia will drop again on Friday morning, but Sydneysiders will get a reprieve from the frosty mornings with some cloud cover set to keep the minimum forecast in double digits.
 
 
+***
+![Start taking your online security seriously with a subscription to NordVPN](https://mondrian.mashable.com/2021%252F05%252F20%252F8b%252F0fc226bd934f4972998957f781522caf.46dfd.jpg%252F1200x630.jpg?signature=TOtvBEXPo0QzMedUlEqxz6eVzN8= "Start taking your online security seriously with a subscription to NordVPN")
+
+
+[Start taking your online security seriously with a subscription to NordVPN](https://mashable.com/uk/shopping/may-20-best-nord-vpn-deal/)
+
+
+> SAVE 58%: A one-year subscription to NordVPN is on sale for £3.64 per month as of May 20, saving you 58% on list price. The online world can be a wonderful place, but it's also full of threats. Hackers, viruses, and other nasty things lurk around every corner, and it's up to you to protect yourself. You have plenty of options when it comes to cybersecurity, but investing in a VPN might be the quickest and easiest way of protecting your sensitive information. These services create an encrypted tunnel for all of your online traffic to pass through, meaning all of your online activity is safeguarded.
+
+
+***
+![Apple Watch users will soon able to control their smartwatch using hand gestures](https://images.indianexpress.com/2021/05/Apple-Watch-AssistiveTouch.jpg "Apple Watch users will soon able to control their smartwatch using hand gestures")
+
+
+[Apple Watch users will soon able to control their smartwatch using hand gestures](https://indianexpress.com/article/technology/tech-news-technology/apple-watch-users-will-soon-able-to-control-their-smartwatch-using-hand-gestures-7322444/)
+
+
+> Apple Watch is getting a brand new AssistiveTouch feature that will allow users to control their smartwatch without ever having to actually touch it. With the built-in motion sensors, heart rate monitor, and on-device machine learning, Apple Watch can detect muscle movement and tendon activity. This means users can navigate their Apple Watch with subtle hand gestures, including pinch or a clench. Through simple gestures, users can answer calls or access the control center. Apple says the idea behind the Assistive Touch feature for Apple Watch is to make make it easier for users with upper body limb differences to use their smartwatch.
+
+
+***
+![Twitter drops image-cropping algorithm after finding bias](https://static.straitstimes.com.sg/s3fs-public/articles/2021/05/20/nz_twt_200559.jpg "Twitter drops image-cropping algorithm after finding bias")
+
+
+[Twitter drops image-cropping algorithm after finding bias](https://www.straitstimes.com/tech/tech-news/twitter-drops-image-cropping-algorithm-after-finding-bias)
+
+
+> SAN FRANCISCO (AFP) - Twitter said Wednesday (May 19) it was scrapping an automated image-cropping system after its review found bias in the algorithm controlling the function. The messaging platform said it found the algorithm delivered "unequal treatment based on demographic differences" with whites and males favoured over Blacks and females, and "objectification" bias that focused on a woman's chest or legs, described as "male gaze". The news comes a month after Twitter said it was launching an algorithmic fairness initiative as part of an effort to reduce bias on its platform introduced by automation.
+
+
+***
+![Kickstart a career in coding with this JavaScript certification bundle](https://mondrian.mashable.com/2021%252F05%252F20%252Fc3%252F61d41c20275e4729be6f9058e47e5aa3.0fe5a.jpg%252F1200x630.jpg?signature=UfKb9GLFg-E_2cHKmwYOj0newvY= "Kickstart a career in coding with this JavaScript certification bundle")
+
+
+[Kickstart a career in coding with this JavaScript certification bundle](https://mashable.com/uk/shopping/may-20-2021-learn-to-code-javascript-certification-bundle/)
+
+
+> TL;DR: As of May 20, you can pay what you want for the 2021 Learn to Code JavaScript Certification Bundle. With this JavaScript Certification Bundle, you can jumpstart your career in coding and programming with 50 hours of easy-to-follow lessons and lectures. You'll start by learning HTML5 Canvas and creating Canvas-based games like Pong, Catcher, Bubble Popper, and more. It's an easy way to absorb everything you need to know, while having some fun along the way. Then, you'll move into courses that let you build interactive games using JavaScript, so you can code and apply Game Logic from scratch.
+
+
+***
+![How to watch Adventure Time](https://cdn.mos.cms.futurecdn.net/vU3Mk73nrgDhdrNYVoV5Uh-1200-80.jpg "How to watch Adventure Time")
+
+
+[How to watch Adventure Time](https://www.techradar.com/news/how-to-watch-adventure-time-distant-lands-together-again-online-stream-the-all-new-animated-special-now)
+
+
+> (Image credit: HBO Max) Finn the Human and Jake the Dog are back for another epic journey and the third instalment of HBO Max's Adventure Time: Distant Lands series.Read on as we explain how to watch Adventure Time: Distant Lands - Together Again online from anywhere right now, with HBO Max hosting the special in the US.How to watch Adventure Time: Distant Lands - Together Again onlineUS release date: Thursday, May 20 Director: Miki BrewsterVoice cast: Jeremy Shada, John DiMaggio, Olivia Olson, Hynden Walch, Niki Yang, Steve LittleWatch in US: subscribe to HBO MaxHaving come to an end after a mammoth 10 seasons on Cartoon Network, fans of Pendelton Ward's animated comedy fantasy have been able to console themselves with the promise of a quartet of one-off "Distant Lands" specials via HBO.
+
+
