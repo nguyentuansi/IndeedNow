@@ -10437,3 +10437,41 @@
 > May 19, 2021 06:00 PM Eastern Daylight Time HOPKINS, Minn.--(BUSINESS WIRE)--Digi International, (NASDAQ: DGII), a leading global provider of Internet of Things (IoT) connectivity products and services, today announced it will relocate its Brisbane-based headquarters from Rocklea to Milton in September 2021. The renovated facility will further concentrate its expanding team of engineering and technology talent in a modern, collaborative space including staff from Digi's Opengear subsidiary that specializes in solutions for secure, resilient network access and IT automation.
 
 
+***
+[Snapdragon 778G 發表   6nm 製程高階功能平民化](http://www.eprice.com.hk/mobile/talk/4247/218219/1/)
+
+
+> Qualcomm 昨日發表了全新 5G 處理器 Snapdragon 778G，多間廠商包括 Motorola、小米、Realme、Honor、OPPO 和 iQOO 於下月起推出的手機，都會開始採用這款採用 6nm 製程，配備部份頂級 Snapdragon 888 功能的中階處理器。
+
+
+***
+[Tizen OS 與 Wear OS 整合   Galaxy Watch 後續安排確認](http://www.eprice.com.hk/nb/talk/1141/27928/1/)
+
+
+> Google 日前宣佈與 Samsung 合作，將 Tizen OS 和 Wear OS 整合，Samsung 同時亦宣佈下一代 Galaxy Watch 智能手錶會改用 Wear OS，令現有 Galaxy Watch 用戶擔心自己的手錶會否被遺棄。
+
+
+***
+[Apple Watch Series 7   平面化設計 + 全新綠色錶身](http://www.eprice.com.hk/nb/talk/1141/27927/1/)
+
+
+> 有傳聞指 Apple Watch 的設計將會在今年出現大轉變，日前著名爆料人 Jon Prosser 在他的 YouTube 頻道公開了 Apple Watch Series 7 的設計變更，首先會放棄以往的弧形邊緣，改為平面化錶面，此外，還會提供全新的綠色錶身選擇。
+
+
+***
+[Galaxy Tab A7 Lite   發佈前規格細節曝光](http://www.eprice.com.hk/pad/talk/4471/68787/1/)
+
+
+> 德國網站 WinFuture 經常會在產品發佈前，公開新產品的照片和細節，日前他們就刊登了 Samsung 入門級平板 Galaxy Tab A7 Lite 的官方照片，還有它的規格配置，以過往 WinFuture 爆料的模式看來，這款廉價平板應該會在短期內發表。
+
+
+***
+![Bitcoin price latest – Bitcoin and Ethereum plummet as $1TRILLION is wiped off value of cryptocurrencies in two weeks](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/05/aj-bitcoin-blog.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price latest – Bitcoin and Ethereum plummet as $1TRILLION is wiped off value of cryptocurrencies in two weeks")
+
+
+[Bitcoin price latest – Bitcoin and Ethereum plummet as $1TRILLION is wiped off value of cryptocurrencies in two weeks](https://www.thesun.co.uk/tech/14977351/bitcoin-latest-cryptocurrency-prices-plummet-ethereum-value/)
+
+
+> DECLINE & FALL 20 May 2021, 1:16Updated: 20 May 2021, 1:19CRYPTOCURRENCY markets have seen the value of their stock plummet by $1trillion in just two weeks. The world's two largest digital asset exchanges, Binance and Coinbase Global Inc., suffered service outages, sending Bitcoin falling the most since 2013, BNN Bloomberg reports. The trouble on Wednesday began when Binance, the world's biggest cryptocurrency exchange, temporarily disabled Ethereum withdrawals citing network congestion. Then Coinbase said it was investigating 'intermittent downtime' on its platform.
+
+
