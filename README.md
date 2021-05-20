@@ -10613,3 +10613,50 @@
 > Ingrid Lunden / TechCrunch: Paris-based app-only car rental startup Virtuo raises $60M Series C led by AXA Venture Partners and an additional $36M in asset financing — Car ownership has become pricey and untenable in many towns and cities in Europe: between congestion charges to reduce emissions, parking fees …
 
 
+***
+[Top technology events in May and June](https://www.verdict.co.uk/events-spring-june-2021/)
+
+
+> B2B tech events this Spring continue the virtual conference trend as seen so far in 2021. Big hitters Microsoft, Google and Apple are continuing with their annual highlights online for the moment: Google dev conference I/O came back online after its 2020 iteration was cancelled due to Covid; Apple has already hosted a headline-grabbing April […] The post Top technology events in May and June appeared first on Verdict.
+
+
+***
+![Microsoft to retire Internet Explorer 11 on June 15, 2022](https://assets2.rappler.com/2021/05/Internet-explorer-edge-May-20-2021-1621495693742.jpg "Microsoft to retire Internet Explorer 11 on June 15, 2022")
+
+
+[Microsoft to retire Internet Explorer 11 on June 15, 2022](https://www.rappler.com/technology/microsoft-internet-explorer-11-retirement-date)
+
+
+> Microsoft announced Wednesday, May 19, it would be sunsetting the consumer-facing version of Internet Explorer on June 15, 2022. In a blog post, the company said "the future of Internet Explorer on Windows 10 is in Microsoft Edge." It touted Microsoft Edge as being faster, more secure, and more modern than Internet Explorer while supporting compatibility for legacy websites and applications due to its built-in Internet Explorer mode. "With Microsoft Edge capable of assuming this responsibility and more, the Internet Explorer 11 desktop application will be retired and go out of support on June 15, 2022, for certain versions of Windows 10," the company went on to say.
+
+
+***
+![&Open raises $7.2M from First Round Capital and LocalGlobe to send gifts at scale – TechCrunch](https://techcrunch.com/wp-content/themes/techcrunch-2017/images/opengraph-default.png "&Open raises $7.2M from First Round Capital and LocalGlobe to send gifts at scale – TechCrunch")
+
+
+[&Open raises $7.2M from First Round Capital and LocalGlobe to send gifts at scale – TechCrunch](https://techcrunch.com/2021/05/20/open-raises-7-2m-from-first-round-capital-and-localglobe-to-send-gifts-at-scale/)
+
+
+> We live in a world where companies have to send out ‘gifts' to individuals. Chocolate bars. Bottles of wine. You name it. Companies are gifting it. But right now, that operation is buried in a marketing department on a spreadsheet, as is mostly pretty disorganized. A handful of startups realized it could be done better and at scale, among them Sendoso (which has raised $52.7M) and ReachDesk ($6M). Joining this clan is a startup with the tortuous name of '&Open' (yes, ‘ampersand open', pronounced ‘And Open' for those of you at the back).
+
+
+***
+![Skrill USA Launches Skrill Virtual Visa® Prepaid Card in US](https://mms.businesswire.com/media/20210520005157/en/879786/23/Skrill_Logo.jpg "Skrill USA Launches Skrill Virtual Visa® Prepaid Card in US")
+
+
+[Skrill USA Launches Skrill Virtual Visa® Prepaid Card in US](https://www.businesswire.com/news/home/20210520005157/en/Skrill-USA-Launches-Skrill-Virtual-Visa%C2%AE-Prepaid-Card-in-US)
+
+
+> May 20, 2021 04:00 AM Eastern Daylight Time HOUSTON--(BUSINESS WIRE)--Paysafe (NYSE: PSFE), a leading specialized payments platform, today announced that the Skrill USA digital wallet has unveiled a virtual version of its existing Skrill Visa® Prepaid Card. Skrill USA's latest product innovation offers Americans a fully digital payments solution which can be activated instantly to spend their Skrill balance online wherever Visa® is accepted. With the majority of U.S. and international eCommerce sites supporting Visa® card payments, the Skrill Virtual Visa® Prepaid Card, which is issued by the New York-headquartered Community Federal Savings Bank (CFSB)1, allows Skrill USA customers to shop online almost anywhere.
+
+
+***
+![Infinix Hot 10S with Helio G85 Octa-core processor launched in India, price starts at Rs 9999](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/HOT_10_ST_BVC1-40-647x363.jpeg?dWb9SA3LcBRNKcV4yiDHo3VEEd.upF_q "Infinix Hot 10S with Helio G85 Octa-core processor launched in India, price starts at Rs 9999")
+
+
+[Infinix Hot 10S with Helio G85 Octa-core processor launched in India, price starts at Rs 9999](https://www.indiatoday.in/technology/news/story/infinix-hot-10s-with-helio-g85-octa-core-processor-launched-in-india-price-starts-at-rs-9999-1804763-2021-05-20)
+
+
+> Infinix has launched yet another smartphone in the budget category in India. The Hong Kong-based smartphone maker has launched the Infinix Hot 10S in the country. Infinix Hot 10S has been launched in two RAM variants including the 4GB RAM, 6GB RAM.Infinix has launched yet another smartphone in the budget category in India. The Hong Kong-based smartphone maker has launched the Infinix Hot 10S in the country. This is the third phone by Infinix in the Hot series. Prior to this, the company had launched the Infinix Hot 10 Play and the Infinix Hot 10.
+
+
