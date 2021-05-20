@@ -10939,3 +10939,53 @@
 > (Image credit: Bethesda) For the last few days, new information has begun to emerge about Starfield – Bethesda's next open-world space adventure that's currently in development. It started with a tweet from GamesBeat's Jeff Grub who said the game "is confirmed" to be PC/Xbox exclusive after Microsoft's acquisition of Bethesda earlier this year, and now some other industry sources say that the game might make an appearance at Microsoft and Bethesda's E3 2021 conference. It's there, says Bloomberg's Jason Schreier, that we'll get the bad news: Starfield's most likely release date is late 2022.
 
 
+***
+![Rutgers Law Student Government Tells Groups: Promote Critical Race Theory or Lose Funding](https://media.breitbart.com/media/2017/02/wi/ap/07/1512irc-e1495559624172.jpg "Rutgers Law Student Government Tells Groups: Promote Critical Race Theory or Lose Funding")
+
+
+[Rutgers Law Student Government Tells Groups: Promote Critical Race Theory or Lose Funding](https://www.breitbart.com/tech/2021/05/20/rutgers-law-student-government-tells-groups-promote-critical-race-theory-or-lose-funding/)
+
+
+> The student government at Rutgers Law School is telling student groups they must promote Critical Race Theory or lose funding, according to the Foundation for Individual Rights in Education (FIRE). Critical Race Theory is an academic movement transpiring at schools across the country teaching children the U.S. is fundamentally racist, and that they must view every social interaction and person in terms of race or color in order to be 'antiracist.' On Monday, FIRE called on Rutgers University to rescind a requirement that forces student groups to host certain ideological events in order to be eligible for funding.
+
+
+***
+![Alleged Oath Keeper charged in Capitol riot called government "tyrannical" and urged people to fight, prosecutors say](https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/20/64db38f7-0571-473d-babd-24eea6c896cc/thumbnail/1200x630/7e7f6dd330fa769379dea41fa6f5bbcd/screen-shot-2021-05-20-at-4-18-00-pm.png "Alleged Oath Keeper charged in Capitol riot called government "tyrannical" and urged people to fight, prosecutors say")
+
+
+[Alleged Oath Keeper charged in Capitol riot called government "tyrannical" and urged people to fight, prosecutors say](https://www.cbsnews.com/news/oath-keeper-james-breheny-charged-capitol-riot/)
+
+
+> By Cassidy McDonald May 20, 2021 / 6:05 PM / CBS News Another alleged member of the Oath Keepers has been charged in connection with the Capitol riot, according to court documents unsealed Thursday. Though 61-year-old James Breheny was not charged with coordinating with other members of the group, prosecutors say he invited the Oath Keepers' leader to a planning meeting prior to the attack. Authorities said Breheny served as a county coordinator for the New Jersey Chapter of the Oath Keepers, which prosecutors defined as a large but loosely organized collection of individuals, some of whom believe that the federal government is trying to strip American citizens of their rights.
+
+
+***
+![Melbourne shivers through coldest morning of the year as cold snap freezes east coast of Australia](https://images.perthnow.com.au/publication/C-2894682/4b629a63bfd5e6728f95559a1ab17800f81f1271-16x9-x0y740w1920h1080.jpg?imwidth=1200 "Melbourne shivers through coldest morning of the year as cold snap freezes east coast of Australia")
+
+
+[Melbourne shivers through coldest morning of the year as cold snap freezes east coast of Australia](https://www.news.com.au/technology/environment/melbourne-shivers-through-coldest-morning-of-the-year-as-cold-snap-freezes-east-coast-of-australia/news-story/3bfef1459beeb62887ba7176ec3a16c7)
+
+
+> Melbourne has shivered through it's coldest morning of the year so far as an 'unusual' cold snap continues to bring frosty mornings to the nation's east coast.The temperature in the city dropped to just 6.3C at 6.25am – the coldest minimum temperature since October 12 last year.It was even colder in the suburbs, with the Mornington Peninsula falling to 1.5C just before 3.30am and Ballarat, east of Melbourne, recording a freezing 0.1C at 5.25am.Weather bureau senior forecaster Richard Russell said Melburnians could expect consecutive coldest mornings of the year as we head towards winter.
+
+
+***
+![Blue Tick: Twitter restarts account verification](https://images.indianexpress.com/2021/05/twitter.jpg "Blue Tick: Twitter restarts account verification")
+
+
+[Blue Tick: Twitter restarts account verification](https://indianexpress.com/article/technology/social/blue-tick-twitter-restarts-account-verification-7323787/)
+
+
+> After a three-year pause, Twitter started rolling out its application process on Thursday for public to allow users to have their accounts on the microblogging site verified and sport the ‘blue tick'. It also said it has started removing the verified badge from those accounts that no longer meet the updated criteria for verification. Earlier this year, the Centre had introduced guidelines to contain the misuse of social media platforms. Among various measures, the social media rules issued by the IT Ministry called for platforms to look at offering a voluntary user verification mechanism to those who wish to verify their accounts.
+
+
+***
+![Samsung Launches Galaxy F52 5G, Costs Cheaper Than Galaxy A52 5G](https://www.androidheadlines.com/wp-content/uploads/2021/05/galaxy-f52-5g-featured.png "Samsung Launches Galaxy F52 5G, Costs Cheaper Than Galaxy A52 5G")
+
+
+[Samsung Launches Galaxy F52 5G, Costs Cheaper Than Galaxy A52 5G](https://www.androidheadlines.com/2021/05/samsung-launches-galaxy-f52-5g-costs-cheaper-than-galaxy-a52-5g.html)
+
+
+> Samsung has finally unveiled yet another 5G smartphone, the Galaxy F52 5G, which is actually quite affordable. Officially the Samsung Galaxy F52 5G phone costs less than the Galaxy A52 5G.Well, Samsung already has a huge portfolio of smartphones. We have the S-series, A-series, M-series, and the F-series Galaxy phones. Adding one more smartphone to the F-series, Samsung launched an affordable Galaxy F52 5G device.The price of the device is the talk of the town at the moment, thanks to the asking price, which is cheaper than the already cheaper Galaxy A52 5G smartphone.
+
+
