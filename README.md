@@ -10895,3 +10895,47 @@
 > May 20, 2021 02:10 PM Eastern Daylight Time SAN DIEGO--(BUSINESS WIRE)--Cubic Corporation (NYSE:CUB) today announced it was awarded the designation of 'VETS Indexes Recognized Employer,' from the 2021 VETS Indexes Employer Awards. A firm dedicated to promoting veteran employment, VETS Indexes and its awards program recognizes Cubic's commitment to recruiting, hiring, retaining, developing and supporting veteran employees and others in the military-connected community. 'Being named a VETS Indexes Recognized Employer is a true testament to our ongoing efforts to implement effective policies and practices that support and meet the needs of our service members and veterans,' said Bradley H.
 
 
+***
+![Elon Musk vows loyalty to Dogecoin and causes value to shoot up](https://static.independent.co.uk/2021/05/20/20/iStock-1318513754.jpg?width=1200&auto=webp&quality=75 "Elon Musk vows loyalty to Dogecoin and causes value to shoot up")
+
+
+[Elon Musk vows loyalty to Dogecoin and causes value to shoot up](https://www.independent.co.uk/life-style/gadgets-and-tech/elon-musk-twitter-dogecoin-price-b1851070.html)
+
+
+> Elon Musk vowed his loyalty to Dogecoin and caused its value to shoot up 15 per cent in the latest Cryptocurrency shakeup.The billionaire entrepreneur responded to a Twitter thread speculating on his Dogecoin holdings by saying, 'I haven't and won't sell any.'That caused the cryptocurrency, which Musk has regularly promoted on social media, to sharply jump in value after days of slumping in price.Earlier Musk, the CEO of Tesla and SpaceX, had posted a picture on Twitter of a laptop with a sticker of a one dollar bill on it, and the caption 'How much is that Doge in the window.
+
+
+***
+[‘Totally unacceptable': NBN Co faces widespread backlash over bungled booking system](https://thenewdaily.com.au/life/tech/2021/05/21/nbn-co-customer-delays/)
+
+
+> The management of Australia's national broadband network has been called into question with NBN Co facing growing backlash from fed-up customers, telcos and technicians. Thousands of NBN customers are currently … Continued The post ‘Totally unacceptable': NBN Co faces widespread backlash over bungled booking system appeared first on The New Daily.
+
+
+***
+[GBPUSD keeps the extension going](https://www.forexlive.com/technical-analysis/!/gbpusd-keeps-the-extension-going-20210520)
+
+
+> What started as a 40 pip range has reached the 22 day average of 90 pips The idea that non-trend can transition to trend can work intraday as well. The North American session started with a narrow 40 pip trading range in the GBPUSD.  That was narrow.  The average over the last 22 trading days (random month of trading)
+
+
+***
+![Walmart PS5 restock: it's in stock, while Sony Direct battles glitches – how to get it](https://cdn.mos.cms.futurecdn.net/KtBgmToAoKnjkncoahtCoH-1200-80.jpg "Walmart PS5 restock: it's in stock, while Sony Direct battles glitches – how to get it")
+
+
+[Walmart PS5 restock: it's in stock, while Sony Direct battles glitches – how to get it](https://www.techradar.com/news/massive-ps5-restock-today)
+
+
+> Update: The Walmart PS5 restock is happening right now, according to the alert sent by PS5 restock Twitter tracker Matt Swider. He'll send you an alert to all US stores – if you follow his Twitter account and turn on notifications. We often see a PS5 restock at Walmart every two weeks at or around this specific if it has enough next-gen console inventory. It seems like Walmart will have enough PS5 consoles for a small restock. After that, a Sony Direct restock is confirmed to have the PS5 in stock today.
+
+
+***
+![Starfield release date looks like it's 2022 and it will reportedly be a PC/Xbox exclusive](https://cdn.mos.cms.futurecdn.net/rgysdwW6wiqEPXhhwD2DW7-1200-80.jpeg "Starfield release date looks like it's 2022 and it will reportedly be a PC/Xbox exclusive")
+
+
+[Starfield release date looks like it's 2022 and it will reportedly be a PC/Xbox exclusive](https://www.techradar.com/news/starfield-release-date-looks-like-its-2022-and-it-will-reportedly-be-a-pcxbox-exclusive)
+
+
+> (Image credit: Bethesda) For the last few days, new information has begun to emerge about Starfield – Bethesda's next open-world space adventure that's currently in development. It started with a tweet from GamesBeat's Jeff Grub who said the game "is confirmed" to be PC/Xbox exclusive after Microsoft's acquisition of Bethesda earlier this year, and now some other industry sources say that the game might make an appearance at Microsoft and Bethesda's E3 2021 conference. It's there, says Bloomberg's Jason Schreier, that we'll get the bad news: Starfield's most likely release date is late 2022.
+
+
