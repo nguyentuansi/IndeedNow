@@ -10701,3 +10701,53 @@
 > May 20, 2021 05:58 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Pressure Sensor Market - Forecasts from 2021 to 2026" report has been added to ResearchAndMarkets.com's offering. The pressure sensor market is estimated to grow at a CAGR of 6.35% to reach US$4.896 billion in 2026 from US$3.183 billion in 2019. Pressure sensors are devices equipped with pressure-sensitive elements to measure physical quantity such as length, force, temperature, and pressure and converted into an electrical or optical signal.
 
 
+***
+![Crypto price crash LIVE – Bitcoin bounces back above $40,000 after Elon Musk says Tesla wont sell cryptocurrencies](https://www.thesun.co.uk/wp-content/uploads/2021/05/crypto-4.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Crypto price crash LIVE – Bitcoin bounces back above $40,000 after Elon Musk says Tesla wont sell cryptocurrencies")
+
+
+[Crypto price crash LIVE – Bitcoin bounces back above $40,000 after Elon Musk says Tesla wont sell cryptocurrencies](https://www.thesun.co.uk/tech/15015192/bitcoin-price-live-elon-musk-ethereum-latest-cryptocurrency-updates/)
+
+
+> BITCOIN has bounced back above $40,000 after it yesterday suffered one of its worst crashes since last year. The crash on Wednesday was driven by China banning financial institutions from offering crypto related transactions, and warned investors against speculative trading in them. As such bitcoin fell below $31,000 – less than half the all-time high price that it reached in mid April – before recovering to around $40,000 today. And the cryptocurrency is still ahead of Tesla, as well as payment giants like Mastercard, PayPal and Visa.
+
+
+***
+![[Breaking News] Police "There are witnesses of male witnesses to'getting into the Han River' on the day of the disappearance of Son Jeong-min"](https://img.sbs.co.kr/newimg/news/20210507/201548509_1280.jpg "[Breaking News] Police "There are witnesses of male witnesses to'getting into the Han River' on the day of the disappearance of Son Jeong-min"")
+
+
+[[Breaking News] Police "There are witnesses of male witnesses to'getting into the Han River' on the day of the disappearance of Son Jeong-min"](https://www.tellerreport.com/tech/2021-05-20-[breaking-news]-police-"there-are-witnesses-of-male-witnesses-to-getting-into-the-han-river--on-the-day-of-the-disappearance-of-son-jeong-min".BkXfx0mYu.html)
+
+
+> Tech/Game 2021-05-19T18:32:02.959Z Dutch invention: an electric cargo bike on solar energy Tech/Game 2021-05-19T18:30:34.509Z Tesla was not the first with Autopilot, but continues to innovate Tech/Game 2021-05-19T23:40:58.365Z "I can't hear anything because it's on the 28th floor" LH employee mocked, in the end... Tech/Game 2021-05-19T21:53:07.305Z Guam trip, can't go after getting AZ vaccine?... Government explanation Tech/Game 2021-05-20T08:16:07.239Z Municipalities are said to spy on citizens on social media on a large scale Tech/Game 2021-05-20T00:19:12.
+
+
+***
+![Amazon Prime Day Kindle deals: what to expect in 2021](https://cdn.mos.cms.futurecdn.net/FriYCzCJKYKFeLk5kvDW4M-1200-80.jpg "Amazon Prime Day Kindle deals: what to expect in 2021")
+
+
+[Amazon Prime Day Kindle deals: what to expect in 2021](https://www.techradar.com/amazon-prime-day/amazon-prime-day-kindle-deals-2020)
+
+
+> You can rely on Prime Day Kindle deals to offer up price cuts on Amazon's own ereader range, and 2021's offers should prove no different. From the standard Amazon Kindle to the more premium Paperwhite and Oasis models, we expect not just discounts, but also bundles that include additional services like Kindle Unlimited for free. That means you can wrap up some serious value in this year's Prime Day Kindle deals, and looking at last year's offers we're likely to see a return to some record low prices on the devices themselves.
+
+
+***
+![Realme packs a two-week battery, GPS into its bigger budget smartwatch](https://cdn57.androidauthority.net/wp-content/uploads/2021/05/realme-watch-2-pro-1.jpg "Realme packs a two-week battery, GPS into its bigger budget smartwatch")
+
+
+[Realme packs a two-week battery, GPS into its bigger budget smartwatch](https://www.androidauthority.com/realme-watch-2-pro-1227703/)
+
+
+> TL;DR Realme has launched the Watch 2 Pro. It's essentially an upgraded version of the original Realme Watch 2. The smartwatch packs plenty of fitness tracking features, a large display, GPS, and a two-week battery. It's been a little over a month since Realme unveiled the Watch 2, its take on the budget fitness smartwatch. But for those wanting more from their wearable, the company has now unveiled the Realme Watch 2 Pro. Visually, the Watch 2 Pro doesn't differ much from its non-Pro sibling.
+
+
+***
+![Privacy.com rebrands to Lithic, raises $43M for virtual payment cards – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/07/credit-card-privacy.gif?w=600 "Privacy.com rebrands to Lithic, raises $43M for virtual payment cards – TechCrunch")
+
+
+[Privacy.com rebrands to Lithic, raises $43M for virtual payment cards – TechCrunch](https://techcrunch.com/2021/05/20/privacy-com-rebrands-to-lithic-raises-43m-for-virtual-payment-cards/)
+
+
+> When Privacy.com was founded in 2014, the company's focus was to let anyone generate virtual and disposable payment card numbers for free. The goal was to allow those users to keep users' actual credit card numbers safe while allowing the option to cut off companies from their bank accounts. In an age of near-constant data breaches and credit card skimmers targeting unsuspecting websites, Privacy.com has made it harder for hackers to get anyone's real credit card details. The concept has appealed to many.
+
+
