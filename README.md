@@ -10848,3 +10848,50 @@
 > Cory Askew, Chestertons' Head of Sales, said they are seeing 'increasing numbers' of house hunters who are rethinking their move to rural spots. Many buyers are looking to move to London's outer areas instead which benefit those looking to save money on stamp duty land tax (SDLT). He said: 'Outer areas of London have been the main beneficiaries of the SDLT holiday and continue to squeeze the last drops of opportunity out of the incentive before the June 30 deadline with strong buyer demand still very evident across our London offices.
 
 
+***
+![Bain Capital Ventures has $1.3 billion more to invest — including in emerging fund managers – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/09/dollar-bills.png?w=753 "Bain Capital Ventures has $1.3 billion more to invest — including in emerging fund managers – TechCrunch")
+
+
+[Bain Capital Ventures has $1.3 billion more to invest — including in emerging fund managers – TechCrunch](https://techcrunch.com/2021/05/20/bvc_fund_nine/)
+
+
+> Bain Capital Ventures (BCV), the venture arm of the 37-year-old private equity firm Bain Capital, announced this morning that it has $1.3 billion more smackers to invest across two funds, a $950 million fund for seed and Series A deals and a $350 million fund for growth-stage opportunities. That amount is up slightly from late 2018, when the outfit announced $1 billion across two funds. While the outfit is backed by all the usual suspects, including endowments and pension funds, it's worth noting that around $130 million of that capital comes from investors and other employees inside of Bain, whose contributions typically make up 10% of a fund.
+
+
+***
+![Cryptocurrency company Blockfi accidentally sends users millions in bitcoin – and now it wants it back](https://static.independent.co.uk/2021/05/19/12/GettyImages-475483879.jpg?width=1200&auto=webp&quality=75 "Cryptocurrency company Blockfi accidentally sends users millions in bitcoin – and now it wants it back")
+
+
+[Cryptocurrency company Blockfi accidentally sends users millions in bitcoin – and now it wants it back](https://www.independent.co.uk/life-style/gadgets-and-tech/blockfi-cryptocurrency-bitcoin-accident-b1850899.html)
+
+
+> Cryptocurrency lender start-up BlockFi accidentally sent users huge amount of bitcoin as part of a promotion – and is now asking for it back.The company sent payouts in bitcoin instead of US dollars to customers, and although it is working to reclaim the funds a number of users had already withdrawn the coins, Bloomberg reports. Each coin is currently trading at £29,671 following a market crash.One user apparently received 700 bitcoin – worth £21m – rather than $700. Blockfi told Bloomberg that it affected fewer than 100 customers.
+
+
+***
+[Snap unveils its first AR glasses, with four built-in microphones, two stereo speakers, and a touchpad, and says it will test them with some AR effects creators (Alex Heath/The Verge)](http://www.techmeme.com/210520/p28#a210520p28)
+
+
+> Alex Heath / The Verge: Snap unveils its first AR glasses, with four built-in microphones, two stereo speakers, and a touchpad, and says it will test them with some AR effects creators — The fourth-gen glasses have built-in AR displays — Snap's new Spectacles glasses are its most ambitious yet.
+
+
+***
+![Snap announces a new generation of Spectacles, streamlined glasses to experience the world in AR – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-20-at-6.57.56-PM.png?w=732 "Snap announces a new generation of Spectacles, streamlined glasses to experience the world in AR – TechCrunch")
+
+
+[Snap announces a new generation of Spectacles, streamlined glasses to experience the world in AR – TechCrunch](https://techcrunch.com/2021/05/20/snap-announces-its-latest-generation-of-its-spectacles-a-streamlined-device-for-experience-the-world-in-ar/)
+
+
+> Amid a pre-recorded Partner Summit where Snap took users through a whole set of new tools for Snapchat users, creators and companies, Snap also threw in a 'one more thing' at the end that shows the company, after a rocky start several years ago, is definitely not giving up on hardware soon. Today the company announced the latest generation of its Spectacles, a streamlined 60s-style design in black that is the company's biggest play yet in merging some of the work its been building in augmented reality technology to a specific device tailored to work with it.
+
+
+***
+![Cubic Honored as a VETS Indexes Recognized Employer](https://mms.businesswire.com/media/20210520005921/en/880100/23/vets-indexes-2021-recognized-logo-full-color-rgb.jpg "Cubic Honored as a VETS Indexes Recognized Employer")
+
+
+[Cubic Honored as a VETS Indexes Recognized Employer](https://www.businesswire.com/news/home/20210520005921/en/Cubic-Honored-as-a-VETS-Indexes-Recognized-Employer)
+
+
+> May 20, 2021 02:10 PM Eastern Daylight Time SAN DIEGO--(BUSINESS WIRE)--Cubic Corporation (NYSE:CUB) today announced it was awarded the designation of 'VETS Indexes Recognized Employer,' from the 2021 VETS Indexes Employer Awards. A firm dedicated to promoting veteran employment, VETS Indexes and its awards program recognizes Cubic's commitment to recruiting, hiring, retaining, developing and supporting veteran employees and others in the military-connected community. 'Being named a VETS Indexes Recognized Employer is a true testament to our ongoing efforts to implement effective policies and practices that support and meet the needs of our service members and veterans,' said Bradley H.
+
+
