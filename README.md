@@ -10572,3 +10572,44 @@
 > (Image credit: HBO Max) Finn the Human and Jake the Dog are back for another epic journey and the third instalment of HBO Max's Adventure Time: Distant Lands series.Read on as we explain how to watch Adventure Time: Distant Lands - Together Again online from anywhere right now, with HBO Max hosting the special in the US.How to watch Adventure Time: Distant Lands - Together Again onlineUS release date: Thursday, May 20 Director: Miki BrewsterVoice cast: Jeremy Shada, John DiMaggio, Olivia Olson, Hynden Walch, Niki Yang, Steve LittleWatch in US: subscribe to HBO MaxHaving come to an end after a mammoth 10 seasons on Cartoon Network, fans of Pendelton Ward's animated comedy fantasy have been able to console themselves with the promise of a quartet of one-off "Distant Lands" specials via HBO.
 
 
+***
+[PUBG Mobile iOS Update: Battlegrounds Mobile India to launch SOON on iOS](https://www.zeebiz.com/technology/apps/news-pubg-mobile-india-ios-update-battlegrounds-mobile-india-to-launch-soon-on-ios-check-all-updates-here-157010)
+
+
+> The PUBG fans who use iPhones were disheartened a bit when the pre-registration for the Battlegrounds Mobile India game opened. However, a news will certainly bring about a smile in their faces.
+
+
+***
+![Extreme space weather could jeopardize NASA's Artemis moon missions](https://www.cnet.com/a/img/MA8lOrkqBMoJraM-pdL-HvP_0eA=/1200x630/2021/05/20/855acefa-cd06-464c-ab7d-32415d5bfdd9/gsfc-20171208-archive-e000393-orig.jpg "Extreme space weather could jeopardize NASA's Artemis moon missions")
+
+
+[Extreme space weather could jeopardize NASA's Artemis moon missions](https://www.cnet.com/news/extreme-space-weather-could-jeopardize-nasas-artemis-moon-missions/)
+
+
+> The sun's activity is expected to ramp up toward the next predicted maximum in 2025.  NASA Goddard The blazing hot ball of gas at the center of our solar system could prove problematic for future moon explorers. Although it sits some 93 million miles from Earth, the activity that occurs on the sun's surface blasts radioactive particles out into the solar system. Earth's magnetic field protects us from the worst of this activity down here, but astronauts out on the moon are naked (...except for the spacesuits, I hope.
+
+
+***
+[PUBG New State Mobile: Gamers alert! Check alpha test release date update, iOS pre-registration details, regions and more](https://www.zeebiz.com/technology/apps/news-pubg-new-state-mobile-gamers-alert-check-alpha-test-release-date-update-ios-pre-registration-details-regions-and-more-157009)
+
+
+> PUBG New State Mobile update: Announced earlier this year by game developers, the PUBG New State is one of the most awaited games on the mobile platform. The upcoming offering will be based in the year 2051 and feature futuristic items like drones and more, providing players with a whole new Battle Royale experience.
+
+
+***
+![Keep seeing Major bug in photos.](https://images.macrumors.com/social/?t=2296877&v=6 "Keep seeing Major bug in photos.")
+
+
+[Keep seeing Major bug in photos.](https://forums.macrumors.com/threads/keep-seeing-major-bug-in-photos.2296877/)
+
+
+> Apr 10, 2003 2,940 94 A hot desert I have been able to repeat this numerous times Open photos Go to albums - month Select a time frame to get to days view When looking at some days opt to delete a photo via select from the main screen multiple photos are deleted in sequence, they do not wind up in the deleted photos folder. this is a pretty big deal for me, I just lost at least five photos I wanted as a result, which are - it appears- unrecoverable. The next step is to check my iPad / online and see if they exist but I need to document days every time I delete something in order to find the ones which go missing.
+
+
+***
+[Paris-based app-only car rental startup Virtuo raises $60M Series C led by AXA Venture Partners and an additional $36M in asset financing (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210520/p2#a210520p2)
+
+
+> Ingrid Lunden / TechCrunch: Paris-based app-only car rental startup Virtuo raises $60M Series C led by AXA Venture Partners and an additional $36M in asset financing — Car ownership has become pricey and untenable in many towns and cities in Europe: between congestion charges to reduce emissions, parking fees …
+
+
