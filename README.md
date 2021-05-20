@@ -10660,3 +10660,44 @@
 > Infinix has launched yet another smartphone in the budget category in India. The Hong Kong-based smartphone maker has launched the Infinix Hot 10S in the country. Infinix Hot 10S has been launched in two RAM variants including the 4GB RAM, 6GB RAM.Infinix has launched yet another smartphone in the budget category in India. The Hong Kong-based smartphone maker has launched the Infinix Hot 10S in the country. This is the third phone by Infinix in the Hot series. Prior to this, the company had launched the Infinix Hot 10 Play and the Infinix Hot 10.
 
 
+***
+![UN agency recognises Pakistan's incubation center ‘Ignite' at WSIS Prizes 2021](https://sm.mashable.com/t/mashable_pk/photo/default/ignite_zsm3.1200.jpg "UN agency recognises Pakistan's incubation center ‘Ignite' at WSIS Prizes 2021")
+
+
+[UN agency recognises Pakistan's incubation center ‘Ignite' at WSIS Prizes 2021](https://pk.mashable.com/tech/9581/un-agency-recognises-pakistans-incubation-center-ignite-at-wsis-prizes-2021)
+
+
+> UN agency for digital tech, International Telecommunication Union (ITU), has announced Pakistan's National Incubation Centers ‘Ignite' as one of the champion of projects of its environment category at World Summit on the Information Society Prizes 2021. The news was announced by the Permanent Mission of Pakistan to UN, Geneva, through its official Twitter handle, in a series of tweets. The tweet stated that enabling policies of the government of Pakistani for the development of Information and Communication Technology (ICT) are being recognized globally.
+
+
+***
+[Cloud-based construction software company Procore prices its NYSE IPO at $67 per share, above its target range, raising $634.5M and giving it a $8.5B valuation (Bloomberg)](http://www.techmeme.com/210520/p4#a210520p4)
+
+
+> Bloomberg: Cloud-based construction software company Procore prices its NYSE IPO at $67 per share, above its target range, raising $634.5M and giving it a $8.5B valuation — Procore Technologies Inc., a cloud-based construction software company, priced its shares in an initial public offering above a marketed range to raise $634.5 million.
+
+
+***
+[За сутки инвестиции в криптовалюту принесли потери трейдерам в размере 8 миллиардов долларов](https://overclockers.ru/blog/TEXHAPb/show/51539/za-sutki-investicii-v-kriptovaljutu-prinesli-poteri-trejderam-v-razmere-8-milliardov-dollarov)
+
+
+> Биржи продолжают зарабатывать миллиарды долларов
+
+
+***
+[Cryptocurrency crash latest – Bitcoin and Ethereum plunge to one year low as new Clucoin currency surges](https://www.thesun.ie/tech/7003877/bitcoin-price-live-ethereum-latest-clucoin-cryptocurrency-crash-updates/)
+
+
+> BITCOIN and Ethereum plunged to their lowest level since last year as new cryptocurrency Clucoin made gains on Wednesday night. This week saw crypto market stock value plummet by $1trillion in just two weeks. The world's two largest digital asset exchanges, Binance and Coinbase Global Inc., suffered service outages, sending Bitcoin falling the most since […]
+
+
+***
+![Worldwide Pressure Sensor Industry to 2026](https://mms.businesswire.com/media/20210520005505/en/371054/23/ResearchAndMarkets_800px.jpg "Worldwide Pressure Sensor Industry to 2026")
+
+
+[Worldwide Pressure Sensor Industry to 2026](https://www.businesswire.com/news/home/20210520005505/en/Worldwide-Pressure-Sensor-Industry-to-2026---by-Product-Technology-Application-and-Geography---ResearchAndMarkets.com)
+
+
+> May 20, 2021 05:58 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Pressure Sensor Market - Forecasts from 2021 to 2026" report has been added to ResearchAndMarkets.com's offering. The pressure sensor market is estimated to grow at a CAGR of 6.35% to reach US$4.896 billion in 2026 from US$3.183 billion in 2019. Pressure sensors are devices equipped with pressure-sensitive elements to measure physical quantity such as length, force, temperature, and pressure and converted into an electrical or optical signal.
+
+
