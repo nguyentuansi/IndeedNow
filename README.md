@@ -10751,3 +10751,50 @@
 > When Privacy.com was founded in 2014, the company's focus was to let anyone generate virtual and disposable payment card numbers for free. The goal was to allow those users to keep users' actual credit card numbers safe while allowing the option to cut off companies from their bank accounts. In an age of near-constant data breaches and credit card skimmers targeting unsuspecting websites, Privacy.com has made it harder for hackers to get anyone's real credit card details. The concept has appealed to many.
 
 
+***
+![SK, Ford to form W6 tril. EV battery joint venture in US](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/2868c50ea8cc420496b79f3f3923cb63.jpg "SK, Ford to form W6 tril. EV battery joint venture in US")
+
+
+[SK, Ford to form W6 tril. EV battery joint venture in US](https://www.koreatimes.co.kr/www/tech/2021/05/515_309154.html)
+
+
+> Bill Ford, Jr., Executive Chairman of Ford Motor Company, speaks at the reveal of the new all-electric Ford F-150 Lightning pickup truck at Ford World Headquarters, May 19. AFP-YonhapSouth Korean battery maker SK Innovation (SKI) and American automaker Ford Motor will establish a 6 trillion won ($5.3 billion) joint venture in the United States to produce batteries for electric vehicles, the two companies said Thursday. The two companies signed a memorandum of understanding on the joint venture, called BlueOvalSK, to build a battery factory with 60 gigwatt hours (GWh) of production in the U.
+
+
+***
+![HP launches the new Omen 25i gaming monitor, starting at just $349](https://icdn.digitaltrends.com/image/digitaltrends/hp-omen-25i-gaming-monitor-2.jpg "HP launches the new Omen 25i gaming monitor, starting at just $349")
+
+
+[HP launches the new Omen 25i gaming monitor, starting at just $349](https://www.digitaltrends.com/computing/hp-omen-25i-gaming-monitor-starts-at-349/)
+
+
+> Gaming monitors typically start at 27-inches, which is what makes the HP Omen 25i quite unique. The smaller 25-inch screen means a smaller overall footprint, which could make the Omen 25i a good option for college students or anyone with a compact desk. That also means this isn't an overly expensive monitor. The new Omen 25i costs $349. That's $70 more than the previous Omen 25, but it's still not overly expensive for a gaming monitor. That's especially true, considering the high-end design of this screen.
+
+
+***
+[Privacy.com, which offers APIs to issue virtual credit cards, rebrands as Lithic and raises $43M Series B led by Bessemer Venture Partners (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210520/p17#a210520p17)
+
+
+> Mary Ann Azevedo / TechCrunch: Privacy.com, which offers APIs to issue virtual credit cards, rebrands as Lithic and raises $43M Series B led by Bessemer Venture Partners — When Privacy.com was founded in 2014, the company's focus was to let anyone generate virtual and disposable payment card numbers for free.
+
+
+***
+![5 ways the iPad Pro is still better than a MacBook](https://icdn.digitaltrends.com/image/digitaltrends/apple-ipad-pro-2021-2.jpg "5 ways the iPad Pro is still better than a MacBook")
+
+
+[5 ways the iPad Pro is still better than a MacBook](https://www.digitaltrends.com/mobile/ways-the-ipad-pro-is-better-than-macbook/)
+
+
+> Apple is blurring the line between the iPad and the Mac. With the company's messaging around higher-end iPad models referring to them as laptop replacements and the new iPad actually including the same chip as new Macs, there's no denying that it's harder than ever to decide which one to go for. Despite the similar processing power, Macs are still generally more capable than iPads, thanks largely to the desktop-class operating system — MacOS. But they're not better for everything. In fact, there are plenty of things that the iPad Pro is better at than the Mac.
+
+
+***
+![What to expect from Microsoft Build 2021: Windows, Edge, and much more](https://icdn.digitaltrends.com/image/digitaltrends/windows-10-sun-valley-refresh.jpg "What to expect from Microsoft Build 2021: Windows, Edge, and much more")
+
+
+[What to expect from Microsoft Build 2021: Windows, Edge, and much more](https://www.digitaltrends.com/computing/microsoft-build-2021-everything-announced/)
+
+
+> It's that time of year again, when technology companies unite with developers to talk about upcoming software and services. We've already experienced this with Google's I/O conference, but now it's Microsoft's turn with Build 2021.  For the second year in a row, Microsoft's Build developer conference, which runs from May 25 to 27, is all digital and free for anyone to attend. It's an entirely online experience, with livestreamed or prerecorded sessions that can be added to an online schedule, or 'backpack.
+
+
