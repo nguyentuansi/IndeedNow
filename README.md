@@ -10475,3 +10475,50 @@
 > DECLINE & FALL 20 May 2021, 1:16Updated: 20 May 2021, 1:19CRYPTOCURRENCY markets have seen the value of their stock plummet by $1trillion in just two weeks. The world's two largest digital asset exchanges, Binance and Coinbase Global Inc., suffered service outages, sending Bitcoin falling the most since 2013, BNN Bloomberg reports. The trouble on Wednesday began when Binance, the world's biggest cryptocurrency exchange, temporarily disabled Ethereum withdrawals citing network congestion. Then Coinbase said it was investigating 'intermittent downtime' on its platform.
 
 
+***
+![TECH: Smart lighting for home](https://assets.nst.com.my/images/articles/botslight_NSTfield_image_socialmedia.var_1621477887.jpg "TECH: Smart lighting for home")
+
+
+[TECH: Smart lighting for home](https://www.nst.com.my/lifestyle/bots/2021/05/691571/tech-smart-lighting-home)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![China delays supply mission to newly launched space station](https://www.clickondetroit.com/resizer/N0Y1tuVRJfw-biVmCYmI11wlG9g=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/4DFN4ESS65CGNMEB7VZCAH73HI.jpg "China delays supply mission to newly launched space station")
+
+
+[China delays supply mission to newly launched space station](https://www.clickondetroit.com/tech/2021/05/20/china-delays-supply-mission-to-newly-launched-space-station/)
+
+
+> BEIJING – China postponed a supply mission to its new space station Thursday for unspecified technical reasons. The Tianzhou-2 cargo spacecraft was expected to have been launched early Thursday morning. China Manned Space announced the delay on its website but didn't say when the rescheduled launch may occur. It would be the first mission to head to the main Tianhe module of the space station that was launched on April 29. Another 10 launches are planned to deliver the station's other two modules, various components and supplies, and a three-person crew.
+
+
+***
+![China delays supply mission to newly launched space station](https://www.clickorlando.com/resizer/N0Y1tuVRJfw-biVmCYmI11wlG9g=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/4DFN4ESS65CGNMEB7VZCAH73HI.jpg "China delays supply mission to newly launched space station")
+
+
+[China delays supply mission to newly launched space station](https://www.clickorlando.com/tech/2021/05/20/china-delays-supply-mission-to-newly-launched-space-station/)
+
+
+> BEIJING – China postponed a supply mission to its new space station Thursday for unspecified technical reasons. The Tianzhou-2 cargo spacecraft was expected to have been launched early Thursday morning. China Manned Space announced the delay on its website but didn't say when the rescheduled launch may occur. It would be the first mission to head to the main Tianhe module of the space station that was launched on April 29. Another 10 launches are planned to deliver the station's other two modules, various components and supplies, and a three-person crew.
+
+
+***
+[India facing 213 weekly ransomware attacks per organisation: Report](https://www.freepressjournal.in/tech/india-facing-213-weekly-ransomware-attacks-per-organisation-report)
+
+
+> No body in the article.
+
+
+***
+![Record cold snap for Sydney as freezing nights hang around over the weekend](https://images.perthnow.com.au/publication/C-2887313/6d4bc3d2866bc718a36942e2aea29612d3d1371b-16x9-x228y0w1463h823.jpg?imwidth=1200 "Record cold snap for Sydney as freezing nights hang around over the weekend")
+
+
+[Record cold snap for Sydney as freezing nights hang around over the weekend](https://www.news.com.au/technology/environment/record-cold-snap-for-sydney-as-freezing-nights-hang-around-over-the-weekend/news-story/1c6fe23da2265a72ba5f800cceaacda7)
+
+
+> A record-breaking cold snap sweeping across eastern Australia looks set to hang around over the weekend.Sydney has recorded its coldest run of May nights in 54 years after the minimum temperature again dipped to below 9C on Thursday morning to a chilly 8.6C.Not since 1967 has Sydney experienced a colder streak in May when the temperature fell below 9C for six nights in a row.The temperature in eastern Australia will drop again on Friday morning, but Sydneysiders will get a reprieve from the frosty mornings with some cloud cover set to keep the minimum forecast in double digits.
+
+
