@@ -10798,3 +10798,53 @@
 > It's that time of year again, when technology companies unite with developers to talk about upcoming software and services. We've already experienced this with Google's I/O conference, but now it's Microsoft's turn with Build 2021.  For the second year in a row, Microsoft's Build developer conference, which runs from May 25 to 27, is all digital and free for anyone to attend. It's an entirely online experience, with livestreamed or prerecorded sessions that can be added to an online schedule, or 'backpack.
 
 
+***
+![Biggest POO on record is from parasite-riddled Viking who invaded England 1,200 years ago](https://www.thesun.co.uk/wp-content/uploads/2021/05/617A3B43-00DA-489F-955C-C4944DDA2475.jpeg?strip=all&quality=100&w=1200&h=800&crop=1 "Biggest POO on record is from parasite-riddled Viking who invaded England 1,200 years ago")
+
+
+[Biggest POO on record is from parasite-riddled Viking who invaded England 1,200 years ago](https://www.thesun.co.uk/tech/15018697/biggest-poo-on-record-is-from-parasite-riddled-viking-who-invaded-england-1200-years-ago/)
+
+
+> AN ENORMOUS Viking poo may the longest human faeces ever recorded. The long-lost turd was excavated from a now-abandoned Viking settlement – and measures in at a whopping 20cm, or 8 inches. The 1,200-year-old poo in all of its Viking gloryCredit: Wikimedia Commons: Linda Spashett Storye book If that wasn't enough, it's also a girthy number at 5cm wide, or 2 inches. The poo – or 'coprolite' as scientists will call it – was found way back in 1972. In fact, it was discovered in Britain, below the site of what would become a Lloyds Bank in York.
+
+
+***
+![Disney Classic Games Jungle Book Expansion Pack Leaked on SteamDB](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/The%20Jungle%20Book.jpg?itok=_KBSNsg8 "Disney Classic Games Jungle Book Expansion Pack Leaked on SteamDB")
+
+
+[Disney Classic Games Jungle Book Expansion Pack Leaked on SteamDB](https://techraptor.net/gaming/news/jungle-book-expansion-pack-leaked-on-steamdb)
+
+
+> 05/20/2021 - 12:20 | By: Patrick Perrault Disney Classic Games already has Aladdin and The Lion King, but it looks like the Jungle Book Expansion Pack is about to be added to the collection as purchasable DLC, as its existence has been revealed on SteamDB. There's not much to go on really, but I'm thankful because it was either this or I would be writing an article about a Peppa Pig video game, so let's get to it, shall we? The game was added on May 13, 2021 just after midnight UTC, so it's just been hanging out and enjoying itself over the past week.
+
+
+***
+![Apple Shares New 'Tracked' Ad With Humorous Real-World Analogy of App Tracking Transparency](https://images.macrumors.com/social/?t=2296935&v=6 "Apple Shares New 'Tracked' Ad With Humorous Real-World Analogy of App Tracking Transparency")
+
+
+[Apple Shares New 'Tracked' Ad With Humorous Real-World Analogy of App Tracking Transparency](https://www.macrumors.com/2021/05/20/apple-tracked-ad-app-tracking-transparency/)
+
+
+> Apr 12, 2001 52,585 14,296 Apple today shared a new privacy-focused ad on its YouTube channel, highlighting App Tracking Transparency on the iPhone. In the spot, a man orders a coffee, and the barista follows him out as he gets in a cab, providing his date of birth to the cab driver. The cab driver and the barista follow him throughout his day, keeping track of his whereabouts and viewing his personal data. Everyone he interacts with follows him, and at the end of the day, he has a whole crowd of people monitoring his behavior.
+
+
+***
+![Apple made at least $100 million off ‘Fortnite' fees, trial reveals](https://www.amedpost.com/wp-content/uploads/2021/05/Apple-made-at-least-100-million-off-‘Fortnite-fees-trial.jpg "Apple made at least $100 million off ‘Fortnite' fees, trial reveals")
+
+
+[Apple made at least $100 million off ‘Fortnite' fees, trial reveals](https://www.amedpost.com/apple-made-at-least-100-million-off-fortnite-fees-trial-reveals/)
+
+
+> Apple made at least $100 million — and possibly much more — off commissions from 'Fortnite' during the two-and-a-half years the game was available on the App Store, an Apple executive revealed during an ongoing antitrust trial. Michael Schmid, an Apple executive who oversees business development for games on the App Store, revealed the figure under questioning Wednesday, Bloomberg reported (paywall). When asked if Apple made more than $200 million from 'Fortnite'-related fees, Schmid said answering that question would be 'inappropriate.
+
+
+***
+![Rightmove expert says 'now is the time' to buy in cities as central locations bounce back](https://www.amedpost.com/wp-content/uploads/2021/05/Rightmove-expert-says-039now-is-the-time039-to-buy-in.jpg "Rightmove expert says 'now is the time' to buy in cities as central locations bounce back")
+
+
+[Rightmove expert says 'now is the time' to buy in cities as central locations bounce back](https://www.amedpost.com/rightmove-expert-says-now-is-the-time-to-buy-in-cities-as-central-locations-bounce-back/)
+
+
+> Cory Askew, Chestertons' Head of Sales, said they are seeing 'increasing numbers' of house hunters who are rethinking their move to rural spots. Many buyers are looking to move to London's outer areas instead which benefit those looking to save money on stamp duty land tax (SDLT). He said: 'Outer areas of London have been the main beneficiaries of the SDLT holiday and continue to squeeze the last drops of opportunity out of the incentive before the June 30 deadline with strong buyer demand still very evident across our London offices.
+
+
