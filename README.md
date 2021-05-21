@@ -11039,3 +11039,43 @@
 > Isaiah Richard, Tech Times 20 May 2021, 08:05 pm The Tesla Roadster is set for a 2022 release, and people are now wondering what the electric supercar is going to have as performance, with Elon Musk confirming its 0-60mph in 1.1 seconds. This speed would be achievable with the "SpaceX Thruster Package," which would come as an option and would feel like a "hardcore roller coaster" for users. (Photo : Tesla ) Tesla Roadster This is not your ordinary supercar or roller coaster. With the Tesla Roadster releasing for the second time around, the company would do everything it takes to showcase an iconic machine for the public.
 
 
+***
+![Xiaomi's Mi Power Bank Boost Pro on open sale from today](https://cdn.mos.cms.futurecdn.net/D2uugkmKVtEXFRkXWGdmbk-1200-80.jpg "Xiaomi's Mi Power Bank Boost Pro on open sale from today")
+
+
+[Xiaomi's Mi Power Bank Boost Pro on open sale from today](https://www.techradar.com/news/xiaomis-mi-power-bank-boost-pro-on-open-sale-from-today)
+
+
+> (Image credit: Xiaomi) Xiaomi had recently launched the Mi Power Bank Boost Pro in India. However, it was introduced on the crowdfunding platform that allows Xiaomi to test waters and once the company is happy with the response that the product gets, it finally gets rolled out for the general public. The early adopters who buy products from the crowdfunding platform, get the products slightly cheaper than the actual retail price.Similarly, the new power bank is now available for the public to purchase via eCommerce platforms like Mi.
+
+
+***
+![Been working on a TI-BASIC to Python transpiler](https://external-preview.redd.it/H7NdSxnK5dMr4cUs2GA4jpb4bZVJpI1pTaS_e_jDHbA.jpg?auto=webp&s=d4b0e71b8f8c32253d709ebd4316bd2391c361c5 "Been working on a TI-BASIC to Python transpiler")
+
+
+[Been working on a TI-BASIC to Python transpiler](https://www.reddit.com/r/Python/comments/nhhldc/been_working_on_a_tibasic_to_python_transpiler/)
+
+
+> TL;DR: I made a program to transpile programs made on the TI-84 into Python. link Hey guys, hope you're all having a nice day. Some of you might remember making programs on the TI calculators doing school, and I know that I sure do. A while ago, I found a project that could decompile the .8Xp files that you get off of the calculator, and I thought that it would be pretty cool if I could run those old programs that I made on my computer. I forked that old project since it hasn't been active since around 2016, and I reverse-engineered the decompiling for a lot of the new commands on the TI-84+ CE.
+
+
+***
+![Revolutionary new ute revealed](https://content.api.news/v3/images/bin/6c6538ddf91443696a51e443d2e56b4d "Revolutionary new ute revealed")
+
+
+[Revolutionary new ute revealed](https://www.news.com.au/technology/motoring/motoring-news/new-ford-f150-lightning-revealed-electric-pickup-due-in-2022/news-story/f9068f3b09bbc6b045701a8326bda92a)
+
+
+> Ford has just taken the covers off its new big ute in the US and the tough truck has massive implications for the brand's future.Ford has taken the covers of its new electric ute.The American brand has revealed the new F-150 Lightning, a fully-electric pick-up truck.Ford's move to electrify the F-150 is significant as the F-Series is the Blue Oval's best selling model and one of the biggest selling vehicles globally.If it is a success the technology could find its way into the smaller Ford Ranger ute, which has been the second best selling vehicle in Australia for the past five years.
+
+
+***
+![#TECH: Babydash to raise RM1 million funds via pitchIN](https://assets.nst.com.my/images/articles/botsbabydash_NSTfield_image_socialmedia.var_1621562420.jpg "#TECH: Babydash to raise RM1 million funds via pitchIN")
+
+
+[#TECH: Babydash to raise RM1 million funds via pitchIN](https://www.nst.com.my/lifestyle/bots/2021/05/691877/tech-babydash-raise-rm1-million-funds-pitchin)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
