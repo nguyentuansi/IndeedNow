@@ -11411,3 +11411,50 @@
 > A pair of Apple employees talk about the new M1-equipped iPad Pro, but also talk about why the smaller iPad Pro doesn't feature the Liquid Retina XDR display like its bigger sibling.
 
 
+***
+[GPU error](https://www.sweclockers.com/forum/trad/1635601-gpu-error)
+
+
+> Får denna kod från buzzern vid uppstart. Jag kommer inte in i BIOS utan kommer direkt till skrivbordet. GPU är ett 1060 3gb. Finns det någon inställning i BIOS? 4. "One long and three short beeps" from speaker An anomaly is detected in the graphic card. If the graphic card needs an extra power supply, please ensure the power supply can provide enough wattage.
+
+
+***
+![The best Bluetooth trackers for 2021](https://icdn.digitaltrends.com/image/digitaltrends/tile-mate-hands-on-review-2.jpg "The best Bluetooth trackers for 2021")
+
+
+[The best Bluetooth trackers for 2021](https://www.digitaltrends.com/mobile/best-bluetooth-trackers/)
+
+
+> Are you someone who often finds yourself searching for lost belongings? Do your car keys always seem to disappear? If you struggle to keep track of important items, a Bluetooth tracker could change your life — and keep you from losing your cool. Some of our top picks include Chipolo and the Samsung Galaxy SmartTag. See which Bluetooth tracker works best for Android or iPhone users, and read more about what to expect from these smart little tracking devices. Samsung Galaxy SmartTag Samsung Galaxy SmartTag is the Bluetooth tracker to get if you're already in the Samsung universe.
+
+
+***
+![Vast Antarctic iceberg could drift through ocean for years](https://www.clickorlando.com/resizer/frT3b_xE1CKXKbPeH0n_Ru_PZZY=/800x800/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/TLZM5BHNCZGWZLAEEFC57UVTBE.jpg "Vast Antarctic iceberg could drift through ocean for years")
+
+
+[Vast Antarctic iceberg could drift through ocean for years](https://www.clickorlando.com/tech/2021/05/21/vast-antarctic-iceberg-could-drift-through-ocean-for-years/)
+
+
+> PARIS – A vast iceberg that broke off Antarctica earlier this month could drift through the ocean for several years before it breaks up and melts away, a scientist from the European Space Agency said Friday.The iceberg, dubbed A-76, is more than 40 times the size of Paris, or about 73 times as big as Manhattan, making it the largest currently afloat.It was first spotted by scientists at the British Antarctic Survey and confirmed by the U.S. National Ice Center using images taken by the European Space Agency's Sentinel 1A satellite.
+
+
+***
+![Vast Antarctic iceberg could drift through ocean for years](https://www.local10.com/resizer/frT3b_xE1CKXKbPeH0n_Ru_PZZY=/800x800/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/TLZM5BHNCZGWZLAEEFC57UVTBE.jpg "Vast Antarctic iceberg could drift through ocean for years")
+
+
+[Vast Antarctic iceberg could drift through ocean for years](https://www.local10.com/tech/2021/05/21/vast-antarctic-iceberg-could-drift-through-ocean-for-years/)
+
+
+> PARIS – A vast iceberg that broke off Antarctica earlier this month could drift through the ocean for several years before it breaks up and melts away, a scientist from the European Space Agency said Friday.The iceberg, dubbed A-76, is more than 40 times the size of Paris, or about 73 times as big as Manhattan, making it the largest currently afloat.It was first spotted by scientists at the British Antarctic Survey and confirmed by the U.S. National Ice Center using images taken by the European Space Agency's Sentinel 1A satellite.
+
+
+***
+![Vast Antarctic iceberg could drift through ocean for years](https://www.wsls.com/resizer/frT3b_xE1CKXKbPeH0n_Ru_PZZY=/800x800/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/TLZM5BHNCZGWZLAEEFC57UVTBE.jpg "Vast Antarctic iceberg could drift through ocean for years")
+
+
+[Vast Antarctic iceberg could drift through ocean for years](https://www.wsls.com/tech/2021/05/21/vast-antarctic-iceberg-could-drift-through-ocean-for-years/)
+
+
+> PARIS – A vast iceberg that broke off Antarctica earlier this month could drift through the ocean for several years before it breaks up and melts away, a scientist from the European Space Agency said Friday.The iceberg, dubbed A-76, is more than 40 times the size of Paris, or about 73 times as big as Manhattan, making it the largest currently afloat.It was first spotted by scientists at the British Antarctic Survey and confirmed by the U.S. National Ice Center using images taken by the European Space Agency's Sentinel 1A satellite.
+
+
