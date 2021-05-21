@@ -11126,3 +11126,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Jaguar CEO upbeat about luxury e-vehicles, says Tesla in lower segment](https://images.moneycontrol.com/static-mcnews/2021/03/Jag_I-PACE_21MY_Eiger_Grey_160321_0585-770x435.jpg "Jaguar CEO upbeat about luxury e-vehicles, says Tesla in lower segment")
+
+
+[Jaguar CEO upbeat about luxury e-vehicles, says Tesla in lower segment](https://www.moneycontrol.com/news/technology/auto/jaguar-ceo-upbeat-about-luxury-e-vehicles-says-tesla-in-lower-segment-6919971.html)
+
+
+> Jaguar Land Rover sees bright prospects in the luxury segment of electric cars as Elon Musk-led Tesla, the world's most popular zero-emission vehicle maker, is in the mid-premium space, the British firm's Chief Executive Officer Thierry Bollore said.'We don't often talk about competitors. If you look at Tesla today, the reality is that they are not really in the luxury market. They started with a high-end premium and now they are at mid premium which is giving us a huge space', Bollore told analysts after its parent company Tata Motors announced the March quarter result.
+
+
+***
+![Animated GIF uses 360MB of RAM on x86, while the same image uses 35.51GB on Apple Silicon](https://external-preview.redd.it/4z576UHFDVvdsBexypE-EbhrkJHhXGKk-BWzoD9jq48.jpg?auto=webp&s=66932133f40f43639c7fc4067ca97ab2e1210d48 "Animated GIF uses 360MB of RAM on x86, while the same image uses 35.51GB on Apple Silicon")
+
+
+[Animated GIF uses 360MB of RAM on x86, while the same image uses 35.51GB on Apple Silicon](https://www.reddit.com/r/programming/comments/nhla14/animated_gif_uses_360mb_of_ram_on_x86_while_the/)
+
+
+> Animated GIF uses 360MB of RAM on x86, while the same image uses 35.51GB on Apple Silicon
+
+
+***
+![Clubhouse Android App Is Now Live in India and Around the World](https://i.gadgets360cdn.com/large/clubhouse_android_image_gadgets_360_1621576157179.jpg "Clubhouse Android App Is Now Live in India and Around the World")
+
+
+[Clubhouse Android App Is Now Live in India and Around the World](https://gadgets.ndtv.com/apps/news/clubhouse-android-app-download-india-launch-google-play-store-2446291)
+
+
+> Clubhouse, the invite-only social audio app, is now available for download on Android devices in India and around the world. The Android version of the app started testing in the US a couple of weeks back, aiming to bolster its potential growth in the market. Before that, Clubhouse was exclusive to Apple's iOS since its initial release in March 2020. The audio app gained popularity in the tech world shortly after being used by people like Tesla and SpaceX CEO Elon Musk and Facebook Co-Founder Mark Zuckerberg.
+
+
+***
+![Scikit-learn course by their creators](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Scikit-learn course by their creators")
+
+
+[Scikit-learn course by their creators](https://www.reddit.com/r/Python/comments/nhl5nm/scikitlearn_course_by_their_creators/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Epic Games Store Mega Sale 2021 Brings Discounts, $10 Coupons on Games](https://i.gadgets360cdn.com/large/Epic_Mega_Sale_2021_1621575242433.jpg "Epic Games Store Mega Sale 2021 Brings Discounts, $10 Coupons on Games")
+
+
+[Epic Games Store Mega Sale 2021 Brings Discounts, $10 Coupons on Games](https://gadgets.ndtv.com/games/news/epic-games-store-mega-sale-2021-deals-discounts-offers-usd-10-coupons-nba-2k21-free-june-17-2446275)
+
+
+> Epic Games Store Mega Sale 2021 is live with coupons and discounts, allowing you to save up to 75 percent on select games. It is also offering NBA 2K21 for free for a limited time. The Mega Sale 2021 coupons give you $10 (roughly Rs. 730) for every game you purchase that costs $14.99 (roughly Rs. 1,100) or more, that you can then invest in your next purchase. The sale will end on June 17 and before that, you can buy games such as Assassin's Creed: Valhalla, Cyberpunk 2077, Red Dead Redemption 2, GTA V, and more at up to 45 percent off.
+
+
