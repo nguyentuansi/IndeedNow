@@ -11367,3 +11367,47 @@
 > Hello Guys, Need urgent help .... I have MacBook Pro (Retina, 13-inch, Early 2015) and wanted to play cs 1.6, however my current FPS is 60. Tried all commands with no use. I see my Mac has basic graphics Intel Iris Graphics 6100 1536 MB but cs 1.6 should work fine. Please let me know if any leads if anything can be done to get 100 fps. Thank you guys. Also to add I have installed windows parallel in order to play cs 1.6 , I dint found any version for MAC so currently installed Windows parallel on my MAC and installed cs 1.
 
 
+***
+![Fastest library to find which points in a set lie within a polygon](https://external-preview.redd.it/GyIe5Kv2Lq0Q366JO3LyJwKsWmQ3PLfTXdrinm0BhKk.jpg?auto=webp&s=571bede779ce00e9ceb834769e295e59feffee27 "Fastest library to find which points in a set lie within a polygon")
+
+
+[Fastest library to find which points in a set lie within a polygon](https://www.reddit.com/r/Python/comments/nhwg21/fastest_library_to_find_which_points_in_a_set_lie/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+[Snap CEO Evan Spiegel says the company is happy to pay Apple's 30% IAP commission as "Snapchat wouldn't exist without the iPhone" (Salvador Rodriguez/CNBC)](http://www.techmeme.com/210521/p14#a210521p14)
+
+
+> Salvador Rodriguez / CNBC: Snap CEO Evan Spiegel says the company is happy to pay Apple's 30% IAP commission as “Snapchat wouldn't exist without the iPhone” — - Snap CEO Evan Spiegel on Friday said the social media company is happy to pay Apple's 30% commission rate on in-app transactions.
+
+
+***
+![Is Apollo 11 movie on Netflix? How to watch real footage of the Nasa Moon Landing film and Apollo 11 Movie Review](https://https://www.thearkatech.com/img/news_img/all/11455_0_1200.pic "Is Apollo 11 movie on Netflix? How to watch real footage of the Nasa Moon Landing film and Apollo 11 Movie Review")
+
+
+[Is Apollo 11 movie on Netflix? How to watch real footage of the Nasa Moon Landing film and Apollo 11 Movie Review](https://www.thearkatech.com/en/52577/)
+
+
+> © Instagram / apollo 11 movie By: Christopher Taylor2021-05-21 19:13:27 Last News: A century and a half of gardening pioneers in Montclair (Gardening for Life). How Wolves and Other Wildlife Help Us Fight for the Climate. Teen Scientists and Engineers Win $5 Million at Largest Global High School STEM Competition. Fire up the grill and uncork this $15 French malbec for a fabulous pairing. Southwest Airlines will bring back beer, wine and more drink options to flights this summer. The Partnership: Katey Sagal and Erin Brokovich On Bringing The Legal Advocate's Life To The Small Screen With ‘Rebel'.
+
+
+***
+![Tech Stocks Get a Flurry of Upgrades Ahead of Earnings Reports](https://images.barrons.com/im-341998/social "Tech Stocks Get a Flurry of Upgrades Ahead of Earnings Reports")
+
+
+[Tech Stocks Get a Flurry of Upgrades Ahead of Earnings Reports](https://www.barrons.com/articles/tech-stocks-get-a-flurry-of-upgrades-ahead-of-earnings-reports-51621613609)
+
+
+> Updated May 21, 2021 12:16 pm ET / Original May 21, 2021 12:13 pm ET Order Reprints Print Article Here's the current conundrum for tech stocks. From late April to mid-May, the Nasdaq Composite slumped 7%, as investors fretted over the possibility that returns would be crimped by higher inflation, and increasing interest rates. Below the surface, the damage has been more extensive. Last year's feverish rally—in which the most-expensive stocks generated the biggest returns, as investors adopted a growth-at-any-price philosophy—has dissipated.
+
+
+***
+[Apple talks about the new M1 iPad Pro and the lack of the Liquid Retina XDR display in the 11-inch model](https://www.idownloadblog.com/2021/05/21/apple-small-ipad-pro-xdr-display-interview/)
+
+
+> A pair of Apple employees talk about the new M1-equipped iPad Pro, but also talk about why the smaller iPad Pro doesn't feature the Liquid Retina XDR display like its bigger sibling.
+
+
