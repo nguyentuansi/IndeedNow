@@ -11508,3 +11508,53 @@
 > Design is the key drawcard for Audi Q2 customers. So says a brand that, more than most, trades on the look and feel of its vehicles. First introduced in 2017 as the entry point to Audi's high-riding luxury SUV range, the Q2 carved out a niche for customers looking for a compact machine with interesting details.It arrived before rival machines such as the BMW X2 and Lexus UX, giving prestige buyers a compact option blurring the lines between hatchbacks and SUVs.Subtle tweaks for this year's model include new lights and bumpers, along with fresh alloys and a mildly updated cabin.
 
 
+***
+![Amazon, Uber Let Criminals Use 'Fake Driver' Scam to Become Your Driver](https://media.breitbart.com/media/2021/02/Amazon-delivery-driver-640x335.jpg "Amazon, Uber Let Criminals Use 'Fake Driver' Scam to Become Your Driver")
+
+
+[Amazon, Uber Let Criminals Use 'Fake Driver' Scam to Become Your Driver](https://www.breitbart.com/tech/2021/05/21/amazon-uber-let-criminals-use-fake-driver-scam-to-become-your-driver/)
+
+
+> Some of the largest delivery companies in the United States, including Amazon, Uber, and various food delivery firms, reportedly fell victim to a basic 'fake driver' scam, according to a recent Justice Department complaint. The scam involved selling driver identities to others, meaning criminals could deliver customer's food or drive them to the airport. Forbes reports that Homeland Security and Frankie DiGiacco, a former prosecutor for the Southern California branch of the Justice Department, were tipped off last year to a case in which Brazilian nationals appeared to have stolen thousands of ride-share and delivery company customer identities across California.
+
+
+***
+![Tech Moves: Icertis hires new CMO; Expedia Group board member steps down; and more](https://cdn.geekwire.com/wp-content/uploads/2021/05/Gretchen-Eischen-headshot.jpg "Tech Moves: Icertis hires new CMO; Expedia Group board member steps down; and more")
+
+
+[Tech Moves: Icertis hires new CMO; Expedia Group board member steps down; and more](https://www.geekwire.com/2021/tech-moves-icertis-hires-new-cmo-expedia-group-board-member-steps/)
+
+
+> Gretchen Eischen. (Icertis Photo) — Icertis hired longtime SAP executive Gretchen Eischen as its new chief marketing officer. She was most recently global vice president and head of marketing for SAP's procurement solutions and is based in Pennsylvania. Seth Nesbitt, who has been CMO since 2016, has been appointed as the global head of purpose, values and culture. In the newly created leadership role, he will be responsible for building and expanding Icertis' company culture. The Bellevue, Wash.-based contract management startup was valued at $2.
+
+
+***
+![Apple CEO Tim Cook gets lightly roasted by judge in 'Fortnite' trial](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F127890%252F85c81a54-e7d5-4447-a252-d4e18bf8f55b.jpg%252F640x360.jpg?signature=rUQ9aBeCK_2eVHM9VGbdPRthIH4=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "Apple CEO Tim Cook gets lightly roasted by judge in 'Fortnite' trial")
+
+
+[Apple CEO Tim Cook gets lightly roasted by judge in 'Fortnite' trial](https://mashable.com/article/apple-tim-cook-fortnite-trial-judge-gonzalez-rogers/)
+
+
+> Apple CEO Tim Cook testified on Friday in a trial over whether Apple is abusing its market power, and the judge did not come to play.  Cook appeared in court in person and answered questions from Apple's lawyers, attorneys for Epic Games — the maker of the video game Fortnite, which is suing Apple — and U.S. District Court Judge Yvonne Gonzalez Rogers. Cook spent much of his roughly five hours on the witness stand defending his company's policies, which require that apps meet certain guidelines set by Apple in order to be made available on the App Store — the only way iOS users can download an app.
+
+
+***
+![Report: Facebook Blocking 'Back the Blue' Fundraisers](https://media.breitbart.com/media/2020/10/GettyImages-1269730911-640x335.jpg "Report: Facebook Blocking 'Back the Blue' Fundraisers")
+
+
+[Report: Facebook Blocking 'Back the Blue' Fundraisers](https://www.breitbart.com/tech/2021/05/21/report-facebook-blocking-back-the-blue-fundraisers/)
+
+
+> Facebook reportedly blocked promotion for a fundraising event aimed at supporting law enforcement, part of a Florida distillery's wider efforts to support first responders, according to local news in Tampa. The Loaded Cannon distillery in Bradenton, Florida, has been attempting to launch a new range of drinks themed around police, fire, and EMS, with part of the revenue going to support first responders. 'Facebook won't let them advertisers because it views their support of police, firefighters, paramedics and other first responders as being too sensitive and too political,' reported FOX13 Tampa.
+
+
+***
+![Facebook Boasts of 50% 'Hate Speech' Censorship](https://media.breitbart.com/media/2019/10/Mark-Zuckerberg-at-Georgetown-640x335.jpg "Facebook Boasts of 50% 'Hate Speech' Censorship")
+
+
+[Facebook Boasts of 50% 'Hate Speech' Censorship](https://www.breitbart.com/tech/2021/05/21/facebook-boasts-of-50-hate-speech-censorship/)
+
+
+> Silicon Valley companies used to boast of their openness; today they boast of their censorship. Facebook has released its quarterly 'community standards enforcement report.' In the data, the social network revealed that the prevalence of so-called hate speech on the platform last quarter was 0.05-0.06 percent — half of its prevalence in the third quarter of 2020. In Facebook's post summarizing the data, the tech giant also boasted of its use of artificial intelligence to censor so-called hate speech.
+
+
