@@ -11220,3 +11220,53 @@
 > Swedish audiobook streaming service Storytel announced on Thursday, May 20, it was partnering with music streaming platform Spotify to serve its audiobooks on the service. The move aims to expand Storytel's distribution of its roster of audiobooks. A Reuters report noted that while Storytel has books in 30 languages, it is restricted to the country a subscriber is in as well as what credit cards they use. The reach of Spotify – with it serving over 150 countries and with some 356 million total monthly active users – should aid in spreading the word, so to speak, of Storytel.
 
 
+***
+![Scoop: House antitrust bill aims to boost state AGs](https://images.axios.com/9WHYPm0UqE6gCQEydIFZu7KLkFk=/0x0:1920x1080/1366x768/2021/05/20/1621532045504.jpg "Scoop: House antitrust bill aims to boost state AGs")
+
+
+[Scoop: House antitrust bill aims to boost state AGs](https://www.axios.com/house-antitrust-bill-venue-change-state-ag-30bb5ffc-138e-4a07-889f-7bf2436c8fc8.html)
+
+
+> A bipartisan group of lawmakers are introducing a bill Friday that would give states more control over which court hears antitrust lawsuits brought against companies, according to a copy of the proposal obtained by Axios.Why it matters: This bill would ensure that state AGs — which are suing companies more and more — get home-court advantage by choosing the court to hear the case and ensuring the case stays there.Between the lines: While the legislation may appear to be a narrow procedural change, it would give a big boost to the chances states' top enforcement arms have of winning antitrust lawsuits.
+
+
+***
+![Online school raises new concerns about cyberbullying](https://thehill.com/sites/default/files/snapchat_getty.jpg "Online school raises new concerns about cyberbullying")
+
+
+[Online school raises new concerns about cyberbullying](https://thehill.com/policy/technology/553549-online-school-raises-new-concerns-about-cyberbullying)
+
+
+> As the pandemic has pushed kids to use the internet more for school and socialization, children's media safety advocates warn that social media giants' business models are a key hurdle in combating cyberbullying.Relying on social media platforms for kids and teens to interact amid the pandemic, combined with remote schooling which has put distance between teachers tasked with monitoring students, has exacerbated often toxic and dangerous online environments, according to experts.But online hate speech faced by minors has prompted rare bipartisan agreement as well as a new legal battle in California federal court that could test the bounds of a controversial law that has shielded tech giants.
+
+
+***
+![5 performance improvement tips for asp.net core web applications](https://external-preview.redd.it/awwgC5cTUvdVZ58wQbB9gfA-k85xqDTWO891fam04Qk.jpg?auto=webp&s=e9ba90de1f09f7d3779ab25f039c2e0cf58ffc3f "5 performance improvement tips for asp.net core web applications")
+
+
+[5 performance improvement tips for asp.net core web applications](https://www.reddit.com/r/programming/comments/nhotxt/5_performance_improvement_tips_for_aspnet_core/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![iOS 14.5: Facebook expects ‘increased headwinds' following new iPhone update](https://static.independent.co.uk/2021/04/29/10/GettyImages-953543282.jpeg?width=1200&auto=webp&quality=75 "iOS 14.5: Facebook expects ‘increased headwinds' following new iPhone update")
+
+
+[iOS 14.5: Facebook expects ‘increased headwinds' following new iPhone update](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-iphone-update-ios-headwinds-b1839504.html)
+
+
+> Facebook is expecting 'increased … headwinds' in 2021 despite Apple's controversial change to its iPhone operating system, which is expected to make ad tracking more difficult.Company COO Sheryl Sandberg said that it has been doing a 'huge amount of work' to prepare for iOS 14.5, which introduces Apple's App Tracking Transparency feature to the vast majority of iPhones that would make it harder for advertisers to track people between apps. As Facebook profits from gathering data on its users and using that to inform ads, this has been a point of contention between the technology giants.
+
+
+***
+![Palestinians' digital rights ‘violated' by censorship on Facebook, Twitter, and Instagram, new report claims](https://static.independent.co.uk/2021/05/15/12/2021-05-15T110028Z_868511374_RC2BGN95F3NO_RTRMADP_3_ISRAEL-PALESTINIANS-BRITAIN-PROTEST.jpg?width=1200&auto=webp&quality=75 "Palestinians' digital rights ‘violated' by censorship on Facebook, Twitter, and Instagram, new report claims")
+
+
+[Palestinians' digital rights ‘violated' by censorship on Facebook, Twitter, and Instagram, new report claims](https://www.independent.co.uk/life-style/gadgets-and-tech/palestine-israel-censorship-facebook-twitter-instagram-7amleh-b1851328.html)
+
+
+> There has been a 'dramatic increase' in the censorship of Palestinian political speech on social media over the past two weeks, during the period of intense fighting between Israel and militants in Gaza.Facebook, Twitter, and Instagram have all been used by Palestinians to share information from, among a variety of areas, the East Jerusalem neighbourhood of Sheikh Jarrah where families face eviction.However the report from 7amleh, The Arab Center for the Advancement of Social Media, shared exclusively with The Independent, argues that social media companies' moderation attempts and codes of conduct have resulted in numerous citizens' accounts being taken down.
+
+
