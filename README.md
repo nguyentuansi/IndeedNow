@@ -11320,3 +11320,50 @@
 > In a week where $1 trillion was wiped from the crypto market, many have wondered what happens now with the cryptocurrency space.Is this the end of the great 2020/21 rally? Is it just a dip on the way to new all-time highs? And what impact will it have on the industry in general?To answer these questions – and more – we invited two experts to help make sense of the price crash and take questions from our readers about the current chaos.>> Follow all the latest updates with The Independent's live coverage of the crypto market We spoke to Dr Iwa Salami, a senior lecturer in financial law at the University of East London, and Fred Schebesta, a crypto advocate and founder of the comparison platform Finder.
 
 
+***
+![How to turn off your iPhone – easy guide for Touch ID and Face ID models](https://www.thesun.co.uk/wp-content/uploads/2021/05/EE92F2AA-0EEB-4C2C-9CC3-E90236BDFF41.jpeg?strip=all&quality=100&w=1200&h=800&crop=1 "How to turn off your iPhone – easy guide for Touch ID and Face ID models")
+
+
+[How to turn off your iPhone – easy guide for Touch ID and Face ID models](https://www.thesun.co.uk/tech/15027988/how-to-turn-iphone-off-home-button-face-id-new/)
+
+
+> WORKING out how to turn your iPhone off isn't always clear – but it's easy enough to do. Here's a quick guide on how to turn an iPhone off for every single model. Want to turn your iPhone off? It's easy when you know howCredit: Unsplash How to turn off iPhones with Home button If you've got an iPhone with a Home button, switching it off is really easy. You simply press and hold the 'power' button until a slider appears on-screen. Then simple drag the slider and wait 30 seconds for the iPhone to turn off.
+
+
+***
+![7 new movies and TV shows on Netflix, Amazon Prime, HBO Max and more this weekend](https://cdn.mos.cms.futurecdn.net/qkQfNyo5jZBtnrjWh5LsqL-1200-80.jpg "7 new movies and TV shows on Netflix, Amazon Prime, HBO Max and more this weekend")
+
+
+[7 new movies and TV shows on Netflix, Amazon Prime, HBO Max and more this weekend](https://www.techradar.com/news/7-new-movies-and-tv-shows-on-netflix-amazon-prime-hbo-max-and-more-this-weekend-may-22-2021)
+
+
+> It's been a while since the last good zombie movie, hasn't it? Not too long ago, television was up to its neck in infected creepers, but Disney's own horde of sci-fi and superhero movies have since hoovered up audience figures and left the undead, well, dead. Aside from the occasional masterpiece like One Cut of the Dead, of course.It's fitting, then, that Zack Snyder should be the one to stoke the fires of renaissance for the zombie genre. Fresh off the re-release of his own superhero movie, Justice League, the director's Army of the Dead arrives on Netflix this weekend to get the gore going again.
+
+
+***
+![Moving a cellular plan from one iPad to another is actually pretty easy](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/cellular-data-transfer-ipad-pro-2020-hero.jpg "Moving a cellular plan from one iPad to another is actually pretty easy")
+
+
+[Moving a cellular plan from one iPad to another is actually pretty easy](https://www.imore.com/how-transfer-your-cellular-data-plan-your-old-ipad-your-new-ipad)
+
+
+> Source: Joseph Keller/iMore If you're picking up a new cellular iPad, it won't be the best iPad if you can't transfer your current plan. The good news is you have some options for how to an iPad cellular data plan to a new iPad, depending on what kind of SIM card your iPad uses. Whether it's an embedded SIM or nano-SIM, Apple tries to make the process as painless as possible. Our glowing iPad Pro (2021) talks about just how amazing Apple's latest iPad can be, so don't let the fear of not being able to transfer your iPad cellular data plan stop you from getting one.
+
+
+***
+[Clubhouse App Now Available for Download on Android](https://www.thequint.com/tech-and-auto/clubhouse-app-now-available-for-download-on-android)
+
+
+> The Clubhouse app was released earlier this month in the US, which was followed by the launch in other countries.
+
+
+***
+![MacBook Pro (Retina, 13-inch, Early 2015) increase FPS in CS 1.6](https://images.macrumors.com/social/?t=2297041&v=6 "MacBook Pro (Retina, 13-inch, Early 2015) increase FPS in CS 1.6")
+
+
+[MacBook Pro (Retina, 13-inch, Early 2015) increase FPS in CS 1.6](https://forums.macrumors.com/threads/macbook-pro-retina-13-inch-early-2015-increase-fps-in-cs-1-6.2297041/)
+
+
+> Hello Guys, Need urgent help .... I have MacBook Pro (Retina, 13-inch, Early 2015) and wanted to play cs 1.6, however my current FPS is 60. Tried all commands with no use. I see my Mac has basic graphics Intel Iris Graphics 6100 1536 MB but cs 1.6 should work fine. Please let me know if any leads if anything can be done to get 100 fps. Thank you guys. Also to add I have installed windows parallel in order to play cs 1.6 , I dint found any version for MAC so currently installed Windows parallel on my MAC and installed cs 1.
+
+
