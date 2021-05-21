@@ -10989,3 +10989,53 @@
 > Samsung has finally unveiled yet another 5G smartphone, the Galaxy F52 5G, which is actually quite affordable. Officially the Samsung Galaxy F52 5G phone costs less than the Galaxy A52 5G.Well, Samsung already has a huge portfolio of smartphones. We have the S-series, A-series, M-series, and the F-series Galaxy phones. Adding one more smartphone to the F-series, Samsung launched an affordable Galaxy F52 5G device.The price of the device is the talk of the town at the moment, thanks to the asking price, which is cheaper than the already cheaper Galaxy A52 5G smartphone.
 
 
+***
+![About a week ago, I created a Python module to send text messages.](https://external-preview.redd.it/HYE8RFSGmNNNtN6JkD1w5QESXOpZfVjvPrho8VKwknM.jpg?auto=webp&s=cb7e889e0ce7fd987d27794efdd878b221dacd9c "About a week ago, I created a Python module to send text messages.")
+
+
+[About a week ago, I created a Python module to send text messages.](https://www.reddit.com/r/Python/comments/nhftck/about_a_week_ago_i_created_a_python_module_to/)
+
+
+> Source code: https://github.com/Pacil142857/send_text/ To install: python -m pip install send_text This is a simple module that can send text messages. It supports sending plain text, images (but not gifs), and videos. Basic usage: import send_text with send_text.Sender("johnsmith@gmail.com", "password123", "smtp.gmail.com", 587) as sender: sender.text("1234567890@mms.att.net", "I sent this text message using the send_text module!") sender.text_image("1234567890@mms.att.net", "/path/to/image.png") sender.
+
+
+***
+![Centrical opens Australian HQ in Melbourne](https://itwire.com/media/k2/items/cache/d99c1ba2b48e7f64e815d8b6f5822f21_XS.jpg "Centrical opens Australian HQ in Melbourne")
+
+
+[Centrical opens Australian HQ in Melbourne](https://itwire.com/strategy/centrical-opens-australian-hq-in-melbourne.html)
+
+
+> Centrical regional director Luke Jamieson Employee engagement and performance management vendor Centrical is expanding into the APAC region with the opening of its Australian headquarters in Melbourne's CBD. The Australian office is to be headed by Centrical regional director Luke Jamieson, who has been named one of the globe's top CX influencers and thought leaders by Panviva, Engati CX, Thinkers 360 and Survey Sensum. "We are excited to launch Centrical in the APAC region, as this new home brings us much closer to our growing customer base where we already have strong relationships with Australian businesses," said Jamieson.
+
+
+***
+![New iMac, iPad Pro, and Apple TV 4K start to launch around the world](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/apple-imac-ipad-pro-apple-tv4k.jpg "New iMac, iPad Pro, and Apple TV 4K start to launch around the world")
+
+
+[New iMac, iPad Pro, and Apple TV 4K start to launch around the world](https://www.imore.com/new-imac-ipad-pro-and-apple-tv-4k-start-launch-around-world)
+
+
+> Source: Apple The new iMac, iPad Pro, and Apple TV 4K have started to launch. Customers in New Zealand and Australia have started to receive their orders. For at least some in the world, it is already launch day for the new M1 iMac, M1 iPad Pro, and the new Apple TV 4K. As reported by MacRumors, customers in New Zealand and Australia are beginning to receive their orders for all three new devices. Customers in Australia can even visit their local Apple Store to check out and purchase the new products.
+
+
+***
+![Telcos warned over failure to protect consumers against identity theft](https://itwire.com/media/k2/items/cache/934a80b060097bc7b5c8676cab0b203b_XS.jpg "Telcos warned over failure to protect consumers against identity theft")
+
+
+[Telcos warned over failure to protect consumers against identity theft](https://itwire.com/telecoms-and-nbn/telcos-warned-over-failure-to-protect-consumers-against-identity-theft.html)
+
+
+> Australia's two largest telcos - Telstra and Optus - along with Aldi's Medion Mobile, have been warned by the telecommunications industry regulator ACMA for failing to adequately verify people's identities prior to transferring their mobile phone numbers from other telcos. The Australian Communications and Media Authority said on Friday it found that in mid-2020, Telstra breached identity verification rules on at least 52 occasions, Medion Mobile on 53 occasions, and Optus on one occasion. ACMA Chair Nerida O'Loughlin said that under new rules introduced in early 2020, telcos must have more rigorous customer verification processes in place, such as multifactor or in-person identification.
+
+
+***
+![Tesla Roadster: Elon Musk Confirms 0-60 mph in 1.1s with SpaceX Thruster Package, Like a 'Hardcore Roller Coaster'](https://1734811051.rsc.cdn77.org/data/images/full/373194/tesla-roadster.jpg "Tesla Roadster: Elon Musk Confirms 0-60 mph in 1.1s with SpaceX Thruster Package, Like a 'Hardcore Roller Coaster'")
+
+
+[Tesla Roadster: Elon Musk Confirms 0-60 mph in 1.1s with SpaceX Thruster Package, Like a 'Hardcore Roller Coaster'](https://www.techtimes.com/articles/260483/20210520/tesla-roadster-elon-musk-confirms-0-60-mph-1-1s-spacex-thruster-hardcore-roller-coaster.htm)
+
+
+> Isaiah Richard, Tech Times 20 May 2021, 08:05 pm The Tesla Roadster is set for a 2022 release, and people are now wondering what the electric supercar is going to have as performance, with Elon Musk confirming its 0-60mph in 1.1 seconds. This speed would be achievable with the "SpaceX Thruster Package," which would come as an option and would feel like a "hardcore roller coaster" for users. (Photo : Tesla ) Tesla Roadster This is not your ordinary supercar or roller coaster. With the Tesla Roadster releasing for the second time around, the company would do everything it takes to showcase an iconic machine for the public.
+
+
