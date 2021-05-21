@@ -11270,3 +11270,53 @@
 > There has been a 'dramatic increase' in the censorship of Palestinian political speech on social media over the past two weeks, during the period of intense fighting between Israel and militants in Gaza.Facebook, Twitter, and Instagram have all been used by Palestinians to share information from, among a variety of areas, the East Jerusalem neighbourhood of Sheikh Jarrah where families face eviction.However the report from 7amleh, The Arab Center for the Advancement of Social Media, shared exclusively with The Independent, argues that social media companies' moderation attempts and codes of conduct have resulted in numerous citizens' accounts being taken down.
 
 
+***
+![OPEN SOURCE COMPUTER SCIENCE CURRICULUM](https://external-preview.redd.it/uGWE-5ZFjUqFzu4jpZKcXLV8NdhSRdaufIaGDPNh_kU.jpg?auto=webp&s=88cd0b083fc6b38c17b46fc505a54b20c79dbd1a "OPEN SOURCE COMPUTER SCIENCE CURRICULUM")
+
+
+[OPEN SOURCE COMPUTER SCIENCE CURRICULUM](https://www.reddit.com/r/programming/comments/nhr15q/open_source_computer_science_curriculum/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Galaxy S21 FE Listing Confirms Snapdragon 888 & 6GB Of RAM](https://www.androidheadlines.com/wp-content/uploads/2021/04/Samsung-Galaxy-S21-FE-render-leak-3.jpg "Galaxy S21 FE Listing Confirms Snapdragon 888 & 6GB Of RAM")
+
+
+[Galaxy S21 FE Listing Confirms Snapdragon 888 & 6GB Of RAM](https://www.androidheadlines.com/2021/05/samsung-galaxy-s21-fe-geekbench.html)
+
+
+> Some of the Samsung Galaxy S21 FE specifications have just been confirmed in a Geekbench listing. The phone surfaced on Geekbench with the SM-G990B model number. That listing not only confirmed some of its specs, but its benchmarking results as well.The phone scored 381 points in the single-core, and 1,917 points in the multi-core test. Do note that these are preliminary results, and it's possible it does not offer final software. So, do take those benchmarking results with a grain of salt.Geekbench listing confirms the Galaxy S21 FE will feature the Snapdragon 888 SoCHaving said that, this listing, that surfaced today, does confirm that the phone will be fueled by the Snapdragon 888 SoC.
+
+
+***
+![Biometrics in Security & Public Safety Technologies & Market with COVID-19 Impact, 2021-2026](https://mms.businesswire.com/media/20210521005249/en/371054/23/ResearchAndMarkets_800px.jpg "Biometrics in Security & Public Safety Technologies & Market with COVID-19 Impact, 2021-2026")
+
+
+[Biometrics in Security & Public Safety Technologies & Market with COVID-19 Impact, 2021-2026](https://www.businesswire.com/news/home/20210521005249/en/Biometrics-in-Security-Public-Safety-Technologies-Market-with-COVID-19-Impact-2021-2026---ResearchAndMarkets.com)
+
+
+> May 21, 2021 08:11 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Biometrics in Security & Public Safety Technologies & Market (with COVID-19 Impact) - 2021-2026" report has been added to ResearchAndMarkets.com's offering. The report contains a thorough analysis of 11 vertical, 5 technology sectors, five regional markets and 20 national markets detailing 2019-2026 market size. Following the COVID-19 pandemic, the demand for biometric identification (especially multimodal biometrics) for immigration enforcement, transportation security, border security, critical infrastructure protection, private sector security, and access control are forecasted to grow.
+
+
+***
+![Learn python graphics quickly by developing Pong game](https://external-preview.redd.it/37eXYmFT5hMcFBgd2p7bWNgIAiHFFdf9OzmuqhE7Ie4.jpg?auto=webp&s=3fbe394b22f3ff25b43260cc4b6f72e10063345c "Learn python graphics quickly by developing Pong game")
+
+
+[Learn python graphics quickly by developing Pong game](https://www.reddit.com/r/programming/comments/nhqza0/learn_python_graphics_quickly_by_developing_pong/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Two experts unpick chaotic week for cryptocurrencies in recorded live stream](https://static.independent.co.uk/2021/05/21/13/Bitcoin.JPG?width=1200&auto=webp&quality=75 "Two experts unpick chaotic week for cryptocurrencies in recorded live stream")
+
+
+[Two experts unpick chaotic week for cryptocurrencies in recorded live stream](https://www.independent.co.uk/life-style/gadgets-and-tech/crypto-price-bitcoin-ethereum-prediction-b1851057.html)
+
+
+> In a week where $1 trillion was wiped from the crypto market, many have wondered what happens now with the cryptocurrency space.Is this the end of the great 2020/21 rally? Is it just a dip on the way to new all-time highs? And what impact will it have on the industry in general?To answer these questions – and more – we invited two experts to help make sense of the price crash and take questions from our readers about the current chaos.>> Follow all the latest updates with The Independent's live coverage of the crypto market We spoke to Dr Iwa Salami, a senior lecturer in financial law at the University of East London, and Fred Schebesta, a crypto advocate and founder of the comparison platform Finder.
+
+
