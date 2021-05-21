@@ -11079,3 +11079,50 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![A Significant Win for Rosenberger Against CommScope's Petition for An Injunction](http://www.businesswire.com/images/bwlogo_square.png "A Significant Win for Rosenberger Against CommScope's Petition for An Injunction")
+
+
+[A Significant Win for Rosenberger Against CommScope's Petition for An Injunction](https://www.businesswire.com/news/home/20210520006153/en/A-Significant-Win-for-Rosenberger-Against-CommScopes-Petition-for-An-Injunction)
+
+
+> May 21, 2021 12:15 AM Eastern Daylight Time MOUNT OLIVE, N.J.--(BUSINESS WIRE)--Rosenberger, the world's third largest antenna manufacturer, secured a significant victory in a trade secret misappropriation lawsuit filed by competitor CommScope, Inc. CommScope alleged that Rosenberger misappropriated trade secrets concerning the design of base station antennas, which are complex equipment that broadcast signals supporting wireless telecommunications and sought to enjoin the sale of Rosenberger base station antennas.
+
+
+***
+![Apple brings CEO Tim Cook to court in defense of app store](https://kdvr.com/wp-content/uploads/sites/11/2021/05/18abd3c45e8c45c18f8df5b92af1ec09.jpg?w=1280 "Apple brings CEO Tim Cook to court in defense of app store")
+
+
+[Apple brings CEO Tim Cook to court in defense of app store](https://kdvr.com/news/technology/apple-brings-ceo-tim-cook-to-court-in-defense-of-app-store/)
+
+
+> SAN RAMON, Calif. (AP) — Apple CEO Tim Cook will take the witness stand Friday to defend the company's iPhone app store against charges that it has grown into an illegal monopoly — one far more profitable than his predecessor Steve Jobs envisioned when it opened up 13 years ago. The technology company is counting on Cook's appearance to put the finishing touches on Apple's defense against an antitrust case brought by Epic Games, maker of the popular video game Fortnite. Epic is trying to topple the so-called 'walled garden' for iPhone and iPad apps that welcomes users and developers while keeping competition out.
+
+
+***
+![Turn your app idea into a reality with this online bundle](https://mondrian.mashable.com/2021%252F05%252F21%252Fce%252F107c4cd7caaf4436b426d21b090bbdb0.66bc5.jpg%252F1200x630.jpg?signature=YIm3gkWmxm3imp7E4Ep4WkfeP7E= "Turn your app idea into a reality with this online bundle")
+
+
+[Turn your app idea into a reality with this online bundle](https://mashable.com/uk/shopping/may-21-mobile-app-developers-course-bundle/)
+
+
+> TL;DR: The 2021 Mobile App Developers Bundle is on sale for £21.16 as of May 21, saving you 91% on list price. Most great app ideas begin and end in the ideation phase. In part, this is thanks to a prevailing mindset that breaking into the app industry is costly, labour-intensive, and reserved for only the minority of highly-skilled developers out there. On the contrary, it's never been easier or more affordable to create a mobile application of your very own. The Internet is overflowing with resources and online courses that can help turn any ordinary person into a bona fide app developer.
+
+
+***
+![Apple brings CEO Tim Cook to court in defense of app store](https://s.abcnews.com/images/Technology/WireAP_f0e611c5999043bd86f6a4bf16f15aff_16x9_992.jpg "Apple brings CEO Tim Cook to court in defense of app store")
+
+
+[Apple brings CEO Tim Cook to court in defense of app store](https://abcnews.go.com/Technology/wireStory/apple-brings-ceo-tim-cook-court-defense-app-77820156)
+
+
+> SAN RAMON, Calif. -- Apple CEO Tim Cook will take the witness stand Friday to defend the company's iPhone app store against charges that it has grown into an illegal monopoly — one far more profitable than his predecessor Steve Jobs envisioned when it opened up 13 years ago.The technology company is counting on Cook's appearance to put the finishing touches on Apple's defense against an antitrust case brought by Epic Games, maker of the popular video game Fortnite.Epic is trying to topple the so-called 'walled garden" for iPhone and iPad apps that welcomes users and developers while keeping competition out.
+
+
+***
+[Build Twitter like usernames using pure Python](https://www.reddit.com/r/Python/comments/nhjl3d/build_twitter_like_usernames_using_pure_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
