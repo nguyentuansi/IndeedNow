@@ -11176,3 +11176,47 @@
 > Epic Games Store Mega Sale 2021 is live with coupons and discounts, allowing you to save up to 75 percent on select games. It is also offering NBA 2K21 for free for a limited time. The Mega Sale 2021 coupons give you $10 (roughly Rs. 730) for every game you purchase that costs $14.99 (roughly Rs. 1,100) or more, that you can then invest in your next purchase. The sale will end on June 17 and before that, you can buy games such as Assassin's Creed: Valhalla, Cyberpunk 2077, Red Dead Redemption 2, GTA V, and more at up to 45 percent off.
 
 
+***
+[Samsung pulls back the curtain on its revolutionary Intel partnership](https://www.sammobile.com/news/samsung-pulls-curtain-revolutionary-intel-partnership/)
+
+
+> Samsung recently unveiled the Galaxy Book Pro and the Galaxy Book Pro 360. The company has revamped its laptop lineup with new models that are meant to blur the line between PCs and smartphones.It feels that the new generation of PCs has to combine the power of a laptop with the DNA of a smartphone. To that end, the company worked with its long-standing partner Intel to develop the new laptops.Samsung and Intel have co-engineered the new laptopsBy working with Intel, Samsung was able to combine the company's innovative PC ecosystem with its industry-leading mobile ecosystem.
+
+
+***
+[Tencent profits soar even as China tech crackdown worries linger](https://ktvz.com/lifestyle/technology/2021/05/20/tencent-profits-soar-even-as-china-tech-crackdown-worries-linger/)
+
+
+> Tencent is pulling in more money and plans on investing more in games and videos, even as Beijing expands its scrutiny of the tech sector. The Chinese gaming and social media giant said Thursday that revenue jumped 25% to 135.3 billion yuan (about $21 billion) for the quarter ended March compared to the same period last year. Profit soared 65% to 47.8 billion yuan ($7.4 billion), better than what analysts had projected, helped by lower interest rates and growth in its booming gaming business. The company also announced Thursday that it would step up its investments in 'new opportunities,' such as game development and short-form video content.
+
+
+***
+![Google I/O 2021 special, Android 12, Wear OS and more](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/147975-gadgets-news-samsung-galaxy-note-10-debrief-future-of-ai-and-the-best-apps-to-help-you-meditate-pocket-lint-podcast-14-image1-svafkjmevg.jpg "Google I/O 2021 special, Android 12, Wear OS and more")
+
+
+[Google I/O 2021 special, Android 12, Wear OS and more](https://www.pocket-lint.com/gadgets/news/147975-pocket-lint-weekly-podcast-tech-news-reviews-and-interviews)
+
+
+> (Pocket-lint) - The Pocket-lint Podcast episode 104 is now available to stream and download.With Google I/O being the dominant tech event in the last week, we look at all the announcements and demos that emerged from the company's campus.Android 12, the new Wear OS co-developed with Samsung and Fitbit, and some moonshot technologies all come under our careful scrutiny in this special edition of the podcast.Is the future as bright as Google hopes? Join Stuart, editior Chris and associate editor Cam to find out.
+
+
+***
+![Having issues understanding _init(locals)](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Having issues understanding _init(locals)")
+
+
+[Having issues understanding _init(locals)](https://www.reddit.com/r/Python/comments/nhn00g/having_issues_understanding_initlocals/)
+
+
+> Could anyone explain to me how the self object changes in the _init(locals()) function in the code below: I have attached the output as well: At Line 32 the self object is of class B and at line 44 it changes to class A output
+
+
+***
+![Storytel partners with Spotify to serve audiobooks](https://assets2.rappler.com/2021/05/storytel-spotify-1621582424461.jpg "Storytel partners with Spotify to serve audiobooks")
+
+
+[Storytel partners with Spotify to serve audiobooks](https://www.rappler.com/technology/storytel-spotify-audiobooks-partnership)
+
+
+> Swedish audiobook streaming service Storytel announced on Thursday, May 20, it was partnering with music streaming platform Spotify to serve its audiobooks on the service. The move aims to expand Storytel's distribution of its roster of audiobooks. A Reuters report noted that while Storytel has books in 30 languages, it is restricted to the country a subscriber is in as well as what credit cards they use. The reach of Spotify – with it serving over 150 countries and with some 356 million total monthly active users – should aid in spreading the word, so to speak, of Storytel.
+
+
