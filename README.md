@@ -11458,3 +11458,53 @@
 > PARIS – A vast iceberg that broke off Antarctica earlier this month could drift through the ocean for several years before it breaks up and melts away, a scientist from the European Space Agency said Friday.The iceberg, dubbed A-76, is more than 40 times the size of Paris, or about 73 times as big as Manhattan, making it the largest currently afloat.It was first spotted by scientists at the British Antarctic Survey and confirmed by the U.S. National Ice Center using images taken by the European Space Agency's Sentinel 1A satellite.
 
 
+***
+![How To Record On Snapchat Without Holding Down The Button](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/05/Snapchat-record.jpg "How To Record On Snapchat Without Holding Down The Button")
+
+
+[How To Record On Snapchat Without Holding Down The Button](https://screenrant.com/record-video-snapchat-snap-without-holding-button-hands-free-app-mode/)
+
+
+> Recording a video Snap requires holding down the record button the whole time, but there's also a hands-free mode that's quick and easy to enable. A major limitation with recording videos through the Snapchat app is having to hold down the button for the duration of the recording. While there's no way to actually record a Snap without holding down the button, there is a way to make the recording without holding down the button for the entire time. Here's what you need to know. In spite of the meteoric rise of TikTok, Snapchat remains an extremely popular image and video-sharing app.
+
+
+***
+![Apple Exec: New Apple TV Remote Doesn't Need Find My Because It's Thicker and Harder to Lose](https://images.macrumors.com/t/x1jaIAjzm7iJECnR6brChUDzwpo=/2000x/https://images.macrumors.com/article-new/2013/12/apple-tv-4k-siri-remote.jpg "Apple Exec: New Apple TV Remote Doesn't Need Find My Because It's Thicker and Harder to Lose")
+
+
+[Apple Exec: New Apple TV Remote Doesn't Need Find My Because It's Thicker and Harder to Lose](https://www.macrumors.com/2021/05/21/apple-tv-remote-no-find-my-explanation/)
+
+
+> Apple has been promoting the new M1 iMac, ‌M1‌ iPad Pro, and second-generation Apple TV 4K following their announcements, and Apple's vice president of product marketing for home and audio Tim Twerdahl today did an interview with MobileSyrup to discuss the revamped ‌Apple TV‌ 4K and the updated Siri Remote. Prior to the release of the new ‌Apple TV‌ 4K, there were rumors that the updated remote would include Find My functionality, which didn't happen. Twerdahl said that it was not a priority because the ‌Siri‌ Remote is thicker and won't get lost as easily.
+
+
+***
+![Want to experience Miitopia again from the beginning? Try this!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/miitopia-stargazing.jpg "Want to experience Miitopia again from the beginning? Try this!")
+
+
+[Want to experience Miitopia again from the beginning? Try this!](https://www.imore.com/miitopia-how-restart-your-game)
+
+
+> Source: Nintendo Like any good RPG, Miitopia is a lengthy adventure that is made even longer with heaps of extra side missions to complete. This is not even mentioning the hours you'll spend creating and downloading Miis. But the best part about Miitopia is that you are responsible for every face you see throughout the game, so every playthrough is guaranteed to be unique. However, there might be a point where you'd like to restart your adventure, with new faces in different roles. There's no New Game Plus in Miitopia, so that means you'll have to restart your game to play a fresh save.
+
+
+***
+![Sweat harder with these true wireless earbuds](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/jabra-elite-active-75t-review-8.jpg "Sweat harder with these true wireless earbuds")
+
+
+[Sweat harder with these true wireless earbuds](https://www.androidcentral.com/best-sweat-proof-true-wireless-earbuds)
+
+
+> Best sweatproof true wireless earbuds Android Central 2021 Sweatproof earbuds are essential, especially when you're working out. Typically, an IPX4 rating (sweat and splash-proof) is fine for most types of workouts, but some wireless earbuds take it a step further by trying to isolate any water from entering your earbuds. We've gathered a list of the best sweatproof true wireless earbuds out there. Staff Pick Samsung tried to address many things with the Galaxy Buds Pro, not least of which was their durability.
+
+
+***
+![Audi's new head-turning SUV has arrived](https://cdn.newsapi.com.au/image/v1/a96dfcf03c724dcb89526da0ff28f46d?width=1280 "Audi's new head-turning SUV has arrived")
+
+
+[Audi's new head-turning SUV has arrived](https://www.news.com.au/technology/motoring/luxury/2021-audi-q2-review-updated-compact-suv-is-easy-to-recommend/news-story/5bc9eab4283412debc4f440500c05c17)
+
+
+> Design is the key drawcard for Audi Q2 customers. So says a brand that, more than most, trades on the look and feel of its vehicles. First introduced in 2017 as the entry point to Audi's high-riding luxury SUV range, the Q2 carved out a niche for customers looking for a compact machine with interesting details.It arrived before rival machines such as the BMW X2 and Lexus UX, giving prestige buyers a compact option blurring the lines between hatchbacks and SUVs.Subtle tweaks for this year's model include new lights and bumpers, along with fresh alloys and a mildly updated cabin.
+
+
