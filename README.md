@@ -12036,3 +12036,53 @@
 > It's been a two year wait, but the highly competitive and often surreal annual event that is the Eurovision Song Contest returns tonight for its 65th edition. Don't miss a moment with our guide to getting a Eurovision 2021 live stream. Source: Eurovision Bringing together European countries, as well as Australia and Israel, the singing competition sees acts representing each nation belt out a succession of sometimes catchy but often weird numbers, with a complicated and often controversial voting system deciding the winner.
 
 
+***
+![New Tesla Roadster Will Have Mind-Bending Acceleration & "Be Able To Fly"](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/05/Tesla-Roadster-second-generation-at-Peterson-Automotive-Museum.jpg "New Tesla Roadster Will Have Mind-Bending Acceleration & "Be Able To Fly"")
+
+
+[New Tesla Roadster Will Have Mind-Bending Acceleration & "Be Able To Fly"](https://screenrant.com/tesla-roadster-second-generation-0-60-acceleration-fly-petersen-automotive-museum-exhibition/)
+
+
+> Tesla's second-generation Roadster will be able to hit 60 mph from a standstill in just over a second and "be able to fly very briefly." A prototype of the upcoming Roadster is on display at the Petersen Automotive Museum in Los Angeles. The exhibition has revealed some new specs about the highly-anticipated vehicle and seen Tesla CEO Elon Musk discussing it in a little more detail online. The first-gen Roadster was the first vehicle Tesla produced and was sold between 2008 and 2012. It had a range of over 200 miles, did 0-60 mph in 3.
+
+
+***
+![Driving Italy's hardcore new weapon](https://content.api.news/v3/images/bin/3a847adbb9727f16abfdc16181f02160 "Driving Italy's hardcore new weapon")
+
+
+[Driving Italy's hardcore new weapon](https://www.news.com.au/technology/motoring/motoring-news/driving-the-new-alfa-romeo-giulia-gta/news-story/d3d418bfa683d616ff7d69030e088989)
+
+
+> A twin-turbocharged Ferrari-sourced engine, F1-derived bodywork, and a bad attitude make this the best driver's sedan on sale.Mad, bad and dangerously good fun to know, the Alfa Romeo Giulia GTA is exactly the kind of car Australia's old-school rev-heads understand and cherish.Under the bonnet is a mighty engine, with the power to instantly transform this super sedan's rear tyres to smoke. Its ground-hugging stance, wide tyres, and serious spoilers signal its readiness to rumble, even before its tailpipes talk.
+
+
+***
+![The best streaming devices for 2021](https://icdn.digitaltrends.com/image/digitaltrends/chromecast-19.jpg "The best streaming devices for 2021")
+
+
+[The best streaming devices for 2021](https://www.digitaltrends.com/home-theater/best-streaming-devices/)
+
+
+> Your smart TV probably has a number of popular streaming apps built-in, like Netflix or YouTube. But if your TV isn't 'smart' or if you want to expand beyond the biggest of the streaming services, your next step is finding a high-quality streaming device to watch your favorite movies, whether they're on Netflix or elsewhere. Of all the choices out there, we think the Google Chromecast with Google TV is the best all-around streaming device. It's tiny, it's powerful, it's versatile, and most people will find it an affordable option.
+
+
+***
+![Bitcoin news LIVE – Crypto trader has ‘no regrets' for spending what is now worth £360m on 2 pizzas](https://www.thesun.co.uk/wp-content/uploads/2021/05/crypto-1-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin news LIVE – Crypto trader has ‘no regrets' for spending what is now worth £360m on 2 pizzas")
+
+
+[Bitcoin news LIVE – Crypto trader has ‘no regrets' for spending what is now worth £360m on 2 pizzas](https://www.thesun.co.uk/tech/15015192/bitcoin-news-latest-ethereum-dogecoin-updates-cryptocurrency-updates-clucoin/)
+
+
+> A CRYPTO trader said he has "no regrets" on spending bitcoin that is now worth £306million on two pizzas. Programmer Laszlo Hanyecz spent 10,000 Bitcoin on two Papa John's pies, then worth around £30. However, more than a decade later, the amount would have bought him a private island, a luxurious mansion, and several private jets. Amazingly, Laszlo insists he has absolutely no sleepless nights over his impulse purchase one lunchtime in 2010. He has said: "I don't regret it. I think that it's great that I got to be part of the early history of Bitcoin in that way.
+
+
+***
+![Introduction to Lists in Python](https://external-preview.redd.it/gCzf3WFcxiCsqiVEkFRI8ZWBEwhkVE4Fj3gY6wewv-8.jpg?auto=webp&s=f276293645861f9e910c2e86bd8c1d8ef5448f8f "Introduction to Lists in Python")
+
+
+[Introduction to Lists in Python](https://www.reddit.com/r/Python/comments/niq6xd/introduction_to_lists_in_python_tutorial/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
