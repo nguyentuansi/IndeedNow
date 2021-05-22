@@ -11839,3 +11839,53 @@
 > Oppo Reno 5A has been launched in Japan with IP68 certification. The new Oppo phone comes with quad rear cameras and features a 90Hz display. Other key highlights of the Oppo Reno 5A include a Qualcomm Snapdragon 765G SoC, 128GB storage, and a hole-punch design. The smartphone also comes preloaded with artificial intelligence (AI) backed features, such as an Ultra Night Video, Live HDR, and Neon Portrait. It is also capable of recording videos from both front and rear cameras simultaneously.Oppo Reno 5A availabilityOppo Reno 5A price is yet to be revealed.
 
 
+***
+![A 15-year-old singer singing'Spring in Myanmar'... Locally responded](https://static.sbsdlab.co.kr/image/thumb_default.png "A 15-year-old singer singing'Spring in Myanmar'... Locally responded")
+
+
+[A 15-year-old singer singing'Spring in Myanmar'... Locally responded](https://www.tellerreport.com/tech/2021-05-22-a-15-year-old-singer-singing-spring-in-myanmar-----locally-responded.BklYY7uIt_.html)
+
+
+> In this way, a dedication song to support the people of Myanmar suffering under the military government was released in Korea. A girl singer from Myanmar sang, and helping hands from all over the country continued. A dedication song was released in Korea to support the people of Myanmar who are suffering under the military government. A girl singer from Myanmar sang, and helping hands from all over the country continued. Reporter Park Chan-beom covered this. [Freedom, Freedom] Practice and practice again.
+
+
+***
+![Internet Explorer, The Love-To-Hate-It Web Browser, Will Die Next Year](https://media.npr.org/assets/img/2021/05/21/gettyimages-82687981_wide-cfedc4e75a45d4137a9aa4803fb4674521b14cf1.jpg?s=1400 "Internet Explorer, The Love-To-Hate-It Web Browser, Will Die Next Year")
+
+
+[Internet Explorer, The Love-To-Hate-It Web Browser, Will Die Next Year](https://www.npr.org/2021/05/22/999343673/internet-explorer-the-love-to-hate-it-web-browser-will-die-next-year)
+
+
+> Microsoft is officially pulling the plug on Internet Explorer next June. Alexander Hassenstein/Getty Images Internet Explorer is nearing the end of a long and slow death, Microsoft announced this week. At 25 years old, the much-reviled web browser that once dominated the Internet couldn't shake its reputation as the slow, buggy net-surfing option. Microsoft has been stepping away from the product since at least 2015, when it introduced its successor, Microsoft Edge (previously known as Project Spartan).
+
+
+***
+![[Report] An employee of a large company caught secretly taking a picture at a local mart... "market research"](https://static.sbsdlab.co.kr/image/thumb_default.png "[Report] An employee of a large company caught secretly taking a picture at a local mart... "market research"")
+
+
+[[Report] An employee of a large company caught secretly taking a picture at a local mart... "market research"](https://www.tellerreport.com/tech/2021-05-22-[report]-an-employee-of-a-large-company-caught-secretly-taking-a-picture-at-a-local-mart----"market-research".SkDWDG_8td.html)
+
+
+> A man was caught by the owner of the mart while taking pictures inside and outside the mart in an apartment mall with his mobile phone. When I checked, the man was an employee at the headquarters of a large company's convenience store. A man was caught by the owner of the mart while taking pictures inside and outside the mart in an apartment shopping mall with his mobile phone. When I checked, the man was an employee at the headquarters of a large company's convenience store. I was trying to learn how to do business, but reporter Lee Hyun-jung covered the report.
+
+
+***
+![HBO Max promises that on its $10 tier, less advertising is more](https://www.cnet.com/a/img/X_j_NWfD6R7pzThZMjxxYzEVdQ4=/1200x630/right/bottom/2020/06/14/4e7c7283-f416-4b5f-bb73-de49eaedc29c/hbo-max-logo-phone-2791.jpg "HBO Max promises that on its $10 tier, less advertising is more")
+
+
+[HBO Max promises that on its $10 tier, less advertising is more](https://www.cnet.com/news/hbo-max-promises-that-on-its-10-tier-less-advertising-is-more/)
+
+
+> HBO Max with Ads will lower the service's price by $5 to $10 a month, while putting advertising into the mix.  Angela Lang/CNET HBO Max gets that, for many HBO fans, the next-best-thing to zero ads is as few of them as possible. It's why HBO Max with Ads -- its cheaper, ad-supported tier of the streaming service that launches next week -- is aiming to serve fewer of them anyone else: under four minutes per hour. "HBO has previously been a walled-off garden for the last 50 years," Julian Franco, vice president of product management at HBO Max, referring to the network's freedom from advertising since its origin.
+
+
+***
+![How I moved from roller skates to electric skates](https://www.cnet.com/a/img/aS3kxVe-yt-Bv3HfsVZ_EGWAJzI=/1200x630/2021/05/21/87f36fdb-c2c9-4890-8259-f1f2f04d4986/segway-skates03.jpg "How I moved from roller skates to electric skates")
+
+
+[How I moved from roller skates to electric skates](https://www.cnet.com/news/how-i-moved-from-roller-skates-to-electric-skates/)
+
+
+> Now playing: Watch this: Electric skates are scary but also a lot of fun When I shared at work that I'm a big roller-skating enthusiast, I didn't know it would lead to me testing out a pair of Segway's Drift W1 Electric Skates. But here we are. And I've been having so much fun. Having never used a hoverboard or any kind of Segway rideable at all, the idea of standing on motorized shoes felt nothing short of terrifying. The W1 skates have been out for some time -- CNET published a first take back in 2018 -- but until now we haven't had a chance to really give them a try and share the full experience.
+
+
