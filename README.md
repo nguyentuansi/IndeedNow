@@ -11655,3 +11655,50 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![Leaked data of Dominos India users now available on search engine created by hacker](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Screenshot_2021-05-22_at_9.39.-647x363.png?sR21qwlJ9LEHBacHOuEDSb3RVOj.L_r0 "Leaked data of Dominos India users now available on search engine created by hacker")
+
+
+[Leaked data of Dominos India users now available on search engine created by hacker](https://www.indiatoday.in/technology/news/story/leaked-data-of-dominos-india-users-now-available-on-search-engine-created-by-hacker-1805595-2021-05-22)
+
+
+> Popular Pizza brand Dominos have suffered from a data leak yet again.The leaked data can now be found on the search engine created by hackers.The data that has been allegedly leaked include phone numbers, email address, payment details and credit card details of users.Popular Pizza brand Dominos have suffered from a data leak yet again. As per security experts, the data of 18 crore orders is available on the dark web. Earlier in April, a hacker had claimed that he gained access to 13TB worth of Dominos data.
+
+
+***
+![Watch more shows and movies from around the world with ExpressVPN](https://mondrian.mashable.com/2021%252F05%252F22%252F13%252F4ab5fbca10d5475c8a394ff1cb7d8744.70734.png%252F1200x630.png?signature=0y7eDZJHxNFRMbYkZCvOjWx3r_o= "Watch more shows and movies from around the world with ExpressVPN")
+
+
+[Watch more shows and movies from around the world with ExpressVPN](https://mashable.com/uk/shopping/may-22-best-express-vpn-deal/)
+
+
+> SAVE 49%: A one-year subscription to ExpressVPN is on sale for £4.88 per month as of May 22, and includes an extra three months for free. There are absolutely loads of top VPNs out there with really similar sets of features for improving your cybersecurity and unlocking streaming sites. So how do you choose between these options?  We're not going to suggest that we have all the answers, because we don't. We've checked out everything on offer, and the process of finding the best VPN is still pretty complicated.
+
+
+***
+[Tecno Spark 7 Pro India Launch Set For May 25: Could Be Priced Under Rs. 10,000](https://www.gizbot.com/mobile/news/tecno-spark-7-pro-india-launch-date-may-25-expected-price-074411.html)
+
+
+> Last month, Tecno, a brand belonging to Transsion Holdings, announced the Tecno Spark 7 Pro for the global markets. Notably, this is the third smartphone that was launched in the Spark 7 series with the previous ones being the Spark 7
+
+
+***
+![Become a cybersecurity hero with this ethical hacking bundle](https://mondrian.mashable.com/2021%252F05%252F22%252F2c%252F62b6aef35ba94141b42bbd59b3978d8e.16828.jpg%252F1200x630.jpg?signature=I5jHX4ZvVBi0w3dpi0d7ySaEm4E= "Become a cybersecurity hero with this ethical hacking bundle")
+
+
+[Become a cybersecurity hero with this ethical hacking bundle](https://mashable.com/uk/shopping/may-22-premium-ethical-hacking-certification/)
+
+
+> TL;DR: The 2021 Premium Ethical Hacking Certification Bundle is on sale for £42.44 as of May 22, saving you 96% on list price. When the fictional Behavioral Analysis Unit of the FBI needed someone to stop hackers in their tracks on Criminal Minds, they hired a vigilante hacker. Why? Because, while it may seem a bit counterintuitive, the only person who can stop a hacker is another hacker. Known as ethical or "white hat" hackers, these heroic cyber warriors are on the front lines of defense against harmful digital intrusions – and they don't just work for the FBI.
+
+
+***
+![This beginner-friendly bundle will help you master digital marketing](https://mondrian.mashable.com/2021%252F05%252F22%252Fc6%252F14a4f895228549af8d7f60e95cd772d3.efc92.jpg%252F1200x630.jpg?signature=39iyINzcvPgnKp_ATT7Nh5Aoa3I= "This beginner-friendly bundle will help you master digital marketing")
+
+
+[This beginner-friendly bundle will help you master digital marketing](https://mashable.com/uk/shopping/may-22-2021-digital-marketing-bundle-on-sale/)
+
+
+> TL;DR: The 2021 Complete Digital Marketing for Beginners Bundle is on sale for £31.83 as of May 22, saving you 98% on list price. Every corner of the world wide web is rife with marketing opportunities. Whether you're trolling on Facebook, lurking Reddit, watching hours of YouTube content, or endlessly scrolling Instagram, there are dozens of ways to leverage these platforms to build your brand and earn some cash. But you can't just go about it all willy-nilly; you need to know what you're doing to make it worthwhile.
+
+
