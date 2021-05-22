@@ -11608,3 +11608,50 @@
 > May 21, 2021 08:04 PM Eastern Daylight Time HONG KONG & LOS ANGELES--(BUSINESS WIRE)--When the 2020 edition was cancelled due to COVID-19, the future of Art Basel Hong Kong and other in-person art fairs was called into question. But the iconic Hong Kong event has a plan in place to weather the storm with a shift to a hybrid format, an embrace of digitalisation, and a focus on the safety of collectors, gallerists and art aficionados. Over two thirds of global art fairs planned in 2020 were cancelled.
 
 
+***
+![Python<->JS serialized date format](https://external-preview.redd.it/KObNS903fHe44dxOoe1_bGNyIUOPpCpeAHJtzd8J8PU.jpg?auto=webp&s=0bf477ee21388db839f8f156cae9a50b6bc85bb4 "Python<->JS serialized date format")
+
+
+[Python<->JS serialized date format](https://www.reddit.com/r/Python/comments/ni8sbc/pythonjs_serialized_date_format/)
+
+
+> Discussion that arose at work today: not strictly a Python question but that's what we write our backend in, so it seems appropriate to this reddit. Suppose the BE and FE want to communicate a notion of "date" without time or timezone information, using JSON as the intermediary data representation. What's the best way to do that? The two approaches we focused on were a (1) YYYY-MM-DD string (compliant with ISO 8601), or a (2) dictionary/object with year, month, day keys.(1) is more concise and in theory standard enough to use, but creates problems on both the FE and BE.
+
+
+***
+![Login Page using UserCreationForm (Django) – Part 4](https://external-preview.redd.it/fvZNUnzx63xco-dMK1ehUlchiPzO--P7FRb_NMqCllI.jpg?auto=webp&s=3f50f15133157c6adc0310d2c3a9dd7ab203b986 "Login Page using UserCreationForm (Django) – Part 4")
+
+
+[Login Page using UserCreationForm (Django) – Part 4](https://www.reddit.com/r/Python/comments/ni8hrr/login_page_using_usercreationform_django_part_4/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Memorial Day sales: the 10 best mattress deals happening right now](https://cdn.mos.cms.futurecdn.net/f75rSVSsudDUJekJo43BJ9-1200-80.jpg "Memorial Day sales: the 10 best mattress deals happening right now")
+
+
+[Memorial Day sales: the 10 best mattress deals happening right now](https://www.techradar.com/news/the-10-best-memorial-day-mattress-sales-that-have-already-started)
+
+
+> (Image credit: Getty) The Memorial Day sales event is just over a week away, but luckily for you, mattress brands like Nectar, Purple, and Mattress Firm have launched their official deals. We've sorted through all the offers to bring you the 10 best Memorial Day mattress sales that are happening right now. Mattresses are one of the most popular categories discounted during Memorial Day sales, with some of the best promotions you'll find all year. Retailers offer sitewide sales on their best-selling mattresses and throw in free accessories with your purchase.
+
+
+***
+[What is most beloved SDK experience?](https://www.reddit.com/r/Python/comments/ni8dwu/what_is_most_beloved_sdk_experience/)
+
+
+> Hello everyone!I'm looking for inspirations on sdk. What are your most beloved developer experiences?For example, I love Flask and how easy it is to just run it and try it out in debug mode.Pandas in jupyter notebook is great to look at data and mess with stuff.Ipython itself is great for prototyping.Any other examples that are just delight to work with?
+
+
+***
+![#TECH: vivo launches Android 12 Beta for developers](https://assets.nst.com.my/images/articles/botsvivobeta_NSTfield_image_socialmedia.var_1621648819.jpg "#TECH: vivo launches Android 12 Beta for developers")
+
+
+[#TECH: vivo launches Android 12 Beta for developers](https://www.nst.com.my/lifestyle/bots/2021/05/692128/tech-vivo-launches-android-12-beta-developers)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
