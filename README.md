@@ -12086,3 +12086,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Technical Issues Restrict Biomutant to 1080p 60 FPS on PS5](https://www.thetechgame.com/images/news/article/4871315eb6.jpg "Technical Issues Restrict Biomutant to 1080p 60 FPS on PS5")
+
+
+[Technical Issues Restrict Biomutant to 1080p 60 FPS on PS5](https://www.thetechgame.com/News/sid=29329/technical-issues-restrict-biomutant-to-1080p-60-fps-on-ps5.html)
+
+
+> THQ Nordic released gameplay footage of Biomutant running on PS5 today, and the news isn't good for folks who were hoping to play Biomutant on PS5 in 4K. The footage starts with a disclaimer, which is always a good sign: 'The footage you are about to see has been captured on a retail PS5. With this build, the option for native 4K on PlayStation has been deactivated due to stability- and performance-related reasons. What you see here is 1080p @60fps upscaled to 4K @60fps. It will remain deactivated for the release version, too.
+
+
+***
+![‘FIRST TO BE HIT': China lashes out at ‘too weak', ‘insignificant' Australia](https://cdn.newsapi.com.au/image/v1/62026b8a1ac4382b5ba94decef2be351?width=1280 "‘FIRST TO BE HIT': China lashes out at ‘too weak', ‘insignificant' Australia")
+
+
+[‘FIRST TO BE HIT': China lashes out at ‘too weak', ‘insignificant' Australia](https://www.news.com.au/technology/innovation/military/china-lashes-out-at-australia-for-joining-military-exercise-with-japan-france-and-us/news-story/9261b9b18ad52d1717ae780c4a10d63d)
+
+
+> Great power competition? Or a schoolyard tiff? Beijing has lashed out at Australia for joining its allies in war games off Japan, threatening 'its forces will be among the first to be hit'.'Australia must not think it can hide from China if it provokes,' Song Zhongping, a Communist Party military commentator, told the Global Times.Australia last week joined Japan, the United States and France in what has been described as their 'first ever' joint military exercise.Named joint training exercise Jeanne d'Arc 21 (ARC21 for short), the Royal Australian Navy frigate HMAS Parramatta joined French, Japanese and US warships in practising an amphibious assault, urban warfare and anti-aircraft defence between May 11 and 17.
+
+
+***
+![Tinder, Hinge, and other dating sites offer perks to those who get the COVID-19 vaccine](https://www.gannett-cdn.com/-mm-/c1fa3a63484595cf1949180bb3c3a90eb201a2ef/c=0-133-2084-1305/local/-/media/2021/05/10/USATODAY/usatsports/covid-19-vaccine-vials.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp "Tinder, Hinge, and other dating sites offer perks to those who get the COVID-19 vaccine")
+
+
+[Tinder, Hinge, and other dating sites offer perks to those who get the COVID-19 vaccine](https://www.usatoday.com/story/tech/2021/05/22/tinder-bumble-make-easier-swipe-right-if-youve-got-vaccine/5225253001/)
+
+
+> CLOSE A top White House aide made his pitch for young people to get vaccinated personal, sharing the struggles his own son has dealt with on an ongoing basis since contracting COVID-19 last fall. (May 18) AP DomesticThe White House is pushing a new reason to swipe right: vaccination badges and 'super swipes' for people who've gotten their coronavirus shots.The Biden administration said Friday it's teaming up with dating apps to showcase the benefits of getting a shot.Apps like Hinge, Tinder, Match and Bumble are offering special incentives to people who roll up their sleeves, including badges showing vaccination status and free access to premium content.
+
+
+***
+![Kursk aims to educate and entertain but fall short on both counts](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/05/KURSK-z.png?strip=all&quality=100&w=750&h=500&crop=1 "Kursk aims to educate and entertain but fall short on both counts")
+
+
+[Kursk aims to educate and entertain but fall short on both counts](https://www.thescottishsun.co.uk/tech/7151272/kursk-review/)
+
+
+> GAMES entertain — but they can also educate. From storming Omaha Beach in Medal of Honor: Allied Assault to battling through the abandoned streets of Chernobyl in All Ghillied Up from Call of Duty 4: Modern Warfare, some of the hardest hitting gaming content is often anchored in real world events. Few take a single moment from history and build a tale around it, but Polish studio Jujubee have done just that with the latest game KURSK. It's set aboard the nuclear-powered Russian submarine which sank on August 12, 2000, in the Barents Sea, where its crew of 118 were lost.
+
+
+***
+![AOC speaks out on mental health and Latinx trauma post-Trump](https://mondrian.mashable.com/2021%252F05%252F22%252F5a%252F776d1ebd4ece4d308326c6a7e7fd7d09.57fad.jpg%252F1200x630.jpg?signature=xqCCpPkpgTqex_HJv30fN3luq54= "AOC speaks out on mental health and Latinx trauma post-Trump")
+
+
+[AOC speaks out on mental health and Latinx trauma post-Trump](https://mashable.com/article/aoc-mental-health-therapy-latino-trump/)
+
+
+> Even when Rep. Alexandria Ocasio-Cortez takes much-needed breathers from the onslaught of political pressure she faces, the Congresswoman is still doing work for her community. The Representative of New York's 14th district (which includes areas of the Bronx and Queens largely populated by Latinx folks) sat down with PRX's Latino USA for an intimate, mask-off interview released on Saturday. Among the many topics covered, she focused on the unique hardships Latinx people faced throughout Donald Trump's time in office and during the pandemic especially.
+
+
