@@ -11889,3 +11889,53 @@
 > Now playing: Watch this: Electric skates are scary but also a lot of fun When I shared at work that I'm a big roller-skating enthusiast, I didn't know it would lead to me testing out a pair of Segway's Drift W1 Electric Skates. But here we are. And I've been having so much fun. Having never used a hoverboard or any kind of Segway rideable at all, the idea of standing on motorized shoes felt nothing short of terrifying. The W1 skates have been out for some time -- CNET published a first take back in 2018 -- but until now we haven't had a chance to really give them a try and share the full experience.
 
 
+***
+![Why does Pypy perform so much faster than Cpython on recursion?](https://preview.redd.it/pp2dm4tdgo071.png?width=578&format=png&auto=webp&s=7ebe9b8affbc701757c70aedf05e2f3c7f05a300 "Why does Pypy perform so much faster than Cpython on recursion?")
+
+
+[Why does Pypy perform so much faster than Cpython on recursion?](https://www.reddit.com/r/Python/comments/nij5ac/why_does_pypy_perform_so_much_faster_than_cpython/)
+
+
+> I have tested the followin recursion code on Pypy and Cpythonimport time beg = time.time() def fib(n): if n <=2: return 1 return fib(n-2) + fib(n-1) var = fib(35) end = time.time() print (var) print (end - beg) Results:0.12 seconds for pypy 3.73.7 seconds for Cpython 3.9.5On MS windows 10
+
+
+***
+!['Try' and 'Except' Problem](https://external-preview.redd.it/gLv4_Upk8NsO-UNIuEENZmNiMlhePZbKqYYtf6Sz0l0.jpg?auto=webp&s=af114f07b03e1decc0a0996ebebc922ea0f28fd1 "'Try' and 'Except' Problem")
+
+
+['Try' and 'Except' Problem](https://www.reddit.com/r/Python/comments/nij46y/try_and_except_problem/)
+
+
+> Hello world lol,Was hoping to get help on this problem. I'm doing a basic try and except problem and the output for some reason is executing both "print()" statements (in both the try and except section), when really only the print () statement within the try section should be in the output.Please refer to the link and provide your feedback. Thanks. https://www.codecademy.com/courses/learn-python-3/lessons/python-hello-world/exercises/comments
+
+
+***
+![Rumored MacBook Pros could use M1X chip this year – with M2 coming in 2022?](https://cdn.mos.cms.futurecdn.net/GfinEMFXnT42BFxAcDc2rA-1200-80.jpg "Rumored MacBook Pros could use M1X chip this year – with M2 coming in 2022?")
+
+
+[Rumored MacBook Pros could use M1X chip this year – with M2 coming in 2022?](https://www.techradar.com/news/rumored-macbook-pros-could-use-m1x-chip-this-year-with-m2-coming-in-2022)
+
+
+> (Image credit: Future) Apple's next MacBook Pro refresh, which could be due later this year – perhaps in the summer, going by the latest from the rumor mill – might come with a pepped-up version of Apple's own silicon called the M1X.The M1X label has been kicking around for a while now – in fact ever since the M1 came out, and speculation started about its successor – and it'll supposedly be present in these inbound MacBook Pros, as opposed to an M2 chip. The M2 model is purportedly being saved for 2022, and could arrive in a new MacBook Air next year (grab your buckets of condiments now – we're not sure how much sense an Air debut would make for starters).
+
+
+***
+![Scroll wheel on the new remote not really working](https://images.macrumors.com/social/?t=2297224&v=6 "Scroll wheel on the new remote not really working")
+
+
+[Scroll wheel on the new remote not really working](https://forums.macrumors.com/threads/scroll-wheel-on-the-new-remote-not-really-working.2297224/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Anyone else running into this? Trying to use the 'scroll wheel' functionality on the new remote and it jumps back and forth, instead of properly scrolling. Like it seeing touch elsewhere on it or something. Normal touch use with it works like normal as does click button functionality.
+
+
+***
+![The iPod touch is rumored to be making another comeback in 2021](https://cdn.mos.cms.futurecdn.net/e3uYekfHEXtJmztExuQfPP-1200-80.jpg "The iPod touch is rumored to be making another comeback in 2021")
+
+
+[The iPod touch is rumored to be making another comeback in 2021](https://www.techradar.com/news/the-ipod-touch-is-rumored-to-be-making-another-comeback-in-2021)
+
+
+> (Image credit: Apple) The 7th-gen iPod touch we saw appear in 2019 was something of a surprise – before that, Apple hadn't refreshed its dedicated music player since 2015 – but apparently the pocketable jukebox isn't dead yet, with another model rumored to be on the way this year.That's according to MacRumors contributor @SteveMoser and tipster @AppleLe257 on Twitter, although they're keen to label this as a 'rumor' rather than a 'leak' – so it sounds like it's something that's been heard in passing from inside sources, rather than something there is hard evidence for.
+
+
