@@ -11702,3 +11702,53 @@
 > TL;DR: The 2021 Complete Digital Marketing for Beginners Bundle is on sale for £31.83 as of May 22, saving you 98% on list price. Every corner of the world wide web is rife with marketing opportunities. Whether you're trolling on Facebook, lurking Reddit, watching hours of YouTube content, or endlessly scrolling Instagram, there are dozens of ways to leverage these platforms to build your brand and earn some cash. But you can't just go about it all willy-nilly; you need to know what you're doing to make it worthwhile.
 
 
+***
+![DeepMind reportedly lost a yearslong bid to win more independence from Google](https://external-preview.redd.it/adXzlz3EVXTXFSt23Q6MuhyEHwdzdIPDlLHpCbNBQlU.jpg?auto=webp&s=4b2cfc403760d1b89eaf12068b2096d494fda6b4 "DeepMind reportedly lost a yearslong bid to win more independence from Google")
+
+
+[DeepMind reportedly lost a yearslong bid to win more independence from Google](https://www.reddit.com/r/technology/comments/nic2fs/deepmind_reportedly_lost_a_yearslong_bid_to_win/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Bootcamp with non apple bios RX480 on 5,1 cMP?](https://images.macrumors.com/social/?t=2297162&v=6 "Bootcamp with non apple bios RX480 on 5,1 cMP?")
+
+
+[Bootcamp with non apple bios RX480 on 5,1 cMP?](https://forums.macrumors.com/threads/bootcamp-with-non-apple-bios-rx480-on-5-1-cmp.2297162/)
+
+
+> May 19, 2020 31 8 Sydney, Australia Just wondering if I can/or how to use boot camp on my 2012 5,1 with a non Apple bios Sapphire RX480? Can it be done with startup disk mode? In other words, boot in to Mac OS as usual, then select the Windows startup disk to restart in? Id rather not go throught the process or bios flashing the RX480 or using open core if I can avoid it... Cheers Last edited: A moment ago
+
+
+***
+![WhatsApp Says Still Discussing Data Collection Update in Turkey](https://i.gadgets360cdn.com/large/whatsapp_reuters_1572763148535.jpg "WhatsApp Says Still Discussing Data Collection Update in Turkey")
+
+
+[WhatsApp Says Still Discussing Data Collection Update in Turkey](https://gadgets.ndtv.com/apps/news/whatsapp-privacy-policy-update-facebook-user-data-collection-privacy-turkey-2447093)
+
+
+> The messaging app WhatsApp said on Friday it was still discussing the rollout of an update in Turkey, despite a statement from Turkey's Competition Board saying the update would not be issued.WhatsApp updated its terms of service in January, saying it was reserving the right of its owner Facebook and its subsidiaries to collect user data such as phone numbers and locations. This triggered a backlash in Turkey and a probe by the Competition Board."It is not the case that we no longer intend to roll out the update in Turkey.
+
+
+***
+![#TECH: One-third of global businesses now use AI](https://assets.nst.com.my/images/articles/botsibmai_NSTfield_image_socialmedia.var_1621661563.jpg "#TECH: One-third of global businesses now use AI")
+
+
+[#TECH: One-third of global businesses now use AI](https://www.nst.com.my/lifestyle/bots/2021/05/692148/tech-one-third-global-businesses-now-use-ai)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![How to stop Messages from using 20GB.](https://images.macrumors.com/social/?t=2297161&v=6 "How to stop Messages from using 20GB.")
+
+
+[How to stop Messages from using 20GB.](https://forums.macrumors.com/threads/how-to-stop-messages-from-using-20gb.2297161/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Seriously, is there a way to reduce the amount that's locally cached? I use iMessage in iCloud on my phone for the same reason, to prevent egregious local storage use. It seems to take about 4-5GB worth of the most recent on there before kicking it to the cloud. I only have a 256GB Mac and 20GB is a lot to be using before it goes to the cloud.
+
+
