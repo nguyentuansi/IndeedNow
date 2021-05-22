@@ -11802,3 +11802,40 @@
 > HighlightsDating in the times of coronavirus can be tough, but the apps are working towards making your experience safer.US President Joe Biden had instructed all the dating apps in the US to display vaccination statuses of the users on their profileshe apps would also provide special offers to the users who are fully vaccinated or have received their first dose.Dating in the times of coronavirus can be tough, but the apps are working towards making your experience safer. It is now being reported that dating app users will now able to display the status of their vaccination on their profiles.
 
 
+***
+![Can Google and Samsung's Wear OS take on the Apple Watch? It's complicated](https://www.cnet.com/a/img/-wDMBoQYkF4adpQPhASGmtthuwA=/1200x630/2019/05/07/b297f521-f5b9-4c54-9f5f-079523b743b6/google-io-2019-watch-os-0909.jpg "Can Google and Samsung's Wear OS take on the Apple Watch? It's complicated")
+
+
+[Can Google and Samsung's Wear OS take on the Apple Watch? It's complicated](https://www.cnet.com/news/can-google-and-samsungs-wear-os-take-on-the-apple-watch-its-complicated/)
+
+
+> James Martin/CNET Google had big ambitions with its wearable software, Wear OS. But for the past few years, it's stagnated and Apple has taken an even bigger lead in the global smartwatch market. A new partnership with Samsung announced on Tuesday at Google I/O could give Wear OS the attention it needs to stay relevant. But it won't catch up to Apple unless it seriously addresses some of the biggest issues that have plagued its smartwatches over the past few years.Here are the things Google's new Wear OS needs to do to be a viable competitor to the Apple Watch.
+
+
+***
+![I Look for Aliens for a Living, and No, I Don't Study UFOs](https://compote.slate.com/images/a878c65c-26c3-4922-855f-7a9105ec7fa5.jpeg?width=780&height=520&rect=2208x1472&offset=0x0 "I Look for Aliens for a Living, and No, I Don't Study UFOs")
+
+
+[I Look for Aliens for a Living, and No, I Don't Study UFOs](https://slate.com/technology/2021/05/ufos-seti-science-astrobiology.html)
+
+
+> I once discovered aliens! I was really excited for about two days. Turned out my 'aliens' were actually a subtle glitch in the camera and telescope we were using that took a while to hunt down. I was privately embarrassed, but fortunately I hadn't told anyone outside my team about it until we had figured it all out. That caution came about because as a SETI (or search for extraterrestrial intelligence) scientist, I'm a professional skeptic. I always treat my results—especially my 'huge if true' results—with the most skepticism I can muster.
+
+
+***
+[TechExt.com](https://www.namepros.com/threads/techext-com.1239803/)
+
+
+> Hi domainers, Could you please appraise Techext.com Thanks in advance!
+
+
+***
+![Oppo Reno 5A With IP68-Certified Build, Quad Rear Cameras Launched](https://i.gadgets360cdn.com/large/oppo_reno_5a_image_1621675398634.jpg "Oppo Reno 5A With IP68-Certified Build, Quad Rear Cameras Launched")
+
+
+[Oppo Reno 5A With IP68-Certified Build, Quad Rear Cameras Launched](https://gadgets.ndtv.com/mobiles/news/oppo-reno-5a-price-launch-sale-date-june-specifications-2447245)
+
+
+> Oppo Reno 5A has been launched in Japan with IP68 certification. The new Oppo phone comes with quad rear cameras and features a 90Hz display. Other key highlights of the Oppo Reno 5A include a Qualcomm Snapdragon 765G SoC, 128GB storage, and a hole-punch design. The smartphone also comes preloaded with artificial intelligence (AI) backed features, such as an Ultra Night Video, Live HDR, and Neon Portrait. It is also capable of recording videos from both front and rear cameras simultaneously.Oppo Reno 5A availabilityOppo Reno 5A price is yet to be revealed.
+
+
