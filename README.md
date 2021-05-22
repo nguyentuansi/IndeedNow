@@ -11939,3 +11939,53 @@
 > (Image credit: Apple) The 7th-gen iPod touch we saw appear in 2019 was something of a surprise – before that, Apple hadn't refreshed its dedicated music player since 2015 – but apparently the pocketable jukebox isn't dead yet, with another model rumored to be on the way this year.That's according to MacRumors contributor @SteveMoser and tipster @AppleLe257 on Twitter, although they're keen to label this as a 'rumor' rather than a 'leak' – so it sounds like it's something that's been heard in passing from inside sources, rather than something there is hard evidence for.
 
 
+***
+![Elon Musk says he supports crypto over fiat currency in reaction to Bitcoin backlash](https://static.independent.co.uk/2021/05/22/16/iStock-487177963.jpg?width=1200&auto=webp&quality=75 "Elon Musk says he supports crypto over fiat currency in reaction to Bitcoin backlash")
+
+
+[Elon Musk says he supports crypto over fiat currency in reaction to Bitcoin backlash](https://www.independent.co.uk/life-style/gadgets-and-tech/musk-bitcoin-cryptocurrency-twitter-support-b1852145.html)
+
+
+> Elon Musk says that he supports crypto over traditional fiat currency in a reaction to the Bitoin backlash he has faced.Bitcoin and other cryptocurrencies have dramatically slumped since the Tesla CEO announced his company would no longer accept it as payment for their electric vehicles.Musk addressed the situation on Twitter on Saturday and threw his weight firmly behind cryptocurrencies.'The true battle is between fiat & crypto. On balance, I support the latter,' Musk tweeted in response to a follower who asked him about the anger he has faced.
+
+
+***
+![India orders removal of content referring to ‘Indian variant'](https://external-preview.redd.it/DbtfyMfRj0PqvYw4xUvBQXPVEqDSZQRINxo3rLa939g.jpg?auto=webp&s=70ef98bbe493d5f8b32828d451241d2a2a5f0cb2 "India orders removal of content referring to ‘Indian variant'")
+
+
+[India orders removal of content referring to ‘Indian variant'](https://www.reddit.com/r/technology/comments/nilszc/india_orders_removal_of_content_referring_to/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Will your old case fit your new iPad Pro?](https://pocketnow.com/wp/../files/2021/04/iPAd-Pro-convertible-641x395.jpg "Will your old case fit your new iPad Pro?")
+
+
+[Will your old case fit your new iPad Pro?](https://pocketnow.com/will-old-case-fit-new-ipad-pro)
+
+
+> Will your old case fit your new iPad Pro? The answer isn't as simple as a simple yes or no. It's a bit more complicated but we'll explain. The post Will your old case fit your new iPad Pro? appeared first on Pocketnow.
+
+
+***
+![Cleer Enduro ANC review](https://cdn.mos.cms.futurecdn.net/tWTop7Wt7SyN5yeZqe3V93-1200-80.jpg "Cleer Enduro ANC review")
+
+
+[Cleer Enduro ANC review](https://www.laptopmag.com/reviews/cleer-enduro-anc)
+
+
+> Cleer is a California-based brand that has released solid audio products over the years. The Flow series, which consists of two wireless ANC models, has earned favorable reviews, giving consumers premium sound and noise cancellation for under $200. In an attempt to expand their market presence, Cleer launched the Enduro ANC, a more affordable alternative that carries over signature hardware from its pricier siblings, while introducing new jaw-dropping hallmarks.The sound on these headphones is bold and dynamic, while noise cancellation is up to par with what Cleer has given us in the past.
+
+
+***
+![Here's what you need to know about the Cricut Explore 3 and Cricut Maker 3](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/cricut-maker-3-lifestyle-hero.jpeg "Here's what you need to know about the Cricut Explore 3 and Cricut Maker 3")
+
+
+[Here's what you need to know about the Cricut Explore 3 and Cricut Maker 3](https://www.imore.com/cricut-explore-3-and-cricut-maker-3-everything-you-need-know)
+
+
+> Source: Karen S. Freeman / iMore Cricut Explore 3 and Cricut Maker 3 are the latest iterations of the company's DIY cutting and crafting machines. Following up on the Cricut Explore Air 2 and the Cricut Maker 2, the new models have added abilities, and they can cut twice as fast. The most notable new feature is that the new machines can cut matless with Cricut's new Smart Materials, which can be fed directly into the machines. Source: Karen S. Freeman / iMore From a design viewpoint, almost nothing has changed in this new generation of Cricut machines.
+
+
