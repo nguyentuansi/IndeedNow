@@ -11989,3 +11989,50 @@
 > Source: Karen S. Freeman / iMore Cricut Explore 3 and Cricut Maker 3 are the latest iterations of the company's DIY cutting and crafting machines. Following up on the Cricut Explore Air 2 and the Cricut Maker 2, the new models have added abilities, and they can cut twice as fast. The most notable new feature is that the new machines can cut matless with Cricut's new Smart Materials, which can be fed directly into the machines. Source: Karen S. Freeman / iMore From a design viewpoint, almost nothing has changed in this new generation of Cricut machines.
 
 
+***
+![Redefining—and making a case for—resume-driven development](https://external-preview.redd.it/mUopH2YQDioCx5FOhdfLu1bu-j7f6I8HailjgLGyFTI.jpg?auto=webp&s=ef871780841d9e0cab8d0b86cb9afb1666c55684 "Redefining—and making a case for—resume-driven development")
+
+
+[Redefining—and making a case for—resume-driven development](https://www.reddit.com/r/programming/comments/niolhj/redefiningand_making_a_case_forresumedriven/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[I came across this video about responsive design and I think it's worth sharing](https://www.reddit.com/r/programming/comments/niocsf/i_came_across_this_video_about_responsive_design/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Billboards? Nah, just buy a media company instead – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-85832974.jpg?w=533 "Billboards? Nah, just buy a media company instead – TechCrunch")
+
+
+[Billboards? Nah, just buy a media company instead – TechCrunch](https://techcrunch.com/2021/05/22/billboards-nah-just-buy-a-media-company-instead/)
+
+
+> Startups used to be obsessed with billboards. It was the first thing I noticed when I moved to San Francisco: venture-backed companies including Eaze, Airbnb, and notoriously, Brex, would post large billboard advertisements all over the city to grab attention and eyeballs. When I dug into it more, I learned this type of old school, outdoor advertising was a response to the increasingly crowded online channels, such as Facebook and Instagram advertisements. Well, folks, years later, we have a new response to crowded marketing channels: Ditch the billboards and just buy a media company instead.
+
+
+***
+![Live updates: Eurovision 2021 Grand Final performances and ratings](https://www.cnet.com/a/img/dDSfsMkhscXIhC2Teo4p63ogU28=/1200x630/2021/05/21/23ce3c1c-abc4-43e4-9a15-25a45f4c90c4/eurovision-2021.jpg "Live updates: Eurovision 2021 Grand Final performances and ratings")
+
+
+[Live updates: Eurovision 2021 Grand Final performances and ratings](https://www.cnet.com/news/live-updates-eurovision-2021-grand-final-performances-and-ratings/)
+
+
+> The Eurovision 2021 Grand Final is on Saturday. Eurovision Song Contest Welcome to the Grand Final of the Eurovision Song Contest 2021! A competition two years in the making after it was cancelled in 2020 due to COVID-19. Today, we'll see the 26 finalists battle it out for the coveted Eurovision trophy. (Here's how to watch Eurovision.)On Saturday, the highest-scoring entries from the two semifinals, along with the Big Five -- Germany, France, the UK, Italy and Spain, which bankroll the competition -- and the previous winner, the Netherlands, are competing to take home the ultimate singing prize in Europe.
+
+
+***
+![How to watch Eurovision 2021: Live stream the Eurovision Song Contest](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/eurovision-2021.jpg "How to watch Eurovision 2021: Live stream the Eurovision Song Contest")
+
+
+[How to watch Eurovision 2021: Live stream the Eurovision Song Contest](https://www.androidcentral.com/eurovision-2021-live-stream-how-watch-eurovision-song-contest-online-anywhere)
+
+
+> It's been a two year wait, but the highly competitive and often surreal annual event that is the Eurovision Song Contest returns tonight for its 65th edition. Don't miss a moment with our guide to getting a Eurovision 2021 live stream. Source: Eurovision Bringing together European countries, as well as Australia and Israel, the singing competition sees acts representing each nation belt out a succession of sometimes catchy but often weird numbers, with a complicated and often controversial voting system deciding the winner.
+
+
