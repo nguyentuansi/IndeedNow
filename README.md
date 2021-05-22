@@ -11558,3 +11558,53 @@
 > Silicon Valley companies used to boast of their openness; today they boast of their censorship. Facebook has released its quarterly 'community standards enforcement report.' In the data, the social network revealed that the prevalence of so-called hate speech on the platform last quarter was 0.05-0.06 percent — half of its prevalence in the third quarter of 2020. In Facebook's post summarizing the data, the tech giant also boasted of its use of artificial intelligence to censor so-called hate speech.
 
 
+***
+![Snap CEO happy to pay Apple 30%, says they wouldn't exist without iPhone](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/snapchat-ceo-says-performance-improvements-are-coming-to-the-android-application.jpg "Snap CEO happy to pay Apple 30%, says they wouldn't exist without iPhone")
+
+
+[Snap CEO happy to pay Apple 30%, says they wouldn't exist without iPhone](https://www.imore.com/snap-ceo-happy-pay-apple-30-says-they-wouldnt-exist-without-iphone)
+
+
+> Source: Snapchat Snapchat is happy to pay the "Apple tax," according to Snap CEO Even Spiegel. In an interview with CNBC, the CEO of the social media company says that they did not have an issue paying Apple's 30% commission on in-app purchases, saying that the company would not exist without the iPhone. "We really feel like Snapchat wouldn't exist without the iPhone and without the amazing platform that Apple has created," Spiegel said on TechCheck. "In that sense, I'm not sure we have a choice about paying the 30% fee, and of course, we're happy to do it in exchange for all of the amazing technology that they provide to us in terms of the software but also in terms of their hardware advancements.
+
+
+***
+![Apple updates its age rating settings for developers on App Store Connect](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/05/app-store-5-19-iphone-xs-max-hero.jpeg "Apple updates its age rating settings for developers on App Store Connect")
+
+
+[Apple updates its age rating settings for developers on App Store Connect](https://www.imore.com/apple-updates-its-age-rating-settings-developers-app-store-connect)
+
+
+> Source: Joe Keller / iMore Apple is giving developers more control concerning age ratings and gambling/contests apps. In a news update on the Apple Developer website, Apple has announced that it has broken out the Gambling and Contests setting into two separate settings to more accurately describe an app's content. Apple has also added the ability to access age rating settings from the App Information section in App Store Connect. To help you describe your app's content more precisely, the age rating settings in App Store Connect have been refined.
+
+
+***
+![President Biden postpones decision on blacklisting of Chinese companies](https://media.nu.nl/m/yyox4yiau887_wd1280.jpg/president-biden-stelt-besluit-over-zwarte-lijst-met-chinese-bedrijven-uit.jpg "President Biden postpones decision on blacklisting of Chinese companies")
+
+
+[President Biden postpones decision on blacklisting of Chinese companies](https://www.tellerreport.com/tech/2021-05-22-president-biden-postpones-decision-on-blacklisting-of-chinese-companies.ry0Es6Std.html)
+
+
+> US President Joe Biden takes longer to make a decision on the blacklist of Chinese companies. American companies are currently not allowed to invest in it. US President Joe Biden takes longer to make a decision on the blacklist of Chinese companies. American companies are currently not allowed to invest in it. The president is expected to make a decision two weeks later than planned, the US Treasury Department reports. Previously, the deadline was set on May 27. The Biden administration is currently examining a number of aspects of US policy for China, including the investment ban.
+
+
+***
+![Best cheap Dell XPS deals for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/dell-xps-13-9380-ry-review-1.jpg "Best cheap Dell XPS deals for May 2021")
+
+
+[Best cheap Dell XPS deals for May 2021](https://www.digitaltrends.com/dtdeals/best-cheap-dell-xps-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Dell is a household name in the PC world, and if you've used Windows computers for any length of time (even if just at school or your workplace) then you've probably laid hands on one of this brand's machines before. Decades since the consumer PC revolution, Dell is still offering up some of the best laptops out there, with its designs running the gamut from cheap workstations to high-end gaming machines and bleeding-edge 2-in-1s.
+
+
+***
+![Art Basel Hong Kong 2021: Digital Transformation Amidst the Pandemic](https://mms.businesswire.com/media/20210521005540/en/880349/23/Most_Used_Red_Junk_Black_Logotype_Eng_%2B_TC_Vertical-01.jpg "Art Basel Hong Kong 2021: Digital Transformation Amidst the Pandemic")
+
+
+[Art Basel Hong Kong 2021: Digital Transformation Amidst the Pandemic](https://www.businesswire.com/news/home/20210521005540/en/Art-Basel-Hong-Kong-2021-Digital-Transformation-Amidst-the-Pandemic)
+
+
+> May 21, 2021 08:04 PM Eastern Daylight Time HONG KONG & LOS ANGELES--(BUSINESS WIRE)--When the 2020 edition was cancelled due to COVID-19, the future of Art Basel Hong Kong and other in-person art fairs was called into question. But the iconic Hong Kong event has a plan in place to weather the storm with a shift to a hybrid format, an embrace of digitalisation, and a focus on the safety of collectors, gallerists and art aficionados. Over two thirds of global art fairs planned in 2020 were cancelled.
+
+
