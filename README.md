@@ -11752,3 +11752,53 @@
 > Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Seriously, is there a way to reduce the amount that's locally cached? I use iMessage in iCloud on my phone for the same reason, to prevent egregious local storage use. It seems to take about 4-5GB worth of the most recent on there before kicking it to the cloud. I only have a 256GB Mac and 20GB is a lot to be using before it goes to the cloud.
 
 
+***
+![14.5.1 Battery RIP? iPhone SE](https://images.macrumors.com/social/?t=2297179&v=6 "14.5.1 Battery RIP? iPhone SE")
+
+
+[14.5.1 Battery RIP? iPhone SE](https://forums.macrumors.com/threads/14-5-1-battery-rip-iphone-se.2297179/)
+
+
+> Hi Battery life on my iPhone SE is so poor now in 14.5.1 ! (it started with 14.5) Thought it had to do with the battery, installed a new but problem still is there ... Battery health 100% now Turned everything off and in airplane mode it uses 40% overnight If I power off the phone it uses 25% overnight. (with the old battery too) in 14.4.2 the phone lost 1-2% overnight with the old battery when powered off ... Did a factory reset with a new 14.5.1 ... same **** ! The phone is pretty unusable now ! Anyone got a clue what Apple been doing ? and how to fix it ? If I could I would downgrade it to 14.
+
+
+***
+![Discover Madrid by tuk tuk (and other alternative vehicles)](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/05/14/16209962526554.jpg "Discover Madrid by tuk tuk (and other alternative vehicles)")
+
+
+[Discover Madrid by tuk tuk (and other alternative vehicles)](https://www.tellerreport.com/tech/2021-05-22-discover-madrid-by-tuk-tuk-(and-other-alternative-vehicles).BJfvI8VLt_.html)
+
+
+> Touring Madrid is one of the most desirable plans that can be carried out in spring. But if walking from one point to another is not your thing, here are some ideas to do it Touring Madrid is one of the most desirable plans that can be carried out in spring. But if walking from one point to another is not your thing, here are some ideas to do it aboard the most diverse transports. By tuk tuk This popular vehicle, very typical in countries like Thailand or Sri Lanka, is nothing more than the motorized version of the Indian rickshaw.
+
+
+***
+![iGear Super Fan review: Cool air without wires](https://images.indianexpress.com/2021/05/iGear-fan.jpg "iGear Super Fan review: Cool air without wires")
+
+
+[iGear Super Fan review: Cool air without wires](https://indianexpress.com/article/technology/tech-reviews/igear-super-fan-review-7325523/)
+
+
+> As most of us resumed work from home or entered the first full year of being away from office, we have realised how home offices come with its fair share of inconveniences. Often the best place to sit might not be the most comfortable, of the most comfortable place might not be the best to work from long hours. So over the past few months, we have all added accessories that make our WFH desks better places. I for one have invested in a bunch of stuff from foot rests to a full study table and sturdy chair.
+
+
+***
+!['Fake' Elon Musk stole two million dollars in cryptocurrency](http://www.tellerreport.com/images/no-image.png "'Fake' Elon Musk stole two million dollars in cryptocurrency")
+
+
+['Fake' Elon Musk stole two million dollars in cryptocurrency](https://www.tellerreport.com/tech/2021-05-22--fake--elon-musk-stole-two-million-dollars-in-cryptocurrency.SyK6IE48FO.html)
+
+
+> People posing as Tesla boss have robbed investors since October The US competition agency, the FTC, announced on Monday that people posing as Elon Musk have stolen more than $ 2 million from investors since October in cryptocurrency scams. This type of scam is based on "the promise that a celebrity associated with cryptocurrencies will multiply the cryptocurrencies you send to their wallet and send them back to you," the structure indicates. The tweets and pu The US competition agency, the FTC, announced on Monday that people posing as Elon Musk have stolen more than $ 2 million from investors since October in cryptocurrency scams.
+
+
+***
+![Tinder, Bumble and other dating apps will now add badges to your profile if you are vaccinated](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/rtxci73h-483x271_1200_210522130757.png "Tinder, Bumble and other dating apps will now add badges to your profile if you are vaccinated")
+
+
+[Tinder, Bumble and other dating apps will now add badges to your profile if you are vaccinated](https://www.indiatoday.in/technology/news/story/tinder-bumble-and-other-dating-apps-will-now-add-badges-to-your-profile-if-you-are-vaccinated-1805667-2021-05-22)
+
+
+> HighlightsDating in the times of coronavirus can be tough, but the apps are working towards making your experience safer.US President Joe Biden had instructed all the dating apps in the US to display vaccination statuses of the users on their profileshe apps would also provide special offers to the users who are fully vaccinated or have received their first dose.Dating in the times of coronavirus can be tough, but the apps are working towards making your experience safer. It is now being reported that dating app users will now able to display the status of their vaccination on their profiles.
+
+
