@@ -12562,3 +12562,50 @@
 > Scarlet Nexus is a cross-gen action RPG from Bandai Namco Studios. The game's director, Kenji Anabuki, has worked on several Tales games including Tales of Vesperia and the upcoming Tales of Arise. Coupled with a futuristic, psychokinetic-infused setting inspired by the cyberpunk genre, referred to as brainpunk, Scarlet Nexus is a promising new IP. A public demo is out on Xbox platforms with a PlayStation demo releasing May 28th. Does this demo follow through on any of the game's potential? Dual Storyline Scarlet Nexus prides itself on its dual-protagonists.
 
 
+***
+![Bitcoin latest news LIVE  – Elon Musk backs crypto AGAIN after market price crash triggers frantic stock sell-off](https://www.thesun.co.uk/wp-content/uploads/2021/05/crypto-1-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin latest news LIVE  – Elon Musk backs crypto AGAIN after market price crash triggers frantic stock sell-off")
+
+
+[Bitcoin latest news LIVE  – Elon Musk backs crypto AGAIN after market price crash triggers frantic stock sell-off](https://www.thesun.co.uk/tech/15015192/bitcoin-price-news-latest-elon-musk-market-crash-live/)
+
+
+> BITCOIN value is STILL down as question marks hang over whether cryptocurrency markets can recover. Cryptocurrencies including Bitcoin suffered dramatically since Musk announced that his company Tesla would not longer accept the payment for their vehicles. Reacting to last weeks backlash after one person asked him about the anger he faced, Musk tweeted: 'The true battle is between fiat & crypto. On balance, I support the latter.' Meanwhile, a successful divorce lawyer has said she has seen a five-fold increase in divorce inquiries revolving around cryptocurrency since 2017.
+
+
+***
+[Bitcoin latest news LIVE  – Elon Musk backs crypto AGAIN after market price crash triggers frantic stock sell-off](https://www.thesun.ie/tech/7021042/bitcoin-price-news-latest-elon-musk-market-crash-live/)
+
+
+> BITCOIN value is STILL down as question marks hang over whether cryptocurrency markets can recover. Cryptocurrencies including Bitcoin suffered dramatically since Musk announced that his company Tesla would not longer accept the payment for their vehicles. Reacting to last weeks backlash after one person asked him about the anger he faced, Musk tweeted: 'The true […]
+
+
+***
+![Displays on the 2021 MBPs](https://images.macrumors.com/social/?t=2297433&v=6 "Displays on the 2021 MBPs")
+
+
+[Displays on the 2021 MBPs](https://forums.macrumors.com/threads/displays-on-the-2021-mbps.2297433/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. So as we are only about 2 weeks away from the WWDC what do you guys think that we will get in terms of the displays on the new MBPs? Just the same old display tech or a better Lcd display with higher max. brightness and better contrast ratio or the Mini-LED? Jul 25, 2007 22,020 25,733 California So as we are only about 2 weeks away from the WWDC what do you guys think that we will get in terms of the displays on the new MBPs? Just the same old display tech or a better Lcd display with higher max.
+
+
+***
+![Impact of IC Shortage Extends Beyond Automotive](https://external-preview.redd.it/g9F5DfZDoHEeHufqKz8re6LsxDcSaQ4yT4UgvO3ghwQ.jpg?auto=webp&s=106d54c6f4eacdf222a1c8ab26f825ea8397ba7f "Impact of IC Shortage Extends Beyond Automotive")
+
+
+[Impact of IC Shortage Extends Beyond Automotive](https://www.reddit.com/r/technology/comments/njdb0r/impact_of_ic_shortage_extends_beyond_automotive/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The PS5 will be even harder to buy soon – here's why and how to find it in stock](https://cdn.mos.cms.futurecdn.net/fP9n7TiXYWHXquBZVcNcnD-1200-80.jpeg "The PS5 will be even harder to buy soon – here's why and how to find it in stock")
+
+
+[The PS5 will be even harder to buy soon – here's why and how to find it in stock](https://www.techradar.com/news/ps5-is-it-in-stock)
+
+
+> (Image credit: Matt Swider / Instagram) News about PS5 is about to get even grimmer if you intend to find a PS5 restock in the latter half of 2021, according to tech-industry analysts and our PS5 restock Twitter tracker Matt Swider. Matt sends instant alerts every time retailers in the US restock the next-gen Sony console – if you follow his Twitter account and turn on notifications. However, go into almost any Walmart and you'll see a sign that says "Attention Customers: These indemand items are not told in stores," listing out the PS5 Disc, PS5 Digital, Xbox Series X and Xbox Series X.
+
+
