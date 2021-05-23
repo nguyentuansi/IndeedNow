@@ -12327,3 +12327,53 @@
 > Highlights Epic Games has accused that Apple's App Store controls and commissions have created a monopoly that Apple illegally abuses. Tim Cook conceded that game developers generate most App Store revenue and help subsidize other apps on the store that pay no commission. Epic has pointed to an internal Apple document that alleges App Store has a 78% operating margin. A federal judge on Friday grilled Apple Inc Chief Executive Tim Cook over whether the iPhone maker's App Store profits from developers such as "Fortnite" maker Epic Games are justified and whether Apple faces any real competitive pressure to change its ways.
 
 
+***
+![Netflix wants to get into video games and offer Apple Arcade-like games bundle](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Webp.net-resizeimage_2-647x363.jpeg?fl77ItjEx1XhyVx1rD4FurbyJzivB7H7 "Netflix wants to get into video games and offer Apple Arcade-like games bundle")
+
+
+[Netflix wants to get into video games and offer Apple Arcade-like games bundle](https://www.indiatoday.in/technology/news/story/netflix-wants-to-get-into-video-games-and-offer-apple-arcade-like-games-bundle-1805928-2021-05-23)
+
+
+> According to a leak, the giant of the streaming would like to add a range of games to its catalog of series and movies. Determined to diversify, Netflix would also look to hire a senior executive specializing in the video game industry.The subscription-based video game service would be similar to Apple Arcade, which gives subscribers unlimited access to its selection of games. With the global gaming market now exceeding $300 billion, according to an April study by consulting firm Accenture, Netflix's move would open a new and highly lucrative stream of revenue for the streaming giant.
+
+
+***
+![Shape-shifting computer chip thwarts an army of hackers](https://external-preview.redd.it/MVK7TXpIvdDARpUOofNuYuikpc-cAw6AuhBmY_naiJc.jpg?auto=webp&s=7701b3218826b319fdaea191492a086577e961da "Shape-shifting computer chip thwarts an army of hackers")
+
+
+[Shape-shifting computer chip thwarts an army of hackers](https://www.reddit.com/r/technology/comments/nj2qh1/shapeshifting_computer_chip_thwarts_an_army_of/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Korea's top 4 groups eyeing greater presence in US market](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/4752848dad16430b9374e70cae9198e8.jpg "Korea's top 4 groups eyeing greater presence in US market")
+
+
+[Korea's top 4 groups eyeing greater presence in US market](https://www.koreatimes.co.kr/www/tech/2021/05/133_309255.html)
+
+
+> Samsung, Hyundai, SK, LG to invest $39.4 bil. in chip, battery sectorsBy Kim Bo-eunKorea's top conglomerates are set to play a larger role in the U.S. supply chain for key sectors including semiconductors and electric vehicles (EVs), after promising to invest around $40 billion to establish manufacturing plants and related infrastructure in the coming years. This is an achievement for President Joseph Biden's administration which is seeking to secure critical high-tech supplies via building value chains on the continental U.
+
+
+***
+![Bill Gates was the boy genius who was going to save the world. Now he's another #MeToo story](https://static.theprint.in/wp-content/uploads/2021/05/Bill-Gates.jpg "Bill Gates was the boy genius who was going to save the world. Now he's another #MeToo story")
+
+
+[Bill Gates was the boy genius who was going to save the world. Now he's another #MeToo story](https://theprint.in/tech/bill-gates-was-the-boy-genius-who-was-going-to-save-the-world-now-hes-another-metoo-story/662713/)
+
+
+> Bill Gates speaks during the Bloomberg New Economy Forum in Beijing, China, in November 2019 | Takaaki Iwabu | Bloomberg Text Size: New Delhi: 'He had come a long way to this blue lawn and his dreams must have been so close that he could hardly fail to grasp it.' That quote from The Great Gatsby, Melinda Gates' favourite book, is inscribed on the circular dome of the library at their 66,000 sq ft home in Medina, Washington. It may well sum up Bill Gates' life. Allegations of workplace misconduct, cheating on his wife and links to a convicted paedophile threaten to overshadow Bill Gates' reputation as a global philanthropist and his track record of building one of the biggest software companies of all time.
+
+
+***
+![I tried many Todo apps and ended up creating an extension to manage my Todo list in Vscode.](https://external-preview.redd.it/YMWZgtOwZ9VSrMKjMXUKez2kLwtS9uxgO89UwAfZH1Y.jpg?auto=webp&s=93dec1404899e3ba9ec141a51a8e7b7775eed2d1 "I tried many Todo apps and ended up creating an extension to manage my Todo list in Vscode.")
+
+
+[I tried many Todo apps and ended up creating an extension to manage my Todo list in Vscode.](https://www.reddit.com/r/programming/comments/nj2mg4/i_tried_many_todo_apps_and_ended_up_creating_an/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
