@@ -12465,3 +12465,53 @@
 > Gaming phones lie in an interesting position between flair and functionality. Most gaming phones look to provide features that diverge from the mainstream. Enter the Lenovo Legion Duel 2: a gaming-first Android smartphone which a unique aesthetic, two cooling fans, two charging ports, eight active triggers, and a pop-up camera. Even with all these novel features, is the Legion Duel 2 a winner? Find out in Android Authority's Lenovo Legion Duel 2 review. Lenovo Legion Duel 2About this Lenovo Legion Duel 2 review: I tested the Lenovo Legion Duel 2 (16GB/512GB) for seven days running software version 12.
 
 
+***
+![Virgin Galactic spaceplane makes it to boundary of space on third test flight](https://icdn.digitaltrends.com/image/digitaltrends/unity21-vssunityinspaceovernewmexico1.jpg "Virgin Galactic spaceplane makes it to boundary of space on third test flight")
+
+
+[Virgin Galactic spaceplane makes it to boundary of space on third test flight](https://www.digitaltrends.com/news/virgin-galactic-third-test-flight/)
+
+
+> VSS Unity in space over New Mexico Virgin Galactic After a few stumbles, Virgin Galactic has succeeded in its third test flight of its new spaceplane, which will be available for space tourism flights in the future. The VSS Unity, one of Virgin Galactic's SpaceShipTwo models, launched from Spaceport American in New Mexico on Saturday, May 22. VSS Unity is carried to altitude by a mothership, VMS Eve, from which it was released and hit a speed of Mach 3. Piloted by CJ Sturckow and Dave Mackay, Unity reached an altitude of 55.
+
+
+***
+![China's Zhurong rover rolls onto Martian surface for first time](https://icdn.digitaltrends.com/image/digitaltrends/sizigpkpx22k4gupf48am3-970-801.jpg "China's Zhurong rover rolls onto Martian surface for first time")
+
+
+[China's Zhurong rover rolls onto Martian surface for first time](https://www.digitaltrends.com/news/china-zhurong-rover-surface/)
+
+
+> Mars is getting busy, with NASA's Perseverance and Curiosity rovers and InSight landers being joined by a new explorer: China's Zhurong rover. Arriving last week and recently sending back its first images from the red planet, Zhurong has now rolled onto the martian surface for the first time. The view from the Zhurong rover as it deploys from its lander. CNSA The rover made it through the grueling entry, descent, and landing phase in which the lander has to pass through the thin Martian atmosphere and slow itself enough to touch down gently on the surface.
+
+
+***
+![Peacefully game on your Switch Lite with these great headphones](https://www.imore.com/sites/imore.com/files/styles/large/public/article_images/2020/05/razer-opus-headset-a8x7.jpg "Peacefully game on your Switch Lite with these great headphones")
+
+
+[Peacefully game on your Switch Lite with these great headphones](https://www.imore.com/best-headphones-nintendo-switch-lite)
+
+
+> Best headphones for Nintendo Switch Lite iMore 2021 Did you just pick up a Nintendo Switch Lite? Awesome! You're going to find a ton of games to enjoy on your new handheld portable gaming machine. But what if you want to game around others without disturbing them? You're going to want to pick up a good pair of earbuds or headphones. There are plenty of different options to choose from, so where do you even start? Don't worry! We've rounded up some of the best choices that fit a variety of styles and budgets — check out the best Switch Lite headphones and earbuds for you! Are you looking for a pair of quality wireless earbuds? Then look no further.
+
+
+***
+![Apple's software chief blames Mac security to keep grip on iPhone App Store](https://images.indianexpress.com/2021/05/Craig-Federighi.jpg "Apple's software chief blames Mac security to keep grip on iPhone App Store")
+
+
+[Apple's software chief blames Mac security to keep grip on iPhone App Store](https://indianexpress.com/article/technology/tech-news-technology/apples-software-chief-faults-mac-security-to-keep-grip-on-iphone-app-store-7326995/)
+
+
+> Apple Inc.'s top software engineer criticized the security of his own Mac operating system in a bid to explain why the company shouldn't be forced by a judge to loosen its hold over iPhone and iPad app distribution, as Epic Games Inc. is demanding. Craig Federighi, Apple's senior vice president of software engineering, testified Wednesday at a trial in federal court in Oakland, California, that his experience with imported malware on the macOS system shows how security would be eroded if the company allowed iPhone and iPad users to install software from the web or other stores, as it does on the Mac.
+
+
+***
+![Python Dictionaries](https://external-preview.redd.it/Zp2wbd7n4i3ZNluw1sAR6MleVlxWXDn4fBlWKNVTbNk.jpg?auto=webp&s=8363554508a87fbd48de1f84db4cccbe0e72fef4 "Python Dictionaries")
+
+
+[Python Dictionaries](https://www.reddit.com/r/Python/comments/nj7spv/python_dictionaries_youtube_keyword_planner_series/)
+
+
+> Hey everyone, I hope you all are having a great day. I run a YouTube channel called Islander Robotics. Where I teach you all robotics through programming. Currently, on my channel, we are working on a YouTube keyword planner project series. In each episode, we dive into all the important functions needed to build the software successfully. This week we are diving into the crazy data structure we call python dictionaries. By the end of the video, you will be able to implement and operate a python dictionary properly and get a real-world application of python.
+
+
