@@ -12515,3 +12515,50 @@
 > Hey everyone, I hope you all are having a great day. I run a YouTube channel called Islander Robotics. Where I teach you all robotics through programming. Currently, on my channel, we are working on a YouTube keyword planner project series. In each episode, we dive into all the important functions needed to build the software successfully. This week we are diving into the crazy data structure we call python dictionaries. By the end of the video, you will be able to implement and operate a python dictionary properly and get a real-world application of python.
 
 
+***
+[Google Assistant might be able to turn off your Android phone soon](https://mobilesyrup.com/2021/05/23/google-assistant-might-be-able-turn-off-your-android-phone-soon/)
+
+
+> Google Assistant might get the ability to power off your Android phone with your voice in a future update. 9to5Google reports that hints of the feature were discovered in the code of a beta version of the Google Search app. The beta includes an explainer for upcoming ways to use the Assistant. The explainer includes... The post Google Assistant might be able to turn off your Android phone soon appeared first on MobileSyrup.
+
+
+***
+![A tutorial on how to organize a Selenium Bot Project being a more production-ready project, Dynamically adding Driver to PATH, and the ability to run the project from a CLI more smoothly.](https://external-preview.redd.it/FW5oeru8ZGtDL-jBmPqXOUc7LZttJJWH2R62liTxXyo.jpg?auto=webp&s=e627964472bbbeccaa32389c85491436b2e22a75 "A tutorial on how to organize a Selenium Bot Project being a more production-ready project, Dynamically adding Driver to PATH, and the ability to run the project from a CLI more smoothly.")
+
+
+[A tutorial on how to organize a Selenium Bot Project being a more production-ready project, Dynamically adding Driver to PATH, and the ability to run the project from a CLI more smoothly.](https://www.reddit.com/r/Python/comments/njaoqa/a_tutorial_on_how_to_organize_a_selenium_bot/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Spotify Price: What Each Plan Costs & Which To Sign Up For](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/05/spotify-iphone-app-spotify-logo.jpg "Spotify Price: What Each Plan Costs & Which To Sign Up For")
+
+
+[Spotify Price: What Each Plan Costs & Which To Sign Up For](https://screenrant.com/spotify-premium-price-plans-individual-family-student-differences/)
+
+
+> Spotify is one of the best music streaming apps available, with one of the many reasons being its pricing options. Whether users listen for free, get an individual Premium account, or get one for a large family, there's a Spotify plan for virtually everyone. While Spotify can be listened to for free, most people will want to sign up for a Spotify Premium plan. Premium members don't have to listen to ads, can download songs for offline playback, can listen to any song on-demand, and can skip as many tracks as they'd like.
+
+
+***
+![There was no dull moment this week for Apple fans](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/ipad-pro-129-2021-review-21.jpg "There was no dull moment this week for Apple fans")
+
+
+[There was no dull moment this week for Apple fans](https://www.imore.com/editors-desk-never-dull-moment-apple)
+
+
+> Editor's desk WWDC is coming, potential new Apple Watch Series 7 redesign, and the AirPods Max/Apple Music lossless débâcle continues. 23 May 2021 Source: Daniel Bader / Android Central We're approaching the end of May already, believe it or not. Seriously, where does the time go? I suppose it also helps that there was a lot of stuff that happened in the Apple world this week, so let's just get started. First off, we're just a few weeks away from WWDC 2021, and we are definitely excited. We already have a lean list of what to expect from this year's WWDC, and I'm personally excited to hopefully see some more improvements to iOS 15 customization.
+
+
+***
+![Scarlet Nexus' Promise Outstrips Any Warning Signs](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/Scarlet%20Nexus%20Character%20Select%20Screen.jpg?itok=fxkXVGBw "Scarlet Nexus' Promise Outstrips Any Warning Signs")
+
+
+[Scarlet Nexus' Promise Outstrips Any Warning Signs](https://techraptor.net/gaming/previews/scarlet-nexus-preview)
+
+
+> Scarlet Nexus is a cross-gen action RPG from Bandai Namco Studios. The game's director, Kenji Anabuki, has worked on several Tales games including Tales of Vesperia and the upcoming Tales of Arise. Coupled with a futuristic, psychokinetic-infused setting inspired by the cyberpunk genre, referred to as brainpunk, Scarlet Nexus is a promising new IP. A public demo is out on Xbox platforms with a PlayStation demo releasing May 28th. Does this demo follow through on any of the game's potential? Dual Storyline Scarlet Nexus prides itself on its dual-protagonists.
+
+
