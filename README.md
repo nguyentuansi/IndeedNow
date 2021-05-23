@@ -12136,3 +12136,53 @@
 > Even when Rep. Alexandria Ocasio-Cortez takes much-needed breathers from the onslaught of political pressure she faces, the Congresswoman is still doing work for her community. The Representative of New York's 14th district (which includes areas of the Bronx and Queens largely populated by Latinx folks) sat down with PRX's Latino USA for an intimate, mask-off interview released on Saturday. Among the many topics covered, she focused on the unique hardships Latinx people faced throughout Donald Trump's time in office and during the pandemic especially.
 
 
+***
+![The Real Housewives of New York City Recap: Cancel Consolation and The Real Housewives of New York City Recap: Cancel Consolation](https://https://www.thearkatech.com/img/news_img/all/10768_5_1200.pic "The Real Housewives of New York City Recap: Cancel Consolation and The Real Housewives of New York City Recap: Cancel Consolation")
+
+
+[The Real Housewives of New York City Recap: Cancel Consolation and The Real Housewives of New York City Recap: Cancel Consolation](https://www.thearkatech.com/en/53177/)
+
+
+> © Instagram / real housewives of new york By: Sophia Moore2021-05-23 03:15:29 Last News: 12 Joe Manganiello Movies And TV Shows To Watch Streaming. Moriya Jutanugarn tied for lead heading into final day of Pure Silk Championship. I, Too, Rage America. To The Point: Gov. Whitmer, President Biden and Rep. Vanwoerkom. Trading Julio Jones is a massive gamble for the Atlanta Falcons. Weekend Festivities At Navy Pier Just The Latest Sign Of Hope For Some Return To Normalcy This Summer. Cicadas finally emerging? We know how they feel (Welcome to Montclair).
+
+
+***
+![Ray Donovan season 7 episode 7 promo: Ray and Molly's mission and Ray Donovan season 7: Does the show need another big name?](https://https://www.thearkatech.com/img/news_img/all/10764_3_1200.pic "Ray Donovan season 7 episode 7 promo: Ray and Molly's mission and Ray Donovan season 7: Does the show need another big name?")
+
+
+[Ray Donovan season 7 episode 7 promo: Ray and Molly's mission and Ray Donovan season 7: Does the show need another big name?](https://www.thearkatech.com/en/53176/)
+
+
+> © Instagram / ray donovan season 7 By: Christopher Taylor2021-05-23 03:13:30 Last News: Ray Donovan season 7: Does the show need another big name? and Ray Donovan season 7 episode 7 promo: Ray and Molly's mission Separate school systems for Jews and Arabs are policy in Israel, not a ‘problem'. North Dakota Game and Fish goes over boating rules and regulations. Ebenezer Baptist church gives back to community through lessons and food distribution. Restaurants, Riley High School and Hope for the Hungry team up, host food drive.
+
+
+***
+![ZTE Axon 30 Ultra 5G in for review](https://fdn.gsmarena.com/imgroot/news/21/05/zte-axon-30-ultra-5g-ifr/-476x249w4/gsmarena_000.jpg "ZTE Axon 30 Ultra 5G in for review")
+
+
+[ZTE Axon 30 Ultra 5G in for review](https://www.gsmarena.com/zte_axon_30_ultra_5g_in_for_review-news-49148.php)
+
+
+> This is the ZTE Axon 30 Ultra 5G, a phone that ZTE announced for the Chinese market in April, and that will make it to global markets on May 27. Starting at $749/€749/£649 for the 8/128GB trim and moving up to $849/€849/£739 for the 12/256GB top offer, the ZTE Axon 30 Ultra 5G is rather aggressively priced and it seemingly cut no corners getting there. You get a potent 66W charger inside the box as well as a USB cable, earbuds, a USB-C to 3.5mm dongle and a thin case that leaves the phone's flat sides exposed.
+
+
+***
+![Vermont Sleep Sounds & Music](https://forums.macrumors.com/attachments/vermont-sleep-sounds-music-apple-tv-png.1779795/ "Vermont Sleep Sounds & Music")
+
+
+[Vermont Sleep Sounds & Music](https://forums.macrumors.com/threads/vermont-sleep-sounds-music-surround-soundscapes-for-the-apple-tv.2297318/)
+
+
+> Hey folks! I'm happy to share with my fellow MacRumors forum denizens the release of my latest app for Apple TV, Vermont Sleep Sounds & Music. Vermont Sleep Sounds & Music takes advantage of Dolby Digital surround sound audio to help Apple TV users transform their living room or home theater into the ultimate relaxation getaway! Features include: • Configurable sounds allow adjustment of fan speeds, selection of wind intensity, etc. You can even toggle thunder on or off for rain sounds. • Dolby Digital surround sound support provides and enhanced listening experience.
+
+
+***
+![Project Runway Season 17's Fierce Finale Crowns Winning Designer and Project Runway Season 17, Episode 3 Recap: Noticing a Pattern](https://https://www.thearkatech.com/img/news_img/all/10751_18_1200.pic "Project Runway Season 17's Fierce Finale Crowns Winning Designer and Project Runway Season 17, Episode 3 Recap: Noticing a Pattern")
+
+
+[Project Runway Season 17's Fierce Finale Crowns Winning Designer and Project Runway Season 17, Episode 3 Recap: Noticing a Pattern](https://www.thearkatech.com/en/53175/)
+
+
+> © Instagram / project runway season 17 By: Michael Miller2021-05-23 03:07:23 Last News: Project Runway Season 17, Episode 3 Recap: Noticing a Pattern and Project Runway Season 17's Fierce Finale Crowns Winning Designer NBA Playoffs: Kevin Durant's Pre-Game Outfit Before Nets and Celtics Game. COLUMN: Stop and use your senses! Kyle Busch dominates for Xfinity race win in Austin. Rahul Gangwani- a Luminary of Time, Forefront Guiding Light of Success, Profound Influences and a Great Source of Inspiration.
+
+
