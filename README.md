@@ -12656,3 +12656,50 @@
 > BITCOIN value is STILL down as question marks hang over whether cryptocurrency markets can recover. Cryptocurrencies including Bitcoin suffered dramatically since Musk announced that his company Tesla would not longer accept the payment for their vehicles. Reacting to last weeks backlash after one person asked him about the anger he faced, Musk tweeted: 'The true […]
 
 
+***
+![Bitcoin down almost 50% from year's high](https://japantoday.com/images/japan-today-social.jpg "Bitcoin down almost 50% from year's high")
+
+
+[Bitcoin down almost 50% from year's high](https://japantoday.com/category/tech/update-3-bitcoin-down-almost-50-from-year's-high)
+
+
+> Bitcoin fell 13% on Sunday after the world's biggest and best-known cryptocurrency suffered another sell-off that left it down nearly 50% from the year's high. Bitcoin fell to $32,601 at 1800 GMT, losing $4,899.54 from its previous close. It hit a high for the year of $64,895.22 on April 14. Ether, the coin linked to the ethereum blockchain network, dropped 17% to $1,905 on Sunday, losing $391.31 from its previous close. Bitcoin markets operate 24/7, setting the stage for price swings at unpredictable hours.
+
+
+***
+![How to see a map of all the photos you take on your iPhone](https://mondrian.mashable.com/2021%252F05%252F23%252Ffd%252F647591cb24b34cd28b28074a92bcbe9f.e2c1d.jpg%252F1200x630.jpg?signature=I-_2K1gXpJr1PnKrGPBVIs3x9qU= "How to see a map of all the photos you take on your iPhone")
+
+
+[How to see a map of all the photos you take on your iPhone](https://mashable.com/article/how-to-find-iphone-photos-map/)
+
+
+> Did you know your iPhone makes it super easy to take a globe-trotting stroll down memory lane? In 2016's iOS 10, Apple introduced the Memories tab in the Photos app to make the app easier to navigate than just one long stream of your pictures. That let it group pictures by months and years, people, and location. If you have Location Services enabled for the camera, Apple collects location metadata for pictures, which is how it's able to organize photos by "Place." A visual representation of that metadata is one of the most fun ways to look back at the memories you've captured on your iPhone.
+
+
+***
+![12.9 2021 owners](https://images.macrumors.com/social/?t=2297465&v=6 "12.9 2021 owners")
+
+
+[12.9 2021 owners](https://forums.macrumors.com/threads/12-9-2021-owners-returning-device-for-blooming-and-or-edge-shadowing.2297465/)
+
+
+> Oct 1, 2007 13,181 11,281 All iPads with mini led displays will exhibit blooming under the right scenario - there's no lottery. I have a 12.9 2020 that I compared to extensively and while blooming is noticeable in white text / black background scenarios, you quickly notice how much better the image quality and colors are when watching movies. Old screen is dark grey in comparison, so I think some of the blooming is inherent to the stark contract dofferences when people crank up brightness in a pitch black room.
+
+
+***
+![Billboard Music Awards live stream: how to watch the 2021 BBMAs online from anywhere](https://cdn.mos.cms.futurecdn.net/qN8G9TwV8zEVWnYmg5hUxW-1200-80.jpg "Billboard Music Awards live stream: how to watch the 2021 BBMAs online from anywhere")
+
+
+[Billboard Music Awards live stream: how to watch the 2021 BBMAs online from anywhere](https://www.techradar.com/news/billboard-music-awards-live-stream-how-to-watch-the-2021-bbmas-online-from-anywhere)
+
+
+> (Image credit: Billboard Music Awards 2021 via Getty Images) The Weeknd, P!NK, BTS and Alicia Keys are just some of the headline acts at the 2021 Billboard Music Awards, which will honor the best-selling artists of the past year. Judging panels haven't covered themselves in glory over the past few years, but there's none of that at the BBMAs, where the charts decide who wins. Follow our guide below as we explain how to watch a Billboard Music Awards live stream online wherever you are.Three of the 50+ awards categories have already been decided, with Drake set to be named Artist of the Decade to recognize his unrivaled success at BBMAs past.
+
+
+***
+[Rustc_codegen_GCC can now run libcore's tests and pass most of them](https://blog.antoyo.xyz/rustc_codegen_gcc-run-core-tests)
+
+
+> In order to reach this milestone, multiple features needed to be added to libgccjit. I had to write as much as 7 gcc patches that needs to be applied to upstream gcc in order to run this GCC codegen for Rust. Among other things, support was added for thread-local-storage variables, specifying the link section of a variable, sized integer types (including 128-bit integers). Also a reflection API was added and a few bugs were fixed. In terms of features supported by rustc_codegen_gcc, the following were added recently and works with varying degrees of stability: Atomics Inline assembly Thread-local storage variables This project is currently at the point where many programs can be compiled, but run incorrectly, so my focus will be on fixing this and adding the other missing features.
+
+
