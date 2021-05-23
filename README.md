@@ -12286,3 +12286,44 @@
 > I'm live streaming every Saturday @ 9 PM PST as I do a total rebuild of my desktop environment in the browser project.- Original Code: https://github.com/DustinBrett/x/- Original Demo: https://x.dustinbrett.com/- v2 Code: https://github.com/DustinBrett/x/tree/redo
 
 
+***
+[Cynerio, a cybersecurity startup focused on healthcare IoT, raises $30M Series B, says it ended 2020 with a 300% YoY increase in revenue (Globes Online)](http://www.techmeme.com/210523/p3#a210523p3)
+
+
+> Globes Online: Cynerio, a cybersecurity startup focused on healthcare IoT, raises $30M Series B, says it ended 2020 with a 300% YoY increase in revenue — The Israeli company will expand its clinically-intelligent toolbox of preemptive and proactive zero trust solutions into a full-service, responsive security platform.
+
+
+***
+[AMD byter pinnar med AM5](https://www.sweclockers.com/forum/trad/1635681-amd-byter-pinnar-med-am5)
+
+
+> Nu ska pinnarna sitta på moderkortets CPU-socket istället för processorn. A reliable source with AMD and NVIDIA leaks, ExecutableFix has shared some interesting bits of early information on AMD's next-generation Socket AM5. Apparently this will be AMD's first mainstream-desktop socket that does away with pins on the processor package, shifting them to the motherboard, in a Land Grid Array (LGA) format. Socket AM5 will have a pin-count of 1,718 pins, 18 more than Intel's upcoming Socket LGA1700, on which its 12th Gen Core "Alder Lake-S" is expected to be based.
+
+
+***
+![New 24' iMac randomly Crashing and restarting](https://images.macrumors.com/social/?t=2297342&v=6 "New 24' iMac randomly Crashing and restarting")
+
+
+[New 24' iMac randomly Crashing and restarting](https://forums.macrumors.com/threads/new-24-imac-randomly-crashing-and-restarting.2297342/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+[Heru, which is building a tool that uses AI and commercial AR/VR headsets to diagnose eye conditions and vision loss, raises $30M Series A led by D1 Capital (Conor Hale/FierceBiotech)](http://www.techmeme.com/210523/p2#a210523p2)
+
+
+> Conor Hale / FierceBiotech: Heru, which is building a tool that uses AI and commercial AR/VR headsets to diagnose eye conditions and vision loss, raises $30M Series A led by D1 Capital — The classic eye chart wall poster is getting an upgrade, with newcomer Heru looking to bring vision tests into virtual reality.
+
+
+***
+![Apple CEO Tim Cook says threat profile of iPhone justifies App Store rules](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/cvs7zkzdqbmy7fbhh5d7v6blge_0-483x271_1200_210523110745.jpeg "Apple CEO Tim Cook says threat profile of iPhone justifies App Store rules")
+
+
+[Apple CEO Tim Cook says threat profile of iPhone justifies App Store rules](https://www.businesstoday.in/technology/apple-ceo-tim-cook-says-threat-profile-of-iphone-justifies-app-store-rules/story/439781.html)
+
+
+> Highlights Epic Games has accused that Apple's App Store controls and commissions have created a monopoly that Apple illegally abuses. Tim Cook conceded that game developers generate most App Store revenue and help subsidize other apps on the store that pay no commission. Epic has pointed to an internal Apple document that alleges App Store has a 78% operating margin. A federal judge on Friday grilled Apple Inc Chief Executive Tim Cook over whether the iPhone maker's App Store profits from developers such as "Fortnite" maker Epic Games are justified and whether Apple faces any real competitive pressure to change its ways.
+
+
