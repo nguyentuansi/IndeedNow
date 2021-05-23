@@ -12609,3 +12609,50 @@
 > (Image credit: Matt Swider / Instagram) News about PS5 is about to get even grimmer if you intend to find a PS5 restock in the latter half of 2021, according to tech-industry analysts and our PS5 restock Twitter tracker Matt Swider. Matt sends instant alerts every time retailers in the US restock the next-gen Sony console – if you follow his Twitter account and turn on notifications. However, go into almost any Walmart and you'll see a sign that says "Attention Customers: These indemand items are not told in stores," listing out the PS5 Disc, PS5 Digital, Xbox Series X and Xbox Series X.
 
 
+***
+![Shape-shifting computer chip thwarts an army of hackers](https://www.krqe.com/wp-content/uploads/sites/12/2021/05/AdobeStock_107212183.jpeg?w=1280 "Shape-shifting computer chip thwarts an army of hackers")
+
+
+[Shape-shifting computer chip thwarts an army of hackers](https://www.krqe.com/news/technology/shape-shifting-computer-chip-thwarts-an-army-of-hackers/)
+
+
+> (THE CONVERSATION) The Research Brief is a short take about interesting academic work. The big idea We have developed and tested a secure new computer processor that thwarts hackers by randomly changing its underlying structure, thus making it virtually impossible to hack. Last summer, 525 security researchers spent three months trying to hack our Morpheus processor as well as others. All attempts against Morpheus failed. This study was part of a program sponsored by the U.S. Defense Advanced Research Program Agency to design a secure processor that could protect vulnerable software.
+
+
+***
+![Signs of life at the global box office as 'F9' nabs a massive $164 million opening](https://mondrian.mashable.com/2021%252F05%252F23%252F04%252F76f9113c77034163a254f7e455f3a9fe.b6b68.png%252F1200x630.png?signature=lPI8qXPpjPm82Btnv_14JCwp_8o= "Signs of life at the global box office as 'F9' nabs a massive $164 million opening")
+
+
+[Signs of life at the global box office as 'F9' nabs a massive $164 million opening](https://mashable.com/article/f9-opening-box-office-164-million-china/)
+
+
+> The Fast and Furious series is known for its unrepentant flaunting of physical science, and now it's waging a war against common wisdom as well. The MCU-style movieverse of cars and high-speed heists saw its 10th chapter, F9, hit theaters on May 19 in a small-but-mighty lineup of international markets that includes China, Korea, and Russia. People flocked to see the long-delayed latest entry in the globally adored series, rocketing F9 to a massive $164.4 million opening weekend. That huge opening was enough to set a franchise milestone, bringing the total box office take across the entire series up past $6 billion, according to Comscore.
+
+
+***
+![Artificial Intelligence is the driving force behind smart enterprises: Sajan Paul, MD, India and SAARC, Juniper Networks](https://images.financialexpress.com/2021/05/1-427.jpg "Artificial Intelligence is the driving force behind smart enterprises: Sajan Paul, MD, India and SAARC, Juniper Networks")
+
+
+[Artificial Intelligence is the driving force behind smart enterprises: Sajan Paul, MD, India and SAARC, Juniper Networks](https://www.financialexpress.com/industry/technology/artificial-intelligence-is-the-driving-force-behind-smart-enterprises-sajan-paul-md-india-and-saarc-juniper-networks/2256657/)
+
+
+> By: Sudhir Chowdhary | May 24, 2021 1:15 AMSAJAN PAUL, MD & Country Manager, India & Saarc, Juniper NetworksAn Artificial Intelligence (AI) driven network is integral to achieving greater agility and adaptability in the hybrid workplace. 'This can assist with mission-critical proximity tracing and physical distancing requirements to safeguard the health of employees,' says Sajan Paul, MD and country manager, India and SAARC, Juniper Networks, a US-based tech firm that develops and markets high-performance networking and cybersecurity solutions.
+
+
+***
+![Bitcoin latest news LIVE  – Elon Musk backs cryptocurrency AGAIN as Bitcoin price crash triggers frantic stock sell-off](https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/crypto-1-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin latest news LIVE  – Elon Musk backs cryptocurrency AGAIN as Bitcoin price crash triggers frantic stock sell-off")
+
+
+[Bitcoin latest news LIVE  – Elon Musk backs cryptocurrency AGAIN as Bitcoin price crash triggers frantic stock sell-off](https://www.the-sun.com/lifestyle/tech/2923839/bitcoin-price-latest-news-elon-musk-market-crash-live/)
+
+
+> BITCOIN value is STILL down as question marks hang over whether cryptocurrency markets can recover. Cryptocurrencies including Bitcoin suffered dramatically since Musk announced that his company Tesla would not longer accept the payment for their vehicles. Reacting to last weeks backlash after one person asked him about the anger he faced, Musk tweeted: 'The true battle is between fiat & crypto. On balance, I support the latter.' Meanwhile, a successful divorce lawyer has said she has seen a five-fold increase in divorce inquiries revolving around cryptocurrency since 2017.
+
+
+***
+[Bitcoin latest news LIVE  – Elon Musk backs cryptocurrency AGAIN as Bitcoin price crash triggers frantic stock sell-off](https://www.thesun.ie/tech/7021042/bitcoin-price-latest-news-elon-musk-market-crash-live/)
+
+
+> BITCOIN value is STILL down as question marks hang over whether cryptocurrency markets can recover. Cryptocurrencies including Bitcoin suffered dramatically since Musk announced that his company Tesla would not longer accept the payment for their vehicles. Reacting to last weeks backlash after one person asked him about the anger he faced, Musk tweeted: 'The true […]
+
+
