@@ -12418,3 +12418,50 @@
 > Catherine Shu / TechCrunch: Great Deals, which helps brands like L'Oréal and Unilever build their online retail operations in the Philippines, raises $30M Series B led by Fast Group — Founded in 2014, Great Deals is an e-commerce enabler that helps brands like Abbot, L'Oreal and Unilever build their online retail operations in the Philippines.
 
 
+***
+![A tearful 'SNL' cold open with the whole cast (plus Chris Rock!) reflects on our 'crazy' year](https://mondrian.mashable.com/2021%252F05%252F23%252F3f%252Fd7c02dfa01b74030bae08183560fc99f.6d7e3.png%252F1200x630.png?signature=vzzMMH5XqkWKfIoo4wwO5_4XASk= "A tearful 'SNL' cold open with the whole cast (plus Chris Rock!) reflects on our 'crazy' year")
+
+
+[A tearful 'SNL' cold open with the whole cast (plus Chris Rock!) reflects on our 'crazy' year](https://mashable.com/video/snl-cold-open-covid-year-season-46-finale/)
+
+
+> It sure is dusty in here. Saturday Night Live's 46th season finale opened not with a heightened and absurd take on modern politics or a string of knee-slapping pop culture references. Instead it went right for the feels, with the show's entire cast (minus Weekend Update hosts Michael Che and Colin Jost for some reason) taking a moment to look back on the thrills and terrors of unfurling an entire season of TV in the midst of a deadly pandemic. In typical SNL fashion, one of the cold open's highlights involved a surprise guest: Chris Rock.
+
+
+***
+[Mivi Launches DuoPods A25 TWS](https://www.zeebiz.com/technology/news-mivi-launches-duopods-a25-tws-check-price-features-and-other-details-157182)
+
+
+> Mivi, audio electronics product firm, has announced the launch of its all-new DuoPods A25, True Wireless Earbuds. It is priced at Rs.1299/-
+
+
+***
+![C.D.C. Is Investigating a Heart Problem in a Few Young Vaccine Recipients](https://external-preview.redd.it/2N9y4nyYz2KVU36_mcC63s26uNEAeizRTuBAVVg79hM.jpg?auto=webp&s=dc66e118f58b3e463bd34d7960f2beb3800fc8c2 "C.D.C. Is Investigating a Heart Problem in a Few Young Vaccine Recipients")
+
+
+[C.D.C. Is Investigating a Heart Problem in a Few Young Vaccine Recipients](https://www.reddit.com/r/technology/comments/nj6dez/cdc_is_investigating_a_heart_problem_in_a_few/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Bitmovin (YC S15) Is Hiring a CMO](https://images.ctfassets.net/92drx18nt1vw/1uyQvdc4Fu7W7tLHLY2qHn/96f89367a54b65b40516ced7214fc7f3/Bitmovin_Careers.jpg "Bitmovin (YC S15) Is Hiring a CMO")
+
+
+[Bitmovin (YC S15) Is Hiring a CMO](https://bitmovin.com/careers/5062830002/?gh_jid=5062830002)
+
+
+> Bitmovin provides API based software that powers the world's largest OTT online video providers with video developer tools, built by industry experts; enabling development teams, worldwide, to play, encode and analyse video simply, efficiently and in the highest quality imaginable. We have been honoured to receive an Emmy Technology & Engineering Award, a testament of our relentless focus on innovation and improving our solutions and services for our customers. Come join a team of like minded individuals - be part of the adaptive video streaming revolution and help shape the future of video through technology innovations.
+
+
+***
+![Lenovo Legion Duel 2 review: Dual the fun](https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Lenovo-Legion-Duel-2-26-scaled.jpg "Lenovo Legion Duel 2 review: Dual the fun")
+
+
+[Lenovo Legion Duel 2 review: Dual the fun](https://www.androidauthority.com/lenovo-legion-duel-2-review-1225644/)
+
+
+> Gaming phones lie in an interesting position between flair and functionality. Most gaming phones look to provide features that diverge from the mainstream. Enter the Lenovo Legion Duel 2: a gaming-first Android smartphone which a unique aesthetic, two cooling fans, two charging ports, eight active triggers, and a pop-up camera. Even with all these novel features, is the Legion Duel 2 a winner? Find out in Android Authority's Lenovo Legion Duel 2 review. Lenovo Legion Duel 2About this Lenovo Legion Duel 2 review: I tested the Lenovo Legion Duel 2 (16GB/512GB) for seven days running software version 12.
+
+
