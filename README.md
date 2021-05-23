@@ -12236,3 +12236,53 @@
 > A certain amount of skill and practice goes into online gaming. After all, if you want to outmaneuver everyone in Fall Guys or rack up the most eliminations in Fortnite, you've gotta put in the time. But you also want to have the best gaming rig possible. Lots of people invest in the latest gaming console or a great computer, keyboard and mouse, but they neglect one important factor: internet speed. If you're plagued by persistent lag while carrying out critical split-second decisions that make the difference between victory and defeat, a sluggish internet connection could be to blame.
 
 
+***
+![Get free, unlimited cloud storage when you buy world's top VPN provider](https://cdn.mos.cms.futurecdn.net/zzKWX9b7Dxhz2F7QRMVTMC-1200-80.jpg "Get free, unlimited cloud storage when you buy world's top VPN provider")
+
+
+[Get free, unlimited cloud storage when you buy world's top VPN provider](https://www.techradar.com/deals/get-free-unlimited-cloud-storage-when-you-buy-worlds-top-vpn-provider)
+
+
+> (Image credit: Backblaze) TechRadar's top VPN provider is giving away a whole year of unlimited cloud storage and an extra three months of its VPN service for free when you sign up for 12 months.The offer from ExpressVPN, which comes in partnership with Backblaze, is worth $60 and comes with no strings attached. You get unlimited bandwidth, unlimited file size and limitless number of files for a whole year, to add to your newly acquired VPN subscription.Free unlimited cloud storage included with ExpressVPN 1 year | $12.
+
+
+***
+![‘Local content policy needed to save $300m spent yearly on importing smart cards'](https://guardian.ng/wp-content/uploads/2021/05/Adeokun-16-05-21.jpg "‘Local content policy needed to save $300m spent yearly on importing smart cards'")
+
+
+[‘Local content policy needed to save $300m spent yearly on importing smart cards'](https://guardian.ng/technology/local-content-policy-needed-to-save-300m-spent-yearly-on-importing-smart-cards/)
+
+
+> Adeokun Bayo Adeokun is the Chief Executive Officer of Electronic Payplus Limited, an electronic payment and card-based solutions provider that has backwardly integrated its operations to address importation of such solutions in the country. In this interview with FEMI ADEKOYA, he talks about the need for a government policy with focus on local content, especially in the production of smart cards, sim cards and even the international passport. How did Electronic Payplus move from point-of-sales supplier to local manufacturer of payment and smart cards? Electronic Payplus is a smart card and payment solution provider.
+
+
+***
+![You can now make it harder for someone to spy on your use of Google services](https://m-cdn.phonearena.com/images/article/132297-wide-two_1200/You-can-now-make-it-harder-for-someone-to-spy-on-your-use-of-Google-services.jpg "You can now make it harder for someone to spy on your use of Google services")
+
+
+[You can now make it harder for someone to spy on your use of Google services](https://www.phonearena.com/news/google-offers-password-protection-for-your-my-account-activity_id132297)
+
+
+> It's no surprise that Google keeps track of your interactions with Google devices and apps. You can check out what goodies Google has on you by going to the My Activity page (myactivity.google.com). The My Activity page keeps track of the apps you've visited today, and even knows the locations you've looked at in Google Maps. But this isn't data that you'd like to hand out to just anyone so Google announced that it is adding an extra layer of security to My Activity in the form of password protection.
+
+
+***
+![Tech Q&A: Why some photos are missing from e-mails or websites](https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg "Tech Q&A: Why some photos are missing from e-mails or websites")
+
+
+[Tech Q&A: Why some photos are missing from e-mails or websites](https://www.unionleader.com/nh/lifestyles/tech-q-a-why-some-photos-are-missing-from-e-mails-or-websites/article_a4f77c69-f319-57ec-a313-e747e9165608.html)
+
+
+> Contact Steve Alexander at{span} {/span}steve.j.alexander@gmail.com{span}. Please include a full name, city and phone number.{/span}
+
+
+***
+![Building an OS in the Browser with React (Episode 21)](https://external-preview.redd.it/FtpjbE24Qq4tRk8tACOqV2okNoC2e-Add9oqe-zITZk.jpg?auto=webp&s=05edb4842af2561419885bea6265d17ec57099e8 "Building an OS in the Browser with React (Episode 21)")
+
+
+[Building an OS in the Browser with React (Episode 21)](https://www.reddit.com/r/programming/comments/nizhzj/building_an_os_in_the_browser_with_react_episode/)
+
+
+> I'm live streaming every Saturday @ 9 PM PST as I do a total rebuild of my desktop environment in the browser project.- Original Code: https://github.com/DustinBrett/x/- Original Demo: https://x.dustinbrett.com/- v2 Code: https://github.com/DustinBrett/x/tree/redo
+
+
