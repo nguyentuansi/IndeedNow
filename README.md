@@ -12186,3 +12186,53 @@
 > © Instagram / project runway season 17 By: Michael Miller2021-05-23 03:07:23 Last News: Project Runway Season 17, Episode 3 Recap: Noticing a Pattern and Project Runway Season 17's Fierce Finale Crowns Winning Designer NBA Playoffs: Kevin Durant's Pre-Game Outfit Before Nets and Celtics Game. COLUMN: Stop and use your senses! Kyle Busch dominates for Xfinity race win in Austin. Rahul Gangwani- a Luminary of Time, Forefront Guiding Light of Success, Profound Influences and a Great Source of Inspiration.
 
 
+***
+![Zelda tiene nuevo amiibo](https://www.elimparcial.com/__export/1621736109300/sites/elimparcial/img/2021/05/22/amiibo.jpg_1187572215.jpg "Zelda tiene nuevo amiibo")
+
+
+[Zelda tiene nuevo amiibo](http://www.elimparcial.com/tecnologia/Zelda-tiene-nuevo-amiibo-20210522-0116.html)
+
+
+> Nintendo lanzará una nueva figura  junto con The Legend of Zelda: Skyward Sword HD para Nintendo Switch.
+
+
+***
+![Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)](https://external-preview.redd.it/XbX41YTuEtRSzZmz8S8JReeCPKEeoYUpiRA65S5qYfw.jpg?auto=webp&s=62853e9e823f504b1276da726ae0423c2c975afb "Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)")
+
+
+[Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)](https://www.reddit.com/r/programming/comments/nixqbl/past_and_future_turtles_the_evolution_of_the_logo/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Shoppers left in shock and awe at new Coles self-service machine](https://images.perthnow.com.au/publication/C-2911051/dcb8ede2af399f702374351b32ef46c0c6af72ad-16x9-x0y192w2048h1152.jpg?imwidth=1200 "Shoppers left in shock and awe at new Coles self-service machine")
+
+
+[Shoppers left in shock and awe at new Coles self-service machine](https://www.news.com.au/technology/innovation/shoppers-left-in-shock-and-awe-at-new-coles-selfservice-machine/news-story/9e4698f6b62a6cd044fbe8667619a244)
+
+
+> Shoppers in Western Australia have been left in shock and awe after Coles unveiled a rare style of self-serve checkout.The conveyor belt self-serve checkout has been rolled out at some of the supermarket giant's flagship stores, however has garnered social media attention in the west, with one online commentator dubbing the machine 'beautiful'.‘This will make the self serve checkouts a better experience, not having to ram/cram groceries into tight spots', a commenter said on social media.Another said: 'It's just beautiful'.
+
+
+***
+![Outlook error -50 on access to ISP](https://images.macrumors.com/social/?t=2297326&v=6 "Outlook error -50 on access to ISP")
+
+
+[Outlook error -50 on access to ISP](https://forums.macrumors.com/threads/outlook-error-50-on-access-to-isp.2297326/)
+
+
+> Apr 5, 2009 1,355 48 Kyoto, Japan Running Mojave, latest updates installed, iMac 2014 and Office for Mac 2019. Outlook logs an error -50, "The message could not be sent because it has unresolved recipients." The app does seem to work OK, it sends messages and attachments with no issues, That error is generated on contact with the ISP mail provider. But it does connect, as shown by the fact that mail arrives and is sent correctly. In the Outlook preferences, all the ports specified by the ISP are entered correctly.
+
+
+***
+![The best gaming routers for 2021](https://www.cnet.com/a/img/jFkUeXEvqRweoMzuPy2_HzF7E24=/1200x630/2020/09/01/88cb1a50-11d9-448f-9f69-bcd6b43cc8e8/gt-axe-11000-1.png "The best gaming routers for 2021")
+
+
+[The best gaming routers for 2021](https://www.cnet.com/home/internet/best-gaming-routers/)
+
+
+> A certain amount of skill and practice goes into online gaming. After all, if you want to outmaneuver everyone in Fall Guys or rack up the most eliminations in Fortnite, you've gotta put in the time. But you also want to have the best gaming rig possible. Lots of people invest in the latest gaming console or a great computer, keyboard and mouse, but they neglect one important factor: internet speed. If you're plagued by persistent lag while carrying out critical split-second decisions that make the difference between victory and defeat, a sluggish internet connection could be to blame.
+
+
