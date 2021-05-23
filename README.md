@@ -12377,3 +12377,44 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[What is the python software good for, what can I do whit it? I know I can write python but it it only for exercize or can you lounch actual software or do something interesting whit it?](https://www.reddit.com/r/Python/comments/nj4nmv/what_is_the_python_software_good_for_what_can_i/)
+
+
+> Do you mean the Python language itself? Reddit is largely built in Python. Is that "actual software" enough?
+
+
+***
+[I'm sick of people telling me python is slower than java](https://www.reddit.com/r/Python/comments/nj4ec6/im_sick_of_people_telling_me_python_is_slower/)
+
+
+> Python is not slower than java obviously, IDK why people think that so i decided to use time command on them.$ time python -c "print('Hello world')"Hello worldreal 0m0.021suser 0m0.016ssys 0m0.005sand here is how you do it in javaclass javaimpl { public static void main(String[] args){ System.out.println("Hello world"); } } now run it with time$ time java javaimplHello worldreal 0m2.325suser 0m0.154ssys 0m0.092slook at that! java was slowerso yes IDK why people think python is slower than java
+
+
+***
+![WWDC 2021 preview: iOS 15, new MacBook Pro models, and everything else to expect](https://images.indianexpress.com/2021/05/Apple-WWDC-2021.jpg "WWDC 2021 preview: iOS 15, new MacBook Pro models, and everything else to expect")
+
+
+[WWDC 2021 preview: iOS 15, new MacBook Pro models, and everything else to expect](https://indianexpress.com/article/technology/tech-news-technology/wwdc-2021-preview-ios-15-new-macbook-pro-models-and-everything-else-to-expect-7326454/)
+
+
+> Apple's annual Worldwide Developers Conference is just around the corner. The mega event will kick off on Monday, June 7, at 10:30 pm IST. The show will be digital-only thanks to the ongoing global pandemic. That being said, the company is still expected to unveil new versions of its operating systems for iPhone, iPad, Mac, Apple Watch and Apple Watch. The tech giant may also announce new hardware as well. Exactly what Apple has planned for this year's opening keynote is a mystery, but we can take a few educated guesses.
+
+
+***
+![HomePod and HomePod mini to support lossless Apple Music audio via an update](https://cdn.mos.cms.futurecdn.net/jCKzHc4uZAwXngKRjHSJZP-1200-80.jpg "HomePod and HomePod mini to support lossless Apple Music audio via an update")
+
+
+[HomePod and HomePod mini to support lossless Apple Music audio via an update](https://www.techradar.com/news/homepod-and-homepod-mini-to-support-lossless-apple-music-audio-via-an-update)
+
+
+> (Image credit: TechRadar) We're very much looking forward to treating our ears to the experience of high fidelity, lossless audio on Apple Music when the streaming music catalog gets its upgrade in June, and Apple has now confirmed that the HomePod and HomePod mini are going to support the superior audio standard.There had been some uncertainty about whether the speakers would actually be able to play the new lossless formats, but a new Apple support document goes into extra detail about the changes that are on the way, and the devices that will support them.
+
+
+***
+[Great Deals, which helps brands like L'Oréal and Unilever build their online retail operations in the Philippines, raises $30M Series B led by Fast Group (Catherine Shu/TechCrunch)](http://www.techmeme.com/210523/p5#a210523p5)
+
+
+> Catherine Shu / TechCrunch: Great Deals, which helps brands like L'Oréal and Unilever build their online retail operations in the Philippines, raises $30M Series B led by Fast Group — Founded in 2014, Great Deals is an e-commerce enabler that helps brands like Abbot, L'Oreal and Unilever build their online retail operations in the Philippines.
+
+
