@@ -12894,3 +12894,53 @@
 > (Image credit: Disney) With so many shows and movies to choose from on Australia's major streaming services, it can often be difficult to find the best new stuff to entertain yourself with each week.In an effort to make things easier, we've hand-picked the best new shows and movies of the week to watch on Aussie streaming platforms, covering the likes of Netflix, Disney Plus, Binge, Foxtel Now, Stan and Amazon Prime Video.Below, you'll find a list of this week's highlights, with binge-worthy new shows sitting alongside some great big-budget new movie arrivals – and a couple of oddball left-of-field entries, just for some variety.
 
 
+***
+![Pro-Palestinian activists hit Facebook with 1-star app store reviews – report](https://assets2.rappler.com/2021/05/facebook-play-store-1621843063322.jpg "Pro-Palestinian activists hit Facebook with 1-star app store reviews – report")
+
+
+[Pro-Palestinian activists hit Facebook with 1-star app store reviews – report](https://www.rappler.com/technology/apps/pro-palestinian-activists-hit-facebook-app-store-reviews)
+
+
+> NBC News on Sunday, May 23, US time, reported Pro-Palestinian activists were downvoting Facebook on the iOS and Android app stores to protest the company's alleged censorship of of Palestinian accounts and posts.  The campaign is being promoted across social media sites, and has resulted in the average Facebook review score going from 4 out of 5 to 2.3 out of 5 on Apple's App Store, and 2.4 out of 5 on the Google Play Store. NBC said many of the reviews include comments on the alleged censorship on Palestinian voices and hashtags such as #FreePalestine or #GazaUnderAttack.
+
+
+***
+![Nigeria's Mono raises millions to power the internet economy in Africa – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/MIT01700-1.jpg?w=636 "Nigeria's Mono raises millions to power the internet economy in Africa – TechCrunch")
+
+
+[Nigeria's Mono raises millions to power the internet economy in Africa – TechCrunch](https://techcrunch.com/2021/05/24/nigerias-mono-raises-millions-to-power-the-internet-economy-in-africa/)
+
+
+> In February, Nigerian fintech startup Mono announced its acceptance into Y Combinator and, at the time, it wanted to build the Plaid for Africa. Three months later, the startup has a different mission: to power the internet economy in Africa and has closed $2 million in seed investment towards that goal. The investment comes nine months after the company raised $500,000 in pre-seed last September and two months after receiving $125,000 from YC. Mono's total investment moves up to $2.625 million, and investors in this new round include Entrée Capital (one of the investors in Kuda's seed round), Kuda co-founder and CEO Babs Ogundeyi; Gbenga Oyebode, partner at TCVP; and Eric Idiahi, co-founder and partner at Verod Capital.
+
+
+***
+![Why fast-track grocery delivery apps could soon leave supermarkets on the shelf](https://i.guim.co.uk/img/media/f758779476019b8a1faaef2167f7bd3249bf0a16/0_172_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=42fb10d09c530917de13824e0a120578 "Why fast-track grocery delivery apps could soon leave supermarkets on the shelf")
+
+
+[Why fast-track grocery delivery apps could soon leave supermarkets on the shelf](http://www.theguardian.com/commentisfree/2021/may/24/fast-track-grocery-delivery-apps-supermarkets)
+
+
+> Over the past year, you may have noticed the rapid growth in all kinds of app-based delivery services. For a while, supermarkets weren't involved: traditionally, the industry does not grow very much. The margins are small, but predictable.But something strange has happened: interest and investment in app-based delivery has exploded, with various fast-track services offering to have groceries at your door within a specified number of minutes. Weezy is the market leader in the UK, but you may also have heard of Fresh Direct or Sainsbury's 60-minute delivery option, Chop Chop.
+
+
+***
+![Super blood moon: Rare lunar event to unfold on Wednesday night](https://images.perthnow.com.au/publication/C-2921038/e4528b29dbc2f07de829fd372a407a05cd371c21-16x9-x0y192w2048h1152.jpg?imwidth=1200 "Super blood moon: Rare lunar event to unfold on Wednesday night")
+
+
+[Super blood moon: Rare lunar event to unfold on Wednesday night](https://www.news.com.au/technology/environment/super-blood-moon-rare-lunar-event-to-unfold-on-wednesday-night/news-story/8862473e1d02cf42213eed79c7b28861)
+
+
+> Australian stargazers will get the first look at a true 'super blood moon' for 20 years when two celestial phenomena occur at the same time this week.The rare sight will be visible from about 7.44pm on the east coast on Wednesday evening as the moon passes into Earth's shadow.The event will feature both a super moon – when a full moon reaches the closest point to Earth in its orbit – and a blood moon, which is caused by a total lunar eclipse.Vanessa Moss, an astronomer at Australia's national science agency the CSIRO, said it was very rare for both events to occur at the same time.
+
+
+***
+![Apple says HomePod and HomePod mini will get lossless audio support in the future](https://mondrian.mashable.com/2021%252F05%252F24%252Fc5%252Fe0d84aff14be4b538dcafc56f0caa367.0b00a.png%252F1200x630.png?signature=mDCun16FlZEd61AAWIInPMMdGYA= "Apple says HomePod and HomePod mini will get lossless audio support in the future")
+
+
+[Apple says HomePod and HomePod mini will get lossless audio support in the future](https://mashable.com/article/homepod-lossless-audio-support/)
+
+
+> Apple's recently announced lossless audio feature on Apple Music was followed by a cold shower: Apple's audio gadgets, including the AirPods, AirPods Pro, AirPods Max, HomePod and HomePod mini do not support lossless audio. Now, in a new document on its website, Apple has revealed more details about lossless (a form of audio data compression that produces a perfect reconstruction of the original audio data), and tucked away in the FAQ is an interesting bit of news: HomePod and HomePod mini will eventually get support for the new feature.
+
+
