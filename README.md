@@ -12847,3 +12847,50 @@
 > (Image credit: TCL) TCL sure has been busy lately, having recently released two budget smartphone options in Australia with the TCL 20 SE and the TCL 20 5G, and now the Chinese manufacturer has added a third entry in its 20 Series range with the TCL 20L Plus.The TCL 20L Plus offers a 6.67-inch FHD+ display with pinhole selfie camera, and like the other two phones in the 20 Series, sports TCL's proprietary NXTVISION visual technology, which is said to improve colour, clarity and contrast in real-time.
 
 
+***
+[Garena Free Fire update: Check Free Fire redeem codes for MAY 24, FREE rewards, and MORE](https://www.zeebiz.com/technology/apps/news-garena-free-fire-update-check-free-fire-redeem-codes-for-may-24-free-rewards-and-more-157207)
+
+
+> Garena Free Fire redeem codes: Good news for Garena Free Fire fans in India! the Free Fire redeem codes for May 24 are available now which brings several rewards and benefits to mobile gamers. Redeem codes are released by the developers of Free Fire, and players can use them on the official Rewards Redemption Site.
+
+
+***
+![Kanabo Announces Deal with Greek Cannabis Cultivation Facility](http://www.businesswire.com/images/bwlogo_square.png "Kanabo Announces Deal with Greek Cannabis Cultivation Facility")
+
+
+[Kanabo Announces Deal with Greek Cannabis Cultivation Facility](https://www.businesswire.com/news/home/20210523005015/en/Kanabo-Announces-Deal-with-Greek-Cannabis-Cultivation-Facility)
+
+
+> May 24, 2021 02:00 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Kanabo Group Plc, the medicinal cannabis company which recently successfully launched on London Stock Exchange (LSE: KNB), has entered a deal to partner with Hellenic Dynamics S.A, a medical cannabis cultivation company with a substantial cultivation facility in Northern Greece. Under the terms of the Memorandum of Understanding between the two parties, Kanabo will buy up to 1000 kg per year EU GMP certified cannabis flowers with pre-defined THC or CBD contents, subject to certain regulatory approvals, for subsequent extraction of medical standard oils.
+
+
+***
+![Bitcoin down almost 50% from year's high](https://image-prod.iol.co.za/resize/3000x366/File-picture-Reuters-Dado-Ruvic?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9dfc9de4-e0c0-5994-9acc-6a1a448824f1&operation=CROP&offset=0x34&resize=3000x1688 "Bitcoin down almost 50% from year's high")
+
+
+[Bitcoin down almost 50% from year's high](https://www.iol.co.za/technology/fintech/bitcoin-down-almost-50-from-years-high-35d16638-54bf-435c-94b7-7de34e50e6f6)
+
+
+> Bitcoin fell 13% on Sunday after the world's biggest and best-known cryptocurrency suffered another sell-off that left it down nearly 50% from the year's high.Bitcoin fell to $32,601 at 1800 GMT (2 p.m. ET), losing $4,899.54 from its previous close. It hit a high for the year of $64,895.22 on April 14.Ether, the coin linked to the ethereum blockchain network, dropped 17% to $1,905 on Sunday, losing $391.31 from its previous close.Bitcoin markets operate 24/7, setting the stage for price swings at unpredictable hours.
+
+
+***
+![Battery percentage problem in my Macbook Air M1](https://images.macrumors.com/social/?t=2297512&v=6 "Battery percentage problem in my Macbook Air M1")
+
+
+[Battery percentage problem in my Macbook Air M1](https://forums.macrumors.com/threads/battery-percentage-problem-in-my-macbook-air-m1.2297512/)
+
+
+> Hi Everybody! I bought a Macbook Air M1 since three weeks ago. And I have a problem with battery percentage. If I turn it on with plugged in charger, the battery percentage is only 99%. After one or two hours, always 99%. BUT, if I unplug the charger, immediately switches to 100%. Again I plug the charger, switches 99%. Unplug, 100%. Plug, 99%, etc, to infinity. Optimized battery charging always off with me. What is this? How can I fix it? Thank you very much!
+
+
+***
+![Now streaming: best new TV shows & movies this week in Australia (May 24-30)](https://cdn.mos.cms.futurecdn.net/7eppbBHZZnDbUgGF7AWHbj-1200-80.jpg "Now streaming: best new TV shows & movies this week in Australia (May 24-30)")
+
+
+[Now streaming: best new TV shows & movies this week in Australia (May 24-30)](https://www.techradar.com/news/now-streaming-best-new-tv-shows-and-movies-this-week-in-australia-may-24-30)
+
+
+> (Image credit: Disney) With so many shows and movies to choose from on Australia's major streaming services, it can often be difficult to find the best new stuff to entertain yourself with each week.In an effort to make things easier, we've hand-picked the best new shows and movies of the week to watch on Aussie streaming platforms, covering the likes of Netflix, Disney Plus, Binge, Foxtel Now, Stan and Amazon Prime Video.Below, you'll find a list of this week's highlights, with binge-worthy new shows sitting alongside some great big-budget new movie arrivals – and a couple of oddball left-of-field entries, just for some variety.
+
+
