@@ -12753,3 +12753,47 @@
 > © Instagram / the partridge family By: Jason Jones2021-05-24 03:13:25 Last News: 5 Shockers from The Partridge Family Star Shirley Jones's Memoir and Facebook Live event to celebrate 50 years of the Partridge Family Belarus forces airliner to land and arrests opponent, sparking U.S. and European outrage. Germany's quiet Catholic rebellion on gay blessings and women preachers. KCPD: 18-year-old woman shot and killed on KC's east side. Belarus: University students expelled from universities and imprisoned for peaceful protest.
 
 
+***
+![Bitcoin down almost 50% from year's high](https://external-preview.redd.it/Vs7J3xAdJO3vUjxdZcdXUkxZ1QGF8Fhg4baQYih3ezc.jpg?auto=webp&s=a13d6303cf3c3de23e8c92bc4923f50b24ee0194 "Bitcoin down almost 50% from year's high")
+
+
+[Bitcoin down almost 50% from year's high](https://www.reddit.com/r/technology/comments/njno5d/bitcoin_down_almost_50_from_years_high/)
+
+
+> View Entire Discussion (2 Comments)
+
+
+***
+![Zip Expands into Europe and the Middle East, with the Acquisitions of European BNPL Provider Twisto and UAE-based Spotii](https://mms.businesswire.com/media/20210523005030/en/880430/23/Zip_Quadpay_Logo_-_Black.jpg "Zip Expands into Europe and the Middle East, with the Acquisitions of European BNPL Provider Twisto and UAE-based Spotii")
+
+
+[Zip Expands into Europe and the Middle East, with the Acquisitions of European BNPL Provider Twisto and UAE-based Spotii](https://www.businesswire.com/news/home/20210523005030/en/Zip-Expands-into-Europe-and-the-Middle-East-with-the-Acquisitions-of-European-BNPL-Provider-Twisto-and-UAE-based-Spotii)
+
+
+> May 23, 2021 10:37 PM Eastern Daylight Time SYDNEY & NEW YORK--(BUSINESS WIRE)--Zip Co Limited (ASX: Z1P) ('Zip' or the 'Company') is pleased to announce that it has agreed to acquire the remaining shares of European 'Buy Now Pay Later' ('BNPL') provider Twisto Payments a.s. ('Twisto') and has also entered into an agreement to acquire the remaining shares of UAE-based BNPL leader Spotii Holdings Ltd ('Spotii'). The transactions align with Zip's global expansion plans and the rapidly accelerating global BNPL opportunity.
+
+
+***
+![Android 12 beta is coming to Xiaomi, OnePlus, OPPO, Vivo and other phones](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/android-12-logo.jpg "Android 12 beta is coming to Xiaomi, OnePlus, OPPO, Vivo and other phones")
+
+
+[Android 12 beta is coming to Xiaomi, OnePlus, OPPO, Vivo and other phones](https://www.androidcentral.com/android-12-beta-xiaomi-oneplus-oppo-vivo)
+
+
+> Source: Alex Dobie / Android Central The Android 12 beta program is now live, and like previous years, Google is making the build available on third-party phones. Last year's Android 11 beta program made its way to 12 third-party phones from six manufacturers, and this time around we have 11 manufacturers offering beta builds on their phones. These third-party phones are getting the Android 12 beta build: Read on to know more about how each manufacturer is rolling out the Android 12 beta, and when you can start using it on your own device.
+
+
+***
+[Emerging technologies adoption encounters resistance from Australia, NZ IT professionals: report](https://itwire.com/enterprise-solutions/emerging-technologies-adoption-encounters-resistance-from-australia,-nz-it-professionals-report.html)
+
+
+> Emerging technologies bring the potential globally for increased efficiencies, cost savings and improved security for enterprises, but businesses in Australia and New Zealand (ANZ) are being hampered when it comes to implementing emerging technology, according to a new global report. According to the latest emerging technology report from ICT professional association ISACA, complexities in adoption of emerging technologies have been revealed, with 72% of Austraian and New Zealand IT professionals citing cost of implementation as a top reason for resistance, followed by 49% who indicate unclear business objectives as holding them back from implementation - and 46% who cited cybersecurity risk.
+
+
+***
+[What type of comments do you like?](https://www.reddit.com/r/Python/comments/njn85s/what_type_of_comments_do_you_like/)
+
+
+> I latched onto hash when I got interested in Perl message boards when I was a teen.I have no preference but would have to make a conscious effort to change to forward slashes.
+
+
