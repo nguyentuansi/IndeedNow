@@ -12994,3 +12994,53 @@
 > May 24, 2021 06:00 AM Eastern Daylight Time PROVO, Utah--(BUSINESS WIRE)--Vivint Smart Home, Inc. (NYSE:VVNT), a leading smart home company, today announced founder and Chief Executive Officer Todd R. Pedersen has decided to step down as chief executive officer of Vivint Smart Home, effective once the board of directors of the company appoints his successor. Mr. Pedersen will remain a member of the board of directors. 'I have decided that after 20 years of building a successful company, it is time for me to pursue my other entrepreneurial goals and devote myself to those investments and businesses,' said Mr.
 
 
+***
+![How much RAM does a smartphone actually need? We asked the experts](https://icdn.digitaltrends.com/image/digitaltrends/cell-phone-ram_feature.jpg "How much RAM does a smartphone actually need? We asked the experts")
+
+
+[How much RAM does a smartphone actually need? We asked the experts](https://www.digitaltrends.com/mobile/how-much-ram-does-a-smartphone-need/)
+
+
+> Buying a smartphone today can be confusing. Long specification sheets are crammed with numbers, and their relationship with real-world performance is not always clear. One of the most misunderstood of all those specs is RAM, or Random Access Memory. If you're wondering how much RAM your smartphone needs, then you're not alone. This question has popped up again and again since the dawn of the smartphone. We decided to ask some experts about how much RAM the average person really needs, what it does, and how it works.
+
+
+***
+![Best Memorial Day Sales 2021: When is it, and what to expect](https://icdn.digitaltrends.com/image/digitaltrends/black-friday-online-shopping-3.jpg "Best Memorial Day Sales 2021: When is it, and what to expect")
+
+
+[Best Memorial Day Sales 2021: When is it, and what to expect](https://www.digitaltrends.com/dtdeals/best-memorial-day-sales-2020/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. While there aren't any Memorial Day sales happening now, come Memorial Day 2021 we're going to be tripping over hundreds — and with each retailer claiming to offer the biggest discounts in town, separating the best offers from the bad will seem like an impossible task. Fortunately, Digital Trends is on hand to help: We'll be cataloging all of the best Memorial Day deals right here. When Are The Best Memorial Day Sales? Memorial Day always falls on the last Monday of May, so Memorial Day 2021 will fall on May 31.
+
+
+***
+![Carol Exercise Bike](https://cdn.mos.cms.futurecdn.net/823dgPiKqaHaLqieTVLDVn-1200-80.jpg "Carol Exercise Bike")
+
+
+[Carol Exercise Bike](https://www.techradar.com/reviews/carol-exercise-bike)
+
+
+> The Carol is a high-tech spinning bike for high-intensity interval training (HIIT) that requires you to exercise for just nine minutes at a time. It's a pleasure to ride, reacting in real time to your efforts to give you an optimized workout – if your wallet can stand it.The Carol, which stands for Cardiovascular Optimization Logic, is an AI-powered exercise bike that uses biometric data to create highly customized workouts. Using REHIT (reduced exertion high intensity training) Carol's built-in tech works by calculating the user's resistance levels, which in turn helps provide the ideal programme for you.
+
+
+***
+![Britain welcomes U.S. commitment to tax on digital companies](https://www.reuters.com/pf/resources/icons/favicon.ico?d=31 "Britain welcomes U.S. commitment to tax on digital companies")
+
+
+[Britain welcomes U.S. commitment to tax on digital companies](https://www.reuters.com/technology/britain-welcomes-us-commitment-tax-digital-companies-2021-05-24/)
+
+
+> Britain welcomes the United States' renewed commitment to reaching an agreement on how large digital companies are taxed, a spokesman for Prime Minister Boris Johnson said on Monday, adding such firms should pay tax that reflects their activities."Reaching an international agreement on how large digital companies are taxed is a priority, and we welcome the U.S.'s renewed commitment to reaching a solution," the spokesman told reporters."It's crucial that any agreement ensures digital businesses pay tax in the UK that reflects their economic activities," he added.
+
+
+***
+![Rising digital workloads contributing to worker burnout](https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic_new.jpg "Rising digital workloads contributing to worker burnout")
+
+
+[Rising digital workloads contributing to worker burnout](https://www.straitstimes.com/tech/tech-news/rising-digital-workloads-contributing-to-worker-burnout)
+
+
+> SINGAPORE - Workers in Singapore are feeling more burnt out compared with their peers globally, and this could be driven partly by their digital workloads rising amid the pandemic. About one in two workers, or 49 per cent, feels exhausted, while 58 per cent feel overworked, according to an online poll in January of more than 1,000 workers here. This is higher than the global average across 31 markets that the study found, of 39 per cent feeling exhausted and 54 per cent feeling overworked, said Microsoft last week.
+
+
