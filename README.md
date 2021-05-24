@@ -13044,3 +13044,50 @@
 > SINGAPORE - Workers in Singapore are feeling more burnt out compared with their peers globally, and this could be driven partly by their digital workloads rising amid the pandemic. About one in two workers, or 49 per cent, feels exhausted, while 58 per cent feel overworked, according to an online poll in January of more than 1,000 workers here. This is higher than the global average across 31 markets that the study found, of 39 per cent feeling exhausted and 54 per cent feeling overworked, said Microsoft last week.
 
 
+***
+![Prime Day Deals 2021: When is it, and what can we expect?](https://icdn.digitaltrends.com/image/digitaltrends/amazon-prime-day-deals-2020.jpg "Prime Day Deals 2021: When is it, and what can we expect?")
+
+
+[Prime Day Deals 2021: When is it, and what can we expect?](https://www.digitaltrends.com/dtdeals/best-amazon-prime-day-deals/)
+
+
+> Amazon Prime Day 2021 isn't expected to arrive until next month,  after the Memorial Day sales, but that doesn't mean we can't start preparing for the event with some harmless speculation. For starters, it's safe to assume that Prime Day 2021 will see more discounts than ever before. How do we know? Because each Prime Day is bigger and better than the last. What happened on Amazon Prime Day 2020? Before we can look forward to Prime Day 2021, we first need to look back to Prime Day 2020 — an anomaly in the history of the event.
+
+
+***
+![The best Samsung Galaxy Note 10 cases and covers](https://icdn.digitaltrends.com/image/digitaltrends/samsung-galaxy-note-10-back.jpg "The best Samsung Galaxy Note 10 cases and covers")
+
+
+[The best Samsung Galaxy Note 10 cases and covers](https://www.digitaltrends.com/mobile/best-samsung-galaxy-note-10-cases/)
+
+
+> With its expansive 6.3-inch screen, the Samsung Galaxy Note 10 needs some serious protection. Even the most powerful phones are still susceptible to breakages when dropped, and the last thing you want to do is crack or shatter your new phone. The best thing to do is to protect your device with a case or cover. We've gathered together a few of the best Galaxy Note 10 cases to keep your new phone safe. You're sure to find something on our list that suits your style, usage needs, and budget. Spigen Tough Armor Case First on our list is one of the toughest names around when it comes to protection: Spigen.
+
+
+***
+[Solidus Labs, which develops monitoring and compliance tools for identifying market manipulation in crypto, raises $20M Series A (Ryan Weeks/The Block)](http://www.techmeme.com/210524/p9#a210524p9)
+
+
+> Ryan Weeks / The Block: Solidus Labs, which develops monitoring and compliance tools for identifying market manipulation in crypto, raises $20M Series A — Solidus Labs, a surveillance firm focused on monitoring market manipulation in crypto, has closed a $20 million Series A fundraise.
+
+
+***
+![Australian authorities investigate OnlyFans for possible links to financial crime](https://images.perthnow.com.au/publication/C-2923047/3853b58eef1f867f58e4c14c0c461683d5215878-16x9-x0y0w1279h719.jpg?imwidth=1200 "Australian authorities investigate OnlyFans for possible links to financial crime")
+
+
+[Australian authorities investigate OnlyFans for possible links to financial crime](https://www.news.com.au/technology/online/internet/australian-authorities-investigate-onlyfans-for-possible-links-to-financial-crime/news-story/15d04879a8c5d65b90f792eb4a6cceb5)
+
+
+> Australian authorities are investigating popular adult content site OnlyFans over fears it is being used as a vehicle to traffic drugs, launder money and exploit children.NCA NewsWire understands financial crimes watchdog AUSTRAC and the Australian Federal Police are monitoring the not-safe-for-work site over concerns its murky payments platform is facilitating crime, as banks and regulators are unable to establish who receives the payments.OnlyFans is a UK-based company that allows users to create a page and then charge customers a fee to view the content.
+
+
+***
+![HP Memorial Day Sale 2021: Save up to 47% on laptops, monitors TODAY](https://icdn.digitaltrends.com/image/digitaltrends/hp-elitebook-820-g1-hp-logo.jpg "HP Memorial Day Sale 2021: Save up to 47% on laptops, monitors TODAY")
+
+
+[HP Memorial Day Sale 2021: Save up to 47% on laptops, monitors TODAY](https://www.digitaltrends.com/dtdeals/hp-memorial-day-sale-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. HP has kicked off its Memorial Day sales early with a bunch of fantastic deals on some of its most popular laptops and monitors available right now. That means there are savings of up to 47% to be enjoyed on everything from laptops aimed at the home office to gaming laptops for enjoying the latest titles. Whatever you're looking for, you can save big right now. Even better, we've taken all the hard work out of things for you and rounded up the best offers available through HP right now.
+
+
