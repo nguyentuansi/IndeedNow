@@ -13091,3 +13091,53 @@
 > Digital Trends may earn a commission when you buy through links on our site. HP has kicked off its Memorial Day sales early with a bunch of fantastic deals on some of its most popular laptops and monitors available right now. That means there are savings of up to 47% to be enjoyed on everything from laptops aimed at the home office to gaming laptops for enjoying the latest titles. Whatever you're looking for, you can save big right now. Even better, we've taken all the hard work out of things for you and rounded up the best offers available through HP right now.
 
 
+***
+![Apple's event calendar: WWDC starts June 7 at 10am](https://www.macworld.com/wp-content/uploads/2021/05/apple-wwdc-cropped.jpg?quality=50&strip=all&w=1024 "Apple's event calendar: WWDC starts June 7 at 10am")
+
+
+[Apple's event calendar: WWDC starts June 7 at 10am](https://www.macworld.com/article/230957/apples-event-calendar-when-is-the-next-apple-event.html)
+
+
+> Updated 05/24/21: Apple had already announced the dates for its Worldwide Developers Conference, but has issued a new press release with times for the keynote and other important sessions. Apple doesn't often participate in big industry-wide events like CES or E3. The most valuable company in the world holds its own events, thank you very much. Several times a year, Apple invites the press and industry professionals out to a theater to hear all about its latest products and services. Apple calls these 'Special Events,' and streams them online to its millions of fans.
+
+
+***
+![Samsung Galaxy Tab S7 FE 5G quietly listed with €649 price in Germany](https://m-cdn.phonearena.com/images/article/132310-wide-two_1200/Samsung-Galaxy-Tab-S7-FE-5G-quietly-listed-with-649-price-in-Germany.jpg "Samsung Galaxy Tab S7 FE 5G quietly listed with €649 price in Germany")
+
+
+[Samsung Galaxy Tab S7 FE 5G quietly listed with €649 price in Germany](https://www.phonearena.com/news/samsung-galaxy-tab-s7-fe-5g-price-specs-features_id132310)
+
+
+> Following weeks and weeks of leaks and branding speculation, today Samsung Germany has quietly listed (via WinFuture) the Galaxy Tab S7 FE with 5G network support and a decent set of features.Retailing at €649 in Germany, the new Android tablet is essentially a more affordable version of the flagship Galaxy Tab S7+ mode. It packs the Qualcomm Snapdragon 750G chipset along with 4GB of RAM and 64GB of storage.Other storage options don't seem to be available, at least for the time being, but Samsung has been generous enough to include a microSD card slot, allowing users to expand the storage by up to 1TB.
+
+
+***
+![Apple iPod Touch with iPhone-like design expected to launch later this year](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Apple_iPod-647x363.jpeg?PyDObgMeKWTH6i8Xf2Q.YMo7cifqouUh "Apple iPod Touch with iPhone-like design expected to launch later this year")
+
+
+[Apple iPod Touch with iPhone-like design expected to launch later this year](https://www.indiatoday.in/technology/news/story/apple-ipod-touch-with-iphone-like-design-expected-to-launch-later-this-year-1806486-2021-05-24)
+
+
+> Apple has been at the helm of technological innovations for a long, long time but if you had to pick one product that brought the company to the consumer forefront like never before, it would most certainly be the iPod. It now seems that the company wants to relive its glory days by reintroducing the fan favourite in an all-new avatar.New reports indicate that Apple may launch a new iPod Touch device later this year that will feature an iPhone-like design. If so, the new iPod Touch will come as a successor to the 2019 iPod Touch model by Apple.
+
+
+***
+![Director John Woo in talks to remake epic movie 'Red Cliff' – Borneo Bulletin Online and Disney+: The Most Epic Movies Available To Stream Right Now](https://https://www.thearkatech.com/img/news_img/all/11765_16_1200.pic "Director John Woo in talks to remake epic movie 'Red Cliff' – Borneo Bulletin Online and Disney+: The Most Epic Movies Available To Stream Right Now")
+
+
+[Director John Woo in talks to remake epic movie 'Red Cliff' – Borneo Bulletin Online and Disney+: The Most Epic Movies Available To Stream Right Now](https://www.thearkatech.com/en/53936/)
+
+
+> © Instagram / epic movie By: Olivia Anderson2021-05-24 19:15:33 Last News: Disney+: The Most Epic Movies Available To Stream Right Now and Director John Woo in talks to remake epic movie 'Red Cliff' – Borneo Bulletin Online ‘That was a concert': Paul, Bridges and Ayton love team effort in playoff opener. More Google Pixel 6 and 5a rumors surface. Live updates in Mollie Tibbetts case: Investigators had 'hard time finding anything negative' about Tibbetts, DCI agent testifies. I Bought a Home Sight-Unseen and Moved From California to Missouri.
+
+
+***
+![Family Trainer Announced for Nintendo Switch](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/Family%20Trainer.jpg?itok=p6D8b1pF "Family Trainer Announced for Nintendo Switch")
+
+
+[Family Trainer Announced for Nintendo Switch](https://techraptor.net/gaming/news/family-trainer-announced-for-nintendo-switch)
+
+
+> 05/24/2021 - 12:15 | By: Patrick Perrault Home Gaming Gaming News Family Trainer Announced for Nintendo Switch Family Trainer, a game designed to pick up and play for players of all ages to work out, has been announced by Bandai Namco for the Nintendo Switch for a September 3, 2021 release. The game will combine both the Nintendo Joy Con Controllers and a Leg Strap to let players use their whole body during the fifteen minigames that are available. There's also a multiplayer mode that will be available where players can go head-to-head to see who can either work together to achieve a common goal or to get the highest score to see who is the best trainer in the family.
+
+
