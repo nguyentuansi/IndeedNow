@@ -12944,3 +12944,53 @@
 > Apple's recently announced lossless audio feature on Apple Music was followed by a cold shower: Apple's audio gadgets, including the AirPods, AirPods Pro, AirPods Max, HomePod and HomePod mini do not support lossless audio. Now, in a new document on its website, Apple has revealed more details about lossless (a form of audio data compression that produces a perfect reconstruction of the original audio data), and tucked away in the FAQ is an interesting bit of news: HomePod and HomePod mini will eventually get support for the new feature.
 
 
+***
+![Creative SXFI Carrier review](https://cdn.mos.cms.futurecdn.net/nKbZ33GRyP5dURvVKKwdcR-1200-80.jpg "Creative SXFI Carrier review")
+
+
+[Creative SXFI Carrier review](https://www.techradar.com/reviews/creative-sxfi-carrier)
+
+
+> Creative SXFI Carrier dealsThe Creative SXFI Carrier soundbar combines the immersive sound of Dolby Atmos audio with the unique virtual surround sound of Creative's own Super X-FI technology – with a much smaller footprint than its predecessor, the SXFi Sonic Carrier. Its small form factor is a huge advantage – not every room is ideal for a surround sound setup, nor is it something everyone wants. Not to mention that some popular sound bars don't come with subwoofers. Creative tries to address all these points with the Carrier, and does it in a way that feels like it just works out of the box.
+
+
+***
+![Hackers exploit WhatsApp, target far-right Jerusalem official](https://www.haaretz.com/polopoly_fs/1.9837985.1621850109!/image/3666638858.jpg_gen/derivatives/headline_1200x630/3666638858.jpg "Hackers exploit WhatsApp, target far-right Jerusalem official")
+
+
+[Hackers exploit WhatsApp, target far-right Jerusalem official](https://www.haaretz.com/israel-news/tech-news/.premium-hackers-exploit-whatsapp-target-far-right-jerusalem-official-1.9837912)
+
+
+> Islamists hackers made use of a known exploit to try to hack the phone of a far-right Jewish official who serves as Jerusalem's deputy mayor, highlighting the risks of the technique which allows anyone to block a victim out of the popular WhatsApp messaging service. According to a video posted to an Israeli cybersecurity group, suspected hackers can be seen making multiple attempts to log into Aryeh King's WhatsApp using his phone number, and then multiple additional attempts to fill in the verification code the app sends users in such cases.
+
+
+***
+![5 MasterClass classes to become a filmmaker: Learn from Martin Scorsese, Spike Lee and more](https://www.cnet.com/a/img/2RLbwkqi71Ph5JmsWOVJTGnRUP0=/1200x630/2020/05/20/a37a5c0f-885b-48c1-915f-88740e4240a1/scor.jpg "5 MasterClass classes to become a filmmaker: Learn from Martin Scorsese, Spike Lee and more")
+
+
+[5 MasterClass classes to become a filmmaker: Learn from Martin Scorsese, Spike Lee and more](https://www.cnet.com/news/5-masterclass-classes-to-become-a-filmmaker-learn-from-martin-scorsese-spike-lee-and-more/)
+
+
+> Aspiring filmmakers looking to pick up some tips from the pros can now learn how to direct movies and documentaries from some of the greats online with a filmmaking MasterClass.MasterClass, an online learning service with more than 100 classes offered by A-list celebrities, offers several courses on the different aspects of filmmaking, taught by some of the most famous directors in the world, including Academy Award winners and other film industry greats. While these classes can't replace a traditional film degree, they can help get you started by teaching you filmmaking techniques and helping you glean insights from experts in the field, with 20 video lessons that are about 10 minutes long each and in-depth workbooks.
+
+
+***
+![The best Android phones under $300 right now!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/02/moto-g-power-2020-hands-on-14.jpeg "The best Android phones under $300 right now!")
+
+
+[The best Android phones under $300 right now!](https://www.androidcentral.com/best-android-phones-under-300)
+
+
+> Source: Joe Maring / Android Central Best Android Phones Under $300 Android Central 2021 You can get a lot of phone for a modest price these days, and to prove it, we've rounded up a list of the best Android phones under $300 for your consideration. Motorola has been a leading name in mid-range options for years, and that holds true with its excellent Moto G Power (2020). You get capable specs with a big display and simple software that anyone can figure out for an extremely competitive price. Plus, it has a massive battery and convenient USB-C charging.
+
+
+***
+![Vivint Smart Home Announces Leadership Transition Plan](https://mms.businesswire.com/media/20210524005264/en/1018848/23/Vivint_Smart_Home_Logo_New.1920x1080.11-3-20.jpg "Vivint Smart Home Announces Leadership Transition Plan")
+
+
+[Vivint Smart Home Announces Leadership Transition Plan](https://www.businesswire.com/news/home/20210524005264/en/Vivint-Smart-Home-Announces-Leadership-Transition-Plan)
+
+
+> May 24, 2021 06:00 AM Eastern Daylight Time PROVO, Utah--(BUSINESS WIRE)--Vivint Smart Home, Inc. (NYSE:VVNT), a leading smart home company, today announced founder and Chief Executive Officer Todd R. Pedersen has decided to step down as chief executive officer of Vivint Smart Home, effective once the board of directors of the company appoints his successor. Mr. Pedersen will remain a member of the board of directors. 'I have decided that after 20 years of building a successful company, it is time for me to pursue my other entrepreneurial goals and devote myself to those investments and businesses,' said Mr.
+
+
