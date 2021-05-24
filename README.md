@@ -13188,3 +13188,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![The best smart speakers for 2021](https://icdn.digitaltrends.com/image/digitaltrends/amazon-echo-dot-4th-gen-with-clock-review-2-of-8.jpg "The best smart speakers for 2021")
+
+
+[The best smart speakers for 2021](https://www.digitaltrends.com/home-theater/best-smart-speakers/)
+
+
+> The Sonos One is the best smart speaker you can buy. Despite being released a couple of years ago, it's a contender that's tough to overlook even with all the competition from big players such as Google, Amazon, and Apple. It's not often you find something that supports both Amazon Alexa and Google Assistant. Call it rare, which it is, but it also features fantastic sound for its size, support for Apple's AirPlay 2 wireless streaming, and — because it's a Sonos — it's a champ at multi-room audio, integrating with the rest of your Sonos setup right out the box.
+
+
+***
+![Mini Motorways Steam Release Date Delayed to Summer 2021](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/Mini%20Motorways%20release%20date%20Steam%20Nintendo%20Switch%20cover.jpg?itok=WKgWTw-Q "Mini Motorways Steam Release Date Delayed to Summer 2021")
+
+
+[Mini Motorways Steam Release Date Delayed to Summer 2021](https://techraptor.net/gaming/news/mini-motorways-steam-release-date-delayed-to-summer-2021)
+
+
+> There's a bit of bad news for prospective city planners — the Mini Motorways Steam release date has been delayed by more than a month — and Nintendo Switch gamers will have to wait even longer. Mini Motorways is the newest game from Dinosaur Polo Club, the same developer that created the delightful puzzle game Mini Metro. Mini Metro is all about building subway stations and lines in order to keep everyone moving at a good pace in a constantly expanding, randomized simulation of real-world cities.
+
+
+***
+![Bitcoin price news LIVE – Crypto market crash & Bitcoin down 50% amid China crackdown plus Ethereum and Dogecoin updates](https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/crypto-2-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price news LIVE – Crypto market crash & Bitcoin down 50% amid China crackdown plus Ethereum and Dogecoin updates")
+
+
+[Bitcoin price news LIVE – Crypto market crash & Bitcoin down 50% amid China crackdown plus Ethereum and Dogecoin updates](https://www.the-sun.com/lifestyle/tech/2946887/bitcoin-price-crash-news-cryptocurrency-latest-china-ethereum-dogecoin/)
+
+
+> THE crypto market is in trouble again as China cracked down on coin mining and Bitcoin sat at just 50% of it all-time high on Sunday. However, a small rebound this morning saw Bitcoin's value rise from $32,000 to $36,000. The Ethereum, Cardano and Dogecoin currencies are also suffering though all three remain significantly up on where they were at the start of 2021. The market turmoil comes after China launched a cryptocurrency crackdown, which has led to top mining companies shutting down. Mining for cryptocurrency isn't actually a physical enterprise, rather it involves extremely sophisticated computers figuring out complicated maths problems in order to process crypto transactions.
+
+
+***
+![Free Lyft & Uber COVID-19 Vaccination Rides: What You Need To Know](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/05/Uber-and-Lyft-vaccine-rides.jpg "Free Lyft & Uber COVID-19 Vaccination Rides: What You Need To Know")
+
+
+[Free Lyft & Uber COVID-19 Vaccination Rides: What You Need To Know](https://screenrant.com/lyft-uber-free-covid-19-vaccine-rides-how-explained/)
+
+
+> Lyft and Uber are now offering riders in the U.S. the option to get a free ride to a COVID-19 vaccination. While the program is a way to help lower costs while also promoting vaccinations in general, there are some points to be aware of before booking a ride, including how much riders can save and how to go about booking a free COVID-19 ride. Due to the various lockdown and stay-at-home orders that were issued, ride-sharing was one of the areas initially hit hard by the COVID-19 pandemic. However, services like Uber and Lyft were quick to make changes to ensure they continued serving local communities during the turbulent period, including delivering groceries, medicines, and other essentials.
+
+
+***
+![Palestinian activists call for a one-star review on Facebook](https://media.nu.nl/m/1apxb4ba6o5z_wd1280.jpg/palestijnse-activisten-roepen-op-facebook-recensie-van-een-ster-te-geven.jpg "Palestinian activists call for a one-star review on Facebook")
+
+
+[Palestinian activists call for a one-star review on Facebook](https://www.tellerreport.com/tech/2021-05-24-palestinian-activists-call-for-a-one-star-review-on-facebook.rJQ_JMFYtO.html)
+
+
+> Tech/Game 2021-05-24T06:52:01.247Z Woman bitten by a wanderer while picking herbs, dies in the end Tech/Game 2021-05-24T09:51:35.448Z Six series this year of which little has been said for how good they are Tech/Game 2021-05-24T12:59:59.973Z 500 people for two days in a row... Modena vaccine arrives in Korea next week Tech/Game 2021-05-24T18:02:58.161Z Update for the Canon EOS M50: upright on the web Tech/Game 2021-05-24T09:16:01.112Z [Video] Big explosion in 19 years... The red lava that hit the airport Tech/Game 2021-05-24T07:04:29.
+
+
