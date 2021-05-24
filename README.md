@@ -12703,3 +12703,53 @@
 > In order to reach this milestone, multiple features needed to be added to libgccjit. I had to write as much as 7 gcc patches that needs to be applied to upstream gcc in order to run this GCC codegen for Rust. Among other things, support was added for thread-local-storage variables, specifying the link section of a variable, sized integer types (including 128-bit integers). Also a reflection API was added and a few bugs were fixed. In terms of features supported by rustc_codegen_gcc, the following were added recently and works with varying degrees of stability: Atomics Inline assembly Thread-local storage variables This project is currently at the point where many programs can be compiled, but run incorrectly, so my focus will be on fixing this and adding the other missing features.
 
 
+***
+![Big increase in DDoS attack volumes: Radware](https://itwire.com/media/k2/items/cache/cbb8f3492a9fcbe68cd1a48b36cb8943_XS.jpg "Big increase in DDoS attack volumes: Radware")
+
+
+[Big increase in DDoS attack volumes: Radware](https://itwire.com/security/big-increase-in-ddos-attack-volumes-radware.html)
+
+
+> According to Radware' Q1 DDoS Attack Report, the number of attacks fell marginally compared with the previous quarter, but attack volumes rose by nearly one third. The number of DDoS attacks in the first quarter of 2021 fell just 2% on the figure for the fourth quarter of 2020. But attack volumes increased by 31%. Radware said the largest recorded attack in the first quarter of 2021 was 295Gbps, compared with 260Gbps in the fourth quarter of 2020. Furthermore, the number of major attacks (10Gbps or more) tripled in the first quarter.
+
+
+***
+![[P] Bottery – A conversational agent prototyping platform](https://external-preview.redd.it/8820cE1LG4roIUWaOdb9Q4HEU67DI3IY41wiPYKWnDE.jpg?auto=webp&s=0146cedaa8e428bb1a7c763a93970a01b276db0d "[P] Bottery – A conversational agent prototyping platform")
+
+
+[[P] Bottery – A conversational agent prototyping platform](https://www.reddit.com/r/MachineLearning/comments/njl7t9/p_bottery_a_conversational_agent_prototyping/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Love, loss, and racism in Eric Jerome Dickey's final book, ‘The Son of Mr. Suleman' and 'The Sons Of Sam: A Descent Into Darkness:' Satanic Panic And The Obsession Surrounding The Son Of Sam](https://https://www.thearkatech.com/img/news_img/all/8899_9_1200.pic "Love, loss, and racism in Eric Jerome Dickey's final book, ‘The Son of Mr. Suleman' and 'The Sons Of Sam: A Descent Into Darkness:' Satanic Panic And The Obsession Surrounding The Son Of Sam")
+
+
+[Love, loss, and racism in Eric Jerome Dickey's final book, ‘The Son of Mr. Suleman' and 'The Sons Of Sam: A Descent Into Darkness:' Satanic Panic And The Obsession Surrounding The Son Of Sam](https://www.thearkatech.com/en/53626/)
+
+
+> © Instagram / the son By: Olivia Anderson2021-05-24 03:15:26 Last News: 'The Sons Of Sam: A Descent Into Darkness:' Satanic Panic And The Obsession Surrounding The Son Of Sam and Love, loss, and racism in Eric Jerome Dickey's final book, ‘The Son of Mr. Suleman' Discover Your 'Authentic Voice': 2021 SVA Commencement Highlights and Marilyn Minter's Keynote Speech. COVID Testing's Value Shrinks as Vaccines Beat Back Virus. The story of Tobias Harris' Game 1 masterpiece began on a dismal December night six months ago.
+
+
+***
+![realme sees sharp sales spurt in China in 1Q2021: Counterpoint](https://itwire.com/media/k2/items/cache/98771f3f73f6cbe0ec29fd0d008098ca_XS.jpg "realme sees sharp sales spurt in China in 1Q2021: Counterpoint")
+
+
+[realme sees sharp sales spurt in China in 1Q2021: Counterpoint](https://itwire.com/mobility/realme-sees-sharp-sales-spurt-in-china-in-1q2021-counterpoint.html)
+
+
+> The realme 7 Pro. Supplied Chinese smartphone brand realme has seen its sales grow by 82% quarter-on-quarter and 451% year-on-year during the first quarter of 2021, making it the seventh biggest brand in the Middle Kingdom, the technology analyst firm Counterpoint Research says. The company said this was notable in a quarter which saw the entire China market grow by just 5%. Other brands that showed double-digit gains were OPPO, Xiaomi and vivo. Despite being owned by the same company — B.B.K. Electronics — OPPO and vivo have been engaged in a heated battle for the top spot in the China market.
+
+
+***
+![Facebook Live event to celebrate 50 years of the Partridge Family and 5 Shockers from The Partridge Family Star Shirley Jones's Memoir](https://https://www.thearkatech.com/img/news_img/all/8846_12_1200.pic "Facebook Live event to celebrate 50 years of the Partridge Family and 5 Shockers from The Partridge Family Star Shirley Jones's Memoir")
+
+
+[Facebook Live event to celebrate 50 years of the Partridge Family and 5 Shockers from The Partridge Family Star Shirley Jones's Memoir](https://www.thearkatech.com/en/53625/)
+
+
+> © Instagram / the partridge family By: Jason Jones2021-05-24 03:13:25 Last News: 5 Shockers from The Partridge Family Star Shirley Jones's Memoir and Facebook Live event to celebrate 50 years of the Partridge Family Belarus forces airliner to land and arrests opponent, sparking U.S. and European outrage. Germany's quiet Catholic rebellion on gay blessings and women preachers. KCPD: 18-year-old woman shot and killed on KC's east side. Belarus: University students expelled from universities and imprisoned for peaceful protest.
+
+
