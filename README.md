@@ -12797,3 +12797,53 @@
 > I latched onto hash when I got interested in Perl message boards when I was a teen.I have no preference but would have to make a conscious effort to change to forward slashes.
 
 
+***
+![Neural Search](https://preview.redd.it/dh7bpsaksz071.png?width=700&format=png&auto=webp&s=17e97ab18075968656304a015d289782d6a8f7c2 "Neural Search")
+
+
+[Neural Search](https://www.reddit.com/r/Python/comments/njp22j/neural_search_the_latest_approach_to_build_smart/)
+
+
+> Who is this article for? Every python engineer who needs to implement search in their app. ML Experience, not required.TL;DR: Neural Search is a new approach to retrieving information using neural networks. Traditional techniques to search typically meant writing rules to 'understand' the data being searched and return the best results. But with neural search, developers don't need to wrack their brains for these rules; The system learns the rules by itself and gets better as it goes along. Even developers who don't know machine learning can quickly build a search engine using open-source frameworks such as Jina.
+
+
+***
+![China authorities name 105 apps for improper data practices](https://apicms.thestar.com.my/uploads/images/2021/05/24/1158941.jpg "China authorities name 105 apps for improper data practices")
+
+
+[China authorities name 105 apps for improper data practices](https://www.thestar.com.my/tech/tech-news/2021/05/24/china-authorities-name-105-apps-for-improper-data-practices)
+
+
+> A woman speaks on her phone near the logo for Douyin in Beijing. The CAC said that the 105 apps violated laws by excessively collecting and illegally accessing users' personal information, according to a statement posted on its site. — AP HONG KONG: China's Internet watchdog said on May 21 it had found Bytedance's Douyin, Microsoft Bing, LinkedIn and 102 other apps were engaged in improper collection and use of data and ordered them to fix the problem. The Cyberspace Administration of China (CAC) said that the 105 apps violated laws by excessively collecting and illegally accessing users' personal information, according to a statement posted on its site Friday.
+
+
+***
+![Battlegrounds Mobile India will feature Erangel map from PUBG Mobile but there is a slight change](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/battlegrounds_mobile_0-483x271_1200_210524093640.jpeg "Battlegrounds Mobile India will feature Erangel map from PUBG Mobile but there is a slight change")
+
+
+[Battlegrounds Mobile India will feature Erangel map from PUBG Mobile but there is a slight change](https://www.indiatoday.in/technology/news/story/battlegrounds-mobile-india-will-feature-erangel-map-from-pubg-mobile-but-there-is-a-slight-change-1806137-2021-05-24)
+
+
+> HighlightsKrafton has confirmed the Battlegrounds Mobile India will feature Erangel map.Its name, however, seems changed to Erangle, possibly to avoid comparisons.Battlegrounds Mobile India may also get the rest of the PUBG Mobile maps.Battlegrounds Mobile India took no time in becoming popular. Its official release is yet to take place and the excitement among PUBG Mobile lovers is high. That is because it is the new name for PUBG Mobile, a battle royale game that needs no introduction. Krafton, the company behind PUBG, has made some concrete arrangements to ring in the debut of the game, that is as and when it happens.
+
+
+***
+![Android 11: Everything you need to know!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/android-11-review-6.jpg "Android 11: Everything you need to know!")
+
+
+[Android 11: Everything you need to know!](https://www.androidcentral.com/android-11)
+
+
+> Android 11 continues to push Google's vision of Android forward. With Android 11, Google is making a few tweaks to refine the platform instead of making wholesale changes. Privacy is a big focus with Android 11, with Google introducing one-time permissions and granular control over what sort of data you share. There are new features to get excited about as well — the power button menu picked up a massive overhaul, the Conversations view does a great job highlighting your messages, and there are little tweaks throughout the interface that give it an added polish.
+
+
+***
+![TCL's new 20L Plus gets you a 64MP quad camera array for a wallet-friendly price](https://cdn.mos.cms.futurecdn.net/FuVNZSMGbEa2238qcCiWGj-1200-80.jpg "TCL's new 20L Plus gets you a 64MP quad camera array for a wallet-friendly price")
+
+
+[TCL's new 20L Plus gets you a 64MP quad camera array for a wallet-friendly price](https://www.techradar.com/news/tcls-new-20l-plus-gets-you-a-64mp-quad-camera-array-for-a-wallet-friendly-price)
+
+
+> (Image credit: TCL) TCL sure has been busy lately, having recently released two budget smartphone options in Australia with the TCL 20 SE and the TCL 20 5G, and now the Chinese manufacturer has added a third entry in its 20 Series range with the TCL 20L Plus.The TCL 20L Plus offers a 6.67-inch FHD+ display with pinhole selfie camera, and like the other two phones in the 20 Series, sports TCL's proprietary NXTVISION visual technology, which is said to improve colour, clarity and contrast in real-time.
+
+
