@@ -13238,3 +13238,50 @@
 > Tech/Game 2021-05-24T06:52:01.247Z Woman bitten by a wanderer while picking herbs, dies in the end Tech/Game 2021-05-24T09:51:35.448Z Six series this year of which little has been said for how good they are Tech/Game 2021-05-24T12:59:59.973Z 500 people for two days in a row... Modena vaccine arrives in Korea next week Tech/Game 2021-05-24T18:02:58.161Z Update for the Canon EOS M50: upright on the web Tech/Game 2021-05-24T09:16:01.112Z [Video] Big explosion in 19 years... The red lava that hit the airport Tech/Game 2021-05-24T07:04:29.
 
 
+***
+![Fintech Focus For May 25, 2021](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Fintech Focus For May 25, 2021")
+
+
+[Fintech Focus For May 25, 2021](https://www.benzinga.com/fintech/21/05/21268656/fintech-focus-for-may-25-2021)
+
+
+> Quote To Start The Day: 'Quality means doing it right when no one is looking.' Source: Henry Ford One Big Thing In Fintech: Square Inc., whose technology has already upended the way small businesses take card payments, is quietly preparing to offer checking and savings accounts to those customers, taking direct aim at behemoths such as JPMorgan Chase & Co. Source: Bloomberg Other Key Fintech Developments: Fintech targeting healthcare puzzle. MayStreet expands APAC coverage. Musk tackles BTC mining problems.
+
+
+***
+![New York Times: The Tech Titans Are Nowhere Close to Self-Driving Cars](https://media.breitbart.com/media/2018/08/AP_101027052253.jpg "New York Times: The Tech Titans Are Nowhere Close to Self-Driving Cars")
+
+
+[New York Times: The Tech Titans Are Nowhere Close to Self-Driving Cars](https://www.breitbart.com/tech/2021/05/24/new-york-times-the-tech-titans-are-nowhere-close-to-self-driving-cars/)
+
+
+> The New York Times has outlined how Silicon Valley tech giants are beginning to 'reset expectations' for the future of self-driving cars. According to the Times, only the richest companies are still working on the technology and they are expected to 'still toil for years on their driverless car projects.' In an article titled, 'The Costly Pursuit of Self-Driving Cars Continues On. And On. And On,' the New York Times notes that many Silicon Valley tech giants predicted that self-driving cars would be commonplace by 2021, but as further tech issues have arisen and more testing has been done many are beginning to lower their expectations for the tech.
+
+
+***
+[After a similar move against Twitter, Russia tells Google it will slow down its traffic and levy fines if "prohibited content" is not deleted within 24 hours (Reuters)](http://www.techmeme.com/210524/p24#a210524p24)
+
+
+> Reuters: After a similar move against Twitter, Russia tells Google it will slow down its traffic and levy fines if “prohibited content” is not deleted within 24 hours — Russia's communications watchdog on Monday gave Google (GOOGL.O) 24 hours to delete what it called prohibited content …
+
+
+***
+![Procore Announces Closing of Initial Public Offering and Full Exercise of Underwriters' Option to Purchase Additional Shares](https://mms.businesswire.com/media/20210524005833/en/880639/23/Procore_logo_white.jpg "Procore Announces Closing of Initial Public Offering and Full Exercise of Underwriters' Option to Purchase Additional Shares")
+
+
+[Procore Announces Closing of Initial Public Offering and Full Exercise of Underwriters' Option to Purchase Additional Shares](https://www.businesswire.com/news/home/20210524005833/en/Procore-Announces-Closing-of-Initial-Public-Offering-and-Full-Exercise-of-Underwriters%E2%80%99-Option-to-Purchase-Additional-Shares)
+
+
+> CARPINTERIA, Calif.--(BUSINESS WIRE)--Procore Technologies, Inc. (NYSE: PCOR), a leading provider of construction management software, today announced the closing of its initial public offering of 10,410,000 shares of its common stock, including the full exercise by the underwriters of their option to purchase 940,000 additional shares of common stock, at a price to the public of $67.00 per share. The shares are listed for trading on the New York Stock Exchange under the ticker symbol 'PCOR.' Goldman Sachs & Co.
+
+
+***
+![Federal vaccine doses not included in Washington state count](https://apnews.com/images/ShareLogo2.png "Federal vaccine doses not included in Washington state count")
+
+
+[Federal vaccine doses not included in Washington state count](https://apnews.com/article/wa-state-wire-washington-technology-business-coronavirus-pandemic-ad4eea573cb0ff82bbdb57a35b91092d)
+
+
+> No body in the article.
+
+
