@@ -13141,3 +13141,50 @@
 > 05/24/2021 - 12:15 | By: Patrick Perrault Home Gaming Gaming News Family Trainer Announced for Nintendo Switch Family Trainer, a game designed to pick up and play for players of all ages to work out, has been announced by Bandai Namco for the Nintendo Switch for a September 3, 2021 release. The game will combine both the Nintendo Joy Con Controllers and a Leg Strap to let players use their whole body during the fifteen minigames that are available. There's also a multiplayer mode that will be available where players can go head-to-head to see who can either work together to achieve a common goal or to get the highest score to see who is the best trainer in the family.
 
 
+***
+![Florida, in a First, Will Fine Social Media Companies That Bar Candidates](https://static01.nyt.com/images/2021/05/04/business/00hfo-florida-tech/00hfo-florida-tech-facebookJumbo.jpg "Florida, in a First, Will Fine Social Media Companies That Bar Candidates")
+
+
+[Florida, in a First, Will Fine Social Media Companies That Bar Candidates](https://www.nytimes.com/2021/05/24/technology/florida-twitter-facebook-ban-politicians.html)
+
+
+> Continue reading the main storyThe new law, a direct response to Facebook's and Twitter's suspensions of former President Donald J. Trump, affects candidates for statewide offices.Gov. Ron DeSantis of Florida last year. He said the new law meant state residents would be 'guaranteed protection against the Silicon Valley elites.'Credit...Anna Moneymaker for The New York TimesMay 24, 2021Updated 2:30 p.m. ETWASHINGTON — Florida on Monday became the first state to regulate how companies like Facebook, YouTube and Twitter moderate speech online, by imposing fines on social media companies that permanently bar political candidates for statewide office.
+
+
+***
+[DataPrep V0.3 has been released!](https://www.reddit.com/r/Python/comments/nk4gip/dataprep_v03_has_been_released/)
+
+
+> DataPrep is the easiest way to prepare data in Python. We're an open-source data preparation library, and we just dropped a very big, very exciting release.All 3 of DataPrep's current components have received some notable updates to make DataPrep closer than ever to a full-fledged, off-the-shelf data preparation solution. Here's a rundown of some changes:EDA:Added plot_diff(): Compare dataframesplot() now sports geographical heatmapsCustomize plots by changing display parametersClean:Added clean_duplication: Creates an interface for users to select how to cluster detected duplicate valuesAdded clean_address(): Clean US addressesAdded clean_headers(): Clean column headersAdded clean_date(): Clean datesAdded clean_df(): Clean a dataframeConnector:Added support for more APIs - we now support over 30 APIs on ConnectorThe Connector team is currently working on expanding Connector with the addition of ConnectorXThese updates allow users to use DataPrep for all their data preparation needs.
+
+
+***
+![Best mesh Wi-Fi routers 2021: the best wireless mesh routers for large homes](https://cdn.mos.cms.futurecdn.net/hk2mQ7BzY2QULACWWh6eXd-1200-80.jpg "Best mesh Wi-Fi routers 2021: the best wireless mesh routers for large homes")
+
+
+[Best mesh Wi-Fi routers 2021: the best wireless mesh routers for large homes](https://www.techradar.com/news/best-wireless-mesh-routers)
+
+
+> Invest in one of the best mesh Wi-Fi systems and move on from traditional routers. There might not be a better way to get a strong, continuous signal in a large or crowded network.The best mesh Wi-Fi systems are different from normal routers because they're comprised of multiple units that can be placed throughout the area to be covered. Because of this design, they're able to provide an uninterrupted and robust signal regardless of where you are in your home or office. And, while you could boost traditional wireless routers with a Wi-Fi extender, it's simpler, more efficient, and better to get one of these mesh systems.
+
+
+***
+![Father's Day gift ideas 2021: the 10 best gifts for tech-savvy dads](https://cdn.mos.cms.futurecdn.net/e7Bj3fuZD4dwoevipknEn3-1200-80.jpg "Father's Day gift ideas 2021: the 10 best gifts for tech-savvy dads")
+
+
+[Father's Day gift ideas 2021: the 10 best gifts for tech-savvy dads](https://www.techradar.com/news/fathers-day-gift-ideas-2020-10-gifts-for-tech-savvy-dads)
+
+
+> Father's Day is just around the corner (Sunday, June 20, to be exact), and if you're looking for the perfect gift for dad, then we have you covered. We've scoured the internet to bring you the 10 best Father's Day gifts for tech-savvy dads.Our gift guide includes a wide range of tech gifts at several different price points from brands like Apple, Amazon, Sony, and more. Whether he's a fitness fanatic, a movie and music lover, or someone who enjoys a good cup of coffee, our Father's Day gift guide has a device or appliance that's sure to make him smile from ear to ear.
+
+
+***
+![GDNative code-first apprach with CMake](https://external-preview.redd.it/zwvSYLJryeZwV3ZK8nnweVHwnvhJMPgv7KKjQPS0U0U.jpg?auto=webp&s=1f4ba7792014d761575bcdbe91933444861d8e64 "GDNative code-first apprach with CMake")
+
+
+[GDNative code-first apprach with CMake](https://www.reddit.com/r/programming/comments/nk49dy/gdnative_codefirst_apprach_with_cmake_that_one/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
