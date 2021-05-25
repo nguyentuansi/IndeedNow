@@ -13285,3 +13285,53 @@
 > No body in the article.
 
 
+***
+![You can get an Amazon Fire Stick Lite streaming device for as low as $20 today](https://www.gannett-cdn.com/-mm-/0ac4d43446bf371f6ef33a823905ed947c4a607a/c=5-0-787-440/local/-/media/2020/09/25/USATODAY/usatsports/Reviewed.com-RvEW-25595-FireStickLite_Amazon.png?width=782&height=440&fit=crop&format=pjpg&auto=webp "You can get an Amazon Fire Stick Lite streaming device for as low as $20 today")
+
+
+[You can get an Amazon Fire Stick Lite streaming device for as low as $20 today](https://www.usatoday.com/story/tech/reviewed/2021/05/24/amazon-fire-stick-lite-get-top-rated-streaming-device-sale-now/5242614001/)
+
+
+> Reviewers love the feature-packed Amazon Fire TV Stick for its ease of use. (Photo: Amazon)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.So much to binge-watch, so little time! With a slew of new series, reunions shows and revivals, such as Friends, Sex and the City and Hocus Pocus 2, on the horizon, there's no time like the present to ensure you've got the right streaming device on hand to view your favorites. That's especially true today, since Best Buy currently has a great deal on the feature-packed Amazon Fire Stick Lite.
+
+
+***
+![Asus ROG Zephyrus G15 review](https://cdn.mos.cms.futurecdn.net/GUfCwxzXecWm2UbtzwDe9o-1200-80.jpg "Asus ROG Zephyrus G15 review")
+
+
+[Asus ROG Zephyrus G15 review](https://www.techradar.com/reviews/asus-rog-zephyrus-g15)
+
+
+> The Asus ROG Zephyrus G15 is absolutely one of the best gaming laptops you can find right now thanks to its near-perfect combination of gaming performance, battery life, and design. It comes within a hair's breath of true desktop replacements running desktop-quality hardware while keeping the price reasonable (for a high-end gaming laptop) and packages everything in a design that isn't the same old Decepticon-inspired aesthetic that has plagued gaming hardware for the past decade or so. The Asus ROG Zephyrus G15 comes with one of the best mobile processors, the Ryzen 9 5900HS, and is paired with Nvidia's latest mobile RTX 3060, RTX 3070, and RTX 3080 GPUs, offering some of the highest framerates you can get on the go.
+
+
+***
+![Created My First Three Programs (Based off Marvel Comics)](https://external-preview.redd.it/4LcgdjTGYjUvMKvKTgayBg8a9_Q0gwQtrFbJEFBaL2A.jpg?auto=webp&s=9647826ade708476cff85012feb671a75d1ea839 "Created My First Three Programs (Based off Marvel Comics)")
+
+
+[Created My First Three Programs (Based off Marvel Comics)](https://www.reddit.com/r/Python/comments/nkc9sh/created_my_first_three_programs_based_off_marvel/)
+
+
+> TL;DR: Learned Python.  Made three programs.  Published to GitHub and can run from a website.About two weeks ago I decided to crash course Python.  It turned out to be a lot of fun and I wrote not only my first program, but my first three programs.  I went the non traditional way and starting piecing together the snippets of functions based on what I wanted them to do and doing a lot of searches on stack overflow, but the more I learned the more I grew and then rebuilt the code of the previous ones.
+
+
+***
+![What's on TV: 'Friends' reunion, 'Rugrats' and 'Lucifer'](https://s.yimg.com/os/creatr-uploaded-images/2021-05/72aac4f0-bcec-11eb-af96-4aca4222b693 "What's on TV: 'Friends' reunion, 'Rugrats' and 'Lucifer'")
+
+
+[What's on TV: 'Friends' reunion, 'Rugrats' and 'Lucifer'](https://www.engadget.com/whats-on-tv-friends-reunion-rugrats-and-lucifer-000755481.html)
+
+
+> Also new this week: 'My Fair Lady' 4K and the 'Black Lighting' series finale.Nickelodeon/Paramount+ ©2021This week HBO Max finally premieres the Friends reunion that has been delayed for a year due to the pandemic, but that isn't the only thing worth watching. Movie fans have a slew of Ultra HD Blu-ray releases to pick from this week, including classics like My Fair Lady and The Birds, as well as newer options like Super 8.  On streaming, Paramount+ kicks off its revival of Rugrats, while Netflix delivers the second half of season five to Lucifer fans.
+
+
+***
+![Coinbase Pro DCA Script For Lower Trading Fees](https://external-preview.redd.it/T3U2KBjhcXhEIHuoUuy5pbbuJP_wNH2RPT89PMLVC8k.jpg?auto=webp&s=3ac4137eac7022bab49c8e2fa5634f84cd90fb54 "Coinbase Pro DCA Script For Lower Trading Fees")
+
+
+[Coinbase Pro DCA Script For Lower Trading Fees](https://www.reddit.com/r/programming/comments/nkc3r6/coinbase_pro_dca_script_for_lower_trading_fees/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
