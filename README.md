@@ -13791,3 +13791,53 @@
 > As he prepares to release his final "Jackass" film, the stuntman takes stock of a surprisingly long, hilariously painful, and unusually influential career. These are four indicators of toxicity in a relationship that should be avoided. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. A deleted scene depicting the recasting of Truman's love interest reveals dark intentions by producers and how his best friend really cared about him after all.
 
 
+***
+![Tesla is no longer using radar sensors in Model 3 and Model Y vehicles built in North America – TechCrunch](https://techcrunch.com/wp-content/uploads/2018/10/model-3@2.jpg?w=712 "Tesla is no longer using radar sensors in Model 3 and Model Y vehicles built in North America – TechCrunch")
+
+
+[Tesla is no longer using radar sensors in Model 3 and Model Y vehicles built in North America – TechCrunch](https://techcrunch.com/2021/05/25/tesla-is-no-longer-using-radar-sensors-in-model-3-and-model-y-vehicles-built-in-north-america/)
+
+
+> Tesla Model Y and Model 3 vehicles bound for North American customers are being built without radar, fulfilling a desire by CEO Elon Musk to only use cameras combined with machine learning to support its advanced driver assistance system and other active safety features. Like many of Tesla's moves, the decision to stop using the sensor runs counter to the industry standard. For now, the radar-less cars will only be sold in North America. Tesla didn't state when or if it might remove the radar sensor in vehicles built for Chinese and European customers.
+
+
+***
+![Hillicon Valley: DC attorney general files antitrust lawsuit against Amazon](https://thehill.com/sites/default/files/ca_amazon_052820getty_4.jpg "Hillicon Valley: DC attorney general files antitrust lawsuit against Amazon")
+
+
+[Hillicon Valley: DC attorney general files antitrust lawsuit against Amazon](https://thehill.com/policy/technology/overnights/555406-hillicon-valley-dc-attorney-general-files-antitrust-lawsuit)
+
+
+> Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter by clicking HERE.Welcome! Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@chrisismills) and Rebecca Klar (@rebeccaklar_), for more coverage.Amazon found itself in hot water on Tuesday, with the Washington, D.C. attorney general filing an antitrust lawsuit against it, and over 600 Amazon tech workers separately calling on the company to address pollution levels concentrated in communities of color.
+
+
+***
+![Google Nest WiFi Review: No-hassle mesh networking](https://icdn.digitaltrends.com/image/digitaltrends/google-nest-wifi-review-9-of-13.jpg "Google Nest WiFi Review: No-hassle mesh networking")
+
+
+[Google Nest WiFi Review: No-hassle mesh networking](https://www.digitaltrends.com/smart-home-reviews/google-nest-wifi-review/)
+
+
+> 'Google's Nest WiFi is a great mesh networking system with a secret. It's also a smart speaker.' Simple installation and setup Google Assistant integration Ability to expand coverage Contemporary design fits any decor Somewhat expensive Single ethernet port For the average person, getting internet service at home means calling up a local cable provider or surfing the web to uncover some of the best deals around. Once there's something worth subscribing to, a technician comes out for the installation.
+
+
+***
+![SkyComms Partners With Sitetracker to Deliver Exceptional Turnkey Service Provider Experience](https://mms.businesswire.com/media/20210525005860/en/880660/23/Sitetracker_2color.jpg "SkyComms Partners With Sitetracker to Deliver Exceptional Turnkey Service Provider Experience")
+
+
+[SkyComms Partners With Sitetracker to Deliver Exceptional Turnkey Service Provider Experience](https://www.businesswire.com/news/home/20210525005860/en/SkyComms-Partners-With-Sitetracker-to-Deliver-Exceptional-Turnkey-Service-Provider-Experience)
+
+
+> May 25, 2021 06:00 PM Eastern Daylight Time SYDNEY--(BUSINESS WIRE)--Sitetracker, the global standard in managing high-volume projects for turnkey network infrastructure providers like Ericsson, Clarke Telecom, and SAC Wireless, is proud to announce its partnership with SkyComms, a leading turnkey provider of telecommunications infrastructure services in the APAC region. SkyComms acquired Australasia's top talent in network planning, civil structure, radio networks, and SAED to fully develop their end-to-end service offerings.
+
+
+***
+![Will Facebook, Twitter Face Ban In India Wednesday?](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/twitter-2617270_1920_3.jpg "Will Facebook, Twitter Face Ban In India Wednesday?")
+
+
+[Will Facebook, Twitter Face Ban In India Wednesday?](https://www.benzinga.com/news/21/05/21280366/will-facebook-twitter-face-ban-in-india-wednesday)
+
+
+> Even as the Indian government wages an uphill battle to contain the raging second wave of the COVID-19 pandemic, it is taking up cudgels against social media giants for not complying with new regulations it recently laid down. What Happened: The Indian government gave a deadline of May 25 for big social media companies to fall in line with the guidelines drawn up by the Ministry of Electronics and Information Technology, or MEIT. The MEIT announced in late February stricter regulations for social media platforms that include taking off any content flagged by authorities within 36 hours.
+
+
