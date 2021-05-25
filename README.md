@@ -13423,3 +13423,50 @@
 > Florida on Monday became the first state to regulate how companies such as Facebook, YouTube and Twitter moderate speech online, by imposing fines on social media companies that permanently bar political candidates in the state. The law, signed by Gov. Ron DeSantis, is a direct response to Facebook's and Twitter's bans of former President Donald Trump in January. In addition to the fines for barring candidates, it makes it illegal to prevent some news outlets from posting to their platforms in response to the contents of their stories.
 
 
+***
+![Global Eagle Becomes Anuvu](https://mms.businesswire.com/media/20210524005893/en/880490/23/anuvu_new_logo.jpg "Global Eagle Becomes Anuvu")
+
+
+[Global Eagle Becomes Anuvu](https://www.businesswire.com/news/home/20210524005893/en/Global-Eagle-Becomes-Anuvu)
+
+
+> May 25, 2021 02:08 AM Eastern Daylight Time SANTA ANA, Calif.--(BUSINESS WIRE)--Global Eagle, the leading provider of high-speed connectivity and entertainment solutions for demanding worldwide mobility markets, is rebranding as Anuvu, reflecting its focus on next-generation passenger and guest connected experiences in the air and at sea. Josh Marks, Chief Executive Officer, says: 'Our recent sale to new owners and their investment in our business provides a unique opportunity to align our brand with our vision.
+
+
+***
+![Airbnb boosts search features ahead of expected travel rebound](https://icdn.digitaltrends.com/image/digitaltrends/airbnb-on-smartphone-2021.jpg "Airbnb boosts search features ahead of expected travel rebound")
+
+
+[Airbnb boosts search features ahead of expected travel rebound](https://www.digitaltrends.com/news/airbnb-boosts-search-options-ahead-of-travel-rebound/)
+
+
+> Airbnb With coronavirus vaccination programs allowing travel to open up in some parts of the world, Airbnb is rolling out a bunch of handy new features to help improve the search experience on its website and app. The web-based accommodation and travel service said flexibility is central to the changes, which introduce three new ways to perform searches using its online tools. First off, Flexible Dates will make it easier to find the best places to stay if you're not too fixed on when you want to travel.
+
+
+***
+![Microsoft Edge to add a killer new dictionary feature — how it'll make you smarter](https://cdn.mos.cms.futurecdn.net/icXyWDETRPRVFX87M8iaVJ-1200-80.jpg "Microsoft Edge to add a killer new dictionary feature — how it'll make you smarter")
+
+
+[Microsoft Edge to add a killer new dictionary feature — how it'll make you smarter](https://www.laptopmag.com/news/microsoft-edge-to-add-a-killer-new-dictionary-feature-how-itll-make-you-smarter)
+
+
+> (Image credit: Microsoft) Microsoft Edge is getting a new dictionary feature. Have you ever spotted an unknown word while reading an article, but you were too lazy to Google it? Well, thanks to Edge's new highlight-and-define feature, you can quickly obtain the meaning of words without doing manual searches.This in-line dictionary functionality, previously available on the legacy, non-Chromium Edge browser, is currently being tested with the Microsoft Edge Insider community (via TechRadar).Microsoft Edge adds new useful features for users' convenienceThe new built-in dictionary can be accessed by highlighting and right-clicking words.
+
+
+***
+[Garena Free Fire redeem codes today 2021: MAY 25 ALERT](https://www.zeebiz.com/technology/apps/news-garena-free-fire-redeem-codes-today-2021-may-25-alert-know-how-to-get-free-emote-surfboard-and-more-157296)
+
+
+> Garena Free Fire redeem codes May 25: Garena Free Fire players often look for alternative ways to obtain exclusive in-game items at no cost. Out of all the working methods, redeem codes are often considered to be the best way to get Free Fire items for free.
+
+
+***
+![Importance of music in coding](https://external-preview.redd.it/kdnpSwVUmiFQNp_sfWw9tlVHBO0udqnrKOZqNY_o7c4.jpg?auto=webp&s=78f2dd8a479e79c7d9c71b2fb0ee6b112b41cf6f "Importance of music in coding")
+
+
+[Importance of music in coding](https://www.reddit.com/r/programming/comments/nkikqx/importance_of_music_in_coding_great_coding_music/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
