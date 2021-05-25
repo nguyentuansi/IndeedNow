@@ -13376,3 +13376,50 @@
 > Lots of keen drone pilots have been heading to Iceland recently to capture dramatic aerial shots of Mount Fagradalsfjall, which has been erupting since March. DJI, which released its first-ever FPV (first-person view) drone in the same month, recently hooked up with local drone pilot Ása Steinars to capture footage of the volcano's spectacular lava fountains using the company's latest flying machine. The results, we're sure you'll agree, are pretty incredible. Although some of the footage was also captured using a Mavic 2 Pro, it seems likely that the faster sequences that take us through the lava fountains were shot by the DJI FPV drone.
 
 
+***
+![Huge expense Aussies are forced to pay](https://cdn.newsapi.com.au/image/v1/b78a0144ad4fd70d22631dc41f696e62?width=1280 "Huge expense Aussies are forced to pay")
+
+
+[Huge expense Aussies are forced to pay](https://www.news.com.au/technology/motoring/motoring-news/australians-paying-record-amount-for-transport-in-2021/news-story/4a0d79abb7256d8503cbfcce35a2ad82)
+
+
+> A large number of Australians are paying more than $460 a week just to get around.New research from the Australia Automobile Association (AAA) shows that transport costs are making a big dent in household budgets, as Aussies are on average paying $44 more a week now than they were at the start of the year.The head of the AAA, Michael Bradley, says the costs have jumped sharply since the start of 2021 and that more needs to be done to help ease the pressure on households.'This sharp rise in transport costs needs to be monitored by governments, which need to avoid policies and decisions that impact cost of living,' says Mr Bradley.
+
+
+***
+![NSC: Viral text urging users not to checkin with MySejahtera after 8pm is a fake](https://apicms.thestar.com.my/uploads/images/2021/05/25/1160265.jpg "NSC: Viral text urging users not to checkin with MySejahtera after 8pm is a fake")
+
+
+[NSC: Viral text urging users not to checkin with MySejahtera after 8pm is a fake](https://www.thestar.com.my/tech/tech-news/2021/05/25/nsc-viral-message-urging-users-not-to-check-in-using-mysejahtera-after-8pm-is-fake-news)
+
+
+> The use of MySejahtera to check-in to places in mandatory during the pandemic in Malaysia to help health officials with Covid-19 contact tracing. Failure to record or register details before entering a premise can result in a fine of up to RM10,000. — AZHAR MAHFOF/The Star PETALING JAYA: A viral message urging members of the public not to use MySejahtera after 8pm to check into places has been dismissed as fake by the National Security Council (NSC) in a statement. The message, which has been circulating on WhatsApp and Twitter, claimed that as most shops will be closed at 8pm starting May 25, members of the public have ‘no reason' to be outside.
+
+
+***
+[Apple WWDC 2021 schedule ANNOUNCED; event keynote on THIS date](https://www.zeebiz.com/technology/news-apple-wwdc-2021-schedule-announced-event-keynote-on-this-date-ios-15-macos-12-ipad-os-15-and-more-expected-watch-event-on-these-platforms-157285)
+
+
+> Apple WWDC 2021 schedule update: US-based tech giant Apple has announced the schedule of its Worldwide Developers Conference (WWDC) event which will commence on June 7. The annual conference will announce the latest software and technologies from Apple.
+
+
+***
+![Microsoft Build 2021: Everything that Microsoft may announce, how to watch live stream](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Microsoft_Build-647x363.png?NhFV0umSKoGpCeb.kH_6cdWeKgRAr.LR "Microsoft Build 2021: Everything that Microsoft may announce, how to watch live stream")
+
+
+[Microsoft Build 2021: Everything that Microsoft may announce, how to watch live stream](https://www.indiatoday.in/technology/news/story/microsoft-build-2021-everything-that-microsoft-may-announce-how-to-watch-live-stream-1806591-2021-05-25)
+
+
+> After Google, it is Microsoft's turn to showcase what it has been working on lately as well as its future roadmap for its products and services. Microsoft Build 2021 is about to kick off later today (May 25), and the tech major is expected to make a slew of announcements during the virtual-only event.Since this is Microsoft's developers' conference, the company is bound to share updates on its Windows platform. Several recent rumours have hinted at a big revamp in the works, and Microsoft is anticipated to shed more light on the same during the event.
+
+
+***
+![Florida, in a first, will fine social media companies that ban candidates](https://images.indianexpress.com/2021/05/Untitled-design-88.png "Florida, in a first, will fine social media companies that ban candidates")
+
+
+[Florida, in a first, will fine social media companies that ban candidates](https://www.nytimes.com/2021/05/24/technology/florida-twitter-facebook-ban-politicians.html)
+
+
+> Florida on Monday became the first state to regulate how companies such as Facebook, YouTube and Twitter moderate speech online, by imposing fines on social media companies that permanently bar political candidates in the state. The law, signed by Gov. Ron DeSantis, is a direct response to Facebook's and Twitter's bans of former President Donald Trump in January. In addition to the fines for barring candidates, it makes it illegal to prevent some news outlets from posting to their platforms in response to the contents of their stories.
+
+
