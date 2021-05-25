@@ -13594,3 +13594,53 @@
 > After years of development, Google‘s Fuchsia OS is finally making its debut on real devices. Earlier this month, the Bluetooth Special Interest Group (SIG) had certified the first-generation Google Nest Hub with Fuchsia 1.0. The company has now confirmed that the 2018 smart display is receiving a new software update that changes its underlying operating system to Fuchsia. The Google Nest Hub (originally Google Home Hub) had launched with Linux-based Cast OS.This update will not change any functionality of the device.
 
 
+***
+![Adaptiva Helps Enterprises Achieve Maximum Health, Compliance and Performance With Endpoint Health Advancements](https://mms.businesswire.com/media/20210525005245/en/621711/23/adaptiva-logo.jpg "Adaptiva Helps Enterprises Achieve Maximum Health, Compliance and Performance With Endpoint Health Advancements")
+
+
+[Adaptiva Helps Enterprises Achieve Maximum Health, Compliance and Performance With Endpoint Health Advancements](https://www.businesswire.com/news/home/20210525005245/en/Adaptiva-Helps-Enterprises-Achieve-Maximum-Health-Compliance-and-Performance-With-Endpoint-Health-Advancements)
+
+
+> May 25, 2021 10:15 AM Eastern Daylight Time SEATTLE--(BUSINESS WIRE)--Adaptiva, a leading, global provider of endpoint management and security solutions for enterprise customers, today announced the release of a new version of Endpoint Health, the fastest, most scalable solution to assess and remediate endpoint health. With this launch, Adaptiva not only adds new capabilities and health checks to its popular Endpoint Health product, but it also extends health checks and remediation capabilities to remote endpoints that are disconnected from the corporate network.
+
+
+***
+![We use smart technology at home – why not at work?](https://cdn.mos.cms.futurecdn.net/kDuFUgHwZ5szengfMW5gyE-1200-80.jpg "We use smart technology at home – why not at work?")
+
+
+[We use smart technology at home – why not at work?](https://www.techradar.com/news/we-use-smart-technology-at-home-why-not-at-work)
+
+
+> (Image credit: Pixabay) The pandemic has permanently transformed the world of work in the last 12 months, forcing us all to rethink our ideal working environment. While companies have felt pressure to downsize their real estate, the latest data suggests the physical workplace is going nowhere – with three-quarters of US employees eager to return to the office.About the authorLaurent Bataille is Executive Vice President of Digital Energy Division at Schneider Electric.The most likely future of work is what's called a highly flexible ‘hybrid' model, where employees around the world can choose whether they work from home or an office on given days.
+
+
+***
+![$500+ Billion Commercial Drone Markets](https://mms.businesswire.com/media/20210525005689/en/371054/23/ResearchAndMarkets_800px.jpg "$500+ Billion Commercial Drone Markets")
+
+
+[$500+ Billion Commercial Drone Markets](https://www.businesswire.com/news/home/20210525005689/en/500-Billion-Commercial-Drone-Markets---Global-Size-Share-Trends-Analysis-Report-2021-2028---ResearchAndMarkets.com)
+
+
+> May 25, 2021 10:09 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Commercial Drone Market Size, Share & Trends Analysis Report by Product, by Application, by End-use, by Region, and Segment Forecasts, 2021-2028" report has been added to ResearchAndMarkets.com's offering. The global commercial drone market size is anticipated to reach USD 501.4 billion by 2028, registering a CAGR of 57.5% from 2021 to 2028. The rising demand for commercial drones can be attributed to the growing application base across a wide range of end-use verticals, including real estate and construction, media and entertainment, and agriculture.
+
+
+***
+![Tata Sky vs Jio Fiber broadband plans under Rs 1000 per month: Data, speeds and other benefits compared](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-05-25_at_7_1200_210525193753.22.-483x271.png "Tata Sky vs Jio Fiber broadband plans under Rs 1000 per month: Data, speeds and other benefits compared")
+
+
+[Tata Sky vs Jio Fiber broadband plans under Rs 1000 per month: Data, speeds and other benefits compared](https://www.businesstoday.in/technology/tata-sky-vs-jio-fiber-broadband-plans-under-rs-1000-per-month-data-speeds-and-other-benefits-compared/story/439992.html)
+
+
+> Highlights JioFiber offers broadband plans starting from Rs 399. JioFiber and Tata Sky offer broadband plans with 50 Mbps data. While TataSky broadband offers a broadband plan at Rs 950, JioFiber offers 150 Mbps at Rs 999. It has not been long since JioFiber introduced broadband plans starting from Rs 399. These plans offer 30 Mbps speed for a month with unlimited calling. JioFiber also gives a 60 Mbps broadband plan for Rs 699. For the same price, Tata Sky broadband gives a 50 Mbps broadband plan, but if users buy them for 3months together for Rs 2097.
+
+
+***
+![Incorta Announces Tableau Connector to Extend Faster Data Analytics to All Customers](https://mms.businesswire.com/media/20210525005318/en/880742/23/incorta-logo-navy.jpg "Incorta Announces Tableau Connector to Extend Faster Data Analytics to All Customers")
+
+
+[Incorta Announces Tableau Connector to Extend Faster Data Analytics to All Customers](https://www.businesswire.com/news/home/20210525005318/en/Incorta-Announces-Tableau-Connector-to-Extend-Faster-Data-Analytics-to-All-Customers)
+
+
+> May 25, 2021 10:06 AM Eastern Daylight Time SAN MATEO, Calif.--(BUSINESS WIRE)--Incorta, the Direct Data Platform, today announced a partnership with Tableau, the world's leading analytics platform, on a Tableau connector. The new connector will allow thousands of customers to use Tableau as their preferred analytics platform while speeding up complex data workflows with Incorta as their data source system. Data-informed decision making has never been more important, but without the right tools it can be difficult to make sense of massive data sets and queries.
+
+
