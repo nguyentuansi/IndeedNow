@@ -13520,3 +13520,40 @@
 > May 25, 2021 04:00 AM Eastern Daylight Time BOULOGNE-BILLANCOURT, France--(BUSINESS WIRE)--Nowadays virtualization and hyperconvergence are among the concerns of many companies, IKOULA – a key player in the European IaaS market – aims to democratize the use of VMware technology by offering a VMware introductory offer, packaged to create and operate its own virtual datacenter(s), with a low budget. Available at €69 / month excl. VAT, this introductory offer includes 1 vCPU (2,9 Ghz), 4 GB of vRAM, 100 GB of hard disk, 1 IPv4 address and an unlimited traffic volume.
 
 
+***
+[Dollar keeps lower so far on the session](https://www.forexlive.com/technical-analysis/!/dollar-keeps-lower-so-far-on-the-session-20210525)
+
+
+> EUR/USD hovers at its highest levels since January There was a bout of dollar weakness as European traders entered earlier, helped by the fact that USD/CNH fell below the 6.40 level to its lowest since 2018.
+
+
+***
+![The best Bluetooth speakers 2021: the top portable speakers for any budget](https://cdn.mos.cms.futurecdn.net/9adaSeztD9sQAA6uULgp5Y-1200-80.jpg "The best Bluetooth speakers 2021: the top portable speakers for any budget")
+
+
+[The best Bluetooth speakers 2021: the top portable speakers for any budget](https://www.techradar.com/news/audio/portable-audio/10-best-portable-speakers-1069079)
+
+
+> The best Bluetooth speakers of 2021 are must-have devices for any music lover, thanks to their portable, durable designs and fantastic audio performances. It's not hard to see why they've become the go-to sound solution for music fans looking to take their tunes wherever they go. Whether you're heading out to your backyard, relaxing at home, or heading down to the beach, the best Bluetooth speakers are an essential purchase – and if you are headed down to the beach, be sure to check out our guide to the best waterproof speakers, too.
+
+
+***
+![PS5 restock UK – live: BT stock available now via code system as Very drop rumoured today](https://static.independent.co.uk/2021/05/21/10/ps5%20console%20%281%29.jpg?width=1200&auto=webp&quality=75 "PS5 restock UK – live: BT stock available now via code system as Very drop rumoured today")
+
+
+[PS5 restock UK – live: BT stock available now via code system as Very drop rumoured today](https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/ps5-restock-today-uk-very-digital-b1851314.html)
+
+
+> With an eye on all the major retailers, follow live for the latest newsUpdate: BT PS5 codes have been sent out. A drop at Very is expected next. Read on for more details. The PS5 console was released more than six months ago, but if you're a gamer you'll know how hard it has been to get your hands on the latest device.Restock issues have been plaguing Sony since the reveal, and despite stores reopening in the UK as lockdown measures lift, the situation doesn't seem to be getting much better.It has become so difficult for people to get their hands on a PS5 that it's spawned a whole Twitter community of stock trackers, as well as a 24,500-strong community of Redditors all trying to nab the console before it sells out again.
+
+
+***
+![This iOS 15 concept will have you even more pumped for WWDC21!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/ios-15-lock-screen-widget-concept.jpg "This iOS 15 concept will have you even more pumped for WWDC21!")
+
+
+[This iOS 15 concept will have you even more pumped for WWDC21!](https://www.imore.com/ios-15-concept-will-have-you-even-more-pumped-wwdc21)
+
+
+> Source: Nicholas Ghigo A new iOS 15 concept images split-screen multitasking, lock screen widgets, and more. Apple will announce iOS 15 during its WWDC opening keynote in two weeks. If all goes according to previous years we can expect Apple to announce iOS 15 during its WWDC21 event, kicking off in just two weeks. We don't know for sure what Apple will announce during that opening keynote, but we can certainly hope. And this new concept video shows us exactly what we should be hoping for when that announcement takes place.
+
+
