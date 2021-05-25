@@ -13644,3 +13644,50 @@
 > May 25, 2021 10:06 AM Eastern Daylight Time SAN MATEO, Calif.--(BUSINESS WIRE)--Incorta, the Direct Data Platform, today announced a partnership with Tableau, the world's leading analytics platform, on a Tableau connector. The new connector will allow thousands of customers to use Tableau as their preferred analytics platform while speeding up complex data workflows with Incorta as their data source system. Data-informed decision making has never been more important, but without the right tools it can be difficult to make sense of massive data sets and queries.
 
 
+***
+![Memorial Day sales 2021: best deals from Home Depot, Lowe's, Best Buy and more](https://cdn.mos.cms.futurecdn.net/o9c9AL77MfgQYLp8v3mQBL-1200-80.jpg "Memorial Day sales 2021: best deals from Home Depot, Lowe's, Best Buy and more")
+
+
+[Memorial Day sales 2021: best deals from Home Depot, Lowe's, Best Buy and more](https://www.techradar.com/news/best-memorial-day-sales-2020-final-deals)
+
+
+> Memorial Day sales have arrived early with fantastic deals from Home Depot, Lowe's, Best Buy, and more. While the official Memorial Day date is May 31, most retailers have already launched their official sales with incredible bargains on everything from patio furniture, mattresses, and appliances, to TVs, laptops, smartwatches, and so much more. To help you sort through all the offers, we've created this guide to bring you the best Memorial Day sales and the top deals that are happening right now.
+
+
+***
+![The best gaming monitor 2021: the 10 best gaming screens of the year](https://cdn.mos.cms.futurecdn.net/5Cb9648yap3ShYeqTgYS4W-1200-80.jpg "The best gaming monitor 2021: the 10 best gaming screens of the year")
+
+
+[The best gaming monitor 2021: the 10 best gaming screens of the year](https://www.techradar.com/news/best-gaming-monitor)
+
+
+> Choosing the best gaming monitor isn't as straightforward as you might think. It isn't just about getting the highest resolution you can afford. A display that's ideal for gaming, after all, needs a few more things than having 1440p or 4K resolution.Features like a faster refresh rate, wide aspect ratio, and even curvature also matter when it comes to picking the best gaming monitor. They help deliver a smoother and more immersive gaming experience that will do justice to that Nvidia RTX 3000 series GPU under the hood of your gaming PC.
+
+
+***
+[Messari: transactions on decentralized exchanges totaled $122B in April vs. <$1B a year earlier; Uniswap had volume of $36.6B in April vs. $110B at Coinbase (Alexander Osipovich/Wall Street Journal)](http://www.techmeme.com/210525/p29#a210525p29)
+
+
+> Alexander Osipovich / Wall Street Journal: Messari: transactions on decentralized exchanges totaled $122B in April vs. <$1B a year earlier; Uniswap had volume of $36.6B in April vs. $110B at Coinbase — Decentralized markets such as Uniswap account for a growing share of cryptocurrency trading — Coinbase Global Inc. …
+
+
+***
+![The best iPhone 12 Pro Max deals for May 2021](https://cdn.mos.cms.futurecdn.net/kWshrCMW2xVn6q6Nrpt2z5-1200-80.jpg "The best iPhone 12 Pro Max deals for May 2021")
+
+
+[The best iPhone 12 Pro Max deals for May 2021](https://www.techradar.com/deals/apple-iphone-12-pro-max-deals)
+
+
+> This week's best iPhone 12 Pro Max deals will help our readers score themselves a significant discount on one of the best - and most expensive - phones available right now. If you're looking for trade-in at one of the bigger carriers there are particularly strong options currently, and there's even an additional free device up for grabs right now at Verizon. If that's piquing your interest, then just down below you can see our recommendations for this week's best iPhone 12 Pro Max deals.Released back in November of 2020, the iPhone 12 Pro Max was part of the 'second-wave' of 12-series devices alongside the diminutive palm-friendly iPhone 12 Mini deals.
+
+
+***
+![Best Samsung Galaxy S21 Deals – Updated May 2021](https://www.androidheadlines.com/wp-content/uploads/2021/01/Samsung-Galaxy-S21-Ultra-AH-01.jpg "Best Samsung Galaxy S21 Deals – Updated May 2021")
+
+
+[Best Samsung Galaxy S21 Deals – Updated May 2021](https://www.androidheadlines.com/best-samsung-galaxy-s21-deals-sales)
+
+
+> The Samsung Galaxy S21 is now available for purchase, as of January 29. But where can you get the best price? That's what we're here for. This list has the best prices for the Galaxy S21, so you can get it for the best price.But for those that want to grab the Galaxy S21, without paying full price, who has the best deals on these new Android smartphones? Well that's what we are here to show you. That way you won't end up spending more than you need to, to get the next big thing from Samsung.Best Samsung Galaxy S21 DealsAll of the major carriers and retailers are selling the three Galaxy S21 models.
+
+
