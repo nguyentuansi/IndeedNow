@@ -13470,3 +13470,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Seva Sindhu Drivers application: How to apply for the Karnataka driver scheme](https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/ib9vgpfafirrnplg_1621928622.jpeg?tr=f-jpeg "Seva Sindhu Drivers application: How to apply for the Karnataka driver scheme")
+
+
+[Seva Sindhu Drivers application: How to apply for the Karnataka driver scheme](https://www.republicworld.com/technology-news/apps/seva-sindhu-drivers-application-how-to-apply-for-the-karnataka-driver-scheme.html)
+
+
+> Karnataka Government has been taking various important steps to help the people of the state fight against the COVID-19 crisis. Moreover, this time the state government launched a Karnataka Driver scheme called the Seva Sindhu. In this scheme, Auto and Taxi driver will be able to get financial aid from the government. So, here is all you need to know about Seva Sindhu, how to apply, eligibility, required documents and more.What is the Seva Sindhu Karnataka Driver scheme?The Government of Karnataka has declared a Karnataka driver scheme for all the registered and licenced drivers to fight against the covid-19 crisis.
+
+
+***
+![Viral Charlie bit my finger sold as an NFT, to be removed from YouTube soon](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/Screenshot_2021-05-25_at_1.27._0-647x363.png?Z9oK0Adung4GRH.ZiQbg3sXzcZmpQIbf "Viral Charlie bit my finger sold as an NFT, to be removed from YouTube soon")
+
+
+[Viral Charlie bit my finger sold as an NFT, to be removed from YouTube soon](https://www.indiatoday.in/technology/news/story/viral-charlie-bit-my-finger-sold-as-an-nft-to-be-removed-from-youtube-soon-1806717-2021-05-25)
+
+
+> A popular video of a toddler happily munching on his elder brother's finger will not available on YouTube anymore.The video has been sold as a Non-fungible token or NFT and has fetched the owners a whopping $7,60,999.The Charlie Bit My Finger video was auctioned and over 11 countries took part in it.A popular video of a toddler happily munching on his elder brother's finger will not available on YouTube anymore. The video has been sold as a Non-fungible token or NFT and has fetched the owners a whopping $7,60,999 (roughly Rs.
+
+
+***
+![The astonishing view of Lorient harbor from space by Thomas Pesquet](http://www.tellerreport.com/images/no-image.png "The astonishing view of Lorient harbor from space by Thomas Pesquet")
+
+
+[The astonishing view of Lorient harbor from space by Thomas Pesquet](https://www.tellerreport.com/tech/2021-05-25-the-astonishing-view-of-lorient-harbor-from-space-by-thomas-pesquet.B1m8k45Kd.html)
+
+
+> The French astronaut has published a new snapshot of Brittany taken from the International Space Station It has become his specialty. From the International Space Station (ISS) where he is located, the famous French astronaut Thomas Pesquet regularly sends unpublished photos of the French regions. Brittany seems to inspire him since, after the Quiberon peninsula, this time it is a magnificent snapshot of Morbihan that the astronaut, on a mission for a month for the needs of the European Space Agency, published on Sunday.
+
+
+***
+![Royole shows off a stretchable micro-LED display for next-gen wearables](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/royole-stretchable-micro-led-display.jpg "Royole shows off a stretchable micro-LED display for next-gen wearables")
+
+
+[Royole shows off a stretchable micro-LED display for next-gen wearables](https://www.androidcentral.com/royole-shows-off-micro-led-stretchable-display-wearables)
+
+
+> Source: Royole Royole has announced the world's first micro-LED based stretchable display. The 2.7-inch panel demonstrated by Royole is not just foldable and rollable, but is also claimed to be capable of 3D free form shaping. Royole says its stretchable micro-LED displays are highly applicable for wearables and smart car windshields. Royole, which launched the world's first foldable phone in late 2018, has now announced the first micro-LED based stretchable display technology (via Android Authority).
+
+
+***
+![VMware by IKOULA: An Introductory Offer to Familiarize Yourself With The VMware Environment, While Controlling Your Budget](https://mms.businesswire.com/media/20210525005042/en/731339/23/IKOULA_Logo-02_rvb.jpg "VMware by IKOULA: An Introductory Offer to Familiarize Yourself With The VMware Environment, While Controlling Your Budget")
+
+
+[VMware by IKOULA: An Introductory Offer to Familiarize Yourself With The VMware Environment, While Controlling Your Budget](https://www.businesswire.com/news/home/20210525005042/en/VMware-by-IKOULA-An-Introductory-Offer-to-Familiarize-Yourself-With-The-VMware-Environment-While-Controlling-Your-Budget)
+
+
+> May 25, 2021 04:00 AM Eastern Daylight Time BOULOGNE-BILLANCOURT, France--(BUSINESS WIRE)--Nowadays virtualization and hyperconvergence are among the concerns of many companies, IKOULA – a key player in the European IaaS market – aims to democratize the use of VMware technology by offering a VMware introductory offer, packaged to create and operate its own virtual datacenter(s), with a low budget. Available at €69 / month excl. VAT, this introductory offer includes 1 vCPU (2,9 Ghz), 4 GB of vRAM, 100 GB of hard disk, 1 IPv4 address and an unlimited traffic volume.
+
+
