@@ -13691,3 +13691,53 @@
 > The Samsung Galaxy S21 is now available for purchase, as of January 29. But where can you get the best price? That's what we're here for. This list has the best prices for the Galaxy S21, so you can get it for the best price.But for those that want to grab the Galaxy S21, without paying full price, who has the best deals on these new Android smartphones? Well that's what we are here to show you. That way you won't end up spending more than you need to, to get the next big thing from Samsung.Best Samsung Galaxy S21 DealsAll of the major carriers and retailers are selling the three Galaxy S21 models.
 
 
+***
+![The Big Deal in Amazon's Antitrust Case](https://static01.nyt.com/images/2021/05/25/business/25ontech-amazon/25ontech-amazon-facebookJumbo.jpg "The Big Deal in Amazon's Antitrust Case")
+
+
+[The Big Deal in Amazon's Antitrust Case](https://www.nytimes.com/2021/05/25/technology/amazon-antitrust-lawsuit.html)
+
+
+> Continue reading the main storyThe claim that Amazon is crushing competition is both novel and railroad baron-style old-school.Credit...Helen H. Richardson/The Denver Post, via Getty ImagesMay 25, 2021, 2:25 p.m. ETThis article is part of the On Tech newsletter. You can sign up here to receive it weekdays.Hoo boy, this is a moment. A government authority in the United States has sued Amazon over claims that the company is breaking the law by unfairly crushing competition.The lawsuit, filed on Tuesday by the attorney general for the District of Columbia, joins the recent government antitrust cases against Google and Facebook.
+
+
+***
+![Python One Liners Book Review](https://external-preview.redd.it/mWifyyQzXie3iBvlFzAjCbF4N2AZJCSvRmtTBUt2onM.jpg?auto=webp&s=2b3ffe673cc9dd8a7aff1847a3a1fdf2158e2f52 "Python One Liners Book Review")
+
+
+[Python One Liners Book Review](https://www.reddit.com/r/Python/comments/nkwe25/python_one_liners_book_review/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![M1 iMacs are super thin. Rumored M1X Mac mini, too. How small can Apple go?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/mac-mini-pro-display.jpg "M1 iMacs are super thin. Rumored M1X Mac mini, too. How small can Apple go?")
+
+
+[M1 iMacs are super thin. Rumored M1X Mac mini, too. How small can Apple go?](https://www.imore.com/m1-imac-all-screen-rumored-m1x-mac-mini-super-thin-how-small-can-apple-go)
+
+
+> Source: Jon Prosser x RendersbyIan Apple's move to its own silicon is allowing all kinds of changes to its lineup already, and we're only on the first version of its chips. We've seen the M1 power a new iMac that's thinner than a headphone jack is long. We've seen a rumored Mac mini refresh that's about half the thickness of the Intel machines that still sell in the Apple Store. We even have an M1 in an iPad. So how thin – or how small – could Apple go? It's abundantly clear that much of Apple's design in recent years hasn't been about fitting components into a box.
+
+
+***
+![Best Adobe After Effects alternatives: free and paid software options from Blackmagic and others](https://cdn.mos.cms.futurecdn.net/ZN2rGJrmw2MWMTHKUUpJVa-1200-80.jpg "Best Adobe After Effects alternatives: free and paid software options from Blackmagic and others")
+
+
+[Best Adobe After Effects alternatives: free and paid software options from Blackmagic and others](https://www.techradar.com/best/adobe-after-effects-alternatives)
+
+
+> Adobe After Effects is one of the most popular software options available when it comes to visual effects, motion graphics, and compositing. Part of the Creative Cloud suite of software, it enables you to craft effects to an industry standard, and it's used to polish many high-end Hollywood productions.However, After Effects isn't for everyone. You may not like the complex layer-based interface, or you might not be keen on its functionality. Or it may be that you're put off by the subscription fee which can become very expensive over time.
+
+
+***
+![Alertus Technologies to Bring IoT Technology Hub for Safety and Security Industry to Downtown Baltimore](https://mms.businesswire.com/media/20210525005891/en/880933/23/alertus_logo_2017_color_REGISTERED_high_res.jpg "Alertus Technologies to Bring IoT Technology Hub for Safety and Security Industry to Downtown Baltimore")
+
+
+[Alertus Technologies to Bring IoT Technology Hub for Safety and Security Industry to Downtown Baltimore](https://www.businesswire.com/news/home/20210525005891/en/Alertus-Technologies-to-Bring-IoT-Technology-Hub-for-Safety-and-Security-Industry-to-Downtown-Baltimore)
+
+
+> May 25, 2021 02:18 PM Eastern Daylight Time BELTSVILLE, Md.--(BUSINESS WIRE)--Alertus Technologies, a leader in emergency mass notification solutions, today announced plans to bring its Beltsville, Maryland corporate headquarters to 10 N. Charles Street in Downtown Baltimore. Alertus acquired the approximately 40,000 square-foot building, former home to the Johns Hopkins University Business School and widely recognized for its ticker facade, to develop its state-of-the-art Alertus Center for Intelligent Buildings.
+
+
