@@ -13335,3 +13335,44 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[Twitter, Facebook and Instagram in BIG Trouble; likely to be 'liable for criminal action' for THIS reason](https://www.zeebiz.com/technology/news-twitter-facebook-and-instagram-in-big-trouble-likely-to-be-liable-for-criminal-action-for-this-reason-157276)
+
+
+> Twitter, Facebook and Instagram news: Social media companies, including Twitter, Facebook and Instagram, may lose their status as 'intermediaries' and allegedly become liable for criminal action in India.
+
+
+***
+[Commerce Secretary Gina Raimondo says US government's $52B funding proposal for semiconductor production and R&D could result in seven to 10 new US factories (David Shepardson/Reuters)](http://www.techmeme.com/210524/p28#a210524p28)
+
+
+> David Shepardson / Reuters: Commerce Secretary Gina Raimondo says US government's $52B funding proposal for semiconductor production and R&D could result in seven to 10 new US factories — U.S. Commerce Secretary Gina Raimondo said on Monday a proposed $52 billion boost in U.S. government funding for semiconductor production …
+
+
+***
+![The next generation of graphics cards to offer up to 3 times more performance](https://icdn.digitaltrends.com/image/digitaltrends/nvidia-3090.jpg "The next generation of graphics cards to offer up to 3 times more performance")
+
+
+[The next generation of graphics cards to offer up to 3 times more performance](https://www.digitaltrends.com/computing/new-nvidia-and-amd-gpu-rumors/)
+
+
+> While many people still can't get their hands on one of the graphics cards released in 2020, Nvidia and AMD are both already working on the next generation of GPUs. Using the Nvidia Ada Lovelace and AMD RDNA 3 architectures, these new graphics cards are rumored to offer performance that was previously unheard of. Kopite7kimi, a reliable leaker on the GPU scene, revealed some exciting information that tells us more about these cards. The cards have not been given official names as of yet, but the leaker talks about Nvidia's Ada Lovelace (AD102), Nvidia's Hopper (GH202), and AMD's RDNA 3 (Navi 3X).
+
+
+***
+[Noom, which makes an app to help people lose weight by changing their behavior, raises $540M, sources say at a $3.7B valuation; Noom had sales of $400M in 2020 (Bloomberg)](http://www.techmeme.com/210524/p27#a210524p27)
+
+
+> Bloomberg: Noom, which makes an app to help people lose weight by changing their behavior, raises $540M, sources say at a $3.7B valuation; Noom had sales of $400M in 2020 — - Noom is said to be valued at $3.7 billion after funding round — Company seeking to expand to business customers, new areas
+
+
+***
+![DJI shows off volcano video shot with its new FPV drone](https://icdn.digitaltrends.com/image/digitaltrends/dji-fpv-drone-video-iceland-volcano.jpg "DJI shows off volcano video shot with its new FPV drone")
+
+
+[DJI shows off volcano video shot with its new FPV drone](https://www.digitaltrends.com/news/dji-shows-off-volcano-video-shot-with-its-new-fpv-drone/)
+
+
+> Lots of keen drone pilots have been heading to Iceland recently to capture dramatic aerial shots of Mount Fagradalsfjall, which has been erupting since March. DJI, which released its first-ever FPV (first-person view) drone in the same month, recently hooked up with local drone pilot Ása Steinars to capture footage of the volcano's spectacular lava fountains using the company's latest flying machine. The results, we're sure you'll agree, are pretty incredible. Although some of the footage was also captured using a Mavic 2 Pro, it seems likely that the faster sequences that take us through the lava fountains were shot by the DJI FPV drone.
+
+
