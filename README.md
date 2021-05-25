@@ -13557,3 +13557,40 @@
 > Source: Nicholas Ghigo A new iOS 15 concept images split-screen multitasking, lock screen widgets, and more. Apple will announce iOS 15 during its WWDC opening keynote in two weeks. If all goes according to previous years we can expect Apple to announce iOS 15 during its WWDC21 event, kicking off in just two weeks. We don't know for sure what Apple will announce during that opening keynote, but we can certainly hope. And this new concept video shows us exactly what we should be hoping for when that announcement takes place.
 
 
+***
+![Instagram To Introduce A New Bonus Payment Option](https://www.androidheadlines.com/wp-content/uploads/2019/01/Instagram-AH-NS-09.jpg "Instagram To Introduce A New Bonus Payment Option")
+
+
+[Instagram To Introduce A New Bonus Payment Option](https://www.androidheadlines.com/2021/05/instagram-bonus-payment-option.html)
+
+
+> Instagram is planning to introduce a new bonus payment to encourage creators to use its TikTok clone, Reels.The social networking service will follow in the footsteps of other similar services that pay creators to use their own TikTok clones. For instance, Snapchat recently announced a $1 million daily award for the most popular creators on the app.As a result, Snapchat's Spotlight feature now has 125 million monthly users. YouTube adopted a similar strategy by announcing Shorts Fund.The Google-owned platform reached out to a large number of creators whose Shorts received high engagement and views.
+
+
+***
+[What is the best method to learn coding](https://www.reddit.com/r/programming/comments/nko82r/what_is_the_best_method_to_learn_coding/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Streaming Live Developing A C Compiler](https://external-preview.redd.it/F41ghh2Rf2msXGRk3aj0Mnx0oJXxkk2Ol8kC7rwtc9g.jpg?auto=webp&s=37695c8db07f4bba57b9cb63424c90e0deeb936f "Streaming Live Developing A C Compiler")
+
+
+[Streaming Live Developing A C Compiler](https://www.reddit.com/r/programming/comments/nko5ys/streaming_live_developing_a_c_compiler/)
+
+
+> No body in the article.
+
+
+***
+![Google Officially Rolls Out Fuchsia OS To The First-Gen Nest Hub](https://www.androidheadlines.com/wp-content/uploads/2019/05/Google-Nest-Home-Hub-AH-NS-Software-Update.jpg "Google Officially Rolls Out Fuchsia OS To The First-Gen Nest Hub")
+
+
+[Google Officially Rolls Out Fuchsia OS To The First-Gen Nest Hub](https://www.androidheadlines.com/2021/05/google-officially-rolls-out-fuchsia-os-first-gen-nest-hub.html)
+
+
+> After years of development, Google‘s Fuchsia OS is finally making its debut on real devices. Earlier this month, the Bluetooth Special Interest Group (SIG) had certified the first-generation Google Nest Hub with Fuchsia 1.0. The company has now confirmed that the 2018 smart display is receiving a new software update that changes its underlying operating system to Fuchsia. The Google Nest Hub (originally Google Home Hub) had launched with Linux-based Cast OS.This update will not change any functionality of the device.
+
+
