@@ -13741,3 +13741,53 @@
 > May 25, 2021 02:18 PM Eastern Daylight Time BELTSVILLE, Md.--(BUSINESS WIRE)--Alertus Technologies, a leader in emergency mass notification solutions, today announced plans to bring its Beltsville, Maryland corporate headquarters to 10 N. Charles Street in Downtown Baltimore. Alertus acquired the approximately 40,000 square-foot building, former home to the Johns Hopkins University Business School and widely recognized for its ticker facade, to develop its state-of-the-art Alertus Center for Intelligent Buildings.
 
 
+***
+![Should you get NVIDIA's Shield TV or the all-new Apple TV 4K?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/10/nvidia-shield-tv-review-2019-3.jpg "Should you get NVIDIA's Shield TV or the all-new Apple TV 4K?")
+
+
+[Should you get NVIDIA's Shield TV or the all-new Apple TV 4K?](https://www.androidcentral.com/nvidia-shield-tv-vs-apple-tv-4k)
+
+
+> NVIDIA has been owning the Android TV streaming box segment for years with the same NVIDIA Shield TV hardware. In 2019, NVIDIA gave us a new look with an upgraded processor that delivers all the features required to keep pace with the newer competition. $145 at Amazon Tube design is compact and easy to set up Best support for Google apps and services Expandable storage via microSD Support for 4K and HDR AI-upscaling Only 8GB of internal storage Doesn't ship with an HDMI cable Apple is known for making top quality tech products that are perfectly suitable for practically anyone.
+
+
+***
+![Test yourself with the best trivia games for iPhone and iPad](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/03/trivia-games-hero.jpg "Test yourself with the best trivia games for iPhone and iPad")
+
+
+[Test yourself with the best trivia games for iPhone and iPad](https://www.imore.com/best-trivia-games)
+
+
+> Source: iMore If you like shouting out the answers while watching game shows or are always the instigator of bar trivia, you can actually get your quiz fix any time. There are plenty of trivia games for both iPhone and iPad that will let you give your brain a workout and help you pick up some new facts to make you feel smarter. Show off your skills, and you might be able to win more than just bragging rights. And make sure to check out our best iPad keyboard cases to really step up your game! Jeopardy!® Trivia Quiz Game Source: Sony Pictures Television "I'll take best trivia games for 500!" Sorry, I couldn't resist.
+
+
+***
+![Roguebook Release Date Moved Up One Week](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/Roguebook%20release%20date%20moved%20up%20cover.jpg?itok=cMQYtiul "Roguebook Release Date Moved Up One Week")
+
+
+[Roguebook Release Date Moved Up One Week](https://techraptor.net/gaming/news/roguebook-release-date-moved-up-one-week)
+
+
+> 05/25/2021 - 15:59 | By: Robert N. Adams Home Gaming Gaming News Roguebook Release Date Moved Up One Week There's a big surprise for the upcoming card game from Abrakam Entertainment and Richard Garfield! The Roguebook release date has been changed, and no, it hasn't been delayed — it's one week earlier. Roguebook is a strategy and deckbuilding game where you've been trapped within the Book of Lore in the mystical land of Faeria. The only way to escape is to fight your way out using combat and enchanted cards.
+
+
+***
+![The best places to watch the Super Flower Blood Moon in California](https://static.independent.co.uk/2021/05/25/20/GettyImages-1097244558.jpg?width=1200&auto=webp&quality=75 "The best places to watch the Super Flower Blood Moon in California")
+
+
+[The best places to watch the Super Flower Blood Moon in California](https://www.independent.co.uk/life-style/gadgets-and-tech/space/superflower-blood-moon-california-b1853821.html)
+
+
+> Night sky watchers in the western United States are set to enjoy a 'super flower blood moon' in the early hours of Wednesday morning.As the moon enters the Earth's shadow it will turn a blood red colour during a total lunar eclipse, the first time in two years that it can be seen from the US.'Hawaii has the best seat in the house and then short of that will be California and the Pacific Northwest,' said NASA's Noah Petro, project scientist for the Lunar Reconnaissance Orbiter.Experts say that it will all begin at around 1.
+
+
+***
+![Driver Weaves Through Traffic At Incredibly High Speed, Ends Up Sorely Regretting It](https://cdn.digg.com/wp-content/uploads/2021/05/25195209/Screen-Shot-2021-05-25-at-3.51.56-PM.png "Driver Weaves Through Traffic At Incredibly High Speed, Ends Up Sorely Regretting It")
+
+
+[Driver Weaves Through Traffic At Incredibly High Speed, Ends Up Sorely Regretting It](https://digg.com/2021/driver-weaves-through-traffic-at-incredibly-high-speed-ends-up-sorely-regretting-it)
+
+
+> As he prepares to release his final "Jackass" film, the stuntman takes stock of a surprisingly long, hilariously painful, and unusually influential career. These are four indicators of toxicity in a relationship that should be avoided. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. A deleted scene depicting the recasting of Truman's love interest reveals dark intentions by producers and how his best friend really cared about him after all.
+
+
