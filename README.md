@@ -13891,3 +13891,47 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Java developers: Microsoft's OpenJDK build is now generally available](https://external-preview.redd.it/vyabQfigw5trysR9k8tGTkSDiD4_ZtquTbqSfnuK-N0.jpg?auto=webp&s=74b5b94fe9b106cc1c12f02e5e6a3594346e4c15 "Java developers: Microsoft's OpenJDK build is now generally available")
+
+
+[Java developers: Microsoft's OpenJDK build is now generally available](https://www.reddit.com/r/programming/comments/nl6zqa/java_developers_microsofts_openjdk_build_is_now/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+[Aurora Solar, whose software helps solar companies determine how many solar panels fit on a property and an installation's output, raises $250M at $2B valuation (Bloomberg)](http://www.techmeme.com/210525/p51#a210525p51)
+
+
+> Bloomberg: Aurora Solar, whose software helps solar companies determine how many solar panels fit on a property and an installation's output, raises $250M at $2B valuation — - Aurora Solar valued at $2 billion in the funding round — Electrification, fintech and software among Coatue's focuses
+
+
+***
+![Paymentus Announces Pricing of Initial Public Offering](https://mms.businesswire.com/media/20210525006051/en/881152/23/Paymentus_Blue_Logo.jpg "Paymentus Announces Pricing of Initial Public Offering")
+
+
+[Paymentus Announces Pricing of Initial Public Offering](https://www.businesswire.com/news/home/20210525006051/en/Paymentus-Announces-Pricing-of-Initial-Public-Offering)
+
+
+> May 25, 2021 10:56 PM Eastern Daylight Time REDMOND, Wash.--(BUSINESS WIRE)--Paymentus Holdings, Inc. ('Paymentus'), a leading provider of cloud-based bill payment technology solutions, today announced the pricing of its initial public offering of 10,000,000 shares of its Class A common stock at a price to the public of $21.00 per share. Paymentus has also granted the underwriters a 30-day option to purchase up to an additional 1,500,000 shares of Class A common stock at the initial public offering price, less underwriting discounts and commissions.
+
+
+***
+![Eerily beautiful photos highlight how TV tech has changed](https://icdn.digitaltrends.com/image/digitaltrends/lee-chapman-1.jpg "Eerily beautiful photos highlight how TV tech has changed")
+
+
+[Eerily beautiful photos highlight how TV tech has changed](https://www.digitaltrends.com/home-theater/eerily-beautiful-photos-show-how-tv-tech-has-changed/)
+
+
+> Photo: Lee Chapman A remarkable set of photos taken by Japan-based photographer Lee Chapman shows old, long-forgotten television sets in their original surroundings. The eerily beautiful images were captured by Chapman over the last 10 years during explorations of abandoned houses and hotels buried deep in the Japanese countryside. Photo: Lee Chapman The pictures of places that once bustled with life are also a stark reminder of just how much television technology has changed over the decades, with old CRT (cathode-ray tube) sets having long ago given way to more advanced flat-screen models with increasingly advanced displays.
+
+
+***
+[Bangalore-based Koo, a microblogging service that allows users to post in English and Indian languages, raises $30M at over $100M valuation led by Tiger Global (Manish Singh/TechCrunch)](http://www.techmeme.com/210525/p50#a210525p50)
+
+
+> Manish Singh / TechCrunch: Bangalore-based Koo, a microblogging service that allows users to post in English and Indian languages, raises $30M at over $100M valuation led by Tiger Global — Investors are backing Koo, an Indian alternative to Twitter, with large size checks at a time when tension is brewing between the American social network and New Delhi.
+
+
