@@ -14364,3 +14364,53 @@
 > May 26, 2021 04:12 PM Eastern Daylight Time REDWOOD CITY, Calif.--(BUSINESS WIRE)--Zuora, Inc. (NYSE: ZUO), the leading cloud-based subscription management platform provider, today announced financial results for its fiscal first quarter ended April 30, 2021. 'The first quarter was a solid start to the year, as we executed on the strategy we laid out at last month's Investor Day. We exceeded expectations across our key operating metrics, drove significant improvement on net dollar retention, and believe that we have built a solid foundation for Zuora's long-term growth,' said Tien Tzuo, founder and CEO of Zuora.
 
 
+***
+![Netflix's The Sandman Cast Reveals 12 More Characters (Nerdist News w/ Dan Casey)](https://nerdist.com/wp-content/uploads/2021/05/20210526_n_nerdistnews_sandman_1920x1080.jpg "Netflix's The Sandman Cast Reveals 12 More Characters (Nerdist News w/ Dan Casey)")
+
+
+[Netflix's The Sandman Cast Reveals 12 More Characters (Nerdist News w/ Dan Casey)](https://nerdist.com/watch/netflixs-the-sandman-cast-reveals-12-more-characters-nerdist-news-w-dan-casey/)
+
+
+> No, you're not dreaming, Netflix's The Sandman adaptation just got a lot bigger. After revealing a few key cast members earlier this year, Netflix unveiled 12 more characters coming to The Sandman series. From Death to Desire to John Constantine's great-great-great-grandmother and beyond, Dan's got you covered on the latest casting news on today's Nerdist News! Read more on Nerdist.com: https://bit.ly/3hVW7f9
+
+
+***
+![Here's all the details on Monster Hunter Stories 2: Wings of Ruin on Switch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/monster-hunter-stories-2-04.jpg "Here's all the details on Monster Hunter Stories 2: Wings of Ruin on Switch")
+
+
+[Here's all the details on Monster Hunter Stories 2: Wings of Ruin on Switch](https://www.imore.com/monster-hunter-stories-2-wings-ruin-everything-you-need-know)
+
+
+> Source: Capcom On September 17, 2020, Capcom announced two new Monster Hunter games for the Nintendo Switch during Nintendo's Direct Mini Partner Showcase. Monster Hunter Rise, which is the next installment in the flagship Monster Hunter titles after Monster Hunter World, and Monster Hunter Stories 2: Wings of Ruin. It is the newest installment in the RPG spinoff series, Monster Hunter Stories. Monster Hunter Stories is a fairly different beast compared to the main games and just as content heavy so get a great microSD card, because you're going to need a lot of space.
+
+
+***
+![USB Promoter Group Announces USB Power Delivery Specification Revision 3.1](http://www.businesswire.com/images/bwlogo_square.png "USB Promoter Group Announces USB Power Delivery Specification Revision 3.1")
+
+
+[USB Promoter Group Announces USB Power Delivery Specification Revision 3.1](https://www.businesswire.com/news/home/20210526006131/en/USB-Promoter-Group-Announces-USB-Power-Delivery-Specification-Revision-3.1)
+
+
+> May 26, 2021 06:00 PM Eastern Daylight Time BEAVERTON, Ore.--(BUSINESS WIRE)--The USB Promoter Group today announced the release of the USB Power Delivery (USB PD) Revision 3.1 specification, a major update to enable delivering up to 240W of power over the USB Type-C® cable and connector. Prior to this update, USB PD was limited to 100W via a solution based on 20V using USB Type-C cables rated at 5A. The USB Type-C specification has also been updated with Release 2.1 to define 240W cable requirements, and with the updated USB PD protocol and power supply definition, this extends the applicability of USB PD to a large number of applications where 100W wasn't adequate.
+
+
+***
+![Automation puts a premium on decision-making jobs](https://images.axios.com/-e-yugD6TYhNr40v7Q5M50BPbTM=/0x0:1920x1080/1366x768/2021/05/26/1622065931037.jpg "Automation puts a premium on decision-making jobs")
+
+
+[Automation puts a premium on decision-making jobs](https://www.axios.com/automation-ai-decision-making-jobs-d9903606-a795-42fb-9cb4-e71f79509bdd.html)
+
+
+> A new paper shows that as automation has reduced the number of rote jobs, it has led to an increase in the proportion and value of occupations that involve decision-making.Why it matters: Automation and AI will shape the labor market, putting a premium — at least for now — on workers who can make decisions on the fly, while eroding the value of routine jobs.By the numbers: David Deming, a political economist at the Harvard Kennedy School, analyzed labor data over the past half-century and found that the share of all U.
+
+
+***
+![Why Instagram keeps serving me an ad for what looks like a pile of fossilized poo](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F128029%252F4a9a50b8-8fee-4207-b69a-ce6014f953e4.png%252F640x360.png?signature=we_jKYY9IZmXOdixd6U9drOKgXQ=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "Why Instagram keeps serving me an ad for what looks like a pile of fossilized poo")
+
+
+[Why Instagram keeps serving me an ad for what looks like a pile of fossilized poo](https://mashable.com/article/instagram-pile-of-poo/)
+
+
+> Of the dozens of Instagram ads I viewed in the past few weeks, one made me do a double take every time. Mostly, because it contains what looks like a pile of poo. Like, fossilized poo. A bit crumbly. Or dirt clods. Or ... something brown? And definitely not attractive.  Here it is: Yep, this definitely caught my eye. Image: screenshot: rachel kraus Instagram ads are usually polished and pretty. This stood out for the obvious reason that it is none of those things, but also because it was completely mysterious.
+
+
