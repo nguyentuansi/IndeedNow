@@ -14126,3 +14126,53 @@
 > May 26, 2021 06:09 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "The Global Market for MicroLED Displays 2021" report has been added to ResearchAndMarkets.com's offering. The Global Market for MicroLEDs 2021 analyses and forecasts the commercial potential of the MicroLED market. In this report, the publisher also provides strategic analysis of the key players in the microLED industry which include large global consumer electronics producers, major equipment and materials suppliers, national laboratories and universities and small start-ups.
 
 
+***
+![New Pokemon snap volcano route: How to unlock this location in the game?](https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/ltxixie1vtauq9pg_1622030234.jpeg?tr=f-jpeg "New Pokemon snap volcano route: How to unlock this location in the game?")
+
+
+[New Pokemon snap volcano route: How to unlock this location in the game?](https://www.republicworld.com/technology-news/gaming/new-pokemon-snap-volcano-route-how-to-unlock-this-location-in-the-game.html)
+
+
+> In the New Pokemon Snap, the Fireflow Volcano has a lot of fire and rock-type Pokemon, as well as certain other high-altitude Pokemon like Altaria. There is an Illumina point on Fireflow Volcano as well, although there is only one pathway with no day or night. Continue reading the article for a guide on Fireflow Volcano as of the latest New Pokemon Snap update.New Pokemon Snap Volcano After photographing the shimmering Crystabloom and reaching research level 2 in the Sands (Night) course, players will be able to access the Fireflow Volcano course in New Pokemon Snap.
+
+
+***
+![Kanverse.ai Strengthens Leadership with the Appointment of New Chief of Customer Success](https://mms.businesswire.com/media/20210526005629/en/1093047/23/MicrosoftTeams-image.jpg "Kanverse.ai Strengthens Leadership with the Appointment of New Chief of Customer Success")
+
+
+[Kanverse.ai Strengthens Leadership with the Appointment of New Chief of Customer Success](https://www.businesswire.com/news/home/20210526005629/en/Kanverse.ai-Strengthens-Leadership-with-the-Appointment-of-New-Chief-of-Customer-Success)
+
+
+> May 26, 2021 08:13 AM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--Kanverse.ai, a leading cognitive automation company, has announced the appointment of Mr. Arvind Nehru as their new Chief of Customer Success. 'I'm excited to welcome Arvind to the Kanverse.ai family,' said Kanverse.ai CEO and founder Karan Yaramada. 'He brings deep knowledge and years of experience of customer success with enterprise business application platforms to this leadership role at Kanverse.ai.' Arvind is a 25-year veteran of the IT industry with extensive experience in building and running businesses across Software Products and Services companies.
+
+
+***
+![Council Post: Tech Leaders Share 12 Proven Strategies For Protecting Your Organization's IP](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60acf125ecd7cc0d597f4a41%2F0x0.jpg "Council Post: Tech Leaders Share 12 Proven Strategies For Protecting Your Organization's IP")
+
+
+[Council Post: Tech Leaders Share 12 Proven Strategies For Protecting Your Organization's IP](https://www.forbes.com/sites/forbestechcouncil/2021/05/26/tech-leaders-share-12-proven-strategies-for-protecting-your-organizations-ip/)
+
+
+> getty Hours of research and development go into producing a company's unique intellectual property—making its IP one of the most valuable assets a business holds. As with any asset, it's essential for a tech business to secure its IP using every resource available.  Considering the stakes, what can a tech company do to protect its IP? Below, 12 members of Forbes Technology Council share strategies tech companies should leverage to protect their intellectual property from both external and internal threats.
+
+
+***
+![Biomutant Rotation Puzzle solutions: Flush-stools and microwave puzzle solutions](https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/njgvc1cx4fvw1qzg_1622029022.jpeg "Biomutant Rotation Puzzle solutions: Flush-stools and microwave puzzle solutions")
+
+
+[Biomutant Rotation Puzzle solutions: Flush-stools and microwave puzzle solutions](https://www.republicworld.com/technology-news/gaming/biomutant-rotation-puzzle-solutions-flush-stools-and-microwave-puzzle-solutions.html)
+
+
+> Experiment 101 have launched its long-awaited, adventuristic game Biomutant on May 25, 2021. The game is currently available for PC, PS4 and Xbox One, and as players are making progress in the game, they are wondering about how to solve Biomutant rotation puzzle. These are small logical puzzles, which consist of three moving entities, and on solving them, a player can get going with the in-game tasks. Keep reading to know more about the Biomutant rotation puzzle and its solutions.  How to solve Biomutant rotation puzzle?Biomutant Rotation Puzzle is a combination of three or more configurable parts (nobs, circles, light bulbs or even letters), colour coded in white, orange and green.
+
+
+***
+![AC Valhalla Book of Knowledge Clogher Quest: A guide to the Book of Knowledge quest](https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/29h9unk5rrozcrjn_1622029820.jpeg?tr=f-jpeg "AC Valhalla Book of Knowledge Clogher Quest: A guide to the Book of Knowledge quest")
+
+
+[AC Valhalla Book of Knowledge Clogher Quest: A guide to the Book of Knowledge quest](https://www.republicworld.com/technology-news/gaming/ac-valhalla-book-of-knowledge-clogher-quest-a-guide-to-the-book-of-knowledge-quest.html)
+
+
+> AC Valhalla is an open-world RPG game that was released a few months ago. The game received a large number of unanimously positive reviews upon release and has become one of the most popular open-world RPGs right now. A new DLC update called the Wrath of Druids was recently released which contains a ton of new missions and quests for AC Valhalla. One of the missions, finding the Clogher Book of Knowledge, has been a particularly tricky one. Read on to know how to solve the AC Valhalla Clogher Book of Knowledge quest.
+
+
