@@ -13982,3 +13982,50 @@
 > you are here: HomeNewsTechnologyAuto Ford Motor Co will announce on Wednesday that it is developing two dedicated all-electric vehicle platforms, one for full-size trucks and SUVs, the other for cars and smaller SUVs, as part of a strategy to catch General Motors Co, Volkswagen AG and Tesla Inc in the global electrification race, sources familiar with Ford`s plans said.The all-EV platforms are part of an ambitious multi-year, multi-billion-dollar plan the No. 2 U.S. automaker will outline to investors at its Capital Markets Day in an online event.
 
 
+***
+![One of the best resources to be updated on React JS](https://external-preview.redd.it/T921ziD7rn7XLpZjbOUxlud1LRpIfM9du5yTeZ64xNw.jpg?auto=webp&s=1b5919e76dc48a5d2271a0e8408c9a04190e8030 "One of the best resources to be updated on React JS")
+
+
+[One of the best resources to be updated on React JS](https://www.reddit.com/r/programming/comments/nla2wk/one_of_the_best_resources_to_be_updated_on_react/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![Game of Thrones Spin-Off 10,000 Ships Taps Amanda Segel as Writer: Report](https://i.gadgets360cdn.com/large/nymeria_sand_game_of_thrones_1622009821259.jpeg "Game of Thrones Spin-Off 10,000 Ships Taps Amanda Segel as Writer: Report")
+
+
+[Game of Thrones Spin-Off 10,000 Ships Taps Amanda Segel as Writer: Report](https://gadgets.ndtv.com/entertainment/news/game-of-thrones-10000-ships-amanda-segel-writer-nymeria-dorne-spinoff-2449412)
+
+
+> Game of Thrones spin-off 10,000 Ships has reportedly tapped Person of Interest co-executive producer Amanda Segel as creator and head writer. 10,000 Ships — that's a working title, naturally — is the story of Princess Nymeria and the surviving Rhoynars who travelled from Essos to Dorne after losing in battle to the Valyrian Freehold in the Second Spice War. That tale is set a thousand years prior to the events of Game of Thrones, making it the 'oldest' Thrones prequel that is currently in the works.
+
+
+***
+![Python turning 30 years old](https://external-preview.redd.it/hBhs9aq5A5G6nr4FDpMP02iOioPMWIexrbdIUmU5biI.jpg?auto=webp&s=a64e810f08308f79d7d103cd23096da9b4672492 "Python turning 30 years old")
+
+
+[Python turning 30 years old](https://www.reddit.com/r/programming/comments/nl9yak/python_turning_30_years_old/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![FC2 free hosting](https://cdn.mos.cms.futurecdn.net/k2ihAYZbb4gQhnyfDxDQHW-1200-80.jpg "FC2 free hosting")
+
+
+[FC2 free hosting](https://www.techradar.com/reviews/fc2)
+
+
+> Launched in 1999, FC2 is a pretty popular blogging host from Japan and currently ranked as the third most popular video hosting service in its homeland. From January 2018, it gained status for being the 11th most popular website in all of Japan. The company is supposedly run by brothers Takahiro (Rihiro and Takahashi) and headquartered in Amstelveen (the Netherlands), where it employs around twenty full-time staff members and about thirty part-time ones. However, a 2016 survey done by Nielsen (a global marketing research company) shows a significant drop in the number of users, resulting in a fall from the third to the eighth place in Japan.
+
+
+***
+[copilots](https://itwire.com/freelancer-sp-720/tag/copilots.html)
+
+
+> Genpact's research presents the view of 500 CIOs globally, 50 of whom are in Australia, on how they steered their companies during the Covid-19 pandemic and their preparedness to move forward. CIOs who invested in the right technology were able to adapt the best, according to the study.
+
+
