@@ -14223,3 +14223,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![I programmed an app to look at pictures of dogs.](https://external-preview.redd.it/4m2XahKCkQ2b0u6HXwyjxzpdR6DpqQkaZCKuGgPWySE.jpg?auto=webp&s=cefcd2852b062860f2f6fb1e5176c1042582be89 "I programmed an app to look at pictures of dogs.")
+
+
+[I programmed an app to look at pictures of dogs.](https://www.reddit.com/r/programming/comments/nll4jw/i_programmed_an_app_to_look_at_pictures_of_dogs/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Maybe Nvidia is launching the RTX 3080 Ti at Computex after all](https://cdn.mos.cms.futurecdn.net/Nhzgg9xAiHAHtrAZnwyfqD-1200-80.jpg "Maybe Nvidia is launching the RTX 3080 Ti at Computex after all")
+
+
+[Maybe Nvidia is launching the RTX 3080 Ti at Computex after all](https://www.techradar.com/news/maybe-nvidia-is-launching-the-rtx-3080-ti-at-computex-after-all)
+
+
+> (Image credit: Konstantin Savusia / Shutterstock) Nvidia has officially kicked off its teaser campaign for its Computex 2021 keynote, and it looks like the long-rumored Nvidia RTX 3080 Ti and RTX 3070 Ti could be set to make an appearance. The company took to Twitter to tease its fast-approaching May 31 announcement, and while the brief 10-second-long clip doesn't give much away, it suggests the company will be launching new graphics cards after all. Initially, Nvidia suggested it would be focusing more on AI and data centre products during this year's virtual conference.
+
+
+***
+![Amazon PS5 restock: the Sony console was finally in stock at Amazon today](https://cdn.mos.cms.futurecdn.net/FKPFKFC4ictBCPWWCrWnSC-1200-80.jpg "Amazon PS5 restock: the Sony console was finally in stock at Amazon today")
+
+
+[Amazon PS5 restock: the Sony console was finally in stock at Amazon today](https://www.techradar.com/news/target-ps5-restock-it-could-be-in-stock-today-here-are-the-exact-times)
+
+
+> Update: The Amazon PS5 restock was today, and if missed it, it's because you aren't following our PS5 restock Twitter tracker Matt Swider who will send you alerts – if you follow his Twitter account and turn on notifications. The PS5 Disc console was up for grabs, though most had trouble adding it to their cart and saw the infamous 'dogs' error page on Amazon.com.(Image credit: Matt Swider / Twitter)The PS5 Digital console is likely to be in stock next, as Amazon usually restocks the Sony console one version at a time.
+
+
+***
+![15 amazing Apple Watch accessories at insanely low prices](https://cdn.cultofmac.com/wp-content/uploads/2019/09/BeFunky-collage-96.jpg "15 amazing Apple Watch accessories at insanely low prices")
+
+
+[15 amazing Apple Watch accessories at insanely low prices](https://www.cultofmac.com/645484/amazing-apple-watch-accessories-insanely-low-prices/)
+
+
+> Upgrading your Apple Watch with amazing bands and accessories doesn't have to break the bank. You'll be surprised at how many terrific products you can find for buyers on a budget.We've rounded up some of the best Apple Watch accessories that are currently priced at $40 or less to help you out. Check out all 15 right here!All the products we've picked out are available from the Cult of Mac Store. That means they've been tested and approved by our team, so you can be sure your cash is being well-spent.
+
+
+***
+[Ask HN: Do you still use E-Mail?](https://news.ycombinator.com/item?id=27292512)
+
+
+> I don't email friends, and I never have, among my group of friends (aged 28-32) instant messaging (in various forms) was always available.I send and receive email from businesses and people I have business relationships with.
+
+
