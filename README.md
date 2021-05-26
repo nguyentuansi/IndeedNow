@@ -13841,3 +13841,53 @@
 > Even as the Indian government wages an uphill battle to contain the raging second wave of the COVID-19 pandemic, it is taking up cudgels against social media giants for not complying with new regulations it recently laid down. What Happened: The Indian government gave a deadline of May 25 for big social media companies to fall in line with the guidelines drawn up by the Ministry of Electronics and Information Technology, or MEIT. The MEIT announced in late February stricter regulations for social media platforms that include taking off any content flagged by authorities within 36 hours.
 
 
+***
+![Fintech Focus For May 26, 2021](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Fintech Focus For May 26, 2021")
+
+
+[Fintech Focus For May 26, 2021](https://www.benzinga.com/fintech/21/05/21290147/fintech-focus-for-may-26-2021)
+
+
+> Quote To Start The Day: 'Some are born great, some achieve greatness, and some have greatness thrust upon them.' Source: William Shakespeare One Big Thing In Fintech: Just as broadband is now considered core to America's national infrastructure, the cloud will play an important role in building the next frontier in market infrastructure. Source: Adena Friedman Other Key Fintech Developments: Unpacking Robinhood's disruption. DeFi - what fintech always wanted. Bolt launches for business culture.
+
+
+***
+![Panasonic launches the LUMIX GH5 II, teases the upcoming GH6](https://fdn.gsmarena.com/imgroot/news/21/05/panasonic-gh5m2/-476x249w4/gsmarena_000.jpg "Panasonic launches the LUMIX GH5 II, teases the upcoming GH6")
+
+
+[Panasonic launches the LUMIX GH5 II, teases the upcoming GH6](https://www.gsmarena.com/panasonic_launches_the_lumix_gh5_ii_teases_the_upcoming_gh6-news-49301.php)
+
+
+> Panasonic today announced an updated version of its venerable LUMIX GH5 camera. The new GH5 Mark II is a relatively modest upgrade over its predecessor but if you look at the other thing Panasonic announced today, you'd realize it's just a stop-gap. The GH5M2 features a revised set of specifications, largely due to the upgrade to the newer and latest generation Venus Engine processor. The camera is now capable of internally recording 4K 60p in 10-bit at 4:2:0, which is an improvement over the GH5 that could only do 8-bit internally.
+
+
+***
+![Microsoft is making its software greener than ever](https://cdn.mos.cms.futurecdn.net/HuzveLnun8xdGmixwuLe6V-1200-80.jpg "Microsoft is making its software greener than ever")
+
+
+[Microsoft is making its software greener than ever](https://www.techradar.com/news/microsoft-is-making-its-software-greener-than-ever)
+
+
+> (Image credit: Microsoft) Microsoft is joining forces with Accenture, GitHub and ThoughtWorks to create a new foundation dedicated to putting sustainability and green initiatives at the core of software engineering.Software development has been front and center at the company's Build 2021 developer conference. However, Microsoft and other companies have begun to wonder how the future of the software industry will affect the environment especially with global data centers accounting for one percent of the world's electricity demand today and between three to eight percent in the next decade.
+
+
+***
+![Audi's game-changing new model tested](https://content.api.news/v3/images/bin/938005015f6f6aaab7c693b4a8a17253 "Audi's game-changing new model tested")
+
+
+[Audi's game-changing new model tested](https://www.news.com.au/technology/motoring/luxury/2021-audi-etron-sportback-55-review-ev-the-start-of-something-big/news-story/2fb69cd433a2bc344bd9d04e37cafbaf)
+
+
+> The German brand has released its all-new stylish SUV, which is the start of a massive overhaul that will launch 30 new exciting models.Audi is charging up its electric car range with about 30 models planned. We've tested the e-tron Sportback, its first EV to arrive in Australia, to find out if it can shock the market.Here are five things you need to know about the Audi e-tron Sportback 55.CHOOSE YOUR BODY STYLEThere are two body styles, SUV and Sportback. We've tested the Sportback, which has a sleeker profile that tapers at the rear.
+
+
+***
+![How Programming Ruined And Fixed my Hand](https://external-preview.redd.it/dCdkR7y3e5QdR-CSXVmb1y2wGgBP0Fk4AjK88IRSueY.jpg?auto=webp&s=694ed2acee98ca9eb4ede94bb49c0f45fa8b5859 "How Programming Ruined And Fixed my Hand")
+
+
+[How Programming Ruined And Fixed my Hand](https://www.reddit.com/r/programming/comments/nl3op2/how_programming_ruined_and_fixed_my_hand/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
