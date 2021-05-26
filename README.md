@@ -14176,3 +14176,50 @@
 > AC Valhalla is an open-world RPG game that was released a few months ago. The game received a large number of unanimously positive reviews upon release and has become one of the most popular open-world RPGs right now. A new DLC update called the Wrath of Druids was recently released which contains a ton of new missions and quests for AC Valhalla. One of the missions, finding the Clogher Book of Knowledge, has been a particularly tricky one. Read on to know how to solve the AC Valhalla Clogher Book of Knowledge quest.
 
 
+***
+![Let your Spotify tunes put you to sleep with Android's Bedtime mode](https://icdn.digitaltrends.com/image/digitaltrends/does-blue-light-really-affect-your-sleep-2.jpg "Let your Spotify tunes put you to sleep with Android's Bedtime mode")
+
+
+[Let your Spotify tunes put you to sleep with Android's Bedtime mode](https://www.digitaltrends.com/mobile/how-to-use-android-bedtime-mode/)
+
+
+> Struggling to get to sleep? Some soothing tunes could be exactly what you need to drift off to the land of nod, and Google's here to help you out. Building on previous foundations, the Clock app in Android 11 now comes with a dedicated bedtime mode that can kick in at a specified time and remind you to start playing some relaxing music or soundscapes. Sounds like something you'd be interested in? Here's how to use Android's Bedtime mode. Looking for even more apps to help you drift off? We have a list of the best sleep apps, from noise generators to sleep trackers, and some of the best sleep gadgets around, too.
+
+
+***
+[Gen Z students are studying together online across YouTube, TikTok, Discord, and Twitter, seeking inspiration, finding focus, and sharing academic anxieties (Fadeke Adegbuyi/Cybernaut](http://www.techmeme.com/210526/p21#a210526p21)
+
+
+> Fadeke Adegbuyi / Cybernaut - Every: Gen Z students are studying together online across YouTube, TikTok, Discord, and Twitter, seeking inspiration, finding focus, and sharing academic anxieties — In late 2020, a 10-hour loop of a song from Mario Kart titled “Coconut Mall” started blowing up on Youtube.
+
+
+***
+![When establishing a zero trust approach, don't forget to monitor VPN activity levels](https://cdn.mos.cms.futurecdn.net/NtQgopRbkgZAyZ973AhjoP-1200-80.jpg "When establishing a zero trust approach, don't forget to monitor VPN activity levels")
+
+
+[When establishing a zero trust approach, don't forget to monitor VPN activity levels](https://www.techradar.com/news/when-establishing-a-zero-trust-approach-dont-forget-to-monitor-vpn-activity-levels)
+
+
+> (Image credit: Shutterstock) As more companies embrace remote work, the zero trust approach is increasingly becoming mainstream. Created just over a decade ago by cybersecurity strategist John Kindervag, the zero trust framework mandates that users are only provided with the bare minimum level of access needed to complete their work.This includes everyone in an organization, even those within the upper echelon of management. Despite their spots at the top of the org chart, C-suite executives need to be beholden to privileged access management.
+
+
+***
+![Every Developer Needs a Mentor](https://external-preview.redd.it/YCrfOK7Xn6VKH6Gz3G-u48l0V3_EP_pbzmzi825MzCE.jpg?auto=webp&s=8e2d19b53478dd49286d2e21874b998ae38a290b "Every Developer Needs a Mentor")
+
+
+[Every Developer Needs a Mentor](https://www.reddit.com/r/programming/comments/nlhznw/every_developer_needs_a_mentor/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Make this nhl stat card website as a weekend project. Advice on speeding up loading times on player pages?](https://external-preview.redd.it/61Ex24MQerL-2fumA3ut7R4v32wtU2kJPnruT6WYsr0.jpg?auto=webp&s=2aa6329c9185e89d1a17e6da70e532b2b67e2705 "Make this nhl stat card website as a weekend project. Advice on speeding up loading times on player pages?")
+
+
+[Make this nhl stat card website as a weekend project. Advice on speeding up loading times on player pages?](https://www.reddit.com/r/programming/comments/nlhy5s/make_this_nhl_stat_card_website_as_a_weekend/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
