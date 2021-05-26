@@ -14317,3 +14317,50 @@
 > Microsoft's Build developer conference saw updates for products like Azure, Outlook, Teams, and the remainder of the Microsoft 365 services. However, an exciting announcement regarding ARM-based architecture really caught my attention. Although Apple has stolen most of the spotlight when it comes to switching its products over to the custom ARM-based M1 chip, Microsoft did go there first. The company did it with the Surface RT, and again with the Surface Pro X, but both flopped for a number of reasons that I've documented in the past.
 
 
+***
+![Bezos' final shareholder meeting as CEO looks to Amazon's future](https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2021_21/3477930/210526-amazon-mb-1817.jpg "Bezos' final shareholder meeting as CEO looks to Amazon's future")
+
+
+[Bezos' final shareholder meeting as CEO looks to Amazon's future](https://www.nbcnews.com/tech/tech-news/bezos-final-shareholder-meeting-ceo-looks-amazon-s-future-n1268672)
+
+
+> While Jeff Bezos scored some wins at his last shareholder meeting before he steps down as Amazon's chief executive, he acknowledged the company has plenty of work to do to address issues related to the climate and workplace safety, and emphasized it has more changes ahead.'In my 2002 shareholder letter, I addressed that question [of innovation] head-on,' said Bezos, who founded the company in 1994. 'I said I thought there was more innovation ahead of us than behind us. There's no doubt in my mind that is still true.
+
+
+***
+![Black Desert Mobile Gets Another New Class – The Ninja](https://www.androidheadlines.com/wp-content/uploads/2021/05/Black-Desert-Mobile-Sura-Class-Ninja.jpg "Black Desert Mobile Gets Another New Class – The Ninja")
+
+
+[Black Desert Mobile Gets Another New Class – The Ninja](https://www.androidheadlines.com/2021/05/black-desert-mobile-sura-class-ninja-mmo-rpg-game.html)
+
+
+> Black Desert Mobile has just released its latest class option for players, a Ninja, focusing on fast melee combat. The Ninja, officially called the Sura, is the 17th class added to the game. And is one of only a few classes out of that 17 which are fully awakened at the moment of character creation.You still have to level up the Sura from level 1. But because it's already awakened, players won't have to go through the process normally required for this particular character growth. Awakening a character opens up access to new weapons and abilities.
+
+
+***
+![Vise CEO Samir Vasavada and Sequoia's Shaun Maguire break down the art of the pitch – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/04/ECL-2021-05-19-1.jpg?w=711 "Vise CEO Samir Vasavada and Sequoia's Shaun Maguire break down the art of the pitch – TechCrunch")
+
+
+[Vise CEO Samir Vasavada and Sequoia's Shaun Maguire break down the art of the pitch – TechCrunch](https://techcrunch.com/2021/05/26/vise-ceo-samir-vasavada-and-sequoias-shaun-maguire-break-down-the-art-of-the-pitch/)
+
+
+> In just a few short years, Vise has gone from launching on the Disrupt Battlefield stage to unicorn. Co-founders Samir Vasavada and Runik Mehrotra met Sequoia's Shaun Maguire at an afterparty at the event, and Maguire ended up leading a seed and Series A round while Sequoia led the Series B. Last week, Vise raised its Series C of $65 million and was officially valued at $1 billion post-money. A good pitch deck is short and simple, and covers the key points in less than 12 words a slide. We sat down with Vasavada and Maguire to talk about the early fundraising process for Vise, specifically the seed round, and get a look at the startup's first pitch deck.
+
+
+***
+[Rogers offering iPhone 12 for $1/month financing with trade-in](https://mobilesyrup.com/2021/05/26/rogers-iphone-12-trade-in-deal-1-per-month/)
+
+
+> If you’ve got an older iPhone kicking around and want to get a new iPhone 12, Rogers has a deal on that will let you pick one up for just $1 per month with a trade-in. According to the promotions page on Rogers’ website, the deal is only available in-store. It also specifically mentions trading... The post Rogers offering iPhone 12 for $1/month financing with trade-in appeared first on MobileSyrup.
+
+
+***
+![Zuora Reports First Quarter Fiscal 2022 Results](https://mms.businesswire.com/media/20210526006087/en/772931/23/zuora-logo-navy-large.jpg "Zuora Reports First Quarter Fiscal 2022 Results")
+
+
+[Zuora Reports First Quarter Fiscal 2022 Results](https://www.businesswire.com/news/home/20210526006087/en/Zuora-Reports-First-Quarter-Fiscal-2022-Results)
+
+
+> May 26, 2021 04:12 PM Eastern Daylight Time REDWOOD CITY, Calif.--(BUSINESS WIRE)--Zuora, Inc. (NYSE: ZUO), the leading cloud-based subscription management platform provider, today announced financial results for its fiscal first quarter ended April 30, 2021. 'The first quarter was a solid start to the year, as we executed on the strategy we laid out at last month's Investor Day. We exceeded expectations across our key operating metrics, drove significant improvement on net dollar retention, and believe that we have built a solid foundation for Zuora's long-term growth,' said Tien Tzuo, founder and CEO of Zuora.
+
+
