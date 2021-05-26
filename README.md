@@ -14270,3 +14270,50 @@
 > I don't email friends, and I never have, among my group of friends (aged 28-32) instant messaging (in various forms) was always available.I send and receive email from businesses and people I have business relationships with.
 
 
+***
+[WTI crude oil futures settles at $66.21](https://www.forexlive.com/technical-analysis/!/wti-crude-oil-futures-20210526)
+
+
+> Up $0.14 or 0.21% The high price today reached $66.43. The low price extended to $65.25. The price action for the pair moved up toward the high from yesterday at $66.50, but fell short of it by seven cents.  
+
+
+***
+![Review: Vertagear PL6000 gaming chair looks cool and provides great support](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/pl6000-fully-assembled.jpg "Review: Vertagear PL6000 gaming chair looks cool and provides great support")
+
+
+[Review: Vertagear PL6000 gaming chair looks cool and provides great support](https://www.imore.com/vertagear-pl6000-gaming-chair-review)
+
+
+> Source: Rebecca Spear / iMore Whether you like sitting at your desk and playing video games or work at your computer for long stretches, it really pays to have a quality chair to sit on. Some of the best gaming chairs in particular provide excellent back and neck support, helping you to sit with good posture while feeling comfortable. I recently had the chance to check out Vertagear's big and tall PL6000 model. It comes covered in PU leather, is easy to assemble, and is comfortable to sit in for long stretches.
+
+
+***
+![June is the perfect time to play Star Wars: Squadrons in PSVR](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/05/playstation-vr-psvr-star-wars-squadrons.jpg "June is the perfect time to play Star Wars: Squadrons in PSVR")
+
+
+[June is the perfect time to play Star Wars: Squadrons in PSVR](https://www.androidcentral.com/june-perfect-time-play-star-wars-squadrons-psvr)
+
+
+> Source: Nick Sutrich / Android Central Star Wars: Squadrons is one of the free PS Plus games for the month of June 2021. PlayStation Plus members can play the game for free, so long as it's claimed in the month of June. Star Wars: Squadrons has full PSVR support on PS4 and PS5. If you were looking for a reason to keep that PlayStation VR around for a little longer until the PSVR 2 releases, Sony and EA have a pretty convincing offer for you. As part of the monthly free games on PlayStation Plus, all PS Plus members will be able to claim Star Wars: Squadrons on their account for no additional charge.
+
+
+***
+![Easily secure your phone with the iOttie iTap 2 car holder on sale for $17](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/itap-2-mount-cd-car-slot.jpg "Easily secure your phone with the iOttie iTap 2 car holder on sale for $17")
+
+
+[Easily secure your phone with the iOttie iTap 2 car holder on sale for $17](https://www.androidcentral.com/easily-secure-your-phone-iottie-itap-2-car-holder-sale-17)
+
+
+> The iOttie iTap 2 magnetic CD slot car mount phone holder has dropped in price to $16.99 at Amazon. This phone holder normally sells for around $25, and today's deal is easily the lowest price we've seen since 2020. This is a nice big discount for a mount that's already known for being relatively inexpensive. You can also get the air vent version of the same mount for the same low price. Uses your CD player's slot to mount the holder with two strong magnets that can handle any phone. The magnetic plates are easy to remove.
+
+
+***
+![Why Microsoft's moonshot attempt to support ARM could finally work this time](https://icdn.digitaltrends.com/image/digitaltrends/surface-pro-x.jpg "Why Microsoft's moonshot attempt to support ARM could finally work this time")
+
+
+[Why Microsoft's moonshot attempt to support ARM could finally work this time](https://www.digitaltrends.com/computing/why-microsoft-approach-to-arm-is-different-this-time/)
+
+
+> Microsoft's Build developer conference saw updates for products like Azure, Outlook, Teams, and the remainder of the Microsoft 365 services. However, an exciting announcement regarding ARM-based architecture really caught my attention. Although Apple has stolen most of the spotlight when it comes to switching its products over to the custom ARM-based M1 chip, Microsoft did go there first. The company did it with the Surface RT, and again with the Surface Pro X, but both flopped for a number of reasons that I've documented in the past.
+
+
