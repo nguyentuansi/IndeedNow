@@ -14029,3 +14029,53 @@
 > Genpact's research presents the view of 500 CIOs globally, 50 of whom are in Australia, on how they steered their companies during the Covid-19 pandemic and their preparedness to move forward. CIOs who invested in the right technology were able to adapt the best, according to the study.
 
 
+***
+![Indonesian crypto exchange Pintu gets $6M Series A led by Pantera, Intudo and Coinbase Ventures](https://techcrunch.com/wp-content/uploads/2021/05/Pintu-Visual-2.png?w=604 "Indonesian crypto exchange Pintu gets $6M Series A led by Pantera, Intudo and Coinbase Ventures")
+
+
+[Indonesian crypto exchange Pintu gets $6M Series A led by Pantera, Intudo and Coinbase Ventures](https://techcrunch.com/2021/05/26/indonesian-crypto-exchange-pintu-gets-6m-series-a-led-by-pantera-intudo-and-coinbase-ventures/)
+
+
+> Along with the stock market, cryptocurrency is also seeing an uptick among retail investors in Indonesia. Pintu, a platform focused on first-time cryptocurrency buyers, announced today it has raised a $6 million Series A, led by Pantera Capital, Intudo Ventures and Coinbase Ventures. Other participants in the round included Blockchain.com Ventures, Castle Island Ventures and Alameda Ventures. Coinbase unveils fund for early-stage cryptocurrency startups The Indonesian Commodity Futures Trading Regulatory Agency (also known as Bappepti) began regulating Bitcoin and other cryptoassets as commodities two years ago, paving the way for licensed brokers like Pintu.
+
+
+***
+![Vh1 Couples Retreat: Second First Dates and ‘Couples Retreat': Universal sued for allegedly cutting Black couple from overseas publicity posters](https://https://www.thearkatech.com/img/news_img/all/11669_1_1200.pic "Vh1 Couples Retreat: Second First Dates and ‘Couples Retreat': Universal sued for allegedly cutting Black couple from overseas publicity posters")
+
+
+[Vh1 Couples Retreat: Second First Dates and ‘Couples Retreat': Universal sued for allegedly cutting Black couple from overseas publicity posters](https://www.thearkatech.com/en/54752/)
+
+
+> © Instagram / couples retreat By: Emma Williams2021-05-26 11:15:21 Subscribe NOW: Our Youtube Channel Last News: ‘High on the Hog' Celebrates Black Contributions to Global Food and Culture. Tennis news. Paint Your Town Red by Matthew Brown and Rhian E Jones review – the Preston model. Bookshelf: Create, Read and Explore this Summer with Deschutes Public Library. DOT and ECE Approved HJC C91 Helmet Will Save Your Life for Under $200. HKSAR and Mainland sign record of meeting concerning mutual recognition of and assistance to insolvency proceedings.
+
+
+***
+![Reports of the demise of iconic YouTube video may be exaggerated](https://icdn.digitaltrends.com/image/digitaltrends/charlie-bit-my-finger-video.jpg "Reports of the demise of iconic YouTube video may be exaggerated")
+
+
+[Reports of the demise of iconic YouTube video may be exaggerated](https://www.digitaltrends.com/news/one-of-youtubes-most-iconic-videos-may-survive-after-all/)
+
+
+> Fourteen years ago Charlie bit his brother Harry's finger and the whole world got to know about it. That's because the boys' father, Howard Davies-Carr, caught the hilarious incident on camera and posted it on YouTube, where it quickly went viral. Since then, the 55-second clip has been viewed an astonishing 885 million times. The video, titled Charlie bit my finger, hit the headlines again at the weekend when it was auctioned for a whopping $760,000 as a non-fungible token (NFT), a kind of certificate that allows a person to take ownership of something digital.
+
+
+***
+![How to crop out a section of a video file on a Mac?](https://images.macrumors.com/social/?t=2297869&v=6 "How to crop out a section of a video file on a Mac?")
+
+
+[How to crop out a section of a video file on a Mac?](https://forums.macrumors.com/threads/how-to-crop-out-a-section-of-a-video-file-on-a-mac.2297869/)
+
+
+> Jan 6, 2013 1,026 694 Manchester, UK I have a .MOV file on my Macbook Air, and I want to remove a 15 minute section from the middle of it... is that possible to do natively on a Mac? Do I need some special software and if so can anyone advise which..? Thank you! Feb 22, 2020 3,024 3,824 Indonesia I believe you can cut videos using Quicktime. For a more advance editing, use iMovie. Simply put in
+
+
+***
+![Image Not Found Shonitria Anthony: 'Moms who smoke weed are not bad moms' and Bad Moms (2016)](https://https://www.thearkatech.com/img/news_img/all/11668_2_1200.pic "Image Not Found Shonitria Anthony: 'Moms who smoke weed are not bad moms' and Bad Moms (2016)")
+
+
+[Image Not Found Shonitria Anthony: 'Moms who smoke weed are not bad moms' and Bad Moms (2016)](https://www.thearkatech.com/en/54751/)
+
+
+> © Instagram / bad moms By: Daniel White2021-05-26 11:13:25 Subscribe NOW: Our Youtube Channel Last News: Bad Moms (2016) and Image Not Found Shonitria Anthony: 'Moms who smoke weed are not bad moms' The Wrap: New hires, Italian truffles, and a beer barrel to call your own. Another bank in New Bedford bank is on the market. What will its future hold? [Creative Powerhouse] Grow Your Following and Create Next-Level Content With the Galaxy Z Flip. 70 years later: Baumholder military, civilian community ties still strong.
+
+
