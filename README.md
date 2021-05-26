@@ -13935,3 +13935,50 @@
 > Manish Singh / TechCrunch: Bangalore-based Koo, a microblogging service that allows users to post in English and Indian languages, raises $30M at over $100M valuation led by Tiger Global — Investors are backing Koo, an Indian alternative to Twitter, with large size checks at a time when tension is brewing between the American social network and New Delhi.
 
 
+***
+![Relax, you can still post on Facebook, Youtube & tweet. Modi govt isn't shutting them down](https://static.theprint.in/wp-content/uploads/2021/04/combo.jpg "Relax, you can still post on Facebook, Youtube & tweet. Modi govt isn't shutting them down")
+
+
+[Relax, you can still post on Facebook, Youtube & tweet. Modi govt isn't shutting them down](https://theprint.in/tech/relax-you-can-still-post-on-facebook-youtube-tweet-modi-govt-isnt-shutting-them-down/665428/)
+
+
+> Logos of Facebook, Twitter, YouTube | Bloomberg Text Size: New Delhi: Social media firms are not being shut down on 26 May over compliance issues to do with the government's new information technology rules, a senior government official has told ThePrint. News of the deadline for complying with the rules ending Tuesday left social media users wondering if their platform of choice would still be available to them. Twitter saw trending hashtags such as ‘#banned‘, while news reports with the question ‘Will Twitter & Facebook Shut Down?' did the rounds.
+
+
+***
+![Vivo X60 Pro+ review: A worthy alternative to the OnePlus 9 Pro](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/vivo-x60-pro-plus-1.jpg "Vivo X60 Pro+ review: A worthy alternative to the OnePlus 9 Pro")
+
+
+[Vivo X60 Pro+ review: A worthy alternative to the OnePlus 9 Pro](https://www.androidcentral.com/vivo-x60-pro-plus-review)
+
+
+> Source: Apoorva Bhardwaj / Android Central Vivo pioneered several innovations in the handset category over the last three years, including retractable cameras, in-screen fingerprint readers, and miniature gimbal modules for smooth video footage. Cameras have always been the differentiator for Vivo, and it is doubling down in this area in 2021. Vivo has teamed up with German powerhouse Zeiss to tune its cameras — emulating what its BBK sister company OnePlus did with Hasselblad. The X60 Pro+ has four cameras at the back, and unlike most phones, all four modules here are noteworthy.
+
+
+***
+[Airbnb new updates](https://itwire.com/freelancer-sp-720/tag/Airbnb%20new%20updates.html)
+
+
+> Airbnb adds new features to its system to serve travellers better, especially now that the pandemic has fundamentally changed tourism and travel.
+
+
+***
+![ASUS Chromebook with a 17.3-inch screen might be in the works](https://cdn.slashgear.com/wp-content/uploads/2021/05/03_display.jpg "ASUS Chromebook with a 17.3-inch screen might be in the works")
+
+
+[ASUS Chromebook with a 17.3-inch screen might be in the works](https://www.slashgear.com/asus-chromebook-with-a-17-3-inch-screen-might-be-in-the-works-25674513/)
+
+
+> There is no shortage of Chromebooks in the market, as evidenced by recent figures from market analysis companies. Despite different brands or even form factors, most of them share similar traits with few exceptions. Most Chromebooks come with rather modest specs and conventional screen sizes. ASUS has been tipped to be preparing a Chromebook that diverges from at least one of those and could be one of the biggest Chromebooks, at least the ones that come in a laptop form. While Chromebooks are the most common devices bearing Chrome OS, there are, of course, other incarnations that go beyond the clamshell.
+
+
+***
+![Ford follows GM, VW with two new dedicated EV platforms by 2025](https://images.moneycontrol.com/static-mcnews/2020/04/Ford-770x433.jpg "Ford follows GM, VW with two new dedicated EV platforms by 2025")
+
+
+[Ford follows GM, VW with two new dedicated EV platforms by 2025](https://www.moneycontrol.com/news/technology/auto/ford-follows-gm-vw-with-two-new-dedicated-ev-platforms-by-2025-6939671.html)
+
+
+> you are here: HomeNewsTechnologyAuto Ford Motor Co will announce on Wednesday that it is developing two dedicated all-electric vehicle platforms, one for full-size trucks and SUVs, the other for cars and smaller SUVs, as part of a strategy to catch General Motors Co, Volkswagen AG and Tesla Inc in the global electrification race, sources familiar with Ford`s plans said.The all-EV platforms are part of an ambitious multi-year, multi-billion-dollar plan the No. 2 U.S. automaker will outline to investors at its Capital Markets Day in an online event.
+
+
