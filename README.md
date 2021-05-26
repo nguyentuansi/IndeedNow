@@ -14079,3 +14079,50 @@
 > © Instagram / bad moms By: Daniel White2021-05-26 11:13:25 Subscribe NOW: Our Youtube Channel Last News: Bad Moms (2016) and Image Not Found Shonitria Anthony: 'Moms who smoke weed are not bad moms' The Wrap: New hires, Italian truffles, and a beer barrel to call your own. Another bank in New Bedford bank is on the market. What will its future hold? [Creative Powerhouse] Grow Your Following and Create Next-Level Content With the Galaxy Z Flip. 70 years later: Baumholder military, civilian community ties still strong.
 
 
+***
+[Hundreds of emoji in Android 12 are being revamped with flatter designs and, in some cases, returning to designs from Android 10 (Ben Schoon/9to5Google)](http://www.techmeme.com/210526/p4#a210526p4)
+
+
+> Ben Schoon / 9to5Google: Hundreds of emoji in Android 12 are being revamped with flatter designs and, in some cases, returning to designs from Android 10 — Emoji on Android has changed a lot over the years, and with the coming release of Android 12, Google is tweaking the design yet again.
+
+
+***
+![Global Smart Watch Market Report (2021 to 2030)](https://mms.businesswire.com/media/20210526005524/en/371054/23/ResearchAndMarkets_800px.jpg "Global Smart Watch Market Report (2021 to 2030)")
+
+
+[Global Smart Watch Market Report (2021 to 2030)](https://www.businesswire.com/news/home/20210526005524/en/Global-Smart-Watch-Market-Report-2021-to-2030---COVID-19-Growth-and-Change---ResearchAndMarkets.com)
+
+
+> May 26, 2021 06:12 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Smart Watch Global Market Report 2021: COVID-19 Growth and Change to 2030" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global smart watch market. The global smart watch market is expected to grow from $49.74 billion in 2020 to $59.02 billion in 2021 at a compound annual growth rate (CAGR) of 18.
+
+
+***
+![Surveillance Radars Market Research by Waveform, Platform, Frequency Band, Dimension, Range, Component, Application](https://mms.businesswire.com/media/20210526005523/en/371054/23/ResearchAndMarkets_800px.jpg "Surveillance Radars Market Research by Waveform, Platform, Frequency Band, Dimension, Range, Component, Application")
+
+
+[Surveillance Radars Market Research by Waveform, Platform, Frequency Band, Dimension, Range, Component, Application](https://www.businesswire.com/news/home/20210526005523/en/Surveillance-Radars-Market-Research-by-Waveform-Platform-Frequency-Band-Dimension-Range-Component-Application---Global-Forecast-to-2025---ResearchAndMarkets.com)
+
+
+> May 26, 2021 06:11 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Surveillance Radars Market Research Report by Waveform, by Platform, by Frequency Band, by Dimension, by Range, by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19" report has been added to ResearchAndMarkets.com's offering. The Global Surveillance Radars Market is expected to grow from USD 7,148.88 Million in 2020 to USD 10,277.65 Million by the end of 2025. Cumulative Impact of COVID-19: COVID-19 is an incomparable global public health emergency that has affected almost every industry, so for and, the long-term effects projected to impact the industry growth during the forecast period.
+
+
+***
+![Huawei Puts A Huge Emphasis On Software, It Wants To "Lead The World"](https://www.androidheadlines.com/wp-content/uploads/2020/04/AH-Huawei-logo-image-1.jpg "Huawei Puts A Huge Emphasis On Software, It Wants To "Lead The World"")
+
+
+[Huawei Puts A Huge Emphasis On Software, It Wants To "Lead The World"](https://www.androidheadlines.com/2021/05/huawei-emphasis-software.html)
+
+
+> Huawei is focusing on software, it seems, as its chief says that the company wants to 'lead the world' in this domain. This is something that Ren Zhengfei said to its employees, reports Reuters.This is Huawei's way to negate US sanctions, in a way. The US ban basically crippled Huawei's hardware business, preventing it to develop its SoC, had a huge effect on its smartphone business, and so on.Huawei chief says the company is putting great focus on softwareHuawei chief said that the company is focusing on software because it is 'outside of U.
+
+
+***
+![Insights on the MicroLED Displays Global Market to 2026](https://mms.businesswire.com/media/20210526005520/en/371054/23/ResearchAndMarkets_800px.jpg "Insights on the MicroLED Displays Global Market to 2026")
+
+
+[Insights on the MicroLED Displays Global Market to 2026](https://www.businesswire.com/news/home/20210526005520/en/Insights-on-the-MicroLED-Displays-Global-Market-to-2026---Latest-Technology-and-Supply-Chain-Information---ResearchAndMarkets.com)
+
+
+> May 26, 2021 06:09 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "The Global Market for MicroLED Displays 2021" report has been added to ResearchAndMarkets.com's offering. The Global Market for MicroLEDs 2021 analyses and forecasts the commercial potential of the MicroLED market. In this report, the publisher also provides strategic analysis of the key players in the microLED industry which include large global consumer electronics producers, major equipment and materials suppliers, national laboratories and universities and small start-ups.
+
+
