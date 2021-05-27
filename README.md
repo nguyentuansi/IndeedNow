@@ -14696,3 +14696,50 @@
 > NEW DELHI – Twitter on Thursday said it is worried about the safety of its staff in India and called for the government to respect freedom of expression, days after Indian police visited its office in New Delhi over its labeling of a tweet by a governing party spokesman as 'manipulated media.'Twitter has been involved in a tense battle with the Indian government, which has often asked it to restrict content alleging Prime Minister Narendra Modi's administration is trying to silence criticism, including of its handling of the coronavirus pandemic.
 
 
+***
+![Biomutant Destroy the Boomhut Quest Guide](https://techraptor.net/sites/default/files/styles/image_header/public/2021-05/Biomutant%20Destroy%20The%20Boomhut%20Quest%20Guide%20-%20cover.jpg?itok=A4qyoheH "Biomutant Destroy the Boomhut Quest Guide")
+
+
+[Biomutant Destroy the Boomhut Quest Guide](https://techraptor.net/gaming/guides/biomutant-destroy-boomhut-quest-guide)
+
+
+> 05/27/2021 - 08:23 | By: Robert N. Adams Home Gaming Gaming Guides Biomutant Destroy the Boomhut Quest Guide Are you having trouble with the Biomutant Destroy the Boomhut quest? It might be a challenge for newer players, the solution isn't too difficult — this guide will help you complete this tricky quest! How to Unlock the Biomutant Destroy the Boomhut Quest The Biomutant Destroy the Boomhut quest is unlocked as part of "The Tribe War" questline, a series of main quests that begins after you choose to join either the Myriad  Tribe or the Jagni Tribe.
+
+
+***
+![LeBron James pictured wearing TOP-SECRET Apple headphones that aren't even out yet](https://www.thesun.co.uk/wp-content/uploads/2021/05/NINTCHDBPICT000655829256-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "LeBron James pictured wearing TOP-SECRET Apple headphones that aren't even out yet")
+
+
+[LeBron James pictured wearing TOP-SECRET Apple headphones that aren't even out yet](https://www.thesun.co.uk/tech/15085119/lebron-james-beats-earbuds-apple/)
+
+
+> LEBRON James has been pictured wearing what appear to be Apple's highly anticipated "Beats Studio Buds" headphones. Rumours about the Beats earbuds have been circulating for a while after images of them were found in the beta versions of iOS 14.6 and tvOS 14.6. Apple, which has owned Beats since 2014, hasn't confirmed the existence of the earbuds. However, some Apple experts think they've spotted them in Lebron James's ears in the Instagram post above. According to Tech Radar, the NBA superstar is apparently wearing the buds that may be announced this year.
+
+
+***
+![Revamped OnePlus Nord coming to Europe next month as Nord CE 5G](https://m-cdn.phonearena.com/images/article/132397-wide-two_1200/Revamped-OnePlus-Nord-coming-to-Europe-next-month-as-Nord-CE-5G.jpg "Revamped OnePlus Nord coming to Europe next month as Nord CE 5G")
+
+
+[Revamped OnePlus Nord coming to Europe next month as Nord CE 5G](https://www.phonearena.com/news/oneplus-nord-ce-5g-announcement-date-availability-confirmed_id132397)
+
+
+> This morning OnePlus teased an upcoming ‘summer launch event' on social media. Now, CEO Pete Lau has revealed exactly what customers can expect from OnePlus in the coming months.First off, Pete Lau confirmed to TechRadar that next month's product announcement event focuses on the Nord CE 5G. That's not terribly surprising considering Amazon India has been thanking users for signing up to receive Nord CE 5G info.The CE in the smartphone's name stands for ‘Core Edition' and the phone itself is essentially a revamped version of the original Nord that incorporates 'certain classic flagship features' to ensure a fast and smooth experience.
+
+
+***
+[HBO Max shares details of its June 29 launch in Latin America and the Caribbean, at a starting price of $3/month, including UEFA Champions League soccer games (John Hopewell/Variety)](http://www.techmeme.com/210527/p6#a210527p6)
+
+
+> John Hopewell / Variety: HBO Max shares details of its June 29 launch in Latin America and the Caribbean, at a starting price of $3/month, including UEFA Champions League soccer games — Presenting its plans for Latin America on Wednesday at an online pre-launch presentation, HBO Max may have just given an inkling …
+
+
+***
+![MacBook Pro 16-inch M1X launch soon: Specs, features, India price, and everything we know so far](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/AllPic_14-647x363.jpeg?KB4Hy02ZdEyd91dJr.9z3NYPU7TCHByJ "MacBook Pro 16-inch M1X launch soon: Specs, features, India price, and everything we know so far")
+
+
+[MacBook Pro 16-inch M1X launch soon: Specs, features, India price, and everything we know so far](https://www.indiatoday.in/technology/features/story/macbook-pro-16-inch-m1x-launch-soon-specs-features-india-price-and-everything-we-know-so-far-1807713-2021-05-27)
+
+
+> Apple developers conference is just around the corner, and leaks suggest that the brand has several hardware announcements to make this year. The range of expected products also includes a 16-inch MacBook Pro with a new M1X chipset.Last year in November, the Cupertino giant introduced the 13-inch MacBook Air and MacBook Pro with an M1 chipset. Following this launch, Apple brought the M1 iMac and Mi iPad Pro in 2021. Now rumours around a 16-inch MacBook Pro with a faster M1X chipset are popping up at a great pace, hinting towards an imminent launch.
+
+
