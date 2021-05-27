@@ -14887,3 +14887,53 @@
 > Digital Trends may earn a commission when you buy through links on our site. Looking for the best Memorial Day sales on gadgets and tech? Then you'll want to check out some of the Surface Pro deals, especially if you're in the market for a new tablet or computer. One of the best things about tablets is that they bridge the gap between portability and usability, and 2-in-1 devices like Microsoft's Surface Pro 7 take that a step further. They offer versatility and the power to work, play, or browse anywhere.
 
 
+***
+![FM Capital steps up automotive investments with new $150M fund](https://techcrunch.com/wp-content/uploads/2018/12/Vroom-truck-01.jpg?w=534 "FM Capital steps up automotive investments with new $150M fund")
+
+
+[FM Capital steps up automotive investments with new $150M fund](https://techcrunch.com/2021/05/27/fm-capital-steps-up-automotive-investments-with-new-150m-fund/)
+
+
+> First Move Capital, the Boulder-based venture firm that has invested in used car marketplaces Frontier Auto Group and Vroom as well as mobility-as-a-service startup Via, has closed a new $150 million fund that will focus on the automotive and transportation sectors. Existing strategic investors such as OEMs, dealers, distributors, fleet management, remarketing, insurance and software providers as well as family offices have backed the fund. Proceeds from the round will be exclusively allocated to new investments, the company said Thursday.
+
+
+***
+![Sony PS5 game franchises could land on iPhone and Android later this year](https://cdn.mos.cms.futurecdn.net/GEEvvojvfBoU6Nok8jFczS-1200-80.jpg "Sony PS5 game franchises could land on iPhone and Android later this year")
+
+
+[Sony PS5 game franchises could land on iPhone and Android later this year](https://www.techradar.com/news/sony-ps5-game-franchises-could-land-on-iphone-and-android-later-this-year)
+
+
+> (Image credit: Sony) Could God of War's Kratos flex on your smartphone or Ratchet & Clank ham it up on your iPad later this year? That's possible, as Sony is promising to bring its 'iconic IP' to mobile in 2021, according to a recent investor relations presentation.Sony is interested in launching mobile game versions of its key franchises in a move that's meant to replicate the company's success in bringing two big properties – Horizon Zero Dawn and Predator – to the PC last year, which was profitable, according to Sony Interactive Entertainment (SIE) president and CEO Jim Ryan.
+
+
+***
+![The Snapback Slim Air is the AirTag wallet Apple should have made](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/snapback-slim-air-wallet.jpeg "The Snapback Slim Air is the AirTag wallet Apple should have made")
+
+
+[The Snapback Slim Air is the AirTag wallet Apple should have made](https://www.imore.com/snapback-slim-air-airtag-wallet-apple-should-have-made)
+
+
+> Source: Nick Augeri The Snapback Slim Air is a new wallet that also has a space for an AirTag. You can back the wallet on Kickstarter and get one for $50. Apple's AirTag item tracker is proving popular and there are already tons of new accessories available that are designed to hold the thing and attach it to something else. But one of the things many of us wanted an AirTag for was to make sure we never lost our wallet again. What we need is a wallet that has a space for an AirTag, and that's what the Snappback Slim Air is here to offer.
+
+
+***
+![See what's new from Wejo, CMC, iMerit, Plus, oVice, & Michigan at TechCrunch's mobility event](https://techcrunch.com/wp-content/uploads/2021/05/sessions_sponsor_wp.png?w=711 "See what's new from Wejo, CMC, iMerit, Plus, oVice, & Michigan at TechCrunch's mobility event")
+
+
+[See what's new from Wejo, CMC, iMerit, Plus, oVice, & Michigan at TechCrunch's mobility event](https://techcrunch.com/2021/05/27/see-whats-new-from-wejo-cmc-imerit-plus-ovice-michigan-at-techcrunchs-mobility-event/)
+
+
+> We're in the final run-up to TC Sessions: Mobility 2021 on June 9, and the great stuff just keeps on coming. We've stacked the one-day agenda with plenty of programming to keep you engaged, informed and on track to build a stronger business. You'll always find amazing speakers — some of the most innovative minds out there — on the main stage and in breakout sessions. Dramatic pause for a pro tip: Don't have a pass yet? Buy one here now for $125, before prices go up at the door. 'I enjoyed the big marquee speakers from companies like Uber, but it was the individual presentations where you really started to get into the meat of the conversation and see how these mobile partnerships come to life.
+
+
+***
+![How to watch the Intel Computex 2021 keynote live](https://cdn.mos.cms.futurecdn.net/5cDkBjRGzmjVFXoDxn6kf5-1200-80.jpg "How to watch the Intel Computex 2021 keynote live")
+
+
+[How to watch the Intel Computex 2021 keynote live](https://www.techradar.com/how-to/how-to-watch-the-intel-computex-2021-keynote-live)
+
+
+> Computex 2021 is online only this year, which means its easier than ever to catch the Intel Computex 2021 Keynote Address from Intel Executive Vice President, Michelle Johnston Holthaus.According to Intel, the keynote will be "a firsthand look at how the strategies of new CEO Pat Gelsinger, along with the forces of a rapidly accelerating digital transformation, are unleashing a new era of innovation at Intel — right when the world needs it most."What does that mean? We're not sure, but hopefully we'll hear a lot more about Intel's upcoming 12-generation processor series, codenamed Intel Alder Lake.
+
+
