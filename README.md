@@ -14937,3 +14937,53 @@
 > Computex 2021 is online only this year, which means its easier than ever to catch the Intel Computex 2021 Keynote Address from Intel Executive Vice President, Michelle Johnston Holthaus.According to Intel, the keynote will be "a firsthand look at how the strategies of new CEO Pat Gelsinger, along with the forces of a rapidly accelerating digital transformation, are unleashing a new era of innovation at Intel — right when the world needs it most."What does that mean? We're not sure, but hopefully we'll hear a lot more about Intel's upcoming 12-generation processor series, codenamed Intel Alder Lake.
 
 
+***
+![Professors Claim Evangelical Christians Are Racists Who 'May End Up Killing Us All'](https://media.breitbart.com/media/2021/05/Professor-Anthea-Butler.jpg "Professors Claim Evangelical Christians Are Racists Who 'May End Up Killing Us All'")
+
+
+[Professors Claim Evangelical Christians Are Racists Who 'May End Up Killing Us All'](https://www.breitbart.com/tech/2021/05/27/professors-claim-evangelical-christians-are-racists-who-may-end-up-killing-us-all/)
+
+
+> Professors featured on a recent panel hosted by the University of Virginia claimed that evangelical Christians are white racists who 'may end up killing us all.' 'If evangelicals don't change, they pose an existential crisis to us all,' said University of Pennsylvania professor Anthea Butler. 'They are part and parcel of the reason why we cannot move forward, because they say they have religious beliefs.' 'And because they are being selfish and because they don't care, their racism, their sexism, their homophobia, their lack of belief in science, lack of belief and common sense may end up killing us all,' Butler added.
+
+
+***
+![Learn something about python in seconds every day](https://external-preview.redd.it/r0ae30zwMq2JWHDXt2zSXuet63KqqvUrg8bjq6qBVxE.jpg?auto=webp&s=21c775e587c89c9c1312dd4360618016f7b12993 "Learn something about python in seconds every day")
+
+
+[Learn something about python in seconds every day](https://www.reddit.com/r/Python/comments/nmivcv/learn_something_about_python_in_seconds_every_day/)
+
+
+> Currently I try to make some good short python videos on YouTube (https://www.youtube.com/watch?v=28_EuwTEYrs). I thought it would be interesting for some of you. By now it's a playlist with 50 short (10-20 seconds) videos.Here I limit myself to the most necessary, they are not just classic tutorials, much more also someone with experience can refresh his knowledge.Do you like the format? I would be happy to get some feedback
+
+
+***
+![Swimmers urged to stay out of NSW, southern Qld waters amid hazardous surf](https://images.perthnow.com.au/publication/C-2952229/3a4f34ba1dd0f63e53df45c6b51a4b8b14f25e12-16x9-x0y296w768h432.jpg?imwidth=1200 "Swimmers urged to stay out of NSW, southern Qld waters amid hazardous surf")
+
+
+[Swimmers urged to stay out of NSW, southern Qld waters amid hazardous surf](https://www.news.com.au/technology/environment/swimmers-urged-to-stay-out-of-nsw-southern-qld-waters-amid-hazardous-surf/news-story/dd757226e56127a7d4b4e84d461aa590)
+
+
+> Beachgoers along the NSW and southern Queensland coast are being urged to stay out of the water as hazardous surf wreaks havoc on beaches.The Bureau of Meteorology says a hazardous surf warning remains active on Friday and into Saturday for the Byron, Coffs, Macquarie, Hunter, Sydney, Illawarra, Batemans, and Eden coasts as well as the Fraser, Sunshine and Gold coasts in Queensland.In addition, the bureau warns the 'very heavy surf' could lead to localised damage and coastal erosion and abnormally high tides could cause flooding.
+
+
+***
+![E3 2021 Predictions: Nintendo Switch Pro, GTA 6, and More (Nerdist News w/ Dan Casey)](https://nerdist.com/wp-content/uploads/2021/05/20210527_n_nerdistnews_e3predictions_1920x1080.jpg "E3 2021 Predictions: Nintendo Switch Pro, GTA 6, and More (Nerdist News w/ Dan Casey)")
+
+
+[E3 2021 Predictions: Nintendo Switch Pro, GTA 6, and More (Nerdist News w/ Dan Casey)](https://nerdist.com/watch/e3-2021-predictions-nintendo-switch-pro-gta-6-and-more-nerdist-news-w-dan-casey/)
+
+
+> The biggest event in video games is almost here. Beginning on June 12, E3 will return with a cavalcade of announcements about all the latest from the world of gaming. While we wait to see all the biggest reveals and hottest games coming our way, Dan is here with some predictions of what titles will rule E3 2021 on today's episode of Nerdist News!
+
+
+***
+![Python Development Software Bundle](https://external-preview.redd.it/nMsztDHRNDk9a4hDOyYr5o-95dM2J_1vBPSsUIzneOo.jpg?auto=webp&s=e84ba3895bd6516c08cbe5f997b735d89f3a9380 "Python Development Software Bundle")
+
+
+[Python Development Software Bundle](https://www.reddit.com/r/Python/comments/nmiqps/python_development_software_bundle/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
