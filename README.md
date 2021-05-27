@@ -14790,3 +14790,53 @@
 > The best web development tools can make it simple and easy to design or code websites for developers. Web development has long since left the grounds of having to individually code pages in HTML/CSS, JavaScript, PHP or another internet language, using just Notepad or simply code-friendly text editor. These days, development development platforms are already available to help with every part of the process, from coding to web design itself. The result is the ability to build and host your own website the way you want it to look.
 
 
+***
+![Sonic Central: iOS and Apple Arcade Sonic games are getting some updates](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/sonic-dash-pirate.jpg "Sonic Central: iOS and Apple Arcade Sonic games are getting some updates")
+
+
+[Sonic Central: iOS and Apple Arcade Sonic games are getting some updates](https://www.imore.com/sonic-central-ios-and-apple-arcade-sonic-games-are-getting-some-updates)
+
+
+> Sonic mobile Some of your favorite Sonic games on iPhone are getting fun anniversary updates. 27 May 2021 Source: Sega During today's Sonic Central presentation several new games were announced. We also learned that three Sonic iPhone games would be getting updates. Today Sega hosted a Sonic Central presentation announcing several new Sonic games and updates. We also learned about some exciting updates to exisiting iOS and Apple Arcade games. Sonic Dash In May, Pirate Sonic and Captain Shadow are coming to Sonic Dash.
+
+
+***
+![Breinify announces $11M seed to bring data science to the marketing team – TechCrunch](https://techcrunch.com/wp-content/uploads/2016/09/breinify6.jpg?w=600 "Breinify announces $11M seed to bring data science to the marketing team – TechCrunch")
+
+
+[Breinify announces $11M seed to bring data science to the marketing team – TechCrunch](https://techcrunch.com/2021/05/27/breinify-announces-11m-seed-to-bring-data-science-to-the-marketing-team/)
+
+
+> Breinify is a startup working to apply data science to personalization, and do it in a way that makes it accessible to non-technical marketing employees to build more meaningful customer experiences. Today the company announced a funding round totalling $11 million. The investment was led by Gutbrain Ventures and PBJ Capital with participation from Streamlined Ventures, CXO Fund, Amino Capital, Startup Capital Ventures and Sterling Road. Breinify co-founder and CEO Diane Keng says that she and co-founder and CTO Philipp Meisen started the company to bring predictive personalization based on data science to marketers with the goal of helping them improve a customer's experience by personalizing messages tailored to individual tastes.
+
+
+***
+![Higher Education Institutions Rely on Jenzabar Solutions to Navigate COVID-Era Challenges and Build the Digital Campus of Tomorrow](https://mms.businesswire.com/media/20210527005738/en/881592/23/Jenzabar_logo.jpg "Higher Education Institutions Rely on Jenzabar Solutions to Navigate COVID-Era Challenges and Build the Digital Campus of Tomorrow")
+
+
+[Higher Education Institutions Rely on Jenzabar Solutions to Navigate COVID-Era Challenges and Build the Digital Campus of Tomorrow](https://www.businesswire.com/news/home/20210527005738/en/Higher-Education-Institutions-Rely-on-Jenzabar-Solutions-to-Navigate-COVID-Era-Challenges-and-Build-the-Digital-Campus-of-Tomorrow)
+
+
+> May 27, 2021 12:31 PM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Jenzabar, Inc., a leading technology innovator in higher education serving the new student, today announced that more than 50 higher education institutions across the U.S. have selected or expanded the use of Jenzabar solutions over the past year to navigate operational challenges prompted by the global pandemic and to prepare for the future. These institutions will leverage elements from the mobile-friendly Jenzabar One platform to power online learning, analytics, financial aid, student recruitment and retention, and more.
+
+
+***
+![Breinify announces $11M seed to bring data science to the marketing team](https://techcrunch.com/wp-content/uploads/2016/09/breinify6.jpg?w=600 "Breinify announces $11M seed to bring data science to the marketing team")
+
+
+[Breinify announces $11M seed to bring data science to the marketing team](https://techcrunch.com/2021/05/27/breinify-announces-11m-seed-to-bring-data-science-to-the-marketing-team/)
+
+
+> Breinify is a startup working to apply data science to personalization, and do it in a way that makes it accessible to non-technical marketing employees to build more meaningful customer experiences. Today the company announced a funding round totalling $11 million. The investment was led by Gutbrain Ventures and PBJ Capital with participation from Streamlined Ventures, CXO Fund, Amino Capital, Startup Capital Ventures and Sterling Road. Breinify co-founder and CEO Diane Keng says that she and co-founder and CTO Philipp Meisen started the company to bring predictive personalization based on data science to marketers with the goal of helping them improve a customer's experience by personalizing messages tailored to individual tastes.
+
+
+***
+![Squarespace sees significant share price boost](https://cdn.mos.cms.futurecdn.net/n56GcpydLFNyhszmCwfBb6-1200-80.jpg "Squarespace sees significant share price boost")
+
+
+[Squarespace sees significant share price boost](https://www.techradar.com/news/squarespace-sees-significant-share-price-boost)
+
+
+> (Image credit: Squarespace) Popular website builder Squarespace saw a 25% increase in its stock price following a disappointing recent drop to below its $50 reference price.At $54.16, Squarespace is now sitting above its reference price, as the firm sits comfortably into its third week as a public company.NYSE set the company's reference price at $50 on May 19 just before the firm's direct listing commenced under the symbol 'SQSP'.The American website building and hosting company did not meet expectations on its first trading day as its stocks finished at $43.
+
+
