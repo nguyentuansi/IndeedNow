@@ -14414,3 +14414,47 @@
 > Of the dozens of Instagram ads I viewed in the past few weeks, one made me do a double take every time. Mostly, because it contains what looks like a pile of poo. Like, fossilized poo. A bit crumbly. Or dirt clods. Or ... something brown? And definitely not attractive.  Here it is: Yep, this definitely caught my eye. Image: screenshot: rachel kraus Instagram ads are usually polished and pretty. This stood out for the obvious reason that it is none of those things, but also because it was completely mysterious.
 
 
+***
+![I Trained a Model to Generate Video Game Pages](https://external-preview.redd.it/OegdihLcF2Pebw5RExMb2pImxzW67iy6UN0kidjKOQ0.jpg?auto=webp&s=1116de179ae3bb4f20688bf305173fd4e1546174 "I Trained a Model to Generate Video Game Pages")
+
+
+[I Trained a Model to Generate Video Game Pages](https://www.reddit.com/r/Python/comments/nlvw4m/i_trained_a_model_to_generate_video_game_pages/)
+
+
+> These past two months I've been working on a project I've called THIS GAME DOES NOT EXIST. I've always wanted to try building something with generative A.I. so this project scratched that itch for me.Here's a video with a few of my favourites read by voice actors: https://www.youtube.com/watch?v=_mTWMLhpJoATHIS GAME DOES NOT EXIST is an experiment in generative artificial intelligence. This site contains 130 video game pages that were generated using an implementation of OpenAI's Generative Pre-trained Transformer 2 (GPT-2) to generate text and a simple implementation of generative adversarial networks (GAN) to generate header images and "screenshots".
+
+
+***
+[How inertial and alternative PNT can mitigate GPS vulnerabilities](https://www.gpsworld.com/how-inertial-and-alternative-pnt-can-mitigate-gps-vulnerabilities/)
+
+
+> While GPS will always be an integral and irreplaceable part of positioning, navigation and timing (PNT) technology,  assured […]
+
+
+***
+![Yum! Brands Undertakes to Acquire Dragontail Systems, an Innovator in Kitchen Order Management and Delivery Technology](https://mms.businesswire.com/media/20210526006170/en/881435/23/Yum_4c_%282%29.jpg "Yum! Brands Undertakes to Acquire Dragontail Systems, an Innovator in Kitchen Order Management and Delivery Technology")
+
+
+[Yum! Brands Undertakes to Acquire Dragontail Systems, an Innovator in Kitchen Order Management and Delivery Technology](https://www.businesswire.com/news/home/20210526006170/en/Yum%21-Brands-Undertakes-to-Acquire-Dragontail-Systems-an-Innovator-in-Kitchen-Order-Management-and-Delivery-Technology)
+
+
+> May 26, 2021 08:32 PM Eastern Daylight Time LOUISVILLE, Ky. & PERTH, Australia--(BUSINESS WIRE)--Yum! Brands, Inc. (NYSE: YUM) (Yum! Brands) and Dragontail Systems Limited (ASX: DTS) (Dragontail), an innovative provider of technology solutions for the food industry, announced today that they have entered into a binding agreement under which Yum! Brands would acquire Dragontail by way of a share scheme of arrangement in accordance with Australian corporations law (referred to as the Scheme). If the Scheme is successfully implemented, the addition of Dragontail to Yum! Brands' growing technology portfolio is intended to give Yum! Brands the ability to scale Dragontail's artificial intelligence (AI) kitchen order management and delivery technology globally.
+
+
+***
+[Facebook says it will no longer take down posts that claim COVID-19 was man-made, following renewed debate about the origins of the virus (Cristiano Lima/Politico)](http://www.techmeme.com/210526/p45#a210526p45)
+
+
+> Cristiano Lima / Politico: Facebook says it will no longer take down posts that claim COVID-19 was man-made, following renewed debate about the origins of the virus — Facebook will no longer take down posts claiming that Covid-19 was man-made or manufactured, a company spokesperson told POLITICO on Wednesday …
+
+
+***
+![Best cheap Microsoft Surface Pro deals for May 2021](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-surface-pro-6-review-16-2.jpg "Best cheap Microsoft Surface Pro deals for May 2021")
+
+
+[Best cheap Microsoft Surface Pro deals for May 2021](https://www.digitaltrends.com/dtdeals/microsoft-surface-pro-deals-and-bundles/)
+
+
+> It wasn't until decades after becoming a household name thanks to its now-ubiquitous Windows operating system that Microsoft got around to making some actual computer hardware — and we're not referring to the Xbox gaming consoles. We're actually talking about the Microsoft Surface, which started its life about a decade ago as a simple Windows-powered tablet but has since been expanded into a complete lineup of touchscreen laptops, 2-in-1s, and even a dual-screen smartphone. The Surface Pro tablets are still our favorites, though, and if one of these impressively versatile iPad alternatives caught your attention, then this hand-picked selection of the best Microsoft Surface Pro deals is where you'll find it.
+
+
