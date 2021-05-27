@@ -14649,3 +14649,50 @@
 > May 27, 2021 04:15 AM Eastern Daylight Time TURIN, Italy--(BUSINESS WIRE)--For the third year in a row, the Reply - Digital Experience agency and group of companies topped the revenue ranking of the Bundesverband Digitale Wirtschaft (BVDW). The achieved fee turnover of 145.8 million euros in 2020 means a growth in turnover of 5.23 percent for Reply - Digital Experience. The number of employees across Germany of the companies belonging to the agency and group of companies increased by almost 70 to 1,027 people compared to the previous year.
 
 
+***
+![Enpro to Host Virtual Investor Day Today](https://mms.businesswire.com/media/20210527005035/en/1062268/23/Enpro-Horiztonal-CMYK-01.jpg "Enpro to Host Virtual Investor Day Today")
+
+
+[Enpro to Host Virtual Investor Day Today](https://www.businesswire.com/news/home/20210527005035/en/Enpro-to-Host-Virtual-Investor-Day-Today)
+
+
+> May 27, 2021 06:30 AM Eastern Daylight Time CHARLOTTE, N.C.--(BUSINESS WIRE)--EnPro Industries, Inc. (NYSE: NPO), a leading industrial technology company leveraging materials science across its portfolio of businesses, will host a virtual investor day today, Thursday, May 27, 2021 starting at 8:30 a.m. EDT. Marvin Riley, President and Chief Executive Officer, and Milt Childress, Executive Vice President and Chief Financial Officer, along with other members of Enpro's executive management team will provide an overview and update of the company's operational and financial objectives including long-term vision, growth strategy, and business segments.
+
+
+***
+![E2open to Combine With BluJay Solutions, a Leading Cloud-Based, Logistics Execution Platform](http://www.businesswire.com/images/bwlogo_square.png "E2open to Combine With BluJay Solutions, a Leading Cloud-Based, Logistics Execution Platform")
+
+
+[E2open to Combine With BluJay Solutions, a Leading Cloud-Based, Logistics Execution Platform](https://www.businesswire.com/news/home/20210527005435/en/E2open-to-Combine-With-BluJay-Solutions-a-Leading-Cloud-Based-Logistics-Execution-Platform)
+
+
+> May 27, 2021 06:30 AM Eastern Daylight Time AUSTIN, Texas--(BUSINESS WIRE)--E2open Parent Holdings, Inc. (NYSE: ETWO), a leading network-based provider of a 100% cloud-based, mission-critical, end-to-end supply chain management platform, today announced that it will acquire BluJay Solutions, a leading cloud-based, logistics execution platform. Based on the price of E2open's Class A Common Stock at May 25, 2021 market close, the stock and cash transaction is valued at approximately $1.7 billion. BluJay is an integrated SaaS platform with comprehensive solutions for Shippers, Logistics Service Providers (LSPs) and Freight Forwarders.
+
+
+***
+[Bitcoin price news LIVE – BTC PLUMMETS amid crytocurrency mining bans as Dogecoin founder thanks Elon Musk for tweet](https://www.thesun.ie/tech/7050069/bitcoin-price-crash-news-mining-ban-dogecoin-elon-musk/)
+
+
+> BITCOIN has plummeted after Iran announced a temporary ban on mining due to the strain it is causing on the nation’s electricity grid. Around 4 per cent of mining now takes place in Iran after China’s new crackdown saw miners flock to nations where energy is cheaper. Iranian officials have regularly blamed unlicensed cryptocurrency miners […]
+
+
+***
+![Auto companies donate 2,030 oxygen cylinders, add 4,500 hospital beds and 20 relief camps to fight Covid-19](https://images.moneycontrol.com/static-mcnews/2021/05/Maruti-Suzuki-starts-a-multi-speciality-hospital-at-Sitapur-Gujarat-in-partnership-with-Zydus-Hospitals-1-770x433.jpeg "Auto companies donate 2,030 oxygen cylinders, add 4,500 hospital beds and 20 relief camps to fight Covid-19")
+
+
+[Auto companies donate 2,030 oxygen cylinders, add 4,500 hospital beds and 20 relief camps to fight Covid-19](https://www.moneycontrol.com/news/technology/auto/auto-companies-donate-2030-oxygen-cylinders-add-4500-hospital-beds-and-20-relief-camps-to-fight-covid-19-6948621.html)
+
+
+> Automotive companies have cumulatively donated more than 2,030 oxygen cylinders and 4,404 oxygen concentrators, set up permanent and temporary hospitals with a capacity of more than 4,475 beds in the collective fight against Covid-19.In addition, 27 oxygen generating plants, more than 132 ventilators, 349 BiPAP machines and 250 HFNCs (High-Flow Nasal Cannulas), 20 Covid-19 relief camps and 35 mobile units have been offered by the automotive industry, a statement from the lobby bodies of vehicle makers (SIAM) and parts suppliers (ACMA) said.
+
+
+***
+![Twitter urges Indian gov't to respect freedom of expression](https://www.clickorlando.com/resizer/V6BBghQbPHiwXUk9VGT4rNgGjuQ=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/AIMIZ5FXT5FFJMR7TCTAA6STF4.jpg "Twitter urges Indian gov't to respect freedom of expression")
+
+
+[Twitter urges Indian gov't to respect freedom of expression](https://www.clickorlando.com/tech/2021/05/27/twitter-urges-indian-govt-to-respect-freedom-of-expression/)
+
+
+> NEW DELHI – Twitter on Thursday said it is worried about the safety of its staff in India and called for the government to respect freedom of expression, days after Indian police visited its office in New Delhi over its labeling of a tweet by a governing party spokesman as 'manipulated media.'Twitter has been involved in a tense battle with the Indian government, which has often asked it to restrict content alleging Prime Minister Narendra Modi's administration is trying to silence criticism, including of its handling of the coronavirus pandemic.
+
+
