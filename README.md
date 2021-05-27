@@ -14558,3 +14558,53 @@
 > 在近日发布的 Windows Terminal 1.9 预览版更新中，允许将其作为 Windows 10 系统的默认终端应用程序。在将 Terminal 设置为默认终端之后，包括 Command Prompt 和 PowerShell 等命令行应用都会在 Windows Terminal 中打开。 用户可以在控制台的属性里面找到，如下面的截图所示：如果你无法在控制台属性中找到该选项，请前往Windows Terminal 预览版的新设置界面，选择"Terminal"作为默认的终端应用程序。
 
 
+***
+![Amazon's Washington critics set to pounce on MGM deal](https://www.thehindu.com/sci-tech/technology/7qkmy8/article34655386.ece/ALTERNATES/LANDSCAPE_615/amazon-mgmjpg "Amazon's Washington critics set to pounce on MGM deal")
+
+
+[Amazon's Washington critics set to pounce on MGM deal](https://www.thehindu.com/sci-tech/technology/amazons-washington-critics-set-to-pounce-on-mgm-deal/article34655220.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Amazon's move to buy the MGM movie and TV studio will provide fuel for the Seattle company's critics in the nation's capitol who complain it is already too big and powerful, but experts said the deal poses few classic antitrust concerns.A little more than an hour after the deal was announced,Republican Senator Josh Hawley blasted Amazon.com as a "monopoly platform" on Twitter, adding, "This sale should not go through," and that the company shouldn't be allowed to buy anything.
+
+
+***
+![Redmi Note 8 (2021) Price Revealed, to Start at $169: All the Details](https://i.gadgets360cdn.com/large/Redmi_note_8_2021_launch_1621932517925.jpg "Redmi Note 8 (2021) Price Revealed, to Start at $169: All the Details")
+
+
+[Redmi Note 8 (2021) Price Revealed, to Start at $169: All the Details](https://gadgets.ndtv.com/mobiles/news/redmi-note-8-2021-price-usd-169-189-specifications-launch-official-global-2450186)
+
+
+> Redmi Note 8 (2021) pricing information has been revealed, days after its official specifications and design were unveiled on the company's global website. The phone comes powered with the MediaTek Helio G85 SoC and features a 6.3-inch full-HD waterdrop-style notch display. Redmi Note 8 (2021) features a quad rear camera setup, headlined by a 48-megapixel main sensor. It packs a 4,000mAh battery and has a rear fingerprint sensor on board. Redmi Note 8 (2021) supports a 3.5mm audio jack and runs on Android 11.
+
+
+***
+![Weird stuff on the screen of MBP 13" 2015](https://forums.macrumors.com/attachments/img_7616-jpg.1782451/ "Weird stuff on the screen of MBP 13" 2015")
+
+
+[Weird stuff on the screen of MBP 13" 2015](https://forums.macrumors.com/threads/weird-stuff-on-the-screen-of-mbp-13-2015.2298026/)
+
+
+> Hey, any idea what is this? It doesn't really bother that much when the display is on, but still... Anything I can do about it? It's 2015 13" MBP Thanks
+
+
+***
+![Amazon's Mobile Mania sale kicks off today](https://cdn.mos.cms.futurecdn.net/SPW6d95YanSeGiBYiPKuHN-1200-80.jpg "Amazon's Mobile Mania sale kicks off today")
+
+
+[Amazon's Mobile Mania sale kicks off today](https://www.techradar.com/deals/amazons-mobile-mania-sale-kicks-off-today)
+
+
+> (Image credit: Amazon) Amazon is kicking off its Mobile Mania sale in the UAE on May 27 and it's your chance to grab some exciting deals on electronics, gadgets and appliances. Our team of experts will be bringing you the best of the best deals from the sale event. The Mobile Mania sale starts on May 27 for Amazon Prime customers and ends on May 28. Non-Prime customers will be able to grab these deals on May 29, while Prime members will get exclusive access to deals one day in advance from 11:00 am to 11:00 pm.
+
+
+***
+![SQLizer Python library now available on Pypi](https://external-preview.redd.it/wnNwt0EPI2OkX4cZbOV0M52f2exUzh562KP9cTMEjlg.jpg?auto=webp&s=bce1532a5593c246ef4d920e508621563fb65201 "SQLizer Python library now available on Pypi")
+
+
+[SQLizer Python library now available on Pypi](https://www.reddit.com/r/Python/comments/nm13al/sqlizer_python_library_now_available_on_pypi/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
