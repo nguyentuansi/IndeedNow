@@ -14508,3 +14508,53 @@
 > Your web browser is no longer supported. To improve your experience update it hereCOVID-19 LIVE UPDATESVictoria to enter seven-day lockdown from midnight"Water bears" and baby squid are about to hitch a ride to space.No, we're not starting an aquarium in space. These animals will be joining the astronaut crew aboard the International Space Station for research purposes."Water bears" and baby squid are about to hitch a ride to space. (Getty Images/amana images RF)SpaceX is scheduled to launch its 22nd cargo resupply mission to the space station on June 4 at 3.
 
 
+***
+![Battery Issues](https://images.macrumors.com/social/?t=2298020&v=6 "Battery Issues")
+
+
+[Battery Issues](https://forums.macrumors.com/threads/battery-issues.2298020/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Japan to send ‘transforming robot' to the Moon in 2022](https://regmedia.co.uk/2021/05/27/jaxa_transforming_moonbot2.jpg "Japan to send ‘transforming robot' to the Moon in 2022")
+
+
+[Japan to send ‘transforming robot' to the Moon in 2022](https://www.theregister.com/2021/05/27/jaxa_transforming_moon_robot/)
+
+
+> Japan's Aerospace Exploration Agency (JAXA) will send a transforming robot to the Moon. The space agency announced its plans and revealed the design depicted below today. You're looking at a device JAXA says will be 80mm in diameter, before transformation, and weighs in at 250 grams. JAXA's design for a transforming moonbot. Click to enlarge The ‘bot will travel to Luna on a 2022 mission conducted by Japanese space upstart ispace. JAXA suggests the device will be spherical at launch, then 'transform into a running form' depicted at right in order to trundle about the surface of the Moon on a mission to ascertain what it will take to build a larger, pressurised, vehicle capable of carrying crew on the moon.
+
+
+***
+![Lenovo Group: Full Year Financial Results 2020/21](https://mms.businesswire.com/media/20210526006195/en/469008/21/Lenovo_logo_red.jpg "Lenovo Group: Full Year Financial Results 2020/21")
+
+
+[Lenovo Group: Full Year Financial Results 2020/21](https://www.businesswire.com/news/home/20210526006195/en/Lenovo-Group-Full-Year-Financial-Results-202021)
+
+
+> May 27, 2021 12:21 AM Eastern Daylight Time HONG KONG--(BUSINESS WIRE)--Lenovo Group (HKSE: 992) (PINK SHEETS: LNVGY) today announced record results for the Group for both its fourth quarter and fiscal year, with phenomenal growth across all parts of the business. The results demonstrate the Group's resilience and ability to achieve balanced, consistent, and sustainable growth as it continues to diversify and transform in line with its 3S (Smart IoT, Smart Infrastructure, Smart Solutions) corporate strategy.
+
+
+***
+![Fate of ‘Made in China, sold on Amazon' products in doubt as fake review crackdown continues](https://apicms.thestar.com.my/uploads/images/2021/05/27/1161487.jpg "Fate of ‘Made in China, sold on Amazon' products in doubt as fake review crackdown continues")
+
+
+[Fate of ‘Made in China, sold on Amazon' products in doubt as fake review crackdown continues](https://www.scmp.com/tech/big-tech/article/3134812/fate-made-china-sold-amazon-products-doubt-fake-review-crackdown?utm_source=thestar&utm_medium=partner&utm_campaign=contentexchange&utm_content=3134812)
+
+
+> When Andy Zhang, a merchant from eastern China's Zhejiang province, started selling shower heads on Amazon.com earlier this year, he vowed to follow all of the US e-commerce giant's rules. Still, Zhang says it is hard to abide by one specific rule: real reviews only. Zhang understands the risk of not following the rule, but believes it is the only way to jump-start overseas sales for his online store. 'On average, only one in 15 people leave a review,' he said. 'Some stores pay a lot of people to leave positive reviews.
+
+
+***
+![Windows 10命令行应用现可默认使用Terminal打开](https://static.cnbetacdn.com/thumb/article/2021/0527/4eb1c6627b55665.jpg "Windows 10命令行应用现可默认使用Terminal打开")
+
+
+[Windows 10命令行应用现可默认使用Terminal打开](http://www.cnbeta.com/articles/tech/1133241.htm)
+
+
+> 在近日发布的 Windows Terminal 1.9 预览版更新中，允许将其作为 Windows 10 系统的默认终端应用程序。在将 Terminal 设置为默认终端之后，包括 Command Prompt 和 PowerShell 等命令行应用都会在 Windows Terminal 中打开。 用户可以在控制台的属性里面找到，如下面的截图所示：如果你无法在控制台属性中找到该选项，请前往Windows Terminal 预览版的新设置界面，选择"Terminal"作为默认的终端应用程序。
+
+
