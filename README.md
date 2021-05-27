@@ -14608,3 +14608,44 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[‘BazaFlix' Fakes Movie Streaming Service to Distribute Malware](https://www.technadu.com/bazaflix-fakes-movie-streaming-service-tdistribute-malware/279392/)
+
+
+> ‘BazaFlix' is a new campaign from ‘BazarLoader' actors who are spreading their malware through macro-ridden Excel files. The campaign relies upon making people believe that they are about to be charged $39.99 for a streaming subscription. The same group was recently doing the same thing by using a different theme, so they could change to […]
+
+
+***
+![Twitter's Clubhouse competitor Spaces finally comes to the web](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/twitter-spaces-web.jpg "Twitter's Clubhouse competitor Spaces finally comes to the web")
+
+
+[Twitter's Clubhouse competitor Spaces finally comes to the web](https://www.androidcentral.com/twitters-clubhouse-competitor-spaces-finally-comes-web)
+
+
+> Expansion Continues You'll still have to use the Twitter mobile app to join a Space. Source: Twitter Twitter's Clubhouse-like 'Spaces' is now available on the web. While you can now join Spaces from a mobile or desktop browser, you won't be able to host one yourself. Until now, users could join Spaces only using the Twitter mobile app on iOS and Android. Twitter's Clubhouse-like 'Spaces' feature has finally made its way to the web. Users can now join a Space from any desktop browser or the best Android browsers.
+
+
+***
+[Start Using a Smart DAM and Image Optimization Stack](http://www.webdesignernews.com/external/start-using-a-smart-dam-and-image-optimization-stack)
+
+
+> https://www.webdesignerdepot.com/2021/05/start-using-a-smart-dam-and-image-optimization-stack/
+
+
+***
+[Nokia's New 5G Small Cells to Improve Connectivity](https://telecomtalk.info/nokia-new-5g-small-cells-improve-connectivity/364738/)
+
+
+> Nokia is a global telecom vendor that invests heavily in its research and development wing to come out with new and better technology products for enhancing the way people connect. One of Nokia's major products is its 5G AirScale portfolio. […]
+
+
+***
+![Reply Stays at the Top of the List: Reply](https://mms.businesswire.com/media/20210527005370/en/809563/23/Reply_-_LOGO_300dpi.jpg "Reply Stays at the Top of the List: Reply")
+
+
+[Reply Stays at the Top of the List: Reply](https://www.businesswire.com/news/home/20210527005370/en/Reply-Stays-at-the-Top-of-the-List-Reply---Digital-Experience-is-the-Largest-Agency-and-Company-Group-in-the-BVDW-Internet-Agency-Ranking)
+
+
+> May 27, 2021 04:15 AM Eastern Daylight Time TURIN, Italy--(BUSINESS WIRE)--For the third year in a row, the Reply - Digital Experience agency and group of companies topped the revenue ranking of the Bundesverband Digitale Wirtschaft (BVDW). The achieved fee turnover of 145.8 million euros in 2020 means a growth in turnover of 5.23 percent for Reply - Digital Experience. The number of employees across Germany of the companies belonging to the agency and group of companies increased by almost 70 to 1,027 people compared to the previous year.
+
+
