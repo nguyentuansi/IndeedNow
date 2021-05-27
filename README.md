@@ -14840,3 +14840,50 @@
 > (Image credit: Squarespace) Popular website builder Squarespace saw a 25% increase in its stock price following a disappointing recent drop to below its $50 reference price.At $54.16, Squarespace is now sitting above its reference price, as the firm sits comfortably into its third week as a public company.NYSE set the company's reference price at $50 on May 19 just before the firm's direct listing commenced under the symbol 'SQSP'.The American website building and hosting company did not meet expectations on its first trading day as its stocks finished at $43.
 
 
+***
+![Continued Fractions: Haskell, Equational Reasoning, Property Testing, and Rewrite Rules in Action](https://external-preview.redd.it/tfz5w_-ltSyJLFA9EmsfR84rQ1ZxypEmdbgTyl6GGHk.jpg?auto=webp&s=e80366eae16dff1f38411460b6dc8a1493823181 "Continued Fractions: Haskell, Equational Reasoning, Property Testing, and Rewrite Rules in Action")
+
+
+[Continued Fractions: Haskell, Equational Reasoning, Property Testing, and Rewrite Rules in Action](https://www.reddit.com/r/programming/comments/nmebsj/continued_fractions_haskell_equational_reasoning/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[History of the browser user-agent string (2008)](https://www.reddit.com/r/programming/comments/nmebmk/history_of_the_browser_useragent_string_2008/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The OnePlus Nord N200 gets teased, could be the company's cheapest 5G phone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2017/11/oneplus-generic-logo.jpg "The OnePlus Nord N200 gets teased, could be the company's cheapest 5G phone")
+
+
+[The OnePlus Nord N200 gets teased, could be the company's cheapest 5G phone](https://www.androidcentral.com/oneplus-nord-n200-5g-tease)
+
+
+> Source: Harish Jonnalagadda / Android Central OnePlus has teased the launch of its next budget 5G smartphone. The OnePlus Nord N200 will feature 5G connectivity, something that was missing on its predecessor. OnePlus says to "stay tuned" for more information on the launch date. OnePlus teased the launch of the latest Nord N smartphone for the U.S. The OnePlus Nord N200 5G is expected to be the company's most affordable 5G smartphone, following after the budget OnePlus Nord N100. OnePlus CEO Pete Lau did not divulge any details about the device, only that the company "is committed to making the 5G experience more accessible than ever.
+
+
+***
+![What is AT&T TV?](https://icdn.digitaltrends.com/image/digitaltrends/att-tv-prime.jpg "What is AT&T TV?")
+
+
+[What is AT&T TV?](https://www.digitaltrends.com/home-theater/what-is-att-tv/)
+
+
+> Ever since its first offerings after purchasing DirectTV, AT&T has been intent on providing online content for its users. Those efforts have taken a lot of forms over the years, rebranding from DirecTV to AT&T TV Now, with a variety of models and packages that have now been largely combined into the current service called AT&T TV. AT&T can be fairly opaque when it comes to understanding its services, pricing tiers, and what exactly you're getting, so we're helping out with a dive into exactly what AT&T TV is, and if it may be a good fit for you.
+
+
+***
+![Best Buy slashes the Microsoft Surface Pro 7 by over $250 this week](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-surface-pro-7-4.jpg "Best Buy slashes the Microsoft Surface Pro 7 by over $250 this week")
+
+
+[Best Buy slashes the Microsoft Surface Pro 7 by over $250 this week](https://www.digitaltrends.com/dtdeals/best-buy-slashes-microsoft-surface-7-pro-price-by-250-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Looking for the best Memorial Day sales on gadgets and tech? Then you'll want to check out some of the Surface Pro deals, especially if you're in the market for a new tablet or computer. One of the best things about tablets is that they bridge the gap between portability and usability, and 2-in-1 devices like Microsoft's Surface Pro 7 take that a step further. They offer versatility and the power to work, play, or browse anywhere.
+
+
