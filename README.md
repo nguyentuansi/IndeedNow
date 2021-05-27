@@ -14743,3 +14743,50 @@
 > Apple developers conference is just around the corner, and leaks suggest that the brand has several hardware announcements to make this year. The range of expected products also includes a 16-inch MacBook Pro with a new M1X chipset.Last year in November, the Cupertino giant introduced the 13-inch MacBook Air and MacBook Pro with an M1 chipset. Following this launch, Apple brought the M1 iMac and Mi iPad Pro in 2021. Now rumours around a 16-inch MacBook Pro with a faster M1X chipset are popping up at a great pace, hinting towards an imminent launch.
 
 
+***
+![Python portable + Thonny + Spyder](https://external-preview.redd.it/d2ais1SFu7iRj9UQ4AWHxi-rE1-W-hPQUURqpDW7MBw.jpg?auto=webp&s=d94a27ff7b415c1906ba0b4fbb879f606b942372 "Python portable + Thonny + Spyder")
+
+
+[Python portable + Thonny + Spyder](https://www.reddit.com/r/Python/comments/nm8fhv/python_portable_thonny_spyder/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Shopping for an iPad? Why you need to buy one TODAY](https://icdn.digitaltrends.com/image/digitaltrends/ipad-air-4-space-grey-12.jpg "Shopping for an iPad? Why you need to buy one TODAY")
+
+
+[Shopping for an iPad? Why you need to buy one TODAY](https://www.digitaltrends.com/dtdeals/apple-ipad-mini-pro-air-deals-amazon-memorial-day-sale-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Memorial Day sales have begun and with them have come some fairly fantastic iPad deals. If you're looking to upgrade your existing iPad or you're in the market to join the iOS revolution then you're in luck. These deals will save you plenty of cash while allowing you to enjoy the latest technology that Apple can provide you with. Apple iPad 10.2 — $299, was $329 With a $30 savings, the best iPad for when you're on a budget just got even more appealing.
+
+
+***
+[Snowflake says it no longer has an HQ, and designates Bozeman, Montana, where its CEO and CFO live, as its executive office, because it's required by the SEC (Ari Levy/CNBC)](http://www.techmeme.com/210527/p12#a210527p12)
+
+
+> Ari Levy / CNBC: Snowflake says it no longer has an HQ, and designates Bozeman, Montana, where its CEO and CFO live, as its executive office, because it's required by the SEC — - Snowflake said in its earnings release on Wednesday that it no longer has a corporate headquarters, as its workforce is “globally distributed.”
+
+
+***
+![Orange Marketing Becomes a Diamond HubSpot Solutions Partner](https://mms.businesswire.com/media/20210527005272/en/881445/23/Orange_Marketing_HubSpot_Diamond_Solutions_Partner.jpg "Orange Marketing Becomes a Diamond HubSpot Solutions Partner")
+
+
+[Orange Marketing Becomes a Diamond HubSpot Solutions Partner](https://www.businesswire.com/news/home/20210527005272/en/Orange-Marketing-Becomes-a-Diamond-HubSpot-Solutions-Partner)
+
+
+> May 27, 2021 10:10 AM Eastern Daylight Time NEWPORT BEACH, Calif.--(BUSINESS WIRE)--Today, Orange Marketing announced that it has achieved diamond tier within HubSpot's Solutions Partner Program. Diamond is the second-highest status within the ecosystem, and Orange Marketing is one of only 10 diamond-tier partners in California. 'Rapidly growing SaaS organizations need our services and seek out our award-winning marketing strategy and tactical execution,' said Orange Marketing Co-founder Kelsey Galarza.
+
+
+***
+![Best web development tools in 2021: software platforms for website developers](https://cdn.mos.cms.futurecdn.net/9hwHQKWMF84PbADgr3WEAF-1200-80.jpg "Best web development tools in 2021: software platforms for website developers")
+
+
+[Best web development tools in 2021: software platforms for website developers](https://www.techradar.com/news/best-web-development-tool)
+
+
+> The best web development tools can make it simple and easy to design or code websites for developers. Web development has long since left the grounds of having to individually code pages in HTML/CSS, JavaScript, PHP or another internet language, using just Notepad or simply code-friendly text editor. These days, development development platforms are already available to help with every part of the process, from coding to web design itself. The result is the ability to build and host your own website the way you want it to look.
+
+
