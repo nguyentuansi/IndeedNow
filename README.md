@@ -14458,3 +14458,53 @@
 > It wasn't until decades after becoming a household name thanks to its now-ubiquitous Windows operating system that Microsoft got around to making some actual computer hardware — and we're not referring to the Xbox gaming consoles. We're actually talking about the Microsoft Surface, which started its life about a decade ago as a simple Windows-powered tablet but has since been expanded into a complete lineup of touchscreen laptops, 2-in-1s, and even a dual-screen smartphone. The Surface Pro tablets are still our favorites, though, and if one of these impressively versatile iPad alternatives caught your attention, then this hand-picked selection of the best Microsoft Surface Pro deals is where you'll find it.
 
 
+***
+![Have you ever hurt yourself from your own code?](https://external-preview.redd.it/JloheKTlprnmi5pLSJHJ8SJSI9EFKRR9idM6_PTQAp8.jpg?auto=webp&s=eb850b89ef80ba75980172b1a6519fdd56ad1b46 "Have you ever hurt yourself from your own code?")
+
+
+[Have you ever hurt yourself from your own code?](https://www.reddit.com/r/programming/comments/nlyixy/have_you_ever_hurt_yourself_from_your_own_code/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Memory Leaks in Python](https://external-preview.redd.it/PnnJQR67pY8is3CbdUqLLLijp3TwFwmjvPdoJK4MTMk.jpg?auto=webp&s=2c9ed4a4846ff023b8c4fee5f5645e905ec59681 "Memory Leaks in Python")
+
+
+[Memory Leaks in Python](https://www.reddit.com/r/programming/comments/nlyeqf/memory_leaks_in_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Origin EON17-X (2021) review](https://cdn.mos.cms.futurecdn.net/GoZo78dX8rmmtT5be6VKPe-1200-80.jpg "Origin EON17-X (2021) review")
+
+
+[Origin EON17-X (2021) review](https://www.laptopmag.com/reviews/origin-eon17-x-2021-review)
+
+
+> I didn't know what to expect when a massive wooden crate arrived at my doorstep. What I got was sheer, unadulterated power. The Origin EON 17-X ($2,423 starting, $4,215 reviewed) is the Ingenuity rover of laptops — it has everything. And although I have yet to find which key launches the drone, I'm pretty sure it's in there somewhere. All I know is, when you hit the power button, there's not much that can stop the laptop, apart from its heavy frame, short battery life and high price tag. But if you can overlook those shortcomings, the EON17-X is ready to go full speed ahead.
+
+
+***
+![#TECH: Hassle free group and chat import on BiP](https://assets.nst.com.my/images/articles/BOTSbip_NSTfield_image_socialmedia.var_1622084370.jpg "#TECH: Hassle free group and chat import on BiP")
+
+
+[#TECH: Hassle free group and chat import on BiP](https://www.nst.com.my/lifestyle/bots/2021/05/693448/tech-hassle-free-group-and-chat-import-bip)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Glow-in-the-dark baby squid to be blasted into space](https://imageresizer.static9.net.au/NKT99YOuW37-d1pwejdFSH_OEjg=/0x537:6008x3916/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F59e96ad2-1412-4c98-afc3-0c90fe9d84ed "Glow-in-the-dark baby squid to be blasted into space")
+
+
+[Glow-in-the-dark baby squid to be blasted into space](https://www.9news.com.au/technology/baby-squid-and-tardigrades-to-be-blasted-into-space/3dbc2cc0-34d0-4a75-bd98-26f3ab387910)
+
+
+> Your web browser is no longer supported. To improve your experience update it hereCOVID-19 LIVE UPDATESVictoria to enter seven-day lockdown from midnight"Water bears" and baby squid are about to hitch a ride to space.No, we're not starting an aquarium in space. These animals will be joining the astronaut crew aboard the International Space Station for research purposes."Water bears" and baby squid are about to hitch a ride to space. (Getty Images/amana images RF)SpaceX is scheduled to launch its 22nd cargo resupply mission to the space station on June 4 at 3.
+
+
