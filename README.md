@@ -15034,3 +15034,44 @@
 > Joel Rosenblatt / Bloomberg: Four former Google employees earn class action status from CA judge in gender pay gap lawsuit against the company; over 10,800 women will seek $600M+ in damages — - Suit represents 10,800 women seeking more than $600 million — Company said it has spent eight years making sure pay is fair
 
 
+***
+![Joomla blocks FLoC by default in new update](https://cdn.mos.cms.futurecdn.net/4QwubMesDWqQwdg2My6fXR-1200-80.jpg "Joomla blocks FLoC by default in new update")
+
+
+[Joomla blocks FLoC by default in new update](https://www.techradar.com/news/joomla-blocks-floc-by-default-in-new-update)
+
+
+> (Image credit: Electronic Frontier Foundation) The free website builder and open source content management system (CMS) Joomla has announced its plans to block Google's FLoC by default going forward.FLoC or Federated Learning of Cohorts is Google's new tracking program which aims to replace third-party cookies. Instead of tracking users on an individual basis, FLoC uses machine learning algorithms to place people into groups based on their browsing habits and data from these groups is then shared with advertisers.
+
+
+***
+[Microsoft: SolarWinds hackers target 150 orgs with phishing](https://www.mymotherlode.com/news/technology/1754699/microsoft-solarwinds-hackers-target-150-orgs-with-phishing.html)
+
+
+> BOSTON (AP) — The state-backed Russian cyber spies behind the SolarWinds hacking campaign launched a targeted spear-phishing assault on U.S. and foreign government agencies and think tanks this week using an email marketing account of the U.S. Agency for International Development, Microsoft said. The effort targeted about 3,000 email accounts at more than 150 different organizations, at least a quarter of them involved in international development, humanitarian and human rights work, Microsoft Vice President Tom Burt said in a blog post late Thursday.
+
+
+***
+![R Programming For Data Science](https://external-preview.redd.it/pMKyKTqXfzsbNn0dHBrwf4FaluJOHI9GYpmSJ2b-nEI.jpg?auto=webp&s=e2c930eb66592f6cf1545b2d3949fe635220e96c "R Programming For Data Science")
+
+
+[R Programming For Data Science](https://www.reddit.com/r/programming/comments/nmonls/r_programming_for_data_science/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[QuintoAndar, an online marketplace for property rentals and sales, raises $300M Series E led by Ribbit Capital at a $4B valuation (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210527/p42#a210527p42)
+
+
+> Mary Ann Azevedo / TechCrunch: QuintoAndar, an online marketplace for property rentals and sales, raises $300M Series E led by Ribbit Capital at a $4B valuation — Fintech and proptech are two sectors that are seeing exploding growth in Latin America, as financial services and real estate are two categories in particular dire need of innovation in a region.
+
+
+***
+[Location Share](https://itwire.com/freelancer-sp-720/tag/Location%20Share.html)
+
+
+> Zoleo introduces Location Share+, the app's latest feature which automatically shares user location updates and breadcrumb history viewable on a map on the platform.
+
+
