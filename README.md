@@ -15219,3 +15219,53 @@
 > May 28, 2021 06:23 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Photo Kiosk - Global Market Trajectory & Analytics" report has been added to ResearchAndMarkets.com's offering. Global Photo Kiosk Market to Reach $2.2 Billion by 2027 Amid the COVID-19 crisis, the global market for Photo Kiosk estimated at US$1.5 Billion in the year 2020, is projected to reach a revised size of US$2.2 Billion by 2027, growing at a CAGR of 6.3% over the period 2020-2027. The U.S. Market is Estimated at $393.
 
 
+***
+![Here's why Google is updating the first-generation Nest Hub to Fuchsia](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/10/google-home-hub_0.jpg "Here's why Google is updating the first-generation Nest Hub to Fuchsia")
+
+
+[Here's why Google is updating the first-generation Nest Hub to Fuchsia](https://www.androidcentral.com/why-google-updating-first-generation-home-hubs-fuchsia)
+
+
+> Source: Android Central If you're enrolled in the preview program for your original Google Nest Hub you will soon get an update to the software that runs it. You won't realize that the current Cast OS software has been upgraded to Google's Fuchsia, but it is going to happen all the same. Google's own FuchsiaOS technical lead sheds any doubt after 9to5Google initially reported the switch. You don't ship a new operating system every day, but today is that day.— Petr Hosek (@petrh) May 25, 2021 At first, this idea sounds like a letdown.
+
+
+***
+![Xiaomi, OPPO, & Vivo could soon launch new foldables to challenge Samsung](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/09/galaxy-z-fold-2-vs-z-flip.jpg "Xiaomi, OPPO, & Vivo could soon launch new foldables to challenge Samsung")
+
+
+[Xiaomi, OPPO, & Vivo could soon launch new foldables to challenge Samsung](https://www.androidcentral.com/xiaomi-oppo-and-vivo-could-soon-launch-new-foldable-phones-challenge-samsung)
+
+
+> Source: Hayato Huseman / Android Central A new report suggests at least five new foldable phones will launch in Q3 2021. Samsung is expected to unveil the Galaxy Z Fold 3 and Galaxy Z Flip 3 at an Unpacked event in July. Xiaomi, OPPO, and Vivo are also tipped to launch new foldable phones in the next quarter. Samsung will not be the only smartphone maker to launch new foldables in the third quarter of the year, according to a report from DigiTimes. Citing industry sources, the report claims Xiaomi, OPPO, and Vivo also plan to launch new foldables in the next quarter to challenge Samsung's best foldable phones.
+
+
+***
+!["Real" Milli Vanilli singer John Davis dies of Covid](https://i1.wp.com/boingboing.net/wp-content/uploads/2021/05/Screen-Shot-2021-05-28-at-8.27.22-AM.jpg?fit=852%2C508&ssl=1 ""Real" Milli Vanilli singer John Davis dies of Covid")
+
+
+["Real" Milli Vanilli singer John Davis dies of Covid](https://boingboing.net/2021/05/28/real-milli-vanilli-singer-john-davis-dies-of-covid.html)
+
+
+> Rob Beschizza 5:28 am Fri May 28, 2021 John Davis, one of the real voices behind 1980s lip-sync pop act Milli Vanilli, died this week of Covid. He was 66. Davis' daughter, Jasmin Davis, confirmed the performer's death to CNN Thursday. She revealed the news initially in a post shared on his Facebook page this week."Unfortunately my dad passed away this evening through the coronavirus," she wrote on Monday."He made a lot of people happy with his laughter and smile, his happy spirit, love and especially through his music.
+
+
+***
+![OnePlus Nord Gets A Lot Of Fixes Via New OxygenOS Update](https://www.androidheadlines.com/wp-content/uploads/2020/10/OnePlus-Nord-Special-Edition-Gray-Ash-featured.jpg "OnePlus Nord Gets A Lot Of Fixes Via New OxygenOS Update")
+
+
+[OnePlus Nord Gets A Lot Of Fixes Via New OxygenOS Update](https://www.androidheadlines.com/2021/05/oneplus-nord-fixes-new-oxygenos-update.html)
+
+
+> OnePlus has issued a lot of fixes to its ‘Nord' smartphone via a new update. This update is marked as OxygenoS 11.1.1.3. It brings quite a few bug fixes, along with a new Android security patch for May 2021.OnePlus separated this update's changelog into System, Network, Camera, and File Manager sections. Pretty much every single entry is about bug fixes, save for two, so we'll talk about those two first.New OnePlus Nord update issues a lot of fixes, and it brings a new security patch to the phoneOne highlights a new Android security patch for May 2021, which we've already mentioned.
+
+
+***
+![Global Fiber Optic Connectors Market Report 2021: FOC Market Analysis and Trends 2020-2025 with 2019 as the Base Year](https://mms.businesswire.com/media/20210528005245/en/371054/23/ResearchAndMarkets_800px.jpg "Global Fiber Optic Connectors Market Report 2021: FOC Market Analysis and Trends 2020-2025 with 2019 as the Base Year")
+
+
+[Global Fiber Optic Connectors Market Report 2021: FOC Market Analysis and Trends 2020-2025 with 2019 as the Base Year](https://www.businesswire.com/news/home/20210528005245/en/Global-Fiber-Optic-Connectors-Market-Report-2021-FOC-Market-Analysis-and-Trends-2020-2025-with-2019-as-the-Base-Year---ResearchAndMarkets.com)
+
+
+> May 28, 2021 08:27 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Global Fiber Optic Connectors Market 2020-2025" report has been added to ResearchAndMarkets.com's offering. The global market for fiber optic connectors should grow from $4.0 billion in 2020 to $6.2 billion by 2025, at compound annual growth rate (CAGR) of 9.4% for the period of 2020-2025. Asia-Pacific market for fiber optic connectors should grow from $1.6 billion in 2020 to $2.5 billion by 2025, at a CAGR of 9.8% for the period of 2020-2025.
+
+
