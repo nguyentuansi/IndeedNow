@@ -15169,3 +15169,53 @@
 > It's one more way to make sure someone is watching the road while Autopilot is in control.TeslaSeveral years after Elon Musk said Tesla rejected eye tracking as a method for measuring driver attentiveness because it's "ineffective," owners of new Teslas are receiving vehicles with the feature active. According to notes in the 2021.4.15.11 update, the cabin camera mounted above the rear view mirror will "detect and alert driver inattentiveness while Autopilot is engaged."  This brings Tesla in line with other manufacturers who include cabin cameras to monitor attentiveness while assists are engaged, instead of only relying on steering wheel torque.
 
 
+***
+![Serverless Stonks checker app for Wall Street Bets: week 3 activity report](https://external-preview.redd.it/IN3yWPiIzpZaaRSXpSH4uYnBSVgcp35D422cHrY90QA.jpg?auto=webp&s=a4a94bd8865e84782b16ba78ee7f50bd8020e7af "Serverless Stonks checker app for Wall Street Bets: week 3 activity report")
+
+
+[Serverless Stonks checker app for Wall Street Bets: week 3 activity report](https://www.reddit.com/r/programming/comments/nmuttk/serverless_stonks_checker_app_for_wall_street/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![OnePlus Nord CE 5G is launching with Snapdragon 750G, 64MP camera](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/07/oneplus-nord-6.jpg "OnePlus Nord CE 5G is launching with Snapdragon 750G, 64MP camera")
+
+
+[OnePlus Nord CE 5G is launching with Snapdragon 750G, 64MP camera](https://www.androidcentral.com/oneplus-nord-ce-5g-snapdragon-750g-64mp-camera)
+
+
+> Source: Apoorva Bhardwaj / Android Central OnePlus was scheduled to launch a device in the Nord series shortly after the OnePlus 9 and 9 Pro, and earlier this week, the company confirmed that the device will be called the Nord CE 5G. It will make its global debut in India on June 10, and while OnePlus didn't reveal any hardware details, I can fill in a few blanks. OnePlus Nord CE specs According to my insider sources, the OnePlus Nord CE will be powered by Qualcomm's Snapdragon 750G. We've already seen several devices powered by the mid-range chipset — notably the Mi 10i and the Galaxy M42 — and the Nord CE 5G will join that list.
+
+
+***
+![How to use the Firebird database with Rust language](https://external-preview.redd.it/EIKS67CsnL5owyxhVQ6rYrKgAZD-Wz5vf1hT413xMVs.jpg?auto=webp&s=61da76f5191c481834bf98a446fcec5b60cdc3e1 "How to use the Firebird database with Rust language")
+
+
+[How to use the Firebird database with Rust language](https://www.reddit.com/r/programming/comments/nmust1/how_to_use_the_firebird_database_with_rust/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
+***
+![iPhone 13 release date, price, rumors and leaks](https://cdn.mos.cms.futurecdn.net/4fxJtRFSxRMGs6yUsjhrkS-1200-80.jpg "iPhone 13 release date, price, rumors and leaks")
+
+
+[iPhone 13 release date, price, rumors and leaks](https://www.techradar.com/news/new-iphone-13-2021)
+
+
+> The iPhone 13 and its siblings are likely to be the most popular smartphones of 2021, though they might not launch under that name, with the iPhone 12S also being a possibility.Names aside though we have an increasingly good idea of what to expect from the new iPhone 13, iPhone 13 mini, iPhone 13 Pro, and iPhone 13 Pro Max. Ever more leaks and rumors keep rolling in, revealing everything from the likely release date (September) to the probable design, specs and features.These include things like upgraded cameras and a 120Hz refresh rate, plus a more powerful chipset, but with a design that's similar to the iPhone 12 range.
+
+
+***
+![$2.2 Bn Photo Kiosk Markets, 2027](https://mms.businesswire.com/media/20210528005183/en/371054/23/ResearchAndMarkets_800px.jpg "$2.2 Bn Photo Kiosk Markets, 2027")
+
+
+[$2.2 Bn Photo Kiosk Markets, 2027](https://www.businesswire.com/news/home/20210528005183/en/2.2-Bn-Photo-Kiosk-Markets-2027---Global-Market-Trajectory-Analytics---ResearchAndMarkets.com)
+
+
+> May 28, 2021 06:23 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Photo Kiosk - Global Market Trajectory & Analytics" report has been added to ResearchAndMarkets.com's offering. Global Photo Kiosk Market to Reach $2.2 Billion by 2027 Amid the COVID-19 crisis, the global market for Photo Kiosk estimated at US$1.5 Billion in the year 2020, is projected to reach a revised size of US$2.2 Billion by 2027, growing at a CAGR of 6.3% over the period 2020-2027. The U.S. Market is Estimated at $393.
+
+
