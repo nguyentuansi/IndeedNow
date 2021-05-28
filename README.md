@@ -15366,3 +15366,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Best OnePlus Deals for May 2021: $300 off OnePlus 8 Pro and more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/oneplus-9-pro-23.jpg "Best OnePlus Deals for May 2021: $300 off OnePlus 8 Pro and more")
+
+
+[Best OnePlus Deals for May 2021: $300 off OnePlus 8 Pro and more](https://www.androidcentral.com/best-oneplus-phone-deals)
+
+
+> Deals on Apple iPhone devices and Samsung Galaxy phones are everywhere, but it's a bit more difficult to find a great deal on a OnePlus device. There are plenty of current OnePlus models to choose from, and whether you want a OnePlus 9, the OnePlus 8 Pro, or one of the more affordable OnePlus Nord devices is the first big question you'll need to answer for yourself. All of the deals below vary in nature, so while some allow you to buy the unlocked phone with a single purchase today, others require a monthly payment plan; these plans are attached to carriers which usually require you to add a line of service or buy a second device to score the savings.
+
+
+***
+![Is it worth the extra cost to buy Samsung's Galaxy Watch 3 with LTE?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/samsung-galaxy-watch-3-two-sizes-official-lifestyle-4.jpg "Is it worth the extra cost to buy Samsung's Galaxy Watch 3 with LTE?")
+
+
+[Is it worth the extra cost to buy Samsung's Galaxy Watch 3 with LTE?](https://www.androidcentral.com/should-you-buy-samsung-galaxy-watch-lte)
+
+
+> Source: SamsungBest answer: Most people should buy the standard Bluetooth model of the Galaxy Watch 3. It's less expensive upfront and doesn't require an ongoing service with your carrier. Aside from streaming music and receiving calls independent of your phone, it does everything that the LTE model does — and has better battery life. The Galaxy Watch 3 is not a cheap device, starting at $339 for the 41mm Bluetooth model, but is the Galaxy Watch 3 with LTE worth it? The LTE models get an obvious price mark-up — that's whether you buy directly from Samsung or buy from a carrier like T-Mobile.
+
+
+***
+![Facebook Board Rejects Proposal to Curb Mark Zuckerberg's Power](https://media.breitbart.com/media/2019/06/47721886632_79e76917f4_o.jpg "Facebook Board Rejects Proposal to Curb Mark Zuckerberg's Power")
+
+
+[Facebook Board Rejects Proposal to Curb Mark Zuckerberg's Power](https://www.breitbart.com/tech/2021/05/28/facebook-board-rejects-proposal-to-curb-mark-zuckerbergs-power/)
+
+
+> Facebook's board of directors has rejected two proposals aimed at reducing the power held by CEO Mark Zuckerberg. Bloomberg reports that Facebook's board has rejected two proposals aimed at diminishing the power that CEO Mark Zuckerberg has over the company. The rejection was expected but largely disappointing to many who hoped to reign in the CEO's power. The board stated on Wednesday that it turned down a proposal to replace Zuckerberg as chairman with an independent representative. Zuckerberg has served as chairman of the board since 2012 and controls around 58 percent of Facebook voting shares, according to regulatory filings.
+
+
+***
+![This week's ‘The Bad Batch' features a rescue mission gone wrong](https://www.gannett-cdn.com/presto/2021/05/28/USAT/b56e2dbe-3425-4917-8a71-3861b0223dd2-star-wars-bad-batch-rampage-1.png?crop=1911,1075,x0,y0&width=1600&height=800&format=pjpg&auto=webp "This week's ‘The Bad Batch' features a rescue mission gone wrong")
+
+
+[This week's ‘The Bad Batch' features a rescue mission gone wrong](https://www.usatoday.com/story/tech/reviewed/2021/05/28/bad-batch-season-one-episode-five-recap-rampage/5250179001/)
+
+
+> The Bad Batch is airing on Disney Plus. (Photo: Disney / Lucasfilm)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.On this week's episode of Star Wars: The Bad Batch, our heroes take on a little mercenary work in exchange for information (and some spare credits). Hunter wants to know why there's a bounty killer on their tail, who she is, and who she's working for; the Batch won't be safe until they have some answers. An old Jedi informant—a Trandoshan named Cid—might be able to tell them something useful, Echo suggests, so they touch down on Ord Mantell, a planet mentioned in The Empire Strikes Back.
+
+
+***
+![Microsoft: SolarWinds Hackers Strike United States Again](https://media.breitbart.com/media/2016/08/Hackers-Hacking-Reuters.jpg "Microsoft: SolarWinds Hackers Strike United States Again")
+
+
+[Microsoft: SolarWinds Hackers Strike United States Again](https://www.breitbart.com/tech/2021/05/28/microsoft-solarwinds-hackers-strike-united-states-again/)
+
+
+> Microsoft says that SolarWinds hackers, who committed one of the worst cyberattacks to have hit the U.S. government, have struck again with a new global attack targeting more than 150 government agencies, think tanks, and other organizations. The hackers, who Microsoft call 'Nobelium,' have targeted approximately 3,000 email accounts at more than 150 different entities in at least 24 countries, with most of the cyberattacks being in the United States, Microsoft said in a blog post on Thursday. 'Nobelium, originating from Russia, is the same actor behind the attacks on SolarWinds customers in 2020,' the company said.
+
+
