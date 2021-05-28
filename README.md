@@ -15075,3 +15075,47 @@
 > Zoleo introduces Location Share+, the app's latest feature which automatically shares user location updates and breadcrumb history viewable on a map on the platform.
 
 
+***
+![Oppo Enco Free 2 with ANC, Bluetooth 5.2, and up to 30 hours battery life announced](https://cdn.mos.cms.futurecdn.net/potd5oHtHS6ao2Md3tV5si-1200-80.jpg "Oppo Enco Free 2 with ANC, Bluetooth 5.2, and up to 30 hours battery life announced")
+
+
+[Oppo Enco Free 2 with ANC, Bluetooth 5.2, and up to 30 hours battery life announced](https://www.techradar.com/news/oppo-enco-free-2-launched-price-specs-features)
+
+
+> (Image credit: Oppo) Oppo Enco Free was launched in India about a year ago and it was one of our top recommendations for true wireless earbuds under Rs 10,000. Now, Oppo has announced the Oppo Enco Free 2, the successor to the original one. Unveiled in China recently along with the Oppo Reno 6 lineup, the Oppo Enco Free 2 brings a lot of new features like active noise cancellation, Bluetooth 5.2, up to 30 hours battery life, and more, In fact, the Enco Free 2 has borrowed many features from Oppo Enco X that was launched in India earlier this year.
+
+
+***
+![#TECH: Renewable hydrogen used to light the Eiffel tower](https://assets.nst.com.my/images/articles/BOTSeiffelhydro_NSTfield_image_socialmedia.var_1622184060.jpg "#TECH: Renewable hydrogen used to light the Eiffel tower")
+
+
+[#TECH: Renewable hydrogen used to light the Eiffel tower](https://www.nst.com.my/lifestyle/bots/2021/05/693862/tech-renewable-hydrogen-used-light-eiffel-tower)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[How to install pipenv with zsh shell on mac?](https://www.reddit.com/r/Python/comments/nmrlzm/how_to_install_pipenv_with_zsh_shell_on_mac/)
+
+
+> When install it by pip(pip install pipenv), on zsh shell can't find the command pipenv.If install it by brew: brew install pipenv, then run pipenv shell, got errorLoading .env environment variables... Launching subshell in virtual environment... Traceback (most recent call last): File "/usr/local/Cellar/pipenv/2020.11.15/libexec/bin/pipenv", line 8, in sys.exit(cli()) File "/usr/local/Cellar/pipenv/2020.11.15/libexec/lib/python3.9/site-packages/pipenv/vendor/click/core.py", line 829, in __call__ return self.
+
+
+***
+![#TECH: Acer announces new updates for its gaming line-ups](https://assets.nst.com.my/images/articles/BOTSacergaming_NSTfield_image_socialmedia.var_1622183488.jpg "#TECH: Acer announces new updates for its gaming line-ups")
+
+
+[#TECH: Acer announces new updates for its gaming line-ups](https://www.nst.com.my/lifestyle/bots/2021/05/693858/tech-acer-announces-new-updates-its-gaming-line-ups)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[NZD/USD backs further away from 0.7300 as dollar firms to start the session](https://www.forexlive.com/technical-analysis/!/nzdusd-backs-further-away-from-07300-as-dollar-firms-slightly-to-start-the-session-20210528)
+
+
+> NZD/USD down 0.7% to 0.7241 currently The dollar is catching a light bid to start European morning trade, moving up across the board with NZD/USD the biggest loser at the moment.
+
+
