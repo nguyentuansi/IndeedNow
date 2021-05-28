@@ -15269,3 +15269,53 @@
 > May 28, 2021 08:27 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Global Fiber Optic Connectors Market 2020-2025" report has been added to ResearchAndMarkets.com's offering. The global market for fiber optic connectors should grow from $4.0 billion in 2020 to $6.2 billion by 2025, at compound annual growth rate (CAGR) of 9.4% for the period of 2020-2025. Asia-Pacific market for fiber optic connectors should grow from $1.6 billion in 2020 to $2.5 billion by 2025, at a CAGR of 9.8% for the period of 2020-2025.
 
 
+***
+![Let's Give it Up to the Students! Pikes Peak Online School and Colorado Preparatory Academy Class of 2021 Are Ready to Take Over the World](https://mms.businesswire.com/media/20210528005015/en/540164/4/PPOS.jpg "Let's Give it Up to the Students! Pikes Peak Online School and Colorado Preparatory Academy Class of 2021 Are Ready to Take Over the World")
+
+
+[Let's Give it Up to the Students! Pikes Peak Online School and Colorado Preparatory Academy Class of 2021 Are Ready to Take Over the World](https://www.businesswire.com/news/home/20210528005015/en/Let%E2%80%99s-Give-it-Up-to-the-Students%21-Pikes-Peak-Online-School-and-Colorado-Preparatory-Academy-Class-of-2021-Are-Ready-to-Take-Over-the-World%C2%A0%C2%A0%C2%A0%C2%A0)
+
+
+> WESTMINSTER, Colo.--(BUSINESS WIRE)--After a school year like no other, both the Pikes Peak Online School (PPOS) and Colorado Preparatory Academy (CPA), two online public school serving students throughout the state, will celebrate its graduates online with a commencement ceremony for both schools today, May 28th at the Colorado School of Mines. This year, PPOS will graduate 200 students and CPA will graduate over 140 students. The in-person ceremony will be held in a safe, socially distant way, and individual time slots will be given to students to be recognized by staff.
+
+
+***
+![Prepare for a chill up your spine with the new trailer for Netflix's 'Katla'](https://mondrian.mashable.com/2021%252F05%252F28%252F9d%252Fef4e65a580ff4c3485ad857cc15bad14.3881f.png%252F1200x630.png?signature=QOu39eSCAC_tWSkJ8wOvyL-DUek= "Prepare for a chill up your spine with the new trailer for Netflix's 'Katla'")
+
+
+[Prepare for a chill up your spine with the new trailer for Netflix's 'Katla'](https://mashable.com/video/netflix-katla-trailer/)
+
+
+> Something creepy as hell is happening in the Icelandic village of Vik. In a new trailer for Netflix's Katla, the residents of Vik confront the mysterious and spine-chilling disturbances that shake the town after a volcano eruption. Katla debuts on Netflix June 17.
+
+
+***
+![Doximity's S-1 may explain why healthcare exits are heating up – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-ORNG.jpg?w=533 "Doximity's S-1 may explain why healthcare exits are heating up – TechCrunch")
+
+
+[Doximity's S-1 may explain why healthcare exits are heating up – TechCrunch](https://techcrunch.com/2021/05/28/doximitys-s-1-may-explain-why-healthcare-exits-are-heating-up/)
+
+
+> There was a time when this column was more than a never-ending run of IPO coverage. Then the unicorn liquidity cycle kicked off and it's been a long run of public offerings ever since. This morning is no exception. Doximity filed to go public earlier today. You likely haven't heard of the company because it exists in the modestly obscure world of telehealth. But it's a venture-backed startup all the same that raised more than $80 million from investors like Emergence, InterWest Partners, Morgenthaler Ventures and Threshold, according to Crunchbase data.
+
+
+***
+![Lydsto R1 Self-empty Robot Vacuum Being Offered at Best Price in the Market](https://mms.businesswire.com/media/20210528005303/en/881727/23/photo.jpg "Lydsto R1 Self-empty Robot Vacuum Being Offered at Best Price in the Market")
+
+
+[Lydsto R1 Self-empty Robot Vacuum Being Offered at Best Price in the Market](https://www.businesswire.com/news/home/20210528005303/en/Lydsto-R1-Self-empty-Robot-Vacuum-Being-Offered-at-Best-Price-in-the-Market)
+
+
+> May 28, 2021 10:04 AM Eastern Daylight Time SHENZHEN, China--(BUSINESS WIRE)--Following washing machines and dishwashers, robot vacuum is another major tech product that frees us from daily chores. Nevertheless, frequent emptying is a must, or the suction drops significantly, until the self-empty robot vacuum offers a spot-on solution. Now the self-empty Lydsto R1, originally sold at $399 on Amazon, is offering 10% OFF with a $40 coupon. That means you can get it for $319.10, the lowest price ever in the self-empty robovac market.
+
+
+***
+![Bloomberg: Apple's HomePod with a display is still in 'early development'](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/02/homepod-top-hero.jpg "Bloomberg: Apple's HomePod with a display is still in 'early development'")
+
+
+[Bloomberg: Apple's HomePod with a display is still in 'early development'](https://www.imore.com/bloomberg-apples-homepod-display-still-early-development)
+
+
+> Source: iMore Apple has been rumored to have plans for a HomePod combined with an Apple TV for a little while now and today saw Bloomberg' Mark Gurman weigh in, saying that the product is now in the "early development" stage of planning. Apple currently offers the HomePod mini after discontinuing the HomePod proper. With the likes of Google and Amazon offering smart speakers with displays built into them, it's surely only a matter of time before Apple does that same, As part of its broader home, audio and accessories strategy, Apple has also begun early development of a HomePod speaker with a built-in screen as well as a device that combines the features of a HomePod, FaceTime camera and Apple TV, Bloomberg News has reported.
+
+
