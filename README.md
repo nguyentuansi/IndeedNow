@@ -14987,3 +14987,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Centre accuses Twitter of trying to dictate terms to it](https://images.financialexpress.com/2021/04/Twitter-blue-tick.jpg "Centre accuses Twitter of trying to dictate terms to it")
+
+
+[Centre accuses Twitter of trying to dictate terms to it](https://www.financialexpress.com/industry/technology/centre-accuses-twitter-of-trying-to-dictate-terms-to-it/2260416/)
+
+
+> By: FE Bureau | May 28, 2021 6:15 AM'The purported commitment of Twitter, to its Indian user base, thus not only sounds hollow but completely self-serving,' it said.The government on Thursday came down heavily on Twitter and accused it of undermining the country's laws which aim at providing it immunity from criminal liability. In a statement, the ministry of electronics and IT (MeitY) accused Twitter of trying to dictate terms to the government.The government response came after Twitter criticised the new IT rules, calling the Delhi Police's visit to its offices earlier during the week a form of ‘intimidation' and said it was concerned about the ‘potential threat to freedom of expression'.
+
+
+***
+![Amazon Mid-Year Sale 2021: we're rounding up the best deals](https://cdn.mos.cms.futurecdn.net/fvtKRdpAGCgBXSmQaP7FmY-1200-80.jpg "Amazon Mid-Year Sale 2021: we're rounding up the best deals")
+
+
+[Amazon Mid-Year Sale 2021: we're rounding up the best deals](https://www.techradar.com/news/amazon-mid-year-sale-2021)
+
+
+> (Image credit: Future) Amazon's mammoth Mid-Year Sale is officially underway, joining the crop of EOFY sales that have kicked off early this month. There are a mountain of deals on offer, with discounts available on everything from headphones to cameras, smart home gadgets to kitchen appliances and much, much more.But with so much on offer, hunting them all down on Amazon can be dizzying, so we're here to help you find what you want. We'll be trawling through the site and listing all the best bargains right here.
+
+
+***
+![Apple to offer trade-in program for LG smartphone users](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/a42834d0a33046e19a7c61c08ff17327.jpg "Apple to offer trade-in program for LG smartphone users")
+
+
+[Apple to offer trade-in program for LG smartphone users](https://www.koreatimes.co.kr/www/tech/2021/05/133_309545.html)
+
+
+> Apple CEO Tim Cook / Korea Times fileThe South Korean unit of Apple will run a trade-in program to woo LG Electronics' smartphone users, industry insiders said Friday, in a move to expand its presence on the home turf of Samsung Electronics, the world's largest smartphone vendor. Apple's smartphone exchange scheme with local mobile carriers will pay the trade-in value of a mobile device and an additional 150,000 won ($135) to those who replace their LG smartphones with iPhones, according to the sources in the telecom industry.
+
+
+***
+![楽天モバイルがエリアマップを更新](https://s.yimg.com/os/creatr-uploaded-images/2021-05/fa326f30-bf45-11eb-a77a-997330d71fef "楽天モバイルがエリアマップを更新")
+
+
+[楽天モバイルがエリアマップを更新](http://japanese.engadget.com/rakuten-areamap-003049933.html)
+
+
+> 関連キーワード: news, gearSponsored by Verizon Media
+
+
+***
+[Four former Google employees earn class action status from CA judge in gender pay gap lawsuit against the company; over 10,800 women will seek $600M+ in damages (Joel Rosenblatt/Bloomberg)](http://www.techmeme.com/210527/p38#a210527p38)
+
+
+> Joel Rosenblatt / Bloomberg: Four former Google employees earn class action status from CA judge in gender pay gap lawsuit against the company; over 10,800 women will seek $600M+ in damages — - Suit represents 10,800 women seeking more than $600 million — Company said it has spent eight years making sure pay is fair
+
+
