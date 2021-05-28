@@ -15416,3 +15416,53 @@
 > Microsoft says that SolarWinds hackers, who committed one of the worst cyberattacks to have hit the U.S. government, have struck again with a new global attack targeting more than 150 government agencies, think tanks, and other organizations. The hackers, who Microsoft call 'Nobelium,' have targeted approximately 3,000 email accounts at more than 150 different entities in at least 24 countries, with most of the cyberattacks being in the United States, Microsoft said in a blog post on Thursday. 'Nobelium, originating from Russia, is the same actor behind the attacks on SolarWinds customers in 2020,' the company said.
 
 
+***
+![Senate confirms geneticist Lander as Biden science adviser](https://s.abcnews.com/images/Technology/WireAP_c1de04df1cbb4d7f8db33d6ae605f051_16x9_992.jpg "Senate confirms geneticist Lander as Biden science adviser")
+
+
+[Senate confirms geneticist Lander as Biden science adviser](https://abcnews.go.com/Technology/wireStory/senate-confirms-geneticist-lander-biden-science-adviser-77970261)
+
+
+> WASHINGTON -- The Senate has confirmed geneticist Eric Lander to be President Joe Biden's chief science adviser, one of the last unfilled Cabinet posts in the Biden administration.Lander, founding director of the Broad Institute of MIT and Harvard, was approved by a voice vote Friday to serve as director of the White House Office of Science and Technology Policy, a position Biden has elevated to Cabinet rank. Lander, who also is a mathematician and molecular biologist, was lead author of the first paper announcing the details of the human genome, the so-called 'book of life.
+
+
+***
+![Don't sleep on Verizon's iPhone deals this Memorial Day](https://cdn.mos.cms.futurecdn.net/qjiBADnjSUHXKUVwsQBRk9-1200-80.jpg "Don't sleep on Verizon's iPhone deals this Memorial Day")
+
+
+[Don't sleep on Verizon's iPhone deals this Memorial Day](https://www.techradar.com/news/dont-sleep-on-verizons-iphone-deals-this-memorial-day-score-a-free-device-now)
+
+
+> (Image credit: Future) It's not just cheap appliances you'll want to be looking out for in this weekend's Memorial Day sales, there are also great iPhone deals to be had - especially over at Verizon.Take the still-amazing iPhone 11 for example. iPhone deals on this great flagship are pretty rare at big red but right now you can score a free additional device when you purchase the first with a new plan. Before you ask, yes - we have seen this particular promo before on a range of devices, the iPhone 12 included, but it's been literally ages since it's been available on the 11.
+
+
+***
+![Over 10k women are suing Google over gender pay disparity](https://s.yimg.com/os/creatr-uploaded-images/2021-05/dc2e17e0-bf96-11eb-9fc5-517a88e887e1 "Over 10k women are suing Google over gender pay disparity")
+
+
+[Over 10k women are suing Google over gender pay disparity](https://www.engadget.com/women-suing-google-gender-pay-disparity-095033360.html)
+
+
+> Four women who worked at Google have won class-action status to proceed with their gender pay disparity lawsuit, reports Bloomberg. The latest ruling in the protracted legal battle means the suit can now apply to 10,800 women who held various positions at the tech giant since 2013. Those affected represent a broad cross-section of vocations including engineers, program managers, salespeople and at least one preschool teacher.  The women, who are seeking more than $600 million in damages, allege Google violated the California Equal Pay Act by paying them less than their male counterparts, promoting them slowly and less frequently.
+
+
+***
+![VMware to Present at the Stifel 2021 Virtual Cross Sector Insight Conference](https://mms.businesswire.com/media/20210528005455/en/782362/23/4284573_300DPIxVMware-logo-grey_highres.jpg "VMware to Present at the Stifel 2021 Virtual Cross Sector Insight Conference")
+
+
+[VMware to Present at the Stifel 2021 Virtual Cross Sector Insight Conference](https://www.businesswire.com/news/home/20210528005455/en/VMware-to-Present-at-the-Stifel-2021-Virtual-Cross-Sector-Insight-Conference)
+
+
+> May 28, 2021 04:15 PM Eastern Daylight Time PALO ALTO, Calif.--(BUSINESS WIRE)--VMware, Inc. (NYSE: VMW), a leading innovator in enterprise software, today announced that Raghu Raghuram, VMware's incoming chief executive officer will present at the Stifel 2021 Virtual Cross Sector Insight Conference on Wednesday, June 9, 2021 at 1:40 p.m. PT/ 4:40 p.m. ET. A live webcast will be available on VMware's Investor Relations page at http://ir.vmware.com. The replay of the webcast will be available for two months.
+
+
+***
+![Coursera to Participate in Two Investor Conferences in June](https://mms.businesswire.com/media/20210528005409/en/1096766/23/coursera-logo-full-rgb_%284%29.jpg "Coursera to Participate in Two Investor Conferences in June")
+
+
+[Coursera to Participate in Two Investor Conferences in June](https://www.businesswire.com/news/home/20210528005409/en/Coursera-to-Participate-in-Two-Investor-Conferences-in-June)
+
+
+> May 28, 2021 04:10 PM Eastern Daylight Time MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Coursera, Inc. (NYSE: COUR) announces that management will participate in a fireside chat and host investor meetings at the following conferences in June: William Blair 41st Annual Growth Stock Conference Date: Thursday, June 3, 2021 Virtual Fireside Chat Time: 10:00 a.m. PT / 1:00 p.m. ET Speaker: Jeff Maggioncalda, chief executive officer Stifel 2021 Virtual Cross Sector Insight Conference Date: Tuesday, June 8, 2021 Virtual Fireside Chat Time: 12:20 p.
+
+
