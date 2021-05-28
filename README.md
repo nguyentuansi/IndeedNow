@@ -15319,3 +15319,50 @@
 > Source: iMore Apple has been rumored to have plans for a HomePod combined with an Apple TV for a little while now and today saw Bloomberg' Mark Gurman weigh in, saying that the product is now in the "early development" stage of planning. Apple currently offers the HomePod mini after discontinuing the HomePod proper. With the likes of Google and Amazon offering smart speakers with displays built into them, it's surely only a matter of time before Apple does that same, As part of its broader home, audio and accessories strategy, Apple has also begun early development of a HomePod speaker with a built-in screen as well as a device that combines the features of a HomePod, FaceTime camera and Apple TV, Bloomberg News has reported.
 
 
+***
+[The easiest way to debug Kubernetes workloads](https://www.reddit.com/r/programming/comments/nn20ad/the_easiest_way_to_debug_kubernetes_workloads/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Boeing working with FAA as it halts 787 deliveries again](https://scx2.b-cdn.net/gfx/news/2021/boeings-recovery-conti.jpg "Boeing working with FAA as it halts 787 deliveries again")
+
+
+[Boeing working with FAA as it halts 787 deliveries again](https://techxplore.com/news/2021-05-boeing-faa-halts-deliveries.html)
+
+
+> Boeing's recovery continues hit speedbumps due to production problems. Boeing said Friday it was working to address questions about its 787 Dreamliner from US air safety regulators after again suspending new deliveries of the jet. The questions concern the inspection method for new planes following production problems that led to an earlier pause in deliveries. With approval from the Federal Aviation Administration (FAA), Boeing had resumed deliveries of the widebody Dreamliner in March after a five-month halt.
+
+
+***
+![Hurry! Dell XPS 13 is so cheap right now it could be a mistake](https://icdn.digitaltrends.com/image/digitaltrends/dell-xps-13-2-3.jpg "Hurry! Dell XPS 13 is so cheap right now it could be a mistake")
+
+
+[Hurry! Dell XPS 13 is so cheap right now it could be a mistake](https://www.digitaltrends.com/dtdeals/dell-xps-13-uhd-deal-dell-may-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you're looking for a shiny new laptop then the Memorial Day sales are where you need to be looking. In particular, the Dell Memorial Day sale is now on and it brings with it a massive discount on the Dell XPS 13 laptop. Right now, you can snap up a Dell XPS 13 laptop for just $949, saving you over $550 in the process. We can't see there being a better time to snap up this fantastic laptop for considerably less than usual.
+
+
+***
+![Russian hackers of SolarWinds back on the attack](https://scx2.b-cdn.net/gfx/news/2021/microsoft-says-it-has.jpg "Russian hackers of SolarWinds back on the attack")
+
+
+[Russian hackers of SolarWinds back on the attack](https://techxplore.com/news/2021-05-russian-hackers-solarwinds.html)
+
+
+> Microsoft says it has detected a renewed wave of cyberattacks from the same state-backed group behind the massive SolarWinds hack. The state-backed Russian group behind a massive hacking campaign revealed last year has re-emerged with a series of attacks on government agencies, think tanks, consultants and other organizations, according to officials and researchers. A security update from Microsoft late Thursday said the group known as Nobelium has stepped up attacks, notably targeting government agencies involved in foreign policy as part of intelligence gathering efforts.
+
+
+***
+![POKEGB: a gameboy emulator that only plays Pokemon Blue, in 62 lines of C++](https://external-preview.redd.it/pmEIXs_M-V83UXP4P8qtkokftlNDANYW9RN53bLWr7M.jpg?auto=webp&s=d93ca03838b0fb957eef972927ba66033f48dec0 "POKEGB: a gameboy emulator that only plays Pokemon Blue, in 62 lines of C++")
+
+
+[POKEGB: a gameboy emulator that only plays Pokemon Blue, in 62 lines of C++](https://www.reddit.com/r/programming/comments/nn1q0d/pokegb_a_gameboy_emulator_that_only_plays_pokemon/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
