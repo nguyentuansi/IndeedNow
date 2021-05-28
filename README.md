@@ -15466,3 +15466,50 @@
 > May 28, 2021 04:10 PM Eastern Daylight Time MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Coursera, Inc. (NYSE: COUR) announces that management will participate in a fireside chat and host investor meetings at the following conferences in June: William Blair 41st Annual Growth Stock Conference Date: Thursday, June 3, 2021 Virtual Fireside Chat Time: 10:00 a.m. PT / 1:00 p.m. ET Speaker: Jeff Maggioncalda, chief executive officer Stifel 2021 Virtual Cross Sector Insight Conference Date: Tuesday, June 8, 2021 Virtual Fireside Chat Time: 12:20 p.
 
 
+***
+[SEC says group illegally raised $2B in crypto offering](https://www.mymotherlode.com/news/technology/1759397/sec-says-group-illegally-raised-2b-in-crypto-offering.html)
+
+
+> Federal regulators have accused a group of people of promoting a securities offering tied to digital currency that raised over $2 billion from retail investors without being properly registered
+
+
+***
+![EXPLAIN ANALYZE in PostgreSQL and how to interpret it](https://external-preview.redd.it/DAJIgth8FGM396Yy7_by5QGVqhhuxPLJBIOC3Xv7QEw.jpg?auto=webp&s=2c1e6083d567b1ee18f03b122780f508dc396784 "EXPLAIN ANALYZE in PostgreSQL and how to interpret it")
+
+
+[EXPLAIN ANALYZE in PostgreSQL and how to interpret it](https://www.reddit.com/r/programming/comments/nn9336/explain_analyze_in_postgresql_and_how_to/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Report: Huawei Cloud Offering China ‘Coercive Leverage' over Global Economies](https://media.breitbart.com/media/2019/04/Huawei.png "Report: Huawei Cloud Offering China ‘Coercive Leverage' over Global Economies")
+
+
+[Report: Huawei Cloud Offering China ‘Coercive Leverage' over Global Economies](https://www.breitbart.com/tech/2021/05/28/report-china-could-use-huawei-cloud-to-blackmail-global-economies/)
+
+
+> A report published by the Washington-based Center for Strategic and International Studies (CSIS) warns China could gain 'coercive leverage' – in essence, blackmail material – over Asian, African, and Latin American countries thanks to telecom giant Huawei's strategy to provide massive amounts of Internet storage to dozens of governments at discounted prices. The reporttitled Huawei's Global Cloud Strategy – Economic and Strategic Implications, charts Huawei's efforts to sell cloud storage bundled with administrative services and computer hardware to 41 countries.
+
+
+***
+![AMC shares retreat but end week up 116% after 4-day rally](https://www.reuters.com/resizer/McdKFeR4mAVnd2R0ACd58UcC2Mk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XNPKMJGRGJOHNHWRWYWWNHTLLY.jpg "AMC shares retreat but end week up 116% after 4-day rally")
+
+
+[AMC shares retreat but end week up 116% after 4-day rally](https://www.reuters.com/technology/meme-stocks-amc-gamestop-poised-end-strong-week-high-2021-05-28/)
+
+
+> An AMC theatre is pictured amid the coronavirus disease (COVID-19) pandemic in the Manhattan borough of New York City, New York, U.S., January 27, 2021. REUTERS/Carlo AllegriShares of movie theater chain AMC Entertainment (AMC.N) closed lower on Friday, snapping a four-day rally that saw them gain 116% on the week.After vaulting to a record high during the session, AMC's shares finished down 1.5% at $26.12. The stock's weekly gain was its largest since January.Shares in GameStop (GME.N), meanwhile, closed down 12.
+
+
+***
+![Report: Chinese Hackers Posing as U.N. Launch Attacks on Uyghurs](https://media.breitbart.com/media/2016/11/China-map-magnifying-glass-reuters.jpg "Report: Chinese Hackers Posing as U.N. Launch Attacks on Uyghurs")
+
+
+[Report: Chinese Hackers Posing as U.N. Launch Attacks on Uyghurs](https://www.breitbart.com/asia/2021/05/28/report-chinese-hackers-posing-launch-cyber-attacks-uyghurs/)
+
+
+> Mandarin-speaking cyber hackers posing as United Nations (UN) representatives are launching online attacks against ethnic Uyghurs, a Turkic minority group in China's westernmost Xinjiang territory, the MIT Technology Review reported on Thursday. Researchers from the U.S.-Israeli cybersecurity firm Check Point and the Russian multinational cybersecurity firm Kaspersky recently identified a cyber attack 'in which hackers posing as the UN Human Rights Council send a document detailing human rights violations to Uyghur individuals,' according to the Review.
+
+
