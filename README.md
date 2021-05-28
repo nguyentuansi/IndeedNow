@@ -15119,3 +15119,53 @@
 > NZD/USD down 0.7% to 0.7241 currently The dollar is catching a light bid to start European morning trade, moving up across the board with NZD/USD the biggest loser at the moment.
 
 
+***
+![Mysterious Realme phone certified by FCC](https://fdn.gsmarena.com/imgroot/news/21/05/realme-rmx3261-fcc/-476x249w4/gsmarena_00.jpg "Mysterious Realme phone certified by FCC")
+
+
+[Mysterious Realme phone certified by FCC](https://www.gsmarena.com/mysterious_realme_phone_certified_by_fcc-news-49349.php)
+
+
+> A brand new budget Realme phone has appeared in an FCC listing revealing its design and a few key specs along the way. The yet to be announced Realme RMX3261 was previously seen in the databases of TKDN, BIS and Indonesia Telecom which combined with today's listing confirm the launch date is nearing. The RMX3261 sports a waterdrop notch display and three camera cutouts on the back alongside an LED flash. The schematics also show a rear-mounted fingerprint scanner and a triple SIM slot. Realme RMX3261 design and specs Other specs include a 4,880mAh battery with 18W charging and Android 11 presumably with Realme UI 2.
+
+
+***
+![Worst celebrity interviews and video game movies: Noise Cancelling podcast episode 66](https://cdn.mos.cms.futurecdn.net/v8aVLvd2usKpf4srMEs3Jh-1200-80.jpg "Worst celebrity interviews and video game movies: Noise Cancelling podcast episode 66")
+
+
+[Worst celebrity interviews and video game movies: Noise Cancelling podcast episode 66](https://www.techradar.com/news/worst-celebrity-interviews-and-video-game-movies-noise-cancelling-podcast-episode-66)
+
+
+> (Image credit: Future) Can't find the time to keep up with tech news? Looking for some awesome lockdown listening? We have you covered with the Noise Cancelling podcast, which is brought to you by TechRadar and our sister sites Laptop Mag and Tom's Guide.The show is presented by Gareth Beavis, Editor in Chief of TechRadar.This week our guests Sean O'Connell, Managing Editor at Cinema Blend, and Tom Power, Entertainment Reporter at TechRadar, who join us (remotely, of course) to talk about the last seven days in tech.
+
+
+***
+![Webull vs Coinbase: Which Crypto Exchange should you be choosing?](https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/fkjyfywigcootsah_1622185856.jpeg?tr=f-jpeg "Webull vs Coinbase: Which Crypto Exchange should you be choosing?")
+
+
+[Webull vs Coinbase: Which Crypto Exchange should you be choosing?](https://www.republicworld.com/technology-news/apps/webull-vs-coinbase-which-crypto-exchange-should-you-be-choosing.html)
+
+
+> The world has seen a rapid rise in the use of cryptocurrency all over the globe. With a huge variety of these crypto exchanges available, sometimes choosing what's best for you is difficult. Recently, Webull and Coinbase have been two popular platforms that people use. But the users want to know which of these is the best. So, if you have been wondering about Webull vs Coinbase, then do not worry, here is all you need to know about it.  Webull vs CoinbaseDetails about Webull -Webull is a popular electronic trading platform that was founded in the year 2017.
+
+
+***
+![The Amazon PS5 and Xbox Series X restock nearly happened again – when to get it](https://cdn.mos.cms.futurecdn.net/EECyFAvaoMEhyP3NBHxZ2R-1200-80.jpg "The Amazon PS5 and Xbox Series X restock nearly happened again – when to get it")
+
+
+[The Amazon PS5 and Xbox Series X restock nearly happened again – when to get it](https://www.techradar.com/news/amazon-ps5-xbox-series-x-restock-update)
+
+
+> (Image credit: Future) If you missed the first Amazon PS5 restock, or the GameStop PS5 and Xbox Series X restock this week, that means you aren't following our PS5 restock Twitter tracker Matt Swider, who will send you alerts – if you follow his Twitter account and turn on notifications. In the last 24 hours, the big console restock news is that a second Amazon PS5 restock almost happened – and the Xbox Series X was a part of this round, too. Sadly, Amazon appears to have had a site-wide glitch, meaning the inventory could be held up for another restock date.
+
+
+***
+![Tesla update activates the in-car camera for driver monitoring](https://s.yimg.com/os/creatr-uploaded-images/2021-05/93d6b810-bf7a-11eb-93bb-7c08f50de889 "Tesla update activates the in-car camera for driver monitoring")
+
+
+[Tesla update activates the in-car camera for driver monitoring](https://www.engadget.com/tesla-in-car-camera-autopilot-081511875.html)
+
+
+> It's one more way to make sure someone is watching the road while Autopilot is in control.TeslaSeveral years after Elon Musk said Tesla rejected eye tracking as a method for measuring driver attentiveness because it's "ineffective," owners of new Teslas are receiving vehicles with the feature active. According to notes in the 2021.4.15.11 update, the cabin camera mounted above the rear view mirror will "detect and alert driver inattentiveness while Autopilot is engaged."  This brings Tesla in line with other manufacturers who include cabin cameras to monitor attentiveness while assists are engaged, instead of only relying on steering wheel torque.
+
+
