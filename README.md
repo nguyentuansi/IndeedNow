@@ -15704,3 +15704,50 @@
 > © Instagram / 48 hrs By: Daniel White2021-05-29 11:14:18 Subscribe NOW: Our Youtube Channel Last News: Wayne Extension Office's new ag team excited to work with farming community. Black Vinegar Doesn't Just Season a Dish–It Transforms It. Episode 29: The life and crimes of 'Fat' Freddie Thompson. Phil Stacey On Hockey: Don't be surprised if Bruins/Islanders goes 7. 'It felt so good shutting them up'. Raheem Sterling makes thoughts clear on Mikel Arteta amid rumours of Arsenal transfer interest.
 
 
+***
+![Bitcoin price news LIVE – Bank aims to bar cryptocurrency purchases as ‘digital gold' plummets 37 per cent in May](https://www.thesun.co.uk/wp-content/uploads/2021/05/crypto-5-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price news LIVE – Bank aims to bar cryptocurrency purchases as ‘digital gold' plummets 37 per cent in May")
+
+
+[Bitcoin price news LIVE – Bank aims to bar cryptocurrency purchases as ‘digital gold' plummets 37 per cent in May](https://www.thesun.co.uk/tech/15074768/bitcoin-price-news-live-dubaicoin-ethereum-cryptocurrency-dogecoin-updates/)
+
+
+> GOING DOWN 11:34, 29 May 2021Updated: 11:34, 29 May 2021HIGH street banks are reportedly rounding on cryptocurrencies such as bitcoin after a surge in fraud during the pandemic. The Times has reported one bank plans to use technology to ban its several million customers from buying them. It comes as Bitcon "is currently in a bit of 'slumber mode' trading in the range of $34,000 and $40,000," says Ulrik Lykke, executive director at crypto hedge fund ARK36. The cryptocurrency has lost 37 per cent in May, which if sustained would be its worst monthly performance since September 2011.
+
+
+***
+![Noise ColorFit Pro 3 review: Feature packed budget option](https://images.indianexpress.com/2021/05/Colorfit_Pro_3_LEAD.jpg "Noise ColorFit Pro 3 review: Feature packed budget option")
+
+
+[Noise ColorFit Pro 3 review: Feature packed budget option](https://indianexpress.com/article/technology/tech-reviews/noise-colorfit-pro-3-review-7335557/)
+
+
+> The wearables market (wristbands, smartwatches and TWS buds) has exploded in India with research firm IDC reporting that smartwatches as a category grew 400 per cent, maybe at the cost of smart bands. It is safe to assume that most users want a smart watch or are looking to upgrade to one. The leader in this space is homegrown brand Noise. Its ColorFit Pro 3 watch comes with many features and specifications that one would find on more expensive watches from Apple and Samsung. The ColorFit Pro 3 offers continuous heart-rate monitoring, is swim-ready and water-resistant, and also does blood oxygen monitoring.
+
+
+***
+![Bitcoin price news LIVE – Bank aims to bar cryptocurrency purchases as ‘digital gold' plummets 37 per cent in May](https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/crypto-5-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price news LIVE – Bank aims to bar cryptocurrency purchases as ‘digital gold' plummets 37 per cent in May")
+
+
+[Bitcoin price news LIVE – Bank aims to bar cryptocurrency purchases as ‘digital gold' plummets 37 per cent in May](https://www.the-sun.com/lifestyle/tech/2961652/bitcoin-price-news-live-dubaicoin-ethereum-cryptocurrency-dogecoin-updates/)
+
+
+> GOING DOWN 6:20 ET, May 29 2021Updated: 6:34 ET, May 29 2021HIGH street banks are reportedly rounding on cryptocurrencies such as bitcoin after a surge in fraud during the pandemic. The Times has reported one bank plans to use technology to ban its several million customers from buying them. It comes as Bitcon "is currently in a bit of 'slumber mode' trading in the range of $34,000 and $40,000," says Ulrik Lykke, executive director at crypto hedge fund ARK36. The cryptocurrency has lost 37 per cent in May, which if sustained would be its worst monthly performance since September 2011.
+
+
+***
+[Bitcoin price news LIVE – Bank aims to bar cryptocurrency purchases as ‘digital gold' plummets 37 per cent in May](https://www.thesun.ie/tech/7050069/bitcoin-price-news-live-dubaicoin-ethereum-cryptocurrency-dogecoin-updates/)
+
+
+> HIGH street banks are reportedly rounding on cryptocurrencies such as bitcoin after a surge in fraud during the pandemic. The Times has reported one bank plans to use technology to ban its several million customers from buying them. It comes as Bitcon “is currently in a bit of ‘slumber mode’ trading in the range of […]
+
+
+***
+![Python free tutorial musical preview](https://external-preview.redd.it/7ZkDpQhMhbzoAYNaFgz8OseaxMpMBPcOaKNql3_mnos.jpg?auto=webp&s=db818b26cb5fc4114b19a5fe52efb4c887cfd872 "Python free tutorial musical preview")
+
+
+[Python free tutorial musical preview](https://www.reddit.com/r/Python/comments/nnkhtr/python_free_tutorial_musical_preview/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
