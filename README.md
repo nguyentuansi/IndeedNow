@@ -15795,3 +15795,53 @@
 > Realme X7 Max 5G is launching in the country on May 31 at 12:30 PM which will be live-streamed via the company's official YouTube channel and other social media handles. The upcoming smartphone will be a Flipkart exclusive as the phone
 
 
+***
+![GitUI v0.16 supports merging now](https://external-preview.redd.it/Za5LuMnx3qTDr2gYOdi6TllyXP1MaPd3Iz1vnuP56Rc.jpg?auto=webp&s=6871356682e6176c550698cf206f1c31b9650b0b "GitUI v0.16 supports merging now")
+
+
+[GitUI v0.16 supports merging now](https://www.reddit.com/r/programming/comments/nnonrn/gitui_v016_supports_merging_now/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Coding Adventure: Terraforming](https://external-preview.redd.it/OMPEvYIGXEeIxuQT3BC4YR1qdKFtWwskAwlNuTkHnKQ.jpg?auto=webp&s=a04634fc1ad34115906b83cd263584cd4b6cad34 "Coding Adventure: Terraforming")
+
+
+[Coding Adventure: Terraforming](https://www.reddit.com/r/programming/comments/nnobmt/coding_adventure_terraforming/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Binance Trading Bot](https://external-preview.redd.it/9qCdschnVTIfO66Doo6eKB-7RUxeus3s9Dhv1rRL2hI.jpg?auto=webp&s=585f6f28aa305d8ec52ae06704eac0e0849669d8 "Binance Trading Bot")
+
+
+[Binance Trading Bot](https://www.reddit.com/r/Python/comments/nnob1w/binance_trading_bot/)
+
+
+> I've made a little Binance Trading Bot that handles all my trades.https://github.com/Salaah01/simple-binance-botI've quite a bit of backtesting based 1m interval over the last year and supposedly the bot is profitable. But, over the last couple of weeks, I've lost quite a bit of money.Now, in the news, I've been hearing how people have been losing millions with the whole Tesla and China thing. Just wanted to understand how people handle these sorts of news when you're trading more frequently as supposed to holding coins for a longer period.
+
+
+***
+![Emulating the call stack in Java](https://external-preview.redd.it/04zG9s6SRlcElQbSnBMUDGKcdGmAxGtghTB2v5HQMS0.jpg?auto=webp&s=81ebec2363f34c9b774f80dde5ce3c65e0e2b2d7 "Emulating the call stack in Java")
+
+
+[Emulating the call stack in Java](https://www.reddit.com/r/programming/comments/nno930/emulating_the_call_stack_in_java/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Microsoft says Russia hacked US aid agency that works in Ukraine](https://www.kyivpost.com/wp-content/uploads/2021/05/183343928_10159238799574686_7572822661121418725_n.jpg "Microsoft says Russia hacked US aid agency that works in Ukraine")
+
+
+[Microsoft says Russia hacked US aid agency that works in Ukraine](https://www.kyivpost.com/technology/microsoft-says-russia-hacked-us-aid-agency-that-works-in-ukraine.html)
+
+
+> Hackers likely affiliated with Russia broke into the email service of the U.S. Agency for International Development (USAID) and sent malware-infected phishing emails to 3,000 employees of human rights groups, nonprofits and think tanks around the world, Microsoft reported on May 27. The emails, posing as legitimate messages from USAID, contained links that, when clicked, allow hackers to infect recipients' computers and steal their data, according to Tom Burt, a senior Microsoft official who wrote about the attack.
+
+
