@@ -15751,3 +15751,47 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Reviews galore, LeBron James, Netflix Games -- This Week in Apple](https://photos5.appleinsider.com/gallery/42279-81993-41601-80665-41440-80397-This-Week-in-Apple-xl-xl-xl.jpg "Reviews galore, LeBron James, Netflix Games -- This Week in Apple")
+
+
+[Reviews galore, LeBron James, Netflix Games -- This Week in Apple](https://appleinsider.com/articles/21/05/29/reviews-galore-lebron-games-and-netflix----this-week-in-apple)
+
+
+> This week, AppleInsider reviewed all of Apple's recent major product launches, as well as discussed rumors of inbound Beats earbuds, Netflix taking on Apple Arcade, TagVault and Brydge launches, and more. AppleInsider posts many articles each week about Apple, its products, rumors, and connected third-party firms. In our video series "This Week in Apple," we are condensing the main stories from the past seven days into a single video for you to watch or listen to.Subscribe to AppleInsider on YouTubeEach episode offers a summary of the week's events, as well as insight and analysis on what happened.
+
+
+***
+![Techtronic Industries (OTCMKTS:TTNDY) Stock Price Up 1.7%](https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/techtronic-industries-company-limited-logo.png&w=240&h=240&zc=2 "Techtronic Industries (OTCMKTS:TTNDY) Stock Price Up 1.7%")
+
+
+[Techtronic Industries (OTCMKTS:TTNDY) Stock Price Up 1.7%](https://rivertonroll.com/news/2021/05/29/techtronic-industries-otcmktsttndy-stock-price-up-1-7.html)
+
+
+> Techtronic Industries Company Limited (OTCMKTS:TTNDY) shot up 1.7% on Thursday . The company traded as high as $95.00 and last traded at $94.91. Approximately 13,602 shares changed hands during trading, a decline of 57% from the average session volume of 31,307 shares. The stock had previously closed at $93.35. The stock has a 50-day moving average of $91.16 and a two-hundred day moving average of $79.25. The company has a debt-to-equity ratio of 0.24, a current ratio of 1.55 and a quick ratio of 0.
+
+
+***
+![How Uber Screws Over Its Customers And Workers](https://cdn.digg.com/wp-content/uploads/2021/05/29120920/Screen-Shot-2021-05-29-at-8.02.58-AM.jpg "How Uber Screws Over Its Customers And Workers")
+
+
+[How Uber Screws Over Its Customers And Workers](https://digg.com/video/how-uber-screws-over-its-customers-and-workers)
+
+
+> After countless documented samples of abuse and a number of tragic accidents, Tesla is finally implementing some real driver monitoring system (DMS) improvements for their Level 2 semi-automated Autopilot system, supplementing the inadequate method of detecting a hand on the steering wheel with a driver-facing camera that should confirm a driver is paying attention to the road. Edward Ongweso, Jr explains how Uber fooled the world into thinking it wasn't a taxi company and scamming workers and customers in the process.
+
+
+***
+[BSNL Prepaid Plan: Rs 699 Plan to Have a Validity of 180 Days](https://www.thequint.com/tech-and-auto/bsnl-prepaid-plan-rs-699-plan-to-have-a-validity-of-180-days)
+
+
+> BSNL 699 plan provides unlimited calling and has a validity of 180 days.
+
+
+***
+[Realme X7 Max 5G Pre-Order Details Revealed; Get Free Buds Q On Pre-order](https://www.gizbot.com/mobile/news/realme-x7-max-5g-pre-order-details-revealed-get-free-buds-q-on-pre-order-074561.html)
+
+
+> Realme X7 Max 5G is launching in the country on May 31 at 12:30 PM which will be live-streamed via the company's official YouTube channel and other social media handles. The upcoming smartphone will be a Flipkart exclusive as the phone
+
+
