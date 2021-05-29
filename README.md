@@ -15889,3 +15889,50 @@
 > Twitter has paused its new account verification program after just over a week of relaunching it, the reason being it received more requests than it anticipated, and now the micro-blogging platform needs time to review those before it can accept any new requests. Twitter doesn't tell us when exactly it will start accepting new requests, but it promises to "reopen requests soon". We're rolling in verification requests. So we gotta hit pause on accepting any more for now while we review the ones that have been submitted.
 
 
+***
+![Movers & Shakers: Stocks that will see action this week](https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg "Movers & Shakers: Stocks that will see action this week")
+
+
+[Movers & Shakers: Stocks that will see action this week](https://www.thehindubusinessline.com/portfolio/technical-analysis/movers-shakers-stocks-that-will-see-action-this-week/article34679445.ece)
+
+
+> CONCOR (₹667.6)Breaches a multi-year highThe stock of Container Corporation of India (CONCOR) began a fresh leg of rally in early 2021 from about ₹400. The scrip appreciated and in early March it marked a new high of ₹643.9 from where it faced a minor correction. Though it did not witness a bearish reversal, the stock started to move across a horizontal price pattern. It was largely oscillating between ₹550 and ₹625. Last week, the stock gained considerable bullish momentum and decisively breached the resistance at ₹625, opening the door for further rally.
+
+
+***
+![Hi, I developed a fitness app. Here you can do Workout Without any Equipment at Your Home. Can anyone check it and tell me how is it?](https://external-preview.redd.it/-M5J4Yzj19f8OsKclpwQMj4R_I6etqE9clpP6hvAl_I.jpg?auto=webp&s=ea23489811330980df677df8d5b4d16c81fa53e6 "Hi, I developed a fitness app. Here you can do Workout Without any Equipment at Your Home. Can anyone check it and tell me how is it?")
+
+
+[Hi, I developed a fitness app. Here you can do Workout Without any Equipment at Your Home. Can anyone check it and tell me how is it?](https://www.reddit.com/r/programming/comments/nnti16/hi_i_developed_a_fitness_app_here_you_can_do/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Bitcoin falls 5.2% to $33,849, Ether down 6.3%](https://www.reuters.com/resizer/zSe7a6153uVQSSupYJzYDBJSZ6U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F4WT54LZ5VMEVFCEMHXT4NB66I.jpg "Bitcoin falls 5.2% to $33,849, Ether down 6.3%")
+
+
+[Bitcoin falls 5.2% to $33,849, Ether down 6.3%](https://www.reuters.com/technology/bitcoin-falls-52-33849-ether-down-63-2021-05-29/)
+
+
+> A representation of virtual currency Bitcoin is seen in front of a stock graph in this illustration taken January 8, 2021. REUTERS/Dado RuvicBitcoin dipped 5.16% to $33,849.47 at 18:00 GMT on Saturday, losing $1,842.99 from its previous close.Ether , the coin linked to the ethereum blockchain network, dropped 6.26% to $2,262.06 on Saturday, losing $151.11 from its previous close.Bitcoin, the world's biggest and best-known cryptocurrency, is down 47.8% from the year's high of $64,895.22 on April 14.
+
+
+***
+![Best TV deals: Save on LG, TCL and Vizio TVs](https://www.cnet.com/a/img/WipBMU6gnzkAMPPR3-GkT_iZShc=/1200x630/2020/12/23/ab0d1e10-0728-4de4-9de1-e5fd9798162c/04-tcl-6-series-2020-65r635.jpg "Best TV deals: Save on LG, TCL and Vizio TVs")
+
+
+[Best TV deals: Save on LG, TCL and Vizio TVs](https://www.cnet.com/news/best-tv-deals/)
+
+
+> If you're not exactly rushing back to the movie theater after you've been vaccinated, you might consider putting those theater-going dollars into binge-watching at home on a new TV -- and Memorial Day is a good time to make an upgrade.Amazon and Best Buy have amazing deals on some of the best TVs we've tested, from budget models to the best TV that CNET TV guru David Katzmaier has ever reviewed. If spending Memorial Day weekend watching movies sounds like the move, there is definitely a deal out there for you.
+
+
+***
+[HOWTO: Configure a Python script to run on boot in Windows and macOS](https://www.reddit.com/r/Python/comments/nnt6jn/howto_configure_a_python_script_to_run_on_boot_in/)
+
+
+> I'm working on a project that requires distributed data processing (no, not cryptomining... compiling public data from the federal government into some relational databases for personal use).As part of this task, I have a few dedicated machines on which I'd like to run a Python agent-type script as a background process. Notably, I want to run it on system boot, not within the context of a specific login. Some of these tasks run for multiple days (e.g., the main database is over a terabyte), and I don't want my actions of logging into or out of the machine to terminate the process and interrupt or ruin a bunch of work.
+
+
