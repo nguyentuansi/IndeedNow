@@ -15513,3 +15513,47 @@
 > Mandarin-speaking cyber hackers posing as United Nations (UN) representatives are launching online attacks against ethnic Uyghurs, a Turkic minority group in China's westernmost Xinjiang territory, the MIT Technology Review reported on Thursday. Researchers from the U.S.-Israeli cybersecurity firm Check Point and the Russian multinational cybersecurity firm Kaspersky recently identified a cyber attack 'in which hackers posing as the UN Human Rights Council send a document detailing human rights violations to Uyghur individuals,' according to the Review.
 
 
+***
+![Apple reportedly tried to buy rap-battle music platform Verzuz](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/verzuz-logo-2.jpg "Apple reportedly tried to buy rap-battle music platform Verzuz")
+
+
+[Apple reportedly tried to buy rap-battle music platform Verzuz](https://www.imore.com/apple-reportedly-tried-buy-rap-battle-music-platform-verzuz)
+
+
+> Source: Verzuz Apple apparently tried to buy Verzuz, a rap-battle music platform, to expand Apple Music.. As reported by Bloomberg, Apple recently attempted to purchase Verzuz, a live streaming music platform that was acquired by Triller back in March. According to the report, Triller made an offer that was higher than Apple's bid. The Cupertino, California-based company showed interest in acquiring Verzuz, and while the iPhone maker didn't engage in a bidding war, it did provide a price for Verzuz that ended up being lower than what Triller paid, according to people with knowledge of the matter who asked not to be identified because the discussions were private.
+
+
+***
+![Battery material makers following battery manufacturers to US](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/cdc563cf69ff4177a5b1656deac8bc18.jpg "Battery material makers following battery manufacturers to US")
+
+
+[Battery material makers following battery manufacturers to US](https://www.koreatimes.co.kr/www/tech/2021/05/693_309590.html)
+
+
+> SK Innovation's electric vehicle battery plant is under construction in the U.S. state of Georgia. / Courtesy of SK InnovationBy Kim Bo-eunLocal battery material makers are seeking to set up factories in the U.S., where Korean battery manufacturers are expanding production in a bid to capture opportunities in the fast-growing U.S. market for electric vehicles (EVs).LG Energy Solution has set up a joint venture with GM ― called Ultium Cells ― under which the two companies are building two battery factories, one in Ohio and another in Tennessee.
+
+
+***
+[Tech Tips: Search engine alternatives](https://kvoa.com/community/2021/05/28/tech-tips-search-engine-alternatives/)
+
+
+> Google has become so synonymous with searching the internet that its easy not to notice other search engines that may be better than Google for web searches. DuckDuckGo, Qwant and Peekier are among a group of search engines that are primarily focused on providing a secure place for users to search. This includes tracker blocking, The post Tech Tips: Search engine alternatives appeared first on KVOA.
+
+
+***
+![Microsoft empowers developer productivity with new tools and services](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Amanda-Silver-DockerCon-20217060.jpg "Microsoft empowers developer productivity with new tools and services")
+
+
+[Microsoft empowers developer productivity with new tools and services](https://siliconangle.com/2021/05/28/microsoft-empowers-developer-productivity-with-new-tools-and-services-dockercon/)
+
+
+> While developers have always played a pivotal role in business innovation, this position came to prominence recently when they drove companies' response to the pandemic – whether it was developing solutions from a medical standpoint, supporting call centers and online retail, or improving systems to enable working-from-home and homeschooling. Creating tools and services that facilitate the work of developers and boost their productivity in the container environment, which is increasingly being adopted by DevOps, is one of the main goals of Microsoft's collaboration with Docker Inc.
+
+
+***
+[Parse whatsapp chats to DataFrames with this library](https://www.reddit.com/r/Python/comments/nnbhp0/parse_whatsapp_chats_to_dataframes_with_this/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
