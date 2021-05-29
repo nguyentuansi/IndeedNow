@@ -15845,3 +15845,47 @@
 > Hackers likely affiliated with Russia broke into the email service of the U.S. Agency for International Development (USAID) and sent malware-infected phishing emails to 3,000 employees of human rights groups, nonprofits and think tanks around the world, Microsoft reported on May 27. The emails, posing as legitimate messages from USAID, contained links that, when clicked, allow hackers to infect recipients' computers and steal their data, according to Tom Burt, a senior Microsoft official who wrote about the attack.
 
 
+***
+[Most-complete Motorola Moto E6 Specs](https://www.reddit.com/r/programming/comments/nnr5oj/mostcomplete_motorola_moto_e6_specs/)
+
+
+> submitted by /u/DescriptionNo6425 [link] [comments]
+
+
+***
+[Light Therapy Device Maintenance Tips](https://filmdaily.co/tech/take-care-light-therapy/)
+
+
+> If you have a light therapy device, it's crucial you know how to keep it clean and protected. Check out our tips to make your device last for a long time. The post Light Therapy Device Maintenance Tips appeared first on Film Daily.
+
+
+***
+![Will the new charger for a iPad 8th generation work with a iPad 5th generation ok ?](https://images.macrumors.com/social/?t=2298412&v=6 "Will the new charger for a iPad 8th generation work with a iPad 5th generation ok ?")
+
+
+[Will the new charger for a iPad 8th generation work with a iPad 5th generation ok ?](https://forums.macrumors.com/threads/will-the-new-charger-for-a-ipad-8th-generation-work-with-a-ipad-5th-generation-ok.2298412/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Using Fake Reviews to Find Dangerous Extensions](https://external-preview.redd.it/iBf-0ifuzNsIJPvTXfKg1Oco97JZUmthWhtMlaXqOg8.jpg?auto=webp&s=4f7d7d3ce8c73ce8babd28c4764f0ddf2116caf1 "Using Fake Reviews to Find Dangerous Extensions")
+
+
+[Using Fake Reviews to Find Dangerous Extensions](https://www.reddit.com/r/programming/comments/nnr2bt/using_fake_reviews_to_find_dangerous_extensions/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Twitter pauses new account verification program after just over a week of relaunching it](https://fdn.gsmarena.com/imgroot/news/21/05/twitter-account-verification-paused/-476x249w4/gsmarena_000.jpg "Twitter pauses new account verification program after just over a week of relaunching it")
+
+
+[Twitter pauses new account verification program after just over a week of relaunching it](https://www.gsmarena.com/twitter_account_verification_paused-news-49373.php)
+
+
+> Twitter has paused its new account verification program after just over a week of relaunching it, the reason being it received more requests than it anticipated, and now the micro-blogging platform needs time to review those before it can accept any new requests. Twitter doesn't tell us when exactly it will start accepting new requests, but it promises to "reopen requests soon". We're rolling in verification requests. So we gotta hit pause on accepting any more for now while we review the ones that have been submitted.
+
+
