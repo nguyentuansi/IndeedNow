@@ -15557,3 +15557,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Poco F3 GT India launch in Q3 2021, confirmed to feature MediaTek Dimensity 1200](https://images.indianexpress.com/2021/05/redmi-k40.jpg "Poco F3 GT India launch in Q3 2021, confirmed to feature MediaTek Dimensity 1200")
+
+
+[Poco F3 GT India launch in Q3 2021, confirmed to feature MediaTek Dimensity 1200](https://indianexpress.com/article/technology/mobile-tabs/poco-f3-gt-india-launch-in-q3-2021-confirmed-to-feature-mediatek-dimensity-1200-processor-7335107/)
+
+
+> Poco F3 GT India launch will take place in the third quarter of 2021. The company's Country Director Anuj Sharma confirmed this through a short video. While the exact launch date is still unknown, the brand has revealed that the Poco F3 GT will arrive with a MediaTek Dimensity 1200 processor. The latest tweet from the executive says 'Locked & loaded, finger on the triggers. The next F is closer than ever.' This suggests that the Poco F3 GT will be a rebranded version of the Redmi K40 Gaming Edition, as hinted by previous reports.
+
+
+***
+![Naval Group submits a new offer for the modernisation of the Hellenic surface fleet](http://www.globalsecurity.org/images/temp/one-billion-americans.jpg "Naval Group submits a new offer for the modernisation of the Hellenic surface fleet")
+
+
+[Naval Group submits a new offer for the modernisation of the Hellenic surface fleet](http://www.globalsecurity.org/military/library/news/2021/05/mil-210528-naval-group01.htm)
+
+
+> 28 May 2021 Naval Group submitted as part of the French Team with MBDA and Thales a new offer for the modernisation of the surface fleet of the Hellenic Navy. The French Team's offer is a comprehensive and robust package designed to ensure Greece has the best capabilities in the shortest timeframe with optimised costs and includes: • 4 FDI HN - the most modern frigate – 3 built in Greece and the 1st in service by 2025 along with a Gap filler solution of 2 frigates available in early 2022 • the modernisation of the MEKO frigates in Greece • an ambitious Hellenic Industry Participation (HIP) Beyond reinforcing the strong ties between France and Greece, the French offer addresses all the current and future needs of the Hellenic Navy with a comprehensive package based on the FDI HN, the best frigate of her category but also the first modern one already available.
+
+
+***
+![RSNF Commander Patronizes Ceremony of His Majesty King Saud's Ship Keel Laying](http://www.globalsecurity.org/images/temp/one-billion-americans.jpg "RSNF Commander Patronizes Ceremony of His Majesty King Saud's Ship Keel Laying")
+
+
+[RSNF Commander Patronizes Ceremony of His Majesty King Saud's Ship Keel Laying](http://www.globalsecurity.org/wmd/library/news/saudi/2021/saudi-210528-spa01.htm)
+
+
+> Saudi Press Agency Friday 1442/10/16 - 2021/05/28 Riyadh, May 28, 2021, SPA -- Under the patronage of Commander of the Royal Saudi Naval Forces (RSNF) Lieutenant General Fahd bin Abdullah Al-Ghafili, the Royal Saudi Naval Forces has celebrated the laying of the keel of Royal Saudi Navy first ship of the Tuwaiq project, which was officially named His Majesty King Saud Ship (HMS Saud). The keel laying ceremony was held in Marinette, Wisconsin, USA On this occasion, the Commander of the Royal Saudi Naval Forces delivered a speech in which he expressed his pleasure with this major event, praising the unlimited support by the leadership of the Kingdom of Saudi Arabia led by the Custodian of the Two Holy Mosques King Salman bin Abdulaziz Al Saud, HRH the Crown Prince and Deputy Minister of Defense Prince Khalid bin Salman bin Abdulaziz.
+
+
+***
+![China urged to increase sea-based nuclear deterrent amid US intensified strategic threat](http://www.globalsecurity.org/images/temp/one-billion-americans.jpg "China urged to increase sea-based nuclear deterrent amid US intensified strategic threat")
+
+
+[China urged to increase sea-based nuclear deterrent amid US intensified strategic threat](http://www.globalsecurity.org/wmd/library/news/china/2021/05/china-210528-globaltimes01.htm)
+
+
+> Global Times By Zhang Hui Published: May 28, 2021 08:45 PM Updated: May 28, 2021 09:49 PM Facing a serious strategic threat from the US, China was urged to increase the number of nuclear weapons, especially its sea-based nuclear deterrent of intercontinental submarine-launched ballistic missiles, to deter potential military action by US warmongers, Chinese military experts said on Friday, after reports that the US' new defense budget will modernize its nuclear arsenal to deter China. Having a nuclear arsenal appropriate to China's position will help safeguard national security, sovereignty and development interests and establish a more stable and peaceful world order, which will be beneficial for the world, they said.
+
+
+***
+![Russian Authorities Tell Airlines To Expect Delays Due To Belarusian Airspace Ban](http://www.globalsecurity.org/images/temp/one-billion-americans.jpg "Russian Authorities Tell Airlines To Expect Delays Due To Belarusian Airspace Ban")
+
+
+[Russian Authorities Tell Airlines To Expect Delays Due To Belarusian Airspace Ban](http://www.globalsecurity.org/wmd/library/news/belarus/2021/belarus-210528-rferl03.htm)
+
+
+> By RFE/RL May 28, 2021 Russia's state air transport agency says changes to routes from Europe to Russia as a result of the dispute between the West and Belarus over the forced diversion of a Ryanair flight to Minsk may result in longer clearance times. Rosaviatsiya said in a statement on May 28 that it had informed airlines to expect delays after Russia denied access to two European carriers that amended flight plans to skirt Belarus en route to Moscow. EU leaders have asked European carriers to avoid Belarusian airspace after the incident on May 23.
+
+
