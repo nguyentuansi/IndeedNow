@@ -15936,3 +15936,53 @@
 > I'm working on a project that requires distributed data processing (no, not cryptomining... compiling public data from the federal government into some relational databases for personal use).As part of this task, I have a few dedicated machines on which I'd like to run a Python agent-type script as a background process. Notably, I want to run it on system boot, not within the context of a specific login. Some of these tasks run for multiple days (e.g., the main database is over a terabyte), and I don't want my actions of logging into or out of the machine to terminate the process and interrupt or ruin a bunch of work.
 
 
+***
+![Python Salary & Popularity Review](https://external-preview.redd.it/Ecf5e564Q7_WlfWbJHG7Nh7HiDJnIzoeRaez5ESYIsM.jpg?auto=webp&s=e00721436bf77412489a6b05db855fb9c27af3b7 "Python Salary & Popularity Review")
+
+
+[Python Salary & Popularity Review](https://www.reddit.com/r/programming/comments/nnvp1i/python_salary_popularity_review/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Switch owners need to have these games in their library](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/08/best-nintendo-switch-games.jpg "Switch owners need to have these games in their library")
+
+
+[Switch owners need to have these games in their library](https://www.imore.com/best-nintendo-switch-games)
+
+
+> Trying to get your hands on the best Nintendo Switch games that have released so far? There are plenty to choose from, and more awesome titles continue to come out every few months. Nintendo has you covered whether you're looking for open-world RPGs, fighting games, competitive racers, or local co-op games to share with a friend. These are the best Nintendo Switch games of all time, spanning several genres. It's important to note that most Switch games require you to have a Nintendo Switch Online subscription to play online.
+
+
+***
+![Chip Shortages to Persist for 12-18 Months: Price War Between AMD & Intel Expected in Late 2021-2022](https://external-preview.redd.it/7ZaafE8OiMIPAl-AAtTt-2wCG5jgM2XLs12edlTscCw.jpg?auto=webp&s=d7093ae0d755b8caeba30e30540686862f880f15 "Chip Shortages to Persist for 12-18 Months: Price War Between AMD & Intel Expected in Late 2021-2022")
+
+
+[Chip Shortages to Persist for 12-18 Months: Price War Between AMD & Intel Expected in Late 2021-2022](https://www.reddit.com/r/technology/comments/nnvfnd/chip_shortages_to_persist_for_1218_months_price/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Latest update gets rid of default audio output?](https://images.macrumors.com/social/?t=2298432&v=6 "Latest update gets rid of default audio output?")
+
+
+[Latest update gets rid of default audio output?](https://forums.macrumors.com/threads/latest-update-gets-rid-of-default-audio-output.2298432/)
+
+
+> Apr 12, 2005 1,068 254 Scotland For a week or so I was able to select my HPM as default audio output. It was great, didn't have to re-select HomePod at all. Then it updated and now it's changed to temporary audio output. I have to select it every time. Is apple deliberately trying to **ss folk off? I have two full sized HomePods and two HomePods Mini. Only the full sized HomePods are able to be selected as the default audio out. You're right, the Minis can be temporarily used, but not set to default.
+
+
+***
+![New AI supercomputer will help create the largest-ever 3D map of the universe](https://s.yimg.com/os/creatr-uploaded-images/2021-05/4a985120-c0b2-11eb-83e7-4eb41588653c "New AI supercomputer will help create the largest-ever 3D map of the universe")
+
+
+[New AI supercomputer will help create the largest-ever 3D map of the universe](https://www.engadget.com/perlmutter-ai-supercomputer-3d-universe-map-200437484.html)
+
+
+> Perlmutter could complete tasks in days that would normally take months.J. Fingas|05.29.21In this article: GPU, astronomy, universe, news, gear, Dark Energy Spectroscopic Instrument, DESI, dark energy, A100, astrophysics, AMD, space, Epyc, supercomputer, NERSC, Perlmutter, tomorrow, AI, science, artificial intelligenceNVIDIAThe newest big-name supercomputer might help solve some of astrophysics' most important questions. VentureBeat reports the National Energy Research Scientific Computing Center has officially dedicated Perlmutter, billed as one of the fastest supercomputers for AI, and it will start by helping to build the largest-ever 3D map of the visible universe to study the dark energy accelerating the cosmos' expansion.
+
+
