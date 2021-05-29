@@ -15607,3 +15607,50 @@
 > By RFE/RL May 28, 2021 Russia's state air transport agency says changes to routes from Europe to Russia as a result of the dispute between the West and Belarus over the forced diversion of a Ryanair flight to Minsk may result in longer clearance times. Rosaviatsiya said in a statement on May 28 that it had informed airlines to expect delays after Russia denied access to two European carriers that amended flight plans to skirt Belarus en route to Moscow. EU leaders have asked European carriers to avoid Belarusian airspace after the incident on May 23.
 
 
+***
+![Technology, health care firms propel stocks higher](https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/198497387_198496741-bee745e7a3db4e21a37f04f11623805d_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676 "Technology, health care firms propel stocks higher")
+
+
+[Technology, health care firms propel stocks higher](https://www.arkansasonline.com/news/2021/may/29/technology-health-care-firms-propel-stocks-higher/)
+
+
+> Stocks capped a listless day of trading on Wall Street with modest gains Friday and the S&P 500's first weekly gain in three weeks. Gains in technology and health care companies outweighed a slide in communications stocks, retailers and elsewhere in the market. The S&P 500 rose 0.1% and notched a 1.2% gain for the week. The benchmark index closed out the final day of trading in May with a monthly gain of 0.5%. That's the index's fourth straight monthly increase and follows a bumpy few weeks in the markets as investors moved past a stellar corporate earnings season and focused on the tug-of-war between the economic recovery and rising inflation.
+
+
+***
+![Make your own Discord bot](https://external-preview.redd.it/p3HQXQzdkmyXyJ89enL6PkgmSdstFY5z1QkzOzRNUaU.jpg?auto=webp&s=01b29ed2d2e90d072e1fc7295da2c1cb3797f686 "Make your own Discord bot")
+
+
+[Make your own Discord bot](https://www.reddit.com/r/Python/comments/nnhlxh/make_your_own_discord_bot/)
+
+
+> Make your own Discord bot in just 4 lines of code(Python)Install the package like this:pip install discord-bot-maker This is all the code you need:from discord_bot_maker import DBot d = DBot(bPrefix : tuple = ".", owner : str = FATHER, helpCommand : bool = True, baseCode : bool = True) d + (trigger = trigger, reply = reply1, reply2 = reply2, emoji = emoji, image = link, help = help) d(TOKEN) Check out this module on pypi.org
+
+
+***
+![Python Programming Structures](https://external-preview.redd.it/z2my67o_5wd_ScCx4yJOVw_JsHPDPKm5hC72ft8F4zs.jpg?auto=webp&s=9b5057744f63b8f793c7bca75f758748a7d42735 "Python Programming Structures")
+
+
+[Python Programming Structures](https://www.reddit.com/r/programming/comments/nnhiar/python_programming_structures/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[With Cybercrimes Rising Drastically, How Safe Is Your Family?](https://www.thequint.com/tech-and-auto/with-cybercrimes-rising-drastically-how-safe-is-your-familyiartel-secure-internet)
+
+
+> Internet safety assumes all the more importance given the times we live in.
+
+
+***
+![Dyson V15 Detect review: A vacuum cleaner with a LASER changed my life](https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/ML-hoov-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Dyson V15 Detect review: A vacuum cleaner with a LASER changed my life")
+
+
+[Dyson V15 Detect review: A vacuum cleaner with a LASER changed my life](https://www.the-sun.com/lifestyle/tech/2978711/dyson-v15-detect-review-vacuum-cleaner-laser/)
+
+
+> DYSON has made another vacuum cleaner – but this one is posher than the rest, and has a laser built into its head. It was delivered to my home (possible from the future?) a few weeks ago, and I've been relentlessly testing it. So…does it suck? Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on Facebook, WhatsApp and Instagram A toggle-on laser at the front will reveal hidden horrorsCredit: Dyson For a start, it's wireless. That's not uncommon these days, but it's still ultimately the best improvement to vacuum cleaning.
+
+
