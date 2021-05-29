@@ -15654,3 +15654,53 @@
 > DYSON has made another vacuum cleaner – but this one is posher than the rest, and has a laser built into its head. It was delivered to my home (possible from the future?) a few weeks ago, and I've been relentlessly testing it. So…does it suck? Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on Facebook, WhatsApp and Instagram A toggle-on laser at the front will reveal hidden horrorsCredit: Dyson For a start, it's wireless. That's not uncommon these days, but it's still ultimately the best improvement to vacuum cleaning.
 
 
+***
+![Google, Facebook, Whatsapp comply with new IT Rules; Twitter yet to share details, says report](https://images.firstpost.com/fpimages/380x285/fixed/jpg/2020/10/social-media-640-min.jpg "Google, Facebook, Whatsapp comply with new IT Rules; Twitter yet to share details, says report")
+
+
+[Google, Facebook, Whatsapp comply with new IT Rules; Twitter yet to share details, says report](https://www.firstpost.com/tech/google-facebook-whatsapp-comply-with-new-it-rules-twitter-yet-to-share-details-says-report-9666731.html)
+
+
+> Google, Facebook, Whatsapp comply with new IT Rules; Twitter yet to share details, says report
+
+
+***
+![Champions League final: Man City vs. Chelsea kick-off time, how to watch](https://www.cnet.com/a/img/mYiJQL_wzojM5FOkO3EQQktTr1o=/0x0:1216x685/1200x630/center/top/2021/05/27/a37acdaf-b432-4cb6-8d59-1d97f73290ec/man-city-vs-chelsea.png "Champions League final: Man City vs. Chelsea kick-off time, how to watch")
+
+
+[Champions League final: Man City vs. Chelsea kick-off time, how to watch](https://www.cnet.com/news/champions-league-final-man-city-vs-chelsea-kick-off-time-how-to-watch/)
+
+
+> Sorry, Man City are probably gonna win.  VALERY HACHE/AFP via Getty Images The Champions League final, the biggest match in club football, is just hours away. This year it's Man City vs. Chelsea in an all-English clash for all the marbles.  Who's the favourite? Based on current form, it's hard to pick against Man City. In their last outing they ripped Everton to shreds in a 5-0 drubbing. But anything can happen in football and, since sacking Lampard and bringing in Thomas Tuchel, Chelsea have looked and played like a different team -- a much better team.
+
+
+***
+![Facebook's AI treats Palestinian activists like it treats American Black activists. It blocks them. – Palestinian activists are fighting back against a history of takedowns with one-star reviews and ancient Arabic](https://external-preview.redd.it/bYfoZiUYRzWP4008oPhADDvGWuXCdHOI41riNy-B9X8.jpg?auto=webp&s=8f418abe9689134634dfd5dd9fa026a1cfdc6536 "Facebook's AI treats Palestinian activists like it treats American Black activists. It blocks them. – Palestinian activists are fighting back against a history of takedowns with one-star reviews and ancient Arabic")
+
+
+[Facebook's AI treats Palestinian activists like it treats American Black activists. It blocks them. – Palestinian activists are fighting back against a history of takedowns with one-star reviews and ancient Arabic](https://www.reddit.com/r/technology/comments/nnix3v/facebooks_ai_treats_palestinian_activists_like_it/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+!['6 Souls' Isn't As Awful As Everybody's Saying and ‘6 Souls,' With Julianne Moore and Jonathan Rhys Meyers](https://https://www.thearkatech.com/img/news_img/all/12974_7_1200.pic "'6 Souls' Isn't As Awful As Everybody's Saying and ‘6 Souls,' With Julianne Moore and Jonathan Rhys Meyers")
+
+
+['6 Souls' Isn't As Awful As Everybody's Saying and ‘6 Souls,' With Julianne Moore and Jonathan Rhys Meyers](https://www.thearkatech.com/en/57463/)
+
+
+> © Instagram / 6 souls '6 Souls' Isn't As Awful As Everybody's Saying and ‘6 Souls,' With Julianne Moore and Jonathan Rhys Meyers '6 Souls' Isn't As Awful As Everybody's Saying and ‘6 Souls,' With Julianne Moore and Jonathan Rhys Meyers NOW: Our Youtube Channel Subscribe Last News: ‘6 Souls,' With Julianne Moore and Jonathan Rhys Meyers and '6 Souls' Isn't As Awful As Everybody's Saying US bishops to argue Communion policy. spanish pavilion at venice biennale takes shape as a venue for reflection by uncertainty.
+
+
+***
+![In HP, 50% Covid patients died within 48 hrs of hospitalisation, 12% before reaching hospitals and Citizens struggle as outage grows beyond 48 hrs](https://https://www.thearkatech.com/img/news_img/all/12972_15_1200.pic "In HP, 50% Covid patients died within 48 hrs of hospitalisation, 12% before reaching hospitals and Citizens struggle as outage grows beyond 48 hrs")
+
+
+[In HP, 50% Covid patients died within 48 hrs of hospitalisation, 12% before reaching hospitals and Citizens struggle as outage grows beyond 48 hrs](https://www.thearkatech.com/en/57462/)
+
+
+> © Instagram / 48 hrs By: Daniel White2021-05-29 11:14:18 Subscribe NOW: Our Youtube Channel Last News: Wayne Extension Office's new ag team excited to work with farming community. Black Vinegar Doesn't Just Season a Dish–It Transforms It. Episode 29: The life and crimes of 'Fat' Freddie Thompson. Phil Stacey On Hockey: Don't be surprised if Bruins/Islanders goes 7. 'It felt so good shutting them up'. Raheem Sterling makes thoughts clear on Mikel Arteta amid rumours of Arsenal transfer interest.
+
+
