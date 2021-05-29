@@ -15986,3 +15986,47 @@
 > Perlmutter could complete tasks in days that would normally take months.J. Fingas|05.29.21In this article: GPU, astronomy, universe, news, gear, Dark Energy Spectroscopic Instrument, DESI, dark energy, A100, astrophysics, AMD, space, Epyc, supercomputer, NERSC, Perlmutter, tomorrow, AI, science, artificial intelligenceNVIDIAThe newest big-name supercomputer might help solve some of astrophysics' most important questions. VentureBeat reports the National Energy Research Scientific Computing Center has officially dedicated Perlmutter, billed as one of the fastest supercomputers for AI, and it will start by helping to build the largest-ever 3D map of the visible universe to study the dark energy accelerating the cosmos' expansion.
 
 
+***
+![How to hide your 'Last Seen' status on WhatsApp](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F128076%252Fa0f3adc4-3e55-49ef-b9c0-1122e8b92509.jpg%252F950x534.jpg?signature=X7_SKrO5WKfcDhJ1umBDkX5vprs=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "How to hide your 'Last Seen' status on WhatsApp")
+
+
+[How to hide your 'Last Seen' status on WhatsApp](https://mashable.com/article/how-to-hide-your-last-seen-status-on-whats-app/)
+
+
+> If you're the type who has a tendency to answer WhatsApp messages at your own (very slow) pace, then chances are you don't want people knowing when you're on the app.  With WhatsApp's "Last Seen" and "Online" status features, it lets your contacts see the last time you used the app and when you're currently using it, respectively.  For those who want to remain incognito, here's how to hide your status in a few easy steps.   1) Go to Settings Whether you're using iOS or Android, the Settings menu will be the same.
+
+
+***
+[Phacility Is Winding Down, Phabricator No Longer Actively Maintained](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
+
+
+> Written by epriestley on Sat, May 29, 8:49 PM. OverengineerPhacility, Inc · Terms · Privacy · Support
+
+
+***
+![Tesla's in-car cameras will now monitor your driving on Autopilot](https://mondrian.mashable.com/2021%252F05%252F29%252Fbf%252Fb4bb6aa2e42e41d2a89ac2117ee687cb.7cb38.jpg%252F1200x630.jpg?signature=5eEAYHv2PDUPVXrrM95qISTHmUM= "Tesla's in-car cameras will now monitor your driving on Autopilot")
+
+
+[Tesla's in-car cameras will now monitor your driving on Autopilot](https://mashable.com/article/tesla-cabin-camera-mirrors-driver-monitoring-model-3-and-model-y/)
+
+
+> If you own a Tesla Model 3 or Model Y, then it's apparently now possible the in-car camera is or soon will be monitoring you while on Autopilot. According to TechCrunch, Tesla has reportedly enabled the capability through a software update. The use of the new feature was originally spotted on Twitter, after a current Tesla owner took to the platform to post images of the latest software version on his Model Y.  Delivery was super smooth. Summon and lane departure avoidance disabled for now, increased follow distance, hard cap at 75, requires auto brights or kicks out of AP, cabin camera for driver monitoring.
+
+
+***
+![Quiet Place Part II, Cruella aren't streaming on HBO Max, sorry](https://www.cnet.com/a/img/mCWug7ZYBAJ3p5DX5N68UUwjnEs=/1200x630/2021/05/28/1b5a4137-c45b-4b75-ae03-2b6dd2eac172/aqp2-04327r.jpg "Quiet Place Part II, Cruella aren't streaming on HBO Max, sorry")
+
+
+[Quiet Place Part II, Cruella aren't streaming on HBO Max, sorry](https://www.cnet.com/news/quiet-place-part-ii-cruella-arent-streaming-on-hbo-max-spiral/)
+
+
+> A Quiet Place Part II hit theaters Friday.  Paramount A Quiet Place Part II and Cruella bot hit theaters Friday to kick off the Memorial Day weekend in the US. But for those who want to stay home, only Cruella is available to stream, and not on HBO Max. A Quiet Place Part II isn't available to stream at all, and when it is (in about a month and a half) it won't be on Max, either. HBO Max made waves last year when it announced that it would stream new, theatrically released movies at no extra charge the same day each film hits US cinemas in 2021 -- but only if they're distributed by the studio Warner Bros.
+
+
+***
+[Renesas to raise ¥218.5 billion via new shares to fund Dialog purchase](https://japantoday.com/category/tech/Renesas-to-raise-%C2%A5218.5-billion-via-new-shares-to-fund-Dialog-purchase)
+
+
+> Japan's Renesas Electronics Corp says it will raise 218.5 billion yen ($1.99 billion) through a new share issue to help the automotive semiconductors maker fund its planned $6…
+
+
