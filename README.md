@@ -16359,3 +16359,47 @@
 > Nespresso vs Keurig has been a popular debate in the coffee world for quite some time now, and that's because both brands offer barista-style coffee at the touch of a button. Both are often featured in round-ups of the best coffee makers, but which one will be the right choice for you? Nespresso and Keurig coffee makers use pods or capsules to make everything from espressos to lattes. While Keurig is a big name in the US, the brand isn't sold widely in the UK, however, Nespresso is available across the globe.
 
 
+***
+[Suggestions for Web based ui for python app](https://www.reddit.com/r/Python/comments/noevag/suggestions_for_web_based_ui_for_python_app/)
+
+
+> I am writing a large python app and want to add a user interface via a browser. I think I want the UI to look similar to VS code, 'files' along the left, tabs of open files and text editor. I plan to use Ace or code mirror for the code editor. Interfacing between the frontend JS and python seems strightforward with flask or django.My concern and question is what to use for the UI framework. I know a little html and css but have no skill in putting it together into something that looks nice. I also don't want to spend a massive amount of time on this part of my Python app.
+
+
+***
+![Nvidia is making a 3D map of the universe with the world's most powerful AI](https://external-preview.redd.it/a5EDy0FFQRWwDpraf5cJTX-mEXqr4UOV8HzKlBQ3kg8.jpg?auto=webp&s=f0e904ada19ffdef1478a265b6ab9ffcf34c7845 "Nvidia is making a 3D map of the universe with the world's most powerful AI")
+
+
+[Nvidia is making a 3D map of the universe with the world's most powerful AI](https://www.reddit.com/r/technology/comments/noeud9/nvidia_is_making_a_3d_map_of_the_universe_with/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![iPad Pro](https://images.macrumors.com/social/?t=2298521&v=6 "iPad Pro")
+
+
+[iPad Pro](https://forums.macrumors.com/threads/ipad-pro-but-what-mic-setup.2298521/)
+
+
+> Hi all. I'm upgrading from a 2017 iPad and looking at getting an iPad Pro. I use my iPad for work - recording video (front camera) and sound. Although the video recording of my 2017 wasn't the best clarity wise it was sufficient - and for sound quality I just popped in a Shure MV88 mic which got a pretty decent voice sound - no wires, no mains connection. Super simple and neat and pretty decent sound. I'm worried because the iPad Pro has done away with the lightning port, so something like the purpose built Shure mic (lightning port) is now off the table.
+
+
+***
+[Bitcoin price news LIVE – UK bank blocks crypto exchange payments as Dubaicoin rises 1000% & Elon Musk backs dogecoin](https://www.thesun.ie/tech/7050069/bitcoin-price-news-cryptro-exchange-latest-elon-musk-dogecoin/)
+
+
+> DUBAICOIN saw its value shoot up 1,000 per cent in just 24 hours despite the price of other cryptocurrencies continuing to fall. The city’s government has denied any official link, with the authority even claiming it is part of an “elaborate scam”. A statement tweeted by the media office of Dubai’s government said: “Dubai Coin […]
+
+
+***
+![Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://external-preview.redd.it/wuvPzLRdiG1kP-AObdDQpW5qt1NHW8bhL6dE_OZH3vM.jpg?auto=webp&s=a559065db8ae680334075b066d7799f49fbb622f "Python Cybersecurity— Network Tracking using Wireshark and Google Maps")
+
+
+[Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/noequ6/python_cybersecurity_network_tracking_using/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
