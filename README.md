@@ -16315,3 +16315,47 @@
 > Digital Trends may earn a commission when you buy through links on our site. With Memorial Day sales in full swing, we've found an amazing Roomba robot vacuum deal for you. If you're keen to never have to vacuum your home manually again then the iRobot Roomba 670 is the one for you. Ordinarily priced at $330, it's down to just $190 right now, saving you a massive $140. It's ideal for everything from carpets, where it can tackle pet hair, to hardwood floors and it's going to change your life providing you snap it up before stock runs out.
 
 
+***
+![Get the best charge with Anker's USB-C to Lightning cable on sale for $13](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/anker-poowerline-ii.jpg "Get the best charge with Anker's USB-C to Lightning cable on sale for $13")
+
+
+[Get the best charge with Anker's USB-C to Lightning cable on sale for $13](https://www.imore.com/get-best-charge-possible-ankers-usb-c-lightning-cable-sale-13)
+
+
+> If you're looking for the best replacement Lightning cable, but you're tired of slow USB-A connections, then it's time to upgrade to USB-C. Anker's Powerline II 6-feet USB-C to Lightning cable is on sale for just $12.74 at Amazon if you clip the on-page coupon that takes 15% off the price. The white charging cable is $15 without the on-page coupon, which is already a bit of a discount compared to the other colors that are going for $17 and don't have any cool on-page coupons like the white one does.
+
+
+***
+![2021 iPad Pro 11"](https://images.macrumors.com/social/?t=2298504&v=6 "2021 iPad Pro 11"")
+
+
+[2021 iPad Pro 11"](https://forums.macrumors.com/threads/2021-ipad-pro-11-keyboard-click-sound-broke.2298504/)
+
+
+> Anyone else have this (I have tried turning on /off etc.... I have keyboard clicks turned on. As I type most clicks I can hear are very soft....then some will get REALLY LOUD ... back to very soft. I have no worries if this is a SW bug, I assume will be fixed.... Anyone else get this or do I need to return ? Thanks! If the speaker works fine with music or movie then it's sw issue. I get what you're saying. Most keyboard sounds are normal, but then there are some that just POP out at you. I've been getting this on my iPhones and iPads for at least 2 versions of iOS now.
+
+
+***
+[微軟全新 Windows 終端機 1.9 預覽版導入「Quake Mode」功能，方便 Windows 使用快捷鍵啟動終端機實例](https://technews.tw/2021/05/30/microsoft-quake-mode-windows-terminal/)
+
+
+> 微軟已發布全新 Windows 終端機（Windows Terminal）預覽版，以便運行有新 Quake 模 […]
+
+
+***
+[Concurrent Expression Problem](https://www.reddit.com/r/programming/comments/nobsun/concurrent_expression_problem/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Nespresso vs Keurig](https://cdn.mos.cms.futurecdn.net/4v2EUeinH8tR99a6qSZHxM-1200-80.jpg "Nespresso vs Keurig")
+
+
+[Nespresso vs Keurig](https://www.techradar.com/news/nespresso-vs-keurig)
+
+
+> Nespresso vs Keurig has been a popular debate in the coffee world for quite some time now, and that's because both brands offer barista-style coffee at the touch of a button. Both are often featured in round-ups of the best coffee makers, but which one will be the right choice for you? Nespresso and Keurig coffee makers use pods or capsules to make everything from espressos to lattes. While Keurig is a big name in the US, the brand isn't sold widely in the UK, however, Nespresso is available across the globe.
+
+
