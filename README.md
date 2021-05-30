@@ -16503,3 +16503,53 @@
 > Photo: Bruce Bennett (Getty Images)A 'lethal' weaponized drone 'hunted down' and 'remotely engaged' human targets without its handlers' say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week. Whether there were any casualties remains unclear, but if confirmed, it would likely be the first recorded death carried out by an autonomous killer robot.In March 2020, a Kargu-2 attack quadcopter, which the agency called a 'lethal autonomous weapon system,' targeted retreating soldiers and convoys led by Libyan National Army's Khalifa Haftar during a civil conflict with Libyan government forces.
 
 
+***
+![iMac M1 Introduction (1998 Edition)](https://images.macrumors.com/social/?t=2298547&v=6 "iMac M1 Introduction (1998 Edition)")
+
+
+[iMac M1 Introduction (1998 Edition)](https://forums.macrumors.com/threads/imac-m1-introduction-1998-edition.2298547/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hey everyone! I thought given the parallels between the iMac G3 and the iMac M1, I'd pay homage to the original iMac with a retro inspired iMac M1 intro video. Enjoy! You must log in or register to reply here.
+
+
+***
+![Testing file input expecting specific output in java](https://external-preview.redd.it/HCe_nVaCkqfUWT8g4ztmuQLpvBa2aT-50FNpiTFjSxY.jpg?auto=webp&s=6ff522e25df43cf5dcbfad06bed05231ec40be8c "Testing file input expecting specific output in java")
+
+
+[Testing file input expecting specific output in java](https://www.reddit.com/r/programming/comments/nolsmd/testing_file_input_expecting_specific_output_in/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Media spread fear, Americans listen](https://thehill.com/sites/default/files/deepfakes_011819istock.jpg "Media spread fear, Americans listen")
+
+
+[Media spread fear, Americans listen](https://thehill.com/opinion/technology/556160-media-spread-fear-americans-listen)
+
+
+> Too many Americans live in fear today. Continued fear of COVID. Fear of the police. Fear of being cancelled by social media mobs. Fear of extremism. Fear of Russia. Fear of the 'existential threat' of climate change. Fear of fear, itself.Americans are fearful in large part because too many establishment media provide a constant drumbeat of frightful shadows that send news consumers looking for places to hide their heads. Stories of woe permeate today's media messaging, seldom with nuanced reporting that puts threats in proper context.
+
+
+***
+![Instagram making changes to its algorithm after it was accused of censoring pro-Palestinian content](https://external-preview.redd.it/PAsEr9ZsWDnvpKf-UwrCfEk-0QKOZ5IbCGZjVrtERy8.jpg?auto=webp&s=e3a2a7aa014a4f045e527d862568de33588b4d7a "Instagram making changes to its algorithm after it was accused of censoring pro-Palestinian content")
+
+
+[Instagram making changes to its algorithm after it was accused of censoring pro-Palestinian content](https://www.reddit.com/r/technology/comments/nolhvl/instagram_making_changes_to_its_algorithm_after/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
+***
+![How to see a photo NASA's Hubble telescope took on your birthday](https://mondrian.mashable.com/2021%252F05%252F30%252Fa4%252Ffc9e51ca47aa491688385e3ed2f9ec00.a20d1.jpg%252F1200x630.jpg?signature=I0903k4ZsgJrs-SnHBWwVPseZJs= "How to see a photo NASA's Hubble telescope took on your birthday")
+
+
+[How to see a photo NASA's Hubble telescope took on your birthday](https://mashable.com/article/how-to-see-hubble-photo-from-your-birthday/)
+
+
+> The Hubble Space Telescope is one of the most illuminating and awe-inspiring inventions, capturing the beauty of the universe with its massive lenses as it orbits the Earth day in and day out. The telescope run jointly by NASA and ESA has been almost constantly in operation since it launched in April 1990, taking in galaxies and nebulae and all sorts of far-away space objects. No matter when your birthday lands on the calendar (except if it's on Leap Day, sorry), Hubble has an impressive image that it captured on one of those days over the last 31 years.
+
+
