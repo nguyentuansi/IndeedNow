@@ -16130,3 +16130,50 @@
 > It is a terrible disease that can survive only when the eyeballs are removed if symptoms appear in the eyes with a 50% mortality rate, and hairy mildew that has affected India. Although it is a rare disease, it is said that there are cases of outbreaks in Korea. It is a terrible disease that can survive only when the eyeballs are removed if symptoms appear in the eyes with a 50% mortality rate, and hairy mildew that has affected India. Although it is a rare disease, it is said that there are cases of outbreaks in Korea.
 
 
+***
+[Share This Page](https://www.reddit.com/r/programming/comments/no59qk/share_this_page/)
+
+
+> Just a really fun collection of time wasting little widgets, calculators, gizmos and more. Check it out. But be careful, it's addictive.
+
+
+***
+![Amazon's Mobile Mania sale starts today in Saudi Arabia](https://cdn.mos.cms.futurecdn.net/SPW6d95YanSeGiBYiPKuHN-1200-80.jpg "Amazon's Mobile Mania sale starts today in Saudi Arabia")
+
+
+[Amazon's Mobile Mania sale starts today in Saudi Arabia](https://www.techradar.com/deals/amazons-mobile-mania-sale-starts-today-in-saudi-arabia)
+
+
+> (Image credit: Amazon) Amazon's Mobile Mania sale has begun in Saudi Arabia and the UAE on May 27 and it's your chance to grab some exciting deals on electronics, gadgets and appliances. We're tracking the event to get you the best deals and offers on all things tech.The Mobile Mania sale starts on May 28 and ends on May 31. However, the sale begins one day in advance on May 27 exclusively for Amazon Prime customers. Non-Prime customers will be able to grab these deals on May 28 starting at 12 am, while Prime members grab the deals from 11:00 am to 11:00 pm.
+
+
+***
+![Smartphone shipments to reach 1.38 bn in 2021, highest since 2015](https://bsmedia.business-standard.com/_media/bs/img/article/2020-08/20/full/1597942841-0759.jpg "Smartphone shipments to reach 1.38 bn in 2021, highest since 2015")
+
+
+[Smartphone shipments to reach 1.38 bn in 2021, highest since 2015](https://www.business-standard.com/article/technology/smartphone-shipments-to-reach-1-38-bn-in-2021-highest-since-2015-121053000203_1.html)
+
+
+> The shipments of smartphones are forecast to reach 1.38 billion units globally in 2021, an increase of 7.7 per cent over 2020 and its highest-ever level since 2015, a new report has showed. This trend is expected to continue into 2022, when year-over-year growth will be 3.8 per cent with shipments reaching 1.43 billion, according to International Data Corporation's (IDC) 'Worldwide Quarterly Mobile Phone Tracker'. "Smartphones are seeing competition for consumer spending from adjacent markets like PCs, tablets, TVs, and smart home devices, yet that hasn't slowed the market's path to recovery," said Ryan Reith, program vice president with IDC's Worldwide Mobile Device Trackers.
+
+
+***
+![North Korea Executes Man For Video Piracy](https://external-preview.redd.it/XhVTCH5y7TtpOeWF1mwxqCono-dPC_wuQgw0vmJ9xL8.jpg?auto=webp&s=1905483eb9ffb86cc401b4558e8f319d8b0d34d5 "North Korea Executes Man For Video Piracy")
+
+
+[North Korea Executes Man For Video Piracy](https://www.reddit.com/r/technology/comments/no4ztl/north_korea_executes_man_for_video_piracy/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Twitter may soon add Facebook-like tweet reactions, new icons spotted for Cheer, Sad, and Haha reactions](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/cell-phone-1245663_1920_0-483x271_1200_210530120508.jpeg "Twitter may soon add Facebook-like tweet reactions, new icons spotted for Cheer, Sad, and Haha reactions")
+
+
+[Twitter may soon add Facebook-like tweet reactions, new icons spotted for Cheer, Sad, and Haha reactions](https://www.businesstoday.in/technology/twitter-may-soon-add-facebook-like-tweet-reactions-new-icons-spotted-for-cheer-sad-and-haha-reactions/story/440360.html)
+
+
+> Highlights Twitter, two months back, had asked users for their opinions on the possibility of having more than just the Like to react to tweets. Now according to a reliable tipster, Twitter is testing a Facebook-like social media reaction system. However, a notable differentiation is the replacement of the Angry reaction available on Facebook with Hmmm on Twitter. According to a new report, Twitter might be taking inspiration from Facebook to implement a brand-new feature. The microblogging platform is copying, or to some extent getting inspiration from, Facebook's social media reaction system.
+
+
