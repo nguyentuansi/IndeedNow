@@ -16403,3 +16403,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![How to get rid of personalized recommendations on Chromecast with Google TV](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/google-tv-apps-only-mode.jpg "How to get rid of personalized recommendations on Chromecast with Google TV")
+
+
+[How to get rid of personalized recommendations on Chromecast with Google TV](https://www.androidcentral.com/how-get-rid-personalized-recommendations-chromecast-google-tv)
+
+
+> Source: Ara Wagoner / Android Central The Chromecast with Google TV has a new Google TV layout that, for the most part, is quite excellent. All your apps are close at hand, it's easy to browse for shows or films from your favorite genres, and Google Assistant means that any show or movie is just a voice command away. This is one of the many reasons the Chromecast with Google TV is one of the best streaming devices, but if you're not a fan of being constantly bombarded with Google TV's recommendations — especially on a shared device where those recommendations might be skewed — here's how to turn off personalized recommendations and enter apps only mode on Google TV.
+
+
+***
+![A rogue killer drone 'hunted down' a human target without being instructed to, UN report says](https://external-preview.redd.it/MUBhocT25zyByX5l8rn6coSskDfFih99uawOuTXbU_I.jpg?auto=webp&s=45a17afcf14664174e119dfb9b89569d3a6b7f9d "A rogue killer drone 'hunted down' a human target without being instructed to, UN report says")
+
+
+[A rogue killer drone 'hunted down' a human target without being instructed to, UN report says](https://www.reddit.com/r/technology/comments/nohih3/a_rogue_killer_drone_hunted_down_a_human_target/)
+
+
+> Is this title not misleading? The contents of the article do not support the suggestion that the drone had gone rogue but was operating within its design parameters.If this is standard for Business Insider articles, please join me in downvoting every one of their articles on sight from now on, alongside The Independent who does the exact same thing with their titles.
+
+
+***
+![Hubble captures a luminous spiral galaxy looking all chill and relaxed](https://mondrian.mashable.com/2021%252F05%252F30%252Faf%252Fed9dd45ecf384e07afb58fd1f413cc05.11517.png%252F1200x630.png?signature=g6BoydwFeWuNzRVU_aouAqUMTu8= "Hubble captures a luminous spiral galaxy looking all chill and relaxed")
+
+
+[Hubble captures a luminous spiral galaxy looking all chill and relaxed](https://mashable.com/article/hubble-sprial-galaxy/)
+
+
+> Swirling around in the Virgo constellation, the Hubble Space Telescope captured a look at the spiral galaxy NGC 5037, NASA shared on Friday. Located roughly 150 million light-years away from Earth, the galaxy was first documented by astronomer and musical composer William Herschel in 1785. This new, incredibly detailed image of the galaxy is a composite of images taken with Hubble's Wide Field Camera 3. The full image shows NGC 5037 encased in a wide, bold border of dark space. The full image of NGC 5037 reveals a broader look at the galaxy's surroundings, a largely black abyss with a smattering of distant lights.
+
+
+***
+![Tech titan Microsoft inks pact to safeguard Qatar's heritage and historical artefacts](https://sm.mashable.com/t/mashable_me/photo/default/shutterstock-1824070562_dr4j.1200.jpg "Tech titan Microsoft inks pact to safeguard Qatar's heritage and historical artefacts")
+
+
+[Tech titan Microsoft inks pact to safeguard Qatar's heritage and historical artefacts](https://me.mashable.com/tech/14063/tech-titan-microsoft-inks-pact-to-safeguard-qatars-heritage-and-historical-artefacts)
+
+
+> The Middle East has had a rich history and cultural heritage which has largely gone unnoticed because of limited exposure on a global scale. But tech tools and digital initiatives have not only enabled researchers to decode regional mysteries like Egyptian mummies and ancient scrolls, but have also allowed global scholars to learn more about the Arab world's past. The Middle East's literature and historic documents have become accessible to people through digital platforms, and travelers even have games to explore historic parts of cities like Dubai.
+
+
+***
+![Should I be worried?](https://forums.macrumors.com/attachments/406acfa0-108f-4116-9d2c-a1059c1bd097-png.1784216/ "Should I be worried?")
+
+
+[Should I be worried?](https://forums.macrumors.com/threads/should-i-be-worried.2298530/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
