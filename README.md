@@ -16177,3 +16177,53 @@
 > Highlights Twitter, two months back, had asked users for their opinions on the possibility of having more than just the Like to react to tweets. Now according to a reliable tipster, Twitter is testing a Facebook-like social media reaction system. However, a notable differentiation is the replacement of the Angry reaction available on Facebook with Hmmm on Twitter. According to a new report, Twitter might be taking inspiration from Facebook to implement a brand-new feature. The microblogging platform is copying, or to some extent getting inspiration from, Facebook's social media reaction system.
 
 
+***
+![McDonald's bets W10 billion on BTS](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/33d811b46cb14592bf65228ceaca6e1a.jpg "McDonald's bets W10 billion on BTS")
+
+
+[McDonald's bets W10 billion on BTS](https://www.koreatimes.co.kr/www/tech/2021/05/694_309646.html)
+
+
+> BTS fans take photos with The BTS Meal at a McDonald's in Seoul on May 27. / Korea Times photo by Hong In-keeBy Kim Jae-heunMcDonald's has recently introduced its latest celebrity menu collaboration with BTS. BTS, which CNN called "the biggest boy band in the world" in 2019, is one of the most expensive celebrity spokesmodels at the same time.For domestic endorsements only, the boy band is paid between 3 billion won ($2.69 million) and 5 billion won ($4.48 million), according to an industry source.
+
+
+***
+![Amid THAAD fuss, Hyundai, SK selling key assets in China](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/6e8196c998ce4d41aeeac7b05a5f102b.jpg "Amid THAAD fuss, Hyundai, SK selling key assets in China")
+
+
+[Amid THAAD fuss, Hyundai, SK selling key assets in China](https://www.koreatimes.co.kr/www/tech/2021/05/419_309647.html)
+
+
+> Hyundai Motor and Kia Corp. headquarters in Seoul / Courtesy of Hyundai MotorBy Kim Hyun-binKorean business conglomerates are busy selling off assets in China as a series of events there have negatively impacted their businesses over the past several years. The pandemic and China's economic retaliation against the deployment of a U.S. Terminal High Altitude Area Defense (THAAD) anti-missile system in Korea deployment controversy have led to declining sales and forced Korean companies to restructure their business portfolios in China, industry officials said, Sunday.
+
+
+***
+![Photobiomodulation: A proof of concept study in Parkinson disease](https://padiracinnovation.org/News/assets/PI_logo_square.png "Photobiomodulation: A proof of concept study in Parkinson disease")
+
+
+[Photobiomodulation: A proof of concept study in Parkinson disease](https://padiracinnovation.org/News/2021/05/photobiomodulation-a-proof-of-concept-study-in-parkinson-disease)
+
+
+> Parkinson's disease is a progressive neurodegenerative disease with no cure and few treatment options. Photobiomodulation has been used successfully in animal models. A new medRxiv preprint describes a proof-of-concept clinical study to assess the efficacy of photobiomodulation in Parkinson's disease, in order to inform on treatment regimens and outcome measures for a future randomized, placebo-controlled study. Photobiomodulation therapy is the use of narrow wavelength bands of non-thermal light to modulate cellular responses.
+
+
+***
+![Best laptops for writers in 2021](https://cdn.mos.cms.futurecdn.net/LZWqZbr3no4PgyXp6nstFX-1200-80.jpg "Best laptops for writers in 2021")
+
+
+[Best laptops for writers in 2021](https://www.laptopmag.com/best-picks/best-laptops-for-writers-in-2021)
+
+
+> If you're a writer in need of a laptop to plop down on a couch and type away on during a workday, then don't worry, there are plenty of options to get the job done, each with its advantages and disadvantages. You'll typically want a laptop with a comfortable, easy-to-use keyboard, as getting through eight hours of work is even more exhausting when the machine you're writing has stiff, shallow keys. Additionally, long-lasting battery life is important for those who expect to travel often, while fast performance will assist in getting work done with few slowdowns.
+
+
+***
+![How to watch the French Open 2021: Live stream the Roland-Garros tennis](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/roland-garros-french-open.jpg "How to watch the French Open 2021: Live stream the Roland-Garros tennis")
+
+
+[How to watch the French Open 2021: Live stream the Roland-Garros tennis](https://www.androidcentral.com/french-open-2021-tennis-live-stream-how-watch-action-roland-garros-online-anywhere)
+
+
+> Can anyone stop Rafael Nadal from scoring an incredible 14th title at Roland-Garros, and will Serena Williams claim a long-awaited 24th Grand Slam? Read on for full details on how to watch French Open 2021 tennis, no matter where you are in the world. Source: Corinne Dubreuil / FFT The 125th edition of this grand slam tennis tournament sees it return to its familiar May slot in the ATP calendar, after last year's event was bumped to October last year due to the pandemic, while there will also be up to 5,388 spectators each day in attendance.
+
+
