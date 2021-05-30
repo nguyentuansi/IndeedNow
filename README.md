@@ -16030,3 +16030,53 @@
 > Japan's Renesas Electronics Corp says it will raise 218.5 billion yen ($1.99 billion) through a new share issue to help the automotive semiconductors maker fund its planned $6…
 
 
+***
+![Watch: Georgetown Students Sign Fake Petition to Cancel Memorial Day over 'American Imperialism'](https://media.breitbart.com/media/2019/02/White-students-raise-the-_black-power_-fist.jpg "Watch: Georgetown Students Sign Fake Petition to Cancel Memorial Day over 'American Imperialism'")
+
+
+[Watch: Georgetown Students Sign Fake Petition to Cancel Memorial Day over 'American Imperialism'](https://www.breitbart.com/tech/2021/05/29/watch-georgetown-students-sign-fake-petition-to-cancel-memorial-day-over-american-imperialism/)
+
+
+> Georgetown University students recently signed a fake petition to cancel Memorial Day due to its celebration of 'American imperialism.' One student said he 'didn't really think of it in this way' until he got to college and took 'Women's and Gender Studies classes,' which put him on a 'fuck the U.S.' path in life. Campus Reform's Addison Smith went to Georgetown University to conduct a social experiment to see if students would be willing to sign a fake petition seeking to abolish Memorial Day over alleged 'American imperialism.
+
+
+***
+![GPG-Tui, a Terminal User Interface for GnuPG](http://orhun.dev/images/orhun.png "GPG-Tui, a Terminal User Interface for GnuPG")
+
+
+[GPG-Tui, a Terminal User Interface for GnuPG](http://orhun.dev/blog/introducing-gpg-tui/)
+
+
+> https://github.com/orhun/gpg-tui Background GnuPG is a well-known implementation of the OpenPGP standard which is been used for years in various communities and projects. It's also known as 'GPG', which is the name of the command line tool that makes it easier to integrate with other applications. It is battle-tested over the years and has a wealth of frontend applications and libraries. My past with GnuPG is roughly the same with an ordinary developer who is into programming, open source, and related concepts.
+
+
+***
+![New Apple remote (2021) and Apple TV 4K 2021 will turn AVR on but not off](https://images.macrumors.com/social/?t=2298462&v=6 "New Apple remote (2021) and Apple TV 4K 2021 will turn AVR on but not off")
+
+
+[New Apple remote (2021) and Apple TV 4K 2021 will turn AVR on but not off](https://forums.macrumors.com/threads/new-apple-remote-2021-and-apple-tv-4k-2021-will-turn-avr-on-but-not-off.2298462/)
+
+
+> I got the new $K Apple TV 2021 and remote. Connected to a DENON AVR (2020 model) and from there to a SAMSUNG TV (also 2020 model) HDMI-CEC is turned as well as ARC return. It actually works great turning it on. The new SIRI remote turns TV on, turns on and sets the DENON AVR to the correct input and controls sound. However, when I click the power OFF, the TV and Apple TV device go off, but the DENON remains ON. Tried this over and over. The HDMI cables are both new model 8K highly rated. Any ide
+
+
+***
+![Movie recommendations will not go away](https://images.macrumors.com/social/?t=2298460&v=6 "Movie recommendations will not go away")
+
+
+[Movie recommendations will not go away](https://forums.macrumors.com/threads/movie-recommendations-will-not-go-away.2298460/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. On my Apple TV 4K 2021, the Movie Recommendation TAB within iTunes Movies has a bunch of movies there. I cannot make these go away. Some are irrelevant and strange. I have my second Apple TV (4k 2017 with the exact same problem) It says on two entries: because you watched XXXXX (I did not). No one else uses these Apple TVs or the account.
+
+
+***
+![What programming language should you learn?](https://external-preview.redd.it/3J5gniNFsqouBT22i7rCCYDn66nPjjYD2-qb399j8ts.jpg?auto=webp&s=dff7be56f4c74008b3159b1fed2662ead4ef1a44 "What programming language should you learn?")
+
+
+[What programming language should you learn?](https://www.reddit.com/r/programming/comments/nnztvh/what_programming_language_should_you_learn/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
