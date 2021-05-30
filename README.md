@@ -16453,3 +16453,53 @@
 > Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+![Is it safe to remove the cable of external HDD while it is spinning?](https://images.macrumors.com/social/?t=2298534&v=6 "Is it safe to remove the cable of external HDD while it is spinning?")
+
+
+[Is it safe to remove the cable of external HDD while it is spinning?](https://forums.macrumors.com/threads/is-it-safe-to-remove-the-cable-of-external-hdd-while-it-is-spinning.2298534/)
+
+
+> I have a problem. I insert my external HDD to my MacBook pro. I use it and press eject (in most of the cases it does not eject because it says that something is still using HDD, so almost all the time I have to restart my mac in order to eject it). But the HDD is still spinning even though it is not mounted. Is it safe to remove the HDD cable from my mac if the HDD is still spinning? This problem persists with different models of external HDDs. I tried at least 3. As long as the drive is not actively mounted and being read by the Mac, you should be ok disconnecting it.
+
+
+***
+![How to zoom out on an Apple Watch](https://mondrian.mashable.com/2021%252F05%252F30%252F99%252F0fb217b1fe2f4df292d34e7de8f0a939.6962a.jpg%252F1200x630.jpg?signature=XzJdBmcwdm9Sy-V6I_J2jFnkx70= "How to zoom out on an Apple Watch")
+
+
+[How to zoom out on an Apple Watch](https://mashable.com/article/how-to-unzoom-on-an-apple-watch/)
+
+
+> There are two types of Apple Watch users: Those who have the zoom feature turned on and those who have it turned off.  If you're the type who needs to see content up close, then you might find the Apple Watch's display stuck on magnified mode at some point while using it. Don't worry, getting back to full view is as simple as tapping on the display.  Here's how to zoom out on your Apple Watch display. Double-tap with two fingers  Zooming out on the Apple Watch is as simple as zooming in — all you have to do is tap the display twice with two fingers.
+
+
+***
+![The easy joy of Supernatural's VR workouts](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/05/supernatural-vr-hero.jpg "The easy joy of Supernatural's VR workouts")
+
+
+[The easy joy of Supernatural's VR workouts](https://www.androidcentral.com/easy-joy-supernaturals-vr-workouts)
+
+
+> Source: Android Central The first time I worked out in VR, it happened by accident. I emerged from my first session of Beat Saber, wide-blinking and dripping with sweat, having just unboxed an Oculus Quest 2 an hour earlier, my only previous VR experience a few years earlier with the now-forgotten Google Daydream. As editor of this website, I read a lot about VR — we cover the best Oculus Quest 2 games and accessories extensively — but I didn't expect to fall as hard, and as quickly, for it as I did.
+
+
+***
+![The easy joy of Supernatural's VR hard workouts](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/05/supernatural-vr-hero.jpg "The easy joy of Supernatural's VR hard workouts")
+
+
+[The easy joy of Supernatural's VR hard workouts](https://www.androidcentral.com/easy-joy-supernaturals-vr-workouts)
+
+
+> Source: Android Central The first time I worked out in VR, it happened by accident. I emerged from my first session of Beat Saber, wide-blinking and dripping with sweat, having just unboxed an Oculus Quest 2 an hour earlier, my only previous VR experience a few years earlier with the now-forgotten Google Daydream. As editor of this website, I read a lot about VR — we cover the best Oculus Quest 2 games and accessories extensively — but I didn't expect to fall as hard, and as quickly, for it as I did.
+
+
+***
+![The Age of Autonomous Killer Robots May Already Be Here](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dca2c6eb2c05d71e386bb0b4cdb8c47b.jpg "The Age of Autonomous Killer Robots May Already Be Here")
+
+
+[The Age of Autonomous Killer Robots May Already Be Here](https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471)
+
+
+> Photo: Bruce Bennett (Getty Images)A 'lethal' weaponized drone 'hunted down' and 'remotely engaged' human targets without its handlers' say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week. Whether there were any casualties remains unclear, but if confirmed, it would likely be the first recorded death carried out by an autonomous killer robot.In March 2020, a Kargu-2 attack quadcopter, which the agency called a 'lethal autonomous weapon system,' targeted retreating soldiers and convoys led by Libyan National Army's Khalifa Haftar during a civil conflict with Libyan government forces.
+
+
