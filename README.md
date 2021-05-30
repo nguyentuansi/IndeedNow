@@ -16080,3 +16080,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![How to Maintain 100 Percent iPhone Battery Health, According to Apple](https://i.gadgets360cdn.com/large/iphone_12_pro_max_review_cover_1606199523181.jpg "How to Maintain 100 Percent iPhone Battery Health, According to Apple")
+
+
+[How to Maintain 100 Percent iPhone Battery Health, According to Apple](https://gadgets.ndtv.com/how-to/features/iphone-battery-tips-from-apple-maintain-100-percent-health-maximise-performance-life-lifespan-steps-guide-2451418)
+
+
+> Apple typically offers good battery life with its devices be it iPhone, iPad, Mac, Apple Watch models, or others. However, in the past, Apple has been accused of intentionally slowing down iPhone models with ageing batteries, and it recently paid $113 million (roughly Rs. 819 crores) to settle the BatteryGate case. While Apple believes this was to preserve battery health over long term use, it has since then introduced battery and performance management features to users, apart from sharing tips and recommendations to maintain battery health.
+
+
+***
+![Underrated 12 year old coder makes an app to find a keyword in a book in real life -](https://external-preview.redd.it/KWP-n0nRx3_s0Qo54Viu1SdTKDL6bgZnB5Fox9eqg0g.jpg?auto=webp&s=2f39b9df5ad9bcb2e71b66ee419491b18859a860 "Underrated 12 year old coder makes an app to find a keyword in a book in real life -")
+
+
+[Underrated 12 year old coder makes an app to find a keyword in a book in real life -](https://www.reddit.com/r/programming/comments/no3bk5/underrated_12_year_old_coder_makes_an_app_to_find/)
+
+
+> This guy only has 64 subs, he deserves a little more.
+
+
+***
+![Facebook's empty promise of hiding 'Likes': Users will make the final choice on seeing 'Likes' in their feeds.](https://external-preview.redd.it/ZguBc6CWBMYKQi1y2EkSc40TXngMpyyeM1hqFXSRgCY.jpg?auto=webp&s=4ed922100fe96d9903ecb9a34d10433ab06c7ad1 "Facebook's empty promise of hiding 'Likes': Users will make the final choice on seeing 'Likes' in their feeds.")
+
+
+[Facebook's empty promise of hiding 'Likes': Users will make the final choice on seeing 'Likes' in their feeds.](https://www.reddit.com/r/technology/comments/no33hl/facebooks_empty_promise_of_hiding_likes_users/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Samsung Electronics receives awards for eco-friendly packaging](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202105/dd4265c24da84c2e8e8032cfb0cbbac5.jpg "Samsung Electronics receives awards for eco-friendly packaging")
+
+
+[Samsung Electronics receives awards for eco-friendly packaging](https://www.koreatimes.co.kr/www/tech/2021/05/693_309625.html)
+
+
+> Samsung Electronics' eco-friendly packaging for the Galaxy S21 series (left) and eco-friendly, high-resolution monitor packaging (right). Courtesy of Samsung ElectronicsBy Kim Hyun-binSamsung Electronics has won two awards at the KOREA STAR AWARDS 2021, hosted by the Korea Institute of Industrial Technology. The company received the "minister prize" from the Ministry of Trade, Industry and Energy, for its paper packaging of high resolution monitors, and it received the "chairperson award" from the Korea Packaging Organization for its Galaxy 21 packaging.
+
+
+***
+![50% mortality rate of infected people in Korea as well](https://img.sbs.co.kr/newimg/news/20210527/201555271_1280.jpg "50% mortality rate of infected people in Korea as well")
+
+
+[50% mortality rate of infected people in Korea as well](https://www.tellerreport.com/tech/2021-05-30-50%-mortality-rate-of-infected-people-in-korea-as-well.Sy-3oAtx5O.html)
+
+
+> It is a terrible disease that can survive only when the eyeballs are removed if symptoms appear in the eyes with a 50% mortality rate, and hairy mildew that has affected India. Although it is a rare disease, it is said that there are cases of outbreaks in Korea. It is a terrible disease that can survive only when the eyeballs are removed if symptoms appear in the eyes with a 50% mortality rate, and hairy mildew that has affected India. Although it is a rare disease, it is said that there are cases of outbreaks in Korea.
+
+
