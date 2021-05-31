@@ -16988,3 +16988,50 @@
 > Digital Trends may earn a commission when you buy through links on our site. It's easy to argue for the superiority of desktops PCs over laptops when you're sitting at a computer for hours on end, but even old-school techies must admit that desktop towers take up a lot of space. If your desk's real estate comes at a premium, however, then a good mini PC like Apple's Mac Mini is a great middle ground that combines the comfort and versatility of a desktop machine with a tiny footprint. Better still? These small computers are one of the most affordable ways to get into the MacOS software ecosystem.
 
 
+***
+![Play the best NES and SNES games with a Nintendo Switch Online membership](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/nintendo-switch-online-nes-games.jpg "Play the best NES and SNES games with a Nintendo Switch Online membership")
+
+
+[Play the best NES and SNES games with a Nintendo Switch Online membership](https://www.imore.com/best-nes-and-snes-games-nintendo-switch-online)
+
+
+> Source: Nintendo A subscription to Nintendo Switch Online is necessary if you want to take full advantage of the multiplayer functions in some of the best Nintendo Switch games, but the service also provides plenty of other perks. Along with letting you keep your save data safe with cloud backups, it provides access to more than 80 NES and SNES games. The selection has been regularly updated since the service launched with 20 NES titles. If you want to make the most out of your membership, these are the best NES and SNES games on Nintendo Switch Online.
+
+
+***
+[My personal definitive guide to (java)Exceptions](https://www.reddit.com/r/programming/comments/npcnun/my_personal_definitive_guide_to_javaexceptions/)
+
+
+> THE PROPER WAY TO HANDLE EXCEPTIONS IN JAVA SHOULD BE TO DO ABSOLUTELY NOTHING AND LET THEM BUBBLE UP TO THE PROPER CATCH SITE.That's like saying the right way to handle events in Javascript is to let them bubble up.Exceptions and events are meant to be a closed loop. If you throw or re-throw an Exception you must have some idea of where the loop will close. If you don't know where the loop closes, you're a user, not a programmer.This sub is goddamned littered with posts from users: users of APIs, users of released applications, users of frameworks, users of scripting languages.
+
+
+***
+![3 of the best laptops for drawing](https://bloximages.newyork1.vip.townnews.com/newsadvance.com/content/tncms/assets/v3/editorial/d/b8/db8fdae3-5f65-575e-b4ed-224c51560946/60ad14c6e75e5.preview.jpg?crop=635%2C357%2C0%2C31&resize=635%2C357&order=crop%2Cresize "3 of the best laptops for drawing")
+
+
+[3 of the best laptops for drawing](https://news.lee.net/lifestyles/technology/3-of-the-best-laptops-for-drawing/article_a80637b3-a19a-5be0-a0e0-0f9e9ce93b5b.html)
+
+
+> 3 of the best laptops for drawing Professional artists and casual drawing enthusiasts alike can create digital masterpieces with the right laptop, with the ability to draw on a touchscreen included in many new machines. At price points ranging from $400 basic models to $2,500 supreme processors, you can find the drawing laptop that's right for you. Here are seven features to consider when shopping for a drawing laptop.Graphics processing and memory‌: The laptop's graphics processing power is extremely important.
+
+
+***
+![X-Men's Brood Are What Brood X Nightmares Are Made Of](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/08cce064eb6d5028af60c996acb02612.png "X-Men's Brood Are What Brood X Nightmares Are Made Of")
+
+
+[X-Men's Brood Are What Brood X Nightmares Are Made Of](https://gizmodo.com/x-mens-brood-are-what-brood-x-nightmares-are-made-of-1846976520)
+
+
+> A member of the Brood.Image: Leinil Francis Yu, Sunny Gho/MarvelPeople's longstanding fear of swarming insects like cicadas is enshrined in our pop culture. For years we've reimagined bugs as everything from larger-than-life creatures poised to take over the planet to hyper-intelligent mimics hellbent on supplanting humanity. Now, with millions of the United States' Brood X cicadas digging their way out of the ground, it's a perfect time to revisit the X-Men's most recent encounter with the Brood.
+
+
+***
+![20 Memorial Day Deals to Spruce Up Your Smart Home](https://media.wired.com/photos/5fd7e3d9b4a3d4830bec95b0/191:100/w_1280,c_limit/Gear-Roku-Ultra-2020-SOURCE-Roku.jpg "20 Memorial Day Deals to Spruce Up Your Smart Home")
+
+
+[20 Memorial Day Deals to Spruce Up Your Smart Home](https://www.wired.com/story/smart-home-deals-memorial-day-2021-1)
+
+
+> Are you trying to outfit your house in cameras and lights that you can control with your voice? Or do you just want to make vacuuming, cooking, and streaming content a little easier? Either way, there's a bunch of Memorial Day sales this weekend on products that can make your home a little smarter. We also have dedicated coverage of the Best Memorial Day Mattress Deals, Absolute Best Memorial Day Sales, and Best REI Anniversary Sale Deals. We'll update this roundup over the weekend.Updated May 31, 2021: We removed expired deals and added the Tile Mate.
+
+
