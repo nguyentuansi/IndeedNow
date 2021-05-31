@@ -16553,3 +16553,53 @@
 > The Hubble Space Telescope is one of the most illuminating and awe-inspiring inventions, capturing the beauty of the universe with its massive lenses as it orbits the Earth day in and day out. The telescope run jointly by NASA and ESA has been almost constantly in operation since it launched in April 1990, taking in galaxies and nebulae and all sorts of far-away space objects. No matter when your birthday lands on the calendar (except if it's on Leap Day, sorry), Hubble has an impressive image that it captured on one of those days over the last 31 years.
 
 
+***
+![Musk caught out as Tesla truth exposed](https://content.api.news/v3/images/bin/26aa6cde8180cccd5380fc5c0ca3fd68 "Musk caught out as Tesla truth exposed")
+
+
+[Musk caught out as Tesla truth exposed](https://www.news.com.au/technology/motoring/motoring-news/musk-caught-out-as-tesla-in-car-camera-truth-exposed/news-story/5ef0ed8f4dd3e5b89493a01547e4bae0)
+
+
+> When Tesla customers questioned the purpose of a new in-car camera, company founder Elon Musk assured them they were not being watched.Tesla has revealed the true purpose of a driver-facing camera in new Tesla Model 3 electric cars – and it's not what company founder Elon Musk originally claimed.A lens mounted near the rear-view mirror monitors driver behaviour, making sure motorists pay attention to the road ahead. The development could help address safety concerns after the deaths of customers who may have relied too heavily on its 'autopilot' driver assistance features.
+
+
+***
+![Can someone please help me with this tic tac toe game I am making? I need to use a min-max algorithm to simulate a computer player but I don't get what's wrong with it](https://external-preview.redd.it/QgPvRTknlY3rMNDqH1k4I37XGiq9tZF_FsygC_Xht4o.jpg?auto=webp&s=8cd5e918e2bde6ca72d4445d6fc007f203689799 "Can someone please help me with this tic tac toe game I am making? I need to use a min-max algorithm to simulate a computer player but I don't get what's wrong with it")
+
+
+[Can someone please help me with this tic tac toe game I am making? I need to use a min-max algorithm to simulate a computer player but I don't get what's wrong with it](https://www.reddit.com/r/programming/comments/nooms3/can_someone_please_help_me_with_this_tic_tac_toe/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Google buried location settings so people wouldn't disable them, court docs claim](https://external-preview.redd.it/pmc_bfcZIy0NyChaWC0g2SR6S9pCqSDR89ibEa8q2Ok.jpg?auto=webp&s=98b783ff4bfa3c94ad9c45b96115de6d969439cf "Google buried location settings so people wouldn't disable them, court docs claim")
+
+
+[Google buried location settings so people wouldn't disable them, court docs claim](https://www.reddit.com/r/technology/comments/noolon/google_buried_location_settings_so_people_wouldnt/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Explained: How the monitoring tool works to identify online pirated content](https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/30/full/1622395825-3789.jpg "Explained: How the monitoring tool works to identify online pirated content")
+
+
+[Explained: How the monitoring tool works to identify online pirated content](https://www.business-standard.com/article/technology/explained-how-the-monitoring-tool-works-to-identify-online-pirated-content-121053000922_1.html)
+
+
+> In mid-May, when the much anticipated Salman Khan-starrer Radhe: Your Most Wanted Bhai launched on a streaming platform, non-subscribers of the service found that they could easily download it on Telegram channels and WhatsApp groups. This was also the case with the Varun Dhawan-starrer Coolie No.1, which released in December. With cinema halls remaining shut during the ongoing pandemic, Indian film-makers took to Over the Top (OTT) or streaming service-first releases. While this has increased access and convenience for viewers, piracy of original content — whether movies or .
+
+
+***
+!['Mumbai model' demonstrates how tech can facilitate battle against Covid-19](https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/30/full/1622394349-9395.jpg "'Mumbai model' demonstrates how tech can facilitate battle against Covid-19")
+
+
+['Mumbai model' demonstrates how tech can facilitate battle against Covid-19](https://www.business-standard.com/article/technology/mumbai-model-demonstrates-how-tech-can-facilitate-battle-against-covid-19-121053000901_1.html)
+
+
+> One of the biggest lessons for cities fighting the Covid-19 pandemic has been the criticality of access to data. Mumbai, which has shown significant success in managing the second wave of the pandemic, is a case in point. The 'Mumbai model' demonstrates how technology can facilitate the battle against the dreaded Covid-19. The Municipal Corporation of Greater Mumbai (MCGM), also known as BMC, is the governing civic body of Mumbai, and is divided into 24 wards. Like most municipal corporations across the country, the BMC, too, was monitoring the Covid-19 outbreak manually when it .
+
+
