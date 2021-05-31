@@ -16700,3 +16700,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Best Memorial Day phone deals and sales for 2021](https://icdn.digitaltrends.com/image/digitaltrends/bfcm2020_smartphone_201106.jpg "Best Memorial Day phone deals and sales for 2021")
+
+
+[Best Memorial Day phone deals and sales for 2021](https://www.digitaltrends.com/dtdeals/best-memorial-day-phone-deals-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Memorial Day has arrived, and along with that sweet three-day weekend, people are looking forward to the annual Memorial Day sales that herald the beginning of the summer shopping season. It's a particularly great time to buy both new and last-gen tech, and if you're in the market for a fresh mobile device, then Memorial Day phone sales are your chance to save big. Let us make your search easier with this all-in-one roundup of the best Memorial Day phone deals available right now, which includes discounts on Apple iPhones, Samsung Galaxy devices, and more.
+
+
+***
+![Google Photos free unlimited storage ends on June 1: What it means, what to do next and how to backup your precious memories](https://images.financialexpress.com/2021/05/google-photos1.jpg "Google Photos free unlimited storage ends on June 1: What it means, what to do next and how to backup your precious memories")
+
+
+[Google Photos free unlimited storage ends on June 1: What it means, what to do next and how to backup your precious memories](https://www.financialexpress.com/industry/technology/google-photos-free-unlimited-storage-ends-on-june-1-what-it-means-what-to-do-next-and-how-to-backup-your-precious-memories/2262225/)
+
+
+> By: Pratishtha Nangia | May 31, 2021 2:15 PMStarting June 1, Google will start putting a cap of 15GB for your files across Google Photos, Drive and Gmail. (Photo credit: Pratishtha Nangia/Financial Express)Starting June 1, the unlimited storage benefit offered by Google Photos will come to an end. The company has restricted the access to unlimited storage feature for backups on Google Photos and put a cap of 15 GB. This means if this limit is exceeded, the additional storage will have to be purchased from the company.
+
+
+***
+![Leaked Video Reveals Everything About Sony's WF-1000XM4 Earbuds](https://www.androidheadlines.com/wp-content/uploads/2021/05/Sony-WF-1000XM4-leak-3.jpg "Leaked Video Reveals Everything About Sony's WF-1000XM4 Earbuds")
+
+
+[Leaked Video Reveals Everything About Sony's WF-1000XM4 Earbuds](https://www.androidheadlines.com/2021/05/leaked-video-sony-wf-1000xm4-earbuds.html)
+
+
+> The upcoming Sony WF-1000XM4 TWS earphones have leaked in an official product video. The video was apparently posted on YouTube but was later taken down. However, someone reposted it on Reddit and is still up on the platform as of this writing.The leaked video reveals pretty much everything about the new pair of earbuds from the Japanese company. Below is a summary of it. We have also attached a bunch of screenshots from the video below, in case it gets removed from Reddit as well.Sony WF-1000XM4 leaked in an official product videoThe Sony WF-1000XM4 earbuds are said to feature improved ANC (active noise cancellation) and the company is starting off with this very feature in this leaked video.
+
+
+***
+[OnePlus Nord CE 5G India launch on JUNE 10: Key specifications REVEALED](https://www.zeebiz.com/technology/mobiles/news-oneplus-nord-ce-5g-india-launch-on-june-10-key-specifications-revealed-check-all-details-here-157651)
+
+
+> OnePlus Nord CE 5G India launch: Tech giant OnePlus recently confirmed the launch date on its upcoming Nord series in India. According to the company, the OnePlus Nord CE 5G smartphone will arrive in the country on June 10.
+
+
+***
+![Realme X7 Max 5G, Smart TV 4K launched in India: Know price, specs and more](https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/31/full/1622450293-9199.jpg "Realme X7 Max 5G, Smart TV 4K launched in India: Know price, specs and more")
+
+
+[Realme X7 Max 5G, Smart TV 4K launched in India: Know price, specs and more](https://www.business-standard.com/article/technology/realme-x7-max-5g-smart-tv-4k-launched-in-india-know-price-specs-and-more-121053100597_1.html)
+
+
+> Realme on Monday launched in India the Realme X7 Max smartphone along with a two 4K LED smart televisions. The Realme X7 Max is the first smartphone in the country powered by MediaTek Dimensity 1200 system-on-chip. It is a flagship grade smartphone with super AMOLED screen of 120Hz refresh rate, stereo speakers with Hi-Res audio and Dolby Atmos support, 64-megapixel based triple camera array on the back, and 50W fast-charging capability. The Realme Smart TV 4K, on the other hand, boasts UHD screen with support for Dolby Vision and HDR10 content, DTS surround sound and Dolby Audio, and hands-free voice assistant through built-in far-field microphones.
+
+
