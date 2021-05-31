@@ -16888,3 +16888,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![I hope WWDC 2021 reveals these improvements to the Sleep app on Apple Watch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/08/apple-watch-using-sleep-app.jpg "I hope WWDC 2021 reveals these improvements to the Sleep app on Apple Watch")
+
+
+[I hope WWDC 2021 reveals these improvements to the Sleep app on Apple Watch](https://www.imore.com/three-ways-i-want-watchos-8-improve-sleep-app-apple-watch-h)
+
+
+> Source: Luke Filipowicz / iMore Sleep tracking in wearables has been around for a few years, which is why when watchOS 7 finally included some sleep tracking capabilities, I was pretty excited to see Apple's tackle on the feature. It turns out Apple decided to make the Sleep app a great tool for helping you get to sleep and stay on a sleep schedule, but it's not the most detailed when it comes to tracking. Here are three ways I want watchOS 8 to improve the Sleep app, to make the best Apple Watch even better.
+
+
+***
+![These 6 smart plugs are the best for tracking energy usage](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/07/wemo-insight-switch-lifestyle-01.jpg "These 6 smart plugs are the best for tracking energy usage")
+
+
+[These 6 smart plugs are the best for tracking energy usage](https://www.androidcentral.com/which-smart-plugs-are-best-monitoring-energy-usage)
+
+
+> Now more than ever, it's important to use energy wisely, so we've compiled a list of the best energy monitoring smart plugs available right now. Smart plugs are the best and most convenient smart home accessories for controlling devices around your home. Most typically work with both Google Assistant and Amazon Alexa and can turn almost any lamp or small appliance into a smart device you can control with your phone or just your voice. We've highlighted the best smart plugs that go the extra mile and offer energy monitoring features that let you track how much energy your favorite devices and appliances draw so that you can make the best purchase decision for your household.
+
+
+***
+![Scientists drill ‘world's deepest ocean hole' five MILES deep near site of Japan's Fukushima disaster](https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/DM_Graphic_Hole-Explainer-Comp.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Scientists drill ‘world's deepest ocean hole' five MILES deep near site of Japan's Fukushima disaster")
+
+
+[Scientists drill ‘world's deepest ocean hole' five MILES deep near site of Japan's Fukushima disaster](https://www.the-sun.com/lifestyle/tech/2989569/deepest-hole-in-ocean-japan/)
+
+
+> THE DEEPEST manmade ocean hole in the world has just been drilled off the coast of Japan. Scientists created the hole in the hope of understanding the reasons for past earthquakes better. The hole was dug using a long thin drillCredit: COURTESY OF JAMSTEC The new hole is 26,322 feet (5 miles) deep and was created on May 14. It's in the Pacific Ocean along with the Mariana Trench, which is the deepest oceanic trench on Earth. The Mariana Trench formed naturally and is 36,201 feet deep. The deepest manmade whole in the world is the Kola Superdeep Borehole, which was drilled into the Earth on the border between Russia and Norway.
+
+
+***
+![GUI Using Python With Kivy, Deploy It to APK, From Any Operating System Without Virtualbox](https://external-preview.redd.it/YI0U1jCIoUI3NH4iB7t_tf5EFiDmxInYjtk7wVOOCNQ.jpg?auto=webp&s=8cd006ad001132b6c3b59c95961728a5eb67ab68 "GUI Using Python With Kivy, Deploy It to APK, From Any Operating System Without Virtualbox")
+
+
+[GUI Using Python With Kivy, Deploy It to APK, From Any Operating System Without Virtualbox](https://www.reddit.com/r/Python/comments/np7qe0/gui_using_python_with_kivy_deploy_it_to_apk_from/)
+
+
+> Make an android app with kivy or kivymd, which also support Windows, Mac, Linux, and Raspberry pi also. This article tells you how to deploy kivy gui to apk..https://medium.com/ujjwalkar/gui-using-python-with-kivy-deploy-it-to-apk-from-any-operating-system-without-virtualbox-fe2268518286
+
+
+***
+![Italy gives Vodafone 5G deal with Huawei conditional approval](https://www.reuters.com/resizer/S9idb1t7nP8K_fDO07q2C3n3B_U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q4C5VKMMFRMWTN67UL4X2EVHVI.jpg "Italy gives Vodafone 5G deal with Huawei conditional approval")
+
+
+[Italy gives Vodafone 5G deal with Huawei conditional approval](https://www.reuters.com/technology/italy-gives-vodafone-5g-deal-with-huawei-conditional-approval-sources-2021-05-31/)
+
+
+> A view shows a Huawei logo at Huawei Technologies France headquarters in Boulogne-Billancourt near Paris, France, February 17, 2021. REUTERS/Gonzalo Fuentes/File PhotoVodafone's (VOD.L) Italian unit has secured conditional approval from Rome to use equipment made by China's Huawei in its 5G radio access network, two sources close to the matter said.Italy can block or impose tough conditions on deals involving non EU vendors under "golden powers", which have been used three times since 2012 to block foreign interest in industries deemed to be of strategic importance.
+
+
