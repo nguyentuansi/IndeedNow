@@ -16841,3 +16841,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Memorial day laptop sales 2021: today's best deals on Dell, HP, Apple, and more](https://cdn.mos.cms.futurecdn.net/ik4PkDArea8rGsMSas7zFf-1200-80.jpg "Memorial day laptop sales 2021: today's best deals on Dell, HP, Apple, and more")
+
+
+[Memorial day laptop sales 2021: today's best deals on Dell, HP, Apple, and more](https://www.techradar.com/news/memorial-day-laptop-sales-these-deals-can-save-you-up-to-dollar1300-this-weekend)
+
+
+> We've now officially arrived at the big day itself, and, as expected this year's Memorial Day laptop sales definitely don't disappoint if you're looking for a great price on a new machine.Lenovo, HP, Dell, and even Apple are some of the retailers and brands we've found excellent discounts on in today's Memorial Day laptop sales and you can see today's best deals just below. We've included discount amounts where applicable, and even a top pick for you to consider if you'd like to check out our personal recommendation.
+
+
+***
+![Shipping confetti to Stack Overflow's design system](https://external-preview.redd.it/h7bFFWjJomAbM9GUEa_lGJge6BoP6IWkCmfI_XR55Cs.jpg?auto=webp&s=929ae77f3a1993ab161fc19e2338c108346019a0 "Shipping confetti to Stack Overflow's design system")
+
+
+[Shipping confetti to Stack Overflow's design system](https://www.reddit.com/r/programming/comments/np4b3y/shipping_confetti_to_stack_overflows_design_system/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![How To Build JAMstack Site](https://external-preview.redd.it/bs6U_rdakCW3KQw9T_HiRTsAjZpjqrgClgmGUQ7Odic.jpg?auto=webp&s=163f69c5adf9bfeb26052fa48e85818ec8ad2642 "How To Build JAMstack Site")
+
+
+[How To Build JAMstack Site](https://www.reddit.com/r/programming/comments/np49kq/how_to_build_jamstack_site/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[I did the first five solutions to projecteuler.net in 15 different ways (13 different programming languages and also list comprehension / maps / generators in python and rust)](https://www.reddit.com/r/programming/comments/np48dk/i_did_the_first_five_solutions_to_projecteulernet/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Tips & Tricks Shutdown Computer with Python Script](https://external-preview.redd.it/U-qS7PaeCEhEwmCpKqBg6psZ5ivxqrLq8_7oAZe5e8w.jpg?auto=webp&s=39d7e7b2fa40ed293920d7ba24c5fdf75b1923f8 "Tips & Tricks Shutdown Computer with Python Script")
+
+
+[Tips & Tricks Shutdown Computer with Python Script](https://www.reddit.com/r/Python/comments/np46in/tips_tricks_shutdown_computer_with_python_script/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
