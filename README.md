@@ -16747,3 +16747,50 @@
 > Realme on Monday launched in India the Realme X7 Max smartphone along with a two 4K LED smart televisions. The Realme X7 Max is the first smartphone in the country powered by MediaTek Dimensity 1200 system-on-chip. It is a flagship grade smartphone with super AMOLED screen of 120Hz refresh rate, stereo speakers with Hi-Res audio and Dolby Atmos support, 64-megapixel based triple camera array on the back, and 50W fast-charging capability. The Realme Smart TV 4K, on the other hand, boasts UHD screen with support for Dolby Vision and HDR10 content, DTS surround sound and Dolby Audio, and hands-free voice assistant through built-in far-field microphones.
 
 
+***
+![How to make a password generator in C#](https://external-preview.redd.it/TfP_mqjf6ESN-zsZexNr1EF7UwM1gjIAXbRDbZOsp14.jpg?auto=webp&s=0fbbba0efc9934e33c2b00c042f02e5291e0792f "How to make a password generator in C#")
+
+
+[How to make a password generator in C#](https://www.reddit.com/r/programming/comments/np0h7a/how_to_make_a_password_generator_in_c/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Realme X7 Max First Impressions: The Race to Stay Relevant](https://i.gadgets360cdn.com/large/realme_x7_max_rear_ndtv_1622453002557.jpg "Realme X7 Max First Impressions: The Race to Stay Relevant")
+
+
+[Realme X7 Max First Impressions: The Race to Stay Relevant](https://gadgets.ndtv.com/mobiles/reviews/realme-x7-max-first-impressions-price-india-launch-dimensity-1200-2452468)
+
+
+> The new Realme X7 Max will take on recently launched and upcoming models from OnePlus, Xiaomi, and Vivo, amongst others. Less than six months after the launch of the Realme X7 and X7 Pro, this new model raises the stakes in terms of processor power and features in order to stay relevant in the sensitive sub-Rs. 30,000 segment. The Realme X7 Max is priced starting at Rs. 26,999 which is considerably lower than the Rs. 29,999 that the X7 Pro launched at, despite having a higher-end processor.The biggest update is the MediaTek Dimensity 1200 SoC, which is said to be not only more powerful but also more power efficient than the Dimensity 1000+ which powers the Realme X7 Pro (Review).
+
+
+***
+[Technology-powered Circular Economy to Propel Waste Management in the Gulf Cooperation Council](https://www.dkoding.in/press-release/technology-powered-circular-economy-to-propel-waste-management-in-the-gulf-cooperation-council/)
+
+
+> Total waste generation in the GCC is estimated to reach 163.9 million metric tons by 2025, finds Frost & Sullivan SANTA CLARA, Calif., May 31, 2021 /PRNewswire/ — Frost & Sullivan’s recent analysis, Circular Economy Redefining the GCC Waste Management Market, 2021, finds that the Gulf Cooperation Council (GCC) member nations’ aspirations for sustainability are driving… The post Technology-powered Circular Economy to Propel Waste Management in the Gulf Cooperation Council appeared first on DKODING.
+
+
+***
+![FireOS: does Amazon's software compete with Android?](https://cdn.mos.cms.futurecdn.net/fbsxjsVhcfAsg3ZkJsy96X-1200-80.jpg "FireOS: does Amazon's software compete with Android?")
+
+
+[FireOS: does Amazon's software compete with Android?](https://www.techradar.com/news/fireos-does-amazons-software-compete-with-android)
+
+
+> (Image credit: Future) Ever since Google's Android operating system debuted back in 2010, it's allowed other vendors to create their own take on it, from smartphones to tablets.Amazon has done precisely that with FireOS, curating a look that makes it known that you're in Amazon's world.It even appeared in the much-maligned Amazon Fire Phone back in 2014, which only lasted for a year before it was cancelled.However, the similarities between FireOS and Android are too many to count, but there are some use cases that could make you wonder if a Fire device could work in your household.
+
+
+***
+![#TECH: The camera-focused V21 is now available in 5G variant](https://assets.nst.com.my/images/articles/BOTSvivoV21_NSTfield_image_socialmedia.var_1622456686.jpg "#TECH: The camera-focused V21 is now available in 5G variant")
+
+
+[#TECH: The camera-focused V21 is now available in 5G variant](https://www.nst.com.my/lifestyle/bots/2021/05/694723/tech-camera-focused-v21-now-available-5g-variant)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
