@@ -16650,3 +16650,53 @@
 > Feb 17, 2007 365 47 North Las Vegas, NV. I thought, I saw something about Apple stating one password for all Apple accounts. If what I think I saw was real why when I open passwords on the iPad, it shows me a warning about using the same password multiple times for Apple? Question 2 When I open passwords on the iPad, I see security recommendations for some passwords but no such thing on the iMac? Just curious and thanks.
 
 
+***
+![Best Apple AirTag accessories: keyrings, mounts, cases and more for your tracker](https://cdn.mos.cms.futurecdn.net/k27D53t5fQkTFqW8xfMiSN-1200-80.jpg "Best Apple AirTag accessories: keyrings, mounts, cases and more for your tracker")
+
+
+[Best Apple AirTag accessories: keyrings, mounts, cases and more for your tracker](https://www.techradar.com/news/best-apple-airtag-accessories)
+
+
+> About the size of an American quarter or £2 coin, an Apple AirTag can easily slide into a purse, wallet, or pocket without a cover. Its IP67 dustproof and water-resistant coating means it should handle most daily wear and tear, with a year of battery life so it can safely remain hidden for long stretches.That being said, not everything you want to track has a convenient deep pocket. AirTag accessories like keyrings, protective cases, luggage tags, dog collars, and other containers will make it much easier to track valuables of any shape or size.
+
+
+***
+![Memorial Day Sales 2021: Best Memorial Day Deals to Shop](https://icdn.digitaltrends.com/image/digitaltrends/black-friday-deals-featured-resized.jpg "Memorial Day Sales 2021: Best Memorial Day Deals to Shop")
+
+
+[Memorial Day Sales 2021: Best Memorial Day Deals to Shop](https://www.digitaltrends.com/dtdeals/best-memorial-day-sales-2021/)
+
+
+> It's Memorial Day, and the Memorial Day sales are in full swing. But with each retailer claiming to offer the biggest discounts in town, finding the best Memorial Day deals and products worth buying will seem like an impossible task. Fortunately, Digital Trends is here to help: We're cataloging all of the best Memorial Day sales on products we recommend right here on this very page. The single best Memorial Day deal we've seen so far? We're torn between two — a massive 70-inch JVC 4K TV for $550 at Walmart, down from $900 in the Walmart Memorial Day Sale 2021; or an iPad Mini for $369 at Amazon, down $30 from $399 in the Amazon Memorial Day Sale 2021.
+
+
+***
+![Best PDF compressor in 2021: Free and paid, for Windows, Mac, Android and online](https://cdn.mos.cms.futurecdn.net/6Nf5kRK5aYUmKMee2GQ3F5-1200-80.jpg "Best PDF compressor in 2021: Free and paid, for Windows, Mac, Android and online")
+
+
+[Best PDF compressor in 2021: Free and paid, for Windows, Mac, Android and online](https://www.techradar.com/best/best-pdf-compressor)
+
+
+> The best PDF compressor makes it simple and easy to compress large PDF files into smaller and more manageable file sizes.Invented by Adobe, PDF stands for Portable Document Format. It was designed to appear exactly the same on all devices, making it the ideal file format for sharing and collaborating on PCs and laptops. What is more, PDFs are secure and easy to edit, and are supported on most hardware and software platforms.However, if you add images and graphics to a PDF, the file size can rapidly increase.
+
+
+***
+![Bibel TV Extends Capacity Agreement with SES on ASTRA 19.2 degrees East](https://mms.businesswire.com/media/20210530005045/en/881882/23/SES_Press_Release_BibelTV_image.jpg "Bibel TV Extends Capacity Agreement with SES on ASTRA 19.2 degrees East")
+
+
+[Bibel TV Extends Capacity Agreement with SES on ASTRA 19.2 degrees East](https://www.businesswire.com/news/home/20210530005045/en/Bibel-TV-Extends-Capacity-Agreement-with-SES-on-ASTRA-19.2-degrees-East)
+
+
+> May 31, 2021 02:50 AM Eastern Daylight Time LUXEMBOURG--(BUSINESS WIRE)--The Bibel TV Foundation, Germany's leading Christian-oriented free-TV station, has extended its partnership with SES in a new multi-year contract that secures additional capacity for the Foundation to broadcast its channel on SES's satellites in its prime TV neighbourhood at ASTRA 19.2 degrees East. With this multi-year agreement, viewers in the region will be able to receive Bibel TV's full programming 24 hours a day. Bibel TV will broadcast via ASTRA 19.
+
+
+***
+![Create Deepfakes in 5 Minutes](https://external-preview.redd.it/qNgcKJmaAgd06Z-yLnTAGLNsvcHs0ITWGEUHY3_Qa4M.jpg?auto=webp&s=e43eb7733fd8fbb97a9ab2bbbb68cd3fe49c5eb8 "Create Deepfakes in 5 Minutes")
+
+
+[Create Deepfakes in 5 Minutes](https://www.reddit.com/r/programming/comments/nowztn/create_deepfakes_in_5_minutes/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
