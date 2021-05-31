@@ -16794,3 +16794,50 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![New dark matter map relied on the light from millions upon millions of galaxies](https://cdn.slashgear.com/wp-content/uploads/2021/05/dark-matter-map.jpg "New dark matter map relied on the light from millions upon millions of galaxies")
+
+
+[New dark matter map relied on the light from millions upon millions of galaxies](https://www.slashgear.com/new-dark-matter-map-relied-on-the-light-from-millions-upon-millions-of-galaxies-31675239/)
+
+
+> It's hard for most of us to fathom that every star we see in the nighttime sky is another sun similar to our own. Scientists are discovering that around many of those stars are orbiting planets creating vast numbers of solar systems. There are other objects in the nighttime sky that we can't see, including dark matter. Dark matter is invisible and accounts for about 80 percent of the total matter in the universe. Scientists have been working hard for decades to learn as much as possible about dark matter and the role it plays in the universe as we know it.
+
+
+***
+[Oppo Watch 2 Series may come with THIS chipset; Check expected launch details and MORE](https://www.zeebiz.com/technology/news-oppo-watch-2-series-may-come-with-this-chipset-check-expected-launch-details-and-more-157674)
+
+
+> Oppo Watch 2 Series: Good news, after successfully launching the first Oppo Watch last year, it seems like the Chinese smartphone brand Oppo is finally ready to launch its next smartwatch series called Oppo Watch 2 Series.
+
+
+***
+![This Super-Powered Game Boy Is a Solid Placeholder for the Analogue Pocket](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ead354834f78f7e401c23cceb79d9d3d.jpg "This Super-Powered Game Boy Is a Solid Placeholder for the Analogue Pocket")
+
+
+[This Super-Powered Game Boy Is a Solid Placeholder for the Analogue Pocket](https://gizmodo.com/this-super-powered-game-boy-is-a-solid-placeholder-for-1846816509)
+
+
+> Photo: Andrew Liszewski/GizmodoIf you're still coping with the tragic news of the Analogue Pocket's release being delayed from May 2021 to later this year, I've found the perfect handheld emulator to tide you over until it arrives. The Anbernic Retro Game 351V is reminiscent of the Pocket's Game Boy-inspired design, and while its software-based emulation isn't flawless, it still provides an excellent retro gaming experience on a lovely, large screen.Note: A sample of the Anbernic Retro Game 351V was provided to Gizmodo by online retailer KeepRetro.
+
+
+***
+![Built a python library for bulk upload/download from Google Drive](https://external-preview.redd.it/vpbf1AOrAxCjO8i6Q6qYlYkWuPkzNOBK8gmfkBQUYQg.jpg?auto=webp&s=da5b3059a5cbd60307bc5c02e66920f574110bec "Built a python library for bulk upload/download from Google Drive")
+
+
+[Built a python library for bulk upload/download from Google Drive](https://www.reddit.com/r/programming/comments/np29ve/built_a_python_library_for_bulk_uploaddownload/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Let's Make It Easy. Presentation by Woody Zuill](https://external-preview.redd.it/P46u-zNf_fttUeHufKQxlzdU6pgtVOeGbkNK1Oz7T5A.jpg?auto=webp&s=820cd1e63017345552fead80db3cd38d248dbf7d "Let's Make It Easy. Presentation by Woody Zuill")
+
+
+[Let's Make It Easy. Presentation by Woody Zuill](https://www.reddit.com/r/programming/comments/np29e3/lets_make_it_easy_presentation_by_woody_zuill/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
