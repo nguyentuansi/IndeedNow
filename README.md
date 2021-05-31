@@ -16938,3 +16938,53 @@
 > A view shows a Huawei logo at Huawei Technologies France headquarters in Boulogne-Billancourt near Paris, France, February 17, 2021. REUTERS/Gonzalo Fuentes/File PhotoVodafone's (VOD.L) Italian unit has secured conditional approval from Rome to use equipment made by China's Huawei in its 5G radio access network, two sources close to the matter said.Italy can block or impose tough conditions on deals involving non EU vendors under "golden powers", which have been used three times since 2012 to block foreign interest in industries deemed to be of strategic importance.
 
 
+***
+![Best cheap external hard drive deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/western-digital-6tb-my-book-external-hard-drive.jpg "Best cheap external hard drive deals for June 2021")
+
+
+[Best cheap external hard drive deals for June 2021](https://www.digitaltrends.com/dtdeals/best-cheap-external-hard-drive-deals/)
+
+
+> Many of us recall the days when gigabytes (let alone terabytes) were unheard of, but in 2021, data storage is dirt cheap and only getting cheaper. If, like many techies, you're not too keen on trusting your digital goodies to online cloud storage — which is just someone else's computer, if we're being frank — then a good external hard drive is what you need to keep your treasures safe. Today's external HDDs are fast, reliable, and come in pretty much all sizes, from large desktop RAID arrays to palm-sized portable SSDs you can slip into a pocket.
+
+
+***
+![Best cheap wireless mouse deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/logitech-mx-master-mouse-hero1-2.jpg "Best cheap wireless mouse deals for June 2021")
+
+
+[Best cheap wireless mouse deals for June 2021](https://www.digitaltrends.com/dtdeals/best-wireless-mouse-deals/)
+
+
+> If you spend hours every day working, browsing, or even gaming on a laptop, then you're all too familiar with the frustrations of dealing with a cramped, fussy touchpad. One of the cheapest and easiest ways to enhance your productivity is by complementing your laptop setup a good wireless mouse. You don't need to spend very much here, either, but to help you save a little cash, we've rounded up all the best cheap wireless mouse deals of the month. Our picks cover everything from compact travel mice to wireless gaming mice, so whatever you need, we've got it right here.
+
+
+***
+![Best cheap wireless keyboard deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/k2-keychron-mechanical-keyboard.jpg "Best cheap wireless keyboard deals for June 2021")
+
+
+[Best cheap wireless keyboard deals for June 2021](https://www.digitaltrends.com/dtdeals/best-wireless-keyboard-deals/)
+
+
+> Laptops are great and most of us rely on them for work, school, and entertainment, but let's admit it: The built-in keyboards and touchpads aren't always fun to use for hours at a time. And in today's world of remote work, it's more important than ever that you have the right tools for the job, which includes a good keyboard. If your cramped laptop keyboard is leaving your fingers crying out for something better, read on: We've got all the best wireless keyboard deals of the month right here. These discounts feature some keyboard bundles with mice included, but if you need to buy of those separately or need some other stuff to outfit your workstation, check out these wireless mouse deals, headphone deals, and monitor deals, too.
+
+
+***
+![Best cheap wireless router deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/netgear-nighthawk-ac2600-router-top-v2.jpg "Best cheap wireless router deals for June 2021")
+
+
+[Best cheap wireless router deals for June 2021](https://www.digitaltrends.com/dtdeals/best-wireless-router-deals/)
+
+
+> For all the heavy lifting they do, wireless routers don't get a lot of love. Nevertheless, most of us rely on these humble devices for our daily internet access, and considering how essential they are in today's Wi-Fi-connected digital world, you shouldn't overlook them. The best wireless routers can greatly improve your local network's performance while potentially saving you money on ISP equipment rental fees. Better still? They don't have to cost a fortune, and to prove our point, we've rounded up all the best wireless router deals right here: Today's best wireless router deals A beginner's guide to wireless routers If you have the internet, then you almost certainly have a wireless router somewhere in your home.
+
+
+***
+![Best cheap Mac Mini deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/apple-mac-mini-2018-hands-on_10.jpg "Best cheap Mac Mini deals for June 2021")
+
+
+[Best cheap Mac Mini deals for June 2021](https://www.digitaltrends.com/dtdeals/best-cheap-mac-mini-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. It's easy to argue for the superiority of desktops PCs over laptops when you're sitting at a computer for hours on end, but even old-school techies must admit that desktop towers take up a lot of space. If your desk's real estate comes at a premium, however, then a good mini PC like Apple's Mac Mini is a great middle ground that combines the comfort and versatility of a desktop machine with a tiny footprint. Better still? These small computers are one of the most affordable ways to get into the MacOS software ecosystem.
+
+
