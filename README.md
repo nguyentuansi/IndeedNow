@@ -17035,3 +17035,53 @@
 > Are you trying to outfit your house in cameras and lights that you can control with your voice? Or do you just want to make vacuuming, cooking, and streaming content a little easier? Either way, there's a bunch of Memorial Day sales this weekend on products that can make your home a little smarter. We also have dedicated coverage of the Best Memorial Day Mattress Deals, Absolute Best Memorial Day Sales, and Best REI Anniversary Sale Deals. We'll update this roundup over the weekend.Updated May 31, 2021: We removed expired deals and added the Tile Mate.
 
 
+***
+![typecheck.macro (typescript validation library/macro) is looking for maintainers](https://external-preview.redd.it/81MJkISIcNYAk9V4wFPmaRjQZRJSJjaHWOsA8aqqTEw.jpg?auto=webp&s=285033a458f9eb9fe16e26a99a0fa316c1bdc943 "typecheck.macro (typescript validation library/macro) is looking for maintainers")
+
+
+[typecheck.macro (typescript validation library/macro) is looking for maintainers](https://www.reddit.com/r/programming/comments/npes2e/typecheckmacro_typescript_validation_librarymacro/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Cybersecurity attack hits world's largest meat supplier JBS' IT systems in the U.S. and Australia](https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/05/28/USATODAY/usatsports/MotleyFool-TMOT-f75a5397-cybersecurity-3.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp "Cybersecurity attack hits world's largest meat supplier JBS' IT systems in the U.S. and Australia")
+
+
+[Cybersecurity attack hits world's largest meat supplier JBS' IT systems in the U.S. and Australia](https://www.usatoday.com/story/tech/2021/05/31/jbs-cybersecurity-attack-top-meat-supplier/5285566001/)
+
+
+> CLOSE Prices at the gas pump are often based on these five factors, which are constantly in flux. USA TODAYJBS USA, the world's largest meat supplier, says it was the target of an 'organized cybersecurity attack."In a statement, JBS, which has its U.S. headquarters in Greeley, Colorado, said the attack affected some of its servers supporting its North American and Australian IT systems."The company took immediate action, suspending all affected systems, notifying authorities and activating the company's global network of IT professionals and third-party experts to resolve the situation," the company said in its statement.
+
+
+***
+![I made a program in tkinter that will display all the correct frets for any scale on any tuning on guitar.](https://external-preview.redd.it/59Tu8t39kO_ekSH4bW3ub3c_fTyKtdso94Y_aYPj2bw.jpg?auto=webp&s=4b6bbb42418ecfbcd2aafca71b635865a7416bf7 "I made a program in tkinter that will display all the correct frets for any scale on any tuning on guitar.")
+
+
+[I made a program in tkinter that will display all the correct frets for any scale on any tuning on guitar.](https://www.reddit.com/r/Python/comments/npek8m/i_made_a_program_in_tkinter_that_will_display_all/)
+
+
+> So for those who don't play guitar or know anything about music in general here's a quick rundown:There are 12 notes in music and they go from A to G#, but they could really start anywhere as they will just repeat. Google musical notes for more info. As such there are 12 frets on a guitar to cover all 12 notes, and usually a guitar will go to 22 or 24 or even 29 frets. When you start at one note and go through all other 11 notes you will hit the same note but at a higher pitch, called an octave. So frets 1 & 13 on the same string are the same note but different octaves.
+
+
+***
+![Family warns others after TikTok challenge after 13-year-old ends up in ICU](https://media.whas11.com/assets/WHAS/images/8399c928-1593-409b-8bcc-1ca0163f65ff/8399c928-1593-409b-8bcc-1ca0163f65ff_1140x641.jpg "Family warns others after TikTok challenge after 13-year-old ends up in ICU")
+
+
+[Family warns others after TikTok challenge after 13-year-old ends up in ICU](https://www.whas11.com/video/tech/warning-tiktok-challenge-13-year-old-icu-3rd-degree-burns-fire/417-6af2f6ea-96c9-4ed0-8f6f-acd2cdbac287)
+
+
+> One family has a warning for parents about a new challenge that landed their 13-year-old in the hospital for weeks. Notifications can be turned off anytime in the browser settings.
+
+
+***
+![Swatch's Bold Move Toward a Post-Plastic Future With BIOCERAMIC](https://design-milk.com/images/2021/05/SWatch_biocreamic-bigboldmaster-banner.jpg "Swatch's Bold Move Toward a Post-Plastic Future With BIOCERAMIC")
+
+
+[Swatch's Bold Move Toward a Post-Plastic Future With BIOCERAMIC](https://design-milk.com/swatchs-bold-move-toward-a-post-plastic-future-with-bioceramic/)
+
+
+> When we think of Swatch, we remember accessorizing our arm with two or three of the brand's colorfully graphic timepieces, obviously more for their fashion swag rather than any genuine intent of keeping abreast of the day's passing hours. The Swiss watchmaker is still around and continues to innovate, most recently on the material front with the announcement of BIOCERAMIC, a new ceramic material formulation composed of two-thirds ceramic and one-third bio-sourced plastic. About that one-third bioplastic: Swatch's BIOCERAMIC 'mixes conventional ceramic with a bioplastic derived from castor oil,' a sequel to last year's retro-styled '1983 Collection' using the same biosourced formulation.
+
+
