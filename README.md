@@ -16603,3 +16603,50 @@
 > One of the biggest lessons for cities fighting the Covid-19 pandemic has been the criticality of access to data. Mumbai, which has shown significant success in managing the second wave of the pandemic, is a case in point. The 'Mumbai model' demonstrates how technology can facilitate the battle against the dreaded Covid-19. The Municipal Corporation of Greater Mumbai (MCGM), also known as BMC, is the governing civic body of Mumbai, and is divided into 24 wards. Like most municipal corporations across the country, the BMC, too, was monitoring the Covid-19 outbreak manually when it .
 
 
+***
+![eBay Plus Weekend 2021: all the best deals from the sale still available](https://cdn.mos.cms.futurecdn.net/8LzAZGNuWrUTqKdtBZ8dc8-1200-80.jpg "eBay Plus Weekend 2021: all the best deals from the sale still available")
+
+
+[eBay Plus Weekend 2021: all the best deals from the sale still available](https://www.techradar.com/news/ebay-plus-weekend-2021)
+
+
+> It's the final days of eBay's Plus Weekend sale, so if you're a Plus member, it's time to shop the savings. eBay has dropped limited-time deals on items including the Dyson Supersonic and the Samsung Galaxy S21, and to our surprise, many hot products are still available.Jump to the Plus-exclusive daily deals listThere's more to this sale though, as eBay is also offering 20% off millions of items on the site. These offers will end on Wednesday, June 2, so you only have a few days left to score a bargain.
+
+
+***
+[Does anyone how to create a bot for discord?](https://www.reddit.com/r/Python/comments/notmju/does_anyone_how_to_create_a_bot_for_discord/)
+
+
+> So recently i received a server link from a bot in my dms. We shared no mutual servers or any friends.Someone on my discord server staff told me about a "user-bot" where the bot advertises your server in dms.I know its not ethical or something but will someone help me create such bot please ;_; 💔
+
+
+***
+![Intel 5G Solution 5000, New Faster Laptop CPUs Announced at Computex 2021](https://i.gadgets360cdn.com/large/intel_5g_solution_5000_computex_1622434355051.jpg "Intel 5G Solution 5000, New Faster Laptop CPUs Announced at Computex 2021")
+
+
+[Intel 5G Solution 5000, New Faster Laptop CPUs Announced at Computex 2021](https://gadgets.ndtv.com/laptops/news/intel-5g-solution-5000-tiger-lake-core-i5-core-i7-announced-computex-2021-keynote-2452701)
+
+
+> Intel kicked off the virtual Computex 2021 trade show with a keynote presentation that detailed its response to the ongoing global pandemic, which has led to a massive surge in demand for PCs as people need to stay connected for communication, work, education, and entertainment. In addition to corporate updates and reaffirming the company's commitment to the Taiwan IT ecosystem, Intel executives announced a few new products including its first 5G module for PCs, the Intel 5G Solution 5000. There are also two new, faster 11th Gen 'Tiger Lake' CPUs for thin and light laptops.
+
+
+***
+![Realme X7 Max 5G, Realme 4K Smart TV to launch today in India at 12.30 pm: How to watch it live](https://images.firstpost.com/wp-content/uploads/2021/05/realme-x7-max-1280.jpg "Realme X7 Max 5G, Realme 4K Smart TV to launch today in India at 12.30 pm: How to watch it live")
+
+
+[Realme X7 Max 5G, Realme 4K Smart TV to launch today in India at 12.30 pm: How to watch it live](https://www.firstpost.com/tech/news-analysis/realme-x7-max-5g-realme-4k-smart-tv-to-launch-today-in-india-at-12-30-pm-how-to-watch-it-live-9670491.html)
+
+
+> tech2 News StaffMay 31, 2021 09:43:02 ISTRealme is all set to launch Realme X7 Max 5G and a 4K Smart TV in India today at 12.30 pm. Realme X7 Max 5G will join the company's Realme X7-series that already includes Realme X7 (Review) and Realme X7 Pro (Review). The company has revealed a handful of specifications of the smartphone including design, chipset, display and more. The smartphone will be available for purchase on Flipkart. In addition to this, a recent leak by Realme Times hints that the smart TV might come in 43-inch and 50-inch screen sizes.
+
+
+***
+![About passwords](https://images.macrumors.com/social/?t=2298572&v=6 "About passwords")
+
+
+[About passwords](https://forums.macrumors.com/threads/about-passwords.2298572/)
+
+
+> Feb 17, 2007 365 47 North Las Vegas, NV. I thought, I saw something about Apple stating one password for all Apple accounts. If what I think I saw was real why when I open passwords on the iPad, it shows me a warning about using the same password multiple times for Apple? Question 2 When I open passwords on the iPad, I see security recommendations for some passwords but no such thing on the iMac? Just curious and thanks.
+
+
