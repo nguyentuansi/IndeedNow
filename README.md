@@ -17460,3 +17460,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
 
 
+***
+![Sketchy leak tips larger battery for iPhone 13 series](https://pocketnow.com/wp/../files/2021/05/iphone-13-pro-dummy-unbox-therapy-641x392.jpg "Sketchy leak tips larger battery for iPhone 13 series")
+
+
+[Sketchy leak tips larger battery for iPhone 13 series](https://pocketnow.com/sketchy-leak-tips-larger-battery-for-iphone-13-series)
+
+
+> As per the latest rumor, the iPhone 13‌ Pro Max will feature a 4352mAh battery. For context, the latest iPhone 12 Pro Max packs a 3687mAh battery. The post Sketchy leak tips larger battery for iPhone 13 series appeared first on Pocketnow.
+
+
+***
+![CDW to Participate in Upcoming Investor Conferences](https://mms.businesswire.com/media/20210601005990/en/835258/23/CDW-Logo-Without-Tagline-Red-RGB%5B1%5D.jpg "CDW to Participate in Upcoming Investor Conferences")
+
+
+[CDW to Participate in Upcoming Investor Conferences](https://www.businesswire.com/news/home/20210601005990/en/CDW-to-Participate-in-Upcoming-Investor-Conferences)
+
+
+> June 01, 2021 04:15 PM Eastern Daylight Time LINCOLNSHIRE, Ill.--(BUSINESS WIRE)--CDW Corporation (Nasdaq: CDW), a leading multi-brand provider of information technology solutions to business, government, education and healthcare customers in the United States, the United Kingdom and Canada, today announced that Collin B. Kebo, senior vice president and chief financial officer, will participate in question and answer sessions at the following upcoming virtual investor conferences: Evercore ISI Inaugural TMT Conference on Monday, June 7, 2021, at 7:45 a.
+
+
+***
+![OnePlus Watch update finally brings promised workout modes, AI Outfit](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/04/oneplus-watch-25.jpg "OnePlus Watch update finally brings promised workout modes, AI Outfit")
+
+
+[OnePlus Watch update finally brings promised workout modes, AI Outfit](https://www.androidcentral.com/oneplus-watch-update-workout-modes-ai-outfit)
+
+
+> Source: Harish Jonnalagadda / Android Central The OnePlus Watch is receiving an update that brings the promised 110 workout modes. The device is getting an AI Outfit feature to mimic the user's clothing to create a watch face. The update comes after OnePlus devices finally received the AOD function. Owners of the OnePlus Watch are finally getting their hands on an update that brings the fitness features first promised at launch. OnePlus software manager Baihan H. announced update B.52 on Monday in the OnePlus forum.
+
+
+***
+![Costco Canada drops the budget-focused Moto G Fast down to just $160](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/moto-g-fast-review-1.jpeg "Costco Canada drops the budget-focused Moto G Fast down to just $160")
+
+
+[Costco Canada drops the budget-focused Moto G Fast down to just $160](https://www.androidcentral.com/costco-canada-moto-g-fast-june-21)
+
+
+> There's more than meets the eye with Motorola's latest affordable smartphones. Just last year, the company debuted three budget-conscious devices all sitting well below $500 each: the Moto G Fast, Moto G Power, and the Moto G Stylus. With the Moto G Fast debuting at just $249.99 in Canada, it's become one of the least expensive ways to get a dependable Android smartphone in your hands. Thanks to a limited-time offer at Costco Canada, the Moto G Fast is dropping even lower in price! Through June 6, customers can purchase the Moto G Fast on sale for just $159.
+
+
+***
+![Zoom beats quarterly revenue estimates](https://apicms.thestar.com.my/uploads/images/2021/06/02/1168988.JPG "Zoom beats quarterly revenue estimates")
+
+
+[Zoom beats quarterly revenue estimates](https://www.thestar.com.my/tech/tech-news/2021/06/02/zoom-beats-quarterly-revenue-estimates)
+
+
+> FILE PHOTO: Small toy figures are seen in front of the Zoom logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration
+
+
