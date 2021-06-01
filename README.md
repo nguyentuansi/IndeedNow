@@ -17219,3 +17219,47 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[PUBG Mobile: Battlegrounds Mobile India beta version? Here is all you need to know](https://www.zeebiz.com/technology/apps/news-pubg-mobile-battlegrounds-mobile-india-beta-version-here-is-all-you-need-to-know-157730)
+
+
+> Battlegrounds Mobile India update: After several reports revealed that Battlegrounds Mobile India the rebranded version of PUBG Mobile India may launch in the county in second or third week in June, new reports have hinted that the beta version of the may not arrive.
+
+
+***
+![Biden eyes grants, federal purchasing to narrow racial wealth, home ownership gaps](https://www.reuters.com/pf/resources/icons/favicon.ico?d=32 "Biden eyes grants, federal purchasing to narrow racial wealth, home ownership gaps")
+
+
+[Biden eyes grants, federal purchasing to narrow racial wealth, home ownership gaps](https://www.reuters.com/world/us/biden-eyes-grants-federal-purchasing-narrow-racial-wealth-home-ownership-gaps-2021-06-01/)
+
+
+> President Joe Biden will announce steps on Tuesday to narrow the large and persistent racial wealth gap that divides Black, Latino and white Americans, although he will stop short of a cancellation of student loan debt demanded by civil rights groups.Biden, a Democrat, will call for billions of dollars in grants and investments to benefit poor minority communities, as well as a big increase in federal procurement from small, disadvantaged businesses, and a crackdown on housing discrimination, administration officials told reporters.
+
+
+***
+![What's in email tracking links and pixels?](https://external-preview.redd.it/wjeJ0AtTXZy4gyvQhy-V_WXwe16XrfOUT2V_1-M31jc.jpg?auto=webp&s=c4e47bbc78eb7cda44349d67ba569a650e1f0be4 "What's in email tracking links and pixels?")
+
+
+[What's in email tracking links and pixels?](https://www.reddit.com/r/programming/comments/nppkeg/whats_in_email_tracking_links_and_pixels/)
+
+
+> Hi,Author here.This investigation into email tracking attempts to deconstruct tracking links and pixels and highlight the data that is being collected. It covers Mailchimp, ConvertKit, Substack and other Mailgun retailers.There's also some attempted (albeit unsuccessful) reverse-engineering of an opaque token in the Substack section (If you like reading stuff about reverse-engineering).Happy to answer any questions.Thanks.PS: If you like this post, please consider subscribing to my blog and/or Interesting Things newsletter.
+
+
+***
+![LG Stops Production Of Smartphones, Repurposes Facilities For Home Appliances](https://www.androidheadlines.com/wp-content/uploads/2021/04/AH-LG-black-and-white-logo.jpg "LG Stops Production Of Smartphones, Repurposes Facilities For Home Appliances")
+
+
+[LG Stops Production Of Smartphones, Repurposes Facilities For Home Appliances](https://www.androidheadlines.com/2021/06/lg-stops-production-smartphones-repurposes-facilities.html)
+
+
+> LG has officially stopped the production of smartphones. The company announced its exit from the smartphone business early last month but continued the production of some models to supply to carriers who had already placed orders for the phones. As of May 31st, the Korean firm has reportedly completed the delivery of those orders. It has now closed operations at its smartphone production facility in Vietnam and is in the process of converting it into a household appliance production line.Since LG began winding down the smartphone business last month itself, the company has already transitioned some of the smartphone production capacity at its Vietnam factory to home appliances.
+
+
+***
+[Watch Dogs: Legion is getting zombies](https://stuff.co.za/2021/06/01/watch-dogs-legion-is-getting-zombies/)
+
+
+> 1 June isn't usually associated with much other than the mercury dropping in SA, but if you're a Watch Dogs: Legion player, it just became ‘Zombie Day'. Or ‘Undead Day'. Or ‘Day Of The Dead.' Yeah, that's a good one – no one's used that before. From today the legions of the undead will arrive in the game's London map as part of the latest update Ubisoft is rolling out. Read more
+
+
