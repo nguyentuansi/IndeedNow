@@ -17313,3 +17313,53 @@
 > The Amazon Echo Buds were the tech giant's first foray into the world of true wireless earbuds, and now the company has launched the next generation of the in-ear headphones. With the Echo Buds (2nd Gen), Amazon has made some substantial improvements on the original earbuds, including swapping noise reduction technology for full-blown active noise cancellation. The original Amazon Echo Buds may have offered an affordable alternative to the Apple AirPods, but they left a lot to be desired when it came down to audio quality and battery life.
 
 
+***
+![Reliance Jio rolls out Rs 98 prepaid plan with 1.5 GB daily data, unlimited voice calling and more](https://images.financialexpress.com/2021/06/relaince-jio-voucher.jpg "Reliance Jio rolls out Rs 98 prepaid plan with 1.5 GB daily data, unlimited voice calling and more")
+
+
+[Reliance Jio rolls out Rs 98 prepaid plan with 1.5 GB daily data, unlimited voice calling and more](https://www.financialexpress.com/industry/technology/reliance-jio-rolls-out-rs-98-prepaid-plan-with-1-5-gb-daily-data-unlimited-voice-calling-and-more/2263142/)
+
+
+> By: FE Online | Updated: June 01, 2021 6:15 PMReliance Jio has reintroduced a plan that it had discontinued in MayTelecom service provider Reliance Jio has re-introduced its Rs 98 prepaid pack that was discontinued last year in May. Reliance Jio prepaid users can now again avail one of the most popular and affordable subscription plans from Jio.According to the Jio website, the Rs 98 prepaid plan will offer 1.5 GB of data daily and 64 Kbps browsing speed on reaching the data limit. It also offers unlimited voice calls and complimentary subscriptions to Jio apps.
+
+
+***
+![Everbridge Provides Critical Event Management (CEM) Preparedness for State and Local Governments as Above-Average 2021 U.S. Hurricane Season Gets Underway](https://mms.businesswire.com/media/20210601005618/en/882060/23/Hurricane_PR_news_image.jpg "Everbridge Provides Critical Event Management (CEM) Preparedness for State and Local Governments as Above-Average 2021 U.S. Hurricane Season Gets Underway")
+
+
+[Everbridge Provides Critical Event Management (CEM) Preparedness for State and Local Governments as Above-Average 2021 U.S. Hurricane Season Gets Underway](https://www.businesswire.com/news/home/20210601005618/en/Everbridge-Provides-Critical-Event-Management-CEM-Preparedness-for-State-and-Local-Governments-as-Above-Average-2021-U.S.-Hurricane-Season-Gets-Underway)
+
+
+> June 01, 2021 08:45 AM Eastern Daylight Time BURLINGTON, Mass.--(BUSINESS WIRE)--Everbridge, Inc. (NASDAQ: EVBG), the global leader in critical event management (CEM), today announced its support for hundreds of counties and cities along the U.S. Gulf Coast and Atlantic Seaboard (from Florida to Massachusetts) as the 2021 hurricane season gets underway. According to the National Oceanic and Atmospheric Administration (NOAA), the forecast for this year's season – June 1 through November 30 – predicts 'above normal' activity, with the likelihood of up to 20 named storms, six to ten of which could become hurricanes.
+
+
+***
+![Spok Nominates Randy Hyun to Board of Directors](https://mms.businesswire.com/media/20210601005563/en/881923/23/Hyun_image.jpg "Spok Nominates Randy Hyun to Board of Directors")
+
+
+[Spok Nominates Randy Hyun to Board of Directors](https://www.businesswire.com/news/home/20210601005563/en/Spok-Nominates-Randy-Hyun-to-Board-of-Directors)
+
+
+> June 01, 2021 08:45 AM Eastern Daylight Time SPRINGFIELD, Va.--(BUSINESS WIRE)--Spok Holdings, Inc. (NASDAQ: SPOK), a global leader in healthcare communications, today announced that its Board of Directors intends to nominate Randy Hyun for election to the Board at the 2021 Annual Meeting of Stockholders, which is expected to be held July 20, 2021. Mr. Hyun is the Chief Operating Officer of CarepathRx LLC and the Chief Executive Officer of CarepathRx Health Systems Solutions. At CarepathRX, a privately held company that provides technology-based pharmacy and technology solutions to hospitals, payers, and patients, Mr.
+
+
+***
+![Kapsch TrafficCom will Provide its Advanced ITS System for the Tunnels of Massive Project in Colombia](https://mms.businesswire.com/media/20210601005521/en/882042/23/Logo-KapschTrafficCom.jpg "Kapsch TrafficCom will Provide its Advanced ITS System for the Tunnels of Massive Project in Colombia")
+
+
+[Kapsch TrafficCom will Provide its Advanced ITS System for the Tunnels of Massive Project in Colombia](https://www.businesswire.com/news/home/20210601005521/en/Kapsch-TrafficCom-will-Provide-its-Advanced-ITS-System-for-the-Tunnels-of-Massive-Project-in-Colombia)
+
+
+> June 01, 2021 08:40 AM Eastern Daylight Time BOGOTA, Colombia--(BUSINESS WIRE)--Kapsch TrafficCom Colombia has just been selected to provide ITS for the tunnels that are part of the project Autopista al Mar 1 (Túneles del Occidente), a huge project which will be executed by the concession Desarrollo Vial al Mar, or Devimar, owned by the international shareholders Strabag (37,5%), Sacyr Concesiones (37,50%) y Concay (25%). This project will improve the connectivity between the city of Medellín and the west and southwest of the state of Antioquia.
+
+
+***
+![Getting started with Neutralinojs storage API](https://external-preview.redd.it/Jv5V__brScqGM35SYzZcfJEt4yA74IRaxuCFVc3yZgY.jpg?auto=webp&s=e8b1002089d2384e50f9cc708bb0de376f8f91b3 "Getting started with Neutralinojs storage API")
+
+
+[Getting started with Neutralinojs storage API](https://www.reddit.com/r/programming/comments/npt1pm/getting_started_with_neutralinojs_storage_api/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
