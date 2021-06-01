@@ -17175,3 +17175,47 @@
 > Vodafone's Italian unit has secured conditional approval from Rome to use equipment made by China's Huawei in its 5G radio access network, two sources close to the matter said.Italy can block or impose tough conditions on deals involving non EU vendors under "golden powers", which have been used three times since 2012 to block foreign interest in industries deemed to be of strategic importance.The government of national unity led by Prime Minister Mario Draghi authorised the deal between Vodafone and Huawei on May 20, one of the two sources told Reuters, asking not to be named because of the sensitivity of the matter.
 
 
+***
+![Medical AI models can cause misdiagnosis](https://image-prod.iol.co.za/resize/1280x366/File-picture-Pexels?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/d8be3a87-c96a-5048-b0bd-0c9c23b609e9&operation=CROP&offset=0x224&resize=1280x720 "Medical AI models can cause misdiagnosis")
+
+
+[Medical AI models can cause misdiagnosis](https://www.iol.co.za/technology/software-and-internet/medical-ai-models-can-cause-misdiagnosis-6a9a4aa6-8d6d-4bf6-8a48-bc9b39ea3b93)
+
+
+> New York - Artificial Intelligence (AI) models like humans have a tendency to look for shortcuts. In the case of an AI-assisted disease detection, these shortcuts could lead to diagnostic errors if deployed in clinical settings, warn researchers.A team from the University of Washington in the US, examined multiple models recently put forward as potential tools for accurately detecting Covid-19 from chest radiography, otherwise known as chest X-rays.The findings, published in the journal Nature Machine Intelligence, showed that rather than learning genuine medical pathology, these models rely instead on shortcut learning to draw spurious associations between medically irrelevant factors and disease status.
+
+
+***
+![Bitcoin price news: XRP could overtake BTC after crypto market crash – plus Ethereum, Cardano, dogecoin latest](https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/Copy-of-MEGHAN-LATEST-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price news: XRP could overtake BTC after crypto market crash – plus Ethereum, Cardano, dogecoin latest")
+
+
+[Bitcoin price news: XRP could overtake BTC after crypto market crash – plus Ethereum, Cardano, dogecoin latest](https://www.the-sun.com/lifestyle/tech/2961652/bitcoin-price-news-xrp-btc-elon-musk-dogecoin-ethereum/)
+
+
+> COIN SURGE 3:28 ET, Jun 1 2021Updated: 3:28 ET, Jun 1 2021RIPPLE (XRP) surged in value by 15 per cent over the weekend as the cryptocurrency market continues to recover from last month's crash. Ethereum, Cardano and Dogecoin all fell on Monday - but XRP managed to dodge the trend. This comes after High Street banks are going 'to war' on cryptocurrencies such as Bitcoin after a spike in fraud, reports the Times - with one bank will use technology to ban several million customers from buying ANY digital currencies.
+
+
+***
+[Bitcoin price news: XRP could overtake BTC after crypto market crash – plus Ethereum, Cardano, dogecoin latest](https://www.thesun.ie/tech/7050069/bitcoin-price-news-xrp-btc-elon-musk-dogecoin-ethereum/)
+
+
+> RIPPLE (XRP) surged in value by 15 per cent over the weekend as the cryptocurrency market continues to recover from last month’s crash. Ethereum, Cardano and Dogecoin all fell on Monday – but XRP managed to dodge the trend. This comes after High Street banks are going ‘to war’ on cryptocurrencies such as Bitcoin after […]
+
+
+***
+[On Recruiting Full Stacks](https://www.reddit.com/r/programming/comments/npo7ne/on_recruiting_full_stacks/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![D.C.-to-Baltimore maglev would only benefit rich, Amtrak chief says](https://external-preview.redd.it/bW4K6z8nOZBb-WAEzOi009h3BaKfWZ04VXBZCdgDxtk.jpg?auto=webp&s=96d0d250325706578aea828a39a7ccb43de3a098 "D.C.-to-Baltimore maglev would only benefit rich, Amtrak chief says")
+
+
+[D.C.-to-Baltimore maglev would only benefit rich, Amtrak chief says](https://www.reddit.com/r/technology/comments/npo671/dctobaltimore_maglev_would_only_benefit_rich/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
