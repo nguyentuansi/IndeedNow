@@ -17510,3 +17510,50 @@
 > FILE PHOTO: Small toy figures are seen in front of the Zoom logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration
 
 
+***
+![Apple TV App Arrives On NVIDIA SHIELD Tablets](https://www.androidheadlines.com/wp-content/uploads/2020/02/AH-NVIDIA-new-logo-1.jpg "Apple TV App Arrives On NVIDIA SHIELD Tablets")
+
+
+[Apple TV App Arrives On NVIDIA SHIELD Tablets](https://www.androidheadlines.com/2021/06/apple-tv-app-arrives-on-nvidia-shield-tablets.html)
+
+
+> Apple TV is expanding its reach by putting its app on another device. According to a blog post by NVIDIA, Apple has put its streaming service on the NVIDIA SHIELD. It brings all of the perks that users can enjoy on other devices.Apple TV on NVIDIA SHIELD brings 4K HDR video and Dolby Atmos supportMany folks thought we'd never see the day that Apple software is available on an Android device. NVIDIA announced that the Apple TV app will be available to download for SHIELD tablets. The app is on the Play Store, so you don't have to jump through any hoops to get it.
+
+
+***
+![Apple adds WWDC21 live stream to its website and YouTube](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/wwdc21-live-stream.jpg "Apple adds WWDC21 live stream to its website and YouTube")
+
+
+[Apple adds WWDC21 live stream to its website and YouTube](https://www.imore.com/apple-adds-wwdc21-live-stream-its-website-and-youtube)
+
+
+> Source: Apple It's only one week until WWDC21 and Apple is gearing up by listing the live event on the Apple Events website. In addition to streaming the event through the Apple TV app, you can also stream WWDC directly on Apple's website. If you do decide to watch it on the Apple website or through the Apple TV app, make sure you meet the compatibility requirements below. While most of everyone should be fine, it's always good to check and make sure you have what you need to tune in: This stream is best experienced on an iPhone 7 or later, iPad (5th generation or later), or iPod touch (7th generation) using Safari on iOS 12 or later; or a Mac using Safari on macOS Mojave 10.
+
+
+***
+[Libdill: Structured Concurrency for C](https://www.reddit.com/r/programming/comments/nq6gsd/libdill_structured_concurrency_for_c/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![: Tech stocks are out of favor — 5 reasons to buy alongside the contrarians](https://images.mktw.net/im-345513/social ": Tech stocks are out of favor — 5 reasons to buy alongside the contrarians")
+
+
+[: Tech stocks are out of favor — 5 reasons to buy alongside the contrarians](https://www.marketwatch.com/story/tech-stocks-are-out-of-favor-5-reasons-to-shop-alongside-the-contrarians-11622204518)
+
+
+> Todd Lowenstein is the equity strategist with The Private Bank at Union Bank. Agence France-Presse/Getty Images Life may be returning to normal for most people. But not for die-hard tech stock fans.Their stocks are among the least liked by other investors, according to a recent Bank of America fund manager survey. It found that fund managers have the lowest level allocation toward tech since 2003. How can this be? Tech has a growth issue. That seems odd, but it makes sense if you think it through.
+
+
+***
+![UFOs are real but that doesn't mean we've been visited by aliens](https://www.cnet.com/a/img/9vYTOJVBxtcJG_Zo1opyAJmzd2c=/1200x630/2021/05/25/8ab61f6e-5d3b-4297-a63c-df4935d1bbd2/ufos1.jpg "UFOs are real but that doesn't mean we've been visited by aliens")
+
+
+[UFOs are real but that doesn't mean we've been visited by aliens](https://www.cnet.com/news/ufos-are-real-that-doesnt-mean-weve-been-visited-by-aliens/)
+
+
+> Over the past two weeks, we've been Naruto-running headfirst into an extraterrestrial epidemic. A highly anticipated unclassified report, expected to be delivered to the US Congress this month, has sparked renewed interest in UFOs, alien visitation and government cover-ups. The report, written by a crack team of experts from the Pentagon, the FBI and the Office of Naval Intelligence, is expected to feature evidence of "unidentified aerial phenomena," or UAP. So, aliens are back in vogue. Their popularity is approaching levels not seen since the "Storm Area 51" raid of 2019, when a viral Facebook event became a meme and turned the town of Rachel, Nevada, upside down.
+
+
