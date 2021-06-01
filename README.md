@@ -17135,3 +17135,43 @@
 > (Image credit: Future) Amazon AU's Mid-Year Sale is officially under way, once again offering a huge number of products at significantly reduced prices.PS5 consoles may still be hard to come by, but if you're one of the lucky few who already have one, or even if you own a PS4 console, you will surely be interested in this particular discount: Amazon AU is currently offering a 12 month PlayStation Plus subscription for AU$59.95 – that's a saving of AU$20 from the usual AU$79.95 price.Traditionally, PS Plus subscriptions are only discounted a couple of times per year, usually in relation to Sony's Days of Play promotion.
 
 
+***
+![Alienware's new gaming laptops are its thinnest and most powerful yet](https://cdn.mos.cms.futurecdn.net/nWGF39WaE52tYATrAEdT4i-1200-80.jpeg "Alienware's new gaming laptops are its thinnest and most powerful yet")
+
+
+[Alienware's new gaming laptops are its thinnest and most powerful yet](https://www.techradar.com/news/alienwares-new-gaming-laptops-are-its-thinnest-and-most-powerful-yet)
+
+
+> (Image credit: Alienware) Alienware has debuted its new X-series of gaming laptops, which it claims are its thinnest and most powerful yet.Unveiled at Computex, the Alienware X15 and Alienware X17 are high-performance gaming laptops that are the first to join the company's all-new X-series lineup, which Alienware claims is commands an 'innovation-first prerogative.'The Alienware X15 is being billed as the world's most powerful sub-16mm gaming laptop, while the Alienware X17 is the firm's thinnest 17-inch notebook to date, measuring in at 20.
+
+
+***
+![Mila Inc. Partners With Leading Digital Payments Provider SumUp](https://mms.businesswire.com/media/20210531005328/en/881992/23/Air_Alone_Retail.jpg "Mila Inc. Partners With Leading Digital Payments Provider SumUp")
+
+
+[Mila Inc. Partners With Leading Digital Payments Provider SumUp](https://www.businesswire.com/news/home/20210531005328/en/Mila-Inc.-Partners-With-Leading-Digital-Payments-Provider-SumUp)
+
+
+> June 01, 2021 01:00 AM Eastern Daylight Time ZÜRICH--(BUSINESS WIRE)--Mila Inc., the European leader of on-demand technical support, announces its partnership with SumUp, a global leader in payment solutions. SumUp offers payment solutions to small businesses and entrepreneurs, who can pay simply, easily and securely with the card, and at transparent and affordable conditions. SumUp clients include DHL, Bosch, and Staples. Mila has a workforce of over 10,000 trained technicians across Switzerland, Germany, France, Austria, and the UK.
+
+
+***
+![Alienware has crafted its thinnest gaming notebooks yet with the X-Series](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/157103-laptops-news-alienware-has-crafted-its-thinnest-gaming-notebooks-yet-with-the-x-series-image1-ixthqatqkv.jpg "Alienware has crafted its thinnest gaming notebooks yet with the X-Series")
+
+
+[Alienware has crafted its thinnest gaming notebooks yet with the X-Series](https://www.pocket-lint.com/laptops/news/dell/157103-alienware-has-crafted-its-thinnest-gaming-notebooks-yet-with-the-x-series)
+
+
+> (Pocket-lint) - Alienware has just unveiled what it claims to be "gaming masterpieces" with its range of X-Series notebooks. These are the thinnest laptops the company has ever produced and come in the form of the Alienware x15 and x17.The company has taken its classic "legend industrial design" and updated it to deliver some seriously nice looking gaming laptops that pack plenty of power under the hood. Crafted with magnesium alloy or CNC milled aluminium depending on the model you choose, they're built to be brilliant both outwardly and on the inside too.
+
+
+***
+![Vodafone 5G Deal With Huawei Said to Get Conditional Approval in Italy](https://i.gadgets360cdn.com/large/huawei_glass_reuters_1622523245478.jpg "Vodafone 5G Deal With Huawei Said to Get Conditional Approval in Italy")
+
+
+[Vodafone 5G Deal With Huawei Said to Get Conditional Approval in Italy](https://gadgets.ndtv.com/telecom/news/vodafone-5g-huawei-china-italy-approval-conditional-equipment-radio-access-network-2453476)
+
+
+> Vodafone's Italian unit has secured conditional approval from Rome to use equipment made by China's Huawei in its 5G radio access network, two sources close to the matter said.Italy can block or impose tough conditions on deals involving non EU vendors under "golden powers", which have been used three times since 2012 to block foreign interest in industries deemed to be of strategic importance.The government of national unity led by Prime Minister Mario Draghi authorised the deal between Vodafone and Huawei on May 20, one of the two sources told Reuters, asking not to be named because of the sensitivity of the matter.
+
+
