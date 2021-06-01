@@ -17263,3 +17263,53 @@
 > 1 June isn't usually associated with much other than the mercury dropping in SA, but if you're a Watch Dogs: Legion player, it just became ‘Zombie Day'. Or ‘Undead Day'. Or ‘Day Of The Dead.' Yeah, that's a good one – no one's used that before. From today the legions of the undead will arrive in the game's London map as part of the latest update Ubisoft is rolling out. Read more
 
 
+***
+![Space debris punctures International Space Station's robotic arm](https://static.independent.co.uk/2021/06/01/10/GettyImages-114951190.jpeg?width=1200&auto=webp&quality=75 "Space debris punctures International Space Station's robotic arm")
+
+
+[Space debris punctures International Space Station's robotic arm](https://www.independent.co.uk/life-style/gadgets-and-tech/debris-international-space-station-robot-arm-b1857444.html)
+
+
+> The International Space Station has been hit with a piece of orbital debris, leaving a sizeable hole in its 17 metre-long robotic arm.Experts from the Canadian Space Agency and Nasa found the puncture during a routine inspection of Canadarm2. The arm performs station maintenance, moves supplies – and even astronauts – and performs 'cosmic catches' by grappling visiting crafts and bringing them to the ISS.The inspection, which took place on 12 May, found that the puncture came from a piece of space debris that was too small to be tracked – which accounts for rock or dust particles to flecks of paint from satellites, the CSA says.
+
+
+***
+![Over 2 Million Android Users Are Now Using Clubhouse](https://www.androidheadlines.com/wp-content/uploads/2021/05/clubhouse-android-app.jpg "Over 2 Million Android Users Are Now Using Clubhouse")
+
+
+[Over 2 Million Android Users Are Now Using Clubhouse](https://www.androidheadlines.com/2021/06/clubhouse-2-million-android-users.html)
+
+
+> According to the company's announcement, Clubhouse has reached over 2 million active users on Android.To examine how incredible this is, notice that the official release of Clubhouse Android app happened just weeks ago. Reaching this number of Android users in such a short period of time shows that the Clubhouse has been able to meet the needs of its users very well.The company had a town hall in its app yesterday, and they announced future updates are on the way to improve app functionality. Of course, the iOS app is still leading, and the Android app needs a few months to take it over.
+
+
+***
+![You can now get a Raspberry Pi chip for just $1](https://cdn.mos.cms.futurecdn.net/s8CVfP3LoAf72fxpSpdkqR-1200-80.jpg "You can now get a Raspberry Pi chip for just $1")
+
+
+[You can now get a Raspberry Pi chip for just $1](https://www.techradar.com/news/you-can-now-get-a-raspberry-pi-chip-for-just-dollar1)
+
+
+> (Image credit: HackSpace magazine) Developed at Raspberry Pi HQ, the surprisingly powerful RP2040 system-on-a-chip (SoC) has now gone on sale at a mere $1.The RP2040 microcontroller powers the recently launched Raspberry Pi Pico (which itself costs just $4), but until now was only available in bulk to partners who wanted to build it into their products.'Today, we're announcing the logical next step: RP2040 chips are now available from our Approved Reseller partners in single-unit quantities, allowing you to build your own projects and products on Raspberry Silicon,' said Eben Upton, Raspberry Pi co-founder.
+
+
+***
+![MacBook Pro 2021 models could get stunning mini-LED screens](https://cdn.mos.cms.futurecdn.net/7hxMJLo7eEbgwGSVcJhZjc-1200-80.jpg "MacBook Pro 2021 models could get stunning mini-LED screens")
+
+
+[MacBook Pro 2021 models could get stunning mini-LED screens](https://www.techradar.com/news/macbook-pro-2021-models-could-get-stunning-mini-led-screens)
+
+
+> (Image credit: Future) We've keenly awaited the announcement of a 14-inch and 16-inch M1 MacBook Pro since the initial Apple Silicon was revealed back in late 2020, and the latest rumors suggest both models will feature the same mini-LED display seen in the recently announced M1 powered iPad Pro. DigiTimes reports that Apple supplier Global Lighting Technologies will begin shipping its mini-LED display components for the next-gen MacBook Pro models in Q3 of 2021, so while we may still see both of these long-rumored models announced at Apple WWDC 2021 on June 7, the actual products may not hit the shelves until sometime in 2022.
+
+
+***
+![Amazon Echo Buds (2nd Gen) vs Amazon Echo Buds: what's new with the true wireless earbuds?](https://cdn.mos.cms.futurecdn.net/dVSpLyhrWbFC8en2MthKHS-1200-80.jpg "Amazon Echo Buds (2nd Gen) vs Amazon Echo Buds: what's new with the true wireless earbuds?")
+
+
+[Amazon Echo Buds (2nd Gen) vs Amazon Echo Buds: what's new with the true wireless earbuds?](https://www.techradar.com/news/amazon-echo-buds-2nd-gen-vs-amazon-echo-buds-whats-new-with-the-true-wireless-earbuds)
+
+
+> The Amazon Echo Buds were the tech giant's first foray into the world of true wireless earbuds, and now the company has launched the next generation of the in-ear headphones. With the Echo Buds (2nd Gen), Amazon has made some substantial improvements on the original earbuds, including swapping noise reduction technology for full-blown active noise cancellation. The original Amazon Echo Buds may have offered an affordable alternative to the Apple AirPods, but they left a lot to be desired when it came down to audio quality and battery life.
+
+
