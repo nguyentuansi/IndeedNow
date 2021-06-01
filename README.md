@@ -17085,3 +17085,53 @@
 > When we think of Swatch, we remember accessorizing our arm with two or three of the brand's colorfully graphic timepieces, obviously more for their fashion swag rather than any genuine intent of keeping abreast of the day's passing hours. The Swiss watchmaker is still around and continues to innovate, most recently on the material front with the announcement of BIOCERAMIC, a new ceramic material formulation composed of two-thirds ceramic and one-third bio-sourced plastic. About that one-third bioplastic: Swatch's BIOCERAMIC 'mixes conventional ceramic with a bioplastic derived from castor oil,' a sequel to last year's retro-styled '1983 Collection' using the same biosourced formulation.
 
 
+***
+![Predicate Logic For Programmers](https://external-preview.redd.it/f5EnQkxzI2TMVf828bZzlwmDUDjNwAhk9d0yK_R5d9c.jpg?auto=webp&s=cad01b4a18b6c6e7c59750e3ef4ab3374389f44a "Predicate Logic For Programmers")
+
+
+[Predicate Logic For Programmers](https://www.reddit.com/r/programming/comments/npibyh/predicate_logic_for_programmers/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The Anxiety of Influencers](https://harpers.org/wp-content/uploads/2021/05/CUT-18-thumb.jpg "The Anxiety of Influencers")
+
+
+[The Anxiety of Influencers](https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/)
+
+
+> When I return to Clubhouse For the Boys the next morning, the guys are slumped at the kitchen table, slurping groggily at their just-cooked Cup of Noodles. Apparently, last night they went to Saddle Ranch—a chophouse on Sunset that has become a hot spot for influencers—where they had a mighty piss-up and are thus now epically hungover. 'Barrett,' Baron says, 'last night was comedy. These four random girls were here at like two-thirty in the morning, and the next thing you know they're topless in our hot tub, four girls that we've never seen before.
+
+
+***
+![ONE Championship Uses Brightcove to Stream Every Punch, Kick, Takedown, and Knockout on Its ‘ONE Super App'](https://mms.businesswire.com/media/20210531005027/en/1028723/23/COVE004_Brightcove_Logo_093020_RGB_K_%281%29.jpg "ONE Championship Uses Brightcove to Stream Every Punch, Kick, Takedown, and Knockout on Its ‘ONE Super App'")
+
+
+[ONE Championship Uses Brightcove to Stream Every Punch, Kick, Takedown, and Knockout on Its ‘ONE Super App'](https://www.businesswire.com/news/home/20210531005027/en/ONE-Championship-Uses-Brightcove-to-Stream-Every-Punch-Kick-Takedown-and-Knockout-on-Its-%E2%80%98ONE-Super-App%E2%80%99)
+
+
+> SINGAPORE--(BUSINESS WIRE)--ONE Championship (ONE), one of Asia's largest global sports media properties, features a diverse array of content stacks, including live events, fight highlights, and reality television programming. Since November 2020, ONE Championship's content has been streaming on the Brightcove Inc. (NASDAQ: BCOV) video platform through the ONE Super App, cutting the company's content management time in half and increasing video watch time by 300 percent. The ONE Super App, available on the Apple App Store and Google Play, features ONE TV, which now includes a Brightcove-powered customizable experience with thematic playlists that continuously roll out videos, in-app alerts, and the latest news.
+
+
+***
+![UPDATE 9](https://mms.businesswire.com/media/20210531005307/en/658312/23/logo.jpg "UPDATE 9")
+
+
+[UPDATE 9](https://www.businesswire.com/news/home/20210531005307/en/UPDATE-9---Notice-Regarding-the-Semiconductor-Manufacturing-Factory-Naka-Factory-Fire-Production-Capacity-Recovery-Status)
+
+
+> May 31, 2021 09:00 PM Eastern Daylight Time TOKYO--(BUSINESS WIRE)--Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced an update regarding production capacity recovery following the occurrence of a fire on March 19, 2021 at part of the processes in the N3 Building (300mm line) of Naka Factory. The production capacity of the N3 Building which resumed operation on April 17 has recovered to 88% as of the end of May in comparison to the production capacity before the occurrence of the fire.
+
+
+***
+![PS Plus for AU$60: save 25% on a yearly PlayStation subscription while stocks last](https://cdn.mos.cms.futurecdn.net/XDShkCrdaDf6RFtzP76rTk-1200-80.jpg "PS Plus for AU$60: save 25% on a yearly PlayStation subscription while stocks last")
+
+
+[PS Plus for AU$60: save 25% on a yearly PlayStation subscription while stocks last](https://www.techradar.com/news/ps-plus-for-audollar60-save-25-on-a-yearly-playstation-subscription-while-stocks-last)
+
+
+> (Image credit: Future) Amazon AU's Mid-Year Sale is officially under way, once again offering a huge number of products at significantly reduced prices.PS5 consoles may still be hard to come by, but if you're one of the lucky few who already have one, or even if you own a PS4 console, you will surely be interested in this particular discount: Amazon AU is currently offering a 12 month PlayStation Plus subscription for AU$59.95 – that's a saving of AU$20 from the usual AU$79.95 price.Traditionally, PS Plus subscriptions are only discounted a couple of times per year, usually in relation to Sony's Days of Play promotion.
+
+
