@@ -17413,3 +17413,50 @@
 > Digital Trends may earn a commission when you buy through links on our site. Are you on the hunt for a new AT&T smartphone on a budget? Are you thinking of switching to AT&T or already an AT&T customer? Good news: As one of the 'big three' U.S. cellular service providers, AT&T always has some of the hottest smartphone deals available anywhere. With AT&T 5G coverage continuing its nationwide rollout, now's a great time to grab a new mobile built for this growing network. To save you the trouble sorting through everything, though, we've already done the work to bring you the best cheap AT&T phone deals on tap this month, so keep reading.
 
 
+***
+![JWTs done right: Quebec's proof of vaccination](https://external-preview.redd.it/3qNVk2ZxpHq56JEn_dWXWQIyLcwrwUOmRxUwdvS77wQ.jpg?auto=webp&s=c0b3f2900aafc79b28e5540b55f94082540d4f61 "JWTs done right: Quebec's proof of vaccination")
+
+
+[JWTs done right: Quebec's proof of vaccination](https://www.reddit.com/r/programming/comments/npzivt/jwts_done_right_quebecs_proof_of_vaccination/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![How to watch Mayweather vs Logan Paul: time, date, card and live stream details](https://cdn.mos.cms.futurecdn.net/iAwZTZURdUabDYxSCZq7h5-1200-80.jpg "How to watch Mayweather vs Logan Paul: time, date, card and live stream details")
+
+
+[How to watch Mayweather vs Logan Paul: time, date, card and live stream details](https://www.techradar.com/news/floyd-mayweather-vs-logan-paul-date-time-card-how-to-watch-live-stream)
+
+
+> It may not quite be Ali vs Frazier or Canelo vs GGG, but you can bet your bottom dollar that Floyd Mayweather vs Logan Paul is going to bring in some serious PPV tickets. If you're among the millions who want to tune into this one, then we have all the information you need right here on how to watch a Floyd Mayweather vs Logan Paul live stream - including the date, time, full card and more.Floyd Mayweather vs Logan Paul live streamDate: Sunday, June 6Venue: Hard Rock Stadium, Miami Gardens, FloridaEvent start time: 8 pm ET / 5 pm PT / 1am BST / 10am AESTMayweather vs Paul time (approx): Midnight ET / 9pm PT / 5am BST / 2pm AESTPPV options: Showtime (US) / Sky Sports Box Office (UK) / Main Event (AU) / Fanmio (RoW)Mayweather is one of the greatest to have ever stepped into the boxing ring and has an unblemished 50-0 professional record.
+
+
+***
+[Bitcoin miners in Argentina are capitalizing on government-subsidized electricity, as foreign currency exchange rules that ban buying USD make crypto attractive (Scott Squires/Bloomberg)](http://www.techmeme.com/210601/p24#a210601p24)
+
+
+> Scott Squires / Bloomberg: Bitcoin miners in Argentina are capitalizing on government-subsidized electricity, as foreign currency exchange rules that ban buying USD make crypto attractive — - Power subsidies, FX controls help miners turn outsize profits — Canada's Bitfarms takes notice, plans local mining operation
+
+
+***
+![Adlumin Appoints New Director of Innovation and Technology](https://mms.businesswire.com/media/20210601005836/en/882074/23/Adlumin_Logo_Vertical_WebRes_White.jpg "Adlumin Appoints New Director of Innovation and Technology")
+
+
+[Adlumin Appoints New Director of Innovation and Technology](https://www.businesswire.com/news/home/20210601005836/en/Adlumin-Appoints-New-Director-of-Innovation-and-Technology)
+
+
+> June 01, 2021 01:17 PM Eastern Daylight Time WASHINGTON--(BUSINESS WIRE)--Last month, Adlumin announced Alexander D Crepas as Director of Innovation and Technology. Crepas is based out of Chicago and will oversee technical channel enablement and help execute and manage product innovation. Crepas brings over 25 years of dedicated information security experience and started his formal career in college as a Linux and Network Admin, helping build a regional internet service provider (ISP). After receiving his degree in Computer Science, Crepas worked for several Fortune 100 security teams developing their information security programs.
+
+
+***
+![Jaroslav Lobačevski](https://external-preview.redd.it/WnAmXECSW-TGIi9jGCGNNuDMCMsubrbAWrfw86W0TRc.jpg?auto=webp&s=183c2dbf954ceb8397ab3b09ebe4268ba86f8a49 "Jaroslav Lobačevski")
+
+
+[Jaroslav Lobačevski](https://www.reddit.com/r/programming/comments/npz3s2/jaroslav_lobačevski_joplin_electronjs_based/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+
