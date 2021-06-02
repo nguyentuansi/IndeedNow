@@ -17601,3 +17601,53 @@
 > Stephen Nellis / Reuters: A CA court dismissed bribery charges against Apple's security chief Thomas Moyer, saying accusation of iPad donations for gun permits was “pure speculation” — A court in California on Tuesday dismissed bribery charges against Apple Inc's (AAPL.O) security chief …
 
 
+***
+![Amazon Prime Day 2021 date and time: here's when the deals will begin](https://cdn.mos.cms.futurecdn.net/v9tmDXRwytFQgFiaxWwmW-1200-80.png "Amazon Prime Day 2021 date and time: here's when the deals will begin")
+
+
+[Amazon Prime Day 2021 date and time: here's when the deals will begin](https://www.techradar.com/news/amazon-prime-day-2021-date)
+
+
+> (Image credit: Amazon) The official Amazon Prime Day date is June 21 and 22, according to an official press release from Amazon today and confirming previous reporting.That's when we'll see Prime Day deals, which is poised to be a 48-hour marathon of discounts on almost everything that Amazon sells: electronics, home goods, and of course Amazon-created products like Echo, Kindle and Fire TV.Amazon Prime Day has become a mini Black Friday and Cyber Monday, all contained on Amazon's websites. But it only lasts 48 hours and it's only open to Amazon Prime members.
+
+
+***
+![「Apple Pay」と「Google Pay」で仮想通貨利用可能に　Coinbase Cardが対応](https://image.itmedia.co.jp/news/articles/2106/02/l_yu_coinbase1.jpg "「Apple Pay」と「Google Pay」で仮想通貨利用可能に　Coinbase Cardが対応")
+
+
+[「Apple Pay」と「Google Pay」で仮想通貨利用可能に　Coinbase Cardが対応](https://www.itmedia.co.jp/news/articles/2106/02/news107.html)
+
+
+> No body in the article.
+
+
+***
+![Want to watch Live TV on your PC or laptop? Here's how you can install JioTV](https://images.indianexpress.com/2021/06/Jio-TV-app.jpg "Want to watch Live TV on your PC or laptop? Here's how you can install JioTV")
+
+
+[Want to watch Live TV on your PC or laptop? Here's how you can install JioTV](https://indianexpress.com/article/technology/techook/how-to-watch-jio-tv-live-tv-on-pc-or-laptop-guide-7339658/)
+
+
+> JioTV is a good option for watching live TV anywhere, anytime as one doesn't have to pay for cable channels and you can watch the TV via the internet. The JioTV app currently offers around 822 channels and even lets you watch past seven days shows. The app comes with a multilingual user interface in more than 15 languages. But, is it possible to watch JioTV on a PC or laptop? Read on to know the trick. Is JioTV available for all the platforms? While you can use the JioCinema app on your Smart TV and PC, the JioTV app is only available for smartphones and tablets.
+
+
+***
+![iPhone 13 series to reportedly have bigger batteries than those on iPhone 12 models](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/iphone_12_pro_max_1200x768-483x271_1200_210602101428.jpeg "iPhone 13 series to reportedly have bigger batteries than those on iPhone 12 models")
+
+
+[iPhone 13 series to reportedly have bigger batteries than those on iPhone 12 models](https://www.businesstoday.in/technology/iphone-13-series-to-reportedly-have-bigger-batteries-than-those-on-iphone-12-models/story/440603.html)
+
+
+> Highlights Apple's iPhone 13 series models may come with bigger batteries inside. The biggest jump in battery capacity could be on the iPhone 13 Pro Max. Apple is on track with the current production of iPhone 13 parts. iPhone 13 series is going to be better than the iPhone 12 series, and just to iterate, we have several rumours that point to one or the other thing about the upcoming iPhone models. A new one coming straight from China, the entire 2021 iPhone line-up, will have bigger batteries than the ones inside the iPhone 12 series.
+
+
+***
+![Indian cos top an unwanted global list](https://cdn.mos.cms.futurecdn.net/9jwoYqPpkcPNa9JuritsPT-1200-80.jpg "Indian cos top an unwanted global list")
+
+
+[Indian cos top an unwanted global list](https://www.techradar.com/news/indian-cos-top-an-unwanted-global-list-most-vulnerable-to-ransomware-attacks)
+
+
+> (Image credit: Future) Indian companies have made it to the top of a global list. But one that none of them would be proud of. India tops the list of top 30 countries for ransomware attacks with 68% of Indian organisations surveyed being hit by ransomware in the last 12 months. What more, around 67% of Indian firms whose data was encrypted paid a ransom to get back their data.Indian companies were the most likely to pay a ransom of all countries surveyed --- the global average was just around 32%.
+
+
