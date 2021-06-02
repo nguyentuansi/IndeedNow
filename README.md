@@ -17751,3 +17751,53 @@
 > GUEST INTERVIEW: Appian is the low-code automation platform that lets you turn great ideas into powerful business applications, creating apps visually via flowchart much faster than traditional ways. Matt Calkins is the CEO and co-founder of Appian, and he joins us for a second time in 8 months to talk about Appian in 2021, Appian World 2021 and the ongoing low-code revolution. We first spoke with CEO and co-founder of Appian, Matt Calkins, in a video interview in late October 2020, where he explained the low-code revolution, HyperAutomation, business, board games, Garry Kasparov and much more.
 
 
+***
+![Why Python 4.0 might never arrive, according to its creator](https://external-preview.redd.it/etve17JITzEG7C2qsjij3SZDz-zTB01dqXPPfDV1NcE.jpg?auto=webp&s=76f3cca23856876dcd1aa658ab2ddf561d60c990 "Why Python 4.0 might never arrive, according to its creator")
+
+
+[Why Python 4.0 might never arrive, according to its creator](https://www.reddit.com/r/programming/comments/nqjaox/why_python_40_might_never_arrive_according_to_its/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Why are you suddenly getting so many scam texts? Truth behind Royal Mail, Hermes and HMRC ‘fraud wave'](https://www.thesun.co.uk/wp-content/uploads/2021/06/COMP-CFP-SCAMv2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Why are you suddenly getting so many scam texts? Truth behind Royal Mail, Hermes and HMRC ‘fraud wave'")
+
+
+[Why are you suddenly getting so many scam texts? Truth behind Royal Mail, Hermes and HMRC ‘fraud wave'](https://www.thesun.co.uk/tech/15139450/text-scams-spam-why-royal-mail-hermes-hmrc/)
+
+
+> SCAM SPAM Gareth NorrisAlexandra Brookes12:05, 2 Jun 2021Updated: 12:05, 2 Jun 2021A NEW 'fraud wave' has been reported in the UK, targeting mobile phone users with texts that, at first glance, appear to be from delivery companies or government institutions.  You may even have been targeted by the text scams yourself, which often ask you to pay missed delivery charges or tax fees and are sent from numbers that claim to belong to Royal Mail, Hermes or HMRC. Text scams are becoming increasingly common – look out for suspicious links and NEVER click themCredit: Ofcom While these scams are actually nothing new, there does appear to have been a sudden and dramatic increase in their volume in recent weeks, coming after the recent spike in coronavirus vaccine scams and scams targeting those seeking to buy a pet online during the pandemic.
+
+
+***
+![No commetn...](https://external-preview.redd.it/Tc5XVEFBcGiO9L6-XB5-n4x22sJnOXdrfQPJV8vD2A0.jpg?auto=webp&s=3b11c91404be676b59f6295c16935b10765754d7 "No commetn...")
+
+
+[No commetn...](https://www.reddit.com/r/programming/comments/nqj6yo/no_commetn/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Ericsson Private 5G set to transform secure on-site connectivity](https://itwire.com/media/k2/items/cache/e282f7ef51b544772b65228713a69dad_XS.jpg "Ericsson Private 5G set to transform secure on-site connectivity")
+
+
+[Ericsson Private 5G set to transform secure on-site connectivity](https://itwire.com/telecoms-and-nbn/ericsson-private-5g-set-to-transform-secure-on-site-connectivity.html)
+
+
+> Ericsson Private 5G is a new, next-generation private cellular 4G and 5G network tailored to drive Industry 4.0 and the digital transformation of industrial sectors. It is said to 'optimise and simplify operations with cloud-based network management, zero downtime upgrades, guaranteed high performance and installation within hours.' Ericsson's Office Unboxed event was held yesterday, which you can register for here to be advised when the on-demand versions go live (as they have not yet), but in the meantime, Ericsson has shared information about its new Private 5G capability.
+
+
+***
+![45 Father's Day Gifts for the Dependable Dad in Your Life](https://media.wired.com/photos/5d795a598827100009bfec0d/191:100/w_1600,c_limit/Gear-iPad-2019-7th-generation-SOURCE-Apple.jpg "45 Father's Day Gifts for the Dependable Dad in Your Life")
+
+
+[45 Father's Day Gifts for the Dependable Dad in Your Life](https://www.wired.com/gallery/best-fathers-day-gift-ideas-2021)
+
+
+> Show how much you appreciate him this Father's Day with these useful and offbeat gift ideas.Save this story for later.Why are dads notoriously hard to shop for? Is it because they go shopping four days before Father's Day to buy themselves everything they need, or the fact that when you ask them for ideas, they come up empty? This year, we've put together a mix of things Dad doesn't know he needs and things he likely doesn't even know exist. With our help, you'll definitely outsmart him and land him with a killer Father's Day gift.
+
+
