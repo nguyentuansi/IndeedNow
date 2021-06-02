@@ -17895,3 +17895,47 @@
 > June 02, 2021 10:41 AM Eastern Daylight Time DALLAS--(BUSINESS WIRE)--UWorld, a worldwide leader in online learning to prepare for high-stakes exams, has launched an innovative new Learning Platform that will ease faculty workloads, inform administrators of progress, and increase program pass rates. UWorld's Learning Platform was developed in collaboration with educators, administrators, and students. It represents the company's strategic vision to enable both students and educators with tools to promote content mastery and critical thinking across the curriculum.
 
 
+***
+[Facebook says Messenger and Instagram will get deeper support for shared AR effects and games in video calls; Facebook's SparkAR platform now has 600K creators (Scott Stein/CNET)](http://www.techmeme.com/210602/p40#a210602p40)
+
+
+> Scott Stein / CNET: Facebook says Messenger and Instagram will get deeper support for shared AR effects and games in video calls; Facebook's SparkAR platform now has 600K creators — Expect weird hats and other shared experiences, like in Facebook's Portal devices. — Facebook's augmented reality efforts …
+
+
+***
+![Apple releases new study showing size of the App Store and impact of coronavirus ahead of major WWDC event](https://static.independent.co.uk/2021/05/20/17/applewatch.jpg?width=1200&auto=webp&quality=75 "Apple releases new study showing size of the App Store and impact of coronavirus ahead of major WWDC event")
+
+
+[Apple releases new study showing size of the App Store and impact of coronavirus ahead of major WWDC event](https://www.independent.co.uk/life-style/gadgets-and-tech/apple-app-store-size-value-wwdc-b1858455.html)
+
+
+> Apple has released new details on the size of the App Store, its growth and how developers are making money, amid scrutiny over the online shop's policies.The new report shows that business done through the 'App Store ecosystem' added up to $634 billion in 2020, a 24 per cent increase over the previous year.Much of that increased activity was the result of the pandemic, and growth came from a variety of apps including those that let people chat from home and order food. Others, such as transport apps, did see a marked drop.
+
+
+***
+![2021 Apple TV 4K vs. 2017 Apple TV 4K: Is It Worth Upgrading?](https://images.macrumors.com/t/f3l91Cj5cgpnGf9fuvEatoMXIR8=/2500x/https://images.macrumors.com/article-new/2021/06/AppleTV-4k-w-Remotes-contrast2.jpg "2021 Apple TV 4K vs. 2017 Apple TV 4K: Is It Worth Upgrading?")
+
+
+[2021 Apple TV 4K vs. 2017 Apple TV 4K: Is It Worth Upgrading?](https://www.macrumors.com/2021/06/02/apple-tv-4k-hands-on/)
+
+
+> Apple in April unveiled a new version of the 4K Apple TV, but on the surface, it's hard to tell it apart from its predecessor because it looks the same as the 2017 model. There are, however, a few internal changes, but are those changes worth upgrading for? That's what we're aiming to find out in our ‌Apple TV‌ 4K hands-on video. Subscribe to the MacRumors YouTube channel for more videos.Compared to the original ‌Apple TV‌ 4K, there are no design changes to the second-generation ‌Apple TV‌ 4K with one peripheral exception -- the Siri Remote.
+
+
+***
+![Grab an Instant Pot for less this Prime Day](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/11/instant-pot-duo-60-lifestyle-01.jpg "Grab an Instant Pot for less this Prime Day")
+
+
+[Grab an Instant Pot for less this Prime Day](https://www.imore.com/these-prime-day-instant-pot-deals-will-have-you-cooking-great-money-you-save)
+
+
+> One of the biggest phenomenons in recent years, at least for the kitchen, is the rise of the pressure cooker, with the best Instant Pot leading the pack. With a pressure cooker like the Instant Pot, cooking healthy but delicious meals for the entire family has never been easier. In fact, one of the best reasons to use an Instant Pot is the fact that you can pretty much put all of your ingredients in, set it, and forget about it until it's time to eat! It's also June, which is one of the best times to purchase one because there are going to be some great Prime Day Instant Pot deals coming later this month.
+
+
+***
+[Apple Card has been experiencing an outage for at least four hours, impacting all users and most functionality, including payments and managing the card (Michael Potuck/9to5Mac)](http://www.techmeme.com/210602/p39#a210602p39)
+
+
+> Michael Potuck / 9to5Mac: Apple Card has been experiencing an outage for at least four hours, impacting all users and most functionality, including payments and managing the card — Apple Card is seeing downtime this morning and Apple says the outage is impacting all users. — Update 8:28 am PT: The outage is still ongoing.
+
+
