@@ -17557,3 +17557,47 @@
 > Over the past two weeks, we've been Naruto-running headfirst into an extraterrestrial epidemic. A highly anticipated unclassified report, expected to be delivered to the US Congress this month, has sparked renewed interest in UFOs, alien visitation and government cover-ups. The report, written by a crack team of experts from the Pentagon, the FBI and the Office of Naval Intelligence, is expected to feature evidence of "unidentified aerial phenomena," or UAP. So, aliens are back in vogue. Their popularity is approaching levels not seen since the "Storm Area 51" raid of 2019, when a viral Facebook event became a meme and turned the town of Rachel, Nevada, upside down.
 
 
+***
+[Cognigy, which offers a low-code conversational AI platform for businesses to create text and voice virtual agents, raises $44M Series B led by Insight Partners (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210601/p38#a210601p38)
+
+
+> Ingrid Lunden / TechCrunch: Cognigy, which offers a low-code conversational AI platform for businesses to create text and voice virtual agents, raises $44M Series B led by Insight Partners — Artificial intelligence is becoming an increasingly common part of how customer service works — a trend that was accelerated …
+
+
+***
+![New Book: Hands-on Scala Programming](https://external-preview.redd.it/UWtWxl8EJOzkyew_l_hVZifGVWpKKEDA44sFRDyw6eI.jpg?auto=webp&s=d3d9faa331fea13d5be74594c574b51caff4f130 "New Book: Hands-on Scala Programming")
+
+
+[New Book: Hands-on Scala Programming](https://www.reddit.com/r/programming/comments/nq9xuu/new_book_handson_scala_programming/)
+
+
+> OP is very likely a repost botThese bots steal content and repost it to build karma. For example, this post is stolen from this original post.The accounts are often resold and are used to spam, scam, or for other nefarious purposes.If you check OP's profile, you will likely see many posts and comments based on past popular contributions from authentic Redditors, but the OP is not invested in these communities and they will only regurgitate content as long as it takes to build up enough karma to make money.
+
+
+***
+![Strategy Analytics: Xiaomi Smartphone Shipments Grew 1000 Percent in Chile in Q1 2021, Poised for Second Spot in 2021](https://mms.businesswire.com/media/20210601006122/en/882254/23/4400293c_chile_smartphone_shipments_marketshare.jpg "Strategy Analytics: Xiaomi Smartphone Shipments Grew 1000 Percent in Chile in Q1 2021, Poised for Second Spot in 2021")
+
+
+[Strategy Analytics: Xiaomi Smartphone Shipments Grew 1000 Percent in Chile in Q1 2021, Poised for Second Spot in 2021](https://www.businesswire.com/news/home/20210601006122/en/Strategy-Analytics-Xiaomi-Smartphone-Shipments-Grew-1000-Percent-in-Chile-in-Q1-2021-Poised-for-Second-Spot-in-2021)
+
+
+> June 01, 2021 09:18 PM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--According to new research from Strategy Analytics, Chile smartphone shipments jumped 71% YoY to an all-time high of 2.9 million units in the first quarter of 2021. Xiaomi was the star performer, surging over 1000% annually to capture third place and a record 16% marketshare. Xiaomi is on track to grab second place by the end of the year. Neil Mawston, Executive Director at Strategy Analytics, said, 'Smartphone shipments in Chile jumped 71% YoY from 1.
+
+
+***
+![Python @ LibHunt](https://external-preview.redd.it/1D-VqsHvNrPeswLH4fSlRJBFFjoxT88Dwksv7r2Rc-8.jpg?auto=webp&s=64e1be1b37f3b77dec6e9874fb919d55871c5e5b "Python @ LibHunt")
+
+
+[Python @ LibHunt](https://www.reddit.com/r/Python/comments/nq9t4e/python_libhunt_discover_popular_projects_based_on/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[A CA court dismissed bribery charges against Apple's security chief Thomas Moyer, saying accusation of iPad donations for gun permits was "pure speculation" (Stephen Nellis/Reuters)](http://www.techmeme.com/210601/p37#a210601p37)
+
+
+> Stephen Nellis / Reuters: A CA court dismissed bribery charges against Apple's security chief Thomas Moyer, saying accusation of iPad donations for gun permits was “pure speculation” — A court in California on Tuesday dismissed bribery charges against Apple Inc's (AAPL.O) security chief …
+
+
