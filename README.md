@@ -17845,3 +17845,53 @@
 > Mozilla has revamped Firefox's design to offer users a faster and cleaner web browsing experience. The company claims that the new update will deliver a 'safe, calm, and useful experience online.' The most significant change is in the tab interface. The tabs will now appear slightly bigger and detached from the browser to make them look separate from the toolbar. 'It's no surprise that more than 50 percent of people have 4 tabs or more open. We redesigned these tabs so that they floated neatly,' the company said in a blog post.
 
 
+***
+![Apple Ranks Third in Annual Fortune 500 List With $275 Billion Revenue](https://images.macrumors.com/t/qDRwvo4xls1M90JNT63GFhiDv6c=/1600x/https://images.macrumors.com/article-new/2020/12/aapl-logo-banner.jpg "Apple Ranks Third in Annual Fortune 500 List With $275 Billion Revenue")
+
+
+[Apple Ranks Third in Annual Fortune 500 List With $275 Billion Revenue](https://www.macrumors.com/2021/06/02/apple-ranks-third-in-fortune-500/)
+
+
+> Monday May 31, 2021 4:13 am PDT by Hartley CharltonWhile announcing its latest chips yesterday, Intel launched another aggressive public attack on Mac devices, focusing on the experience of gaming (via PC Gamer).Intel yesterday announced two new 11th Generation H-series laptop processors, featuring clock speeds up to 5GHz, Intel Wi-Fi 6/6E, and 1080p gameplay on popular titles, in high-volume, thin designs. Following the announcement, the...
+
+
+***
+![The RAM 1866 ECC REG on cMP 2010](https://images.macrumors.com/social/?t=2298919&v=6 "The RAM 1866 ECC REG on cMP 2010")
+
+
+[The RAM 1866 ECC REG on cMP 2010](https://forums.macrumors.com/threads/the-ram-1866-ecc-reg-on-cmp-2010.2298919/)
+
+
+> Hi all: I plan to replace ECC 16G RAM. The model I saw on the store is: DDR3 ECC REG 16G 1866 REG I want to know, can 1866 be used on cMP 2010 dual CPU processor board? In addition, this RAM has REG. Will there be any problems? Thanks for help
+
+
+***
+![Spider-Man, Iron Man, Ant-Man, and Captain America gaming chairs 50% off](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/anda-seat-spider-man-gaming-chair.jpg "Spider-Man, Iron Man, Ant-Man, and Captain America gaming chairs 50% off")
+
+
+[Spider-Man, Iron Man, Ant-Man, and Captain America gaming chairs 50% off](https://www.imore.com/anda-seat-marvel-gaming-chairs-50-promo-code)
+
+
+> A comfortable chair makes all of the difference when sitting at a computer for long stretches. Some of the best ones on the market are undoubtedly Anda Seat's gaming chairs, which feature steel frames, soft PVC leather, and memory foam pillows. Anda Seat's limited-time deal lets you get premium gaming chairs at half off while supplies last. There are four Marvel designs to choose from: Captain America, Iron Man, Spider-Man, and Ant-Man. This special offer is valid from May 12 - June 12. However, whenever Anda Seat's chairs go on sale they sell out fast, so you'll want to jump on this offer while you can.
+
+
+***
+![UI for Git-Based Machine Learning Experiments Management](https://external-preview.redd.it/caWgA0239hyRiTs1skA1h-QYN-mKE_SoOGisTSyfXdo.jpg?auto=webp&s=0b708537a3a12688ef5af915fb5b453eec816889 "UI for Git-Based Machine Learning Experiments Management")
+
+
+[UI for Git-Based Machine Learning Experiments Management](https://www.reddit.com/r/programming/comments/nqncsi/ui_for_gitbased_machine_learning_experiments/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![UWorld Debuts Learning Platform to Ease Faculty Workloads and Raise Pass Rates](https://mms.businesswire.com/media/20210602005739/en/882209/23/UWorld-logo-updated.jpg "UWorld Debuts Learning Platform to Ease Faculty Workloads and Raise Pass Rates")
+
+
+[UWorld Debuts Learning Platform to Ease Faculty Workloads and Raise Pass Rates](https://www.businesswire.com/news/home/20210602005739/en/UWorld-Debuts-Learning-Platform-to-Ease-Faculty-Workloads-and-Raise-Pass-Rates)
+
+
+> June 02, 2021 10:41 AM Eastern Daylight Time DALLAS--(BUSINESS WIRE)--UWorld, a worldwide leader in online learning to prepare for high-stakes exams, has launched an innovative new Learning Platform that will ease faculty workloads, inform administrators of progress, and increase program pass rates. UWorld's Learning Platform was developed in collaboration with educators, administrators, and students. It represents the company's strategic vision to enable both students and educators with tools to promote content mastery and critical thinking across the curriculum.
+
+
