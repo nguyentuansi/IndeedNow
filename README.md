@@ -17701,3 +17701,53 @@
 > Curious - especially for those with an apple pencil Sep 25, 2020 99 153 worldwide nope, i love the screen. Had the 1st gen 12.9 for almost 5 years without screen protection with minor scratches that doesn't bother me. There is some form of satisfaction and enjoyment. Paid a premium price for a device, must enjoyed as is then, it boils down to use case and preference. the choice No - I live dangerously should be change to just 'No'
 
 
+***
+![Huge PS5 restock to drop on Amazon TODAY with 13,000 consoles up for grabs, leaker claims](https://www.thesun.co.uk/wp-content/uploads/2020/11/MB-COMP-PS5-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Huge PS5 restock to drop on Amazon TODAY with 13,000 consoles up for grabs, leaker claims")
+
+
+[Huge PS5 restock to drop on Amazon TODAY with 13,000 consoles up for grabs, leaker claims](https://www.thesun.co.uk/tech/15137549/ps5-restock-amazon-consoles-playstation/)
+
+
+> AMAZON is set for a huge PlayStation 5 restock today, offering gamers a chance to end their months-long search for the sold out console. That's according to one widely-respected leaker, who says that 13,000 next gen machines will be making their way to the UK version of the web store. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news The PS5 has been largely sold out since it hit shelves last NovemberCredit: sony/the sun The consoles will drop across the next seven days, tipster PS5Instant tweeted.
+
+
+***
+![Outlook on the Medium Format Camera Global Market to 2026](https://mms.businesswire.com/media/20210602005479/en/371054/23/ResearchAndMarkets_800px.jpg "Outlook on the Medium Format Camera Global Market to 2026")
+
+
+[Outlook on the Medium Format Camera Global Market to 2026](https://www.businesswire.com/news/home/20210602005479/en/Outlook-on-the-Medium-Format-Camera-Global-Market-to-2026---by-Type-and-Region---ResearchAndMarkets.com)
+
+
+> June 02, 2021 05:29 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Medium Format Camera Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026" report has been added to ResearchAndMarkets.com's offering. The global medium format camera market reached a value of US$ 141.7 Million in 2020. Looking forward, the publisher expects the global medium format camera market to grow at a CAGR of 3.5% during 2021-2026. Medium format photography conventionally uses the 120 film size.
+
+
+***
+![Bitcoin price – LIVE: Dogecoin value surge turns cryptocurrency market UPSIDE DOWN following Coinbase Pro listing](https://www.thesun.co.uk/wp-content/uploads/2021/06/crypto-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price – LIVE: Dogecoin value surge turns cryptocurrency market UPSIDE DOWN following Coinbase Pro listing")
+
+
+[Bitcoin price – LIVE: Dogecoin value surge turns cryptocurrency market UPSIDE DOWN following Coinbase Pro listing](https://www.thesun.co.uk/tech/15127172/bitcoin-price-latest-dogecoin-cryptocurrency-coinbase-pro-listing-live/)
+
+
+> DOGE GONE 10:27, 2 Jun 2021Updated: 10:27, 2 Jun 2021DOGECOIN has shot up in price after it was announced users will now be available to trade on Coinbase Pro. "Starting today, transfer Doge into your Coinbase Pro account ahead of trading. Support for Doge will generally be available in Coinbase's supported jurisdictions," the crypto exchange wrote in a blog post. "Trading will begin on or after 9AM Pacific Time (PT) Thursday 3 June, if liquidity conditions are met." The price increased by almost 10% following the announcement.
+
+
+***
+![Deadpool can exist in the MCU with one big change, says director](https://cdn.mos.cms.futurecdn.net/7e9282a7cc856c34040bcca97ece659b-1200-80.jpg "Deadpool can exist in the MCU with one big change, says director")
+
+
+[Deadpool can exist in the MCU with one big change, says director](https://www.techradar.com/news/deadpool-can-exist-in-the-mcu-with-one-big-change-says-director)
+
+
+> (Image credit: Fox) Could Deadpool exist in the MCU? It's been a question on many fans' minds ever since Disney's acquisition of 21st Century Fox – the studio behind the R-rated superhero's two live-action movies – in March 2019.In the two years since, however, we've had confirmation that the wisecracking comic book character will make his way into the MCU (more on this below) even if that won't be anytime soon.While we know that Deadpool 3 will take place in the MCU, some individuals are unsure that Marvel and Disney will retain one key element of what makes Deadpool so popular – including the director of Deadpool.
+
+
+***
+![VIDEO INTERVIEW: Matt Calkins explains low-code in 2021, talks Appian World and more](https://itwire.com/media/k2/items/cache/51aeb53e9ca5eaa1fc5a628c9f3cdff2_XS.jpg "VIDEO INTERVIEW: Matt Calkins explains low-code in 2021, talks Appian World and more")
+
+
+[VIDEO INTERVIEW: Matt Calkins explains low-code in 2021, talks Appian World and more](https://itwire.com/guest-articles/guest-interviews/video-interview-matt-calkins-explains-low-code-in-2021,-talks-appian-world-and-more-202106020926.html)
+
+
+> GUEST INTERVIEW: Appian is the low-code automation platform that lets you turn great ideas into powerful business applications, creating apps visually via flowchart much faster than traditional ways. Matt Calkins is the CEO and co-founder of Appian, and he joins us for a second time in 8 months to talk about Appian in 2021, Appian World 2021 and the ongoing low-code revolution. We first spoke with CEO and co-founder of Appian, Matt Calkins, in a video interview in late October 2020, where he explained the low-code revolution, HyperAutomation, business, board games, Garry Kasparov and much more.
+
+
