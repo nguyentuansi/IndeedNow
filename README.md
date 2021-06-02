@@ -17989,3 +17989,53 @@
 > June 02, 2021 04:09 PM Eastern Daylight Time DENVER--(BUSINESS WIRE)--ServiceSource International, Inc. (NASDAQ: SREV), the customer journey experience company, this week celebrates its fifth anniversary in Sofia, Bulgaria, and the ongoing growth of its employees and clients in the country. In 2016, the company accelerated its global expansion by opening a new office in Sofia, Bulgaria, its third office in the Europe, Middle East and Africa (EMEA) region, bringing highly sought-after careers in customer success and digital sales to the local economy.
 
 
+***
+![Walmart listing reveals ultra-affordable Android TV streaming stick](https://icdn.digitaltrends.com/image/digitaltrends/walmart-onn-android-tv-fhd-streaming-stick-featured.jpg "Walmart listing reveals ultra-affordable Android TV streaming stick")
+
+
+[Walmart listing reveals ultra-affordable Android TV streaming stick](https://www.digitaltrends.com/home-theater/walmart-onn-android-tv-4k-streaming-device/)
+
+
+> It looks like Walmart plans to start selling an onn.-branded Android TV streaming stick for $25. A listing on its website spotted by 9to5google.com shows a device called the 'onn. FHD Streaming Stick,' an Android TV-powered streamer that looks like it belongs to the same family as a 4K Android TV product that broke cover last week. The two gadgets appear to share the same voice-enabled remote control. Walmart In the box, Walmart includes the streaming stick, the remote, a Micro USB cable for power, and an AC adapter, plus an HDMI extension cable in case your TV's HDMI ports are inaccessible.
+
+
+***
+![Sylver Coinage Bot Competition](https://external-preview.redd.it/BZSHnuAlrHWMkZ2ponZIp44l_-wxz1G7UzjZJT08r0s.jpg?auto=webp&s=53603c2a377e3401da83c4a4f2274abe1ddd28c5 "Sylver Coinage Bot Competition")
+
+
+[Sylver Coinage Bot Competition](https://www.reddit.com/r/Python/comments/nqy34d/sylver_coinage_bot_competition/)
+
+
+> Hello,This post is to showcase my code which I will use for hosting a bot writing competition for the game Sylver Coinage. I also encourage any interested party to compete and write a bot (interesting python project for anyone interested). All my code can be found here.Basically, the package has all the information about the game in the ReadMe and the bots I wrote for the package are all heuristic algorithms that come up with a move based on a set of calculations.The testingSylver-version-1.3.py file is used to referee the matches between the bots and keeps track of the time of each player, the moves played so far in a given game, and the remaining legal moves in a given game.
+
+
+***
+![How To Nearby Share Between Your Phone & Chromebook](https://www.androidheadlines.com/wp-content/uploads/2021/06/How-to-Nearby-Share-Chromebook-smartphone.jpg "How To Nearby Share Between Your Phone & Chromebook")
+
+
+[How To Nearby Share Between Your Phone & Chromebook](https://www.androidheadlines.com/2021/06/how-to-nearby-share-android-smartphone-chromebook.html)
+
+
+> With the update to Chrome OS 91, the Chromebook platform has finally received the long-awaited Nearby Share features found on Android. But what exactly is Nearby Share and how does it work on a Chromebook? The feature isn't necessarily intuitive at first glance and many users may not have even heard of it.Well, that's exactly what this guide is here to discuss, in particular, with regard to the Chrome OS platform. So let's go ahead and dive right into how you can enable Nearby Share and use it. And into the benefits of the feature for those on the Chromebook platform.
+
+
+***
+![Study: California fire killed 10% of world's giant sequoias](https://www.clickorlando.com/resizer/ypQOF87a93D-X6b4WrUtpoGDej8=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/UBHLISPB3VEGLIB46GR2A2M27M.jpg "Study: California fire killed 10% of world's giant sequoias")
+
+
+[Study: California fire killed 10% of world's giant sequoias](https://www.clickorlando.com/tech/2021/06/02/study-california-fire-killed-10-of-worlds-redwood-trees/)
+
+
+> SEQUOIA NATIONAL PARK, Calif. – At least a tenth of the world's mature giant sequoia trees were destroyed by a single California wildfire that tore through the southern Sierra Nevada last year, according to a draft report prepared by scientists with the National Park Service. The Visalia Times-Delta newspaper obtained a copy of the report that describes catastrophic destruction from the Castle Fire, which charred 273 square miles (707 square km) of timber in Sequoia National Park.Researchers used satellite imagery and modeling from previous fires to determine that between 7,500 and 10,000 of the towering species perished in the fire.
+
+
+***
+![Study: California fire killed 10% of world's giant sequoias](https://www.clickondetroit.com/resizer/ypQOF87a93D-X6b4WrUtpoGDej8=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/UBHLISPB3VEGLIB46GR2A2M27M.jpg "Study: California fire killed 10% of world's giant sequoias")
+
+
+[Study: California fire killed 10% of world's giant sequoias](https://www.clickondetroit.com/tech/2021/06/02/study-california-fire-killed-10-of-worlds-redwood-trees/)
+
+
+> SEQUOIA NATIONAL PARK, Calif. – At least a tenth of the world's mature giant sequoia trees were destroyed by a single California wildfire that tore through the southern Sierra Nevada last year, according to a draft report prepared by scientists with the National Park Service. The Visalia Times-Delta newspaper obtained a copy of the report that describes catastrophic destruction from the Castle Fire, which charred 273 square miles (707 square km) of timber in Sequoia National Park.Researchers used satellite imagery and modeling from previous fires to determine that between 7,500 and 10,000 of the towering species perished in the fire.
+
+
