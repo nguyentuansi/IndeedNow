@@ -17939,3 +17939,53 @@
 > Michael Potuck / 9to5Mac: Apple Card has been experiencing an outage for at least four hours, impacting all users and most functionality, including payments and managing the card — Apple Card is seeing downtime this morning and Apple says the outage is impacting all users. — Update 8:28 am PT: The outage is still ongoing.
 
 
+***
+![The MatePad Pro Is The First Huawei Tablet With HarmonyOS](https://www.androidheadlines.com/wp-content/uploads/2019/08/Huawei-HarmonyOS-launch-image-2.jpg "The MatePad Pro Is The First Huawei Tablet With HarmonyOS")
+
+
+[The MatePad Pro Is The First Huawei Tablet With HarmonyOS](https://www.androidheadlines.com/2021/06/the-matepad-pro-is-the-first-huawei-tablet-with-harmonyos.html)
+
+
+> Huawei has launched a series of new tablets with HarmonyOS to expand its device lineup with a native OS. So HarmonyOS, Huawei's exclusive operating system, won't be limited to smartphones and watches anymore.Huawei's new tablets are the MatePad 11, 10.8-inch MatePad Pro, and a 12.6-inch MatePad Pro. What makes these devices so special is HarmonyOS as an operating system. After a lengthy legal dispute with the Trump administration, all American companies were banned from doing business with Huawei, and Google stopped offering Android to the Chinese company.
+
+
+***
+![Elastic Reports Strong Fourth Quarter and Fiscal 2021 Financial Results](https://mms.businesswire.com/media/20210602005884/en/712541/23/elastic-logo-V-full_color.jpg "Elastic Reports Strong Fourth Quarter and Fiscal 2021 Financial Results")
+
+
+[Elastic Reports Strong Fourth Quarter and Fiscal 2021 Financial Results](https://www.businesswire.com/news/home/20210602005884/en/Elastic-Reports-Strong-Fourth-Quarter-and-Fiscal-2021-Financial-Results)
+
+
+> June 02, 2021 04:10 PM Eastern Daylight Time MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Elastic (NYSE: ESTC) ('Elastic'), the company behind Elasticsearch and the Elastic Stack, announced strong results for its fourth quarter and full fiscal year (ended April 30, 2021). Fourth Quarter Fiscal 2021 Financial Highlights Total revenue was $177.6 million, an increase of 44% year-over-year, or 39% on a constant currency basis. SaaS revenue was $51.3 million, an increase of 77% year-over-year, or 73% on a constant currency basis.
+
+
+***
+![MarketWise Announces Virtual Participation at the Baird Global Consumer, Technology & Services Conference](http://www.businesswire.com/images/bwlogo_square.png "MarketWise Announces Virtual Participation at the Baird Global Consumer, Technology & Services Conference")
+
+
+[MarketWise Announces Virtual Participation at the Baird Global Consumer, Technology & Services Conference](https://www.businesswire.com/news/home/20210602005995/en/MarketWise-Announces-Virtual-Participation-at-the-Baird-Global-Consumer-Technology-Services-Conference)
+
+
+> June 02, 2021 04:10 PM Eastern Daylight Time BALTIMORE--(BUSINESS WIRE)--MarketWise, LLC ('MarketWise' or the 'Company'), formerly known as Beacon Street Group, LLC, a leading multi-brand digital subscription services platform that provides premium financial research, software, education, and tools for self-directed investors, today announced that the Company's Chief Executive Officer, Mark Arnold, and Chief Financial Officer, Dale Lynch, will participate in a fireside chat at the Baird Global Consumer, Technology & Services Conference at 2:35 p.
+
+
+***
+![Smartsheet Inc. Announces First Quarter Fiscal Year 2022 Results](http://www.businesswire.com/images/bwlogo_square.png "Smartsheet Inc. Announces First Quarter Fiscal Year 2022 Results")
+
+
+[Smartsheet Inc. Announces First Quarter Fiscal Year 2022 Results](https://www.businesswire.com/news/home/20210602006025/en/Smartsheet-Inc.-Announces-First-Quarter-Fiscal-Year-2022-Results)
+
+
+> June 02, 2021 04:09 PM Eastern Daylight Time BELLEVUE, Wash.--(BUSINESS WIRE)--Smartsheet Inc. (NYSE: SMAR), the enterprise platform for dynamic work, today announced financial results for its first fiscal quarter ended April 30, 2021. 'We're very pleased with our strong start to the year, bolstered by our continued traction in the enterprise,' said Mark Mader, President and CEO of Smartsheet. 'These results demonstrate how no-code technologies like Smartsheet are becoming a critical part of the enterprise technology stack, enabling organizations to manage programs, processes, and projects at scale.
+
+
+***
+![ServiceSource Celebrates Five Years of Success in Sofia, Bulgaria](https://mms.businesswire.com/media/20210602006002/en/789682/23/SREV_Logo_DarkGrey.jpg "ServiceSource Celebrates Five Years of Success in Sofia, Bulgaria")
+
+
+[ServiceSource Celebrates Five Years of Success in Sofia, Bulgaria](https://www.businesswire.com/news/home/20210602006002/en/ServiceSource-Celebrates-Five-Years-of-Success-in-Sofia-Bulgaria)
+
+
+> June 02, 2021 04:09 PM Eastern Daylight Time DENVER--(BUSINESS WIRE)--ServiceSource International, Inc. (NASDAQ: SREV), the customer journey experience company, this week celebrates its fifth anniversary in Sofia, Bulgaria, and the ongoing growth of its employees and clients in the country. In 2016, the company accelerated its global expansion by opening a new office in Sofia, Bulgaria, its third office in the Europe, Middle East and Africa (EMEA) region, bringing highly sought-after careers in customer success and digital sales to the local economy.
+
+
