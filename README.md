@@ -17651,3 +17651,53 @@
 > (Image credit: Future) Indian companies have made it to the top of a global list. But one that none of them would be proud of. India tops the list of top 30 countries for ransomware attacks with 68% of Indian organisations surveyed being hit by ransomware in the last 12 months. What more, around 67% of Indian firms whose data was encrypted paid a ransom to get back their data.Indian companies were the most likely to pay a ransom of all countries surveyed --- the global average was just around 32%.
 
 
+***
+![Amazon Prime Day 2021 has been confirmed for June 21-22](https://www.imore.com/sites/imore.com/files/styles/large/public/article_images/2018/06/prime-day-worth-it-3k0s.jpg "Amazon Prime Day 2021 has been confirmed for June 21-22")
+
+
+[Amazon Prime Day 2021 has been confirmed for June 21-22](https://www.imore.com/amazon-prime-day-2021-has-been-confirmed-june-21-22)
+
+
+> Source: Amazon Amazon has today confirmed exactly when we can look forward to Prime Day kicking off. It's a little earlier than usual this year and obviously runs for more than a single day because of course it does. The big dates? June 21 and 22. Amazon's Prime Day deals are often a chance to bag some of the best prices of the year on everything from cosmetics to the latest iPhones and more. We'll of course be covering everything including things like the best AirTag accessories you can grab as well as the best iPad Pro deals and much more.
+
+
+***
+![Backyard mechanics use Queensland's lax laws to make fast cash while second-hand cars are scarce](https://images.perthnow.com.au/publication/C-2997276/47f3e451002949b6f4d29e2503047a2e2a04eeb2-16x9-x0y15w2048h1152.jpg?imwidth=1200 "Backyard mechanics use Queensland's lax laws to make fast cash while second-hand cars are scarce")
+
+
+[Backyard mechanics use Queensland's lax laws to make fast cash while second-hand cars are scarce](https://www.news.com.au/technology/motoring/car-advice/backyard-mechanics-use-queenslands-lax-laws-to-make-fast-cash-while-secondhand-cars-are-scarce/news-story/846bde4b9c1fe5b2f4b093116c906be3)
+
+
+> Backyard operators are exploiting Queensland's lax laws and privately selling unsafe vehicles to cash in on a shortage of used cars during the pandemic, motoring lobby groups have warned.Motor Traders Association of Queensland (MTAQ) and the Royal Automobile Club of Queensland (RACQ) are both concerned repairable write-offs – vehicles that cost more to repair than they are worth – are being pushed out because second-hand cars are scarce.NSW does not allow repairable write-offs, except for a few minor exemptions such as hail damage, to return to the road, while in Victoria written-off vehicles must undergo a thorough quality of repair inspection.
+
+
+***
+![How to Leverage the AWS WebSocket API for Serverless WebRTC signaling](https://external-preview.redd.it/raXB7j2mBl2djTKIZMNP-YGbfcVgJXIoTsjvddIz-CE.jpg?auto=webp&s=a981568857f313ba1b8d4cbbf83e68586841da27 "How to Leverage the AWS WebSocket API for Serverless WebRTC signaling")
+
+
+[How to Leverage the AWS WebSocket API for Serverless WebRTC signaling](https://www.reddit.com/r/programming/comments/nqg2sl/how_to_leverage_the_aws_websocket_api_for/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Push for big change to online porn](https://cdn.newsapi.com.au/image/v1/7aa3c49642f4130d70e7083c340615e3?width=1280 "Push for big change to online porn")
+
+
+[Push for big change to online porn](https://www.news.com.au/technology/online/internet/experts-warn-age-verification-for-porn-sites-could-be-unworkable-push-kids-to-the-dark-web/news-story/70cd0f58b4b5288b7ea38da1b9e79c59)
+
+
+> A plan for age verification on online porn sites is no 'silver bullet' and may even expose young people to child pornography on the dark web, Australians have been warned.The federal government has committed 'in principle' to implementing age verification on porn sites, but experts say the prevalence of virtual private networks - already allowing access to illegal music streaming services - would easily enable children to bypass the measure.The average age of first exposure to porn in Australia is 10 years old, while a 2017 study found 80 per cent of Australian men viewed explicit online material weekly.
+
+
+***
+![Did you put a screen shield on your iPad Pro 2021?](https://images.macrumors.com/social/?t=2298871&v=6 "Did you put a screen shield on your iPad Pro 2021?")
+
+
+[Did you put a screen shield on your iPad Pro 2021?](https://forums.macrumors.com/threads/did-you-put-a-screen-shield-on-your-ipad-pro-2021.2298871/)
+
+
+> Curious - especially for those with an apple pencil Sep 25, 2020 99 153 worldwide nope, i love the screen. Had the 1st gen 12.9 for almost 5 years without screen protection with minor scratches that doesn't bother me. There is some form of satisfaction and enjoyment. Paid a premium price for a device, must enjoyed as is then, it boils down to use case and preference. the choice No - I live dangerously should be change to just 'No'
+
+
