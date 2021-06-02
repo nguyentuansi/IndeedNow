@@ -17801,3 +17801,47 @@
 > Show how much you appreciate him this Father's Day with these useful and offbeat gift ideas.Save this story for later.Why are dads notoriously hard to shop for? Is it because they go shopping four days before Father's Day to buy themselves everything they need, or the fact that when you ask them for ideas, they come up empty? This year, we've put together a mix of things Dad doesn't know he needs and things he likely doesn't even know exist. With our help, you'll definitely outsmart him and land him with a killer Father's Day gift.
 
 
+***
+[GBPUSD bounces to a new high and tests 200 hour MA](https://www.forexlive.com/technical-analysis/!/gbpusd-bounces-to-a-new-high-and-tests-200-hour-ma-20210602)
+
+
+> 200 hour MA being tested at 1.41655 in the GBPUSD The GBPUSD spent the London morning session chopping its way to the downside. The pair moved toward a swing area between 1.4110 and 1.41152.  The low price bottomed at 1.4111 in early North American trading and bounced higher. 
+
+
+***
+![How many threads does the M1 processor have?](https://images.macrumors.com/social/?t=2298904&v=6 "How many threads does the M1 processor have?")
+
+
+[How many threads does the M1 processor have?](https://forums.macrumors.com/threads/how-many-threads-does-the-m1-processor-have.2298904/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+[Brookfield raises bid for Canada's Inter Pipeline, tops Pembina's offer](https://nationalpost.com/pmn/technology-pmn/brookfield-raises-bid-for-canadas-inter-pipeline-tops-pembinas-offer)
+
+
+> Brookfield Infrastructure Partners on Wednesday raised its hostile bid to buy Inter Pipeline Ltd to C$8.48 billion ($7.02 billion), topping Pembina Pipeline Corp's C$8.3 billion offer to buy the Canadian oil and gas transportation company. The latest offer valued Inter at C$19.75 per share, C$3.25 above the investment firm's previous offer and 30 Canadian cents above Pembina's offer on Tuesday. Brookfield's latest offer represents 4.4% premium to Inter's Tuesday's close, and comprises 74% cash as compared to zero in Pembina's offer.
+
+
+***
+![Global Internet of Things market to surpass $1 trillion mark by 2024](https://image-prod.iol.co.za/resize/650x366/File-picture-Pexels?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fb718a16-caa7-5490-8675-dcef913ff589&operation=CROP&offset=0x67&resize=1280x720 "Global Internet of Things market to surpass $1 trillion mark by 2024")
+
+
+[Global Internet of Things market to surpass $1 trillion mark by 2024](https://www.iol.co.za/technology/software-and-internet/global-internet-of-things-market-to-surpass-1-trillion-mark-by-2024-report-57cd0452-286f-40d5-bf54-d7f9b030c805)
+
+
+> New Delhi - The global internet of things (IoT) market by revenue will be worth $1.1 trillion by 2024, with much of the growth coming from wearables, a new report said on Wednesday.The global IoT market was worth $622 billion in 2020, up from $586 billion in 2019, and will grow to reach $1,077 billion by 2024, with a compound annual growth rate (CAGR) of 13 per cent over the period, according to data and analytics company GlobalData.The dominance of the enterprise IoT will continue for the foreseeable future.
+
+
+***
+![Mozilla Firefox gets revamped tabs interface, improved pop-up notifications, and more](https://images.indianexpress.com/2021/06/Firefox-new-update.jpg "Mozilla Firefox gets revamped tabs interface, improved pop-up notifications, and more")
+
+
+[Mozilla Firefox gets revamped tabs interface, improved pop-up notifications, and more](https://indianexpress.com/article/technology/tech-news-technology/mozilla-firefox-gets-revamped-tabs-interface-improved-pop-up-notifications-and-more-7341220/)
+
+
+> Mozilla has revamped Firefox's design to offer users a faster and cleaner web browsing experience. The company claims that the new update will deliver a 'safe, calm, and useful experience online.' The most significant change is in the tab interface. The tabs will now appear slightly bigger and detached from the browser to make them look separate from the toolbar. 'It's no surprise that more than 50 percent of people have 4 tabs or more open. We redesigned these tabs so that they floated neatly,' the company said in a blog post.
+
+
