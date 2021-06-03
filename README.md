@@ -18264,3 +18264,53 @@
 > June 03, 2021 06:32 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "North American Cloud Migration Market 2020-2026" report has been added to ResearchAndMarkets.com's offering. The North American cloud migration market is estimated to grow significantly during the forecast period. The market is mainly driven due to various factors including rising demand integration of cloud services in the country coupled with well-developed IT infrastructure. There is a significant presence of large and small cloud migration service providers in the region that is further projected to contribute to the growth of the market during the forecast period.
 
 
+***
+![What is 6G, how fast will it be, and when is it coming?](https://icdn.digitaltrends.com/image/digitaltrends/hp-envy-x2-snapdragon-835-processor.jpg "What is 6G, how fast will it be, and when is it coming?")
+
+
+[What is 6G, how fast will it be, and when is it coming?](https://www.digitaltrends.com/mobile/what-is-6g/)
+
+
+> It's already generating headlines in the world of technology, but what is 6G, and when will you be able to get it? Right now, 5G is (just about) here. You can buy a 5G smartphone, and enjoy all the benefits of a 5G data connection today. However, technology never stops, and there is already talk about the next step in the world of mobile connectivity. There's a growing amount of 6G information out there, and much of it is built around just a few reports and studies. Let's clear some things up about 6G, and find out what the state of this future tech really is.
+
+
+***
+![Your Amazon Echo Will Share Your Wi-Fi Network With Neighbors, Unless You Opt Out](https://media.npr.org/assets/img/2021/06/02/echo-show-10-charcoal-living-room_wide-c72fa91d718b81a3b184d285fe8251af3d1996c0.jpg?s=1400 "Your Amazon Echo Will Share Your Wi-Fi Network With Neighbors, Unless You Opt Out")
+
+
+[Your Amazon Echo Will Share Your Wi-Fi Network With Neighbors, Unless You Opt Out](https://www.npr.org/2021/06/03/1002590964/your-amazon-echo-will-share-your-wi-fi-network-with-neighbors-unless-you-opt-out)
+
+
+> Amazon's Echo Show devices are among those that will automatically be added to its shared Wi-Fi network scheme, called Amazon Sidewalk. Amazon Amazon is building a Wi-Fi network – using your Wi-Fi. It's called Amazon Sidewalk, and the company touts it as a way to help its devices work better, by extending the range of low-bandwidth devices to help them stay online. It does that by pooling neighbors' Wi-Fi to help connectivity for devices that are out of range. The network already includes certain Ring Floodlight Cam and Spotlight models as of late last year.
+
+
+***
+![Secure Web Whatsapp Message Blur Feature Released. The purpose of the extension is to prevent unwanted people from seeing your messages in your office or open environment.](https://external-preview.redd.it/bDhcUILETqkEiIIFzMr3PUDzq6cav0XB_Ttms0PwkGA.jpg?auto=webp&s=7cf5edaf55ee3016bf2fb7ced7adc8ab1ce0d3b4 "Secure Web Whatsapp Message Blur Feature Released. The purpose of the extension is to prevent unwanted people from seeing your messages in your office or open environment.")
+
+
+[Secure Web Whatsapp Message Blur Feature Released. The purpose of the extension is to prevent unwanted people from seeing your messages in your office or open environment.](https://www.reddit.com/r/programming/comments/nrcc4t/secure_web_whatsapp_message_blur_feature_released/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Here's everything you need to know about PUBG: New State](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/pubg_new_state.jpg "Here's everything you need to know about PUBG: New State")
+
+
+[Here's everything you need to know about PUBG: New State](https://www.androidcentral.com/pubg-new-state-gameplay-release-date-and-everything-you-need-know)
+
+
+> Source: PUBG/Krafton PlayerUnknown's BattleGrounds, also known as PUBG, was arguably the first big battle royale games that helped kick off the trend that has since overtaken the video game industry. While the world of PUBG has been brought to the mobile world in PUBG: Mobile, a brand new game, PUBG: New State, is also in development and currently in alpha testing. While fans wait for more information, Tencent hopes that PUBG: New State will follow in PUBG: Mobile's footsteps as one of the biggest and best Android games available.
+
+
+***
+![Net Promoter Score for United Communications Skyrockets To +72 Just One Year After Investing in Calix Revenue EDGE for Its Premium Wi-Fi Offering](https://mms.businesswire.com/media/20210603005122/en/1096741/23/Calix-logo_blue_2021.jpg "Net Promoter Score for United Communications Skyrockets To +72 Just One Year After Investing in Calix Revenue EDGE for Its Premium Wi-Fi Offering")
+
+
+[Net Promoter Score for United Communications Skyrockets To +72 Just One Year After Investing in Calix Revenue EDGE for Its Premium Wi-Fi Offering](https://www.businesswire.com/news/home/20210603005122/en/Net-Promoter-Score-for-United-Communications-Skyrockets-To-72-Just-One-Year-After-Investing-in-Calix-Revenue-EDGE-for-Its-Premium-Wi-Fi-Offering)
+
+
+> June 03, 2021 08:25 AM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--Calix, Inc. (NYSE: CALX) today announced that United Communications, a subsidiary of Middle Tennessee Electric, the second-largest electric cooperative in the United States, has boosted its Net Promoter Score (NPS) to an incredible +72 just one year after deploying Calix Revenue EDGE as the foundation for its premium managed Wi-Fi offering. This far exceeds the average NPS of zero for the industry, which has long struggled with a reputation for poor customer experience.
+
+
