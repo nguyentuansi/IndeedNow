@@ -18414,3 +18414,53 @@
 > June 03, 2021 01:03 PM Eastern Daylight Time PHILADELPHIA--(BUSINESS WIRE)--Comcast today announced a partnership with HGTV to rebuild spaces and amplify the community spirit in its Lift Zones in three cities — Atlanta, Baltimore, and Portland. HGTV is donating $150,000 toward the revitalization of the three Lift Zones. The network has a storied history of working to renew communities through series such as Home Town, Good Bones and Bargain Block. Inspired by its most recent juggernaut hit Home Town Takeover, HGTV is also commissioning artists to create inspirational murals at or near each of the Lift Zone locations.
 
 
+***
+![Who is Samsung's new virtual assistant Samantha and why is she trending?](https://www.thesun.co.uk/wp-content/uploads/2021/06/KB_OFF-PLAT_Samsung-samantha-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Who is Samsung's new virtual assistant Samantha and why is she trending?")
+
+
+[Who is Samsung's new virtual assistant Samantha and why is she trending?](https://www.thesun.co.uk/tech/15157934/samsung-virtual-assistant-samantha-twitter-reddit/)
+
+
+> SAMSUNG'S most important sources of income are its smartphones and computer chips. The internet is running wild for an "attractive" virtual AI assistant for Samsung products that was created by a marketing company. Samantha the 'rejected' Samsung virtual assistant Who is Samsung's new virtual assistant Samantha? "Samantha" is an AI virtual assistant that is not an official Samsung product. A design firm named Lightfarm created Samantha with a marketing company owned by Samsung, but the final product was not picked up or incorporated into a Samsung campaign.
+
+
+***
+![Is it possible to display an image to screen in ASM language, without using interrupts ?](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png "Is it possible to display an image to screen in ASM language, without using interrupts ?")
+
+
+[Is it possible to display an image to screen in ASM language, without using interrupts ?](https://www.reddit.com/r/programming/comments/nrlrug/is_it_possible_to_display_an_image_to_screen_in/)
+
+
+> 0 comments100% Upvotedno comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![MultiPlan Corporation Announces Annual Meeting Results](https://mms.businesswire.com/media/20210603005950/en/837314/23/MULTIPLAN_LOGO_RGB_300dpi.jpg "MultiPlan Corporation Announces Annual Meeting Results")
+
+
+[MultiPlan Corporation Announces Annual Meeting Results](https://www.businesswire.com/news/home/20210603005950/en/MultiPlan-Corporation-Announces-Annual-Meeting-Results)
+
+
+> June 03, 2021 03:30 PM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--MultiPlan Corporation ('MultiPlan' or the 'Company') (NYSE: MPLN), a leading value-added provider of data analytics and technology-enabled end-to-end cost management solutions to the U.S. healthcare industry, announced the results from its May 27, 2021 Annual Meeting. The Company filed a Current Report on Form 8-K with the Securities and Exchange Commission on June 1, 2021 with the final vote counts from last week's meeting. At the meeting, Paul D.
+
+
+***
+![IHS Markit to Hold Conference Call and Webcast on June 23, 2021 with Release of Second Quarter 2021 Financial Results](http://www.businesswire.com/images/bwlogo_square.png "IHS Markit to Hold Conference Call and Webcast on June 23, 2021 with Release of Second Quarter 2021 Financial Results")
+
+
+[IHS Markit to Hold Conference Call and Webcast on June 23, 2021 with Release of Second Quarter 2021 Financial Results](https://www.businesswire.com/news/home/20210603005949/en/IHS-Markit-to-Hold-Conference-Call-and-Webcast-on-June-23-2021-with-Release-of-Second-Quarter-2021-Financial-Results)
+
+
+> June 03, 2021 03:30 PM Eastern Daylight Time LONDON--(BUSINESS WIRE)--IHS Markit (NYSE: INFO), a world leader in critical information, analytics and solutions, will release its financial results for the second quarter of 2021 on Wednesday, June 23, 2021, before the open of market. Investors will have the opportunity to listen to IHS Markit senior management review its financial results for the second quarter of 2021 via conference call and webcast on Wednesday, June 23, 2021 at 8:00 am ET. To hear the live event, visit the IHS Markit investor website at https://investor.
+
+
+***
+![Galaxy A22, A22 5G Leaks Continue, Launch Just Around The Corner](https://www.androidheadlines.com/wp-content/uploads/2021/06/Samsung-Galaxy-A22-5G-leak.jpg "Galaxy A22, A22 5G Leaks Continue, Launch Just Around The Corner")
+
+
+[Galaxy A22, A22 5G Leaks Continue, Launch Just Around The Corner](https://www.androidheadlines.com/2021/06/samsung-galaxy-a22-leaks-launch-android.html)
+
+
+> Samsung has two new entry-level Galaxy A series smartphones in the works – the Galaxy A22 and Galaxy A22 5G. The phones have frequently appeared in leaks over the past few months but continue to elude the market. A major leak earlier today revealed pretty much everything we need to know about the Galaxy A22 5G, living very little to the imagination. Now another leak has followed suit, with detailed specs and high-res renders of the 4G-only Galaxy A22 as well.To be honest, there's not much left to know about Samsung's upcoming budget phones anyway.
+
+
