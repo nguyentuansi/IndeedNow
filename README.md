@@ -18514,3 +18514,53 @@
 > Monday May 31, 2021 4:13 am PDT by Hartley CharltonWhile announcing its latest chips yesterday, Intel launched another aggressive public attack on Mac devices, focusing on the experience of gaming (via PC Gamer).Intel yesterday announced two new 11th Generation H-series laptop processors, featuring clock speeds up to 5GHz, Intel Wi-Fi 6/6E, and 1080p gameplay on popular titles, in high-volume, thin designs. Following the announcement, the...
 
 
+***
+![Rural India driving Internet user base, says report; cheaper data plans and devices fuelling growth](https://images.financialexpress.com/2021/06/1-62.jpg "Rural India driving Internet user base, says report; cheaper data plans and devices fuelling growth")
+
+
+[Rural India driving Internet user base, says report; cheaper data plans and devices fuelling growth](https://www.financialexpress.com/industry/technology/rural-india-driving-internet-user-base-report-cheaper-data-plans-and-devices-fuelling-growth/2264706/)
+
+
+> By: FE Bureau | June 04, 2021 4:00 AMThis, analysts say, could be because of the current lockdown in several states and districts which may have hampered recharge and fresh connections.The future growth of mobile Internet will be led by rural India on the back of cheaper data plans as well as mobile devices, an IAMAI-Kantar Cube report released on Thursday said. The report said that even though the Internet penetration in urban centres is more than 2X that of rural, usership in rural has been growing at a faster rate on a year-on-year basis.
+
+
+***
+![Has any other 12 pro max users experienced a significant decline in battery capacity?](https://images.macrumors.com/social/?t=2299119&v=6 "Has any other 12 pro max users experienced a significant decline in battery capacity?")
+
+
+[Has any other 12 pro max users experienced a significant decline in battery capacity?](https://forums.macrumors.com/threads/has-any-other-12-pro-max-users-experienced-a-significant-decline-in-battery-capacity.2299119/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Fintech Focus For June 4, 2021](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Fintech Focus For June 4, 2021")
+
+
+[Fintech Focus For June 4, 2021](https://www.benzinga.com/fintech/21/06/21421729/fintech-focus-for-june-4-2021)
+
+
+> Quote To Start The Day: "You will face many defeats in life, but never let yourself be defeated." Source: Maya Angelou One Big Thing In Fintech: Aries, a retail-focused brokerage built by and for traders, is set to launch globally this summer. In light of the company's rapid growth in popularity, Benzinga chatted with founder and CEO Reda Falih regarding motivations, products and timelines. Source: Benzinga Other Key Fintech Developments: Watch Out For This: Federal money for research and development, as a share of the economy, has been at historically low levels.
+
+
+***
+![Aurora brings in outsiders to boost safety efforts, public trust of driverless vehicles – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-10.23.22-AM.jpg?w=717 "Aurora brings in outsiders to boost safety efforts, public trust of driverless vehicles – TechCrunch")
+
+
+[Aurora brings in outsiders to boost safety efforts, public trust of driverless vehicles – TechCrunch](https://techcrunch.com/2021/06/03/aurora-brings-in-outsiders-to-boost-safety-efforts-public-trust-of-driverless-vehicles/)
+
+
+> Aurora, the autonomous vehicle company that acquired Uber ATG last year, has assembled a team of outside experts, shared new details about its operations in a self-assessment safety report and launched a website as part of a broader effort to win over consumers wary of the technology that they may someday share the road with, or even use. Aurora said Thursday it has tapped experts in aviation safety, insurance, medicine and automotive safety — all people from outside of the niche AV industry — to provide an outside perspective on the company's overall approach to safety, to look for gaps in its system and advise on the best ways to share its progress and record with regulators and the public.
+
+
+***
+![For SaaS startups, differentiation is an iterative process – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-84875202.jpg?w=612 "For SaaS startups, differentiation is an iterative process – TechCrunch")
+
+
+[For SaaS startups, differentiation is an iterative process – TechCrunch](https://techcrunch.com/2021/06/03/for-saas-startups-differentiation-is-an-iterative-process/)
+
+
+> Software as a service has been thriving as a sector for years, but it has gone into overdrive in the past year as businesses responded to the pandemic by speeding up the migration of important functions to the cloud. We've all seen the news of SaaS startups raising large funding rounds, with deal sizes and valuations steadily climbing. But as tech industry watchers know only too well, large funding rounds and valuations are not foolproof indicators of sustainable growth and longevity. To scale sustainably, grow its customer base and mature to the point of an exit, a SaaS startup needs to stand apart from the herd at every phase of development.
+
+
