@@ -18464,3 +18464,53 @@
 > Samsung has two new entry-level Galaxy A series smartphones in the works – the Galaxy A22 and Galaxy A22 5G. The phones have frequently appeared in leaks over the past few months but continue to elude the market. A major leak earlier today revealed pretty much everything we need to know about the Galaxy A22 5G, living very little to the imagination. Now another leak has followed suit, with detailed specs and high-res renders of the 4G-only Galaxy A22 as well.To be honest, there's not much left to know about Samsung's upcoming budget phones anyway.
 
 
+***
+![Twitter Starts Its Blue Subscription From Canada And Australia](https://www.androidheadlines.com/wp-content/uploads/2018/12/AH-Twitter-logo-11.jpg "Twitter Starts Its Blue Subscription From Canada And Australia")
+
+
+[Twitter Starts Its Blue Subscription From Canada And Australia](https://www.androidheadlines.com/2021/06/twitter-starts-its-blue-subscription-from-canada-and-australia.html)
+
+
+> Twitter is officially introducing its Blue subscription plan, and it starts on Thursday. Users in Canada and Australia will be among the first users that can opt in for the plan.The reason for starting it from Canada and Australia is 'to gain a deeper understanding of what will make your Twitter experience more customized, more expressive, and generally speaking more fire.' according to what Twitter said.It was in February that we heard about Twitter's plans for a paid subscription service. Now, it's finally live.
+
+
+***
+![Snowflake CEO Says Worker Merit Should Outweigh Diversity Goals](https://external-preview.redd.it/wqOSlV67UfIbFjA93a8nsIzQL-ZmyVzDsFtjSMbz0ok.jpg?auto=webp&s=b7f2c770d6ff5785362e441038d60228d3b314cb "Snowflake CEO Says Worker Merit Should Outweigh Diversity Goals")
+
+
+[Snowflake CEO Says Worker Merit Should Outweigh Diversity Goals](https://www.reddit.com/r/technology/comments/nrnn4z/snowflake_ceo_says_worker_merit_should_outweigh/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![50 amazing gifts for every type of dad](https://www.gannett-cdn.com/presto/2020/09/23/USAT/000d3c49-4ef2-41f7-be7b-cea2434987c8-Dad-Gifts.png?crop=1593,897,x3,y0&width=1600&height=800&fit=bounds "50 amazing gifts for every type of dad")
+
+
+[50 amazing gifts for every type of dad](https://www.usatoday.com/story/tech/reviewedcom/2018/11/06/the-20-best-gifts-for-dad-of-2018/38400299/)
+
+
+> 50 amazing gifts for every type of dad (Photo: Amazon)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Dads are notoriously hard to shop for when it comes to buying gifts. But while he might already have everything he wants (or might just be way too particular about the things he doesn't), that's not an excuse to settle for giving Dad yet another boring tie or gift card this year. To help you find the perfect gift for Dad—a.
+
+
+***
+![How to write a blog post in 2021](https://cdn.mos.cms.futurecdn.net/7ehqrjkNyoaWQ9eN7A65sC-1200-80.jpg "How to write a blog post in 2021")
+
+
+[How to write a blog post in 2021](https://www.techradar.com/how-to/write-a-blog-post)
+
+
+> Blogging is an excellent way to build an online presence and share your passion with the world. However, writing a blog post for the first time can feel like a challenge, especially for those without any prior blogging experience.It's essential to have a clear goal and strategy in mind when drafting a blog post – this will help save time, create better content, and reach potential readers faster.In this article, we'll guide you through the steps on how to write a blog post and showcase some blog post ideas to get you started.
+
+
+***
+![How to Check Your AirTags Firmware Version](https://images.macrumors.com/t/U7nhLb8nCYBubOzE9Er84c2B89E=/2000x/https://images.macrumors.com/article-new/2021/05/airtag-with-cup.jpg "How to Check Your AirTags Firmware Version")
+
+
+[How to Check Your AirTags Firmware Version](https://www.macrumors.com/how-to/check-airtags-firmware-version/)
+
+
+> Monday May 31, 2021 4:13 am PDT by Hartley CharltonWhile announcing its latest chips yesterday, Intel launched another aggressive public attack on Mac devices, focusing on the experience of gaming (via PC Gamer).Intel yesterday announced two new 11th Generation H-series laptop processors, featuring clock speeds up to 5GHz, Intel Wi-Fi 6/6E, and 1080p gameplay on popular titles, in high-volume, thin designs. Following the announcement, the...
+
+
