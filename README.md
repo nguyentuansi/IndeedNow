@@ -18133,3 +18133,50 @@
 > A draft of new rules in China's southern tech hub would classify personal data collected from minors as ‘sensitive', limiting how it can be used. The country's national minors protection law, with a new chapter dedicated to online protections, takes effect on June 1, Children's Day in China. — SCMP Shenzhen is reviewing a new regulation that would explicitly forbid apps from making personalised recommendations to users under the age of 18, a first for China as Beijing continues to push Big Tech to toe the state line.
 
 
+***
+[Dollar holds slight advance to start the session but nothing significant thus far](https://www.forexlive.com/technical-analysis/!/dollar-holds-slight-advance-to-start-the-session-but-nothing-significant-thus-far-20210603)
+
+
+> The dollar keeps slight gains across the board for now This is something similar to what we saw yesterday and the ranges of the moves are still keeping in tune with what has been transpiring throughout the week.
+
+
+***
+![Norton Crypto Lets You Mine Ether Within Norton 360 Antivirus Programme](https://i.gadgets360cdn.com/large/Norton_Crypto_1622703665472.jpg "Norton Crypto Lets You Mine Ether Within Norton 360 Antivirus Programme")
+
+
+[Norton Crypto Lets You Mine Ether Within Norton 360 Antivirus Programme](https://gadgets.ndtv.com/apps/news/cryptocurrency-norton-crypto-mine-ethereum-ether-360-antivirus-programme-cloud-based-wallet-system-early-adopter-2455320)
+
+
+> Norton Crypto is a new feature added to Norton 360 that allows users to mine Ether cryptocurrency. The feature is available for users who have enrolled in Norton 360's early adopter programme. NortonLifeLock, the company behind the popular antivirus software, states Norton Crypto will let consumers 'safely and easily mine cryptocurrency' as crypto economy becomes more widespread. Mining cryptocurrency comes with its risks as it requires third party applications to be installed that run the risk of malware or the app running malicious code.
+
+
+***
+![Why China's hated tech titan decided to play nice](https://images.indianexpress.com/2021/06/Untitled-design-2.jpg "Why China's hated tech titan decided to play nice")
+
+
+[Why China's hated tech titan decided to play nice](https://www.nytimes.com/2021/06/02/technology/china-tencent-monopoly.html)
+
+
+> A few months after Wang Xing founded a Groupon-like e-commerce service called Meituan, he learned that China's biggest internet company, Tencent, had started a similar venture. 'Is there any business that Tencent wouldn't do?' he asked. Wang's quote led a 2010 magazine article about Tencent with a headline so famously profane — think the rough Chinese equivalent of an F-bomb — that two top editors were fired shortly after it was published. The cover depicted Tencent's mascot, a chubby penguin wearing a red scarf, stabbed with knives, blood dripping to the floor.
+
+
+***
+![#TECH: MDEC launches free data, analytics and AI assessment tool](https://assets.nst.com.my/images/articles/BOTStoolready_NSTfield_image_socialmedia.var_1622703149.jpg "#TECH: MDEC launches free data, analytics and AI assessment tool")
+
+
+[#TECH: MDEC launches free data, analytics and AI assessment tool](https://www.nst.com.my/lifestyle/bots/2021/06/695481/tech-mdec-launches-free-data-analytics-and-ai-assessment-tool)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Best live chat software of 2021](https://cdn.mos.cms.futurecdn.net/SFKiYbiaLMuFNPTxaRKoGo-1200-80.jpg "Best live chat software of 2021")
+
+
+[Best live chat software of 2021](https://www.techradar.com/best/best-live-chat-software)
+
+
+> The best live chat software makes it simple and easy to handle customer communications and answer queries in a fast and efficient manner.This is increasingly important as customer services have become an essential online platform, both for support as well as for sales. Nowadays, customers expect rapid responses when they contact a company's support team, especially during the pandemic as internet usage has accelerated. And if businesses leave customers waiting, they may lose them to competitors and damage their brand reputation in the process.
+
+
