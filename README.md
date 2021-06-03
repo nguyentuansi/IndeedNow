@@ -18314,3 +18314,53 @@
 > June 03, 2021 08:25 AM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--Calix, Inc. (NYSE: CALX) today announced that United Communications, a subsidiary of Middle Tennessee Electric, the second-largest electric cooperative in the United States, has boosted its Net Promoter Score (NPS) to an incredible +72 just one year after deploying Calix Revenue EDGE as the foundation for its premium managed Wi-Fi offering. This far exceeds the average NPS of zero for the industry, which has long struggled with a reputation for poor customer experience.
 
 
+***
+![Twitter finally launches Twitter Blue, its first paid susbcription service](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/twitter_blue.jpg "Twitter finally launches Twitter Blue, its first paid susbcription service")
+
+
+[Twitter finally launches Twitter Blue, its first paid susbcription service](https://www.androidcentral.com/twitter-finally-launches-twitter-blue-its-first-paid-susbcription-service)
+
+
+> Source: Twitter Twitter's rumored Blue subscription service has gone live. It offers a selection of features including undo tweet, reader mode, and customization. In its first phase of rollout, it'll be limited to Australia and Canada. Twitter today finally launched its rumored Twitter Blue service. As expected, his is a paid-for Twitter subscription that'll sit alongside the regular free Twitter service while offering an enhanced experience for customers who want it. It's going live today in Australia and Canada from $3.
+
+
+***
+![OneRail Expands Logistics Partner Network to 7.5 Million Couriers](https://mms.businesswire.com/media/20210603005704/en/882615/23/One_Rail_079_April_29%2C_2021.jpg "OneRail Expands Logistics Partner Network to 7.5 Million Couriers")
+
+
+[OneRail Expands Logistics Partner Network to 7.5 Million Couriers](https://www.businesswire.com/news/home/20210603005704/en/OneRail-Expands-Logistics-Partner-Network-to-7.5-Million-Couriers)
+
+
+> June 03, 2021 10:21 AM Eastern Daylight Time ORLANDO, Fla.--(BUSINESS WIRE)--OneRail, a leading final mile delivery fulfillment SaaS platform, recently announced a 1 million-courier increase in its Logistics Partner Network. The company's Logistics Partner Network now numbers 7.5 million drivers across over 220 delivery networks. Carrier partners include Frayt, Hailify, Lyft, Skipcart, Epic1, Dropoff, DoorDash, Alvy Delivers, OTL Logistics and many more. The OneRail Logistics Partner Network is a managed marketplace that seamlessly benefits both shippers and courier businesses.
+
+
+***
+![Twitter Blue subscription service launches in Australia and Canada](https://ichef.bbci.co.uk/news/1024/branded_news/11D45/production/_118792037_sign-up-option1-cad.png "Twitter Blue subscription service launches in Australia and Canada")
+
+
+[Twitter Blue subscription service launches in Australia and Canada](https://www.bbc.co.uk/news/technology-57348456)
+
+
+> Twitter is launching its new subscription service, Twitter Blue, in Australia and Canada on Thursday.The paid-for extra service will add features such as an "undo tweet" button, bookmarks, and a reader mode, Twitter said.The limited launch is designed to "gain a deeper understanding" of what customers are looking for.But the company also said the free-to-use version of the platform would also remain."We've heard from the people that use Twitter a lot, and we mean a lot, that we don't always build power features that meet their needs," the company said in a statement.
+
+
+***
+![How to add your personal pronouns to your LinkedIn profile](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/linkedin-pronoun-bio-hero.jpg "How to add your personal pronouns to your LinkedIn profile")
+
+
+[How to add your personal pronouns to your LinkedIn profile](https://www.androidcentral.com/how-add-your-personal-pronouns-your-linkedin-profile)
+
+
+> Source: Android Central June is Pride Month, and what better way to celebrate diversity than by letting the world know who you truly are. Even though it may be challenging to do this online, many companies and social media sites are trying to make this easier for those who want to express their identities on their accounts and profiles. One such example is the professional networking site LinkedIn. I'll show you how you can add your personal pronouns to your LinkedIn profile so that others know and respect how to address you and so that you can show your support and normalize the practice of using personal pronouns in everyday work settings.
+
+
+***
+![Make summer road trips a whole lot cooler with a pop-up car tent](https://mondrian.mashable.com/2021%252F06%252F03%252F9b%252Fea2ff1c5320c4fbe9885bda790e717f6.2febb.jpg%252F1200x630.jpg?signature=fQOnU7AOfPqAjekX8hTM6pPVME4= "Make summer road trips a whole lot cooler with a pop-up car tent")
+
+
+[Make summer road trips a whole lot cooler with a pop-up car tent](https://mashable.com/shopping/june-3-extended-pop-up-car-tent/)
+
+
+> TL;DR: Prepare to camp out anywhere along the road with this Extended Pop-Up Car Tent, which is on sale for 34% off. As of June 3 (just in time for summer road trips), grab one for just $249.95. As carefree as the van life sounds, it's actually pretty expensive. If you're not ready to take the plunge, consider a more accessible alternative to van life or RVing, which lets you enjoy the ultimate road-tripping experience from your own vehicle: the pop-up car tent. The pop-up car tent extends the size of your car to create a cozy, portable cabin.
+
+
