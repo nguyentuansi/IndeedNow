@@ -18089,3 +18089,47 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Best cheap desktop computer deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/best-cheap-desktop-deals-featured-1.jpg "Best cheap desktop computer deals for June 2021")
+
+
+[Best cheap desktop computer deals for June 2021](https://www.digitaltrends.com/dtdeals/best-cheap-desktop-computer-deals/)
+
+
+> There's no denying that laptop portability is a great thing in today's mobile world, but when it's time to settle in for an hours-long work day or kick back for a fun PC gaming session, nothing beats an proper desktop computer setup. The best desktop PCs will always provide more bang for your buck than any laptop when it comes to price versus performance, and that's before you even consider the added comfort of using a proper keyboard and full-sized display (or even multiple displays if you're the multi-tasking type).
+
+
+***
+[Lahore-based Tajir, a B2B online marketplace for mom and pop stores, raises $17M Series A led by Kleiner Perkins, its first investment in a Pakistani startup (Zubair Naeem Paracha/MENAbytes)](http://www.techmeme.com/210603/p2#a210603p2)
+
+
+> Zubair Naeem Paracha / MENAbytes: Lahore-based Tajir, a B2B online marketplace for mom and pop stores, raises $17M Series A led by Kleiner Perkins, its first investment in a Pakistani startup — Lahore-based B2B ecommerce marketplace Tajir has raised $17 million in a Series A round led by one of the leading American VC firms Kleiner Perkins, it announced today.
+
+
+***
+![nScreenNoise – Getting the moviemakers experience at home](https://nscreenmedia.com/wp-content/uploads/podcast-nsm-video-770x200.png "nScreenNoise – Getting the moviemakers experience at home")
+
+
+[nScreenNoise – Getting the moviemakers experience at home](https://nscreenmedia.com/nscreennoise-getting-the-moviemakers-experience-at-home/)
+
+
+> 02 Jun, 2021 Colin Dixon Encoding-Codec, Movie streaming, Technology Motion blurring and judder are spoiling the home movie experience, and UHD, HDR, and TV Filmmaker mode can make things worse. Richard Miller, EVP of Technology at Pixelworks, explains what is going on and how to fix it.You can enjoy an extended version of the interview with Richard Miller by listening to the audio podcast below. Note: Timings shown below are for the audio podcast.Chapter 1: Challenges in setting up TV for a movie (0:20)My enjoyment of the PVOD movie Godzilla vs.
+
+
+***
+[WhatsApp Latest Update: 'From weeks to just five minutes'! These NEW FEATURES will help business get started quicker- check full details here](https://www.zeebiz.com/technology/apps/news-whatsapp-latest-update-from-weeks-to-just-five-minutes-these-new-features-will-help-business-get-started-quicker-check-full-details-here-157861)
+
+
+> At F8 Refresh, WhatsApp have announced updates for the WhatsApp Business API which will help it quicker for the businesses to get started and will make it easier for people to chat with these businesses.
+
+
+***
+![Shenzhen to outlaw digital profiling of kids to stave off Big Tech's privacy intrusions](https://apicms.thestar.com.my/uploads/images/2021/06/03/1169745.jpg "Shenzhen to outlaw digital profiling of kids to stave off Big Tech's privacy intrusions")
+
+
+[Shenzhen to outlaw digital profiling of kids to stave off Big Tech's privacy intrusions](https://www.scmp.com/tech/policy/article/3135610/shenzhen-outlaw-digital-profiling-kids-stave-big-techs-privacy?utm_source=thestar&utm_medium=partner&utm_campaign=contentexchange&utm_content=3135610)
+
+
+> A draft of new rules in China's southern tech hub would classify personal data collected from minors as ‘sensitive', limiting how it can be used. The country's national minors protection law, with a new chapter dedicated to online protections, takes effect on June 1, Children's Day in China. — SCMP Shenzhen is reviewing a new regulation that would explicitly forbid apps from making personalised recommendations to users under the age of 18, a first for China as Beijing continues to push Big Tech to toe the state line.
+
+
