@@ -18039,3 +18039,53 @@
 > SEQUOIA NATIONAL PARK, Calif. – At least a tenth of the world's mature giant sequoia trees were destroyed by a single California wildfire that tore through the southern Sierra Nevada last year, according to a draft report prepared by scientists with the National Park Service. The Visalia Times-Delta newspaper obtained a copy of the report that describes catastrophic destruction from the Castle Fire, which charred 273 square miles (707 square km) of timber in Sequoia National Park.Researchers used satellite imagery and modeling from previous fires to determine that between 7,500 and 10,000 of the towering species perished in the fire.
 
 
+***
+![Tuesday Capital, formerly Crunchfund, casts a wide net with a fourth, $30 million fund – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-02-at-5.16.09-PM.png?w=374 "Tuesday Capital, formerly Crunchfund, casts a wide net with a fourth, $30 million fund – TechCrunch")
+
+
+[Tuesday Capital, formerly Crunchfund, casts a wide net with a fourth, $30 million fund – TechCrunch](https://techcrunch.com/2021/06/02/tuesday-capital-formerly-crunchfund-is-casting-a-wide-net-with-its-fourth-fund/)
+
+
+> Tuesday Capital, a 10-year-old seed-stage fund that was founded by longtime VC Patrick Gallagher and TechCrunch founder Michael Arrington, has changed considerably over the years. Arrington now leads a crypto hedge fund. Tuesday was formerly known as Crunchfund. Gallagher now runs the outfit with partner Prashant Fonseka, who joined the fund in 2015 as an associate. Tuesday has also formed a deep relationship over the years with the industrial design shop Frog Design, which is a limited partner in the fund and sold a portion of its venture portfolio to Tuesday early last year.
+
+
+***
+![Superior Printed Circuit Board Design Services](https://itwire.com/media/k2/items/cache/be7937bd15170ed4ad4a06418f451a85_XS.jpg "Superior Printed Circuit Board Design Services")
+
+
+[Superior Printed Circuit Board Design Services](https://itwire.com/guest-articles/superior-printed-circuit-board-design-services.html)
+
+
+> Guest Opinion: An electronic device needs the proper working of all of its components. These components are connected with an electric board that ensures that every component gets the required amount of electricity.  Different electronic devices required different designs. An electronic device may be manufactured by different brands. Each brand needs a different type of circuit board design due to the different use of components and it has made custom PCB design services very important.   Printed circuit boards are crucial as they are used in both domestic and industrial electronic devices.
+
+
+***
+![Sony X90J (XR-65X90J) review](https://cdn.mos.cms.futurecdn.net/sWbMPm9WHBKwgqGi2mRq6H-1200-80.jpg "Sony X90J (XR-65X90J) review")
+
+
+[Sony X90J (XR-65X90J) review](https://www.techradar.com/reviews/sony-x90j-xr-65x90j)
+
+
+> The Sony X90J is nearly everything we'd want from a mid-range 4K LED-LCD TV. For the money, there are few TVs that can match it in terms of picture quality and feature set, making it top of its class for mid-range models.Honestly, though, we kind of saw this coming. Last year's Sony X900H/XH90 was one of the best TVs of the year for all of the same reasons, and now Sony's made it even better with its new Cognitive Processor XR that offers incredible upscaling and contrast control. We like it so much because it's a native 120Hz TV with two full-spec HDMI 2.
+
+
+***
+![Sony X90J (XR-65X90J)](https://cdn.mos.cms.futurecdn.net/sWbMPm9WHBKwgqGi2mRq6H-1200-80.jpg "Sony X90J (XR-65X90J)")
+
+
+[Sony X90J (XR-65X90J)](https://www.techradar.com/reviews/sony-x90j-xr-65x90j)
+
+
+> The Sony X90J is nearly everything we'd want from a mid-range 4K LED-LCD TV. For the money, there are few TVs that can match it in terms of picture quality and feature set, making it top of its class for mid-range models.Honestly, though, we kind of saw this coming. Last year's Sony X900H/XH90 was one of the best TVs of the year for all of the same reasons, and now Sony's made it even better with its new Cognitive Processor XR that offers incredible upscaling and contrast control. We like it so much because it's a native 120Hz TV with two full-spec HDMI 2.
+
+
+***
+![Davies-Bouldin Index for K-Means Clustering Evaluation in Python](https://external-preview.redd.it/O8Ra4gX8d2vn2HIOwYAh8wI_Ow4FLpbv90L2wZ43ioI.jpg?auto=webp&s=1cb892cbe0c3225a53ed83fdc1307ab59f5cbabc "Davies-Bouldin Index for K-Means Clustering Evaluation in Python")
+
+
+[Davies-Bouldin Index for K-Means Clustering Evaluation in Python](https://www.reddit.com/r/Python/comments/nr144e/daviesbouldin_index_for_kmeans_clustering/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
