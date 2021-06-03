@@ -18224,3 +18224,43 @@
 > June 03, 2021 04:33 AM Eastern Daylight Time TAIPEI, Taiwan--(BUSINESS WIRE)--According to Gartner, by 2023, one-third of companies that have implemented IoT will also have implemented AI in conjunction with at least one IoT project. Data generated from IoT devices will be integrated in various vertical applications and eventually be applied to smart factories, smart healthcare, smart transportation, and smart cities. The first two sessions of COMPUTEX Forum organized by TAITRA, "AIoT Evolution" and "AI Empowerment,' were held on June 2.
 
 
+***
+![Tech Bytes: Facebook new tools for businesses, Vizio unveils new TVs with voice remotes, manicure robots](https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes.jpg?w=1280 "Tech Bytes: Facebook new tools for businesses, Vizio unveils new TVs with voice remotes, manicure robots")
+
+
+[Tech Bytes: Facebook new tools for businesses, Vizio unveils new TVs with voice remotes, manicure robots](https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-facebook-new-tools-for-businesses-vizio-unveils-new-tvs-with-voice-remotes-manicure-robots/)
+
+
+> by: Dylan Abad Posted: Jun 3, 2021 / 06:40 AM EDT / Updated: Jun 3, 2021 / 06:40 AM EDT Facebook is seeking to improve communication between businesses and consumers. It's happening through a number of new tools just unveiled at a developer conference, including several messaging features for businesses. New TVs from the affordably priced Vizio brand are now come equipped with voice remotes. They allow you to search for shows, change settings, and launch apps with voice commands. Most models work with bluetooth, so users don't have to aim at the TV.
+
+
+***
+![The Worldwide Microducts Market is Expected to Grow at a CAGR of 4.5% Between 2021 to 2029](https://mms.businesswire.com/media/20210603005512/en/371054/23/ResearchAndMarkets_800px.jpg "The Worldwide Microducts Market is Expected to Grow at a CAGR of 4.5% Between 2021 to 2029")
+
+
+[The Worldwide Microducts Market is Expected to Grow at a CAGR of 4.5% Between 2021 to 2029](https://www.businesswire.com/news/home/20210603005512/en/The-Worldwide-Microducts-Market-is-Expected-to-Grow-at-a-CAGR-of-4.5-Between-2021-to-2029---ResearchAndMarkets.com)
+
+
+> June 03, 2021 06:34 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Microducts Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and Forecasts, 2021 to 2029" report has been added to ResearchAndMarkets.com's offering. The global microducts market worldwide is expected to grow with a CAGR of 4.5% during the forecast period from 2021 to 2029. Companies Mentioned Belden CCSI Blue Diamond Industries (BDI) Datwyler Blownfibre Dura-Line Emtelle Hexatronic Knet Bluligh Eurolan Flame retardant microducts are gaining immense popularity owing to increasing safety regulations by the governments and regulatory authorities.
+
+
+***
+![Apple AirPods Pro review](https://cdn.mos.cms.futurecdn.net/UaEybknGFKx6XuNgMVjwC-1200-80.jpg "Apple AirPods Pro review")
+
+
+[Apple AirPods Pro review](https://www.techradar.com/reviews/apple-airpods-pro-review)
+
+
+> The Apple AirPods Pro deliver active noise cancellation and an improved design compared to the original AirPods – and that's why they're still the best Apple headphones you can buy today.However, at $249 / £249 / AU$399, they're pretty pricey too, and as such, can't be called the very best wireless headphones out there, even though they do come close. A rumored entry level version of these Apple earbuds – the so-called AirPods Pro 2 – could change this, however.If you're an iPhone user looking for some well-fitting wireless earbuds with strong sound quality, you could do a lot worse than the latest AirPods.
+
+
+***
+![North American Cloud Migration Market Report 2021: Product Launch, Merger, and Acquisition, Collaborations with Government, and Technological Advancements](https://mms.businesswire.com/media/20210603005509/en/371054/23/ResearchAndMarkets_800px.jpg "North American Cloud Migration Market Report 2021: Product Launch, Merger, and Acquisition, Collaborations with Government, and Technological Advancements")
+
+
+[North American Cloud Migration Market Report 2021: Product Launch, Merger, and Acquisition, Collaborations with Government, and Technological Advancements](https://www.businesswire.com/news/home/20210603005509/en/North-American-Cloud-Migration-Market-Report-2021-Product-Launch-Merger-and-Acquisition-Collaborations-with-Government-and-Technological-Advancements---ResearchAndMarkets.com)
+
+
+> June 03, 2021 06:32 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "North American Cloud Migration Market 2020-2026" report has been added to ResearchAndMarkets.com's offering. The North American cloud migration market is estimated to grow significantly during the forecast period. The market is mainly driven due to various factors including rising demand integration of cloud services in the country coupled with well-developed IT infrastructure. There is a significant presence of large and small cloud migration service providers in the region that is further projected to contribute to the growth of the market during the forecast period.
+
+
