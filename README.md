@@ -18708,3 +18708,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Why the OnePlus 9 series does not support many 5G bands in India](https://cdn.mos.cms.futurecdn.net/y5iJX6ndiBw3yV3vFB6VgR-1200-80.jpg "Why the OnePlus 9 series does not support many 5G bands in India")
+
+
+[Why the OnePlus 9 series does not support many 5G bands in India](https://www.techradar.com/news/oneplus-9-series-5g-debacle-explained)
+
+
+> The OnePlus 9 series marked the company's entry into the ultra-premium smartphone market with three new devices. While the devices were great for the most part, one specification stood out like a sore thumb — 5G band support.The Indian variants of the OnePlus 9 Pro, OnePlus 9 and OnePlus 9R only support a handful of 5G bands in the country, whereas their global counterparts have a much more exhaustive selection. This led consumers to worry if their shiny new phone would become obsolete when 5G networks are deployed in India.
+
+
+***
+![#TECH: SAP on mission to build world's biggest business network](https://assets.nst.com.my/images/articles/botssap_NSTfield_image_socialmedia.var_1622798171.jpg "#TECH: SAP on mission to build world's biggest business network")
+
+
+[#TECH: SAP on mission to build world's biggest business network](https://www.nst.com.my/lifestyle/bots/2021/06/695910/tech-sap-mission-build-worlds-biggest-business-network)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![iPad Mini 6 release date, price, news and leaks](https://cdn.mos.cms.futurecdn.net/7wu8ataWJFAPenFYhpyhoE-1200-80.jpg "iPad Mini 6 release date, price, news and leaks")
+
+
+[iPad Mini 6 release date, price, news and leaks](https://www.techradar.com/news/ipad-mini-6)
+
+
+> We expected the new iPad Mini 6 to get unveiled at Apple's spring event in April 2021, but that didn't happen - we got a new iPad Pro but no small-form tablets, which is a shame for people who wanted a new Mini.So when could we see the sixth-generation small-form iPad? We've no idea, but it probably won't be for a while - if the thing was ready to go, Apple would have announced it at the event. Perhaps it'll come out alongside the iPhone 13, in September, joining the new entry-level iPad in its usual slot.
+
+
+***
+![WhatsApp update: New ‘fast playback' feature makes it easier to listen to voice notes quickly](https://static.independent.co.uk/2021/05/21/13/newFile-1.jpg?width=1200&auto=webp&quality=75 "WhatsApp update: New ‘fast playback' feature makes it easier to listen to voice notes quickly")
+
+
+[WhatsApp update: New ‘fast playback' feature makes it easier to listen to voice notes quickly](https://www.independent.co.uk/life-style/gadgets-and-tech/whatsapp-update-voice-note-fast-playback-b1859586.html)
+
+
+> WhatsApp has rolled out a new feature called 'fast playback', intended to make it easier to listen through voice notes.The feature lets users make voice notes play as much as two times faster, intended to help them save time.It is similar to the tools on podcast apps that can be useful to speed through someone's speaking voice, making them quicker or potentially more engaging to listen to.Voice notes have become one of WhatsApp's most famous features. Standing somewhere between a phone call and a text message, they let people communicate with the voice but without having to abide by someone else's schedule.
+
+
+***
+![Personal information accessed after cyber attack on NSW Health](https://images.perthnow.com.au/publication/C-3017356/9e04485ff7dea37810fcc74c5644b1423d2115cf-16x9-x0y113w1207h679.jpg?imwidth=1200 "Personal information accessed after cyber attack on NSW Health")
+
+
+[Personal information accessed after cyber attack on NSW Health](https://www.news.com.au/technology/online/hacking/personal-information-accessed-after-cyber-attack-on-nsw-health/news-story/fb6fd41d6ec351030d81abf8ffdb439f)
+
+
+> NSW Health says it is working to contact people whose personal information – including health details – was accessed in a global cyber attack earlier this year.A special NSW police strike force investigation was launched after it was realised NSW government agencies were caught up in the cyber attack on US-based software provider Accellion.NSW Health was one of the 100 organisations around the world affected by the breach that occurred over December and January.A statement on Friday night confirmed that identity information and, in some cases, health-related personal information was accessed in the attack.
+
+
