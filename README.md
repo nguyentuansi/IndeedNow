@@ -18611,3 +18611,53 @@
 > Electronic Warfare Kit enables dismounted soldiers to detect, map and mitigate the impact of navigational warfare (NAVWAR) attacks […]
 
 
+***
+![R vs Python](https://external-preview.redd.it/ZOxtVS9juao6quyiExQrb2K1Vwne3vAV-v8KxEcfyBM.jpg?auto=webp&s=2b58e44f83c8a5e2f6d118057e99c371e4b13473 "R vs Python")
+
+
+[R vs Python](https://www.reddit.com/r/programming/comments/nrw026/r_vs_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![[HarmonyOS]DevEco studio is now available to download for overseas developers!](https://external-preview.redd.it/mfuRythvhEt06pz3VpTGjJgJNDzXtMyhYoxv0BbnykE.jpg?auto=webp&s=172ac84756c08108c9669360ac31c8e6a3cb97ef "[HarmonyOS]DevEco studio is now available to download for overseas developers!")
+
+
+[[HarmonyOS]DevEco studio is now available to download for overseas developers!](https://www.reddit.com/r/programming/comments/nrvp3y/harmonyosdeveco_studio_is_now_available_to/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Binancio @ Binance P2P Bot](https://external-preview.redd.it/uF5mnR0oqUDh2vI4cumaj_98MXTnOomxkdK_LKANNZI.jpg?auto=webp&s=78bcdda3042b7524406254654c61e53d68f7196a "Binancio @ Binance P2P Bot")
+
+
+[Binancio @ Binance P2P Bot](https://www.reddit.com/r/programming/comments/nrvnt0/binancio_binance_p2p_bot/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Best Prime Day gaming deals 2020: The best sales you can still shop](https://icdn.digitaltrends.com/image/digitaltrends/amazon-prime-day-gaming-deals-2020.jpg "Best Prime Day gaming deals 2020: The best sales you can still shop")
+
+
+[Best Prime Day gaming deals 2020: The best sales you can still shop](https://www.digitaltrends.com/dtdeals/best-prime-day-gaming-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Amazon's big blowout sale has come to a close, and its truckload of sweet, sweet Prime Day deals have been taken down, but that doesn't mean there isn't some sales. Prime Day is one of the best times of the year to score juicy discounts on all sorts of stuff, and there are still some fantastic savings hanging around — which means that you've got to be quick if you still want to score some gaming bargains. We can give you an extra leg up, too: Below, we've got all the best Prime Day gaming deals that are still live, along with everything you need to know about how to shop the sale.
+
+
+***
+![Best Prime Day gaming chair deals 2021: What to expect](https://icdn.digitaltrends.com/image/digitaltrends/best-cheap-gaming-chairs-featured-2.jpg "Best Prime Day gaming chair deals 2021: What to expect")
+
+
+[Best Prime Day gaming chair deals 2021: What to expect](https://www.digitaltrends.com/dtdeals/best-prime-day-gaming-chair-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you believe you're all set for your gaming sessions with your console or gaming PC, you might want to think again if you don't own a gaming chair. It's practically a requirement for playing video games for long hours without suffering from body pains. You should look forward to this year's Prime Day deals, which will offer significant savings when buying a gaming chair. With Amazon's Prime Day 2021 date set on June 21 and June 22, you should definitely be looking forward to a healthy collection of Prime Day gaming chair deals.
+
+
