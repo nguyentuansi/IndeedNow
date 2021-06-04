@@ -18896,3 +18896,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![The Cleanie Awards® 2021 Opens Public Voting for Best Media Outlet Category](https://mms.businesswire.com/media/20210604005556/en/883055/23/TheCleanieAwardsLogo_Horizontal.jpg "The Cleanie Awards® 2021 Opens Public Voting for Best Media Outlet Category")
+
+
+[The Cleanie Awards® 2021 Opens Public Voting for Best Media Outlet Category](https://www.businesswire.com/news/home/20210604005556/en/The-Cleanie-Awards%C2%AE-2021-Opens-Public-Voting-for-Best-Media-Outlet-Category)
+
+
+> June 04, 2021 01:12 PM Eastern Daylight Time WASHINGTON--(BUSINESS WIRE)--The Cleanie Awards®, the leading awards program dedicated to celebrating people and brands driving the clean energy economy, announced a preliminary list of finalists in the Best Media Outlet 'People's Choice' award category. The award recognizes the leading sources for cleantech and industry news. The general public can choose from the below list of media outlets through June 30. The finalist with the most votes wins. To vote, follow this link.
+
+
+***
+[Facebook announces that politicians' posts will no longer be exempt from the company's rules that prevent users from engaging in harmful speech (Salvador Rodriguez/CNBC)](http://www.techmeme.com/210604/p16#a210604p16)
+
+
+> Salvador Rodriguez / CNBC: Facebook announces that politicians' posts will no longer be exempt from the company's rules that prevent users from engaging in harmful speech — - Facebook on Friday announced that politicians' posts will no longer be exempt from the company's rules that prevent users from engaging in harmful speech.
+
+
+***
+![Softchoice Named Winner of North America VMware 2021 Partner Lifecycle Services Award](https://mms.businesswire.com/media/20210604005554/en/883054/23/Corpoate_logo_216x216.jpg "Softchoice Named Winner of North America VMware 2021 Partner Lifecycle Services Award")
+
+
+[Softchoice Named Winner of North America VMware 2021 Partner Lifecycle Services Award](https://www.businesswire.com/news/home/20210604005554/en/Softchoice-Named-Winner-of-North-America-VMware-2021-Partner-Lifecycle-Services-Award)
+
+
+> June 04, 2021 01:04 PM Eastern Daylight Time TORONTO--(BUSINESS WIRE)--Softchoice (TSX: SFTC) today announced it has been named the winner of VMware's North America 2021 Partner Lifecycle Services Award as part of the VMware Partner Achievement Awards program. Softchoice was recognized for its significant customer-focused engagements and moving from traditional project-based interactions to innovative ongoing partner-customer relationships. Softchoice's end-to-end customer success program helps customers reduce cost, optimize technology, and enable innovation critical for business impact.
+
+
+***
+![The best Windows 10 keyboard shortcuts](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-surface-pro-6-hands-on_-8.jpg "The best Windows 10 keyboard shortcuts")
+
+
+[The best Windows 10 keyboard shortcuts](https://www.digitaltrends.com/computing/windows-10-keyboard-shortcuts/)
+
+
+> Keyboard shortcuts can speed up even the most mundane of Windows 10 tasks. Learning the best of them can make your PC experience faster, more efficient, and, in some cases, even more enjoyable. These are the essential Windows 10 shortcuts that can make you feel more like a PC wizard. A master of the keys, so to speak. New Windows 10 keyboard shortcuts Mark Coppock/Digital Trends Windows 10 opened up a world of new keyboard shortcuts to better navigate and utilize the operating system's interface and features.
+
+
+***
+![How to watch Apple WWDC 2021 and what to expect](https://icdn.digitaltrends.com/image/digitaltrends/apple_wwdc21_newsroom_article_tile_033021_big-jpg-large_2x.jpg "How to watch Apple WWDC 2021 and what to expect")
+
+
+[How to watch Apple WWDC 2021 and what to expect](https://www.digitaltrends.com/computing/how-to-watch-apple-wwdc-2021/)
+
+
+> Apple's Worldwide Developers Conference, or WWDC, is scheduled to kick off this year on June 7. Like recent developer conferences from rivals Google and Microsoft, WWDC 2021 will be a virtual event this year due to the ongoing global pandemic. The good news for Apple developers, fans, and followers is that the shift to a virtual showcase means that you can watch Apple's keynote and developer sessions for free, a steep discount from the typical $1,599 ticket for the in-person conference. There's a lot to be excited about this year, so you'll want to make sure to come back and watch on Monday.
+
+
