@@ -18943,3 +18943,53 @@
 > Apple's Worldwide Developers Conference, or WWDC, is scheduled to kick off this year on June 7. Like recent developer conferences from rivals Google and Microsoft, WWDC 2021 will be a virtual event this year due to the ongoing global pandemic. The good news for Apple developers, fans, and followers is that the shift to a virtual showcase means that you can watch Apple's keynote and developer sessions for free, a steep discount from the typical $1,599 ticket for the in-person conference. There's a lot to be excited about this year, so you'll want to make sure to come back and watch on Monday.
 
 
+***
+![Xometry is taking its excess manufacturing capacity business public – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1149284753.jpg?w=600 "Xometry is taking its excess manufacturing capacity business public – TechCrunch")
+
+
+[Xometry is taking its excess manufacturing capacity business public – TechCrunch](https://techcrunch.com/2021/06/04/xometry-is-taking-its-excess-manufacturing-capacity-business-public/)
+
+
+> Xometry, a Maryland-based service that connects companies with manufacturers with excess production capacity around the world, filed an S-1 form with the U.S. Securities and Exchange Commission announcing its intent to become a public company. As the global supply chain tightened during the pandemic in 2020, a company that helped find excess manufacturing capacity was likely in high demand. CEO and co-founder Randy Altschuler described his company to TechCrunch this way last September upon the announcement of a $75 million Series E investment: 'We've created a marketplace using artificial intelligence to power it, and provide an e-commerce experience for buyers of custom manufacturing and for suppliers to deliver that manufacturing,' Altschuler said at the time.
+
+
+***
+![You Have To Earn The "Opportunity" To Buy The OnePlus Watch Cobalt](https://www.androidheadlines.com/wp-content/uploads/2021/03/OnePlus-Watch-1.jpg "You Have To Earn The "Opportunity" To Buy The OnePlus Watch Cobalt")
+
+
+[You Have To Earn The "Opportunity" To Buy The OnePlus Watch Cobalt](https://www.androidheadlines.com/2021/06/oneplus-watch-cobalt-limited-edition-invite-clue-hunt-contest.html)
+
+
+> OnePlus is up to its old tricks again for the 'opportunity' to buy its devices, this time with the OnePlus Watch Cobalt, which apparently requires an invite to make the purchase. If you're new to the OnePlus brand, a little recap is in order.Back when OnePlus first launched, it required users to get an invite to buy its first phone. The OnePlus One. Invites could be acquired in a number of different ways, all of them equally ridiculous. Then there was the infamous ladies first contest, which the company ended up pulling within a day due to understandable backlash.
+
+
+***
+![The9 Limited Rallies After Acquiring Clean Energy Cryptocurrency Company: Technical Levels To Watch](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/blockchain-3750157_1920_19.jpg?width=720 "The9 Limited Rallies After Acquiring Clean Energy Cryptocurrency Company: Technical Levels To Watch")
+
+
+[The9 Limited Rallies After Acquiring Clean Energy Cryptocurrency Company: Technical Levels To Watch](https://www.benzinga.com/markets/cryptocurrency/21/06/21433833/the9-limited-rallies-after-acquiring-clean-energy-cryptocurrency-company-technical-levels-)
+
+
+> The9 Limited (NASDAQ:NCTY) shares gained ground Friday after the company announced it signed a definitive agreement to acquire the Canadian clean energy cryptocurrencies mining facility MontCrypto. The9 Limited plans to invest CA$7.6 million ($6.3 million) in two phases to obtain a controlling stake. The9 Limited was up 25% at $13.68 at last check.  The9 Limited Daily Chart Analysis Shares have been falling in the last few months and are trading in what technical traders call a falling wedge pattern.
+
+
+***
+![Fate Therapeutics Stock is Trading Higher on Positive B-Cell Lymphoma Data at ASCO21](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/aapharma_588.png "Fate Therapeutics Stock is Trading Higher on Positive B-Cell Lymphoma Data at ASCO21")
+
+
+[Fate Therapeutics Stock is Trading Higher on Positive B-Cell Lymphoma Data at ASCO21](https://www.benzinga.com/general/biotech/21/06/21432425/fate-therapeutics-stock-is-trading-higher-on-positive-b-cell-lymphoma-data-at-asco21)
+
+
+> 12 Health Care Stocks Moving In Thursday's After-Market Session Cathie Wood Cuts Apple Stake By 30% And Buys Coinbase, DraftKings
+
+
+***
+![Cannabis Movers & Shakers: MariMed, Ascend, New Leaf Ventures, Grown Rogue, Organigram, Therabody, Plus Products, Copperstate Farms](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/david-gabric-kdc5agsz6ik-unsplash10_0.jpg?width=720 "Cannabis Movers & Shakers: MariMed, Ascend, New Leaf Ventures, Grown Rogue, Organigram, Therabody, Plus Products, Copperstate Farms")
+
+
+[Cannabis Movers & Shakers: MariMed, Ascend, New Leaf Ventures, Grown Rogue, Organigram, Therabody, Plus Products, Copperstate Farms](https://www.benzinga.com/markets/cannabis/21/06/21434893/cannabis-movers-shakers-marimed-ascend-new-leaf-ventures-grown-rogue-organigram-therabody-plus-p)
+
+
+> Cannabis company MariMed, Inc. (OTCQX:MRMD) has appointed Howard Schacter to oversee its communications department. The Norwood, Massachusetts-based company also named Schacter a member of its executive management team. During his career, Schacter had counseled several companies, such as Facebook Inc (NASDAQ:FB), McDonald's Corp (NYSE:MCD), Microsoft Corporation (NASDAQ:MSFT), and Spotify Technology SA (NYSE:SPOT), to name a few. Prior to this, he served as head of communications at Acreage Holdings Inc.
+
+
