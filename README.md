@@ -18758,3 +18758,53 @@
 > NSW Health says it is working to contact people whose personal information – including health details – was accessed in a global cyber attack earlier this year.A special NSW police strike force investigation was launched after it was realised NSW government agencies were caught up in the cyber attack on US-based software provider Accellion.NSW Health was one of the 100 organisations around the world affected by the breach that occurred over December and January.A statement on Friday night confirmed that identity information and, in some cases, health-related personal information was accessed in the attack.
 
 
+***
+![Microsoft is giving away FREE Xbox Series X consoles to people for playing games](https://www.thesun.co.uk/wp-content/uploads/2021/06/B7E5079E-B213-44E0-823F-5348F17A9C55.jpeg?strip=all&quality=100&w=1200&h=800&crop=1 "Microsoft is giving away FREE Xbox Series X consoles to people for playing games")
+
+
+[Microsoft is giving away FREE Xbox Series X consoles to people for playing games](https://www.thesun.co.uk/tech/15162818/free-xbox-series-x-microsoft-games-buy-game-pass-ultimate/)
+
+
+> MICROSOFT is giving gamers a chance to win an Xbox Series X. The sold-out console is impressively hard to obtain – but a new competition could help you secure one. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news Earning achievement points could net you an Xbox Series XCredit: Microsoft Xbox Microsoft has launched the Ultimate Contest throughout June – with a next-gen console offered as the prize. You'll need to be a member of Xbox Game Pass Ultimate.
+
+
+***
+![Apple Music Coming to Mercedes-Benz MBUX Infotainment System](https://images.macrumors.com/article-new/2021/06/mercedes-mbux-apple-music.jpg "Apple Music Coming to Mercedes-Benz MBUX Infotainment System")
+
+
+[Apple Music Coming to Mercedes-Benz MBUX Infotainment System](https://www.macrumors.com/2021/06/04/apple-music-coming-to-mercedes-mbux/)
+
+
+> Apr 12, 2001 52,777 14,492 Mercedes-Benz has announced that Apple Music integration is coming to its MBUX infotainment system, starting with C-Class, S-Class, and EQS models. Apple Music will integrate directly into Mercedes-Benz's MBUX infotainment system. Users simply need to link their online "Mercedes me" account to their vehicle, and then Apple Music subscribers will have access to its full library of more than 75 million songs, curated playlists, radio stations, and more.
+
+
+***
+![New Radeon Pro GPU featuring Navi 21 teased by AMD](https://cdn.mos.cms.futurecdn.net/Ve4vbheJ7uiaarM2GXbwD4-1200-80.jpg "New Radeon Pro GPU featuring Navi 21 teased by AMD")
+
+
+[New Radeon Pro GPU featuring Navi 21 teased by AMD](https://www.techradar.com/news/new-radeon-pro-gpu-featuring-navi-21-teased-by-amd)
+
+
+> (Image credit: AMD) AMD looks to be gearing up for another graphics card release despite the ongoing shortage of chip components, with fresh leaks pointing to an upcoming Radeon Pro announcement. An unlisted video from the AMD YouTube channel also states that 'something big is coming' on June 8 2021, alongside images of a familiar GPU chassis which adds further weight to this being a Radeon Pro product based on Navi 21. Two SKUs for both an AMD Radeon W6800 and W6900X have been floating around for some time after being spotted in the source code of Mac, but most of the leaked information is exclusive to the W6800 so we're only expecting one GPU to be released initially.
+
+
+***
+![WhatsApp getting HUGE update that will let you use app on multiple devices – and maybe even iPad](https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/48C871F8-792E-414B-9604-4A54BCE25D13.jpe?strip=all&quality=100&w=1200&h=800&crop=1 "WhatsApp getting HUGE update that will let you use app on multiple devices – and maybe even iPad")
+
+
+[WhatsApp getting HUGE update that will let you use app on multiple devices – and maybe even iPad](https://www.the-sun.com/lifestyle/tech/3015100/whatsapp-multiple-devices-ipad-app-release-date/)
+
+
+> WHATSAPP is about to get a huge update that will let you use the app on multiple devices. Until now, WhatsApp users have been locked into accessing messages on a single device. Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on Facebook, WhatsApp and Instagram WhatsApp is one of the world's most popular ways to chatCredit: WhatsApp And if you wanted to switch phones with the WhatsApp app, you'd have to totally abandon it on your other device. Fans have been begging WhatsApp for multi-device support for years.
+
+
+***
+![Loki TV show on Disney Plus: release date, trailer, cast, plot, MCU connections and more](https://cdn.mos.cms.futurecdn.net/s6FE9eF32vjVrBZaFbfwDJ-1200-80.jpg "Loki TV show on Disney Plus: release date, trailer, cast, plot, MCU connections and more")
+
+
+[Loki TV show on Disney Plus: release date, trailer, cast, plot, MCU connections and more](https://www.techradar.com/news/loki-tv-show-on-disney-plus-release-date-trailer-cast-plot-mcu-connections-and-more)
+
+
+> Everybody loves a good villain, right? Even though his adoptive brother took top billing in the original Thor movie, Tom Hiddleston's Loki was instantly the star attraction. This manipulative Norse god of mischief was always the kind of charismatic bad guy movie fans love to hate – even when he was giving Iron Man, Captain America and the rest the runaround in the original Avengers movie. That's why the new Loki TV show on Disney Plus is such an exciting proposition. Focussing on the Asgardian's Infinity Stone-powered exploits after escaping with the Tesseract in Avengers: Endgame, the six-part series will see Loki jumping through time, meddling with history.
+
+
