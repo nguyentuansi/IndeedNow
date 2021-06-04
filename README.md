@@ -18808,3 +18808,44 @@
 > Everybody loves a good villain, right? Even though his adoptive brother took top billing in the original Thor movie, Tom Hiddleston's Loki was instantly the star attraction. This manipulative Norse god of mischief was always the kind of charismatic bad guy movie fans love to hate – even when he was giving Iron Man, Captain America and the rest the runaround in the original Avengers movie. That's why the new Loki TV show on Disney Plus is such an exciting proposition. Focussing on the Asgardian's Infinity Stone-powered exploits after escaping with the Tesseract in Avengers: Endgame, the six-part series will see Loki jumping through time, meddling with history.
 
 
+***
+[USD declines after the weaker jobs report (but watch those wages)](https://www.forexlive.com/technical-analysis/!/usd-declines-after-the-weaker-jobs-report-but-watch-those-wages-20210604)
+
+
+> The USD is the weakest of the majors now The initial reaction was for a weaker dollar after the jobs report came in at 559K versus 675K estimate.  However the fly in the ointment is the wage gains which rose by 0.5% and are up 2.0% year on year.  The unemployment rate did dipped to 5.8% from 6.1%.  The snapshot currently shows
+
+
+***
+[How do i get only the last 100 entries from a CSV ?](https://www.reddit.com/r/Python/comments/ns4a6f/how_do_i_get_only_the_last_100_entries_from_a_csv/)
+
+
+> I do log the energy consumption of my home into a CSV file with a python program. Then display that consumption with another python program. I would like to have a scrolling window of the last 100 data points and not since the beginning of the CSV.I know i can load the whole CSV and then cut it, but with a file with days/weeks of data this seems ineficient.Should i store the data in ram, an array inside python?
+
+
+***
+[Facebook Hit With New Antitrust Investigation Over Use of Ad Data](https://www.thequint.com/tech-and-auto/facebook-hit-with-new-antitrust-over-use-of-classified-ad-data)
+
+
+> Launching the probe, Commissioner Margrethe Vestager marks her latest fight with one of the US tech giants.
+
+
+***
+![Someone Compared The Difference Between Their FedEx And USPS Deliveries On The Same Day, And The Difference Is Stark](https://cdn.digg.com/wp-content/uploads/2021/06/04124225/Screen-Shot-2021-06-04-at-8.42.13-AM.png "Someone Compared The Difference Between Their FedEx And USPS Deliveries On The Same Day, And The Difference Is Stark")
+
+
+[Someone Compared The Difference Between Their FedEx And USPS Deliveries On The Same Day, And The Difference Is Stark](https://digg.com/video/someone-compared-the-difference-between-their-fedex-and-usps-deliveries-on-the-same-day-and-the-difference-is-stark)
+
+
+> I thought it was gone forever. That hasn't changed, but at least I know where it went. That USPS delivery person is a hero. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. "Oh, there you are. Wasn't expecting you at this hour." An interview with comedians Jacqueline Novak and Kate Berlant about their podcast, "POOG," which turns wellness on its head, untangling their own messy feelings about health and wellness.
+
+
+***
+![Motorola Moto G Stylus 5G spotted on GeekBench: Expected specifications, more](https://images.indianexpress.com/2020/11/Motorola-Moto-G-5G-1.jpg "Motorola Moto G Stylus 5G spotted on GeekBench: Expected specifications, more")
+
+
+[Motorola Moto G Stylus 5G spotted on GeekBench: Expected specifications, more](https://indianexpress.com/article/technology/mobile-tabs/motorola-moto-g-stylus-5g-tipped-expected-specifications-and-more-7344149/)
+
+
+> Motorola is expected to launch its latest smartphone; the Moto G Stylus 5G soon. The phone has been spotted on various certification and benchmarking platforms recently. Here is everything we know about the Moto G Stylus 5G smartphone . Motorola Moto G Stylus 5G: Specifications (Expected) According to report on TechnikNews, the phone is codenamed ‘Denver' and will be powered by the Qualcomm Snapdragon 480 SoC. The report lists the smartphone to come in 64GB and 128GB storage variants. A listing on Geekbench reveals the benchmark scores of the device.
+
+
