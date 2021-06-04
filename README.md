@@ -18661,3 +18661,50 @@
 > Digital Trends may earn a commission when you buy through links on our site. If you believe you're all set for your gaming sessions with your console or gaming PC, you might want to think again if you don't own a gaming chair. It's practically a requirement for playing video games for long hours without suffering from body pains. You should look forward to this year's Prime Day deals, which will offer significant savings when buying a gaming chair. With Amazon's Prime Day 2021 date set on June 21 and June 22, you should definitely be looking forward to a healthy collection of Prime Day gaming chair deals.
 
 
+***
+![What to stream this weekend: Sweet Tooth, Kung Fu and more highlights](https://cdn.mos.cms.futurecdn.net/kz2W4xcWM3BUmnAqyiQu2i-1200-80.jpg "What to stream this weekend: Sweet Tooth, Kung Fu and more highlights")
+
+
+[What to stream this weekend: Sweet Tooth, Kung Fu and more highlights](https://www.techradar.com/news/now-streaming-best-new-tv-shows-and-movies-this-week-in-australia-may-31-june-6)
+
+
+> (Image credit: Netflix) With so many shows and movies to choose from on Australia's major streaming services, it can often be difficult to find the best new stuff to entertain yourself with each week.In an effort to make things easier, we've hand-picked the best new shows and movies of the week to watch on Aussie streaming platforms, covering the likes of Netflix, Disney Plus, Binge, Foxtel Now, Stan and Amazon Prime Video.Below, you'll find a list of this week's highlights, with binge-worthy new shows sitting alongside some great big-budget new movie arrivals – and a couple of oddball left-of-field entries, just for some variety.
+
+
+***
+[Facebook to End Special Treatment for Politicians' Posts: Report](https://www.thequint.com/tech-and-auto/facebook-to-end-special-treatment-on-politicians-posts-report)
+
+
+> The Oversight Board has asked Facebook to respond to its policy recommendations by 5 June.
+
+
+***
+![Hong Kong democracy site pulled ‘by mistake'](https://technology.inquirer.net/files/2020/10/202001002-keyboard-620x349.png "Hong Kong democracy site pulled ‘by mistake'")
+
+
+[Hong Kong democracy site pulled ‘by mistake'](https://technology.inquirer.net/110091/hong-kong-democracy-site-pulled-by-mistake)
+
+
+> HONGKONG — Israel-based web host Wix pulled a Hong Kong democracy website from its servers following a takedown request by the Chinese financial hub's police, a decision the company said Friday was 'a mistake'. The firm later reversed the decision and reinstated the site. However, the removal is the first known case of Hong Kong police using a sweeping new national security law to demand overseas websites censor content. ADVERTISEMENT Nathan Law, a former student leader and Hong Kong legislator who fled to Britain last year, tweeted on Thursday that Wix had removed www.
+
+
+***
+![EOFY 2021 sales: best tax-time deals](https://cdn.mos.cms.futurecdn.net/woMCfppBeZJn9XKm9rZn6d-1200-80.jpg "EOFY 2021 sales: best tax-time deals")
+
+
+[EOFY 2021 sales: best tax-time deals](https://www.techradar.com/news/the-best-australian-eofy-tech-deals)
+
+
+> The end of financial year sales form one of the biggest shopping events in Australia, and now that June is here, tax-time deals are filling our screens. To kick start EOFY, we're seeing solid smartphone discounts on the iPhone 12 and the Google Pixel 5, just to name a few.For the gamers looking for fresh kit, the maker behind our favourite gaming chair has also kicked off its EOFY sale. Secretlab has cut the price on its range of excellent chairs, so you can have the best seat in the house for less.
+
+
+***
+![Tour of our 250k line Clojure codebase](https://external-preview.redd.it/aXuuvt5NlLhQJqQPnNB5wQstnTF6E1vT9pHyF-yK4Wk.jpg?auto=webp&s=d68e2e8b446af05f0253c5798d343eec4806464c "Tour of our 250k line Clojure codebase")
+
+
+[Tour of our 250k line Clojure codebase](https://www.reddit.com/r/programming/comments/nrz5ge/tour_of_our_250k_line_clojure_codebase/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
