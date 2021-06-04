@@ -18564,3 +18564,50 @@
 > Software as a service has been thriving as a sector for years, but it has gone into overdrive in the past year as businesses responded to the pandemic by speeding up the migration of important functions to the cloud. We've all seen the news of SaaS startups raising large funding rounds, with deal sizes and valuations steadily climbing. But as tech industry watchers know only too well, large funding rounds and valuations are not foolproof indicators of sustainable growth and longevity. To scale sustainably, grow its customer base and mature to the point of an exit, a SaaS startup needs to stand apart from the herd at every phase of development.
 
 
+***
+![Analyzing Florida's controversial anti-trans legislation on female sports teams](https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/04/3d934c7f-b9f8-4aa5-846a-b0fcbca29966/thumbnail/1200x630/98a18a6e45ed0b83b6d208472b912001/cbsn-fusion-florida-anti-trans-legislation-female-sports-athletes-analysis-latest-2021-06-03-thumbnail-728279-640x360.jpg "Analyzing Florida's controversial anti-trans legislation on female sports teams")
+
+
+[Analyzing Florida's controversial anti-trans legislation on female sports teams](https://www.cbsnews.com/video/florida-anti-trans-legislation-female-sports-athletes-analysis-latest-2021-06-03/)
+
+
+> Analyzing Florida's controversial anti-trans legislation on female sports teams Florida Governor Ron DeSantis signed a bill into law Tuesday banning transgender girls and women from competing on female sports teams. The Republican governor says it's to protect the fairness of women's athletics, but LGBTQ advocates say the law is discriminatory. Jenny Pizer, the director of law and policy at Lambda Legal, joins CBSN's Elaine Quijano with her analysis.
+
+
+***
+![Apple's Thunderbolt Display is now vintage as rumors swirl of new model](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2015/03/thunderbolt-display-hero.jpg "Apple's Thunderbolt Display is now vintage as rumors swirl of new model")
+
+
+[Apple's Thunderbolt Display is now vintage as rumors swirl of new model](https://www.imore.com/apples-thunderbolt-display-now-vintage-rumors-swirl-new-model)
+
+
+> Source: iMore Apple's beloved Thunderbolt Display and original iPad Air are now considered vintage products. As reported by MacRumors, Apple has added the 27-inch Thunderbolt Display to the company's list of "vintage" products. It is time - products that are not sold for around five years go onto the list and the Thunderbolt Display hasn't been sold in about that time. The original iPad Air and Apple Cinema Display are also now vintage products. The 2013 11-inch and 13-inch MacBook Pro models have also now been moved to the obsolete list, meaning they will no longer receive hardware or software support from Apple or its third-party authorized repair partners.
+
+
+***
+![Facebook Plans to End Hands-Off Approach to Politicians' Posts](https://static01.nyt.com/images/2021/06/03/us/03facebook-politics/merlin_163187685_98c71f1e-e48f-4745-a721-b0c8c5a5bcf4-facebookJumbo.jpg "Facebook Plans to End Hands-Off Approach to Politicians' Posts")
+
+
+[Facebook Plans to End Hands-Off Approach to Politicians' Posts](https://www.nytimes.com/2021/06/03/technology/facebook-politicians-posts.html)
+
+
+> Continue reading the main storyThe social network, under pressure since barring former President Donald J. Trump, will no longer automatically give world leaders special treatment.The policy change is a stark one for Facebook, whose chief executive, Mark Zuckerberg, previously said he didn't want the company to be an arbiter of speech.Credit...Eric Thayer for The New York TimesJune 3, 2021, 8:58 p.m. ETSAN FRANCISCO — Facebook plans to announce on Friday that it will no longer keep posts by politicians up on its site by default if their speech breaks its rules, said two people with knowledge of the company's plans, reversing how it has allowed posts from political figures to remain untouched on the social network.
+
+
+***
+![BMW caught 142km/h over limit: cops](https://content.api.news/v3/images/bin/414b559a877c89672ff3e9582e1ee4ee "BMW caught 142km/h over limit: cops")
+
+
+[BMW caught 142km/h over limit: cops](https://www.news.com.au/technology/motoring/on-the-road/27yearold-busted-allegedly-speeding-142kmh-above-speed-limit/news-story/796b5314538155de6b464f8c17b514e3)
+
+
+> A 27-year-old's luxury car was impounded after he placed his passenger and other drivers in ‘extreme risk', police say.A 27-year-old Hobart man was allegedly caught driving a BMW M2 more than 142km/h above the speed limit in the early hours of Friday morning.Tasmania Police will allege the driver was clocked travelling at 222km/h in an 80km/h zone on Bowen Bridge near Hobart at 1am.The man was charged with operating a motor vehicle in an unnecessary execution of speed and was due to face the Hobart Magistrates Court at a later date.
+
+
+***
+[TRX Systems delivers NAVWAR threat mapping for foot soldiers](https://www.gpsworld.com/trx-systems-delivers-navwar-threat-mapping-for-foot-soldiers/)
+
+
+> Electronic Warfare Kit enables dismounted soldiers to detect, map and mitigate the impact of navigational warfare (NAVWAR) attacks […]
+
+
