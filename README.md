@@ -19037,3 +19037,53 @@
 > June 04, 2021 04:30 PM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--American Tower Corporation (NYSE: AMT) today announced that Tom Bartlett, its President and Chief Executive Officer, is scheduled to present at Nareit's REITweek: 2021 Virtual Investor Conference, on Wednesday, June 9, 2021 at 10:15 a.m. ET. A live audio webcast link for the virtual event will be available on the Company's website. American Tower, one of the largest global REITs, is a leading independent owner, operator and developer of multitenant communications real estate with a portfolio of approximately 214,000 communications sites.
 
 
+***
+![Please fix the AWS Free Tier before somebody gets hurt](https://external-preview.redd.it/JO727cu5V5B6cEi0Gg70mX5W4vGCUNMOx7P6H4-O_QU.jpg?auto=webp&s=c86b6c92ed875a5b17a080ad5e4f233721b58c41 "Please fix the AWS Free Tier before somebody gets hurt")
+
+
+[Please fix the AWS Free Tier before somebody gets hurt](https://www.reddit.com/r/programming/comments/nsh9zk/please_fix_the_aws_free_tier_before_somebody_gets/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Trump is suspended from Facebook for 2 years and can't return until ‘risk to public safety is receded'](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-04-2021/t_4987e552687f4565b10b151970a78b9a_name_ea1c7c0a_c556_11eb_89a4_b7ae22aa193e_scaled.jpg&w=1440 "Trump is suspended from Facebook for 2 years and can't return until ‘risk to public safety is receded'")
+
+
+[Trump is suspended from Facebook for 2 years and can't return until ‘risk to public safety is receded'](https://www.washingtonpost.com/technology/2021/06/03/trump-facebook-oversight-board/)
+
+
+> Facebook said Friday that it plans to suspend former president Donald Trump for two years following his comments inciting violence in the wake of the Capitol insurrection on Jan. 6.The social media giant will only reinstate him 'if the risk to public safety has receded,' according to a blog post on the company's website.Support our journalism. Subscribe today.Facebook's new policy refers specifically to the behavior of public figures during periods of heightened violence or unrest, according to the blog post.
+
+
+***
+![Facebook's Trump Blacklisting to Last Two Years (with Possible Extension)](https://media.breitbart.com/media/2019/10/Mark-Zuckerberg-at-Georgetown.jpg "Facebook's Trump Blacklisting to Last Two Years (with Possible Extension)")
+
+
+[Facebook's Trump Blacklisting to Last Two Years (with Possible Extension)](https://www.breitbart.com/tech/2021/06/04/facebooks-trump-blacklisting-to-last-two-years-with-possible-extension/)
+
+
+> Facebook has announced that President Trump's ban from the platform will continue for two years, expiring in January 2023, although the platform also stressed that the ban could be extended if experts consider allowing the former President to use the platform to still be be a 'serious risk to public safety.' The social network also stressed that if Trump is reinstated in 2023, 'strict set of rapidly escalating sanctions that will be triggered if Mr. Trump commits further violations in future.' In a statement condemning the decision, Trump said 'Facebook's ruling is an insult to the record-setting 75M people, plus many others, who voted for us in the 2020 Rigged Presidential Election.
+
+
+***
+![Bokhari: Newsflash to Google](https://media.breitbart.com/media/2018/09/Noogler-Hat-for-new-Google-employees.jpg "Bokhari: Newsflash to Google")
+
+
+[Bokhari: Newsflash to Google](https://www.breitbart.com/tech/2021/06/04/bokhari-newsflash-to-google-diversity-departments-attract-racists/)
+
+
+> Google might be the most race-obsessed company in America — and that's saying a lot given that America is the most race-obsessed country in the world. Yet I suspect its leadership is clueless enough to be surprised that open encouragement of race-obsession (or 'diversity and equity' obsession, as they would insist on calling it) attracts racist employees. Kamau Bobb, one of the tech giant's top executives on issues of diversity, brings the issue into focus. Bobb was 'removed' from his top-level diversity position at Google today, (although they didn't fire him), after the Washington Free Beacon unearthed a 2007 blog post on his personal website that claimed Jews have an 'insatiable appetite for war and killing.
+
+
+***
+![Google Pushes Chinese Propaganda About South China Sea](https://media.breitbart.com/media/2017/02/china-submarine-international-fleet-review-getty.jpg "Google Pushes Chinese Propaganda About South China Sea")
+
+
+[Google Pushes Chinese Propaganda About South China Sea](https://www.breitbart.com/tech/2021/06/04/google-pushes-chinese-propaganda-about-south-china-sea-with-wikipedias-help/)
+
+
+> A discussion at the Wikipedia Reddit community yesterday noted that Google searches asking if China owns the disputed South China Sea prominently featured a result from the online encyclopedia parroting the Chinese government position that it 'enjoys indisputable sovereignty' over the sea. Reddit users noted the line appeared to be taken from a Chinese Foreign Ministry statement quoted in the article, a fact not included in the Google snippet. The line was removed after the Reddit discussion brought it to attention.
+
+
