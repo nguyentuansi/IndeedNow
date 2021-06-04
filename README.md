@@ -18993,3 +18993,47 @@
 > Cannabis company MariMed, Inc. (OTCQX:MRMD) has appointed Howard Schacter to oversee its communications department. The Norwood, Massachusetts-based company also named Schacter a member of its executive management team. During his career, Schacter had counseled several companies, such as Facebook Inc (NASDAQ:FB), McDonald's Corp (NYSE:MCD), Microsoft Corporation (NASDAQ:MSFT), and Spotify Technology SA (NYSE:SPOT), to name a few. Prior to this, he served as head of communications at Acreage Holdings Inc.
 
 
+***
+[Investigator says hackers breached Colonial Pipeline through a VPN account whose password has since been discovered inside a batch of leaks on the dark web (Bloomberg)](http://www.techmeme.com/210604/p25#a210604p25)
+
+
+> Bloomberg: Investigator says hackers breached Colonial Pipeline through a VPN account whose password has since been discovered inside a batch of leaks on the dark web — - Investigators suspect hackers got password from dark web leak — Colonial CEO hopes U.S. goes after criminal hackers abroad
+
+
+***
+[Snowflake CEO says diversity shouldn't "override" merit in hiring decisions, claiming other CEOs feel the same way but are reluctant to say so publicly (Bloomberg)](http://www.techmeme.com/210604/p24#a210604p24)
+
+
+> Bloomberg: Snowflake CEO says diversity shouldn't “override” merit in hiring decisions, claiming other CEOs feel the same way but are reluctant to say so publicly — - CEO Frank Slootman seeks ‘moderated’ approach on diversity — Cloud software maker went public in biggest 2020 U.S. IPO
+
+
+***
+![MacBook Pro 2021: No Touch Bar, return of MagSafe, a mini-LED display, and more](https://icdn.digitaltrends.com/image/digitaltrends/macbook-pro-m1-06.jpg "MacBook Pro 2021: No Touch Bar, return of MagSafe, a mini-LED display, and more")
+
+
+[MacBook Pro 2021: No Touch Bar, return of MagSafe, a mini-LED display, and more](https://www.digitaltrends.com/computing/macbook-pro-2021-rumors-news-price-release-date/)
+
+
+> The MacBook Pro has gained a renewed lease on life since Apple outfitted it with the superb M1 chip in 2020. It seems to have an exciting future ahead of it, and with plenty of interesting rumors doing the rounds, there is a lot of debate as to what the next version of Apple's Pro laptops might contain. There has been a recent flurry of information, with respected Apple analyst Ming-Chi Kuo and prominent reporter Mark Gurman both shedding light on an all-new 14-inch version, as well as sharing updates to the current MacBook Pro 16.
+
+
+***
+![Will the next PSVR feature this vital quality of life feature?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/04/article-9-nausea-psvr-1.jpg "Will the next PSVR feature this vital quality of life feature?")
+
+
+[Will the next PSVR feature this vital quality of life feature?](https://www.androidcentral.com/will-psvr-2-have-ipd-adjustment)
+
+
+> Source: Android CentralBest answer: It's unclear at the moment. PlayStation's been tight-lipped about their next VR outing since they announced it last February, but manual IPD adjustment has become commonplace among most VR headsets on the market. To add fuel to this speculation, multiple rumors about the next PS VR have suggested that the new headset will introduce several quality of life changes, including manual IPD adjustment. IPD, which stands for interpupillary distance, is the distance between the center of a person's eyes.
+
+
+***
+![American Tower Corporation to Present at Nareit's REITweek: 2021 Virtual Investor Conference](https://mms.businesswire.com/media/20210604005444/en/635712/23/ATC_Logo.jpg "American Tower Corporation to Present at Nareit's REITweek: 2021 Virtual Investor Conference")
+
+
+[American Tower Corporation to Present at Nareit's REITweek: 2021 Virtual Investor Conference](https://www.businesswire.com/news/home/20210604005444/en/American-Tower-Corporation-to-Present-at-Nareits-REITweek-2021-Virtual-Investor-Conference)
+
+
+> June 04, 2021 04:30 PM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--American Tower Corporation (NYSE: AMT) today announced that Tom Bartlett, its President and Chief Executive Officer, is scheduled to present at Nareit's REITweek: 2021 Virtual Investor Conference, on Wednesday, June 9, 2021 at 10:15 a.m. ET. A live audio webcast link for the virtual event will be available on the Company's website. American Tower, one of the largest global REITs, is a leading independent owner, operator and developer of multitenant communications real estate with a portfolio of approximately 214,000 communications sites.
+
+
