@@ -18849,3 +18849,50 @@
 > Motorola is expected to launch its latest smartphone; the Moto G Stylus 5G soon. The phone has been spotted on various certification and benchmarking platforms recently. Here is everything we know about the Moto G Stylus 5G smartphone . Motorola Moto G Stylus 5G: Specifications (Expected) According to report on TechnikNews, the phone is codenamed ‘Denver' and will be powered by the Qualcomm Snapdragon 480 SoC. The report lists the smartphone to come in 64GB and 128GB storage variants. A listing on Geekbench reveals the benchmark scores of the device.
 
 
+***
+![Cinder: Instagram's performance-oriented fork of CPython (explicitly unsupported for external use)](https://external-preview.redd.it/y-zshvZx5llJgfJTTI30IEl8gAm6Q83yRIocBJxtZAg.jpg?auto=webp&s=395d520e044ac04820f5126a840e95694a41797b "Cinder: Instagram's performance-oriented fork of CPython (explicitly unsupported for external use)")
+
+
+[Cinder: Instagram's performance-oriented fork of CPython (explicitly unsupported for external use)](https://www.reddit.com/r/programming/comments/ns6tle/cinder_instagrams_performanceoriented_fork_of/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![React Native Tutorial #26 (2021)](https://external-preview.redd.it/7QgWOP5_WeZFHaXf6tZS7xGSxocVpeZkco0CwoPclqg.jpg?auto=webp&s=e6cb16531a049464ce2c7e8b150595ed598a3e3b "React Native Tutorial #26 (2021)")
+
+
+[React Native Tutorial #26 (2021)](https://www.reddit.com/r/programming/comments/ns6qx7/react_native_tutorial_26_2021_redux_state/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Elon Musk sends hundreds of British worms to SPACE in bizarre ISS experiment](https://www.thesun.co.uk/wp-content/uploads/2021/06/ac-comp-space-worm.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Elon Musk sends hundreds of British worms to SPACE in bizarre ISS experiment")
+
+
+[Elon Musk sends hundreds of British worms to SPACE in bizarre ISS experiment](https://www.thesun.co.uk/tech/15163769/elon-musk-british-worms-space-iss/)
+
+
+> BRITISH worms have been blasted into space – as part of a study into muscle loss. Hundreds of microscopic wrigglers lifted off from Florida on Thursday onboard a SpaceX rocket bound for the International Space Station. The UK Space Agency has blasted hundreds of microscopic worms into space The research team behind the project aims to uncover the causes of muscle changes during spaceflight, and work out how to prevent them. Muscle wasting is known to affect astronauts aboard the ISS and poses a big problem to anyone on future trips to distant planets.
+
+
+***
+[Python and statistics](https://www.reddit.com/r/Python/comments/ns6lhd/python_and_statistics/)
+
+
+> Hello.I want to do some statistics in python.Wich is the best tool for this purpose?
+
+
+***
+![11 Things experienced Software Engineers would have done differently](https://external-preview.redd.it/BtbPZjlkrMldua4fkdJkY0lXkzSWLMafDzXTpciodbI.jpg?auto=webp&s=f071b55fb06733500bf5da6c1e1ef5f83a096b20 "11 Things experienced Software Engineers would have done differently")
+
+
+[11 Things experienced Software Engineers would have done differently](https://www.reddit.com/r/programming/comments/ns6k0w/11_things_experienced_software_engineers_would/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
