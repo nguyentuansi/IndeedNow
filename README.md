@@ -19087,3 +19087,47 @@
 > A discussion at the Wikipedia Reddit community yesterday noted that Google searches asking if China owns the disputed South China Sea prominently featured a result from the online encyclopedia parroting the Chinese government position that it 'enjoys indisputable sovereignty' over the sea. Reddit users noted the line appeared to be taken from a Chinese Foreign Ministry statement quoted in the article, a fact not included in the Google snippet. The line was removed after the Reddit discussion brought it to attention.
 
 
+***
+![Gradual Typing in Practice](https://external-preview.redd.it/ONhRsmJFdfrZFZ0GtshCMEUwLHbdiTtuzBVkeSV7i_8.jpg?auto=webp&s=fbce851ef5cfca8c8e1a5c74648408913fe11eca "Gradual Typing in Practice")
+
+
+[Gradual Typing in Practice](https://www.reddit.com/r/Python/comments/nsjsx0/gradual_typing_in_practice/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Cross-border payments startup dLocal's shares closed up 54% in its Nasdaq debut on Thursday, after raising $617.6M in its IPO, valuing the company at ~$10B (Luisa Beltran/Barron's Online)](http://www.techmeme.com/210604/p30#a210604p30)
+
+
+> Luisa Beltran / Barron's Online: Cross-border payments startup dLocal's shares closed up 54% in its Nasdaq debut on Thursday, after raising $617.6M in its IPO, valuing the company at ~$10B — Shares of dLocal soared as much as 59% Thursday after the company completed an initial public offering that raised more than expected.
+
+
+***
+[Tech Tips: Tech for summer travel](https://kvoa.com/news/top-stories/2021/06/04/tech-tips-tech-for-summer-travel/)
+
+
+> If you're looking for a search engine alternative, Quincey Hobbs. The post Tech Tips: Tech for summer travel appeared first on KVOA.
+
+
+***
+![Louis Vuitton may pull out of duty free shops in Korea](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/8beee3a443694746918ae4b5cfee866e.jpg "Louis Vuitton may pull out of duty free shops in Korea")
+
+
+[Louis Vuitton may pull out of duty free shops in Korea](https://www.koreatimes.co.kr/www/tech/2021/06/694_309919.html)
+
+
+> Louis Vuitton's duty free store at Incheon International Airport. YonhapBy Kim Jae-heunFrench fashion house, Louis Vuitton, one of the world's three major luxury brands along with Chanel and Hermes, is contemplating closing its duty free shops in downtown areas of Seoul, according to recent reports.Instead, the high-end fashion brand will expand its stores in airports.The Moodie Davitt Report, a British publisher specializing in reports on the duty free and travel retail industries, said, "French luxury house Louis Vuitton is progressively withdrawing from much of its downtown duty free business ― including its long-standing and expensive Korean presence.
+
+
+***
+![Bitcoin price news LIVE –  Elon Musk says he ‘misses' BTC amid market crash plus Ethereum, Dogecoin & Cardano latest](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/06/crypto-2-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price news LIVE –  Elon Musk says he ‘misses' BTC amid market crash plus Ethereum, Dogecoin & Cardano latest")
+
+
+[Bitcoin price news LIVE –  Elon Musk says he ‘misses' BTC amid market crash plus Ethereum, Dogecoin & Cardano latest](https://www.thesun.co.uk/tech/15127172/bitcoin-price-news-live-cryptocurrency-ethereum-cardano-dogecoin/)
+
+
+> WILD RIDE 1:32, 5 Jun 2021Updated: 1:39, 5 Jun 2021ELON Musk says he "misses" Bitcoin after the market's recent comeback stalled yesterday as several major coins took a tumble. The Tesla CEO posted a meme about a couple breaking up over excessive quoting of Linkin Park lyrics. Mr Musk shared the meme with '#Bitcoin' and a heartbreak emoji. And Bitcoin, Ethereum, Cardano and Dogecoin all fell again after having trended upwards for much of Friday. The market movements come as Elon Musk took to Twitter to post memes mocking the market downturn.
+
+
