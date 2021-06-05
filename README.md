@@ -19607,3 +19607,47 @@
 > The social network deleted a tweet from Nigerian President Muhammadu Buhari on Wednesday in which he threatened independence activists The Nigerian government announced on Friday that it had suspended Twitter activities in Africa's most populous country, two days after the social network deleted a tweet from President Muhammadu Buhari. "The federal government has suspended, for an indefinite period, the activities of the microblogging service and social network Twitter in Nigeria," the Ministry of Information and Culture said in a statement.
 
 
+***
+![Tesla Crashes in China After Accelerating by Itself](https://media.breitbart.com/media/2019/06/Elon-Musk-shrugs-640x335.jpg "Tesla Crashes in China After Accelerating by Itself")
+
+
+[Tesla Crashes in China After Accelerating by Itself](https://www.breitbart.com/tech/2021/06/05/report-tesla-crashes-in-china-after-accelerating-by-itself/)
+
+
+> A Tesla in Chengdu, China, reportedly crashed against a column in a parking structure after accelerating by itself. China's state-run media outlet, the Global Times, reported in a recent article that a tesla in Chengdu, China, crashed against a column in a car park on May 25 after accelerating by itself. Tesla claimed that no fault was found in the vehicle's braking system and that the incident was the result of driver error. 'After reviewing the available data it showed that the driver pressed on the accelerator to reach a maximum speed of 21.
+
+
+***
+![Waking just one hour earlier cuts depression risk by double digits](https://www.sciencedaily.com/images/scidaily-icon.png "Waking just one hour earlier cuts depression risk by double digits")
+
+
+[Waking just one hour earlier cuts depression risk by double digits](https://www.sciencedaily.com/releases/2021/05/210528114107.htm)
+
+
+> Waking up just one hour earlier could reduce a person's risk of major depression by 23%, suggests a sweeping new genetic study published May 26 in the journal JAMA Psychiatry. The study of 840,000 people, by researchers at University of Colorado Boulder and the Broad Institute of MIT and Harvard, represents some of the strongest evidence yet that chronotype -- a person's propensity to sleep at a certain time -- influences depression risk. It's also among the first studies to quantify just how much, or little, change is required to influence mental health.
+
+
+***
+![Police departments have to make Ring video requests in public now](https://mondrian.mashable.com/2021%252F06%252F05%252Faf%252F0acef9b41876466d9168695f77e58d98.31244.png%252F1200x630.png?signature=aIXDWfY1C0iK-6_wLZNHQ5674S4= "Police departments have to make Ring video requests in public now")
+
+
+[Police departments have to make Ring video requests in public now](https://mashable.com/article/ring-doorbell-police-request-public/)
+
+
+> Amazon's Ring video doorbell service has a cop problem. The latest Ring policy change won't fix that, but it could at least add a tiny bit more transparency to the way police departments use Ring. Ring announced in a blog post that police departments will have to use a new feature called Request for Assistance in the company's Neighbors mobile app to get information out of Ring users, such as videos from the device cameras. Request for Assistance posts are public by nature, attached to verified police department accounts, and cannot be deleted.
+
+
+***
+[Automating IT tasks](https://www.reddit.com/r/Python/comments/nt661f/automating_it_tasks/)
+
+
+> Background about me: Intermediate automation tester and currently navigating my career towards DevOps.I have always worked on development side have no exposure to IT. I have recently started a new position as automation tester and my email was created with wrong spelling by IT team. I am curious to know if there are repetitive tasks that can be automated, like creating new employee email or setting up the applications on their laptop or any other tasks that you automated and saved lot of time and it reduced the scope of error.
+
+
+***
+[What are complementary languages to Python?](https://www.reddit.com/r/Python/comments/nt64sh/what_are_complementary_languages_to_python/)
+
+
+> What programming languages have features that a Python developer can benefit from?Ruby and Perl for instance are rather rivals of Python and will arguably provide less of an additional power, in terms of doing things in a fashion you cannot do with Python.I am looking for your ideas and arguments for other languages and technologies which would enhance your skill set. My example would be SQL.
+
+
