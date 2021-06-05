@@ -19225,3 +19225,50 @@
 > I remember having a 17" MBP and at the time thought it was a little on the heavy side to carry around. However, In the light of WWDC 2021 and the new Silicon Macs, I was wondering about the possibility of them revisiting the 17" (18"?) MBP? I think the weight would be quite a bit less and my eyes aren't getting better so I think I would be into getting a 17/18". How about the rest of you?
 
 
+***
+![From Japanese pyramids to the ‘underwater kingdom of Wales' – Cool submerged cities lost to the waves](https://www.thesun.co.uk/wp-content/uploads/2019/06/ac-comp-underwater-cities.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "From Japanese pyramids to the ‘underwater kingdom of Wales' – Cool submerged cities lost to the waves")
+
+
+[From Japanese pyramids to the ‘underwater kingdom of Wales' – Cool submerged cities lost to the waves](https://www.thesun.co.uk/tech/15165930/japanese-pyramids-underwater-kingdom-wales-submerged-cities/)
+
+
+> THE legend of Atlantis describes a fictional utopia whose greedy and corrupt citizens fell victim to the cruel wrath of the gods. But while the tale of the sunken metropolis is pure fiction, there are many real ancient cities across the globe that truly were lost to the sea. Underwater Kingdom of Wales Some of these trees haven't been seen for thousands of yearsCredit: Getty - Contributor A mysterious prehistoric forest recently rose again on a Welsh beach thanks to a heavy storm. The collection of ancient tree stumps was buried under water and sand more than 4,500 years ago and now people are connecting it to an ancient legend about a "sunken civilisation".
+
+
+***
+![Twitter removes verified blue tick from Vice President Venkaiah Naidu's personal account, restores later](https://images.financialexpress.com/2021/06/venkaiah-naidu-1200.jpg "Twitter removes verified blue tick from Vice President Venkaiah Naidu's personal account, restores later")
+
+
+[Twitter removes verified blue tick from Vice President Venkaiah Naidu's personal account, restores later](https://www.financialexpress.com/industry/technology/twitter-removes-verified-blue-tick-from-vice-president-venkaiah-naidus-personal-account-restores-later/2265608/)
+
+
+> By: FE Online | June 05, 2021 11:44 AMThe official Twitter handle of the Indian Vice President, @VPSecretariat, continued to remain verified. (File image)Twitter: Microblogging site Twitter on Saturday removed and later restored the blue tick verification badge from the personal account of India's Vice President M Venkaiah Naidu, showing that the company would remove the badge regardless of the importance of the position that the person occupies if their account is not meeting the requirements for verification badge.
+
+
+***
+![Realme aims to offer 5G connectivity with sub-Rs.10,000 5G phones](https://cdn.mos.cms.futurecdn.net/ZY2EAjRi9VbiThikbQ96Jc-1200-80.jpg "Realme aims to offer 5G connectivity with sub-Rs.10,000 5G phones")
+
+
+[Realme aims to offer 5G connectivity with sub-Rs.10,000 5G phones](https://www.techradar.com/news/realme-aims-to-offer-5g-connectivity-with-sub-rs10000-5g-phones)
+
+
+> (Image credit: samsung) Chinese smartphone makers are not only known for offering true value for money smartphones but can also be credited with democratizing technologies as well. Realme, which for its credit is a fairly young company, also falls in the same category of companies that want to offer bang for buck devices.Sometime back Realme's India and Europe CEO, Madhav Sheth, in an exclusive interaction with TechRadar, hinted that the company wants to bring 5G capable smartphones to everyone's reach.
+
+
+***
+![Microsoft Teams update will prevent you getting crushed by an alert storm](https://cdn.mos.cms.futurecdn.net/6Mk9Z4nzDXQfHh7bwNk43R-1200-80.jpg "Microsoft Teams update will prevent you getting crushed by an alert storm")
+
+
+[Microsoft Teams update will prevent you getting crushed by an alert storm](https://www.techradar.com/news/microsoft-teams-update-will-prevent-you-getting-crushed-by-an-alert-storm)
+
+
+> (Image credit: Shutterstock) Microsoft is working on an update for its collaboration platform Teams that will give users greater control over the way they are served push notifications.According to a new entry to the company's product roadmap, users will soon be given the option of receiving notifications via Teams itself or the native Windows notification center when a message comes in.'The latter brings a suite of benefits, like respecting focus assist mode which enables you to avoid distracting notifications when you need to focus, and integrating with Windows 10 action center to help you review your notifications in one place,' Microsoft explained.
+
+
+***
+[Analysis: Palantir's Alexander Karp got compensation worth $1.1B last year and DoorDash's Tony Xu got $400M, both among the biggest CEO pay packages since 2007 (Theo Francis/Wall Street Journal)](http://www.techmeme.com/210605/p3#a210605p3)
+
+
+> Theo Francis / Wall Street Journal: Analysis: Palantir's Alexander Karp got compensation worth $1.1B last year and DoorDash's Tony Xu got $400M, both among the biggest CEO pay packages since 2007 — Data-analysis company's Alexander Karp and meal deliverer's Tony Xu received compensation far exceeding that of S&P 500 CEOs
+
+
