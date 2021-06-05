@@ -19272,3 +19272,50 @@
 > Theo Francis / Wall Street Journal: Analysis: Palantir's Alexander Karp got compensation worth $1.1B last year and DoorDash's Tony Xu got $400M, both among the biggest CEO pay packages since 2007 — Data-analysis company's Alexander Karp and meal deliverer's Tony Xu received compensation far exceeding that of S&P 500 CEOs
 
 
+***
+[Got a tech question or want to discuss tech? Bi-Weekly /r/Technology Tech Support / General Discussion Thread](https://www.reddit.com/r/technology/comments/nsqy1y/got_a_tech_question_or_want_to_discuss_tech/)
+
+
+> Greetings Good People of r/Technology,Welcome to the r/Technology Tech Support / General Discussion Thread.All questions must be submitted as top comments (direct replies to this post).As always, we ask that you keep it civil, abide by the rules of reddit and mind your reddiquette. Please hit the report button on any activity that you feel may be in violation of any of the guidelines listed above.Click here to review past iterations of these support discussions.cheers, r/technology moderators.
+
+
+***
+![Frightened Terns Abandon 1,500 Eggs After a Rogue Drone Crash-Landed on Nesting Island](https://external-preview.redd.it/TWtez32cPLxCK2PGUonAGfqaFSJnD9FOJmxrBBrRKDA.jpg?auto=webp&s=6e399cfac9f9f22c4051a9254279a38e453e609f "Frightened Terns Abandon 1,500 Eggs After a Rogue Drone Crash-Landed on Nesting Island")
+
+
+[Frightened Terns Abandon 1,500 Eggs After a Rogue Drone Crash-Landed on Nesting Island](https://www.reddit.com/r/technology/comments/nsqtnb/frightened_terns_abandon_1500_eggs_after_a_rogue/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Microsoft blames 'accidental human error' for Tank Man censorship on Tiananmen Square anniversary](https://external-preview.redd.it/sLhPW6KQ_N50_xwJbi8zc2ExcZcRB7VCssQry3I4sf4.jpg?auto=webp&s=4e8636913c9501cc6acb475e70f6f1e69faffcc5 "Microsoft blames 'accidental human error' for Tank Man censorship on Tiananmen Square anniversary")
+
+
+[Microsoft blames 'accidental human error' for Tank Man censorship on Tiananmen Square anniversary](https://www.reddit.com/r/technology/comments/nsqsen/microsoft_blames_accidental_human_error_for_tank/)
+
+
+> LOL. Opps, I tripped and fell on the censorship button!
+
+
+***
+![iOS 14 now installed on 85% of compatible iPhones, shows Apple statistics](https://bsmedia.business-standard.com/_media/bs/img/article/2017-10/03/full/1506975566-4562.jpg "iOS 14 now installed on 85% of compatible iPhones, shows Apple statistics")
+
+
+[iOS 14 now installed on 85% of compatible iPhones, shows Apple statistics](https://www.business-standard.com/article/technology/ios-14-now-installed-on-85-of-compatible-iphones-shows-apple-statistics-121060500261_1.html)
+
+
+> Apple has released new iOS adoption statistics, indicating that iOS 14 is now installed on 85 per cent of all iPhones and 90 per cent of devices released in the last four years. According to the data, collected by analysing App Store visits on June 3, only 10 per cent of users with an iPhone released in the last four years are running an older version of iOS. Among them, about 8 per cent are on iOS 13, while 2 per cent are running an earlier version, AppleInsider reported. Among all devices that Apple is tracking, 85 per cent are running iOS 14.
+
+
+***
+![[Breaking News] 744 new confirmed cases of Corona 19 yesterday... 700 people again in ten days](https://img.sbs.co.kr/newimg/news/20210602/201557185_1280.jpg "[Breaking News] 744 new confirmed cases of Corona 19 yesterday... 700 people again in ten days")
+
+
+[[Breaking News] 744 new confirmed cases of Corona 19 yesterday... 700 people again in ten days](https://www.tellerreport.com/tech/2021-06-05-[breaking-news]-744-new-confirmed-cases-of-corona-19-yesterday----700-people-again-in-ten-days.S1GN0khdc_.html)
+
+
+> Tech/Game 2021-06-05T08:03:23.907Z [Breaking News] 744 new confirmed cases of Corona 19 yesterday... 700 people again in ten days Tech/Game 2021-04-30T09:10:19.865Z [Breaking News] 775 confirmed yesterday... In four days, the number of people surged again to 700 Tech/Game 2021-04-23T04:39:59.395Z [Breaking News] Corona 19 Yesterday 797 new confirmed... Most in 106 days Tech/Game 2021-05-27T06:11:22.802Z [Breaking News] Corona 19 Yesterday 707 new confirmed... 700 again in 12 days Tech/Game 2021-05-28T16:52:37.
+
+
