@@ -19178,3 +19178,50 @@
 > Chris Metinko / Crunchbase News: Capchase, a lending service that helps SaaS companies with recurring revenue to grow their operations, raises $125M Series A led by QED Investors — Capchase closed a $125 million Series A as the New York-based company looks to expand its nondilutive funding platform and offerings to founders.
 
 
+***
+[In a letter to Tim Cook, written and edited by about 80 people, Apple employees push back against a policy requiring them to return to the office in September (Zoe Schiffer/The Verge)](http://www.techmeme.com/210605/p2#a210605p2)
+
+
+> Zoe Schiffer / The Verge: In a letter to Tim Cook, written and edited by about 80 people, Apple employees push back against a policy requiring them to return to the office in September — “Over the last year we often felt not just unheard, but at times actively ignored” — Apple employees are pushing …
+
+
+***
+![[Tron] LG Velvet 2 Pro's marketing materials](https://external-preview.redd.it/pfMTzHw3Asf0DrEZEWvEeI1h_E5En_ngu-8TfODzbmQ.jpg?auto=webp&s=69a782a7a360c264abd4f52a06fdac6d25bd90c8 "[Tron] LG Velvet 2 Pro's marketing materials")
+
+
+[[Tron] LG Velvet 2 Pro's marketing materials](https://www.reddit.com/r/Android/comments/nsno9g/tron_lg_velvet_2_pros_marketing_materials/)
+
+
+> Tron posted the LG Velvet 2 Pro's marketing materials on Twitter. Seems like the typical Android flagship from this year with a curved display, triple camera setup and no headphone jack.Mirror
+
+
+***
+![Receiving my iPhone 12 next week. Does this phone suck?](https://images.macrumors.com/social/?t=2299266&v=6 "Receiving my iPhone 12 next week. Does this phone suck?")
+
+
+[Receiving my iPhone 12 next week. Does this phone suck?](https://forums.macrumors.com/threads/receiving-my-iphone-12-next-week-does-this-phone-suck.2299266/)
+
+
+> Hey, y'all. I'm trading in my XR for a 12 next week. I've been doing all the fun stuff. Watching comparison videos. Watching/reading reviews. All the usual stuff and patiently awaiting delivery. Then I came back to this forum, which I really haven't read too much lately because I have an older phone. And all I see is green/yellow/raised blacks/flickering. I know about previous generation phones being warmer than others, but this is different. Is buying the 12 a crapshoot? I don't normally scrutinize my new iPhones, but now I feel like I must.
+
+
+***
+!['There is stuff': Enduring mysteries trail US report on UFOs](https://s.abcnews.com/images/Technology/WireAP_41ad5fcef46b4d53bcfd6829a4989555_16x9_992.jpg "'There is stuff': Enduring mysteries trail US report on UFOs")
+
+
+['There is stuff': Enduring mysteries trail US report on UFOs](https://abcnews.go.com/Technology/wireStory/stuff-enduring-mysteries-trail-us-report-ufos-78099346)
+
+
+> WASHINGTON -- The blob, captured on distant, fuzzy video by Navy pilots, seems to skitter just above the ocean waves at improbable speed, with no discernible means of propulsion or lift. 'Oh my gosh, man,' one aviator says to another as they laugh at the oddity. 'What ... is it?'Is it a bird? A plane? Super drone? An extraterrestrial something?The U.S. government has been taking a hard look at unidentified flying objects like this one. A report summarizing what the U.S. knows about 'unidentified aerial phenomena' — better known as UFOs — is expected to be made public this month.
+
+
+***
+![WWDC 2021](https://images.macrumors.com/social/?t=2299265&v=6 "WWDC 2021")
+
+
+[WWDC 2021](https://forums.macrumors.com/threads/wwdc-2021-would-you-consider-a-17-m1x-m2-mbp.2299265/)
+
+
+> I remember having a 17" MBP and at the time thought it was a little on the heavy side to carry around. However, In the light of WWDC 2021 and the new Silicon Macs, I was wondering about the possibility of them revisiting the 17" (18"?) MBP? I think the weight would be quite a bit less and my eyes aren't getting better so I think I would be into getting a 17/18". How about the rest of you?
+
+
