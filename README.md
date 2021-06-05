@@ -19413,3 +19413,53 @@
 > The VPN protocol that uses UDP port 1701 while not providing confidentiality and authentication is called 'L2TP.' With that said, you probably have many questions on your mind right now, as L2TP is still a VPN protocol (without providing any anonymity), right? After all, we can see several contradictions in the statement just above, so […]
 
 
+***
+![How to Run a Python Script on Windows](https://external-preview.redd.it/4sKoG4qAAFGsCz_zcSN_tMgtim_LrFJC4HM4XOjHwF8.jpg?auto=webp&s=93ef923019047ab64d35a079850d9595fc0d76cf "How to Run a Python Script on Windows")
+
+
+[How to Run a Python Script on Windows](https://www.reddit.com/r/Python/comments/nswqqv/how_to_run_a_python_script_on_windows_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![STACKOVERFLOW PAYMENT WALL!!](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png "STACKOVERFLOW PAYMENT WALL!!")
+
+
+[STACKOVERFLOW PAYMENT WALL!!](https://www.reddit.com/r/Python/comments/nswom7/stackoverflow_payment_wall/)
+
+
+> I heard that The Site May have a payment wall in near future.Is it the truth?😕100% Upvotedno comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
+***
+![Jimmy Kimmel grills a SpaceX rocket scientist for the real scoop on UFOs (or UAPs, whatever)](https://mondrian.mashable.com/2021%252F06%252F05%252Fc8%252F7dee7f10cfce4771bbb8314e4d41cf4a.f4d24.png%252F1200x630.png?signature=ojXUW80OVDv22umhVouUGtNbYA4= "Jimmy Kimmel grills a SpaceX rocket scientist for the real scoop on UFOs (or UAPs, whatever)")
+
+
+[Jimmy Kimmel grills a SpaceX rocket scientist for the real scoop on UFOs (or UAPs, whatever)](https://mashable.com/video/jimmy-kimmel-spacex-rocket-scientist-ufo-uap/)
+
+
+> Jimmy Kimmel kicked off Friday evening's episode with a far-ranging intro that covered a diverse range of topics, from Trump lapdog Mike Pence's weird "eye to eye" comment to an equally odd cutaway chat with a meme stock mastermind played by Haley Joel Osment. But the monologue's best moment came right up front as Jimmy paused to chat with an audience member who happens to be a SpaceX rocket scientist. We're not any closer at this point to knowing if UFOs are a real thing — SpaceX as a company has no evidence — but, in her chat with Kimmel, the rocket scientist channels basically all of us when she says: "In my professional opinion, I really want it to be true.
+
+
+***
+![Nigeria bans Twitter after president's tweet deleted](https://thehill.com/sites/default/files/ca_twitter_051120getty_0.jpg "Nigeria bans Twitter after president's tweet deleted")
+
+
+[Nigeria bans Twitter after president's tweet deleted](https://thehill.com/policy/technology/556990-nigeria-bans-twitter-after-presidents-tweet-deleted)
+
+
+> Nigeria banned Twitter on Friday after the platform deleted a tweet by President Muhammadu Buhari, saying it violated their abusive behavior policy.'The Federal Government has suspended, indefinitely, the operations of the microblogging and social networking service, Twitter, in Nigeria,' the country's ministry of information posted on Twitter Friday.The Federal Government has suspended, indefinitely, the operations of the microblogging and social networking service, Twitter, in Nigeria.— Fed Min of Info & Cu (@FMICNigeria) June 4, 2021Alhaji Lai Mohammed, the Minister of Information and Culture, said people were using the platform 'for activities that are capable of undermining Nigeria's corporate existence.
+
+
+***
+![Jimmy Kimmel Asked People On The Street If They Could Recognize Jill Biden. The Answers Were Hilarious](https://cdn.digg.com/wp-content/uploads/2021/06/05135318/maxresdefault-7-9.jpeg "Jimmy Kimmel Asked People On The Street If They Could Recognize Jill Biden. The Answers Were Hilarious")
+
+
+[Jimmy Kimmel Asked People On The Street If They Could Recognize Jill Biden. The Answers Were Hilarious](https://digg.com/video/jimmy-kimmel-asked-people-on-the-street-if-they-could-recognize-jill-biden-the-answers-were-hilarious)
+
+
+> THEY'LL GO DOWN IN HISTORY Please enjoy a collection of some of the dumbest, most iconic and entertaining videos from the Internet. The footage was bought on eBay and shows people enjoying themselves on Jones Beach in Long Island in 1939 and 1940. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. Even with the picture of Joe Biden by her side, it still doesn't help much.
+
+
