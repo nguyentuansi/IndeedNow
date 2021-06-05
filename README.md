@@ -19510,3 +19510,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![I used a simple neural network to estimate the drag coefficient around triangles](https://external-preview.redd.it/T8ouxMuioMydkYWKXVviJqnX1y8QuK5dmDFdGCOUj20.jpg?auto=webp&s=1835ce70d3cb0b20f17304f7ac67f7ee783c900d "I used a simple neural network to estimate the drag coefficient around triangles")
+
+
+[I used a simple neural network to estimate the drag coefficient around triangles](https://www.reddit.com/r/Python/comments/nt2j2c/i_used_a_simple_neural_network_to_estimate_the/)
+
+
+> As my main field of work is in the field of fluid dynamics, but I am also interested in machine learning techniques, I wanted to use a simple example that combines both. I calculated the resulting drag coefficient for the flow around 1,458 different triangles at three different Reynolds numbers using OpenFOAM. This data can then be used to train a neural network and use it as a surrogate model, that allows the estimation of the drag coefficient at points that where not calculated in the flow simulation.
+
+
+***
+[Android Emulator Install](https://www.reddit.com/r/programming/comments/nt2fju/android_emulator_install/)
+
+
+> submitted by /u/larntech [link] [comments]
+
+
+***
+![Facebook's answer to Substack could be out by the end of June](https://mondrian.mashable.com/2021%252F06%252F05%252F70%252Fa36b0a63c36f4eb89c2fb643728723ec.12c68.jpg%252F1200x630.jpg?signature=wBpwXJ77vzBXeE8xGJk3f4PRPO0= "Facebook's answer to Substack could be out by the end of June")
+
+
+[Facebook's answer to Substack could be out by the end of June](https://mashable.com/article/facebook-bulletin-june-launch/)
+
+
+> Facebook started as a way to rate the attractiveness of female Harvard students. It eventually morphed into a way to post vacation photos, alienate friends and family with political views, shop for furniture, and even find love. Not content to merely worm its way into every other part of our lives, it looks like Facebook's also getting in the newsletter business very soon. That's the word from Recode, anyway. Facebook is reportedly gearing up to launch Bulletin, a service that would let writers circulate newsletters to anyone who wants to subscribe, with both free and paid options, though the details around how that would work are unclear right now.
+
+
+***
+![The Top 10 US Cities Where Rent Prices Have Increased The Most, Visualized](https://cdn.digg.com/wp-content/uploads/2021/06/05180056/Screen-Shot-2021-06-05-at-1.58.43-PM.png "The Top 10 US Cities Where Rent Prices Have Increased The Most, Visualized")
+
+
+[The Top 10 US Cities Where Rent Prices Have Increased The Most, Visualized](https://digg.com/2021/the-top-10-cities-where-rent-prices-have-increased-and-decreased-the-most-visualized)
+
+
+> Rental prices have fluctuated wildly in these past 12 months. Here are the top 10 cities where the rental prices of a two-bedroom unit have increased and decreased most dramatically. Hanging out with people is very different in Hawaii vs. in Silicon Valley. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. Golf is often associated with being a sport that's more on the slow side.
+
+
+***
+![Hubble's sprawling close-up of a distant galaxy looks like a sparkly spider web](https://mondrian.mashable.com/2021%252F06%252F05%252F8d%252F54c9e0ebe63f4b4eb79b319224231d39.4f1e5.jpg%252F1200x630.jpg?signature=uosBHWqawa6uuG-9PQbQUvzAvbM= "Hubble's sprawling close-up of a distant galaxy looks like a sparkly spider web")
+
+
+[Hubble's sprawling close-up of a distant galaxy looks like a sparkly spider web](https://mashable.com/article/hubble-spiral-galaxy-photo-ngc-691/)
+
+
+> We live in one of these, you know. Our own Milky Way is a spiral galaxy, much like the one featured in this newly shared image captured by Hubble's Wide Field Camera 3. What you're seeing is NGC 691, a spiral galaxy that's roughly 120 million light-years away. Image: ESA/Hubble & NASA, A. Riess et al.Acknowledgement: M. Zamani This beautiful image is more than just a snapshot, though. Hubble doesn't operate all on its own. An image like this pulls together the details the space telescope is able to discern across multiple wavelengths.
+
+
