@@ -19369,3 +19369,47 @@
 > Made a small downloader for YouTube with Flask and youtube-dl. Its not that great but it does the job.Check out the repository: https://github.com/GokulSudheesh/YouTube-DownloaderPS: I recently started learning css so it doesn't look that great.
 
 
+***
+![India's Koo to replace Twitter in Nigeria? CEO touts unique feature to expand Nigeria base](https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/z5m1blvupcxnspwj_1622893555.jpeg "India's Koo to replace Twitter in Nigeria? CEO touts unique feature to expand Nigeria base")
+
+
+[India's Koo to replace Twitter in Nigeria? CEO touts unique feature to expand Nigeria base](https://www.republicworld.com/technology-news/social-media-news/indias-koo-to-replace-twitter-in-nigeria-ceo-touts-unique-feature-to-expand-nigeria-base.html)
+
+
+> Capitalizing on Twitter's indefinite suspension in Nigeria, India's homegrown social media platform Koo is considering making a massive push in Africa in a bid to widen its base. Taking a subtle dig at Twitter, Koo's co-founder Aprameya Radhakrishna on Saturday tweeted that Koo is available in Nigeria, adding that the company is thinking of enabling local languages on its social media platform.  "@kooindia is available in Nigeria. We're thinking of enabling the local languages there too. What say?" wrote the company's co-founder Aprameya Radhakrishna on Twitter.
+
+
+***
+![Bitcoin price – live: NSFW crypto gets huge boost from Elon Musk endorsement](https://static.independent.co.uk/2021/06/03/09/bitcoin%20price%20live%20june%202021.jpg?width=1200&auto=webp&quality=75 "Bitcoin price – live: NSFW crypto gets huge boost from Elon Musk endorsement")
+
+
+[Bitcoin price – live: NSFW crypto gets huge boost from Elon Musk endorsement](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-live-ethereum-dogecoin-elon-musk-b1859494.html)
+
+
+> Bitcoin, Ethereum (ether), and Cardano (ada) are enjoying a period of relative stability over the weekend, shifting by less than 1 per cent in price since Friday.The headlines have instead been taken by NSFW altcoin CumRocket, which received an emoji endorsement from Elon Musl.Following a quiet couple of days at the start of June, positive news about dogecoin being added to Coinbase saw a sudden surge in price for the meme-inspired cryptocurrency at the end of the week.It shot up by more than a third within the space of just a few hours and continues to trade above $0.
+
+
+***
+![Explain What Single-Threaded JavaScript Means Like You Are 5 Years Old](https://external-preview.redd.it/sYfvJxMdQvnMOM46Rjxos1bFbNQyZM4fBtTR06RMbgA.jpg?auto=webp&s=e2336ed1d882dcc71a05ce4abaf74402bd22d549 "Explain What Single-Threaded JavaScript Means Like You Are 5 Years Old")
+
+
+[Explain What Single-Threaded JavaScript Means Like You Are 5 Years Old](https://www.reddit.com/r/programming/comments/nsuhfv/explain_what_singlethreaded_javascript_means_like/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[73% Enterprises Will Invest in 5G in the Next Three Years: Report](https://telecomtalk.info/73-enterprises-will-invest-in-5g-in/366947/)
+
+
+> The results of a study on Reimaging Industry Futures by Ernst and Young, now popularly known as EY, a business advisory firm, have been revealed. The study aimed at showcasing the perception of 5G technology within enterprises. The study reveals […]
+
+
+***
+[Which VPN Protocol Uses UDP Port 1701 & Does Not Provide Confidentiality and Authentication?](https://www.technadu.com/which-vpn-protocol-uses-udp-port-1701-does-not-provide-confidentiality-authentication/280799/)
+
+
+> The VPN protocol that uses UDP port 1701 while not providing confidentiality and authentication is called 'L2TP.' With that said, you probably have many questions on your mind right now, as L2TP is still a VPN protocol (without providing any anonymity), right? After all, we can see several contradictions in the statement just above, so […]
+
+
