@@ -19463,3 +19463,50 @@
 > THEY'LL GO DOWN IN HISTORY Please enjoy a collection of some of the dumbest, most iconic and entertaining videos from the Internet. The footage was bought on eBay and shows people enjoying themselves on Jones Beach in Long Island in 1939 and 1940. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. Even with the picture of Joe Biden by her side, it still doesn't help much.
 
 
+***
+[As Nigerian ISPs comply with government's Twitter ban blocking the service, the country's AG threatens prosecution of those trying to circumvent the ban (Dennis Erezi/The Guardian Nigeria News)](http://www.techmeme.com/210605/p8#a210605p8)
+
+
+> Dennis Erezi / The Guardian Nigeria News: As Nigerian ISPs comply with government's Twitter ban blocking the service, the country's AG threatens prosecution of those trying to circumvent the ban — Nigeria's attorney general Abubakar Malami Saturday said the country will prosecute those who flout the government order to deactivate operations …
+
+
+***
+![Don't buy a webcam...yet](https://cdn.mos.cms.futurecdn.net/ahnFtbJpCXugDxGhNktWqH-1200-80.jpg "Don't buy a webcam...yet")
+
+
+[Don't buy a webcam...yet](https://www.techradar.com/news/dont-buy-a-webcam-yet)
+
+
+> (Image credit: Future) If you've been on the hunt for some of the best webcams on the market over the last year, then chances are you have noticed how elusive they became during the sudden rise in remote working. A lot of this is down to the Covid-19 pandemic closing offices, but people also found that conferencing software such as Zoom and Skype was useful for staying in contact with friends and family, all resulting in high demand for the little stock of good webcams available. Now that things are slowly starting to improve you might be tempted to snatch up one of those Logitech webcams you've had saved on your wish list for months, but we'd recommend you hold fire - at least for a little while longer.
+
+
+***
+![Could working from home unintentionally lead us toward 1984?](https://thehill.com/sites/default/files/orwell_1984_04172019getty.jpg "Could working from home unintentionally lead us toward 1984?")
+
+
+[Could working from home unintentionally lead us toward 1984?](https://thehill.com/opinion/technology/556997-could-working-from-home-unintentionally-lead-us-toward-1984)
+
+
+> In George Orwell's classic science fiction tragedy, '1984,' and in the countless dystopian movies, novels, plays, video games, and short stories it has inspired, we find a future in which electronic surveillance is omnipresent for most people. Everyone's awareness of constant electronic surveillance — including constant surveillance in one's own home — is a principal tool of totalitarian control, famously called 'Big Brother Is Watching' by Orwell.Surveillance is as old as governments and in no way requires electronics to be effective.
+
+
+***
+![How to Search using Apple Books app?](https://images.macrumors.com/social/?t=2299321&v=6 "How to Search using Apple Books app?")
+
+
+[How to Search using Apple Books app?](https://forums.macrumors.com/threads/how-to-search-using-apple-books-app.2299321/)
+
+
+> Jun 15, 2009 835 72 Middle TN iMac19,1, Big Sur 11.4: Opening Apple Books, I search for a pdf by portion of the title. All I get is the book store. Am I using Apple Books correctly? I don't want the dang book store. I thought the search in Apple Books will search my book library?
+
+
+***
+![Learn Python from scratch. This Beginner Python course at the University of Bristol assumes no prior programming experience. This course was presented by Dr Matt Williams.](https://external-preview.redd.it/Cq0c3McN51yD1aZgOBkeUQu-umTNlLs7DOjmISIBfp4.jpg?auto=webp&s=66245e6fe65653f6b90132d01c7199343cfe4bdc "Learn Python from scratch. This Beginner Python course at the University of Bristol assumes no prior programming experience. This course was presented by Dr Matt Williams.")
+
+
+[Learn Python from scratch. This Beginner Python course at the University of Bristol assumes no prior programming experience. This course was presented by Dr Matt Williams.](https://www.reddit.com/r/Python/comments/nszhd8/learn_python_from_scratch_this_beginner_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
