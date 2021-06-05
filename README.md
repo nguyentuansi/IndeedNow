@@ -19319,3 +19319,53 @@
 > Tech/Game 2021-06-05T08:03:23.907Z [Breaking News] 744 new confirmed cases of Corona 19 yesterday... 700 people again in ten days Tech/Game 2021-04-30T09:10:19.865Z [Breaking News] 775 confirmed yesterday... In four days, the number of people surged again to 700 Tech/Game 2021-04-23T04:39:59.395Z [Breaking News] Corona 19 Yesterday 797 new confirmed... Most in 106 days Tech/Game 2021-05-27T06:11:22.802Z [Breaking News] Corona 19 Yesterday 707 new confirmed... 700 again in 12 days Tech/Game 2021-05-28T16:52:37.
 
 
+***
+![Booting from external disk.](https://images.macrumors.com/social/?t=2299287&v=6 "Booting from external disk.")
+
+
+[Booting from external disk.](https://forums.macrumors.com/threads/booting-from-external-disk.2299287/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Sep 14, 2017 161 18 West Coast of Scotland I have a 2019 iMac with a 1TB Fusion drive which is running Catalina. However I am currently booting this from a Thunderbolt connected Samsung X5 SSD. The original drive is just sitting with Catalina on it. No I was thinking of having a try at Big Sur.
+
+
+***
+![Using Scheme to Find the Median of Two Sorted Integer Lists](https://external-preview.redd.it/yw32DfMQE5WFrTWRoNri8GEjrkKXqqVK0_o0LB16T_4.jpg?auto=webp&s=50a3802e3a26c48b8c2093f053384801b3087b4c "Using Scheme to Find the Median of Two Sorted Integer Lists")
+
+
+[Using Scheme to Find the Median of Two Sorted Integer Lists](https://www.reddit.com/r/programming/comments/nssmga/using_scheme_to_find_the_median_of_two_sorted/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Battery duration of Intel MBA](https://images.macrumors.com/social/?t=2299286&v=6 "Battery duration of Intel MBA")
+
+
+[Battery duration of Intel MBA](https://forums.macrumors.com/threads/battery-duration-of-intel-mba.2299286/)
+
+
+> Hi all, I have an i5 MBA Air (2020) and am disappointed in the battery life. I ran a test with the screen sleep disabled (and a screen saver instead), a few 'normal' apps running but idle, the screen brightness at 75% and it lasted 7 hrs from a full charge. Is this what other folk are seeing in terms of battery runtimes? It's a little short of the 'up to' 11 hrs in the spec sheet (https://support.apple.com/kb/SP813?locale=en_GB). Would be interested to hear other Intel MBA battery runtimes. Thanks, Neil.
+
+
+***
+![Why Python hasn't taken off on mobile, or in the browser?](https://external-preview.redd.it/fCNHD04oAYQWx8o88D1urSZlArhkasZHOti0JbdsuNM.jpg?auto=webp&s=289706b29313590b820d4d2406d811a1ea507c3b "Why Python hasn't taken off on mobile, or in the browser?")
+
+
+[Why Python hasn't taken off on mobile, or in the browser?](https://www.reddit.com/r/Python/comments/nssjwi/why_python_hasnt_taken_off_on_mobile_or_in_the/)
+
+
+> "The people who have managed to cross-compile CPython to run on an Android tablet or even on iOS, they find that it eats up a lot of resources," he [Guido] said. "Compared to what the mobile operating systems expect, Python is big and slow. It uses a lot of battery charge, so if you're coding in Python you would probably very quickly run down your battery and quickly run out of memory," he said.
+
+
+***
+![YouTube Downloader](https://external-preview.redd.it/eJL0UWMoUgo1KziDnCtAFUNE01cqK5sJSfUntn7yn0w.jpg?auto=webp&s=24ea5a5bd52ff05314755f3ad0e8432bee0c8c2a "YouTube Downloader")
+
+
+[YouTube Downloader](https://www.reddit.com/r/Python/comments/nssiuu/youtube_downloader/)
+
+
+> Made a small downloader for YouTube with Flask and youtube-dl. Its not that great but it does the job.Check out the repository: https://github.com/GokulSudheesh/YouTube-DownloaderPS: I recently started learning css so it doesn't look that great.
+
+
