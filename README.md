@@ -19557,3 +19557,53 @@
 > We live in one of these, you know. Our own Milky Way is a spiral galaxy, much like the one featured in this newly shared image captured by Hubble's Wide Field Camera 3. What you're seeing is NGC 691, a spiral galaxy that's roughly 120 million light-years away. Image: ESA/Hubble & NASA, A. Riess et al.Acknowledgement: M. Zamani This beautiful image is more than just a snapshot, though. Hubble doesn't operate all on its own. An image like this pulls together the details the space telescope is able to discern across multiple wavelengths.
 
 
+***
+![Belmont Stakes live stream: how to watch 2021 Triple Crown race online from anywhere](https://cdn.mos.cms.futurecdn.net/zYESE4GmsRczgpfoKwKdb8-1200-80.jpg "Belmont Stakes live stream: how to watch 2021 Triple Crown race online from anywhere")
+
+
+[Belmont Stakes live stream: how to watch 2021 Triple Crown race online from anywhere](https://www.techradar.com/news/belmont-stakes-live-stream-how-to-watch-2021-triple-crown-race-online-from-anywhere)
+
+
+> (Image credit: Al Bello/Getty Images) The oldest, longest and final jewel in the Triple Crown series, the 153rd running of the Belmont Stakes sees Rombauer try to make it two from two, as Essential Quality and Hot Rod Charlie aim to bounce back from Derby disappointment. Read on as our guide tells you how to watch a 2021 Belmont Stakes live stream from anywhere in the world today.Medina Spirit's Churchill Downs victory and Rombauer's triumph at Pimlico Race Course means there are no Triple Crown contenders at Belmont Park this year, making The Test of the Champion all the more intriguing.
+
+
+***
+![I wrote a python script which can generate melody and chord progressions given a set of chords.](https://external-preview.redd.it/Bpm9YubG5KaUi7seNa6Zdd03F1QasY-LA4Ah8Wt1E1Y.jpg?auto=webp&s=4a6ca5f3ffea411663ecee49a2dd07ebcbe1df6c "I wrote a python script which can generate melody and chord progressions given a set of chords.")
+
+
+[I wrote a python script which can generate melody and chord progressions given a set of chords.](https://www.reddit.com/r/Python/comments/nt42pd/i_wrote_a_python_script_which_can_generate_melody/)
+
+
+> Github Repository LinkThe last weekend, I started this project and it can do some work. It is not any AI/ML based script, only if-else and random sequence generation.Generates two output files - a MIDI file containing the melody and a json file which can be fed to Android app Chordbot for backing track generation.Here is a sample video.
+
+
+***
+![How To Add Social Media Accounts To Your Clubhouse Profile](https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Clubhouse-logo-headshot-and-profile-screenshot-with-social-media-logos.jpg "How To Add Social Media Accounts To Your Clubhouse Profile")
+
+
+[How To Add Social Media Accounts To Your Clubhouse Profile](https://screenrant.com/clubhouse-profile-add-link-social-media-accounts-how-to/)
+
+
+> Clubhouse users on iOS and now Android can link other social media accounts to their profiles so other users can get to know them better. Clubhouse has made it possible for users to add other social media accounts to their profiles on the Android version of its app. Similar functionality is already available on the iOS app, with the recently launched Android version in the process of being brought up to "feature parity," as Clubhouse recently termed it. The feature is intended to better allow users to get to know each other by following each other elsewhere online.
+
+
+***
+![Why this is Honda's best car](https://content.api.news/v3/images/bin/7d804af9720cdb41170329f1285d8e66 "Why this is Honda's best car")
+
+
+[Why this is Honda's best car](https://www.news.com.au/technology/motoring/new-cars/2021-honda-civic-type-r-review-hot-hatch-is-brand-at-its-best/news-story/c4d460933542259aa20a7cf78dc58de2)
+
+
+> Honda used to be one of the most popular brands in the country, but it's fallen behind rivals lately, but this car proves it's still got it.Honda is one of the few brands that has experienced a sales decline in 2021 as buyers flock to newer rivals. But the Civic Type R performance car shows the brand has still got what it takes to be a success. Here are five things you need to know about the Honda Civic Type R.This is Honda's best carNot because it's the fastest or most exciting – which it is – but because it absolutely nails its brief.
+
+
+***
+![Nigeria suspends Twitter "indefinitely"](http://www.tellerreport.com/images/no-image.png "Nigeria suspends Twitter "indefinitely"")
+
+
+[Nigeria suspends Twitter "indefinitely"](https://www.tellerreport.com/tech/2021-06-05-nigeria-suspends-twitter-"indefinitely".SyGtDDIY9u.html)
+
+
+> The social network deleted a tweet from Nigerian President Muhammadu Buhari on Wednesday in which he threatened independence activists The Nigerian government announced on Friday that it had suspended Twitter activities in Africa's most populous country, two days after the social network deleted a tweet from President Muhammadu Buhari. "The federal government has suspended, for an indefinite period, the activities of the microblogging service and social network Twitter in Nigeria," the Ministry of Information and Culture said in a statement.
+
+
