@@ -19131,3 +19131,50 @@
 > WILD RIDE 1:32, 5 Jun 2021Updated: 1:39, 5 Jun 2021ELON Musk says he "misses" Bitcoin after the market's recent comeback stalled yesterday as several major coins took a tumble. The Tesla CEO posted a meme about a couple breaking up over excessive quoting of Linkin Park lyrics. Mr Musk shared the meme with '#Bitcoin' and a heartbreak emoji. And Bitcoin, Ethereum, Cardano and Dogecoin all fell again after having trended upwards for much of Friday. The market movements come as Elon Musk took to Twitter to post memes mocking the market downturn.
 
 
+***
+![Report News – Pentagon's ‘disturbing' report of sightings means world must push for investigations, experts say](https://www.thesun.co.uk/wp-content/uploads/2021/06/UFO-LIVE-BLOG-JF-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Report News – Pentagon's ‘disturbing' report of sightings means world must push for investigations, experts say")
+
+
+[Report News – Pentagon's ‘disturbing' report of sightings means world must push for investigations, experts say](https://www.thesun.co.uk/tech/15131605/military-expert-disturbing-ufo-pentagon-report-investigation/)
+
+
+> A FORMER military official is joining the ranks of those calling for deeper investigations into the "disturbing" UFO sightings detailed in the Pentagon's report. Nick Pope, a former official at the Ministry of Defence, told The Sun that the report's leaked conclusions are "intriguing and disturbing". He also called for the US and Britain to look into the possibility that the UFO sightings could be attributable to hypersonic technology testing by China and Russia, and to "assess the current level of technology these nations possess when it comes to aircraft, missiles, and drones.
+
+
+***
+![Best website designer services: Get expert help to build your online presence](https://cdn.mos.cms.futurecdn.net/39RwSYL9EVNfYdyohDHBgS-1200-80.jpg "Best website designer services: Get expert help to build your online presence")
+
+
+[Best website designer services: Get expert help to build your online presence](https://www.techradar.com/news/best-website-designer-services-get-expert-help-to-build-your-online-presence)
+
+
+> A useful analogy for the process of getting your website online comes from the kitchen. You can get food either by cooking it using fresh ingredients (web hosting) or ready meals (website builder) - essentially building your own website. There's also a third way and that's to use someone else to do it for you.This is where web design agencies, colloquially called website designer services come into play; after all, if you're busy focusing on your core business already, then managing your online presence beyond your website is likely to require far more than a couple of minutes a day.
+
+
+***
+![Best cheap gaming PC deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/origin-neuron-gaming-desktop-review-lifestyle-behind-shoulder.jpg "Best cheap gaming PC deals for June 2021")
+
+
+[Best cheap gaming PC deals for June 2021](https://www.digitaltrends.com/dtdeals/best-cheap-gaming-pc-deals/)
+
+
+> If you're in the market for a new gaming rig and have been thinking about building a PC, you're probably out of luck when it comes to finding any GPU deals at the moment thanks to the ongoing semiconductor shortage. But where there's a will, there's a way, and buying a pre-made gaming desktop is a great option right now that gives you a lot of the advantages of building a computer (such as the ability to upgrade components in the future). That's not to mention that this is about the only way you're going to find a proper graphics card at a good price in this market.
+
+
+***
+![Apple executives issues mandatory hybrid model, employees push back with desire to work from home permanently](https://external-preview.redd.it/nx7hKm9CqaJcsjNX3D8C_hC83JIjsKA-afSi0TzEhZI.jpg?auto=webp&s=cb4a994261497ae927b4bfc25505fe8d54a6dba6 "Apple executives issues mandatory hybrid model, employees push back with desire to work from home permanently")
+
+
+[Apple executives issues mandatory hybrid model, employees push back with desire to work from home permanently](https://www.reddit.com/r/technology/comments/nsla7t/apple_executives_issues_mandatory_hybrid_model/)
+
+
+> Why is it wrong for employees to band together and make their opinion known? The company owes you as much as you owe the company. It's a counter offer in a negotiation, you know Capitalism.
+
+
+***
+[Capchase, a lending service that helps SaaS companies with recurring revenue to grow their operations, raises $125M Series A led by QED Investors (Chris Metinko/Crunchbase News)](http://www.techmeme.com/210604/p32#a210604p32)
+
+
+> Chris Metinko / Crunchbase News: Capchase, a lending service that helps SaaS companies with recurring revenue to grow their operations, raises $125M Series A led by QED Investors — Capchase closed a $125 million Series A as the New York-based company looks to expand its nondilutive funding platform and offerings to founders.
+
+
