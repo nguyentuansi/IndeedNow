@@ -19880,3 +19880,50 @@
 > Apple's new purple iPhone 12 James Martin/CNET Apple's next big event, WWDC 2021, is Monday, and while we don't expect to see the iPhone 13 -- or the iPhone 12S? -- this early in the year (release date rumors say September, as usual), we do expect to see iOS 15. That means we'll get some hints about the iPhone 13's potential features and tricks ahead of time. With only a few months to go before the next presumed iPhone 13 event, the rumors are flying. What else have we heard? Apple's next flagship could have an even lower price than the iPhone 12, a slimmer notch, a beefier camera bump and a sleek portless body.
 
 
+***
+![PEP 661 -- Sentinel Values](https://external-preview.redd.it/XACIlvLRgD0CrsIsxO7yWQMICHPINiGesu3WjxQxeXs.jpg?auto=webp&s=c7f0d77306cb94adced1c514958fdf68f575791c "PEP 661 -- Sentinel Values")
+
+
+[PEP 661 -- Sentinel Values](https://www.reddit.com/r/Python/comments/ntipjq/pep_661_sentinel_values/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Bitcoin price news LIVE: BTC surges as El Salvador to use cryptocurrency as legal tender plus Ethereum, dogecoin latest](https://www.thesun.ie/tech/7096509/bitcoin-news-ethereum-cryptocurrency-live-latest/)
+
+
+> THE President of El Salvador wants to make Bitcoin legal tender in the south American country – It would become the first country in the world to officially adopt cryptocurrency as mainstream payment and would be used alongside the US dollar, El Salvador’s official currency. Bitcoin, Ethereum, and Cardano are enjoying a period of relative stability […]
+
+
+***
+![Bitcoin price news LIVE: BTC surges as El Salvador to use cryptocurrency as legal tender plus Ethereum, dogecoin latest](https://www.thesun.co.uk/wp-content/uploads/2021/06/crypto-5.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price news LIVE: BTC surges as El Salvador to use cryptocurrency as legal tender plus Ethereum, dogecoin latest")
+
+
+[Bitcoin price news LIVE: BTC surges as El Salvador to use cryptocurrency as legal tender plus Ethereum, dogecoin latest](https://www.thesun.co.uk/tech/15173687/bitcoin-news-ethereum-cryptocurrency-live-latest/)
+
+
+> THE President of El Salvador wants to make Bitcoin legal tender in the south American country - It would become the first country in the world to officially adopt cryptocurrency as mainstream payment and would be used alongside the US dollar, El Salvador's official currency. Bitcoin, Ethereum, and Cardano are enjoying a period of relative stability after shifting by less than 1 per cent in price since Friday. Meanwhile, Twitter co-founder Jack Dorsey has thrown his weight behind the future of Bitcoin has he backed the importance of the cryptocurrency.
+
+
+***
+![WWDC 2021 is tomorrow: iOS 15, an M2 MacBook Pro and everything we expect](https://www.cnet.com/a/img/_B_-KafAcFMyZRGc9b8U9nNoB8U=/1200x630/2021/06/02/bdda76ff-c452-4901-95c8-310192a9eee4/apple-wwdc-logo.jpg "WWDC 2021 is tomorrow: iOS 15, an M2 MacBook Pro and everything we expect")
+
+
+[WWDC 2021 is tomorrow: iOS 15, an M2 MacBook Pro and everything we expect](https://www.cnet.com/news/wwdc-2021-apple-is-tomorrow-ios-15-an-m2-macbook-pro-and-everything-we-expect/)
+
+
+> WWDC21 starts Monday, June 7 and kicks off with a virtual keynote at 10 a.m. PT. CEO Tim Cook and team are likely to announce iOS 15, a new M2-chip MacBook Pro and new versions of software for most Apple products -- including a possible new operating system called HomeOS. On Wednesday, an Apple job posting for a senior iOS engineer included mentions of "HomeOS" which have since been removed and replaced with HomePod.The job posting wasn't the only possible leak. Unofficial Apple beta-tester and four-time NBA champ LeBron James might have leaked a brand-new Apple product.
+
+
+***
+![Diagram as Code](https://external-preview.redd.it/6BIoesedl-6BCqiVPB-UQFMPCvjR278FHmj0OJlLT7k.jpg?auto=webp&s=30af10048dc20ad5f054128173223e22e259e45c "Diagram as Code")
+
+
+[Diagram as Code](https://www.reddit.com/r/programming/comments/ntikzn/diagram_as_code/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
