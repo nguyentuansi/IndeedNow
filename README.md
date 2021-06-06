@@ -19651,3 +19651,44 @@
 > What programming languages have features that a Python developer can benefit from?Ruby and Perl for instance are rather rivals of Python and will arguably provide less of an additional power, in terms of doing things in a fashion you cannot do with Python.I am looking for your ideas and arguments for other languages and technologies which would enhance your skill set. My example would be SQL.
 
 
+***
+[El Salvador's president unveils a bill to adopt bitcoin as legal tender, partnering with payments startup Strike, in a bid to become the first nation to do so (MacKenzie Sigalos/CNBC)](http://www.techmeme.com/210605/p12#a210605p12)
+
+
+> MacKenzie Sigalos / CNBC: El Salvador's president unveils a bill to adopt bitcoin as legal tender, partnering with payments startup Strike, in a bid to become the first nation to do so — - El Salvador President Nayib Bukele plans to introduce legislation that will make it the world's first sovereign nation to adopt bitcoin as legal tender.
+
+
+***
+![Bitcoin price news LIVE: Ethereum, BTC rise as Twitter CEO backs crypto amid Elon Musk ‘break up' meme – plus Dogecoin](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/06/crypto-4.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Bitcoin price news LIVE: Ethereum, BTC rise as Twitter CEO backs crypto amid Elon Musk ‘break up' meme – plus Dogecoin")
+
+
+[Bitcoin price news LIVE: Ethereum, BTC rise as Twitter CEO backs crypto amid Elon Musk ‘break up' meme – plus Dogecoin](https://www.thesun.co.uk/tech/15173687/bitcoin-news-ethereum-cryptocurrency-live-latest/)
+
+
+> RISING STOCK 1:31, 6 Jun 2021Updated: 1:37, 6 Jun 2021Twitter co-founder Jack Dorsey has thrown his weight behind the future of Bitcoin has he backed the importance of the cryptocurrency. 'Bitcoin changes absolutely everything,' Dorsey said yesterday at the Bitcoin 2021 Conference. 'I don't think there is anything more important in my lifetime to work on.' He added that, 'if I were not at Square or Twitter, I would be working on bitcoin. If [bitcoin] needed more help than Square or Twitter, I would leave them for bitcoin.
+
+
+***
+![Significant snow and heavy rain to hit Australia's east coast](https://images.perthnow.com.au/publication/C-3028896/418cab9b1bb5858a4d7b95cd72f2c3733133fb7a-16x9-x0y180w1920h1080.jpg?imwidth=1200 "Significant snow and heavy rain to hit Australia's east coast")
+
+
+[Significant snow and heavy rain to hit Australia's east coast](https://www.news.com.au/technology/environment/significant-snow-and-heavy-rain-to-hit-australias-east-coast/news-story/c99914cb5a6568ece7fceb926f724628)
+
+
+> The nation's east coast is set to receive a 'significant' dumping of snow as the ski season gets under way in the alpine regions.A strong cold front is expected to start making its way across South Australia on Monday afternoon before arriving in the southeast and the east coast on Tuesday and Wednesday.Daytime temperatures are expected to peak at a brisk 13C in Melbourne on Tuesday and Wednesday, while Canberra will be even colder at just 10C on Wednesday and Thursday.Sky News Weather meteorologist Rob Sharpe said the snow forecast was looking 'quite significant', with fall down to about 1000m for parts of Victoria, NSW and southern Queensland.
+
+
+***
+[What happened to `Polly.py` ?](https://www.reddit.com/r/programming/comments/nt95jy/what_happened_to_pollypy/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[[D] Has anyone heard of "zaslavsk's theorem of hyperplanes"?](https://www.reddit.com/r/MachineLearning/comments/nt94u2/d_has_anyone_heard_of_zaslavsks_theorem_of/)
+
+
+> Has anyone heard of Zaslavsky's theorem on hyperplane arrangement? Supposedly it says that there are only a finite number of ways that hyperplanes can be arranged? Does anyone know why this is important? Apparently it has implications to decision boundaries of machine learning classifiers?Thanks
+
+
