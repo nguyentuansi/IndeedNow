@@ -19742,3 +19742,44 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[US DOJ has charged a Latvian woman who it says was a programmer in a gang that helped develop TrickBot malware; the woman was arrested in Miami on February 6 (Catalin Cimpanu/The Record)](http://www.techmeme.com/210606/p1#a210606p1)
+
+
+> Catalin Cimpanu / The Record: US DOJ has charged a Latvian woman who it says was a programmer in a gang that helped develop TrickBot malware; the woman was arrested in Miami on February 6 — The US Department of Justice has arraigned in court today a Latvian woman who was part of the Trickbot malware crew …
+
+
+***
+[萬元防水夜拍機 Xperia 10 III 開箱](https://www.eprice.com.tw/mobile/talk/4551/5649018/1/)
+
+
+> 這一次會入手Xperia 10 III主要原因是想要幫媽媽換新手機，12990的價格來說有防水跟好看的外型，且沒有挖洞的螢幕真的很讚。而今年 Xperia 10 III 規格又有進一步提升，效能上我想給媽媽使用很夠了。
+
+
+***
+![Nigerian telecom companies block Twitter at government request](https://media.nu.nl/m/mhnxeg9a0wol_wd1280.jpg/nigeriaanse-telecombedrijven-blokkeren-twitter-op-verzoek-van-regering.jpg "Nigerian telecom companies block Twitter at government request")
+
+
+[Nigerian telecom companies block Twitter at government request](https://www.tellerreport.com/tech/2021-06-06-nigerian-telecom-companies-block-twitter-at-government-request.SyfH9u6F9d.html)
+
+
+> Tech/Game 2021-06-05T07:18:17.121Z Microsoft's president warns: "watch out, or life in 2024 will be like George Orwell's 1984" Tech/Game 2021-06-05T08:33:48.699Z Photo of protester in front of Tiananmen tanks disappeared from Bing Tech/Game 2021-06-05T07:20:58.986Z To show your ID to the Police or to pay the Treasury: this is the official EU app for your mobile Tech/Game 2021-06-06T02:42:00.408Z Jack Dorsey wants to democratize bitcoin with a physical "wallet" Tech/Game 2021-06-06T01:41:44.650Z Why Mare of Easttown is going to be one of the series of the year Tech/Game 2021-06-05T23:14:43.
+
+
+***
+![Master MySQL and SQL for under £10 with this beginner-friendly course](https://mondrian.mashable.com/2021%252F06%252F06%252F1d%252F58ad0ac62f36455382d70244b821e50e.4d6e7.jpg%252F1200x630.jpg?signature=komXgNj7DjpfKDGYroADedwUFhs= "Master MySQL and SQL for under £10 with this beginner-friendly course")
+
+
+[Master MySQL and SQL for under £10 with this beginner-friendly course](https://mashable.com/uk/shopping/june-6-sql-training/)
+
+
+> TL;DR: The MySQL and SQL for Beginners course is on sale for £9.18 as of June 6, saving you 93% on list price. In theory, Excel can handle practically limitless rows of data. But if you attempt to toss in hundreds of thousands of data points, as well as some Pivot Tables and graphs, you'll soon find yourself pulling your hair out over how long and tedious the process is. Spreadsheets like Excel were not meant to handle the vast quantities of raw data that powers today's biggest companies.  A faster, sleeker, and more heavy-duty way to manage data is with MySQL and SQL.
+
+
+***
+[In 2019, the number of foreign-born entrepreneurs in the US declined by 4,400, the only yearly drop since 2000, thanks to US' convoluted immigration policies (Amy Feldman/Forbes)](http://www.techmeme.com/210605/p13#a210605p13)
+
+
+> Amy Feldman / Forbes: In 2019, the number of foreign-born entrepreneurs in the US declined by 4,400, the only yearly drop since 2000, thanks to US' convoluted immigration policies — America's convoluted and highly politicized immigration system puts roadblocks in the way of foreign-born founders.
+
+
