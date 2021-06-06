@@ -19783,3 +19783,50 @@
 > Amy Feldman / Forbes: In 2019, the number of foreign-born entrepreneurs in the US declined by 4,400, the only yearly drop since 2000, thanks to US' convoluted immigration policies — America's convoluted and highly politicized immigration system puts roadblocks in the way of foreign-born founders.
 
 
+***
+![Mysterious Irish ‘mega tomb' older than the PYRAMIDS and Stonehenge baffles scientists](https://www.thesun.co.uk/wp-content/uploads/2021/06/NINTCHDBPICT000657297279.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Mysterious Irish ‘mega tomb' older than the PYRAMIDS and Stonehenge baffles scientists")
+
+
+[Mysterious Irish ‘mega tomb' older than the PYRAMIDS and Stonehenge baffles scientists](https://www.thesun.co.uk/tech/15167127/newgrange-ireland-older-than-pyramids/)
+
+
+> A MYSTERIOUS tomb just a few miles from Dublin is older than the Pyramids of Giza and continues to baffle scientists. Newgrange in Ireland's historic County Meath is often overlooked when we think of ancient monuments but it's just as strange and impressive. Newgrange was built around 3200 BCCredit: Getty The tomb is Ireland's ancient wonder and dates back to around 3,200 BC. That makes it six centuries older than Egypt's oldest pyramid. It's also about 700 years older than Stonehenge. From a distance it looks like a big hill but it's actually a "passage tomb", carefully decorated with Neolithic stone carvings inside.
+
+
+***
+![New Seagate disk tech could drive down the cost of high-capacity HDDs](https://cdn.mos.cms.futurecdn.net/qZHDSHcfLduaLKiJ93zD3f-1200-80.jpg "New Seagate disk tech could drive down the cost of high-capacity HDDs")
+
+
+[New Seagate disk tech could drive down the cost of high-capacity HDDs](https://www.techradar.com/news/new-seagate-disk-tech-could-drive-down-the-cost-of-high-capacity-hdds)
+
+
+> (Image credit: Seagate) Seagate has been working on a cleverly tweaked version of its conventional hard disk drives (HDD) that not just improves speeds, but might also be cheaper to produce.Dubbed Mach.2, the new tech gets its name from the fact that these drives use two actuators instead of one, which helps significantly improve both the sequential and random read/write speeds.Seagate recently announced its first dual-actuator disk, the Mach.2 Exos 2X14, which according to the official spec sheet offers a sustained transfer rate of 524MB/s making it the world's fastest HDD.
+
+
+***
+[DeFi, which accounted for an estimated 40% of ether moved on the Ethereum network in the year ended April, is helping fuel the crypto boom and recent volatility (Paul Vigna/Wall Street Journal)](http://www.techmeme.com/210606/p2#a210606p2)
+
+
+> Paul Vigna / Wall Street Journal: DeFi, which accounted for an estimated 40% of ether moved on the Ethereum network in the year ended April, is helping fuel the crypto boom and recent volatility — Decentralized finance differs from traditional banks because there is no centralized system. It can be risky.
+
+
+***
+![So I like to eat and I like to code but I dont like full priced items](https://preview.redd.it/51zor53g4l371.png?width=2282&format=png&auto=webp&s=d09c9ad12248192eec0b559affe1b29deee8510f "So I like to eat and I like to code but I dont like full priced items")
+
+
+[So I like to eat and I like to code but I dont like full priced items](https://www.reddit.com/r/Python/comments/ntew6a/so_i_like_to_eat_and_i_like_to_code_but_i_dont/)
+
+
+> Hi everyone, been a long time lurker here inspired by the resourcefulness and commitment of people on this subreddit to finding clever ways to pinch every penny.tldr: I code a ton and I made one of my programs accessible on the web so people can see Whole Foods sale items near them with less hassle! Access the tool here: https://wholey-frugal.herokuapp.com and if interested I am happy to share any and all code!I have worked on many web scraping/coding projects for fun in the past so last year I wrote a bit of code to find all sale items at all the Whole Foods near me and then yield a list with the items (alongside with the store name with the sale closest to me).
+
+
+***
+![Apple WWDC 2021: What to expect and what not to](https://images.indianexpress.com/2021/06/Apple-WWDC-2021.jpg "Apple WWDC 2021: What to expect and what not to")
+
+
+[Apple WWDC 2021: What to expect and what not to](https://indianexpress.com/article/technology/tech-news-technology/wwdc-2021-what-to-expect-and-what-not-to-7346267/)
+
+
+> Apple annual Worldwide Developers Conference (WWDC) which starts Monday will focus on how developers can take advantage of Apple's various software offerings and create a meaningful experience on top of it while also showcasing new software, and maybe hardware, updates from the company. While Apple will certainly announce the new versions of iOS, iPadOS, macOS, watchOS and tvOS at the online-only WWDC 2021, don't expect to see a major overhaul this year. 'Apple is more likely to announce iterative software updates for iOS, iPadOS, watchOS, macOS and tvOS but no major overhaul of the architecture of its software ecosystem,' Paris-based Thomas Husson, Vice president and principal analyst at Forrester Research, tells indianexpress.
+
+
