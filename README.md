@@ -20159,3 +20159,47 @@
 > Apple's Worldwide Developer Conference (WWDC) 2021 kicks off on Monday (June 7) and there's a busy schedule of events that are available to watch for free. WWDC is an annual event that, as the name suggests, was initially conceived as a way to give developers an insight into Apple's new or upcoming hardware and software so they could work on their own associated projects. It still serves that purpose to some extent, but since the 2000s has been a platform for major Apple product announcements too.
 
 
+***
+![A simple and concise introduction into the relationship between bias, variance, overfitting & generalisation in machine learning models!](https://external-preview.redd.it/soyH8EgcnHtupZxop_HB5PKk7rtJhJAQHGO8XdhMtLY.jpg?auto=webp&s=4d3f56bd7915f752e148daea0dce26aa4847a090 "A simple and concise introduction into the relationship between bias, variance, overfitting & generalisation in machine learning models!")
+
+
+[A simple and concise introduction into the relationship between bias, variance, overfitting & generalisation in machine learning models!](https://www.reddit.com/r/programming/comments/ntx0nx/a_simple_and_concise_introduction_into_the/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Learn Python Programming Series](https://external-preview.redd.it/GzXlf1GuASjIZMr3-vsDslxErCdiKJ7uJxnyDgtWDxM.jpg?auto=webp&s=3bc036660398509c6367a8aa948563e8da6ed7af "Learn Python Programming Series")
+
+
+[Learn Python Programming Series](https://www.reddit.com/r/Python/comments/ntwv30/learn_python_programming_series_parts_1_to_7/)
+
+
+> In this video series, Bryan Cairns will cover Python 3 from scratch to advanced concepts, here are the first 7 parts of the series, more parts will be posted every day.Part 1 - Intro and Setup : https://www.youtube.com/watch?v=dVDRyLZXZCsPart 2 - Variables : https://www.youtube.com/watch?v=Gl8kPcec9boPart 3 - Booleans and Comparisons : https://www.youtube.com/watch?v=aBU2dcSb7eYPart 4 - Numbers and Number Operations: https://www.youtube.com/watch?v=mQ9U60g7O2EPart 5 - Strings : https://www.youtube.
+
+
+***
+![Fastrack Reflex 3.0: Track your fitness journey with this band](https://images.financialexpress.com/2021/06/1-85.jpg "Fastrack Reflex 3.0: Track your fitness journey with this band")
+
+
+[Fastrack Reflex 3.0: Track your fitness journey with this band](https://www.financialexpress.com/industry/technology/fastrack-reflex-3-0-track-your-fitness-journey-with-this-band/2265370/)
+
+
+> By: Sudhir Chowdhary | June 07, 2021 3:30 AMAvailable for Rs 2,495, it is an all-round great wearable in a stylish design and comes with plenty of features to inspire people to lead healthier, more active lives.COVID-19 has HAD an unprecedented impact on businesses as well as our personal lives; however, the silver lining is this pandemic has made each one of us acutely health-conscious. While many among us have logged into digital health, courtesy plenty of apps, mobile phones and wearables, fitness bands can now do a lot more than track your steps.
+
+
+***
+[Researcher: Twitter Super Follow to be limited to users over 18, with 25+ tweets posted in the last 30 days and 10K+ followers; categories include adult content (Kim Lyons/The Verge)](http://www.techmeme.com/210606/p9#a210606p9)
+
+
+> Kim Lyons / The Verge: Researcher: Twitter Super Follow to be limited to users over 18, with 25+ tweets posted in the last 30 days and 10K+ followers; categories include adult content — The company teased the Patreon-like subscription service earlier this year — Twitter announced earlier this year it was working …
+
+
+***
+[‘We all said a little prayer': Technical issue grounds plane carrying Kamala Harris](https://thenewdaily.com.au/news/2021/06/07/technical-issue-grounds-kamala-harris-plane/)
+
+
+> A plane carrying Kamala Harris for her first foreign trip as US vice president has been forced to turn back after experiencing a technical issue. Ms Harris departed for Guatemala … Continued The post ‘We all said a little prayer': Technical issue grounds plane carrying Kamala Harris appeared first on The New Daily.
+
+
