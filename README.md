@@ -19830,3 +19830,53 @@
 > Apple annual Worldwide Developers Conference (WWDC) which starts Monday will focus on how developers can take advantage of Apple's various software offerings and create a meaningful experience on top of it while also showcasing new software, and maybe hardware, updates from the company. While Apple will certainly announce the new versions of iOS, iPadOS, macOS, watchOS and tvOS at the online-only WWDC 2021, don't expect to see a major overhaul this year. 'Apple is more likely to announce iterative software updates for iOS, iPadOS, watchOS, macOS and tvOS but no major overhaul of the architecture of its software ecosystem,' Paris-based Thomas Husson, Vice president and principal analyst at Forrester Research, tells indianexpress.
 
 
+***
+![Insecurity: CAN rallies support for Uzodinma](https://guardian.ng/wp-content/uploads/2020/09/Hope-Uzodinma-1-778x570-640x360.jpg "Insecurity: CAN rallies support for Uzodinma")
+
+
+[Insecurity: CAN rallies support for Uzodinma](https://guardian.ng/news/insecurity-can-rallies-support-for-uzodinma/)
+
+
+> Hope Uzodimma. Photo; TWITTER/HOPEUZODINMA1 Members of the Christian Association of Nigeria (CAN) in Imo have called on politicians in the state to support Governor Hope Uzodimma's efforts to rid the state of security challenges. The Prelate, Methodist Church of Nigeria, Most Rev. Samuel Uche, who spoke on behalf of the association, said that they came to see the governor as a way of demonstrating their love for Imo. In a statement by Gov. Uzodima's Chief Press Secretary, Oguwike Nwachukwu, in Owerri on Saturday, Uche said that members of CAN had come to discuss insecurity in the state; even though they are not politicians.
+
+
+***
+![Nasa has announced two missions to Venus by 2030 – here's why that's exciting](https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg "Nasa has announced two missions to Venus by 2030 – here's why that's exciting")
+
+
+[Nasa has announced two missions to Venus by 2030 – here's why that's exciting](https://www.republicworld.com/technology-news/science/nasa-has-announced-two-missions-to-venus-by-2030-heres-why-thats-exciting.html)
+
+
+> Nottingham (UK), Jun 6 (The Conversation) For decades, the exploration of our solar system left one of our neighbouring planets, Venus, largely unexplored. Now, things are about to change.In the latest announcement from Nasa's solar system exploration programme, two missions have been given the go-ahead – and they're both bound for Venus. The two ambitious missions will launch between 2028 and 2030.This marks a considerable change in direction for Nasa's planetary science division, which hasn't sent a mission to the planet since 1990.
+
+
+***
+![Week in review: Kali Linux 2021.2, the human cost of understaffed SOCs, Patch Tuesday forecast](https://img.helpnetsecurity.com/wp-content/uploads/2020/11/16094609/week_in_review3.jpg "Week in review: Kali Linux 2021.2, the human cost of understaffed SOCs, Patch Tuesday forecast")
+
+
+[Week in review: Kali Linux 2021.2, the human cost of understaffed SOCs, Patch Tuesday forecast](https://www.helpnetsecurity.com/2021/06/06/week-in-review-kali-linux-2021-2-the-human-cost-of-understaffed-socs-patch-tuesday-forecast/)
+
+
+> Here's an overview of some of last week's most interesting news, articles and interviews: Kali Linux 2021.2 released: Kaboxer, Kali-Tweaks, new tools, and more! Offensive Security has released Kali Linux 2021.2, the latest version of its popular open source penetration testing platform. You can download it or upgrade to it. June 2021 Patch Tuesday forecast: Patch management is back in the spotlight Every day you look in the security news, there are reports of new ransomware attacks. Just after May Patch Tuesday we heard about the Colonial Pipeline attack, and this week JBS USA, a major beef producer, was attacked as well.
+
+
+***
+![Microsoft's Kate Crawford: ‘AI is neither artificial nor intelligent'](https://i.guim.co.uk/img/media/0a2237e46f5eb91b40f9dcd41a92d8e16b5c2406/0_248_6679_4008/master/6679.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=25810210639fcb4799352968af289d25 "Microsoft's Kate Crawford: ‘AI is neither artificial nor intelligent'")
+
+
+[Microsoft's Kate Crawford: ‘AI is neither artificial nor intelligent'](http://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent)
+
+
+> Kate Crawford studies the social and political implications of artificial intelligence. She is a research professor of communication and science and technology studies at the University of Southern California and a senior principal researcher at Microsoft Research. Her new book, Atlas of AI, looks at what it takes to make AI and what's at stake as it reshapes our world.You've written a book critical of AI but you work for a company that is among the leaders in its deployment. How do you square that circle?I work in the research wing of Microsoft, which is a distinct organisation, separate from product development.
+
+
+***
+![iPhone 13 rumors: Release date, price, colors and everything else we've heard](https://www.cnet.com/a/img/s_utUo78H34KnvqAC-P1ZSHmkpA=/1200x630/2021/04/24/f8ae3387-a759-4d86-8b26-dbdba7e79da0/104-iphone-12-purple-2021.jpg "iPhone 13 rumors: Release date, price, colors and everything else we've heard")
+
+
+[iPhone 13 rumors: Release date, price, colors and everything else we've heard](https://www.cnet.com/news/iphone-13-rumors-release-date-price-colors-and-everything-else-weve-heard/)
+
+
+> Apple's new purple iPhone 12 James Martin/CNET Apple's next big event, WWDC 2021, is Monday, and while we don't expect to see the iPhone 13 -- or the iPhone 12S? -- this early in the year (release date rumors say September, as usual), we do expect to see iOS 15. That means we'll get some hints about the iPhone 13's potential features and tricks ahead of time. With only a few months to go before the next presumed iPhone 13 event, the rumors are flying. What else have we heard? Apple's next flagship could have an even lower price than the iPhone 12, a slimmer notch, a beefier camera bump and a sleek portless body.
+
+
