@@ -20024,3 +20024,50 @@
 > Firefox released version 89 recently with a new look named Proton. It brings a major change to the user interface in its colors and looks, giving the web browser a more modern feel.Web browsers look incredibly similar these days, with the tabs on top, a menu accessible to the right, and a bookmarks bar if you so choose. However, Mozilla has been unique in these browser wars, working on improving its own Gekko engine instead of moving to WebKit or Google's Chromium variant, as Microsoft Edge has.With the new look now out on all platforms, we spoke to Mozilla about the new release, and if it has any particular hopes for WWDC next week.
 
 
+***
+[New Apple Watch Apps Discovered Ahead of WWDC21](http://feedproxy.google.com/~r/iphoneincanada/~3/MsaJWjz_u80/)
+
+
+> App ID bundle identifiers for the new apps have been spotted on the App Store. Continue reading New Apple Watch Apps Discovered Ahead of WWDC21 at iPhone in Canada Blog.
+
+
+***
+![Breathe, stretch, and let it go with the best fitness accessories for yoga](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/yoga_home_hero.jpeg "Breathe, stretch, and let it go with the best fitness accessories for yoga")
+
+
+[Breathe, stretch, and let it go with the best fitness accessories for yoga](https://www.imore.com/best-fitness-accessories-yoga-home)
+
+
+> Best fitness accessories for yoga at home iMore 2021 Yoga is a moving meditation and a great way to relieve tension, alleviate stress, strengthen your body, and connect with your deeper self. There are many different types of yoga you can practice, and all of them provide wonderful benefits to the body and mind. Many yoga studios and classes are moving to virtual platforms. We want to make sure you have everything you need to practice at home, so we comprised this list of best fitness accessories for yoga at home.
+
+
+***
+![Here's what to expect at Apple's WWDC this week](https://cdn.cnn.com/cnnnext/dam/assets/210603200456-2020-apple-wwdc-super-tease.jpg "Here's what to expect at Apple's WWDC this week")
+
+
+[Here's what to expect at Apple's WWDC this week](https://www.cnn.com/2021/06/06/tech/apple-wwdc-2021-preview/index.html)
+
+
+> These are among the announcements Apple (AAPL) may make this week during its Worldwide Developer Conference, a multi-day event that kicks off Monday. The annual event is typically a chance for the tech company to introduce changes to the software used everyday by millions of people.Beyond new gadgets and the introduction of iOS 15, WWDC will also be an opportunity for Apple to address its developer community in the midst of two major recent spats with app makers — a contentious legal battle with Fortnite-maker Epic Games over its App Store fees and a feud with Facebook (FB) over Apple's new app-tracking privacy policy.
+
+
+***
+![Fossil Wear OS Won't Be Included in Upgrade With Samsung Platform, New Line of Wear OS To Be Released](https://1734811051.rsc.cdn77.org/data/images/full/386726/fossil.jpg "Fossil Wear OS Won't Be Included in Upgrade With Samsung Platform, New Line of Wear OS To Be Released")
+
+
+[Fossil Wear OS Won't Be Included in Upgrade With Samsung Platform, New Line of Wear OS To Be Released](https://www.techtimes.com/articles/261136/20210606/fossil-wear-os-wont-included-upgrade-samsung-platform-new-line.htm)
+
+
+> Sophie Webster, Tech Times 06 June 2021, 12:06 pm (Photo : GettlyImages/ Astrid Stawiarz) Fossil OS wear Fossil Wear OS won't be getting an upgrade. The company's executives Steve Prokup and Greg McKelvey stated that the company's existing Wear OS watches won't get upgraded to the new combined Wear software platform from Samsung and Google. Instead, Fossil plans a premium watch that Prokup said would have major hardware upgrades, and existing watches will probably be discounted as budget options.
+
+
+***
+![Amazon quiz June 6: Rs 50,000 quiz answers, check the solved answers here](https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/rs4orz5uog8ndqzm_1622995106.jpeg "Amazon quiz June 6: Rs 50,000 quiz answers, check the solved answers here")
+
+
+[Amazon quiz June 6: Rs 50,000 quiz answers, check the solved answers here](https://www.republicworld.com/technology-news/apps/amazon-quiz-june-6-rs-50000-quiz-answers-check-the-solved-answers-here.html)
+
+
+> Amazon India is back with the daily Amazon Quiz where users can answer questions and stand a chance to win exciting prizes. The Amazon Quiz for June 6th, 2021 is live now, and the winner will be eligible to win Rs 50,000. Amazon quizzes focus on product trivia and provide the opportunity for customers to win exciting prizes. The prizes for these quizzes range from free products (including mobile phones and other gadgets) and goodies to Amazon Pay balance. Check out the questions and answers for today's Amazon quiz to bag the exciting prizes.
+
+
