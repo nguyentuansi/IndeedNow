@@ -19692,3 +19692,53 @@
 > Has anyone heard of Zaslavsky's theorem on hyperplane arrangement? Supposedly it says that there are only a finite number of ways that hyperplanes can be arranged? Does anyone know why this is important? Apparently it has implications to decision boundaries of machine learning classifiers?Thanks
 
 
+***
+![Ethereum move to Proof-of-Stake again delayed by 18 months](https://mk0thetokenist81xfs9.kinstacdn.com/wp-content/uploads/2021/06/Ethereum.jpg "Ethereum move to Proof-of-Stake again delayed by 18 months")
+
+
+[Ethereum move to Proof-of-Stake again delayed by 18 months](https://tokenist.com/buterin-explains-why-ethereum-2-0-upgrade-wont-arrive-until-late-2022/)
+
+
+> Neither the author, Kai Morris, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions. Vitalik Buterin, co-founder of Ethereum and one of the industry's prominent thought-leaders, recently spoke at the Hong Kong's StartmeupHK Festival 2021 tech conference. Among many topics, Buterin shared his thoughts on Ethereum's hotly-anticipated shift from proof-of-work (PoW) to proof-of-stake (PoS). To the disappointment of many however, the shipping of shard chains is not expected until sometime in late 2022, according to Ethereum's latest roadmap.
+
+
+***
+![Following the first video I posted : Python for Beginners, this is the second part of the course for an intermediate level. This course belongs to the University of Bristol and covers functions, modules, classes and exceptions presented by Dr. Matt Williams.](https://external-preview.redd.it/YHl-B5oAZAC5veM_CuR3bG4jz5tFg4yZpovnOGxOAhw.jpg?auto=webp&s=e1274c7c144ccd6f53cc2c5297d36c8c62f83d8c "Following the first video I posted : Python for Beginners, this is the second part of the course for an intermediate level. This course belongs to the University of Bristol and covers functions, modules, classes and exceptions presented by Dr. Matt Williams.")
+
+
+[Following the first video I posted : Python for Beginners, this is the second part of the course for an intermediate level. This course belongs to the University of Bristol and covers functions, modules, classes and exceptions presented by Dr. Matt Williams.](https://www.reddit.com/r/Python/comments/ntavhg/following_the_first_video_i_posted_python_for/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Apple employee group rejects planned return to the office: want full-time remote](https://s.yimg.com/os/creatr-uploaded-images/2020-12/53410370-3c97-11eb-bdfe-d9f1aae35357 "Apple employee group rejects planned return to the office: want full-time remote")
+
+
+[Apple employee group rejects planned return to the office: want full-time remote](https://www.engadget.com/apple-employees-reject-return-to-office-plans-153302337.html)
+
+
+> In this article: COVID-19, news, gear, Tim Cook, remote work, pandemic, work from home, Apple, coronavirus, work, businessPavlo Gonchar/SOPA Images/LightRocket via Getty ImagesNot everyone is keen on returning to the office once the COVID-19 pandemic subsides, and Apple may be more aware of that than most. The Verge reports that about 80 Apple employees have written and edited a letter urging Tim Cook to rethink plans requiring staff to return to the office in September. They felt "actively ignored" by leadership, which claims people are eager to return to in-person collaboration, and wanted an option for full-time remote work rather than the planned twice a week.
+
+
+***
+![VMware vCenter狙った攻撃に注意、ただちにアップデートを](https://image.news.livedoor.com/newsimage/stf/7/5/758eb_1223_783cc995e6790ee57ee69560f26cd03e.jpg "VMware vCenter狙った攻撃に注意、ただちにアップデートを")
+
+
+[VMware vCenter狙った攻撃に注意、ただちにアップデートを](https://news.livedoor.com/article/detail/20319775/)
+
+
+> VMware vCenter狙った攻撃に注意、ただちにアップデートを LINE共有ボタン 2021年6月6日 10時34分 マイナビニュース 米コンピュータ緊急事態対策チーム（US-CERT: United States Computer Emergency Readiness Team）は6月4日(米国時間)、「Unpatched VMware vCenter Software｜CISA」において、VMware vCenter ServerおよびVMware Cloud Foundationの脆弱性を狙った攻撃が行われるおそれを認識しているとして、注意喚起を行った。リモートからコード実行が可能という緊急の脆弱性だ。この脆弱性は2021年5月25日(米国時間)に情報が公開されるとともに、既にアップデートの提供が行われている。 Unpatched VMware vCenter Software｜CISA米サイバーセキュリティ・インフラストラクチャセキュリティ庁(CISA: United States Computer Emergency Readiness Team)は、該当するプロダクトを利用している場合は、直ちにアップデートを適用することを推奨している。脆弱性に関する情報は次のページにまとまっている。VMSA-2021-0010VMSA-2021-0010: What You Need to Know - VMware vSphere BlogQuestions & Answers for VMSA-2021-0010 | VMwareHow to Disable VMware Plugins in vCenter Server (83829)脆弱性が存在するとされるプロダクトおよびバージョンは次のとおり。VMware vCenter Server 7.
+
+
+***
+![Just released my app on Product Hunt](https://external-preview.redd.it/TSzUtuDy1bBvUDL4s0UoIG2gBX3eLWEFnGW78QesJxk.jpg?auto=webp&s=04e2bf885bef2f1942b64fca27ff8a28655df282 "Just released my app on Product Hunt")
+
+
+[Just released my app on Product Hunt](https://www.reddit.com/r/programming/comments/ntahko/just_released_my_app_on_product_hunt/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
