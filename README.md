@@ -19977,3 +19977,50 @@
 > (Image credit: TSMC) The global semiconductor shortage is delaying the production of everything from refrigerators and microwaves to gaming consoles and smartphones. Experts are saying it could take months for the industry to recover, but in reality the shortage is changing consumer electronics forever.The industry has been reliant on silicon for decades, but the chip shortage is helping to make electronic devices more environmentally friendly, more efficient and smaller. More companies are turning to gallium nitride (GaN), because it is easier and faster to produce than silicon chips, among other benefits.
 
 
+***
+![Hybrid working could be a catastrophic mistake](https://cdn.mos.cms.futurecdn.net/JakpZmRNYsNRoQQW5S8Rzn-1200-80.jpg "Hybrid working could be a catastrophic mistake")
+
+
+[Hybrid working could be a catastrophic mistake](https://www.techradar.com/news/hybrid-working-could-be-a-catastrophic-mistake)
+
+
+> In the spring of 2020, the pandemic was said to have brought about the world's largest remote working experiment. But as some nations now begin to unlock, there is little agreement over the conclusions that can be drawn.Eager to escape the confines of the home office, many people are calling for a transition to a hybrid working system, whereby time is split between the home, office and any other preferred location.Others, like Darren Murph, Head of Remote at GitLab, believe businesses are heading blindly towards catastrophe, having underestimated the logistical challenges a shift to hybrid working will create.
+
+
+***
+[FLORES-101, a first-of-its-kind! Facebook makes its best tool available for better translation](https://www.zeebiz.com/technology/apps/news-flores-101-a-first-of-its-kind-facebook-makes-its-best-tool-available-for-better-translation-158076)
+
+
+> In a bid to help build better translation systems, Facebook has open-sourced FLORES-101, a first-of-its-kind, many-to-many evaluation data set covering 101 languages from all over the world.
+
+
+***
+![Nokia 'self-organising networks software' to enhance network reliability for BT](https://itwire.com/media/k2/items/cache/7f10bee71165265b422895aa62122d54_XS.jpg "Nokia 'self-organising networks software' to enhance network reliability for BT")
+
+
+[Nokia 'self-organising networks software' to enhance network reliability for BT](https://itwire.com/manufacturing-technology/nokia-self-organising-networks-software-to-enhance-network-reliability-for-bt.html)
+
+
+> BT's mobile division, EE, which claims to be the UK's largest 4G and 5G network, will deploy Nokia's Self-Networks (SON) to "reduce network cost, complexity and support enhanced reliability and service; deal confirms Nokia as BT's biggest vendor in the UK." Nokia has announced that BT mobile network, EE, is deploying Nokia's Self-Organizing Network (SON) software solution to enhance network reliability and service in its 4G and 5G networks, as part of a new vendor deal. With Nokia SON, we're told EE "can overcome network complexity to create flexible solutions that better manage its network, as well as automating operations across diverse eco-systems to minimise and address network issues more cost-efficiently.
+
+
+***
+![Luxembourg vs Scotland live stream: how to watch Euro 2020 warm-up from anywhere](https://cdn.mos.cms.futurecdn.net/Ft8a8VBDtGvVWWoZNF49Ga-1200-80.jpg "Luxembourg vs Scotland live stream: how to watch Euro 2020 warm-up from anywhere")
+
+
+[Luxembourg vs Scotland live stream: how to watch Euro 2020 warm-up from anywhere](https://www.techradar.com/news/luxembourg-vs-scotland-live-stream-how-to-watch-euro-2020-warm-up-from-anywhere)
+
+
+> (Image credit: Robbie Jay Barratt (AMA) & Sylvain Lefevre/Getty Images) Despite missing several key men, Scotland impressed against the Netherlands in midweek, with only a late free-kick denying them victory. There's a really good feeling surrounding Steve Clarke's side at the moment, and another positive performance today will let them charge into the Euros on a real high. Follow our guide to watch a Luxembourg vs Scotland live stream and catch all the international football action wherever you are today.
+
+
+***
+![Can Firefox's new look save the web browser?](https://cdn.mos.cms.futurecdn.net/q3QVzByHpgimLU6gSZLuJb-1200-80.jpg "Can Firefox's new look save the web browser?")
+
+
+[Can Firefox's new look save the web browser?](https://www.techradar.com/news/can-firefoxs-new-look-save-the-web-browser)
+
+
+> Firefox released version 89 recently with a new look named Proton. It brings a major change to the user interface in its colors and looks, giving the web browser a more modern feel.Web browsers look incredibly similar these days, with the tabs on top, a menu accessible to the right, and a bookmarks bar if you so choose. However, Mozilla has been unique in these browser wars, working on improving its own Gekko engine instead of moving to WebKit or Google's Chromium variant, as Microsoft Edge has.With the new look now out on all platforms, we spoke to Mozilla about the new release, and if it has any particular hopes for WWDC next week.
+
+
