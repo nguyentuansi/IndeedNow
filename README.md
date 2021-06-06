@@ -20112,3 +20112,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Fossil has a new Wear OS smartwatch but no more updates for existing devices in the pipeline](https://m-cdn.phonearena.com/images/article/132613-wide-two_1200/Fossil-has-a-new-Wear-OS-smartwatch-but-no-more-updates-for-existing-devices-in-the-pipeline.jpg "Fossil has a new Wear OS smartwatch but no more updates for existing devices in the pipeline")
+
+
+[Fossil has a new Wear OS smartwatch but no more updates for existing devices in the pipeline](https://www.phonearena.com/news/fossil-new-wear-os-smartwatch-no-updates-existing-devices_id132613)
+
+
+> For the first time in a really long time (ever?), Google seems to be taking its mission to provide stiff competition for Apple in the ever-growing smartwatch market seriously. Although it remains unclear exactly how the Wear OS platform (or is it just Wear now?) will change and evolve in the next few months, the search giant has both Fitbit and Samsung in its corner all of a sudden to help close the functionality and especially the utility gap to watchOS.Unfortunately, it looks like the merger between Android WearWear OS Wear and Samsung's Tizen OS may cause quite a bit of collateral damage for a pretty large number of existing Apple Watch alternatives, all of which will apparently be snubbed from receiving Google's major software updates starting sometime in the fall.
+
+
+***
+[Quick Setup: Configuring Wildcard Certificate Issuer using LetsEncrypt & AWS Route 53 on Kubernetes…](https://medium.com/@neerajswarnkar/quick-setup-configuring-wildcard-certificate-issuer-using-letsencrypt-aws-route-53-on-kubernetes-96e78a1e3f39)
+
+
+> Just now·3 min readThis is for Kubernetes Administrator who struggles to manage wildcard certificates for your websites. Those who are new to cert manager, can find enough information on https://cert-manager.io/docs/installation/kubernetes/We typically addressing AWS Route53 based Domain name service, which can be used to ACME based verification.Prerequisites:Create IAM programmatic user with AmazonRoute53DomainsFullAccess and AmazonRoute53FullAccess. Please note down the access key and secret key, lets refer it as 'ROUTE53_ACCESS_KEY' and 'ROUTE53_SECRET_KEY'.
+
+
+***
+![Event-driven Autoscaling in Kubernetes using KEDA](https://miro.medium.com/max/1200/1*NToHDgykx8c4CncjwFcFEw.png "Event-driven Autoscaling in Kubernetes using KEDA")
+
+
+[Event-driven Autoscaling in Kubernetes using KEDA](https://leegin-bernads.medium.com/event-driven-autoscaling-in-kubernetes-using-keda-c6aa27a10a80)
+
+
+> Just now·6 min readKubernetes out of the box supports Autoscaling through the Horizontal Pod Autoscaler (HPA) which automatically scales the number of pods in a deployment, replica set, or stateful set based on CPU and memory utilization. But at times those alone are not enough, especially if you follow the event-driven or serverless architecture and developing cloud-native applications. One of the most common use cases in such systems would be to scale workloads based on the number of messages in a queue/topic rather than CPU or memory.
+
+
+***
+![Used car dealers deliberately accident 52 times with foreign cars... 5 billion ripped](https://img.sbs.co.kr/newimg/news/20210410/201539025_1280.jpg "Used car dealers deliberately accident 52 times with foreign cars... 5 billion ripped")
+
+
+[Used car dealers deliberately accident 52 times with foreign cars... 5 billion ripped](https://www.tellerreport.com/tech/2021-06-06-used-car-dealers-deliberately-accident-52-times-with-foreign-cars----5-billion-ripped.B1Xu9Yiqq_.html)
+
+
+> Alumni of the school who drove a used foreign car for 4 years, deliberately caused a contact accident and stole more than 500 million won in settlement money, were caught by the police. The Wonmi Police Station in Bucheon, Gyeonggi Province, announced today that it had arrested two used car dealers, including Mr. A, on charges of violating the Special Act on Insurance Fraud Prevention and booked 29 people, including classmate B, without detention. Alumni of the school who drove a used foreign car for 4 years, deliberately caused a contact accident and stole more than 500 million won in settlement money, were caught by the police.
+
+
+***
+![Apple WWDC June 7-11: How, When & What To Watch](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/06/Apple-WWDC-banner.jpg "Apple WWDC June 7-11: How, When & What To Watch")
+
+
+[Apple WWDC June 7-11: How, When & What To Watch](https://screenrant.com/apple-wwdc-2021-how-when-what-watch/)
+
+
+> Apple's Worldwide Developer Conference (WWDC) 2021 kicks off on Monday (June 7) and there's a busy schedule of events that are available to watch for free. WWDC is an annual event that, as the name suggests, was initially conceived as a way to give developers an insight into Apple's new or upcoming hardware and software so they could work on their own associated projects. It still serves that purpose to some extent, but since the 2000s has been a platform for major Apple product announcements too.
+
+
