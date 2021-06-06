@@ -20071,3 +20071,44 @@
 > Amazon India is back with the daily Amazon Quiz where users can answer questions and stand a chance to win exciting prizes. The Amazon Quiz for June 6th, 2021 is live now, and the winner will be eligible to win Rs 50,000. Amazon quizzes focus on product trivia and provide the opportunity for customers to win exciting prizes. The prizes for these quizzes range from free products (including mobile phones and other gadgets) and goodies to Amazon Pay balance. Check out the questions and answers for today's Amazon quiz to bag the exciting prizes.
 
 
+***
+[I'm looking in to how I can use python for solving problems in the physical sciences and engineering applications. Where can I get started?](https://www.reddit.com/r/Python/comments/ntsm0s/im_looking_in_to_how_i_can_use_python_for_solving/)
+
+
+> I'm curious on modeling physical phenomenon with python, but I don't know how to get started. I'm studying physics, so I'd be super interested in looking into how I could better use python in modeling physics or perhaps even solve for certain quantities. Where can I get started?Edit: my skills are average at python
+
+
+***
+[From Julia to Rust](https://www.reddit.com/r/programming/comments/nts8nq/from_julia_to_rust/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Did I Break You? Reverse Dependency Verification](https://external-preview.redd.it/xf-jimn6XJlMwG8XnkE7TuOadyjn73CvA0Q8BY7sKP8.jpg?auto=webp&s=4196463ad8cd1f76d48425075012867601bd9068 "Did I Break You? Reverse Dependency Verification")
+
+
+[Did I Break You? Reverse Dependency Verification](https://www.reddit.com/r/programming/comments/nts4ly/did_i_break_you_reverse_dependency_verification/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Mastershot – Web based video editor](https://mastershot.app)
+
+
+> No body in the article.
+
+
+***
+![Deploy Flask App to AWS](https://external-preview.redd.it/3qG3H-d0a44nkAdcfEtyMaUbryOLvQijmebkbYXv7JE.jpg?auto=webp&s=af84dfac72cb231cfa4eb2ea82c5c39be90d49c2 "Deploy Flask App to AWS")
+
+
+[Deploy Flask App to AWS](https://www.reddit.com/r/Python/comments/ntrxk5/deploy_flask_app_to_aws_host_flask_app_on_aws/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
