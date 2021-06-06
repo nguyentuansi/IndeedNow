@@ -19927,3 +19927,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Pyton Discord](https://external-preview.redd.it/8lGJXaQoY6hm0yzDNsG2yzAE7FYF_iP0iW_mCsRiqLk.jpg?auto=webp&s=0c1985f1543fe7a14d14311c2652d980005ef82b "Pyton Discord")
+
+
+[Pyton Discord](https://www.reddit.com/r/Python/comments/ntkmc8/pyton_discord/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
+***
+![Functions in Python (hope it can help)](https://external-preview.redd.it/BB7-L-hqXsvk_83endFFsg-ydnbUi1ZbYAgfzKfwbVo.jpg?auto=webp&s=40d2d619f40127d3f25943beb476bc9a29a41aad "Functions in Python (hope it can help)")
+
+
+[Functions in Python (hope it can help)](https://www.reddit.com/r/Python/comments/ntkj20/functions_in_python_hope_it_can_help/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![if, for and loop statements in Python (hope someone can learn something from it)](https://external-preview.redd.it/LdJUCKg1N0oPTsA1-q410eHA5lPWB0Rq3rUqE2uvBm0.jpg?auto=webp&s=186c732e2632d18dfea125ce373ae8371285bec3 "if, for and loop statements in Python (hope someone can learn something from it)")
+
+
+[if, for and loop statements in Python (hope someone can learn something from it)](https://www.reddit.com/r/Python/comments/ntkilc/if_for_and_loop_statements_in_python_hope_someone/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Battlegrounds Mobile India to come with UAZ vehicle from PUBG Mobile, new teaser reveals](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/battlegrounds_mobile_india_uaz_0-647x363.jpeg?EjNgdQqE9Sf8LrlVggku.eXKpp.LIxM_ "Battlegrounds Mobile India to come with UAZ vehicle from PUBG Mobile, new teaser reveals")
+
+
+[Battlegrounds Mobile India to come with UAZ vehicle from PUBG Mobile, new teaser reveals](https://www.indiatoday.in/technology/news/story/battlegrounds-mobile-india-to-come-with-uaz-vehicle-from-pubg-mobile-new-teaser-reveals-1811591-2021-06-06)
+
+
+> A new teaser has been released for the Battlegrounds Mobile India game, which mentions PUBG's popular UAZ off-road vehicle and a map named Erangel. This 15-second teaser video has been shared on the game's official YouTube channel.Krafton asks you in the teaser if you remember this vehicle, which PUBG fans will, of course, remember from the Erangel map inside PUBG Mobile. Even though Battlegrounds Mobile India is supposed to form its new identity as a battle royale game in India, it is nothing but a rebadged PUBG Mobile.
+
+
+***
+![How GaN is changing the future of semiconductors](https://cdn.mos.cms.futurecdn.net/cnXfejmxKPEpxBAQ7H7AzX-1200-80.jpg "How GaN is changing the future of semiconductors")
+
+
+[How GaN is changing the future of semiconductors](https://www.techradar.com/news/how-gan-is-changing-the-future-of-semiconductors)
+
+
+> (Image credit: TSMC) The global semiconductor shortage is delaying the production of everything from refrigerators and microwaves to gaming consoles and smartphones. Experts are saying it could take months for the industry to recover, but in reality the shortage is changing consumer electronics forever.The industry has been reliant on silicon for decades, but the chip shortage is helping to make electronic devices more environmentally friendly, more efficient and smaller. More companies are turning to gallium nitride (GaN), because it is easier and faster to produce than silicon chips, among other benefits.
+
+
