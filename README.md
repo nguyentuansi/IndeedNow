@@ -20537,3 +20537,50 @@
 > Source: Nubia Update, June 7 (08:30 am ET): Global availability announced Nubia has announced another new flagship gaming phone. The RedMagic 6R features a 144Hz AMOLED screen, Qualcomm's Snapdragon 888 processor, and a 4,200mAh battery. It will go on sale in China from June for a starting price of 2,999 yuan ($470). ZTE's Nubia sub-brand has announced a new addition to its RedMagic 6 series family, dubbed the RedMagic 6R. The phone is primarily aimed at gamers, but doesn't have the same gaming-inspired design as the RedMagic 6 and 6 Pro phones.
 
 
+***
+![Prime Day deals arrive early for Echo and Fire TV devices](https://icdn.digitaltrends.com/image/digitaltrends/amazon-prime-day-deals-2020-2.jpg "Prime Day deals arrive early for Echo and Fire TV devices")
+
+
+[Prime Day deals arrive early for Echo and Fire TV devices](https://www.digitaltrends.com/dtdeals/early-echo-and-fire-tv-devices-prime-day-deals/)
+
+
+> Prime Day deals have come early when it comes to big discounts on a range of different Amazon Echo and Fire TV products. If you're looking to make your home a little smarter for the first time or you're adding new speakers or streaming devices to your home, you're sure to find the perfect bargain for you here. Read on while we take you through the best deals going on right now. Amazon Fire TV Stick Lite — $25, was $30 Amazon The most affordable Fire TV Stick out there, the Amazon Fire TV Stick Lite may not control your TV but its extensive streaming options and Alexa support mean you'll be very happy with it.
+
+
+***
+[Google fined $270 million in France for unfair advertising practices](https://ktvz.com/lifestyle/technology/2021/06/07/google-fined-270-million-in-france-for-unfair-advertising-practices/)
+
+
+> Google will pay a €220 million ($270 million) fine and make changes to its huge online advertising business as part of an antitrust settlement with French regulators. The penalty comes as the tech giant faces multiple US suits over anti-competitive behavior and could lead to similar agreements with officials elsewhere. Facebook, the other dominant player in digital advertising, is being investigated separately by EU regulators over claims that its use of data gives it an unfair advantage in the business.
+
+
+***
+![France fines Google $267 million for abusing its ad market dominance](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/05/new-google-logo.jpg "France fines Google $267 million for abusing its ad market dominance")
+
+
+[France fines Google $267 million for abusing its ad market dominance](https://www.androidcentral.com/france-slams-google-267-million-fine-abusing-its-ad-market-dominance)
+
+
+> Source: Android Central The French Competition Authority has slapped Google with a €220 million ($267 million) fine for abusing its dominance in the digital advertising market. The regulator has accused the search giant of unfairly favoring its own ad marketplace over rivals. Google has announced that it will be making changes to its ad technology to "make it easier" for publishers to use its tools with alternative ad technologies. Google has been fined €220 million ($267 million) by the French Competition Authority for favoring its own digital advertising services over rivals.
+
+
+***
+![Russian accounts still active on pro-Trump sites -researchers](https://www.reuters.com/resizer/EU-UeRNbl9GNyodkJwyZ7ATzNdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WAJHWC7A3RLYXI4LPO36KDRE6E.jpg "Russian accounts still active on pro-Trump sites -researchers")
+
+
+[Russian accounts still active on pro-Trump sites -researchers](https://www.reuters.com/technology/russian-accounts-still-active-pro-trump-sites-researchers-2021-06-07/)
+
+
+> A Donald Trump mask sits on a vendors table outside of the Conservative Political Action Conference (CPAC) in Orlando, Florida, U.S. February 28, 2021. REUTERS/Octavio Jones/FilesA group believed to be Russian has remained active on internet services favored by far-right Americans, showing efforts to interfere in U.S. politics continue after the election, according to reports from social media research firm Graphika and nonprofit Advance Democracy Inc.The group, which Graphika also believes to be connected to the Russian government, runs at least 20 accounts on a new version of an internet bulletin board once known as TheDonald, in reference to former president Donald Trump.
+
+
+***
+![Totally Rated: Dying Light 2 shambles toward a late 2021 release](https://cdn.mos.cms.futurecdn.net/iZ3e4TXZKH7AzuFiL59phT-1200-80.jpg "Totally Rated: Dying Light 2 shambles toward a late 2021 release")
+
+
+[Totally Rated: Dying Light 2 shambles toward a late 2021 release](https://www.techradar.com/news/totally-rated-dying-light-2-shambles-toward-a-late-2021-release)
+
+
+> It's games, games and more games on this week's Totally Rated, starting out with the highly anticipated zombie apocalypse sequel, Dying Light 2.We also put on the rose-tinted shades for a return to one of Sonic's best 3D outings with the Sonic Colors: Ultimate remaster, which now has a release date.And thankfully, we didn't have to go too deep into the jungle to unearth new details surrounding the much hyped PS5 title, Horizon Forbidden West.(Image credit: Techland)Dying Light 2's apocalypse will soon be upon usIt won't be too much longer before gamers get to experience the long-delayed Dying Light 2.
+
+
