@@ -20290,3 +20290,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Researchers Are Getting Closer To Making Medical Robots That Can Swim In Your Bloodstream](https://external-preview.redd.it/mZFerqASD2AKf7wWUVenO_LdVZhz9zkj6Y1P2bn_wzU.jpg?auto=webp&s=19c425f1b5fffe58463f005e4acd871dad784f57 "Researchers Are Getting Closer To Making Medical Robots That Can Swim In Your Bloodstream")
+
+
+[Researchers Are Getting Closer To Making Medical Robots That Can Swim In Your Bloodstream](https://www.reddit.com/r/technology/comments/nu4pav/researchers_are_getting_closer_to_making_medical/)
+
+
+> No body in the article.
+
+
+***
+![Samsung develops skin-wearable stretchable OLED display](https://external-preview.redd.it/g8Vy-20U6MDDzsBRXQEagnJEOPlUjVwclj3PRlURCSo.jpg?auto=webp&s=15fd8520a2eb28a932be81a13ce7ec8f309da6ce "Samsung develops skin-wearable stretchable OLED display")
+
+
+[Samsung develops skin-wearable stretchable OLED display](https://www.reddit.com/r/technology/comments/nu4lvz/samsung_develops_skinwearable_stretchable_oled/)
+
+
+> Need some skin wearable vibrator, don't ask me why.
+
+
+***
+![Twitter to launch Super Follows tool for users with 10K followers](https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/28/full/1622203564-6975.jpg "Twitter to launch Super Follows tool for users with 10K followers")
+
+
+[Twitter to launch Super Follows tool for users with 10K followers](https://www.business-standard.com/article/technology/twitter-to-launch-super-follows-tool-for-users-with-10k-followers-121060700255_1.html)
+
+
+> Twitter is set to soon launch the Super Follows feature that will enable some users with at least 10,000 followers to charge for providing exclusive additional content like extra tweets, joining a community group or receiving a newsletter. Twitter announced earlier this year it was working on a Patreon-like service, as the micro-blogging platform aims to drive new revenue streams. Twitter showed a mock-up screenshot during a virtual event with investors, where a user charges $4.99 per month for exclusive additional content.
+
+
+***
+![#TECH: Tech care of the heart](https://assets.nst.com.my/images/articles/BOTS070621applewatchy_NSTfield_image_socialmedia.var_1623042030.jpg "#TECH: Tech care of the heart")
+
+
+[#TECH: Tech care of the heart](https://www.nst.com.my/lifestyle/bots/2021/06/696594/tech-tech-care-heart)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![The Prime Day Countdown Is On: Early Deals Drop & Small Business Promotion Starts Now](http://www.businesswire.com/images/bwlogo_square.png "The Prime Day Countdown Is On: Early Deals Drop & Small Business Promotion Starts Now")
+
+
+[The Prime Day Countdown Is On: Early Deals Drop & Small Business Promotion Starts Now](https://www.businesswire.com/news/home/20210606005043/en/The-Prime-Day-Countdown-Is-On-Early-Deals-Drop-Small-Business-Promotion-Starts-Now)
+
+
+> June 07, 2021 01:00 AM Eastern Daylight Time SEATTLE--(BUSINESS WIRE)--(NASDAQ: AMZN) Prime Day will celebrate its seventh year of savings for Prime members on June 21 and June 22 by featuring more than 2 million deals globally—the most deals ever offered in the history of the shopping extravaganza. But Prime members don't have to wait to shop Prime Day deals—starting today, members can shop and save on hundreds of thousands of early-release deals including exclusive offers that drop every day leading up to Prime Day.
+
+
