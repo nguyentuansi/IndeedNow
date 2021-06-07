@@ -20722,3 +20722,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Apple macOS 12 Monterey: Release date, features, and more](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/157212-laptops-news-feature-apple-macos-12-monterey-release-date-features-and-more-image9-i1skp0egh5.jpg "Apple macOS 12 Monterey: Release date, features, and more")
+
+
+[Apple macOS 12 Monterey: Release date, features, and more](https://www.pocket-lint.com/laptops/news/apple/157212-macos-12-features)
+
+
+> (Pocket-lint) - Every year Apple launches a new version of macOS, its software for Apple laptops and desktop computers.This year is no exception, especially as Apple gears up to launch even more new Macs during 2021 - with updates to the 27-inch iMac and MacBook Air expected as well as an all-new MacBook Pro lineup (14 and 16-inch) running M1X or M2 processors. Because so much new hardware is on the horizon, Apple, of course, used WWDC 2021 to announce macOS 12, also known as Monterey.Officially, it's software update version 12 of macOSApple also gave it California-themed name: MontereyApple announced macOS 12 at WWDC 2021.
+
+
+***
+![How do Databases Compare for Serverless Functions and Containers?](https://external-preview.redd.it/Vm2NmsCknXB7-1trcGF80OH7ssM08QJ-lWEdkSdFPPc.jpg?auto=webp&s=9328e61ded8ebdbdc291db91224067bd073c5e19 "How do Databases Compare for Serverless Functions and Containers?")
+
+
+[How do Databases Compare for Serverless Functions and Containers?](https://www.reddit.com/r/programming/comments/nuph52/how_do_databases_compare_for_serverless_functions/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![FaceTime Links aren't a sign that Apple is opening up to Android users](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/apple-logo-facepalm-glare.jpg "FaceTime Links aren't a sign that Apple is opening up to Android users")
+
+
+[FaceTime Links aren't a sign that Apple is opening up to Android users](https://www.androidcentral.com/facetime-links-show-apple-has-no-intention-treating-android-users-equally)
+
+
+> Source: Nick Sutrich / Android Central Ah, FaceTime. Just as the name iPad is often used in place of a tablet, FaceTime has become synonymous with video calling someone. That changed a bit in 2020 when people began using Zoom for their daily needs and, it seems, Apple has noticed the shift. Zoom isn't just used for meetings, though; I've used it personally when video calling long-distance family or friends, and certainly an unknowable number of times during the pandemic for just about every event you could think of.
+
+
+***
+![Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification](https://external-preview.redd.it/SzuHdeq-u1wnY57xs6Y29tXzasDJec8tKgyAcOjL1pc.jpg?auto=webp&s=65c2726ebafa06414dd57b2240b85c62fb467aed "Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification")
+
+
+[Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification](https://www.reddit.com/r/programming/comments/nup4h2/two_hidden_instructions_discovered_in_intel_cpus/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Daily Crunch: At Apple's WWDC 2021 keynote, everything old is new again – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-03-at-12.33.34-PM.jpg?w=713 "Daily Crunch: At Apple's WWDC 2021 keynote, everything old is new again – TechCrunch")
+
+
+[Daily Crunch: At Apple's WWDC 2021 keynote, everything old is new again – TechCrunch](https://techcrunch.com/2021/06/07/daily-crunch-15/)
+
+
+> To get a roundup of TechCrunch's biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here. Today was the kickoff of Apple's developer conference, WWDC, meaning that the TechCrunch crew was super busy all day and that we have an ocean of news from Cupertino for you to enjoy. But the startup market was just as busy, thankfully, with some fascinating funding rounds, acquisitions and more to parse through. Today we have something for everyone! — Alex P.S. Including all of you interested in finance.
+
+
