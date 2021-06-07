@@ -20390,3 +20390,53 @@
 > Poultry farming is behind the success of Harim, the country's 27th largest business group. Korea Times fileBy Yi Whan-wooA chicken processing company and an airline may appear to be two unlikely businesses to link as a means to create profit. Harim, the country's No. 1 poultry meat company, is drawing attention for its intention to acquire financially troubled budget airline Eastar Jet. Also the country's 27th largest business group, Harim is seeking to set up "all-round" transport routes by land, sea and air, so that it can optimize the supply of feed and poultry stock.
 
 
+***
+![Latest OnePlus 9 Series Update Is Causing Bootloops](https://www.androidheadlines.com/wp-content/uploads/2021/03/AH-OnePlus-9-and-9-Pro-KL-image-5.jpg "Latest OnePlus 9 Series Update Is Causing Bootloops")
+
+
+[Latest OnePlus 9 Series Update Is Causing Bootloops](https://www.androidheadlines.com/2021/06/oneplus-9-series-update-bootloops.html)
+
+
+> It seems like the latest OnePlus 9 series update is causing bootloops. We're talking about the OxygenOS 11.2.6.6 update, which started rolling out for the OnePlus 9 and 9 Pro recently.The latest OxygenOS update for the OnePlus 9 & 9 Pro seems to be causing bootloopsThis information comes from HowToMen, a person behind that YouTube channel, and Artem Russakovskii of Android Police. In the case of HowToMen, it seems like the brother of a person behind that channel is having bootloop issues. His OnePlus 9 went to the bootloop craze post-update.
+
+
+***
+![Google fined €220 million after being accused of ‘abuse of power' by French antitrust regulator](https://static.independent.co.uk/2020/08/19/11/breaking-news.png?width=1200&auto=webp&quality=75 "Google fined €220 million after being accused of ‘abuse of power' by French antitrust regulator")
+
+
+[Google fined €220 million after being accused of ‘abuse of power' by French antitrust regulator](https://www.independent.co.uk/life-style/gadgets-and-tech/google-fine-france-antitrust-advertising-b1860876.html)
+
+
+> Google has been hit with a €220 million fine in France, after being accused of abusing its power by the country's antitrust regulator.The company also agreed to alter its business practices in online advertising, the French antitrust watchdog said.Isabelle De Silva, who heads the regulator, said that it was the first fine of its kind ever given out in the world. It focuses on the 'complex algorithmic auction processes used for online display-advertising', she said in a statement.
+
+
+***
+![Best photo editors 2021](https://cdn.mos.cms.futurecdn.net/s4M4m85khXXg8B6P2g4mUa-1200-80.jpg "Best photo editors 2021")
+
+
+[Best photo editors 2021](https://www.techradar.com/news/best-photo-editor)
+
+
+> The best photo editors allow you to enhance your creativity and get the very best out of your digital images.We've featured the best photo editing apps for mobile devices.Many devices now come with basic photo editing software built-in. Most laptops, for example, include simple, accessible tools for tweaking the contents of your picture library. While these are useful for quick alterations, though, the best photo editors allow you to do so much more. From object removal to advanced curve adjustments, the top photo editing software will let you to unlock the next level in advanced image improvements.
+
+
+***
+![Apple event](https://static.independent.co.uk/2021/03/30/17/Apple_wwdc21_newsroom_article_tile_033021.jpg?width=1200&auto=webp&quality=75 "Apple event")
+
+
+[Apple event](https://www.independent.co.uk/life-style/gadgets-and-tech/apple-event-live-wwdc-when-ios-15-b1860864.html)
+
+
+> Apple is about to hold one of its biggest events of the year: the Worldwide Developers Conference.The conference – and the keynote that kicks it off – serves as its annual reveal of all of the software updates it has been working on.As such, there will be a new iOS 15 for the iPhone, updates for the Mac, and new features on the Watch. WWDC is unusual among Apple events in that every one of its software platforms gets an update of some kind, and that they are available to download for free.But Apple is rumoured to be potentially bringing new products to buy, too.
+
+
+***
+![These one-day Apple Watch deals start at just $125 while supplies last](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/apple-watch-series-5-gadget-decade-hero.jpg "These one-day Apple Watch deals start at just $125 while supplies last")
+
+
+[These one-day Apple Watch deals start at just $125 while supplies last](https://www.imore.com/these-one-day-apple-watch-deals-start-just-130-while-supplies-last)
+
+
+> Those looking to score a great Apple Watch deal might be best served by going for a previous-generation model. If you can snag a refurbished Apple Watch, you can often get an even better deal. Today only, Woot has a variety of refurbished models on sale from just $124.99 in various sizes and colors giving you the chance to save. Woot's having a one-day sale on select Apple Watch models in refurbished condition, including Series 3 through 5, with prices from as low as $125. Each purchase comes with a 90-day warranty.
+
+
