@@ -20584,3 +20584,50 @@
 > It's games, games and more games on this week's Totally Rated, starting out with the highly anticipated zombie apocalypse sequel, Dying Light 2.We also put on the rose-tinted shades for a return to one of Sonic's best 3D outings with the Sonic Colors: Ultimate remaster, which now has a release date.And thankfully, we didn't have to go too deep into the jungle to unearth new details surrounding the much hyped PS5 title, Horizon Forbidden West.(Image credit: Techland)Dying Light 2's apocalypse will soon be upon usIt won't be too much longer before gamers get to experience the long-delayed Dying Light 2.
 
 
+***
+![iOS 15 release date, features, supported iPhones and everything you need to know](https://cdn.mos.cms.futurecdn.net/yFCoU7gbwweXVUqKDEW3kc-1200-80.jpg "iOS 15 release date, features, supported iPhones and everything you need to know")
+
+
+[iOS 15 release date, features, supported iPhones and everything you need to know](https://www.techradar.com/news/ios-15-update)
+
+
+> The iPhone 12 mini running iOS 14 (Image credit: TechRadar) As WWDC 2021 kicks off today (June 7), it began with the official unveiling of iOS 15, Apple's operating system for the iPhone line.With our WWDC live blog already up and running, we are in the midst of updating this article with what iOS 15 brings to your iPhone. However, if you want to tune in yourself, here's how to watch the iOS 15 launch live.It's worth noting that this isn't when the finished software will arrive on phones though, just when we'll get our first look at the beta version.
+
+
+***
+![How to watch Loki: stream new Marvel series online from anywhere](https://cdn.mos.cms.futurecdn.net/bk8EoeQZPsNqnjXHuLrisa-1200-80.jpg "How to watch Loki: stream new Marvel series online from anywhere")
+
+
+[How to watch Loki: stream new Marvel series online from anywhere](https://www.techradar.com/news/how-to-watch-loki-stream-new-marvel-series-online-from-anywhere)
+
+
+> Everyone's favorite havoc-wreaking, double-crossing, perma-grinning deity is back on our screens in Disney's latest Marvel TV show, and for once, Loki's in a bind. Follow our guide as we explain how to watch Loki online and stream this six-part Avengers spin-off on Disney Plus.Disney Plus deals: see all today's best prices hereHauled to the Time Variance Authority after breaking reality and altering the proper flow of time by making off with the Tesseract in Avengers: Endgame, Loki's faced with a choice: help TVA agent Mobius "Moby" M.
+
+
+***
+![Dell sued over 'unprecedented upgradeability' claim for Alienware laptop](https://cdn.mos.cms.futurecdn.net/rMFCD9rL84ywywic48rVj8-1200-80.jpg "Dell sued over 'unprecedented upgradeability' claim for Alienware laptop")
+
+
+[Dell sued over 'unprecedented upgradeability' claim for Alienware laptop](https://www.techradar.com/news/dell-sued-over-unprecedented-upgradeability-claim-for-alienware-laptop)
+
+
+> (Image credit: Future) A Dell customer is suing the company over claims it made about the "unprecedented upgradeability" of its Alienware Area-51m R1 laptop, saying the marketing campaign was false and misleading after its successor, the Area-51m R2, came out with new hardware not available on the R1 model.Robert Felter, who lives in San Francisco, CA, says in a class action complaint filed with the United States District Court in the Northern District of California that Dell's promise of "unprecedented upgradability," including the ability to upgrade the CPU and the GPU of the laptop, "intentionally misled and deceived" customers into buying a laptop that they could not fully upgrade, or even upgrade at all.
+
+
+***
+![OxygenOS 11.2.7.7 Update Rolls Out For OnePlus 9 & 9 Pro, Adds HDR Video Recording](https://www.androidheadlines.com/wp-content/uploads/2021/03/AH-OnePlus-9-and-9-Pro-KL-image-1.jpg "OxygenOS 11.2.7.7 Update Rolls Out For OnePlus 9 & 9 Pro, Adds HDR Video Recording")
+
+
+[OxygenOS 11.2.7.7 Update Rolls Out For OnePlus 9 & 9 Pro, Adds HDR Video Recording](https://www.androidheadlines.com/2021/06/oxygenos-11-2-7-7-update-rolls-out-for-oneplus-9-9-pro-adds-hdr-video-recording.html)
+
+
+> As per the latest official announcement by OnePlus, the latest OnePlus 9 and 9 Pro models are getting a new OxygenOS update. Notably, the new OxygenOS update for the OnePlus 9 and 9 Pro adds an HDR video recording feature along with some bug fixes.OnePlus pushed an update, not too long ago, for the OnePlus 9 series. Apparently, the previous update brought fixes for various bugs on the device. It also improved the charging experience of the device and optimized the camera and system performance.However, the latest update for the OnePlus 9 and 9 Pro, which arrives with OxygenOS version 11.
+
+
+***
+[Live stream of Apple's WWDC 2021 keynote (Apple)](http://www.techmeme.com/210607/p20#a210607p20)
+
+
+> Apple: Live stream of Apple's WWDC 2021 keynote — Apple Keynote June 7, 2021
+
+
