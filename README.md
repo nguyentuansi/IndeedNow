@@ -20631,3 +20631,47 @@
 > Apple: Live stream of Apple's WWDC 2021 keynote — Apple Keynote June 7, 2021
 
 
+***
+[Python pandas](https://www.reddit.com/r/Python/comments/nul600/python_pandas/)
+
+
+> I have made some changes to the dataframe using " isin " function from python pandas. But the when I save the file I don't see the changes .How do I pass INPLACE= true is it possible or is there some other way . BEGINNER PLEASE help !!!!
+
+
+***
+![Hy guys I joined this sub reddit to ask for Some help, tomorrow I have a test and I want to know how to I write a code in python so that i can write 1+2+3=123 I will gladly appreciate the help](https://external-preview.redd.it/w4KKLd0kYU0NZKR0spK5AmvBgNWzOBo6TP_KKBn8fw8.jpg?auto=webp&s=51e1e6edf2c3d9d2d9be950998462fdf7941728d "Hy guys I joined this sub reddit to ask for Some help, tomorrow I have a test and I want to know how to I write a code in python so that i can write 1+2+3=123 I will gladly appreciate the help")
+
+
+[Hy guys I joined this sub reddit to ask for Some help, tomorrow I have a test and I want to know how to I write a code in python so that i can write 1+2+3=123 I will gladly appreciate the help](https://www.reddit.com/r/programming/comments/nul5jp/hy_guys_i_joined_this_sub_reddit_to_ask_for_some/)
+
+
+> No body in the article.
+
+
+***
+![Script that creates spotify playlists](https://external-preview.redd.it/TDkbCKyjDL5R55v94dDcP6IKAHR2_OJUML1FmoImZog.jpg?auto=webp&s=3710e0cd4e2bf2fe1453a2a899dddff3dc5a29fc "Script that creates spotify playlists")
+
+
+[Script that creates spotify playlists](https://www.reddit.com/r/Python/comments/nul5df/script_that_creates_spotify_playlists/)
+
+
+> Hey, recently I have created a script that filters songs from a specific genre and puts them into a playlist of your choice or makes a new one (if the playlist name you gave up doesnt exist in your library).This script uses spotify api and requests.It uses your input data you filled into a config.json file.You have to give up a certain cookie for account verification. So spotify knows it is you who wants to make the changes to your account.Github: https://github.com/stieterd/playlist-generator
+
+
+***
+![Samsung Has Developed Stretchable Displays](https://www.androidheadlines.com/wp-content/uploads/2020/11/AH-Samsung-logo-new-12.jpg "Samsung Has Developed Stretchable Displays")
+
+
+[Samsung Has Developed Stretchable Displays](https://www.androidheadlines.com/2021/06/samsung-has-developed-stretchable-displays.html)
+
+
+> Samsung is truly the king of displays. A research team at Samsung has made a breakthrough in display technology by developing a Samsung stretchable display. This news comes to us from a Samsung blog post.The displays can stretch up to 30%A team of researchers at the Samsung Advanced Institute of Technology (ASIT) has developed an OLED panel that can stretch up to 30% without any deterioration. It's made from a material that can be applied as a thin film on the skin. Since it can stretch, it can form to the shape of your movements.
+
+
+***
+[Anyone ever attempt writing a discord bot? Where would one even start with such a project?](https://www.reddit.com/r/Python/comments/nul2yo/anyone_ever_attempt_writing_a_discord_bot_where/)
+
+
+> Was thinking about writing a music bot for a server I'm a mod on that would allow me to have volume control and the other things that are normally blocked behind a paywall. But where would I start with such a thing? I don't know really anything at all when it comes to do with anything server related.... So perhaps I'm underestimating the difficulty of such a project? Anyone have any advice?
+
+
