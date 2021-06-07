@@ -20340,3 +20340,53 @@
 > June 07, 2021 01:00 AM Eastern Daylight Time SEATTLE--(BUSINESS WIRE)--(NASDAQ: AMZN) Prime Day will celebrate its seventh year of savings for Prime members on June 21 and June 22 by featuring more than 2 million deals globally—the most deals ever offered in the history of the shopping extravaganza. But Prime members don't have to wait to shop Prime Day deals—starting today, members can shop and save on hundreds of thousands of early-release deals including exclusive offers that drop every day leading up to Prime Day.
 
 
+***
+![Signal Silently Patched Severe Privacy Flaw Hoping Nobody Will Notice](https://external-preview.redd.it/Epo3if9ODSt5hsqDFAvo_6k0d2Na_HO3QRQwYT6TNH8.jpg?auto=webp&s=13682f43855b0faeda2beef81525467ea2ee116b "Signal Silently Patched Severe Privacy Flaw Hoping Nobody Will Notice")
+
+
+[Signal Silently Patched Severe Privacy Flaw Hoping Nobody Will Notice](https://www.reddit.com/r/technology/comments/nu6im3/signal_silently_patched_severe_privacy_flaw/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Apple's MagSafe can damage cardiac devices and inhibit therapies, study says](https://www.thehindu.com/sci-tech/technology/p0b0rw/article34749990.ece/ALTERNATES/LANDSCAPE_615/magsafecardiac "Apple's MagSafe can damage cardiac devices and inhibit therapies, study says")
+
+
+[Apple's MagSafe can damage cardiac devices and inhibit therapies, study says](https://www.thehindu.com/sci-tech/technology/apples-magsafe-can-damage-cardiac-devices-and-inhibit-therapies-study-says/article34749967.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Devices with Apple's MagSafe technology can cause clinically significant interference on cardiac devices like pacemakers when they are placed close to these devices or on the skin, according to a study by The American Heart Association (AHA)."Apple's iPhone 12 Pro Max MagSafe technology can cause magnetic interference on cardiac implantable electronic devices (CIEDs) and has the potential to inhibit life-saving therapy," AHA said.
+
+
+***
+![‘Loophole' in G7 corporation tax deal could let Amazon off, report claims](https://static.independent.co.uk/2021/06/07/06/GettyImages-1231869266.jpg?width=1200&auto=webp&quality=75 "‘Loophole' in G7 corporation tax deal could let Amazon off, report claims")
+
+
+[‘Loophole' in G7 corporation tax deal could let Amazon off, report claims](https://www.independent.co.uk/life-style/gadgets-and-tech/global-g7-amazon-tax-loophole-b1860771.html)
+
+
+> In a 'historic' move, the G7 group of wealthy nations agreed to make companies such as Apple, Microsoft, and Google pay more taxes, however experts say Amazon may escape taxation unless a large loophole in the global deal is plugged.According to a joint statement shared on Saturday by the G7 finance ministers, the deal would tackle tax avoidance by 'the largest and most profitable multinational enterprises'.As part of the deal, companies would pay a global minimum corporation tax of 15 per cent, and for the largest global firms such as Google, Facebook, Amazon and Microsoft, 20 per cent of the profits would be reallocated to the countries where sales have taken place.
+
+
+***
+![FastAPi after 6 months of usage! Please check my experience and the setup](https://external-preview.redd.it/SUFmhHmRh3gvLM4D0m5HIcH12Jv9CUYPhM-7VK9Yhn0.jpg?auto=webp&s=bfceefd4b06708983ab15ff5b024f19ad013f132 "FastAPi after 6 months of usage! Please check my experience and the setup")
+
+
+[FastAPi after 6 months of usage! Please check my experience and the setup](https://www.reddit.com/r/Python/comments/nu6eg0/fastapi_after_6_months_of_usage_please_check_my/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Eastar Jet crucial for chicken conglomerate Harim to complete transport routes](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/b087c9e2d4bd47709ddc9ae01155efb8.jpg "Eastar Jet crucial for chicken conglomerate Harim to complete transport routes")
+
+
+[Eastar Jet crucial for chicken conglomerate Harim to complete transport routes](https://www.koreatimes.co.kr/www/tech/2021/06/694_310057.html)
+
+
+> Poultry farming is behind the success of Harim, the country's 27th largest business group. Korea Times fileBy Yi Whan-wooA chicken processing company and an airline may appear to be two unlikely businesses to link as a means to create profit. Harim, the country's No. 1 poultry meat company, is drawing attention for its intention to acquire financially troubled budget airline Eastar Jet. Also the country's 27th largest business group, Harim is seeking to set up "all-round" transport routes by land, sea and air, so that it can optimize the supply of feed and poultry stock.
+
+
