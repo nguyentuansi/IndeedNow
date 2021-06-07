@@ -20675,3 +20675,50 @@
 > Was thinking about writing a music bot for a server I'm a mod on that would allow me to have volume control and the other things that are normally blocked behind a paywall. But where would I start with such a thing? I don't know really anything at all when it comes to do with anything server related.... So perhaps I'm underestimating the difficulty of such a project? Anyone have any advice?
 
 
+***
+![Apple says you can stick with iOS 14 if iOS 15 isn't your cup of tea](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/ios-14-home-screen-page-2.jpg "Apple says you can stick with iOS 14 if iOS 15 isn't your cup of tea")
+
+
+[Apple says you can stick with iOS 14 if iOS 15 isn't your cup of tea](https://www.imore.com/apple-says-you-can-stick-ios-14-if-ios-15-isnt-your-cup-tea)
+
+
+> Source: Christine Romero-Chan / iMore Apple's big WWDC opening keynote is over and iOS 15 was one of the biggest announcements. But as great as the new features sound some people will always want to hold off updating and prefer to stick with something more tried and tested. That's iOS 14, and according to Apple, you can stick with it just fine. Even though Apple normally tries to push users towards updating, this year seems to be different. In fact, Apple not only says that users can stay on iOS 14 for the foreseeable, but it also says they'll receive security fixes while they do it.
+
+
+***
+[Too ‘rosy': Fish report gets fried](https://www.goldcoastbulletin.com.au/technology/environment/too-rosy-fish-report-gets-fried/news-story/b419b88a03ca033f8f4e7b92a2977f0b)
+
+
+> The latest report card of commercially caught fish in Australian waters has been criticised for being unnecessarily misleading because it suggests 85 per cent of fish stocks are either sustainable or recovering, when the actual number is 66 per cent.
+
+
+***
+![If your iPhone could handle iOS 14, it can definitely handle iOS 15!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/ios15-tile.png "If your iPhone could handle iOS 14, it can definitely handle iOS 15!")
+
+
+[If your iPhone could handle iOS 14, it can definitely handle iOS 15!](https://www.imore.com/my-iphone-compatible-ios-15)
+
+
+> Source: Apple Apple unveiled iOS 15 at its Worldwide Developer Conference (WWDC) keynote today, and it's packed with a lot of cool new features. For example, there are going to be some huge changes coming to FaceTime and Messages, a brand new Focus feature to help lessen distractions throughout the day, big Health features, and more. But the biggest question remains: will your current iPhone be able to run iOS 15? Apple has revealed the compatibility list for iOS 15, and it appears to be the same as iOS 14.
+
+
+***
+![Half of smartphones sold globally will support 5G by 2022-end: Report](https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/21/full/1608491852-3708.jpg "Half of smartphones sold globally will support 5G by 2022-end: Report")
+
+
+[Half of smartphones sold globally will support 5G by 2022-end: Report](https://www.business-standard.com/article/technology/half-of-smartphones-sold-globally-will-support-5g-by-2022-end-report-121060701422_1.html)
+
+
+> One out of every two smartphones sold globally is expected to support 5G by the end of 2022 as factors like increasing affordability, unique design and performance fuel adoption of the new technology, according to a whitepaper by Counterpoint Research and Realme. According to the whitepaper titled 'Making 5G Global: Accessibility for All', the global adoption of 5G is outpacing all previous generations. In the first quarter of 2021, within just one year after the launch of the world's first commercial 5G network, almost one out of every three smartphones sold worldwide supported 5G, it said.
+
+
+***
+![Devious SQL: Run the Same Query Against Tables With Differing Columns](https://external-preview.redd.it/WIIlMbkmfy1-FipAyeiVDEx9QtlWgjifMhjpZjDaQr0.jpg?auto=webp&s=e1b8f3ab7b5fd4679af619c1352d8823588027a1 "Devious SQL: Run the Same Query Against Tables With Differing Columns")
+
+
+[Devious SQL: Run the Same Query Against Tables With Differing Columns](https://www.reddit.com/r/programming/comments/nun8jh/devious_sql_run_the_same_query_against_tables/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
