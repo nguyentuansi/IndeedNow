@@ -20240,3 +20240,53 @@
 > Forget Fury, waylay Wilder and call down Canelo - tonight the boxing world pauses to watch one of the best to have ever graced the ring...and a YouTuber! Floyd Mayweather vs Logan Paul is blockbuster event that has had everybody talking - boxing fans or otherwise.And it's finally time to watch them go to-to-toe. So make sure you follow our guide below if you're still wondering how to live stream Mayweather vs Logan Paul, no matter where you happen to be in the world.Floyd Mayweather vs Logan Paul live streamDate: Sunday, June 6Venue: Hard Rock Stadium, Miami Gardens, FloridaMayweather vs Paul time (not earlier than): 10pm ET / 7pm PT / 3am BST / midday AESTPPV options: Showtime (US) / Sky Sports Box Office (UK) / Main Event (AU) / Fanmio (RoW)Watch anywhere: try our No.
 
 
+***
+![Third Eye device could help phone addicts avoid walking disasters](https://icdn.digitaltrends.com/image/digitaltrends/distracted-walking-third-eye.jpg "Third Eye device could help phone addicts avoid walking disasters")
+
+
+[Third Eye device could help phone addicts avoid walking disasters](https://www.digitaltrends.com/news/third-eye-could-help-phone-addicts-avoid-walking-disasters/)
+
+
+> Is this the look of the future? Will we soon be walking the streets with a bulbous high-tech 'eye' strapped to our forehead? Probably not, but South Korean industrial designer Paeng Min-wook went ahead and designed such a device anyway, mainly in the hope of drawing attention to the problem of distracted walking. As the term suggests, distracted walking refers to our failure to focus on the path ahead while strolling along the street. The main distraction these days is, of course, the smartphone, with most folks unable to resist staring at their handset when they should really  be looking out for obstacles that can include anything from garbage cans and benches to people and vehicles.
+
+
+***
+![WWDC 2021: How to watch today's keynote and what to expect](https://images.indianexpress.com/2021/06/WWDC-2021FB.jpg "WWDC 2021: How to watch today's keynote and what to expect")
+
+
+[WWDC 2021: How to watch today's keynote and what to expect](https://indianexpress.com/article/technology/tech-news-technology/apple-wwdc-2021-how-to-watch-keynote-and-what-to-expect-7347238/)
+
+
+> Apple will hold its annual Worldwide Developers Conference (WWDC), its biggest software-focused event, tonight. CEO Tim Cook will likely take the stage with a keynote, followed by several top executives, to introduce major software releases for Apple's operating systems — iOS, macOS, watchOS and tvOS. While WWDC has historically been the launchpad for new software releases, but there's been a buzz this year about the potential launch of a new MacBook Pro lineup. This year's event is being held online from June 7-11, and kicks off with a keynote speech at 10:30 pm IST.
+
+
+***
+![A new threat: Beware, security threats may be hiding in your mailbox](https://images.financialexpress.com/2021/06/cyber-threat.jpg "A new threat: Beware, security threats may be hiding in your mailbox")
+
+
+[A new threat: Beware, security threats may be hiding in your mailbox](https://www.financialexpress.com/industry/technology/a-new-threat-beware-security-threats-may-be-hiding-in-your-mailbox/2266438/)
+
+
+> By: FE Bureau | Updated: June 07, 2021 8:39 AMAn effective incident response following a security breach and the threats that arise post-delivery can quickly stop the spread of the attack and minimise any potential damage.A malicious email evading an organisation's security measures and landing in a user's inbox would need equal attention as block threats in the first place. Researchers of IT security firm Barracuda recently looked at 3,500 organisations globally to better understand threat patterns and response practices.
+
+
+***
+![#TECH: Chair made for gamers](https://assets.nst.com.my/images/articles/botsrazer_NSTfield_image_socialmedia.var_1623034853.jpg "#TECH: Chair made for gamers")
+
+
+[#TECH: Chair made for gamers](https://www.nst.com.my/lifestyle/bots/2021/06/696562/tech-chair-made-gamers)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Superintendent: Load multiple CSV files and write SQL](https://external-preview.redd.it/gtihB6CI84YKOWrK4Ebwg442Oq7cgN3ekxz2vE9FLA0.jpg?auto=webp&s=901ba71335c1e98d4231d2ae2f1b0dd6cb9a1910 "Superintendent: Load multiple CSV files and write SQL")
+
+
+[Superintendent: Load multiple CSV files and write SQL](https://www.reddit.com/r/programming/comments/nu1zx8/superintendent_load_multiple_csv_files_and_write/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
