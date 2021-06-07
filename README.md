@@ -20490,3 +20490,50 @@
 > (Image credit: Warner Bros) Those hoping to get a closer look at Hogwarts Legacy, Gotham Knights or Suicide Squad: Kill the Justice League at E3 2021 are going to be sorely disappointed, as Warner Bros. has confirmed that none of these titles will feature at the publisher's E3 conference.A Warner Bros. spokesperson clarified to TechRadar that only Back 4 Blood will be shown during the Warner Bros. E3 2021 conference, which is due to take place on June 13 (at a currently unspecified time). The Summer Game Fest Twitter account has also confirmed that the presentation will only feature Back 4 Blood.
 
 
+***
+![Galaxy S22 May Come Without Under-Display Camera After All](https://www.androidheadlines.com/wp-content/uploads/2020/08/Under-display-camera-smartphone.jpg "Galaxy S22 May Come Without Under-Display Camera After All")
+
+
+[Galaxy S22 May Come Without Under-Display Camera After All](https://www.androidheadlines.com/2021/06/samsung-galaxy-s22-no-under-display-camera.html)
+
+
+> The Samsung Galaxy S22 may not include an under-display camera after all. This information comes from South Korea, as Samsung allegedly decided not to include such tech inside the Galaxy S22.The Galaxy S22 will allegedly come without an under-display cameraThe reason behind this decision is the image quality. Samsung wasn't satisfied with the image quality that the camera was able to produce. On top of that, the production yield is too low, and the company would be required to include such a camera inside millions and millions of devices.
+
+
+***
+![Apple AirPods 3 release date, price, leaks, and rumors](https://cdn.mos.cms.futurecdn.net/5cQxqtVeTsZYnVXPLZPofB-1200-80.jpg "Apple AirPods 3 release date, price, leaks, and rumors")
+
+
+[Apple AirPods 3 release date, price, leaks, and rumors](https://www.techradar.com/news/apple-airpods-3-release-date)
+
+
+> When will we see the Apple AirPods 3? With nearly two years having passed since the last iteration of Apple's true wireless earbuds, the AirPods (2019), there are naturally already murmurs of another updated model coming our way.While there were rumors of the Apple AirPods 3 crashing into the market before 2020 was out, they never materialized – and now everything is pointing to a 2021 release.A new report claims that a third iteration of the Apple AirPods are in development right now, as are the second generation of the Apple AirPods Pro.
+
+
+***
+![#TECH: Huawei launches new mobile operating system in fight for survival](https://assets.nst.com.my/images/articles/botshuaweiros_NSTfield_image_socialmedia.var_1623069025.jpg "#TECH: Huawei launches new mobile operating system in fight for survival")
+
+
+[#TECH: Huawei launches new mobile operating system in fight for survival](https://www.nst.com.my/lifestyle/bots/2021/06/696715/tech-huawei-launches-new-mobile-operating-system-fight-survival)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[A look at the rise of the meditation app Calm, downloaded by 100M+ users and valued at $2B, which aims to make meditation easy, friendly, and accessible (Annie Lowrey/The Atlantic)](http://www.techmeme.com/210607/p11#a210607p11)
+
+
+> Annie Lowrey / The Atlantic: A look at the rise of the meditation app Calm, downloaded by 100M+ users and valued at $2B, which aims to make meditation easy, friendly, and accessible — cathedral-like mountain towers above me; a lake laps at my feet; sunshine distilled through pine needles warms my skin. Close your eyes, a voice intones.
+
+
+***
+![Nubia RedMagic 6R goes official with a 144Hz AMOLED display, Snapdragon 888](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/nubia-redmagic-6r.jpg "Nubia RedMagic 6R goes official with a 144Hz AMOLED display, Snapdragon 888")
+
+
+[Nubia RedMagic 6R goes official with a 144Hz AMOLED display, Snapdragon 888](https://www.androidcentral.com/nubia-unveils-sub-500-galaxy-s21-rival-144hz-screen-snapdragon-888-soc)
+
+
+> Source: Nubia Update, June 7 (08:30 am ET): Global availability announced Nubia has announced another new flagship gaming phone. The RedMagic 6R features a 144Hz AMOLED screen, Qualcomm's Snapdragon 888 processor, and a 4,200mAh battery. It will go on sale in China from June for a starting price of 2,999 yuan ($470). ZTE's Nubia sub-brand has announced a new addition to its RedMagic 6 series family, dubbed the RedMagic 6R. The phone is primarily aimed at gamers, but doesn't have the same gaming-inspired design as the RedMagic 6 and 6 Pro phones.
+
+
