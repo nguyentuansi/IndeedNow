@@ -20440,3 +20440,53 @@
 > Those looking to score a great Apple Watch deal might be best served by going for a previous-generation model. If you can snag a refurbished Apple Watch, you can often get an even better deal. Today only, Woot has a variety of refurbished models on sale from just $124.99 in various sizes and colors giving you the chance to save. Woot's having a one-day sale on select Apple Watch models in refurbished condition, including Series 3 through 5, with prices from as low as $125. Each purchase comes with a 90-day warranty.
 
 
+***
+![Jeff Bezos and his brother will fly on Blue Origin's first human spaceflight with auction winner – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-665033922-2.jpg?w=600 "Jeff Bezos and his brother will fly on Blue Origin's first human spaceflight with auction winner – TechCrunch")
+
+
+[Jeff Bezos and his brother will fly on Blue Origin's first human spaceflight with auction winner – TechCrunch](https://techcrunch.com/2021/06/07/jeff-bezos-and-his-brother-will-fly-on-blue-origins-first-human-spaceflight-with-auction-winner/)
+
+
+> Jeff Bezos is going to be one of the passengers on his spaceflight company Blue Origin's first ever human space launch on July 20. The Amazon founder announced the news via his Instagram on Monday morning, revealing that his brother Mark will also be coming along for the ride. Bezos and his brother will join the winner of an online auction Blue Origin is currently hosting, which currently stands at $2.8 million as the highest bid for that seat. The Blue Origin launch of its suborbital, reusable New Shepard rocket on July 20 will be the first time it has ever flown with people on board.
+
+
+***
+![What are the capabilities of Dynamics 365 Finance Solutions?](https://images.macrumors.com/social/?t=2299490&v=6 "What are the capabilities of Dynamics 365 Finance Solutions?")
+
+
+[What are the capabilities of Dynamics 365 Finance Solutions?](https://forums.macrumors.com/threads/what-are-the-capabilities-of-dynamics-365-finance-solutions.2299490/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Fortnite Season 7: Release date, time and everything we know so far about major update](https://www.thesun.co.uk/wp-content/uploads/2021/06/15br-comp-3rdpartyevergreens-v2-orange-newsheader-1920x1080-ee6b6ce9e01d.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Fortnite Season 7: Release date, time and everything we know so far about major update")
+
+
+[Fortnite Season 7: Release date, time and everything we know so far about major update](https://www.thesun.co.uk/tech/15188570/fortnite-season-7-release-date-time-news-rumours-update/)
+
+
+> FORTNITE'S latest season is almost upon us, meaning we're about to wave goodbye to the primal sections of the island. We've got all the details straight from Fortnite-maker Epic Games, so buckle up for another wild ride in the smash hit game. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news The new Fortnite season is almost upon usCredit: Fortnite Fortnite Season 7 – what is it? Epic regularly switches things up with the release of a new season every few months.
+
+
+***
+![Amazon Prime Day 2021: Official dates announced, early Apple deals, & more](https://www.imore.com/sites/imore.com/files/styles/large/public/article-images/2018/07/amazon-prime-day-2018-kbs.jpg "Amazon Prime Day 2021: Official dates announced, early Apple deals, & more")
+
+
+[Amazon Prime Day 2021: Official dates announced, early Apple deals, & more](https://www.imore.com/amazon-prime-day)
+
+
+> Last year we saw Amazon Prime Day pushed back from its usual summer spot due to the world's ongoing health crisis meaning it brushed up against Black Friday season. There's no doubt Amazon will want to bounce back in a big way with Prime Day 2021 so we're expecting a huge event this time around — and now we know exactly when Prime Day is going to take place! Prime Day is the exclusive sale every Amazon Prime member should look forward to each year. There are thousands of products on sale during the event from every category plus a whole bunch of promotions giving you extra Amazon credit, extended free trials of Amazon services, and much more just for being a Prime member.
+
+
+***
+![Don't expect Hogwarts Legacy or Gotham Knights at E3 2021](https://cdn.mos.cms.futurecdn.net/L3ipiVub7THwWhti8SwbgJ-1200-80.jpg "Don't expect Hogwarts Legacy or Gotham Knights at E3 2021")
+
+
+[Don't expect Hogwarts Legacy or Gotham Knights at E3 2021](https://www.techradar.com/news/dont-expect-hogwarts-legacy-or-gotham-knights-at-e3-2021)
+
+
+> (Image credit: Warner Bros) Those hoping to get a closer look at Hogwarts Legacy, Gotham Knights or Suicide Squad: Kill the Justice League at E3 2021 are going to be sorely disappointed, as Warner Bros. has confirmed that none of these titles will feature at the publisher's E3 conference.A Warner Bros. spokesperson clarified to TechRadar that only Back 4 Blood will be shown during the Warner Bros. E3 2021 conference, which is due to take place on June 13 (at a currently unspecified time). The Summer Game Fest Twitter account has also confirmed that the presentation will only feature Back 4 Blood.
+
+
