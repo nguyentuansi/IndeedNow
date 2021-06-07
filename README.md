@@ -20203,3 +20203,40 @@
 > A plane carrying Kamala Harris for her first foreign trip as US vice president has been forced to turn back after experiencing a technical issue. Ms Harris departed for Guatemala … Continued The post ‘We all said a little prayer': Technical issue grounds plane carrying Kamala Harris appeared first on The New Daily.
 
 
+***
+[Australians lose $851 million to scams as scammers take advantage of pandemic](https://itwire.com/security/australians-lose-$851-million-to-scams-as-scammers-take-advatnage-of-pandemic.html)
+
+
+> Australians have lost a record $851 million to scams, with scammers taking advantage of the pandemic to con unsuspecting people, according to a new report which also reveals that investment scams accounted for the biggest losses. According to the Australian Competition and Consumer Commission (ACCC) investment scams fleece Australians of $328 million, and made up more than a third of total losses - while romance scams were the next biggest category, costing Australians $131 million, and payment redirection scams resulting in $128 million of losses.
+
+
+***
+![Ransomware attacks are closing schools, delaying chemotherapy and derailing everyday life](https://external-preview.redd.it/hooOovaywuyHuY7crDLgxvTlCYotK6wptrZI8SnxWZM.jpg?auto=webp&s=10324edb63c9eae0924a397e5835eabf5b7f795e "Ransomware attacks are closing schools, delaying chemotherapy and derailing everyday life")
+
+
+[Ransomware attacks are closing schools, delaying chemotherapy and derailing everyday life](https://www.reddit.com/r/technology/comments/ntzxnp/ransomware_attacks_are_closing_schools_delaying/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Elon Musk: Cryptocurrency 'Space Race' with Leading Crypto's New Mission After Dogecoin, Ethereum's Planned Launches](https://1734811051.rsc.cdn77.org/data/images/full/384173/a-physical-representation-of-the-bitcoin-cryptocurrency.jpg "Elon Musk: Cryptocurrency 'Space Race' with Leading Crypto's New Mission After Dogecoin, Ethereum's Planned Launches")
+
+
+[Elon Musk: Cryptocurrency 'Space Race' with Leading Crypto's New Mission After Dogecoin, Ethereum's Planned Launches](https://www.techtimes.com/articles/261146/20210606/elon-musk-cryptocurrency-space-race-leading-cryptos-new-mission-dogecoin-ethereum.htm)
+
+
+> Isaiah Richard, Tech Times 06 June 2021, 08:06 pm Elon Musk has declared a new age in the "Space Race," with cryptocurrencies joining the fiasco, particularly with Bitcoin aiming to launch its physical coins in the coming missions. This mission will join the likes of Dogecoin ($DOGE) and Ethereum ($ETH) that have already planned their missions for physical copies to be sent to the cosmic skies. (Photo : Dan Kitwood/Getty Images) Initially, it was NASA who was in rivalry with other nations to bring the first human to the Moon, then the first rovers to Mars and discover the Red Planet.
+
+
+***
+![Floyd Mayweather vs Logan Paul live stream: how to watch tonight's huge fight from anywhere](https://cdn.mos.cms.futurecdn.net/MhPfgHuRR3TmEUm6UZTyxG-1200-80.jpg "Floyd Mayweather vs Logan Paul live stream: how to watch tonight's huge fight from anywhere")
+
+
+[Floyd Mayweather vs Logan Paul live stream: how to watch tonight's huge fight from anywhere](https://www.techradar.com/news/floyd-mayweather-vs-logan-paul-live-stream-how-to-watch-tonights-huge-fight-from-anywhere)
+
+
+> Forget Fury, waylay Wilder and call down Canelo - tonight the boxing world pauses to watch one of the best to have ever graced the ring...and a YouTuber! Floyd Mayweather vs Logan Paul is blockbuster event that has had everybody talking - boxing fans or otherwise.And it's finally time to watch them go to-to-toe. So make sure you follow our guide below if you're still wondering how to live stream Mayweather vs Logan Paul, no matter where you happen to be in the world.Floyd Mayweather vs Logan Paul live streamDate: Sunday, June 6Venue: Hard Rock Stadium, Miami Gardens, FloridaMayweather vs Paul time (not earlier than): 10pm ET / 7pm PT / 3am BST / midday AESTPPV options: Showtime (US) / Sky Sports Box Office (UK) / Main Event (AU) / Fanmio (RoW)Watch anywhere: try our No.
+
+
