@@ -20772,3 +20772,47 @@
 > To get a roundup of TechCrunch's biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here. Today was the kickoff of Apple's developer conference, WWDC, meaning that the TechCrunch crew was super busy all day and that we have an ocean of news from Cupertino for you to enjoy. But the startup market was just as busy, thankfully, with some fascinating funding rounds, acquisitions and more to parse through. Today we have something for everyone! — Alex P.S. Including all of you interested in finance.
 
 
+***
+![There's some watchOS 8 features you may have missed at WWDC 2021](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/watchos-8-photos.png "There's some watchOS 8 features you may have missed at WWDC 2021")
+
+
+[There's some watchOS 8 features you may have missed at WWDC 2021](https://www.imore.com/watchos-8-4-new-features-you-may-have-missed)
+
+
+> Source: Apple When Apple gave us a glimpse of watchOS 8 during the keynote presentation at WWDC 202, you likely heard the big headlines. A new Mindfulness app to help center yourself and practice being mindful, a redesigned Home app to control your Home much better from your wrist, upgrades to the Wallet app, and much more. However, the keynote blew through the watchOS 8 sections so fast, and you may have missed some new features. Here's some feature you definitely don't want to miss. Apple occasionally offers updates to iOS, iPadOS, watchOS, tvOS, and macOS as closed developer previews or public betas.
+
+
+***
+[Technically Speaking: Are 'Sell Signals' Useless In 'Mania' Markets?](https://www.investmentwatchblog.com/technically-speaking-are-sell-signals-useless-in-mania-markets/)
+
+
+> by Lance Roberts A recent Bloomberg article made the case that since 2009 'sell signals' are useless during 'mania' markets. To wit: 'If you bailed because of Bollinger Bands, ran away from relative strength or
+
+
+***
+[Apple: iCloud Private Relay will not work in China, Belarus, Colombia, Egypt, Kazakhstan, Saudi Arabia, South Africa, Turkmenistan, Uganda and the Philippines (Reuters)](http://www.techmeme.com/210607/p49#a210607p49)
+
+
+> Reuters: Apple: iCloud Private Relay will not work in China, Belarus, Colombia, Egypt, Kazakhstan, Saudi Arabia, South Africa, Turkmenistan, Uganda and the Philippines — Apple Inc (AAPL.O) on Monday said a new “private relay” feature designed to obscure a user's web browsing behavior …
+
+
+***
+![JEOL and SCiLS Sign a Distribution Agreement for SCiLS Lab MVS Software](https://mms.businesswire.com/media/20210607005273/en/882754/23/210603134922_jms-s3000-scilslabmvs.jpg "JEOL and SCiLS Sign a Distribution Agreement for SCiLS Lab MVS Software")
+
+
+[JEOL and SCiLS Sign a Distribution Agreement for SCiLS Lab MVS Software](https://www.businesswire.com/news/home/20210607005273/en/JEOL-and-SCiLS-Sign-a-Distribution-Agreement-for-SCiLS-Lab-MVS-Software)
+
+
+> June 07, 2021 08:30 PM Eastern Daylight Time TOKYO--(BUSINESS WIRE)--JEOL Ltd.(TOKYO:6951) (President & COO Izumi Oi) and SCiLS, a division of Bruker Daltonics, announced that they have concluded a non-exclusive, worldwide distribution agreement for SCiLS Lab MVS software. https://www.jeol.co.jp/en/products/detail/MS-Imaging.html The SCiLS Lab has been the software of choice for researchers wanting to gain new insights from mass spectrometry imaging. Used in science and industry, the software sets new standards in analysis and visualization, simplifying everyday work and advancing the research.
+
+
+***
+![Samsung will start producing foldable OLED panels for Google, vivo and Xiaomi in October](https://fdn.gsmarena.com/imgroot/news/21/06/samsung-display-flexible-oled-for-google-vivo-xiaomi/-476x249w4/gsmarena_000.jpg "Samsung will start producing foldable OLED panels for Google, vivo and Xiaomi in October")
+
+
+[Samsung will start producing foldable OLED panels for Google, vivo and Xiaomi in October](https://www.gsmarena.com/samsung_will_start_producing_foldable_oled_panels_for_google_vivo_and_xiaomi_in_october-news-49496.php)
+
+
+> Last week ETNews reported that Samsung Display will supply Google and others with Ultra Thin Glass (UTG) for their upcoming foldable smartphones as well as flexible OLED panels. Now The Elec adds more details. Besides Google, the company has also struck deals with vivo and Xiaomi. These three plan to announce their foldable devices in the fourth quarter of this year, so Samsung Display will start mass producing the OLED panels for them in October. The foldable Google Pixel will have a 7.6' in-folding display, according to the publication.
+
+
