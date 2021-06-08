@@ -21101,3 +21101,50 @@
 > SOMERVILLE, Mass.--(BUSINESS WIRE)--Trace Matters Scientific in collaboration with Thermo Fisher Scientific successfully demonstrated the proof-of-principle for SPionTM Technology for mass spectrometry. For the experiments conducted at Thermo Fisher's San Jose office, SPionTM Technology was coupled to Thermo Fisher's TSQ AltisTM Triple Quadrupole Mass Spectrometer, one of the world's most sensitive mass spectrometers in the market. The experimental results acquired using standard calibration solutions confirmed that SPion™ delivers excellent analytical performance, and can efficiently transfer ions in both positive and negative mode in a wide mass range.
 
 
+***
+![Aqara M2 ecosystem review: a smart home for less](https://cdn.vox-cdn.com/thumbor/DMb57neUblY9tOmXzi02MkUaFWk=/0x142:2040x1210/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22644694/verge_DSC_4006_2040pxl.jpg "Aqara M2 ecosystem review: a smart home for less")
+
+
+[Aqara M2 ecosystem review: a smart home for less](https://www.theverge.com/22523877/aqara-smart-home-review-m2-hub-homekit-alexa-google-assistant)
+
+
+> If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. The Aqara M2 smart home hub officially launches in the US today, making it the ideal time to take a deeper look at the company's inventory of inexpensive smart home devices that work with Amazon Alexa, Google Assistant, and Apple HomeKit. While Aqara might not have the brand cachet of Philips Hue or Samsung SmartThings, it's been around since 2016 — an eternity for smart home companies.
+
+
+***
+![Halo Infinite 2022 Calendar Confirms Choppers Are Coming Back](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Halo%20Infinite%20Calendar%20Main%201.jpg?itok=jcfLbet6 "Halo Infinite 2022 Calendar Confirms Choppers Are Coming Back")
+
+
+[Halo Infinite 2022 Calendar Confirms Choppers Are Coming Back](https://techraptor.net/gaming/news/halo-infinite-2022-calendar-confirms-choppers-are-coming-back)
+
+
+> 06/08/2021 - 12:22 | By: Joseph Allen A new Halo Infinite calendar has revealed that a major vehicle from the previous games is coming back. With the return of the Brute enemy, the classic Chopper vehicle is making a comeback, and there's a bunch more intriguing concept art on the calendar too. What does the 2022 Halo Infinite calendar show? The listing for the calendar was spotted on a couple of different sites, including Calendars and ShopTrends, by ResetEra user Theorry. It features 13 different images pertaining to Halo Infinite, one of which depicts a Brute riding a Chopper, with several other Brutes in the background.
+
+
+***
+![Playdate preorders begin next month, and here are the first games](https://cdn.vox-cdn.com/thumbor/4VkXjUmglAiSMx3APTRwx985EZU=/0x144:2000x1191/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22644669/June_hello.jpg "Playdate preorders begin next month, and here are the first games")
+
+
+[Playdate preorders begin next month, and here are the first games](https://www.theverge.com/2021/6/8/22523929/playdate-preorder-game-lineup-dock-announced)
+
+
+> Panic has announced that the Playdate, its $179 handheld console with a crank and a black-and-white screen, will be available to preorder in July with shipping starting later in the year. The company doesn't have a specific date lined up just yet, but says it'll provide at least a week's notice before orders open. Panic is doing its best to avoid a PS5/RTX 3080-type stock situation by implementing its own ordering system. 'The sooner you order, the sooner you'll get one, but we're not going to close the door on you,' says co-founder Cabel Sasser in a video update.
+
+
+***
+[Google's June Feature Drop Brings New Features and App Updates to Pixel Users](https://telecomtalk.info/google-is-releasing-the-june-feature-drop/367477/)
+
+
+> Just after Apple announced tons of updates to its software operating systems and applications during the WWDC event, Google has decided that it is time to roll out the June feature drop for the Pixel range of smartphones. In case […]
+
+
+***
+![macOS and tvOS are getting spatial audio support with the AirPods Pro and Max](https://cdn.vox-cdn.com/thumbor/GgYTGueLaZ7M4WDalhoo_ZIft3Y=/0x146:2880x1654/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22644643/Screen_Shot_2021_06_08_at_10.48.24_AM.png "macOS and tvOS are getting spatial audio support with the AirPods Pro and Max")
+
+
+[macOS and tvOS are getting spatial audio support with the AirPods Pro and Max](https://www.theverge.com/2021/6/8/22523914/macos-tvos-spatial-audio-support-airpods-pro-max)
+
+
+> Apple is extending support for spatial audio to macOS and tvOS. The feature will work with the company's high-end AirPods Pro and AirPods Max, using the devices' built-in accelerometers and gyroscopes to create a 3D audio effect that tracks the listener's head movements. Apple initially announced spatial audio for the AirPods Pro last year and impressed us with the feature's immersive quality. At this year's WWDC, the company extended support for spatial audio to Apple Music and FaceTime calls. According to a press release from Apple, spatial audio for macOS will only work with the AirPods Pro and Max on Macs with the company's latest M1 chip and the macOS Monterey operating system.
+
+
