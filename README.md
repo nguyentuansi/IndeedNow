@@ -20816,3 +20816,47 @@
 > Last week ETNews reported that Samsung Display will supply Google and others with Ultra Thin Glass (UTG) for their upcoming foldable smartphones as well as flexible OLED panels. Now The Elec adds more details. Besides Google, the company has also struck deals with vivo and Xiaomi. These three plan to announce their foldable devices in the fourth quarter of this year, so Samsung Display will start mass producing the OLED panels for them in October. The foldable Google Pixel will have a 7.6' in-folding display, according to the publication.
 
 
+***
+![My Operating System](https://external-preview.redd.it/_Gle7kBKov7exiVBmgSOWAFHckMsK1I3_4AQz2Eopeo.jpg?auto=webp&s=3fffce194d4f7a7ded527792868372ad20fa4fc5 "My Operating System")
+
+
+[My Operating System](https://www.reddit.com/r/programming/comments/nuulea/my_operating_system/)
+
+
+> No body in the article.
+
+
+***
+[Apple WWDC 2021 Day 1 : Five Major Announcements & Key Takeaways](https://www.thequint.com/tech-and-auto/gadgets/apple-wwdc-2021-day-1-5-major-key-announcements-takeaways)
+
+
+> Here's are five major announcements the company made at WWDC Event 2021.
+
+
+***
+![All the June 2021 Android security patch details you need](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/pixel-5-sexy-af.jpg "All the June 2021 Android security patch details you need")
+
+
+[All the June 2021 Android security patch details you need](https://www.androidcentral.com/android-security-bulletin)
+
+
+> Source: Alex Dobie / Android Central Google has detailed the latest Android Security Bulletin and released the fixes for Pixel devices. These are exploits and other security concerns that affect Android as a whole. Issues with the operating system, kernel patches, and driver updates may not affect any particular device, but these need to be fixed in the Android base by the folks maintaining the operating system code. That means Google, and they've detailed the things they have improved for this month.
+
+
+***
+[Apple introduces Object Capture, an API on macOS Monterey that enables developers to turn 2D images of real-world objects into 3D models optimized for AR (Oliver Haslam/iMore)](http://www.techmeme.com/210607/p51#a210607p51)
+
+
+> Oliver Haslam / iMore: Apple introduces Object Capture, an API on macOS Monterey that enables developers to turn 2D images of real-world objects into 3D models optimized for AR — Apple announced a ton of new software updates today and they all need new tools to allow developers to do what they need to if they want to make great apps.
+
+
+***
+![These are the best Chromebooks to buy for you and your family](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/best-chromebooks-sept-2020.jpg "These are the best Chromebooks to buy for you and your family")
+
+
+[These are the best Chromebooks to buy for you and your family](https://www.androidcentral.com/best-chromebook)
+
+
+> The best Chromebook can provide a top-notch computing experience today and for years to come. They're perfect for students, grandparents, and anyone looking for a trouble-free laptop with long battery life. We've reviewed and rated the absolute best Chromebooks so that you can find the best value at any budget. Our buyer's guide will help you find the perfect Chrome OS laptop or tablet if you're switching from a Windows or Mac, or if you're buying your first laptop entirely. The beauty of the Chromebook market is that there are so many options to choose from.
+
+
