@@ -20860,3 +20860,50 @@
 > The best Chromebook can provide a top-notch computing experience today and for years to come. They're perfect for students, grandparents, and anyone looking for a trouble-free laptop with long battery life. We've reviewed and rated the absolute best Chromebooks so that you can find the best value at any budget. Our buyer's guide will help you find the perfect Chrome OS laptop or tablet if you're switching from a Windows or Mac, or if you're buying your first laptop entirely. The beauty of the Chromebook market is that there are so many options to choose from.
 
 
+***
+![Sweet Tooth: That ending explained and all your questions answered](https://www.cnet.com/a/img/cB_hmYp1sCp2bB7hR0433NTxh5g=/0x294:3600x2318/1200x630/2021/06/08/be1735cb-4d06-4d9d-b01c-bae67f446518/stooth-108-unit-04446r.jpg "Sweet Tooth: That ending explained and all your questions answered")
+
+
+[Sweet Tooth: That ending explained and all your questions answered](https://www.cnet.com/news/sweet-tooth-that-ending-explained-and-all-your-questions-answered/)
+
+
+> Christian Convery plays Gus, the 10-year-old half-human and half-deer boy. Netflix If you've just finished the heartfelt fairytale that is Netflix's Sweet Tooth, then it's time to delve into what it all means. The timely themes, exploring fear of the other and vigilantes, make Sweet Tooth resonate more than ever in the current moment. Where could the show go next? Will it have a second season? What are the origins of the virus that send the world crumbling? Let's dive into all of that and more.
+
+
+***
+![How to do Object-Oriented Programming with Python](https://external-preview.redd.it/qtbHXFexBKw4QmnMHkUiotcUaw5Ln_ft-7yQ7Qq94Pw.jpg?auto=webp&s=116d9eb297107d253f459c76919e525c1b718417 "How to do Object-Oriented Programming with Python")
+
+
+[How to do Object-Oriented Programming with Python](https://www.reddit.com/r/Python/comments/nuwaig/how_to_do_objectoriented_programming_with_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Battlegrounds Mobile India ban likely? Telangana MP demands probe into Krafton's link with China's Tencent](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/battlegrounds_mobile_0-647x363.jpeg?w6cLDuc3_pwbyOTNsv3M_HhsEdYxKj5Z "Battlegrounds Mobile India ban likely? Telangana MP demands probe into Krafton's link with China's Tencent")
+
+
+[Battlegrounds Mobile India ban likely? Telangana MP demands probe into Krafton's link with China's Tencent](https://www.indiatoday.in/technology/news/story/battlegrounds-mobile-india-ban-likely-telangana-mp-demands-probe-into-krafton-s-link-with-china-s-tencent-1812170-2021-06-08)
+
+
+> The comeback of PUBG Mobile to India as Battlegrounds Mobile India is not going well with some politicians. Although there is no launch date, Krafton is still very much going ahead with the release of Battlegrounds Mobile India. It is nothing but a rebadged PUBG Mobile, so launching it is an indirect circumvention of the government's ban on Krafton's smash-hit battle royale game last year. This has irked some people now. After the MLA from Arunachal Pradesh, a Member of Parliament from Telangana expressed concerns over Battlegrounds Mobile India.
+
+
+***
+![Down Under criminals tricked into using FBI-run message app](https://s.abcnews.com/images/Technology/WireAP_c67cc746dadd404691c6b36296a8ec25_16x9_992.jpg "Down Under criminals tricked into using FBI-run message app")
+
+
+[Down Under criminals tricked into using FBI-run message app](https://abcnews.go.com/Technology/wireStory/criminals-tricked-fbi-run-message-app-78144035)
+
+
+> WELLINGTON, New Zealand -- Authorities in Australia and New Zealand said Tuesday they've dealt a huge blow to organized crime after hundreds of criminals were tricked into using a messaging app that was being secretly run by the FBI.Police said criminal gangs thought the encrypted app called ANOM was safe from snooping when, in fact, authorities for months had been monitoring millions of messages about drug smuggling, money laundering and even planned killings.The app was part of a worldwide sting called operation Trojan Shield, which was led by the FBI and involved the U.
+
+
+***
+[Не могу установить драйвер на принтер](https://www.linux.org.ru/forum/general/16361218)
+
+
+> sudo] пароль для dom: root@dom-HP-Pavilion-g6-Notebook-PC:/home/dom# sh /home/uld/install.sh sh: 0: Can’t open /home/uld/install.sh root@dom-HP-Pavilion-g6-Notebook-PC:/home/dom# sudo sh install.sh sh: 0: Can’t open install.sh root@dom-HP-Pavilion-g6-Notebook-PC:/home/dom# dir uld Документы Изображения Общедоступные Шаблоны Видео Загрузки Музыка Рабочий\ стол root@dom-HP-Pavilion-g6-Notebook-PC:/home/dom# sudo sh /uld/install.sh sh: 0: Can’t open /uld/install.sh root@dom-HP-Pavilion-g6-Notebook-PC:/home/dom# sudo sh uld/install.
+
+
