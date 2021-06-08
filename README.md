@@ -21239,3 +21239,50 @@
 > Tech/Game 2021-06-08T14:07:10.503Z Airplane Junkers Junior: Nothing easier than that Tech/Game 2021-06-08T09:56:47.522Z Prosecutors indict Yang Hyun-suk for refusing to investigate 'BI drug' Tech/Game 2021-06-08T04:02:54.781Z Four very good scary series this year Tech/Game 2021-06-08T01:02:49.418Z Starting today, the 60-64 year old vaccinated... "Proof of vaccination with a sticker" Tech/Game 2021-06-08T08:57:59.751Z New European copyright law comes into effect: this is changing Tech/Game 2021-06-08T04:01:02.
 
 
+***
+![Google Pixel 5: Your complete buyer's guide](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/google-pixel-5-hands-on-15.jpg "Google Pixel 5: Your complete buyer's guide")
+
+
+[Google Pixel 5: Your complete buyer's guide](https://www.androidcentral.com/google-pixel-5)
+
+
+> Source: Daniel Bader / Android Central Following 2019's controversial Pixel 4, Google showed up to right its wrongs with the Pixel 5. The Pixel 4 introduced new ideas like a telephoto camera, face unlock system, and unique gestures, but it did so at the expense of battery life. This time around, Google's trying something a bit different. Rather than be concerned about having the highest-end processor or five cameras, Google designed the Pixel 5 to be a meat and potatoes Android phone that does everything you need it to do, has all of the core features you could ask for, and comes in at a much lower price than the latest flagships from Samsung and Apple.
+
+
+***
+![DataStax Accelerates In Asia-Pacific With New Singapore Headquarters](https://mms.businesswire.com/media/20210608006043/en/883803/23/datastax-logotype-positive.jpg "DataStax Accelerates In Asia-Pacific With New Singapore Headquarters")
+
+
+[DataStax Accelerates In Asia-Pacific With New Singapore Headquarters](https://www.businesswire.com/news/home/20210608006043/en/DataStax-Accelerates-In-Asia-Pacific-With-New-Singapore-Headquarters)
+
+
+> June 08, 2021 06:00 PM Eastern Daylight Time SANTA CLARA, Calif.--(BUSINESS WIRE)--DataStax today announced it has expanded its footprint in the Asia-Pacific (APAC) market with the opening of a new office in Singapore. Establishing regional headquarters in Singapore marks a major global expansion for DataStax and comes hot on the heels of new funding from Goldman Sachs. The expansion reinforces DataStax's commitment to APAC and enables the company to meet the growing global demand for its marquee offering: Astra, an open data stack for modern data apps built on Apache Cassandra™.
+
+
+***
+![These are the best phone-based party games to play while social distancing](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/12/out-of-the-loop-android-game-of-week-hero.jpg "These are the best phone-based party games to play while social distancing")
+
+
+[These are the best phone-based party games to play while social distancing](https://www.androidcentral.com/best-social-games-party)
+
+
+> Source: Android Central Party games provide a great way for friends, new and old, to come together, share a laugh, and just have a good time. With the new reality of many of us stuck at home during the coronavirus pandemic, these games can be a distraction and a source of laughter at an otherwise serious time. Here are our favorites! And when you're ready for more Android gaming goodness, be sure to check out our list of the best Android games! Since 2013, Jackbox Games has been developing outstanding social party games that are super intuitive to play and available across a wide variety of platforms.
+
+
+***
+[Ohio's AG files lawsuit with Delaware County Court alleging that Google's search business is anticompetitive and asks court to declare Google a public utility (Jackie Borchardt/The Columbus Dispatch)](http://www.techmeme.com/210608/p38#a210608p38)
+
+
+> Jackie Borchardt / The Columbus Dispatch: Ohio's AG files lawsuit with Delaware County Court alleging that Google's search business is anticompetitive and asks court to declare Google a public utility — Ohio Attorney General Dave Yost has filed a lawsuit asking a court to declare Google a public utility that should be regulated as such.
+
+
+***
+![Mitek Systems Appoints New Board Member and Chief Financial Officer](https://mms.businesswire.com/media/20210608006128/en/883882/23/mitek-logo_0.jpg "Mitek Systems Appoints New Board Member and Chief Financial Officer")
+
+
+[Mitek Systems Appoints New Board Member and Chief Financial Officer](https://www.businesswire.com/news/home/20210608006128/en/Mitek-Systems-Appoints-New-Board-Member-and-Chief-Financial-Officer)
+
+
+> June 08, 2021 05:49 PM Eastern Daylight Time SAN DIEGO--(BUSINESS WIRE)--Mitek Systems, Inc. (NASDAQ: MITK), a global leader in mobile capture and digital identity verification solutions, today announced the appointment of Susan Repo to its board of directors and Frank Teruel to its leadership team as chief financial officer. Susan Repo, currently the chief financial officer at ICEYE, a New Space earth observation technology company enabling access to real-time imagery from space to empower better decision making in governmental and commercial industries from its own constellation of synthetic aperture radar satellites, will join Mitek's board of directors effective immediately.
+
+
