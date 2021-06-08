@@ -21004,3 +21004,50 @@
 > Bengaluru is widely known as ‘Silicon Valley of India' and Mahindra group chairman Anand Mahindra and Infosys co-founder Nandan Nilekani have found a name that could connect to the locals better. They have chosen ‘TecHalli' (halli means village in Kannada) as the new moniker for Bengaluru, a day after Mahindra asked Twitterati to suggest a new name for Bengaluru city, instead of ‘Silicon Valley of India'. Taking to Twitter on Saturday, Anand Mahindra said, 'We have a result: @NandanNilekani who agreed to be a co-judge shortlisted four entries and then we both converged on one entry from those that we thought was the most appropriate.
 
 
+***
+![What caused some of the world's biggest websites to break today?](https://static.independent.co.uk/2021/06/08/12/iStock-1219980553.jpg?width=1200&auto=webp&quality=75 "What caused some of the world's biggest websites to break today?")
+
+
+[What caused some of the world's biggest websites to break today?](https://www.independent.co.uk/life-style/gadgets-and-tech/internet-down-fastly-reddit-amazon-b1861683.html)
+
+
+> Many of the internet's largest websites, including Reddit, Twitch, Amazon, and PayPal, all experienced outages.It is unclear precisely the cause of the issue, but users are seeing an "Error 503 Service Unavailable" message when attempting to access various websites. It can be traced back to content delivery network provider Fastly, which is suffering from a similar outage.Fastly, which runs an 'edge cloud' to protect websites from denial-of-service attacks and speeds up loading times, saying that is 'investigating potential impact' on their status website at 9:58am UTC – which has taken with it many major sites including, for a short time, The Independent.
+
+
+***
+[Why is Reddit down?](https://www.thesun.ie/tech/7109738/why-is-reddit-down/)
+
+
+> MAJOR websites including Amazon, Twitter, Reddit and Spotify have gone down in a mass internet outage. Problems began around 10.30am BST (5.30am ET) on Tuesday, according to online outage tracker Down Detector. 🔵 Read our Amazon global outage live blog for live updates… Why is Reddit down? Independent outage tracker Down Detector says that tens […]
+
+
+***
+![Airbase raises $60M as the corporate spend market segments, matures – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-160770195.jpg?w=601 "Airbase raises $60M as the corporate spend market segments, matures – TechCrunch")
+
+
+[Airbase raises $60M as the corporate spend market segments, matures – TechCrunch](https://techcrunch.com/2021/06/08/airbase-raises-60m-as-the-corporate-spend-market-segments-matures/)
+
+
+> This morning Airbase, a corporate spend startup, announced that it has closed a $60 million Series B led by Menlo Ventures. The deal's announcement comes after Divvy, another corporate-spend focused startup, sold to Bill.com for several billion dollars, and other unicorns in the space like Brex and Divvy each raised nine-figure rounds. According to Airbase CEO Thejo Kote, his company's round is not a response to the Divvy sale. Instead, he told TechCrunch in an interview, his company kicked off its fundraising process before that deal was announced.
+
+
+***
+![Pachyderm Is Hiring for Product Marketing and Developer Productivity Engineers](https://www.pachyderm.com/images/default-social-image.jpg "Pachyderm Is Hiring for Product Marketing and Developer Productivity Engineers")
+
+
+[Pachyderm Is Hiring for Product Marketing and Developer Productivity Engineers](https://www.pachyderm.com/careers/)
+
+
+> Want to be a part of a passionate group of people who are on a mission to make data science explainable, repeatable and scalable? Join 'The Pach'!View Open PositionsWe genuinely care about our pach and want each member to feel known, supported and cared for. We offer a generous benefits package, flexible time off and additional perks and fun!Nurture Your CommunityEvery interaction we have with our users, customers, coworkers and fellow developers helps build our open source community. We understand that it is our responsibility to bring to it what we feel it needs and continue to nurture it and help it grow.
+
+
+***
+![Fintech all-star Nubank raises a $750M mega round – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/Nubank_HickDuarte_51567-2-min.jpg?w=600 "Fintech all-star Nubank raises a $750M mega round – TechCrunch")
+
+
+[Fintech all-star Nubank raises a $750M mega round – TechCrunch](https://techcrunch.com/2021/06/08/fintech-all-star-nubank-raises-a-750m-mega-round/)
+
+
+> In 2013, Colombian businessman David Velez decided to reinvent the Brazilian banking system. He didn't speak Portuguese, nor was he an engineer or a banker, but he did have the conviction that the system was broken and that he could fix it. And as a former Sequoia VC, he also had access to capital. His gut instinct and market analysis were right. Today, Nubank announced a $750 million extension to its Series G (which rang in at $400 million this past January), bringing the round to a total of $1.
+
+
