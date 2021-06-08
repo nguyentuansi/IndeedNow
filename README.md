@@ -20907,3 +20907,53 @@
 > sudo] пароль для dom: root@dom-HP-Pavilion-g6-Notebook-PC:/home/dom# sh /home/uld/install.sh sh: 0: Can’t open /home/uld/install.sh root@dom-HP-Pavilion-g6-Notebook-PC:/home/dom# sudo sh install.sh sh: 0: Can’t open install.sh root@dom-HP-Pavilion-g6-Notebook-PC:/home/dom# dir uld Документы Изображения Общедоступные Шаблоны Видео Загрузки Музыка Рабочий\ стол root@dom-HP-Pavilion-g6-Notebook-PC:/home/dom# sudo sh /uld/install.sh sh: 0: Can’t open /uld/install.sh root@dom-HP-Pavilion-g6-Notebook-PC:/home/dom# sudo sh uld/install.
 
 
+***
+![What happened when Donald Trump was banned on social media](https://images.indianexpress.com/2021/04/TRUMP-2.jpg "What happened when Donald Trump was banned on social media")
+
+
+[What happened when Donald Trump was banned on social media](https://www.nytimes.com/2021/06/07/technology/what-happened-when-trump-was-banned-on-social-media.html)
+
+
+> Written by Davey Alba, Ella Koeze and Jacob Silver When Facebook and Twitter barred Donald Trump from their platforms after the Capitol riot in January, he lost direct access to his most powerful megaphones. On Friday, Facebook said the former president would not be allowed back on its service until at least January 2023, citing a risk to public safety. Since his ban and President Joe Biden's inauguration, he has posted statements online far less often. But some of his statements have traveled just as far and wide on social networks.
+
+
+***
+![Siemens Energy and Mitsubishi Electric Sign MoU to Move Faster to Develop Gas Solutions With Zero Global-Warming Potential in the High-Voltage Power Transmission Industry](https://mms.businesswire.com/media/20210607005346/en/1053498/23/MELCO_logo.jpg "Siemens Energy and Mitsubishi Electric Sign MoU to Move Faster to Develop Gas Solutions With Zero Global-Warming Potential in the High-Voltage Power Transmission Industry")
+
+
+[Siemens Energy and Mitsubishi Electric Sign MoU to Move Faster to Develop Gas Solutions With Zero Global-Warming Potential in the High-Voltage Power Transmission Industry](https://www.businesswire.com/news/home/20210607005346/en/Siemens-Energy-and-Mitsubishi-Electric-Sign-MoU-to-Move-Faster-to-Develop-Gas-Solutions-With-Zero-Global-Warming-Potential-in-the-High-Voltage-Power-Transmission-Industry)
+
+
+> June 08, 2021 02:00 AM Eastern Daylight Time MUNICH & TOKYO--(BUSINESS WIRE)--On June 5 (World Environment Day*), Siemens Energy and Mitsubishi Electric signed a Memorandum of Understanding (MoU) to conduct a feasibility study on the joint development of high-voltage switching solutions with zero global-warming potential (GWP) that substitute greenhouse gases with clean air for insulation. Both companies will research methods for scaling up the application of clean-air insulation technology to higher voltages.
+
+
+***
+![Wolves Summit Announces UiPath as Ecosystem Partner, Its New Home in Wroclaw, and a New CEE Innovation Track](https://mms.businesswire.com/media/20210607005459/en/883234/23/WS_vertical_black-1.jpg "Wolves Summit Announces UiPath as Ecosystem Partner, Its New Home in Wroclaw, and a New CEE Innovation Track")
+
+
+[Wolves Summit Announces UiPath as Ecosystem Partner, Its New Home in Wroclaw, and a New CEE Innovation Track](https://www.businesswire.com/news/home/20210607005459/en/Wolves-Summit-Announces-UiPath-as-Ecosystem-Partner-Its-New-Home-in-Wroclaw-and-a-New-CEE-Innovation-Track)
+
+
+> June 08, 2021 02:00 AM Eastern Daylight Time LONDON, England & WARSAW, Poland--(BUSINESS WIRE)--Wolves Summit today announced UiPath, a leading enterprise automation software company, as an ecosystem partner at Wolves Summit on October 19th-21st. Wolves Summit will return in person this October. The 14th edition is set to become its largest event to date attracting over 5,000 participants in-person and online. The event will take place for the first time in Wroclaw, one of the top AI cities in Poland, co-organised in collaboration with Concordia Design and Made in Wroclaw.
+
+
+***
+![Nuffield Health Scales COVID-19 Rehabilitation Programme with Lumeon](https://mms.businesswire.com/media/20210607005763/en/837235/23/Lumeon-logo-HIRES.jpg "Nuffield Health Scales COVID-19 Rehabilitation Programme with Lumeon")
+
+
+[Nuffield Health Scales COVID-19 Rehabilitation Programme with Lumeon](https://www.businesswire.com/news/home/20210607005763/en/Nuffield-Health-Scales-COVID-19-Rehabilitation-Programme-with-Lumeon)
+
+
+> June 08, 2021 02:00 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Lumeon, the care journey orchestration leader, today announced that it is enabling Nuffield Health's COVID-19 Rehabilitation Programme, the UK's first specialist programme to support patients recovering from the effects of long COVID. Integration with Lumeon's Care Journey Orchestration platform has allowed Nuffield Health to scale the programme across 40 regional centres to date. COVID-19 patients are often discharged from the hospital with no formal recovery plan, resulting in a longer recovery process and prolonged side effects.
+
+
+***
+![TCS to Enrich London Marathon Experience Through Technology as New Title Partner](https://mms.businesswire.com/media/20210607005813/en/883353/23/TCSLogo2.jpg "TCS to Enrich London Marathon Experience Through Technology as New Title Partner")
+
+
+[TCS to Enrich London Marathon Experience Through Technology as New Title Partner](https://www.businesswire.com/news/home/20210607005813/en/TCS-to-Enrich-London-Marathon-Experience-Through-Technology-as-New-Title-Partner)
+
+
+> June 08, 2021 02:00 AM Eastern Daylight Time LONDON & MUMBAI, India--(BUSINESS WIRE)--Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, announced that it will become the title partner of the London Marathon from 2022, following this year's race on October 3. Building on its success as the technology partner since 2016, TCS will continue to partner with the London Marathon in the innovative use of technology to further enhance the marathon experience and promote a healthy lifestyle.
+
+
