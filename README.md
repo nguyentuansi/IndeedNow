@@ -21195,3 +21195,47 @@
 > If you are looking for results to kick off the 2021 World Pool Championship Live Stream in Milton Keynes, Free to watch guide from England. The post 3 Facts: 'World Pool Championship 2021' Streaming! How to Watch Live Free? appeared first on Film Daily.
 
 
+***
+!['The Hunger' Card Game is a New Deckbuilder from Richard Garfield](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/The%20Hunger%20Richard%20Garfield%20Deckbuilder%20cover.jpg?itok=mhmM0iv9 "'The Hunger' Card Game is a New Deckbuilder from Richard Garfield")
+
+
+['The Hunger' Card Game is a New Deckbuilder from Richard Garfield](https://techraptor.net/tabletop/news/hunger-card-game-is-new-deckbuilder-from-richard-garfield)
+
+
+> 06/08/2021 - 16:04 | By: Robert N. Adams If you're looking for a good Richard Garfield deckbuilder, a brand-new option has just been revealed — The Hunger card game is a new tabletop game where vampires have a single night to hunt humans before the sun rises. In The Hunger, each player must race to build and optimize their deck within a time limit. The vampire players have to hunt humans, complete secret missions, and ultimately acquire a rose before the sun comes up. Deckbuilders tend to be inherently self-balancing — adding more cards to your deck also means that you need more turns to draw cards, simultaneously increasing your options and reducing the likelihood of getting a particular card.
+
+
+***
+[Mypy 0.900 Released](https://www.reddit.com/r/Python/comments/nvcy4y/mypy_0900_released/)
+
+
+> This release contains a breaking change: Third party library stubs that were shipped with Mypy now have to be installed from PyPI. From the post:Mypy now only ships with type stubs for stdlib modules (plus typing_extensions and mypy_extensions). If you use third-party libraries that don't include stubs or inline type annotations, you can explicitly install stub packages, usually called types- .For example, if you use requests, you can install stubs like this:python3 -m pip install types-requests
+
+
+***
+[Apple Music debuts Spatial Audio and Lossless Audio and adds Spatial Audio playlists, says Spatial Audio support is "coming soon" for Android devices (Sarah Perez/TechCrunch)](http://www.techmeme.com/210608/p34#a210608p34)
+
+
+> Sarah Perez / TechCrunch: Apple Music debuts Spatial Audio and Lossless Audio and adds Spatial Audio playlists, says Spatial Audio support is “coming soon” for Android devices — Last month, Apple announced it would soon add lossless audio streaming and Spatial Audio with support for Dolby Atmos to its Apple Music subscription at no extra charge.
+
+
+***
+![A landslide caused by logging... Korea Forest Service blames heavy rain](https://img.sbs.co.kr/newimg/news/20210607/201558754_1280.jpg "A landslide caused by logging... Korea Forest Service blames heavy rain")
+
+
+[A landslide caused by logging... Korea Forest Service blames heavy rain](https://www.tellerreport.com/tech/2021-06-08-a-landslide-caused-by-logging----korea-forest-service-blames-heavy-rain.HyeCwnr69_.html)
+
+
+> Another concern is landslides when a lot of trees are cut down on a mountain. The fewer trees in the mountains, the greater the risk of landslides during torrential rain. This is something everyone learns from a young age, but the Korea Forest Service does not specifically look at how logging affects landslides. If a lot of trees are cut down on a mountain, another concern is landslides. The fewer trees in the mountains, the greater the risk of landslides during torrential rain. This is something everyone learns from a young age, but the Korea Forest Service does not specifically look at how logging affects landslides.
+
+
+***
+![Rogozin hopes that NASA will determine its position on the dialogue with Russia](https://russian.rt.com/static/blocks/og-img/pl-17.jpg "Rogozin hopes that NASA will determine its position on the dialogue with Russia")
+
+
+[Rogozin hopes that NASA will determine its position on the dialogue with Russia](https://www.tellerreport.com/tech/2021-06-08-rogozin-hopes-that-nasa-will-determine-its-position-on-the-dialogue-with-russia.HJeMv3Hp5d.html)
+
+
+> Tech/Game 2021-06-08T14:07:10.503Z Airplane Junkers Junior: Nothing easier than that Tech/Game 2021-06-08T09:56:47.522Z Prosecutors indict Yang Hyun-suk for refusing to investigate 'BI drug' Tech/Game 2021-06-08T04:02:54.781Z Four very good scary series this year Tech/Game 2021-06-08T01:02:49.418Z Starting today, the 60-64 year old vaccinated... "Proof of vaccination with a sticker" Tech/Game 2021-06-08T08:57:59.751Z New European copyright law comes into effect: this is changing Tech/Game 2021-06-08T04:01:02.
+
+
