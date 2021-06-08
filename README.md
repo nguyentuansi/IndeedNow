@@ -21148,3 +21148,50 @@
 > Apple is extending support for spatial audio to macOS and tvOS. The feature will work with the company's high-end AirPods Pro and AirPods Max, using the devices' built-in accelerometers and gyroscopes to create a 3D audio effect that tracks the listener's head movements. Apple initially announced spatial audio for the AirPods Pro last year and impressed us with the feature's immersive quality. At this year's WWDC, the company extended support for spatial audio to Apple Music and FaceTime calls. According to a press release from Apple, spatial audio for macOS will only work with the AirPods Pro and Max on Macs with the company's latest M1 chip and the macOS Monterey operating system.
 
 
+***
+![Release 1.1.5 · rustdesk/rustdesk](https://external-preview.redd.it/MTQRabeTCqZQbUm8IfIbwCwlIdCYL4vq8e3wjW1SLcg.jpg?auto=webp&s=00f43ac86a38ad5ff21492e57bd90c4eeb56f29a "Release 1.1.5 · rustdesk/rustdesk")
+
+
+[Release 1.1.5 · rustdesk/rustdesk](https://www.reddit.com/r/programming/comments/nvau70/release_115_rustdeskrustdesk_an_opensource_remote/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Best cheap Chromebook deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/hp-chromebook-x360-12-inch-hd-touchscreen-laptop-1.jpg "Best cheap Chromebook deals for June 2021")
+
+
+[Best cheap Chromebook deals for June 2021](https://www.digitaltrends.com/computing/cheap-chromebook-deals/)
+
+
+> Chromebooks are hardly a new thing in 2021, but it was only recently that these unique Chrome OS-powered laptops truly came into their own thanks to the sudden surge in people working and studying remotely last year. It's no huge mystery why they became so popular all of a sudden: Chromebooks are highly affordable in contrast to Windows laptops and MacBooks, while their cloud-based Chrome OS software is purpose-made for remote work and group projects. Today's Chromebooks cover a wide spectrum of prices and features, though, so to help you find your perfect Chrome OS laptop at the perfect price, we've gathered up all the best cheap Chromebook deals of the week right here.
+
+
+***
+![Amid controversy, Dispo confirms Series A funding, high-profile advisors, and investors – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/dispo.jpeg?w=596 "Amid controversy, Dispo confirms Series A funding, high-profile advisors, and investors – TechCrunch")
+
+
+[Amid controversy, Dispo confirms Series A funding, high-profile advisors, and investors – TechCrunch](https://techcrunch.com/2021/06/08/amid-controversy-dispo-confirms-series-a-funding-high-profile-advisors-and-investors/)
+
+
+> It's only been nine months since Dispo rebranded from David's Disposables. But the vintage-inspired photo sharing app has experienced a whiplash of ups and downs, mostly due to the brand's original namesake, YouTuber David Dobrik. Like Clubhouse, Dispo was one of this year's most hyped up new social apps, requiring an invite from an existing member to join. On March 9, when the company said 'goodbye waitlist' and opened the app up to any iOS user, Dispo looked poised to be a worthy competitor to photo-sharing behemoths like Instagram.
+
+
+***
+![Best cheap camera deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/nikon-d850-review-15.jpg "Best cheap camera deals for June 2021")
+
+
+[Best cheap camera deals for June 2021](https://www.digitaltrends.com/dtdeals/best-camera-deals/)
+
+
+> Smartphone cameras are shockingly good, but they still can't measure up to proper digital cameras. Professionals and hobbyists alike still use full-size mirrorless and DSLR cameras, and they've only gotten better in recent years thanks to new technologies like Full HD and 4K video recording capabilities and Wi-Fi and Bluetooth connectivity now standard even on entry-level models. To save you the hassle of hunting around for them, we've smoked out the best cheap camera deals and bundles right here.
+
+
+***
+[3 Facts: 'World Pool Championship 2021' Streaming! How to Watch Live Free?](https://filmdaily.co/tech/facts-world-pool-championship-streaming-how-to-watch-live-free/)
+
+
+> If you are looking for results to kick off the 2021 World Pool Championship Live Stream in Milton Keynes, Free to watch guide from England. The post 3 Facts: 'World Pool Championship 2021' Streaming! How to Watch Live Free? appeared first on Film Daily.
+
+
