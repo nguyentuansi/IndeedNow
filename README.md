@@ -20957,3 +20957,50 @@
 > June 08, 2021 02:00 AM Eastern Daylight Time LONDON & MUMBAI, India--(BUSINESS WIRE)--Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, announced that it will become the title partner of the London Marathon from 2022, following this year's race on October 3. Building on its success as the technology partner since 2016, TCS will continue to partner with the London Marathon in the innovative use of technology to further enhance the marathon experience and promote a healthy lifestyle.
 
 
+***
+![How TCS is going the extra mile in the UK](https://cdn.mos.cms.futurecdn.net/6ZDH2so7YqDKqQDBsiEU2K-1200-80.jpg "How TCS is going the extra mile in the UK")
+
+
+[How TCS is going the extra mile in the UK](https://www.techradar.com/news/how-tcs-is-going-the-extra-mile-in-the-uk)
+
+
+> (Image credit: TCS) It's fair to say that the last year or so has been like nothing any of us had ever expected, with huge changes affecting everyone in both their work and personal lives.A lack of community contact has been one of the most difficult aspects for many people, with lockdown and shielding affecting millions across the country. But it's important to remember that our communities are still an important part of who we are, and that we all have a role to play in supporting them.This responsibility extends to the businesses in the community, and TCS has been at the forefront of efforts to try to support and give back to the communities it operates in during this most difficult of times.
+
+
+***
+![Edge of Eternity Review](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/EE%20%231.jpg?itok=c664yWai "Edge of Eternity Review")
+
+
+[Edge of Eternity Review](https://techraptor.net/gaming/reviews/edge-of-eternity-review)
+
+
+> 06/08/2021 - 04:00 | By: Will Quick Home Gaming Game Reviews Edge of Eternity Review Sci-Fi Fantasy With Some Edge It's thanks to series like Final Fantasy that we have such hard to discern time periods. When you have characters wearing medieval armor and using medieval weapons while flying on a spaceship, you can't really tell where things fall on the timeline. The strange thing is that this combination is something that's rarely addressed in the game's story. It gives us something to wonder and marvel at as we play and that's something that Midgar Studio hopes to capture.
+
+
+***
+![Mixup](https://external-preview.redd.it/gp-TZ-FzcMjzHptD3lF6RmGh8YzeO7qPo_D5hTJ-pV8.jpg?auto=webp&s=a137b312d898aca4e69d955a6b10c1555f71025a "Mixup")
+
+
+[Mixup](https://www.reddit.com/r/Python/comments/nuzi39/mixup_enhancing_image_classification_in_pytorch/)
+
+
+> Hey Guys! I recently am inspired by the paper mixup on network classification, and decided to write a PyTorch implementation of the mixup on image classification. Feel free to check it out:https://taying-cheng.medium.com/enhancing-neural-networks-with-mixup-in-pytorch-5129d261bc4a
+
+
+***
+[R100 000 up for grabs in The SA Innovation Summit's AYO Scaling Africa Investment Challenge](https://www.iol.co.za/technology/software-and-internet/r100-000-up-for-grabs-in-the-sa-innovation-summits-ayo-scaling-africa-investment-challenge-a2c378a9-0ed0-4788-b8ab-8f295f1ce8e7)
+
+
+> Africa's largest start-up event, The SA Innovation Summit, has announced that it will extend the closing of entries to the AYO Scaling Africa Investment competition.The SA Innovation Summit and JSE-listed ICT investment Group, AYO Technology Solutions (AYO) have created a funding-securement challenge in a bid to further escalate the continent's adoption of the Fourth Industrial Revolution. This year's theme is 'Expanding Horizons'.The series aims to open doors to new and forward-thinking innovators and companies to find solutions to the continent's problems.
+
+
+***
+![‘TecHalli' better moniker for ‘Silicon Valley of India'? Bengalureans give a thumbs-up](https://images.indianexpress.com/2020/11/Bengaluru-Rain.jpeg "‘TecHalli' better moniker for ‘Silicon Valley of India'? Bengalureans give a thumbs-up")
+
+
+[‘TecHalli' better moniker for ‘Silicon Valley of India'? Bengalureans give a thumbs-up](https://indianexpress.com/article/cities/bangalore/techalli-better-moniker-for-silicon-valley-of-india-bengalureans-give-a-thumbs-up-7349341/)
+
+
+> Bengaluru is widely known as ‘Silicon Valley of India' and Mahindra group chairman Anand Mahindra and Infosys co-founder Nandan Nilekani have found a name that could connect to the locals better. They have chosen ‘TecHalli' (halli means village in Kannada) as the new moniker for Bengaluru, a day after Mahindra asked Twitterati to suggest a new name for Bengaluru city, instead of ‘Silicon Valley of India'. Taking to Twitter on Saturday, Anand Mahindra said, 'We have a result: @NandanNilekani who agreed to be a co-judge shortlisted four entries and then we both converged on one entry from those that we thought was the most appropriate.
+
+
