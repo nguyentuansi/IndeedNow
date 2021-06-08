@@ -21051,3 +21051,53 @@
 > In 2013, Colombian businessman David Velez decided to reinvent the Brazilian banking system. He didn't speak Portuguese, nor was he an engineer or a banker, but he did have the conviction that the system was broken and that he could fix it. And as a former Sequoia VC, he also had access to capital. His gut instinct and market analysis were right. Today, Nubank announced a $750 million extension to its Series G (which rang in at $400 million this past January), bringing the round to a total of $1.
 
 
+***
+![Apple Previews TV+ Shows Coming in Summer 2021 and Beyond, Including Second Season of Ted Lasso](https://images.macrumors.com/t/IAIp-IyLacy9ht8BxeE2XH5QAf8=/1600x/https://images.macrumors.com/article-new/2021/06/apple-tv-plus-summer-2021-trailer.jpeg "Apple Previews TV+ Shows Coming in Summer 2021 and Beyond, Including Second Season of Ted Lasso")
+
+
+[Apple Previews TV+ Shows Coming in Summer 2021 and Beyond, Including Second Season of Ted Lasso](https://www.macrumors.com/2021/06/08/apple-tv-plus-summer-2021-trailer/)
+
+
+> Monday June 7, 2021 10:07 am PDT by Hartley CharltonApple today previewed iOS 15, the company's next major update for the iPhone, featuring new video calling capabilities, improvements to Messages, user statuses, a smart notification summary, and more.FaceTimeIn iOS 15, FaceTime features a new grid view and portrait mode support for video. For audio, FaceTime calls now offer Spatial Audio so that voices sound as if they are coming from...
+
+
+***
+![Wix partners with Stripe, HP on complete POS](https://cdn.mos.cms.futurecdn.net/LrFkhLX9fYy4sbgiE2BpWT-1200-80.jpg "Wix partners with Stripe, HP on complete POS")
+
+
+[Wix partners with Stripe, HP on complete POS](https://www.techradar.com/news/wix-is-working-with-stripe-and-hp-to-deliver-a-complete-commerce-solution)
+
+
+> (Image credit: Unsplash, rupixen.com) Wix is partnering with Stripe and HP to help deliver an improved end-to-end commerce solution.Wix POS solutions looks to help meet the growing demand for online business systems, allowing business owners to accept secure in-person payments for goods and services in physical stores -But the new platform will also cover ecommerce sales as well as managing inventory and sales data, all from within one system, based on the Wix platform.Wix has benefitted from  the global shift to online shopping, saying that businesses using its e-commerce products grew by over 45% between March 2020 and March 2021.
+
+
+***
+![Tech giants set to slash UK tax bill after G7 agreement](https://www.cityam.com/wp-content/uploads/2020/08/936824284.jpg "Tech giants set to slash UK tax bill after G7 agreement")
+
+
+[Tech giants set to slash UK tax bill after G7 agreement](https://www.cityam.com/tech-giants-set-to-slash-uk-tax-bill-after-g7-agreement/)
+
+
+> American tech giants are set to have their UK tax bills slashed under a new global agreement signed by the G7, a think tank has warned. The global minimum corporation tax, agreed by finance ministers in London over the weekend, is aimed at cracking down on tax avoidance by companies such as Amazon, Facebook and Google. Also Read: G7 leaders ink landmark global tech tax agreement But while the new framework will likely lead to an increased overall tax bill for these tech giants, it is the US that stands to gain rather than the UK.
+
+
+***
+![Ratchet & Clank: Rift Apart Review](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Ratchet%20%26%20Clank%20Rift%20Apart%20Ratchet_0.jpg?itok=LMfYM3gE "Ratchet & Clank: Rift Apart Review")
+
+
+[Ratchet & Clank: Rift Apart Review](https://techraptor.net/gaming/reviews/ratchet-clank-rift-apart-review)
+
+
+> Mix in deadly weapons, a hearty dose of nostalgia, and a charming world, and you have Ratchet & Clank: Rift Apart. This game fills you with the same sense of wonder and charm that the original PS2 games had, while also revolutionizing the series for the current generation. Many classic franchises, like Kingdom Hearts and Shenmue, have failed to live up to their fans' expectations, but Ratchet & Clank: Rift Apart is a masterclass on how to stay true to the franchise while innovating at the same time.
+
+
+***
+![Trace Matters Successfully Demonstrates Proof-of-Principle for SPion™ Technology in Collaboration With Thermo Fisher Scientific](https://mms.businesswire.com/media/20210608005050/en/883110/23/Trace_Matters_Logo.jpg "Trace Matters Successfully Demonstrates Proof-of-Principle for SPion™ Technology in Collaboration With Thermo Fisher Scientific")
+
+
+[Trace Matters Successfully Demonstrates Proof-of-Principle for SPion™ Technology in Collaboration With Thermo Fisher Scientific](https://www.businesswire.com/news/home/20210608005050/en/Trace-Matters-Successfully-Demonstrates-Proof-of-Principle-for-SPion%E2%84%A2-Technology-in-Collaboration-With-Thermo-Fisher-Scientific)
+
+
+> SOMERVILLE, Mass.--(BUSINESS WIRE)--Trace Matters Scientific in collaboration with Thermo Fisher Scientific successfully demonstrated the proof-of-principle for SPionTM Technology for mass spectrometry. For the experiments conducted at Thermo Fisher's San Jose office, SPionTM Technology was coupled to Thermo Fisher's TSQ AltisTM Triple Quadrupole Mass Spectrometer, one of the world's most sensitive mass spectrometers in the market. The experimental results acquired using standard calibration solutions confirmed that SPion™ delivers excellent analytical performance, and can efficiently transfer ions in both positive and negative mode in a wide mass range.
+
+
