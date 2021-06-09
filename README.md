@@ -21336,3 +21336,53 @@
 > The new Nvidia GeForce RTX 3070 Ti is set to release on June 10. As this graphics card is the successor to the RTX 3070, it has been the subject of a lot of speculation as to how much better the Ti model is going to be. Thanks to benchmark leaks on the Chinese video portal Bilibili, we now have a better idea of the future performance of the RTX 3070 Ti. Compared to its predecessor, the new card has shown quite a lot of promise in testing. Two benchmark results have leaked, each coming from different sources and pertaining to different models of the card.
 
 
+***
+![AI search framework to search anything](https://external-preview.redd.it/-Gqkn0oynN47DnWAhjFOgcLQ_DNaBxZ1HvqMCnYl6Qs.jpg?auto=webp&s=cd2e63dadee37edb122e0516c362b8ce99643a25 "AI search framework to search anything")
+
+
+[AI search framework to search anything](https://www.reddit.com/r/programming/comments/nvl8d2/ai_search_framework_to_search_anything_text_image/)
+
+
+> Seeking feedback on improving readme.Background: We changed the `Readme.md` content for pre-2.0 release and this has decreased the # of people using the project. Can you help me learn what am I not doing right and how can I improve it?Here's an alternate version of the readme, which one do you prefer
+
+
+***
+![Digital Mindfulness: Immersive Technology To Help Open Your Eyes](https://goodmenproject.com/wp-content/uploads/2021/06/shutterstock_613148774-scaled-e1623162460496.jpg "Digital Mindfulness: Immersive Technology To Help Open Your Eyes")
+
+
+[Digital Mindfulness: Immersive Technology To Help Open Your Eyes](https://goodmenproject.com/technology/digital-mindfulness-immersive-technology-to-help-open-your-eyes/)
+
+
+> — Mindfulness, described as an awareness that emerges through paying attention on purpose, is the key to opening your eyes to the world around you. As a practice that is proven to increase sleep quality, mental health, and symptoms of chronic pain, there has never been a better time to inject some calm into your daily routine post-pandemic. From remote workers to those of us still feeling anxious in the wake of Covid-19, mindfulness is a great way to aid the return to normal life. Studies have shown that those of us who practice at least one form of mindfulness a day have improved cognitive abilities, a wider attention span, and a more positive outlook on the world around them.
+
+
+***
+![Twitter's Art Decider will no longer decide what is art](https://mondrian.mashable.com/2021%252F06%252F09%252F4f%252F068f12123d5e47e190a940ff57832416.d2761.png%252F1200x630.png?signature=A0vZ5b3zYremBWiWRe0o184_CNE= "Twitter's Art Decider will no longer decide what is art")
+
+
+[Twitter's Art Decider will no longer decide what is art](https://mashable.com/article/art-decider-twitter-end/)
+
+
+> Art Decider has finally decided its art is at an end. Announced in a tweet on Tuesday, the beloved novelty account has decided it will no longer arbitrate what is and is not art on Twitter, leaving it to the huddled masses to discern meaning for themselves. "I've decided that The Art Decider will end today," wrote Art Decider, which is run by New York actor and writer Michael Tannenbaum. "I see this as a happy occasion since I'm able to end this project on my own terms." Active for over half a decade, Art Decider was a Twitter account with one simple premise: Decide whether something was "art," or "not art.
+
+
+***
+![Any here subscribe to the FIRE mentality?](https://images.macrumors.com/social/?t=2299992&v=6 "Any here subscribe to the FIRE mentality?")
+
+
+[Any here subscribe to the FIRE mentality?](https://forums.macrumors.com/threads/any-here-subscribe-to-the-fire-mentality.2299992/)
+
+
+> Jul 17, 2005 18,484 2,939 5045 feet above sea level Who else here is shooting for FIRE? What is your date and how do you plan to get there? My wife and I, with the recent addition of our little one, have changed our perspective and desire to spend as much time with her vs a "job" We are shooting for 2030 and our FIRE # is 2.5 mill
+
+
+***
+![[图]Windows 10迎来六月累积更新：修复49个漏洞](https://static.cnbetacdn.com/thumb/article/2021/0609/3c7e0b79781243f.jpg "[图]Windows 10迎来六月累积更新：修复49个漏洞")
+
+
+[[图]Windows 10迎来六月累积更新：修复49个漏洞](http://www.cnbeta.com/articles/tech/1138427.htm)
+
+
+> 在本月补丁星期二活动日中，微软也发布了多个累积更新，包括 version 1909 (KB5003635), version 1809 (KB5003646), version 1607 (KB5003638) 和 version 1507 (KB5003687)。本月累积更新主要修复了 49 个漏洞，其中 6 个是零日漏洞，意味着有可能已经被黑客利用。适用于 Windows 10 Version 1909 功能更新的 KB5003635 累积更新主要亮点包括● 在Windows 执行基础操作的时候提高安全性● 改善 Windows OLE（复合文档）安全性。● 用于验证用户名和密码的更新● 存储和管理文件的更新● 提高使用鼠标、键盘或笔等输入设备时的安全性的更新。● 修复在2021年5月11日或更高版本的更新并重新启动设备后，可能会阻止你登录到一些Microsoft 365桌面客户端应用程序的问题● 修复了一个在Windows Update期间不一致的关机问题，该问题损害了Windows Management Instrumentation（WMI）存储库。因此，管理对象格式（MOF
+
+
