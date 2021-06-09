@@ -21286,3 +21286,53 @@
 > June 08, 2021 05:49 PM Eastern Daylight Time SAN DIEGO--(BUSINESS WIRE)--Mitek Systems, Inc. (NASDAQ: MITK), a global leader in mobile capture and digital identity verification solutions, today announced the appointment of Susan Repo to its board of directors and Frank Teruel to its leadership team as chief financial officer. Susan Repo, currently the chief financial officer at ICEYE, a New Space earth observation technology company enabling access to real-time imagery from space to empower better decision making in governmental and commercial industries from its own constellation of synthetic aperture radar satellites, will join Mitek's board of directors effective immediately.
 
 
+***
+![Apple's AirPods Max headphones just got a new firmware update](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/airpods-max-side.jpg "Apple's AirPods Max headphones just got a new firmware update")
+
+
+[Apple's AirPods Max headphones just got a new firmware update](https://www.imore.com/apples-airpods-max-headphones-just-got-new-firmware-update)
+
+
+> Source: Christine Romero-Chan / iMore Apple has released a new firmware update for its AirPods Max wireless headphones. Firmware update 3E756 is the third firmware update that company has released for the headphones. Apple has released a new firmware update for its AirPods Max wireless over-ear headphones. As reported by MacRumors, the update, titled version 3E756, is the third firmware update that the headphones have received since they launched back in December of 2020. Apple doesn't provide any release notes for firmware updates so it's unknown what exactly the update addresses.
+
+
+***
+![Senate approves $250B bill to boost US technology manufacturing](https://photos5.appleinsider.com/gallery/42515-82485-38032-71968-201001-Congress-xl-xl.jpg "Senate approves $250B bill to boost US technology manufacturing")
+
+
+[Senate approves $250B bill to boost US technology manufacturing](https://appleinsider.com/articles/21/06/09/senate-approves-250b-bill-to-boost-us-technology-manufacturing)
+
+
+> The U.S. Senate has approved a major bipartisan industrial bill to boost the country's technology manufacturing and increase competitiveness with China, with some funds going toward computer chip production. The $250 billion bill, the U.S. Innovation and Competition Act, passed 68-32 on Tuesday. In its current form, it provides $52 billion for domestic semiconductor manufacturing, a 30% funding boost for the National Science Foundation, and $29 billion to fund a new applied sciences directorate, The Wall Street Journal reported Tuesday.
+
+
+***
+![Javier Fesser premieres in theaters 'Lamentable Stories' and confirms three remakes of 'Champions'](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/06/06/16229803762158.jpg "Javier Fesser premieres in theaters 'Lamentable Stories' and confirms three remakes of 'Champions'")
+
+
+[Javier Fesser premieres in theaters 'Lamentable Stories' and confirms three remakes of 'Champions'](https://www.tellerreport.com/tech/2021-06-09-javier-fesser-premieres-in-theaters--lamentable-stories--and-confirms-three-remakes-of--champions-.rylYOwKT9O.html)
+
+
+> The comedy Lamentable Stories hits theaters on June 11. Specifically, to the Kinépolis rooms in Madrid, Barcelona, ​​Valencia, Alicante and Granada, and, in Zaragoza, in the Pal Fear: the new Warren File brings more terror to theaters Calendar Loki, Elite, Lupine and other series that will be talked about in June The comedy Lamentable Stories hits theaters on June 11 . Specifically, at the Kinépolis rooms in Madrid, Barcelona, ​​Valencia, Alicante and Granada, and, in Zaragoza, at the Palafox. According to Javier Fesser (Madrid, 1964), it is a joy to be able to fulfill "the promise we made to bring it to theaters after doing it before on a payment platform".
+
+
+***
+![Ted Lasso himself says there could be a fourth season on the way](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/ted_lasso_photo_011009.jpg "Ted Lasso himself says there could be a fourth season on the way")
+
+
+[Ted Lasso himself says there could be a fourth season on the way](https://www.imore.com/ted-lasso-himself-says-there-could-be-fourth-season-way)
+
+
+> Source: Apple TV+ "Ted Lasso" could have a fourth season after all. Jason Sudeikis hinted at the idea during a recent interview. In a recent interview with Entertainment Weekly, "Ted Lasso" star Jason Sudeikis hinted that the beloved comedy series could get a fourth season. The actor joked that it could be possible due to the "iMoney truck" that is Apple TV+. Sudeikis also offers a glimmer of hope that he might continue the show after Apple inevitably backs the money truck up to his door. "It's called the iMoney truck," the actor says with a laugh.
+
+
+***
+![Leaks show Nvidia RTX 3070 Ti is up to 10% faster than RTX 3070](https://icdn.digitaltrends.com/image/digitaltrends/geforce-3070-ti-gpu-gf-article-og.jpg "Leaks show Nvidia RTX 3070 Ti is up to 10% faster than RTX 3070")
+
+
+[Leaks show Nvidia RTX 3070 Ti is up to 10% faster than RTX 3070](https://www.digitaltrends.com/computing/nvidia-geforce-rtx-3070-ti-benchmarks-leaked/)
+
+
+> The new Nvidia GeForce RTX 3070 Ti is set to release on June 10. As this graphics card is the successor to the RTX 3070, it has been the subject of a lot of speculation as to how much better the Ti model is going to be. Thanks to benchmark leaks on the Chinese video portal Bilibili, we now have a better idea of the future performance of the RTX 3070 Ti. Compared to its predecessor, the new card has shown quite a lot of promise in testing. Two benchmark results have leaked, each coming from different sources and pertaining to different models of the card.
+
+
