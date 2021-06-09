@@ -21671,3 +21671,50 @@
 > NEW YORK – The Associated Press' recent firing of a young reporter for what she said on Twitter has somewhat unexpectedly turned company and industry attention to the flip side of social media engagement — the online abuse that many journalists face routinely.During internal meetings after the Arizona-based reporter, Emily Wilder, was let go, several journalists expressed concern over whether the AP would have the backs of employees under attack from the outside.'The Emily Wilder situation triggered this for many people on the staff,' Jenna Fryer, an AP sportswriter who spoke at one of the meetings, said in a subsequent interview.
 
 
+***
+![Friday Night Funkin' Joins the Binding of Isaac Requiem](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/BindingofIsaacFNF.jpg?itok=9FPiD7Q8 "Friday Night Funkin' Joins the Binding of Isaac Requiem")
+
+
+[Friday Night Funkin' Joins the Binding of Isaac Requiem](https://techraptor.net/tabletop/news/friday-night-funkin-joins-binding-of-isaac-requiem)
+
+
+> 06/09/2021 - 12:20 | By: Brian Renadette As part of his social media campaign for The Binding of Isaac: Requiem, Edmund McMillen has been releasing new cards that bring various other indie darlings into the game. The most recent of these cards adds the Boyfriend and Girlfriend from Friday Night Funkin' to the game. The Binding of Isaac: Requiem is an expansion to the Binding of Isaac: Four Souls, which will add plenty of new features to the cooperative/competitive card game. One of the features touted on the Kickstarter page are "Warp Zone" cards.
+
+
+***
+![Live Text and other macOS Monterey features not coming to Intel Macs](https://cdn.cultofmac.com/wp-content/uploads/2021/06/macOS-Monterey-1.jpg "Live Text and other macOS Monterey features not coming to Intel Macs")
+
+
+[Live Text and other macOS Monterey features not coming to Intel Macs](https://www.cultofmac.com/?p=744724)
+
+
+> Not good news for Intel Mac users.Photo: AppleMany of macOS Monterey's most exciting new features will not be available on Mac models powered by Intel processors. Live Text, Portrait mode for FaceTime video calls and more all require Apple's own M1 chip.There are many reasons to upgrade to a new Mac with an M1 chip. The performance boost. The silent operation. The insanely good battery life. Right now, however, macOS is the same on both M1 and Intel machines.That's going to change this fall when macOS Monterey rolls out to everyone.
+
+
+***
+[Samsung Canada offering free Galaxy Buds with select phones for Father's Day](https://mobilesyrup.com/2021/06/09/samsung-canada-offering-free-galaxy-buds-with-select-phones-for-fathers-day/)
+
+
+> Samsung Canada is currently holding a Father's Day promotion with free Galaxy Galaxy Buds Live and Galaxy Buds Pro with the purchase of several of its high-end devices. Check out the promotion below: Galaxy S21 Ultra 5G: From $40.97/month with free Galaxy Buds Live Galaxy S21+ 5G: From $34.44/month with free Galaxy Buds Live Galaxy... The post Samsung Canada offering free Galaxy Buds with select phones for Father’s Day appeared first on MobileSyrup.
+
+
+***
+![MEDITECH supports patient sharing of Apple Health app data with providers in iOS 15](https://mms.businesswire.com/media/20210609005714/en/715962/23/MEDITECH_Logo_%281%29.jpg "MEDITECH supports patient sharing of Apple Health app data with providers in iOS 15")
+
+
+[MEDITECH supports patient sharing of Apple Health app data with providers in iOS 15](https://www.businesswire.com/news/home/20210609005714/en/MEDITECH-supports-patient-sharing-of-Apple-Health-app-data-with-providers-in-iOS-15)
+
+
+> June 09, 2021 12:13 PM Eastern Daylight Time WESTWOOD, Mass.--(BUSINESS WIRE)--MEDITECH today announced that with iOS 15's availability this fall, their healthcare customers in the U.S. can offer patients the option to share records and other health information stored in the Apple Health app directly with their care providers. This new feature builds on Health Records on iPhone, which creates a direct connection between healthcare organizations and a patient's iPhone. Patients can see a central view of their allergies, conditions, immunizations, lab results, medications, procedures, and vitals directly within the Health app.
+
+
+***
+![Nextiva and Five9 Team Up to Help Businesses Deliver Seamless Customer Communications](https://mms.businesswire.com/media/20210609005705/en/884025/23/nextiva_logo_rgb.jpg "Nextiva and Five9 Team Up to Help Businesses Deliver Seamless Customer Communications")
+
+
+[Nextiva and Five9 Team Up to Help Businesses Deliver Seamless Customer Communications](https://www.businesswire.com/news/home/20210609005705/en/Nextiva-and-Five9-Team-Up-to-Help-Businesses-Deliver-Seamless-Customer-Communications)
+
+
+> June 09, 2021 12:04 PM Eastern Daylight Time SCOTTSDALE, Ariz.--(BUSINESS WIRE)--Nextiva, a cloud communications company, announced today its partnership with Five9, Inc. (NASDAQ: FIVN), a leading provider of the intelligent contact center, to deliver a new integrated Unified Communications and Cloud Contact Center offering. The joint offering will help organizations engage with customers, connect team conversations, and empower contact center agents with streamlined workflows so they can deliver outstanding customer experiences.
+
+
