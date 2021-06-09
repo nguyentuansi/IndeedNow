@@ -21433,3 +21433,50 @@
 > Hello all,I'm trying to find the channels on Discord in which members of SIGGRAPH post topics, chat, collaborate, respond, and who's hosting.
 
 
+***
+![Google loosens its search engine grip on Android devices in Europe](https://www.thehindu.com/sci-tech/technology/xygpp3/article34766472.ece/ALTERNATES/LANDSCAPE_615/hbjhbjpg "Google loosens its search engine grip on Android devices in Europe")
+
+
+[Google loosens its search engine grip on Android devices in Europe](https://www.thehindu.com/sci-tech/technology/google-loosens-its-search-engine-grip-on-android-devices-in-europe/article34766345.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)Google has bowed to pressure from rivals and will let them compete for free to be the default search engines on Android devices in Europe,widening a pledge to EU antitrust regulators two years ago.The move by the world's most popular internet search engine comes as the 27-country bloc considers rules that could be introduced next year to force Google, Amazon, Apple and Facebook to ensure a level playing field for competitors.
+
+
+***
+[Long wait ends! OnePlus Nord CE 5G India launch TOMORROW in LIVE event-check expected price, battery, cameras, FULL specs](https://www.zeebiz.com/technology/mobiles/news-long-wait-ends-oneplus-nord-ce-5g-india-launch-tomorrow-in-live-event-check-expected-price-battery-cameras-full-specs-158260)
+
+
+> OnePlus Nord CE 5G India launch: The launch of the much-awaited OnePlus Nord CE 5G in India is around the corner. The smartphone brand OnePlus will launch its next mid-range smartphone under the Nord series - Nord CE 5G in the country on June 10  2021 at 7:00 pm during a live virtual event.
+
+
+***
+![Sony WF-1000XM4 wireless earbuds launched with ANC and LDAC support](https://images.indianexpress.com/2021/06/Sony-earbuds.jpg "Sony WF-1000XM4 wireless earbuds launched with ANC and LDAC support")
+
+
+[Sony WF-1000XM4 wireless earbuds launched with ANC and LDAC support](https://indianexpress.com/article/technology/gadgets/sony-wf-1000xm4-wireless-earbuds-launched-with-anc-and-ldac-support-7350592/)
+
+
+> Sony has launched a new pair of true wireless earbuds. The Sony WF-1000XM4 comes with advanced features like Active Noise Cancellation (ANC), Sony's latest V1 processor, Hi-Res Audio support and more. The new set of Sony WF-1000XM4 earphones will cost $279, which is around Rs 20,340 in India. Interested buyers can get it via Sony's official website, Amazon, and other retailers. The wireless earbuds have new 6mm driver units with 20 percent larger magnets. The new V1 chip is said to offer the highest level of noise-cancelling without draining much battery.
+
+
+***
+![Olympus PEN E-P7 is a comeback travel camera with a very familiar face](https://cdn.mos.cms.futurecdn.net/vxG4tPzukohMvBTsdLSyeh-1200-80.jpg "Olympus PEN E-P7 is a comeback travel camera with a very familiar face")
+
+
+[Olympus PEN E-P7 is a comeback travel camera with a very familiar face](https://www.techradar.com/news/olympus-pen-e-p7-is-a-comeback-travel-camera-with-a-very-familiar-design)
+
+
+> (Image credit: Olympus) Olympus cameras have made a Lazarus-like return from obscurity in the form of the Olympus PEN E-P7, a familiar-looking travel camera with upgraded specs.Almost exactly a year ago, the Olympus Corporation announced it was selling its cameras division to a Japanese investment fund, which led to the creation of a subsidiary called OM Digital Solutions. It's this company, which will continue using the Olympus brand name, that has launched the new Olympus PEN E-P7, making it the first camera released under the new owners.
+
+
+***
+![European neobroker Scalable Capital raises $180M+ at a $1.4B valuation – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/Scalable-Capital_Broker_App_copyright_Scalable-Capital.png?w=600 "European neobroker Scalable Capital raises $180M+ at a $1.4B valuation – TechCrunch")
+
+
+[European neobroker Scalable Capital raises $180M+ at a $1.4B valuation – TechCrunch](https://techcrunch.com/2021/06/08/european-neobroker-scalable-capital-raises-180m-at-a-1-4b-valuation/)
+
+
+> Neobrokers — startups that are disrupting the investment industry by providing a platform for a wider range of consumers to partake in the stock market by offering them more incremental investment options and modern and easy mobile-based interfaces to manage their money — continue to see a huge amount of interest, and today comes the latest development in that story.Scalable Capital, a Munich/Berlin startup that provides tools to monitor and manage portfolios for those investing in shares, manage trades and exchange traded funds for a flat fee of €2.
+
+
