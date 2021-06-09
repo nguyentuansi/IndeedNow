@@ -21818,3 +21818,50 @@
 > A Content Management System (CMS) is a software solution that can help you put together a professional website with ease. There are many such CMSs, and along with WordPress and Joomla, Drupal remains one of the most popular CMSs and can be used to create everything from personal blogs to message boards to business sites and corporate portals that cater to thousands of users.The default Drupal installation is rather bare, but thousands of available add-on modules can help you turn the vanilla Drupal installation into a data-serving masterpiece.
 
 
+***
+![Rep. Jim Jordan Demands Answers from Facebook over Fauci Collusion](https://media.breitbart.com/media/2018/04/Mark-Zuckerberg-frowning.png "Rep. Jim Jordan Demands Answers from Facebook over Fauci Collusion")
+
+
+[Rep. Jim Jordan Demands Answers from Facebook over Fauci Collusion](https://www.breitbart.com/tech/2021/06/09/rep-jim-jordan-demands-answers-from-facebook-over-fauci-collusion/)
+
+
+> Rep. Jim Jordan (R-OH) sent a letter to Facebook founder and CEO Mark Zuckerberg today, demanding answers on the nature of his collusion with NIAID director Anthony Fauci, following the recent publication of email conversations between the two men as part of a Freedom of Information Act (FOIA) request. Rep. Jordan noted that Zuckerberg's decision to work closely with Fauci may amount to government involvement in content moderation, an act that would raise First Amendment issues. Via the letter: Big Tech is out to get conservatives.
+
+
+***
+![The US Senate Passes A Bill Over Chip Shortage To Confront China](https://www.androidheadlines.com/wp-content/uploads/2019/12/Qualcomm-Snapdragon-765-5G-Chip-In-Hand-01.jpg "The US Senate Passes A Bill Over Chip Shortage To Confront China")
+
+
+[The US Senate Passes A Bill Over Chip Shortage To Confront China](https://www.androidheadlines.com/2021/06/the-us-senate-passes-a-bill-over-chip-shortage-to-confront-china.html)
+
+
+> The chip shortage in the global market has become a new controversial issue between the United States and China. Now, the US Senate has passed a bill to help chip manufacturers operating in the country. But it seems that this is not what China likes.Up to now, the chip shortage has affected both industries and customers. Due to declining production and high demand, the price of electronics has risen significantly. This shortage even affects smartphone shipment in Q2 2021.The new bill by the US Senate focuses on providing billions of dollars to chip makers in the United States to make up for the market shortfall.
+
+
+***
+![Hillicon Valley: Biden gives TikTok and WeChat a reprieve](https://thehill.com/sites/default/files/article_images/bidenjoe_06042021getty.jpg "Hillicon Valley: Biden gives TikTok and WeChat a reprieve")
+
+
+[Hillicon Valley: Biden gives TikTok and WeChat a reprieve](https://thehill.com/policy/technology/overnights/557658-hillicon-valley-biden-replaces-trump-executive-orders-targeting)
+
+
+> Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter by clicking HERE. Welcome! Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@chrisismills) and Rebecca Klar (@rebeccaklar_), for more coverage.President BidenJoe BidenHouse Judiciary Democrats call on DOJ to reverse decision on Trump defense Democratic super PAC targets Youngkin over voting rights Harris dubs first foreign trip a success amid criticism over border MORE replaced former President TrumpDonald TrumpJack Ciattarelli wins GOP primary in New Jersey governor's race House Judiciary Democrats call on DOJ to reverse decision on Trump defense Democratic super PAC targets Youngkin over voting rights MORE's executive orders targeting TikTok and WeChat with one directing a review of risks posed by apps developed by foreign adversaries in its place.
+
+
+***
+[Necessity of Covid-19 vaccination in previously infected individuals](https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2)
+
+
+> No body in the article.
+
+
+***
+![Tech Moves: GameStop hires more Amazon execs; Twitch COO joins Karat board; CEO of Washington STEM steps down; Big Fish HR chief joins Qumulo](https://cdn.geekwire.com/wp-content/uploads/2021/06/Rachael-Granby-headshot.png "Tech Moves: GameStop hires more Amazon execs; Twitch COO joins Karat board; CEO of Washington STEM steps down; Big Fish HR chief joins Qumulo")
+
+
+[Tech Moves: GameStop hires more Amazon execs; Twitch COO joins Karat board; CEO of Washington STEM steps down; Big Fish HR chief joins Qumulo](https://www.geekwire.com/2021/tech-moves-gamestop-hires-amazon-execs-twitch-coo-joins-karat-board-ceo-washington-stem-steps-big-fish-hr-chief-joins-qumulo/)
+
+
+> Sara Clemens (Karat Photo) — Seattle startup Karat added a new board member and vice president of interview delivery. Twitch Chief Operating Officer Sara Clemens has been added to Karat's independent advisory board. Prior to joining Twitch, Clemens was an executive at Pandora, LinkedIn and Xbox. Rachael Granby was previously the head of product and client general manager at Wonder. As vice president of interview delivery, she will focus on improving Karat's interviewing process to help companies stay ahead on hiring engineers.
+
+
