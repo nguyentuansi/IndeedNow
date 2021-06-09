@@ -21386,3 +21386,50 @@
 > 在本月补丁星期二活动日中，微软也发布了多个累积更新，包括 version 1909 (KB5003635), version 1809 (KB5003646), version 1607 (KB5003638) 和 version 1507 (KB5003687)。本月累积更新主要修复了 49 个漏洞，其中 6 个是零日漏洞，意味着有可能已经被黑客利用。适用于 Windows 10 Version 1909 功能更新的 KB5003635 累积更新主要亮点包括● 在Windows 执行基础操作的时候提高安全性● 改善 Windows OLE（复合文档）安全性。● 用于验证用户名和密码的更新● 存储和管理文件的更新● 提高使用鼠标、键盘或笔等输入设备时的安全性的更新。● 修复在2021年5月11日或更高版本的更新并重新启动设备后，可能会阻止你登录到一些Microsoft 365桌面客户端应用程序的问题● 修复了一个在Windows Update期间不一致的关机问题，该问题损害了Windows Management Instrumentation（WMI）存储库。因此，管理对象格式（MOF
 
 
+***
+![UENI website builder review](https://cdn.mos.cms.futurecdn.net/BFxUse3yrDg9GnpNQJTN4o-1200-80.jpg "UENI website builder review")
+
+
+[UENI website builder review](https://www.techradar.com/reviews/ueni)
+
+
+> UENI offers a website builder service that promises to 'grow your small business'.Plans start with a free option called ‘Starter' which includes up to 10 bookings and/or leads, up to 5 images in your gallery, and a maximum of $250 in sales, per months.Want to try UENI? Check out the website hereBasic (not available if you pay monthly), includes an SSL certificate, 2 email addresses, some access to the premium website design service, unlimited bookings, and up to $500 in sales. You can also get VIP priority support.
+
+
+***
+![UENI website builder](https://cdn.mos.cms.futurecdn.net/BFxUse3yrDg9GnpNQJTN4o-1200-80.jpg "UENI website builder")
+
+
+[UENI website builder](https://www.techradar.com/reviews/ueni)
+
+
+> UENI offers a website builder service that promises to 'grow your small business'.Plans start with a free option called ‘Starter' which includes up to 10 bookings and/or leads, up to 5 images in your gallery, and a maximum of $250 in sales, per months.Want to try UENI? Check out the website hereBasic (not available if you pay monthly), includes an SSL certificate, 2 email addresses, some access to the premium website design service, unlimited bookings, and up to $500 in sales. You can also get VIP priority support.
+
+
+***
+![A men's brand, Faculty, launches with nail polish — and seed funding from Estee Lauder – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-08-at-5.51.35-PM.png?w=549 "A men's brand, Faculty, launches with nail polish — and seed funding from Estee Lauder – TechCrunch")
+
+
+[A men's brand, Faculty, launches with nail polish — and seed funding from Estee Lauder – TechCrunch](https://techcrunch.com/2021/06/08/a-mens-brand-faculty-launches-with-with-nail-polish-and-seed-funding-from-estee-lauder/)
+
+
+> 'It's not a nail polish company,' says Fenton Jagdeo of Faculty, the startup he cofounded in 2019 with Umar ElBably. Though their Toronto-based company currently sells just three shades of nail polish along with a sleeve of nail stickers at its site — that's it —  the products are a wedge to something much larger, says Jagdeo. There will be merchandise, according to the former business management consultant. There will be men's foundation, and eye shadow, and very possibly hair dye, all of which is focused around a 'new wave of masculinity,' he explains.
+
+
+***
+![iCloud Plus: All you need to know about the upgraded online storage service by Apple](https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/6khlpqwoxojuw1co_1623177617.jpeg "iCloud Plus: All you need to know about the upgraded online storage service by Apple")
+
+
+[iCloud Plus: All you need to know about the upgraded online storage service by Apple](https://www.republicworld.com/technology-news/apps/icloud-plus-all-you-need-to-know-about-the-upgraded-online-storage-service-by-apple.html)
+
+
+> Reinforcing their commitment towards digital security, Apple has incorporated a lot of privacy-oriented features in the new iOS 15. Announced at WWDC 2021, iOS 15 would come with a new Apple service called iCloud Plus. As the name suggests, it is an upgraded version of the online cloud storage service called iCloud that Apple already provides to its users. As Apple says on their website, iCloud plus "combines everything users love about iCloud with new premium features." Read along to find out more about Apple VPN, iCloud private relay and homekit camera update.
+
+
+***
+[[D] ACM SIGGRAPH on Discord / SIGGRAPH on Discord](https://www.reddit.com/r/MachineLearning/comments/nvmzes/d_acm_siggraph_on_discord_siggraph_on_discord/)
+
+
+> Hello all,I'm trying to find the channels on Discord in which members of SIGGRAPH post topics, chat, collaborate, respond, and who's hosting.
+
+
