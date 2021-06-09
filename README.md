@@ -21480,3 +21480,50 @@
 > Neobrokers — startups that are disrupting the investment industry by providing a platform for a wider range of consumers to partake in the stock market by offering them more incremental investment options and modern and easy mobile-based interfaces to manage their money — continue to see a huge amount of interest, and today comes the latest development in that story.Scalable Capital, a Munich/Berlin startup that provides tools to monitor and manage portfolios for those investing in shares, manage trades and exchange traded funds for a flat fee of €2.
 
 
+***
+![#TECH: Better productivity with new macOS Monterey](https://assets.nst.com.my/images/articles/botsmonterey_NSTfield_image_socialmedia.var_1623225331.jpg "#TECH: Better productivity with new macOS Monterey")
+
+
+[#TECH: Better productivity with new macOS Monterey](https://www.nst.com.my/lifestyle/bots/2021/06/697283/tech-better-productivity-new-macos-monterey)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Awesome javascript one-liners to look like a pro](https://external-preview.redd.it/-EAmRucMS-osrCyU0bHXg4qhx9yVTB57bQq1GzOUYeE.jpg?auto=webp&s=587141e8b7826e4b9b038ca25a5c3e682f66e23e "Awesome javascript one-liners to look like a pro")
+
+
+[Awesome javascript one-liners to look like a pro](https://www.reddit.com/r/programming/comments/nvq4r3/awesome_javascript_oneliners_to_look_like_a_pro/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[What Is Anom App? How Did FBI Use It to Arrest Drug Peddlers?](https://www.thequint.com/tech-and-auto/what-is-anom-how-did-fbi-use-it-to-arrest-drug-peddlers)
+
+
+> Anom appeared to be a messaging app that could be used to communicate without fear of monitoring by cops.
+
+
+***
+![Realme laptops to launch in India soon – Its CEO reveals](https://cdn.mos.cms.futurecdn.net/MxDLmx9Xg2GfMuk4qCuWWR-1200-80.jpg "Realme laptops to launch in India soon – Its CEO reveals")
+
+
+[Realme laptops to launch in India soon – Its CEO reveals](https://www.techradar.com/news/realme-laptops-to-launch-in-india-soon-its-ceo-reveals)
+
+
+> (Image credit: Realme) After having a somewhat slow start to the year, Realme is pushing the pedal to the metal for the second half of 2021. Along with a bunch of high-end smartphones and new product categories, it will also enter the laptop segment.Madhav Sheth, Realme India's CEO, dropped a new teaser on Twitter today which is the first official teaser of the upcoming laptop from Realme. The tweets contain a picture of a laptop that is subtly visible in a metallic grey finish. Further, the text of the tweet is ASCII encoded which translates to 'Hello World'.
+
+
+***
+![Fastly explains why the internet broke](https://static.independent.co.uk/2021/06/09/08/internet.jpg?width=1200&auto=webp&quality=75 "Fastly explains why the internet broke")
+
+
+[Fastly explains why the internet broke](https://www.independent.co.uk/life-style/gadgets-and-tech/fastly-why-internet-down-explained-b1862340.html)
+
+
+> The global internet outage that took down much of the internet for more than an hour was caused by a software bug, the company behind it said.Fastly said that an issue in its software had been triggered when one of its customers changed their settings.When that happened, it began a series of issues that knocked many of the world's biggest websites offline. Reddit, Amazon, the UK government and many of the world's biggest news organisations were unavailable, with users instead seeing an array of error messages.
+
+
