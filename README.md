@@ -21768,3 +21768,53 @@
 > I recently bought a 2015 early MBP it came with no battery because the original was swollen and the 128GB SSD also removed because of HIPPA compliance. I purchased a battery and ssd from OWC, learned that the OWC ssd requires at least High sierra to use the ssd and this MBP was at El Cap. That's the backstory but my issue is, when i boot the MBP it will chime and since it will not recognize the ssd it should go to the question mark folder. However in my case getting to the question mark folder can take well over 10 minutes before it shows and sometimes it doesn't.
 
 
+***
+![Syska P2024J Power Bank: Never let your phone run out of juice](https://images.financialexpress.com/2021/06/1-199.jpg "Syska P2024J Power Bank: Never let your phone run out of juice")
+
+
+[Syska P2024J Power Bank: Never let your phone run out of juice](https://www.financialexpress.com/industry/technology/syska-p2024j-power-bank-never-let-your-phone-run-out-of-juice/2268399/)
+
+
+> By: Sudhir Chowdhary | June 10, 2021 1:30 AMThe power bank includes a built-in intelligent control circuit that can shunt the current flow when the power bank is self-charging and outputting power at the same time. The summer months of May and June are exceptionally hot in the national capital region (NCR), frequent squalls and thunderstorms are aplenty too. Unfortunately, that translates into long power outages, too. At a time when most of us are remotely working or learning from our homes, the Syska P2024J Power Bank can be an ideal option for charging our smart devices and smartphones.
+
+
+***
+![Pipeline Investigation Upends Idea That Bitcoin Is Untraceable](https://static01.nyt.com/images/2021/06/09/business/09bitcoin1/09bitcoin1-facebookJumbo.jpg "Pipeline Investigation Upends Idea That Bitcoin Is Untraceable")
+
+
+[Pipeline Investigation Upends Idea That Bitcoin Is Untraceable](https://www.nytimes.com/2021/06/09/technology/bitcoin-untraceable-pipeline-ransomware.html)
+
+
+> Continue reading the main storyThe F.B.I.'s recovery of Bitcoins paid in the Colonial Pipeline ransomware attack showed cryptocurrencies are not as hard to track as it might seem.Gas lines at Costco in Greensboro, N.C., last month during the shutdown of the Colonial Pipeline from a ransomware attack.Credit...Woody Marshall/News & Record, via Associated PressBy Nicole Perlroth, Erin Griffith and Katie BennerJune 9, 2021, 3:54 p.m. ETWhen Bitcoin burst onto the scene in 2009, fans heralded the cryptocurrency as a secure, decentralized and anonymous way to conduct transactions outside the traditional financial system.
+
+
+***
+![WebKit Features in Safari at WWDC21](https://external-preview.redd.it/VAiAWWrjWG_8z-ZB8K0g7zjuNfC4fIdv0_VxalrA7DM.jpg?auto=webp&s=18752b5db330228ac20ab13a959ff8df67bef487 "WebKit Features in Safari at WWDC21")
+
+
+[WebKit Features in Safari at WWDC21](https://www.reddit.com/r/programming/comments/nw4jes/webkit_features_in_safari_at_wwdc21/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Covid-19 Impact: Why edge computing is gaining popularity](https://images.financialexpress.com/2021/06/1-198.jpg "Covid-19 Impact: Why edge computing is gaining popularity")
+
+
+[Covid-19 Impact: Why edge computing is gaining popularity](https://www.financialexpress.com/industry/technology/covid-19-impact-why-edge-computing-is-gaining-popularity/2268409/)
+
+
+> In traditional enterprise computing, data is produced at a user's computer.By Neelesh KripalaniTHE PANDEMIC HAS compelled enterprises to rapidly move their critical workload to the cloud to ensure seamless functioning of business. As cloud is gaining momentum, and enterprises are frantically looking for ways to optimise their network, storage and agility, edge computing has turned out to be the perfect solution.To understand where edge computing fits in the whole spectrum of IT infrastructure, we need to begin with the basics— Understanding what actually is edge computing.
+
+
+***
+![Best Drupal hosting of 2021](https://cdn.mos.cms.futurecdn.net/3pSCPWrom88DUAGLYjPTMS-1200-80.jpg "Best Drupal hosting of 2021")
+
+
+[Best Drupal hosting of 2021](https://www.techradar.com/best/drupal-hosting)
+
+
+> A Content Management System (CMS) is a software solution that can help you put together a professional website with ease. There are many such CMSs, and along with WordPress and Joomla, Drupal remains one of the most popular CMSs and can be used to create everything from personal blogs to message boards to business sites and corporate portals that cater to thousands of users.The default Drupal installation is rather bare, but thousands of available add-on modules can help you turn the vanilla Drupal installation into a data-serving masterpiece.
+
+
