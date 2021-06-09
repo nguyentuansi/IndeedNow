@@ -21527,3 +21527,53 @@
 > The global internet outage that took down much of the internet for more than an hour was caused by a software bug, the company behind it said.Fastly said that an issue in its software had been triggered when one of its customers changed their settings.When that happened, it began a series of issues that knocked many of the world's biggest websites offline. Reddit, Amazon, the UK government and many of the world's biggest news organisations were unavailable, with users instead seeing an array of error messages.
 
 
+***
+![How to watch the Battlefield 6 reveal](https://cdn.mos.cms.futurecdn.net/b2b8GzvtrPPp7CKQduBxBc-1200-80.jpg "How to watch the Battlefield 6 reveal")
+
+
+[How to watch the Battlefield 6 reveal](https://www.techradar.com/how-to/how-to-watch-the-battlefield-6-reveal)
+
+
+> EA DICE is set to host a Battlefield 6 reveal on June 9 (that's today!) where we will finally get to see what the new Battlefield has in store for us.There have been plenty of rumors surrounding Battlefield 6 in the last few months, which have claimed Battlefield 6 will simply be called 'Battlefield' and will feature extreme weather conditions, robot dogs and huge 128-player maps - but no campaign. We'll finally get to find out if these rumors are true today and, hopefully, we'll even get a release date for the newest entry in the Battlefield series.
+
+
+***
+![Can't wait for Diablo 4? Get your fix with this tabletop D&D Tristram map](https://cdn.mos.cms.futurecdn.net/DPtEbhxXkjsKYUdcKCnLyS-1200-80.jpeg "Can't wait for Diablo 4? Get your fix with this tabletop D&D Tristram map")
+
+
+[Can't wait for Diablo 4? Get your fix with this tabletop D&D Tristram map](https://www.techradar.com/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map)
+
+
+> (Image credit: Blizzard) You've delved deep into the dungeons of Tristram before, but if the wait for Diablo 4 and Diablo 2: Resurrected is proving too hellish, why not bring the hack-and-slash action to your tabletop?The CozyMaps Patreon page is offering up a lovingly-crafted map from the original Diablo game, ready to be rolled into your Dungeons and Dragons role-playing campaigns. Less-click-to-kill and more roll-to-thrill.It's an atmospherically drawn top-down take on one of Diablo's most famous locations, the embattled town of Tristram – and the first location many Diablo players will encounter in the video games.
+
+
+***
+![Windows 10 users could soon get another annoying pop-up from Microsoft](https://cdn.mos.cms.futurecdn.net/pwcbaLVSvqWvfTPCXUPoQD-1200-80.jpg "Windows 10 users could soon get another annoying pop-up from Microsoft")
+
+
+[Windows 10 users could soon get another annoying pop-up from Microsoft](https://www.techradar.com/news/windows-10-users-could-soon-get-yet-another-annoying-pop-up-from-microsoft)
+
+
+> (Image credit: Marjan Apostolovic / Shutterstock) Bad news, Windows 10 users. It looks like Microsoft has found another way to annoy you – this time by popping up a new message in its Edge browser that asks you to share your browsing information.As Techdows reports, this message pops up in an early version of Edge, and while it won't appear for people using Edge at the moment (unless they are signed up to test out early versions), it looks like it could come to Edge 92, which is due to release around July 22.
+
+
+***
+![DoorDash Marks Asian Debut With Japan](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/abtech_604.png "DoorDash Marks Asian Debut With Japan")
+
+
+[DoorDash Marks Asian Debut With Japan](https://www.benzinga.com/news/21/06/21486821/doordash-marks-asian-debut-with-japan)
+
+
+> Do Gig Workers Want To Be Employees? It Depends Who You Ask Activist Investor Group Takes Aim At DoorDash CEO Tony Xu
+
+
+***
+![Survey: Telecom Sector Reveals Retail's Bright Future as Customers Buy Anywhere](https://mms.businesswire.com/media/20210609005127/en/883814/23/Trends_in_Telecom_-_Graphic_Social_%281%29.jpg "Survey: Telecom Sector Reveals Retail's Bright Future as Customers Buy Anywhere")
+
+
+[Survey: Telecom Sector Reveals Retail's Bright Future as Customers Buy Anywhere](https://www.businesswire.com/news/home/20210609005127/en/Survey-Telecom-Sector-Reveals-Retail%E2%80%99s-Bright-Future-as-Customers-Buy-Anywhere)
+
+
+> iQmetrix surveyed telecom retail professionals across North America to create its inaugural research report, The Future is Anywhere: 2021 Trends in Telecom Retail. Image: iQmetrix iQmetrix surveyed telecom retail professionals across North America to create its inaugural research report, The Future is Anywhere: 2021 Trends in Telecom Retail. Image: iQmetrix VANCOUVER, British Columbia--(BUSINESS WIRE)--Survey by telecom retail software provider iQmetrix paints an optimistic picture of the retail sector with 'transformational' strategies and solutions.
+
+
