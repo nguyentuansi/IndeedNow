@@ -21718,3 +21718,53 @@
 > June 09, 2021 12:04 PM Eastern Daylight Time SCOTTSDALE, Ariz.--(BUSINESS WIRE)--Nextiva, a cloud communications company, announced today its partnership with Five9, Inc. (NASDAQ: FIVN), a leading provider of the intelligent contact center, to deliver a new integrated Unified Communications and Cloud Contact Center offering. The joint offering will help organizations engage with customers, connect team conversations, and empower contact center agents with streamlined workflows so they can deliver outstanding customer experiences.
 
 
+***
+![How To Get $10 To Spend On Amazon Prime Day 2021](https://www.androidheadlines.com/wp-content/uploads/2021/06/amazon-prime-day.jpeg "How To Get $10 To Spend On Amazon Prime Day 2021")
+
+
+[How To Get $10 To Spend On Amazon Prime Day 2021](https://www.androidheadlines.com/how-to-get-free-money-amazon-prime-day)
+
+
+> Every year, in the lead up to Prime Day, Amazon does several different promotions to hand out essentially free money that customers can use on Prime Day. This year, there don't seem to be as many promotions available, yet. That might change though. But the one that is the easiest to take advantage of is, spending $10 on small businesses to get $10 for Amazon Prime Day. Which is basically free money for Prime Day.And here, we're going to show you exactly how you can do just that. It's super simple to do.
+
+
+***
+![El Savador exploring volcanic bitcoin mining, Bukele says](https://www.reuters.com/pf/resources/icons/favicon.ico?d=36 "El Savador exploring volcanic bitcoin mining, Bukele says")
+
+
+[El Savador exploring volcanic bitcoin mining, Bukele says](https://www.reuters.com/technology/el-savador-exploring-volcanic-bitcoin-mining-bukele-says-2021-06-09/)
+
+
+> El Salvador's President Nayib Bukele said on Twitter on Wednesday that he has instructed state-owned geothermal electric firm LaGeo to come up with a plan to offer bitcoin mining facilities using renewable energy from the country's volcanoes. El Salvador became the first country in the world to adopt bitcoin as legal tender after its Congress on Wednesday approved Bukele's proposal to embrace the cryptocurrency. read more "This is going to evolve fast!," Bukele said in the tweet. Our Standards: The Thomson Reuters Trust Principles.
+
+
+***
+![Worldwide Smart Thermostat Industry to 2026](https://mms.businesswire.com/media/20210609005807/en/371054/23/ResearchAndMarkets_800px.jpg "Worldwide Smart Thermostat Industry to 2026")
+
+
+[Worldwide Smart Thermostat Industry to 2026](https://www.businesswire.com/news/home/20210609005807/en/Worldwide-Smart-Thermostat-Industry-to-2026---Cloud-connected-hVAC-Systems-Present-Opportunities---ResearchAndMarkets.com)
+
+
+> June 09, 2021 02:10 PM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Smart Thermostat Market Research Report by Deployment, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19" report has been added to ResearchAndMarkets.com's offering. The Global Smart Thermostat Market size was estimated at USD 894.48 Million in 2020 and expected to reach USD 1,101.72 Million in 2021, at a Compound Annual Growth Rate (CAGR) 23.50% from 2020 to 2026 to reach USD 3,174.71 Million by 2026.
+
+
+***
+![Best cheap student laptop deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/annie-spratt-v_yek9woupw-unsplash-1.jpg "Best cheap student laptop deals for June 2021")
+
+
+[Best cheap student laptop deals for June 2021](https://www.digitaltrends.com/dtdeals/best-student-laptop-deals/)
+
+
+> Computers are essential for many of us today, but we know as well as anybody that they're not cheap. On top of that, purchasing a new laptop requires a bit more research than buying a new pair of earbuds, and it sometimes necessitates a bit of careful budget-stretching as well. That's especially true if you're a student and cash can be a little tight even at the best of times — but we're here to help. Below, we've rounded up the six best cheap student laptop deals of the month, and each one rings in at less than a grand (and most for much less than that).
+
+
+***
+![Used MBP Early 2015 not boot posting correctly](https://images.macrumors.com/social/?t=2300106&v=6 "Used MBP Early 2015 not boot posting correctly")
+
+
+[Used MBP Early 2015 not boot posting correctly](https://forums.macrumors.com/threads/used-mbp-early-2015-not-boot-posting-correctly.2300106/)
+
+
+> I recently bought a 2015 early MBP it came with no battery because the original was swollen and the 128GB SSD also removed because of HIPPA compliance. I purchased a battery and ssd from OWC, learned that the OWC ssd requires at least High sierra to use the ssd and this MBP was at El Cap. That's the backstory but my issue is, when i boot the MBP it will chime and since it will not recognize the ssd it should go to the question mark folder. However in my case getting to the question mark folder can take well over 10 minutes before it shows and sometimes it doesn't.
+
+
