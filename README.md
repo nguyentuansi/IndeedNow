@@ -21577,3 +21577,50 @@
 > iQmetrix surveyed telecom retail professionals across North America to create its inaugural research report, The Future is Anywhere: 2021 Trends in Telecom Retail. Image: iQmetrix iQmetrix surveyed telecom retail professionals across North America to create its inaugural research report, The Future is Anywhere: 2021 Trends in Telecom Retail. Image: iQmetrix VANCOUVER, British Columbia--(BUSINESS WIRE)--Survey by telecom retail software provider iQmetrix paints an optimistic picture of the retail sector with 'transformational' strategies and solutions.
 
 
+***
+![Chivalry 2 Class Guide](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/head%20image.jpg?itok=cn4L9qk7 "Chivalry 2 Class Guide")
+
+
+[Chivalry 2 Class Guide](https://techraptor.net/gaming/guides/chivalry-2-class-guide)
+
+
+> 06/09/2021 - 08:10 | By: Dylan Wilby Home Gaming Gaming Guides Chivalry 2 Class Guide The time has finally come to leap into the fray for the sequel to popular medieval battle sim Chivalry. Fans will hope Chivalry 2 can provide more of the same uncompromising but nuanced combat that puts players into the shoes of a range of fearless combatants from the Middle Ages. We already know a fair amount about the different classes you can choose from in Chivalry 2. There are four classes, each with dramatically different playstyles: Knight, Archer, Footman and Vanguard.
+
+
+***
+![Chivalry 2 Guide for Beginners](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/chiv%20banner.jpg?itok=WafviU07 "Chivalry 2 Guide for Beginners")
+
+
+[Chivalry 2 Guide for Beginners](https://techraptor.net/gaming/guides/chivalry-2-beginners-guide)
+
+
+> The time has finally come to leap into the fray for the sequel to popular medieval battle sim Chivalry. Fans of the first game will be hoping that Chivalry 2 can provide more of the same uncompromising but nuanced combat that puts players into the shoes of fearless warriors from the Middle Ages. Learn all about it in our Chivalry 2 Guide for Beginners New players might be thinking something more like, 'why can't I stay alive for more than 15 seconds?' Or, 'how do I stop that massive knight from taking chunks out of me with their zweihander?' If that sounds a bit like you then don't worry.
+
+
+***
+![Realme laptop is happening and its first glimpse shows MacBook-like design](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/realme_reuters-647x363.jpeg?v9C52tDog_KsTE7BUSjqIHAiSUg9iWcU "Realme laptop is happening and its first glimpse shows MacBook-like design")
+
+
+[Realme laptop is happening and its first glimpse shows MacBook-like design](https://www.indiatoday.in/technology/news/story/realme-laptop-is-happening-and-its-first-glimpse-shows-macbook-like-design-1812860-2021-06-09)
+
+
+> Realme laptop is finally happening. Madhav Sheth, CEO of Realme India and Europe, posted a cryptic binary code on Twitter to tease a new product category, but accompanying it in the tweet is a laptop sticking out slightly from a paper bag. Whatever part of the laptop is visible in the photo hints at a metallic body, something that looks uncannily similar to the Apple MacBook. Obviously, the Realme laptop will use Microsoft Windows, but the company can very well ape Apple's popular personal computer.
+
+
+***
+[SoftBank is launching its diversity-focused Emerge accelerator in Europe, in partnership with SpeedInvest and other VC investors (Ryan Browne/CNBC)](http://www.techmeme.com/210609/p9#a210609p9)
+
+
+> Ryan Browne / CNBC: SoftBank is launching its diversity-focused Emerge accelerator in Europe, in partnership with SpeedInvest and other VC investors — - SoftBank Investment Advisers, which manages the Vision Fund, will launch its diversity-focused Emerge accelerator program in Europe.
+
+
+***
+![6 best drones for beginners: Take to the sky with these entry-level models](https://static.independent.co.uk/2021/06/08/10/drones%20for%20beginners.jpg?width=1200&auto=webp&quality=75 "6 best drones for beginners: Take to the sky with these entry-level models")
+
+
+[6 best drones for beginners: Take to the sky with these entry-level models](https://www.independent.co.uk/extras/indybest/gadgets-tech/cameras-accessories/best-drones-for-beginners-b1862464.html)
+
+
+> When you think of drones, what image pops up? Ambitious wedding photographers? Clandestine activities in the darkened rooms of a Tom Clancy novel? Amazon floating over your home with that portable charger you ordered?In reality, commercial drones are fun, easy to fly and becoming ever-more obtainable. The term 'beginner's drone' is a broad church: you can buy a drone for £20 that is basically a high-tech toy, or you can commit a good chunk of cash to something that has a lot more oomph, with filming capabilities, better battery life and much more sophisticated inner workings.
+
+
