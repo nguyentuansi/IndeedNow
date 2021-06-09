@@ -21624,3 +21624,50 @@
 > When you think of drones, what image pops up? Ambitious wedding photographers? Clandestine activities in the darkened rooms of a Tom Clancy novel? Amazon floating over your home with that portable charger you ordered?In reality, commercial drones are fun, easy to fly and becoming ever-more obtainable. The term 'beginner's drone' is a broad church: you can buy a drone for £20 that is basically a high-tech toy, or you can commit a good chunk of cash to something that has a lot more oomph, with filming capabilities, better battery life and much more sophisticated inner workings.
 
 
+***
+![What is the ring of fire?](https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/COMP-SKC-SOLAR-ECLIPSE.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "What is the ring of fire?")
+
+
+[What is the ring of fire?](https://www.the-sun.com/lifestyle/tech/3047417/what-ring-of-fire-solar-eclipse-frequent/)
+
+
+> A RING of fire is an effect caused during a particular type of solar eclipse. Here's what we know about the spectacular event. ☀️Follow all our solar eclipse live blog for all the latest updates and sightings A total eclipse seen from Piedra del Aquila, Neuquen province, Argentina, on December 14, 2020Credit: AFP The ring of fire occurs during an annular or partial solar eclipse. A solar eclipse occurs when the moon passes between the sun and the Earth. During an annular eclipse, the moon is far enough away from the Earth so the moon appears smaller than the sun in the sky.
+
+
+***
+[Please help me solve this error. I am just not able to understand my mistake.](https://www.reddit.com/r/Python/comments/nvwr5q/please_help_me_solve_this_error_i_am_just_not/)
+
+
+> aValues = pd.read_csv("C:\Users\DELL\Desktop\lily-pad11\randomization.csv", header = None)The error says: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+
+
+***
+![How to spend less on a pair of wireless earbuds](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/08/back-bay-duet-50-review-6.jpg "How to spend less on a pair of wireless earbuds")
+
+
+[How to spend less on a pair of wireless earbuds](https://www.androidcentral.com/best-cheap-true-wireless-earbuds)
+
+
+> Source: Android Central Best cheap wireless earbuds Android Central 2021 The best cheap true wireless earbuds have become great over the past several years. The ones you typically hear about are super expensive. Still, there are some great budget options out there, such as the Creative Outlier Air V2, which offer fantastic battery life, exceptional comfort, and superb sound quality.Source: Ted Kritsonis / Android Central It's hard to beat the Outlier Air V2 on battery life. Even compared to the best wireless earbuds, they outperform most of them with up to 12 hours of audio playback per charge at default volume.
+
+
+***
+![Journalists demanding more action against online harassment](https://www.clickondetroit.com/resizer/4wdBWi52FGMlNTC8yG99QyKuVmw=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/LTZMOJ3NAVDMZOAEABVJDAILI4.jpg "Journalists demanding more action against online harassment")
+
+
+[Journalists demanding more action against online harassment](https://www.clickondetroit.com/tech/2021/06/09/journalists-demanding-more-action-against-online-harassment/)
+
+
+> NEW YORK – The Associated Press' recent firing of a young reporter for what she said on Twitter has somewhat unexpectedly turned company and industry attention to the flip side of social media engagement — the online abuse that many journalists face routinely.During internal meetings after the Arizona-based reporter, Emily Wilder, was let go, several journalists expressed concern over whether the AP would have the backs of employees under attack from the outside.'The Emily Wilder situation triggered this for many people on the staff,' Jenna Fryer, an AP sportswriter who spoke at one of the meetings, said in a subsequent interview.
+
+
+***
+![Journalists demanding more action against online harassment](https://www.local10.com/resizer/4wdBWi52FGMlNTC8yG99QyKuVmw=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/LTZMOJ3NAVDMZOAEABVJDAILI4.jpg "Journalists demanding more action against online harassment")
+
+
+[Journalists demanding more action against online harassment](https://www.local10.com/tech/2021/06/09/journalists-demanding-more-action-against-online-harassment/)
+
+
+> NEW YORK – The Associated Press' recent firing of a young reporter for what she said on Twitter has somewhat unexpectedly turned company and industry attention to the flip side of social media engagement — the online abuse that many journalists face routinely.During internal meetings after the Arizona-based reporter, Emily Wilder, was let go, several journalists expressed concern over whether the AP would have the backs of employees under attack from the outside.'The Emily Wilder situation triggered this for many people on the staff,' Jenna Fryer, an AP sportswriter who spoke at one of the meetings, said in a subsequent interview.
+
+
