@@ -22156,3 +22156,50 @@
 > Also supports Python.Check out my VSCode extension - Blockman, took me 6 months to build. Please help me promote/share/rate if you like it. You can customize block colors, depth, turn on/off focus, curly/square/round brackets, tags, python indentation and more.....https://marketplace.visualstudio.com/items?itemName=leodevbro.blockmanSupports Python, R, Go, PHP, JavaScript, JSX, TypeScript, TSX, C, C#, C++, Java, HTML, CSS and more...
 
 
+***
+![ByteDance launches 'Volcano Engine' to sell algorithm behind TikTok's success](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/bytedance505_100621053631.jpg "ByteDance launches 'Volcano Engine' to sell algorithm behind TikTok's success")
+
+
+[ByteDance launches 'Volcano Engine' to sell algorithm behind TikTok's success](https://www.businesstoday.in/technology/news/bytedance-launches-volcano-engine-to-sell-algorithm-behind-tiktoks-success/story/441353.html)
+
+
+> ByteDance launched on Thursday its new Volcano Engine brand to offer the proprietary algorithm used to power TikTok's personalised recommendations to more corporate clients, as the company seeks to expand beyond mainstay consumer products. The algorithm is considered the "secret sauce" behind short-video app TikTok's global success and was one of the focal points when China's ByteDance was forced into talks to sell part of TikTok's U.S operations last year following former President Donald Trump's executive order.
+
+
+***
+![The number of first-time vaccine recipients surpassed 10 million… Janssen vaccination started](https://img.sbs.co.kr/newimg/news/20210610/201559675_1280.jpg "The number of first-time vaccine recipients surpassed 10 million… Janssen vaccination started")
+
+
+[The number of first-time vaccine recipients surpassed 10 million… Janssen vaccination started](https://www.tellerreport.com/tech/2021-06-10-the-number-of-first-time-vaccine-recipients-surpassed-10-million…-janssen-vaccination-started.HJmKXlFyou.html)
+
+
+> The number of new COVID-19 cases continued to rise at 600 for the second day. As the cumulative number of people receiving the first vaccination exceeded 10 million people in 105 days after the first vaccination, the Janssen vaccine also started inoculation from today. The number of new COVID-19 cases continued at 600 for the second day. With the cumulative number of people receiving the first vaccine exceeding 10 million in 105 days after the first vaccination, the Janssen vaccine also started inoculation from today (10th).
+
+
+***
+[Tata Digital says it is acquiring a majority stake in Indian online pharmacy startup 1mg; source: Tata acquired about 55% stake at a valuation of around $450M (Manish Singh/TechCrunch)](http://www.techmeme.com/210610/p6#a210610p6)
+
+
+> Manish Singh / TechCrunch: Tata Digital says it is acquiring a majority stake in Indian online pharmacy startup 1mg; source: Tata acquired about 55% stake at a valuation of around $450M — Tata Digital, the subsidiary of Tata Sons, said on Thursday it is acquiring a majority stake in digital health startup 1mg …
+
+
+***
+![Gwangju Building Collapse, Possibility of Talent? Today's joint dinner](https://img.sbs.co.kr/newimg/news/20210610/201559673_1280.jpg "Gwangju Building Collapse, Possibility of Talent? Today's joint dinner")
+
+
+[Gwangju Building Collapse, Possibility of Talent? Today's joint dinner](https://www.tellerreport.com/tech/2021-06-10-gwangju-building-collapse--possibility-of-talent--today-s-joint-dinner.r1JqytJs_.html)
+
+
+> The collapse of the demolished building in Gwangju immediately collapsed within one working day, raising suspicions of violating safety regulations. The police are planning to conduct a joint investigation with the National Forensic Service today. The collapse of the Gwangju demolished building immediately collapsed within a day of work, raising suspicions of violating safety regulations. The police are planning to conduct a joint investigation with the National Forensic Service today (10th). The first news, reporter Jung Jun-ho.
+
+
+***
+![Soundcore Life P3 wireless earbuds offer Active Noise Canceling for under $100](https://icdn.digitaltrends.com/image/digitaltrends/soundcore-life-p3-featured.jpg "Soundcore Life P3 wireless earbuds offer Active Noise Canceling for under $100")
+
+
+[Soundcore Life P3 wireless earbuds offer Active Noise Canceling for under $100](https://www.digitaltrends.com/home-theater/soundcore-life-p3-true-wireless-earbuds/)
+
+
+> When we reviewed Soundcore's Liberty Air 2 Pro earbuds, we found that they were 'affordably awesome,' and that would be a pretty good tagline for the company itself. Their goal is to go toe-to-toe with the likes of Apple and Beats while charging far less than their big-brand competitors. That being the case, if you're in the market for a new pair of true wireless earbuds, but the $200-plus prices have you hesitating to pull the trigger, you may want to take a look at Soundcore's new Life P3 true wireless earbuds.
+
+
