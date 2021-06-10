@@ -22203,3 +22203,53 @@
 > When we reviewed Soundcore's Liberty Air 2 Pro earbuds, we found that they were 'affordably awesome,' and that would be a pretty good tagline for the company itself. Their goal is to go toe-to-toe with the likes of Apple and Beats while charging far less than their big-brand competitors. That being the case, if you're in the market for a new pair of true wireless earbuds, but the $200-plus prices have you hesitating to pull the trigger, you may want to take a look at Soundcore's new Life P3 true wireless earbuds.
 
 
+***
+![Huge Amazon sale: early Prime Day deals on 4K TVs, Blink Mini, Fire TV Stick, more](https://cdn.mos.cms.futurecdn.net/mHCVJvyWi6PA376unfxew9-1200-80.jpg "Huge Amazon sale: early Prime Day deals on 4K TVs, Blink Mini, Fire TV Stick, more")
+
+
+[Huge Amazon sale: early Prime Day deals on 4K TVs, Blink Mini, Fire TV Stick, more](https://www.techradar.com/news/amazon-prime-day-deals-you-can-shop-for-now-tvs-blink-ring-echo)
+
+
+> (Image credit: Future) The highly anticipated Amazon Prime Day sale will be here before you know it, and to prepare you for the deals extravaganza, the retailer is giving us a sneak peek with a slew of early Prime Day deals you can shop right now.See more of today's best early Prime Day deals at AmazonAmazon's early Prime Day deals include discounts on its best-selling devices like the all-new Ring Doorbell, Blink Mini, 4K Fire TVs, Ring security cameras, and more. Some highlighted offers include the Ring Doorbell Wired paired with a free Echo Dot for just $44.
+
+
+***
+![Waymo and JB Hunt partner to bring autonomous trucks to Texas in new pilot – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=764 "Waymo and JB Hunt partner to bring autonomous trucks to Texas in new pilot – TechCrunch")
+
+
+[Waymo and JB Hunt partner to bring autonomous trucks to Texas in new pilot – TechCrunch](https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/)
+
+
+> Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a 'test run' that will take place in one of the country's busiest trade corridors. Waymo Via, the company's trucking and cargo transportation service, will transport goods along Interstate 45 between Houston and Fort Worth, Texas. The trucks will be powered by the Waymo Driver autonomous platform, though a Waymo 'autonomous specialists,' a commercially-licensed truck driver and a software technician will be riding in each truck to monitor the operations.
+
+
+***
+![Recognizing and guarding against SMS FluBot phishing scams](https://cdn.mos.cms.futurecdn.net/kTvinumQ8rznD8Sd6nrZJP-1200-80.jpg "Recognizing and guarding against SMS FluBot phishing scams")
+
+
+[Recognizing and guarding against SMS FluBot phishing scams](https://www.techradar.com/news/recognizing-and-guarding-against-sms-flubot-phishing-scams)
+
+
+> (Image credit: Shutterstock) In recent weeks, mobile users in several countries have been receiving SMS messages linking to a banking Trojan called 'FluBot'. This threat pretends to be from a delivery company and asks users to install a tracking app in order to track the status of the package, but in fact is used to steal credentials and other personal data. At Avast we're continuing to see new samples of FluBot coming in daily via our mobile threat intelligence platform apklab.io.About the authorOndrej David is Malware Analysis Team Leader at Avast.
+
+
+***
+![When is the next solar eclipse in the UK and US?](https://www.thesun.co.uk/wp-content/uploads/2019/12/NINTCHDBPICT000589873161-e1592664229621.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "When is the next solar eclipse in the UK and US?")
+
+
+[When is the next solar eclipse in the UK and US?](https://www.thesun.co.uk/tech/9420372/next-solar-eclipse-uk-us-date/)
+
+
+> THOSE who missed today's stunning "ring of fire" eclipse will have to wait until October 2022 for the next one. The June 10 "ring of fire" eclipse was visible over the eastern coast of the United States as well as parts of Europe, including the UK. Get all the latest Science news Keep up-to-date with the top Space & Astronomy stories All the latest Archaeology news from dinosaurs to Ancient artefacts A 'ring of fire' eclipse will appear on June 10Credit: AFP 1) When is the next solar eclipse? The next solar eclipse will be visible on October 25, 2022, from across Europe, northeast Africa, the Middle East, and West Asia.
+
+
+***
+![Massive GPU stock: The RTX 3070 Ti is now in stock in the US – kind of](https://cdn.mos.cms.futurecdn.net/7eVSzKgnakqrCUyznuoFGa-1200-80.jpg "Massive GPU stock: The RTX 3070 Ti is now in stock in the US – kind of")
+
+
+[Massive GPU stock: The RTX 3070 Ti is now in stock in the US – kind of](https://www.techradar.com/news/massive-rtx-3080-ti-in-stock)
+
+
+> (Image credit: Future) Update: The RTX 3070 Ti will be in stock today in the US, while the RTX 3080, 3080 Ti, RTX 3070 and other Nvidia GPUs were just in stock at Newegg and Antonline. Our GPU restock Twitter tracker Matt Swider knows we'll see new RTX graphics cards in stock soon, and he'll send you a Twitter alert – if you follow his Twitter account and turn on notifications. The RTX 3070 Ti will be on sale for the first time today, June 10. This follows our exclusive report that two retailers would have the RTX 3080 and RTX 3080Ti in stock along with the RTX 3070, RTX 3090 and RTX 3060 yesterday.
+
+
