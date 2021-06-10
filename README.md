@@ -22253,3 +22253,47 @@
 > (Image credit: Future) Update: The RTX 3070 Ti will be in stock today in the US, while the RTX 3080, 3080 Ti, RTX 3070 and other Nvidia GPUs were just in stock at Newegg and Antonline. Our GPU restock Twitter tracker Matt Swider knows we'll see new RTX graphics cards in stock soon, and he'll send you a Twitter alert – if you follow his Twitter account and turn on notifications. The RTX 3070 Ti will be on sale for the first time today, June 10. This follows our exclusive report that two retailers would have the RTX 3080 and RTX 3080Ti in stock along with the RTX 3070, RTX 3090 and RTX 3060 yesterday.
 
 
+***
+[Bell, Telus Rogers offering iPhone 12 for $13 or less per month](https://mobilesyrup.com/2021/06/10/bell-telus-rogers-iphone-12-13-per-month/)
+
+
+> Bell, Telus and Rogers have all tweaked the pricing of their iPhone 12 slightly, bringing the cost down to about $13 per month or less. As with so many “deals” from the Big Three, there’s a lot of unnecessary complexity going on, so we’ve taken the time to break down the pricing for you. Spoiler:... The post Bell, Telus Rogers offering iPhone 12 for $13 or less per month appeared first on MobileSyrup.
+
+
+***
+[USDCAD ticks up on Iran/US sanction news](https://www.forexlive.com/technical-analysis/!/usdcad-ticks-up-on-iranus-sanction-news-20210610)
+
+
+> US lifts sanctions on Iran headlines saying the US has lifted sanctions on Iran oil The USDCAD has moved away from the 100 hour MA (lower CAD) at 1.2093 and is trading back above the 1.2100 level. Stay above the 100 hour moving average and the buyers remain in firm control. The next target comes in at 1.21167.
+
+
+***
+![Hackers Steal Wealth of Data from Game Giant EA](https://external-preview.redd.it/nsvWTuB4dNKdUj-Jgzf8Zy5mR0p0gdi0Ol2EmQs1ZTI.jpg?auto=webp&s=a7d3503d4f2ba5cb70bd0680fc1c1ecf09893aa0 "Hackers Steal Wealth of Data from Game Giant EA")
+
+
+[Hackers Steal Wealth of Data from Game Giant EA](https://www.reddit.com/r/technology/comments/nwrh4j/hackers_steal_wealth_of_data_from_game_giant_ea/)
+
+
+> View Entire Discussion (2 Comments)
+
+
+***
+![Mogo to Add Regulatory and Financial Services Industry Veterans, Wendy Rudd and Dr. Liam Cheung, to Board of Directors](http://www.businesswire.com/images/bwlogo_square.png "Mogo to Add Regulatory and Financial Services Industry Veterans, Wendy Rudd and Dr. Liam Cheung, to Board of Directors")
+
+
+[Mogo to Add Regulatory and Financial Services Industry Veterans, Wendy Rudd and Dr. Liam Cheung, to Board of Directors](https://www.businesswire.com/news/home/20210610005758/en/Mogo-to-Add-Regulatory-and-Financial-Services-Industry-Veterans-Wendy-Rudd-and-Dr.-Liam-Cheung-to-Board-of-Directors)
+
+
+> June 10, 2021 12:10 PM Eastern Daylight Time VANCOUVER, British Columbia--(BUSINESS WIRE)--Mogo Inc. (NASDAQ:MOGO) (TSX:MOGO) ('Mogo' or the 'Company'), a digital payments and financial technology company, today announced that Wendy Rudd and Dr. Liam Cheung, executives with deep experience across multiple areas of the securities industry including regulatory, strategy, operations, and technology, have been nominated for election to the Company's board of directors at its upcoming annual shareholder meeting on June 29, 2021.
+
+
+***
+![RCMP use of Clearview AI facial recognition service violated Privacy Act, says report](https://i.itworldcanada.com/wp-content/uploads/2020/06/GettyImages-1148006029-620x250.jpg "RCMP use of Clearview AI facial recognition service violated Privacy Act, says report")
+
+
+[RCMP use of Clearview AI facial recognition service violated Privacy Act, says report](https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542)
+
+
+> The RCMP's use of facial recognition technology to conduct hundreds of searches of a database compiled illegally by facial recognition software provider Clearview AI violated the federal Privacy Act, says Canada's privacy commissioner. The post RCMP use of Clearview AI facial recognition service violated Privacy Act, says report first appeared on IT World Canada.
+
+
