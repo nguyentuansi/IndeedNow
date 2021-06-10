@@ -22297,3 +22297,53 @@
 > The RCMP's use of facial recognition technology to conduct hundreds of searches of a database compiled illegally by facial recognition software provider Clearview AI violated the federal Privacy Act, says Canada's privacy commissioner. The post RCMP use of Clearview AI facial recognition service violated Privacy Act, says report first appeared on IT World Canada.
 
 
+***
+![UN: Climate and extinction crises must be tackled together](https://www.clickorlando.com/resizer/YReFiRlWfcPg50MVsJez7ZY9QZM=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/ASPIXZJUPZFZTO5BO45HR7WW6A.jpg "UN: Climate and extinction crises must be tackled together")
+
+
+[UN: Climate and extinction crises must be tackled together](https://www.clickorlando.com/tech/2021/06/10/un-climate-and-extinction-crises-must-be-tackled-together/)
+
+
+> To save the planet, the world needs to tackle the crises of climate change and species loss together, taking measures that fix both and not just one, United Nations scientists said.A joint report Thursday by separate U.N. scientific bodies that look at climate change and biodiversity loss found there are ways to simultaneously attack the two global problems, but some fixes to warming could accelerate extinctions of plants and animals.For example, measures such as expansion of bioenergy crops like corn, or efforts to pull carbon dioxide from the air and bury it, could use so much land — twice the size of India — that the impact would be 'fairly catastrophic on biodiversity,' said co-author and biologist Almut Arneth at the Karlsruhe Institute of Technology in Germany.
+
+
+***
+![UN: Climate and extinction crises must be tackled together](https://www.local10.com/resizer/YReFiRlWfcPg50MVsJez7ZY9QZM=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/ASPIXZJUPZFZTO5BO45HR7WW6A.jpg "UN: Climate and extinction crises must be tackled together")
+
+
+[UN: Climate and extinction crises must be tackled together](https://www.local10.com/tech/2021/06/10/un-climate-and-extinction-crises-must-be-tackled-together/)
+
+
+> To save the planet, the world needs to tackle the crises of climate change and species loss together, taking measures that fix both and not just one, United Nations scientists said.A joint report Thursday by separate U.N. scientific bodies that look at climate change and biodiversity loss found there are ways to simultaneously attack the two global problems, but some fixes to warming could accelerate extinctions of plants and animals.For example, measures such as expansion of bioenergy crops like corn, or efforts to pull carbon dioxide from the air and bury it, could use so much land — twice the size of India — that the impact would be 'fairly catastrophic on biodiversity,' said co-author and biologist Almut Arneth at the Karlsruhe Institute of Technology in Germany.
+
+
+***
+![UN: Climate and extinction crises must be tackled together](https://www.news4jax.com/resizer/YReFiRlWfcPg50MVsJez7ZY9QZM=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/ASPIXZJUPZFZTO5BO45HR7WW6A.jpg "UN: Climate and extinction crises must be tackled together")
+
+
+[UN: Climate and extinction crises must be tackled together](https://www.news4jax.com/tech/2021/06/10/un-climate-and-extinction-crises-must-be-tackled-together/)
+
+
+> To save the planet, the world needs to tackle the crises of climate change and species loss together, taking measures that fix both and not just one, United Nations scientists said.A joint report Thursday by separate U.N. scientific bodies that look at climate change and biodiversity loss found there are ways to simultaneously attack the two global problems, but some fixes to warming could accelerate extinctions of plants and animals.For example, measures such as expansion of bioenergy crops like corn, or efforts to pull carbon dioxide from the air and bury it, could use so much land — twice the size of India — that the impact would be 'fairly catastrophic on biodiversity,' said co-author and biologist Almut Arneth at the Karlsruhe Institute of Technology in Germany.
+
+
+***
+![Borderland's Tiny Tina is finally getting her own game – with a star-studded cast](https://cdn.mos.cms.futurecdn.net/2ELGd7yD44mux3DuL35VVY-1200-80.jpg "Borderland's Tiny Tina is finally getting her own game – with a star-studded cast")
+
+
+[Borderland's Tiny Tina is finally getting her own game – with a star-studded cast](https://www.techradar.com/news/borderlands-tiny-tina-is-finally-getting-her-own-game-with-a-star-studded-cast)
+
+
+> (Image credit: Gearbox) Gearbox Software has revealed a new game Summer Game Fest Kickoff Live! called Tiny Tina's Wonderlands, and it's coming in 2022.The game appears to be a fantastical spin-off on the Borderlands series, but will apparently play out quite differently. It's inspired by Borderlands 2 DLC - Assault on Dragon's Keep - but is a standalone game. For starters, there will be spell-casting, and then you'll be able to customize your character. The game will also feature a star-studded voice cast, including Andy Samburg (Brooklyn 99), Wanda Sykes, Will Arnet.
+
+
+***
+![is there any python library /API for Instagram-style image filters?](https://external-preview.redd.it/Wl-QmaIHZVNZAgPRRi-LsFPZ3-bkJxrLQZ-NVArpNbU.jpg?auto=webp&s=fae702e10aaa885a28bdbd437e01cb84692a1221 "is there any python library /API for Instagram-style image filters?")
+
+
+[is there any python library /API for Instagram-style image filters?](https://www.reddit.com/r/Python/comments/nwu5np/is_there_any_python_library_api_for/)
+
+
+> I have searched around and openCV and PIL have the basic filters ...but most of the work has to be done by testing images and seeing the output. For example:https://towardsdatascience.com/image-filters-in-python-26ee938e57d2https://towardsdatascience.com/python-opencv-building-instagram-like-image-filters-5c482c1c5079https://medium.com/ai-simplified/create-your-own-instagram-filters-using-python-6d8bd3a86d4Are there any other libraries or APIs where I can just input the image and get a premade Instagram-style filter?Thanks.
+
+
