@@ -22347,3 +22347,47 @@
 > I have searched around and openCV and PIL have the basic filters ...but most of the work has to be done by testing images and seeing the output. For example:https://towardsdatascience.com/image-filters-in-python-26ee938e57d2https://towardsdatascience.com/python-opencv-building-instagram-like-image-filters-5c482c1c5079https://medium.com/ai-simplified/create-your-own-instagram-filters-using-python-6d8bd3a86d4Are there any other libraries or APIs where I can just input the image and get a premade Instagram-style filter?Thanks.
 
 
+***
+![Amazon Echo Show 8 review: Third time's the charm](https://icdn.digitaltrends.com/image/digitaltrends/amazon-echo-show-8-review-13-of-17.jpg "Amazon Echo Show 8 review: Third time's the charm")
+
+
+[Amazon Echo Show 8 review: Third time's the charm](https://www.digitaltrends.com/smart-home-reviews/amazon-echo-show-8-review/)
+
+
+> 'Not too big, but not too small, Amazon has an absolute gem with the Echo Show 8.' Size is perfect for any space Simple, on-device setup Strong audio performance Lacks YouTube integration If Goldilocks were to somehow stumble into Amazon's headquarters, she wouldn't have an affinity for either the 10-inch Echo Show or Echo Show 5. One's just too big, the other too small. She'd probably prefer something somewhere around the middle. Perhaps the Amazon Echo Show 8 with its in the middle sized 8-inch display will do nicely? Just like in the story, it could perhaps be just right.
+
+
+***
+![Dark Fantasy RPG Elden Ring Finally Gets Gameplay Trailer](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/youtu.be-MqXeohrnoaY%2855%29.jpg?itok=zBsA_fIk "Dark Fantasy RPG Elden Ring Finally Gets Gameplay Trailer")
+
+
+[Dark Fantasy RPG Elden Ring Finally Gets Gameplay Trailer](https://techraptor.net/gaming/news/dark-fantasy-rpg-elden-ring-finally-gets-gameplay-trailer)
+
+
+> 06/10/2021 - 16:05 | By: Tyler Chancey The eternity of waiting is finally over. In the grand finale to Geoff Keighly's Summer Game Fest as part of our coverage of E3 2021, we got a major gameplay trailer for the long awaited dark fantasy action RPG Elden Ring. After announcing the project seemingly a lifetime ago back in 2019, Elden Ring was heralded as the next big fantasy epic from Dark Souls director Hidetaka Miyazaki and acclaimed fantasy author George R. R. Martin. Now we have gameplay footage and it looks almost exactly what fans of the Souls series have come to expect.
+
+
+***
+[TikTok launches ‘Garden of Good': What does this news mean for the app?](https://filmdaily.co/tech/garden-good-tiktok/)
+
+
+> TikTok launches something called 'Garden of Good'. Learn what this news is, what it means for the app, and how you can get involved. The post TikTok launches ‘Garden of Good’: What does this news mean for the app? appeared first on Film Daily.
+
+
+***
+[Sources: Apple has hired Ulrich Kranz, who ran development of the BMW i3 and i8, in recent weeks to help lead its work on an electric car (Mark Gurman/Bloomberg)](http://www.techmeme.com/210610/p43#a210610p43)
+
+
+> Mark Gurman / Bloomberg: Sources: Apple has hired Ulrich Kranz, who ran development of the BMW i3 and i8, in recent weeks to help lead its work on an electric car — - Ulrich Kranz also co-founded autonomous auto startup Canoo — Apple is in early stages of building self-driving vehicle
+
+
+***
+![The best outdoor security cameras for 2021](https://icdn.digitaltrends.com/image/digitaltrends/wyze-cam-outdoor-review-7-of-11.jpg "The best outdoor security cameras for 2021")
+
+
+[The best outdoor security cameras for 2021](https://www.digitaltrends.com/home/best-outdoor-security-cameras/)
+
+
+> Don't give a stranger any reason to snoop around your home. Crimes such as burglary can easily be deterred by ensuring that you have all parts of your home monitored by a reliable outdoor security camera that captures events when you're there or not. When it comes to protecting your home, cameras positioned outdoors provide homeowners and apartment dwellers peace of mind when they're not there. They're even more useful when they're strategically positioned around the home from better vantage points.
+
+
