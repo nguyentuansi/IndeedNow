@@ -22106,3 +22106,53 @@
 > The Department of Health, with partners Microsoft and Info Alchemy Corporation, announced Thursday, June 10, that they have upgraded their DOH Data Collect (DDC) Dashboards. The upgrade will be enable them to give more timely information on metrics such as bed capacities, service availability, and COVID-19 supplies to local government unites (LGUs) and health facilities, the agency said. Enrique Tayag, the director of DOH's knowledge management and information technology service, said that the COVID-19 surge had "pushed DOH's old system to its limits requiring quick reengineering to record and process real-time data from the different health facilities and vaccination sites throughout the Philippines.
 
 
+***
+![Ek's Computex lineup flexes the best of PC builds](https://cdn.mos.cms.futurecdn.net/RDTaRAL6UH4GxfUgciyMGa-1200-80.jpg "Ek's Computex lineup flexes the best of PC builds")
+
+
+[Ek's Computex lineup flexes the best of PC builds](https://www.techradar.com/news/eks-computex-lineup-flexes-the-best-of-pc-builds)
+
+
+> (Image credit: EK) EK's Computex lineup is certainly something to admire. The brand unveiled a host of new products at the show, appealing to PC DIY enthusiasts who want to elevate the builds even further.EK also unveiled two series of circular-design, all-in-one liquid cooling solutions, the EK-Nucleus Lux and the EK-Nucleus Vision. The Nucleus line brings many new features, including a rotatable pump top, new fitting positions, and an LCD display. The display allows users to customize the look of their CPU cooler by showing for internal data such as temperatures, logos, and even gifs.
+
+
+***
+![Spectacular pics from around the world show ‘Ring of Fire' and partial solar eclipses](https://www.thesun.co.uk/wp-content/uploads/2021/06/NINTCHDBPICT000658377818.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Spectacular pics from around the world show ‘Ring of Fire' and partial solar eclipses")
+
+
+[Spectacular pics from around the world show ‘Ring of Fire' and partial solar eclipses](https://www.thesun.co.uk/tech/15221652/solar-eclipse-pictures-2021/)
+
+
+> TODAY marks the first solar eclipse of 2021 and it's visible in lots of countries all over the world. The partial eclipse will appear as a 'ring of fire' in some locations while in others it just appears to take a small chunk out of the Sun. The view from Canada as the Sun rose this morningCredit: TimeandDate The partial solar eclipse starting above London through thick cloudCredit: Alamy The partial eclipse starting above The Shard in LondonCredit: LNP The ring of fire occurs during an annular or partial solar eclipse.
+
+
+***
+![In a first, Saudi surgeons use mechanical pump to empower a weakened heart](https://sm.mashable.com/t/mashable_me/photo/default/shutterstock-1481125922_7zsf.1200.jpg "In a first, Saudi surgeons use mechanical pump to empower a weakened heart")
+
+
+[In a first, Saudi surgeons use mechanical pump to empower a weakened heart](https://me.mashable.com/tech/14173/in-a-first-saudi-surgeons-use-mechanical-pump-to-empower-a-weakened-heart)
+
+
+> Following its successful handling of the pandemic thanks to a robust digital infrastructure to support smart tools, the Middle East seems to be moving ahead quickly to explore medtech further. Past few months have marked the rise of telemedicine and entry of new-age gadgets into the region's healthcare ecosystem. Emirati doctors have performed surgeries via robots, and introduced sophisticated implants as small as coins, for the heart and the mind. At a time when wearable devices are providing real-time updates on pulse and oxygen levels, surgeons in Saudi Arabia have conducted a first of its kind procedure to boost blood-flow with a mechanical pump.
+
+
+***
+![AI adoption not yet leading to business benefits for manufacturers](https://cdn.mos.cms.futurecdn.net/o32fPtrBni3aBQR3wyWqqE-1200-80.jpg "AI adoption not yet leading to business benefits for manufacturers")
+
+
+[AI adoption not yet leading to business benefits for manufacturers](https://www.techradar.com/news/ai-adoption-not-yet-leading-to-business-benefits-for-manufacturers)
+
+
+> (Image credit: Shutterstock) Artificial Intelligence (AI) may be a hugely promising technology in the manufacturing industry, but so far it's remained nothing more than a promise.That's according to a new report from Google Cloud which claims many manufacturers are still stuck in 'pilot purgatory' as nascent AI technologies aren't mature enough for wider rollouts just yet.The report also cites recent Gartner findings which claim only around a fifth (21%) of companies in the manufacturing industry have active AI initiatives in production.
+
+
+***
+![IDEA: Highlight nested code blocks with boxes](https://external-preview.redd.it/NEkGnn5L65tJ5KEta1rduNh_aUAS-ExsNmL9V54E9zQ.jpg?auto=webp&s=154ad9979fc5c0e3686726c42881e4ac904a2c1f "IDEA: Highlight nested code blocks with boxes")
+
+
+[IDEA: Highlight nested code blocks with boxes](https://www.reddit.com/r/Python/comments/nwjt1z/idea_highlight_nested_code_blocks_with_boxes/)
+
+
+> Also supports Python.Check out my VSCode extension - Blockman, took me 6 months to build. Please help me promote/share/rate if you like it. You can customize block colors, depth, turn on/off focus, curly/square/round brackets, tags, python indentation and more.....https://marketplace.visualstudio.com/items?itemName=leodevbro.blockmanSupports Python, R, Go, PHP, JavaScript, JSX, TypeScript, TSX, C, C#, C++, Java, HTML, CSS and more...
+
+
