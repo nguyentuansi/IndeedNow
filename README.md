@@ -22006,3 +22006,53 @@
 > June 10, 2021 12:01 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--A new report from Accenture (NYSE: ACN) shows that while 88% of companies finally have a clear picture of the challenges they face today, only 6% are completely confident in their current abilities to foresee and respond to future disruption. Business Futures 2021 aims to help leaders make sense of a new reality by identifying the Signals of business change that are reshaping organizations globally and will be critically important for leaders to understand in order to drive success today and beyond.
 
 
+***
+![Elliptic Labs Announces Proof of Concept Project with Leading Taiwanese Laptop Original Design Manufacturer](https://mms.businesswire.com/media/20210609005983/en/884376/23/ellipticlabs-logo-blue.jpg "Elliptic Labs Announces Proof of Concept Project with Leading Taiwanese Laptop Original Design Manufacturer")
+
+
+[Elliptic Labs Announces Proof of Concept Project with Leading Taiwanese Laptop Original Design Manufacturer](https://www.businesswire.com/news/home/20210609005983/en/Elliptic-Labs-Announces-Proof-of-Concept-Project-with-Leading-Taiwanese-Laptop-Original-Design-Manufacturer)
+
+
+> June 10, 2021 02:00 AM Eastern Daylight Time OSLO, Norway--(BUSINESS WIRE)--Elliptic Labs (EuroNext Growth: ELABS.OL), a global AI software company and the world leader in Virtual Smart Sensors, is announcing a Proof-of-Concept project with a leading laptop Original Design Manufacturer (ODM). The AI Virtual Presence Sensor brings presence detection to laptops, giving these laptop systems increased security and improved power consumption. ODMs manufacture PCs/laptops designed by PC brands and are critical to the development and manufacturing process of PCs/laptops.
+
+
+***
+![ALERT! Vivo Y73 India launch set for TODAY: Check timings, expected price and specifications](https://cdn.zeebiz.com/sites/default/files/2021/06/10/151435-untitled-design-2021-06-10t112546509.jpg "ALERT! Vivo Y73 India launch set for TODAY: Check timings, expected price and specifications")
+
+
+[ALERT! Vivo Y73 India launch set for TODAY: Check timings, expected price and specifications](https://www.zeebiz.com/technology/mobiles/news-alert-vivo-y73-india-launch-set-for-today-check-timings-expected-price-and-specifications-158334)
+
+
+> Vivo Y73 India launch: The wait is finally over! In a bid to gain the mid-segment smartphone market in India, the smartphone brand Vivo will launch this smartphone today at 12 pm in the country. Vivo Y73 mobile is being teased for its slim and stylish design with a gradient textured back panel. It will be available in two color options - black and gradient blue.Meanwhile, before its official launch, Vivo Y73's price and renders have been revealed by the 91mobiles. According to the report, the smartphone will be priced at Rs.
+
+
+***
+![Moto G Stylus 5G With Snapdragon 480 SoC, Quad Rear Cameras Launched](https://i.gadgets360cdn.com/large/Moto_G_Stylus_5G_launch_1623303705763.jpg "Moto G Stylus 5G With Snapdragon 480 SoC, Quad Rear Cameras Launched")
+
+
+[Moto G Stylus 5G With Snapdragon 480 SoC, Quad Rear Cameras Launched](https://gadgets.ndtv.com/mobiles/news/moto-g-stylus-5g-price-usd-399-launch-sale-date-june-10-14-price-usd-399-specifications-lenovo-motorola-2460522)
+
+
+> Moto G Stylus 5G has launched in the US as the 5G variant of the Moto G Stylus (2021) that debuted in January this year. The new phone comes with a quad rear camera setup and a hole-punch cutout on the display for the selfie camera. The overall design of the 5G variant seems pretty similar to the 4G model except for the camera module on the back that carries one extra sensor. Moto G Stylus 5G is offered in a single RAM and storage configuration as well as a single colour option.Moto G Stylus 5G priceMoto G Stylus 5G is priced at $399 (roughly Rs.
+
+
+***
+![Full Cycle Developers](https://miro.medium.com/focal/1200/632/25/36/1*LhKUxthL3goY9oS0t5GBoQ.png "Full Cycle Developers")
+
+
+[Full Cycle Developers](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)
+
+
+> Netflix Technology BlogMay 17, 2018 · 10 min readThe year was 2012 and operating a critical service at Netflix was laborious. Deployments felt like walking through wet sand. Canarying was devolving into verifying endurance ('nothing broke after one week of canarying, let's push it') rather than correct functionality. Researching issues felt like bouncing a rubber ball between teams, hard to catch the root cause and harder yet to stop from bouncing between one another. All of these were signs that changes were needed.
+
+
+***
+![LG Electronics unveils mobile app 'Soft V2X' for pedestrian safety](https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/21/full/1603264105-0522.jpg "LG Electronics unveils mobile app 'Soft V2X' for pedestrian safety")
+
+
+[LG Electronics unveils mobile app 'Soft V2X' for pedestrian safety](https://www.business-standard.com/article/technology/lg-electronics-unveils-mobile-app-soft-v2x-for-pedestrian-safety-121061000216_1.html)
+
+
+> LG Electronics on Thursday unveiled a mobile application for pedestrian safety as the South Korean tech giant eyes to beef up its presence in the software sector despite its planned departure from the smartphone business. The Soft V2X, with V2X standing for "vehicle to everything," is LG's smartphone solution for pedestrian protection. The app can warn users of collision risks between pedestrians and vehicles, as well as possible car-to-car crashes, to prevent road accidents. The app can analyse data of the user's location, moving direction and speed on the cloud system in real time.
+
+
