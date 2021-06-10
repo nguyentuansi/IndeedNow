@@ -21912,3 +21912,50 @@
 > NetApp unveiled a new release of its ONTAP software that powers data services on premises and in the cloud, as well as an array of portfolio updates that leverage ONTAP to provide a flexible foundation for hybrid cloud, unify data management across on-premises and cloud environments, and simplify consumption and operation of hybrid cloud services. As the only provider of hybrid cloud solutions that offers native integration with the world's leading public clouds, NetApp is unifying management of on-premises and public cloud environments, delivering new ways to consume and operate data services that make it easier for enterprises to put their data to work – wherever and whenever they need it.
 
 
+***
+![Samsung releases industry's first 0.64-micrometer pixel image sensor](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/2fa048699d204f48a4765774414feb2d.jpg "Samsung releases industry's first 0.64-micrometer pixel image sensor")
+
+
+[Samsung releases industry's first 0.64-micrometer pixel image sensor](https://www.koreatimes.co.kr/www/tech/2021/06/133_310260.html)
+
+
+> A Samsung Electronics employee shows a 50-million megapixel ISOCELL JN1 unveiled by the company, June 10. / YonhapSamsung Electronics on Thursday introduced a new mobile image sensor, the industry's smallest pixel size, as the South Korean tech giant eyes to beef up its presence in the non-memory sector. The 50-million megapixel ISOCELL JN1 is the industry's first 0.64-micrometer pixel image sensor that can deliver ultra-high resolution images and allow manufacturers to make slim mobile devices, according to Samsung.
+
+
+***
+![Google Pixel 6 release date, price, news and leaks](https://cdn.mos.cms.futurecdn.net/vpA7aBXLxgC3Pu3AT98KWR-1200-80.jpg "Google Pixel 6 release date, price, news and leaks")
+
+
+[Google Pixel 6 release date, price, news and leaks](https://www.techradar.com/news/google-pixel-6)
+
+
+> We didn't see anything about the Google Pixel 6 at the Google IO 2021 keynote, but that's not surprising given its usual launch window later in the year. Still, we've already learned a ton about Android 12, and that's huge for fans looking forward to the Google Pixel 6.That's because the phone will likely be the first device to have the Android 12 operating system baked in: brand-new Android features will come to that phone first before trickling out to non-Google handsets. Older Pixel phones will almost certainly get the update at the same time, but it's possible – and based on the rumors, even likely – that the aging devices won't get all the new features that the Pixel 6 will get.
+
+
+***
+![#TECH: Xiaomi donates air purifiers, power banks to frontliners at Mitec PPV](https://assets.nst.com.my/images/articles/botsxiaomippv_NSTfield_image_socialmedia.var_1623291022.jpg "#TECH: Xiaomi donates air purifiers, power banks to frontliners at Mitec PPV")
+
+
+[#TECH: Xiaomi donates air purifiers, power banks to frontliners at Mitec PPV](https://www.nst.com.my/lifestyle/bots/2021/06/697464/tech-xiaomi-donates-air-purifiers-power-banks-frontliners-mitec-ppv)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[Golden Section Search Implementation in Python with Some Application Examples](https://www.reddit.com/r/Python/comments/nwchuw/golden_section_search_implementation_in_python/)
+
+
+> Hi all. I made a tutorial how to implement Golden Section Search method in Python for finding an extremum value. There is also some application examples for this method. Check it out https://www.geodose.com/2021/06/golden-section-search-python-application-example.html
+
+
+***
+![‘EVACUATE NOW': Flood emergency a ‘serious' danger in Victoria](https://cdn.newsapi.com.au/image/v1/f76a02b4877e7852c41fe0e1e4516ce5?width=1280 "‘EVACUATE NOW': Flood emergency a ‘serious' danger in Victoria")
+
+
+[‘EVACUATE NOW': Flood emergency a ‘serious' danger in Victoria](https://www.news.com.au/technology/environment/evacuation-order-for-victorians-living-in-traralgon-creek-area-due-to-flooding/news-story/03e2b6fddf412339d191a6da0268b3e7)
+
+
+> An evacuation order has been issued for those who live, work, or are holidaying in the Traralgon Creek area on June 10, 2021, due to floodwaters rising rapidly.Source:SuppliedVictorians living beside a creek in the state's southeast are being urged to evacuate immediately as floodwaters rise rapidly. Emergency Management Victoria issued the alert about 10.30am on Thursday for anybody living, working and holidaying in the Traralgon Creek area in Gippsland.Emergency Management Commissioner Andrew Crisp said more than 200 homes were impacted.
+
+
