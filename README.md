@@ -22391,3 +22391,53 @@
 > Don't give a stranger any reason to snoop around your home. Crimes such as burglary can easily be deterred by ensuring that you have all parts of your home monitored by a reliable outdoor security camera that captures events when you're there or not. When it comes to protecting your home, cameras positioned outdoors provide homeowners and apartment dwellers peace of mind when they're not there. They're even more useful when they're strategically positioned around the home from better vantage points.
 
 
+***
+![Tesla, Nio Shares Diverge: What Does It Signal For The EV Companies?](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/tesla-1738969_1920_47.jpg "Tesla, Nio Shares Diverge: What Does It Signal For The EV Companies?")
+
+
+[Tesla, Nio Shares Diverge: What Does It Signal For The EV Companies?](https://www.benzinga.com/analyst-ratings/analyst-color/21/06/21494218/tesla-nio-shares-diverge-what-does-it-signal-for-the-ev-companies)
+
+
+> Shares of Tesla, Inc. (NASDAQ: TSLA) and its Chinese rival NIO Inc. (NYSE: NIO) have recently begun to diverge in stock performance in a possible reflection of weakening sentiment toward the U.S. company. How Tesla, Nio Are Historically Correlated: Looking back into history since Nio began trading as a public company in the U.S. in September 2018, shares of Nio and Tesla have mostly traded in the same direction, except in stray periods. Once such divergence occurred in late 2019, when Nio was struggling to stay afloat as a "going concern" due to the liquidity crunch it was facing.
+
+
+***
+![OneDrive will soon run natively on Apple M1 silicon](https://cdn.mos.cms.futurecdn.net/6nzmkRRjosJqrjAmgBwxRV-1200-80.jpg "OneDrive will soon run natively on Apple M1 silicon")
+
+
+[OneDrive will soon run natively on Apple M1 silicon](https://www.techradar.com/news/onedrive-will-soon-run-natively-on-apple-m1-silicon)
+
+
+> (Image credit: Future) Microsoft is committed to ensuring that OneDrive users continue to have a great experience when using Apple products which is why the company has announced that its cloud storage service will soon be able to run natively on Apple M1 chips.Whether you're working from home or your company is preparing to implement hybrid working, you should be able to use the same software and services no matter where you are. This is why Microsoft is adding OneDrive support for M1-powered Macs like the new iMac, MacBook Air, 13-inch Macbook Pro and Mac Mini.
+
+
+***
+![One in 4 Medieval Brits had BUNIONS caused by craze for pointy shoes, analysis of 600-year-old skeletons shows](https://www.thesun.co.uk/wp-content/uploads/2021/06/JF-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "One in 4 Medieval Brits had BUNIONS caused by craze for pointy shoes, analysis of 600-year-old skeletons shows")
+
+
+[One in 4 Medieval Brits had BUNIONS caused by craze for pointy shoes, analysis of 600-year-old skeletons shows](https://www.thesun.co.uk/tech/15226655/medieval-britain-bunions-common-problem/)
+
+
+> A LOVE of pointy shoes in Medieval Britain left one in four of the population with bunions on their feet. That's according to a new study which used skeletons to show how a fashion trend for pointy shoes left many with deformed big toes. Medieval remains found in Cambridge revealed numerous individuals who would have hobbled around with sore feetCredit: Cambridge Archaeological Unit/St John's College Researchers were investigating medieval remains in Cambridgeshire in the UK and found that graves which likely belonged to wealthier individuals and clergy showed evidence of bunions.
+
+
+***
+![Hillicon Valley: Advocacy groups target Facebook employees in push to keep Trump off platform](https://thehill.com/sites/default/files/facebook-logo_040721getty_webb.jpg "Hillicon Valley: Advocacy groups target Facebook employees in push to keep Trump off platform")
+
+
+[Hillicon Valley: Advocacy groups target Facebook employees in push to keep Trump off platform](https://thehill.com/policy/technology/overnights/557887-hillicon-valley-advocacy-groups-target-facebook-employees-in)
+
+
+> Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter by clicking HERE. Welcome! Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@chrisismills) and Rebecca Klar (@rebeccaklar), for more coverage.More than 30 advocacy groups are organizing to encourage Facebook employees to keep former President TrumpDonald TrumpFormer House Republican to challenge DeWine for Ohio gubernatorial nomination GOP senators press Justice Department to compare protest arrests to Capitol riot Overnight Defense: Austin directs classified initiatives to counter China | Biden emphasizes alliances in speech to troops | Lockdown lifted at Texas base after reported shooting MORE off the platform permanently.
+
+
+***
+![Fintech Focus For June 11, 2021](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Fintech Focus For June 11, 2021")
+
+
+[Fintech Focus For June 11, 2021](https://www.benzinga.com/fintech/21/06/21521897/fintech-focus-for-june-11-2021)
+
+
+> Quote To Start The Day: "As my knowledge of things grew I felt more and more the delight of the world I was in.' Source: Helen Keller One Big Thing In Fintech: The Basel Committee on Banking Supervision on Thursday recommended the highest possible risk weighting — 1,250% — be applied to a bank's exposure to Bitcoin and some other cryptocurrencies. Under that suggestion, a bank would need to hold a dollar in capital for each dollar worth of Bitcoin, based on an 8% minimum capital requirement. Source: Banking Dive Other Key Fintech Developments: LemonEdge adding $2.
+
+
