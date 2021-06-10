@@ -21865,3 +21865,50 @@
 > Sara Clemens (Karat Photo) — Seattle startup Karat added a new board member and vice president of interview delivery. Twitch Chief Operating Officer Sara Clemens has been added to Karat's independent advisory board. Prior to joining Twitch, Clemens was an executive at Pandora, LinkedIn and Xbox. Rachael Granby was previously the head of product and client general manager at Wonder. As vice president of interview delivery, she will focus on improving Karat's interviewing process to help companies stay ahead on hiring engineers.
 
 
+***
+![CyberArk Identity Security Platform enhancements secure risky access and broaden identity protection](https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg "CyberArk Identity Security Platform enhancements secure risky access and broaden identity protection")
+
+
+[CyberArk Identity Security Platform enhancements secure risky access and broaden identity protection](https://www.helpnetsecurity.com/2021/06/10/cyberark-identity-security-platform/)
+
+
+> CyberArk announced major advancements to the CyberArk Identity Security Platform to help secure high-risk access and broaden protection across cloud and hybrid environments. Global organizations of all sizes can benefit from CyberArk's comprehensive, flexible set of cloud-delivered products and shared services to achieve an unmatched zero trust-based approach to protecting human and machine identities. Digital transformation and cloud migration initiatives continue to accelerate, and as a result, attackers are now targeting a quickly expanding attack surface, where any user can have some level of privileged access.
+
+
+***
+[Mac 針對當下，iPad 未來可期？](https://technews.tw/2021/06/10/ipad-pro-future/)
+
+
+> 當庫克（Tim Cook）偷偷的把 M1 晶片塞入 iPad Pro 時，這幾乎已經明示了 iPad Pro […]
+
+
+***
+![TC Energy Terminates Keystone XL Pipeline Project—Why Was it the Center of Controversies?](https://1734811051.rsc.cdn77.org/data/images/full/386913/keystone-xl-pipeline-project-get-terminated-by-tc-energy.jpg "TC Energy Terminates Keystone XL Pipeline Project—Why Was it the Center of Controversies?")
+
+
+[TC Energy Terminates Keystone XL Pipeline Project—Why Was it the Center of Controversies?](https://www.techtimes.com/articles/261277/20210609/tc-energy-terminates-keystone-xl-pipeline-project-why-controversial.htm)
+
+
+> Isaiah Richard, Tech Times 09 June 2021, 08:06 pm (Photo : Alex Wong/Getty Images) WASHINGTON, DC - JANUARY 13: An activist holds a sign during a protest in front of the White House against the Keystone XL pipeline January 13, 2015 in Washington, DC. Activists staged the protest to urge President Obama to reject the pipeline. TC Energy has terminated the Keystone XL Pipeline project after many years of pushing with it, and fighting with different groups and sectors for its permits to be approved.
+
+
+***
+![Mark Zuckerberg plans to work remotely for at least half of the next year](https://cdn.cnn.com/cnnnext/dam/assets/210609182152-zuckerberg-march-2021-super-tease.jpg "Mark Zuckerberg plans to work remotely for at least half of the next year")
+
+
+[Mark Zuckerberg plans to work remotely for at least half of the next year](https://www.cnn.com/2021/06/09/tech/zuckerberg-facebook-remote-work-memo/index.html)
+
+
+> The Facebook CEO told employees in a memo Wednesday that he plans to work remotely for at least half of the next year, a company spokesperson confirmed to CNN Business. The memo was previously reported by the Wall Street Journal. "I've found that working remotely has given me more space for long-term thinking and helped me spend more time with my family, which has made me happier and more productive at work," Zuckerberg wrote, according to the Journal. On Wednesday, Facebook (FB) said it would allow employees across all levels of the company to apply for remote work if their role allows them to do so.
+
+
+***
+![NetApp ONTAP software powers data services on premises and in the cloud](https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg "NetApp ONTAP software powers data services on premises and in the cloud")
+
+
+[NetApp ONTAP software powers data services on premises and in the cloud](https://www.helpnetsecurity.com/2021/06/10/netapp-ontap-software/)
+
+
+> NetApp unveiled a new release of its ONTAP software that powers data services on premises and in the cloud, as well as an array of portfolio updates that leverage ONTAP to provide a flexible foundation for hybrid cloud, unify data management across on-premises and cloud environments, and simplify consumption and operation of hybrid cloud services. As the only provider of hybrid cloud solutions that offers native integration with the world's leading public clouds, NetApp is unifying management of on-premises and public cloud environments, delivering new ways to consume and operate data services that make it easier for enterprises to put their data to work – wherever and whenever they need it.
+
+
