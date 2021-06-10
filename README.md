@@ -22056,3 +22056,53 @@
 > LG Electronics on Thursday unveiled a mobile application for pedestrian safety as the South Korean tech giant eyes to beef up its presence in the software sector despite its planned departure from the smartphone business. The Soft V2X, with V2X standing for "vehicle to everything," is LG's smartphone solution for pedestrian protection. The app can warn users of collision risks between pedestrians and vehicles, as well as possible car-to-car crashes, to prevent road accidents. The app can analyse data of the user's location, moving direction and speed on the cloud system in real time.
 
 
+***
+![Smart Infocast SMS broadcast system in use to fight online child abuse](https://assets2.rappler.com/2021/06/child-abuse-1623311074805.jpg "Smart Infocast SMS broadcast system in use to fight online child abuse")
+
+
+[Smart Infocast SMS broadcast system in use to fight online child abuse](https://www.rappler.com/technology/smart-infocast-sms-broadcast-system-online-child-abuse)
+
+
+> PLDT said on Thursday, June 10, that Smart's Infocast text broadcasting system is an effective tool in its anti-child sex abuse initiatives. The web-based text broadcast system is available in 800 communities across the country, reaching 1.3 million people, and can be used as a tool for disseminating info and reporting human trafficking and child abuse at the community level. "We're here to help the government strengthen its efforts, through our Infocast SMS broadcast system. Smart Infocast has already reached 1.
+
+
+***
+![Vivo Y73 with 6.44-inch AMOLED display, 64MP camera launched in India](https://cdn.mos.cms.futurecdn.net/o6DTHvY2JGy95j8YRdbNGe-1200-80.jpg "Vivo Y73 with 6.44-inch AMOLED display, 64MP camera launched in India")
+
+
+[Vivo Y73 with 6.44-inch AMOLED display, 64MP camera launched in India](https://www.techradar.com/news/vivo-y73-price-in-india-specs-review-availability)
+
+
+> (Image credit: Flipkart) Vivo has unveiled the Vivo Y73, its newest mid-range smartphone in India today. The Vivo Y73 is a phone that primarily focuses on design and ergonomics. It is also one of the lightest phones of the season. The Vivo Y73 was launched in an online-only event on Flipkart today.  Check out Vivo Y73 on Flipkart Rs 20,990: 6GB+128GBView Deal The Vivo Y73 is priced at Rs 20,990 and will be available on Flipkart. It will be available in Roman Black and  Diamond Flare colour options.
+
+
+***
+![Artificial Intelligence Server.](https://external-preview.redd.it/1QIJPLMNWnzIF2noc9aRd-AKVPpKiIAjMGUVR_uU23I.jpg?auto=webp&s=26dcf97008e71ac4a0737159c58bee7a9baf71da "Artificial Intelligence Server.")
+
+
+[Artificial Intelligence Server.](https://www.reddit.com/r/Python/comments/nwi2a2/artificial_intelligence_server/)
+
+
+> Hello everyone! we are building community/server about Artificial Intelligence. We will create train and deploy AI models. If you are interested in and knowledge about Python, we are excited to see you:https://discord.gg/ZYJXkGDt
+
+
+***
+![Al Jazeera says it has foiled hacking attempts](https://www.haaretz.com/polopoly_fs/1.9891883.1623311679!/image/2165144064.jpg_gen/derivatives/headline_1200x630/2165144064.jpg "Al Jazeera says it has foiled hacking attempts")
+
+
+[Al Jazeera says it has foiled hacking attempts](https://www.haaretz.com/israel-news/tech-news/al-jazeera-says-it-has-foiled-hacking-attempts-1.9891599)
+
+
+> Pan-Arab satellite network Al Jazeera said it was subjected to continual hacking attempts over recent days, but the cyberattack on Qatar's flagship broadcaster had been fended off. Al Jazeera's websites and platforms experienced "continued electronic attacks aimed at accessing, disrupting and controlling some of the news platforms" from last Saturday to Tuesday, the network said in a statement. LISTEN: In his final days, Bibi unleashes his most toxic minions "Al Jazeera's service provider was able to monitor and fend off all the hacking attacks and prevent them from achieving their goal," it said in the late Wednesday statement.
+
+
+***
+![DOH upgrades data dashboards to gather more comprehensive COVID-19 info](https://assets2.rappler.com/2021/06/shutterstock-covid-data-analytics-ls-1623311179283.png "DOH upgrades data dashboards to gather more comprehensive COVID-19 info")
+
+
+[DOH upgrades data dashboards to gather more comprehensive COVID-19 info](https://www.rappler.com/technology/doh-says-upgraded-data-dashboards-microsoft-info-alchemy)
+
+
+> The Department of Health, with partners Microsoft and Info Alchemy Corporation, announced Thursday, June 10, that they have upgraded their DOH Data Collect (DDC) Dashboards. The upgrade will be enable them to give more timely information on metrics such as bed capacities, service availability, and COVID-19 supplies to local government unites (LGUs) and health facilities, the agency said. Enrique Tayag, the director of DOH's knowledge management and information technology service, said that the COVID-19 surge had "pushed DOH's old system to its limits requiring quick reengineering to record and process real-time data from the different health facilities and vaccination sites throughout the Philippines.
+
+
