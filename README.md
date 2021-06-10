@@ -21959,3 +21959,50 @@
 > An evacuation order has been issued for those who live, work, or are holidaying in the Traralgon Creek area on June 10, 2021, due to floodwaters rising rapidly.Source:SuppliedVictorians living beside a creek in the state's southeast are being urged to evacuate immediately as floodwaters rise rapidly. Emergency Management Victoria issued the alert about 10.30am on Thursday for anybody living, working and holidaying in the Traralgon Creek area in Gippsland.Emergency Management Commissioner Andrew Crisp said more than 200 homes were impacted.
 
 
+***
+![New Mapping type module](https://external-preview.redd.it/p3HQXQzdkmyXyJ89enL6PkgmSdstFY5z1QkzOzRNUaU.jpg?auto=webp&s=01b29ed2d2e90d072e1fc7295da2c1cb3797f686 "New Mapping type module")
+
+
+[New Mapping type module](https://www.reddit.com/r/Python/comments/nwerjx/new_mapping_type_module/)
+
+
+> I made a new mapping data structure for python and called it gloss (https://pypi.org/project/gloss/). Its like a two-way dictionary, so all values are also unique.I was originally inspired by the core package logging's level representation. It seems so messy to keep _levelToName and _nameToLevel as separate dicts, still define all the values as global constants, which users might be tempted to change instead, and then wrap it all in global level getter/setter functions. It has, in fact lead to multiple issues1 and forced python to officially adopt unintended mistakes as documented behavior2.
+
+
+***
+[Jio vs Airtel vs Vi: Best unlimited prepaid plans with 84 days validity compared](http://www.pinkvilla.com/tech/news/jio-vs-airtel-vs-vi-best-unlimited-prepaid-plans-with-84-days-validity-compared-771053)
+
+
+> Attach Main technology Image: Image Caption: Jio vs Airtel vs Vi: Best unlimited prepaid plans with 84 days validity compared Social Media Image : Enter the Technology details: Reliance Jio, Airtel, and Vi (Vodafone and India combined) are amongst the biggest telecom operators in India at the moment. All these operators cater to millions of prepaid and postpaid subscribers across the country. Thanks to the competition between the telcos, the consumers in India have a handful of lucrative monthly or long term prepaid or postpaid plans to choose from.
+
+
+***
+![Korea's major conglomerates to set up Hydrogen Council](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/3205c56e0bf14496a6481e2d197c961d.jpg "Korea's major conglomerates to set up Hydrogen Council")
+
+
+[Korea's major conglomerates to set up Hydrogen Council](https://www.koreatimes.co.kr/www/tech/2021/06/693_310266.html)
+
+
+> Hyundai Motor Group Chairman Chung Euisun, left, and SK Group Chairman Chey Tae-won attend a hydrogen economy committee meeting in this 2021 March file photo. YonhapThe heads of South Korea's four major conglomerates met Thursday to discuss ways to set up a consultative body on hydrogen in a move that underscored their commitment to fostering the clean energy source.Hyundai Motor Group Chairman Chung Euisun met with SK Group Chairman Chey Tae-won, POSCO Chairman Choi Jeong-woo and Hyosung Chairman Cho Hyun-joon at the automaker's Namyang Research Development Center in Hwaseong, about 40 kilometers south of Seoul, according to Hyundai Motor.
+
+
+***
+![BMO Financial Group Selects AWS as Its Preferred Cloud Provider](https://mms.businesswire.com/media/20210609005920/en/841482/23/AWS_logo_RGB.jpg "BMO Financial Group Selects AWS as Its Preferred Cloud Provider")
+
+
+[BMO Financial Group Selects AWS as Its Preferred Cloud Provider](https://www.businesswire.com/news/home/20210609005920/en/BMO-Financial-Group-Selects-AWS-as-Its-Preferred-Cloud-Provider)
+
+
+> June 10, 2021 12:01 AM Eastern Daylight Time SEATTLE--(BUSINESS WIRE)--Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that BMO Financial Group (BMO) has selected AWS as its preferred, strategic cloud provider. BMO will use AWS to modernize its banking platforms and build digital financial services applications as part of the company's ongoing digital transformation. Using AWS's extensive portfolio of cloud capabilities, including analytics, machine learning, serverless, compute, storage, and database, BMO will develop and scale digital platforms and services for its global customers, meeting and strengthening stringent security and compliance standards.
+
+
+***
+![Accenture Business Futures 2021 Report Identifies the Signals to Guide Companies Navigating Change in the Era of Compressed Transformation](https://mms.businesswire.com/media/20210609005860/en/884169/23/Interactive.jpg "Accenture Business Futures 2021 Report Identifies the Signals to Guide Companies Navigating Change in the Era of Compressed Transformation")
+
+
+[Accenture Business Futures 2021 Report Identifies the Signals to Guide Companies Navigating Change in the Era of Compressed Transformation](https://www.businesswire.com/news/home/20210609005860/en/Accenture-Business-Futures-2021-Report-Identifies-the-Signals-to-Guide-Companies-Navigating-Change-in-the-Era-of-Compressed-Transformation)
+
+
+> June 10, 2021 12:01 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--A new report from Accenture (NYSE: ACN) shows that while 88% of companies finally have a clear picture of the challenges they face today, only 6% are completely confident in their current abilities to foresee and respond to future disruption. Business Futures 2021 aims to help leaders make sense of a new reality by identifying the Signals of business change that are reshaping organizations globally and will be critically important for leaders to understand in order to drive success today and beyond.
+
+
