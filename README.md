@@ -22706,3 +22706,47 @@
 > Catalin Cimpanu / The Record: Google abandons experiment to hide parts of site URLs in the Chrome address bar, which ran from June 2020 to June 2021 — Google's experiment to hide parts of a site's URL in the Chrome address bar (the Omnibox) has failed and has been removed from the browser earlier this week.
 
 
+***
+![Mcdonald's hit by data breach in South Korea, Taiwan](https://www.reuters.com/pf/resources/icons/favicon.ico?d=36 "Mcdonald's hit by data breach in South Korea, Taiwan")
+
+
+[Mcdonald's hit by data breach in South Korea, Taiwan](https://www.reuters.com/technology/mcdonalds-hit-by-data-breach-south-korea-taiwan-wsj-2021-06-11/)
+
+
+> McDonald's Corp (MCD.N) was hit by a data breach in South Korea, and Taiwan, exposing some customer, employee information, the Wall Street Journal reported on Friday. The company was not immediately available for a comment. Our Standards: The Thomson Reuters Trust Principles.
+
+
+***
+[Automation in Agriculture Market is Projected to Expand at a Steady CAGR over the Forecast by 2028 Covid-19 Analysis](https://www.openpr.com/news/2303398/automation-in-agriculture-market-is-projected-to-expand-at)
+
+
+> Global Automation in Agriculture Market - Scope of the Report: The increasing interest in technology and automation is ostensible in venture capital investments for agritech startups. These startups are increasingly addressing every aspect of the agriculture value chain. Few startups
+
+
+***
+[Sentinel objects, type hints, and PEP 661](https://www.reddit.com/r/Python/comments/nxebmb/sentinel_objects_type_hints_and_pep_661/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
+***
+![You're Probably Not Using the Web's Best Browser](https://media.wired.com/photos/60c26fa7eaa210b2096c9423/191:100/w_1280,c_limit/Gear-Vivaldi-Review-featured.jpg "You're Probably Not Using the Web's Best Browser")
+
+
+[You're Probably Not Using the Web's Best Browser](https://www.wired.com/story/vivaldi-4-2021/)
+
+
+> Remember when web browsers were useful tools? Remember when you could follow sites you liked, check your email, and see your calendar, all without leaving the browser? Or, I should say, remember when you could do all that without Big Tech feeding your personal data into the yawning maw of surveillance capitalism? I remember those days because I am still living in them, thanks to a web browser you might not have heard of: Vivaldi. This week, the team behind the Vivaldi web browser released version 4.
+
+
+***
+![Accenture Receives Three ‘Partner of the Year' Awards From Adobe](https://mms.businesswire.com/media/20210611005077/en/884591/23/Adobe.jpg "Accenture Receives Three ‘Partner of the Year' Awards From Adobe")
+
+
+[Accenture Receives Three ‘Partner of the Year' Awards From Adobe](https://www.businesswire.com/news/home/20210611005077/en/Accenture-Receives-Three-%E2%80%98Partner-of-the-Year%E2%80%99-Awards-From-Adobe)
+
+
+> NEW YORK--(BUSINESS WIRE)--Accenture (NYSE: ACN) has been recognized with three Adobe Partner of the Year Awards for 2021, in honor of its contributions to Adobe's business and its significant impact on customer success. Accenture received the following awards: 2021 Digital Experience Solution Partner of the Year (Americas): This award recognizes Accenture Interactive's strong results, which include achieving several hundred technical certifications. Additionally, Accenture Interactive further developed its robust customer experience pipeline in collaboration with the Adobe Customer Solutions delivery teams.
+
+
