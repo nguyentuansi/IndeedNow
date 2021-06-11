@@ -22585,3 +22585,50 @@
 > Highlights 300Mbps plan from both operators cost Rs 1499. Jio Fiber offers a pack of 15 free apps. Airtel Xstream Fiber bundles an Xstream DTH box. The Jio Fiber packs a total of 15 free apps that include Netflix, Amazon Prime Video, Disney+Hotstar VIP, SonyLIV, ZEE5, Voot Select, Voot Kids, Sun NXT, Altbalaji, Hoichoi, ShemarooMe, Lionsgate Play, Discovery+, Eros Now, JioCinema and Jio Music. On the other hand, Airtel Xstream only has four apps on offer, including Amazon Prime, Disney+Hotstar, Airtel Xstream and Wynk Music.
 
 
+***
+![What is your current stance on the MacBook Pro's Touch Bar now that it has been refreshed?](https://images.macrumors.com/social/?t=2300393&v=6 "What is your current stance on the MacBook Pro's Touch Bar now that it has been refreshed?")
+
+
+[What is your current stance on the MacBook Pro's Touch Bar now that it has been refreshed?](https://forums.macrumors.com/threads/what-is-your-current-stance-on-the-macbook-pros-touch-bar-now-that-it-has-been-refreshed.2300393/)
+
+
+> May 20, 2010 4,197 1,093 Los Angeles, CA Effectively there are two generations of the MacBook Pro Touch Bar. One with a digital touch Esc key and one with a physical Esc key. I'm curious as to whether or not your opinion of the Touch Bar changed from one generation to the next and in which direction. Personally, I was always ambivalent on the first iteration of it; though I leaned much more on not liking it as soon as I needed to force-quit and app and found that I couldn't because the Touch Bar had also crashed.
+
+
+***
+![India, Australia to expand cyber security cooperation](https://www.thehindu.com/sci-tech/technology/8x04j8/article34786874.ece/ALTERNATES/LANDSCAPE_615/cyber-security-660-ptijpg "India, Australia to expand cyber security cooperation")
+
+
+[India, Australia to expand cyber security cooperation](https://www.thehindu.com/sci-tech/technology/india-australia-to-expand-cyber-security-cooperation/article34786565.ece)
+
+
+> (Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)India and Australia on Thursday agreed to broad-base cooperation in the spheres of the digital economy and cyber-enabled critical technologies, noting the need to strengthen the security of critical information infrastructure such as 5G telecom networks.The two sides discussed a range of issues relating to emerging technologies in the cyber domain at the first meeting of the India-Australia Joint Working Group (JWG) on cyber security cooperation, according to the Ministry of External Affairs (MEA).
+
+
+***
+![step by step swap visualization of sorting algorithm. This video has 2 parts firs,t swapping visualization and second, explanation of each sorting algorithm with different criteria including python code.](https://external-preview.redd.it/HgwRLiStBITNKOLFu5tFj_xSW8DHFh_0AdF667oKNQo.jpg?auto=webp&s=b235bef7c37b9913ef2dbc8b4a2ba1b2de885d67 "step by step swap visualization of sorting algorithm. This video has 2 parts firs,t swapping visualization and second, explanation of each sorting algorithm with different criteria including python code.")
+
+
+[step by step swap visualization of sorting algorithm. This video has 2 parts firs,t swapping visualization and second, explanation of each sorting algorithm with different criteria including python code.](https://www.reddit.com/r/Python/comments/nx8qaq/step_by_step_swap_visualization_of_sorting/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Tesla launches faster Model S #39;Plaid#39;, Elon Musk says #39;This car crushes#39;](https://images.moneycontrol.com/static-mcnews/2021/06/2021-06-10T041829Z_1_LYNXNPEH5903N_RTROPTP_4_TESLA-MODEL-S-PLAID-653x435.jpg "Tesla launches faster Model S #39;Plaid#39;, Elon Musk says #39;This car crushes#39;")
+
+
+[Tesla launches faster Model S #39;Plaid#39;, Elon Musk says #39;This car crushes#39;](https://www.moneycontrol.com/news/technology/auto/tesla-launches-faster-model-s-plaid-elon-musk-says-this-car-crushes-7019881.html)
+
+
+> Tesla Inc delivered a high-performance version of its Model S on Thursday, aiming to reignite interest in the nearly decade-old sedan and fend off rivals such as Porsche, Mercedes-Benz and Lucid Motors in the luxury electric vehicle market.Tesla redefined electric cars in 2012 when it launched its high-end Model S with a sleek design and long driving range, and Chief Executive Elon Musk said the new version was designed for a future where cars drove themselves."This car crushes," Musk said at an evening delivery event held at Tesla's US factory in Fremont, California.
+
+
+***
+[Nvidia acquires DeepMap, which is building high-definition maps for autonomous vehicles; DeepMap has raised $91M from investors (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210611/p1#a210611p1)
+
+
+> Rebecca Bellan / TechCrunch: Nvidia acquires DeepMap, which is building high-definition maps for autonomous vehicles; DeepMap has raised $91M from investors — Chipmaker Nvidia is acquiring DeepMap, the high-definition mapping startup announced. The company said its mapping IP will help Nvidia's autonomous vehicle technology sector, Nvidia Drive.
+
+
