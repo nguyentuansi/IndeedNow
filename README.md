@@ -22491,3 +22491,47 @@
 > An anime film will take us back to Middle-earth. Warner Bros. A new Lord of the Rings prequel is on its way -- this time, in anime form. The Lord of the Rings: The War of the Rohirrim will focus on Helm Hammerhand, the ninth king of Rohan. The movie set in J.R.R. Tolkien's Middle-earth universe was announced Thursday and will be made by Warner Bros. Animation and Kenji Kamiyama, the director behind Ghost in the Shell.The flick will go into the history of Helm's Deep, the famous site of the later Battle of the Hornburg during the War of the Ring, shown in Peter Jackson's Lord of the Rings: The Two Towers movie.
 
 
+***
+![The Guy Who Went Viral For Singing 'Unwritten' In A Car Is Super Creeped Out By His Online Fame](https://img.buzzfeed.com/buzzfeed-static/static/2021-06/11/0/campaign_images/3eb485a2ae4c/the-guy-who-went-viral-for-singing-unwritten-in-a-2-1296-1623372775-11_dblbig.jpg?resize=1200:* "The Guy Who Went Viral For Singing 'Unwritten' In A Car Is Super Creeped Out By His Online Fame")
+
+
+[The Guy Who Went Viral For Singing 'Unwritten' In A Car Is Super Creeped Out By His Online Fame](https://www.buzzfeednews.com/article/juliareinstein/unwritten-car-kid-sean-kickham)
+
+
+> It was over six years ago, on a sunny day in Norman, Oklahoma, that 16-year-old Sean Kickham released his inhibitions, felt the rain on his skin, and became forever inscribed in the meme canon, whether he liked it or not.Sitting in the passenger seat of his friend's car that day in May 2015, Kickham belted out an impassioned rendition of Natasha Bedingfield's 2004 hit 'Unwritten' in the parking lot of a Chick-fil-A, where the high schoolers had gone for their lunch break. His friend filmed it from another car, and his life — still unwritten — changed forever.
+
+
+***
+[藝電坦承遊戲原始碼、工具遭駭，資安 ETF 創 2 月新高](https://technews.tw/2021/06/11/ea-be-hacked/)
+
+
+> MarketWatch 10 日報導，藝電（Electronic Arts Inc.）發言人坦承公司資料遭駭客 […]
+
+
+***
+[Brazil-based Buser, which partners with charter bus companies to offer customers safe and low cost travel via its app, raises $138M from LGT, SoftBank, others (Alberto Alerigi Jr/Reuters)](http://www.techmeme.com/210610/p52#a210610p52)
+
+
+> Alberto Alerigi Jr / Reuters: Brazil-based Buser, which partners with charter bus companies to offer customers safe and low cost travel via its app, raises $138M from LGT, SoftBank, others — SAO PAULO (Reuters) - Brazilian intercity bus startup Buser said on Thursday it had raised 700 million reais ($138 million) …
+
+
+***
+![DARPA shoots streamers to counter drone swarms in urban areas](https://external-preview.redd.it/FE1PxAY7UVMJvnLWki87nYTkY0GETxWMcqvLP2vXO-k.jpg?auto=webp&s=b139290923b9127d4902a0b0f3261fb0fea29117 "DARPA shoots streamers to counter drone swarms in urban areas")
+
+
+[DARPA shoots streamers to counter drone swarms in urban areas](https://www.reddit.com/r/technology/comments/nx4xwg/darpa_shoots_streamers_to_counter_drone_swarms_in/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![America's Image Abroad Rebounds With Transition From Trump to Biden](https://www.pewresearch.org/global/wp-content/uploads/sites/2/2021/06/PG_21.06.08_US-Image_Confidence_lede_2.png?w=1098&h=620&crop=1 "America's Image Abroad Rebounds With Transition From Trump to Biden")
+
+
+[America's Image Abroad Rebounds With Transition From Trump to Biden](https://www.pewresearch.org/global/2021/06/10/americas-image-abroad-rebounds-with-transition-from-trump-to-biden/)
+
+
+> This analysis focuses on public opinion of the United States in 16 advanced economies in North America, Europe and the Asia-Pacific region. Views of the U.S. and its president are examined in the context of long-term trend data. The report also explores how people view President Joe Biden's proposed policies and characteristics. For this report, we use data from nationally representative surveys of 16,254 adults from March 12 to May 26, 2021. All surveys were conducted over the phone with adults in Canada, Belgium, France, Germany, Greece, Italy, the Netherlands, Spain, Sweden, the UK, Australia, Japan, New Zealand, Singapore, South Korea and Taiwan.
+
+
