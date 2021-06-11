@@ -22535,3 +22535,53 @@
 > This analysis focuses on public opinion of the United States in 16 advanced economies in North America, Europe and the Asia-Pacific region. Views of the U.S. and its president are examined in the context of long-term trend data. The report also explores how people view President Joe Biden's proposed policies and characteristics. For this report, we use data from nationally representative surveys of 16,254 adults from March 12 to May 26, 2021. All surveys were conducted over the phone with adults in Canada, Belgium, France, Germany, Greece, Italy, the Netherlands, Spain, Sweden, the UK, Australia, Japan, New Zealand, Singapore, South Korea and Taiwan.
 
 
+***
+![Microsoft wants to offer Xbox gaming on TVs without the console](https://static.straitstimes.com.sg/s3fs-public/articles/2021/06/11/nz_xbpx_110661.jpg "Microsoft wants to offer Xbox gaming on TVs without the console")
+
+
+[Microsoft wants to offer Xbox gaming on TVs without the console](https://www.straitstimes.com/tech/tech-news/microsoft-wants-to-offer-xbox-gaming-on-tvs-without-the-console)
+
+
+> REDMOND (BLOOMBERG, AFP) - No console? No problem. Microsoft said on Thursday (June 10) its Xbox gaming unit is working on new hardware and deals with television makers that will let people play games and experience the Xbox without needing to buy a gaming machine. The news came as Microsoft and other video game industry heavyweights prepare to show off coming titles at an annual Electronic Entertainment Expo (E3) being held virtually beginning Saturday due to the pandemic. "As a company, Microsoft is all-in on gaming," chief executive Satya Nadella said in introducing the plan.
+
+
+***
+![Battlegrounds Mobile India release date teased, Krafton says gearing up for the launch](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/pubg_pan-483x271_1200_210611093445.jpeg "Battlegrounds Mobile India release date teased, Krafton says gearing up for the launch")
+
+
+[Battlegrounds Mobile India release date teased, Krafton says gearing up for the launch](https://www.indiatoday.in/technology/news/story/battlegrounds-mobile-india-release-date-teased-krafton-says-gearing-up-for-the-launch-1813454-2021-06-11)
+
+
+> Highlights Battlegrounds Mobile India release date may have been revealed by Krafton. Krafton has shared a new poster that hints at the June 18th launch. Battlegrounds Mobile India is a rebadged PUBG Mobile for India. PUBG Mobile India version, Battlegrounds Mobile India, is coming soon. Krafton recently said that it's almost time for the chicken dinner to return to your plates. Now, in a fresh teaser, Krafton, the company that owns the PUBG and Battlegrounds Mobile IP rights, may have revealed the launch date for Battlegrounds Mobile India.
+
+
+***
+![Fake website claims CoWin data of 150 million leaked, security researchers call it a Bitcoin scam](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/rtx8iyqz-483x271_1200_210611093450.png "Fake website claims CoWin data of 150 million leaked, security researchers call it a Bitcoin scam")
+
+
+[Fake website claims CoWin data of 150 million leaked, security researchers call it a Bitcoin scam](https://www.indiatoday.in/technology/news/story/fake-website-claims-cowin-data-of-150-million-leaked-security-researchers-call-it-a-bitcoin-scam-1813451-2021-06-11)
+
+
+> Highlights A website on Thursday claimed that the data of 150 million vaccinated Indians have been leaked on the dark web. Health Ministry and security researchers denied the data breach but said that they are getting the matter investigated. CoWin platform is used to book a slot for COVID-19 vaccination. A website on Thursday claimed that the data of 150 million vaccinated Indians have been leaked on the dark web. However, the Health Ministry and security researchers denied the data breach but said that they are getting the matter investigated.
+
+
+***
+![Redmi Note 10 5G review](https://assets2.rappler.com/2021/06/Redmi-Note-10-5G-4-1623382752332.jpg "Redmi Note 10 5G review")
+
+
+[Redmi Note 10 5G review](https://www.rappler.com/technology/reviews/redmi-note-10-5g-review)
+
+
+> The 6.5-inch screen here is particularly noteworthy, too. Not only is it fairly sizable, it also supports 90Hz refresh rate, a feature that just a couple of years ago was unique to premium flagships. Refresh rates in phones have since pushed up to a maximum of 120Hz. That, however, doesn't take away from the inclusion of a 90Hz setting here. You can still enjoy that silky smooth scrolling effect the same as any other phone with variable refresh rate settings. So it's still a win.
+
+
+***
+![Airtel Xstream Fiber vs Jio Fiber: 300Mbps monthly broadband plans, benefits compared](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/jio_fiber_vs_airtel_xstream_fi-483x271_1200_210611091310.jpeg "Airtel Xstream Fiber vs Jio Fiber: 300Mbps monthly broadband plans, benefits compared")
+
+
+[Airtel Xstream Fiber vs Jio Fiber: 300Mbps monthly broadband plans, benefits compared](https://www.indiatoday.in/technology/features/story/airtel-xstream-fiber-vs-jio-fiber-300mbps-monthly-broadband-plans-benefits-compared-1813444-2021-06-11)
+
+
+> Highlights 300Mbps plan from both operators cost Rs 1499. Jio Fiber offers a pack of 15 free apps. Airtel Xstream Fiber bundles an Xstream DTH box. The Jio Fiber packs a total of 15 free apps that include Netflix, Amazon Prime Video, Disney+Hotstar VIP, SonyLIV, ZEE5, Voot Select, Voot Kids, Sun NXT, Altbalaji, Hoichoi, ShemarooMe, Lionsgate Play, Discovery+, Eros Now, JioCinema and Jio Music. On the other hand, Airtel Xstream only has four apps on offer, including Amazon Prime, Disney+Hotstar, Airtel Xstream and Wynk Music.
+
+
