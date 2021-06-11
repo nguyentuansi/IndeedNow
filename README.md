@@ -22894,3 +22894,53 @@
 > Monday June 7, 2021 10:07 am PDT by Hartley CharltonApple today previewed iOS 15, the company's next major update for the iPhone, featuring new video calling capabilities, improvements to Messages, user statuses, a smart notification summary, and more.FaceTimeIn iOS 15, FaceTime features a new grid view and portrait mode support for video. For audio, FaceTime calls now offer Spatial Audio so that voices sound as if they are coming from...
 
 
+***
+![Razer's $99 Opus X wireless headset aims to cover all of your audio needs](https://icdn.digitaltrends.com/image/digitaltrends/razer-7.jpg "Razer's $99 Opus X wireless headset aims to cover all of your audio needs")
+
+
+[Razer's $99 Opus X wireless headset aims to cover all of your audio needs](https://www.digitaltrends.com/computing/razer-announces-the-opus-x-a-99-wireless-lifestyle-headset/)
+
+
+> Razer is expanding its headset lineup with the Opus X, a wireless lifestyle audio peripheral featuring Active Noise Cancellation (ANC), a low-latency gaming mode, 40mm drivers, dual microphones, and Bluetooth 5.0. Manufactured with aesthetics in mind, the Opus X sports a stylish body and comes in various colors including Razer Green, Mercury White, and Quartz Pink. It is meant to serve as a fashionable wireless headset that also handles your gaming, entertainment, and work needs. Razer promises that this over-ear headset sounds as good as it looks, and will be vying for a spot among the best gaming headsets you can buy right now.
+
+
+***
+![Jaybird Vista 2 review: Athletic earbuds for military-grade workouts](https://icdn.digitaltrends.com/image/digitaltrends/jaybird-vista-2-review-00008.jpg "Jaybird Vista 2 review: Athletic earbuds for military-grade workouts")
+
+
+[Jaybird Vista 2 review: Athletic earbuds for military-grade workouts](https://www.digitaltrends.com/headphone-reviews/jaybird-vista-2-review/)
+
+
+> Fully water and dustproof Compact and secure fit Great sound quality Wireless charging Very poor call quality ANC struggles with wind noise We were pretty impressed with Jaybird's Vista when they launched in 2019. As the company's third attempt at creating a top-notch, athlete-friendly set of true wireless earbuds, the $150 Vista (which debuted at $180) handily succeeded where the previous Jaybird Run and Run XT didn't. They sounded great and featured a compact and rugged design. But time waits for no one, and in 2021, if you want to be the best running headphones or simply the best for any kind of intense activity, you need more.
+
+
+***
+![Best cheap Bluetooth speaker deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/marshall-tufton-bluetooth-speaker-road.jpg "Best cheap Bluetooth speaker deals for June 2021")
+
+
+[Best cheap Bluetooth speaker deals for June 2021](https://www.digitaltrends.com/dtdeals/best-cheap-bluetooth-speaker-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. For a handy way to take your tunes with you wherever you go — whether you're out and about hiking, cycling, or just hanging out with friends at a picnic or a pool party — then a Bluetooth speaker is a great option. You can link your Bluetooth speaker to your phone or other device for easy music wherever you are. If you look for Bluetooth speakers online, you'll find an almost dizzying range available, and this can be confusing.
+
+
+***
+![Surface Duo 2: Everything we know about Microsoft's next dual-screen phone](https://icdn.digitaltrends.com/image/digitaltrends/olympus-digital-camera-842.jpg "Surface Duo 2: Everything we know about Microsoft's next dual-screen phone")
+
+
+[Surface Duo 2: Everything we know about Microsoft's next dual-screen phone](https://www.digitaltrends.com/mobile/microsoft-surface-duo-2-rumors-specs-design/)
+
+
+> In 2020, Microsoft released the Surface Duo, and it didn't end up being as popular as the company had hoped. Reviewers and early adopters of the device mentioned issues with the software, the cameras, and even performance. One year later, Microsoft is apparently working on a follow-up to the device, code-named Zeta. It is believed to address a lot of problems from the first Surface Duo and could be coming at the end of this year. Here's a look at everything we currently know about the device so far.
+
+
+***
+![PS5 restock update: Best Buy Ratchet & Clank bundle appears – get a stock alert](https://cdn.mos.cms.futurecdn.net/3J2uAnob8ZidqMEWU7ckHA-1200-80.jpg "PS5 restock update: Best Buy Ratchet & Clank bundle appears – get a stock alert")
+
+
+[PS5 restock update: Best Buy Ratchet & Clank bundle appears – get a stock alert](https://www.techradar.com/news/ps5-restock-best-buy)
+
+
+> Update: The Best Buy PS5 restock today seems imminent, and although we don't know the exact time, our PS5 restock Twitter tracker Matt Swider will send you an alert when it's in stock – if you follow his account and turn on notifications.Why today? Best Buy recently added a PS5 console bundle with Ratchet & Clank: A Rift Apart (a PS5-exclusive game that just launched). It says 'Sold out' but that seems to be just a placeholder. If it's today, the latest we've seen Best Buy restock the PS5 is at 3:40pm EDT, at least in 2021.
+
+
