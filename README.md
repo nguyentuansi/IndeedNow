@@ -22847,3 +22847,50 @@
 > 06/11/2021 - 12:13 | By: Nick Maillet Home Videos Summer Games Fest Wrapup & Breakdown - E3 2021 Breaking down some of the trailers from todays Summer Games Fest Summer is here and so is E3 ... sort of. To start off the event, the Dorito pope himself, Geoff Keighley, hosted the Summer Games Fest. During this 90+ minute livestream, dozens of game trailers were shown including the highly anticipated release date for Elden Ring. In the video below Nick breaks down the 8 most important trailers and gives you all the information you need (spoiler alert, most of them have vague release dates).
 
 
+***
+![MacRumors Giveaway: Win a Magnetic iPad Stand From Lululook](https://images.macrumors.com/t/jB-lovaFJBIX_LQbGmx2Uk4kPME=/2000x/https://images.macrumors.com/article-new/2021/06/lululook-ipad-stand-1.jpg "MacRumors Giveaway: Win a Magnetic iPad Stand From Lululook")
+
+
+[MacRumors Giveaway: Win a Magnetic iPad Stand From Lululook](https://www.macrumors.com/2021/06/11/macrumors-giveaway-lululook-magnetic-ipad-stand/)
+
+
+> For this week's giveaway, we've teamed up with Lululook to offer MacRumors readers a chance to win a Magnetic iPad Stand that's great for hands-free iPad use. Priced at $55, the Lululook Magnetic ‌iPad‌ Stand is an adjustable mount for the ‌iPad‌. Apple's modern iPads attach magnetically to the stand, putting the ‌iPad‌ at an ideal viewing angle for pairing with a keyboard, drawing, watching shows, and more. The stand features strong built-in magnets that ensure the ‌iPad‌ is perfectly aligned when it's put in place, and anti-slip silicone keeps the ‌iPad‌ from being scratched.
+
+
+***
+![Resident Evil Netflix series cast includes Lance Reddick as Albert Wesker](https://cdn.mos.cms.futurecdn.net/yWubjNSLFcXzZ4MdvS3RtM-1200-80.jpg "Resident Evil Netflix series cast includes Lance Reddick as Albert Wesker")
+
+
+[Resident Evil Netflix series cast includes Lance Reddick as Albert Wesker](https://www.techradar.com/news/resident-evil-netflix-series-cast-includes-lance-reddick-as-albert-wesker)
+
+
+> (Image credit: Sony Pictures) Netflix is going big with its upcoming Resident Evil series. The show is based on the massive survival-horror game franchise of the same name, and thanks to presentations during the Netflix-hosted Geeked Week, we now know some of the cast playing the horror franchise's most memorable characters. Actor Lance Reddick is stepping into the suave shoes of Albert Wesker, an elite police squad leader with his own dark agenda. Joining Reddick are Ella Balinska, Tamara Smart, Siena Agudong, Adeline Rudolph and Paola Nunez, though their roles haven't been announced.
+
+
+***
+[Flyhomes, an end-to-end homebuying service that lets buyers make upfront cash offers for a house, raises $150M Series C (Sophia Kunthara/Crunchbase News)](http://www.techmeme.com/210611/p12#a210611p12)
+
+
+> Sophia Kunthara / Crunchbase News: Flyhomes, an end-to-end homebuying service that lets buyers make upfront cash offers for a house, raises $150M Series C — End-to-end homebuying startup Flyhomes has raised $150 million in a Series C round of funding, the company announced Thursday. — Flyhomes helps clients through the entire homebuying process.
+
+
+***
+![RTX 3080 and RTX 3070 Ti are in stock at Newegg – 'coming soon' at Best Buy](https://cdn.mos.cms.futurecdn.net/XSs4LAahfvWuzVdWGGrvbQ-1200-80.jpg "RTX 3080 and RTX 3070 Ti are in stock at Newegg – 'coming soon' at Best Buy")
+
+
+[RTX 3080 and RTX 3070 Ti are in stock at Newegg – 'coming soon' at Best Buy](https://www.techradar.com/news/rtx-3080-3070-ti-and-3090-are-in-stock-at-newegg-but-remain-elusive-at-best-buy)
+
+
+> Finding the RTX 3080 and RTX 3070 Ti in stock remains as difficult as ever, and many GPU buyers had trouble carting the RTX 3070, RTX 3080 Ti and RTX 3090 at Best Buy yesterday. And we're still waiting for Best Buy launch the RTX 3070 Ti. Good news: the Newegg Shuffle now features all of these Nvidia graphics cards and more.Our GPU restock Twitter tracker Matt Swider has the news on when and where the RTX 3080 and other graphics cards will be in stock for MSRP, and he'll send you an alert – if you follow his Twitter account and turn on notifications.
+
+
+***
+![Adobe Removing 'Photoshop Mix' and 'Photoshop Fix' From App Store on June 21](https://images.macrumors.com/t/FAm3VIPpkgPo4asOPtcbSqdF1QE=/2250x/https://images.macrumors.com/article-new/2021/06/Adobe-Mix-and-Fix-Feature.jpg "Adobe Removing 'Photoshop Mix' and 'Photoshop Fix' From App Store on June 21")
+
+
+[Adobe Removing 'Photoshop Mix' and 'Photoshop Fix' From App Store on June 21](https://www.macrumors.com/2021/06/11/adobe-photoshop-fix-mix-app-store/)
+
+
+> Monday June 7, 2021 10:07 am PDT by Hartley CharltonApple today previewed iOS 15, the company's next major update for the iPhone, featuring new video calling capabilities, improvements to Messages, user statuses, a smart notification summary, and more.FaceTimeIn iOS 15, FaceTime features a new grid view and portrait mode support for video. For audio, FaceTime calls now offer Spatial Audio so that voices sound as if they are coming from...
+
+
