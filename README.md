@@ -22797,3 +22797,53 @@
 > HAVE you heard? It's coming home, and if you want a new TV to watch the matches on we've picked out some of the best. Possibly, the best best excuse out there for a new television, Euro 2020 is kicking off this weekend so there's still time to snap one up. Are you watching Euro 2020 at home?Credit: Alamy We've put together our top picks of new TV's to snap up now, which are perfect for watching England take on the rest of the Euros and win - well, we can dream? We've found deals from the likes of JVC, LG, Toshiba, Sony and more, with deals on the biggest and brightest 8K TV's or budget friendly Smart 4K Ultra HD TV's.
 
 
+***
+![AI Techs :: Introduction to Artificial Intelligence in C++](https://external-preview.redd.it/ibq2XFN74ataVZDUCJwZpmvr9t-u5ogPmHs7MNR2J78.jpg?auto=webp&s=0191c205d2ad84584ed8513fea83ed6a0c25ce58 "AI Techs :: Introduction to Artificial Intelligence in C++")
+
+
+[AI Techs :: Introduction to Artificial Intelligence in C++](https://www.reddit.com/r/programming/comments/nxjqu0/ai_techs_introduction_to_artificial_intelligence/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Avenged Sevenfold Albums Ranked: From Worst to Best and See Linkin Park Play "Faint" With Avenged Sevenfold's M. Shadows and Synyster Gates](https://https://www.thearkatech.com/img/news_img/all/16560_0_1200.pic "Avenged Sevenfold Albums Ranked: From Worst to Best and See Linkin Park Play "Faint" With Avenged Sevenfold's M. Shadows and Synyster Gates")
+
+
+[Avenged Sevenfold Albums Ranked: From Worst to Best and See Linkin Park Play "Faint" With Avenged Sevenfold's M. Shadows and Synyster Gates](https://www.thearkatech.com/en/64924/)
+
+
+> © Instagram / avenged sevenfold By: Madison Clark2021-06-11 19:15:27 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: See Linkin Park Play «Faint» With Avenged Sevenfold's M. Shadows and Synyster Gates and Avenged Sevenfold Albums Ranked: From Worst to Best Covid and Vaccine News: Live Updates. GM drops availability of Stop/Start feature on certain SUV and pickup models as chip shortage continues. Biden joins the world leaders club at G7 with call for wartime effort against Covid-19.
+
+
+***
+![One Thing That's Been Tough For Nancy Travis About How Last Man Standing Ended and 'Last Man Standing': Tim Allen and Nancy Travis on Saying Goodbye After 9 Seasons (Exclusive)](https://https://www.thearkatech.com/img/news_img/all/16559_8_1200.pic "One Thing That's Been Tough For Nancy Travis About How Last Man Standing Ended and 'Last Man Standing': Tim Allen and Nancy Travis on Saying Goodbye After 9 Seasons (Exclusive)")
+
+
+[One Thing That's Been Tough For Nancy Travis About How Last Man Standing Ended and 'Last Man Standing': Tim Allen and Nancy Travis on Saying Goodbye After 9 Seasons (Exclusive)](https://www.thearkatech.com/en/64923/)
+
+
+> © Instagram / nancy travis By: Jacob Johnson2021-06-11 19:14:23 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: 'Last Man Standing': Tim Allen and Nancy Travis on Saying Goodbye After 9 Seasons (Exclusive) and One Thing That's Been Tough For Nancy Travis About How Last Man Standing Ended City Celebrates National Homeownership Month. With swagger and ‘dynamic' play, Marlins' Jazz Chisholm Jr. is becoming household name. Cardinals depth chart 2021: Arizona's projected Week 1 starters heading into training camp.
+
+
+***
+![Andrew Dice Clay finally gets some respect and Andrew Dice Clay: ‘Nobody came to my aid other than Eddie Murphy'](https://https://www.thearkatech.com/img/news_img/all/16557_0_1200.pic "Andrew Dice Clay finally gets some respect and Andrew Dice Clay: ‘Nobody came to my aid other than Eddie Murphy'")
+
+
+[Andrew Dice Clay finally gets some respect and Andrew Dice Clay: ‘Nobody came to my aid other than Eddie Murphy'](https://www.thearkatech.com/en/64922/)
+
+
+> © Instagram / andrew dice clay Andrew Dice Clay finally gets some respect and Andrew Dice Clay: ‘Nobody came to my aid other than Eddie Murphy' Andrew Dice Clay: ‘Nobody came to my aid other than Eddie Murphy' and Andrew Dice Clay finally gets some respect Know what's going >>> Subscribe NOW to our YouTube <<< Last News: How to Cure Blurry Vision Naturally: What Will and Won't Work. TRACKING: Chance of storms and record heat. Microsoft 365 Enhancements Include Free Visio App, Outlook Voice Scheduling and OneDrive for macOS Perks.
+
+
+***
+![Summer Games Fest Wrapup & Breakdown](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Untitled-2.jpg?itok=oasAZKbm "Summer Games Fest Wrapup & Breakdown")
+
+
+[Summer Games Fest Wrapup & Breakdown](https://techraptor.net/videos/summer-games-fest-wrapup-breakdown-e3-2021)
+
+
+> 06/11/2021 - 12:13 | By: Nick Maillet Home Videos Summer Games Fest Wrapup & Breakdown - E3 2021 Breaking down some of the trailers from todays Summer Games Fest Summer is here and so is E3 ... sort of. To start off the event, the Dorito pope himself, Geoff Keighley, hosted the Summer Games Fest. During this 90+ minute livestream, dozens of game trailers were shown including the highly anticipated release date for Elden Ring. In the video below Nick breaks down the 8 most important trailers and gives you all the information you need (spoiler alert, most of them have vague release dates).
+
+
