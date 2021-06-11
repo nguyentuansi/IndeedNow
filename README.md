@@ -22632,3 +22632,30 @@
 > Rebecca Bellan / TechCrunch: Nvidia acquires DeepMap, which is building high-definition maps for autonomous vehicles; DeepMap has raised $91M from investors — Chipmaker Nvidia is acquiring DeepMap, the high-definition mapping startup announced. The company said its mapping IP will help Nvidia's autonomous vehicle technology sector, Nvidia Drive.
 
 
+***
+![Vivo Y73 with triple rear cameras, 4000mAh battery launched in India: Specs, features, price and all you need to know](https://images.financialexpress.com/2021/06/vivo.png "Vivo Y73 with triple rear cameras, 4000mAh battery launched in India: Specs, features, price and all you need to know")
+
+
+[Vivo Y73 with triple rear cameras, 4000mAh battery launched in India: Specs, features, price and all you need to know](https://www.financialexpress.com/industry/technology/vivo-y73-with-triple-rear-cameras-4000mah-battery-launched-in-india-specs-features-price-and-all-you-need-to-know/2269533/)
+
+
+> By: FE Online | June 11, 2021 1:21 PMThe company has launched the model in two colours with 8GB RAM and 128GB storage.Vivo has launched the Y73 phone in India. The new product offers single RAM and storage configuration. The smartphone is powered by an octa-core MediaTek SoC and has a triple rear camera setup. The company has launched the model in two colours with 8GB RAM and 128GB storage. In India, the smartphone is priced at Rs 20,990.Vivo Y73 availability in IndiaThe Y73 will be available in Diamond Flare and Roman Black colours from Vivo India online store, Amazon, Flipkart, Paytm, Tata Cliq, Bajaj EMI Store, and offline partner retail stores.
+
+
+***
+![Fallout 76's battle royale mode is being shut down in September](https://cdn.neow.in/news/images/uploaded/2021/06/1623394976_f76_nw_rewards_in-body_960x540_story.jpg "Fallout 76's battle royale mode is being shut down in September")
+
+
+[Fallout 76's battle royale mode is being shut down in September](https://www.neowin.net/news/fallout-76s-battle-royale-mode-is-being-shut-down-in-september/)
+
+
+> Two years ago, Bethesda introduced a battle royale mode to Fallout 76, transforming the multiplayer survival game into a 52-player shooter as another way to experience PVP action. The developer has now announced that later this year the mode is being axed from the title, with low player counts and needing more resources for the main game mode being given as reasons behind the decision. "When we first introduced Nuclear Winter, we were thrilled to watch so many players from our community, as well as many newcomers, dive head first into our take on the ruthless last-player-standing Battle Royale genre," says Bethesda in its blog.
+
+
+***
+[EUR/GBP Daily Outlook](https://www.actionforex.com/technical-outlook/eurgbp-outlook/384793-eur-gbp-daily-outlook-1133/)
+
+
+> Daily Pivots: (S1) 0.8569; (P) 0.8606; (R1) 0.8626; More… Range trading continues in EUR/GBP and intraday bias remains neutral first. On the downside, below 0.8559 will target a test on 0.8470 low. On the upside, though, break of 0.8718 will resume the rebound from 0.8470 to 38.2% retracement of 0.9291 to 0.8470 at 0.8784. In […] The post EUR/GBP Daily Outlook appeared first on Action Forex.
+
+
