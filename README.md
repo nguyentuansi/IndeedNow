@@ -22944,3 +22944,53 @@
 > Update: The Best Buy PS5 restock today seems imminent, and although we don't know the exact time, our PS5 restock Twitter tracker Matt Swider will send you an alert when it's in stock – if you follow his account and turn on notifications.Why today? Best Buy recently added a PS5 console bundle with Ratchet & Clank: A Rift Apart (a PS5-exclusive game that just launched). It says 'Sold out' but that seems to be just a placeholder. If it's today, the latest we've seen Best Buy restock the PS5 is at 3:40pm EDT, at least in 2021.
 
 
+***
+![Dixie State University Votes to Drop 'Dixie' from Name](https://media.breitbart.com/media/2020/06/far-left-protesters-640x335.jpg "Dixie State University Votes to Drop 'Dixie' from Name")
+
+
+[Dixie State University Votes to Drop 'Dixie' from Name](https://www.breitbart.com/tech/2021/06/11/dixie-state-university-votes-to-drop-dixie-from-name/)
+
+
+> A committee created to explore changing the name of Dixie State University in St. George, Utah, has formally decided in a 13-3 vote to drop 'Dixie' from the school's name. The decision comes after focus groups and community surveys recommended it was time to scrap the university's name due to its connotation with the Confederacy in the Civil War, according to a report by FOX 13. Supporters of the school's name, however, argue that 'Dixie' is tied to Mormon pioneers who settled in the St. George area to grow cotton.
+
+
+***
+![This Paramount Plus deal swaps its 7-day trial for a whole month free](https://cdn.mos.cms.futurecdn.net/VNpdcEgn2WDiZiWPd99itX-1200-80.jpg "This Paramount Plus deal swaps its 7-day trial for a whole month free")
+
+
+[This Paramount Plus deal swaps its 7-day trial for a whole month free](https://www.techradar.com/news/this-paramount-plus-deal-swaps-its-7-day-trial-for-a-whole-month-free)
+
+
+> (Image credit: Future) Since its launch back in March, Paramount Plus has been delivering fantastic new TV to get your teeth into - and it shows no sign of stopping with plenty of titles to get excited about.From blasts from the past to glamorous runways like no other, now is the time to sign up to Paramount Plus. Usually setting you back an affordable $4.99 a month with the option of a 7-day free trial, with the discount code MOVIES, you can get your first month completely free.This is just in time for brand new arrivals, including the iCarly revival on June 17, bringing back the Nickelodeon hit show from your childhood and zeroing in on Carly's online life as a relatable twenty-something.
+
+
+***
+![New OnePlus Nord phone may launch in US soon, FCC filings suggest](https://cdn.mos.cms.futurecdn.net/uPp6NR7ZQPX7R3s72a55ee-1200-80.jpg "New OnePlus Nord phone may launch in US soon, FCC filings suggest")
+
+
+[New OnePlus Nord phone may launch in US soon, FCC filings suggest](https://www.techradar.com/news/new-oneplus-nord-phone-may-launch-in-us-soon-fcc-filings-suggest)
+
+
+> (Image credit: TechRadar) A new OnePlus phone might be released in the US soon, as two unnamed devices have been certified by the FCC. Could these be versions of the OnePlus Nord N200 5G?TechRadar first confirmed from OnePlus CEO Pete Lau that the N200 5G would be coming exclusively to the US and Canada. The phone would launch a bit later than the OnePlus Nord CE 5G's June 10 release date, Lau said – meaning a forthcoming launch of these two mystery phones lines up with the N200 5G's launch window.
+
+
+***
+![Integrating a web application with Azure AD using Datawiza in 5 mins](https://external-preview.redd.it/3fYIWD7w074PfmU4T_N6B0LHmwSfCMz4YbLrI-O6TmA.jpg?auto=webp&s=7716310f53912014b21c4b98bbc22fe8f0a4d7f5 "Integrating a web application with Azure AD using Datawiza in 5 mins")
+
+
+[Integrating a web application with Azure AD using Datawiza in 5 mins](https://www.reddit.com/r/programming/comments/nxr2e4/integrating_a_web_application_with_azure_ad_using/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Hillicon Valley: House targets tech giants with antitrust bills](https://thehill.com/sites/default/files/cicillinedavid_072920pool_lead.jpg "Hillicon Valley: House targets tech giants with antitrust bills")
+
+
+[Hillicon Valley: House targets tech giants with antitrust bills](https://thehill.com/policy/technology/overnights/558075-hillicon-valley-house-unveils-antitrust-package-to-rein-in-tech)
+
+
+> Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter by clicking HERE.Welcome! Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@chrisismills) and Rebecca Klar (@rebeccaklar_), for more coverage.Top lawmakers on the House Judiciary Antitrust Subcommittee released a long-awaited antitrust agenda including five bills aimed at reining in the power of tech giants.
+
+
