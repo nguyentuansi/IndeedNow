@@ -22441,3 +22441,53 @@
 > Quote To Start The Day: "As my knowledge of things grew I felt more and more the delight of the world I was in.' Source: Helen Keller One Big Thing In Fintech: The Basel Committee on Banking Supervision on Thursday recommended the highest possible risk weighting — 1,250% — be applied to a bank's exposure to Bitcoin and some other cryptocurrencies. Under that suggestion, a bank would need to hold a dollar in capital for each dollar worth of Bitcoin, based on an 8% minimum capital requirement. Source: Banking Dive Other Key Fintech Developments: LemonEdge adding $2.
 
 
+***
+![Some Bitcoin conference attendees report testing positive for Covid after Miami event](https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_23/3482173/210610-miami-bitcoin-conference-ac-809p.jpg "Some Bitcoin conference attendees report testing positive for Covid after Miami event")
+
+
+[Some Bitcoin conference attendees report testing positive for Covid after Miami event](https://www.cnbc.com/2021/06/10/bitcoin-2021-attendees-report-covid-cases-after-returning-from-miami.html?utm_term=autofeed&utm_medium=social&utm_content=main&utm_source=twitter#echobox=1623366746)
+
+
+> It it not clear how many of the 12,000 attendees at the first major conference since the pandemic were infected.June 11, 2021, 12:20 AM UTCSome of the 12,000 attendees who flew into Miami last weekend for the biggest bitcoin event in history have since tested positive for Covid-19.It is not clear how many attendees were infected.Bitcoin 2021 drew crypto enthusiasts from around the world to the Mana Wynwood convention center in Miami's arts and entertainment district. Attendees packed into auditoriums and networked for the three-day event.
+
+
+***
+![Didi Chuxing, a ride-hailing behemoth in China, reveals I.P.O. papers.](https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png "Didi Chuxing, a ride-hailing behemoth in China, reveals I.P.O. papers.")
+
+
+[Didi Chuxing, a ride-hailing behemoth in China, reveals I.P.O. papers.](https://www.nytimes.com/2021/06/10/technology/didi-ipo.html)
+
+
+> Continue reading the main storyJune 10, 2021, 8:18 p.m. ETDidi Chuxing, the Chinese ride-hailing company, made its initial public offering filing public on Thursday, as ride-hailing services begin reviving with the receding of the pandemic.Founded in Beijing in 2012, Didi began as a taxi-hailing service before expanding into other forms of transportation. In 2015, it merged with another Chinese rival, Kuaidi Dache, to form what became Didi Chuxing.Didi has since been dominant in China. In 2016, Uber, which had been spending heavily to grow in China, sold its Chinese operations to Didi.
+
+
+***
+![Here's a Dreamy 95-Minute Mix of Avicii Piano Covers for World Meditation Day and Stockholm's Ericsson Globe Officially Renamed Avicii Arena: 'We're So Honored'](https://https://www.thearkatech.com/img/news_img/all/15474_17_1200.pic "Here's a Dreamy 95-Minute Mix of Avicii Piano Covers for World Meditation Day and Stockholm's Ericsson Globe Officially Renamed Avicii Arena: 'We're So Honored'")
+
+
+[Here's a Dreamy 95-Minute Mix of Avicii Piano Covers for World Meditation Day and Stockholm's Ericsson Globe Officially Renamed Avicii Arena: 'We're So Honored'](https://www.thearkatech.com/en/64182/)
+
+
+> © Instagram / Avicii By: Isabella Smith2021-06-11 03:15:30 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Stockholm's Ericsson Globe Officially Renamed Avicii Arena: 'We're So Honored' and Here's a Dreamy 95-Minute Mix of Avicii Piano Covers for World Meditation Day California's big reopening: What changes — and what doesn't — on June 15? Top 5 Leading Contenders In NYC Mayoral Race Face Off In Debate On CBS2 And CBSN New York. Watch Mayoral Debate Live Updates: Congestion Pricing Becomes Topic.
+
+
+***
+![Simultaneous 'Spider-Men'? Tobey Maguire Thinks A Reunion With Sam Raimi Would Be Marvelous and ‘Spider-Man 3': Marvel agreed to pay millionaire's salary that Tobey Maguire asked to return, reporter says](https://https://www.thearkatech.com/img/news_img/all/15473_11_1200.pic "Simultaneous 'Spider-Men'? Tobey Maguire Thinks A Reunion With Sam Raimi Would Be Marvelous and ‘Spider-Man 3': Marvel agreed to pay millionaire's salary that Tobey Maguire asked to return, reporter says")
+
+
+[Simultaneous 'Spider-Men'? Tobey Maguire Thinks A Reunion With Sam Raimi Would Be Marvelous and ‘Spider-Man 3': Marvel agreed to pay millionaire's salary that Tobey Maguire asked to return, reporter says](https://www.thearkatech.com/en/64181/)
+
+
+> © Instagram / Tobey Maguire By: Abigail Jackson2021-06-11 03:14:30 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: ‘Spider-Man 3': Marvel agreed to pay millionaire's salary that Tobey Maguire asked to return, reporter says and Simultaneous 'Spider-Men'? Tobey Maguire Thinks A Reunion With Sam Raimi Would Be Marvelous UPDATE -- LPL Financial Ranked Among Top 100 Companies. Weekly beef and dairy digest: JBS contends with fallout from cyberattack. Joe Biden and Boris Johnson update Atlantic Charter in first official meeting.
+
+
+***
+![Lord of the Rings anime prequel movie War of the Rohirrim announced](https://www.cnet.com/a/img/t2ei-5fJoe-tIFaFx4h_em3dXjA=/1200x630/2021/06/11/edb65a40-b63d-44a8-bd0e-e4a142034f4f/lord-of-the-rings-war-of-the-rohirrim-anime.jpg "Lord of the Rings anime prequel movie War of the Rohirrim announced")
+
+
+[Lord of the Rings anime prequel movie War of the Rohirrim announced](https://www.cnet.com/news/lord-of-the-rings-anime-prequel-movie-war-of-the-rohirrim-announced/)
+
+
+> An anime film will take us back to Middle-earth. Warner Bros. A new Lord of the Rings prequel is on its way -- this time, in anime form. The Lord of the Rings: The War of the Rohirrim will focus on Helm Hammerhand, the ninth king of Rohan. The movie set in J.R.R. Tolkien's Middle-earth universe was announced Thursday and will be made by Warner Bros. Animation and Kenji Kamiyama, the director behind Ghost in the Shell.The flick will go into the history of Helm's Deep, the famous site of the later Battle of the Hornburg during the War of the Ring, shown in Peter Jackson's Lord of the Rings: The Two Towers movie.
+
+
