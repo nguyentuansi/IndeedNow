@@ -22659,3 +22659,50 @@
 > Daily Pivots: (S1) 0.8569; (P) 0.8606; (R1) 0.8626; More… Range trading continues in EUR/GBP and intraday bias remains neutral first. On the downside, below 0.8559 will target a test on 0.8470 low. On the upside, though, break of 0.8718 will resume the rebound from 0.8470 to 38.2% retracement of 0.9291 to 0.8470 at 0.8784. In […] The post EUR/GBP Daily Outlook appeared first on Action Forex.
 
 
+***
+![The best Macbook alternatives for 2021](https://icdn.digitaltrends.com/image/digitaltrends/dell-xps-13-9310-02.jpg "The best Macbook alternatives for 2021")
+
+
+[The best Macbook alternatives for 2021](https://www.digitaltrends.com/computing/best-macbook-alternatives/)
+
+
+> The starting prices of the best MacBooks aren't exactly cheap, but you're paying for the premium experience of a top laptop brand. The devices are elegant and solidly designed. Still, what if you don't want to use MacOS? What if the Mac doesn't support your favorite software? That's where this guide comes in. The best alternative to a Macbook, and the best laptop overall is Dell's XPS 13. It may not be as sleek as the Macbook, but it delivers speed and performance while staying relatively lightweight.
+
+
+***
+![GameStop lures Amazon talent with grand plans and no frills](https://www.reuters.com/resizer/KrX9G-kL1GJzNb43ccpTErpMk-8=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BIOKPBMC5NNOVI372SPOEZPCVE.jpg "GameStop lures Amazon talent with grand plans and no frills")
+
+
+[GameStop lures Amazon talent with grand plans and no frills](https://www.reuters.com/technology/gamestop-lures-amazon-talent-with-grand-plans-no-frills-2021-06-11/)
+
+
+> GameStop logo is seen in this illustration taken February 2, 2021. REUTERS/Dado Ruvic/Illustration/File PhotoGameStop Corp (GME.N) Chairman Ryan Cohen made a point of doing away with corporate excess such as a company plane and used the allure of rebuilding the videogame retailer to recruit Amazon.com Inc's (AMZN.O) Australia chief Matt Furlong as chief executive, according to people familiar with the process.Cohen wanted the message to be stern, said the sources, who were close to the discussions.
+
+
+***
+![Facebook employees demand changes around Palestinian content](https://external-preview.redd.it/l4CBBQSFXxix0Qqb1wH65uw4zsbRZxNNwHEEcnAsUs8.jpg?auto=webp&s=0442bb5a502fc2bed8884201a2c0b9b2cf544783 "Facebook employees demand changes around Palestinian content")
+
+
+[Facebook employees demand changes around Palestinian content](https://www.reddit.com/r/technology/comments/nxc9w4/facebook_employees_demand_changes_around/)
+
+
+> Close to 200 Facebook employees have signed an open letter calling for the company's leadership to address concerns that pro-Palestine voices on the social network are being suppressed by content moderation systems. The letter, seen by the Financial Times, urges Facebook to introduce new measures to ensure pro-Palestinian content is not unfairly taken down or downranked, as some staff and critics claimed happened during the recent conflict in Gaza. It calls on management to order a third-party audit of Facebook's enforcement actions around Arab and Muslim content, and to refer a post by Israel's prime minister Benjamin Netanyahu — which the letter claimed 'mischaracterised Palestinian civilians as terrorists' — to Facebook's independent oversight board.
+
+
+***
+![🧩 How to Create CRUD REST API with AWS Chalice](https://external-preview.redd.it/cNL3iVI5vX4u8eRc_Vf0l_aHoc4DAwKfzkLhdTyl1xU.jpg?auto=webp&s=0216bcffe27a00b4878df68b23fdfb437b7c67c5 "🧩 How to Create CRUD REST API with AWS Chalice")
+
+
+[🧩 How to Create CRUD REST API with AWS Chalice](https://www.reddit.com/r/Python/comments/nxc687/how_to_create_crud_rest_api_with_aws_chalice/)
+
+
+> Hey folks! I'd like to share with you a very interesting article about How to Create CRUD REST API with AWS Chalice. I'm super excited to know if you tried something like this 🤯. Read more about the Tutorial here.
+
+
+***
+[Google abandons experiment to hide parts of site URLs in the Chrome address bar, which ran from June 2020 to June 2021 (Catalin Cimpanu/The Record)](http://www.techmeme.com/210611/p2#a210611p2)
+
+
+> Catalin Cimpanu / The Record: Google abandons experiment to hide parts of site URLs in the Chrome address bar, which ran from June 2020 to June 2021 — Google's experiment to hide parts of a site's URL in the Chrome address bar (the Omnibox) has failed and has been removed from the browser earlier this week.
+
+
