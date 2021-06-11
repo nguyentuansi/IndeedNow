@@ -22750,3 +22750,50 @@
 > NEW YORK--(BUSINESS WIRE)--Accenture (NYSE: ACN) has been recognized with three Adobe Partner of the Year Awards for 2021, in honor of its contributions to Adobe's business and its significant impact on customer success. Accenture received the following awards: 2021 Digital Experience Solution Partner of the Year (Americas): This award recognizes Accenture Interactive's strong results, which include achieving several hundred technical certifications. Additionally, Accenture Interactive further developed its robust customer experience pipeline in collaboration with the Adobe Customer Solutions delivery teams.
 
 
+***
+![Xiaomi Mi 12 might beat Samsung Galaxy S22 to the punch for one premium feature](https://cdn.mos.cms.futurecdn.net/K3TWoduC9iZ2EN5KSdMJhe-1200-80.jpg "Xiaomi Mi 12 might beat Samsung Galaxy S22 to the punch for one premium feature")
+
+
+[Xiaomi Mi 12 might beat Samsung Galaxy S22 to the punch for one premium feature](https://www.techradar.com/news/xiaomi-mi-12-might-beat-samsung-galaxy-s22-to-the-punch-for-one-premium-feature)
+
+
+> (Image credit: Future) While Samsung Galaxy S22 rumors have already cropped up a few times already, we've heard relatively little about a close rival that will likely launch at the same time, the Xiaomi Mi 12. However, some early information has given us an idea as to what to expect for that anticipated premium device.Chinese news site MyDrivers has shared some renders of the Mi 12. While these are fan-made pictures, they're based on actual leaks that are swirling around social media platform Weibo, so they do give us a rough idea of what to expect in the anticipated Xiaomi Mi 11 successor.
+
+
+***
+[The best TV deals for Euro 2020 including LG, Sony, Toshiba and more](https://www.thesun.ie/tech/7125460/the-best-tv-deals-for-euro-2020/)
+
+
+> HAVE you heard? It’s coming home, and if you want a new TV to watch the matches on we’ve picked out some of the best. Possibly, the best best excuse out there for a new television, Euro 2020 is kicking off this weekend so there’s still time to snap one up. We’ve put together our […]
+
+
+***
+![UFC 263 live stream: how to watch Adesanya vs Vettori 2 (and the rest) online](https://cdn.mos.cms.futurecdn.net/NmnyjLP3i3eFUyMHWThG4m-1200-80.jpg "UFC 263 live stream: how to watch Adesanya vs Vettori 2 (and the rest) online")
+
+
+[UFC 263 live stream: how to watch Adesanya vs Vettori 2 (and the rest) online](https://www.techradar.com/news/ufc-263-live-stream-how-to-watch-adesanya-vs-vettori-2-and-the-rest-online)
+
+
+> The Octagon action heads to Arizona this weekend with a tantalising middleweight rematch as the main event. Read on to discover how to find a UFC 263 live stream and watch Israel Adesanya vs Marvin Vettori 2, plus the rest of the card online with ESPN+ having exclusive coverage in the US.Watch UFC 263: live stream Adesanya vs Vettori 2Date: Saturday, June 12Early Prelims: 6.30pm ET / 3.30pm PT / 11.30pm BST / 8.30am AEST (Sun)Prelims: 8pm ET / 5pm PT / 1am BST (Sun)/ 10am AEST (Sun)Main card time: 10pm ET / 7pm PT / 3am BST (Sun) / 12pm AEST (Sun)Venue: The Gila River Arena, Glendale, Arizona, USALive stream: ESPN Plus (US) / BT Sport (UK) / DAZN (DE/IT/ES)The headline act sees Israel 'The Last Stylebender" Adesanya place his Middleweight title on the line against Marvin Vettori.
+
+
+***
+![7 new movies and TV shows on Netflix, Amazon Prime, Disney Plus and more this weekend](https://cdn.mos.cms.futurecdn.net/bk8EoeQZPsNqnjXHuLrisa-1200-80.jpg "7 new movies and TV shows on Netflix, Amazon Prime, Disney Plus and more this weekend")
+
+
+[7 new movies and TV shows on Netflix, Amazon Prime, Disney Plus and more this weekend](https://www.techradar.com/news/7-new-movies-and-tv-shows-on-netflix-hbo-max-disney-plus-amazon-prime-and-more-this-weekend-june-12-2021)
+
+
+> And just like that, another Marvel Cinematic Universe (MCU) adventure blasts its way onto Disney Plus. This week, though, Kevin Feige and co. have refrained from more of the paint-by-numbers action à la The Falcon and the Winter Soldier and opted for a decidedly unique take on the superhero genre.Yes, the first episode of Loki has arrived to join a stellar lineup of new content dropping on the likes of Netflix, Amazon Prime Video and HBO Max this weekend. But as well as big-budget comic book shows, there's big-budget musical movies, medium-budget crime series and even tiny-budget, fly-on-the-wall farming documentaries.
+
+
+***
+![The best TV deals for Euro 2020 including LG, Sony, Toshiba and more](https://www.thesun.co.uk/wp-content/uploads/2021/06/NINTCHDBPICT000620077878.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "The best TV deals for Euro 2020 including LG, Sony, Toshiba and more")
+
+
+[The best TV deals for Euro 2020 including LG, Sony, Toshiba and more](https://www.thesun.co.uk/tech/15242025/the-best-tv-deals-for-euro-2020/)
+
+
+> HAVE you heard? It's coming home, and if you want a new TV to watch the matches on we've picked out some of the best. Possibly, the best best excuse out there for a new television, Euro 2020 is kicking off this weekend so there's still time to snap one up. Are you watching Euro 2020 at home?Credit: Alamy We've put together our top picks of new TV's to snap up now, which are perfect for watching England take on the rest of the Euros and win - well, we can dream? We've found deals from the likes of JVC, LG, Toshiba, Sony and more, with deals on the biggest and brightest 8K TV's or budget friendly Smart 4K Ultra HD TV's.
+
+
