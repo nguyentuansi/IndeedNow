@@ -23182,3 +23182,50 @@
 > John Cage picking mushrooms in the woods, William Gedney Photographs and Papers, David M. Rubenstein Rare Book & Manuscript Library, Duke University. The twentieth-century music composer John Cage was famous for his experimental approach to sounds, silences, and everything in between. As it happens, Cage was also an avowed mushroom aficionado and the inspiration he drew from fungi played no small part in his work. Almost three decades after his death, the influence of his mycological interests on his biography is indisputable.
 
 
+***
+![Nasa seeks proposals for 2 new private astronaut missions to ISS](https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/16/full/1605504655-4567.jpg "Nasa seeks proposals for 2 new private astronaut missions to ISS")
+
+
+[Nasa seeks proposals for 2 new private astronaut missions to ISS](https://www.business-standard.com/article/technology/nasa-seeks-proposals-for-2-new-private-astronaut-missions-to-iss-121061200246_1.html)
+
+
+> The US space agency is seeking proposals for two new private astronaut missions to the International Space Station (ISS). The first mission will occur between fall of 2022 and mid-2023 and the second will occur between mid-2023 and the end of 2023. "A private astronaut mission involves US commercial spacecraft transporting private astronauts to the space station, where they conduct activities aboard the orbiting laboratory or a commercial structure attached to it. NASA is enabling up to two short-duration private astronaut missions per year," the space agency said in a statement on Friday.
+
+
+***
+![Mysterious malware strain stole data from 3.25 million Windows PCs for two years](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-06/soyacincau-hack-computer_120621-seo.jpeg "Mysterious malware strain stole data from 3.25 million Windows PCs for two years")
+
+
+[Mysterious malware strain stole data from 3.25 million Windows PCs for two years](https://soyacincau.com/2021/06/12/mysterious-malware-strain-stole-data-from-3-25-million-windows-computers-nordlocker/)
+
+
+> The stolen database included 1.2 TB of files, cookies, and credentials containing usernames and passwords. ― SoyaCincau pic KUALA LUMPUR, June 12 ― A mysterious strain of malware was found to have infected about 3.25 million Windows-based computers for two years between 2018 and 2020. The database was recently uncovered and and 'spotted on the dark web', as reported by Nordlocker. 'With some help from third-party researchers, we uncovered and analysed a database of stolen data. It's big — and the victims likely never knew their files had been stolen,' wrote Nordlocker.
+
+
+***
+![django graphene chat application](https://external-preview.redd.it/Ii14U_HizrQSM6EQ650KFjBhXxzpL5OFaUQJBAHXqao.jpg?auto=webp&s=0be8c9c10bbb661fdf795aee5696f169b70abfe0 "django graphene chat application")
+
+
+[django graphene chat application](https://www.reddit.com/r/Python/comments/ny12uv/django_graphene_chat_application/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![chat application in python graphene](https://external-preview.redd.it/Ii14U_HizrQSM6EQ650KFjBhXxzpL5OFaUQJBAHXqao.jpg?auto=webp&s=0be8c9c10bbb661fdf795aee5696f169b70abfe0 "chat application in python graphene")
+
+
+[chat application in python graphene](https://www.reddit.com/r/Python/comments/ny11v7/chat_application_in_python_graphene/)
+
+
+> In the video I build a complete functional chat application in djangohttps://www.youtube.com/watch?v=cRvyRrlmtH0
+
+
+***
+[Execute GUI python script in Google drive](https://www.reddit.com/r/Python/comments/ny0zgt/execute_gui_python_script_in_google_drive/)
+
+
+> Currently I am working on a python GUI script which when executed will output a pdf file. But I want it to run on google drive. So that I can give people that link, and they can go in and run the python script. Is is possible?
+
+
