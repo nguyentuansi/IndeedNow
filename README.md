@@ -23520,3 +23520,50 @@
 > 06/12/2021 - 15:33 | By: Robert N. Adams E3 is Apparently Being Very Selective About Its Co-Streaming Partners E-mails regarding the E3 co-streaming program went out today to personalities such as Geoff Keighley, ultimately rejecting any additional quests to simulcast the event. Co-streaming involves broadcasting a live event on your own channel, occasionally supplemented by your own commentary. The Game Awards and Summer Game Fest creator Geoff Keighley was one of the people interested in participating in this program, but it looks like his efforts have proved fruitless.
 
 
+***
+[Would you hire if I wasn't a minor? I have 5 months of experience.](https://www.reddit.com/r/programming/comments/nyhpls/would_you_hire_if_i_wasnt_a_minor_i_have_5_months/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![How to cancel YouTube TV](https://mondrian.mashable.com/2021%252F06%252F12%252F19%252Fb9d31dee1f164cdda3133fbbb5ac5d96.f91c3.jpg%252F1200x630.jpg?signature=a2d7-1ax9juWmQ4NxJB1qCU-nW0= "How to cancel YouTube TV")
+
+
+[How to cancel YouTube TV](https://mashable.com/article/how-to-cancel-youtube-tv/)
+
+
+> If you've "cut the cord" with a YouTube TV subscription, but now you want to actually cancel YouTube TV itself, here's how to do it. Canceling or pausing YouTube TV on browser On YouTube's website, click on your avatar on the top right corner. Choose Settings from the dropdown menu. Then select Membership from the left-side menu. Under YouTube TV, you'll see an option to "Pause or cancel membership." The former allows you to stop your membership from four weeks to six months. Your YouTube TV account will pause after the next billing date, and you won't be charged during the pause period.
+
+
+***
+![Simple script to monitor CPU and RAM usage of submitted cluster job](https://external-preview.redd.it/afKyo3bOjKT1zeYgYSymgh2pzf24qyalR6zIz1uYL04.jpg?auto=webp&s=8b5f678c3ce76b01c9096640334d820594a275c8 "Simple script to monitor CPU and RAM usage of submitted cluster job")
+
+
+[Simple script to monitor CPU and RAM usage of submitted cluster job](https://www.reddit.com/r/Python/comments/nyh8v9/simple_script_to_monitor_cpu_and_ram_usage_of/)
+
+
+> I am currently using the computational cluster of my institute quite extensively, but it was lacking a tool with which I could analyze the CPU and RAM resources that my job occupies.So I wrote two simple python scripts, one which records CPU and RAM usage of the running job and one which visualizes the usage.You can find the script here.I hope this helps someone as much as it has helped me lately. If you have any questions or suggestions let me know.Cheers!
+
+
+***
+![Strangest tournament I've ever seen](https://external-preview.redd.it/5FSEP1o2VKbUzLZ0nXfFsG6pne3T5ekjSxqKEP-wWqE.jpg?auto=webp&s=f4684ce1716cb08df578310593e2ab0fdb78a00d "Strangest tournament I've ever seen")
+
+
+[Strangest tournament I've ever seen](https://www.reddit.com/r/programming/comments/nyh8o7/strangest_tournament_ive_ever_seen_win_bitcoins/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Applications cannot enter full screen -- full screen option greyed out](https://images.macrumors.com/social/?t=2300653&v=6 "Applications cannot enter full screen -- full screen option greyed out")
+
+
+[Applications cannot enter full screen -- full screen option greyed out](https://forums.macrumors.com/threads/applications-cannot-enter-full-screen-full-screen-option-greyed-out.2300653/)
+
+
+> My computer recently started refusing to go into fullscreen mode in any of my applications. I have noticed this behavior in browsers (with video), video apps (zoom, facetime), with my virtual machines (e.g. vmware horizon), and with mac games (for example crusader kings 3). Until this behavior started these programs would run normally, and operate in full screen, but now the following happens: with vmware and crusader kings 3, the application attempts to enter full screen and then reverts to windowed mode.
+
+
