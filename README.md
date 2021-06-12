@@ -23279,3 +23279,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Apple TV 4K (gen 2) network issue/Apple movie content issue](https://images.macrumors.com/social/?t=2300580&v=6 "Apple TV 4K (gen 2) network issue/Apple movie content issue")
+
+
+[Apple TV 4K (gen 2) network issue/Apple movie content issue](https://forums.macrumors.com/threads/apple-tv-4k-gen-2-network-issue-apple-movie-content-issue.2300580/)
+
+
+> Having an issue with movies streaming in 4K from Apple, Apple Music and YouTube every 5 minutes it stops briefly then continues, this is exaggerated further by having the Apple TV connected to a Homepod Pair for Atmos as it has to sync audio/video. Netflix 4K, Disney + work fine and Plex also works fine on the local network. There are no issues reported on the apple status so just wondering if anyone else has similar issues. It could be an issue with my provider so I have also posted on there forums.
+
+
+***
+![Detectives Just Used DNA To Solve A 1956 Double Homicide. They May Have Made History](https://media.npr.org/assets/img/2021/06/11/2021-06-09t225103z_26680079_mt1usatoday16232141_rtrmadp_3_clippings-from-the-great-falls-tribune-were-part-of-the_wide-9c518c77aaf724e5240e5cd551e27fe8c207c374.jpg?s=1400 "Detectives Just Used DNA To Solve A 1956 Double Homicide. They May Have Made History")
+
+
+[Detectives Just Used DNA To Solve A 1956 Double Homicide. They May Have Made History](https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist)
+
+
+> Clippings from the Great Falls Tribune were part of the Cascade County Sheriff's Office investigative file into the 1956 murders of Patricia Kalitzke and Lloyd Duane Bogle. Traci Rosenbaum/USA Today Network via Reuters Co. It was only three days into the year 1956 when three boys from Montana, out for a hike on a normal January day, made a gruesome discovery they were unlikely to ever forget. During a walk near the Sun River, they found 18-year-old Lloyd Duane Bogle, dead from a gunshot wound to the head.
+
+
+***
+![WWDC 2021: Three devs give their thoughts on what was announced](https://cdn.mos.cms.futurecdn.net/7dgX9SahMSqmQT3Wqif6pH-1200-80.png "WWDC 2021: Three devs give their thoughts on what was announced")
+
+
+[WWDC 2021: Three devs give their thoughts on what was announced](https://www.techradar.com/news/wwdc-2021-three-devs-give-their-thoughts-on-what-was-announced)
+
+
+> Another year and another WWDC from Apple has concluded, with announcements for iOS 15, macOS 12 Monterey, iPadOS 15 and more.However, it also means the start of what developers can work with from these new announcements, and figuring out how they can implement these new features into their apps.We followed up with three developers we talked to from last week to find out what they were excited to hear about from WWDC the most.Shortened from the term ‘Application Programming Interface', this is what developers use to create features for their applications.
+
+
+***
+![Why Amazon Prime Day is the perfect time to buy a Fitbit](https://cdn.mos.cms.futurecdn.net/wQbFuTPsUd6S69Vun8u7cB-1200-80.jpeg "Why Amazon Prime Day is the perfect time to buy a Fitbit")
+
+
+[Why Amazon Prime Day is the perfect time to buy a Fitbit](https://www.techradar.com/news/why-amazon-prime-day-is-the-perfect-time-to-buy-a-fitbit)
+
+
+> Amazon Prime Day is fast approaching, and is due to run from June 21 to 22. Fitness tech has always been steeply discounted in the sales, and if you've been thinking of picking up a new Fitbit, it's the ideal time to take the plunge.To avoid overspending during sales events it's a good idea to plan your purchases in advanceIt's important to bear in mind, however, that not all the deals are quite what they appear at first glance. To find out how to avoid being disappointed, check out our guide: how to avoid buying a 'fake' Fitbit on Amazon Prime Day.
+
+
+***
+![Mighty Goose is a stylish non-stop roller coaster that shouldn't be missed](https://i2-prod.mirror.co.uk/incoming/article24304345.ece/ALTERNATES/s1200/0_GOOSE.jpg "Mighty Goose is a stylish non-stop roller coaster that shouldn't be missed")
+
+
+[Mighty Goose is a stylish non-stop roller coaster that shouldn't be missed](https://www.mirror.co.uk/tech/mighty-goose-review-retro-run-24297565)
+
+
+> Get email updates with the day's biggest stories Invalid Email Something went wrong, please try again later. Sign up Thank you for subscribing We have more newsletters Show me See our privacy notice Geese are certainly enjoying their moment in the spotlight, with House House's Untitled Goose Game paving the way for this unforeseen success. But that's the beauty of indie games, you never know what you're going to get. This time around the species is waddling its way into Blastmode and Playism's chaotic space adventure Mighty Goose.
+
+
