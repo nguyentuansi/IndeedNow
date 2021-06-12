@@ -23088,3 +23088,47 @@
 > Heather Landi / FierceHealthcare: Transcarent, a health navigation, virtual care, and medication review service for self-insured employees, raises $58M Series B led by General Catalyst and 7wire — Livongo founder Glen Tullman's latest venture has raised $58 million backed by major investors General Catalyst …
 
 
+***
+[SurveyMonkey rebrands as Momentive as it looks to expand its growing enterprise business; SurveyMonkey will retain its branding for its consumer-facing business (Marty Swant/Forbes)](http://www.techmeme.com/210611/p25#a210611p25)
+
+
+> Marty Swant / Forbes: SurveyMonkey rebrands as Momentive as it looks to expand its growing enterprise business; SurveyMonkey will retain its branding for its consumer-facing business — It's not every day that a company is able to use its own tools to measure and mold its own identity.
+
+
+***
+![[100% OFF] Master Python With NumPy For Data Science & Machine Learning](https://external-preview.redd.it/9Yb-efuhp_Cg4SKYJga57kUzy-2urlePXTy4PO0tt9s.jpg?auto=webp&s=1cbd2b2d9dd379ab9d81ef1e4b56b4906165f434 "[100% OFF] Master Python With NumPy For Data Science & Machine Learning")
+
+
+[[100% OFF] Master Python With NumPy For Data Science & Machine Learning](https://www.reddit.com/r/Python/comments/nxxgf4/100_off_master_python_with_numpy_for_data_science/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Display new star pattern with 6 points](https://www.reddit.com/r/programming/comments/nxxee2/display_new_star_pattern_with_6_points/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Cambodia Denies U.S. Full Access to Naval Base During Embassy Visit](http://www.globalsecurity.org/images/temp/one-billion-americans.jpg "Cambodia Denies U.S. Full Access to Naval Base During Embassy Visit")
+
+
+[Cambodia Denies U.S. Full Access to Naval Base During Embassy Visit](http://www.globalsecurity.org/military/library/news/2021/06/mil-210611-rfa01.htm)
+
+
+> 2021-06-11 -- The U.S. embassy in Cambodia said Friday that its defense attaché was denied complete access during an invited visit to the country's largest naval base, but a Cambodian official told RFA that Phnom Penh had never agreed to a full tour. The tour Friday came 10 days after U.S. Deputy Secretary of State Wendy Sherman, during a visit to Cambodia, voiced concern about Chinese military presence and construction of facilities at Ream Naval Base on the site of a U.S.-built structure Phnom Penh razed last year.
+
+
+***
+![UK and Montenegro underline shared commitment to NATO on Carrier Strike Group visit](http://www.globalsecurity.org/images/temp/one-billion-americans.jpg "UK and Montenegro underline shared commitment to NATO on Carrier Strike Group visit")
+
+
+[UK and Montenegro underline shared commitment to NATO on Carrier Strike Group visit](http://www.globalsecurity.org/military/library/news/2021/06/mil-210611-ukmod01.htm)
+
+
+> Coinciding with the visit of HMS Richmond, sailing from the UK Carrier Strike Group, Lady Goldie held high-level meetings to discuss NATO and regional security. 11 June 2021 Minister of State for Defence Baroness Annabel Goldie has reaffirmed the UK's commitment to Western Balkans security on a visit to Montenegro. Coinciding with the visit of HMS Richmond, sailing from the UK Carrier Strike Group, Lady Goldie held high-level meetings to discuss regional security, the role of NATO in upholding that security and maintaining stability, as well as the UK-Montenegro defence relationship.
+
+
