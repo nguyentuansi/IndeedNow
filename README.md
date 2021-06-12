@@ -23376,3 +23376,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[迪士尼又要蓋新遊樂園了，這次是在海上](https://technews.tw/2021/06/13/disney-cruise-line-wish/)
+
+
+> Here you leave today and enter the world of yesterday, […]
+
+
+***
+![WWDC21 is a wrap! [Cult of Mac Magazine 405]](https://cdn.cultofmac.com/wp-content/uploads/2021/06/COM-MAG-405_6.jpg "WWDC21 is a wrap! [Cult of Mac Magazine 405]")
+
+
+[WWDC21 is a wrap! [Cult of Mac Magazine 405]](https://www.cultofmac.com/?p=745029)
+
+
+> WWDC21: So much software there was no room for hardware.Cover: Leander Kahney/Cult of MacThis week's Worldwide Developers Conference brought an avalanche of info about what to expect from Apple's next-gen operating systems. Our top story runs down our overall first impressions after Monday's WWDC keynote. And our newsy roundups showcase each platform's new key features.Also don't miss Ed Hardy's deeper hands-on dives into key features coming in iOS 15 and iPadOS 15. You can read all that and more in this week's free issue of Cult of Mac Magazine.
+
+
+***
+![How to change fitness goals on Apple Watch](https://mondrian.mashable.com/2021%252F06%252F12%252Ff6%252Fa81745e6e2b04a3e977f7fe5752ffe7e.de69e.jpg%252F1200x630.jpg?signature=hXvsmSFestGu9Uu8efSrwhJyFTU= "How to change fitness goals on Apple Watch")
+
+
+[How to change fitness goals on Apple Watch](https://mashable.com/article/how-to-change-your-fitness-goals-on-apple-watch/)
+
+
+> Whether you're hitting your activity goals on the Apple Watch a little too easily or not at all, you can always switch up those target metrics whenever you'd like.  The Apple Watch lets you easily alter your move, exercise, and stand goals with just a few simple taps. Here's how to change your fitness goals on your Apple Watch. The three rings The Apple Watch uses rings to help you visualize how far along you are in hitting your goals. Once a ring is completely filled in, it means you've successfully reached your goal for the day.
+
+
+***
+![Learn Rigid-Body Heat Transfer Equations With C++ Builder](https://external-preview.redd.it/OYdnOTQtIvBvk-cArjI9onT9wcuRrQKssWJ6RhSaPYA.jpg?auto=webp&s=0806171f2b27983c4077c317796055d8b14c3232 "Learn Rigid-Body Heat Transfer Equations With C++ Builder")
+
+
+[Learn Rigid-Body Heat Transfer Equations With C++ Builder](https://www.reddit.com/r/programming/comments/ny9u2z/learn_rigidbody_heat_transfer_equations_with_c/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The popular Ring video doorbell is on sale ahead of Prime Day 2021—and comes with a bonus](https://www.gannett-cdn.com/presto/2021/06/10/USAT/d11dc3a8-e58e-4f69-8ece-de1fbdaf4d0d-ring_bundle_hero.jpg?crop=1899,1068,x0,y3&width=1600&height=800&format=pjpg&auto=webp "The popular Ring video doorbell is on sale ahead of Prime Day 2021—and comes with a bonus")
+
+
+[The popular Ring video doorbell is on sale ahead of Prime Day 2021—and comes with a bonus](https://www.usatoday.com/story/tech/reviewed/2021/06/12/prime-day-2021-get-ring-video-doorbell-and-echo-dot-bundle-less/7604884002/)
+
+
+> Grab this Echo Dot bundle on the cheap ahead of Prime Day 2021. (Photo: Ring/Getty)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Prime Day 2021 is almost here (it's Monday, June 21, and Tuesday, June 22), and to get the party started, Amazon is already offering plenty of special savings in anticipation of the 48-hour event. In fact, you can score 27% off a wired Ring video doorbell and Echo Dot (fourth generation) bundle right now to make all your smart home dreams come true.
+
+
