@@ -23229,3 +23229,53 @@
 > Currently I am working on a python GUI script which when executed will output a pdf file. But I want it to run on google drive. So that I can give people that link, and they can go in and run the python script. Is is possible?
 
 
+***
+![Realme GT to Samsung Galaxy M32: List of phones expected to launch soon](https://images.indianexpress.com/2021/06/overview06_01.jpg "Realme GT to Samsung Galaxy M32: List of phones expected to launch soon")
+
+
+[Realme GT to Samsung Galaxy M32: List of phones expected to launch soon](https://indianexpress.com/article/technology/techook/realme-gt-to-samsung-galaxy-m32-list-of-phones-expected-to-launch-soon-7355771/)
+
+
+> Even though 2021 has been a challenging year, smartphone makers have continued to release out new smartphones albeit facing issues with production and delivery. We are only halfway through the year and have already seen some exciting smartphones across all price ranges, with many more to come. We have compiled a list of the phones that are expected to launch soon. Here is everything you should know. Xiaomi Mi 11 Lite Xiaomi is all set to launch its latest smartphone, the Xiaomi Mi 11 Lite, in India on June 22.
+
+
+***
+![Why Infinity Train on HBO Max is the best animated series you haven't seen](https://cdn.mos.cms.futurecdn.net/ascByFoRhRu8AXMb4SQU8V-1200-80.jpg "Why Infinity Train on HBO Max is the best animated series you haven't seen")
+
+
+[Why Infinity Train on HBO Max is the best animated series you haven't seen](https://www.techradar.com/news/why-infinity-train-on-hbo-max-is-the-best-animated-series-you-havent-seen)
+
+
+> Last year, when Cartoon Network animation Infinity Train hit HBO Max, it was finally my chance to dive into the series. Little did I know I would actually be watching a dark anthology dealing with trauma and healing, disguised as a children's show. The premise of season 1 sets the template – Tulip is a young girl who, following her parents' divorce, finds herself stuck on this mysterious train. Moving through each train car presents a new adventure or challenge, and the train only seems to pick up passengers dealing with personal issues.
+
+
+***
+![Samsung Galaxy Watch 3 vs Samsung Galaxy Watch Active 2: two top choices](https://cdn.mos.cms.futurecdn.net/dRaeozfGa4PY5LzdJjDKX5-1200-80.jpg "Samsung Galaxy Watch 3 vs Samsung Galaxy Watch Active 2: two top choices")
+
+
+[Samsung Galaxy Watch 3 vs Samsung Galaxy Watch Active 2: two top choices](https://www.techradar.com/news/samsung-galaxy-watch-3-vs-samsung-galaxy-watch-active-2)
+
+
+> The Samsung Galaxy Watch 3 and Samsung Galaxy Watch Active 2 are very similar in some ways but are also aimed at very different markets with one being more of a general all-rounder akin to the Apple Watch SE or Apple Watch Series 6 while the latter is more about helping you track your workouts more efficiently. They both look good and offer Samsung's Tizen OS which works better with an Android device but will still play well enough with an iPhone. They also both offer standard training features for active users along with heart rate monitoring and GPS tracking.
+
+
+***
+![What could an Xbox streaming stick look like?](https://cdn.mos.cms.futurecdn.net/wNvizpNniEmPGbuZE7rqG5-1200-80.jpg "What could an Xbox streaming stick look like?")
+
+
+[What could an Xbox streaming stick look like?](https://www.techradar.com/news/what-could-an-xbox-streaming-stick-look-like)
+
+
+> On the cusp of E3 2021, Microsoft has been making some fascinating announcements. Alongside news of an Xbox Game Pass app coming to smart TVs in the near future, it also confirmed that streaming devices were in development to bring the game subscription service and its cloud gaming capabilities to TVs or monitors that lacked native support.By the sounds of it, then, we'll soon be able to plug and stream Xbox Game Pass titles on a TV without a dedicated Xbox Series X console – using a more compact streamer at even less cost than the entry-level, discless Xbox Series S.
+
+
+***
+![Top web frameworks](https://external-preview.redd.it/YaM9wD89RFcMRPTzrtDbZnVFGZjhZtolZuHZbdrP7m8.jpg?auto=webp&s=41eb3dafec00ba7359665ec4bc3078a1aafc351c "Top web frameworks")
+
+
+[Top web frameworks](https://www.reddit.com/r/programming/comments/ny2z1f/top_web_frameworks/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
