@@ -23329,3 +23329,50 @@
 > Get email updates with the day's biggest stories Invalid Email Something went wrong, please try again later. Sign up Thank you for subscribing We have more newsletters Show me See our privacy notice Geese are certainly enjoying their moment in the spotlight, with House House's Untitled Goose Game paving the way for this unforeseen success. But that's the beauty of indie games, you never know what you're going to get. This time around the species is waddling its way into Blastmode and Playism's chaotic space adventure Mighty Goose.
 
 
+***
+![Awesome Engineering Management](https://external-preview.redd.it/GHdgpHYdrw7am2LFXNQzkU36we6M__loow3vauxPLJ0.jpg?auto=webp&s=912d0023a43ef74eb2c73b7a6ab422f424ddc5d7 "Awesome Engineering Management")
+
+
+[Awesome Engineering Management](https://www.reddit.com/r/programming/comments/ny79n4/awesome_engineering_management_resources_for/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Denmark vs Finland live stream: how to watch today's Euro 2020 match for free and from anywhere](https://cdn.mos.cms.futurecdn.net/fm3KxsgqhhiUXPPxtaDzk7-1200-80.jpg "Denmark vs Finland live stream: how to watch today's Euro 2020 match for free and from anywhere")
+
+
+[Denmark vs Finland live stream: how to watch today's Euro 2020 match for free and from anywhere](https://www.techradar.com/news/denmark-vs-finland-live-stream-how-to-watch-todays-euro-2020-match-for-free-and-from-anywhere)
+
+
+> Group B gets underway with a tasty local derby of sorts, Denmark hosting Nordic neighbours Finland. The Finns, led by Norwich frontman Teemu Pukki, are looking to make a positive impression on their first ever appearance at a major international tournament, though they'll be facing a talented Danish side that's also got home advantage on its side. Follow our guide to watch a Denmark vs Finland live stream and follow the Euro 2020 Group B game from anywhere today.Denmark vs Finland Euro 2020 live streamDate: Saturday, June 12Kick-off time: 5pm BST / 6pm CEST / 12pm ET / 9am PT / 2am AEST / 4am NZSTVenue: Parken Stadium, Copenhagen, DenmarkFree live streams: BBC iPlayerGlobal live streams: ESPN via Sling TV or FuboTV (US) | Optus Sport (AUS) | TSN/TVA Sports (CAN) | Sky Sport (NZ)Watch anywhere: try ExpressVPN 100% risk-freeKasper Schmeichel, Joachim Anderson, Christian Nørgaard, Pierre-Emile Højbjerg, Christian Eriksen, Kasper Dolberg and Martin Braithwaite are just a handful of household names in the Danish ranks.
+
+
+***
+[AT&T CEO says Biden's municipal broadband plan is "a bit misguided" and is confident that Congress will steer legislation in the more "pragmatic" direction (Jon Brodkin/Ars Technica)](http://www.techmeme.com/210612/p7#a210612p7)
+
+
+> Jon Brodkin / Ars Technica: AT&T CEO says Biden's municipal broadband plan is “a bit misguided” and is confident that Congress will steer legislation in the more “pragmatic” direction — CEO thinks US will keep giving billions to private ISPs instead of public networks.
+
+
+***
+![Why Every Developer Should Learn Data Structures and Algorithms](https://external-preview.redd.it/97tF0kXeFzevcfTLj-np-5vHeCoUWaxPxp6QWeLyjnE.jpg?auto=webp&s=69f295fb0f4b220eac9e353abad60560fd438aaf "Why Every Developer Should Learn Data Structures and Algorithms")
+
+
+[Why Every Developer Should Learn Data Structures and Algorithms](https://www.reddit.com/r/programming/comments/ny71z7/why_every_developer_should_learn_data_structures/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![NY can't force ISPs to offer $15 low-income broadband plans, judge rules](https://external-preview.redd.it/Gn7XVvGRceQ2dQgIwRRhvd68w7Dp3LdFdS_AOuDuPFA.jpg?auto=webp&s=fe37960f23782d0cbe8e3aad47eba339694c89b8 "NY can't force ISPs to offer $15 low-income broadband plans, judge rules")
+
+
+[NY can't force ISPs to offer $15 low-income broadband plans, judge rules](https://www.reddit.com/r/technology/comments/ny6x30/ny_cant_force_isps_to_offer_15_lowincome/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
