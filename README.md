@@ -23473,3 +23473,50 @@
 > We've been waiting a long time for the sequel to Beyond Good and Evil, the action-adventure classic that originally released in 2003. But after many delays, Ubisoft finally announced at E3 2017 that a prequel was in the works: Beyond Good and Evil 2.While the prospect of a new Beyond Good and Evil has seemed shaky for almost a decade, Ubisoft's cinematic trailer at E3 2018 suggests it will definitely be worth the wait. However, beyond the announcement, we haven't heard much in the way of solid details about Beyond Good and Evil 2.
 
 
+***
+![Assassin's Creed Valhalla's new expansion tackles major Viking history battle](https://cdn.mos.cms.futurecdn.net/X7ANYyuotRLzhJbfzYVZMn-1200-80.jpg "Assassin's Creed Valhalla's new expansion tackles major Viking history battle")
+
+
+[Assassin's Creed Valhalla's new expansion tackles major Viking history battle](https://www.techradar.com/news/assassins-creed-valhallas-new-expansion-tackles-major-viking-history-battle)
+
+
+> (Image credit: Ubisoft) The next Assassin's Creed Valhalla expansion will see the series return to France, with Eivor and his clan set to partake in one of the most ambitious battles in Viking history.Revealed during the Ubisoft Forward showcase at E3 2021, Assassin's Creed Valhalla: Siege of Paris will see players journeying to war torn Francia uncovering enemy secrets and forming strategic alliances in order to safeguard their clan's future.Siege of Paris will see the return of Black Box infiltration missions, which avoid sending players down a set path, and will introduce new abilities, weapons, gear and enemies.
+
+
+***
+![Confirmed: Far Cry 6 DLC will bring back fan-favorite villains](https://cdn.mos.cms.futurecdn.net/uzZJbQB7SyxxMuXmJXoCM5-1200-80.jpg "Confirmed: Far Cry 6 DLC will bring back fan-favorite villains")
+
+
+[Confirmed: Far Cry 6 DLC will bring back fan-favorite villains](https://www.techradar.com/news/far-cry-6-dlc-might-bring-back-fan-favorite-villains)
+
+
+> (Image credit: Ubisoft) Far Cry 6 players will have more than just Anton Castillo to contend with, thanks to the game's post-release content.As part of the game's Season Pass, players can look forward to welcoming back Vaas Montenegro from Far Cry 3, Pagan Min from Far Cry 4 and Joseph Seed from Far Cry 5)as playable characters. The footage shows that the content will take place from the perspective of a dream sequence, as you step into the shoes of the three dangerous individuals. What sort of sinister things you'll get up to, though, remains to be seen.
+
+
+***
+[A look at the rise of BitClout, a burgeoning crypto service monetizing social influence, valued at more than $1B in April, but operating in a legal gray zone (Caroline Lester/New Yorker)](http://www.techmeme.com/210612/p15#a210612p15)
+
+
+> Caroline Lester / New Yorker: A look at the rise of BitClout, a burgeoning crypto service monetizing social influence, valued at more than $1B in April, but operating in a legal gray zone — BitClout collapses everything—art, humor, personhood—into money, laying bare just who, and what, we are willing to pay for.
+
+
+***
+![England vs Croatia live stream: how to watch Euro 2020 match for free and from anywhere](https://cdn.mos.cms.futurecdn.net/QwH5ryxcJC7t8PuayquP4Q-1200-80.jpg "England vs Croatia live stream: how to watch Euro 2020 match for free and from anywhere")
+
+
+[England vs Croatia live stream: how to watch Euro 2020 match for free and from anywhere](https://www.techradar.com/news/england-vs-croatia-live-stream-how-to-watch-euro-2020-match-for-free-and-from-anywhere)
+
+
+> Group D heavyweights England and Croatia reacquaint themselves in a repeat of their epic World Cup semi-final, with Gareth Southgate's men hoping to banish the demon that's haunted them for three years. It's a huge match, and you can follow our guide to watch an England vs Croatia live stream and follow the Euro 2020 Group D game from anywhere. England vs Croatia Euro 2020 live stream Date: Sunday, June 13 Kick-off time: 2pm BST / 3pm CET / 9am ET / 6am PT / 11pm AEST / 1am NZST Venue: Wembley Stadium, London, England Free live streams: BBC iPlayer Global live streams: ESPN via Sling TV or FuboTV (US) | Optus Sport (AUS) | TSN/TVA Sports (CAN) | Sky Sport (NZ) Watch anywhere: try ExpressVPN 100% risk-free Kieran Trippier's freekick was the zenith of a giddy summer for most England followers, but the Three Lions were left kicking themselves after some uncharacteristic profligacy from Harry Kane allowed Ivan Perišić to force extra time, during which Mario Mandžukić completed the turnaround.
+
+
+***
+![Geoff Keighley, Content Creators Blocked from E3 Co-Streaming](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/E3%20Co-Streaming%20Program%20Geoff%20Keighley%20Rejected%20cover.jpg?itok=9ELDG8xA "Geoff Keighley, Content Creators Blocked from E3 Co-Streaming")
+
+
+[Geoff Keighley, Content Creators Blocked from E3 Co-Streaming](https://techraptor.net/gaming/news/geoff-keighley-content-creators-blocked-from-e3-co-streaming)
+
+
+> 06/12/2021 - 15:33 | By: Robert N. Adams E3 is Apparently Being Very Selective About Its Co-Streaming Partners E-mails regarding the E3 co-streaming program went out today to personalities such as Geoff Keighley, ultimately rejecting any additional quests to simulcast the event. Co-streaming involves broadcasting a live event on your own channel, occasionally supplemented by your own commentary. The Game Awards and Summer Game Fest creator Geoff Keighley was one of the people interested in participating in this program, but it looks like his efforts have proved fruitless.
+
+
