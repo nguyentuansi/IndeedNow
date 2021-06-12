@@ -23132,3 +23132,53 @@
 > Coinciding with the visit of HMS Richmond, sailing from the UK Carrier Strike Group, Lady Goldie held high-level meetings to discuss NATO and regional security. 11 June 2021 Minister of State for Defence Baroness Annabel Goldie has reaffirmed the UK's commitment to Western Balkans security on a visit to Montenegro. Coinciding with the visit of HMS Richmond, sailing from the UK Carrier Strike Group, Lady Goldie held high-level meetings to discuss regional security, the role of NATO in upholding that security and maintaining stability, as well as the UK-Montenegro defence relationship.
 
 
+***
+![Netflix's New Online Store Debuts With Stranger Things, The Witcher Merchandise](https://i.gadgets360cdn.com/large/netflix_android_image_gadgets_360_1612005888406.jpg "Netflix's New Online Store Debuts With Stranger Things, The Witcher Merchandise")
+
+
+[Netflix's New Online Store Debuts With Stranger Things, The Witcher Merchandise](https://gadgets.ndtv.com/entertainment/news/netflix-shop-online-store-launch-merchandise-stranger-things-witcher-lupin-apparel-action-figures-beams-2462170)
+
+
+> Streaming giant Netflix has launched its online store called Netflix.shop, the company's first owned-and-operated retail outlet to sell products directly.As per Variety, the online store will sell exclusive, limited editions of "carefully selected, high-quality apparel and lifestyle products" tied to Netflix's shows and brand on a regular basis.Coming soon to the Netflix online store will be exclusive merch based on ''The Witcher'' and ''Stranger Things'', two original series with rabid fandoms, as well as new Netflix logo-wear from Japanese fashion house BEAMS, according to Josh Simon, Netflix's VP of consumer products.
+
+
+***
+![Jio launches 5 new prepaid recharge plans: Check details](https://images.indianexpress.com/2021/05/Reliance-Jio-Reuters.jpeg "Jio launches 5 new prepaid recharge plans: Check details")
+
+
+[Jio launches 5 new prepaid recharge plans: Check details](https://indianexpress.com/article/technology/techook/jio-launches-5-new-prepaid-recharge-plans-check-details-7355490/)
+
+
+> Reliance Jio has launched five new prepaid recharge plans with zero FUP restrictions on data and unlimited call benefits. The new plans will benefit those who don't want to buy data vouchers for extra data and want to use unlimited data on any day without any restrictions. All the new prepaid plans from Jio offer unlimited voice calling to any network, 100 SMS per day and free access to Jio apps. The latter includes JioTV, JioCinema, JioNews, and more. As per the MyJio app, the new Rs 127 Jio prepaid plan gives users 12GB of total data and comes with a validity period of 15 days.
+
+
+***
+![If Elon Musk wrote this, the headline would be a meme & Dogecoin fortunes would've changed](https://static.theprint.in/wp-content/uploads/2021/06/Elon-Musk.jpg "If Elon Musk wrote this, the headline would be a meme & Dogecoin fortunes would've changed")
+
+
+[If Elon Musk wrote this, the headline would be a meme & Dogecoin fortunes would've changed](https://theprint.in/tech/if-elon-musk-wrote-this-the-headline-would-be-a-meme-dogecoin-fortunes-wouldve-changed/675264/)
+
+
+> Elon Musk, founder of SpaceX and CEO of Tesla Inc., arrives at the Axel Springer Award ceremony in Berlin, Germany, in December 2020 | Liesa Johannssen-Koppitz | Bloomberg Text Size: New Delhi: Elon Musk knows he 'who controls the memes, controls the Universe', and with one fell swoop, or in his case tweet, the quirky entrepreneur has been creating and destroying a universe of wealth faster than you can say his youngest son's name, Æ A-Xii. Musk has come a long way from the days he was a balding millionaire to become a cool, leather jacket-wearing visionary centibillionaire, or someone whose net worth is more than $100 billion (he is one of nine in the world).
+
+
+***
+![highest paying programming languages 2021](https://external-preview.redd.it/cFb19MCsqMRNs6ryNpqzTGCv40_FuBQHPZhoPHYafUw.jpg?auto=webp&s=2335f0d36d9964c333e14529db45c0155442ecf9 "highest paying programming languages 2021")
+
+
+[highest paying programming languages 2021](https://www.reddit.com/r/programming/comments/nxzoxo/highest_paying_programming_languages_2021/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![A Mycological Foray: A new look at John Cage and his mushroom obsession (2020)](https://glasstire.com/wp-content/uploads/2020/07/jamesklosty_john-cage-grenoble-mushroom-1971_lores-copy-1.jpeg "A Mycological Foray: A new look at John Cage and his mushroom obsession (2020)")
+
+
+[A Mycological Foray: A new look at John Cage and his mushroom obsession (2020)](https://glasstire.com/2020/07/11/a-mycological-foray-a-new-look-at-john-cage-and-his-mushroom-obsession/)
+
+
+> John Cage picking mushrooms in the woods, William Gedney Photographs and Papers, David M. Rubenstein Rare Book & Manuscript Library, Duke University. The twentieth-century music composer John Cage was famous for his experimental approach to sounds, silences, and everything in between. As it happens, Cage was also an avowed mushroom aficionado and the inspiration he drew from fungi played no small part in his work. Almost three decades after his death, the influence of his mycological interests on his biography is indisputable.
+
+
