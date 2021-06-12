@@ -23423,3 +23423,53 @@
 > Grab this Echo Dot bundle on the cheap ahead of Prime Day 2021. (Photo: Ring/Getty)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Prime Day 2021 is almost here (it's Monday, June 21, and Tuesday, June 22), and to get the party started, Amazon is already offering plenty of special savings in anticipation of the 48-hour event. In fact, you can score 27% off a wired Ring video doorbell and Echo Dot (fourth generation) bundle right now to make all your smart home dreams come true.
 
 
+***
+![This Neptune-like planet has a thick atmosphere and maybe even a tail](https://icdn.digitaltrends.com/image/digitaltrends/1685_toi1231b_12801.jpg "This Neptune-like planet has a thick atmosphere and maybe even a tail")
+
+
+[This Neptune-like planet has a thick atmosphere and maybe even a tail](https://www.digitaltrends.com/news/exoplanet-neptune-atmosphere-tail/)
+
+
+> Artist's rendering of TOI-1231 b, a Neptune-like planet about 90 light years away from Earth. NASA/JPL-Caltech Discovering planets beyond our solar system is one thing — we've discovered over 4,000 exoplanets so far — but discovering if they might be habitable or if they might have an atmosphere is another. That's why it's exciting when researchers discover an exoplanet with a substantial atmosphere, as a group from NASA's Jet Propulsion Laboratory and The University of New Mexico did recently. The planet, TOI-1231 b, is a bit smaller than Neptune and orbits a common type of star called a red dwarf.
+
+
+***
+![Keurig K-Slim](https://cdn.mos.cms.futurecdn.net/YQ2yNq64NScBTyGKzirAkM-1200-80.jpg "Keurig K-Slim")
+
+
+[Keurig K-Slim](https://www.techradar.com/news/keurig-k-slim-should-i-buy-one)
+
+
+> The Keurig K-Slim is a single-serve machine that offers a convenient and almost mess-free way to make coffee. It's very likely that you'll find Keurig machines in round-ups of the best coffee makers, because they offer an easy way to make barista-style coffee with just the press of a button. The added appeal is that models such as the Keurig K-Slim use K-Cups and there are so many different flavors to choose from. We'll be giving you all the information you need to know about the Keurig K-Slim before you spend any money, including the pros, cons, and everything in between.
+
+
+***
+![Lobsterman Who Was Nearly Swallowed By Humpback Whale Breaks His Silence](https://cdn.digg.com/wp-content/uploads/2021/06/12175310/Screen-Shot-2021-06-12-at-1.52.41-PM.jpg "Lobsterman Who Was Nearly Swallowed By Humpback Whale Breaks His Silence")
+
+
+[Lobsterman Who Was Nearly Swallowed By Humpback Whale Breaks His Silence](https://digg.com/video/lobsterman-who-was-nearly-swallowed-by-humpback-whale-breaks-his-silence)
+
+
+> LIVE LONG ENOUGH TO BECOME CHEUG Over the past four years, the star musical composer has become a symbol of millennial cringe. THE SEA WAS ANGRY THAT DAY, MY FRIENDS Michael Packard thought he had been bit by a shark, and then realized he was in the mouth of a whale. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. Aaron Carter tried his hand at boxing a la Logan Paul — it wasn't pretty.
+
+
+***
+![Blue Origin spaceflight live auction ends with winning $28 million bid](https://www.clickorlando.com/resizer/PHKAfTRvE96t3-GP1LIlK3ExsF4=/800x449/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/AWMDCAMDEJERVA7Q7TLRXGQ7HM.jpg "Blue Origin spaceflight live auction ends with winning $28 million bid")
+
+
+[Blue Origin spaceflight live auction ends with winning $28 million bid](https://www.clickorlando.com/tech/2021/06/12/winning-auction-bid-to-fly-in-space-with-jeff-bezos-28m/)
+
+
+> CAPE CANAVERAL, Fla. – An auction for a ride into space next month alongside Jeff Bezos and his brother ended with a winning $28 million bid Saturday.The Amazon founder's rocket company, Blue Origin, did not disclose the winner's name following the live online auction. The identity will be revealed in a couple weeks — closer to the brief up-and-down flight from West Texas on July 20, the 52nd anniversary of Neil Armstrong and Buzz Aldrin's moon landing.[TRENDING: White Castle reopens downtown Orlando ghost kitchen | Police: Suspect accused of dumping body in river found in victim's car | Driver killed after tree falls on truck ]It will be the first launch of Blue Origin's New Shepard rocket with people on board, kicking off the company's space tourism business.
+
+
+***
+![Beyond Good and Evil 2: trailers, release date and news](https://cdn.mos.cms.futurecdn.net/bG5fKbGER2ajhnpZDPhfjk-1200-80.jpg "Beyond Good and Evil 2: trailers, release date and news")
+
+
+[Beyond Good and Evil 2: trailers, release date and news](https://www.techradar.com/news/beyond-good-and-evil-2)
+
+
+> We've been waiting a long time for the sequel to Beyond Good and Evil, the action-adventure classic that originally released in 2003. But after many delays, Ubisoft finally announced at E3 2017 that a prequel was in the works: Beyond Good and Evil 2.While the prospect of a new Beyond Good and Evil has seemed shaky for almost a decade, Ubisoft's cinematic trailer at E3 2018 suggests it will definitely be worth the wait. However, beyond the announcement, we haven't heard much in the way of solid details about Beyond Good and Evil 2.
+
+
