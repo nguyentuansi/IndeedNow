@@ -22994,3 +22994,50 @@
 > Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter by clicking HERE.Welcome! Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@chrisismills) and Rebecca Klar (@rebeccaklar_), for more coverage.Top lawmakers on the House Judiciary Antitrust Subcommittee released a long-awaited antitrust agenda including five bills aimed at reining in the power of tech giants.
 
 
+***
+![Eva Longoria becomes a shareholder of Necaxa – Explica .co and Kenya Barris Is Developing a 'Brown-ish' Series With Eva Longoria](https://https://www.thearkatech.com/img/news_img/all/15426_7_1200.pic "Eva Longoria becomes a shareholder of Necaxa – Explica .co and Kenya Barris Is Developing a 'Brown-ish' Series With Eva Longoria")
+
+
+[Eva Longoria becomes a shareholder of Necaxa – Explica .co and Kenya Barris Is Developing a 'Brown-ish' Series With Eva Longoria](https://www.thearkatech.com/en/65110/)
+
+
+> © Instagram / Eva Longoria By: Samantha Thompson2021-06-12 03:15:24 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Kenya Barris Is Developing a 'Brown-ish' Series With Eva Longoria and Eva Longoria becomes a shareholder of Necaxa – Explica .co Growing vigorous kiwi takes care and a strong trellis. Miguel Angel Jimenez leads after first round of PGA Tour Champions' American Insurance Championship. CM Betsy Wilkerson Will Welcome Spokane Chapter of Buffalo Soldiers. (PRNewsfoto/The Checks and Balances Project).
+
+
+***
+![Taylor Swift reveals what made her work with Brendon Urie in Me! and Is Brendon Urie being unfairly targeted? Fans stand by Panic at the Disco frontman after social media strikes](https://https://www.thearkatech.com/img/news_img/all/15425_5_1200.pic "Taylor Swift reveals what made her work with Brendon Urie in Me! and Is Brendon Urie being unfairly targeted? Fans stand by Panic at the Disco frontman after social media strikes")
+
+
+[Taylor Swift reveals what made her work with Brendon Urie in Me! and Is Brendon Urie being unfairly targeted? Fans stand by Panic at the Disco frontman after social media strikes](https://www.thearkatech.com/en/65109/)
+
+
+> © Instagram / Brendon Urie By: Linda Davis2021-06-12 03:14:19 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Aurora opens new pedestrian and bike bridge over Fox River downtown. SEC chief readies 'woke' rules and plan to curtail market's 'gamifcation'. Adults are hanging around near schools, peddling false information to students. How Native Americans took over Alcatraz and ignited a movement. Legislative leaders reflect on session. Moss Point Municipal Court employs 'no bond' policy on violent crimes Due to the city being.
+
+
+***
+![See Antonio Banderas and Melanie Griffith's Daughter Stella Now and Melanie Griffith, 63, proves she just gets better with age](https://https://www.thearkatech.com/img/news_img/all/15424_5_1200.pic "See Antonio Banderas and Melanie Griffith's Daughter Stella Now and Melanie Griffith, 63, proves she just gets better with age")
+
+
+[See Antonio Banderas and Melanie Griffith's Daughter Stella Now and Melanie Griffith, 63, proves she just gets better with age](https://www.thearkatech.com/en/65108/)
+
+
+> © Instagram / Melanie Griffith By: Jason Jones2021-06-12 03:13:26 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Melanie Griffith, 63, proves she just gets better with age and See Antonio Banderas and Melanie Griffith's Daughter Stella Now Higher prices and longer waits due to staff shortages at TSA & rideshares. Mexico and U.S. said to be negotiating end to border restrictions, with vaccination requirements. Belle Meade residents protest Greenville County plan to tear down community center.
+
+
+***
+[Apple tightens rules after Justice Department targeted U.S. lawmakers](https://www.oann.com/apple-tightens-rules-after-justice-department-targeted-u-s-lawmakers/?utm_source=rss&utm_medium=rss&utm_campaign=apple-tightens-rules-after-justice-department-targeted-u-s-lawmakers)
+
+
+> By Stephen Nellis (Reuters) -Apple Inc on Friday said it has tightened some of its rules for responding to legal requests after the U.S.
+
+
+***
+![New Music Friday: the biggest releases from Maluma, Bad Bunny, and more and The discussion is over and Maluma admits defeat, accepts that J Balvin is prettier – Explica .co](https://https://www.thearkatech.com/img/news_img/all/15423_3_1200.pic "New Music Friday: the biggest releases from Maluma, Bad Bunny, and more and The discussion is over and Maluma admits defeat, accepts that J Balvin is prettier – Explica .co")
+
+
+[New Music Friday: the biggest releases from Maluma, Bad Bunny, and more and The discussion is over and Maluma admits defeat, accepts that J Balvin is prettier – Explica .co](https://www.thearkatech.com/en/65107/)
+
+
+> © Instagram / Maluma By: Daniel White2021-06-12 03:12:19 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Activision Blizzard discloses environment, social, and governance efforts. H-E-B plans to open in McKinney; local election results are in, and more top stories from Dallas-Fort Worth. COVID-19: Updated OSHA Guidance. 70 Texas students earn Houston Livestock Show and Rodeo scholarships. Ice shelf protecting Antarctic glacier is is breaking up faster, study shows. Pulitzers honour Darnella Frazier for cellphone video of George Floyd murder.
+
+
