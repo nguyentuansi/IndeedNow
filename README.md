@@ -23041,3 +23041,50 @@
 > © Instagram / Maluma By: Daniel White2021-06-12 03:12:19 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Activision Blizzard discloses environment, social, and governance efforts. H-E-B plans to open in McKinney; local election results are in, and more top stories from Dallas-Fort Worth. COVID-19: Updated OSHA Guidance. 70 Texas students earn Houston Livestock Show and Rodeo scholarships. Ice shelf protecting Antarctic glacier is is breaking up faster, study shows. Pulitzers honour Darnella Frazier for cellphone video of George Floyd murder.
 
 
+***
+![SOSV, the global venture firm, just closed a $100 million fund to back its maturing startups – TechCrunch](https://techcrunch.com/wp-content/uploads/2017/01/sean_o_sullivan.png?w=599 "SOSV, the global venture firm, just closed a $100 million fund to back its maturing startups – TechCrunch")
+
+
+[SOSV, the global venture firm, just closed a $100 million fund to back its maturing startups – TechCrunch](https://techcrunch.com/2021/06/11/sosv-the-global-venture-firm-just-closed-a-100-million-fund-to-back-its-maturing-startups/)
+
+
+> Sean O'Sullivan, the founder of the global venture outfit SOSV, has slowly but steadily built up a sizable operation over the years. SOSV started off as a family office, investing the capital of O'Sullivan after he cofounded two companies, including MapInfo, an outfit that went public in 1994 before Pitney Bowes it years later, in 2007. The seed-stage investing outfit went on to raise three more funds, including a $277 million early-stage fund that it closed in 2019 and is actively investing from right now.
+
+
+***
+![Internet firms to fight misinformation in India while respecting rights: US](https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/04/full/1614810511-5978.jpg "Internet firms to fight misinformation in India while respecting rights: US")
+
+
+[Internet firms to fight misinformation in India while respecting rights: US](https://www.business-standard.com/article/technology/internet-firms-to-fight-misinformation-in-india-while-respecting-rights-us-121061200115_1.html)
+
+
+> The Joe Biden administration seeks to work with the Indian government and Internet businesses to ensure that freedom of expression is respected while combating the spread of misinformation, a senior US official has told lawmakers. The US believes that the best response to misinformation is truthful information, said Scott Busby, the acting principal deputy assistant Secretary of State for Democracy, Human Rights and Labour while testifying before the House Foreign Affairs Subcommittee on Asia, the Pacific, Central Asia, and Non-Proliferation on Wednesday.
+
+
+***
+![Victoria SES advice for returning home after flooding as toxic water, snakes, threaten residents](https://images.perthnow.com.au/publication/C-3089936/d78cdfc7818bb5dd8d980e50776dbf4a760f2891-16x9-x243y0w1563h879.jpg?imwidth=1200 "Victoria SES advice for returning home after flooding as toxic water, snakes, threaten residents")
+
+
+[Victoria SES advice for returning home after flooding as toxic water, snakes, threaten residents](https://www.news.com.au/technology/environment/victoria-ses-advice-for-returning-home-after-flooding-as-toxic-water-snakes-threaten-residents/news-story/7f7d18fbc964482a46460d5e79ea0a86)
+
+
+> As thousands of Victorians evacuate ahead of major flooding on Saturday, the state's emergency services are urging residents to think ahead, with other risks waiting for them once the waters recede.Everyone in the Traralgon Creek area has been ordered to evacuate and travel to a safe location away from the flooding, with up to 15mm forecast for the catchment during the day.But, sewage, asbestos, mosquitoes, snakes and live powerlines are among the biggest risks waiting for flood victims in the clean-up.
+
+
+***
+![Build a React & Firebase Chat App!](https://external-preview.redd.it/_t6Kdq8vTmveUO97xM_GCZf-j9ATk8Tom6xsshU-IM8.jpg?auto=webp&s=082cea8c2554f6b73ce07296a14fbd73735d5b7d "Build a React & Firebase Chat App!")
+
+
+[Build a React & Firebase Chat App!](https://www.reddit.com/r/programming/comments/nxvebf/build_a_react_firebase_chat_app/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Transcarent, a health navigation, virtual care, and medication review service for self-insured employees, raises $58M Series B led by General Catalyst and 7wire (Heather Landi/FierceHealthcare)](http://www.techmeme.com/210611/p24#a210611p24)
+
+
+> Heather Landi / FierceHealthcare: Transcarent, a health navigation, virtual care, and medication review service for self-insured employees, raises $58M Series B led by General Catalyst and 7wire — Livongo founder Glen Tullman's latest venture has raised $58 million backed by major investors General Catalyst …
+
+
