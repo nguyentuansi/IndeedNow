@@ -24046,3 +24046,53 @@
 > IRVINE, Calif.--(BUSINESS WIRE)--On September 23, players around the world can save Sanctuary from certain doom in Diablo® II: Resurrected™, the definitive remastering of Diablo II and its Lord of Destruction® expansion—two landmark entries in the company's genre-defining action role-playing series. In Diablo II: Resurrected, the original game's iconic 2D character models become fully realized 3D heroes who inhabit a boldly re-envisioned dark fantasy world of Sanctuary rife with rich—and often gory—detail.
 
 
+***
+![Hack and Slash Final Fantasy Origin Announced for PlayStation 5](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/TRPic00084.jpg?itok=Ojot4RaI "Hack and Slash Final Fantasy Origin Announced for PlayStation 5")
+
+
+[Hack and Slash Final Fantasy Origin Announced for PlayStation 5](https://techraptor.net/gaming/news/souls-like-final-fantasy-origin-announced-for-playstation-5)
+
+
+> 06/13/2021 - 16:00 | By: Andrew Stretch Another experimental Final Fantasy title Today Square Enix showed off a number of interesting titles at their conference, some known and some unknown. One title that they did formally announce was a new take on the Final Fantasy formula in the form of Final Fantasy Origin. Stepping into territory that no other Final Fantasy has tread before this title will be a Hack and Slash game and is being developed with the team behind the popular game series Nioh as well as Koei Tecmo.
+
+
+***
+![The best Final Fantasy game is getting a remaster (no, not that one again)](https://cdn.mos.cms.futurecdn.net/8byTg3cNYkH477YasXXYj-1200-80.png "The best Final Fantasy game is getting a remaster (no, not that one again)")
+
+
+[The best Final Fantasy game is getting a remaster (no, not that one again)](https://www.techradar.com/news/the-best-final-fantasy-game-is-getting-a-remaster-no-not-that-one-again)
+
+
+> (Image credit: Square Enix) The Final Fantasy series is going back to its roots once more. Revealed at E3 2021, Square Enix announced that it is planning remasters for not one, not two, but all of the first six Final Fantasy games. That's all the mainline games from the NES era through the SNES.Sadly, it was merely a tease of the companies plans, with no footage revealed. But these are formative games in the world-beating franchise, some of which are well-overdue a remake for modern audiences. And, in the case of some of the games, it's an opportunity for Square Enix to right the wrongs of some more half-hearted remasters that have blighted the series.
+
+
+***
+![Hitman mobile game coming later this year, Square Enix reveals at E3 2021](https://cdn.mos.cms.futurecdn.net/M3a6qTAZezn7rkqgkyuaMP-1200-80.png "Hitman mobile game coming later this year, Square Enix reveals at E3 2021")
+
+
+[Hitman mobile game coming later this year, Square Enix reveals at E3 2021](https://www.techradar.com/news/hitman-mobile-game-coming-later-this-year-square-enix-reveals-at-e3-2021)
+
+
+> (Image credit: Square Enix) Eager to take classic Hitman action on the go? Square Enix has revealed the newest Hitman mobile game during its E3 2021 presentation, and Hitman Sniper: The Shadows follows a new storyline of lethal assassins, international targets, and intrigue.   When the game opens, franchise protagonist Agent 47 is gone, leaving players to take over a new quintet of sniper assassins to help handler Diana Burnwood and the International Contract Agency (ICA) to handle a new threat.
+
+
+***
+![Marvel's Guardians of the Galaxy game could repeat Avengers' biggest mistake](https://cdn.mos.cms.futurecdn.net/gzNoneWvUKa2YtN2TztpxC-1200-80.jpg "Marvel's Guardians of the Galaxy game could repeat Avengers' biggest mistake")
+
+
+[Marvel's Guardians of the Galaxy game could repeat Avengers' biggest mistake](https://www.techradar.com/news/marvels-guardians-of-the-galaxy-game-could-repeat-avengers-biggest-mistake)
+
+
+> Candidly speaking, I don't really like the Marvel franchise – or more specifically, the films.That may border on blasphemy in some circles, but I sort of rue the day that Marvel's cast of characters leapt from the comic book pages and onto the big screen. To put things into perspective, I never made it to the end of 2014's Guardians of the Galaxy film starring Chris Pratt and Dave Bautista, simply because I couldn't stand to watch it any longer. Imagine my face, then, when I attended a confidential pre-E3 2021 briefing, only for the grand reveal to be a Guardians of the Galaxy game.
+
+
+***
+![Smart Tech: The future of mobility via location intelligence](https://images.financialexpress.com/2021/06/1-275.jpg "Smart Tech: The future of mobility via location intelligence")
+
+
+[Smart Tech: The future of mobility via location intelligence](https://www.financialexpress.com/industry/technology/smart-tech-the-future-of-mobility-via-location-intelligence/2269872/)
+
+
+> Megha YethadkaBy Megha YethadkaEver walked into a supermart and had to push the trolley through five aisles to make it to the bag of flour you came for? That's location intelligence at play. Most large supermarket chains place items and supplies strategically, so as to make you walk through several aisles, exploring more products and buying things you didn't plan to buy. The result is obvious—higher sales.Now, imagine location intelligence being used to study trends across cities, assessing particular pockets and the time of the day when demand for transport is highest.
+
+
