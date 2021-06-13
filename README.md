@@ -23614,3 +23614,50 @@
 > The PS5 restock dates at stores like Best Buy, GameStop and Target are coming up (likely in that order), according to our PS5 restock Twitter tracker Matt Swider, who will send you an alert when PS5 is in stock – if you follow his account and turn on notifications.Our PS5 restock news reporting, which includes exclusive contacts retail sources in the US, will save you the heartache: there are no PS5 restock events scheduled for this weekend, even though E3 2021 kicked off today, June 12. But there are signs Best Buy is ready to launch the next restock at any time (likely Monday onward).
 
 
+***
+[Many Latin American Facebook users are self-compromising their accounts to fuel fake engagement through "autoliker" websites and unwittingly joining bot farms (Sophie Zhang/Rest of World)](http://www.techmeme.com/210612/p18#a210612p18)
+
+
+> Sophie Zhang / Rest of World: Many Latin American Facebook users are self-compromising their accounts to fuel fake engagement through “autoliker” websites and unwittingly joining bot farms — Global South users often share their accounts with shady middlemen. The practice is corrupting civil discourse around the world.
+
+
+***
+![Japan to start antitrust probe on Apple, Google](https://external-preview.redd.it/s_XBhdB--Y4VYnlnqWHdq2wK-3TEgx2Tic21GqwZhMc.jpg?auto=webp&s=c4075482740e0651a150d5fdeacaa40c12e27d68 "Japan to start antitrust probe on Apple, Google")
+
+
+[Japan to start antitrust probe on Apple, Google](https://www.reddit.com/r/technology/comments/nylugc/japan_to_start_antitrust_probe_on_apple_google/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![WebVowl Integration on Flask application](https://external-preview.redd.it/CpUBZ8hBxX265lZJT09J4fASowuncFXV1nHT0ytQWP0.jpg?auto=webp&s=4fa2a9c083feaa3d6629f73e14bfd28d89027de2 "WebVowl Integration on Flask application")
+
+
+[WebVowl Integration on Flask application](https://www.reddit.com/r/Python/comments/nylo2h/webvowl_integration_on_flask_application/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The iPhone 12 Mini Makes Me Sick (Literally)](https://external-preview.redd.it/9AFMyhnw0A0JVsIqqWX3BLFByTWwdBguh6f5YOp4ahY.jpg?auto=webp&s=006932b58135a34beb7ec3c11a320674dbdedcf7 "The iPhone 12 Mini Makes Me Sick (Literally)")
+
+
+[The iPhone 12 Mini Makes Me Sick (Literally)](https://www.reddit.com/r/technology/comments/nyljkv/the_iphone_12_mini_makes_me_sick_literally_ieee/)
+
+
+> 5 minutes of life wasted on something that can be explained in 1 paragraph. Or just changed the title to 'iPhone 12 mini uses a display that may cause people's nausea'.
+
+
+***
+![Estrena tráiler de Mario + Rabbids Sparks of Hope](https://www.elimparcial.com/__export/1623547017102/sites/elimparcial/img/2021/06/12/mario.jpg_1187572215.jpg "Estrena tráiler de Mario + Rabbids Sparks of Hope")
+
+
+[Estrena tráiler de Mario + Rabbids Sparks of Hope](http://www.elimparcial.com/tecnologia/Estrena-trailer-de-Mario--Rabbids-Sparks-of-Hope-20210612-0111.html)
+
+
+> No body in the article.
+
+
