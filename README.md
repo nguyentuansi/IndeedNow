@@ -23661,3 +23661,47 @@
 > No body in the article.
 
 
+***
+[The SQLite Amalgamation](https://www.reddit.com/r/programming/comments/nyo8lr/the_sqlite_amalgamation/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Today at E3: Politics, polygons and palm trees](https://ichef.bbci.co.uk/news/1024/branded_news/1022A/production/_118909066_p09lbw3q.jpg "Today at E3: Politics, polygons and palm trees")
+
+
+[Today at E3: Politics, polygons and palm trees](https://www.bbc.co.uk/news/av/technology-57457711)
+
+
+> No body in the article.
+
+
+***
+[Second most reported words in string](https://www.reddit.com/r/programming/comments/nynk4s/second_most_reported_words_in_string/)
+
+
+> No body in the article.
+
+
+***
+![Texas Police Puts 'Ghost Camaros' Into Action to Catch Reckless Drivers](https://external-preview.redd.it/UcXZpNoNWWLpY5wjvPF69uDnT5db9KeZAQzi3FEHU0s.jpg?auto=webp&s=0d54e74a8951bc6a1ea3f32636d4152da9d36c20 "Texas Police Puts 'Ghost Camaros' Into Action to Catch Reckless Drivers")
+
+
+[Texas Police Puts 'Ghost Camaros' Into Action to Catch Reckless Drivers](https://www.reddit.com/r/technology/comments/nynfi8/texas_police_puts_ghost_camaros_into_action_to/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![10 horrible features to avoid when buying a laptop for play or work](https://cdn.mos.cms.futurecdn.net/9hD9LvbhGKBfGG2dL2KATV-1200-80.jpg "10 horrible features to avoid when buying a laptop for play or work")
+
+
+[10 horrible features to avoid when buying a laptop for play or work](https://www.techradar.com/news/10-horrible-features-to-avoid-when-buying-a-laptop-for-play-or-work)
+
+
+> With Amazon Prime Day 2021 looming and the chaos caused by the global chip shortage subsiding, many will be looking to purchase a laptop to replace an old one, to move away from a desktop PC or as a first laptop for university students.The experts at TechRadar have reviewed hundreds of laptops over the years, from obscure vendors to the popular brands. Our hands-on experience has given us a unique perspective on what makes a good laptop and, by inference, what it takes to make your user experience on Windows feel like a trip to Hell.
+
+
