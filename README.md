@@ -23802,3 +23802,53 @@
 > Toshiba Corp's second-biggest shareholder on Sunday, June 13, demanded the board chairman and three other directors immediately resign after an investigation found the company had colluded with the Japanese government to pressure foreign investors. The letter, seen by Reuters, is from 3D Investment Partners, which owns a 7.2% stake in Toshiba. It was sent to the four on Sunday, according to people with direct knowledge of the process. It is likely to heighten scrutiny into governance at Toshiba, a renowned industrial conglomerate in crisis sparked by Thursday's report.
 
 
+***
+![WWDC 2021: Could Apple finally be serious about gaming?](https://cdn.mos.cms.futurecdn.net/GaNwPW62F5k9naUSmgzEAL-1200-80.jpg "WWDC 2021: Could Apple finally be serious about gaming?")
+
+
+[WWDC 2021: Could Apple finally be serious about gaming?](https://www.techradar.com/news/wwdc-2021-could-apple-finally-be-serious-about-gaming)
+
+
+> As WWDC week ends, we've been shown the features for 2021 that Apple has been working on for its many platforms.From redesigned notifications in iOS 15 to a redesigned multitasking interface in iPadOS 15, there's been plenty of refinements for every user to benefit from.However, one aspect that wasn't talked about face first, was gaming. Even though there wasn't a section of the keynote discussing this in great detail, there was plenty showcased around the topic, and you may not have even realized.
+
+
+***
+![Glue: the Dark Matter of Software](https://external-preview.redd.it/eyma2qfQHNf6f88tZenrxXcney0uJ0Wvd539shKD_YE.jpg?auto=webp&s=d3f910b059e70d98b36bb27d51789585d5d4bc2c "Glue: the Dark Matter of Software")
+
+
+[Glue: the Dark Matter of Software](https://www.reddit.com/r/programming/comments/nysw0t/glue_the_dark_matter_of_software/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![5-Minute Work Breaks Cuts Morning Fatigue, Boosts Productivity, Says Study](https://im.indiatimes.in/content/2021/Jun/Collage_60c5a10b8e4e8.jpg "5-Minute Work Breaks Cuts Morning Fatigue, Boosts Productivity, Says Study")
+
+
+[5-Minute Work Breaks Cuts Morning Fatigue, Boosts Productivity, Says Study](https://www.indiatimes.com/technology/news/work-from-home-productivity-tips-536606.html)
+
+
+> Work from home has made our already busy lives a whole lot busier with us dealing with home chores along with the stressful work.  Getty ImagesHowever, a new study by researchers from North Carolina State University, the National University of Singapore and the University of Illinois, Urbana-Champaign, taking short breaks in between stressful day can help you stay more productive. The researchers looked at two studies that explored microbreaks that used to be conducted before COVID-19 wreaked havoc on our lives.
+
+
+***
+![Hyundai chairman visits US to examine tech environment](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/491a533ff6fb4732a960b5d0b927bbd8.jpg "Hyundai chairman visits US to examine tech environment")
+
+
+[Hyundai chairman visits US to examine tech environment](https://www.koreatimes.co.kr/www/tech/2021/06/419_310414.html)
+
+
+> Hyundai Motor Group Chairman Chung Euisun stands next to a high-performance N brand series race car. Courtesy of Hyundai Motor GroupBy Kim Hyun-binHyundai Motor Group Chairman Chung Eui-sun is heading to the east coast of the U.S. to check on the progress of future growth engines for the company, as well as to look for possible acquisition targets in the automotive technology sector. The chairman's visit comes just two months after his first U.S. stopover this year, after being appointed to head the country's top automaker.
+
+
+***
+![Apple's Beats Studio Buds show up in another social media post](https://cdn.mos.cms.futurecdn.net/t5sA9RDYmmN7QMdBQoLz6f-1200-80.jpg "Apple's Beats Studio Buds show up in another social media post")
+
+
+[Apple's Beats Studio Buds show up in another social media post](https://www.techradar.com/news/apples-beats-studio-buds-show-up-in-another-social-media-post)
+
+
+> The current Powerbeats Pro. (Image credit: Future) We're still waiting for the grand unveiling of the Beats Studio Buds from Apple, but that hasn't stopped the incoming wireless earbuds from showing up in various places – which makes us think that a launch is just around the corner.The latest sighting comes from an Instagram post by soccer star Alex Morgan, who appears to be wearing a white pair of the earphones as she arrives in Texas to join up with the US national team as part of preparations for the Tokyo Olympics.
+
+
