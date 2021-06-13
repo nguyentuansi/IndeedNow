@@ -23705,3 +23705,53 @@
 > With Amazon Prime Day 2021 looming and the chaos caused by the global chip shortage subsiding, many will be looking to purchase a laptop to replace an old one, to move away from a desktop PC or as a first laptop for university students.The experts at TechRadar have reviewed hundreds of laptops over the years, from obscure vendors to the popular brands. Our hands-on experience has given us a unique perspective on what makes a good laptop and, by inference, what it takes to make your user experience on Windows feel like a trip to Hell.
 
 
+***
+![49 Gadgets That Are Cool *And* Work Well](https://img.buzzfeed.com/buzzfeed-static/static/2021-06/7/19/enhanced/5ca2206677f3/original-8185-1623093888-20.jpg?crop=1243:650;0,89%26downsize=1250:* "49 Gadgets That Are Cool *And* Work Well")
+
+
+[49 Gadgets That Are Cool *And* Work Well](https://www.buzzfeed.com/hbraga/gadgets-that-are-cool-and-work-well)
+
+
+> We hope you love the products we recommend! All of them were independently selected by our editors. Just so you know, BuzzFeed may collect a share of sales or other compensation from the links on this page if you decide to shop from them. Oh, and FYI — prices are accurate and items in stock as of time of publication.
+
+
+***
+![Samsung Galaxy Watch 4 could launch on June 28 at MWC 2021](https://images.indianexpress.com/2021/06/Samsung-galaxy-Watch.jpg "Samsung Galaxy Watch 4 could launch on June 28 at MWC 2021")
+
+
+[Samsung Galaxy Watch 4 could launch on June 28 at MWC 2021](https://indianexpress.com/article/technology/gadgets/samsung-galaxy-watch-4-could-launch-on-june-28-at-mwc-7356740/)
+
+
+> Google announced its partnership with Samsung over the next WearOS update. The new update is set to be the biggest Wear update in years. However, Google did not reveal any new hardware among the announcements. Now reports suggest that Google could announce a new watch at the upcoming Mobile World Congress. Mobile World Congress is still planning to go ahead as an in-person, physical event this year. However, many companies have withdrawn from the event, including Samsung. The virtual agenda for the event does mention a 'Galaxy Ecosystem/New Watch Experience/Mobile Security'.
+
+
+***
+![How to Turn Off Read Receipts in Facebook Messenger, iMessage, WhatsApp](https://i.gadgets360cdn.com/large/whatsapp_messenger_pexels_1623503907616.jpg "How to Turn Off Read Receipts in Facebook Messenger, iMessage, WhatsApp")
+
+
+[How to Turn Off Read Receipts in Facebook Messenger, iMessage, WhatsApp](https://gadgets.ndtv.com/how-to/features/whatsapp-facebook-messenger-imessage-read-receipt-turn-off-steps-guide-how-to-2462470)
+
+
+> WhatsApp, Facebook Messenger, and Apple's iMessage — all three apps have the read receipt function that notifies the sender when the receiver has read their message. Read receipts are an important part of communication through messaging apps. It allows users to understand whether their message has been seen by the recipient or not. WhatsApp, Facebook Messenger, and iMessage support the read receipt function by has different ways of notifying the sender that their message has been read. But if you like to keep things more private and not allow the sender the freedom to know when you have read their message, you can turn these read receipts off at any time.
+
+
+***
+![VPN is still the most important tool in your technological arsenal](https://cdn.mos.cms.futurecdn.net/NtQgopRbkgZAyZ973AhjoP-1200-80.jpg "VPN is still the most important tool in your technological arsenal")
+
+
+[VPN is still the most important tool in your technological arsenal](https://www.techradar.com/news/VPN-tech-arsenal)
+
+
+> (Image credit: Shutterstock) Despite its long history, VPN technology has gained newfound importance in recent months, with regimes around the world using the pandemic to disguise surveillance initiatives and censorious new web regulations.In territories with stringent internet laws, VPNs have played a critical role in unlocking online resources and fighting misinformation. And elsewhere, they have become an invaluable tool for anyone looking to keep their online activity private. TechRadar Pro spoke to Sebastian Schaub, founder of VPN service hide.
+
+
+***
+![Facebook buys Battleground Survival VR game](https://cdn.vox-cdn.com/thumbor/jN9uZvNbAO2bV4jFyKrwAO7_pg4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69442043/Screen_Shot_2021_06_11_at_1.34.40_PM.0.png "Facebook buys Battleground Survival VR game")
+
+
+[Facebook buys Battleground Survival VR game](https://technosports.co.in/2021/06/13/facebook-buys-battleground-survival-vr-game/)
+
+
+> - Advertisement -via sourceFacebook recently have bought controlling interest in Oculus Studios who are currently developing a battleground survival game named Population: One.Post the purchase of the studios Vice President of content at Facebook Reality labs Mike Verdu made a statement via a blog post 'POP: ONE stormed onto the VR scene just nine months ago and has consistently ranked as one the top-performing titles on the Oculus platform, bringing together up to 24 people at a time to connect, play, and compete in a virtual world.
+
+
