@@ -23899,3 +23899,50 @@
 > A NICE SUNDAY..A perfect and mostly clear morning this Sunday- prime conditions for beautiful sunrises across our state. We started off with temperatures in the 50s and 60s and mostly clear conditions. Weak high pressure is expected to keep us mostly dry for today.Today will be seasonal with high temperatures near 80 degrees inland and in the 70s along the shoreline. We are right on the mark as our normal high temperature for June 13th is 79 degrees. In the afternoon, it is possible to see a spot shower pass through, but we stay mostly rain free.
 
 
+***
+![Hackers Strike Volkswagen Exposing Data of 3 Million Customers](https://media.breitbart.com/media/2021/03/wi/ap/29/germany-volkswagen-tuesday-feb-25-2020-file-photo-worker-completes-an-electric-car-body-at-assembly-e1623592133379-640x335.jpg "Hackers Strike Volkswagen Exposing Data of 3 Million Customers")
+
+
+[Hackers Strike Volkswagen Exposing Data of 3 Million Customers](https://www.breitbart.com/tech/2021/06/13/hackers-strike-volkswagen-exposing-data-of-3-million-customers/)
+
+
+> Volkswagen and its luxury brand Audi have been hacked, resulting in the personal data of three million customers being stolen. Volkswagen and Audi have been hit by a data breach that has exposed contact information and in some cases personal details including driver license numbers of customers in the United States and Canada, according to a report by CNN Business. The company says that more than three million customers or shoppers have had at least their basic contact information stolen from an outside company that worked with the automakers.
+
+
+***
+![What A Note From A Time Capsule Found On A Plane Said](https://s.abcnews.com/images/US/time-capsule-note-delta-plane-01-ht-iwb-210611_1623434318678_hpMain_16x9_992.jpg "What A Note From A Time Capsule Found On A Plane Said")
+
+
+[What A Note From A Time Capsule Found On A Plane Said](https://abcnews.go.com/Politics/note-found-delta-plane-time-capsule-start-pandemic/story?id=78221370)
+
+
+> Washington -- As the world rapidly shut down last March and thousands of airplanes went out of service and into long-term storage in the desert, a Delta Air Lines pilot tucked a handwritten note inside a tray table only to be found by a pilot who would someday bring that plane back into service.First officer Chris Dennis wrote "It's March 23rd and we just arrived from MSP [Minneapolis - St. Paul International Airport]. Very chilling to see so much of our fleet in the desert," according to Delta.As the fallout from the pandemic paralyzed air travel, dozens of planes had been arriving each day in Victorville Airport, an airport with no commercial service about two hours outside of Los Angeles primarily used to store airplanes for long periods of time.
+
+
+***
+![Uber Offers to Pay Drivers' Health Insurance](https://media.breitbart.com/media/2017/10/wi/afp/28/vanmko-e1511554735216.jpg "Uber Offers to Pay Drivers' Health Insurance")
+
+
+[Uber Offers to Pay Drivers' Health Insurance](https://www.breitbart.com/tech/2021/06/13/uber-offers-to-pay-drivers-health-insurance-then-backtracks/)
+
+
+> Ridesharing giant Uber sent an email to some of its drivers and delivery workers last month offering to cover their health insurance costs, but backtracked on the offer two weeks later. The Verge reports that ridesharing company Uber sent out an email to some of its drivers and delivery workers last month offering to pay for some of their health insurance costs, but just two weeks later the company revoked this offer. On May 26, an email from Uber with the subject line 'It's a great time to get health coverage' was sent to an unknown number of the company's drivers and delivery workers.
+
+
+***
+![Uber Offers to Pay Drivers' Health Insurance – Then Backtracks](https://media.breitbart.com/media/2017/10/wi/afp/28/vanmko-e1511554735216.jpg "Uber Offers to Pay Drivers' Health Insurance – Then Backtracks")
+
+
+[Uber Offers to Pay Drivers' Health Insurance – Then Backtracks](https://www.breitbart.com/tech/2021/06/13/uber-offers-to-pay-drivers-health-insurance-then-backtracks/)
+
+
+> Ridesharing giant Uber sent an email to some of its drivers and delivery workers last month offering to cover their health insurance costs, but backtracked on the offer two weeks later. The Verge reports that ridesharing company Uber sent out an email to some of its drivers and delivery workers last month offering to pay for some of their health insurance costs, but just two weeks later the company revoked this offer. On May 26, an email from Uber with the subject line 'It's a great time to get health coverage' was sent to an unknown number of the company's drivers and delivery workers.
+
+
+***
+[Git for Computer Scientists](https://www.reddit.com/r/programming/comments/nywhc3/git_for_computer_scientists/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
