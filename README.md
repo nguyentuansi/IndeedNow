@@ -23946,3 +23946,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![An Interview of Ginger Bill for the Odin Programming Language 2021-06-09](https://external-preview.redd.it/EDE5Djv3LtNk5_aL8QaukL9MMOWTi6xadui4_6zJpQI.jpg?auto=webp&s=e2cf76d68824cb3f98e61e99c746d3e3a923e5fe "An Interview of Ginger Bill for the Odin Programming Language 2021-06-09")
+
+
+[An Interview of Ginger Bill for the Odin Programming Language 2021-06-09](https://www.reddit.com/r/programming/comments/nyzkrp/an_interview_of_ginger_bill_for_the_odin/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Scientists discover that RNA segments can be written back into DNA](https://cdn.slashgear.com/wp-content/uploads/2021/06/dna.jpg "Scientists discover that RNA segments can be written back into DNA")
+
+
+[Scientists discover that RNA segments can be written back into DNA](https://www.slashgear.com/scientists-discover-that-rna-segments-can-be-written-back-into-dna-13677873/)
+
+
+> A group of researchers at Thomas Jefferson University have provided the first evidence that RNA segments can be written back into DNA. The discovery has the potential to change some of the central assumptions in biology and may have implications impacting many fields of biology. The discovery could open the door to other studies to help scientists understand the significance of a mechanism that's able to convert RNA messages into DNA in our own cells. Researcher Richard Pomerantz, Ph.D. says that the reality that human polymerase can do this with high efficiency raises questions.
+
+
+***
+![FBI Director Compares Ransomware to 9/11](https://external-preview.redd.it/RoOyp8NLOYrLvg5XRR-RYduAFNa__he3r3tiwFoPMqk.jpg?auto=webp&s=2526fabc4eb4fb68a111406de466eeb3cc08cd9c "FBI Director Compares Ransomware to 9/11")
+
+
+[FBI Director Compares Ransomware to 9/11](https://www.reddit.com/r/technology/comments/nyzjbp/fbi_director_compares_ransomware_to_911/)
+
+
+> 'There are a lot of parallels, there's a lot of importance, and a lot of focus by us on disruption and prevention.'It's called Microsoft Windows running on Intel hardware !!!
+
+
+***
+![Putin says Russia prepared to extradite cyber criminals to US on reciprocal basis](https://external-preview.redd.it/lKVn1TzXnL-2IBU-pYX176JdTJw3RBlGX0FWnyJBsHI.jpg?auto=webp&s=5df5a9a6ba66ced144c41a476aca71f3ee00deee "Putin says Russia prepared to extradite cyber criminals to US on reciprocal basis")
+
+
+[Putin says Russia prepared to extradite cyber criminals to US on reciprocal basis](https://www.reddit.com/r/technology/comments/nyzhi6/putin_says_russia_prepared_to_extradite_cyber/)
+
+
+> No body in the article.
+
+
+***
+![New Xbox Series X games: upcoming Xbox Series X/S game release dates](https://cdn.mos.cms.futurecdn.net/NA2sjEpQwMoDtE2vrnPkNm-1200-80.jpg "New Xbox Series X games: upcoming Xbox Series X/S game release dates")
+
+
+[New Xbox Series X games: upcoming Xbox Series X/S game release dates](https://www.techradar.com/news/new-xbox-series-x-games)
+
+
+> (Image credit: 343 Industries) Wanting to know what new Xbox Series X games are on the horizon? Then you've landed on the right page. There's a load of fantastic Xbox Series X games on the way that will make the most of your new Xbox Series X or Xbox Series S (or convince you to pick one up), and you probably want to know when you'll get your hands on them - well, we're here to help.While the start of 2021 has been a bit light, the rest of this year and beyond looks to be packed with plenty of top-notch new Xbox Series X games that are worth keeping an eye on, with the likes of Fable, Halo Infinite and Hellblade 2 confirmed for the Xbox Series X/S.
+
+
