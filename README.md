@@ -23996,3 +23996,53 @@
 > (Image credit: 343 Industries) Wanting to know what new Xbox Series X games are on the horizon? Then you've landed on the right page. There's a load of fantastic Xbox Series X games on the way that will make the most of your new Xbox Series X or Xbox Series S (or convince you to pick one up), and you probably want to know when you'll get your hands on them - well, we're here to help.While the start of 2021 has been a bit light, the rest of this year and beyond looks to be packed with plenty of top-notch new Xbox Series X games that are worth keeping an eye on, with the likes of Fable, Halo Infinite and Hellblade 2 confirmed for the Xbox Series X/S.
 
 
+***
+![Hades, the best rogue-like game in a decade, is coming to Xbox Game Pass in August](https://cdn.mos.cms.futurecdn.net/SsX53xUzVFqqrzLFzN2NYP-1200-80.jpg "Hades, the best rogue-like game in a decade, is coming to Xbox Game Pass in August")
+
+
+[Hades, the best rogue-like game in a decade, is coming to Xbox Game Pass in August](https://www.techradar.com/news/hades-xbox-game-pass-august)
+
+
+> (Image credit: Supergiant Games) During its E3 2021 keynote event, Microsoft announced that Hades from developer Supergiant Games will be available on its platforms starting on August 13. For those who missed it, the award-winning rogue-like game picked up several Game of the Year awards last year and was lauded by the likes of the British Academy Game Awards, the  Interactive Achievement Awards and won TechRadar's award for Best Indie Game 2020. Previously Hades was available on PC and Nintendo Switch, but now Xbox Series X, Xbox Series S, Xbox One and Xbox Cloud Gaming subscribers will get their chance to play it when it comes to Xbox Game Pass, the Xbox Game Store and physical retailers in August.
+
+
+***
+![Halo Infinite's biggest rumor has finally been put to bed](https://cdn.mos.cms.futurecdn.net/NA2sjEpQwMoDtE2vrnPkNm-1200-80.jpg "Halo Infinite's biggest rumor has finally been put to bed")
+
+
+[Halo Infinite's biggest rumor has finally been put to bed](https://www.techradar.com/news/halo-infinites-biggest-rumor-has-finally-been-put-to-bed)
+
+
+> (Image credit: 343 Industries) Halo Infinite will launch with both a campaign and multiplayer mode, 343 Industries has confirmed. It was widely rumored that Halo's campaign could arrive at a later date, but during Microsoft's E3 2021 conference, developer 343 Industries finally put that speculation to rest.The studio also showed off the first glimpse of Halo Infinite's multiplayer, which will be free to play and includes 120fps support for those with capable displays. You can watch it in full below.
+
+
+***
+![E3 2021 LIVE Updates: Watch Starfield, Halo Infinite trailers](https://images.indianexpress.com/2021/06/80c39-16218054210925-800.jpg "E3 2021 LIVE Updates: Watch Starfield, Halo Infinite trailers")
+
+
+[E3 2021 LIVE Updates: Watch Starfield, Halo Infinite trailers](https://indianexpress.com/article/technology/gaming/e3-2021-livestream-date-time-where-to-watch-7355977/)
+
+
+> This year, you will be able to livestream the E3 event from the comfort of your homes starting June 13 at 12:30 AM IST ( Image source : E3 )E3 2021, the biggest video gaming event is upon us and you can stream it live, this year. The Electronic Entertainment Expo, also known as E3 usually takes place in Los Angeles. This year the event will be held digitally between June 12 and June 15 owing to the Covid-19 pandemic. The biggest video game companies and developers including Nintendo, Microsoft (Xbox), Ubisoft will come together and showcase new titles at the gaming event.
+
+
+***
+![Diablo 2 Resurrected: release date, trailers, news and rumors](https://cdn.mos.cms.futurecdn.net/Sm7zADqpCdkXr3znnXZvyF-1200-80.jpg "Diablo 2 Resurrected: release date, trailers, news and rumors")
+
+
+[Diablo 2 Resurrected: release date, trailers, news and rumors](https://www.techradar.com/news/diablo-2-remastered-and-resurrected-news-release-date-trailers)
+
+
+> It's official: Diablo 2 is getting remastered after 20 years in the form of Diablo 2 Resurrected. And we finally now know the Diablo 2: Resurrected release date, set for September 23, 2021.One of gaming's most-requested and long-running wishlist toppers, fans of the dungeon crawler have sat around chalk pentagrams for years, hoping to summon the game into existence. And at BlizzConline 2021, those prayers were finally answered.Blizzard is aiming to keep the feel of the original Diablo 2, but will add updated graphics and Dolby 7.
+
+
+***
+![Diablo® II: Resurrected™ Reopens the Gates of Hell September 23](https://mms.businesswire.com/media/20210613005023/en/884768/23/Diablo_II_Resurrected_Logo.jpg "Diablo® II: Resurrected™ Reopens the Gates of Hell September 23")
+
+
+[Diablo® II: Resurrected™ Reopens the Gates of Hell September 23](https://www.businesswire.com/news/home/20210613005023/en/Diablo%C2%AE-II-Resurrected%E2%84%A2-Reopens-the-Gates-of-Hell-September-23)
+
+
+> IRVINE, Calif.--(BUSINESS WIRE)--On September 23, players around the world can save Sanctuary from certain doom in Diablo® II: Resurrected™, the definitive remastering of Diablo II and its Lord of Destruction® expansion—two landmark entries in the company's genre-defining action role-playing series. In Diablo II: Resurrected, the original game's iconic 2D character models become fully realized 3D heroes who inhabit a boldly re-envisioned dark fantasy world of Sanctuary rife with rich—and often gory—detail.
+
+
