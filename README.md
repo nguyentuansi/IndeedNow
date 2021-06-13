@@ -23755,3 +23755,50 @@
 > - Advertisement -via sourceFacebook recently have bought controlling interest in Oculus Studios who are currently developing a battleground survival game named Population: One.Post the purchase of the studios Vice President of content at Facebook Reality labs Mike Verdu made a statement via a blog post 'POP: ONE stormed onto the VR scene just nine months ago and has consistently ranked as one the top-performing titles on the Oculus platform, bringing together up to 24 people at a time to connect, play, and compete in a virtual world.
 
 
+***
+![Xiaomi Mi 11 Ultra vs iPhone 12 Pro Max: Camera-savvy heavy hitters face off](https://cdn.mos.cms.futurecdn.net/8qyfxsZcLpd5aXVwJBbSjH-1200-80.jpg "Xiaomi Mi 11 Ultra vs iPhone 12 Pro Max: Camera-savvy heavy hitters face off")
+
+
+[Xiaomi Mi 11 Ultra vs iPhone 12 Pro Max: Camera-savvy heavy hitters face off](https://www.techradar.com/news/xiaomi-mi-11-ultra-vs-iphone-12-pro-max-camera-savvy-heavy-hitters-face-off)
+
+
+> Xiaomi Mi 11 Ultra or iPhone 12 Pro Max? As first-world problems go, choosing which of these super-expensive luxury flagship phones to buy has to be one of the least consequential.But that doesn't change the fact that it's a darned tricky decision to make. Here's why: no modern mainstream phone costing upwards of $1,000 / £1,000 is a bad or even a mediocre choice.The biggest manufacturers in the business are simply too good at this game by now, and that includes Apple and Xiaomi. Thankfully, we're here to talk you through your top-end smartphone options.
+
+
+***
+![What is HDR photography? How to master the effect on cameras and phones](https://cdn.mos.cms.futurecdn.net/yEommUVHPbGbLJ6aoHmwFT-1200-80.jpg "What is HDR photography? How to master the effect on cameras and phones")
+
+
+[What is HDR photography? How to master the effect on cameras and phones](https://www.techradar.com/news/what-is-hdr-photography-how-to-master-the-effect-on-cameras-and-phones)
+
+
+> In photography, HDR stands for High Dynamic Range. An often misunderstood term, there are actually two aspects of dynamic range to understand; the dynamic range of the subject and that of your camera.Regarding the subject, dynamic range is the breadth of tone from lightest part (highlights) to the darkest part (shadows). In a daylight scenario, bright sunlight and reflections such as on water or the shine on skin are your highlights, while dark shaded areas are the shadows. As for the camera, its dynamic range describes how much of that breadth of tone it can capture in a single image.
+
+
+***
+[Python programmers who know other languages, how do you deal with Python Intoxication?](https://www.reddit.com/r/Python/comments/nyrj9l/python_programmers_who_know_other_languages_how/)
+
+
+> Im a programing hobbist and practiced C++ before i heard of python years ago. Recently tried some C++ programming to check how much i remember, although i knew and still remembered everything i felt so drunk on Python that i couldn't just write a line of code
+
+
+***
+![PUBG Mobile update for India fans: Battlegrounds Mobile India may launch on this date](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/battle505_130621012415.jpg "PUBG Mobile update for India fans: Battlegrounds Mobile India may launch on this date")
+
+
+[PUBG Mobile update for India fans: Battlegrounds Mobile India may launch on this date](https://www.businesstoday.in/technology/news/pubg-mobile-update-for-india-fans-battlegrounds-mobile-india-may-launch-on-this-date/story/441540.html)
+
+
+> In a big update for PUBG Mobile India fans, Battlegrounds Mobile India game is likely to be launched in the country very soon. Krafton, the South Korean firm behind PUBG Mobile, has teased in a Facebook post that the game may be unveiled in India soon. Though the pre-registrations for Battlegrounds Mobile India, the Indian version of PUBG Mobile, are taking place, the company is yet to officially announce the launch date of the game. Fans of PUBG Mobile have been eagerly waiting for the launch of Battlegrounds Mobile India.
+
+
+***
+![Toshiba's No. 2 shareholder calls for immediate resignation of board chair, 3 directors](https://assets2.rappler.com/2021/05/toshiba-japan-february-13-2017-reuters-1623570492688.jpg "Toshiba's No. 2 shareholder calls for immediate resignation of board chair, 3 directors")
+
+
+[Toshiba's No. 2 shareholder calls for immediate resignation of board chair, 3 directors](https://www.rappler.com/technology/toshiba-shareholder-calls-immediate-resignation-board-chair-directors)
+
+
+> Toshiba Corp's second-biggest shareholder on Sunday, June 13, demanded the board chairman and three other directors immediately resign after an investigation found the company had colluded with the Japanese government to pressure foreign investors. The letter, seen by Reuters, is from 3D Investment Partners, which owns a 7.2% stake in Toshiba. It was sent to the four on Sunday, according to people with direct knowledge of the process. It is likely to heighten scrutiny into governance at Toshiba, a renowned industrial conglomerate in crisis sparked by Thursday's report.
+
+
