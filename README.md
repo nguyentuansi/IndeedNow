@@ -23852,3 +23852,50 @@
 > The current Powerbeats Pro. (Image credit: Future) We're still waiting for the grand unveiling of the Beats Studio Buds from Apple, but that hasn't stopped the incoming wireless earbuds from showing up in various places – which makes us think that a launch is just around the corner.The latest sighting comes from an Instagram post by soccer star Alex Morgan, who appears to be wearing a white pair of the earphones as she arrives in Texas to join up with the US national team as part of preparations for the Tokyo Olympics.
 
 
+***
+[CB Insights: VCs invested $1.5B into mental health startups in 2020, a record high that is 5.5 times the funding invested in this space in 2016 (Katie Jennings/Forbes)](http://www.techmeme.com/210613/p5#a210613p5)
+
+
+> Katie Jennings / Forbes: CB Insights: VCs invested $1.5B into mental health startups in 2020, a record high that is 5.5 times the funding invested in this space in 2016 — I am a staff writer covering healthcare. Email me at kjennings@forbes.com. — Investors poured $1.5 billion into the market in 2020 …
+
+
+***
+!["If you're measuring time using rdtsc in the emulated x86_64 environment on the M1 be very careful. The times you're seeing may be 2.5x smaller than the reality!"](https://external-preview.redd.it/T6IVT5_JTzTkQcxWK4vuB4Q6ZSm8Qo-WQW7QZ0ezlo4.jpg?auto=webp&s=12dc7df68e9085dc81325e055b8a0b478fffc41d ""If you're measuring time using rdtsc in the emulated x86_64 environment on the M1 be very careful. The times you're seeing may be 2.5x smaller than the reality!"")
+
+
+["If you're measuring time using rdtsc in the emulated x86_64 environment on the M1 be very careful. The times you're seeing may be 2.5x smaller than the reality!"](https://www.reddit.com/r/programming/comments/nyus01/if_youre_measuring_time_using_rdtsc_in_the/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Dramatical Effect of LSE Instructions for PostgreSQL on Graviton2 Instances](https://external-preview.redd.it/IDugx6sWOwTJyGlOAmgxBu8ekFm-MeOXoJOfyJLHpwU.jpg?auto=webp&s=52a7573e7a011c83b0126bee8b2bf80bcad28cc1 "Dramatical Effect of LSE Instructions for PostgreSQL on Graviton2 Instances")
+
+
+[Dramatical Effect of LSE Instructions for PostgreSQL on Graviton2 Instances](https://www.reddit.com/r/programming/comments/nyukim/dramatical_effect_of_lse_instructions_for/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![New Star Wars TV shows and movies explained](https://cdn.mos.cms.futurecdn.net/WKozrwbAkQxRsjgiJJuCUF-1200-80.jpg "New Star Wars TV shows and movies explained")
+
+
+[New Star Wars TV shows and movies explained](https://www.techradar.com/news/new-star-wars-movies-and-tv-shows)
+
+
+> The Mandalorian was the start of something big. In a mega-announcement at Disney's Investor Day in December 2020, Lucasfilm confirmed that as many as 10 Star Wars TV shows are heading for Disney Plus. And even though Rangers of the New Republic has seemingly fallen by the wayside, that still means we have The Book of Boba Fett, The Mandalorian season 3, Obi-Wan Kenobi and many more to look forward to – not to mention Clone Wars spin-off The Bad Batch, which kicked off on Disney Plus in May.But Disney haven't forgotten about new Star Wars movies now that The Rise of Skywalker has brought the Skywalker Saga to a close.
+
+
+***
+![Technical Discussion: Sunny Sunday and a Messy Monday On Tap!](https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/5/3d/53d29258-b603-11e8-8728-130ab5423b29/5bc73a3fec187.preview.jpg?resize=640%2C360 "Technical Discussion: Sunny Sunday and a Messy Monday On Tap!")
+
+
+[Technical Discussion: Sunny Sunday and a Messy Monday On Tap!](https://www.wfsb.com/weather/technical_discussion/technical-discussion-sunny-sunday-and-a-messy-monday-on-tap/article_53d29258-b603-11e8-8728-130ab5423b29.html)
+
+
+> A NICE SUNDAY..A perfect and mostly clear morning this Sunday- prime conditions for beautiful sunrises across our state. We started off with temperatures in the 50s and 60s and mostly clear conditions. Weak high pressure is expected to keep us mostly dry for today.Today will be seasonal with high temperatures near 80 degrees inland and in the 70s along the shoreline. We are right on the mark as our normal high temperature for June 13th is 79 degrees. In the afternoon, it is possible to see a spot shower pass through, but we stay mostly rain free.
+
+
