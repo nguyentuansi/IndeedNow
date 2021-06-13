@@ -24096,3 +24096,47 @@
 > Megha YethadkaBy Megha YethadkaEver walked into a supermart and had to push the trolley through five aisles to make it to the bag of flour you came for? That's location intelligence at play. Most large supermarket chains place items and supplies strategically, so as to make you walk through several aisles, exploring more products and buying things you didn't plan to buy. The result is obvious—higher sales.Now, imagine location intelligence being used to study trends across cities, assessing particular pockets and the time of the day when demand for transport is highest.
 
 
+***
+![Huge Best Buy sale: deals on TVs, laptops, Apple Watch, and more](https://cdn.mos.cms.futurecdn.net/E5sXrKAR53uB6RGMz2MwzQ-1200-80.jpg "Huge Best Buy sale: deals on TVs, laptops, Apple Watch, and more")
+
+
+[Huge Best Buy sale: deals on TVs, laptops, Apple Watch, and more](https://www.techradar.com/news/huge-best-buy-sale-deals-on-tvs-laptops-headphones-apple-watch-and-more)
+
+
+> (Image credit: Future) Celebrate dads and grads at Best Buy's latest sale, which includes fantastic deals on best-selling tech gifts like laptops, headphones, 4K TVs, tablets, and so much more.See more of the top deals from the Best Buy saleSome highlighted offers include this 14-inch HP Chromebook marked down to just $219, a $100 discount on this stunning Vizio 55-inch OLED TV, and the best-selling Apple Watch 6 on sale for $329 (was $399). If you're interested in top-of-the-line noise canceling headphones, Best Buy has the Bose QuietComfort 35 II on sale for $249 (was $299) and the Sony WH-CH710N marked down to $148 (was $199.
+
+
+***
+[Continuous Fuzzing with Go at Dgraph](https://www.reddit.com/r/programming/comments/nz6r71/continuous_fuzzing_with_go_at_dgraph/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![PS5 restock update: Best Buy, GameStop and Walmart – when you can find PS5](https://cdn.mos.cms.futurecdn.net/fVgAeTMmXsi2fwodzTTsoa-1200-80.jpg "PS5 restock update: Best Buy, GameStop and Walmart – when you can find PS5")
+
+
+[PS5 restock update: Best Buy, GameStop and Walmart – when you can find PS5](https://www.techradar.com/news/ps5-restock-tracker-usa-2021-best-buy-gamestop)
+
+
+> Update for Sunday: The PS5 restock dates at stores like Best Buy, GameStop and Target are coming up (likely in that order), according to our PS5 restock Twitter tracker Matt Swider, who will send you an alert when PS5 is in stock – if you follow his account and turn on notifications.Our PS5 restock news reporting, which includes exclusive contacts retail sources in the US, will save you the heartache: there are no PS5 restock events scheduled for this weekend, even though E3 2021 kicked off this weekend.
+
+
+***
+![Black Panther and a big Final Fantasy collection highlight Square Enix's E3 2021 reveals](https://mondrian.mashable.com/2021%252F06%252F13%252Fd2%252Feb7ad6fa273b4754b6ec74a3e83e623c.617d3.png%252F1200x630.png?signature=ggjmtKsYvou9MZqENpPNh1oU-QY= "Black Panther and a big Final Fantasy collection highlight Square Enix's E3 2021 reveals")
+
+
+[Black Panther and a big Final Fantasy collection highlight Square Enix's E3 2021 reveals](https://mashable.com/video/square-enix-e3-2021-showcase/)
+
+
+> Black Panther is coming to Avengers during  summer 2021 as what sounds like the largest free update yet for the online RPG from Crystal Dynamics. There's also a new Life is Strange game incoming where you wield the psychic power of empathy and several exciting Final Fantasy drops, including a remastered collection of the first six games in the series. All of that is in addition to Square Enix's marquee reveal, our first-ever look at a standalone Guardians of the Galaxy game that, in a surprise twist, will be coming before the end of 2021.
+
+
+***
+[Profile of DigitalMint, a final-mile crypto broker that helps ransomware victims pay ransoms in cryptocurrency, within 30-60 minutes of contact from the hacker (MacKenzie Sigalos/CNBC)](http://www.techmeme.com/210613/p9#a210613p9)
+
+
+> MacKenzie Sigalos / CNBC: Profile of DigitalMint, a final-mile crypto broker that helps ransomware victims pay ransoms in cryptocurrency, within 30-60 minutes of contact from the hacker — - A business will fall victim to a ransomware attack every 11 seconds this year, according to research firm Cybersecurity Ventures.
+
+
