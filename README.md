@@ -23567,3 +23567,50 @@
 > My computer recently started refusing to go into fullscreen mode in any of my applications. I have noticed this behavior in browsers (with video), video apps (zoom, facetime), with my virtual machines (e.g. vmware horizon), and with mac games (for example crusader kings 3). Until this behavior started these programs would run normally, and operate in full screen, but now the following happens: with vmware and crusader kings 3, the application attempts to enter full screen and then reverts to windowed mode.
 
 
+***
+![Twitter needs India and Nigeria to grow. It's running into trouble in both](https://cdn.cnn.com/cnnnext/dam/assets/210610004150-02-twitter-india-nigeria-intl-hnk-super-tease.jpg "Twitter needs India and Nigeria to grow. It's running into trouble in both")
+
+
+[Twitter needs India and Nigeria to grow. It's running into trouble in both](https://www.cnn.com/2021/06/12/tech/twitter-india-nigeria-intl-hnk/index.html)
+
+
+> The social media giant has been ensnared in a battle with the Indian government for months over free speech and other issues, and is contending with restrictive new rules pushed by New Delhi. If that wasn't enough, even more dramatic events are unfolding thousands of miles away along Africa's Western coast. Nigeria last week "indefinitely" blocked Twitter (TWTR) after the company deleted a post from President Muhammadu Buhari that threatened a brutal clampdown on unrest in Africa's most populous nation.
+
+
+***
+![Breaking Down Ubisoft Forward 2021](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/IMG_3542.jpg?itok=rD6y4_6S "Breaking Down Ubisoft Forward 2021")
+
+
+[Breaking Down Ubisoft Forward 2021](https://techraptor.net/videos/breaking-down-ubisoft-forward-2021)
+
+
+> 06/12/2021 - 20:15 | By: Nick Maillet Home Videos Breaking Down Ubisoft Forward 2021 Breaking Down Everything Announced At Ubisoft Forward 2021 Ubisoft Forward has come and gone and there was quite a lot show off at this years E3 livestream. Starting with a full reveal of the next Rainbow Six game dubbed Rainbow Six: Extraction. Alongside the reveal of Ubisoft's next big shooter we also learned more about the next batch of Assassins Creed: Valhalla DLC, Mario + Rabbids: Sparks of Hope, Rocksmith+, Riders Republic, Far Cry 6, and finally, the long awaited and highly anticipated Avatar: Frontiers of Pandora.
+
+
+***
+![Beijing's disturbing new military move](https://cdn.newsapi.com.au/image/v1/bb6c6697f3575745ff2bea34b4c1bca7?width=1280 "Beijing's disturbing new military move")
+
+
+[Beijing's disturbing new military move](https://www.news.com.au/technology/innovation/military/beijings-south-china-sea-military-presence-grows-amid-us-australian-pushback/news-story/8bebd13a59bb4ce5125bae063ce027cc)
+
+
+> Satellite photos reveal a military radar surveillance aircraft, anti-submarine aircraft and an armed navy intelligence ship are at Fiery Cross Reef in the Spratly Islands. This is odd – if you believe Beijing's assertions that these massive island fortresses are purely for civilian search and rescue purposes.Since 2012, China has engaged in a dramatic building program in the Paracel and Spratly Islands and Scarborough Shoal.The problem is, it doesn't actually own these sites.But that hasn't stopped Beijing from constructing a vast network of fortresses – many with large airfields, hardened hangars and armoured towers holding weapons – in the name of 'search and rescue'.
+
+
+***
+[Beijing's disturbing new military move](https://www.goldcoastbulletin.com.au/technology/innovation/beijings-south-china-sea-military-presence-grows-amid-us-australian-pushback/news-story/8bebd13a59bb4ce5125bae063ce027cc)
+
+
+> Satellite photos reveal a military radar surveillance aircraft, anti-submarine aircraft and an armed navy intelligence ship are at Fiery Cross Reef in the Spratly Islands.
+
+
+***
+![PS5 restock dates: Best Buy, GameStop and Target – when you can find PS5](https://cdn.mos.cms.futurecdn.net/fVgAeTMmXsi2fwodzTTsoa-1200-80.jpg "PS5 restock dates: Best Buy, GameStop and Target – when you can find PS5")
+
+
+[PS5 restock dates: Best Buy, GameStop and Target – when you can find PS5](https://www.techradar.com/news/ps5-restock-tracker-usa-2021-best-buy-gamestop)
+
+
+> The PS5 restock dates at stores like Best Buy, GameStop and Target are coming up (likely in that order), according to our PS5 restock Twitter tracker Matt Swider, who will send you an alert when PS5 is in stock – if you follow his account and turn on notifications.Our PS5 restock news reporting, which includes exclusive contacts retail sources in the US, will save you the heartache: there are no PS5 restock events scheduled for this weekend, even though E3 2021 kicked off today, June 12. But there are signs Best Buy is ready to launch the next restock at any time (likely Monday onward).
+
+
