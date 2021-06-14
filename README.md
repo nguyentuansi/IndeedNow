@@ -24234,3 +24234,50 @@
 > Brad Smith / Washington Post: Secret gag orders imposed by the US government on tech companies must stop, as they abuse citizens' fundamental freedoms and are no longer even used sparingly — Brad Smith is the president of Microsoft. — The past seven days marked another bad week for the collision between technology and democracy.
 
 
+***
+![Michael McCormack says regional Australia will have ‘biggest say' on future of coal](https://images.perthnow.com.au/publication/C-3106556/615b2dc72191360e89b604fe14671560bbaab708-16x9-x243y0w1563h879.jpg?imwidth=1200 "Michael McCormack says regional Australia will have ‘biggest say' on future of coal")
+
+
+[Michael McCormack says regional Australia will have ‘biggest say' on future of coal](https://www.news.com.au/technology/environment/michael-mccormack-says-regional-australia-will-have-biggest-say-on-future-of-coal/news-story/53f8ef7f0b9fc7850c01c056eb141d9e)
+
+
+> Regional Australia will have the 'biggest say' over the future of Australian energy despite the G7 committing to ending coal, the Acting Prime Minister says.Australia has signed commitments with Japan and Germany to boost investment in the hydrogen industry, which it has made central to its plans to cut emissions, after sidelines talks at the G7 summit.The G7, to which Australia is not a signatory, has committed to 'ending all unabated coal as soon as possible' and raising $100bn annually to help developing countries slash emissions.
+
+
+***
+![Microsoft will release the Xbox mini fridge, embracing the memes made by fans (VIDEO)](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-06/1406_210614-xbox-fridge-seo.jpg "Microsoft will release the Xbox mini fridge, embracing the memes made by fans (VIDEO)")
+
+
+[Microsoft will release the Xbox mini fridge, embracing the memes made by fans (VIDEO)](https://soyacincau.com/2021/06/14/microsoft-will-release-the-xbox-mini-fridge-embracing-the-memes-made-by-fans/)
+
+
+> Microsoft will be selling the Xbox mini fridge this upcoming holiday season. â€' Picture via SoyaCincau KUALA LUMPUR, June 14 â€' Embracing the jokes online comparing the Xbox X Series to aÂ refrigerator, Microsoft will be selling the Xbox mini fridge this upcoming holiday season. TheÂ announcementÂ was made at the end of their E3 showcase. â€œYes, this is really happening,â€� Xbox said in the trailer. The Xbox Series X was announced in December of 2019. Internet users then noticed that the console looks a lot like a modern refrigerator, to which they began photoshopping the Xbox into images of home kitchens.
+
+
+***
+![Battlegrounds Mobile India release on June 18, here is how to prepare for the PUBG Mobile comeback](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/battlegrounds_mobile_india-647x363.jpeg?9iLM0uRw2K5L30JpBhyQYxpp5YEmTMxJ "Battlegrounds Mobile India release on June 18, here is how to prepare for the PUBG Mobile comeback")
+
+
+[Battlegrounds Mobile India release on June 18, here is how to prepare for the PUBG Mobile comeback](https://www.indiatoday.in/technology/news/story/battlegrounds-mobile-india-release-on-june-18-here-is-how-to-prepare-for-the-pubg-mobile-comeback-1814448-2021-06-14)
+
+
+> PUBG Mobile for India, known as Battlegrounds Mobile India, is happening soon. Krafton, the South Korean company that owns the PUBG and Battlegrounds Mobile IP, has been teasing the release of the game. The last one literally dropped a major hint, according to which the Battlegrounds Mobile India release will take place on June 18. The launch later this week is something industry insiders have also been hinting at. So, if everything is true, PUBG Mobile will make a comeback to India on June 18.The June 18 launch makes sense because it falls right after a month from the day the pre-registration for Battlegrounds Mobile India began.
+
+
+***
+![#TECH: The best iOS best apps of the year](https://assets.nst.com.my/images/articles/botsios_NSTfield_image_socialmedia.var_1623642678.jpg "#TECH: The best iOS best apps of the year")
+
+
+[#TECH: The best iOS best apps of the year](https://www.nst.com.my/lifestyle/bots/2021/06/698537/tech-best-ios-best-apps-year)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[Inventor of the graphite anode – key Li-ion battery tech – says he can now charge an electric car in 10 minutes](https://www.reddit.com/r/technology/comments/nzdtia/inventor_of_the_graphite_anode_key_liion_battery/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
