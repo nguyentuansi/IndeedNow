@@ -24378,3 +24378,53 @@
 > submitted by /u/EscapedLaughter [link] [comments]
 
 
+***
+![That Viral Ad for Dan Crenshaw's Fourth of July Party is Slightly Fake](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a114c6be07544f4e353496d7a46a372b.png "That Viral Ad for Dan Crenshaw's Fourth of July Party is Slightly Fake")
+
+
+[That Viral Ad for Dan Crenshaw's Fourth of July Party is Slightly Fake](https://gizmodo.com/that-viral-ad-for-dan-crenshaws-fourth-of-july-party-is-1847090561)
+
+
+> Image: TwitterHave you seen that screenshot from an ad by Texas Rep. Dan Crenshaw? The Republican congressman is throwing a party for Independence Day and an image from the ad has been making the rounds on social media sites like Twitter. But the graphic has actually been photoshopped, however slightly.Crenshaw's July 4th party is called the Summer of 1776, something that can either be interpreted as an innocuous celebration of the country's founding, or foreshadowing of the dark days ahead. The year 1776 was, after all, a pretty violent time.
+
+
+***
+![Tech Stocks Are In, Financials Are Out, Fundstrat Says. Thank Bond Yields.](https://images.barrons.com/im-353007/social "Tech Stocks Are In, Financials Are Out, Fundstrat Says. Thank Bond Yields.")
+
+
+[Tech Stocks Are In, Financials Are Out, Fundstrat Says. Thank Bond Yields.](https://www.barrons.com/articles/tech-stocks-financials-bond-yields-51623449091)
+
+
+> Thorsten Wagner/Bloomberg Tech stocks could trump financials— and soon. The financial-market research firm Fundstrat made that call on Friday, saying it sees evidence that bond yields, the key to this trade, will stay low after retreating this spring. Fundstrat upgraded the FAANG stocks to Overweight from Underweight, a call that would work out if yields don't pick up. Lower bond yields boost the value of future cash flows. The FAANG companies— Facebook (ticker: FB), Apple (AAPL), Amazon.com (AMZN), Netflix (NFLX), and Google's parent, Alphabet (GOOG) are valued highly because they are expected to churn out increasing amounts of cash as they expand in various businesses in years to come.
+
+
+***
+![Maybe We're Asking Vaccine Skeptics the Wrong Question](https://compote.slate.com/images/0230c506-b86f-40c4-97a4-7fb419b9f145.jpeg?width=780&height=520&rect=3000x2000&offset=0x0 "Maybe We're Asking Vaccine Skeptics the Wrong Question")
+
+
+[Maybe We're Asking Vaccine Skeptics the Wrong Question](https://slate.com/technology/2021/06/covid-vaccine-skepticism-how-to-address.html)
+
+
+> Mike Fesi, a Republican state senator in Louisiana, didn't trust coronavirus vaccines. So earlier this year, when his colleagues seized their chance to get inoculated against the virus, Fesi refused. He figured he didn't need the vaccines, and he claimed, without evidence, that they had killed a friend of his family. But then Fesi got a nasty surprise: A month ago, he was abruptly vaccinated, and the vaccine made him sick. That's because the vaccine he got wasn't Pfizer, Moderna, or Johnson & Johnson.
+
+
+***
+![Samsung Galaxy M32 India launch set for June 21; will sport 64MP camera](https://images.indianexpress.com/2021/06/9e5740b1-51c8-4d01-8cc0-ff317cc000e4-1.jpg "Samsung Galaxy M32 India launch set for June 21; will sport 64MP camera")
+
+
+[Samsung Galaxy M32 India launch set for June 21; will sport 64MP camera](https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-m32-india-launch-set-for-june-21-7358373/)
+
+
+> Samsung is releasing its latest mid-budget smartphone; the Galaxy M32 in India on June 21. The smartphone will be available via Amazon and the company has uploaded a teaser site for the smartphone on the e-commerce website. The smartphone will feature a 6.4-inch FHD+ Super AMOLED screen. Here is everything we know about the Samsung Galaxy M32. Galaxy M32: Confirmed specifications Samsung Galaxy M32 will come with a 6.4-inch FHD+ Super AMOLED screen with support for 90Hz refresh rate and 800 nits peak brightness.
+
+
+***
+![Bitcoin Soars After Elon Musk Says Tesla Would Accept Crypto If Mined Cleanly](https://im.indiatimes.in/content/2021/Jun/FB-Image-Quote-1_60c6f41becf87.png "Bitcoin Soars After Elon Musk Says Tesla Would Accept Crypto If Mined Cleanly")
+
+
+[Bitcoin Soars After Elon Musk Says Tesla Would Accept Crypto If Mined Cleanly](https://www.indiatimes.com/technology/news/bitcoin-elon-musk-tesla-542625.html)
+
+
+> Tesla Chief, Elon Musk on Sunday, said in a tweet that he would reconsider allowing buyers to use Bitcoin as a method of payment in exchange for Tesla cars, which resulted in the value of Bitcoins to rise considerably.  ReutersAlso Read: Tesla Rejects Bitcoins: Won't Use Bitcoin As Payment, Because It's Bad For EarthElon Musk, said this in a reply to allegations surrounding allegations that Musk brought the prices for the Bitcoins up and sold a massive chunk of it when he found it profitable. Musk, denying these allegations, said, 'This is inaccurate.
+
+
