@@ -24331,3 +24331,50 @@
 > A family spent the night in their car with their newborn son after a tree crashed through their home during Wednesday's wild storms and buried them in rubble.Braeden Tairi, his wife and parents were having an unusually late dinner when a tree up to 60m high ploughed through the roof of their outer Melbourne home, causing it to cave in on them.'We were just covered in rubble,' Mr Tairi said.'Had we been sitting on the couch we'd all be dead.'It's by God's grace alone that we're here to talk about it.
 
 
+***
+![iPhone 12 Max Pro photos not available till the next day?](https://images.macrumors.com/social/?t=2300824&v=6 "iPhone 12 Max Pro photos not available till the next day?")
+
+
+[iPhone 12 Max Pro photos not available till the next day?](https://forums.macrumors.com/threads/iphone-12-max-pro-photos-not-available-till-the-next-day.2300824/)
+
+
+> I have a new iPhone Max Pro which I upgraded to from an iPhone 6 running IOS 12.x, one thing I don't understand is that when I take some photos and plug my phone into my Windows desktop (and I tap the allow message on the phone) and attempt to use Import Pictures and Videos I don't see the photos I just took but I do see all my older pictures and videos and it takes quite a while and in most cases not until the next day before they eventually show up in the Windows Import and Pictures and Videos.
+
+
+***
+![Warhammer Age of Sigmar Dominion Launch Box Preview](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Warhammer%20Age%20of%20Sigmar%20Dominion%20%281%29.jpg?itok=-OgcF-GV "Warhammer Age of Sigmar Dominion Launch Box Preview")
+
+
+[Warhammer Age of Sigmar Dominion Launch Box Preview](https://techraptor.net/tabletop/previews/warhammer-age-of-sigmar-dominion-launch-box-preview)
+
+
+> 06/14/2021 - 04:00 | By: Adam Potts The Next Age Of Sigmar Begins Here Dominion is the brand new boxed-set for Warhammer Age of Sigmar (AoS) that begins the next edition of the rules, AoS 3rd Edition. Rather than being a starter-set, which would contain everything needed to get playing, Dominion is a launch box for the new edition. In this article, we're going to look at what's in the box and talk about who it's for, as well as looking at some of the rules changes for the new edition of the hugely popular wargame.
+
+
+***
+![Semperis Announces Full Lineup of Speakers at Award-Winning Hybrid Identity Protection Conference, Europe](https://mms.businesswire.com/media/20210614005171/en/833154/23/Semperis_logo_stacked.jpg "Semperis Announces Full Lineup of Speakers at Award-Winning Hybrid Identity Protection Conference, Europe")
+
+
+[Semperis Announces Full Lineup of Speakers at Award-Winning Hybrid Identity Protection Conference, Europe](https://www.businesswire.com/news/home/20210614005171/en/Semperis-Announces-Full-Lineup-of-Speakers-at-Award-Winning-Hybrid-Identity-Protection-Conference-Europe)
+
+
+> June 14, 2021 04:00 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Semperis, the pioneer in identity-driven cyber resilience for enterprises, today announced the full lineup for the inaugural Hybrid Identity Protection (HIP) Europe Virtual Conference 2021, taking place on 30 June and 1 July 2021. The first European edition of the award-winning global Hybrid Identity Protection conference series, HIP Europe will bring together leading experts working at the intersection between identity and security to provide a deep dive into the latest trends and challenges in managing hybrid and multi-cloud environments.
+
+
+***
+![Look who's entering the e-commerce space](https://cdn.mos.cms.futurecdn.net/JrHaynd4b8MGuCAGPbLxBY-1200-80.jpg "Look who's entering the e-commerce space")
+
+
+[Look who's entering the e-commerce space](https://www.techradar.com/news/look-whos-entering-the-e-commerce-space-its-netflix)
+
+
+> (Image credit: Netflix) Netflix has announced that it is launching its e-commerce shop, Netflix.shop, which will sell limited-edition merchandise based on its shows and brand. The shop is available in the US as of now, and will be extended to other countries in the coming months."Among the items debuting this month are streetwear and action figures based on anime series Yasuke and Eden; as well as limited-edition apparel and decorative items  inspired by Lupin in collaboration with the Musée du Louvre," Netflix said in a blog post.
+
+
+***
+[NLP Challenge: Solve 5 Puzzles in 2 Weeks](https://www.reddit.com/r/programming/comments/nzhn8u/nlp_challenge_solve_5_puzzles_in_2_weeks/)
+
+
+> submitted by /u/EscapedLaughter [link] [comments]
+
+
