@@ -24572,3 +24572,53 @@
 > Spain and Sweden - two European heavyweights - go head-to-head this evening in Seville, in what looks set to be the pick of Group E's matches. Read on for your guide to watching a Spain v Sweden live stream and find out how to watch Euro 2020 online from anywhere.Spain vs Sweden Euro 2020 live streamDate: Monday, June 14Kick-off time: 9pm CET / 8pm BST / 3pm ET / 12pm PT / 5am AEST / 7am NZSTVenue: Estadio La Cartuja, Seville, SpainFree live stream: BBC iPlayer (see below for more)Global live streams: ESPN via Sling TV or FuboTV (US) | Optus Sport (AUS) | TSN/TVA Sports (CAN) | Sky Sport (NZ)Watch anywhere: try ExpressVPN 100% risk-freePreparations for Euro 2020 for both teams have been far from ideal, with both camps having to contend with key players testing positive for Covid-19.
 
 
+***
+![Everyone you know is a Disney princess, which means AR is queen – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-14-at-12.56.25-PM.png?w=764 "Everyone you know is a Disney princess, which means AR is queen – TechCrunch")
+
+
+[Everyone you know is a Disney princess, which means AR is queen – TechCrunch](https://techcrunch.com/2021/06/14/everyone-you-know-is-a-disney-princess-which-means-ar-is-queen/)
+
+
+> This weekend, all of your friends morphed one by one into animated, Pixar-inspired characters. This isn't a fever dream, and you're not alone. On Thursday, Snapchat released a Cartoon 3D Style Lens, which uses AR to make you look like a background character from 'Frozen.' Naturally, even though TikTok's own AR cartoon effects aren't quite as convincing as Snapchat's, people are turning to TikTok to share videos of themselves as Disney princesses, because of course they are. This isn't the first time that a Disney-esque AR trend has gone viral.
+
+
+***
+![The best MSI gaming laptops 2020: our pick of the gaming powerhouses](https://cdn.mos.cms.futurecdn.net/Br8vxrVDXPkNp5D4jnTqqS-1200-80.jpg "The best MSI gaming laptops 2020: our pick of the gaming powerhouses")
+
+
+[The best MSI gaming laptops 2020: our pick of the gaming powerhouses](https://www.techradar.com/news/msi-gaming-laptops-how-to-find-the-best-msi-gaming-laptop-for-you)
+
+
+> The best MSI gaming laptops will see you through all your gaming needs. Packing Nvidia Turing graphics and Intel Ice Lake and Tiger Lake chips, these gaming portables have more than enough power to handle just about any AAA PC game you throw at it. And, there's a variety of them to choose from for different types of users and gamers.Some of the best MSI gaming laptops are seriously pricey and tout sheer power, while others are budget-friendly and can handle casual gaming. Depending on the type of gaming you do, you might not even need to spend that much money on the best MSI gaming laptops for you.
+
+
+***
+![Newegg's Annual FantasTech Event Kicks Off June 14](https://mms.businesswire.com/media/20210614005711/en/798636/23/Newegg_full_color_logo_2020.jpg "Newegg's Annual FantasTech Event Kicks Off June 14")
+
+
+[Newegg's Annual FantasTech Event Kicks Off June 14](https://www.businesswire.com/news/home/20210614005711/en/Newegg%E2%80%99s-Annual-FantasTech-Event-Kicks-Off-June-14)
+
+
+> LOS ANGELES--(BUSINESS WIRE)--Newegg Commerce, Inc. (NASDAQ: NEGG), one of the leading tech-focused e-retailers in North America, kicked off its 2021 FantasTech Pre-Sale this morning, with deep discounts on products across Newegg's entire portfolio, including consumer electronics, entertainment, home goods, small appliances, health & fitness, automotive, smart home and gaming products. The FantasTech Pre-Sale runs through June 20, 2021, followed by the official FantasTech Sale June 21 through June 23, 2021.
+
+
+***
+![Newegg Canada's Annual FantasTech Event Kicks Off June 14](https://mms.businesswire.com/media/20210614005710/en/798636/23/Newegg_full_color_logo_2020.jpg "Newegg Canada's Annual FantasTech Event Kicks Off June 14")
+
+
+[Newegg Canada's Annual FantasTech Event Kicks Off June 14](https://www.businesswire.com/news/home/20210614005710/en/Newegg-Canada%E2%80%99s-Annual-FantasTech-Event-Kicks-Off-June-14)
+
+
+> RICHMOND HILL, Ontario--(BUSINESS WIRE)--Newegg Canada, Inc., the Canadian subsidiary of Newegg Commerce, Inc. (NASDAQ: NEGG), kicked off its 2021 FantasTech Pre-Sale this morning, with deep discounts on products across Newegg Canada's entire portfolio, including consumer electronics, entertainment, home goods, small appliances, health & fitness, automotive, smart home and gaming products. The FantasTech Pre-Sale runs through June 20, 2021, followed by the official FantasTech Sale June 21 through June 23, 2021.
+
+
+***
+![Starfield: release date, trailers, exclusivity and everything you need to know](https://cdn.mos.cms.futurecdn.net/UGfK9cJoddXDvbon3VqiyP-1200-80.jpeg "Starfield: release date, trailers, exclusivity and everything you need to know")
+
+
+[Starfield: release date, trailers, exclusivity and everything you need to know](https://www.techradar.com/news/starfield-release-date-trailers-and-news)
+
+
+> Starfield, the long-awaited sci-fi RPG from Bethesda Game Studios, finally made an appearance at E3 2021, giving us our first look at the studio's realistic vision of our space-faring future. With a full Starfield trailer to gawp at, you've come to the right place for news on the epic space adventure.Starfield details remain thin on the ground, but thanks to that reveal trailer, we've finally got a feel for what the game is going to be like. Bethesda's upcoming single-player RPG set in outer space marks the gaming giant's first new IP for 25 years, and, according to studio boss Todd Howard, is an epic about 'hope and humanity".
+
+
