@@ -24281,3 +24281,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Juniper Research: Buy Now Pay Later Spend to Reach $995 Billion Globally in 2026, Despite Increasing Regulation](https://mms.businesswire.com/media/20210613005001/en/884432/23/Juniper_Research_Logo_2021.jpg "Juniper Research: Buy Now Pay Later Spend to Reach $995 Billion Globally in 2026, Despite Increasing Regulation")
+
+
+[Juniper Research: Buy Now Pay Later Spend to Reach $995 Billion Globally in 2026, Despite Increasing Regulation](https://www.businesswire.com/news/home/20210613005001/en/Juniper-Research-Buy-Now-Pay-Later-Spend-to-Reach-995-Billion-Globally-in-2026-Despite-Increasing-Regulation)
+
+
+> June 14, 2021 02:00 AM Eastern Daylight Time BASINGSTOKE, England--(BUSINESS WIRE)--A new study from Juniper Research has found that spending via buy now pay later services, which are integrated within eCommerce checkout options, including fixed instalment plans and flexible credit accounts, will reach $995 billion in 2026, from $266 billion in 2021. This 274% growth will be fuelled by a greater appetite from users for credit to spread costs, particularly in the wake of the pandemic, which has put extreme pressure on user finances.
+
+
+***
+![RELEX Solutions to Optimize Qatar Duty Free's Microspace Planning](https://mms.businesswire.com/media/20210613005003/en/884625/23/Relex.jpg "RELEX Solutions to Optimize Qatar Duty Free's Microspace Planning")
+
+
+[RELEX Solutions to Optimize Qatar Duty Free's Microspace Planning](https://www.businesswire.com/news/home/20210613005003/en/RELEX-Solutions-to-Optimize-Qatar-Duty-Free%E2%80%99s-Microspace-Planning)
+
+
+> DOHA, Qatar--(BUSINESS WIRE)--RELEX Solutions, provider of unified retail planning solutions, has been appointed by Qatar Duty Free (QDF), a subsidiary of the Qatar Airways group, to supply a microspace planning software across the duty-free retail estate at Hamad International Airport (HIA) in Doha in 2021. Through this 12-month partnership, which expands RELEX's growing presence in the Middle East market, QDF will improve their visual merchandising strategy and plan assortment based on available space.
+
+
+***
+![LIST: Our 9 favorite games from E3 2021 so far](https://assets2.rappler.com/2021/06/soup-pot-1623649423836.jpg "LIST: Our 9 favorite games from E3 2021 so far")
+
+
+[LIST: Our 9 favorite games from E3 2021 so far](https://www.rappler.com/technology/gaming/best-games-announced-e3-2021)
+
+
+> There are literally hundreds of games to sift through at E3 2021, and it could get overwhelming to go through each one of them. But some games just immediately appeal to you that you instantly put them in your want-to-play list in your head. Below are our own selections so far, what with several E3 shows from the likes of Nintendo and Capcom still coming up. What have been your favorite reveals so far? After hearing close to nothing about the next game from Souls creator Hidetaki Miyazaki since the 2019 reveal, Bandai Namco drops a new trailer for Elden Ring during the Summer Game Fest presentation, Friday, June 11.
+
+
+***
+![Data breach exposed data of Indian officials, claims report](https://cdn.mos.cms.futurecdn.net/WobLi7ZhemWEFBsxh5ktfe-1200-80.jpg "Data breach exposed data of Indian officials, claims report")
+
+
+[Data breach exposed data of Indian officials, claims report](https://www.techradar.com/news/data-breach-exposed-data-of-indian-officials-claims-report-but-govt-denies)
+
+
+> (Image credit: Shutterstock) The Indian government has outright denied a report that data breaches in organisations like Air India, Big Basket and Domino's have exposed the email accounts and passwords of National Informatics Centre (NIC) emails to the hackers."There has been no cyber breach into the email system of the Government of India maintained by the National Informatics Centre (NIC). The email system is totally safe and secure," the government said in a press release.It added that "cyber security breach on external portals may not impact the users of Government Email Service, unless the Government users have registered on these portals using their Government Email Address and have used the same password as the one used in the Government Email Account.
+
+
+***
+![Parents, baby slept in car after miraculous escape during wild storms](https://images.perthnow.com.au/publication/C-3107348/5f84b9a54cf3aa2b4fd800e49dac3a7db7a2c7d4-16x9-x0y96w1024h576.jpg?imwidth=1200 "Parents, baby slept in car after miraculous escape during wild storms")
+
+
+[Parents, baby slept in car after miraculous escape during wild storms](https://www.news.com.au/technology/environment/parents-baby-slept-in-car-after-miraculous-escape-during-wild-storms/news-story/9073f8fd762a9ad7f8704ed533f154e4)
+
+
+> A family spent the night in their car with their newborn son after a tree crashed through their home during Wednesday's wild storms and buried them in rubble.Braeden Tairi, his wife and parents were having an unusually late dinner when a tree up to 60m high ploughed through the roof of their outer Melbourne home, causing it to cave in on them.'We were just covered in rubble,' Mr Tairi said.'Had we been sitting on the couch we'd all be dead.'It's by God's grace alone that we're here to talk about it.
+
+
