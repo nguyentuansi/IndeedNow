@@ -24522,3 +24522,53 @@
 > Toshiba Corp's chairman on Monday pushed back against calls from shareholders to resign, saying he wanted to help to put things right at the crisis-hit Japanese conglomerate and would bring in new directors. Toshiba is in the spotlight after an independent investigation last week alleged that management colluded with Japan's trade ministry to block foreign investors from gaining board influence, in what one top shareholder called the world's worst corporate scandal in a decade. The shareholder-commissioned investigation has marked an explosive turn in a struggle between Toshiba management and foreign shareholders and has revived concerns about corporate governance in Japan.
 
 
+***
+![Beats Studio Buds: How Much & Where To Buy](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/06/beats-studio-buds-lifestyle-black.jpg "Beats Studio Buds: How Much & Where To Buy")
+
+
+[Beats Studio Buds: How Much & Where To Buy](https://screenrant.com/beats-studio-buds-earbuds-price-release-how-much-where/)
+
+
+> The Beats Studio Buds have arrived. The $149 earbuds offer active noise cancellation, up to 24 hours of battery life, and a whole lot more. Apple-owned Beats has unveiled its latest pair of true wireless earbuds — the Beats Studio Buds. These are the second true wireless buds the company has released, following up the Powerbeats Pro that launched in 2019. While AirPods are often thought of as the only Apple-focused earbuds, that's not exactly the case. Apple purchased Beats back in 2014, and in the years since, Beats has been making headphones and earbuds that work seamlessly with Apple gadgets.
+
+
+***
+![Mouser Receives Top High Service Distribution Honors from Vishay](https://mms.businesswire.com/media/20210614005561/en/884927/23/vishay-highservice-doy-award-pr-hires-v2.jpg "Mouser Receives Top High Service Distribution Honors from Vishay")
+
+
+[Mouser Receives Top High Service Distribution Honors from Vishay](https://www.businesswire.com/news/home/20210614005561/en/Mouser-Receives-Top-High-Service-Distribution-Honors-from-Vishay)
+
+
+> June 14, 2021 12:10 PM Eastern Daylight Time DALLAS & FORT WORTH, Texas--(BUSINESS WIRE)--Mouser Electronics, Inc., the authorized global distributor with the newest semiconductors and electronic components, has been named the 2020 Americas Passives High Service Distributor of the Year by Vishay Intertechnology, Inc., a leading global manufacturer of a wide range of discrete semiconductors and passive electronic components. Mouser received the top award for its new product introduction support, customer acquisition, and increased part count into the design market.
+
+
+***
+![Verishop Launches New Livestream Shopping Feature on Social Commerce Platform](https://mms.businesswire.com/media/20210614005605/en/884923/23/060121_VS_APP_AppStore_Slides_6.5_05.jpg "Verishop Launches New Livestream Shopping Feature on Social Commerce Platform")
+
+
+[Verishop Launches New Livestream Shopping Feature on Social Commerce Platform](https://www.businesswire.com/news/home/20210614005605/en/Verishop-Launches-New-Livestream-Shopping-Feature-on-Social-Commerce-Platform)
+
+
+> June 14, 2021 12:08 PM Eastern Daylight Time SANTA MONICA, Calif.--(BUSINESS WIRE)--We are thrilled to announce that Verishop is launching Livestream Shopping in the Verishop iOS app to bring a new way to discover products, and connect with experts and brands on our social commerce platform. Livestream Shopping on Verishop combines the social functionality of livestreaming with a seamless lifestyle shopping experience, built to complement our existing social shopping tools and best-in-class e-commerce platform.
+
+
+***
+![Everything we Know About Forza Horizon 5](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Forza%20Horizon%205%20E3.jpg?itok=DjEO5QbA "Everything we Know About Forza Horizon 5")
+
+
+[Everything we Know About Forza Horizon 5](https://techraptor.net/gaming/news/everything-we-know-about-forza-horizon-5)
+
+
+> Forza Horizon 5 was one of the larger showcases at the E3 Microsoft conference, and thankfully for Forza fan's we now have some more information to chew on a day after the reveal, which showed the game in Mexico. The official Forza Horizon page released a very helpful FAQ that goes into a lot of new details from the presentation. The biggest drop of information is definitely a quick rundown of Forza Horizon 5 gameplay modes, all of which were talked about by Playground Games creative director Mike Brown.
+
+
+***
+![Spain vs Sweden live stream: how to watch today's Euro 2020 for free and from anywhere](https://cdn.mos.cms.futurecdn.net/VWCbn9ftNmz7PEZLinJCDE-1200-80.jpg "Spain vs Sweden live stream: how to watch today's Euro 2020 for free and from anywhere")
+
+
+[Spain vs Sweden live stream: how to watch today's Euro 2020 for free and from anywhere](https://www.techradar.com/news/spain-vs-sweden-live-stream-how-to-watch-todays-euro-2020-for-free-and-from-anywhere)
+
+
+> Spain and Sweden - two European heavyweights - go head-to-head this evening in Seville, in what looks set to be the pick of Group E's matches. Read on for your guide to watching a Spain v Sweden live stream and find out how to watch Euro 2020 online from anywhere.Spain vs Sweden Euro 2020 live streamDate: Monday, June 14Kick-off time: 9pm CET / 8pm BST / 3pm ET / 12pm PT / 5am AEST / 7am NZSTVenue: Estadio La Cartuja, Seville, SpainFree live stream: BBC iPlayer (see below for more)Global live streams: ESPN via Sling TV or FuboTV (US) | Optus Sport (AUS) | TSN/TVA Sports (CAN) | Sky Sport (NZ)Watch anywhere: try ExpressVPN 100% risk-freePreparations for Euro 2020 for both teams have been far from ideal, with both camps having to contend with key players testing positive for Covid-19.
+
+
