@@ -24672,3 +24672,53 @@
 > It's hard to find a quality pair of wireless, over-the-ear headphones these days. There are so many models on the market, but not all of them are worth using. Luckily, there are some great Sony headphone deals going on. You might also be interested to know that Best Buy has slashed the price of Sony's WH-1000XM4 noise-canceling and wireless over-the-ear headphones. You can get $52 off the full price, bringing it down to $298 total plus free shipping, or 1-hour pick-up at a local store. That price is good for all three colors, including black, midnight blue, and silver.
 
 
+***
+![Soundbars vs. speakers](https://icdn.digitaltrends.com/image/digitaltrends/sony-htx9000f-soundbar-and-subwoofer.jpg "Soundbars vs. speakers")
+
+
+[Soundbars vs. speakers](https://www.digitaltrends.com/home-theater/soundbars-vs-speakers/)
+
+
+> Finding a sound system that perfectly balances quality and style might seem near-impossible. When looking for an audio solution, you'll likely see two options: Soundbars and traditional home theater speakers. Deciding on the best solution can seem like an enormous challenge if you're not sure what suits your needs the best. Should you go with a soundbar or speakers? We'll help you make the best decision based on a few key factors, such as room size, connectivity, and sound quality. What is a soundbar? A soundbar is a convenient audio solution without the overall cost of an expensive and fully immersive home theater setup.
+
+
+***
+![Developing A C Compiler Live!](https://external-preview.redd.it/F41ghh2Rf2msXGRk3aj0Mnx0oJXxkk2Ol8kC7rwtc9g.jpg?auto=webp&s=37695c8db07f4bba57b9cb63424c90e0deeb936f "Developing A C Compiler Live!")
+
+
+[Developing A C Compiler Live!](https://www.reddit.com/r/programming/comments/nzy8mt/developing_a_c_compiler_live/)
+
+
+> No body in the article.
+
+
+***
+![Agent 47 Is Missing In This New Hitman Sniper Game For Mobile](https://www.androidheadlines.com/wp-content/uploads/2021/06/Hitman-Sniper-The-Shadows.jpg "Agent 47 Is Missing In This New Hitman Sniper Game For Mobile")
+
+
+[Agent 47 Is Missing In This New Hitman Sniper Game For Mobile](https://www.androidheadlines.com/2021/06/hitman-sniper-the-shadows-mobile-android-ios-release-square-enix-e3.html)
+
+
+> Square Enix had a lot to show off at its E3 showcase on June 13 and a new Hitman Sniper game called Hitman Sniper: The Shadows was one of the reveals. This will be a new game in the Hitman Sniper series, and the second game with that name overall.The first Hitman Sniper has been available for Android and iOS for more than a few years now. And it features the franchise's familiar character, Agent 47. Like every other game you're a contract killer and your job is to eliminate your targets.Unlike the other Hitman games though, you aren't using any means necessary to assassinate them.
+
+
+***
+![Best laptop cooling pad 2021: top picks for keeping your notebook cool](https://cdn.mos.cms.futurecdn.net/XM9cVnV7mrGFu6jpxxKUqR-1200-80.jpg "Best laptop cooling pad 2021: top picks for keeping your notebook cool")
+
+
+[Best laptop cooling pad 2021: top picks for keeping your notebook cool](https://www.techradar.com/news/best-laptop-cooling-pad)
+
+
+> The best laptop cooling pads are not just additional laptop accessories to buy when you've run out of things to spend money on. Due to manufacturers squeezing more and more power into ever thinner machines, heat-related issues have become prevalent. That's why cooling pads have become a necessity, especially to creators, gamers, and designers who really push their laptops to their limits.The power hiding inside Ultrabooks and gaming laptops have grown by leaps and bounds, some with powerful GPUs you would find in a desktop.
+
+
+***
+![Best PC controllers 2021: the best game controllers for PC gaming](https://cdn.mos.cms.futurecdn.net/JmeqTRhHY4sJesw6spUUR7-1200-80.jpeg "Best PC controllers 2021: the best game controllers for PC gaming")
+
+
+[Best PC controllers 2021: the best game controllers for PC gaming](https://www.techradar.com/news/best-controllers-for-pc-2019-the-best-pc-game-controllers-you-can-buy-today)
+
+
+> Consider getting one of the best PC controllers if you want a more seamless gaming experience. Don't get us wrong; the best gaming mice or the best gaming keyboards are faster, more responsive, and more feature-rich than ever. However, there's something about gaming with a controller that elevates your experience in a more seamless way.If you're a fan of fighting games and action RPGs, the best controllers for PC are especially helpful. That's because you'll just use your thumb, index and middle fingers, which results in more efficient and quicker responses when playing.
+
+
