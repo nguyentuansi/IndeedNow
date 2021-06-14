@@ -24428,3 +24428,50 @@
 > Tesla Chief, Elon Musk on Sunday, said in a tweet that he would reconsider allowing buyers to use Bitcoin as a method of payment in exchange for Tesla cars, which resulted in the value of Bitcoins to rise considerably.  ReutersAlso Read: Tesla Rejects Bitcoins: Won't Use Bitcoin As Payment, Because It's Bad For EarthElon Musk, said this in a reply to allegations surrounding allegations that Musk brought the prices for the Bitcoins up and sold a massive chunk of it when he found it profitable. Musk, denying these allegations, said, 'This is inaccurate.
 
 
+***
+[Best E3 2021 games for Xbox, PS5 and Nintendo – our picks of the BIGGEST new titles revealed](https://www.thesun.ie/tech/7139555/best-e3-2021-games-xbox-ps5-nintendo/)
+
+
+> THE world’s biggest gaming conference is underway, and there’s plenty to look forward to at E3 2021. The Los Angeles-based showcase kicked off on June 12, giving gamers their first look at the biggest games coming to Xbox, PlayStation and Nintendo. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read […]
+
+
+***
+![Novavax says its Covid-19 vaccine more than 90-percent effective](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/30ee98c3bec441568aa541899f907674.jpg "Novavax says its Covid-19 vaccine more than 90-percent effective")
+
+
+[Novavax says its Covid-19 vaccine more than 90-percent effective](https://www.koreatimes.co.kr/www/tech/2021/06/693_310496.html)
+
+
+> Novavax's COVID-19 vaccine / Courtesy of NovavaxNovavax, Inc (NVAX) said on Monday that NVX-CoV2373, its Covid-19 vaccine candidate, met the primary end point in late-stage study.The phase 3 study of NVX-CoV2373, dubbed Prevent-19, showed overall efficiency of 90.4 percent, achieving its primary endpoint, Novavax said. The vaccine candidate showed 100-percent protection against moderate or severe disease, Novavax said.Vaccine efficacy remained 91 per cent among "high-risk" populations. The vaccine showed 93-per-cent efficacy against predominantly circulating variants of concern and variants of interest, and 100-per-cent efficacy against variants "not considered variants of concern/interest.
+
+
+***
+![Flexport is hiring to build the technology platform for global trade](https://images.ctfassets.net/92fo1e671z6m/65YXbFUmrScJvGu1cERZ1M/548af7a53b84a4bcccac96cfc21a99bc/Flexport_LP_Standard_Meta_IMG.jpg?w=1200&q=50 "Flexport is hiring to build the technology platform for global trade")
+
+
+[Flexport is hiring to build the technology platform for global trade](https://www.flexport.com/careers/teams/engineering/)
+
+
+> At the intersection of trade and the internet, Flexport engineering is disrupting the age-old freight forwarding industry. We're looking for innovative, passionate people to build the digital technologies that will make shipping around the world easier and more efficient.We're changing how people think about moving freight. It's exciting to be a pioneer, solving the hard problems.Stephane YoungSoftware EngineerAn Environment Built for Problem SolversOur engineers are taking on huge and unique challenges: to start with, our teams are creating a data model that represents all the complexities of logistics in a way that's true to reality, yet easy to understand and access.
+
+
+***
+![Next iPad mini Might Look More Like An iPad Air](https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Apple-iPad-mini-6-Render-Over-iPad-Air-4.jpg "Next iPad mini Might Look More Like An iPad Air")
+
+
+[Next iPad mini Might Look More Like An iPad Air](https://screenrant.com/ipad-mini-new-design-similar-ipad-air/)
+
+
+> Rumors suggest Apple may be refreshing the iPad mini with a look and components that come closer to matching the iPad Air 4, with A14 and USB-C port. The iPad mini may be getting a refreshed design that will make it look more like an iPad Air, according to a new leak. Apple hasn't updated its littlest tablet since 2019, so it would not be surprising for a new version to be released later this year. There have also been rumors of a pro version of the iPad mini coming in the future. With Apple pushing most of its products to a new level of performance, this all seems to suggest the new iPad mini will be the most exciting small tablet Apple's ever made.
+
+
+***
+![Newsletters were supposed to be the Wild West. Enter Sheriff Google.](https://ca-times.brightspotcdn.com/dims4/default/7632cd9/2147483647/strip/true/crop/2000x1050+0+273/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F96%2F28%2F15dd26fe49df808c9716f98328cf%2Fla-fi-tn-substack-google-apple.jpg "Newsletters were supposed to be the Wild West. Enter Sheriff Google.")
+
+
+[Newsletters were supposed to be the Wild West. Enter Sheriff Google.](https://www.latimes.com/business/technology/story/2021-06-14/newsletters-were-supposed-to-cut-out-the-middlemen-but-what-about-gmail)
+
+
+> Over the last year, a gathering parade of writers — including some of the biggest names in journalism — have abandoned traditional publications for the greener, less centralized pastures of independent newsletters. The exodus has often been driven by frustrations with the various interlopers who stand between content creators and their audiences. Newspaper editors? Social media algorithms? No need to worry about these gatekeepers, the thinking goes, when you can just email your thoughts straight to whomever wants them.
+
+
