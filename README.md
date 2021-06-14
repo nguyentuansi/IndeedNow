@@ -24140,3 +24140,53 @@
 > MacKenzie Sigalos / CNBC: Profile of DigitalMint, a final-mile crypto broker that helps ransomware victims pay ransoms in cryptocurrency, within 30-60 minutes of contact from the hacker — - A business will fall victim to a ransomware attack every 11 seconds this year, according to research firm Cybersecurity Ventures.
 
 
+***
+![Hand-drawn adventure game 'Minute of Islands' gets a surprise E3 release](https://s.yimg.com/os/creatr-uploaded-images/2021-06/68006870-cc96-11eb-a975-ab9625172726 "Hand-drawn adventure game 'Minute of Islands' gets a surprise E3 release")
+
+
+[Hand-drawn adventure game 'Minute of Islands' gets a surprise E3 release](https://www.engadget.com/minute-of-islands-release-trailer-switch-playstation-xbox-pc-001559833.html)
+
+
+> Studio FizbinMinute of Islands' creepy-cosy style turned a lot of heads when it first debuted at Gamescom in 2019. The "narrative puzzle platformer" is made by Germany developer Studio Fizbin (the team behind the acclaimed The Inner World and its sequel) and is hand-crafted in an illustrative style.  The game sees you playing as young engineer, Mo, on an archipelago that's polluted with spores. Mo is tasked with repairing ancient machines that keep the balance of the archipelago in check but, as you've probably guessed, they soon discover things are not what they seem.
+
+
+***
+![Kubernetes Cluster Autoscaler — 乗りかかった船（前半）](https://miro.medium.com/freeze/max/822/0*ZZR3LtTqWRm-6epk.gif "Kubernetes Cluster Autoscaler — 乗りかかった船（前半）")
+
+
+[Kubernetes Cluster Autoscaler — 乗りかかった船（前半）](https://gavin-zhou.medium.com/kubernetes-cluster-autoscaler-%E4%B9%97%E3%82%8A%E3%81%8B%E3%81%8B%E3%81%A3%E3%81%9F%E8%88%B9-%E5%89%8D%E5%8D%8A-646dff709742)
+
+
+> in Eudaimonia and Co
+
+
+***
+![Mike Myers Netflix Series ‘The Pentaverate': What We Know So Far and Mike Myers' Comeback; Enter Sandman; Soderbergh's '50s Thriller](https://https://www.thearkatech.com/img/news_img/all/15587_18_1200.pic "Mike Myers Netflix Series ‘The Pentaverate': What We Know So Far and Mike Myers' Comeback; Enter Sandman; Soderbergh's '50s Thriller")
+
+
+[Mike Myers Netflix Series ‘The Pentaverate': What We Know So Far and Mike Myers' Comeback; Enter Sandman; Soderbergh's '50s Thriller](https://www.thearkatech.com/en/66880/)
+
+
+> © Instagram / Mike Myers By: Sophia Moore2021-06-14 03:15:20 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Mike Myers' Comeback; Enter Sandman; Soderbergh's '50s Thriller and Mike Myers Netflix Series ‘The Pentaverate': What We Know So Far Talking A2IM's Libera Awards And Mavis Staples With Fantastic Negrito. BookDoc is expanding to Philippines via collaboration with Childhope Philippines Foundation, Inc. Tinykin is indoor Pikmin, and it's coming to Steam. A Plague Tale: Requiem is announced, out in 2022.
+
+
+***
+![David Spade to Guest Host New Season of "Bachelor in Paradise" and David Spade set to guest host 'Bachelor in Paradise'](https://https://www.thearkatech.com/img/news_img/all/15581_15_1200.pic "David Spade to Guest Host New Season of "Bachelor in Paradise" and David Spade set to guest host 'Bachelor in Paradise'")
+
+
+[David Spade to Guest Host New Season of "Bachelor in Paradise" and David Spade set to guest host 'Bachelor in Paradise'](https://www.thearkatech.com/en/66879/)
+
+
+> © Instagram / David Spade By: Sophia Moore2021-06-14 03:14:19 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: David Spade set to guest host 'Bachelor in Paradise' and David Spade to Guest Host New Season of «Bachelor in Paradise» England up and running with 1-0 win over toothless Croatia. An analysis links COVID-19 to brain microvascular injury and inflammation. Are Gwen Stefani and Blake Shelton Married? 2021 child tax credit: Do my dependents qualify for the full $3,600? Harold Halibut's stop motion and strange alien city continues to look absolutely gorgeous.
+
+
+***
+![With his star status secure at CNN, Chris Cuomo skirts controversy again and With his star status secure at CNN, Chris Cuomo skirts controversy again](https://https://www.thearkatech.com/img/news_img/all/15577_5_1200.pic "With his star status secure at CNN, Chris Cuomo skirts controversy again and With his star status secure at CNN, Chris Cuomo skirts controversy again")
+
+
+[With his star status secure at CNN, Chris Cuomo skirts controversy again and With his star status secure at CNN, Chris Cuomo skirts controversy again](https://www.thearkatech.com/en/66878/)
+
+
+> © Instagram / Chris Cuomo By: Sophia Moore2021-06-14 03:13:19 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Sliding New York Yankees 'need to step it up,' manager Aaron Boone says. Former US Ambassador to Poland on upcoming talks between Biden and Putin. Gilbert wows in matchup with Indians' ace. VMRC residents put on art exhibit. Jeannette Memorial Hospital Set On Fire As Part Of Training Exercise. Suspects on the run following deadly robbery at Humble home, HCSO says. Galaxy S21 FE production reportedly put on hold due to chip shortage.
+
+
