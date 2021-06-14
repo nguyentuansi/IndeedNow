@@ -24475,3 +24475,50 @@
 > Over the last year, a gathering parade of writers — including some of the biggest names in journalism — have abandoned traditional publications for the greener, less centralized pastures of independent newsletters. The exodus has often been driven by frustrations with the various interlopers who stand between content creators and their audiences. Newspaper editors? Social media algorithms? No need to worry about these gatekeepers, the thinking goes, when you can just email your thoughts straight to whomever wants them.
 
 
+***
+![Here's How Not To Suck At Programming](https://external-preview.redd.it/AFntMA_wD5UipD6ZjzIepEXZVpYVowroUX09OUyuaPo.jpg?auto=webp&s=d6938b497ce4f510302d6d54e7b78e56433f7801 "Here's How Not To Suck At Programming")
+
+
+[Here's How Not To Suck At Programming](https://www.reddit.com/r/programming/comments/nzngjy/heres_how_not_to_suck_at_programming/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Companies with bitcoin on their balance sheets face an accounting risk as they often have to record impairment charges when its value falls (Paul Vigna/Wall Street Journal)](http://www.techmeme.com/210614/p10#a210614p10)
+
+
+> Paul Vigna / Wall Street Journal: Companies with bitcoin on their balance sheets face an accounting risk as they often have to record impairment charges when its value falls — Tesla and other companies that hold the notoriously volatile cryptocurrency often must record impairment charges when its value falls
+
+
+***
+![China's data privacy: Country to crack down on spy cameras as it tightens enforcement of digital protections laws](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/14/0e6fa089-c448-4658-99d4-985b6d5fbcca_5d708b67.jpg?itok=kUnjsNDk&v=1623667160 "China's data privacy: Country to crack down on spy cameras as it tightens enforcement of digital protections laws")
+
+
+[China's data privacy: Country to crack down on spy cameras as it tightens enforcement of digital protections laws](https://www.scmp.com/tech/big-tech/article/3137247/chinas-data-privacy-country-crack-down-spy-cameras-it-tightens)
+
+
+> A visitor watches a promotion video at the China International Big Data Industry Expo 2021 in Guiyang, southwest China's Guizhou Province, May 26, 2021. Photo: Xinhua
+
+
+***
+![Chrome OS will now update more often than before](https://cdn.mos.cms.futurecdn.net/GKUiKmj7rCBYXkQvxCCLGV-1200-80.jpg "Chrome OS will now update more often than before")
+
+
+[Chrome OS will now update more often than before](https://www.techradar.com/news/chrome-os-will-now-update-more-often-than-before)
+
+
+> (Image credit: Future) Google has decided to switch Chrome OS to a speedier four-week update release cycle, once again moving it in line with its Chrome web browser.The announcement comes a few months after Google decided to put Chrome on a faster update trajectory with new milestone releases every four weeks instead of six.The changes to the Chrome browser will kick in with the release of Chrome 94 in Q3 2021. In a blog post, Chrome OS release TPM lead Marina Kazatcker said that in order to sync the accelerated schedules of Chrome OS with Chrome, the default OS on the Chromebooks will forgo its M95 release.
+
+
+***
+![Toshiba's chairman resists calls to resign, to bring in new directors](https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/17/full/1600321858-6848.jpg "Toshiba's chairman resists calls to resign, to bring in new directors")
+
+
+[Toshiba's chairman resists calls to resign, to bring in new directors](https://www.business-standard.com/article/technology/toshiba-s-chairman-resists-calls-to-resign-to-bring-in-new-directors-121061401141_1.html)
+
+
+> Toshiba Corp's chairman on Monday pushed back against calls from shareholders to resign, saying he wanted to help to put things right at the crisis-hit Japanese conglomerate and would bring in new directors. Toshiba is in the spotlight after an independent investigation last week alleged that management colluded with Japan's trade ministry to block foreign investors from gaining board influence, in what one top shareholder called the world's worst corporate scandal in a decade. The shareholder-commissioned investigation has marked an explosive turn in a struggle between Toshiba management and foreign shareholders and has revived concerns about corporate governance in Japan.
+
+
