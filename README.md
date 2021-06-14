@@ -24622,3 +24622,53 @@
 > Starfield, the long-awaited sci-fi RPG from Bethesda Game Studios, finally made an appearance at E3 2021, giving us our first look at the studio's realistic vision of our space-faring future. With a full Starfield trailer to gawp at, you've come to the right place for news on the epic space adventure.Starfield details remain thin on the ground, but thanks to that reveal trailer, we've finally got a feel for what the game is going to be like. Bethesda's upcoming single-player RPG set in outer space marks the gaming giant's first new IP for 25 years, and, according to studio boss Todd Howard, is an epic about 'hope and humanity".
 
 
+***
+![pText, the pure Python Library](https://external-preview.redd.it/p3HQXQzdkmyXyJ89enL6PkgmSdstFY5z1QkzOzRNUaU.jpg?auto=webp&s=01b29ed2d2e90d072e1fc7295da2c1cb3797f686 "pText, the pure Python Library")
+
+
+[pText, the pure Python Library](https://www.reddit.com/r/Python/comments/nzvgg1/ptext_the_pure_python_library/)
+
+
+> pText 1.9.01. create PDF documents from scratch:pText supports all kinds of color-models (hex, rgb, pantone, X11, etc)pText offers effortless tables, lists (ordered, unordered, roman numeral) and text-layoutinclude images directly from PIL, or by specifying a URLsupports the standard PDF fonts, as well as loading your own font from a .ttf filecomes with an extensive collection of line-art (flowchart shapes, and misc)example 1: A document created entirely in pText containing a table, text, and various line-art.
+
+
+***
+![Turn (almost) any Python command line program into a full GUI application with one line](https://external-preview.redd.it/Ki1JC7WkD5A1a2RJgPU8a9u5z-1eaXfMLaPH7kKJovg.jpg?auto=webp&s=b6db692abb3830a5a15dc60eef074bd318feef9c "Turn (almost) any Python command line program into a full GUI application with one line")
+
+
+[Turn (almost) any Python command line program into a full GUI application with one line](https://www.reddit.com/r/Python/comments/nzvcc2/turn_almost_any_python_command_line_program_into/)
+
+
+> I thought the r/python subreddit might be interested in this project I just found!https://github.com/chriskiehl/Gooey
+
+
+***
+![HP 930 Creator Wireless Mouse](https://cdn.mos.cms.futurecdn.net/7zwYp5MrvA3izGDASFB7Vb-1200-80.jpg "HP 930 Creator Wireless Mouse")
+
+
+[HP 930 Creator Wireless Mouse](https://www.techradar.com/reviews/hp-930-creator-wireless-mouse)
+
+
+> The HP 930 Creator Wireless Mouse is HP's newest creative prosumer peripheral and while there are some issues that we had with it, it's a solid enough device with some really great features at a reasonable price, but it lags behind some of its more compelling competition.On the plus side of the column, the HP 930 Creator Wireless Mouse has a lot of programmable buttons for making productivity macros and assigning shortcuts for the best graphic design software like Adobe Photoshop.Then there's the mouse wheel.
+
+
+***
+![Waabi's Raquel Urtasun explains why it was the right time to launch an AV technology startup – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/Raquel-Urtasun.jpg?w=400 "Waabi's Raquel Urtasun explains why it was the right time to launch an AV technology startup – TechCrunch")
+
+
+[Waabi's Raquel Urtasun explains why it was the right time to launch an AV technology startup – TechCrunch](https://techcrunch.com/2021/06/14/waabis-raquel-urtasun-explains-why-the-time-was-right-to-launch-an-av-technology-startup/)
+
+
+> Raquel Urtasun, the former chief scientist at Uber ATG, is the founder and CEO of Waabi, an autonomous vehicle startup that came out of stealth mode last week. The Toronto-based company, which will focus on trucking, raised an impressive $83.5 million in a Series A round led by Khosla Ventures.  Urtasun joined Mobility 2021 to talk about her new venture, the challenges facing the self-driving vehicle industry and how her approach to AI can be used to advance the commercialization of AVs. AI pioneer Raquel Urtasun launches self-driving technology startup with backing from Khosla, Uber and Aurora Why did Urtasun decide to found her own company? Urtasun, who is considered a pioneer in AI, led the R&D efforts as a chief scientist at Uber ATG, which was acquired by Aurora in December.
+
+
+***
+![Best Buy slashed the Sony WH-1000XM4 headphones price today](https://icdn.digitaltrends.com/image/digitaltrends/sony-wh-1000xm4-over-ear-wireless-headphones-in-black-2.jpg "Best Buy slashed the Sony WH-1000XM4 headphones price today")
+
+
+[Best Buy slashed the Sony WH-1000XM4 headphones price today](https://www.digitaltrends.com/home-theater/sony-wh-1000xm4-headphones-bestbuy-deal-june-2021/)
+
+
+> It's hard to find a quality pair of wireless, over-the-ear headphones these days. There are so many models on the market, but not all of them are worth using. Luckily, there are some great Sony headphone deals going on. You might also be interested to know that Best Buy has slashed the price of Sony's WH-1000XM4 noise-canceling and wireless over-the-ear headphones. You can get $52 off the full price, bringing it down to $298 total plus free shipping, or 1-hour pick-up at a local store. That price is good for all three colors, including black, midnight blue, and silver.
+
+
