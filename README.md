@@ -25160,3 +25160,50 @@
 > Turkey's President Recep Tayyip Erdogan on Tuesday met his Azerbaijani counterpart in the city of Fuzuli, which was lib...
 
 
+***
+![Facebook CEO Mark Zuckerberg hosts first test of Live Audio Rooms in U.S. – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/10/facebook-app.jpg?w=640 "Facebook CEO Mark Zuckerberg hosts first test of Live Audio Rooms in U.S. – TechCrunch")
+
+
+[Facebook CEO Mark Zuckerberg hosts first test of Live Audio Rooms in U.S. – TechCrunch](https://techcrunch.com/2021/06/15/facebook-ceo-mark-zuckerberg-hosts-first-test-of-live-audio-rooms-in-u-s/)
+
+
+> In April, Facebook announced a slew of new audio products, including its Clubhouse clone, called Live Audio Rooms, which will be available across both Facebook and Messenger. Since May, Facebook has been publicly testing the audio rooms feature in Taiwan with public figures, but today the company hosted its first public test of Live Audio Rooms in the U.S. The event itself was hosted by Facebook CEO Mark Zuckerberg, who chatted with fellow execs and creators.Joining Zuckerberg were Facebook VP and Head of Facebook Reality Labs Andrew 'Boz' Bosworth, Head of Facebook App Fidji Simo, and three Facebook Gaming creators, including StoneMountain64, QueenEliminator, and TheFierceDivaQueen.
+
+
+***
+![Angry Birds Reloaded, Doodle God Universe and Alto's Odyssey: The Lost City Coming to Apple Arcade](https://images.macrumors.com/t/Q7nyStmzm4O7yp4W_Yp2q5Eti7M=/2000x/https://images.macrumors.com/article-new/2021/06/angry-birds-reloaded.jpg "Angry Birds Reloaded, Doodle God Universe and Alto's Odyssey: The Lost City Coming to Apple Arcade")
+
+
+[Angry Birds Reloaded, Doodle God Universe and Alto's Odyssey: The Lost City Coming to Apple Arcade](https://www.macrumors.com/2021/06/15/apple-arcade-classics-angry-birds-doodle-god/)
+
+
+> Apple in April began adding classic games to its Apple Arcade catalog, and today, Apple announced three new games that are coming in the near future: Angry Birds Reloaded, Doodle God Universe, and Alto's Odyssey: The Lost City. Apple announced the new games on Twitter today, and those interested in playing them when they launch on ‌Apple Arcade‌ can sign up to be notified. The three games will be available on iPhone, iPad, Mac, and Apple TV. Angry Birds Reloaded builds on the original Angry Birds game, introducing new characters from the Angry Birds movie universe, a new game mode, new power ups, and all new levels.
+
+
+***
+![New Picture Frame Speaker Announced From Ikea And Sonos](https://www.androidheadlines.com/wp-content/uploads/2021/06/Speaker-1.png "New Picture Frame Speaker Announced From Ikea And Sonos")
+
+
+[New Picture Frame Speaker Announced From Ikea And Sonos](https://www.androidheadlines.com/2021/06/new-picture-frame-speaker-announced-from-ikea-and-sonos.html)
+
+
+> A few months ago,  we got wind that Ikea and Sonos were collaborating on an art-centric device. Thanks to an early post on the Ikea website, we now know what that device is. It's a picture frame speaker that hopes to add a musical spin to your home decor.The picture frame speaker is called the SYMFONISK and it's pretty bigThe SYMFONISK is a piece of art that you hang on your wall like any other picture. The magic, however, is on the inside. Taking off the front panel reveals the large speaker that's hiding underneath.
+
+
+***
+[Sources: within the past year, Niantic has engaged in acquisition talks with multiple companies, including Microsoft, which declined to pursue a deal (Dina Bass/Bloomberg)](http://www.techmeme.com/210615/p30#a210615p30)
+
+
+> Dina Bass / Bloomberg: Sources: within the past year, Niantic has engaged in acquisition talks with multiple companies, including Microsoft, which declined to pursue a deal — Pokémon Go—a game based on people using their smartphones to chase virtual characters through public spaces together—probably should have died during the pandemic.
+
+
+***
+![E3 2021: Nintendo shows off more Zelda Breath of the Wild 2](https://ichef.bbci.co.uk/news/1024/branded_news/10C23/production/_118934686_desktopscreenshot2021.06.15-18.19.34.72.png "E3 2021: Nintendo shows off more Zelda Breath of the Wild 2")
+
+
+[E3 2021: Nintendo shows off more Zelda Breath of the Wild 2](https://www.bbc.co.uk/news/technology-57484727)
+
+
+> image captionSkydiving and high peaks appear to be a major part of the new Zelda's gameplayNintendo showed off more of the hotly-anticipated sequel to its Zelda: Breath of the Wild in its E3 show. New game footage revealed that the game will involve floating islands, skydiving, and new powers in the same world as its predecessor. But it will not release this year, and is currently pencilled in for a 2022 release date. There was also no reveal of a widely-rumoured "Switch Pro" console, which Nintendo has yet to confirm.
+
+
