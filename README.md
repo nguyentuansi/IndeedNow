@@ -25113,3 +25113,50 @@
 > Digital Trends may earn a commission when you buy through links on our site. Prime Day deals are launching next week with the Prime Day 2021 date set on June 21 and June 22, which means there will be plenty of great Prime Day soundbar sales for you to snag. We're here to help you figure out what to expect from the Prime Day soundbar deals as well as look at what we saw last year, and round up all the best soundbar deals happening right now. Read on as we track down the best ways to save you money.
 
 
+***
+![FOX News Media Launches FOX News Podcasts+ Exclusively on Apple Podcasts](https://mms.businesswire.com/media/20210615005964/en/744557/23/FOX_NEWS_MEDIA_LOGO_RGB_HEX.jpg "FOX News Media Launches FOX News Podcasts+ Exclusively on Apple Podcasts")
+
+
+[FOX News Media Launches FOX News Podcasts+ Exclusively on Apple Podcasts](https://www.businesswire.com/news/home/20210615005964/en/FOX-News-Media-Launches-FOX-News-Podcasts-Exclusively-on-Apple-Podcasts)
+
+
+> June 15, 2021 12:14 PM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--FOX News Audio, FOX News Media's radio and podcast division, has collaborated with Apple Podcasts Subscriptions to launch a new subscription-based content channel entitled FOX News Podcasts+. This new platform will offer exclusive content along with commercial-free episodes of the FOX News Podcasts portfolio, as well as commercial-free podcast versions of FOX News Sunday, and FOX News Radio's (FNR) The Brian Kilmeade Show, FOX Across America with Jimmy Failla and The Guy Benson Show.
+
+
+***
+![What Digital Data About You Can the U.S. Get?](https://static01.nyt.com/images/2021/06/15/business/15burst-doj/15burst-doj-facebookJumbo.jpg "What Digital Data About You Can the U.S. Get?")
+
+
+[What Digital Data About You Can the U.S. Get?](https://www.nytimes.com/interactive/2021/06/15/technology/digital-data-tech-companies.html)
+
+
+> Jack NicasReporting on Silicon ValleyJack NicasReporting on Silicon ValleyKevin Dietsch/Getty ImagesThe Justice Department, starting early in the Trump administration, secretly sought data about journalists, lawmakers and White House officials from big tech companies.Here's what might have been available to the agency →Jack NicasReporting on Silicon ValleyBig tech companies collect and keep all sorts of data on users.Companies like Google, Apple, Microsoft and Facebook hold basic data like users' names, addresses and contact information.
+
+
+***
+![Super Smash Bros. x Tekken Crossover Revealed During Nintendo Direct](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Super%20Smash%20Bros.%20x%20Tekken%20Crossover%20cover.jpg?itok=zYvrPR0y "Super Smash Bros. x Tekken Crossover Revealed During Nintendo Direct")
+
+
+[Super Smash Bros. x Tekken Crossover Revealed During Nintendo Direct](https://techraptor.net/gaming/news/super-smash-bros-x-tekken-crossover-revealed-during-nintendo-direct)
+
+
+> A Super Smash Bros. x Tekken crossover has been revealed during the E3 2021 Nintendo Direct — Kazuya Mishima will be the next new character coming to Super Smash Bros. Ultimate! The E3 2021 Nintendo Direct opened with some intense combat featuring Kazuya Mishima. It wasn't long before it was revealed that this iconic Tekken character is making its way to Super Smash Bros. Ultimate. More details about the new Super Smash Bros. Ultimate Kazuya Mishima character will be revealed in a "Mr. Sakurai Presents" stream on June 28, 2021, at 10:00 AM Eastern.
+
+
+***
+![Behind in quantum computer race, Germany gets boost from IBM](https://s.abcnews.com/images/Technology/WireAP_1a10d868b3b24dcaaf150d39b38528ee_16x9_992.jpg "Behind in quantum computer race, Germany gets boost from IBM")
+
+
+[Behind in quantum computer race, Germany gets boost from IBM](https://abcnews.go.com/Technology/wireStory/quantum-compute-race-germany-boost-ibm-78288637)
+
+
+> IBM has unveiled one of Europe's most powerful quantum computers in Germany, boosting the country's efforts to stay in the race for what's considered a key technology of the futureBERLIN -- IBM on Tuesday unveiled one of Europe's most powerful quantum computers in Germany, boosting the country's efforts to stay in the race for what's considered a key technology of the future.Quantum computers use subatomic particles to get around the limitations of traditional physics and perform calculations at far higher speeds than even the fastest existing supercomputers.
+
+
+***
+[Turkish, Azerbaijani presidents meet in cities liberated from Armenia](https://www.yenisafak.com/en/news/turkish-azerbaijani-presidents-meet-in-cities-liberated-from-armenia-3574506)
+
+
+> Turkey's President Recep Tayyip Erdogan on Tuesday met his Azerbaijani counterpart in the city of Fuzuli, which was lib...
+
+
