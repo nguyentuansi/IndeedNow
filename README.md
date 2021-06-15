@@ -25207,3 +25207,43 @@
 > image captionSkydiving and high peaks appear to be a major part of the new Zelda's gameplayNintendo showed off more of the hotly-anticipated sequel to its Zelda: Breath of the Wild in its E3 show. New game footage revealed that the game will involve floating islands, skydiving, and new powers in the same world as its predecessor. But it will not release this year, and is currently pencilled in for a 2022 release date. There was also no reveal of a widely-rumoured "Switch Pro" console, which Nintendo has yet to confirm.
 
 
+***
+![Wizards Surveying About D&D Virtual Tabletop and Subscriptions](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Dungeons%20and%20Dragons%20Monster%20Manual%20Image.jpg?itok=4cdQCCZ8 "Wizards Surveying About D&D Virtual Tabletop and Subscriptions")
+
+
+[Wizards Surveying About D&D Virtual Tabletop and Subscriptions](https://techraptor.net/tabletop/news/dungeons-and-dragons-virtual-tabletop-is-coming-soon)
+
+
+> 06/15/2021 - 16:01 | By: Tyler Chancey Wizards of the Coast is working on an elaborate virtual tabletop system for Dungeons and Dragons. All of this started with a survey circulated by Wizards of the Coast. It seemed like straightforward survey asking your age, your country of origin, and your overall familiarity with Dungeons and Dragons. Which editions of the game you have played? How often do you DM? Your overall thoughts on the various races, classes, and monsters available in the current edition.
+
+
+***
+![Extra Crunch roundup: TC Mobility recaps, Nubank EC-1, farewell to browser cookies – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/nini-chan-VgL4vwVwuww-unsplash.jpg "Extra Crunch roundup: TC Mobility recaps, Nubank EC-1, farewell to browser cookies – TechCrunch")
+
+
+[Extra Crunch roundup: TC Mobility recaps, Nubank EC-1, farewell to browser cookies – TechCrunch](https://techcrunch.com/2021/06/15/extra-crunch-roundup-tc-mobility-recaps-nubank-ec-1-farewell-to-browser-cookies/)
+
+
+> Annie Siebert Walter Thompson 7 hours What, exactly, are investors looking for? Early-stage founders, usually first-timers, often tie themselves in knots as they try to project the qualities they hope investors are seeking. In reality, few entrepreneurs have the acting skills required to convince someone that they're patient, dedicated or hard-working. Johan Brenner, general partner at Creandum, was an early backer of Klarna, Spotify and several other European startups. Over the last two decades, he's identified five key traits shared by people who create billion-dollar companies.
+
+
+***
+![Lina Khan Named F.T.C. Chair by Biden](https://static01.nyt.com/images/2021/06/15/business/15economy-briefing-khan/merlin_186715680_88f2ad0b-c282-4cc3-8964-94b1f7e32834-facebookJumbo.jpg "Lina Khan Named F.T.C. Chair by Biden")
+
+
+[Lina Khan Named F.T.C. Chair by Biden](https://www.nytimes.com/2021/06/15/technology/lina-khan-ftc.html)
+
+
+> Continue reading the main storyMs. Khan, who first attracted notice as a critic of Amazon, was confirmed by the Senate as a commissioner on the agency on Tuesday.Lina Khan appeared during a hearing with a Senate Committee on Commerce, Science, and Transportation on Capitol Hill in April.Credit...Pool photo by Saul LoebJune 15, 2021Updated 3:56 p.m. ETPresident Biden named Lina Khan, a prominent critic of Big Tech, as the chair of the Federal Trade Commission, according to two people with knowledge of the decision, a move that signals that the agency is likely to crack down further on the industry's giants.
+
+
+***
+![Opera GX Mobile Browser Is Now Available On Android As A Beta](https://www.androidheadlines.com/wp-content/uploads/2021/06/Opera-GX-Mobile-2.jpg "Opera GX Mobile Browser Is Now Available On Android As A Beta")
+
+
+[Opera GX Mobile Browser Is Now Available On Android As A Beta](https://www.androidheadlines.com/2021/06/opera-gx-mobile-browser-is-now-available-on-android-as-a-beta.html)
+
+
+> According to Android Police Opera is finally releasing the Opera GX Mobile browser on Android. The release is a beta, but for any mobile gamers out there who are interested, you can get it. You can download the APK from Opera which they made available just today June 15, 2021.The Opera GX Mobile browser has the same mission as its desktop version. That mission is to be the best browser for gamers. Just like the desktop Opera GX version, the mobile version gives users a homepage dedicated to gaming news and deals.
+
+
