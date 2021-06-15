@@ -25066,3 +25066,50 @@
 > Hello everyone, per some request I started this thread as a spin off of the 2011 iMac GPU upgrade thread. It is more specific to getting Maxwell cards working, not so much the upgrade process. I had a 2011 iMac that I upgraded with Quadro M4000M, here is what I noted: 1. No boot screen (known issue) 2. Required modified .Inf to install public drivers due to being HP card 3. Stuck at maximum performance P5, would idle (fixed this issue by modifying vbios to run P5 core clock @ 1015mhz and memory @ 1350mhz) 4 .
 
 
+***
+![Call of Duty update LIVE: Cold War and Warzone news and rumours as season 4 set to kick off](https://www.thesun.co.uk/wp-content/uploads/2021/06/COMP-CFP-CALL.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Call of Duty update LIVE: Cold War and Warzone news and rumours as season 4 set to kick off")
+
+
+[Call of Duty update LIVE: Cold War and Warzone news and rumours as season 4 set to kick off](https://www.thesun.co.uk/tech/15282549/call-of-duty-warzone-live-update/)
+
+
+> CALL of Duty Season 4 is about to begin – and there's loads of new stuff to chew over. We're going to be covering all the latest Cold War and Warzone news live as it happens. Season 3 officially ended on Tuesday, June 15. And after a brief pause, action will resume again with the launch of Season 4 on Thursday, June 17. We'll be seeing big changes to Warzone's Verdansk, which is now littered with crashed satellites. More interesting is a series of mysterious red doors that will be popping up across the map.
+
+
+***
+![Best Prime Day Speaker Deals 2021: What to Expect](https://icdn.digitaltrends.com/image/digitaltrends/klipsch-reference-wireless-wisa-home-theater-system-best-ces-2019.jpg "Best Prime Day Speaker Deals 2021: What to Expect")
+
+
+[Best Prime Day Speaker Deals 2021: What to Expect](https://www.digitaltrends.com/dtdeals/best-prime-day-speaker-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Prime Day 2021 is happening next week with the Prime Day 2021 date set on June 21 and June 22, and it should include plenty of fantastic Prime Day deals, such as Prime Day speaker sales. If you're looking to upgrade your audio experience then these Prime Day speaker sales are for you, with plenty of different speakers likely to be on sale from bookshelf speakers to freestanding devices, as well as smart speakers and Bluetooth speakers.
+
+
+***
+![Call of Duty update LIVE: Cold War and Warzone news and rumours as season 4 set to kick off](https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/COMP-CFP-CALL.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Call of Duty update LIVE: Cold War and Warzone news and rumours as season 4 set to kick off")
+
+
+[Call of Duty update LIVE: Cold War and Warzone news and rumours as season 4 set to kick off](https://www.the-sun.com/lifestyle/tech/3086480/call-of-duty-warzone-live-update/)
+
+
+> CALL of Duty Season 4 is about to begin – and there's loads of new stuff to chew over. We're going to be covering all the latest Cold War and Warzone news live as it happens. Season 3 officially ended on Tuesday, June 15. And after a brief pause, action will resume again with the launch of Season 4 on Thursday, June 17. We'll be seeing big changes to Warzone's Verdansk, which is now littered with crashed satellites. More interesting is a series of mysterious red doors that will be popping up across the map.
+
+
+***
+[Call of Duty update LIVE: Cold War and Warzone news and rumours as season 4 set to kick off](https://www.thesun.ie/tech/7145518/call-of-duty-warzone-live-update/)
+
+
+> CALL of Duty Season 4 is about to begin – and there's loads of new stuff to chew over. We're going to be covering all the latest Cold War and Warzone news live as it happens. Season 3 officially ended on Tuesday, June 15. And after a brief pause, action will resume again with the […]
+
+
+***
+![Best Prime Day Soundbar Deals 2021: What to expect](https://icdn.digitaltrends.com/image/digitaltrends/bose-soundbar-700-00003.jpg "Best Prime Day Soundbar Deals 2021: What to expect")
+
+
+[Best Prime Day Soundbar Deals 2021: What to expect](https://www.digitaltrends.com/dtdeals/best-prime-day-soundbar-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Prime Day deals are launching next week with the Prime Day 2021 date set on June 21 and June 22, which means there will be plenty of great Prime Day soundbar sales for you to snag. We're here to help you figure out what to expect from the Prime Day soundbar deals as well as look at what we saw last year, and round up all the best soundbar deals happening right now. Read on as we track down the best ways to save you money.
+
+
