@@ -25247,3 +25247,53 @@
 > According to Android Police Opera is finally releasing the Opera GX Mobile browser on Android. The release is a beta, but for any mobile gamers out there who are interested, you can get it. You can download the APK from Opera which they made available just today June 15, 2021.The Opera GX Mobile browser has the same mission as its desktop version. That mission is to be the best browser for gamers. Just like the desktop Opera GX version, the mobile version gives users a homepage dedicated to gaming news and deals.
 
 
+***
+![Free Cryptocurrency Promos Going on Right Now](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/blockchain-3446557_1920_3.jpg?width=720 "Free Cryptocurrency Promos Going on Right Now")
+
+
+[Free Cryptocurrency Promos Going on Right Now](https://www.benzinga.com/markets/cryptocurrency/21/06/21579535/free-cryptocurrency-promos-going-on-right-now)
+
+
+> Looking to get into cryptocurrency but don't want to risk your own money? We've compiled the best cryptocurrency deals going on right now, so you can start earning free cryptocurrency today. Even if you're already invested in crypto, earning free cryptocurrency as a signup bonus is as good as it gets.  Voyager Exchange Voyager is a leading cryptocurrency platform that's available via mobile app and desktop. The platform has dozens of cryptocurrencies to choose from, and if you sign up today you can get $25 of free Bitcoin once you deposit $100 on the platform –– that's a guaranteed return of 25% right off the bat! If you aren't ready to be exposed to the volatility of cryptocurrency, Voyager is a great option to earn passive income.
+
+
+***
+![Roblox Shares Fall After Releasing May Numbers, Initially Showed Strength On Down Day For Sector](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/lineup_all-no-logo_1.jpg?width=720 "Roblox Shares Fall After Releasing May Numbers, Initially Showed Strength On Down Day For Sector")
+
+
+[Roblox Shares Fall After Releasing May Numbers, Initially Showed Strength On Down Day For Sector](https://www.benzinga.com/trading-ideas/movers/21/06/21578592/roblox-shares-fall-after-releasing-may-numbers-initially-showed-strength-on-down-day-for-sec)
+
+
+> After Roblox Corporation (NYSE:RBLX) reported May figures, shares for this popular online game are trading down after hours. The story investors may want to watch is the strength the company showed during the regular trading session. What Happened: Shares of several video game stocks traded down on Tuesday. Shares of Take-Two Interactive Software, Inc (NASDAQ:TTWO), Electronic Arts Inc. (NASDAQ:EA) and Activision Blizzard, Inc. (NASDAQ:ATVI) were down 4%, 3% and 3%, respectively, during the trading session.
+
+
+***
+![Amazon is blocking Google's FLoC](https://external-preview.redd.it/OWD21yH_XEK3kr9jBrUdsfDBiaGQr6VzSbQdRP6BW54.jpg?auto=webp&s=0d4a99709d0997c68a6bf20b8157c317297b95c3 "Amazon is blocking Google's FLoC")
+
+
+[Amazon is blocking Google's FLoC](https://www.reddit.com/r/programming/comments/o0prcq/amazon_is_blocking_googles_floc/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![More Reports Show iMacs Shipped With Crooked Displays](https://icdn.digitaltrends.com/image/digitaltrends/imac-24-inch-10.jpg "More Reports Show iMacs Shipped With Crooked Displays")
+
+
+[More Reports Show iMacs Shipped With Crooked Displays](https://www.digitaltrends.com/computing/imacs-shipped-with-crooked-displays/)
+
+
+> Recent reports have indicated that some new iMacs have shipped with visible signs of a serious manufacturing defect: They have crooked displays. The defective models seem to have unaligned mounting stands that lead to crookedness. While not every person who purchased the new iMac came across the issue, there are enough people to confirm that is a manufacturing fault on Apple's part. YouTuber iPhonedo was the first to come out about it. While reviewing the recently-released model, he discovered that it was leaning on one side.
+
+
+***
+![More reports point to new iMac being sold with crooked displays](https://icdn.digitaltrends.com/image/digitaltrends/imac-24-inch-10.jpg "More reports point to new iMac being sold with crooked displays")
+
+
+[More reports point to new iMac being sold with crooked displays](https://www.digitaltrends.com/computing/imacs-shipped-with-crooked-displays/)
+
+
+> Recent reports have indicated that some new iMacs have shipped with visible signs of a serious manufacturing defect: They have crooked displays. The defective models seem to have unaligned mounting stands that lead to crookedness. While not every person who purchased the new iMac came across the issue, there are enough people to confirm that is a manufacturing fault on Apple's part. YouTuber iPhonedo was the first to come out about it. While reviewing the recently-released model, he discovered that it was leaning on one side.
+
+
