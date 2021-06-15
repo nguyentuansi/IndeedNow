@@ -24869,3 +24869,53 @@
 > Everything was a mess last year, and even the world of online shopping was sent into a spin. We had Prime Day in October, guys. Just before Black Friday. There was panic, confusion, and an overwhelming sense that things were plain wrong.  Fortunately, a little order has been restored in 2021. Nature is healing, and Prime Day is almost back to its regular spot in the calendar.  When is Prime Day in 2021? Prime Day is taking place on June 21 and 22 this year, and there's even a press release from Amazon to prove it.
 
 
+***
+![Best Prime Day Nest Thermostat deals 2021: What to expect](https://icdn.digitaltrends.com/image/digitaltrends/nest-learning-smart-thermostat-3rd-gen.jpg "Best Prime Day Nest Thermostat deals 2021: What to expect")
+
+
+[Best Prime Day Nest Thermostat deals 2021: What to expect](https://www.digitaltrends.com/dtdeals/best-prime-day-nest-thermostat-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. One thing spending most of the pandemic year in our homes has taught us: it pays to be comfortable, and no one wants to pay more for energy than they absolutely have to. Fortunately, you can save even more with the Prime Day deals that will become available next week. One of the best ways to keep costs low and keep you comfy is a Nest thermostat, one of the niftiest smart home gadgets Google has come up with. The Nest Thermostat allows you to control your home's temperature from anywhere.
+
+
+***
+![Best Google Pixel deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/google-pixel-3-5.jpg "Best Google Pixel deals for June 2021")
+
+
+[Best Google Pixel deals for June 2021](https://www.digitaltrends.com/dtdeals/best-google-pixel-smartphone-deals/)
+
+
+> Google is the primary force behind the Android OS, now the most popular mobile operating system on the planet. It took awhile for this software giant to make some actual, physical phone hardware, but the wait was more than worth it, and the Google Pixel line of smartphones now sits on more than a few 'best of' lists (including our own). Amazon Prime Day is June 21 and 22 this year, and Prime Day deals are making all of these deals even better. Amazon has a huge selection of Prime Day Google Pixel deals that aren't listed on this page.
+
+
+***
+![Garrison Technology Demonstrates Resilience and Scale With Strong Full-year Growth](https://mms.businesswire.com/media/20210614005699/en/884989/23/garrison_Logotype_Main%282%29.jpg "Garrison Technology Demonstrates Resilience and Scale With Strong Full-year Growth")
+
+
+[Garrison Technology Demonstrates Resilience and Scale With Strong Full-year Growth](https://www.businesswire.com/news/home/20210614005699/en/Garrison-Technology-Demonstrates-Resilience-and-Scale-With-Strong-Full-year-Growth)
+
+
+> June 15, 2021 02:00 AM Eastern Daylight Time LONDON & MCLEAN, Va.--(BUSINESS WIRE)--Garrison Technology, a UK scale-up delivering ultra-secure web isolation and cross domain solutions to commercial and government organisations in the UK, North America and other regions, delivered impressive growth of over 150% in sales between April 2020 and May 2021 despite a year of COVID disruption. Continued strong demand from Garrison's government customers (including the UK Government and US Federal Government) and significant expansion with key commercial accounts including UK retail bank Lloyds Banking Group contributed to revenues in excess of $10 million.
+
+
+***
+![Juniper Research: Future Digital Award Winners Announced for Digital Health Innovation 2021](https://mms.businesswire.com/media/20210614005730/en/884933/23/Juniper_Research_Logo_2021.jpg "Juniper Research: Future Digital Award Winners Announced for Digital Health Innovation 2021")
+
+
+[Juniper Research: Future Digital Award Winners Announced for Digital Health Innovation 2021](https://www.businesswire.com/news/home/20210614005730/en/Juniper-Research-Future-Digital-Award-Winners-Announced-for-Digital-Health-Innovation-2021)
+
+
+> June 15, 2021 02:00 AM Eastern Daylight Time BASINGSTOKE, England--(BUSINESS WIRE)--It is with great pleasure that Juniper Research announces the 2021 winners of the Future Digital Awards for Digital Health Innovation. This category recognises the most impactful healthcare products and services operating across numerous areas, including digital diagnostics, telehealth and COVID-19 healthcare solutions. Juniper Research has identified the following organisations and platforms that will shape the future of healthcare delivery at a time when healthcare and digital technology have merged more than ever before.
+
+
+***
+![Toyoda Gosei Starts Sample Shipments of e-Rubber 'Smart Insoles'](https://mms.businesswire.com/media/20210614005833/en/885197/23/Smart_insole_using_e-Rubber.jpg "Toyoda Gosei Starts Sample Shipments of e-Rubber 'Smart Insoles'")
+
+
+[Toyoda Gosei Starts Sample Shipments of e-Rubber 'Smart Insoles'](https://www.businesswire.com/news/home/20210614005833/en/Toyoda-Gosei-Starts-Sample-Shipments-of-e-Rubber-%E2%80%9CSmart-Insoles%E2%80%9D)
+
+
+> KIYOSU, Japan--(BUSINESS WIRE)--Toyoda Gosei Co., Ltd. (TOKYO:7282) has developed 'Smart Insoles' with embedded e-Rubber* sensors that can obtain foot pressure data during movement. The company began shipping samples of Smart Insoles to a golf school operated by Mizuno Corporation (Mizuno Golf Studio, Ozone Branch) in June 2021. Smart Insoles are light and durable, and can detect and measure subtle changes in foot pressure with high accuracy by taking advantage of the feature of e-Rubber as a thin, flexible sensor.
+
+
