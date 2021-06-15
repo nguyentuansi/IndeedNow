@@ -24969,3 +24969,53 @@
 > Beats has launched its Studio Buds truly wireless stereo (TWS) earbuds. The latest addition to Apple's audio accessories come with active noise-cancelling capability as well as a transparency mode that heightens the ambient sound through exterior microphones on the earbuds.In addition, the Beats Studio Buds feature voice assistant support as well as a one-touch pairing for both Apple and Android devices. This support for Android devices can be configured through the Beats app, while Apple devices will do it natively through iOS.
 
 
+***
+![A Peek Into The Markets: US Stock Futures Slightly Higher; Fed Meeting In Focus](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/peek_into_the_marketnew_196.png "A Peek Into The Markets: US Stock Futures Slightly Higher; Fed Meeting In Focus")
+
+
+[A Peek Into The Markets: US Stock Futures Slightly Higher; Fed Meeting In Focus](https://www.benzinga.com/news/earnings/21/06/21562967/a-peek-into-the-markets-us-stock-futures-slightly-higher-fed-meeting-in-focus)
+
+
+> Pre-open movers U.S. stock futures traded slightly higher in early pre-market trade after the S&P 500 index climbed to another record close in the previous session. Investors are awaiting earnings results from Oracle Corporation (NYSE: ORCL) and H & R Block Inc (NYSE: HRB). The Federal Open Market Committee will start its two-day policy meeting today. The Producer Price Index, retail sales and the Empire State manufacturing index will be released at 8:30 a.m. ET. Data on industrial production for May will be released at 9:15 a.
+
+
+***
+![Novavax's COVID-19 Vaccine, Flu Shot Co-administration Preserved Efficacy, Likely 'Viable Strategy,' Company Says](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/covid-19_vaccine_image_by_wilfried_pohnke_from_pixabay__17.jpg "Novavax's COVID-19 Vaccine, Flu Shot Co-administration Preserved Efficacy, Likely 'Viable Strategy,' Company Says")
+
+
+[Novavax's COVID-19 Vaccine, Flu Shot Co-administration Preserved Efficacy, Likely 'Viable Strategy,' Company Says](https://www.benzinga.com/general/biotech/21/06/21562672/novavaxs-covid-19-vaccine-flu-shot-co-administration-preserved-efficacy-likely-viable-strategy-co)
+
+
+> Novavax Vs. Pfizer Vs. Moderna: How COVID-19 Vaccines Stack Up Why Novavax, Orphazyme, Avenue Therapeutics Shares Are Moving Monday Why Novavax Stock Is Moving Today Looking Into Novavax's Return On Capital Employed
+
+
+***
+![EU court backs data watchdog powers in blow to Facebook, big tech](https://image-prod.iol.co.za/resize/650x366/File-picture-Reuters-Dado-Ruvic?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/a9cc35b7-da16-51e8-93c3-9da001757bf8&operation=CROP&offset=0x302&resize=3500x1969 "EU court backs data watchdog powers in blow to Facebook, big tech")
+
+
+[EU court backs data watchdog powers in blow to Facebook, big tech](https://www.iol.co.za/technology/software-and-internet/eu-court-backs-data-watchdog-powers-in-blow-to-facebook-big-tech-de94640c-83a8-4813-9b42-98e976c4de34)
+
+
+> File picture: Reuters/Dado RuvicShare this article:Brussels - Europe's top court on Tuesday endorsed the power of national data watchdogs to pursue big tech firms even if they are not their lead regulators, in a setback for Silicon Valley companies such as Facebook.The EU Court of Justice (CJEU) ruling could encourage national agencies to act against U.S. tech companies such as Google, Twitter and Apple, which all have their European Union headquarters in Ireland.Many national watchdogs in the 27-member European Union have long complained about their Irish counterpart, saying that it takes too long to decide on cases.
+
+
+***
+![The Best Monitors For Designers](https://icdn.digitaltrends.com/image/digitaltrends/dsc01870.jpg "The Best Monitors For Designers")
+
+
+[The Best Monitors For Designers](https://www.digitaltrends.com/computing/best-monitors-for-designers/)
+
+
+> Graphic designers need a no-compromises display. The best monitors for designers feature exceptional color accuracy, professional connectivity, and uniform lighting to ensure that your designs translate no matter what display they're on. We have five options below that do the trick for designers. Our favorite display is the Dell Ultrasharp U2720Q, though. It comes factory calibrated to deliver top-notch color accuracy out of the box, and it covers most professional color spaces. Plus, it's around $300 cheaper than similar professional displays.
+
+
+***
+![Most employees believe hybrid working is helping productivity](https://cdn.mos.cms.futurecdn.net/kisxErVa6kLdyw3g8mgdHL-1200-80.jpg "Most employees believe hybrid working is helping productivity")
+
+
+[Most employees believe hybrid working is helping productivity](https://www.techradar.com/news/most-employees-believe-hybrid-working-is-helping-productivity)
+
+
+> (Image credit: Lenovo) Many employees believe hybrid working is good for productivity and overall mental state, and would love to see the practice kept on after the pandemic, according to a new report from Slack, which found that the majority (57%) of adults think employers should continue to offer hybrid working.Some workers are quite passionate about hybrid working, with almost a quarter (22%) saying they would think about changing jobs if it was no longer an option. Those aged 25-34 were the most passionate, with more than a third (35%) saying they would consider leaving their current role if there was a change.
+
+
