@@ -24772,3 +24772,50 @@
 > Protesters are calling for action, not just statements, after a video was released that appears to capture a security guard pulling a Black woman down a flight of stairs at a popular gay sports bar in Washington D.C. The bar stated it has since fired the security firm involved.  The cellphone video footage, which was posted early Sunday, shows the alleged victim, 22-year-old Keisha Young, being forcibly removed from Nellie's Sports Bar. The video quickly went viral and locals gathered to protest outside of the bar on Sunday evening.
 
 
+***
+![‘That attitude gets nothing done': NSW Treasurer Dominic Perrottet's gibe at reporter](https://images.perthnow.com.au/publication/C-3115470/c9ec1d4ad3c545b0bfe8e73496ee4055fcd4c677-16x9-x0y192w2048h1152.jpg?imwidth=1200 "‘That attitude gets nothing done': NSW Treasurer Dominic Perrottet's gibe at reporter")
+
+
+[‘That attitude gets nothing done': NSW Treasurer Dominic Perrottet's gibe at reporter](https://www.news.com.au/technology/environment/that-attitude-gets-nothing-done-nsw-treasurer-dominic-perrottets-gibe-at-reporter/news-story/c9e05b276842ce05863d6e19ccc6a021)
+
+
+> NSW Treasurer Dominic Perrottet has hit back questions over whether residents would be annoyed by constant aeroplane noise when the new Western Sydney Airport is up and running.Mr Perrottet joined Premier Gladys Berejiklian and Tourism Minister Stuart Ayres to launch the Bradfield City Centre, a new suburb that will built to support the incoming Western Sydney International (Nancy-Bird Walton) Airport – due to be completed in 2026.The satellite city is expected to take up the spatial equivalent of 60 per cent of Sydney's CBD.
+
+
+***
+![Fujifilm EOFY deal: get up to AU$400 cashback on select X-mount lenses](https://cdn.mos.cms.futurecdn.net/bgX6yG66fsx62u65ZWCcz3-1200-80.jpeg "Fujifilm EOFY deal: get up to AU$400 cashback on select X-mount lenses")
+
+
+[Fujifilm EOFY deal: get up to AU$400 cashback on select X-mount lenses](https://www.techradar.com/news/fujifilm-eofy-deal-get-up-to-audollar400-cashback-on-select-x-mount-lenses)
+
+
+> (Image credit: Fujifilm) Fujifilm's X-mount bodies are some of the best cameras you can buy. The brand's XF lenses are also top of the line and they all come with price tags to match.However, shop around during the 2021 EOFY sales and you can score yourself a great XF lens for less from leading authorised retailers. And then, for a limited time only, Fujifilm is offering up to AU$400 cashback in its own EOFY sale.That means you can also save a little extra on top of the initial discount if you use the lenses for work – they become tax deductible and the savings come in the form of your tax returns.
+
+
+***
+![Dedicated High‑Volume Advanced Packaging Facility, First in US, Announced by NHanced Semiconductors](https://mms.businesswire.com/media/20210614005832/en/885219/23/NSlogo.jpg "Dedicated High‑Volume Advanced Packaging Facility, First in US, Announced by NHanced Semiconductors")
+
+
+[Dedicated High‑Volume Advanced Packaging Facility, First in US, Announced by NHanced Semiconductors](https://www.businesswire.com/news/home/20210614005832/en/Dedicated-High%E2%80%91Volume-Advanced-Packaging-Facility-First-in-US-Announced-by-NHanced-Semiconductors)
+
+
+> MORRISVILLE, N.C.--(BUSINESS WIRE)--NHanced Semiconductors is expanding the cleanroom of its North Carolina foundry to house a new high-volume line of advanced packaging (AP) equipment. The new line will run in parallel with the existing prototyping and low volume production line. 'Demand for advanced packaging is just booming,' states company President Bob Patti. 'We're at an inflection point. Our year-on-year revenue doubled in the first 5 months of 2021; many customers are ramping up volume production.
+
+
+***
+[About academy degree problem...](https://www.reddit.com/r/Python/comments/o02xgn/about_academy_degree_problem/)
+
+
+> Any malaysian here? I wanna ask if i just got diploma in E&E, but i wish to change career like python developer or other else, is that hard if i didn't have IT background or academic degree in related field
+
+
+***
+![Battery Issue and Conflict. What do I make of this?](https://forums.macrumors.com/attachments/battery-png.1793387/ "Battery Issue and Conflict. What do I make of this?")
+
+
+[Battery Issue and Conflict. What do I make of this?](https://forums.macrumors.com/threads/battery-issue-and-conflict-what-do-i-make-of-this.2300942/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
