@@ -24919,3 +24919,53 @@
 > KIYOSU, Japan--(BUSINESS WIRE)--Toyoda Gosei Co., Ltd. (TOKYO:7282) has developed 'Smart Insoles' with embedded e-Rubber* sensors that can obtain foot pressure data during movement. The company began shipping samples of Smart Insoles to a golf school operated by Mizuno Corporation (Mizuno Golf Studio, Ozone Branch) in June 2021. Smart Insoles are light and durable, and can detect and measure subtle changes in foot pressure with high accuracy by taking advantage of the feature of e-Rubber as a thin, flexible sensor.
 
 
+***
+![Best cheap Ring Video Doorbell deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/ring-video-doorbell-pro-with-echo-dot-2.jpg "Best cheap Ring Video Doorbell deals for June 2021")
+
+
+[Best cheap Ring Video Doorbell deals for June 2021](https://www.digitaltrends.com/home/best-ring-doorbell-deals/)
+
+
+> Are you shopping for the best cheap video doorbell deals? The best deals for Ring video doorbells this month are the Ring Doorbell 3 and Ring Doorbell Pro. Video doorbells help you keep your distance and stay informed about who's at your front door — regardless of your location anywhere in the world. Please note that some Ring video doorbell deals have delayed delivery, but that doesn't prevent you from saving big bucks during this sale. The best Ring doorbell deals today How do you choose a video doorbell? Ring has seven video doorbells in its lineup.
+
+
+***
+![PS5 stock UK – live: Today's PS5 restock updates from Tesco, ShopTo, Amazon and more](https://static.independent.co.uk/2021/06/14/15/PS5.jpg?width=1200&auto=webp&quality=75 "PS5 stock UK – live: Today's PS5 restock updates from Tesco, ShopTo, Amazon and more")
+
+
+[PS5 stock UK – live: Today's PS5 restock updates from Tesco, ShopTo, Amazon and more](https://www.independent.co.uk/extras/indybest/gadgets-tech/ps5-stock-uk-live-today-b1866015.html)
+
+
+> ExtrasIndyBestTechAlex Lee,Eva Waite-TaylorTuesday 15 June 2021 08:59PS5 Launch – Play Has No LimitsThe PS5 console was released more than six months ago, but if you're a gamer you'll know how hard it has been to get your hands on the latest device.Restock issues have been plaguing Sony since the reveal, and despite stores reopening in April in the UK as lockdown measures lift, it's still virtually impossible to secure a console in-store.It has become so difficult for people to get their hands on a PS5 that it's spawned a whole Twitter community of stock trackers, as well as a 24,500-strong community of Redditors all trying to nab the console before it sells out again.
+
+
+***
+![Best cheap Instant Pot deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/instant-pot-duo-60-7-in-1.jpg "Best cheap Instant Pot deals for June 2021")
+
+
+[Best cheap Instant Pot deals for June 2021](https://www.digitaltrends.com/dtdeals/best-instant-pot-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Are you shopping for the best cheap Instant Pot deals? You needn't look furhter, because we found them for you. Cookwing with  Instant Pots  redefined pressure cooking and revolutionized home meal preparation. There are eight Instant Pot models, most available in two or more sizes. Now there's also an Instant Pot Air Fryer Lid that adds air frying to many 6-quart Instant Pot pressure cookers. We've broken out the significant differences between the various Instant Pot model families below, and highlighted the best Instant Pot deals.
+
+
+***
+![Best cheap tablet deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/apple-ipad-pro-10-5-review-screen-angle-1-3-2.jpg "Best cheap tablet deals for June 2021")
+
+
+[Best cheap tablet deals for June 2021](https://www.digitaltrends.com/dtdeals/best-tablet-deals/)
+
+
+> You don't always need a desktop or laptop computer to be productive. Do you use a tablet to work from home or for remote learning? Tablets are powerful as productivity devices and also excel when you're reading, streaming music or video, or just browsing. Smartphones get most of the news coverage, but tablet users demonstrate year after year that they stick with their mobile workhorses. The iPad lineup, the class-leading example, is as good as ever and relatively affordable for Apple products. If iPad OS isn't your thing, however, you have several alternatives to choose from.
+
+
+***
+![Beats Studio Buds with active noise cancellation, voice command support launched](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/Beats_Studio_Buds-647x363.jpeg?oE7xg2ifiZMpx73cz3LodQDtfaCMKVOe "Beats Studio Buds with active noise cancellation, voice command support launched")
+
+
+[Beats Studio Buds with active noise cancellation, voice command support launched](https://www.indiatoday.in/technology/news/story/beats-studio-buds-with-active-noise-cancellation-voice-command-support-launched-1815037-2021-06-15)
+
+
+> Beats has launched its Studio Buds truly wireless stereo (TWS) earbuds. The latest addition to Apple's audio accessories come with active noise-cancelling capability as well as a transparency mode that heightens the ambient sound through exterior microphones on the earbuds.In addition, the Beats Studio Buds feature voice assistant support as well as a one-touch pairing for both Apple and Android devices. This support for Android devices can be configured through the Beats app, while Apple devices will do it natively through iOS.
+
+
