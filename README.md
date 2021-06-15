@@ -25019,3 +25019,50 @@
 > (Image credit: Lenovo) Many employees believe hybrid working is good for productivity and overall mental state, and would love to see the practice kept on after the pandemic, according to a new report from Slack, which found that the majority (57%) of adults think employers should continue to offer hybrid working.Some workers are quite passionate about hybrid working, with almost a quarter (22%) saying they would think about changing jobs if it was no longer an option. Those aged 25-34 were the most passionate, with more than a third (35%) saying they would consider leaving their current role if there was a change.
 
 
+***
+![G2VP VC raises $500 million to fund sustainable tech – TechCrunch](https://techcrunch.com/wp-content/uploads/2018/09/proterra-.jpg?w=600 "G2VP VC raises $500 million to fund sustainable tech – TechCrunch")
+
+
+[G2VP VC raises $500 million to fund sustainable tech – TechCrunch](https://techcrunch.com/2021/06/15/g2vp-vc-raises-500-million-to-fund-tech-that-make-industries-more-sustainable/)
+
+
+> G2 Venture Partners, a firm that spun out of Kleiner and Perkins Caufield & Byers, has raised $500 million to support entrepreneurs that aim to make existing industries more efficient, environmentally friendly and socially responsible.  With Fund II, G2 is most bullish about technologies in transportation, logistics, manufacturing, agriculture and energy, with an increasing focus on sustainability, according to a spokesperson for the firm.'The launch of our second fund expands our ability to work with companies that are moving the needle to redefine and revolutionize their respective industries,' said G2VP founding partner David Mount in a statement.
+
+
+***
+![New Level smart lock may be the smallest ever made, but it has tons of features](https://icdn.digitaltrends.com/image/digitaltrends/copy-of-level-lock-iphone.jpg "New Level smart lock may be the smallest ever made, but it has tons of features")
+
+
+[New Level smart lock may be the smallest ever made, but it has tons of features](https://www.digitaltrends.com/home/level-fashions-smallest-smart-lock-ever-made/)
+
+
+> If there's one smart lock feature that stands out — aside from the smarts — it's the size. Most smart locks are large and bulky, even if they do have nice designs. Level aims to change that with the newly announced Level Lock, the smallest smart lock ever made. It's the next iteration of the company's first model, the Level Bolt smart lock that came out in 2019. The Level Lock takes everything about that disruptive lock and miniaturizes the components, all while still retaining the look of your standard lock.
+
+
+***
+![AirPods 2 Vs. Beats Studio Buds: Best Apple Earbuds Under $160?](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/06/airpods-beats-studio-buds-comparison.jpg "AirPods 2 Vs. Beats Studio Buds: Best Apple Earbuds Under $160?")
+
+
+[AirPods 2 Vs. Beats Studio Buds: Best Apple Earbuds Under $160?](https://screenrant.com/airpods-2-beats-studio-buds-price-features-apple-comparison/)
+
+
+> Have $150 and looking to buy a new pair of Apple earbuds? The AirPods and Beats Studio Buds feature nearly identical price tags and completely different features. While AirPods are often thought of as the best earbuds for iPhone users, the Beats Studio Buds should not be overlooked. Since the launch of AirPods in 2016, it's been fascinating to watch the product lineup's success. It spawned two new additions with AirPods Pro and AirPods Max, but the baseline AirPods remain at the heart of the AirPods family.
+
+
+***
+[Duda, which helps large businesses to build websites, raises $50M Series D led by Claridge IL, bringing its total raised to $100M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210615/p6#a210615p6)
+
+
+> Ingrid Lunden / TechCrunch: Duda, which helps large businesses to build websites, raises $50M Series D led by Claridge IL, bringing its total raised to $100M — Self-expression for many consumers today comes in the form of social media and apps. But if you're a larger business, even if you can't ignore platforms like Facebook …
+
+
+***
+![iMac 2011 Maxwell GPU](https://forums.macrumors.com/attachments/img_20210202_194758-jpg.1793527/ "iMac 2011 Maxwell GPU")
+
+
+[iMac 2011 Maxwell GPU](https://forums.macrumors.com/threads/imac-2011-maxwell-gpu.2300989/)
+
+
+> Hello everyone, per some request I started this thread as a spin off of the 2011 iMac GPU upgrade thread. It is more specific to getting Maxwell cards working, not so much the upgrade process. I had a 2011 iMac that I upgraded with Quadro M4000M, here is what I noted: 1. No boot screen (known issue) 2. Required modified .Inf to install public drivers due to being HP card 3. Stuck at maximum performance P5, would idle (fixed this issue by modifying vbios to run P5 core clock @ 1015mhz and memory @ 1350mhz) 4 .
+
+
