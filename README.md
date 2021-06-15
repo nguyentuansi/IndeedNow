@@ -24722,3 +24722,53 @@
 > Consider getting one of the best PC controllers if you want a more seamless gaming experience. Don't get us wrong; the best gaming mice or the best gaming keyboards are faster, more responsive, and more feature-rich than ever. However, there's something about gaming with a controller that elevates your experience in a more seamless way.If you're a fan of fighting games and action RPGs, the best controllers for PC are especially helpful. That's because you'll just use your thumb, index and middle fingers, which results in more efficient and quicker responses when playing.
 
 
+***
+![Nine in ten Australian CISOs cites their mobile device as focal point in implementing cybersecurity strategies: report](https://itwire.com/media/k2/items/cache/f8b2bcad9f7a60fbd34ecea74a4286c9_XS.jpg "Nine in ten Australian CISOs cites their mobile device as focal point in implementing cybersecurity strategies: report")
+
+
+[Nine in ten Australian CISOs cites their mobile device as focal point in implementing cybersecurity strategies: report](https://itwire.com/security/nine-in-ten-australian-cisos-cites-their-mobile-device-as-focal-point-in-implementing-cybersecurity-strategies-report.html)
+
+
+> A report by automation platform Ivanti reveals that majority of Australian CISOs polled agree that mobile phones have become a focal point of cybersecurity strategies. Respondents expect an increase in security budget and allocation in UEM software. The emergence of the everywhere workplace has shifted the priorities of chief information security officers (CISO) away from combating network security threats and towards mitigating mobile security risks, according to a research by Ivanti, an automation platform.
+
+
+***
+![12 Best Quotes From Frances Ha (2012) and Scenes that Stick: Friendship and falling out in 'Frances Ha'](https://https://www.thearkatech.com/img/news_img/all/13934_3_1200.pic "12 Best Quotes From Frances Ha (2012) and Scenes that Stick: Friendship and falling out in 'Frances Ha'")
+
+
+[12 Best Quotes From Frances Ha (2012) and Scenes that Stick: Friendship and falling out in 'Frances Ha'](https://www.thearkatech.com/en/67552/)
+
+
+> © Instagram / frances ha By: Michael Miller2021-06-15 03:17:13 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Scenes that Stick: Friendship and falling out in 'Frances Ha' and 12 Best Quotes From Frances Ha (2012) COVID vaccine 'passports' in the U.S.: Here's what we're getting and why. Lordstown Motors Executives Resign Amid Inaccurate Preorder Disclosures. Dolphins Notebook: Minicamp Preview, Media Day, Marino on Tua, and More. In mental health crises, a 911 call now brings a mixed team of helpers — and maybe no cops.
+
+
+***
+![20 Weeks of Disney Animation: 'The Fox and the Hound'](https://https://www.thearkatech.com/img/news_img/all/13926_4_1200.pic "20 Weeks of Disney Animation: 'The Fox and the Hound'")
+
+
+[20 Weeks of Disney Animation: 'The Fox and the Hound'](https://www.thearkatech.com/en/67551/)
+
+
+> © Instagram / fox and the hound 20 Weeks of Disney Animation: 'The Fox and the Hound' - and Disney Plus review: Life lessons from 'The Fox and the Hound' 20 Weeks of Disney Animation: 'The Fox and the Hound' - and Disney Plus review: Life lessons from 'The Fox and the Hound' Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Disney Plus review: Life lessons from 'The Fox and the Hound' and 20 Weeks of Disney Animation: 'The Fox and the Hound' - Deona Knajdek, Protester Hit And Killed In Uptown, Remembered As ‘Wonderful Person'.
+
+
+***
+![Pandemic's forgotten and forsaken children and Black Clover: Magna's Victory Over Dante Is a Win For Forsaken Region Mages](https://https://www.thearkatech.com/img/news_img/all/13924_14_1200.pic "Pandemic's forgotten and forsaken children and Black Clover: Magna's Victory Over Dante Is a Win For Forsaken Region Mages")
+
+
+[Pandemic's forgotten and forsaken children and Black Clover: Magna's Victory Over Dante Is a Win For Forsaken Region Mages](https://www.thearkatech.com/en/67550/)
+
+
+> © Instagram / forsaken Pandemic's forgotten and forsaken children and Black Clover: Magna's Victory Over Dante Is a Win For Forsaken Region Mages Pandemic's forgotten and forsaken children and Black Clover: Magna's Victory Over Dante Is a Win For Forsaken Region Mages Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Black Clover: Magna's Victory Over Dante Is a Win For Forsaken Region Mages and Pandemic's forgotten and forsaken children Gray, Merle announce Michigan ASAF on the adaptive track and field scene.
+
+
+***
+![‘Close this racist a*s place': Sports bar criticized after viral video shows Black woman dragged down the stairs, security fired](https://uploads.dailydot.com/2021/06/nellies-criticized-drag-black-woman-down-stairs-viral-video.jpg?auto=compress%2Cformat&ixlib=php-3.3.0 "‘Close this racist a*s place': Sports bar criticized after viral video shows Black woman dragged down the stairs, security fired")
+
+
+[‘Close this racist a*s place': Sports bar criticized after viral video shows Black woman dragged down the stairs, security fired](https://www.dailydot.com/irl/nellies-criticized-drag-black-woman-down-stairs-viral-video/)
+
+
+> Protesters are calling for action, not just statements, after a video was released that appears to capture a security guard pulling a Black woman down a flight of stairs at a popular gay sports bar in Washington D.C. The bar stated it has since fired the security firm involved.  The cellphone video footage, which was posted early Sunday, shows the alleged victim, 22-year-old Keisha Young, being forcibly removed from Nellie's Sports Bar. The video quickly went viral and locals gathered to protest outside of the bar on Sunday evening.
+
+
