@@ -25719,3 +25719,53 @@
 > Enlarge / Lina M. Khan testifies during a Senate Commerce, Science, and Transportation Committee nomination hearing on Capitol Hill on April 21, 2021, in Washington, DC. President Joe Biden named Lina Khan chair of the Federal Trade Commission just hours after her confirmation in the Senate as one of the agency's five commissioners. It's an unusual move—newly nominated commissioners are seldom elevated to chair immediately—and it likely signals that the Biden administration will be taking a hawkish approach to antitrust enforcement, particularly when it comes to Big Tech platform companies like Google, Amazon, Facebook, and Apple.
 
 
+***
+![How to unlock iPhone Face ID with sunglasses this summer with genius trick](https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/NINTCHDBPICT000580186385.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "How to unlock iPhone Face ID with sunglasses this summer with genius trick")
+
+
+[How to unlock iPhone Face ID with sunglasses this summer with genius trick](https://www.the-sun.com/lifestyle/tech/3096606/how-to-use-face-id-with-sunglasses/)
+
+
+> IF your sunglasses stop your Face ID working on your iPhone then you may want to try turning off a simple setting. Some sunglasses, especially dark tinted ones, stop Face ID from working because your iPhone can't tell if you're looking at it or not. Face ID can be used to unlock your phone quickly so it's annoying when sunglasses get in the wayCredit: Apple / The Sun How to unlock iPhone Face ID with sunglasses Your iPhone has a setting called 'Require Attention for Face ID.' If this is switched on, Apple says the 'TrueDepth camera will provide an additional level of security by verifying that you are looking'.
+
+
+***
+![PSVR 2 release date leaks – when is the new PS5 virtual reality headset out?](https://www.the-sun.com/wp-content/uploads/sites/6/2021/02/VP-COMP-PSVR-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PSVR 2 release date leaks – when is the new PS5 virtual reality headset out?")
+
+
+[PSVR 2 release date leaks – when is the new PS5 virtual reality headset out?](https://www.the-sun.com/lifestyle/tech/3096521/psvr-2-release-date-leaks-ps5-virtual-reality-headset/)
+
+
+> SONY says it's working on a new virtual reality headset designed for the PlayStation 5 – and it could be out as early as next year. The Japanese tech titan has already teased some of the PSVR 2's specs and capabilities, but is keeping the exact release date a closely guarded secret. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news Sony is working on the follow-up to its PlayStation VR headsetCredit: Sony/The Sun When is the PSVR 2 out? Following months of leaks and rumours, Sony confirmed it was working on the PSVR 2 in a blog post in February.
+
+
+***
+![Granite Expands Merged Voice Communications Suite with Voice Over Cable](https://mms.businesswire.com/media/20210616005885/en/885717/23/Granitelogo2018_Large.jpg "Granite Expands Merged Voice Communications Suite with Voice Over Cable")
+
+
+[Granite Expands Merged Voice Communications Suite with Voice Over Cable](https://www.businesswire.com/news/home/20210616005885/en/Granite-Expands-Merged-Voice-Communications-Suite-with-Voice-Over-Cable)
+
+
+> June 16, 2021 01:54 PM Eastern Daylight Time QUINCY, Mass.--(BUSINESS WIRE)--Granite Telecommunications LLC, a leading provider of communications solutions to multi-location businesses and government agencies, today announced a wholesale agreement with Comcast Business to deliver competitive local telephone service that benefits Granite's customers by utilizing the Comcast network, as part of the Granite Merged Voice communications suite rolled out in April 2021. Granite Voice over Cable delivers POTS-like functionality over cable broadband Internet circuits at cost-effective rates.
+
+
+***
+![25% of the GPUs sold in the first part of 2021 went to crypto miners](https://icdn.digitaltrends.com/image/digitaltrends/bitcoin-mining-crypto-coin-farm.jpg "25% of the GPUs sold in the first part of 2021 went to crypto miners")
+
+
+[25% of the GPUs sold in the first part of 2021 went to crypto miners](https://www.digitaltrends.com/computing/crypto-miners-bought-25-percent-of-gpus-in-2021/)
+
+
+> Cryptocurrency mining was a major driving force of add-in board (AIB) graphics card sales in 2020, and that trend is continuing in 2021. A new report from Jon Peddie Research (JPR) says that miners purchased around 700,000 high-end and midrange cards in the first quarter of the year, totaling a market value of around half a billion dollars. JPR calculated the number of cards sold by using the trending attach rate of graphics cards and the actual attach rate of graphics cards. With data showing a clear spike in 2017 and 2018 — when the previous crypto boom happened — this model can tease out a fairly accurate estimate of how many graphics cards miners are purchasing.
+
+
+***
+![A transistorized shift register box, built in 1965 for Apollo testing](https://lh3.googleusercontent.com/proxy/Gxa2nYgG_L3dBgzjNoiqGeWWH0Yfo2rDcWhJsKByP-bESnVeRSzFzu_pFb8vI0zKNzwLP0RYdpHkAPVKmezGFMY_t4OX57Lg68pJ-hp17Xw=w1200-h630-p-k-no-nu "A transistorized shift register box, built in 1965 for Apollo testing")
+
+
+[A transistorized shift register box, built in 1965 for Apollo testing](https://www.righto.com/2021/06/inside-transistorized-shift-register.html)
+
+
+> One of the under-appreciated aspects of the Apollo launches to the Moon is how much testing was required. I recently came across an item that was part of this testing: the Computer Buffer Unit. It is essentially a 16-bit shift register that interfaced test equipment to the Apollo Guidance Computer. While a shift register is a trivial circuit nowadays, back then it took a box full of transistors that weighed about 5 pounds. In this blog post, I look inside this unit, describe its unusual packaging and circuitry, and explain how it works.
+
+
