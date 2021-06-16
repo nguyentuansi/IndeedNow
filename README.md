@@ -25628,3 +25628,44 @@
 > Nearly 67 per cent users, who participated in a survey, have expressed an intention to take up 5G connectivity when it starts rolling out in India, according to Ericsson's annual Mobility report. It expects around 40 million smartphone subscribers in India to take up 5G in the first year of its rollout in the country. The network equipment provider expects 5G to start rolling out in India by the second half of 2021. Players like Jio, Airtel and Vodafone are all currently testing their 5G networks in the country.
 
 
+***
+[At a Senate antitrust hearing, Amazon and Google defended their smart home device businesses from criticism by Democrats and Republicans (Anna Edgerton/Bloomberg)](http://www.techmeme.com/210616/p22#a210616p22)
+
+
+> Anna Edgerton / Bloomberg: At a Senate antitrust hearing, Amazon and Google defended their smart home device businesses from criticism by Democrats and Republicans — Alphabet Inc.'s Google and Amazon.com Inc. defended their smart-speaker businesses as U.S. senators warned the grip the companies have over the market could harm competition and consumer privacy.
+
+
+***
+[Honor says Google apps will return to its phones, starting with the 50 series, announced in China today, after Huawei sold off the brand at the end of last year (Jon Porter/The Verge)](http://www.techmeme.com/210616/p21#a210616p21)
+
+
+> Jon Porter / The Verge: Honor says Google apps will return to its phones, starting with the 50 series, announced in China today, after Huawei sold off the brand at the end of last year — Officially announced today in China — The Honor 50 series will be able to ship with Google's apps and services …
+
+
+***
+![Luminosity Gaming Announces Release of Fan Experience Keyboard Powered by Keemoji](https://mms.businesswire.com/media/20210616005596/en/885481/23/App_Preview_3.jpg "Luminosity Gaming Announces Release of Fan Experience Keyboard Powered by Keemoji")
+
+
+[Luminosity Gaming Announces Release of Fan Experience Keyboard Powered by Keemoji](https://www.businesswire.com/news/home/20210616005596/en/Luminosity-Gaming-Announces-Release-of-Fan-Experience-Keyboard-Powered-by-Keemoji)
+
+
+> June 16, 2021 10:00 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Luminosity Gaming, parented by Enthusiast Gaming, one of the largest globally recognized esports organizations in North America, today announced a multi-year partnership with Keemoji, a mobile technology partner for brands and creators to provide fans with an interactive experience keyboard app. This new partnership allows fans to take their game to the next level, with a feature-packed keyboard that keeps them in the middle of the action for all thing #LGLOYAL - now available to download for free on both Android and iOS devices.
+
+
+***
+![Google Pay launches cards tokenisation with SBI, other banks in collaboration with Visa](https://images.moneycontrol.com/static-mcnews/2020/04/google-pay-770x433.jpg "Google Pay launches cards tokenisation with SBI, other banks in collaboration with Visa")
+
+
+[Google Pay launches cards tokenisation with SBI, other banks in collaboration with Visa](https://www.moneycontrol.com/news/technology/google-pay-launches-cards-tokenisation-with-sbi-other-banks-in-collaboration-with-visa-7044851.html)
+
+
+> Google Pay on Wednesday said it has expanded its network of bank partners offering cards tokenisation on the Google Pay app and added lenders including SBI, IndusInd Bank, Federal Bank, and HSBC India."After successfully rolling out tokenisation with Kotak Mahindra Bank, SBI Cards, and Axis Bank, Google Pay has now added debit cards by SBI, IndusInd Bank, and Federal Bank and credit cards by IndusInd Bank and HSBC India to its slate," a statement said.Tokenisation is a feature that enables users to make debit or credit card payments through a secure digital token attached to their phone without having to physically share their credit or debit card details.
+
+
+***
+[Mark Zuckerberg drops off Glassdoor's Top 100 CEOs list for the first time since 2013, as worker sentiment declines, especially during last months of 2020 (Sarah Frier/Bloomberg)](http://www.techmeme.com/210616/p20#a210616p20)
+
+
+> Sarah Frier / Bloomberg: Mark Zuckerberg drops off Glassdoor's Top 100 CEOs list for the first time since 2013, as worker sentiment declines, especially during last months of 2020 — - Co-founder fails to make Top 100 for first time since 2013 — Glassdoor ranks company leaders based on employee surveys
+
+
