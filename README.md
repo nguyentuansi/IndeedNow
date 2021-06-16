@@ -25384,3 +25384,53 @@
 > Waters also brought up Zuckerberg's pre-Facebook website FaceMash, which he built at Harvard in 2003 to rate the looks of women on campus. 'How did this little prick who started out as ‘She's pretty, we'll give her a four out of five, she's ugly, we'll give her a one,' how did we give him any power?' asked Waters. 'And yet here he is, one of the most powerful idiots in the world.'
 
 
+***
+![A new problem for Peloton owners: Hacks](https://cdn.cnn.com/cnnnext/dam/assets/210615073435-peloton-bike-plus-super-tease.jpg "A new problem for Peloton owners: Hacks")
+
+
+[A new problem for Peloton owners: Hacks](https://www.cnn.com/2021/06/16/tech/peloton-bike-plus-hack/index.html)
+
+
+> In a report released Wednesday, cybersecurity company McAfee discovered a vulnerability that allows hackers to access Peloton's bike screen and potentially spy on riders using its microphone and camera. However, the threat most likely affects only the $2,495 bike used in public spaces, such as in hotels or gyms, because the hacker needs to physically access the screen using a USB drive containing a malicious code.According to McAfee's Advanced Threat Research team, a hacker can discreetly control the stationary bike's screen remotely and interfere with its operating system.
+
+
+***
+![Electricity transformed rural America nearly a century ago. Now, millions of people on farms and in small towns desperately need broadband.](https://www.gannett-cdn.com/presto/2021/01/05/PMJS/478f90ad-2645-48d7-83ab-cdf609b59428-ruralbroadband_becker_2_002.jpg?crop=5471,3077,x1,y563&width=1200 "Electricity transformed rural America nearly a century ago. Now, millions of people on farms and in small towns desperately need broadband.")
+
+
+[Electricity transformed rural America nearly a century ago. Now, millions of people on farms and in small towns desperately need broadband.](https://www.jsonline.com/in-depth/news/special-reports/2021/06/03/high-speed-internet-transforms-life-rural-america-left-behind/7144829002/)
+
+
+> ATHENS, Wis. – As the last hour of daylight fades, Kat Becker parks across the street from the Peterson/Kraemer funeral home.Becker shuts off the engine of her powder blue Toyota Prius and reaches for her laptop computer. Her two children, Maple and Ted, peer over her shoulder from the back seat.She connects to the funeral home's wireless internet, glancing at the obituaries before moving along to other websites.   Back home, at her Cattail Organics farm in Marathon County, Wisconsin, it would have taken an estimated 42 hours to upload a short video she'd done for a nearby nonprofit organization.
+
+
+***
+![Nokia 110 4G, Nokia 105 4G feature phones launched, prices start at around Rs 3,100](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/nokia_110_4g-483x271_1200_210616093505.jpeg "Nokia 110 4G, Nokia 105 4G feature phones launched, prices start at around Rs 3,100")
+
+
+[Nokia 110 4G, Nokia 105 4G feature phones launched, prices start at around Rs 3,100](https://www.indiatoday.in/technology/news/story/nokia-110-4g-nokia-105-4g-feature-phones-launched-prices-start-at-around-rs-3-100-1815357-2021-06-16)
+
+
+> Highlights Nokia 110 4G and Nokia 105 4G come with support for VoLTE calls. The Nokia 110 4G has a rear camera and a torch on the top. The Nokia 105 4G comes with dual-SIM version with 4G support. Nokia Mobile's feature phones outperform smartphones in sales every quarter, and that is why HMD has introduced two new feature phones with 4G LTE connectivity. The Nokia 110 4G and Nokia 105 4G come in single-SIM and dual-SIM versions, which is a good thing for people to follow their preferences while buying the phones.
+
+
+***
+![Google announces end-to-end encryption for Messages, earthquake alerts and more for Android users](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/Screenshot_2021-06-16_at_9.13.-647x363.png?oSaIYTsuPeXcWwpCt1c9ccw0Z52u2UAW "Google announces end-to-end encryption for Messages, earthquake alerts and more for Android users")
+
+
+[Google announces end-to-end encryption for Messages, earthquake alerts and more for Android users](https://www.indiatoday.in/technology/news/story/google-announces-end-to-end-encryption-for-messages-earthquake-alerts-and-more-for-android-users-1815356-2021-06-16)
+
+
+> Google on Tuesday announced a slew of new features for Android users. The search giant has added a host of features to its instant messaging app called Messages. Some of the features include end-to-end encryption, easy access to emojis, voice access, updates to the Android Auto app which will make it easier for Android Auto users to personalise their launcher screen directly from their phone and lots more.Announcing the feature, Fiona Lee, Program Manager, Android said in a blog, 'From keeping your account password safe to scheduling text messages to send at the right moment, we're constantly rolling out new updates to the 3 billion active Android devices around the world.
+
+
+***
+![#TECH: Japanese lab creates the first edible face mask](https://assets.nst.com.my/images/articles/botsmask_NSTfield_image_socialmedia.var_1623815087.jpg "#TECH: Japanese lab creates the first edible face mask")
+
+
+[#TECH: Japanese lab creates the first edible face mask](https://www.nst.com.my/lifestyle/bots/2021/06/699198/tech-japanese-lab-creates-first-edible-face-mask)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
