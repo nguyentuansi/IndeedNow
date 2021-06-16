@@ -25769,3 +25769,50 @@
 > One of the under-appreciated aspects of the Apollo launches to the Moon is how much testing was required. I recently came across an item that was part of this testing: the Computer Buffer Unit. It is essentially a 16-bit shift register that interfaced test equipment to the Apollo Guidance Computer. While a shift register is a trivial circuit nowadays, back then it took a box full of transistors that weighed about 5 pounds. In this blog post, I look inside this unit, describe its unusual packaging and circuitry, and explain how it works.
 
 
+***
+![TEKsystems Global Services Awarded Snowflake Emerging Partner of the Year](https://mms.businesswire.com/media/20210616005891/en/776386/23/TEKsystems_logo_new_tagline_RGB.jpg "TEKsystems Global Services Awarded Snowflake Emerging Partner of the Year")
+
+
+[TEKsystems Global Services Awarded Snowflake Emerging Partner of the Year](https://www.businesswire.com/news/home/20210616005891/en/TEKsystems-Global-Services-Awarded-Snowflake-Emerging-Partner-of-the-Year)
+
+
+> June 16, 2021 04:00 PM Eastern Daylight Time HANOVER, Md.--(BUSINESS WIRE)--TEKsystems Global Services, a provider of full-stack technology services that address the pressing strategy and implementation needs for more than 80% of the Fortune 500, today announced that it has been named the Emerging Partner of the Year by Snowflake, the Data Cloud company. As a Snowflake Elite Partner and now, Emerging Partner of the Year, TEKsystems works with customers to leverage the transformative power of data.
+
+
+***
+![Facebook to Begin Testing Oculus Ads in VR headsets](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Oculus%20ads%20Quest%202%20VR%20headset%20cover.jpg?itok=7DjZUjN7 "Facebook to Begin Testing Oculus Ads in VR headsets")
+
+
+[Facebook to Begin Testing Oculus Ads in VR headsets](https://techraptor.net/gaming/news/facebook-to-begin-testing-oculus-ads-in-vr-headsets)
+
+
+> 06/16/2021 - 15:54 | By: Robert N. Adams Home Gaming Gaming News Facebook to Begin Testing Oculus Ads in VR headsets Headset Data Won't Be Used to Target Ads Facebook has announced that it will begin testing Oculus ads within the Oculus Quest 2 virtual reality headset in the coming weeks as one of its many efforts to explore ways for game developers to generate more revenue on the platform. As highlighted by CNBC (via former TechRaptor writer and video content creator Shaun Joy), Facebook made the announcement earlier today.
+
+
+***
+![Prime Day Apple Watch deals 2021:  what to expect and early sales live now](https://cdn.mos.cms.futurecdn.net/D9ZWcgdexKQCtimQkCK2To-1200-80.jpg "Prime Day Apple Watch deals 2021:  what to expect and early sales live now")
+
+
+[Prime Day Apple Watch deals 2021:  what to expect and early sales live now](https://www.techradar.com/amazon-prime-day/best-prime-day-apple-watch-deals-2020)
+
+
+> Amazon Prime Day Apple Watch deals are just around the corner, with this year's sales scheduled to take place between June 21 and 22. What's more, both the Series 6 and SE look like excellent contenders in this year's Prime Day Apple Watch deals, having both sat on the market for a few months now. That means you'll likely find a range of prices and specs up for grabs this year, and we're bringing you everything you need to know to prepare right here. We'll also be bringing you all the best offers once the Prime Day deals officially land as well, so stay tuned for more.
+
+
+***
+[EURUSD stays below 100 day MA](https://www.forexlive.com/technical-analysis/!/eurusd-stays-below-100-day-ma-20210616)
+
+
+> 100 day MA at 1.2041 The EURUSD has been able to stay below the 100 day MA at 1.20405. Just above that is a swing area between 1.2051 and 1.2056.  Technically, those are the risk levels that shorts would like for the price to stay below now.
+
+
+***
+![Interpreting data is the next step in wearables. Engine style ‘warning lights' could be next.](https://external-preview.redd.it/523ozQ5DS6qF2O6UE__nbK2UISHUQYb3K19OsmBD04I.jpg?auto=webp&s=fcd42691e42e3ce6ab1f3f567556d7fef3e54188 "Interpreting data is the next step in wearables. Engine style ‘warning lights' could be next.")
+
+
+[Interpreting data is the next step in wearables. Engine style ‘warning lights' could be next.](https://www.reddit.com/r/technology/comments/o1dlid/interpreting_data_is_the_next_step_in_wearables/)
+
+
+> View Entire Discussion (1 Comments)
+
+
