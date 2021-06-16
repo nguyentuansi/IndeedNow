@@ -25669,3 +25669,53 @@
 > Sarah Frier / Bloomberg: Mark Zuckerberg drops off Glassdoor's Top 100 CEOs list for the first time since 2013, as worker sentiment declines, especially during last months of 2020 — - Co-founder fails to make Top 100 for first time since 2013 — Glassdoor ranks company leaders based on employee surveys
 
 
+***
+![Elon Musk Confirms New Model S Software Update Will Make Interior Even Quieter](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/plaidmodels.jpg?width=720 "Elon Musk Confirms New Model S Software Update Will Make Interior Even Quieter")
+
+
+[Elon Musk Confirms New Model S Software Update Will Make Interior Even Quieter](https://benzinga.com/tech/21/06/21590423/elon-musk-confirms-new-model-s-software-update-will-make-interior-even-quieter)
+
+
+> One critique of Tesla Inc (NASDAQ:TSLA) vehicles is that although there is reduced noise due to the lack of an internal combustion engine, a lower build quality leads to more road and wind noise entering the cabin at high speeds, leading to a less luxurious feel when compared with similarly priced vehicles. But with Tesla's new Plaid Model S, Tesla hopes to change this reputation. Along with a higher quality build, Tesla has added noise cancelation technology. Microphones near the driver's and passenger's heads will detect road noise and then speakers in the same area will play a noise-canceling background sound to drown it out.
+
+
+***
+![GM is throwing even more money at EVs and autonomous vehicles](https://cdn.slashgear.com/wp-content/uploads/2021/06/2024-GMC-HUMMER-EV-SUV-002-1.jpg "GM is throwing even more money at EVs and autonomous vehicles")
+
+
+[GM is throwing even more money at EVs and autonomous vehicles](https://www.slashgear.com/gm-is-throwing-even-more-money-at-evs-and-autonomous-vehicles-16678609/)
+
+
+> General Motors plans to dramatically increase its spend on electric vehicles and autonomous driving, pledging $35 billion through 2025 as it races to bring new EVs to market. The company had previously said it would spend $27 billion in the same period, and will now pull forward battery manufacturing plans for its Ultium platform. The goal now is to build two battery cell manufacturing plants in the US by mid-decade, to join the first plants that are currently under construction in Tennessee and Ohio.
+
+
+***
+![Even if you catch the roar of a motorcycle... The enforcement standard is 'train noise'](https://static.sbsdlab.co.kr/image/thumb_default.png "Even if you catch the roar of a motorcycle... The enforcement standard is 'train noise'")
+
+
+[Even if you catch the roar of a motorcycle... The enforcement standard is 'train noise'](https://www.tellerreport.com/tech/2021-06-16-even-if-you-catch-the-roar-of-a-motorcycle----the-enforcement-standard-is--train-noise-.BJxsPZoPsO.html)
+
+
+> As the days get warmer, the windows are open even at night these days. At that time, you may have been startled by the loud noise of motorcycles on the road. That's why the police sometimes crack down on motorcycle noise, but there aren't many cases where they're caught. As the days get hotter, the windows are open even at night. At that time, you may have been startled by the loud noise of motorcycles on the road. That's why the police sometimes crack down on motorcycle noise, but there aren't many cases where they're caught.
+
+
+***
+![Global 5G Device Markets, 2021-2028 by Form Factor, Use Case, Device Type (Mobility and CPE), Sector (Consumer, Enterprise, Industrial, Government) and Frequency Bands](https://mms.businesswire.com/media/20210616005781/en/371054/23/ResearchAndMarkets_800px.jpg "Global 5G Device Markets, 2021-2028 by Form Factor, Use Case, Device Type (Mobility and CPE), Sector (Consumer, Enterprise, Industrial, Government) and Frequency Bands")
+
+
+[Global 5G Device Markets, 2021-2028 by Form Factor, Use Case, Device Type (Mobility and CPE), Sector (Consumer, Enterprise, Industrial, Government) and Frequency Bands](https://www.businesswire.com/news/home/20210616005781/en/Global-5G-Device-Markets-2021-2028-by-Form-Factor-Use-Case-Device-Type-Mobility-and-CPE-Sector-Consumer-Enterprise-Industrial-Government-and-Frequency-Bands---ResearchAndMarkets.com)
+
+
+> June 16, 2021 12:05 PM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "5G Device Market by Form Factor, Use Case, Device Type (Mobility and CPE), Sector (Consumer, Enterprise, Industrial, Government) and Frequency Bands 2021 - 2028" report has been added to ResearchAndMarkets.com's offering. This 5G device market report provides analysis of the 5G device ecosystem, emerging business models, value chain partner analysis, 5G mobility and 5G CPE devices, opportunities by sector (consumer, enterprise, industrial, and government) and anticipated application areas.
+
+
+***
+![Formidable Amazon critic Lina Khan named FTC chair, putting Big Tech on notice](https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-1232438401-760x380.jpg "Formidable Amazon critic Lina Khan named FTC chair, putting Big Tech on notice")
+
+
+[Formidable Amazon critic Lina Khan named FTC chair, putting Big Tech on notice](https://arstechnica.com/tech-policy/2021/06/formidable-amazon-critic-lina-khan-named-ftc-chair-putting-big-tech-on-notice/)
+
+
+> Enlarge / Lina M. Khan testifies during a Senate Commerce, Science, and Transportation Committee nomination hearing on Capitol Hill on April 21, 2021, in Washington, DC. President Joe Biden named Lina Khan chair of the Federal Trade Commission just hours after her confirmation in the Senate as one of the agency's five commissioners. It's an unusual move—newly nominated commissioners are seldom elevated to chair immediately—and it likely signals that the Biden administration will be taking a hawkish approach to antitrust enforcement, particularly when it comes to Big Tech platform companies like Google, Amazon, Facebook, and Apple.
+
+
