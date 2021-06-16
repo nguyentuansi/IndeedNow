@@ -25578,3 +25578,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Nearly all UK financial advisers shun crypto and 'meme stocks'](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "Nearly all UK financial advisers shun crypto and 'meme stocks'")
+
+
+[Nearly all UK financial advisers shun crypto and 'meme stocks'](https://www.reuters.com/article/fintech-cryptocurrency-idUSL3N2NY2VJ)
+
+
+> LONDON, June 16 (Reuters) - More than nine in ten independent financial advisers (IFAs) in Britain would never recommend cryptocurrencies or so-called meme stocks to their clients, an Opinium poll showed on Wednesday.Meme stocks - companies whose value is fuelled by social media attention - and digital coins have soared in popularity as stay-at-home rules and high savings rates during the pandemic triggered a surge in stock investing by non-professionals.Yet 93% of IFAs would never recommend investing in cryptocurrencies, while 95% would never do so for meme stocks, the poll based on a sample of 200 IFAs in the UK showed.
+
+
+***
+![JioFiber Postpaid plans with zero security deposit and installation charges to go live soon, check all offers](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/Screenshot_2021-06-16_at_4.48.-647x363.png?bpUMZsFcg_oEG0OANJFvhXk6k46J6uVP "JioFiber Postpaid plans with zero security deposit and installation charges to go live soon, check all offers")
+
+
+[JioFiber Postpaid plans with zero security deposit and installation charges to go live soon, check all offers](https://www.indiatoday.in/technology/news/story/jiofiber-postpaid-plans-with-zero-security-deposit-and-installation-charges-to-go-live-soon-check-all-offers-1815647-2021-06-16)
+
+
+> Jio is rolling out some new offers for its subscribers. Earlier this week, the telco announced freedom plans that do not give daily data limits on plans and have a validity of 15, 30, 45, and 60 days. Now reports of JioFiber postpaid plans are doing the rounds and Jio's website is also enabling users to book these plans. JioFiber already gives a range of prepaid JioFiber broadband plans for its users to choose from. The internet service provider offers broadband plans starting at Rs 399. Prepaid users can get a subscription to their favourite broadband plans on a monthly, quarterly, semi-annual, and annual basis.
+
+
+***
+![[Briefing] "Issued 10,000 text messages for Janssen vaccination… 22% systemic reaction"](https://img.sbs.co.kr/newimg/news/20210614/201560845_1280.jpg "[Briefing] "Issued 10,000 text messages for Janssen vaccination… 22% systemic reaction"")
+
+
+[[Briefing] "Issued 10,000 text messages for Janssen vaccination… 22% systemic reaction"](https://www.tellerreport.com/tech/2021-06-16-[briefing]-"issued-10-000-text-messages-for-janssen-vaccination…-22%-systemic-reaction".BkzptYPDiO.html)
+
+
+> Among the COVID-19 vaccines, 2 out of 10 people who received the Janssen vaccine experienced muscle pain and fatigue. According to the announcement of the COVID-19 Vaccination Response Promotion Team, as a result of examining adverse reactions through text messages to 10,220 Janssen vaccine recipients, 22.3% of them responded that they felt sick overall, such as muscle pain or fatigue. Among the COVID-19 vaccines, 2 out of 10 people who received the Janssen vaccine experienced muscle pain and fatigue.
+
+
+***
+![Apple continues to be market leader in tablet sales, this is the most popular iPad](https://images.financialexpress.com/2021/06/apple-ipro-l.jpeg "Apple continues to be market leader in tablet sales, this is the most popular iPad")
+
+
+[Apple continues to be market leader in tablet sales, this is the most popular iPad](https://www.financialexpress.com/industry/technology/apple-continues-to-be-market-leader-in-tablet-sales-this-is-the-most-popular-ipad/2272569/)
+
+
+> By: FE Online | June 16, 2021 5:32 PMApple iPad ProApple made the most of the tablet market, that's been growing steadily, despite a raging global pandemic launching four new iPad models since March. These include two iPad Pro and one ‘regular' budget iPad and one iPad Air model.Turns out, the entry-level 10.2 inch (8th gen) iPad is the most popular iPad in the world currently, as per data released by Counterpoint Research. According to senior analyst Liz Lee, the basic iPad model accounted for 56 percent of the Apple iPad sales in Q1 2021.
+
+
+***
+![5G will represent around 26% of mobile subscriptions in India by 2026: Ericsson report](https://images.indianexpress.com/2021/06/5G_Internet1.jpg "5G will represent around 26% of mobile subscriptions in India by 2026: Ericsson report")
+
+
+[5G will represent around 26% of mobile subscriptions in India by 2026: Ericsson report](https://indianexpress.com/article/technology/tech-news-technology/5g-will-represent-around-26-of-mobile-subscriptions-in-india-by-2026-ericsson-report-7361950/)
+
+
+> Nearly 67 per cent users, who participated in a survey, have expressed an intention to take up 5G connectivity when it starts rolling out in India, according to Ericsson's annual Mobility report. It expects around 40 million smartphone subscribers in India to take up 5G in the first year of its rollout in the country. The network equipment provider expects 5G to start rolling out in India by the second half of 2021. Players like Jio, Airtel and Vodafone are all currently testing their 5G networks in the country.
+
+
