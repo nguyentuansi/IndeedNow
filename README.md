@@ -25528,3 +25528,53 @@
 > (Image credit: Shutterstock) Air fryers have become incredibly popular recently and if you're thinking about stepping into the world of air frying, or just want to replace your existing model, don't buy one...yet. Amazon Prime Day kicks off on Monday, June 21 this year, and it's the perfect time to grab one of the best air fryers at a heavily discounted price. We're expecting to see Prime Day deals on Amazon's bestselling brands including Cosori, and models such as the NuWave Brio 6-Quart Air Fryer, and perhaps highly-rated options such as the Instant Pot Vortex.
 
 
+***
+![Emirati agency banks on blockchain boom to promote Islamic art](https://sm.mashable.com/t/mashable_me/photo/default/shutterstock-1946087557_sugv.1200.jpg "Emirati agency banks on blockchain boom to promote Islamic art")
+
+
+[Emirati agency banks on blockchain boom to promote Islamic art](https://me.mashable.com/tech/14213/emirati-agency-banks-on-blockchain-boom-to-promote-islamic-art)
+
+
+> The crypto revolution has opened doors for content creators to reach a wider audience as well as potential buyers, by converting their work into digital tokens. The UAE has also seen the rise of local talent, including an artist who develops paintings from soundwaves, which she auctions online in the form of NFTs. From real estate to memes and even hashtags, everything becomes a lucrative asset to attract cash in the digital realm, as soon as it's registered on a blockchain. A Dubai-based foundation which has identified the potential for growth for crypto assets, has launched the first ever agency to sell Islamic art as non-fungible tokens.
+
+
+***
+![Waylay's Digital Twin Partners add Speed, Flexibility and Scale to Customer Implementation Projects](https://mms.businesswire.com/media/20210616005043/en/834356/23/Waylay_Logo.jpg "Waylay's Digital Twin Partners add Speed, Flexibility and Scale to Customer Implementation Projects")
+
+
+[Waylay's Digital Twin Partners add Speed, Flexibility and Scale to Customer Implementation Projects](https://www.businesswire.com/news/home/20210616005043/en/Waylay%E2%80%99s-Digital-Twin-Partners-add-Speed-Flexibility-and-Scale-to-Customer-Implementation-Projects)
+
+
+> GHENT, Belgium--(BUSINESS WIRE)--Waylay announced today it has partnered with top-tier Salesforce Implementation Partners for Waylay Digital Twin, its powerful no-code IoT asset monitoring solution for Salesforce. The selected implementation partners boost consulting and implementation capacity and bring decades of Salesforce expertise to the Waylay Digital Twin projects. Adding local and multi-lingual support and industry-specific proficiency dramatically increases project efficiency and accelerates implementation timelines and delivery.
+
+
+***
+![Monroe Capital Supports Golden Gate Capital's Acquisition of Securly, Inc.](https://mms.businesswire.com/media/20210616005205/en/637629/23/Monroe_Capital_Logo_RGB.jpg "Monroe Capital Supports Golden Gate Capital's Acquisition of Securly, Inc.")
+
+
+[Monroe Capital Supports Golden Gate Capital's Acquisition of Securly, Inc.](https://www.businesswire.com/news/home/20210616005205/en/Monroe-Capital-Supports-Golden-Gate-Capital%E2%80%99s-Acquisition-of-Securly-Inc.)
+
+
+> CHICAGO--(BUSINESS WIRE)--Monroe Capital LLC ('Monroe') today announced it acted as sole lead arranger and administrative agent on the funding of a senior credit facility to support the acquisition of Securly, Inc. ('Securly') by private equity sponsor Golden Gate Capital. Founded in 2012 and based in San Jose, CA, Securly is an end-to-end student safety and device management platform serving more than 10 million students globally across 2,500 K-12 school districts. Securly's pioneering student safety technology enables district and school administrators, educators and parents to keep children safe and engaged, guiding them through an increasingly digital world.
+
+
+***
+![Lincoln vehicles getting hands-free driving feature and native Android](https://cdn.vox-cdn.com/thumbor/G6AqY_IgJ-oqWhO26PgOeDqUfeg=/0x0:1920x1080/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/69459521/Future_Lincoln__Exterior_Tease_with_Embrace_Lighting.0.jpg "Lincoln vehicles getting hands-free driving feature and native Android")
+
+
+[Lincoln vehicles getting hands-free driving feature and native Android](https://www.theverge.com/2021/6/16/22535666/lincoln-electric-vehicles-plan-hands-free-google-android)
+
+
+> Lincoln, Ford's luxury brand, has announced plans to make its entire lineup either hybrid or all-electric by 2030 as part of its parent company's new business plan. The brand will reveal its first all-electric vehicle in 2022, and it expects that half of its global sales will be zero-emissions vehicles by around 2025. In addition, Lincoln vehicles are gaining a hands-free advanced driver assistance feature based on Ford's BlueCruise system, though the luxury marque will call its version 'ActiveGlide.
+
+
+***
+![Five Popular LinkedIn Certified Courses on Python](https://external-preview.redd.it/7dLaT1Hngcji0u4SENS3_I9LYiOYVCKp8jLya82ytSQ.jpg?auto=webp&s=31434031d4fefedf636cddb293e0ec2e2e036fb4 "Five Popular LinkedIn Certified Courses on Python")
+
+
+[Five Popular LinkedIn Certified Courses on Python](https://www.reddit.com/r/Python/comments/o11aiz/five_popular_linkedin_certified_courses_on_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
