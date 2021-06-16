@@ -25337,3 +25337,50 @@
 > Windows 11 is Microsoft's next operating system. It's here, it's real, and we're using a leaked version of it right now. Our hands-on offers an early look at what you can expect: the addition of a mammoth widgets drawer, an updated Windows 10X-like user interface, and more. On June 24, Microsoft will host a Windows event, promising 'what's next for Windows.' Microsoft teased the event with a graphic that showed light falling through a window to create a shadow that looked very much like the number 11.
 
 
+***
+![Amazon Prime Day 2021 in Australia: these early deals are already live](https://cdn.mos.cms.futurecdn.net/fSVuKfCQAiUy49V4WgLuCT-1200-80.jpg "Amazon Prime Day 2021 in Australia: these early deals are already live")
+
+
+[Amazon Prime Day 2021 in Australia: these early deals are already live](https://www.techradar.com/amazon-prime-day/prime-day-deals)
+
+
+> Amazon Prime Day is just around the corner, with Prime Day deals landing kicking off on June 21 and running through June 22 in 2021. That means it's nearly time for the annual 48 hour sales extravangaza to begin and we're already seeing early offers on a range of Amazon devices and brands. Amazon Prime Day has become synonymous with cheap smart home gear, but we're also expecting a massive range of Prime Day deals on laptops, 4K TVs, headphones, and more this year. To take part you will need a Prime membership, however those without a subscription are in luck - Amazon is offering a 30 day free trial right now.
+
+
+***
+![Kia partners with Uber to supply EVs in Europe](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/9c57e5447ebe41f69a55905a3c4beec7.jpg "Kia partners with Uber to supply EVs in Europe")
+
+
+[Kia partners with Uber to supply EVs in Europe](https://www.koreatimes.co.kr/www/tech/2021/06/419_310565.html)
+
+
+> Courtesy of KiaKia, South Korea's second-biggest carmaker, said Wednesday it has partnered with U.S. ride-hailing company Uber Technologies Inc. to supply its electric vehicles in Europe. The strategic partnership is aimed at promoting the adoption of EVs and the expansion of the EV charging infrastructure in major European cities, Kia said in a statement. Kia will provide the Niro and other electrified models to Uber drivers at discounted prices in 20 European countries, the statement said. The partnership is in line with Uber's plan to operate more than 100,000 electric vehicles in Europe by 2025 and become a zero-emission mobility platform by 2030.
+
+
+***
+[FSSPEC: Filesystem interfaces for Python](https://www.reddit.com/r/Python/comments/o0u2th/fsspec_filesystem_interfaces_for_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![What is this question mark in this folder?](https://forums.macrumors.com/attachments/questionmark-png.1793877/ "What is this question mark in this folder?")
+
+
+[What is this question mark in this folder?](https://forums.macrumors.com/threads/what-is-this-question-mark-in-this-folder.2301084/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Roger Waters denies ‘powerful idiot' Mark Zuckerberg's bid to use Pink Floyd song in Instagram ad: ‘No f—ing way'](https://external-preview.redd.it/a0PtxkOQCec2pBuI5myltP15XUtbwLvfoFwYTURIi6w.jpg?auto=webp&s=735e8a754d76e6bb8fb42f2b386554acf32225a3 "Roger Waters denies ‘powerful idiot' Mark Zuckerberg's bid to use Pink Floyd song in Instagram ad: ‘No f—ing way'")
+
+
+[Roger Waters denies ‘powerful idiot' Mark Zuckerberg's bid to use Pink Floyd song in Instagram ad: ‘No f—ing way'](https://www.reddit.com/r/technology/comments/o0twuv/roger_waters_denies_powerful_idiot_mark/)
+
+
+> Waters also brought up Zuckerberg's pre-Facebook website FaceMash, which he built at Harvard in 2003 to rate the looks of women on campus. 'How did this little prick who started out as ‘She's pretty, we'll give her a four out of five, she's ugly, we'll give her a one,' how did we give him any power?' asked Waters. 'And yet here he is, one of the most powerful idiots in the world.'
+
+
