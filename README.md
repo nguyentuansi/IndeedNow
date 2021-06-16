@@ -25434,3 +25434,47 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![Government target of gigabit broadband in 85% of homes by 2025 at risk as people don't know what it is](https://i.inews.co.uk/content/uploads/2021/06/SEI_81539324.jpg "Government target of gigabit broadband in 85% of homes by 2025 at risk as people don't know what it is")
+
+
+[Government target of gigabit broadband in 85% of homes by 2025 at risk as people don't know what it is](https://inews.co.uk/news/technology/publics-lack-of-gigabit-broadband-awareness-could-spell-trouble-for-govs-ambitious-target-1053507)
+
+
+> The Government is at risk of missing its ambitious target to bring gigabit-capable broadband to at least 85 per cent of the UK by 2025 because too few people and businesses are aware of it, a report has warned.The Gigabit Take-up Advisory Group (GigaTAG), which consists of consumer rights group Which?, the CBI (Confederation of British Industry) and FSB (Federation of Small Businesses), found that more than half (59%) of consumers were not aware of gigabit-capable broadband, while a third (33%) of small businesses had not heard of the technology.
+
+
+***
+[New IT Rules: Twitter loses its status as intermediary platform in India- Check details](https://www.zeebiz.com/technology/news-new-it-rules-twitter-loses-its-status-as-intermediary-platform-in-india-check-details-158696)
+
+
+> Twitter on Wednesday said that it will continue to make every effort to comply with the government`s new IT rules after it lost its status as an intermediary platform in India.
+
+
+***
+[OnePlus Nord N200 5G launched; price, specifications, features](http://www.pinkvilla.com/tech/news/oneplus-nord-n200-5g-launched-price-specifications-features-777743)
+
+
+> Attach Main technology Image: Image Caption: OnePlus Nord N200 5G launched; price, specifications, features Social Media Image : Enter the Technology details: OnePlus was teasing the launch of its latest budget Nord N series smartphone called the OnePlus Nord N200 5G in the past weeks. Now, the Chinese tech giant has quietly launched the handset in the United States. The OnePlus Nord N200 5G has arrived as a mid-range smartphone with support for 5G networks. Notably, the phone's complete specifications, features, and press renders were already leaked in the past few days.
+
+
+***
+![Euro 2020 live stream: How to watch or stream UEFA Euro 2020 matches online for free in India on PC or mobile phones](https://images.hindustantimes.com/tech/img/2021/06/16/1600x900/AP06_16_2021_000004B_1623822884511_1623822900848.jpg "Euro 2020 live stream: How to watch or stream UEFA Euro 2020 matches online for free in India on PC or mobile phones")
+
+
+[Euro 2020 live stream: How to watch or stream UEFA Euro 2020 matches online for free in India on PC or mobile phones](https://tech.hindustantimes.com/tech/news/euro-2020-live-stream-how-to-watch-or-stream-uefa-euro-2020-matches-online-for-free-in-india-on-pc-or-mobile-phones-71623822329228.html)
+
+
+> Euro 2020 live stream: This major soccer tournament is back after a year's delay due to the coronavirus pandemic. However, most of the world is still not venturing out, but don't let that disappoint you, and there is no need to miss out on the action as Euro 2020 live stream is available online for free. So, just boot up your PCs and grab your smartphones to check out the thrills and spills at Euro 2020. Already Cristiano Ronaldo has grabbed the limelight in the tournament and England has surprised the world, and itself too, by winning its first game.
+
+
+***
+![Fintech startup FamPay raises $38 million in Series A funding](https://images.livemint.com/img/2021/06/16/600x338/fampay_1623821987095_1623822000149.PNG "Fintech startup FamPay raises $38 million in Series A funding")
+
+
+[Fintech startup FamPay raises $38 million in Series A funding](https://www.livemint.com/companies/start-ups/fintech-startup-fampay-raises-38-million-in-series-a-funding-11623821063664.html)
+
+
+> BENGALURU: Fintech startup, FamPay, has raised $38 million as part of its Series A funding led by Elevation Capital. Existing investor Sequoia Capital India, along with other investors including Venture Highway, YCombinator, Global Founders Capital also participated as a part of this round. New global investors, including General Catalyst, Rocketship VC, and Greenoaks Capital, also invested in this round. The company is expected to use the current fundraise to build its leadership team and further fuel growth.
+
+
