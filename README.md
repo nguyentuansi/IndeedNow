@@ -25478,3 +25478,53 @@
 > BENGALURU: Fintech startup, FamPay, has raised $38 million as part of its Series A funding led by Elevation Capital. Existing investor Sequoia Capital India, along with other investors including Venture Highway, YCombinator, Global Founders Capital also participated as a part of this round. New global investors, including General Catalyst, Rocketship VC, and Greenoaks Capital, also invested in this round. The company is expected to use the current fundraise to build its leadership team and further fuel growth.
 
 
+***
+![Samsung faces first walkout at display affiliate](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/aac987d7665e40f78af74c363caa908a.jpg "Samsung faces first walkout at display affiliate")
+
+
+[Samsung faces first walkout at display affiliate](https://www.koreatimes.co.kr/www/tech/2021/06/133_310595.html)
+
+
+> Samsung Display's campus in Asan, South Chungcheong Province / Courtesy of Samsung DisplayBy Kim Bo-eunSamsung is facing its first possible workers' walkout after the union of its display manufacturing affiliate decided to take collective action over its differences with management in wage negotiations. Samsung Display is fretting over the union's move since how it will handle the issue will set the tone for the nation's largest conglomerate's relationships with its other subsidiaries' unions.Market observers are paying keen attention to the publicized labor-management conflict as this is taking place after the group's de-facto leader Lee Jae-yong pledged in May last year that the conglomerate would comply with laws guaranteeing workers' rights.
+
+
+***
+![Samsung on course to produce Moderna vaccine: CEO](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/91e4643f1d6e47369a3ef69b38028ddf.jpg "Samsung on course to produce Moderna vaccine: CEO")
+
+
+[Samsung on course to produce Moderna vaccine: CEO](https://www.koreatimes.co.kr/www/tech/2021/06/693_310591.html)
+
+
+> Samsung Biologics CEO John Rim, left, and Moderna CEO Stephane Bancel, exchange agreements during a vaccine partnership event at a hotel in Washington, D.C., May 22, with President Moon Jae-in in attendance. YonhapBy Baek Byung-yeulSamsung Biologics is on course to manufacture U.S. biotech firm Moderna's COVID-19 vaccine, its CEO John Rim said, highlighting the global bio industry's efforts in the battle against the pandemic."As most recently announced, we are fully committed to leveraging our experience in manufacturing technologies to support the aseptic fill and finish of Moderna's mRNA-1273 vaccine with quality, speed and efficiency to aid in the fight against this global crisis," Rim said during the BIO Digital event online, Tuesday.
+
+
+***
+![iPad dominates global tablet market yet again in 2021, grabs 37% market share in Q1](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/apple_ipad_pro_2-483x271_1200_210616133504.jpeg "iPad dominates global tablet market yet again in 2021, grabs 37% market share in Q1")
+
+
+[iPad dominates global tablet market yet again in 2021, grabs 37% market share in Q1](https://www.indiatoday.in/technology/news/story/ipad-dominates-global-tablet-market-yet-again-in-2021-grabs-37-market-share-in-q1-1815485-2021-06-16)
+
+
+> Highlights iPad gained 37 per cent global tablet market share in Q1 2021. iPad 8 was the best selling model among the lot, followed by iPad Air 4. Overall tablet market grew by 53 per cent year-on-year in Q1 2021. Apple iPad has been enjoying high sales over the past couple of years. Continuing its strong run, iPad dominated the global tablet market yet again this year as the market was collectively bolstered during the pandemic. A new industry report reveals the revival of tablet demand globally.
+
+
+***
+![Learn for free HTML Archives tutorials](https://external-preview.redd.it/9f6DPHpS_pXbRs4kjbQWRGoaL1kUxrQhdKylGvJGz9Q.jpg?auto=webp&s=db0593432551c07afee1c03c9a49b2efcc1a0e3c "Learn for free HTML Archives tutorials")
+
+
+[Learn for free HTML Archives tutorials](https://www.reddit.com/r/programming/comments/o0zor2/learn_for_free_html_archives_tutorials_geeksread/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Why you should wait until Prime Day to buy an air fryer](https://cdn.mos.cms.futurecdn.net/gb8ZaE8DsyEu8Ug7WoWPdU-1200-80.jpg "Why you should wait until Prime Day to buy an air fryer")
+
+
+[Why you should wait until Prime Day to buy an air fryer](https://www.techradar.com/news/why-you-should-wait-until-prime-day-to-buy-an-air-fryer)
+
+
+> (Image credit: Shutterstock) Air fryers have become incredibly popular recently and if you're thinking about stepping into the world of air frying, or just want to replace your existing model, don't buy one...yet. Amazon Prime Day kicks off on Monday, June 21 this year, and it's the perfect time to grab one of the best air fryers at a heavily discounted price. We're expecting to see Prime Day deals on Amazon's bestselling brands including Cosori, and models such as the NuWave Brio 6-Quart Air Fryer, and perhaps highly-rated options such as the Instant Pot Vortex.
+
+
