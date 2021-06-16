@@ -25297,3 +25297,43 @@
 > Recent reports have indicated that some new iMacs have shipped with visible signs of a serious manufacturing defect: They have crooked displays. The defective models seem to have unaligned mounting stands that lead to crookedness. While not every person who purchased the new iMac came across the issue, there are enough people to confirm that is a manufacturing fault on Apple's part. YouTuber iPhonedo was the first to come out about it. While reviewing the recently-released model, he discovered that it was leaning on one side.
 
 
+***
+![Soon you'll be able to decide who can mention you on Twitter](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-06/20210616_Twitter_mentions_01-seo.jpg "Soon you'll be able to decide who can mention you on Twitter")
+
+
+[Soon you'll be able to decide who can mention you on Twitter](https://www.malaymail.com/news/tech-gadgets/2021/06/16/soon-youll-be-able-to-decide-who-can-mention-you-on-twitter/1982529)
+
+
+> Users will be able to remove unwanted mentions directly via their notifications. — Picture courtesy of Twitter SAN FRANCISCO, June 16 — Here's a new development that could help diminish the 'Cancel Culture' on Twitter. The social network is currently working on a new parametre to cancel an undesired mention by a user. It could serve as a good way to protect yourself against potential controversy without completely shutting the topic down. We explain how it would work. On Twitter, a single tweet can quickly destroy a reputation, not to mention unleash a spiral of vitriol that sometimes follows.
+
+
+***
+![Activision slammed for delaying vote on executive pay](https://ca-times.brightspotcdn.com/dims4/default/ab91a01/2147483647/strip/true/crop/4399x2309+0+312/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb4%2F72%2F3c0a93714b9593a5d0246a06c297%2Fapphoto-activision-blizzard-layoffs.JPG "Activision slammed for delaying vote on executive pay")
+
+
+[Activision slammed for delaying vote on executive pay](https://www.latimes.com/business/technology/story/2021-06-15/activision-slammed-for-delaying-vote-on-executive-pay-disclosure)
+
+
+> Activision Blizzard Inc.'s surprise decision to prolong its say-on-pay shareholder referendum is a 'desperate attempt' to avoid losing the vote, according to a labor-backed investment firm that has been critical of the video game giant's compensation.'With 86% of shares already voted, it is doubtful that a significant number of shareholders wanted more time to consider the company's executive pay practices,' said Michael Varner, director of executive compensation research at CtW Investment Group.
+
+
+***
+![The Legend of Zelda Game & Watch is coming with four games](https://cdn.slashgear.com/wp-content/uploads/2021/06/game-watch-zelda.jpg "The Legend of Zelda Game & Watch is coming with four games")
+
+
+[The Legend of Zelda Game & Watch is coming with four games](https://www.slashgear.com/the-legend-of-zelda-game-watch-is-coming-with-four-games-15678497/)
+
+
+> Nintendo just wrapped up its Direct showcase for E3, and, as expected, it was chock full of new and upcoming titles for the Nintendo Switch. One announcement, in particular, however, seemed almost out of place not just because of its target device but also because of the games that the device will house. Just like it did last year with Super Mario Bros., Nintendo is marking The Legend of Zelda's 35th anniversary this year with the release of a specially themed Game & Watch that contains three classic Zelda games plus one surprise title.
+
+
+***
+![Hands on with Windows 11](https://images.idgesg.net/images/article/2021/06/windows-11-hero-shot-large-100892424-large.3x2.jpg "Hands on with Windows 11")
+
+
+[Hands on with Windows 11](https://www.pcworld.com/article/3621997/hands-on-with-windows-11.html)
+
+
+> Windows 11 is Microsoft's next operating system. It's here, it's real, and we're using a leaked version of it right now. Our hands-on offers an early look at what you can expect: the addition of a mammoth widgets drawer, an updated Windows 10X-like user interface, and more. On June 24, Microsoft will host a Windows event, promising 'what's next for Windows.' Microsoft teased the event with a graphic that showed light falling through a window to create a shadow that looked very much like the number 11.
+
+
