@@ -26245,3 +26245,50 @@
 > Source: Brooks Kraft/Apple Apple is awarding $5 million "Innovation Grants" to four historically Black colleges and universities (HBCUs) as part of its larger $100 million Racial Equity and Justice Initiative. As reported by USA Today, the three-year grants will support the universities' engineering schools. The three-year grants are part of the iPhone maker's New Silicon Initiative to help prepare students for careers in hardware technology and silicon chip design. Apple said the grants will support each university's engineering school as well as help expand emerging hardware technologies coursework and expertise, particularly in computer architecture and silicon engineering.
 
 
+***
+![Why This Caterpillar Analyst Wants More Clarity On Hydrogen, Rail Strategies](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/bulldozer-4045041_1920_1.jpg?width=720 "Why This Caterpillar Analyst Wants More Clarity On Hydrogen, Rail Strategies")
+
+
+[Why This Caterpillar Analyst Wants More Clarity On Hydrogen, Rail Strategies](https://www.benzinga.com/analyst-ratings/analyst-color/21/06/21609422/why-this-caterpillar-analyst-wants-more-clarity-on-hydrogen-rail-strategies)
+
+
+> Caterpillar Inc. (NYSE:CAT) shares were trading lower Thursday after one analyst said the company's rail and hydrogen initiatives leave much to be desired. The Caterpillar Analyst: Bank of America analyst Ross Gilardi reiterated a Neutral rating on Caterpillar with a $250 price target. Related Link: Lordstown Motors Analyst On CEO Departure: 'Interim C-Suite Team Appears To Be An Upgrade' The Caterpillar Takeaways: In a new note, Gilardi focused on Caterpillar's hydrogen and rail initiatives. Caterpillar has reported two Department of Energy awards related to hydrogen fuel cells in data centers.
+
+
+***
+![My Time at Sandrock Promises More Romance if 500k Wishlist Goal Hit](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/My%20Time%20at%20Sandrock.jpg?itok=mWJRTenD "My Time at Sandrock Promises More Romance if 500k Wishlist Goal Hit")
+
+
+[My Time at Sandrock Promises More Romance if 500k Wishlist Goal Hit](https://techraptor.net/gaming/news/my-time-at-sandrocks-wishlist-goals-makes-everyone-romanceable)
+
+
+> 06/17/2021 - 12:05 | By: Patrick Perrault You get a romance and you get a romance... everyone gets a romance! My Time at Sandrock has been doing pretty well for itself: a successful Kickstarter campaign has led to a successful wishlisting spree on Steam with over 250k wishlistings so far. So far it's been pretty tame up until this absolute romance bombshell dropped on Sandrock players like a ton of romanceable bricks, but because I'm feeling dramatic let's work our way up to it. Previously achieved goals include the ability to wear makeup at 100k wishlists, while at 150k players received the option of customizable furniture, which admittedly does sound pretty cool.
+
+
+***
+![Meghan McCain And Whoopi Goldberg Get Into An Tense Back-And-Forth On 'The View': 'You Can Be How You Always Are'](https://cdn.digg.com/wp-content/uploads/2021/06/17160333/Screen-Shot-2021-06-17-at-12.03.21-PM.jpg "Meghan McCain And Whoopi Goldberg Get Into An Tense Back-And-Forth On 'The View': 'You Can Be How You Always Are'")
+
+
+[Meghan McCain And Whoopi Goldberg Get Into An Tense Back-And-Forth On 'The View': 'You Can Be How You Always Are'](https://digg.com/video/meghan-mccain-and-whoopi-goldberg-get-into-an-ugly-back-and-forth-on-the-view-you-can-be-how-you-always-are)
+
+
+> KEEP IT SECRET, KEEP IT SAFE The world's greatest hoard of original Atari equipment is guarded by a very temperamental, very devoted dragon named Bradley. 'I DON'T CARE THAT YOU DON'T CARE' Meghan McCain And Whoopi Goldberg got into a war of words over Joe Biden on Thursday's edition of "The View." Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. The Maybach is one of the most expensive luxury vehicles on the road.
+
+
+***
+[Two arrested for selling COVID-19 vaccine packages online](https://soyacincau.com/2021/06/18/two-arrested-for-selling-covid-19-vaccine-packages-online/)
+
+
+> The Royal Malaysia Police has arrested two local individuals suspected of offering and selling COVID-19 vaccines on Facebook and over phone calls. According to Bukit Aman Commercial Crime Investigation Department director Datuk Mohd Kamarudin Md Din, they have arrested a 26-year-old man and a 27-year-old woman after a police report was lodged by a medical […] The post Two arrested for selling COVID-19 vaccine packages online appeared first on SoyaCincau.com.
+
+
+***
+![Writing custom metrics exporter for Kubernetes HPA](https://miro.medium.com/max/1200/1*chHEux9pl6LU1AXJOvGOpw.jpeg "Writing custom metrics exporter for Kubernetes HPA")
+
+
+[Writing custom metrics exporter for Kubernetes HPA](https://faun.pub/writing-custom-metrics-exporter-for-kubernetes-hpa-8a2601a53386)
+
+
+> Autoscaling Kubernetes pods have never been more straightforward with Horizontal Pod Autoscaler (HPA). HPA added an intuitive abstraction to effortlessly scale up or down pods dynamically based on some target metrics. However, according to the documentation, the HPA fetches these target metrics from the aggregated APIs, namely metrics.k8s.io, custom.metrics.k8s.io, and external.metrics.k8s.io. The metrics-server add-on made it even easier to autoscale pods w.r.t CPU/Mem usage as it provided the metrics.
+
+
