@@ -26107,3 +26107,50 @@
 > JAXA, Mitsubishu, Subaru and Kawasaki all working together on a project? This is very promising.
 
 
+***
+[how to extract values?](https://www.reddit.com/r/Python/comments/o1tmcb/how_to_extract_values/)
+
+
+> hi everyone im trying find the indices of numbers that are within a specific range (contained in a list labeled blocklist) from a numpy array "numlist". so far ive been able to get the indices but i dont know how to extract them, code:blocklist = [122.346, 133.592, 134.99, ] ff= np.array(numlist) print ff k=[] for i in range(0,len(blocklist)): print i s = blocklist[i]-0.1 print s st= blocklist[i]+0.1 print st rem = np.where(np.logical_and(ff>=s, ff<=st)) kk= rem[0] k.append(kk) the output im getting is,[array([], dtype=int64), array([6]), array([7])] I want to extract the 6 and 7 and save it in a list e.
+
+
+***
+![PS5 restock UK – live: Game PS5 consoles are in stock now, updates from ShopTo, AO and more](https://static.independent.co.uk/2021/06/15/16/PS5%20BLOG%202.jpg?width=1200&auto=webp&quality=75 "PS5 restock UK – live: Game PS5 consoles are in stock now, updates from ShopTo, AO and more")
+
+
+[PS5 restock UK – live: Game PS5 consoles are in stock now, updates from ShopTo, AO and more](https://www.independent.co.uk/extras/indybest/gadgets-tech/ps5-uk-live-stock-today-b1867573.html)
+
+
+> ExtrasIndyBestTechAlex LeeThursday 17 June 2021 11:03PS5 Launch – Play Has No LimitsUpdate: The PS5 is now in stock at Game and ShopTo. PS5 Currys VIP codes have been sent out. Read on for more information. The PS5 console may have been released more than six months ago, but if you're a gamer you'll know how hard it has been to get your hands on the device. Restock issues have been plaguing Sony since the initial reveal, and despite stores reopening in April in the UK as lockdown measures lift, it's still almost impossible to secure a console in-store (and still not easy online).
+
+
+***
+![Slack is finally adding this vital messaging feature](https://cdn.mos.cms.futurecdn.net/ARwmNkFCWPQ4PbcEHbVexN-1200-80.jpg "Slack is finally adding this vital messaging feature")
+
+
+[Slack is finally adding this vital messaging feature](https://www.techradar.com/news/slack-is-finally-adding-this-vital-messaging-feature)
+
+
+> (Image credit: Shutterstock / rafapress) Being woken up or otherwise disturbed by an out-of-hours Slack message should soon be a thing of the past thanks to a new update from the service.The online collaboration platform has announced a new Scheduled Send feature that will allow users to choose a specific time for a message to be delivered."When you have an important message to share in Slack but it's not the best time to send it quite yet, you can schedule it. Select a date and time in the future and rest assured your message will be sent whether you're at your desk or on the go," Slack said of Scheduled Send, which is live now and rolling out gradully to users.
+
+
+***
+![Remington Hydraluxe Pro EC9001 hair dryer review](https://cdn.mos.cms.futurecdn.net/GFXnFyh5SyqHv37TTgTo9g-1200-80.jpg "Remington Hydraluxe Pro EC9001 hair dryer review")
+
+
+[Remington Hydraluxe Pro EC9001 hair dryer review](https://www.techradar.com/reviews/remington-hydraluxe-pro-ec9001-hair-dryer-review)
+
+
+> Entering the market in 1937, Remington is a well-known name in hair care products. The brand offers a wide range of hair dryers to suit all budgets, and its top-of-the range devices include technology that will quickly blow-dry hair while retaining shine, ensuring your locks remain as healthy as possible. The Remington Hydraluxe Pro EC9001 is a high-grade hair dryer with a powerful digital motor, which Remington claims provides airflow speeds of up to 80mph / 160kmph, drying hair 50% faster than its existing 2200W models.
+
+
+***
+![Whether you're a gamer or a worker, here are the best Asus laptops for you](https://icdn.digitaltrends.com/image/digitaltrends/asus-zenbook-flip-s-14-ux461un-review-13.jpg "Whether you're a gamer or a worker, here are the best Asus laptops for you")
+
+
+[Whether you're a gamer or a worker, here are the best Asus laptops for you](https://www.digitaltrends.com/computing/best-asus-laptops/)
+
+
+> Asus isn't the biggest PC maker around, but nevertheless, the Tawainese company manages to offer a wide range of notebook PCs. Whether you're looking for a gaming notebook, a budget machine, a productivity-focused 2-in-1, or in some cases a mashup laptop that checks off more than one box, chances are that Asus will have something made just for you — and it's a great pick if you like Ryzen processors. While Asus doesn't offer many stratospherically expensive laptops as do Microsoft and Apple, it hits just about every other price point.
+
+
