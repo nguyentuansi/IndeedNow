@@ -26007,3 +26007,53 @@
 > Jun 5, 2013 1,682 1,311 Australia Just wondering if anyone has set their cMP up for game capture over HDMI, and video capture from old VHS/Betamax decks. Looking at options, ElGato support USB capture devices, but that would require a USB3 card, Blackmagic have their Fusion 4k card. Anyone have any recommendations as to what direction to go in?
 
 
+***
+![Nokia opens new O-RAN Collaboration and Testing Centre in the U.S.](https://itwire.com/media/k2/items/cache/9a7b95e3f2f85c9e05692da487b1c239_XS.jpg "Nokia opens new O-RAN Collaboration and Testing Centre in the U.S.")
+
+
+[Nokia opens new O-RAN Collaboration and Testing Centre in the U.S.](https://itwire.com/telecoms-and-nbn/nokia-opens-new-o-ran-collaboration-and-testing-centre-in-the-u-s.html)
+
+
+> Nokia announced that it has opened its first Open RAN (O-RAN) Collaboration and Testing Center at its offices in Dallas, Texas. The centre is designed to support the development of partnerships among O-RAN vendors that will help with the verification, introduction, and launch of O-RAN compliant solutions to market. Nokia say that vendors will be able to execute Interoperability Tests (IOT) and end-to-end testing for O-RU/O-DU Open Fronthaul as well as xAPP testing for Nokia's near-real-time RAN Intelligent Controller (RIC).
+
+
+***
+![Ericsson Mobility Report: More than half a billion 5G subscriptions by the end of 2021](https://itwire.com/media/k2/items/cache/d97bba78550b1fba872aec8aae30ed3e_XS.jpg "Ericsson Mobility Report: More than half a billion 5G subscriptions by the end of 2021")
+
+
+[Ericsson Mobility Report: More than half a billion 5G subscriptions by the end of 2021](https://itwire.com/telecoms-and-nbn/ericsson-mobility-report-more-than-half-a-billion-5g-subscriptions-by-the-end-of-2021.html)
+
+
+> Ericsson projects that 5G mobile subscriptions will exceed 580 million by the end of 2021, driven by an estimated one million new 5G mobile subscriptions every day. The forecast, which features in the twentieth edition of the Ericsson Mobility Report, builds the expectation that 5G will become the fastest adopted mobile generation. About 3.5 billion 5G subscriptions and 60% 5G population coverage are forecast by the end of 2026. However, the pace of adoption varies widely by region. Europe is off to a slower start and has continued to fall far behind China, the U.
+
+
+***
+![140 Python Project with Source Codes & +](https://external-preview.redd.it/NXlJ0F_hC2t8pEoJTSaQMUKjurffDAHi4380GqZ0xkw.jpg?auto=webp&s=4e30deabb45aa9d79f61f6459717bfc4e68039a7 "140 Python Project with Source Codes & +")
+
+
+[140 Python Project with Source Codes & +](https://www.reddit.com/r/Python/comments/o1psip/140_python_project_with_source_codes/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![SIG SolarCAD II: Solar Thermal Delivering 80°C Daily Even in Winter Months](https://mms.businesswire.com/media/20210616005846/en/885725/23/unnamed_%2821%29.jpg "SIG SolarCAD II: Solar Thermal Delivering 80°C Daily Even in Winter Months")
+
+
+[SIG SolarCAD II: Solar Thermal Delivering 80°C Daily Even in Winter Months](https://www.businesswire.com/news/home/20210616005846/en/SIG-SolarCAD-II-Solar-Thermal-Delivering-80%C2%B0C-Daily-Even-in-Winter-Months)
+
+
+> June 17, 2021 01:47 AM Eastern Daylight Time GENEVA--(BUSINESS WIRE)--The new SIG SolarCAD II solar thermal power plant, designed and installed by the Geneva-based TVP Solar and inaugurated in February this year, has proven its high performance in winter conditions. More than 157 MWh (1.92 kWh/m²/day) of solar hot water at over 80°C were delivered to the district heat network (CAD) between January and April, i.e. 30% of the annual energy performance target of 516 MWh set between the Services Industriels de Genève (SIG) and TVP Solar.
+
+
+***
+![JioFiber postpaid plans announced with zero installation charges](https://images.indianexpress.com/2021/06/JioFiber.jpg "JioFiber postpaid plans announced with zero installation charges")
+
+
+[JioFiber postpaid plans announced with zero installation charges](https://indianexpress.com/article/technology/techook/jiofiber-postpaid-plans-announced-with-zero-installation-charges-7362931/)
+
+
+> Reliance Jio has launched JioFiber postpaid plans that are already live on the official website. The telecom operator has announced that it will not charge JioFiber postpaid users for installation or a security deposit of the internet setup. It is offering 6 and 12 months postpaid plans. The prices are similar to the prepaid JioFiber plans. Read on to know more about the latest JioFiber broadband plans. Reliance Jio announces JioFiber postpaid plans The price of the JioFiber postpaid plans starts from Rs 2,394 (Plus GST), which is for six months.
+
+
