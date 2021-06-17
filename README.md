@@ -26339,3 +26339,53 @@
 > Want to own a flagship TV from your favorite TV brand but hate the idea of spending top-dollar? Consider this: Purchasing a refurbished TV could save you hundreds off the original sticker price of today's premium sets. While we can understand the apprehension that coincides with even just the term 'refurbished,' buying a rebuilt TV is often just as good (if not better) than opting for an all-new model. How so? Read on to learn everything you need to know about the dos and don'ts of purchasing a refurbished TV set.
 
 
+***
+![Tech stocks drive Nasdaq to higher close, as hawkish Fed limits S&P](https://www.reuters.com/resizer/8sNjo1N1B-ASuZWYL-Iioga5cks=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HT6XKU7WL5MKTPAEH7ERCNE5YI.jpg "Tech stocks drive Nasdaq to higher close, as hawkish Fed limits S&P")
+
+
+[Tech stocks drive Nasdaq to higher close, as hawkish Fed limits S&P](https://www.reuters.com/business/tech-stocks-drive-nasdaq-higher-close-hawkish-fed-limits-sp-2021-06-17/)
+
+
+> The New York Stock Exchange is pictured in the Manhattan borough of New York City, New York, U.S., April 16, 2021. REUTERS/Carlo Allegri/File PhotoJune 17 (Reuters) - Conviction in the strength of the economic recovery pushed investors into U.S. technology stocks on Thursday, driving the Nasdaq higher, although a post-Fed hangover limited a subdued S&P.The Dow slipped to a fourth straight closing loss, with investors still processing the Federal Reserve's unexpectedly hawkish message on monetary policy from the previous day, which projected the first post-pandemic interest rate hikes in 2023.
+
+
+***
+![Celebrate your dad by giving him some of the best Switch games](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/super-smash-bros-ultimate-nintendo.jpg "Celebrate your dad by giving him some of the best Switch games")
+
+
+[Celebrate your dad by giving him some of the best Switch games](https://www.imore.com/best-nintendo-switch-games-fathers-day)
+
+
+> The long running crossover brawler series is better than ever on the Nintendo Switch where if features an enormous and constantly growing roster of fighters that you can use to compete across a huge variety of stages. Super Smash Bros. Ultimate is one of the best Nintendo Switch games and it's a particularly great pick for dad since it's perfect for sharing some goofy competition with the family and has an excellent single player mode. Staff Pick Up to four people can play Mario Kart 8 Deluxe locally, racing around tracks from throughout the series' history or trying to knock out the competition in Battle Mode.
+
+
+***
+![Lattice Semiconductor Wins 2021 Fortress Cyber Security Award](https://mms.businesswire.com/media/20210617005231/en/810429/23/Lattice_logo.jpg "Lattice Semiconductor Wins 2021 Fortress Cyber Security Award")
+
+
+[Lattice Semiconductor Wins 2021 Fortress Cyber Security Award](https://www.businesswire.com/news/home/20210617005231/en/Lattice-Semiconductor-Wins-2021-Fortress-Cyber-Security-Award)
+
+
+> June 17, 2021 04:00 PM Eastern Daylight Time HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, today announced that the Lattice Sentry™ solution stack and the Lattice SupplyGuard™ supply chain security service won The Business Intelligence Group's 2021 Fortress Cyber Security Award in the Threat Detection category. The awards program seeks to identify and reward the world's leading companies and products that are working to keep data and electronic assets safe among a growing threat from hackers.
+
+
+***
+![H-E-B getting into cryptocurrency trend with new digital currency machines](https://s.hdnux.com/photos/01/16/33/56/20560826/3/rawImage.jpg "H-E-B getting into cryptocurrency trend with new digital currency machines")
+
+
+[H-E-B getting into cryptocurrency trend with new digital currency machines](https://www.mysanantonio.com/business/technology/article/San-Antonio-H-E-B-cryptocurrency-bitcoin-machines-16255644.php)
+
+
+> H-E-B is pledging to support equity and inclusion throughout Texas by highlighting underrepresented businesses.Courtesy, H-E-BSome H-E-B shoppers will soon be able to have their cake and crypto, too.Coin Cloud, a digital currency provider, announced it is depositing cryptocurrency machines into more than two dozen H-E-B stores as part of a massive expansion. The kiosks provide customers access to more than 30 digital cryptocurrencies, including Bitcoin, Ethereum, Dogecoin, Litecoin, several U.S. dollar stablecoins, and numerous DeFi tokens.
+
+
+***
+![Transform launches with $24.5M in funding for a tool to query and build metrics out of data troves – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/laptop-screen-mockup-of-a-macbook-pro-at-a-plain-background-60-el.png?w=764 "Transform launches with $24.5M in funding for a tool to query and build metrics out of data troves – TechCrunch")
+
+
+[Transform launches with $24.5M in funding for a tool to query and build metrics out of data troves – TechCrunch](https://techcrunch.com/2021/06/17/transform-metrics/)
+
+
+> The biggest tech companies have put a lot of time and money into building tools and platforms for their data science teams and those who work with them to glean insights and metrics out of the masses of data that their companies produce: how a company is performing, how a new feature is working, when something is broken, or when something might be selling well (and why) are all things you can figure out if you know how to read the data. Now, three alums that worked with data in the world of big tech have founded a startup that aims to build a 'metrics store' so that the rest of the enterprise world — much of which lacks the resources to build tools like this from scratch — can easily use metrics to figure things out like this, too.
+
+
