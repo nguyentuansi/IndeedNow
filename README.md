@@ -26154,3 +26154,47 @@
 > Asus isn't the biggest PC maker around, but nevertheless, the Tawainese company manages to offer a wide range of notebook PCs. Whether you're looking for a gaming notebook, a budget machine, a productivity-focused 2-in-1, or in some cases a mashup laptop that checks off more than one box, chances are that Asus will have something made just for you — and it's a great pick if you like Ryzen processors. While Asus doesn't offer many stratospherically expensive laptops as do Microsoft and Apple, it hits just about every other price point.
 
 
+***
+!["Give me the receipt with one hand?"... A teenage part-timer beaten to death](https://img.sbs.co.kr/newimg/news/20210615/201561208_1280.jpg ""Give me the receipt with one hand?"... A teenage part-timer beaten to death")
+
+
+["Give me the receipt with one hand?"... A teenage part-timer beaten to death](https://www.tellerreport.com/tech/2021-06-17-"give-me-the-receipt-with-one-hand-"----a-teenage-part-timer-beaten-to-death.r1Zcn92ds_.html)
+
+
+> It is a real-time e-news that looks at the news that became a hot topic on the Internet overnight. I've seen a lot of articles about a teenage part-timer working at a highway rest stop being assaulted indiscriminately by customers for 'receipts'. It is a real-time e-news that looks at the news that became a hot topic on the Internet overnight. I've seen a lot of articles about a teenage part-timer working at a highway rest stop being assaulted indiscriminately by customers for 'receipts'. On the 9th, at a highway rest area in Chungcheongnam-do, a man beat up an employee.
+
+
+***
+[Battlegrounds Mobile India launch TOMORROW? Check the latest BGMI release update HERE](https://www.zeebiz.com/technology/apps/news-battlegrounds-mobile-india-launch-tomorrow-check-the-latest-bgmi-release-update-here-158836)
+
+
+> Battlegrounds Mobile India download: After releasing the Battlegrounds Mobile India open beta version today, we can expect that PUBG game developers might launch the game on June 18 (tomorrow). Several leaks and reports suggested that game should release officially Friday.
+
+
+***
+![iPhone X and iOS 14.6](https://images.macrumors.com/social/?t=2301264&v=6 "iPhone X and iOS 14.6")
+
+
+[iPhone X and iOS 14.6](https://forums.macrumors.com/threads/iphone-x-and-ios-14-6.2301264/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Hydrosat raises $5M seed round to deliver ground temperature data to customers – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/2020-09-23-Thermal-003.png?w=421 "Hydrosat raises $5M seed round to deliver ground temperature data to customers – TechCrunch")
+
+
+[Hydrosat raises $5M seed round to deliver ground temperature data to customers – TechCrunch](https://techcrunch.com/2021/06/17/hydrosat-raises-5m-seed-round-to-deliver-ground-temperature-data-to-customers/)
+
+
+> A lot of information can be gleaned about a surface area just by taking the ground temperature data. If a crop field is under stress, for example, the ground temperature will be elevated long before there's any actual indication of the stress on the plant itself, Hydrosat CEO and co-founder Pieter Fossel explained to TechCrunch. Now, with a new $5 million injection in seed funding, he hopes to launch Hydrosat's first surface temperature analytics product for customers.The seed round was led by Cultivation Capital's newly launched Geospatial Technologies Fund with participation by Freeflow Ventures, the Yield Lab, Expon Capital, Techstars, Industrious Ventures, Synovia Capital, and the University of Michigan.
+
+
+***
+[Beamery, which develops software to manage hiring and retaining staff, raises $138M, sources say at a $800M valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210617/p9#a210617p9)
+
+
+> Ingrid Lunden / TechCrunch: Beamery, which develops software to manage hiring and retaining staff, raises $138M, sources say at a $800M valuation — Online job listings were one of the first things to catch on in the first generation of the internet. But that has, ironically, also meant that some of the most-used …
+
+
