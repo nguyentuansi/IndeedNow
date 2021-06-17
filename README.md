@@ -26057,3 +26057,53 @@
 > Reliance Jio has launched JioFiber postpaid plans that are already live on the official website. The telecom operator has announced that it will not charge JioFiber postpaid users for installation or a security deposit of the internet setup. It is offering 6 and 12 months postpaid plans. The prices are similar to the prepaid JioFiber plans. Read on to know more about the latest JioFiber broadband plans. Reliance Jio announces JioFiber postpaid plans The price of the JioFiber postpaid plans starts from Rs 2,394 (Plus GST), which is for six months.
 
 
+***
+![Amazon announces to cut its Appstore share for small developers](https://image-prod.iol.co.za/resize/650x366/File-picture-Reuters-Abhishek-N-Chinnappa?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/5ff655ec-30e5-55bd-9173-9d8f25a53ae9&operation=CROP&offset=0x274&resize=4862x2735 "Amazon announces to cut its Appstore share for small developers")
+
+
+[Amazon announces to cut its Appstore share for small developers](https://www.iol.co.za/technology/software-and-internet/amazon-announces-to-cut-its-appstore-share-for-small-developers-b8d32059-8133-4054-abc8-4b8882ad2de8)
+
+
+> File picture: Reuters/Abhishek N. ChinnappaShare this article:New Delhi - After Apple and Google, Amazon has now announced to let small developers earn more by reducing its cut in Appstore revenue.Starting in Q4, for developers that earn less than $1 million in revenue in the previous calendar year, Amazon said it is increasing developer revenue share and adding AWS (Amazon Web Services) credit options.This will bring total programme benefits up to an equivalent of 90 percent of revenue."When the programme launches, all qualifying small developers will receive an 80/20 revenue share by default.
+
+
+***
+![Google opens world's first Google Store and this is how it looks from inside](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/Screenshot_2021-06-17_at_12.42-647x363.png?D6PpVgvHsxwiyFFwEoLbVb8wu1T3yMLh "Google opens world's first Google Store and this is how it looks from inside")
+
+
+[Google opens world's first Google Store and this is how it looks from inside](https://www.indiatoday.in/technology/news/story/google-opens-world-s-first-google-store-and-this-is-how-it-looks-from-inside-1815974-2021-06-17)
+
+
+> Google has opened it first ever retail store in new York City .(Picture: Google)Google on Thursday opened its first-ever physical store in New York City.Customers visiting the retail store could also learn about the features of Google Pixel phones and Nest products.Google notes that every part of the store invites hands-on interaction with its products and services.Google on Thursday opened its first retail store in New York City. Google notes that the store will provide customers with hands-on interaction with its lineup of devices and services right from Pixel phones and Nest products to Fitbit wearables and Pixel books.
+
+
+***
+![Apple leads tablet market globally in Q1 2021; segment grew by 53% YoY](https://cdn.mos.cms.futurecdn.net/5gNPBVfykCYs6zpRGQAiKR-1200-80.jpg "Apple leads tablet market globally in Q1 2021; segment grew by 53% YoY")
+
+
+[Apple leads tablet market globally in Q1 2021; segment grew by 53% YoY](https://www.techradar.com/news/apple-leads-tablet-market-globally-in-q1-2021-segment-grew-by-53-yoy)
+
+
+> (Image credit: Srivatsa Ramesh) The global tablet market saw an improvement in terms of shipment amid the Covid-19 pandemic in Q1 2021. After a long time, the tablet market has seen big growth as the global tablet shipment grew by 53% YoY in Q1 2021. According to a report from Counterpoint, a research firm, the global tablet market saw a big revival during the pandemic, emerging from a long slump. Not so unsurprisingly, Apple led the pack with more than one-third of the market share. (Image credit: Counterpoint)Since the schools and colleges are still running on the online-only model in many countries, the demand for large-screen devices saw a big jump in Q1 2021.
+
+
+***
+![Trevor Noah reacts to Juneteenth becoming a national holiday](https://mondrian.mashable.com/2021%252F06%252F17%252Fce%252F98bd427765c346ce9b642fb947ae9ffd.9f243.jpg%252F1200x630.jpg?signature=8pCBOO28BAw32-Cc78K2xMQDUJY= "Trevor Noah reacts to Juneteenth becoming a national holiday")
+
+
+[Trevor Noah reacts to Juneteenth becoming a national holiday](https://mashable.com/video/juneteenth-national-holiday-trevor-noah/)
+
+
+> On Wednesday, U.S. Congress approved a bill to make Juneteenth a national holiday, the vote passing with an overwhelming 415-14 majority. President Biden is scheduled to sign the bill into law this Thursday, officially setting aside June 19 to remember the day in 1865 when enslaved people in Texas were finally told they were free. However, considering the less than stellar reputation the Republican party has regarding issues of race and their recent push to ban critical race theory from schools, the enormous bipartisan support of the Juneteenth bill came as a surprise to some.
+
+
+***
+![Japan assembles superteam of aircraft component manufacturers to build supersonic passenger plane](https://external-preview.redd.it/0wPMBT2FhIFlw7GS7BGPFJ40evDcZaDO2sZ7N114XMU.jpg?auto=webp&s=a8b430917c4d58a615333b0185488e09b2e75a62 "Japan assembles superteam of aircraft component manufacturers to build supersonic passenger plane")
+
+
+[Japan assembles superteam of aircraft component manufacturers to build supersonic passenger plane](https://www.reddit.com/r/technology/comments/o1rqjp/japan_assembles_superteam_of_aircraft_component/)
+
+
+> JAXA, Mitsubishu, Subaru and Kawasaki all working together on a project? This is very promising.
+
+
