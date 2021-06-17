@@ -25960,3 +25960,50 @@
 > GitLab today announced the expansion of its global partner program with new technology partner integrations and a new GitLab Certified Services partner program. The announcement furthers GitLab's place as a single application for the DevOps lifecycle, including integrations with Atlassian, Oracle Cloud, VMware, ServiceNow, Red Hat and others.
 
 
+***
+![Spotify takes on Clubhouse with Greenroom, app available on iOS and Android](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/Screenshot_2021-06-17_at_9.16.-647x363.png?Kk.82LaiQOTfb7LAW14HhrMLvQfSYT7W "Spotify takes on Clubhouse with Greenroom, app available on iOS and Android")
+
+
+[Spotify takes on Clubhouse with Greenroom, app available on iOS and Android](https://www.indiatoday.in/technology/news/story/spotify-takes-on-clubhouse-with-greenroom-app-available-on-ios-and-android-1815826-2021-06-17)
+
+
+> Spotify has launched its own live audio room app called Greenroom which will go up against Clubhouse.Unlike Twitter Spaces, Spotify Greenroom is a standalone app and can be downloaded from app stores.Spotify Greenroom is available in 135 markets around the world.There is clearly no dearth of live audio conversation app with Spotify joining the league. The music streaming company has launched its own live audio room app called Greenroom which will go up against Clubhouse, the popular live audio conversation app.
+
+
+***
+[Periscope Data](https://itwire.com/freelancer-sp-720/tag/Periscope%20Data.html)
+
+
+> Business analytics platform provider Sisense has achieved premier partner status with data cloud company Snowflake with its ‘optimised real-time live connector'.
+
+
+***
+![Arsht Center Launches Non-Fungible Tokens (NFTs) to Engage with Patrons in New Ways](https://mms.businesswire.com/media/20210616006054/en/885941/23/gold_card_still_1.jpg "Arsht Center Launches Non-Fungible Tokens (NFTs) to Engage with Patrons in New Ways")
+
+
+[Arsht Center Launches Non-Fungible Tokens (NFTs) to Engage with Patrons in New Ways](https://www.businesswire.com/news/home/20210616006054/en/Arsht-Center-Launches-Non-Fungible-Tokens-NFTs-to-Engage-with-Patrons-in-New-Ways)
+
+
+> June 16, 2021 11:30 PM Eastern Daylight Time MIAMI--(BUSINESS WIRE)--Non-Fungible Tokens (NFTs) offer a new opportunity to connect the visual and performing arts world in innovative ways. The Adrienne Arsht Center for the Performing Arts of Miami-Dade County has partnered with three recent graduates of New World School of the Arts' BFA program to create NFTs of unique digital collectibles as part of Lasting Impressions, a world premiere 3D visual art experience ending its critically-acclaimed run at the Arsht Center this week.
+
+
+***
+![Dialpad Strengthens Focus on Research and Development With India Team Expansion](https://mms.businesswire.com/media/20210616006035/en/885835/23/Amit_Profile.jpg "Dialpad Strengthens Focus on Research and Development With India Team Expansion")
+
+
+[Dialpad Strengthens Focus on Research and Development With India Team Expansion](https://www.businesswire.com/news/home/20210616006035/en/Dialpad-Strengthens-Focus-on-Research-and-Development-With-India-Team-Expansion)
+
+
+> June 16, 2021 11:30 PM Eastern Daylight Time BENGALURU, India--(BUSINESS WIRE)--Dialpad Inc., the industry leader in AI-powered communication and collaboration, today announced its India team expansion to support an increased focus on research and development. Dialpad is committed to driving the future of work with hybrid work for both the SMB and enterprise markets through product innovations for truly unified communications. With more than 70 employees throughout India working remotely and in its Bangalore office, and easily collaborating with more than 700 co-workers worldwide, Dialpad is leading hybrid work for cloud communications by example.
+
+
+***
+![Game capture and Tape digitisation](https://images.macrumors.com/social/?t=2301223&v=6 "Game capture and Tape digitisation")
+
+
+[Game capture and Tape digitisation](https://forums.macrumors.com/threads/game-capture-and-tape-digitisation.2301223/)
+
+
+> Jun 5, 2013 1,682 1,311 Australia Just wondering if anyone has set their cMP up for game capture over HDMI, and video capture from old VHS/Betamax decks. Looking at options, ElGato support USB capture devices, but that would require a USB3 card, Blackmagic have their Fusion 4k card. Anyone have any recommendations as to what direction to go in?
+
+
