@@ -25866,3 +25866,50 @@
 > Lincoln Motor will launch its first all-electric vehicle in 2022 followed by three other EVs as part of the luxury brand's goal to electrify its entire portfolio by the end of the decade. The first EV will come to market just in time for Lincoln's 100th birthday celebration — and nearly four years since initial reports emerged that the brand was aiming to electrify its lineup. Like GM's luxury brand Cadillac, Lincoln doesn't have an all-electric vehicle in its lineup. But Lincoln is keen to catch up and has set a lofty target for half of its global sales to be zero-emissions vehicles by 2025.
 
 
+***
+[At the summit, Biden told Putin that certain critical infrastructure should be "off-limits" to cyberattacks; Putin agreed to "begin consultations" on the issue (Reuters)](http://www.techmeme.com/210616/p48#a210616p48)
+
+
+> Reuters: At the summit, Biden told Putin that certain critical infrastructure should be “off-limits” to cyberattacks; Putin agreed to “begin consultations” on the issue — U.S. President Joe Biden told Russian President Vladimir Putin on Wednesday that certain critical infrastructure …
+
+
+***
+![Dark Was The Night, Cold Was The Ground and ‘Dark Was the Night': Film Review](https://https://www.thearkatech.com/img/news_img/all/13640_3_1200.pic "Dark Was The Night, Cold Was The Ground and ‘Dark Was the Night': Film Review")
+
+
+[Dark Was The Night, Cold Was The Ground and ‘Dark Was the Night': Film Review](https://www.thearkatech.com/en/68632/)
+
+
+> © Instagram / dark was the night By: Joshua Rodriguez2021-06-17 03:15:13 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: 'Get Close to Injustice' and 'Expect the Unexpected': Advice From This Year's Education Summit. Families testify in first day of Moore hit-and-run trial. Final public meeting held for Dubois County bike and pedestrian trail project. State And County Align On Masking (Keep Them Handy ). Prince Charles Made a Nod to Meghan Markle and Prince Harry at the Royal Ascot.
+
+
+***
+![Nine out of 10 health apps harvest user data, global study shows](https://i.guim.co.uk/img/media/627745a67d7be9035db4e31aff25700182342d1d/0_9_7360_4417/master/7360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a33fcdc174e56189eb8ca8f2d324bd76 "Nine out of 10 health apps harvest user data, global study shows")
+
+
+[Nine out of 10 health apps harvest user data, global study shows](http://www.theguardian.com/technology/2021/jun/17/nine-out-of-10-health-apps-harvest-user-data-global-study-shows)
+
+
+> Nine out of 10 mobile health apps collect and track user data, according to a new global study. The research published in the British Medical Journal conducted in-depth analysis of more than 20,000 mobile health apps on the Google Play Store, some of which require users to disclose sensitive health information, including step and calorie counters, apps that manage health conditions, symptom checkers and menstruation trackers.Muhammad Ikram, a lecturer at the Macquarie University Cyber Security Hub, said the vast majority (88%) were using 'tracking identifiers and cookies to track user activities on mobile devices, and some of these applications are actually using tracking across different platforms'.
+
+
+***
+![Hands-On: The Black Bay Ceramic Is Tudor's New Dark Star and Dark Star Jubilation at Legend Valley May 28 &amp; 29 with DSO • MUSICFESTNEWS](https://https://www.thearkatech.com/img/news_img/all/13639_3_1200.pic "Hands-On: The Black Bay Ceramic Is Tudor's New Dark Star and Dark Star Jubilation at Legend Valley May 28 &amp; 29 with DSO • MUSICFESTNEWS")
+
+
+[Hands-On: The Black Bay Ceramic Is Tudor's New Dark Star and Dark Star Jubilation at Legend Valley May 28 &amp; 29 with DSO • MUSICFESTNEWS](https://www.thearkatech.com/en/68631/)
+
+
+> © Instagram / dark star By: Christopher Taylor2021-06-17 03:14:14 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Dark Star Jubilation at Legend Valley May 28 & 29 with DSO • MUSICFESTNEWS and Hands-On: The Black Bay Ceramic Is Tudor's New Dark Star Who's hiring in Pittsburgh? Bosch, Carnegie Museums, CCAC and more — 6/17/21. Farmers and grain buyers react to severe drought possibility. 2021 WNT Summer Series: USA vs. Nigeria. Understanding Alzheimers and Dementia. 8,000 Homeless People to Be Moved From Hotels to Shelters, New York Says.
+
+
+***
+![Amy Duggar King continues to shade Duggars, says ‘God likes to shine light in dark places' and Avoid ‘dark places' with 3 Rs](https://https://www.thearkatech.com/img/news_img/all/13636_19_1200.pic "Amy Duggar King continues to shade Duggars, says ‘God likes to shine light in dark places' and Avoid ‘dark places' with 3 Rs")
+
+
+[Amy Duggar King continues to shade Duggars, says ‘God likes to shine light in dark places' and Avoid ‘dark places' with 3 Rs](https://www.thearkatech.com/en/68630/)
+
+
+> © Instagram / dark places Amy Duggar King continues to shade Duggars, says ‘God likes to shine light in dark places' and Avoid ‘dark places' with 3 Rs Avoid ‘dark places' with 3 Rs and Amy Duggar King continues to shade Duggars, says ‘God likes to shine light in dark places' Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Pittsburg: Woman convicted of misdemeanor manslaughter, felony hit and run in 2019 fatal crash. Prosecutor responds to 'inappropriate,' 'absurd' requests of Lori Vallow Daybell's attorney.
+
+
