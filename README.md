@@ -26198,3 +26198,50 @@
 > Ingrid Lunden / TechCrunch: Beamery, which develops software to manage hiring and retaining staff, raises $138M, sources say at a $800M valuation — Online job listings were one of the first things to catch on in the first generation of the internet. But that has, ironically, also meant that some of the most-used …
 
 
+***
+![How to reset your iPhone](https://icdn.digitaltrends.com/image/digitaltrends/iphone-7-plus-reset.jpg "How to reset your iPhone")
+
+
+[How to reset your iPhone](https://www.digitaltrends.com/mobile/how-to-reset-iphone/)
+
+
+> We've spent years with the iPhone and have discovered countless tips and tricks to get the most out of it, but it's always good to get a reminder of the basics. Something all Apple fans need to know is how to reset an iPhone. The steps used to be exactly the same on every device, but things have changed a little with the release of newer models in recent years. If you upgraded from an older iPhone model to the latest iPhone 12 Pro Max but have never needed to reset it, you may be at a loss as to how to begin the process.
+
+
+***
+![Google wants to help improve memory safety in Linux kernel](https://cdn.mos.cms.futurecdn.net/HVKrcBZzhDZ6z67ppRMnrn-1200-80.jpg "Google wants to help improve memory safety in Linux kernel")
+
+
+[Google wants to help improve memory safety in Linux kernel](https://www.techradar.com/news/google-wants-to-help-improve-memory-safety-in-linux-kernel)
+
+
+> (Image credit: Shutterstock.com / BEST-BACKGROUNDS) The non-profit Internet Security Research Group (ISRG), together with financial support from Google, has contracted Linux kernel developer Miguel Ojeda to work to bring the advantages of the Rust programming language to the Linux kernel.ISRG, which also supports the Let's Encrypt free SSL certification authority, has contracted Ojeda to work full-time on extending the use of Rust as a second language to the Linux kernel, which is written in C.
+
+
+***
+[Technologies Validation Group: using tests to detect COVID-19](https://www.gov.uk/guidance/technologies-validation-group-using-tests-to-detect-covid-19)
+
+
+> When tests to detect COVID-19 are commonly used (use cases) and what to consider when deciding which type of test to employ.
+
+
+***
+![Get a Blue Yeti mic on Amazon Prime Day if you're starting a podcast in 2021](https://cdn.mos.cms.futurecdn.net/fJX69LgsM5PuuqA2V6G2j6-1200-80.jpg "Get a Blue Yeti mic on Amazon Prime Day if you're starting a podcast in 2021")
+
+
+[Get a Blue Yeti mic on Amazon Prime Day if you're starting a podcast in 2021](https://www.techradar.com/news/get-a-blue-yeti-mic-on-amazon-prime-day-if-youre-starting-a-podcast-in-2021)
+
+
+> During the pandemic last year, I joined many other embarrassing men in their thirties by starting my own podcast (you can find it here and it's about games, if you fancy listening to it). With a good enough internet connection and a co-host you get along with, you can make a decent podcast from home no problem – you just need the right mic to do it.The Blue Microphones Yeti has long been cited as the USB microphone to get if you're a budding streamer or a podcaster, and it's worth considering one for Amazon Prime Day 2021 if they get a discount.
+
+
+***
+![Apple is awarding $5 million in grants to 4 historically Black universities](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/tim-cook-people_0.jpg "Apple is awarding $5 million in grants to 4 historically Black universities")
+
+
+[Apple is awarding $5 million in grants to 4 historically Black universities](https://www.imore.com/apple-awarding-5-million-grants-4-historically-black-universities)
+
+
+> Source: Brooks Kraft/Apple Apple is awarding $5 million "Innovation Grants" to four historically Black colleges and universities (HBCUs) as part of its larger $100 million Racial Equity and Justice Initiative. As reported by USA Today, the three-year grants will support the universities' engineering schools. The three-year grants are part of the iPhone maker's New Silicon Initiative to help prepare students for careers in hardware technology and silicon chip design. Apple said the grants will support each university's engineering school as well as help expand emerging hardware technologies coursework and expertise, particularly in computer architecture and silicon engineering.
+
+
