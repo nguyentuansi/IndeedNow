@@ -26292,3 +26292,50 @@
 > Autoscaling Kubernetes pods have never been more straightforward with Horizontal Pod Autoscaler (HPA). HPA added an intuitive abstraction to effortlessly scale up or down pods dynamically based on some target metrics. However, according to the documentation, the HPA fetches these target metrics from the aggregated APIs, namely metrics.k8s.io, custom.metrics.k8s.io, and external.metrics.k8s.io. The metrics-server add-on made it even easier to autoscale pods w.r.t CPU/Mem usage as it provided the metrics.
 
 
+***
+![Sickos behind celebrity porn deepfakes can now be exposed by Facebook](https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/COMP_RR_DEEPFAKES.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Sickos behind celebrity porn deepfakes can now be exposed by Facebook")
+
+
+[Sickos behind celebrity porn deepfakes can now be exposed by Facebook](https://www.the-sun.com/lifestyle/tech/3104305/celebrity-porn-deepfakes-exposed-facebook/)
+
+
+> FACEBOOK is cracking down on fake images used to mislead its users. Scientists at the US tech titan said Wednesday that they developed software to not only identify "deepfake" images but figure out where they came from. Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on Facebook, WhatsApp and Instagram Compilation of real photos and 'deepfakes' created using artificial intelligenceCredit: Facebook Deepfakes are photos, videos or audio clips altered using artificial intelligence to appear authentic.
+
+
+***
+[Sickos behind celebrity porn deepfakes can now be exposed by Facebook](https://www.thesun.ie/tech/7157712/celebrity-porn-deepfakes-exposed-facebook/)
+
+
+> FACEBOOK is cracking down on fake images used to mislead its users. Scientists at the US tech titan said Wednesday that they developed software to not only identify “deepfake” images but figure out where they came from. Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on Facebook, […]
+
+
+***
+![MacRumors Giveaway: Nomad Celebrates International Surf Day With an Apple Watch Prize](https://images.macrumors.com/t/cKHicUYYvYL6TKmk_BfU4FJEdks=/2000x/https://images.macrumors.com/article-new/2021/06/nomad-apple-watch-surfing.jpg "MacRumors Giveaway: Nomad Celebrates International Surf Day With an Apple Watch Prize")
+
+
+[MacRumors Giveaway: Nomad Celebrates International Surf Day With an Apple Watch Prize](https://www.macrumors.com/2021/06/17/nomad-apple-watch-giveaway/)
+
+
+> In honor of International Surfing Day, we're teaming up with Nomad to offer MacRumors readers a chance to win an Apple Watch Series 6 and a $200 Nomad gift card. Nomad is celebrating International Surfing Day by highlighting just how useful the Apple Watch is when surfing. In fact, Nomad believes that the Apple Watch is the ultimate surf watch. The Apple Watch is highly water resistant, and it's more than durable enough to stand up to sand and sea water. It can be worn in the water while surfing, especially when you have the right band, but make sure to rinse your Apple Watch with fresh water after it's been exposed to salt water.
+
+
+***
+![Best Android smartwatch 2021: what to wear on your wrist if you have an Android](https://cdn.mos.cms.futurecdn.net/DxpaKaHPBL5yF8vBjh2MjX-1200-80.jpg "Best Android smartwatch 2021: what to wear on your wrist if you have an Android")
+
+
+[Best Android smartwatch 2021: what to wear on your wrist if you have an Android](https://www.techradar.com/news/best-android-smartwatch)
+
+
+> When looking for the best Android smartwatch, there's a lot to think about. You'll need to consider what great features you want most such as exercise tracking or something more advanced like heart rate monitoring or GPS functionality, but you'll also want to think about what style suits your look the best. And, of course, you'll need to have a think about what your budget is too. We've tested all the key watch-like wearables on the market to help you decide which devices best meet these criteria so that you can find the one that works for you.
+
+
+***
+![How to buy a refurbished TV the right way: Everything you need to know](https://icdn.digitaltrends.com/image/digitaltrends/tcl-r745-review-yt-00_01_16_14-still017.jpg "How to buy a refurbished TV the right way: Everything you need to know")
+
+
+[How to buy a refurbished TV the right way: Everything you need to know](https://www.digitaltrends.com/home-theater/should-you-buy-a-refurbished-tv-buying-advice/)
+
+
+> Want to own a flagship TV from your favorite TV brand but hate the idea of spending top-dollar? Consider this: Purchasing a refurbished TV could save you hundreds off the original sticker price of today's premium sets. While we can understand the apprehension that coincides with even just the term 'refurbished,' buying a rebuilt TV is often just as good (if not better) than opting for an all-new model. How so? Read on to learn everything you need to know about the dos and don'ts of purchasing a refurbished TV set.
+
+
