@@ -25913,3 +25913,50 @@
 > © Instagram / dark places Amy Duggar King continues to shade Duggars, says ‘God likes to shine light in dark places' and Avoid ‘dark places' with 3 Rs Avoid ‘dark places' with 3 Rs and Amy Duggar King continues to shade Duggars, says ‘God likes to shine light in dark places' Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Pittsburg: Woman convicted of misdemeanor manslaughter, felony hit and run in 2019 fatal crash. Prosecutor responds to 'inappropriate,' 'absurd' requests of Lori Vallow Daybell's attorney.
 
 
+***
+![Python 3.x for Newbies Tutorial](https://external-preview.redd.it/7KzSaQwN0KMCp1k8whhSYRjMr6NqewbfViJ3Qd0y6aY.jpg?auto=webp&s=c10628ba402a4f80b552ca8c535c6d1e0bb4a3d4 "Python 3.x for Newbies Tutorial")
+
+
+[Python 3.x for Newbies Tutorial](https://www.reddit.com/r/Python/comments/o1lvlm/python_3x_for_newbies_tutorial/)
+
+
+> I finally got around to updating my Python for Newbies Tutorial. I originally wrote it in 2001. Ten years latter I posted it online in my blog. Ten more years gone by and I have updated it to Python 3.x code. My blog has no adds whatsoever. So, I am not seeking to monetize it in any way. I am publishing it online as an expression of gratitude to all that the Python creators and maintainers for all they have done for me by offering such a wonderful programming language, library, and community, at no expense of my own.
+
+
+***
+![Watch China launch rocket in first crewed mission in 5 years](https://icdn.digitaltrends.com/image/digitaltrends/china-rocket-launch-2.jpg "Watch China launch rocket in first crewed mission in 5 years")
+
+
+[Watch China launch rocket in first crewed mission in 5 years](https://www.digitaltrends.com/news/watch-china-launch-rocket-in-first-crewed-mission-in-5-years/)
+
+
+> China has successfully launched its first crewed mission in five years as the nation continues with the expansion of its ambitious space program. A Long March-2F rocket carrying three astronauts blasted off from a launch site in the Gobi desert in the northwest of the country shortly after 9:20 a.m. local time on Thursday, 17 June (9:20 p.m. ET, Wednesday). Astronauts Nie Haisheng, Liu Boming, and Tang Hongbo are now on their way to China's under-construction space station on the Shenzhou-12 spacecraft.
+
+
+***
+![Shenzhou-12: China launches first crew to new space station](https://external-preview.redd.it/t4L9tt6ohfn8Mg1mc4qUNcjnnxaQUtunzhPAyvvBafg.jpg?auto=webp&s=8e46b1dd5814f43112f5bd4199c076e058786670 "Shenzhou-12: China launches first crew to new space station")
+
+
+[Shenzhou-12: China launches first crew to new space station](https://www.reddit.com/r/technology/comments/o1lsc5/shenzhou12_china_launches_first_crew_to_new_space/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![4-Day Workweek Boosted Workers' Productivity By 40%, Microsoft Japan Says](https://external-preview.redd.it/FcNuXm09fsJyIAP3_5Diz3NgBPPn9ZD8lR6XyqoCyFQ.jpg?auto=webp&s=d6dd10e59c3f85fa6e53ebb98f0b923968b26b87 "4-Day Workweek Boosted Workers' Productivity By 40%, Microsoft Japan Says")
+
+
+[4-Day Workweek Boosted Workers' Productivity By 40%, Microsoft Japan Says](https://www.reddit.com/r/technology/comments/o1lies/4day_workweek_boosted_workers_productivity_by_40/)
+
+
+> Mean while, everyone in my company stops work early Thursday to make it a 4 day week end.
+
+
+***
+[Michelle Hodges](https://itwire.com/freelancer-sp-720/tag/Michelle%20Hodges.html)
+
+
+> GitLab today announced the expansion of its global partner program with new technology partner integrations and a new GitLab Certified Services partner program. The announcement furthers GitLab's place as a single application for the DevOps lifecycle, including integrations with Atlassian, Oracle Cloud, VMware, ServiceNow, Red Hat and others.
+
+
