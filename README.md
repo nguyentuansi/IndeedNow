@@ -26389,3 +26389,53 @@
 > The biggest tech companies have put a lot of time and money into building tools and platforms for their data science teams and those who work with them to glean insights and metrics out of the masses of data that their companies produce: how a company is performing, how a new feature is working, when something is broken, or when something might be selling well (and why) are all things you can figure out if you know how to read the data. Now, three alums that worked with data in the world of big tech have founded a startup that aims to build a 'metrics store' so that the rest of the enterprise world — much of which lacks the resources to build tools like this from scratch — can easily use metrics to figure things out like this, too.
 
 
+***
+![14.6 update missing?](https://images.macrumors.com/social/?t=2301333&v=6 "14.6 update missing?")
+
+
+[14.6 update missing?](https://forums.macrumors.com/threads/14-6-update-missing.2301333/)
+
+
+> Oct 13, 2008 415 11 Jersey, Channel Isles My wife's 11Pro is on 14.5.1 - she had a notification to update a few days ago but dismissed it. Now we cannot get the update. General About says 14.5.1, Software Update says it's up to date. Tried restarting it, no change. Anyone else seen this or any ideas? Thanks
+
+
+***
+![National Republican Congressional Committee Will Accept Cryptocurrency Donations](https://media.breitbart.com/media/2020/10/GettyImages-1151042267-640x335.png "National Republican Congressional Committee Will Accept Cryptocurrency Donations")
+
+
+[National Republican Congressional Committee Will Accept Cryptocurrency Donations](https://www.breitbart.com/tech/2021/06/17/national-republican-congressional-committee-will-accept-cryptocurrency-donations/)
+
+
+> The The National Republican Congressional Committee (NRCC), the official GOP body which works to elect Republican members of congress, will accept donations in cryptocurrency, members of the committee told Axios. This move by the NRCC makes it the first national party committee to accept donations in cryptocurrency, although donations will be immediately converted into dollars before arriving in the NRCC account. The NRCC told Axios that it will use BitPay, a popular cryptocurrency payment processing service aimed at merchants.
+
+
+***
+![Which refurbished iPad?](https://images.macrumors.com/social/?t=2301332&v=6 "Which refurbished iPad?")
+
+
+[Which refurbished iPad?](https://forums.macrumors.com/threads/which-refurbished-ipad.2301332/)
+
+
+> Upgrading from my old IPad pro 9.7. I have a budget of £500 and wondering which you would get: iPad pro 10.5" 64gb from the apple refurb store, on sale for £359 iPad pro 11" 64gb from third party refurbisher for £489 I definitely don't need more than 64gb. Using it mostly for sketching initial ideas, creating social media images (doing video on my phone), planning and note taking and browsing the web. I use my laptop for more intense tasks. Thanks Oct 25, 2013 10,852 7,369 Is the 11" not available via Apple refurb store? In the US Apple refurb, 64GB Pro 10.
+
+
+***
+![Bokhari: Democrat Led Antitrust Bills Are a Massive Gamble](https://media.breitbart.com/media/2019/12/David-Cicilline-640x335.jpg "Bokhari: Democrat Led Antitrust Bills Are a Massive Gamble")
+
+
+[Bokhari: Democrat Led Antitrust Bills Are a Massive Gamble](https://www.breitbart.com/tech/2021/06/17/bokhari-democrat-antitrust-massive-gamble/)
+
+
+> The antitrust subcommittee of the House Judiciary Committee recently released five highly anticipated bills aimed at curbing the power of the Big Tech companies. The House is currently under the control of the Democrats, but these bills have been pitched as a bipartisan effort, led by subcommittee chairman Rep. David Cicilline (D-RI) and ranking member Rep. Ken Buck (R-CO). Republicans have developed an unfortunate habit of backing 'anti-Big Tech' bills without looking too closely at the details.
+
+
+***
+![PS5 restock update: Sony Direct sold out in 23 minutes – when to buy it next](https://cdn.mos.cms.futurecdn.net/FKPFKFC4ictBCPWWCrWnSC-1200-80.jpg "PS5 restock update: Sony Direct sold out in 23 minutes – when to buy it next")
+
+
+[PS5 restock update: Sony Direct sold out in 23 minutes – when to buy it next](https://www.techradar.com/news/ps5-restock-today-best-buy-and-sony-direct)
+
+
+> Update: If you missed the Sony Direct PS5 restock today, or Walmart restock before that, then you're probably not following our PS5 restock Twitter tracker Matt Swider, who will send you an alert when the console is in stock – if you follow his account and turn on notifications.Trust and credibility: Matt Swider has helped 43,000 people (likely a lot more after today's massive PS5 restock in the US) get a next-gen console in recent weeks. How? With his in-stock Twitter alerts, 24/7 tracking and restock news reporting.
+
+
