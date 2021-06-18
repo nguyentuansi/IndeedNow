@@ -26489,3 +26489,44 @@
 > © Instagram / dark crimes Blu-ray Review: Jim Carrey's 'Dark Crimes' Is No Felony, Just A Cinematic Misdemeanor and Review: Jim Carrey displays a new dimension in grim, exploitative police procedural 'Dark Crimes' Blu-ray Review: Jim Carrey's 'Dark Crimes' Is No Felony, Just A Cinematic Misdemeanor and Review: Jim Carrey displays a new dimension in grim, exploitative police procedural 'Dark Crimes' Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Review: Jim Carrey displays a new dimension in grim, exploitative police procedural 'Dark Crimes' and Blu-ray Review: Jim Carrey's 'Dark Crimes' Is No Felony, Just A Cinematic Misdemeanor As Texas Builds a 'Hempire' and Cannabis Laws Ease in Baby Steps, Lucky Leaf Expo Returns to Irving July 9-10 » Dallas Innovates.
 
 
+***
+![Upgrade from 2014 5k iMac to M1 Mini](https://images.macrumors.com/social/?t=2301355&v=6 "Upgrade from 2014 5k iMac to M1 Mini")
+
+
+[Upgrade from 2014 5k iMac to M1 Mini](https://forums.macrumors.com/threads/upgrade-from-2014-5k-imac-to-m1-mini.2301355/)
+
+
+> I'm a grad student, so I qualify for the back to school promo and education pricing. So airpods along with a $650 M1 Mac Mini. I presently have a 5k iMac, late 2014. Still runs fine, is in good condition. Been happy with it all these years, has lasted me longer than any other Mac I've owned. I'd miss it. Depending on which trade in site I use, I can get around $450 for it. This basically means I can get an M1 for a little more than the cost of a pair of airpods (and I don't need the airpods, so…).
+
+
+***
+[Battleground Mobile: A Replica of PUBG, With Minor Tweaks](https://www.thequint.com/tech-and-auto/battleground-mobile-gameplay-and-comparison-with-pubg-mobile)
+
+
+> The Quint got an early access to the game and found the Battleground Mobile India experience is just like PUBG.
+
+
+***
+![Tangerine, TPG, Aussie Broadband and Spintel win big in 2021 Mozo NBN awards](https://cdn.mos.cms.futurecdn.net/JBP65Xq8vfWbQXBeUR5bc4-1200-80.jpg "Tangerine, TPG, Aussie Broadband and Spintel win big in 2021 Mozo NBN awards")
+
+
+[Tangerine, TPG, Aussie Broadband and Spintel win big in 2021 Mozo NBN awards](https://www.techradar.com/news/tangerine-tpg-aussie-broadband-and-spintel-win-big-in-2021-mozo-nbn-awards)
+
+
+> (Image credit: Getty Images) TechRadar sister site Mozo has today officially announced the winners of its Experts Choice Awards  for the best NBN providers and plans in Australia for 2021. These new expert picks follow on from the comparison site's People's Choice Awards for NBN , which were announced in May.Based on Mozo's expert research and number crunching, Tangerine took home the title of best overall NBN provider of the year, thanks to its super competitive pricing and great value for its NBN 25, NBN 50 and NBN 100 plans – by far the three most popular speed tiers in Australia.
+
+
+***
+[Seattle-based Leafly, which runs an online marketplace for cannabis, raises $23M from existing investors; Leafly has 120M annual visitors (Laurel Deppen/GeekWire)](http://www.techmeme.com/210617/p37#a210617p37)
+
+
+> Laurel Deppen / GeekWire: Seattle-based Leafly, which runs an online marketplace for cannabis, raises $23M from existing investors; Leafly has 120M annual visitors — Seattle-based online cannabis marketplace Leafly has closed $23 million in new funding, GeekWire confirmed with the company.
+
+
+***
+[Ribosome – A simple generic code generation tool](https://www.reddit.com/r/programming/comments/o2dsux/ribosome_a_simple_generic_code_generation_tool/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
