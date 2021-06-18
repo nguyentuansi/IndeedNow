@@ -26621,3 +26621,50 @@
 > Popular social media platform Snapchat is removing a feature known as the "Speed Filter" that lets users capture how fast they are driving and then share it with friends. The move is a dramatic reversal for Snap which introduced the feature in 2013. Since then, "Snap has defended the feature in the face of warnings from safety advocates who've argued that it encourages reckless driving", reports NPR. The company has also faced lawsuits from the families of those who have been injured or killed in car crashes where drivers were moving at excessive speeds, allegedly to score bragging rights on the app.
 
 
+***
+![Ten years of data breaches: LinkedIn, Dropbox, Facebook, and more](https://external-preview.redd.it/GNUiEoi_iXRC7W44e78s5Vkq8SmetnDY5N9JBr8o_xQ.jpg?auto=webp&s=db81efaa0e67539977f72bc6c9f8f8a5238e1655 "Ten years of data breaches: LinkedIn, Dropbox, Facebook, and more")
+
+
+[Ten years of data breaches: LinkedIn, Dropbox, Facebook, and more](https://www.reddit.com/r/technology/comments/o2jwrd/ten_years_of_data_breaches_linkedin_dropbox/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Updated Anagram Solver with Python Enchant Module](https://www.reddit.com/r/Python/comments/o2jthe/updated_anagram_solver_with_python_enchant_module/)
+
+
+> My version of an Anagram Solver that can find all the words that can be formed using the letters of the word that the user inputs. It uses enchant module for validating the words and itertools module for finding different permutations and combinations. If anyone has any suggestions on how I can optimize the code, please share it with me so I can change it:https://thepygrammer.blogspot.com/2021/04/simple-anagram-solver.html
+
+
+***
+![Flight Sim's Nordics World Update Tackles Iceland And The Lego House](https://mk0uploadvrcom4bcwhj.kinstacdn.com/wp-content/uploads/2021/06/Microsoft-Flight-Simulator-Lego-House-325x186.jpg "Flight Sim's Nordics World Update Tackles Iceland And The Lego House")
+
+
+[Flight Sim's Nordics World Update Tackles Iceland And The Lego House](https://uploadvr.com/flight-sim-nordics-update/)
+
+
+> Flight Sim's stunning Nordic update brings The Lego House to VR.
+
+
+***
+![The 30 Best Python Libraries and Packages for Beginners](https://external-preview.redd.it/R965fXGqP6G0kI9-fpdN7-3BwDbr4DLFH8GM4gc5ep8.jpg?auto=webp&s=b13f1742d047ecaf9a550dc83d37fa4af5ded11a "The 30 Best Python Libraries and Packages for Beginners")
+
+
+[The 30 Best Python Libraries and Packages for Beginners](https://www.reddit.com/r/Python/comments/o2jpn3/the_30_best_python_libraries_and_packages_for/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Check out this Filipina-made tabletop RPG that's raised $56,000 on Kickstarter](https://assets2.rappler.com/2021/06/arc-tabletop-rpg-1623999458914.jpeg "Check out this Filipina-made tabletop RPG that's raised $56,000 on Kickstarter")
+
+
+[Check out this Filipina-made tabletop RPG that's raised $56,000 on Kickstarter](https://www.rappler.com/technology/gaming/arc-tabletop-rpg-momatoes-kickstarter-milestone)
+
+
+> Canoza said that the game follows along with her "long-term advocacy to uplift the SEA [tabletop] community." Canoza, known as momatoes in the scene, is also the creator of the Across RPGSEA website, which tackles SEA-made tabletop RPGs. Her other current tabletop projects include The Magus, which will soon be printed in Italy; and Orbital Blues, where she's part of the writing team.
+
+
