@@ -26668,3 +26668,53 @@
 > Canoza said that the game follows along with her "long-term advocacy to uplift the SEA [tabletop] community." Canoza, known as momatoes in the scene, is also the creator of the Across RPGSEA website, which tackles SEA-made tabletop RPGs. Her other current tabletop projects include The Magus, which will soon be printed in Italy; and Orbital Blues, where she's part of the writing team.
 
 
+***
+![Best Prime Day Kindle Deals 2021: All the best deals right now](https://icdn.digitaltrends.com/image/digitaltrends/best-ebook-apps-amazon-kindle-unlimited-4-2.jpg "Best Prime Day Kindle Deals 2021: All the best deals right now")
+
+
+[Best Prime Day Kindle Deals 2021: All the best deals right now](https://www.digitaltrends.com/dtdeals/best-prime-day-kindle-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Prime Day deals are rolling out next week with Amazon Prime Day 2021 arriving June 21 and June 22. As you might expect, we're expecting to see plenty of awesome Prime Day Kindle sales. Amazon loves to discount its own products during Prime Day and we're expecting Prime Day 2021 to be the same. Some deals have already begun, so here's a look at what Prime Day Kindle deals to expect, which are live, and whether you should buy one on Prime Day.
+
+
+***
+![Kidslox parental control software review](https://cdn.mos.cms.futurecdn.net/2D27KMRcmqndGeF4FAJCnb-1200-80.jpg "Kidslox parental control software review")
+
+
+[Kidslox parental control software review](https://www.techradar.com/reviews/kidslox-parental-control-software)
+
+
+> Kidslox is an interesting parental control system which offers a stack of features on iOS and Android, and has more limited versions for desktops, too.Built-in content filtering automatically blocks inappropriate sites, and support for Google's Safe Search and YouTube's Restricted Mode limits what your child can find. You can quickly block access to groups of apps, and the Daily Limits feature restricts device usage to a defined figure each day.Early Prime Day deals: see all the best early offers right here.
+
+
+***
+![Facebook's 'Neighborhoods' faces crowded niche market, profiling concerns](https://www.reuters.com/resizer/xSK0lXqFPy21aYUzWPODohQvJWE=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M3XFVJYSGVO3TDRKEJ3M73GKZY.jpg "Facebook's 'Neighborhoods' faces crowded niche market, profiling concerns")
+
+
+[Facebook's 'Neighborhoods' faces crowded niche market, profiling concerns](https://www.reuters.com/technology/facebooks-neighborhoods-faces-crowded-niche-market-profiling-concerns-2021-06-18/)
+
+
+> Silhouettes of mobile users are seen next to a screen projection of Facebook logo in this picture illustration taken March 28, 2018. REUTERS/Dado Ruvic/IllustrationJune 18 (Reuters) - When Facebook (FB.O) began testing its new "Neighborhoods" feature in Canada last October amid the COVID-19 pandemic, the tech giant described it as a dedicated place for people to connect with their local communities.Here, in a corner of the world's largest social network, people met neighbors, shared banana bread ingredients, helped locate missing cats and swapped local business recommendations, the feature's product manager Reid Patton said in a recent interview.
+
+
+***
+![Exclusive poll: Broad public support for new tech regulations](https://images.axios.com/w65tBeHLovzrloz8bAMfFgNyYDg=/0x0:1920x1080/1366x768/2021/06/18/1623987068128.jpg "Exclusive poll: Broad public support for new tech regulations")
+
+
+[Exclusive poll: Broad public support for new tech regulations](https://www.axios.com/poll-support-tech-regulations-37a29100-2c0f-4225-9ea8-71f8546663d6.html)
+
+
+> On the heels of the new House bills and Khan's ascent to the head of the FTC, new polling from left-leaning polling firm Data Progress shared exclusively with Axios shows support for stricter regulation of technology platforms.Context: The poll comes as members of Congress have introduced new antitrust proposals and the Biden administration appointed a new chair for the Federal Trade Commission known for backing stronger enforcement. By the numbers: A survey of 1,203 likely voters taken May 14-17 finds that 82% of respondents are somewhat or very concerned about children being radicalized by online content and 76% somewhat or very concerned about becoming addicted to online platforms.
+
+
+***
+![James Corden and Marcus Rashford surprising kids while playing 'FIFA' is adorable](https://mondrian.mashable.com/2021%252F06%252F18%252F4d%252F857b0d8911be42159ba6e710aac6dfde.c57ea.jpg%252F1200x630.jpg?signature=09wAyiTHEiFhOwVDXgRubNUab1U= "James Corden and Marcus Rashford surprising kids while playing 'FIFA' is adorable")
+
+
+[James Corden and Marcus Rashford surprising kids while playing 'FIFA' is adorable](https://mashable.com/video/james-corden-marcus-rashford-surprise-kids/)
+
+
+> Marcus Rashford is a very busy man. When he's not playing professional football for Manchester United or representing England at the Euros he's also campaigning to end child food poverty, launching his own book club and now, apparently, linking up with James Corden for a spot of online video gaming. In the clip above from The Late Late Show, Corden and Rashford take each other on in FIFA 21, before going up against (and largely getting beaten by) various groups of small children. The real highlight, though, is when they turn their cameras on at the end and the kids realise they've just scored a goal against Marcus Rashford himself.
+
+
