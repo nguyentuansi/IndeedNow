@@ -26530,3 +26530,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Dogecoin Co-Founder's Crappy Doodle NFT, Made In His 'Underwear,' Sells For 1500x Over Asking Price](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/kristin-brown-3kbtyrz0-hw-unsplash.jpg?width=720 "Dogecoin Co-Founder's Crappy Doodle NFT, Made In His 'Underwear,' Sells For 1500x Over Asking Price")
+
+
+[Dogecoin Co-Founder's Crappy Doodle NFT, Made In His 'Underwear,' Sells For 1500x Over Asking Price](https://www.benzinga.com/markets/cryptocurrency/21/06/21620349/dogecoin-co-founders-crappy-doodle-nft-made-in-his-underwear-sells-for-1500x-over-asking-p)
+
+
+> Dogecoin (CRYPTO: DOGE) co-creator Billy Markus' 'Crappy Dogecoin Doodle' non-fungible token, or NFT, art that he created in his "underwear" just like the meme coin, attracted a bid of $3,192. What Happened: The NFT is a digital image that states 'Dog Money Is THE FUTURE' above a supposed image of a Dogecoin. The artwork is embellished with several scribbles like 'such art,' 'wow,' and 'many effort.' Screenshot From Rarible, an NFT Marketplace Markus said on Twitter on Thursday that the bid was 1500 times above his initial asking price and told his followers on the social media platform that he would 'keep making them if people want them.
+
+
+***
+![Fevicol turns Ronaldo's Coca-Cola snub into an advertising moment](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/fevicol_505_180621090655.jpg "Fevicol turns Ronaldo's Coca-Cola snub into an advertising moment")
+
+
+[Fevicol turns Ronaldo's Coca-Cola snub into an advertising moment](https://www.businesstoday.in/latest/trends/fevicol-turns-ronaldos-coca-cola-snub-into-an-advertising-moment/story/441913.html)
+
+
+> Cristiano Ronaldo's gesture of removing two Coca-Cola bottles from the table during the press conference after Portugal's 3-0 win against Hungary wiped off $4 billion from the company's market value. Netizens were split over this incident -- some cheered, some jeered. And then there was Fevicol, who saw the incident as a good advertising opportunity and went for it. In a social media post, Fevicol put up an image of a setting similar to the Ronaldo press conference. The background, though blurred, is somewhat similar to what appeared in the press conference.
+
+
+***
+![Google Meet improves hand raise feature to make raised hands noticeable during meetings](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/screenshot_2021-06-18_at_9_1200_210618093448.16.-483x271.png "Google Meet improves hand raise feature to make raised hands noticeable during meetings")
+
+
+[Google Meet improves hand raise feature to make raised hands noticeable during meetings](https://www.indiatoday.in/technology/news/story/google-meet-improves-hand-raise-feature-to-make-raised-hands-noticeable-during-meetings-1816323-2021-06-18)
+
+
+> Highlights Google Meet's Hand Raise feature is getting a lot of updates. Google said that the new update would make it easier for people to notice the raised hand and address the person. Google has added an improved visual icon and animation on the video tile. Google Meet's Hand Raise feature is getting a lot of updates. The search giant said that the new update would make it easier for people to notice the raised hand and address the person. Google Meet and several other video conferencing apps have replaced physical meetings due to the ongoing pandemic.
+
+
+***
+![Chinese apps could face subpoenas or bans under Biden order](https://images.moneycontrol.com/static-mcnews/2020/08/ChinaWeChatTiktok-770x433.jpg "Chinese apps could face subpoenas or bans under Biden order")
+
+
+[Chinese apps could face subpoenas or bans under Biden order](https://www.moneycontrol.com/news/technology/chinese-apps-could-face-subpoenas-or-bans-under-biden-order-7052141.html)
+
+
+> President Joe Biden's executive order aimed at safeguarding Americans' sensitive data would force some Chinese apps to take tougher measures to protect private information if they want to remain in the U.S. market, according to people familiar with the matter.The goal is to keep foreign adversaries like China and Russia from gaining access to large amounts of personal and proprietary business information.The U.S. Department of Commerce may issue subpoenas to collect information about certain smartphone, tablet and desktop computer software applications.
+
+
+***
+![How to Learn Python Fast](https://external-preview.redd.it/rNnX_gBvYUjQijlShi7h1u5YTVw5BMRabv344VA1W5I.jpg?auto=webp&s=1498bed0cfccce205811b72e6e0dcc456ac25355 "How to Learn Python Fast")
+
+
+[How to Learn Python Fast](https://www.reddit.com/r/programming/comments/o2fmrs/how_to_learn_python_fast/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
