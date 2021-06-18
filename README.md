@@ -26853,3 +26853,53 @@
 > The Umbrella Academy season 3 is currently in production in Toronto, Canada, and fans are eager to find out what's next for Netflix's adaptation of the dysfunctional Hargreeves family. Little is known about the next instalment in the streamer's live-action adaptation of The Umbrella Academy, but we do know some details that were recently revealed at Netflix Geeked Week. That includes the titles of season 3's ten episodes, and you can read what they are below.Early Prime Day deals: see all the best early offers right here.
 
 
+***
+![How to Check Python Version](https://external-preview.redd.it/Do-JygY-LLTzdDg_pSVMzQVPX-CBYOPMIjw7MMQ15LY.jpg?auto=webp&s=40a9973c0eeed95924100346877962347271b6eb "How to Check Python Version")
+
+
+[How to Check Python Version](https://www.reddit.com/r/Python/comments/o2w4gp/how_to_check_python_version_windows_macos_or_linux/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Best Prime Day PC Deals 2021: What to expect](https://icdn.digitaltrends.com/image/digitaltrends/best-gaming-desktops-dell-xps-8930.jpg "Best Prime Day PC Deals 2021: What to expect")
+
+
+[Best Prime Day PC Deals 2021: What to expect](https://www.digitaltrends.com/dtdeals/best-prime-day-pc-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Prime Day 2021 is arriving on Monday with the Prime Day 2021 dates slated for June 21 and June 22, and we're expecting to see plenty of great Prime Day deals and some hot Prime Day PC deals if previous years are anything to go by. If you're looking to buy a new system or some components for your PC build, whether it's for your home office setup or to upgrade your gaming battle station, there are sure to be some great bargains to be had here.
+
+
+***
+![Amazon Prime Day vacuum deals: what to expect and when sales will begin](https://cdn.mos.cms.futurecdn.net/eSTFNuwfdc5C8Tq3WeVse7-1200-80.jpg "Amazon Prime Day vacuum deals: what to expect and when sales will begin")
+
+
+[Amazon Prime Day vacuum deals: what to expect and when sales will begin](https://www.techradar.com/news/prime-day-deals-save-on-shark-dyson-and-bissell-vacuum-cleaners-with-these-discounts)
+
+
+> Amazon Prime Day vacuum deals often go well beyond your standard cordless vacs and handheld hoovers, with recent years offering big discounts on robotic machines as well. Not only that, but we've been seeing some of the more advanced devices also dropping down to cheaper price points in recent months, which means you'll be getting excellent value for money in this year's Prime Day deals. While Prime Day vacuum deals are a niche category they do offer some excellent discounts over the retailers' two day event, which is excellent news considering the biggest brands often come with some hefty price tags.
+
+
+***
+![Android 12 & Google Live Space To Be A Major Upgrade For "At A Glance" Widget](https://www.androidheadlines.com/wp-content/uploads/2021/06/google-live-space-android-12-featured.jpg "Android 12 & Google Live Space To Be A Major Upgrade For "At A Glance" Widget")
+
+
+[Android 12 & Google Live Space To Be A Major Upgrade For "At A Glance" Widget](https://www.androidheadlines.com/2021/06/android-12-google-live-space-to-be-a-major-upgrade-for-at-a-glance-widget.html)
+
+
+> We already know that Android 12 is bringing a bunch of new features along with a complete revamp in design. The latest report by 9To5Google suggests that Android 12 and Google Live Space features could supercharge the 'At a Glance' widget.The At a Glance widget goes hand in hand with the Pixel launcher. Meaning that it is enabled by default whenever you make use of the Pixel launcher.However, with Android 12, Google will bring some major upgrades to it. In an APK Insight post, folks at 9To5Google found a new feature called 'Live Space' which adds a bunch of new features to the 'At a Glance' widget.
+
+
+***
+![iOS 15: How to Adjust the Date and Time of Photos](https://images.macrumors.com/article-new/2021/06/iOs-15-Photos-Feature.jpg "iOS 15: How to Adjust the Date and Time of Photos")
+
+
+[iOS 15: How to Adjust the Date and Time of Photos](https://www.macrumors.com/how-to/adjust-ios-photos-metadata/)
+
+
+> Apr 12, 2001 53,019 14,757 In iOS 15, the Photos app has been given a significant update that includes a richer Info pane to view information about a photo in your library, such as the camera, lens, and shutter speed used, the file size of the image, and where the image came from if it was saved from within another app. In another notable addition, you can also edit the date and time when a photo was taken. Here's how it's done in the latest ‌iOS 15‌ developer beta, a version of which will be available to the public in July.
+
+
