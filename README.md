@@ -26759,3 +26759,47 @@
 > San Francisco: Pokemon Unite is the first strategic battle game for the series and is launching on iPhone and iPad in September. The Pokemon franchise has spawned several popular titles for mobile, most namely "Pokemon Go". The newest game, "Pokemon Unite," is a deviation from the usual JRPG franchise entries, AppleInsider reported. Pokemon Tower Battle and Pokemon Medallion Battle Games Debut on Facebook Gaming.Nintendo announced "Pokemon Unite" as a Nintendo Switch title first, launching in July, with a port to mobile coming in September.
 
 
+***
+![We follow our own policies, Twitter India tells Parliamentary Standing Committee](https://images.moneycontrol.com/static-mcnews/2020/10/twitter-770x433.jpg "We follow our own policies, Twitter India tells Parliamentary Standing Committee")
+
+
+[We follow our own policies, Twitter India tells Parliamentary Standing Committee](https://www.moneycontrol.com/news/technology/we-follow-our-own-policies-twitter-india-tells-parliamentary-standing-committee-7055671.html)
+
+
+> Representatives of social media platform Twitter on June 18 appeared before the parliamentary panel chaired by Congress MP Shashi Tharoor to discuss the issue of its guidelines and the misuse of its platform.When asked whether Twitter India follows the law of the land,  the company responded that the platform follows its own policies, sources have told ANI."We practise our own policies," it said.At the Parliamentary Standing Committee on Information & Technology, in response to the question -- if Twitter India follows the law or the land, a Twitter representative said, "We follow our own policies": Sources— ANI (@ANI) June 18, 2021The committee has also asked Twitter Representatives present before it to submit in writing how they are placed within the social media platform and how much executive authority they have over policy decisions it makes.
+
+
+***
+![Horizontally scalable, highly available, MySQL-compatible database by Alibaba, Ant Group](https://external-preview.redd.it/zejxbaFiTBOtv6Br-Go7TQJ9Zxgi7YuI7XX3y7oo1NM.jpg?auto=webp&s=ff58541ce9d793c1cdae3fb1a7804dcfa8cb1f28 "Horizontally scalable, highly available, MySQL-compatible database by Alibaba, Ant Group")
+
+
+[Horizontally scalable, highly available, MySQL-compatible database by Alibaba, Ant Group](https://www.reddit.com/r/programming/comments/o2pjms/horizontally_scalable_highly_available/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Launch HN: Hedgehog (YC S21) – Cryptocurrency Portfolio Manager](https://news.ycombinator.com/item?id=27550255)
+
+
+> Hey HN! We're Taylor, Colton, and Jason, the founders of Hedgehog (https://hedgehog.app). We're building a portfolio manager to help you learn about, keep track of, and trade cryptocurrency in one place.We track 2000+ actively traded currencies across 550+ wallets, aggregate data from 20 different providers, and support trading on 130+ exchanges. This helps users make informed choices about investments and find the best prices across exchanges, with price differences as high as 0.5%. We also combine live usage data with detailed research on how each coin works, so you can see for yourself why a coin could be valuable--or not.
+
+
+***
+![Autonomous hydrogen vehicle granted legal road status in Estonia](https://external-preview.redd.it/vcXei_3IIV2Vbkq4oz1OtfrkinOEgZgbaErtxjJeL0I.jpg?auto=webp&s=2c4c08dc59bd6a31dda25b8a68e17055df5003c9 "Autonomous hydrogen vehicle granted legal road status in Estonia")
+
+
+[Autonomous hydrogen vehicle granted legal road status in Estonia](https://www.reddit.com/r/technology/comments/o2phzd/autonomous_hydrogen_vehicle_granted_legal_road/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Two major Chinese banks now allow customers to exchange digital yuan for fiat at 3,000+ ATMs in Beijing, in an expansion of China's digital currency experiment (Andrew Asmakov/Decrypt)](http://www.techmeme.com/210618/p7#a210618p7)
+
+
+> Andrew Asmakov / Decrypt: Two major Chinese banks now allow customers to exchange digital yuan for fiat at 3,000+ ATMs in Beijing, in an expansion of China's digital currency experiment — China has expanded its digital currency experiment with a roll-out of digital yuan conversion feature at more than 3,000 ATMs in Beijing.
+
+
