@@ -26950,3 +26950,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Greetings to all! I just joined MacRumors today as a result of a most unusual crashing of each app within the MS Office 2011 for Mac Suite. Last night, 6/17, ALL 4 apps crashed individually! Even on my backup HD, each app, Outlook, Word, Excel, and PowerPoint each crashed within 20 seconds of opening. PLEASE HELP! This is one of the strangest things I've experienced in 31 years of using Macs! It seemed like "Big Brother MS" took the liberty to pull the plug in the 10th year anniversary of their 2011 Office Suite for Mac! You must log in or register to reply here.
 
 
+***
+![Watch Out Truly, Pepsi Could Be Launching A Hard Seltzer Soon](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/lime-907124_1920_8.jpg "Watch Out Truly, Pepsi Could Be Launching A Hard Seltzer Soon")
+
+
+[Watch Out Truly, Pepsi Could Be Launching A Hard Seltzer Soon](https://www.benzinga.com/news/21/06/21631386/watch-out-truly-pepsi-could-be-launching-a-hard-seltzer-soon)
+
+
+> One of the largest beverage companies in the world could be launching products to take part in one of the fastest-growing beverage categories, hard seltzers. What Happened: A filing by PepsiCo, Inc. (NYSE: PEP) on June 14 is seeking to use the Rockstar name for beer and hard seltzer, Bloomberg reports. The move follows the company saying on its third-quarter earnings call that it was exploring alcoholic drinks and would 'make a decision in the coming quarters.' There has been no official announcement from PepsiCo at this time in regards to alcoholic beverages.
+
+
+***
+![Here's how to get 2 months of Showtime, Starz, Lifetime and more for $2 for Prime Day 2021](https://www.gannett-cdn.com/presto/2021/06/18/USAT/c25872de-6232-40c6-88da-00f05f4fd719-starzshowtime.jpg?crop=1493,840,x0,y0&width=1493&height=840&format=pjpg&auto=webp "Here's how to get 2 months of Showtime, Starz, Lifetime and more for $2 for Prime Day 2021")
+
+
+[Here's how to get 2 months of Showtime, Starz, Lifetime and more for $2 for Prime Day 2021](https://www.usatoday.com/story/tech/reviewedcom/2021/06/18/prime-day-2021-get-premium-amazon-prime-video-channels-1-per-month/7734874002/)
+
+
+> Thanks to Amazon Prime Day 2021, you can take your pick of Prime Video add-on channels for only $.99 for two months. (Photo: Amazon/Getty)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Amazon Prime members already know that Prime Video has some amazing original series, from The Boys to The Marvelous Mrs. Maisel. Sometimes, that great show you want to watch is only available through one of Amazon's add-on channels, however, such as Starz or Showtime.
+
+
+***
+![Early Prime Day deals slash the price of Keurig K-Elite, K-Slim models](https://icdn.digitaltrends.com/image/digitaltrends/keurig-k-slim.jpg "Early Prime Day deals slash the price of Keurig K-Elite, K-Slim models")
+
+
+[Early Prime Day deals slash the price of Keurig K-Elite, K-Slim models](https://www.digitaltrends.com/dtdeals/keurig-k-elite-k-slim-deals-amazon-early-prime-day-june-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Prime Day isn't until next week, but Amazon just can't wait; they're releasing all kinds of early Prime Day deals on some of the hottest tech and appliances that money can buy, including coffee makers. There are already some fantastic Keurig deals out there, but check out these amazing offers: Right now you can save $30 on the Keurig K-Slim Coffee Maker, and save $45 on a Keurig K-Elite Coffee Maker. These are amazing deals on one of the best-known names in coffee, available only in these early Prime Day deals.
+
+
+***
+![Developing A Compiler From Scratch Streaming LIVE!](https://external-preview.redd.it/F41ghh2Rf2msXGRk3aj0Mnx0oJXxkk2Ol8kC7rwtc9g.jpg?auto=webp&s=37695c8db07f4bba57b9cb63424c90e0deeb936f "Developing A Compiler From Scratch Streaming LIVE!")
+
+
+[Developing A Compiler From Scratch Streaming LIVE!](https://www.reddit.com/r/programming/comments/o30qhh/developing_a_compiler_from_scratch_streaming_live/)
+
+
+> Huge discounts on C, C++ and many more courses: https://dragonzap.com/ today only
+
+
+***
+![How is a tool like this made?](https://external-preview.redd.it/oIFkoN9hGmPuQpwOvw6BmQ6AX_GjckqmIBuvxHqXNLg.jpg?auto=webp&s=117d75cfa0c6e7f92ffb490c9a76a6ad627be05e "How is a tool like this made?")
+
+
+[How is a tool like this made?](https://www.reddit.com/r/programming/comments/o30lqw/how_is_a_tool_like_this_made/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
