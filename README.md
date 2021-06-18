@@ -26903,3 +26903,50 @@
 > Apr 12, 2001 53,019 14,757 In iOS 15, the Photos app has been given a significant update that includes a richer Info pane to view information about a photo in your library, such as the camera, lens, and shutter speed used, the file size of the image, and where the image came from if it was saved from within another app. In another notable addition, you can also edit the date and time when a photo was taken. Here's how it's done in the latest ‌iOS 15‌ developer beta, a version of which will be available to the public in July.
 
 
+***
+![What external storage solution are you using for your iPad?](https://images.macrumors.com/social/?t=2301451&v=6 "What external storage solution are you using for your iPad?")
+
+
+[What external storage solution are you using for your iPad?](https://forums.macrumors.com/threads/what-external-storage-solution-are-you-using-for-your-ipad.2301451/)
+
+
+> I have the iPad Pro 2021 which has the thunderbolt port. I'm thinking of buying an external storage solution since I only bought a 256gb version. I think my use case would be to carry movies, files for editing, photos, etc. I don't plan on using it all the time, mostly when I leave the house. I'm deciding between an external SSD, external HDD, or just a flash drive. Would love to hear other people's set ups. Also can you move music / photos / apps off the iPad storage onto external storage? Jun 7, 2015 4,922 3,704 Seattle WA I have the iPad Pro 2021 which has the thunderbolt port.
+
+
+***
+[Beginner question](https://www.reddit.com/r/Python/comments/o2yrzt/beginner_question/)
+
+
+> Hey, I learned python syntax and worked with libraries like pillow, NumPy, pyplot, tkinter, request, beautifulsoup4 etc. But, every time when I see an open source project which was written on python, I'm confused because I have no idea how to do something like that. What I should know to say my friends that I'm a real programmer/coder and can make anything that they can imagine (game, script, site etc.) ?? I know that is not easy and for example to do site I need to know CSS and HTML with JS, but I really want to become a real true hacker with unbelievable opportunities.
+
+
+***
+![Scammers sending out knock-off crypto wallets that could steal your coins](https://cdn.mos.cms.futurecdn.net/ArUc3738cLD4kMqFwQeRK9-1200-80.jpg "Scammers sending out knock-off crypto wallets that could steal your coins")
+
+
+[Scammers sending out knock-off crypto wallets that could steal your coins](https://www.techradar.com/news/scammers-sending-out-knock-off-crypto-wallets-that-could-steal-your-coins)
+
+
+> (Image credit: Future) Scammers have begun sending out fake hardware wallets to Ledger customers in an attempt to steal the cryptocurrency from their Bitcoin wallets.According to a new report from BleepingComputer, a Reddit user who goes by the handle 'jjrand' recently made a post on the site explaining how they had received a Ledger Nano X hardware wallet in the mail. The shrink-wrapped package was emblazoned with the company's logo to make it appear more legitimate and contained an installation manual.
+
+
+***
+![How do you like the new magic keyboard?](https://images.macrumors.com/social/?t=2301450&v=6 "How do you like the new magic keyboard?")
+
+
+[How do you like the new magic keyboard?](https://forums.macrumors.com/threads/how-do-you-like-the-new-magic-keyboard.2301450/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. So the new keyboards is so far exclusive to the new iMacs, meaning only a few lucky ones have been able to get a good a feel for them. The touch-id is the most attractive new feature for me for sure, but other than that, is there any difference to the old keyboard? It's seems to be really difficult to find any impressions online which is strange. You must log in or register to reply here.
+
+
+***
+![MS Office 2011](https://images.macrumors.com/social/?t=2301449&v=6 "MS Office 2011")
+
+
+[MS Office 2011](https://forums.macrumors.com/threads/ms-office-2011-all-4-apps-crashing.2301449/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Greetings to all! I just joined MacRumors today as a result of a most unusual crashing of each app within the MS Office 2011 for Mac Suite. Last night, 6/17, ALL 4 apps crashed individually! Even on my backup HD, each app, Outlook, Word, Excel, and PowerPoint each crashed within 20 seconds of opening. PLEASE HELP! This is one of the strangest things I've experienced in 31 years of using Macs! It seemed like "Big Brother MS" took the liberty to pull the plug in the 10th year anniversary of their 2011 Office Suite for Mac! You must log in or register to reply here.
+
+
