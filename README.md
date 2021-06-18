@@ -26718,3 +26718,44 @@
 > Marcus Rashford is a very busy man. When he's not playing professional football for Manchester United or representing England at the Euros he's also campaigning to end child food poverty, launching his own book club and now, apparently, linking up with James Corden for a spot of online video gaming. In the clip above from The Late Late Show, Corden and Rashford take each other on in FIFA 21, before going up against (and largely getting beaten by) various groups of small children. The real highlight, though, is when they turn their cameras on at the end and the kids realise they've just scored a goal against Marcus Rashford himself.
 
 
+***
+[FinTech Market Next Big Thing](https://minernews.io/uncategorized/281150/fintech-market-next-big-thing-major-giants-kabbage-paytm-atom-bank/)
+
+
+> HTF MI added a new research study on COVID-19 Outbreak-Global FinTech Market in its repository, aims to offers a detailed overview of the factors influencing the worldwide business orientation and overall outlook. COVID-19 Outbreak- FinTech Market study highlights recent market insights with disrupted trends and breakdown of the products and services offering along with impact due to macro-economic headwinds and matured western countries slowdown. Quantitative statistics with qualitative reasoning are evaluated on the market size, % share, % growth and trending influencing factors, challenges Pre and Post 2020 Impact on COVID-19 Outbreak- FinTech Market.
+
+
+***
+![Parcel Services market share from APAC, Europe, America application to rise at XX% CAGR through 2025](https://www.algosonline.com/img/img7.jpg "Parcel Services market share from APAC, Europe, America application to rise at XX% CAGR through 2025")
+
+
+[Parcel Services market share from APAC, Europe, America application to rise at XX% CAGR through 2025](https://www.algosonline.com/technology/parcel-services-market-share-from-apac-europe-america-application-to-rise-at-xx-cagr-through-2025)
+
+
+> Market Study Report Adds New, 2020-2025 Global Parcel Services Market Report to its research database presenting an informative study covering the market with detailed analysis. The Global Parcel Services market research report is a professional and in-depth study on the current state of global Industry. The Parcel Services market report encompasses all the growth drivers and opportunities driving the profitability graph, and also provides valuable insights into challenges that will befall the industry in the ensuing years.
+
+
+***
+[Webiny (YC W21) Is Hiring: 4x JavaScript Engineers and 1x DevRel [Remote] [Full-Time]](https://news.ycombinator.com/item?id=27549459)
+
+
+> Hacker News new | past | comments | ask | show | jobs | submit login Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact
+
+
+***
+[Fake reviews are fooling Australian shoppers, driving billions in online spending, report warns](https://thenewdaily.com.au/life/tech/2021/06/18/fake-online-reviews-australia/)
+
+
+> The coronavirus pandemic has triggered an online shopping boom but consumers are being misled by fake reviews, a new report has warned. Australian shoppers are being fooled by fake online … Continued The post Fake reviews are fooling Australian shoppers, driving billions in online spending, report warns appeared first on The New Daily.
+
+
+***
+![Pokemon Unite Strategic Battle Game Reportedly Coming to Apple iPhone & iPad This September](https://st1.latestly.com/wp-content/uploads/2021/06/resize-20-4-1.jpg "Pokemon Unite Strategic Battle Game Reportedly Coming to Apple iPhone & iPad This September")
+
+
+[Pokemon Unite Strategic Battle Game Reportedly Coming to Apple iPhone & iPad This September](https://www.latestly.com/technology/pokemon-unite-strategic-battle-game-reportedly-coming-to-apple-iphone-ipad-this-september-2561867.html)
+
+
+> San Francisco: Pokemon Unite is the first strategic battle game for the series and is launching on iPhone and iPad in September. The Pokemon franchise has spawned several popular titles for mobile, most namely "Pokemon Go". The newest game, "Pokemon Unite," is a deviation from the usual JRPG franchise entries, AppleInsider reported. Pokemon Tower Battle and Pokemon Medallion Battle Games Debut on Facebook Gaming.Nintendo announced "Pokemon Unite" as a Nintendo Switch title first, launching in July, with a port to mobile coming in September.
+
+
