@@ -26580,3 +26580,44 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[Here's How to Change Mobile Number in Your Ration Card](https://www.thequint.com/tech-and-auto/tech-news/heres-how-to-change-mobile-number-in-your-ration-card-online-follow-these-steps)
+
+
+> It is very important to have your correct phone number in ration card, as it can be used for OTP verification
+
+
+***
+[Realme Narzo 30, Narzo 30 5G will be available for sale via Flipkart, page goes live](http://www.pinkvilla.com/tech/news/realme-narzo-30-narzo-30-5g-will-be-available-for-sale-via-flipkart-page-goes-live-780324)
+
+
+> Attach Main technology Image: Image Caption: Realme Narzo 30, Narzo 30 5G will be available for sale via Flipkart, page goes live Social Media Image : Enter the Technology details: Realme is planning to expand its Narzo series in India with the launch of the Narzo 30 4G and the Narzo 30 5G. The company has confirmed that the smartphones are slated to launch on June 24th and alongside a 32-inch FHD Realme TV and Realme Buds Q2 will also make their way to the Indian market.
+
+
+***
+[Tesla catches wild police chase in Sydney](https://www.couriermail.com.au/technology/tesla-catches-wild-police-chase-in-sydney/video/e2d0d133e500700f09916a243f69e91e)
+
+
+> My NewsLocalQLDSchools HubTertiaryEarly LearningAdviceNationalWorldOpinionBusinessEntertainmentLifestyleSport
+
+
+***
+![EOFY 2021 sales: best deals on TVs, laptops, headphones and more](https://cdn.mos.cms.futurecdn.net/woMCfppBeZJn9XKm9rZn6d-1200-80.jpg "EOFY 2021 sales: best deals on TVs, laptops, headphones and more")
+
+
+[EOFY 2021 sales: best deals on TVs, laptops, headphones and more](https://www.techradar.com/news/the-best-australian-eofy-tech-deals)
+
+
+> The end of financial year sales form one of the biggest shopping events in Australia, and tax-time deals have been filling our screens. In this year's EOFY sales, we're seeing solid smartphone discounts, and if you're after a brand-new laptop for home or work, the elite MacBook Air is now on sale.Some very cheap headphones from the likes of Sony, Samsung, Bose and Jabra are also on sale – including the Bose 700 headphones for the lowest price we've seen to date – proving that EOFY sales can offer some of the best discounts of the year.
+
+
+***
+![Snapchat removes Speed Filter feature that 'encouraged' reckless driving](https://bsmedia.business-standard.com/_media/bs/img/article/2018-07/12/full/1531338311-9772.jpg "Snapchat removes Speed Filter feature that 'encouraged' reckless driving")
+
+
+[Snapchat removes Speed Filter feature that 'encouraged' reckless driving](https://www.business-standard.com/article/technology/snapchat-removes-speed-filter-feature-that-encouraged-reckless-driving-121061800276_1.html)
+
+
+> Popular social media platform Snapchat is removing a feature known as the "Speed Filter" that lets users capture how fast they are driving and then share it with friends. The move is a dramatic reversal for Snap which introduced the feature in 2013. Since then, "Snap has defended the feature in the face of warnings from safety advocates who've argued that it encourages reckless driving", reports NPR. The company has also faced lawsuits from the families of those who have been injured or killed in car crashes where drivers were moving at excessive speeds, allegedly to score bragging rights on the app.
+
+
