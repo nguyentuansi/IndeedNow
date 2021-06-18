@@ -26803,3 +26803,53 @@
 > Andrew Asmakov / Decrypt: Two major Chinese banks now allow customers to exchange digital yuan for fiat at 3,000+ ATMs in Beijing, in an expansion of China's digital currency experiment — China has expanded its digital currency experiment with a roll-out of digital yuan conversion feature at more than 3,000 ATMs in Beijing.
 
 
+***
+![Latest Biomutant Update Improves Loot and Adds New Game + Options](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Biomutant.jpg?itok=nNHYYEFl "Latest Biomutant Update Improves Loot and Adds New Game + Options")
+
+
+[Latest Biomutant Update Improves Loot and Adds New Game + Options](https://techraptor.net/gaming/news/latest-biomutant-patch-adds-ng-options-melee-target-lock-fov-options)
+
+
+> 06/18/2021 - 12:14 | By: Patrick Perrault The latest Biomutant update is a big one, as it includes important features such as a FOV (Field of View) setting, an increased level cap from 50 to 100, item and loot improvements, along with a lot of other additions. These additions include more superb loot variations, a higher tier of relic and legendary weapon parts that will drop at level 50, and scrap action has been added to the loot screen. For more info, check out the patch below: What's included in the latest Biomutant update? There's a new HUD setting where you can now go into the Mode setting and select either Always Show or Dynamic.
+
+
+***
+![Target Circle granting extended free trials of Apple services](https://photos5.appleinsider.com/gallery/42698-82880-Apple-Services-xl.jpg "Target Circle granting extended free trials of Apple services")
+
+
+[Target Circle granting extended free trials of Apple services](https://appleinsider.com/articles/21/06/18/target-circle-granting-extended-free-trials-of-apple-services)
+
+
+> The Target Circle loyalty program is offering longer-than-normal trials of many popular Apple services, including Apple Music — and some of the trials last as long as six months.The retail company on Friday announced new perks for members of Target Circle, its free loyalty program. Apple is Target's latest partner, and the offers include free trials to Apple Music, Apple TV+, Apple Arcade, and even iCloud storage.All four perks are available to new and existing Target Circle members. Users can net up to four months of Apple Music, Apple TV+, or iCloud storage, and up to six months of Apple Arcade service.
+
+
+***
+![Instagram Reels to start including ads, Facebook says](https://static.independent.co.uk/2021/06/18/16/instagram.jpg?width=1200&auto=webp&quality=75 "Instagram Reels to start including ads, Facebook says")
+
+
+[Instagram Reels to start including ads, Facebook says](https://www.independent.co.uk/life-style/gadgets-and-tech/instagram-reels-ads-facebook-tiktok-b1868673.html)
+
+
+> Instagram's Reels will start including ads, Facebook has announced.Until now, the company has seemingly focused on growing its TikTok competitor, and has left it free from the ads that are much of the focus on the feed and in stories.But it will now start including sponsored posts from a range of brands as well as the short videos from people users follow and others that the algorithm thinks they might be interested in.The company started testing ads in April, in India, Brazil, Germany and Australia.
+
+
+***
+![Google Play Services To Let You Stream Phone Apps To Your Chromebook](https://www.androidheadlines.com/wp-content/uploads/2020/10/Top-Chromebook-Apps-DG-AH-2020.jpg "Google Play Services To Let You Stream Phone Apps To Your Chromebook")
+
+
+[Google Play Services To Let You Stream Phone Apps To Your Chromebook](https://www.androidheadlines.com/2021/06/stream-phone-apps-chromebook-google-play-services.html)
+
+
+> An incoming change to Google Play Services could soon let users stream apps from their phone to their Chromebook. That's based on a new report from XDA Developers, following an initial teardown into update version 21.21.12.Google hasn't provided any details in the underlying code, regarding exactly how this would work. But the implications of the code that was found are fairly straightforward. The changes refer first to a string labeled 'apps_stream_enabled_description' which also says 'Stream apps to your Chromebook.
+
+
+***
+![The Umbrella Academy season 3: release date, episode titles and more](https://cdn.mos.cms.futurecdn.net/YjFxVQAC4j2SqSkoYTbUwf-1200-80.jpg "The Umbrella Academy season 3: release date, episode titles and more")
+
+
+[The Umbrella Academy season 3: release date, episode titles and more](https://www.techradar.com/news/umbrella-academy-season-3-release-date-trailer)
+
+
+> The Umbrella Academy season 3 is currently in production in Toronto, Canada, and fans are eager to find out what's next for Netflix's adaptation of the dysfunctional Hargreeves family. Little is known about the next instalment in the streamer's live-action adaptation of The Umbrella Academy, but we do know some details that were recently revealed at Netflix Geeked Week. That includes the titles of season 3's ten episodes, and you can read what they are below.Early Prime Day deals: see all the best early offers right here.
+
+
