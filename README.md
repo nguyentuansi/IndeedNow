@@ -27091,3 +27091,53 @@
 > Michiel Willems / cityam.com: Dealroom and Tech Nation: UK becomes the third country, after the US and China, to have 100 or more tech unicorns; 34% of UK unicorns are fintech companies — The UK tech sector has now 100 UK tech companies valued at $1bn or more, according to new data from Dealroom and Tech Nation, shared with City A.M. today.
 
 
+***
+![Google Doodle honors Black artistic contributions on Juneteenth](https://www.gannett-cdn.com/presto/2021/06/18/USAT/a57c3bcb-7205-41b3-ac3b-c5ed67007214-Juneteenth_2021_Doodle_002.png?crop=3540,1992,x750,y0&width=3200&height=1801&format=pjpg&auto=webp "Google Doodle honors Black artistic contributions on Juneteenth")
+
+
+[Google Doodle honors Black artistic contributions on Juneteenth](https://www.usatoday.com/story/tech/2021/06/19/juneteenth-2021-google-doodle-honors-black-artistic-contributions/7746195002/)
+
+
+> CLOSE Biden just signed legislation to make Juneteenth a federal holiday. Here's why this once local celebration is significant to U.S. history. USA TODAYOn Saturday, Google's search page featured an homage to Juneteenth with artwork created by Detroit-based artist Rachelle Baker that was centered on Black joy and artistic contributions. The Doodle art featured an homage to Black artistic contributions by alluding to decorative ironwork, which includes styles that can be found throughout southern architecture and was often forged by enslaved African Americans and unrecognized freedmen.
+
+
+***
+![Google Assistant debuts new Black history feature for Juneteenth](https://mondrian.mashable.com/2021%252F06%252F19%252F7d%252F2ef26fd2b87b4c5cb5ae7561817bf0cb.949d2.png%252F1200x630.png?signature=9Bhie8kNu1-87CMe7MTmydrJSbk= "Google Assistant debuts new Black history feature for Juneteenth")
+
+
+[Google Assistant debuts new Black history feature for Juneteenth](https://mashable.com/article/google-assistant-juneteenth/)
+
+
+> In honor of Juneteenth, Google Assistant has an important new feature. "Hey Google, what happened today in Black history? On Saturday morning, Google unveiled the addition of a Black history function, available to users of any Assistant-enabled smart speaker, smart display, or phone. Just ask "Hey Google, what happened today in Black history?" and the voice assistant will recite daily history content curated by Google with the help of civil rights activist and scholar Dr. Carl Mack.  The facts are intended to highlight important Black cultural events and leaders as the United States continues its racial reckoning.
+
+
+***
+![Google searches for new method to classify skin tones to curb bias in products](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/google505_170720062831_190621092429.jpg "Google searches for new method to classify skin tones to curb bias in products")
+
+
+[Google searches for new method to classify skin tones to curb bias in products](https://www.businesstoday.in/technology/news/google-searches-for-new-method-to-classify-skin-tones-to-curb-bias-in-products/story/441994.html)
+
+
+> Alphabet Inc's Google told Reuters this week it is developing an alternative to the industry standard method for classifying skin tones, which a growing chorus of technology researchers and dermatologists says is inadequate for assessing whether products are biased against people of color. At issue is a six-color scale known as Fitzpatrick Skin Type (FST), which dermatologists have used since the 1970s. Tech companies now rely on it to categorize people and measure whether products such as facial recognition systems or smartwatch heart-rate sensors perform equally well across skin tones.
+
+
+***
+![Prime members can get the best of British boxsets for under £3 a month](https://mondrian.mashable.com/2021%252F06%252F19%252Fd7%252F8e7e47d8fd1f496baf12c9c9d82187ce.e2b2e.png%252F1200x630.png?signature=U6KpMTpKPf6Zdc01oTdRa8Ns_4w= "Prime members can get the best of British boxsets for under £3 a month")
+
+
+[Prime members can get the best of British boxsets for under £3 a month](https://mashable.com/uk/shopping/early-prime-day-deal-june-19-britbox/)
+
+
+> TL;DR: Until June 30, Prime members can get a three-month subscription to BritBox for £2.99 per month. Another day, another tempting offer from Amazon aimed at getting you to sign up for Amazon Prime. We always see this tactic deployed by Amazon around Prime Day, and you won't get any complaints from over here. Until June 30, Prime members can get a three-month subscription to BritBox for £2.99 per month. What is BritBox? It's the biggest collection of British boxsets out there, and it could seriously enhance your Prime Video experience.
+
+
+***
+![Digital Trends](https://icdn.digitaltrends.com/image/digitaltrends/dt_logo_lockup_blue.jpg "Digital Trends")
+
+
+[Digital Trends](https://www.digitaltrends.com/)
+
+
+> More Stories Latest Stories Page 2
+
+
