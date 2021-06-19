@@ -27464,3 +27464,53 @@
 > Yesterday I visited my local Apple store to buy a new MBA (love it BTW), I've seen that in the UK other stores have some models of Macs cheaper then Apple. However we where going to use a education discount which will be around the same price. However even before I had decided on a Air or a Pro or said that we wanted to use a education discount, the Apple employee said that they will price match any online or in store price and whilst I'm looking at the machines I should check some online prices.
 
 
+***
+![What Is HBO Max Integration Test Email #1?](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/06/HBO-Max-integration-test-email-1-mockup.jpg "What Is HBO Max Integration Test Email #1?")
+
+
+[What Is HBO Max Integration Test Email #1?](https://screenrant.com/hbo-max-integration-test-email-1-what-why-explained/)
+
+
+> Some HBO Max mailing list subscribers received an unusual email on Thursday evening, with the company later admitting it had been sent accidentally. Some HBO Max mailing list subscribers got some unexpected additional content on Thursday evening when an email with the subject line "Integration Test Email #1" arrived in their inboxes. While it wasn't immediately clear what the email was for, some mused that it might have been cryptic marketing for a new show. As it turned out, the reason for the email was much more mundane and has triggered an outpouring of support for interns everywhere.
+
+
+***
+![How to solve page.click issues in javascript puppeteer.](https://external-preview.redd.it/37tDHtYpQ7zfkql75RMc4a8KN9WQu8FAQdIDFHKc-Wc.jpg?auto=webp&s=d0f22125fce79751cf3066bdddbaab7ec5a1eb1d "How to solve page.click issues in javascript puppeteer.")
+
+
+[How to solve page.click issues in javascript puppeteer.](https://www.reddit.com/r/programming/comments/o3o7kx/how_to_solve_pageclick_issues_in_javascript/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![From JavaScript to TypeScript Crash Course/CheatSheet : Basics](https://external-preview.redd.it/ZaI7OUenL1qwbwJP8ZUVBZuv4ESSaVF1tfBLkJrcWg0.jpg?auto=webp&s=6e2a7a912b04242f40841e26e40bb6d836da80be "From JavaScript to TypeScript Crash Course/CheatSheet : Basics")
+
+
+[From JavaScript to TypeScript Crash Course/CheatSheet : Basics](https://www.reddit.com/r/programming/comments/o3o6b3/from_javascript_to_typescript_crash/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![How to watch Munguia vs Szeremeta: live stream title fight boxing today](https://cdn.mos.cms.futurecdn.net/fPnozHipBtwADJuwFYwRvJ-1200-80.jpg "How to watch Munguia vs Szeremeta: live stream title fight boxing today")
+
+
+[How to watch Munguia vs Szeremeta: live stream title fight boxing today](https://www.techradar.com/news/how-to-watch-munguia-vs-szeremeta-live-stream-title-fight-boxing-today)
+
+
+> Former WBC junior middleweight champion Jaime Munguia continues his step up to the 160lb division as he takes on Kamil Szeremeta in this WBO Intercontinental middleweight title showdown. Read on to discover the fight time, full card and your best Munguia vs Szeremeta live stream options to watch, with DAZN the main broadcaster around the world.Mexican star Mungia is seen as one of boxing's brightest hopes, but has been left frustrated waiting for a fight since October. The 24-year-old had been slated to fight the more fancied Maciej Sulecki, only for the Polish fighter to pull out of the bout on two occasions through injury.
+
+
+***
+![How do you type better in portrait on 11'?](https://images.macrumors.com/social/?t=2301559&v=6 "How do you type better in portrait on 11'?")
+
+
+[How do you type better in portrait on 11'?](https://forums.macrumors.com/threads/how-do-you-type-better-in-portrait-on-11.2301559/)
+
+
+> Oct 1, 2007 13,354 11,612 I still suck at it a few weeks later lol granted it's not 12.9 bad but not on the level of mini easy or even 9.7 from recollection. Never had 10.5 but think it was similar I use the smaller keyboard with my thumb. But typing on the iPad in portrait mode is not very easy I agree. I wish there was some sort of handoff to iPhone like on the Apple TV. edit- I have 12.9 but should still relate.
+
+
