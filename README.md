@@ -27188,3 +27188,41 @@
 > Are you planning to take a break from Netflix or Disney+ Hotstar and don't want to spend the money on the subscription? Well, you can cancel the subscriptions of the app. The process to cancel any OTT subscription is simple and you just need to follow a few steps. So keep reading to know more about it. How to cancel a Netflix subscription Step 1: Open the Netflix app on your smartphone and go to the profile section by tapping on the profile icon. The latter is located on the top right corner of the app.
 
 
+***
+[DIZO GoPods, GoPods D Bluetooth headsets spotted on the Indian BIS certification](http://www.pinkvilla.com/tech/news/dizo-gopods-gopods-d-bluetooth-headsets-spotted-on-the-indian-bis-certification-781568)
+
+
+> Attach Main technology Image: Image Caption: DIZO GoPods, GoPods D Bluetooth headsets spotted on the Indian BIS certification Social Media Image : Enter the Technology details: Dizo is all set to launch its first product soon in India but the company remained tight-lipped so far. However, that doesn't mean that the leaks and rumours are also going to keep quiet, we have witnessed some of the Dizo devices on the certification website hinting towards an imminent launch. In the latest development, the Dizo Bluetooth headsets are listed on the Indian BIS certification backing the previous leaks and hinting towards a sooner launch.
+
+
+***
+![This agency's computers hold secrets. Hackers got in with one password](https://images.moneycontrol.com/static-mcnews/2019/09/Cyber-Security-Security-Hacking-Coding-Hacked-2972105-2-770x433.jpg "This agency's computers hold secrets. Hackers got in with one password")
+
+
+[This agency's computers hold secrets. Hackers got in with one password](https://www.moneycontrol.com/news/technology/this-agencys-computers-hold-secrets-hackers-got-in-with-one-password-7057791.html)
+
+
+> Representational Image New York City's Law Department holds some of the city's most closely guarded secrets: evidence of police misconduct, the identities of young children charged with serious crimes, plaintiffs' medical records and personal data for thousands of city employees. But all it took for a hacker to infiltrate the 1,000-lawyer agency's network early this month was one worker's pilfered email password, according to a city official briefed on the matter. Officials have not said how the intruder obtained the worker's credentials, nor have they determined the scope of the attack.
+
+
+***
+[Battlegrounds Mobile India crosses 5 million downloads in early access, celebrates with free rewards](http://www.pinkvilla.com/tech/news/battlegrounds-mobile-india-crosses-5-million-downloads-in-early-access-celebrates-with-free-rewards-781565)
+
+
+> Attach Main technology Image: Image Caption: Battlegrounds Mobile India crosses 5 million downloads in early access, celebrates with free rewards Social Media Image : Enter the Technology details: Krafton has announced that Battlegrounds Mobile India aka BGMI has been downloaded over five million times in early access in India. This hardly comes as a surprise as the players were eagerly waiting for the highly-anticipated mobile game. The game was released for the beta a couple of days ago and yesterday, Krafton made it available for everyone in early access mode.
+
+
+***
+[As China ramps up scrutiny of its tech companies, experts say its antitrust regulator SAMR lacks resources; SAMR only had a staff of about 50 people as of March (Yuan Yang/Financial Times)](http://www.techmeme.com/210619/p3#a210619p3)
+
+
+> Yuan Yang / Financial Times: As China ramps up scrutiny of its tech companies, experts say its antitrust regulator SAMR lacks resources; SAMR only had a staff of about 50 people as of March — The country's previously dormant antitrust regulators are fighting for power to discipline the sector
+
+
+***
+[Good News for Android Users: Cue from Apple? Google working on feature that will help trace lost phone without internet signal](https://www.zeebiz.com/technology/news-good-news-for-android-users-cue-from-apple-google-working-on-feature-that-will-help-trace-lost-phone-without-internet-signal-158935)
+
+
+> Taking a cue from Apple, Google is reportedly working on a `Find My Device` network that will help nearly three billion Android users locate their lost devices.    See Zee Business Live TV Streaming Below:
+
+
