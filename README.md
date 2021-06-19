@@ -27226,3 +27226,50 @@
 > Taking a cue from Apple, Google is reportedly working on a `Find My Device` network that will help nearly three billion Android users locate their lost devices.    See Zee Business Live TV Streaming Below:
 
 
+***
+[YouTube New Feature: Now, watch video while doing other things soon—check out this picture-in-picture feature](https://www.zeebiz.com/technology/news-youtube-new-feature-now-watch-video-while-doing-other-things-soon-check-out-this-picture-in-picture-feature-158938)
+
+
+> The YouTube app on iOS will soon be getting picture-in-picture support.
+
+
+***
+![How to Turn on Windows 10 Ransomware Protection](https://icdn.digitaltrends.com/image/digitaltrends/%25e8%2597%258d%25e8%2589%25b2%25e7%25b6%25b2%25e7%25b5%25a1%25e4%25b8%258a%25e7%259a%2584%25e9%258e%2596.jpg "How to Turn on Windows 10 Ransomware Protection")
+
+
+[How to Turn on Windows 10 Ransomware Protection](https://www.digitaltrends.com/computing/how-to-turn-on-windows-10-ransomware-protection/)
+
+
+> Few malware attacks are as annoying or potentially costly as ransomware. Once your computer becomes infected, ransomware locks you out of valuable files and demands that you send payments in exchange for releasing them. Even major corporations have been attacked, with some actually making enormous payouts to get their digital property back. Yep, that's scary — but there are ways you can protect your devices. One of the newer, easier-to-enable options offered by Windows 10 is enabling its innate ransomware protection with controlled file access.
+
+
+***
+![How to change the name of your iPhone](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F128380%252Fe222fc43-b60a-4427-a1c2-e59de08018e9.png%252F950x534.png?signature=2xojfNsSi6ulXkRwbE2UliP7BWw=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "How to change the name of your iPhone")
+
+
+[How to change the name of your iPhone](https://mashable.com/article/how-to-change-the-name-of-iphone/)
+
+
+> When you get a new iPhone, you're given the opportunity to name it something unique, such as "Brian's Awesome iPhone 12." But there are various reasons why you may want to change the name you assigned to your phone during setup. Thankfully, it's incredibly easy to change the name of your iPhone. In this article, we'll break down the reasons you may want to change the name of your iPhone, and how to do it. Why change the name of your iPhone? While the name of your iPhone may seem private, it can be revealed in a few situations.
+
+
+***
+![Gyms Shouldn't Have Scales](https://compote.slate.com/images/1f933a07-d3a3-432a-b91b-9e4e17b2f5b0.jpeg?width=780&height=520&rect=1560x1040&offset=0x0 "Gyms Shouldn't Have Scales")
+
+
+[Gyms Shouldn't Have Scales](https://slate.com/technology/2021/06/gyms-scales-weight-loss-exercise-gains.html)
+
+
+> The last time Vanessa Cavanaugh stepped on the scale at her gym, it didn't go well. 'I was miserable because it was the highest number I've ever seen,' says Cavanaugh, who works as a quality assurance engineer in Brooklyn. The number seemed a little strange, as she was in great shape. 'I also was kickboxing twice a week and doing strength training,' she says. Take a tour of a standard gym, and you'll likely find a scale. 'Every gym I've either been to or worked for has scales—usually in the locker room and out in the fitness area,' says Taylor Long, a personal trainer in North Carolina who's worked in the industry for 10 years.
+
+
+***
+![Best Prime Day Apple Watch Deals 2021: Prime Day deals drop early](https://icdn.digitaltrends.com/image/digitaltrends/prime-day-2021-apple-watch-deals.jpg "Best Prime Day Apple Watch Deals 2021: Prime Day deals drop early")
+
+
+[Best Prime Day Apple Watch Deals 2021: Prime Day deals drop early](https://www.digitaltrends.com/dtdeals/best-prime-day-apple-watch-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Looking for a new Apple Watch? The year's biggest Prime Day deals have launched early, meaning there are few times to get a better deal when it comes to picking up an Apple Watch. Prime Day 2021 arrives on June 21 and June 22, but some huge Prime Day Apple Watch deals have already launched. Is Prime Day the best time for you to buy an Apple Watch? Quite probably — and some deals have already dropped. Read on as we explain all.
+
+
