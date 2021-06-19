@@ -27514,3 +27514,50 @@
 > Oct 1, 2007 13,354 11,612 I still suck at it a few weeks later lol granted it's not 12.9 bad but not on the level of mini easy or even 9.7 from recollection. Never had 10.5 but think it was similar I use the smaller keyboard with my thumb. But typing on the iPad in portrait mode is not very easy I agree. I wish there was some sort of handoff to iPhone like on the Apple TV. edit- I have 12.9 but should still relate.
 
 
+***
+![New book examines the origins of Juneteenth in Texas](https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/19/48bad653-005f-4d21-b070-336c43c18a3f/thumbnail/1200x630/2001cf0932280d70cd4d5e7c01e14e26/cbsn-fusion-new-book-examines-juneteenth-origins-in-texas-thumbnail-737490-640x360.jpg "New book examines the origins of Juneteenth in Texas")
+
+
+[New book examines the origins of Juneteenth in Texas](https://www.cbsnews.com/video/new-book-examines-juneteenth-origins-in-texas/)
+
+
+> New book examines the origins of Juneteenth in Texas While Juneteenth is now a national holiday, Texas has recognized it as a state holiday since 1980. Pulitzer prize-winning historian Annette Gordon-Reed's book "On Juneteenth" looks at the origins of the holiday and its importance in Texas and across the country. She joined CBSN's Lana Zak to discuss.
+
+
+***
+![How to watch Tribute to the Kings: live stream Julio Cesar Chavez, Hector Camacho Jr & Anderson Silva](https://cdn.mos.cms.futurecdn.net/PeB7ftrx7biBxVsFnXdRtH-1200-80.jpg "How to watch Tribute to the Kings: live stream Julio Cesar Chavez, Hector Camacho Jr & Anderson Silva")
+
+
+[How to watch Tribute to the Kings: live stream Julio Cesar Chavez, Hector Camacho Jr & Anderson Silva](https://www.techradar.com/news/how-to-watch-tribute-to-the-kings-live-stream-julio-cesar-chavez-hector-camacho-jr-and-anderson-silva)
+
+
+> (Image credit: Fite.TV) There's family pride at stake in this uniquely personal exhibition fight in Mexico tonight as Hector Camacho Jr looks to avenge a hurt that has lasted three decades. Read on to discover the fight time, full card and your best Julio Cesar Chavez Sr vs Hector Camacho Jr live stream options to watch this intriguing bout - as well as Anderson Silva and the rest - around the globe.This intriguing exhibition fight is the main supporting bout on a bill dubbed "Tribute to the Kings" that is headlined by MMA star Anderson Silva returning to boxing to fight Chavez's son Julio Cesar Chavez Jr.
+
+
+***
+![How to clear your cache on an iPhone](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F128771%252Fdec71885-a9bb-4f13-802f-1e010ba558e9.jpg%252F950x534.jpg?signature=4r-8XjG5JPw2uMXJBwO-FH5BhmU=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "How to clear your cache on an iPhone")
+
+
+[How to clear your cache on an iPhone](https://mashable.com/article/how-to-clear-cache-on-iphone/)
+
+
+> If you, like me, open a new tab on the Safari app of your iPhone every time you have a dumb question to Google search, you probably have a million tabs open right now.  You definitely don't want someone to come across your dumbest questions, so yes, you should close your tabs. For good measure, you should also clear your cache, which will erase your internet history from your device and protect you from eternal embarrassment. Here's how: Open your Settings, and find Safari.  You have to scroll quite a bit, but Safari is hidden in there.
+
+
+***
+[Apple, whose arrogance and sense of entitlement let it treat developers as a hassle for two decades, will find few allies as it fights looming regulation (Chuq Von Rospach/6FPS)](http://www.techmeme.com/210619/p12#a210619p12)
+
+
+> Chuq Von Rospach / 6FPS: Apple, whose arrogance and sense of entitlement let it treat developers as a hassle for two decades, will find few allies as it fights looming regulation — 6FPS V3#6 - Photography and More A Newsletter by Chuq Von Rospach — Welcome to the new issue of 6FPS. — If this issue seems late, believe it or not, it's not.
+
+
+***
+![Developing A C Compiler From Scratch!](https://external-preview.redd.it/F41ghh2Rf2msXGRk3aj0Mnx0oJXxkk2Ol8kC7rwtc9g.jpg?auto=webp&s=37695c8db07f4bba57b9cb63424c90e0deeb936f "Developing A C Compiler From Scratch!")
+
+
+[Developing A C Compiler From Scratch!](https://www.reddit.com/r/programming/comments/o3pwjf/developing_a_c_compiler_from_scratch/)
+
+
+> Discounts on all courses, C/C++ KERNEL DEVELOPMENT/ASSEMBLY https://dragonzap.com/courses
+
+
