@@ -27141,3 +27141,50 @@
 > More Stories Latest Stories Page 2
 
 
+***
+![Why many smartphones don't support all 5G bands in India](https://cdn.mos.cms.futurecdn.net/uBNWhhKJeUanr5neFcNtYG-1200-80.jpg "Why many smartphones don't support all 5G bands in India")
+
+
+[Why many smartphones don't support all 5G bands in India](https://www.techradar.com/news/exclusive-why-smartphone-oems-disable-5g-bands-india)
+
+
+> 5G has become one of the most talked-about topics of recent times, and for good reason — the next generation of cellular connectivity has the potential to change multiple industries when fully deployed.However, in its current state, there are some factors unknown about 5G in India. Should consumers hold back their optimism till more details emerge? Smartphone companies on the other hand seem bullish, with an increasing number of devices being 5G capable today.Early Prime Day deals: see all the best early offers right here.
+
+
+***
+![Samsung patents a wild rotating camera module for its foldable phones](https://cdn.mos.cms.futurecdn.net/PM4rVad9dXJAKNeWJFWgqA-1200-80.jpg "Samsung patents a wild rotating camera module for its foldable phones")
+
+
+[Samsung patents a wild rotating camera module for its foldable phones](https://www.techradar.com/news/samsung-patents-a-wild-rotating-camera-module-for-its-foldable-phones)
+
+
+> (Image credit: Future) When it comes to the front-facing camera on smartphones, we've had brands trying various solutions to ensure that the selfie camera doesn't impact the user experience. While we wait for the under-display cameras to offer satisfactory results, Samsung is probably looking to add another option to its repertoire.The South Korean tech giant has patented a totally different solution and wants to implement a rotating camera on its upcoming foldable smartphone. Though from what we've seen, this rotating camera module is totally wild and something that we've never seen before.
+
+
+***
+![Realme GT to launch in India by Diwali, confirms Madhav Sheth](https://cdn.mos.cms.futurecdn.net/BsL45U6U4R9g7FHRS4TqiK-1200-80.jpg "Realme GT to launch in India by Diwali, confirms Madhav Sheth")
+
+
+[Realme GT to launch in India by Diwali, confirms Madhav Sheth](https://www.techradar.com/news/realme-gt-india-launch-before-diwali-ask-madhav)
+
+
+> (Image credit: Future) The Realme GT is one of the most competitively priced flagship smartphones of the year, when it made its global debut this month. Now, there's finally an official timeline on when we can expect it in India.In the latest episode of #AskMadhav, Realme's CEO Madhav Sheth went on record to talk about their next flagship. When a fan asked, 'when can we expect the Realme GT in India?', he revealed that the device had just been made available in Europe and will come to India 'just before Diwali.
+
+
+***
+[Interview with Rep. Cicilline on his bipartisan package taking on Big Tech, Apple's DOJ subpoena, Facebook's platform lock-in, and acquisition and merger reform (Kara Swisher/New York Times)](http://www.techmeme.com/210619/p2#a210619p2)
+
+
+> Kara Swisher / New York Times: Interview with Rep. Cicilline on his bipartisan package taking on Big Tech, Apple's DOJ subpoena, Facebook's platform lock-in, and acquisition and merger reform — Representative David Cicilline's bipartisan package takes aim at tech companies and would be the biggest antitrust reform in decades.
+
+
+***
+![How to cancel Netflix or Disney+ Hotstar subscription: Step-by-step guide](https://images.indianexpress.com/2021/03/netflix-logo.jpg "How to cancel Netflix or Disney+ Hotstar subscription: Step-by-step guide")
+
+
+[How to cancel Netflix or Disney+ Hotstar subscription: Step-by-step guide](https://indianexpress.com/article/technology/techook/how-to-cancel-netflix-or-disney-hotstar-subscription-step-by-step-guide-7365892/)
+
+
+> Are you planning to take a break from Netflix or Disney+ Hotstar and don't want to spend the money on the subscription? Well, you can cancel the subscriptions of the app. The process to cancel any OTT subscription is simple and you just need to follow a few steps. So keep reading to know more about it. How to cancel a Netflix subscription Step 1: Open the Netflix app on your smartphone and go to the profile section by tapping on the profile icon. The latter is located on the top right corner of the app.
+
+
