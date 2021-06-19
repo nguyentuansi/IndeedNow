@@ -27050,3 +27050,44 @@
 > © Instagram / falling down By: Mia Martinez2021-06-19 03:10:13 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Me and Z's restaurant holding fundraiser to send local baseball team to championship game. Still waiting on your tax refund? What to do about IRS delays and tracking your money. Potent offense lifts Buchanan to first softball state-final appearance. Poor sleep linked to dementia and early death, study finds. NHP Investigating Fatal Crash at US-50 and Casey Road. The Unique Way Scarlett Johansson And Florence Pugh Broke The Ice On Black Widow.
 
 
+***
+[5 Ways You can Remove first Element from the List.](https://www.reddit.com/r/Python/comments/o35ryx/5_ways_you_can_remove_first_element_from_the_list/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![China antitrust: Didi's ride hailing dominance prompts scrutiny before it sets forth for its Uber-beating New York IPO](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/18/cad2827b-7671-49c2-bccb-2ea95086efae_a9da0e04.jpg?itok=Cz5M-Jcz&v=1624008483 "China antitrust: Didi's ride hailing dominance prompts scrutiny before it sets forth for its Uber-beating New York IPO")
+
+
+[China antitrust: Didi's ride hailing dominance prompts scrutiny before it sets forth for its Uber-beating New York IPO](https://www.scmp.com/tech/big-tech/article/3137912/china-antitrust-didis-ride-hailing-dominance-prompts-scrutiny-it-sets)
+
+
+> Illustration by Brian Wang/SCMP
+
+
+***
+[SQLite 3.36.0 Changelog](https://www.sqlite.org/releaselog/3_36_0.html)
+
+
+> Improvement to the EXPLAIN QUERY PLAN output to make it easier to understand. Byte-order marks at the start of a token are skipped as if they were whitespace. An error is raised on any attempt to access the rowid of a VIEW or subquery. Formerly, the rowid of a VIEW would be indeterminate and often would be NULL. The -DSQLITE_ALLOW_ROWID_IN_VIEW compile-time option is available to restore the legacy behavior for applications that need it. The sqlite3_deserialize() and sqlite3_serialize() interfaces are now enabled by default.
+
+
+***
+![Hey guys.....this here is a very basic jarvis which can surf web,youtube and play movies,songs,send mail,give you workout plan...and much more....made it with god's blessings......🙏🙏 sit back watch,enjoy and try coding....🔥🔥](https://external-preview.redd.it/VTHX66dVWpaXQifavQIhj6KrpI-dl8CJZTGgthuPSZg.jpg?auto=webp&s=c5928702c261ee5676a35e5c1ff5d514e0652fbf "Hey guys.....this here is a very basic jarvis which can surf web,youtube and play movies,songs,send mail,give you workout plan...and much more....made it with god's blessings......🙏🙏 sit back watch,enjoy and try coding....🔥🔥")
+
+
+[Hey guys.....this here is a very basic jarvis which can surf web,youtube and play movies,songs,send mail,give you workout plan...and much more....made it with god's blessings......🙏🙏 sit back watch,enjoy and try coding....🔥🔥](https://www.reddit.com/r/Python/comments/o35ey3/hey_guysthis_here_is_a_very_basic_jarvis_which/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Dealroom and Tech Nation: UK becomes the third country, after the US and China, to have 100 or more tech unicorns; 34% of UK unicorns are fintech companies (Michiel Willems/cityam.com)](http://www.techmeme.com/210618/p18#a210618p18)
+
+
+> Michiel Willems / cityam.com: Dealroom and Tech Nation: UK becomes the third country, after the US and China, to have 100 or more tech unicorns; 34% of UK unicorns are fintech companies — The UK tech sector has now 100 UK tech companies valued at $1bn or more, according to new data from Dealroom and Tech Nation, shared with City A.M. today.
+
+
