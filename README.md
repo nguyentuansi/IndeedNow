@@ -27273,3 +27273,47 @@
 > Digital Trends may earn a commission when you buy through links on our site. Looking for a new Apple Watch? The year's biggest Prime Day deals have launched early, meaning there are few times to get a better deal when it comes to picking up an Apple Watch. Prime Day 2021 arrives on June 21 and June 22, but some huge Prime Day Apple Watch deals have already launched. Is Prime Day the best time for you to buy an Apple Watch? Quite probably — and some deals have already dropped. Read on as we explain all.
 
 
+***
+![Infinix may soon launch phone with curved display, 160W fast charging support](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/Screenshot_2021-06-19_at_5.29.-647x363.png?Vr_WTN7eogkV.Hs3ZU.8t_RWg4PZeDvv "Infinix may soon launch phone with curved display, 160W fast charging support")
+
+
+[Infinix may soon launch phone with curved display, 160W fast charging support](https://www.indiatoday.in/technology/news/story/infinix-may-soon-launch-phone-with-curved-display-160w-fast-charging-support-1816981-2021-06-19)
+
+
+> Hong Kong-based smartphone maker Infinix may soon shift its focus towards premium smartphones.Infinix could soon launch a smartphone with a curved display, a periscope camera and 160W fast charging support.The report reveals that the smartphone could come with an in-display finger.Hong Kong-based smartphone maker Infinix may soon shift its focus towards premium smartphones. Infinix has only focused on budget and mid-range devices so far, but this one can expect a flagship from the company. A new report has revealed that Infinix could soon launch a smartphone with a curved display, a periscope camera and 160W fast charging support.
+
+
+***
+![The best graphics cards for 2021](https://icdn.digitaltrends.com/image/digitaltrends/evga-rtx-3060-7.jpg "The best graphics cards for 2021")
+
+
+[The best graphics cards for 2021](https://www.digitaltrends.com/computing/best-graphics-cards/)
+
+
+> AMD and Nvidia both released new GPUs over the past few months, and they quickly made their way to the top of our rankings for the best graphics cards. It doesn't matter if you need a GPU for esports titles at 1080p or a gaming powerhouse that can handle recent AAA games at 4K — there's a graphics card for you. Although not the newest of the bunch, the highly coveted Nvidia RTX 3080 is still our go-to recommendation in 2021. The card can deliver frame rates above 60 frames per second in the most recent games, even with all of the graphical settings turned up, including ray tracing.
+
+
+***
+![Virgin's M100 plan remains the best broadband deal for fast speeds on a budget](https://cdn.mos.cms.futurecdn.net/gibdBfMdBrY8ZKYh8WZvHG-1200-80.jpg "Virgin's M100 plan remains the best broadband deal for fast speeds on a budget")
+
+
+[Virgin's M100 plan remains the best broadband deal for fast speeds on a budget](https://www.techradar.com/news/virgins-m100-plan-remains-the-best-broadband-deal-for-fast-speeds-on-a-budget)
+
+
+> (Image credit: Future) There are plenty of broadband deals out there that go big on speeds, offering the ability to stream, game and generally use the internet at high speeds. However, Virgin provides these faster speeds at a better value price point than anyone else.When you sign up to Virgin's M100 plan, you'll only have to pay £24 a month. That price secures you speeds averaging 108Mb. That's roughly double the speeds you'd get from other fibre broadband deals at this price.Early Prime Day deals: see all the best early offers right here.
+
+
+***
+[Say goodbye to Yahoo Mobile telecom service, users must switch to Visible or another operator](http://www.pinkvilla.com/tech/news/say-goodbye-to-yahoo-mobile-telecom-service-users-must-switch-to-visible-or-another-operator-781898)
+
+
+> Attach Main technology Image: Image Caption: Say goodbye to Yahoo Mobile telecom service, users must switch to Visible or another operator Social Media Image : Enter the Technology details: Yahoo Mobile, an MVNO (mobile network virtual operator), has announced that it is shutting down its services. The Verizon network-backed mobile service has revealed the information on its website. Notably, the service was launched to the public only in the March of last year, which means it only took just around one year before shutting down.
+
+
+***
+[Samsung tipped to begins mass production for Galaxy Z Fold 3 and Z Flip 3](http://www.pinkvilla.com/tech/news/samsung-tipped-to-begins-mass-production-for-galaxy-z-fold-3-and-z-flip-3-781896)
+
+
+> Attach Main technology Image: Image Caption: Samsung tipped to begins mass production for Galaxy Z Fold 3 and Z Flip 3 Social Media Image : Enter the Technology details: Samsung is working on its upcoming next-generation foldable smartphones and there is no secret about it. A couple of weeks back it was reported that the company is planning to make the Galaxy Z Fold 3 and the Galaxy Z Flip 3 available for sale on August 27th, 2021. The latest reports suggest that the Galaxy Unpacked event will commence on August 3rd, 2021, which means that the August 27th market launch date seems pretty legit.
+
+
