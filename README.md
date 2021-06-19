@@ -27317,3 +27317,50 @@
 > Attach Main technology Image: Image Caption: Samsung tipped to begins mass production for Galaxy Z Fold 3 and Z Flip 3 Social Media Image : Enter the Technology details: Samsung is working on its upcoming next-generation foldable smartphones and there is no secret about it. A couple of weeks back it was reported that the company is planning to make the Galaxy Z Fold 3 and the Galaxy Z Flip 3 available for sale on August 27th, 2021. The latest reports suggest that the Galaxy Unpacked event will commence on August 3rd, 2021, which means that the August 27th market launch date seems pretty legit.
 
 
+***
+![How to use Google Colab for Python Data Projects](https://external-preview.redd.it/FUnZ53V9AVy7-dqSzAthi0-3m-KJDrzrlUCk5PXb4zQ.jpg?auto=webp&s=49478d248dc9f94d47863f6d3e60f06fe9881d30 "How to use Google Colab for Python Data Projects")
+
+
+[How to use Google Colab for Python Data Projects](https://www.reddit.com/r/Python/comments/o3gle3/how_to_use_google_colab_for_python_data_projects/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Exeter Chiefs vs Sale Sharks live stream: how to watch Premiership semi-final 2021 online from anywhere](https://cdn.mos.cms.futurecdn.net/LxasyDis85dswu98WVEhUN-1200-80.jpg "Exeter Chiefs vs Sale Sharks live stream: how to watch Premiership semi-final 2021 online from anywhere")
+
+
+[Exeter Chiefs vs Sale Sharks live stream: how to watch Premiership semi-final 2021 online from anywhere](https://www.techradar.com/news/exeter-chiefs-vs-sale-sharks-live-stream-how-to-watch-premiership-semi-final-2021-online-from-anywhere)
+
+
+> (Image credit: Alex Davidson/Getty Images) Sale are looking to make immediate amends for their narrow 20-19 defeat to Exeter last weekend as the two teams meet once again in this afternoon's Premiership semi-final. Follow our guide as we explain how to get a Exeter Chiefs vs Sale Sharks live stream and watch this massive match online from wherever you are today.Last Saturday's thriller at Sandy Park saw the Chiefs mount a superb comeback with 14 men to beat Sale and secure home advantage in today's showdown, while also extending their impressive win run to seven consecutive gamesEarly Prime Day deals: see all the best early offers right here.
+
+
+***
+[Father's Day 2021; Gift your Father something special this year; We have a few suggestions](http://www.pinkvilla.com/tech/news/father-s-day-2021-gift-your-father-something-special-this-year-we-have-a-few-suggestions-782002)
+
+
+> Attach Main technology Image: Image Caption: Father's Day 2021; Gift your Father something special this year; We have a few suggestions Social Media Image : Enter the Technology details:     Father's Day is just around the corner, and most of you are already searching for a gift, or already bought one. For those, who confused and are still searching for a gift. Here are some tech products that you can gift your father. These gifts will help keep him entertained, keep a check on his health and help him groom himself during this pandemic.
+
+
+***
+![‘QUITE CONCERNED': How a single post forced police to expose stunning truth](https://cdn.newsapi.com.au/image/v1/e3c99ff22cddc75a9f875595362692fe?width=1280 "‘QUITE CONCERNED': How a single post forced police to expose stunning truth")
+
+
+[‘QUITE CONCERNED': How a single post forced police to expose stunning truth](https://www.news.com.au/technology/online/hacking/operation-ironside-blogger-forced-police-to-pounce-on-criminals-after-three-years-of-secrecy/news-story/1c76098f6160ff8536a1829684b411ec)
+
+
+> It was the perfect secret criminal investigation.A messaging app that thousands of underworld figures thought was completely encrypted and hidden from global law enforcement, distributed through special mobile phones that were only in the hands of alleged criminals.Instead, the app and the jailbroken phones had been distributed, and were being controlled and watched from the beginning, by police in Australia and the US.The massive coup came in early 2018, when the FBI shut down a different, notorious encrypted service called Phantom Secure that had been used by cartels and other gangs.
+
+
+***
+![Realme GT to launch in India before Diwali, company confirms](https://images.indianexpress.com/2021/06/Realme-GT-5G-.jpg "Realme GT to launch in India before Diwali, company confirms")
+
+
+[Realme GT to launch in India before Diwali, company confirms](https://indianexpress.com/article/technology/mobile-tabs/realme-gt-to-launch-in-india-before-diwali-7366538/)
+
+
+> Realme GT is set to launch in India before Diwali. The company's CEO Madhav Sheth has confirmed this in the latest episode of the #AskMadhav online series. The smartphone was recently launched in Europe and offers flagship-level features at a reasonable price point. Here is everything you need to know about the Realme GT. If the company launches the same variant in India, the device may come with similar specifications. The global variant of the Realme GT comes with a 6.43-inch FHD+ Super AMOLED display with support for a 120Hz refresh rate.
+
+
