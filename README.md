@@ -27364,3 +27364,53 @@
 > Realme GT is set to launch in India before Diwali. The company's CEO Madhav Sheth has confirmed this in the latest episode of the #AskMadhav online series. The smartphone was recently launched in Europe and offers flagship-level features at a reasonable price point. Here is everything you need to know about the Realme GT. If the company launches the same variant in India, the device may come with similar specifications. The global variant of the Realme GT comes with a 6.43-inch FHD+ Super AMOLED display with support for a 120Hz refresh rate.
 
 
+***
+![Apple would have wanted to set up its own clinics in the US](https://media.nu.nl/m/vxcxmoraja9r_wd1280.jpg/apple-zou-eigen-klinieken-hebben-willen-opzetten-in-de-vs.jpg "Apple would have wanted to set up its own clinics in the US")
+
+
+[Apple would have wanted to set up its own clinics in the US](https://www.tellerreport.com/tech/2021-06-19-apple-would-have-wanted-to-set-up-its-own-clinics-in-the-us.SJ2D89soO.html)
+
+
+> Tech company Apple had plans a few years ago to open clinics in the United States, The Wall Street Journal reported on Wednesday based on insiders. Tech company Apple had plans a few years ago to open clinics in the United States, The Wall Street Journal reported on Wednesday based on insiders. Apple is said to have set up test clinics where employees were cared for. The patients of the test clinics should, among other things, be monitored with the Apple Watch, which contains heart rate sensors. According to WSJ , questions have been raised within Apple by employees about the quality of health data from the testing clinics and the use of the data for product development.
+
+
+***
+![Audi Will Not Introduce ICE Vehicles After 2026, No Hybrid Vehicles Either](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/audi.jpeg "Audi Will Not Introduce ICE Vehicles After 2026, No Hybrid Vehicles Either")
+
+
+[Audi Will Not Introduce ICE Vehicles After 2026, No Hybrid Vehicles Either](https://www.benzinga.com/news/21/06/21634755/audi-will-not-introduce-ice-vehicles-after-2026-no-hybrid-vehicles-either)
+
+
+> Volkswagen Group's (OTC: VWAGY) Audi will not introduce cars based on petrol and diesel engines from 2026.  What Happened: According to the German publication, Süddeutsche Zeitung, Audi will stop introducing new ICE vehicles from 2026.  Audi has introduced electric vehicles in the last few months, including the e-Tron GT, Q4 e-Tron, and Q4 Sportback e-Tron.  Duesmann's report mentions there will be no hybrid vehicles either. Instead, it looks like the company will be going EV-only soon. Audi will launch its final ICE-powered vehicle, the Q5, in 2026, which will be manufactured through to 2033, the report says.
+
+
+***
+![Ingenious new search and rescue drone finds people by listening for screams](https://icdn.digitaltrends.com/image/digitaltrends/matrice-600.jpg "Ingenious new search and rescue drone finds people by listening for screams")
+
+
+[Ingenious new search and rescue drone finds people by listening for screams](https://www.digitaltrends.com/features/scream-scanning-search-and-rescue-drone/)
+
+
+> There's that iconic moment in many a Superman story in which the Man of Steel is soaring through the sky when, thanks to his super hearing, he picks up the faint, frightened voice of a person calling for help. Without a second thought, Supes zeroes in on the audio source and flies off in that direction, ready to perform a daring rescue. Swap out comics' oldest cape-sporting superhero for a drone and you've pretty much got the technology being developed by researchers in Germany's Fraunhofer FKIE research lab.
+
+
+***
+![Google Pixel Buds A-Series Review: Are These Earbuds Really Worth $100?](https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/google-pixel-buds-a-series-review-2.jpg "Google Pixel Buds A-Series Review: Are These Earbuds Really Worth $100?")
+
+
+[Google Pixel Buds A-Series Review: Are These Earbuds Really Worth $100?](https://screenrant.com/google-pixel-buds-a-series-review-good-bad-features/)
+
+
+> Not unlike its Pixel smartphones, Google's journey in the consumer audio niche has been met with equal ups and downs. The Pixel Buds A-Series are the latest Pixel Buds to hit the scene and, while they may not be the most powerful or capable Pixel Buds, they stand out as Google's most complete earbud package to date. When Google launched the original Pixel Buds in 2017, the reception was mixed to say the least. The earbuds were widely praised for their deep Google Assistant integration and good sound quality, but thanks to a truly awkward design and confusing charging case, they never really took off the way Google had intended.
+
+
+***
+![This Week in Valheim: Hanoks and Handy Mods](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/This%20Week%20In%20Valheim%20Cover%2006-19-21.jpg?itok=OChXWqIY "This Week in Valheim: Hanoks and Handy Mods")
+
+
+[This Week in Valheim: Hanoks and Handy Mods](https://techraptor.net/gaming/features/this-week-in-valheim-june-19-2021)
+
+
+> This Week in Valheim, we explore some extra handy mods, a group of surprisingly deadly bees, and a touching tribute to Berserk author Kentaro Miura. Let's dive in! As usual, there's no Valheim news this week. Last week's edition of This Week in Valheim has something interesting to check out, though — a number of details about the game's future that were revealed by the developers in a Reddit AMA. It's well worth checking out, but for now, let's move on to this week's content! This Week in Valheim Community Creations The community has cooked up some cool stuff this week — and in one case, the cooking is a little more literal than usual.
+
+
