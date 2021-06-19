@@ -27414,3 +27414,53 @@
 > This Week in Valheim, we explore some extra handy mods, a group of surprisingly deadly bees, and a touching tribute to Berserk author Kentaro Miura. Let's dive in! As usual, there's no Valheim news this week. Last week's edition of This Week in Valheim has something interesting to check out, though — a number of details about the game's future that were revealed by the developers in a Reddit AMA. It's well worth checking out, but for now, let's move on to this week's content! This Week in Valheim Community Creations The community has cooked up some cool stuff this week — and in one case, the cooking is a little more literal than usual.
 
 
+***
+![Early Prime Day deal: Save on Dyson V10 cordless vacuum today](https://icdn.digitaltrends.com/image/digitaltrends/dyson-cyclone-v10-absolute-cordless-stick-vacuum-cleaner.jpg "Early Prime Day deal: Save on Dyson V10 cordless vacuum today")
+
+
+[Early Prime Day deal: Save on Dyson V10 cordless vacuum today](https://www.digitaltrends.com/dtdeals/dyson-v10-cordless-vacuum-deal-amazon-prime-day-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Now's the perfect time to upgrade your house-cleaning gear, whether you need a new vacuum, a robotic self-cleaning vacuum, or something else. Amazon is hosting Prime Day deals on a huge selection of items, including cleaning and maintenance devices. These excellent discounts don't come around often. If you prefer to control the vacuum yourself, Amazon is offering an impressive discount on the Dyson Cyclone V10 Cordless Vacuum Cleaner that is meant to suck up animal hair and much, much more.
+
+
+***
+![Don't wait until Prime Day — shop this 50-inch 4K TV deal NOW](https://icdn.digitaltrends.com/image/digitaltrends/tcl-4-series-4k-tv-featured-image-large.jpg "Don't wait until Prime Day — shop this 50-inch 4K TV deal NOW")
+
+
+[Don't wait until Prime Day — shop this 50-inch 4K TV deal NOW](https://www.digitaltrends.com/dtdeals/tcl-50-4-series-uhd-smart-roku-tv-deal-walmart-prime-day-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Prime Day is just around the corner, it officially kicks off on June 21 and June 22, but we're so close we can almost taste it! There are so many Prime Day deals that are available already from retailers like Best Buy, Amazon, and Walmart. Walmart is not to be outdone on the deals front and has launched its own Walmart Prime Day deals and is offering a crazy discount on the TCL 50-inch 4-Series 4K UHD Roku Smart TV (50S435) which drops nearly $160 off the normal price, bringing it to $320.
+
+
+***
+![An automatic USB or any Disk Drive, backing up software. named it LifeSaver](https://external-preview.redd.it/OKEvhGCH4tbxyFLs_S52nRSJFTN7bO4V6fBTNydS6V4.jpg?auto=webp&s=39ed03aef68b0bf4e0f034aadb987e22f773ff00 "An automatic USB or any Disk Drive, backing up software. named it LifeSaver")
+
+
+[An automatic USB or any Disk Drive, backing up software. named it LifeSaver](https://www.reddit.com/r/Python/comments/o3ljah/an_automatic_usb_or_any_disk_drive_backing_up/)
+
+
+> I just completed this. I will say, it's in Alpha stage. Not tested thoroughly, but it woked fine on my system, under evey circumstance that arised.https://github.com/pootatookun/LifeSaver_USB-LogicalDisks_auto_backing.gitNot, the best piece of code. Neither best programming practice or comments i guess. Some little tricks too.I basically made it for my father. Being a boomer and him doing all his work is flash drive. Many instances arised, where data got corrupt or some other mishap.So, i made this auto backing up software, to periodicaly save USB pendrive contect into a folder, inside of pc .
+
+
+***
+![How to edit your iMessage profile](https://mondrian.mashable.com/2021%252F06%252F19%252F10%252F758dc6e5eedc4524bcfda06c5ae7884a.7c9a1.jpg%252F1200x630.jpg?signature=wEmQcR-hrJB46oFBmcZBBJKbDuE= "How to edit your iMessage profile")
+
+
+[How to edit your iMessage profile](https://mashable.com/article/how-to-edit-imessage-profile/)
+
+
+> Not everyone uses contact photos, but I've found that when my friends do, they somehow always choose the worst possible photo of me. Not cool, friends.  Luckily, there is a way you can control what your contact info looks like in other people's phones. Editing your iMessage profile lets you choose things like a Memoji, Animoji, or custom photo to populate in your contacts, and we've got a step-by-step on exactly how to do it below.  Step 1: Open your Messages app. Find your iMessage hub, and open that baby up.
+
+
+***
+![UK Apple stores, price matching.](https://images.macrumors.com/social/?t=2301548&v=6 "UK Apple stores, price matching.")
+
+
+[UK Apple stores, price matching.](https://forums.macrumors.com/threads/uk-apple-stores-price-matching.2301548/)
+
+
+> Yesterday I visited my local Apple store to buy a new MBA (love it BTW), I've seen that in the UK other stores have some models of Macs cheaper then Apple. However we where going to use a education discount which will be around the same price. However even before I had decided on a Air or a Pro or said that we wanted to use a education discount, the Apple employee said that they will price match any online or in store price and whilst I'm looking at the machines I should check some online prices.
+
+
