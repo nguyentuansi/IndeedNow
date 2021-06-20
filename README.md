@@ -27702,3 +27702,44 @@
 > A tense exchange involving Foreign Affairs Minister Marise Payne has unfolded after ABC Insiders as host David Speers attempted to clarify the government's position on achieving net zero emissions by 2050.Prime Minister Scott Morrison has softened his climate policy recently and has indicated Australia wanted to achieve net zero emissions as soon as possible and 'preferably' by 2050.Mr Morrison, who is currently in France, is facing pressure from Liberal party members and global leaders to formally commit to the 2050 target.
 
 
+***
+[Leonid Radvinsky, billionaire owner of OnlyFans, ran sites in the '90s promoting "hacked" porn site passwords, including links promising access to child porn (Forbes)](http://www.techmeme.com/210620/p6#a210620p6)
+
+
+> Forbes: Leonid Radvinsky, billionaire owner of OnlyFans, ran sites in the '90s promoting “hacked” porn site passwords, including links promising access to child porn — Associate editor at Forbes, covering cybercrime, privacy, security and surveillance. — I cover the work and wealth of Europe's richest.
+
+
+***
+![If you think GPU stocks are limited, try tracking down Colorful's latest RTX 3090](https://cdn.mos.cms.futurecdn.net/dAWt2pmq2Ac75mvwpzLhCQ-1200-80.jpg "If you think GPU stocks are limited, try tracking down Colorful's latest RTX 3090")
+
+
+[If you think GPU stocks are limited, try tracking down Colorful's latest RTX 3090](https://www.techradar.com/news/if-you-think-gpu-stocks-are-limited-try-tracking-down-colorfuls-latest-rtx-3090)
+
+
+> (Image credit: Colorful) There's no denying that GPU stocks are in a slump at the moment. Even with new GPUs coming into the market this month, stocks are still in short supply as manufacturers struggle to keep up with overwhelming demand for RTX graphics cards.But if you've got some cash to spare (and we mean a LOT of cash), then Colorful's latest GPU offering might be just what you need. The new iGame GeForce RTX 3090 Kudan will only have 1,000 units in production, and has a host of ultra-premium features.
+
+
+***
+[Technical Insight: McLaren continues its development drive in France](http://www.f1reader.com/news/technical-insight-mclaren-continues-its-development-drive-in-france-281048)
+
+
+> [MotorSportWeek.com] McLaren not only showed up at Le Castellet with a commemorative livery for the late Mansour Ojjeh, but also introduced an important new update package as it finds itself locked in a close battle for third in the championship against Ferrari. The MCL35M suffered in Baku, and failed to express the potential from the first […]
+
+
+***
+[Eltropy, whose suite allows financial institutions to communicate with customers via text messages, announces $21M investment from K1 as part of its Series A (Emma Folts/Los Angeles Business ...)](http://www.techmeme.com/210620/p5#a210620p5)
+
+
+> Emma Folts / Los Angeles Business Journal stories: Eltropy, whose suite allows financial institutions to communicate with customers via text messages, announces $21M investment from K1 as part of its Series A — Manhattan Beach-based private equity firm K1 Investment Management is making a $21 million investment in Milpitas-based software company Eltropy Inc.
+
+
+***
+![Why now is the worst time to buy a Ring Video Doorbell](https://icdn.digitaltrends.com/image/digitaltrends/ring-video-doorbell-4_0003.jpg "Why now is the worst time to buy a Ring Video Doorbell")
+
+
+[Why now is the worst time to buy a Ring Video Doorbell](https://www.digitaltrends.com/dtdeals/why-now-is-the-worst-time-to-buy-a-ring-video-doorbell/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Erika Rawes/Digital Trends All throughout the weekend, you can expect to see some awesome early Prime Day deals from Amazon, Walmart, Best Buy, and many other retailers. Because there are so many deals on so many electronics and devices, you might be wondering if now is a good time to buy a Ring Video Doorbell for your smart home. The answer is no, at least not this weekend, because Amazon Prime Day officially kicks off on Monday, June 21, continuing on Tuesday, June 22.
+
+
