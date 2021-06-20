@@ -27561,3 +27561,50 @@
 > Discounts on all courses, C/C++ KERNEL DEVELOPMENT/ASSEMBLY https://dragonzap.com/courses
 
 
+***
+![Joining CSV and JSON data with an in-memory SQLite database](https://external-preview.redd.it/VxN4ZFel05bUdxZwkccRvUmTD_QVtP5_XyyiXsNdw0M.jpg?auto=webp&s=58a7481ed0be3ef5c7b045c5681fca0851ed398b "Joining CSV and JSON data with an in-memory SQLite database")
+
+
+[Joining CSV and JSON data with an in-memory SQLite database](https://www.reddit.com/r/programming/comments/o3tjsx/joining_csv_and_json_data_with_an_inmemory_sqlite/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Realme Watch 2 and Buds Air 2 in for review](https://fdn.gsmarena.com/imgroot/news/21/06/realme-stuff-ifr/-476x249w4/gsmarena_000.jpg "Realme Watch 2 and Buds Air 2 in for review")
+
+
+[Realme Watch 2 and Buds Air 2 in for review](https://www.gsmarena.com/realme_watch_2_and_buds_air_2_in_for_review-news-49643.php)
+
+
+> Today we welcome a couple of cool Realme gadgets in our office. The Realme Watch 2 and the Realme Buds Air 2. The Realme Watch 2 is very light - just 38g, but doesn't skimp on features. It has blood oxygen and heart rate monitoring, tracking for 90 different sports, IP68 water resistance and can go for 12 days on a charge. The Realme Buds Air 2 have an in-ear design as well as active noise cancellation. Music is blasted through 10mm drivers and the buds keep boing for up to 5 hours. You get a total of 25 hours from the case and a 10 minute charge nets you two hours of listening time.
+
+
+***
+![Huge Apple Watch deal: the Apple Watch 6 drops to lowest price ever at Amazon](https://cdn.mos.cms.futurecdn.net/Tz3mNmxPJJwAJwU9R7GVnG-1200-80.jpg "Huge Apple Watch deal: the Apple Watch 6 drops to lowest price ever at Amazon")
+
+
+[Huge Apple Watch deal: the Apple Watch 6 drops to lowest price ever at Amazon](https://www.techradar.com/news/huge-apple-watch-deal-the-apple-watch-6-drops-to-lowest-price-ever-at-amazon)
+
+
+> (Image credit: Future) Just ahead of the highly anticipated Amazon Prime Day sale, we've spotted an incredible deal on the best-selling Apple Watch 6. Right now, you can get the Apple Watch Series 6 on sale for a record-low price of $329 (was $399). That's the best deal we've seen 40mm smartwatch and a fantastic bargain to snag before the official Amazon Prime Day sale even begins. Not in the US? See the best Apple Watch deals in your region below.See more early Prime Day deals at AmazonApple Watch Series 6 (40mm, GPS): $399 $329 at Amazon Save $70 - This early Prime Day deal includes the best-selling Apple Watch 6 that's on sale for a record-low price of $329.
+
+
+***
+[You searched for Python](https://www.reddit.com/r/Python/comments/o3tbpz/you_searched_for_python_download_online_courses/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![I finally quit tutorial hell and made a simple hangman game all by myself without watching any tutorial](https://external-preview.redd.it/4-DxLM-C2Ve3tHmVL5ITI6GRtMVG8PzzdBuCKiaabfE.jpg?auto=webp&s=079a7260ec149880c73263d64811698adb22760a "I finally quit tutorial hell and made a simple hangman game all by myself without watching any tutorial")
+
+
+[I finally quit tutorial hell and made a simple hangman game all by myself without watching any tutorial](https://www.reddit.com/r/Python/comments/o3tabt/i_finally_quit_tutorial_hell_and_made_a_simple/)
+
+
+> I have been struggling with tutorial hell for as long as I can remember in my programming journey. Today I finally decided to challenge myself to write a simple python program without looking at any tutorial.Here is the link to the code https://gist.github.com/syappp/d5887cfb3210e3c053a68f20f128b87dI would really appreciate any feedback and suggestions to improve my code.Thank you and have a nice day!
+
+
