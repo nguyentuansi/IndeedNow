@@ -27790,3 +27790,53 @@
 > June 20, 2021 03:50 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Here's a comparison of all the top early DJI & drone deals for Amazon Prime Day 2021, together with the latest offers on DJI Mavic drones, Osmo Pocket and Action handheld cameras, and more remote-controlled drones. Shop the latest deals using the links below. Best DJI deals: Save up to 36% on top-rated DJI drones at Amazon - find live deals on best-selling DJI drone quadcopters, along with the starter, FPV, and Fly More Combo bundles Save up to 27% on DJI Mavic drones at Amazon - including deals on Mavic 2 Pro, Mavic Air 2, Mavic Pro, Mavic Air, and Mavic Mini remote-controlled drones Save on the DJI Air 2S at Amazon - introducing the newest DJI drone, equipped with a 1-inch sensor, 5.
 
 
+***
+![Prime Day Bose Deals 2021: Early Bose Soundbar, Wireless Headphones & Speaker Sales Compared by Consumer Articles](https://mms.businesswire.com/media/20210620005119/en/1130296/23/Amazon_Prime_Day_Deals_2021.jpg "Prime Day Bose Deals 2021: Early Bose Soundbar, Wireless Headphones & Speaker Sales Compared by Consumer Articles")
+
+
+[Prime Day Bose Deals 2021: Early Bose Soundbar, Wireless Headphones & Speaker Sales Compared by Consumer Articles](https://www.businesswire.com/news/home/20210620005119/en/Prime-Day-Bose-Deals-2021-Early-Bose-Soundbar-Wireless-Headphones-Speaker-Sales-Compared-by-Consumer-Articles)
+
+
+> June 20, 2021 06:00 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Prime Day 2021 experts are rounding-up the top early Bose audio deals for Prime Day, featuring sales on Bose QuietComfort 35, Bose Noise Cancelling Headphones 700, SoundLink & Home Speaker, Bose 700 Smart Soundbar and more. Shop the best deals by clicking the links below. Best Bose headphones deals: Best Bose speaker deals: Save on Bose speakers, soundbars, & home theater systems at Amazon - view the top deals on Bose home speakers, portable speakers, surround sound systems, and more Save on a wide range of Bose portable speakers at Amazon - find current deals on the Bose SoundLink, SoundLink mini, Home Speaker 300, and more Save up to 25% on top-rated Bose home speakers & multimedia systems at Amazon - check the latest deals on the Bose Home Speaker 300, 500, Bose 700, Bose SoundLink series, and more Save on Bose soundbars at Amazon - get the best deals on the Bose Smart Soundbar 700, SoundTouch 300, Solo 5 TV Soundbar, and more Looking for more deals? Click here to shop the entire range of deals at Walmart's Deals for Days sale (June 20 – 23) and click here to shop Amazon's active and upcoming deals.
+
+
+***
+![Tablet Prime Day Deals (2021): Early Apple iPad, Samsung Galaxy Tablet, Fire HD & Kindle Savings Monitored by Retail Egg](http://www.businesswire.com/images/bwlogo_square.png "Tablet Prime Day Deals (2021): Early Apple iPad, Samsung Galaxy Tablet, Fire HD & Kindle Savings Monitored by Retail Egg")
+
+
+[Tablet Prime Day Deals (2021): Early Apple iPad, Samsung Galaxy Tablet, Fire HD & Kindle Savings Monitored by Retail Egg](https://www.businesswire.com/news/home/20210620005137/en/Tablet-Prime-Day-Deals-2021-Early-Apple-iPad-Samsung-Galaxy-Tablet-Fire-HD-Kindle-Savings-Monitored-by-Retail-Egg)
+
+
+> June 20, 2021 06:00 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Prime Day researchers have revealed the latest early tablet deals for Amazon Prime Day, featuring all the best sales on Apple iPad, Android tablets & drawing tablets. Browse the best deals using the links below. Best Android tablet deals: Save up to 53% on a wide range of Samsung Galaxy Tablets at Amazon - get the best deals on new & renewed Samsung Galaxy Tablets Tab A, Tab A7, Tab S6, Tab S6 Lite & more Save up to $101 on the Samsung Galaxy Tab S7 at Amazon - check the top deals on Wi-Fi & Wi-Fi + Cellular Galaxy Tablet Tab S7 models Save up to $101 the popular Samsung Galaxy Tab A7 tablet & accessories at Amazon - see live prices on the Galaxy Tab A7 with Bluetooth, Wi-Fi & Cellular connectivity options, Galaxy Tab A7 cases & more Save up to $101 a wide range of Android tablets & accessories at Amazon - find the best deals on tablets from Samsung, Lenovo, RCA & more Save up to $100 Lenovo tablets, stands, & other accessories at Amazon - check the latest deals on the Lenovo Smart Tab M10, Smart Tab M8, Yoga touchscreen tablet & more Best Apple iPad deals: Best drawing tablet deals: Save up to 40% on high-quality drawing tablets & pen displays at Amazon - get the best deals on graphics drawing tablets from Wacom, Huion, XP-Pen & more Save up to $86 on new & renewed Wacom tablets at Amazon - view deals on the Wacom Intuos, Intuos Pro, Cintiq, One by Wacom & more graphic drawing tablets Save on the Wacom Cintiq drawing tablets & accessories at Amazon - check the best deals on the Wacom Cintiq 16, Cintiq Pro 24, and Cintiq Pro 32 drawing tablets, pen displays, mounts & more Save up to $86 on new & renewed Wacom Intuos drawing tablets at Amazon - check the top deals on the Wacom Intuos S, Intuos M, Intuos Pro & more Save up to $60 on the popular Huion Kamvas tablets at Amazon - click the link for live prices on the Kamvas Pro 12, 13, 16 & 22 drawing tablets Best Kindle deals: Best Fire tablet deals: Searching for more deals? Click here to view the full selection of deals at Walmart's Deals for Days sale and click here to shop Amazon's entire range of active deals.
+
+
+***
+![How to add an admin to a Facebook page](https://mondrian.mashable.com/2021%252F06%252F20%252F0e%252F6b8a2c798eaf41a39a78063a8a445ebf.d4ef2.jpg%252F1200x630.jpg?signature=muo7LIwZeLU1v3Hx6fZln8kOfpU= "How to add an admin to a Facebook page")
+
+
+[How to add an admin to a Facebook page](https://mashable.com/article/how-to-add-admin-facebook-page/)
+
+
+> Do you run a Facebook page for a brand? Maybe you run a personal page for you and some friends? Or perhaps you run a public Ariana Grande fan club page? (Or, you know, a page for one of your own personal interests.) Running a Facebook page on your own can be difficult. Thankfully, you can add administrators, or admins, to help you manage your page and keep things in order. More good news: Adding admins is super easy to do! Choose your fellow Facebook admins and get adding Anyone who's an admin can add fellow admins to a page.
+
+
+***
+![F1 France live stream: how to watch French Grand Prix online from anywhere](https://cdn.mos.cms.futurecdn.net/fo4fFriTapH9TcZZ5hAiG4-1200-80.jpg "F1 France live stream: how to watch French Grand Prix online from anywhere")
+
+
+[F1 France live stream: how to watch French Grand Prix online from anywhere](https://www.techradar.com/news/f1-france-live-stream-how-to-watch-french-grand-prix-2021-online-from-anywhere)
+
+
+> The Max Verstappen vs Lewis Hamilton Formula 1 dogfight continues today in France, with the drivers sitting at one and two on the grid. Follow our guide to live stream F1 and watch the 2021 French Grand Prix online wherever you are.Le Castellet has a lot to live up to after the chaos of Azerbaijan, which produced a delirious podium of Sergio Perez, Sebastian Vettel and Pierre Gasly.Early Prime Day deals: see all the best early offers right here.Red Bull now lead the constructors' championship by 26 points, and Mercedes have a battle on their hands with Valtteri Bottas looking anything but happy.
+
+
+***
+![pinout — pinout 0.0.10 documentation pinout provides an easy method to create pin-out diagrams for electronic hardware.](https://external-preview.redd.it/LkwWduTp7xOEAf4VcdrD68ESoiFqT-MfqChHDKRpQLQ.jpg?auto=webp&s=cd3833a80db5348e4267c4eb03238cb9b5715aaf "pinout — pinout 0.0.10 documentation pinout provides an easy method to create pin-out diagrams for electronic hardware.")
+
+
+[pinout — pinout 0.0.10 documentation pinout provides an easy method to create pin-out diagrams for electronic hardware.](https://www.reddit.com/r/Python/comments/o41zt2/pinout_pinout_0010_documentation_pinout_provides/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
