@@ -27987,3 +27987,50 @@
 > CAPE CANAVERAL, Fla. – Spacewalking astronauts equipped the International Space Station with the first in a series of powerful new solar panels Sunday, overcoming suit problems and other obstacles with muscle and persistence.It took two spacewalks for French astronaut Thomas Pesquet and NASA astronaut Shane Kimbrough to install and unfurl the panel to its full 63 feet (19 meters) in length.The solar wing unrolled like a red carpet once the final set of bolts was released, relying solely on pent-up energy.
 
 
+***
+[Dash-like web frameworks](https://www.reddit.com/r/Python/comments/o4ayir/dashlike_web_frameworks/)
+
+
+> I've known Plotly's Dash as a data visualisation framework for a while, but it was only recently that I tried out how far you can go when building larger and more feature-rich applications. And as it turns out, it works really well. Having both "backend" and "frontend" in a single, cohesive Python-based code base makes prototyping and development extremely efficient, not to mention fun, especially for someone who is not a die-hard web developer.Now I quickly hit on some of the current limitations of Dash.
+
+
+***
+![gjf: A tool to fix invalid GeoJSON objects](https://external-preview.redd.it/zA0ocRe4EFgdqL8M75HCbhHRsqg-COS2jtL_wMJ2kSk.jpg?auto=webp&s=46ceabc1fc796bf09d7ef65c00b7fa860804cf76 "gjf: A tool to fix invalid GeoJSON objects")
+
+
+[gjf: A tool to fix invalid GeoJSON objects](https://www.reddit.com/r/Python/comments/o4auys/gjf_a_tool_to_fix_invalid_geojson_objects/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Avowed on Xbox Series X trailer, release date, Game Pass and what we know](https://cdn.mos.cms.futurecdn.net/zNuZukwq6yag8azBtextpG-1200-80.jpg "Avowed on Xbox Series X trailer, release date, Game Pass and what we know")
+
+
+[Avowed on Xbox Series X trailer, release date, Game Pass and what we know](https://www.techradar.com/news/avowed-on-xbox-series-x-trailer-release-date-game-pass-and-what-we-know)
+
+
+> Avowed, currently being developed by Obsidian Entertainment, is shaping up to be one of the most highly-anticipated Xbox exclusive titles yet. From the developer behind The Outer Worlds and Fallout: New Vegas, Avowed is a first-person medieval fantasy RPG set in Eora, the world of the Pillars of Eternity games. Thanks to its visuals, Avowed is drawing comparisons to the Elder Scrolls franchise, which is to be expected since we don't know all that much about it yet. Early Prime Day deals: see all the best early offers right here.
+
+
+***
+![Target 'Deal Days' Sale: The 22 Best Deals So Far (2021)](https://media.wired.com/photos/60ce1ec3a86e5ac15953a048/191:100/w_1280,c_limit/wired-noah-camp-target.jpg "Target 'Deal Days' Sale: The 22 Best Deals So Far (2021)")
+
+
+[Target 'Deal Days' Sale: The 22 Best Deals So Far (2021)](https://www.wired.com/story/target-deal-days-2021-prime-day-sale/)
+
+
+> The emphasis might be on Amazon Prime Day this week, but other stores have started promoting their own deals events in an effort to compete. Target's Deal Days Sale is running from June 20 to 22, and these are our favorite discounts here at WIRED. Walmart is also having its own sale that begins at 7 pm ET, and if you plan to check out the Prime Day deals, the sale officially starts at 3 am ET, Monday, June 21. We have early deals and some tips to get the most of the day.Note: We strike through items that sell out or rise in price as of publishing.
+
+
+***
+![How to watch Rick and Morty season 5 online](https://cdn.mos.cms.futurecdn.net/8QpMbThTME2KqXnUacrrzV-1200-80.png "How to watch Rick and Morty season 5 online")
+
+
+[How to watch Rick and Morty season 5 online](https://www.techradar.com/news/how-to-watch-rick-and-morty-season-5-online-stream-new-episodes-from-anywhere)
+
+
+> (Image credit: Adult Swim) Dial up the delirium to the level right below Szechuan Sauce, because Rick and Morty's back for a fifth serving of inter-dimensional insanity. And something's off, with Morty seemingly done with his grandpa's reckless adventures, and Jerry landing a job interview! Read on as we explain how to watch Rick and Morty season 5 online from anywhere - including for free where possible.How to watch Rick and Morty season 5 onlinePremiere date: Sunday, June 20 (US and Canada)New episodes: every Sunday at 11pm ETStream: Adult Swim | Sling TV (US) FREE stream: All 4 (Mndays in UK)Cast: Justin Roiland, Chris Parnell, Spencer Grammer, Sarah Chalke, Kari WahlgrenWatch anywhere: try the world's top VPN 100% risk-freeSomebody give Dan Harmon a pay rise.
+
+
