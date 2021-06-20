@@ -27608,3 +27608,53 @@
 > I have been struggling with tutorial hell for as long as I can remember in my programming journey. Today I finally decided to challenge myself to write a simple python program without looking at any tutorial.Here is the link to the code https://gist.github.com/syappp/d5887cfb3210e3c053a68f20f128b87dI would really appreciate any feedback and suggestions to improve my code.Thank you and have a nice day!
 
 
+***
+![Another graphics question! :)](https://images.macrumors.com/social/?t=2301589&v=6 "Another graphics question! :)")
+
+
+[Another graphics question! :)](https://forums.macrumors.com/threads/another-graphics-question.2301589/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. In our never-ending search for an imac replacement (cannot afford a new one), we have found a 2013 with a GTX 775M. I do not know how this compares to an AMD Radeon? It needs to run Trainz A New Era which requires NVIDIA GTX 660 or better/ AMD HD 6950...(and I am guessing being a 775, it fits the bill). BUT, I understand this is a chip? If this sucker goes out, that would be a replacement of an entire motherboard? It's not a simple "pop it out and replace it"? You must log in or register to reply here.
+
+
+***
+![South Korea's Nuclear Research agency hacked using VPN flaw](https://external-preview.redd.it/nHuOyOymvQirzGr5d_Uq5OrMpK-zB4Ssz6bTcQn4SI4.jpg?auto=webp&s=339d6efa1891f196981136c91db96dba403cc66d "South Korea's Nuclear Research agency hacked using VPN flaw")
+
+
+[South Korea's Nuclear Research agency hacked using VPN flaw](https://www.reddit.com/r/technology/comments/o3ujzg/south_koreas_nuclear_research_agency_hacked_using/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Best power bank for iPhone in 2021](https://www.cnet.com/a/img/BY6PZJpiA3etLQ4I1axJKN3b5qk=/1200x630/2019/02/26/e715ab63-3e75-4274-a7a5-15072ac7dd81/battery-pack-group-shot-2.jpg "Best power bank for iPhone in 2021")
+
+
+[Best power bank for iPhone in 2021](https://www.cnet.com/news/best-power-bank-for-iphone-in-2021/)
+
+
+> Device-makers like Apple seem to love to come out with phones in ever-increasing sizes. That's why a portable battery charger or power bank is often a more practical purchase for your iPhone than battery cases, which increase battery capacity but tend to make a phone extra-heavy and bulky to carry around.To that end, I've rounded up the best portable power banks and battery chargers that will add a little extra oomph to your iPhone's battery life. Although they cost more, I personally like batteries that have a Lightning cable built into them, so I don't have to worry about carrying around a charging cable for fast charging when I don't have enough power.
+
+
+***
+![Google force installs Massachusetts MassNotify Android COVID app](https://external-preview.redd.it/7q7G8SRYQJRISwGD4pqysvE9b-_8Q5LiNjGX7JaFue0.jpg?auto=webp&s=60dcee1a4d4223a0264f1c44887403a7fa7dd8b1 "Google force installs Massachusetts MassNotify Android COVID app")
+
+
+[Google force installs Massachusetts MassNotify Android COVID app](https://www.reddit.com/r/technology/comments/o3ui9i/google_force_installs_massachusetts_massnotify/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Best Buy flash sale: Deep discounts on 60-inch TV, Philips Hue lights, smart plugs and more](https://www.cnet.com/a/img/DUu8zhN6xJSjnM_4WXAhix3PouI=/1200x630/2021/06/17/eff6f5cd-5f09-4064-ad4e-62652bfcc9d6/segway-es2.png "Best Buy flash sale: Deep discounts on 60-inch TV, Philips Hue lights, smart plugs and more")
+
+
+[Best Buy flash sale: Deep discounts on 60-inch TV, Philips Hue lights, smart plugs and more](https://www.cnet.com/news/best-buy-flash-sale-deep-discounts-on-60-inch-tv-philips-hue-lights-smart-plugs-and-more/)
+
+
+> This story is part of Amazon Prime Day 2021, CNET's guide on everything you need to know and how to make sure you get the best deal. Amazon isn't the only place to be looking for deals right now. Best Buy's Bigger Sales event, the retailer's answer to Prime Day, is already underway, and you can find deep discounts on everything from smart TVs to smaller gadgets like Philips Hue bulbs and TP-Link Kasa smart plugs.Sales for Prime Day (June 21 and 22) are starting to pop up already, and in response, you can expect that Best Buy will drop many more deals in the next few days.
+
+
