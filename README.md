@@ -28034,3 +28034,50 @@
 > (Image credit: Adult Swim) Dial up the delirium to the level right below Szechuan Sauce, because Rick and Morty's back for a fifth serving of inter-dimensional insanity. And something's off, with Morty seemingly done with his grandpa's reckless adventures, and Jerry landing a job interview! Read on as we explain how to watch Rick and Morty season 5 online from anywhere - including for free where possible.How to watch Rick and Morty season 5 onlinePremiere date: Sunday, June 20 (US and Canada)New episodes: every Sunday at 11pm ETStream: Adult Swim | Sling TV (US) FREE stream: All 4 (Mndays in UK)Cast: Justin Roiland, Chris Parnell, Spencer Grammer, Sarah Chalke, Kari WahlgrenWatch anywhere: try the world's top VPN 100% risk-freeSomebody give Dan Harmon a pay rise.
 
 
+***
+![50,000 security disasters waiting to happen: The problem of America's water supplies: "If you could imagine a community center run by two old guys who are plumbers, that's your average water plant," one cybersecurity consultant said.](https://external-preview.redd.it/Gms0eqTpGVzaE7VNQNGTpVynrdfmRuIPxQaSGdhTFMo.jpg?auto=webp&s=e5faad6c9eff98bae45a4388d81e31c5ded4d39c "50,000 security disasters waiting to happen: The problem of America's water supplies: "If you could imagine a community center run by two old guys who are plumbers, that's your average water plant," one cybersecurity consultant said.")
+
+
+[50,000 security disasters waiting to happen: The problem of America's water supplies: "If you could imagine a community center run by two old guys who are plumbers, that's your average water plant," one cybersecurity consultant said.](https://www.reddit.com/r/technology/comments/o4dmgr/50000_security_disasters_waiting_to_happen_the/)
+
+
+> He isn't wrong. And the plant SCADA system are running on Windows 95 using antique routers/modems. US critical infrastructure is zero day vulnerable across the board.
+
+
+***
+![HMock: First Rate Mocks in Haskell](https://external-preview.redd.it/JbAQ_JGg-1lUlbgKjjv4Q50rf3DbTz9eW_GMImIAp5Q.jpg?auto=webp&s=28416d398cdf1e30472bd69c5e22a8dc19cfc9fc "HMock: First Rate Mocks in Haskell")
+
+
+[HMock: First Rate Mocks in Haskell](https://www.reddit.com/r/programming/comments/o4djwe/hmock_first_rate_mocks_in_haskell/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Let's build Discord 2.0 with REACT.JS! (REDUX, Tailwind CSS & Firebase Hooks)](https://external-preview.redd.it/uGIP4IeDCNI8I7dKuafEmpgnPEFboSSqUkxTqYqXg14.jpg?auto=webp&s=1ad3cd6899d11f2a11e006b827ffe1c9cb57624b "Let's build Discord 2.0 with REACT.JS! (REDUX, Tailwind CSS & Firebase Hooks)")
+
+
+[Let's build Discord 2.0 with REACT.JS! (REDUX, Tailwind CSS & Firebase Hooks)](https://www.reddit.com/r/programming/comments/o4dgxe/lets_build_discord_20_with_reactjs_redux_tailwind/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Writing a simple Raspberry Pi system monitor in Rust](https://www.reddit.com/r/programming/comments/o4de29/writing_a_simple_raspberry_pi_system_monitor_in/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Build your first Discord bot in less than an hour](https://external-preview.redd.it/lRvicatL8Zq0R-Cme059luxXS-iZEBKLqPdPz5AbirU.jpg?auto=webp&s=259db420662e205b1293a5297d23ff844da7629e "Build your first Discord bot in less than an hour")
+
+
+[Build your first Discord bot in less than an hour](https://www.reddit.com/r/programming/comments/o4da5l/build_your_first_discord_bot_in_less_than_an_hour/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
