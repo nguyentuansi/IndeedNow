@@ -27658,3 +27658,47 @@
 > This story is part of Amazon Prime Day 2021, CNET's guide on everything you need to know and how to make sure you get the best deal. Amazon isn't the only place to be looking for deals right now. Best Buy's Bigger Sales event, the retailer's answer to Prime Day, is already underway, and you can find deep discounts on everything from smart TVs to smaller gadgets like Philips Hue bulbs and TP-Link Kasa smart plugs.Sales for Prime Day (June 21 and 22) are starting to pop up already, and in response, you can expect that Best Buy will drop many more deals in the next few days.
 
 
+***
+![Get 6 months of Amazon Music Unlimited for free with an Echo Dot](https://mondrian.mashable.com/2021%252F06%252F20%252Ff0%252F2789fa1257214e8caa21535320deab79.11f10.png%252F1200x630.png?signature=q5bzZMosZIG6lIy3U3ZeTo7fLkg= "Get 6 months of Amazon Music Unlimited for free with an Echo Dot")
+
+
+[Get 6 months of Amazon Music Unlimited for free with an Echo Dot](https://mashable.com/uk/shopping/early-prime-day-deal-june-20-amazon-music-echo-dot/)
+
+
+> TL;DR: Until June 22, Prime members can get six months of Amazon Music Unlimited for free with an Echo Dot. There are so many deals around Prime Day that it can be difficult to keep up. That's why we're here to help you find the standout offers you should consider. We're like your Prime Day fairy godmother, sending the best deals your way with a flick of our wand. The latest deal you should consider before the shopping event officially gets started is on Amazon Music Unlimited and the Echo Dot. If you purchase the Echo Dot for £49.
+
+
+***
+![I created Stocksera, an application to view trending tickers on Reddit and other information such as options data, FTD, short volume and so on](https://external-preview.redd.it/ukTERkKHPiAiEqvckWtIgJLXmRucjCyAd5G_ImRgAOw.jpg?auto=webp&s=623ac53ea974685dc3c61d81427962cf06e49584 "I created Stocksera, an application to view trending tickers on Reddit and other information such as options data, FTD, short volume and so on")
+
+
+[I created Stocksera, an application to view trending tickers on Reddit and other information such as options data, FTD, short volume and so on](https://www.reddit.com/r/Python/comments/o3wzr2/i_created_stocksera_an_application_to_view/)
+
+
+> Play0:000:00SettingsFullscreenStockseraIntroducing Stocksera. This is a website I made to show analyse more about stocks in general. You can view the website at [stocksera.pythonanywhere.com](stocksera.pythonanywhere.com)Apart from identifying trending tickers on Reddit (mainly r/wallstreetbets, r/stocks and r/stockmarket ) based on number of posts, comments, upvotes and sentiment in the last 48 hours, I included a wallstreetbets ETF, where the top 25 trending tickers on r/wallstreetbets will be bought.
+
+
+***
+[Why deciding when to refactor can be complicated and convoluted](https://www.reddit.com/r/programming/comments/o3wwo0/why_deciding_when_to_refactor_can_be_complicated/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Survey: social media users see the removal of hate speech as more fair than removing profanity, with moderators who removed hate speech seen as more trustworthy (Hanaa' Tameez/Nieman Lab)](http://www.techmeme.com/210619/p14#a210619p14)
+
+
+> Hanaa' Tameez / Nieman Lab: Survey: social media users see the removal of hate speech as more fair than removing profanity, with moderators who removed hate speech seen as more trustworthy — News consumers and social media platform users prioritize the removal of hate speech over the removal of profanity …
+
+
+***
+![Marise Payne pressed on Australia's net zero emission policy](https://images.perthnow.com.au/publication/C-3167102/fb04f9504f92bb85c63a3af7bf5cc7f86d1d0bf4-16x9-x0y151w1609h905.jpg?imwidth=1200 "Marise Payne pressed on Australia's net zero emission policy")
+
+
+[Marise Payne pressed on Australia's net zero emission policy](https://www.news.com.au/technology/environment/marise-payne-pressed-on-australias-net-zero-emission-policy/news-story/f50e30f188b10bfe71d975b1567a07c8)
+
+
+> A tense exchange involving Foreign Affairs Minister Marise Payne has unfolded after ABC Insiders as host David Speers attempted to clarify the government's position on achieving net zero emissions by 2050.Prime Minister Scott Morrison has softened his climate policy recently and has indicated Australia wanted to achieve net zero emissions as soon as possible and 'preferably' by 2050.Mr Morrison, who is currently in France, is facing pressure from Liberal party members and global leaders to formally commit to the 2050 target.
+
+
