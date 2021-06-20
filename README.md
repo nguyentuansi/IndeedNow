@@ -27840,3 +27840,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Baidu is building Level 4 autonomous robotaxis called 'Apollo Moon' in China](https://s3-ap-southeast-2.amazonaws.com/techau-images/wp-media-folder-techau/wp-content/uploads/2021/06/Baiud-Apollo-Moon.jpg "Baidu is building Level 4 autonomous robotaxis called 'Apollo Moon' in China")
+
+
+[Baidu is building Level 4 autonomous robotaxis called 'Apollo Moon' in China](https://techau.com.au/baidu-is-building-level-4-autonomous-robotaxis-called-apollo-moon-in-china/)
+
+
+> Chinese-based Baidu has announced that they are building a fleet of 1,000 autonomous vehicles. The cars will be mid-sized crossovers known as ‘Apollo Moon' and will be rolled out over the next 3 years. Baidu claims they can make the cars for RMB 480,000, which translates to A$99,468.92 in a straight currency conversion. When we consider the cost of a vehicle designed to be autonomous and have the purpose of making revenue by transporting passengers, we also have to consider the potential lifespan of the vehicle.
+
+
+***
+![Prosecutor Kim Hong-young's family litigation, mediation agreement… 'I hope workplace bullying goes away'](https://img.sbs.co.kr/newimg/news/20201016/201480899_1280.jpg "Prosecutor Kim Hong-young's family litigation, mediation agreement… 'I hope workplace bullying goes away'")
+
+
+[Prosecutor Kim Hong-young's family litigation, mediation agreement… 'I hope workplace bullying goes away'](https://www.tellerreport.com/tech/2021-06-20-prosecutor-kim-hong-young-s-family-litigation--mediation-agreement…-“i-hope-workplace-bullying-goes-away”.rkISo9s2od.html)
+
+
+> It has been 1 year and 7 months since the lawsuit was filed in November 2019. Prosecutor Kim's family litigation representative said today, "The court has recently made a 'decision in lieu of mediation', and both the bereaved family and the government have issued a written consent to the court decision." ▲ Father Wiping Plaques in Memory of the Late Prosecutor Kim Hong-young After the harassment of his superiors, the family of late prosecutor Kim Hong-young, who made an extreme choice, agreed to a mediation plan according to the court's decision in a claim for damages against the state.
+
+
+***
+!['SK Innovation's batteries 100 percent safe from fire risks'](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/02a65d1c76cd414eb7634d3175e1c2af.jpg "'SK Innovation's batteries 100 percent safe from fire risks'")
+
+
+['SK Innovation's batteries 100 percent safe from fire risks'](https://www.koreatimes.co.kr/www/tech/2021/06/693_310796.html)
+
+
+> Lee Jon-ha, the head of SK Innovation's Battery Development Center, gives a presentation at The Battery Conference 2021 held at COEX in Seoul, on June 18. Courtesy of SK InnovationBy Kim Jae-heunSK Innovation Battery Development Center head Lee Jon-ha revealed what makes a battery catch fire and suggested ways to deal with such risks during the Battery Conference 2021 held by the Korea Battery Industry Association.The conference, which took place at COEX on June 9 and 10 to mark its 10th anniversary, invited battery experts from around the world to seek new strategies for the industry and explore various aspects of the future of the battery market.
+
+
+***
+![GOP divided over bills targeting tech giants](https://thehill.com/sites/default/files/jordanjim_061021gn_lead.jpg "GOP divided over bills targeting tech giants")
+
+
+[GOP divided over bills targeting tech giants](https://thehill.com/policy/technology/559227-gop-divided-over-bills-targeting-tech-giants)
+
+
+> House Republicans are publicly sparring over several high-profile antitrust bills that have bipartisan support, signaling a bumpy road ahead for the legislation.The House Judiciary Committee on Wednesday is slated to vote on five bipartisan measures targeting Big Tech, but the panel's top Republican, Rep. Jim JordanJames (Jim) Daniel JordanHillicon Valley: Biden, Putin agree to begin work on addressing cybersecurity concerns | Senate panel unanimously advances key Biden cyber nominees | Rick Scott threatens to delay national security nominees until Biden visits border Trump, allies pressured DOJ to back election claims, documents show The tale of the last bipartisan unicorns MORE (Ohio) and Minority Leader Kevin McCarthyKevin McCarthyGOP increasingly balks at calling Jan.
+
+
+***
+![Fintech Payment Market See Huge Growth for New Normal](https://ksusentinel.com/wp-content/uploads/2021/06/Market-Research7-52.png "Fintech Payment Market See Huge Growth for New Normal")
+
+
+[Fintech Payment Market See Huge Growth for New Normal](https://ksusentinel.com/2021/06/20/fintech-payment-market-see-huge-growth-for-new-normal-ant-group-robinhood-markets-afterpay-limited-google-pay/)
+
+
+> FinTech companies started out as exclusively technology companies to improve or help the activities of the financial sector. As the market has grown, these companies have become an alternative to traditional financial service providers by offering a wide range of financial services, including mobile point-of-service (POS) payments, crowd lending to businesses and market place lending to consumers. Fintech Payment Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information.
+
+
