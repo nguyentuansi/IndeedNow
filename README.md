@@ -27940,3 +27940,50 @@
 > Digital Trends may earn a commission when you buy through links on our site. Dell.com It's not even Prime Day yet and the Prime Day deals (from all sorts of retailers, not just Amazon) are already rolling in. And if you thought getting the best laptop you can buy means spending more than $1,000, think again. Just take a look at Dell's current deal on its new XPS 13 laptop. You can get it right now for just $900 and you'll save a hefty $200 because the original price was $1,100. Need a portable laptop that can seemingly do it all and look good doing it? Take a look at Dell's XPS 13 laptop.
 
 
+***
+[Erdogan says Turkey to leave COVID-19 behind 'soon'](https://www.yenisafak.com/en/news/erdogan-says-turkey-to-leave-covid-19-behind-soon-3574834)
+
+
+> Turkey will overcome the COVID-19 pandemic soon with its mass vaccination campaign, said the country's president on Sun...
+
+
+***
+![SPACs Attack Recap: Looking Back At 5 SPAC Deals, New SPAC Rumors And Headline News](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/freestocks-q12jppvf7eq-unsplash.jpg "SPACs Attack Recap: Looking Back At 5 SPAC Deals, New SPAC Rumors And Headline News")
+
+
+[SPACs Attack Recap: Looking Back At 5 SPAC Deals, New SPAC Rumors And Headline News](https://www.benzinga.com/m-a/21/06/21635285/spacs-attack-recap-looking-back-at-5-spac-deals-new-spac-rumors-and-headline-news)
+
+
+> Last week featured five announced SPAC deals. The week also had earnings from several well-known former SPACs. Here is a look back at the week that was SPACs for deals, rumors and headline news all covered on Benzinga's 'SPACs Attack.' SPAC Deals: Ecommerce company Boxed announced a SPAC merger with Seven Oaks Acquisition Corp (NASDAQ: SVOK). Boxed offers bulk consumables to businesses and households using an end-to-end artificial intelligence-driven platform. Boxed is working on a software-as-a-service (SaaS) offering for future growth, including a signed SaaS partnership with one of Asia's largest retail conglomerates Aeon Group.
+
+
+***
+![HBO Max: How To Download Shows On iPhone & Android App](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/06/hbo-max-download-shows-iphone-render.jpg "HBO Max: How To Download Shows On iPhone & Android App")
+
+
+[HBO Max: How To Download Shows On iPhone & Android App](https://screenrant.com/hbo-max-download-shows-movies-ios-android-app-how/)
+
+
+> The HBO Max app first hit the scene in May 2020 as a successor to HBO Now. In addition to the usual array of HBO titles, the service includes content from DC, TCM, CNN, TNT, Crunchyroll, Studio Ghibli, and others. It's also the only place to watch Max Originals (titles that can only be found on HBO Max). In short, there's a good amount of TV shows and movies to watch regardless of what someone is interested in. As mentioned above, one of the standout features of the HBO Max app for Android and iOS/iPadOS is the ability to download titles for offline use.
+
+
+***
+![Why you should get an RTX 2070 or RTX 2080 gaming laptop on Amazon Prime Day](https://cdn.mos.cms.futurecdn.net/FuVZ7nTXxDiRRoabBGeqX4-1200-80.jpg "Why you should get an RTX 2070 or RTX 2080 gaming laptop on Amazon Prime Day")
+
+
+[Why you should get an RTX 2070 or RTX 2080 gaming laptop on Amazon Prime Day](https://www.techradar.com/news/why-you-should-get-an-rtx-2070-or-rtx-2080-gaming-laptop-on-amazon-prime-day)
+
+
+> With Amazon Prime Day now upon us, there's never been a better time to shop for some great deals on gaming laptops - especially those with last-gen Nvidia RTX 2080 and RTX 2070 mobile GPUs. Right now, everyone is clamoring for RTX 3070 and RTX 3080 graphics cards and laptops, so we definitely understand if you feel like an RTX 2070 laptop is a consolation prize for not getting the best gaming laptop on the market. We understand it, but we seriously disagree with the idea that someone is settling for a supposed also-ran gaming laptop just because it's not loaded up with an RTX 3080.
+
+
+***
+![Take 2: Spacewalking astronauts install new solar panel](https://www.clickorlando.com/resizer/YfaKoDFTS8RDVYJAdTGW3LsjGVI=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/EYZWTSGBLJHSPJRDYGISWGIYVI.jpg "Take 2: Spacewalking astronauts install new solar panel")
+
+
+[Take 2: Spacewalking astronauts install new solar panel](https://www.clickorlando.com/tech/2021/06/20/take-2-spacewalking-astronauts-tackle-solar-panel-work/)
+
+
+> CAPE CANAVERAL, Fla. – Spacewalking astronauts equipped the International Space Station with the first in a series of powerful new solar panels Sunday, overcoming suit problems and other obstacles with muscle and persistence.It took two spacewalks for French astronaut Thomas Pesquet and NASA astronaut Shane Kimbrough to install and unfurl the panel to its full 63 feet (19 meters) in length.The solar wing unrolled like a red carpet once the final set of bolts was released, relying solely on pent-up energy.
+
+
