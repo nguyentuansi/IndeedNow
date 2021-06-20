@@ -28081,3 +28081,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Elasticsearch index management](https://external-preview.redd.it/mwYChQtYh_q31sF2nK8T4JER4gOAY832nTEAmOeqcQM.jpg?auto=webp&s=7f830b1b5f3de87eec812334c4d19e5163f124fb "Elasticsearch index management")
+
+
+[Elasticsearch index management](https://www.reddit.com/r/programming/comments/o4fuxb/elasticsearch_index_management/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Software Estimation Is Hard. Do It Anyway.](https://external-preview.redd.it/Ox7vwZkbxuFLRkJrQW9i8loqpf4GdT8gck3CGUi5DMw.jpg?auto=webp&s=2a651bb0b10c4923fe92ad636c60c23ab3286cf8 "Software Estimation Is Hard. Do It Anyway.")
+
+
+[Software Estimation Is Hard. Do It Anyway.](https://www.reddit.com/r/programming/comments/o4fs5o/software_estimation_is_hard_do_it_anyway/)
+
+
+> No body in the article.
+
+
+***
+![Hell in a Cell 2021 live stream: how to watch WWE online free and from anywhere](https://cdn.mos.cms.futurecdn.net/hLUwqvaXhLN77RvLBtASvV-1200-80.jpg "Hell in a Cell 2021 live stream: how to watch WWE online free and from anywhere")
+
+
+[Hell in a Cell 2021 live stream: how to watch WWE online free and from anywhere](https://www.techradar.com/news/hell-in-a-cell-2021-live-stream-how-to-watch-wwe-online-free-and-from-anywhere)
+
+
+> (Image credit: Peacock TV) Bobby Lashley and Roman Reigns put their belts at the mercy of the cage at this most deranged of Hell in a Cell events, dragged from its usual October slot to bring some Halloweenish hysteria to the summer. There are three belts on the line, so read on as we explain how to watch a Hell in a Cell live stream, wherever you are in the world - with Peacock TV giving US viewers a way to watch absolutely FREE!Drew McIntyre's gone nuclear in his struggle to tear that WWE Championship belt from The All Mighty's shoulders, turning to the cell for his latest - and possibly last - attempt, which should keep out any potential meddlers.
+
+
+***
+![More than 41,000 people have signed petitions to stop Jeff Bezos from returning to Earth after his trip to space next month](https://external-preview.redd.it/kp96hY8NtZ6YtshHRFjc1_r_LJRjTdE120CRCXRloks.jpg?auto=webp&s=9f09677ae3e18cc476d840592e7e3388eb61a35e "More than 41,000 people have signed petitions to stop Jeff Bezos from returning to Earth after his trip to space next month")
+
+
+[More than 41,000 people have signed petitions to stop Jeff Bezos from returning to Earth after his trip to space next month](https://www.reddit.com/r/technology/comments/o4fkhs/more_than_41000_people_have_signed_petitions_to/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![We investigated whether digital contact tracing actually worked in the US](https://external-preview.redd.it/KrCVELZaieFZNboWAYCyMixJ_pS15nyiNzIXz-2eohM.jpg?auto=webp&s=597ba3973fefe40b4c46292ead31a9e4201ec9ad "We investigated whether digital contact tracing actually worked in the US")
+
+
+[We investigated whether digital contact tracing actually worked in the US](https://www.reddit.com/r/technology/comments/o4fh6q/we_investigated_whether_digital_contact_tracing/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
