@@ -27743,3 +27743,50 @@
 > Digital Trends may earn a commission when you buy through links on our site. Erika Rawes/Digital Trends All throughout the weekend, you can expect to see some awesome early Prime Day deals from Amazon, Walmart, Best Buy, and many other retailers. Because there are so many deals on so many electronics and devices, you might be wondering if now is a good time to buy a Ring Video Doorbell for your smart home. The answer is no, at least not this weekend, because Amazon Prime Day officially kicks off on Monday, June 21, continuing on Tuesday, June 22.
 
 
+***
+![Best Google Pixel 5, 4a 5G & 4 XL Prime Day Deals (2021): Top Early Pixel Smartphone Deals Summarized by Retail Egg](http://www.businesswire.com/images/bwlogo_square.png "Best Google Pixel 5, 4a 5G & 4 XL Prime Day Deals (2021): Top Early Pixel Smartphone Deals Summarized by Retail Egg")
+
+
+[Best Google Pixel 5, 4a 5G & 4 XL Prime Day Deals (2021): Top Early Pixel Smartphone Deals Summarized by Retail Egg](https://www.businesswire.com/news/home/20210620005099/en/Best-Google-Pixel-5-4a-5G-4-XL-Prime-Day-Deals-2021-Top-Early-Pixel-Smartphone-Deals-Summarized-by-Retail-Egg)
+
+
+> June 20, 2021 04:00 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Here's a summary of the best early Google Pixel 5, 4, & 4a including savings on the Pixel 4a 5G, Pixel 4XL & Pixel 4 and 5 handsets. Find the best deals by clicking the links listed below. Best Google Pixel deals: Best unlocked Google Pixel deals: Looking for more deals? We recommend checking Walmart's Deals for Days sale (June 20 – 23) and Amazon's Prime Day page for even more upcoming and active deals. Retail Egg earns commissions from purchases made using the links provided.
+
+
+***
+![Best DJI Mavic Mini, Pro, Air & Drone Prime Day Deals 2021: Early DJI Osmo, Pocket, Mavic, Air, Mini & Pro Deals Compared by Retail Fuse](https://mms.businesswire.com/media/20210620005147/en/1130294/23/Amazon_Prime_Day_2021_Deals.jpg "Best DJI Mavic Mini, Pro, Air & Drone Prime Day Deals 2021: Early DJI Osmo, Pocket, Mavic, Air, Mini & Pro Deals Compared by Retail Fuse")
+
+
+[Best DJI Mavic Mini, Pro, Air & Drone Prime Day Deals 2021: Early DJI Osmo, Pocket, Mavic, Air, Mini & Pro Deals Compared by Retail Fuse](https://www.businesswire.com/news/home/20210620005147/en/Best-DJI-Mavic-Mini-Pro-Air-Drone-Prime-Day-Deals-2021-Early-DJI-Osmo-Pocket-Mavic-Air-Mini-Pro-Deals-Compared-by-Retail-Fuse)
+
+
+> June 20, 2021 04:00 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Find the latest DJI Mavic Mini, Pro, Air & drone early deals for Prime Day, including the best DJI Air, Mini, Mavic, Osmo, Pocket & Pro offers. Links to the top deals are listed below. Best DJI deals: Save up to 36% on top-rated DJI drones at Amazon - find live deals on best-selling DJI drone quadcopters, along with the starter, FPV, and Fly More Combo bundles Save up to 27% on DJI Mavic drones at Amazon - including deals on Mavic 2 Pro, Mavic Air 2, Mavic Pro, Mavic Air, and Mavic Mini remote-controlled drones Save on the DJI Air 2S at Amazon - introducing the newest DJI drone, equipped with a 1-inch sensor, 5.
+
+
+***
+[Delete these 8 apps, infected with Joker malware, right now or lose data](https://www.freepressjournal.in/technology/delete-these-8-apps-infected-with-joker-malware-right-now-or-lose-data)
+
+
+> No body in the article.
+
+
+***
+![The Best GoPro Prime Day Deals 2021: Top Early GoPro HERO 9, 8 & 7 Action Camera Savings Highlighted by Saver Trends](http://www.businesswire.com/images/bwlogo_square.png "The Best GoPro Prime Day Deals 2021: Top Early GoPro HERO 9, 8 & 7 Action Camera Savings Highlighted by Saver Trends")
+
+
+[The Best GoPro Prime Day Deals 2021: Top Early GoPro HERO 9, 8 & 7 Action Camera Savings Highlighted by Saver Trends](https://www.businesswire.com/news/home/20210620005061/en/The-Best-GoPro-Prime-Day-Deals-2021-Top-Early-GoPro-HERO-9-8-7-Action-Camera-Savings-Highlighted-by-Saver-Trends)
+
+
+> June 20, 2021 03:50 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Here's a round-up of the best early GoPro action camera deals for Prime Day 2021, together with all the best offers on GoPro HERO 9, 8, 7 and more waterproof action cameras. Shop the best deals by clicking the links below. Best GoPro deals: Save up to $65 on GoPro cameras at Amazon - check the latest deals on GoPro Hero 9, Hero8, and Hero7 models Save up to $65 on the GoPro Hero9 at Amazon - the GoPro Hero9 shoots 5K videos, captures 20MP photos, and boasts of advanced stabilization Save on the GoPro Hero8 at Amazon - the GoPro Hero8 has LiveBurst mode, TimeWarp 2.
+
+
+***
+![DJI Mavic Mini, Pro, Air & Drone Prime Day Deals 2021: Top Early DJI Drone & Osmo Action Camera Sales Rated by Retail Egg](http://www.businesswire.com/images/bwlogo_square.png "DJI Mavic Mini, Pro, Air & Drone Prime Day Deals 2021: Top Early DJI Drone & Osmo Action Camera Sales Rated by Retail Egg")
+
+
+[DJI Mavic Mini, Pro, Air & Drone Prime Day Deals 2021: Top Early DJI Drone & Osmo Action Camera Sales Rated by Retail Egg](https://www.businesswire.com/news/home/20210620005066/en/DJI-Mavic-Mini-Pro-Air-Drone-Prime-Day-Deals-2021-Top-Early-DJI-Drone-Osmo-Action-Camera-Sales-Rated-by-Retail-Egg)
+
+
+> June 20, 2021 03:50 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Here's a comparison of all the top early DJI & drone deals for Amazon Prime Day 2021, together with the latest offers on DJI Mavic drones, Osmo Pocket and Action handheld cameras, and more remote-controlled drones. Shop the latest deals using the links below. Best DJI deals: Save up to 36% on top-rated DJI drones at Amazon - find live deals on best-selling DJI drone quadcopters, along with the starter, FPV, and Fly More Combo bundles Save up to 27% on DJI Mavic drones at Amazon - including deals on Mavic 2 Pro, Mavic Air 2, Mavic Pro, Mavic Air, and Mavic Mini remote-controlled drones Save on the DJI Air 2S at Amazon - introducing the newest DJI drone, equipped with a 1-inch sensor, 5.
+
+
