@@ -28328,3 +28328,53 @@
 > Fast & Furious 9 — or F9, as it's called in some territories — has now grossed $292.1 million (roughly Rs. 2,166 crores) worldwide at the box office, bolstered by 13 new markets including Australia, Bulgaria, Czech Republic, Indonesia, Israel, Slovakia, and Ukraine among others where it released this weekend. All this comes before the ninth Fast & Furious movie has even found its way to its single biggest territory and its home market of the US, where F9 releases this coming Friday, June 25. That $292.
 
 
+***
+![Samsung takes the fight to Xiaomi's Redmi Note 10 with its new Galaxy M32](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/samsung-galaxy-m32.jpg "Samsung takes the fight to Xiaomi's Redmi Note 10 with its new Galaxy M32")
+
+
+[Samsung takes the fight to Xiaomi's Redmi Note 10 with its new Galaxy M32](https://www.androidcentral.com/samsung-takes-fight-xiaomis-redmi-note-10-its-new-galaxy-m32)
+
+
+> Source: Samsung Galaxy M32 is the latest addition to Samsung's Galaxy value-focused M series. The phone features a 90Hz Super AMOLED display and a massive 6,000mAh battery. It will go on sale in India from June 28 for a starting price of ₹14,999 ($203). Samsung has launched a new Galaxy M series budget phone in India to challenge the best cheap Android phones from Xiaomi, Realme, and Motorola. The new Galaxy M32 is a follow-up to last year's Galaxy M31. The latest budget Android phone from Samsung comes with a 6.
+
+
+***
+![Congratulations! Diane Keaton's Daughter, Dexter, Gets Married in Laguna Beach, California and Diane Keaton's 10 best performances – ranked!](https://https://www.thearkatech.com/img/news_img/all/16147_10_1200.pic "Congratulations! Diane Keaton's Daughter, Dexter, Gets Married in Laguna Beach, California and Diane Keaton's 10 best performances – ranked!")
+
+
+[Congratulations! Diane Keaton's Daughter, Dexter, Gets Married in Laguna Beach, California and Diane Keaton's 10 best performances – ranked!](https://www.thearkatech.com/en/70916/)
+
+
+> © Instagram / diane keaton Congratulations! Diane Keaton's Daughter, Dexter, Gets Married in Laguna Beach, California and Diane Keaton's 10 best performances – ranked! Congratulations! Diane Keaton's Daughter, Dexter, Gets Married in Laguna Beach, California and Diane Keaton's 10 best performances – ranked! Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Diane Keaton's 10 best performances – ranked! and Congratulations! Diane Keaton's Daughter, Dexter, Gets Married in Laguna Beach, California Track: These performances and performers stood out at the State Meet of Champions.
+
+
+***
+![Ralph Macchio and Jimmy Fallon are at the NHL playoffs and Cobra Kai: Ralph Macchio Revisits What Inspired Daniel LaRusso Return](https://https://www.thearkatech.com/img/news_img/all/16104_10_1200.pic "Ralph Macchio and Jimmy Fallon are at the NHL playoffs and Cobra Kai: Ralph Macchio Revisits What Inspired Daniel LaRusso Return")
+
+
+[Ralph Macchio and Jimmy Fallon are at the NHL playoffs and Cobra Kai: Ralph Macchio Revisits What Inspired Daniel LaRusso Return](https://www.thearkatech.com/en/70915/)
+
+
+> © Instagram / ralph macchio Ralph Macchio and Jimmy Fallon are at the NHL playoffs and Cobra Kai: Ralph Macchio Revisits What Inspired Daniel LaRusso Return Cobra Kai: Ralph Macchio Revisits What Inspired Daniel LaRusso Return and Ralph Macchio and Jimmy Fallon are at the NHL playoffs Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Things to Do: Art, outdoor film, dog show and a whole bunch of strawberries. Local restaurants hungry for workers dishing out higher pay, better benefits.
+
+
+***
+![Kyra Sedgwick and Kevin Bacon cause a stir as they announce latest family news – fans react and Kevin Bacon, Kyra Sedgwick making movie in North Kingstown](https://https://www.thearkatech.com/img/news_img/all/16096_11_1200.pic "Kyra Sedgwick and Kevin Bacon cause a stir as they announce latest family news – fans react and Kevin Bacon, Kyra Sedgwick making movie in North Kingstown")
+
+
+[Kyra Sedgwick and Kevin Bacon cause a stir as they announce latest family news – fans react and Kevin Bacon, Kyra Sedgwick making movie in North Kingstown](https://www.thearkatech.com/en/70914/)
+
+
+> © Instagram / kevin bacon By: Jason Jones2021-06-21 11:12:11 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Change and stability coexisting on Franklin Avenue in Seward – Southside Pride. Live theater returns, indoors and out, to Monmouth (and nearby Leeds). Live Music Lineup: Folk, rock, Americana and country rock all weekend long. Foxconn builds stuff for everyone. Now it finds vaccines for Taiwan, and TSMC's chipped in, too. 'Our home away from home': UMass Dartmouth, local families make baseball team feel welcome.
+
+
+***
+![Don't Miss This Incredible Prime Day Discount On The Nokia 8.3 5G](https://www.androidheadlines.com/wp-content/uploads/2020/10/Nokia-8.3-HR-Design3-scaled.jpg "Don't Miss This Incredible Prime Day Discount On The Nokia 8.3 5G")
+
+
+[Don't Miss This Incredible Prime Day Discount On The Nokia 8.3 5G](https://www.androidheadlines.com/buy-nokia-8-3-5g-android-smartphone-sale)
+
+
+> For Prime Day, HMD Global has discounted the Nokia 8.3 5G Android smartphone down to $479. Which shaves $120 off of the regular price. Making this already well priced smartphone, even cheaper. And a really great deal.This deal is good throughout Prime Day and will end at 11:59PM on June 22, so you'd better grab it while it lasts.The Nokia 8.3 5G is a really great smartphone, and it's unlocked so it will work on AT&T and T-Mobile networks. Though, Nokia does note that it won't work on AT&T's 5G network, unfortunately.
+
+
