@@ -28672,3 +28672,50 @@
 > Amazon Prime Day is finally here: the shopping extravaganza began on 21 June and end on 22 June. The online retailer's annual two-day sale has seen savings across Amazon's entire website, including clothes, tech and toys. We've been keeping track of the best deals over the course of the shopping spree on our Prime Day live blog, which we urge you to follow for all the biggest discounts as and when they drop. But what many people want to know has nothing to do with grabbing a bargain at all. Instead, it's got everything to do with the PlayStation 5.
 
 
+***
+![Whatever you do, don't miss these Prime Day tablet deals](https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F128797%252F1d7f1d82-2e2d-42d0-b77a-ba5e4f012e7d.png%252F950x534.png?signature=dCY5RhBWK-ag50gr2O3gadojkBo=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com "Whatever you do, don't miss these Prime Day tablet deals")
+
+
+[Whatever you do, don't miss these Prime Day tablet deals](https://mashable.com/shopping/prime-day-2021-best-tablet-deals/)
+
+
+> Here are the best Prime Day deals on tablets as of June 21: The new iPad Pros are undoubtedly the stars of the show when it comes to this year's Prime Day tablet deals — Apple devices are always big spotlight-hoggers during shopping events like these (see also: Black Friday), since they very rarely go on sale otherwise. But don't let all the M1 chip hype trick you into thinking they're the only tablets you can get for cheap this week. Below, we've rounded up a list of all the great tablets you can find at deep discounts this Prime Day — not just iPads (though we've thrown those in there, too), and not just on Amazon, either.
+
+
+***
+![Tech to improve water quality goes from aquariums to Fort Lauderdale canals](https://www.local10.com/resizer/FCabS2lnuPLCKXkiDnuw1FR1mW0=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/d1vhqlrjc8h82r.cloudfront.net/06-21-2021/t_7ffae8b6ebb44892874ac6ecdb3629a4_name_image.jpg "Tech to improve water quality goes from aquariums to Fort Lauderdale canals")
+
+
+[Tech to improve water quality goes from aquariums to Fort Lauderdale canals](https://www.local10.com/news/local/2021/06/21/tech-to-improve-water-quality-goes-from-aquariums-to-fort-lauderdale-canals/)
+
+
+> FORT LAUDERDALE, Fla. – Aquarium hobbyists adopted a filtration technology to remove organic compounds and add more oxygen to their tanks. It involves tiny bubbles that bind to pollutants. On Monday, a crew with a city contractor worked to use the same technology in Fort Lauderdale to improve the water quality of the Himmershee canal, a tributary of the New River. 'We are not pioneering the technology; we are pioneering the use of the technology,' said John Loos, the vice president of Clean Waterways, a Fort Lauderdale-based company which he co-founded last year.
+
+
+***
+![Hillicon Valley: Cyber agency says SolarWinds hack could have been deterred](https://thehill.com/sites/default/files/hacker_090817getty.jpg "Hillicon Valley: Cyber agency says SolarWinds hack could have been deterred")
+
+
+[Hillicon Valley: Cyber agency says SolarWinds hack could have been deterred](https://thehill.com/policy/technology/overnights/559485-hillicon-valley-cyber-agency-says-solarwinds-hack-could-have)
+
+
+> Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you haven't already, be sure to sign up for our newsletter by clicking HERE.Welcome and Happy Thursday! Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@chrisismills) and Rebecca Klar (@rebeccaklar_), for more coverage. The key federal cybersecurity agency acknowledged the massive SolarWinds hack, which led to the compromise of nine federal agencies by Russian hackers, might have been deterred if a basic security measure had been put in place.
+
+
+***
+![A 4K TV will work wonders for your picture quality—get one on sale this Prime Day 2021](https://www.gannett-cdn.com/presto/2021/06/21/USAT/632395c9-17ce-448f-9ba8-c2cf0aa23cba-Sony-A8H-OLED-Color-Production.jpg?crop=2985,1680,x7,y0&width=2985&height=1680&format=pjpg&auto=webp "A 4K TV will work wonders for your picture quality—get one on sale this Prime Day 2021")
+
+
+[A 4K TV will work wonders for your picture quality—get one on sale this Prime Day 2021](https://www.usatoday.com/story/tech/reviewed/2021/06/21/amazon-prime-day-2021-sony-oled-tv-on-sale/7710868002/)
+
+
+> Sony's incredible A8H OLED TV is majorly discounted for Prime Day 2021 (Photo: Reviewed / Jackson Ruckar)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Every Prime Day, our A.V. team gets worked up over what kind of great deals we find on TVs, soundbars, headphones, and so on—and more often than not, while there are some great deals, there are only a few that are worth shouting about. This is one of those shoutable ones: Sony's incredible 65-inch A8H OLED TV, normally $2,500, is over $900 off for Prime Day.
+
+
+***
+[Ask HN: A good Linux laptop below 1000€](https://news.ycombinator.com/item?id=27584974)
+
+
+> Hacker News new | past | comments | ask | show | jobs | submit login Ask HN: A good Linux laptop below 1000€ 6 points by csunbird 16 minutes ago | hide | past | favorite | discuss Hello HN,I have recently got rid of my Macbook pro and I am looking for a replacement. I thought, HN is the best place to ask, as there are many people here use linux laptops as their daily drivers.I am looking for a good linux laptop for development purposes, with proper support from the manufacturer (e.g. officially supported).
+
+
