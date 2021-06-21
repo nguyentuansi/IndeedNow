@@ -28525,3 +28525,53 @@
 > June 21, 2021 10:00 AM Eastern Daylight Time BENGALURU, India--(BUSINESS WIRE)--Dunzo, India's go-to app for essentials and consumables, has witnessed firsthand the true potential of being a lifeline for its cities during the pandemic. With a 320% growth in demand for essentials, Dunzo has graduated from being a convenience app to the leading quick commerce platform in India. Dunzo Daily, the latest offering from Dunzo, harnesses the efficiency of micro-fulfillment centers to ensure top-selling consumables are always available and can be delivered ultra-fast to users across the city.
 
 
+***
+![TerraMaster TD2 and D5 Thunderbolt review: Good hardware, bad software](https://photos5.appleinsider.com/gallery/40187-82919-terramaster-header-xl.jpg "TerraMaster TD2 and D5 Thunderbolt review: Good hardware, bad software")
+
+
+[TerraMaster TD2 and D5 Thunderbolt review: Good hardware, bad software](https://appleinsider.com/articles/21/06/21/terramaster-td2-and-d5-thunderbolt-review-good-hardware-bad-software)
+
+
+> The TerraMaster TD2 and D5 Thunderbolt 3 are well-engineered desktop hard drive enclosures that can expand your Mac's desktop storage — but the price you pay for what you get isn't where it needs to be.Media professionals who deal with high file capacities, such as video editors, are likely to find their Mac mini or MacBook Pro's internal capacity filling up quickly. There have very nearly always been external enclosures for hard drives to bolster that capacity.We've already examined a TerraMaster USB-C type 3.
+
+
+***
+![66,000+ People Sign Petition to Stop Jeff Bezos from Returning to Earth After Spaceflight](https://media.breitbart.com/media/2019/05/Jeff-Bezos-640x335.jpg "66,000+ People Sign Petition to Stop Jeff Bezos from Returning to Earth After Spaceflight")
+
+
+[66,000+ People Sign Petition to Stop Jeff Bezos from Returning to Earth After Spaceflight](https://www.breitbart.com/tech/2021/06/21/66000-people-sign-petition-to-stop-jeff-bezos-from-returning-to-earth-after-spaceflight/)
+
+
+> More than 66,000 people have signed two petitions calling to Amazon founder Jeff Bezos to not return to earth after he leaves the planet on a Blue Origin rocket next month. Business Insider reports that more than 66,000 people have signed two petitions calling for Amazon founder Jeff Bezos to not reenter Earth's atmosphere after he launches into space next month. Bezos, who along with running Amazon and enjoying his status as the world's richest man is also the founder of space-exploration firm Blue Origin, said earlier this month that he and his brother Mark Bezos would be flying into space aboard the company's New Shepard rocket on July 20.
+
+
+***
+![NVIDIA's SHIELD TV is $25 Off for Prime Day](https://www.droid-life.com/wp-content/uploads/2021/06/NVIDIA-SHIELD-TV-2019-14-of-18-980x653.jpg "NVIDIA's SHIELD TV is $25 Off for Prime Day")
+
+
+[NVIDIA's SHIELD TV is $25 Off for Prime Day](https://www.droid-life.com/2021/06/21/nvidia-shield-tv-prime-day-deal/)
+
+
+> NVIDIA doesn’t discount its SHIELD TV products often, so when they do, you have to jump at them. Today, as a part of Amazon Prime Day, the SHIELD TV that tucks neatly behind your TV, yet manages to upscale all the content and perform like a little beast of a tube, is $25 off. I … Continued Read the original post: NVIDIA’s SHIELD TV is $25 Off for Prime Day
+
+
+***
+![iPhone 12 Mini cut early: Is this the end of the tiny mobile?](https://cdn.slashgear.com/wp-content/uploads/2021/06/iphone-12-mini-8.jpg "iPhone 12 Mini cut early: Is this the end of the tiny mobile?")
+
+
+[iPhone 12 Mini cut early: Is this the end of the tiny mobile?](https://www.slashgear.com/iphone-12-mini-cut-early-is-this-the-end-of-the-tiny-mobile-21679214/)
+
+
+> The iPhone 12 mini would appear to be ending its production run sooner than expected, courtesy of less-than-explosive sales of the device. According to TrendForce, production of the tiniest of iPhone devices has ended already. It's possible that the smallest iPhone 12 will not be followed up by a similar model with the iPhone 13 – but we shall see. The report from TrendForce this week suggests that the iPhone 12 mini reached its official End-of-Life 'ahead of time' in the second quarter of 2021. This model apparently 'suffered disappointing sales performances compared to other models in the iPhone 12 family.
+
+
+***
+![ISG to Publish Two Studies on Growing Data Analytics Market](https://mms.businesswire.com/media/20210621005633/en/1016900/23/ISG_%28R%29_Logo.jpg "ISG to Publish Two Studies on Growing Data Analytics Market")
+
+
+[ISG to Publish Two Studies on Growing Data Analytics Market](https://www.businesswire.com/news/home/20210621005633/en/ISG-to-Publish-Two-Studies-on-Growing-Data-Analytics-Market)
+
+
+> June 21, 2021 12:08 PM Eastern Daylight Time STAMFORD, Conn.--(BUSINESS WIRE)--Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm, has launched two research studies examining the growing data analytics market, with one study examining providers of analytics services and the second examining vendors of analytics platforms. The study results will be published in two comprehensive ISG Provider Lens™ reports, Analytics Services and Analytics Platforms, both scheduled to be released in November.
+
+
