@@ -28475,3 +28475,53 @@
 > We've combed through the best wireless earbud deals this Prime Day and found several great offers and hidden gems. However, one deal that I think isn't getting enough attention is this discount on the vastly underrated 1MORE Stylish True Wireless in-ear Headphones. Prime members can pick up a pair right now for more than $30 off their normal retail price, which is an insanely good value. 1MORE is a relatively new headphone company, but it's one that we particularly enjoy. In fact, we've given several favorable reviews to other, more expensive 1MORE earbuds like the ColorBuds and ComfoBuds Pro.
 
 
+***
+![Phones across UK to issue ‘emergency alerts' and make ‘loud siren-like sounds' as part of test](https://static.independent.co.uk/2021/06/21/15/phone.jpg?width=1200&auto=webp&quality=75 "Phones across UK to issue ‘emergency alerts' and make ‘loud siren-like sounds' as part of test")
+
+
+[Phones across UK to issue ‘emergency alerts' and make ‘loud siren-like sounds' as part of test](https://www.independent.co.uk/life-style/gadgets-and-tech/emergency-alert-phone-android-siren-b1869874.html)
+
+
+> Phones across the country are to issue 'emergency alerts' as part of a nationwide test, the government has said.The test could lead devices to make a 'loud siren-like sound', the government has warned.The tests are part of a government system that allows it to issue warnings about potential dangers or issues by sending them out to people's phones.The system is set to launch in summer 2021, according to the UK's website.'Emergency alerts will warn you if there's a danger to life nearby,' its website says.
+
+
+***
+![Turn your living room into a theater for less than $50 with Govee lights](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/govee-immersion-tv-lightstrip-hero.jpg "Turn your living room into a theater for less than $50 with Govee lights")
+
+
+[Turn your living room into a theater for less than $50 with Govee lights](https://www.androidcentral.com/turn-your-living-room-movie-theater-prime-day-govee-lights)
+
+
+> This year's Prime Day is filled to the brim with great deals. Whether you're picking up a hot smartphone deal or some great PS5 game deals, there are thousands of ways to save money and still get what you want. Of course, you might already have the perfect TV. However, these Govee TV sync lights can significantly enhance the experience and are on sale for Prime Day. The Govee Immersion RGBIC TV backlights are one of my personal favorite pieces of tech to use every single day, and that's because they enhance my viewing experience so much.
+
+
+***
+![BioCatch Named an Overall Leader by KuppingerCole Leadership Compass for Fraud Reduction Intelligence Platforms](https://mms.businesswire.com/media/20210621005400/en/886189/23/BioCatch_logo_new.jpg "BioCatch Named an Overall Leader by KuppingerCole Leadership Compass for Fraud Reduction Intelligence Platforms")
+
+
+[BioCatch Named an Overall Leader by KuppingerCole Leadership Compass for Fraud Reduction Intelligence Platforms](https://www.businesswire.com/news/home/20210621005400/en/BioCatch-Named-an-Overall-Leader-by-KuppingerCole-Leadership-Compass-for-Fraud-Reduction-Intelligence-Platforms)
+
+
+> June 21, 2021 10:00 AM Eastern Daylight Time NEW YORK & TEL AVIV, Israel--(BUSINESS WIRE)--BioCatch, the global leader in behavioral biometrics, announced today that it has been named an Overall Leader in the 2021 KuppingerCole Leadership Compass for Fraud Reduction Intelligence Platforms. In addition, BioCatch was also recognized in the report for Innovation and Product Leadership. The KuppingerCole Leadership Compass provides an independent review of fraud prevention solutions across several categories including vendor service functionality and innovative approaches and serves as a useful guide to help organizations select the right solution to meet their business needs.
+
+
+***
+![Colorvision International Strengthens People Operations, Drives Efficiency with UKG Ready](https://mms.businesswire.com/media/20210621005415/en/828490/23/UKG_cmyk.jpg "Colorvision International Strengthens People Operations, Drives Efficiency with UKG Ready")
+
+
+[Colorvision International Strengthens People Operations, Drives Efficiency with UKG Ready](https://www.businesswire.com/news/home/20210621005415/en/Colorvision-International-Strengthens-People-Operations-Drives-Efficiency-with-UKG-Ready)
+
+
+> June 21, 2021 10:00 AM Eastern Daylight Time LOWELL, Mass., & WESTON, Fla.--(BUSINESS WIRE)--UKG (Ultimate Kronos Group), a leading global provider of HCM, payroll, HR service delivery, and workforce management solutions, announced today that Colorvision International, a digital-imaging organization providing souvenir photography for attractions worldwide, is strengthening its people operations and creating meaningful experiences and efficiencies with UKG Ready. Colorvision partners with hospitality groups and theme parks such as Universal Orlando Resort, Walt Disney World Resort, and SeaWorld to create photo souvenirs for guests at more than 100 locations globally.
+
+
+***
+![Dunzo Is Building India's Largest Quick Commerce Platform with Dunzo Daily](https://mms.businesswire.com/media/20210621005439/en/886426/23/DunzoImage.jpg "Dunzo Is Building India's Largest Quick Commerce Platform with Dunzo Daily")
+
+
+[Dunzo Is Building India's Largest Quick Commerce Platform with Dunzo Daily](https://www.businesswire.com/news/home/20210621005439/en/Dunzo-Is-Building-Indias-Largest-Quick-Commerce-Platform-with-Dunzo-Daily)
+
+
+> June 21, 2021 10:00 AM Eastern Daylight Time BENGALURU, India--(BUSINESS WIRE)--Dunzo, India's go-to app for essentials and consumables, has witnessed firsthand the true potential of being a lifeline for its cities during the pandemic. With a 320% growth in demand for essentials, Dunzo has graduated from being a convenience app to the leading quick commerce platform in India. Dunzo Daily, the latest offering from Dunzo, harnesses the efficiency of micro-fulfillment centers to ensure top-selling consumables are always available and can be delivered ultra-fast to users across the city.
+
+
