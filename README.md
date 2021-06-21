@@ -28231,3 +28231,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hi I am getting a bit frustrated with the photos app on my new M1 MBA and hoping someone can help me please. My previous MacBook was a 2011 MacBook Pro. I had iCloud set up on my iOS devices but turned off on my MBP. I had "My Photo Stream" on my Mac instead. Previously any photo that I took on an IOS device would automatically over the air upload an original local copy to my photos app on my MacBook.
 
 
+***
+![Uh Oh: American Airlines Canceling Hundreds Of Flights This Weekend. Question: Are they trying to stiff customers?](https://external-preview.redd.it/3AFgJqkAeNNfudhqDoi7itn61hnGBp2j2TxvIUcjfQU.jpg?auto=webp&s=a051ab3958cd142285fdd1656f11a0efdd57da1b "Uh Oh: American Airlines Canceling Hundreds Of Flights This Weekend. Question: Are they trying to stiff customers?")
+
+
+[Uh Oh: American Airlines Canceling Hundreds Of Flights This Weekend. Question: Are they trying to stiff customers?](https://www.reddit.com/r/technology/comments/o4m5be/uh_oh_american_airlines_canceling_hundreds_of/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
+***
+![Here's where to find the best deal on the Echo Show 8 this Prime Day](https://mondrian.mashable.com/2021%252F06%252F21%252Fb1%252F601c05f9d98845c989f8e5dba5c41c9d.5b5ad.jpg%252F1200x630.jpg?signature=gQoqFTXw9N56UalXBwubK_0yXH8= "Here's where to find the best deal on the Echo Show 8 this Prime Day")
+
+
+[Here's where to find the best deal on the Echo Show 8 this Prime Day](https://mashable.com/uk/shopping/best-prime-day-deal-june-21-echo-show-8/)
+
+
+> SAVE £40: The Echo Show 8 is on sale for £59.99 until midnight on June 22, saving you 40% on list price. Listen, we know there are a lot of deals dropping throughout Prime Day, and we know that most of the deals aren't going to interest you. Don't shoot the messenger, but another Amazon device has dropped in price. The Echo Show 8 is on sale for £59.99 this Prime Day, saving you 40% on list price. This deal is available until midnight on June 22, so you still have plenty of time to secure this item at this low price.
+
+
+***
+![The Kindle Kids Edition has dropped to its lowest ever price for Prime Day](https://mondrian.mashable.com/2021%252F06%252F21%252F35%252F6fe0f639cbf846bd89a1f6fda1e4a04b.ebf21.png%252F1200x630.png?signature=53dfAi-catwM0U7V78smaRn7wH0= "The Kindle Kids Edition has dropped to its lowest ever price for Prime Day")
+
+
+[The Kindle Kids Edition has dropped to its lowest ever price for Prime Day](https://mashable.com/uk/shopping/best-prime-day-deal-june-21-kindle-kids-edition/)
+
+
+> SAVE 45%: The Kindle Kids Edition is on sale for £54.99 this Prime Day, saving you £45 on list price. Prime Day is all about breaking records, with absolutely loads of products available at their lowest ever prices. You can find plenty of popular items with massive discounts, including the Kindle Kids Edition. The Kindle Kids Edition is purpose-built for reading, with a black and white glare-free display and weeks of battery life. It doesn't include any games, ads, or videos like a tablet, meaning there are zero distractions for your kid.
+
+
+***
+![Realme X9 Pro with Snapdragon 870 chip may arrive next month](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/realme_x7_1_1200x768-483x271_1200_210621091414.jpeg "Realme X9 Pro with Snapdragon 870 chip may arrive next month")
+
+
+[Realme X9 Pro with Snapdragon 870 chip may arrive next month](https://www.indiatoday.in/technology/news/story/realme-x9-pro-with-snapdragon-870-chip-may-arrive-next-month-1817354-2021-06-21)
+
+
+> Highlights Realme X9 Pro may cost between CNY 2,500 and CNY 3,000, according to the tipster. The Realme X9, on the other hand, may start at CNY 2,000 in China. Both Realme X9 and X9 Pro are said to debut in July in China. Realme X9 is the next smartphone in the company's X-series that will bring some top-end features at an aggressive price. Although the phone is not confirmed, there are several pieces of evidence that point out that the Realme X9 exists. Some rumours have also begun to suggest that there is a Realme X9 Pro, as well.
+
+
+***
+![Is your phone really listening to your conversations? Well, turns out it doesn't have to](https://assets2.rappler.com/2021/06/shutterstock-phone-spy-ls-1624246063817.jpg "Is your phone really listening to your conversations? Well, turns out it doesn't have to")
+
+
+[Is your phone really listening to your conversations? Well, turns out it doesn't have to](https://www.rappler.com/technology/features/is-phone-istening-to-conversations)
+
+
+> Have you ever chatted with a friend about buying a certain item and been targeted with an ad for that same item the next day? If so, you may have wondered whether your smartphone was 'listening' to you. But is it really? Well, it's no coincidence the item you'd been interested in was the same one you were targeted with. But that doesn't mean your device is actually listening to your conversations – it doesn't need to. There's a good chance you're already giving it all the information it needs. Most of us regularly disclose our information to a wide range of websites and apps.
+
+
