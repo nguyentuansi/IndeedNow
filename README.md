@@ -28622,3 +28622,53 @@
 > Amazon has the COSORI Smart Air Fryer on sale today for just $83.99. That's going to save you $36 or about 30% off of the regular price. Making this a really great deal for those looking for a nice and cheap air fryer to pick up.This deal is good throughout Prime Day and will end at 11:59PM on June 22, so you'd better grab it while it lasts.This air fryer from COSORI is a smart air fryer, as you can tel by its name. It has WiFi support, which is going to give the ability to control and monitor what is in the air fryer, with your smartphone.
 
 
+***
+![25 Prime Day Deals for Your Post-Vax Summer Adventures](https://media.wired.com/photos/60d0ee4984a20f8f38b932dc/191:100/w_1280,c_limit/GEAR-2_Briggs-_-Riley-Baseline---credit-amazon.jpg "25 Prime Day Deals for Your Post-Vax Summer Adventures")
+
+
+[25 Prime Day Deals for Your Post-Vax Summer Adventures](https://www.wired.com/story/best-prime-day-safe-fun-post-pandemic-deals-2021/)
+
+
+> Last summer sucked. We stayed inside and video chatted with our loved ones, pining for some karaoke or at least a semblance of normalcy. This year, thanks to finally having Covid-19 vaccines available, the CDC announced relaxed masking guidelines, and summer travel is picking up. Instead of staying home and trying to find a thermometer in stock or scouring the web to save money on hand sanitizer, we're finally beginning to emerge from our Netflix stupors and socialize without so much distance. We've gathered up deals to help with just that.
+
+
+***
+![Sony's best wireless headphones just got a MASSIVE Prime Day discount](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/sony-wh-1000xm4-lifestyle-2.jpg "Sony's best wireless headphones just got a MASSIVE Prime Day discount")
+
+
+[Sony's best wireless headphones just got a MASSIVE Prime Day discount](https://www.androidcentral.com/sony-wh-1000xm4-wireless-headphones-prime-day-deal)
+
+
+> There are plenty of great headphones deals available on Prime Day, but if you're looking for the best wireless headphones, it doesn't get much better than the Sony WH-1000XM4. Sure, the name isn't memorable, but that says nothing about the quality of these headphones, which are among the most highly rated. That's why it's so great to see them on sale, making them one of the best Amazon Prime Day headphone deals. The Sony WH-1000XM4 noise-canceling headphones originally retailed for $350, which isn't too bad considering how good these are.
+
+
+***
+![Pokemon Unite for Android: Everything you need to know](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/pokemon-unite-3_0.jpg "Pokemon Unite for Android: Everything you need to know")
+
+
+[Pokemon Unite for Android: Everything you need to know](https://www.androidcentral.com/pokemon-unite-android-everything-you-need-know)
+
+
+> Source: The Pokémon Company The world of Pokémon is no stranger to spin-off games, as many have been released in the franchises 25 year history. With games like Pokémon GO already taking the world by storm, The Pokémon Company is ready to introduce a new contender into the ring form of Pokémon UNITE. Announced in mid-2020's Pokémon Direct, UNITE is a multiplayer strategy game that tasks players with using a variety of Pokémon to take down opponents and level up. Here's everything we know about Pokémon UNITE on Android.
+
+
+***
+![PS5 game deals on Prime Day bring big discounts to major exclusives](https://cdn.mos.cms.futurecdn.net/VGc3jEQ4F9bqspBwt6wUAC-1200-80.jpg "PS5 game deals on Prime Day bring big discounts to major exclusives")
+
+
+[PS5 game deals on Prime Day bring big discounts to major exclusives](https://www.techradar.com/news/dont-miss-these-ps5-game-sales-on-prime-day)
+
+
+> (Image credit: Sony Interactive Entertainment) Several PS5 games, including major exclusives, have been discounted for Prime Day 2021. Since the PS5 first launched in most territories back in November 2020, with microchip shortages limiting the number of consoles available, many PS5 games are going to take a long time to see price drops, especially the first-party titles from PlayStation Studios. Several of these games are on sale right now, however, such as Demon's Souls, Marvel's Spider-Man: Miles Morales Ultimate Launch Edition and Returnal.
+
+
+***
+![Will there be a PS5 restock on Prime Day 2021?](https://static.independent.co.uk/2021/06/02/12/PS5.jpg?width=1200&auto=webp&quality=75 "Will there be a PS5 restock on Prime Day 2021?")
+
+
+[Will there be a PS5 restock on Prime Day 2021?](https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/ps5-restock-amazon-prime-day-2021-uk-b1858327.html)
+
+
+> Amazon Prime Day is finally here: the shopping extravaganza began on 21 June and end on 22 June. The online retailer's annual two-day sale has seen savings across Amazon's entire website, including clothes, tech and toys. We've been keeping track of the best deals over the course of the shopping spree on our Prime Day live blog, which we urge you to follow for all the biggest discounts as and when they drop. But what many people want to know has nothing to do with grabbing a bargain at all. Instead, it's got everything to do with the PlayStation 5.
+
+
