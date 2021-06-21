@@ -28281,3 +28281,50 @@
 > Have you ever chatted with a friend about buying a certain item and been targeted with an ad for that same item the next day? If so, you may have wondered whether your smartphone was 'listening' to you. But is it really? Well, it's no coincidence the item you'd been interested in was the same one you were targeted with. But that doesn't mean your device is actually listening to your conversations – it doesn't need to. There's a good chance you're already giving it all the information it needs. Most of us regularly disclose our information to a wide range of websites and apps.
 
 
+***
+[Would you use an interactive CLI that takes any http server and gives you a URL served from your own AWS, GCP or Azure account with HTTPS, autoscaling, multiple environments, monitoring and env files included?](https://www.reddit.com/r/Python/comments/o4oh0b/would_you_use_an_interactive_cli_that_takes_any/)
+
+
+> Serverless solutions have always felt like they need too much ceremony. The idea with this tool is that it would put an HTTP server in production in minutes with no cold starts (by running on and managing VMs) and it would still work locally.
+
+
+***
+![Bitcoin crackdown sends graphics cards prices plummeting in China after Sichuan terminated mining operations](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/06/21/7893d7d8-d24c-11eb-8921-c363d46ef7af_image_hires_133435.jpg?itok=x69KKd38&v=1624253683 "Bitcoin crackdown sends graphics cards prices plummeting in China after Sichuan terminated mining operations")
+
+
+[Bitcoin crackdown sends graphics cards prices plummeting in China after Sichuan terminated mining operations](https://www.scmp.com/tech/policy/article/3138130/bitcoin-crackdown-sends-graphics-cards-prices-plummeting-china-after)
+
+
+> A bitcoin mine owner stands in front of a wall of cooling fans at his mine, where he houses and operates machines for miners who do not want to move to rural Sichuan, in Ngawa Tibetan and Qiang Autonomous Prefecture, on September 27, 2016. Photo: EPA
+
+
+***
+![I made a search webapp and need help improving programming search results. It's anonymous and free of ads and tracking, and searches aren't logged, so we need feedback to improve results. It that lets you search anonymously without ads or tracking, and let's you choose how you view results.](https://external-preview.redd.it/6Lia-xR5OcrITCR52BtFf_MsT7L8QIFY7C909gT5YaA.jpg?auto=webp&s=a1a1fa3ab8795cc94670fff029f2c183053d4f29 "I made a search webapp and need help improving programming search results. It's anonymous and free of ads and tracking, and searches aren't logged, so we need feedback to improve results. It that lets you search anonymously without ads or tracking, and let's you choose how you view results.")
+
+
+[I made a search webapp and need help improving programming search results. It's anonymous and free of ads and tracking, and searches aren't logged, so we need feedback to improve results. It that lets you search anonymously without ads or tracking, and let's you choose how you view results.](https://www.reddit.com/r/programming/comments/o4of92/i_made_a_search_webapp_and_need_help_improving/)
+
+
+> Hi, I'm Jed, and I'm the programmer. It's an early version and very much an alpha.We can't see what people search because nothing is logged. That's an important mission, but it means we need feedback from subject matter experts in different areas to keep improving the results because we can't see what people search or when it goes #$%^. Programming searches are one of our top priorities. They're often good, but need a lot of work, especially for languages I don't know (I'm a Python and Javascript dev with some Java).
+
+
+***
+![India set to make flex-fuel engines mandatory, decision to be taken in 8-10 days' time](https://images.firstpost.com/wp-content/uploads/2021/03/GMC-Yukon-Flex-Fuel-E85-Badge.jpg "India set to make flex-fuel engines mandatory, decision to be taken in 8-10 days' time")
+
+
+[India set to make flex-fuel engines mandatory, decision to be taken in 8-10 days' time](https://www.firstpost.com/tech/auto/india-set-to-make-flex-fuel-engines-mandatory-decision-to-be-taken-in-8-10-days-time-9737931.html)
+
+
+> Press Trust of IndiaJun 21, 2021 11:27:17 ISTThe government will take a decision over flex-fuel engines in the next 8-10 days as it is considering making these engines mandatory for the automobile industry, Union Minister Nitin Gadkari said on Sunday while asserting that the move will help farmers and boost the Indian economy. Addressing Rotary District Conference 2020-21 virtually, Gadkari said that the price of alternative fuel ethanol is Rs 60-62 per litre, while petrol costs more than Rs 100 per litre in many parts of the country, so by using ethanol, Indians will save Rs 30-35 per litre.
+
+
+***
+![Fast & Furious 9 Box Office Nears $300 Million Ahead of US, UK Release](https://i.gadgets360cdn.com/large/f9_ludacris_tyrese_gibson_1624254785305.jpeg "Fast & Furious 9 Box Office Nears $300 Million Ahead of US, UK Release")
+
+
+[Fast & Furious 9 Box Office Nears $300 Million Ahead of US, UK Release](https://gadgets.ndtv.com/entertainment/news/fast-furious-9-f9-box-office-300-million-release-date-us-uk-canada-download-full-movie-2468661)
+
+
+> Fast & Furious 9 — or F9, as it's called in some territories — has now grossed $292.1 million (roughly Rs. 2,166 crores) worldwide at the box office, bolstered by 13 new markets including Australia, Bulgaria, Czech Republic, Indonesia, Israel, Slovakia, and Ukraine among others where it released this weekend. All this comes before the ninth Fast & Furious movie has even found its way to its single biggest territory and its home market of the US, where F9 releases this coming Friday, June 25. That $292.
+
+
