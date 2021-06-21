@@ -28428,3 +28428,50 @@
 > Digital Trends may earn a commission when you buy through links on our site. Prime Day deals are the perfect opportunity to upgrade your wireless headphones. You won't have to pay full price with Prime Day headphone deals. Not all headphone deals are equal though, as some discounts are insignificant, while the quality of some products is inadequate. You won't run into these problems with the Bose Noise Cancelling Headphones 700, which are top-quality headphones that Amazon is selling with a $170 discount, bringing their price down to just $229 from their original price of $399.
 
 
+***
+![Amazon's latest Echo Show fall to a new record low for Prime Day](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/amazon-echo-show-lifestyle.jpg "Amazon's latest Echo Show fall to a new record low for Prime Day")
+
+
+[Amazon's latest Echo Show fall to a new record low for Prime Day](https://www.imore.com/amazons-latest-echo-show-fall-new-record-low-prime-day)
+
+
+> Amazon device deals are synonymous with Prime Day, though it's not as often that we see amazing deals on Amazon's brand new hardware. These devices usually get a token discount, if anything, or multi-buy deals that mean you are spending more, not less. That's not true for the all-new Amazon Echo Show, though. It only hit the market a few months ago and has seen very few discounts since then. For Prime Day, it's had $60 chopped off its retail price meaning Prime members can score one for a new record-low price of $189.
+
+
+***
+![The Station: Waymo nabs more capital, Cruise taps a $5B credit line and hints about Argo's future – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/05/Waymo-lineup.jpg?w=711 "The Station: Waymo nabs more capital, Cruise taps a $5B credit line and hints about Argo's future – TechCrunch")
+
+
+[The Station: Waymo nabs more capital, Cruise taps a $5B credit line and hints about Argo's future – TechCrunch](https://techcrunch.com/2021/06/21/the-station-waymo-nabs-more-capital-cruise-taps-a-5b-credit-line-and-hints-about-argos-future/)
+
+
+> The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox.Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packages move (today and in the future) from Point A to Point B.A few Extra Crunch items highlight before we jump into things. This week, we published an interview with Refraction AI co-founder and CTO Matthew Johnson-Roberson as part of an ongoing series focused on transportation founders.
+
+
+***
+[Revolut says it had $361M in 2020 revenue, up 57% YoY, non-adjusted operating loss reached $277M due to staff costs, and retail customers rose 45% to 14.5M (Romain Dillet/TechCrunch)](http://www.techmeme.com/210621/p12#a210621p12)
+
+
+> Romain Dillet / TechCrunch: Revolut says it had $361M in 2020 revenue, up 57% YoY, non-adjusted operating loss reached $277M due to staff costs, and retail customers rose 45% to 14.5M — Fintech startup Revolut has filed some financial results and is sharing details with the press. In 2020, the company reported $361 million …
+
+
+***
+![The best SSD upgrade I ever made is cheaper than ever for Prime Day – so I'm getting another](https://cdn.mos.cms.futurecdn.net/kuRixfcdE8iw8K6oXomtHP-1200-80.jpg "The best SSD upgrade I ever made is cheaper than ever for Prime Day – so I'm getting another")
+
+
+[The best SSD upgrade I ever made is cheaper than ever for Prime Day – so I'm getting another](https://www.techradar.com/news/the-best-ssd-upgrade-i-ever-made-is-cheaper-than-ever-for-prime-day-so-im-getting-another)
+
+
+> (Image credit: Samsung) For Amazon Prime Day 2021 the Samsung 870 EVO is at its lowest price yet (not in the UK? Scroll down for Samsung 870 EVO deals in your region). I'm probably going to get another, and if you're looking for any SSD this year, make it this one. Like many people, I use a gaming PC I built myself and have spent many years fettling it, upgrading parts regularly, trying to keep my PCMR credentials. But while a lot of focus is spent looking for the best processors or the best graphics cards, at first I never spent much time thinking about storage.
+
+
+***
+![Already seen some Prime Day earbud deals? Here's 1MORE you shouldn't miss](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/11/1more-stylish-true-wireless.jpg "Already seen some Prime Day earbud deals? Here's 1MORE you shouldn't miss")
+
+
+[Already seen some Prime Day earbud deals? Here's 1MORE you shouldn't miss](https://www.androidcentral.com/already-seen-prime-day-earbud-deals-heres-1more-you-shouldnt-miss)
+
+
+> We've combed through the best wireless earbud deals this Prime Day and found several great offers and hidden gems. However, one deal that I think isn't getting enough attention is this discount on the vastly underrated 1MORE Stylish True Wireless in-ear Headphones. Prime members can pick up a pair right now for more than $30 off their normal retail price, which is an insanely good value. 1MORE is a relatively new headphone company, but it's one that we particularly enjoy. In fact, we've given several favorable reviews to other, more expensive 1MORE earbuds like the ColorBuds and ComfoBuds Pro.
+
+
