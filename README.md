@@ -28181,3 +28181,53 @@
 > Equities research analysts forecast that TechTarget, Inc. (NASDAQ:TTGT) will post $61.05 million in sales for the current fiscal quarter, according to Zacks Investment Research. Two analysts have provided estimates for TechTarget's earnings. The lowest sales estimate is $59.10 million and the highest is $63.00 million. TechTarget posted sales of $34.80 million during the same quarter last year, which would indicate a positive year-over-year growth rate of 75.4%. The firm is scheduled to report its next quarterly earnings results on Wednesday, August 4th.
 
 
+***
+![Nixos-unstable's ISO_minimal.x86_64-Linux is 100% reproducible](https://external-preview.redd.it/tEohzwqzCDxCBCNqyEtZpMe8268Lo0a1CKSD7gRZZx0.jpg?auto=webp&s=8a785ad9bf8b4d83720467de6bd9cd6107c0d378 "Nixos-unstable's ISO_minimal.x86_64-Linux is 100% reproducible")
+
+
+[Nixos-unstable's ISO_minimal.x86_64-Linux is 100% reproducible](https://www.reddit.com/r/programming/comments/o4kmux/nixosunstables_iso_minimalx86_64linux_is_100/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Japan government backs 4-day workweek](https://cdn.mainichi.jp/vol1/2021/06/19/20210619p2g00m0na013000p/0c10.jpg?2 "Japan government backs 4-day workweek")
+
+
+[Japan government backs 4-day workweek](https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c)
+
+
+> People wearing masks walk along a pedestrian crossing on June 16, 2021, in Tokyo. (AP Photo/Eugene Hoshiko) TOKYO (Kyodo) -- Japan's government plans to encourage firms to let their employees choose to work four days a week instead of five, aiming to improve the balance between work and life for people who have family care responsibilities or need more time off to acquire new skills. The government included the promotion of an optional four-day workweek in its annual economic policy guideline finalized Friday by Prime Minister Yoshihide Suga's Cabinet.
+
+
+***
+![Why the Golf GTI is a class of its own](https://cdn.newsapi.com.au/image/v1/5520062c17159800d0ed38647f0a13a4?width=1280 "Why the Golf GTI is a class of its own")
+
+
+[Why the Golf GTI is a class of its own](https://www.news.com.au/technology/motoring/motoring-news/why-the-new-volkswagen-golf-gti-is-in-a-class-of-its-own/news-story/6a990d329be9f24c97a46e714322f63d)
+
+
+> Volkswagen's Golf GTI is in a class of its own.But that doesn't mean it's the best hot hatch on sale, as the new Golf GTI takes a distinctly different road to turbocharged rivals.VW set the tone for the modern GTI with the fifth-generation model back in 2005. A turbocharged 2.0-litre engine and new dual-clutch automatic transmission contributed to a polished hatchback with a measured approach to performance.It introduced VW staples such as a flat-bottomed steering wheel with shift paddles, tartan seats, and subtle red or honeycomb-shaped highlights.
+
+
+***
+![China's cloud services spend hits US$6 billion in Q1 2021: Canalys](https://itwire.com/media/k2/items/cache/407f7329bd3ffff3ac51075cc36f74c8_XS.jpg "China's cloud services spend hits US$6 billion in Q1 2021: Canalys")
+
+
+[China's cloud services spend hits US$6 billion in Q1 2021: Canalys](https://itwire.com/cloud/china-s-cloud-services-spend-hits-us$6-billion-in-q1-2021-canalys.html)
+
+
+> COVID-19 might still be ravaging the world, and Chinese docks, affecting physical goods logistics, but China's cloud services spend has hit $6 billion in the first quarter of 2021, according to research and analyst firm Canalys. With Q1 2020 being a period where COVID-19 hadn't truly yet started impacting the world, which really started happening from around March 2020 onwards, it's interesting to note that in Q1 2021, total Chinese cloud expenditure increased US$2.1 billion compared, and over US$200 million on Q4 2020, according to the latest Canalys data.
+
+
+***
+![Help with Photos app please](https://images.macrumors.com/social/?t=2301689&v=6 "Help with Photos app please")
+
+
+[Help with Photos app please](https://forums.macrumors.com/threads/help-with-photos-app-please.2301689/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hi I am getting a bit frustrated with the photos app on my new M1 MBA and hoping someone can help me please. My previous MacBook was a 2011 MacBook Pro. I had iCloud set up on my iOS devices but turned off on my MBP. I had "My Photo Stream" on my Mac instead. Previously any photo that I took on an IOS device would automatically over the air upload an original local copy to my photos app on my MacBook.
+
+
