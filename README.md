@@ -28131,3 +28131,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Grab a 4th-gen Apple TV 4K for $99 at Walmart ahead of Prime Day](https://mondrian.mashable.com/2021%252F06%252F21%252Fbb%252Ff4c5241222804008b0eecdb1e65720bc.46e05.png%252F1200x630.png?signature=iY8Jw74ADaQLlLCAVsPMGveHfOU= "Grab a 4th-gen Apple TV 4K for $99 at Walmart ahead of Prime Day")
+
+
+[Grab a 4th-gen Apple TV 4K for $99 at Walmart ahead of Prime Day](https://mashable.com/shopping/walmart-june-20-apple-tv-4k/)
+
+
+> Save $70: The Apple TV 4K (32GB, 4th gen) is on sale for $99 at Walmart as of June 21. Fire TV gear is one of Amazon's heavy hitters for Prime Day.  Walmart technically can't compete directly. It simply doesn't have a huge proprietary streaming platform like that. So it said fine — our version of a Prime Day streaming deal will be dropping the 32GB Apple TV 4K below $100. This 4th gen model doesn't have the nice, upgraded remote that Apple just released in April. But we can probably thank that new version for giving the go-ahead to such a juicy discount.
+
+
+***
+![The Instant Pot Viva is almost down to its Black Friday price at Walmart — just $59](https://mondrian.mashable.com/2021%252F06%252F21%252F18%252F28bc5276584a42619fb89d1307fcdcf1.80495.png%252F1200x630.png?signature=lc1Q3yTtxk-BGJFRboeQrK0an9U= "The Instant Pot Viva is almost down to its Black Friday price at Walmart — just $59")
+
+
+[The Instant Pot Viva is almost down to its Black Friday price at Walmart — just $59](https://mashable.com/shopping/walmart-june-20-instant-pot-viva/)
+
+
+> SAVE $40: The Instant Pot Viva is almost back down to its Black Friday price at Walmart as of June 20 — get one for just $59 right before Prime Day hits. Summer is here, and we're pretty sure you'd rather be spending more time outdoors and less time in the kitchen so you can enjoy the weather. At least, that's how we feel. And for that reason, we're going to try to stock our kitchens with anything that will make the cooking process as fast and hands-free as possible. Perhaps the pinnacle of kitchen convenience in the Instant Pot, and as of June 20, you can pick up an Instant Pot Viva for $40 off at Walmart — that's almost as low as its Black Friday price, so it's not going to get much better than this.
+
+
+***
+![Walmart is battling Amazon for the best deals this Prime Day](https://mondrian.mashable.com/2021%252F06%252F21%252Ff4%252F4e21ae54f6c94bafaaf48cb267a433c1.eaf7c.jpg%252F1200x630.jpg?signature=ySLZ025surJTxvQhMVnRwEMcYws= "Walmart is battling Amazon for the best deals this Prime Day")
+
+
+[Walmart is battling Amazon for the best deals this Prime Day](https://mashable.com/shopping/best-prime-day-walmart-deals-for-days/)
+
+
+> Here are the best sales to shop during Walmart's Deals for Days event as of June 20: Oh, you thought Walmart was just going to sit there and twiddle its thumbs while one of its biggest rivals ran a massive two-day sale with over two million deals? Think again. As Amazon revs up for its sixth annual Prime Day event on June 21 and 22, the big box store kicked off its own "Deals for Days" shopping extravaganza on Sunday, June 20, with "Black Friday-like savings" up for grabs online and in stores now through Wednesday, June 23.
+
+
+***
+![Get an iPad Mini at Walmart for less than Amazon's lowest price ever](https://mondrian.mashable.com/2021%252F06%252F21%252F52%252F69b1f2c0ef9048d1b0639b7a2fdf2778.8c6ad.png%252F1200x630.png?signature=RPQPs5Ykl8_x4_0g-avkqXHyivc= "Get an iPad Mini at Walmart for less than Amazon's lowest price ever")
+
+
+[Get an iPad Mini at Walmart for less than Amazon's lowest price ever](https://mashable.com/shopping/walmart-june-20-apple-ipad-mini/)
+
+
+> SAVE $70: As of June 20, the 2019 iPad Mini is only $329 at Walmart right before Prime Day — that's less than Amazon's lowest price ever. There are plenty of great tablets out there, but none quite like the iPad. We're not saying that Apple is the best for everyone, but it's hard to deny that they've pretty much made the word "tablet" synonymous with "iPad."  While the newest iPad Pro is the most sought-after tablet at the moment, not everyone is always gunning for the latest and greatest — some are fine picking up an older model that'll get the job done without all the fancy bells and whistles.
+
+
+***
+![TechTarget, Inc. (NASDAQ:TTGT) Expected to Post Quarterly Sales of $61.05 Million](https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/techtarget-inc-logo.gif&w=240&h=240&zc=2 "TechTarget, Inc. (NASDAQ:TTGT) Expected to Post Quarterly Sales of $61.05 Million")
+
+
+[TechTarget, Inc. (NASDAQ:TTGT) Expected to Post Quarterly Sales of $61.05 Million](https://rivertonroll.com/news/2021/06/21/techtarget-inc-nasdaqttgt-expected-to-post-quarterly-sales-of-61-05-million-2.html)
+
+
+> Equities research analysts forecast that TechTarget, Inc. (NASDAQ:TTGT) will post $61.05 million in sales for the current fiscal quarter, according to Zacks Investment Research. Two analysts have provided estimates for TechTarget's earnings. The lowest sales estimate is $59.10 million and the highest is $63.00 million. TechTarget posted sales of $34.80 million during the same quarter last year, which would indicate a positive year-over-year growth rate of 75.4%. The firm is scheduled to report its next quarterly earnings results on Wednesday, August 4th.
+
+
