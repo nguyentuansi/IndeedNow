@@ -28575,3 +28575,50 @@
 > June 21, 2021 12:08 PM Eastern Daylight Time STAMFORD, Conn.--(BUSINESS WIRE)--Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm, has launched two research studies examining the growing data analytics market, with one study examining providers of analytics services and the second examining vendors of analytics platforms. The study results will be published in two comprehensive ISG Provider Lens™ reports, Analytics Services and Analytics Platforms, both scheduled to be released in November.
 
 
+***
+[A timeline of Google's long list of mostly-defunct messaging apps and services, starting in 2004 with Gmail and progressing to Google Talk, Hangouts, and Allo (Chaim Gartenberg/The Verge)](http://www.techmeme.com/210621/p23#a210621p23)
+
+
+> Chaim Gartenberg / The Verge: A timeline of Google's long list of mostly-defunct messaging apps and services, starting in 2004 with Gmail and progressing to Google Talk, Hangouts, and Allo — What a decade and a half of confusing services can tell us about the future — Over the past 15 years, Google has introduced …
+
+
+***
+![Jeff Bezos Petitioned to Stay in Space, With 56,000 Signatures](https://external-preview.redd.it/RIM6-E6-ESxueR03SFrp1-D83damBiKV2Goeka-GECw.jpg?auto=webp&s=ccb14ae9b963f7bec63d3485cfbd79adf1700bf7 "Jeff Bezos Petitioned to Stay in Space, With 56,000 Signatures")
+
+
+[Jeff Bezos Petitioned to Stay in Space, With 56,000 Signatures](https://www.reddit.com/r/technology/comments/o512zy/jeff_bezos_petitioned_to_stay_in_space_with_56000/)
+
+
+> Damn.. why risk your life on something so silly when you have so much to lose? What if someone leaves a wrench in the engine?
+
+
+***
+![Texans are mad as heck their smart thermostats don't respect their freedom](https://imgix.bustle.com/uploads/getty/2021/6/21/10b18a3e-a910-4a7c-9e2f-aa1a08676c7a-getty-971026176.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg "Texans are mad as heck their smart thermostats don't respect their freedom")
+
+
+[Texans are mad as heck their smart thermostats don't respect their freedom](https://www.inputmag.com/tech/texans-are-mad-as-heck-their-smart-thermostats-dont-respect-their-freedom)
+
+
+> Texan owners of smart thermostats such as the Google Nest are getting very hot and bothered by local power companies' opt-in, temporary energy efficiency modes, and they're letting like-minded patriots know this injustice will not stand. As multiple outlets recently reported, programs like EnergyHub's 'Smart Savers Texas' encourage residents to consent to remote access of their home's thermostats during periods of high energy demand in exchange for rewards such as sweepstakes entries and rebate payments, but not everyone is aware they opted-in.
+
+
+***
+![One Amazon warehouse destroys 130,000 items per week, including MacBooks, COVID-19 masks, and TVs, some of them new and unused, a report says](https://external-preview.redd.it/L8eUZNDW_IPsCkquzn6QfqjCZRhRMB6ADjqdf_gTaFg.jpg?auto=webp&s=14229e737acf0814cbe61ebcd97f414624118737 "One Amazon warehouse destroys 130,000 items per week, including MacBooks, COVID-19 masks, and TVs, some of them new and unused, a report says")
+
+
+[One Amazon warehouse destroys 130,000 items per week, including MacBooks, COVID-19 masks, and TVs, some of them new and unused, a report says](https://www.reddit.com/r/technology/comments/o5121q/one_amazon_warehouse_destroys_130000_items_per/)
+
+
+> It blows my mind that this sort of thing is allowed. How disconnected do execs have to be to think this is fine?
+
+
+***
+![The COSORI Smart WiFi Air Fryer Works With Alexa & Google Assistant, For $84](https://www.androidheadlines.com/wp-content/uploads/2020/12/maxresdefault.jpg "The COSORI Smart WiFi Air Fryer Works With Alexa & Google Assistant, For $84")
+
+
+[The COSORI Smart WiFi Air Fryer Works With Alexa & Google Assistant, For $84](https://www.androidheadlines.com/the-cosori-smart-wifi-air-fryer-works-with-alexa-google-assistant-for-under-100.html)
+
+
+> Amazon has the COSORI Smart Air Fryer on sale today for just $83.99. That's going to save you $36 or about 30% off of the regular price. Making this a really great deal for those looking for a nice and cheap air fryer to pick up.This deal is good throughout Prime Day and will end at 11:59PM on June 22, so you'd better grab it while it lasts.This air fryer from COSORI is a smart air fryer, as you can tel by its name. It has WiFi support, which is going to give the ability to control and monitor what is in the air fryer, with your smartphone.
+
+
