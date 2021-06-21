@@ -28378,3 +28378,53 @@
 > For Prime Day, HMD Global has discounted the Nokia 8.3 5G Android smartphone down to $479. Which shaves $120 off of the regular price. Making this already well priced smartphone, even cheaper. And a really great deal.This deal is good throughout Prime Day and will end at 11:59PM on June 22, so you'd better grab it while it lasts.The Nokia 8.3 5G is a really great smartphone, and it's unlocked so it will work on AT&T and T-Mobile networks. Though, Nokia does note that it won't work on AT&T's 5G network, unfortunately.
 
 
+***
+![Best Prime Day router deals for 2021](https://icdn.digitaltrends.com/image/digitaltrends/gryphon-wifi-router-smartphone-app-lifestyle.jpg "Best Prime Day router deals for 2021")
+
+
+[Best Prime Day router deals for 2021](https://www.digitaltrends.com/dtdeals/best-prime-day-router-deals-2021/)
+
+
+> Prime Day is finally here and you can grab the very best new tech in Amazon Prime Day deals, including Prime Day router deals. This is an ideal opportunity for anyone looking to upgrade their Wi-Fi connections and create more efficiency in your smart home, home theater system, and all your other Internet-dependent devices. Maintain steady connections, get more data faster, and keep ahead of the competition on all your games with these Prime Day router deals. This year, Prime Day might be your best chance to score a great deal on a new router.
+
+
+***
+![China's space station is go, next stop the moon](https://static.standard.co.uk/2021/06/18/16/SITETechScience_NEW_final_3x2.jpg?width=1200&width=1200&auto=webp&quality=75 "China's space station is go, next stop the moon")
+
+
+[China's space station is go, next stop the moon](https://www.standard.co.uk/tech/china-s-space-station-is-go-next-stop-the-moon-b941445.html)
+
+
+> Three Chinese astronauts have docked at the Tiangon Space Station in a moment captured on the state's CCTV channel.The men will spend three months there, working to bring it online. China's building its own space station because the US won't let the country work with NASA, so its astronauts aren't allowed on the ISS.Meanwhile, China's teaming up with Russia for a base on the Moon. The two countries have revealed a roadmap for constructing the International Lunar Research Station with construction possibly beginning in 2026.
+
+
+***
+![Best Prime Day Dyson deals for 2021](https://icdn.digitaltrends.com/image/digitaltrends/dyson-ball-animal-2-1.jpg "Best Prime Day Dyson deals for 2021")
+
+
+[Best Prime Day Dyson deals for 2021](https://www.digitaltrends.com/dtdeals/best-prime-day-dyson-deals-2021/)
+
+
+> It's Prime Day. If you're looking for a new and reliable vacuum cleaner, we have all the best Prime Day Dyson deals out there right now as part of the massive amount of Prime Day deals going on during the major sales event. This is the ideal time to take advantage of deep discounts so you can enjoy a superior vacuuming experience for less or treat yourself to a few extra features such as a focus on pet hair removal. We also have the best deals for other Dyson products such as its hair drying products and its fans.
+
+
+***
+![Dell is practically giving away this 144Hz monitor for Prime Day](https://icdn.digitaltrends.com/image/digitaltrends/dell-s2421hgf-24-inch-gaming-monitor.jpg "Dell is practically giving away this 144Hz monitor for Prime Day")
+
+
+[Dell is practically giving away this 144Hz monitor for Prime Day](https://www.digitaltrends.com/dtdeals/dell-24-inch-144hz-gaming-monitor-deal-dell-prime-day-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. The summer Prime Day deals are officially here today, and if you didn't shop during the early Prime Day weekend sales and are hunting around for the best Prime Day monitor deals, don't limit your search to just Amazon. Other outlets are running their own Prime Day blowouts, and Dell has one of the best discounts going right now on the excellent 24-inch 144Hz gaming display that brings it down to an eye-popping $160. Read on to see why this might just be our favorite monitor deal for Prime Day.
+
+
+***
+![Bose 700 headphones are crazy cheap for Prime Day 2021](https://icdn.digitaltrends.com/image/digitaltrends/bose-700-wireless-bluetooth-noise-canceling-headphones.jpg "Bose 700 headphones are crazy cheap for Prime Day 2021")
+
+
+[Bose 700 headphones are crazy cheap for Prime Day 2021](https://www.digitaltrends.com/dtdeals/bose-700-headphones-deal-amazon-prime-day-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Prime Day deals are the perfect opportunity to upgrade your wireless headphones. You won't have to pay full price with Prime Day headphone deals. Not all headphone deals are equal though, as some discounts are insignificant, while the quality of some products is inadequate. You won't run into these problems with the Bose Noise Cancelling Headphones 700, which are top-quality headphones that Amazon is selling with a $170 discount, bringing their price down to just $229 from their original price of $399.
+
+
