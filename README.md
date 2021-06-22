@@ -29248,3 +29248,53 @@
 > (Image credit: Future) As we head into day two of Prime Day 2021, the best headphones deals we've seen so far are still available – but you'll need to act fast.The Sony WH-1000XM4 are our pick for the best headphones you can buy today – and they've plummeted to their lowest ever price in these fantastic Prime Day headphones deals.Costing $349.99 at launch, you can now grab the Sony WH-1000XM4 Wireless Headphones for just $248 – that's a saving of over $100, and the best price we've seen so far.
 
 
+***
+![The best Kindle Paperwhite deal is at Amazon right now for Prime Day](https://icdn.digitaltrends.com/image/digitaltrends/guy-in-van-with-kindle-paperwhite.jpg "The best Kindle Paperwhite deal is at Amazon right now for Prime Day")
+
+
+[The best Kindle Paperwhite deal is at Amazon right now for Prime Day](https://www.digitaltrends.com/dtdeals/kindle-paperwhite-deal-prime-day-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. The Prime Day deals have been active for almost two whole days now. That means you only have a few hours to take advantage of steep discounts on the newest tech, like these Prime Day Kindle deals. One Prime Day deal that's caught our eye is the giant break in price on an 8GB Kindle Paperweight; right now, you can save $50, only for Prime Day. The new Kindle Paperwhite has twice the storage of the old version, and it's waterproof too.
+
+
+***
+![This Prime Day deal on Twelve South's MacBook stand is too good to pass up!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/twelve-south-curve-macbook-stand.jpg "This Prime Day deal on Twelve South's MacBook stand is too good to pass up!")
+
+
+[This Prime Day deal on Twelve South's MacBook stand is too good to pass up!](https://www.imore.com/elevate-your-macbook-experience-twelve-souths-curve-stand-thanks-amazing-prime-day-deal)
+
+
+> If you're using a laptop, like a MacBook Air or MacBook Pro, then you may just have it sitting flat on a desk. While this works, it's not the best way. For that, you should be elevating your laptop so that it's at eye-level and you're not hunching over. Having a good MacBook stand is optimal, and Twelve South's Curve is a fantastic choice, and it looks great to boot. The Twelve South Curve is normally $59.99, but it's 32% off for Prime Day, knocking down that price to a cool $41.09. It's a great price for such a highly-rated MacBook stand.
+
+
+***
+![Protect and regulate the internet's hidden power brokers](https://thehill.com/sites/default/files/computer_040618gn.jpg "Protect and regulate the internet's hidden power brokers")
+
+
+[Protect and regulate the internet's hidden power brokers](https://thehill.com/opinion/technology/559590-protect-and-regulate-the-internets-hidden-power-brokers)
+
+
+> On June 8, 2021, Amazon went down. CNN went down. GitHub, Reddit, Twitch, StackOverflow were all down. What happened? A coordinated cyberattack? Nope. Fastly, a content delivery network, or CDN, went offline.CDNs are the internet's invisible infrastructure, but they are critical infrastructure, just like water treatment and electric power plants. Over the past decade, they've become tremendously concentrated among a handful of companies, all of which are based in the United States. The result is a central point of fragility in the global Internet — one our enemies could use against us, and one the U.
+
+
+***
+![The best last-minute Prime Day deals for the Nintendo Switch](https://cdn.vox-cdn.com/thumbor/PPCC4u3GpgAJqXDzTMOFrlPV9tM=/0x170:2040x1190/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/19086563/akrales_190820_3597_0310.jpg "The best last-minute Prime Day deals for the Nintendo Switch")
+
+
+[The best last-minute Prime Day deals for the Nintendo Switch](https://www.theverge.com/2021/6/22/22545710/amazon-prime-day-nintendo-switch-deals-zelda-mario-controllers-headsets-cases-2021)
+
+
+> Photo by Amelia Holowaty Krales / The Verge If you weren't already cued in, Amazon Prime Day 2021 is drawing to a close, with most of the remaining deals set to expire at 3AM ET / 12AM PT tonight. Thankfully, many of the best Best Prime Day gaming deals are still available, including one on the road-ready Nintendo Switch Lite. There is also an assortment of deals covering some of the best accessories and games, whether you're a fan of charming role-playing titles like The Legend of Zelda: Link's Awakening or the latest entry in Capcom's monster-slaying franchise.
+
+
+***
+![Don't Miss Out On These 30% Off Trackers From Withings And Amazfit](https://www.androidheadlines.com/wp-content/uploads/2020/10/Amazfit-GTR-2.jpg "Don't Miss Out On These 30% Off Trackers From Withings And Amazfit")
+
+
+[Don't Miss Out On These 30% Off Trackers From Withings And Amazfit](https://www.androidheadlines.com/2021/06/withings-amazfit-trackers-smartwatches-prime-day-deal-sale-price.html)
+
+
+> Now that Summer is almost here, it's a good time to get out and start being more active, and Withings as well as Amazfit can help with that thanks to these Prime Day sales. Both Withings and Amazfit have a bunch of different trackers and smartwatches on sale for up to 30% off for Prime Day. And since Prime Day is almost over, there's not a whole lot of time left to snag one without paying full price. Or at the very least less of a discount than what's on offer today. And there's surprisingly quite a few options from both brands.
+
+
