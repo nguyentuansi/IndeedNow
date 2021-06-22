@@ -29151,3 +29151,50 @@
 > (Image credit: Future) The RTX 3070 is in stock as part of the Newegg Shuffle, meaning you can buy the Nvidia GPU from the online components store – if you're lucky enough to win the raffle. Also available are the RTX 3080 Ti, RTX 3070, RTX 3090 and RTX 3060, along with a PS5 restock (PS5 Digital bundle) and Xbox Series X and Series S bundles.Our GPU restock Twitter tracker Matt Swider sends out alerts when RTX graphics cards are back in stock. Lately, there have been few opportunities to buy a GPU.
 
 
+***
+[Computing the metric tensor from its Killing vectors?](https://physics.stackexchange.com/questions/647196/computing-the-metric-tensor-from-its-killing-vectors)
+
+
+> On page. 139 of Carroll's GR book, during the discussion of Killing vectors, he quotes an explicit coordinate basis representation for the Killing vectors on $S^2$: \begin{array}{l} R=\partial_{\phi} \\ S=\cos \phi \partial_{\theta}-\cot \theta \sin \phi \partial_{\phi} \\ T=-\sin \phi \partial_{\theta}-\cot \theta \cos \phi \partial_{\phi} . \tag{3.188} \end{array} I am trying to understand why one can go backwards, and compute the metric tensor components from the Killing vectors. It is straightforward to show that \begin{align} g^{\mu \nu} = K_i^\mu K_i^\nu \end{align} where $\mu, \nu = \theta, \phi$ and $i = 1, 2, 3$ corresponding to the $R, S, T$ Killing vectors, respectively.
+
+
+***
+![Popular Classic Endless Runner 'Jetpack Joyride' Coming to Apple Arcade](https://images.macrumors.com/t/2XsvuARChCp0tZHd4oBLU_GfeJk=/2732x/https://images.macrumors.com/article-new/2021/06/apple-arcade-jetpack-joyride.jpeg "Popular Classic Endless Runner 'Jetpack Joyride' Coming to Apple Arcade")
+
+
+[Popular Classic Endless Runner 'Jetpack Joyride' Coming to Apple Arcade](https://www.macrumors.com/2021/06/22/jetpack-joyride-coming-to-apple-arcade/)
+
+
+> Monday June 21, 2021 6:15 am PDT by Mitchel BroussardAmazon's annual Prime Day event has officially kicked off today, beginning 48 hours of discounts, offers, and tons of savings across Amazon's storefront. This includes everything from home electronics to clothing, jewelry, video games, movies, and much more.Note: MacRumors is an affiliate partner with these vendors. When you click a link and make a purchase, we may receive a small payment,...
+
+
+***
+![Florida High School Athletic Association Expands Digital Ticketing with GoFan](https://mms.businesswire.com/media/20210622005193/en/886578/23/gofan_logo.jpg "Florida High School Athletic Association Expands Digital Ticketing with GoFan")
+
+
+[Florida High School Athletic Association Expands Digital Ticketing with GoFan](https://www.businesswire.com/news/home/20210622005193/en/Florida-High-School-Athletic-Association-Expands-Digital-Ticketing-with-GoFan)
+
+
+> June 22, 2021 02:00 PM Eastern Daylight Time GAINESVILLE, Fla. & ATLANTA--(BUSINESS WIRE)--The Florida High School Athletic Association (FHSAA) has renewed a three-year agreement with GoFan as its official digital ticketing partner to provide touchless, digital ticketing solutions to high schools and state-wide post season play across Florida in all ticketed sports. GoFan's Digital Ticketing and Event Management platform has been adopted throughout the industry as the faster, more expedient, convenient and safer way to purchase tickets for -- and attend -- events.
+
+
+***
+![Deploy a Dockerized Python App to AWS, Azure, Google Cloud](https://external-preview.redd.it/u5lv__B4L70n7eNfPEmQuBF02ZN2yidx2xzpX_fhRvQ.jpg?auto=webp&s=1f775602ecc5f9449017cf87736b1eed2b430cb5 "Deploy a Dockerized Python App to AWS, Azure, Google Cloud")
+
+
+[Deploy a Dockerized Python App to AWS, Azure, Google Cloud](https://www.reddit.com/r/Python/comments/o5t3q2/deploy_a_dockerized_python_app_to_aws_azure/)
+
+
+> Learn how to create a production-ready Docker image with Python Django. Then we will use that Docker Image to push it to a Container Registry and we will Host it to AWS Fargate, Google Cloud Run, Azure Container Instance.Deploy a Python App to AWS: https://youtu.be/L5My8T_k-zsDeploy a Python App to Azure: https://youtu.be/0WheOJMG8qIDeploy a Python App to Google Cloud: https://youtu.be/_ZMGp-bSQhg
+
+
+***
+![Insomniac drives connected to 2018 Mini?](https://images.macrumors.com/social/?t=2301892&v=6 "Insomniac drives connected to 2018 Mini?")
+
+
+[Insomniac drives connected to 2018 Mini?](https://forums.macrumors.com/threads/insomniac-drives-connected-to-2018-mini.2301892/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Apr 24, 2008 1,551 736 In that one place I have this weird issue with my 2018 Mini that kinda just appeared out of nowhere. Drives that are system controlled ie: no on/off switch are randomly turning on and running when the Mini is off. I cannot sleep my mini since that crashes it when its connected to it my eGPU (which is always) so I haven't tested that. I've noticed that having drives further down a USB/Thunderbolt chain increases the chances of this happening.
+
+
