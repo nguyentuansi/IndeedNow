@@ -29198,3 +29198,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Apr 24, 2008 1,551 736 In that one place I have this weird issue with my 2018 Mini that kinda just appeared out of nowhere. Drives that are system controlled ie: no on/off switch are randomly turning on and running when the Mini is off. I cannot sleep my mini since that crashes it when its connected to it my eGPU (which is always) so I haven't tested that. I've noticed that having drives further down a USB/Thunderbolt chain increases the chances of this happening.
 
 
+***
+![Tech Stocks Rally: Nasdaq Closes At Record High After Powell Eases Inflation Concerns](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d241523389d25c6a67c3cf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D82%26cropY2%3D1770 "Tech Stocks Rally: Nasdaq Closes At Record High After Powell Eases Inflation Concerns")
+
+
+[Tech Stocks Rally: Nasdaq Closes At Record High After Powell Eases Inflation Concerns](https://www.forbes.com/sites/jonathanponciano/2021/06/22/tech-stocks-rally-nasdaq-closes-at-record-high-after-powell-eases-inflation-concerns/)
+
+
+> Despite a steep crash at the end of last week, stocks rallied to new highs Tuesday as Federal Reserve Chair Jerome Powell insisted during a congressional hearing that recent price spikes will only be temporary, easing concerns that unexpected interest rate hikes could tank the stock market. Federal Reserve Board Chairman Jerome Powell testifies during a hearing before the Senate Banking ... [+] Committee. Getty Images The tech-heavy Nasdaq jumped 0.8% to 14,253 points Tuesday, surpassing a closing high from June 14.
+
+
+***
+![One of the best Dolby Atmos soundbars is 30% off for Prime Day](https://icdn.digitaltrends.com/image/digitaltrends/vizio-elevate-soundbar-ry-5.jpg "One of the best Dolby Atmos soundbars is 30% off for Prime Day")
+
+
+[One of the best Dolby Atmos soundbars is 30% off for Prime Day](https://www.digitaltrends.com/dtdeals/vizio-elevate-soundbar-deal-prime-day-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Riley Young/Digital Trends We love hunting for the best Prime Day deals every year, especially when it comes to products that we're passionate about, like the best soundbars. And boy have we got a doozie for you. The Vizio Elevate soundbar, which we reviewed earlier this year, normally sells for $1,000. At that price, it's a great buy. But at today's Prime Day price of just $680, it's as close to a no-brainer as we have yet to see.
+
+
+***
+![All the information you need to know about Sonic Colors Ultimate](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/sonic-colors-ultimate-4.jpg "All the information you need to know about Sonic Colors Ultimate")
+
+
+[All the information you need to know about Sonic Colors Ultimate](https://www.imore.com/sonic-colors-ultimate)
+
+
+> Source: Sega It seems like most of gaming's iconic franchises are experiencing an anniversary this year, and that includes the world-famous blue hedgehog, Sonic. Since his debut on the Genesis in 1991, Sonic's trademark speed has made him a gaming icon, and he's enjoyed many classic adventures over his 30 years on the scene. During the Sonic Central presentation, it was revealed that Sonic Colors, his 2010 Wii adventure, is now returning to modern consoles as Sonic Colors Ultimate. Wondering what the hype is all about? Will it be another feather in the Switch's already great platforming library? Here's everything you need to know about Sonic Colors Ultimate.
+
+
+***
+![You DO NOT want to miss this Prime Day Razer gaming mouse deal](https://icdn.digitaltrends.com/image/digitaltrends/razer-deathadder-v2-mouse.jpg "You DO NOT want to miss this Prime Day Razer gaming mouse deal")
+
+
+[You DO NOT want to miss this Prime Day Razer gaming mouse deal](https://www.digitaltrends.com/dtdeals/razer-deathadder-v2-gaming-mouse-deal-amazon-prime-day-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Pretty soon, Prime Day will grind to a halt and all of those crazy sale prices will return to normal. It's the last day to take advantage of the best Prime Day deals, so don't delay. Now is the ideal time to get deals on smart home goods, the latest tech, and much more. PC Gamers will be delighted to know that Amazon is offering a fantastic deal on Razer's DeathAdder V2 Gaming Mouse in classic black. It has a 20K DPI optical sensor and Chroma RGB lighting.
+
+
+***
+![The best Prime Day headphones deal is still live for the Sony WH-1000XM4](https://cdn.mos.cms.futurecdn.net/VZy4wCt5cnsZS7VucUh7Yd-1200-80.jpg "The best Prime Day headphones deal is still live for the Sony WH-1000XM4")
+
+
+[The best Prime Day headphones deal is still live for the Sony WH-1000XM4](https://www.techradar.com/news/sony-wh-1000xm4-deal-the-best-headphones-of-2021-hit-lowest-ever-price)
+
+
+> (Image credit: Future) As we head into day two of Prime Day 2021, the best headphones deals we've seen so far are still available – but you'll need to act fast.The Sony WH-1000XM4 are our pick for the best headphones you can buy today – and they've plummeted to their lowest ever price in these fantastic Prime Day headphones deals.Costing $349.99 at launch, you can now grab the Sony WH-1000XM4 Wireless Headphones for just $248 – that's a saving of over $100, and the best price we've seen so far.
+
+
