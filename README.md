@@ -28819,3 +28819,50 @@
 > Tesla CEO Elon Musk has been teasing a neural network training computer called ‘Dojo' since at least 2019. Musk says Dojo will be able to process vast amounts of video data to achieve vision-only autonomous driving. While Dojo itself is still in development, Tesla today revealed a new supercomputer that will serve as a development prototype version of what Dojo will ultimately offer.  At the 2021 Conference on Computer Vision and Pattern Recognition on Monday, Tesla's head of AI, Andrej Karpathy, revealed the company's new supercomputer that allows the automaker to ditch radar and lidar sensors on self-driving cars in favor of high-quality optical cameras.
 
 
+***
+![Microchip Boosts Gallium Nitride (GaN) Radio Frequency (RF) Portfolio with Ka-band Monolithic Microwave Integrated Circuit (MMIC) with High Linearity for SatCom Terminals](http://www.businesswire.com/images/bwlogo_square.png "Microchip Boosts Gallium Nitride (GaN) Radio Frequency (RF) Portfolio with Ka-band Monolithic Microwave Integrated Circuit (MMIC) with High Linearity for SatCom Terminals")
+
+
+[Microchip Boosts Gallium Nitride (GaN) Radio Frequency (RF) Portfolio with Ka-band Monolithic Microwave Integrated Circuit (MMIC) with High Linearity for SatCom Terminals](https://www.businesswire.com/news/home/20210621005047/en/Microchip-Boosts-Gallium-Nitride-GaN-Radio-Frequency-RF-Portfolio-with-Ka-band-Monolithic-Microwave-Integrated-Circuit-MMIC-with-High-Linearity-for-SatCom-Terminals)
+
+
+> June 22, 2021 12:00 AM Eastern Daylight Time CHANDLER, Ariz.--(BUSINESS WIRE)--Satellite communication systems use complex modulation schemes to achieve the blazingly fast data rates required to deliver video and broadband data. To attain this, they must deliver high RF output power while simultaneously ensuring the signals retain their desired characteristics. The new GMICP2731-10 GaN MMIC power amplifier announced today by Microchip Technology Inc. (Nasdaq: MCHP) helps meet both of these requirements.
+
+
+***
+![This is the single best MacBook deal you'll find on Prime Day](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/macbook-air-m1-30.jpg "This is the single best MacBook deal you'll find on Prime Day")
+
+
+[This is the single best MacBook deal you'll find on Prime Day](https://www.imore.com/single-best-macbook-deal-youll-find-prime-day)
+
+
+> If you have been holding out on upgrading your old MacBook, now may be your best time to jump in with Prime Day in full swing. There are plenty of fantastic Prime Day MacBook deals to be had this year — up to $199 off the latest and greatest M1 Macs and up to a whopping $349 off of the previous generation Intel MacBook Pros. While it doesn't quite reach the higher amount savings that you see with other models, the MacBook Air with M1 is the single best MacBook deal that you'll find on Prime Day. With the M1 chip, the sleek, thin, light design, and lengthy battery life, the base MacBook Air is a tremendous value at $899.
+
+
+***
+[Coveted Kindle e-reader now lowest price ever](https://www.news.com.au/best-of/electronics/gadgets/amazon-prime-day-kindle-deals/news-story/f9a541a7c9cc0a3570fa39e6c50c2454)
+
+
+> Whether you've always been curious about trying an eReader or have been patiently waiting for a great eReader deal to pop up, now's your chance.
+
+
+***
+![Perth shivers through coldest morning in two years, with more icy weather on way](https://images.perthnow.com.au/publication/C-3186746/6e75cc072780488d4197d4f0dd550dca0bca915f-16x9-x0y0w2048h1152.jpg?imwidth=1200 "Perth shivers through coldest morning in two years, with more icy weather on way")
+
+
+[Perth shivers through coldest morning in two years, with more icy weather on way](https://www.news.com.au/technology/environment/climate-change/perth-shivers-through-coldest-morning-in-two-years-with-more-icy-weather-on-way/news-story/a11d8c57bf5115531443073a672c441c)
+
+
+> Perth has shivered through its coldest morning in two years and the Bureau of Meteorology warns more cold weather is coming this week.Residents in Jandakot endured a very cold 0.2C, while the Perth station recorded 1.9C.The last time Perth had a colder temperature was May 19, 2019 when it reached just 1.6C.Perth's record-low for the month is -0.7C, recorded June 17, 2006.Forecaster Noel Puzey told NCA NewsWire that clear skies, light winds and the winter solstice had combined to bring temperatures down.
+
+
+***
+![Top 5 Offshore Software Development Companies in Vietnam](http://www.businesswire.com/images/bwlogo_square.png "Top 5 Offshore Software Development Companies in Vietnam")
+
+
+[Top 5 Offshore Software Development Companies in Vietnam](https://www.businesswire.com/news/home/20210621005855/en/Top-5-Offshore-Software-Development-Companies-in-Vietnam---Selected-by-The-Vietnam-Software-Industry-Insights)
+
+
+> June 21, 2021 11:45 PM Eastern Daylight Time HO CHI MINH CITY, Vietnam--(BUSINESS WIRE)--Vietnam Software Development Industry Insights has helped more than 800 startups and enterprises find the right software development outsourcing companies in Vietnam. This article is about Top 5 Offshore Software Development Companies in Vietnam certified by Techtimes.com, The Vietnam Software Association. The ICT (Information and Communication Technology) sector is one of the fastest-growing industries in Vietnam.
+
+
