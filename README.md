@@ -28960,3 +28960,50 @@
 > Professionals, amateurs, and everybody in between can just pick up their iPhone and start recording video. But if you really want to step things up a notch, you might want to consider grabbing one of the best phone gimbals like the DJI OM 4. DJI is becoming one of the best companies for photographers and videographers with a wide array of excellent accessories, and the OM 4 is just one example. But if you've been waiting for a great sale to knock off a few bucks, now's your chance as you can save 20% on DJI's OM 4 thanks to Prime Day.
 
 
+***
+![Native Americans decry unmarked graves, untold history of boarding schools](https://static.reuters.com/resources/r/?m=02&d=20210622&t=2&i=1566545015&r=LYNXNPEH5L0F8&w=800 "Native Americans decry unmarked graves, untold history of boarding schools")
+
+
+[Native Americans decry unmarked graves, untold history of boarding schools](https://www.reuters.com/article/us-usa-nativeamericans-schools-idUSKCN2DY0XN)
+
+
+> (Reuters) - Clarence Smith was fresh off a 24-hour bus trip from his Blackfeet reservation in Montana to the Flandreau Indian School in South Dakota in the late 1980s, where he was sent by his family in the hope he would receive a better education.Clarence Smith, who attended both Chemawa Indian School in Oregon and the Flandreau Indian School in South Dakota, poses for a portrait at his home in Thornton, Colorado, U.S., June 18, 2021. REUTERS/Kevin Mohatt'On one of the first days of class, a white social studies teacher stood before our class and told us that we were lucky Columbus had found us, because otherwise we would still be living in teepees,' Smith said.
+
+
+***
+[I need a genuine advice](https://www.reddit.com/r/Python/comments/o5jh46/i_need_a_genuine_advice/)
+
+
+> I want a genuine advice from an experienced person. So I have covered the basics in python along with some intermediate topics as well like Object-orient programming, building a game using pygame, and other small stuff. However, I wanna jump onto game development, or building web-pages, but I feel like I should first at least complete the intermediate topics of python too along with data structures. So should I just jump onto the new stuff I wanna do like in game and web development or should I
+
+
+***
+![TSMC will reportedly favor Apple and carmakers amid semiconductor shortages](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/05/tsmc-2.jpg "TSMC will reportedly favor Apple and carmakers amid semiconductor shortages")
+
+
+[TSMC will reportedly favor Apple and carmakers amid semiconductor shortages](https://www.imore.com/tsmc-will-reportedly-favor-apple-and-carmakers-semiconductor-shortages-continue)
+
+
+> Source: Taiwan Semiconductor Manufacturing Co., Ltd. Apple and carmakers are set to be at the front of the queue for chips made by TSMC, according to a new report. This as a global semiconductor shortage continues to hamper the production of chips. According to a new DigiTimes report, TSMC has decided that it will prioritize Apple and carmakers ahead of those who make PCs, servers, and networking devices. TSMC will give supply priorities to orders for automotive ICs and those placed by Apple in the third quarter of 2021, followed by chip orders for PCs, servers and networking devices, according to sources at fabless chipmakers.
+
+
+***
+![Put down your pencils, these graphics tablet deals will blow your mind](https://cdn.mos.cms.futurecdn.net/JADH8Rq3esJfZHXzWTZsp7-1200-80.jpg "Put down your pencils, these graphics tablet deals will blow your mind")
+
+
+[Put down your pencils, these graphics tablet deals will blow your mind](https://www.techradar.com/news/put-down-your-pencils-these-graphics-tablet-deals-will-blow-your-mind)
+
+
+> (Image credit: Future) Now that Amazon Prime Day is in full swing, you might have been looking around at various art supplies to refill your kit for the coming months. While traditional mediums are still important, this year has a plethora of amazing deals on graphics drawing tablets that could change the way you breathe life into your designs. Graphics tablets are designed either with or without a display built-in, and those with screens have historically been a very expensive purchase, enough so to deter few artists from jumping into the world of digital art.
+
+
+***
+![This adorable Echo Show 5 Kids deal bundles a year of Amazon Kids+ for $90](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/amazon-echo-show-5-kids-bedtime-stories.jpg "This adorable Echo Show 5 Kids deal bundles a year of Amazon Kids+ for $90")
+
+
+[This adorable Echo Show 5 Kids deal bundles a year of Amazon Kids+ for $90](https://www.androidcentral.com/echo-show-5-kids-prime-day-deal-saves-you-cash-and-your-kid-happy)
+
+
+> Prime Day is the absolute best time to pick up some of the best Amazon device deals. Towards the top of that list are the awesome Alexa speakers, and that includes the new Echo Show 5 Kids. Amazon announced the Echo Show product for kids a little over a month ago, and thanks to Prime Day, you are already getting to save some cash on it. The Echo Show 5 Kids is more than just a cool-looking smart speaker. It also comes with a year of Amazon's Kids+ to provide parental controls, tons of kids' content, and so much more.
+
+
