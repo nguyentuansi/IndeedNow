@@ -29104,3 +29104,50 @@
 > June 22, 2021 10:00 AM Eastern Daylight Time TAMPA, Fla.--(BUSINESS WIRE)--mIQrotech today announced the close of an oversubscribed Series A financing round that exceeded its fundraising target of $6 million by nearly double. This investment will enable mIQrotech to scale up product development to meet its rapidly increasing market demand. The company is quickly disrupting the oil and gas industry by innovating pipeline optimization and preventing pipeline leaks. With additional support as a Chevron Technology Ventures Catalyst Program Participant, mIQrotech is quickly approaching unicorn status.
 
 
+***
+[The 15-Minute Project](https://www.reddit.com/r/programming/comments/o5qsf4/the_15minute_project/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Tablets and Chromebooks Expected to See Continued Growth in 2021 While the Long-Term Outlook Presents Challenges, According to IDC](http://www.businesswire.com/images/bwlogo_square.png "Tablets and Chromebooks Expected to See Continued Growth in 2021 While the Long-Term Outlook Presents Challenges, According to IDC")
+
+
+[Tablets and Chromebooks Expected to See Continued Growth in 2021 While the Long-Term Outlook Presents Challenges, According to IDC](https://www.businesswire.com/news/home/20210622005918/en/Tablets-and-Chromebooks-Expected-to-See-Continued-Growth-in-2021-While-the-Long-Term-Outlook-Presents-Challenges-According-to-IDC)
+
+
+> June 22, 2021 12:11 PM Eastern Daylight Time NEEDHAM, Mass.--(BUSINESS WIRE)--The COVID-19 pandemic had a positive impact on the tablet market in 2020 as consumers, businesses, and schools sought tablets to stay connected, entertained, or productive. According to a new forecast from the International Data Corporation (IDC) Worldwide Quarterly Personal Computing Device Tracker, shipments of tablets are expected to grow 1.8% in 2021 following the stellar double-digit growth in 2020. Global tablet volume is expected to reach 166.
+
+
+***
+![Cardiac Insight Announces 4th Generation of Its Cardea SOLO™ ECG Monitoring System](https://mms.businesswire.com/media/20210622005917/en/886892/23/Cardiac_Insight_logo_4cPNG.jpg "Cardiac Insight Announces 4th Generation of Its Cardea SOLO™ ECG Monitoring System")
+
+
+[Cardiac Insight Announces 4th Generation of Its Cardea SOLO™ ECG Monitoring System](https://www.businesswire.com/news/home/20210622005917/en/Cardiac-Insight-Announces-4th-Generation-of-Its-Cardea-SOLO%E2%84%A2-ECG-Monitoring-System)
+
+
+> BELLEVUE, Wash.--(BUSINESS WIRE)--Cardiac Insight, Inc. ('Cardiac Insight' or the 'Company') is a healthcare innovator specializing in wearable cardiac sensors and proprietary software that automatically analyzes electrocardiogram (ECG) data to improve early detection and diagnosis of cardiac arrythmias, such as atrial fibrillation (AFib). The Company announces continued innovation with new software advancements for its Cardea SOLO™ ECG System ('Cardea SOLO'). The Cardea SOLO, with its proven arrythmia analysis technology, includes enhancements to the comprehensive report generation and clinical editing tools for the full disclosure data, creating efficiencies and reduced processing time for clinicians.
+
+
+***
+![Windows 11 could bring back desktop widgets in a big way – eventually](https://cdn.mos.cms.futurecdn.net/nAKw3r67BQwF2opdscYxed-1200-80.jpg "Windows 11 could bring back desktop widgets in a big way – eventually")
+
+
+[Windows 11 could bring back desktop widgets in a big way – eventually](https://www.techradar.com/news/windows-11-could-bring-back-desktop-widgets-in-a-big-way-eventually)
+
+
+> (Image credit: Microsoft) Windows 11 is apparently set to come with integrated widgets – like the ‘News and interests' one that's already in Windows 10 (see the pic above) – but only from Microsoft initially, although the rumor mill reckons that a whole range of third-party widgets could become available down the line.As Neowin spotted, this rumor surfaced on Twitter courtesy of WalkingCat, a well-known and generally reliable Microsoft leaker.Amazon Prime Day deals: see all the best offers right now!So, the theory is that third-party widget support will arrive at a later date, with Microsoft effectively bringing back what we had in Windows Vista – desktop gadgets – after doing away with Live Tiles in Windows 11 (which were the effective replacement for gadgets/widgets).
+
+
+***
+![There's no RTX 3070 in stock for Amazon Prime Day, but Newegg has Nvidia GPUs](https://cdn.mos.cms.futurecdn.net/7eVSzKgnakqrCUyznuoFGa-1200-80.jpg "There's no RTX 3070 in stock for Amazon Prime Day, but Newegg has Nvidia GPUs")
+
+
+[There's no RTX 3070 in stock for Amazon Prime Day, but Newegg has Nvidia GPUs](https://www.techradar.com/news/theres-no-rtx-3070-in-stock-for-amazon-prime-day-but-newegg-has-nvidia-gpus)
+
+
+> (Image credit: Future) The RTX 3070 is in stock as part of the Newegg Shuffle, meaning you can buy the Nvidia GPU from the online components store – if you're lucky enough to win the raffle. Also available are the RTX 3080 Ti, RTX 3070, RTX 3090 and RTX 3060, along with a PS5 restock (PS5 Digital bundle) and Xbox Series X and Series S bundles.Our GPU restock Twitter tracker Matt Swider sends out alerts when RTX graphics cards are back in stock. Lately, there have been few opportunities to buy a GPU.
+
+
