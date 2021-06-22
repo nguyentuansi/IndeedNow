@@ -29007,3 +29007,50 @@
 > Prime Day is the absolute best time to pick up some of the best Amazon device deals. Towards the top of that list are the awesome Alexa speakers, and that includes the new Echo Show 5 Kids. Amazon announced the Echo Show product for kids a little over a month ago, and thanks to Prime Day, you are already getting to save some cash on it. The Echo Show 5 Kids is more than just a cool-looking smart speaker. It also comes with a year of Amazon's Kids+ to provide parental controls, tons of kids' content, and so much more.
 
 
+***
+[Canadian lawmakers pass a controversial bill that would subject tech giants to the same requirements as traditional broadcasters; bill now heads to the Senate (Kait Bolongaro/Bloomberg)](http://www.techmeme.com/210622/p15#a210622p15)
+
+
+> Kait Bolongaro / Bloomberg: Canadian lawmakers pass a controversial bill that would subject tech giants to the same requirements as traditional broadcasters; bill now heads to the Senate — - Move would prioritize Canadian content, echoing broadcast law — But critics say it threatens free speech on user-driven sites
+
+
+***
+![The Samsung Galaxy Buds Plus Are Just $85 – Today Only](https://www.androidheadlines.com/wp-content/uploads/2020/02/Samsung-Galaxy-Buds-plus-AM-AH-1.jpg "The Samsung Galaxy Buds Plus Are Just $85 – Today Only")
+
+
+[The Samsung Galaxy Buds Plus Are Just $85 – Today Only](https://www.androidheadlines.com/buy-samsung-galaxy-buds-plus-sale)
+
+
+> Today, you can pick up the Samsung Galaxy Buds+ for just $84.99 over at Amazon for Prime Day. That's good enough for the lowest price ever on the Galaxy Buds+, for a new pair. Even cheaper than refurbished models of the Galaxy Buds+ have been.This deal is good throughout Prime Day and will end at 11:59PM on June 22, so you'd better grab it while it lasts.Galaxy Buds+ are the perfect fitting earbuds to isolate you from distracting noises, so you can stay focused on what you want. And if you'd like to filter in some of the outside world to be more in-tune with your surroundings, you can switch on Ambient Aware 2.
+
+
+***
+![Bitcoin price – live: Crypto crash stalls as Elon Musk hails ‘important improvement' for dogecoin](https://static.independent.co.uk/2021/06/21/08/bitcoin%20price%20crash%20live%202021.jpg?width=1200&auto=webp&quality=75 "Bitcoin price – live: Crypto crash stalls as Elon Musk hails ‘important improvement' for dogecoin")
+
+
+[Bitcoin price – live: Crypto crash stalls as Elon Musk hails ‘important improvement' for dogecoin](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-crash-live-ethereum-latest-b1869619.html)
+
+
+> The price of bitcoin crashed once again over the weekend, leading a market-wide nosedive that showed no signs of slowing down at the start of the week.Nearly $200 billion was wiped from the cryptocurrency market since Sunday, adding to a further $200bn in losses over the last seven days. Bitcoin was back below $33,000 at the start of the week for the first time since early June, though it still remains way up when looking at the year-on-year charts for 2021.The latest drop has led to fears that more losses could be on the way, as a pattern known as the 'death cross' has been reached.
+
+
+***
+![1 in 4 mobiles were purchased online in 2020: Counterpoint](https://images.indianexpress.com/2021/05/Mobile-2.jpg "1 in 4 mobiles were purchased online in 2020: Counterpoint")
+
+
+[1 in 4 mobiles were purchased online in 2020: Counterpoint](https://indianexpress.com/article/technology/techook/study-reveals-1-in-4-mobiles-were-purchased-online-in-2020-7370623/)
+
+
+> Online sales accounted for about 26% share of the global mobile phone market in 2020, according to a report by Counterpoint Research. The recently published Global Online Smartphone Market Growth and Trends report signifies that around one in four mobile phones sold were purchased online last year. The report cites Covid-19 for playing a major role in this change in consumer behavior. India is said to have accounted for the highest online share at 45%, followed by the UK at 39% and China at 34%. The share of online sales of mobiles is said to have increased by around 6% points in 2020 compared to the previous year.
+
+
+***
+![Sooo… what is the correct way to restore an M1 Mac?](https://images.macrumors.com/social/?t=2301857&v=6 "Sooo… what is the correct way to restore an M1 Mac?")
+
+
+[Sooo… what is the correct way to restore an M1 Mac?](https://forums.macrumors.com/threads/sooo-what-is-the-correct-way-to-restore-an-m1-mac.2301857/)
+
+
+> Right, so I have got the M1 MBP, and I have found online various different ways of restoring it to factory settings, for when selling, giving away, returning etc… I have seen the usual Disk Utility… Erase… then reinstall MacOS. I have seen the terminal ‘passwordreset' version. I have also seen the Erase Mac option floating around the internet aswell… so what is the correct step by step of restoring an M1 Mac back to factory settings and one that works with no error messages or anything…???
+
+
