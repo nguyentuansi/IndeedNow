@@ -28719,3 +28719,53 @@
 > Hacker News new | past | comments | ask | show | jobs | submit login Ask HN: A good Linux laptop below 1000€ 6 points by csunbird 16 minutes ago | hide | past | favorite | discuss Hello HN,I have recently got rid of my Macbook pro and I am looking for a replacement. I thought, HN is the best place to ask, as there are many people here use linux laptops as their daily drivers.I am looking for a good linux laptop for development purposes, with proper support from the manufacturer (e.g. officially supported).
 
 
+***
+![Clubhouse is building a DM text chat feature – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1231467577.jpg?w=600 "Clubhouse is building a DM text chat feature – TechCrunch")
+
+
+[Clubhouse is building a DM text chat feature – TechCrunch](https://techcrunch.com/2021/06/21/clubhouse-dms-text-chat/)
+
+
+> Some Clubhouse users were treated to a surprise feature in their favorite app, but it wasn't long for this world. A new UI element called 'backchannel' popped up briefly before disappearing late last week, pointing the Clubhouse faithful to a new area of the app and generating plenty of chatter among users ready for more ways to connect. Wow looks like accidental update of @clubhouse enabled in app backchannel & switch of side bar & full experience. Seems it's rolled back now but from what I saw it was beautiful!! On stage > move to hallway > hit arrow > back channel popped up! @jowyang @GaryLHenderson pic.
+
+
+***
+![The best cell phone deals to shop for Amazon Prime Day 2021](https://www.gannett-cdn.com/presto/2021/06/21/USAT/cf29e830-97a9-482d-84c7-5607918c07ff-Smartphone_Roundup_Hero.png?crop=3187,1793,x6,y0&width=1600&height=800&format=pjpg&auto=webp "The best cell phone deals to shop for Amazon Prime Day 2021")
+
+
+[The best cell phone deals to shop for Amazon Prime Day 2021](https://www.usatoday.com/story/tech/reviewed/2021/06/21/amazon-prime-day-2021-best-cell-phone-deals-shop-now/7710909002/)
+
+
+> Prime Day 2021: Smartphones from Samsung, OnePlus, Motorola and more (Photo: Aubree Brabham / Reviewed)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Prime Day is usually a great time to upgrade your phone, and this year is no different. Whether you're looking for a basic phone for the occasional text or the latest phone for gaming on your commute, we've got you covered. While some carriers are holding special deals and financing when you trade in your old phone or activate a new line, we're showcasing the hottest deals among unlocked phones so you can have the freedom to choose your carrier.
+
+
+***
+![Interview: The iconic Paul Hogan on Crocodile Dundee and his new film and Crocodile Dundee actor dies from COVID-19](https://https://www.thearkatech.com/img/news_img/all/13595_0_1200.pic "Interview: The iconic Paul Hogan on Crocodile Dundee and his new film and Crocodile Dundee actor dies from COVID-19")
+
+
+[Interview: The iconic Paul Hogan on Crocodile Dundee and his new film and Crocodile Dundee actor dies from COVID-19](https://www.thearkatech.com/en/71057/)
+
+
+> © Instagram / crocodile dundee By: Olivia Anderson2021-06-22 03:15:19 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Black Fathers Matter March: Honoring and Uplifting Black Fathers in Our Community. Ari Aster Nabs Patti LuPone, Nathan Lane, and Amy Ryan for Disappointment Blvd. WWE Superstar Roman Reigns Has Hilariously Bold Response To The Rock And John Cena Rumors. Detailed Site Assessment (DSA) : Baki district (March 2021). EURO 2020 review: North Macedonia. Mixed feelings about new traffic lights near shopping plaza on Schillinger Road.
+
+
+***
+![Ed Sheeran channels Heath Ledger's Joker as he teases new Bad Habits video and Heath Ledger Nearly Broke Jake Gyllenhaal's Nose While Filming 'Brokeback Mountain'](https://https://www.thearkatech.com/img/news_img/all/15142_14_1200.pic "Ed Sheeran channels Heath Ledger's Joker as he teases new Bad Habits video and Heath Ledger Nearly Broke Jake Gyllenhaal's Nose While Filming 'Brokeback Mountain'")
+
+
+[Ed Sheeran channels Heath Ledger's Joker as he teases new Bad Habits video and Heath Ledger Nearly Broke Jake Gyllenhaal's Nose While Filming 'Brokeback Mountain'](https://www.thearkatech.com/en/71056/)
+
+
+> © Instagram / Heath Ledger By: Hannah Harris2021-06-22 03:14:11 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Heath Ledger Nearly Broke Jake Gyllenhaal's Nose While Filming 'Brokeback Mountain' and Ed Sheeran channels Heath Ledger's Joker as he teases new Bad Habits video Bubble baths, meltdowns and ranked ballots: New York City's weird mayoral election might be decided this week. Oregon's big wildfire bill seeing more pushback than Democrats initially expected. Traffic Hazard at South Fork Onramp and South Fork Offramp.
+
+
+***
+![Lady Antebellum's Charles Kelley Calls 'Crazy Love' a 'Little Love Letter' to His Wife, Cassie and Pope Urges Faithful to be Transformed by Christ's ‘Crazy Love' for All](https://https://www.thearkatech.com/img/news_img/all/13590_0_1200.pic "Lady Antebellum's Charles Kelley Calls 'Crazy Love' a 'Little Love Letter' to His Wife, Cassie and Pope Urges Faithful to be Transformed by Christ's ‘Crazy Love' for All")
+
+
+[Lady Antebellum's Charles Kelley Calls 'Crazy Love' a 'Little Love Letter' to His Wife, Cassie and Pope Urges Faithful to be Transformed by Christ's ‘Crazy Love' for All](https://www.thearkatech.com/en/71055/)
+
+
+> © Instagram / crazy love By: Isabella Smith2021-06-22 03:13:14 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Pope Urges Faithful to be Transformed by Christ's ‘Crazy Love' for All and Lady Antebellum's Charles Kelley Calls 'Crazy Love' a 'Little Love Letter' to His Wife, Cassie Lily Collins On Working With Beatty, Oldman, Roberts, Bullock, And Becoming 'Emily In Paris' – The Actor's Side. Kraigg Brathwaite: West Indies 'didn't show the fight' with brittle batting. Airline groups ask DOJ to help crack down on violent passengers.
+
+
