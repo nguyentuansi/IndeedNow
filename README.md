@@ -28769,3 +28769,53 @@
 > © Instagram / crazy love By: Isabella Smith2021-06-22 03:13:14 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Pope Urges Faithful to be Transformed by Christ's ‘Crazy Love' for All and Lady Antebellum's Charles Kelley Calls 'Crazy Love' a 'Little Love Letter' to His Wife, Cassie Lily Collins On Working With Beatty, Oldman, Roberts, Bullock, And Becoming 'Emily In Paris' – The Actor's Side. Kraigg Brathwaite: West Indies 'didn't show the fight' with brittle batting. Airline groups ask DOJ to help crack down on violent passengers.
 
 
+***
+![Price drops on stick vac ‘like a Dyson but cheaper'](https://cdn.newsapi.com.au/image/v1/919e0b04c425851aac5099ca57f0b710?width=1280 "Price drops on stick vac ‘like a Dyson but cheaper'")
+
+
+[Price drops on stick vac ‘like a Dyson but cheaper'](https://www.news.com.au/best-of/electronics/gadgets/amazon-prime-day-tech-deals/news-story/7ae78d596860d19ab0db9023c31ff0da)
+
+
+> Our recommendations are dedicated to helping you find the right product at the right price. We may receive revenue from affiliate and advertising partnerships for sharing this content and when you make a purchase. Learn moreMarking the event's fourth year in Australia, Amazon Prime Day is finally here to the delight of shoppers hungry for a bargain.The mega shopping event started at 12am AEST on Monday, 21 June with local deals running for 48 hours until 11:59pm AEST on Tuesday, 22 June.While you do need to be an Amazon Prime member to capitalise on the savings, Amazon Prime Day gives you access to thousands of offers including consumer electronics, pantry food and drink, toys, fashion, beauty and more.
+
+
+***
+![Your eyes will thank you for buying this discounted Kindle on Prime Day](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/10/kindle-fall-19-lifestyle.jpg "Your eyes will thank you for buying this discounted Kindle on Prime Day")
+
+
+[Your eyes will thank you for buying this discounted Kindle on Prime Day](https://www.androidcentral.com/restart-your-reading-habit-unmissable-kindle-prime-day-deal)
+
+
+> The best time to pick up a Kindle is during Prime Day; Amazon tends to roll out huge discounts to its own products during the two-day sales event, and that's no different in 2021. We've already rounded up the best Prime Day Amazon device deals and the best Kindle Prime Day deals, but I want to focus on the entry-level Kindle e-reader and why you should consider buying one. A Kindle is the ideal way to read books; the e-ink screen doesn't cause eye strain, the battery lasts for weeks, and it can hold thousands of books and even stream your Audible audiobooks.
+
+
+***
+![This is the single best Apple TV deal you'll find on Prime Day](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/04/apple-tv-siri-remote-hero.jpg "This is the single best Apple TV deal you'll find on Prime Day")
+
+
+[This is the single best Apple TV deal you'll find on Prime Day](https://www.imore.com/single-best-apple-tv-deal-youll-find-prime-day)
+
+
+> As much as we love Prime Day for the incredible deals on accessories for all of our tech devices, Amazon's big shopping day isn't always the greatest when it comes to some of Apple's hardware. The Apple TV, in particular, is notorious for holding its value — even when new models come out, so imagine our surprise when this year's sales brought us a true can't miss Prime Day Apple TV deal. Now available at a record-low price of just $99, you can score the previous-generation Apple TV 4K through Walmart.
+
+
+***
+![Tesla to hold AI Day in "about a month" for hiring, says Elon Musk](https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/18/full/1605681784-7704.jpg "Tesla to hold AI Day in "about a month" for hiring, says Elon Musk")
+
+
+[Tesla to hold AI Day in "about a month" for hiring, says Elon Musk](https://www.business-standard.com/article/technology/tesla-to-hold-ai-day-in-about-a-month-for-hiring-says-elon-musk-121062200048_1.html)
+
+
+> (Reuters) - Tesla Inc chief Elon Musk is considering holding an AI Day in about a month, where the Silicon Valley billionaire will showcase the progress in AI software and hardware with an aim to recruit. "Looking at holding Tesla AI Day in about a month or so. Will go over progress with Tesla AI software & hardware, both training & inference. Purpose is recruiting," Musk tweeted on Monday. His latest plan to promote Tesla's technology comes amid the hiccups faced in the company's path to achieve full self-driving technology.
+
+
+***
+![Tesla backs vision-only approach to autonomy using powerful supercomputer – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-22-at-12.57.01-pm.png?w=640 "Tesla backs vision-only approach to autonomy using powerful supercomputer – TechCrunch")
+
+
+[Tesla backs vision-only approach to autonomy using powerful supercomputer – TechCrunch](https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/)
+
+
+> Tesla CEO Elon Musk has been teasing a neural network training computer called ‘Dojo' since at least 2019. Musk says Dojo will be able to process vast amounts of video data to achieve vision-only autonomous driving. While Dojo itself is still in development, Tesla today revealed a new supercomputer that will serve as a development prototype version of what Dojo will ultimately offer.  At the 2021 Conference on Computer Vision and Pattern Recognition on Monday, Tesla's head of AI, Andrej Karpathy, revealed the company's new supercomputer that allows the automaker to ditch radar and lidar sensors on self-driving cars in favor of high-quality optical cameras.
+
+
