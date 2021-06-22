@@ -29054,3 +29054,53 @@
 > Right, so I have got the M1 MBP, and I have found online various different ways of restoring it to factory settings, for when selling, giving away, returning etc… I have seen the usual Disk Utility… Erase… then reinstall MacOS. I have seen the terminal ‘passwordreset' version. I have also seen the Erase Mac option floating around the internet aswell… so what is the correct step by step of restoring an M1 Mac back to factory settings and one that works with no error messages or anything…???
 
 
+***
+![Apple TV+ could be made to finance Canadian content if a new law passes](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/apple-tv-4k-review-5.jpg "Apple TV+ could be made to finance Canadian content if a new law passes")
+
+
+[Apple TV+ could be made to finance Canadian content if a new law passes](https://www.imore.com/apple-tv-netflix-etc-could-be-made-finance-canadian-content-if-new-law-passes)
+
+
+> Source: Stephen Warwick / iMore Apple TV+, Netflix, Disney+, and other streaming services could be forced to pump money into Canadian content as well as promote it on their services if a new law passes. According to Bloomberg, a controversial bill has already passed that seeks to regulate streaming services in the same way as local TV companies. If it becomes law, it will mean that international streaming services will have to play by Canadian rules and promote Canadian content. The legislation drafted by Justin Trudeau's government, known as Bill C-10, is meant to subject tech giants to the same requirements as traditional broadcasters -- effectively compelling companies like Netflix Inc.
+
+
+***
+![Prime Day tablet deals: should you buy an Android tablet or iPad in the sales?](https://cdn.mos.cms.futurecdn.net/bhFuEvwu9oevmVKtjvzeNL-1200-80.jpg "Prime Day tablet deals: should you buy an Android tablet or iPad in the sales?")
+
+
+[Prime Day tablet deals: should you buy an Android tablet or iPad in the sales?](https://www.techradar.com/news/prime-day-tablet-deals-should-you-buy-an-android-tablet-or-ipad-in-the-sales)
+
+
+> Prime Day deals are running right now, and we've seen a smattering of tablet deals that cover the broad slate market. By that we mean the three main groups are covered: iPads, Amazon Fire devices and Samsung Galaxy Tabs.If you're buying a new tablet, especially if you haven't owned one before, it can be hard to know which to buy. Do you go for an iPad, an iOS device, and get in on Apple's ecosystem? What about Amazon Fire tabs, tied to the company's suite of apps? Then there's Samsung Galaxy Tabs, pure Android slates that work as close iPad rivals.
+
+
+***
+![Delaware Innovation Space™ Expands Investment Program to Support Startups in Its Science Inc.™ Accelerator](https://mms.businesswire.com/media/20210622005346/en/886601/23/Science_Inc_Dark_Logo.jpg "Delaware Innovation Space™ Expands Investment Program to Support Startups in Its Science Inc.™ Accelerator")
+
+
+[Delaware Innovation Space™ Expands Investment Program to Support Startups in Its Science Inc.™ Accelerator](https://www.businesswire.com/news/home/20210622005346/en/Delaware-Innovation-Space%E2%84%A2-Expands-Investment-Program-to-Support-Startups-in-Its-Science-Inc.%E2%84%A2-Accelerator)
+
+
+> WILMINGTON, Del.--(BUSINESS WIRE)--The Innovation Space™ announced today that it is offering an investment option to companies accepted into its Science Inc.™ Accelerator. All Science Inc.™ applicants are invited to apply for $50,000 in investment from The Innovation Space™ and its First Fund™ via a convertible note which will be distributed in two components: $25,000 in cash and $25,000 to support the startup's participation in the accelerator program. 'Today as we hold our Investor Demo Day for our Spring cohort, The Innovation Space™ is pleased to increase our commitment to science entrepreneurs and announce our plans to invest in select companies admitted into our Science Inc.
+
+
+***
+![Recuro Health Further Expands Digital Solution Platform: Acquires My Legacy Decision Support App, Integrates Genetic Profiles to Enhance Disease Management & Care Coordination](https://mms.businesswire.com/media/20210622005759/en/886647/23/recuro.jpg "Recuro Health Further Expands Digital Solution Platform: Acquires My Legacy Decision Support App, Integrates Genetic Profiles to Enhance Disease Management & Care Coordination")
+
+
+[Recuro Health Further Expands Digital Solution Platform: Acquires My Legacy Decision Support App, Integrates Genetic Profiles to Enhance Disease Management & Care Coordination](https://www.businesswire.com/news/home/20210622005759/en/Recuro-Health-Further-Expands-Digital-Solution-Platform-Acquires-My-Legacy-Decision-Support-App-Integrates-Genetic-Profiles-to-Enhance-Disease-Management-Care-Coordination)
+
+
+> June 22, 2021 10:00 AM Eastern Daylight Time DALLAS--(BUSINESS WIRE)--Recuro Health (Recuro), an integrated digital health solution that evolves healthcare from a reactive, disease-focused model to a personalized, proactive system, announces the acquisition of MyLegacy, a risk stratification tool and clinical decision support application which uses proprietary algorithms based on practice guidelines developed by the Cleveland Clinic Genomic Medicine Institute. This acquisition further increases the scope and capabilities of Recuro's digital health platform, pairing automated genetic data gathering with complex care planning to save time, make care more precise and streamline the full continuum of care.
+
+
+***
+![Award-Winning Technology Firm mIQrotech Oversubscribes Series A Funding Round](https://mms.businesswire.com/media/20210622005097/en/886416/23/MIQRO-2021-LOGO_PRIMARY-K.jpg "Award-Winning Technology Firm mIQrotech Oversubscribes Series A Funding Round")
+
+
+[Award-Winning Technology Firm mIQrotech Oversubscribes Series A Funding Round](https://www.businesswire.com/news/home/20210622005097/en/Award-Winning-Technology-Firm-mIQrotech-Oversubscribes-Series-A-Funding-Round)
+
+
+> June 22, 2021 10:00 AM Eastern Daylight Time TAMPA, Fla.--(BUSINESS WIRE)--mIQrotech today announced the close of an oversubscribed Series A financing round that exceeded its fundraising target of $6 million by nearly double. This investment will enable mIQrotech to scale up product development to meet its rapidly increasing market demand. The company is quickly disrupting the oil and gas industry by innovating pipeline optimization and preventing pipeline leaks. With additional support as a Chevron Technology Ventures Catalyst Program Participant, mIQrotech is quickly approaching unicorn status.
+
+
