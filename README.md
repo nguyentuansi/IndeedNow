@@ -28866,3 +28866,53 @@
 > June 21, 2021 11:45 PM Eastern Daylight Time HO CHI MINH CITY, Vietnam--(BUSINESS WIRE)--Vietnam Software Development Industry Insights has helped more than 800 startups and enterprises find the right software development outsourcing companies in Vietnam. This article is about Top 5 Offshore Software Development Companies in Vietnam certified by Techtimes.com, The Vietnam Software Association. The ICT (Information and Communication Technology) sector is one of the fastest-growing industries in Vietnam.
 
 
+***
+![Elliptic Labs Signs License Agreement with grow platform GmbH, a Bosch company](https://mms.businesswire.com/media/20210621005859/en/886758/23/ellipticlabs-logo-blue.jpg "Elliptic Labs Signs License Agreement with grow platform GmbH, a Bosch company")
+
+
+[Elliptic Labs Signs License Agreement with grow platform GmbH, a Bosch company](https://www.businesswire.com/news/home/20210621005859/en/Elliptic-Labs-Signs-License-Agreement-with-grow-platform-GmbH-a-Bosch-company)
+
+
+> June 22, 2021 02:00 AM Eastern Daylight Time OSLO, Norway--(BUSINESS WIRE)--Elliptic Labs (EuroNext Growth: ELABS.OL), a global AI software company and the world leader in Virtual Smart Sensors, is announcing a new contract with grow platform GmbH, a Bosch company. This contract will be for the use of Elliptic Labs' AI Virtual Smart Sensor Platform in grow's upcoming generation of spexor, a portable security assistant. Elliptic Labs' AI Virtual Smart Sensor Platform will employ spexor's on-device hardware sensors to make the product smarter while adding features like accurate presence detection for better security and safety.
+
+
+***
+![Naver drops out of bid to buy stake in eBay Korea](https://img.koreatimes.co.kr/upload/newsV2/images/202106/3f63f74355e14106be54ec599fe02083.jpg "Naver drops out of bid to buy stake in eBay Korea")
+
+
+[Naver drops out of bid to buy stake in eBay Korea](https://www.koreatimes.co.kr/www/tech/2021/06/129_310907.html)
+
+
+> ⓕ font-size Biz & Tech 2021-06-22 14:59 eBay Korea headquarters / YonhapNaver, South Korea's top internet portal operator, said Tuesday it has dropped out of the acquisition process for eBay Korea, leaving retail giant Shinsegae Group as the sole bidder for the South Korean unit of the U.S. e-commerce giant.Last week, a consortium led by Shinsegae, including Naver, had been reportedly chosen as the preferred bidder to take over eBay Korea for an amount in the mid-4 trillion-won ($4 billion) range, beating out local rival Lotte Shopping.
+
+
+***
+![This Apple Watch power bank is the weirdest deal I spotted on Prime Day](https://cdn.mos.cms.futurecdn.net/96VYPeYCsRyvgptESRGEWf-1200-80.jpg "This Apple Watch power bank is the weirdest deal I spotted on Prime Day")
+
+
+[This Apple Watch power bank is the weirdest deal I spotted on Prime Day](https://www.techradar.com/news/this-apple-watch-power-bank-is-the-weirdest-deal-i-spotted-on-prime-day)
+
+
+> (Image credit: iWALK) There are plenty of great Amazon Prime Day deals flowing, from Amazon Echos and OLED TVs to Garmin watches. Even the oddball Lego deals didn't prepare me for the weirdest deal I've seen yet: a power bank that looks like an angler fish but can recharge your Apple Watch.Let's be clear: the iWALK Portable Apple Watch Charger ordinarily looks normal, with a cylindrical build typical of pocket-size power banks. But the thumbnail, which has an Apple Watch wrapped around the product, makes the hanging watch band look like the gaping mouth of an abyssal fish with the Lightning charger looming out on a cord like a glowing orb, ready to mesmerize the ichthyoid's doomed prey.
+
+
+***
+![How Clean Energy Can Bail Out Indian States With The Biggest Power Debts](https://gumlet.assettype.com/bloombergquint%2F2021-06%2Fa969aa75-736e-4b98-848b-ddb7f21fccc4%2F231762930.jpg?rect=0%2C264%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true "How Clean Energy Can Bail Out Indian States With The Biggest Power Debts")
+
+
+[How Clean Energy Can Bail Out Indian States With The Biggest Power Debts](https://www.bloombergquint.com/technology/how-clean-energy-can-bail-out-indian-states-with-the-biggest-power-debts)
+
+
+> A. Selvan, who works as a contract driver in Chennai, gets a bimonthly electricity bill of around Rs 800. If it were not for the Tamil Nadu government's power subsidy for domestic consumers, he would have had to pay thrice that amount, around Rs 2,500.Tamil Nadu, like many states in India, supplies free or subsidised power to certain categories of consumers, primarily domestic and agricultural users. Gujarat, Haryana, Himachal Pradesh, Karnataka, Punjab and Uttar Pradesh are the other states that offer variable subsidies to different categories of users.
+
+
+***
+![Samsung Teases Launch of New Devices at MWC 2021 Event on June 28](https://i.gadgets360cdn.com/large/samsung_galaxy_mwc_2021_event_teaser_invite_image_1624339959689.jpg "Samsung Teases Launch of New Devices at MWC 2021 Event on June 28")
+
+
+[Samsung Teases Launch of New Devices at MWC 2021 Event on June 28](https://gadgets.ndtv.com/mobiles/news/samsung-mwc-2021-virtual-event-conference-june-28-galaxy-smartwatch-foldable-phone-tablet-launch-teaser-2469448)
+
+
+> Samsung is hosting a virtual event at this year's Mobile World Congress (MWC) on June 28. Although the exact details of what the South Korean giant would unveil at the forthcoming event are yet to be revealed, it has teased the announcement of its new devices. These could be Samsung's new smartwatch, foldable phone, and tablet, as per a teaser released by the company on the Web. Samsung normally holds its dedicated ‘Galaxy Unpacked' events to unveil its flagship devices. Nevertheless, we can expect the company to give us a glimpse of what we could see at its future ‘Unpacked' events this year.
+
+
