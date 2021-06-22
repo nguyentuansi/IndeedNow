@@ -28916,3 +28916,47 @@
 > Samsung is hosting a virtual event at this year's Mobile World Congress (MWC) on June 28. Although the exact details of what the South Korean giant would unveil at the forthcoming event are yet to be revealed, it has teased the announcement of its new devices. These could be Samsung's new smartwatch, foldable phone, and tablet, as per a teaser released by the company on the Web. Samsung normally holds its dedicated ‘Galaxy Unpacked' events to unveil its flagship devices. Nevertheless, we can expect the company to give us a glimpse of what we could see at its future ‘Unpacked' events this year.
 
 
+***
+[Tecno Phantom X with dual selfie camera and curved display surfaces in leaked renders](http://www.pinkvilla.com/tech/news/tecno-phantom-x-with-dual-selfie-camera-and-curved-display-surfaces-in-leaked-renders-784626)
+
+
+> Attach Main technology Image: Image Caption: Tecno Phantom X with dual selfie camera and curved display surfaces in leaked renders Social Media Image : Enter the Technology details: Tecno Phantom X is all set for tomorrow on June 23 in the global market and we have already witnessed a series of leaks and rumours about the smartphone in the last several weeks. In the latest development, the live shots of the Tecno Phantom X have surfaced on the web in full glory revealing the design and specifications of the upcoming Tecno phone.
+
+
+***
+[Mi 11 Lite, Revolve Active Watch: Expected Price & Specifications](https://www.thequint.com/tech-and-auto/gadgets/mi-11-lite-watch-revolve-active-expected-price-specifications)
+
+
+> Both the products will be available on the official Mi.com website.
+
+
+***
+![John Rogers Jr. and Robert Smith on Black banks and the digital economy](https://content.rollcall.com/wp-content/uploads/2021/06/side-by-side.jpg "John Rogers Jr. and Robert Smith on Black banks and the digital economy")
+
+
+[John Rogers Jr. and Robert Smith on Black banks and the digital economy](https://www.rollcall.com/podcasts/fintech-beat/john-rogers-jr-and-robert-smith-on-black-banks-and-the-digital-economy/)
+
+
+> John Rogers Jr. (left), the co-CEO of Ariel Investments, and Robert Smith (right) CEO of Vista Equity, join Fintech Beat to discuss whether or not Black and Brown banks can compete in a digital economy.CQ Roll Call is a part of FiscalNote, the leading technology innovator at the intersection of global business and government. Copyright 2021 CQ Roll Call. All rights reserved.
+
+
+***
+![Charge your iPhone, AirPods, and Apple Watch with this $20 charging pad](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/09/iphone-8-mophie-wireless-charger.jpg "Charge your iPhone, AirPods, and Apple Watch with this $20 charging pad")
+
+
+[Charge your iPhone, AirPods, and Apple Watch with this $20 charging pad](https://www.imore.com/wirelessly-charge-all-your-apple-devices-only-20-prime-day)
+
+
+> When you have multiple devices to charge, all the cables, cords, and power brick can quickly become an unruly mess. Not to mention all the outlets you clog up with your iPhone, AirPods, and Apple Watch that could be better used for other appliances or bigger tech that need all the juice. A charging station is a perfect solution, and this Prime Day Anker PowerWave+ 2-in-1charging station is only $20. Anker has long been an accessory manufacturer that I trust because its products are inexpensive and of good quality.
+
+
+***
+![Stabilize your iPhone videos with this smartphone gimbal Prime Day deal](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/dji-om-4-06.jpeg "Stabilize your iPhone videos with this smartphone gimbal Prime Day deal")
+
+
+[Stabilize your iPhone videos with this smartphone gimbal Prime Day deal](https://www.imore.com/save-20-and-stabilize-your-videos-prime-day-deal-dji-om-4)
+
+
+> Professionals, amateurs, and everybody in between can just pick up their iPhone and start recording video. But if you really want to step things up a notch, you might want to consider grabbing one of the best phone gimbals like the DJI OM 4. DJI is becoming one of the best companies for photographers and videographers with a wide array of excellent accessories, and the OM 4 is just one example. But if you've been waiting for a great sale to knock off a few bucks, now's your chance as you can save 20% on DJI's OM 4 thanks to Prime Day.
+
+
