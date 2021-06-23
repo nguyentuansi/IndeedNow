@@ -29439,3 +29439,47 @@
 > Realme C25s price has increased by Rs 500 in less than a month since the launch.The Realme C25s now starts at Rs 10,499, up from Rs 9,999.Realme C25s comes with a MediaTek Helio G85 processor.Realme C25s price has increased by Rs 500 in less than a month since its launch in India. The latest entry to the Realme C series brings a set of slightly improved specifications over the Realme C25, but it arrived for around the same price. The Realme C25s cost Rs 9,999 at the time of launch, the same as the regular Realme C25s.
 
 
+***
+[Primer raises $110M Series C for its natural language processing platform used by US national security agencies and others, says it's partnering with Palantir (Jane Lanhee Lee/Reuters)](http://www.techmeme.com/210623/p1#a210623p1)
+
+
+> Jane Lanhee Lee / Reuters: Primer raises $110M Series C for its natural language processing platform used by US national security agencies and others, says it's partnering with Palantir — OAKLAND, Calif. (Reuters) - Primer, a San Francisco-based startup that offers a natural language processing platform used …
+
+
+***
+![Volvo XC60 successor will be first EV to use batteries co-developed by Volvo and Northvolt- Technology News, Firstpost](https://images.firstpost.com/wp-content/uploads/2021/06/volvo_xc60_successor_to_be_all_electric_due_in_2026.jpg "Volvo XC60 successor will be first EV to use batteries co-developed by Volvo and Northvolt- Technology News, Firstpost")
+
+
+[Volvo XC60 successor will be first EV to use batteries co-developed by Volvo and Northvolt- Technology News, Firstpost](https://www.firstpost.com/tech/auto/volvo-xc60-successor-will-be-first-ev-to-use-batteries-co-developed-by-volvo-and-northvolt-9744381.html)
+
+
+> Agence France-PresseJun 23, 2021 11:24:14 ISTVolvo and Sweden's Northvolt have joined forces to build a new battery factory in Europe as the automaker aims to sell only fully electric cars by 2030, the companies announced. Swedish automaker Volvo and the battery start-up said that, through a joint venture, they will build a gigafactory with a potential capacity of 50 gigawatt hours (GWh) per year, with production expected to start in 2026. This would allow Volvo, which is owned by Chinese automaker Geely, to equip around 800,000 vehicles per year.
+
+
+***
+![3D technology can improve customer experience and boost online sales](https://mybigplunge.com/wp-content/uploads/2021/06/online-shopping-1000x600.jpg "3D technology can improve customer experience and boost online sales")
+
+
+[3D technology can improve customer experience and boost online sales](https://mybigplunge.com/tech-plunge/technology/3d-technology-can-improve-customer-experience-and-boost-online-sales/)
+
+
+> E-commerce companies are adopting 3D technology (three-dimensional visualization) to take their businesses to the next level. Three-dimensional visualization enables potential customers to see a product as it is in real life. More brands are implementing this technology to improve the online shopping experience. Steven Conine, co-founder and co-chairman of Wayfair, at the Jefferies Virtual Consumer Conference, said AR/VR can make a meaningful impact, over time, in terms of making it easier to shop for your home from your home.
+
+
+***
+[Fintech (Financial Technology) Market 2028: Ant Financial, Kabbage Inc., Avant LLC, Social Finance, Inc. (SoFi), Square, Inc., Nexi Payments SpA, etc.](https://minernews.io/main-news/345971/fintech-financial-technology-market-2028-ant-financial-kabbage-inc-avant-llc-social-finance-inc-sofi-square-inc-nexi-payments-spa-etc-2/)
+
+
+> Introduction & Scope:The report on global Fintech (Financial Technology) market offers information about the recent mergers, acquisitions, buyers, sellers, suppliers and retailers that exist as of now, along with offering a few highlights on the future possibility of acquisitions close by data on tremendous buyers and accomplice zones that primarily sway this business space. The record offers information about the pressing people that hold an essential industry share around the business space close by information that contains the immediate and long term events that may occur in this market place comparatively it shares data on the past happenings and events of the primary affiliations that fundamentally sway the business piece of ever nearby scene.
+
+
+***
+![Best Prime Day air fryer deals for 2021 still available today](https://icdn.digitaltrends.com/image/digitaltrends/prime-day-2020-air-fryer-deals.jpg "Best Prime Day air fryer deals for 2021 still available today")
+
+
+[Best Prime Day air fryer deals for 2021 still available today](https://www.digitaltrends.com/dtdeals/best-prime-day-air-fryer-deals-2021/)
+
+
+> With Prime Day coming to an end, many great deals will be gone tonight. Maybe you've been vacillating on a Prime Day air fryer deal, but if you don't go for it today you may not see the same low price until next summer. Inventories on the most popular air fryers could run out, and that applies to this year's full set of Prime Day deals. You'll find a lot of Prime Day air fryer deals. If you're looking to finally try what's arguably the most exciting kitchen gadget out there or to upgrade your existing air fryer, this could be the perfect time to treat yourself to a new one.
+
+
