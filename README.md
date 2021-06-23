@@ -29774,3 +29774,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Fintech Focus For June 24, 2021](https://www.benzinga.com/sites/all/themes/bz2/images/favicon-package/apple-touch-icon.png "Fintech Focus For June 24, 2021")
+
+
+[Fintech Focus For June 24, 2021](https://www.benzinga.com/markets/cryptocurrency/21/06/21695503/fintech-focus-for-june-24-2021)
+
+
+> Quote To Start The Day: 'Our enemies are innovative and resourceful, and so are we. They never stop thinking about new ways to harm our country and our people, and neither do we.' Source: President George W. Bush One Big Thing In Fintech: The COVID-19 pandemic accelerated acceptance of digital currencies like Bitcoin and the underlying blockchain technologies that power them. And while Bitcoin volatility continues — with the currency hitting its lowest point in months this week — investors are optimistic momentum will continue even as the world slowly starts to return to normal.
+
+
+***
+![T-Mobile's 5G Reaches 300 Million People 6 Months Ahead Of Schedule](https://www.androidheadlines.com/wp-content/uploads/2020/09/06-T-Mobile-Logo-REVVL-DG-AH-2020.jpg "T-Mobile's 5G Reaches 300 Million People 6 Months Ahead Of Schedule")
+
+
+[T-Mobile's 5G Reaches 300 Million People 6 Months Ahead Of Schedule](https://www.androidheadlines.com/2021/06/t-mobiles-5g-reaches-300-million-people-6-months-ahead-of-schedule.html)
+
+
+> The 5G race rages on as the three main US carriers, T-Mobile, AT&T, and Verizon, rush to cover the nation with their signal. In a recent announcement by the company, we now know that T-Mobile's 5G reaches 300 million people. What's also impressive is the fact that the carrier did it six months ahead of schedule.T-Mobile is way ahead of the pack when it comes to 5GThe three main signal carriers in the states are hard at work promoting their own flavor of 5G and stating that theirs is the best. When you compare apples to apples, however, you will find that T-Mobile is leaving both AT&T and Verizon in the dust.
+
+
+***
+![U. of Michigan Prof: Harvard Hosting Music Program Open Only to ' BIPOC Students' Violates Federal Law](https://media.breitbart.com/media/2019/01/wi/ap/30/a39116_university-endowments-88469-harvard-university-in-aug-30-2012-file-photo-e1552328874677.jpg "U. of Michigan Prof: Harvard Hosting Music Program Open Only to ' BIPOC Students' Violates Federal Law")
+
+
+[U. of Michigan Prof: Harvard Hosting Music Program Open Only to ' BIPOC Students' Violates Federal Law](https://www.breitbart.com/tech/2021/06/23/u-of-michigan-prof-harvard-hosting-music-program-open-only-to-bipoc-students-violates-federal-law/)
+
+
+> A professor at the University of Michigan-Flint says that Harvard University hosting a music program open to 'all BIPOC students' is a Title VI violation. University of Michigan-Flint professor Mark Perry filed a Title VI complaint on Tuesday with the U.S. Department of Education's Office for Civil Rights, over an upcoming program on Harvard's campus that will require applicants to disclose their race, according to a report by Campus Reform. The program, titled, 'No Label Academy at Harvard,' is a 'music business' course that will be hosted by rapper IDK, and will take place at Harvard in August.
+
+
+***
+![Why Credit Cards Could Be The Next Big Opportunity In B2B Payments](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/contributors_images_77.png "Why Credit Cards Could Be The Next Big Opportunity In B2B Payments")
+
+
+[Why Credit Cards Could Be The Next Big Opportunity In B2B Payments](https://www.benzinga.com/fintech/21/06/21676936/why-credit-cards-could-be-the-next-big-opportunity-in-b2b-payments)
+
+
+> By Rick Fletcher With the advent of widespread remote work, businesses have made impressive leaps in eliminating checks and adopting electronic supplier payments. These changes primarily translated to increasing the number of ACH or Direct Deposit payments made. According to Nacha—the governing body for the ACH network—business-to-business payments for supply chains, supplier payments, bills, and other transfers increased by almost 11% in 2020. But as organizations adopt electronic payment processes, there's another strategic opportunity for AP to consider: electronic credit card.
+
+
+***
+![John McAfee Found Dead in Spanish Prison Cell](https://media.breitbart.com/media/2018/08/john-mcafee-2.jpg "John McAfee Found Dead in Spanish Prison Cell")
+
+
+[John McAfee Found Dead in Spanish Prison Cell](https://www.breitbart.com/tech/2021/06/23/report-john-mcafee-found-dead-in-spanish-prison-cell/)
+
+
+> Antivirus software pioneer John McAfee, who sought the Libertarian Party nomination for President in 2016 and 2020, has been found dead in a prison cell in Spain, according to reports. The tech tycoon previously claimed that 'if I suicide myself, I didn't. I was whackd.' McAfee had been arrested by Spanish authorities at the request of the U.S. Department of Justice for alleged tax evasion. Spanish authorities had approved his extradition to the U.S. shortly before his death, which early reports in local newspapers are attributing to suicide.
+
+
