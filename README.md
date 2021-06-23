@@ -29677,3 +29677,53 @@
 > Bloomberg: Two South African brothers who founded crypto investment firm Africrypt vanished with ~69,000 coins, worth $3.6B+, after informing clients of an alleged hack — - Lawyers hired by investors piece together funds' disappearance — Africrypt loss would rank among biggest-ever crypto heists
 
 
+***
+![Swann 4K Thermal Sensing Security Camera Review: High-quality video at a price](https://icdn.digitaltrends.com/image/digitaltrends/swann_feature.jpg "Swann 4K Thermal Sensing Security Camera Review: High-quality video at a price")
+
+
+[Swann 4K Thermal Sensing Security Camera Review: High-quality video at a price](https://www.digitaltrends.com/smart-home-reviews/swann-4k-thermal-sensing-security-camera-review/)
+
+
+> 'It has outstanding monitoring, but the software and interface could use some tweaking.' Incredibly high resolution Clear audio gain Thermal sensing reduces false alarms Facial recognition gives you a better idea who is in your home Installation can be a bit complicated No siren Can't easily set up voice assistant support Home security cameras are the first line of defense in a security system, but many act as stand-alone systems. It takes only a few cameras to cover the front and back door of a home, but a more comprehensive security system requires more than just a couple of cameras.
+
+
+***
+![Elden Ring release date, trailers, news and pre-orders](https://cdn.mos.cms.futurecdn.net/Dn3SrrTeZNNq5x62Rn4bhc-1200-80.jpg "Elden Ring release date, trailers, news and pre-orders")
+
+
+[Elden Ring release date, trailers, news and pre-orders](https://www.techradar.com/news/elden-ring)
+
+
+> Elden Ring is coming and we finally know exactly when: January 21, 2022.After its reveal at E3 2019, we hadn't heard much about the game but fortunately that changed with the 2021 Summer Game Fest: Kickoff Live, where a full-length trailer and the coveted precise release date were revealed.Elden Ring is an open-world, third-person action RPG, from the studio behind the Dark Souls franchise, FromSoftware, in collaboration with Game of Thrones creator George R.R. Martin. The Summer Game Fest reveal gave us our best look yet at Elden Ring, revealing a bleak world of unsettling mythical monstrosities, dragons and epic combat.
+
+
+***
+![Luigi-Blueprint: create ETL flows without any code!](https://external-preview.redd.it/Tnuocyv05RapkhA98sZH1GRulsnu3GQxzLpGVgMq-70.jpg?auto=webp&s=5086d1cd07a2fa3025192111237dda484fd4e09f "Luigi-Blueprint: create ETL flows without any code!")
+
+
+[Luigi-Blueprint: create ETL flows without any code!](https://www.reddit.com/r/Python/comments/o6i63h/luigiblueprint_create_etl_flows_without_any_code/)
+
+
+> Greetings fellow pythonistas!Most organizations that do not start their reporting operations without first deploying an ETL solution often use a chain of shell scripts that extract the data, do some transformation and produce some aggregated data that is stored in a database for future processing or send as xlsx or csv. This works fine for simple operations that have one or two steps of data extraction and transformation but it gets complicated and error prone when it needs to scale, There are easy to use ETL solutions like Luigi but they require time to convert the scripts to python code and a lot of testing as well.
+
+
+***
+![Display Broken](https://images.macrumors.com/social/?t=2302031&v=6 "Display Broken")
+
+
+[Display Broken](https://forums.macrumors.com/threads/display-broken.2302031/)
+
+
+> Jun 23, 2021 1 0 Virginia Hey! I would appreciate some help. I have a 2017 15" MacBook Pro and dropped it such that the display isn't working. The pixels seem to work because I can see the desktop, but it looks like an old TV that is having vertical hold problems and then it goes dark after a few minutes but comes back after rebooting. I can use an external monitor, and I can access the main display from Chrome Remote Desktop. Does this sound like maybe a loose cable or does it probably need a replacement display board or screen or .
+
+
+***
+![Earth 300 is $700m ‘Noah's Ark' SUPERYACHT built to ‘ensure humanity's survival' – but only scientists are allowed on](https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/comp-ad-yacht.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Earth 300 is $700m ‘Noah's Ark' SUPERYACHT built to ‘ensure humanity's survival' – but only scientists are allowed on")
+
+
+[Earth 300 is $700m ‘Noah's Ark' SUPERYACHT built to ‘ensure humanity's survival' – but only scientists are allowed on](https://www.the-sun.com/lifestyle/tech/3143572/superyacht-noahs-ark-earth-300/)
+
+
+> A SUPERYACHT that aims to be the ‘Noah's Ark of science' is in the works. Plans for the Earth 300 vessel reveal it could hold 160 scientists from across the globe but access for regular members of the public hasn't been mentioned. The superyacht could cost around $700million (£500million) The mission is for the boat to enable scientists to ensure humanity survives. The Earth 300 website states: "We love life and want to ensure that humanity survives the future. "It's why we are representing tomorrow by setting aside berths for some of the world's most promising young students.
+
+
