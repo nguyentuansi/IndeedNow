@@ -29727,3 +29727,50 @@
 > A SUPERYACHT that aims to be the ‘Noah's Ark of science' is in the works. Plans for the Earth 300 vessel reveal it could hold 160 scientists from across the globe but access for regular members of the public hasn't been mentioned. The superyacht could cost around $700million (£500million) The mission is for the boat to enable scientists to ensure humanity survives. The Earth 300 website states: "We love life and want to ensure that humanity survives the future. "It's why we are representing tomorrow by setting aside berths for some of the world's most promising young students.
 
 
+***
+![PS5 stock LIVE – Argos restock PlayStation5 drop expected ‘NEXT week' and latest on Game, Amazon, Smyths and Currys](https://www.thesun.co.uk/wp-content/uploads/2021/06/amazon-4.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock LIVE – Argos restock PlayStation5 drop expected ‘NEXT week' and latest on Game, Amazon, Smyths and Currys")
+
+
+[PS5 stock LIVE – Argos restock PlayStation5 drop expected ‘NEXT week' and latest on Game, Amazon, Smyths and Currys](https://www.thesun.co.uk/tech/15370473/ps5-uk-argos-stock-console-game-smyths-amazon-latest/)
+
+
+> GAME ON 21:03, 23 Jun 2021Updated: 21:02, 23 Jun 2021ARGOS UK has been tipped to drop a massive new batch of Playstation5 consoles next week. It comes after the much-sought console dropped at GAME and Very's UK online stores on Monday and Tuesday. A huge Playstation 5 restock has long been predicted and it seems like we could finally see a proper supply of consoles on the shelves this month. The PS5 was released six months ago to critical acclaim but for millions of gamers it has proven almost impossible to get hold of.
+
+
+***
+[John McAfee has died by suspected suicide in a Spanish jail cell, hours after news that he would be extradited to face federal charges in the US (Reuters)](http://www.techmeme.com/210623/p45#a210623p45)
+
+
+> Reuters: John McAfee has died by suspected suicide in a Spanish jail cell, hours after news that he would be extradited to face federal charges in the US — Antivirus creator John McAfee, 75, was found dead in his prison cell in Barcelona after the Spanish high court had authorised his extradition to the U.S. …
+
+
+***
+![Infinix Note 10 & Hot 10s: Your style quotient just gets better with these mid-range handsets](https://images.financialexpress.com/2021/06/1-558.jpg "Infinix Note 10 & Hot 10s: Your style quotient just gets better with these mid-range handsets")
+
+
+[Infinix Note 10 & Hot 10s: Your style quotient just gets better with these mid-range handsets](https://www.financialexpress.com/industry/technology/infinix-note-10-hot-10s-your-style-quotient-just-gets-better-with-these-mid-range-handsets/2277173/)
+
+
+> Recently, we got our hands on two of its latest devices—Note 10 and Hot 10s. Let us check out some of their features and overall performance.Diminishing incomes, rising unemployment rates and job uncertainty on account of the pandemic have greatly influenced consumers' buying patterns when it comes to mobile phones. Consumers want a better value proposition from their phones; no wonder, the mid-range segment is where the real action lies. Infinix, a fast-growing brand from Hong Kong-based Transsion Holdings, has steadily carved a niche for itself in the mid-range segment with its well-rounded, well-priced devices.
+
+
+***
+![In this week's 'Loki,' two tricksters get stranded in a sci-fi apocalypse](https://www.gannett-cdn.com/presto/2021/06/23/USAT/d956eb5d-12e6-48ad-a440-8d4f9b7abc49-loki-sylvie-episode-3-1.png?crop=1911,1075,x8,y0&width=1600&height=800&fit=bounds "In this week's 'Loki,' two tricksters get stranded in a sci-fi apocalypse")
+
+
+[In this week's 'Loki,' two tricksters get stranded in a sci-fi apocalypse](https://www.usatoday.com/story/tech/reviewed/2021/06/23/loki-episode-three-recap-sylvie-and-laufeyson-journey-lamentis-1/5325819001/)
+
+
+> Tom Hiddleston stars alongside Sophia Di Martino in ‘Loki.' (Photo: Chuck Zlotnick / Marvel Studios)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Two Loki 'Variants'—and two alien planetoids—collide in this week's episode of the new live-action Marvel series. As we begin to learn more about the mysterious fugitive from the first two installments, new twists and turns (and existing Marvel Comics lore) continue to complicate matters.
+
+
+***
+![John McAfee found dead in Spanish jail after court says he can be extradited to U.S. for tax crimes, reports say](https://external-preview.redd.it/mJ5tCKJHdc_gvx0iNETUqaAsrTVkQv0aXWYZ1iRGcvI.jpg?auto=webp&s=960495b17e13831ea4bf66cb62769fa711a75b1c "John McAfee found dead in Spanish jail after court says he can be extradited to U.S. for tax crimes, reports say")
+
+
+[John McAfee found dead in Spanish jail after court says he can be extradited to U.S. for tax crimes, reports say](https://www.reddit.com/r/technology/comments/o6kj12/john_mcafee_found_dead_in_spanish_jail_after/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
