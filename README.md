@@ -29392,3 +29392,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Microchip Unifies Management of 'Terrestrial Time' and 'Live-Sky Time' Sources to Enable Resilient Timing for Critical Infrastructure](http://www.businesswire.com/images/bwlogo_square.png "Microchip Unifies Management of 'Terrestrial Time' and 'Live-Sky Time' Sources to Enable Resilient Timing for Critical Infrastructure")
+
+
+[Microchip Unifies Management of 'Terrestrial Time' and 'Live-Sky Time' Sources to Enable Resilient Timing for Critical Infrastructure](https://www.businesswire.com/news/home/20210622005032/en/Microchip-Unifies-Management-of-%E2%80%9CTerrestrial-Time%E2%80%9D-and-%E2%80%9CLive-Sky-Time%E2%80%9D-Sources-to-Enable-Resilient-Timing-for-Critical-Infrastructure)
+
+
+> CHANDLER, Ariz--(BUSINESS WIRE)--Today's 5G wireless infrastructure has more complex, higher-density synchronization needs than previous-generation networks and is highly dependent on the integrity of 'live-sky' timing signals from the Global Navigation Satellite System (GNSS). Microchip Technology Inc. (Nasdaq: MCHP) today announced it has integrated its BlueSky GNSS Firewall with its TimePictra 11 synchronization monitoring and management platform to protect 5G networks and other critical timing infrastructure from Global Positioning System (GPS) signal jamming and spoofing while providing single-console visibility across the entire timing architecture.
+
+
+***
+![Tech leads tentative rally as Powell soothes markets](https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-06/23/2021-06-23T025343Z_1_LYNXNPEH5M03N_RTROPTP_3_GLOBAL-MARKETS-JAPAN.JPG "Tech leads tentative rally as Powell soothes markets")
+
+
+[Tech leads tentative rally as Powell soothes markets](https://kfgo.com/2021/06/22/tech-leads-tentative-rally-as-powell-soothes-markets/)
+
+
+> By Tom WestbrookSINGAPORE (Reuters) – Stocks found a footing and swinging bond markets calmed down on Wednesday, with testimony from U.S. Federal Reserve chair Jerome Powell providing investors with reassurance that the central bank has an eye on inflation but is not hastening to hike rates.The rates-sensitive Nasdaq index closed at a record high on Tuesday, while tech stocks were bid in Asia – notably in Taiwan where chipmakers helped the benchmark index rise 1%. MSCI's broadest index of Asia-Pacific shares outside Japan rose 0.
+
+
+***
+[SEMI：2021 年底前全球啟動 19 座晶圓廠興建，台灣領先其他地區](https://technews.tw/2021/06/23/start-the-construction-of-19-fabs-globally-by-the-end-of-2021/)
+
+
+> SEMI （國際半導體產業協會） 於 23 日發表最新一季 「全球晶圓廠預測報告（World Fab Fore […]
+
+
+***
+![Qingping's new HomeKit air quality sensor is already on sale for Prime Day](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/qingping-air-monitor-lite-lifestyle-1.jpg "Qingping's new HomeKit air quality sensor is already on sale for Prime Day")
+
+
+[Qingping's new HomeKit air quality sensor is already on sale for Prime Day](https://www.imore.com/qingping-just-dropped-new-homekit-air-quality-sensor-and-its-already-sale-prime-day)
+
+
+> Source: Qingping Qingping has released a new HomeKit-enabled air quality sensor. The Qingping Air Monitor Lite tracks five air quality metrics. New sensor is available now on Amazon with special Prime Day pricing. Qingping, the vendor behind one of our picks for the best HomeKit temperature sensors, has announced the release of a new air quality sensor. The Qingping Air Monitor Lite, which is available now through Amazon, measures five different air quality metrics and makes them available via an on-device display and HomeKit.
+
+
+***
+![Realme C25s price in India hiked by Rs 500, should you still buy it](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/realme_C25s_0-647x363.jpeg?W3v4UcM3m0wCkA_qifi6Sm2gwbrmFbph "Realme C25s price in India hiked by Rs 500, should you still buy it")
+
+
+[Realme C25s price in India hiked by Rs 500, should you still buy it](https://www.indiatoday.in/technology/news/story/realme-c25s-price-in-india-hiked-by-rs-500-should-you-still-buy-it-1818245-2021-06-23)
+
+
+> Realme C25s price has increased by Rs 500 in less than a month since the launch.The Realme C25s now starts at Rs 10,499, up from Rs 9,999.Realme C25s comes with a MediaTek Helio G85 processor.Realme C25s price has increased by Rs 500 in less than a month since its launch in India. The latest entry to the Realme C series brings a set of slightly improved specifications over the Realme C25, but it arrived for around the same price. The Realme C25s cost Rs 9,999 at the time of launch, the same as the regular Realme C25s.
+
+
