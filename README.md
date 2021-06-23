@@ -29533,3 +29533,50 @@
 > Lenovo announced a slew of new accessories to help keep you productive and multitasking while on the go, including a wireless charging mat for Lenovo laptops. Designed for remote workers who may be headed back to the office this fall, the new Lenovo Go-branded line of accessories encompasses portable power devices, wireless input devices, noise canceling headphones, and speakerphones. But even if you're not a business executive, one of the most interesting accessories for laptop owners is the Lenovo Go USB-C Wireless Charging Kit, which promises to wirelessly charge a 13- or 14-inch laptop, like the company's latest ThinkPad X1.
 
 
+***
+[Samsung Galaxy Tab S7 FE, Tab A7 Lite sale in India BEGINS! Check price, bank OFFERS, features and specs](https://www.zeebiz.com/technology/news-samsung-galaxy-tab-s7-fe-tab-a7-lite-sale-in-india-begins-check-price-bank-offers-features-and-specs-159202)
+
+
+> The South Korean tech giant Samsung announced the sale of the newly-launched tablets - Galaxy Tab S7 FE and Tab A7 Lite for the first time in India today. These new exciting tablets will be available on Samsung.com, Samsung Exclusive Stores, leading online portals and retail stores.
+
+
+***
+![Best HP laptops 2021: the top HP laptops we've seen and tested](https://cdn.mos.cms.futurecdn.net/N8YKpUNCUKjDKsCgeJPLiR-1200-80.jpg "Best HP laptops 2021: the top HP laptops we've seen and tested")
+
+
+[Best HP laptops 2021: the top HP laptops we've seen and tested](https://www.techradar.com/news/mobile-computing/laptops/what-s-the-best-hp-laptop-904710)
+
+
+> Expect both style and substance with the best HP laptops. If you're looking for a sleek machine that offers excellent performance, without having to pay a steep price, a HP laptop may be the perfect choice for you. That's because despite a couple of rare exceptions, portables from HP generally manage an excellent balance between price and power.The best HP laptops are not just powerful machines with a great feature set. They also come in svelte, attractive packages that are reasonably priced, making them a great value and giving the best Dell laptops a good run for their money especially in specs and power.
+
+
+***
+![Mozilla warns users against buying some products on Amazon and one of them is Samsung Galaxy watch 3](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/Screenshot_2021-06-23_at_5.27.-647x363.png?bfSKCMmW2JVkVDGuYZbpbweBM9ugpq04 "Mozilla warns users against buying some products on Amazon and one of them is Samsung Galaxy watch 3")
+
+
+[Mozilla warns users against buying some products on Amazon and one of them is Samsung Galaxy watch 3](https://www.indiatoday.in/technology/news/story/mozilla-warns-users-against-buying-some-products-on-amazon-and-one-of-them-is-samsung-galaxy-watch-3-1818516-2021-06-23)
+
+
+> Mozilla, the creator of Firefox Browser, has warned users against buying some products on Amazon. As the Prime Day sale is already underway in some countries, Mozilla has alerted users about three 'super creepy' gadgets that users should avoid buying on Prime Day sale. The gadgets include Amazon's Echo Dot smart speaker along with the Samsung Galaxy Watch 3. Mozilla has warned users against buying the Echo Dot speaker because it uses the personal information of users to target them with more stuff.
+
+
+***
+![In its first funding in 7 years, profitable fintech Lower raises $100M Series A led by Accel – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-117642785.jpg "In its first funding in 7 years, profitable fintech Lower raises $100M Series A led by Accel – TechCrunch")
+
+
+[In its first funding in 7 years, profitable fintech Lower raises $100M Series A led by Accel – TechCrunch](https://techcrunch.com/2021/06/23/lower-raises-100m-series-a-from-accel/)
+
+
+> Lower, an Ohio-based home finance platform, announced today it has raised $100 million in a Series A funding round led by Accel. This round is notable for a number of reasons. First off, it's a large Series A even by today's standards. The financing also marks the previously bootstrapped Lower's first external round of funding in its seven-year history. Lower is also something that is kind of rare these days in the startup world: profitable. Silicon Valley-based Accel has a history of backing profitable, bootstrapped companies, having also led large Series A rounds for the likes of 1Password, Atlassian, Qualtrics, Webflow, Tenable and Galileo (which went on to be acquired by SoFi).
+
+
+***
+![How Sonic Team made the iconic hedgehog feel like the fastest creature on the planet](https://cdn.mos.cms.futurecdn.net/K36EXCN7WjUDZARZYtQpq9-1200-80.jpg "How Sonic Team made the iconic hedgehog feel like the fastest creature on the planet")
+
+
+[How Sonic Team made the iconic hedgehog feel like the fastest creature on the planet](https://www.techradar.com/news/how-takahashi-iizuka-made-sonic-feel-like-the-fastest-creature-on-the-planet)
+
+
+> As Sonic is in the middle of celebrating his 30th anniversary, it's hard to not look back at the legacy of what started out as a bold attempt to rival Mario in the heyday of the console wars. Three decades on, 920 million games sold, over six billion grossed from franchise revenue alone, and the Blue Hedgehog has solidified himself as one of the biggest faces in video games. The original Sonic trilogy was an ingenious feat of game design - pushing the Sega Genesis to new heights, something the character continued to do with proceeding consoles.
+
+
