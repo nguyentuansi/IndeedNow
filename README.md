@@ -29483,3 +29483,53 @@
 > With Prime Day coming to an end, many great deals will be gone tonight. Maybe you've been vacillating on a Prime Day air fryer deal, but if you don't go for it today you may not see the same low price until next summer. Inventories on the most popular air fryers could run out, and that applies to this year's full set of Prime Day deals. You'll find a lot of Prime Day air fryer deals. If you're looking to finally try what's arguably the most exciting kitchen gadget out there or to upgrade your existing air fryer, this could be the perfect time to treat yourself to a new one.
 
 
+***
+![Best Prime Day Kindle deals for 2021: The best sales you can still shop](https://icdn.digitaltrends.com/image/digitaltrends/best-ebook-apps-amazon-kindle-unlimited-4-2.jpg "Best Prime Day Kindle deals for 2021: The best sales you can still shop")
+
+
+[Best Prime Day Kindle deals for 2021: The best sales you can still shop](https://www.digitaltrends.com/dtdeals/best-prime-day-kindle-deals-2021/)
+
+
+> Prime Day is over, but there are still bargains to be found. We've got all the info you need on the best Prime Day Kindle deals. A lot of Prime Day deals are still available — but they won't be for much longer, and Kindle deals in particular are going to be harder to come by. Amazon goes all out for its big sale day, but it tends to pull out of the sales as soon as Prime Day is over, so most big Kindle deals are gone now. But if you do see something you like for yourself or a loved one, be sure to nab it while you can.
+
+
+***
+![Chip shortage restricts China's car production, leaving showrooms empty, but local brands are faring better](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/06/23/c44cf7ee-d3f1-11eb-8921-c363d46ef7af_image_hires_152813.jpg?itok=WzhitRs-&v=1624433300 "Chip shortage restricts China's car production, leaving showrooms empty, but local brands are faring better")
+
+
+[Chip shortage restricts China's car production, leaving showrooms empty, but local brands are faring better](https://www.scmp.com/tech/tech-trends/article/3138438/chip-shortage-restricts-chinas-car-production-leaving-showrooms)
+
+
+> A Mercedes-Benz AG EQC luxury electric car pictured in Seoul, South Korea, on June 9. In Beijing, a showroom once full of the new electric SUVs had just a single model left as a persistent chip shortage continues to hit carmakers. Photo: Bloomberg
+
+
+***
+![Lenovo 5i 14 Has Stylish Dual-Tone Chassis and LED Light Bar](https://icdn.digitaltrends.com/image/digitaltrends/lenovo-new-chromebooks.jpg "Lenovo 5i 14 Has Stylish Dual-Tone Chassis and LED Light Bar")
+
+
+[Lenovo 5i 14 Has Stylish Dual-Tone Chassis and LED Light Bar](https://www.digitaltrends.com/computing/lenovo-launches-5i-14-stylish-new-chromebook/)
+
+
+> Both the Lenovo 5i-14 Chromebook, as well as the Lenovo Flex 5i-13 Chromebook, are going the way of the original Samsung Galaxy Book Chromebook with a bold, unique look and design. Coming in July and June, and priced at $439 each, these new Chromebooks look quite different from many others from the outside. The Lenovo 5i-14 Chromebook has a dual-tone look and a narrow bezel display coming in either sand or storm gray. Arif Bacchus/Digital Trends It sports a 14-inch full HD display with 300 nits of brightness, as well as a user-facing stereo speaker system with a built-in amplifier.
+
+
+***
+![Lenovo's stylish new Chromebook has a dual-tone design and LED light bar](https://icdn.digitaltrends.com/image/digitaltrends/lenovo-new-chromebooks.jpg "Lenovo's stylish new Chromebook has a dual-tone design and LED light bar")
+
+
+[Lenovo's stylish new Chromebook has a dual-tone design and LED light bar](https://www.digitaltrends.com/computing/lenovo-launches-5i-14-stylish-new-chromebook/)
+
+
+> Both the Lenovo 5i-14 Chromebook, as well as the Lenovo Flex 5i-13 Chromebook, are going the way of the original Samsung Galaxy Book Chromebook with a bold, unique look and design. Coming in July and June, and priced at $439 each, these new Chromebooks look quite different from many others from the outside. The Lenovo 5i-14 Chromebook has a dual-tone look and a narrow bezel display coming in either sand or storm gray. Arif Bacchus/Digital Trends It sports a 14-inch full HD display with 300 nits of brightness, as well as a user-facing stereo speaker system with a built-in amplifier.
+
+
+***
+![Lenovo Charging Mat Can Wirelessly Juice Up Your Laptop](https://icdn.digitaltrends.com/image/digitaltrends/lenovo-wireless-charging-mat.jpg "Lenovo Charging Mat Can Wirelessly Juice Up Your Laptop")
+
+
+[Lenovo Charging Mat Can Wirelessly Juice Up Your Laptop](https://www.digitaltrends.com/computing/lenovo-go-wireless-charging-laptop-accessory/)
+
+
+> Lenovo announced a slew of new accessories to help keep you productive and multitasking while on the go, including a wireless charging mat for Lenovo laptops. Designed for remote workers who may be headed back to the office this fall, the new Lenovo Go-branded line of accessories encompasses portable power devices, wireless input devices, noise canceling headphones, and speakerphones. But even if you're not a business executive, one of the most interesting accessories for laptop owners is the Lenovo Go USB-C Wireless Charging Kit, which promises to wirelessly charge a 13- or 14-inch laptop, like the company's latest ThinkPad X1.
+
+
