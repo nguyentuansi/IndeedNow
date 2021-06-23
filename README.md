@@ -29298,3 +29298,53 @@
 > Now that Summer is almost here, it's a good time to get out and start being more active, and Withings as well as Amazfit can help with that thanks to these Prime Day sales. Both Withings and Amazfit have a bunch of different trackers and smartwatches on sale for up to 30% off for Prime Day. And since Prime Day is almost over, there's not a whole lot of time left to snag one without paying full price. Or at the very least less of a discount than what's on offer today. And there's surprisingly quite a few options from both brands.
 
 
+***
+![The Echo Dot is one of our favorite smart speakers—and it's on sale from $20](https://www.gannett-cdn.com/presto/2021/06/02/USAT/5037a177-339a-43d6-9fad-4d266be14dd7-Amazon_Echo_Dot_4th_gen.jpg?crop=1770,996,x0,y0&width=1770&height=996&format=pjpg&auto=webp "The Echo Dot is one of our favorite smart speakers—and it's on sale from $20")
+
+
+[The Echo Dot is one of our favorite smart speakers—and it's on sale from $20](https://www.usatoday.com/story/tech/reviewedcom/2021/06/22/prime-day-2021-get-echo-dot-smart-speaker-less-than-20/7681544002/)
+
+
+> Amazon Prime Day 2021: The 4th generation Echo Dot is both affordable and stylish. (Photo: Amazon)— Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Amazon Prime Day 2021 is in full swing, with hundreds of markdowns on popular devices. Right now, for instance, you can save 50% on the compact, orb-shaped Amazon Echo Dot (fourth-gen) smart speaker, which comes with Amazon Alexa built right in, and the third generation model for just under $20.
+
+
+***
+![r/RoguelikeDev is running a summer dev-along tutorial series in python](https://external-preview.redd.it/lJ8GBX77TglJMsOKZ9vAY6DWj7dXratXk3ZNsHglKcg.png?auto=webp&s=9b27d42882ebdabb77f5dfb8a209af94946a00f9 "r/RoguelikeDev is running a summer dev-along tutorial series in python")
+
+
+[r/RoguelikeDev is running a summer dev-along tutorial series in python](https://www.reddit.com/r/Python/comments/o614mh/rroguelikedev_is_running_a_summer_devalong/)
+
+
+> Interested in making a traditional turn-based roguelike? Want to do it alongside other devs and beginners with a tutorial? Over at r/roguelikedev we're starting a weekly summer event on June 29th where you can do just that :DCheck out "RoguelikeDev Does The Complete Roguelike Tutorial" for more info, including the planned schedule.The main tutorial we'll be following is in python, although some participants may opt to use other languages.
+
+
+***
+![Skai Jackson Steps Out Wearing Knit Missoni Suit, Converse Sneakers and Former Disney Star Skai Jackson Earns Her Stripes In Chic Blazer And Chucks](https://https://www.thearkatech.com/img/news_img/all/15338_7_1200.pic "Skai Jackson Steps Out Wearing Knit Missoni Suit, Converse Sneakers and Former Disney Star Skai Jackson Earns Her Stripes In Chic Blazer And Chucks")
+
+
+[Skai Jackson Steps Out Wearing Knit Missoni Suit, Converse Sneakers and Former Disney Star Skai Jackson Earns Her Stripes In Chic Blazer And Chucks](https://www.thearkatech.com/en/71407/)
+
+
+> © Instagram / Skai Jackson Skai Jackson Steps Out Wearing Knit Missoni Suit, Converse Sneakers and Former Disney Star Skai Jackson Earns Her Stripes In Chic Blazer And Chucks Former Disney Star Skai Jackson Earns Her Stripes In Chic Blazer And Chucks and Skai Jackson Steps Out Wearing Knit Missoni Suit, Converse Sneakers Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Supreme Court Clarifies Basic Presumption Burden and Holds Courts Should Consider All Price Impact Evidence. Indian e-commerce rules cast cloud to Amazon, Walmart, and local rivals.
+
+
+***
+![Hockey Social: Brendan Creed on Heath Ledger, yellow trainers and embracing sport and The Tragic Real-Life Story Of Heath Ledger](https://https://www.thearkatech.com/img/news_img/all/15142_10_1200.pic "Hockey Social: Brendan Creed on Heath Ledger, yellow trainers and embracing sport and The Tragic Real-Life Story Of Heath Ledger")
+
+
+[Hockey Social: Brendan Creed on Heath Ledger, yellow trainers and embracing sport and The Tragic Real-Life Story Of Heath Ledger](https://www.thearkatech.com/en/71406/)
+
+
+> © Instagram / Heath Ledger By: Jason Jones2021-06-23 03:15:18 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Tulsa residents who had police citations asked to monitor financial accounts; more info compromised in city's ransomware attack. Jean Jolley Obituary (2021). New British 50 pound note with WW2 codebreaker Turing enters circulation. Tom Perez preps Maryland governor announcement. 'Allow private hospitals and clinics to sell vaccine'. Second-opinion on Mets' Lucchesi confirms torn UCL.
+
+
+***
+![Here's Why Laura Prepon Was Cast In 'That '70s Show' and Orange is the New Black star Laura Prepon believes cinema will come back after COVID-19](https://https://www.thearkatech.com/img/news_img/all/15328_0_1200.pic "Here's Why Laura Prepon Was Cast In 'That '70s Show' and Orange is the New Black star Laura Prepon believes cinema will come back after COVID-19")
+
+
+[Here's Why Laura Prepon Was Cast In 'That '70s Show' and Orange is the New Black star Laura Prepon believes cinema will come back after COVID-19](https://www.thearkatech.com/en/71405/)
+
+
+> © Instagram / Laura Prepon By: Emma Williams2021-06-23 03:14:18 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Orange is the New Black star Laura Prepon believes cinema will come back after COVID-19 and Here's Why Laura Prepon Was Cast In 'That '70s Show' More remains from homicide victim found in new locale in Minneapolis, police say. Clippers vs. Phoenix Suns Game 2: Live updates, odds and score. St Vincent's Healthcare Group and State struggled to agree on land ownership in 2017.
+
+
