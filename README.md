@@ -29630,3 +29630,50 @@
 > Source: Android Central Over half a year after launching the Chromecast with Google TV, you'll finally be able to officially play Stadia games on it. On June 23, Stadia comes to the Chromecast with Google TV and a half-dozen Android TV devices. For non-supported Android TV devices, you'll still be able to play Stadia through an experimental opt-in. Stadia players will be able to use the Stadia controller or compatible Bluetooth controllers on Android TV. Source: Giphy One of the most glaring holes in the Chromecast with Google TV, when it launched back in October, was that it didn't support Stadia — you still had to spend more for the four-year-old Chromecast Ultra if you wanted to use Google's streaming game service on your TV.
 
 
+***
+![Prime Day monitor deals 2021: The best sales you can still shop](https://icdn.digitaltrends.com/image/digitaltrends/hp-monitor-ces-2-2021.jpg "Prime Day monitor deals 2021: The best sales you can still shop")
+
+
+[Prime Day monitor deals 2021: The best sales you can still shop](https://www.digitaltrends.com/dtdeals/best-prime-day-monitor-deals-2021/)
+
+
+> Prime Day has sadly ended, but the sun hasn't set on all the best Prime Day deals. Plenty of bargains still remain and you've got a little bit of time left to shop — but if you need a new PC monitor and don't want to wait until Black Friday, you'll have to be quick on the uptake if you want to catch any of these post-Prime Day monitor deals before other shoppers snatch them up. Remember, though, that you're not stuck with Amazon if you want to get a good price on an awesome monitor. In fact, you don't even need a Prime membership to shop most of these Prime Day sales, because other outlets have their own discounts that are open to all (and some might even extend into tomorrow, although we don't recommend pushing your luck).
+
+
+***
+![Best Prime Day smart thermostat deals for 2021: The best sales you can still shop](https://icdn.digitaltrends.com/image/digitaltrends/nest-learning-smart-thermostat-3rd-gen.jpg "Best Prime Day smart thermostat deals for 2021: The best sales you can still shop")
+
+
+[Best Prime Day smart thermostat deals for 2021: The best sales you can still shop](https://www.digitaltrends.com/dtdeals/best-prime-day-smart-thermostat-deals-2021/)
+
+
+> That's it, Prime Day 2021 is over. The Prime Day deals are history. Except, however, some of the deals linger on even though Prime Day is officially over as of midnight last night, PST. With the dog days of summer coming in hot, now's the perfect time to shop these remaining Prime Day smart thermostat deals, but now's not the time to dither. We've seen a few deals sell out already and don't want that to happen to you. The yearly Prime Day blowout is the best opportunity of the year (until Black Friday, anyway) to save on pricey electronics like smart home gadgets, and there are some great smart thermostat discounts right now if you're looking to smarten up your living space and save on energy bills as the summer arrives.
+
+
+***
+![Israel's Central Bank Experiments With Ethereum-Based Digital Currency](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/ethereum_3.jpeg?width=720 "Israel's Central Bank Experiments With Ethereum-Based Digital Currency")
+
+
+[Israel's Central Bank Experiments With Ethereum-Based Digital Currency](https://www.benzinga.com/markets/cryptocurrency/21/06/21687219/israels-central-bank-experiments-with-ethereum-based-digital-currency)
+
+
+> The Bank of Israel is experimenting with Ethereum (CRYPTO: ETH) technology as a substrate for its central bank digital currency (CBDC). What Happened: According to a Wednesday Globes report, the central bank already issued digital currency for internal testing on a private blockchain network based on Ethereum software. As of right now, no real money is transferred on the network, and the pilot project is meant to only be a technical feasibility study in no way connected to the public Ethereum network powered by Ether.
+
+
+***
+![Escape from Tarkov Event Has Bosses, Labs, and More Going Crazy](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Escape%20from%20Tarkov.jpg?itok=xRSr0pDO "Escape from Tarkov Event Has Bosses, Labs, and More Going Crazy")
+
+
+[Escape from Tarkov Event Has Bosses, Labs, and More Going Crazy](https://techraptor.net/gaming/news/escape-from-tarkov-event-has-bosses-labs-and-more-going-crazy)
+
+
+> 06/23/2021 - 12:02 | By: Don Parsons A lot is Happening in the World of Tarkov The world of Tarkov is a busy place with a lot of things going on in Escape from Tarkov right now as changes and events have been recently unveiled. Whether its bosses appearing in different areas, bitcoin changing values in game, or a new stim going around, there's plenty to keep you on your toes. Escape From Tarkov Bosses Appearing on Other Maps First beginning a few days ago, Escape From Tarkov's bosses all began spawning on reserve, alongside a new Prapor Quest to observe them all meeting and get out of there alive.
+
+
+***
+[Two South African brothers who founded crypto investment firm Africrypt vanished with ~69,000 coins, worth $3.6B+, after informing clients of an alleged hack (Bloomberg)](http://www.techmeme.com/210623/p35#a210623p35)
+
+
+> Bloomberg: Two South African brothers who founded crypto investment firm Africrypt vanished with ~69,000 coins, worth $3.6B+, after informing clients of an alleged hack — - Lawyers hired by investors piece together funds' disappearance — Africrypt loss would rank among biggest-ever crypto heists
+
+
