@@ -29580,3 +29580,53 @@
 > As Sonic is in the middle of celebrating his 30th anniversary, it's hard to not look back at the legacy of what started out as a bold attempt to rival Mario in the heyday of the console wars. Three decades on, 920 million games sold, over six billion grossed from franchise revenue alone, and the Blue Hedgehog has solidified himself as one of the biggest faces in video games. The original Sonic trilogy was an ingenious feat of game design - pushing the Sega Genesis to new heights, something the character continued to do with proceeding consoles.
 
 
+***
+![Borderlands 3 is free to play this weekend on Stadia](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2019/08/borderlands-3-eden-6-bx1j.jpg "Borderlands 3 is free to play this weekend on Stadia")
+
+
+[Borderlands 3 is free to play this weekend on Stadia](https://www.androidcentral.com/borderlands-3-free-play-weekend-stadia-madden-nfl-22-preorder)
+
+
+> Source: 2K Borderlands 3 is free to play on Stadia this weekend starting on June 24. Madden NFL 22 is now available to preorder in the Stadia store. Stadia can now be played using Chrome on Android mobile devices. It's a big week for Stadia. The team had plenty to share in its weekly blog post highlighting the week ahead for the platform, and these include a free weekend with Borderlands 3, Madden NFL 22 preorders, Stadia becoming available on mobile, Stadia hitting Android TV, and more. Borderlands 3 is set to be free from Thursday, June 24 until Monday, June 28 for anyone with a Stadia Pro subscription.
+
+
+***
+![Streaming Video Alliance Acquires Technical Document Library From Open Authentication Technology Committee (OATC)](https://mms.businesswire.com/media/20210623005350/en/887154/23/StreamingVideo_logo.jpg "Streaming Video Alliance Acquires Technical Document Library From Open Authentication Technology Committee (OATC)")
+
+
+[Streaming Video Alliance Acquires Technical Document Library From Open Authentication Technology Committee (OATC)](https://www.businesswire.com/news/home/20210623005350/en/Streaming-Video-Alliance-Acquires-Technical-Document-Library-From-Open-Authentication-Technology-Committee-OATC)
+
+
+> June 23, 2021 10:00 AM Eastern Daylight Time FREMONT, Calif.--(BUSINESS WIRE)--The Streaming Video Alliance (the Alliance), a global technical association developing solutions to address critical technical challenges in delivering a high-quality video experience at scale, has acquired the technical documents from the Open Authentication Technology Committee (OATC). A nonprofit industry association, OATC's membership includes television programmers/content owners, multi-channel video program distributors (MVPDs), technology companies, and system integrators.
+
+
+***
+![New Mass Notification Solution from Windstream Enterprise Aids Businesses, Schools and Government Agencies With Instant Alerts](https://mms.businesswire.com/media/20210623005229/en/713565/23/WinEnt_Logo_Stacked_B_%28002%29.jpg "New Mass Notification Solution from Windstream Enterprise Aids Businesses, Schools and Government Agencies With Instant Alerts")
+
+
+[New Mass Notification Solution from Windstream Enterprise Aids Businesses, Schools and Government Agencies With Instant Alerts](https://www.businesswire.com/news/home/20210623005229/en/New-Mass-Notification-Solution-from-Windstream-Enterprise-Aids-Businesses-Schools-and-Government-Agencies-With-Instant-Alerts)
+
+
+> June 23, 2021 10:00 AM Eastern Daylight Time LITTLE ROCK, Ark.--(BUSINESS WIRE)--Windstream Enterprise (WE), a managed communications service provider, recently launched Revolution, a mass notification tool that can be integrated with its award-winning Unified Communications as a Service (UCaaS) solution powered by Mitel or deployed as a standalone service. Revolution is an industry-leading software tool that enables businesses, schools, government agencies, hospitals and other large organizations to distribute alerts and media-rich messages to entire groups of people.
+
+
+***
+![DeepSig Presents How AI-Machine Learning Improves 5G vRAN Performance and Lowers Cost at MWC21 Barcelona](https://mms.businesswire.com/media/20210623005194/en/887064/23/wide_logo_dark_text.jpg "DeepSig Presents How AI-Machine Learning Improves 5G vRAN Performance and Lowers Cost at MWC21 Barcelona")
+
+
+[DeepSig Presents How AI-Machine Learning Improves 5G vRAN Performance and Lowers Cost at MWC21 Barcelona](https://www.businesswire.com/news/home/20210623005194/en/DeepSig-Presents-How-AI-Machine-Learning-Improves-5G-vRAN-Performance-and-Lowers-Cost-at-MWC21-Barcelona)
+
+
+> June 23, 2021 10:00 AM Eastern Daylight Time ARLINGTON, Va.--(BUSINESS WIRE)--Massive MIMO and virtual radio access network (vRAN) are two examples of how 5G architecture is fundamentally more complex than 4G. To make effective use and reduce the total cost of ownership of these new technologies, mobile operators and their vendors must leverage 'deep learning': a branch of artificial intelligence (AI) and machine learning (ML). That's one takeaway MWC Barcelona 2021 attendees can learn from DeepSig.
+
+
+***
+![[Update] It's been forever, but Stadia finally works on Android TV](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/06/stadia-google-tv-logo.jpg "[Update] It's been forever, but Stadia finally works on Android TV")
+
+
+[[Update] It's been forever, but Stadia finally works on Android TV](https://www.androidcentral.com/stadia-finally-comes-android-tv-and-chromecast-google-tv-june-23)
+
+
+> Source: Android Central Over half a year after launching the Chromecast with Google TV, you'll finally be able to officially play Stadia games on it. On June 23, Stadia comes to the Chromecast with Google TV and a half-dozen Android TV devices. For non-supported Android TV devices, you'll still be able to play Stadia through an experimental opt-in. Stadia players will be able to use the Stadia controller or compatible Bluetooth controllers on Android TV. Source: Giphy One of the most glaring holes in the Chromecast with Google TV, when it launched back in October, was that it didn't support Stadia — you still had to spend more for the four-year-old Chromecast Ultra if you wanted to use Google's streaming game service on your TV.
+
+
