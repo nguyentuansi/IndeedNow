@@ -29348,3 +29348,47 @@
 > © Instagram / Laura Prepon By: Emma Williams2021-06-23 03:14:18 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Orange is the New Black star Laura Prepon believes cinema will come back after COVID-19 and Here's Why Laura Prepon Was Cast In 'That '70s Show' More remains from homicide victim found in new locale in Minneapolis, police say. Clippers vs. Phoenix Suns Game 2: Live updates, odds and score. St Vincent's Healthcare Group and State struggled to agree on land ownership in 2017.
 
 
+***
+![Don't buy AirPods on Prime Day — you'll get a better deal on the Jabra 75t](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/01/jabra-75t-in-case-with-airpods.jpg "Don't buy AirPods on Prime Day — you'll get a better deal on the Jabra 75t")
+
+
+[Don't buy AirPods on Prime Day — you'll get a better deal on the Jabra 75t](https://www.imore.com/dont-buy-airpods-prime-day-youll-get-better-deal-jabra-elite-75t)
+
+
+> With Prime Day winding down, time is running out on deals for everything on the sun. However, one standout deal is still available that you don't want to miss — a fantastic Bluetooth headphone deal from Jabra. The Jabra Elite 75t, one of our picks for the best alternatives to Apple AirPods and best workout headphones for iPhone and Apple Watch, goes above and beyond Apple's earbuds with a bevy of premium features. And thanks to Prime Day, you can nab a pair for under $100. At just $95 this Prime Day, the Jabra Elite 75t Earbuds are not only cheaper than the AirPods, but they go above and beyond with Active Noise Cancellation, IP55 water and dust resistance, and up to 28-hours of battery life.
+
+
+***
+![If you buy one monitor on Prime Day, it needs to be this](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/lg-ultrafine-lifestyle.jpg "If you buy one monitor on Prime Day, it needs to be this")
+
+
+[If you buy one monitor on Prime Day, it needs to be this](https://www.imore.com/lg-27-inch-ultrafine-display-perfect-partner-your-mac)
+
+
+> There are tons of fantastic Prime Day MacBook deals still available, even covering Apple's new M1 MacBook Air and M1 MacBook Pro. While grabbing your new Mac is one thing, shopping for a monitor is a whole other deal. Thankfully, Prime Day is offering a great deal on a monitor that is also made for your MacBook Air, MacBook Pro, or Mac mini. The LG 27UN850-W 27 Inch Ultrafine UHD (3840 x 2160) IPS Display is certainly a mouthful but, once you get past that name, you'll find that it is the perfect match as an external display for your favorite MacBook or Mac mini.
+
+
+***
+![Brazil medical firm Fleury hit by cyberattack](https://www.reuters.com/pf/resources/icons/favicon.ico?d=39 "Brazil medical firm Fleury hit by cyberattack")
+
+
+[Brazil medical firm Fleury hit by cyberattack](https://www.reuters.com/technology/brazil-medical-firm-fleury-hit-by-cyberattack-2021-06-23/)
+
+
+> BRASILIA, June 22 (Reuters) - Brazilian medical lab company Fleury SA (FLRY3.SA) said in a securities filing that a cyberattack had resulted in a partial outage of its information technology systems on Tuesday. Fleury said it was evaluating the impact of the cyberattack and taking actions to minimize its effects. The company said it would inform the market in a timely manner regarding any relevant updates on the situation. Reporting by Jake Spring; Editing by Jacqueline Wong Our Standards: The Thomson Reuters Trust Principles.
+
+
+***
+[What languages go well with python](https://www.reddit.com/r/Python/comments/o630z5/what_languages_go_well_with_python/)
+
+
+> I just started "learning" python like 2 months ago ( quotations because I only just signed up for Codewars as a way to actually progress) , and I was wondering if anyone knew of some good languages to learn alongside py in CW.
+
+
+***
+[Does someone knows how to put the shell on the right side???](https://www.reddit.com/r/Python/comments/o63024/does_someone_knows_how_to_put_the_shell_on_the/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
