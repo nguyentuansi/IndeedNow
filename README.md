@@ -29915,3 +29915,50 @@
 > I've been a paying customer from https://www.notion.so/ since 2017 with my company. In the early days, I even exchanged emails with the founders giving detailed feedback.Around 3 months ago, I started having issues with their "Export" feature. Basically, you request to export all your data on Notion, and you're supposed to receive a link to download it. But the link never arrives.I contacted them about this, and that's what they said at the time:> Our engineering team is currently working through a large backlog, and there is no immediate fix for this issue.
 
 
+***
+![HTC Vive Focus 3 review](https://cdn.mos.cms.futurecdn.net/e2kA4pVPHHwKoUafJUo2Qb-1200-80.jpg "HTC Vive Focus 3 review")
+
+
+[HTC Vive Focus 3 review](https://www.techradar.com/reviews/htc-vive-focus-3)
+
+
+> The Vive Focus 3 is the latest all-in-one virtual reality (VR) headset from HTC, successor to the Vive Focus Plus, and it's quite something to behold.It has a spec sheet to rival the previous generation of PC-powered headsets, with a combined 5K resolution across dual screens, 90hz refresh rate and 120 degree field of view (FOV). And yet, like its predecessor, the Vive Focus 3 is totally wireless, with all tracking and computing handled onboard.The screen is remarkably crisp and the performance smooth, but for a few dips here and there.
+
+
+***
+![#TECH: Yoodo offers Jaringan Prihatin users 80GB data for RM5](https://assets.nst.com.my/images/articles/botsyodos_NSTfield_image_socialmedia.var_1624506892.jpg "#TECH: Yoodo offers Jaringan Prihatin users 80GB data for RM5")
+
+
+[#TECH: Yoodo offers Jaringan Prihatin users 80GB data for RM5](https://www.nst.com.my/lifestyle/bots/2021/06/701735/tech-yoodo-offers-jaringan-prihatin-users-80gb-data-rm5)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![MYbank's Use of Digital Technology Leads to Record Growth in Rural Clients](https://mms.businesswire.com/media/20210623005998/en/887492/23/Ant_client.jpg "MYbank's Use of Digital Technology Leads to Record Growth in Rural Clients")
+
+
+[MYbank's Use of Digital Technology Leads to Record Growth in Rural Clients](https://www.businesswire.com/news/home/20210623005998/en/MYbank%E2%80%99s-Use-of-Digital-Technology-Leads-to-Record-Growth-in-Rural-Clients)
+
+
+> HANGZHOU, China--(BUSINESS WIRE)--MYbank, a leading online private commercial bank and associate of Ant Group, today reported it has served over 20 million clients in rural areas across China as of June 2021, representing a 44.2% year-on-year increase driven by digital credit solutions for rural areas. Since its founding six years ago, MYbank has served more than 40 million SMEs and rural clients. In the past year, 84% of MYbank's new rural clients had previously been unable to obtain a business loan, due either to a lack of credit history or collateral.
+
+
+***
+![#TECH: With 5G, mobile data consumption will nearly quadruple by 2026](https://assets.nst.com.my/images/articles/bots5gdaa_NSTfield_image_socialmedia.var_1624505483.jpg "#TECH: With 5G, mobile data consumption will nearly quadruple by 2026")
+
+
+[#TECH: With 5G, mobile data consumption will nearly quadruple by 2026](https://www.nst.com.my/lifestyle/bots/2021/06/701721/tech-5g-mobile-data-consumption-will-nearly-quadruple-2026)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[Office apps now support OpenDocument format 1.3](https://www.reddit.com/r/technology/comments/o6snh8/office_apps_now_support_opendocument_format_13/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
