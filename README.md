@@ -30109,3 +30109,50 @@
 > Source: Harish Jonnalagadda / Android Central Synology is rolling out the next big update to its operating system, DiskStation Manager 7.0. Synology makes the best NAS enclosures for home, and with 8 million active users around the world, it is also the largest manufacturer in this category. DSM 7.0 started off as a beta build six months ago, and is now available as a release candidate for dozens of NAS enclosures. DSM 7.0 is going live on June 29, following which you will get an update on your NAS.
 
 
+***
+![Game, set and ... token? Murray cashes in on 2013 Wimbledon win](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "Game, set and ... token? Murray cashes in on 2013 Wimbledon win")
+
+
+[Game, set and ... token? Murray cashes in on 2013 Wimbledon win](https://www.reuters.com/article/fintech-nft-murray-idUSL3N2O54CY)
+
+
+> By Elizabeth HowcroftLONDON, June 24 (Reuters) - Andy Murray is cashing in on the craze for non-fungible tokens (NFTs) by selling the 'moment' he won the Wimbledon tennis tournament in 2013 in the latest such high-profile auction.NFTs are crypto assets which record ownership of a digital item, such as an image, video or text, on blockchain. While anyone can view or download the asset in question, only the buyer can claim the status of being its official owner.So the buyer of Murray's Wimbledon NFT will not own the copyright of the video footage, but a crypto asset which refers to a video of the moment the Scottish ace first won the coveted lawn tennis title.
+
+
+***
+[Firebolt Analytics, which builds a cloud data warehouse designed for rapid analysis of large data sets, raises $127M Series B led by Dawn Capital and K5 Global (Mike Wheatley/SiliconANGLE)](http://www.techmeme.com/210624/p8#a210624p8)
+
+
+> Mike Wheatley / SiliconANGLE: Firebolt Analytics, which builds a cloud data warehouse designed for rapid analysis of large data sets, raises $127M Series B led by Dawn Capital and K5 Global — Speedy cloud data warehouse startup Firebolt Analytics Inc. is looking like a very hot prospect indeed after landing $127 million in an all-equity round of funding.
+
+
+***
+![Entrust Achieves Visa Ready Certification for Instant Financial Card Issuance Solutions, Joins Visa Fintech Partner Connect Program](https://mms.businesswire.com/media/20210624005022/en/886989/23/Entrust_Logo_TAGLINE_%281%29.jpg "Entrust Achieves Visa Ready Certification for Instant Financial Card Issuance Solutions, Joins Visa Fintech Partner Connect Program")
+
+
+[Entrust Achieves Visa Ready Certification for Instant Financial Card Issuance Solutions, Joins Visa Fintech Partner Connect Program](https://www.businesswire.com/news/home/20210624005022/en/Entrust-Achieves-Visa-Ready-Certification-for-Instant-Financial-Card-Issuance-Solutions-Joins-Visa-Fintech-Partner-Connect-Program)
+
+
+> June 24, 2021 08:00 AM Eastern Daylight Time MINNEAPOLIS--(BUSINESS WIRE)--Entrust, a leading provider of trusted identities, payments and data protection, today announced that it has become a Visa Ready certified partner, offering their market-leading portfolio of Instant Financial Card Issuance solutions and expert guidance to help financial institutions create a smart, secure and convenient issuance experience for their cardholders across their branch network. Today's consumer finance market is highly competitive, and financial institutions and merchants alike are looking for partners that can help them elevate their customer experience.
+
+
+***
+![Trigo Partners with Google Cloud to Accelerate Autonomous Grocery Stores](https://mms.businesswire.com/media/20210624005076/en/887291/23/Blue_Trigo-01.jpg "Trigo Partners with Google Cloud to Accelerate Autonomous Grocery Stores")
+
+
+[Trigo Partners with Google Cloud to Accelerate Autonomous Grocery Stores](https://www.businesswire.com/news/home/20210624005076/en/Trigo-Partners-with-Google-Cloud-to-Accelerate-Autonomous-Grocery-Stores)
+
+
+> June 24, 2021 08:00 AM Eastern Daylight Time TEL AVIV, Israel--(BUSINESS WIRE)--Trigo, a global leader in frictionless checkout technology, today announced that it has signed a partnership agreement to join Google Cloud's partner ecosystem. Under the agreement, Trigo's AI-powered solutions for autonomous shopping will be available on Google Cloud, and teams from both companies will partner to help retail businesses accelerate their digital transformations with AI-powered autonomous stores. The choice to work with Google Cloud was based on Google Cloud's strong relationships with leading retailers, as well as sensitivities by leading European retailers to use Amazon Web Services.
+
+
+***
+![Consumers' Use of Mobile Wallets Up Nearly 50 Percent Among Those Paying Bills Digitally More Often During Pandemic, New ACI Speedpay Pulse Study Reveals](https://mms.businesswire.com/media/20210624005077/en/887218/23/ACI_Horizontal_%2B_Tagline.jpg "Consumers' Use of Mobile Wallets Up Nearly 50 Percent Among Those Paying Bills Digitally More Often During Pandemic, New ACI Speedpay Pulse Study Reveals")
+
+
+[Consumers' Use of Mobile Wallets Up Nearly 50 Percent Among Those Paying Bills Digitally More Often During Pandemic, New ACI Speedpay Pulse Study Reveals](https://www.businesswire.com/news/home/20210624005077/en/Consumers%E2%80%99-Use-of-Mobile-Wallets-Up-Nearly-50-Percent-Among-Those-Paying-Bills-Digitally-More-Often-During-Pandemic-New-ACI-Speedpay-Pulse-Study-Reveals)
+
+
+> MIAMI--(BUSINESS WIRE)--According to new data from ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time electronic payment and banking solutions, the use of mobile wallets has increased nearly 50 percent (49%) from 2020 to 2021 among those using digital payments more frequently to pay bills than they did before the pandemic (21.4%). This is a sharp rise compared to increases in other digital payment methods, including a biller's website (11%) and a biller's mobile app (6%). The ACI Speedpay Pulse study, which surveyed 3,000 U.
+
+
