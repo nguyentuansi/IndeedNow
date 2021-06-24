@@ -30156,3 +30156,53 @@
 > MIAMI--(BUSINESS WIRE)--According to new data from ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time electronic payment and banking solutions, the use of mobile wallets has increased nearly 50 percent (49%) from 2020 to 2021 among those using digital payments more frequently to pay bills than they did before the pandemic (21.4%). This is a sharp rise compared to increases in other digital payment methods, including a biller's website (11%) and a biller's mobile app (6%). The ACI Speedpay Pulse study, which surveyed 3,000 U.
 
 
+***
+![Apple announces new Time to Walk episodes for Fitness+](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/apple_fitness-plus-update-june2021_hero02_06242021.jpg "Apple announces new Time to Walk episodes for Fitness+")
+
+
+[Apple announces new Time to Walk episodes for Fitness+](https://www.imore.com/apple-announces-new-time-walk-episodes-fitness)
+
+
+> Source: Apple Apple has announced new Time to Walk episodes. The sessions will be available to Apple Fitness+ users on Apple Watch. Stars include Alicia Keys, Jennifer Lopez, Keith Urban, and more. Apple has today announced new Time to Walk episodes and workouts for Apple Fitness+ users. In a press release the company stated: Apple Fitness+ will release new episodes of Time to Walk, the inspiring audio experience on Apple Watch designed to encourage Fitness+ users to get active by walking more often, beginning June 28.
+
+
+***
+![Learn JavaScript with games](https://external-preview.redd.it/eCYMn3ULgb1-yRMJXEpdjumQgBs8oaCEAYQ885l8doo.jpg?auto=webp&s=e607c65201218f4fb8f61da701879283feb3e2fc "Learn JavaScript with games")
+
+
+[Learn JavaScript with games](https://www.reddit.com/r/programming/comments/o71guj/learn_javascript_with_games/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Visual Look Up lets you get info on various objects in your Photos app](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/apple-iphone-12-pro-ios-15-banner.jpg "Visual Look Up lets you get info on various objects in your Photos app")
+
+
+[Visual Look Up lets you get info on various objects in your Photos app](https://www.imore.com/how-use-visual-look-iphone-and-ipad)
+
+
+> We may earn a commission for purchases using our links. Learn more. Home / Help & How To / Apple iOS 15 Visual Look Up is a new iOS 15 feature that lets you get information on various things in your photos. Here's how to use it. 24 Jun 2021 Source: Apple There are many improvements to existing features coming in iOS 15, including FaceTime, Messages, Focus, and more. Some of the brand new features include Live Text and Visual Look Up, which kind of go hand-in-hand with each other.
+
+
+***
+![CDI Welcomes Laurent Dionot to Spearhead Sales in Philadelphia Market](https://mms.businesswire.com/media/20210624005066/en/795445/23/cdi-logo-rgb.jpg "CDI Welcomes Laurent Dionot to Spearhead Sales in Philadelphia Market")
+
+
+[CDI Welcomes Laurent Dionot to Spearhead Sales in Philadelphia Market](https://www.businesswire.com/news/home/20210624005066/en/CDI-Welcomes-Laurent-Dionot-to-Spearhead-Sales-in-Philadelphia-Market)
+
+
+> June 24, 2021 10:00 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Computer Design & Integration LLC (CDI) announced today the addition of Laurent Dionot as Senior Account Executive, tasked with taking CDI's world class digital portfolio to the Philadelphia market. He will be responsible for revenue growth, geographic expansion, marketing initiatives and delivering added value to clients and partners in a focal market for the company. With over 12 years of industry experience supporting clients so they may achieve successful business outcomes, Dionot now brings senior acumen to the Philly metro area in his role with CDI.
+
+
+***
+![Sea of Thieves Season 3, A Pirate's Life, cross platform, Twitch drops and updates](https://cdn.mos.cms.futurecdn.net/ArCMUH5pkZyoVUjjWqjovY-1200-80.jpg "Sea of Thieves Season 3, A Pirate's Life, cross platform, Twitch drops and updates")
+
+
+[Sea of Thieves Season 3, A Pirate's Life, cross platform, Twitch drops and updates](https://www.techradar.com/news/sea-of-thieves-release-date-news-and-features)
+
+
+> Rare's sandbox multiplayer pirate adventure, Sea of Thieves, has come a long way. Since first hitting Xbox One and PC in March 2018, the developer has been working on a host of post-launch patches and free DLC – with more staff working on the title now than in the run-up to its original release. The seafaring title continues to attract more players by offering continual improvements and additional content to the game's community, such as the game's recent Seasons that include 100 tiers of rewards for players to earn.
+
+
