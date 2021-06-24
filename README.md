@@ -29962,3 +29962,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
 
 
+***
+![Reliance AGM 2021: How to Watch, What to Expect](https://sm.ign.com/t/ign_in/screenshot/default/screenshot-197_mwj4.1200.png "Reliance AGM 2021: How to Watch, What to Expect")
+
+
+[Reliance AGM 2021: How to Watch, What to Expect](https://in.ign.com/tech/161279/news/reliance-agm-2021-date-time-livestream-5g-jiophone-3-jiobook-cloud-gaming)
+
+
+> The much-awaited Reliance annual general meeting (AGM) date is today. Reliance AGM 2021 is expected to feature 5G rollout announcement, affordable laptops, and a 5G phone. While events from telcos aren't usually of interest to IGN India, Reliance tends to focus on gaming-related details during its AGM as we've seen in the past. Although nothing has been teased from its gaming and esports divisions just yet, it may just be worth tuning in. Particularly after recent comments from company officials suggested Reliance Jio's cloud gaming plans are further ahead than you'd think.
+
+
+***
+![Microsoft Windows 11 Launch Event Today: How to Watch Livestream And What to Expect](https://images.news18.com/ibnlive/uploads/2021/06/1624513733_featured-image-2021-06-24t111749.513.jpg "Microsoft Windows 11 Launch Event Today: How to Watch Livestream And What to Expect")
+
+
+[Microsoft Windows 11 Launch Event Today: How to Watch Livestream And What to Expect](https://www.news18.com/news/tech/microsoft-windows-11-launch-event-today-how-to-watch-livestream-and-what-to-expect-3885311.html)
+
+
+> Microsoft is all set to launch its next operating system for PCs - Windows 11 during an online event. The Windows 11 event from Microsoft will take place at 11AM ET (8:30PM IST) today. During the event, the Redmond, Washington-based company will launch the successor to Windows 10, which was launched back in 2015. Recently, a leaked build of Windows 11 gave us a rough idea as to what to expect from the next generation Windows. Windows 11 is set to bring an upgraded Start Menu, a new look for the taskbar, and many other changes.
+
+
+***
+![Best winter movies on Disney Plus: rug up under your doona with these cool flicks](https://cdn.mos.cms.futurecdn.net/8324fd121688d34eeead8f52c3984092-1200-80.jpg "Best winter movies on Disney Plus: rug up under your doona with these cool flicks")
+
+
+[Best winter movies on Disney Plus: rug up under your doona with these cool flicks](https://www.techradar.com/news/best-winter-movies-on-disney-plus-rug-up-under-your-doona-with-these-cool-flicks)
+
+
+> (Image credit: Disney) Brrrrrrrrr! It's cold these days in Australia, making it the perfect time to revisit some winter-themed family movies. We're talking films that make you get under your doona with a cup of hot chocolate in your hand while you get whisked off to a snow-covered winter wonderland.Luckily, Disney Plus has a great selection of winter movies on offer for the whole family, which is particularly handy as we head into the school holidays.Of course, there are stacks of family-friendly films to stream on the service, but in the spirit of the season, we've taken the liberty of picking the best winter movies on Disney Plus for you to get cosy with while we wait for spring.
+
+
+***
+![‘We are very free': How China spreads its propaganda version of reality in Xinjiang](https://images.indianexpress.com/2021/06/CHINA-PROPAGANDA-1.jpg "‘We are very free': How China spreads its propaganda version of reality in Xinjiang")
+
+
+[‘We are very free': How China spreads its propaganda version of reality in Xinjiang](https://www.nytimes.com/interactive/2021/06/22/technology/xinjiang-uyghurs-china-propaganda.html)
+
+
+> Written by Jeff Kao, Raymond Zhong, Paul Mozur and Aaron Krolik Recently, the owner of a small store in western China came across some remarks by Mike Pompeo, the former U.S. secretary of state. What he heard made him angry. A worker in a textile company had the same reaction. So did a retiree in her 80s. And a taxi driver.https://images.indianexpress.com/2020/08/1x1.png Pompeo had routinely accused China of committing human rights abuses in the Xinjiang region, and these four people made videos to express their outrage.
+
+
+***
+[What time will the strawberry full moon rise tonight?](https://www.thesun.ie/tech/7186489/what-time-strawberry-full-moon-tonight/)
+
+
+> A SPECTACULAR Strawberry Moon will light up the sky tonight. The rare lunar event comes just days after the summer solstice on June 21. Here is what you need to know. What time will the strawberry full moon rise tonight? The full moon, otherwise known as the Strawberry Moon, will grace our skies tonight, June […]
+
+
