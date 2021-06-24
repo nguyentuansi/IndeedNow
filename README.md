@@ -30009,3 +30009,53 @@
 > A SPECTACULAR Strawberry Moon will light up the sky tonight. The rare lunar event comes just days after the summer solstice on June 21. Here is what you need to know. What time will the strawberry full moon rise tonight? The full moon, otherwise known as the Strawberry Moon, will grace our skies tonight, June […]
 
 
+***
+![Strawberry moon spiritual meaning: What does the June full moon symbolise?](https://www.thesun.co.uk/wp-content/uploads/2020/06/pm-COMPmoon.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Strawberry moon spiritual meaning: What does the June full moon symbolise?")
+
+
+[Strawberry moon spiritual meaning: What does the June full moon symbolise?](https://www.thesun.co.uk/tech/11793789/strawberry-moon-lunar-event-tonight/)
+
+
+> THE giant moon that graces our skies in June is called the strawberry supermoon - so named because it occurs during the strawberry harvest in North America. In 2021, skygazers will be able to spot the supermoon on Thursday June 24, before having to wait almost a year for the next one. The Strawberry Moon visible in PakistanCredit: Alamy Live News What is the spiritual meaning behind June's strawberry moon? It's widely believed within Astrology that the Moon's journey through the Zodiac signs affects the inner self.
+
+
+***
+![Realme 32-inch Full HD smart TV launched for Rs 18,999](https://cdn.mos.cms.futurecdn.net/GLGs5iB8RZrQh5UcMEXKe-1200-80.jpg "Realme 32-inch Full HD smart TV launched for Rs 18,999")
+
+
+[Realme 32-inch Full HD smart TV launched for Rs 18,999](https://www.techradar.com/news/realme-32-inch-full-hd-smart-tv-launched-for-rs-18999)
+
+
+> (Image credit: Realme) Realme has launched a new unique budget smart TV in India today. The company has unveiled a 32-inch smart TV with Full HD resolution along with Realme Narzo 30 series and Realme Buds Q2. While we have seen most of the 32-inch TVs come out with HD resolution, Realme has gone a step ahead and added a Full HD resolution. This combination is rare and in India, there are only a couple of other TVs with this combination. Realme brings two new affordable 4K smart TVs to IndiaRealme Smart TV Full HD 32-inch features and specs(Image credit: Realme)The new Realme smart TV comes with a 32-inch panel with 1920 x 1080 pixel resolution.
+
+
+***
+![Mavenir and Qualcomm Collaborate to Deliver Open RAN 4G/5G Indoor and Outdoor Radio Solutions for Public and Private Networks](https://mms.businesswire.com/media/20210624005039/en/1071376/23/Mavenir-Logo-Primary-med.jpg "Mavenir and Qualcomm Collaborate to Deliver Open RAN 4G/5G Indoor and Outdoor Radio Solutions for Public and Private Networks")
+
+
+[Mavenir and Qualcomm Collaborate to Deliver Open RAN 4G/5G Indoor and Outdoor Radio Solutions for Public and Private Networks](https://www.businesswire.com/news/home/20210624005039/en/Mavenir-and-Qualcomm-Collaborate-to-Deliver-Open-RAN-4G5G-Indoor-and-Outdoor-Radio-Solutions-for-Public-and-Private-Networks)
+
+
+> June 24, 2021 04:00 AM Eastern Daylight Time CAMBRIDGE, United Kingdom--(BUSINESS WIRE)--Mavenir1, the Network Software Provider building the future of networks with cloud-native software that runs on any cloud and transforms the way the world connects, today announced a collaboration with Qualcomm Technologies, Inc. to develop indoor and outdoor solutions for both private and public network deployments aiming to broaden the choices for Open RAN customers. With rising capacity and coverage demands of 5G, driven by diverse enterprise and consumer requirements, there is a growing need for network densification that harnesses all available spectrum based on flexible and cost-effective radio solutions.
+
+
+***
+![Ray Pawlicki, Previously CIO at Biogen and Novartis, Joins PrecisionLife as Executive Chair to Accelerate Strategic Expansion](https://mms.businesswire.com/media/20210624005048/en/887169/23/PL_LOGOTYPESTRAP_MIDNIGHT_POS_RGB.jpg "Ray Pawlicki, Previously CIO at Biogen and Novartis, Joins PrecisionLife as Executive Chair to Accelerate Strategic Expansion")
+
+
+[Ray Pawlicki, Previously CIO at Biogen and Novartis, Joins PrecisionLife as Executive Chair to Accelerate Strategic Expansion](https://www.businesswire.com/news/home/20210624005048/en/Ray-Pawlicki-Previously-CIO-at-Biogen-and-Novartis-Joins-PrecisionLife-as-Executive-Chair-to-Accelerate-Strategic-Expansion)
+
+
+> June 24, 2021 04:00 AM Eastern Daylight Time OXFORD, England--(BUSINESS WIRE)--PrecisionLife Limited, a global healthcare combinatorial analytics company, announces that it has appointed Ray Pawlicki as Executive Chair to the Board of Directors. Widely recognized as a leader in informatics across pharma and biotech, he will work closely with the PrecisionLife Board and CEO Steve Gardner to help steer the strategic growth of the company. Mr. Pawlicki's appointment underlines PrecisionLife's ambition to be a major player driving the next wave of precision medicine.
+
+
+***
+![Enterprises in Germany Look for Network Agility and Flexibility from SDN Technologies](https://mms.businesswire.com/media/20210624005100/en/1016900/23/ISG_%28R%29_Logo.jpg "Enterprises in Germany Look for Network Agility and Flexibility from SDN Technologies")
+
+
+[Enterprises in Germany Look for Network Agility and Flexibility from SDN Technologies](https://www.businesswire.com/news/home/20210624005100/en/Enterprises-in-Germany-Look-for-Network-Agility-and-Flexibility-from-SDN-Technologies)
+
+
+> June 24, 2021 04:00 AM Eastern Daylight Time FRANKFURT, Germany--(BUSINESS WIRE)--Enterprises in Germany want to improve the agility and flexibility of their corporate networks with software-defined networking (SDN) technologies to deliver better employee and customer experiences, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2021 ISG Provider Lens™ Network – Software Defined Solutions and Services Report for Germany finds enterprises in the country looking to SDN providers to help them modernize their networks in the aftermath of the COVID-19 pandemic, with the goals of improving collaboration among employees working remotely and creating better customer engagement to drive revenues.
+
+
