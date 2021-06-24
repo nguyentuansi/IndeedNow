@@ -30293,3 +30293,53 @@
 > MicrosoftSeveral Windows 11 updates will make it easier to use devices without a keyboard. By Clare Duffy, CNN Business Windows is getting a glow up. Microsoft on Thursday officially announced its latest PC operating system update, called Windows 11. It includes visual improvements, Microsoft Teams integration for people working from home and a new Microsoft store, among other changes — although a glitchy livestream of the event made it tricky for some viewers to catch all of the announcements. 'The team obsessed over every pixel,' Microsoft Chief Product Officer Panos Panay said during the event.
 
 
+***
+![Arkham Horror The Card Game Revised Core Announced](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Arkham%20Horror%20Revised%20Core%20Box%20Art.jpg?itok=y5KFUm3q "Arkham Horror The Card Game Revised Core Announced")
+
+
+[Arkham Horror The Card Game Revised Core Announced](https://techraptor.net/tabletop/news/arkham-horror-card-game-revised-core-announced)
+
+
+> 06/24/2021 - 16:01 | By: Tyler Chancey Like a mysterious and unknown intelligence from beyond mortal ken, Fantasy Flight Games emerged to reveal a new form for Arkham Horror: The Card Game. In the official press release, they laid out just what exactly this Revised Core set will include. For those already familiar with the game, there isn't exactly a whole lot that is new. This is still the base version of Arkham Horror: The Card Game with the same original scenarios and investigators.
+
+
+***
+![These are the best phones you can get on AT&T right now!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/samsung-galaxy-s21-ultra-review-3.jpg "These are the best phones you can get on AT&T right now!")
+
+
+[These are the best phones you can get on AT&T right now!](https://www.androidcentral.com/best-att-phones)
+
+
+> Best AT&T phones Android Central 2021 With so many great options to choose from, it can be hard to pick the best Android phone from AT&T's selection. If you're a little overwhelmed by all of the options and want some help determining which AT&T phone is the right for you — you've come to the right place. Here are some of the best AT&T phones available right now! Staff Pick Need a powerful Android phone that can do it all? Look no further than the Galaxy S21 Ultra. It has a big, brilliant 6.
+
+
+***
+![Tech Giants, Fearful of Proposals to Curb Them, Blitz Washington With Lobbying](https://external-preview.redd.it/_dAqS2nu0g2E_VZAgAkSptRRwaUDRlG4gNzgOsYTyMM.jpg?auto=webp&s=2412ff2b5ba473549a41cd5c8b4b164e3ae95009 "Tech Giants, Fearful of Proposals to Curb Them, Blitz Washington With Lobbying")
+
+
+[Tech Giants, Fearful of Proposals to Curb Them, Blitz Washington With Lobbying](https://www.reddit.com/r/technology/comments/o78lxb/tech_giants_fearful_of_proposals_to_curb_them/)
+
+
+> [1]Executives, lobbyists, and more than a dozen groups paid by Big Tech have tried to head off bipartisan support for six bills meant to undo the dominance of Amazon, Apple, Facebook and Google.WASHINGTON — In the days after lawmakers introduced legislation that could break the dominance of tech companies, Apple's chief executive, Tim Cook, called Speaker Nancy Pelosi and other members of Congress to deliver a warning.The antitrust bills were rushed, he said. They would crimp innovation. And they would hurt consumers by disrupting the services that power Apple's lucrative iPhone, Mr.
+
+
+***
+![Ipad pro 2020 issue: keyboard and screen lights up](https://forums.macrumors.com/attachments/img_8550-jpg.1797419/ "Ipad pro 2020 issue: keyboard and screen lights up")
+
+
+[Ipad pro 2020 issue: keyboard and screen lights up](https://forums.macrumors.com/threads/ipad-pro-2020-issue-keyboard-and-screen-lights-up.2302178/)
+
+
+> Hi there! I've got an Ipad Pro 2020 (bought two months ago) and since yesterday I have two issues with it. I was wondering if somebody else experienced this kind of problem and knows where it comes from. 1. My screen lights up every 2/3 minutes and then goes to asking me to the code. I am not even near the Ipad or touching it. It does it on its own. Very weird. 2. When I opened a web page and I attempt to write something.. then the keyboard (on ipad screen) moves itself and press the button 6 or §.
+
+
+***
+![Best cheap Verizon Fios new customer deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/fios-package.jpg "Best cheap Verizon Fios new customer deals for June 2021")
+
+
+[Best cheap Verizon Fios new customer deals for June 2021](https://www.digitaltrends.com/dtdeals/verizon-fios-new-customer-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you're paying too much for your separate home internet, landline phone, or cable TV service, then it might be time to consider consolidating those monthly bills and bundling them together with Verizon Fios. Verizon's high-speed network is a great way to save by ensuring that you're only paying for what you actually use, and if Fios is available in your area, then you have access to some of the fastest and most reliable fiber-optic connectivity in the country.
+
+
