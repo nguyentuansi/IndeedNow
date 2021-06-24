@@ -30206,3 +30206,50 @@
 > Rare's sandbox multiplayer pirate adventure, Sea of Thieves, has come a long way. Since first hitting Xbox One and PC in March 2018, the developer has been working on a host of post-launch patches and free DLC – with more staff working on the title now than in the run-up to its original release. The seafaring title continues to attract more players by offering continual improvements and additional content to the game's community, such as the game's recent Seasons that include 100 tiers of rewards for players to earn.
 
 
+***
+![Windows 11 will bring native Android apps to the Microsoft OS](https://cdn.mos.cms.futurecdn.net/fwWWDGYFJ7WkkcWfVvcVnD-1200-80.jpg "Windows 11 will bring native Android apps to the Microsoft OS")
+
+
+[Windows 11 will bring native Android apps to the Microsoft OS](https://www.techradar.com/news/windows-11-will-bring-native-android-apps-to-the-microsoft-os)
+
+
+> (Image credit: Microsoft) Microsoft announced during its official reveal event on June 24 that the new OS will be bringing Android apps to the upcoming Windows 11. The apps will be supported via the Amazon App Store but will be locally installed and you can integrate them into the start menu or taskbar. There wasn't much information given about this surprise addition to Windows 11 during its fleeting announcement, but further information will likely appear in the coming days. What we've seen so far is that the apps can be tiled as part of the new application placement UI, with a demonstration showing TikTok running in its own dedication window on the desktop.
+
+
+***
+![Check out the expert speakers joining us on Extra Crunch Live in July – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/ECL-july-slate-1.jpg?w=711 "Check out the expert speakers joining us on Extra Crunch Live in July – TechCrunch")
+
+
+[Check out the expert speakers joining us on Extra Crunch Live in July – TechCrunch](https://techcrunch.com/2021/06/24/check-out-the-expert-speakers-joining-us-on-extra-crunch-live-in-july/)
+
+
+> What are the most important factors when you're pitching your startup for fundraising? What questions come to the minds of the VCs you're pitching? How do you get the deal across the finish line? Or choose the right investors for your company to begin with? Extra Crunch Live looks to answer all these questions and more. Thus far, Coda's Shishir Mehrotra and investor S. Somasegar have told us what sings in Coda's pitch doc (not deck). We've heard how important it is to be customer-obsessed from Toast's Aman Narang and BVP's Kent Bennett.
+
+
+***
+![Windows 11 system requirements are bad news for old laptops and PCs](https://cdn.mos.cms.futurecdn.net/UMfvYpANmdmdE8jBmnEsEn-1200-80.jpg "Windows 11 system requirements are bad news for old laptops and PCs")
+
+
+[Windows 11 system requirements are bad news for old laptops and PCs](https://www.techradar.com/news/windows-11-system-requirements-are-bad-news-for-old-laptops-and-pcs)
+
+
+> (Image credit: Shutterstock) As expected, Microsoft has announced Windows 11 at its event today, and it also revealed the system requirements that are needed to run the new operating system.These system requirements, which we list below, are bad news for people with older laptops and PCs, as it may mean you can't upgrade to Windows 11. However, you'll still be able to use Windows 10 for the next few years at least – with Microsoft supporting the OS until October 14, 2025.The bump in hardware required can also been seen as good news for anyone who was hoping for a more revolutionary and ambitious update from Microsoft as well.
+
+
+***
+![Devialet Geminireview](https://cdn.mos.cms.futurecdn.net/JMFcMW4XHeFHTvakaEMp3X-1200-80.jpg "Devialet Geminireview")
+
+
+[Devialet Geminireview](https://www.techradar.com/reviews/devialet-gemini)
+
+
+> Devialet's first active noise-cancelling true wireless earbuds aren't going to give the market leaders any sleepless nights – but that's not to say they're charmless. If you enjoy taking the road less travelled, you might find them to be just the ticket.Build quality and finish are well up to par. No, there's no room here for any of Devialet's signature design flourishes, but the Gemini manage to look reasonably distinctive nevertheless. Battery life is competitive – it's certainly superior to Sony's new (and all-conquering) WF-1000XM4.
+
+
+***
+[As lawmakers advance the new antitrust bills, Democrats and Republicans are split over how far the bills should go, signaling final passage will be difficult (New York Times)](http://www.techmeme.com/210624/p30#a210624p30)
+
+
+> New York Times: As lawmakers advance the new antitrust bills, Democrats and Republicans are split over how far the bills should go, signaling final passage will be difficult — When the Judiciary Committee began approving a suite of bills on Wednesday, it exposed the fault lines that could make final passage difficult.
+
+
