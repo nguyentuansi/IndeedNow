@@ -30343,3 +30343,53 @@
 > Digital Trends may earn a commission when you buy through links on our site. If you're paying too much for your separate home internet, landline phone, or cable TV service, then it might be time to consider consolidating those monthly bills and bundling them together with Verizon Fios. Verizon's high-speed network is a great way to save by ensuring that you're only paying for what you actually use, and if Fios is available in your area, then you have access to some of the fastest and most reliable fiber-optic connectivity in the country.
 
 
+***
+![Microsoft CEO Says He Would Welcome iMessage on Windows](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-ceo-satya-nadella-at-build-2018.jpg "Microsoft CEO Says He Would Welcome iMessage on Windows")
+
+
+[Microsoft CEO Says He Would Welcome iMessage on Windows](https://www.digitaltrends.com/mobile/imessage-windows-microsoft-welcomes/)
+
+
+> The iMessage chat platform is one of Apple's best ways to make you think twice about buying another company's devices. But if the iPhone maker ever shifted its strategy, Microsoft's CEO says his company would 'welcome' it onto Windows 11. In a video interview with the Wall Street Journal, CEO Satya Nadella listed iMessage as one example of an Apple feature Microsoft would gladly invite onto the Windows platform. Microsoft 'Anything that Apple wants to do with Windows – whether it's iTunes or iMessage or what have you – we would welcome that,' said the Microsoft chief executive.
+
+
+***
+![Spotify, Soundcloud Delete Conservative Rappers' Song Declaring â€˜Trans Ain't Real'](https://media.breitbart.com/media/2021/06/bryson-gray.jpg "Spotify, Soundcloud Delete Conservative Rappers' Song Declaring â€˜Trans Ain't Real'")
+
+
+[Spotify, Soundcloud Delete Conservative Rappers' Song Declaring â€˜Trans Ain't Real'](https://www.breitbart.com/tech/2021/06/24/spotify-soundcloud-delete-conservative-rappers-song-declaring-trans-aint-real/)
+
+
+> Conservative rappers Bryson Gray and Patriot J say â€œSafe Spaces,â€� their new collaborative song dissing Anthony Fauci, Joe Biden, and overly sensitive leftist social justice warriors, has been banned by both Spotify and Soundcloud, two of the leading music hosting platforms. A message from SoundCloud posted by Bryson Gray on Twitter claims the song was taken down for â€œincitement to hatred.â€� The songâ€™s lyrics denounce supporters of Black Lives Matter and viewers of CNN as â€œbraindead,â€� and declares that there are only two genders.
+
+
+***
+![Don't Flip Out Over These Latest Samsung Smartphone Leaks](https://www.androidheadlines.com/wp-content/uploads/2021/06/Galaxy-Z-Flip-3-5G-Leaks.jpg "Don't Flip Out Over These Latest Samsung Smartphone Leaks")
+
+
+[Don't Flip Out Over These Latest Samsung Smartphone Leaks](https://www.androidheadlines.com/2021/06/samsung-galaxy-z-flip-3-leaks-5g-smartphone-android.html)
+
+
+> A new leak has surfaced for the Samsung Galaxy Z Fold 3 and the Galaxy Z Flip 3 5G. The leaks are courtesy of Evan Blass, who shared images of both phones over on his personal Twitter account earlier this morning.The leaks, or at least the one that shows the image of the Galaxy Z Flip 3 5G, looks exactly like the phone in another leak that surface earlier this month. Though not the same color as the model in that older leak, it bears the same design along with the two camera sensors. As well as the small front display and LED flash.
+
+
+***
+![SharePlay Enabled in Second Beta of iOS 15, Apps Supporting the Feature Coming Soon via TestFlight](https://images.macrumors.com/t/M8ul-ga5FLcYx3YnVAFDt41PLD8=/1600x/https://images.macrumors.com/article-new/2021/06/ios-15-beta-2-screen-sharing.jpg "SharePlay Enabled in Second Beta of iOS 15, Apps Supporting the Feature Coming Soon via TestFlight")
+
+
+[SharePlay Enabled in Second Beta of iOS 15, Apps Supporting the Feature Coming Soon via TestFlight](https://www.macrumors.com/2021/06/24/ios-15-beta-2-enables-shareplay/)
+
+
+> Monday June 21, 2021 6:15 am PDT by Mitchel BroussardAmazon's annual Prime Day event has officially kicked off today, beginning 48 hours of discounts, offers, and tons of savings across Amazon's storefront. This includes everything from home electronics to clothing, jewelry, video games, movies, and much more.Note: MacRumors is an affiliate partner with these vendors. When you click a link and make a purchase, we may receive a small payment,...
+
+
+***
+![PS5 restock: Best Buy restock surprise in limited locations – how to buy PS5 right now](https://cdn.mos.cms.futurecdn.net/3J2uAnob8ZidqMEWU7ckHA-1200-80.jpg "PS5 restock: Best Buy restock surprise in limited locations – how to buy PS5 right now")
+
+
+[PS5 restock: Best Buy restock surprise in limited locations – how to buy PS5 right now](https://www.techradar.com/news/ps5-restock-costco-best-buy-walmart)
+
+
+> (Image credit: Future) Update: The Best Buy PS5 restock is actually happening today, but later than ever before, according to our 24/7 PS5 restock Twitter tracker Matt Swider, who will send you an alert when the Sony console is in stock – if you follow his account and turn on notifications. He sent out an alert noting the PS5 Digital Edition is very limited.Trust and credibility: Matt Swider has helped over 50,000 people buy a next-gen console in recent weeks. How? With his tireless 24/7 tracking, in-stock Twitter alerts and exclusive restock reporting.
+
+
