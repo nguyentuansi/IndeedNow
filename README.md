@@ -30253,3 +30253,43 @@
 > New York Times: As lawmakers advance the new antitrust bills, Democrats and Republicans are split over how far the bills should go, signaling final passage will be difficult — When the Judiciary Committee began approving a suite of bills on Wednesday, it exposed the fault lines that could make final passage difficult.
 
 
+***
+![Don't let your Apple Watch get damaged; get a case](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/02/supcase-apple-watch-case-lifestyle.jpg "Don't let your Apple Watch get damaged; get a case")
+
+
+[Don't let your Apple Watch get damaged; get a case](https://www.imore.com/best-apple-watch-cases)
+
+
+> Best Apple Watch cases iMore 2021 The best Apple Watch cases can protect your investment. I love wearing my Apple Watch Series 6 sans case. It looks good and is easily identifiable as an Apple Watch, making me feel like I'm part of an exclusive club. This is true regardless of which generation Apple Watch you own, or whether you have the 40mm or 44mm Apple Watch (or 38mm, or 42mm.) However, I'm no dummy. I always keep a case or shell nearby if I want to go on a nature hike or if I'm doing some house painting.
+
+
+***
+![Judge denies Exxon Mobil bid to halt Massachusetts climate case](https://external-preview.redd.it/W3jVOML-UifT_WTOW9Kx2akxizEbpR2h83K1Gh8u9N8.jpg?auto=webp&s=035b72e9fa453ed0e3426fda0e932809a5380269 "Judge denies Exxon Mobil bid to halt Massachusetts climate case")
+
+
+[Judge denies Exxon Mobil bid to halt Massachusetts climate case](https://www.reddit.com/r/technology/comments/o7669s/judge_denies_exxon_mobil_bid_to_halt/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Windows 11: Microsoft revamps start menu and adds Android apps](https://i.guim.co.uk/img/media/3327ea645a3c99ae0142b87edb9a5de6f097f010/66_0_1968_1181/master/1968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37ece27bb52cad99059204a2aafb0dce "Windows 11: Microsoft revamps start menu and adds Android apps")
+
+
+[Windows 11: Microsoft revamps start menu and adds Android apps](http://www.theguardian.com/technology/2021/jun/24/windows-11-microsoft-revamps-start-menu-and-adds-android-apps)
+
+
+> Microsoft has unveiled Windows 11 as it seeks to modernise the world's most popular desktop software, add Android apps and improve gaming without alienating users.Announced during a livestream that suffered technical issues, Windows 11 will replace Windows 10 and marks the biggest change to the 35-year-old operating system since 2015.Central to the 'fresh but familiar' design is a revamped start menu, search and task bar, which have been moved to the middle of the screen similar to the dock on macOS or Chromebooks, and made more touch-friendly for tablets.
+
+
+***
+![Windows 11 is here: Everything you need to know](https://ktvz.b-cdn.net/2021/06/hypatia-h_a1374a6fb5d179209cac23c5a9d53b05-h_b23ee2ad6be633f9bf45a8a28567b185-300-1440x810.jpg "Windows 11 is here: Everything you need to know")
+
+
+[Windows 11 is here: Everything you need to know](https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/06/24/windows-11-is-here-everything-you-need-to-know/)
+
+
+> MicrosoftSeveral Windows 11 updates will make it easier to use devices without a keyboard. By Clare Duffy, CNN Business Windows is getting a glow up. Microsoft on Thursday officially announced its latest PC operating system update, called Windows 11. It includes visual improvements, Microsoft Teams integration for people working from home and a new Microsoft store, among other changes — although a glitchy livestream of the event made it tricky for some viewers to catch all of the announcements. 'The team obsessed over every pixel,' Microsoft Chief Product Officer Panos Panay said during the event.
+
+
