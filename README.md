@@ -30059,3 +30059,53 @@
 > June 24, 2021 04:00 AM Eastern Daylight Time FRANKFURT, Germany--(BUSINESS WIRE)--Enterprises in Germany want to improve the agility and flexibility of their corporate networks with software-defined networking (SDN) technologies to deliver better employee and customer experiences, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2021 ISG Provider Lens™ Network – Software Defined Solutions and Services Report for Germany finds enterprises in the country looking to SDN providers to help them modernize their networks in the aftermath of the COVID-19 pandemic, with the goals of improving collaboration among employees working remotely and creating better customer engagement to drive revenues.
 
 
+***
+![How to Update the Safari Browser on Your Mac](https://icdn.digitaltrends.com/image/digitaltrends/apple_macos-monterey_safari-tab-group_06072021.jpg "How to Update the Safari Browser on Your Mac")
+
+
+[How to Update the Safari Browser on Your Mac](https://www.digitaltrends.com/computing/how-to-update-the-safari-browser/)
+
+
+> Apple has been consistent in updating Safari with new features in the past years, including performance enhancements and some whopping privacy upgrades. The MacOS Monterey update is also giving its browser a new look with Safari 15, a version that includes new web code support for more advanced pages, Passkey support for the iCloud Keychain, highlights to emphasize important information, and a whole lot more. If you don't have automatic updates turned on or are delaying certain updates for your Mac, you may not be able to benefit from the latest features right away.
+
+
+***
+![Newsstand is the Google News reader Mac OS 9 users have been waiting for](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/newsstand-screenshots.gif "Newsstand is the Google News reader Mac OS 9 users have been waiting for")
+
+
+[Newsstand is the Google News reader Mac OS 9 users have been waiting for](https://www.imore.com/newsstand-google-news-rss-reader-mac-os-9-users-have-been-waiting)
+
+
+> Source: Alex Robb Someone created a great new app for reading Google News RSS feeds, called Newsstand. It even has a gorgeous 3D icon. Oh, and it only runs on Mac OS 9. Yes, you read that right. And only macOS 9 at that – nothing newer. I saw Newsstand fly through my Twitter feed yesterday and didn't think much of it. But then it made an appearance on Daring Fireball and I thought I should take a closer look – and boy am I glad I did. Built by Alex Robb, entirely on a Mac OS 9 machine, the app's website is perfect.
+
+
+***
+![Watch as iJustine tours the new Apple Tower Theatre store in LA](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/ijustine.jpg "Watch as iJustine tours the new Apple Tower Theatre store in LA")
+
+
+[Watch as iJustine tours the new Apple Tower Theatre store in LA](https://www.imore.com/watch-ijustine-tours-new-apple-tower-theatre-store-la)
+
+
+> Sneak peek "One of Apple's most significant restoration projects to date, Apple Tower Theatre aims to inspire even more creativity in the heart of downtown." 24 Jun 2021 Source: iJustine Apple's brand new Tower Theatre store opens in LA on Thursday. iJustine got a sneak peek inside ahead of the official launch. The historic theatre has been painstakingly renovated by Apple. iJustine has given us all a sneak peek inside the brand new Apple Tower Theatre store in LA ahead of its official opening on Thursday.
+
+
+***
+![Olympics live stream: how to watch Tokyo 2020 Olympic Games free, 2021 dates, schedule and events](https://cdn.mos.cms.futurecdn.net/WYoU9jpYdRTV9b3Tn87XPE-1200-80.jpg "Olympics live stream: how to watch Tokyo 2020 Olympic Games free, 2021 dates, schedule and events")
+
+
+[Olympics live stream: how to watch Tokyo 2020 Olympic Games free, 2021 dates, schedule and events](https://www.techradar.com/news/olympics-live-stream-how-to-watch-tokyo-2020-olympic-games-free-2021-dates-schedule-events)
+
+
+> The Olympic Torch Relay is making its way to its final destinations ahead of the Opening Ceremony of the Tokyo 2020 Olympic Games. Delayed due to the ongoing global health crisis, the Tokyo Olympics is set to begin in less than a month, with the world's best athletes set to put their blood, sweat, and tears into securing a bronze, silver or gold medal. Get ready to watch all 25 sporting events and make sure you know how to live stream the Tokyo 2020 Olympics where you are, with 100% free broadcasts available in select countries.
+
+
+***
+![Synology DSM 7.0 is now available — here's how to download for your NAS!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brb/public/article_images/2020/12/synology-diskstation-ds1621-plus-9.jpg "Synology DSM 7.0 is now available — here's how to download for your NAS!")
+
+
+[Synology DSM 7.0 is now available — here's how to download for your NAS!](https://www.androidcentral.com/synologys-massive-dsm-70-update-now-live-heres-how-download-your-nas)
+
+
+> Source: Harish Jonnalagadda / Android Central Synology is rolling out the next big update to its operating system, DiskStation Manager 7.0. Synology makes the best NAS enclosures for home, and with 8 million active users around the world, it is also the largest manufacturer in this category. DSM 7.0 started off as a beta build six months ago, and is now available as a release candidate for dozens of NAS enclosures. DSM 7.0 is going live on June 29, following which you will get an update on your NAS.
+
+
