@@ -29871,3 +29871,47 @@
 > © Instagram / Sam Elliott By: Daniel White2021-06-24 03:12:15 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: After 'The Ranch,' Sam Elliott Sets His Sight on a New Comedy and After 'The Ranch,' Sam Elliott Sets His Sight on a New Comedy Asked and answered: Virginia's new marijuana laws won't legalize usage while driving. Blink-182 bassist Mark Hoppus reveals cancer diagnosis and undergoing chemotherapy. How to decode a food label. Report: Jerami Grant, Zach LaVine accept Olympic bids; roster at 12.
 
 
+***
+![Microservices Architecture – Explained in Plain English](https://external-preview.redd.it/CFOTTdqGya3lPVGH6bP4kDFpGZZll72jBUxsTOQpMRw.jpg?auto=webp&s=69b594a6514885b5943fec0dd2197506aacad2d7 "Microservices Architecture – Explained in Plain English")
+
+
+[Microservices Architecture – Explained in Plain English](https://www.reddit.com/r/programming/comments/o6r7it/microservices_architecture_explained_in_plain/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Scientist's hunt for COVID-19's origin finds early virus sequences Chinese team deleted from NIH database](https://external-preview.redd.it/VD5_0JXKtkxtSyeDvS-ZTcvRK0stHDSWyeHNidqvk4M.jpg?auto=webp&s=7e6129d89a6c250d73424b7d5a70976105da5f8c "Scientist's hunt for COVID-19's origin finds early virus sequences Chinese team deleted from NIH database")
+
+
+[Scientist's hunt for COVID-19's origin finds early virus sequences Chinese team deleted from NIH database](https://www.reddit.com/r/technology/comments/o6r490/scientists_hunt_for_covid19s_origin_finds_early/)
+
+
+> HURRAY!Now let the domestic based Sino-Apolgists and the Chineez based Image-Watchdog-downvote/comment mills start churning away at how false these findings are. Ready. Set. GOOOooooo!
+
+
+***
+[Dating Advice: The six types of men to avoid on dating apps](https://www.goldcoastbulletin.com.au/technology/dating-advice-the-six-types-of-men-to-avoid-on-dating-apps/video/2869e12219ee9715e0f723d6a399f5ed)
+
+
+> Journalist and dating guru Jana Hocking unpacks six different types of men you may want to avoid when playing the field on dating apps.
+
+
+***
+![Amazon services down for multiple users](https://www.reuters.com/resizer/6-9wwKGXzfJGemcchNyJr21M2Ek=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3UOCSOT74VIC7D2DMKE4YNWNGU.jpg "Amazon services down for multiple users")
+
+
+[Amazon services down for multiple users](https://www.reuters.com/technology/amazon-services-down-multiple-users-downdetector-2021-06-24/)
+
+
+> The Amazon logo is seen outside its JFK8 distribution center in Staten Island, New York, U.S. November 25, 2020. REUTERS/Brendan McDermid/File PhotoJune 23 (Reuters) - Amazon.com Inc's (AMZN.O) platforms including Alexa and Prime Video were down for multiple users late Wednesday, according to outage monitoring website Downdetector.More than 4,000 user reports indicated issues with Amazon's online store site, while over a thousand users reported problems with Prime Video and 300 with Alexa, according to Downdetector.
+
+
+***
+[Ask HN: Notion is withholding my company data, what can I do?](https://news.ycombinator.com/item?id=27612894)
+
+
+> I've been a paying customer from https://www.notion.so/ since 2017 with my company. In the early days, I even exchanged emails with the founders giving detailed feedback.Around 3 months ago, I started having issues with their "Export" feature. Basically, you request to export all your data on Notion, and you're supposed to receive a link to download it. But the link never arrives.I contacted them about this, and that's what they said at the time:> Our engineering team is currently working through a large backlog, and there is no immediate fix for this issue.
+
+
