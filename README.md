@@ -30915,3 +30915,53 @@
 > A FRANCHISE HAS NINE LIVES Here are our recommendations on what's most worth watching this weekend both in theaters and on Netflix and Hulu, including "F9" and horror-comedy "Werewolves Within." A curious shutterbug discovers some old, undeveloped film inside a vintage camera he purchased and went to a professional lab to see what it contained. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up.
 
 
+***
+![Apple's car obsession is all about taking eyes off the road](https://ca-times.brightspotcdn.com/dims4/default/a64bbe4/2147483647/strip/true/crop/3000x1688+0+125/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcf%2F5b%2F1d2de50b4dde8de0ea8a693fb1f3%2Fap18040590951897.jpg "Apple's car obsession is all about taking eyes off the road")
+
+
+[Apple's car obsession is all about taking eyes off the road](https://www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road)
+
+
+> At first glance, the forays Apple Inc., Google and other technology giants are making into the world of cars don't appear to be particularly lucrative.Building automobiles requires factories, equipment and an army of people to design and assemble large hunks of steel, plastic and glass. That all but guarantees slimmer profits. The world's top 10 carmakers had an operating margin of just 5.2% in 2020, a fraction of the 34% enjoyed by the tech industry's leaders, data compiled by Bloomberg show.But for Apple and other behemoths that are diving into self-driving tech or have grand plans for their own cars, that push isn't just about breaking into a new market — it's about defending valuable turf.
+
+
+***
+![3 Coding Fears Every Developer Needs to Overcome](https://external-preview.redd.it/8st4jmWx70n5BEu_knzJAz0xdty7eP4WT7wT4G2SA3o.jpg?auto=webp&s=fb9625d1ce839bbc981b2e145bb95f1b6d138cfb "3 Coding Fears Every Developer Needs to Overcome")
+
+
+[3 Coding Fears Every Developer Needs to Overcome](https://www.reddit.com/r/programming/comments/o7xcgq/3_coding_fears_every_developer_needs_to_overcome/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Disney Plus: Luca, Loki and everything else to know about Disney streaming service](https://www.cnet.com/a/img/_qz5LaEu7bbHjI7QWglAX0Vu9Ek=/1200x630/2021/04/07/43fd4c4c-f882-49f2-a276-c789419dfcf6/010-disney-disney-plus-logo-on-phone-and-ipad-cnet-2021.jpg "Disney Plus: Luca, Loki and everything else to know about Disney streaming service")
+
+
+[Disney Plus: Luca, Loki and everything else to know about Disney streaming service](https://www.cnet.com/news/disney-plus-luca-loki-everything-else-to-know-streaming-free-disney/)
+
+
+> Sarah Tew/CNET Disney Plus has been a breakout success among the wave of new streaming services, thanks to a deep library of shows and movies, buzzy originals and (sometimes) big-screen movies to watch the same time they hit theaters. The latest big title is Luca, the newest movie from Pixar, which is available to stream on Disney Plus for subscribers at no added cost. Disney Plus is also releasing new episodes of its Marvel original series Loki every Wednesday. And coming up soon is Black Widow, the big-screen Marvel flick that will be available to stream on Disney Plus (for an extra fee) the same day it hits theaters, July 9.
+
+
+***
+![My first Django project outside of hackathons: I made a few web apps for small martial arts studios.](https://external-preview.redd.it/8iIQ1wTkbDBii5hu90DNVRp3V6KM9Y4xzKjXciWGVD4.jpg?auto=webp&s=ae1a991a08a81ba658b2b2034a051ded0ac24f32 "My first Django project outside of hackathons: I made a few web apps for small martial arts studios.")
+
+
+[My first Django project outside of hackathons: I made a few web apps for small martial arts studios.](https://www.reddit.com/r/Python/comments/o7x8mo/my_first_django_project_outside_of_hackathons_i/)
+
+
+> I started the project for the martial arts studio that I've been with for 17 years now. We relocated back in early February, and then the pandemic forced us all online for a long time, so I wanted to try and make it easier for students to access the curriculum and for instructors to make announcements.The three I've made thus far are an announcements app, a curriculum app, and a hall-of-fame-esque app for people that have gotten their black belts. The black belts app is kinda gory and there are honestly probably better announcements apps out there.
+
+
+***
+![HBO Max: Movies, shows, streaming 'free' and everything else to know](https://www.cnet.com/a/img/anwXZg1DquSloewNvcnjJageE7c=/1200x630/2020/06/14/9486c8a0-3bef-4d10-a756-b082d75f4acb/hbo-max-logo-phone-2766.jpg "HBO Max: Movies, shows, streaming 'free' and everything else to know")
+
+
+[HBO Max: Movies, shows, streaming 'free' and everything else to know](https://www.cnet.com/news/hbo-max-movies-shows-streaming-free-and-everything-else-to-know/)
+
+
+> Angela Lang/CNET HBO Max, after a bumpy launch, has been building momentum. This year, all year, HBO Max is streaming new, theatrically released movies at no extra charge the same day each film hits US cinemas (just not Fast and Furious 9, this weekend's big theatrical release). In the Heights is the latest theatrical movie streaming there, and HBO Max also recently released its long-delayed Friends reunion and launched a cheaper $10-a-month subscription tier supported by ads. And don't come to HBO Max looking for new episodes of Rick and Morty, either.
+
+
