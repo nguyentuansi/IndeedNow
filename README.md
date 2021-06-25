@@ -30668,3 +30668,53 @@
 > Microsoft Thursday officially announced Windows 11, the next major update to its popular desktop operating system. The new version expectedly brings tons of visual and feature upgrades. Among them is a deeper integration of Microsoft Teams throughout the system.In a blog post announcing Windows 11, Microsoft notes that the ongoing global health crisis has shown the importance of digital communication for 'people to stay close with each other no matter where they are'. To better facilitate these remote connections, be it for personal chats or work meetings, the company is integrating Chat from Microsoft Teams in the taskbar.
 
 
+***
+![How to watch Tour de France 2021: stage date and free live stream channels around the world](https://cdn.mos.cms.futurecdn.net/CkZ4B2DMRyfzB5PfDKa6tA-1200-80.jpg "How to watch Tour de France 2021: stage date and free live stream channels around the world")
+
+
+[How to watch Tour de France 2021: stage date and free live stream channels around the world](https://www.techradar.com/news/how-to-watch-tour-de-france-2021-dates-stages-free-live-streams-and-from-anywhere)
+
+
+> Cycling fans - the big one is almost here. Prepare your saddles for three weeks of the most beautiful, most difficult, most prestigious cycling event of the year - the 2021 Tour de France.  Join us for a spin as we explain how to get a Tour de France live stream and watch UCI WorldTour cycling online from anywhere - including for FREE in some countries! We also have info on this year's Tour de France dates and stage times.After last year's unforgettable climax, the race for the iconic maillot jaune returns as Tadej Pogačar (UAE Team Emirates) and Primož Roglič (Team Jumbo-Visma) prepare to make France their battleground once more.
+
+
+***
+![Make sure you have plenty of storage to go with your Chromebox](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2015/06/asus-chromebox-new.jpg "Make sure you have plenty of storage to go with your Chromebox")
+
+
+[Make sure you have plenty of storage to go with your Chromebox](https://www.androidcentral.com/best-external-drive-your-chromebox)
+
+
+> Best external hard drives & SSDs for Chromebox Android Central 2021 Chromeboxes aren't laptops. You're not tossing one into a backpack and setting it up at Starbucks. Instead, it sits quietly behind a screen of some sort and is always ready. That means there's no reason to try and get by with 16 or 32GB of storage. Most models are easy to take apart and upgrade if you're the DIY type, but adding more storage is as easy as plugging in a cable. These are the best external hard drives and SSDs for your Chromebox.
+
+
+***
+![German fintechs Raisin and Deposit Solutions join forces](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "German fintechs Raisin and Deposit Solutions join forces")
+
+
+[German fintechs Raisin and Deposit Solutions join forces](https://www.reuters.com/article/fintech-ma-germany-idUSL5N2O72F1)
+
+
+> By Reuters StaffBERLIN, June 25 (Reuters) - Two of Germany's largest fintech startups Deposit Solutions and Raisin have agreed to join forces in a deal to create a European group linking banks with savers, both companies said on Friday.Under the name Raisin DS, the merged company will work with around 400 banks and have a deposit volume of around 20 billion euros ($24 billion).'The merger brings us much closer to capital market viability,' Raisin founder Tamaz Georgadze told Reuters, adding that an IPO for Raisin DS could not be ruled out.
+
+
+***
+![Western Digital My Book devices hit by malware that deletes files, resets device](https://cdn.mos.cms.futurecdn.net/9vD2EgRrYK4m85m4utD4WU-1200-80.jpg "Western Digital My Book devices hit by malware that deletes files, resets device")
+
+
+[Western Digital My Book devices hit by malware that deletes files, resets device](https://www.techradar.com/news/western-digital-my-book-devices-hit-by-malware-that-deletes-files-resets-device)
+
+
+> (Image credit: Shutterstock) Several owners of Western Digital My Book devices took to the official support forums to report that their network-attached storage (NAS) devices were mysteriously wiped clean.NAS devices are a favorite with cybercriminals and Taiwanese vendor QNAP has faced the brunt of the attacks thanks to the popularity of its NAS devices.However, Bleeping Computer notes that unlike the network-facing QNAP devices, the attacked My Book devices were behind a firewall and instead rely on the My Book Live cloud servers to provide remote access.
+
+
+***
+![What's the release date for Windows 11?](https://cdn.mos.cms.futurecdn.net/LAtnQYiUqS2Wx8E8nqaPAF-1200-80.jpg "What's the release date for Windows 11?")
+
+
+[What's the release date for Windows 11?](https://www.techradar.com/news/whats-the-release-date-for-windows-11)
+
+
+> (Image credit: Microsoft) Windows 11 has just been revealed with a whole load of changes, and of course a fresh new look – although we'd already seen it courtesy of that leaked build – so if you're excited about all this, you'll doubtless be keen to know when you might get hold of the revamped operating system.At the big launch, Microsoft let us know that Windows 11 will emerge later this year as a free upgrade for Windows 10 users, and it will be out for the holiday season, which would seem to indicate a December (or possibly late November) launch.
+
+
