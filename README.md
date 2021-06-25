@@ -30427,3 +30427,44 @@
 > The Steam Sale runs June 24 through July 8, with great discounts on many major games. Here are all the details.
 
 
+***
+[FTC's Khan appoints Erie Meyer as chief technologist, Holly Vedova as acting head of Bureau of Competition, Sam Levine as head of Bureau of Consumer Protection (Diane Bartz/Reuters)](http://www.techmeme.com/210624/p50#a210624p50)
+
+
+> Diane Bartz / Reuters: FTC's Khan appoints Erie Meyer as chief technologist, Holly Vedova as acting head of Bureau of Competition, Sam Levine as head of Bureau of Consumer Protection — Tech critic and the new chair of the Federal Trade Commission, Lina Khan, has named three top staffers in a signal that the agency …
+
+
+***
+[Nokia Learn](https://itwire.com/freelancer-sp-720/tag/Nokia%20Learn.html)
+
+
+> Nokia introduces its digital services to help communication service providers (CSPs) reduce the time and effort spent on network maintenance while ensuring engineers are armed with the latest network information and skills.
+
+
+***
+[New York-based SmartAsset, a marketplace that connects consumers to financial advisors, raises $110M Series D led by TTV Capital at over $1B valuation (TechCrunch)](http://www.techmeme.com/210624/p49#a210624p49)
+
+
+> TechCrunch: New York-based SmartAsset, a marketplace that connects consumers to financial advisors, raises $110M Series D led by TTV Capital at over $1B valuation — SmartAsset, a marketplace that connects consumers to financial advisors, announced today that it has raised $110 million in a Series D round of funding.
+
+
+***
+![Check out Apple's gorgeous new store in downtown Los Angeles](https://icdn.digitaltrends.com/image/digitaltrends/apple-store-la-2.jpg "Check out Apple's gorgeous new store in downtown Los Angeles")
+
+
+[Check out Apple's gorgeous new store in downtown Los Angeles](https://www.digitaltrends.com/news/check-out-apples-gorgeous-new-store-in-downtown-los-angeles/)
+
+
+> Apple's latest retail site is a stunning restoration of a former theater that first opened in downtown Los Angeles in the late 1920s. In typical fashion, the tech giant has utterly transformed the historic Tower Theatre, which had been unoccupied for the last 33 years. Apple Apple Apple Apple Apple Apple Apple Apple The store opened on the corner of Eighth Street and Broadway on Thursday, June 24, with Apple CEO Tim Cook taking the 300-mile trip south from Apple HQ to welcome staff and shoppers into the newly renovated space.
+
+
+***
+![Athena says will install 1,500 cryptocurrency ATMs in El Salvador](https://www.reuters.com/resizer/oTJcFAeTJGkVzCo_UvHX5ODMYyE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZLPEAZBSSNLCPNF4XCYJP6VEKM.jpg "Athena says will install 1,500 cryptocurrency ATMs in El Salvador")
+
+
+[Athena says will install 1,500 cryptocurrency ATMs in El Salvador](https://www.reuters.com/technology/athena-says-will-install-1500-cryptocurrency-atms-el-salvador-2021-06-25/)
+
+
+> Eric Gravengaard, CEO of Athena Bitcoin Inc. shows the use of a Bitcoin ATM during a presentation ahead of a news conference in San Salvador, El Salvador June 24, 2021. REUTERS/Jose Cabezas/FilesSAN SALVADOR, June 24 (Reuters) - Athena Bitcoin plans to invest over $1 million to install cryptocurrency ATMs in El Salvador, especially where residents receive remittances from abroad, a company representative said on Thursday.According to Athena Bitcoin's website you can use their ATMs to buy bitcoins or sell them for cash.
+
+
