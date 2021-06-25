@@ -30765,3 +30765,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![RTX 3090 and RTX 3080 Ti in stock today at Newegg, but RTX 3080 remains elusive](https://cdn.mos.cms.futurecdn.net/7eVSzKgnakqrCUyznuoFGa-1200-80.jpg "RTX 3090 and RTX 3080 Ti in stock today at Newegg, but RTX 3080 remains elusive")
+
+
+[RTX 3090 and RTX 3080 Ti in stock today at Newegg, but RTX 3080 remains elusive](https://www.techradar.com/news/rtx-3090-and-rtx-3080-ti-in-stock-today-at-newegg-but-rtx-3080-remains-elusive)
+
+
+> (Image credit: Future) We've found the Nvidia RTX 3090, RTX 3080 Ti and RTX 3070 Ti in stock today as part of a Newegg Shuffle, a free lottery for buying popular GPUs and consoles. So far, we haven't seen the much-sought-after RTX 3080 in stock, nor is there a PS5 restock at Newegg as part of this haul. You can enter the Newegg Shuffle until 1pm EDT.How to know about GPU restock: Our GPU restock Twitter tracker Matt Swider sends out alerts when RTX graphics cards are back in stock. Yesterday, he sent out a tweet about Best Buy having RTX graphics cards in stock, and several people were able to get one.
+
+
+***
+![John McAfee death conspiracy throws up final mystery in wild life of tech renegade](https://static.independent.co.uk/2021/06/24/11/Spain_McAfee_94136.jpg?width=1200&auto=webp&quality=75 "John McAfee death conspiracy throws up final mystery in wild life of tech renegade")
+
+
+[John McAfee death conspiracy throws up final mystery in wild life of tech renegade](https://www.independent.co.uk/life-style/gadgets-and-tech/features/john-mcafee-death-conspiracy-suicide-b1872654.html)
+
+
+> 'Know that if I hang myself, a la Epstein, it will be no fault of mine.'Less than nine months after writing these words from inside a Spanish prison, John McAfee's lifeless body was discovered inside his cell.Shortly after his death, the Catalan justice department released a statement saying 'everything indicates' that the 75-year-old had taken his own life. But his prophetic comment, together with a trail of online breadcrumbs left by the tech tycoon in the months and years leading up to 23 June, mean his death is no less cryptic or controversial than the life he lived.
+
+
+***
+![8 Games That Fairly Portray LGBTQ Characters](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Hades%20Characters.jpg?itok=7bzuIE8f "8 Games That Fairly Portray LGBTQ Characters")
+
+
+[8 Games That Fairly Portray LGBTQ Characters](https://techraptor.net/gaming/features/8-games-fairly-portray-lgbtq-characters)
+
+
+> Pride is an event that is celebrated around the world and has become a symbol of love and acceptance. While this is how it's viewed now, many don't realize that Pride was sparked as a form of resistance. In 1969, a community of LGTBQ peopled rioted against the New York Police Department following an unjust raid of Stonewall in Greenwich Village. The community has come a long way since then, leading to more influence and fairer representation in the media. Although games with LGBTQ+ characters have become common, it's still a struggle to properly depict them.
+
+
+***
+![What 5 Analyst Ratings Have To Say About Martin Marietta Materials](https://www.benzinga.com/files/images/story/2021/1624636330_0.png "What 5 Analyst Ratings Have To Say About Martin Marietta Materials")
+
+
+[What 5 Analyst Ratings Have To Say About Martin Marietta Materials](https://www.benzinga.com/analyst-ratings/21/06/21726169/what-5-analyst-ratings-have-to-say-about-martin-marietta-materials)
+
+
+> Martin Marietta Materials (NYSE:MLM) has observed the following analyst ratings within the last quarter: Last 30 Days 1 Month Ago 2 Months Ago 3 Months Ago Bullish 1 0 0 0 Somewhat Bullish 0 0 1 1 Indifferent 0 1 1 0 Somewhat Bearish 0 0 0 0 Bearish 0 0 0 0 5 analysts offering 12-month price targets in the last 3 months for Martin Marietta Materials evaluate the company at an average price target of $393.8 with a high of $424.00 and a low of $372.00. This current average has increased by 15.
+
+
+***
+![Expert Ratings For Generac Hldgs](https://www.benzinga.com/files/images/story/2021/1624636301_0.png "Expert Ratings For Generac Hldgs")
+
+
+[Expert Ratings For Generac Hldgs](https://www.benzinga.com/analyst-ratings/21/06/21726164/expert-ratings-for-generac-hldgs)
+
+
+> Within the last quarter, Generac Hldgs (NYSE:GNRC) has observed the following analyst ratings: Last 30 Days 1 Month Ago 2 Months Ago 3 Months Ago Bullish 1 1 2 1 Somewhat Bullish 0 2 1 0 Indifferent 0 0 0 0 Somewhat Bearish 0 0 0 0 Bearish 0 0 0 0 In the last 3 months, 8 analysts have offered 12-month price targets for Generac Hldgs. The company has an average price target of $415.12 with a high of $475.00 and a low of $380.00. This current average represents a 9.03% increase from the previous average price target of $380.
+
+
