@@ -30468,3 +30468,53 @@
 > Eric Gravengaard, CEO of Athena Bitcoin Inc. shows the use of a Bitcoin ATM during a presentation ahead of a news conference in San Salvador, El Salvador June 24, 2021. REUTERS/Jose Cabezas/FilesSAN SALVADOR, June 24 (Reuters) - Athena Bitcoin plans to invest over $1 million to install cryptocurrency ATMs in El Salvador, especially where residents receive remittances from abroad, a company representative said on Thursday.According to Athena Bitcoin's website you can use their ATMs to buy bitcoins or sell them for cash.
 
 
+***
+![6 bills to rein in Big Tech market power hurtle forward in US Congress](https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/11/full/1615486858-6202.jpg "6 bills to rein in Big Tech market power hurtle forward in US Congress")
+
+
+[6 bills to rein in Big Tech market power hurtle forward in US Congress](https://www.business-standard.com/article/technology/6-bills-to-rein-in-big-tech-market-power-hurtle-forward-in-us-congress-121062500143_1.html)
+
+
+> Six bills taking aim at the Big Tech market power are hurtling forward in the US Congress with bipartisan support even as a House panel has pushed forward an ambitious legislative package that seeks to rein in Facebook, Google, Amazon and Apple by targeting their ownership of mighty online platforms in combination with other lines of business that kill competition. The bills moved forward after a 12-hour all nighter debate, especially over features which would require online platforms to allow users to communicate across competitor services.
+
+
+***
+![NBN Co to recommence taking HFC orders from 26 July 2021](https://itwire.com/media/k2/items/cache/f9825686d0949001660bda2010e0b70d_XS.jpg "NBN Co to recommence taking HFC orders from 26 July 2021")
+
+
+[NBN Co to recommence taking HFC orders from 26 July 2021](https://itwire.com/telecoms-and-nbn/nbn-co-to-recommence-taking-hfc-orders-from-26-july-2021.html)
+
+
+> NBN Co announced that it will recommence taking orders from 26 July 2021 to connect new customers to the NBN network via HFC technology. NBN Co confirmed that it has worked through the recent supply chain issues related to the worldwide shortage of silicon chipsets used to manufacture and supply HFC modems. It has received regular scheduled deliveries of new HFC modems and now has sufficient stock on hand, with further deliveries expected, to support ongoing customer demand for new HFC connections.
+
+
+***
+![How to restore your apps and settings to a new Android phone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/11/android-data-restore.jpg "How to restore your apps and settings to a new Android phone")
+
+
+[How to restore your apps and settings to a new Android phone](https://www.androidcentral.com/how-restore-your-apps-and-settings-new-android-phone)
+
+
+> Source: Harish Jonnalagadda/Android Central Whether you're upgrading to a new device or are resetting your phone, it's incredibly easy to restore your apps and settings. Google automatically backs up information like contacts, calendar entries, call logs, texts, Do Not Disturb settings, and more to the cloud, allowing you to pick up from where you left off. Here's how you can restore your apps and settings when moving to a new Android phone. How to enable the Android backup service Before we get started with restoring data, you have to make sure that the backup service is running on your current phone.
+
+
+***
+![How to turn off tab groups and grid view on Chrome for Android](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/chrome-grid-view.jpg "How to turn off tab groups and grid view on Chrome for Android")
+
+
+[How to turn off tab groups and grid view on Chrome for Android](https://www.androidcentral.com/how-turn-tab-groups-and-grid-view-chrome-android)
+
+
+> Source: Harish Jonnalagadda / Android Central Google rolled out a new update to Chrome for Android that introduces a new interface for tab management. Instead of the vertical tab layout, tabs are now sorted into a grid view whenever you open a link. If you're not a fan of tab groups, you can easily switch back to the old vertical layout. Here's how to turn off grid view on Chrome for Android. Open Chrome for Android. Type chrome://flags/#enable-tab-grid-layout in the address bar and hit Enter.
+
+
+***
+![Windows 11: Here are top 10 features that will excite computer users](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/wondows-11-start-1000x562_1-483x271_1200_210625093419.jpeg "Windows 11: Here are top 10 features that will excite computer users")
+
+
+[Windows 11: Here are top 10 features that will excite computer users](https://www.indiatoday.in/technology/features/story/windows-11-here-are-top-10-features-that-will-excite-computer-users-1819107-2021-06-25)
+
+
+> Highlights Windows 11 comes with an all-new design and major upgrades over its predecessor, Windows 10. Microsoft has simplified the design and user experience, it is now less cluttered and offers more space. Windows 11 is available as a free upgrade over Windows 10. Microsoft finally lifted the veil off its next-gen OS, Windows 11. The operating system was launched almost six years after Microsoft launched Windows 10 in 2015. In between, the Windows 10x was announced but was later cancelled. Windows 11 comes with an all-new design and major upgrades over its predecessor, Windows 10.
+
+
