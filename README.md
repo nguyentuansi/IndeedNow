@@ -30718,3 +30718,50 @@
 > (Image credit: Microsoft) Windows 11 has just been revealed with a whole load of changes, and of course a fresh new look – although we'd already seen it courtesy of that leaked build – so if you're excited about all this, you'll doubtless be keen to know when you might get hold of the revamped operating system.At the big launch, Microsoft let us know that Windows 11 will emerge later this year as a free upgrade for Windows 10 users, and it will be out for the holiday season, which would seem to indicate a December (or possibly late November) launch.
 
 
+***
+![Steam summer sale 2021: The best deals and discounts on top PC games](https://static.independent.co.uk/2021/06/25/11/steam%20summer%20sale.jpg?width=1200&auto=webp&quality=75 "Steam summer sale 2021: The best deals and discounts on top PC games")
+
+
+[Steam summer sale 2021: The best deals and discounts on top PC games](https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/steam-summer-sale-best-deals-b1872699.html)
+
+
+> Valve's annual Steam summer sale is in full swing, threatening the bank accounts of PC gamers around the world by bringing massive discounts to thousands of the most popular titles in the digital store. The sale runs from 24 June to 8 July and covers everything from compilations of triple-A classics like Halo: The Master Chief Collection to indie hits like Lair of the Clockwork God.New games are added and removed each day, with the best and most downloaded deals highlighted on Steam's front page.
+
+
+***
+![Can you upgrade devices to Wi-Fi 6E 6Ghz? Here's what we found.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/linksys-atlas-max-6e-logo-name-02.jpg "Can you upgrade devices to Wi-Fi 6E 6Ghz? Here's what we found.")
+
+
+[Can you upgrade devices to Wi-Fi 6E 6Ghz? Here's what we found.](https://www.androidcentral.com/can-you-upgrade-your-devices-wi-fi-6e)
+
+
+> Source: Nick Sutrich / Android CentralBest answer: No, not yet. Android phones will not be updated to support 6GHz Wi-Fi 6E unless they ship with support. Some PC expansion cards are available, but neither Windows 10 nor MacOS support 6GHz bands yet. Wi-Fi 6 is high-speed, with some routers offering up to AX11000 speeds and many devices supporting link speeds of 2.4Gbps. For pretty much anything you need to do on your wireless devices, this is more than fast enough. Wi-Fi 6E, however, doesn't set out to increase the top speed of Wi-Fi 6 but to keep those speeds up even in heavily congested areas.
+
+
+***
+![VRChat Partners With Anthos Capital to Close $80M Series D](https://mms.businesswire.com/media/20210625005073/en/887769/23/VRC_Logo_TrademarkWhite.jpg "VRChat Partners With Anthos Capital to Close $80M Series D")
+
+
+[VRChat Partners With Anthos Capital to Close $80M Series D](https://www.businesswire.com/news/home/20210625005073/en/VRChat-Partners-With-Anthos-Capital-to-Close-80M-Series-D)
+
+
+> June 25, 2021 10:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--VRChat, a social virtual reality (VR) platform that allows users to create, publish, and explore virtual worlds with other users around the globe, announced a Series D investment round of $80 million. The round was led by Anthos Capital, alongside participating investors Makers Fund, GFR Fund and others. VRChat is the leading social VR platform with millions of users, hundreds of thousands of worlds and over ten million unique avatars.
+
+
+***
+![Scalable C program using Lookup Table](https://external-preview.redd.it/X3Ymj6vhfROA_OzmdfZtSTDkUho_H4f8QbVh-5euWQ4.jpg?auto=webp&s=4e60c03b3fc0f2d8d8b9eb208169a7f21a68a827 "Scalable C program using Lookup Table")
+
+
+[Scalable C program using Lookup Table](https://www.reddit.com/r/programming/comments/o7o7w0/scalable_c_program_using_lookup_table/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[LKML: Qu Wenruo: Please don't waste maintainers' time on your KPI grabbing patches (AKA, don't be a KPI jerk)](https://www.reddit.com/r/programming/comments/o7o7gb/lkml_qu_wenruo_please_dont_waste_maintainers_time/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
