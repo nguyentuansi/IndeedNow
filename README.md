@@ -30393,3 +30393,37 @@
 > (Image credit: Future) Update: The Best Buy PS5 restock is actually happening today, but later than ever before, according to our 24/7 PS5 restock Twitter tracker Matt Swider, who will send you an alert when the Sony console is in stock – if you follow his account and turn on notifications. He sent out an alert noting the PS5 Digital Edition is very limited.Trust and credibility: Matt Swider has helped over 50,000 people buy a next-gen console in recent weeks. How? With his tireless 24/7 tracking, in-stock Twitter alerts and exclusive restock reporting.
 
 
+***
+![Billionaire investor Peter Thiel has $5B in his tax-free retirement account, report finds](https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_25/3486430/210624-peter-thiel-ew-647p.jpg "Billionaire investor Peter Thiel has $5B in his tax-free retirement account, report finds")
+
+
+[Billionaire investor Peter Thiel has $5B in his tax-free retirement account, report finds](https://www.nbcnews.com/tech/tech-news/billionaire-investor-peter-thiel-has-5b-his-tax-free-retirement-n1272317)
+
+
+> Peter Thiel, the luminary venture capitalist billionaire, has used a common personal retirement account as his own '$5 Billion Tax-Free Piggy Bank,' according to a new report from the nonprofit news organization ProPublica.Roth IRAs, which were created in 1997, are meant to serve as an incentive for people to save money now and be able to withdraw it tax-free for retirement. People pay taxes on the initial income, but then they do not pay taxes on any capital gains accrued by assets in the Roth account.
+
+
+***
+![Apple CEO Tim Cook visits LA youth outreach organization Create Now](https://photos5.appleinsider.com/gallery/42825-83207-210624-Cook-xl.jpg "Apple CEO Tim Cook visits LA youth outreach organization Create Now")
+
+
+[Apple CEO Tim Cook visits LA youth outreach organization Create Now](https://appleinsider.com/articles/21/06/25/apple-ceo-tim-cook-visits-la-youth-outreach-organization-create-now)
+
+
+> Apple CEO Tim Cook on Thursday visited local youth outreach organization Create Now, an arts-focused non-profit that is now receiving support from the tech giant. Exactly how Apple is helping Create Now is unknown, though Cook was seen sitting in a room full of children sporting what appears to be the latest iPad Pro hardware and Beats headphones. The Apple chief was in town to celebrate the opening of Apple's first retail outlet in downtown L.A."We're proud to work with groups like @CreateNow, who are bringing amazing opportunities to kids who don't get them often enough.
+
+
+***
+[The Steam Summer Sale arrives with historically deep discounts](https://www.pcworld.idg.com.au/article/689348/steam-summer-sale-arrives-historically-deep-discounts/?utm_medium=rss&utm_source=taxonomyfeed)
+
+
+> The Steam Sale runs June 24 through July 8, with great discounts on many major games. Here are all the details.
+
+
+***
+[The Steam Summer Sale arrives with historically deep discounts](https://www.pcworld.co.nz/article/689348/steam-summer-sale-arrives-historically-deep-discounts/?utm_medium=rss&utm_source=taxonomyfeed)
+
+
+> The Steam Sale runs June 24 through July 8, with great discounts on many major games. Here are all the details.
+
+
