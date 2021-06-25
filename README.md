@@ -30518,3 +30518,53 @@
 > Highlights Windows 11 comes with an all-new design and major upgrades over its predecessor, Windows 10. Microsoft has simplified the design and user experience, it is now less cluttered and offers more space. Windows 11 is available as a free upgrade over Windows 10. Microsoft finally lifted the veil off its next-gen OS, Windows 11. The operating system was launched almost six years after Microsoft launched Windows 10 in 2015. In between, the Windows 10x was announced but was later cancelled. Windows 11 comes with an all-new design and major upgrades over its predecessor, Windows 10.
 
 
+***
+![LG International to be renamed LX International](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/edc12902777a4550975a0e7d9d03d349.jpg "LG International to be renamed LX International")
+
+
+[LG International to be renamed LX International](https://www.koreatimes.co.kr/www/tech/2021/06/515_311109.html)
+
+
+> Major South Korean trading firm LG International decided Friday to rename itself LX International in an effort to show its will to be reborn as a more competitive entity.The name change, the first in 26 years and decided at an extraordinary shareholders' meeting, will become effective July 1, said LG International, the trading arm of South Korea's No. 4 conglomerate, LG Group.LG International said the new name reflects its intention to go beyond its existing role as a trading company and lead the way for a sustainable future on the global stage.
+
+
+***
+![McKinsey shares digital transformation insights with Woowa Bros., Yanolja](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/1f84335ce09946a8be38b579a6133907.jpg "McKinsey shares digital transformation insights with Woowa Bros., Yanolja")
+
+
+[McKinsey shares digital transformation insights with Woowa Bros., Yanolja](https://www.koreatimes.co.kr/www/tech/2021/06/133_311108.html)
+
+
+> Woowa Brothers Chairman Kim Bong-jin answers questions from McKinsey & Company senior partner Choi Won-sik during the SHIFT Korea Digital 2021 Symposium, Friday. Courtesy of McKinsey & CompanyBy Park Jae-hyukWoowa Brothers Chairman Kim Bong-jin and Yanolja CEO Kim Jong-yoon emphasized the importance of direct communication between engineers and top decision-makers in order for the digital transformation to be successful, during the SHIFT Korea Digital 2021 Symposium, held by McKinsey & Company online on Friday.
+
+
+***
+![PS5 stock LIVE – AMAZON consoles to drop THIS MORNING & Argos next week](https://www.thesun.ie/wp-content/uploads/sites/3/2021/06/amazon-4.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock LIVE – AMAZON consoles to drop THIS MORNING & Argos next week")
+
+
+[PS5 stock LIVE – AMAZON consoles to drop THIS MORNING & Argos next week](https://www.thesun.ie/tech/7185567/ps5-news-stock-uk-latest-amazon-smyths-playstation5-game/)
+
+
+> READY PLAYER ONE louis.allwood@thesun.co.uk7:00, 25 Jun 2021Updated: 7:00, 25 Jun 2021ARGOS UK has been tipped to drop a massive new batch of Playstation5 consoles next week - and Amazon could drop this morning.It comes after the much-sought console dropped at GAME and Very's UK online stores on Monday and Tuesday.A huge Playstation 5 restock has long been predicted and it seems like we could finally see a proper supply of consoles on the shelves this month.The PS5 was released six months ago to critical acclaim but for millions of gamers it has proven almost impossible to get hold of.
+
+
+***
+![#TECH: Google delays plan to phase out browser-tracking 'cookies'](https://assets.nst.com.my/images/articles/botscookies_NSTfield_image_socialmedia.var_1624600820.jpg "#TECH: Google delays plan to phase out browser-tracking 'cookies'")
+
+
+[#TECH: Google delays plan to phase out browser-tracking 'cookies'](https://www.nst.com.my/lifestyle/bots/2021/06/702164/tech-google-delays-plan-phase-out-browser-tracking-cookies)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![I've made a desktop app that loads CSV files and enables you to write SQL. It is a great alternative to using Panda for CSV files. I'm look for beta users!](https://external-preview.redd.it/gtihB6CI84YKOWrK4Ebwg442Oq7cgN3ekxz2vE9FLA0.jpg?auto=webp&s=901ba71335c1e98d4231d2ae2f1b0dd6cb9a1910 "I've made a desktop app that loads CSV files and enables you to write SQL. It is a great alternative to using Panda for CSV files. I'm look for beta users!")
+
+
+[I've made a desktop app that loads CSV files and enables you to write SQL. It is a great alternative to using Panda for CSV files. I'm look for beta users!](https://www.reddit.com/r/Python/comments/o7hnzl/ive_made_a_desktop_app_that_loads_csv_files_and/)
+
+
+> Hello Pythonists,I've build a desktop that can load multiple CSV files and allows you to write SQL on those CSV files.It is a good alternative to use Panda for CSV files, especially when your task can be achieved by SQL.I'm looking for more beta users. If you are interested, you can get the app from here: https://superintendent.appI would love thoughts/feedback/suggestion. Please don't hesitate to share your thoughts.
+
+
