@@ -30618,3 +30618,53 @@
 > June 25, 2021 03:45 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--jLove Conference - AtomicJar, a company on a mission to make integration testing easier for developers across the software development lifecycle, today announced during a keynote presentation at the jLove conference that it has closed a $4M seed funding round led by boldstart ventures, with participation from other notable VCs and individual investors including Tribe Capital and Chalfen Ventures. AtomicJar will use the funding to grow the core developer team serving the Testcontainers community, build new enterprise features and functionality, and continue to extend the ecosystem of frameworks in the Java ecosystem that provide native integration testing with Testcontainers.
 
 
+***
+![Samsung Galaxy S21 FE may launch in just two markets due to chip shortage](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/10/samsung-galaxy-s20-fe-15.jpg "Samsung Galaxy S21 FE may launch in just two markets due to chip shortage")
+
+
+[Samsung Galaxy S21 FE may launch in just two markets due to chip shortage](https://www.androidcentral.com/samsungs-galaxy-s21-fe-may-launch-just-two-markets-due-chip-shortage)
+
+
+> Source: Apoorva Bhardwaj / Android Central As per a new report, Samsung's Galaxy S20 FE successor will only launch in the U.S. and Europe due to a shortage of Snapdragon 888 chips. It is expected to be launched sometime in October. Rumored specs of the phone include a Snapdragon 888 chipset and a 120Hz AMOLED display. Samsung is mulling to launch the Galaxy S21 FE only in the U.S. and Europe, according to a report from South Korea's FNNews. The publication claims Samsung hasn't been able to procure enough Snapdragon 888 chipsets from Qualcomm for a global launch.
+
+
+***
+![Wyze Cam v3 review](https://cdn.mos.cms.futurecdn.net/4AtyccRBWYLj6LZh9uzqBZ-1200-80.jpeg "Wyze Cam v3 review")
+
+
+[Wyze Cam v3 review](https://www.techradar.com/reviews/wyze-cam-v3)
+
+
+> Wyze Cam v3 dealsSmart home startup Wyze is a relatively new name on the home security block, launching its first camera in 2017. Since then it's continued its assault on the smart home market, by launching a range of security cameras for both indoors and outside, as well as a range of other smart home products such as smart plugs, smart light bulbs, and even dipped its toes into the cordless vacuum and robot vacuum waters.  Wyze initially stood out against its bigger competitors by offering super-cheap home security cameras with free AI person detection built-in, so you could protect your home yourself without paying monthly.
+
+
+***
+![Eml file generator](https://external-preview.redd.it/59RgQd9uVOlepbNjGzkMmZzo2AkAEiXtF_cnJ7Sm58E.jpg?auto=webp&s=5bda1386027e4cee424575414d8d49ea1d20dc61 "Eml file generator")
+
+
+[Eml file generator](https://www.reddit.com/r/Python/comments/o7kn4z/eml_file_generator/)
+
+
+> Hello everyone!Hope you're all doing good and coding good stuff.I've created a simple eml file generator. Reason of creation is that one of my new tasks at work is to create email samples for our product environment. I was really tired of downloading an email as txt, passing it to .eml, eliminating the current data and adding the dummy data, so I came up with this.GITHUB - https://github.com/Amaguk2023/EmlFileGenerator
+
+
+***
+![Two men arrested trying to smuggle $136,000 in iPhones into India](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/smuggled-iphone-12-pro.jpg "Two men arrested trying to smuggle $136,000 in iPhones into India")
+
+
+[Two men arrested trying to smuggle $136,000 in iPhones into India](https://www.imore.com/two-men-arrested-trying-smuggle-136000-iphones-india)
+
+
+> Source: Hyderabad Customs Two men have been arrested at the Rajiv Gandhi International Airport in Hyderabad after they attempted to smuggle 80 iPhones into India without paying the required taxes. Originating from Sharjah in the United Arab Emirates, the two men attempted to ring the iPhone 12 Pro and iPhone 12 Pro Max handsets into the country via checked-in luggage but were ultimately foiled by officials according to The Indian Express. As many as 80 iPhones, worth over Rs 1 crore, were seized by Customs officials at the Rajiv Gandhi International Airport in Hyderabad on Thursday.
+
+
+***
+![Windows 11 Will Integrate Chat From Microsoft Teams In The Taskbar](https://www.androidheadlines.com/wp-content/uploads/2021/06/Windows-11-Chat-Microsoft-Teams-integration-2.jpg "Windows 11 Will Integrate Chat From Microsoft Teams In The Taskbar")
+
+
+[Windows 11 Will Integrate Chat From Microsoft Teams In The Taskbar](https://www.androidheadlines.com/2021/06/windows-11-integrate-chat-microsoft-teams-taskbar.html)
+
+
+> Microsoft Thursday officially announced Windows 11, the next major update to its popular desktop operating system. The new version expectedly brings tons of visual and feature upgrades. Among them is a deeper integration of Microsoft Teams throughout the system.In a blog post announcing Windows 11, Microsoft notes that the ongoing global health crisis has shown the importance of digital communication for 'people to stay close with each other no matter where they are'. To better facilitate these remote connections, be it for personal chats or work meetings, the company is integrating Chat from Microsoft Teams in the taskbar.
+
+
