@@ -30865,3 +30865,53 @@
 > BackgroundLast year my girlfriend introduced me to Cryptid boardgame - a game where you try to deduct the knowledge of other players. I loved it, and we tried to find ever better ways to solve the game. We soon migrated to using notebooks for keeping track of our information, and eventually ended up planning to write computer solvers to assist us in the deduction. Last month I finished a version of my solver and achieved a glorious victory against my girlfriend 🥳CryptidsolverCryptidsolver is made to assist in the deduction problems within the Cryptid boardgame.
 
 
+***
+![Chauvin gets 22 1/2 years in prison for George Floyd's death](https://www.mercurynews.com/wp-content/uploads/2021/06/APTOPIX_George_Floyd_Officer_Trial_08806.jpg?w=1024&h=682 "Chauvin gets 22 1/2 years in prison for George Floyd's death")
+
+
+[Chauvin gets 22 1/2 years in prison for George Floyd's death](https://www.mercurynews.com/2021/06/25/chauvin-gets-22-1-2-years-in-prison-for-george-floyds-death)
+
+
+> By AMY FORLITI and STEVE KARNOWSKI MINNEAPOLIS (AP) — Former Minneapolis police Officer Derek Chauvin has been sentenced to 22 1/2 years in prison for the murder of George Floyd, whose dying gasps under Chauvin's knee led to the biggest outcry against racial injustice in the U.S. in generations. The punishment handed out Friday fell short of the 30 years that prosecutors had requested. With good behavior, Chauvin, 45, could be paroled after serving two-thirds of his sentence, or about 15 years. THIS IS A BREAKING NEWS UPDATE.
+
+
+***
+![Liberty Global Schedules Investor Call for Second Quarter 2021 Results](http://www.businesswire.com/images/bwlogo_square.png "Liberty Global Schedules Investor Call for Second Quarter 2021 Results")
+
+
+[Liberty Global Schedules Investor Call for Second Quarter 2021 Results](https://www.businesswire.com/news/home/20210625005387/en/Liberty-Global-Schedules-Investor-Call-for-Second-Quarter-2021-Results)
+
+
+> June 25, 2021 04:01 PM Eastern Daylight Time DENVER, Colorado--(BUSINESS WIRE)--Liberty Global plc ('Liberty Global' or the 'Company') (NASDAQ: LBTYA, LBTYB and LBTYK) today announced plans to release its second quarter 2021 results on Thursday, July 29, 2021 after Nasdaq market close. You are invited to participate in its Investor Call, which will begin the following day at 09:00 a.m. (Eastern Time) on Friday, July 30, 2021. During the call, management will discuss the Company's results, and may provide forward-looking information.
+
+
+***
+![Buying retro Pokémon games? Use our guides to help weed out the fakes!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/ds-cartridges-morpeko.jpg "Buying retro Pokémon games? Use our guides to help weed out the fakes!")
+
+
+[Buying retro Pokémon games? Use our guides to help weed out the fakes!](https://www.imore.com/ultimate-guide-spotting-fake-pokemon-games)
+
+
+> Source: iMore With many Pokémon games being remade, such as Pokémon Brilliant Diamond and Shining Pearl for the Nintendo Switch, a lot of people, including me, are looking back to the Nintendo DS era of Pokémon games. Some people will argue that the Pokémon games released during this era are some of the best games that have ever released. From the popular Sinnoh region in Pokémon Diamond, Pearl, and Platinum; to the amazing generation two remakes of HeartGold and SoulSilver; to the initially misunderstood but now revered Black and White, as well as their sequels, Black 2 and White 2 — Pokémon DS games are always in demand.
+
+
+***
+![These are the best Galaxy Note 10 cases on the market](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/08/galaxy-note-10-samsung-cases.jpg "These are the best Galaxy Note 10 cases on the market")
+
+
+[These are the best Galaxy Note 10 cases on the market](https://www.androidcentral.com/best-galaxy-note-10-cases)
+
+
+> Best Galaxy Note 10 Cases Android Central 2021 The Galaxy Note 10 is a gorgeous sight to behold and offers a large, bezel-less display in a form factor that's easier to hold than past Notes. However, as striking as it is, the large screen, glass back, and thin metal frame likely won't hold up that well in the event of a fall. Want to ensure the Galaxy Note 10 stays looking good for years to come? Here are a few of the best Galaxy Note 10 cases we recommend checking out. We can also help you find a Galaxy Note 10 screen protector.
+
+
+***
+![A Local News Anchor Reveals How A 'Normal Teen's Bedroom' Could Be A Sign Of Drug Use, And More Of This Week's 'One Main Character'](https://cdn.digg.com/wp-content/uploads/2021/06/25194653/Screen-Shot-2021-06-25-at-3.24.30-PM.jpg "A Local News Anchor Reveals How A 'Normal Teen's Bedroom' Could Be A Sign Of Drug Use, And More Of This Week's 'One Main Character'")
+
+
+[A Local News Anchor Reveals How A 'Normal Teen's Bedroom' Could Be A Sign Of Drug Use, And More Of This Week's 'One Main Character'](https://digg.com/2021/normal-teen-bedroom-male-friendship-one-main-character)
+
+
+> A FRANCHISE HAS NINE LIVES Here are our recommendations on what's most worth watching this weekend both in theaters and on Netflix and Hulu, including "F9" and horror-comedy "Werewolves Within." A curious shutterbug discovers some old, undeveloped film inside a vintage camera he purchased and went to a professional lab to see what it contained. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up.
+
+
