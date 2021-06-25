@@ -30568,3 +30568,53 @@
 > Hello Pythonists,I've build a desktop that can load multiple CSV files and allows you to write SQL on those CSV files.It is a good alternative to use Panda for CSV files, especially when your task can be achieved by SQL.I'm looking for more beta users. If you are interested, you can get the app from here: https://superintendent.appI would love thoughts/feedback/suggestion. Please don't hesitate to share your thoughts.
 
 
+***
+![Join Telegram channel about programming (I'm posting things that interested me, that I don't want to forget about and have a way to find if needed) Thanks🙏](https://external-preview.redd.it/hvZWZP5vZgqF0XnluE2gbbzRVI_N__kR95zxHdqNkgY.jpg?auto=webp&s=cf854f81fbd4e4c070a3a2fa5450b08a2a10b335 "Join Telegram channel about programming (I'm posting things that interested me, that I don't want to forget about and have a way to find if needed) Thanks🙏")
+
+
+[Join Telegram channel about programming (I'm posting things that interested me, that I don't want to forget about and have a way to find if needed) Thanks🙏](https://www.reddit.com/r/programming/comments/o7j4zv/join_telegram_channel_about_programming_im/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![How to choose the right code-free website & landing page builder for your business](https://cdn.mos.cms.futurecdn.net/9oJztLiGuk2k8TDPmoAyxR-1200-80.jpg "How to choose the right code-free website & landing page builder for your business")
+
+
+[How to choose the right code-free website & landing page builder for your business](https://www.techradar.com/how-to/how-to-choose-the-right-code-free-website-and-landing-page-builder-for-your-business)
+
+
+> There was once a time when building a website or landing page for your business required pesky webmasters, pricey agencies, and potentially months of creative agony — now, you simply log in, drag, drop, and publish. Code-free drag-and-drop web page builders have empowered entrepreneurs like never before. But with so many sleek-sounding software pitches, it's hard to sift through what's hype and what will actually help your business thrive over the long term.  ABOUT THE AUTHORMadeline Blasberg is Director of Marketing at Leadpages Whether you're testing a new business idea, transitioning to an online revenue stream, or scaling an existing business — the software you choose to get online and grow your business is a critical choice.
+
+
+***
+![Physics Simulations  Advanced Animations In Flutter](https://external-preview.redd.it/ZcXA1y50At8apLID0TB7CYHeHT66MXmabSwMvFeJ0a0.jpg?auto=webp&s=12abfabc286d113f636fb6562db2fbda5343decb "Physics Simulations  Advanced Animations In Flutter")
+
+
+[Physics Simulations  Advanced Animations In Flutter](https://www.reddit.com/r/programming/comments/o7j3sz/physics_simulations_advanced_animations_in/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![iPadOS 15 beta 2 isn't available for a very specific iPad Pro, but why?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/06/97-inch-ipad-pro-apple-pencil-dog-hero.jpg "iPadOS 15 beta 2 isn't available for a very specific iPad Pro, but why?")
+
+
+[iPadOS 15 beta 2 isn't available for a very specific iPad Pro, but why?](https://www.imore.com/ipados-15-beta-2-isnt-available-very-specific-ipad-pro-and-nobody-knows-why)
+
+
+> Source: iMore Apple released iPadOS 15 beta 2 to developers yesterday and everyone is still picking through it to see what's new. Everyone except those with a Wi-Fi + Cellular 9.7-inch iPad Pro, that is. For reasons unknown that very particular iPad Pro hasn't received the beta 2 update and it isn't clear at this point whether it ever will. According to the release notes for the iPadOS 15 beta 2 release, the lack of availability is a known issue – but that's as far as Apple is going right now. General.
+
+
+***
+![AtomicJar Launches with $4M Seed Funding Round Led by boldstart ventures](https://mms.businesswire.com/media/20210625005097/en/887771/23/AtomicJar2.jpg "AtomicJar Launches with $4M Seed Funding Round Led by boldstart ventures")
+
+
+[AtomicJar Launches with $4M Seed Funding Round Led by boldstart ventures](https://www.businesswire.com/news/home/20210625005097/en/AtomicJar-Launches-with-4M-Seed-Funding-Round-Led-by-boldstart-ventures)
+
+
+> June 25, 2021 03:45 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--jLove Conference - AtomicJar, a company on a mission to make integration testing easier for developers across the software development lifecycle, today announced during a keynote presentation at the jLove conference that it has closed a $4M seed funding round led by boldstart ventures, with participation from other notable VCs and individual investors including Tribe Capital and Chalfen Ventures. AtomicJar will use the funding to grow the core developer team serving the Testcontainers community, build new enterprise features and functionality, and continue to extend the ecosystem of frameworks in the Java ecosystem that provide native integration testing with Testcontainers.
+
+
