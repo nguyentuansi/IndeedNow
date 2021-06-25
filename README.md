@@ -30815,3 +30815,53 @@
 > Within the last quarter, Generac Hldgs (NYSE:GNRC) has observed the following analyst ratings: Last 30 Days 1 Month Ago 2 Months Ago 3 Months Ago Bullish 1 1 2 1 Somewhat Bullish 0 2 1 0 Indifferent 0 0 0 0 Somewhat Bearish 0 0 0 0 Bearish 0 0 0 0 In the last 3 months, 8 analysts have offered 12-month price targets for Generac Hldgs. The company has an average price target of $415.12 with a high of $475.00 and a low of $380.00. This current average represents a 9.03% increase from the previous average price target of $380.
 
 
+***
+![Stung By Media Coverage, Silicon Valley Starts Its Own Publications](https://media.npr.org/assets/img/2021/06/24/gettyimages-604456660_wide-52bb476e904feadeed0a3bbf5f0de83ca2e6ffb5.jpg?s=1400 "Stung By Media Coverage, Silicon Valley Starts Its Own Publications")
+
+
+[Stung By Media Coverage, Silicon Valley Starts Its Own Publications](https://www.npr.org/2021/06/25/1010066447/stung-by-media-coverage-silicon-valley-starts-its-own-publications)
+
+
+> Marc Andreessen, co-founder and general partner of Andreessen Horowitz. The venture capital firm recently launched a media property recently known as Future, the latest in a string of Silicon Valley companies making in-house publications aimed at friendly, pro-tech coverage. Bloomberg/Bloomberg via Getty Images Many journalists who cover technology have no idea what Marc Andreessen, one of the most powerful investors in Silicon Valley, has tweeted lately. That's because the co-founder and general partner of venture capital firm Andreessen Horowitz loves blocking journalists, along with critics of the tech industry and anyone else who might be seen as an antagonist.
+
+
+***
+![Get connected with these Alexa compatible security cameras](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/06/wyzecam-product-shots-05.jpg "Get connected with these Alexa compatible security cameras")
+
+
+[Get connected with these Alexa compatible security cameras](https://www.androidcentral.com/best-security-cameras-work-amazons-alexa)
+
+
+> Best security cameras that work with Amazon Alexa Android Central 2021 A Wi-Fi-enabled security camera is an excellent way to keep an eye on your home while you're away. If you can find any Alexa-compatible security cameras, that makes watching over your home that much easier. You can check in on the pets while you're at work, and in the case of those with built-in microphones, quickly tell your kid that they're supposed to be studying instead of playing video games. With these cameras, you can ask Alexa to show you what is happening at any point in time and connect your cameras to Alexa routines for further home automation.
+
+
+***
+![Turn your iPad Air 4 into the ultimate machine with a great keyboard case](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/magic-keyboard-ipad-pro-011.jpg "Turn your iPad Air 4 into the ultimate machine with a great keyboard case")
+
+
+[Turn your iPad Air 4 into the ultimate machine with a great keyboard case](https://www.imore.com/best-ipad-air-4-keyboard-cases)
+
+
+> Best iPad Air 4 keyboard cases iMore 2021 The iPad Air 4 is a force to be reckoned with. Powered by Apple's latest A14 Bionic chip, the new minimal bezel design, support for the Apple Pencil 2, and a USB-C port, it very well may be the best iPad for a lot of people. Do you know what would make it even better? A great keyboard case. Our iPad Air 4 review mentions that it's finally powerful enough to be used as a laptop in some situations. A keyboard case gives you a better typing experience for writing emails, surfing the web, or working on documents.
+
+
+***
+![PS5 stock LIVE – AMAZON consoles to drop THIS MORNING & Argos next week](https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/amazon-4.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "PS5 stock LIVE – AMAZON consoles to drop THIS MORNING & Argos next week")
+
+
+[PS5 stock LIVE – AMAZON consoles to drop THIS MORNING & Argos next week](https://www.the-sun.com/lifestyle/tech/3141566/ps5-news-stock-uk-latest-amazon-smyths-playstation5-game/)
+
+
+> READY PLAYER ONE louis.allwood@thesun.co.uk13:58 ET, Jun 25 2021Updated: 13:58 ET, Jun 25 2021ARGOS UK has been tipped to drop a massive new batch of Playstation5 consoles next week - and Amazon could drop this morning.It comes after the much-sought console dropped at GAME and Very's UK online stores on Monday and Tuesday.A huge Playstation 5 restock has long been predicted and it seems like we could finally see a proper supply of consoles on the shelves this month.The PS5 was released six months ago to critical acclaim but for millions of gamers it has proven almost impossible to get hold of.
+
+
+***
+![I made a solver to help myself play Cryptid](https://external-preview.redd.it/jaSiVUkJATsjPTxoqALbB7vGNnOqBU1oXNUjvwwi-8Q.jpg?auto=webp&s=f4322fe3c4e5abd21e8a7237cacb68c4e2bd1d07 "I made a solver to help myself play Cryptid")
+
+
+[I made a solver to help myself play Cryptid](https://www.reddit.com/r/Python/comments/o7stgr/i_made_a_solver_to_help_myself_play_cryptid/)
+
+
+> BackgroundLast year my girlfriend introduced me to Cryptid boardgame - a game where you try to deduct the knowledge of other players. I loved it, and we tried to find ever better ways to solve the game. We soon migrated to using notebooks for keeping track of our information, and eventually ended up planning to write computer solvers to assist us in the deduction. Last month I finished a version of my solver and achieved a glorious victory against my girlfriend 🥳CryptidsolverCryptidsolver is made to assist in the deduction problems within the Cryptid boardgame.
+
+
