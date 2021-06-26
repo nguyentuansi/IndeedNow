@@ -31396,3 +31396,53 @@
 > Source: EverythingApplePro It might sound wild to some, but the idea that Apple is fast approaching the launch of an iPhone 13 is a problematic prospect for some. And it's not because they're worried about rumors of a 120Hz display, larger batteries, under-display Touch ID, or indeed any other feature. In fact, it seems a lot of people are genuinely concerned about the notion of 'iPhone 13' because of the number 13's unlucky connotations and superstition, as well as a genuine phobia. From one of our most popular stories this week: Anew report claims that 74% of people asked about the iPhone 13 name said that they didn't like it and that this year's iPhone should be called something else.
 
 
+***
+![This Week in Apps: Android apps on Windows 11, App Store Search Ads hit China, Apple argues against sideloading – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753 "This Week in Apps: Android apps on Windows 11, App Store Search Ads hit China, Apple argues against sideloading – TechCrunch")
+
+
+[This Week in Apps: Android apps on Windows 11, App Store Search Ads hit China, Apple argues against sideloading – TechCrunch](https://techcrunch.com/2021/06/26/this-week-in-apps-android-apps-on-windows-11-app-store-search-ads-hit-china-apple-argues-against-sideloading/)
+
+
+> Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consumer spend in 2020. Consumers last year also spent 3.5 trillion minutes using apps on Android devices alone. And in the U.S., app usage surged ahead of the time spent watching live TV. Currently, the average American watches 3.7 hours of live TV per day, but now spends four hours per day on their mobile devices.
+
+
+***
+![Make your ceiling fan smart with these HomeKit switches](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/03/lutron-fan-control.jpg "Make your ceiling fan smart with these HomeKit switches")
+
+
+[Make your ceiling fan smart with these HomeKit switches](https://www.imore.com/best-homekit-switches-ceiling-fans)
+
+
+> Best HomeKit switches for ceiling fans iMore 2021 HomeKit switches have been around for a while now, but did you know that you can use them to control your ceiling fan? Most simple on and off switches allow your fan to join in on the HomeKit accessories fun, and they are easy to install, just like a light switch. Some switches can adjust your fan's speed. We've gathered the best HomeKit switches for ceiling fans to take your smart home to the next level. Staff Favorite The Caseta Smart Fan Speed Control is the only HomeKit switch that can adjust your fan's speed.
+
+
+***
+![Two Guys Attempt To Recreate The Mini Bike Road Trip From 'Dumb And Dumber,' And Proceeded To Have The Time Of Their Lives](https://cdn.digg.com/wp-content/uploads/2021/06/26173444/Screen-Shot-2021-06-26-at-1.33.46-PM.jpg "Two Guys Attempt To Recreate The Mini Bike Road Trip From 'Dumb And Dumber,' And Proceeded To Have The Time Of Their Lives")
+
+
+[Two Guys Attempt To Recreate The Mini Bike Road Trip From 'Dumb And Dumber,' And Proceeded To Have The Time Of Their Lives](https://digg.com/video/two-guys-attempt-to-recreate-the-mini-bike-road-trip-from-dumb-and-dumber)
+
+
+> 'NEEDS TO BE REPAIRED IN A TIMELY FASHION' A consultant in 2018 urged the managers to repair cracked columns and crumbling concrete. The work was finally about to get underway when the building collapsed. Jean and Joe put together this Quonset hut on an extremely skinny lot in Minneapolis. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. I'M TALKIN' ABOUT A LITTLE PLACE CALLED ASPEN Using a street-legal replica minibike, two daredevils took a two-man road trip, going on a ~400 mile, 15,000 foot elevation gain excursion.
+
+
+***
+![Ratchet and Clank was brilliant but what's next for PS5?](https://cdn.mos.cms.futurecdn.net/CAj8sMbzv5Qk3cD77T4hV7-1200-80.jpg "Ratchet and Clank was brilliant but what's next for PS5?")
+
+
+[Ratchet and Clank was brilliant but what's next for PS5?](https://www.techradar.com/news/ratchet-and-clank-was-brilliant-but-whats-next-for-ps5)
+
+
+> (Image credit: Insomniac Games) With E3 2021 firmly in the rearview mirror, I recently finished Insomniac Games' sleek Ratchet and Clank: Rift Apart. It's a great game, one I can easily see myself replaying and a great new bar for the series to be held to. It's also left me wondering what's next for the PS5. Right now, Sony has three big titles currently announced from PlayStation Studios, including the next God of War game, widely referred to as (but not yet officially titled) God of War Ragnarok, alongside Polyphony Digital's Gran Turismo 7 and Guerrilla Games' Horizon Forbidden West.
+
+
+***
+![Is anyone else having issues on iOS with taking full page screenshots?](https://images.macrumors.com/social/?t=2302394&v=6 "Is anyone else having issues on iOS with taking full page screenshots?")
+
+
+[Is anyone else having issues on iOS with taking full page screenshots?](https://forums.macrumors.com/threads/is-anyone-else-having-issues-on-ios-with-taking-full-page-screenshots.2302394/)
+
+
+> Mar 10, 2008 1,172 74 Alaska I don't remember when it quit working (iOS only, iPadOS works fine) - but I'm on beta 14.7.x (latest) on both iPhone 12 Pro Max and iPad Pro 12.9'. I thought I remembered being able to take full webpage PDF screenshots on both; iPhone and iPad but the options is no longer avail on iOS. And I used the same site - requested desktop as well, nothing works to capture the scrolling screenshot as a whole vs just the display area. I passed my 11 Pro down to my son and same
+
+
