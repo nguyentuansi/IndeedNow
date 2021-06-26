@@ -31159,3 +31159,43 @@
 > Airtel has discontinued three prepaid plans and launched a new Rs 128 Smart Recharge pack. The Rs 179 and Rs 279 Airtel recharge plans, which offered life insurance benefits, have been removed from the official site. The news was first reported by OnlyTech. Read on to know more about the existing and old Airtel prepaid plans. Airtel discontinues Rs 279, Rs 179 prepaid plans The Rs 279 Airtel prepaid recharge plan used to offer truly unlimited calling benefits on any network along with 100 SMS per day.
 
 
+***
+![Tech-savvy Egypt targets TikTokers and digital dissidents  DW](https://static.dw.com/image/46860796_401.jpg "Tech-savvy Egypt targets TikTokers and digital dissidents  DW")
+
+
+[Tech-savvy Egypt targets TikTokers and digital dissidents  DW](https://www.dw.com/en/tech-savvy-egypt-targets-tiktokers-and-digital-dissidents/a-58050713)
+
+
+> In recent years, Egypt has become a thriving place for digital technology — as well as the Middle East's No. 1 internet censor.  "Communications and technology are the fastest-growing sectors of the Egyptian economy, with recent growth averaging about 16%," David Butter, analyst at the London-based think tank Chatham House, told DW. However, he said, there is an obvious contradiction between Egypt's "rapid development of the digital economy, such as the taxation system, fintech and health care, and the general policy of the state seeking to control all forms of discourse, with heavy-handed, often brutal, behavior from the security authorities and the judiciary.
+
+
+***
+![Amidst pandemic, technology ensured uninterrupted governance: Ajay Sawhney](https://bsmedia.business-standard.com/_media/bs/img/article/2021-02/12/full/1613115481-1595.png "Amidst pandemic, technology ensured uninterrupted governance: Ajay Sawhney")
+
+
+[Amidst pandemic, technology ensured uninterrupted governance: Ajay Sawhney](https://www.business-standard.com/article/technology/amidst-pandemic-technology-ensured-uninterrupted-governance-ajay-sawhney-121062600468_1.html)
+
+
+> Ajay Prakash Sawhney, Secretary, Ministry of Electronics & Information Technology, Government of India, said on Friday that Indian IT industry showcased its best potential and offered highly innovative solutions to ensure the continuation of governance with utmost efficiency during these highly unprecedented times. Addressing a webinar organized by the Public Affairs Forum of India (PAFI), Sawhney said, "Indian IT Industry has rapidly adjusted to the new environment and added that the Aarogya Setu has reinvented itself as Vaccine Passport and has the possibility to leverage wide reach to bring more health services and to become a citizen-facing front-end as National Digital Health Mission develops.
+
+
+***
+![Minecraft-related apps spreading adware or stealing social media credentials: Kaspersky](https://images.indianexpress.com/2021/06/smartphone-pixabay-1200.jpg "Minecraft-related apps spreading adware or stealing social media credentials: Kaspersky")
+
+
+[Minecraft-related apps spreading adware or stealing social media credentials: Kaspersky](https://indianexpress.com/article/technology/tech-news-technology/minecraft-related-apps-spreading-adware-or-stealing-social-media-credentials-kaspersky-7376793/)
+
+
+> Kaspersky experts have found new malicious apps that exploit the Minecraft game to further a fraudster's objectives. Minecraft is one of the popular video games for creating and breaking various kinds of blocks in three-dimensional worlds. And since it is a popular game, it is not surprising that it has attracted the attention of fraudsters. Earlier, Kaspersky researchers discovered more than 20 malicious apps on the app stores offering additional Minecraft features and they were later removed from official stores.
+
+
+***
+![Windows 11: What Microsoft CEO Satya Nadella has to say about Apple devices working with Windows](https://images.financialexpress.com/2021/05/Satya-Nadella.jpg "Windows 11: What Microsoft CEO Satya Nadella has to say about Apple devices working with Windows")
+
+
+[Windows 11: What Microsoft CEO Satya Nadella has to say about Apple devices working with Windows](https://www.financialexpress.com/industry/technology/windows-11-what-microsoft-ceo-satya-nadella-has-to-say-about-apple-devices-working-with-windows/2278855/)
+
+
+> By: FE Online | June 26, 2021 12:45 PMNadella also added in the interview that Windows 11 will not charge any fees from developers on its platform and will allow the developers to use a payment system of their own choice.Microsoft recently unveiled Windows 11 at an online event creating a buzz around several new exciting features. A notable feature in Windows 11 that has got major attention is its ability to run Android applications. In an interview with the Wall Street Journal, Microsoft CEO Satya Nadella said that he would love to have Apple devices including iPhones integrate with Windows 11.
+
+
