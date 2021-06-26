@@ -31062,3 +31062,53 @@
 > Here's the original blog post for greater detail. https://www.microsoft.com/security/blog/2021/06/25/windows-11-enables-security-by-design-from-the-chip-to-the-cloud/
 
 
+***
+![I am Palestinian. Here's how Israel silences us on social media](https://149346090.v2.pressablecdn.com/wp-content/uploads/2021/06/GettyImages-1233306589-1600x900.jpg "I am Palestinian. Here's how Israel silences us on social media")
+
+
+[I am Palestinian. Here's how Israel silences us on social media](https://restofworld.org/2021/palestine-social-media-silence/)
+
+
+> On June 6, I woke up to a notification on WhatsApp: Muna el-Kurd had been detained by Israeli police in Jerusalem. I watched the video of Muna being taken from her family's home as Israeli police told her parents that they would return 'every hour, every minute' until her twin brother, Mohammad, was detained too. For months, the 23-year-old el-Kurd twins had become the faces of Palestinian resistance in Sheikh Jarrah, broadcasting on Twitter and Instagram how they and seven other families refused to be forcibly expelled from their homes by Israeli settlers.
+
+
+***
+![A businessman was giving a speech in an auditorium. Were telling you how to bounce back in life? He was telling his story that when he was young, he started a startup. But due to some reason his business flopped. He also had a love life going on. But the girl also left due to business flop](https://external-preview.redd.it/Y5_4BucPS22KltKOpUR4eApSF358j_SvNpMVMq3cW1E.jpg?auto=webp&s=0f12f02c6104330db0c8e436366aaa45bb581cb3 "A businessman was giving a speech in an auditorium. Were telling you how to bounce back in life? He was telling his story that when he was young, he started a startup. But due to some reason his business flopped. He also had a love life going on. But the girl also left due to business flop")
+
+
+[A businessman was giving a speech in an auditorium. Were telling you how to bounce back in life? He was telling his story that when he was young, he started a startup. But due to some reason his business flopped. He also had a love life going on. But the girl also left due to business flop](https://www.reddit.com/r/programming/comments/o830dr/a_businessman_was_giving_a_speech_in_an/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![‘Dragon Man' skull may be new species, shaking up human family tree](https://external-preview.redd.it/aJt1XblUn4PTeWVbanX-dnN9aydYo3NViW5vktahqXI.jpg?auto=webp&s=7dc42b6504f8ec989bd83f858ea2fdcf27c0bd2c "‘Dragon Man' skull may be new species, shaking up human family tree")
+
+
+[‘Dragon Man' skull may be new species, shaking up human family tree](https://www.reddit.com/r/technology/comments/o82vax/dragon_man_skull_may_be_new_species_shaking_up/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![GPS cyberattack falsely placed UK warship near Russian naval base](https://external-preview.redd.it/xGvrSiWGaTI5GcKsfCB2Xtcq-PAxSGUjDpqmmD1okwo.jpg?auto=webp&s=3d1390a28f842c8cbc91fa19a478712d47199e0c "GPS cyberattack falsely placed UK warship near Russian naval base")
+
+
+[GPS cyberattack falsely placed UK warship near Russian naval base](https://www.reddit.com/r/technology/comments/o82uui/gps_cyberattack_falsely_placed_uk_warship_near/)
+
+
+> Wow, something like this could start a war
+
+
+***
+![Jayse](https://external-preview.redd.it/l8c8jJQP92uxca0AB3D3CtcipxDqwT6qbF3dWHvXRvg.jpg?auto=webp&s=1b4e2d89fb086233f7bd50e70d172d6fe6568d95 "Jayse")
+
+
+[Jayse](https://www.reddit.com/r/programming/comments/o82oxa/jayse_immutable_data_structure_for_json_in_net/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
