@@ -31015,3 +31015,50 @@
 > © Instagram / Finn Wolfhard By: Daniel White2021-06-26 03:10:35 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Read More: Finn Wolfhard JOINS Matt Watson's Minecraft Server #EpicSMP and Finn Wolfhard Stranger Things Season 4 Comment Rex Tilousi, former Havasupai chairman and uranium opponent, dies at 73. Artists Juan Manuel Carmona and Simón Malvaez honor LGBTQ+ community with new mural at the San Francisco LGBT Center. Jason Day leads Travelers, but Bubba Watson just 1 back despite snapping driver.
 
 
+***
+![Same or Different? The Question Flummoxes Neural Networks.](https://external-preview.redd.it/AVaXc8T0_rWwN7On2SMu-aRtF15jfO_ht7kScz5RZKo.jpg?auto=webp&s=62a318cec54110a8c821cf722245347136600148 "Same or Different? The Question Flummoxes Neural Networks.")
+
+
+[Same or Different? The Question Flummoxes Neural Networks.](https://www.reddit.com/r/programming/comments/o81oq5/same_or_different_the_question_flummoxes_neural/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Local 'Doggy Self-Serve Wash' Bubbly Paws Looks To Expand Nationally](https://mms.businesswire.com/media/20210625005511/en/887912/23/logowithtagline.jpg "Local 'Doggy Self-Serve Wash' Bubbly Paws Looks To Expand Nationally")
+
+
+[Local 'Doggy Self-Serve Wash' Bubbly Paws Looks To Expand Nationally](https://www.businesswire.com/news/home/20210625005511/en/Local-%E2%80%9CDoggy-Self-Serve-Wash%E2%80%9D-Bubbly-Paws-Looks-To-Expand-Nationally)
+
+
+> Bubbly Paws is the premier dog wash and grooming salon. We have everything customers need to spoil their dog and professional dog groomers on hand to make dogs look amazing! Bubbly Paws is now offering dog wash franchises nationwide! Bubbly Paws is the premier dog wash and grooming salon. We have everything customers need to spoil their dog and professional dog groomers on hand to make dogs look amazing! Bubbly Paws is now offering dog wash franchises nationwide! MINNEAPOLIS--(BUSINESS WIRE)--Bubbly Paws, a self-service dog wash and full service dog grooming salon, is gearing up for the launch of their franchise option.
+
+
+***
+[TRIPP, a meditation app for Oculus and PlayStation VR which induces psychedelic-like experiences, raises $11M Series A led by Vine Ventures and Mayfield (Lucas Matney/TechCrunch)](http://www.techmeme.com/210625/p21#a210625p21)
+
+
+> Lucas Matney / TechCrunch: TRIPP, a meditation app for Oculus and PlayStation VR which induces psychedelic-like experiences, raises $11M Series A led by Vine Ventures and Mayfield — As an increasing number of startups sell investors on mobile apps that help consumers prioritize well-being and mindfulness …
+
+
+***
+![X 🆚 Mini](https://images.macrumors.com/social/?t=2302322&v=6 "X 🆚 Mini")
+
+
+[X 🆚 Mini](https://forums.macrumors.com/threads/x-mini.2302322/)
+
+
+> Dec 10, 2020 285 265 Norway & Mexico Hey guys, Last night I decided to dig out my old iPhone X just to charge it and update the firmware. I immediately felt nostalgic holding it again. In my opinion it is the most gorgeous looking phone ever made! I never use cases because I want to fully enjoy my phones the way they were designed to look and feel. Besides, I'm always very careful with my (expensive) stuff, so the phone still looks brand new. While it was on the charger, I started playing around with the phone a little bit and compared it to my iPhone 12 mini.
+
+
+***
+![Microsoft explains why Windows 11 requires TPM 2.0](https://external-preview.redd.it/uVc108ifLUS4nzkZWCppdtHP6RyTCp0dQOfYcWXA7zU.jpg?auto=webp&s=228be2c7deb4f407f7d65555718652ecf4682972 "Microsoft explains why Windows 11 requires TPM 2.0")
+
+
+[Microsoft explains why Windows 11 requires TPM 2.0](https://www.reddit.com/r/technology/comments/o80za8/microsoft_explains_why_windows_11_requires_tpm_20/)
+
+
+> Here's the original blog post for greater detail. https://www.microsoft.com/security/blog/2021/06/25/windows-11-enables-security-by-design-from-the-chip-to-the-cloud/
+
+
