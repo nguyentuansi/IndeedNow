@@ -31296,3 +31296,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Engineer Warned Of 'Major Structural Damage' At Florida Condo Complex](https://static01.nyt.com/images/2021/06/26/world/26miami-mystery-promo/26miami-mystery-promo-facebookJumbo.jpg "Engineer Warned Of 'Major Structural Damage' At Florida Condo Complex")
+
+
+[Engineer Warned Of 'Major Structural Damage' At Florida Condo Complex](https://www.nytimes.com/2021/06/26/us/miami-building-collapse-investigation.html)
+
+
+> Continue reading the main storyA consultant in 2018 urged the managers to repair cracked columns and crumbling concrete. The work was finally about to get underway when the building collapsed.A structural engineer detailed a range of problems at the Champlain Towers South complex, including poor waterproofing at the base of the building.Credit...Gerald Herbert/Associated PressBy Mike Baker and Anjali SinghviJune 26, 2021Updated 8:14 a.m. ETThree years before the deadly collapse of the Champlain Towers South condominium complex near Miami, a consultant found alarming evidence of 'major structural damage' to the concrete slab below the pool deck and 'abundant' cracking and crumbling of the columns, beams and walls of the parking garage under the 13-story building.
+
+
+***
+![Watch Japanese Soccer Star Takefusa Kubo Score A Goal Between The Legs Of Four Different Players](https://cdn.digg.com/wp-content/uploads/2021/06/26134206/Screen-Shot-2021-06-26-at-9.41.54-AM.jpg "Watch Japanese Soccer Star Takefusa Kubo Score A Goal Between The Legs Of Four Different Players")
+
+
+[Watch Japanese Soccer Star Takefusa Kubo Score A Goal Between The Legs Of Four Different Players](https://digg.com/video/watch-japanese-soccer-star-takefusa-kubo-score-a-goal-between-the-legs-of-four-different-players)
+
+
+> 'NEEDS TO BE REPAIRED IN A TIMELY FASHION' A consultant in 2018 urged the managers to repair cracked columns and crumbling concrete. The work was finally about to get underway when the building collapsed. LET'S SEE THAT AGAIN IN SLOW MO Real Madrid wunderkind Takefusa Kubo nutmegged four Jamaica players at a match earlier this month. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up.
+
+
+***
+![Live Sudoku Solver using Backtracking & PyQt](https://external-preview.redd.it/h7tpLm6C1oYJ1NoPAJZXWTchb2r0sqTtA5hc-daf5Vs.jpg?auto=webp&s=ddb68cc95195649617a03823e291f2ce1e4a17e9 "Live Sudoku Solver using Backtracking & PyQt")
+
+
+[Live Sudoku Solver using Backtracking & PyQt](https://www.reddit.com/r/Python/comments/o8aw6o/live_sudoku_solver_using_backtracking_pyqt/)
+
+
+> I coded a small utility for Sudoku Solver which solves 9 x 9 SUDOKU boxes using the Backtracking algorithm and display each move on the layout window live using PYQT.Code solves the Sudoku board row-wise. It start solving from index (0, 0) till (n-1, n-1). Code searches for the empty cells (denoted by 0) and finds the best possible fit/number (from 1 to 9) for that cell without violating any constraints.The intent of showing each mode live - One can learn how backtracking works !!https://github.com/MCodez/Live-Sudoku-Solver-using-PyQt5Suggestions are welcomed.
+
+
+***
+![Your Apple TV will love these accessories](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/apple-tv-4k-review-1.jpg "Your Apple TV will love these accessories")
+
+
+[Your Apple TV will love these accessories](https://www.imore.com/best-accessories-apple-tv)
+
+
+> Best Apple TV accessories iMore 2021 There's no denying Apple TV is a terrific device to have in your home. To enhance your home entertainment experience, consider one or more of the best Apple TV accessories. The peripherals presented below are as classy as the set-top box itself. Whether you're listening to tunes, playing high-graphics video games, or watching your favorite movie in 4K, these are the best Apple TV accessories. Staff pick If you're a gamer, you need the Nimbus. The perfect controller offers all the standard gaming buttons and a comfortable grip.
+
+
+***
+![Pandemic Spurs Companies to Implement Master Data Management Solutions](https://mms.businesswire.com/media/20210626005014/en/887965/23/Stibo_Logo_Skagerrak_RGB.jpg "Pandemic Spurs Companies to Implement Master Data Management Solutions")
+
+
+[Pandemic Spurs Companies to Implement Master Data Management Solutions](https://www.businesswire.com/news/home/20210626005014/en/Pandemic-Spurs-Companies-to-Implement-Master-Data-Management-Solutions)
+
+
+> June 26, 2021 09:25 AM Eastern Daylight Time AARHUS, Denmark--(BUSINESS WIRE)--Stibo Systems, a global leader in Master Data Management (MDM) solutions, reports to have experienced the pandemic as a business accelerator. 'In the course of the pandemic, more and more companies have realized the importance of organized and accurate master data for setting up business and sales processes online in a professional manner. Thus, they have invested heavily in MDM,' says Jesper Ejlersen, CEO of Stibo Systems.
+
+
