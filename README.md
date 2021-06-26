@@ -31199,3 +31199,50 @@
 > By: FE Online | June 26, 2021 12:45 PMNadella also added in the interview that Windows 11 will not charge any fees from developers on its platform and will allow the developers to use a payment system of their own choice.Microsoft recently unveiled Windows 11 at an online event creating a buzz around several new exciting features. A notable feature in Windows 11 that has got major attention is its ability to run Android applications. In an interview with the Wall Street Journal, Microsoft CEO Satya Nadella said that he would love to have Apple devices including iPhones integrate with Windows 11.
 
 
+***
+[分道揚鑣，Apple Mac 將無法支援最新微軟 Windows 11 作業系統](https://technews.tw/2021/06/26/windows11-will-not-support-apple-macs/)
+
+
+> 微軟（Microsoft）在週日發表了全新的作業系統 Windows 11，是自 2005 年問世的 Wind […]
+
+
+***
+![4 biggest Samsung Galaxy Watch 4 leaks we've seen so far](https://cdn.mos.cms.futurecdn.net/4qqpLbW5cHqR4gCNN5FSXM-1200-80.jpg "4 biggest Samsung Galaxy Watch 4 leaks we've seen so far")
+
+
+[4 biggest Samsung Galaxy Watch 4 leaks we've seen so far](https://www.techradar.com/news/4-biggest-samsung-galaxy-watch-4-leaks-weve-seen-so-far)
+
+
+> Samsung makes some of the best smartwatches available, and the Samsung Galaxy Watch 4 could be not just its best yet, but also the most exciting, with an assortment of huge upgrades rumored for the wearable.Nothing is certain yet, but some of the most promising rumored changes look very likely to happen, so this is one watch that could be worth waiting for.Below we've detailed the four biggest, most interesting and most exciting leaks surrounding the Samsung Galaxy Watch 4 so far, and assessed how likely they are to happen.
+
+
+***
+![Should I buy a projector screen?](https://cdn.mos.cms.futurecdn.net/apzQkYD5KGbCVE9qLtBkN6-1200-80.jpg "Should I buy a projector screen?")
+
+
+[Should I buy a projector screen?](https://www.techradar.com/news/should-i-buy-a-projector-screen)
+
+
+> Why buy a projector screen? A white wall will certainly do the job for most beamers, but if you want to get the most out of your projector you should invest in a dedicated screen. Even a simple fixed white vinyl number will pay dividends, and won't break the bank – and while electric screens can be kept out of sight, acoustically transparent models help to hide speakers too, while ambient light rejecting material can mitigate bright rooms.If you're new to the world of projectors, though, you may not know where to start with buying a projector screen, and how urgent a purchase it really is.
+
+
+***
+![How to watch Lomachenko vs Nakatani online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/lomachenko-nakatani-espn.jpg "How to watch Lomachenko vs Nakatani online from anywhere")
+
+
+[How to watch Lomachenko vs Nakatani online from anywhere](https://www.androidcentral.com/lomachenko-vs-nakatani-live-stream-how-watch-lightweight-battle-right-now)
+
+
+> Former lightweight champion Vasiliy "The Matrix" Lomachenko is making his return to the ring to take on Masayoshi Nakatani in a twelve-round lightweight bout that will be the main event of a Top Rank Boxing card and we have all the details on how you can watch Lomachenko vs Nakatani on TV or online. Source: ESPN Future Hall of Famer and two-time Olympic gold medalist Lomachenko suffered a massive defeat at the hands of Teofimo Lopez last October. In addition to losing his WBA, WBO and The Ring lightweight titles by unanimous decision, he also had to undergo shoulder surgery after the fight.
+
+
+***
+![Sky-high California rents persuaded a tech exec to live in her $25K secondhand van and work remotely from national parks. Take a look at her new nomadic life.](https://i.insider.com/60d4b41bdf1db80018f3a04f?width=1200&format=jpeg "Sky-high California rents persuaded a tech exec to live in her $25K secondhand van and work remotely from national parks. Take a look at her new nomadic life.")
+
+
+[Sky-high California rents persuaded a tech exec to live in her $25K secondhand van and work remotely from national parks. Take a look at her new nomadic life.](https://www.businessinsider.com/tech-worker-ditches-sky-high-rents-for-a-25k-van-2021-6)
+
+
+> A 33-year-old tech worker who ditched sky-high San Francisco rents for a life living and working from her second-hand van told Insider that she has only just started her cross-country adventure. Erica Horn, an account manager for Mapbox, a platform that helps developers build maps, decided to kit out a used two-year-old $25,000 Mercedes Sprinter during the first wave of the COVID-19 pandemic last spring.  Horn's van includes a bed, couch, bathroom, and kitchen. Erica Horn In July 2020, Horn took out a private loan to buy the van, which had clocked up 100,000 miles, from a local bakery.
+
+
