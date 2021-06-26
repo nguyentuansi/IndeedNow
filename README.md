@@ -31490,3 +31490,50 @@
 > New York Times: Katie Haun, a co-chair of a16z's crypto fund, talks about the geopolitics of blockchain, risk, regulation, outlook for the crypto industry, and the fund's focus — Katie Haun, a co-chair of Andreessen Horowitz's new $2.2 billion crypto fund, is betting that the blockchain will be as big as the internet.
 
 
+***
+![Sentiment Analysis of r/nfl live-streamed comments](https://external-preview.redd.it/NqPWlZeti6xGwiz_hZDJdKjPBWGi6lagZ0_45um6Iwo.jpg?auto=webp&s=b56d2047020871cede0db11dda49003fa427c362 "Sentiment Analysis of r/nfl live-streamed comments")
+
+
+[Sentiment Analysis of r/nfl live-streamed comments](https://www.reddit.com/r/Python/comments/o8jwy0/sentiment_analysis_of_rnfl_livestreamed_comments/)
+
+
+> https://github.com/jftuga/nfl_sentiment_analysisThis program uses the Reddit API to receive r/nfl comments in real time. It then performs sentiment analysis on each user comment. Results are then emitted from the server back to the web browser via the socket.io JS / Python library. A Reddit API account is needed in order to fetch the user comments.This is just an experiment to learn more about:
+
+
+***
+![Best cheap VPN 2021](https://www.cnet.com/a/img/nqNjv936DX-S6IRgIFrZo7Kc-5A=/1200x630/2020/04/27/92786fee-5018-4c2a-b05a-999103238259/vpn-online-security-hackers-privacy-7534.jpg "Best cheap VPN 2021")
+
+
+[Best cheap VPN 2021](https://www.cnet.com/news/best-cheap-vpn/)
+
+
+> For a lot of us, working remotely is here to stay -- and that means using a virtual private network to secure your online information is more important than ever. But a paid VPN can add up each month, and a free VPN service isn't likely to give you the level of security you need. The good news is that it's now possible to find a cheap VPN that doesn't compromise on reliability and performance. Several bargain VPNs are less than half the cost of premium VPN services, but they still offer solid security, a fast connection, and a multitude of features.
+
+
+***
+![PS5 restock update: Best Buy, Target and GameStop – when PS5 will be on sale next](https://cdn.mos.cms.futurecdn.net/fVgAeTMmXsi2fwodzTTsoa-1200-80.jpg "PS5 restock update: Best Buy, Target and GameStop – when PS5 will be on sale next")
+
+
+[PS5 restock update: Best Buy, Target and GameStop – when PS5 will be on sale next](https://www.techradar.com/news/ps5-restock-dates-updated-best-buy-target-gamestop-walmart)
+
+
+> PS5 restock update: If you missed the PS5 restock this week at Best Buy, Costco and Amazon, or last week at Walmart, Target, Sony Direct and GameStop, then you're clearly not following our 24/7 PS5 restock Twitter tracker Matt Swider, who will send you an alert when the PlayStation 5 console is in stock – if you follow his account and turn on notifications.Trust and credibility: Matt Swider has helped over 50,000 people buy a next-gen console in recent weeks from stores in the US when PS5 restock opportunities last just a few minutes.
+
+
+***
+[SolarWinds hackers breach new victims, including a Microsoft support agent](https://www.reddit.com/r/technology/comments/o8jdua/solarwinds_hackers_breach_new_victims_including_a/)
+
+
+> submitted by /u/badger707_XXL [link] [comments]
+
+
+***
+![Google tests new feature that will warn if your search doesn't have reliable results yet](https://helios-i.mashable.com/imagery/articles/05rWsfszu3D4KL2EUiXTzfl/hero-image.fill.size_1200x675.png "Google tests new feature that will warn if your search doesn't have reliable results yet")
+
+
+[Google tests new feature that will warn if your search doesn't have reliable results yet](https://mashable.com/article/google-search-results-changing-quickly-check-later-reliable-sources-warning)
+
+
+> In one of Silicon Valley's latest attempts to tackle our online misinformation crisis, Google announced a new feature that warns U.S. users about trending topics that don't have reliable search results yet.The prompt cautions users that, "it looks like these results are changing quickly," further explaining that "if this topic is new, it can sometimes take time for results to be added by reliable sources," according to an image on Google's announcement published on Friday.The tool is designed to detect searches on topics that are "rapidly evolving," like breaking news or other subjects garnering a surge of interest, that "a range of sources" have not weighed in on yet.
+
+
