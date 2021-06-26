@@ -31112,3 +31112,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[New research: estimates of Internet's energy consumption are exaggerated and throttling data consumption like lowering Netflix resolution does not yield much (Steve Lohr/New York Times)](http://www.techmeme.com/210626/p4#a210626p4)
+
+
+> Steve Lohr / New York Times: New research: estimates of Internet's energy consumption are exaggerated and throttling data consumption like lowering Netflix resolution does not yield much — New research by two leading scientists says some dire warnings of environmental damage from technology are overstated.
+
+
+***
+![Panasonic sells its whole share in Tesla](https://techstory.in/wp-content/uploads/2017/01/panasonic-tesla-partnership.jpg "Panasonic sells its whole share in Tesla")
+
+
+[Panasonic sells its whole share in Tesla](https://techstory.in/panasonic-sells-its-whole-share-in-tesla/)
+
+
+> Panasonic has sold its entire share in Tesla, the electric vehicle manufacturer, for $3.6 billion. As of March 2020, the Japanese electronics giant, which also owns a battery facility alongside Tesla, has $730 million in Tesla stock. Panasonic, according to a filing, had reduced this sum to zero by March 2021. Tesla's stock value has grown five-fold in the year since Panasonic sold its interest in the electric vehicle company.Panasonic and TeslaPanasonic is one of Tesla's most important battery suppliers.
+
+
+***
+![These Typefaces Are Truly Puzzling](https://external-preview.redd.it/rbiVeX9mgz-pN_KLGPOqK_L0Q0ivp_LrwprW5exnUUw.jpg?auto=webp&s=6097bcbe255dbee5ba7d212fc698d466ac313f2b "These Typefaces Are Truly Puzzling")
+
+
+[These Typefaces Are Truly Puzzling](https://www.reddit.com/r/programming/comments/o84ste/these_typefaces_are_truly_puzzling/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Amazon Buys Encrypted Messaging App Wickr for an Undisclosed Amount](https://i.gadgets360cdn.com/large/amazon_reuters_full_1561527266452.JPG "Amazon Buys Encrypted Messaging App Wickr for an Undisclosed Amount")
+
+
+[Amazon Buys Encrypted Messaging App Wickr for an Undisclosed Amount](https://gadgets.ndtv.com/internet/news/amazon-aws-wickr-buy-encrypted-messaging-app-acquisition-apple-imessage-signal-2472797)
+
+
+> Amazon said Friday it was acquiring the encrypted messaging app Wickr which offers secure communications for businesses, government agencies, and individuals. Terms of the deal were not disclosed.Amazon said in a statement it would incorporate Wickr in its Amazon Web Services (AWS) division which offers cloud computing and other services.AWS will continue to offer Wickr services including end-to-end encrypted communications which meet certain regulatory requirements."The need for this type of secure communications is accelerating," said AWS vice president Stephen Schmidt"With the move to hybrid work environments, due in part to the COVID-19 pandemic, enterprises and government agencies have a growing desire to protect their communications across many remote locations.
+
+
+***
+![Airtel discontinues Rs 179, Rs 279 and Rs 45 prepaid recharge plans: Check alternatives](https://images.indianexpress.com/2021/05/bharti_airtel_reuters-1200.jpg "Airtel discontinues Rs 179, Rs 279 and Rs 45 prepaid recharge plans: Check alternatives")
+
+
+[Airtel discontinues Rs 179, Rs 279 and Rs 45 prepaid recharge plans: Check alternatives](https://indianexpress.com/article/technology/techook/airtel-discontinues-rs-179-rs-279-and-rs-45-prepaid-recharge-plans-launches-new-rs-128-pack-7376618/)
+
+
+> Airtel has discontinued three prepaid plans and launched a new Rs 128 Smart Recharge pack. The Rs 179 and Rs 279 Airtel recharge plans, which offered life insurance benefits, have been removed from the official site. The news was first reported by OnlyTech. Read on to know more about the existing and old Airtel prepaid plans. Airtel discontinues Rs 279, Rs 179 prepaid plans The Rs 279 Airtel prepaid recharge plan used to offer truly unlimited calling benefits on any network along with 100 SMS per day.
+
+
