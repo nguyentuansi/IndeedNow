@@ -31246,3 +31246,53 @@
 > A 33-year-old tech worker who ditched sky-high San Francisco rents for a life living and working from her second-hand van told Insider that she has only just started her cross-country adventure. Erica Horn, an account manager for Mapbox, a platform that helps developers build maps, decided to kit out a used two-year-old $25,000 Mercedes Sprinter during the first wave of the COVID-19 pandemic last spring.  Horn's van includes a bed, couch, bathroom, and kitchen. Erica Horn In July 2020, Horn took out a private loan to buy the van, which had clocked up 100,000 miles, from a local bakery.
 
 
+***
+![A $26 Billion Plan to Save the Houston Area From Rising Seas](https://media.wired.com/photos/60d61733e801084848fb04f2/191:100/w_1280,c_limit/Science_climatedesk-82872869.jpg "A $26 Billion Plan to Save the Houston Area From Rising Seas")
+
+
+[A $26 Billion Plan to Save the Houston Area From Rising Seas](https://www.wired.com/story/a-dollar26-billion-plan-to-save-the-houston-area-from-rising-seas/)
+
+
+> This story originally appeared on Undark and is part of the Climate Desk collaboration.When Hurricane Ike made landfall in 2008, Bill Merrell took shelter on the second floor of a historic brick building in downtown Galveston, Texas, along with his wife, their daughter, their grandson, and two Chihuahuas. Sustained winds of 110 mph lashed the building. Seawater flooded the ground floor to a depth of over 8 feet. Once, in the night, Merrell caught glimpses of a near-full moon and realized they had entered the hurricane's eye.
+
+
+***
+![Wrote a brief discussion on Imperative, Declarative and DSL programming paradigms. Also touching on how to decompose your codes in more readable and manageable manner.](https://external-preview.redd.it/jMrDM_iP0w_6j7U70Ef67rQjSm9NhFbpxv8p769U9is.jpg?auto=webp&s=8e0d34337cc5f2e05366441673d815186b53a8b4 "Wrote a brief discussion on Imperative, Declarative and DSL programming paradigms. Also touching on how to decompose your codes in more readable and manageable manner.")
+
+
+[Wrote a brief discussion on Imperative, Declarative and DSL programming paradigms. Also touching on how to decompose your codes in more readable and manageable manner.](https://www.reddit.com/r/programming/comments/o89f0d/wrote_a_brief_discussion_on_imperative/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Tecno Phantom X with curved display, MediaTek Helio G95 SoC launched: Specifications and features](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202106/screenshot_2021-06-26_at_5.19._1200x768-original.png "Tecno Phantom X with curved display, MediaTek Helio G95 SoC launched: Specifications and features")
+
+
+[Tecno Phantom X with curved display, MediaTek Helio G95 SoC launched: Specifications and features](https://www.indiatoday.in/technology/news/story/tecno-phantom-x-with-curved-display-mediatek-helio-g95-soc-launched-specifications-and-features-1819751-2021-06-26)
+
+
+> Ankita Chakravarti New Delhi, Jun 26, 2021, Updated Jun 26, 2021, 5:25 PM IST Story highlights Techno has announced its new flagship device called Tecno Phantom X. The smartphone comes with a curved display and MediaTek Hello G95 SoC. Tecno has not revealed the price of the smartphone yet, but it is expected to do so in the coming weeks. Tecno has launched a new smartphone in the market. Techno has announced its new flagship device called Tecno Phantom X. The smartphone comes with a curved display and MediaTek Hello G95 SoC.
+
+
+***
+![JioPhone Next: What Airtel had to say about Jio's first 4G smartphone set to launch on September 10](https://images.financialexpress.com/2021/06/reliance-jio-next.png "JioPhone Next: What Airtel had to say about Jio's first 4G smartphone set to launch on September 10")
+
+
+[JioPhone Next: What Airtel had to say about Jio's first 4G smartphone set to launch on September 10](https://www.financialexpress.com/industry/technology/jiophone-next-what-airtel-had-to-say-about-jios-first-4g-smartphone-set-to-launch-on-september-10/2278973/)
+
+
+> By: FE Online | June 26, 2021 5:17 PMThe JioPhone Next will be launched in India on September 10.A day after Mukesh Ambani-led Reliance Industries Limited announced the JioPhone Next, an entry-level 4G smartphone in partnership with Google, arch-rival and telecom operator Airtel formally welcomed Reliance Jio's announcement. The company in a statement supported the initiative of bringing a low-cost smartphone. The JioPhone Next will be launched in India on September 10.Calling the initiative ‘complementing' to their strategy of focusing on quality customers, Airtel said that as entry-level smartphone users go up the ladder they shift their preference to the Airtel network.
+
+
+***
+![A well-meaning feature leaves millions of Dell PCs vulnerable — Firmware security tool flaws affect as many as 30m desktops, laptops, and tablets.](https://external-preview.redd.it/zWlejzaP1fcrvl8ZcvLmVKuHSZZkwGF753Tqp7sa6ek.jpg?auto=webp&s=4a8d67d568c845aa300e79318ea0670592935d79 "A well-meaning feature leaves millions of Dell PCs vulnerable — Firmware security tool flaws affect as many as 30m desktops, laptops, and tablets.")
+
+
+[A well-meaning feature leaves millions of Dell PCs vulnerable — Firmware security tool flaws affect as many as 30m desktops, laptops, and tablets.](https://www.reddit.com/r/technology/comments/o89876/a_wellmeaning_feature_leaves_millions_of_dell_pcs/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
