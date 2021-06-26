@@ -31346,3 +31346,53 @@
 > June 26, 2021 09:25 AM Eastern Daylight Time AARHUS, Denmark--(BUSINESS WIRE)--Stibo Systems, a global leader in Master Data Management (MDM) solutions, reports to have experienced the pandemic as a business accelerator. 'In the course of the pandemic, more and more companies have realized the importance of organized and accurate master data for setting up business and sales processes online in a professional manner. Thus, they have invested heavily in MDM,' says Jesper Ejlersen, CEO of Stibo Systems.
 
 
+***
+![Virgin Galactic cleared to fly space tourists on SpaceShipTwo](https://icdn.digitaltrends.com/image/digitaltrends/richard-branson-welcomes-vss-unity-home-from-second-supersonic-f.jpg "Virgin Galactic cleared to fly space tourists on SpaceShipTwo")
+
+
+[Virgin Galactic cleared to fly space tourists on SpaceShipTwo](https://www.digitaltrends.com/news/virgin-galactic-space-tourism-faa-cleared/)
+
+
+> VSS Unity glides home after its second supersonic flight in 2018 Virgin Galactic The age of space tourism is almost here. This week, Virgin Galactic was cleared to fly not only employees but also paying customers, on its suborbital spaceplane, the SpaceShipTwo. 'Virgin Galactic today announced that the Federal Aviation Administration (FAA) updated the Company's existing commercial space transportation operator license to allow the spaceline to fly customers to space,' the company said in a statement.
+
+
+***
+![Amazon's Message to Delivery Drivers: 'Endorphins Are Your Friend'](https://media.breitbart.com/media/2019/07/Jeff-Bezos-Gloats.png "Amazon's Message to Delivery Drivers: 'Endorphins Are Your Friend'")
+
+
+[Amazon's Message to Delivery Drivers: 'Endorphins Are Your Friend'](https://www.breitbart.com/tech/2021/06/26/amazons-message-to-delivery-drivers-endorphins-are-your-friend/)
+
+
+> Amazon's Prime Day sale has ended but many delivery drivers are still working extended hours to deliver packages. Before its major annual sale, the internet giant gave drivers tips to 'keep in top shape,' and assured them that 'endorphins are your friend.' Motherboard reports that although Amazon's signature Prime Day sales event has finished, many of the orders placed during the sale are still being delivered. In the UK, Amazon gave delivery drivers a set of five tips for 'keeping in top shape' while delivering Prime Day purchases.
+
+
+***
+![T-Mobile Customer Service: How To Call, Chat, And More](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/06/t-mobile-customer-service-team-experts-hero.jpg "T-Mobile Customer Service: How To Call, Chat, And More")
+
+
+[T-Mobile Customer Service: How To Call, Chat, And More](https://screenrant.com/t-mobile-customer-service-call-chat-how/)
+
+
+> Need to contact T-Mobile for a billing, technical, or other question? The carrier makes it easy to call, chat, and schedule a future phone call. Having to contact customer service for any large company can be a daunting task, but in the case of T-Mobile, the Un-Carrier has tried to make its customer service experience as seamless as possible. Whether people have questions about their smartphones, data usage, billing, etc., T-Mobile makes it surprisingly easy to get ahold of someone in a quick and painless manner.
+
+
+***
+![How to watch Italy vs Austria: Live stream Euro 2020 for FREE online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/euro-2020.jpg "How to watch Italy vs Austria: Live stream Euro 2020 for FREE online")
+
+
+[How to watch Italy vs Austria: Live stream Euro 2020 for FREE online](https://www.androidcentral.com/italy-vs-austria-live-stream-how-watch-euro-2020-match-free-online-anywhere)
+
+
+> Roberto Mancini's high-flying Italian side will be looking to extend their 30-game unbeaten run as they take on an Austrian side making their first appearance in the European Championships' knockout stages. Read on for full details on how to get an Italy vs Austria live stream, no matter where you are in the world with our guide below. Source: UEFA Having missed out on qualification for the 2018 World Cup, Italy's resurgence may have gone under the radar somewhat, but their sparkling performances in the group phase of this tournament has led many pundits to now place them as favorites to win Euro 2020.
+
+
+***
+![Poll: How do you feel about the name 'iPhone 13'?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/iphone-13-bronze2.jpg "Poll: How do you feel about the name 'iPhone 13'?")
+
+
+[Poll: How do you feel about the name 'iPhone 13'?](https://www.imore.com/poll-how-do-you-feel-about-name-iphone-13)
+
+
+> Source: EverythingApplePro It might sound wild to some, but the idea that Apple is fast approaching the launch of an iPhone 13 is a problematic prospect for some. And it's not because they're worried about rumors of a 120Hz display, larger batteries, under-display Touch ID, or indeed any other feature. In fact, it seems a lot of people are genuinely concerned about the notion of 'iPhone 13' because of the number 13's unlucky connotations and superstition, as well as a genuine phobia. From one of our most popular stories this week: Anew report claims that 74% of people asked about the iPhone 13 name said that they didn't like it and that this year's iPhone should be called something else.
+
+
