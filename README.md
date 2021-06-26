@@ -31446,3 +31446,47 @@
 > Mar 10, 2008 1,172 74 Alaska I don't remember when it quit working (iOS only, iPadOS works fine) - but I'm on beta 14.7.x (latest) on both iPhone 12 Pro Max and iPad Pro 12.9'. I thought I remembered being able to take full webpage PDF screenshots on both; iPhone and iPad but the options is no longer avail on iOS. And I used the same site - requested desktop as well, nothing works to capture the scrolling screenshot as a whole vs just the display area. I passed my 11 Pro down to my son and same
 
 
+***
+![These are the best Nintendo Switch games for $5 or less](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/03/nintendo-switch-eshop-hero.jpg "These are the best Nintendo Switch games for $5 or less")
+
+
+[These are the best Nintendo Switch games for $5 or less](https://www.imore.com/best-nintendo-switch-games-5-or-less)
+
+
+> If you're looking for the best Nintendo Switch games under $5, Nintendo has some games just for you. These are some of the best games I found on its list that you're sure to get your money out of. Source: Kemco This hilarious escape game follows a young kid whose mom has taken away his gaming system. You have to go through each level, which is marked by days, finding ways to get your console back. This is a great game that most people can relate to. Mom keeps taking your game away! Can you find where she put it this time and use your escaping skills to outmatch her? Source: Naps Team Maria the Witch, is a beautiful side-scrolling game where you maneuver through objects to go onto the next level.
+
+
+***
+![Zero: A fast and high performance Python microservice framework (WIP)](https://external-preview.redd.it/J3Kv8j6fy9vMeKcNoBcWFAT8WXfO7R0O7xZ37v8xf2E.jpg?auto=webp&s=2edba75ac11766a5b5ac99d09b12c8c6bd9f4658 "Zero: A fast and high performance Python microservice framework (WIP)")
+
+
+[Zero: A fast and high performance Python microservice framework (WIP)](https://www.reddit.com/r/Python/comments/o8hx4q/zero_a_fast_and_high_performance_python/)
+
+
+> TLDR; https://github.com/Ananto30/zeroHi good people,I am recently working on the concept of creating a framework for Python microservices. We usually use REST APIs for inter-service communication. But if we use Python for the whole ecosystem, we can leverage the option of making things much more simpler.So I came up with a concept of using the messaging pattern for inter-service communication and call RPC to reduce the overhead of HTTP. I used Zeromq under the hood and made this framework to easily communicate with other services.
+
+
+***
+[Reflections on software performance](https://www.reddit.com/r/programming/comments/o8hr8z/reflections_on_software_performance/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Here's What's in the Six Antitrust Bills That Could Finally Break Up Big Tech](https://external-preview.redd.it/h0NUD0iPW1HymIM0O3r4rCFdLWFdjybj_D4LFeVupwQ.jpg?auto=webp&s=5c3645ae44a6d9fd2974d07d9e9c2a054ea44148 "Here's What's in the Six Antitrust Bills That Could Finally Break Up Big Tech")
+
+
+[Here's What's in the Six Antitrust Bills That Could Finally Break Up Big Tech](https://www.reddit.com/r/technology/comments/o8hmdp/heres_whats_in_the_six_antitrust_bills_that_could/)
+
+
+> There are mountains of reasons. The first one is the monopolization of services and their ability to quash any and all competition.From the article:In a nutshell, this bill is meant to bar major tech companies from preferencing their own products over competitors that use their platforms. This would take aim at Amazon, which has been caught multiple times sneaking products from its roughly 100 private-label brands to the top of Amazon's search results, while also scooping up data from third-party sellers to create those private labels in the first place.
+
+
+***
+[Katie Haun, a co-chair of a16z's crypto fund, talks about the geopolitics of blockchain, risk, regulation, outlook for the crypto industry, and the fund's focus (New York Times)](http://www.techmeme.com/210626/p9#a210626p9)
+
+
+> New York Times: Katie Haun, a co-chair of a16z's crypto fund, talks about the geopolitics of blockchain, risk, regulation, outlook for the crypto industry, and the fund's focus — Katie Haun, a co-chair of Andreessen Horowitz's new $2.2 billion crypto fund, is betting that the blockchain will be as big as the internet.
+
+
