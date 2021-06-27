@@ -31753,3 +31753,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![iOS: using App Store Connect API with fastlane](https://external-preview.redd.it/HnhWOzoTyIlvZ5yt65myQ89sy5pHn4XxEPgNVaDDtHI.jpg?auto=webp&s=7574f5bba1feb72061c4fd0b11c98c7351d73bf9 "iOS: using App Store Connect API with fastlane")
+
+
+[iOS: using App Store Connect API with fastlane](https://www.reddit.com/r/programming/comments/o8u1l4/ios_using_app_store_connect_api_with_fastlane/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Seeing through JSX to understand React component Types](https://external-preview.redd.it/d7_FsPwY4YsgBPNXKs3YZ5yodsB6ZS4VBQUyJq1Cyq0.jpg?auto=webp&s=721487934afbdedda7419a92fc101149453cb0ec "Seeing through JSX to understand React component Types")
+
+
+[Seeing through JSX to understand React component Types](https://www.reddit.com/r/programming/comments/o8tv4o/seeing_through_jsx_to_understand_react_component/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![APUs explained: What are they and why they're great for budget gaming PCs](https://images.indianexpress.com/2021/06/Gaming-Pixabay.jpg "APUs explained: What are they and why they're great for budget gaming PCs")
+
+
+[APUs explained: What are they and why they're great for budget gaming PCs](https://indianexpress.com/article/technology/tech-news-technology/apus-explained-what-are-they-and-why-theyre-great-for-budget-gaming-pcs-7378068/)
+
+
+> As a global shortage of GPUs continues to make them very expensive and outside the reach of most gamers looking to build a gaming PC on a budget, APUs are gradually becoming more popular than ever. But what are APUs? How are they different from CPUs? Why are they so popular amongst budget gamers? Read on to find out. APUs: What are they? An APU, or Accelerated Processing Unit is the term given to a series of processors that basically act as a CPU (Central Processing Unit) and a GPU (Graphics Processing Unit) on a single chip die.
+
+
+***
+![Jailer: a truly relational database client.](https://external-preview.redd.it/mzleY3ar27qycmI4X_ei1m1Peo7buSdCRaMqSgZxiOo.jpg?auto=webp&s=01439010dd46390a5079270977ccddcf98a160ed "Jailer: a truly relational database client.")
+
+
+[Jailer: a truly relational database client.](https://www.reddit.com/r/programming/comments/o8tq6l/jailer_a_truly_relational_database_client/)
+
+
+> View Entire Discussion (1 Comments)
+
+
+***
+![Microsoft admits to signing Chinese rootkit kernel driver](https://external-preview.redd.it/B_iSchdM1ip_3pLa3PkVlJ5nouiMnezyOIWHXvY9JVo.jpg?auto=webp&s=02f72d31f731c0b0c6aabcceeb239949782df7b9 "Microsoft admits to signing Chinese rootkit kernel driver")
+
+
+[Microsoft admits to signing Chinese rootkit kernel driver](https://www.reddit.com/r/technology/comments/o8togn/microsoft_admits_to_signing_chinese_rootkit/)
+
+
+> I'm no MS fanboy, but the fact that this was caught by someone in the community means that the system is working.
+
+
