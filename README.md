@@ -31625,3 +31625,50 @@
 > John Paul Hampstead / FreightWaves: ShipHero, an e-commerce software and fulfillment provider, raises $50M from Riverwood Capital to expand its fulfillment network, at a $225M post-money valuation — ShipHero's SaaS and e-comm 3PL businesses complement each other.
 
 
+***
+![Tech Q&A: Software makers can alter your programs without warning](https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg "Tech Q&A: Software makers can alter your programs without warning")
+
+
+[Tech Q&A: Software makers can alter your programs without warning](https://www.unionleader.com/nh/lifestyles/tech-q-a-software-makers-can-alter-your-programs-without-warning/article_74c6c603-eeb9-543f-aab7-403ad42f6dc1.html)
+
+
+> Contact Steve Alexander at{span} {/span}steve.j.alexander@gmail.com{span}. Please include a full name, city and phone number.{/span}
+
+
+***
+![Programming languages with the most earned score in Stack Overflow.](https://external-preview.redd.it/t9xPG0T39eEoCv0fi1ib6YvLuY3XXW76GAHvGbFmmu0.jpg?auto=webp&s=8795deba4b37ac6e9e8b0442c739036a8a3f1382 "Programming languages with the most earned score in Stack Overflow.")
+
+
+[Programming languages with the most earned score in Stack Overflow.](https://www.reddit.com/r/Python/comments/o8p2qx/programming_languages_with_the_most_earned_score/)
+
+
+> Score earned from users on Stack Overflow for each month since the creation of the website (July 2008). The score is accumulated from questions and answers.Corresponding paper:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253010
+
+
+***
+[India wearables mkt touches 11.4mn units in Q1: IDC](https://www.zeebiz.com/technology/news-india-wearables-mkt-touches-114mn-units-in-q1-idc-159421)
+
+
+> The Indian wearables market grew 170.3 per cent year-on-year to a record 11.4 million units in the March 2021 quarter, as per research firm IDC. Strong momentum in the watch and earwear categories led to the "highest-ever first-quarter shipments in India", IDC said in a statement
+
+
+***
+![Many large e-commerce companies have brazenly flouted laws of land, says Piyush Goyal](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202106/pyush-1200-sixteen_nine.jpg "Many large e-commerce companies have brazenly flouted laws of land, says Piyush Goyal")
+
+
+[Many large e-commerce companies have brazenly flouted laws of land, says Piyush Goyal](https://www.businesstoday.in/technology/news/story/many-large-e-commerce-companies-have-brazenly-flouted-laws-of-land-says-piyush-goyal-299795-2021-06-27)
+
+
+> BusinessToday.In Jun 27, 2021, Updated Jun 27, 2021, 8:39 AM IST Several large e-commerce companies that have come to India have "very" blatantly flouted the laws of the land, in more ways than one, Commerce and Industry Minister Piyush Goyal said. He added that all such online firms should follow the Indian laws and do not use muscle or money power to hurt the interests of the country. Speaking at a Webinar on Saturday, Goyal further stated that many of the practices these companies pursue are against the interest of consumers.
+
+
+***
+![Expert Q&A: Cybersecurity training needs a kick in the pants](https://apicms.thestar.com.my/uploads/images/2021/06/25/1197979.jpg "Expert Q&A: Cybersecurity training needs a kick in the pants")
+
+
+[Expert Q&A: Cybersecurity training needs a kick in the pants](https://www.thestar.com.my/tech/tech-news/2021/06/27/expert-qa-cybersecurity-training-needs-a-kick-in-the-pants)
+
+
+> When was the last time the news didn't feature a troubling cyber attack? From Colonial Pipeline to the New York City Law Department to Scripps Health, organisations public and private are getting torched by hackers. But don't most organisations require their employees to get cybersecurity training? Maybe the training isn't good enough and needs to be rethought. That's the basic argument from Sajed Naseem, chief information security officer for the New Jersey Courts, and Rebecca Rakoski, co-founder and managing partner at XPAN Law Partners.
+
+
