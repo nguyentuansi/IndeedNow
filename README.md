@@ -31803,3 +31803,50 @@
 > I'm no MS fanboy, but the fact that this was caught by someone in the community means that the system is working.
 
 
+***
+![The Secret Workings of Smell Receptors, Revealed At Last](https://media.wired.com/photos/60d643314abd3c033f4a015f/191:100/w_1280,c_limit/QUANTA_Odor_2880x1620_Lede_v1.jpg "The Secret Workings of Smell Receptors, Revealed At Last")
+
+
+[The Secret Workings of Smell Receptors, Revealed At Last](https://www.quantamagazine.org/secret-workings-of-smell-receptors-revealed-for-first-time-20210621/)
+
+
+> Smell, rather than sight, reigns as the supreme sense for most animals. It allows them to find food, avoid danger, and attract mates; it dominates their perceptions and guides their behavior; it dictates how they interpret and respond to the deluge of sensory information all around them. 'How we as biological creatures interface with chemistry in the world is profoundly important for understanding who we are and how we navigate the universe,' said Bob Datta, a neurobiologist at Harvard Medical School.
+
+
+***
+![FAU-G Team DeathMatch mode beta released on Android](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202106/ezgif.com-gif-maker_4_1_1200x768-original.jpeg "FAU-G Team DeathMatch mode beta released on Android")
+
+
+[FAU-G Team DeathMatch mode beta released on Android](https://www.indiatoday.in/technology/news/story/fau-g-team-deathmatch-mode-beta-released-on-android-1820002-2021-06-27)
+
+
+> Story highlights The Team DeathMatch lets players fight against enemy players in a 5v5 battle scenario. The beta version currently only includes 1 map, known as Bazaar. The map is set in a functional city in Rajasthan and is inspired by Jaisalmer, Jaipur, and Udaipur. The made in India game FAU-G's developer nCORE Games had earlier talked about releasing the beta version of Team DeathMatch mode on June 21st. However, nCORE missed that deadline. FAU-G has finally received its first multiplayer mode in the form of Team DeathMatch beta.
+
+
+***
+![Andreessen on Crypto](https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png "Andreessen on Crypto")
+
+
+[Andreessen on Crypto](https://marginalrevolution.com/marginalrevolution/2021/06/andreessen-on-crypto.html)
+
+
+> From Noahpinion's interview with Marc Andreessen: [C]rypto represents an architectural shift in how technology works and therefore how the world works. That architectural shift is called distributed consensus — the ability for many untrusted participants in a network to establish consistency and trust. This is something the Internet has never had, but now it does, and I think it will take 30 years to work through all of the things we can do as a result. Money is the easiest application of this idea, but think more broadly — we can now, in theory, build Internet native contracts, loans, insurance, title to real world assets, unique digital goods (known as non-fungible tokens or NFTs), online corporate structures (such as digital autonomous organizations or DAOs), and on and on.
+
+
+***
+![Latest Samsung Galaxy Buds 2 leak reveals full design and color options](https://cdn.mos.cms.futurecdn.net/eSRdiAQ4axgGnrstxSJrNd-1200-80.jpg "Latest Samsung Galaxy Buds 2 leak reveals full design and color options")
+
+
+[Latest Samsung Galaxy Buds 2 leak reveals full design and color options](https://www.techradar.com/news/latest-samsung-galaxy-buds-2-leak-reveals-full-design-and-color-options)
+
+
+> The Samsung Galaxy Buds Pro. (Image credit: Future) With the rumored launch date for the Samsung Galaxy Buds 2 fast approaching, we've got some revealing image leaks for the wireless earbuds to take a look at – and they show off just about everything in terms of their aesthetics and color options.These pictures have been procured by 91mobiles, and fit in with previous image leaks we've seen around these next-gen audio earphones. The new hardware could be unveiled as early as this Monday, June 28.
+
+
+***
+[What is hottest or foremost studio(?) for python likewise Rstudio?](https://www.reddit.com/r/Python/comments/o8vbe3/what_is_hottest_or_foremost_studio_for_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
