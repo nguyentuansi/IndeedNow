@@ -31897,3 +31897,50 @@
 > SimSwap (Renwang et al., 2021)GitHubPaper[Installation Tutorial[Full Version of Ricklon Musk - Never Gonna Give You Up]
 
 
+***
+![Will streaming kill broadcast & cable news?](https://thehill.com/sites/default/files/television-remote-list-health.jpg "Will streaming kill broadcast & cable news?")
+
+
+[Will streaming kill broadcast & cable news?](https://thehill.com/opinion/technology/560426-will-streaming-kill-broadcast-cable-news)
+
+
+> The end is near for television news as we know it.That's the clear signal coming from an important set of Nielsen company viewership data that seems like good (or at least not-so-bad) news for cable and broadcast — until you take a closer look at the numbers and trends.The ratings research confirms that pandemic viewing habits have accelerated massive audience shifts toward streaming — and there's no going back. Nielsen's data places the TV news business in the middle of a perfect storm where demographics and economics are hammering a business model, years ahead of most media executives' expectations.
+
+
+***
+![From the Editor's Desk: Full steam ahead for the iPhone 13!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/iphone-13-dummy-units.jpg "From the Editor's Desk: Full steam ahead for the iPhone 13!")
+
+
+[From the Editor's Desk: Full steam ahead for the iPhone 13!](https://www.imore.com/full-steam-ahead-iphone-13)
+
+
+> Source: Sonny Dickson It's been a hectic week with Prime Day madness, but now that it's behind us, we can return to our regularly scheduled programming. It's good to be back! So let's start off with a classic question: what's in a name? Apparently, a recent survey by SellCell claims that 74% of people don't want the next iPhone to be called "iPhone 13," because of superstitions of bad luck and all that bad mojo. Honestly, I think it's a little silly not to want the next iPhone just because of the bad rap of the number "13" — did all of these people also skip out on using iOS 13? But I could totally see Apple skipping the number 13; I mean, they did that with nine, after all.
+
+
+***
+![Minimal and Productive Programming Desk Setup](https://external-preview.redd.it/FY4XF3HrOW-FCvgyUiBCFRGh1VfuJRs3dipGXr9mWew.jpg?auto=webp&s=1fff46bed780d0523cf434598c7fede4076e50c2 "Minimal and Productive Programming Desk Setup")
+
+
+[Minimal and Productive Programming Desk Setup](https://www.reddit.com/r/programming/comments/o8zutt/minimal_and_productive_programming_desk_setup/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![I've made two useful things in Python, this is my torrent automator that works with qbittorrent](https://external-preview.redd.it/-WiKXADWH5lgU4gQv5fcDAQ9QKNBZTJ-D83BykIL2HA.jpg?auto=webp&s=07c121a0180003f7373863af66192b6ff6a937da "I've made two useful things in Python, this is my torrent automator that works with qbittorrent")
+
+
+[I've made two useful things in Python, this is my torrent automator that works with qbittorrent](https://www.reddit.com/r/Python/comments/o8zrat/ive_made_two_useful_things_in_python_this_is_my/)
+
+
+> The only other thing I've made is a script that scrapes reddit for data. The torrent automator was pieced together little by little from a lot of trial and error and googling. There are likely more efficient ways to do what I am doing.This has been running since late 2017 with minor tweaks to it when needed (didn't know to set timeouts or exception catching when I initially made it).https://pastebin.com/LMx4jf0sAnd an example of the xml it reads from to look at feeds and what to look for:
+
+
+***
+[UK's Financial Conduct Authority orders Binance to stop all regulated activities in Britain by June 30, issues consumer alert against it (Financial Times)](http://www.techmeme.com/210627/p6#a210627p6)
+
+
+> Financial Times: UK's Financial Conduct Authority orders Binance to stop all regulated activities in Britain by June 30, issues consumer alert against it — FCA also issues consumer alert against sprawling cryptocurrency group — The UK's financial watchdog has ordered Binance to stop all regulated activities …
+
+
