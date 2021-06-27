@@ -32041,3 +32041,53 @@
 > Mashable's series Don't @ Me takes unpopular opinions and backs them up with...reasons. We all have our ways, but we may just convince you to change yours. And if not, chill.Zoom fatigue was real in quarantine, but as people start to leave their homes on a more regular basis and return to in-person socializing, I'm in no hurry to leave video chats behind.Don't get me wrong: At times I found the seemingly endless stream of Zoom webinars, Google Hangouts meetings, virtual Houseparty get togethers, and spontaneous FaceTime calls draining while in quarantine.
 
 
+***
+![China's ‘Big Dog' and ‘Good Cat' coming](https://content.api.news/v3/images/bin/ca6d839a5e764d97d7221e2039e26a7f "China's ‘Big Dog' and ‘Good Cat' coming")
+
+
+[China's ‘Big Dog' and ‘Good Cat' coming](https://www.news.com.au/technology/motoring/chinas-big-dog-and-good-cat-cars-under-consideration/news-story/a765603d89fc577dcacb9b2ef01a2c8e)
+
+
+> Though its next-generation cars might have funny names, Great Wall Motors' ambitions in Australia are no laughing matter.Chinese car maker Great Wall Motors aims to take on the likes of Toyota and Ford as a top 10 contender in the Australian new car market.The key to its success could lie in new models under strong consideration for Australia.Some of the new models have unconventional names.Monikers for the 'Big Dog' compact SUV and 'Good Cat' electric car were chosen by the sort of public polls that delivered 'Boaty McBoatface' to marine scientists in Britain.
+
+
+***
+![Fiber maker Teijin pitches cool casual clothing featuring fans](https://japantoday.com/images/japan-today-social.jpg "Fiber maker Teijin pitches cool casual clothing featuring fans")
+
+
+[Fiber maker Teijin pitches cool casual clothing featuring fans](https://japantoday.com/category/tech/fiber-maker-teijin-pitches-cool-casual-clothing-featuring-fans)
+
+
+> Major fiber manufacturer Teijin Ltd is set to market a new type of casual apparel featuring small fans that allow the wearer to cool off in the heat of summer without the hassle of being blown up like a balloon. Tenjin partnered with textile trading company Chikuma & Co and power tool manufacturer Makita Corp to begin sales of work outfits with built-in fans in 2018. Targeting young people and expectant mothers in addition to conventional wearers such as construction workers, the three companies plan to test-market everyday apparel with fans including vests and jackets beginning this summer, before officially launching the items next year.
+
+
+***
+![Bucks vs Hawks live stream: how to watch game 3 NBA playoffs online from anywhere](https://cdn.mos.cms.futurecdn.net/x4WvmjGdnEUCFeqhMUrnWo.jpg "Bucks vs Hawks live stream: how to watch game 3 NBA playoffs online from anywhere")
+
+
+[Bucks vs Hawks live stream: how to watch game 3 NBA playoffs online from anywhere](https://www.techradar.com/news/bucks-vs-hawks-live-stream-how-to-watch-game-3-nba-playoffs-online-from-anywhere)
+
+
+> There's a sense of destiny guiding the Bucks and the Hawks, who'll be feeling more than ever that this could finally be their year. Milwaukee is aiming to reach its first conference final since 1974, while Atlanta hasn't made it past this stage since 1961. With Atlanta leading 1-0 after a close game 1, everything is to play for, so read on as we explain how to get a Bucks vs Hawks live stream and watch the NBA playoffs series online from anywhere.The Bucks have Giannis, but the Hawks have their own irreplaceable star in Nate McMillan, whose Atlanta fairytale story continues.
+
+
+***
+![UK, Singapore launch talks on digital trade agreement](https://www.reuters.com/resizer/5M6ipQ8kczSbd1GvgPwGLNWZZi0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/667KTWT675NLHIN6DGABR2744A.jpg "UK, Singapore launch talks on digital trade agreement")
+
+
+[UK, Singapore launch talks on digital trade agreement](https://www.reuters.com/technology/uk-singapore-launch-talks-digital-trade-agreement-2021-06-27/)
+
+
+> British Union Jack flags are seen on the desks of Members of the Brexit Party during a debate on the last European summit, at the European Parliament in Strasbourg, France, July 4, 2019. REUTERS/Vincent KesslerLONDON, June 27 (Reuters) - Britain and Singapore will on Monday start negotiations on a new digital trade agreement that could remove barriers, part of London's push to become what it calls a "global tech powerhouse" post-Brexit.Since completing its exit from the European Union at the end of last year, Britain has been pressing ahead with new trade deals especially with countries in the Indo-Pacific region, with the most recent agreement signed with Australia.
+
+
+***
+![How to Add Foundation 6 SCSS to Sapper](https://external-preview.redd.it/jLduJ6_gdc3A6qKuTcibwkLxqxHi14C_ClY4dqpm4PA.jpg?auto=webp&s=b4683f82d4aeca52d2ded8caa538cc7bd8e4a6dc "How to Add Foundation 6 SCSS to Sapper")
+
+
+[How to Add Foundation 6 SCSS to Sapper](https://www.reddit.com/r/programming/comments/o95uin/how_to_add_foundation_6_scss_to_sapper/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
