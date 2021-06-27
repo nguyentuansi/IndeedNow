@@ -31672,3 +31672,40 @@
 > When was the last time the news didn't feature a troubling cyber attack? From Colonial Pipeline to the New York City Law Department to Scripps Health, organisations public and private are getting torched by hackers. But don't most organisations require their employees to get cybersecurity training? Maybe the training isn't good enough and needs to be rethought. That's the basic argument from Sajed Naseem, chief information security officer for the New Jersey Courts, and Rebecca Rakoski, co-founder and managing partner at XPAN Law Partners.
 
 
+***
+![Vietnam vaccine fund wins Samsung, SK backing](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/0d3928d7eac346a483c26adb447af3f6.jpg "Vietnam vaccine fund wins Samsung, SK backing")
+
+
+[Vietnam vaccine fund wins Samsung, SK backing](https://www.koreatimes.co.kr/www/tech/2021/06/693_311180.html)
+
+
+> A man receives a shot of Vaxzevria (formerly COVID-19 Vaccine AstraZeneca) at a hospital in Hanoi, Vietnam, Sunday. EPA-YonhapThe Vietnamese government is facing an alarming spike in COVID-19 infections and top Korean firms, which operate in the Southeast Asian country, are actively responding Hanoi's apparent request to join its vaccine fundraising drive.According to industry officials and Vietnamese government sources, Sunday, Samsung Electronics donated around 2.8 billion won to the central Vietnamese government and regional government.
+
+
+***
+![How to watch the 2021 Styrian Grand Prix online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/red-bull-ring-formula-1.jpg "How to watch the 2021 Styrian Grand Prix online from anywhere")
+
+
+[How to watch the 2021 Styrian Grand Prix online from anywhere](https://www.androidcentral.com/formula-1-live-stream-how-watch-styrian-grand-prix-online-anywhere)
+
+
+> The 2021 Formula 1 season continues and for the next two weeks teams and drivers will be in Austria for the Styrian Grand Prix and then the Austrian Grand Prix and we have all the details on how you can watch this weekend's race online. Last year for the first time ever, two grand prix events were held at the same track as Formula 1 had to change its schedule due to the pandemic. However, since every grand prix must have its own name, it was decided that one of the two races would be called the Styrian Grand Prix and the name comes from the region in Austria where the event is held.
+
+
+***
+![Can we expect the 2021 MacBook Pro to support 2 external monitors?](https://images.macrumors.com/social/?t=2302443&v=6 "Can we expect the 2021 MacBook Pro to support 2 external monitors?")
+
+
+[Can we expect the 2021 MacBook Pro to support 2 external monitors?](https://forums.macrumors.com/threads/can-we-expect-the-2021-macbook-pro-to-support-2-external-monitors.2302443/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I am in need of a new Mac and am pretty much settled on an M1 MacBook pro. I would have ordered it already but I have read that it does not support more than 1 external monitor. Is this something we can assume will be fixed with the 2021 version? I would order the new 14" model as soon as it's available if so, but if only 1 is supported it's kind of a deal breaker for me.
+
+
+***
+[Splunk Security Cloud](https://itwire.com/freelancer-sp-720/tag/Splunk%20Security%20Cloud.html)
+
+
+> Splunk has announced its new Splunk Security Cloud bringing best-in-class SIEM, security analytics, SOAR, collaboration tools, and threat research. The product protects hybrid multi-cloud organisations with data-driven modern security operations.
+
+
