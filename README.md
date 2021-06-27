@@ -31537,3 +31537,50 @@
 > In one of Silicon Valley's latest attempts to tackle our online misinformation crisis, Google announced a new feature that warns U.S. users about trending topics that don't have reliable search results yet.The prompt cautions users that, "it looks like these results are changing quickly," further explaining that "if this topic is new, it can sometimes take time for results to be added by reliable sources," according to an image on Google's announcement published on Friday.The tool is designed to detect searches on topics that are "rapidly evolving," like breaking news or other subjects garnering a surge of interest, that "a range of sources" have not weighed in on yet.
 
 
+***
+[Rasgo, a GitHub-like repository which helps data scientists explore, clean, join, and transform data sets for machine learning models, raises $20M Series A (AlleyWatch)](http://www.techmeme.com/210626/p11#a210626p11)
+
+
+> AlleyWatch: Rasgo, a GitHub-like repository which helps data scientists explore, clean, join, and transform data sets for machine learning models, raises $20M Series A — Data science is highly coveted and championed because its use extracts insights that transform data into tangible value.
+
+
+***
+![Apple Shares List of Products to Keep Safe Distance Away From Pacemakers](https://images.macrumors.com/t/AN8gerzROCGM7ObxX9Kp6L98dLI=/3840x/https://images.macrumors.com/article-new/2020/10/magsafecasedangle.jpg "Apple Shares List of Products to Keep Safe Distance Away From Pacemakers")
+
+
+[Apple Shares List of Products to Keep Safe Distance Away From Pacemakers](https://www.macrumors.com/2021/06/26/apple-lists-products-to-keep-away-from-pacemakers/)
+
+
+> In a support document updated this week, Apple shared a list of products that should be kept a safe distance away from medical devices, such as implanted pacemakers and defibrillators, due to potential magnetic interference. To avoid any potential interference with medical devices, Apple says to keep the products listed below a safe distance away from medical devices — more than six inches apart or more than 12 inches apart if the Apple product is wirelessly charging. Apple says to consult with a physician and the device manufacturer for specific guidelines.
+
+
+***
+![First 10 things to do on your new iPhone 12](https://pocketnow.com/wp/../files/2021/06/iPhone-12-Tips-and-Tricks-Featured-Image-641x321.jpg "First 10 things to do on your new iPhone 12")
+
+
+[First 10 things to do on your new iPhone 12](https://pocketnow.com/iphone-12-tips-tricks)
+
+
+> This guide lists ten tips and tricks you should do first on your new iPhone so that you can be comfortable using it from the get-go. The post First 10 things to do on your new iPhone 12 appeared first on Pocketnow.
+
+
+***
+![New phone rivals Samsung and Apple](https://content.api.news/v3/images/bin/2afd0efd007aa8af6f624a62833ca41e "New phone rivals Samsung and Apple")
+
+
+[New phone rivals Samsung and Apple](https://www.news.com.au/technology/gadgets/mobile-phones/vivo-x60-pro-review-camera-rivals-samsung-and-iphone/news-story/67e85ca5477e922259dba491ee8f0837)
+
+
+> A new phone has just landed in Australia that has proven it can compete with tech giants Apple and Samsung thanks to its 'impressive' camera.The latest vivo smartphone, the vivo X60 Pro, has just hit shelves here in Australia. This is their flagship photography-focused smartphone featuring an exciting collaboration with ZEISS but can vivo compete with the tech giants?UnboxingOut of the box the phone doesn't look very different from last year's model, the vivo X50 Pro, but I love that they've kept the design.
+
+
+***
+![How to photograph a full moon on your phone or camera with the best settings](https://i.guim.co.uk/img/media/af7f50e7d500dd072a1a8a68b4dfbdd7841ea2bc/493_232_3062_1837/master/3062.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc50b0a40fa27d964e791f004b37f3fe "How to photograph a full moon on your phone or camera with the best settings")
+
+
+[How to photograph a full moon on your phone or camera with the best settings](http://www.theguardian.com/technology/2021/jun/24/strawberry-moon-2021-june-australia-how-to-photograph-full-super-moon-with-phone-tonight-take-picture-supermoon-photography-what-time-when-thursday-night-smartphone-camera-dslr-iphone-best-settings)
+
+
+> When a full moon rises, many people will pull out their mobile phones to try and get an Instagram-worthy photograph, but unfortunately it's really challenging to take a great picture of the moon.Two reasons: it is very far away and unless you have a telephoto lens (which makes the moon appear closer than it is) it will always appear as a very small glowing dot in the frame.Secondly, shooting at night is really difficult. Professional cameras allow you to change your ISO or your sensitivity rating which means you can shoot in low light situations without losing the quality of the image.
+
+
