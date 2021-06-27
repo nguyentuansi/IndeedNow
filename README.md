@@ -31944,3 +31944,50 @@
 > Financial Times: UK's Financial Conduct Authority orders Binance to stop all regulated activities in Britain by June 30, issues consumer alert against it — FCA also issues consumer alert against sprawling cryptocurrency group — The UK's financial watchdog has ordered Binance to stop all regulated activities …
 
 
+***
+![This is my code to create from a text file a graph with vertices and edges and make a DFS search on it.](https://external-preview.redd.it/R-gGVcYyZkOtOvg8ONBJjVSP00iIJzaKX-5F9YDgAhg.jpg?auto=webp&s=5b4ad85e258778b0d3ef838e632edca027ce7b7b "This is my code to create from a text file a graph with vertices and edges and make a DFS search on it.")
+
+
+[This is my code to create from a text file a graph with vertices and edges and make a DFS search on it.](https://www.reddit.com/r/programming/comments/o924fr/this_is_my_code_to_create_from_a_text_file_a/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![This is my code to do a DFS search from a text file.](https://external-preview.redd.it/z2QFVoPIzpyU9zz3LZA7jhzrCIDUwdNqK6pBzyADYP4.jpg?auto=webp&s=d580d4f952b095853faadad9891205f0a40e3cd1 "This is my code to do a DFS search from a text file.")
+
+
+[This is my code to do a DFS search from a text file.](https://www.reddit.com/r/programming/comments/o921qm/this_is_my_code_to_do_a_dfs_search_from_a_text/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![As a CS student, I created a Learning Management System specifically designed for CS courses (used at NYU Tandon)](https://external-preview.redd.it/wVMOT_9-5y9jL_C3tntR1DITYlXHpWq7XyIxo_hQlew.jpg?auto=webp&s=7e0bce2cbf5b225482f2b775cb3c15e8400302e9 "As a CS student, I created a Learning Management System specifically designed for CS courses (used at NYU Tandon)")
+
+
+[As a CS student, I created a Learning Management System specifically designed for CS courses (used at NYU Tandon)](https://www.reddit.com/r/programming/comments/o91wkc/as_a_cs_student_i_created_a_learning_management/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[The sound of Mars: Chinese release recording of Martian surface by their rover lander](https://www.reddit.com/r/technology/comments/o91rbg/the_sound_of_mars_chinese_release_recording_of/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Is one vaccine dose enough if you've had Covid? What the science says](https://media.nature.com/lw1024/magazine-assets/d41586-021-01609-4/d41586-021-01609-4_19256926.jpg "Is one vaccine dose enough if you've had Covid? What the science says")
+
+
+[Is one vaccine dose enough if you've had Covid? What the science says](https://www.nature.com/articles/d41586-021-01609-4)
+
+
+> A worker prepares a dose of COVID-19 vaccine. Governments are advising that only one dose of vaccine be given to those with a history of coronavirus infection.Credit: Chaiwat Subprasom/SOPA Images/LightRocket/Getty Many people who've been infected with the coronavirus might be able to safely skip the second jab of any two-dose vaccine regimen, a growing number of studies suggest. These results could help to stretch scarce vaccine supplies and are already influencing vaccination policies in some countries.
+
+
