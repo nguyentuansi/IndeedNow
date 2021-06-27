@@ -31991,3 +31991,53 @@
 > A worker prepares a dose of COVID-19 vaccine. Governments are advising that only one dose of vaccine be given to those with a history of coronavirus infection.Credit: Chaiwat Subprasom/SOPA Images/LightRocket/Getty Many people who've been infected with the coronavirus might be able to safely skip the second jab of any two-dose vaccine regimen, a growing number of studies suggest. These results could help to stretch scarce vaccine supplies and are already influencing vaccination policies in some countries.
 
 
+***
+![A cheat sheet for JavaScript's fetch API](https://external-preview.redd.it/ZqrvyDhOMxLtZA4mhmMsYlk1baOW4f0GU7Ip-vWTqCs.jpg?auto=webp&s=6dabffa74de413e21148b3320efc0d2892509a49 "A cheat sheet for JavaScript's fetch API")
+
+
+[A cheat sheet for JavaScript's fetch API](https://www.reddit.com/r/programming/comments/o94dv4/a_cheat_sheet_for_javascripts_fetch_api_some/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![See Ingenuity on the surface of Mars in NASA's new 3D photo drop](https://helios-i.mashable.com/imagery/articles/04FtJORmi2ehIofGmGHIJYZ/hero-image.fill.size_1200x675.png "See Ingenuity on the surface of Mars in NASA's new 3D photo drop")
+
+
+[See Ingenuity on the surface of Mars in NASA's new 3D photo drop](https://mashable.com/article/ingenuity-helicopter-mars-eighth-flight)
+
+
+> NASA's Ingenuity helicopter has completed yet another successful flight on Mars.On Friday, NASA operations lead Teddy Tzanetos shared details of the Ingenuity's eighth flight across Mars' surface via his team's official status blog. The four-pound helicopter, which arrived attached to the Perseverance rover in mid-February, traveled 525 feet on June 21 — flying south-southeast for just under 78 seconds, and moving roughly 440 feet away from the rover. "This marks the third flight in the Operations Demonstration Phase of Ingenuity, in which the team will continue to push the flight envelope of the aircraft while learning valuable operational lessons," explained Tzanetos.
+
+
+***
+![How Do You Add Color To Tool Bar Comment Icon?](https://images.macrumors.com/social/?t=2302497&v=6 "How Do You Add Color To Tool Bar Comment Icon?")
+
+
+[How Do You Add Color To Tool Bar Comment Icon?](https://forums.macrumors.com/threads/how-do-you-add-color-to-tool-bar-comment-icon.2302497/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Jun 7, 2016 388 30 Bellevue, NE Just switched from Catalina to Big Sur. And when I did it appears that the yellow colored border to the Comment icon in the Tool Bar went away. I didn't realize how much I relied on that colored border to find Comment when working with Numbers. And I cannot find a way to get it back! Tried in System Preferences and in Customize Tool Bar, but cannot find anything to add color.
+
+
+***
+![Lava Probuds wireless earphones: Big on performance, looks and comfort](https://images.financialexpress.com/2021/06/1-627.jpg "Lava Probuds wireless earphones: Big on performance, looks and comfort")
+
+
+[Lava Probuds wireless earphones: Big on performance, looks and comfort](https://www.financialexpress.com/industry/technology/lava-probuds-wireless-earphones-big-on-performance-looks-and-comfort/2278645/)
+
+
+> By: Sudhir Chowdhary | June 28, 2021 1:00 AMThe long battery-life of Probuds ensures that you don't run out of charge while enjoying your favourite music.If you're working or learning from home, you need the proper audio equipment—headphones, earphones or speaker —to be productive. For a job that requires you to take a lot of calls, attend conference meetings (and listen to music to release the tensions of office), Probuds by Lava can be a good option. Recently, this homegrown handset maker announced its entry into the true wireless stereo (TWS) audio segment with its innovative offering, the Probuds wireless earphones.
+
+
+***
+![In defense of regularly video chatting with people post-quarantine](https://helios-i.mashable.com/imagery/articles/06pNC1hOn2Z4XYiqi4WVPIJ/hero-image.fill.size_1200x675.png "In defense of regularly video chatting with people post-quarantine")
+
+
+[In defense of regularly video chatting with people post-quarantine](https://mashable.com/article/video-chatting-pandemic-quarantine)
+
+
+> Mashable's series Don't @ Me takes unpopular opinions and backs them up with...reasons. We all have our ways, but we may just convince you to change yours. And if not, chill.Zoom fatigue was real in quarantine, but as people start to leave their homes on a more regular basis and return to in-person socializing, I'm in no hurry to leave video chats behind.Don't get me wrong: At times I found the seemingly endless stream of Zoom webinars, Google Hangouts meetings, virtual Houseparty get togethers, and spontaneous FaceTime calls draining while in quarantine.
+
+
