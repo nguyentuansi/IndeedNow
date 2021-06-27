@@ -31850,3 +31850,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![LeetCode](https://external-preview.redd.it/mW39-2rk1To8PFikejuRxXeIkPBxlHzoCgC23ooTqTQ.jpg?auto=webp&s=39115464df4714942a7a11492c800ce362447ce1 "LeetCode")
+
+
+[LeetCode](https://www.reddit.com/r/programming/comments/o8xgnp/leetcode_valid_parentheses/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![I made simple and not so useful 2D game with pygame but it'll will help you understand how graphics programming works especially in Python.](https://external-preview.redd.it/OjxWiVBp9_DTxi-JkbtvpHmslCWVvErJCOkelGdOykQ.jpg?auto=webp&s=5c947551c9e11c8957f2af9a38f6ccd47cc3d98a "I made simple and not so useful 2D game with pygame but it'll will help you understand how graphics programming works especially in Python.")
+
+
+[I made simple and not so useful 2D game with pygame but it'll will help you understand how graphics programming works especially in Python.](https://www.reddit.com/r/Python/comments/o8x842/i_made_simple_and_not_so_useful_2d_game_with/)
+
+
+> I'll add menus, sounds, and some assets later.Thanks,You need to install Minecraft font before run the game https://www.dafont.com/minecraft.fontHere's the link to GitHub https://github.com/vt92i/pygame-projects/tree/main/classic_snakeDemo video https://twitter.com/wtsrz4/status/1409138522036924418
+
+
+***
+[A back-end dev's journey of creating a mobile micro content platform as a personal project ( and successfully making it live with around 1000 users !! )](https://www.reddit.com/r/programming/comments/o8x7zj/a_backend_devs_journey_of_creating_a_mobile_micro/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![10 Python Project Ideas Suitable for Beginners](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png "10 Python Project Ideas Suitable for Beginners")
+
+
+[10 Python Project Ideas Suitable for Beginners](https://www.reddit.com/r/Python/comments/o8x7qi/10_python_project_ideas_suitable_for_beginners/)
+
+
+> Login SystemTic-Tac-ToeBuild a Quiz App With PythonMake a Desktop GUI CalculatorAutomate Excel Operations With PythonMake a Snake GameCreate a Simple Chatbot With PythonMake a URL Shortener With PythonBuild a Web ScraperUnit Converter100% Upvotedno comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![SimSwap](https://external-preview.redd.it/KIKsQ0mz7kUdxLCjqiVBcekbToDk0tuTwLXDxWAHcQg.jpg?auto=webp&s=908ad52ca9d44f58aeb6279e427cc7cc6c06cbd3 "SimSwap")
+
+
+[SimSwap](https://www.reddit.com/r/programming/comments/o8x7nw/simswap_deepfake_without_training/)
+
+
+> SimSwap (Renwang et al., 2021)GitHubPaper[Installation Tutorial[Full Version of Ricklon Musk - Never Gonna Give You Up]
+
+
