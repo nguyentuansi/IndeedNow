@@ -31709,3 +31709,47 @@
 > Splunk has announced its new Splunk Security Cloud bringing best-in-class SIEM, security analytics, SOAR, collaboration tools, and threat research. The product protects hybrid multi-cloud organisations with data-driven modern security operations.
 
 
+***
+[Python socket Multi networks](https://www.reddit.com/r/Python/comments/o8snqc/python_socket_multi_networks/)
+
+
+> Hello, I made a chat in python. It work on my own network between every device. But now i'd like communicate with my friends (on an other network) How do you do ? because I've just their public ip and them too how to focus a device. Thanks
+
+
+***
+![Create quick .exe with Python](https://external-preview.redd.it/h_AXjl-IaAYwN1NNdFIw7A2VO5SqjhFFL7lZpkx2xP8.jpg?auto=webp&s=5f987a8ba13768835a9d2daf3e982f0e78e1d38d "Create quick .exe with Python")
+
+
+[Create quick .exe with Python](https://www.reddit.com/r/Python/comments/o8sl1l/create_quick_exe_with_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Hello, I just started learning Python, this is my first code. What do you think?](https://www.reddit.com/r/Python/comments/o8sio1/hello_i_just_started_learning_python_this_is_my/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![POSCO, HBIS join hands to increase automotive steel sheet production](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/fd43f39240774af4b04e269f22b4bcfb.jpg "POSCO, HBIS join hands to increase automotive steel sheet production")
+
+
+[POSCO, HBIS join hands to increase automotive steel sheet production](https://www.koreatimes.co.kr/www/tech/2021/06/693_311194.html)
+
+
+> POSCO's Guangdong CGL plant in Guangdong, China / Courtesy of POSCO By Kim Hyun-binPOSCO and China's second-largest steelmaker HBIS inked a deal to establish a $600 million joint venture in China to produce and sell automotive steel sheets, the company said.The deal was sealed between POSCO Chairman Choi Jeong-woo and HBIS Group General Manager Wang Lanyu, in an online meeting Friday, to set up a 50-50 joint venture in Laoting in China's Heibei province."Through the partnership with HBIS Group, we plan to strengthen our position as the most competent automotive steel sheet supplier in China, the world's largest market for automotive steel sheets," Choi said after signing the deal with HBIS.
+
+
+***
+![Nvidia's Canvas AI painting tool instantly turns blobs into realistic landscapes](https://external-preview.redd.it/tRFXJtMlPS4RjNt1KqDyc6OhqFZBmsDAIpLPnSwXEus.jpg?auto=webp&s=824f601ea73ad350dad2dcb542819eba008d9922 "Nvidia's Canvas AI painting tool instantly turns blobs into realistic landscapes")
+
+
+[Nvidia's Canvas AI painting tool instantly turns blobs into realistic landscapes](https://www.reddit.com/r/technology/comments/o8sddt/nvidias_canvas_ai_painting_tool_instantly_turns/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
