@@ -31584,3 +31584,44 @@
 > When a full moon rises, many people will pull out their mobile phones to try and get an Instagram-worthy photograph, but unfortunately it's really challenging to take a great picture of the moon.Two reasons: it is very far away and unless you have a telephoto lens (which makes the moon appear closer than it is) it will always appear as a very small glowing dot in the frame.Secondly, shooting at night is really difficult. Professional cameras allow you to change your ISO or your sensitivity rating which means you can shoot in low light situations without losing the quality of the image.
 
 
+***
+[Best Place/Way to start learning Python?](https://www.reddit.com/r/Python/comments/o8nx50/best_placeway_to_start_learning_python/)
+
+
+> Currently 24 year old with a bachelors in marketing but thinking of going back for a masters in computer science or getting certificates in things like python. Where is the best place to learn python online?Thanks in advance!
+
+
+***
+![How to delete your Twitter account. Bye bye, trolls and bots.](https://helios-i.mashable.com/imagery/articles/04Jt4m4bkqt6XCJzvyydOO7/hero-image.fill.size_1200x675.jpg "How to delete your Twitter account. Bye bye, trolls and bots.")
+
+
+[How to delete your Twitter account. Bye bye, trolls and bots.](https://mashable.com/article/how-to-delete-twitter)
+
+
+> If you've had enough of Twitter, you'll be glad to hear it's a simple task to delete your account. After all, while the micro-blogging service is a fab digital tool for keeping up with news, memes, and other digital content, it can be a toxic place (*cough* reply guys *cough*), especially if you spend too much time on it. If you've made the decision to leave Twitter, here's how to go about deleting your account. Deleting versus deactivatingYou can't instantly delete your Twitter account. Twitter's deletion process starts with deactivating your account.
+
+
+***
+[Best way to turn a rectangle into a circle?](https://www.reddit.com/r/Python/comments/o8nvmr/best_way_to_turn_a_rectangle_into_a_circle/)
+
+
+> Supposed you have 4 coordinates [x1,y1],[x2,y2],[x3,y3],[x4,x4] when connected represents a rectangle, what will be the best way to transform this rectangle into a circle in Python?
+
+
+***
+![Real time anomalies detection using kafka and scikit-learn](https://external-preview.redd.it/R8fyqsqEgz6Mos6RPb8OtIhHDKZpJf7O2hjvk_VW6Fk.jpg?auto=webp&s=38536c8c09b100715583bf1dc76b85be49105229 "Real time anomalies detection using kafka and scikit-learn")
+
+
+[Real time anomalies detection using kafka and scikit-learn](https://www.reddit.com/r/Python/comments/o8nkz3/real_time_anomalies_detection_using_kafka_and/)
+
+
+> Hello everyone, I want to share with you a project I made for real time anomalies detection using kafka in python and scikit-learn, it has the generation of streaming data, the real time predictions and slack alerts, full code hereThe architecture looks like this:ArchitectureA demo from the logs in console, upper window is the incoming new data, bottom is the anomalies detected:At the end, slack notification with the anomalies
+
+
+***
+[ShipHero, an e-commerce software and fulfillment provider, raises $50M from Riverwood Capital to expand its fulfillment network, at a $225M post-money valuation (John Paul Hampstead/FreightWaves)](http://www.techmeme.com/210626/p12#a210626p12)
+
+
+> John Paul Hampstead / FreightWaves: ShipHero, an e-commerce software and fulfillment provider, raises $50M from Riverwood Capital to expand its fulfillment network, at a $225M post-money valuation — ShipHero's SaaS and e-comm 3PL businesses complement each other.
+
+
