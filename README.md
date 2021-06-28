@@ -32382,3 +32382,47 @@
 > Shadow and Bone season 2 is officially in the works at Netflix.The streamer's adaptation of Leigh Bardugo's Grishaverse novels has been well received by fans and critics alike, with 55 million account holders watching it within the first month of release. That's unsurprising, though, as we thought it made a great impression, and we now have confirmation that a second season has been greenlit by the streaming giant.The series' popularity, coupled with how much source material is left to cover, means there's plenty more story to tell in Shadow and Bone.
 
 
+***
+[Chainalysis: despite regulatory uncertainty, investments by Indians in cryptocurrencies grew from ~$200M to $40B in the past year, as 15M bought and sold coins (Bloomberg)](http://www.techmeme.com/210628/p7#a210628p7)
+
+
+> Bloomberg: Chainalysis: despite regulatory uncertainty, investments by Indians in cryptocurrencies grew from ~$200M to $40B in the past year, as 15M bought and sold coins — - Daily trading values are up nearly 900% in last 12 months — Investors pile in, regulators give conflicting signs on future
+
+
+***
+[Deadly warning over DOZENS of Apple gadgets you must keep a foot away from strangers – including iPhones](https://www.thesun.ie/tech/7207130/warning-apple-gadgets-keep-away-strangers-iphones-2/)
+
+
+> APPLE has quietly disclosed a list of dozens of its gadgets that can kill people by wreaking havoc on their pacemakers. The popular devices, including a number of iPhones, present a danger to some users and their family and friends if used in an unsafe manner. Read all the latest Phones & Gadgets news Keep […]
+
+
+***
+![We can't believe how cheap this Dell gaming laptop is right now](https://icdn.digitaltrends.com/image/digitaltrends/dell-g3-15-1.jpg "We can't believe how cheap this Dell gaming laptop is right now")
+
+
+[We can't believe how cheap this Dell gaming laptop is right now](https://www.digitaltrends.com/dtdeals/dell-g3-15-deal-dell-june-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Gaming laptops are rarely as cheap as this Dell G3 15 is right now at Dell. At the moment, you can snap it up for just $800, saving you a huge $419 on the usual price. That means you get way more value for your money while still enjoying all the benefits that a gaming laptop brings. If you're looking to play the latest games while on the move, without breaking the bank, this is the laptop for you. As we've come to expect from Dell deals though, stock is sure to be limited so you'll need to be quick to grab this laptop for such a low price.
+
+
+***
+![OnePlus Nord 2 Spotted On AI Benchmark With Dimensity 1200 SoC, 8GB RAM](https://www.androidheadlines.com/wp-content/uploads/2021/03/AH-OnePlus-9-Pro-KL-image-33.jpg "OnePlus Nord 2 Spotted On AI Benchmark With Dimensity 1200 SoC, 8GB RAM")
+
+
+[OnePlus Nord 2 Spotted On AI Benchmark With Dimensity 1200 SoC, 8GB RAM](https://www.androidheadlines.com/2021/06/oneplus-nord-2-ai-benchmark.html)
+
+
+> An AI benchmark listing has revealed the processor and RAM details of the OnePlus Nord 2, the successor to the company's popular mid-ranger from last year. As previously rumored, the device will get MediaTek's Dimensity 1200 chipset with 8GB of RAM. The listing also confirms the phone runs Android 11 out of the box.This would reportedly be the first time OnePlus will be using a MediaTek chipset and it's starting off with a Nord series phone. The Dimensity 1200 is the Taiwanese company's most advanced smartphone system-on-a-chip (SoC).
+
+
+***
+![The Station: Quanergy and Embark to go public via SPAC, Spin and Bird announce fresh launches – TechCrunch](https://techcrunch.com/wp-content/uploads/2017/07/nevada-1-6.jpg "The Station: Quanergy and Embark to go public via SPAC, Spin and Bird announce fresh launches – TechCrunch")
+
+
+[The Station: Quanergy and Embark to go public via SPAC, Spin and Bird announce fresh launches – TechCrunch](https://techcrunch.com/2021/06/28/the-station-quanergy-and-embark-to-go-public-via-spac-spin-and-bird-announce-fresh-launches/)
+
+
+> The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packages move (today and in the future) from Point A to Point B. As you are reading this, I'll be preparing to head out for an adventure, joining thousands of others who plan to jump in their cars, trucks, SUVs, and of course, vans and RVs for the great American road trip.
+
+
