@@ -32517,3 +32517,50 @@
 > (Image credit: Shutterstock / Tero Vesalainen) In a bid to combat poor quality and unrelated search results, Google has launched a new notification system that will advise users to 'check back later' when more information from reliable sources becomes available.Google said it has trained its systems to discover when a topic is breaking and evolving rapidly but trustworthy sources are yet to publish materials on the subject.With the launch of the new About This Result panel, Google users will be equipped with more information about the sources likely to provide trustworthy insight into a particular topic searched online.
 
 
+***
+![Passive income/side hustle with Deb skills](https://external-preview.redd.it/N60TRQywqgnFFZ8hj4TPiQmP6plsJJdGVrAOAoXKh0Q.jpg?auto=webp&s=57aa37fafcc66f1d7e2d118274a287504e391e38 "Passive income/side hustle with Deb skills")
+
+
+[Passive income/side hustle with Deb skills](https://www.reddit.com/r/programming/comments/o9pss1/passive_incomeside_hustle_with_deb_skills/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Best practice for function placement within a code.](https://www.reddit.com/r/Python/comments/o9psjn/best_practice_for_function_placement_within_a_code/)
+
+
+> I am new to Python(<1 year) and want my code to be clean, clear and legible. I wasn't able to get a good answer to this question via stack overflow/google so I figured I would reach out to the reddit community. ..Where do you place your functions? Do you place them at the start of your code? Do you leave it wherever you originally create it within the code? Do you want it to be just before it's first usage? Is there a consensus amongst the community or is it like the wild west?Any help or tips w
+
+
+***
+![These accessories will upgrade your Blink cameras' security potential](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/blink-mini-lifestyle.jpeg "These accessories will upgrade your Blink cameras' security potential")
+
+
+[These accessories will upgrade your Blink cameras' security potential](https://www.androidcentral.com/best-accessories-blink-security-systems)
+
+
+> Best accessories for Blink Security Systems Android Central 2021 Blink home security cameras are affordable and versatile models for protecting your home, but you won't unlock their full potential until you combine them with these Blink security accessories. We've collected the best mounting brackets, cables, and tech for the newest generation of cams and along with the Blink XT2 and original XT, including official Blink accessories that you'll need to use more than one camera at once. Improve your Blink home security system with these handy accessories.
+
+
+***
+![WiteSand Emerges From Stealth to Consolidate Siloed On-Prem Networking Tools into a Unified Cloud-Delivered Service](https://mms.businesswire.com/media/20210628005607/en/1137497/23/WiteSand_-_Final_Logo_Color.jpg "WiteSand Emerges From Stealth to Consolidate Siloed On-Prem Networking Tools into a Unified Cloud-Delivered Service")
+
+
+[WiteSand Emerges From Stealth to Consolidate Siloed On-Prem Networking Tools into a Unified Cloud-Delivered Service](https://www.businesswire.com/news/home/20210628005607/en/WiteSand-Emerges-From-Stealth-to-Consolidate-Siloed-On-Prem-Networking-Tools-into-a-Unified-Cloud-Delivered-Service)
+
+
+> June 28, 2021 02:00 PM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--WiteSand, the company bringing enterprise networking to the cloud, today announced its launch out of stealth mode with several major customers. Its experienced founding team previously delivered several successful networking startups including Insieme, Nuova Systems and Andiamo that were acquired for more than $2.2 billion, and it has raised $12.5 million in seed funding to date from institutional and angel investors.
+
+
+***
+![Snapchat app broken on iPhone: Company says it is ‘looking into' reports of crashing](https://static.independent.co.uk/2021/04/14/16/newFile-13.jpg?width=1200&auto=webp&quality=75 "Snapchat app broken on iPhone: Company says it is ‘looking into' reports of crashing")
+
+
+[Snapchat app broken on iPhone: Company says it is ‘looking into' reports of crashing](https://www.independent.co.uk/life-style/gadgets-and-tech/snapchat-app-broken-on-iphone-company-says-it-is-looking-into-reports-of-crashing-b1874249.html)
+
+
+> Snapchat has stopped working properly on iPhones, according to multiple reports.Users say that the latest version of the app simply crashes rather than opening as expected, with no way to get around the problems.Because the iPhone automatically downloads new updates, users might not wittingly have installed the latest version, and instead just find that the app does not open.The company said that it was aware of the problems and looking to try and find a fix to solve it.'We're aware of an issue with the latest version of Snapchat available in the App Store,' the company wrote in a tweet.
+
+
