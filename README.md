@@ -32611,3 +32611,53 @@
 > The pair waits for the next shove With the price trading between its two hourly moving averages - and above and below its 200 day moving average - the buyers and sellers are battling it out.  It will take a move above the 100 or move below the 200 hour moving averages to solicit momentum in the direction of
 
 
+***
+![Crypto Exchange Binance Banned from Regulated Activities in the UK](https://media.breitbart.com/media/2017/12/bitcoin.png "Crypto Exchange Binance Banned from Regulated Activities in the UK")
+
+
+[Crypto Exchange Binance Banned from Regulated Activities in the UK](https://www.breitbart.com/tech/2021/06/28/crypto-exchange-binance-banned-from-regulated-activities-in-the-uk/)
+
+
+> Binance, one of the world's largest centralized cryptocurrency exchanges has been banned from operating regulated activities in the United Kindom by the Financial Conduct Authority, the country's financial and markets regulator. Binance operates in most major markets, allowing users to trade a wide range of cryptocurrencies including Bitcoin, Ethereum, Dogecoin, and a host of lesser-known cryptocurrencies. However, the service has come under increased scrutiny lately, with Japan's financial regulator also saying that Binance is operating in Japan without permission.
+
+
+***
+![Fintech Focus For June 29, 2021](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Fintech Focus For June 29, 2021")
+
+
+[Fintech Focus For June 29, 2021](https://www.benzinga.com/fintech/21/06/21756422/fintech-focus-for-june-29-2021)
+
+
+> Quote To Start The Day: 'Don't be afraid to give up the good to go for the great.' Source: John D. Rockefeller One Big Thing In Fintech: Randal Quarles, the Federal Reserve's vice chair for supervision, is out with a new speech on digital money and the main gist is that he's skeptical about the imminent need for a central bank digital currency. However, he sounds very bullish on stablecoins, or cryptocurrencies meant to track the value of an asset like the U.S. dollar, provided they can be regulated properly.
+
+
+***
+![Canadiens vs Lightning live stream: how to watch NHL Stanley Cup Final 2021 online from anywhere](https://cdn.mos.cms.futurecdn.net/nqZohDBPHKVJEXzms4UrcH-1200-80.jpg "Canadiens vs Lightning live stream: how to watch NHL Stanley Cup Final 2021 online from anywhere")
+
+
+[Canadiens vs Lightning live stream: how to watch NHL Stanley Cup Final 2021 online from anywhere](https://www.techradar.com/news/canadiens-vs-lightning-live-stream-how-to-watch-nhl-stanley-cup-final-2021-online-from-anywhere)
+
+
+> It's Canada vs the US; the NHL's most successful franchise vs the reigning champions; Canadiens vs Lightning in this blockbuster Stanley Cup Final clash. Les Habitants are hoping for the happiest of endings for their Cinderella story, while the Bolts could become just the second team since the turn of the millennium to repeat. It's time for business, so read on as we explain how to get a Canadiens vs Lightning live stream and watch the Stanley Cup Final 2021 online from anywhere.The drought in the Great White North has raged for 28 years, the Canadiens' 1993 triumph - their 24th overall - marking the last time The Holy Grail was carried off to Canada.
+
+
+***
+![MWC 2021 day one wrap-up – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/mwc-2021-splash.jpg?w=711 "MWC 2021 day one wrap-up – TechCrunch")
+
+
+[MWC 2021 day one wrap-up – TechCrunch](https://techcrunch.com/2021/06/28/mwc-2021-day-one-wrap-up/)
+
+
+> 'It is great that MWC is back,' Samsung UK's James Kitto said, opening up this year's presser. 'And behalf of everyone at Samsung, it's great to be back at MWC.' What, precisely, it means to be 'back' in 2021 is another question entirely. Samsung was, of course, one of a number of major industry players who announced that they would not be exhibiting at this year's Mobile World Congress in Barcelona. It was hard not to see an echo of last year's event, when key players pulled out, one by one, forcing the GSMA to cancel the event altogether.
+
+
+***
+![Demand Curve: Email marketing tactics that convert subscribers into customers – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-675974744.jpg "Demand Curve: Email marketing tactics that convert subscribers into customers – TechCrunch")
+
+
+[Demand Curve: Email marketing tactics that convert subscribers into customers – TechCrunch](https://techcrunch.com/2021/06/28/demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers/)
+
+
+> Email has the highest return on investment of any other marketing channel. On average, email earns you $40 for every $1 spent. And the best part is that email is an owned channel, which means you can reach your subscriber directly instead of relying on social media algorithms to surface your content. At Demand Curve, we've worked with over 500 startups, meticulously documenting growth tactics for all growth channels. We also incorporate what we've learned from our agency, Bell Curve, which works with Outschool, Imperfect Produce and Microsoft to name a few.
+
+
