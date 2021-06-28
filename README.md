@@ -32138,3 +32138,53 @@
 > © Instagram / Kit Harington Surprise! Rose Leslie and Kit Harington of 'Game of Thrones' are expecting their first baby and Kit Harington looks compelling in Netflix's Criminal season 2 trailer Surprise! Rose Leslie and Kit Harington of 'Game of Thrones' are expecting their first baby and Kit Harington looks compelling in Netflix's Criminal season 2 trailer Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Kit Harington looks compelling in Netflix's Criminal season 2 trailer and Surprise! Rose Leslie and Kit Harington of 'Game of Thrones' are expecting their first baby US jets strike Iran-backed militia groups in Iraq and Syria in response to ongoing drone, rocket attacks.
 
 
+***
+![Mitsubishi Electric to Establish 5G OPEN INNOVATION Lab](https://mms.businesswire.com/media/20210627005004/en/1053498/23/MELCO_logo.jpg "Mitsubishi Electric to Establish 5G OPEN INNOVATION Lab")
+
+
+[Mitsubishi Electric to Establish 5G OPEN INNOVATION Lab](https://www.businesswire.com/news/home/20210627005004/en/Mitsubishi-Electric-to-Establish-5G-OPEN-INNOVATION-Lab)
+
+
+> June 27, 2021 10:10 PM Eastern Daylight Time TOKYO--(BUSINESS WIRE)--Mitsubishi Electric Corporation (TOKYO: 6503) announced today that it will soon begin operating the 5G OPEN INNOVATION LabTM to collaborate with customers and partner companies on research and test demonstrations of 'local 5G' private mobile communication systems. The 132-square-meter facility, based in the company's Information Technology R&D Center in Kamakura, Kanagawa Prefecture, will open on June 30. Mitsubishi Electric was recently licensed by the Ministry of Internal Affairs and Communications (MIC) to operate local 5G mobile communication systems designed for private use by municipalities and companies in designated areas to meet specific needs.
+
+
+***
+![BrainChip Taps Former ARM Executive Antonio J. Viana as Non-Executive Director](http://www.businesswire.com/images/bwlogo_square.png "BrainChip Taps Former ARM Executive Antonio J. Viana as Non-Executive Director")
+
+
+[BrainChip Taps Former ARM Executive Antonio J. Viana as Non-Executive Director](https://www.businesswire.com/news/home/20210627005074/en/BrainChip-Taps-Former-ARM-Executive-Antonio-J.-Viana-as-Non-Executive-Director)
+
+
+> June 27, 2021 10:08 PM Eastern Daylight Time ALISO VIEJO, Calif.--(BUSINESS WIRE)--BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power, high-performance artificial intelligence technology, today announced the appointment of Antonio J. Viana as a non-executive director. He joins company founder and CEO Peter van der Made and fellow non-executive directors Emmanuel T. Hernandez and Geoffry Carrick on BrainChip's Board of Directors. 'Antonio is a very welcome addition to our Board and brings with him outstanding industry knowledge, contacts and experience,' said CEO Peter van der Made.
+
+
+***
+![Amazon Kindle Paperwhite still discounted long after Prime Day](https://cdn.mos.cms.futurecdn.net/WnJJb682h3nX3WTfmYhUg5-1200-80.jpg "Amazon Kindle Paperwhite still discounted long after Prime Day")
+
+
+[Amazon Kindle Paperwhite still discounted long after Prime Day](https://www.techradar.com/news/amazon-kindle-paperwhite-still-discounted-long-after-prime-day)
+
+
+> (Image credit: Future) Prime Day 2021 is done and dusted, but that's not stopping Amazon Australia from keeping some of those offers alive.Like the AU$20 discount on its Kindle Paperwhite that Amazon introduced into the mix on day three of Prime Day. That offer is still hanging around, in case you missed out last week.Admittedly it's not as enticing as the AU$50 discount we saw during June 21-22, but even a small saving is worthwhile on the most popular ereader on the market.With Sydney already in lockdown and the pandemic rearing its ugly head everywhere else in Australia, you might find that you have some extra time on your hands if you're staying indoors.
+
+
+***
+![Mi 11 Lite, Mi TV Webcam Go on Sale in India Today at 12 Noon](https://i.gadgets360cdn.com/large/mi_11_lite_image_xiaomi_1624714764817.jpg "Mi 11 Lite, Mi TV Webcam Go on Sale in India Today at 12 Noon")
+
+
+[Mi 11 Lite, Mi TV Webcam Go on Sale in India Today at 12 Noon](https://gadgets.ndtv.com/mobiles/news/mi-11-lite-tv-webcam-sale-today-june-28-price-in-india-rs-21999-1999-specifications-features-2473105)
+
+
+> Mi 11 Lite sale in India is taking place today (Monday, June 28) at 12pm. The Xiaomi phone was launched in the country last week as a watered-down variant of the Mi 11 flagship. The Mi 11 Lite is claimed to be the slimmest and lightest smartphone of the year, measuring under 7mm in thickness and weighing less than 160 grams. The smartphone includes features such as triple rear cameras as well as a hole-punch display design. Alongside the Mi 11 Lite, Mi TV Webcam is also going on sale in the country today.
+
+
+***
+![Apple AirTags battery warning updated in Australia, but local watchdog still not happy](https://cdn.mos.cms.futurecdn.net/RPVpMNLLCcURHrZuC94vqf-1200-80.png "Apple AirTags battery warning updated in Australia, but local watchdog still not happy")
+
+
+[Apple AirTags battery warning updated in Australia, but local watchdog still not happy](https://www.techradar.com/news/apple-airtags-battery-warning-updated-in-australia-but-local-watchdog-still-not-happy)
+
+
+> (Image credit: Apple) Following reports that Apple's AirTag key tracker was removed from shelves by a major Australian retailer over concerns with its button battery last month, the country's consumer watchdog has urged parents to keep the product away from children.The official warning comes after Apple had added more explicit button battery warnings to its packaging in Australia, though the Australian Competition and Consumer Commission (ACCC) said it wasn't enough to address its concerns with the product.
+
+
