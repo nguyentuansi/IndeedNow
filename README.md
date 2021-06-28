@@ -32332,3 +32332,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Snap up this Eufy robot vacuum for its lowest price ever](https://cdn.mos.cms.futurecdn.net/cTncA5R9bog2w5EnFwyj9o-1200-80.jpg "Snap up this Eufy robot vacuum for its lowest price ever")
+
+
+[Snap up this Eufy robot vacuum for its lowest price ever](https://www.techradar.com/deals/snap-up-this-eufy-robot-vacuum-for-its-lowest-price-ever)
+
+
+> (Image credit: TechRadar) The best robot vacuums make their way around your home unaided, sucking up dust, pet hair and other debris, and allowing you to put your feet up. However, they can be a costly purchase, so a good robot vacuum deal is always welcome.In the US, Amazon has slashed 42% off the price of the Eufy RoboVac L70 Hybrid robot vacuum cleaner, reducing it to just $319.99 from $549.99. This is the lowest price we've ever seen for this robot vacuum, beating what we saw on Black Friday and Cyber Monday.
+
+
+***
+![Hardware vendors can avoid TPM 2.0 for Windows 11 if needed: here's how](https://cdn.mos.cms.futurecdn.net/kKykJuKtUCANquFzFoq4yj-1200-80.jpg "Hardware vendors can avoid TPM 2.0 for Windows 11 if needed: here's how")
+
+
+[Hardware vendors can avoid TPM 2.0 for Windows 11 if needed: here's how](https://www.techradar.com/news/hardware-vendors-can-avoid-tpm-20-for-windows-11-if-needed-heres-how)
+
+
+> (Image credit: Microsoft) While there's been plenty of praise for Windows 11, Microsoft's TPM requirements haven't been communicated well. Fortunately, it's been discovered that some hardware manufacturers will be able to bypass this for some machines.With its new look, great wallpapers alongside the start menu now centered, there's plenty to like about Windows 11. It looks to be an update that's been made for both tablets and computers alike, not one or the other in how Windows 8 was designed.
+
+
+***
+![I've made a website to visualize and learn sorting algorithms, with description and implementations in multiple programming languages](https://external-preview.redd.it/U71Sk0oigV7AQEMMGCJdMjRf-CFjnUmBCE5-EN7KmtM.jpg?auto=webp&s=411f8a74b27a52fe1cff6bcaed2421d1989449a3 "I've made a website to visualize and learn sorting algorithms, with description and implementations in multiple programming languages")
+
+
+[I've made a website to visualize and learn sorting algorithms, with description and implementations in multiple programming languages](https://www.reddit.com/r/programming/comments/o9h4y9/ive_made_a_website_to_visualize_and_learn_sorting/)
+
+
+> View Entire Discussion (1 Comments)
+
+
+***
+![Apple silicon MacBook Pros are still coming this year — Gurman](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/11/16-inch-macbook-pro-hero-03.jpeg "Apple silicon MacBook Pros are still coming this year — Gurman")
+
+
+[Apple silicon MacBook Pros are still coming this year — Gurman](https://www.imore.com/apple-silicon-macbook-pros-are-still-coming-year-gurman)
+
+
+> Source: Rene Ritchie / iMore Apple will release new "MacBook Pros" — multiple — later this year, according to a new report. A new 16-inch MacBook Pro has been heavily rumored and now it looks closer than ever to a release. According to a new report by Bloomberg's Mark Gurman, Apple will launch "revamped MacBook Pros" before this year draws to a close. Don't expect that to happen imminently, however, with Gurman also noting that there won't be any new events before the iPhone 13 announcement this September.
+
+
+***
+![Shadow and Bone season 2: release date, plot, cast and more](https://cdn.mos.cms.futurecdn.net/yk2wwk7UYbDufDmLP5CByj-1200-80.jpg "Shadow and Bone season 2: release date, plot, cast and more")
+
+
+[Shadow and Bone season 2: release date, plot, cast and more](https://www.techradar.com/news/shadow-and-bone-season-2-release-date-plot-cast-and-what-we-know-so-far)
+
+
+> Shadow and Bone season 2 is officially in the works at Netflix.The streamer's adaptation of Leigh Bardugo's Grishaverse novels has been well received by fans and critics alike, with 55 million account holders watching it within the first month of release. That's unsurprising, though, as we thought it made a great impression, and we now have confirmation that a second season has been greenlit by the streaming giant.The series' popularity, coupled with how much source material is left to cover, means there's plenty more story to tell in Shadow and Bone.
+
+
