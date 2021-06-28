@@ -32285,3 +32285,50 @@
 > Attach Main technology Image: Image Caption: Tecno Spark Go 2021 gets listed on Amazon; launching in India on July 1st Social Media Image : Enter the Technology details: Tecno Spark Go 2021 is all set to launch in the Indian smartphone market and the company has already announced the launch of July 1st. It seems the first day of July is going to be very exciting for us because a lot of products are going to launch on the same day. Now ahead of the official launch event, the company has listed the handset on Amazon listing revealing some of the important information about the upcoming smartphone.
 
 
+***
+[Technical Insight: Red Bull and AlphaTauri's latest updates](http://www.f1reader.com/news/technical-insight-red-bull-and-alphatauri-s-latest-updates-282002)
+
+
+> [MotorSportWeek.com] F1 is more than half way through its triple back-to-back consisting of the French GP and the double Austrian rounds, ​​which will see them through to July, when the majority of the grid will freeze development to focus on next year. The month of June was very decisive for some teams, to understand if their […]
+
+
+***
+![I adopted a puppy and these 5 apps for pets made life easier](https://images.indianexpress.com/2021/06/Puppy-Pixabay.jpg "I adopted a puppy and these 5 apps for pets made life easier")
+
+
+[I adopted a puppy and these 5 apps for pets made life easier](https://indianexpress.com/article/technology/opinion-technology/i-adopted-a-puppy-and-these-5-apps-for-pets-made-life-easier-7378379/)
+
+
+> Getting home a puppy is a big responsibility. Things are great if you've had dogs before and you have a basic idea of how routines are going to change over the next few months. However, if it's your first pet, life could get difficult and messy really quick. It wasn't long before the latter happened to me, and I turned to technology for some much-needed help. While there are a lot of pet-oriented apps you can find online, some of them are really useful and made life much easier with my little Goku.
+
+
+***
+![Vivo Y51A 64GB variant launched in India: Specifications, price](https://images.indianexpress.com/2021/06/7105b1f7-5de5-4e35-a7f1-5adb01658ebc.jpg "Vivo Y51A 64GB variant launched in India: Specifications, price")
+
+
+[Vivo Y51A 64GB variant launched in India: Specifications, price](https://indianexpress.com/article/technology/mobile-tabs/vivo-y51a-64gb-variant-launched-in-india-specs-price-7379299/)
+
+
+> Vivo has confirmed the launch of its 6GB variant of the Vivo Y51A in India. The device packs a 5000 mAh battery, comes with a 48MP triple rear camera setup and is powered by the Qualcomm Snapdragon 6-series processor. Here is everything you should know about the latest variant of the Vivo Y51A. Vivo Y51A: Price Vivo Y51A 6GB RAM + 128GB ROM storage variant is priced at Rs 16,990. The phone will be available on vivo India E-store and with other offline retailers. The Vivo Y51A comes in two colour options— Titanium Sapphire and Crystal Symphony.
+
+
+***
+![Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021](https://mms.businesswire.com/media/20210628005273/en/888044/23/Inspur_logo_new.jpg "Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021")
+
+
+[Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021](https://www.businesswire.com/news/home/20210628005273/en/Inspur-Releases-Liquid-Cooled-AI-Server-With-NVIDIA-A100-GPUs-at-ISC-High-Performance-Digital-2021)
+
+
+> June 28, 2021 03:57 AM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--Today at ISC High Performance 2021 Digital, the event for high performance computing, machine learning, and data analytics, Inspur Information, a leading IT infrastructure solution provider, announces its new liquid cooling AI server, NF5488LA5. Designed with a liquid cold plate and a maximum capability of supporting eight high-speed and interconnected NVIDIA® A100 Tensor Core GPUs via NVSwitch, this new offering is ideal for customers who need a high-performance and energy-efficient AI server.
+
+
+***
+![The iPhone Pro 13 will reportedly get ultra-wide autofocus for better landscape shots](https://external-preview.redd.it/2AzJNJuPembVgg08zJjzPqxOnmHzsSO-U8p8_rP7xZY.jpg?auto=webp&s=896f231ffcd0ae89fb5d379a75825c6a07c8be45 "The iPhone Pro 13 will reportedly get ultra-wide autofocus for better landscape shots")
+
+
+[The iPhone Pro 13 will reportedly get ultra-wide autofocus for better landscape shots](https://www.reddit.com/r/technology/comments/o9fmbr/the_iphone_pro_13_will_reportedly_get_ultrawide/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
