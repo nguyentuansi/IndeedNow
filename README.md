@@ -32564,3 +32564,50 @@
 > Snapchat has stopped working properly on iPhones, according to multiple reports.Users say that the latest version of the app simply crashes rather than opening as expected, with no way to get around the problems.Because the iPhone automatically downloads new updates, users might not wittingly have installed the latest version, and instead just find that the app does not open.The company said that it was aware of the problems and looking to try and find a fix to solve it.'We're aware of an issue with the latest version of Snapchat available in the App Store,' the company wrote in a tweet.
 
 
+***
+![Best Amazon Fire TV deals June 2021: $10 off Fire TV Stick 4K and more](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/09/amazon-fire-tv-devices.jpg "Best Amazon Fire TV deals June 2021: $10 off Fire TV Stick 4K and more")
+
+
+[Best Amazon Fire TV deals June 2021: $10 off Fire TV Stick 4K and more](https://www.androidcentral.com/best-amazon-fire-tv-deals)
+
+
+> The Amazon Fire TV Stick is a godsend for those of us who want to stick with our trusted non-smart television and also want to access Netflix on it, while the Fire TVs have all the capabilities of Amazon's Fire TV Stick built into the TV itself. They're generally affordably priced, but the best time to purchase one is during a sale. Below are the best Fire TV deals we could find to help you locate the right device or TV set for your home. Sometimes, Amazon offers deals which are only available to Prime members, so it helps to keep your membership active while you're on the hunt.
+
+
+***
+![FTC's antitrust case against Facebook falters but doesn't quite fall in federal court – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/12/facebook-ftc.jpg "FTC's antitrust case against Facebook falters but doesn't quite fall in federal court – TechCrunch")
+
+
+[FTC's antitrust case against Facebook falters but doesn't quite fall in federal court – TechCrunch](https://techcrunch.com/2021/06/28/ftcs-antitrust-case-against-facebook-falters-but-doesnt-quite-fall-in-federal-court/)
+
+
+> An antitrust suit against Facebook by the FTC and several states had the wind taken out of its sails today by a federal judge, who ruled that the plaintiffs don't provide enough evidence that the company exerts monopoly control over social media. The court was more receptive, however, to revisiting the acquisitions of Instagram and WhatsApp, and the case was left open for regulators to take another shot at it. The court decision was in response to a Facebook motion to dismiss the suit. Judge James Boesberg of the D.
+
+
+***
+![This Is How I Hacked My Neighbors Computer](https://external-preview.redd.it/0mFz173G5RjTozL_vRAurzqevruv6Wz66USDtxH_C5U.jpg?auto=webp&s=0ef3ba3c224104ac15ed0a2712f0f5c30e6272bd "This Is How I Hacked My Neighbors Computer")
+
+
+[This Is How I Hacked My Neighbors Computer](https://www.reddit.com/r/programming/comments/o9s0cv/this_is_how_i_hacked_my_neighbors_computer/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Biohackers Take Aim at Big Pharma's Stranglehold on Insulin](https://external-preview.redd.it/h8cWwijvAyI6VnRrhkP7R6UjkoTBUrEgfP3__QBnIbo.jpg?auto=webp&s=3491a4c8888873ca71b93197c681c6a1ddfbaa9a "Biohackers Take Aim at Big Pharma's Stranglehold on Insulin")
+
+
+[Biohackers Take Aim at Big Pharma's Stranglehold on Insulin](https://www.reddit.com/r/technology/comments/o9rzjk/biohackers_take_aim_at_big_pharmas_stranglehold/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[NZDUSD trades between MAs](https://www.forexlive.com/technical-analysis/!/nzdusd-trades-between-mas-20210628)
+
+
+> The pair waits for the next shove With the price trading between its two hourly moving averages - and above and below its 200 day moving average - the buyers and sellers are battling it out.  It will take a move above the 100 or move below the 200 hour moving averages to solicit momentum in the direction of
+
+
