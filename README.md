@@ -32091,3 +32091,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[Barco Research Finds Meeting Rooms Take Centre Stage in Australian Hybrid Workplaces](https://itwire.com/strategy/barco-research-finds-meeting-rooms-take-centre-stage-in-australian-hybrid-workplaces.html)
+
+
+> Meeting Barometer drops as people struggle with virtual collaboration, on the impending return to the office COMPANY NEWS by Barco: In its newest, international survey, Barco Clickshare, a global leader in visualisation and collaboration solutions, has surveyed the engagement and needs of Australian employees in meetings and identified five key trends that business decision makers simply cannot afford to ignore when preparing for a flexible, future fit hybrid workplace. The trends, which are highlighted in Outlook For The Post-Covid Workplace, include: Office optimism returns.
+
+
+***
+![Chris Pratt and Katherine Schwarzenegger 'Plan on Spending a Lot of Family Time Together' This Summer and Katherine Schwarzenegger posts throwback pic with her parents](https://https://www.thearkatech.com/img/news_img/all/15195_15_1200.pic "Chris Pratt and Katherine Schwarzenegger 'Plan on Spending a Lot of Family Time Together' This Summer and Katherine Schwarzenegger posts throwback pic with her parents")
+
+
+[Chris Pratt and Katherine Schwarzenegger 'Plan on Spending a Lot of Family Time Together' This Summer and Katherine Schwarzenegger posts throwback pic with her parents](https://www.thearkatech.com/en/75143/)
+
+
+> © Instagram / Katherine Schwarzenegger By: Daniel White2021-06-28 03:15:39 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Katherine Schwarzenegger posts throwback pic with her parents and Chris Pratt and Katherine Schwarzenegger 'Plan on Spending a Lot of Family Time Together' This Summer Live updates: The latest from the U.S. Gymnastics Olympic trials women's competition. First Warning Forecast: Staying hot and humid next week. Monday will be worse: Some locations could see 110 degrees.
+
+
+***
+!['The Office' Alum John Krasinski Revealed How He's Different From Jim Halpert and Actor/director John Krasinski visits Houston theater for opening night of 'A Quiet Place II'](https://https://www.thearkatech.com/img/news_img/all/15187_5_1200.pic "'The Office' Alum John Krasinski Revealed How He's Different From Jim Halpert and Actor/director John Krasinski visits Houston theater for opening night of 'A Quiet Place II'")
+
+
+['The Office' Alum John Krasinski Revealed How He's Different From Jim Halpert and Actor/director John Krasinski visits Houston theater for opening night of 'A Quiet Place II'](https://www.thearkatech.com/en/75142/)
+
+
+> © Instagram / John Krasinski By: Olivia Anderson2021-06-28 03:14:40 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Actor/director John Krasinski visits Houston theater for opening night of 'A Quiet Place II' and 'The Office' Alum John Krasinski Revealed How He's Different From Jim Halpert Takeaways from series loss to Pirates. Daewoo E&C Vina, SparkLabs, and Bespin Global Partner to Build a Smart City Platform in Vietnam. Indiana ordered to reinstate extra unemployment benefits.
+
+
+***
+![Emily Ratajkowski on ownership, consent, and the #FreeBritney movement and Emily Ratajkowski's crop top is a wardrobe malfunction waiting to happen](https://https://www.thearkatech.com/img/news_img/all/15184_5_1200.pic "Emily Ratajkowski on ownership, consent, and the #FreeBritney movement and Emily Ratajkowski's crop top is a wardrobe malfunction waiting to happen")
+
+
+[Emily Ratajkowski on ownership, consent, and the #FreeBritney movement and Emily Ratajkowski's crop top is a wardrobe malfunction waiting to happen](https://www.thearkatech.com/en/75141/)
+
+
+> © Instagram / Emily Ratajkowski Emily Ratajkowski on ownership, consent, and the #FreeBritney movement and Emily Ratajkowski's crop top is a wardrobe malfunction waiting to happen Emily Ratajkowski on ownership, consent, and the #FreeBritney movement and Emily Ratajkowski's crop top is a wardrobe malfunction waiting to happen Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Emily Ratajkowski's crop top is a wardrobe malfunction waiting to happen and Emily Ratajkowski on ownership, consent, and the #FreeBritney movement Hunou scores early and Minnesota downs Portland 1-0.
+
+
+***
+![Surprise! Rose Leslie and Kit Harington of 'Game of Thrones' are expecting their first baby and Kit Harington looks compelling in Netflix's Criminal season 2 trailer](https://https://www.thearkatech.com/img/news_img/all/15178_18_1200.pic "Surprise! Rose Leslie and Kit Harington of 'Game of Thrones' are expecting their first baby and Kit Harington looks compelling in Netflix's Criminal season 2 trailer")
+
+
+[Surprise! Rose Leslie and Kit Harington of 'Game of Thrones' are expecting their first baby and Kit Harington looks compelling in Netflix's Criminal season 2 trailer](https://www.thearkatech.com/en/75140/)
+
+
+> © Instagram / Kit Harington Surprise! Rose Leslie and Kit Harington of 'Game of Thrones' are expecting their first baby and Kit Harington looks compelling in Netflix's Criminal season 2 trailer Surprise! Rose Leslie and Kit Harington of 'Game of Thrones' are expecting their first baby and Kit Harington looks compelling in Netflix's Criminal season 2 trailer Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Kit Harington looks compelling in Netflix's Criminal season 2 trailer and Surprise! Rose Leslie and Kit Harington of 'Game of Thrones' are expecting their first baby US jets strike Iran-backed militia groups in Iraq and Syria in response to ongoing drone, rocket attacks.
+
+
