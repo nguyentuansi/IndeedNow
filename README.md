@@ -32238,3 +32238,50 @@
 > Here's the Smart Clock 2 in 'heather grey.' Image: Lenovo The Lenovo Smart Clock and Smart Clock Essential are both functional, attractive alarm clocks with some extra smart home capabilities. Today, Lenovo has announced the next in line: the Lenovo Smart Clock 2. The big news is that the Google Assistant-powered Smart Clock 2 can come with an optional wireless charging dock, which can juice up Qi-compatible devices. This dock can also act as what Lenovo describes as 'a soft, ambient nightlight.
 
 
+***
+![Curiouser & Curiouser: Why did Twitter's new grievance officer in India quit?](https://cdn.mos.cms.futurecdn.net/Lxxe5GH9sJt4sUgQ2Kozha-1200-80.jpg "Curiouser & Curiouser: Why did Twitter's new grievance officer in India quit?")
+
+
+[Curiouser & Curiouser: Why did Twitter's new grievance officer in India quit?](https://www.techradar.com/news/curiouser-and-curiouser-why-did-twitters-new-grievance-officer-in-india-quit)
+
+
+> (Image credit: Shutterstock) You just can't keep Twitter off the headlines in India. Just as it is caught in a bitter fight with the Indian government, the microblogging site went ahead locked, albeit just for an hour, the Twitter account of Union IT Minister over an alleged copyright infringement. Further, it also similarly locked the Twitter account of a top opposition MP, Shashi Tharoor, who as it happened headed the parliamentary panel that questioned the company over its reluctance to comply to the India's new IT rules.
+
+
+***
+![Oppo' s rollable phone: Stunningly crazy tech](https://www.thehindubusinessline.com/specials/technophile/t6j2af/article35011511.ece/ALTERNATES/LANDSCAPE_615/20210627130841jpg "Oppo' s rollable phone: Stunningly crazy tech")
+
+
+[Oppo' s rollable phone: Stunningly crazy tech](https://www.thehindubusinessline.com/specials/technophile/oppo-s-rollable-phone-stunningly-crazy-tech/article35011506.ece)
+
+
+> The smartphone scenario is crying out for innovation. This was very clear when the first foldable phone came along, and people couldn't get enough of wanting to know what it was all about. Now, Oppo has turned the foldable idea on its head by showcasing a rollable. I was lucky enough to spend a few days with this fascinating new concept phone, and here's what it's like…When you first look at the Oppo X 2021, to use its rather tame and temporary name, it seems like a regular smartphone, only thicker and heavier.
+
+
+***
+![Samsung MWC 2021 Event: How to Watch Live Stream & What to Expect](https://images.thequint.com/thequint%2F2021-06%2Ff47cabe2-6cdf-4592-b0a8-3eceabf88e49%2FMWC_2021_main1.jpg?w=1200&auto=format%2Ccompress&ogImage=true "Samsung MWC 2021 Event: How to Watch Live Stream & What to Expect")
+
+
+[Samsung MWC 2021 Event: How to Watch Live Stream & What to Expect](https://www.thequint.com/tech-and-auto/gadgets/samsung-mwc-2021-event-how-to-watch-live-stream-and-what-to-expect)
+
+
+> Samsung MWC 2021 Event: Live Stream, TimingsSamsung's event will be available at Samsung Newsroom and on the company's official YouTube channel. Both will be streaming this year's Galaxy Session which kicks off on Monday, 28 June, at 10:45 pm IST.The company in its invite has said it will be 'showcasing how the Galaxy ecosystem of connected devices is set to provide people with even greater possibilities for enriching their lifestyles.'Samsung confirmed that it will be launching 'its vision for the future of smartwatches at the event as well as new opportunities for both developers and users designed to deliver a new era of smartwatch experiences".
+
+
+***
+![#TECH: Electric car sales are expected to represent the majority worldwide by 2033](https://assets.nst.com.my/images/articles/botscarsa_NSTfield_image_socialmedia.var_1624859391.jpg "#TECH: Electric car sales are expected to represent the majority worldwide by 2033")
+
+
+[#TECH: Electric car sales are expected to represent the majority worldwide by 2033](https://www.nst.com.my/lifestyle/bots/2021/06/702975/tech-electric-car-sales-are-expected-represent-majority-worldwide-2033)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[Tecno Spark Go 2021 gets listed on Amazon; launching in India on July 1st](http://www.pinkvilla.com/tech/news/tecno-spark-go-2021-gets-listed-on-amazon-launching-in-india-on-july-1st-791426)
+
+
+> Attach Main technology Image: Image Caption: Tecno Spark Go 2021 gets listed on Amazon; launching in India on July 1st Social Media Image : Enter the Technology details: Tecno Spark Go 2021 is all set to launch in the Indian smartphone market and the company has already announced the launch of July 1st. It seems the first day of July is going to be very exciting for us because a lot of products are going to launch on the same day. Now ahead of the official launch event, the company has listed the handset on Amazon listing revealing some of the important information about the upcoming smartphone.
+
+
