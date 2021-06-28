@@ -32188,3 +32188,53 @@
 > (Image credit: Apple) Following reports that Apple's AirTag key tracker was removed from shelves by a major Australian retailer over concerns with its button battery last month, the country's consumer watchdog has urged parents to keep the product away from children.The official warning comes after Apple had added more explicit button battery warnings to its packaging in Australia, though the Australian Competition and Consumer Commission (ACCC) said it wasn't enough to address its concerns with the product.
 
 
+***
+![Lenovo goes big on Android tablets, and we mean really big](https://icdn.digitaltrends.com/image/digitaltrends/lenovo-tab-m7-hand.jpg "Lenovo goes big on Android tablets, and we mean really big")
+
+
+[Lenovo goes big on Android tablets, and we mean really big](https://www.digitaltrends.com/mobile/lenovo-android-tablets-yoga-tab-13-news/)
+
+
+> Lenovo has gone tablet mad at Mobile World Congress 2021 and announced five new Android-based models, with the most interesting being the enormous Yoga Tab 13, which as the name hints has a whopping 13-inch screen. It's joined by a slightly smaller 11-inch version, along with the Tab M7 and Tab M8, and the Tab P11 Plus too. Let's take a closer look. Yoga Tab 13 and Yoga Tab 11 Lenovo's gunning for Apple's iPad Pro range with the new Yoga Tab 13 and Yoga Tab 11, but while the screen sizes are similar to Apple's best tablets, the Lenovo models have some interesting design features that make them stand out.
+
+
+***
+![Lenovo's cute Smart Clock 2 now comes with a wireless charger for your phone](https://icdn.digitaltrends.com/image/digitaltrends/lenovo-smart-clock-2-charging-dock.jpg "Lenovo's cute Smart Clock 2 now comes with a wireless charger for your phone")
+
+
+[Lenovo's cute Smart Clock 2 now comes with a wireless charger for your phone](https://www.digitaltrends.com/home/lenovo-smart-clock-2-news/)
+
+
+> It was very easy to fall for Lenovo's cute Smart Clock, the small-screen, Google Assistant-powered gadget perfect for the bedside table, and now Lenovo has brought out an updated sequel. It doesn't just have a new design either, because the Lenovo Smart Clock 2 comes with an added feature: A wireless charging plinth for your phone, boosting its space-saving usefulness. The wireless charging plinth attaches to the bottom of the Smart Clock 2, providing space off to the side of the clock to rest your phone and let the battery charge overnight.
+
+
+***
+![The Lenovo Smart Clock 2 can wirelessly charge your phone while you sleep](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/lemovo-smart-clock-2-wireless-charging-dock.jpg "The Lenovo Smart Clock 2 can wirelessly charge your phone while you sleep")
+
+
+[The Lenovo Smart Clock 2 can wirelessly charge your phone while you sleep](https://www.androidcentral.com/lenovo-smart-clock-2-mwc-announcer)
+
+
+> Source: Lenovo Lenovo launches its second-generation Smart Clock. The new smart display features a 4-inch touchscreen and a wireless charging dock to charge compatible smartphones. The Lenovo Smart Clock 2 will be available later this year for just $90. Lenovo has unveiled the new Smart Clock 2 at MWC 2021. The smart display makes a few design changes while keeping some of the same features from the first-generation Lenovo Smart Clock, but it has a handy trick up its sleeve. The Lenovo Smart Clock 2 features an updated design to complement a new wireless charging dock.
+
+
+***
+![Lenovo's affordable new Android tablets have something for everyone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/lenovo-yoga-tab-13-gaming.jpg "Lenovo's affordable new Android tablets have something for everyone")
+
+
+[Lenovo's affordable new Android tablets have something for everyone](https://www.androidcentral.com/lenovo-mwc-2021-android-tablet-announcer)
+
+
+> Source: Lenovo Lenovo announced five new tablets at MWC 2021, including the new Lenovo P11 Plus and Yoga Tab 13. The new lineup of tablets features Google's new Entertainment Space designed for content consumption and discovery. The tablets will be available starting July for $110 and up. Lenovo has taken to MWC 2021 to launch a new lineup of Android tablets at various price points. These new tablets will come run Android 11 and come equipped with Google's new Entertainment Space, featuring a launcher similar to Android TV and Chromecast with Google TV for easier discovery of media content.
+
+
+***
+![The Lenovo Smart Clock 2 gives Google Assistant a new look](https://cdn.vox-cdn.com/thumbor/uTewaWI0l3V5v0wwIDKWLraTlXk=/0x438:2000x1563/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/69512047/Lenovo_Smart_Clock_2_Birdeye_Clockfaces.0.png "The Lenovo Smart Clock 2 gives Google Assistant a new look")
+
+
+[The Lenovo Smart Clock 2 gives Google Assistant a new look](https://www.theverge.com/2021/6/28/22549548/lenovo-smart-clock-2-wireless-phone-charger-features)
+
+
+> Here's the Smart Clock 2 in 'heather grey.' Image: Lenovo The Lenovo Smart Clock and Smart Clock Essential are both functional, attractive alarm clocks with some extra smart home capabilities. Today, Lenovo has announced the next in line: the Lenovo Smart Clock 2. The big news is that the Google Assistant-powered Smart Clock 2 can come with an optional wireless charging dock, which can juice up Qi-compatible devices. This dock can also act as what Lenovo describes as 'a soft, ambient nightlight.
+
+
