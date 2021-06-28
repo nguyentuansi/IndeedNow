@@ -32426,3 +32426,44 @@
 > The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packages move (today and in the future) from Point A to Point B. As you are reading this, I'll be preparing to head out for an adventure, joining thousands of others who plan to jump in their cars, trucks, SUVs, and of course, vans and RVs for the great American road trip.
 
 
+***
+![Amazon Fire HD tablets have some great games and here are the best for kids](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/amazon-fire-hd-10-kids-pro-sonic-game-lifestyle-01.jpg "Amazon Fire HD tablets have some great games and here are the best for kids")
+
+
+[Amazon Fire HD tablets have some great games and here are the best for kids](https://www.androidcentral.com/best-kids-games-amazon-fire-hd-tablets)
+
+
+> Source: Chris Wedel/Android Central Amazon Fire Tablets are perfect for a lot of things. Whether it's watching movies or being productive on the new Fire HD 10, one thing that kids love most about using a tablet is playing games. The Amazon Appstore has a lot of great options, but there are also plenty of not-so-great choices. These are the best kids games for Amazon Fire HD tablets, whether for a Fire HD 7 or the Fire HD 10 Kids Pro — there's lots of fun to be had. Minecraft is one of the world's most popular games today, even after its official release in 2011.
+
+
+***
+![Should you upgrade to the Nikon D3500 or stick with the D3400?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/nikon-d3500-hero.jpg "Should you upgrade to the Nikon D3500 or stick with the D3400?")
+
+
+[Should you upgrade to the Nikon D3500 or stick with the D3400?](https://www.imore.com/nikon-d3500-vs-nikon-d3400-whats-difference-and-should-you-upgrade)
+
+
+> If you're new to DSLRs, the D3500 is at the top of the best digital camera list today. It's small in size but is equipped with a deeper grip and thumb pad than previous models, making it more comfortable to use. It lacks a touchscreen, but the D3500 takes north of 1550 pictures per battery charge, and the images are stunning. $597 at Amazon Deep, comfortable grip Controls on right side 1,550 shots per charge Lightweight Quiet shutter mode Excellent picture quality Cheaper Fixed LCD Lacks touchscreen The Nikon D3400 has a fixed LCD and inconvenient button placement, but it's still a reliable camera.
+
+
+***
+[GBPUSD can't muster any momentum above 200 hour MA](https://www.forexlive.com/technical-analysis/!/gbpusd-cant-muster-any-momentum-above-200-hour-ma-20210628)
+
+
+> If the price can't get (and stay) above the 200 hour MA, the buyers are not winning There is a swing level between 1.3886 and 1.38948, and a lower swing area that comes in between 1.3853 and 1.3861. The low price just reached 1.3884. Can the sellers push to the lower swing area now?  That is what traders will
+
+
+***
+[Sources: Microsoft is planning to release Windows 11 in October; Microsoft employees have hinted at October 20 in marketing images (Tom Warren/The Verge)](http://www.techmeme.com/210628/p11#a210628p11)
+
+
+> Tom Warren / The Verge: Sources: Microsoft is planning to release Windows 11 in October; Microsoft employees have hinted at October 20 in marketing images — October 20th may be the Windows 11 day — Microsoft keeps hinting at an October release date for Windows 11. The software giant teased …
+
+
+***
+[UK-based ClearScore, which offers a free credit scoring service, raises £200M from Invus Opportunities and says it has 14M customers globally (Finextra)](http://www.techmeme.com/210628/p10#a210628p10)
+
+
+> Finextra: UK-based ClearScore, which offers a free credit scoring service, raises £200M from Invus Opportunities and says it has 14M customers globally — ClearScore, a UK-based free credit scoring service and marketplace, has picked up a £200 investment from Invus Opportunities.
+
+
