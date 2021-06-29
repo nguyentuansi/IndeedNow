@@ -33134,3 +33134,44 @@
 > Fox News effectively admitted to a pattern of misconduct and has agreed to pay a civil penalty in New York. Donie O'Sullivan spoke with several hardcore Donald Trump supporters at his rally and some still honestly believed he would be reinstated in August. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. We're not sure if this is pure genius or absolute madness.
 
 
+***
+![Amazon and Asmodee Sues Dixit Counterfeiters](https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Amazon%20Featured%20Image.jpg?itok=POac7xQT "Amazon and Asmodee Sues Dixit Counterfeiters")
+
+
+[Amazon and Asmodee Sues Dixit Counterfeiters](https://techraptor.net/tabletop/news/amazon-and-asmodee-sues-dixit-counterfeiters)
+
+
+> 06/29/2021 - 16:02 | By: Tyler Chancey Home Tabletop Tabletop News Amazon and Asmodee Sues Dixit Counterfeiters Will The Real Dixit Please Stand Up? It appears more lawsuits are coming in the world of board gaming today, this time from the likes of massive delivery giant Amazon and board game publisher Asmodee. The lawsuits in question are against two individuals, credited in the filings as Crazy Leaf and Gig Trading Inc., who were caught selling counterfeit versions of card game expansions distributed by Asmodee, and were selling them through Amazon's storefront.
+
+
+***
+![Google Wifi](https://cdn.mos.cms.futurecdn.net/pbiyvrJ6M84eTMQuLNCvWi-1200-80.jpg "Google Wifi")
+
+
+[Google Wifi](https://www.techradar.com/reviews/google-wifi)
+
+
+> Google Wifi may not have been the first mesh router to hit the streets, but it's certainly among the best. In fact, it somewhat set the standard for mesh routers, sporting a small, minimalist and modern design while being packed with impressive features and an affordable price tag.What's more, Google Wifi is easy to install – you just need a mobile app to set it up and connect, making mesh routers a lot more approachable for the less network savvy users. It also just got a surprise refresh in June 2021, making Google Wifi Gen 2 even cheaper than Google Wifi Gen 1, as well as the more premium Google Nest Wifi.
+
+
+***
+[Source: enterprise AI company DataRobot has raised ~$250M in new funding led by Altimeter Capital Management and Tiger Global at a ~$6B pre-money valuation (Dan Primack/Axios)](http://www.techmeme.com/210629/p40#a210629p40)
+
+
+> Dan Primack / Axios: Source: enterprise AI company DataRobot has raised ~$250M in new funding led by Altimeter Capital Management and Tiger Global at a ~$6B pre-money valuation — DataRobot, a Boston-based enterprise AI company, has quietly raised around $250 million in new funding led by existing investors …
+
+
+***
+[Forum Brands, which provides market intelligence for e-commerce acquisitions, raises $27M Series A led by Norwest Venture Partners (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210629/p39#a210629p39)
+
+
+> Mary Ann Azevedo / TechCrunch: Forum Brands, which provides market intelligence for e-commerce acquisitions, raises $27M Series A led by Norwest Venture Partners — The number of startups acquiring e-commerce businesses, especially those operating on Amazon, to grow and scale is increasing as more people than ever are shopping online.
+
+
+***
+[T-Mobile is letting owners of eSIM-compatible iPhones try out its cell network with a 30-day free trial just by installing an app; no billing info is required (Allison Johnson/The Verge)](http://www.techmeme.com/210629/p38#a210629p38)
+
+
+> Allison Johnson / The Verge: T-Mobile is letting owners of eSIM-compatible iPhones try out its cell network with a 30-day free trial just by installing an app; no billing info is required — Owners of newer iPhones can start a free 30-day trial just by downloading an app thanks to eSIM
+
+
