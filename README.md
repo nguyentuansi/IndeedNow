@@ -32746,3 +32746,50 @@
 > Riley de León / CNBC: Payments company Payoneer closed ~1.5% lower on its Nasdaq debut via a SPAC merger, giving it a market cap of $1B+; the company was originally valued at $3.3B — - Shares of payments company Payoneer closed down roughly 1.5% after its market debut Monday on the Nasdaq, giving it a market cap of just over $1 billion.
 
 
+***
+[MWC 2021 Event: No Galaxy Watch, But  a Sneak Peek of One UI Watch](https://www.thequint.com/tech-and-auto/mwc-2021-event-no-galaxy-watch-but-a-sneak-peek-of-one-ui-watch-samsung)
+
+
+> The new One UI Watch is designed to make the Galaxy Watch and smartphone experience connected.
+
+
+***
+![Nikon's Z FC is a film camera revival in mirrorless form](https://cdn.vox-cdn.com/thumbor/o7zHcJtoCnVycTYPoQVCYSpVe4A=/0x141:2000x1188/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22688033/Zfc_USDD_TO_6573.jpg "Nikon's Z FC is a film camera revival in mirrorless form")
+
+
+[Nikon's Z FC is a film camera revival in mirrorless form](https://www.theverge.com/2021/6/29/22555091/nikon-z-fc-announced-price-specs-release-date)
+
+
+> Nikon is going all-in on the retro aesthetic with its latest Z-series mirrorless camera. The company says the new Z FC, officially styled 'Z fc,' is designed specifically to evoke its FM2 film SLR from the ‘80s, with dedicated dials for settings like shutter speed, exposure compensation, and ISO. The approach is similar to the Nikon DF, a retro-style full-frame DSLR that Nikon released in 2013. But the DF was much larger than the film cameras it was inspired by. The Z FC has a 20.9-megapixel APS-C sensor (and of course no SLR mirror and prism), which means the resulting camera is far more compact and looks a lot closer to something like an FM2.
+
+
+***
+![Shinjiru review](https://cdn.mos.cms.futurecdn.net/Rdf8G4gdAVha9LMzSMUJy6-1200-80.jpg "Shinjiru review")
+
+
+[Shinjiru review](https://www.techradar.com/reviews/shinjiru)
+
+
+> Set in motion during 2000, the story of Shinjiru began with the idea to create a company that would distinguish itself among numerous offshore web hosting providers by offering a wide range of options to an even wider range of customers. Headquartered in Kuala Lumpur (Malaysia), Shinjiru has spent two decades providing everything from domain registration and simple shared hosting solutions to VPS and dedicated servers, to businesses that call for a high level of security. At this moment they claim to serve more than 40,000 customers, individuals and corporations alike.
+
+
+***
+![Crypto firms drop British registration bids amid scrutiny](https://assets2.rappler.com/2021/03/reuters-030121-bitcoin-1-1624939101436.jpg "Crypto firms drop British registration bids amid scrutiny")
+
+
+[Crypto firms drop British registration bids amid scrutiny](https://www.rappler.com/technology/crypto-firms-drop-british-registration-bids-amid-scrutiny)
+
+
+> A growing number of crypto asset firms are abandoning attempts to register with Britain's financial regulator as global scrutiny of the rapidly-growing sector intensifies. The Financial Conduct Authority (FCA) banned Binance, one of the world's biggest crypto exchanges, on Friday from conducting any regulated activity in Britain as regulators across the world bolster oversight of the crypto sector. Data on registrations shows the number which have been ditched has jumped by a quarter in less than a month, an FCA spokesperson said on Monday, adding that Binance withdrew its application in mid-May, without giving further details.
+
+
+***
+![Customizing YouTube API to stop me from wasting my time](https://preview.redd.it/2e8zkxasn4871.png?width=2220&format=png&auto=webp&s=f7ad9861520f050809ba91474d9f994eb5cb4ac5 "Customizing YouTube API to stop me from wasting my time")
+
+
+[Customizing YouTube API to stop me from wasting my time](https://www.reddit.com/r/Python/comments/oa0jdh/customizing_youtube_api_to_stop_me_from_wasting/)
+
+
+> I created this Recommendation System that filters search results based on view count, days-since-published, view_to_sub_ratio, etc. I enjoyed working on this and am open to suggestions on improving it.Output Screen
+
+
