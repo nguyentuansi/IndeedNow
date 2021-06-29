@@ -32987,3 +32987,53 @@
 > The Citizenry announced today that it raised $20 million in Series B funding in partnership with NextWorld Evergreen. A direct-to-consumer home decor retailer, The Citizenry works with artisans from around the world to produce limited-edition runs of handcrafted, hand-numbered home goods. In October, The Citizenry opened its first brick-and-mortar store in New York City, and with this round of funding, The Citizenry hopes to accelerate its development into a whole-home brand. Co-Founder Rachel Bentley got her start at Bain & Company, where she worked in strategy consulting in global supply chains.
 
 
+***
+![Samsung, Google preview ‘unified' One UI Watch user interface for Galaxy smartwatches at MWC 2021](https://images.financialexpress.com/2021/06/samsung.png "Samsung, Google preview ‘unified' One UI Watch user interface for Galaxy smartwatches at MWC 2021")
+
+
+[Samsung, Google preview ‘unified' One UI Watch user interface for Galaxy smartwatches at MWC 2021](https://www.financialexpress.com/industry/technology/samsung-google-preview-unified-one-ui-watch-user-interface-for-galaxy-smartwatches-at-mwc-2021/2280771/)
+
+
+> By: FE Online | June 29, 2021 7:27 PMThe upcoming Galaxy Watch will become the first device to have the new unified platform and One UI Watch.Samsung at the Mobile World Congress (MMC) 2021 has unveiled its latest interface for its Galaxy smartwatches called One UI Watch. The company has co-developed the software with Google. The UI is expected to make the Samsung Galaxy phones more coherent with the watch. 'Samsung will bring performance enhancements, a more seamless experience between the Watch and Android smartphones, and access to an even greater number of applications,' the company said in its blog post.
+
+
+***
+![Prilenia receives positive EMA opinion on Orphan Drug Designation for pridopidine in ALS](https://mms.businesswire.com/media/20210629005762/en/888454/23/LOGO_Prilenia_HIGH_RESO-02.jpg "Prilenia receives positive EMA opinion on Orphan Drug Designation for pridopidine in ALS")
+
+
+[Prilenia receives positive EMA opinion on Orphan Drug Designation for pridopidine in ALS](https://www.businesswire.com/news/home/20210629005762/en/Prilenia-receives-positive-EMA-opinion-on-Orphan-Drug-Designation-for-pridopidine-in-ALS)
+
+
+> June 29, 2021 09:53 AM Eastern Daylight Time NAARDEN, Netherlands--(BUSINESS WIRE)--Prilenia Therapeutics B.V., a clinical stage biotech company focused on developing novel treatments for neurodegenerative and neurodevelopmental disorders, received a positive opinion on European Orphan Drug Designation for pridopidine in Amyotrophic lateral sclerosis (ALS). The orphan designation is expected to be granted within 30 days, following the positive opinion issued by the EMA Committee for Orphan Medicinal Products (COMP).
+
+
+***
+![Microsoft rolls out Windows 11 preview build for beta testers: How to download, other details](https://images.financialexpress.com/2021/06/windows-story-2.png "Microsoft rolls out Windows 11 preview build for beta testers: How to download, other details")
+
+
+[Microsoft rolls out Windows 11 preview build for beta testers: How to download, other details](https://www.financialexpress.com/industry/technology/microsoft-rolls-out-windows-11-preview-build-for-beta-testers-how-to-download-other-details/2280734/)
+
+
+> By: FE Online | June 29, 2021 7:23 PMMicrosoft in its official Windows 11 preview has also included new Snap Groups and Snap Layouts features.After the announcement of Windows 11, Microsoft is now releasing its first preview today which will be available for Windows Insiders to download. The Windows 11 preview (build 22000.51) will give access to the new Start menu along with multitasking features as well as an overhauled Microsoft Store. The official preview released today also features an updated File Explorer.
+
+
+***
+![Orum raises $56M to help speed up intrabank transfers – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/Orum_Stephany_Vino.jpeg?w=534 "Orum raises $56M to help speed up intrabank transfers – TechCrunch")
+
+
+[Orum raises $56M to help speed up intrabank transfers – TechCrunch](https://techcrunch.com/2021/06/29/orum-raises-52m/)
+
+
+> Orum, which aims to speed up the amount of time it takes to transfer money between banks, announced today it has raised $56 million in a Series B round of funding. Accel and Canapi Ventures co-led the round, which also included participation from existing backers Bain Capital Ventures, Inspired Capital, Homebrew, Acrew, Primary, Clocktower and Box Group. The financing comes barely three months after Orum announced a $21 Series A, and brings its total raised to over $82 million. Orum CEO Stephany Kirkpatrick launched the company in 2019 after working for several years at LearnVest, a personal finance site founded by Alexa von Tobel that was acquired by Northwestern Mutual in 2015 for an estimated $375 million.
+
+
+***
+![The best free video editing software in 2021](https://cdn.mos.cms.futurecdn.net/s8FbqGbJZdMYMDuuArKqFU-1200-80.jpg "The best free video editing software in 2021")
+
+
+[The best free video editing software in 2021](https://www.techradar.com/best/free-video-editing-software)
+
+
+> Content creation has exploded in recent years, and it's become even easier to create videos that can be shared to TikTok, YouTube, Instagram and many more social channels.There are many free video editors that come with straightforward features to create these videos, but it may be a challenge to sift through the ones that bring the best benefits.There used to be a time where we could load up Windows Movie Maker or iMovie on our computers, and quickly create a video to share between friends on a chat app such as MSN Messenger.
+
+
