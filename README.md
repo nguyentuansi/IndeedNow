@@ -32893,3 +32893,50 @@
 > June 29, 2021 03:51 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Ingram Micro Commerce & Lifecycle Services, a leading provider of global supply chain solutions, today announced it has signed a five-year contract extension to manage the distribution and returns of TalkTalk's routers and set-top boxes. As Britain's biggest unbundled broadband network, TalkTalk covers 96% of the population and supplies services to consumers, businesses and resellers. The contract extension comes at a strategic time, as Ingram Micro and TalkTalk work to meet an increasing demand for in-home connectivity and entertainment through streaming services.
 
 
+***
+![Ruling on FTC's Facebook suits slams brakes on tech's legal foes](https://images.axios.com/ETxf32Ukkj7ieT01tEFyoz60sk8=/0x206:4000x2456/1366x768/2021/06/29/1624958810849.jpg "Ruling on FTC's Facebook suits slams brakes on tech's legal foes")
+
+
+[Ruling on FTC's Facebook suits slams brakes on tech's legal foes](https://www.axios.com/facebook-ftc-ruling-brakes-tech-antitrust-c5079818-97a6-446a-ba0f-aa9e5d92d631.html)
+
+
+> A federal judge's decisions Monday tossed out antitrust lawsuits against Facebook — and threw cold water on the heated campaign to brand Big Tech's leading companies as illegal monopolists.Why it matters: The rulings show just how tough it will be for regulators at the Federal Trade Commission and the Justice Department to make their charges of tech malfeasance stick.Yes, but: It could also strengthen the hand of lawmakers who argue that today's outdated antitrust laws lack the teeth to restrain the power wielded by Google, Facebook, Amazon and Apple.
+
+
+***
+[Will TikTok Be Back in India Anytime Soon?](https://www.thequint.com/tech-and-auto/will-bytedance-owned-tiktok-be-back-in-india)
+
+
+> TikTok was banned in India in September last year, citing a threat to the country's national security.
+
+
+***
+![Samsung Galaxy Z Fold 3 release date, price, news and leaks](https://cdn.mos.cms.futurecdn.net/LJTvB7qt3yjPdqHYTfcxNP-1200-80.jpg "Samsung Galaxy Z Fold 3 release date, price, news and leaks")
+
+
+[Samsung Galaxy Z Fold 3 release date, price, news and leaks](https://www.techradar.com/news/samsung-galaxy-z-fold-3)
+
+
+> The Samsung Galaxy Z Fold 3 didn't appear at the Galaxy S21 launch on January 14, nor at the Unpacked event unveiling the mid-range Galaxy A52 5G in March, but that doesn't mean it's not coming - we just might have to bide our time before Samsung's next big foldable phone is out.We've been hearing rumors about the Samsung Galaxy Z Fold 3 for a while now, so we suspect it's in development, and it's likely to be Samsung's next top-tier foldable phone.The Fold 3 follows on from the Samsung Galaxy Z Fold 2, which was officially released in September 2020 and which crucially improved on the original Galaxy Fold's durability issues and got a much bigger front screen.
+
+
+***
+![10club raises $40 million seed funding to replicate Thrasio-model in India – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1023335298.jpg?w=600 "10club raises $40 million seed funding to replicate Thrasio-model in India – TechCrunch")
+
+
+[10club raises $40 million seed funding to replicate Thrasio-model in India – TechCrunch](https://techcrunch.com/2021/06/29/10club-raises-40-million-seed-funding-to-replicate-thrasio-model-in-india/)
+
+
+> 10club, a one-year-old Indian startup that is building a Thrasio-like venture, said on Tuesday it has raised $40 million in what is one of the largest seed financing rounds in the South Asian market. The round was co-led by Fireside Ventures (a prominent Indian investor in consumer and hardware tech space) and an unnamed global investor, the Indian startup said, without revealing the other firm's name. HeyDay, PDS International, Class 5 Global, Secocha Ventures, and founders of hardware startup boAt (Aman Gupta and Sameer Mehta) also participated in the round.
+
+
+***
+![How to fix Snapchat crashing after bug causes app to stop working for users across the globe](https://www.thesun.co.uk/wp-content/uploads/2021/06/NINTCHDBPICT000387578732.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "How to fix Snapchat crashing after bug causes app to stop working for users across the globe")
+
+
+[How to fix Snapchat crashing after bug causes app to stop working for users across the globe](https://www.thesun.co.uk/tech/15427707/how-to-fix-snapchat-crashing-bug-app-stop-working/)
+
+
+> A SOFTWARE bug ground Snapchat to a halt on Monday, leaving thousands of miffed users unable to access the photo-sharing app. The glitch on the iOS version of Snapchat caused the app to crash almost immediately after launch. The Snapchat app ran into issues on iOS on MondayCredit: Getty - Contributor The issue has now been fixed following the release of a software update, The Verge reports. It doesn't appear that the bug affected the Android version of the app. Prior to the update, users attempting to launch Snapchat on their iPhone were shown an error message before the app crashed.
+
+
