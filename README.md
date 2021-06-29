@@ -32793,3 +32793,53 @@
 > I created this Recommendation System that filters search results based on view count, days-since-published, view_to_sub_ratio, etc. I enjoyed working on this and am open to suggestions on improving it.Output Screen
 
 
+***
+![L&T Technology Services and Mavenir partner on Open RAN and 5G solutions](https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/05/full/1620154385-9923.jpg "L&T Technology Services and Mavenir partner on Open RAN and 5G solutions")
+
+
+[L&T Technology Services and Mavenir partner on Open RAN and 5G solutions](https://www.business-standard.com/article/technology/l-t-technology-services-and-mavenir-partner-on-open-ran-and-5g-test-automation-solutions-121062900511_1.html)
+
+
+> L & T Technology Services Limited, a global leading pure-play engineering services company, today announced a strategic partnership to deliver end-to-end 5G automation services with Mavenir, the Network Software Provider building the future of networks with cloud-native software that runs on any cloud. The automation services will include Continuous Integration / Continuous Delivery (CI/CD) automation of the 5G ORAN portfolio of RU/DU/CU products, in conjunction with the Cloud Native 5G NSA and SA core network products, for global frequency bands supporting TDD and FDD technology.
+
+
+***
+![iBASIS Partners with SIPPIO to Meet Fast-Growing Demand for Unified Cloud Communications](https://mms.businesswire.com/media/20210628005768/en/802398/23/iBASIS_Logo_Lockup_pbt_300x300.jpg "iBASIS Partners with SIPPIO to Meet Fast-Growing Demand for Unified Cloud Communications")
+
+
+[iBASIS Partners with SIPPIO to Meet Fast-Growing Demand for Unified Cloud Communications](https://www.businesswire.com/news/home/20210628005768/en/iBASIS-Partners-with-SIPPIO-to-Meet-Fast-Growing-Demand-for-Unified-Cloud-Communications)
+
+
+> June 29, 2021 02:00 AM Eastern Daylight Time LEXINGTON, Mass.--(BUSINESS WIRE)--iBASIS, the leading provider of communications solutions for operators and digital players worldwide, announced it will partner with SIPPIO, the largest, secure, Azure-based provider of voice-calling services for Microsoft Teams, globally. The relationship enables both companies to address the fast-growing global demand for unified communications and collaboration services with Cloud Numbering and International Voice Termination.
+
+
+***
+![Taoglas Launches Industry Leading EDGE System-on-Module Portfolio for Rapid IoT Deployment](https://mms.businesswire.com/media/20210628005831/en/888244/23/Taoglas_Logo_376-2965_RGB.jpg "Taoglas Launches Industry Leading EDGE System-on-Module Portfolio for Rapid IoT Deployment")
+
+
+[Taoglas Launches Industry Leading EDGE System-on-Module Portfolio for Rapid IoT Deployment](https://www.businesswire.com/news/home/20210628005831/en/Taoglas-Launches-Industry-Leading-EDGE-System-on-Module-Portfolio-for-Rapid-IoT-Deployment)
+
+
+> June 29, 2021 02:00 AM Eastern Daylight Time BARCELONA--(BUSINESS WIRE)--MWC 2021 – Taoglas®, a leading enabler of digital transformation through IoT, today launched its comprehensive System-on-Module (SoM) portfolio for instant IoT development, designed for a range of technology applications including transportation, remote healthcare and smart buildings. The new SoMs are based on Taoglas' award-winning design platform and offer the ultimate degree of flexibility and scalability while shortening time-to-market for OEMs and enterprises.
+
+
+***
+![Dyson launches Omni-Glide Vacuum Cleaner in India: Price, features and where to buy](https://images.financialexpress.com/2021/06/Dyson-Omni-Glide_Manoeuvrability_Master.jpg "Dyson launches Omni-Glide Vacuum Cleaner in India: Price, features and where to buy")
+
+
+[Dyson launches Omni-Glide Vacuum Cleaner in India: Price, features and where to buy](https://www.financialexpress.com/industry/technology/dyson-launches-omni-glide-vacuum-cleaner-in-india-price-features-and-where-to-buy/2280351/)
+
+
+> By: FE Online | June 29, 2021 11:30 AMThe model is only available in one lookDyson: Dyson has launched its Omni-Glide Vacuum Cleaner in India, and the company has said that this is its first omnidirectional soft roller. The vacuum cleaner has a lie-flat head, fitted with two motorised soft rollers that pick up dust. Dyson has said that the head would be able to rotate forwards, backwards as well as sideways. Here's everything you need to know about this appliance from Dyson.Dyson Omni-Glide Vacuum Cleaner: Price in India and where to buyThe vacuum cleaner has been launched by the company in India at a price of Rs 34,990.
+
+
+***
+![Xbox Cloud Gaming Service Comes to iOS Devices, Windows 10 PCs](https://i.gadgets360cdn.com/large/xCloud_iOS_PCs_release_1624945943458.jpg "Xbox Cloud Gaming Service Comes to iOS Devices, Windows 10 PCs")
+
+
+[Xbox Cloud Gaming Service Comes to iOS Devices, Windows 10 PCs](https://gadgets.ndtv.com/games/news/microsoft-xbox-cloud-gaming-ios-devices-windows-10-pcs-100-game-pass-ultimate-service-available-2474843)
+
+
+> Microsoft's Xbox Cloud Gaming service (formerly called xCloud) is now available on iOS devices and Windows 10 PCs to Xbox Game Pass Ultimate subscribers. Back in April, the company announced an invite-only beta for Xbox Cloud Gaming on iOS devices and PC and now, it is rolling out to everyone in 22 countries. iOS and PC users will be able to make use of Xbox Cloud Gaming via their browser if they have a decent Internet connection. There are over 100 games in the Xbox Cloud Gaming library that players can get access to right now if they have an Xbox Game Pass Ultimate subscription.
+
+
