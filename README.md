@@ -33175,3 +33175,43 @@
 > Allison Johnson / The Verge: T-Mobile is letting owners of eSIM-compatible iPhones try out its cell network with a 30-day free trial just by installing an app; no billing info is required — Owners of newer iPhones can start a free 30-day trial just by downloading an app thanks to eSIM
 
 
+***
+![iMac Pro (2021): Rumors, News, Price, and Release Date](https://icdn.digitaltrends.com/image/digitaltrends/imac_pro_editing.jpg "iMac Pro (2021): Rumors, News, Price, and Release Date")
+
+
+[iMac Pro (2021): Rumors, News, Price, and Release Date](https://www.digitaltrends.com/computing/imac-pro-rumors-news-price-release-date/)
+
+
+> When Apple killed off the iMac Pro, we thought that was the end of the road for the high-end all-in-one computer. Yet when the iMac was completely revamped earlier this year, Apple only revealed the smaller 24-inch version. That left a very obvious question hanging in the air: What about the pro-level iMac to replace the current 27-inch iMac? It could be that Apple decides to leave the iMac Pro dead and buried and instead just offer a more powerful all-in-one under the regular iMac branding. But considering Apple's other product lines, it makes sense to offer an iMac Pro that offers a greater level of performance than the 24-inch iMac.
+
+
+***
+![When is my phone getting Android 12?](https://icdn.digitaltrends.com/image/digitaltrends/pixel-4a-back-comparison.jpg "When is my phone getting Android 12?")
+
+
+[When is my phone getting Android 12?](https://www.digitaltrends.com/mobile/android-12-phones-list/)
+
+
+> The second Android 12 beta is here, bringing with it a really good look at most of the new features that will eventually show up in the operating system once it finally rolls out to everyone. From the new refreshed design language to the Material You theming options to the Privacy Center, Google now allows testers to experience exactly what will be hitting their phones when Android 12 becomes publicly available. Of course, given the fact that the Android 12 release is full steam ahead, you might be wondering when you can get your hands on it.
+
+
+***
+![Google Announces New Safety Center For Nest Users](https://www.androidheadlines.com/wp-content/uploads/2018/11/Google-Nest-AH-NS-04.jpg "Google Announces New Safety Center For Nest Users")
+
+
+[Google Announces New Safety Center For Nest Users](https://www.androidheadlines.com/2021/06/google-announces-new-safety-center-for-nest-users.html)
+
+
+> In our digital age of constant connectivity, safety and privacy are becoming something of a luxury. To help Nest owners feel more at ease, Google has launched the new Safety Center. This was announced via a blog post on the Google website.The new Safety Center hits on some of the key areas of concern with smart home devicesThe constant threat of invasion of privacy is only getting worse as tech companies ship devices with different sensors and methods of recording data. The Safety Center is a move to retain trust among Nest users amid this.
+
+
+***
+![tastytrade, IG Group Close On $1 Billion Partnership To Democratize Global Markets](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/copy_of_copy_of_courtesy_photo_8_0.png "tastytrade, IG Group Close On $1 Billion Partnership To Democratize Global Markets")
+
+
+[tastytrade, IG Group Close On $1 Billion Partnership To Democratize Global Markets](https://www.benzinga.com/fintech/21/06/21777720/tastytrade-ig-group-close-on-1-billion-partnership-to-democratize-global-markets)
+
+
+> IG Group Holdings Plc, a global online trading platform, formally announced the completed acquisition of tastytrade, Inc, a financial network advocating for and empowering individual investors, for $1 billion. What Happened: Founded a decade ago by the veterans that developed and sold thinkorswim to TD Ameritrade, tastytrade is a holistic platform dedicated to changing the culture of investing. The company's core offer consists of education that challenges investors to think and trade strategically through the tastworks and Dough online brokerage platforms, as well as The Small Exchange, a futures exchange.
+
+
