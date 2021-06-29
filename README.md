@@ -33084,3 +33084,53 @@
 > The same thing having similar names in different parts of the world or cultures, is a problem Google search has encountered for long. So when it faced a similar challenge around Covid-19 vaccine names, the tech giant turned to its new Multitask Unified Model (MUM) tool for help. Since AstraZeneca, CoronaVac, Moderna, Pfizer, Sputnik and other broadly distributed vaccines all have many different names all over the world, Google's 'ability to correctly identify all these names is critical to bringing people the latest trustworthy information about the vaccine'.
 
 
+***
+![You won't believe how cheap a refurbished Dell laptop is with this coupon](https://icdn.digitaltrends.com/image/digitaltrends/dell-latitude-7390-laptop-refurb-white-bg.jpg "You won't believe how cheap a refurbished Dell laptop is with this coupon")
+
+
+[You won't believe how cheap a refurbished Dell laptop is with this coupon](https://www.digitaltrends.com/dtdeals/dell-latitude-7390-deal-dell-june-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. With Prime Day all over, we're back to a slow trickle of deals, especially when it comes to laptops and computers. There are still some decent refurbished laptop deals and Dell laptop deals making the rounds. Also, we're almost out of the graphics card drought, so we should start seeing better deals on those, which is good news if you're interested in building or upgrading a desktop. While laptop deals may be slim pickings right now, Dell is offering an awesome discount on refurbished systems, namely the Latitude 7390.
+
+
+***
+![Cybersecurity](https://icdn.digitaltrends.com/image/digitaltrends/dt_logo_lockup_blue.jpg "Cybersecurity")
+
+
+[Cybersecurity](https://www.digitaltrends.com/topic/cybersecurity/)
+
+
+> Cybersecurity isn't what it used to be. Breaches and leaks, once rare and relatively low-impact, have become commonplace, rendering our personal data more vulnerable than ever. Everything from your Social Security number to your health information now lives online, and though it may prove difficult to avoid such attacks, staying up to date on the latest news and security practices is the first step in prevention. Thankfully, we've rounded up all our news, guides, and cybersecurity coverage in one central location.
+
+
+***
+![More U.S. Companies Embrace Private, Hybrid Clouds as Pandemic Response Increases Demand for Outsourcing](https://mms.businesswire.com/media/20210629005955/en/1016900/23/ISG_%28R%29_Logo.jpg "More U.S. Companies Embrace Private, Hybrid Clouds as Pandemic Response Increases Demand for Outsourcing")
+
+
+[More U.S. Companies Embrace Private, Hybrid Clouds as Pandemic Response Increases Demand for Outsourcing](https://www.businesswire.com/news/home/20210629005955/en/More-U.S.-Companies-Embrace-Private-Hybrid-Clouds-as-Pandemic-Response-Increases-Demand-for-Outsourcing)
+
+
+> June 29, 2021 01:53 PM Eastern Daylight Time STAMFORD, Conn.--(BUSINESS WIRE)--U.S. enterprises have stepped up their adoption of private and hybrid clouds in the past year, sometimes choosing them over public clouds, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. This trend comes as the use of IT outsourcing has grown, with many U.S. enterprises turning to managed services, managed hosting and colocation services as they seek new ways of doing business in response to the COVID-19 crisis, the 2021 ISG Provider Lens™ Next-Gen Private/Hybrid Cloud – Data Center Services & Solutions report for the U.
+
+
+***
+![Facebook UFO group moderators want to know why no one new cares about UFOs](https://helios-i.mashable.com/imagery/articles/07pZGH5xfmvymywCFAwnLmM/hero-image.fill.size_1200x675.jpg "Facebook UFO group moderators want to know why no one new cares about UFOs")
+
+
+[Facebook UFO group moderators want to know why no one new cares about UFOs](https://mashable.com/article/facebook-ufo-group-moderators)
+
+
+> Paul Fanning was waiting for news on UFOs. He, along with the rest of the world interested in life outside of our planet, was anticipating a government drop of info."You've got this huge report coming, and I just have a feeling that it's going to change the conversation," Fanning, a 54-year-old who works in IT in Los Angeles and runs the Alien UFO Sightings Video Group on Facebook, told Mashable. "I don't know exactly how or in what context, but what I've been doing in advance of it being released is just really, really, really pulling back.
+
+
+***
+![Someone Transformed 'Bodies' By Drowning Pool Into A Kids Song, And It Kind Of Slaps](https://cdn.digg.com/wp-content/uploads/2021/06/29173622/Screen-Shot-2021-06-29-at-1.36.10-PM.jpg "Someone Transformed 'Bodies' By Drowning Pool Into A Kids Song, And It Kind Of Slaps")
+
+
+[Someone Transformed 'Bodies' By Drowning Pool Into A Kids Song, And It Kind Of Slaps](https://digg.com/video/someone-transformed-bodies-by-drowning-pool-into-a-kids-song)
+
+
+> Fox News effectively admitted to a pattern of misconduct and has agreed to pay a civil penalty in New York. Donie O'Sullivan spoke with several hardcore Donald Trump supporters at his rally and some still honestly believed he would be reinstated in August. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. We're not sure if this is pure genius or absolute madness.
+
+
