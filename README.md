@@ -32702,3 +32702,47 @@
 > 2021 年 3 月，擁有 MIPS 智慧財產權的 Wave Computing，宣布放棄 MIPS 指令集， […]
 
 
+***
+![Value of Facebook surges to $1 trillion after judge rejects antitrust complaints](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202106/2b9a52b6539b4e2b9b6e830c1c3e9a86.jpg "Value of Facebook surges to $1 trillion after judge rejects antitrust complaints")
+
+
+[Value of Facebook surges to $1 trillion after judge rejects antitrust complaints](https://www.koreatimes.co.kr/www/tech/2021/06/133_311288.html)
+
+
+> In this April 14, 2020, file photo, the "Like" logo is shown on a sign at Facebook headquarters in Menlo Park, Calif. A federal judge has dismissed antitrust lawsuits brought against Facebook by the Federal Trade Commission and a coalition of state attorneys general, dealing a significant blow to attempts by regulators to rein in tech giants. AP-YonhapA U.S. judge on Monday dismissed the blockbuster antitrust action against Facebook filed last year by federal and state regulators, helping lift the value of the social media giant above $1 trillion for the first time.
+
+
+***
+![I made a script that generates random nicknames for users who post or comment in /r/getnicknamed.](https://external-preview.redd.it/mzy7unwo_608YBe27yNY36JUVcLPYouzMtMp9A-jdlk.jpg?auto=webp&s=e3ef9c29923198cc8c3dcb075d3e5ece3d565ea4 "I made a script that generates random nicknames for users who post or comment in /r/getnicknamed.")
+
+
+[I made a script that generates random nicknames for users who post or comment in /r/getnicknamed.](https://www.reddit.com/r/Python/comments/o9you5/i_made_a_script_that_generates_random_nicknames/)
+
+
+> Get your official nickname at /r/getnicknamed - it's a silly little project but I hope a few of you post/comment there to test it out.My script uses 2 json files (one has a list of name prefixes, the other has a list of adjectives) to generate a random nickname.Usernames are pulled from the subreddit's comments and submissions every 60 seconds. Identified usernames are then checked against the existing list of usernames to ensure no duplicates. To improve the efficiency of the username lookup, I'm in the process of converting the data to a sql database rather than a list within a json file.
+
+
+***
+[Twitch system tray application using streamlink. Cross-platform, made with Golang](https://www.reddit.com/r/programming/comments/o9yj1g/twitch_system_tray_application_using_streamlink/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Jeanette Jenkins, Artist Spotlight, and new Time to Walk launch on Fitness+](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/time-to-walk-season-2.jpg "Jeanette Jenkins, Artist Spotlight, and new Time to Walk launch on Fitness+")
+
+
+[Jeanette Jenkins, Artist Spotlight, and new Time to Walk launch on Fitness+](https://www.imore.com/jeanette-jenkins-artist-spotlight-and-new-time-walk-launch-fitness)
+
+
+> Source: Apple TV+ Apple Fitness+ has added a ton of new content this week. Guest trainer Jeanette Jenkins is hosting strength and HIIT workouts. Lady Gaga has an Artist Spotlight and there is a new season of Time to Walk. Last week, Apple announced that it was adding a ton of new content to Apple Fitness+, the company's workout subscription service. Today, all of the new workouts, spotlights, and other content launched on the service. The first addition to Apple Fitness+ are new strength and HIIT workout classes from guest trainer Jeanette Jenkins.
+
+
+***
+[Payments company Payoneer closed ~1.5% lower on its Nasdaq debut via a SPAC merger, giving it a market cap of $1B+; the company was originally valued at $3.3B (Riley de León/CNBC)](http://www.techmeme.com/210628/p34#a210628p34)
+
+
+> Riley de León / CNBC: Payments company Payoneer closed ~1.5% lower on its Nasdaq debut via a SPAC merger, giving it a market cap of $1B+; the company was originally valued at $3.3B — - Shares of payments company Payoneer closed down roughly 1.5% after its market debut Monday on the Nasdaq, giving it a market cap of just over $1 billion.
+
+
