@@ -32940,3 +32940,50 @@
 > A SOFTWARE bug ground Snapchat to a halt on Monday, leaving thousands of miffed users unable to access the photo-sharing app. The glitch on the iOS version of Snapchat caused the app to crash almost immediately after launch. The Snapchat app ran into issues on iOS on MondayCredit: Getty - Contributor The issue has now been fixed following the release of a software update, The Verge reports. It doesn't appear that the bug affected the Android version of the app. Prior to the update, users attempting to launch Snapchat on their iPhone were shown an error message before the app crashed.
 
 
+***
+![Scientists find black holes eating stars](https://images.perthnow.com.au/publication/C-3261571/22a9a8c72fb1160b0555337fae320b01c39fbbdf-16x9-x0y0w1280h720.jpg?imwidth=1200 "Scientists find black holes eating stars")
+
+
+[Scientists find black holes eating stars](https://www.perthnow.com.au/technology/scientists-find-black-holes-eating-stars-c-3261571)
+
+
+> Australian scientists have helped find two massive star-eating black holes, which have been likened to the video game character Pac-Man.An international team captured billion-year-old gravitational waves from the death spirals of collapsing supergiant stars as they collided with the black holes.The observations will help unlock some of the most complex mysteries of the universe, including the building blocks of matter and the workings of space and time."These collisions have shaken the universe to its core and we've detected the ripples they have sent hurtling through the cosmos," Australian National University astrophysicist Susan Scott said on Tuesday.
+
+
+***
+[Accel announces fifteenth early-stage US fund at $650M, seventh early-stage European and Israeli fund at $650M, and sixth global growth stage fund at $1.75B (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210629/p7#a210629p7)
+
+
+> Mary Ann Azevedo / TechCrunch: Accel announces fifteenth early-stage US fund at $650M, seventh early-stage European and Israeli fund at $650M, and sixth global growth stage fund at $1.75B — Accel announced Tuesday the close of three new funds totaling $3.05 billion, money that it will be using to back early-stage startups …
+
+
+***
+![4G Clinical's clinical trial management software attracts over $200M in new funding – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1175270464.jpg?w=600 "4G Clinical's clinical trial management software attracts over $200M in new funding – TechCrunch")
+
+
+[4G Clinical's clinical trial management software attracts over $200M in new funding – TechCrunch](https://techcrunch.com/2021/06/29/4g-clinicals-clinical-trial-management-software-attracts-over-200m-in-new-funding/)
+
+
+> The pandemic significantly changed how we do medical research, and now companies are trying to figure out what trends will stay and which ones will go. One that 4G Clinical is hoping will survive the pandemic is a need for speed and flexibility in therapeutics trials.  4G Clinical creates software to run the back-end of a clinical trial. That means randomizing patients into treatment and placebo groups, locating medicines and placebos, keeping the supply of those medicines stocked, and, at least during the pandemic, delivering those medicines to patients.
+
+
+***
+![Alphabet's Wing launches OpenSky drone airspace authorization app in US – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/060721_Blogpost_Header.png?w=712 "Alphabet's Wing launches OpenSky drone airspace authorization app in US – TechCrunch")
+
+
+[Alphabet's Wing launches OpenSky drone airspace authorization app in US – TechCrunch](https://techcrunch.com/2021/06/29/alphabets-wing-launches-opensky-drone-airspace-authorization-app-in-us/)
+
+
+> I love testing drones. It's a lot of fun, and a nice way to mix up my standard review cycle. But I've altogether given up on testing them around here. Granted, living in Queens, NY presents a unique combination of obstacles, including population density, two major international airports and a prison – but restrictions have made it next to impossible to fly around here. Knowing precisely where the nearest open airspace is can get tricky, particularly in large cities like New York. Today, Alphabet's drone-delivery subsidiary Wing announced that it's launching its OpenSky app in the U.
+
+
+***
+![Artisan home decor retailer The Citizenry raises $20M in Series B funding – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/Parthiv_Jute_Rug_6.jpg "Artisan home decor retailer The Citizenry raises $20M in Series B funding – TechCrunch")
+
+
+[Artisan home decor retailer The Citizenry raises $20M in Series B funding – TechCrunch](https://techcrunch.com/2021/06/29/artisan-home-decor-retailer-the-citizenry-raises-20m-in-series-b-funding/)
+
+
+> The Citizenry announced today that it raised $20 million in Series B funding in partnership with NextWorld Evergreen. A direct-to-consumer home decor retailer, The Citizenry works with artisans from around the world to produce limited-edition runs of handcrafted, hand-numbered home goods. In October, The Citizenry opened its first brick-and-mortar store in New York City, and with this round of funding, The Citizenry hopes to accelerate its development into a whole-home brand. Co-Founder Rachel Bentley got her start at Bain & Company, where she worked in strategy consulting in global supply chains.
+
+
