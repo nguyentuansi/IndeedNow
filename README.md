@@ -32843,3 +32843,53 @@
 > Microsoft's Xbox Cloud Gaming service (formerly called xCloud) is now available on iOS devices and Windows 10 PCs to Xbox Game Pass Ultimate subscribers. Back in April, the company announced an invite-only beta for Xbox Cloud Gaming on iOS devices and PC and now, it is rolling out to everyone in 22 countries. iOS and PC users will be able to make use of Xbox Cloud Gaming via their browser if they have a decent Internet connection. There are over 100 games in the Xbox Cloud Gaming library that players can get access to right now if they have an Xbox Game Pass Ultimate subscription.
 
 
+***
+![Google Messages set to get auto-OTP deletion and ‘SMS Categories' features](https://images.indianexpress.com/2020/11/Google-Messages.jpg "Google Messages set to get auto-OTP deletion and ‘SMS Categories' features")
+
+
+[Google Messages set to get auto-OTP deletion and ‘SMS Categories' features](https://indianexpress.com/article/technology/tech-news-technology/google-messages-set-to-get-auto-otp-deletion-and-sms-categories-features-7381021/)
+
+
+> Google is all set to release two new features for its Messages app. The company is adding a new way to view messages as users receive a lot of different types of messages, from friends and family and businesses sending promotions, receipts, order confirmations and more. The search giant is adding an SMS Categories feature, which uses machine learning technology to automatically sort your messages into categories. These include personal, transactions, OTPs, and more. Google says the categories will 'help you easily find the messages that matter most the moment you need it.
+
+
+***
+![RtBrick Simplifies OSS/BSS Integration for Network Disaggregation](https://mms.businesswire.com/media/20210629005042/en/887825/23/Logo_transparent.jpg "RtBrick Simplifies OSS/BSS Integration for Network Disaggregation")
+
+
+[RtBrick Simplifies OSS/BSS Integration for Network Disaggregation](https://www.businesswire.com/news/home/20210629005042/en/RtBrick-Simplifies-OSSBSS-Integration-for-Network-Disaggregation)
+
+
+> June 29, 2021 04:00 AM Eastern Daylight Time PRINCETON, N.J.--(BUSINESS WIRE)--RtBrick has announced a new Management API for its disaggregated routing software that simplifies the integration with existing OSS and BSS systems. It dramatically reduces the amount of time and effort required to make disaggregated networks operational by using widely adopted industry tools and programming languages. Many of the world's largest carriers are now looking to disaggregate their networks using independent hardware and software to bring them greater vendor choice, service flexibility and cost-savings.
+
+
+***
+![Paysafe expands FOX Bet partnership into Michigan](https://mms.businesswire.com/media/20210629005186/en/831957/23/Paysafe_Logo.jpg "Paysafe expands FOX Bet partnership into Michigan")
+
+
+[Paysafe expands FOX Bet partnership into Michigan](https://www.businesswire.com/news/home/20210629005186/en/Paysafe-expands-FOX-Bet-partnership-into-Michigan)
+
+
+> June 29, 2021 04:00 AM Eastern Daylight Time HOUSTON, Texas--(BUSINESS WIRE)--Paysafe (NYSE: PSFE), a leading specialized payments platform, today announced an expanded partnership with FOX Bet, a U.S. online and mobile sports-betting platform operated by Flutter Entertainment plc (LSE: FLTR; EURONEXT: FLTR). Building on Paysafe integrations across multiple states, FOX Bet has now strengthened its Michigan sportsbook's payments offering with the Skrill digital wallet and paysafecard eCash solution.
+
+
+***
+![Why is unit testing important for developers?](https://external-preview.redd.it/bKbULgfnSTm6rmMyEJc1nnVNFBXQiPRxQYY2IHQwozY.jpg?auto=webp&s=354bbc708efce3604ff9b91c5fe962c4579f8d04 "Why is unit testing important for developers?")
+
+
+[Why is unit testing important for developers?](https://www.reddit.com/r/programming/comments/oa3pvh/why_is_unit_testing_important_for_developers/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Ingram Micro Commerce & Lifecycle Services Extends Contract with TalkTalk](https://mms.businesswire.com/media/20210629005491/en/785039/23/LogoIMCLS_blk_Final_%288%29.jpg "Ingram Micro Commerce & Lifecycle Services Extends Contract with TalkTalk")
+
+
+[Ingram Micro Commerce & Lifecycle Services Extends Contract with TalkTalk](https://www.businesswire.com/news/home/20210629005491/en/Ingram-Micro-Commerce-Lifecycle-Services-Extends-Contract-with-TalkTalk)
+
+
+> June 29, 2021 03:51 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Ingram Micro Commerce & Lifecycle Services, a leading provider of global supply chain solutions, today announced it has signed a five-year contract extension to manage the distribution and returns of TalkTalk's routers and set-top boxes. As Britain's biggest unbundled broadband network, TalkTalk covers 96% of the population and supplies services to consumers, businesses and resellers. The contract extension comes at a strategic time, as Ingram Micro and TalkTalk work to meet an increasing demand for in-home connectivity and entertainment through streaming services.
+
+
