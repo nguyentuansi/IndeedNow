@@ -33037,3 +33037,50 @@
 > Content creation has exploded in recent years, and it's become even easier to create videos that can be shared to TikTok, YouTube, Instagram and many more social channels.There are many free video editors that come with straightforward features to create these videos, but it may be a challenge to sift through the ones that bring the best benefits.There used to be a time where we could load up Windows Movie Maker or iMovie on our computers, and quickly create a video to share between friends on a chat app such as MSN Messenger.
 
 
+***
+![35 Stocks Moving In Tuesday's Mid-Day Session](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "35 Stocks Moving In Tuesday's Mid-Day Session")
+
+
+[35 Stocks Moving In Tuesday's Mid-Day Session](https://www.benzinga.com/news/21/06/21770280/35-stocks-moving-in-tuesdays-mid-day-session)
+
+
+> Aligos Therapeutics Presses Capital Raise Button 22 Stocks Moving in Tuesday's Pre-Market Session New Takes on Advertising Could be Set to Go Wild 12 Information Technology Stocks Moving In Monday's Pre-Market Session 55 Biggest Movers From Friday
+
+
+***
+![Scientific Games Could Have Upside With Spinoffs Of Lottery And Sports Betting Businesses](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/game-bank-image_by_felikss_veilands_from_pixabay.1163331_1920.jpg "Scientific Games Could Have Upside With Spinoffs Of Lottery And Sports Betting Businesses")
+
+
+[Scientific Games Could Have Upside With Spinoffs Of Lottery And Sports Betting Businesses](https://www.benzinga.com/news/21/06/21767131/scientific-games-could-have-upside-with-spinoffs-of-lottery-and-sports-betting-businesses)
+
+
+> A leader in casino games, state lottery and sports betting technology announced a plan to unlock shareholder value Tuesday morning. What Happened: Scientific Games Corporation (NASDAQ: SGMS) announced a strategic review to unlock shareholder value that could result in the spinoff of several business units. The company intends to divest its lottery and sports betting businesses. The business segments could be spun off via traditional IPO, go public via SPAC, be sold off, or be combined with another business.
+
+
+***
+![Understanding Boeing's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Understanding Boeing's Unusual Options Activity")
+
+
+[Understanding Boeing's Unusual Options Activity](https://www.benzinga.com/markets/options/21/06/21769744/understanding-boeings-unusual-options-activity)
+
+
+> Shares of Boeing (NYSE:BA) saw some unusual options activity on Tuesday. Following the unusual option alert, the stock price moved up to $240.97. Sentiment: BULLISH Option Type: SWEEP Trade Type: CALL Expiration Date: 2021-07-16 Strike Price: $250.00 Volume: 2808 Open Interest: 14193 Three Indications Of Unusual Options Activity Extraordinarily large volume (compared to historical averages) is one indication of unusual options market activity. Volume refers to the total number of contracts traded over a given time period when discussing options market activity.
+
+
+***
+[Amazon debuts Reading Sidekick, which reads physical and digital books aloud from a catalog of over 700, for Kids Plus on Fire tablets and Echo devices (Dan Seifert/The Verge)](http://www.techmeme.com/210629/p30#a210629p30)
+
+
+> Dan Seifert / The Verge: Amazon debuts Reading Sidekick, which reads physical and digital books aloud from a catalog of over 700, for Kids Plus on Fire tablets and Echo devices — Reading Sidekick is available on Echo devices starting today — Amazon has announced a new feature for its Kids Plus service …
+
+
+***
+![Google uses new tool to help understand vaccine names, but it could change search forever too](https://images.indianexpress.com/2021/06/Google-MUM-tool.jpg "Google uses new tool to help understand vaccine names, but it could change search forever too")
+
+
+[Google uses new tool to help understand vaccine names, but it could change search forever too](https://indianexpress.com/article/technology/tech-news-technology/google-uses-new-tool-to-help-understand-vaccine-names-but-it-could-change-search-forever-too-7381519/)
+
+
+> The same thing having similar names in different parts of the world or cultures, is a problem Google search has encountered for long. So when it faced a similar challenge around Covid-19 vaccine names, the tech giant turned to its new Multitask Unified Model (MUM) tool for help. Since AstraZeneca, CoronaVac, Moderna, Pfizer, Sputnik and other broadly distributed vaccines all have many different names all over the world, Google's 'ability to correctly identify all these names is critical to bringing people the latest trustworthy information about the vaccine'.
+
+
