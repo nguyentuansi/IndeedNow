@@ -32661,3 +32661,44 @@
 > Email has the highest return on investment of any other marketing channel. On average, email earns you $40 for every $1 spent. And the best part is that email is an owned channel, which means you can reach your subscriber directly instead of relying on social media algorithms to surface your content. At Demand Curve, we've worked with over 500 startups, meticulously documenting growth tactics for all growth channels. We also incorporate what we've learned from our agency, Bell Curve, which works with Outschool, Imperfect Produce and Microsoft to name a few.
 
 
+***
+![Tech gains nudge S&P 500, Nasdaq further into record heights](https://ca-times.brightspotcdn.com/dims4/default/8fb9b86/2147483647/strip/true/crop/3600x2025+0+188/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F49%2F9a%2F4408f2c3f0f8c5f1c9d1dd840406%2Ff098b49734534924b17f75cb1ef7e2a8 "Tech gains nudge S&P 500, Nasdaq further into record heights")
+
+
+[Tech gains nudge S&P 500, Nasdaq further into record heights](https://www.latimes.com/business/story/2021-06-28/tech-gains-nudge-s-p-500-nasdaq-further-into-record-heights)
+
+
+> Strength for tech stocks nudged U.S. indexes a bit further into record heights Monday, more than making up for losses across much of the rest of Wall Street.The Standard & Poor's 500 rose 9.91 points, or 0.2%, to 4,290.61 after drifting between small gains and losses for much of the day. It added to its all-time high set Friday as optimism builds about the strengthening economy and expectations that the Federal Reserve will keep interest rates low for a while longer.Healthy gains for Nvidia, Facebook and other stocks that have been winners of the increasingly online world helped the Nasdaq composite also tick further into record heights.
+
+
+***
+[Marvel's Loki to make his Fortnite debut in July](https://mobilesyrup.com/2021/06/28/marvel-loki-fortnite-entrance-july-2021/)
+
+
+> The God of Mischief will soon be a permanent part of Fortnite. Epic Games has officially announced that Loki Laufeyson will be the next character that ‘Fortnite Crew’ (subscription) members can claim. The Prince of Asgard will be available starting July 1st and will be a part of the Fortnite Crew for the full month.... The post Marvel’s Loki to make his Fortnite debut in July appeared first on MobileSyrup.
+
+
+***
+[64-Bit Office for Windows on ARM](https://www.reddit.com/r/programming/comments/o9wpcr/64bit_office_for_windows_on_arm/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![SEB introduces data ethics policy](https://www.finextra.com/finextra-images/top_pics/xl/data_01.jpg "SEB introduces data ethics policy")
+
+
+[SEB introduces data ethics policy](https://www.finextra.com/newsarticle/38352/seb-introduces-data-ethics-policy)
+
+
+> No body in the article.
+
+
+***
+[從歷屆 HotChips 檢視 RISC-V 的發展](https://technews.tw/2021/06/29/the-development-of-risc-v/)
+
+
+> 2021 年 3 月，擁有 MIPS 智慧財產權的 Wave Computing，宣布放棄 MIPS 指令集， […]
+
+
