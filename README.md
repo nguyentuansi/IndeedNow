@@ -33215,3 +33215,53 @@
 > IG Group Holdings Plc, a global online trading platform, formally announced the completed acquisition of tastytrade, Inc, a financial network advocating for and empowering individual investors, for $1 billion. What Happened: Founded a decade ago by the veterans that developed and sold thinkorswim to TD Ameritrade, tastytrade is a holistic platform dedicated to changing the culture of investing. The company's core offer consists of education that challenges investors to think and trade strategically through the tastworks and Dough online brokerage platforms, as well as The Small Exchange, a futures exchange.
 
 
+***
+![Clickbait giant Outbrain files for I.P.O.](https://static01.nyt.com/images/2021/06/29/business/29economy-briefing-outbrain/merlin_59636149_3512ed10-d38a-41b1-9601-07bd256fb6f8-facebookJumbo.jpg "Clickbait giant Outbrain files for I.P.O.")
+
+
+[Clickbait giant Outbrain files for I.P.O.](https://www.nytimes.com/2021/06/29/technology/outbrain-ipo.html)
+
+
+> Continue reading the main storyJune 29, 2021, 8:15 p.m. ETOutbrain, one of the top purveyors of clickbait ads, filed on Tuesday to raise at least $100 million through an initial public offering â€' one day before its top competitor starts trading publicly.The company, which calls itself a content recommendation platform, places so-called chumbox ads on websites, hoping to lure readers the way anglers use pieces of dead fish to lure other fish. It had $767 million in revenue last year and $4.4 million in net income, Outbrain said in its filing with the Securities and Exchange Commission.
+
+
+***
+![Mac Miller's five favourite songs and Mac Miller's Drug Dealers Receive Trial Date](https://https://www.thearkatech.com/img/news_img/all/15173_7_1200.pic "Mac Miller's five favourite songs and Mac Miller's Drug Dealers Receive Trial Date")
+
+
+[Mac Miller's five favourite songs and Mac Miller's Drug Dealers Receive Trial Date](https://www.thearkatech.com/en/76912/)
+
+
+> © Instagram / Mac Miller By: Isabella Smith2021-06-30 03:13:22 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Mac Miller's Drug Dealers Receive Trial Date and Mac Miller's five favourite songs How Champlain Towers South fell and what it reveals about possible causes. Catalytic converter thefts are on the rise and can take just 30 seconds. Trae Young injury: Hawks star out for Game 4 vs. Bucks with bone bruise in foot. Maricopa County grand jury indicts Lori Vallow on conspiracy to murder ex-husband in Chandler.
+
+
+***
+![Tattoo removal procedures spike post-pandemic](https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/30/fc74b426-3d6e-449f-b41f-8d89a7af67b3/thumbnail/1200x630/dfe6d61729de90b7be048cc1e7dae3be/cbsn-fusion-tattoo-removal-procedures-spike-post-pandemic-thumbnail-744093-640x360.jpg "Tattoo removal procedures spike post-pandemic")
+
+
+[Tattoo removal procedures spike post-pandemic](https://www.cbsnews.com/video/tattoo-removal-procedures-spike-post-pandemic/)
+
+
+> Be the first to knowGet browser notifications for breaking news, live events, and exclusive reporting.
+
+
+***
+![Taylor Swift Is Re-Releasing 'Red' &amp; Everyone's Roasting Jake Gyllenhaal and Meryl Streep, Jake Gyllenhaal, More Hit With Scathing Feedback](https://https://www.thearkatech.com/img/news_img/all/15172_2_1200.pic "Taylor Swift Is Re-Releasing 'Red' &amp; Everyone's Roasting Jake Gyllenhaal and Meryl Streep, Jake Gyllenhaal, More Hit With Scathing Feedback")
+
+
+[Taylor Swift Is Re-Releasing 'Red' &amp; Everyone's Roasting Jake Gyllenhaal and Meryl Streep, Jake Gyllenhaal, More Hit With Scathing Feedback](https://www.thearkatech.com/en/76911/)
+
+
+> © Instagram / Jake Gyllenhaal By: Christopher Taylor2021-06-30 03:12:17 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Meryl Streep, Jake Gyllenhaal, More Hit With Scathing Feedback and Taylor Swift Is Re-Releasing 'Red' & Everyone's Roasting Jake Gyllenhaal Death toll rises to 12 in Surfside building collapse as search and rescue teams hold onto hope of finding people. How Students Can Combine Study and Baseball. Rising Tennis Star and Coach Aim to Grow Sport in Selma. Agritourism Market during 2021-2025.
+
+
+***
+![NPR Journalist Rebukes Fox News After Network Claimed His Op-Ed Tried To ‘Cancel' Tom Hanks and Photos show Tom Hanks in a movie, not after a health diagnosis](https://https://www.thearkatech.com/img/news_img/all/15171_18_1200.pic "NPR Journalist Rebukes Fox News After Network Claimed His Op-Ed Tried To ‘Cancel' Tom Hanks and Photos show Tom Hanks in a movie, not after a health diagnosis")
+
+
+[NPR Journalist Rebukes Fox News After Network Claimed His Op-Ed Tried To ‘Cancel' Tom Hanks and Photos show Tom Hanks in a movie, not after a health diagnosis](https://www.thearkatech.com/en/76910/)
+
+
+> © Instagram / Tom Hanks NPR Journalist Rebukes Fox News After Network Claimed His Op-Ed Tried To ‘Cancel' Tom Hanks and Photos show Tom Hanks in a movie, not after a health diagnosis Photos show Tom Hanks in a movie, not after a health diagnosis and NPR Journalist Rebukes Fox News After Network Claimed His Op-Ed Tried To ‘Cancel' Tom Hanks Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Rodney Clay Smith. 9 Fantastic Things To Do In Beautiful Punta Gorda, Florida. Adolescent and Young Adult Cancer Survivors Are Reluctant to Get the COVID-19 Vaccine; What Survivors Need to Know About the Vaccine.
+
+
