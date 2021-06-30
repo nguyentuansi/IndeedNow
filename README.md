@@ -33506,3 +33506,50 @@
 > hey alli need to learn to analyse data for sport bettingpeople telling me to learn Pyhon instead of Excelexcel looks easier to my eyes.can you share with me a video that explains the benefits of Python to Excel please?
 
 
+***
+![Big-tech critics regroup in push to reshape Facebook](https://images.livemint.com/img/2021/06/30/600x338/2021-06-10T103903Z_1_LYNXNPEH590H9_RTROPTP_3_GOOGLE-FACEBOOK-NEWS_1623752534349_1625054245706.JPG "Big-tech critics regroup in push to reshape Facebook")
+
+
+[Big-tech critics regroup in push to reshape Facebook](https://www.livemint.com/technology/tech-news/bigtech-critics-regroup-in-push-to-reshape-facebook-11625054010773.html)
+
+
+> U.S. District Judge James Boasberg ruled Monday that a Federal Trade Commission lawsuit was 'legally insufficient," saying the regulator didn't show enough proof that Facebook was a monopoly and that its practices harmed competition. In another setback, the judge dismissed the case brought against Facebook by 46 states on grounds that, among other things, the attorneys general waited too long to bring their claims. Lawmakers in Washington, meanwhile, are considering the path forward after a bruising battle last week to advance bills aimed at strengthening tech antitrust enforcement.
+
+
+***
+![Choosing an NBN plan? Smaller internet providers are challenging big telcos on speeds, ACCC says]( "Choosing an NBN plan? Smaller internet providers are challenging big telcos on speeds, ACCC says")
+
+
+[Choosing an NBN plan? Smaller internet providers are challenging big telcos on speeds, ACCC says](https://thenewdaily.com.au/life/tech/2021/06/30/nbn-internet-fastest-speed-plan/)
+
+
+> Australia's internet providers have logged their best NBN speed performance ever – and consumers are the winner, as the quality gap between small, cheaper telcos and premium brands narrows. In … Continued The post Choosing an NBN plan? Smaller internet providers are challenging big telcos on speeds, ACCC says appeared first on The New Daily.
+
+
+***
+[CellChorus (YC S21) Is Hiring](https://news.ycombinator.com/item?id=27687446)
+
+
+> Location: Houston, TexasCellChorus applies AI to "watch" thousands of videos of cell movement, interactions, survival and death. Our customers use our platform to determine the best therapies to move forward to clinical trials, to understand patient response and non-response, and to maintain consistent manufacturing.You will help some of the top immunotherapy companies in the world improve the lives of patients diagnosed with cancer, infectious diseases, auto-immune disorders and other conditions.
+
+
+***
+![FightCamp punches its way to a $90M round – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/FightCamp.jpg "FightCamp punches its way to a $90M round – TechCrunch")
+
+
+[FightCamp punches its way to a $90M round – TechCrunch](https://techcrunch.com/2021/06/30/fightcamp-punches-its-way-to-a-90m-round/)
+
+
+> FightCamp, an interactive at-home training system for boxing/kickboxing, is announcing this morning that it has raised a $90M round from a long list of investors, including quite the roster of famous fighters. FightCamp pairs smart sensors ('punch trackers' worn under your boxing gloves) with a subscription-based stream of training videos. As you punch your way through a session, it'll track things like punch count and speed over time. To oversimplify it a bit, think Peloton for punching. The company tells me that this round was led by NEA and Connect Ventures — the latter a two-headed beast made up of NEA and the Hollywood talent firm Creative Artists Agency.
+
+
+***
+![Which are the best MagSafe chargers to buy?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/magsafe-charger-hero.jpeg "Which are the best MagSafe chargers to buy?")
+
+
+[Which are the best MagSafe chargers to buy?](https://www.imore.com/best-magsafe-chargers)
+
+
+> Best MagSafe chargers iMore 2021 With the introduction of the iPhone 12 line in September 2020, Apple introduced MagSafe. MagSafe chargers are distinct because they can charge your iPhone 12 with 15 watts of power if used in conjunction with a 20-watt brick. Other manufacturers are making magnetic chargers, but they are not officially MagSafe, as they will only charge at a maximum of 7.5 watts. It can be difficult to know which chargers are the best to buy, so let's take a look at the best MagSafe chargers that you can buy with your hard-earned cash.
+
+
