@@ -33265,3 +33265,53 @@
 > © Instagram / Tom Hanks NPR Journalist Rebukes Fox News After Network Claimed His Op-Ed Tried To ‘Cancel' Tom Hanks and Photos show Tom Hanks in a movie, not after a health diagnosis Photos show Tom Hanks in a movie, not after a health diagnosis and NPR Journalist Rebukes Fox News After Network Claimed His Op-Ed Tried To ‘Cancel' Tom Hanks Know what's going >>> Subscribe NOW to our YouTube <<< Last News: Rodney Clay Smith. 9 Fantastic Things To Do In Beautiful Punta Gorda, Florida. Adolescent and Young Adult Cancer Survivors Are Reluctant to Get the COVID-19 Vaccine; What Survivors Need to Know About the Vaccine.
 
 
+***
+![Tech Spending Expected to Rise as Pandemic Restrictions Ease, Economy Improves](https://images.wsj.net/im-362190/social "Tech Spending Expected to Rise as Pandemic Restrictions Ease, Economy Improves")
+
+
+[Tech Spending Expected to Rise as Pandemic Restrictions Ease, Economy Improves](https://www.wsj.com/articles/tech-spending-expected-to-rise-as-pandemic-restrictions-ease-economy-improves-11625018896)
+
+
+> Liberty Mutual Group Chief Information Officer James McGlennon plans to spend more this year on the software and tools behind digital experiences customers became accustomed to during the pandemic.'Our investments in data, analytics, [and] artificial intelligence help us to create new experiences for quoting, binding, payments and claims,' Mr. McGlennon said, adding that the insurer will also invest more in data analytics and cybersecurity. CIOs at U.S. companies across several industries are expected to spend more on software in 2021, with an emphasis on software related to process automation, artificial intelligence and security.
+
+
+***
+![How to turn off location services on an iPhone](https://helios-i.mashable.com/imagery/articles/03NL95BWVwJE9C57rYISzCT/hero-image.fill.size_1200x675.jpg "How to turn off location services on an iPhone")
+
+
+[How to turn off location services on an iPhone](https://mashable.com/article/how-to-turn-off-location-services-on-iphone)
+
+
+> Sometimes it feels real freaky to open your Maps app and see a list of the latest locations you've been at. You don't want that falling into the wrong hands. It's even freakier to think about the myriad apps that are tracking your location pretty much constantly, and doing who-knows-what with that information. Location services use WiFi, Bluetooth, and GPS to figure out your whereabouts. They can really amp up the iPhone experience, especially if you're an avid Find My app user or use Maps to get around everywhere.
+
+
+***
+![Hackers capitalised COVID-19 lockdown to spread false information using bogus apps, text messages, and social media invitations: study](https://itwire.com/media/k2/items/cache/803d34356df106604813ff9abdfb9b90_XS.jpg "Hackers capitalised COVID-19 lockdown to spread false information using bogus apps, text messages, and social media invitations: study")
+
+
+[Hackers capitalised COVID-19 lockdown to spread false information using bogus apps, text messages, and social media invitations: study](https://itwire.com/your-it/apps/hackers-capitalised-covid-19-lockdown-to-spread-false-information-using-bogus-apps,-text-messages,-and-social-media-invitations-study.html)
+
+
+> McAfee's latest report, Mobile Threat Report 2021, highlights that hackers harnessed malwares to spread misinformation on vaccines and used it to obtain a user's personal and sensitive data. Hidden apps were the most active mobile threats, and this approach was capitalised during the lockdown when time spent online and on devices surged, according to a study to a report by McAfee's threat research team, Mobile Threat Report 2021. McAfee's research explains how hackers are escalating fears with COVID-19 misinformation by using bogus apps, text messages, and social media invitations.
+
+
+***
+![Watch this flying car make history with first inter-city flight](https://icdn.digitaltrends.com/image/digitaltrends/aircar-flying-car-2.jpg "Watch this flying car make history with first inter-city flight")
+
+
+[Watch this flying car make history with first inter-city flight](https://www.digitaltrends.com/news/flying-car-makes-history-with-first-inter-city-flight/)
+
+
+> A vehicle capable of flying in the sky and driving on the road completed a momentous  journey this week. Stefan Klein, founder and CEO of R&D company Klein Vision, drove his prototype AirCar to Nitra international airport in Slovakia before motoring down the runway and taking off. He then flew the 35-minute route to Bratislava and, after landing at the city's airport, drove the two-passenger vehicle downtown three minutes away. A video (below) shows key moments from the incredible ride. Klein has been developing a flying car for the last 20 years.
+
+
+***
+![A curated list of books on Software Architecture](https://opengraph.githubassets.com/9c14848190d732651fcf9295dcc43702618ef0eff2b7827ad9ad2e2ab906f682/mhadidg/software-architecture-books "A curated list of books on Software Architecture")
+
+
+[A curated list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
+
+
+> You can't perform that action at this time. You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session.
+
+
