@@ -33315,3 +33315,53 @@
 > You can't perform that action at this time. You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session.
 
 
+***
+![Awesome spacewalk time-lapse shows a day at the office 250 miles up](https://icdn.digitaltrends.com/image/digitaltrends/iss-time-lapse-spacewalk.jpg "Awesome spacewalk time-lapse shows a day at the office 250 miles up")
+
+
+[Awesome spacewalk time-lapse shows a day at the office 250 miles up](https://www.digitaltrends.com/news/watch-this-astronaut-time-lapse-showing-spacewalk-at-iss/)
+
+
+> The European Space Agency (ESA) has posted an amazing time-lapse showing two astronauts conducting a spacewalk at the International Space Station (ISS). The video shows NASA's Shane Kimbrough and ESA's Thomas Pesquet installing a new roll-out solar array as part of ongoing work to upgrade the space station's power system. The time-lapse images, captured by fellow ISS crew member Aki Hoshide on Sunday, June 20, even show the moment when one of the new 19-meter-long solar arrays unfurls alongside several of the existing arrays.
+
+
+***
+![How does AirPlay to Mac work and what's required to use it?](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/157501-homepage-news-feature-how-does-airplay-to-mac-work-and-what-s-required-to-use-it-image1-m0u5c7rouo.jpg "How does AirPlay to Mac work and what's required to use it?")
+
+
+[How does AirPlay to Mac work and what's required to use it?](https://www.pocket-lint.com/laptops/news/apple/157501-how-does-airplay-to-mac-work-and-what-do-you-need)
+
+
+> (Pocket-lint) - When Apple previewed macOS 12 Monterey at WWDC 2021, it announced the operating system will introduce the ability to AirPlay to Mac.READ MORE: Apple AirPlay 2 vs AirPlay: What's the difference?Apple's AirPlay technology allows you to stream videos, images, music, and other forms of media from one Apple device to another compatible device. For instance, you can "AirPlay" content from an iPhone, iPad, or Mac to an Apple TV or AirPlay-compatible smart TVs and speakers. Now, with macOS Monterey, it's possible to stream content directly to the Mac, which means you can make your iPhone play a song or video on your MacBook or share even share your screen.
+
+
+***
+![Cannabis Movers & Shakers: Ghost Drops, Virtual Medical International, Hemp Meds, Avicanna, Silver Therapeutics, Ayr Wellness](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/david-gabric-kdc5agsz6ik-unsplash9.jpg?width=720 "Cannabis Movers & Shakers: Ghost Drops, Virtual Medical International, Hemp Meds, Avicanna, Silver Therapeutics, Ayr Wellness")
+
+
+[Cannabis Movers & Shakers: Ghost Drops, Virtual Medical International, Hemp Meds, Avicanna, Silver Therapeutics, Ayr Wellness](https://www.benzinga.com/markets/cannabis/21/06/21772681/cannabis-movers-shakers-ghost-drops-virtual-medical-international-hemp-meds-avicanna-silver-ther)
+
+
+> Ghost Drops has named cannabis expert Gene Bernaudo as its CEO and interim chief operating officer. Bernaudo brings extensive business experience in establishing and building cannabis brands in Canada. Prior to this, he served as president and global head of cannabis for international cannabis brand Ignite. "I am ecstatic to have been chosen to represent one of Canada's most iconic legacy brands through their transition into the legal market," Bernaudo said last Thursday. "Our differentiator is that we're bringing legacy market tools to the table and merging the best of both worlds.
+
+
+***
+![Google Messages will automatically delete OTP messages after 24 hours](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202106/screenshot_2021-06-30_at_9.15._1200x768-original.png "Google Messages will automatically delete OTP messages after 24 hours")
+
+
+[Google Messages will automatically delete OTP messages after 24 hours](https://www.indiatoday.in/technology/news/story/google-messages-will-automatically-delete-otp-messages-after-24-hours-1820988-2021-06-30)
+
+
+> Ankita Chakravarti New Delhi, Jun 30, 2021, Updated Jun 30, 2021, 9:17 AM IST Story highlights Googleâ€™s own messaging app Messages has received new features in India. Google has rolled out these features to make it easier for users to focus on more important messages. Google has said that it would start rolling out the features in the coming weeks in English on Android phones in India Google's own messaging app Messages has received new features in India. The features include the automatic sorting of messages into categories, while the other one auto-deletes One Time Passwords of OTPs after twenty-four hours.
+
+
+***
+![NSA Denies Tucker Carlson Show Worth Sabotaging](https://external-preview.redd.it/HCgT9zVDlIpmrIJzPItDgskNqwKtBBXE7I27R5Td5d0.jpg?auto=webp&s=521b16a0aabd3ace4b5bf0308a698ebb26044f14 "NSA Denies Tucker Carlson Show Worth Sabotaging")
+
+
+[NSA Denies Tucker Carlson Show Worth Sabotaging](https://www.reddit.com/r/technology/comments/oaos5m/nsa_denies_tucker_carlson_show_worth_sabotaging/)
+
+
+> When asked a yes or no question (are you spying on me and reading my emails?) any answer other than 'no', means yes.
+
+
