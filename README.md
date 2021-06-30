@@ -33553,3 +33553,53 @@
 > Best MagSafe chargers iMore 2021 With the introduction of the iPhone 12 line in September 2020, Apple introduced MagSafe. MagSafe chargers are distinct because they can charge your iPhone 12 with 15 watts of power if used in conjunction with a 20-watt brick. Other manufacturers are making magnetic chargers, but they are not officially MagSafe, as they will only charge at a maximum of 7.5 watts. It can be difficult to know which chargers are the best to buy, so let's take a look at the best MagSafe chargers that you can buy with your hard-earned cash.
 
 
+***
+![Samsung Galaxy A22 launched launched in India at Rs 18,499](https://images.indianexpress.com/2021/06/Samsung-Galaxy-A22-image.jpg "Samsung Galaxy A22 launched launched in India at Rs 18,499")
+
+
+[Samsung Galaxy A22 launched launched in India at Rs 18,499](https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-a22-launched-launched-in-india-at-rs-18499-7383120/)
+
+
+> Samsung just launched the Galaxy A22 in India. The newest A-series phone comes with a 90Hz AMOLED screen, quad-rear cameras, a waterdrop notch and 15W charging. Check out what's new with the latest A-series device below. Samsung Galaxy A22 specifications The Galaxy A22 features a 6.4-inch HD+ 720p AMOLED screen with 90Hz refresh rate. The Galaxy A22 features an unspecified octa-core processor with up to 6GB RAM and 128GB storage. The phone also comes with Android 11 out of the box with One UI 3.1.
+
+
+***
+![Defense Information Systems Agency Awards Comcast Business $102M, 10-Year Contract for Ethernet Services](https://mms.businesswire.com/media/20210630005209/en/351493/23/Comcast-Logo.jpg "Defense Information Systems Agency Awards Comcast Business $102M, 10-Year Contract for Ethernet Services")
+
+
+[Defense Information Systems Agency Awards Comcast Business $102M, 10-Year Contract for Ethernet Services](https://www.businesswire.com/news/home/20210630005209/en/Defense-Information-Systems-Agency-Awards-Comcast-Business-102M-10-Year-Contract-for-Ethernet-Services)
+
+
+> June 30, 2021 10:00 AM Eastern Daylight Time PHILADELPHIA--(BUSINESS WIRE)--Comcast Business today announced it has been awarded a 10-year, $102.8M contract by the United States' Defense Information Systems Agency (DISA) to provide Ethernet that will enhance connectivity, improve network performance and manage overall telecommunications costs throughout the Agency's Defense Information Systems Network (DISN), which includes Maryland, Washington, D.C, Virginia, Ohio, West Virginia and Kentucky. DISA selected Comcast Business after reviewing proposals from four other bidders.
+
+
+***
+![MediaKind Launches MediaKind Engage Delivering Extraordinary Direct-to-Consumer Fan Experiences at Scale](https://mms.businesswire.com/media/20210630005473/en/888799/23/MK_logo_lockup_CMYK_%282%29_viewimage.jpg "MediaKind Launches MediaKind Engage Delivering Extraordinary Direct-to-Consumer Fan Experiences at Scale")
+
+
+[MediaKind Launches MediaKind Engage Delivering Extraordinary Direct-to-Consumer Fan Experiences at Scale](https://www.businesswire.com/news/home/20210630005473/en/MediaKind-Launches-MediaKind-Engage-Delivering-Extraordinary-Direct-to-Consumer-Fan-Experiences-at-Scale)
+
+
+> June 30, 2021 10:00 AM Eastern Daylight Time FRISCO, Texas--(BUSINESS WIRE)--MediaKind announces the launch of MediaKind Engage, a new end-to-end direct-to-consumer (DTC) solution for video contribution, production, streaming, and audience engagement. The solution enables sports entities, broadcasters, and content owners to make a seamless transition to operating workflows in the cloud while also expanding the reach, scale and reliability of their video streaming content to a global fan base. Streaming is now a fundamental part of all media, particularly sports, with internet-based delivery representing the present and future of all content distribution.
+
+
+***
+![Don't hurt your Switch. Safely swap out microSDs by following these steps!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/03/switch-micro-sd.jpg "Don't hurt your Switch. Safely swap out microSDs by following these steps!")
+
+
+[Don't hurt your Switch. Safely swap out microSDs by following these steps!](https://www.imore.com/how-safely-swap-microsd-cards-your-nintendo-switch)
+
+
+> Source: iMore Nintendo made expanding the internal storage on the Switch super easy with microSD cards, but that removable storage offers a secondary benefit. As soon as a card is inserted, things like screenshots are immediately saved to the new storage instead of the internal system memory. That means those of us who don't want to post screenshots immediately to Facebook or Twitter can quickly grab screenshots and other files from the Switch and move them elsewhere by removing the card. If you're going to quickly swap microSD cards back and forth on the Switch, it's important to know there's both a right and wrong way to do it.
+
+
+***
+![With which python framework could I create a desktop app like this one ?](https://external-preview.redd.it/5BlMWUWx91V4AP5_n7KCNM4j2ezHBY_UMOGd7wHNQtM.jpg?auto=webp&s=f2de96d2a354a16a160ce3586ff80560959bd23f "With which python framework could I create a desktop app like this one ?")
+
+
+[With which python framework could I create a desktop app like this one ?](https://www.reddit.com/r/Python/comments/oaxwmm/with_which_python_framework_could_i_create_a/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
