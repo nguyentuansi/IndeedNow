@@ -33603,3 +33603,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![The best 4th of July laptop deals: save on Dell, HP, Samsung and more](https://cdn.mos.cms.futurecdn.net/AeHHR7nMLv52fjm4JcEqha-1200-80.jpg "The best 4th of July laptop deals: save on Dell, HP, Samsung and more")
+
+
+[The best 4th of July laptop deals: save on Dell, HP, Samsung and more](https://www.techradar.com/news/the-best-4th-of-july-laptop-deals-save-on-dell-hp-samsung-and-more)
+
+
+> The 4th of July sales are starting to ramp up now, and among them you'll find some excellent prices on everything from the cheapest Chromebooks to the most luxurious of gaming laptops. That's why we're rounding up all the best 4th of July laptop deals in one place, weeding out all the offers that aren't worth your time and highlighting the gold lining the shelves this week. We're seeing a strong supply of 4th of July laptop deals in the $300 - $500 range this week as well, with machines offering 8GB RAM and between 128GB and 256GB of SSD storage space nestled neatly in this price range.
+
+
+***
+![Democrats urge online platforms to extend UK child protections to US](https://thehill.com/sites/default/files/facebook_privacy_05092018_1.jpg "Democrats urge online platforms to extend UK child protections to US")
+
+
+[Democrats urge online platforms to extend UK child protections to US](https://thehill.com/policy/technology/560899-democrats-urge-online-platforms-to-extend-uk-child-protection-rules-to-us)
+
+
+> Sen. Ed MarkeyEd MarkeyHouse panel draft proposal includes .6 billion increase in Interior funds Senate plants a seed for bipartisan climate solutions OVERNIGHT ENERGY: Biden announces bipartisan infrastructure deal | DOJ backs Trump-era approval of Line 3 permit | Biden hits China on solar panels MORE (D-Mass.) and Rep. Kathy CastorKatherine (Kathy) Anne CastorOnline school raises new concerns about cyberbullying Democrats ask Facebook to abandon 'Instagram for kids' plans Hillicon Valley: Tech companies duke it out at Senate hearing | Seven House Republicans vow to reject donations from Big Tech MORE (D-Fla.
+
+
+***
+![Is the Galaxy S21 worth an extra $100 over the S20 FE?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/samsung-galaxy-s21-vs-s20-fe.jpg "Is the Galaxy S21 worth an extra $100 over the S20 FE?")
+
+
+[Is the Galaxy S21 worth an extra $100 over the S20 FE?](https://www.androidcentral.com/samsung-galaxy-s21-vs-samsung-galaxy-s20-fe)
+
+
+> The Galaxy S21 is a compact, affordable flagship with three great cameras and the latest One UI 3.1 software. The screen is better than ever, and with Samsung's current trade-in offers, you can grab the S21 for an unbeatable price. $700 at Amazon Gaming-optimized Snapdragon 888 Aggressive trade-in deals Smaller, trimmer design Newer One UI 3.1 software No microSD slot No charger in the box The S20 FE is a terrific phone at a great price, with many features as the newer S21. It's the most affordable option in the Galaxy S series, with a larger screen and plenty of great colors to choose from.
+
+
+***
+![AT&T joins T-Mobile in switching all Android phones to Google's Messages app for RCS](https://cdn.vox-cdn.com/thumbor/CL_HRnZcKxcT87Ish-2Pqt6zg5M=/0x170:2040x1190/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21955670/akrales_201012_4137_0117.0.jpg "AT&T joins T-Mobile in switching all Android phones to Google's Messages app for RCS")
+
+
+[AT&T joins T-Mobile in switching all Android phones to Google's Messages app for RCS](https://www.theverge.com/2021/6/30/22556686/att-android-phones-rcs-google-messages)
+
+
+> Photo by Amelia Holowaty Krales / The Verge AT&T and Google have announced that all Android phones on the network will use Google's Android Messages app for SMS and RCS services. T-Mobile made the exact same partnership deal with Google in March, which leaves Verizon as the only US carrier who hasn't committed to switching its customers to Android Messages by default. Along with the switch to Messages comes another important shift: real interoperability with RCS on other networks. AT&T has supported RCS for awhile now, but that support has been as haphazard as it was half-hearted.
+
+
+***
+![Understanding SPDR Select Sector Fund](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Understanding SPDR Select Sector Fund")
+
+
+[Understanding SPDR Select Sector Fund](https://www.benzinga.com/markets/options/21/06/21790916/understanding-spdr-select-sector-fund-financials-unusual-options-activity)
+
+
+> Shares of SPDR Select Sector Fund - Financial (NYSE:XLF) saw some unusual options activity on Wednesday. Following the unusual option alert, the stock price moved up to $36.6. Sentiment: BEARISH Option Type: SWEEP Trade Type: PUT Expiration Date: 2021-07-02 Strike Price: $36.50 Volume: 7065 Open Interest: 8202 Three Signs Of Unusual Options Activity One way options market activity can be considered unusual is when volume is exceptionally higher than its historical average. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
