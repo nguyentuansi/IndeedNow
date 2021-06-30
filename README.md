@@ -33653,3 +33653,53 @@
 > Shares of SPDR Select Sector Fund - Financial (NYSE:XLF) saw some unusual options activity on Wednesday. Following the unusual option alert, the stock price moved up to $36.6. Sentiment: BEARISH Option Type: SWEEP Trade Type: PUT Expiration Date: 2021-07-02 Strike Price: $36.50 Volume: 7065 Open Interest: 8202 Three Signs Of Unusual Options Activity One way options market activity can be considered unusual is when volume is exceptionally higher than its historical average. The volume of options activity refers to the number of contracts traded over a given time period.
 
 
+***
+![Apple releases the first public beta of watchOS 8](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/home-app-watchos-8-doorbell-notification.jpg "Apple releases the first public beta of watchOS 8")
+
+
+[Apple releases the first public beta of watchOS 8](https://www.imore.com/how-download-watchos-8-public-beta)
+
+
+> We may earn a commission for purchases using our links. Learn more. Get your beta on The watchOS 8 public beta is now open. If you want to risk trying it out, here's how you can get it on your Apple Watch 30 Jun 2021 Source: Apple For the second time, Apple is offering those with an Apple Watch a chance to test out watchOS 8 and its subsequent updates before the official release this fall. Anyone can enroll in the public beta, but it comes with risks — like not being able to downgrade back to watchOS 7.
+
+
+***
+![Tips for better UX on your signup/login forms](https://external-preview.redd.it/vMPjLXTmbA60CniRVFV-fZoP16DD9r1AjY3wP10F65I.jpg?auto=webp&s=af8d5f11ef005842dbabc47c8700651ed4d9e80d "Tips for better UX on your signup/login forms")
+
+
+[Tips for better UX on your signup/login forms](https://www.reddit.com/r/programming/comments/ob2s1r/tips_for_better_ux_on_your_signuplogin_forms/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![All there is to know about Mario + Rabbids Kingdom Battle](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/mariorabbidskingdombattlescreenshot2_0.jpg "All there is to know about Mario + Rabbids Kingdom Battle")
+
+
+[All there is to know about Mario + Rabbids Kingdom Battle](https://www.imore.com/mario-rabbids-kingdom-battle-everything-you-need-know)
+
+
+> Source: Nintendo Like Champagne and fried chicken, mixing Nintendo's Mario characters with Ubisoft's hyperactive minion-like Rabbids might sound like nonsense on paper, but once you get your hands on it, you'll wonder why it took so long for something like this to come together. In 2017, Mario + Rabbids Kingdom Battle was a surprise hit on the Nintendo Switch when it was released in 2017, going on to become one of the best-selling games on the Switch as well as one of the best strategy games available.
+
+
+***
+![Secure your home, and add a little Alexa magic with these smart locks](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/02/yale-assure-lock-sl-lifestyle.jpeg "Secure your home, and add a little Alexa magic with these smart locks")
+
+
+[Secure your home, and add a little Alexa magic with these smart locks](https://www.imore.com/best-smart-locks-alexa)
+
+
+> Best smart locks for Alexa iMore 2021 When it comes to making your home a smart home, smart locks are a great place to start. With these simple-to-install devices, you can protect your home from anywhere in the world. These locks are even better with Amazon Alexa integration, which lets you shout when you are heading out the door to make sure everything is locked down. Our best smart lock for Alexa is also one of the best smart home gift ideas. Some are also compatible with Apple's HomeKit. Staff Favorite This lock offers total control.
+
+
+***
+![How Weird Is the Heat In Portland, Seattle and Vancouver? Off The Charts](https://static01.nyt.com/images/2021/06/28/us/portland-seattle-vancouver-weather-promo-1624921002147/portland-seattle-vancouver-weather-promo-1624921002147-facebookJumbo-v5.jpg "How Weird Is the Heat In Portland, Seattle and Vancouver? Off The Charts")
+
+
+[How Weird Is the Heat In Portland, Seattle and Vancouver? Off The Charts](https://www.nytimes.com/interactive/2021/06/29/upshot/portland-seattle-vancouver-weather.html)
+
+
+> Hottest since at least 1979 Temperature records set in the last week Source: ECMWF/Copernicus via KNMI Climate Explorer·Shaded areas represent places where maximum temperatures in the last week ranked compared with annual maximum temperatures from 1979 to 2020. Heat waves and the 'heat domes' that can cause them aren't rare, but the recent weather that's been smothering the Pacific Northwest has little precedent in at least four decades of record-keeping. To understand the magnitude of the departure from historical norms, it helps to visualize it.
+
+
