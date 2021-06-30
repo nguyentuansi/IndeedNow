@@ -33412,3 +33412,50 @@
 > With an aim to promote independent writers, Facebook has announced a set of publishing and subscription tools -- Bulletin -- to support these creators in the US. The tech giant said that Bulletin will include support focused on content creation, monetisation and audience growth. "The popularity of our local Groups and Pages has shown us that people are hungry for locally-relevant, longer-form content produced by expert and authoritative voices," the company said in a statement. "Through Bulletin, we want to make Facebook a better place for these creators, and unify our existing tools with something that could more directly support great writing and audio content -- from podcasts to Live Audio Rooms -- all in one place," it added.
 
 
+***
+![The __name__ dunder attribute and its major use cases in effective Python](https://external-preview.redd.it/AKnjT1mC6yzNDsWmtMXJAprozRyti-NpJCDFq1HqxA8.jpg?auto=webp&s=2ca679af3acc0cf1e56519cdebb12557a7d0542a "The __name__ dunder attribute and its major use cases in effective Python")
+
+
+[The __name__ dunder attribute and its major use cases in effective Python](https://www.reddit.com/r/Python/comments/oask3c/the_name_dunder_attribute_and_its_major_use_cases/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![London-based insurtech Hyperexponential closes $18M round led by Highland Europe – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/hyperexponential.jpg?w=599 "London-based insurtech Hyperexponential closes $18M round led by Highland Europe – TechCrunch")
+
+
+[London-based insurtech Hyperexponential closes $18M round led by Highland Europe – TechCrunch](https://techcrunch.com/2021/06/30/london-based-insurtech-hyperexponential-closes-18m-round-led-by-highland-europe/)
+
+
+> London-based insurtech hyperexponential ('hx') – which has a mathematical modeling software for the commercial insurance sector – has closed an $18m funding round led by growth capital fund Highland Europe. Hxsays it helps companies build, deploy and update their insurance pricing models faster, via a SaaS platform called Renew which is aimed at actuaries, data-scientists and underwriters. Amrit Santhirasenan, hx's CEO and co-founder, said: 'The insurance industry is experiencing unprecedented growth, with data and technology being critical strategic drivers.
+
+
+***
+![TCL launches 2021 C-Series Smart TVs in India with mini-LED: Check price, other details](https://images.indianexpress.com/2021/06/TCL-C-Series-2021.jpg "TCL launches 2021 C-Series Smart TVs in India with mini-LED: Check price, other details")
+
+
+[TCL launches 2021 C-Series Smart TVs in India with mini-LED: Check price, other details](https://indianexpress.com/article/technology/gadgets/tcl-launches-2021-c-series-smart-tvs-in-india-check-price-other-details-7382605/)
+
+
+> TCL launched its new C series TVs in India today. The new C-series Smart TVs come with mini-LED and QLED displays. The products include the TCL C725, the C825 and the C728. Here are the detailed specifications of all three models explained. TCL C825 The C825 is India's first mini-LED 4K TV. The TCL C825 focuses on the picture quality and brings thousands of mini LEDs in local zones for precise contrast control. This makes the whole panel capable of displaying deeper blacks and better contrast in general.
+
+
+***
+![Apple MacBook Pro M1X and AirPods 3 launch once again tipped for later this year](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202106/macbook_pro_m1x_airpods_3_conc-original.jpg "Apple MacBook Pro M1X and AirPods 3 launch once again tipped for later this year")
+
+
+[Apple MacBook Pro M1X and AirPods 3 launch once again tipped for later this year](https://www.indiatoday.in/technology/news/story/apple-macbook-pro-m1x-and-airpods-3-launch-once-again-tipped-for-later-this-year-1821124-2021-06-30)
+
+
+> Story highlights Apple's 2021 MacBook and AirPods models are on their course for launch this year. Apple is likely to launch MacBook Pro with M1X processor this year. AirPods 3 and AirPods Pro 2 are also expected to arrive. Apple MacBook Pro with the M1X processor is very likely to come this year. There have been many rumours pointing at the launch sometime during the fall. Not just the MacBook Pro, Apple is also planning to introduce new M1X-powered models of MacBook Air, Mac mini, and Mac Pro this year.
+
+
+***
+[E-comm rules: Fight between Amazon, Flipkart vs Reliance, Tata to intensify](https://www.zeebiz.com/technology/news-e-comm-rules-fight-between-amazon-flipkart-vs-reliance-tata-to-intensify-159635)
+
+
+> As e-commerce regulations are tightened, fight between foreign companies Amazon, Flipkart and Indian companies Reliance, Tata Group is set to intensify.
+
+
