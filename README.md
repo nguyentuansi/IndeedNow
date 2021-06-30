@@ -33459,3 +33459,50 @@
 > As e-commerce regulations are tightened, fight between foreign companies Amazon, Flipkart and Indian companies Reliance, Tata Group is set to intensify.
 
 
+***
+![IKEA Tradfri wireless control outlet review](https://cdn.mos.cms.futurecdn.net/Cy8vuD5RuLrDg5KVK9JwPc-1200-80.jpg "IKEA Tradfri wireless control outlet review")
+
+
+[IKEA Tradfri wireless control outlet review](https://www.techradar.com/reviews/ikea-tradfri-wireless-control-outlet)
+
+
+> Ikea Tradfri Wireless Control Outlet dealsIKEA isn't a name that springs to mind when you think of smart home devices, but the Swedish furniture giant has offered a range of gadgets to automate your home since 2017. Starting with smart lighting, it has since expanded to include smart plugs, blinds that can be controlled wirelessly, and even a range of multi-room speakers that it developed in conjunction with Sonos. The IKEA Tradfri wireless control outlet is a single socket that can be plugged into a power source and controlled via the IKEA Home Smart app.
+
+
+***
+![IKEA Tradfri wireless control outlet](https://cdn.mos.cms.futurecdn.net/Cy8vuD5RuLrDg5KVK9JwPc-1200-80.jpg "IKEA Tradfri wireless control outlet")
+
+
+[IKEA Tradfri wireless control outlet](https://www.techradar.com/reviews/ikea-tradfri-wireless-control-outlet)
+
+
+> Ikea Tradfri Wireless Control Outlet dealsIKEA isn't a name that springs to mind when you think of smart home devices, but the Swedish furniture giant has offered a range of gadgets to automate your home since 2017. Starting with smart lighting, it has since expanded to include smart plugs, blinds that can be controlled wirelessly, and even a range of multi-room speakers that it developed in conjunction with Sonos. The IKEA Tradfri wireless control outlet is a single socket that can be plugged into a power source and controlled via the IKEA Home Smart app.
+
+
+***
+![How to make a Game Engine](https://external-preview.redd.it/P41rv4zLW3A78xeH-JMBmLSlxGAc88qP5JEGVuOoJ9M.jpg?auto=webp&s=61707235987dbd468f05b928dc98a63d141d8a49 "How to make a Game Engine")
+
+
+[How to make a Game Engine](https://www.reddit.com/r/programming/comments/oau2by/how_to_make_a_game_engine_source_code_on_github/)
+
+
+> No body in the article.
+
+
+***
+![GitHub Launches 'Copilot' — AI-Powered Code Completion Tool](https://external-preview.redd.it/z2txig7ijre_IjwQSHlsWYUOh1tKGyh7N_rJevATxjY.jpg?auto=webp&s=6982a392fc07c67c00ec3bfcc41261f19c0833b2 "GitHub Launches 'Copilot' — AI-Powered Code Completion Tool")
+
+
+[GitHub Launches 'Copilot' — AI-Powered Code Completion Tool](https://www.reddit.com/r/programming/comments/oau0kn/github_launches_copilot_aipowered_code_completion/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Beginer question](https://www.reddit.com/r/Python/comments/oatzvf/beginer_question/)
+
+
+> hey alli need to learn to analyse data for sport bettingpeople telling me to learn Pyhon instead of Excelexcel looks easier to my eyes.can you share with me a video that explains the benefits of Python to Excel please?
+
+
