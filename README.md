@@ -33365,3 +33365,50 @@
 > When asked a yes or no question (are you spying on me and reading my emails?) any answer other than 'no', means yes.
 
 
+***
+[Why is inversion of control not popular in python?](https://www.reddit.com/r/Python/comments/oaqr5g/why_is_inversion_of_control_not_popular_in_python/)
+
+
+> I rarely see python developers using interfaces or composition in general. Why is that? I once found a guy that told me that my use of an interface to abstract out a dependency was "boilerplate code".
+
+
+***
+![Top 10 EOFY deals still available: LG OLEDs, XPS laptops, Sony headphones and more](https://cdn.mos.cms.futurecdn.net/YSX22nmBtW2AdtY2UjBFDb-1200-80.jpg "Top 10 EOFY deals still available: LG OLEDs, XPS laptops, Sony headphones and more")
+
+
+[Top 10 EOFY deals still available: LG OLEDs, XPS laptops, Sony headphones and more](https://www.techradar.com/news/top-10-eofy-deals-still-available-lg-oleds-xps-laptops-sony-headphones-and-more)
+
+
+> (Image credit: Future) Most of the EOFY sales will wrap up tonight (June 30), so you have just hours left to score a bargain. Luckily plenty of deals are still live, and to help you in the last-minute rush, we've rounded up the top 10 EOFY offers that are still available.You'll find hot items such as premium laptops, OLED TVs and Xbox consoles discounted here, and they all come with a considerable saving. So don't pay more than you need to, scroll down to find the best offers still live.Top 10 EOFY deals still available Samsung 75-inch QN85A Neo QLED TV | AU$4,495 AU$3,639 on Appliances Online (save AU$856) If you've got the space for this massive 75-inch set from Samsung, it's now deeply discounted from Appliances Online.
+
+
+***
+![Top Programming Languages For Android App Development](https://external-preview.redd.it/-u3ZzhUxLQhiGBppNmdExd6cYh-YtrLzUwadbMgnBLg.jpg?auto=webp&s=c5c8e0ef4fde50d568e532baad16c92738a33f21 "Top Programming Languages For Android App Development")
+
+
+[Top Programming Languages For Android App Development](https://www.reddit.com/r/programming/comments/oaqjrg/top_programming_languages_for_android_app/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Change to hit Coles shelves with single-use plastic dinnerware removed from stores](https://images.perthnow.com.au/publication/C-3268776/9c8b2f19c0efe22c23c3efc48dfcaf57126faad1-16x9-x0y0w2048h1152.jpg?imwidth=1200 "Change to hit Coles shelves with single-use plastic dinnerware removed from stores")
+
+
+[Change to hit Coles shelves with single-use plastic dinnerware removed from stores](https://www.news.com.au/technology/environment/sustainability/change-to-hit-coles-shelves-with-singleuse-plastic-dinnerware-removed-from-stores/news-story/89d0d9e6a2bfbb0cee9a9e3a1a20abb8)
+
+
+> Shoppers searching for a collection of common products at their local Coles will be out of luck from Thursday.Single-use plastic tableware has been stripped from the shelves at more than 2500 stores across the country in a bid to reduce the supermarket giant's contribution to landfill.Coles made the commitment in February, including a ban on single-use plastic tableware such as cups, plates, bowls, straws and cutlery in any of its stores from July 1.Plastic dinnerware will be stripped from the shelves.
+
+
+***
+![Facebook launches publishing tool 'Bulletin' tool for independent writers](https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/04/full/1607047251-4908.jpg "Facebook launches publishing tool 'Bulletin' tool for independent writers")
+
+
+[Facebook launches publishing tool 'Bulletin' tool for independent writers](https://www.business-standard.com/article/technology/facebook-launches-publishing-tool-bulletin-tool-for-independent-writers-121063000571_1.html)
+
+
+> With an aim to promote independent writers, Facebook has announced a set of publishing and subscription tools -- Bulletin -- to support these creators in the US. The tech giant said that Bulletin will include support focused on content creation, monetisation and audience growth. "The popularity of our local Groups and Pages has shown us that people are hungry for locally-relevant, longer-form content produced by expert and authoritative voices," the company said in a statement. "Through Bulletin, we want to make Facebook a better place for these creators, and unify our existing tools with something that could more directly support great writing and audio content -- from podcasts to Live Audio Rooms -- all in one place," it added.
+
+
