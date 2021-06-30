@@ -33703,3 +33703,53 @@
 > Hottest since at least 1979 Temperature records set in the last week Source: ECMWF/Copernicus via KNMI Climate Explorer·Shaded areas represent places where maximum temperatures in the last week ranked compared with annual maximum temperatures from 1979 to 2020. Heat waves and the 'heat domes' that can cause them aren't rare, but the recent weather that's been smothering the Pacific Northwest has little precedent in at least four decades of record-keeping. To understand the magnitude of the departure from historical norms, it helps to visualize it.
 
 
+***
+![LinkedIn's Latest Data Leak Affects Millions: What You Need To Know](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/06/Linkedin-Breach-Data-Of-Millions-Leaked.jpg "LinkedIn's Latest Data Leak Affects Millions: What You Need To Know")
+
+
+[LinkedIn's Latest Data Leak Affects Millions: What You Need To Know](https://screenrant.com/linkedin-june-data-breach-millions-users-security-privacy-explained/)
+
+
+> LinkedIn has been hit by another data leak fiasco, and this one affects almost 700 million users whose information has been put up for sale on a hacker forum. In April, data of roughly 500 million users was also listed for sale online by a hacker, who even offered a small portion of the leaked data set to test for authenticity. The leaked data included details such as LinkedIn profile links, mobile numbers, email addresses, and social media profile links, to name a few. Back then, LinkedIn mentioned that there was no system breach and the leaked data was not solely lifted from its platform, but it also included information pulled from other websites.
+
+
+***
+![Creating an AI that uses machine learning to tag images!](https://external-preview.redd.it/w7FlzruW_4ifVt4nCCPTNI7AOoK2tBfln8ndub4G4GM.jpg?auto=webp&s=956ac63dd16249809c04870eb52d0e9c7b1413a6 "Creating an AI that uses machine learning to tag images!")
+
+
+[Creating an AI that uses machine learning to tag images!](https://www.reddit.com/r/programming/comments/ob55xy/creating_an_ai_that_uses_machine_learning_to_tag/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![iOS & Canary Hint At New Google Chrome Widget Coming To Android](https://www.androidheadlines.com/wp-content/uploads/2021/06/Chrome-Canary-Widget-DG-AH-2021.jpg "iOS & Canary Hint At New Google Chrome Widget Coming To Android")
+
+
+[iOS & Canary Hint At New Google Chrome Widget Coming To Android](https://www.androidheadlines.com/2021/06/google-chrome-canary-android-widget-change.html)
+
+
+> Google has a new widget in the works for Android Chrome, recently spotted in the Canary Channel. Or, more precisely, that appears to be a widget that's already in development and further along on iOS.Dubbed the 'Quick Action Search Widget,' the new widget is fairly straightforward on the iPhone platform. It packs a three-button row and more standard-looking Google Chrome Search row into a widget for the home screen. The top row, of courses, is the search bar, which opens up a new tab in Chrome to jumpstart the search process.
+
+
+***
+![Leapfrogging ahead: An era of change is under way](https://images.financialexpress.com/2021/06/1-734.jpg "Leapfrogging ahead: An era of change is under way")
+
+
+[Leapfrogging ahead: An era of change is under way](https://www.financialexpress.com/industry/technology/leapfrogging-ahead-an-era-of-change-is-under-way/2281461/)
+
+
+> Mahesh Zurale PortraitBy Mahesh ZuraleTHE COVID-19 pandemic has brought about rapidly changing consumer needs and behaviour, which mean that companies in every sector have had to accelerate their tech-driven transformations.While most firms invested in solutions that helped their workforce digitise operations, a small minority took it one step further. These firms realised that simply going digital was not a cure-all for their business. Our research identified these companies as ‘Masters of Change' – those who prioritised a more aggressive and progressive technology strategy that not only endeavoured to fix the business, but also upended convention to create a new vision for the future.
+
+
+***
+![Unit testing is overrated](https://external-preview.redd.it/u2Dq6kZCaeJQnRvrnhYC1KVFpPp3pvKe3DaAyvYFUlk.jpg?auto=webp&s=fb9433d9e0ce95361f46b4666052ddafb1b1f10a "Unit testing is overrated")
+
+
+[Unit testing is overrated](https://www.reddit.com/r/programming/comments/ob4tlc/unit_testing_is_overrated/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
