@@ -33753,3 +33753,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Google is moving away from APKs in the Play Store this August](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2019/08/google-play-store-redesign-aug19-startrek-listing.jpg "Google is moving away from APKs in the Play Store this August")
+
+
+[Google is moving away from APKs in the Play Store this August](https://www.androidcentral.com/google-moving-away-apks-play-store-august)
+
+
+> Source: Android Central Google seems to want to move away from Android app formatted as APKs in the Play Store. It's now started mandating that new apps entering the store from August should use its new AAB format. The move is likely to harm third-party app stores as Google remains the only store that uses the AAB format. Google this week announced that it would be mandating the adoption of the Android App Bundle (AAB) over Android Packages (APKs) for new apps submitted from August 2021. The company had previously introduced the Android App Bundle as a new way of formatting apps for publication to the Play Store in 2018.
+
+
+***
+![Maine law restricts facial recognition technology statewide](https://apnews.com/images/ShareLogo2.png "Maine law restricts facial recognition technology statewide")
+
+
+[Maine law restricts facial recognition technology statewide](https://apnews.com/article/maine-technology-government-and-politics-cbf6207f15d13b8e647615e251157774)
+
+
+> AUGUSTA, Maine (AP) — A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine.While several states regulate facial recognition as a surveillance tool, the Maine law represents a broad prohibition of the technology at the state, county and municipal government levels, with limited exceptions for law enforcement purposes, officials said.The ACLU of Maine said it's the strongest facial recognition regulation in the country, and the bill's sponsor, Rep.
+
+
+***
+![Elastic Announces Upsizing and Pricing of $575 Million of Senior Unsecured Notes Due 2029](https://mms.businesswire.com/media/20210630006012/en/712541/23/elastic-logo-V-full_color.jpg "Elastic Announces Upsizing and Pricing of $575 Million of Senior Unsecured Notes Due 2029")
+
+
+[Elastic Announces Upsizing and Pricing of $575 Million of Senior Unsecured Notes Due 2029](https://www.businesswire.com/news/home/20210630006012/en/Elastic-Announces-Upsizing-and-Pricing-of-575-Million-of-Senior-Unsecured-Notes-Due-2029)
+
+
+> June 30, 2021 05:42 PM Eastern Daylight Time MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Elastic N.V. ('Elastic' or the 'Company') (NYSE: ESTC) announced today that it has priced its offering of $575 million aggregate principal amount of its 4.125% senior notes due 2029 (the 'notes') in a private offering (the "offering") that is exempt from the registration requirements of the United States Securities Act of 1933, as amended (the "Securities Act"). The aggregate principal amount of the offering was increased by $75 million from the previously announced offering size.
+
+
+***
+![Slack Gets Discord-Like Audio Feature Called "Huddles"](https://www.androidheadlines.com/wp-content/uploads/2020/04/Slack-AH-2020.jpg "Slack Gets Discord-Like Audio Feature Called "Huddles"")
+
+
+[Slack Gets Discord-Like Audio Feature Called "Huddles"](https://www.androidheadlines.com/2021/06/slack-gets-discord-like-audio-feature-called-huddles.html)
+
+
+> As per a recent report by Engadget, a popular business communication platform, Slack is the latest to bring an audio-calling feature called 'Huddles.'This feature is similar to what we already have in Discord. With the latest 'Huddles' feature, Slack users will be able to share pre-recorded audio and video with their group members.Slack gained popularity and has become a staple for various global organizations. Employers are keeping a check and communicating with their remote employees using Slack.
+
+
+***
+![Pandemic lifts sales of wearable gadgets](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/16/b0/31ecf773eaa74e389440efc65d0552179114/16b031ecf773eaa74e38.jpg "Pandemic lifts sales of wearable gadgets")
+
+
+[Pandemic lifts sales of wearable gadgets](https://japantoday.com/category/tech/pandemic-lifts-sales-of-wearable-gadgets)
+
+
+> Earphones embedded in pearl earrings, a smartwatch that measures body temperature, a diamond ring that monitors sleep patterns: The wearable gadgets market has boomed as the pandemic boosts interest in health monitoring and working from home. While worldwide sales of smartphones slumped last year, a record 527 million wearables were sold in 2020, up from 384 million in 2019, according to research firm Strategy Analytics. It was the first time that global wearable sales topped half a billion and analysts expect the trend to continue, with the firm forecasting the devices will overtake smartphone sales by the end of the decade.
+
+
