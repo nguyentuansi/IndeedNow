@@ -34190,3 +34190,53 @@
 > July 01, 2021 10:00 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--B&H is pleased to share that pre-orders of the Sony XPERIA 1 III smartphone begin on July 1st. This entry into the smartphone category offers serious mobile enthusiasts the ability to take professional-level photos on-the-go with a triple-camera system that includes a telephoto lens with dual focal lengths. It also expands video and gaming entertainment with a mobile first, a 4K 120 Hz OLED. Leveraging the company's professional photography knowledge in the mobile space, Sony equips the XPERIA 1 III with three different lenses (wide, ultra-wide, and telephoto) and a 3D iToF sensor.
 
 
+***
+![iPhone SE deals receive a rare discount with the 128GB model falling by £75](https://cdn.mos.cms.futurecdn.net/UBMQMk8KTTbtoFsau3Kr97-1200-80.jpg "iPhone SE deals receive a rare discount with the 128GB model falling by £75")
+
+
+[iPhone SE deals receive a rare discount with the 128GB model falling by £75](https://www.techradar.com/news/iphone-se-deals-receive-a-rare-discount-with-the-128gb-model-falling-by-pound75)
+
+
+> (Image credit: Future) Apple isn't exactly a fan of discounting its handsets and the iPhone SE is the perfect example of this. Despite being out for over a year, iPhone SE deals have only ever seen the smallest of savings.That's what makes this latest offer from Amazon so impressive, knocking a massive £75 off the price of the iPhone SE. Plus, this falls on the larger 128GB of storage model which is even more rare to see a discount on.With this price cut, you'll be paying just £374. That's cheaper than buying the 64GB model right now and the best price on the market for the iPhone SE.
+
+
+***
+![Why TAL Education Group Shares Are Moving Today](https://www.benzinga.com/sites/all/themes/bz2/images/favicon-package/apple-touch-icon.png "Why TAL Education Group Shares Are Moving Today")
+
+
+[Why TAL Education Group Shares Are Moving Today](https://www.benzinga.com/trading-ideas/short-ideas/21/07/21811927/why-tal-education-group-shares-are-moving-today)
+
+
+> TAL Education Group (NYSE:TAL) shares are trading lower by 6% at $23.68 amid renewed COVID-19 concerns in the Asia-Pacific region, including concerns over the Delta variant of the virus. TAL Education is one of the leading K-12 after-school tutoring providers in China. The firm offers tutoring services to students from pre-school to the twelfth grade via small classes, one-on-one personalized premium services and online courses. TAL Education has a 52-week high of $90.96 and a 52-week low of $20.
+
+
+***
+![Analyzing Freeport-McMoRan's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Analyzing Freeport-McMoRan's Unusual Options Activity")
+
+
+[Analyzing Freeport-McMoRan's Unusual Options Activity](https://www.benzinga.com/markets/options/21/07/21811722/analyzing-freeport-mcmorans-unusual-options-activity)
+
+
+> Shares of Freeport-McMoRan (NYSE:FCX) saw some unusual options activity on Thursday. Following the unusual option alert, the stock price moved down to $36.93. Sentiment: BEARISH Option Type: TRADE Trade Type: PUT Expiration Date: 2021-09-17 Strike Price: $37.00 Volume: 1312 Open Interest: 2890 Three Signs Of Unusual Options Activity Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![Unusual Options Activity Insight: Direxion Financial Bull 3X Shares](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Unusual Options Activity Insight: Direxion Financial Bull 3X Shares")
+
+
+[Unusual Options Activity Insight: Direxion Financial Bull 3X Shares](https://www.benzinga.com/markets/options/21/07/21811713/unusual-options-activity-insight-direxion-financial-bull-3x-shares)
+
+
+> On Thursday, shares of Direxion Financial Bull 3X Shares (NYSE:FAS) saw unusual options activity. After the option alert, the stock price moved up to $111.29. Sentiment: BEARISH Option Type: TRADE Trade Type: CALL Expiration Date: 2021-07-02 Strike Price: $111.00 Volume: 366 Open Interest: 473 Three Signs Of Unusual Options Activity Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![Singularity 6 Raises $30M for Community MMO Palia](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Palia.jpg?itok=_21feKVj "Singularity 6 Raises $30M for Community MMO Palia")
+
+
+[Singularity 6 Raises $30M for Community MMO Palia](https://techraptor.net/gaming/news/singularity-6-raises-30m-for-community-mmo-palia)
+
+
+> 07/01/2021 - 12:01 | By: Patrick Perrault Home Gaming Gaming News Singularity 6 Raises $30M for Community MMO Palia Community housing: the MMO. After a promising initial trailer, Singularity 6 now has a lot of money to see their community MMO Palia brought to life, with the company raising over $30 million dollars in Series B funding. The studio is led by Aidan Karabaich and Anthony Leung, who both used to work at Riot Games. Karabaich is the game director, and Leung is the CEO.
+
+
