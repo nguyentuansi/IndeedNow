@@ -33803,3 +33803,53 @@
 > Earphones embedded in pearl earrings, a smartwatch that measures body temperature, a diamond ring that monitors sleep patterns: The wearable gadgets market has boomed as the pandemic boosts interest in health monitoring and working from home. While worldwide sales of smartphones slumped last year, a record 527 million wearables were sold in 2020, up from 384 million in 2019, according to research firm Strategy Analytics. It was the first time that global wearable sales topped half a billion and analysts expect the trend to continue, with the firm forecasting the devices will overtake smartphone sales by the end of the decade.
 
 
+***
+![Twitter users can now add security keys as the only two-factor authentication method](https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/07/Twitter-API.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "Twitter users can now add security keys as the only two-factor authentication method")
+
+
+[Twitter users can now add security keys as the only two-factor authentication method](https://9to5mac.com/2021/06/30/twitter-users-can-now-add-security-keys-as-the-only-two-factor-authentication-method/)
+
+
+> Twitter added last year the option for users to log into its mobile app using a physical security key as a two-factor authentication method, but you had to have another authentication method enabled to use it. Now Twitter is improving this feature to let users add a security key without having another two-factor authentication method enabled in your account. As shared by the Twitter Support account on Wednesday, security keys can now be the only two-factor authentication option in both mobile app and website.
+
+
+***
+![Christina Hendricks Talks Good Girls' 'Well-Rounded' and Strong Female Characters amid Show Cancellation and Christina Hendricks Talks Good Girls' 'Well-Rounded' and Strong Female Characters amid Show Cancellation](https://https://www.thearkatech.com/img/news_img/all/15186_19_1200.pic "Christina Hendricks Talks Good Girls' 'Well-Rounded' and Strong Female Characters amid Show Cancellation and Christina Hendricks Talks Good Girls' 'Well-Rounded' and Strong Female Characters amid Show Cancellation")
+
+
+[Christina Hendricks Talks Good Girls' 'Well-Rounded' and Strong Female Characters amid Show Cancellation and Christina Hendricks Talks Good Girls' 'Well-Rounded' and Strong Female Characters amid Show Cancellation](https://www.thearkatech.com/en/77332/)
+
+
+> © Instagram / Christina Hendricks By: Ethan Thomas2021-07-01 03:15:27 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Christina Hendricks Talks Good Girls' 'Well-Rounded' and Strong Female Characters amid Show Cancellation and Christina Hendricks Talks Good Girls' 'Well-Rounded' and Strong Female Characters amid Show Cancellation NCAA Passes Interim Name, Image And Likeness Policy, Ushering In New Possibilities For Student Athletes. William and Harry to unveil Diana statue at Kensington Palace.
+
+
+***
+![Airgain® Reports Granting of Inducement Awards Under Nasdaq Listing Rule 5635(c)(4)](https://mms.businesswire.com/media/20210630006041/en/651017/23/Airgain-Logo.jpg "Airgain® Reports Granting of Inducement Awards Under Nasdaq Listing Rule 5635(c)(4)")
+
+
+[Airgain® Reports Granting of Inducement Awards Under Nasdaq Listing Rule 5635(c)(4)](https://www.businesswire.com/news/home/20210630006041/en/Airgain%C2%AE-Reports-Granting-of-Inducement-Awards-Under-Nasdaq-Listing-Rule-5635-c-4)
+
+
+> June 30, 2021 08:15 PM Eastern Daylight Time SAN DIEGO--(BUSINESS WIRE)--Airgain, Inc. (NASDAQ: AIRG), a leading provider of advanced antenna technologies used to enable high performance wireless networking across a broad range of devices and markets, including consumer, enterprise, and automotive, today announced that it has granted inducement awards to six new non-executive employees who recently joined the Company, including Ali Sadri, the Company's new Senior Vice President, Engineering. The awards were made on June 30, 2021 under Airgain's 2021 Employment Inducement Incentive Award Plan, which provides for the granting of equity awards to new employees of Airgain as an inducement to join the company.
+
+
+***
+![New poll shows Matthew McConaughey with high favorability for governor among Texans and Austin FC, led by Matthew McConaughey, are creating something special](https://https://www.thearkatech.com/img/news_img/all/15175_9_1200.pic "New poll shows Matthew McConaughey with high favorability for governor among Texans and Austin FC, led by Matthew McConaughey, are creating something special")
+
+
+[New poll shows Matthew McConaughey with high favorability for governor among Texans and Austin FC, led by Matthew McConaughey, are creating something special](https://www.thearkatech.com/en/77331/)
+
+
+> © Instagram / Matthew McConaughey By: Mia Martinez2021-07-01 03:14:17 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Colorado Springs' story at 150th anniversary: One of desire and innovation. Labor Law Attorneys Zakay Law Group, APLC and JCL Law Firm, APC, File Class Action Lawsuit Against FERMA Alleging Failure to Pay All Wages. Salt Fire 20 miles north of Redding grows to more than 200 acres: Evacuations ordered, roads closed. Down 7, Crew 'had that feeling' and put up 15.
+
+
+***
+![Jake Gyllenhaal talks fighting with his sister Maggie as a kid, becoming a cartoon for ‘Spirit Untamed' and the confounding mystery of NFTs and 'Spirit Untamed' Review: Jake Gyllenhaal Saddles Up, But This Sweet Toon Belongs To A Girl And Her Irrepressible Horse](https://https://www.thearkatech.com/img/news_img/all/15172_18_1200.pic "Jake Gyllenhaal talks fighting with his sister Maggie as a kid, becoming a cartoon for ‘Spirit Untamed' and the confounding mystery of NFTs and 'Spirit Untamed' Review: Jake Gyllenhaal Saddles Up, But This Sweet Toon Belongs To A Girl And Her Irrepressible Horse")
+
+
+[Jake Gyllenhaal talks fighting with his sister Maggie as a kid, becoming a cartoon for ‘Spirit Untamed' and the confounding mystery of NFTs and 'Spirit Untamed' Review: Jake Gyllenhaal Saddles Up, But This Sweet Toon Belongs To A Girl And Her Irrepressible Horse](https://www.thearkatech.com/en/77330/)
+
+
+> © Instagram / Jake Gyllenhaal By: Emma Williams2021-07-01 03:13:20 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: 'Spirit Untamed' Review: Jake Gyllenhaal Saddles Up, But This Sweet Toon Belongs To A Girl And Her Irrepressible Horse and Jake Gyllenhaal talks fighting with his sister Maggie as a kid, becoming a cartoon for ‘Spirit Untamed' and the confounding mystery of NFTs YMCA of Wichita Falls reminds parents about swim lessons. The Orange and Black Insider Bengals podcast: Independent Thinking.
+
+
