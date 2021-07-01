@@ -34287,3 +34287,53 @@
 > Yesterday Apple unleashed a whole bunch of new public betas on the world: iOS 15, iPadOS 15 and watchOS 8. Today the company is back with another big software puzzle piece announced at WWDC in June. Following three weeks of developer beta, the public beta version of macOS 12.0 Monterey is now live for download (i.e. has begun a rollout that often takes a little time to make its way to everyone). Apple just released the first iOS 15 beta to everyone Any beta version of an operating system comes with the usual caveats/caution against downloading it on your primary machine, but at very least, this ought to be sufficiently more stable than what first rolled out to developers in June.
 
 
+***
+![Twitter considers new features for tweeting only to friends, under different personas, and more – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/01/twitter-CES-2020-05.jpg "Twitter considers new features for tweeting only to friends, under different personas, and more – TechCrunch")
+
+
+[Twitter considers new features for tweeting only to friends, under different personas, and more – TechCrunch](https://techcrunch.com/2021/07/01/twitter-considers-new-features-for-tweeting-only-to-friends-under-different-personas-and-more/)
+
+
+> Twitter has a history of sharing feature and design ideas it's considering at very early stages of development. Earlier this month, for example, it showed off concepts around a potential 'unmention' feature that would let users untag themselves from others' tweets. Today, the company is showing off a few more of its design explorations that would allow users to better control who can see their tweets and who ends up in their replies. The new concepts include a way to tweet only to a group of trusted friends, new prompts that would ask people to reconsider the language they're using when posting a reply, and a 'personas' feature that would allow you to tweet based on your different contexts — like tweets about your work life, your hobbies and interests, and so on.
+
+
+***
+![Robinhood is going public and we're very excited – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/08/equity-podcast-2019-phone.jpg "Robinhood is going public and we're very excited – TechCrunch")
+
+
+[Robinhood is going public and we're very excited – TechCrunch](https://techcrunch.com/2021/07/01/robinhood-is-going-public-and-were-very-excited/)
+
+
+> It's a sweltering day here in New York City, and that means Wall Street is on fire, and so is Robinhood, apparently. The popular stock trading app officially filed its Form S-1 with the SEC a few hours ago to go public, where it will trade under the ticker 'HOOD.' Robinhood files to go public after squeaking to profitability in 2020 The Equity crew has been yammering about Robinhood for years now, and we have been chomping on the bit to see those S-1 results for what feels like ages. Well, we finally got the numbers, we chomped that bit (or at least Alex and Danny did, since Natasha went on vacation about 15 minutes before the IPO hit the wires), and so here's a special Equity Shot to talk about all the highlights.
+
+
+***
+![These are the best laptops you can buy today](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/05/asus-chromebook-flip-c434-review-japan-cafe.jpg "These are the best laptops you can buy today")
+
+
+[These are the best laptops you can buy today](https://www.androidcentral.com/best-laptops)
+
+
+> The best laptops help you switch seamlessly between productivity, creativity, and relaxation at a moment's notice. These portables have the processing chops to handle demanding applications, but not the bulky designs that make them inconvenient to carry around. We've reviewed and ranked the best low-end, mid-range, and high-end laptops across all the major manufacturers and operating systems to help you decide which one hits the perfect balance between budget and performance. Choosing the best laptops of 2021 You won't find many gaming laptops, mobile workstations, or 17-inch behemoths on our list of the "best" laptops.
+
+
+***
+![Make your racing games feel more real with these steering wheel controllers](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/06/best-steering-wheel-controllers-for-nintendo-switch-hero.jpg "Make your racing games feel more real with these steering wheel controllers")
+
+
+[Make your racing games feel more real with these steering wheel controllers](https://www.imore.com/best-steering-wheel-controllers-nintendo-switch)
+
+
+> Best Steering Wheel Controllers for Switch iMore 2021 To enhance the gaming experience of Nintendo Switch racing games, it helps to have a steering wheel controller. Not only do they look neat, they enhance gameplay with great grip to help you steer ahead of the competition. If you are looking to pull ahead of the pack, here are the best Switch steering wheel controllers that can give you the edge. Staff Pick If you want a more immersive driving experience, you really ought to check out this sweet racing set.
+
+
+***
+![Here's everything you need to know about the newest Mario Golf game](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/mario-golf-super-rush_0.jpg "Here's everything you need to know about the newest Mario Golf game")
+
+
+[Here's everything you need to know about the newest Mario Golf game](https://www.imore.com/mario-golf-super-rush-nintendo-switch)
+
+
+> Source: Nintendo Mario can do everything. He's a jack of all trades, a master of ceremonies, an avid athlete — and after an 8-year break, Mario is back on the green and ready to tee off for a friendly game of golf. Revealed during February's Nintendo Direct, Mario Golf: Super Rush is the latest Mario sports entry that should delight those looking for a new sports game on the Switch. Here's everything we know about Mario Golf: Super Rush for Nintendo Switch. Nintendo dropped a new overview trailer, highlighting new modes and features.
+
+
