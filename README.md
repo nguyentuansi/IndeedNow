@@ -34240,3 +34240,50 @@
 > 07/01/2021 - 12:01 | By: Patrick Perrault Home Gaming Gaming News Singularity 6 Raises $30M for Community MMO Palia Community housing: the MMO. After a promising initial trailer, Singularity 6 now has a lot of money to see their community MMO Palia brought to life, with the company raising over $30 million dollars in Series B funding. The studio is led by Aidan Karabaich and Anthony Leung, who both used to work at Riot Games. Karabaich is the game director, and Leung is the CEO.
 
 
+***
+[Fortran Adds Conditional Expressions](https://j3-fortran.org/doc/year/21/21-157r2.txt)
+
+
+> No body in the article.
+
+
+***
+![Best cheap Samsung Galaxy Buds deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/samsung-galaxy-buds-hands-on-4-of-10.jpg "Best cheap Samsung Galaxy Buds deals for July 2021")
+
+
+[Best cheap Samsung Galaxy Buds deals for July 2021](https://www.digitaltrends.com/dtdeals/best-samsung-galaxy-buds-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Are you shopping for more affordable AirPods alternatives? We'll do you one better with what may be the best AirPods alternative. Samsung's excellent Galaxy Buds are not only cheaper than Apple's true wireless earbuds but arguably sound better, too. If you're after a pair of Galaxy Buds, you've come to the right place because we've rounded up all the best cheap Samsung Galaxy Buds sales (including the Galaxy Buds+ and new Galaxy Buds Live) right here.
+
+
+***
+![Apple Launches Limited In-Person Apple Camp Sessions for Kids](https://images.macrumors.com/t/n_CLWhb-7au7b05yPONavGEPMTw=/1600x/https://images.macrumors.com/article-new/2021/07/apple-camp.jpg "Apple Launches Limited In-Person Apple Camp Sessions for Kids")
+
+
+[Apple Launches Limited In-Person Apple Camp Sessions for Kids](https://www.macrumors.com/2021/07/01/apple-camp-sessions-kids-2021/)
+
+
+> Monday June 28, 2021 7:35 am PDT by Sami FathiSnapchat's support account today confirmed on Twitter that its latest App Store update, pushed less than one day ago, is causing widespread issues for users, specifically causing the app to crash a few seconds after launch.The latest App Store update, version 11.34.05.45, is listed as a normal update with bug fixes, but it has caused widespread crashes for users. Over the last few hours,...
+
+
+***
+![ATI HD 5770 no shown in my Macpro 2,1 with el capitan](https://images.macrumors.com/social/?t=2302937&v=6 "ATI HD 5770 no shown in my Macpro 2,1 with el capitan")
+
+
+[ATI HD 5770 no shown in my Macpro 2,1 with el capitan](https://forums.macrumors.com/threads/ati-hd-5770-no-shown-in-my-macpro-2-1-with-el-capitan.2302937/)
+
+
+> Hello Everyone, I recently made the upgrade to EL CAPITAN to my Macpro unsupported 1,1 (that now it's a 2,1), but it doesn't recognize the ATI Radeon HD 5770 that I bought from Ebay (the seller assures that it works perfectly fine and it was pulled off from a Macpro) so I was wondering if I need to make some adjustments to any kind of code, I have read a lot about some Kext and other stuff that I don't really understand because I'm not to familiarized with that kind of things. To convert my MACPRO from 1,1 to 2,1 I just followed instructions so I hope you can help me to shine some light on this case.
+
+
+***
+![macOS Monterey's public beta is live – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/CMC_9555.jpg?w=600 "macOS Monterey's public beta is live – TechCrunch")
+
+
+[macOS Monterey's public beta is live – TechCrunch](https://techcrunch.com/2021/07/01/macos-montereys-public-beta-is-live/)
+
+
+> Yesterday Apple unleashed a whole bunch of new public betas on the world: iOS 15, iPadOS 15 and watchOS 8. Today the company is back with another big software puzzle piece announced at WWDC in June. Following three weeks of developer beta, the public beta version of macOS 12.0 Monterey is now live for download (i.e. has begun a rollout that often takes a little time to make its way to everyone). Apple just released the first iOS 15 beta to everyone Any beta version of an operating system comes with the usual caveats/caution against downloading it on your primary machine, but at very least, this ought to be sufficiently more stable than what first rolled out to developers in June.
+
+
