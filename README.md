@@ -34040,3 +34040,53 @@
 > Netflix has announced just two original titles from India for July as yet. Taapsee Pannu, Vikrant Massey and Harshvardhan Rane star in the psychological thriller Haseen Dillruba, about a widow who's implicated in her husband's murder. Haseen Dillruba is out July 2 on Netflix. The other Indian original in July is the six-episode Feels Like Ishq, a young adult romcom anthology led by Radhika Madan, Tanya Maniktala, Zayn Marie Khan, and Neeraj Madhav. Feels Like Ishq releases July 23 on Netflix. For more Indian fare, look to the return of Indian-American high schooler Devi Vishwakumar in Never Have I Ever season 2, available July 15 on Netflix worldwide.
 
 
+***
+![Astronauts successfully edit genes in space for first time in experimental procedure](https://static.independent.co.uk/2021/07/01/10/GettyImages-119280224.jpeg?width=1200&auto=webp&quality=75 "Astronauts successfully edit genes in space for first time in experimental procedure")
+
+
+[Astronauts successfully edit genes in space for first time in experimental procedure](https://www.independent.co.uk/life-style/gadgets-and-tech/gene-editing-international-space-station-crispr-astronaut-b1876139.html)
+
+
+> Astronauts have successfully performed an experimental gene editing procedure in space for the first time.The process, which aims to study DNA repair in yeast cells that can be conducted entirely in space, is vital for astronaut safety. Damage to DNA can occur as a result of environmental factors, such as exposure to ultraviolet light.Outside of Earth's protective atmosphere, that risk is even greater due to the ionising radiation (heat or light that removes electrons from atoms) that permeates space.
+
+
+***
+![Snow Software Introduces Snow Atlas](https://mms.businesswire.com/media/20210701005141/en/807723/23/Snow-Logo-Full-Dark-Text-RGB.jpg "Snow Software Introduces Snow Atlas")
+
+
+[Snow Software Introduces Snow Atlas](https://www.businesswire.com/news/home/20210701005141/en/Snow-Software-Introduces-Snow-Atlas)
+
+
+> July 01, 2021 06:00 AM Eastern Daylight Time STOCKHOLM & AUSTIN, Texas--(BUSINESS WIRE)--Snow Software, the global leader in technology intelligence, today announced Snow Atlas, the first integrated platform built from the ground up to help organizations discover, monitor and optimize their technology investments, both on-premises and in the cloud. The first solutions available on the new cloud-native platform are software asset management (SAM), software-as-a-service (SaaS) management and IT service management (ITSM) integrations delivered as a service, now in early access.
+
+
+***
+![Arlo Ultra 2 review](https://cdn.mos.cms.futurecdn.net/vGNLnDRMawAz5s7mggSaND-1200-80.jpg "Arlo Ultra 2 review")
+
+
+[Arlo Ultra 2 review](https://www.techradar.com/reviews/arlo-ultra-2-review)
+
+
+> Arlo is one of the stalwarts of the home security market, having been among the first brands to launch a wireless camera aimed at the consumer in 2014, and since then it's made a name for itself by offering some of the best home security cameras you can buy. With each iteration, the resolution and quality of the footage has improved, while the addition of features such as customizable motion zones, and the use of AI to identify the source of an alert, has helped to reduce the number of unwanted alerts.
+
+
+***
+![You won't get an Xbox Series X soon – but Microsoft has plans to let you play one](https://cdn.mos.cms.futurecdn.net/cqFecBVrenejqUiKTppmNh-1200-80.jpg "You won't get an Xbox Series X soon – but Microsoft has plans to let you play one")
+
+
+[You won't get an Xbox Series X soon – but Microsoft has plans to let you play one](https://www.techradar.com/news/you-wont-get-an-xbox-series-x-soon-but-microsoft-has-plans-to-let-you-play-one)
+
+
+> (Image credit: Microsoft) If you've tried buying a new console recently then you know how quickly the limited stock can sell out. It now looks like Xbox Series X availability woes won't be going away anytime soon, with the head of Xbox saying the shortage will be 'with us for a while'.The statements were made during an interview with IGN, where Phil Spencer discussed everything from Xbox Series X shortages to Game Pass to studio acquisitions. This was disappointing to hear, as there were hopes that Xbox Series X stock would be more readily available by now.
+
+
+***
+![Instagram Points To 'Really Serious Competition' From TikTok, YouTube As It Scales Up Testing New Features](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/alexander-shatov-71qk8odibko-unsplash_1.jpg "Instagram Points To 'Really Serious Competition' From TikTok, YouTube As It Scales Up Testing New Features")
+
+
+[Instagram Points To 'Really Serious Competition' From TikTok, YouTube As It Scales Up Testing New Features](https://www.benzinga.com/news/21/07/21803301/instagram-points-to-really-serious-competition-from-tiktok-youtube-as-it-scales-up-testing-new-featu)
+
+
+> Facebook Inc (NASDAQ: FB)-owned Instagram is testing big changes to the photo-sharing app that include full-screen, recommended videos in their feeds, among others, Adam Mosseri, head of Instagram said in a TwitterÂ post on Wednesday. What Happened: In a quickÂ two-minute video, Mosseri pointed out that Instagram is no more than just a square photo-sharing app but also has videos, messages and e-commerce features. Changes are coming to video on Instagram ğŸ'º At Instagram we're always trying to build new features that help you get the most out of your experience.
+
+
