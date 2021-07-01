@@ -33890,3 +33890,53 @@
 > Trustees of the University of North Carolina at Chapel Hill has voted to grant tenure to New York Times writer and author of the divisive '1619 Project' Nikole Hannah-Jones, amid backlash over her 'unfactual and biased' work. The board voted 9-4 in favor of granting tenure to Hannah-Jones after a lengthy closed-session meeting on Wednesday, according to a report by the Washington Post. The vote comes one day before Hannah-Jones had originally been set to start working as the Knight Chair in Race and Investigative Journalism at the University of North Carolina (UNC)'s Hussman School of Journalism and Media.
 
 
+***
+![UNC Grants Tenure to '1619 Project' Author Nikole Hannah-Jones](https://media.breitbart.com/media/2020/06/nikole-hannah-jones-skype.jpg "UNC Grants Tenure to '1619 Project' Author Nikole Hannah-Jones")
+
+
+[UNC Grants Tenure to '1619 Project' Author Nikole Hannah-Jones](https://www.breitbart.com/tech/2021/06/30/university-of-north-carolina-grants-tenure-to-1619-project-author-nikole-hannah-jones/)
+
+
+> Trustees of the University of North Carolina at Chapel Hill has voted to grant tenure to New York Times writer and author of the divisive '1619 Project' Nikole Hannah-Jones, amid backlash over her 'unfactual and biased' work. The board voted 9-4 in favor of granting tenure to Hannah-Jones after a lengthy closed-session meeting on Wednesday, according to a report by the Washington Post. The vote comes one day before Hannah-Jones had originally been set to start working as the Knight Chair in Race and Investigative Journalism at the University of North Carolina (UNC)'s Hussman School of Journalism and Media.
+
+
+***
+![China has 100-plus new nuclear missile silos under construction, satellite images show: report](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/1024/512/rtx240f5.jpg?ve=1&tl=1 "China has 100-plus new nuclear missile silos under construction, satellite images show: report")
+
+
+[China has 100-plus new nuclear missile silos under construction, satellite images show: report](https://www.foxnews.com/tech/china-has-100-plus-new-nuclear-missile-silos-under-construction-satellite-images-show-report)
+
+
+> In what experts say may signal plans to significantly expand its nuclear capabilities, China has begun constructing more than 100 new missile silos in a desert area in the western part of the country, according to a report.Work at 119 sites was clearly visible and resembled existing missile-launch facilities, according to satellite images obtained by the James Martin Center for Nonproliferation Studies in Monterey, California, The Washington Post reported Wednesday.The sites were not the only areas in China where launch facilities were under construction, one nuclear watcher told the newspaper.
+
+
+***
+![iOS 15, iPadOS 15 public betas: How to install, top features, and everything you need to know](https://images.indianexpress.com/2021/07/Apple.jpg "iOS 15, iPadOS 15 public betas: How to install, top features, and everything you need to know")
+
+
+[iOS 15, iPadOS 15 public betas: How to install, top features, and everything you need to know](https://indianexpress.com/article/technology/tech-news-technology/ios-15-ipados-15-public-betas-how-to-install-top-features-7383814/)
+
+
+> Apple released the first public beta for iOS 15 and iPadOS 15 on Wednesday, letting iPhone and iPad owners try out new software months ahead of the official release. The company first announced iOS 15 and iPadOS 15 at its annual Worldwide Developers Conference (WWDC) in early June. iOS 15 and iPadOS 15 will come to compatible iPhones and iPads this fall, and they include updates to FaceTime, iMessage, Safari and Wallet. Here's how to install iOS 15 and iPadOS 15 on your iPhone and iPad. iOS 15, iPadOS 15 public betas: Start testing new software early The public beta is essentially a test version of the software that will come later this year alongside the new iPhone lineup.
+
+
+***
+![Twitter down for some users on web, some features inaccessible](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/rtxbsk6v_1200x768-original.png "Twitter down for some users on web, some features inaccessible")
+
+
+[Twitter down for some users on web, some features inaccessible](https://www.indiatoday.in/technology/news/story/twitter-down-for-some-users-on-web-some-features-inaccessible-1821445-2021-07-01)
+
+
+> Ankita Chakravarti New Delhi, Jul 01, 2021, Updated Jul 01, 2021, 9:23 AM IST Several users reported issues with accessing the Twitter website on Thursday morning. While the app worked just fine, users faced issues while accessing the website. Twitter has acknowledged the issue and is currently fixing it. The users reported that everytime when they tried to access the Twitter website, they were greeted with "Something went wrong" messages on the screen. Twitter posted from its official account, "Profiles' Tweets may not be loading for some of you on the web and we're currently working on a fix.
+
+
+***
+![Here's how businesses can avoid guesswork and tap into real customer needs](https://cdn.mos.cms.futurecdn.net/nTz5ccUciPxeYaVvDX5H3X-1200-80.jpg "Here's how businesses can avoid guesswork and tap into real customer needs")
+
+
+[Here's how businesses can avoid guesswork and tap into real customer needs](https://www.techradar.com/news/heres-how-businesses-can-avoid-guesswork-and-tap-into-real-customer-needs)
+
+
+> It seems to go without saying: a business must always understand the needs and wants of its customers. This is especially true in today's app economy, which has empowered consumers with myriad digital tools and unprecedented choices. The pandemic has only increased buyers' expectations of a great online experience – and decreased their patience with businesses unable to deliver it.Companies need to be thoroughly committed to providing a delightful experience – personalised interactions, extreme convenience, seamlessness across all channels – if they want to remain competitive.
+
+
