@@ -34337,3 +34337,53 @@
 > Source: Nintendo Mario can do everything. He's a jack of all trades, a master of ceremonies, an avid athlete — and after an 8-year break, Mario is back on the green and ready to tee off for a friendly game of golf. Revealed during February's Nintendo Direct, Mario Golf: Super Rush is the latest Mario sports entry that should delight those looking for a new sports game on the Switch. Here's everything we know about Mario Golf: Super Rush for Nintendo Switch. Nintendo dropped a new overview trailer, highlighting new modes and features.
 
 
+***
+![GoPuff drivers demand better treatment from company](https://thehill.com/sites/default/files/5g_mobilephone_istock.jpg "GoPuff drivers demand better treatment from company")
+
+
+[GoPuff drivers demand better treatment from company](https://thehill.com/policy/technology/561237-gopuff-drivers-demand-better-treatment-from-company)
+
+
+> GoPuff drivers are publicly calling on the delivery app to improve its treatment of workers for the first time as the company continues to rapidly expand. In an open letter released Thursday in collaboration with the labor rights organization Working Washington, 24 goPuff drivers demanded a livable wage, real flexibility and more oversight of managers. Organizers are hopeful that more will sign on in the coming days.GoPuff - which offers fast delivery of a wide variety of products stocked in its own warehouses across the country - has seen relatively little organizing among its workforce compared to its fellow gig economy firms like Uber, Lyft or Instacart.
+
+
+***
+![Hillicon Valley: FTC votes to expand antitrust enforcement powers](https://thehill.com/sites/default/files/ftc_061821gn_lead.jpg "Hillicon Valley: FTC votes to expand antitrust enforcement powers")
+
+
+[Hillicon Valley: FTC votes to expand antitrust enforcement powers](https://thehill.com/policy/technology/overnights/561235-hillicon-valley-ftc-votes-to-expand-antitrust-enforcement-powers)
+
+
+> Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter by clicking HERE. Welcome and Happy Thursday! Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@millsrodrigo) and Rebecca Klar (@rebeccaklar_), for more coverage. The Federal Trade Commission took a major step on Thursday to hit back against anti-competitive behavior, voting to expand its enforcement powers in a party-line vote.
+
+
+***
+![Bokhari: Florida Should Pass a Stronger Big Tech Bill in Special Session](https://media.breitbart.com/media/2021/05/DeSantis-School-Children-Dont-Need-Masks.jpg "Bokhari: Florida Should Pass a Stronger Big Tech Bill in Special Session")
+
+
+[Bokhari: Florida Should Pass a Stronger Big Tech Bill in Special Session](https://www.breitbart.com/tech/2021/07/01/bokhari-florida-should-pass-a-stronger-big-tech-bill-in-special-session/)
+
+
+> Florida's much-celebrated tech bill has been blocked by a federal judge. The bill committed a grievous, very Republican sin: it promised the world to grassroots conservatives, and in the end delivered nothing. The bill's provisions sounded promising: daily fines on tech companies that banned political candidates, tough transparency requirements, and a right to sue for Florida citizens affected by censorship. But because the bill failed to categorize tech companies as common carriers or places of public accommodation, both of which are tightly restricted in who they can deny service to, it was a simple matter for tech companies to argue that the bill violated their First Amendment rights.
+
+
+***
+![How to get Apple's macOS Monterey public beta on your Mac](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/157531-homepage-news-feature-how-to-get-apple-s-macos-monterey-public-beta-on-your-mac-image1-aromh83jjc.jpg "How to get Apple's macOS Monterey public beta on your Mac")
+
+
+[How to get Apple's macOS Monterey public beta on your Mac](https://www.pocket-lint.com/laptops/news/apple/157531-how-to-download-apple-macos-monterey-public-beta-on-mac)
+
+
+> (Pocket-lint) - Apple is rolling out the first public beta of macOS Monterey. That means public beta testers, or any non-developer, can download and try the new update on their iMac, MacBook, MacBook Pro, or any other type of modern Mac.To get the beta version of Apple's next operating system update running on your computer, you need to sign up for Apple's beta testing program. It's free to join. Then, you need to install the proper certificate from Apple's public beta website, and then you can grab the updates over the air.
+
+
+***
+![Will Emojis Really Save Venmo Sellers Money?](https://compote.slate.com/images/4058ada3-5bd5-4618-95d6-26aa864c5c69.jpeg?width=780&height=520&rect=924x616&offset=172x0 "Will Emojis Really Save Venmo Sellers Money?")
+
+
+[Will Emojis Really Save Venmo Sellers Money?](https://slate.com/technology/2021/07/venmo-emoji-fees-vendors-business.html)
+
+
+> A lot of businesses that rely on Venmo arenâ€™t very pleased with the PayPal-owned money-transfer app right now, following an announcement last week about new and higher fees for certain functions. This includes a 1 percent to 1.5 percent hike for instant transfers of account funds to a bank, and a new 1.9 percent plus 10 cent transaction fee that users selling goods and services will have to pay. While this latter change wonâ€™t go into effect until July 20, users are already trying to figure out ways to skirt the forthcoming policy.
+
+
