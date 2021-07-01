@@ -33940,3 +33940,53 @@
 > It seems to go without saying: a business must always understand the needs and wants of its customers. This is especially true in today's app economy, which has empowered consumers with myriad digital tools and unprecedented choices. The pandemic has only increased buyers' expectations of a great online experience – and decreased their patience with businesses unable to deliver it.Companies need to be thoroughly committed to providing a delightful experience – personalised interactions, extreme convenience, seamlessness across all channels – if they want to remain competitive.
 
 
+***
+![OpenGate Capital Completes Acquisition of ScioTeq and TREALITY from TransDigm Group](http://www.businesswire.com/images/bwlogo_square.png "OpenGate Capital Completes Acquisition of ScioTeq and TREALITY from TransDigm Group")
+
+
+[OpenGate Capital Completes Acquisition of ScioTeq and TREALITY from TransDigm Group](https://www.businesswire.com/news/home/20210630005843/en/OpenGate-Capital-Completes-Acquisition-of-ScioTeq-and-TREALITY-from-TransDigm-Group)
+
+
+> July 01, 2021 02:00 AM Eastern Daylight Time LOS ANGELES & PARIS--(BUSINESS WIRE)--OpenGate Capital, a global private equity firm, announced today that it has completed the acquisition of the ScioTeq and TREALITY Simulation Visual Systems ('TREALITY') businesses from TransDigm Group Incorporated (NYSE: TDG). Terms of the acquisition were not disclosed. ScioTeq and TREALITY develop and manufacture advanced visualization solutions including ruggedized displays and simulation systems to serve a diversified, customer base across avionics, aerospace, air traffic control, and security end markets.
+
+
+***
+![Lineage Logistics Appoints Harld Peters to Lead Lineage Logistics Europe](https://mms.businesswire.com/media/20210630005902/en/821833/23/Lineage_Color_PNG_No_Background.jpg "Lineage Logistics Appoints Harld Peters to Lead Lineage Logistics Europe")
+
+
+[Lineage Logistics Appoints Harld Peters to Lead Lineage Logistics Europe](https://www.businesswire.com/news/home/20210630005902/en/Lineage-Logistics-Appoints-Harld-Peters-to-Lead-Lineage-Logistics-Europe)
+
+
+> July 01, 2021 02:00 AM Eastern Daylight Time NOVI, Mich.--(BUSINESS WIRE)--Lineage Logistics, LLC ('Lineage' or the 'Company'), one of the world's leading and most innovative temperature-controlled industrial REIT and logistics solutions providers, today announced the appointment of Harld Peters as Senior Vice President, Europe. In this role, Harld will oversee all European operations for the Company and will report to Mike McClendon, Lineage's President of International Operations and EVP of Network Optimization.
+
+
+***
+![Alpega Appoints Anton Hofmeier as Chief Revenue Officer](https://mms.businesswire.com/media/20210630005752/en/793660/23/alpega-V.jpg "Alpega Appoints Anton Hofmeier as Chief Revenue Officer")
+
+
+[Alpega Appoints Anton Hofmeier as Chief Revenue Officer](https://www.businesswire.com/news/home/20210630005752/en/Alpega-Appoints-Anton-Hofmeier-as-Chief-Revenue-Officer)
+
+
+> July 01, 2021 02:00 AM Eastern Daylight Time VIENNA--(BUSINESS WIRE)--Alpega Group, a leading global provider of SaaS cloud-based transportation software, announced today that Anton Hofmeier has joined Alpega as part of a strategic build out of their TMS (Transportation Management Software) sales and customer organizations. Mr. Hofmeier comes to Alpega after the successful sale of his prior company, Thinkproject, to private equity buyer EQT in December 2020. During the 3,5 years Anton ran sales for Thinkproject doubling their top line revenue, with overpropotional increase of the SaaS revenue, established a true enterprise sales organization and developed entirely a robust partner/reseller program.
+
+
+***
+![#TECH: Quarterly mobile app spending hits all-time record](https://assets.nst.com.my/images/articles/botsappsa_NSTfield_image_socialmedia.var_1625118980.jpg "#TECH: Quarterly mobile app spending hits all-time record")
+
+
+[#TECH: Quarterly mobile app spending hits all-time record](https://www.nst.com.my/lifestyle/bots/2021/07/704073/tech-quarterly-mobile-app-spending-hits-all-time-record)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Netflix Australia's best TV shows: 90+ must-watch series to stream in 2021](https://cdn.mos.cms.futurecdn.net/FWro99WnPXmdXmCGAbX3um-1200-80.jpg "Netflix Australia's best TV shows: 90+ must-watch series to stream in 2021")
+
+
+[Netflix Australia's best TV shows: 90+ must-watch series to stream in 2021](https://www.techradar.com/best/best-netflix-shows)
+
+
+> Looking for the best TV shows on Netflix right now? On this page, which we update weekly, we've collected the 30 best TV series on Netflix according to our experts. As new Netflix originals land on the service, we refresh our selection by deleting older entries and adding new ones, to keep making sure you've got something good to add to your watch list.Netflix is still a great destination for shows. Even though US consumers have a rich variety of choices like HBO Max, Peacock and Hulu for TV series, Netflix's dedication to shotgunning out originals means it's still unmissable – even if some of its series miss the mark.
+
+
