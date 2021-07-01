@@ -33990,3 +33990,53 @@
 > Looking for the best TV shows on Netflix right now? On this page, which we update weekly, we've collected the 30 best TV series on Netflix according to our experts. As new Netflix originals land on the service, we refresh our selection by deleting older entries and adding new ones, to keep making sure you've got something good to add to your watch list.Netflix is still a great destination for shows. Even though US consumers have a rich variety of choices like HBO Max, Peacock and Hulu for TV series, Netflix's dedication to shotgunning out originals means it's still unmissable – even if some of its series miss the mark.
 
 
+***
+![Google updating Android to accommodate digital COVID-19 vaccine cards](https://assets2.rappler.com/2021/07/covid-card-1625126228362.png "Google updating Android to accommodate digital COVID-19 vaccine cards")
+
+
+[Google updating Android to accommodate digital COVID-19 vaccine cards](https://www.rappler.com/technology/innovations/google-android-accommodate-digital-covid-19-vaccine-cards)
+
+
+> Google on Wednesday, June 30, announced it would be updating its Passes API (application programming interface) to allow Android to support digital vaccination cards.  The Passes API is most commonly used by businesses to build applications that help them manage ticketing, loyalty programs, and gift cards. With the update, healthcare agencies and organizations will be able to more easily create and manage digital versions of COVID-19 vaccination or test information. The API seeks to enable a 'simple and secure way to store and access COVID vaccination and test cards on Android devices,' Google wrote.
+
+
+***
+![Best phones to buy in July 2021: A list of smartphones starting at Rs 10,999](https://images.indianexpress.com/2021/02/Poco-M3-Launch.jpg "Best phones to buy in July 2021: A list of smartphones starting at Rs 10,999")
+
+
+[Best phones to buy in July 2021: A list of smartphones starting at Rs 10,999](https://indianexpress.com/article/technology/techook/best-phones-to-buy-in-july-2021-a-look-at-budget-smartphones-starting-at-rs-10999-list-7383955/)
+
+
+> A lot of brands have recently launched new phones at a reasonable price. So, if you are looking for a good smartphone with a modern design and trendy features, then you can check out the list below. It includes OnePlus Nord CE, Poco M3, Redmi Note 10, Realme Narzo 30, and other devices. Best phones in July 2021: A list of smartphones starting at Rs 10,999 Poco M3 The Poco M3 is a good enough smartphone and is available for less than Rs 12,000. Flipkart is selling this budget phone for Rs 10,999. For the same, you will get the 6GB RAM + 64GB storage.
+
+
+***
+![Super Six: 6 years of Digital India](https://images.financialexpress.com/2021/07/digital-india.jpg "Super Six: 6 years of Digital India")
+
+
+[Super Six: 6 years of Digital India](https://www.financialexpress.com/industry/technology/super-six-6-rears-of-digital-india/2281881/)
+
+
+> The platform of Digital India has proved that it can actually turn the billion dreams into reality, catapulting India's success stories into the next set of Unicorns with support of a conducive policy environment. (Illustration: C R Sasikumar)By Dr Subi Chaturvedi, As India started its journey towards digital, one important feature set it apart from similar journeys by other nations, and that is the role of the state in the transformation process. India's road to digital transformation was paved by important Government initiatives that led to new digital platforms for the citizens and improved access to such platforms.
+
+
+***
+![NTT Data Announces a New Personalised Data Experience for the 149th Open](https://mms.businesswire.com/media/20210701005084/en/888912/23/TO_Patrons_149th_Landscape_NTT_FC_IT.jpg "NTT Data Announces a New Personalised Data Experience for the 149th Open")
+
+
+[NTT Data Announces a New Personalised Data Experience for the 149th Open](https://www.businesswire.com/news/home/20210701005084/en/NTT-Data-Announces-a-New-Personalised-Data-Experience-for-the-149th-Open)
+
+
+> July 01, 2021 03:55 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Today, NTT DATA announced a new personalised data experience for The 149th Open in 2021. Through the use of progressive sports technology and advanced analytics, spectators will have access to a live data stream and a personalised AI-enhanced newsfeed, providing a second screen accompaniment that will enhance their viewing experience. NTT DATA has worked in partnership with The R&A, organisers of The Open, as a Patron of the event since 2013, leveraging the latest technology innovations to create a data experience for golf fans each year.
+
+
+***
+![Haseen Dillruba, Never Have I Ever, and More on Netflix in July](https://i.gadgets360cdn.com/large/Haseen_Dillruba_1625125971030.jpeg "Haseen Dillruba, Never Have I Ever, and More on Netflix in July")
+
+
+[Haseen Dillruba, Never Have I Ever, and More on Netflix in July](https://gadgets.ndtv.com/entertainment/features/netflix-india-july-2021-releases-haseen-dillruba-never-have-i-ever-2-feels-like-ishq-fear-street-2476779)
+
+
+> Netflix has announced just two original titles from India for July as yet. Taapsee Pannu, Vikrant Massey and Harshvardhan Rane star in the psychological thriller Haseen Dillruba, about a widow who's implicated in her husband's murder. Haseen Dillruba is out July 2 on Netflix. The other Indian original in July is the six-episode Feels Like Ishq, a young adult romcom anthology led by Radhika Madan, Tanya Maniktala, Zayn Marie Khan, and Neeraj Madhav. Feels Like Ishq releases July 23 on Netflix. For more Indian fare, look to the return of Indian-American high schooler Devi Vishwakumar in Never Have I Ever season 2, available July 15 on Netflix worldwide.
+
+
