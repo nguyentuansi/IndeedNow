@@ -33853,3 +33853,40 @@
 > © Instagram / Jake Gyllenhaal By: Emma Williams2021-07-01 03:13:20 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: 'Spirit Untamed' Review: Jake Gyllenhaal Saddles Up, But This Sweet Toon Belongs To A Girl And Her Irrepressible Horse and Jake Gyllenhaal talks fighting with his sister Maggie as a kid, becoming a cartoon for ‘Spirit Untamed' and the confounding mystery of NFTs YMCA of Wichita Falls reminds parents about swim lessons. The Orange and Black Insider Bengals podcast: Independent Thinking.
 
 
+***
+![Second colossal LinkedIn "breach" in 3 months, almost all users affected](https://external-preview.redd.it/ACD53hS2vgllJy9t8ShK4PmEFJo-dQgEoSpalcrBVic.jpg?auto=webp&s=8ce5fa3b0d739e6fa4147a5ebd6f6473892fc571 "Second colossal LinkedIn "breach" in 3 months, almost all users affected")
+
+
+[Second colossal LinkedIn "breach" in 3 months, almost all users affected](https://www.reddit.com/r/technology/comments/obbu4e/second_colossal_linkedin_breach_in_3_months/)
+
+
+> View Entire Discussion (1 Comments)
+
+
+***
+[Environmental Research Letters](https://itwire.com/freelancer-sp-720/tag/Environmental%20Research%20Letters.html)
+
+
+> More greenhouse gases were produced in 2018 than any previous year, despite more than 20 countries reducing their carbon emissions since 2000, research from UNSW Sydney and their collaborators has shown.
+
+
+***
+![University of North Carolina Grants Tenure to '1619 Project' Author Nikole Hannah-Jones](https://media.breitbart.com/media/2020/06/nikole-hannah-jones-skype-640x335.jpg "University of North Carolina Grants Tenure to '1619 Project' Author Nikole Hannah-Jones")
+
+
+[University of North Carolina Grants Tenure to '1619 Project' Author Nikole Hannah-Jones](https://www.breitbart.com/tech/2021/06/30/university-of-north-carolina-grants-tenure-to-1619-project-author-nikole-hannah-jones/)
+
+
+> Trustees of the University of North Carolina at Chapel Hill has voted to grant tenure to New York Times writer and author of the divisive '1619 Project' Nikole Hannah-Jones, amid backlash over her 'unfactual and biased' work. The board voted 9-4 in favor of granting tenure to Hannah-Jones after a lengthy closed-session meeting on Wednesday, according to a report by the Washington Post. The vote comes one day before Hannah-Jones had originally been set to start working as the Knight Chair in Race and Investigative Journalism at the University of North Carolina (UNC)'s Hussman School of Journalism and Media.
+
+
+***
+![University of North Carolina Grants Tenure to ‘1619 Project' Author Nikole Hannah-Jones](https://media.breitbart.com/media/2020/06/nikole-hannah-jones-skype-640x335.jpg "University of North Carolina Grants Tenure to ‘1619 Project' Author Nikole Hannah-Jones")
+
+
+[University of North Carolina Grants Tenure to ‘1619 Project' Author Nikole Hannah-Jones](https://www.breitbart.com/tech/2021/06/30/university-of-north-carolina-grants-tenure-to-1619-project-author-nikole-hannah-jones/)
+
+
+> Trustees of the University of North Carolina at Chapel Hill has voted to grant tenure to New York Times writer and author of the divisive '1619 Project' Nikole Hannah-Jones, amid backlash over her 'unfactual and biased' work. The board voted 9-4 in favor of granting tenure to Hannah-Jones after a lengthy closed-session meeting on Wednesday, according to a report by the Washington Post. The vote comes one day before Hannah-Jones had originally been set to start working as the Knight Chair in Race and Investigative Journalism at the University of North Carolina (UNC)'s Hussman School of Journalism and Media.
+
+
