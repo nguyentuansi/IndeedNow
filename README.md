@@ -34090,3 +34090,53 @@
 > Facebook Inc (NASDAQ: FB)-owned Instagram is testing big changes to the photo-sharing app that include full-screen, recommended videos in their feeds, among others, Adam Mosseri, head of Instagram said in a TwitterÂ post on Wednesday. What Happened: In a quickÂ two-minute video, Mosseri pointed out that Instagram is no more than just a square photo-sharing app but also has videos, messages and e-commerce features. Changes are coming to video on Instagram ğŸ'º At Instagram we're always trying to build new features that help you get the most out of your experience.
 
 
+***
+![Best cheap fitness deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/nordictrack-x32i-press-lifestyle.jpg "Best cheap fitness deals for July 2021")
+
+
+[Best cheap fitness deals for July 2021](https://www.digitaltrends.com/dtdeals/best-fitness-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you're shopping for workout and fitness gear for your home, you already know the demand for home fitness equipment continues to be tight. We survey what's available each week, and if you're looking for fitness equipment, we have you covered. Take advantage of the opportunity to get in shape or stay in shape. We did the research and found the best fitness deals and compiled them here. Fitness retailers have deep inventories of home gym deals standbys such as dumbells, water bottles, and mats, plus a wide assortment of the latest fitness technology, like NordicTrack deals and Bowflex deals.
+
+
+***
+![Best cheap elliptical machine deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/golds-gym-stride-trainer-380-elliptical.jpg "Best cheap elliptical machine deals for July 2021")
+
+
+[Best cheap elliptical machine deals for July 2021](https://www.digitaltrends.com/dtdeals/best-elliptical-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Are you shopping for home cardio equipment and trying to decide between a treadmill or an elliptical machine? Listen to your joints. Many people prefer ellipticals machines because they put less stress on their bodies compared to the impact of running on a treadmill. With an elliptical machine, your feet never leave the pedals, which minimizes the potentially damaging impact on joints. Below, we've collected some fantastic elliptical machine sales.
+
+
+***
+![Best cheap treadmill deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/nordictrack-t-9-5-s-treadmill-2-1.jpg "Best cheap treadmill deals for July 2021")
+
+
+[Best cheap treadmill deals for July 2021](https://www.digitaltrends.com/dtdeals/best-treadmill-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Treadmills are still the most popular cardiovascular exercise machines for good reasons related to your health.  While commercial treadmill prices can take your breath away, treadmills designed for home use are relative bargains. If you want a good quality treadmill for your home, there are plenty of appealing treadmill deals that won't empty your bank account. Some treadmill models fold up to save space if you're concerned about not having enough room to set up a treadmill.
+
+
+***
+![Codat raises $40M from Tiger for its SMB-focused API service – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-987365514.jpg?w=682 "Codat raises $40M from Tiger for its SMB-focused API service – TechCrunch")
+
+
+[Codat raises $40M from Tiger for its SMB-focused API service – TechCrunch](https://techcrunch.com/2021/07/01/codat-raises-40m-from-tiger-for-its-business-focused-fintech-app-service/)
+
+
+> This morning Codat, a startup that provides APIs to link small-business fintech data to external services, announced that it has closed a $40 million round led by Tiger Global. The company raised $10 million in a Series A around a year ago that Index led; Codat also raised some strategic capital in the interim, but declined in an interview to provide more detail. The company also declined to provide any guidance regarding how much its valuation changed in the last year between lettered rounds. That Codat managed to raise more money is not a surprise, as the startup told TechCrunch that it grew its annual recurring revenue (ARR) by 3x from the end of 2019 to the end of 2020.
+
+
+***
+![macOS 12 Monterey release date, features and everything you need to know](https://cdn.mos.cms.futurecdn.net/yokTFLEf4hQK7ZEtRr7ThM-1200-80.png "macOS 12 Monterey release date, features and everything you need to know")
+
+
+[macOS 12 Monterey release date, features and everything you need to know](https://www.techradar.com/news/macos-12)
+
+
+> Apple has unveiled macOS 12 Monterey, its new operating system for Macs and MacBooks at this year's WWDC.As with all other macOS releases, macOS 12 Monterey will be a free upgrade for owners of Macs and MacBooks later this year. According to Apple CEO Tim Cook, it'll be released 'this fall', so any time between late August and December.There will also be early beta versions of macOS 12 Monterey that will be released for people to test before it gets officially launched, which will begin rolling out in June.
+
+
