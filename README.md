@@ -34140,3 +34140,53 @@
 > Apple has unveiled macOS 12 Monterey, its new operating system for Macs and MacBooks at this year's WWDC.As with all other macOS releases, macOS 12 Monterey will be a free upgrade for owners of Macs and MacBooks later this year. According to Apple CEO Tim Cook, it'll be released 'this fall', so any time between late August and December.There will also be early beta versions of macOS 12 Monterey that will be released for people to test before it gets officially launched, which will begin rolling out in June.
 
 
+***
+![Three cars cut from Aussie market](https://content.api.news/v3/images/bin/4502dfb1a283eed77948e6c27d45122a "Three cars cut from Aussie market")
+
+
+[Three cars cut from Aussie market](https://www.news.com.au/technology/motoring/motoring-news/lexus-cuts-three-models-from-australian-lineup/news-story/d45d4b473a20dd4383a9e439e137a8e4)
+
+
+> One popular luxury car brand has been forced to cut three models from its local model range, including one of its most popular cars.Lexus is dumping the IS sedan, RC sports coupe and CT hatchback from its line-up.The last customer deliveries are expected in November this year.Lexus Australia chief, Scott Thompson, says a change to rules around a pole side-impact test is behind the decision.'The decision is around a new Australian design rule, which has come into effect in Australia before any global markets, and for us to keep selling those cars it would have required a design change,' says Mr Thompson.
+
+
+***
+![Make your Google Meet sessions more lively with animated video backgrounds](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/google-meet-animated-background-hero.jpg "Make your Google Meet sessions more lively with animated video backgrounds")
+
+
+[Make your Google Meet sessions more lively with animated video backgrounds](https://www.androidcentral.com/how-set-animated-video-backgrounds-google-meet)
+
+
+> Source: Jeramy Johnson / Android Central Google Meet isn't always the first to offer new video calling features, but it gets around to them eventually. More than a year after Zoom popularized the feature, animated backgrounds have finally arrived on Google Meet. There aren't that many options to choose from right now, but we're so glad that they're finally here. If you've ever changed your background on a Google Meet call, this is all going to feel very familiar, but it's amazing what a difference a little motion makes.
+
+
+***
+![Debt-Freedom App Charlie Hits 5X User Base Growth in Just Four Months; Adds DirectPay to Its Suite of Tools to Help Americans Get out of Debt](https://mms.businesswire.com/media/20210701005220/en/889027/23/image1.jpg "Debt-Freedom App Charlie Hits 5X User Base Growth in Just Four Months; Adds DirectPay to Its Suite of Tools to Help Americans Get out of Debt")
+
+
+[Debt-Freedom App Charlie Hits 5X User Base Growth in Just Four Months; Adds DirectPay to Its Suite of Tools to Help Americans Get out of Debt](https://www.businesswire.com/news/home/20210701005220/en/Debt-Freedom-App-Charlie-Hits-5X-User-Base-Growth-in-Just-Four-Months-Adds-DirectPay-to-Its-Suite-of-Tools-to-Help-Americans-Get-out-of-Debt)
+
+
+> July 01, 2021 10:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Charlie, the personal finance app helping users get out of debt without lifestyle sacrifices, today announced new features and a reengineered UI/UX for iOS users to further grant its users an attainable path to debt freedom, as well as company growth numbers. In addition to its existing debt management tools, Charlie will today offer DirectPay, enabling users to link their credit card details to the app so they can easily transfer savings from their debt fund to make extra credit card payments, allowing them to pay down their debts quicker than ever.
+
+
+***
+![Streaming Video Alliance Launches New Industry Glossary and Open Caching Websites](https://mms.businesswire.com/media/20210701005154/en/1140561/23/SVA_LOGO_highres.jpg "Streaming Video Alliance Launches New Industry Glossary and Open Caching Websites")
+
+
+[Streaming Video Alliance Launches New Industry Glossary and Open Caching Websites](https://www.businesswire.com/news/home/20210701005154/en/Streaming-Video-Alliance-Launches-New-Industry-Glossary-and-Open-Caching-Websites)
+
+
+> July 01, 2021 10:00 AM Eastern Daylight Time FREMONT, Calif.--(BUSINESS WIRE)--The Streaming Video Alliance (the Alliance), a global technical association developing solutions to address critical challenges in delivering a high-quality video experience at scale, has launched two sites: the Streaming Video Alliance Glossary website and the Open Caching website. The sites were conceived and developed by Alliance members with the goal of providing educational resources to the streaming industry. 'Despite there being many glossaries which define streaming video terminology, no definitive source exists, which can make it challenging to discuss and reach consensus on technical challenges.
+
+
+***
+![Sony XPERIA 1 III New Flagship Smartphone: Pre-Orders Begin Now at B&H Photo](https://mms.businesswire.com/media/20210701005258/en/889071/23/Sony_Xperia_III_Smartphone.jpg "Sony XPERIA 1 III New Flagship Smartphone: Pre-Orders Begin Now at B&H Photo")
+
+
+[Sony XPERIA 1 III New Flagship Smartphone: Pre-Orders Begin Now at B&H Photo](https://www.businesswire.com/news/home/20210701005258/en/Sony-XPERIA-1-III-New-Flagship-Smartphone-Pre-Orders-Begin-Now-at-BH-Photo)
+
+
+> July 01, 2021 10:00 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--B&H is pleased to share that pre-orders of the Sony XPERIA 1 III smartphone begin on July 1st. This entry into the smartphone category offers serious mobile enthusiasts the ability to take professional-level photos on-the-go with a triple-camera system that includes a telephoto lens with dual focal lengths. It also expands video and gaming entertainment with a mobile first, a 4K 120 Hz OLED. Leveraging the company's professional photography knowledge in the mobile space, Sony equips the XPERIA 1 III with three different lenses (wide, ultra-wide, and telephoto) and a 3D iToF sensor.
+
+
