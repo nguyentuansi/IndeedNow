@@ -34434,3 +34434,47 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Cachorros Comendo. Lindo Vídeo com Cachorrros lindos se alimentando..](https://external-preview.redd.it/WU9fjO79-HWT7s1pMOQWUaT1fi-zy7uJ57A0mUm0-gM.jpg?auto=webp&s=1d00c7e2a278a7e6a111b69d703cd8a4559b632b "Cachorros Comendo. Lindo Vídeo com Cachorrros lindos se alimentando..")
+
+
+[Cachorros Comendo. Lindo Vídeo com Cachorrros lindos se alimentando..](https://www.reddit.com/r/programming/comments/oc0m6p/cachorros_comendo_lindo_vídeo_com_cachorrros/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Best cheap laptop deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/macbook-air-2020-sigma-20mm-f14-art-1.jpg "Best cheap laptop deals for July 2021")
+
+
+[Best cheap laptop deals for July 2021](https://www.digitaltrends.com/computing/best-laptop-deals/)
+
+
+> Most of us use a computer to keep in touch with people, browse the internet, and enjoy entertainment, and many people (especially since last year) are dependent on these portable PCs for work and school. It's safe to say that having a reliable laptop is pretty much essential in today's internet-connected world. It's also safe to say that if your laptop is a bit long in the tooth by 2021 standards and you need a new one, you probably need it now and don't have the luxury of waiting for the next big seasonal sale.
+
+
+***
+![#TECH: Apple lets users experience upcoming iOS15, iPadOS 15 and WatchOS 8 with Public Beta release](https://assets.nst.com.my/images/articles/botsbeta_NSTfield_image_socialmedia.var_1625191223.jpg "#TECH: Apple lets users experience upcoming iOS15, iPadOS 15 and WatchOS 8 with Public Beta release")
+
+
+[#TECH: Apple lets users experience upcoming iOS15, iPadOS 15 and WatchOS 8 with Public Beta release](https://www.nst.com.my/lifestyle/bots/2021/07/704339/tech-apple-lets-users-experience-upcoming-ios15-ipados-15-and-watchos)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[Can EDE Scanners Detect COVID-19 Accurately? Scientists Weigh in](https://www.thequint.com/tech-and-auto/abu-dhabis-ede-scanners-to-detect-covid-hoax-indian-scientists)
+
+
+> Abu Dhabi has approved the use of EDE scanners in public places in a bid to check the spread of COVID.
+
+
+***
+[#TECH: At MWC, techies enjoy face-to-face socialising](https://www.nst.com.my/lifestyle/bots/2021/07/704334/tech-mwc-techies-enjoy-face-face-socialising)
+
+
+> #TECH: At MWC, techies enjoy face-to-face socialising © New Straits Times Press (M) Bhd
+
+
