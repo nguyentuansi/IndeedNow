@@ -34478,3 +34478,53 @@
 > #TECH: At MWC, techies enjoy face-to-face socialising © New Straits Times Press (M) Bhd
 
 
+***
+![Jio just gave Google its best shot at cracking India's entry-level segment](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/jiophone-next.jpg "Jio just gave Google its best shot at cracking India's entry-level segment")
+
+
+[Jio just gave Google its best shot at cracking India's entry-level segment](https://www.androidcentral.com/jio-just-gave-google-its-best-shot-cracking-indias-entry-level-segment)
+
+
+> Source: Jio Over four years ago, Google CEO Sundar Pichai said that smartphones need to cost as little as $30 to gain widespread adoption across India. Although the country is the second-largest smartphone market in the world — with over 700 million users — there's still a sizeable chunk of the Indian populace that hasn't made the switch. Xiaomi and other Chinese manufacturers have significantly lowered the barrier to entry for smartphones, offering decent options for as low as ₹6,799 ($90), but that is still out of consideration for millions of Indians.
+
+
+***
+![I created a simple json based database for python](https://external-preview.redd.it/uM64-Su4dV1iz9uDIOqHe5-MF8vVqUvbcoo_h9BlAa0.jpg?auto=webp&s=6a6aeed81d5be7b061811b28fd0688a057ae80c7 "I created a simple json based database for python")
+
+
+[I created a simple json based database for python](https://www.reddit.com/r/Python/comments/oc21qv/i_created_a_simple_json_based_database_for_python/)
+
+
+> I created a simple json based database for python, its called RolandoDB, https://github.com/Rolando-Zarate/RolandoDB, is very simple to use.It started as a project because i needed a simple database (also because i was bored lol)Recommendations are welcome :)EDIT: Ignore the flair i didnt know what to use
+
+
+***
+![Twitter testing Instagram-like Close Friends feature, will let users limit tweets to trusted friends](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/screenshot_2021-07-02_at_9.06._1200x768-original.png "Twitter testing Instagram-like Close Friends feature, will let users limit tweets to trusted friends")
+
+
+[Twitter testing Instagram-like Close Friends feature, will let users limit tweets to trusted friends](https://www.indiatoday.in/technology/news/story/twitter-testing-instagram-like-close-friends-feature-will-let-users-limit-tweets-to-trusted-friends-1822856-2021-07-02)
+
+
+> Ankita Chakravarti New Delhi, Jul 02, 2021, Updated Jul 02, 2021, 9:10 AM IST Story highlights Twitter is testing a new feature that would allow users to let their trusted friends view the tweets. The feature that is being tested is similar to Instagram's Close Friends feature. Users can choose a specific audience using the Trusted feature and Facets can be used to categorise the tweets. Twitter is testing a new feature that would allow users to let their trusted friends view the tweets. The feature that is being tested is similar to Instagram's Close Friends feature.
+
+
+***
+![Best cheap laser printer deals for June 2021](https://icdn.digitaltrends.com/image/digitaltrends/brother-monochrome-laser-printer.jpg "Best cheap laser printer deals for June 2021")
+
+
+[Best cheap laser printer deals for June 2021](https://www.digitaltrends.com/dtdeals/best-laser-printer-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Gone are the days when laser printers were reserved only for large offices. Now, there are great laser printers (and even color laser printers) out there to fit just about any need and budget, and while there are still some excellent duty-grade professionals for large businesses, there are also highly capable models that can fit right on your desktop. That's great news for anybody who does a lot of high-volume printing and is tired of paying for expensive inkjet cartridges; if you're looking to make the jump yourself, then these are the best laser printer sales up for grabs right now.
+
+
+***
+![Mi and Redmi TVs are getting expensive in India due to supply chain shortages](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/rtv1-original.jpg "Mi and Redmi TVs are getting expensive in India due to supply chain shortages")
+
+
+[Mi and Redmi TVs are getting expensive in India due to supply chain shortages](https://www.indiatoday.in/technology/news/story/mi-and-redmi-tvs-are-getting-expensive-in-india-due-to-supply-chain-shortages-1822853-2021-07-02)
+
+
+> Manas Tiwari New Delhi, Jul 02, 2021, Updated Jul 02, 2021, 9:06 AM IST Story highlights Xiaomi is increasing price of its Smart TVs in India. Both Mi and Redmi TVs receive price hike. Xiaomi TVs get costlier by 3 to 6 per cent. Xiaomi's Mi and Redmi smart TVs are getting expensive in India starting Thursday, July 1. The televisions under both the line-ups have received price hike due to global supply chain shortages. Xiaomi has confirmed that there will be a price hike between 3 and 6 percent across different models.
+
+
