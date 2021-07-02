@@ -34622,3 +34622,53 @@
 > Bitcoin rallied at the end of June, rising in price from close to $30,000 on the weekend to above $36,000 on Wednesday. It has since slipped below $34,000 on Thursday. Other leading cryptocurrencies saw a similar bounce, with Ethereum (ether) and dogecoin breaking above the crucial markers of $2,000 and $0.25 respectively.Beyond brief peaks above $40,000 and dips below $30,000, the cryptocurrency has spent the entire month trading within a $10k price range.The relative stability has divided crypto analysts over whether the market is in a bull or bear phase, meaning July's movements will be under close scrutiny.
 
 
+***
+![Finoa Prepares for Next Phase of Growth with Three New C-Suite Talents](https://mms.businesswire.com/media/20210702005118/en/888933/23/finoa_logo_primary.jpg "Finoa Prepares for Next Phase of Growth with Three New C-Suite Talents")
+
+
+[Finoa Prepares for Next Phase of Growth with Three New C-Suite Talents](https://www.businesswire.com/news/home/20210702005118/en/Finoa-Prepares-for-Next-Phase-of-Growth-with-Three-New-C-Suite-Talents)
+
+
+> July 02, 2021 05:56 AM Eastern Daylight Time BERLIN--(BUSINESS WIRE)--Finoa (https://www.finoa.io), one of Europe's leading digital asset custodians, announced today that it is adding three new executives to its management team. Following its recent $22 million Series A investment round, the company is entering its next phase of growth and adding senior talents with vast experience in the financial industry to scale the organization for its next chapter. Finoa offers simple, secure, and regulated access to crypto for institutional investors.
+
+
+***
+![Maine Now Has the Toughest Facial Recognition Restrictions in the U.S.](https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0 "Maine Now Has the Toughest Facial Recognition Restrictions in the U.S.")
+
+
+[Maine Now Has the Toughest Facial Recognition Restrictions in the U.S.](https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html)
+
+
+> Maine has just passed the nation's toughest law restricting the use of facial recognition technology. LD 1585 was unanimously approved by the Maine House and Senate on June 16 and 17, respectively, and became law without the signature of Gov. Janet Mills. The bill's sponsor, Rep. Grayson Lookner, D-Portland, hopes that Maine's new law—which goes into effect Oct. 1—will 'provide an example to other states that want to rein in the government's ability to use facial recognition and other invasive biometric technologies.
+
+
+***
+![Lockable Tree](https://external-preview.redd.it/w-16_0OQOZE89tBlBXKDqlY04CDs_ot2_htBzPN5amg.jpg?auto=webp&s=d9d3bb84494c66b086461b9869394fa515769b2a "Lockable Tree")
+
+
+[Lockable Tree](https://www.reddit.com/r/programming/comments/oc6trr/lockable_tree_google_interview_question_i/)
+
+
+> I thought one approach would be making all the function synchronized but then only one thread can enter the function but that won't be a optimized approach.I tried some other like ReadWriteLocks nut there are some case I could not cover. Can someone explain me what would be most optimal solution.
+
+
+***
+![Android Apps: Neues Dateiformat im Store](https://i.computer-bild.de/imgs/1/3/9/0/6/2/9/5/Slide_Android_Apps_Neues_Dateiformat-030490c3690c150a.jpg "Android Apps: Neues Dateiformat im Store")
+
+
+[Android Apps: Neues Dateiformat im Store](https://www.computerbild.de/videos/cb-News-App-Check-Android-Apps-Neues-Dateiformat-im-Store-30440307.html)
+
+
+> No body in the article.
+
+
+***
+![Apple to release 10.86-inch OLED iPad next year](https://image-prod.iol.co.za/resize/650x366/File-picture-Reuters-Mike-Segar?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/c1db4df6-6049-5b2b-bf25-e5b5d9d74b75&operation=CROP&offset=0x163&resize=2000x1125 "Apple to release 10.86-inch OLED iPad next year")
+
+
+[Apple to release 10.86-inch OLED iPad next year](https://www.iol.co.za/technology/gadgets/apple-to-release-1086-inch-oled-ipad-next-year-report-e034e1cb-8dd8-45e7-9878-5152af53d124)
+
+
+> File picture: Reuters/Mike SegarShare this article:San Francisco - Apple is likely to release a 10.86-inch OLED iPad in 2022 and two new 120Hz OLED iPads in 2023, the media reported.The report goes into some specifics. For example, the 2022 iPad will have a 10.86-inch screen, which is coincidentally the same size as the current iPad Air, citing The Elec, GSMArena reported.This might mean that the report is referring to the next-generation iPad Air. Apple would use Thin-Film Encapsulation (TFE) method to protect the OLED panel from moisture and oxygen since the tech is pretty sensitive in this regard.
+
+
