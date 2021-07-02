@@ -34528,3 +34528,47 @@
 > Manas Tiwari New Delhi, Jul 02, 2021, Updated Jul 02, 2021, 9:06 AM IST Story highlights Xiaomi is increasing price of its Smart TVs in India. Both Mi and Redmi TVs receive price hike. Xiaomi TVs get costlier by 3 to 6 per cent. Xiaomi's Mi and Redmi smart TVs are getting expensive in India starting Thursday, July 1. The televisions under both the line-ups have received price hike due to global supply chain shortages. Xiaomi has confirmed that there will be a price hike between 3 and 6 percent across different models.
 
 
+***
+![Cops are playing music during filmed encounters to game YouTube's copyright striking](https://external-preview.redd.it/x1Vb5cf7ZF4S59y40gyGmRPcSjDz43bJnybuvxvIVk0.jpg?auto=webp&s=2c50363d887d29369b0dbb1718358f73440ac5a6 "Cops are playing music during filmed encounters to game YouTube's copyright striking")
+
+
+[Cops are playing music during filmed encounters to game YouTube's copyright striking](https://www.reddit.com/r/technology/comments/oc3pyc/cops_are_playing_music_during_filmed_encounters/)
+
+
+> Two thoughts… Since the police are using a standard piece of music, could the video be run through an algorithm that subtracts that music. If the noise were random then it couldn't be removed but since it's a known quantity, can it be sufficiently removed so as not to trip content ID.The second thought is whether the police have a public performance license.
+
+
+***
+[Online Machine Learning Certification Exam](https://www.reddit.com/r/programming/comments/oc3n1c/online_machine_learning_certification_exam/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Facebook Cloud gaming sees 1.5 mn users a month, expanding to more regions](https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/04/full/1607047251-4908.jpg "Facebook Cloud gaming sees 1.5 mn users a month, expanding to more regions")
+
+
+[Facebook Cloud gaming sees 1.5 mn users a month, expanding to more regions](https://www.business-standard.com/article/technology/facebook-cloud-gaming-sees-1-5-mn-users-a-month-expanding-to-more-regions-121070200308_1.html)
+
+
+> Over 1.5 million people are playing cloud-streamed games on Facebook Gaming every month and the social network has announced to roll out Cloud gaming in Canada and Mexico, and will reach Western and Central Europe by early 2022. The social network also welcomed top gaming company Ubisoft as a partner and the popular Assassin's Creed Rebellion has arrived as a cloud-streamed game on Facebook Gaming. Last October, Facebook announced beta programme of its cloud gaming platform to expand the library of mobile games on Facebook and started with launching a handful of cloud-streamed games on Android and web in select US regions.
+
+
+***
+[MeitY's PLI scheme: Production worth Rs 1.61 lakh crore, 36, 000 direct jobs in 4 years! a BIG step towards making India ATMANIRBHAR in IT hardware manufacturing](https://www.zeebiz.com/technology/news-meitys-pli-scheme-production-worth-rs-161-lakh-crore-36-000-direct-jobs-in-4-years-a-big-step-towards-making-india-atmanirbhar-in-it-hardware-manufacturing-159809)
+
+
+> In order to boost the domestic manufacturing of hardware products and attract large investments in the value chain of these hardware products, Ministry of Electronics and Information and Technology (MeitY) has taken a big initiative.
+
+
+***
+![Battlegrounds Mobile India Has Officially Released on Android](https://i.gadgets360cdn.com/large/BGMI_official_release_1625203511238.jpg "Battlegrounds Mobile India Has Officially Released on Android")
+
+
+[Battlegrounds Mobile India Has Officially Released on Android](https://gadgets.ndtv.com/games/news/battlegrounds-mobile-india-pubg-officially-released-android-krafton-10-million-downloads-2477473)
+
+
+> Battlegrounds Mobile India has officially launched in the country today, July 2. Launched as the Indian version of PUBG Mobile after that game was banned in September 2020, Battlegrounds Mobile India has been available in early access until now, but the official version has now been launched for the public and can be downloaded from the Google Play store. Developer Krafton thanked the players with in-game rewards as 10 million players have now downloaded the game.After almost a month after the official announcement from developer Krafton, Battlegrounds Mobile India has finally officially launched in the country.
+
+
