@@ -34387,3 +34387,50 @@
 > A lot of businesses that rely on Venmo arenâ€™t very pleased with the PayPal-owned money-transfer app right now, following an announcement last week about new and higher fees for certain functions. This includes a 1 percent to 1.5 percent hike for instant transfers of account funds to a bank, and a new 1.9 percent plus 10 cent transaction fee that users selling goods and services will have to pay. While this latter change wonâ€™t go into effect until July 20, users are already trying to figure out ways to skirt the forthcoming policy.
 
 
+***
+![Astronauts successfully demonstrate Genetic editing in space for first time](https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jo44wvi6yxr63dil_1625168559.jpeg "Astronauts successfully demonstrate Genetic editing in space for first time")
+
+
+[Astronauts successfully demonstrate Genetic editing in space for first time](https://www.republicworld.com/technology-news/science/astronauts-successfully-demonstrate-genetic-editing-in-space-for-first-time.html)
+
+
+> For the first time, astronauts have successfully completed an experimental gene-editing technique in space. The procedure is critical for astronaut's safety because it attempts to examine DNA repair in yeast cells in a way that can be done totally in space. DNA damage can occur as a result of environmental causes such as UV radiation exposure. Ionizing radiation (heat or light that steals electrons from atoms) that permeates space makes that risk larger outside of Earth's shielding atmosphere.Astronauts successfully edit genes in spaceCRISPR/Cas9 genome editing technology is used to induce precise DNA damage in the new procedure, which was tested onboard the International Space Station.
+
+
+***
+![Virgin Orbit launches 7 satellites in first commercial payload to space via 'LauncherOne'](https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/clh0bayzmuqencno_1625165912.jpeg "Virgin Orbit launches 7 satellites in first commercial payload to space via 'LauncherOne'")
+
+
+[Virgin Orbit launches 7 satellites in first commercial payload to space via 'LauncherOne'](https://www.republicworld.com/technology-news/science/virgin-orbit-launches-7-satellites-in-first-commercial-payload-to-space-via-launcherone.html)
+
+
+> Virgin Orbit, founded by Sir Richard Branson, launched satellites from three countries into space on Wednesday, June 30, marking the company's second successful rocket launch from a plane. The company's modified 747 airplanes, called Cosmic Girl, took flight from the Mojave Desert in California, carrying a 70-foot (21-meter) rocket under its left wing. The LauncherOne rocket broke away from the plane as it flew over the Pacific near the Channel Islands, then fired its engine to launch into space.
+
+
+***
+[A Group Is Its Own Worst Enemy (2003)](https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html)
+
+
+> A speech at ETech, April, 2003 This is a lightly edited version of the keynote I gave on Social Software at the O'Reilly Emerging Technology conference in Santa Clara on April 24, 2003 Good morning, everybody. I want to talk this morning about social software ...there's a surprise. I want to talk about a pattern I've seen over and over again in social software that supports large and long-lived groups. And that pattern is the pattern described in the title of this talk: "A Group Is Its Own Worst Enemy.
+
+
+***
+![5 things you should know about Spotify Greenroom, the Clubhouse rival with podcast feature](https://technext.ng/wp-content/uploads/2021/06/Untitled-design-2.png "5 things you should know about Spotify Greenroom, the Clubhouse rival with podcast feature")
+
+
+[5 things you should know about Spotify Greenroom, the Clubhouse rival with podcast feature](https://technext.ng/2021/06/17/5-things-you-should-know-about-spotify-greenroom-the-clubhouse-rival-with-podcast-feature/)
+
+
+> Music streaming platform, Spotify has rolled out its live audio chat app, Greenroom on Android and iOS across 135 countries including Nigeria. Greenroom is a revamped version of the Locker Room app developed by Betty Labs, which was acquired by Spotify in March. The dark-themed app comes with Clubhouse-like features that let users engage in live audio conversations without needing an invite. We tried out the Android release of Greenroom and highlight five (5) things you should know. See iOS version here.
+
+
+***
+![Angular/NgRx Tutorial Series](https://external-preview.redd.it/2dyjymU5LHoWQgmVISjV5ZisJPXC9c7uCqAxeuu0zYQ.jpg?auto=webp&s=051d94898f2356a2c173258221c38aa84561d37b "Angular/NgRx Tutorial Series")
+
+
+[Angular/NgRx Tutorial Series](https://www.reddit.com/r/programming/comments/obyfmo/angularngrx_tutorial_series/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
