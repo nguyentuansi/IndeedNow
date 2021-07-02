@@ -34863,3 +34863,53 @@
 > New highs for the EURUSD The EUR lagged other currencies in making new lows vs the USD, but the EURUSD has just moved to a new high (new dollar low). The pair traded to a new high of  1.18602, taking out the earlier high at 1.18588. 
 
 
+***
+![Twitter's Trusted Friends: How Sharing With Select People Might Work](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/07/twitter-trusted-friends-concept-official.jpg "Twitter's Trusted Friends: How Sharing With Select People Might Work")
+
+
+[Twitter's Trusted Friends: How Sharing With Select People Might Work](https://screenrant.com/twitter-trusted-friends-facets-reply-preferences-concepts/)
+
+
+> Twitter recently shared three concepts of how tweeting could change in the future — including Trusted Friends, Facets, and Reply Preferences. Twitter has shared a few new features it's considering for future versions of the app, including a ‘Trusted Friends' system that would allow users to only share tweets with a small group of other users they've specifically chosen. This (and two other features) are currently just concepts from Twitter and not actively in development, but even so, they provide insight into where Twitter envisions the social platform heading as the months and years go on.
+
+
+***
+![These best home security systems are excellent alternatives to ADT](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/vivint-indoor-camera-hero.jpg "These best home security systems are excellent alternatives to ADT")
+
+
+[These best home security systems are excellent alternatives to ADT](https://www.androidcentral.com/best-home-security-systems)
+
+
+> Amongst all the best home security systems, DIY or professional, we strongly recommend the SimpliSafe Home Security package, thanks to its simple installation, no-contract monthly monitoring, a wide range of security add-ons, and cellular backup. However, our other top five options beat SimpliSafe in specific ways that could make you feel safer or work better for your home layout. So let's break down what you should be looking for in a home security system. What are the best DIY or professional home security systems? Home security systems used to rely solely on door/window sensors and a keypad.
+
+
+***
+![Facebook is testing a Twitter-like ‘threads' feature on some public figures' pages – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1211058716.jpg?w=600 "Facebook is testing a Twitter-like ‘threads' feature on some public figures' pages – TechCrunch")
+
+
+[Facebook is testing a Twitter-like ‘threads' feature on some public figures' pages – TechCrunch](https://techcrunch.com/2021/07/02/facebook-is-testing-a-twitter-like-threads-feature-on-some-public-figures-pages/)
+
+
+> Get your spool-of-yarn emojis ready — threads might be coming to Facebook soon. Facebook has been spotted testing a new feature that gives public figures on Facebook the ability to create a new post that's connected to a previous one on a related subject. This feature ties the posts together more visually so fans can more easily follow updates over time. When the new post appears on followers' News Feeds, it will be shown as being connected to the other posts in a thread. Social media consultant Matt Navarra first spotted this feature in action, and shared several screenshots of how it looks.
+
+
+***
+![Richard Branson: 'I would love Jeff Bezos to come and see our flight off'](https://cdn.cnn.com/cnnnext/dam/assets/210702150011-richard-branson-jeff-bezos-split-super-tease.jpg "Richard Branson: 'I would love Jeff Bezos to come and see our flight off'")
+
+
+[Richard Branson: 'I would love Jeff Bezos to come and see our flight off'](https://www.cnn.com/2021/07/02/tech/richard-branson-virgin-galactic-scn/index.html)
+
+
+> The Virgin Galactic founder told CNN Business in a Friday interview that his surprise announcement about making his long-awaited trip to outer space next week on a Virgin Galactic spaceplane was a coincidence, and had nothing to do with Bezos's timing. Bezos said last month he would fly on July 20 aboard a rocket built by his own space company, Blue Origin."I don't know for sure exactly when Jeff Bezos is going, he may decide to go before us, but I honestly don't see this as a space race," Branson told CNN Business' Rachel Crane.
+
+
+***
+![On this week's 'Bad Batch,' Hunter and his crew rescue a Separatist](https://www.gannett-cdn.com/presto/2021/07/02/USAT/34963c35-b4a3-41a9-8b97-df54e31ed2fc-bad-batch-common-ground-1.png?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200 "On this week's 'Bad Batch,' Hunter and his crew rescue a Separatist")
+
+
+[On this week's 'Bad Batch,' Hunter and his crew rescue a Separatist](https://www.usatoday.com/story/tech/reviewed/2021/07/02/bad-batch-season-one-episode-seven-recap-common-ground/7846046002/)
+
+
+> — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.In this week's episode of The Bad Batch, 'Common Ground,' Squad 99 gets hired to save a Separatist. Hunter and his crew aren't thrilled about the idea, but they've got a debt to pay off, and they're no fans of the new Galactic Empire. Still, it's dangerous territory—too dangerous, they've decided, to bring Omega along with them. So the girl stays behind with Cid on Ord Mantell, where she kills time scrubbing the bar and discovering that she's something of a holochess (dejarik) prodigy.
+
+
