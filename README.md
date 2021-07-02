@@ -34913,3 +34913,53 @@
 > — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.In this week's episode of The Bad Batch, 'Common Ground,' Squad 99 gets hired to save a Separatist. Hunter and his crew aren't thrilled about the idea, but they've got a debt to pay off, and they're no fans of the new Galactic Empire. Still, it's dangerous territory—too dangerous, they've decided, to bring Omega along with them. So the girl stays behind with Cid on Ord Mantell, where she kills time scrubbing the bar and discovering that she's something of a holochess (dejarik) prodigy.
 
 
+***
+![Florida State Rep. Anthony Sabatini: Regulate Tech Companies Like Common Carriers](https://media.breitbart.com/media/2018/04/Mark-Zuckerberg-frowning.png "Florida State Rep. Anthony Sabatini: Regulate Tech Companies Like Common Carriers")
+
+
+[Florida State Rep. Anthony Sabatini: Regulate Tech Companies Like Common Carriers](https://www.breitbart.com/tech/2021/07/02/florida-state-rep-anthony-sabatini-regulate-tech-companies-like-common-carriers/)
+
+
+> After a federal judge overturned a Florida law that attempted to rein in the Big Tech Masters of the Universe, State Rep. Anthony Sabatini (R) says Big Tech companies should be regulated like common carriers in the Sunshine State, a categorization that would be difficult to shoot down in court. Currently the state representative for FL-32, Rep. Sabatini is running for U.S. Congress in Floridaâ€™s 7th congressional district at the next election on an America First platform. His platform promises to crack down on big tech censorship, end illegal immigration, and ban biological men from girlâ€™s sports.
+
+
+***
+![Brazil vs Chile live stream: how to watch Copa America quarter-final for free and from anywhere](https://cdn.mos.cms.futurecdn.net/qfuxuuzhsNWopFHC2szJQc-1200-80.jpg "Brazil vs Chile live stream: how to watch Copa America quarter-final for free and from anywhere")
+
+
+[Brazil vs Chile live stream: how to watch Copa America quarter-final for free and from anywhere](https://www.techradar.com/news/brazil-vs-chile-live-stream-how-to-watch-copa-america-2021-quarter-final-for-free-and-from-anywhere)
+
+
+> Brazil and Chile have got their hands on five of the last six Copa America trophies, but La Roja's topsy-turvy group stage means they meet much earlier in the draw than they're used to - it's a quarter-final Clash of the Titans. This has all the makings of a tournament final, so follow our guide to watch a Brazil vs Chile live stream and follow the Copa America 2021 knockout game from anywhere today.Seleção cruised through the group stage, scoring 10 and conceding two on their way to three wins and a draw.
+
+
+***
+![America's ‘Smart City' Didn't Get Much Smarter](https://external-preview.redd.it/Qfi638lP-prhSPBSOJY7vohYP-YH6yrKd2uqKPnK6f0.jpg?auto=webp&s=f08013f467c6c92568b903394bef7080bc7c713a "America's ‘Smart City' Didn't Get Much Smarter")
+
+
+[America's ‘Smart City' Didn't Get Much Smarter](https://www.reddit.com/r/technology/comments/ock3iv/americas_smart_city_didnt_get_much_smarter/)
+
+
+> View Entire Discussion (1 Comments)
+
+
+***
+![Manufacturing breakthrough paves the way for gigantic quantum computers](https://cdn.mos.cms.futurecdn.net/njuv9a6jNUuxBzcgSQZF7X-1200-80.jpg "Manufacturing breakthrough paves the way for gigantic quantum computers")
+
+
+[Manufacturing breakthrough paves the way for gigantic quantum computers](https://www.techradar.com/news/manufacturing-breakthrough-paves-the-way-for-gigantic-quantum-computers)
+
+
+> (Image credit: Rigetti Computing) Quantum computers could soon be even larger than they already are thanks to a new manufacturing breakthrough from the full-stack quantum computing company Rigetti Computing.The firm has announced the launch of the world's first multi-chip quantum processor which incorporates a proprietary modular architecture that solves some of the key scaling challenges associated with fault-tolerant quantum computers.Rigetti Computing plans to build a quantum computer with 80 qubits powered by its multi-chip quantum processor later this year and make it available to customers on its Quantum Cloud Services platform.
+
+
+***
+![Qualcomm is building an M1 rival — and it has a powerful weapon under its belt](https://cdn.mos.cms.futurecdn.net/kjaKjBRUTDYkzz6DeR86Eh-1200-80.jpg "Qualcomm is building an M1 rival — and it has a powerful weapon under its belt")
+
+
+[Qualcomm is building an M1 rival — and it has a powerful weapon under its belt](https://www.laptopmag.com/news/qualcomm-is-building-an-m1-rival-and-it-has-a-powerful-weapon-under-its-belt)
+
+
+> Qualcomm (Image credit: Qualcomm) The M1 chip that powers the updated MacBook Air and 13-inch MacBook Pro caused shockwaves in the laptop industry. Apple ditched Intel and boasted that its new custom ARM-based processors was a power-efficient, performance beast — and that turned out to be true.Qualcomm won't let Apple steal all the shine, though. The chipmaker is determined to launch a new processor that will rival the M1 chip — without the ARM architecture (via Reuters).M1 MacBook Pro reviewBest laptops of 2021Qualcomm announces plans to launch M1 chip rivalQualcomm is certain that it can knock Apple off its pedestal.
+
+
