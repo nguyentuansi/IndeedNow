@@ -34572,3 +34572,53 @@
 > Battlegrounds Mobile India has officially launched in the country today, July 2. Launched as the Indian version of PUBG Mobile after that game was banned in September 2020, Battlegrounds Mobile India has been available in early access until now, but the official version has now been launched for the public and can be downloaded from the Google Play store. Developer Krafton thanked the players with in-game rewards as 10 million players have now downloaded the game.After almost a month after the official announcement from developer Krafton, Battlegrounds Mobile India has finally officially launched in the country.
 
 
+***
+![#TECH: Boost helps businesses transition from offline-to-online at zero cost](https://assets.nst.com.my/images/articles/BOTSboostC_NSTfield_image_socialmedia.var_1625213045.jpg "#TECH: Boost helps businesses transition from offline-to-online at zero cost")
+
+
+[#TECH: Boost helps businesses transition from offline-to-online at zero cost](https://www.nst.com.my/lifestyle/bots/2021/07/704497/tech-boost-helps-businesses-transition-offline-online-zero-cost)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![#TECH: Facebook AI guru says regulate its use, not the tech](https://assets.nst.com.my/images/articles/botsfbai_NSTfield_image_socialmedia.var_1625212818.jpg "#TECH: Facebook AI guru says regulate its use, not the tech")
+
+
+[#TECH: Facebook AI guru says regulate its use, not the tech](https://www.nst.com.my/lifestyle/bots/2021/07/704492/tech-facebook-ai-guru-says-regulate-its-use-not-tech)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Hybrid Clouds Lead the Way as Digitization, COVID-19 Accelerate IT, Cloud Services Demand in Switzerland](https://mms.businesswire.com/media/20210702005058/en/1016900/23/ISG_%28R%29_Logo.jpg "Hybrid Clouds Lead the Way as Digitization, COVID-19 Accelerate IT, Cloud Services Demand in Switzerland")
+
+
+[Hybrid Clouds Lead the Way as Digitization, COVID-19 Accelerate IT, Cloud Services Demand in Switzerland](https://www.businesswire.com/news/home/20210702005058/en/Hybrid-Clouds-Lead-the-Way-as-Digitization-COVID-19-Accelerate-IT-Cloud-Services-Demand-in-Switzerland)
+
+
+> July 02, 2021 04:00 AM Eastern Daylight Time ZÜRICH--(BUSINESS WIRE)--IT and cloud services were in high demand in Switzerland throughout 2020 and early 2021 as companies and consumers linked to the Swiss economy continued the digitization of their lives and work environments, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2021 ISG Provider Lens™ Next-Gen Private/Hybrid Cloud – Data Center Services & Solutions report for Switzerland finds Swiss companies favor hybrid cloud infrastructures with a large private-cloud element.
+
+
+***
+![#TECH: PUBG Mobile partners with Tesla for new game update](https://assets.nst.com.my/images/articles/botspubgm_NSTfield_image_socialmedia.var_1625212728.jpg "#TECH: PUBG Mobile partners with Tesla for new game update")
+
+
+[#TECH: PUBG Mobile partners with Tesla for new game update](https://www.nst.com.my/lifestyle/bots/2021/07/704487/tech-pubg-mobile-partners-tesla-new-game-update)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Bitcoin price – live: Crypto market flat as btc flashes rare ‘big buy signal'](https://static.independent.co.uk/2021/06/30/09/bitcoin%20price%20latest%20ethereum%202021.jpg?width=1200&auto=webp&quality=75 "Bitcoin price – live: Crypto market flat as btc flashes rare ‘big buy signal'")
+
+
+[Bitcoin price – live: Crypto market flat as btc flashes rare ‘big buy signal'](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-live-crypto-binance-mexico-b1875304.html)
+
+
+> Bitcoin rallied at the end of June, rising in price from close to $30,000 on the weekend to above $36,000 on Wednesday. It has since slipped below $34,000 on Thursday. Other leading cryptocurrencies saw a similar bounce, with Ethereum (ether) and dogecoin breaking above the crucial markers of $2,000 and $0.25 respectively.Beyond brief peaks above $40,000 and dips below $30,000, the cryptocurrency has spent the entire month trading within a $10k price range.The relative stability has divided crypto analysts over whether the market is in a bull or bear phase, meaning July's movements will be under close scrutiny.
+
+
