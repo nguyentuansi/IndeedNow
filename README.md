@@ -34819,3 +34819,47 @@
 > Fox (NASDAQ:FOXA) shares experienced unusual options activity on Friday. The stock price moved down to $37.28 following the option alert. Sentiment: BEARISH Option Type: SWEEP Trade Type: CALL Expiration Date: 2021-08-06 Strike Price: $37.50 Volume: 606 Open Interest: 0 Three Ways Options Activity Is â€˜Unusual' Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
 
 
+***
+![Prop up your MacBook in style with one of these stands](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/08/taotronics-foldable-laptop-stand-hero.jpg "Prop up your MacBook in style with one of these stands")
+
+
+[Prop up your MacBook in style with one of these stands](https://www.imore.com/best-stands-your-macbook)
+
+
+> Best stands for your MacBook and MacBook Pro iMore 2021 A stand for your MacBook or MacBook Pro is more than a tool to show off your toy: stands can optimize space, reduce desk clutter, protect it from spills and the chaos of your desk, help with storage, or even just add to the overall aesthetic of your office depending on the style you pick up. Here are the best Macbook stands available for your MacBook or MacBook Pro. Staff Favorite Smooth, low-profile, modern, and wildly popular, the BookArc by Twelve South is a vertical stand that can reinvent your workspace and save you quite a bit of space on your desk.
+
+
+***
+![Paramount Plus: Price, shows & how to try for free](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/paramount-plus-hero-2.jpg "Paramount Plus: Price, shows & how to try for free")
+
+
+[Paramount Plus: Price, shows & how to try for free](https://www.androidcentral.com/paramount-plus)
+
+
+> "Not another streaming service" is starting to become a common refrain amongst cordcutters with new options popping up every few months. Paramount Plus, however, isn't exactly a new service but a rebranded and majorly updated one. CBS All Access was previously known as the home of Big Brother live feeds, Star Trek: Discovery, and all the NCIS episodes you can stomach, while slowly accumulating shows and other content from networks like BET, Nickelodeon, Comedy Central, MTV, and even the Smithsonian Channel.
+
+
+***
+![Facebook removes millions of posts as part of first compliance report under IT Rules, 2021](https://images.livemint.com/img/2021/07/02/600x338/2021-07-02T151552Z_1_LYNXNPEH610W4_RTROPTP_3_FACEBOOK-NEWSLETTER_1625243257798_1625243307892.JPG "Facebook removes millions of posts as part of first compliance report under IT Rules, 2021")
+
+
+[Facebook removes millions of posts as part of first compliance report under IT Rules, 2021](https://www.livemint.com/technology/tech-news/facebook-removes-millions-of-posts-as-part-of-first-compliance-report-under-it-rules-2021-11625242863986.html)
+
+
+> Facebook Inc. on Friday published the first edition of its compliance report in accordance with Rule 4(1)(d) of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021. The report provides details on actions taken against Facebook and Instagram content—created by users in India—that violates norms. Facebook has identified two metrics. This includes ‘Content Actioned', which measures the number of pieces of content (such as posts, photos, videos or comments) the platform took action on for going against its community standards.
+
+
+***
+[Sources: US subscriber growth at Disney+ has slowed sharply, with 38M subs in North America in early July, compared to 37M at the start of February (The Information)](http://www.techmeme.com/210702/p22#a210702p22)
+
+
+> The Information: Sources: US subscriber growth at Disney+ has slowed sharply, with 38M subs in North America in early July, compared to 37M at the start of February — U.S. subscriber growth at Disney's Disney+ streaming service slowed sharply in the past few months, according to internal data reviewed by The Information …
+
+
+***
+[Dollar now falls to the lowest level of the day vs the EUR](https://www.forexlive.com/technical-analysis/!/dollar-now-falls-to-the-lowest-level-of-the-day-vs-the-eur-20210702)
+
+
+> New highs for the EURUSD The EUR lagged other currencies in making new lows vs the USD, but the EURUSD has just moved to a new high (new dollar low). The pair traded to a new high of  1.18602, taking out the earlier high at 1.18588. 
+
+
