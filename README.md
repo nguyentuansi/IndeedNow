@@ -34719,3 +34719,53 @@
 > Exclusive Stories will also be marked with a purple heart icon which will work just like how Stories for 'Close Friends' currently get labelled with a green star icon, reported Mashable. Image Credit: Pexels Washington: Similar to Twitter's 'Super Follows', photo-sharing platform Instagram is working on a feature that would let creators offer exclusive stories to their followers. As per Mashable, Twitter recently rolled out a feature 'Super Follows' which allows users with a certain number of followers to provide offer exclusive content for a fee, similar to YouTube's membership feature.
 
 
+***
+![The new Nord N200 5G is out, but should you choose it over the Nord N10 5G?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/oneplus-nord-n10-5g-review-19.jpg "The new Nord N200 5G is out, but should you choose it over the Nord N10 5G?")
+
+
+[The new Nord N200 5G is out, but should you choose it over the Nord N10 5G?](https://www.androidcentral.com/oneplus-nord-n10-5g-vs-nord-n200-5g)
+
+
+> The OnePlus Nord N10 5G trades an OLED display and more yearly platform updates for great internals, surprisingly effective cameras, 5G, the magic of Warp Charge 30T, and two relics of the past: a microSD slot and a headphone jack. Don't worry. You still get snappy 90Hz transitions but nothing fancier like an IP rating or wireless charging. $300 at Amazon 6.49-inch 90Hz IPS LCD 6GB / 128GB Decent cameras Expandable storage 3.5mm headphone jack Warp Charge 30T No IP rating Only 1 major update No slider All budget phones have large batteries to compensate, which strikes true with the OnePlus Nord N200 5G.
+
+
+***
+![If you buy just one thing today, make it this 27-inch monitor](https://icdn.digitaltrends.com/image/digitaltrends/hp-p27v-g4-led-27-inch-monitor.jpg "If you buy just one thing today, make it this 27-inch monitor")
+
+
+[If you buy just one thing today, make it this 27-inch monitor](https://www.digitaltrends.com/dtdeals/hp-p27v-g4-monitor-deal-staples-july-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. You can never have enough monitors, at least that's a good mantra to go by. Whether you're looking for some excellent desktop monitor deals or some cheap gaming monitor deals, there are plenty of options. You can snag a monitor, in just about any size, to put beside your old one, or replace it. Staples is also offering an awesome deal on the HP P27v G4 27-inch LED monitor, which is 15% off the full price. That brings the total to $160 plus free shipping and free delivery, or you can choose a one-hour pickup if there's a store near you.
+
+
+***
+![I developed a toy visual programming language inspired by Unreal engine blueprint function graphs](https://external-preview.redd.it/RdjqQCR1Sj9NTjtxcPjIXoEBEElxJ5abyA3tJzpnkOk.jpg?auto=webp&s=b4f95c295fc6d896f0c1cdb733ff681990707249 "I developed a toy visual programming language inspired by Unreal engine blueprint function graphs")
+
+
+[I developed a toy visual programming language inspired by Unreal engine blueprint function graphs](https://www.reddit.com/r/Python/comments/ocagd2/i_developed_a_toy_visual_programming_language/)
+
+
+> Hello, I've been working with unreal engine for the better part of the last year. Blueprints allow users to draw node graphs that are executed during the render loop of the engine.For fun, I decided to implement a text-based (esoteric?) visual programming language based on node graphs.GitHub: https://github.com/p-ranav/boxIdeas on implementing specific (currently unsupported) language features e.g., importing across files, etc., would be appreciated :)The language is impemented in Python and transpiles to Python.
+
+
+***
+![NASA still trying to identify what took Hubble offline](https://external-preview.redd.it/17IKPdwP3RD53_-29b433EsiwlSLWvsvpSmfiWo9Bn4.jpg?auto=webp&s=0aab025df6278cdeda4225874c3299f38421a9f2 "NASA still trying to identify what took Hubble offline")
+
+
+[NASA still trying to identify what took Hubble offline](https://www.reddit.com/r/technology/comments/ocagbe/nasa_still_trying_to_identify_what_took_hubble/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![PostgreSQL Connector](https://external-preview.redd.it/aVaEm1-Y7FG0E7cezxD4MHuMn80wBC8dFlFgp_Lgmpc.jpg?auto=webp&s=02243e76a90bfb4bdcb139a31b83feb8ad439117 "PostgreSQL Connector")
+
+
+[PostgreSQL Connector](https://www.reddit.com/r/Python/comments/ocae0u/postgresql_connector/)
+
+
+> Hey guys! I've created a postgresql connector using psycopg2 and several modules. The meaning behind this program is that I want to gain experience in Data engineering and I thought that creating this will be a huge step in that path. I'm extremely happy for this, been working on it for almost a week and a half.The code itself is still WIP, I have to change aesthetic stuff (So ignore them) and also I will need your help with a part of the program. Inside the querying/alter functions I've created a while loop and a try/except, but I have this bug which doesn't let the while loop work.
+
+
