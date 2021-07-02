@@ -34769,3 +34769,53 @@
 > Hey guys! I've created a postgresql connector using psycopg2 and several modules. The meaning behind this program is that I want to gain experience in Data engineering and I thought that creating this will be a huge step in that path. I'm extremely happy for this, been working on it for almost a week and a half.The code itself is still WIP, I have to change aesthetic stuff (So ignore them) and also I will need your help with a part of the program. Inside the querying/alter functions I've created a while loop and a try/except, but I have this bug which doesn't let the while loop work.
 
 
+***
+![Unusual Options Activity Insight: Futu Holdings](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Unusual Options Activity Insight: Futu Holdings")
+
+
+[Unusual Options Activity Insight: Futu Holdings](https://www.benzinga.com/markets/options/21/07/21829402/unusual-options-activity-insight-futu-holdings)
+
+
+> On Friday, shares of Futu Holdings (NASDAQ:FUTU) saw unusual options activity. After the option alert, the stock price moved down to $160.3. Sentiment: BULLISH Option Type: TRADE Trade Type: PUT Expiration Date: 2021-11-19 Strike Price: $135.00 Volume: 400 Open Interest: 57 Three Indications Of Unusual Options Activity Extraordinarily large volume (compared to historical averages) is one indication of unusual options market activity. Volume refers to the total number of contracts traded over a given time period when discussing options market activity.
+
+
+***
+![Understanding FuboTV's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Understanding FuboTV's Unusual Options Activity")
+
+
+[Understanding FuboTV's Unusual Options Activity](https://www.benzinga.com/markets/options/21/07/21829399/understanding-fubotvs-unusual-options-activity)
+
+
+> Shares of FuboTV (NYSE:FUBO) saw some unusual options activity on Friday. Following the unusual option alert, the stock price moved down to $29.42. Sentiment: BULLISH Option Type: TRADE Trade Type: CALL Expiration Date: 2021-08-20 Strike Price: $34.00 Volume: 360 Open Interest: 2353 Three Indications Of Unusual Options Activity Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![Understanding Fastly's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Understanding Fastly's Unusual Options Activity")
+
+
+[Understanding Fastly's Unusual Options Activity](https://www.benzinga.com/markets/options/21/07/21829381/understanding-fastlys-unusual-options-activity)
+
+
+> Shares of Fastly (NYSE:FSLY) saw some unusual options activity on Friday. Following the unusual option alert, the stock price moved down to $56.96. Sentiment: BEARISH Option Type: SWEEP Trade Type: CALL Expiration Date: 2022-01-21 Strike Price: $100.00 Volume: 504 Open Interest: 4733 Three Signs Of Unusual Options Activity Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![Unusual Options Activity Insight: First Solar](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Unusual Options Activity Insight: First Solar")
+
+
+[Unusual Options Activity Insight: First Solar](https://www.benzinga.com/markets/options/21/07/21829377/unusual-options-activity-insight-first-solar)
+
+
+> Shares of First Solar (NASDAQ:FSLR) saw some unusual options activity on Friday. Following the unusual option alert, the stock price moved up to $90.67. Sentiment: BEARISH Option Type: SWEEP Trade Type: CALL Expiration Date: 2021-07-02 Strike Price: $83.00 Volume: 1813 Open Interest: 2086 Three Indications Of Unusual Options Activity Extraordinarily large volume (compared to historical averages) is one indication of unusual options market activity. Volume refers to the total number of contracts traded over a given time period when discussing options market activity.
+
+
+***
+![Analyzing Fox's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Analyzing Fox's Unusual Options Activity")
+
+
+[Analyzing Fox's Unusual Options Activity](https://www.benzinga.com/markets/options/21/07/21829373/analyzing-foxs-unusual-options-activity)
+
+
+> Fox (NASDAQ:FOXA) shares experienced unusual options activity on Friday. The stock price moved down to $37.28 following the option alert. Sentiment: BEARISH Option Type: SWEEP Trade Type: CALL Expiration Date: 2021-08-06 Strike Price: $37.50 Volume: 606 Open Interest: 0 Three Ways Options Activity Is â€˜Unusual' Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
