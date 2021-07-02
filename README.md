@@ -34672,3 +34672,50 @@
 > File picture: Reuters/Mike SegarShare this article:San Francisco - Apple is likely to release a 10.86-inch OLED iPad in 2022 and two new 120Hz OLED iPads in 2023, the media reported.The report goes into some specifics. For example, the 2022 iPad will have a 10.86-inch screen, which is coincidentally the same size as the current iPad Air, citing The Elec, GSMArena reported.This might mean that the report is referring to the next-generation iPad Air. Apple would use Thin-Film Encapsulation (TFE) method to protect the OLED panel from moisture and oxygen since the tech is pretty sensitive in this regard.
 
 
+***
+![Google working on new health app; will let users store medical records on one platform](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/googlepic1200-sixteen_nine.jpg "Google working on new health app; will let users store medical records on one platform")
+
+
+[Google working on new health app; will let users store medical records on one platform](https://www.businesstoday.in/technology/news/story/google-working-on-new-health-app-will-let-users-store-medical-records-on-one-platform-300291-2021-07-02)
+
+
+> BusinessToday.In Jul 02, 2021, Updated Jul 02, 2021, 5:32 PM IST Google may soon launch a new health app for its users to help them store and manage all their medical records on one platform.  The 'Google Health' app will reportedly work much like Apple's Health Fit app, allowing one to accrue and share his/her medical records with doctors and caregivers.  Also Read: Google receives 27,762 complaints in 1st transparency report under new IT rules As per the information through a leaked screenshot of the Google app in the works, mentioned in a report by 91mobiles, the description of the application mentions, "See a unified view of your health, pulling together info from your doctor's visit, labs, and more.
+
+
+***
+[Thailand SEC files criminal complaint against Binance alleging it has operated a cryptocurrency exchange business via its website without a license (Yogita Khatri/The Block)](http://www.techmeme.com/210702/p9#a210702p9)
+
+
+> Yogita Khatri / The Block: Thailand SEC files criminal complaint against Binance alleging it has operated a cryptocurrency exchange business via its website without a license — ANTHONY KWAN/BLOOMBERG VIA GETTY IMAGES — Quick Take — Thailand's financial regulator has filed a criminal complaint against Binance over unregistered operations.
+
+
+***
+![Why I've started binge-watching King of the Hill instead of The Simpsons](https://cdn.mos.cms.futurecdn.net/n9zCXSErkbHNxnUzuW3wdC-1200-80.jpg "Why I've started binge-watching King of the Hill instead of The Simpsons")
+
+
+[Why I've started binge-watching King of the Hill instead of The Simpsons](https://www.techradar.com/news/why-ive-started-binge-watching-king-of-the-hill-instead-of-the-simpsons)
+
+
+> At its height, animated sitcom King of the Hill was one of Fox's most popular shows in the US. In the UK, where I'm watching it, there's almost no audience at all for the series, as far as I know. When Disney Plus launched its adult-oriented Star channel in the US, pretty much every major Fox series landed on the service – Family Guy, American Dad, Bob's Burgers and Futurama. King of the Hill is sadly absent, leaving some strangely pricey DVDs as my only legal route to watch it. I can see why it doesn't have much of a footprint here.
+
+
+***
+![Here are the 5G plans you can check out right now](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/5g-t-mobile-oneplus-nord-n200.jpg "Here are the 5G plans you can check out right now")
+
+
+[Here are the 5G plans you can check out right now](https://www.androidcentral.com/best-5g-plan)
+
+
+> Source: Samuel Contreras / Android Central Best 5G cell phone plan Android Central 2021 5G is moving quickly, with coverage finally reaching more people thanks to Sub-6 5G. As a result, every major carrier has some of the best 5G plans available for their customers. Each major carrier now offers 5G, but T-Mobile stands apart with 5G included with all of its plans, including old plans. T-Mobile has a commanding lead in coverage, but AT&T and Verizon are working fast to catch up. The best overall plan for 5G is T-Mobile's Magenta plan with unlimited data, Netflix, and great family savings.
+
+
+***
+![Instagram may launch 'Exclusive Stories' feature](https://imagevars.gulfnews.com/2021/03/10/Instagram_1781c7784e9_medium.jpg "Instagram may launch 'Exclusive Stories' feature")
+
+
+[Instagram may launch 'Exclusive Stories' feature](https://gulfnews.com/technology/instagram-may-launch-exclusive-stories-feature-1.1625227243248)
+
+
+> Exclusive Stories will also be marked with a purple heart icon which will work just like how Stories for 'Close Friends' currently get labelled with a green star icon, reported Mashable. Image Credit: Pexels Washington: Similar to Twitter's 'Super Follows', photo-sharing platform Instagram is working on a feature that would let creators offer exclusive stories to their followers. As per Mashable, Twitter recently rolled out a feature 'Super Follows' which allows users with a certain number of followers to provide offer exclusive content for a fee, similar to YouTube's membership feature.
+
+
