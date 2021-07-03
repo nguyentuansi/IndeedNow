@@ -35188,3 +35188,50 @@
 > South Korean mobile users on 5G networks reached nearly 16 million in May, new data has showed, as telecom operators seek to expand applications of the next generation networks. As of the end of May, 5G subscriptions stood at 15.84 million, accounting for 22 percent of the total 71.45 million mobile subscriptions in the country, according to the data from the Ministry of Science and ICT. South Korea has a population of around 51 million. Top mobile carrier SK Telecom had the most 5G subscribers at 7.
 
 
+***
+![Smart speaker market to grow 20% by 2025](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/homepod-mini-review-3.jpg "Smart speaker market to grow 20% by 2025")
+
+
+[Smart speaker market to grow 20% by 2025](https://www.imore.com/smart-speaker-market-grow-20-2025)
+
+
+> Source: Stephen Warwick / iMore A focus on affordability and speakers like the HomePod Mini could see the smart speaker market grow by 20% by 2025. According to Counterpoint Research: Smart speakers have gained prominence in recent years due to the rapid growth of the smart home market. A smart speaker is defined as a speaker that is Wi-Fi-enabled, offers interactive functions through voice commands, and acts as a control hub for a smart home. The first smart speaker was Echo, launched by Amazon in November 2014.
+
+
+***
+![Kerala to Set Up Drone Research Lab, Develop Anti-Drone System](https://i.gadgets360cdn.com/large/drone_system_image_pexels_jeshoots_com_1625305616760.jpg "Kerala to Set Up Drone Research Lab, Develop Anti-Drone System")
+
+
+[Kerala to Set Up Drone Research Lab, Develop Anti-Drone System](https://gadgets.ndtv.com/others/news/kerala-drone-research-lab-anti-system-security-threat-police-dgp-anil-kant-cyberdome-2478419)
+
+
+> A drone research laboratory would be set up in Kerala to mitigate any security threat, the Director-General of state police Anil Kant said on Friday."Of late drone is another emerging threat, which may pose very serious technology threat to the cities as well. We have taken a note of it and we are starting a Drone Research Lab and Drone Forensic Lab," said Anil Kant.He said that the Kerala Police is also planning to develop an anti-drone system."We are planning to develop an anti-drone system with our volunteers in Cyberdrome and other experts in the field," said the Kerala DGP interacting with the media during an online press meet.
+
+
+***
+![TikTok Back in Pakistan After Court Revokes Ban Over Objectionable Content](https://i.gadgets360cdn.com/large/tiktok_india_ban_reuters_1595401983342.jpg "TikTok Back in Pakistan After Court Revokes Ban Over Objectionable Content")
+
+
+[TikTok Back in Pakistan After Court Revokes Ban Over Objectionable Content](https://gadgets.ndtv.com/apps/news/tiktok-ban-pakistan-back-online-restored-revoke-objectionable-content-regulation-2478413)
+
+
+> TikTok was running again in Pakistan Saturday after a provincial court lifted suspension of the popular social media service but ordered it to address complaints that it hosted objectionable content. The Pakistan Telecoms Authority (PTA) blocked access Thursday for a third time after a ruling by a Sindh court hearing a private citizen's petition against the Chinese-owned app.Freedom of speech advocates have long criticised creeping government censorship and control of Pakistan's Internet and media.
+
+
+***
+![Ireland vs Japan live stream: how to watch rugby union free and from anywhere](https://cdn.mos.cms.futurecdn.net/TVS4hPzk4ykERreZ43rRce-1200-80.jpg "Ireland vs Japan live stream: how to watch rugby union free and from anywhere")
+
+
+[Ireland vs Japan live stream: how to watch rugby union free and from anywhere](https://www.techradar.com/news/ireland-vs-japan-live-stream-how-to-watch-rugby-union-2021-free-and-from-anywhere)
+
+
+> Andy Farrell's Boys in Green get their summer programme of Tests under way today with the first of two match-ups in Dublin. Read on for how to get a Ireland vs Japan live stream and watch this international rugby clash online.Today's match comes ahead of a second international at the Aviva next Saturday against the USA, and marks the first time that spectators will have been able to watch the team play in Dublin in 17 months, with a limited attendance of 3,000 supporters allowed in at the national stadium.
+
+
+***
+[Homemade conversational AI](https://www.reddit.com/r/Python/comments/ocuo7i/homemade_conversational_ai/)
+
+
+> I'm currently building an AI voice assistant to help me do stuff and talk to. It is written in Python and now I'm at the point where I need to add some functionality to it. What would you want in such an AI assistant? (It is going to control my PC and mainly the smart mirror in my room)
+
+
