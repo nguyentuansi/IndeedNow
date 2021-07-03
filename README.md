@@ -35426,3 +35426,50 @@
 > Dwayne "The Rock" Johnson said it was time to bust out the tequila. Standing by the seashore, the celebrity wrestler and film star put his arm around Jeff Bezos, Amazon.com Inc's founder. Bezos, in sunglasses, smiled for a picture and then shared it on the 'gram. The men had just announced a movie deal for Amazon Studios. Bezos, 57, is stepping down as Amazon's CEO on Monday. He'll remain executive chairman and the company's biggest shareholder, but his Instagram account shows he has plenty of other interests to occupy his time.
 
 
+***
+![Biden says uncertain who is behind latest ransomware attack](https://www.reuters.com/resizer/80YEEaF2M6BDK_d6qUPqJl8KxJI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ2UQ565FFNHTMDZCKHMMTBQ4Y.jpg "Biden says uncertain who is behind latest ransomware attack")
+
+
+[Biden says uncertain who is behind latest ransomware attack](https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/)
+
+
+> A hooded man holds a laptop computer as cyber code is projected on him in this illustration picture taken on May 13, 2017. REUTERS/Kacper Pempel/Illustration/File PhotoCENTRAL LAKE, Mich., July 3 (Reuters) - The U.S. government's "initial thinking" is that Russian hackers were not behind a sophisticated ransomware attack that hit hundreds of American businesses, President Joe Biden said Saturday.Biden said "we're not certain" who is behind the attack. "The initial thinking was it was not the Russian government but we're not sure yet," he said.
+
+
+***
+![European plan for gigantic new gravitational wave detector passes milestone](https://external-preview.redd.it/Gx3d7liyrsM2dpm4LnxOUGTAwZvLfNpwijd1hMjBRGk.jpg?auto=webp&s=ff8d836caba844a520ed12ba2d79bd47fe8cb342 "European plan for gigantic new gravitational wave detector passes milestone")
+
+
+[European plan for gigantic new gravitational wave detector passes milestone](https://www.reddit.com/r/technology/comments/od510a/european_plan_for_gigantic_new_gravitational_wave/)
+
+
+> Do we need to prove they exist, again?
+
+
+***
+[Abandoning GitHub](https://www.reddit.com/r/programming/comments/od4vaf/abandoning_github/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Best wireless earbuds 2021](https://cdn.mos.cms.futurecdn.net/o4AgJ8SVV4HBqBBqtAKWwC-1200-80.jpg "Best wireless earbuds 2021")
+
+
+[Best wireless earbuds 2021](https://www.laptopmag.com/best-picks/best-wireless-earbuds)
+
+
+> The best wireless earbuds afford you many of the same perks that an elite pair of wired or wireless headphones would, maybe even more. They free you of cables, letting you consume music on the go without being physically tethered to your portable devices: smartphones, tablets, and laptops. Even better, they pack lots of performance – great sound, call quality, and special features – into a compact design.As the category continues to grow in popularity, so does the demand for wireless earbuds, especially with modern smartphones slowly doing away with the headphone jack.
+
+
+***
+![atto](https://external-preview.redd.it/HoAWL7GjK-rRt5IDjUixQODjZTHosShnP2qsxKTNIdc.jpg?auto=webp&s=ac18b87318c331796e588a5a1c97eddc4050d714 "atto")
+
+
+[atto](https://www.reddit.com/r/programming/comments/od4ugf/atto_the_new_basic_computer_that_runs_in_your/)
+
+
+> Hi there! I'm the creator of this programming language. I've designed this language to resemble the style of the BASIC programming languages of the 80s, but with the modern functionality of today (syntax highlighting, rich editing, fast runtime, runs in browser etc.). It's a bit of a side project of mine, but ultimately I think it's a great way for beginners to learn programming, and for more advanced users to tinker with!You can get help by using the help command, and we have many tutorials to get you started with, in addition to a command reference.
+
+
