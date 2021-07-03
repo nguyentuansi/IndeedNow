@@ -35376,3 +35376,53 @@
 > 07/03/2021 - 12:00 | By: Adam Potts Home Tabletop Kings of War Armada Seas Aflame Interview New Armada Factions Arrive Kings of War Armada is a ship wargame by Mantic Games, set in their fantasy Kings of War setting in the world of Pannithor. There are several new releases planned for Wave 2 of Kings of War Armada, so we caught up with Matt Gilbert, studio manager and designer of Armada, and Chris Cowburn from the Armada Rules Committee and Lead Playtester for this upcoming wave.
 
 
+***
+![This Week in Apps: iOS 15 public beta arrives, Android App Bundles to replace APKs, app consumer spend hits new record – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753 "This Week in Apps: iOS 15 public beta arrives, Android App Bundles to replace APKs, app consumer spend hits new record – TechCrunch")
+
+
+[This Week in Apps: iOS 15 public beta arrives, Android App Bundles to replace APKs, app consumer spend hits new record – TechCrunch](https://techcrunch.com/2021/07/03/this-week-in-apps-ios-15-public-beta-arrives-android-app-bundles-to-replace-apks-app-consumer-spend-hits-new-record/)
+
+
+> Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consumer spend in 2020. Consumers last year also spent 3.5 trillion minutes using apps on Android devices alone. And in the U.S., app usage surged ahead of the time spent watching live TV. Currently, the average American watches 3.7 hours of live TV per day, but now spends four hours per day on their mobile devices.
+
+
+***
+![If Apple's Pro Display XDR is too Pro for you, there are alternatives](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/03/lg-27uk850-hero.jpg "If Apple's Pro Display XDR is too Pro for you, there are alternatives")
+
+
+[If Apple's Pro Display XDR is too Pro for you, there are alternatives](https://www.imore.com/best-alternatives-apples-thunderbolt-display)
+
+
+> Best Alternative to Apple's Pro Display iMore 2021 Apple's 32-inch 6K Pro Display XDR is one of the best monitors for Mac, but it's not for everyone — it's not even for most of us, and there are great alternatives to Apple's Pro Display XDR on the market. Depending on what you're looking for in an external monitor, you might not have to spend thousands of dollars to get a quality alternative to Apple's Pro Display XDR. Well, the best USB-C monitors for Mac are great for some people; having both Thunderbolt 3 and USB-C ports is what makes the best alternative to Apple's Pro DIsplay XDR.
+
+
+***
+![Rioters accused of erasing content from social media, phones](https://external-preview.redd.it/9Ew1qwp2GaysKFxm7xYHSc_MSe7enbaGE2SoyiYtPf0.jpg?auto=webp&s=f93942646b7722403dd3989436279cbf5bfa0fcd "Rioters accused of erasing content from social media, phones")
+
+
+[Rioters accused of erasing content from social media, phones](https://www.reddit.com/r/technology/comments/od2uss/rioters_accused_of_erasing_content_from_social/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Guilty Gear Strive stealth patches out mention of Uyghur, Tibet and Taiwan in China-related lore entry](https://external-preview.redd.it/bMo5zVvlQc-Arg_FiyayDLvbGu_g46Huit_HMcRrgfo.jpg?auto=webp&s=a29cf97ebe0376fd4d81b66736129f540432eddd "Guilty Gear Strive stealth patches out mention of Uyghur, Tibet and Taiwan in China-related lore entry")
+
+
+[Guilty Gear Strive stealth patches out mention of Uyghur, Tibet and Taiwan in China-related lore entry](https://www.reddit.com/r/technology/comments/od2ts2/guilty_gear_strive_stealth_patches_out_mention_of/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![What's next for Amazon's Bezos? Look at his Instagram](https://images.livemint.com/img/2021/07/03/600x338/0586411ade484ad8a5a5ff0cbf6efbcc-0586411ade484ad8a5a5ff0cbf6efbcc-1_1625333616947_1625333625748.jpg "What's next for Amazon's Bezos? Look at his Instagram")
+
+
+[What's next for Amazon's Bezos? Look at his Instagram](https://www.livemint.com/technology/tech-news/whats-next-for-amazon-s-bezos-look-at-his-instagram-11625333487365.html)
+
+
+> Dwayne "The Rock" Johnson said it was time to bust out the tequila. Standing by the seashore, the celebrity wrestler and film star put his arm around Jeff Bezos, Amazon.com Inc's founder. Bezos, in sunglasses, smiled for a picture and then shared it on the 'gram. The men had just announced a movie deal for Amazon Studios. Bezos, 57, is stepping down as Amazon's CEO on Monday. He'll remain executive chairman and the company's biggest shareholder, but his Instagram account shows he has plenty of other interests to occupy his time.
+
+
