@@ -35235,3 +35235,50 @@
 > I'm currently building an AI voice assistant to help me do stuff and talk to. It is written in Python and now I'm at the point where I need to add some functionality to it. What would you want in such an AI assistant? (It is going to control my PC and mainly the smart mirror in my room)
 
 
+***
+[Justices Gorsuch and Thomas call for review of a 1964 SCOTUS ruling that made it harder for public figures to claim libel, citing disinformation on social media (Ariane de Vogue/CNN)](http://www.techmeme.com/210703/p4#a210703p4)
+
+
+> Ariane de Vogue / CNN: Justices Gorsuch and Thomas call for review of a 1964 SCOTUS ruling that made it harder for public figures to claim libel, citing disinformation on social media — (CNN)Justices Clarence Thomas and Neil Gorsuch on Friday said the Supreme Court should revisit the breadth of the landmark …
+
+
+***
+![Samsung Galaxy Note 20 Ultra vs Samsung Galaxy Z Fold 2: to fold or not to fold?](https://cdn.mos.cms.futurecdn.net/6GUeyLA5rG4jyZRLj56JfJ-1200-80.jpg "Samsung Galaxy Note 20 Ultra vs Samsung Galaxy Z Fold 2: to fold or not to fold?")
+
+
+[Samsung Galaxy Note 20 Ultra vs Samsung Galaxy Z Fold 2: to fold or not to fold?](https://www.techradar.com/news/samsung-galaxy-note-20-ultra-vs-samsung-galaxy-z-fold-2-to-fold-or-not-to-fold)
+
+
+> Samsung releases so many phones these days that it can be hard to get a complete view of its range.For example, while the Samsung Galaxy S21 Ultra is widely considered to be the brand's current top dog, both the Samsung Galaxy Note 20 Ultra and the Samsung Galaxy Z Fold 2 can also be considered current.These are two classy, pricey 2020 flagship phones with unique features that set them apart from the crowd.So which of these two aging heavyweights is the best buy in 2021? Let's see if we can find out.
+
+
+***
+![The best SSDs for 2021](https://icdn.digitaltrends.com/image/digitaltrends/shutterstock_130994585.jpg "The best SSDs for 2021")
+
+
+[The best SSDs for 2021](https://www.digitaltrends.com/computing/best-ssds/)
+
+
+> Whether you want to upgrade your internal drive or need an external storage solution, a solid-state drive (SSD) will deliver fast and reliable read and write speeds. These storage devices use flash memory to store your data, making them faster than traditional mechanical hard drives. Not all drives are built equally, however. For the fastest transfers, you'll need one of the best SSDs. For most people, the Samsung 980 Pro is a great option. It's reasonably priced, compatible with most motherboards, and blazing fast.
+
+
+***
+![Why Windows 11 going with Amazon for its Android apps, and not Google, is a masterstroke](https://cdn.mos.cms.futurecdn.net/RkoEPujgh3iCyjCNS7Fm3X-1200-80.png "Why Windows 11 going with Amazon for its Android apps, and not Google, is a masterstroke")
+
+
+[Why Windows 11 going with Amazon for its Android apps, and not Google, is a masterstroke](https://www.techradar.com/news/why-windows-11-going-with-amazon-for-its-android-apps-and-not-google-is-a-masterstroke)
+
+
+> (Image credit: TechRadar) One of the biggest surprises of the Windows 11 launch event was the announcement that Android apps are coming to the new Microsoft Store... but through Amazon.While the decision was praised, it's also been met with some trepidation and puzzlement, leaving people wondering why there hasn't just been an arrangement made with Google itself.The redesigned Microsoft Store on Windows 11 is very welcome, but users will have far less Android apps to choose from, compared to the amount that's available on Google's own Play Store.
+
+
+***
+![82-year-old female pilot to accompany Jeff Bezos to space](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/screenshot_2021-07-03_at_4.56._1200x768-original.png "82-year-old female pilot to accompany Jeff Bezos to space")
+
+
+[82-year-old female pilot to accompany Jeff Bezos to space](https://www.indiatoday.in/technology/news/story/82-year-old-female-pilot-to-accompany-jeff-bezos-to-space-1823469-2021-07-03)
+
+
+> Ankita Chakravarti New Delhi, Jul 03, 2021, Updated Jul 03, 2021, 5:17 PM IST Story highlights Amazon CEO Jeff Bezos and his brother will be accompanied by an 82-year-old female pilot to space. Mary Wallace Funk, the 82-year-old female pilot, will be the oldest person to go to space. Bezos will fly to space on the first space flight by his rocket company Blue Origin on July 20 Amazon CEO Jeff Bezos and his brother will be accompanied by an 82-year-old female pilot to space. Mary Wallace Funk, the 82-year-old female pilot, will be the oldest person to go to space.
+
+
