@@ -35148,3 +35148,43 @@
 > Dot Esports: Sources: US DOJ has opened an antitrust inquiry into Overwatch League's soft salary cap for teams, which in 2020 equaled $1.6M, as players are not unionized — The U.S. Department of Justice antitrust division is probing the Overwatch League over its soft salary cap policy that discourages teams …
 
 
+***
+![Insect-sized robot navigates mazes with the agility of a cheetah](https://external-preview.redd.it/vv7hyfZdmy_fHqby4caI9aM6c33YO8gQ2AM_Eq4zqD4.jpg?auto=webp&s=09bad21a35bd9e4bc095efc90c5907154c0251f7 "Insect-sized robot navigates mazes with the agility of a cheetah")
+
+
+[Insect-sized robot navigates mazes with the agility of a cheetah](https://www.reddit.com/r/technology/comments/octj2e/insectsized_robot_navigates_mazes_with_the/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![LG launches Tone Free DFP8W TWS earbuds with Active Noise Cancellation](https://images.indianexpress.com/2021/07/9d54f0e6-c348-4f06-97cd-c4ab0f66ac8d.jpg "LG launches Tone Free DFP8W TWS earbuds with Active Noise Cancellation")
+
+
+[LG launches Tone Free DFP8W TWS earbuds with Active Noise Cancellation](https://indianexpress.com/article/technology/gadgets/lg-launches-tone-free-dfp8w-tws-earbuds-with-active-noise-cancellation-7387208/)
+
+
+> LG has launched its latest TWS earphones, called the Tone Free DFP8W. The wireless earbuds come with support for Active Noise Cancellation (ANC). The company is promising that users will get up to 24 hours of music playback. The device ships with a UVnano charging case, which LG claims can clean the silicone tips and speaker mesh using UV light. The latest pair of earbuds from LG pack 8mm dynamic drivers that have been developed with Meridian Audio. Additionally, the device features three microphones.
+
+
+***
+![Reliance Jio launches emergency data loan facility, here is how to use it](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/screenshot_2021-07-03_at_12.49_1200x768-original.png "Reliance Jio launches emergency data loan facility, here is how to use it")
+
+
+[Reliance Jio launches emergency data loan facility, here is how to use it](https://www.indiatoday.in/technology/news/story/reliance-jio-launches-emergency-data-loan-facility-here-is-how-to-use-it-1823393-2021-07-03)
+
+
+> Ankita Chakravarti New Delhi, Jul 03, 2021, Updated Jul 03, 2021, 12:56 PM IST Story highlights Reliance Jio has announced a new emergency data loan facility for users. Jio subscribers will now be able to borrow data as loan from the company. Jio subscribers will be allowed to borrow up to 5 emergency data loan packs of 1GB. Reliance Jio has announced a new emergency data loan facility for users. Jio users can now get instant data on loan when if they run out of it. The amount can be paid later. This is particularly helpful for users who are unable to recharge immediately.
+
+
+***
+![S Korea's 5G user base reaches 16 mn in May as telcos expand application](https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/05/full/1620154385-9923.jpg "S Korea's 5G user base reaches 16 mn in May as telcos expand application")
+
+
+[S Korea's 5G user base reaches 16 mn in May as telcos expand application](https://www.business-standard.com/article/technology/s-korea-s-5g-user-base-reaches-16-mn-in-may-as-telcos-expand-application-121070300250_1.html)
+
+
+> South Korean mobile users on 5G networks reached nearly 16 million in May, new data has showed, as telecom operators seek to expand applications of the next generation networks. As of the end of May, 5G subscriptions stood at 15.84 million, accounting for 22 percent of the total 71.45 million mobile subscriptions in the country, according to the data from the Ministry of Science and ICT. South Korea has a population of around 51 million. Top mobile carrier SK Telecom had the most 5G subscribers at 7.
+
+
