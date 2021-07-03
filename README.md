@@ -35282,3 +35282,50 @@
 > Ankita Chakravarti New Delhi, Jul 03, 2021, Updated Jul 03, 2021, 5:17 PM IST Story highlights Amazon CEO Jeff Bezos and his brother will be accompanied by an 82-year-old female pilot to space. Mary Wallace Funk, the 82-year-old female pilot, will be the oldest person to go to space. Bezos will fly to space on the first space flight by his rocket company Blue Origin on July 20 Amazon CEO Jeff Bezos and his brother will be accompanied by an 82-year-old female pilot to space. Mary Wallace Funk, the 82-year-old female pilot, will be the oldest person to go to space.
 
 
+***
+![MIT, Harvard University develop face mask technology to detect COVID-19 in wearer's breath](https://images.financialexpress.com/2021/07/MIT-Sensor-Mask-01_0.jpg "MIT, Harvard University develop face mask technology to detect COVID-19 in wearer's breath")
+
+
+[MIT, Harvard University develop face mask technology to detect COVID-19 in wearer's breath](https://www.financialexpress.com/industry/technology/mit-harvard-university-develop-face-mask-technology-to-detect-covid-19-in-wearers-breath/2283453/)
+
+
+> By: Bulbul Dhawan | July 03, 2021 7:30 PMIn order to make these masks available in large numbers to people during the pandemic, the team is now looking to partner with manufacturers. (Image: Felice Frankel and MIT News Office)COVID-19 New Face Mask Technology: The coronavirus pandemic has wreaked havoc all over the world, and even though vaccination drives have largely started in most of the countries, the fear of another wave fueled by a different mutation still looms, especially in India where warnings of a third wave are gaining pace.
+
+
+***
+![Reliance Jio announces Emergency Data Loan facility: Everything you need to know](https://images.financialexpress.com/2021/07/jio.jpg "Reliance Jio announces Emergency Data Loan facility: Everything you need to know")
+
+
+[Reliance Jio announces Emergency Data Loan facility: Everything you need to know](https://www.financialexpress.com/industry/technology/reliance-jio-announces-emergency-data-loan-facility-everything-you-need-to-know/2283446/)
+
+
+> By: FE Online | July 03, 2021 7:18 PMThe facility can be accessed through the MyJio app on the phone.Reliance Jio Emergency Data Loan: Reliance Jio is changing the rules of the game, as it has now brought in a facility that would let users avail data on loan and pay for it later. The scheme is being called 'Emergency Data Loan' by Jio, and it aims to provide prepaid users the facility to avail up to five data loan packs of 1GB each, translating into 5GB of data loan for a subscriber. For this added data, users would be allowed to pay at a later stage, thereby allowing users who have exhausted the allocated data under their pack and are unable to purchase add-on data packs to still access the internet.
+
+
+***
+[HealthVerity, a data management provider helping clinicians and pharmaceutical and insurance companies manage health info of patients, raises $100M Series D (Andrea Park/FierceBiotech)](http://www.techmeme.com/210703/p5#a210703p5)
+
+
+> Andrea Park / FierceBiotech: HealthVerity, a data management provider helping clinicians and pharmaceutical and insurance companies manage health info of patients, raises $100M Series D — A massive database of real-world evidence—encompassing hundreds of millions of electronic records, lab test results …
+
+
+***
+![Here's An Animated Simulation Of The Champlain Towers South Collapse That Helpfully Illustrates What We Know So Far](https://cdn.digg.com/wp-content/uploads/2021/07/03133024/Screen-Shot-2021-07-03-at-9.27.46-AM.jpg "Here's An Animated Simulation Of The Champlain Towers South Collapse That Helpfully Illustrates What We Know So Far")
+
+
+[Here's An Animated Simulation Of The Champlain Towers South Collapse That Helpfully Illustrates What We Know So Far](https://digg.com/video/heres-an-animated-simulation-of-the-champlain-towers-south-collapse)
+
+
+> This week, a friend of mine tweeted, "Why do so many celebrity women date men who look like a pub toilet wall?" He was responding to a paparazzi photo of Kourtney Kardashian and Blink-182 drummer Travis Barker, Kardashian grasping Barker's tattooed hand, attached to Barker's very tattooed arm, neck, chest, and face. 'DID HE PICK YOU UP LAST NIGHT?' Master pickup artist Vince Kelvin will train you how to become a master of making out for a fee. Andrew Callaghan took a peek behind the scenes at a pick up artist bootcamp.
+
+
+***
+![Perseverance rover is driving itself around Mars using auto-navigation system](https://icdn.digitaltrends.com/image/digitaltrends/mars-perseverance-rover.jpg "Perseverance rover is driving itself around Mars using auto-navigation system")
+
+
+[Perseverance rover is driving itself around Mars using auto-navigation system](https://www.digitaltrends.com/news/perseverance-rover-auto-navigation/)
+
+
+> As the Perseverance rover explores the Jezero crater on Mars, engineers at NASA are trying out a new capability that lets the rover navigate itself around the rocky terrain. Currently, rover drivers like Vandi Verma at NASA's Jet Propulsion Laboratory use 3D glasses to visualize and plan out driving routes. 'Jezero is incredible,' Verma said. 'It's a rover driver's paradise. When you put on the 3D glasses, you see so much more undulation in the terrain. Some days I just stare at the images.' Vandi Verma, an engineer who now works with NASA's Perseverance Mars rover, is seen here working as a driver for the Curiosity rover.
+
+
