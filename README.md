@@ -35010,3 +35010,44 @@
 > Choi, the mother-in-law of former Prosecutor General Yoon Seok-yeol, was sentenced to three years in prison and was immediately arrested in court. The court of first instance found Choi guilty of all charges of unfairly receiving billions of won in medical care benefits by establishing a nursing hospital even though she was not a medical professional. Choi, the mother-in-law of former Prosecutor General Yoon Seok-yeol, was sentenced to three years in prison and immediately arrested in court. The court of first instance found Choi guilty of all charges of unfairly receiving billions of won in medical care benefits by establishing a nursing hospital even though she was not a medical professional.
 
 
+***
+![A Large Ransomware Attack Has Ensnared Hundreds of Companies — A supply chain attack on Kaseya, which offers remote services to IT providers, may have infected companies throughout the world.](https://external-preview.redd.it/caV47wPewwkM1vkI8JAtTCcEhNI0jlgfTOxx878OFQo.jpg?auto=webp&s=5c4b94a6400ce539e16297b92bcf213687f2853c "A Large Ransomware Attack Has Ensnared Hundreds of Companies — A supply chain attack on Kaseya, which offers remote services to IT providers, may have infected companies throughout the world.")
+
+
+[A Large Ransomware Attack Has Ensnared Hundreds of Companies — A supply chain attack on Kaseya, which offers remote services to IT providers, may have infected companies throughout the world.](https://www.reddit.com/r/technology/comments/oco4cx/a_large_ransomware_attack_has_ensnared_hundreds/)
+
+
+> View Entire Discussion (2 Comments)
+
+
+***
+[Physna, a 3D object database and search engine, raises $56M Series B led by Tiger Global with GV and Sequoia participating, bringing its total raised to $86M (Rashi Shrivastava/Forbes)](http://www.techmeme.com/210702/p28#a210702p28)
+
+
+> Rashi Shrivastava / Forbes: Physna, a 3D object database and search engine, raises $56M Series B led by Tiger Global with GV and Sequoia participating, bringing its total raised to $86M — Physna, which aims to bridge the gap between the physical and the digital world by codifying 3D models, announced Thursday …
+
+
+***
+[I'm coding a crypto currency in python and](https://www.reddit.com/r/Python/comments/ocnvg9/im_coding_a_crypto_currency_in_python_and/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Big Tech Uses Small Businesses to Push D.C. Agenda](https://media.breitbart.com/media/2021/02/telescreen-zuckerberg.png "Big Tech Uses Small Businesses to Push D.C. Agenda")
+
+
+[Big Tech Uses Small Businesses to Push D.C. Agenda](https://www.breitbart.com/tech/2021/07/02/report-big-tech-uses-small-businesses-to-push-d-c-agenda/)
+
+
+> With their brands in tatters and public trust declining, the Big Tech Masters of the Universe are using small businesses to push their agenda in Washington DC, according to a new report from a left-wing think tank. The tech giants use these small companies to write letters to lawmakers and regulators warning them that regulating Big Tech will hurt small businesses. Via the Tech Transparency Project: For a self-described family-style company in Grandview, Missouri, that fixes water heaters, sewer lines, and frozen pipes, Morgan Miller Plumbing has a lot of opinions about the country's biggest tech firms—and why they shouldn't face new rules and regulations.
+
+
+***
+[Ransomware hits hundreds of U.S. companies, security firm says](https://www.reddit.com/r/technology/comments/ocnj33/ransomware_hits_hundreds_of_us_companies_security/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
