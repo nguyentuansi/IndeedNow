@@ -35101,3 +35101,50 @@
 > Facebook "actioned" over 30 million content pieces across 10 violation categories during May 15-June 15 in the country, the social media giant said in its maiden monthly compliance report as mandated by the IT rules. Instagram took action against about two million pieces across nine categories during the same period. Under the new IT rules, large digital platforms (with over 5 million users) will have to publish periodic compliance reports every month, mentioning the details of complaints received and action taken thereon.
 
 
+***
+![I made Blackjack 21 in Python!](https://external-preview.redd.it/UdQjFmYP3MnkHadpBjxI585gx3XYt56dXpzP6Z9_7Ww.jpg?auto=webp&s=fc258843bf92cb14106f214e8419cabf723bcec4 "I made Blackjack 21 in Python!")
+
+
+[I made Blackjack 21 in Python!](https://www.reddit.com/r/Python/comments/ocs9mv/i_made_blackjack_21_in_python/)
+
+
+> Description 🃏This is a game where you play against the dealer and try to get the higher values of cards without exceeding the number 21. If your cards ever equal a total of 21, you automatically get blackjack (win) unless both you and the dealer get 21 then you push (tie). The user also has a cash balance that is wagered based on winning or losing, the user must keep their cash balance positive and not negative to keep playing. All the basic rules that are applied to the traditional game of Blackjack 21 are also applied to this card game project along with many great features and additions.
+
+
+***
+![Coffee is a must-have wherever I do, so I built a discord bot to find the top 5 coffees according to yelp near me! It was a fun challenge and honestly has come in handy.](https://external-preview.redd.it/aVstuGPtN9O_knSmYJxn2GaF2g42adUPcR8QTSVLzuw.jpg?auto=webp&s=b2d101c0563bdb6cc441b46d2f0a6a7c403eabe4 "Coffee is a must-have wherever I do, so I built a discord bot to find the top 5 coffees according to yelp near me! It was a fun challenge and honestly has come in handy.")
+
+
+[Coffee is a must-have wherever I do, so I built a discord bot to find the top 5 coffees according to yelp near me! It was a fun challenge and honestly has come in handy.](https://www.reddit.com/r/Python/comments/ocs1lg/coffee_is_a_musthave_wherever_i_do_so_i_built_a/)
+
+
+> Title says it all, the code is here on GitHub and the output looks like this:How to Use:Call add a city name + neighborhood with underscores instead of spacesThen: add a city name + neighboorhood with underscores instead of spacesit will scrape the yelp top 5 for that area and respond with a formatted table!Happy Coffee!
+
+
+***
+![I Am Trying to Make a Os In Python](https://external-preview.redd.it/akFWBx5253aw4TDJFKYf_q94cAngLzIUDsieWOOiB58.jpg?auto=webp&s=d054bbe640283b8e8d07d184866120a406e91cda "I Am Trying to Make a Os In Python")
+
+
+[I Am Trying to Make a Os In Python](https://www.reddit.com/r/Python/comments/ocrzfp/i_am_trying_to_make_a_os_in_python/)
+
+
+> Every one uses os at least I think so.So I thought making a os in python its like a community project like LinuxTHIS IS THE PROJECT GITHUB LINK:)https://github.com/Abhijeet-prabhakar/Python-Os
+
+
+***
+![What a tech breakup could mean for you](https://images.livemint.com/img/2021/07/03/600x338/105ac36c-d9a8-11eb-9609-aec4e93302e2_1625290565187_1625290593108.jpg "What a tech breakup could mean for you")
+
+
+[What a tech breakup could mean for you](https://www.livemint.com/technology/tech-news/what-a-tech-breakup-could-mean-for-you-11625290172135.html)
+
+
+> Will my iPhone really become less secure, as Apple has claimed? Would the selection we've grown accustomed to on Amazon shrink, as the company has intimated? Would Facebook being forced to sell off Instagram and WhatsApp break those services, as Facebook would have us believe? And would the quality of Google search be degraded by its inability to feature its own services, such as Google Maps and YouTube videos, in results? Or, as the companies' critics would have it, will life be better for users, competitors and society if all those things come to pass? Those questions gained new significance last month when the House Judiciary Committee, with bipartisan support, approved a half dozen bills that signaled fresh willingness to break up the Faaam, as I like to call the tech-titan quintet.
+
+
+***
+[Sources: US DOJ has opened an antitrust inquiry into Overwatch League's soft salary cap for teams, which in 2020 equaled $1.6M, as players are not unionized (Dot Esports)](http://www.techmeme.com/210703/p1#a210703p1)
+
+
+> Dot Esports: Sources: US DOJ has opened an antitrust inquiry into Overwatch League's soft salary cap for teams, which in 2020 equaled $1.6M, as players are not unionized — The U.S. Department of Justice antitrust division is probing the Overwatch League over its soft salary cap policy that discourages teams …
+
+
