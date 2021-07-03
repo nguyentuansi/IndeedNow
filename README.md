@@ -35051,3 +35051,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![A Discord bot to preview code found in Github links](https://external-preview.redd.it/oCT9gPVYnwXV1_fXli8qM_GBnwaXkcvbz6DthvCczHc.jpg?auto=webp&s=a8b1c621a1230e90844dad43ece7d61824801d33 "A Discord bot to preview code found in Github links")
+
+
+[A Discord bot to preview code found in Github links](https://www.reddit.com/r/Python/comments/ocq8zc/a_discord_bot_to_preview_code_found_in_github/)
+
+
+> It's a little tool I developed as my first Discord bot. I'm quite proud of it, so, hopefully, it's useful to some!Here's the Github repo along with the setup: https://github.com/SeanJxie/GithubCodeBot
+
+
+***
+![Name the movie this scene is from...?](https://images.macrumors.com/social/?t=2303083&v=6 "Name the movie this scene is from...?")
+
+
+[Name the movie this scene is from...?](https://forums.macrumors.com/threads/name-the-movie-this-scene-is-from.2303083/)
+
+
+> I need help remembering the name of a movie in which there is a scene where a mother, her child, and a few other people are hiding out from danger (from soldiers, a monster, I can't remember). The baby starts crying, the other people tell the mother to do something about the noise from the baby. so the mother, after some hesitation, smothers the baby's mouth knowing she could be suffocating it. Following some tense moments where the group of people are nearly discovered, the danger finally passes and we see the mother quietly weeping as she realizes she did indeed suffocate the baby in order to save her and the group of people.
+
+
+***
+![Microsoft Dunks Servers Into Boiling Fluid to Cool Them Off](https://external-preview.redd.it/DvZVkk6mK2uMHq1LrtAthiwaJJEA0k_Gnv7iLRgMCwQ.jpg?auto=webp&s=88a55b99101a5a305d3dd8a8632dc1f0f5634321 "Microsoft Dunks Servers Into Boiling Fluid to Cool Them Off")
+
+
+[Microsoft Dunks Servers Into Boiling Fluid to Cool Them Off](https://www.reddit.com/r/technology/comments/ocpplu/microsoft_dunks_servers_into_boiling_fluid_to/)
+
+
+> I'm curious if that novec stuff is what 3M advertised in the 80s, as a liquid that "doesn't do anything to anything."(They had a hamster breathing the stuff without obvious effects).They were looking for suggestions... what to do with it.
+
+
+***
+![Built 2.0 version of deep-learning powered search framework, it's open-source](https://external-preview.redd.it/-Gqkn0oynN47DnWAhjFOgcLQ_DNaBxZ1HvqMCnYl6Qs.jpg?auto=webp&s=cd2e63dadee37edb122e0516c362b8ce99643a25 "Built 2.0 version of deep-learning powered search framework, it's open-source")
+
+
+[Built 2.0 version of deep-learning powered search framework, it's open-source](https://www.reddit.com/r/Python/comments/ocpk5d/built_20_version_of_deeplearning_powered_search/)
+
+
+> Thanks to 157 contributors and lots of feedback here on r/python, I was able to transform my open-source project Jina from 1.0 to 2.0 within 3 months. We focused on helping developers utilize the power of Neural Networks to implement multimedia search in their apps easily(it's called Neural Search. I wrote a post here explaining what is Neural Search).The primary changes we madeMade python APIs more intuitive to useCut down a lots of abstractions to make it easy to use for beginnersImproved performance(3.
+
+
+***
+![Facebook, Instagram pull down millions of posts during May 15-June 15, shows compliance report](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/fb_1200-sixteen_nine.jpg "Facebook, Instagram pull down millions of posts during May 15-June 15, shows compliance report")
+
+
+[Facebook, Instagram pull down millions of posts during May 15-June 15, shows compliance report](https://www.businesstoday.in/technology/news/story/facebook-instagram-pull-down-millions-of-posts-during-may-15-june-15-shows-compliance-report-300334-2021-07-03)
+
+
+> Facebook "actioned" over 30 million content pieces across 10 violation categories during May 15-June 15 in the country, the social media giant said in its maiden monthly compliance report as mandated by the IT rules. Instagram took action against about two million pieces across nine categories during the same period. Under the new IT rules, large digital platforms (with over 5 million users) will have to publish periodic compliance reports every month, mentioning the details of complaints received and action taken thereon.
+
+
