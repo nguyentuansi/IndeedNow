@@ -35329,3 +35329,50 @@
 > As the Perseverance rover explores the Jezero crater on Mars, engineers at NASA are trying out a new capability that lets the rover navigate itself around the rocky terrain. Currently, rover drivers like Vandi Verma at NASA's Jet Propulsion Laboratory use 3D glasses to visualize and plan out driving routes. 'Jezero is incredible,' Verma said. 'It's a rover driver's paradise. When you put on the 3D glasses, you see so much more undulation in the terrain. Some days I just stare at the images.' Vandi Verma, an engineer who now works with NASA's Perseverance Mars rover, is seen here working as a driver for the Curiosity rover.
 
 
+***
+[Russian hackers target IT supply chain with ransomware](https://www.ft.com/content/a8e7c9a2-5819-424f-b087-c6f2e8f0c7a1)
+
+
+> Gain a global perspective on the US and go beyond with curated news and analysis from 600 journalists in 50+ countries covering politics, business, innovation, trends and more. Choose your subscription Learn more and compare subscriptions Full Terms and Conditions apply to all Subscriptions.
+
+
+***
+![MIT Media Lab's new knitted keyboard showcases the power of smart textiles](https://icdn.digitaltrends.com/image/digitaltrends/mit-knitted-keybord-ii-2.jpg "MIT Media Lab's new knitted keyboard showcases the power of smart textiles")
+
+
+[MIT Media Lab's new knitted keyboard showcases the power of smart textiles](https://www.digitaltrends.com/features/mit-knitted-keyboard/)
+
+
+> Ever had to make the difficult choice between a chunky knit scarf and a new keyboard as part of your monthly budget? Boy, does the Massachusetts Institute of Technology's (MIT) world-famous Media Lab have the piece of convergence culture for you! Seizing on the observation that most of the world's keyboards up until this point have been somewhat rigid, the KnittedKeyboard II seeks to spark a paradigm shift in expectations by way of an interactive, textile-based musical device with the familiar layout of piano keys.
+
+
+***
+![This Is How to Remove Your Login Password From Windows 10](https://icdn.digitaltrends.com/image/digitaltrends/pdg-password-feature.jpg "This Is How to Remove Your Login Password From Windows 10")
+
+
+[This Is How to Remove Your Login Password From Windows 10](https://www.digitaltrends.com/computing/how-to-remove-password-from-windows-10/)
+
+
+> Passwords are a great way to secure your personal information or any other documents and files you'd rather keep away from prying eyes. But if you find that entering in a password every time you want to use your Windows 10 computer is tiresome, or you're having trouble remembering your computer's password and would just rather be automatically logged in, you do have the option to remove your login password from Windows 10. A word of caution, however: If you have personal information (such as sensitive information regarding your finances) stored on your computer, we strongly recommend that you do not remove your computer's password.
+
+
+***
+![How to remove your login password from Windows 10](https://icdn.digitaltrends.com/image/digitaltrends/pdg-password-feature.jpg "How to remove your login password from Windows 10")
+
+
+[How to remove your login password from Windows 10](https://www.digitaltrends.com/computing/how-to-remove-password-from-windows-10/)
+
+
+> Passwords are a great way to secure your personal information or any other documents and files you'd rather keep away from prying eyes. But if you find that entering in a password every time you want to use your Windows 10 computer is tiresome, or you're having trouble remembering your computer's password and would just rather be automatically logged in, you do have the option to remove your login password from Windows 10. A word of caution, however: If you have personal information (such as sensitive information regarding your finances) stored on your computer, we strongly recommend that you do not remove your computer's password.
+
+
+***
+![Kings of War Armada Seas Aflame Interview](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Kings%20of%20War%20Armada.jpg?itok=xaNI8_P8 "Kings of War Armada Seas Aflame Interview")
+
+
+[Kings of War Armada Seas Aflame Interview](https://techraptor.net/tabletop/interview/kings-of-war-armada-seas-aflame-interview)
+
+
+> 07/03/2021 - 12:00 | By: Adam Potts Home Tabletop Kings of War Armada Seas Aflame Interview New Armada Factions Arrive Kings of War Armada is a ship wargame by Mantic Games, set in their fantasy Kings of War setting in the world of Pannithor. There are several new releases planned for Wave 2 of Kings of War Armada, so we caught up with Matt Gilbert, studio manager and designer of Armada, and Chris Cowburn from the Armada Rules Committee and Lead Playtester for this upcoming wave.
+
+
