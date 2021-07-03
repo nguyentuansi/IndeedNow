@@ -34963,3 +34963,50 @@
 > Qualcomm (Image credit: Qualcomm) The M1 chip that powers the updated MacBook Air and 13-inch MacBook Pro caused shockwaves in the laptop industry. Apple ditched Intel and boasted that its new custom ARM-based processors was a power-efficient, performance beast — and that turned out to be true.Qualcomm won't let Apple steal all the shine, though. The chipmaker is determined to launch a new processor that will rival the M1 chip — without the ARM architecture (via Reuters).M1 MacBook Pro reviewBest laptops of 2021Qualcomm announces plans to launch M1 chip rivalQualcomm is certain that it can knock Apple off its pedestal.
 
 
+***
+![CDC reports three unusual deadly bacterial infections with mystery source](https://cdn.slashgear.com/wp-content/uploads/2021/07/CDC_worker_main_uns.jpg "CDC reports three unusual deadly bacterial infections with mystery source")
+
+
+[CDC reports three unusual deadly bacterial infections with mystery source](https://www.slashgear.com/cdc-reports-three-unusual-deadly-bacterial-infections-with-mystery-source-02680927/)
+
+
+> The US Centers for Disease Control and Prevention has reported three cases of a severe and often fatal bacterial infection called melioidosis. The source of these infections is unknown at this time, with the CDC saying these cases are 'unusual' because none of the three victims had traveled outside of the US before presenting symptoms. Melioidosis infections are caused by a bacterial pathogen called Burkholderia pseudomallei, which is classified as a Tier 1 agent, the same category that's home to other serious pathogens like the Ebola virus and the neurotoxins that cause botulism.
+
+
+***
+![Latest ransomware attack appears to hit hundreds of American businesses](https://i.guim.co.uk/img/media/1acbd3c67df9477cfa6401db913a16841f80c77a/0_0_5191_3115/master/5191.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ee373203a8f1c2a5fb38e78044a4e00 "Latest ransomware attack appears to hit hundreds of American businesses")
+
+
+[Latest ransomware attack appears to hit hundreds of American businesses](http://www.theguardian.com/technology/2021/jul/02/latest-ransomware-attack-american-businesses-kaseya)
+
+
+> Hundreds of American businesses have been hit by a ransomware attack ahead of the Fourth of July holiday weekend, according to the cybersecurity company Huntress Labs.Huntress Labs said on Friday that 200 American businesses were hit after an incident at the Miami-based IT firm Kaseya, potentially marking the latest in a line of hacks destabilizing US companies.'This is a colossal and devastating supply chain attack,' John Hammond, a senior security researcher with Huntress, said in an email, referring to an increasingly high profile hacker technique of hijacking one piece of software to compromise hundreds or thousands of users at a time.
+
+
+***
+[Microsoft will replace its Blue Screen of Death with a black screen in Windows 11, marking the first big change to its BSOD since it added QR codes in 2016 (Tom Warren/The Verge)](http://www.techmeme.com/210702/p27#a210702p27)
+
+
+> Tom Warren / The Verge: Microsoft will replace its Blue Screen of Death with a black screen in Windows 11, marking the first big change to its BSOD since it added QR codes in 2016 — The Black Screen of Death is here — Microsoft is changing its famous Blue Screen of Death (BSOD) to black in Windows 11.
+
+
+***
+![Balance proof · stock price manipulation... Investigation in trial](https://img.sbs.co.kr/newimg/news/20210702/201567335_1280.jpg "Balance proof · stock price manipulation... Investigation in trial")
+
+
+[Balance proof · stock price manipulation... Investigation in trial](https://www.tellerreport.com/tech/2021-07-02-balance-proof-·-stock-price-manipulation----investigation-in-trial.SkWVOdXp2_.html)
+
+
+> Choi, the mother-in-law of former President Yoon, is currently undergoing another trial at the same court, and there are cases that the police are investigating. In addition, the prosecution's investigation into his wife, Kim Gun-hee, is also underway, and reporter Bae Jun-woo continued to organize the investigation surrounding Yoon's former president. Choi, the mother-in-law of former President Yoon, is currently undergoing another trial at the same court, and there are cases that the police are investigating.
+
+
+***
+![Yoon Seok-yeol's mother-in-law jailed for 3 years... 6 years ago not charged](https://static.sbsdlab.co.kr/image/thumb_default.png "Yoon Seok-yeol's mother-in-law jailed for 3 years... 6 years ago not charged")
+
+
+[Yoon Seok-yeol's mother-in-law jailed for 3 years... 6 years ago not charged](https://www.tellerreport.com/tech/2021-07-02-yoon-seok-yeol-s-mother-in-law-jailed-for-3-years----6-years-ago-not-charged.S170D7p3d.html)
+
+
+> Choi, the mother-in-law of former Prosecutor General Yoon Seok-yeol, was sentenced to three years in prison and was immediately arrested in court. The court of first instance found Choi guilty of all charges of unfairly receiving billions of won in medical care benefits by establishing a nursing hospital even though she was not a medical professional. Choi, the mother-in-law of former Prosecutor General Yoon Seok-yeol, was sentenced to three years in prison and immediately arrested in court. The court of first instance found Choi guilty of all charges of unfairly receiving billions of won in medical care benefits by establishing a nursing hospital even though she was not a medical professional.
+
+
