@@ -35473,3 +35473,44 @@
 > Hi there! I'm the creator of this programming language. I've designed this language to resemble the style of the BASIC programming languages of the 80s, but with the modern functionality of today (syntax highlighting, rich editing, fast runtime, runs in browser etc.). It's a bit of a side project of mine, but ultimately I think it's a great way for beginners to learn programming, and for more advanced users to tinker with!You can get help by using the help command, and we have many tutorials to get you started with, in addition to a command reference.
 
 
+***
+[Technical Insight: Aston finds pace with major upgrade package](http://www.f1reader.com/news/technical-insight-aston-finds-pace-with-major-upgrade-package-282652)
+
+
+> [MotorSportWeek.com] Aston Martin arrived in Austria for the second race at the same venue with a hefty package of aerodynamic upgrades for their AMR21. Aston Martin has had a somewhat disappointing season so far, if you compare it with last year. The Andrew Green designed car has not been able to live up to expectations. The […]
+
+
+***
+![Hawks vs Bucks live stream: how to watch game 6 NBA playoffs online from anywhere](https://cdn.mos.cms.futurecdn.net/tiBArVAFm29AXcnuLNyoUF-1200-80.jpg "Hawks vs Bucks live stream: how to watch game 6 NBA playoffs online from anywhere")
+
+
+[Hawks vs Bucks live stream: how to watch game 6 NBA playoffs online from anywhere](https://www.techradar.com/news/hawks-vs-bucks-live-stream-how-to-watch-game-6-nba-playoffs-online-from-anywhere)
+
+
+> Neither Milwaukee or Atlanta have had such success in the playoffs since the 70s, and each team is determined to make history. At 3-2 to the Bucks, it's a close-fought series, but with both Giannis and Trae Young potentially missing game 6 with injuries it's not clear-cut for either side. Read on as we explain how to get a Bucks vs Hawks live stream and watch the NBA playoffs game 6 online from anywhere.Both the Bucks' and Hawks' talismans Giannis and Young are injured, with no news on whether either will be fit for this potentially deciding game 6.
+
+
+***
+![3D engine with python from scratch](https://external-preview.redd.it/VIratWNeuPSKOpg1xFmmbEr1RtJBoZyYLddV3oxYWPo.jpg?auto=webp&s=97c356cb9b9843fbfa2a3a1f22b72d5e29bb204e "3D engine with python from scratch")
+
+
+[3D engine with python from scratch](https://www.reddit.com/r/Python/comments/od6q5e/3d_engine_with_python_from_scratch/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Python: Some regex doesn't work if a string does not starts and ends with the same character](https://www.reddit.com/r/Python/comments/od6hut/python_some_regex_doesnt_work_if_a_string_does/)
+
+
+> hello. I have a little problem with Python and Regex. In fact, some regex doesn't work if a string does not starts and ends with the same character. For example I have this html tags:pattern1 = r' .*((bebe|oana).*){3,}.* ' pattern2 = r' .*((bebe|oana).*){3,}.* ' pattern3 = r' .*((bebe|oana).*){3,}.* ' pattern4 = r' ' The first 3 tags are working, because a string is starts and ends with the same character.But the 4 tag, the one with meta description, is not working. Python cannot find anything with the regex.
+
+
+***
+[Sources: Mercury, which offers banking services to other startups, raises $100M+ Series B at a valuation of $1.6B; Mercury was last valued at $100M in 2019 (The Information)](http://www.techmeme.com/210703/p14#a210703p14)
+
+
+> The Information: Sources: Mercury, which offers banking services to other startups, raises $100M+ Series B at a valuation of $1.6B; Mercury was last valued at $100M in 2019 — Coatue Management has led a Series B investment in Mercury, a banking service for other startups, at a valuation of about $1.6 billion including …
+
+
