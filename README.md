@@ -35883,3 +35883,53 @@
 > Digital Trends may earn a commission when you buy through links on our site. If you didn't already know, smartwatches are like fitness trackers on steroids. Not only can they track your health and fitness stats, and sometimes heart rate, but they can also receive notifications and call alerts on your wrist. It just so happens a lot of smartwatches are going on sale as part of the 4th of July sales extravaganza — many retailers are taking part. For example, Walmart is offering a crazy discount on the Apple Watch Series 3 with GPS (38mm), which drops the price to $160 plus free two-day delivery or same-day pickup, in the Walmart 4th of July sale.
 
 
+***
+![Transcript: Representative André Carson on "Face the Nation," July 4, 2021](https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/04/2a18feee-8f48-492d-8ed1-6b332aec32fd/thumbnail/1200x630g2/145fedbefc9ae359ce12f71c61ed5cc9/screen-shot-2021-07-04-at-11-22-34-am.png "Transcript: Representative André Carson on "Face the Nation," July 4, 2021")
+
+
+[Transcript: Representative André Carson on "Face the Nation," July 4, 2021](https://www.cbsnews.com/news/transcript-representative-andre-carson-face-the-nation-07-04-2021/)
+
+
+> July 4, 2021 / 12:00 PM / CBS News The following is a transcript of an interview with Representative André Carson of Indiana that aired on Sunday, July 4, 2021, on "Face the Nation." ED O'KEEFE: In a recently declassified report, US intelligence officials have offered no explanation for dozens of unexplained sightings witnessed by Navy pilots since 2004. Congressman André Carson of Indiana chaired a classified briefing on this report and joins us from Washington. Congressman, happy Independence Day to you.
+
+
+***
+![4th of July Apple sales: save with AirPods, MacBook, Apple Watch and iPad deals](https://cdn.mos.cms.futurecdn.net/rrMXkKEiDeRjPBXzpyLtt8-1200-80.jpg "4th of July Apple sales: save with AirPods, MacBook, Apple Watch and iPad deals")
+
+
+[4th of July Apple sales: save with AirPods, MacBook, Apple Watch and iPad deals](https://www.techradar.com/news/4th-of-july-apple-sales-save-with-airpods-macbook-apple-watch-and-ipad-deals)
+
+
+> (Image credit: Future) Many retailers have launched their 4th of July sales now, which means we're seeing some excellent discounts on top Apple products. From iPad deals to cheap Apple Watch prices, you'll find savings across the range this weekend, with something for everyone and a few record low prices hitting the shelves. Highlights include a $60 discount on the Apple Watch Series 6 (now $329, was $399), that's the lowest price we've ever seen on Apple's latest smartwatch and is usually only reserved for the Project Red model.
+
+
+***
+![4th of July mattress sale 2021: the best mattress sales happening right now](https://cdn.mos.cms.futurecdn.net/MUwwqg3eULvsqbhRTaoCFN-1200-80.jpg "4th of July mattress sale 2021: the best mattress sales happening right now")
+
+
+[4th of July mattress sale 2021: the best mattress sales happening right now](https://www.techradar.com/news/4th-of-july-mattress-sale-2021-what-to-expect-and-when-will-sales-begin)
+
+
+> The 2021 4th of July mattress sale event is officially underway with fantastic deals from your favorite online brands. We've sorted through all the offers to bring you the very best 4th of July mattress sales that are happening right now. Mattresses are one of the most popular categories discounted during 4th of July sales, thanks to brands rolling over their Memorial Day promotions which match their best-ever Black Friday offers. You'll find sitewide sales and huge discounts along with free sleep accessories with your order.
+
+
+***
+![aio-pool](https://external-preview.redd.it/EU356yYi3k_WxInU0jWbRtWpOW8RBvD00HqVMfdASlM.jpg?auto=webp&s=b24b39061728c84b28595d29f116b6d4e267f4b7 "aio-pool")
+
+
+[aio-pool](https://www.reddit.com/r/Python/comments/odn0tw/aiopool_extending_pythons_process_pool_to_support/)
+
+
+> Hi, I published (my first) python package - aio-poolaio-pool extends Python's process pool to allow passing coroutines and running concurrently in multiple processes.All the existing functions of a pool are supported (map, imap, apply, etc).https://github.com/Itayazolay/aio-poolWDYT? :)
+
+
+***
+![China bans Didi, its biggest ride-hailing service, from app stores](https://cdn.cnn.com/cnnnext/dam/assets/210702085506-didi-app-china-07-02-2021-super-tease.jpg "China bans Didi, its biggest ride-hailing service, from app stores")
+
+
+[China bans Didi, its biggest ride-hailing service, from app stores](https://www.cnn.com/2021/07/04/tech/china-app-store-didi/index.html)
+
+
+> The Cyberspace Administration of China on Sunday banned Didi from app stores after saying it posed a cybersecurity risk for customers."Didi Chuxing app is found to have severely violated the laws by illegally collecting and using personal information," the regulator said. It called on Didi to fix the issue with its app to comply with the country's laws and to ensure its customers' safety.The company, which has 377 million active users in China alone, said in a statement it is complying with China's demands, pulling the app from stores as it works to make changes to its app to satisfy regulators.
+
+
