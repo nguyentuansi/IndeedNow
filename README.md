@@ -35551,3 +35551,50 @@
 > Costco – Coles, Costco and Aldi among Sydney's latest COVID-19 exposure sites after case spikeA number of supermarkets have been added to a growing list of COVID-19 exposure sites across Sydney.NSW Health added a string of new venues across Sydney on Saturday after the state recorded 35 local virus cases in the 24 hours to 8pm Friday, bringing the current outbreak to 261 cases.The latest cases show the epicentre of the outbreak has shifted from the city's east, to the western and southwestern suburbs.
 
 
+***
+![Google Open-Sources Fully Homomorphic Encryption Transpiler](https://external-preview.redd.it/0tLYdxvj8S-x8enlGc7-UFXCj35kwhTC-dpM7W6wLLs.jpg?auto=webp&s=6a43d0ba9eb80fe1f638858c12f7c110f32d668f "Google Open-Sources Fully Homomorphic Encryption Transpiler")
+
+
+[Google Open-Sources Fully Homomorphic Encryption Transpiler](https://www.reddit.com/r/programming/comments/odb63s/google_opensources_fully_homomorphic_encryption/)
+
+
+> Does this mean the whole program executes encrypted, or juts its data?
+
+
+***
+![10 essential tips and tricks for Chivalry 2](https://icdn.digitaltrends.com/image/digitaltrends/tips-and-tricks-to-get-better-at-chivalry-2.jpg "10 essential tips and tricks for Chivalry 2")
+
+
+[10 essential tips and tricks for Chivalry 2](https://www.digitaltrends.com/how-to/chivalry-two-tips-and-tricks/)
+
+
+> If you ever wanted to play Monty Python and the Holy Grail the video game, now's your chance! Chivalry 2 is a massive multiplayer sword and shield game featuring 40- and 64-player lobbies. On par with the scale of modern Battlefield titles, Chivalry 2 is a nuanced game with a low-skill floor and a high-skill ceiling. New players will be able to jump in, current players can continue to hone their skills, and soon-to-be veteran players can show off their flashy cosmetics and abilities on the battlefield.
+
+
+***
+![Best PS5 deals for July 2021: Here's where to buy the new PlayStation 5](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/ps5-all-digital-edition.jpg "Best PS5 deals for July 2021: Here's where to buy the new PlayStation 5")
+
+
+[Best PS5 deals for July 2021: Here's where to buy the new PlayStation 5](https://www.androidcentral.com/best-ps5-deals)
+
+
+> The all-new PlayStation 5 is officially available for purchase, but finding a retailer that actually has stock of the new console available to buy isn't such an easy task just yet. With that being said, there are still plenty of opportunities to pick up the new PlayStation 5 or the PlayStation 5 Digital Edition if you give it just a bit of time and know where to keep looking. As of July 2021, we're noticing that the PlayStation 5 still typically goes out of stock on the same day as it becomes available for purchase at most major online retailers.
+
+
+***
+[Tendo, which aims to build an OpenTable-like service for healthcare to digitize the entire patient care journey, raises $50M Series B at a valuation of $550M (Anuja Vaidya/MedCity News)](http://www.techmeme.com/210703/p16#a210703p16)
+
+
+> Anuja Vaidya / MedCity News: Tendo, which aims to build an OpenTable-like service for healthcare to digitize the entire patient care journey, raises $50M Series B at a valuation of $550M — Tendo Systems, a company that is co-developing a digital engagement platform with provider organizations like Jefferson Health, raised $50 million in a new funding round.
+
+
+***
+![The best printer for 2021](https://www.cnet.com/a/img/loqFbhgs3wj8SR2kCOkcupD0BLE=/1200x630/2018/06/19/07b384fa-e451-46c3-9155-2a434e022dcd/10-brother-hl-3170cdw-digital-color-printer.jpg "The best printer for 2021")
+
+
+[The best printer for 2021](https://www.cnet.com/news/best-printer/)
+
+
+> If you're still working remotely, there may be a few aspects of working in an office that you wish you had at home, like a speedy, dependable printer. Even if you're working by yourself in your pajamas, there are still times when you need a hard copy, and having a home office printer is still incredibly handy despite the near ubiquity of digital displays -- from phones to TVs to laptops. However, shopping for a printer isn't easy, and it can be downright confusing unless you're intimately familiar with printer specs.
+
+
