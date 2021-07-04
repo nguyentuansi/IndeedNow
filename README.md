@@ -35598,3 +35598,50 @@
 > If you're still working remotely, there may be a few aspects of working in an office that you wish you had at home, like a speedy, dependable printer. Even if you're working by yourself in your pajamas, there are still times when you need a hard copy, and having a home office printer is still incredibly handy despite the near ubiquity of digital displays -- from phones to TVs to laptops. However, shopping for a printer isn't easy, and it can be downright confusing unless you're intimately familiar with printer specs.
 
 
+***
+![Facebook says services restored after outage](https://images.indianexpress.com/2021/07/FACEBOOK-REUTERS-1200.jpeg "Facebook says services restored after outage")
+
+
+[Facebook says services restored after outage](https://indianexpress.com/article/technology/social/facebook-says-services-restored-after-outage-7388223/)
+
+
+> Facebook Inc said it has resolved a technical issue that caused some users trouble accessing Facebook, Messenger, Workplace and Instagram on Saturday. 'We resolved the issue as quickly as possible for everyone who was impacted, and we apologize for any inconvenience,' a spokesperson told Reuters. Facebook, Instagram and Messenger were down for thousands of users on Saturday, according to outage tracking website Downdetector.com. Downdetector tracks outages by collating status reports from a series of sources, including user-submitted errors on its platform.
+
+
+***
+![Feds Seized Robinhood CEO's Phone in GameStop Trading Halt Investigation](https://external-preview.redd.it/UP4Z1M8pTetXounUJ4fdhqDJ6kLDpIEnHJ0FbJW96K0.jpg?auto=webp&s=f624ac72b45cef4c88944f181d927c164ef17ee3 "Feds Seized Robinhood CEO's Phone in GameStop Trading Halt Investigation")
+
+
+[Feds Seized Robinhood CEO's Phone in GameStop Trading Halt Investigation](https://www.reddit.com/r/technology/comments/odcnkl/feds_seized_robinhood_ceos_phone_in_gamestop/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
+***
+![How to Download Facebook Videos for Free on Android, iPhone](https://i.gadgets360cdn.com/large/Facebook_videos_downlaod_android_ios_pexels_1625231519210.jpg "How to Download Facebook Videos for Free on Android, iPhone")
+
+
+[How to Download Facebook Videos for Free on Android, iPhone](https://gadgets.ndtv.com/how-to/features/how-to-download-facebook-videos-mobiles-android-iphone-chrome-safari-2477947)
+
+
+> Need to download videos from Facebook? You can easily share videos on Facebook via the 'Share' button. But what if you wanted to share that video with someone offline? This process is a little more work. If you are wondering how to download a video on your Android or iPhone, here's an easy way to get it on your phone.There are lots of different apps you can install to download Facebook videos. However, one should be careful because they might jeopardise your smartphone's security, and you may become vulnerable to cyber attacks.
+
+
+***
+![90 Day Fiance: Angela Wows Fans With Body Transformation In New Photo](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/06/Angela-Deem-90-Day-Fiance-Happily-Ever-After-banner.jpeg "90 Day Fiance: Angela Wows Fans With Body Transformation In New Photo")
+
+
+[90 Day Fiance: Angela Wows Fans With Body Transformation In New Photo](https://screenrant.com/90-day-fiance-angela-deem-body-new-photo/)
+
+
+> Amid divorce rumors with Michael, Angela is flaunting her transformed physique in a chic look. She is looking happy in the company of her friends. Angela Deem is continuing to surprise 90 Day Fiance: Happily Ever After viewers with her body transformation. She was recently seen hanging out with her daughter, Skyla, and two friends. It is interesting to see that while some 90 Day Fiance fans want TLC to ban Angela, others are loving her transformed look after massive weight loss. Recently, the 55-year-old meemaw made headlines for mentally and verbally abusing her husband, Michael Ilesanmi.
+
+
+***
+[President Biden says he has directed US intelligence agencies to investigate the Kaseya ransomware attack; he says "we're not certain" who is behind the attack (Trevor Hunnicutt/Reuters)](http://www.techmeme.com/210703/p18#a210703p18)
+
+
+> Trevor Hunnicutt / Reuters: President Biden says he has directed US intelligence agencies to investigate the Kaseya ransomware attack; he says “we're not certain” who is behind the attack — President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind …
+
+
