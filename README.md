@@ -35645,3 +35645,50 @@
 > Trevor Hunnicutt / Reuters: President Biden says he has directed US intelligence agencies to investigate the Kaseya ransomware attack; he says “we're not certain” who is behind the attack — President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind …
 
 
+***
+![Laptops and tablets donated to Mashabo Primary school teachers and pupils](https://s1.stabroeknews.com/images/2021/07/GJFA-donate-devices-A-600x800.jpg "Laptops and tablets donated to Mashabo Primary school teachers and pupils")
+
+
+[Laptops and tablets donated to Mashabo Primary school teachers and pupils](https://www.stabroeknews.com/2021/07/04/news/guyana/laptops-and-tablets-donated-to-mashabo-primary-school-teachers-and-pupils/)
+
+
+> Mashabo Primary School, a school located in the Indigenous Mashabo Village along the Essequibo Coast, recently received thirty tablets and five laptops from the Guyana-Jamaica Friendship Association (GJFA), an organization that adopted the school almost seven years ago. The article Laptops and tablets donated to Mashabo Primary school teachers and pupils appeared first on Stabroek News.
+
+
+***
+![Tech this week: Goodbye Pepper and Facebook extremists](https://static.euronews.com/articles/stories/05/83/18/72/1000x563_cmsv2_871df019-44bd-54b8-880e-0df48b2a570f-5831872.jpg "Tech this week: Goodbye Pepper and Facebook extremists")
+
+
+[Tech this week: Goodbye Pepper and Facebook extremists](https://www.euronews.com/next/2021/07/04/tech-this-week-rip-pepper-the-robot-nissan-battery-factory-facebook-extremism)
+
+
+> RIP to a real one. It emerged this week that Japanese tech giant Softbank has "paused" manufacturing of Pepper, the friendly humanoid robot that launched in 2014.Pepper's selling point was that it could read human emotions. Softbank promoted the robot for use as a customer service agent and a home companion, but it never really caught on.Pepper became relatively commonplace in Japan when Softbank – one of Japan's biggest mobile network operators – placed them in its retail stores.But just 27,000 were made after the Japanese company bought out Aldebaran, the French robotics firm which created Pepper, in 2012.
+
+
+***
+![iPhone 13 Touch ID – is it time for an in-screen fingerprint sensor?](https://cdn.mos.cms.futurecdn.net/QqyVDt59Tqs5jZ6rWKNGKe-1200-80.jpg "iPhone 13 Touch ID – is it time for an in-screen fingerprint sensor?")
+
+
+[iPhone 13 Touch ID – is it time for an in-screen fingerprint sensor?](https://www.techradar.com/news/iphone-13-touch-id-is-it-time-for-an-in-screen-fingerprint-sensor)
+
+
+> One of the most exciting rumors we've heard about the upcoming iPhone 13 is a feature Android phones have had for years: an in-screen fingerprint sensor. So how likely is Apple's next flagship phone to get it?We've heard so many rumors that Touch ID is coming back to iPhones that it feels like a question of when, not if. But it could be coming in 2022 or later, as a couple other predictions suggest. Apple switched away from fingerprint sensors in its flagship phones when it introduced the iPhone X in November 2017, and its priciest phones have relied solely on facial recognition since.
+
+
+***
+![Coupang set to begin operation in Singapore](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/e5ae8416103e4678828f453b28d8b3e7.jpg "Coupang set to begin operation in Singapore")
+
+
+[Coupang set to begin operation in Singapore](https://www.koreatimes.co.kr/www/tech/2021/07/133_311517.html)
+
+
+> Coupang set to begin operation in Singapore Coupang's headquarters in Jamsil, Seoul / Korea times file E-commerce firm aims to replicate Amazon's success with similar models in Asia By Kim Yoo-chulCoupang is set to begin operations in Singapore, as the NYSE-listed entity is said to have completed the hiring of senior executives in the Southeast Asian country, sources and officials said Friday."Coupang completed the hiring of senior roles such as heads of retail, logistics and operations in Singapore.
+
+
+***
+[Arizona-based Trainual, a SaaS provider for small businesses to onboard, train, and scale their teams, raises $27M Series B led by Altos Ventures (FinSMEs)](http://www.techmeme.com/210704/p3#a210704p3)
+
+
+> FinSMEs: Arizona-based Trainual, a SaaS provider for small businesses to onboard, train, and scale their teams, raises $27M Series B led by Altos Ventures — Trainual, a Scottsdale, Ariz. - based SaaS platform for businesses to onboard, train and scale their teams, closed a $27M Series B funding.
+
+
