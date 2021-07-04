@@ -36030,3 +36030,53 @@
 > Writing a sqlite clone from scratch in C Overview View on GitHub (pull requests welcome) What format is data saved in? (in memory and on disk) When does it move from memory to disk? Why can there only be one primary key per table? How does rolling back a transaction work? How are indexes formatted? When and how does a full table scan happen? What format is a prepared statement saved in? In short, how does a database work? I'm building a clone of sqlite from scratch in C in order to understand, and I'm going to document my process as I go.
 
 
+***
+![Looking into Java paint functions by example](https://external-preview.redd.it/AjqYHa4l3_VJCRdEDyNlC6Zx7do34-xeK3y38tNc5M4.jpg?auto=webp&s=522422e1ba7d4ec4439ba6fb20b7b65703b98e66 "Looking into Java paint functions by example")
+
+
+[Looking into Java paint functions by example](https://www.reddit.com/r/programming/comments/odu15n/looking_into_java_paint_functions_by_example/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![I've created an interpreter for a esolang based on pokémon battles](https://external-preview.redd.it/-lLw1S4jJdVxOUmemLLMkOsNXqSI1mMBFojEzRYHrbc.jpg?auto=webp&s=cdd1921ca91da821828dabd09bcb1ac5816f0af3 "I've created an interpreter for a esolang based on pokémon battles")
+
+
+[I've created an interpreter for a esolang based on pokémon battles](https://www.reddit.com/r/programming/comments/odu0cu/ive_created_an_interpreter_for_a_esolang_based_on/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Streamlined JPEG XL images could cut global data use by 30 per cent](https://external-preview.redd.it/ZT4Rc78OLAQKJT2KGiy4L3CFUIe0ntpP_JTlSEtOrgQ.jpg?auto=webp&s=d417a196c9a8ae9e772fea04b4cb153e1de8b3f4 "Streamlined JPEG XL images could cut global data use by 30 per cent")
+
+
+[Streamlined JPEG XL images could cut global data use by 30 per cent](https://www.reddit.com/r/technology/comments/odtt1n/streamlined_jpeg_xl_images_could_cut_global_data/)
+
+
+> View Entire Discussion (1 Comments)
+
+
+***
+![JaCh — Power of Go Channels in Java](https://external-preview.redd.it/GiBcyZfQrG9gXivnupHv2gfTQNPoEs2M6RsVNrDg0vA.jpg?auto=webp&s=c99a40a84a2813191d30f9a830435bfa3b5a1241 "JaCh — Power of Go Channels in Java")
+
+
+[JaCh — Power of Go Channels in Java](https://www.reddit.com/r/programming/comments/odtsf0/jach_power_of_go_channels_in_java/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Top Frontend Frameworks To Learn in 2021](https://external-preview.redd.it/cDXblMiho80O1T-SGFbv1oy3rMwM1E6K0oUMWJkrXYU.jpg?auto=webp&s=500881bda8d909a18a2de614c4a78e451e301589 "Top Frontend Frameworks To Learn in 2021")
+
+
+[Top Frontend Frameworks To Learn in 2021](https://www.reddit.com/r/programming/comments/odtqa9/top_frontend_frameworks_to_learn_in_2021/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
