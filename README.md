@@ -35514,3 +35514,40 @@
 > The Information: Sources: Mercury, which offers banking services to other startups, raises $100M+ Series B at a valuation of $1.6B; Mercury was last valued at $100M in 2019 — Coatue Management has led a Series B investment in Mercury, a banking service for other startups, at a valuation of about $1.6 billion including …
 
 
+***
+![Woman stops traffic for photo shoot](https://content.api.news/v3/images/bin/21e96e0422432a35888241983e67d96e "Woman stops traffic for photo shoot")
+
+
+[Woman stops traffic for photo shoot](https://www.news.com.au/technology/motoring/on-the-road/driver-blasted-after-stopping-traffic-for-a-photo-shoot-in-the-middle-of-a-busy-road-for-15-minutes/news-story/38089e5afbae53dc3e4702ead2cd56a7)
+
+
+> A woman who parked in the middle of the road for 15 minutes to take photos of her car has been blasted after footage of her antics surfaced online.A woman has aggravated hundreds of people after parking in the middle of a busy road to take photos of her car. Her antics were captured on video by a Canberra local and shared to Facebook on Friday where she was put on blast by a dozens of peeved locals. The person who filmed the frustrating event, which took place at the beginning of May in the inner city suburb of Red Hill, claimed the woman blocked the road for 15 minutes while her friends took photos of her car.
+
+
+***
+[Zencity, which uses AI to analyze resident-generated data from social media and other sources to provide insights to cities and municipalities, raises $30M (CTech)](http://www.techmeme.com/210703/p15#a210703p15)
+
+
+> CTech: Zencity, which uses AI to analyze resident-generated data from social media and other sources to provide insights to cities and municipalities, raises $30M — The Israeli startup offers government organizations insights from resident feedback through the analysis of millions of pieces …
+
+
+***
+![Yikes! 10 tech gadgets that play fast and loose with your privacy](https://www.komando.com/wp-content/uploads/2021/07/gadgets-posing-privacy-risks-970x546.jpg "Yikes! 10 tech gadgets that play fast and loose with your privacy")
+
+
+[Yikes! 10 tech gadgets that play fast and loose with your privacy](https://www.komando.com/security-privacy/tech-gadget-privacy-risks/796603/)
+
+
+> 10 tech devices that pose serious privacy risks.
+
+
+***
+![Costco](https://images.7news.com.au/publication/C-3303869/8dbeebbd5339586ad72c19a87136155c051963ae.jpg?imwidth=650&impolicy=sevennews_v2 "Costco")
+
+
+[Costco](https://fintechzoom.com/fintech_news_costco/costco-coles-costco-and-aldi-among-sydneys-latest-covid-19-exposure-sites-after-case-spike/)
+
+
+> Costco – Coles, Costco and Aldi among Sydney's latest COVID-19 exposure sites after case spikeA number of supermarkets have been added to a growing list of COVID-19 exposure sites across Sydney.NSW Health added a string of new venues across Sydney on Saturday after the state recorded 35 local virus cases in the 24 hours to 8pm Friday, bringing the current outbreak to 261 cases.The latest cases show the epicentre of the outbreak has shifted from the city's east, to the western and southwestern suburbs.
+
+
