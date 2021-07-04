@@ -35692,3 +35692,50 @@
 > FinSMEs: Arizona-based Trainual, a SaaS provider for small businesses to onboard, train, and scale their teams, raises $27M Series B led by Altos Ventures — Trainual, a Scottsdale, Ariz. - based SaaS platform for businesses to onboard, train and scale their teams, closed a $27M Series B funding.
 
 
+***
+![Best 4th of July Apple Watch deals and sales for 2021](https://icdn.digitaltrends.com/image/digitaltrends/apple-watch-se-apps-screen-2.jpg "Best 4th of July Apple Watch deals and sales for 2021")
+
+
+[Best 4th of July Apple Watch deals and sales for 2021](https://www.digitaltrends.com/dtdeals/best-4th-of-july-apple-watch-deals-2021/)
+
+
+> Andy Boxall/Digital Trends If you've been thinking about finally investing in an Apple Watch, upgrading to the latest model, or buying one as a gift, you should take advantage of today's 4th of July Apple Watch deals. The Apple Watch has captivated Apple fans since it was first released in 2015, and it has since become even more alluring as additional features are introduced with each generation. With the popularity of the Apple Watch, retailers will likely have their hands full for this year's 4th of July Apple Watch sales.
+
+
+***
+[What does everyone think of Pi network?](https://www.reddit.com/r/Python/comments/odfta0/what_does_everyone_think_of_pi_network/)
+
+
+> Friend code: brenjollyWhile doing some research on the web I can across the Pi network. A Stanford graduate funded project that provides eco-friendly mineable crypto from anyone's phone. Mining 'Pi' deviates from traditional crypto since it does not require complex computer algorithms solving an energy intensive blockchain. Instead to verify the security of its transactions a user must be invited (you can use my friend code: brenjolly). Also through the use of security circles which are other users you decide to trust on the app.
+
+
+***
+![UPDATE: I created Stocksera, an application to view trending tickers on Reddit and other information such as options data, max pain, calls/put ratio, FTD, short volume and so on](https://external-preview.redd.it/ukTERkKHPiAiEqvckWtIgJLXmRucjCyAd5G_ImRgAOw.jpg?auto=webp&s=623ac53ea974685dc3c61d81427962cf06e49584 "UPDATE: I created Stocksera, an application to view trending tickers on Reddit and other information such as options data, max pain, calls/put ratio, FTD, short volume and so on")
+
+
+[UPDATE: I created Stocksera, an application to view trending tickers on Reddit and other information such as options data, max pain, calls/put ratio, FTD, short volume and so on](https://www.reddit.com/r/Python/comments/odfn69/update_i_created_stocksera_an_application_to_view/)
+
+
+> Play0:000:00SettingsFullscreenStockseraIntroducing Stocksera. This is a website I made to show analyse more about stocks in general. You can view the website at stocksera.pythonanywhere.comI first posted about Stocksera around 2 weeks ago in another subreddit. You can view it at https://www.reddit.com/r/options/comments/o4ig1j/i_created_stocksera_an_application_to_view/.I'm here to provide updates that I have made recently.ADDED:Major hedge funds holdingsTrending tickers in r/options30 day price chart of trending tickers on RedditRanking of tickers in Reddit over time and compare it to its priceGraphs from Trading View for better TAMarket OverviewCaching popular tickers information and price when market closes to speed up rendering timeMost recent Failure to Deliver (FTD) data.
+
+
+***
+![Samsung, LG to see strong earnings in Q2](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/f12e63ae59814718ad8cd7146eedabcd.jpg "Samsung, LG to see strong earnings in Q2")
+
+
+[Samsung, LG to see strong earnings in Q2](https://www.koreatimes.co.kr/www/tech/2021/07/133_311579.html)
+
+
+> By Kim Bo-eunSamsung, LG's logos / Korea Time fileSamsung and LG electronics are set to continue displaying handsome earnings performances through the second quarter, backed by rising memory chip prices and booming sales of household appliances and TVs.Both electronics giants achieved record profits in the first quarter of this year, bolstered by growing demand for IT devices amid the COVID-19 pandemic. They are set to unveil their second quarter earnings guidance this week. According to financial data provider FnGuide, Samsung's earnings consensus for this period is 61.
+
+
+***
+![GitHub Copilot Experiences](https://external-preview.redd.it/R6h8aZlJENhJ1dJJXyY0g18S4bmXycEfrxI0EyOAeA0.jpg?auto=webp&s=8d69a53f5b2701e46acb7bc3cd77cc6b426e8c63 "GitHub Copilot Experiences")
+
+
+[GitHub Copilot Experiences](https://www.reddit.com/r/programming/comments/odfibi/github_copilot_experiences_a_glimpse_of_an/)
+
+
+> Sharing my thoughts on Copilot. TL;DR:Copilot pops up at unexpected moments, breaking my flowAutocomplete feels like the wrong interaction paradigm for a "pair"Checking Copilot's work adds cognitive loadHowever, despite the above I firmly believe it will have a significant and game-changing impact in the future
+
+
