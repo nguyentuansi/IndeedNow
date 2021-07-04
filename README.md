@@ -35786,3 +35786,50 @@
 > iPhone 13 will be here before you know it. We think. EverythingApplePro It's been more than half a year since the iPhone 12 went on sale, and Apple is setting its sights on its next flagship smartphone, the iPhone 13 (or whatever it ends up being called). We're expecting to see four versions of the new phone: the iPhone 13, the iPhone 13 Mini, the iPhone 13 Pro and the iPhone 13 Pro Max, according to analyst Ming-Chi Kuo. Apple's first event of 2021 happened in April, where we saw new iPads, colorful iMacs, a purple iPhone 12 and AirTags trackers.
 
 
+***
+![Lowe's 4th of July sale 2021: the best deals available today](https://cdn.mos.cms.futurecdn.net/74mAWe9EhWy5oDNF2eVZ9W-1200-80.jpg "Lowe's 4th of July sale 2021: the best deals available today")
+
+
+[Lowe's 4th of July sale 2021: the best deals available today](https://www.techradar.com/news/lowes-4th-of-july-sale-deals-2020-still-available-today)
+
+
+> (Image credit: Getty) We're still a few days away from the official date itself, but the Lowe's 4th of July sale has already launched over at the online store. If the yard could use a spruce up, or you're on the hunt for some cheap appliances then you'll find plenty of options - all of which we've rounded up just down below. Because there are literally thousands of items on sale right now, we've separated every category of the Lowe's 4th of July sale out to help save our readers some time, and hopefully some cash too.
+
+
+***
+![How to Work Out More—Using Your Phone's Default Apps](https://media.wired.com/photos/60df65719c0558467e693cda/191:100/w_1280,c_limit/Gear-Stay-Fit-Default-Phone-Apps-1220401995.jpg "How to Work Out More—Using Your Phone's Default Apps")
+
+
+[How to Work Out More—Using Your Phone's Default Apps](https://www.wired.com/story/how-to-work-out-smartphone-apple-health-google-fit/)
+
+
+> Most of us have tons of third-party apps installed on our phones, but you might be surprised at just how much your Apple or Android handset can do right out of the box—and that extends to health and fitness tracking. If you're looking to start working on your physical fitness—perhaps after the disruption of a global pandemic—then you don't need to look around for apps or invest in a new wearable right away, because everything you need to get started is already on your phone.Google FitGoogle Fit is (as the name suggests) Google's own fitness tracking app, and it comes preinstalled on Android phones—if you don't have it for whatever reason, then you can install it from the Google Play Store.
+
+
+***
+[Major ransomware attack against U.S. tech provider forces Swedish store closures](https://www.zeebiz.com/technology/news-major-ransomware-attack-against-us-tech-provider-forces-swedish-store-closures-159907)
+
+
+> The shutdown of the major food retailer followed Friday`s unusually sophisticated attack on U.S. tech provider Kaseya. The ransomware gang known as REvil is suspected of hijacking Kaseya`s desktop management tool VSA and pushing a malicious update that infect tech management providers serving thousands of business
+
+
+***
+![PostgreSQL Connector Update](https://external-preview.redd.it/aVaEm1-Y7FG0E7cezxD4MHuMn80wBC8dFlFgp_Lgmpc.jpg?auto=webp&s=02243e76a90bfb4bdcb139a31b83feb8ad439117 "PostgreSQL Connector Update")
+
+
+[PostgreSQL Connector Update](https://www.reddit.com/r/Python/comments/odip0y/postgresql_connector_update/)
+
+
+> Hey everyone,Here is the newest version of the postgresql connector I created a couple of days ago.Will start focusing on the aesthetic of the code this week with pylint.https://github.com/Amaguk2023/PyPostgreSQLConnectorLooking forward to your comments. Thanks!
+
+
+***
+![Walmart 4th of July Sale 2021: The best deals to shop today](https://icdn.digitaltrends.com/image/digitaltrends/walmart-store-sky.jpg "Walmart 4th of July Sale 2021: The best deals to shop today")
+
+
+[Walmart 4th of July Sale 2021: The best deals to shop today](https://www.digitaltrends.com/dtdeals/walmart-july-4th-deals-2021/)
+
+
+> Happy 4th of July everyone! Hope you have a wonderful holiday with friends and family. It's also a great time to get some killer 4th of July  sales on all kinds of tech and gadgets. Walmart is hosting an awesome 4th of July sale, which includes discounts on the Apple AirPods Pro, Instant Pots, streaming players, gaming laptops, and much more. If you're interested, be sure to check out the best deals below, or browse the sale on your own terms. Roku Express 4K+ with Voice Remote — $29, was $30 Roku The Roku Express 4K+ offers 4K-resolution and UHD streaming across all of your favorite apps like Netflix, Hulu, and Disney+.
+
+
