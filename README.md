@@ -35833,3 +35833,53 @@
 > Happy 4th of July everyone! Hope you have a wonderful holiday with friends and family. It's also a great time to get some killer 4th of July  sales on all kinds of tech and gadgets. Walmart is hosting an awesome 4th of July sale, which includes discounts on the Apple AirPods Pro, Instant Pots, streaming players, gaming laptops, and much more. If you're interested, be sure to check out the best deals below, or browse the sale on your own terms. Roku Express 4K+ with Voice Remote — $29, was $30 Roku The Roku Express 4K+ offers 4K-resolution and UHD streaming across all of your favorite apps like Netflix, Hulu, and Disney+.
 
 
+***
+![Summer swelter trend: West gets hotter days, East hot nights](https://www.clickorlando.com/resizer/x5UqvR0Zk06Jz_4uvbdYzkYRCkE=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/VUPDNR4TOBAU3CZVSYKC25QGDQ.jpg "Summer swelter trend: West gets hotter days, East hot nights")
+
+
+[Summer swelter trend: West gets hotter days, East hot nights](https://www.clickorlando.com/tech/2021/07/04/summer-swelter-trend-west-gets-hotter-days-east-hot-nights/)
+
+
+> As outlandish as the killer heat wave that struck the Pacific Northwest was, it fits into a decades-long pattern of uneven summer warming across the United States.The West is getting roasted by hotter summer days while the East Coast is getting swamped by hotter and stickier summer nights, an analysis of decades of U.S. summer weather data by The Associated Press shows. State-by-state average temperature trends from 1990 to 2020 show America's summer swelter is increasing more in some of the places that just got baked with extreme heat over the past week: California, Nevada, New Mexico, Arizona, Utah, Oregon and Colorado.
+
+
+***
+![Summer swelter trend: West gets hotter days, East hot nights](https://www.local10.com/resizer/x5UqvR0Zk06Jz_4uvbdYzkYRCkE=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/VUPDNR4TOBAU3CZVSYKC25QGDQ.jpg "Summer swelter trend: West gets hotter days, East hot nights")
+
+
+[Summer swelter trend: West gets hotter days, East hot nights](https://www.local10.com/tech/2021/07/04/summer-swelter-trend-west-gets-hotter-days-east-hot-nights/)
+
+
+> As outlandish as the killer heat wave that struck the Pacific Northwest was, it fits into a decades-long pattern of uneven summer warming across the United States.The West is getting roasted by hotter summer days while the East Coast is getting swamped by hotter and stickier summer nights, an analysis of decades of U.S. summer weather data by The Associated Press shows. State-by-state average temperature trends from 1990 to 2020 show America's summer swelter is increasing more in some of the places that just got baked with extreme heat over the past week: California, Nevada, New Mexico, Arizona, Utah, Oregon and Colorado.
+
+
+***
+![Summer swelter trend: West gets hotter days, East hot nights](https://www.clickondetroit.com/resizer/x5UqvR0Zk06Jz_4uvbdYzkYRCkE=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/VUPDNR4TOBAU3CZVSYKC25QGDQ.jpg "Summer swelter trend: West gets hotter days, East hot nights")
+
+
+[Summer swelter trend: West gets hotter days, East hot nights](https://www.clickondetroit.com/tech/2021/07/04/summer-swelter-trend-west-gets-hotter-days-east-hot-nights/)
+
+
+> As outlandish as the killer heat wave that struck the Pacific Northwest was, it fits into a decades-long pattern of uneven summer warming across the United States.The West is getting roasted by hotter summer days while the East Coast is getting swamped by hotter and stickier summer nights, an analysis of decades of U.S. summer weather data by The Associated Press shows. State-by-state average temperature trends from 1990 to 2020 show America's summer swelter is increasing more in some of the places that just got baked with extreme heat over the past week: California, Nevada, New Mexico, Arizona, Utah, Oregon and Colorado.
+
+
+***
+![Summer swelter trend: West gets hotter days, East hot nights](https://www.news4jax.com/resizer/x5UqvR0Zk06Jz_4uvbdYzkYRCkE=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/VUPDNR4TOBAU3CZVSYKC25QGDQ.jpg "Summer swelter trend: West gets hotter days, East hot nights")
+
+
+[Summer swelter trend: West gets hotter days, East hot nights](https://www.news4jax.com/tech/2021/07/04/summer-swelter-trend-west-gets-hotter-days-east-hot-nights/)
+
+
+> As outlandish as the killer heat wave that struck the Pacific Northwest was, it fits into a decades-long pattern of uneven summer warming across the United States.The West is getting roasted by hotter summer days while the East Coast is getting swamped by hotter and stickier summer nights, an analysis of decades of U.S. summer weather data by The Associated Press shows. State-by-state average temperature trends from 1990 to 2020 show America's summer swelter is increasing more in some of the places that just got baked with extreme heat over the past week: California, Nevada, New Mexico, Arizona, Utah, Oregon and Colorado.
+
+
+***
+![Walmart is practically giving away this Apple Watch in the 4th of July sales](https://icdn.digitaltrends.com/image/digitaltrends/best-smartwatches-apple-watch-series-3-cd-2-3.jpg "Walmart is practically giving away this Apple Watch in the 4th of July sales")
+
+
+[Walmart is practically giving away this Apple Watch in the 4th of July sales](https://www.digitaltrends.com/dtdeals/apple-watch-series-3-deal-walmart-july-4-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you didn't already know, smartwatches are like fitness trackers on steroids. Not only can they track your health and fitness stats, and sometimes heart rate, but they can also receive notifications and call alerts on your wrist. It just so happens a lot of smartwatches are going on sale as part of the 4th of July sales extravaganza — many retailers are taking part. For example, Walmart is offering a crazy discount on the Apple Watch Series 3 with GPS (38mm), which drops the price to $160 plus free two-day delivery or same-day pickup, in the Walmart 4th of July sale.
+
+
