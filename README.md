@@ -35739,3 +35739,50 @@
 > Sharing my thoughts on Copilot. TL;DR:Copilot pops up at unexpected moments, breaking my flowAutocomplete feels like the wrong interaction paradigm for a "pair"Checking Copilot's work adds cognitive loadHowever, despite the above I firmly believe it will have a significant and game-changing impact in the future
 
 
+***
+![10 advanced python projects idea !](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png "10 advanced python projects idea !")
+
+
+[10 advanced python projects idea !](https://www.reddit.com/r/Python/comments/odhgft/10_advanced_python_projects_idea/)
+
+
+> I'm looking for new advanced projects to code but I don't find it. Does anybody has ideas ? Thanks100% Upvotedno comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Can anybody show me how can I plot graphs in python? I need a template in which I can either post a function or a data file to plot it?](https://www.reddit.com/r/Python/comments/odhedm/can_anybody_show_me_how_can_i_plot_graphs_in/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![New search engine made with Python that's anonymous and has no ads or tracking. It tries to fight spam, and gives you control of how you view search results. You can search and read content anonymously with a proxied reader view. The alpha is live and free for anyone to use at lazyweb.ai](https://external-preview.redd.it/6Lia-xR5OcrITCR52BtFf_MsT7L8QIFY7C909gT5YaA.jpg?auto=webp&s=a1a1fa3ab8795cc94670fff029f2c183053d4f29 "New search engine made with Python that's anonymous and has no ads or tracking. It tries to fight spam, and gives you control of how you view search results. You can search and read content anonymously with a proxied reader view. The alpha is live and free for anyone to use at lazyweb.ai")
+
+
+[New search engine made with Python that's anonymous and has no ads or tracking. It tries to fight spam, and gives you control of how you view search results. You can search and read content anonymously with a proxied reader view. The alpha is live and free for anyone to use at lazyweb.ai](https://www.reddit.com/r/Python/comments/odhbql/new_search_engine_made_with_python_thats/)
+
+
+> Play0:000:00SettingsFullscreenLazyWeb: Anonymous and ad-free search made in Pythonhttps://lazyweb.aiWe're a little two-person team (Angie and Jem). We're bootstrapping and self-funded. I'm the programmer.I wanted to share it because it was a fun and interesting project to build, and Python made it possible for us to get a long way as a small team. It uses serverless on the backend (AWS). We're using Spacy and GPT-2, and some PyTorch models. It uses BeautifulSoup for spidering/crawling/content retrieval.
+
+
+***
+![Vivo tipped to launch a huge foldable phone before the end of the year](https://cdn.mos.cms.futurecdn.net/4gzNm8c4RhNNbXshZCyYKa-1200-80.jpg "Vivo tipped to launch a huge foldable phone before the end of the year")
+
+
+[Vivo tipped to launch a huge foldable phone before the end of the year](https://www.techradar.com/news/vivo-tipped-to-launch-a-huge-foldable-phone-before-the-end-of-the-year)
+
+
+> The Vivo Nex. (Image credit: Future) Fans of foldable phones have plenty to look forward to over the coming months: the Samsung Galaxy Z Fold 3 and Samsung Galaxy Z Flip 3 are due to be launched in the next few weeks, we might well see a Google Pixel Fold in the near future, and now it looks as though a Vivo foldable will turn up later in the year too.That's according to the well-known and usually accurate tipster Ice Universe, who says that we'll see the Vivo Nex Fold before 2021 is over. The same source also says that the more conventional Vivo Nex 5 smartphone won't be launched this year.
+
+
+***
+![We may have guessed the iPhone 13 release date. Here are all the clues](https://www.cnet.com/a/img/TvY_nDPbzfZ78Pm53GYgAv2jRu4=/1200x630/2021/04/29/b644fa0c-7faa-48bc-bb1b-6aa5ced96bfb/iphone.jpg "We may have guessed the iPhone 13 release date. Here are all the clues")
+
+
+[We may have guessed the iPhone 13 release date. Here are all the clues](https://www.cnet.com/news/we-may-have-guessed-the-iphone-13-release-date-here-are-all-the-clues/)
+
+
+> iPhone 13 will be here before you know it. We think. EverythingApplePro It's been more than half a year since the iPhone 12 went on sale, and Apple is setting its sights on its next flagship smartphone, the iPhone 13 (or whatever it ends up being called). We're expecting to see four versions of the new phone: the iPhone 13, the iPhone 13 Mini, the iPhone 13 Pro and the iPhone 13 Pro Max, according to analyst Ming-Chi Kuo. Apple's first event of 2021 happened in April, where we saw new iPads, colorful iMacs, a purple iPhone 12 and AirTags trackers.
+
+
