@@ -35983,3 +35983,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Save some cash with these great free games for Nintendo Switch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/01/fortnite.jpg "Save some cash with these great free games for Nintendo Switch")
+
+
+[Save some cash with these great free games for Nintendo Switch](https://www.imore.com/best-free-games-nintendo-switch)
+
+
+> This super popular battle royale game lets up to 100 people fight to be the last one standing while teaming up with friends locally and online. Build forts, destroy your opponents' protection, and gather resources throughout the vast world used to build weapons. The game is constantly releasing new content, including big crossover events with the MCU and Star Wars. Free at Nintendo Staff Pick The makers of the Puzzle Quest games are behind this gem-matching RPG, where you'll collect hundreds of troops with their own spells that you can use in PvP matches and weekly events.
+
+
+***
+![Kylas: Helping small businesses fast-track their digital journey](https://images.financialexpress.com/2021/07/1-71.jpg "Kylas: Helping small businesses fast-track their digital journey")
+
+
+[Kylas: Helping small businesses fast-track their digital journey](https://www.financialexpress.com/industry/technology/kylas-helping-small-businesses-fast-track-their-digital-journey/2283020/)
+
+
+> By: Sudhir Chowdhary | July 05, 2021 1:15 AMKetan Sabnis,With the COVID-19 pandemic impacting all human activity, it has become an imperative for small and medium businesses (SMBs) to have a digital-first strategy for business continuity and resilience. However, implementing this strategy is easier said than done. Lack of accessible technologies, shortage of digital skills and cost constraints are the key challenges faced by them.Pune-based Kylas.io is trying to make a difference here. It is a new-age, software-as-a-service (SaaS) CRM solution, designed to address these requirements of the modern SMBs.
+
+
+***
+![Chinese breakthrough allows physicists to build the world's most powerful laser](https://external-preview.redd.it/FVc5_m_VF_-i2dx6w642f2vR5gbsRKDlmgp1atAhrvI.jpg?auto=webp&s=7b895ab4f13a0b6161ce6572d3340f96d5566fbb "Chinese breakthrough allows physicists to build the world's most powerful laser")
+
+
+[Chinese breakthrough allows physicists to build the world's most powerful laser](https://www.reddit.com/r/technology/comments/odrcng/chinese_breakthrough_allows_physicists_to_build/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Artificial Intelligence in Healthcare: Intel's AI tool screens patients for vision loss](https://images.financialexpress.com/2021/07/1-70.jpg "Artificial Intelligence in Healthcare: Intel's AI tool screens patients for vision loss")
+
+
+[Artificial Intelligence in Healthcare: Intel's AI tool screens patients for vision loss](https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/)
+
+
+> The solution can be expanded to other retinal conditions and glaucoma, helping to reduce the screening burden on healthcare specialists and focus key resources on patients who need immediate care and intervention.In a country such as India that has a low doctor-patient ratio, Artificial Intelligence (AI) can enable greater access to expert care from anywhere, with telehealth and robotics applied across inpatient and outpatient environments. Experts says AI will bolster the role of healthcare by assisting in screening, diagnosis, and treatment of diseases thereby improving quality of life and reducing the cost burden for patients.
+
+
+***
+[Writing a SQLite clone from scratch in C](https://cstack.github.io/db_tutorial/)
+
+
+> Writing a sqlite clone from scratch in C Overview View on GitHub (pull requests welcome) What format is data saved in? (in memory and on disk) When does it move from memory to disk? Why can there only be one primary key per table? How does rolling back a transaction work? How are indexes formatted? When and how does a full table scan happen? What format is a prepared statement saved in? In short, how does a database work? I'm building a clone of sqlite from scratch in C in order to understand, and I'm going to document my process as I go.
+
+
