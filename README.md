@@ -35933,3 +35933,53 @@
 > The Cyberspace Administration of China on Sunday banned Didi from app stores after saying it posed a cybersecurity risk for customers."Didi Chuxing app is found to have severely violated the laws by illegally collecting and using personal information," the regulator said. It called on Didi to fix the issue with its app to comply with the country's laws and to ensure its customers' safety.The company, which has 377 million active users in China alone, said in a statement it is complying with China's demands, pulling the app from stores as it works to make changes to its app to satisfy regulators.
 
 
+***
+![Dive deep with these waterproof iPhone cases for underwater photography](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/04/catalyst-underwater-photography-case-iphone-hero.jpg "Dive deep with these waterproof iPhone cases for underwater photography")
+
+
+[Dive deep with these waterproof iPhone cases for underwater photography](https://www.imore.com/best-cases-shooting-underwater-iphoneography)
+
+
+> Best Waterproof Photo Cases for iPhone iMore 2021 Why stick to shooting on land when you can get some amazing photographs underwater with your iPhone with the best waterproof iPhone cases? Newer iPhones like the iPhone 12 may be more water-resistant, allowing you to take just about any of the best iPhone 12 cases on your watery adventures. But there are always ways to shoot deeper and make those watery snapshots absolute perfection, such as with the best iPhone 12 waterproof cases. Now, these specific cases can take you — and your iPhone — out of your comfort zone and into the deep blue.
+
+
+***
+![How to plot with Python: 8 popular graphs made with pandas, matplotlib, seaborn, and plotly.express](https://external-preview.redd.it/ORi-SpB7h81_D9dnuWUi2vC3w58KSW_5rEM6v9zR92s.jpg?auto=webp&s=d266e2710a448765a7b98157b649c3f066dc63ae "How to plot with Python: 8 popular graphs made with pandas, matplotlib, seaborn, and plotly.express")
+
+
+[How to plot with Python: 8 popular graphs made with pandas, matplotlib, seaborn, and plotly.express](https://www.reddit.com/r/Python/comments/odpc5t/how_to_plot_with_python_8_popular_graphs_made/)
+
+
+> I wrote a tutorial that shows how to make frequently-used graphs with some of Python's most popular data viz libraries. You can find it here.At first, I had it as a Jupyter notebook, which I posted here. I got positive feedback, so I decided to make a more detailed version of it.I hope you find it helpful. Let me know what you think!
+
+
+***
+![Aula 2](https://external-preview.redd.it/oV2_buhs3i_5499cG6SeXvnCrCYDy10D0l3HHN0ln-0.jpg?auto=webp&s=da13f5564523c03cfeca42444aa70e6ff6d773ae "Aula 2")
+
+
+[Aula 2](https://www.reddit.com/r/Python/comments/odp657/aula_2/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![China bans Didi, its biggest ride-hailing service, from app stores](https://external-preview.redd.it/xEQI3thlZKXOEyyl_TlweYwboeGj5x-1Et6RnqGNjPs.jpg?auto=webp&s=a0ac626185d549076c33c875c68a442fdf5697d5 "China bans Didi, its biggest ride-hailing service, from app stores")
+
+
+[China bans Didi, its biggest ride-hailing service, from app stores](https://www.reddit.com/r/technology/comments/odp2bi/china_bans_didi_its_biggest_ridehailing_service/)
+
+
+> "Sunday's ban represents an escalation of China's action against Didi, but it's part of a larger crackdown on Big Tech companies in China."I second the sentiment. This appears to be an arbitrary expression of governmental power over the tech industry. We wouldn't want another "rogue" billionaire that we need to re-educate, now would we?
+
+
+***
+![Code with Alkesh](https://external-preview.redd.it/mW39-2rk1To8PFikejuRxXeIkPBxlHzoCgC23ooTqTQ.jpg?auto=webp&s=39115464df4714942a7a11492c800ce362447ce1 "Code with Alkesh")
+
+
+[Code with Alkesh](https://www.reddit.com/r/programming/comments/odp1q0/code_with_alkesh/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
