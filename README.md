@@ -36130,3 +36130,53 @@
 > Archive linkBy Patrick McGee in San FranciscoA co-ordinated attempt by Chinese tech companies to circumvent Apple's privacy policies has been nipped in the bud, a significant victory for the iPhone-maker in what was seen as a threat to its global privacy push.Tech groups led by Baidu, Tencent and TikTok parent ByteDance had worked with two Beijing-affiliated groups to create a new way of tracking iPhones for advertising, called CAID, that would let them identify users even if they refused to let apps use Apple's official ID, called IDFA.
 
 
+***
+![Best cheap Apple deals and sales for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/apple-macbook-pro-16-ry-14-2.jpg "Best cheap Apple deals and sales for July 2021")
+
+
+[Best cheap Apple deals and sales for July 2021](https://www.digitaltrends.com/dtdeals/best-apple-deals/)
+
+
+> It's no secret that most Apple products don't come cheap, but if you're one of the millions of fans who keeps coming back to this brand's releases year after year, you know they're worth the premium. From its iconic Mac computers to its revolutionary mobile devices, Apple has been a pioneer in the world of tech from the very beginning, and the company's stable of gadgets covers just about everything nowadays. That means that no matter what you're looking for, Apple probably has something that's a good fit.
+
+
+***
+![Best cheap SSD deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/satassd01.jpg "Best cheap SSD deals for July 2021")
+
+
+[Best cheap SSD deals for July 2021](https://www.digitaltrends.com/dtdeals/best-cheap-ssd-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Solid-state drives were cutting-edge technology not even a decade ago, but today, they're not only commonplace but pretty much standard even on cheap laptops (meaning that they're quite affordable nowadays). They also come in all shapes and sizes, from compact 2.5-inch and M.2 internal solid-state drives for your PC to portable SSDs you can tote around in your pocket. That's to say that no matter what your storage needs and budget may be, there's an SSD out there for you, and we've got it right here: Whether you're building or upgrading a computer or you just need a safe place to tuck away your digital treasures, this roundup of the best SSD deals of the shopping holiday has you covered.
+
+
+***
+![Best cheap VPN deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/man-holding-phone-app-vpn-creation-internet-protocols-protection-network.jpg "Best cheap VPN deals for July 2021")
+
+
+[Best cheap VPN deals for July 2021](https://www.digitaltrends.com/dtdeals/best-vpn-deals/)
+
+
+> We use the internet for pretty much everything nowadays, from streaming entertainment to paying bills, and in our digital age, online security and privacy are more pertinent than ever. The easiest (and surprisingly cheapest) way to keep you and your data safe from online threats such as cyber-criminals, intrusive online surveillance, and even annoyances like regional streaming restriction is with a virtual private network, which creates an effective barrier between you and any hostile actors. There are a lot of services to choose from, though, to save you some time and money, we've rounded up the best cheap VPN sales today, along with a quick guide that can answer some of your questions.
+
+
+***
+![The best cheap Razer deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/razer-blade-15-advanced-feature.jpg "The best cheap Razer deals for July 2021")
+
+
+[The best cheap Razer deals for July 2021](https://www.digitaltrends.com/dtdeals/best-cheap-razer-deals/)
+
+
+> From its instantly recognizable green-on-black style to its iconic triskelion logo, it's safe to say that Razer is a true icon in the PC gaming world. As some of the best gaming gear on the market, though, Razer kit doesn't typically come cheap. That said, there are always discounts waiting if you know where to look — and you've just found them. Below, we've rounded up all the best cheap Razer deals available this month PCs and accessories. This list features a few Razer Blade laptops, but if you want to see what other gaming laptop deals are on tap, check out the best Alienware deals.
+
+
+***
+![Best cheap wireless mouse deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/logitech-mx-master-mouse-hero1-2.jpg "Best cheap wireless mouse deals for July 2021")
+
+
+[Best cheap wireless mouse deals for July 2021](https://www.digitaltrends.com/dtdeals/best-wireless-mouse-deals/)
+
+
+> If you spend hours every day working, browsing, or even gaming on a laptop, then you're all too familiar with the frustrations of dealing with a cramped, fussy touchpad. One of the cheapest and easiest ways to enhance your productivity is by complementing your laptop setup a good wireless mouse. You don't need to spend very much here, either, but to help you save a little cash, we've rounded up all the best cheap wireless mouse deals of the month. Our picks cover everything from compact travel mice to wireless gaming mice, so whatever you need, we've got it right here.
+
+
