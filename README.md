@@ -36505,3 +36505,53 @@
 > Centre has informed the Delhi HC that Twitter has failed to comply with the IT Rules, 2021 as on July 1, on four counts: Chief compliance officer not being appointed; the position of the resident grievance officer is vacant; the position of the nodal contact person (even on an interim basis) is vacant; and the physical contact address, which was shown to be there on May 29, is not available on Twitter's website
 
 
+***
+![Lorenz attractor](https://external-preview.redd.it/2R6zkAB2y9we8afWb6AHNr3lIQhblETV9Kl8w6aVC2c.jpg?auto=webp&s=c5cb8c67dc54b6282287808c2af07645b186ddc2 "Lorenz attractor")
+
+
+[Lorenz attractor](https://www.reddit.com/r/Python/comments/oecrs8/lorenz_attractor_butterfly_shape_plot_with/)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Social Media Giants Promise To Boost Online Safety Of Women... Again!](https://im.indiatimes.in/content/2021/Jul/Collage_60e313e9af1be.jpg "Social Media Giants Promise To Boost Online Safety Of Women... Again!")
+
+
+[Social Media Giants Promise To Boost Online Safety Of Women... Again!](https://www.indiatimes.com/technology/news/social-media-online-safety-of-women-544283.html)
+
+
+> Facebook, Google, TikTok and Twitter -- the world's largest tech companies -- have committed to tackle online abuse and harassment women face on their platforms. This pledge follows a year-long advocacy campaign from the World Wide Web Foundation (WWWF), which wrote an open letter to the CEOs of the four companies signed by 212 activists, academics, journalists, and civil society leaders. UnsplashALSO READ: 74% Adults Stalk Their Current Or Former Partner Online, Claims StudyThe WWWF said that the commitment includes offering women more granular control over who can see and interact with their posts as well as bolster the reporting process, allowing users the ability to track and manage their reports.
+
+
+***
+![The best tail-wagging goodies for your canine companion](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/furbo-dog-camera-lifestyle.jpg "The best tail-wagging goodies for your canine companion")
+
+
+[The best tail-wagging goodies for your canine companion](https://www.androidcentral.com/best-dog-gadgets)
+
+
+> Your dog isn't just your trusty companion. He's a full-fledged member of your family. So innocent and so sweet, we truly don't deserve dogs. Isn't it about time you stepped up your game and found new ways to challenge and spoil your four-legged friend? From video cameras to treat tossers to grooming essentials, these are the best dog gadgets of the year. Staff Favorite The Furbo dispenses treats on command via an app, plus it has two-way audio that alerts you when your best friend is barking.
+
+
+***
+![Can Sony take back its crown as the ANC head of the class?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/sony-wf-1000xm4-castle-169.jpg "Can Sony take back its crown as the ANC head of the class?")
+
+
+[Can Sony take back its crown as the ANC head of the class?](https://www.androidcentral.com/sony-wf-1000xm4-vs-bose-noise-canceling-earbuds)
+
+
+> Sony took what was already working so well and made it even better with the WF-1000XM4, which offers the best active noise cancelation (ANC) performance for any pair of wireless earbuds and brings a great combination of features and performance. $278 at Amazon Outstanding ANC performance Stellar sound quality Amazing battery life Wireless charging case with USB-C LDAC and 360 Audio support Solid app support Touch controls need work Smaller ears may not feel comfy Single-bud mode only in right buds Bose really brought it with how the QuietComfort Earbuds deliver some of the best active noise canceling (ANC) performance you can find on any pair of earbuds, but to get there, they had to increase in size, and that makes them bigger than most others.
+
+
+***
+![Samsung Galaxy S20 & More Receive June Security Update In The US](https://www.androidheadlines.com/wp-content/uploads/2020/11/AH-Samsung-logo-new-12.jpg "Samsung Galaxy S20 & More Receive June Security Update In The US")
+
+
+[Samsung Galaxy S20 & More Receive June Security Update In The US](https://www.androidheadlines.com/2021/07/samsung-galaxy-s20-s21-june-update-security-patch.html)
+
+
+> Samsung seems to be continuing its efforts in pushing the June 2021 security update for its devices. Notably, a bunch of devices including the Galaxy S10, S20, S21, Note 10 Series, and others are receiving the June security update in the US.To be specific carriers including AT&T, T-Mobile, Verizon, along with unlocked variants are receiving the security update. Interestingly, Galaxy A series devices which include A10e, A50, and A52 are receiving the update.The unlocked variants of the Galaxy S20 series, S21 series, Note 10 series, Note 20/20 Ultra, Galaxy Z series are also grabbing the June security update.
+
+
