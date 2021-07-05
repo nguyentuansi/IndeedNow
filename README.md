@@ -36274,3 +36274,50 @@
 > File picture: ReutersShare this article:By Raphael SatterWashington - The hackers suspected to be behind a mass ransomware attack that affected hundreds of companies worldwide late on Sunday demanded $70 million (about R997 million) to restore the data, according to a posting on a dark website.The demand was posted on a site typically used by the REvil cybercrime gang, a Russia-linked group that is counted among the cyber criminal world's most prolific extortionists.The gang has an affiliate structure, occasionally making it difficult to determine who speaks on the hackers' behalf, but Allan Liska of cyber security firm Recorded Future said the message "almost certainly" came from REvil's core leadership.
 
 
+***
+[Mark Zuckerberg's Instagram surfboard video goes viral; but the world is trolling him](http://www.pinkvilla.com/tech/news/mark-zuckerberg-s-instagram-surfboard-video-goes-viral-but-the-world-is-trolling-him-800834)
+
+
+> Attach Main technology Image: Image Caption: Mark Zuckerberg's Instagram surfboard video goes viral; but the world is trolling him Social Media Image : Enter the Technology details: It seems Facebook CEO Mark Zuckerberg is having all his good time as he shared a video on his official Instagram showcasing his me time. The video shows Zukerberg on an electric hydrofoil surfboard surfing across the water during a sunset holding the flag of the United States. The video has John Denver's "Take Me Home, Country Roads" playing in the background.
+
+
+***
+![Facebook's inattention to non-English languages is allowing hate speech to flourish](https://assets2.rappler.com/2021/06/2021-06-29T183346Z_277793171_RC2IAO9U4RBQ_RTRMADP_3_FACEBOOK-NEWSLETTER-1625472007838.jpg "Facebook's inattention to non-English languages is allowing hate speech to flourish")
+
+
+[Facebook's inattention to non-English languages is allowing hate speech to flourish](https://www.rappler.com/technology/facebook-inattention-non-english-languages-hate-speech-flourish)
+
+
+> If like many Australian Muslims you have reported hate speech to Facebook and received an automated response saying it doesn't breach the platform's community standards, you are not alone. We and our team are the first Australian social scientists to receive funding through Facebook's content policy research awards, which we used to investigate hate speech on LGBTQI+ community pages in five Asian countries: India, Myanmar, Indonesia, the Philippines and Australia. We looked at three aspects of hate speech regulation in the Asia Pacific region over 18 months.
+
+
+***
+![Acea Innovation Day 2021](https://www.repstatic.it/video/thumb/live/studio1_thumb-full-720.jpg?20210705100519 "Acea Innovation Day 2021")
+
+
+[Acea Innovation Day 2021](https://video.repubblica.it/tecnologia/dossier/innovation-day-acea/acea-innovation-day-2021-costruttori-di-futuro/390930/391646)
+
+
+> No body in the article.
+
+
+***
+![FREE Rust Workshop! Rust is stack overflows favourite programming language for 5 years in a Row! Subscribe to our telegram channel to attend the workshop.](https://external-preview.redd.it/MecB0olHY3YAY2kDKYGcCGMcOzfrA8JZwN0p7Xgpr3c.jpg?auto=webp&s=0064c9454925a98bbd223e8d1144d03892f617ca "FREE Rust Workshop! Rust is stack overflows favourite programming language for 5 years in a Row! Subscribe to our telegram channel to attend the workshop.")
+
+
+[FREE Rust Workshop! Rust is stack overflows favourite programming language for 5 years in a Row! Subscribe to our telegram channel to attend the workshop.](https://www.reddit.com/r/programming/comments/oe2fus/free_rust_workshop_rust_is_stack_overflows/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Effective Kotlin Item 44: Respect the contract of compareTo](https://external-preview.redd.it/1h_cVejLO2lO-ZAFKJwmtMmf5e6ZEtzKfzEivM1tSo8.jpg?auto=webp&s=44b5ea966af1efbb11052b3fa1b886efd9a97260 "Effective Kotlin Item 44: Respect the contract of compareTo")
+
+
+[Effective Kotlin Item 44: Respect the contract of compareTo](https://www.reddit.com/r/programming/comments/oe2c7l/effective_kotlin_item_44_respect_the_contract_of/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
