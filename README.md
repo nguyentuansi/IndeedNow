@@ -36227,3 +36227,50 @@
 > Story highlights Realme 7 Pro is one of the best phones you can get for under Rs 20,000. Right now, the Realme 7 Pro is selling at a Rs 4,000 discount. Realme 7 Pro brings the ultra-fast 65W charging and 64-megapixel cameras. If you are looking for a good smartphone for under Rs 20,000, you can consider the Realme 7 Pro. It is a bit old, but one of the best mid-range phones on the market. Take my word, the phone has an amazing display, works quite fast, and can click some impressive photos. And while all that is a good reason to go for the phone, there is another.
 
 
+***
+![Venu 2 review: can Garmin make a good smartwatch?](https://i.guim.co.uk/img/media/75bce1cd626b62c5148be9ce902ee66c1d5c3ce1/834_817_3696_2217/master/3696.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=eeec45e65932cf4daecc70e101fd12fe "Venu 2 review: can Garmin make a good smartwatch?")
+
+
+[Venu 2 review: can Garmin make a good smartwatch?](http://www.theguardian.com/technology/2021/jul/05/venu-2-review-can-garmin-make-a-good-smartwatch)
+
+
+> Garmin's latest device aims to beat the Apple Watch and rivals at their own game, offering longer battery life and better fitness tracking in a more traditional touchscreen smartwatch body.The Venu 2 comes in either 40mm or 45mm models, costs from £349.99 ($399.99/A$629) and is compatible with both Android and iPhones connecting via Bluetooth.Unlike the majority of Garmin's other watches, which are LCD-based and non-touch, the Venu 2 has a slick-looking OLED touchscreen that compares well with the smartwatch competition.
+
+
+***
+[Nokia G20 quietly launched in India; here are the details of the budget phone](http://www.pinkvilla.com/tech/news/nokia-g20-quietly-launched-in-india-here-are-the-details-of-the-budget-phone-800701)
+
+
+> Attach Main technology Image: Image Caption: Nokia G20 quietly launched in India; here are the details of the budget phone Social Media Image : Enter the Technology details: Back in April this year HDM Global introduced three new smartphones in the Nokia C series including the Nokia C10, Nokia C20, Nokia G10. Alongside, the company had also announced the Nokia G20, Nokia X10, and Nokia X20 handset. However, at the time of the announcement, the company didn't mention anything about the arrival of any of these devices in the Indian market.
+
+
+***
+![OPPO Smartphones on Offer This Month in Kenya](https://techweez.com/wp-content/uploads/2021/02/OPPO-Reno-5-Unboxing-First-Impressions-Review-scaled.jpg "OPPO Smartphones on Offer This Month in Kenya")
+
+
+[OPPO Smartphones on Offer This Month in Kenya](https://techweez.com/2021/07/05/oppo-smartphones-on-offer-kenya/)
+
+
+> OPPO is having its Super Brand Month in July and has discounted some of its smartphones for consumers to purchase either online[Jumia, Kilimall, SkyGarden and Masoko] or at their retail stores countrywide. OPPO smartphones come with a lot of features and they position themselves high in our list of best mid-range smartphones in the country. Here are some of the OPPO smartphones on offer: OPPO Reno 5 – Ksh 41,999 with free Enco W11 earbuds OPPO Reno5 is undeniably better than its predecessor, the OPPO Reno4.
+
+
+***
+![F9 Box Office Speeds Past $500 Million, a Pandemic First for Hollywood](https://i.gadgets360cdn.com/large/f9_500_million_1625464129733.jpg "F9 Box Office Speeds Past $500 Million, a Pandemic First for Hollywood")
+
+
+[F9 Box Office Speeds Past $500 Million, a Pandemic First for Hollywood](https://gadgets.ndtv.com/entertainment/news/fast-furious-9-f9-box-office-usd-500-million-worldwide-collection-hollywood-covid-19-pandemic-first-2479410)
+
+
+> Fast & Furious 9 has now grossed over $500 million (roughly Rs. 3,726 crores) at the worldwide box office, making it the first Hollywood movie to surpass that milestone during the ongoing COVID-19 pandemic. Previously, only three films — Demon Slayer: Mugen Train from Japan, and China's Hi, Mom and Detective Chinatown 3 — all from Asia, have made more than $500 million at the box office as the theatrical world reels from the coronavirus spread. F9 has proven to be the box office saviour that Hollywood has been looking for (sorry, Tenet), which is pushing full steam ahead with Black Widow, Space Jam: A New Legacy, and Jungle Cruise due later in July.
+
+
+***
+![Hackers demand nearly R1bn to restore data held by companies hit in cyber attack](https://image-prod.iol.co.za/resize/650x366/File-picture-Reuters?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/e6433c82-8d58-5f56-abfe-27c3762f1ac4&operation=CROP&offset=0x277&resize=4321x2431 "Hackers demand nearly R1bn to restore data held by companies hit in cyber attack")
+
+
+[Hackers demand nearly R1bn to restore data held by companies hit in cyber attack](https://www.iol.co.za/technology/hackers-demand-nearly-r1bn-to-restore-data-held-by-companies-hit-in-cyber-attack-bee963d6-a059-5c0a-8036-acf97122a811)
+
+
+> File picture: ReutersShare this article:By Raphael SatterWashington - The hackers suspected to be behind a mass ransomware attack that affected hundreds of companies worldwide late on Sunday demanded $70 million (about R997 million) to restore the data, according to a posting on a dark website.The demand was posted on a site typically used by the REvil cybercrime gang, a Russia-linked group that is counted among the cyber criminal world's most prolific extortionists.The gang has an affiliate structure, occasionally making it difficult to determine who speaks on the hackers' behalf, but Allan Liska of cyber security firm Recorded Future said the message "almost certainly" came from REvil's core leadership.
+
+
