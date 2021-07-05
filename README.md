@@ -36458,3 +36458,50 @@
 > July 05, 2021 09:54 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Satellite Machine-to-Machine (M2M) Communications - Global Market Trajectory & Analytics" report has been added to ResearchAndMarkets.com's offering. Global Satellite Machine-to-Machine (M2M) Communications Market to Reach $4.1 Billion by 2026 Amid the COVID-19 crisis, the global market for Satellite Machine-to-Machine (M2M) Communications estimated at US$2 Billion in the year 2020, is projected to reach a revised size of US$4.
 
 
+***
+![Can't decide between the Garmin Forerunner 945 LTE or the 945? Let us help.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/garmin-forerunner-945-lte-1.jpg "Can't decide between the Garmin Forerunner 945 LTE or the 945? Let us help.")
+
+
+[Can't decide between the Garmin Forerunner 945 LTE or the 945? Let us help.](https://www.androidcentral.com/garmin-forerunner-945-lte-vs-945)
+
+
+> The Forerunner 945 LTE takes everything great about the regular 945 and brings the added peace of mind that an always-connected cellular watch can offer. Alert personal contacts or safety personnel if something goes wrong or have friends follow your route virtually. $650 at Walmart LTE means you can share your workouts live Notify emergency contacts at the push of a button Excellent battery life GPS and NFC on wrist Has all of the workout and tracking features of the regular 945 More expensive than the non-LTE version LTE service requires a six-month or annual subscription LTE service doesn't support music streaming or interactive communications The Forerunner 900 series has been the choice for elite runners, cyclists, and triathletes for years, and the 945 was, until recently, the best version yet.
+
+
+***
+![Building The Last City In Project Haven With Code 351](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Project%20Haven%20Title.jpg?itok=gbUB1zOg "Building The Last City In Project Haven With Code 351")
+
+
+[Building The Last City In Project Haven With Code 351](https://techraptor.net/gaming/features/project-haven-code-351-interview)
+
+
+> Stories about what would happen after the apocalypse continue to thrive in the gaming community. Many of them focus on bands of survivors attempting to make a living in the harsh wastelands of the old world. However, some of them follow the idea of humanity being able to recover and build up new cities from whatever they can. In Code 351's Project Haven, you lead a band of mercenaries as they struggle to survive in a city called Haven, the last one on Earth. To better understand the foundation of this project, we spoke to developers Sérgio Gil and Joana Dimas.
+
+
+***
+![Black TikTok Creators Say They're Going on Strike](https://media.breitbart.com/media/2019/09/TikTok-video-app.jpg "Black TikTok Creators Say They're Going on Strike")
+
+
+[Black TikTok Creators Say They're Going on Strike](https://www.breitbart.com/tech/2021/07/05/black-tiktok-creators-say-theyre-going-on-strike/)
+
+
+> Black TikTok choreographers have gone on strike, vowing not to create any new dances on the platform until they get credit for their work. They claim TikTok users of other races have been taking dance moves created by black users, and have apparently gained millions of followers and recognition as a result. The hashtag, 'BlackTikTokStrike' has been viewed more than two million times on TikTok, as black dancers on the social media platform refrain from creating more content, which they believe is being taken by white users who have gotten popular by imitating their moves, according to a report by NPR.
+
+
+***
+![New mystery AWS product 'Infinidash' goes viral — despite being entirely fictional](https://external-preview.redd.it/d5pS9d6-smjUJPZu-P4hVYEcPVR9EiYPtk_LOvjP1CM.jpg?auto=webp&s=21fb251f2d453c713580cefb0dec65596894e452 "New mystery AWS product 'Infinidash' goes viral — despite being entirely fictional")
+
+
+[New mystery AWS product 'Infinidash' goes viral — despite being entirely fictional](https://www.reddit.com/r/programming/comments/oeaas3/new_mystery_aws_product_infinidash_goes_viral/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Twitter losing immunity due to non-compliance of IT Rules: Centre to Delhi HC](https://www.zeebiz.com/technology/news-twitter-losing-immunity-due-to-non-compliance-of-it-rules-centre-to-delhi-hc-159999)
+
+
+> Centre has informed the Delhi HC that Twitter has failed to comply with the IT Rules, 2021 as on July 1, on four counts: Chief compliance officer not being appointed; the position of the resident grievance officer is vacant; the position of the nodal contact person (even on an interim basis) is vacant; and the physical contact address, which was shown to be there on May 29, is not available on Twitter's website
+
+
