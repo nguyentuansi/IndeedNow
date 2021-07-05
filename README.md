@@ -36180,3 +36180,50 @@
 > If you spend hours every day working, browsing, or even gaming on a laptop, then you're all too familiar with the frustrations of dealing with a cramped, fussy touchpad. One of the cheapest and easiest ways to enhance your productivity is by complementing your laptop setup a good wireless mouse. You don't need to spend very much here, either, but to help you save a little cash, we've rounded up all the best cheap wireless mouse deals of the month. Our picks cover everything from compact travel mice to wireless gaming mice, so whatever you need, we've got it right here.
 
 
+***
+[Computing Electronics Market to Show Incredible Growth by 2027 Covid-19 Analysis](https://www.openpr.com/news/2320850/computing-electronics-market-to-show-incredible-growth-by-2027)
+
+
+> Industry analysis, growth development and current trends depicted in the Computing Electronics market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct
+
+
+***
+![View CPF balance, get reminders in updated LifeSG app](https://www.straitstimes.com/s3/files/styles/x_large/public/articles/2021/07/03/hzcpf030721a.jpg?itok=lBb0caGg "View CPF balance, get reminders in updated LifeSG app")
+
+
+[View CPF balance, get reminders in updated LifeSG app](https://www.straitstimes.com/tech/tech-news/view-cpf-balance-get-reminders-in-updated-lifesg-app)
+
+
+> SINGAPORE - New features have been rolled out in the Government's LifeSG mobile application, moving it one step closer to becoming a super app for public services. On Thursday (July 1), the Government Technology Agency (GovTech) added a new "Profile" function to the app that lets users see at a glance some of their personal information from public agencies. For instance, they can view their Central Provident Fund (CPF) balances and their annual income assessable by the Inland Revenue Authority of Singapore for tax filing.
+
+
+***
+![Javascript Best practice for beginners](https://external-preview.redd.it/k6C1VwIPYFBazWLt5Ij7Rnbtg5SplK8GHD7RNtzUp_w.jpg?auto=webp&s=761602fad712e7fd5886278f72f8a2383c3c332d "Javascript Best practice for beginners")
+
+
+[Javascript Best practice for beginners](https://www.reddit.com/r/programming/comments/odzar3/javascript_best_practice_for_beginners/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Apple AirTags review: Find anything, anywhere with style](https://images.indianexpress.com/2021/07/AirTags-FB.jpg "Apple AirTags review: Find anything, anywhere with style")
+
+
+[Apple AirTags review: Find anything, anywhere with style](https://indianexpress.com/article/technology/tech-reviews/apple-airtags-review-7389311/)
+
+
+> The lost and found services of Apple and Android haven't really got their due. But these are conveniences that really use technology to help the user. I have been a beneficiary more than once. The one incident that is top of mind for me was losing my iPhone 4 after a conference in Saigon about a decade back. I had just interviewed someone and had moved to another part of the large hotel when I realised I did not have my phone with me. Then it struck me to use the iPad to see if I could find the phone and it told me it was almost where I was sitting last.
+
+
+***
+![Realme 7 Pro at a Rs 4,000 discount in Realme Days Sale is a deal you should not miss](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/realme_7_pro_1-x675-original.jpeg "Realme 7 Pro at a Rs 4,000 discount in Realme Days Sale is a deal you should not miss")
+
+
+[Realme 7 Pro at a Rs 4,000 discount in Realme Days Sale is a deal you should not miss](https://www.indiatoday.in/technology/news/story/realme-7-pro-at-a-rs-4-000-discount-in-realme-days-sale-is-a-deal-you-should-not-miss-1823901-2021-07-05)
+
+
+> Story highlights Realme 7 Pro is one of the best phones you can get for under Rs 20,000. Right now, the Realme 7 Pro is selling at a Rs 4,000 discount. Realme 7 Pro brings the ultra-fast 65W charging and 64-megapixel cameras. If you are looking for a good smartphone for under Rs 20,000, you can consider the Realme 7 Pro. It is a bit old, but one of the best mid-range phones on the market. Take my word, the phone has an amazing display, works quite fast, and can click some impressive photos. And while all that is a good reason to go for the phone, there is another.
+
+
