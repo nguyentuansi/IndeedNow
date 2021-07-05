@@ -36555,3 +36555,53 @@
 > Samsung seems to be continuing its efforts in pushing the June 2021 security update for its devices. Notably, a bunch of devices including the Galaxy S10, S20, S21, Note 10 Series, and others are receiving the June security update in the US.To be specific carriers including AT&T, T-Mobile, Verizon, along with unlocked variants are receiving the security update. Interestingly, Galaxy A series devices which include A10e, A50, and A52 are receiving the update.The unlocked variants of the Galaxy S20 series, S21 series, Note 10 series, Note 20/20 Ultra, Galaxy Z series are also grabbing the June security update.
 
 
+***
+![How Good Is Apple Watch's Wallet App & Can It Replace The Real Thing?](https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/Apple-Watch-Wallet-replacement.jpg "How Good Is Apple Watch's Wallet App & Can It Replace The Real Thing?")
+
+
+[How Good Is Apple Watch's Wallet App & Can It Replace The Real Thing?](https://screenrant.com/apple-watch-wallet-replace-real-wallet-id-keys-how-explained/)
+
+
+> Apple's Wallet app can be found on several of its devices, but the Apple Watch provides the easiest access since it is literally strapped to the wrist and difficult to forget or lose track of. Some may be wondering just how good Apple's Wallet app is and how much can be done when using only an Apple Watch? While using the Wallet app for payment at retail stores might be well known, it can also display store loyalty cards, student identification, transit passes, with more coming later this year when the iOS 15 and watchOS 8 updates are released.
+
+
+***
+![Code Coverage Considered Harmful](https://external-preview.redd.it/XR6j2OZq0pfZqUSfhls4I0ozg1ky0gUUznVYGUEpcdA.jpg?auto=webp&s=c2624c1ce4a0f4cca94447da647a2e6aaf7a337f "Code Coverage Considered Harmful")
+
+
+[Code Coverage Considered Harmful](https://www.reddit.com/r/programming/comments/oeer6u/code_coverage_considered_harmful/)
+
+
+> View Entire Discussion (1 Comments)
+
+
+***
+![Apple Air Book 2020 Remove Wifi Hardware](https://images.macrumors.com/social/?t=2303324&v=6 "Apple Air Book 2020 Remove Wifi Hardware")
+
+
+[Apple Air Book 2020 Remove Wifi Hardware](https://forums.macrumors.com/threads/apple-air-book-2020-remove-wifi-hardware.2303324/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I have two computers of Apple Mac Book Air 2020 I like to use one for online the other off line. Since upgrading I have not been able to see how I can remove the wifi connection of the hardware. I have searched around for a great deal of time and asked several websites. Does anyone know where it is inside the Airbook 2020. I have seen the brake down of the computer but where is it? Pictures of this would be good.
+
+
+***
+![Add Some Color To Your Life With This $99 Philips Hue Bulb 3-Pack](https://www.androidheadlines.com/wp-content/uploads/2021/03/Philips-Hue.jpeg "Add Some Color To Your Life With This $99 Philips Hue Bulb 3-Pack")
+
+
+[Add Some Color To Your Life With This $99 Philips Hue Bulb 3-Pack](https://www.androidheadlines.com/2021/07/philips-hue-color-bulbs-smart-home-deal-sale-price.html)
+
+
+> Philips Hue bulbs, whether in white or in color, are a great addition to any smart home setup, and right now this 3-pack is on sale for $99. It's a great way to add a little more color to your home, and to your life in general. And best of all is that you can do it for less money right now since Amazon dropped the bulb bundle from its normal $134.99 price.For comparison, Best Buy is still selling this 3-pack of bulbs for the normal cost. So grab this deal while you can and before it goes back up.
+
+
+***
+![What is the electric surfboard Mark Zuckerberg was riding on July 4th?](https://www.thesun.co.uk/wp-content/uploads/2021/07/ad-explainer-mark-electric-copy-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "What is the electric surfboard Mark Zuckerberg was riding on July 4th?")
+
+
+[What is the electric surfboard Mark Zuckerberg was riding on July 4th?](https://www.thesun.co.uk/tech/15500986/what-is-electric-surfboard-mark-zuckerberg-was-riding-july-4th/)
+
+
+> FACEBOOK founder Mark Zuckerberg spent Fourth of July riding in style. While riding an electric surfboard, Zuckerberg posted a video of him on a lake while carrying an American flag. Mark Zuckerberg posted a video of him surfing on July 4, 2021Credit: Instagram/Mark Zuckerberg The Facebook CEO was riding the Foils efoil electric surfboard. "The eFoil uses an advanced lithium-ion battery to power a silent electric motor that's mounted on an all-carbon-fiber hydrofoil," according to the company website.
+
+
