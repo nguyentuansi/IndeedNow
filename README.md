@@ -36605,3 +36605,53 @@
 > FACEBOOK founder Mark Zuckerberg spent Fourth of July riding in style. While riding an electric surfboard, Zuckerberg posted a video of him on a lake while carrying an American flag. Mark Zuckerberg posted a video of him surfing on July 4, 2021Credit: Instagram/Mark Zuckerberg The Facebook CEO was riding the Foils efoil electric surfboard. "The eFoil uses an advanced lithium-ion battery to power a silent electric motor that's mounted on an all-carbon-fiber hydrofoil," according to the company website.
 
 
+***
+![Indonesia Seeks Ban on Fortnite for Anti-Islamic 'Blasphemy'](https://media.breitbart.com/media/2021/07/Screenshot-2021-07-05-164621-e1625518208154.jpg "Indonesia Seeks Ban on Fortnite for Anti-Islamic 'Blasphemy'")
+
+
+[Indonesia Seeks Ban on Fortnite for Anti-Islamic 'Blasphemy'](https://www.breitbart.com/asia/2021/07/05/indonesia-considers-ban-on-fortnite-over-alleged-anti-islamic-cube/)
+
+
+> The government of Muslim-majority Indonesia on Monday called for a ban on the video game Fortnite after allegations that a recent software update allows players to desecrate a cube representing a holy Islamic site. The update to the multiplayer online game, owned by the U.S.-based company Epic Games, Inc., allows users to destroy a cube-like structure that allegedly resembles Islam's holiest site in Mecca, Saudi Arabia, known as the Kaaba, the Indonesian news site Detik.com reported. '[W]e will instruct a team to review and [work on] issuing a ban [on Fortnite],' Indonesia's Tourism and Creative Economy Minister Sandiaga Uno wrote in an official statement issued July 5.
+
+
+***
+![Buy Apple watch s6, or AirPods Max](https://images.macrumors.com/social/?t=2303336&v=6 "Buy Apple watch s6, or AirPods Max")
+
+
+[Buy Apple watch s6, or AirPods Max](https://forums.macrumors.com/threads/buy-apple-watch-s6-or-airpods-max.2303336/)
+
+
+> I really want to enhance my Apple ecosystem, but can´t decide between buying my first Apple watch or a pair of AirPods Max. I have the Airpods pro and i use them all day, so i really want to try out the Max. But the Apple Watch also seem really convenient. So i ask you guys that maybe have both, wich of these do you enjoy the most? Buy the Max and wait for the s7? Or go with the s6 and rethink the Max? Let me know your experience! (Note: i do own a pair of WH3s, but i dont really like the Sonys
+
+
+***
+![Best cheap NordicTrack home fitness and exercise equipment deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/nordictrack-fusion-cst.jpg "Best cheap NordicTrack home fitness and exercise equipment deals for July 2021")
+
+
+[Best cheap NordicTrack home fitness and exercise equipment deals for July 2021](https://www.digitaltrends.com/dtdeals/best-nordictrack-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. NordicTrack fitness equipment continues to be in great demand, and overall the selection is better than ever. NordicTrack deals can be hard to find with the massive increase in people working out at home rather than going to a gym or club. That hasn't stopped them from having some fantastic NordicTrack sales. If you are about to set up your first home gym or upgrade an existing home gym, be sure to check out NordicTrack's cardiovascular and total body workout machines.
+
+
+***
+![Best cheap MacBook deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/macbook-air-2018-review-5879.jpg "Best cheap MacBook deals for July 2021")
+
+
+[Best cheap MacBook deals for July 2021](https://www.digitaltrends.com/computing/best-cheap-macbook-deals/)
+
+
+> There are more brands offering Windows laptops and Chromebooks than you can shake a stick at, but if you're a die-hard Mac person, then there's only one name in the game: MacBook. Apple's iconic laptop remains a strong favorite of millions of creatives, professionals, and regular people around the globe who love the sleek simplicity, great build quality, gorgeous displays, and user-friendly software that these MacOS machines offer. And if you're in that camp and you need a new PC, you're in luck: Below, we've got a hand-picked selection of the best cheap MacBook deals available this week on everything from cheap last-gen models to brand new ones packing the latest M1 CPUs.
+
+
+***
+![Can the MacBook Air perform under heavy workloads in Professional Applications?](https://images.macrumors.com/social/?t=2303334&v=6 "Can the MacBook Air perform under heavy workloads in Professional Applications?")
+
+
+[Can the MacBook Air perform under heavy workloads in Professional Applications?](https://forums.macrumors.com/threads/can-the-macbook-air-perform-under-heavy-workloads-in-professional-applications.2303334/)
+
+
+> Apr 16, 2009 525 167 Inside A Mac Box For both Intel and M1 MacBook Airs, can the MBA perform under heavy workloads for Professional Use? I have a MBA but I only use it for basic use, Journaling, Safari, Games, I never thought to use it for Developing Apps or anything in the professional field just curious to see if MBA's are relied on for professional use uses for CAD, Engineering Softwares, XCode, Photoshop, Heavy 4K Video Editing, ? Last edited: A moment ago
+
+
