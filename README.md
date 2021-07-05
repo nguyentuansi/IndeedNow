@@ -36321,3 +36321,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![From online bookseller to billionaire behemoth: Some of Amazon CEO Jeff Bezos' big moments](https://www.gannett-cdn.com/presto/2021/02/02/USAT/6a69492f-7bdf-4671-9e74-687646a301fe-VPC_BEZOS_RESIGNS_AMAZON_CEO_wide_getty.jpg?crop=1911,1075,x4,y0&width=1911&height=1075&format=pjpg&auto=webp "From online bookseller to billionaire behemoth: Some of Amazon CEO Jeff Bezos' big moments")
+
+
+[From online bookseller to billionaire behemoth: Some of Amazon CEO Jeff Bezos' big moments](https://www.usatoday.com/story/tech/2021/07/05/amazon-ceo-jeff-bezos-leaving-andy-jassy/7847643002/)
+
+
+> Amazon CEO Jeff Bezos stepping down, Andy Jassy to take roleAmazon announced that founder and CEO Jeff Bezos will step down in the summer of 2021, handing off the retail juggernaut to Andy Jassy.Amazon founder and CEO Jeff Bezos is stepping down as head of the world's largest online retailer and transitioning to the role of Executive Chair on Monday.  And it comes on the day Amazon was incorporated in 1994 and forever changed millions of lives."In the Exec Chair role, I intend to focus my energies and attention on new products and early initiatives," Bezos told Amazon employees and investors in an email during the company's annual shareholder meeting in February.
+
+
+***
+![Don't switch between devices: Here's how to run Android apps on Windows and Mac computers](https://www.gannett-cdn.com/presto/2021/06/24/USAT/886e82a7-502a-493d-bcd5-59a2a5bc5f33-windows11-android.jpeg?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200 "Don't switch between devices: Here's how to run Android apps on Windows and Mac computers")
+
+
+[Don't switch between devices: Here's how to run Android apps on Windows and Mac computers](https://www.usatoday.com/story/tech/columnist/saltzman/2021/07/05/android-apps-windows-mac-bluestacks-your-phone-app/7828116002/)
+
+
+> How to shop for a new computerThe choices can be overwhelming: PC vs laptop? Chromebook or Apple? Columnist Marc Saltzman guides shoppers through the computer-buying process.Typing away on a sales report for the boss, you decide to take a well-deserved break from work.Will it be some laughs on TikTok? Sending friends a snap via Snapchat? Playing a game of "Clash with Clans" or "Crash Bandicoot: On the Run"?The problem is, all of these are mobile apps, and your smartphone is lying on a charging mat.
+
+
+***
+![Wemo WiFi smart plug review](https://cdn.mos.cms.futurecdn.net/EncrppDNm39hWSExu46Zx3-1200-80.jpg "Wemo WiFi smart plug review")
+
+
+[Wemo WiFi smart plug review](https://www.techradar.com/reviews/wemo-wifi-smart-plug)
+
+
+> Belkin is a name more familiar with smartphone and computing peripherals, even though it's been manufacturing some of the best smart home devices under the Wemo brand since 2012. The Wemo WiFi smart plug is the brand's latest launch in the smart home space, and has recently been extended to the UK and Europe, after initially only being available in the US. The Wemo WiFi smart plug is a single socket that can be plugged into a power outlet and controlled using Wemo's own app, Apple's Home app or Siri – although those in the US also benefit from Alexa and Google Assistant support.
+
+
+***
+[Any good python projects to start on as a beginner?](https://www.reddit.com/r/Python/comments/oe441b/any_good_python_projects_to_start_on_as_a_beginner/)
+
+
+> Hey guys! I'm currently at the start of my python journey and I've been watching videos about various functions, control flow and lists I was wondering if there is a good python project I can start and apply the knowledge I've already learnt. I'm looking for the basic basic here. And I don't mean hello world lol. I know YouTube is a good place however they just walk you through how to do it so it's just a question of copying and I don't really think that's useful. Any help would be appreciated
+
+
+***
+![Microsoft reportedly hides your LinkedIn profile in China if you mention Tiananmen Square](https://external-preview.redd.it/fe2a9DFVT3fobHb5fDz4hDGoX6IbyPDWoW0fs3VJWkc.jpg?auto=webp&s=c0c4a0904ba3126734cef5b8dc9d80a2feb45dca "Microsoft reportedly hides your LinkedIn profile in China if you mention Tiananmen Square")
+
+
+[Microsoft reportedly hides your LinkedIn profile in China if you mention Tiananmen Square](https://www.reddit.com/r/technology/comments/oe42yw/microsoft_reportedly_hides_your_linkedin_profile/)
+
+
+> I can't help thinking this kind of censorship reaction to any mention of something less positive about the govt is very childish. On the part of the govt in question.
+
+
