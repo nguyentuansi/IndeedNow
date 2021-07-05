@@ -36418,3 +36418,43 @@
 > Bitcoin remains in a period of consolidation at the start of the week, with the price staying within the $33,000 to $36,000 range since the beginning of July.The cryptocurrency dropped in value by around 5 per cent overnight but remains above $34,000 on Monday morning. Other leading cryptocurrencies, including Ethereum (ether), dogecoin, and Cardano (ada) have seen a similar stint of stability in recent days, though current trends suggest price gains could be on their way.The latest crypto market data from analytics firm Glassnode shows that there has been a significant uptick in so-called whale accounts, which is typically a bullish signal.
 
 
+***
+![Foxconn sees a 20% quarterly revenue boost thanks to Apple sales demand](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2014/10/Cook_Foxconn.JPG "Foxconn sees a 20% quarterly revenue boost thanks to Apple sales demand")
+
+
+[Foxconn sees a 20% quarterly revenue boost thanks to Apple sales demand](https://www.imore.com/foxconn-sees-20-quarterly-revenue-boost-thanks-apple-sales-demand)
+
+
+> Source: Apple Apple iPhone assembler Foxconn — also known as Hon Hai Precision — has announced bumper quarterly revenue with a 20% jump, according to a new report. It's thought that strong pandemic demand for Apple and other electronics is behind the boost. According to a report by Bloomberg and Yahoo! Finance, revenue for the second quarter through June rose "to NT$1.36 trillion ($48.7 billion), the Taiwanese manufacturer reported, versus estimates for NT$1.34 trillion." Strong demand for iPhones is thought to have had an impact.
+
+
+***
+![Core Balance Massage Gun](https://cdn.mos.cms.futurecdn.net/QJMgkSY8T7EeW5Veu4cESX-1200-80.jpg "Core Balance Massage Gun")
+
+
+[Core Balance Massage Gun](https://www.techradar.com/reviews/core-balance-massage-gun)
+
+
+> Core Balance Massage Gun dealsMuscle pain is a common problem that doesn't just affect fitness fans that might have overdone it while out on a run or down at the gym. Muscle aches, pains and general fatigue can be a problem for anyone, which is where a device like this comes in. The Core Balance Massage Gun is an affordable, entry-level ‘gun' style gadget that comes with a selection of interchangeable heads designed to tackle the issue.It's a self-contained handheld gizmo that packs a surprisingly potent amount of power from its rechargeable built-in battery.
+
+
+***
+![Best waterproof speakers 2021: the top outdoor speakers for any budget](https://cdn.mos.cms.futurecdn.net/4gyrBgazHn9VWNRc69tc38-1200-80.jpg "Best waterproof speakers 2021: the top outdoor speakers for any budget")
+
+
+[Best waterproof speakers 2021: the top outdoor speakers for any budget](https://www.techradar.com/news/best-waterproof-speaker)
+
+
+> If you're looking best waterproof speakers you can buy in 2021, you've come to the right place. Whether you're headed to a campsite or need something to play your music as you relax by the pool, these outdoor speakers are durable, ready to take on the elements, and still sound refined in spite of their rugged appearances.So, why by a waterproof speaker as opposed to a regular portable speaker? Well, not all Bluetooth speakers are durable enough to stop splashes, swims, rain, or puddles messing with the circuitry – and your fun.
+
+
+***
+![$4.1 Billion Satellite Machine-to-Machine (M2M) Communications Markets](https://mms.businesswire.com/media/20210705005186/en/371054/23/ResearchAndMarkets_800px.jpg "$4.1 Billion Satellite Machine-to-Machine (M2M) Communications Markets")
+
+
+[$4.1 Billion Satellite Machine-to-Machine (M2M) Communications Markets](https://www.businesswire.com/news/home/20210705005186/en/4.1-Billion-Satellite-Machine-to-Machine-M2M-Communications-Markets---Global-Trajectory-Analytics-to-2026---ResearchAndMarkets.com)
+
+
+> July 05, 2021 09:54 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Satellite Machine-to-Machine (M2M) Communications - Global Market Trajectory & Analytics" report has been added to ResearchAndMarkets.com's offering. Global Satellite Machine-to-Machine (M2M) Communications Market to Reach $4.1 Billion by 2026 Amid the COVID-19 crisis, the global market for Satellite Machine-to-Machine (M2M) Communications estimated at US$2 Billion in the year 2020, is projected to reach a revised size of US$4.
+
+
