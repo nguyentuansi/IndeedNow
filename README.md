@@ -36368,3 +36368,53 @@
 > I can't help thinking this kind of censorship reaction to any mention of something less positive about the govt is very childish. On the part of the govt in question.
 
 
+***
+![Netflix could charge you even MORE to avoid ‘ads in TV shows and movies', insider claims](https://www.thesun.co.uk/wp-content/uploads/2021/07/NINTCHDBPICT000654249786.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Netflix could charge you even MORE to avoid ‘ads in TV shows and movies', insider claims")
+
+
+[Netflix could charge you even MORE to avoid ‘ads in TV shows and movies', insider claims](https://www.thesun.co.uk/tech/15495396/netflix-adverts-subscription-fee-rise-analyst/)
+
+
+> A NETFLIX expert thinks the platform might need to offer a lower priced option that features adverts if it wants to compete with rivals. That would means users who don't want ads in their movies and TV shows would have to pay for a more expensive subscription. A Netflix analyst thinks the streaming service will need to include ads for some customersCredit: AP Analyst Michael Nathanson of MoffettNathanson Research sent a note to his clients explaining that Netflix may have to offer a subsidised ad subscription.
+
+
+***
+![These helpful travel sites help you find the cheapest airfares and the best things to do in any city](https://www.wvnstv.com/wp-content/uploads/sites/76/2021/07/GettyImages-1256316318.jpg?w=1280 "These helpful travel sites help you find the cheapest airfares and the best things to do in any city")
+
+
+[These helpful travel sites help you find the cheapest airfares and the best things to do in any city](https://ktla.com/morning-news/technology/best-travel-sites-cheap-fares-best-activities-things-to-do-richontech/)
+
+
+> (KTLA) – So many travel plans were put on hold over the past year and a half, and that is making this summer a popular time to get away. Here are the travel sites you can rely on for everything from the cheapest flights to the best activities in every city. TripIt By far, this was the most popular travel tool cited in my informal Twitter poll. TripIt creates an entire itinerary of your trip by automatically importing booking confirmation from your email. Basic functionally is free, but to really get the most use out of TripIt, you'll want to go Pro for $49 a year.
+
+
+***
+![The Station: Bird has drama in San Francisco, drone delivery startup Zipline raises $250M – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/05/202205HH1017-1.jpg?w=526 "The Station: Bird has drama in San Francisco, drone delivery startup Zipline raises $250M – TechCrunch")
+
+
+[The Station: Bird has drama in San Francisco, drone delivery startup Zipline raises $250M – TechCrunch](https://techcrunch.com/2021/07/05/the-station-bird-has-dramas-in-san-francisco-drone-delivery-startup-zipline-raises-250m/)
+
+
+> The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox.Happy 4th of July! For those of you who are actually checking your emails today while getting some sun at an overcrowded beach or diligently grilling hot dogs, welcome back to The Station, a weekly newsletter dedicated to all the ways people and packages move (today and in the future) from Point A to Point B.Kirsten Korosec, your usual host, is off enjoying the great American outdoors, so please enjoy this takeover all the way from Auckland, New Zealand! Despite the winter chill down under and my singularity as an American on this island, I'm feeling particularly patriotic today.
+
+
+***
+![How to download the WatchOS 8 public beta](https://icdn.digitaltrends.com/image/digitaltrends/apple-watch-series-6-ecg-2.jpg "How to download the WatchOS 8 public beta")
+
+
+[How to download the WatchOS 8 public beta](https://www.digitaltrends.com/mobile/how-to-download-watchos-8/)
+
+
+> Apple's WatchOS 8 public beta 1 is now live, and Apple is letting its Beta Software Program testers preview WatchOS 8 and its updates ahead of the official release this fall. If you're a risk-taker or have an older second watch and iPhone to use, here's how you can get the pre-release WatchOS onto your wrist. If you want to try out the pre-release WatchOS 8, you'll also need the iOS 15 public beta on your iPhone. The new WatchOS 8 was first unveiled at WWDC in June, and while Apple immediately implemented a series of beta releases for developers, now these new features are available for members of a public beta program.
+
+
+***
+![Crypto ‘whales' aggressively buy bitcoin – follow live](https://static.independent.co.uk/s3fs-public/thumbnails/image/2021/05/13/19/bitcoin-price-live-ethereum-dogecoin.jpeg?width=1200&auto=webp&quality=75 "Crypto ‘whales' aggressively buy bitcoin – follow live")
+
+
+[Crypto ‘whales' aggressively buy bitcoin – follow live](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-latest-buy-btc-ethereum-b1878208.html)
+
+
+> Bitcoin remains in a period of consolidation at the start of the week, with the price staying within the $33,000 to $36,000 range since the beginning of July.The cryptocurrency dropped in value by around 5 per cent overnight but remains above $34,000 on Monday morning. Other leading cryptocurrencies, including Ethereum (ether), dogecoin, and Cardano (ada) have seen a similar stint of stability in recent days, though current trends suggest price gains could be on their way.The latest crypto market data from analytics firm Glassnode shows that there has been a significant uptick in so-called whale accounts, which is typically a bullish signal.
+
+
