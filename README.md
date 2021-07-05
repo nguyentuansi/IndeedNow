@@ -36080,3 +36080,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Frosty mornings and freezing nights, when NSW cold snap will end](https://images.perthnow.com.au/publication/C-3311792/4abea87257b17a05dbf7956acea838f5f8bccafa-16x9-x0y8w1011h569.jpg?imwidth=1200 "Frosty mornings and freezing nights, when NSW cold snap will end")
+
+
+[Frosty mornings and freezing nights, when NSW cold snap will end](https://www.news.com.au/technology/environment/frosty-mornings-and-freezing-nights-when-nsw-cold-snap-will-end/news-story/68441594f6143104733c207b47ba26de)
+
+
+> A cold blast is sweeping across inland NSW with temperatures plummeting into negative territory in some parts.Overnight lows of -3C are expected in Orange in the coming days, with similar temperatures forecast for Mudgee.In Sydney temperatures will dip to 6C overnight on Monday and Wednesday, with the cold snap to last well into Thursday.'It's chilly. Until Thursday it will be colder than average with morning frost and fog for inland NSW,' the Bureau of Meteorology said.It will be sunny on the coast and cloudy in inland areas.
+
+
+***
+![Software-Defined Networks Help Enterprises in Australia Respond to COVID-19, Launch Digital Transformations](https://mms.businesswire.com/media/20210704005007/en/1016900/23/ISG_%28R%29_Logo.jpg "Software-Defined Networks Help Enterprises in Australia Respond to COVID-19, Launch Digital Transformations")
+
+
+[Software-Defined Networks Help Enterprises in Australia Respond to COVID-19, Launch Digital Transformations](https://www.businesswire.com/news/home/20210704005007/en/Software-Defined-Networks-Help-Enterprises-in-Australia-Respond-to-COVID-19-Launch-Digital-Transformations)
+
+
+> July 04, 2021 08:00 PM Eastern Daylight Time SYDNEY--(BUSINESS WIRE)--Australian enterprises have stepped up their adoption of software-defined networking (SDN) in response to changes in work and customer behavior caused by the COVID-19 pandemic, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2021 ISG Provider Lens™ Network – Software Defined Solutions and Services report for Australia finds enterprises here are deploying SDN technologies as part of broader digital transformations to increase their agility, flexibility and competitiveness.
+
+
+***
+![MBP 2017 testing for resell](https://images.macrumors.com/social/?t=2303245&v=6 "MBP 2017 testing for resell")
+
+
+[MBP 2017 testing for resell](https://forums.macrumors.com/threads/mbp-2017-testing-for-resell.2303245/)
+
+
+> Hello everyone! Intro: (SKIP if not interested in the background story lol). I'm new to the forum so sorry if I'm posting this question on the wrong subform (or even website). I have a MacBook Pro 2017 (function keys, 2 cores/4 threads base model with a 256gb SSD) which I need to sell. I need a laptop with much more computing power and it has to run Windows because of work. I see a more powerful MBP as a bad option given the prices of used MBPs and the fact that mobile ryzen chips are so much more competitive than Intel's, and bc I've loved using my Desktop Ryzen 3600 for more than a year now.
+
+
+***
+![Colossal Cave adventure twitter bot in python](https://external-preview.redd.it/iO-AC5oNbpUPzwpFzP9pLcoOXYNqQn76odWiGzYiCTk.jpg?auto=webp&s=d5cc1f0e4df7f7866a2a48927a5ebae5e2a4d69f "Colossal Cave adventure twitter bot in python")
+
+
+[Colossal Cave adventure twitter bot in python](https://www.reddit.com/r/Python/comments/odvrhd/colossal_cave_adventure_twitter_bot_in_python/)
+
+
+> I was inspired by listening to Brandon Rhodes talk about his port of the original Colossal Cave adventure from Fortran to python on Test & Code #151 podcast so I used Brandon's code to create a python twitter bot that plays the Colossal Cave adventure. Just @ mention the bot and it will start a new game for you--just reply to play. Source code on github and I used Oracle Cloud's free tier to host the bot in a Docker container. One fun aspect of how this is implemented is that every tweet from the bot is a separate fork of the game.
+
+
+***
+![Apple wins privacy battle in China](https://external-preview.redd.it/I1hzFDC-PAD12VYXIeSCK4sm8WT2qQzUHR6aA2sWGDQ.jpg?auto=webp&s=61482567479047f3c181c800ae94e340a81eebc6 "Apple wins privacy battle in China")
+
+
+[Apple wins privacy battle in China](https://www.reddit.com/r/technology/comments/odvr28/apple_wins_privacy_battle_in_china/)
+
+
+> Archive linkBy Patrick McGee in San FranciscoA co-ordinated attempt by Chinese tech companies to circumvent Apple's privacy policies has been nipped in the bud, a significant victory for the iPhone-maker in what was seen as a threat to its global privacy push.Tech groups led by Baidu, Tencent and TikTok parent ByteDance had worked with two Beijing-affiliated groups to create a new way of tracking iPhones for advertising, called CAID, that would let them identify users even if they refused to let apps use Apple's official ID, called IDFA.
+
+
