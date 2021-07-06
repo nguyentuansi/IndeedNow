@@ -36655,3 +36655,43 @@
 > Apr 16, 2009 525 167 Inside A Mac Box For both Intel and M1 MacBook Airs, can the MBA perform under heavy workloads for Professional Use? I have a MBA but I only use it for basic use, Journaling, Safari, Games, I never thought to use it for Developing Apps or anything in the professional field just curious to see if MBA's are relied on for professional use uses for CAD, Engineering Softwares, XCode, Photoshop, Heavy 4K Video Editing, ? Last edited: A moment ago
 
 
+***
+![Wild new supercars on the way](https://content.api.news/v3/images/bin/8e9bac4fd13594a850d3cf88d738ec48 "Wild new supercars on the way")
+
+
+[Wild new supercars on the way](https://www.news.com.au/technology/motoring/motoring-news/bugatti-and-rimac-join-forces-to-build-new-supercars/news-story/8a4664c46b08302dd65f5b918af0725a)
+
+
+> There is a changing of the guard in the supercar world as a new joint venture joins the old and the new to make some unbelievable new cars.Two of the world's wildest supercar makers have officially joined forces.The old world motoring establishment has crashed into the new world order with the partnership between the 110-year-old Bugatti and the 10-year-old Rimac.Bugatti is well known for making some of the most expensive and fastest supercars in the world.Rimac is a new Croatia-based electric supercar upstart best known for building the Concept_One.
+
+
+***
+![Kumho Petrochemical undergoes third-generation succession](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/84838ff8b2bf410cb975fa61cb998405.jpg "Kumho Petrochemical undergoes third-generation succession")
+
+
+[Kumho Petrochemical undergoes third-generation succession](https://www.koreatimes.co.kr/www/tech/2021/07/515_311667.html)
+
+
+> By Kim Hyun-binKumho Petrochemical may be starting to undergo a generational succession after Group Chairman Park Chan-koo stepped down from his positions as CEO and board member of the group's core affiliate. Industry watchers believe a succession is starting to take place as the chairman's children are moving swiftly up the ranks within the conglomerate. However, there is a key obstacle standing in the way of the transition: although shareholders have backed the chairman to maintain management control, his nephew, Park Chul-wan, led the so-called "nephew's revolt" earlier this year.
+
+
+***
+![Korea, Israel to speed up joint research projects](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/71adc7c72e6743d5b29c6689f6f0db7d.jpg "Korea, Israel to speed up joint research projects")
+
+
+[Korea, Israel to speed up joint research projects](https://www.koreatimes.co.kr/www/tech/2021/07/133_311661.html)
+
+
+> gettyimagesbankSouth Korea and Israel said Monday they plan to speed up joint research and development (R&D) projects to cope with the changing business environment amid the COVID-19 pandemic.The announcement came after the two countries announced earlier this year that they will increase contributions to the Korea-Israel Industrial R&D Foundation. The foundation kicked off in 2001 to promote bilateral technology exchanges.In May, South Korea and Israel vowed to each disburse $4 million annually for the foundation, which is double the previous annual budget of $2 million.
+
+
+***
+![Cyber ​​attacks increased 340% in the video game industry](http://www.tellerreport.com/images/no-image.png "Cyber ​​attacks increased 340% in the video game industry")
+
+
+[Cyber ​​attacks increased 340% in the video game industry](https://www.tellerreport.com/tech/2021-07-06-cyber-​​attacks-increased-340%-in-the-video-game-industry.ryZeGpM-ad.html)
+
+
+> Around 240 million hacking actions have been recorded in one year The growing world of video games is whetting the appetites of cybercriminals. In April 2020, 24 million players were registered as online on the Steam platform, according to a report made public by the specialized site Akamai, which explains that players and players in the sector are increasingly victims of attacks. Nearly 240 million hacking actions have been recorded in one year. Compared to th The growing world of video games is whetting the appetites of cybercriminals.
+
+
