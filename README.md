@@ -37127,3 +37127,53 @@
 > (Image credit: Shutterstock) Configuring security for internal organization identities and devices is about to get a whole lot easier in Microsoft Defender for Identity as the company plans to add a new step-by-step guide to its cloud-based security solution.According to a new post in the Microsoft 365 roadmap, the software giant will be adding a new step-by-step guide to Microsoft Defender for Identity this month.The guide will verify that organizations have satisfied all environment prerequisites and from there it will help them create a Defender for Identity instance, connect to Active Directory and install their sensor.
 
 
+***
+![Carl Pei's Nothing Earbuds Will Undercut AirPods With ANC For Just $99](https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/Carl-Peis-Nothing-Ear-1.jpg "Carl Pei's Nothing Earbuds Will Undercut AirPods With ANC For Just $99")
+
+
+[Carl Pei's Nothing Earbuds Will Undercut AirPods With ANC For Just $99](https://screenrant.com/nothing-ear-1-earbuds-price-features-carl-pei/)
+
+
+> Nothing plans to release its first pair of earbuds aimed at disrupting the market soon, bringing ANC and high-end features for only $99. This week, Carl Pei revealed that Nothing's Ear (1) earbuds will offer active noise cancellation (ANC) and will be priced at just $99. The Nothing brand is already generating a lot of excitement and mystery, and plans to bring something exceptional that focuses on function and breaking the barriers between humans and technology. The new earbuds are expected to be the first product to showcase the company's approach.
+
+
+***
+![I need help with selenium](https://external-preview.redd.it/JmO1BzSakDksUelcF8ukMP8NBEcjrFtWlKDzy58NbUU.jpg?auto=webp&s=efebfb5622f3f4fdd960d87196d36fa8f047a618 "I need help with selenium")
+
+
+[I need help with selenium](https://www.reddit.com/r/Python/comments/of2ltk/i_need_help_with_selenium/)
+
+
+> I am trying to develop an auto-login bot for a specific site (https://www.zalando.it/), but it recognizes the bot. Do you have any tips to give me? I have already tried to change the user agent but maybe.
+
+
+***
+![Shopify expands ecommerce hosting across the globe](https://cdn.mos.cms.futurecdn.net/thCrYJb5sQjjDSZs2qZArk-1200-80.jpg "Shopify expands ecommerce hosting across the globe")
+
+
+[Shopify expands ecommerce hosting across the globe](https://www.techradar.com/news/shopify-expands-ecommerce-hosting-across-the-globe)
+
+
+> (Image credit: Shopify) At its Unite 2021 merchants conference, not only did Shopify unveil its vision for the future of ecommerce but the company also announced its largest set of platform investments to date.The ecommerce giant scales with merchants at every stage of their business as it believes a merchant should never have to replatform to achieve their desired tech stack, business logic or buyer experience. For this reason, Shopify has decided to further invest into API-powered storefronts so that developers can quickly unlock its feature-rich platform.
+
+
+***
+![Graphene tech: Fighting the pandemic with smart tech](https://images.financialexpress.com/2021/07/1-67.jpg "Graphene tech: Fighting the pandemic with smart tech")
+
+
+[Graphene tech: Fighting the pandemic with smart tech](https://www.financialexpress.com/industry/technology/graphene-tech-fighting-the-pandemic-with-smart-tech/2285102/)
+
+
+> By: Sudhir Chowdhary | July 07, 2021 1:15 AMNot only this, graphene is used as an additive in many industries such as consumer electronics, sensors, water filtration, textile, rubber and tyres, polymers, oil and many more.'GRAPHENE, the wonder material of the 21st century, is generating a lot of excitement in the scientific community and industry circles. This niche material gives an extremely versatile advantage to almost every industry ranging from manufacturing aircraft to making medical sensors, from the filtration membranes for air and water to providing strong antimicrobial properties for textiles.
+
+
+***
+![How To Make $1,000,000 With C++ (No, REALLY!)](https://external-preview.redd.it/8g7EfyUZd80atKUxpoVM6-PrpP4jA7xYyFVlMCFl1uU.jpg?auto=webp&s=d072ab40814b3531ad7b474ebf5e5bdaded41b3b "How To Make $1,000,000 With C++ (No, REALLY!)")
+
+
+[How To Make $1,000,000 With C++ (No, REALLY!)](https://www.reddit.com/r/programming/comments/of2h83/how_to_make_1000000_with_c_no_really/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
