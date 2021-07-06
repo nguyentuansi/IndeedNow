@@ -36789,3 +36789,50 @@
 > AMD Radeon RX 6800 (Image credit: AMD) Where to buy the AMD Radeon RX 6800 is an easier question to answer for UK customers than US ones. Production issues that GPU manufacturers have been experiencing since 2020 are still happening, and US retailers – even major ones like Amazon and Best Buy – are still having a hard time restocking it. Even when stock for the Radeon RX 6800 does turn up, it's snatched up right away because of high demand.UK customers, however, have some options – although they are much more than this high-end graphics card's list or suggested retail price.
 
 
+***
+[Laptops are coming to students in SLCC prison education program](https://www.sltrib.com/amplify-utah/2021/07/06/laptops-are-coming/)
+
+
+> No body in the article.
+
+
+***
+![Tech giants warn changes to Hong Kong privacy laws may see them exit the market](https://www.zdnet.com/a/hub/i/r/2017/06/13/5c8baa3d-c8ba-46ae-a96b-1f4e33a007ea/thumbnail/770x578/e16d21fe7bae9beafd98bfb0e778936b/hongkongskyscrapers.jpg "Tech giants warn changes to Hong Kong privacy laws may see them exit the market")
+
+
+[Tech giants warn changes to Hong Kong privacy laws may see them exit the market](https://www.zdnet.com/article/tech-giants-warn-changes-to-hong-kong-privacy-laws-may-see-them-exit-the-market/)
+
+
+> Image: Estial Photography An Asian industry group that includes Apple, Facebook, Google, LinkedIn, and Twitter has warned that tech companies could stop offering their services in Hong Kong if it continued ahead with plans to change privacy and doxxing laws.The group, Asia Internet Coalition (AIC), sent the letter over the weekend. First reported by the Wall Street Journal, the companies jointly said in the letter they were concerned with the proposed law changes, which seek to address doxxing, as the amendments could potentially have an overly broad interpretation whereby even innocent acts of sharing of information online could be deemed unlawful.
+
+
+***
+![Watch these astronauts score firsts on China's new space station](https://icdn.digitaltrends.com/image/digitaltrends/china-spacewalk-tianhe.jpg "Watch these astronauts score firsts on China's new space station")
+
+
+[Watch these astronauts score firsts on China's new space station](https://www.digitaltrends.com/news/chinese-astronauts-score-firsts-on-new-space-station/)
+
+
+> Just a couple of weeks after arriving at China's new space station, two astronauts have performed the first spacewalk at the orbiting outpost. Sunday's extravehicular activity (EVA), as spacewalks are officially known, was also the first to be performed as a pair by Chinese astronauts, as its only other spacewalk in 2008 involved a single crew member. A video clip of the EVA shows astronaut Liu Boming working on the exterior of the space station as the second astronaut, Tang Hongbo, emerges from the hatch of the core Tianhe module.
+
+
+***
+![#TECH: It's all about consumer demands at CLLA demo day](https://assets.nst.com.my/images/articles/BOTScyberpitch_NSTfield_image_socialmedia.var_1625550290.jpg "#TECH: It's all about consumer demands at CLLA demo day")
+
+
+[#TECH: It's all about consumer demands at CLLA demo day](https://www.nst.com.my/lifestyle/bots/2021/07/705579/tech-its-all-about-consumer-demands-clla-demo-day)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Battlegrounds Mobile India Players Get 3 Extra Days to Transfer PUBG Data](https://i.gadgets360cdn.com/large/BGMI_official_release_1625203511238.jpg "Battlegrounds Mobile India Players Get 3 Extra Days to Transfer PUBG Data")
+
+
+[Battlegrounds Mobile India Players Get 3 Extra Days to Transfer PUBG Data](https://gadgets.ndtv.com/games/news/battlegrounds-mobile-india-pubg-data-transfer-temporary-shutdown-date-change-extend-pushed-july-9-6-krafton-2480220)
+
+
+> Battlegrounds Mobile India will postpone the temporary shutdown of its PUBG Mobile data transfer service to July 9, developer Krafton has announced. Last week, the company announced players will be temporarily unable to transfer their data over from PUBG Mobile to Battlegrounds Mobile India starting July 6 until further notice. Data transfer lets gamers who played PUBG Mobile carry forward their data including achievements, currency, inventory, and more to Battlegrounds Mobile India so that they don't lose all the progress they have made.
+
+
