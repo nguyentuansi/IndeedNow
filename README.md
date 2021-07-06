@@ -36936,3 +36936,50 @@
 > Good Evening everyone,Love Learning, Just found some of the top courses to learn programming on Udemy. Some of the instructors are giving 100% off coupons due to the quarantine. Grabbed most of them from r/FreeUdemyCoupons and some from the Facebook group. Might help some of you out. Let's learn togetherOnce you enrol on this course you can get lifetime updates
 
 
+***
+![Shock Instagram law will JAIL influencers for secretly editing their lips, boobs and muscles to look better](https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/COMP-PC-PHOTOSHOP-FAIL-.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Shock Instagram law will JAIL influencers for secretly editing their lips, boobs and muscles to look better")
+
+
+[Shock Instagram law will JAIL influencers for secretly editing their lips, boobs and muscles to look better](https://www.the-sun.com/lifestyle/tech/3227520/instagram-law-influencers-editing-photos-prison-norway/)
+
+
+> INSTAGRAM influencers who don't clearly state if they've edited photos which are advertisements could be fined or imprisoned in Norway due to a new law. The law also applies to ad posts on other social media platforms like Facebook, TikTok, Twitter and Snapchat. Influencer are often getting called out for seemingly changing their body shape onlineCredit: Instagram In Norway, advertisers and influencers paid by advertisers will have to clearly label Instagram posts if they've been retouched. This is according to regulations passed as an amendment to Norway's Marketing Act.
+
+
+***
+![Remote screen access: MacPro5,1 ->M1 iMac](https://images.macrumors.com/social/?t=2303402&v=6 "Remote screen access: MacPro5,1 ->M1 iMac")
+
+
+[Remote screen access: MacPro5,1 ->M1 iMac](https://forums.macrumors.com/threads/remote-screen-access-macpro5-1-m1-imac.2303402/)
+
+
+> G'day, "Out of the box", can you use "Screen Sharing" between an older Mac (ie MacPro5,1 running Sierra) and a M1 iMac (running - whatever it ships with)? My father has finally agreed that yes, he does need a new computer (2008 iMac, with 1 dead backlight and a few other issues), but has now missed out on the chance to buy a discontinued iMac - so going to have to be a M1 machine (cos I can't be bothered tried to find a good 2nd hand machine on eBay). One of the main issues we've had was the loss of Screen Sharing.
+
+
+***
+![Best cheap dash cam deals for July 2021: Vantrue, Garmin, Anker, and more](https://icdn.digitaltrends.com/image/digitaltrends/rexing-v1-dash-cam.jpg "Best cheap dash cam deals for July 2021: Vantrue, Garmin, Anker, and more")
+
+
+[Best cheap dash cam deals for July 2021: Vantrue, Garmin, Anker, and more](https://www.digitaltrends.com/dtdeals/best-cheap-dash-cam-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. A good dash cam is a sound investment if you spend a lot of time in your car, especially if you can find a deal. Dash cameras can continuously record what's going on in front of you while you drive. Some models also record what's going on behind you or even inside your vehicle. A dash cams can be a godsend in the event of an accident, producing evidence for you and your insurance company in the event of an accident. If you're a rideshare driver, a dash cam is an equally important accessory.
+
+
+***
+[How I was let go for refusing to deploy a dark pattern](https://www.reddit.com/r/programming/comments/oethug/how_i_was_let_go_for_refusing_to_deploy_a_dark/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Nothing's first wireless earbuds will offer ANC for just $99](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/nothing-ear-1.jpg "Nothing's first wireless earbuds will offer ANC for just $99")
+
+
+[Nothing's first wireless earbuds will offer ANC for just $99](https://www.androidcentral.com/nothings-first-wireless-earbuds-will-offer-anc-just-99)
+
+
+> Source: Nothing Nothing has revealed that its first true wireless earbuds will cost just $99. Despite carrying a relatively low price tag, the earbuds will come with active noise cancellation. The earbuds are set to be unveiled at a virtual launch event on July 27. Carl Pei's Nothing announced last week that its first wireless earbuds would debut at an event on July 27 at 9 AM ET. Ahead of the product's global launch, the company has revealed that the Ear 1 will be priced at just $99.
+
+
