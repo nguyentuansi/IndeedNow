@@ -36695,3 +36695,47 @@
 > Around 240 million hacking actions have been recorded in one year The growing world of video games is whetting the appetites of cybercriminals. In April 2020, 24 million players were registered as online on the Steam platform, according to a report made public by the specialized site Akamai, which explains that players and players in the sector are increasingly victims of attacks. Nearly 240 million hacking actions have been recorded in one year. Compared to th The growing world of video games is whetting the appetites of cybercriminals.
 
 
+***
+![Amazon begins new chapter as Bezos hands over CEO role](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/8480ead442fc484d90917b17fa747152.jpg "Amazon begins new chapter as Bezos hands over CEO role")
+
+
+[Amazon begins new chapter as Bezos hands over CEO role](https://www.koreatimes.co.kr/www/tech/2021/07/133_311687.html)
+
+
+> In In this June 6, 2019, file photo, Amazon CEO Jeff Bezos speaks at the Amazon re:MARS convention in Las Vegas. The Amazon founder officially stepped down as CEO on July 5, handing over the reins as the company navigates the challenges of a world fighting to emerge from the coronavirus pandemic. AP-YonhapAmazon founder Jeff Bezos stepped down as CEO on Monday, handing over the reins as the company navigates the challenges of a world fighting to emerge from the coronavirus pandemic.Andy Jassy, who ran Amazon's cloud-computing business, replaced Bezos, a change the company announced in February.
+
+
+***
+![Dyson hair dryer now creates ‘SALON style hair' with NEW physics trick](https://www.thesun.co.uk/wp-content/uploads/2021/07/dyson-01.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Dyson hair dryer now creates ‘SALON style hair' with NEW physics trick")
+
+
+[Dyson hair dryer now creates ‘SALON style hair' with NEW physics trick](https://www.thesun.co.uk/tech/15497075/dyson-supersonic-hair-dryer-flyaway-attachment-coanda-effect-buy/)
+
+
+> DYSON is offering a NEW attachment with its Supersonic hair dryer for "salon-style hair". The British gadget firm reckons it can give your locks "professional" smoothness – without extreme heat. Dyson has created a brand new Supersonic Hair Dryer attachmentCredit: Dyson Usually when you wash and dry your hair at home, you end up with flyaways. Those are the little bits of hair that fly away from your head – creating a frazzled, bushy look. Now Dyson has created a new Flyaway Attachment for its Supersonic hair dryer that solves this with a brilliant quirk of physics.
+
+
+***
+[Help with modify text in zipped file](https://www.reddit.com/r/Python/comments/oelbs2/help_with_modify_text_in_zipped_file/)
+
+
+> Hi, all,i'm new to python3, and trying to learn how to use it to help my daily work.I have Zip file which has several folders .data and .xml file. And my task is replace phrase and delete one string in their .xml .data file. (almost 10~hundred times a day..)My ideal scenario isPopup inputbox what string you want to delete, then remove all string that include .data and.xml in the zipped fileGo Path: (Filename).zip\public\(Filename)_files\stateXML.data, then replace the string "<jdbcTable id=" to "<jdbcQuery id="Any help would be greatly appreciated.
+
+
+***
+[I made a Tic-Tac-Toe with Reinforcement Learning](https://www.reddit.com/r/Python/comments/oel71r/i_made_a_tictactoe_with_reinforcement_learning/)
+
+
+> Hey everyone.I used Gym and StableBaselines3 to create the AI for the game, this was a project for my university and I just wanted to share it.If you want to take a look, Here is the repo
+
+
+***
+![New M1 Mac Mini](https://images.macrumors.com/social/?t=2303354&v=6 "New M1 Mac Mini")
+
+
+[New M1 Mac Mini](https://forums.macrumors.com/threads/new-m1-mac-mini-external-hard-drives-hosed.2303354/)
+
+
+> This week I bought a new M1 Mac Mini and an OWC Thunderbay 4 enclosure to house all four of my external drives. Everything seemed fine for a few days, then my Time Machine drive (AFPS) would inexplicably become unavailable. Today, I was streaming a movie from my Plex library (hosted on a 4TB WD Red) when the movie suddenly stopped playing. Looking into the problem I find that my Media drive (HFS+) is unreadable. I was horrified to find that my Media Drive Clone (HFS+) was also unreadable. Fortunately the Media drive was backed up to Crashplan.
+
+
