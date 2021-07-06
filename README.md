@@ -37030,3 +37030,50 @@
 > Smartphone brand Xiaomi has announced that it has recorded strong and speedy growth in the premium smartphone segment by capturing a 14 per cent market share in the Rs 20,000-45,000 segment.
 
 
+***
+![The Switch OLED proves the PS Vita was ahead of the curve](https://cdn.mos.cms.futurecdn.net/RHYc9fpqBsX9dsyCREfEwP-1200-80.png "The Switch OLED proves the PS Vita was ahead of the curve")
+
+
+[The Switch OLED proves the PS Vita was ahead of the curve](https://www.techradar.com/news/the-switch-oled-proves-the-ps-vita-was-ahead-of-the-curve)
+
+
+> Sometimes there are products that stand the test of time, and after the announcement of the Nintendo Switch OLED, the PS Vita has only enforced this fact even more.For what felt like years now, rumors were abound regarding what a ‘Switch Pro', a ‘Switch 2' or a ‘New Switch' would entail. From 4K visuals to Bluetooth support for your headphones, there were plenty of hopes as to what a new model would bring after using the same Switch for almost five years.However, with the new Switch model bringing bigger storage, enhanced audio and of course, a bigger OLED screen, one can't help but wonder that Sony's PS Vita not only felt good to use, but it showcased games from twenty five years ago on a fantastic 5.
+
+
+***
+[facebook api](https://www.reddit.com/r/Python/comments/oexxvn/facebook_api/)
+
+
+> last night i was curious if there was a facebook api for python, and of course there is...now i'm wondering if anyone has seen or attempted a python script that automatically pulls your photos and post from facebook?like if you wanted to quit facebook, but still wanted all your stuff, and didn't want to spend hours saving things off.or any other social media site, because i think it would be cool to look at.tia
+
+
+***
+![Kaseya Ransomware Attack Impacts Up to 1,500 Companies](https://media.breitbart.com/media/2016/06/wi/afp_bfbf305763f89aeeb3b7fd937e1d37743032b85f-e1481228275806.jpg "Kaseya Ransomware Attack Impacts Up to 1,500 Companies")
+
+
+[Kaseya Ransomware Attack Impacts Up to 1,500 Companies](https://www.breitbart.com/tech/2021/07/06/kaseya-ransomware-attack-impacts-up-to-1500-companies/)
+
+
+> Between 800 and 1,500 businesses worldwide have reportedly been affected by a ransomware attack focused on the U.S. information technology firm Kaseya, according to the firm's CEO. Reuters reports that between 800 and 1,500 businesses worldwide have been affected by a recent ransomware attack that focused on the U.S. tech firm Kaseya, according to the company's CEO Fred Voccola. Voccola stated in an interview that it isn't easy to estimate the impact of the recent cyberattack as those affected were primarily customers of Kaseya's customers.
+
+
+***
+![The best Alexa speakers for 2021](https://icdn.digitaltrends.com/image/digitaltrends/echo-studio-16-9-1.jpg "The best Alexa speakers for 2021")
+
+
+[The best Alexa speakers for 2021](https://www.digitaltrends.com/home/best-alexa-speakers/)
+
+
+> Our pick for the best Alexa speaker is the Amazon Echo (4th Gen), for many reasons. They include its moderate price, robust audio performance, ability to control the smart home, and a new refreshing design that changes up its identity. In fact, you won't find a better Alexa speaker that offers such a comprehensive package at a price point that doesn't greatly impact the wallet. If that's not enough of a comprehensive package for you, there are several third-party speakers that use Alexa. While some folks may be content to have Alexa confined to a tinier, more personal package, others may prefer something more robust and room filling.
+
+
+***
+![The best $500 PC build for video editing](https://icdn.digitaltrends.com/image/digitaltrends/pc-buildout-2016-kit-1.jpg "The best $500 PC build for video editing")
+
+
+[The best $500 PC build for video editing](https://www.digitaltrends.com/computing/best-500-pc-build-for-video-editing/)
+
+
+> You might be able to edit videos on your phone or an old laptop, but it's hardly an ideal experience. Moving to a desktop PC can speed up your workflow significantly, and while you could easily spend thousands on a bespoke-built machine we are going to demonstrate that you can also put together a great  $500 PC build for video editing. We scoured the web for great hardware deals to help you build a $500 video editing PC. If you're more interested in budget gaming, here's our guide on a great $500 gaming PC.
+
+
