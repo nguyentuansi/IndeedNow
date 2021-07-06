@@ -36983,3 +36983,50 @@
 > Source: Nothing Nothing has revealed that its first true wireless earbuds will cost just $99. Despite carrying a relatively low price tag, the earbuds will come with active noise cancellation. The earbuds are set to be unveiled at a virtual launch event on July 27. Carl Pei's Nothing announced last week that its first wireless earbuds would debut at an event on July 27 at 9 AM ET. Ahead of the product's global launch, the company has revealed that the Ear 1 will be priced at just $99.
 
 
+***
+![Here's what we know about the next alpha for PUBG: New State](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop/public/article_images/2021/05/pubg-new-state-tall-grass-screenshot.jpg "Here's what we know about the next alpha for PUBG: New State")
+
+
+[Here's what we know about the next alpha for PUBG: New State](https://www.androidcentral.com/pubg-new-state-whens-next-alpha)
+
+
+> Source: PUBG StudioBest answer: PUBG: New State's first alpha test ended on June 14. We don't know when the next one will take place, but the developers have promised multiple alpha tests leading up to the game's release. PUBG: New State is the true sequel to PlayerUnknown's Battlegrounds, the first major battle royale game. While PUBG Mobile remains one of the most popular Android games available, PUBG: New State plans on improving the game in every regard, from its upgraded graphics engine to new mechanics introduced, including dodges, drone calls, and support requests.
+
+
+***
+![Should you buy the Cricut BrightPad Go for crafting?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/cricut-brightpad-go-lifestyle-hero.jpg "Should you buy the Cricut BrightPad Go for crafting?")
+
+
+[Should you buy the Cricut BrightPad Go for crafting?](https://www.imore.com/should-you-buy-cricut-brightpad-go)
+
+
+> Source: CricutBest answer: It depends on your needs. If you need backlighting for your craft projects, this is a great solution. Otherwise, a good task lamp will help. When you create intricate projects with your Cricut Maker, Cricut Explore, or Cricut Joy crafting/cutting machine, you'll need to "weed" it (remove the unwanted bits around the design.) This can be time-consuming and tricky if you don't have enough light. A good task lamp would be my first recommendation, but the Cricut BrightPad Go is an excellent pick if you need light from underneath.
+
+
+***
+![Spike now runs video meetings inside your email app with new update](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/spike-video-calling-screenshot.jpeg "Spike now runs video meetings inside your email app with new update")
+
+
+[Spike now runs video meetings inside your email app with new update](https://www.imore.com/spike-now-runs-video-meetings-inside-your-email-app-new-update)
+
+
+> Source: Spike Spike announced via its blog that users can now make and join calls right from within their email app. The update allows users to have calls one-on-one as well as group calls, while video is also supported as well. The update means that users won't have to leave their inbox to have a meeting, something that is either a brilliant or horrific idea depending on your relationship with email. Spike says the idea is that people won't need to switch between apps all the time because everything is happening inside just one — Spike.
+
+
+***
+![New Nintendo Switch OLED unveiled with BETTER screen than your TV](https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/nintedo-switch-oled-model.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "New Nintendo Switch OLED unveiled with BETTER screen than your TV")
+
+
+[New Nintendo Switch OLED unveiled with BETTER screen than your TV](https://www.the-sun.com/lifestyle/tech/3228451/new-nintendo-switch-oled-model-pro-release-date-specs-price/)
+
+
+> NINTENDO has unveiled a brand new version of its hugely popular Switch console. The new Nintendo Switch OLED Model launches later this year – just in time for Christmas. Say hello to the Nintendo Switch OLED ModelCredit: Nintendo There's a brand new dock design The new Nintendo Switch OLED was unveiled in a surprise announcement onlineCredit: Nintendo Nintendo Switch OLED Model revealed – new features and screen It's the third core version of Nintendo's console, joining the Switch and Switch Lite.
+
+
+***
+[STRONG, SPEEDY GROWTH! Mi India captures 14% market share in Rs 20-45K segment in India](https://www.zeebiz.com/technology/mobiles/news-strong-speedy-growth-mi-india-captures-14-market-share-in-rs-20-45k-segment-in-india-160082)
+
+
+> Smartphone brand Xiaomi has announced that it has recorded strong and speedy growth in the premium smartphone segment by capturing a 14 per cent market share in the Rs 20,000-45,000 segment.
+
+
