@@ -37177,3 +37177,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![JPMorgan thinks Apple will sell 226 million iPhones in fiscal year 2022](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/iphone-13-render-camera-closup.jpg "JPMorgan thinks Apple will sell 226 million iPhones in fiscal year 2022")
+
+
+[JPMorgan thinks Apple will sell 226 million iPhones in fiscal year 2022](https://www.imore.com/jpmorgan-thinks-apple-will-sell-226-million-iphones-fiscal-year-2022)
+
+
+> Source: Concept Creator Apple has been underperforming compared to the S&P 500 this year, but that might turn around once the company releases all of its new products in the fall. In a new investor note seen by Business Insider, JPMorgan believes that Apple's stock performance is set to turn around when the company announces the iPhone 13 in a few months. The bank has upgraded the price target for AAPL from $165 to $170, which would equate to a 21% increase in stock performance currently. The bank believes that a number of factors contribute to their prediction, including lower investor expectations for the company.
+
+
+***
+![Bucks vs Suns live stream: how to watch game 1 NBA Final online from anywhere](https://cdn.mos.cms.futurecdn.net/ra2Tn66JXMFmz3uT2iNbw-1200-80.jpg "Bucks vs Suns live stream: how to watch game 1 NBA Final online from anywhere")
+
+
+[Bucks vs Suns live stream: how to watch game 1 NBA Final online from anywhere](https://www.techradar.com/news/bucks-vs-suns-live-stream-how-to-watch-game-1-nba-final-online-from-anywhere)
+
+
+> It's hard to think of an NBA Finals matchup more emotional than this: the Milwaukee Bucks aiming to end a 50-year drought and banish the specter of the past two seasons, while the Phoenix Suns have 53 years of heartache to draw upon, and the prospect of finally capturing the prize CP3 deserves. The stakes couldn't be higher, so read on as we explain how to get a Bucks vs Suns live stream and watch the NBA Playoff Final series online from anywhere.After 123 playoff games, the wait for an NBA Finals appearance has come to an end for Chris Paul, but he's not the only player competing for the Larry O'Brien Championship Trophy for the first time - far from it.
+
+
+***
+![Up to 1,500 businesses could be affected by a cyberattack carried out by a Russian group.](https://static01.nyt.com/images/2021/07/06/us/politics/Screen-Shot-2021-07-06-at-2/Screen-Shot-2021-07-06-at-2-videoSixteenByNineJumbo1600.png "Up to 1,500 businesses could be affected by a cyberattack carried out by a Russian group.")
+
+
+[Up to 1,500 businesses could be affected by a cyberattack carried out by a Russian group.](https://www.nytimes.com/2021/07/06/technology/kaseya-cyberattack-ransomware-revil.html)
+
+
+> Technology|Up to 1,500 businesses could be affected by a cyberattack carried out by a Russian group.https://www.nytimes.com/2021/07/06/technology/kaseya-cyberattack-ransomware-revil.htmlContinue reading the main storyVideoLast week, a number of small- and medium-sized businesses were hit by a major cyberattack, causing other companies around the world to fear the same. The Biden administration said it's working to prevent further cyberattacks.July 6, 2021, 5:50 p.m. ETBetween 800 and 1,500 businesses around the world were compromised or affected by a cyberattack on Friday that security experts said could be the largest attack in history using ransomware, in which hackers shut down systems until a ransom is paid.
+
+
+***
+[Binance says it will temporarily suspend euro bank deposits from the EU's Single Euro Payments Area network due to "events beyond our control" (Financial Times)](http://www.techmeme.com/210706/p21#a210706p21)
+
+
+> Financial Times: Binance says it will temporarily suspend euro bank deposits from the EU's Single Euro Payments Area network due to “events beyond our control” — Latest block comes after flurry of regulatory pushbacks against crypto exchange — Binance said it will suspend euro bank deposits …
+
+
+***
+![Google Testing New Dark Mode, Moves Settings](https://www.androidheadlines.com/wp-content/uploads/2019/04/Google-Pixel-Event-Logo-2017-AH-4-AH-2019.jpg "Google Testing New Dark Mode, Moves Settings")
+
+
+[Google Testing New Dark Mode, Moves Settings](https://www.androidheadlines.com/2021/07/google-test-new-dark-mode-settings-mobile-desktop.html)
+
+
+> Though Google had been making changes on the Android front, it hasn't forgotten about the good old search page. The company has just rolled out a few small changes to the Google search engine. These changes, as spotted by 9To5Google, include a new Google dark mode, and customized backgrounds.Some settings have been moved to a new locationFolks who like to tinker with the Google settings will appreciate this new change. Google rolled this new change out to the public. On the top right of the search engine, you see your profile picture and your the apps grid next to it.
+
+
