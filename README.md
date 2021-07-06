@@ -36886,3 +36886,53 @@
 > (Image credit: Ultimate Battle) With the launch of Battlegrounds Mobile India last week, Krafton has yet to announce any tournaments of its own for the game. But that has not stopped a third party esports app called Ultimate Battle to start a series of its own tournaments of Battlegrounds Mobile India. These hourly tournaments are being held by Ultimate Battle using Google Play, which rewards players with UB Coins that can be used to get items on BGMI. Ultimate Battle has its own set of leaderboards.
 
 
+***
+![The Oculus Rift S is dead, long live the Oculus Quest 2](https://cdn.mos.cms.futurecdn.net/2FjGnKpEoerYuSmqteLFYR-1200-80.jpg "The Oculus Rift S is dead, long live the Oculus Quest 2")
+
+
+[The Oculus Rift S is dead, long live the Oculus Quest 2](https://www.techradar.com/news/the-oculus-rift-s-is-dead-long-live-the-oculus-quest-2)
+
+
+> (Image credit: Oculus) The time has come to bid farewell to the Oculus Rift S – it's now officially off the shelves, having been discontinued earlier in the year.A statement posted to the Oculus website reads 'Oculus Rift is no longer available,' marking the end of a two-year lifespan for the VR headset, which launched in May 2019 as the successor to the original Oculus Rift model.The Rift S is survived by the Oculus Quest 2, which is now the brand's flagship entry-level VR headset and, for our money, the best VR headset for most gamers.
+
+
+***
+![Learn from billionaire David Rubenstein's mistakes](https://images.axios.com/4pIWE8asTrGdAqATe4WkCH2AiDk=/0x83:3500x2052/1366x768/2021/07/06/1625564942628.jpg "Learn from billionaire David Rubenstein's mistakes")
+
+
+[Learn from billionaire David Rubenstein's mistakes](https://www.axios.com/david-rubenstein-bloomberg-show-aafa8364-752e-408a-9e54-7bdd316771ec.html)
+
+
+> David Rubenstein in the trailer for "Bloomberg Wealth."David Rubenstein — billionaire philanthropist, author, interviewer and co-founder of the Carlyle Group investment firm — told me this story ahead of tonight's launch of his new biweekly show, "Bloomberg Wealth":Marc Andreessen, the now famous venture capitalist, visited Carlyle in the early '90s, seeking funding for something called Netscape.When Andreessen explained that his idea would help navigate the internet, Rubenstein replied: "What is the internet, and why would I want to navigate it? … We would never invest in something ridiculous like that.
+
+
+***
+![Eufy Lumos Smart Bulb review](https://cdn.mos.cms.futurecdn.net/B3dZjHxvrXivviYBBG392m-1200-80.jpeg "Eufy Lumos Smart Bulb review")
+
+
+[Eufy Lumos Smart Bulb review](https://www.techradar.com/reviews/eufy-lumos-smart-bulb)
+
+
+> Eufy, by Anker is a brand well-known for tech peripherals such as USB cables and power banks, but it's also turned its sight to smart home devices.  As well as offering some of the best robot vacuums and home security cameras, Eufy has also dipped its toe in the smart lighting waters.The Eufy Lumos Smart Bulb is a basic, reliable LED bulb for people just diving into smart homes. Like most Eufy products, it can rival the market leaders - in this case Philips Hue and LIFX - with affordable, simple-to-use devices.
+
+
+***
+![How to live stream Wimbledon 2021: watch quarter-finals free online, schedule and order of play](https://cdn.mos.cms.futurecdn.net/R88j5SrG7Fmmdx6XjxDAfG-1200-80.jpg "How to live stream Wimbledon 2021: watch quarter-finals free online, schedule and order of play")
+
+
+[How to live stream Wimbledon 2021: watch quarter-finals free online, schedule and order of play](https://www.techradar.com/news/how-to-live-stream-wimbledon-2021-watch-quarter-finals-free-online-schedule-and-order-of-play)
+
+
+> Eight players each on the men and women's Wimbledon 2021draws have overcome elite opposition and the slipperiest SW19 grass courts in memory to make it to this year's quarter-finals. Tennis fans won't want to miss another smash, serve or slice, so read on as we explain how to watch a Wimbledon live stream no matter where in the world you are - including ways to see it absolutely FREE.With Naomi Osaka missing out and Serena Williams proving an early victim to the slippery lawn, predicting the women's championship is a fool's errand.
+
+
+***
+![8 Udemy (100% off Coupons) Python Programming Courses [Limited Time]](https://external-preview.redd.it/iSuxEPvpwPEZkmjztIxwqmmEnDoPqIen4wk-KEFrQ8w.jpg?auto=webp&s=6975f010ef19fe0fce80e1db3b72ebf14b6760e5 "8 Udemy (100% off Coupons) Python Programming Courses [Limited Time]")
+
+
+[8 Udemy (100% off Coupons) Python Programming Courses [Limited Time]](https://www.reddit.com/r/Python/comments/oertvd/8_udemy_100_off_coupons_python_programming/)
+
+
+> Good Evening everyone,Love Learning, Just found some of the top courses to learn programming on Udemy. Some of the instructors are giving 100% off coupons due to the quarantine. Grabbed most of them from r/FreeUdemyCoupons and some from the Facebook group. Might help some of you out. Let's learn togetherOnce you enrol on this course you can get lifetime updates
+
+
