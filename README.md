@@ -37077,3 +37077,53 @@
 > You might be able to edit videos on your phone or an old laptop, but it's hardly an ideal experience. Moving to a desktop PC can speed up your workflow significantly, and while you could easily spend thousands on a bespoke-built machine we are going to demonstrate that you can also put together a great  $500 PC build for video editing. We scoured the web for great hardware deals to help you build a $500 video editing PC. If you're more interested in budget gaming, here's our guide on a great $500 gaming PC.
 
 
+***
+![Keysight and Qualcomm First to Achieve 10 Gbps Data Connection Using 5G New Radio Dual Connectivity](https://mms.businesswire.com/media/20210706005693/en/889692/23/Keysight_Logo_For_Business_Wire_640x360px.jpg "Keysight and Qualcomm First to Achieve 10 Gbps Data Connection Using 5G New Radio Dual Connectivity")
+
+
+[Keysight and Qualcomm First to Achieve 10 Gbps Data Connection Using 5G New Radio Dual Connectivity](https://www.businesswire.com/news/home/20210706005693/en/Keysight-and-Qualcomm-First-to-Achieve-10-Gbps-Data-Connection-Using-5G-New-Radio-Dual-Connectivity)
+
+
+> July 06, 2021 02:00 PM Eastern Daylight Time SANTA ROSA, Calif.--(BUSINESS WIRE)--Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that delivers advanced design and validation solutions to help accelerate innovation to connect and secure the world, announced a demonstration at Mobile World Congress 2021 (MWC 21) of a ten gigabit per second (Gbps) data connection using 5G new radio dual connectivity (NR-DC), an industry-first milestone achieved in close collaboration with Qualcomm Technologies, Inc.
+
+
+***
+![All the limited and special edition Nintendo Switch consoles you can buy](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/super-mario-3d-world-switch.jpg "All the limited and special edition Nintendo Switch consoles you can buy")
+
+
+[All the limited and special edition Nintendo Switch consoles you can buy](https://www.imore.com/limited-edition-nintendo-switch-consoles)
+
+
+> Why buy a regular Nintendo Switch when you can purchase one that's unique and not many people own? We're highlighting all of the different limited and special edition Nintendo Switch consoles you can buy today. Many limited-edition Switch consoles come with a digital or physical copy of the video games they're commemorating, as well as an extra goodie or two in some cases. At any rate, they'll be fun to play the best Nintendo Switch games on.Please note: These consoles are sold in limited quantities and may not be available directly through any retailers.
+
+
+***
+![Istation Gains Dyslexia Screening Assessment Approval in Oklahoma](https://mms.businesswire.com/media/20210706005716/en/1108235/23/IstationLOGO_PRIM_CMYK_100_%283%29.jpg "Istation Gains Dyslexia Screening Assessment Approval in Oklahoma")
+
+
+[Istation Gains Dyslexia Screening Assessment Approval in Oklahoma](https://www.businesswire.com/news/home/20210706005716/en/Istation-Gains-Dyslexia-Screening-Assessment-Approval-in-Oklahoma)
+
+
+> July 06, 2021 01:54 PM Eastern Daylight Time DALLAS--(BUSINESS WIRE)--Istation, a leader in educational technology, gained K-3 dyslexia screening approval for Istation's Indicators of Progress (ISIP) assessment in Oklahoma. The Oklahoma State Board of Education unanimously voted to approve the ISIP assessment for use by Oklahoma school districts beginning in the 2022-2023 school year. Istation Reading is also approved for curriculum and instruction under the Reading Sufficiency Act for K-3 in Oklahoma for the 2021-2022 school year.
+
+
+***
+![Increasing Momentum Behind Digital Adoption in U.S. Supplier/Buyer Transactions Drives Finstro's Expansion Into U.S. Market](http://www.businesswire.com/images/bwlogo_square.png "Increasing Momentum Behind Digital Adoption in U.S. Supplier/Buyer Transactions Drives Finstro's Expansion Into U.S. Market")
+
+
+[Increasing Momentum Behind Digital Adoption in U.S. Supplier/Buyer Transactions Drives Finstro's Expansion Into U.S. Market](https://www.businesswire.com/news/home/20210706005708/en/Increasing-Momentum-Behind-Digital-Adoption-in-U.S.-SupplierBuyer-Transactions-Drives-Finstro%E2%80%99s-Expansion-Into-U.S.-Market)
+
+
+> DENVER--(BUSINESS WIRE)--Finstro, a technology-powered provider of trade credit and payment solutions for B2B commerce, is planning to capitalize on growing digital adoption momentum in the business-to-business (B2B) space as it rolls out its card solution and an integrated ERP solution designed to support the supplier/buyer trade relationship. According to a 2018 Goldman Sachs Global Technology Equity Research report, paper-based payment processes in U.S.-based B2B commerce accounted for ~70% of transaction volume, and cost businesses - many of them small businesses - more than $2.
+
+
+***
+![Microsoft Defender wants to help your business stomp out internal security threats](https://cdn.mos.cms.futurecdn.net/bVn8x8PNJcBejBZdnxJWyY-1200-80.jpg "Microsoft Defender wants to help your business stomp out internal security threats")
+
+
+[Microsoft Defender wants to help your business stomp out internal security threats](https://www.techradar.com/news/microsoft-defender-wants-to-help-your-business-stomp-out-internal-security-threats)
+
+
+> (Image credit: Shutterstock) Configuring security for internal organization identities and devices is about to get a whole lot easier in Microsoft Defender for Identity as the company plans to add a new step-by-step guide to its cloud-based security solution.According to a new post in the Microsoft 365 roadmap, the software giant will be adding a new step-by-step guide to Microsoft Defender for Identity this month.The guide will verify that organizations have satisfied all environment prerequisites and from there it will help them create a Defender for Identity instance, connect to Active Directory and install their sensor.
+
+
