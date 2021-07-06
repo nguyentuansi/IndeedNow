@@ -36836,3 +36836,53 @@
 > Battlegrounds Mobile India will postpone the temporary shutdown of its PUBG Mobile data transfer service to July 9, developer Krafton has announced. Last week, the company announced players will be temporarily unable to transfer their data over from PUBG Mobile to Battlegrounds Mobile India starting July 6 until further notice. Data transfer lets gamers who played PUBG Mobile carry forward their data including achievements, currency, inventory, and more to Battlegrounds Mobile India so that they don't lose all the progress they have made.
 
 
+***
+![Robinhood: The $30 Billion Cockroach Of Fintech](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e36a74c39bffb7c4effd21%2F0x0.jpg "Robinhood: The $30 Billion Cockroach Of Fintech")
+
+
+[Robinhood: The $30 Billion Cockroach Of Fintech](https://www.forbes.com/sites/ronshevlin/2021/07/06/robinhood-the-30-billion-cockroach-of-fintech/)
+
+
+> Robinhood and it's so-called "democratization of finance." (Photo Illustration by Rafael ... [+] Henrique/SOPA Images/LightRocket via Getty Images) SOPA Images/LightRocket via Getty Images On successive days last week, digital brokerage Robinhood: 1) was hit with a $70 million fine by FINRA for outages and misleading customers, and 2) announced it was going public. This led many people to wonder why the company would announce its IPO the day after it was fined. The answer is simple: On any day that Robinhood chooses to announce an IPO, there is a probability far greater than zero that it will be fined.
+
+
+***
+![How to get the year, month, day, hours, minutes, seconds and milliseconds of the current moment in JavaScript?](https://external-preview.redd.it/OjIsdtEwHZ-NpSR9qwMWSW5KOhgQvIW--0P_evr7-Yo.jpg?auto=webp&s=c2e19cd823856a4e27d1a7bc4cb703042075208b "How to get the year, month, day, hours, minutes, seconds and milliseconds of the current moment in JavaScript?")
+
+
+[How to get the year, month, day, hours, minutes, seconds and milliseconds of the current moment in JavaScript?](https://www.reddit.com/r/programming/comments/oeqgja/how_to_get_the_year_month_day_hours_minutes/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Full list of Xiaomi and Poco smartphones that will receive Android 12 update](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/mi11p14-original.jpg "Full list of Xiaomi and Poco smartphones that will receive Android 12 update")
+
+
+[Full list of Xiaomi and Poco smartphones that will receive Android 12 update](https://www.indiatoday.in/technology/news/story/full-list-of-xiaomi-and-poco-smartphones-that-will-receive-android-12-update-1824481-2021-07-06)
+
+
+> Manas Tiwari New Delhi, Jul 06, 2021, Updated Jul 06, 2021, 1:27 PM IST Story highlights Android 12 update was announced earlier this year. Most Xiaomi flagship phones will get the update. Official roll out is expected by the end of this year. It's been a while since Google announced the Android 12 and while the stable build will only arrive later this year, most smartphone manufacturers have either or will start testing the operating system on its devices. Xiaomi is also expected to bring Android 12 to most of its devices.
+
+
+***
+![Realme GT 2 flagship with Snapdragon 895 chip may already be in works](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/realme_reuters-original.jpg "Realme GT 2 flagship with Snapdragon 895 chip may already be in works")
+
+
+[Realme GT 2 flagship with Snapdragon 895 chip may already be in works](https://www.indiatoday.in/technology/news/story/realme-gt-2-flagship-with-snapdragon-895-chip-may-already-be-in-works-1824479-2021-07-06)
+
+
+> Story highlights Realme GT 2 is reportedly already in the works and it will use a Snapdragon 895 SoC. Realme GT 2 will be the successor to the GT 5G phone that was launched earlier this year. Realme may launch the GT 2 phone next year only. Realme GT is the company's premium-level phone series, and it already has at least two phones under it. The company is planning more phones with GT in their names, and now rumours are rife that a Realme GT 2 is in the works. Realme is reportedly working on a successor to the GT 5G phone already, and the GT 2 may come with the Qualcomm Snapdragon 895 processor.
+
+
+***
+![Battlegrounds Mobile India's first tournaments are by Ultimate Battle](https://cdn.mos.cms.futurecdn.net/aA8K8Ure6ZYLiCL3XTThx7-1200-80.png "Battlegrounds Mobile India's first tournaments are by Ultimate Battle")
+
+
+[Battlegrounds Mobile India's first tournaments are by Ultimate Battle](https://www.techradar.com/news/battlegrounds-mobile-indias-first-tournaments-are-by-ultimate-battle)
+
+
+> (Image credit: Ultimate Battle) With the launch of Battlegrounds Mobile India last week, Krafton has yet to announce any tournaments of its own for the game. But that has not stopped a third party esports app called Ultimate Battle to start a series of its own tournaments of Battlegrounds Mobile India. These hourly tournaments are being held by Ultimate Battle using Google Play, which rewards players with UB Coins that can be used to get items on BGMI. Ultimate Battle has its own set of leaderboards.
+
+
