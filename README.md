@@ -36739,3 +36739,53 @@
 > This week I bought a new M1 Mac Mini and an OWC Thunderbay 4 enclosure to house all four of my external drives. Everything seemed fine for a few days, then my Time Machine drive (AFPS) would inexplicably become unavailable. Today, I was streaming a movie from my Plex library (hosted on a 4TB WD Red) when the movie suddenly stopped playing. Looking into the problem I find that my Media drive (HFS+) is unreadable. I was horrified to find that my Media Drive Clone (HFS+) was also unreadable. Fortunately the Media drive was backed up to Crashplan.
 
 
+***
+![Netflix original Navarasa, an anthology of nine stories, to stream Aug 9](https://cdn.mos.cms.futurecdn.net/2ioTnycmsTv24EjkoLXtPW-1200-80.png "Netflix original Navarasa, an anthology of nine stories, to stream Aug 9")
+
+
+[Netflix original Navarasa, an anthology of nine stories, to stream Aug 9](https://www.techradar.com/news/netflix-original-navarasa-an-anthology-of-nine-stories-to-stream-aug-9)
+
+
+> After Jagame Thanthiram, the biggest Tamil streamer on Netflix is going to be Navarasa, the nine-storied anthology web series presented by ace director Mani Ratnam. But he is not directing any of the stories in the anthology, and he is presenting the series along with Jayendra Panchapakesan.The much-expected series, which was announced last year, is said to stream on Netflix on August 9. An official word, and possibly a teaser, is expected to be out today from the streaming platform.   Navarasa, as the name unambiguously says, will explore the nine basic emotions of humans --- anger, compassion, courage, disgust, fear, laughter, love, peace and wonder.
+
+
+***
+![Realme GT Master Edition full look, price, and specifications leaked ahead of launch](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/realme_gt_master_edition_rende-original.jpg "Realme GT Master Edition full look, price, and specifications leaked ahead of launch")
+
+
+[Realme GT Master Edition full look, price, and specifications leaked ahead of launch](https://www.indiatoday.in/technology/news/story/realme-gt-master-edition-full-look-price-and-specifications-leaked-ahead-of-launch-1824353-2021-07-06)
+
+
+> Story highlights Realme GT Master Edition may now come with a Snapdragon 778G SoC. Previous rumours suggested there is going to be the Snapdragon 870 chip on the phone. Realme GT Master Edition may cost starting at around Rs 30,000. Realme GT Master Edition is likely to arrive this month. It is expected to be the company's camera-focused phone with premium features. Now, rumours are rife about the specifications of the phone but we are, for the first time, seeing press renders of the Realme GT Master Edition.
+
+
+***
+![Realme GT 5G launch: Specs, features, India price, and all that we know so far](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/realme_gt_5g_launched_back_las-original.jpg "Realme GT 5G launch: Specs, features, India price, and all that we know so far")
+
+
+[Realme GT 5G launch: Specs, features, India price, and all that we know so far](https://www.indiatoday.in/technology/features/story/realme-gt-5g-launch-specs-features-india-price-and-all-that-we-know-so-far-1824350-2021-07-06)
+
+
+> Story highlights Realme GT 5G may arrive in October Snapdragon 888 SoC powers it The smartphone could be priced under Rs 35,000 Realme GT 5G debuted globally on June 15, however, the smartphone is yet to make its way into the country. While we do not have an exact launch date, Realme India and Europe CEO Madhav Sheth said that the launch would take place ahead of Diwali this year. Besides this, we have also learnt Realme GT Master Edition, which is reportedly in the works. A new report has revealed the renders and key specs of this smartphone.
+
+
+***
+![WhatsApp shares tips to find out if you have been blocked by someone on the app](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/screenshot_2020-03-16_at_12.11_0_1200x768-original.png "WhatsApp shares tips to find out if you have been blocked by someone on the app")
+
+
+[WhatsApp shares tips to find out if you have been blocked by someone on the app](https://www.indiatoday.in/technology/news/story/whatsapp-shares-tips-to-find-out-if-you-have-been-blocked-by-someone-on-the-app-1824348-2021-07-06)
+
+
+> Ankita Chakravarti New Delhi, Jul 06, 2021, Updated Jul 06, 2021, 9:21 AM IST Story highlights WhatsApp has shared tips to find out if you have been blocked. The messaging app does not alert users when they get blocked by someone due to privacy reasons. In some cases, WhatsApp may block users if they are using a clone version of the app. Do you think you have been blocked on WhatsApp by someone? There could be many ways to find that out, if you do not want to reach out to the contact directly. WhatsApp has listed the ways to find out if you have been blocked, on its FAQ page.
+
+
+***
+![Where to buy AMD Radeon RX 6800: find stock here](https://cdn.mos.cms.futurecdn.net/anVDUygGfToUSg6qPGUaKH-1200-80.jpg "Where to buy AMD Radeon RX 6800: find stock here")
+
+
+[Where to buy AMD Radeon RX 6800: find stock here](https://www.techradar.com/deals/where-to-buy-amd-radeon-rx-6800-find-stock-here)
+
+
+> AMD Radeon RX 6800 (Image credit: AMD) Where to buy the AMD Radeon RX 6800 is an easier question to answer for UK customers than US ones. Production issues that GPU manufacturers have been experiencing since 2020 are still happening, and US retailers – even major ones like Amazon and Best Buy – are still having a hard time restocking it. Even when stock for the Radeon RX 6800 does turn up, it's snatched up right away because of high demand.UK customers, however, have some options – although they are much more than this high-end graphics card's list or suggested retail price.
+
+
