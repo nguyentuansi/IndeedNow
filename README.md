@@ -37540,3 +37540,43 @@
 > Lacuna Technologies, a startup that helps cities create and enforce transportation policies by building and managing open-source digital tools, has raised $16 million in a Series A round, bringing the company's total investment to $33.5 million. Since the startup was founded in 2018, Lacuna has invested in helping cities like Los Angeles, Seattle and Miami build digital twins, or software models of real world cities – including all forms of mobility from delivery to rideshare to drones to regular traffic.
 
 
+***
+![AirPods Max return to Amazon all-time low with $60 discount](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/airpods-max-on-end-hero.jpeg "AirPods Max return to Amazon all-time low with $60 discount")
+
+
+[AirPods Max return to Amazon all-time low with $60 discount](https://www.imore.com/airpods-max-return-amazon-all-time-low-60-discount)
+
+
+> For months after their release, AirPods Max were pretty hard to get ahold of meaning that there were basically no AirPods Max deals to take advantage of. However, now supply seems to have caught up with demand, we're starting to see some offers at third-party retailers to try to tempt in potential buyers. This $60 discount at Amazon drops AirPods Max as low as $489. This is the best price we've seen yet on Apple's over-ear cans though it's unclear exactly how long the discount will last. AirPods Max have never gone lower than this at Amazon making now the perfect time to snag a set if you've been holding out.
+
+
+***
+![Kaspersky's random password generator isn't actually random at all](https://cdn.mos.cms.futurecdn.net/XxEvtaBKpJqN7Wv27Q5bvC-1200-80.jpg "Kaspersky's random password generator isn't actually random at all")
+
+
+[Kaspersky's random password generator isn't actually random at all](https://www.techradar.com/news/kasperskys-random-password-generator-isnt-actually-random-at-all)
+
+
+> (Image credit: Pixabay) Cybersecurity researchers have found a weakness in the Kaspersky Password Manager platform which created cryptographically weak passwords that could be brute forced.Ledger Donjon, the security research team at Ledger, claims it took Kaspersky almost two years to patch the vulnerability, which was first flagged in 2019.'The password generator included in Kaspersky Password Manager (KPM) had several problems. The most critical one is that it used a PRNG not suited for cryptographic purposes.
+
+
+***
+![Wondering about Wemo? Here's all of the accessories that work with HomeKit.](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/wemo-mini-lifestyle.jpeg "Wondering about Wemo? Here's all of the accessories that work with HomeKit.")
+
+
+[Wondering about Wemo? Here's all of the accessories that work with HomeKit.](https://www.imore.com/which-wemo-products-support-apples-homekit)
+
+
+> The Wemo line is home to some of the best smart plugs for HomeKit and more, but unfortunately, it was a little late getting to the HomeKit party. When it finally arrived, HomeKit required a separate smart bridge and didn't support all Wemo products. Since then, HomeKit is now built into the latest accessories. However, there are still some of those older devices lingering around, which can make things confusing. Don't worry though, we have got it all sorted out with all of the HomeKit compatible Wemo products that you can buy today.
+
+
+***
+![TSB bans cryptocurrency amid fraud concerns with Binance and Kraken](https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fce51db64-d073-11eb-9bfa-a3bc386e6928.jpg?crop=4282%2C2409%2C0%2C223&resize=685 "TSB bans cryptocurrency amid fraud concerns with Binance and Kraken")
+
+
+[TSB bans cryptocurrency amid fraud concerns with Binance and Kraken](https://www.thetimes.co.uk/article/tsb-bans-cryptocurrency-amid-fraud-concerns-with-binance-and-kraken-bbplrtpfp)
+
+
+> More than five million British banking customers are to be barred from buying cryptocurrencies within days amid concerns that trading platforms are riddled with fraudsters.The Times has learnt that TSB is preparing to block its customers from sending money to trading sites such as Binance and Kraken because it believes scammers are being allowed to set up e-wallets and steal people's money because of weak security checks.The bank is particularly concerned about Binance, one of the world's biggest cryptocurrency exchanges, registered in the Cayman Islands.
+
+
