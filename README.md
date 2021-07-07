@@ -37677,3 +37677,53 @@
 > Source: Hayato Huseman / Android Central Best mesh Wi-Fi routers Android Central 2021 The best mesh Wi-Fi systems are the networking versions of working smarter, not harder. Compared to a traditional router, mesh systems use several smaller Wi-Fi routers placed around your home to cover you from multiple angles and dodge things like thick walls that can kill your signal. Whether you want top speed and customizability or simplicity and consistency, there's a mesh system that will work in any home.
 
 
+***
+![You can use a PlayStation controller with Xbox Game Pass for Android](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop/public/article_images/2020/03/dualshock-4-hero-closeup-2.jpg "You can use a PlayStation controller with Xbox Game Pass for Android")
+
+
+[You can use a PlayStation controller with Xbox Game Pass for Android](https://www.androidcentral.com/can-i-use-playstation-controller-xbox-game-pass-android)
+
+
+> Source: Jennifer Locke / Android CentralBest answer: Yes, you can use a PlayStation controller with Xbox Game Pass streaming for Android. It's unclear whether the new DualSense, built for PS5, will ever fully work, but Microsoft confirmed that the DualShock 4 would be compatible. Xbox Game Pass Ultimate now includes game streaming, which was formerly known as Project xCloud in beta and is now referred to as Xbox Cloud Gaming or Xbox Game Pass for Android. This means that anyone with an Xbox Game Pass Ultimate membership can stream select games to their Android devices.
+
+
+***
+![Arduino and Python](https://preview.redd.it/iwfpnfrgju971.png?width=1920&format=png&auto=webp&s=b2b0f1de6a460c1a437089c6463c1a0a8cfbd2af "Arduino and Python")
+
+
+[Arduino and Python](https://www.reddit.com/r/Python/comments/ofqspm/arduino_and_python/)
+
+
+> Hi people from reddit i need your help please, i´m currently working in a project that uses arduino and python(raspberry pi), where arduino is working as a TCP server and the raspberry pi as a TCP client, the system works like this:Every arduino has 2 sensors connected ( MQ-135, DHT-22)Every 30 seconds the raspberry pi ask for data from the arduino and send it to the main server (running python)I need help in the main server because it´s where the user is going to see everything, i was thinking
+
+
+***
+![All the July 2021 Android security patch details you need](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2020/11/pixel-5-sexy-af.jpg "All the July 2021 Android security patch details you need")
+
+
+[All the July 2021 Android security patch details you need](https://www.androidcentral.com/android-security-bulletin)
+
+
+> Source: Alex Dobie / Android Central Google has detailed the latest Android Security Bulletin and released the fixes for Pixel devices. These are exploits and other security concerns that affect Android as a whole. Issues with the operating system, kernel patches, and driver updates may not affect any particular device, but these need to be fixed in the Android base by the folks maintaining the operating system code. That means Google, and they've detailed the things they have improved for this month.
+
+
+***
+![Fort Lauderdale signs agreement for Elon Musk's Tesla beach tunnel](https://cdn.cnn.com/cnnnext/dam/assets/200513121109-29-elon-musk-unfurled-super-tease.jpg "Fort Lauderdale signs agreement for Elon Musk's Tesla beach tunnel")
+
+
+[Fort Lauderdale signs agreement for Elon Musk's Tesla beach tunnel](https://www.cnn.com/2021/07/07/tech/musk-boring-fort-lauderdale/index.html)
+
+
+> The Boring Company would offer rides in Teslas to hundreds of people a day for $5-8 per person, the city's leaders have said before. A similar ride in an Uber would cost about $10 per trip at current prices, according to Uber's ride price estimator."This could be a truly innovative way to reduce traffic congestion," Mayor Dean Trantalis said Tuesday night, announcing the plan, though the costs to the city were initially undisclosed. He said other firms will have 45 days to submit competing proposals.
+
+
+***
+![Spectrio Acquires Automotive Broadcasting Network](https://mms.businesswire.com/media/20210707005871/en/797674/23/Cloud_Full_Standard.jpg "Spectrio Acquires Automotive Broadcasting Network")
+
+
+[Spectrio Acquires Automotive Broadcasting Network](https://www.businesswire.com/news/home/20210707005871/en/Spectrio-Acquires-Automotive-Broadcasting-Network)
+
+
+> July 07, 2021 03:37 PM Eastern Daylight Time TAMPA, Fla.--(BUSINESS WIRE)--Spectrio, one of the nation's leading providers of customer engagement technology, announced that it has acquired Automotive Broadcasting Network (ABN), an auto dealership digital signage company based in Jacksonville, Fla. With the addition of ABN's client base to Spectrio's footprint in dealerships, auto care, and aftermarket retail, Spectrio is now the largest digital signage software provider in the automotive industry.
+
+
