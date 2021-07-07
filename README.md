@@ -37453,3 +37453,43 @@
 > We may earn a commission for purchases using our links. Learn more. Apple Arcade The game is coming to iPhone, iPad, Mac, and Apple TV. 7 Jul 2021 Source: Nitrome Super Leap Day is a one-button platform game coming to Apple Arcade soon. A new level will be available for gamers to play every day. Apple Arcade is set to gain a new platformer, but this time with a twist. Super Leap Day requires just a single button and will have new levels made available each day. Created by Nitrome and playable on iPhone, iPad, Mac, and Apple TV, Super Leap Day is coming to Apple Arcade "soon," although gamers can pre-order it from the App Store now.
 
 
+***
+![Flagship Toronto Apple store taking shape with new glass panels](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/toronto-store_1.jpg "Flagship Toronto Apple store taking shape with new glass panels")
+
+
+[Flagship Toronto Apple store taking shape with new glass panels](https://www.imore.com/flagship-toronto-apple-store-taking-shape-new-glass-panels)
+
+
+> Source: iPhone in Canada Apple is building a new store in Toronto, Ontario. The store's trademark glass panels are now being installed. The new Apple store in Toronto, Ontario, is starting to take shape as builders begin the installation of Apple's trademark glass panels on the front of the store. As reported by iPhone in Canada: Back in May, we saw a construction update on Apple's new flagship store in Toronto, Ontario, set to occupy the first three floors of the super-tall condo tower, The One at Yonge and Bloor.
+
+
+***
+![The Switch OLED doesn't need 4K, and Nintendo did well to ignore it](https://cdn.mos.cms.futurecdn.net/EUBNustPrUnfbC2tqsFZBK-1200-80.jpg "The Switch OLED doesn't need 4K, and Nintendo did well to ignore it")
+
+
+[The Switch OLED doesn't need 4K, and Nintendo did well to ignore it](https://www.techradar.com/news/the-switch-oled-doesnt-need-4k-and-nintendo-did-well-to-ignore-it)
+
+
+> The Nintendo Switch OLED is here – or at least it will be relatively soon. Nintendo surprise dropped a reveal trailer on July 6 for the revamped Switch console, which features a 7-inch OLED display instead of the 6.2-inch screen found on the original Switch.We'd heard about a potential OLED display in a number of leaks and rumors, and seeing those whispers become reality is nothing short of seismic. While the LCD screen of the Nintendo Switch never held it back – having been a bestseller for the four years since its launch – this OLED upgrade is only going to elevate the kind of visual experience possible on the Switch handheld.
+
+
+***
+![Great summer games on sale for your Switch!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/03/nintendo-switch-eshop-hero.jpg "Great summer games on sale for your Switch!")
+
+
+[Great summer games on sale for your Switch!](https://www.imore.com/best-nintendo-switch-game-sale-now)
+
+
+> Source: iMore Are you looking to have a bit more fun on your Nintendo Switch but don't know where to find the best Switch game deals? I know the best Nintendo Switch games can be pricey, especially if you're on a budget and can't spend $60 on a game. However, here at iMore, we have found some great games currently on sale. If any of these games spark your interest, check them out by clicking the links below. Here's every game you can pre-order on Amazon right now. Just click the title to check it out! Best Switch game deals: Physical game sales on Amazon right now — get them quick! Source: iMore Sometimes you can find a couple of gems on Amazon for sale, but make sure you catch them quickly.
+
+
+***
+![Gamer fury over new Nintendo Switch MISSING one key PS5 and Xbox feature](https://www.thesun.co.uk/wp-content/uploads/2021/07/NINTCHDBPICT000664281569.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Gamer fury over new Nintendo Switch MISSING one key PS5 and Xbox feature")
+
+
+[Gamer fury over new Nintendo Switch MISSING one key PS5 and Xbox feature](https://www.thesun.co.uk/tech/15516141/fury-nintendo-switch-oled-ps5-xbox-4k/)
+
+
+> FEVER SWITCH Sean Keach, Digital Technology and Science Editor10:48, 7 Jul 2021Updated: 10:49, 7 Jul 2021GAMERS got their first look at Nintendo's new console yesterday – and they aren't happy. Hoards of fans have taken to social media to berate the gaming giant for overlooking a key feature during the Nintendo Switch OLED's development. The Nintendo Switch OLED hits shelves worldwide in OctoberCredit: Nintendo Switch The Nintendo Switch OLED is overpriced. Imagine paying $50 less than a PS5 for a console with:No 4K support for HDTV720p screenNo 60fpsNo DLSSOnly 64GB of storage pic.
+
+
