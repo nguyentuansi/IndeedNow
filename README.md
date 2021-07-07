@@ -37493,3 +37493,50 @@
 > FEVER SWITCH Sean Keach, Digital Technology and Science Editor10:48, 7 Jul 2021Updated: 10:49, 7 Jul 2021GAMERS got their first look at Nintendo's new console yesterday – and they aren't happy. Hoards of fans have taken to social media to berate the gaming giant for overlooking a key feature during the Nintendo Switch OLED's development. The Nintendo Switch OLED hits shelves worldwide in OctoberCredit: Nintendo Switch The Nintendo Switch OLED is overpriced. Imagine paying $50 less than a PS5 for a console with:No 4K support for HDTV720p screenNo 60fpsNo DLSSOnly 64GB of storage pic.
 
 
+***
+[Report: Indian startups raised a record $10.46B in H1 2021, vs. $4B in H1 2020 and $11.6B in all of 2020; India produced 16 unicorns this year (Manish Singh/TechCrunch)](http://www.techmeme.com/210707/p9#a210707p9)
+
+
+> Manish Singh / TechCrunch: Report: Indian startups raised a record $10.46B in H1 2021, vs. $4B in H1 2020 and $11.6B in all of 2020; India produced 16 unicorns this year — Indian startups have raised a record $10.46 billion in the first half of 2021, up from $4 billion in H1 2020. — A startup founder …
+
+
+***
+![Search and data structures for beginners](https://external-preview.redd.it/uZrR_A7qkOHG-rhLhgLrCr-6DtcjTUqByu09R6xJFpA.jpg?auto=webp&s=0400f5d336314361d98b937b6e4f1271a0c7794b "Search and data structures for beginners")
+
+
+[Search and data structures for beginners](https://www.reddit.com/r/programming/comments/ofhgy9/search_and_data_structures_for_beginners/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Acrylic raises debut $55M solo GP fund to paint the future of crypto – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/49211485472_71bcae7901_o.jpg?w=600 "Acrylic raises debut $55M solo GP fund to paint the future of crypto – TechCrunch")
+
+
+[Acrylic raises debut $55M solo GP fund to paint the future of crypto – TechCrunch](https://techcrunch.com/2021/07/07/acrylic-debut-crypto-fund/)
+
+
+> It's been quite the year for crypto capital, what with Coinbase's blockbuster debut earlier this year in a direct listing and A16Z raising $2.2 billion for its third crypto-focused fund. But as the numbers in this frenetic market continue to skyrocket to dizzying highs, there is an open question for a lot of crypto founders: who exactly can work with me at the earliest possible stage? That's the investment thesis of Ash Egan, the current solo GP of Brooklyn-based Acrylic, which today announced a $55 million debut fund that will be focused on what he dubs 'inception capital.
+
+
+***
+![Wait a second, does the two-year phone upgrade still make sense? I think not](https://www.cnet.com/a/img/BWfh-sZLyqI2HC74LvDQ4kMr8-w=/1200x630/2021/04/24/f11794a3-f8d2-4007-8a20-3f7d4e35193b/123-iphone-12-purple-2021.jpg "Wait a second, does the two-year phone upgrade still make sense? I think not")
+
+
+[Wait a second, does the two-year phone upgrade still make sense? I think not](https://www.cnet.com/tech/mobile/wait-a-second-does-the-two-year-phone-upgrade-still-make-sense-i-think-not/)
+
+
+> Sarah Tew/CNET We all know the drill. As Apple's annual fall event draws close, many of us start to check in on our previous two-year smartphone plan to see if we're eligible for an upgrade in September. After all, the newest phone is only the newest phone for so long. Even for discerning shoppers like myself, it takes serious willpower to resist the lure of say-- a purple iPhone.Mobile carriers have long persuaded many of us to upgrade our smartphones every two years, offering two-year contracts linked to free or low-cost phone upgrades to keep the two-year upgrade cycle going.
+
+
+***
+![Lacuna raises $16 million in Series A to help cities manage mobility via digital twin – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/TECHCRUNCH_FINAL_HMartin_ForbesPortrait_0437-HorizCrop.jpg "Lacuna raises $16 million in Series A to help cities manage mobility via digital twin – TechCrunch")
+
+
+[Lacuna raises $16 million in Series A to help cities manage mobility via digital twin – TechCrunch](https://techcrunch.com/2021/07/07/lacuna-raises-16-million-in-series-a-to-help-cities-manage-mobility-via-digital-twin/)
+
+
+> Lacuna Technologies, a startup that helps cities create and enforce transportation policies by building and managing open-source digital tools, has raised $16 million in a Series A round, bringing the company's total investment to $33.5 million. Since the startup was founded in 2018, Lacuna has invested in helping cities like Los Angeles, Seattle and Miami build digital twins, or software models of real world cities – including all forms of mobility from delivery to rideshare to drones to regular traffic.
+
+
