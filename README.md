@@ -37268,3 +37268,50 @@
 > © Instagram / chasing mavericks By: Ethan Thomas2021-07-07 03:13:22 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Last Night's Parties: Gerard Butler Hangs Loose At The 'Chasing Mavericks' Premiere, Dita Von Teese Launches Her Capsule Collection & More and 'The Master,' 'Chasing Mavericks' Arrive on DVD, Blu-ray Bryson's Caddie Trouble, «The Match,» and the John Deere Classic. Ukiah Brewing Company presents Megan Miller and the Meta. ‘Our bodies should be respected' Locals react to video that shows customer tapping backside of Tsunami Sushi server.
 
 
+***
+![ACOMS finalists announced by Communications Alliance](https://itwire.com/media/k2/items/cache/53095f15d377e70662b4287334b6bd2b_XS.jpg "ACOMS finalists announced by Communications Alliance")
+
+
+[ACOMS finalists announced by Communications Alliance](https://itwire.com/telecoms-and-nbn/acoms-finalists-announced-by-communications-alliance.html)
+
+
+> John Stanton, CEO Communications Alliance Telecoms industry peak body Communications Alliance has announced the 2021 finalists in the communications industry's premier awards for excellence -the ACOMMS - which recognise exemplary achievement across 12 categories of endeavour. Communications Alliance says the short-listed nominees in all award categories are a showcase of talent from across the sector and 'illustrative of the industry's innovation to harness the benefits of next-generation networks, connectivity solutions, transformed customer service approaches and available?anywhere, advanced services and applications'.
+
+
+***
+[Mirait](https://itwire.com/freelancer-sp-720/tag/Mirait.html)
+
+
+> Telecoms industry peak body Communications Alliance has announced the 2021 finalists in the communications industry's premier awards for excellence -the ACOMMS - which recognise exemplary achievement across 12 categories of endeavour.
+
+
+***
+![Real-Time Payments Now as Popular as Cash in Southeast Asia as Pandemic Accelerates Digitization of Payments, New ACI Worldwide Research Reveals](https://mms.businesswire.com/media/20210706005696/en/889618/23/ACI-logo-1.jpg "Real-Time Payments Now as Popular as Cash in Southeast Asia as Pandemic Accelerates Digitization of Payments, New ACI Worldwide Research Reveals")
+
+
+[Real-Time Payments Now as Popular as Cash in Southeast Asia as Pandemic Accelerates Digitization of Payments, New ACI Worldwide Research Reveals](https://www.businesswire.com/news/home/20210706005696/en/Real-Time-Payments-Now-as-Popular-as-Cash-in-Southeast-Asia-as-Pandemic-Accelerates-Digitization-of-Payments-New-ACI-Worldwide-Research-Reveals)
+
+
+> July 06, 2021 10:00 PM Eastern Daylight Time MIAMI & SINGAPORE--(BUSINESS WIRE)--Real-time payments are now as popular as cash as a payment method for consumers in Southeast Asia, according to new research from ACI Worldwide (NASDAQ: ACIW) and YouGov. Three out of five consumers (61%) in Indonesia, Malaysia, Thailand and Singapore prefer real-time payments as a favored way to pay in 2021, level with cash (61%) and higher than other payment categories, including digital wallets requiring cash or card top-ups (56%) and credit cards (30%).
+
+
+***
+![TikTok went down and people flocked to Twitter with memes](https://www.cnet.com/a/img/txGS7xYV_UusAGQDtkLezteN5a0=/1200x630/2021/03/25/6da54cf1-c80e-4396-b50f-e17b3d0b2f06/001-tiktok-app-logo-on-phone-2021.jpg "TikTok went down and people flocked to Twitter with memes")
+
+
+[TikTok went down and people flocked to Twitter with memes](https://www.cnet.com/tech/mobile/tiktok-went-down-and-people-flocked-to-twitter-with-memes/)
+
+
+> TikTok is experiencing some issues, to the dismay of its users. Sarah Tew/CNET Social video app TikTok experienced some performance issues on Tuesday, with DownDetector showing a spike in outages starting around 1 p.m. PT. Most users reported having issues watching videos, while others aren't able to log in or upload content. The app also experienced issues when it came to liking videos and seeing comments. TikTok didn't immediately respond to a request for comment. The issue was apparently resolved around 6 p.
+
+
+***
+![M-Files leads Nucleus Research Content report for the eighth consecutive year](https://itwire.com/media/k2/items/cache/b04ac70215e72cf80331486d8a99a7ad_XS.jpg "M-Files leads Nucleus Research Content report for the eighth consecutive year")
+
+
+[M-Files leads Nucleus Research Content report for the eighth consecutive year](https://itwire.com/guest-articles/m-files-leads-nucleus-research-content-report-for-the-eighth-consecutive-year.html)
+
+
+> The 2021 Nucleus Research Content Services and Collaboration Value Matrix Report has once again named solution software vendor M-Files as a leader, ranking high in terms of its usability and functionality. GUEST RESEARCH: M-Files has been named a leader in the 2021 Nucleus Research Content Services and Collaboration Value Matrix Report for the eighth consecutive year, it announced. M-Files says it was recognised in terms of usability and functionality. The company's technology allows knowledge workers to access and use content anytime, anywhere, on any device with the user interface of their choice.
+
+
