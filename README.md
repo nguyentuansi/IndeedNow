@@ -37362,3 +37362,47 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[攻百億維運市場，工研院與英國離岸再生能源整合開發中心簽署 MOU](https://technews.tw/2021/07/07/itri-ore-catapult-mou/)
+
+
+> 工研院（6）日與英國離岸再生能源整合開發中心（Offshore Renewable Energy Catapu […]
+
+
+***
+![Edgecore Networks Unveils a Robust Core Router Solution for Next-Generation Cloud and Service Provider Infrastructures](https://mms.businesswire.com/media/20210706005139/en/889437/23/Edgecore_Core_Router_AS7926-40XKFB.jpg "Edgecore Networks Unveils a Robust Core Router Solution for Next-Generation Cloud and Service Provider Infrastructures")
+
+
+[Edgecore Networks Unveils a Robust Core Router Solution for Next-Generation Cloud and Service Provider Infrastructures](https://www.businesswire.com/news/home/20210706005139/en/Edgecore-Networks-Unveils-a-Robust-Core-Router-Solution-for-Next-Generation-Cloud-and-Service-Provider-Infrastructures)
+
+
+> July 07, 2021 02:00 AM Eastern Daylight Time HSINCHU, Taiwan--(BUSINESS WIRE)--Edgecore Networks, the leader in open networking solutions, today announces the release of an innovative new open router product family. The AS7926-40XKFB 100G Aggregation Router solution enables carriers to upgrade their network infrastructure to address the challenges of 5G deployment and the tremendous traffic growth from the network edge to the core. With the introduction of 5G mobile networks, carrier and cloud service providers are upgrading their network infrastructure to address the significant growth in bandwidth consumption driven by innovative new services and increased users.
+
+
+***
+![Microsoft releases emergency Windows patch to fix critical vulnerability](https://bsmedia.business-standard.com/_media/bs/img/article/2017-11/30/full/1511990442-9763.jpg "Microsoft releases emergency Windows patch to fix critical vulnerability")
+
+
+[Microsoft releases emergency Windows patch to fix critical vulnerability](https://www.business-standard.com/article/technology/microsoft-releases-emergency-windows-patch-to-fix-critical-vulnerability-121070700248_1.html)
+
+
+> Microsoft has released an emergency Windows patch to fix a critical vulnerability in the Windows Print Spooler service called PrintNightmare that was released last week. An attacker who successfully exploited this vulnerability could run arbitrary code with System privileges. An attacker could then install programmes, view, change, or delete data, or create new accounts with full user rights. Microsoft said on Tuesday that it has completed the investigation and has released security updates to address this vulnerability.
+
+
+***
+[Console Do Not Track: A proposed unified standard for opting out of telemetry for TUI/console apps](https://www.reddit.com/r/programming/comments/ofcxu0/console_do_not_track_a_proposed_unified_standard/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Tata Dark Edition family grows: All-black Altroz Dark, Nexon Dark, Nexon EV Dark launched- Technology News, Firstpost](https://images.firstpost.com/wp-content/uploads/2021/07/tata-nexon-dark-edition-altroz-dark-edition-nexon-ev-dark-edition-launched.jpg "Tata Dark Edition family grows: All-black Altroz Dark, Nexon Dark, Nexon EV Dark launched- Technology News, Firstpost")
+
+
+[Tata Dark Edition family grows: All-black Altroz Dark, Nexon Dark, Nexon EV Dark launched- Technology News, Firstpost](https://www.firstpost.com/tech/auto/tata-dark-edition-family-grows-all-black-altroz-dark-nexon-dark-nexon-ev-dark-launched-9785341.html)
+
+
+> tech2 News StaffJul 07, 2021 11:25:12 ISTTata Motors has expanded its Dark Edition line-up today by introducing stealthy-looking versions Dark Edition versions of the Tata Altroz, Tata Nexon and Tata Nexon EV. The first – and till now, only – Tata model to get the Dark Edition treatment was the Tata Harrier, which was introduced all the way back in 2019. Tata has taken this opportunity to also update the Harrier Dark with a new paint scheme and some other small tweaks. Additionally, all Dark Edition models get a tyre puncture repair kit as standard, and customers will also receive Dark-branded merchandise with their vehicles.
+
+
