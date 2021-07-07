@@ -37224,3 +37224,47 @@
 > Though Google had been making changes on the Android front, it hasn't forgotten about the good old search page. The company has just rolled out a few small changes to the Google search engine. These changes, as spotted by 9To5Google, include a new Google dark mode, and customized backgrounds.Some settings have been moved to a new locationFolks who like to tinker with the Google settings will appreciate this new change. Google rolled this new change out to the public. On the top right of the search engine, you see your profile picture and your the apps grid next to it.
 
 
+***
+[Nvidia launches the $100M Cambridge-1 supercomputer in the UK for health care research, says it is the UK's most powerful with 400+ petaflops of AI performance (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210706/p24#a210706p24)
+
+
+> Dean Takahashi / VentureBeat: Nvidia launches the $100M Cambridge-1 supercomputer in the UK for health care research, says it is the UK's most powerful with 400+ petaflops of AI performance — Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. — Nvidia is launching …
+
+
+***
+[The Questionable design decisions of PyMongo](https://www.reddit.com/r/Python/comments/of7m29/the_questionable_design_decisions_of_pymongo/)
+
+
+> So I've been using PyMongo for a few weeks now, and there's specifically something very infuriating about it, when you try to access a db/collection that doesn't exist (through the client) the client will still return a totally valid db/collection object without raising an exception as if you're accessing the right now, and when you try to query it using find or find_one it'd return an empty list or None as if the collection does actually exist but is empty, and as you can imagine, this has wasted me hours of debugging over small typos when writing the db/collection names, you could literally try to access client.
+
+
+***
+![Is No Strings Attached a True Story? Is the Movie Based on Real Life? and Where Was No Strings Attached Filmed? 2011 Movie Filming Locations](https://https://www.thearkatech.com/img/news_img/all/14659_4_1200.pic "Is No Strings Attached a True Story? Is the Movie Based on Real Life? and Where Was No Strings Attached Filmed? 2011 Movie Filming Locations")
+
+
+[Is No Strings Attached a True Story? Is the Movie Based on Real Life? and Where Was No Strings Attached Filmed? 2011 Movie Filming Locations](https://www.thearkatech.com/en/80283/)
+
+
+> © Instagram / no strings attached By: Andrew Garcia2021-07-07 03:14:16 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Transfer news and rumours LIVE: Arsenal make official Aouar bid. Social housing complex residents to get shared electric bikes and cars. COVID-19 breaking news: Queensland premier to give update; Sydney lockdown extension expected; No new Victorian cases. Elsa regains hurricane strength as it closes in on Florida. White man caught on video pushing Black neighbor in racist rant is arrested.
+
+
+***
+![Attempted Hack of R.N.C. and Russian Ransomware Attack Test Biden](https://static01.nyt.com/images/2021/07/06/lens/06cyber-photo/06cyber-photo-facebookJumbo.jpg "Attempted Hack of R.N.C. and Russian Ransomware Attack Test Biden")
+
+
+[Attempted Hack of R.N.C. and Russian Ransomware Attack Test Biden](https://www.nytimes.com/2021/07/06/technology/rnc-hacked-cyberattack-russia.html)
+
+
+> livePolitics UpdatesTaxing the Rich$4 Trillion Economic PlanLiz CheneyContinue reading the main storyThe breach of a Republican National Committee contractor, also linked to Russia, and the global ransomware attack occurred weeks after a U.S.-Russian summit.At their summit in Geneva last month, President Biden said he had warned his Russian counterpart, Vladimir V. Putin, of red lines in the cyber arena.Credit...Doug Mills/The New York TimesBy Nicole Perlroth and David E. SangerJuly 6, 2021Updated 8:14 p.
+
+
+***
+!['The Master,' 'Chasing Mavericks' Arrive on DVD, Blu-ray and Last Night's Parties: Gerard Butler Hangs Loose At The 'Chasing Mavericks' Premiere, Dita Von Teese Launches Her Capsule Collection &amp; More](https://https://www.thearkatech.com/img/news_img/all/13445_13_1200.pic "'The Master,' 'Chasing Mavericks' Arrive on DVD, Blu-ray and Last Night's Parties: Gerard Butler Hangs Loose At The 'Chasing Mavericks' Premiere, Dita Von Teese Launches Her Capsule Collection &amp; More")
+
+
+['The Master,' 'Chasing Mavericks' Arrive on DVD, Blu-ray and Last Night's Parties: Gerard Butler Hangs Loose At The 'Chasing Mavericks' Premiere, Dita Von Teese Launches Her Capsule Collection &amp; More](https://www.thearkatech.com/en/80282/)
+
+
+> © Instagram / chasing mavericks By: Ethan Thomas2021-07-07 03:13:22 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Last Night's Parties: Gerard Butler Hangs Loose At The 'Chasing Mavericks' Premiere, Dita Von Teese Launches Her Capsule Collection & More and 'The Master,' 'Chasing Mavericks' Arrive on DVD, Blu-ray Bryson's Caddie Trouble, «The Match,» and the John Deere Classic. Ukiah Brewing Company presents Megan Miller and the Meta. ‘Our bodies should be respected' Locals react to video that shows customer tapping backside of Tsunami Sushi server.
+
+
