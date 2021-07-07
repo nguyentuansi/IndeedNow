@@ -37315,3 +37315,50 @@
 > The 2021 Nucleus Research Content Services and Collaboration Value Matrix Report has once again named solution software vendor M-Files as a leader, ranking high in terms of its usability and functionality. GUEST RESEARCH: M-Files has been named a leader in the 2021 Nucleus Research Content Services and Collaboration Value Matrix Report for the eighth consecutive year, it announced. M-Files says it was recognised in terms of usability and functionality. The company's technology allows knowledge workers to access and use content anytime, anywhere, on any device with the user interface of their choice.
 
 
+***
+[dict covert](https://www.reddit.com/r/Python/comments/ofb7z3/dict_covert/)
+
+
+> I have a data structure， like this :[[{'name': 'type', 'value': '1'}, {'name': 'domain', 'value': '2'}, {'name': 'hostvalue', 'value': '3'}, {'name': 'description', 'value': '4'}], [{'name': 'type', 'value': 'sdf'}, {'name': 'domain', 'value': 'asdf'}, {'name': 'hostvalue', 'value': 'asdf'}, {'name': 'description', 'value': 'df'}]]but I want to convert to another new dict , like this:[{'type': 'sdf', 'domain': 'asdf', 'hostvalue': 'asdf', 'description': 'df'}, {'type': 'sdf', 'domain': 'asdf', '
+
+
+***
+![Microsoft fixes critical bug that could exploit personal data of Windows users](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/rtx1mbuy_0_1200x768-original.png "Microsoft fixes critical bug that could exploit personal data of Windows users")
+
+
+[Microsoft fixes critical bug that could exploit personal data of Windows users](https://www.indiatoday.in/technology/news/story/microsoft-fixes-critical-bug-that-could-exploit-personal-data-of-windows-users-1824811-2021-07-07)
+
+
+> Ankita Chakravarti New Delhi, Jul 07, 2021, Updated Jul 07, 2021, 9:24 AM IST A few days, Microsoft issued a warning about a critical bug that install exploit the data of Windows. The company has now rolled out an emergency Windows patch to address the vulnerability that was found in the Windows Print Spooler service. The Windows Print Spooler service which was called 'PrintNightmare' was believed to be extremely harmful in nature. The researchers have revealed that the bug 'PrintNighmare can be exploited by hackers to gain control of a user' system.
+
+
+***
+![Realme teases launch of next Master Edition phone in India, may be GT Master Edition](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/realme_logo_1_1200x768-original.jpeg "Realme teases launch of next Master Edition phone in India, may be GT Master Edition")
+
+
+[Realme teases launch of next Master Edition phone in India, may be GT Master Edition](https://www.indiatoday.in/technology/news/story/realme-teases-launch-of-next-master-edition-phone-in-india-may-be-gt-master-edition-1824807-2021-07-07)
+
+
+> Story highlights Realme has teased the launch of the next Master Edition phone. Realme GT Master Edition is likely to come to India soon. Realme GT Master Edition will reportedly have a 108-megapixel camera. Realme GT Master Edition is likely to come soon to India. Amid various rumours, Realme India and Europe CEO Madhav Sheth posted a teaser on Twitter to ask fans what the next "Master Edition" phone would be. The photo he posted shows previous counterparts, such as the Realme X2 Pro Master Edition and the Realme X Master Edition, both designed by the company in collaboration with Japanese designer Naoto Fukasawa.
+
+
+***
+![TCS is SonyLiv's tech partner](https://cdn.mos.cms.futurecdn.net/Pt5JUs8gwDqnVGd3ar8gtk-1200-80.jpg "TCS is SonyLiv's tech partner")
+
+
+[TCS is SonyLiv's tech partner](https://www.techradar.com/news/tcs-is-sonylivs-tech-partner-can-it-help-ott-platform-give-better-user-experience)
+
+
+> (Image credit: SonyLiv) Among the many frontline OTT platforms in India, SonyLiv receives a lot of flak over its clunky and unfriendly-to-use app. On most social media platforms, it is not uncommon to find SonyLiv users venting out their frustration over the app's alleged malfunctions. The fact that SonyLiv has access to popular live cricket feeds and sports action (Euro 2020 is on it, and the Tokyo Olympics will be streamed by it) makes it difficult to ignore it too. Last year's best web series, Scam 1992, was also its baby.
+
+
+***
+![Solution to 60+ Python Questions for Beginners and Intermediates](https://external-preview.redd.it/24fTCNfuEpfBBbBnDz8-V8xtXqSUs9BXp92ym-Qn5DE.jpg?auto=webp&s=1db32fa0e1fbc7c4740fbb46c060261ea462ec62 "Solution to 60+ Python Questions for Beginners and Intermediates")
+
+
+[Solution to 60+ Python Questions for Beginners and Intermediates](https://www.reddit.com/r/Python/comments/ofau83/solution_to_60_python_questions_for_beginners_and/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
