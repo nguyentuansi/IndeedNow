@@ -37627,3 +37627,53 @@
 > After a chaotic few months for cryptocurrency, the market has calmed down considerably.For the last seven days, bitcoin has failed to break above $36,000 or drop below $32,000 – and for the last seven weeks it has traded within a $10,000 window between $30,000 and $40,000.>> Follow all the latest updates with The Independent's live coverage of the crypto marketThis remarkable period of stability has been largely mirrored by other leading cryptocurrencies, such as Ethereum (ether) and Cardano (ada), however certain meme coins have managed to buck market trends with their own record-breaking runs.
 
 
+***
+![Microsoft issues urgent security warning and reveals steps to take to avoid being HACKED](https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/NINTCHDBPICT000616852250-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Microsoft issues urgent security warning and reveals steps to take to avoid being HACKED")
+
+
+[Microsoft issues urgent security warning and reveals steps to take to avoid being HACKED](https://www.the-sun.com/lifestyle/tech/3238021/microsoft-issues-urgent-security-warning-stop-hackers/)
+
+
+> MICROSOFT has issued an urgent security warning instructing Windows users to immediately install an update to prevent being hacked. The warning was issued by the software giant on Tuesday after security researchers found a pressing vulnerability in the operating system. The warning was issued by the software giant on TuesdayCredit: Getty - Contributor The vulnerability could permit hackers to download software, steal data and create new user accountsCredit: Getty The security flaw, dubbed PrintNightmare, affects the Widows Print Spooler Service - which allows multiple users to access a printer.
+
+
+***
+![Want the ASUS ZenFone 8? Here's where you can get it](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop_wm_brw/public/article_images/2021/05/asus-zf8-17.jpg "Want the ASUS ZenFone 8? Here's where you can get it")
+
+
+[Want the ASUS ZenFone 8? Here's where you can get it](https://www.androidcentral.com/whats-best-place-buy-asus-zenfone-8-us)
+
+
+> Source: Alex Dobie / Android CentralBest answer: The ASUS store. The ASUS ZenFone 8 is only sold directly by ASUS's online store. You can order the phone with either 128GB of storage for $599 or 256GB for $699, and ASUS will provide free FedEx Ground shipping to the 48 contiguous states. For now, the only place you can buy the ASUS ZenFone 8 for retail is ASUS's own online store. ASUS doesn't have a huge presence in the US smartphone market. So, it's no surprise that the new ZenFone 8 doesn't have as prominent of placement in major retailers or mobile carrier stores as the latest iPhones or Android phones.
+
+
+***
+![Pokémon Unite: Does it support cross-play on Android?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop/public/article_images/2021/02/pokemon-unite-4_0.jpg "Pokémon Unite: Does it support cross-play on Android?")
+
+
+[Pokémon Unite: Does it support cross-play on Android?](https://www.androidcentral.com/pokemon-unite-does-it-support-cross-play-android)
+
+
+> Source: The Pokémon CompanyBest answer: Yes, Pokémon Unite supports cross-play across Android, iOS, and Nintendo Switch. However, the company said that this was a unique case, and players shouldn't expect cross-play in all Nintendo titles in the future. Pokémon Unite is an upcoming MOBA (multiplayer online battle arena) where players face off in 5v5 team battles. The player that scores the most points in the allotted time wins. Players will be able to catch wild Pokémon, level up, evolve their Pokémon, and attempt to prevent their opponent from doing the same.
+
+
+***
+![Ready for the Galaxy Z Fold 3? Here's everything we know (so far)](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/samsung-galaxy-z-fold-2-multitasking.jpg "Ready for the Galaxy Z Fold 3? Here's everything we know (so far)")
+
+
+[Ready for the Galaxy Z Fold 3? Here's everything we know (so far)](https://www.androidcentral.com/samsung-galaxy-z-fold-3)
+
+
+> Source: Hayato Huseman / Android Central Last year was big for foldable smartphones — with Samsung leading the charge in more ways than one. The company debuted its Galaxy Z Flip lineup to tackle the vertical folding niche, and with the Galaxy Z Fold 2, Samsung gave us one of the very best foldables we've seen yet. As such, there's a lot of excitement and anticipation around the inevitable Galaxy Z Fold 3. The year-over-year improvements between the original Galaxy Fold and the Z Fold 2 are still kind of mind-blowing to this very day, so the idea of Samsung continuing to refine that formula is something we can't wait to see.
+
+
+***
+![These are the best mesh Wi-Fi routers you can buy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/12/eero-mesh-wifi-gen-3-6.jpg "These are the best mesh Wi-Fi routers you can buy")
+
+
+[These are the best mesh Wi-Fi routers you can buy](https://www.androidcentral.com/best-mesh-wi-fi-routers)
+
+
+> Source: Hayato Huseman / Android Central Best mesh Wi-Fi routers Android Central 2021 The best mesh Wi-Fi systems are the networking versions of working smarter, not harder. Compared to a traditional router, mesh systems use several smaller Wi-Fi routers placed around your home to cover you from multiple angles and dodge things like thick walls that can kill your signal. Whether you want top speed and customizability or simplicity and consistency, there's a mesh system that will work in any home.
+
+
