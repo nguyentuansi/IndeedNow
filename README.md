@@ -37727,3 +37727,50 @@
 > July 07, 2021 03:37 PM Eastern Daylight Time TAMPA, Fla.--(BUSINESS WIRE)--Spectrio, one of the nation's leading providers of customer engagement technology, announced that it has acquired Automotive Broadcasting Network (ABN), an auto dealership digital signage company based in Jacksonville, Fla. With the addition of ABN's client base to Spectrio's footprint in dealerships, auto care, and aftermarket retail, Spectrio is now the largest digital signage software provider in the automotive industry.
 
 
+***
+![How to Become a Backend Developer in 2021](https://external-preview.redd.it/qbaBOCFiOklHhrzP0R0SAy5PMDYD7_69G6JP52TuLk4.jpg?auto=webp&s=7fc023167a09cd73e9a8a7fe57b26176ccd3dba2 "How to Become a Backend Developer in 2021")
+
+
+[How to Become a Backend Developer in 2021](https://www.reddit.com/r/programming/comments/oft6cm/how_to_become_a_backend_developer_in_2021/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Google to be sued by states over alleged Play store abuse](https://ca-times.brightspotcdn.com/dims4/default/4d8a00d/2147483647/strip/true/crop/5039x2645+0+345/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2F7a%2Fc8707df34f989b71af265a76cc85%2Fgoogle-privacy-27206.jpg "Google to be sued by states over alleged Play store abuse")
+
+
+[Google to be sued by states over alleged Play store abuse](https://www.latimes.com/business/technology/story/2021-07-07/google-to-be-sued-by-states-over-alleged-play-store-abuse)
+
+
+> Dozens of states are poised to sue Alphabet Inc.'s Google alleging that the company illegally abused its power over developers that distribute apps through the Google Play store on mobile devices, according to people familiar with the situation.State attorneys general are preparing to file an antitrust lawsuit that targets the fees Google takes from developers for purchases and subscriptions inside apps, said one of the people, who asked not to be identified discussing the case. The lawsuit could be filed as soon as Wednesday in California, a second person said.
+
+
+***
+![Ubisoft confirms Assassin's Creed Infinity is coming](https://www.cnet.com/a/img/LiGRP_knf4fVb0XXsjDbeWHJ9Pw=/1200x630/2020/04/29/c22ce561-6c00-4b91-b292-0e27bb1f19b4/screen-shot-2020-04-29-at-9-33-39-am.png "Ubisoft confirms Assassin's Creed Infinity is coming")
+
+
+[Ubisoft confirms Assassin's Creed Infinity is coming](https://www.cnet.com/tech/services-and-software/ubisoft-confirms-assassins-creed-infinity-is-coming/)
+
+
+> Ubisoft confirmed that Assassin's Creed Infinity is in the works.  BossLogic/ Screenshot by CNET The wait is almost over -- Assassin's Creed Infinity is coming. Ubisoft confirmed the release in a news update Wednesday after Bloomberg reported that the new game will have live online play, like Fortnite and other popular games. Assassin's Creed is one of Ubisoft's most popular video gaming franchises that takes gamers on an adventure through different historical events over time.Aside from revealing the new game is coming, Ubisoft did not confirm that it will be a live service to add new features and quests, like Fortnite.
+
+
+***
+[Trump's lawsuits that claim Facebook, Twitter, and YouTube violated his First Amendment rights are just PR and fundraising tools, and likely legally doomed (Bonnie Kristian/The Week)](http://www.techmeme.com/210707/p41#a210707p41)
+
+
+> Bonnie Kristian / The Week: Trump's lawsuits that claim Facebook, Twitter, and YouTube violated his First Amendment rights are just PR and fundraising tools, and likely legally doomed — One member of this class action is not like the others — Former President Donald Trump announced himself on Wednesday …
+
+
+***
+![PreMarket Prep Stock Of The Day: Carver Bancorp](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/safe-913452_1920_38.jpg?width=720 "PreMarket Prep Stock Of The Day: Carver Bancorp")
+
+
+[PreMarket Prep Stock Of The Day: Carver Bancorp](https://www.benzinga.com/trading-ideas/technicals/21/07/21886852/premarket-prep-stock-of-the-day-carver-bancorp)
+
+
+> Benzinga's PreMarket Prep airs every morning from 8-9 a.m. ET. During that fast-paced, highly informative hour, traders and investors tune in to get the major news of the day, the catalysts behind those moves and the corresponding price action for the upcoming session. On any given day, the show will cover at least 20 stocks determined by co-hosts Joel Elconin and Dennis Dick along with producer Spencer Israel. While many issues in the financial sector were not participating in Wednesday's rally, one issue in the sector is having a good day.
+
+
