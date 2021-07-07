@@ -37580,3 +37580,50 @@
 > More than five million British banking customers are to be barred from buying cryptocurrencies within days amid concerns that trading platforms are riddled with fraudsters.The Times has learnt that TSB is preparing to block its customers from sending money to trading sites such as Binance and Kraken because it believes scammers are being allowed to set up e-wallets and steal people's money because of weak security checks.The bank is particularly concerned about Binance, one of the world's biggest cryptocurrency exchanges, registered in the Cayman Islands.
 
 
+***
+![Roguebook Card Design Contest Winner Will Receive a Black Lotus](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Roguebook.jpg?itok=SC_7SgqN "Roguebook Card Design Contest Winner Will Receive a Black Lotus")
+
+
+[Roguebook Card Design Contest Winner Will Receive a Black Lotus](https://techraptor.net/gaming/news/roguebook-card-design-contest-winner-will-receive-black-lotus)
+
+
+> 07/07/2021 - 12:07 | By: Patrick Perrault For those that are feeling creative, Roguebook, a a roguelike deck-builder from Abrakam Entertainment, the creators of Faeria, has announced a card design contest. If you're lucky enough to win the grand prize, you'll receive a Grade 9 Magic the Gathering Black Lotus that's worth $20,000. For those not in the know, the Black Lotus is the most famous card in all of Magic the Gathering, with a card in "perfect condition" and signed by the artist selling for $511,100.
+
+
+***
+[Analysis of global venture funding for H1 2021: $288B invested, an all-time high and up by $110B on H2 2020, with most going to late-stage companies (Gené Teare/Crunchbase News)](http://www.techmeme.com/210707/p29#a210707p29)
+
+
+> Gené Teare / Crunchbase News: Analysis of global venture funding for H1 2021: $288B invested, an all-time high and up by $110B on H2 2020, with most going to late-stage companies — Global venture capital funding in the first half of 2021 shattered records as more than $288 billion was invested worldwide, Crunchbase numbers show.
+
+
+***
+![LMP Automotive Appoints Robert Bellaflores As CFO](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/aaconsumerv3_154.png "LMP Automotive Appoints Robert Bellaflores As CFO")
+
+
+[LMP Automotive Appoints Robert Bellaflores As CFO](https://www.benzinga.com/news/21/07/21875992/lmp-automotive-appoints-robert-bellaflores-as-cfo)
+
+
+> LMP Automotive Shares Gain On Q1 Earnings, Strong Q2 Guidance 12 Consumer Discretionary Stocks Moving In Wednesday's Pre-Market Session LMP Automotive's Debt Overview 23 Stocks Moving in Wednesday's Pre-Market Session 58 Biggest Movers From Yesterday 12 Consumer Discretionary Stocks Moving In Tuesday's After-Market Session
+
+
+***
+![r2c raises $27M to scale its security-focused code analysis service – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1157048386.jpg?w=600 "r2c raises $27M to scale its security-focused code analysis service – TechCrunch")
+
+
+[r2c raises $27M to scale its security-focused code analysis service – TechCrunch](https://techcrunch.com/2021/07/07/r2c-raises-27m-to-scale-its-security-focused-code-analysis-service/)
+
+
+> This morning r2c, a startup building a SaaS service around the Semgrep open-source project, announced that it has closed a $27 million Series B. Felicis led the round, which the company said was a pre-emptive deal. Prior investors firms Redpoint and Sequoia also participated in the fundraising event; r2c last raised a $13 million Series A in October of 2020. The startup fits into several trends that TechCrunch has explored in recent quarters, including what appears to be a growing number of open-source (OSS) grounded startups raising capital, more rounds coming to exist thanks to investors looking to get the jump on inside rounds before they can form.
+
+
+***
+![Crypto market stasis: Experts and academics take questions on bitcoin, ethereum and other cryptocurrencies](https://static.independent.co.uk/2021/07/07/16/crypto%20expert%20qa%20prediction.jpg?width=1200&auto=webp&quality=75 "Crypto market stasis: Experts and academics take questions on bitcoin, ethereum and other cryptocurrencies")
+
+
+[Crypto market stasis: Experts and academics take questions on bitcoin, ethereum and other cryptocurrencies](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-prediction-crypto-analysis-b1879869.html)
+
+
+> After a chaotic few months for cryptocurrency, the market has calmed down considerably.For the last seven days, bitcoin has failed to break above $36,000 or drop below $32,000 – and for the last seven weeks it has traded within a $10,000 window between $30,000 and $40,000.>> Follow all the latest updates with The Independent's live coverage of the crypto marketThis remarkable period of stability has been largely mirrored by other leading cryptocurrencies, such as Ethereum (ether) and Cardano (ada), however certain meme coins have managed to buck market trends with their own record-breaking runs.
+
+
