@@ -37406,3 +37406,50 @@
 > tech2 News StaffJul 07, 2021 11:25:12 ISTTata Motors has expanded its Dark Edition line-up today by introducing stealthy-looking versions Dark Edition versions of the Tata Altroz, Tata Nexon and Tata Nexon EV. The first – and till now, only – Tata model to get the Dark Edition treatment was the Tata Harrier, which was introduced all the way back in 2019. Tata has taken this opportunity to also update the Harrier Dark with a new paint scheme and some other small tweaks. Additionally, all Dark Edition models get a tyre puncture repair kit as standard, and customers will also receive Dark-branded merchandise with their vehicles.
 
 
+***
+![How to watch Big Brother 2021: Stream season 23 online live from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/07/cbs-big-brother-hero.jpg "How to watch Big Brother 2021: Stream season 23 online live from anywhere")
+
+
+[How to watch Big Brother 2021: Stream season 23 online live from anywhere](https://www.androidcentral.com/how-watch-big-brother-2021-stream-season-23-live-feeds-online-anywhere)
+
+
+> Big Brother returns for its 23rd season this week with a new cast of hopeful competitors all vying for a $500,000 cash prize. Amidst twists, turns, betrayals, and backdoors, the sixteen new houseguests are in for a wild summer that promises to be one to remember. Season 23 of Big Brother will feature a BB Beach Club theme and kicks off with a 90-minute premiere episode where, for the first time ever, the houseguests will be given a double-or-nothing offer that might be too good to pass up. And of course, the Big Brother Live Feeds are returning this year as well.
+
+
+***
+![Tszyu vs Spark live stream: how to watch tonight's boxing fight in Australia](https://cdn.mos.cms.futurecdn.net/workcmugjEcnRDaw3X4UZ6-1200-80.jpeg "Tszyu vs Spark live stream: how to watch tonight's boxing fight in Australia")
+
+
+[Tszyu vs Spark live stream: how to watch tonight's boxing fight in Australia](https://www.techradar.com/news/tszyu-vs-spark-live-stream-how-to-watch-tonights-boxing-fight-in-australia)
+
+
+> (Image credit: Brett Hemmings / Getty Images) Tim Tszyu was due to face Michael Zerafa in tonight's fight, but after Zerafa pulled out over Covid concerns, Tszyu will now enter the ring with underdog Steve Spark. The event begins at 7pm AEST, with Tszyu and Spark expected to make their ring walks around 9:30pm AEST – here's how to watch the Tszyu vs Spark live stream.Watch Tszyu vs Spark on Kayo Sports for AU$59.95Tszyu vs Spark: live stream and timeFight night is here. Tonight's (July 7) Tszyu vs Spark match-up airs live from Newcastle Entertainment Centre in NSW, Australia, and the two fighters are set to begin their ring walks at around 9:30pm AEST (local time).
+
+
+***
+[When writing Bash, you should always set nounset. Here's why.](https://www.reddit.com/r/programming/comments/ofedf5/when_writing_bash_you_should_always_set_nounset/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Best phones in Australia 2021: top 12 smartphones tested and ranked](https://cdn.mos.cms.futurecdn.net/GdcaWSadcCWbt3am8Typ3E-1200-80.jpg "Best phones in Australia 2021: top 12 smartphones tested and ranked")
+
+
+[Best phones in Australia 2021: top 12 smartphones tested and ranked](https://www.techradar.com/news/best-phone)
+
+
+> A selection of the best phones right now (Image credit: Apple, Samsung, OnePlus) The best phone in the world right now is the Samsung Galaxy S21 Ultra, but if that isn't for you we've got 14 other top picks that may suit you, including the best iPhones and a variety of other Android phones.Our phone experts have spent years reviewing smartphones, and we've tested all the best on the market to put together this definitive list of the very best smartphones you can buy in 2021.Buying a cell phone is a complicated decision, and you need options.
+
+
+***
+![One-button platformer Super Leap Day jumps onto Apple Arcade soon](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/super-leap-day-screernshot.jpg "One-button platformer Super Leap Day jumps onto Apple Arcade soon")
+
+
+[One-button platformer Super Leap Day jumps onto Apple Arcade soon](https://www.imore.com/one-button-platformer-super-leap-day-jumps-apple-arcade-soon)
+
+
+> We may earn a commission for purchases using our links. Learn more. Apple Arcade The game is coming to iPhone, iPad, Mac, and Apple TV. 7 Jul 2021 Source: Nitrome Super Leap Day is a one-button platform game coming to Apple Arcade soon. A new level will be available for gamers to play every day. Apple Arcade is set to gain a new platformer, but this time with a twist. Super Leap Day requires just a single button and will have new levels made available each day. Created by Nitrome and playable on iPhone, iPad, Mac, and Apple TV, Super Leap Day is coming to Apple Arcade "soon," although gamers can pre-order it from the App Store now.
+
+
