@@ -37915,3 +37915,47 @@
 > Ohio AG seeks to declare Google a public utilityOhio Attorney General Dave Yost filed a lawsuit asking a court to declare Google a public utility and to regulate it as one in the latest twist on the escalating legal efforts to rein in the company that runs the internet's dominant search engine. (June 9)A coalition of three-dozen bipartisan state attorneys general has filed an antitrust lawsuit against Google accusing the tech giant of running a monopoly for its app store.The 36 states include Utah, New York, California, Virginia, North Carolina and the District of Columbia.
 
 
+***
+[沙烏地推出大規模數據中心發展計畫，冀 2030 年前吸引 180 億美元投資](https://technews.tw/2021/07/08/saudi-arabia-launches-large-scale-data-center-plan/)
+
+
+> 據媒體報導，沙烏地通訊暨資訊科技部（Ministry of Communications and Inform […]
+
+
+***
+![Colorful launches RTX 3060 gaming laptop inspired by Chinese mythology](https://cdn.mos.cms.futurecdn.net/wBLooPfnE2to9i8JZvU4xN-1200-80.jpg "Colorful launches RTX 3060 gaming laptop inspired by Chinese mythology")
+
+
+[Colorful launches RTX 3060 gaming laptop inspired by Chinese mythology](https://global.techradar.com/en-ae/news/colorful-launches-rtx-3060-gaming-laptop-inspired-by-chinese-mythology)
+
+
+> (Image credit: Colorful) While we're mostly used to seeing motherboards and graphics cards from Colorful, the company put out a surprise announcement today with the launch of the Colorful X15-AT gaming laptop.The laptop features the latest 11th generation Intel Core processor along with Nvidia GeForce RTX 3060 GPU. It comes equipped with a 15.6' display with 144Hz refresh rate and 100% sRGB coverage, along with Thunderbolt 4 connectivity and Wi-Fi 6. It's housed in a durable CNC milled aluminum chassis measuring 23.
+
+
+***
+![Crossbeats Orbit smartwatch with Bluetooth calling feature launched for Rs 4,499](https://cdn.mos.cms.futurecdn.net/s5YVHUYHeDUDyHpqEUkqMf-1200-80.jpg "Crossbeats Orbit smartwatch with Bluetooth calling feature launched for Rs 4,499")
+
+
+[Crossbeats Orbit smartwatch with Bluetooth calling feature launched for Rs 4,499](https://www.techradar.com/news/crossbeats-orbit-smartwatch-price-in-india-specs-review)
+
+
+> (Image credit: Amazon) Crossbeats Orbit budget smartwatch has been launched in India. The newly launched smartwatch is priced under Rs 5,000 and comes with features like Bluetooth call function, 1.3-inch LCD screen, SpO2 monitor, BP monitor, and up to 10 days of battery life. Crossbeats brand is well known for its audio products and accessories in India. The Crossbeats Orbit will take on the likes of the newly launched TicWatch GTH, BoAt Xtend, upcoming Noise ColorFit Ultra, and the beast in the segment 一 Amazfit Bip U Pro.
+
+
+***
+![OnePlus Nord 2 confirmed to launch in India soon: Here's what we know so far](https://images.indianexpress.com/2021/07/OnePLus-Nord-2.jpg "OnePlus Nord 2 confirmed to launch in India soon: Here's what we know so far")
+
+
+[OnePlus Nord 2 confirmed to launch in India soon: Here's what we know so far](https://indianexpress.com/article/technology/mobile-tabs/oneplus-nord-2-confirmed-to-launch-in-india-soon-heres-what-we-know-so-far-7394525/)
+
+
+> The OnePlus Nord 2 is all set to launch in India soon. Amazon has published a dedicated OnePlus Nord 2 page, which not only confirms the launch, but also the processor it will offer. The successor to the OnePlus Nord will be powered by a customised MediaTek Dimensity 1200-AI chipset. With this mid-range phone, the company is promising that users will get a fast and fluid experience. In a blog post, OnePlus asserted that the chip will help offer an improved photography experience, enhanced display and lower response times during gaming.
+
+
+***
+[Visa is partnering with 50+ crypto firms, including Coinbase, to allow users to convert and spend crypto, says $1B+ was spent via crypto-linked Visa cards in H1 (Isabelle Lee/Insider)](http://www.techmeme.com/210708/p1#a210708p1)
+
+
+> Isabelle Lee / Insider: Visa is partnering with 50+ crypto firms, including Coinbase, to allow users to convert and spend crypto, says $1B+ was spent via crypto-linked Visa cards in H1 — - Visa is partnering with over 50 crypto companies to allow clients to spend digital currencies.
+
+
