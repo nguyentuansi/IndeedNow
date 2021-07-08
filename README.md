@@ -38297,3 +38297,50 @@
 > Source: Harish Jonnalagadda / Android Central OnePlus has released the first Android 11 Open Beta for the OnePlus 6 and 6T. The update is arriving one month earlier than originally expected. There are quite a few changes included in the update. If you're an owner of the OnePlus 6 or OnePlus 6T, the wait for Android 11 is finally over. Kind of. OnePlus announced that it has released the first Open Beta of OxygenOS 11 for two of the best Android phones from 2018. Back in April, OnePlus remained committed to bringing Android 11 to both of these handsets, despite Android 12 already being in the works for the OnePlus 9 series.
 
 
+***
+![Digital divide: We must end the struggle of being 'under-connected'](https://thehill.com/sites/default/files/online_streaming_05172020_1.jpg "Digital divide: We must end the struggle of being 'under-connected'")
+
+
+[Digital divide: We must end the struggle of being 'under-connected'](https://thehill.com/opinion/technology/562102-digital-divide-we-must-end-the-struggle-of-being-under-connected)
+
+
+> As President BidenJoe BidenWife of assassinated Haitian president taken to Florida for treatment 4 suspected killers of Haitian president fatally shot by police Senate eyes taking up bipartisan infrastructure deal as soon as July 19 MORE and Congress debate a $1.2 billion infrastructure bill that includes a historic investment in broadband, it's an important moment to question what we mean by digital equity and what it will take to achieve it. Pandemic disruptions to school and work made the quest for affordable 'broadband for all' a more urgent matter, and  recognition that digital infrastructure is essential has never been more bipartisan.
+
+
+***
+[Squeezing the most out of argparse](https://www.reddit.com/r/Python/comments/oghdtg/squeezing_the_most_out_of_argparse/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The Google Pixel 6 could get five years of Android software updates](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/google-pixel-6-pro-front-back-leak-2.jpg "The Google Pixel 6 could get five years of Android software updates")
+
+
+[The Google Pixel 6 could get five years of Android software updates](https://www.androidcentral.com/google-pixel-6-leaked-specs-update-promise)
+
+
+> Source: Jon Prosser The full spec sheet for the Pixel 6 series has allegedly been leaked. Google will reportedly provide five years of Android software support for the Pixel 6 smartphones. The Pixel 6 is expected to be announced later this year, possibly in October. The Google Pixel 6 is expected to launch later this year and will reportedly come with some impressive specs and additional software support, according to the most recent rumor. FrontPageTech leaker Jon Prosser has provided a rundown of what might be the specs for the upcoming smartphones.
+
+
+***
+![Battlefield 2042: Everything You Need To Know – Updated July 8, 2021](https://www.androidheadlines.com/wp-content/uploads/2021/06/Battlefield-2042.jpg "Battlefield 2042: Everything You Need To Know – Updated July 8, 2021")
+
+
+[Battlefield 2042: Everything You Need To Know – Updated July 8, 2021](https://www.androidheadlines.com/battlefield-2042-everything-you-need-to-know-maps-classes-specialists-weapons-modes-release-date-price.html)
+
+
+> EA's latest title in the Battlefield franchise will be Battlefield 2042, and while much of the game will be the same Battlefield fans know and love, there will also be some new things entering the mix.New features, of course, but also a new setting, new modes, and dare we say it an entirely new experience. Since the game is still months away EA hasn't revealed everything about the game yet. It still plans to show off one of the new game modes later this year.That being said there is still plenty to know about the game right now.
+
+
+***
+![UFOs are an intriguing science problem; Congress must act accordingly](https://thehill.com/sites/default/files/ufos_042720defensedepartment.png "UFOs are an intriguing science problem; Congress must act accordingly")
+
+
+[UFOs are an intriguing science problem; Congress must act accordingly](https://thehill.com/opinion/technology/562113-ufos-are-an-intriguing-science-problem-congress-must-act-accordingly)
+
+
+> 'Lack of wings and lack of evident means of propulsion clearly rule out conventional aircraft and helicopters. Many are soundless, many move at such speeds and with such accelerations that they defy understanding in terms of present technology.'This description – which outlines an intriguing science problem – could easily apply to mysterious flying objects encountered by military aviators in recent years. In 2014 and 2015, for example, Navy pilots tracked unidentified craft seemingly able to turn, stop in midair and rapidly accelerate 'with no jet engine, no exhaust plume' and no wings.
+
+
