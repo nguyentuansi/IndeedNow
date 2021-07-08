@@ -37774,3 +37774,47 @@
 > Benzinga's PreMarket Prep airs every morning from 8-9 a.m. ET. During that fast-paced, highly informative hour, traders and investors tune in to get the major news of the day, the catalysts behind those moves and the corresponding price action for the upcoming session. On any given day, the show will cover at least 20 stocks determined by co-hosts Joel Elconin and Dennis Dick along with producer Spencer Israel. While many issues in the financial sector were not participating in Wednesday's rally, one issue in the sector is having a good day.
 
 
+***
+![More Than 30 States Sue Google Over 'Extravagant' Fees In Google Play Store](https://media.npr.org/assets/img/2021/07/07/gettyimages-1230761840_wide-d9873f15e38286f01f8b7ca4769ff6dd2dcdeab4.jpg?s=1400 "More Than 30 States Sue Google Over 'Extravagant' Fees In Google Play Store")
+
+
+[More Than 30 States Sue Google Over 'Extravagant' Fees In Google Play Store](https://www.npr.org/2021/07/07/1013934643/more-than-30-states-sue-google-over-extravagant-fees-in-google-play-store)
+
+
+> A coalition of more than 30 states on Wednesday sued Google for allegedly abusing its power it has over developers through its Google Play store on Google devices, like Androids. SOPA Images/SOPA Images/LightRocket via Gett More than 30 states accused Google of operating like an illegal monopoly by abusing the power it has over developers and eliminating competition in how people download and pay for apps on their Google devices. "Google uses anticompetitive barriers and mandates to protect its monopoly power," the attorneys general wrote in the suit, filed in U.
+
+
+***
+[Dyson's V7 is $100 off at multiple Canadian retailers](https://mobilesyrup.com/2021/07/07/dysons-v7-is-100-off-at-multiple-canadian-retailers/)
+
+
+> Dyson is an industry leader in the home-cleaning department, with its only shortcoming being the high purchase cost of the company’s vacuums — but who said you need to go for its latest offering? Dyson’s 2017 model, the V7, a cordless, lightweight vacuum cleaner, is currently on sale at multiple Canadian retailers. The V7 is... The post Dyson’s V7 is $100 off at multiple Canadian retailers appeared first on MobileSyrup.
+
+
+***
+![Time for YouTube to become more transparent on its recommendation algorithm.](https://external-preview.redd.it/2VqaA4TiUNf1M33j4rzZwrTaaf2vu4QokjzJsZzVaqY.jpg?auto=webp&s=0cd0c5ad5e6d55b8641c69d2856899ed17733eca "Time for YouTube to become more transparent on its recommendation algorithm.")
+
+
+[Time for YouTube to become more transparent on its recommendation algorithm.](https://www.reddit.com/r/technology/comments/ofvghr/time_for_youtube_to_become_more_transparent_on/)
+
+
+> Yeahhhhh YouTube I'm tired of all the Windows 11 videos recommendation just because I watched a single one.
+
+
+***
+[Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/ofvf0l/thursday_daily_thread_python_careers_courses_and/)
+
+
+> Discussion of using Python in a professional environment, getting jobs in Python as well as ask questions about courses to further your python education!This thread is not for recruitment, please see r/PythonJobs or the thread in the sidebar for that.
+
+
+***
+![Auroras on Mars captured in clearest view yet, enchanting scientists](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AALT8RA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Auroras on Mars captured in clearest view yet, enchanting scientists")
+
+
+[Auroras on Mars captured in clearest view yet, enchanting scientists](https://www.nbcnews.com/science/space/ultraviolet-glow-auroras-mars-spotted-uae-orbiter-rcna1356)
+
+
+> A spacecraft around Mars has captured the clearest views yet of alien auroras on the red planet. © Provided by NBC News The United Arab Emirates' Hope probe, which arrived at Mars in early February, spotted the scattered glow of auroras in the Martian night sky. The stunning observations could help scientists better understand the atmosphere of Mars and how auroras on the red planet differ from similar light shows that are visible on Earth. © Emirates Mars Mission Image: Mars Aurora (Emirates Mars Mission) Auroras occur when charged particles from space interact with atoms in the atmosphere, energizing them and causing them to glow.
+
+
