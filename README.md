@@ -38247,3 +38247,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![What games can kids play on the Switch that are fun and safe?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/07/captain-toad-nintendo-switch-hero-02.jpg "What games can kids play on the Switch that are fun and safe?")
+
+
+[What games can kids play on the Switch that are fun and safe?](https://www.imore.com/best-nintendo-switch-games-young-kids)
+
+
+> Best Nintendo Switch games for young kids iMore 2021 If you love video games, chances are you want your kid to love them too. Fortunately, the Nintendo Switch may be the most family-friendly console. It has a wealth of kid-friendly games that you can hand off to children old enough to operate controllers safely without worrying about what they might get into, so long as you pick the right games. If your little human is old enough to manipulate a controller and understand how to operate the Switch, then this list is for you.
+
+
+***
+![All the best Galaxy S21 deals: Here's where to buy Samsung's latest phone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/01/galaxy-s21-briefing-colors.jpg "All the best Galaxy S21 deals: Here's where to buy Samsung's latest phone")
+
+
+[All the best Galaxy S21 deals: Here's where to buy Samsung's latest phone](https://www.androidcentral.com/best-samsung-galaxy-s21-deals)
+
+
+> At its Unpacked event earlier this year, Samsung unveiled the latest Galaxy S21 models. If you want to get your hands on one as soon as possible and make a saving, we're here to let you know the best place to pick one up. Source: Android Central We've been used to Samsung releasing three S series phones a year for a little while now. Back in 2019, we saw the release of the Galaxy S10e, S10, and S10+, with 2020 giving us the Galaxy S20, S20+, and S20 Ultra. The 2021 lineup follows that trend with Samsung unveiling the Galaxy S21, S21+, and S21 Ultra phones.
+
+
+***
+![Play some awesome Xbox Game Pass games with these controllers](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/halo-project-xcloud-galaxy-s20-plus-xbox-controller-hero.jpg "Play some awesome Xbox Game Pass games with these controllers")
+
+
+[Play some awesome Xbox Game Pass games with these controllers](https://www.androidcentral.com/best-controllers-xbox-game-pass-android)
+
+
+> Best controllers for Xbox Game Pass (xCloud) for Android Android Central 2021 When it comes to playing games via Microsoft's new beta service, once known as Project xCloud, you'll need the best phone for streaming. There are also many titles to choose from, so be sure to check out the best Game Pass games you can play on your phone. But for controllers, there's plenty out there that will do the trick. These are our picks for the best around. Staff Pick The premier option when it comes to true mobile gaming, the Razer Kishi turns your phone into a Switch-like machine.
+
+
+***
+![Save BIG With This HP Chromebook 11 Deal](https://www.androidheadlines.com/wp-content/uploads/2021/07/HP-Chromebook-Sale.jpg "Save BIG With This HP Chromebook 11 Deal")
+
+
+[Save BIG With This HP Chromebook 11 Deal](https://www.androidheadlines.com/2021/07/hp-chromebook-11-laptop-deal-sale-price.html)
+
+
+> Chromebooks have come quite a long way over the years and are really quite good, including this HP Chromebook that Amazon currently has on sale for a pretty nice discount. Normally it retails for $299, but Amazon has the HP Chromebook 11 on sale for $229. Saving you $70 on a decent little laptop.With this particular Chromebook you're getting an 11-inch screen, 4GB of RAM, and 32GB of internal storage space that should be enough for all of your main storage needs. If you happen to need more than 32GB, not to worry.
+
+
+***
+![OnePlus 6, 6T finally get the Android 11 beta a month sooner than expected](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/11/oneplus-6t-hero.jpg "OnePlus 6, 6T finally get the Android 11 beta a month sooner than expected")
+
+
+[OnePlus 6, 6T finally get the Android 11 beta a month sooner than expected](https://www.androidcentral.com/android-11-comes-oneplus-6-and-6t-month-earlier-expected)
+
+
+> Source: Harish Jonnalagadda / Android Central OnePlus has released the first Android 11 Open Beta for the OnePlus 6 and 6T. The update is arriving one month earlier than originally expected. There are quite a few changes included in the update. If you're an owner of the OnePlus 6 or OnePlus 6T, the wait for Android 11 is finally over. Kind of. OnePlus announced that it has released the first Open Beta of OxygenOS 11 for two of the best Android phones from 2018. Back in April, OnePlus remained committed to bringing Android 11 to both of these handsets, despite Android 12 already being in the works for the OnePlus 9 series.
+
+
