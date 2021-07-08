@@ -37959,3 +37959,50 @@
 > Isabelle Lee / Insider: Visa is partnering with 50+ crypto firms, including Coinbase, to allow users to convert and spend crypto, says $1B+ was spent via crypto-linked Visa cards in H1 — - Visa is partnering with over 50 crypto companies to allow clients to spend digital currencies.
 
 
+***
+![Faraday Succeeds in 5G NR mmWave ASIC](https://mms.businesswire.com/media/20210708005011/en/791683/23/Faraday_logo%28H%29_150_png.jpg "Faraday Succeeds in 5G NR mmWave ASIC")
+
+
+[Faraday Succeeds in 5G NR mmWave ASIC](https://www.businesswire.com/news/home/20210708005011/en/Faraday-Succeeds-in-5G-NR-mmWave-ASIC)
+
+
+> July 08, 2021 04:00 AM Eastern Daylight Time HSINCHU, Taiwan--(BUSINESS WIRE)--Faraday Technology Corporation (TWSE: 3035), a leading ASIC design service and IP provider, today announced that it has successfully delivered 5G NR mmWave ASIC projects for small cell baseband/IF and RRU (Remote Radio Unit). These success cases vividly demonstrate Faraday's capabilities in complex IC integration service and high-speed interface IP solutions for 5G networking applications. Faraday leveraged their unique design methodology to successfully integrate both digital logic and analog monolithic circuits into a single chip in support of these two projects.
+
+
+***
+![Twitter executives reveal why some users are not getting verification badges despite fulfilling criteria](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/rtxbsk6v_0_1200x768-original.png "Twitter executives reveal why some users are not getting verification badges despite fulfilling criteria")
+
+
+[Twitter executives reveal why some users are not getting verification badges despite fulfilling criteria](https://www.indiatoday.in/technology/news/story/twitter-executives-reveal-why-some-users-are-not-getting-verification-badges-despite-fulfilling-criteria-1825447-2021-07-08)
+
+
+> Story highlights Twitter had rolled out its verification application a couple of months ago The form with new guidelines and rules was re-launched after the entire verification process was halted in 2017. Twitter verification team has now listed the possible reasons why some verification requests were rejected. Twitter had rolled out its verification application a couple of months ago. The form with new guidelines and rules was re-launched after the entire verification process was halted in 2017.
+
+
+***
+[Garena Free Fire x Street Fighter V crossover: Event enters its Final Round on July 10; get FREE items, rewards and more](https://www.zeebiz.com/technology/mobiles/news-garena-free-fire-x-street-fighter-v-crossover-event-enters-its-final-round-on-july-10-get-free-items-rewards-and-more-check-all-details-here-160224)
+
+
+> Garena Free Fire collaborated with Capcom Street Fighter, the Japanese video game franchise last month.
+
+
+***
+![Blaupunkt launches four Made in India Android smart TVs, price starts at Rs 14,999](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/43_inches_-_bl_1200x768-original.jpeg "Blaupunkt launches four Made in India Android smart TVs, price starts at Rs 14,999")
+
+
+[Blaupunkt launches four Made in India Android smart TVs, price starts at Rs 14,999](https://www.indiatoday.in/technology/news/story/blaupunkt-launches-four-made-in-india-android-smart-tvs-price-starts-at-rs-14-999-1825446-2021-07-08)
+
+
+> Story highlights Blaupunkt on Thursday launched four Made-in-India Android TV models in India. Blaupunkt has brought 4 Android smart TVs -- a 32-inch, 42 inch, a 43 inch, and a 55 inch TV. The Blaupunkt smart TVs will be available for sale on Flipkart. German consumer electronics giant Blaupunkt on Thursday launched four Made-in-India Android TV models in India. The brand has entered into an exclusive licensing agreement with the Indian contract manufacturer Super Plastronics Private Limited (SPPL).
+
+
+***
+![Pokemon Go is still relevant in 2021 and has made over $5 billion revenue in five years](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/pg-original.png "Pokemon Go is still relevant in 2021 and has made over $5 billion revenue in five years")
+
+
+[Pokemon Go is still relevant in 2021 and has made over $5 billion revenue in five years](https://www.indiatoday.in/technology/features/story/pokemon-go-is-still-relevant-in-2021-and-has-made-over-5-billion-revenue-in-five-years-1825438-2021-07-08)
+
+
+> Story highlights Pokemon Go was introduced in 2016. The game made more than a billion dollars in 2020. Pokemon Go is off to great start in 2021. In 2016, almost every second person I knew was busy catching Pokemon. On their phone, at the workplace, in public transport and at weird times of the day. Five years later, I hardly know of anyone who still has this game on their smartphone. I bet anyone reading this would be in the same boat. Yet, it seems like Pokemon Go is still relevant in 2021, has managed to survive the pandemic, in fact thrived during the crisis and making buckets full of money for its developers.
+
+
