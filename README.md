@@ -38153,3 +38153,53 @@
 > Free blogging sites have come a long way in recent years, and it's now easier than ever to create a professional-looking blog to share a hobby with like-minded people, express your opinions, and establish an online presence.These free blogging sites are aimed at hobbyist bloggers – blogs are created and managed online, and hosted on the blogging platform's own servers. If you want to create a self-hosted blog, the downloadable version of WordPress is an excellent option, with total flexibility, support for third-party plugins, and as much storage as your hosting plan allows.
 
 
+***
+![The NFL jumps to Twitter Spaces after initial Clubhouse partnership](https://cdn.vox-cdn.com/thumbor/16MfrvBK3QPmlw1E9-wj2rbYdtg=/0x179:2048x1251/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22705898/1231057154.jpg "The NFL jumps to Twitter Spaces after initial Clubhouse partnership")
+
+
+[The NFL jumps to Twitter Spaces after initial Clubhouse partnership](https://www.theverge.com/2021/7/8/22568434/nfl-twitter-spaces-partnership-2021-season)
+
+
+> Xinhua/Wu Xiaoling via Getty Images The National Football League is signing on to use Twitter Spaces. As part of a new deal with Twitter — which will see the social network continue to run game highlight videos — the NFL has agreed to host 20 live audio rooms throughout the 2021 season. Those will include 'current NFL players and other NFL talent' as hosts discussing the season's matchups. Twitter's partnership with the NFL would appear to be a blow to Clubhouse, which previously partnered with the league to host live audio rooms during the draft in April.
+
+
+***
+![Head of teachers union says critical race theory isn't taught in schools, vows to defend "honest history"](https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/08/b8c73a57-540f-4f1f-b947-3d1b1f67bb12/thumbnail/1200x630/c4e0b9d9099d8ccac403df7a3524a0f8/screen-shot-2021-07-08-at-11-10-05-am.png "Head of teachers union says critical race theory isn't taught in schools, vows to defend "honest history"")
+
+
+[Head of teachers union says critical race theory isn't taught in schools, vows to defend "honest history"](https://www.cbsnews.com/news/critical-race-theory-teachers-union-honest-history/)
+
+
+> By Caitlin O'Kane July 8, 2021 / 12:07 PM / CBS News As the debate over how race is taught in schools continues to be a hot-button issue in many school districts, the president of one of America's largest teachers unions is speaking out against efforts to ban critical race theory. In a speech this week, Randi Weingarten, the head of the American Federation of Teachers (AFT), said critical race theory it is not even taught in elementary schools — and she vowed to fight "culture warriors" who are "bullying teachers" in an attempt to suppress "accurate history.
+
+
+***
+![Tech companies help pull stocks broadly lower on Wall Street](https://cloudfront-us-east-1.images.arcpublishing.com/cmg/XCMEPH7UGN3ENLHS745ONXJP7E.jpg "Tech companies help pull stocks broadly lower on Wall Street")
+
+
+[Tech companies help pull stocks broadly lower on Wall Street](https://www.kiro7.com/news/tech-companies-help/3PWCZXEN5EVDDOZDOTT3IUI6WE/)
+
+
+> Stocks were broadly lower Thursday, as bond yields continued to fall and investors turned cautious after the market hit a series of record highs last week.The S&P 500 index fell 1.1% as of 11:37 a.m. Eastern. The Dow Jones Industrial Average fell 323 points, or 0.9%, to 34,357 and the Nasdaq composite was down 1.3%.Technology companies were having some of the biggest losses, which helped pull the Nasdaq composite down more than the broader market.The yield on the 10-year Treasury note fell to 1.30% from 1.
+
+
+***
+![Harley-Davidson's LiveWire ONE electric motorcycle is a cheaper e-hog](https://cdn.slashgear.com/wp-content/uploads/2021/07/livewire-one-electric-motorcycle-2.jpg "Harley-Davidson's LiveWire ONE electric motorcycle is a cheaper e-hog")
+
+
+[Harley-Davidson's LiveWire ONE electric motorcycle is a cheaper e-hog](https://www.slashgear.com/harley-davidsons-livewire-one-electric-motorcycle-is-a-cheaper-e-hog-08681708/)
+
+
+> Harley-Davidson's LiveWire brand of electric motorcycles is gaining a new, more affordable model, with the LiveWire ONE hoping to bring some new riders onboard. Iterating off the original LiveWire, though significantly trimming its price tag, the LiveWire ONE will be star of the show at the newly-standalone electric bike dealerships. The original Harley-Davidson LiveWire was certainly a long time coming. Previewed back in 2014, finalized in 2018, and then priced up in 2019, its $29,799 sticker put it out of reach of all but the most eager EV adopters.
+
+
+***
+![I Know What You Did Last Summer Archives](https://nerdist.com/wp-content/uploads/2018/08/cropped-apple-touch-icon-152x152_preview-32x32.png "I Know What You Did Last Summer Archives")
+
+
+[I Know What You Did Last Summer Archives](https://nerdist.com/tags/i-know-what-you-did-last-summer/)
+
+
+> I Know What You Did Last Summer
+
+
