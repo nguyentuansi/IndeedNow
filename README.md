@@ -38103,3 +38103,53 @@
 > Reuters Jul 08, 2021, Updated Jul 08, 2021, 5:30 PM IST Clearco, a fintech company that offers capital to startups, said on Thursday it raised $215 million in an equity funding round led by SoftBank Group Corp's Vision Fund 2 as it accelerates its international expansion. The company, based in New York, London and Toronto, was started in 2015 by Canadian entrepreneurs and investors Andrew D'Souza and Michele Romanow. Romanow, who is on Canadian reality TV show "Dragon's Den" where entrepreneurs pitch ideas for an investment, said she heard proposals again and again for funding for marketing and inventory.
 
 
+***
+![Crypto price crash as bitcoin, ethereum, dogecoin and other coins plunge in value](https://static.independent.co.uk/2021/07/07/05/GettyImages-1320843478.jpg?width=1200&auto=webp&quality=75 "Crypto price crash as bitcoin, ethereum, dogecoin and other coins plunge in value")
+
+
+[Crypto price crash as bitcoin, ethereum, dogecoin and other coins plunge in value](https://www.independent.co.uk/life-style/gadgets-and-tech/crypto-price-bitcoin-ethereum-dogecoin-price-latest-b1880461.html)
+
+
+> The crypto market is suffering a small crash, which has dragged down all of the biggest currencies.Bitcoin fell 6.55 per cent over the day, and ethereum was down more than 10 per cent. Other smaller currencies such as dogecoin were hit even harder – the meme crypto lost more than 10 per cent over the day.In total, the market had fallen 6.34 per cent at the time of publication, according to tracking website CoinMarketCap. Volume also increased, presumably as holders looked to sell their currencies ahead of any possible larger slide.
+
+
+***
+![What is Norton 360 for Gamers and what does it do?](https://cdn.mos.cms.futurecdn.net/4iJAcq46F3GR4YC8gg2iYQ-1200-80.jpg "What is Norton 360 for Gamers and what does it do?")
+
+
+[What is Norton 360 for Gamers and what does it do?](https://www.techradar.com/news/norton-360-for-gamers-explained)
+
+
+> It's obvious enough that Norton 360 for Gamers is an antivirus which is aimed firmly at the gaming community. The name gives that away, after all. However, there's a bit more to this security suite than merely its ‘good for gamers' credentials.Just why is it good for gaming? What kind of features does Norton 360 for Gamers offer, what are its core defenses like, and how does Norton tailor this package to be a positive and useful experience for gamers? To find the answers to these questions and more, read on.
+
+
+***
+![I used Python to automate the testing of a ray tracing application](https://external-preview.redd.it/rutrdk-mtTVhLUK7gI2jk423vivEoS6IoHTlHgZc7ns.jpg?auto=webp&s=4c7021c5fffeee3476f9466f83060ef6dd9d9a7f "I used Python to automate the testing of a ray tracing application")
+
+
+[I used Python to automate the testing of a ray tracing application](https://www.reddit.com/r/Python/comments/og7pdv/i_used_python_to_automate_the_testing_of_a_ray/)
+
+
+> I wrote an extensive blog post on it here: https://16bpp.net/blog/post/automated-testing-of-a-ray-tracer/The basic idea is that I wanted to create a set of reproducible integration tests for a ray tracing application (an implementation of the Ray Tracing in one Weekend series ). I was able to do this using one external application idiff and only about 300 LoC of vanilla Python!
+
+
+***
+![PS5 restock: Target is readying consoles – but here's who has PS5 in stock today](https://cdn.mos.cms.futurecdn.net/fVgAeTMmXsi2fwodzTTsoa-1200-80.jpg "PS5 restock: Target is readying consoles – but here's who has PS5 in stock today")
+
+
+[PS5 restock: Target is readying consoles – but here's who has PS5 in stock today](https://www.techradar.com/news/ps5-restock-target-update-best-buy-gamestop)
+
+
+> Trust and credibility(Image credit: Matt Swider / Instagram)PS5 restock tracker Matt Swider has helped 55,000 people buy a next-gen console in 2021 with his tireless 24/7 tracking, in-stock Twitter alerts and exclusive restock reporting.Update: The PS5 restock at Target is likely mid-next week, and our 24/7 PS5 restock Twitter tracker Matt Swider will send you an alert when PS5 is in stock – if you follow his account and turn on notifications. TechRadar has confirmed that Target employees are getting the PS5 console in steadily with, on average, now 12 Sony consoles on hand per store.
+
+
+***
+![Best blogging sites of 2021: Free and paid blog platforms](https://cdn.mos.cms.futurecdn.net/WqzWxn2pBqvPN9n4DBrjr5-1200-80.jpg "Best blogging sites of 2021: Free and paid blog platforms")
+
+
+[Best blogging sites of 2021: Free and paid blog platforms](https://www.techradar.com/news/the-best-free-blogging-sites)
+
+
+> Free blogging sites have come a long way in recent years, and it's now easier than ever to create a professional-looking blog to share a hobby with like-minded people, express your opinions, and establish an online presence.These free blogging sites are aimed at hobbyist bloggers – blogs are created and managed online, and hosted on the blogging platform's own servers. If you want to create a self-hosted blog, the downloadable version of WordPress is an excellent option, with total flexibility, support for third-party plugins, and as much storage as your hosting plan allows.
+
+
