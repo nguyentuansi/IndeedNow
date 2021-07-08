@@ -38056,3 +38056,50 @@
 > If you're looking for a home security camera you can just fit and forget, you're going to love the EZVIZ BC1 battery cam kit*. The kit includes a base station and two HD, EZVIZ BC1 cameras.With HD video, night vision, active defence technology and a battery that lasts up to 365 days between charges, the cameras are easy to install, easy to use and the perfect way to protect your property indoors and out.With some security cameras you need to choose between convenience and quality: many wire-free cameras don't deliver the same sharp video as wired ones do.
 
 
+***
+![TikTok wants you to send your videos to employers to try and be hired](https://static.independent.co.uk/2021/07/01/23/newFile-1.jpg?width=1200&auto=webp&quality=75 "TikTok wants you to send your videos to employers to try and be hired")
+
+
+[TikTok wants you to send your videos to employers to try and be hired](https://www.independent.co.uk/life-style/gadgets-and-tech/tiktok-resumes-job-video-hiring-b1880337.html)
+
+
+> TikTok wants your next job application to be in the form of one of its videos.The company has launched a new service, named 'TikTok Resumes', that allows people to submit short videos to potential employers.Users can create videos in the same way they normally would – with all the effects and backing music that they would have anywhere else – and then submit them to companies in the hope of being hired.People are encouraged to post those resumes onto TikTok itself, using a devoted hashtag. The company shared examples of people who have already done so.
+
+
+***
+![Todd Haynes says Apple TV+ title 'The Velvet Undergound' made for cinema](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/01/apples-keynote-event_kumail-nanjiani_032519.jpg "Todd Haynes says Apple TV+ title 'The Velvet Undergound' made for cinema")
+
+
+[Todd Haynes says Apple TV+ title 'The Velvet Undergound' made for cinema](https://www.imore.com/todd-haynes-says-apple-tv-documentary-velvet-undergound-made-big-screen)
+
+
+> Source: Apple Todd Haynes, director of upcoming Apple TV+ documentary The Velvet Underground has said his new movie was made for the big screen, but that Apple had embraced this when it bought the title for its streaming platform. As Deadline reports Haynes commented on his title after it premiered at the Cannes Film Festival Wednesday: Fresh off premiering his first feature documentary at Cannes Film Festival last night, The Velvet Underground filmmaker Todd Haynes told press today that he remains committed to theatrical, despite the movie heading to Apple TV+ in the fall.
+
+
+***
+![Mozilla says YouTube must open up recommendation algorithm to audits](https://assets2.rappler.com/2021/07/mozilla-1625744905251.png "Mozilla says YouTube must open up recommendation algorithm to audits")
+
+
+[Mozilla says YouTube must open up recommendation algorithm to audits](https://www.rappler.com/technology/mozilla-regretsreporter-youtube-open-up-recommendation-algorithm-audits)
+
+
+> Recommended videos were 40% more likely to be flagged on RegretsReporterAbout 9% of the recommended videos that were flagged have been taken down by YouTube, but only after getting 160 million total views – meaning these violative videos are still getting a lot of traction before being taken downIn 43.6% of cases where Mozilla had data about the video being watched by a volunteer before it came across a recommended video they flagged, the recommended video was completely unrelated – meaning a user could still get exposed to the wrong video even if they purposely avoid to do soVideos flagged by users tend to perform "extremely well" on the platform, acquiring 70% more views per day than other videos watched by volunteers.
+
+
+***
+[Swiss Post acquires e2e encrypted cloud services provider, Tresorit – TechCrunch](https://techcrunch.com/2021/07/08/swiss-post-acquires-e2e-encrypted-cloud-services-provider-tresorit/)
+
+
+> Swiss Post, the former state-owned mail delivery firm which became a private limited company in 2013, diversifying into logistics, finance, transport and more (including dabbling in drone delivery) while retaining its role as Switzerland's national postal service, has acquired a majority stake in Swiss-Hungarian startup Tresorit, an early European pioneer in end-to-end-encrypted cloud services. Terms of the acquisition are not being disclosed. But Swiss Post's income has been falling in recent years, as (snailmail) letter volumes continue to decline.
+
+
+***
+![Fintech startup Clearco raises $215 mn in SoftBank Group-led equity funding round](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/softbank_1200-sixteen_nine.jpg "Fintech startup Clearco raises $215 mn in SoftBank Group-led equity funding round")
+
+
+[Fintech startup Clearco raises $215 mn in SoftBank Group-led equity funding round](https://www.businesstoday.in/latest/corporate/story/fintech-startup-clearco-raises-215-mn-in-softbank-group-led-equity-funding-round-300820-2021-07-08)
+
+
+> Reuters Jul 08, 2021, Updated Jul 08, 2021, 5:30 PM IST Clearco, a fintech company that offers capital to startups, said on Thursday it raised $215 million in an equity funding round led by SoftBank Group Corp's Vision Fund 2 as it accelerates its international expansion. The company, based in New York, London and Toronto, was started in 2015 by Canadian entrepreneurs and investors Andrew D'Souza and Michele Romanow. Romanow, who is on Canadian reality TV show "Dragon's Den" where entrepreneurs pitch ideas for an investment, said she heard proposals again and again for funding for marketing and inventory.
+
+
