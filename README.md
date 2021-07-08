@@ -38006,3 +38006,53 @@
 > Story highlights Pokemon Go was introduced in 2016. The game made more than a billion dollars in 2020. Pokemon Go is off to great start in 2021. In 2016, almost every second person I knew was busy catching Pokemon. On their phone, at the workplace, in public transport and at weird times of the day. Five years later, I hardly know of anyone who still has this game on their smartphone. I bet anyone reading this would be in the same boat. Yet, it seems like Pokemon Go is still relevant in 2021, has managed to survive the pandemic, in fact thrived during the crisis and making buckets full of money for its developers.
 
 
+***
+![How to properly archive a project](https://external-preview.redd.it/RYlyZX7dsVT2xKFSwnUAKgKYde7Q6wc58tPQHCY9Gbc.jpg?auto=webp&s=a9d55121590f3ef5b4d3f7e536ce24cb76ed90f7 "How to properly archive a project")
+
+
+[How to properly archive a project](https://www.reddit.com/r/programming/comments/og45ch/how_to_properly_archive_a_project/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![How to Use Split Screen on Your Chromebook](https://icdn.digitaltrends.com/image/digitaltrends/hp-chromebook-14-2-2.jpg "How to Use Split Screen on Your Chromebook")
+
+
+[How to Use Split Screen on Your Chromebook](https://www.digitaltrends.com/computing/how-to-use-split-screen-on-your-chromebook/)
+
+
+> Splitting your screen into two separate windows is a handy method of task management that fits well with busy Chromebooks. Splitting your screen is excellent for doing research, looking up tutorials, consulting multiple sources, comparing images or video, and much more. Fortunately, Chromebook makes this split option very easy to do or undo at a moment's notice. Here's how to split your screen on a Chromebook. For more on Chromebooks, you should check out our guide on the best Chromebooks you can buy and our look back at the history of Chrome OS.
+
+
+***
+![Canon EOS R3 release date, price, features and rumors](https://cdn.mos.cms.futurecdn.net/TbAH6XFs99GefUicXrSxKW-1200-80.jpg "Canon EOS R3 release date, price, features and rumors")
+
+
+[Canon EOS R3 release date, price, features and rumors](https://www.techradar.com/news/canon-eos-r3)
+
+
+> The Canon EOS R3 was teased in a 'development announcement' back in April, when the camera giant described it as a professional full-frame camera that sits in between the Canon EOS R5 and Canon EOS 1D X Mark III.But since then, it's all gone a bit quiet on the EOS R3 front – officially, at least. Fortunately, rumors from historically reliable sources have started to fill in some of the gaps, including its expected full release date.What we do know for sure is that the Canon EOS R3 will be built around the combination of a full-frame, back-illuminated, stacked CMOS sensor and Digic X processor.
+
+
+***
+![Almost all experts say multi-cloud needs a serious security upgrade](https://cdn.mos.cms.futurecdn.net/GECPn964KJunKWgRJ5mMti-1200-80.jpg "Almost all experts say multi-cloud needs a serious security upgrade")
+
+
+[Almost all experts say multi-cloud needs a serious security upgrade](https://www.techradar.com/news/almost-all-experts-say-multi-cloud-needs-a-serious-security-upgrade)
+
+
+> (Image credit: Shutterstock/laymanzoom) The move towards a multi-cloud computing environment, while beneficial, also poses a great security threat to businesses, a new survey has claimed.A study by Tripwire covered security professionals responsible for the security of the public cloud infrastructure within their organization.A majority of the respondents (73%) currently operate in a multi-cloud environment, but virtually all (98%) of the security professionals responsible for these environments report that relying on multiple cloud providers also creates additional security challenges.
+
+
+***
+![Get wired-camera quality without any wires: why you'll love the brilliant EZVIZ BC1 battery cam kit](https://cdn.mos.cms.futurecdn.net/22ik5ZTYvDkfroCMNi39aL-1200-80.jpg "Get wired-camera quality without any wires: why you'll love the brilliant EZVIZ BC1 battery cam kit")
+
+
+[Get wired-camera quality without any wires: why you'll love the brilliant EZVIZ BC1 battery cam kit](https://www.techradar.com/news/get-wired-camera-quality-without-any-wires-why-youll-love-the-brilliant-ezviz-bc1-battery-cam-kit)
+
+
+> If you're looking for a home security camera you can just fit and forget, you're going to love the EZVIZ BC1 battery cam kit*. The kit includes a base station and two HD, EZVIZ BC1 cameras.With HD video, night vision, active defence technology and a battery that lasts up to 365 days between charges, the cameras are easy to install, easy to use and the perfect way to protect your property indoors and out.With some security cameras you need to choose between convenience and quality: many wire-free cameras don't deliver the same sharp video as wired ones do.
+
+
