@@ -38203,3 +38203,47 @@
 > I Know What You Did Last Summer
 
 
+***
+![Blitsort: A new in-place stable sorting algorithm faster than quicksort](https://external-preview.redd.it/fAW1INPhvMuD4NeS01UyxF3tAEg8-hiFLqgItZyom_4.jpg?auto=webp&s=9c9b0ff39311c70b89aa11378ddc572a3c56d40d "Blitsort: A new in-place stable sorting algorithm faster than quicksort")
+
+
+[Blitsort: A new in-place stable sorting algorithm faster than quicksort](https://www.reddit.com/r/programming/comments/ogcotl/blitsort_a_new_inplace_stable_sorting_algorithm/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Critiquing/Perfecting code](https://www.reddit.com/r/Python/comments/ogcom0/critiquingperfecting_code/)
+
+
+> What methods does everyone find is the most effective for either finding errors or generally improving code (whether its an old code you authored or someone else wrote). And this can either be what's the fastest way to critique, or most thorough way in order to have a bulletproof, perfect code?Do you try to read through it and mentally map where things are going? Find ways to shorten syntax when possible? Or are you in the mindset that if it compiles and runs without errors then no need to ever
+
+
+***
+[Recommended Pagination for APIs](https://www.reddit.com/r/programming/comments/ogcl2c/recommended_pagination_for_apis/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![ASUS And Qualcomm Developed A Phone For Snapdragon Insiders](https://www.androidheadlines.com/wp-content/uploads/2021/07/Screenshot-2021-07-08-1.24.07-PM.png "ASUS And Qualcomm Developed A Phone For Snapdragon Insiders")
+
+
+[ASUS And Qualcomm Developed A Phone For Snapdragon Insiders](https://www.androidheadlines.com/2021/07/asus-and-qualcomm-developed-a-phone-for-snapdragon-insiders.html)
+
+
+> With the rise of more OEMs developing their own chipsets, Qualcomm might find itself in some hot water before too long. The company has teamed up with ASUS to create the Smartphone for Snapdragon Insiders. This news comes to us from the Qualcomm website. Yes, the name is actually Smartphone for Snapdragon InsidersThough most chip manufacturers are still feeling the sting of the global chip shortage, Qualcomm and ASUS just came out of the woodwork with this new device. It will definitely have some pretty powerful specs.
+
+
+***
+![Ignition](https://external-preview.redd.it/KzOkbPZ7df981poI2ai03vTp6_wgJNt97iS9ZfZByqs.jpg?auto=webp&s=c11034758d1d10261a225c57a7b81897c1b205e7 "Ignition")
+
+
+[Ignition](https://www.reddit.com/r/programming/comments/ogcj92/ignition/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
