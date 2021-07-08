@@ -37865,3 +37865,53 @@
 > (Image credit: XGIMI) XGIMI which is a popular manufacturer for projectors in China, Hong Kong and the Middle East has expanded its line-up of projectors for India which includes Mogo, MoGo Pro, MoGo Pro+ and Halo. The two new addition to this lineup are the Horizon and Horizon Pro.XGIMI's two new futuristic and cutting edge projector under the Horizon Series called the Horizon and Horizon Pro is currently available in pre-orders and the products will be shipped by early August or mid August 2021.
 
 
+***
+![SynchroDynamic Software LinkedIn Smart Networking Bot](https://external-preview.redd.it/JXfMW2ibzw6gnJkXTGY2oB4RaatmYFtKNVVmp7FKy3k.jpg?auto=webp&s=de3f191f3e17d3868ca6246623dfdf33eeaa1997 "SynchroDynamic Software LinkedIn Smart Networking Bot")
+
+
+[SynchroDynamic Software LinkedIn Smart Networking Bot](https://www.reddit.com/r/Python/comments/ofzk1y/synchrodynamic_software_linkedin_smart_networking/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Logitech MK470 Slim Wireless Keyboard and Mouse launched in India](https://cdn.mos.cms.futurecdn.net/4FsvzwSUiq5X5FBfEbcW2g-1200-80.jpg "Logitech MK470 Slim Wireless Keyboard and Mouse launched in India")
+
+
+[Logitech MK470 Slim Wireless Keyboard and Mouse launched in India](https://www.techradar.com/news/logitech-mk470-slim-wireless-keyboard-and-mouse-launched-in-india)
+
+
+> (Image credit: Logitech) Logitech has announced the availability of its slim keyboard and compact mouse combo - Logitech MK470 in India. This combo is ideal for people who are looking for a slim and compact keyboard and mouse that doesn't add wire clutter on their desk.Both the keyboard and the mouse can be connected to the laptop or computer using the 2.4GHz dongle that is bundled with the combo. According to the company, the battery on the mouse and keyboard can last long - up to 18 months and 36 months, respectively.
+
+
+***
+![Net of the living dead: Hacker-controlled zombie devices triple in Singapore](https://www.straitstimes.com/s3/files/styles/x_large/public/articles/2021/07/08/ak_hack_080721.jpg?itok=BwZk9hs6 "Net of the living dead: Hacker-controlled zombie devices triple in Singapore")
+
+
+[Net of the living dead: Hacker-controlled zombie devices triple in Singapore](https://www.straitstimes.com/tech/tech-news/net-of-the-living-dead-hacker-controlled-zombie-devices-triple-in-singapore)
+
+
+> SINGAPORE - "Zombie" devices linked to the Internet, and infected with malware that allow hackers to control them and launch cyber attacks, have tripled their numbers here amid the Covid-19 pandemic, according to the latest government findings. An average of 6,600 of such malware-laced devices, also called botnet drones, were observed here last year on a daily basis, a big jump from 2,300 in 2019, said the Cyber Security Agency of Singapore (CSA) in a report released on Thursday (July 8). These devices can be computers, routers and even smartphones hijacked by hackers.
+
+
+***
+![Donald Trump sues Facebook, Twitter, Google; cites unlawful censorship](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/trump2-1200_0-sixteen_nine.jpg "Donald Trump sues Facebook, Twitter, Google; cites unlawful censorship")
+
+
+[Donald Trump sues Facebook, Twitter, Google; cites unlawful censorship](https://www.businesstoday.in/technology/news/story/donald-trump-sues-facebook-twitter-google-cites-unlawful-censorship-300746-2021-07-08)
+
+
+> Reuters Jul 08, 2021, Updated Jul 08, 2021, 9:21 AM IST Former US President Donald Trump on Wednesday filed lawsuits against Twitter Inc, Facebook Inc, and Alphabet Inc's Google, as well as their chief executives, alleging they unlawfully silence conservative viewpoints. The lawsuits, filed in US District Court in Miami, allege the California-based social media platforms violated the right to freedom of speech guaranteed by the First Amendment of the US Constitution. Trump is seeking class action status for the lawsuits, meaning he would represent the interests of other users of Twitter, Facebook, and Google's YouTube who allege they have been unfairly silenced.
+
+
+***
+![Google hit with antitrust lawsuit by 36 states alleging app store monopoly](https://www.gannett-cdn.com/presto/2021/02/02/USAT/9e08f245-71c1-4716-b02b-eaebd2f59ff9-AFP_AFP_1WG0X6.jpg?crop=4642,2612,x0,y235&width=3200&height=1801&format=pjpg&auto=webp "Google hit with antitrust lawsuit by 36 states alleging app store monopoly")
+
+
+[Google hit with antitrust lawsuit by 36 states alleging app store monopoly](https://www.usatoday.com/story/tech/2021/07/07/google-play-antitrust-lawsuit-36-states-sue-app-store-monopoloy/7896831002/)
+
+
+> Ohio AG seeks to declare Google a public utilityOhio Attorney General Dave Yost filed a lawsuit asking a court to declare Google a public utility and to regulate it as one in the latest twist on the escalating legal efforts to rein in the company that runs the internet's dominant search engine. (June 9)A coalition of three-dozen bipartisan state attorneys general has filed an antitrust lawsuit against Google accusing the tech giant of running a monopoly for its app store.The 36 states include Utah, New York, California, Virginia, North Carolina and the District of Columbia.
+
+
