@@ -37818,3 +37818,50 @@
 > A spacecraft around Mars has captured the clearest views yet of alien auroras on the red planet. © Provided by NBC News The United Arab Emirates' Hope probe, which arrived at Mars in early February, spotted the scattered glow of auroras in the Martian night sky. The stunning observations could help scientists better understand the atmosphere of Mars and how auroras on the red planet differ from similar light shows that are visible on Earth. © Emirates Mars Mission Image: Mars Aurora (Emirates Mars Mission) Auroras occur when charged particles from space interact with atoms in the atmosphere, energizing them and causing them to glow.
 
 
+***
+[Software as a Service platform](https://itwire.com/freelancer-sp-720/tag/Software%20as%20a%20Service%20platform.html)
+
+
+> Property consultancy Knight Frank Australia (KFA) has worked with global real estate software provider MRI Software to create a fully ‘Software as a Service' compliant environment to deploy MRI's Platform X technology.
+
+
+***
+![How to watch Black Widow online in Australia and New Zealand on Disney Plus](https://cdn.mos.cms.futurecdn.net/B4UckeVdEZ6Hrb5YTFhuon-1200-80.jpg "How to watch Black Widow online in Australia and New Zealand on Disney Plus")
+
+
+[How to watch Black Widow online in Australia and New Zealand on Disney Plus](https://www.techradar.com/news/how-to-watch-black-widow-online-stream-the-new-marvel-movie-on-disney-plus)
+
+
+> The fallout of Covid-19 could only halt our MCU superheroes for so long. After a delay of more than a year comes the highly-anticipated Black Widow on July 9th, a standalone film exploring Natasha Romanoff's dark past. Concurrent with a theatrical release, we explain how to watch Black Widow online with a Disney Plus subscription and one-time Premier Access fee of $29.99.Disney Plus deals: see all today's best prices hereHow to watch Black Widow onlineRelease date: July 9, 2021Cast: Scarlett Johansson, Florence Pugh, David Harbour, O-T Fagbenle, Rachel Weisz, Ray Winstone, William Hurt.
+
+
+***
+![Knight Frank Australia deploys MRI Software Platform X technology](https://itwire.com/media/k2/items/cache/c4609aa541b2b4d169d47e1a033d80fc_XS.jpg "Knight Frank Australia deploys MRI Software Platform X technology")
+
+
+[Knight Frank Australia deploys MRI Software Platform X technology](https://itwire.com/deals/knight-frank-australia-deploys-mri-software-platform-x-technology.html)
+
+
+> Property consultancy Knight Frank Australia (KFA) has worked with global real estate software provider MRI Software to create a fully ‘Software as a Service' compliant environment to deploy MRI's Platform X technology. MRI Software says the landmark deployment of the SaaS-based real estate platform will ensure KFA clients 'enjoy unparalleled access to the best and latest technology in the global commercial property market', which includes better access to data and new applications to manage their property portfolios.
+
+
+***
+![Vertiv launches cooling modules for IT equipment](https://itwire.com/media/k2/items/cache/2e072d92d053d691f88254a0abbeb66c_XS.jpg "Vertiv launches cooling modules for IT equipment")
+
+
+[Vertiv launches cooling modules for IT equipment](https://itwire.com/home-it/vertiv-launches-cooling-modules-for-it-equipment.html)
+
+
+> Vertiv rolls out the Liebert XD family, a line of cooling modules which feature hybrid design configurations that suit every environment. When deployed as primary cooling, it can save up to 70% of energy and 30% as supplemental cooling. Vertiv unveils the Liebert XD family, a line of thermal management solutions, which offers cooling in row, rack, or room design with provision for scalability and flexibility for future expansion. The Liebert XD family uses refrigerant-based systems to cool IT equipment.
+
+
+***
+![XGIMI Horizon and Horizon Pro projectors out for pre-booking in India](https://cdn.mos.cms.futurecdn.net/hZpaAbVjhai8FcHzDZHJ9f-1200-80.jpg "XGIMI Horizon and Horizon Pro projectors out for pre-booking in India")
+
+
+[XGIMI Horizon and Horizon Pro projectors out for pre-booking in India](https://www.techradar.com/news/xgimi-horizon-and-horizon-pro-projectors-out-for-pre-booking-in-india)
+
+
+> (Image credit: XGIMI) XGIMI which is a popular manufacturer for projectors in China, Hong Kong and the Middle East has expanded its line-up of projectors for India which includes Mogo, MoGo Pro, MoGo Pro+ and Halo. The two new addition to this lineup are the Horizon and Horizon Pro.XGIMI's two new futuristic and cutting edge projector under the Horizon Series called the Horizon and Horizon Pro is currently available in pre-orders and the products will be shipped by early August or mid August 2021.
+
+
