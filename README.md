@@ -38482,3 +38482,50 @@
 > "JavaScript continues to attract new developers with around 1.4 million more than six months ago. The language also has, by some distance, the largest developer community at around 13.8 million."
 
 
+***
+![Blaupunkt launches four new Made-in-India Android TVs starting at Rs 14,999](https://cdn.mos.cms.futurecdn.net/rDdZ3wkE3NPiUXAjT6UFnK-1200-80.jpg "Blaupunkt launches four new Made-in-India Android TVs starting at Rs 14,999")
+
+
+[Blaupunkt launches four new Made-in-India Android TVs starting at Rs 14,999](https://www.techradar.com/news/blaupunkt-launches-four-new-made-in-india-android-tvs-starting-at-rs-14999)
+
+
+> (Image credit: Blaupunkt) German consumer electronics company Blaupunkt has launched four ‘Made-in-India' Android TV models. These new TVs were launched by the company in an exclusive licensing agreement with the Indian contract manufacturer Super Plastronics Pvt Ltd (SPPL). According to the licensing contract, Blaupunkt's manufacturing, branding, designing, packaging, and retailing supply chain will be handled by SPPL. The four new TVs will be available to customers from July 10 onwards on Flipkart.
+
+
+***
+[USD/JPY pushes back to 110.00 on yields bounce](https://www.forexlive.com/technical-analysis/!/usdjpy-pushes-back-to-11000-on-yields-bounce-20210709)
+
+
+> USD/JPY searches for first day of gains in six days It is still too early to be saying what the latest bounce in yields really represents and the same can be said for USD/JPY price action at the moment.
+
+
+***
+![Node.js Security Risks & Solutions](https://external-preview.redd.it/jwxJ1QeNLZ8LStSSnDmNg0zWxgwqgGlgp0nG6U2z1AY.jpg?auto=webp&s=1a89567029ff1c049f07f93ce22b57f90ddaaf83 "Node.js Security Risks & Solutions")
+
+
+[Node.js Security Risks & Solutions](https://www.reddit.com/r/programming/comments/ogp02k/nodejs_security_risks_solutions/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Federal Court finds for Epic Games over Apple](https://itwire.com/media/k2/items/cache/50f634499ef2f25c6107a62be5879a24_XS.jpg "Federal Court finds for Epic Games over Apple")
+
+
+[Federal Court finds for Epic Games over Apple](https://itwire.com/strategy/federal-court-finds-for-epic-games-over-apple.html)
+
+
+> The Federal Court has ruled that Epic Games v Apple should be heard in Australia. Epic Games, the company behind the very successful Fortnight game, sued Apple in a US District Court over its App Store practices, notably the 30% fee for in-app purchases and a refusal to allow developers to use their own in-app purchasing mechanisms. That court case has been concluded but a verdict has yet to be delivered. Epic brought a separate action against Apple in Australia, alleging Apple's practices were in breach of consumer and competition laws.
+
+
+***
+![What smartphone brands should learn from Nintendo](https://images.indianexpress.com/2021/07/Nintendo-switch-oled-1.jpg "What smartphone brands should learn from Nintendo")
+
+
+[What smartphone brands should learn from Nintendo](https://indianexpress.com/article/technology/opinion-technology/what-smartphone-brands-should-learn-from-nintendo-7396216/)
+
+
+> Nintendo has shocked everyone with its new Switch OLED model, which was launched without any of the hype or fanfare new gadgets are usually used to. Nintendo limited the launch to a product video on YouTube and a press release as its page went live. Why would Nintendo want to do a silent launch, you might wonder? For one this gives it complete control over the communication and no chance for unnecessary speculation over the product. For months there had been speculation of the 'supercharged' Nintendo Switch — some called it the 'Switch Pro' and others called it 'Super Nintendo Switch'.
+
+
