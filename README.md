@@ -38576,3 +38576,50 @@
 > WhatsApp told the Delhi High Court on Friday that till the data protection bill comes into force, it would not compel users to opt for its new privacy policy as it has been put on hold. Whatsapp also clarified before bench of Chief justice D N Patel and Justice Jyoti Singh that it would not limit the functionality for users who are not opting for new privacy policy in the meantime. Appearing for the instant messaging platform, Senior Advocate Harish Salve said, "We voluntarily agreed to put it (the policy) on hold.
 
 
+***
+[AUD/USD trades to session highs as risk sentiment keeps more positive so far today](https://www.forexlive.com/technical-analysis/!/audusd-trades-to-session-highs-as-risk-sentiment-keeps-more-positive-20210709)
+
+
+> AUD/USD turns around the earlier drop to climb to 0.7460 The low today hit 0.7411 in Asian trading, which marked the lowest level for the pair since December, but things are quickly changing now in European trading as risk sentiment is also lookin more positive for the time being.
+
+
+***
+![Dyson Micro 1.5kg](https://cdn.mos.cms.futurecdn.net/KHpvD3rRmeSr6iYfpL4EMk-1200-80.jpg "Dyson Micro 1.5kg")
+
+
+[Dyson Micro 1.5kg](https://www.techradar.com/reviews/dyson-micro-15kg)
+
+
+> Dyson Micro dealsDyson has been keen to prove that it's still king of the cordless vacuums this year, putting all its cards on the table with the launch of the Dyson V15 Detect, the brand's most powerful and high-tech vacuum cleaner to date, which currently tops our list of the best vacuum cleaners. The floorcare stalwart quickly followed that model with the Dyson Omni-glide – a new style of cordless vacuum that can lie flat on the floor, making it easy to maneuver under furniture with low clearance.
+
+
+***
+![Alleged iPhone 13 dummy images shared by Chinese accessory maker](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/benks-iphone-13.jpg "Alleged iPhone 13 dummy images shared by Chinese accessory maker")
+
+
+[Alleged iPhone 13 dummy images shared by Chinese accessory maker](https://www.imore.com/alleged-iphone-13-dummy-images-shared-chinese-accessory-maker)
+
+
+> Source: Benks A Chinese accessory maker has shared images of dummy models that it says represent design changes we can expect in Apple's upcoming iPhone 13. Benks took to Weibo sharing images it says represent the 'iPhone 13'. The units have a fairly strange brushed metal finish, and the pictures feature obviously blurred out Apple logos. As noted, these units are allegedly dummy iPhone 13 models the company has used to create cases for the upcoming device. There's no way to establish how Benks came upon these designs, however, they do appear to match previous rumors and leaks we've seen pertaining to the expected design of Apple's next flagship iPhone.
+
+
+***
+![Delhi seizes 90 imported iPhones falsely marked as 'garments' on paperwork](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/iphone-12-pro-review-18-1.jpg "Delhi seizes 90 imported iPhones falsely marked as 'garments' on paperwork")
+
+
+[Delhi seizes 90 imported iPhones falsely marked as 'garments' on paperwork](https://www.imore.com/delhi-seizes-90-imported-iphones-falsely-marked-garments-paperwork)
+
+
+> Source: Daniel Bader / iMore 90 iPhone 12 Pro devices have been seized by Delhi customs officers after they were incorrectly marked as garments on paperwork. They were only discovered after an X-ray operator spotted them when scanning three consignments at a Delhi airport. The 90 iPhones were reportedly worth Rs.1 cr, or around $134,000. Marking the iPhones as garments would have allowed their importation without the need to pay the required fees — or that was the idea. Now that they've been seized nobody is getting their iPhones, savings or not.
+
+
+***
+![New iPad Pro (2022): what we want to see](https://cdn.mos.cms.futurecdn.net/3nWeEU9SdWqSsCWmnKnVd3-1200-80.jpg "New iPad Pro (2022): what we want to see")
+
+
+[New iPad Pro (2022): what we want to see](https://www.techradar.com/news/new-ipad-pro-2022)
+
+
+> Though the iPad Pro (2021) is still dominating our rear-view mirrors, having only gone on sale in late May, we've already been hearing rumors about the 2022 version of Apple's top-end tablet.We've only heard a few things so far, but that's still a lot to know about the iPad Pro (2022), given that the 2021 version isn't old enough to walk.We've covered these rumors down below, and will update this article frequently when we hear more information about the iPad Pro (2022), so that everything you need to know is collected below.
+
+
