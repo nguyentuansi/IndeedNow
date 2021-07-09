@@ -38623,3 +38623,53 @@
 > Though the iPad Pro (2021) is still dominating our rear-view mirrors, having only gone on sale in late May, we've already been hearing rumors about the 2022 version of Apple's top-end tablet.We've only heard a few things so far, but that's still a lot to know about the iPad Pro (2022), given that the 2021 version isn't old enough to walk.We've covered these rumors down below, and will update this article frequently when we hear more information about the iPad Pro (2022), so that everything you need to know is collected below.
 
 
+***
+![Microsoft's ‘PrintNightmare' Windows patch accidentally broke people's connection to their printers](https://static.independent.co.uk/2021/06/30/15/Microsoft_Secret_Surveillance_15631.jpg?width=1200&auto=webp&quality=75 "Microsoft's ‘PrintNightmare' Windows patch accidentally broke people's connection to their printers")
+
+
+[Microsoft's ‘PrintNightmare' Windows patch accidentally broke people's connection to their printers](https://www.independent.co.uk/life-style/gadgets-and-tech/microsoft-printnightmare-windows-printers-update-b1881109.html)
+
+
+> An emergency update issued to Windows 10 by Microsoft to stop a printer exploit bug made users lose access to their printers.Users that installed the ‘PrintNightmare' patch, which stops hackers using a critical flaw in the Windows Print Spooler software that could result in malicious individuals running code as administrators on machines, discovered that they could not connect to their printers.Researchers had discovered the tweeted in May that they had found the vulnerability, but accidentally made the proof-of-concept available online.
+
+
+***
+![Enjoy the fun of speed racing and off-roading with one of these RC trucks](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2020/01/best-rc-trucks-hero-ec-hobby-6anu.jpg "Enjoy the fun of speed racing and off-roading with one of these RC trucks")
+
+
+[Enjoy the fun of speed racing and off-roading with one of these RC trucks](https://www.androidcentral.com/best-rc-trucks)
+
+
+> Best RC trucks Android Central 2021 Radio-controlled (RC) trucks are a blast for all ages. These miniaturized vehicles are manipulated from a distance using a remote and rechargeable battery. Like most radio-controlled vehicles, prices can run from toy-level novelties that creep along indoor carpeting to pro-level rigs with 4-wheel drive that can conquer any hill. So what's the best RC truck out today? Here are our favorites. Staff Pick If you're shopping for kids, this is the best RC truck on our list.
+
+
+***
+![Call of Duty trailer reveals terrifying first footage of Season 4 Zombies mode](https://www.thesun.co.uk/wp-content/uploads/2021/07/A1D465DA-8118-4EFA-8903-EC22B7A3586D.jpeg?strip=all&quality=100&w=1200&h=800&crop=1 "Call of Duty trailer reveals terrifying first footage of Season 4 Zombies mode")
+
+
+[Call of Duty trailer reveals terrifying first footage of Season 4 Zombies mode](https://www.thesun.co.uk/tech/15542181/call-of-duty-trailer-zombies-mauer-der-toten/)
+
+
+> CALL of Duty has unveiled a full trailer for its new Zombies mode. The huge update arrives in just a few days – and looks as terrifying as you'd expect. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news Zombies is getting a huge update this monthCredit: Activision The new mode is built into the existing Zombies feature of Call of Duty: Black Ops Cold War. Gamers will visit the new Mauer der Toten map – that's Wall of the Dead in German. You'll be playing in East Berlin, fending off the legions of undead who are trying to take over the world.
+
+
+***
+![WhatsApp update will finally fix grainy and low-quality pictures](https://static.independent.co.uk/s3fs-public/thumbnails/image/2021/01/16/14/gettyimages-1229485642.jpg?width=1200&auto=webp&quality=75 "WhatsApp update will finally fix grainy and low-quality pictures")
+
+
+[WhatsApp update will finally fix grainy and low-quality pictures](https://www.independent.co.uk/life-style/gadgets-and-tech/whatsapp-update-picture-send-image-b1881140.html)
+
+
+> An upcoming WhatsApp update could finally let people send better quality images through the app.Despite the fact that it is widely used to share photos, WhatsApp does not send them at fully quality – instead, it compresses them significantly, meaning they arrive sometimes grainy and low-quality.While the compression ensures that the images do not take up too much data to send or space on people's phones, it does also mean that they can look as if they were taken on a far worse camera because of the extreme compression.
+
+
+***
+![Events in JavaScript](https://external-preview.redd.it/21oO9hPCIVObZ4fuqBJ0zo5lSVhG0gBVGaMrzKLE1Rc.jpg?auto=webp&s=23128df6fdf4501ff12be39404737f87e407d7ec "Events in JavaScript")
+
+
+[Events in JavaScript](https://www.reddit.com/r/programming/comments/ogtz7a/events_in_javascript/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
