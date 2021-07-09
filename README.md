@@ -38435,3 +38435,50 @@
 > The VSS Unity during the Unity 21 mission to the edge of space. Virgin Galactic Richard Branson, the 70-year-old billionaire CEO of space tourism company Virgin Galactic, is no stranger to making headlines -- he once drove a tank down Fifth Avenue to promote a new brand of cola. And he's ready to do it again with his latest venture certain to top all those that came before it. On Sunday, Branson is set to board Virgin Galactic's VSS Unity and launch from the Mojave Desert into the stratosphere (and a little beyond).
 
 
+***
+['Excessive': News Broadcasters Association Moves HC Against IT Rules](https://www.thequint.com/tech-and-auto/news-broadcasters-association-moves-kerala-hc-against-new-it-rules)
+
+
+> Several major broadcasters such as India TV, NDTV 24x7 and Times Now are part of the News Broadcasters Association.
+
+
+***
+![ITWIRETV INTERVIEW: Yubico's A/NZ VP Geoff Schomburgk talks Yubikey security in the Zero Trust era](https://itwire.com/media/k2/items/cache/7e6285c03a2020f00940f0d1c292b145_XS.jpg "ITWIRETV INTERVIEW: Yubico's A/NZ VP Geoff Schomburgk talks Yubikey security in the Zero Trust era")
+
+
+[ITWIRETV INTERVIEW: Yubico's A/NZ VP Geoff Schomburgk talks Yubikey security in the Zero Trust era](https://itwire.com/guest-articles/guest-interviews/itwiretv-interview-yubico-s-a-nz-vp-geoff-schomburgk-talks-yubikey-security-in-the-zero-trust-era.html)
+
+
+> GUEST INTERVIEW: Yubikeys are the ultimate multi-factor authentication tool, used by consumers, businesses, governments and any organisation to keep accounts and networks secure in the age of global Cyber Cold War, and we spoke to Yubico's Geoff Schomburgk on iTWireTV. Yubico. The company started in 2007 with the mission to make secure login easy and available for everyone, and in 2021, the company has certainly achieved that. The company's security keys are manufactured in Sweden and the USA, and have won the trust of the largest enterprises and millions of users across the globe.
+
+
+***
+![Qualcomm launches Smartphone for Snapdragon Insiders gaming phone, India launch soon](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/qualcomm_smartphone_for_snapdr-original.jpg "Qualcomm launches Smartphone for Snapdragon Insiders gaming phone, India launch soon")
+
+
+[Qualcomm launches Smartphone for Snapdragon Insiders gaming phone, India launch soon](https://www.indiatoday.in/technology/news/story/qualcomm-launches-smartphone-for-snapdragon-insiders-gaming-phone-india-launch-soon-1825789-2021-07-09)
+
+
+> Shubham Verma New Delhi, Jul 09, 2021, Updated Jul 09, 2021, 9:25 AM IST After months of speculation, Qualcomm finally launched its first smartphone, in partnership with Asus, called the "Smartphone for Snapdragon Insiders". Literally, this phone is for Snapdragon Insiders, a community of Snapdragon fans and enthusiasts who hear about new developments around Qualcomm's mobile processors before anyone else. Essentially, this new gaming phone is a token of appreciation for the community. The Qualcomm phone is big on specifications, such as the Snapdragon 888 chip, 144Hz AMOLED display, and up to 16GB of RAM, to make for the gaming phone title.
+
+
+***
+![WhatsApp working on large link previews, high-quality images and other features](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/screenshot_2020-03-16_at_12.11_1_1200x768-original.png "WhatsApp working on large link previews, high-quality images and other features")
+
+
+[WhatsApp working on large link previews, high-quality images and other features](https://www.indiatoday.in/technology/news/story/whatsapp-working-on-large-link-previews-high-quality-images-and-other-features-1825781-2021-07-09)
+
+
+> Ankita Chakravarti New Delhi, Jul 09, 2021, Updated Jul 09, 2021, 9:16 AM IST Story highlights WhatsApp is focusing on improving the visual experience for Android and iOS users. WhatsApp is working on larger link previews and the possibility of allowing users to send high-quality images. The feature was being tested on Android as well as the iOS app. WhatsApp is focusing on improving the visual experience for Android and iOS users. The messaging app is reportedly working on larger link previews and the possibility of allowing users to send high-quality images to their contacts.
+
+
+***
+![SlashData: JavaScript and Python boast largest developer communities](https://external-preview.redd.it/bcal2zWeyqK8kP8nwNiZeQFf3O2vWUbYOvn8Whxe4eQ.jpg?auto=webp&s=f92fa78188e01b14cf27a4c4a767aaaf2511f829 "SlashData: JavaScript and Python boast largest developer communities")
+
+
+[SlashData: JavaScript and Python boast largest developer communities](https://www.reddit.com/r/programming/comments/ognfy3/slashdata_javascript_and_python_boast_largest/)
+
+
+> "JavaScript continues to attract new developers with around 1.4 million more than six months ago. The language also has, by some distance, the largest developer community at around 13.8 million."
+
+
