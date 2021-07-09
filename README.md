@@ -38870,3 +38870,53 @@
 > — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.In 'Devil's Deal,' the Empire makes a play for control of Ryloth, homeworld of the Twi'leks, stoking the fires of rebellion in the process. This is an unusual episode of The Bad Batch, in that the Bad Batch doesn't actually appear until past the 13-minute mark, underscoring Lucasfilm's recent obsession with cameos and crossovers (what some critics have called the 'Marvelization' of Star Wars since at least 2018).
 
 
+***
+![How Did Kanye do in the 2020 Election?? (Made with Python)](https://external-preview.redd.it/fWaN4zbsxm_Denyj0hbtYKORdLSTngiyQGtdb1GKpL4.jpg?auto=webp&s=5efbd5ce022f510e95b75690429e9d2d0022f92a "How Did Kanye do in the 2020 Election?? (Made with Python)")
+
+
+[How Did Kanye do in the 2020 Election?? (Made with Python)](https://www.reddit.com/r/programming/comments/oh5oyx/how_did_kanye_do_in_the_2020_election_made_with/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Google teases Wear OS watch owners with an early taste of the new update](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/07/fossil-gen-5-wear-os-play-store-redesign.jpg "Google teases Wear OS watch owners with an early taste of the new update")
+
+
+[Google teases Wear OS watch owners with an early taste of the new update](https://www.androidcentral.com/wear-os-play-store-update-redesign)
+
+
+> Source: Derrek Lee / Android Central Some Wear OS smartwatches are receiving an updated Play Store design. The redesign resembles the upcoming unified platform built by Google and Samsung. Fossil has already stated that its smartwatches won't receive the upcoming update. Owners of some of the best Wear OS watches are getting a nice surprise thanks to the latest update to the Play Store. According to a couple of threats on Reddit, some smartwatch models are getting a redesigned Play Store. Various elements in the Play Store app are much more pronounced, with larger pill-shaped buttons that should make it easier to navigate.
+
+
+***
+![Could Apple TV soon be the home of NFL Sunday Ticket? The bidding will kick off soon](https://www.gannett-cdn.com/-mm-/82af5c4352de45abd4fc6557a72516dc075e8d22/c=0-221-4904-2979/local/-/media/2021/05/10/USATODAY/usatsports/usatsi_13225331.jpg?width=3200&height=1800&fit=crop&format=pjpg&auto=webp "Could Apple TV soon be the home of NFL Sunday Ticket? The bidding will kick off soon")
+
+
+[Could Apple TV soon be the home of NFL Sunday Ticket? The bidding will kick off soon](https://www.usatoday.com/story/tech/2021/07/09/amazon-apple-disney-could-make-play-directvs-nfl-sunday-ticket/7919843002/)
+
+
+> Netflix is cracking down on password sharing and we are freaking outNetflix seems to have missed the memo that sharing is caring, the streaming platform is putting wheels in motion to crackdown on password sharing.A bidding war among tech and media giants is about to kick off over premium streaming content: NFL games.NFL Sunday Ticket, a package that includes all the National Football League's Sunday games (except for those blacked out locally), has been a fixture for satellite TV service DirecTV.
+
+
+***
+![2D RPG with GPU based lights](https://external-preview.redd.it/7gBPTgljZ_4o3PcpAQnHMbuTe2VpjCQrY-sf-oWPd8E.jpg?auto=webp&s=28d52bafd201fe1b9cb8b9f5a6dc696db55e9292 "2D RPG with GPU based lights")
+
+
+[2D RPG with GPU based lights](https://www.reddit.com/r/Python/comments/oh5fyf/2d_rpg_with_gpu_based_lights/)
+
+
+> Created using the Tiled map editor, Pytiled-Parser, dev branches of Arcade library, and Pyglet. Source: https://github.com/pythonarcade/community-rpgPlay0:000:00SettingsFullscreen
+
+
+***
+![Apple Music debuts new 'This Week in Apple Music' collection](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/this-week-apple-music.jpg "Apple Music debuts new 'This Week in Apple Music' collection")
+
+
+[Apple Music debuts new 'This Week in Apple Music' collection](https://www.imore.com/apple-music-debuts-new-week-apple-music-collection)
+
+
+> Source: Apple Apple Music has a new weekly showcase to help you stay in the know with today's music scene. The music streaming service has announced 'This Week in Apple Music,' a new weekly video that dives into "the five biggest things happening across Apple Music - and music as a whole." In addition to the video, 'This Week in Apple Music' will also showcase a range of content across the platform, including albums, playlists, music videos, artist interviews, and more. You can read Apple's explanation of the new category below: Every week on Apple Music, great new albums and playlists drop, our library of 75 million songs grows, and literally hundreds of pieces of exclusive content - from radio shows hosted by music's biggest stars to revelatory artist interviews - are unveiled.
+
+
