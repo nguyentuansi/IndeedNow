@@ -38394,3 +38394,44 @@
 > © Instagram / William Shatner By: Joshua Rodriguez2021-07-09 03:12:15 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Timeline of Elsa's impact on New York and New Jersey. UN Supports Claude As PM, Promises To Aid With Elections And Security. Hands on education helps La Crosse kids learn about Hmong culture and language. Beyoncé Was Spotted With a Telfar Bag and Fans Are Losing It. Kathleen Hill: Steiners breakfasts, GI Joe drinks and more. The Walking Dead Season 11 Reveals New Character Photos and Details.
 
 
+***
+[FIXER、「2021 Microsoft Partner of the Year Award」を「Cloud Native App Development」カテゴリーにて受賞](https://ascii.jp/elem/000/004/062/4062099/?rss)
+
+
+> FIXERは「2021 Microsoft Partner of the Year Award」を「Cloud Native App Development」カテゴリーにて受賞したと発表した。日本企業としては初の受賞という。
+
+
+***
+[If you are willing to learn Machine Learning from the beginning with Python sample codes, you can read "zero to hero in ML" book for a discounted price (0.99$) from 4th July to 11th July 2021](https://www.reddit.com/r/programming/comments/ogllmb/if_you_are_willing_to_learn_machine_learning_from/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Square announces it will build a hardware wallet for bitcoin, after Jack Dorsey had discussed the possibility of creating one in June (Jay Peters/The Verge)](http://www.techmeme.com/210708/p32#a210708p32)
+
+
+> Jay Peters / The Verge: Square announces it will build a hardware wallet for bitcoin, after Jack Dorsey had discussed the possibility of creating one in June — CEO Jack Dorsey said the company was considering one in June — Square is going to make a hardware wallet for bitcoin, the company's hardware lead, Jesse Dorogusker, announced on Thursday.
+
+
+***
+![Damage bill from deadly storms and floods in Victoria tops $182m](https://images.perthnow.com.au/publication/C-3352497/ef941a023b5152fbff277f8efefd38f520cb74e0-16x9-x0y0w2048h1152.jpg?imwidth=1200 "Damage bill from deadly storms and floods in Victoria tops $182m")
+
+
+[Damage bill from deadly storms and floods in Victoria tops $182m](https://www.news.com.au/technology/environment/damage-bill-from-deadly-storms-and-floods-in-victoria-tops-182m/news-story/e386f1f3d72a7a8df233597ed433842c)
+
+
+> The damage bill from deadly storms that swept across Victoria, bringing devastating floods and enormous 'tree carnage', has topped $182m.Ferocious winds and massive downpours hit Victoria last month, uprooting trees onto houses, bringing down powerlines and inundating properties with floodwater in Gippsland.Homeowners in the worst hit areas of the Dandenong Ranges, Trentham and the Macedon Ranges spent about two weeks without power due to extensive damage caused to the electricity network.At least 129 homes were deemed uninhabitable from the severe storms, about 135 others were habitable but suffered significant damage, while about 300,000 homes and buildings lost power at the height of the weather event.
+
+
+***
+![Richard Branson's Virgin Galactic space flight: How to watch, start time, livestream](https://www.cnet.com/a/img/YBtOa_xSQtRto5jqZDlg8LPPeqs=/1200x630/2021/07/09/ab5766d5-9b8b-4a0f-8f06-d3c8948f9498/unity2111.jpg "Richard Branson's Virgin Galactic space flight: How to watch, start time, livestream")
+
+
+[Richard Branson's Virgin Galactic space flight: How to watch, start time, livestream](https://www.cnet.com/how-to/richard-bransons-virgin-galactic-space-flight-how-to-watch-start-time-livestream/)
+
+
+> The VSS Unity during the Unity 21 mission to the edge of space. Virgin Galactic Richard Branson, the 70-year-old billionaire CEO of space tourism company Virgin Galactic, is no stranger to making headlines -- he once drove a tank down Fifth Avenue to promote a new brand of cola. And he's ready to do it again with his latest venture certain to top all those that came before it. On Sunday, Branson is set to board Virgin Galactic's VSS Unity and launch from the Mojave Desert into the stratosphere (and a little beyond).
+
+
