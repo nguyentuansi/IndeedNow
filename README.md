@@ -38673,3 +38673,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![I made a GitHub Action to auto create a GIF of your website](https://external-preview.redd.it/K_Fl0LcImGg8zOdkeSWZ7GGRKv_vazONkEMr9FX-EIA.jpg?auto=webp&s=009f51f87b92fc424bd155640cd086f75bac7ae9 "I made a GitHub Action to auto create a GIF of your website")
+
+
+[I made a GitHub Action to auto create a GIF of your website](https://www.reddit.com/r/Python/comments/ogw5s1/i_made_a_github_action_to_auto_create_a_gif_of/)
+
+
+> demoHi!Lately I've been tinkering with GitHub Actions and Docker. And... I think I've figured it out :pI've made a GitHub Action which you can use to create automatically a GIF of your website to display on your README.Here is the repo: https://github.com/PabloLec/website-to-gifLet's say you have a repository for your blog, you can use this GH Action to generate a nice little GIF of your blog with custom trigger. Be it at every push, release or every day.You only have to use the example given on the repo README and input your custom URL.
+
+
+***
+![The Tor Project announces Arti, a Tor implementation written in Rust from scratch](https://external-preview.redd.it/TLG-ywWcyzFJ37_XAYoNjDNFTRxrXAVnansY_rnQwUg.jpg?auto=webp&s=45619eccbe0114efa9f97556e7b0bf286db9d013 "The Tor Project announces Arti, a Tor implementation written in Rust from scratch")
+
+
+[The Tor Project announces Arti, a Tor implementation written in Rust from scratch](https://www.reddit.com/r/programming/comments/ogw5o7/the_tor_project_announces_arti_a_tor/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Want an Apple Watch but ... don't? Check out these alternatives!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/samsung-galaxy-watch-3-1.jpg "Want an Apple Watch but ... don't? Check out these alternatives!")
+
+
+[Want an Apple Watch but ... don't? Check out these alternatives!](https://www.androidcentral.com/best-apple-watch-alternatives-android)
+
+
+> Source: Hayato Huseman / Android Central Best Apple Watch alternatives Android Central 2021 For some, the Apple Watch is considered the gold standard of smartwatches. However, that doesn't hold much weight for Android users who couldn't use it even if they wanted to. The best Apple Watch alternative for Android users that stands out from the pack is the Samsung Galaxy Watch 3. It offers the perfect balance of functionality and style that caters to a wider subset of users. But, of course, there are plenty of other options worth exploring, too.
+
+
+***
+![Here's The Thrilling Moment This 13-Year-Old Won The 2021 Scripps National Spelling Bee Finals With The Word 'Murraya'](https://cdn.digg.com/wp-content/uploads/2021/07/09135154/Screen-Shot-2021-07-09-at-9.51.38-AM.jpg "Here's The Thrilling Moment This 13-Year-Old Won The 2021 Scripps National Spelling Bee Finals With The Word 'Murraya'")
+
+
+[Here's The Thrilling Moment This 13-Year-Old Won The 2021 Scripps National Spelling Bee Finals With The Word 'Murraya'](https://digg.com/video/2021-scripps-national-spelling-bee-finals-murraya)
+
+
+> THE CARS THAT DESERVE MORE LOVE Automotive press accolades don't always equal consumer interest EAT, DRINK AND BE MURRAYA Here's the moment 13-year-old Zaila Avant-garde won the 93rd Scripps National Spelling Bee. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. When you fudge up your routine, there's little choice but to keep calm and carry on.
+
+
+***
+![Best smartwatch 2021: the top wearables you can buy today](https://cdn.mos.cms.futurecdn.net/5FXMtBewvwsD2bETPQ9Pmi-1200-80.jpg "Best smartwatch 2021: the top wearables you can buy today")
+
+
+[Best smartwatch 2021: the top wearables you can buy today](https://www.techradar.com/news/wearables/best-smart-watches-what-s-the-best-wearable-tech-for-you-1154074)
+
+
+> If you want the best smartwatch, you're looking for a real jack of all trades. You need a watch that'll monitor your health, track your efforts when exercising, last for a long time between charges, have useful tools like flashlights and timers and, perhaps most importantly, come at a reasonably low price.Here at TechRadar, we've tested all the best smartwatches on the market, including offerings from all the biggest companies as well as up-and-comers and smaller names, allowing us to rank them definitively so you know which to consider.
+
+
