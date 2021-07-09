@@ -38773,3 +38773,53 @@
 > Jeff Bezos's rocket company has mocked Richard Branson's over its smaller windows and the definition of space.Branson and Bezos are currently locked in a race – though they have not explicitly said called it such – to get to space first. Branson will set off this weekend, with Bezos leaving later this month.But Bezos's rocket firm, Blue Origin, has now suggested in a tweet that Branson will not actually be making it to space when he completes the journey aboard Virgin Galactic's spaceplane. He will not be going high enough to make it into what most people refer to as space, the company said.
 
 
+***
+![These are the best bands you can get for the Garmin Forerunner 645](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/06/garmin-foreruner-645-hero-image.jpg "These are the best bands you can get for the Garmin Forerunner 645")
+
+
+[These are the best bands you can get for the Garmin Forerunner 645](https://www.androidcentral.com/best-bands-garmin-forerunner-645)
+
+
+> Best bands for Garmin Forerunner 645 Android Central 2021 When it comes to finding the best Garmin Forerunner 645 band, it's crucial to pick one that blends seamlessly with your active lifestyle. Whether you're a professional athlete or a casual runner, a perfect fit makes all the difference. As you may know, the Garmin Forerunner 645 is compatible with 20mm quick-release bands. As a result, you'll have more than enough options to choose from. We've gathered some of our favorites to get you started.
+
+
+***
+![Rising energy bills will fund nuclear power plants](https://cdn.mos.cms.futurecdn.net/vnHDiBke9zDi7bY5MRpKxB-1200-80.jpg "Rising energy bills will fund nuclear power plants")
+
+
+[Rising energy bills will fund nuclear power plants](https://www.techradar.com/news/rising-energy-bills-will-fund-nuclear-power-plants)
+
+
+> (Image credit: Getty) According to a recent report in the FT, the UK government has drawn up new legislation to underpin a financing plan for the new Sizewell C nuclear site in Suffolk. This will involve thousands of UK households paying more for their energy bills in order to finance the new site even before it starts to generate electricity.It's estimated that the Sizewell C site, which has been proposed by EDF, will cost £20bn to build. Previously, Prime Minister Boris Johnson has said that he would like the government to reach a final investment decision on 'at least one' new nuclear power station before the next general election.
+
+
+***
+![Oppo, Realme, Vivo, and OnePlus are in the midst of an identity crisis](https://icdn.digitaltrends.com/image/digitaltrends/oppo-realme-vivo-oneplus-phones-logos.jpg "Oppo, Realme, Vivo, and OnePlus are in the midst of an identity crisis")
+
+
+[Oppo, Realme, Vivo, and OnePlus are in the midst of an identity crisis](https://www.digitaltrends.com/mobile/oppo-oneplus-realme-vivo-identity-crisis/)
+
+
+> This is a call to action, a plea almost, for four smartphone companies not to lose their individuality. Oppo, Realme, Vivo, and OnePlus are all in danger of doing so, as each brand increasingly overlaps and the relationship blurs to the point where, at times, I can't tell the difference between them. Andy Boxall/Digital Trends This brand assimilation hasn't reached the point where they are indistinguishable from each other yet, but the creep has become a lot more noticeable over the last year. This is my request to each — don't forget who you are.
+
+
+***
+![My Python Development Environment in 2021](https://external-preview.redd.it/deCwqxYC0rxzXfFf_BbNY_AIs2m1vC6guPs1Fh9yINA.jpg?auto=webp&s=5bcadf0012e1c6e521ca47ed7d0b23bf16844575 "My Python Development Environment in 2021")
+
+
+[My Python Development Environment in 2021](https://www.reddit.com/r/Python/comments/oh0m8j/my_python_development_environment_in_2021/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The Witcher season 2 has finally a release date – two years after season 1](https://cdn.mos.cms.futurecdn.net/xr77ChcxSvT79t85PRqi35-1200-80.jpg "The Witcher season 2 has finally a release date – two years after season 1")
+
+
+[The Witcher season 2 has finally a release date – two years after season 1](https://www.techradar.com/news/the-witcher-season-2-has-finally-a-release-date-two-years-after-season-1)
+
+
+> (Image credit: Future / TechRadar) The Witcher season 2 will be released on December 17, 2021, it's been confirmed. The date was revealed as part of WitcherCon, an online event featuring the cast and crew. Here's the release date, as revealed by Netflix on social media:The Witcher Season 2 premieres December 17! pic.twitter.com/8GXtt6adT7July 9, 2021See moreSeason 2 will take Geralt and Ciri to Kaer Morhen, home of the Witchers, and introduce us to some of Geralt's brothers-in-arms. The Witcher season 1 released back in December 2019, so it's been a two-year wait for the Netflix fantasy drama to return.
+
+
