@@ -38723,3 +38723,53 @@
 > If you want the best smartwatch, you're looking for a real jack of all trades. You need a watch that'll monitor your health, track your efforts when exercising, last for a long time between charges, have useful tools like flashlights and timers and, perhaps most importantly, come at a reasonably low price.Here at TechRadar, we've tested all the best smartwatches on the market, including offerings from all the biggest companies as well as up-and-comers and smaller names, allowing us to rank them definitively so you know which to consider.
 
 
+***
+![WitcherCon live stream today: CD Projekt Red, Netflix show teasers](https://cdn.slashgear.com/wp-content/uploads/2021/07/witchercon-2021-live-stream-youtube-netflix.jpg "WitcherCon live stream today: CD Projekt Red, Netflix show teasers")
+
+
+[WitcherCon live stream today: CD Projekt Red, Netflix show teasers](https://www.slashgear.com/witchercon-live-stream-today-cd-projekt-red-netflix-show-teasers-09681868/)
+
+
+> Starting at 6PM BST (12 noon Central Time), there'll be a live stream of the event called WitcherCon. This is the first ever WitcherCon event, celebrating and expanding upon the game series and the television show. This event is co-hosted by Netflix and CD Projekt Red, and will be available to watch and devour without any pre-registration, tickets, or other goofiness. Below you'll see a YouTube video window that you'll likely need to tap to play. This is a live stream that – if handled correctly – will transform into a recording of the live stream at a later date.
+
+
+***
+![Bezos's rocket company mocks Branson's over ‘small windows' and its definition of going to space](https://static.independent.co.uk/2021/07/09/17/bezos.jpg?width=1200&auto=webp&quality=75 "Bezos's rocket company mocks Branson's over ‘small windows' and its definition of going to space")
+
+
+[Bezos's rocket company mocks Branson's over ‘small windows' and its definition of going to space](https://www.independent.co.uk/life-style/gadgets-and-tech/bezos-branson-space-rocket-virgin-blue-origin-launch-b1881386.html)
+
+
+> Jeff Bezos's rocket company has mocked Richard Branson's over its smaller windows and the definition of space.Branson and Bezos are currently locked in a race – though they have not explicitly said called it such – to get to space first. Branson will set off this weekend, with Bezos leaving later this month.But Bezos's rocket firm, Blue Origin, has now suggested in a tweet that Branson will not actually be making it to space when he completes the journey aboard Virgin Galactic's spaceplane. He will not be going high enough to make it into what most people refer to as space, the company said.
+
+
+***
+![Scarlet Nexus Had a Weird Language Bug Where Shadows Didn't Work](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Shadow%20Bug.jpg?itok=jYeZR0lo "Scarlet Nexus Had a Weird Language Bug Where Shadows Didn't Work")
+
+
+[Scarlet Nexus Had a Weird Language Bug Where Shadows Didn't Work](https://techraptor.net/gaming/news/scarlet-nexus-had-weird-language-bug-where-shadows-didnt-work)
+
+
+> 07/09/2021 - 12:05 | By: Patrick Perrault So today's Scarlet Nexus' Steam update is pretty wild, as Character Shadows weren't showing up if you were to play the game in French, along with other languages. Players were also unable to leave the "Shop" with keyboard and mouse controls after receiving DLCs. Adding to the weirdness, it's apparently a 5.7 GB update, so apparently it was a massive fix? It's only two minor fixes though, so it only serves to add to the confusion. This is all so weird because it feels like I'm writing a series of bad jokes, but no, this is real, and this actually happened.
+
+
+***
+![TikTok's algorithm misreads creator's pro-Black profile as a threat](https://static.independent.co.uk/2021/07/08/16/newFile-7.jpg?width=1200&auto=webp&quality=75 "TikTok's algorithm misreads creator's pro-Black profile as a threat")
+
+
+[TikTok's algorithm misreads creator's pro-Black profile as a threat](https://www.independent.co.uk/life-style/gadgets-and-tech/tiktok-black-lives-matter-algorithm-ziggi-tyler-b1881155.html)
+
+
+> TikTok blocked users of its Creator Marketplace from using the word 'black' and phrases like 'Black Lives Matter' in their bios, as the algorithm flagged them as 'inappropriate content'.Creator Ziggi Tyler discovered the issue attempting to update his bio; the words 'Black,' 'Black Lives Matter,' 'Black people," 'Black success,' 'Pro-Black,' and 'I am a Black man' were not accepted. 'Pro-white' and 'supporting white supremacy' were accepted by TikTok's algorithms without issue.TikTok's Creator Marketplace is currently in invite-only beta testing, but aims to connect creators with brands for sponsorship deals.
+
+
+***
+![Jeff Bezos's rocket company mocks Richard Branson's over ‘small windows' and its definition of going to space](https://static.independent.co.uk/2021/07/09/17/bezos.jpg?width=1200&auto=webp&quality=75 "Jeff Bezos's rocket company mocks Richard Branson's over ‘small windows' and its definition of going to space")
+
+
+[Jeff Bezos's rocket company mocks Richard Branson's over ‘small windows' and its definition of going to space](https://www.independent.co.uk/life-style/gadgets-and-tech/bezos-branson-space-rocket-virgin-blue-origin-launch-b1881386.html)
+
+
+> Jeff Bezos's rocket company has mocked Richard Branson's over its smaller windows and the definition of space.Branson and Bezos are currently locked in a race – though they have not explicitly said called it such – to get to space first. Branson will set off this weekend, with Bezos leaving later this month.But Bezos's rocket firm, Blue Origin, has now suggested in a tweet that Branson will not actually be making it to space when he completes the journey aboard Virgin Galactic's spaceplane. He will not be going high enough to make it into what most people refer to as space, the company said.
+
+
