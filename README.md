@@ -38823,3 +38823,50 @@
 > (Image credit: Future / TechRadar) The Witcher season 2 will be released on December 17, 2021, it's been confirmed. The date was revealed as part of WitcherCon, an online event featuring the cast and crew. Here's the release date, as revealed by Netflix on social media:The Witcher Season 2 premieres December 17! pic.twitter.com/8GXtt6adT7July 9, 2021See moreSeason 2 will take Geralt and Ciri to Kaer Morhen, home of the Witchers, and introduce us to some of Geralt's brothers-in-arms. The Witcher season 1 released back in December 2019, so it's been a two-year wait for the Netflix fantasy drama to return.
 
 
+***
+![Should I join AT&T or Mint Mobile?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/mint-mobile-sim-galaxy-s20.jpg "Should I join AT&T or Mint Mobile?")
+
+
+[Should I join AT&T or Mint Mobile?](https://www.androidcentral.com/att-vs-mint-mobile)
+
+
+> AT&T offers various cell phone plans on its huge 4G LTE and 5G network, whether that be postpaid, prepaid, or with an MVNO. Its top unlimited plans come with all sorts of perks, international features, and a sizable amount of hotspot data. Best of all, you can take advantage of multi-line discounts to save at the end of the month. From $30/mo. at AT&T AT&T 4G LTE and 5G network Multi-line discounts Entertainment and gaming perks HD streaming with certain plans International features Expensive Taxes and fees aren't included Mint Mobile is an MVNO that offers four plans and four plans only on T-Mobile's stellar 4G LTE and 5G network.
+
+
+***
+![Get your family on the same beat with an Apple Music Family plan](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/10/new-apple-music-october-iphone-xs-max-hero.jpg "Get your family on the same beat with an Apple Music Family plan")
+
+
+[Get your family on the same beat with an Apple Music Family plan](https://www.imore.com/how-sign-and-activate-apple-music-family-plan)
+
+
+> Source: Casian Holly / iMore Apple Music's family plan is hooked into iOS 14 and macOS Big Sur's Family Sharing feature. With Family Sharing, it lets multiple different Apple IDs share calendars, photos, movies, TV, and music. Previous to Family Sharing, families had to use one Apple ID for all their purchases — this can be a pain on a number of levels. When you sign up for an Apple Music Family plan, which supports simultaneous listening for up to six devices or accounts, all the infrastructure is being taken care of by Family Sharing.
+
+
+***
+![Twitch Streamer LilyPichu Voicing Sayu, a New Genshin Impact Character](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Genshin%20Impact%20Lilypichu%20Sayu%20cover.jpg?itok=nE0K-EM7 "Twitch Streamer LilyPichu Voicing Sayu, a New Genshin Impact Character")
+
+
+[Twitch Streamer LilyPichu Voicing Sayu, a New Genshin Impact Character](https://techraptor.net/gaming/news/twitch-streamer-lilypichu-voicing-sayu-new-genshin-impact-character)
+
+
+> 07/09/2021 - 15:57 | By: Robert N. Adams Twitch streamer and OfflineTV member Lilypichu has been revealed as the English voice actress for Sayu, a new Genshin Impact character that's arriving in Genshin Impact 2.0 later this month. Genshin Impact is a free-to-play game from Mihoyo that lets players explore a fantastical new world filled with colorful characters and high-flying battles. A huge part of the game's appeal is the ability to collect new characters with a gacha style system which allows you to make them more and more powerful.
+
+
+***
+[New York City says it is opening a real-time operational center to protect against cybersecurity threats, the first major American metropolitan area to do so (Deanna Paul/Wall Street Journal)](http://www.techmeme.com/210709/p23#a210709p23)
+
+
+> Deanna Paul / Wall Street Journal: New York City says it is opening a real-time operational center to protect against cybersecurity threats, the first major American metropolitan area to do so — Initiative brings together government agencies and business groups to share intelligence and respond to digital threats
+
+
+***
+![In this week's 'Bad Batch,' another fan-favorite 'Star Wars' character gets an origin story](https://www.gannett-cdn.com/presto/2021/07/09/USAT/aef5fead-3de2-4e51-97fc-b68cea20ebdb-ABB-FF-000463.png?auto=webp&crop=1440,810,x0,y0&format=pjpg&width=1200 "In this week's 'Bad Batch,' another fan-favorite 'Star Wars' character gets an origin story")
+
+
+[In this week's 'Bad Batch,' another fan-favorite 'Star Wars' character gets an origin story](https://www.usatoday.com/story/tech/reviewed/2021/07/09/bad-batch-devils-deal-recap-season-one-episode-11/7919393002/)
+
+
+> — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.In 'Devil's Deal,' the Empire makes a play for control of Ryloth, homeworld of the Twi'leks, stoking the fires of rebellion in the process. This is an unusual episode of The Bad Batch, in that the Bad Batch doesn't actually appear until past the 13-minute mark, underscoring Lucasfilm's recent obsession with cameos and crossovers (what some critics have called the 'Marvelization' of Star Wars since at least 2018).
+
+
