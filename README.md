@@ -38529,3 +38529,50 @@
 > Nintendo has shocked everyone with its new Switch OLED model, which was launched without any of the hype or fanfare new gadgets are usually used to. Nintendo limited the launch to a product video on YouTube and a press release as its page went live. Why would Nintendo want to do a silent launch, you might wonder? For one this gives it complete control over the communication and no chance for unnecessary speculation over the product. For months there had been speculation of the 'supercharged' Nintendo Switch — some called it the 'Switch Pro' and others called it 'Super Nintendo Switch'.
 
 
+***
+![Xiaomi to raise $1.2 billion debit amid intensifying tech clampdown in China](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/screenshot_2021-07-09_at_13.25-original.png "Xiaomi to raise $1.2 billion debit amid intensifying tech clampdown in China")
+
+
+[Xiaomi to raise $1.2 billion debit amid intensifying tech clampdown in China](https://www.indiatoday.in/technology/news/story/xiaomi-to-raise-1-2-billion-debit-amid-intensifying-tech-clampdown-in-china-1825952-2021-07-09)
+
+
+> India Today Tech New Delhi, Jul 09, 2021, Updated Jul 09, 2021, 1:28 PM IST Story highlights Xiaomi is planning to raise around $1.2 billion. The money will be raise by issuing debt insurance. The initiative comes during China's crackdown on tech giants. Chinese electronics giant Xiaomi aims to raise around $1.2 billion via debt issuance at a time when authorities are cracking down on China's technology giants. According to company's latest regulatory filings, it aims to issue $800 million worth of bonds due in 2031 with a coupon of 2.
+
+
+***
+[Zotac RTx 3070 Desktop with no storage disks](https://www.sweclockers.com/forum/trad/1639146-zotac-rtx-3070-desktop-with-no-storage-disks)
+
+
+> Hi there. I am selling my desktop due to moving out. But I will keep the storage disks since I have important files and some game archives. This desktop is functional without problems. Bid starts from 7500 sek. Specs: CPU: AMD Ryzen 5 2600 GPU: Zotac Gaming GeForce RTX 3070 Twin Edge 8GB Motherborad: ASUS ROG Strix B450-F GAMING, Socket-AM4 Cooling: AMD original fan Ram: Ballistix Sport LT DDR4 16GB Disk: No disks Power: Corsair RM850 850W PSU Case: Svive Luna S700 W Midi Tower WiFi is also availabe since I have added an ASUS wireless network card myself.
+
+
+***
+![Micromax IN 2C smartphone launch likely in August, price may be under Rs 10,000](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/micromax_in_1_a_0-1200x900-original.jpeg "Micromax IN 2C smartphone launch likely in August, price may be under Rs 10,000")
+
+
+[Micromax IN 2C smartphone launch likely in August, price may be under Rs 10,000](https://www.indiatoday.in/technology/news/story/micromax-in-2c-smartphone-launch-likely-in-august-price-may-be-under-rs-10-000-1825947-2021-07-09)
+
+
+> Story highlights Micromax IN 2C smartphone launch may not happen in July. A new report has said that its launch is likely to take place in August. Instead, Micromax may launched the IN 2B smartphone later this month. Micromax is about to launch a new phone in India. It is going to be a part of the IN series, and if rumours are anything to go by, this phone is called IN 2C. Now, the phone has already made its way to the Geekbench benchmarking platform, along with key specifications. And based on this listing, some reports have suggested the launch of the Micromax IN 2C will take place sometime in July.
+
+
+***
+![Square plans to make hardware wallet for bitcoin](https://images.indianexpress.com/2021/06/CRYTO-CURRENCY-BITCOIN-REUTERS-1200.jpg "Square plans to make hardware wallet for bitcoin")
+
+
+[Square plans to make hardware wallet for bitcoin](https://indianexpress.com/article/technology/tech-news-technology/square-plans-to-make-hardware-wallet-for-bitcoin-7396521/)
+
+
+> Square Inc will make a hardware wallet for bitcoin, the payments company confirmed in a tweet on Thursday shortly before US Senator Elizabeth Warren flagged growing risks posed to consumers and financial markets by the cryptocurrency market. Bitcoin wallets can be stored offline or online at cryptocurrency exchanges, venues where bitcoin can be bought and sold for traditional currencies or other virtual coins. With a non-custodial wallet, you have sole control of your private keys, which in turn control your cryptocurrency and prove the funds are yours.
+
+
+***
+![WhatsApp to not compel users to go for new privacy policy](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/whatsapp_messages_1200_150520060847-sixteen_nine.jpg "WhatsApp to not compel users to go for new privacy policy")
+
+
+[WhatsApp to not compel users to go for new privacy policy](https://www.businesstoday.in/technology/news/story/whatsapp-to-not-compel-users-to-go-for-new-privacy-policy-300877-2021-07-09)
+
+
+> WhatsApp told the Delhi High Court on Friday that till the data protection bill comes into force, it would not compel users to opt for its new privacy policy as it has been put on hold. Whatsapp also clarified before bench of Chief justice D N Patel and Justice Jyoti Singh that it would not limit the functionality for users who are not opting for new privacy policy in the meantime. Appearing for the instant messaging platform, Senior Advocate Harish Salve said, "We voluntarily agreed to put it (the policy) on hold.
+
+
