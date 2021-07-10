@@ -39330,3 +39330,50 @@
 > 'With a bigger screen and stronger sound, the new Amazon Echo Show is better in every way.' Pros Impressive sound quality Crystal clear display Larger screen than previous model Built-in smart home hub Cons Expensive No Z-Wave integration We had a feeling that the Amazon Echo Show was due for an update. With competition from Google Assistant via Lenovo's gorgeous Smart Display and JBL's Link View, which both feature better sound and display quality, Amazon needed to catch up. The company delivered with the (2nd generation) Amazon Echo Show, an Alexa speaker with a screen when that was released in October 2018 with a starting price of $230.
 
 
+***
+[Five former Kaseya employees say they have warned the company about its lax security practices, and were laid off or quit as Kaseya failed to address the issues (Bloomberg)](http://www.techmeme.com/210710/p10#a210710p10)
+
+
+> Bloomberg: Five former Kaseya employees say they have warned the company about its lax security practices, and were laid off or quit as Kaseya failed to address the issues — - Ransomware attack hit as many as 1,500 businesses this month — Workers say Kaseya ignored warnings about key vulnerabilities
+
+
+***
+![[Ben Eater] How does USB device discovery work?](https://external-preview.redd.it/mDF5JHZUW56Q1IdgN-GrcFHoWmr8ixi91x9st_yaac4.jpg?auto=webp&s=bb24d2ca2b580150f9238dd122637900c5c377e4 "[Ben Eater] How does USB device discovery work?")
+
+
+[[Ben Eater] How does USB device discovery work?](https://www.reddit.com/r/programming/comments/ohn8no/ben_eater_how_does_usb_device_discovery_work/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![PS5 restock: Target surprised with PS5 in stock this week – when to buy it next](https://cdn.mos.cms.futurecdn.net/NhhhAN8nK8y3AUuACnXPgB-1200-80.jpg "PS5 restock: Target surprised with PS5 in stock this week – when to buy it next")
+
+
+[PS5 restock: Target surprised with PS5 in stock this week – when to buy it next](https://www.techradar.com/news/ps5-restock-target-surprise-for-sale)
+
+
+> (Image credit: Future) Trust and credibility(Image credit: Matt Swider / Instagram)PS5 restock tracker Matt Swider has helped 56,00 people buy a next-gen console in 2021 with his tireless 24/7 tracking, in-stock Twitter alerts and exclusive restock reporting.Update for Saturday: The Target PS5 restock on Friday was a surprise, but a lot of followers of our 24/7 PS5 restock Twitter tracker Matt Swider were able to get the $499 PS5 Disc and $399 PS5 Digital Edition console. The Target restock time was 7:07am EDT – 33 minutes earlier than normal.
+
+
+***
+![Gran Turismo 7 release date, news, cars, trailers and what we want to see](https://cdn.mos.cms.futurecdn.net/CqCUybCnDg48HjP7hzSRnb-1200-80.jpg "Gran Turismo 7 release date, news, cars, trailers and what we want to see")
+
+
+[Gran Turismo 7 release date, news, cars, trailers and what we want to see](https://www.techradar.com/news/gran-turismo-7-release-date-news-cars-trailers)
+
+
+> Details for the upcoming PlayStation exclusive Gran Turismo 7 are a little thin on the ground right now, but that won't stop us from shifting our hype into fifth gear. The latest game in the long-running Gran Turismo series is set to be the best yet and with the power of the ultra-fast PS5 backing it up, we're ready to believe it. Players will have the opportunity to hone their skills in single-player races, then head online to challenge the best in multiplayer matches. We'll be seeing the return of fan-favorite tracks and modes, as well as some interesting new surprises too.
+
+
+***
+![China's Crackdown on Didi Is a Reminder That Beijing Is in Charge](https://static01.nyt.com/images/2021/07/06/world/05altJPchina-tech2-print/05china-tech1-facebookJumbo.jpg "China's Crackdown on Didi Is a Reminder That Beijing Is in Charge")
+
+
+[China's Crackdown on Didi Is a Reminder That Beijing Is in Charge](https://www.nytimes.com/2021/07/05/technology/china-didi-crackdown.html)
+
+
+> Continue reading the main storyAfter targeting the ride-hailing platform days after its I.P.O., regulators on Monday moved against more companies that had recently been listed on Wall Street.A Didi driver in Wuhan, China, last year.Credit...Roman Pilipey/EPA, via ShutterstockPublished July 5, 2021Updated July 10, 2021, 1:18 p.m. ETIn less than a week, China's leading ride-hailing platform, Didi, has gone from investor darling with a megabucks Wall Street debut to the biggest new target in Beijing's fast-moving efforts to tame the country's internet industry.
+
+
