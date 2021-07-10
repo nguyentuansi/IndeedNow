@@ -38920,3 +38920,43 @@
 > Source: Apple Apple Music has a new weekly showcase to help you stay in the know with today's music scene. The music streaming service has announced 'This Week in Apple Music,' a new weekly video that dives into "the five biggest things happening across Apple Music - and music as a whole." In addition to the video, 'This Week in Apple Music' will also showcase a range of content across the platform, including albums, playlists, music videos, artist interviews, and more. You can read Apple's explanation of the new category below: Every week on Apple Music, great new albums and playlists drop, our library of 75 million songs grows, and literally hundreds of pieces of exclusive content - from radio shows hosted by music's biggest stars to revelatory artist interviews - are unveiled.
 
 
+***
+![Windows 11 now no longer lets you use the old Windows 10 Start Menu](https://icdn.digitaltrends.com/image/digitaltrends/updated-start-menu-windows-11.jpg "Windows 11 now no longer lets you use the old Windows 10 Start Menu")
+
+
+[Windows 11 now no longer lets you use the old Windows 10 Start Menu](https://www.digitaltrends.com/computing/windows-11-no-longer-allows-windows-10-start-menu/)
+
+
+> Changes to the Start Menu have been the most noticeable and controversial feature of Microsoft's new Windows 11 operating system. But in the early builds of Windows 11, retrieving the old Windows 10 Start Menu was always just a few clicks in Settings away. According to the changes made in the latest version of Windows 11, however, that's no longer the case. The shift happened in the second build of the Windows 11 beta software, which is now available through the Windows Insider program. Among other notable changes to the Start Menu, Microsoft has apparently removed the option from Settings entirely, leaving you with the bright and shiny new Start Menu whether you like it or not.
+
+
+***
+![Python implementation of chacha and salsa](https://external-preview.redd.it/w8OJI8ws_GMTbqrdJR40NAFs0WDRM9Wuy8rVFFc7uTU.jpg?auto=webp&s=a8c9e6ea217555a6fcb1eeff0dd088b1f39de008 "Python implementation of chacha and salsa")
+
+
+[Python implementation of chacha and salsa](https://www.reddit.com/r/Python/comments/oh7wlu/python_implementation_of_chacha_and_salsa/)
+
+
+> Open for any kind of feedback and suggestions. Just say something about my work.https://github.com/shyam314159/chacha_cipher
+
+
+***
+![What Biden's executive order on non-compete agreements means for tech workers](https://ca-times.brightspotcdn.com/dims4/default/8b9dfa7/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd1%2F60%2F0255da7c4380b2c1d38226529d9c%2Fbiden-31011.jpg "What Biden's executive order on non-compete agreements means for tech workers")
+
+
+[What Biden's executive order on non-compete agreements means for tech workers](https://www.latimes.com/business/technology/story/2021-07-09/what-bidens-executive-order-on-non-compete-agreements-means-for-tech-workers)
+
+
+> The rest of the country might finally be catching up to California when it comes to workers' right to hop between jobs.The Biden administration asked the Federal Trade Commission to ban or limit noncompete agreements nationwide as part of a broad executive order Friday. These agreements, which typically prevent workers from quitting their jobs and going to work for a competitor of their current employer, are already unenforceable in California. The administration argues that they serve to keep wages down and disempower employees from demanding better working conditions.
+
+
+***
+![Renting a new home or apartment? Top money-stealing scams and how to avoid them](https://www.komando.com/wp-content/uploads/2021/07/kk-article-20210710-aarp-home-rental-scams-1200x675-1-970x546.jpg "Renting a new home or apartment? Top money-stealing scams and how to avoid them")
+
+
+[Renting a new home or apartment? Top money-stealing scams and how to avoid them](https://www.komando.com/news/rental-scams-spreading/798011/)
+
+
+> Looking for a place to live is stressful enough without having to worry about being scammed, too. We can help.
+
+
