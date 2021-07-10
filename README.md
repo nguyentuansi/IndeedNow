@@ -38960,3 +38960,47 @@
 > Looking for a place to live is stressful enough without having to worry about being scammed, too. We can help.
 
 
+***
+![ITourTranslator Can Translate Videos and Conference](https://mms.businesswire.com/media/20210709005505/en/890366/23/1.jpg "ITourTranslator Can Translate Videos and Conference")
+
+
+[ITourTranslator Can Translate Videos and Conference](https://www.businesswire.com/news/home/20210709005505/en/ITourTranslator-Can-Translate-Videos-and-Conference)
+
+
+> July 09, 2021 10:12 PM Eastern Daylight Time SHANGHAI--(BUSINESS WIRE)--A new translation app has appeared, which can translate phone calls. At the same time, he can also translate the video. When people watch a Youtube video, it can translate the sound in the video into bilingual subtitles in real time. People can also use this APP to translate WhatsApp calls and Facebook calls. When people travel abroad, they can also use it to translate photos and talk to friends abroad. This is a very powerful app.
+
+
+***
+[How to use a class function within the class.](https://www.reddit.com/r/Python/comments/oh9ilx/how_to_use_a_class_function_within_the_class/)
+
+
+> The below is all in a class (except for the main loop). I am trying to run the function when the button is clicked, but the function automatically executes without pushing the button. What am I doing wrong here? self.configr_button.clicked.connect(self.send_config(path='test', version=1, password='')) def send_config(self, path, version, password): if not os.path.exists('C:\\Tik_Configs\\'): os.makedirs('C:\\Tik_Configs\\') timestamp = datetime.datetime.now().strftime("%b-%d-%Y_%H:%M:%S") with FTP('192.
+
+
+***
+[Memo To New MeitY Ministers: Current IT Rules Are Impractical; Focus Should Be On Barring Tech Giants From Censoring](https://swarajyamag.com/technology/memo-to-new-meity-ministers-current-it-rules-are-impractical-focus-should-be-on-barring-tech-giants-from-censoring)
+
+
+> No body in the article.
+
+
+***
+![Heineken created an AI-enabled robot cooler that can bring beer to holiday parties.](https://external-preview.redd.it/HCrFaU0dfgTVcUY0ZLhDPoczxO1XeLyZALbY-J4QyLw.jpg?auto=webp&s=2817a79be98313fee76e5851c63483e984a48c7a "Heineken created an AI-enabled robot cooler that can bring beer to holiday parties.")
+
+
+[Heineken created an AI-enabled robot cooler that can bring beer to holiday parties.](https://www.reddit.com/r/technology/comments/oh9993/heineken_created_an_aienabled_robot_cooler_that/)
+
+
+> View Entire Discussion (1 Comments)
+
+
+***
+![Ukrainian law enforcement close mining farm with 3800 PlayStation 4 consoles](https://external-preview.redd.it/3yw6iMU1XDiUdaS1XtbkkQGW-KH5ndUyjuAMTpLq7RQ.jpg?auto=webp&s=a42a14b518698354ad42e845201de4f64eeaa1dc "Ukrainian law enforcement close mining farm with 3800 PlayStation 4 consoles")
+
+
+[Ukrainian law enforcement close mining farm with 3800 PlayStation 4 consoles](https://www.reddit.com/r/technology/comments/oh8y0h/ukrainian_law_enforcement_close_mining_farm_with/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
