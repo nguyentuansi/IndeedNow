@@ -39239,3 +39239,44 @@
 > Janko Roettgers / Protocol: Samsung quietly launched its TV Plus streaming service on the web in May and has added to its mobile app the ability to cast videos to devices via Chromecast — Samsung is expanding its ad-supported streaming efforts: The company quietly launched its TV Plus streaming service on the web in recent weeks …
 
 
+***
+![Apple Sidecar explained: How Apple is using the iPad to make the Mac even better](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/148262-laptops-feature-apple-sidecar-explained-how-apple-is-using-the-ipad-to-improve-the-mac-image1-oakemmfsqz.jpg "Apple Sidecar explained: How Apple is using the iPad to make the Mac even better")
+
+
+[Apple Sidecar explained: How Apple is using the iPad to make the Mac even better](https://www.pocket-lint.com/laptops/news/apple/148262-apple-sidecar-macos-ipados-features-explained)
+
+
+> (Pocket-lint) - Apple's Sidecar is a feature that arrived with MacOS 10.15 Catalina, enabling you to turn an iPad into a second display, working alongside your Mac. The feature also allows iPad Pro owners to use their tablet as an input device with an Apple Pencil.What does the Sidecar feature mean for Mac users and how does it all work? This is everything you need to know about Apple Sidecar.Apple's Sidecar uses the same technology as Continuity. It uses Bluetooth to establish the initial connection, after which it switches to point-to-point Wi-Fi for data transfer.
+
+
+***
+[I wrote a script to sort Spotify playlists by release date](https://www.reddit.com/r/Python/comments/ohishy/i_wrote_a_script_to_sort_spotify_playlists_by/)
+
+
+> So, my favorite way to sort my playlists is by release date because I have new releases on top and I like to have all the songs of a historical period close together. I made this little script to do it. GitHub - https://github.com/alessiocelentano/spotisort https://preview.redd.it/qfv2w38c1ea71.png?width=758&format=png&auto=webp&s=a41af40a0eb3e89747a3f5b49f3f3e921ec1020b submitted by /u/alessiocelentano [link] [comments]
+
+
+***
+[Everything you want to learn is here!](https://www.reddit.com/r/Python/comments/ohirj1/everything_you_want_to_learn_is_here/)
+
+
+> Invite for friends in our telegram for free courses! https://t.me/udcourses1 submitted by /u/Silver_Channel9773 [link] [comments]
+
+
+***
+[Where to go next?](https://www.reddit.com/r/Python/comments/ohiqej/where_to_go_next/)
+
+
+> I self-learn programming in python with the hope of landing a new career as a web/software dev/engineers. After finishing some programming courses that include up to classes, data structures such as graph, linked lists tree etc, plus some algorithms courses, I'm wondering what should I be focusing next to realize my goal? Also, between software dev and web dev, which one provides better career opportunity (in terms of job offers, salary, long term outcomes..) that I should focus more on? Thank
+
+
+***
+![Best Password Generator](https://external-preview.redd.it/rqhuJ_L6d7Q3Z2UaFMVuSKHUIy0AhbHfUoKgD5r7jlg.jpg?auto=webp&s=322457c15258adf6413f57b7530fc108d736f4b2 "Best Password Generator")
+
+
+[Best Password Generator](https://www.reddit.com/r/Python/comments/ohikxr/best_password_generator/)
+
+
+> Hey peeps,I've done lots of changes to this program. New additions are:MenuProgram divided into modulesPublic/private key generatorPassword encryption/decryptionhttps://github.com/Amaguk2023/PasswordGeneratorHope you all like it and get to use it.
+
+
