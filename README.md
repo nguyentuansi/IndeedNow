@@ -39145,3 +39145,53 @@
 > Expanding its C-series lineup, smartphone brand realme on Saturday unveiled a new smartphone -- realme C11 2021 -- in India for Rs 6,999.
 
 
+***
+![Pollution-eating car shown off at Goodwood Festival](https://external-preview.redd.it/RirmsI2Vqbb4ClWTvDqTSTCmcy7kY9EodGsJOvSKhEo.jpg?auto=webp&s=cfd0c31b33978657114ae2c8271f316422b15f98 "Pollution-eating car shown off at Goodwood Festival")
+
+
+[Pollution-eating car shown off at Goodwood Festival](https://www.reddit.com/r/technology/comments/ohfy7y/pollutioneating_car_shown_off_at_goodwood_festival/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Why website uptime and speed tests aren't as important as you think](https://cdn.mos.cms.futurecdn.net/e9mN6jBp6bKQxVNoygAn6A-1200-80.jpg "Why website uptime and speed tests aren't as important as you think")
+
+
+[Why website uptime and speed tests aren't as important as you think](https://www.techradar.com/news/why-website-uptime-and-speed-tests-arent-as-important-as-you-think)
+
+
+> Everyone has their own idea of what makes a great web host. Loads of features, powerful servers, or maybe great support, low prices, or maybe some combination of these and other functionality important to the individual.Some specialist web hosting review websites also place a high weight on their own web hosting benchmarks, though, especially speed and host uptime (the proportion of time a website is available online). That seems like the logical thing to do but does it actually make sense?There's nothing wrong with running these tests – indeed we've done them ourselves – and the results can feel like valuable information.
+
+
+***
+![Vista is the evil twin of Windows 11: here's why](https://cdn.mos.cms.futurecdn.net/BdjCuVbMab8vTnpN8vuBDF-1200-80.png "Vista is the evil twin of Windows 11: here's why")
+
+
+[Vista is the evil twin of Windows 11: here's why](https://www.techradar.com/news/vista-is-the-evil-twin-of-windows-11-heres-why)
+
+
+> Amongst the many features of Microsoft's Windows 11 is its new look, which has largely been received well by the Windows community. However users have been confused about the system requirements of the upgrade, alongside other aspects of which Microsoft haven't rectified as yet.There's an old myth that says – as with Star Trek films – you can tell the quality of a good Windows update by whether it falls on an odd or even number.Both Windows 8 and Star Trek V: The Final Frontier both weren't received well, but Windows 7 and Star Trek VIII: First Contact were received well – and it's a dilemma that's lasted for years.
+
+
+***
+![How to watch 2021 John Deere Classic: Live stream PGA golf online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/07/john-deere-classic-hero.jpg "How to watch 2021 John Deere Classic: Live stream PGA golf online")
+
+
+[How to watch 2021 John Deere Classic: Live stream PGA golf online](https://www.androidcentral.com/2021-john-deere-classic-live-stream-how-watch-pga-golf-online-anywhere)
+
+
+> While it's far from the most prestigious event on the Tour, there's plenty at stake during this tournament in Illinois, not least as it offers a final chance for some players to get into the year's last major. Watch every ball of this PGA Tour event with our 2021 John Deere Classic live stream guide below. Source: Twitter / @jdclassic A victim of its place on the calendar, falling just one week before the Open Championship in England and on the same weekend as the Scottish Open, the field is noticeably slim on big names, with only five players ranked inside the Top 50 .
+
+
+***
+![I made a hangman style game but for guessing movies names from IMDB](https://external-preview.redd.it/rvBPJZDWtoR933D1snIAhv7OCTduWW60EZBs7k1FV3k.jpg?auto=webp&s=75e238eaf7a101bac92030f82a346643bee445f1 "I made a hangman style game but for guessing movies names from IMDB")
+
+
+[I made a hangman style game but for guessing movies names from IMDB](https://www.reddit.com/r/Python/comments/ohfmxx/i_made_a_hangman_style_game_but_for_guessing/)
+
+
+> Working idea of the project:Upon running the "main.py" file , you will be given two options:A completely random movieMovie from a specific genre like Action, RomanceDepending on whatever option you select, a random movie will be selected from the local sqlite database "movieman.db".You will be shown the total no of characters in the movie and the no of spaces(e.g: "The Storm" would show 9 characters with 1 space, don't worry uppercase and lowercase is taken care of)Now you will be prompted to enter a letter of the movie( remember can also be a character of the movie name) .
+
+
