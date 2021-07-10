@@ -39098,3 +39098,50 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![GoPro Hero 10 Black: what we want to see from GoPro's next flagship](https://cdn.mos.cms.futurecdn.net/oVrGo7RCBCNqQLEmPPPvLj-1200-80.jpg "GoPro Hero 10 Black: what we want to see from GoPro's next flagship")
+
+
+[GoPro Hero 10 Black: what we want to see from GoPro's next flagship](https://www.techradar.com/news/gopro-hero-10-black)
+
+
+> We're quickly approaching the time of year when GoPro traditionally launches a new flagship action camera. And while GoPro Hero 10 Black rumors are thin on the ground right now, it's surely preparing something special for the tenth edition of its Hero range.At least, that's what we're hoping. After all, despite some strong competition from rivals like the DJI Osmo Action and Insta360 One R, the main line GoPros still tend to deliver a best-in-class combination of usability, image quality and stabilization.
+
+
+***
+![Google Pixel 5a gets listed on FCC ahead of rumoured launch](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/screenshot_2021-07-10_at_1.21._1200x768-original.png "Google Pixel 5a gets listed on FCC ahead of rumoured launch")
+
+
+[Google Pixel 5a gets listed on FCC ahead of rumoured launch](https://www.indiatoday.in/technology/news/story/google-pixel-5a-gets-listed-on-fcc-ahead-of-rumoured-launch-1826376-2021-07-10)
+
+
+> Ankita Chakravarti New Delhi, Jul 10, 2021, Updated Jul 10, 2021, 1:28 PM IST Story highlights Google is expected to unveil the Pixel 5a sometime in August this year.  Google Pixel 5a was spotted on the FCC with two model numbers.  The Google device will come with 5G support but may carry the same processor as its predecessor, the Google Pixel 4a. Google is expected to unveil the Pixel 5a sometime in August this year. Ahead of the rumoured launch, the Pixel 5a was spotted on the FCC with two model numbers.
+
+
+***
+![Google Meet gets AR Masks, video filters, effects for personal calls](https://images.indianexpress.com/2021/07/2a6eb888-1ca2-422a-a046-f2db54c33153.jpg "Google Meet gets AR Masks, video filters, effects for personal calls")
+
+
+[Google Meet gets AR Masks, video filters, effects for personal calls](https://indianexpress.com/article/technology/tech-news-technology/google-meet-gets-ar-masks-video-filters-effects-for-personal-calls-7397956/)
+
+
+> Google Meet has started receiving new video filters, effects, and augmented reality masks for personal calls on iOS and Android. Google revealed the same via its official Twitter handle. You will be able to get these elements using the sparkle icon at the bottom right of your video call feed. While a majority of these added options are only available for personal Gmail accounts, Workspace users will get a limited selection of blurring and virtual background options. Google's decision to introduce these video effects could mean that the company is shifting its attention from targeting enterprise and business users, to consumers.
+
+
+***
+![How to watch Poirier vs McGregor 3: UFC 264 time, live stream online, full card and more](https://cdn.mos.cms.futurecdn.net/LEgBUPYLUCwutgqoNLTBhQ-1200-80.jpg "How to watch Poirier vs McGregor 3: UFC 264 time, live stream online, full card and more")
+
+
+[How to watch Poirier vs McGregor 3: UFC 264 time, live stream online, full card and more](https://www.techradar.com/news/how-to-watch-poirier-vs-mcgregor-3-when-is-ufc-264-live-stream-online-time-card-and-more)
+
+
+> The Octagon is set to host what looks set to be UFC biggest fight of the year (again!) as Dustin Poirier and Conor McGregor prepare to settle their rivalry with a deciding trilogy fight in Las Vegas today. Read on to discover how to find a UFC live stream and watch Poirier vs McGregor 3 online - plus details of the UFC 264 time and card with ESPN+ having exclusive coverage in the US.The pair first locked horns at UFC 178 back in 2014, with infamous Irish star McGregor walking away victorious with a TKO in under two minutes.
+
+
+***
+[Realme new smartphone UNVEILED in India: Get 5000mAh battery, 6.5-inch display, 32GB internal storage for just Rs 6,999](https://www.zeebiz.com/technology/mobiles/news-realme-new-smartphone-unveiled-in-india-get-5000mah-battery-65-inch-display-32gb-internal-storage-for-just-rs-6999-160402)
+
+
+> Expanding its C-series lineup, smartphone brand realme on Saturday unveiled a new smartphone -- realme C11 2021 -- in India for Rs 6,999.
+
+
