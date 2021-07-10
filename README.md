@@ -39004,3 +39004,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Hackers disrupt Iran's rail service with fake delay messages](https://www.krmg.com/pf/resources/images/sites/cmg-rd-20111/station-logo.png?d=139 "Hackers disrupt Iran's rail service with fake delay messages")
+
+
+[Hackers disrupt Iran's rail service with fake delay messages](https://www.krmg.com/news/technology/hackers-disrupt/2XCFIVMN57T2NNQN4VC2JFEBGU/)
+
+
+> TEHRAN, Iran — (AP) — Iran's railroad system came under cyberattack on Friday, a semi-official news agency reported, with hackers posting fake messages about train delays or cancellations on display boards at stations across the country.The hackers posted messages such as 'long delayed because of cyberattack" or 'canceled" on the boards. They also urged passengers to call for information, listing the phone number of the office of the country's supreme leader, Ayatollah Ali Khamenei.The semiofficial Fars news agency reported that the hack led to 'unprecedented chaos' at rail stations.
+
+
+***
+[Moto G9 and G9 Power Android 11 update rolled out in India; here are the details](http://www.pinkvilla.com/tech/news/moto-g9-and-g9-power-android-11-update-rolled-out-in-india-here-are-the-details-806900)
+
+
+> Attach Main technology Image: Image Caption: Moto G9 and G9 Power Android 11 update rolled out in India; here are the details Social Media Image : Enter the Technology details: Motorola has finally started rolling out the Android 11 update for the Moto G9 and G9 Power smartphones in India. The Moto G9 and Moto G9 Power were originally launched in the country last year in August and December respectively running the Android 10 version. The company took a little over six months to deliver the Android 11 update for the Moto G9 Power and almost a year for the Moto G9.
+
+
+***
+![#TECH: Tencent turns to facial recognition to snag late-night child gamers](https://assets.nst.com.my/images/articles/botstengame_NSTfield_image_socialmedia.var_1625887307.jpg "#TECH: Tencent turns to facial recognition to snag late-night child gamers")
+
+
+[#TECH: Tencent turns to facial recognition to snag late-night child gamers](https://www.nst.com.my/lifestyle/bots/2021/07/706964/tech-tencent-turns-facial-recognition-snag-late-night-child-gamers)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![#TECH: You can now fast-forward TikTok videos](https://assets.nst.com.my/images/articles/botstikfast_NSTfield_image_socialmedia.var_1625886885.jpg "#TECH: You can now fast-forward TikTok videos")
+
+
+[#TECH: You can now fast-forward TikTok videos](https://www.nst.com.my/lifestyle/bots/2021/07/706960/tech-you-can-now-fast-forward-tiktok-videos)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![North Korea-linked hackers accessed South's rocket developer: Spy agency](https://external-preview.redd.it/YD8Ypeh98PschtawpAzGpzEpGPP2qP4kGED6wziuAfY.jpg?auto=webp&s=05dd28a887fdafdf99bde57be14208ad2c56b832 "North Korea-linked hackers accessed South's rocket developer: Spy agency")
+
+
+[North Korea-linked hackers accessed South's rocket developer: Spy agency](https://www.reddit.com/r/technology/comments/ohauis/north_korealinked_hackers_accessed_souths_rocket/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
