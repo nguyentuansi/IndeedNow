@@ -39051,3 +39051,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Airtel offers unlimited calls, 1GB daily data for Rs 199: Check out Jio, Vi plans](https://images.indianexpress.com/2020/11/airtel-amp-1-1.jpg "Airtel offers unlimited calls, 1GB daily data for Rs 199: Check out Jio, Vi plans")
+
+
+[Airtel offers unlimited calls, 1GB daily data for Rs 199: Check out Jio, Vi plans](https://indianexpress.com/article/technology/techook/airtel-offers-unlimited-calling-1gb-daily-data-for-rs-199-check-jio-vi-prepaid-recharge-plans-under-rs-200-details-7397807/)
+
+
+> Airtel is offering unlimited call benefits and 1GB daily data for Rs 199. While the plan may not offering a lot of data, you at least get unlimited calling as well as 100 SMS per day. The plan is for those who need calling and limited data. The plan also offers a 30-day free trial for Amazon Mobile Edition. You also get free unlimited hello tunes, access to Wynk Music and Airtel Xstream service. The Rs 199 pack comes with a validity of 24 days. There are people who don't need a lot of daily data as they already have a wireless broadband connection installed at their homes.
+
+
+***
+[OPPO Reno 6Z specs leaked on Geekbench; Dimensity 800U SoC and 8GB of RAM in tow](http://www.pinkvilla.com/tech/news/oppo-reno-6z-specs-leaked-on-geekbench-dimensity-800u-soc-and-8gb-of-ram-in-tow-806943)
+
+
+> Attach Main technology Image: Image Caption: OPPO Reno 6Z specs leaked on Geekbench; Dimensity 800U SoC and 8GB of RAM in tow Social Media Image : Enter the Technology details: Last month, OPPO introduced its latest Reno 6 series smartphones called the Reno 6, Reno 6 Pro, and Reno 6 Pro+ in China. The company is now all set to launch yet another handset in the series, which will be arriving as the OPPO Reno 6Z. The phone will be first launched in Thailand at an event on July 21st.
+
+
+***
+![The FCC is being asked to restore net neutrality rules](https://external-preview.redd.it/dOM3rtzKYkbJfnQasZKIz1biskP5DtOpenaBUxQLwok.jpg?auto=webp&s=68f517f983886c3fb95d7d0f4401089c5a2b87ed "The FCC is being asked to restore net neutrality rules")
+
+
+[The FCC is being asked to restore net neutrality rules](https://www.reddit.com/r/technology/comments/ohctrp/the_fcc_is_being_asked_to_restore_net_neutrality/)
+
+
+> View Entire Discussion (2 Comments)
+
+
+***
+![ISRO, CII to organise international conference on space from Sept 13-Oct 4](https://bsmedia.business-standard.com/_media/bs/img/article/2020-02/03/full/1580724505-7508.jpg "ISRO, CII to organise international conference on space from Sept 13-Oct 4")
+
+
+[ISRO, CII to organise international conference on space from Sept 13-Oct 4](https://www.business-standard.com/article/technology/isro-cii-to-organise-international-conference-on-space-from-sept-13-oct-4-121071000187_1.html)
+
+
+> The Confederation of Indian Industry (CII) in association with Indian Space Research Organisation (ISRO), NewSpace India Limited (NSIL) and Antrix Corporation Ltd will be organising an International Space Conference and exhibition from September 13 to October 4, 2021. The digital conference and exhibition will be on the theme 'Building NewSpace in India' with an aim to facilitate and strengthen industry's participation in manufacturing of satellites, launch vehicles and using space applications in various sectors, CII said.
+
+
+***
+![Technician loses RM470,000 to Macau scam](https://assets.nst.com.my/images/articles/SCAM100721_NSTfield_image_socialmedia.var_1625894991.jpg "Technician loses RM470,000 to Macau scam")
+
+
+[Technician loses RM470,000 to Macau scam](https://www.nst.com.my/news/nation/2021/07/706985/technician-loses-rm470000-macau-scam)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
