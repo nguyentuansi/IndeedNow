@@ -39377,3 +39377,50 @@
 > Continue reading the main storyAfter targeting the ride-hailing platform days after its I.P.O., regulators on Monday moved against more companies that had recently been listed on Wall Street.A Didi driver in Wuhan, China, last year.Credit...Roman Pilipey/EPA, via ShutterstockPublished July 5, 2021Updated July 10, 2021, 1:18 p.m. ETIn less than a week, China's leading ride-hailing platform, Didi, has gone from investor darling with a megabucks Wall Street debut to the biggest new target in Beijing's fast-moving efforts to tame the country's internet industry.
 
 
+***
+![Was tired of entering google meet's code, turning off mic and cam then repeating it 10x time during online class. So I automate the entire process.](https://external-preview.redd.it/5rpo7F9iufRzV1WR3O0bYUwsMJ6Bqjh12VEOlaRVfrE.jpg?auto=webp&s=6a8bd844b5c28f777964ef2e225936e77c179c60 "Was tired of entering google meet's code, turning off mic and cam then repeating it 10x time during online class. So I automate the entire process.")
+
+
+[Was tired of entering google meet's code, turning off mic and cam then repeating it 10x time during online class. So I automate the entire process.](https://www.reddit.com/r/Python/comments/ohps75/was_tired_of_entering_google_meets_code_turning/)
+
+
+> The title is quite self-explanatory.The program will open up chrome, log into your google account, opens up google meet, enter meet code, turn off mic and cam then joins the meet.It is programmed according to my school schedule so it'll join the next meet when time's up (assuming my teacher don't delay the class for too long *facepalm)Github repositoryFeel free to take a look at it and provide any suggestions. I'm currently a 17 years old self-taught and I'm trying to come up with some projects.
+
+
+***
+[Which PEPs are a must to read?](https://www.reddit.com/r/Python/comments/ohpr0o/which_peps_are_a_must_to_read/)
+
+
+> Asking the experts here about their views on PEPs. Which PEPs do you recommend reading for anyone who is writing code in python and wants to get better at it.
+
+
+***
+![Ballistic new SUV headed to Australia](https://content.api.news/v3/images/bin/383c4487848777361352570cbfa47560 "Ballistic new SUV headed to Australia")
+
+
+[Ballistic new SUV headed to Australia](https://www.news.com.au/technology/motoring/new-cars/2021-cupra-formentor-review-allnew-sporty-suv-packs-a-punch/news-story/5390cbde6a2e658c6fbce790c5ae9244)
+
+
+> This European brand is preparing to launch in Australia and this sporty SUV is going to spearhead its charge onto Aussie roads.This is the car that will spearhead the launch of the Cupra brand in Australia next year. The sharply-styled Formentor crossover is the freshest model from a young European brand created only three years ago.Originally the racing arm for the Volkswagen Group-owned Spanish car maker Seat, the Cupra name began to appear on a series of hot hatches from the 1990s.The first model from Cupra as a stand-alone brand was the Ateca small SUV in 2018.
+
+
+***
+![Superintendent.app: A desktop app for working with large CSV files using SQL. v2.0 now can load 1GB file in 20s and support regex/date parsing!](https://external-preview.redd.it/gtihB6CI84YKOWrK4Ebwg442Oq7cgN3ekxz2vE9FLA0.jpg?auto=webp&s=901ba71335c1e98d4231d2ae2f1b0dd6cb9a1910 "Superintendent.app: A desktop app for working with large CSV files using SQL. v2.0 now can load 1GB file in 20s and support regex/date parsing!")
+
+
+[Superintendent.app: A desktop app for working with large CSV files using SQL. v2.0 now can load 1GB file in 20s and support regex/date parsing!](https://www.reddit.com/r/programming/comments/ohpoyd/superintendentapp_a_desktop_app_for_working_with/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Blue Origin goes after Virgin Galactic over what counts as space](https://icdn.digitaltrends.com/image/digitaltrends/jeff_bezos_blue_origin-1.jpg "Blue Origin goes after Virgin Galactic over what counts as space")
+
+
+[Blue Origin goes after Virgin Galactic over what counts as space](https://www.digitaltrends.com/news/blue-origin-virgin-galactic-karman-line/)
+
+
+> Amazon founder Jeff Bezos was ready to grab headlines by taking a trip to space later this month. He will be a part of the first crewed mission for his company, Blue Origin, when it launches its New Shepard rocket later this month on July 20. However, Bezos recently got scooped by Virgin Galactic founder Richard Branson, who made a surprise announcement that he will be riding aboard his company's VSS Unity craft tomorrow, July 11. This seems to have sparked some animosity between the two companies based on who will make it to space first.
+
+
