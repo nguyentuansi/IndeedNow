@@ -39195,3 +39195,47 @@
 > Working idea of the project:Upon running the "main.py" file , you will be given two options:A completely random movieMovie from a specific genre like Action, RomanceDepending on whatever option you select, a random movie will be selected from the local sqlite database "movieman.db".You will be shown the total no of characters in the movie and the no of spaces(e.g: "The Storm" would show 9 characters with 1 space, don't worry uppercase and lowercase is taken care of)Now you will be prompted to enter a letter of the movie( remember can also be a character of the movie name) .
 
 
+***
+![MagicBell (YC W21) Is Hiring a Founding Front End Engineer (Remote)](https://www.notion.so/images/meta/default.png "MagicBell (YC W21) Is Hiring a Founding Front End Engineer (Remote)")
+
+
+[MagicBell (YC W21) Is Hiring a Founding Front End Engineer (Remote)](https://www.notion.so)
+
+
+> No body in the article.
+
+
+***
+![You're spending too much on streaming TV. These credit card tricks get you the most cash back](https://www.cnet.com/a/img/6jikr6C52QXIyuld4kbnuPQOmYI=/1200x630/2021/03/10/3b221439-3ccf-410a-a650-69cbfb3d96ac/007-cnet-best-streaming-services-2020-promo-images.jpg "You're spending too much on streaming TV. These credit card tricks get you the most cash back")
+
+
+[You're spending too much on streaming TV. These credit card tricks get you the most cash back](https://www.cnet.com/tech/services-and-software/youre-spending-too-much-on-streaming-tv-these-credit-card-tricks-get-you-the-most-cash-back/)
+
+
+> The right credit card could help save you money on your streaming bill.  Sarah Tew/CNET Netflix, Disney Plus, HBO Max, Amazon Prime Video, Hulu, Apple TV Plus... there are a lot of streaming services. The problem? Every additional monthly subscription fee hurts your wallet. Fourteen bucks for Netflix here, eight for Disney Plus there and 15 more for HBO Max can add up quickly.
+
+
+***
+![25 Gigabit Linux internet router PC build](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/2021-06-27-router-featured_hu1fe795dd8828eccf339de1acf31abbd0_2106743_1200x0_resize_q75_box.jpg%202x,https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/2021-06-27-router-featured_hu1fe795dd8828eccf339de1acf31abbd0_2106743_1800x0_resize_q75_box.jpg%203x "25 Gigabit Linux internet router PC build")
+
+
+[25 Gigabit Linux internet router PC build](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
+
+
+> Table of contents init7 recently announced that with their FTTH fiber offering Fiber7, they will now sell and connect you with 25 Gbit/s (Fiber7-X2) or 10 Gbit/s (Fiber7-X) fiber optics, if you want more than 1 Gbit/s. While this offer will only become available at my location late this year (or possibly later due to the supply chain shortage), I already wanted to get the hardware on my end sorted out. After my previous disappointment with the MikroTik CCR2004, I decided to try a custom PC build.
+
+
+***
+[Alternatives to Moviepy](https://www.reddit.com/r/Python/comments/ohh8m0/alternatives_to_moviepy/)
+
+
+> I cannot concatenate videos with moviepy, everytime I get a nonsenical error brought up within one of the moviepy modules.Are there any other video editing/concatenation modules out there?
+
+
+***
+[Samsung quietly launched its TV Plus streaming service on the web in May and has added to its mobile app the ability to cast videos to devices via Chromecast (Janko Roettgers/Protocol)](http://www.techmeme.com/210710/p5#a210710p5)
+
+
+> Janko Roettgers / Protocol: Samsung quietly launched its TV Plus streaming service on the web in May and has added to its mobile app the ability to cast videos to devices via Chromecast — Samsung is expanding its ad-supported streaming efforts: The company quietly launched its TV Plus streaming service on the web in recent weeks …
+
+
