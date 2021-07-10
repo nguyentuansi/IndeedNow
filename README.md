@@ -39424,3 +39424,53 @@
 > Amazon founder Jeff Bezos was ready to grab headlines by taking a trip to space later this month. He will be a part of the first crewed mission for his company, Blue Origin, when it launches its New Shepard rocket later this month on July 20. However, Bezos recently got scooped by Virgin Galactic founder Richard Branson, who made a surprise announcement that he will be riding aboard his company's VSS Unity craft tomorrow, July 11. This seems to have sparked some animosity between the two companies based on who will make it to space first.
 
 
+***
+![Report: Code in Ransomware Attack Written to Avoid Russian Computers](https://media.breitbart.com/media/2021/02/Russia-computer-640x335.jpg "Report: Code in Ransomware Attack Written to Avoid Russian Computers")
+
+
+[Report: Code in Ransomware Attack Written to Avoid Russian Computers](https://www.breitbart.com/tech/2021/07/10/report-code-in-ransomware-attack-written-to-avoid-russian-computers/)
+
+
+> According to a recent report, the code used by the Russian-speaking hacking ring REvil in its ransomware attacks was written to avoid systems that primarily use the Russian language. NBC News reports that the computer code used in the recent massive ransomware attack by the Russian-speaking hacking ring REvil was written so that it avoids systems that primarily use Russian or related languages, according to new research by a cybersecurity firm. A report from Trustwave SpiderLabs obtained by NBC News claims that this feature has been known to be part of malicious software for some time.
+
+
+***
+![Sealed Copy of 'The Legend of Zelda' Sells for Almost $900K](https://media.breitbart.com/media/2021/07/wi/afp/09/legend-of-zelda-cartridge-dated-1987-is-original-packaging-afp-heritage-auctions-afp-e1625951369278-640x335.jpg "Sealed Copy of 'The Legend of Zelda' Sells for Almost $900K")
+
+
+[Sealed Copy of 'The Legend of Zelda' Sells for Almost $900K](https://www.breitbart.com/tech/2021/07/10/sealed-copy-of-the-legend-of-zelda-sells-for-almost-900k/)
+
+
+> A sealed copy of the video game The Legend of Zelda for the Nintendo Entertainment System (NES) has sold for nearly $900,000 at Heritage Auctions. The video game for NES sold for a staggering $870,000 at the auction, breaking the previous known record for the most expensive game ever sold, according to a report by the Verge. Before that, a sealed copy of Super Mario Bros. previously held the record when it sold at Heritage Auctions for $660,000 in April. Heritage Auctions' explains why The Legend of Zelda is so valuable: While it is a hard truth, it is a truth nonetheless — none of the copies we've offered of this title previously could even attempt to hold a candle to this one due to its incredibly rare variant that holds early production status.
+
+
+***
+![Venmo, PayPal Transaction Fee Changes Will Impact Small Businesses](https://media.breitbart.com/media/2019/02/PayPal-CEO-Dan-Schulman.jpg "Venmo, PayPal Transaction Fee Changes Will Impact Small Businesses")
+
+
+[Venmo, PayPal Transaction Fee Changes Will Impact Small Businesses](https://www.breitbart.com/tech/2021/07/10/venmo-paypal-transaction-fee-changes-will-impact-small-businesses/)
+
+
+> Venmo and PayPal are implementing transaction fee changes at the end of the month which will have an impact on small businesses that decide to continue using the popular online payment methods. Starting on July 20, the transaction fee for PayPal will be 3.49 percent, plus 49 cents. And the transaction fee for Venmo personal accounts will be 1.9 percent, plus 10 cents, according to a report by Fox 4. To those numbers into perspective, if one were to make a $500 purchase, the seller would lose about $18 using PayPal.
+
+
+***
+![Google Workers Angered over 'Hypocritical' Remote Work Policies](https://media.breitbart.com/media/2020/02/GettyImages-1200825328-640x335.jpg "Google Workers Angered over 'Hypocritical' Remote Work Policies")
+
+
+[Google Workers Angered over 'Hypocritical' Remote Work Policies](https://www.breitbart.com/tech/2021/07/10/google-workers-angered-over-hypocritical-remote-work-policies/)
+
+
+> Google employees are reportedly upset over the company's policies related to remote working and what they deem to be special treatment for some workers. One worker claims: 'Google doesn't prioritize the needs of human beings.' CNET reports that as Google employees worldwide make plans to return to work at the company's various offices, one employee named Laura de Vesine will not be joining them. For months de Vesine, a site reliability engineer, negotiated with Google over a potential relocation and became angry over Google's inflexible policies, eventually handing in her notice.
+
+
+***
+![Microsoft Edge just left a serious rival in its dust](https://external-preview.redd.it/vy0CNWk3q-ZTOMCsPU6nJmcD-I6Vvb4iVvTqsoTnVsI.jpg?auto=webp&s=62202bd76c14bf0f5d64e14b49369f24e94b7073 "Microsoft Edge just left a serious rival in its dust")
+
+
+[Microsoft Edge just left a serious rival in its dust](https://www.reddit.com/r/technology/comments/ohraqf/microsoft_edge_just_left_a_serious_rival_in_its/)
+
+
+> View Entire Discussion (1 Comments)
+
+
