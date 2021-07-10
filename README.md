@@ -39280,3 +39280,53 @@
 > Hey peeps,I've done lots of changes to this program. New additions are:MenuProgram divided into modulesPublic/private key generatorPassword encryption/decryptionhttps://github.com/Amaguk2023/PasswordGeneratorHope you all like it and get to use it.
 
 
+***
+![Researchers solve the mystery of Jupiter's strange pulsating X-ray auroras](https://icdn.digitaltrends.com/image/digitaltrends/exploring_jupiter_pillars1.jpg "Researchers solve the mystery of Jupiter's strange pulsating X-ray auroras")
+
+
+[Researchers solve the mystery of Jupiter's strange pulsating X-ray auroras](https://www.digitaltrends.com/news/jupiter-x-ray-auroras/)
+
+
+> Jupiter is a stunning planet in many ways, with its beautiful bands of clouds, the largest storm in the solar system, and unusual phenomena like geometric storms at its poles. And it has some further oddities we're still learning about, such as the fact it has strange X-rays auroras somewhat comparable to the northern lights here on Earth. For 40 years, scientists have wondered how these X-ray auroras work, and now a new study reveals the mechanism behind them. Like the auroras on Earth, Jupiter's auroras are caused by electrically charged particles interacting with the planet's atmosphere.
+
+
+***
+![Walking alone at night? Choosing the right headphones could help you feel safer](https://cdn.mos.cms.futurecdn.net/ogFQjEzjnmoYLfJNjMq5t5-1200-80.jpg "Walking alone at night? Choosing the right headphones could help you feel safer")
+
+
+[Walking alone at night? Choosing the right headphones could help you feel safer](https://www.techradar.com/news/walking-alone-at-night-choosing-the-right-headphones-could-help-you-feel-safer)
+
+
+> If I'm walking anywhere alone at night there's no way I'm putting headphones in. I don't want to make myself appear in any way more vulnerable than I may already feel,' says Ellie, 28.As a tall man who's never had to think about the safety implications of choosing headphones, I'm not the prime candidate to be writing a piece on women walking home alone at night.Initially, I thought I may have a sliver of insight into the sense of powerlessness women experience that might make me suited to explore this issue.
+
+
+***
+![A quiet revolution is currently happening in the cheap phone market](https://cdn.mos.cms.futurecdn.net/tBZUbdGF8W25iz3Wgs5ccZ-1200-80.jpg "A quiet revolution is currently happening in the cheap phone market")
+
+
+[A quiet revolution is currently happening in the cheap phone market](https://www.techradar.com/news/a-quiet-revolution-is-currently-happening-in-the-cheap-phone-market)
+
+
+> A few years ago, even the best cheap phones were utilitarian devices with plenty of compromises, and although nowadays you can get a great budget handset if you know where to look, the best is yet to come.One of the biggest areas of compromise was in performance power, with lower-cost phones being noticeably slower than mid-range rivals when navigating around menus or apps. You'd have to wait a while for a social media app to load, or sit and watch after swiping between pages for the animation to stutteringly play out.
+
+
+***
+![India's plan to end spam texts was a colossal failure. But it's worth revisiting](https://icdn.digitaltrends.com/image/digitaltrends/blockchain-financial-technology-to-secure-cryptocurrencies-as-bitcoin-for-online-payments-and-money-transaction-fintech-concept-with-encrypted-ledger-blocks-chained-person-working-on-computer.jpg "India's plan to end spam texts was a colossal failure. But it's worth revisiting")
+
+
+[India's plan to end spam texts was a colossal failure. But it's worth revisiting](https://www.digitaltrends.com/features/india-anti-spam-blockchain-failure-lessons/)
+
+
+> For a few days in March 2021, millions of Indians suddenly couldn't access many of the apps and services they relied on for everyday life. Every time they request a one-time passcode (OTP) to authenticate a bank transaction, retrieve a forgotten social media login, or register for a vaccine appointment, they ended up waiting forever for an SMS text that was never on its way. Why? As it turns out, the one-time passcodes required to run these services were blocked by India's new blockchain-powered SMS 'scrubbing' system designed to cut down on spam texts.
+
+
+***
+![Amazon Echo Show (2nd Gen) Review](https://icdn.digitaltrends.com/image/digitaltrends/amazon-echo-show-2-review-29706.jpg "Amazon Echo Show (2nd Gen) Review")
+
+
+[Amazon Echo Show (2nd Gen) Review](https://www.digitaltrends.com/smart-home-reviews/amazon-echo-show-review/)
+
+
+> 'With a bigger screen and stronger sound, the new Amazon Echo Show is better in every way.' Pros Impressive sound quality Crystal clear display Larger screen than previous model Built-in smart home hub Cons Expensive No Z-Wave integration We had a feeling that the Amazon Echo Show was due for an update. With competition from Google Assistant via Lenovo's gorgeous Smart Display and JBL's Link View, which both feature better sound and display quality, Amazon needed to catch up. The company delivered with the (2nd generation) Amazon Echo Show, an Alexa speaker with a screen when that was released in October 2018 with a starting price of $230.
+
+
