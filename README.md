@@ -39609,3 +39609,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![How to watch Djokovic vs Berrettini at Wimbledon 2021 finals live](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/wimbledon-aeltc.jpg "How to watch Djokovic vs Berrettini at Wimbledon 2021 finals live")
+
+
+[How to watch Djokovic vs Berrettini at Wimbledon 2021 finals live](https://www.androidcentral.com/wimbledon-2021-live-stream-how-watch-djokovic-vs-berrettini-finals)
+
+
+> History will be on the line at today's men's singles final at Wimbledon 2021 when Italy's Matteo Berrettini goes up against Serbia's five-time Wimbledon champion Novak Djokovic and we have all the details on how you can watch the match on TV or online. Source: AELTC In addition to being the first Italian male tennis player to make it into the singles final at Wimbledon, Berrettini is also the first Italian man to play in any Grand Slam final since 1976. At Friday's match against Poland's Hubert Hurkacz, Berrettini started off strong by winning the first two sets 6-3, 6-0.
+
+
+***
+![Lava ProBuds Review: Budget earbuds with a focus on design, build and reliability](https://images.indianexpress.com/2021/07/Lava-Probuds-Review-1.jpg "Lava ProBuds Review: Budget earbuds with a focus on design, build and reliability")
+
+
+[Lava ProBuds Review: Budget earbuds with a focus on design, build and reliability](https://indianexpress.com/article/technology/tech-reviews/lava-probuds-review-7399051/)
+
+
+> Lava's new lineup of smartphones provided something fresh this year. Naturally, we were excited to see if the company's new true wireless earbuds carried the same spirit. Check out our full review below for more details. Lava ProBuds: What's good? Design, Build quality: The Lava ProBuds feature a great design that looks sleek in matte black. The vertical case also has a nice, sturdy hinge to it. A couple of additions that we liked here include the battery status LEDs on the outside of the case, which is where they should be, unlike some products that have now started placing it inside the lid.
+
+
+***
+[Jack Cable of Krebs Stamos Group launches Ransomwhere, a crowdsourced ransomware payment tracker; the site is already tracking $32M+ in ransom payments for 2021 (Carly Page/TechCrunch)](http://www.techmeme.com/210711/p3#a210711p3)
+
+
+> Carly Page / TechCrunch: Jack Cable of Krebs Stamos Group launches Ransomwhere, a crowdsourced ransomware payment tracker; the site is already tracking $32M+ in ransom payments for 2021 — Ransomware attacks, fueled by COVID-19 pandemic turbulence, have become a major money earner for cybercriminals, with the number of attacks rising in 2020.
+
+
+***
+![5 Ways You Can Swap Two Numbers in Python](https://external-preview.redd.it/Ld9SwuMvEiktzlWHWo6UHvoxZo225mjbNCmNFJ83f8g.jpg?auto=webp&s=1fa7e772b54f297834af24b5a9a9d0a282e3e717 "5 Ways You Can Swap Two Numbers in Python")
+
+
+[5 Ways You Can Swap Two Numbers in Python](https://www.reddit.com/r/Python/comments/ohymlj/5_ways_you_can_swap_two_numbers_in_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Lynk & Co will make you rethink outdated ideas of car ownership](https://external-preview.redd.it/mINC49L_Q9IvvcHZ_oX3OMagbaSCE_7_khRlVOYMSvg.jpg?auto=webp&s=7fd8a3900dfcf832dfab557fa92a17debd73f8f1 "Lynk & Co will make you rethink outdated ideas of car ownership")
+
+
+[Lynk & Co will make you rethink outdated ideas of car ownership](https://www.reddit.com/r/technology/comments/ohyisk/lynk_co_will_make_you_rethink_outdated_ideas_of/)
+
+
+> This is not a car, this is different' is how Lynk & Co, a company spawned by Volvo and Geely, is positioning the launch of its 01 plug-in hybrid, a compact SUV built from the ground up to share. The more you share its digital key the less you pay each month, possibly even turning a profit.
+
+
