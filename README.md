@@ -39797,3 +39797,43 @@
 > It has a ‘beak' like a bird. Its surface seems seamless. And it's winking. Is the US Air Force trolling China with a new image of its next-generation stealth bomber?The B-21 Raider project is one of the most secret on Earth.We know at least two are nearing completion. Dozens more are on the assembly lines.They're replacing America's aging and dilapidated fleet of strategic bombers – from the 66-year-old B-52 Stratofortress to the 30-year-old B-2 Spirit stealth bomber.But no actual photo of the new design has yet been released.
 
 
+***
+![WATCH LIVE: Richard Branson Heads to Space on Virgin Galactic Flight](https://www.mediaite.com/wp-content/uploads/2021/07/GettyImages-1178650410-scaled.jpg "WATCH LIVE: Richard Branson Heads to Space on Virgin Galactic Flight")
+
+
+[WATCH LIVE: Richard Branson Heads to Space on Virgin Galactic Flight](https://www.mediaite.com/tech/watch-live-richard-branson-heads-to-space-on-virgin-galactic-flight/)
+
+
+> Photo by JOHANNES EISELE/AFP via Getty Images Richard Branson is headed to space. The billionaire founder of Virgin Galactic will be on the fully-crewed Unity 22 spacecraft as it lifts off on Sunday. Branson has pursued the idea of commercial space flight for years, and this trek is a test flight to the edge of space, where the crew will experience several minutes of weightlessness before returning to Earth. The crew includes chief astronaut instructor Beth Moses, lead operations engineer Colin Bennet, and VP of government affairs & research operation Sirisha Bandla.
+
+
+***
+![JavaScript Arrays explained!](https://external-preview.redd.it/tM-AT3rpkyYvxpgs78JajvHHfssPa8SRgzx33Y3Ripo.jpg?auto=webp&s=4e410696c7470e6e87a5b4daffd7f9e2dc95c71c "JavaScript Arrays explained!")
+
+
+[JavaScript Arrays explained!](https://www.reddit.com/r/programming/comments/oi4kkp/javascript_arrays_explained/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The next MacBook Pros are rumored to be getting a 1080p webcam upgrade](https://cdn.mos.cms.futurecdn.net/WZMuiK62brzEurCsVmE2xJ-1200-80.jpg "The next MacBook Pros are rumored to be getting a 1080p webcam upgrade")
+
+
+[The next MacBook Pros are rumored to be getting a 1080p webcam upgrade](https://www.techradar.com/news/the-next-macbook-pros-are-rumored-to-be-getting-a-1080p-webcam-upgrade)
+
+
+> The current 16-inch MacBook Pro. (Image credit: Future) As a result of the global pandemic we've all been living through, we're all now far more familiar with our webcams than we used to be – and the latest rumor around the upcoming 14-inch and 16-inch MacBook Pro refresh is that the integrated FaceTime camera will finally get an upgrade to 720p.That's according to tipster @dylandkt on Twitter, who has a solid record with leaks in the past. After the new and improved camera arrives on the MacBook Pros, it will come to all of the other models in the Mac line-up, the same source says.
+
+
+***
+![How to watch Richard Branson's space flight](https://cdn.cnn.com/cnnnext/dam/assets/210708133230-02-vss-unity-virgin-galactic-file-2016-super-tease.jpg "How to watch Richard Branson's space flight")
+
+
+[How to watch Richard Branson's space flight](https://www.cnn.com/2021/07/09/tech/richard-branson-virgin-galactic-space-flight-walkup-scn/index.html)
+
+
+> Branson's brief joy ride is more than two decades in the making. He founded Virgin Galactic in 2004 with the goal of creating a winged spacecraft capable of taking up to eight people, including two pilots and six passengers, on rocket-powered flights that reach more than 50 miles above Earth, which the US government considers the boundary marking outer space. Virgin Galactic's VSS Unity, as the spaceplane is called, has conducted more than 20 test flights, three of which have reached the edge of space and made five Virgin Galactic employees into pin-carrying astronauts.
+
+
