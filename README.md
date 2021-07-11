@@ -39928,3 +39928,50 @@
 > Smartphones could one day project 3D holograms, making science fiction movies such as Star Wars a reality.A group of Australian researchers is working to develop imaging technology that could also make the devices thinner and lighter.They're part of an Australian National University PhD research cohort heading to Germany to join a team at Friedrich Schiller University.The universities are leading research into the optics, photonics and meta-optics fields, with 39 PhD candidates set to join forces.
 
 
+***
+[How do you measure a Python dev level?](https://www.reddit.com/r/Python/comments/oibebx/how_do_you_measure_a_python_dev_level/)
+
+
+> How do you evaluate your python level between junior, middle, and senior and why?In simple words: What would be the checklist for each skill level, and why?
+
+
+***
+![Work-from-anywhere firms are here to stay: Prajit Nair, director sales, End User Computing, VMware India](https://images.financialexpress.com/2021/07/1-239.jpg "Work-from-anywhere firms are here to stay: Prajit Nair, director sales, End User Computing, VMware India")
+
+
+[Work-from-anywhere firms are here to stay: Prajit Nair, director sales, End User Computing, VMware India](https://www.financialexpress.com/industry/technology/work-from-anywhere-firms-are-here-to-stay-prajit-nair-director-sales-end-user-computing-vmware-india/2287356/)
+
+
+> By: Sudhir Chowdhary | July 12, 2021 1:15 AMPRAJIT NAIR, Director Sales, End User Computing VMware IndiaThe pandemic-enforced switch to remote working has led businesses to discover productivity improvements, increased employee satisfaction, enhanced recruitment, and cost savings. 'As businesses move from simply supporting remote work to truly becoming distributed, work-from-anywhere organisations, they must prioritise the experience of their distributed workforce, while building a more resilient, efficient and competitive organisation that can conduct business in entirely new ways,' Prajit Nair, director sales, End User Computing, VMware India tells Sudhir Chowdhary in a recent interview.
+
+
+***
+![Richard Branson lands safely after rocketing to outer space](https://ktvz.b-cdn.net/2021/07/S172563160-300-1440x810.jpg "Richard Branson lands safely after rocketing to outer space")
+
+
+[Richard Branson lands safely after rocketing to outer space](https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2021/07/11/richard-branson-lands-safely-after-rocketing-to-outer-space/)
+
+
+> Virgin GalacticVirgin Galactic By Jackie Wattles, CNN Business Richard Branson became the first person to ride into space aboard a rocket he helped fund. The supersonic space plane developed by his company, Virgin Galactic, roared into the sky over New Mexico early Sunday, carrying Branson and three fellow crewmembers. Branson -— along with Virgin Galactic employees Beth Moses, Colin Bennett, and Sirisha Bandla and pilots Dave Mackay and Michael Masucci — boarded the SpaceShipTwo, a winged plane with a single rocket motor that the company has spent nearly two decades developing, before the crack of dawn.
+
+
+***
+![Still Using An Older iPhone? Here's What You Won't Get With iOS 15](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/07/apple-iphone-x-ios-15.jpg "Still Using An Older iPhone? Here's What You Won't Get With iOS 15")
+
+
+[Still Using An Older iPhone? Here's What You Won't Get With iOS 15](https://screenrant.com/ios-15-update-features-older-iphones-apple-facetime-siri/)
+
+
+> Apple is set to release iOS 15 for a multitude of iPhones this fall, but that's not to say the update is the same across the board. Although every iPhone from the iPhone 6s and newer is eligible for iOS 15, some of iOS 15's best features are only available on newer iPhone models. Whenever Apple releases a new iOS update, the company receives a heap of praise for supporting older iPhone models that are multiple years old. Android handsets are lucky to receive three years of major OS updates, but in Camp Apple, the iPhone 6s from 2015 is getting iOS 15 just fine.
+
+
+***
+![A 'Mario 64' auction ended at $1.56 million, smashing a record 'Zelda' set days earlier](https://helios-i.mashable.com/imagery/articles/076ReMr9Sf6fFvP7eJ6Wm78/hero-image.fill.size_1200x675.jpg "A 'Mario 64' auction ended at $1.56 million, smashing a record 'Zelda' set days earlier")
+
+
+[A 'Mario 64' auction ended at $1.56 million, smashing a record 'Zelda' set days earlier](https://mashable.com/article/super-mario-64-auction-1560000-million)
+
+
+> If you thought $870,000 was a lot to spend on a copy of The Legend of Zelda then you're not going to believe this latest development from the world of video game auctions.Super Mario 64, the beloved and top-selling Nintendo 64 launch game, sold at auction for $1,560,000. Yes, on the same day that one of Earth's billionaires launched into space on the wings of a weird, self-aggrandizing infomercial livestream, another person elsewhere on the planet decided that a 25-year-old video game was worth well over $1 million.
+
+
