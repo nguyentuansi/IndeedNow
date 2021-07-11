@@ -39656,3 +39656,50 @@
 > This is not a car, this is different' is how Lynk & Co, a company spawned by Volvo and Geely, is positioning the launch of its 01 plug-in hybrid, a compact SUV built from the ground up to share. The more you share its digital key the less you pay each month, possibly even turning a profit.
 
 
+***
+![Should I buy a DJI drone in 2021?](https://cdn.mos.cms.futurecdn.net/Bk6PijoH9T8TbZd7LdTbHQ-1200-80.jpg "Should I buy a DJI drone in 2021?")
+
+
+[Should I buy a DJI drone in 2021?](https://www.techradar.com/news/should-i-buy-a-dji-drone-in-2021)
+
+
+> DJI has soared high above most other drone makers in the past few years, but there's no doubt it's hit some turbulence recently. With the pandemic keeping most of us indoors and the US adding the company to its 'Entity List' at the end of 2020, it's been a challenging year for the drone king. So is it still a good time to buy a DJI drone?There are a few things to consider before answering that question, and we've covered them all in our guide below. Beyond DJI's political difficulties in the US, there are the added factors of increased competition from the likes of Autel and Skydio, plus recent changes to DJI's own range in the form of new models.
+
+
+***
+![Hey Siri functionality with Bose earbuds](https://images.macrumors.com/social/?t=2303892&v=6 "Hey Siri functionality with Bose earbuds")
+
+
+[Hey Siri functionality with Bose earbuds](https://forums.macrumors.com/threads/hey-siri-functionality-with-bose-earbuds.2303892/)
+
+
+> In my quest to find the perfect earbuds for me to run with I decided to try the Bose Sport Open earbuds. They are my favorite so far but unfortunately I can't get them to recognize me saying "hey Siri" to issue commands. The first earbuds I tried are the Airpods, Airpods Pro, and Powerbeats Pro. Spending time with those got me used to just saying "hey Siri" while running without having to raise my wrist or press a button. Has anyone got it to work with any of the Bose earbuds line with their Ap
+
+
+***
+[Bring your python scripts to life personalized colorful animated logos/banners/loading animations!](https://www.reddit.com/r/Python/comments/oi03de/bring_your_python_scripts_to_life_personalized/)
+
+
+> Play0:000:00SettingsFullscreenclippy uses the python standard library to make colored or colorless animations in the command line/terminal.Why did I make this?Import clippy to create animated logos/banners when your own scripts are runAwesome loading animations (Work in Progress), full color, circles, bars, you name it!Developing rogue-like ASCII gameI'm open to contributions on this project, its early on in development, but my roadmap is to have a fully implemented gallery at your fingertips for your scripts.
+
+
+***
+![Twitter names Vinay Prakash as Resident Grievance Officer for India](https://imagevars.gulfnews.com/2021/05/06/Twitter_179426e6bf1_medium.jpg "Twitter names Vinay Prakash as Resident Grievance Officer for India")
+
+
+[Twitter names Vinay Prakash as Resident Grievance Officer for India](https://gulfnews.com/technology/twitter-names-vinay-prakash-as-resident-grievance-officer-for-india-1.1625988629590)
+
+
+> Image Credit: Shutterstock New Delhi: July 11 : Twitter, which is currently involved in a standoff with the Centre over the latter's new Information Technology (I-T) rules, has on Sunday named Vinay Prakash as the Resident Grievance Officer for India. The social media platform in its Help Center section mentioned, "Grievance Officer contact information for users in India: Resident Grievance Officer, Vinay Prakash, grievance-officer-in @ twitter.com, Twitter, Inc." The social media giant in its tweet said it can be contacted in India at its Bangalore office address.
+
+
+***
+![Future of Work: Beyond Bossware and Job-Killing Robots](https://external-preview.redd.it/r3fZorONDb9nrKzPeZKjIZDc1ju1kClfU9o87_Vz3rE.jpg?auto=webp&s=e97eab9052e7422d2d9ea2d3253a8114a1c2a67f "Future of Work: Beyond Bossware and Job-Killing Robots")
+
+
+[Future of Work: Beyond Bossware and Job-Killing Robots](https://www.reddit.com/r/technology/comments/ohzv22/future_of_work_beyond_bossware_and_jobkilling/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
