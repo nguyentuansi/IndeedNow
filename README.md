@@ -39568,3 +39568,44 @@
 > 131f was the hottest recorded so this article is false, also we've probably have had hotter (more than probably since the earth was hell in a prior life before humans)That being said, furnace creek has signs warning people to not go hiking after 10:00am it is not safe. Also never buy ice cream at the gift shop, in the < 1 min it takes to get back to your car it will be melted goo.
 
 
+***
+[Zoom plots in python](https://www.reddit.com/r/Python/comments/ohxfp0/zoom_plots_in_python/)
+
+
+> I want to plot two polygons with huge dimensions difference. Being large difference, the smaller polygon is not visible at all when plotted with a bigger polygon.My thought process is to either have a scroll key-based zoom functionality in matplotlib or using a logarithmic scale (but logarithmic scale.Any suggestion will be appreciated. Any code snippet for zoom functionality ! Do we have any other alternative than matplotlib which can have inbuild zoom functionality?
+
+
+***
+![Tech Q&A: How to move music among various Apple devices](https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg "Tech Q&A: How to move music among various Apple devices")
+
+
+[Tech Q&A: How to move music among various Apple devices](https://www.unionleader.com/nh/lifestyles/tech-q-a-how-to-move-music-among-various-apple-devices/article_b9dfbf25-545c-5354-a727-509c6ccdd791.html)
+
+
+> Contact Steve Alexander at{span} {/span}steve.j.alexander@gmail.com{span}. Please include a full name, city and phone number.{/span}
+
+
+***
+![Bludger](https://external-preview.redd.it/Qj7TtOch1k4CAOSDJGvxHjx8QIrDfQgf_LiXSde4cuE.jpg?auto=webp&s=0a9776fd099d70d486bea78b95b9012ee469198d "Bludger")
+
+
+[Bludger](https://www.reddit.com/r/programming/comments/ohxapk/bludger_a_github_actions_automation_framework/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[How I accidentally took down GitHub Actions (2019)](https://www.reddit.com/r/programming/comments/ohx7ys/how_i_accidentally_took_down_github_actions_2019/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Please join this subreddit. I think you'll find it useful when it blows up!](https://www.reddit.com/r/programming/comments/ohx4js/please_join_this_subreddit_i_think_youll_find_it/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
