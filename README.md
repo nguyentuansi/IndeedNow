@@ -39837,3 +39837,53 @@
 > Branson's brief joy ride is more than two decades in the making. He founded Virgin Galactic in 2004 with the goal of creating a winged spacecraft capable of taking up to eight people, including two pilots and six passengers, on rocket-powered flights that reach more than 50 miles above Earth, which the US government considers the boundary marking outer space. Virgin Galactic's VSS Unity, as the spaceplane is called, has conducted more than 20 test flights, three of which have reached the edge of space and made five Virgin Galactic employees into pin-carrying astronauts.
 
 
+***
+![Avakin Life Epik NFT Challenge Leaves Players Confused and Uncomfortable](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Avakin%20Life%20NFT%20Tent_0.jpg?itok=dvQcACt6 "Avakin Life Epik NFT Challenge Leaves Players Confused and Uncomfortable")
+
+
+[Avakin Life Epik NFT Challenge Leaves Players Confused and Uncomfortable](https://techraptor.net/gaming/news/avakin-life-epik-nft-challenge-leaves-players-confused-and-uncomfortable)
+
+
+> The latest in-game event for the popular mobile title Avakin Life, the ‘Epik NFT Challenge', has caused controversy in the community by seeming to promote NFT artwork to an audience of predominantly underage users. What is Avakin Life all about? Developed and published by the UK mobile studio Lockwood Publishing, Avakin Life is a popular life simulation game for mobile platforms, with gameplay similar to titles like Second Life. Boasting over 200 million app store downloads, players create a highly customizable character, called an Avakin, and gain access to a 3D virtual world to explore.
+
+
+***
+![From the Editor's Desk: iPhone 13 rumors ahoy!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/iphone-13-case_0.jpg "From the Editor's Desk: iPhone 13 rumors ahoy!")
+
+
+[From the Editor's Desk: iPhone 13 rumors ahoy!](https://www.imore.com/iphone-13-rumors-ahoy)
+
+
+> Source: Old explosion technology It was a short week for most of us here at iMore because of Fourth of July last weekend, but it's been jam-packed with plenty to talk about, especially when it comes to the next iPhone. So let's dive right in! Since it's July, we're about two months away from the iPhone 13 (no, let's not go the route of naming it the iPhone 12s, alright), and honestly, I'm so ready for it. One of the rumors this week for the iPhone 13 is that it could be getting reverse wireless charging, you know, that thing that has been rumored since the iPhone 11? Source: UnclePan潘叔 According to this rumor, Max Weinbach and EverythingApplePro suggest that the next iPhone could have better heat dissipation and faster wireless charging.
+
+
+***
+![Tech helps reduce overcrowding at Washington state trails via new recommendation feature](https://cdn.geekwire.com/wp-content/uploads/2021/07/wtas-hike-recommender-set.png "Tech helps reduce overcrowding at Washington state trails via new recommendation feature")
+
+
+[Tech helps reduce overcrowding at Washington state trails via new recommendation feature](https://www.geekwire.com/2021/tech-helps-reduce-overcrowding-washington-state-trails-via-new-recommendation-feature/)
+
+
+> WTA's Hike Recommender. (WTA Photo) Seattle-area hikers know that on weekend mornings, popular trails such as Mt. Si are bound to be packed. The Washington Trail Association saw the need to add something new to prevent overcrowding and point hikers to different trails. WTA recently launched a new recommender in the 'My Backpack' feature on its website which recommends trails to users based on their preferences — including inclination, distance, location and more. WTA gives trail recommendations to hikers all the time, said Loren Drummond, WTA digital content manager, and the new feature digitizes that process.
+
+
+***
+![Richard Branson successfully completes flight to space with Virgin Galactic](https://static.independent.co.uk/2021/07/11/16/virgin.jpg?width=1200&auto=webp&quality=75 "Richard Branson successfully completes flight to space with Virgin Galactic")
+
+
+[Richard Branson successfully completes flight to space with Virgin Galactic](https://www.independent.co.uk/life-style/gadgets-and-tech/space-trip-virgin-branson-live-b1882125.html)
+
+
+> Richard Branson has successfully touched the edge of space on board a Virgin Galactic flight.The Virgin boss was carried on board his company's space plane in its first fully crewed test.As well as representing a success – and major publicity coup – for the company, it also meant that Mr Branson beat fellow billionaire Jeff Bezos to space. The Amazon founder will make a similar journey on 20 July, on board one of his own Blue Origin spacecraft.Blue Origin has argued that Mr Branson's trip does not really count as a trip to space, since he did not cross the Kármán line that generally defined the boundary of space.
+
+
+***
+![Richard Branson makes it to the edge of space in Virgin Galactic flight](https://icdn.digitaltrends.com/image/digitaltrends/screenshot-2021-07-11-174702.jpg "Richard Branson makes it to the edge of space in Virgin Galactic flight")
+
+
+[Richard Branson makes it to the edge of space in Virgin Galactic flight](https://www.digitaltrends.com/news/virgin-galactic-test-flight-branson/)
+
+
+> VSS Unity takes off from Spaceport America on Sunday, July 11 Virgin Galactic Founder of Virgin Galactic, Richard Branson, has made it to the edge of space along with five other crew members in the first fully crewed test flight of Virgin Galactic's spaceplane VSS Unity. On Sunday, July 7, the VSS Unity was taken to an altitude of just under 50,000 feet by the mothership VMS Eve before being released and firing its engines to reach the edge of space at 282,00 feet. After several minutes of weightlessness for the crew, the VSS Unity glided back down to Earth and landed safely on runway three at Spaceport America in New Mexico.
+
+
