@@ -39753,3 +39753,47 @@
 > Elon Musk has reportedly bought a ticket for a flight on Sir Richard Branson's spaceship as the rival billionaire prepares to launch to the edge of space on Sunday.Mr Musk, owner of the space exploration company SpaceX, has paid a $10,000 deposit to reserve a seat on a future Virgin Galactic voyage, Sir Richard told The Sunday Times.Amazon and Blue Origin founder Jeff Bezos (left) and Virgin Group founder Sir Richard Branson (Photos: MANDEL NGAN and Don EMMERT / AFP) Sir Richard, who will be aboard Virgin's first fully crewed flight when it launches from New Mexico at 2pm Sunday afternoon, confirmed the purchase in an interview with the paper – adding that he might book himself onto one of Mr Musk's space trips in the future.
 
 
+***
+[How can I recognize the height and the width of a human body in an image?](https://www.reddit.com/r/Python/comments/oi37d3/how_can_i_recognize_the_height_and_the_width_of_a/)
+
+
+> How can I recognize the height and the width of a human body in an image? Or with python code or software !
+
+
+***
+[Anybody want to start a big python project](https://www.reddit.com/r/Python/comments/oi35b9/anybody_want_to_start_a_big_python_project/)
+
+
+> I've basically done most python projects and now I want to tackle something big and I was wondering if anybody had the same ideaI'm willing to build any projectMultiple people can joinPreferably under 20s but anyone's welcome
+
+
+***
+![KODE REDEEM FF Minggu, 11 Juli 2021, Klaim di reward.ff.garena.com dan Ikuti Panduan Berikut](https://cdn-2.tstatic.net/tribunnews/foto/bank/images/free-fire-1231284.jpg "KODE REDEEM FF Minggu, 11 Juli 2021, Klaim di reward.ff.garena.com dan Ikuti Panduan Berikut")
+
+
+[KODE REDEEM FF Minggu, 11 Juli 2021, Klaim di reward.ff.garena.com dan Ikuti Panduan Berikut](https://www.tribunnews.com/techno/2021/07/11/kode-redeem-ff-minggu-11-juli-2021-klaim-di-rewardffgarenacom-dan-ikuti-panduan-berikut)
+
+
+> TRIBUNNEWS.COM - Berikut kode redeem Free Fire yang belum digunakan hingga saat ini (11/7/2021), beserta cara klaimnya. Para survivor game Free Fire dapat menggunakan kode redeem FF edisi 11 Juli 2021 untuk mendapatkan hadiah dan item-item gratis di Free Fire. Dengan mengklaim kode redeem tersebut, Anda berkesempatan untuk mendapatkan diamond, senjata, hingga voucher hadiah menarik lainnya. Klaim 12 karakter kode Free Fire terebut melalui laman reward.ff.garena.com. Baca juga: KODE REDEEM FF Sabtu 10 Juli 2021, Klaim di reward.
+
+
+***
+![WhatsApp Beta for iOS to soon add ‘view-once' feature, redesigned in-app notifications](https://images.indianexpress.com/2021/07/WhatsApp-IE.jpg "WhatsApp Beta for iOS to soon add ‘view-once' feature, redesigned in-app notifications")
+
+
+[WhatsApp Beta for iOS to soon add ‘view-once' feature, redesigned in-app notifications](https://indianexpress.com/article/technology/social/whatsapp-beta-for-ios-to-soon-add-view-once-feature-redesigned-in-app-notifications-7399422/)
+
+
+> WhatsApp is reportedly bringing some new features to its iOS app. The new features include the ability to send photos and videos with a ‘view once' setting as well as a new, redesigned in-app notification style. Here's all you need to know about the new features. As per a report by WABetaInfo, WhatsApp will soon be bringing its ‘view once' feature to iOS beta versions. The beta version for the Android counterpart was spotted recently. For WhatsApp beta users on iOS, the feature is set to come with the v 2.
+
+
+***
+![MOST SECRET ON EARTH: US ‘trolls' China with pics of new stealth bomber](https://cdn.newsapi.com.au/image/v1/569844a8725ad912404084b48bca1e65?width=1280 "MOST SECRET ON EARTH: US ‘trolls' China with pics of new stealth bomber")
+
+
+[MOST SECRET ON EARTH: US ‘trolls' China with pics of new stealth bomber](https://www.news.com.au/technology/innovation/military/us-air-force-appears-to-troll-china-with-photos-of-secret-bomber-b21-raider/news-story/bb8f8670bac6399a2ac11a26e1c4e83d)
+
+
+> It has a ‘beak' like a bird. Its surface seems seamless. And it's winking. Is the US Air Force trolling China with a new image of its next-generation stealth bomber?The B-21 Raider project is one of the most secret on Earth.We know at least two are nearing completion. Dozens more are on the assembly lines.They're replacing America's aging and dilapidated fleet of strategic bombers – from the 66-year-old B-52 Stratofortress to the 30-year-old B-2 Spirit stealth bomber.But no actual photo of the new design has yet been released.
+
+
