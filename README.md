@@ -39521,3 +39521,50 @@
 > With the power of current Apple Silicon based Macs, and the next generation Apple Silicon computers that could be coming later this year, plenty of Intel-based computers will be left without a purpose. So why not convert your old computer into your own Netflix-like streaming service using Plex? While making your own streaming service may seem like a challenging process, it's made easy with the use of Plex. There are two types of software for Plex, the server and the client. The server software is installed on a machine that stores copies of any Movies, Music, or TV Shows that you want to share.
 
 
+***
+![3800 PlayStation 4s Seized In Illegal Ukraine Cryptocurrency Farm](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/PS4%20Cryptofarm.jpg?itok=0pZs9ATl "3800 PlayStation 4s Seized In Illegal Ukraine Cryptocurrency Farm")
+
+
+[3800 PlayStation 4s Seized In Illegal Ukraine Cryptocurrency Farm](https://techraptor.net/gaming/news/3800-playstation-4s-seized-in-illegal-ukraine-cryptocurrency-farm)
+
+
+> 07/10/2021 - 22:02 | By: Don Parsons The Ukrainian government has announced that they shut the largest cryptocurrency farm in the country and seized its assets, including 3800 PlayStation 4s (pictured above, credit SBU). This was a piece of almost 5000 parts of computer equipment seized. PlayStation 4 cryptocurrency mining? The government announcement (which we're using machine translation for) doesn't directly say what the PlayStation 4s were used for, but it is difficult to imagine anyone hooking up this many unless they were being used for cryptocurrency mining in this building.
+
+
+***
+[AI that guesses your number showcase](https://www.reddit.com/r/Python/comments/ohvp1f/ai_that_guesses_your_number_showcase/)
+
+
+> This AI will try to guess what number the system generates. Eventually (After 30 something generations) It will become as intelligent as possible. If there are any improvements I can make for this program feel free to tell me :) (Sorry if it isn't very readable, trying to get better at that)Program below, copy and paste into an IDE to run it.====================================================================================import randomimport timeGuess_List = []Attempts = 0Generation = 1Correct = 0Correct_Max = 3Intelligence = 50while True:input("Start > ")while True:Answer = random.
+
+
+***
+![UFC 264 live stream: how to watch Poirier vs McGregor 3 online tonight from anywhere](https://cdn.mos.cms.futurecdn.net/gsRe9pBXVwj6rahqS6aM7a-1200-80.jpg "UFC 264 live stream: how to watch Poirier vs McGregor 3 online tonight from anywhere")
+
+
+[UFC 264 live stream: how to watch Poirier vs McGregor 3 online tonight from anywhere](https://www.techradar.com/news/ufc-264-live-stream-how-to-watch-poirier-vs-mcgregor-3-online-tonight-from-anywhere)
+
+
+> Las Vegas is buzzing, the UFC Octagon is rocking and soon enough Conor McGregor and Dustin Poirier will be ripping shreds off one another to finally to decide which of them is the ultimate fighter. Anticipation is high for a classic end to their trilogy, and below we have all the information you're going to need to live stream UFC 264 online and watch Poirier vs McGregor 3 on streaming service ESPN+ in the US and beyond.The pair first locked horns at UFC 178 back in 2014, with infamous Irish star McGregor walking away victorious with a TKO in under two minutes.
+
+
+***
+![UFC 264 live stream: how to watch Poirier vs McGregor 3 online tonight](https://cdn.mos.cms.futurecdn.net/gsRe9pBXVwj6rahqS6aM7a-1200-80.jpg "UFC 264 live stream: how to watch Poirier vs McGregor 3 online tonight")
+
+
+[UFC 264 live stream: how to watch Poirier vs McGregor 3 online tonight](https://www.techradar.com/news/ufc-264-live-stream-how-to-watch-poirier-vs-mcgregor-3-online-tonight-from-anywhere)
+
+
+> Las Vegas is buzzing, the UFC Octagon is rocking and soon enough Conor McGregor and Dustin Poirier will be ripping shreds off one another to finally to decide which of them is the ultimate fighter. Anticipation is high for a classic end to their trilogy, and below we have all the information you're going to need to live stream UFC 264 online and watch Poirier vs McGregor 3 on streaming service ESPN+ in the US and beyond.The pair first locked horns at UFC 178 back in 2014, with infamous Irish star McGregor walking away victorious with a TKO in under two minutes.
+
+
+***
+![The 130-Degree Fahrenheit Reading in Death Valley Ties for the Hottest Temperature Ever Reliably Recorded](https://external-preview.redd.it/NtkLfMstH1szMKwY9s6_N90Y23jXIUI1GEhlqekIYMU.jpg?auto=webp&s=16846bf490a34dcfae1533cfc24777cfecda8fb8 "The 130-Degree Fahrenheit Reading in Death Valley Ties for the Hottest Temperature Ever Reliably Recorded")
+
+
+[The 130-Degree Fahrenheit Reading in Death Valley Ties for the Hottest Temperature Ever Reliably Recorded](https://www.reddit.com/r/technology/comments/ohva50/the_130degree_fahrenheit_reading_in_death_valley/)
+
+
+> 131f was the hottest recorded so this article is false, also we've probably have had hotter (more than probably since the earth was hell in a prior life before humans)That being said, furnace creek has signs warning people to not go hiking after 10:00am it is not safe. Also never buy ice cream at the gift shop, in the < 1 min it takes to get back to your car it will be melted goo.
+
+
