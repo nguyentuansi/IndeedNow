@@ -39703,3 +39703,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![How to use "Def" function ? Can some add to this to improve this concept ?](https://external-preview.redd.it/Wga-Wb3GrdbeEpP5ecOWUCsAjbji2PutN9uuDUzEDTM.jpg?auto=webp&s=298cfc6c13b81ab86324e97aefb7870ec9af4c41 "How to use "Def" function ? Can some add to this to improve this concept ?")
+
+
+[How to use "Def" function ? Can some add to this to improve this concept ?](https://www.reddit.com/r/Python/comments/oi1l9y/how_to_use_def_function_can_some_add_to_this_to/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![These are the top 5 most dangerous criminal organisations online right now](https://static.theprint.in/wp-content/uploads/2021/07/Copy-of-Untitled-92.jpg "These are the top 5 most dangerous criminal organisations online right now")
+
+
+[These are the top 5 most dangerous criminal organisations online right now](https://theprint.in/tech/these-are-the-top-5-most-dangerous-criminal-organisations-online-right-now/693772/)
+
+
+> Representational image | Photo: Flickr Text Size: On the internet, nobody knows you're a dog! These words from Peter Steiner's famous cartoon could easily be applied to the recent ransomware attack on Florida-based software supplier Kaseya. Kaseya provides software services to thousands of clients around the world. It's estimated between 800 and 1,500 medium to small businesses may be impacted by the attack, with the hackers demanding US$50 million (lower than the previously reported US$70 million) in exchange for restoring access to data being held for ransom.
+
+
+***
+![The next Amazon Echo could use radar to track your sleep](https://cdn.mos.cms.futurecdn.net/tgrdVEcENP84XTFXMHzprj-1200-80.jpg "The next Amazon Echo could use radar to track your sleep")
+
+
+[The next Amazon Echo could use radar to track your sleep](https://www.techradar.com/news/the-next-amazon-echo-could-use-radar-to-track-your-sleep)
+
+
+> (Image credit: Amazon) The latest Google Nest Hub smart display has the ability to track your sleeping habits using radar, and now it would seem that Amazon is prepping a similar feature for its Echo devices, according to a regulatory filing.As reported by Bloomberg, Amazon has applied to the Federal Communications Commission (FCC) in the US for permission to use a radar sensor in its future products, in order to sense motion and "enable contactless sleep tracing functionalities".The same motion-sensing technology could also be used to control an Echo device using hand gestures – again something you can go with the Google Nest Hub and indeed the Google Pixel 4 phones, thanks to the miniaturized radar sensors on board.
+
+
+***
+![3 Programmers Got Fired (Including Me) Due to a Single App Crash](https://external-preview.redd.it/if56d_opUPNtR6CB6G-p5iBG3lAwWyw3NVKbhfFQUAk.jpg?auto=webp&s=668ded0a82a0deb173e355b9f66deee0cb0eab1b "3 Programmers Got Fired (Including Me) Due to a Single App Crash")
+
+
+[3 Programmers Got Fired (Including Me) Due to a Single App Crash](https://www.reddit.com/r/programming/comments/oi1eun/3_programmers_got_fired_including_me_due_to_a/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Elon Musk buys ticket for future flight on Sir Richard Branson's spaceship](https://i.inews.co.uk/content/uploads/2021/07/SEI_85237586.jpg "Elon Musk buys ticket for future flight on Sir Richard Branson's spaceship")
+
+
+[Elon Musk buys ticket for future flight on Sir Richard Branson's spaceship](https://inews.co.uk/news/technology/elon-musk-buys-ticket-future-flight-sir-richard-bransons-spaceship-1097613)
+
+
+> Elon Musk has reportedly bought a ticket for a flight on Sir Richard Branson's spaceship as the rival billionaire prepares to launch to the edge of space on Sunday.Mr Musk, owner of the space exploration company SpaceX, has paid a $10,000 deposit to reserve a seat on a future Virgin Galactic voyage, Sir Richard told The Sunday Times.Amazon and Blue Origin founder Jeff Bezos (left) and Virgin Group founder Sir Richard Branson (Photos: MANDEL NGAN and Don EMMERT / AFP) Sir Richard, who will be aboard Virgin's first fully crewed flight when it launches from New Mexico at 2pm Sunday afternoon, confirmed the purchase in an interview with the paper – adding that he might book himself onto one of Mr Musk's space trips in the future.
+
+
