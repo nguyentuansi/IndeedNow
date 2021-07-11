@@ -39887,3 +39887,44 @@
 > VSS Unity takes off from Spaceport America on Sunday, July 11 Virgin Galactic Founder of Virgin Galactic, Richard Branson, has made it to the edge of space along with five other crew members in the first fully crewed test flight of Virgin Galactic's spaceplane VSS Unity. On Sunday, July 7, the VSS Unity was taken to an altitude of just under 50,000 feet by the mothership VMS Eve before being released and firing its engines to reach the edge of space at 282,00 feet. After several minutes of weightlessness for the crew, the VSS Unity glided back down to Earth and landed safely on runway three at Spaceport America in New Mexico.
 
 
+***
+[Python interview questions with real time use cases. If you submit your answers we will help you to give feedback and help.](https://www.reddit.com/r/Python/comments/oi9c3n/python_interview_questions_with_real_time_use/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Essential Responsibilities and Skills of a Data Engineer. This blog might help the Python Data engineers.✌️](https://external-preview.redd.it/9ITE_4blQSo3oIWJvD_djeUdsVT8c-ThoHt4pnh-J2Q.jpg?auto=webp&s=5135d5b728735a57f5d39095af5430f316b00a8d "Essential Responsibilities and Skills of a Data Engineer. This blog might help the Python Data engineers.✌️")
+
+
+[Essential Responsibilities and Skills of a Data Engineer. This blog might help the Python Data engineers.✌️](https://www.reddit.com/r/Python/comments/oi95fo/essential_responsibilities_and_skills_of_a_data/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[MacBook Pro might feature upgraded 1080p webcam: Report](https://www.freepressjournal.in/technology/macbook-pro-might-feature-upgraded-1080p-webcam-report)
+
+
+> No body in the article.
+
+
+***
+[Good sites for object-oriented programming practise problems for Python?](https://www.reddit.com/r/Python/comments/oi8uri/good_sites_for_objectoriented_programming/)
+
+
+> I have been working through project Euler to practise my programming, which I've found really useful. However, I've very little practise with object-oriented programming. What are some good sites where I can work through practise problems for OOP?
+
+
+***
+![Aussie researchers chasing hologram phones](https://images.perthnow.com.au/publication/C-3374887/b69701b387f74636e57e05c8df1668a91e39e8ae-16x9-x0y0w1280h720.jpg?imwidth=1200 "Aussie researchers chasing hologram phones")
+
+
+[Aussie researchers chasing hologram phones](https://www.perthnow.com.au/technology/aussie-researchers-chasing-hologram-phones-c-3374887)
+
+
+> Smartphones could one day project 3D holograms, making science fiction movies such as Star Wars a reality.A group of Australian researchers is working to develop imaging technology that could also make the devices thinner and lighter.They're part of an Australian National University PhD research cohort heading to Germany to join a team at Friedrich Schiller University.The universities are leading research into the optics, photonics and meta-optics fields, with 39 PhD candidates set to join forces.
+
+
