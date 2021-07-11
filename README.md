@@ -39474,3 +39474,50 @@
 > View Entire Discussion (1 Comments)
 
 
+***
+[A look at startups like WellSaid Labs and VocaliD, which are building custom AI voice actors for digital assistants, video game characters, and corporate videos (Karen Hao/MIT Technology Review)](http://www.techmeme.com/210710/p14#a210710p14)
+
+
+> Karen Hao / MIT Technology Review: A look at startups like WellSaid Labs and VocaliD, which are building custom AI voice actors for digital assistants, video game characters, and corporate videos — A new wave of startups are using deep learning to build synthetic voice actors for digital assistants, video-game characters, and corporate videos.
+
+
+***
+![Afghanistan war over as final Aussie troops withdraw](https://images.perthnow.com.au/publication/C-3369474/bb64684a1e30c97748f2e3ee9081b954a68c500e-16x9-x0y192w2048h1152.jpg?imwidth=1200 "Afghanistan war over as final Aussie troops withdraw")
+
+
+[Afghanistan war over as final Aussie troops withdraw](https://www.news.com.au/technology/innovation/military/afghanistan-war-over-as-final-aussie-troops-withdraw/news-story/55e5c9a2732684e2cf56ebaea1617554)
+
+
+> EXCLUSIVEThe country's longest war is officially over with the last Australian troops flown out of Afghanistan.The withdrawal came on June 18 – months earlier than the stated deadline of September 11 – ending Australia's involvement in a brutal war that left 41 servicemen killed during combat operations.The US pulled all its combat troops out of Bagram Air Base on Thursday evening but 650 US troops will remain as security for the embassy.Australia has withdrawn its last remaining troops from Afghanistan ahead of the September 11 deadline.
+
+
+***
+![Best cheap gaming laptop deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/msi-gs75-stealth_review_6.jpg "Best cheap gaming laptop deals for July 2021")
+
+
+[Best cheap gaming laptop deals for July 2021](https://www.digitaltrends.com/dtdeals/best-cheap-gaming-laptop-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. In decades past, if you wanted a good gaming PC, you were pretty much relegated to a desktop tower. And while those are still great, times have changed: Even the best gaming laptops have become increasingly affordable, bridging the gap between them and their desktop counterparts in terms of both power and price, and if you're in the market for a new portable gaming PC, you're in luck. We've corralled all of the week's best cheap gaming laptop deals right here in one place.
+
+
+***
+![170 crypto scam apps spotted stealing money – See the list](https://www.komando.com/wp-content/uploads/2021/07/kk-article-20210711-170-crypto-scam-apps-spotted-stealing-money-1200x675-1-970x546.jpg "170 crypto scam apps spotted stealing money – See the list")
+
+
+[170 crypto scam apps spotted stealing money – See the list](https://www.komando.com/news/crypto-scam-apps-stealing-money/797720/)
+
+
+> These malicious apps promised cloud crypto mining services in exchange for payment.
+
+
+***
+![How to convert your old Mac into a custom video streaming service with Plex](https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Plex_Featured_Derek.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "How to convert your old Mac into a custom video streaming service with Plex")
+
+
+[How to convert your old Mac into a custom video streaming service with Plex](https://9to5mac.com/2021/07/10/how-to-convert-old-mac-into-custom-video-streaming-service-plex/)
+
+
+> With the power of current Apple Silicon based Macs, and the next generation Apple Silicon computers that could be coming later this year, plenty of Intel-based computers will be left without a purpose. So why not convert your old computer into your own Netflix-like streaming service using Plex? While making your own streaming service may seem like a challenging process, it's made easy with the use of Plex. There are two types of software for Plex, the server and the client. The server software is installed on a machine that stores copies of any Movies, Music, or TV Shows that you want to share.
+
+
