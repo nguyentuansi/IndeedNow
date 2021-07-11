@@ -39975,3 +39975,53 @@
 > If you thought $870,000 was a lot to spend on a copy of The Legend of Zelda then you're not going to believe this latest development from the world of video game auctions.Super Mario 64, the beloved and top-selling Nintendo 64 launch game, sold at auction for $1,560,000. Yes, on the same day that one of Earth's billionaires launched into space on the wings of a weird, self-aggrandizing infomercial livestream, another person elsewhere on the planet decided that a 25-year-old video game was worth well over $1 million.
 
 
+***
+![How top convert decimal to roman numeral in java](https://external-preview.redd.it/58HJ17911XHxPk-7iZiqK1dyoD-40U_703ll3Bj0K50.jpg?auto=webp&s=ff02ba542ebde4276efc575749de735b5a4f0c82 "How top convert decimal to roman numeral in java")
+
+
+[How top convert decimal to roman numeral in java](https://www.reddit.com/r/programming/comments/oidkfe/how_top_convert_decimal_to_roman_numeral_in_java/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Suns vs Bucks live stream: how to watch game 3 NBA Final online from anywhere](https://cdn.mos.cms.futurecdn.net/8r2Z646jDTbbWsXD66y52h-1200-80.jpg "Suns vs Bucks live stream: how to watch game 3 NBA Final online from anywhere")
+
+
+[Suns vs Bucks live stream: how to watch game 3 NBA Final online from anywhere](https://www.techradar.com/news/suns-vs-bucks-live-stream-how-to-watch-game-3-nba-final-online-from-anywhere)
+
+
+> While both the Suns and Bucks have changed over 50 years of history by making it this far, over the past two games Phoenix's togetherness has outshone the Bucks, who still look more like a one-man band. The prospect of CP3 finally capturing the prize he deserves is drawing closer – but ruling out Milwaukee so soon would still be a foolish play. Read on as we explain how to get a Bucks vs Suns live stream and watch the NBA Playoff Final series online from anywhere.After 123 playoff games, the wait for an NBA Finals appearance came to an end for Chris Paul, but he's not the only player competing for the Larry O'Brien Championship Trophy for the first time - far from it.
+
+
+***
+![POS hardware: how to find the best retail equipment for your business](https://cdn.mos.cms.futurecdn.net/QQsMDgJNPExxJNGufbnqWi-1200-80.jpg "POS hardware: how to find the best retail equipment for your business")
+
+
+[POS hardware: how to find the best retail equipment for your business](https://www.techradar.com/news/pos-hardware-how-to-find-the-best-retail-equipment-for-your-business)
+
+
+> Transactions that take place at the point of sale are powered by two key components: software and hardware. The software is the program that facilitates the point of sale process. It allows cashiers to ring up sales, and it records transactions and stock levels in the system. POS software is undoubtedly essential in any point of sale transaction, but it won't function without the hardware.Why get a food truck POS system quote from us?• Save Time – Get up to four quotes from our selected suppliers by filling in just one form• Save Money – Save money by comparing quotes and choosing the most competitive offer• Free and No Obligation – Our service is 100% free and with no obligation to buyThink of it this way: software represents the brains of the POS process, while hardware serves as the body.
+
+
+***
+![Best (quickest and most reliable) way to transfer from old iMac to new M1-iMac](https://images.macrumors.com/social/?t=2303936&v=6 "Best (quickest and most reliable) way to transfer from old iMac to new M1-iMac")
+
+
+[Best (quickest and most reliable) way to transfer from old iMac to new M1-iMac](https://forums.macrumors.com/threads/best-quickest-and-most-reliable-way-to-transfer-from-old-imac-to-new-m1-imac.2303936/)
+
+
+> I have a 2019 iMac running Big Sur (11.4) and awaiting - somewhat patiently - the arrival of a new M1-iMac. As the title states - what is the fastest and most reliable way to transfer from my old iMac to the new one? I plan on transferring everything that is on the old HD. (My Music library and Photos Library are on an external HD. Documents are in iCloud in addition to being on the old iMac HD.) I have read several suggestions - even went so far to purchase a Thunderbolt/USB3 to TB/USB3 cable as both computers have USB3 ports.
+
+
+***
+![The Nuclear Option: A Personal Story of Treating Social Anxiety with 5-MeO-DMT](https://psychedelictimes.com/wp-content/uploads/2016/10/800px-TJ_aerial.jpg "The Nuclear Option: A Personal Story of Treating Social Anxiety with 5-MeO-DMT")
+
+
+[The Nuclear Option: A Personal Story of Treating Social Anxiety with 5-MeO-DMT](https://psychedelictimes.com/nuclear-option-personal-story-of-treating-social-anxiety-with-5-meo-dmt/)
+
+
+> Photo by Jason Pratt Jacob was finally fed up with his debilitating social anxiety. As a successful businessman with a wife and kids, he had achieved what most people would call success, but for some reason his anxiety levels and social awkwardness seemed to be getting worse by the year. Having exhausted conventional treatment routes, Jacob started investigating alternative approaches—including the use of psychedelics. Jacob had never tried psychedelics before in his life. He considered himself a logical rationalist with a self-described 'zero tolerance for woo-woo,' so when his search for social anxiety treatment lead him to a psychospiritual retreat center in Mexico, referred to him by Psychedelic Times, he felt completely out of his element.
+
+
