@@ -40069,3 +40069,50 @@
 > Montreal/Madrid-based international sales and distribution company Pink Parrot Media (PPM) has secured several new theatrical sales for the multi-award-winning 3D animated feature Trash, from Italy’s Al One Srl. The 88 minute, beautifully animated, eco-conscious film is heading to the U.K. with Signature, CIS & Baltics (Top Film), Taiwan (Muse) and Spain (Paycom) under the newly […]
 
 
+***
+![Cristiano Ronaldo Takes Home Alipay Top Scorer Trophy at UEFA EURO 2020](https://mms.businesswire.com/media/20210711005035/en/890597/23/F005.jpg "Cristiano Ronaldo Takes Home Alipay Top Scorer Trophy at UEFA EURO 2020")
+
+
+[Cristiano Ronaldo Takes Home Alipay Top Scorer Trophy at UEFA EURO 2020](https://www.businesswire.com/news/home/20210711005035/en/Cristiano-Ronaldo-Takes-Home-Alipay-Top-Scorer-Trophy-at-UEFA-EURO-2020)
+
+
+> July 11, 2021 10:08 PM Eastern Daylight Time HANGZHOU, China--(BUSINESS WIRE)--Portuguese football star Cristiano Ronaldo today became the winner of the Gold Trophy of the Alipay Top Scorer Awards at UEFA EURO 2020. Regarded as one of the greatest footballers of all time, Ronaldo netted five goals and made one assist at the competition. Patrik Schick from the Czech Republic was awarded the Silver Trophy, scoring five goals, while France's Karim Benzema was the recipient of the Bronze Trophy, netting four goals.
+
+
+***
+[Enumerations and Class Enumerations in C++ 👋](https://www.reddit.com/r/programming/comments/oihjuq/enumerations_and_class_enumerations_in_c/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The weekly Console email just went out! This week we had the insanely talented Eric Zhang (formerly of Nvidia and Scale.ai, currently at Harvard) on to discuss his new collaborative editing project Rustpad!](https://external-preview.redd.it/ZGfEDUrg1JgElfm3FeyiLGM4t3EcLEeMLrWkEWKbqmw.jpg?auto=webp&s=fb410af0b5c69148fe8094602b2bcbdbffd11791 "The weekly Console email just went out! This week we had the insanely talented Eric Zhang (formerly of Nvidia and Scale.ai, currently at Harvard) on to discuss his new collaborative editing project Rustpad!")
+
+
+[The weekly Console email just went out! This week we had the insanely talented Eric Zhang (formerly of Nvidia and Scale.ai, currently at Harvard) on to discuss his new collaborative editing project Rustpad!](https://www.reddit.com/r/programming/comments/oihhps/the_weekly_console_email_just_went_out_this_week/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Why Safari has more issues than other browsers?](https://images.macrumors.com/social/?t=2303947&v=6 "Why Safari has more issues than other browsers?")
+
+
+[Why Safari has more issues than other browsers?](https://forums.macrumors.com/threads/why-safari-has-more-issues-than-other-browsers.2303947/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![How to find out if your medical alert system is covered by Medicare](https://cdn.mos.cms.futurecdn.net/WHVKunCfnBSwDwcfgWFTLN-1200-80.jpg "How to find out if your medical alert system is covered by Medicare")
+
+
+[How to find out if your medical alert system is covered by Medicare](https://www.techradar.com/how-to/how-to-find-out-if-your-medical-alert-system-is-covered-by-medicare)
+
+
+> If you are a senior, or you have a health condition that should be monitored, a medical alert system covered by Medicare can save you money. Statistics show that after the age of 65, six out of ten people will visit a hospital emergency room because of a fall. Other benefits of medical alert systems include: ✔ Lowered anxiety and confidence in fall detection systems✔ Faster access to help in a medical emergency✔ Better communication about your health to friends and familyThis article tells you how to find out if your medical alert system is covered by Medicare.
+
+
