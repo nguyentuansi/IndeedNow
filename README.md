@@ -40497,3 +40497,50 @@
 > July 12, 2021 01:46 PM Eastern Daylight Time SEATTLE--(BUSINESS WIRE)--Glowforge, the Seattle-based company that designs and produces iconic 3D laser printers for home and small business use, today announced that it has hired Megan Lutes as general counsel. Lutes joins the leadership team at Glowforge at a period of rapid growth and will lead the company's legal function. 'Glowforge has a vision to create a world where anyone can print anything,' said Glowforge founder and CEO, Dan Shapiro. 'This is a big vision that has led us to rapid growth and allowed us to develop a large and enthusiastic customer base, but there is a lot of work ahead to make that vision a reality.
 
 
+***
+![These are the best USB-C cables you can find for Android Auto](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/07/new-android-auto-app-launcher-2.jpg "These are the best USB-C cables you can find for Android Auto")
+
+
+[These are the best USB-C cables you can find for Android Auto](https://www.androidcentral.com/best-usb-c-cables-android-auto)
+
+
+> Best USB-C cables for Android Auto Android Central 2021 Finding the best Android Auto USB-C cables means looking for a few specific qualities. The cable needs to be able to withstand bends, sudden removals, spills, and so much more. Whether you are learning how to use Android Auto for the first time or are a seasoned veteran, there's always a reason to get a new, or extra, cable. We have found some of the best USB-C cables that you can get for Android Auto. Staff Pick Anker's charging cables are practically unmatched in terms of quality and value.
+
+
+***
+![The cheapest OLED TV deals and prices for July 2021](https://cdn.mos.cms.futurecdn.net/hLXB9r7V7QUT25ojQaWwFa-1200-80.jpg "The cheapest OLED TV deals and prices for July 2021")
+
+
+[The cheapest OLED TV deals and prices for July 2021](https://www.techradar.com/deals/best-oled-tv-prices-deals)
+
+
+> OLED TV deals offer the perfect way to pick up one of the best displays on the market for less. And when you take a look at OLED TV prices without those discounts, you'll see why sales are such an important part of picking up a high-end screen. You can save plenty of cash this week, as we've rounded up all the latest OLED TV deals in the US and UK. We've scoured through all your favorite retailers like Best Buy, Walmart, and Amazon to find the best discounts and the highest value sets on offer right now, so you can enjoy OLED technology as well as the satisfaction of a saving.
+
+
+***
+![Galaxy Z Fold 3 And Z Flip 3 Prices get Tipped Yet Again](https://www.androidheadlines.com/wp-content/uploads/2021/05/Galaxy-Z-Flip-3-render-based-on-leaks-3-2.jpg "Galaxy Z Fold 3 And Z Flip 3 Prices get Tipped Yet Again")
+
+
+[Galaxy Z Fold 3 And Z Flip 3 Prices get Tipped Yet Again](https://www.androidheadlines.com/2021/07/galaxy-z-fold-3-and-z-flip-3-prices-get-tipped-yet-again.html)
+
+
+> The prices of the new Samsung Galaxy foldable phones is a hot topic among the tech community. The Galaxy Z Fold 3 and the Galaxy Z Flip 3 are going to be launched soon, and we all know that they're going to be north of a thousand dollars when they launch. Following a recent price leak, we have word of another possible price that these phones could launch at.The Galaxy Z Flip 3 might be the least expensive foldable to launch yetThis new leak came from a blog post on the Korean site Naver. It cuts to the chase and shows the prices that the phones are expected to launch at.
+
+
+***
+![Microsoft Teams will soon let you use your phone like an old-school walkie talkie](https://cdn.mos.cms.futurecdn.net/Mh9wfbnK2D9rksqLyAs7W4-1200-80.jpg "Microsoft Teams will soon let you use your phone like an old-school walkie talkie")
+
+
+[Microsoft Teams will soon let you use your phone like an old-school walkie talkie](https://www.techradar.com/news/microsoft-teams-will-soon-let-you-use-your-phone-like-an-old-school-walkie-talkie)
+
+
+> (Image credit: Microsoft) Staying in touch with your coworkers when you're out in the field on a job is about to get a whole lot easier for firstline workers as Microsoft will soon roll out push-to-talk walkie talkie functionality in Microsoft Teams.According to a new post on the Microsoft 365 Roadmap, the new feature will be available worldwide in September after being revealed in a post on the Microsoft Teams User Feedback Forum last November.Once the feature rolls out, Teams users will be able to transform their smartphone or tablet into a walkie talkie that can work over both a cellular or wireless connection.
+
+
+***
+[Warner Bros. to give away 91,000 limited-edition NFTs featuring characters from Space Jam: A New Legacy, the biggest drop of NFTs for a film to date (Todd Spangler/Variety)](http://www.techmeme.com/210712/p26#a210712p26)
+
+
+> Todd Spangler / Variety: Warner Bros. to give away 91,000 limited-edition NFTs featuring characters from Space Jam: A New Legacy, the biggest drop of NFTs for a film to date — The loony-tunes world of digital collectibles known as NFTs is now getting actual Looney Tunes. — Warner Bros., in the biggest drop of NFTs …
+
+
