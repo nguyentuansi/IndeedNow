@@ -40447,3 +40447,53 @@
 > On Monday, shares of Lithium Americas (NYSE:LAC) saw unusual options activity. After the option alert, the stock price moved up to $15.65. Sentiment: BULLISH Option Type: TRADE Trade Type: CALL Expiration Date: 2021-11-19 Strike Price: $10.00 Volume: 560 Open Interest: 2603 Three Indications Of Unusual Options Activity Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
 
 
+***
+![Technology Trends To Keep On Your Radar In The Second Half Of 2021](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/startup-3267505_1920_1.jpg "Technology Trends To Keep On Your Radar In The Second Half Of 2021")
+
+
+[Technology Trends To Keep On Your Radar In The Second Half Of 2021](https://www.benzinga.com/tech/21/07/21942550/technology-trends-to-keep-on-your-radar-in-the-second-half-of-2021)
+
+
+> The year 2020 was nothing short of an interesting one. The COVID-19 pandemic has meant that we rely on technology more than ever before to keep on top of our lives and work. Now that we are in 2021, technology is once again playing a big role in the reopening of the world.  The first half of the year saw more attention being paid to blockchain technology, 5G, and AR, but what does the second half hold? Here are some of the tech trends to keep an eye out for in Q2: DeFi Connectivity:  In terms of the blockchain and crypto space, this year has been all about Decentralised Finance (DeFi) and that shows no sign of stopping.
+
+
+***
+![Cooler Master's GamePod is a gaming chair ripped straight from a sci-fi movie](https://icdn.digitaltrends.com/image/digitaltrends/gamepod-02-hero.jpg "Cooler Master's GamePod is a gaming chair ripped straight from a sci-fi movie")
+
+
+[Cooler Master's GamePod is a gaming chair ripped straight from a sci-fi movie](https://www.digitaltrends.com/computing/cooler-master-cmix-gamepod-workstation-announcement/)
+
+
+> Calling the Orb X GamePod a gaming chair is a bit reductive. The egg-like design of this all-in-one PC battle station looks like it was ripped straight from a sci-fi flick. Cooler Master unveiled the new Orb X gaming chair during its Cooler Master Summit, and its eye-catching design isn't its only stand-out feature. The chair is fit with a recliner, mounts for up to three monitors, surround sound speakers, and enough RGB to make even the most seasoned PC gamers blush. Cooler Master The heart of the Orb X is a recliner with an adjustable keyboard stand.
+
+
+***
+![I created a Computer Vision-Based Rabbit Deterrence System in Python](https://external-preview.redd.it/GuCJNZoEuBS-hgP_wiDXErBmPhXpc9U8lRUXbOJqB0Q.jpg?auto=webp&s=c5368bde3d36b5477817e7c74c2fa3dbb6f9912a "I created a Computer Vision-Based Rabbit Deterrence System in Python")
+
+
+[I created a Computer Vision-Based Rabbit Deterrence System in Python](https://www.reddit.com/r/Python/comments/oiwg81/i_created_a_computer_visionbased_rabbit/)
+
+
+> So, I noticed there were a bunch of bunnies in my backyard and so I decided to create a Rabbit deterrence system using computer vision (in Python!). Essentially how it works is that there is a Raspberry Pi with a camera that monitors my backyard. Using an object detection model, I am able to detect when there is a rabbit next to my garden and when there is, I play a sound (such as a baby crying or a car passing by) via a Bluetooth speaker which will then spook off the rabbit. I ended up documenting the whole process from start to end and, well, this is what I ended up with:Video Documenting the Process: https://youtu.
+
+
+***
+![Virgin Galactic Stock Fails At Important Resistance: Is A New Downtrend Forming?](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/virgin_galactic_in_space1_16.jpg?width=720 "Virgin Galactic Stock Fails At Important Resistance: Is A New Downtrend Forming?")
+
+
+[Virgin Galactic Stock Fails At Important Resistance: Is A New Downtrend Forming?](https://www.benzinga.com/trading-ideas/technicals/21/07/21938770/virgin-galactic-stock-fails-at-important-resistance-is-a-new-downtrend-forming)
+
+
+> Despite a significant amount of hype leading up to this weekend's spaceflight launch, shares of Virgin Galactic Holdings, Inc. (NYSE:SPCE) have failed at important resistance after the company filed or a $500 million shelf offering of common stock. Now a new downtrend seems to be forming. Resistance is a large group of sellers who are all trying to sell their shares around the same price. In this case, it's $57.50. At resistance levels, there is more supply than demand. That's why rallies end and sometimes reverse when they reach them.
+
+
+***
+![Glowforge Hires Megan Lutes as General Counsel](http://www.businesswire.com/images/bwlogo_square.png "Glowforge Hires Megan Lutes as General Counsel")
+
+
+[Glowforge Hires Megan Lutes as General Counsel](https://www.businesswire.com/news/home/20210712005714/en/Glowforge-Hires-Megan-Lutes-as-General-Counsel)
+
+
+> July 12, 2021 01:46 PM Eastern Daylight Time SEATTLE--(BUSINESS WIRE)--Glowforge, the Seattle-based company that designs and produces iconic 3D laser printers for home and small business use, today announced that it has hired Megan Lutes as general counsel. Lutes joins the leadership team at Glowforge at a period of rapid growth and will lead the company's legal function. 'Glowforge has a vision to create a world where anyone can print anything,' said Glowforge founder and CEO, Dan Shapiro. 'This is a big vision that has led us to rapid growth and allowed us to develop a large and enthusiastic customer base, but there is a lot of work ahead to make that vision a reality.
+
+
