@@ -40300,3 +40300,53 @@
 > (Image credit: Samsung) Samsung has discreetly launched a web version of its Samsung TV Plus streaming service. This ad-supported streaming app was previously exclusive to Samsung smart TVs and phones, but a web version means that anyone with access to a browser can check out Samsung TV Plus, and you can do so entirely free of charge.Reported by Protocol, Samsung TV Plus's web version looks to have soft-launched in May 2021 in certain regions, and has yet to be formally announced by Samsung itself.
 
 
+***
+![You can see the Moon, Mars and Venus in a line with NAKED eye tonight in rare spectacle](https://www.thesun.co.uk/wp-content/uploads/2021/07/ACP-12-07-COMP-MOON-CONGA-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "You can see the Moon, Mars and Venus in a line with NAKED eye tonight in rare spectacle")
+
+
+[You can see the Moon, Mars and Venus in a line with NAKED eye tonight in rare spectacle](https://www.thesun.co.uk/tech/15569305/moon-mars-venus-together-stargazing/)
+
+
+> THERE'S a chance to see Mars, the Moon and Venus lining up near each other in the sky this evening. Stargazers will need to look to the western horizon just after sunset. Venus and Mars will appear beneath the Moon this eveningCredit: The Cosmic Companion How to spot the Moon, Mars and Venus Weather depending, you should be able to spot the Moon first. It will look like a thin slim crescent in the western sky just after sunset. Venus will shine like a bright star to the right and just below the Moon.
+
+
+***
+![The Station: Rimac-Bugatti is born, Tesla releases FSD beta v9 and Ola raises $500M – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/TEDDY.jpg?w=533 "The Station: Rimac-Bugatti is born, Tesla releases FSD beta v9 and Ola raises $500M – TechCrunch")
+
+
+[The Station: Rimac-Bugatti is born, Tesla releases FSD beta v9 and Ola raises $500M – TechCrunch](https://techcrunch.com/2021/07/12/the-station-rimac-bugatti-is-born-tesla-releases-fsd-beta-v9-and-ola-raises-500m/)
+
+
+> Hello and welcome to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B.I'm back from my road trip and swimming in emails. If you sent me a message on Twitter, email or pigeon post, please give me a few days to dig out of the pile that awaits me.You might recall that I mentioned I was off to do some backpacking and climbing in Grand Teton National Park and then eventually would make it to Yellowstone National Park. Yes, the crowds were real, especially for those who stuck to the traditional schedule of sightseeing between 9 a.
+
+
+***
+![MedMe Health (YC W21) Is Hiring Designers and Engineers](https://bookface-images.s3.amazonaws.com/logos/9ad52ecdf5a20b7984115d63f5f7eb2f777e9965.png?1607032375 "MedMe Health (YC W21) Is Hiring Designers and Engineers")
+
+
+[MedMe Health (YC W21) Is Hiring Designers and Engineers](https://www.ycombinator.com/companies/medme-health)
+
+
+> MedMe Health builds software for pharmacists to deliver paid clinical services like prescribing/adapting medications, point-of-care testing, giving vaccinations, and monitoring chronic conditions. Our web-based platform helps both independent pharmacies and large chains schedule appointments online, conduct virtual care, automate documentation, and flag clinical opportunities. With MedMe, our customers have increased their efficiency of clinical service delivery by 10x and increased pharmacy revenue with the same staff.
+
+
+***
+![Fitbit Luxe vs. Fitbit Inspire 2: Which is right for you?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/fitbit-luxe-lifestyle.jpg "Fitbit Luxe vs. Fitbit Inspire 2: Which is right for you?")
+
+
+[Fitbit Luxe vs. Fitbit Inspire 2: Which is right for you?](https://www.imore.com/fitbit-luxe-vs-fitbit-inspire-2)
+
+
+> The Fitbit Luxe is a beautifully designed health and fitness tracker that will appeal to the fashionista. The metal case gives it more of a jewelry look than most of the Fitbit lineup. The color display gives your health tracking a whole new look. From $150 at Amazon Full-featured health and fitness tracker Jewelry look AMOLED Color display Smartwatch notifications This competent tracker covers most of your health monitoring and fitness tracking needs while maintaining a minimalist form factor, a whopping 10-day battery life, and a lower price tag.
+
+
+***
+![Use these apps to keep track of your running sessions](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/04/wyze-band-hero.jpg "Use these apps to keep track of your running sessions")
+
+
+[Use these apps to keep track of your running sessions](https://www.androidcentral.com/best-running-apps-android)
+
+
+> Source: Jeramy Johnson / Android Central For many of us, running is hard work. Maybe it's a motivation thing, or perhaps it's a physical thing. Whatever the reason, the simple fact is that running is exercise, and exercise can be a real pain. We're looking at some of the best running apps for Android, and we've got a few different kinds of apps here. Some are more of the hard-core variety, for folks used to exercise who may be looking to increase and improve the way they do things. The best part about most of these apps is that they can integrate with the best fitness trackers, so you can have all of your workout information in one place.
+
+
