@@ -40025,3 +40025,47 @@
 > Photo by Jason Pratt Jacob was finally fed up with his debilitating social anxiety. As a successful businessman with a wife and kids, he had achieved what most people would call success, but for some reason his anxiety levels and social awkwardness seemed to be getting worse by the year. Having exhausted conventional treatment routes, Jacob started investigating alternative approaches—including the use of psychedelics. Jacob had never tried psychedelics before in his life. He considered himself a logical rationalist with a self-described 'zero tolerance for woo-woo,' so when his search for social anxiety treatment lead him to a psychospiritual retreat center in Mexico, referred to him by Psychedelic Times, he felt completely out of his element.
 
 
+***
+!["Cola dripping from the faucet"... Chuncheon's 'tap water crisis' in the sweltering heat](https://img.sbs.co.kr/newimg/news/20210712/201570041_1280.jpg ""Cola dripping from the faucet"... Chuncheon's 'tap water crisis' in the sweltering heat")
+
+
+["Cola dripping from the faucet"... Chuncheon's 'tap water crisis' in the sweltering heat](https://www.tellerreport.com/tech/2021-07-12-"cola-dripping-from-the-faucet"----chuncheon-s--tap-water-crisis--in-the-sweltering-heat.S1pju-Yad.html)
+
+
+> In Chuncheon, Gangwon-do, the tap water supply has not been properly provided for several days, causing great inconvenience to citizens. A sink full of black water like Coke. Also, blue water like an ionic drink comes out from the faucet. In Chuncheon, Gangwon-do, the tap water supply has not been properly provided for several days, causing great inconvenience to citizens. A sink full of black water like Coke. Also, blue water like an ionic drink comes out from the faucet. These are photos posted by Chuncheon citizens on an online community last weekend, and it happened when the water purification plant that supplies water in Chuncheon city was broken.
+
+
+***
+[Microsoft Deals: Get Windows 10 From $15, Office From $28, And Much More](https://www.redmondpie.com/microsoft-deals-get-windows-10-from-15-office-from-28-and-much-more/)
+
+
+> We've all bought copies of Windows and Office and felt like we were paying over the odds. It can be even worse when you need to buy them both together. The post Microsoft Deals: Get Windows 10 From $15, Office From $28, And Much More first appeared on Redmond Pie. [ Continue reading this over at RedmondPie.com ]
+
+
+***
+![Two devilish new cars headed our way](https://content.api.news/v3/images/bin/5ad48838ba2067dc18761dcfb067b953 "Two devilish new cars headed our way")
+
+
+[Two devilish new cars headed our way](https://www.news.com.au/technology/motoring/motoring-news/hyundai-i20n-and-kona-n-due-in-australia-in-2021/news-story/55ca1f1e15f4a4ee37a8567a558fb060)
+
+
+> Australians are about to be treated to two all-new performance cars in 2021 that are hellishly fast and won't break the bank.Hyundai is experiencing a baby performance-car boom.The South Korean brand is tripling its N performance range with the addition of the pint-size i20 N hot hatch and Kona N small SUV. These are joining the popular i30N hot hatch, which was named News Corp Australia's 2018 Car of the Year.The Kona N is the first to arrive, due in the coming months, with prices starting from $47,500 (plus on-roads).
+
+
+***
+![Did the government's real estate measures have an impact on 'Hannam The Hill'?](https://img.sbs.co.kr/newimg/news/20210712/201570038_1280.jpg "Did the government's real estate measures have an impact on 'Hannam The Hill'?")
+
+
+[Did the government's real estate measures have an impact on 'Hannam The Hill'?](https://www.tellerreport.com/tech/2021-07-11-did-the-government-s-real-estate-measures-have-an-impact-on--hannam-the-hill--.SJZ8dVbFTu.html)
+
+
+> It is a real-time e-news that looks at the news that became a hot topic on the Internet overnight. Seoul's 'Hannam The Hill', with a high price of 8.2 billion won and a total transaction value of 2.1 trillion won, is considered the most expensive apartment in Seoul. It is a real-time e-news that looks at the news that became a hot topic on the Internet overnight. Seoul's 'Hannam The Hill', with a high price of 8.2 billion won and a total transaction value of 2.1 trillion won, is considered the most expensive apartment in Seoul.
+
+
+***
+[Cannes: Pink Parrot Scores Pick-Ups for ‘Trash'](https://www.animationmagazine.net/features/cannes-pink-parrot-scores-pick-ups-for-trash/)
+
+
+> Montreal/Madrid-based international sales and distribution company Pink Parrot Media (PPM) has secured several new theatrical sales for the multi-award-winning 3D animated feature Trash, from Italy’s Al One Srl. The 88 minute, beautifully animated, eco-conscious film is heading to the U.K. with Signature, CIS & Baltics (Top Film), Taiwan (Muse) and Spain (Paycom) under the newly […]
+
+
