@@ -40213,3 +40213,50 @@
 > By: FE Online | July 12, 2021 11:07 AMThe Sony Centre has said that the delivery of allotted stock would likely begin from July 21Sony PlayStation 5 restock in India: Sony Playstation 5 will be back in stock today (July 12, 2021). Yes, you read it right. Video gaming enthusiasts are set to get another chance to get their hands on Sony's next-gen gaming console, and both the variants would be up for grabs – the Blu-ray-equipped PS5 as well as the disc-less counterpart PS5 Digital Edition. Customers would be able to pre-order the consoles.
 
 
+***
+[Technical analysis: EUR/USD ticks marginally down before meeting 20-day SMA [Video]](https://forextv.com/euro-eur/technical-analysis-eur-usd-ticks-marginally-down-before-meeting-20-day-sma-video/)
+
+
+> EUR/USD rebounded off the 1.1780 support level, trying to meet the short-term 20-day simple moving average (SMA). However, today, the pair is losing some steam, driving the RSI lower in the negative … Read Full Story at source (may require registration) The post Technical analysis: EUR/USD ticks marginally down before meeting 20-day SMA [Video] appeared first on ForexTV.
+
+
+***
+![Nothing ear (1) earbuds to cost Rs 5,999 on Flipkart in India](https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/29/full/1624945992-9441.jpg "Nothing ear (1) earbuds to cost Rs 5,999 on Flipkart in India")
+
+
+[Nothing ear (1) earbuds to cost Rs 5,999 on Flipkart in India](https://www.business-standard.com/article/technology/nothing-ear-1-earbuds-to-cost-rs-5-999-on-flipkart-in-india-121071200464_1.html)
+
+
+> Consumer tech brand Nothing on Monday said that its first true wireless earbuds -- Nothing ear (1) -- will cost Rs 5,999 in India, as the wireless hearable market goes through a transformation in the country. Available on Flipkart after its official launch globally on July 27, Nothing ear (1) features state-of-the-art Active Noise Cancellation (ANC) which uses three high definition mics to bring music, films and podcasts into sharp focus. The London-based brand, headed by OnePlus co-founder Carl Pei, earlier announced the global price of the earbuds at 99 pounds.
+
+
+***
+![How Software Development Companies Can Leverage Flutter to Build Better Mobile Apps](https://external-preview.redd.it/_f-ZKOVBfUa_u4_kFBSP73xLDATY4mb7mjMwWM_uiv4.jpg?auto=webp&s=f4ebee244f1664f2480a99c28b87fa514e6b4640 "How Software Development Companies Can Leverage Flutter to Build Better Mobile Apps")
+
+
+[How Software Development Companies Can Leverage Flutter to Build Better Mobile Apps](https://www.reddit.com/r/programming/comments/oimlym/how_software_development_companies_can_leverage/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Apple to (finally) launch a redesigned iPad mini this fall](https://helios-i.mashable.com/imagery/articles/06UEmHxwsgL2SI8wcigfTJi/hero-image.fill.size_1200x675.jpg "Apple to (finally) launch a redesigned iPad mini this fall")
+
+
+[Apple to (finally) launch a redesigned iPad mini this fall](https://mashable.com/article/ipad-mini-redesign-fall)
+
+
+> Look, it's time. The iPad mini has been unfairly neglected, with a design that essentially hasn't changed since the first model that came out in 2012. And the last one, the fifth-generation iPad mini, came out in March 2019. It's time for a thorough redesign, and according to Bloomberg's Mark Gurman in his latest newsletter, it's happening this fall. According to Gurman, the new iPad mini "should be a go" to launch this fall. It'll be the "biggest redesign" in the device's history, though that doesn't tell us much since the redesigns so far have been absolutely tiny.
+
+
+***
+![Tech Mahindra to launch blockchain-based system to track vaccine supply](https://www.thehindu.com/sci-tech/technology/t3cymm/article35275210.ece/ALTERNATES/LANDSCAPE_615/vaccine-supply-APjpg "Tech Mahindra to launch blockchain-based system to track vaccine supply")
+
+
+[Tech Mahindra to launch blockchain-based system to track vaccine supply](https://www.thehindu.com/sci-tech/technology/tech-mahindra-to-launch-blockchain-based-system-to-track-vaccine-supply/article35275149.ece)
+
+
+> IT firm Tech Mahindra has said it will roll out a blockchain-based open source system to track vaccine supply chains worldwide.(Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)The Pune-based company has partnered with startup StaTwig to implement ‘VaccineLedger' globally. 'The partnership aims to roll out blockchain-based traceability solution for global vaccine supply chain transparency, predict and prevent failures in supply chains, including problems related to expired vaccines, stock out and counterfeiting,' the company said in a statement.
+
+
