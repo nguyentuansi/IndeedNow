@@ -40260,3 +40260,43 @@
 > IT firm Tech Mahindra has said it will roll out a blockchain-based open source system to track vaccine supply chains worldwide.(Subscribe to our Today's Cache newsletter for a quick snapshot of top 5 tech stories. Click here to subscribe for free.)The Pune-based company has partnered with startup StaTwig to implement ‘VaccineLedger' globally. 'The partnership aims to roll out blockchain-based traceability solution for global vaccine supply chain transparency, predict and prevent failures in supply chains, including problems related to expired vaccines, stock out and counterfeiting,' the company said in a statement.
 
 
+***
+![Richard Branson filmed FLOATING around spaceship cabin 250,000 feet above Earth in historic flight](https://www.thesun.co.uk/wp-content/uploads/2021/07/NINTCHDBPICT000665346194.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Richard Branson filmed FLOATING around spaceship cabin 250,000 feet above Earth in historic flight")
+
+
+[Richard Branson filmed FLOATING around spaceship cabin 250,000 feet above Earth in historic flight](https://www.thesun.co.uk/tech/15567490/richard-branson-floating-in-space-virgin-galactic/)
+
+
+> BILLIONAIRE Richard Branson has made history after successfully reaching space in his commercial Virgin Galactic spaceplane. The 70-year-old can be seen floating around in zero gravity on passenger rocket plane VSS Unity. A weightless Sir Richard in the spacecraftCredit: Virgin Galactic Branson floated around for a few minutes with his crewCredit: Virgin Galactic Branson reached space before his rivals Elon Musk and Jeff Bezos. Ex Amazon CEO and Blue Origin chief Bezos is planning his own space flight later this month.
+
+
+***
+![Bitcoin price – live: ‘Buy signal incoming', crypto market indicator hints](https://static.independent.co.uk/2021/07/12/09/bitcoin%20price%20latest%202021%20today.jpg?width=1200&auto=webp&quality=75 "Bitcoin price – live: ‘Buy signal incoming', crypto market indicator hints")
+
+
+[Bitcoin price – live: ‘Buy signal incoming', crypto market indicator hints](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-latest-crypto-ethereum-b1882455.html)
+
+
+> Bitcoin has recovered from a mini flash crash at the end of last week and is back trading above $34,000 on Monday.The price rebound has had a knock-on effect for the broader crypto market, with Binance Coin, Ripple (XRP) and dogecoin all rising by 2-5 per cent overnight. Of the leading cryptocurrencies, only Ethereum (ether) failed to make meaningful gains over the weekend.The latest movements have failed to jolt bitcoin out of its recent stasis, with the world's leading cryptocurrency moving by less than 1 per cent week-on-week.
+
+
+***
+![Why Amazon Is Naming New Warehouse Robots After Muppets](https://compote.slate.com/images/39c542aa-ed81-4818-9027-4c1a80cf02ee.jpeg?width=780&height=520&rect=1560x1040&offset=0x0 "Why Amazon Is Naming New Warehouse Robots After Muppets")
+
+
+[Why Amazon Is Naming New Warehouse Robots After Muppets](https://slate.com/technology/2021/07/amazon-warehouse-robots-muppets.html)
+
+
+> Shortly before Prime Day in June, Amazon announced it was developing two robots for its infamously demanding distribution centers. Named 'Bert' and 'Ernie' after the Sesame Street Muppets, the robots, Amazon claimed, would help relieve the physical burden of its jobs by autonomously carting materials through distribution center floors and lifting heavy totes off shelves. They were not, the company stressed, intended to increase speed or replace workers, but to improve safety and free workers for tasks 'that require…critical thinking skills.
+
+
+***
+![Samsung TV Plus is now available online, and you can try it for free](https://cdn.mos.cms.futurecdn.net/NX6SZMqDqEkcYLUXAQko3W-1200-80.jpg "Samsung TV Plus is now available online, and you can try it for free")
+
+
+[Samsung TV Plus is now available online, and you can try it for free](https://www.techradar.com/news/samsung-tv-plus-is-now-available-online-and-you-can-try-it-for-free)
+
+
+> (Image credit: Samsung) Samsung has discreetly launched a web version of its Samsung TV Plus streaming service. This ad-supported streaming app was previously exclusive to Samsung smart TVs and phones, but a web version means that anyone with access to a browser can check out Samsung TV Plus, and you can do so entirely free of charge.Reported by Protocol, Samsung TV Plus's web version looks to have soft-launched in May 2021 in certain regions, and has yet to be formally announced by Samsung itself.
+
+
