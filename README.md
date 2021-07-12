@@ -40397,3 +40397,53 @@
 > WE'VE all used Google Maps to get somewhere – but maybe you're bored of the usual voice. It's actually possible to change the navigation voice on Google Maps in seconds. Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on Facebook, WhatsApp and Instagram Go into the Google […]
 
 
+***
+![Cutting out carbon emitters with bioengineering at XTC Global Finals on July 22 – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/wp_header3.png?w=711 "Cutting out carbon emitters with bioengineering at XTC Global Finals on July 22 – TechCrunch")
+
+
+[Cutting out carbon emitters with bioengineering at XTC Global Finals on July 22 – TechCrunch](https://techcrunch.com/2021/07/12/cutting-out-carbon-emitters-with-bioengineering-at-xtc-global-finals-on-july-22/)
+
+
+> Bioengineering may soon provide compelling, low-carbon alternatives in industries where even the best methods produce significant emissions. Utilizing natural and engineered biological process has led to low-carbon textiles from Algiknit, cell-cultured premium meats from Orbillion, and fuels captured from waste emissions via LanzaTech — and leaders from those companies will be joining us on stage for the Extreme Tech Challenge Global Finals on July 22. We're co-hosting the event, with panels like this one all day and a pitch-off that will feature a number of innovative startups with a sustainability angle.
+
+
+***
+![Understanding Levi Strauss's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Understanding Levi Strauss's Unusual Options Activity")
+
+
+[Understanding Levi Strauss's Unusual Options Activity](https://www.benzinga.com/markets/options/21/07/21939911/understanding-levi-strausss-unusual-options-activity)
+
+
+> Shares of Levi Strauss (NYSE:LEVI) saw some unusual options activity on Monday. Following the unusual option alert, the stock price moved up to $28.5. Sentiment: BEARISH Option Type: TRADE Trade Type: CALL Expiration Date: 2021-07-16 Strike Price: $27.00 Volume: 200 Open Interest: 1597 Three Signs Of Unusual Options Activity One way options market activity can be considered unusual is when volume is exceptionally higher than its historical average. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![Analyzing L Brands's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Analyzing L Brands's Unusual Options Activity")
+
+
+[Analyzing L Brands's Unusual Options Activity](https://www.benzinga.com/markets/options/21/07/21939909/analyzing-l-brandss-unusual-options-activity)
+
+
+> L Brands (NYSE:LB) shares experienced unusual options activity on Monday. The stock price moved up to $77.32 following the option alert. Sentiment: BEARISH Option Type: SWEEP Trade Type: CALL Expiration Date: 2021-07-16 Strike Price: $77.50 Volume: 405 Open Interest: 191 Three Ways Options Activity Is â€˜Unusual' One way options market activity can be considered unusual is when volume is exceptionally higher than its historical average. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![Euro 2020: What could social media companies actually do about racist abuse – and would it work?](https://static.independent.co.uk/2021/07/12/14/knee.jpg?width=1200&auto=webp&quality=75 "Euro 2020: What could social media companies actually do about racist abuse – and would it work?")
+
+
+[Euro 2020: What could social media companies actually do about racist abuse – and would it work?](https://www.independent.co.uk/life-style/gadgets-and-tech/racism-england-euro-2020-social-media-b1882692.html)
+
+
+> Penalties once again brought heartbreak for England after an otherwise triumphant campaign in the Euros, as Italy won in the Euro 2020 final.Marcus Rashford, Jadon Sancho and Bukayo Saka – three young, black players – missed the penalties that would have put the cup into England's hands.In the moments that followed, a vocal minority took to social media to direct racist abuse to the players: monkey and banana emojis were commented on Saka's Instagram page, and multiple uses of the n-word were seen on Twitter, among other slurs.
+
+
+***
+![Analyzing Lithium Americas's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Analyzing Lithium Americas's Unusual Options Activity")
+
+
+[Analyzing Lithium Americas's Unusual Options Activity](https://www.benzinga.com/markets/options/21/07/21939907/analyzing-lithium-americass-unusual-options-activity)
+
+
+> On Monday, shares of Lithium Americas (NYSE:LAC) saw unusual options activity. After the option alert, the stock price moved up to $15.65. Sentiment: BULLISH Option Type: TRADE Trade Type: CALL Expiration Date: 2021-11-19 Strike Price: $10.00 Volume: 560 Open Interest: 2603 Three Indications Of Unusual Options Activity Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
