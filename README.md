@@ -40163,3 +40163,53 @@
 > We know that students tend to operate on pretty tight budgets, but let's face it: Computers aren't cheap, and the reality is that modern schoolwork requires you to have a modern laptop to do it on. Thankfully, there are always bargains out there if you know where to look, but if you're pressed for time and don't want to spend hours sorting through it all, let us save you the trouble. Below, we've got the six best student laptop deals available this month — each of which fits within a $1,000 budget limit (and most are much cheaper than that).
 
 
+***
+![Juniper Research: Mobility-as-a-Service to Displace 2.2 Billion Private Car Journeys by 2025; Driven by Public‑Private Partnerships](https://mms.businesswire.com/media/20210711005011/en/609744/21/JR_Logo_Final_RGB_300px.jpg "Juniper Research: Mobility-as-a-Service to Displace 2.2 Billion Private Car Journeys by 2025; Driven by Public‑Private Partnerships")
+
+
+[Juniper Research: Mobility-as-a-Service to Displace 2.2 Billion Private Car Journeys by 2025; Driven by Public‑Private Partnerships](https://www.businesswire.com/news/home/20210711005011/en/Juniper-Research-Mobility-as-a-Service-to-Displace-2.2-Billion-Private-Car-Journeys-by-2025-Driven-by-Public%E2%80%91Private-Partnerships)
+
+
+> BASINGSTOKE, England--(BUSINESS WIRE)--A new Juniper Research study has found that MaaS (Mobility-as-a-Service) will displace over 2.2 billion private car journeys by 2025; rising from 471 million in 2021. The concept of MaaS involves the provision of multimodal end-to-end travel services through a single platform by which users can determine the best route and price according to real-time traffic conditions and demand. The research identified government investment in public transport and public-led partnerships between MaaS vendors and transport operators as key to incentivising adoption by consumers over the next four years.
+
+
+***
+![ETL Software Market dependancy Segmentation, Analysis by Recent Trends, Development by Regions to 2026](http://technologymagazine.org/assets/imgs/news-9.jpg "ETL Software Market dependancy Segmentation, Analysis by Recent Trends, Development by Regions to 2026")
+
+
+[ETL Software Market dependancy Segmentation, Analysis by Recent Trends, Development by Regions to 2026](http://technologymagazine.org/etl-software-market-dependancy-segmentation/)
+
+
+> MarketStudyReport.com adds Global ETL Software Market research focusing on the major drivers and restraints for the key players. It also provides analysis of the market share, segmentation, revenue forecasts and geographic regions of the market. The ETL Software market report is an amgroundalertamation of the key trends influencing the industry growth with respect to the competitive scenario and regions where the business has been successful. Furthermore, the study discusses the various restraints of the industry and uncovers the opportunities that will set the growth course.
+
+
+***
+![You Can Review OnePlus Buds Pro, Nord 2 5G: Here's How to Participate](https://i.gadgets360cdn.com/large/OnePlus_Buds_pro_nord_2_lab_1626068424530.jpg "You Can Review OnePlus Buds Pro, Nord 2 5G: Here's How to Participate")
+
+
+[You Can Review OnePlus Buds Pro, Nord 2 5G: Here's How to Participate](https://gadgets.ndtv.com/audio/news/oneplus-buds-pro-nord-2-5g-the-lab-10-participants-review-how-to-participate-steps-2484536)
+
+
+> OnePlus is offering fans a change to try out the unannounced OnePlus Buds Pro true wireless stereo (TWS) earphones and OnePlus Nord 2 5G smartphone. OnePlus' The Lab programme is looking for 10 applicants each for the two products who can review them and give their feedback. The company recently announced that the OnePlus Nord 2 5G will be unveiled in India and Europe on July 22 and the OnePlus Buds Pro will be announced alongside. As of now, there is no information available on the OnePlus Buds Pro.
+
+
+***
+![All deals on GoPro Action Cameras today on Amazon](https://technosports.co.in/wp-content/uploads/2020/09/gopro-hero-9-black-1-e1600280355420.jpg "All deals on GoPro Action Cameras today on Amazon")
+
+
+[All deals on GoPro Action Cameras today on Amazon](https://technosports.co.in/2021/07/12/all-deals-on-gopro-action-cameras-today-on-amazon/)
+
+
+> Looking to buy a GoPro Action Camera? Want some great deals on GoPro products? You can now get GoPro HERO 9 and GoPro MAX for an attractive price on Amazon India with additional Bank discounts and credit card offers.Here are the deals you should definitely check out:GoPro HERO 9Deal Price: ₹ 39,490A new, larger rear touch screen with touch zoom on HERO9 Black should feel instantly familiar and a dazzling new front display makes for easy framing and intuitive camera control. Video 5K30 + 4K60, Wide FOVShoot stunning video with up to 5K resolution, perfect for maintaining serious detail even when zooming in.
+
+
+***
+![Sony PlayStation 5 back in stock in India: When and where to buy, price and everything to know](https://images.financialexpress.com/2021/07/PS5.jpg "Sony PlayStation 5 back in stock in India: When and where to buy, price and everything to know")
+
+
+[Sony PlayStation 5 back in stock in India: When and where to buy, price and everything to know](https://www.financialexpress.com/industry/technology/sony-playstation-5-back-in-stock-in-india-when-and-where-to-buy-price-and-everything-to-know/2288359/)
+
+
+> By: FE Online | July 12, 2021 11:07 AMThe Sony Centre has said that the delivery of allotted stock would likely begin from July 21Sony PlayStation 5 restock in India: Sony Playstation 5 will be back in stock today (July 12, 2021). Yes, you read it right. Video gaming enthusiasts are set to get another chance to get their hands on Sony's next-gen gaming console, and both the variants would be up for grabs – the Blu-ray-equipped PS5 as well as the disc-less counterpart PS5 Digital Edition. Customers would be able to pre-order the consoles.
+
+
