@@ -40116,3 +40116,50 @@
 > If you are a senior, or you have a health condition that should be monitored, a medical alert system covered by Medicare can save you money. Statistics show that after the age of 65, six out of ten people will visit a hospital emergency room because of a fall. Other benefits of medical alert systems include: ✔ Lowered anxiety and confidence in fall detection systems✔ Faster access to help in a medical emergency✔ Better communication about your health to friends and familyThis article tells you how to find out if your medical alert system is covered by Medicare.
 
 
+***
+![gnuplotlib: a gnuplot-based plotting library for numpy](https://external-preview.redd.it/jY1JkWmYM7tqWB5N8RQMOVT95CFU4qpwgWMgoyCDV8I.jpg?auto=webp&s=a92b1351b92b41d04c2cb252b0e920add521e0ba "gnuplotlib: a gnuplot-based plotting library for numpy")
+
+
+[gnuplotlib: a gnuplot-based plotting library for numpy](https://www.reddit.com/r/Python/comments/oijlkg/gnuplotlib_a_gnuplotbased_plotting_library_for/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[[Codeit] Learn Python for Free](https://www.reddit.com/r/programming/comments/oiji41/codeit_learn_python_for_free/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Nokia C30 with Full-HD display, single rear camera may be in works](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/nokia_3.4_b-original.jpg "Nokia C30 with Full-HD display, single rear camera may be in works")
+
+
+[Nokia C30 with Full-HD display, single rear camera may be in works](https://www.indiatoday.in/technology/news/story/nokia-c30-with-full-hd-display-single-rear-camera-may-be-in-works-1826817-2021-07-12)
+
+
+> Shubham Verma New Delhi, Jul 12, 2021, Updated Jul 12, 2021, 9:16 AM IST Story highlights Nokia C30 may be the next C-series phone with some interesting specifications. The Nokia C30 is likely to come with a Full-HD display but a single camera on the back. HMD has not said anything about the Nokia C30 but it may arrive soon. Nokia Mobile launched a horde of smartphones earlier this year. While those phones are yet to reach all the markets HMD Global operates in, the company is seemingly working on new phones.
+
+
+***
+![Keep my 2019 or go to 2020?](https://images.macrumors.com/social/?t=2303951&v=6 "Keep my 2019 or go to 2020?")
+
+
+[Keep my 2019 or go to 2020?](https://forums.macrumors.com/threads/keep-my-2019-or-go-to-2020.2303951/)
+
+
+> I currently have the 2019 iMac 3.7 GHz Intel Core i5 Radeon Pro 580X 8GB w/64GB RAM and 2TB Fusion. I do a lot of very intensive Photoshop etc. and am getting really frustrated with the speed, hangs, beachballs and slow save times. It's possible my system has junk in it that's slowing things down - and I also use if for all my everyday things from Mail to Safari, Social etc. I could do a completely clean install and try to move as much to externals as possible - with the exception of current projects.
+
+
+***
+![Best cheap student laptop deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/annie-spratt-v_yek9woupw-unsplash-1.jpg "Best cheap student laptop deals for July 2021")
+
+
+[Best cheap student laptop deals for July 2021](https://www.digitaltrends.com/dtdeals/best-student-laptop-deals/)
+
+
+> We know that students tend to operate on pretty tight budgets, but let's face it: Computers aren't cheap, and the reality is that modern schoolwork requires you to have a modern laptop to do it on. Thankfully, there are always bargains out there if you know where to look, but if you're pressed for time and don't want to spend hours sorting through it all, let us save you the trouble. Below, we've got the six best student laptop deals available this month — each of which fits within a $1,000 budget limit (and most are much cheaper than that).
+
+
