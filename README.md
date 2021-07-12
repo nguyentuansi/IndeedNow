@@ -40350,3 +40350,50 @@
 > Source: Jeramy Johnson / Android Central For many of us, running is hard work. Maybe it's a motivation thing, or perhaps it's a physical thing. Whatever the reason, the simple fact is that running is exercise, and exercise can be a real pain. We're looking at some of the best running apps for Android, and we've got a few different kinds of apps here. Some are more of the hard-core variety, for folks used to exercise who may be looking to increase and improve the way they do things. The best part about most of these apps is that they can integrate with the best fitness trackers, so you can have all of your workout information in one place.
 
 
+***
+![Solving the Rocket Equation in Python: What's the optimal way to burn/expel fuel?](https://external-preview.redd.it/w0H7jQBanOUXC5RNWX1idw9UquyLtPSkM6FA1TgJBGA.jpg?auto=webp&s=6848ae4ef790b87bd1da0edfb04f81d2a9da652e "Solving the Rocket Equation in Python: What's the optimal way to burn/expel fuel?")
+
+
+[Solving the Rocket Equation in Python: What's the optimal way to burn/expel fuel?](https://www.reddit.com/r/Python/comments/oirxc1/solving_the_rocket_equation_in_python_whats_the/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Windows 11 is gearing up to take on Chromebooks in many ways](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/07/windows-11-vs-chrome-os-8464.jpg "Windows 11 is gearing up to take on Chromebooks in many ways")
+
+
+[Windows 11 is gearing up to take on Chromebooks in many ways](https://www.androidcentral.com/windows-11-vs-chrome-os-similarities-differences)
+
+
+> Source: Andrew Myrick / Android Central Windows 11 may just be the biggest update to Windows since the transition to Windows 8. But it's the similarities to how Chrome OS operates that have me intrigued the most. The reason for this is because, until earlier this year, Microsoft was working on a version of its operating system called Windows 10X. Some pundits have claimed that Windows 11 should be called Windows 11 Big Sur, a hat-tip to Apple's current version of macOS. But in reality, Windows 11 feels like a melting pot of features from macOS, Chrome OS, along with some Windows 10 zest on top.
+
+
+***
+![Galaxy S21 FE May Not Have A Limited Launch After All](https://www.androidheadlines.com/wp-content/uploads/2021/04/Samsung-Galaxy-S21-FE-render-leak-3.jpg "Galaxy S21 FE May Not Have A Limited Launch After All")
+
+
+[Galaxy S21 FE May Not Have A Limited Launch After All](https://www.androidheadlines.com/2021/07/galaxy-s21-fe-not-limited-launch.html)
+
+
+> We all know that Samsung‘s upcoming flagship killer, the Galaxy S21 FE, has been delayed due to the ongoing chip shortage. Initially expected to arrive alongside several other Galaxy devices sometime in August, the device is now unlikely to see the light of day until October. There were also reports of it having a limited launch. However, a newer report suggests that may not be the case.According to a Japanese news agency, the Galaxy S21 FE will launch in the country as part of NTT DoCoMo's fall lineup.
+
+
+***
+![Python for finance](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png "Python for finance")
+
+
+[Python for finance](https://www.reddit.com/r/Python/comments/oirq22/python_for_finance/)
+
+
+> Can you guys recommend an online course for python with focus on finance for moderates or advanced?!50% Upvotedno comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[How to change Google Maps voice in seconds](https://www.thesun.ie/tech/7280152/google-maps-how-to-change-voice/)
+
+
+> WE'VE all used Google Maps to get somewhere – but maybe you're bored of the usual voice. It's actually possible to change the navigation voice on Google Maps in seconds. Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on Facebook, WhatsApp and Instagram Go into the Google […]
+
+
