@@ -40544,3 +40544,53 @@
 > Todd Spangler / Variety: Warner Bros. to give away 91,000 limited-edition NFTs featuring characters from Space Jam: A New Legacy, the biggest drop of NFTs for a film to date — The loony-tunes world of digital collectibles known as NFTs is now getting actual Looney Tunes. — Warner Bros., in the biggest drop of NFTs …
 
 
+***
+![Best gaming laptops for 2021](https://www.cnet.com/a/img/moGXHf-YiS4uyuvIcd6wakXhK4Y=/1200x630/2019/09/11/4e5f30da-cfc7-40e4-92e3-e581ff45f862/03-gaming-laptops-promo-image.jpg "Best gaming laptops for 2021")
+
+
+[Best gaming laptops for 2021](https://www.cnet.com/tech/computing/best-gaming-laptop/)
+
+
+> Many gamers know that having the right equipment can often be as important as skill to raise your stats. A good gaming rig may cost you, but for those serious about their gaming experience, and with a budget to match, it's frequently worth it to drop some serious cash to build the ideal gaming setup. Luckily, gaming laptops have evolved to keep up with the needs of even the most intense gamers.There's more to a decent gaming laptop than raw speed. You can pack it with the best graphics card, the fastest, most colorful display around, a gazillion-core processor, tons of fast solid-state drive storage to hold your games, and a rock-solid hard drive for secondary storage, but it can still fall short.
+
+
+***
+![Subaru's updated Forester SUV exposed](https://content.api.news/v3/images/bin/4b8da69b4dd8e7ee889bd046444e5857 "Subaru's updated Forester SUV exposed")
+
+
+[Subaru's updated Forester SUV exposed](https://www.news.com.au/technology/motoring/motoring-news/2021-subaru-forester-revealed/news-story/cee2ab9ede81b4ce741c337fc8140b86)
+
+
+> This family SUV has developed a cult-like status among Aussie families who have a sense of adventure, and it's now better than ever.Subaru is giving its best selling model a makeover.The Japanese brand has made a raft of running improvements to its ever popular Forester SUV, including boosting safety and making it more rugged.Subaru Australia boss, Blair Read, says there is huge demand for the Forester and these updates will only further boost sales.'These latest subtle changes to the Forester range will add to its appeal, which has already attracted new audiences with the introduction of hybrid variants and the Sport over the past 18 months,' says Mr Read.
+
+
+***
+![Apple partners with California State University to give new students iPad Air, accessories](https://www.cnet.com/a/img/-S7O3FGgU11dLjQi1wMb5ITrSSI=/1200x630/2021/04/19/884d13d2-f7f3-4d57-a92b-581f7fe74b63/009-ipad-air-2020-4th-gen.jpg "Apple partners with California State University to give new students iPad Air, accessories")
+
+
+[Apple partners with California State University to give new students iPad Air, accessories](https://www.cnet.com/tech/computing/apple-partners-with-california-state-university-to-give-new-students-ipad-air-accessories/)
+
+
+> Karisa Langlo/CNET The California State University announced a new initiative Monday that aims to pair up to 35,000 incoming students with iPad Air tablets and Apple accessories. The initiative, called CSUCCESS, involves a partnership with Apple for students at eight of CSU's campuses. Starting fall 2021, first-year students and incoming transfer students will have the option to register for the initiative and receive an iPad Air, Apple Pencil and Apple Smart Keyboard for as long as they're studying at CSU.
+
+
+***
+![Frontdoor, Inc. to Announce Second-Quarter 2021 Results](https://mms.businesswire.com/media/20210712005816/en/782283/23/Frontdoor_Logo.jpg "Frontdoor, Inc. to Announce Second-Quarter 2021 Results")
+
+
+[Frontdoor, Inc. to Announce Second-Quarter 2021 Results](https://www.businesswire.com/news/home/20210712005816/en/Frontdoor-Inc.-to-Announce-Second-Quarter-2021-Results)
+
+
+> July 12, 2021 05:46 PM Eastern Daylight Time MEMPHIS, Tenn.--(BUSINESS WIRE)--Frontdoor, Inc. (NASDAQ: FTDR), the nation's leading provider of home service plans, today announced it will release its second-quarter 2021 financial results and hold a conference call after market on Wednesday, August 4, 2021 at 3:30 p.m. Central time (4:30 p.m. Eastern time). Participants may join this conference call by dialing 1-844-750-4895 (or international participants, 1-412-317-5291). Additionally, the conference call will be available via webcast which will include a slide presentation highlighting the company's results.
+
+
+***
+![The arrival of the Programmer-Archeologist](https://external-preview.redd.it/r9BpV_7tLakF1RYV_kh-J01iuNT1cbLXow8LrDVtZ1g.jpg?auto=webp&s=8b8b62bb4b3bf051a86022b5eafaff32915c20bb "The arrival of the Programmer-Archeologist")
+
+
+[The arrival of the Programmer-Archeologist](https://www.reddit.com/r/programming/comments/oj14lp/the_arrival_of_the_programmerarcheologist/)
+
+
+> Whilst in the midst of doing something with the ancient MacTCP, I find an article using the term coined by Vinge.
+
+
