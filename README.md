@@ -40832,3 +40832,50 @@
 > France's antitrust watchdog slapped a 500 million euro ($593 million) fine on Alphabet's Google on Tuesday, July 13, for failing to comply fully with temporary orders it had given in a row with the country's news publishers. The US tech giant must within the next two months come up with proposals on how it would compensate news agencies and other publishers for the use of their news. If it does not do that, it would face additional fines of up to 900,000 euros per day. Google said it was very disappointed with the decision.
 
 
+***
+![Scientists train drone to hunt for meteorites that have crashed to Earth](https://static.independent.co.uk/2021/07/13/10/GettyImages-485983716.jpeg?width=1200&auto=webp&quality=75 "Scientists train drone to hunt for meteorites that have crashed to Earth")
+
+
+[Scientists train drone to hunt for meteorites that have crashed to Earth](https://www.independent.co.uk/life-style/gadgets-and-tech/scientists-drone-meteorites-earth-crash-b1883094.html)
+
+
+> Researchers have trained a drone to search for asteroids that crash to Earth.The drones autonomously fly in a grid pattern, taking photos of the ground over a large area, and use artificial intelligence to search through the pictures to identify potential meteorites.Every year approximately 500 meteorites fall to the planet's surface, but less than two per cent of these are ever recovered – sometimes because they fall in inaccessible locations, such as the ocean, but in other instances simply because they are not found in time.
+
+
+***
+![Demonstration of World Record: 319 Tb/s Transmission over 3,001 km with 4-core optical fiber](https://external-preview.redd.it/5W4V-POsQE0OP_l17sfydtwc1LM5DUZ9YFgBn8r_brc.jpg?auto=webp&s=a142fc573494805ffd0815584268f5f891009587 "Demonstration of World Record: 319 Tb/s Transmission over 3,001 km with 4-core optical fiber")
+
+
+[Demonstration of World Record: 319 Tb/s Transmission over 3,001 km with 4-core optical fiber](https://www.reddit.com/r/technology/comments/ojcgde/demonstration_of_world_record_319_tbs/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[can someone help me make an f-string?](https://www.reddit.com/r/Python/comments/ojcg63/can_someone_help_me_make_an_fstring/)
+
+
+> s = "blahblahblahx"this is what i thought would work, but it didn't:output=f"this is the first appearance of x: {(s.index("x"))}"print(output)so the real question is : how do i turn this:output = s.index("x")print(output)into an f-string in a format that says : this is the first appearance of x : 12 (which it was) ?
+
+
+***
+![Consumer Reports launches crowdsourced campaign for internet service transparency](https://thehill.com/sites/default/files/internet_11042019_1.jpg "Consumer Reports launches crowdsourced campaign for internet service transparency")
+
+
+[Consumer Reports launches crowdsourced campaign for internet service transparency](https://thehill.com/policy/technology/562660-consumer-reports-launches-crowdsourced-campaign-for-internet-service)
+
+
+> Consumer Reports is launching a nationwide campaign aimed at improving transparency of the cost and quality of broadband service.The initiative, dubbed Broadband Together, will seek to do that by collecting the internet bills of tens of thousands of consumers to analyze the price and speed of services offered in different communities.'For too long, the true cost and quality of internet service has been hidden and obscured,' said Marta Tellado, president and chief executive officer of Consumer Reports.
+
+
+***
+![Galaxy S22 rumors: What we expect to see from Samsung's next flagship](https://www.cnet.com/a/img/Kb8P7UgkqMsM0V9SNoHdENm1EoM=/1200x630/2021/01/20/13168eb9-f829-4882-be43-7f77be46eb8e/105-samsung-galaxy-s21-and-s21-ultra-comparison.jpg "Galaxy S22 rumors: What we expect to see from Samsung's next flagship")
+
+
+[Galaxy S22 rumors: What we expect to see from Samsung's next flagship](https://www.cnet.com/tech/mobile/galaxy-s22-rumors-what-we-expect-to-see-from-samsung-next-flagship/)
+
+
+> Sarah Tew/CNET Released in January 2021, the Samsung Galaxy S21 impressed us with its solid all-round performance and its better balance of price. The Galaxy S21 Ultra meanwhile blew us away with its incredible camera setup and its ability to take superb zoomed in shots. But what about the follow up series? The Samsung Galaxy S22 isn't expected for some time, but the rumor mill never stops turning and it's possible to make some pretty educated predictions about what we may see from Samsung's next flagship Android phone.
+
+
