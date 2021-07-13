@@ -40644,3 +40644,47 @@
 > A priest in his 60s who assaulted a police officer who was dispatched after receiving a report while playing haengpae at a karaoke room has been sentenced to a fine. The Daegu District Court announced yesterday that it had sentenced 63-year-old A, who was charged with obstructing the execution of official duties, to a fine of 3 million won. ▲ The above picture is not directly related to the content of the article. A priest in his 60s who assaulted a police officer who was dispatched after receiving a report while playing haengpae at a karaoke room has been sentenced to a fine.
 
 
+***
+![Urgent warning to QUIT Facebook Messenger right now on iPhone and Android](https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/NINTCHDBPICT000413580740.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Urgent warning to QUIT Facebook Messenger right now on iPhone and Android")
+
+
+[Urgent warning to QUIT Facebook Messenger right now on iPhone and Android](https://www.the-sun.com/lifestyle/tech/3270926/delete-facebook-messenger-warning-encryption/)
+
+
+> A SECURITY update for Facebook Messenger is said to be delayed causing experts to call for users to avoid the app. Messenger has come under fire for not using end-to-end encryption like WhatsApp, another Facebook owned app. Messenger isn't yet using end-to-end encryptedCredit: Alamy The delay is related to concerns that encrypting Messenger would lead to child exploitation going unnoticed. Right now, harmful messages and content in Facebook Messenger chats can be flagged. Encryption could mean many of these messages go unnoticed.
+
+
+***
+[Urgent warning to QUIT Facebook Messenger right now on iPhone and Android](https://www.thesun.ie/tech/7282478/delete-facebook-messenger-warning-encryption/)
+
+
+> A SECURITY update for Facebook Messenger is said to be delayed causing experts to call for users to avoid the app. Messenger has come under fire for not using end-to-end encryption like WhatsApp, another Facebook owned app. The delay is related to concerns that encrypting Messenger would lead to child exploitation going unnoticed. Right now, […]
+
+
+***
+![Is 890$ a good price for a new iPhone 12 (purple)?](https://images.macrumors.com/social/?t=2304062&v=6 "Is 890$ a good price for a new iPhone 12 (purple)?")
+
+
+[Is 890$ a good price for a new iPhone 12 (purple)?](https://forums.macrumors.com/threads/is-890-a-good-price-for-a-new-iphone-12-purple.2304062/)
+
+
+> As the title says, there's a super discount here offering a new iPhone 12 at 750 Eur (890$) instead of 950 Eur. I was wondering if, based on past trends, this was a good price or if I'd be better off waiting for the iPhone 13 release, to buy an iPhone 12. Thank you <3
+
+
+***
+![Historical wargame simulator with Pygame](https://external-preview.redd.it/vw9x_StikAqCtEUugN56rBZhBFqknT0bTJNGEZnC8YA.jpg?auto=webp&s=e836bc48d25eac67e03930c7229dbbce90a6825c "Historical wargame simulator with Pygame")
+
+
+[Historical wargame simulator with Pygame](https://www.reddit.com/r/Python/comments/oj5b1c/historical_wargame_simulator_with_pygame/)
+
+
+> Made some progress with the historical wargame simulator I am making with pygame. Recently add a custom unit editor and sandbox for testing the created unit.Github: https://github.com/remance/MasendorVideo: https://youtu.be/GvZhO2SsRic
+
+
+***
+[美 FDA 加註警語！嬌生疫苗恐引急性神經發炎](https://technews.tw/2021/07/13/johnson-johnson-covid-19-vaccine-may-cause-acute-nerve-inflammation/)
+
+
+> 美國食品藥物管理局（FDA）週一（12 日）警告，嬌生（Johnson & Johnson）COVID […]
+
+
