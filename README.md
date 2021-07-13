@@ -40879,3 +40879,50 @@
 > Sarah Tew/CNET Released in January 2021, the Samsung Galaxy S21 impressed us with its solid all-round performance and its better balance of price. The Galaxy S21 Ultra meanwhile blew us away with its incredible camera setup and its ability to take superb zoomed in shots. But what about the follow up series? The Samsung Galaxy S22 isn't expected for some time, but the rumor mill never stops turning and it's possible to make some pretty educated predictions about what we may see from Samsung's next flagship Android phone.
 
 
+***
+![Arctic Wolf secures $150M in Series F, tripling its valuation – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-157168456.jpg?w=610 "Arctic Wolf secures $150M in Series F, tripling its valuation – TechCrunch")
+
+
+[Arctic Wolf secures $150M in Series F, tripling its valuation – TechCrunch](https://techcrunch.com/2021/07/13/arctic-wolf-series-f/)
+
+
+> Arctic Wolf, a managed cybersecurity company that offers 'security operations-as-a-concierge' service, has raised $150 million at Series F. This round was led by Viking Global Investors, Owl Rock, and other existing investors, and lands less than a year after the company's last round of investment when it became the first managed detection and response (MDR) companies to secure a valuation of over $1 billion. This latest round brings its total amount of funding raised to date to just shy of $500 million, and sees the company's valuation soar from $1.
+
+
+***
+![Female Founder Fund closes third fund with $57M for female, BIPOC founders – TechCrunch](https://techcrunch.com/wp-content/uploads/2017/05/img_1192.jpg?w=600 "Female Founder Fund closes third fund with $57M for female, BIPOC founders – TechCrunch")
+
+
+[Female Founder Fund closes third fund with $57M for female, BIPOC founders – TechCrunch](https://techcrunch.com/2021/07/13/female-founder-fund-closes-third-fund-with-57m-for-female-bipoc-founders/)
+
+
+> Female Founders Fund announced Tuesday the closing of its Fund III after raising $57 million to create what the seven-year-old New York-based early-stage fund considers 'the largest fund for seed capital specifically for female founders.' The oversubscribed fund is backed by institutional investors including Goldman Sachs, Cambridge Associates, Melinda French Gates' Pivotal Ventures, Twitter, Plexo Capital and the Doris Duke Charitable Foundation. It also includes investments from 23andMe founder Anne Wojcicki, YouTube CEO Susan Wojcicki and Houseparty co-founder Sima Sistani.
+
+
+***
+![Micromobility operator Veo raises $16M to fund U.S. expansion – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/veo-astro-4.jpeg?w=624 "Micromobility operator Veo raises $16M to fund U.S. expansion – TechCrunch")
+
+
+[Micromobility operator Veo raises $16M to fund U.S. expansion – TechCrunch](https://techcrunch.com/2021/07/13/micromobility-operator-veo-raises-16m-to-fund-u-s-expansion/)
+
+
+> Shared micromobility operator Veo has raised $16 million in new funding as the company ramps up its expansion plans in the United States. The Series A funding round, which follows permit awards in Santa Monica, San Diego and New York, will be used to expand Veo's fleet and focus on developing city and community partnerships. Veo, which was founded in 2017, has sought venture funding a bit later in the game than other micromobility companies. Veo's co-founder and CEO Candice Xie has been vocal about creating a sustainable business model that's profitable on its own before seeking external funding, which the company says it's done.
+
+
+***
+[Huge iPhone update is about to arrive – but NOT if you have one of these models](https://www.thesun.ie/tech/7284440/ios-15-update-compatible-iphones/)
+
+
+> IF YOU have an iPhone that’s older than the iPhone X you’ll miss out on some of the new iOS 15 features. Apple announced the new software back in June but it won’t be coming out until Autumn time. The iOS 15 software is only compatible with the iPhone 6S and later but if your […]
+
+
+***
+![These are the best Wear OS watches you can buy right now](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/fossil-gen-5e-review-button-detail-japan.jpg "These are the best Wear OS watches you can buy right now")
+
+
+[These are the best Wear OS watches you can buy right now](https://www.androidcentral.com/best-wear-os-watch)
+
+
+> Source: Ara Wagoner / Android Central Best Wear OS watch Android Central 2021 If you're shopping for the best Android smartwatch, you'll quickly notice that many of the options are Wear OS watches. It's not without its flaws, but this operating system has made some great improvements in recent years, and there may be more to come thanks to the upcoming partnership of Google and Samsung. However, not all existing Wear OS watches are guaranteed to be updated to the new platform, so that's something to consider when making your decision.
+
+
