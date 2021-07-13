@@ -40688,3 +40688,50 @@
 > 美國食品藥物管理局（FDA）週一（12 日）警告，嬌生（Johnson & Johnson）COVID […]
 
 
+***
+![Sam's Club introduces Scan & Ship in-app buying](https://www.cnet.com/a/img/-TjPSzX_PVmm5jD_yadcO9gmtu0=/1200x630/2021/07/12/da0e19bd-54a9-447b-b718-946dfa2322ff/sams-club.png "Sam's Club introduces Scan & Ship in-app buying")
+
+
+[Sam's Club introduces Scan & Ship in-app buying](https://www.cnet.com/tech/mobile/sams-club-introduces-scan-ship-in-app-buying/)
+
+
+> Scan & Ship lets customers buy big items like TVs from the aisles. Sam's Club Sam's Club has unveiled a new app feature to get its big-ticket items home with buyers without having to worry about cramming it into your car or organizing a truck. Scan & Ship, which is being trialed at three Sam's Club locations across the US, allows customers to scan the barcode of an item displayed in an aisle using the store's app, purchase it and select home delivery. The Scan & Ship program includes items like patio furniture, TVs, grills, mattresses and play sets.
+
+
+***
+![Realme X9 specifications leaked, expect AMOLED display and 4200mAh battery](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/realme_x_teaser-original.jpg "Realme X9 specifications leaked, expect AMOLED display and 4200mAh battery")
+
+
+[Realme X9 specifications leaked, expect AMOLED display and 4200mAh battery](https://www.indiatoday.in/technology/news/story/realme-x9-specifications-leaked-expect-amoled-display-and-4200mah-battery-1827339-2021-07-13)
+
+
+> Shubham Verma New Delhi, Jul 13, 2021, Updated Jul 13, 2021, 9:29 AM IST Realme is likely to launch the GT Master Edition sometime this month. The Realme model number that is now supposed to be the GT Master Edition was previously speculated to be the Realme X9 Pro. While the new rumours entirely ruled out the Realme RMX3366 will be an X9 series phone, a new Realme model has brought back the speculation around that. A Realme model RMX3361 has appeared on the TENAA and 3C certification websites in China, and that has led to the speculation that it is the Realme X9.
+
+
+***
+![এই জেলাগুলিতে ধেয়ে আসছে বজ্রবিদ্যুৎ-সহ বৃষ্টি! রাজ্যের আবহাওয়া একনজরে...](https://images.news18.com/static-bengali/2021/07/WEATHER-630x420.jpg "এই জেলাগুলিতে ধেয়ে আসছে বজ্রবিদ্যুৎ-সহ বৃষ্টি! রাজ্যের আবহাওয়া একনজরে...")
+
+
+[এই জেলাগুলিতে ধেয়ে আসছে বজ্রবিদ্যুৎ-সহ বৃষ্টি! রাজ্যের আবহাওয়া একনজরে...](https://bengali.news18.com/photogallery/kolkata/west-bengal-weather-forecast-there-will-be-rain-and-thunderstorm-in-districts-sanj-625821.html)
+
+
+> WEST BENGAL WEATHER FORECAST THERE WILL BE RAIN AND THUNDERSTORM IN DISTRICTS SANJ
+
+
+***
+[Mark43, which offers cloud-based records management and dispatch systems to US police departments, raises $101M Series E, as it looks to expand internationally (Thad Rueter/Government Technology)](http://www.techmeme.com/210712/p35#a210712p35)
+
+
+> Thad Rueter / Government Technology: Mark43, which offers cloud-based records management and dispatch systems to US police departments, raises $101M Series E, as it looks to expand internationally — Even amid calls to “defund the police,” agencies are buying new technology, boosting efficiency and enabling new types of reporting.
+
+
+***
+![Motorola reportedly working on Moto G60s, price and specifications leaked](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/moti_2-original.jpg "Motorola reportedly working on Moto G60s, price and specifications leaked")
+
+
+[Motorola reportedly working on Moto G60s, price and specifications leaked](https://www.indiatoday.in/technology/news/story/motorola-reportedly-working-on-moto-g60s-price-and-specifications-leaked-1827332-2021-07-13)
+
+
+> Ankita Chakravarti New Delhi, Jul 13, 2021, Updated Jul 13, 2021, 9:15 AM IST Story highlights Motorola seems to be working on a lot of new smartphones and the Moto G60s is one of them. Moto G60s is expected to be an improved version of the Moto G60. Moto G60 was first launched in India with a 108-megapixel camera. Motorola seems to be working on a lot of new smartphones and the Moto G60s is one of them. After launching the Moto G60 in April, Motorola could soon launch the Moto G60s in the market.
+
+
