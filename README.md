@@ -41023,3 +41023,47 @@
 > Oakland-based Mighty Buildings, which is on a quest to build homes using 3D printing, robotics and automation, has raised a $22 million extension to its Series B round of funding. The additional capital builds upon a $40 million a raise the company announced earlier this year, bringing its total funding since its 2017 inception to $100 million. Mighty Building's self-proclaimed mission is to create 'beautiful, sustainable and affordable' homes. The company claims to be able to 3D print structures 'two times as quickly with 95% less labor hours and 10-times less waste' than conventional construction.
 
 
+***
+[Autoscaling Kafka Stream Processing with Python](https://www.reddit.com/r/Python/comments/ojl4hb/autoscaling_kafka_stream_processing_with_python/)
+
+
+> Really in depth tutorial about autoscaling Kafka with Python to meet the demands of a streaming job to process images. Let me know what you think!https://www.anyscale.com/blog/serverless-kafka-stream-processing-with-rayHigh-level architecture of the stream processing application in the tutorial
+
+
+***
+![Winners Named in IDC Government Insights' Fourth Annual Smart Cities North America Awards](http://www.businesswire.com/images/bwlogo_square.png "Winners Named in IDC Government Insights' Fourth Annual Smart Cities North America Awards")
+
+
+[Winners Named in IDC Government Insights' Fourth Annual Smart Cities North America Awards](https://www.businesswire.com/news/home/20210713005972/en/Winners-Named-in-IDC-Government-Insights-Fourth-Annual-Smart-Cities-North-America-Awards)
+
+
+> July 13, 2021 02:00 PM Eastern Daylight Time NEEDHAM, Mass.--(BUSINESS WIRE)--IDC Government Insights named winners this week in the fourth annual Smart Cities North America Awards (SCNAA). The awards were designed to recognize the progress North American municipalities have made in executing Smart Cities projects, as well as providing a forum for sharing best practices to help accelerate Smart City development in the region. Finalists include cities and universities such as Arizona State University, Las Vegas, and Philadelphia.
+
+
+***
+![The best Verizon cellphone plans to sign up for, or switch to, in 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/07/new-verizon-logo-banner-2.jpg "The best Verizon cellphone plans to sign up for, or switch to, in 2021")
+
+
+[The best Verizon cellphone plans to sign up for, or switch to, in 2021](https://www.androidcentral.com/best-verizon-plans)
+
+
+> Source: Android Central Best Verizon cell phone plans Android Central 2021 Verizon's nationwide 5G network is available in 2,700+ cities, and it's quickly expanding. For those who want Verizon's excellent coverage, this carrier offers four unique unlimited plans to choose from, as well as several prepaid options. But its best cell phone plan, Play More Unlimited, will give you an exceptional experience. With this plan, you'll have access to Verizon's 5G network, 50GB of premium data, unlimited hotspot data with 5G Ultra Wideband or 15GB otherwise, as well as some serious entertainment perks.
+
+
+***
+![This Is The Best Logitech G733 Gaming Headset Deal Of All Time](https://www.androidheadlines.com/wp-content/uploads/2021/07/Logitech-G733-Lightspeed-Wireless-Gaming-Headset-Sale.jpg "This Is The Best Logitech G733 Gaming Headset Deal Of All Time")
+
+
+[This Is The Best Logitech G733 Gaming Headset Deal Of All Time](https://www.androidheadlines.com/2021/07/logitech-g733-lightspeed-wireless-gaming-headset-deal-sale-price.html)
+
+
+> Amazon just dropped the price of the Logitech G733 Lightspeed Wireless Gaming Headset, as it's now on sale for $118, which is the best price this headset has ever been. Worth noting is that this price is only good for the White color. Whereas the other color options are still priced at $130 or above. If you don't mind the slightly higher price tag though, you can grab the headset in Blue for $130, or in Lilac for $140.The Black model is quite a bit higher and is priced at $184. And at that price you're better off going for the Logitech G Pro X Lightspeed Wireless.
+
+
+***
+[Python Question](https://www.reddit.com/r/Python/comments/ojkw8h/python_question/)
+
+
+> How do I convert a decimal to a percentage while also restricting to two decimal places?print(f"Less Taxes Withheld @ {_1st_income_tax_rate:%}is printing Less Taxes Withheld @ 20.000000% but I want it to sayLess Taxes Withheld @ 20.00%
+
+
