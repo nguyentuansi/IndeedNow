@@ -40782,3 +40782,53 @@
 > Google has announced a new Android 12 feature at its Game Developer Summit. It is called 'Play as you download,' which will let you jump 'into gameplay in seconds while game assets are downloaded in the background.' 'Users want to start playing right away, but as game quality keeps improving, their size increases, leading to long, dull downloads,' the search giant said. Google Play product management director Greg Hartrell says that the reason for install cancellations is the time it takes for a user to download games and start playing them.
 
 
+***
+![Grievances increase over Chanel's VIP-focused strategy](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/e7f96b60a7f64c63b84038425ed7723f.jpg "Grievances increase over Chanel's VIP-focused strategy")
+
+
+[Grievances increase over Chanel's VIP-focused strategy](https://www.koreatimes.co.kr/www/tech/2021/07/694_312086.html)
+
+
+> People wait in front of Chanel's boutique at Lotte Department Store in downtown Seoul, July 1. Korea Times photo by Cho So-jinBy Kim Jae-heunFrench fashion house Chanel is facing growing complaints from customers here for raising the prices of its products and also for being "picky" in its selection of targeted customer groups compared to other countries. Hermes, another French luxury goods company, has also been selling its handbags exclusively to VIP customers.It remains unknown how much a person has to spend in order to become a VIP customer of Hermes.
+
+
+***
+![Apple seeks to capitalize on LG's smartphone exit](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/0d9fd3b2e4ad47b1b0921c9cb29e5c7c.jpg "Apple seeks to capitalize on LG's smartphone exit")
+
+
+[Apple seeks to capitalize on LG's smartphone exit](https://www.koreatimes.co.kr/www/tech/2021/07/133_312084.html)
+
+
+> Apple's logo is seen at an Apple Store in New York / AP-YonhapKorean firm partners with US giant for strategic interestsBy Kim Bo-eunApple is stepping up its efforts to strengthen its foothold in the local smartphone market by capitalizing on LG's smartphone exit.LG Electronics made a strategic decision early this year to withdraw its loss-making smartphone business, and the process is set to be completed this month. Existing players in the market are moving quickly to capture LG's share, offering trade-in programs for LG smartphone users here.
+
+
+***
+![Korea runs 1st general meeting for World Expo 2030 bid](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/3ce8b8d8d68e42eda56ef9761a63077d.jpg "Korea runs 1st general meeting for World Expo 2030 bid")
+
+
+[Korea runs 1st general meeting for World Expo 2030 bid](https://www.koreatimes.co.kr/www/tech/2021/07/693_312077.html)
+
+
+> Former Korea International Trade Association Chairman Kim Young-ju, fifth from left, who was named to lead Korea's World Expo 2030 bid, poses with Prime Minister Kim Boo-kyum, fifth from right, Busan Mayor Park Heong-joon, fourth from right, and other dignitaries during a general meeting of the government-led bid preparation committee at Lotte Hotel in downtown Seoul, Tuesday. YonhapBy Yi Whan-wooA government-led special committee to prepare Korea's bid to host the World Expo 2030 in Busan held its first general meeting, Tuesday.
+
+
+***
+![Samsung Electronics unveils image sensors for vehicles](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/2d7c4449c9184f3494af3c76e65df8c4.jpg "Samsung Electronics unveils image sensors for vehicles")
+
+
+[Samsung Electronics unveils image sensors for vehicles](https://www.koreatimes.co.kr/www/tech/2021/07/133_312076.html)
+
+
+> Samsung Electronics' ISOCELL Auto 4AC image sensors for vehicles / Courtesy of Samsung ElectronicsBy Baek Byung-yeulSamsung Electronics has rolled out its first automotive image sensors as part of efforts to expand into the fast-growing image sensor markets, the chip giant said Tuesday.The company said its ISOCELL Auto 4AC image sensors will be used in an upcoming vehicle from an undisclosed global carmaker.A company official said he "cannot confirm which carmaker will use Samsung's image sensors," but said the vehicle will be rolled out later this year.
+
+
+***
+![France fines Google 500 million euros over copyright row](https://assets2.rappler.com/2021/06/google-august-22-2016-reuters-1626163235962.jpg "France fines Google 500 million euros over copyright row")
+
+
+[France fines Google 500 million euros over copyright row](https://www.rappler.com/technology/france-google-fine-copyright-row)
+
+
+> France's antitrust watchdog slapped a 500 million euro ($593 million) fine on Alphabet's Google on Tuesday, July 13, for failing to comply fully with temporary orders it had given in a row with the country's news publishers. The US tech giant must within the next two months come up with proposals on how it would compensate news agencies and other publishers for the use of their news. If it does not do that, it would face additional fines of up to 900,000 euros per day. Google said it was very disappointed with the decision.
+
+
