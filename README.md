@@ -41117,3 +41117,53 @@
 > Source: Apple Today saw Apple announce the MagSafe Battery Pack for iPhone 12 and we were all very excited about it. We'd been told by Bloomberg a while ago that this was coming, and here it is. But it leaves a sour taste in the mouth, and it isn't just that $99 asking price. As much as that $99 price does sting a little, anyone who follows Apple with any kind of regularity would surely know that anything south of $99 was never going to happen. I wouldn't have been surprised if it was more around the $119, point, so we should probably all be thankful for small mercies.
 
 
+***
+![Best gaming laptops 2021: top laptops to game on](https://cdn.mos.cms.futurecdn.net/SsPtibC5nHvucgYkKckDHL-1200-80.jpg "Best gaming laptops 2021: top laptops to game on")
+
+
+[Best gaming laptops 2021: top laptops to game on](https://www.techradar.com/news/mobile-computing/laptops/best-gaming-laptops-top-5-gaming-notebooks-reviewed-1258471)
+
+
+> Choosing the best gaming laptop is easy when you've got deep pockets or have a couple of thousand dollars to spare. You can pick the biggest and baddest around, and not have to worry about performance and features. It's when your budget is more limited that getting a great gaming laptop becomes trickier.Lucky for us, component manufacturers have been producing better and more affordably-priced CPUs and GPUs without compromising on power. In fact, the latest internals like the Intel Comet Lake and AMD Big Navi chips as well as the Nvidia RTX 3000 series are more capable yet also affordable than ever.
+
+
+***
+![France Fines Google $593M for Failing to Negotiate 'in Good Faith' with News Publishers](https://media.breitbart.com/media/2019/06/Sundar-Pichai.jpg "France Fines Google $593M for Failing to Negotiate 'in Good Faith' with News Publishers")
+
+
+[France Fines Google $593M for Failing to Negotiate 'in Good Faith' with News Publishers](https://www.breitbart.com/tech/2021/07/13/france-fines-google-593m-for-failing-to-negotiate-in-good-faith-with-news-publishers/)
+
+
+> France fined Google 500 million euros — $593 million — on Tuesday for failing to negotiate a deal 'in good faith' with news publishers on its platform. French authorities say Google ignored a 2020 order from regulators to negotiate a licensing deal with publishers to use short blurbs from articles in search results, according to a report by the New York Times. The case represents one of the first attempts to apply the European Union's new copyright directive intended to force internet platforms like Google and Facebook to compensate news organizations for their content, the report added.
+
+
+***
+![New features coming to Microsoft Edge include tab groups and picture-in-picture](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-edge-version-91.jpg "New features coming to Microsoft Edge include tab groups and picture-in-picture")
+
+
+[New features coming to Microsoft Edge include tab groups and picture-in-picture](https://www.digitaltrends.com/computing/mcirosoft-edge-new-features-tab-groups-picture-in-picture/)
+
+
+> Microsoft Edge, the company's signature browser, has been receiving updates throughout the year — and there is more to come. The current feature road map for Edge reveals that some interesting changes to the browser are coming soon. While there are also some smaller updates in development, the two standouts include tab groups and Video Picture in Picture (PiP). The road map presented by Microsoft covers a timeline from late last year through September 2021 and includes over 70 changes to Microsoft Edge.
+
+
+***
+![New Microsoft Edge Features Coming Soon Include Tab Groups](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-edge-version-91.jpg "New Microsoft Edge Features Coming Soon Include Tab Groups")
+
+
+[New Microsoft Edge Features Coming Soon Include Tab Groups](https://www.digitaltrends.com/computing/mcirosoft-edge-new-features-tab-groups-picture-in-picture/)
+
+
+> Microsoft Edge, the company's signature browser, has been receiving updates throughout the year — and there is more to come. The current feature road map for Edge reveals that some interesting changes to the browser are coming soon. While there are also some smaller updates in development, the two standouts include tab groups and Video Picture in Picture (PiP). The road map presented by Microsoft covers a timeline from late last year through September 2021 and includes over 70 changes to Microsoft Edge.
+
+
+***
+![Get A Grip, Literally, With This New Nintendo Switch Case From ZAGG](https://www.androidheadlines.com/wp-content/uploads/2021/07/Nintendo-Switch-Kita-Grip-Cases-ZAGG-2.jpg "Get A Grip, Literally, With This New Nintendo Switch Case From ZAGG")
+
+
+[Get A Grip, Literally, With This New Nintendo Switch Case From ZAGG](https://www.androidheadlines.com/2021/07/zagg-nintendo-switch-kita-grip-360-lite-case-protection.html)
+
+
+> ZAGG makes cases for, what seems like just about everything, and that includes the Nintendo Switch with this new Kita Grip 360 case. ZAGG is making the case for both the Nintendo Switch and the Nintendo Switch Lite.This case won't work with the recently announced Nintendo Switch OLED though. As that console is slightly larger than the original. According to Nintendo's dimensions, the regular Switch is 102 x 239 x 13.9mm. This is with the Joy Cons attached. The Nintendo Switch OLED however, is 102 x 242 x 13.
+
+
