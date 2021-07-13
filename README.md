@@ -40926,3 +40926,53 @@
 > Source: Ara Wagoner / Android Central Best Wear OS watch Android Central 2021 If you're shopping for the best Android smartwatch, you'll quickly notice that many of the options are Wear OS watches. It's not without its flaws, but this operating system has made some great improvements in recent years, and there may be more to come thanks to the upcoming partnership of Google and Samsung. However, not all existing Wear OS watches are guaranteed to be updated to the new platform, so that's something to consider when making your decision.
 
 
+***
+![Flutter Image Parallax Scrolling Effect](https://external-preview.redd.it/-RYLTKuO9nowcsukhbUgZquVT_TkdnILNzMt-IGrHFQ.jpg?auto=webp&s=6444f50532932e9e295da3494a5b509099c197b7 "Flutter Image Parallax Scrolling Effect")
+
+
+[Flutter Image Parallax Scrolling Effect](https://www.reddit.com/r/programming/comments/ojg6pm/flutter_image_parallax_scrolling_effect/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Playlist of Tetris game in JavaScript](https://external-preview.redd.it/uVxASIK6pmdLpuNldEOp1Xaa_3rXSshlgFWFL0BsDmg.jpg?auto=webp&s=03541f8432b8aa23eb5ae6d959181e02e732bd67 "Playlist of Tetris game in JavaScript")
+
+
+[Playlist of Tetris game in JavaScript](https://www.reddit.com/r/programming/comments/ojg60w/playlist_of_tetris_game_in_javascript/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Is Chromecast with Google TV or Apple TV 4K (2021) better?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/chromecast-with-google-tv-review-12.jpeg "Is Chromecast with Google TV or Apple TV 4K (2021) better?")
+
+
+[Is Chromecast with Google TV or Apple TV 4K (2021) better?](https://www.androidcentral.com/chromecast-google-tv-vs-apple-tv-4k-2021)
+
+
+> Chromecast with Google TV is the first Android TV streaming device to adopt the new and improved Google TV interface. In addition to streaming 4K content, the new Chromecast is compatible with USB-C hubs for PoE and expandable storage and works with Stadia. $50 at Target 4K Dolby Atmos, Dolby Vision support Excellent value Compatible with USB-C hubs, chargers Dual casting and traditional streaming Doesn't support 4K across all streaming platforms Limited internal storage The new and improved Apple TV 4K (2021) improves on its predecessor thanks to an upgraded Siri remote and an A12 Bionic processor.
+
+
+***
+![Baptist Community Services Creates Culture of Excellence with UKG](https://mms.businesswire.com/media/20210713005075/en/828490/23/UKG_cmyk.jpg "Baptist Community Services Creates Culture of Excellence with UKG")
+
+
+[Baptist Community Services Creates Culture of Excellence with UKG](https://www.businesswire.com/news/home/20210713005075/en/Baptist-Community-Services-Creates-Culture-of-Excellence-with-UKG)
+
+
+> July 13, 2021 10:00 AM Eastern Daylight Time LOWELL, Mass. & WESTON, Fla.--(BUSINESS WIRE)--UKG (Ultimate Kronos Group), a leading global provider of HCM, payroll, HR service delivery, and workforce management solutions, announced today that Baptist Community Services, a nonprofit continuing-care retirement community, is building a reliable and engaged workforce to support the delivery of cost-effective, quality care by leveraging the UKG product suite. A UKG customer for more than 20 years, Baptist Community Services offers a range of senior care services, including independent and assisted living options, long-term care, skilled nursing, rehabilitation, and a fitness facility.
+
+
+***
+![Comcast Government Services Awarded Two Additional Multimillion Dollar Contracts From Defense Information Systems Agency (DISA)](https://mms.businesswire.com/media/20210713005078/en/351493/23/Comcast-Logo.jpg "Comcast Government Services Awarded Two Additional Multimillion Dollar Contracts From Defense Information Systems Agency (DISA)")
+
+
+[Comcast Government Services Awarded Two Additional Multimillion Dollar Contracts From Defense Information Systems Agency (DISA)](https://www.businesswire.com/news/home/20210713005078/en/Comcast-Government-Services-Awarded-Two-Additional-Multimillion-Dollar-Contracts-From-Defense-Information-Systems-Agency-DISA)
+
+
+> July 13, 2021 10:00 AM Eastern Daylight Time PHILADELPHIA--(BUSINESS WIRE)--Comcast Business today announced that Comcast Government Services has been awarded two additional multimillion dollar contracts by the United States' Defense Information Systems Agency (DISA) as part of the Agency's effort to replace legacy circuits across the country with Ethernet-based services to improve network performance and reduce overall telecommunications costs. The contracts – covering DISA's Commercial Ethernet Gateway (CEG) Region 4 and Region 5 – represent $84.
+
+
