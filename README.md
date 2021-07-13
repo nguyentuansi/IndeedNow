@@ -40976,3 +40976,50 @@
 > July 13, 2021 10:00 AM Eastern Daylight Time PHILADELPHIA--(BUSINESS WIRE)--Comcast Business today announced that Comcast Government Services has been awarded two additional multimillion dollar contracts by the United States' Defense Information Systems Agency (DISA) as part of the Agency's effort to replace legacy circuits across the country with Ethernet-based services to improve network performance and reduce overall telecommunications costs. The contracts – covering DISA's Commercial Ethernet Gateway (CEG) Region 4 and Region 5 – represent $84.
 
 
+***
+![Score a Just Black Google Pixel 4 for 50% off today](https://www.cnet.com/a/img/W5NCXj39kMP2v2G7usvBdLu3Zbw=/1200x630/2020/07/13/d6a5b175-c4aa-48d8-8f33-981302dfc657/pixel-4-a-google.jpg "Score a Just Black Google Pixel 4 for 50% off today")
+
+
+[Score a Just Black Google Pixel 4 for 50% off today](https://www.cnet.com/tech/mobile/score-a-just-black-google-pixel-4-for-50-off-today/)
+
+
+> Where many other companies were focused on releasing an Android phone with the biggest and most impressive-sounding specs, Google has carved out a niche showing how to use software to make the hardware more useful. In many ways, the Pixel 4 was the first phone which offered a number of features you couldn't get anywhere else at the time. And the phone has continued to be a great experience even though it was released almost two years ago now, which is why when it showed up on Amazon for $400 it was still worth recommending.
+
+
+***
+![What does SB mean on Snapchat?](https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/NINTCHDBPICT000654553182.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "What does SB mean on Snapchat?")
+
+
+[What does SB mean on Snapchat?](https://www.the-sun.com/lifestyle/tech/3275259/what-does-sb-mean-on-snapchat/)
+
+
+> SNAPCHAT has been around for nearly a decade, giving its users plenty of time to come up with their own app-specific lexicon. Many of the platform's 500million users rely on acronyms to trim down some requests and phrases. Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on Facebook, WhatsApp and Instagram Snapchat has around 500million monthly active usersCredit: Reuters One such abbreviation is "sb", which stands for "snap back". It's used for when you want a user to respond back to a snap, or "message.
+
+
+***
+[What does SB mean on Snapchat?](https://www.thesun.ie/tech/7286187/what-does-sb-mean-on-snapchat/)
+
+
+> SNAPCHAT has been around for nearly a decade, giving its users plenty of time to come up with their own app-specific lexicon. Many of the platform’s 500million users rely on acronyms to trim down some requests and phrases. Read all the latest Phones & Gadgets news Keep up-to-date on Apple stories Get the latest on […]
+
+
+***
+![Sourcegraph raises $125M Series D on $2.6B valuation for universal code search tool – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1187065035.jpg?w=600 "Sourcegraph raises $125M Series D on $2.6B valuation for universal code search tool – TechCrunch")
+
+
+[Sourcegraph raises $125M Series D on $2.6B valuation for universal code search tool – TechCrunch](https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/)
+
+
+> Sourcegraph, a late stage startup that wants to bring the power of search to code, announced a $125 million Series D investment today on a $2.625 billion valuation, a 3x growth from its previous valuation in December 2020, according to the company. The round was led by Andreessen Horowitz with participation from Insight Partners, Geodesic Capital and other existing investors. The company has now raised almost $225 million, according to Crunchbase data. Company CEO and co-founder Quinn Slack says that we know by now that every company is building software, and as they do, they are generating tons of code.
+
+
+***
+![Mighty Buildings lands $22M to create ‘sustainable and affordable' 3D-printed homes – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/Mighty-Trio-SFH-product-line.-Image-credit-Mighty-BuildingsEYRC-Architects.jpg "Mighty Buildings lands $22M to create ‘sustainable and affordable' 3D-printed homes – TechCrunch")
+
+
+[Mighty Buildings lands $22M to create ‘sustainable and affordable' 3D-printed homes – TechCrunch](https://techcrunch.com/2021/07/13/mighty-buildings-lands-22m-to-create-sustainable-and-affordable-3d-printed-homes/)
+
+
+> Oakland-based Mighty Buildings, which is on a quest to build homes using 3D printing, robotics and automation, has raised a $22 million extension to its Series B round of funding. The additional capital builds upon a $40 million a raise the company announced earlier this year, bringing its total funding since its 2017 inception to $100 million. Mighty Building's self-proclaimed mission is to create 'beautiful, sustainable and affordable' homes. The company claims to be able to 3D print structures 'two times as quickly with 95% less labor hours and 10-times less waste' than conventional construction.
+
+
