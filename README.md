@@ -41067,3 +41067,53 @@
 > How do I convert a decimal to a percentage while also restricting to two decimal places?print(f"Less Taxes Withheld @ {_1st_income_tax_rate:%}is printing Less Taxes Withheld @ 20.000000% but I want it to sayLess Taxes Withheld @ 20.00%
 
 
+***
+![Can I play Stadia games on Google TV devices?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop_wm_blw/public/article_images/2021/06/stadia-on-chromecast-google-tv-reviewhome-screen.jpg "Can I play Stadia games on Google TV devices?")
+
+
+[Can I play Stadia games on Google TV devices?](https://www.androidcentral.com/can-i-play-stadia-google-tv)
+
+
+> Source: Andrew Myrick / Android CentralBest answer: Yes, you can play Stadia games on Google TV. There is a small list of hardware that officially supports Stadia through Google TV, but any device that can run Google TV will be able to play Stadia games in some capacity. When Google Stadia first launched in November 2019, users could stream games directly to their PC, television, and some mobile devices through the cloud. At the time, the only way to play Stadia games through the television was through the company's own Chromecast Ultra device with a Stadia controller.
+
+
+***
+![Best BBC iPlayer VPN 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/06/bbc-iplayer-generic.jpg "Best BBC iPlayer VPN 2021")
+
+
+[Best BBC iPlayer VPN 2021](https://www.androidcentral.com/best-bbc-iplayer-vpn)
+
+
+> The BBC is famed for producing critically acclaimed television content loved by millions. And you can watch many of the British broadcaster's greatest TV shows, movies, and more on its official streaming platform: iPlayer. BBC iPlayer has content for pretty much everyone, from dramas to documentaries. Some of its best shows include Doctor Who, Fleabag, Rupaul's Drag Race UK, Our Girl, Eastenders, Line of Duty, Call the Midwife, Killing Eve, Gavin & Stacey, Louis Theroux, Merlin, and lots more. NordVPN is one of the most common and biggest names in the VPN space, and it also happens to be one of the best — especially for BBC iPlayer with its variety of UK servers.
+
+
+***
+![You won't believe this all-in-one printer deal at Staples](https://icdn.digitaltrends.com/image/digitaltrends/canon-imageclass-mf236n-aio-laser-printer.jpg "You won't believe this all-in-one printer deal at Staples")
+
+
+[You won't believe this all-in-one printer deal at Staples](https://www.digitaltrends.com/dtdeals/canon-imageclass-mf236n-printer-deal-staples-july-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Standard printers are useful, but every so often, if you can find a decent deal, you can get an all-in-one (AIO) printer for the same price. AIO printers do it all, allowing you to make copies, print, and scan from just one machine. A quick browse of all the active printer deals will show you they vary in price from 'not bad' to 'holy smokes, Batman!' Staples is offering a super reasonable — and frankly, exciting — deal on the Canon ImageClass MF236n All-in-One Printer.
+
+
+***
+![This is the best Dell XPS 13 laptop deal we've seen in a long time](https://icdn.digitaltrends.com/image/digitaltrends/dell-xps-13-2-4.jpg "This is the best Dell XPS 13 laptop deal we've seen in a long time")
+
+
+[This is the best Dell XPS 13 laptop deal we've seen in a long time](https://www.digitaltrends.com/dtdeals/dell-xps-13-deal-dell-july-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. It's hard to find a PC laptop with better features than the Dell XPS series — just check out the amazing laptops on sale in these Dell XPS deals. And right now at Dell, you can get $200 off a 13-inch Dell XPS 13 laptop. This laptop comes loaded, and it's only $700, a huge drop from its regular price of $900. That's an amazing deal on one of the best laptops in its class! The Dell XPS 13 is so dominant that when we reviewed this computer, we called it 'the laptop endgame.
+
+
+***
+![Apple couldn't throw a Lightning cable in with its $99 battery pack?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/apple-magsafe-battery-pack.jpeg "Apple couldn't throw a Lightning cable in with its $99 battery pack?")
+
+
+[Apple couldn't throw a Lightning cable in with its $99 battery pack?](https://www.imore.com/apple-couldnt-throw-lightning-cable-its-99-battery-pack)
+
+
+> Source: Apple Today saw Apple announce the MagSafe Battery Pack for iPhone 12 and we were all very excited about it. We'd been told by Bloomberg a while ago that this was coming, and here it is. But it leaves a sour taste in the mouth, and it isn't just that $99 asking price. As much as that $99 price does sting a little, anyone who follows Apple with any kind of regularity would surely know that anything south of $99 was never going to happen. I wouldn't have been surprised if it was more around the $119, point, so we should probably all be thankful for small mercies.
+
+
