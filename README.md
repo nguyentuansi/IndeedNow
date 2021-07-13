@@ -40735,3 +40735,50 @@
 > Ankita Chakravarti New Delhi, Jul 13, 2021, Updated Jul 13, 2021, 9:15 AM IST Story highlights Motorola seems to be working on a lot of new smartphones and the Moto G60s is one of them. Moto G60s is expected to be an improved version of the Moto G60. Moto G60 was first launched in India with a 108-megapixel camera. Motorola seems to be working on a lot of new smartphones and the Moto G60s is one of them. After launching the Moto G60 in April, Motorola could soon launch the Moto G60s in the market.
 
 
+***
+![This limited-edition Super Mario smartwatch will run you $2,150 – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/High-Quality-JPG-SBG8A10.BT6231_STILLLIFE_4_16-9.jpg?w=711 "This limited-edition Super Mario smartwatch will run you $2,150 – TechCrunch")
+
+
+[This limited-edition Super Mario smartwatch will run you $2,150 – TechCrunch](https://techcrunch.com/2021/07/12/this-limited-edition-super-mario-smartwatch-will-run-you-2150/)
+
+
+> Those who've followed Nintendo with any sort of frequency over the years know the gaming giant has a tendency to be extremely protective with its IP. Ultimately, it's probably for the best that the market wasn't flooded with cheap Mario knickknacks the way it easily could have been.In recent years, however, the company has seemingly loosened its approach, more readily embracing brand partnerships in ways it has shunned in the past. Heck, we've even gotten a bunch of mobile games and a theme park out of the deal.
+
+
+***
+![TechSupergirl: India's most coveted program on Entrepreneurship Incubation and Tech Skill Building](https://aniportalimages.s3.amazonaws.com/media/details/Capture_U8nLWZU.jpg "TechSupergirl: India's most coveted program on Entrepreneurship Incubation and Tech Skill Building")
+
+
+[TechSupergirl: India's most coveted program on Entrepreneurship Incubation and Tech Skill Building](https://theprint.in/ani-press-releases/techsupergirl-indias-most-coveted-program-on-entrepreneurship-incubation-and-tech-skill-building/694925/)
+
+
+> Text Size: New Delhi [India], July 13 (ANI/PRNewswire): The Techsupergirl program was launched in partnership with IWIL (Indian Women Institutional League) along with SSC NASSCOM , National Skill Development Corporation and Shell E4 and saw participation from Jury members across UN Women, Atal Innovation Mission, ONGC Foundation, Microsoft and Shell E4. TechSupergirl intends to impact more than 2.5 lakh women this year and by 2030, 3 million Women in Business, Technology and Academia by Technical skill building and Digital Literacy Programs providing livelihood generation within corporates and government sectors.
+
+
+***
+[OnePlus Nord 2 confirmed to flaunt a 6.43-inch Fluid AMOLED display, similar to the original Nord](http://www.pinkvilla.com/tech/news/oneplus-nord-2-confirmed-to-flaunt-a-6-43-inch-fluid-amoled-display-similar-to-the-original-nord-810287)
+
+
+> Attach Main technology Image: Image Caption: OnePlus Nord 2 confirmed to flaunt a 6.43-inch Fluid AMOLED display, similar to the original Nord Social Media Image : Enter the Technology details: Just a few days ago, OnePlus announced that it will be introducing its latest Nord series smartphone called the OnePlus Nord 2 in India and Europe and the launch event is scheduled for July 22nd. In the brand's CEO Pete Lau's words, the device will be a 'comprehensive upgrade from the first OnePlus Nord'.
+
+
+***
+![Realme Book design, tentative price and launch date revealed in a leak](https://cdn.mos.cms.futurecdn.net/DYcXvBpDsbqcPWB2JXQyVn-1200-80.jpg "Realme Book design, tentative price and launch date revealed in a leak")
+
+
+[Realme Book design, tentative price and launch date revealed in a leak](https://www.techradar.com/news/realme-book-design-tentative-price-and-launch-date-revealed-in-a-leak)
+
+
+> (Image credit: OnLeaks - Giznext) Over the last year or so, the Chinese smartphone maker Realme has diversified into the smart home, lifestyle and wearables, hearables and more. The company though isn't stopping here. Last month the company teased a couple of new products that it may be launching soon.We saw teasers of the Realme Pad and Realme Book – both the products will be a first for Realme and will help the company take on its arch-rival Xiaomi. After the initial buzz, we didn't get to hear more about both the products, even though these are set for a global launch soon.
+
+
+***
+![Google says Android 12 to let users play games while downloading them](https://images.indianexpress.com/2021/07/Android-12-1.jpg "Google says Android 12 to let users play games while downloading them")
+
+
+[Google says Android 12 to let users play games while downloading them](https://indianexpress.com/article/technology/tech-news-technology/android-12-to-let-you-play-games-while-downloading-them-7402021/)
+
+
+> Google has announced a new Android 12 feature at its Game Developer Summit. It is called 'Play as you download,' which will let you jump 'into gameplay in seconds while game assets are downloaded in the background.' 'Users want to start playing right away, but as game quality keeps improving, their size increases, leading to long, dull downloads,' the search giant said. Google Play product management director Greg Hartrell says that the reason for install cancellations is the time it takes for a user to download games and start playing them.
+
+
