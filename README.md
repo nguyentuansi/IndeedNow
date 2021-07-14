@@ -41217,3 +41217,47 @@
 > By Baek Byung-yeulCover image of Huawei's sustainability report / Courtesy of Huawei KoreaHuawei Technologies is using its expertise in information and communications technology (ICT) for joint prosperity between the business community and society. Its Korean unit said on Tuesday that the company recently released its 2020 sustainability report to share what kinds of progress it has made over the past years in its four strategies for sustainability: digital inclusion, security and trustworthiness, environmental protection and a harmonious business ecosystem.
 
 
+***
+![Statement From Hollysys Trust Equity Committee](http://www.businesswire.com/images/bwlogo_square.png "Statement From Hollysys Trust Equity Committee")
+
+
+[Statement From Hollysys Trust Equity Committee](https://www.businesswire.com/news/home/20210713006228/en/Statement-From-Hollysys-Trust-Equity-Committee)
+
+
+> July 13, 2021 09:42 PM Eastern Daylight Time BEIJING--(BUSINESS WIRE)--The following is a statement from Hollysys Trust Equity Committee: Hollysys is a high-tech company providing automation and information solutions for industry and infrastructure. Hollysys not only bears the responsibility for the interests of all investors and the career of thousands of employees, but also bears the service responsibility for tens of thousands of customers. Moreover, Hollysys also bears many social responsibilities.
+
+
+***
+[Ghidra 10.0: NSA Reverse Engineering Software](https://www.reddit.com/r/programming/comments/ojtzvp/ghidra_100_nsa_reverse_engineering_software/)
+
+
+> Ghidra's introduction is buried deep, but you can also see the official sites:https://www.nsa.gov/resources/everyone/ghidrahttps://github.com/NationalSecurityAgency/ghidraEDIT: Don't kill the messenger. This is some quality code analysis.
+
+
+***
+['Space Tourism' is Problematic – And It's Damaging](https://www.thequint.com/tech-and-auto/why-space-tourism-is-going-to-be-terrible-for-the-planet)
+
+
+> Colonising the space isn't just exclusionary, it's terrible for the planet.
+
+
+***
+![Increased use of home technologies impact energy consumption](https://itwire.com/media/k2/items/cache/07fbf595ca6e64388b492a7d7a2be622_XS.jpg "Increased use of home technologies impact energy consumption")
+
+
+[Increased use of home technologies impact energy consumption](https://itwire.com/home-it/increased-use-of-home-technologies-impact-energy-consumption.html)
+
+
+> Monash University researchers identify 45 trends and formulate ten principles revolving energy planning and forecasting for future home life in a new study. The researchers add that as trends emerge in different households, consumers' interests should be taken into account in the development of future energy systems. The role of the home continues to change along with our day-to-day impact on household electricity demand, according to a Future Home Life report by Monash University. Published by the Monash University's Emerging Technologies Research Lab (ETLab), the Future Home Life report presents 45 trends and ten principles to inform energy planning and forecasting for future home life.
+
+
+***
+![ZoomInfo Announces Pricing of $300 million of 3.875% Senior Notes due 2029](https://mms.businesswire.com/media/20210713006221/en/800133/23/ZoomInfo_Primary_Lockup_Logo.jpg "ZoomInfo Announces Pricing of $300 million of 3.875% Senior Notes due 2029")
+
+
+[ZoomInfo Announces Pricing of $300 million of 3.875% Senior Notes due 2029](https://www.businesswire.com/news/home/20210713006221/en/ZoomInfo-Announces-Pricing-of-300-million-of-3.875-Senior-Notes-due-2029)
+
+
+> July 13, 2021 09:26 PM Eastern Daylight Time VANCOUVER, Wash.--(BUSINESS WIRE)--ZoomInfo Technologies Inc. ('ZoomInfo') today announced that its indirect subsidiaries, ZoomInfo Technologies LLC and ZoomInfo Finance Corp. (the 'Issuers,' and, together with ZoomInfo, the 'Company'), have priced their previously announced offering of an additional $300.0 million aggregate principal amount of their existing 3.875% Senior Notes due 2029 (the 'Additional Notes'). The Issuers' 3.875% Senior Notes due 2029 were previously issued in an aggregate principal amount of $350.
+
+
