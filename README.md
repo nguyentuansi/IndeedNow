@@ -41502,3 +41502,53 @@
 > HUNTSVILLE, Ala.--(BUSINESS WIRE)--ADTRAN®, Inc., (NASDAQ:ADTN), the leading provider of next-generation multigigabit fiber and fiber extension broadband access solutions, today announced that its award-winning Combo PON technology has been adopted by more than 100 operators worldwide since its launch in June 2020. Almost every type of service provider—from altnets, RDOF recipients, multinational Tier 1 operators and cable operators—has embraced ADTRAN's Combo PON technology as the ideal way to scale 10G PON access services within both existing and greenfield networks.
 
 
+***
+![Govolution by Deluxe and Fulton Bank Announce Strategic Partnership](https://mms.businesswire.com/media/20210714005178/en/774484/23/deluxe_logo_tagline2020_4c.jpg "Govolution by Deluxe and Fulton Bank Announce Strategic Partnership")
+
+
+[Govolution by Deluxe and Fulton Bank Announce Strategic Partnership](https://www.businesswire.com/news/home/20210714005178/en/Govolution-by-Deluxe-and-Fulton-Bank-Announce-Strategic-Partnership)
+
+
+> July 14, 2021 10:00 AM Eastern Daylight Time SHOREVIEW, Minn.--(BUSINESS WIRE)--Deluxe, a Trusted Payments and Business Technology™ company, today announced that Govolution, its ePayment solutions entity aimed at government organizations, has formed a new partnership with Fulton Bank to provide payment technology solutions for the financial institution's government and municipal customers. This partnership with the Pennsylvania-based bank will focus on: Expanding consumer payment options with mobile, contactless and IVR solutions Optimizing business operations through payment integrations Providing comprehensive, consolidated business reporting to simplify account reconciliation and improve cash flow Govolution by Deluxe has a long history of developing payment solutions designed specifically for government organizations, including the first electronic payment engine for the United States Department of Treasury.
+
+
+***
+![ACCELQ Announces the Launch of Q-Community](https://mms.businesswire.com/media/20210714005614/en/891408/23/accelqlogo.jpg "ACCELQ Announces the Launch of Q-Community")
+
+
+[ACCELQ Announces the Launch of Q-Community](https://www.businesswire.com/news/home/20210714005614/en/ACCELQ-Announces-the-Launch-of-Q-Community---A-Global-Community-of-Test-Automation-Enthusiasts)
+
+
+> July 14, 2021 10:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--ACCELQ is delighted to announce the launch of Q-Community this summer. Q-Community aims to build and serve a community of Test Automation enthusiasts with a primary objective to find and nurture ways to transform test automation to be simpler, more reliable, and sustainable for the real world. It will help foster, guide, and upskill testers to stay relevant for the future of technological innovation. 'Our vision is to drive community initiatives to make Automation easily accessible and eliminate traditional skill-based silos.
+
+
+***
+![Turn your iPad into a productivity machine with a trackpad keyboard case](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/zagg-pro-keys-with-trackpad-wireless-keyboard-with-trackpad-and-detachable-case-lower-angle-lifestyle.jpeg "Turn your iPad into a productivity machine with a trackpad keyboard case")
+
+
+[Turn your iPad into a productivity machine with a trackpad keyboard case](https://www.imore.com/best-trackpad-keyboard-cases-ipad)
+
+
+> Best trackpad keyboard cases for iPad iMore 2021 With plenty of productivity enhancements to iPadOS over the years, Apple's tablet can replace a Mac for many — especially if you have one of the best trackpad keyboard cases for iPad. These all-in-one solutions combine tactile typing from the best keyboard cases with easy-to-use trackpads — all while providing additional protection. Whether it is the iPad 2020 or the iPad Pro 2021 there's a case for iPads of all sizes. Here's our guide to the best trackpad keyboard cases for iPad that you can buy today.
+
+
+***
+![CACI International Invites You to Participate in its Full Year FY21 Results and FY22 Guidance Conference Call](https://mms.businesswire.com/media/20210714005024/en/1062970/23/logo_CACI_HR.jpg "CACI International Invites You to Participate in its Full Year FY21 Results and FY22 Guidance Conference Call")
+
+
+[CACI International Invites You to Participate in its Full Year FY21 Results and FY22 Guidance Conference Call](https://www.businesswire.com/news/home/20210714005024/en/CACI-International-Invites-You-to-Participate-in-its-Full-Year-FY21-Results-and-FY22-Guidance-Conference-Call)
+
+
+> July 14, 2021 10:00 AM Eastern Daylight Time RESTON, Va.--(BUSINESS WIRE)--CACI International Inc (NYSE: CACI), a leading provider of expertise and technology to government enterprise and mission customers, will release financial results for the fourth quarter and full-year of fiscal 2021 and provide guidance for fiscal 2022 after market close on Wednesday, August 11, 2021. The company will host a conference call the following morning on Thursday, August 12, 2021 at 8:30 a.m. Eastern Time. Members of CACI's senior management team will discuss fiscal 2021 results and our fiscal 2022 guidance expectations, followed by a question-and-answer session.
+
+
+***
+![NBCU, Comcast Executive Takes Leadership Role at Influencer Marketing Platform CreatorIQ](https://mms.businesswire.com/media/20210714005054/en/890793/23/CreatorIQ_%282%29.jpg "NBCU, Comcast Executive Takes Leadership Role at Influencer Marketing Platform CreatorIQ")
+
+
+[NBCU, Comcast Executive Takes Leadership Role at Influencer Marketing Platform CreatorIQ](https://www.businesswire.com/news/home/20210714005054/en/NBCU-Comcast-Executive-Takes-Leadership-Role-at-Influencer-Marketing-Platform-CreatorIQ)
+
+
+> July 14, 2021 10:00 AM Eastern Daylight Time LOS ANGELES--(BUSINESS WIRE)--CreatorIQ, the influencer marketing platform powering efforts for brands like AB Inbev, Disney, and Unilever, today announced the addition of Bethany Ellis as Chief People Officer. In her role, the industry veteran will help manage the growing team and guide the company culture as CreatorIQ continues to experience massive, global growth. 'After more than four straight years of 100% growth, our global team has evolved to the point where they need a dedicated, seasoned executive to manage them,' said Igor Vaks, CreatorIQ Founder and CEO.
+
+
