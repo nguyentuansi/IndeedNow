@@ -41552,3 +41552,43 @@
 > July 14, 2021 10:00 AM Eastern Daylight Time LOS ANGELES--(BUSINESS WIRE)--CreatorIQ, the influencer marketing platform powering efforts for brands like AB Inbev, Disney, and Unilever, today announced the addition of Bethany Ellis as Chief People Officer. In her role, the industry veteran will help manage the growing team and guide the company culture as CreatorIQ continues to experience massive, global growth. 'After more than four straight years of 100% growth, our global team has evolved to the point where they need a dedicated, seasoned executive to manage them,' said Igor Vaks, CreatorIQ Founder and CEO.
 
 
+***
+![Fitbit Luxe review: Beautifully designed, yet modest in size](https://icdn.digitaltrends.com/image/digitaltrends/fitbit-luxe-review-6-of-10.jpg "Fitbit Luxe review: Beautifully designed, yet modest in size")
+
+
+[Fitbit Luxe review: Beautifully designed, yet modest in size](https://www.digitaltrends.com/fitness-tracker-reviews/fitbit-luxe-review/)
+
+
+> 'You'll fall in love with the minimalist look of the Luxe, while it tracks everything in the background.' Pros Minimalist design makes it discreet Sharp looking AMOLED display Exceptional battery life It's hard for me to believe that it's been five long years since I last reviewed a Fitbit. That seemed like ages ago, but I suppose the reason why I stopped checking them out was because smartwatches began to rise in popularity — showing me that they, too, were more than capable with health tracking.
+
+
+***
+![How to root your Android phone](https://cdn.mos.cms.futurecdn.net/Ez4Z9BuwTCGVN8MvnwoR5a-1200-80.jpg "How to root your Android phone")
+
+
+[How to root your Android phone](https://www.techradar.com/how-to/how-to-root-your-android-phone)
+
+
+> When you run out of things to watch on Netflix, have played every game on Xbox Game Pass and have read every iPhone 13 rumor on the internet, you might decide to root your phone.This is the Android equivalent of iPhone jailbreaking. And like jailbreaking, Android rooting isn't as popular as it was back in, say, 2012. We like to think it's because almost every custom Android interface made by every major manufacturer is now pretty good.One of the main things you can do with a rooted phone is to install a different version of Android, known as a ROM.
+
+
+***
+![This Company Was Hit With a Devastating Ransomware Attack—But Instead of Giving In, It Rebuilt Everything](https://api.time.com/wp-content/uploads/2021/07/norsk-hydro-ransomware.jpg?quality=85&w=1024&h=628&crop=1 "This Company Was Hit With a Devastating Ransomware Attack—But Instead of Giving In, It Rebuilt Everything")
+
+
+[This Company Was Hit With a Devastating Ransomware Attack—But Instead of Giving In, It Rebuilt Everything](https://time.com/6080293/norsk-hydro-randsomeware-attack/)
+
+
+> As the threat of ransomware grows, companies have felt pressed to pay massive amounts to hackers holding systems hostage. One business decided not to give in to their attackers' demands. Cyberattacks like the recent global attack that impacted multiple companies over the Fourth of July weekend, this spring's disruptive attack on Colonial Pipeline and 2017's infamous WannaCry virus are only growing in frequency and cost. The last five years especially has shown a marked increase, with attackers holding information and digital architecture hostage while demanding greater and greater ransoms.
+
+
+***
+![Fun FaceTime date idea: Try Apple's new SharePlay feature in iOS 15](https://www.cnet.com/a/img/DbmcHKOuC6YX8CQVRdlCTSYSDU4=/1200x630/2021/06/07/40afe9eb-a10c-4448-a2ee-6557e55228f2/wwdc-2021-apple-038-ios-15-facetime.png "Fun FaceTime date idea: Try Apple's new SharePlay feature in iOS 15")
+
+
+[Fun FaceTime date idea: Try Apple's new SharePlay feature in iOS 15](https://www.cnet.com/tech/mobile/fun-facetime-date-idea-try-apples-new-shareplay-feature-in-ios-15/)
+
+
+> The new FaceTime feature allows you to experience streaming TV, movies and music within a video chat. Screenshot/Apple This story is part of Apple Event, our full coverage of the latest news from Apple headquarters. Apple recently announced some big changes to its FaceTime video chat app, including the ability to use FaceTime on an Android or Windows device. Upgrades arrived with iOS 15's public beta and will be widely released this fall, when the iPhone 13 is also expected to make an appearance.
+
+
