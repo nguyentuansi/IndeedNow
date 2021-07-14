@@ -41355,3 +41355,50 @@
 > Mired in controversies around user privacy and data, Google has answered some of the most frequently asked questions on the web. The tech giant has been accused of allegedly making location-tracking settings more difficult to find and pressuring smartphone manufacturers and wireless carriers to take similar measures.The lawsuit in Arizona alleges that by tracking without users' consent, Google violated consumer protection laws that prohibit companies from mischaracterizing their business practices (Google has denied the allegations).
 
 
+***
+![Wecasa raises $17.7 million for its home care and wellness marketplace – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/sina-saadatmand-gB9hryu1q40-unsplash.jpg "Wecasa raises $17.7 million for its home care and wellness marketplace – TechCrunch")
+
+
+[Wecasa raises $17.7 million for its home care and wellness marketplace – TechCrunch](https://techcrunch.com/2021/07/14/wecasa-raises-17-7-million-for-its-home-care-and-wellness-marketplace/)
+
+
+> French startup Wecasa has raised a $17.7 million funding round (€15 million). Blisce is leading the funding round with existing investors Serena, ISAI and Frédéric Mazzella also participating. The company has been building a marketplace for home care and wellness. Over the past few years, Wecasa has kept adding new verticals. The startup originally specialized in hairdressing at home. It then added massage, beauty treatments, housekeeping, babysitting and sports coaching. While the company is mostly active in France, it expanded to London in April 2021.
+
+
+***
+![Russian insurtech and telemedicine startup BestDoctor raises $26M B from Winter Capital Partners – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1041955166.jpg?w=600 "Russian insurtech and telemedicine startup BestDoctor raises $26M B from Winter Capital Partners – TechCrunch")
+
+
+[Russian insurtech and telemedicine startup BestDoctor raises $26M B from Winter Capital Partners – TechCrunch](https://techcrunch.com/2021/07/14/russian-insurtech-and-telemedicine-startup-bestdoctor-raises-26m-b-from-winter-capital-partners/)
+
+
+> Last year we covered BestDoctor's series A round when the Russian insurtech startup raised $4.5 million for its online medical insurance platform for corporates, which also offers telemedicine services to employees. It's now closed a $26 million Series B round from Winter Capital Partners, alongside Swedish investor VNV Global and UNIQA Ventures, the corporate VC backed by UNIQA Insurance group. The company claims this round gives it a $90 million valuation. BestDoctor's Virtual Clinic platform offers round-the-clock telemedicine services as well as preventive medicine, and other services.
+
+
+***
+![Boat launches its first gaming headphone Immortal 1000D with Dolby Atmos, price starts at Rs 2499](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/im-1000d_1_1200x768-original.jpeg "Boat launches its first gaming headphone Immortal 1000D with Dolby Atmos, price starts at Rs 2499")
+
+
+[Boat launches its first gaming headphone Immortal 1000D with Dolby Atmos, price starts at Rs 2499](https://www.indiatoday.in/technology/news/story/boat-launches-its-first-gaming-headphone-immortal-1000d-with-dolby-atmos-price-starts-at-rs-2499-1827976-2021-07-14)
+
+
+> Ankita Chakravarti New Delhi, Jul 14, 2021, Updated Jul 14, 2021, 1:28 PM IST Story highlights Popular audio brand Boat has launched its first-ever gaming headphone in the Indian market. The company has launched Immortal 1000D with Dolby Atmos. The headphones are armed with 50mm drivers for high-fidelity audio. Popular audio brand Boat has launched its first-ever gaming headphone in the Indian market. The company has launched Immortal 1000D with Dolby Atmos. Boat has said that the headphone offers a premium gaming and entertainment experience.
+
+
+***
+![Maharashtra aims for 10% electrification of two-wheelers by 2025](https://cdn.mos.cms.futurecdn.net/cLndELzoiNRQHiRJBm2ZMR-1200-80.jpeg "Maharashtra aims for 10% electrification of two-wheelers by 2025")
+
+
+[Maharashtra aims for 10% electrification of two-wheelers by 2025](https://www.techradar.com/news/maharashtra-aims-for-10-electrification-of-two-wheelers-by-2025)
+
+
+> (Image credit: Shutterstock) After the Indian Government updated its FAME II policy aimed at accelerating EV adoption to achieve an ambitious target of having 30% EVs plying on the roads by 2030. This announcement followed with several states revealing their EV policy in conjunction with the central policy.We had Gujarat announce various incentives and plans to boost EV adoption as well as manufacturing of zero-emission vehicles in the state and now Maharashtra has also unveiled similar incentives and policies.
+
+
+***
+[TechTool Pro 14.0.2](https://www.macupdate.com/app/mac/4307/techtool-pro)
+
+
+> Poor TechTool, poor Micromat. TechTool Pro is officially up to version 14, but here on MacUpdate, it's frozen in time at version 13 (?), while I never upgraded from 12. I used to upgrade regularly, mostly out of habit, but honestly, TT has never actually found a problem with my Macs. It has become superfluous. It might be useful for someone who supports many Mac owners, but that would require ProToGo to work reliably, which for me it never did. And it still doesn't seem to "get" Big Sur or SSV (Signed System Volume).
+
+
