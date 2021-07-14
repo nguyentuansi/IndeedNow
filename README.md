@@ -41305,3 +41305,53 @@
 > (Image credit: Realme) Realme launched its first brand under the Realme TechLife brand a couple of weeks ago in India. The Dizo GoPods D TWS earbuds and Dizo Wireless Bluetooth earphones were announced and today, the former will go on sale for the first time in India. The Dizo GoPods D are Dizo's first pair of true wireless earbuds and it is a rebranded version of the Realme Q2 global variant. During the first sale, the company is also offering a special discount wherein you can get the product for Rs 200 less than the usual price.
 
 
+***
+![Oppo Reno 6, Reno 6 Pro Launching in India Today: All Details](https://i.gadgets360cdn.com/large/Oppo_reno_6_series_india_launch_today_1626241590140.jpg "Oppo Reno 6, Reno 6 Pro Launching in India Today: All Details")
+
+
+[Oppo Reno 6, Reno 6 Pro Launching in India Today: All Details](https://gadgets.ndtv.com/mobiles/news/oppo-reno-6-series-india-launch-date-time-today-july-14-3pm-livestream-expected-price-specifications-2486136)
+
+
+> Oppo Reno 6 series will launch in India today, July 14 after it debuted in China back in May. India will get the Oppo Reno 6 and Oppo Reno 6 Pro models, whereas China got an additional Oppo Reno 6 Pro+ model at launch. The phones are expected to be powered by MediaTek Dimensity SoCs and come with a 90Hz refresh rate. Oppo Reno 6 series will go on sale via Flipkart and finer details on pricing and availability will be shared at the launch event.Oppo Reno 6 series India launch event: How to watch livestreamOppo Reno 6 and Oppo Reno 6 Pro will be launched in India today at 3pm IST through an event that will be livestreamed on the company's YouTube channel.
+
+
+***
+![New affordable sports car coming this year](https://content.api.news/v3/images/bin/9cbc3dc04d02ca8b84cc78b45fc030ec "New affordable sports car coming this year")
+
+
+[New affordable sports car coming this year](https://www.news.com.au/technology/motoring/motoring-news/hyundais-i30-sedan-n-coming-in-2021/news-story/d88c3569710e9f0b31c5c0e6e4b7f495)
+
+
+> New machine channels the world of gaming by ranking drivers against each other following track day racing experiences.Hyundai has locked in details surrounding its next high-performance machine.The new i30 Sedan N will reach local showrooms in the last quarter of 2021, giving customers an fresh option for turbocharged fun.Based on the new Hyundai i30 Sedan sold overseas as the Elantra, the new machine has the same fundamental engine and hardware as the i30 N DCT, as well as the high-riding Kona N crossover.
+
+
+***
+![Samsung, Tesla sign $436 mn deal for Cybertruck cameras, says Report](https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/24/full/1600917703-7084.jpg "Samsung, Tesla sign $436 mn deal for Cybertruck cameras, says Report")
+
+
+[Samsung, Tesla sign $436 mn deal for Cybertruck cameras, says Report](https://www.business-standard.com/article/technology/samsung-tesla-sign-436-mn-deal-for-cybertruck-cameras-says-report-121071400278_1.html)
+
+
+> Samsung has reportedly signed a deal with Elon Musk's electric car maker Tesla worth $436 million to let its latest camera modules to be used in Cybertruck. According to a report in Sam Mobile, the South Korean tech giant will supply the biggest electric car manufacturer in the US with its camera modules. Samsung's camera modules will be used by Tesla's latest electric vehicle that was unveiled in November 2019, the reports claimed. The prototype vehicle showcased on stage wasn't equipped with conventional rearview mirrors, but instead, it used an array of cameras connected to the dashboard's displays.
+
+
+***
+![Policy on electric vehicle charging stations up for publication, says DOE](https://images.gmanews.tv/webpics/2021/02/doe_2021_02_07_19_23_39.jpg "Policy on electric vehicle charging stations up for publication, says DOE")
+
+
+[Policy on electric vehicle charging stations up for publication, says DOE](https://www.gmanetwork.com/news/scitech/technology/795309/policy-on-electric-vehicle-charging-stations-up-for-publication-says-doe/story/)
+
+
+> Published July 14, 2021 1:58pm The Department of Energy (DOE) is set to issue a policy on electric vehicle (EV) charging stations, which will pave the way to incentivize investments in the EV sector. At the virtual EV Summit press conference on Wednesday, Energy Utilization Management Bureau Director Patrick Aquino said the public consultations for the proposed policy framework for the development, establishment, and operation of EV charging stations are already finished and the 'circular has been finally signed.
+
+
+***
+![Is Google recording everything you say? Tech giant answers most asked questions on privacy](https://images.moneycontrol.com/static-mcnews/2021/06/google-770x433.jpg "Is Google recording everything you say? Tech giant answers most asked questions on privacy")
+
+
+[Is Google recording everything you say? Tech giant answers most asked questions on privacy](https://www.moneycontrol.com/news/technology/is-google-recording-everything-you-say-tech-giant-answers-most-asked-questions-on-privacy-7169721.html)
+
+
+> Mired in controversies around user privacy and data, Google has answered some of the most frequently asked questions on the web. The tech giant has been accused of allegedly making location-tracking settings more difficult to find and pressuring smartphone manufacturers and wireless carriers to take similar measures.The lawsuit in Arizona alleges that by tracking without users' consent, Google violated consumer protection laws that prohibit companies from mischaracterizing their business practices (Google has denied the allegations).
+
+
