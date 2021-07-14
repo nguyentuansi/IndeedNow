@@ -41402,3 +41402,53 @@
 > Poor TechTool, poor Micromat. TechTool Pro is officially up to version 14, but here on MacUpdate, it's frozen in time at version 13 (?), while I never upgraded from 12. I used to upgrade regularly, mostly out of habit, but honestly, TT has never actually found a problem with my Macs. It has become superfluous. It might be useful for someone who supports many Mac owners, but that would require ProToGo to work reliably, which for me it never did. And it still doesn't seem to "get" Big Sur or SSV (Signed System Volume).
 
 
+***
+![Translating presence into power](https://thehill.com/sites/default/files/article_images/robinsonrashad_062019getty_rashad-profile.jpg "Translating presence into power")
+
+
+[Translating presence into power](https://thehill.com/policy/technology/562878-translating-presence-into-power)
+
+
+> When Rashad Robinson took the reins as president of Color of Change 10 years ago, the civil rights group had a staff of about five, a budget of around $650,000 and its goal on social media was simply to build a following.But now, with a workforce of approximately 150 and a budget that tops $40 million, Color of Change is one of the leading voices in the push to hold tech giants accountable.'Part of what we've had to do over the last several years is translate presence into power,' Robinson told The Hill in a recent interview.
+
+
+***
+![Speed up your iPhone by clearing the cache. Here's how](https://www.cnet.com/a/img/-mFB_A2jrDB8n6twtXRLkr6Hs2U=/1200x630/2021/04/24/2815de37-2ade-4497-9f80-248eb64b3940/124-iphone-12-purple-2021.jpg "Speed up your iPhone by clearing the cache. Here's how")
+
+
+[Speed up your iPhone by clearing the cache. Here's how](https://www.cnet.com/tech/mobile/speed-up-your-iphone-by-clearing-the-cache-heres-how/)
+
+
+> If your iPhone is running slowly, it's worth trying to clear the cache to speed it up. Sarah Tew/CNET Your iPhone is at its best when it's snapping from app to app and whipping open internet tabs. But sometimes the shortcuts it uses to stay fast can slow things down over time. Clearing your cache is a quick way to speed things up again.Typically, visiting a website requires your phone to download information like photos, banners and other data. To help speed up that process, most internet browsers will store some of that data in a cache so it's easier to retrieve.
+
+
+***
+![Oppo Reno 6 series launched in India with MediaTek Dimensity chipsets](https://cdn.mos.cms.futurecdn.net/y4drFnPMSuxA9Zdh9NkBzJ-1200-80.jpg "Oppo Reno 6 series launched in India with MediaTek Dimensity chipsets")
+
+
+[Oppo Reno 6 series launched in India with MediaTek Dimensity chipsets](https://www.techradar.com/news/oppo-reno-6-series-launched-in-india-with-mediatek-dimensity-chipsets)
+
+
+> (Image credit: Oppo) Oppo has launched two new smartphones in India, the Oppo Reno 6 and Oppo Reno 6 Pro. These two smartphones were launched in India with a new colour option for the Oppo Enco X earbuds. The Oppo Reno 6 and Reno 6 Pro feature MediaTek Dimensity chipsets with the Reno 6 being the first smartphone in India to feature the Dimensity 900 chipset. Oppo also introduced the Blue colour variant for the Enco X earbuds. Oppo Reno 6 and 6 Pro: Price and availabilityThe Oppo Reno 6 has been priced at Rs 29,990 for the 8GB RAM and 128GB internal storage variant.
+
+
+***
+![Phyllotaxis simulated with Golden Angle](https://external-preview.redd.it/4aY5eRwlBCRjsgJBTPs87lcI8JfKCl5O9B6UE29ZDww.jpg?auto=webp&s=13b19c942e05c5725d1e5f06713c065f1e69bff9 "Phyllotaxis simulated with Golden Angle")
+
+
+[Phyllotaxis simulated with Golden Angle](https://www.reddit.com/r/programming/comments/ok13oh/phyllotaxis_simulated_with_golden_angle/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The best earbuds in UAE 2021: our top earphones and in-ear headphones for any budget](https://cdn.mos.cms.futurecdn.net/iRrZY4e24XmuPonq7pjKvn-1200-80.jpg "The best earbuds in UAE 2021: our top earphones and in-ear headphones for any budget")
+
+
+[The best earbuds in UAE 2021: our top earphones and in-ear headphones for any budget](https://global.techradar.com/en-ae/news/best-in-ear-headphones-uae)
+
+
+> What are the newest earbuds?(Image credit: Beats)The latest earbuds we've tried out are the long-rumored Beats Studio Buds, which are easily the best earbuds Beats has ever made.In other earbuds news, rumors surrounding the Apple AirPods 3 and AirPods Pro 2 continue to circulate. Choosing the best earbuds for your needs and your budget can be a challenge. After all, there are so many different types vying for your attention, including wired in-ear headphones, neckbud-style wireless earphones, and true wireless earbuds.
+
+
