@@ -41642,3 +41642,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Green Hell Board Game Coming Soon To Kickstarter](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Green%20Hell%20The%20Board%20Game%20Featured%20Image.jpg?itok=FXzsrIP9 "Green Hell Board Game Coming Soon To Kickstarter")
+
+
+[Green Hell Board Game Coming Soon To Kickstarter](https://techraptor.net/tabletop/news/green-hell-board-game-coming-soon-to-kickstarter)
+
+
+> 07/14/2021 - 16:04 | By: Tyler Chancey In terms of survival games, Creepy Jar's work on Green Hell is a stellar standout. It is still getting ongoing content and support from its developers and it managed to be a harrowing open-world experience with a strong narrative focus. So naturally, Galaktus Games wants to make a board game adaptation courtesy of Kickstarter. We managed to speak with a spokesman, Michal Filipek about this crowdfunding campaign. We naturally had plenty of questions, which Filipek was happy to answer.
+
+
+***
+![EPOS Adapt 165T: A headset designed for the hybrid workforce](https://images.financialexpress.com/2021/07/1-325.jpg "EPOS Adapt 165T: A headset designed for the hybrid workforce")
+
+
+[EPOS Adapt 165T: A headset designed for the hybrid workforce](https://www.financialexpress.com/industry/technology/epos-adapt-165t-a-headset-designed-for-the-hybrid-workforce/2290366/)
+
+
+> By: Sudhir Chowdhary | July 15, 2021 1:30 AM The noise-canceling feature ensures uninterrupted, crystal clear meeting experiences from any desired workplace. Clear sound in any environment is important for doing business. Technology from Copenhagen-based EPOS, a high-end audio solutions provider, allows you to hear and be heard perfectly, making it a lot easier to perform at work (these days from home). Recently, this Scandinavian company debuted its Adapt 100 series, a headset engineered for the hybrid professional.
+
+
+***
+![Next Outriders Update Delayed Due to Crash Issues](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Next%20Outriders%20Update%20delayed%20cover.jpg?itok=HNvTXX0O "Next Outriders Update Delayed Due to Crash Issues")
+
+
+[Next Outriders Update Delayed Due to Crash Issues](https://techraptor.net/gaming/news/next-outriders-update-delayed-due-to-crash-issues)
+
+
+> 07/14/2021 - 15:52 | By: Robert N. Adams Home Gaming Gaming News Next Outriders Update Delayed Due to Crash Issues People Can Fly has announced that the next Outriders update is going to be delayed for a couple of days at the minimum due to unforeseen crash issues arising during development. Outriders is a new game from People Can Fly and Square Enix that launched earlier this year. One to three players can select from their choice of four classes and take on challenging enemies in a strange alien world.
+
+
+***
+![Digital health: Smart learning for smart generation](https://images.financialexpress.com/2021/07/1-324.jpg "Digital health: Smart learning for smart generation")
+
+
+[Digital health: Smart learning for smart generation](https://www.financialexpress.com/industry/technology/digital-health-smart-learning-for-smart-generation/2290363/)
+
+
+> By: FE Bureau | July 15, 2021 1:15 AMLenovo Aware, a smart learning solution for consumers, aims to support a superior remote learning experience by addressing a few of these digital challengesThe Covid-19 pandemic has disrupted the education sector, by enforcing social distancing and implementing online methods of teaching and evaluation. Lenovo conducted a survey on virtual education which revealed the main challenges parents face: Doubts regarding effectiveness of online learning, constant monitoring required for kids, and excess use of laptops leading to excessive screen time and body posture issues.
+
+
+***
+![Lego Volkswagen T2 Camper Van kit revealed](https://www.cnet.com/a/img/resize/431ae40911156f48177384960e2b29ef9b7e0bb1/hub/2021/07/13/e8e2e8b2-fda5-4f50-9e49-0743a0f25d65/10279-lifestyle-19.jpg?auto=webp&fit=crop&height=675&width=1200 "Lego Volkswagen T2 Camper Van kit revealed")
+
+
+[Lego Volkswagen T2 Camper Van kit revealed](https://www.cnet.com/roadshow/pictures/lego-volkswagen-t2-camper-van-photos/)
+
+
+> Lego's latest Creator Expert kit is the new Volkswagen T2 Camper Van.  The T2 is the successor to the VW T1 camper van in real life and in Lego kit form, following up the T1 kit from 2011. The new kit is larger and boasts over 2,200 pieces. Accessories, including surfboards and folding deck chairs, complement the camper-van lifestyle. A pop-up fabric roof and real sliding side door are the highlight features of this build. There are also fabric side window curtains and a small plastic version of the T2's wraparound bay window windshield.
+
+
