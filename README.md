@@ -41692,3 +41692,43 @@
 > Lego's latest Creator Expert kit is the new Volkswagen T2 Camper Van.  The T2 is the successor to the VW T1 camper van in real life and in Lego kit form, following up the T1 kit from 2011. The new kit is larger and boasts over 2,200 pieces. Accessories, including surfboards and folding deck chairs, complement the camper-van lifestyle. A pop-up fabric roof and real sliding side door are the highlight features of this build. There are also fabric side window curtains and a small plastic version of the T2's wraparound bay window windshield.
 
 
+***
+![Report: Communist China's TikTok Blacklists Cuban Anti-Communist Video](https://media.breitbart.com/media/2020/08/424d1fab2bdf5acf016ce37331f495414c4bd1e0-640x335.png "Report: Communist China's TikTok Blacklists Cuban Anti-Communist Video")
+
+
+[Report: Communist China's TikTok Blacklists Cuban Anti-Communist Video](https://www.breitbart.com/tech/2021/07/14/report-communist-chinas-tiktok-blacklists-cuban-anti-communist-video/)
+
+
+> Social media users are calling out TikTok, saying the Chinese-owned social media platform has banned a video that shows Cuban citizens protesting against their communist government. â€œWhy would @tiktok_us remove videos & suspend accounts showing regime atrocities in #Cuba? BECAUSE ITS OWNED BY COMMUNIST #China!â€� tweeted Sen. Marco Rubio (R-FL) on Wednesday. Why would @tiktok_us remove videos & suspend accounts showing regime atrocities in #Cuba? BECAUSE ITS OWNED BY COMMUNIST #China! #SOSCubaLibre https://t.
+
+
+***
+![How to combine PDF files](https://cdn.mos.cms.futurecdn.net/3VdYEBNbhGz2Cyxy6vYzSL-1200-80.jpg "How to combine PDF files")
+
+
+[How to combine PDF files](https://www.techradar.com/how-to/how-to-combine-pdf-files)
+
+
+> Are you here to learn how to combine PDF files? Then we've got you covered. PDF files have become a massive part of our daily computing lives, and not only in the workplace. These days, even important personal and legal documents often come in PDF format, which isn't surprising as it is extremely versatile and ensures that no change is made to any document without the author's permission.Knowing how to combine PDF files isn't reserved for the computer savvy. If you have a bunch of work or personal PDF documents that you'd like to combine in a single document, there are many ways to do so that won't require extensive knowledge.
+
+
+***
+![Inside the Weird, Thriving World of Fake Vaccine Cards](https://compote.slate.com/images/337d7799-34d5-4171-8b84-e2d308559b1d.jpeg?width=780&height=520&rect=1560x1040&offset=0x0 "Inside the Weird, Thriving World of Fake Vaccine Cards")
+
+
+[Inside the Weird, Thriving World of Fake Vaccine Cards](https://slate.com/technology/2021/07/vaccine-cards-covid-scam-fake.html)
+
+
+> First, people cheated to receive a COVID vaccine shot. Now, they cheat to not get one. As some venues, businesses, workplaces, and gatherings of all kinds ask for vaccination proof, people who wish to avoid the shot are turning to the black market to buy vaccination documents. In April, the National Association of Attorneys General asked eBay, Shopify, and Twitter to prevent users from selling counterfeit Centers for Disease Control and Prevention vaccine cards on their platforms. It looks like these companies took it seriously: Searching in early July, I couldn't find any posts advertised the cards.
+
+
+***
+![How to download YouTube videos for free](https://cdn.mos.cms.futurecdn.net/cZ9qHNeiGKuosfoTjMd9hD-1200-80.jpg "How to download YouTube videos for free")
+
+
+[How to download YouTube videos for free](https://www.techradar.com/how-to/download-youtube-videos)
+
+
+> You don't need an advanced set of skills to download YouTube Videos. Believe it or not, doing so is a straightforward process as long as you have the right tools on hand, and you don't even require a paid subscription to do so. While YouTube Premium allows the user to download a video for offline viewing, free ways are also on hand that lets you watch or listen to them without using the official application. You simply need to figure out how to download YouTube videos, and you're free to watch them without an internet connection.
+
+
