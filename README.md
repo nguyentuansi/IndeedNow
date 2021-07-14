@@ -41261,3 +41261,47 @@
 > July 13, 2021 09:26 PM Eastern Daylight Time VANCOUVER, Wash.--(BUSINESS WIRE)--ZoomInfo Technologies Inc. ('ZoomInfo') today announced that its indirect subsidiaries, ZoomInfo Technologies LLC and ZoomInfo Finance Corp. (the 'Issuers,' and, together with ZoomInfo, the 'Company'), have priced their previously announced offering of an additional $300.0 million aggregate principal amount of their existing 3.875% Senior Notes due 2029 (the 'Additional Notes'). The Issuers' 3.875% Senior Notes due 2029 were previously issued in an aggregate principal amount of $350.
 
 
+***
+[Why not?](https://www.reddit.com/r/Python/comments/ojwd1m/why_not/)
+
+
+> Blur is made by BlurWindow (Pypi package)Code soon (when there are more widgets)
+
+
+***
+![Realme Book laptop launch soon: Specs, features, design, India price, and everything that we know so far](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/realme_book_render_-original.jpg "Realme Book laptop launch soon: Specs, features, design, India price, and everything that we know so far")
+
+
+[Realme Book laptop launch soon: Specs, features, design, India price, and everything that we know so far](https://www.indiatoday.in/technology/features/story/realme-book-laptop-launch-soon-specs-features-design-india-price-and-everything-that-we-know-so-far-1827798-2021-07-14)
+
+
+> Story highlights Realme Book may launch in August The laptop is tipped to ship with 11th gen intel CPU Realme Book will feature a design similar to the MacBook Realme has established itself in the short stint of its existence. The brand became popular with its affordable mid-range smartphone offerings, but now it has plenty of other products outside the smartphone space. It's obvious that Realme is looking to expand its portfolio of products. In that succession, the brand is gearing to launch the Realme Book, which will be the first laptop from the brand.
+
+
+***
+![Two-thirds of Americans, 227 million, play video games. For many games were an escape, stress relief in pandemic](https://external-preview.redd.it/geuP28_qBfHiHoMmu2OoJzfXKpRjmu4KEaAaDG58mtM.jpg?auto=webp&s=0b6b9e3090db1caf7233daf3cef5101842485898 "Two-thirds of Americans, 227 million, play video games. For many games were an escape, stress relief in pandemic")
+
+
+[Two-thirds of Americans, 227 million, play video games. For many games were an escape, stress relief in pandemic](https://www.reddit.com/r/technology/comments/ojw1vw/twothirds_of_americans_227_million_play_video/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Given a number n followed by n numbers find whether it is odd or even and print the output on a single line.](https://www.reddit.com/r/programming/comments/ojw1u5/given_a_number_n_followed_by_n_numbers_find/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Dizo GoPods D goes on sale today at discounted price](https://cdn.mos.cms.futurecdn.net/puHh8enbTnowXpxdsc8vKQ-1200-80.jpeg "Dizo GoPods D goes on sale today at discounted price")
+
+
+[Dizo GoPods D goes on sale today at discounted price](https://www.techradar.com/news/dizo-gopods-d-goes-on-sale-today-at-discounted-price)
+
+
+> (Image credit: Realme) Realme launched its first brand under the Realme TechLife brand a couple of weeks ago in India. The Dizo GoPods D TWS earbuds and Dizo Wireless Bluetooth earphones were announced and today, the former will go on sale for the first time in India. The Dizo GoPods D are Dizo's first pair of true wireless earbuds and it is a rebranded version of the Realme Q2 global variant. During the first sale, the company is also offering a special discount wherein you can get the product for Rs 200 less than the usual price.
+
+
