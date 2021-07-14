@@ -41452,3 +41452,53 @@
 > What are the newest earbuds?(Image credit: Beats)The latest earbuds we've tried out are the long-rumored Beats Studio Buds, which are easily the best earbuds Beats has ever made.In other earbuds news, rumors surrounding the Apple AirPods 3 and AirPods Pro 2 continue to circulate. Choosing the best earbuds for your needs and your budget can be a challenge. After all, there are so many different types vying for your attention, including wired in-ear headphones, neckbud-style wireless earphones, and true wireless earbuds.
 
 
+***
+![Builders are the new Pro athletes](https://external-preview.redd.it/w9pypQbRS1S0NQNKJ76P5IDj8FlPjMcOpDrsjZAWUJA.jpg?auto=webp&s=e1743a5cceb2d8268e608b70df2bd57de84f0d8a "Builders are the new Pro athletes")
+
+
+[Builders are the new Pro athletes](https://www.reddit.com/r/Python/comments/ok2yez/builders_are_the_new_pro_athletes/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Mystery over $70 million ransomware gang's web disappearance](https://static.standard.co.uk/2021/06/04/14/2021-05-22T101910Z_426253845_RC2YKN99XVI1_RTRMADP_3_GERMANY-CYBER.JPG?width=1200&width=1200&auto=webp&quality=75 "Mystery over $70 million ransomware gang's web disappearance")
+
+
+[Mystery over $70 million ransomware gang's web disappearance](https://www.standard.co.uk/tech/70-million-dollar-ransomware-gang-web-disappearance-b945734.html)
+
+
+> It appears that websites for the Russian gang blamed for attacks on hundreds of firms have mysteriously gone offline.Both the ransom website for victims to deposit bitcoin and the blog by the gang known as REvil are both now not able to be reached, and there's talk that they've been smashed by the authorities.This comes after president Joe Biden raised the problem with Vladimir Putin on Friday during a phone call.A global study is suggesting around four per cent of newly diagnosed cancer cases in 2020 may have been associated with drinking alcohol.
+
+
+***
+![Anaplan Continues to Explore Different Ways to Put the Customer First](https://mms.businesswire.com/media/20210714005065/en/744937/23/medallia_colorlogo.jpg "Anaplan Continues to Explore Different Ways to Put the Customer First")
+
+
+[Anaplan Continues to Explore Different Ways to Put the Customer First](https://www.businesswire.com/news/home/20210714005065/en/Anaplan-Continues-to-Explore-Different-Ways-to-Put-the-Customer-First)
+
+
+> July 14, 2021 08:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Medallia, Inc. (NYSE: MDLA), the global leader in customer and employee experience, and Anaplan, Inc. (NYSE: PLAN), provider of a leading cloud-native platform for orchestrating business performance, shared results from the deployment of the Medallia Experience Cloud to reimagine how Anaplan collects, manages, and actions customer feedback. Last year, Anaplan replaced a collection of customer feedback mechanisms with the Medallia Experience Cloud.
+
+
+***
+![Armstrong Advances 10G Fiber Strategy with ADTRAN's XGS-PON Solution](https://mms.businesswire.com/media/20210714005070/en/891157/23/2932685_adtran_logo_%282%29.jpg "Armstrong Advances 10G Fiber Strategy with ADTRAN's XGS-PON Solution")
+
+
+[Armstrong Advances 10G Fiber Strategy with ADTRAN's XGS-PON Solution](https://www.businesswire.com/news/home/20210714005070/en/Armstrong-Advances-10G-Fiber-Strategy-with-ADTRAN%E2%80%99s-XGS-PON-Solution)
+
+
+> HUNTSVILLE, Ala.--(BUSINESS WIRE)--ADTRAN®, Inc., (NASDAQ:ADTN), the leading provider of next-generation multigigabit fiber and fiber extension broadband access solutions, today announced Armstrong is leveraging the ADTRAN Total Access 5000 (TA5000) 10G fiber access platform with XGS-PON technology to increase competitiveness, market share and the capabilities of its broadband service. ADTRAN's solution introduces XGS-PON technology that provides Armstrong with the best long-term fiber broadband investment to support current and future bandwidth demands across its six-state service region.
+
+
+***
+![ADTRAN's Combo PON Technology Supercharges Multigigabit Broadband Adoption for Operators Worldwide](https://mms.businesswire.com/media/20210714005072/en/891156/23/2932685_adtran_logo_%282%29.jpg "ADTRAN's Combo PON Technology Supercharges Multigigabit Broadband Adoption for Operators Worldwide")
+
+
+[ADTRAN's Combo PON Technology Supercharges Multigigabit Broadband Adoption for Operators Worldwide](https://www.businesswire.com/news/home/20210714005072/en/ADTRAN%E2%80%99s-Combo-PON-Technology-Supercharges-Multigigabit-Broadband-Adoption-for-Operators-Worldwide)
+
+
+> HUNTSVILLE, Ala.--(BUSINESS WIRE)--ADTRAN®, Inc., (NASDAQ:ADTN), the leading provider of next-generation multigigabit fiber and fiber extension broadband access solutions, today announced that its award-winning Combo PON technology has been adopted by more than 100 operators worldwide since its launch in June 2020. Almost every type of service provider—from altnets, RDOF recipients, multinational Tier 1 operators and cable operators—has embraced ADTRAN's Combo PON technology as the ideal way to scale 10G PON access services within both existing and greenfield networks.
+
+
