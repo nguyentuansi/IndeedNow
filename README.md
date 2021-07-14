@@ -41167,3 +41167,53 @@
 > ZAGG makes cases for, what seems like just about everything, and that includes the Nintendo Switch with this new Kita Grip 360 case. ZAGG is making the case for both the Nintendo Switch and the Nintendo Switch Lite.This case won't work with the recently announced Nintendo Switch OLED though. As that console is slightly larger than the original. According to Nintendo's dimensions, the regular Switch is 102 x 239 x 13.9mm. This is with the Joy Cons attached. The Nintendo Switch OLED however, is 102 x 242 x 13.
 
 
+***
+![Seoul Mapo Police Station fire... Evolving after evacuation of workers, etc.](https://img.sbs.co.kr/newimg/news/20210714/201570810_1280.jpg "Seoul Mapo Police Station fire... Evolving after evacuation of workers, etc.")
+
+
+[Seoul Mapo Police Station fire... Evolving after evacuation of workers, etc.](https://www.tellerreport.com/tech/2021-07-14-seoul-mapo-police-station-fire----evolving-after-evacuation-of-workers--etc-.ry-APsjsad.html)
+
+
+> Tech/Game 2021-07-14T00:10:14.017Z Seoul Mapo Police Station fire... Evolving after evacuation of workers, etc. Tech/Game 2021-06-23T14:34:50.131Z Two men at a disaster workers' memorial rally, arrested in police clash Tech/Game 2021-05-03T14:26:50.698Z Tomorrow, Yeouido, etc. Tech/Game 2021-03-19T00:51:42.895Z Mapo-gu: "Not to impose a fine for the 7-member meeting of Kim Eo-jun Tech/Game 2021-05-24T13:26:11.242Z Seoul decided not to impose a penalty for meeting the 7 members of Kim Eo-jun Tech/Game 2021-06-26T12:44:17.
+
+
+***
+![[News only] I moved to avoid stalkers... Public health center leaked address?](https://img.sbs.co.kr/newimg/news/20210714/201570809_1280.jpg "[News only] I moved to avoid stalkers... Public health center leaked address?")
+
+
+[[News only] I moved to avoid stalkers... Public health center leaked address?](https://www.tellerreport.com/tech/2021-07-14-[news-only]-i-moved-to-avoid-stalkers----public-health-center-leaked-address-.ByrOwioja_.html)
+
+
+> [News only] A woman's appeal came out that a health center employee leaked the address of the house where she moved to avoid a stalker, and she is trembling again in fear. This is a petition that was posted on the Blue House public petition bulletin board on the 9th. [News only] A woman's appeal came out that a health center employee leaked the address of the house where she moved to avoid a stalker, and she is trembling again in fear. This is a petition that was posted on the Blue House public petition bulletin board on the 9th.
+
+
+***
+!["I'm a confirmed patient" The pun that caused the cafe to close, the reason I was acquitted](https://img.sbs.co.kr/newimg/news/20210714/201570808_1280.jpg ""I'm a confirmed patient" The pun that caused the cafe to close, the reason I was acquitted")
+
+
+["I'm a confirmed patient" The pun that caused the cafe to close, the reason I was acquitted](https://www.tellerreport.com/tech/2021-07-14-"i-m-a-confirmed-patient"-the-pun-that-caused-the-cafe-to-close--the-reason-i-was-acquitted.SJZQvsss6O.html)
+
+
+> [News only] A man in his 50s who made a joke to the cafe owner that he was a confirmed case of Corona 19 and stopped business for two days was handed over to trial. [News only] A man in his 50s who made a joke to the cafe owner that he was a confirmed case of Corona 19 and stopped business for two days was handed over to trial. A man in his 50s visited a cafe in Incheon in March of last year. The cafe owner claimed, "At the time, Mr. A said to his party, 'These days, Corona makes a lot of noise, I already got it.
+
+
+***
+![微软发布本月累积更新：修复Windows 10多个高危漏洞](https://static.cnbetacdn.com/thumb/article/2021/0714/327b6dab03c5236.jpg "微软发布本月累积更新：修复Windows 10多个高危漏洞")
+
+
+[微软发布本月累积更新：修复Windows 10多个高危漏洞](http://www.cnbeta.com/articles/tech/1152749.preview)
+
+
+> 而自本月开始，以下功能更新将不再获得 Windows 10 的累积更新：● Windows 10, version 1511● Windows 10, version 1703● Windows 10, version 1709● Windows 10, version 1803● Windows 10, version 1903适用于 Windows 10 Version 1909 功能更新的 KB5004245 累积更新带来了以下修复：● 用于验证用户名和密码的更新。● 提高 Windows 执行基本操作时安全性的更新。● 为 CVE-2021-33757 增加了高级加密标准（AES）加密保护措施。欲了解更多信息，请参见 KB5004605。● Windows Apps, Windows Management, Windows Fundamentals, Windows Authentication, Windows User Account Control (UAC), Operating System Security, Windows Virtualization, Wind
+
+
+***
+![Huawei puts cyber security, privacy protection as top priorities](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/5c598b765efa4174883c3e76b86dceb3.jpg "Huawei puts cyber security, privacy protection as top priorities")
+
+
+[Huawei puts cyber security, privacy protection as top priorities](https://www.koreatimes.co.kr/www/tech/2021/07/133_312102.html)
+
+
+> By Baek Byung-yeulCover image of Huawei's sustainability report / Courtesy of Huawei KoreaHuawei Technologies is using its expertise in information and communications technology (ICT) for joint prosperity between the business community and society. Its Korean unit said on Tuesday that the company recently released its 2020 sustainability report to share what kinds of progress it has made over the past years in its four strategies for sustainability: digital inclusion, security and trustworthiness, environmental protection and a harmonious business ecosystem.
+
+
