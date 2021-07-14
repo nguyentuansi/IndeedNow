@@ -41592,3 +41592,53 @@
 > The new FaceTime feature allows you to experience streaming TV, movies and music within a video chat. Screenshot/Apple This story is part of Apple Event, our full coverage of the latest news from Apple headquarters. Apple recently announced some big changes to its FaceTime video chat app, including the ability to use FaceTime on an Android or Windows device. Upgrades arrived with iOS 15's public beta and will be widely released this fall, when the iPhone 13 is also expected to make an appearance.
 
 
+***
+![Samsung Galaxy Tab S8: News, leaks, release date, specs, and rumors!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/samsung-galaxy-tab-s7-plus-review-3.jpg "Samsung Galaxy Tab S8: News, leaks, release date, specs, and rumors!")
+
+
+[Samsung Galaxy Tab S8: News, leaks, release date, specs, and rumors!](https://www.androidcentral.com/samsung-galaxy-tab-s8)
+
+
+> Source: Hayato Huseman / Android Central Among the best Android tablets available today, the only real toss-up is between the Samsung Galaxy Tab S7 and its upgrade, the Galaxy Tab S7+. But considering both tablets are about a year old with aging chipsets, we're eagerly anticipating when the new Galaxy Tab S8 will arrive. We've only just begun to see initial Galaxy Tab S8 rumors and leaks in July, making it unlikely that the highly scrutinized and leaky company will release the new tablet anytime soon.
+
+
+***
+![Ready to upgrade your mesh Wi-Fi? These are some of the best options.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/03/asus-zenwifi-xt8-charcoal-table.jpg "Ready to upgrade your mesh Wi-Fi? These are some of the best options.")
+
+
+[Ready to upgrade your mesh Wi-Fi? These are some of the best options.](https://www.androidcentral.com/best-wi-fi-6-mesh-routers)
+
+
+> The best Wi-Fi 6 mesh routers take whole-home wireless speeds to the next level. Wi-Fi 6 (802.11ax) has allowed mesh systems to deliver full gigabit speeds easily throughout a large house by getting even more performance out of the available spectrum. Wi-Fi 6 lets compact routers hit gigabit speeds on their own and over 500Mbps while deployed as a mesh. With more phones than ever, including Wi-Fi 6 support, and families asking more of their internet connections than ever, it's a good time to upgrade to Wi-Fi 6.
+
+
+***
+![Loki's Season 2 Renewal Is a Clue to Marvel's Multiverse](https://media.wired.com/photos/60ef1d162d3e5fd644c4f6a6/191:100/w_1280,c_limit/Culture_VFD5020_105_comp_v007.1020_R.jpg "Loki's Season 2 Renewal Is a Clue to Marvel's Multiverse")
+
+
+[Loki's Season 2 Renewal Is a Clue to Marvel's Multiverse](https://www.wired.com/story/loki-marvel-multiverse/)
+
+
+> Heretofore, Marvel's Disney+ shows have been snacks. Amuse-bouches to keep fans in the cinematic universe in between their trips to the cinema. These shows are also usually ways to tie up loose ends, let beloved characters go on sidequests. In WandaVision, Wanda Maximoff got to imagine a life with Vision following his death in Avengers: Infinity War. The Falcon and the Winter Soldier is about Sam Wilson taking on the mantle of Captain America, after Steve Rogers gave him the shield in Endgame. Loki was meant to show what happened when the God of Mischief took off with the Tesseract in Endgame.
+
+
+***
+![Go Ahead, Take $75 Off This Toshiba 4K Smart TV Today Only](https://www.androidheadlines.com/wp-content/uploads/2021/07/Toshiba-4K-Smart-TV-Sale.jpg "Go Ahead, Take $75 Off This Toshiba 4K Smart TV Today Only")
+
+
+[Go Ahead, Take $75 Off This Toshiba 4K Smart TV Today Only](https://www.androidheadlines.com/2021/07/toshiba-50-inch-4k-smart-tv-fire-tv-deal-sale-price.html)
+
+
+> Right now over at Best Buy, you can grab the Toshiba 50-inch Smart TV from its Class C350 Series for $75 off the normal listed price. This a TV that runs on Amazon's Fire TV smart TV platform, so you get some really cool baked in features. Like access to Prime Video, Netflix, Hulu, Disney+, HBO Max, and many, many more streaming services.Usually Best Buy would be charging $470 for this TV model. But it's currently on sale for $395. This is also a limited time deal and won't last beyond today. In fact, it ends at 10PM PST tonight.
+
+
+***
+![Zoom call Remove Background filter using Python and OpenCV](https://external-preview.redd.it/ZbLkYCfqg65mJsoh7dUuwwVhdR1i5Lw4m35-_Hx57UY.jpg?auto=webp&s=09dd354d080794b2ae257e2f5c4f3b7b04733525 "Zoom call Remove Background filter using Python and OpenCV")
+
+
+[Zoom call Remove Background filter using Python and OpenCV](https://www.reddit.com/r/Python/comments/ok9n5q/zoom_call_remove_background_filter_using_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
