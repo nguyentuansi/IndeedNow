@@ -41973,3 +41973,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Slow iPhone? This one-minute task will speed it up instantly](https://www.cnet.com/a/img/-mFB_A2jrDB8n6twtXRLkr6Hs2U=/1200x630/2021/04/24/2815de37-2ade-4497-9f80-248eb64b3940/124-iphone-12-purple-2021.jpg "Slow iPhone? This one-minute task will speed it up instantly")
+
+
+[Slow iPhone? This one-minute task will speed it up instantly](https://www.cnet.com/tech/mobile/how-to-clear-cache-on-iphone/)
+
+
+> If your iPhone is running slowly, it's worth trying to clear the cache to speed it up. Sarah Tew/CNET Your iPhone is at its best when it's snapping from app to app and whipping open internet tabs. But sometimes the shortcuts it uses to stay fast can slow things down over time. Clearing your cache is a quick way to speed things up again. Typically, visiting a website requires your phone to download information like photos, banners and other data. To help speed up that process, most internet browsers will store some of that data in a cache so it's easier to retrieve.
+
+
+***
+![Pro-Ject Debut Pro turntable takes on Rega Planar 3](https://www.cnet.com/a/img/aJ-y6Z8EjmZ1p0SyacoRxXhZQiM=/1200x630/2021/07/14/5bee8108-b7e5-493b-8e16-50772ce28aa0/debut-pro-cutout-sumiko.png "Pro-Ject Debut Pro turntable takes on Rega Planar 3")
+
+
+[Pro-Ject Debut Pro turntable takes on Rega Planar 3](https://www.cnet.com/tech/home-entertainment/pro-ject-debut-pro-turntable-takes-on-rega-planar-3/)
+
+
+> Pro-Ject Hi-fi manufacturer Pro-Ject is celebrating its 30th anniversary with a follow-up to its excellent Debut Evo turntable: the Debut Pro.Â At a $899 retail price, it's plain to see the new Debut Pro is gunning for the Rega Planar 3's dominance of the under-$1000 landscape. The Pro-Ject even manages to outdo the Rega in several key areas, including adjustable feet!The Pro features a new 8.6-inch, carbon fiber tonearm with a wrapped aluminum arm tube. The thick platter is also aluminum and like the Debut Evo features TPE damping, though this version seems to be skinned in the stuff.
+
+
+***
+![iOS 15: Public beta, release date, new features and more about Apple's new OS](https://www.cnet.com/a/img/ZUJ12HJfW6k_CMo-ZPlDF0Tqq_0=/1200x630/2021/06/07/451c1cbd-71ef-4371-a202-946d4816a5bf/2021-06-07-15-20-50.png "iOS 15: Public beta, release date, new features and more about Apple's new OS")
+
+
+[iOS 15: Public beta, release date, new features and more about Apple's new OS](https://www.cnet.com/tech/services-and-software/ios-15-public-beta-release-date-new-features-and-more-about-apples-new-os/)
+
+
+> iOS 15 includes a ton of new features for your iPhone. Apple This story is part of Apple Event, our full coverage of the latest news from Apple headquarters. It's official: iOS 15 is on the way. We got a first look at Apple's next major operating system update at the company's virtual Worldwide Developers Conference in June, followed by a developer beta and now a public beta. (Here's how to download the iOS 15 public beta and the three things you need to know before installing.) A third iteration of the new operating system, called iOS 15 beta 3, has been released to developers as we anticipate a general release of the new OS in early fall.
+
+
+***
+![TP-Link Kasa Smart Wi-Fi Power Strip KP303](https://cdn.mos.cms.futurecdn.net/8VTgkztz6YmgfmAYVADEYT-1200-80.jpg "TP-Link Kasa Smart Wi-Fi Power Strip KP303")
+
+
+[TP-Link Kasa Smart Wi-Fi Power Strip KP303](https://www.techradar.com/reviews/tp-link-kasa-smart-wi-fi-power-strip-kp303)
+
+
+> As well as producing an affordable range of routers and powerline adapters for more than two decades, TP-Link has become a trustworthy name for the best smart home devices, too. Since 2015, the brand has offered a range of such items, including some of the best home security cameras, best smart light bulbs, and the best smart plugs.The TP-Link Kasa Smart Wi-Fi Power Strip KP303 takes some of the positives of the company's smart plugs – such as the KP105 and the HS110 – and builds them into a powerstrip that allows you to control up to three electrical devices plugged into the sockets, even when you're not at home.
+
+
+***
+![TP-Link Kasa Smart Wi-Fi Power Strip KP303 review](https://cdn.mos.cms.futurecdn.net/8VTgkztz6YmgfmAYVADEYT-1200-80.jpg "TP-Link Kasa Smart Wi-Fi Power Strip KP303 review")
+
+
+[TP-Link Kasa Smart Wi-Fi Power Strip KP303 review](https://www.techradar.com/reviews/tp-link-kasa-smart-wi-fi-power-strip-kp303)
+
+
+> As well as producing an affordable range of routers and powerline adapters for more than two decades, TP-Link has become a trustworthy name for the best smart home devices, too. Since 2015, the brand has offered a range of such items, including some of the best home security cameras, best smart light bulbs, and the best smart plugs.The TP-Link Kasa Smart Wi-Fi Power Strip KP303 takes some of the positives of the company's smart plugs – such as the KP105 and the HS110 – and builds them into a powerstrip that allows you to control up to three electrical devices plugged into the sockets, even when you're not at home.
+
+
