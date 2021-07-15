@@ -41826,3 +41826,50 @@
 > I have a new iPad Pro (2021), which is great, and it's running iOS 14.6. I'm running into an odd problem and I can't tell if it's a bug or due to an errant setting. I like to watch TV or videos in Safari in full-screen on mute while listening to music using the Music app. For example, a YouTube video, or a baseball game on ATT.tv with the announcers muted. For reasons I can't figure out, when I do this, the iPad dims and then auto-locks after two minutes, as per my auto-lock setting. It does not auto-lock if the video is playing with sound, with the Music app inactive.
 
 
+***
+![pdfme, the most powerful library in python to create PDF documents](https://external-preview.redd.it/z86jC8Ved3IrphB654y8GxUVfzUBR51UzrN59_ymitE.jpg?auto=webp&s=6266cca30fbda6f380f4adcb4e168eb79c417ae6 "pdfme, the most powerful library in python to create PDF documents")
+
+
+[pdfme, the most powerful library in python to create PDF documents](https://www.reddit.com/r/Python/comments/okl04n/pdfme_the_most_powerful_library_in_python_to/)
+
+
+> I developed the pdfme library, the most powerful library in python to create PDF documents.Check the repo here https://github.com/aFelipeSP/pdfme and the docs here https://pdfme.readthedocs.io/.
+
+
+***
+![Sentiment Analysis on the subreddit r/technews with Python](https://external-preview.redd.it/3z9_eKjxYn18uL9Ve1pNwW3-QS_7XeELSVnmhTiORIk.jpg?auto=webp&s=afd91216b6229dea8477fdcd1247a5c21b2120cd "Sentiment Analysis on the subreddit r/technews with Python")
+
+
+[Sentiment Analysis on the subreddit r/technews with Python](https://www.reddit.com/r/Python/comments/okkywc/sentiment_analysis_on_the_subreddit_rtechnews/)
+
+
+> Hi everyone! I wrote an article about perfoming sentiment analyis using the Python library NLTK on tech news headlines on Reddit, scraped using the PRAW library.I hope you learn something new from it and please do leave me any comments about it below!Link: https://medium.com/bitgrit-data-science-publication/sentiment-analysis-on-reddit-tech-news-with-python-cbaddb8e9bb6
+
+
+***
+![Twitter to end ephemeral 'fleets' one year after launch](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/twitter-sixteen_nine.jpg "Twitter to end ephemeral 'fleets' one year after launch")
+
+
+[Twitter to end ephemeral 'fleets' one year after launch](https://www.businesstoday.in/technology/story/twitter-to-end-ephemeral-fleets-one-year-after-launch-301384-2021-07-15)
+
+
+> Associated Press Jul 15, 2021, Updated Jul 15, 2021, 9:30 AM IST Twitter is disappearing its disappearing tweets, called fleets, after they didn't catch on. The company began testing tweets that vanish after 24 hours last March in Brazil. Fleets were designed to allay the concerns of new users who might be turned off by the public and permanent nature of normal tweets. "However, we haven't seen an increase in the amount of new people joining the conversation with Fleets like we hoped," Twitter said in a statement Wednesday.
+
+
+***
+![An event-driven mindset](https://external-preview.redd.it/finYgk6S3WXPLUqyqu9v5ZYPwsqARlMnIBw9vWGPhMI.jpg?auto=webp&s=fc8f56bf6130a98f1d9f2248cd0ef07ce7265365 "An event-driven mindset")
+
+
+[An event-driven mindset](https://www.reddit.com/r/programming/comments/okktzz/an_eventdriven_mindset/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[The Trade Desk](https://itwire.com/freelancer-sp-720/tag/The%20Trade%20Desk.html)
+
+
+> Data cloud specialist Snowflake has announced support for Unified ID 2.0, which will help organisations enrich their audience data without sharing personally identifiable information.
+
+
