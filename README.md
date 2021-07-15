@@ -42120,3 +42120,47 @@
 > Tech/StartupsPersonal TechAutoMC MasterclassOpinionWebinarResearchIPORESEARCHPre-MarketAdviceBroker ResearchTechnicalsWEBINARINTERVIEW SERIESOTHERSBondsCryptocurrencyToolsTOOLSReturns CalculatorRisk AnalyzerAsset AllocatorSIP ReturnMF FORUMTRACKYour MF InvestmentMF Prices
 
 
+***
+![Marvel's Avengers War for Wakanda Won't be 25 Hours Long](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Black%20Panther.jpg?itok=aj76FISy "Marvel's Avengers War for Wakanda Won't be 25 Hours Long")
+
+
+[Marvel's Avengers War for Wakanda Won't be 25 Hours Long](https://techraptor.net/gaming/news/marvels-avengers-war-for-wakanda-wont-be-25-hours-long)
+
+
+> 07/15/2021 - 12:06 | By: Patrick Perrault I'll take 'Strange Crossovers' for $500, Alex. EW has revealed an expansion to Marvel's Avengers called War for Wakanda, and while it was initially reported to be a 25-hour single-player expansion, it has been confirmed that this was a "misinterpretation". It's instead 25 hours in total for "the entire story campaign from the core release through the War for Wakanda Expansion". Who is the voice for King T'Challa in War for Wakanda? Christopher Judge, the voice of Kratos from the God of War series, will be the voice King T'Challa/Black Panther in War for Wakanda revealed by EW: "I turned it down straight away," Judge told EW over Zoom about when he was first approached about the voice role.
+
+
+***
+![WhatsApp banned over 20 lakh accounts in India in a month, reveals first intermediary guidelines report](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/whatsapp-app-icon-indiatoday_1-647x363.jpeg?HShzdj7p9pzpHH0zbgN_Bs7KPXYWx_HK "WhatsApp banned over 20 lakh accounts in India in a month, reveals first intermediary guidelines report")
+
+
+[WhatsApp banned over 20 lakh accounts in India in a month, reveals first intermediary guidelines report](https://www.indiatoday.in/technology/news/story/whatsapp-banned-over-20-lakh-accounts-in-india-in-a-month-reveals-first-intermediary-guidelines-report-1828662-2021-07-15)
+
+
+> WhatsApp says that the first report captures data for the period from May 15 to June 15 2021.The messaging app says that by "taking action", it means it has either banned an account or restored based on the inputs or complaints it has received.WhatsApp revealed that it banned a total of 2,011,000 user accounts in India in a month.WhatsApp on Thursday published its first intermediary guidelines report in compliance with the new Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.
+
+
+***
+![NBA 2K22 release date and news – everything we know so far](https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/968C3F81-5EBB-49E8-A345-04BC8B61B9DF.jpe?strip=all&quality=100&w=1200&h=800&crop=1 "NBA 2K22 release date and news – everything we know so far")
+
+
+[NBA 2K22 release date and news – everything we know so far](https://www.the-sun.com/tech/3289130/nba-2k22-release-date-news-platforms-cover-star/)
+
+
+> CALLING all ballers – there's a new NBA game about to land. We've got all the details on NBA 2K22, including the release date and supported platforms. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news NBA 2K22 is nearly hereCredit: 2K Sports NBA 2K22 – what is it? The NBA series is a long-running franchise of basketball games. They fall under the umbrella of simulation games, because they try to be as realistic as possible. Latest in the series is NBA 2K21, but NBA 2K22 is right around the corner.
+
+
+***
+[NBA 2K22 release date and news – everything we know so far](https://www.thesun.ie/tech/7296961/nba-2k22-release-date-news-platforms-cover-star/)
+
+
+> CALLING all ballers – there's a new NBA game about to land. We've got all the details on NBA 2K22, including the release date and supported platforms. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news NBA 2K22 – what is it? The NBA series is a […]
+
+
+***
+[WhatsApp Bans 2 Mn Accounts: First Compliance Report Under IT Rules](https://www.thequint.com/tech-and-auto/whatsapp-banned-2-million-accounts-between-15-may-and-15-june)
+
+
+> WhatsApp also informed that they received 375 grievances during the same period.
+
+
