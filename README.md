@@ -41732,3 +41732,50 @@
 > You don't need an advanced set of skills to download YouTube Videos. Believe it or not, doing so is a straightforward process as long as you have the right tools on hand, and you don't even require a paid subscription to do so. While YouTube Premium allows the user to download a video for offline viewing, free ways are also on hand that lets you watch or listen to them without using the official application. You simply need to figure out how to download YouTube videos, and you're free to watch them without an internet connection.
 
 
+***
+[3 testify Georgia's Beck directed money flows from insurer](https://www.mymotherlode.com/news/technology/1848725/3-testify-georgias-beck-directed-money-flows-from-insurer.html)
+
+
+> Two former friends of suspended Georgia Insurance Commissioner Jim Beck are testifying that he directed them to bill an insurer for large sums
+
+
+***
+![Pilgrim José Andrés: "I am an individualist in some things, but I like to be accompanied to the top"](https://phantom-elmundo.unidadeditorial.es/f8f4c3a1bc5b65d63be5dbdf982fb88d/f/jpg/assets/multimedia/imagenes/2021/07/14/60ee9549e4d4d8130b8b45d5_facebook.jpg "Pilgrim José Andrés: "I am an individualist in some things, but I like to be accompanied to the top"")
+
+
+[Pilgrim José Andrés: "I am an individualist in some things, but I like to be accompanied to the top"](https://www.tellerreport.com/tech/2021-07-15-pilgrim-josé-andrés--"i-am-an-individualist-in-some-things--but-i-like-to-be-accompanied-to-the-top".B1z_agT6d.html)
+
+
+> Tech/Game 2021-07-14T00:18:13.463Z This revolutionary synthetic clothing lowers body temperature by up to 5 degrees Tech/Game 2021-07-14T05:25:02.070Z Thousands of nude images spread in chat groups on Telegram Tech/Game 2021-07-14T07:16:44.381Z Websites of Russian hacker group REvil are offline Tech/Game 2021-07-14T13:22:17.556Z Driving report Hyundai Kona E: Welcome to the club of 400 Tech/Game 2021-07-14T04:43:16.774Z Authorities "Pfizer vaccines in their 40s and younger are mainly inoculated..
+
+
+***
+!["Is an entertainment establishment essential?"... Controversy over Jeju Island's vaccination rankings](https://img.sbs.co.kr/newimg/news/20210715/201571115_1280.jpg ""Is an entertainment establishment essential?"... Controversy over Jeju Island's vaccination rankings")
+
+
+["Is an entertainment establishment essential?"... Controversy over Jeju Island's vaccination rankings](https://www.tellerreport.com/tech/2021-07-15-"is-an-entertainment-establishment-essential-"----controversy-over-jeju-island-s-vaccination-rankings.S17_UnxaTO.html)
+
+
+> Speaking of Jeju Island, from the end of this month, the government has decided to run a nationwide batch inoculation and autonomous inoculation in each local government. Jeju Island's vaccination plan is on the cutting board. Speaking of Jeju Island, from the end of this month, the government has decided to run a nationwide batch inoculation and autonomous inoculation in each local government. Jeju Island's vaccination plan is on the cutting board. This is because, among the 35,000 self-inoculation of the COVID-19 vaccine, employees in entertainment establishments, instructors at private institutes, call center workers, and airport workers were selected as the top priority.
+
+
+***
+![OPPO Reno5 Series captures Metro Manila by night to #PictureLifeTogether](https://media.philstar.com/photos/2021/07/14/oppo-reno5-series_2021-07-14_15-57-02.jpg "OPPO Reno5 Series captures Metro Manila by night to #PictureLifeTogether")
+
+
+[OPPO Reno5 Series captures Metro Manila by night to #PictureLifeTogether](https://www.philstar.com/lifestyle/gadgets/2021/07/15/2112496/oppo-reno5-series-captures-metro-manila-night-picturelifetogether)
+
+
+> MANILA, Philippines — Living in an urban jungle like Manila, we sometimes take for granted the beauty of the city, as we go through our daily grinds as safely and as hurriedly as possible. But even in between all the concrete, nighttime shines a different light on the city. Bright lights and neon signs give a level of warmth that's meant to be remembered and captured. Check out some shots of Manila by night captured by the camera powerhouse smartphone, OPPO Reno5 Series that can preserve magnificent night time views in full definition.
+
+
+***
+![Is Anything Cool Anymore?](https://cdn.vox-cdn.com/thumbor/XqqcSNkrjo-OR2RRMoGSNGyDZR4=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22713628/The_Great_American_Cool_2.jpg "Is Anything Cool Anymore?")
+
+
+[Is Anything Cool Anymore?](https://www.vox.com/the-goods/22570006/cool-consumer-identity-gen-z-cheugy)
+
+
+> Ten years ago, I interned at a literary magazine, publishing imprint, and agency in Minneapolis called Paper Darts. It's the first time in my life I had ever felt like a member of the in-crowd. For the in-crowd, taste is all about social bonding. It isn't developed in isolation. It's a direct result of engagement with a peer group of other avid consumers. It was there at those meetings in my boss' cramped, modestly decorated house that what I was supposed to like was communicated to me: tacos (one of the editors had an entire blog devoted to them, which they took very seriously); the musical act Neon Indian; Portlandia (Fred Armisen blurbed one of the imprint's books, although, judging from his quick response to the email request, he likely didn't read it); sans serif fonts; and clothing brands like ModCloth, among other early-2010s trends that were both things to buy and ways of being sold to.
+
+
