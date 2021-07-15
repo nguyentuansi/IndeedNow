@@ -42244,3 +42244,53 @@
 > Source: Android Headlines A new rumor claims the Galaxy Watch 4 series will be powered by the Samsung Exynos W920. This new processor is said to offer up to 1.5x faster performance over its predecessor. Samsung is rumored to unveil the Galaxy Watch 4 series at an Unpacked event next month. After seeing the Galaxy Watch 4 and Watch 4 Classic appear on Amazon, today, we might have a better idea of the processor powering the likely contenders for the best Android smartwatch. According to a report from SamMobile, Samsung will be using its new Exynos W920 chipset, which is rumored to offer 1.
 
 
+***
+![Hillicon Valley: Surgeon general issues health misinformation advisory](https://thehill.com/sites/default/files/article_images/murthyvivek_071521getty.jpg "Hillicon Valley: Surgeon general issues health misinformation advisory")
+
+
+[Hillicon Valley: Surgeon general issues health misinformation advisory](https://thehill.com/policy/technology/overnights/563286-hillicon-valley-surgeon-general-issues-health-misinformation)
+
+
+> Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news world from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter by clicking HERE.Welcome and Happy Thursday! Follow our cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@millsrodrigo) and Rebecca Klar (@rebeccaklar), for more coverage. The Biden administration put pressure Thursday on tech companies to do more to combat the spread of the misinformation on their platforms.
+
+
+***
+![Valve Steam Deck reservations open Friday. Here's how to get one](https://www.cnet.com/a/img/8sDfkie5lvq4nF50YZn-_wMUUZI=/1200x630/2021/07/15/581cebc6-4d2b-4691-bc90-40a0b731603b/screen-shot-2021-07-15-at-5-49-47-pm.png "Valve Steam Deck reservations open Friday. Here's how to get one")
+
+
+[Valve Steam Deck reservations open Friday. Here's how to get one](https://www.cnet.com/tech/computing/valve-steam-deck-reservations-open-friday-heres-how-to-get-one/)
+
+
+> Want to get your hands on a Steam Deck? Valve In a surprise move on Thursday, Valve revealed the Steam Deck, a portable device similar to the Nintendo Switch ($299 at Amazon) that plays PC games. The company offered up basic details on its new system said it'll be available in December.The Steam Deck is Valve's entry into the portable gaming device market. It looks similar to a Switch but with a 7-inch touchscreen, 16GB of RAM and powered by a custom Zen 2 CPU and RDNA 2 graphics, which is enough power to run most AAA games.
+
+
+***
+![Art Blocks Brings Big Money to Artists Who Paint With Code](https://external-preview.redd.it/mZDEVnZwfFXoiAIY19Y7Yn-xJ1xlOwKTeCsOjGZmzqg.jpg?auto=webp&s=df62a52d4720d727b13c8e52ce4a93417df5bbb2 "Art Blocks Brings Big Money to Artists Who Paint With Code")
+
+
+[Art Blocks Brings Big Money to Artists Who Paint With Code](https://www.reddit.com/r/programming/comments/ol2vn9/art_blocks_brings_big_money_to_artists_who_paint/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![17 New York Arts Organizations Are Among Those Receiving $30 Million](https://static01.nyt.com/images/2020/10/30/arts/29queens-museum04/29queens-museum04-facebookJumbo.jpg "17 New York Arts Organizations Are Among Those Receiving $30 Million")
+
+
+[17 New York Arts Organizations Are Among Those Receiving $30 Million](https://www.nytimes.com/2021/07/15/arts/design/bloomberg-philanthropies-tech-program-arts.html)
+
+
+> Continue reading the main storyThe Queens Museum, Harlem Stage and 44 other groups were chosen to receive aid from Bloomberg Philanthropies for digital innovation.Installation view of Ulrike Müller's 'The Conference of the Animals (A Mural),' from 2020, at the Queens Museum, one institution  benefiting from the grants.Credit...Callicoon Fine Arts and Queens MuseumJuly 15, 2021, 5:51 p.m. ETThe Queens Museum is among 46 cultural nonprofit organizations selected for a new $30 million program by Bloomberg Philanthropies that is intended to support improving technology at the groups and helping them stabilize and thrive in the wake of the pandemic.
+
+
+***
+![Toyota revs up its digital mapping subsidiary Woven Planet](https://japantoday.com/images/japan-today-social.jpg "Toyota revs up its digital mapping subsidiary Woven Planet")
+
+
+[Toyota revs up its digital mapping subsidiary Woven Planet](https://japantoday.com/category/tech/toyota-revs-up-its-digital-mapping-subsidiary-woven-planet)
+
+
+> Toyota plans to hire more people and invest heavily in its subsidiary Woven Planet to work on mobility technology so the Japanese automaker stays competitive amid the global shift to using artificial intelligence and robotics in everyday driving. "Toyota's traditional strength in hardware is something we never want to lose. To make safe mobility we need both, great hardware and great software," Woven Planet Holdings Chief Executive James Kuffner said. "The world is changing. The automotive industry is going through this once-in-a-hundred-year revolution.
+
+
