@@ -42073,3 +42073,50 @@
 > Microsoft is planning to bring Clippy, its Office 97 assistant that looks like a paperclip, back to Windows.The software giant tweeted a photo of Clippy saying that, if the post received 20,000 likes, it would replace the paperclip emoji in Microsoft Office with Clippy.At time of writing, the tweet has nearly 134,000 likes.Clippy infamously offered support in Microsoft Word and other programs, such as Microsoft Publisher, but by 2008 the assistant was killed. Windows 10, Microsoft's current operating system, uses Cortana as its virtual assistant – a name taken from the Halo game franchise.
 
 
+***
+[Twitter Says Goodbye to Fleets Within 8 Months of Its Launch](https://www.thequint.com/tech-and-auto/twitter-says-good-bye-to-fleets-within-8-months-of-its-launch)
+
+
+> Fleets are ephemeral tweets that expire after 24 hours.
+
+
+***
+![Udemy 5 (100% off Coupons) python Courses [Limited Time]](https://external-preview.redd.it/JeSzppR9Am_8VurdzP47BYV1MIZxCMOn46s5Wvgzv7I.jpg?auto=webp&s=9fe94789c176ffcfdddbeea4dd7c42f3eba623b0 "Udemy 5 (100% off Coupons) python Courses [Limited Time]")
+
+
+[Udemy 5 (100% off Coupons) python Courses [Limited Time]](https://www.reddit.com/r/Python/comments/okte9g/udemy_5_100_off_coupons_python_courses_limited/)
+
+
+> Good Evening everyone,Love Learning, Just found some of the top courses to learn programming on Udemy. Some of the instructors are giving 100% off coupons due to the quarantine. Grabbed most of them from r/FreeUdemyCoupons and some from the Facebook group. Might help some of you out. Let's learn togetherOnce you enrol on this course you can get lifetime updateswill try adding more courses here (by updating the thread) as I find them.
+
+
+***
+![Google pushes cloud infrastructure in India as demand grows](https://image-prod.iol.co.za/resize/650x366/Picture-Unsplash?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/48a539d2-e4dd-5733-ad50-b8e4bb2863a5&operation=CROP&offset=0x101&resize=1950x1097 "Google pushes cloud infrastructure in India as demand grows")
+
+
+[Google pushes cloud infrastructure in India as demand grows](https://www.iol.co.za/technology/google-pushes-cloud-infrastructure-in-india-as-demand-grows-ee44cf44-2015-437b-b89f-acdff26b673f)
+
+
+> Picture: UnsplashShare this article:Alphabet Inc's Google is ramping up cloud infrastructure in India with a second cluster of data centres in and around capital New Delhi to meet increasing customer demands in a key growth market, senior company executives said. The Google cloud region in Delhi and its outskirts is the U.S. tech giant's second such piece of infrastructure in the country and the tenth in the Asia Pacific."We have seen enormous growth in demand for Google cloud services in India so expanding our footprint in a new cloud region gives us the ability to offer more capacity for growth over many years," Thomas Kurian, CEO at Google Cloud, told a news conference this week ahead of a formal announcement on Thursday.
+
+
+***
+![Hubble's in trouble: Nasa toils to fix the space telescope](https://static.standard.co.uk/2021/07/15/14/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75 "Hubble's in trouble: Nasa toils to fix the space telescope")
+
+
+[Hubble's in trouble: Nasa toils to fix the space telescope](https://www.standard.co.uk/tech/hubble-s-in-trouble-nasa-toils-to-fix-the-space-telescope-b945992.html)
+
+
+> The Hubble space telescope is in trouble after a software crash.Nasa engineers are currently trying to fix the worst outage in the history of the super-spyglass, which launched in 1990 and has been mostly down for the past month.The possible cause of the problems is the power control unit sending voltage to the computer, but a series of code commands sent to reboot Hubble have already failed.Staying with space, Jeff Bezos is plotting his blast-off from West Texas a little over a week after Virgin Galactic's Sir Richard Branson.
+
+
+***
+![In Pictures: All you need to know about OLA Electric Scooter](https://images.moneycontrol.com/static-mcnews/2021/07/Ola-Electric-Scooter1-770x433.jpg "In Pictures: All you need to know about OLA Electric Scooter")
+
+
+[In Pictures: All you need to know about OLA Electric Scooter](https://www.moneycontrol.com/news/photos/technology/auto/in-pictures-all-you-need-to-know-about-ola-electric-scooter-7179061.html)
+
+
+> Tech/StartupsPersonal TechAutoMC MasterclassOpinionWebinarResearchIPORESEARCHPre-MarketAdviceBroker ResearchTechnicalsWEBINARINTERVIEW SERIESOTHERSBondsCryptocurrencyToolsTOOLSReturns CalculatorRisk AnalyzerAsset AllocatorSIP ReturnMF FORUMTRACKYour MF InvestmentMF Prices
+
+
