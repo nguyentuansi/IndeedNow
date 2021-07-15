@@ -42023,3 +42023,53 @@
 > As well as producing an affordable range of routers and powerline adapters for more than two decades, TP-Link has become a trustworthy name for the best smart home devices, too. Since 2015, the brand has offered a range of such items, including some of the best home security cameras, best smart light bulbs, and the best smart plugs.The TP-Link Kasa Smart Wi-Fi Power Strip KP303 takes some of the positives of the company's smart plugs – such as the KP105 and the HS110 – and builds them into a powerstrip that allows you to control up to three electrical devices plugged into the sockets, even when you're not at home.
 
 
+***
+![WhatsApp beta testing multi-device support: How will it adapt its infrastructure to ensure end-to-end encryption?](https://images.financialexpress.com/2021/07/whatsapp-reuters-1-1.jpeg "WhatsApp beta testing multi-device support: How will it adapt its infrastructure to ensure end-to-end encryption?")
+
+
+[WhatsApp beta testing multi-device support: How will it adapt its infrastructure to ensure end-to-end encryption?](https://www.financialexpress.com/industry/technology/whatsapp-beta-testing-multi-device-support-how-will-it-adapt-its-infrastructure-to-ensure-end-to-end-encryption/2291086/)
+
+
+> By: Bulbul Dhawan | July 15, 2021 5:31 PMCurrently, WhatsApp is running beta testing of the feature with a limited number of users.WhatsApp: WhatsApp has for long only offered WhatsApp Web as something remotely close to multi-device access, and even then, it requires users to have their phone powered on and connected to be able to work. However, now, a new beta test is being conducted by the Facebook-owned platform that is looking at supporting multiple devices without needing a phone in the mix.
+
+
+***
+![Lyft is bringing back a version of shared rides](https://cdn.cnn.com/cnnnext/dam/assets/210714142741-lyft-rideshare-file-restricted-super-tease.jpg "Lyft is bringing back a version of shared rides")
+
+
+[Lyft is bringing back a version of shared rides](https://www.cnn.com/2021/07/15/tech/lyft-uber-shared-rides-pandemic/index.html)
+
+
+> Then the pandemic hit, and the companies swiftly suspended their shared offerings to help curb the spread of Covid-19.Roughly 16 months later, Lyft is now slowly bringing back a revamped shared rides option. But as it does, it must confront shifting public health concerns as well as financial risks that predated the pandemic. (When asked by CNN Business about its plans for shared rides in the US, an Uber spokesperson said the company will "explore re-launching Pool when the time is right and will follow the guidance of health experts.
+
+
+***
+![Leap, a ‘social learning' platform aimed at over 55s, raises a $3.1M Seed round – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/Leap_Co-Founders.jpg?w=600 "Leap, a ‘social learning' platform aimed at over 55s, raises a $3.1M Seed round – TechCrunch")
+
+
+[Leap, a ‘social learning' platform aimed at over 55s, raises a $3.1M Seed round – TechCrunch](https://techcrunch.com/2021/07/15/leap-a-social-learning-platform-aimed-at-over-55s-raises-a-3-1m-seed-round/)
+
+
+> Leap, a platform for people over 55 to learn via social interaction, has raised $3.1M funding in a seed round led by European early-stage investor Creandum, and SF-based South Park Commons. Also participating was Learn Start/Learn Capital, alongside angels Michelle Kennedy (Peanut founder), Sahil Lavingia, and Tim Tuttle. Leap members gather online to collectively 'learn, connect and grow together,' says the company, via small online groups built around shared interests. Users connect over audio and video, in groups of between five and ten.
+
+
+***
+![Credo Announces HiWire SWITCH AEC – Enabling Simpler, Faster and More Reliable Dual TOR Connectivity](https://mms.businesswire.com/media/20210715005359/en/741161/23/Credo-Blue_Logo-Tag-500px.jpg "Credo Announces HiWire SWITCH AEC – Enabling Simpler, Faster and More Reliable Dual TOR Connectivity")
+
+
+[Credo Announces HiWire SWITCH AEC – Enabling Simpler, Faster and More Reliable Dual TOR Connectivity](https://www.businesswire.com/news/home/20210715005359/en/Credo-Announces-HiWire-SWITCH-AEC-%E2%80%93-Enabling-Simpler-Faster-and-More-Reliable-Dual-TOR-Connectivity)
+
+
+> SAN JOSE, Calif.--(BUSINESS WIRE)--Credo, a global innovation leader in advanced connectivity solutions delivering high performance, low power connectivity solutions for 100G, 400G, and 800G port-enabled networks, today announced the production availability of its HiWire™ SWITCH Active Electrical Cable (AEC). A SWITCH AEC enables a server to connect to two Top-of-Rack (TOR) switches without impacting the server or Network Interface Card (NIC). Today's servers deployed with single TORs provide less reliability and thus must be paired with Hot Spare Servers in different racks.
+
+
+***
+![Microsoft is bringing Clippy back](https://static.independent.co.uk/2021/07/15/12/newFile-2.jpg?width=1200&auto=webp&quality=75 "Microsoft is bringing Clippy back")
+
+
+[Microsoft is bringing Clippy back](https://www.independent.co.uk/life-style/gadgets-and-tech/microsoft-clippy-emoji-windows-office-b1884637.html)
+
+
+> Microsoft is planning to bring Clippy, its Office 97 assistant that looks like a paperclip, back to Windows.The software giant tweeted a photo of Clippy saying that, if the post received 20,000 likes, it would replace the paperclip emoji in Microsoft Office with Clippy.At time of writing, the tweet has nearly 134,000 likes.Clippy infamously offered support in Microsoft Word and other programs, such as Microsoft Publisher, but by 2008 the assistant was killed. Windows 10, Microsoft's current operating system, uses Cortana as its virtual assistant – a name taken from the Halo game franchise.
+
+
