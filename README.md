@@ -42214,3 +42214,33 @@
 > July 15, 2021 01:46 PM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Independent research firm Verdantix has released its buyer's guide for asset performance management (APM) solutions, which provides an up-to-date analysis of 27 prominent APM solutions available in the market. The APM solutions market has exhibited resiliency to the COVID-19 pandemic, with operations and maintenance leaders turning to digital solutions to help optimize asset performance and intervention strategies to counteract demand shocks and supply chain disruptions.
 
 
+***
+![I'm creating a new text editor!](https://external-preview.redd.it/ikILeldeTZx2hY2dGyV5emZLVQikREAe0e59u7kfNOc.jpg?auto=webp&s=5cd415d20743ac001d929d90b6019135ee89261a "I'm creating a new text editor!")
+
+
+[I'm creating a new text editor!](https://www.reddit.com/r/Python/comments/ol0r4f/im_creating_a_new_text_editor/)
+
+
+> After starting working/studying full time at home (on my computer), I started to use the Windows Notepad a lot. Temporary annotations, useful links... for everything I was creating a new text file. And there is the problem, my desktop was getting so much polluted with all these files! Even creating a folder for this... no, these files were bothering me a lot.So, why not use Python to create a solution for that?Github: https://github.com/gabrielstork/stork-noteIt is in very initial stage, and I don't know what is the best way to split the main code into multiple codes.
+
+
+***
+![You can plug in an SSD up to 8TB with your PS5](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop_wm_brb/public/article_images/2020/12/ps5-with-controller-01.jpg "You can plug in an SSD up to 8TB with your PS5")
+
+
+[You can plug in an SSD up to 8TB with your PS5](https://www.androidcentral.com/what-biggest-ssd-ps5-supports)
+
+
+> Source: Nick Sutrich / Android CentralBest answer: Just like the PS4, the PS5 supports external hard drives and SSDs up to 8TB, so that's the maximum amount of storage you can have in addition to its built-in SSD. It's unknown whether the same limitations will be in place once Sony expands its internal storage options. Every PS5 comes packed with an 825GB internal SSD, and only about 667GB of that is usable for your games. When games can reach 50GB to even 100GB each, that only leaves room for a handful.
+
+
+***
+![Rumored Galaxy Watch 4 SoC could make Wear OS smooth as butter](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/samsung-galaxy-watch-4-classic.jpg "Rumored Galaxy Watch 4 SoC could make Wear OS smooth as butter")
+
+
+[Rumored Galaxy Watch 4 SoC could make Wear OS smooth as butter](https://www.androidcentral.com/rumored-galaxy-watch-4-soc-continues-samsungs-overhaul-its-smartwatches)
+
+
+> Source: Android Headlines A new rumor claims the Galaxy Watch 4 series will be powered by the Samsung Exynos W920. This new processor is said to offer up to 1.5x faster performance over its predecessor. Samsung is rumored to unveil the Galaxy Watch 4 series at an Unpacked event next month. After seeing the Galaxy Watch 4 and Watch 4 Classic appear on Amazon, today, we might have a better idea of the processor powering the likely contenders for the best Android smartwatch. According to a report from SamMobile, Samsung will be using its new Exynos W920 chipset, which is rumored to offer 1.
+
+
