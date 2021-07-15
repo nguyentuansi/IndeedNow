@@ -41873,3 +41873,53 @@
 > Data cloud specialist Snowflake has announced support for Unified ID 2.0, which will help organisations enrich their audience data without sharing personally identifiable information.
 
 
+***
+![Pipreqs](https://external-preview.redd.it/dgLBMBRzc0QP4kw86B9udLhuk6DoVMqpJioDtTRrB84.jpg?auto=webp&s=340cac10cd4b110eda5112edd094a80cfd0f91c9 "Pipreqs")
+
+
+[Pipreqs](https://www.reddit.com/r/Python/comments/okmppi/pipreqs_how_to_dynamically_generate/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![YouTube comedian Friendlyjordies raises $1m for John Barilaro defamation case](https://images.perthnow.com.au/publication/C-3410085/09df396b32b8a67bc76f12cb8cd5b37cdec61344-16x9-x0y0w2048h1152.jpg?imwidth=1200 "YouTube comedian Friendlyjordies raises $1m for John Barilaro defamation case")
+
+
+[YouTube comedian Friendlyjordies raises $1m for John Barilaro defamation case](https://www.news.com.au/technology/online/social/youtube-comedian-friendlyjordies-raises-1m-for-john-barilaro-defamation-case/news-story/76e8d3dbc4513320c72b2e2a1d0c754a)
+
+
+> YouTube comedian Jordan Shanks-Markovina, known online as Friendlyjordies, has received more than $1m in donations to fight a defamation case brought against him by NSW Deputy Premier John Barilaro.More than 24,000 donations have been received, with former Prime Minister Kevin Rudd among them, totalling $1.06m.Mr Barilaro alleges he was defamed in the Friendlyjordies videos bruz and Secret Dictatorship in September and October last year. The Deputy Premier argues he is incorrectly portrayed as a 'corrupt conman' among other imputations.
+
+
+***
+![In the game Raid: Shadow Legends, Ninja became a playable character](https://technosports.co.in/wp-content/uploads/2021/07/download-6.jpg "In the game Raid: Shadow Legends, Ninja became a playable character")
+
+
+[In the game Raid: Shadow Legends, Ninja became a playable character](https://technosports.co.in/2021/07/15/in-the-game-raid-shadow-legends-ninja-became-a-playable-character/)
+
+
+> Plarium games released the game Raid: Shadow legends in 2018 which was ported to PC in the year 2020. Big is good but its marketing is a different matter because its causes enough memes. The game will be facing many more memes because Plarium announced today that 'Ninja' will become a playable character in this gameplay.The vice president of Plarium said, 'Ninja isn't just an amazing addition to our Champions because of his positive impact on the gaming industry—he has his own unique skill sets and special attacks that will be an incredible asset to any player's roster'.
+
+
+***
+![Meet Swell, a voice-based social platform that's like Clubhouse, but also like Instagram and Twitter- Technology News, Firstpost](https://images.firstpost.com/wp-content/uploads/2021/07/Swell-clubhouse-apps-min.jpg "Meet Swell, a voice-based social platform that's like Clubhouse, but also like Instagram and Twitter- Technology News, Firstpost")
+
+
+[Meet Swell, a voice-based social platform that's like Clubhouse, but also like Instagram and Twitter- Technology News, Firstpost](https://www.firstpost.com/tech/news-analysis/meet-swell-a-voice-based-social-platform-thats-like-clubhouse-but-also-like-instagram-and-twitter-9807551.html)
+
+
+> Nandini YadavJul 15, 2021 11:19:02 ISTClubhouse and Twitter Spaces may seem like the last word on the drop-in audio chat format, but the space is evolving faster than you may realise.A San Francisco startup called Swell, by co-founders Sudha K Varadarajan and Arish Ali, is a new voice-based social platform which – at the first look – seems like a blend of WhatsApp voice notes, Instagram feeds, and Clubhouse audio chat but the final concoction is unique – and its beauty is asynchronicity.As opposed to a platform like Clubhouse where conversations are now or never – meaning you either hear them live or miss them entirely – Swell allows users to post standalone (up to five minutes long) audio clips with an accompanying image and links that show up on a feed.
+
+
+***
+![Google launches its second cloud region in India](https://cdn.mos.cms.futurecdn.net/cqwuarC9JWcSNEBASBvrqh-1200-80.png "Google launches its second cloud region in India")
+
+
+[Google launches its second cloud region in India](https://www.techradar.com/news/google-launches-its-second-cloud-region-in-india-crucial-for-digital-india-drive)
+
+
+> (Image credit: Google) Google launched its second cloud region in India in line with its promise to invest in technology infrastructure to help Indian organisations build a digital-first future. The Google Cloud region in Delhi NCR was officially inaugurated today in the presence of Google and Alphabet CEO Sundar Pichai, Google Cloud CEO Thomas Kurian and other industry veterans in a virtual event."Google Cloud region is now available in Delhi NCR to partner with local developers, entrepreneurs, and enterprises alike to accelerate innovation.
+
+
