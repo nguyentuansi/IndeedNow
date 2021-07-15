@@ -42164,3 +42164,53 @@
 > WhatsApp also informed that they received 375 grievances during the same period.
 
 
+***
+![Apple iPad 10.2 just got a major price cut in time for the weekend](https://icdn.digitaltrends.com/image/digitaltrends/2020-apple-ipad-10-2-tablet-configurations.jpg "Apple iPad 10.2 just got a major price cut in time for the weekend")
+
+
+[Apple iPad 10.2 just got a major price cut in time for the weekend](https://www.digitaltrends.com/dtdeals/apple-ipad-8th-gen-deal-staples-july-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Are you ready for the weekend yet? Anyone else zoned out and not able to get any work done? It's the perfect time to take a look at some of the Apple iPad deals that are floating around. There are some good ones in there, so be sure to check it out! Just in time for the weekend, Staples is discounting the 8th-generation Apple iPad 10.2 with Wi-Fi and 32GB of storage in Space Gray. You can get it for $30 off for the low price of $300.
+
+
+***
+![Replica of Instagram's "Are you a good kisser" using OpenCV python, mine one says "How good your smile is "](https://external-preview.redd.it/lK5EXcP4eOjWKH1zz_3_4fm_Z_TAZaZiTSLAAzD49-8.jpg?auto=webp&s=1d958398252e8aad9a4557c417d4a8cca308910f "Replica of Instagram's "Are you a good kisser" using OpenCV python, mine one says "How good your smile is "")
+
+
+[Replica of Instagram's "Are you a good kisser" using OpenCV python, mine one says "How good your smile is "](https://www.reddit.com/r/Python/comments/oky0f1/replica_of_instagrams_are_you_a_good_kisser_using/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Apple TV+ debuts new 'Keep It Low Key' lyric video from 'Central Park'](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/central-park-keep-it-low-key.jpg "Apple TV+ debuts new 'Keep It Low Key' lyric video from 'Central Park'")
+
+
+[Apple TV+ debuts new 'Keep It Low Key' lyric video from 'Central Park'](https://www.imore.com/apple-tv-debuts-new-keep-it-low-key-lyric-video-central-park)
+
+
+> Source: Apple Apple TV+ comedy series 'Central Park' has released a new lyric video. You can watch and sing along with the new song 'Keep It Low Key.' Central Park, the award-winning animated Apple TV+ comedy, is known for coming jam-packed with a ton of songs. Every once in a while one of those songs will make it on to YouTube and that is the case with "Keep It Low Key." Apple TV+ has released a new lyric video of "Keep It Low Key" to its official YouTube channel: The second season of Central Park debuted on Apple TV+ on Friday, June 25.
+
+
+***
+![We can't believe how cheap this Apple Watch is today](https://icdn.digitaltrends.com/image/digitaltrends/apple-watch-series-3-space-gray-black-sport-band.jpg "We can't believe how cheap this Apple Watch is today")
+
+
+[We can't believe how cheap this Apple Watch is today](https://www.digitaltrends.com/dtdeals/apple-watch-series-3-gps-deal-walmart-july-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Whether you're an Apple fan looking for some of the best Apple Watch deals, or you just want a capable smartwatch, there's something out there for you. Don't forget to check out some of the other smartwatch deals, too! Walmart never ceases to amaze us with its fantastic deals, as right now, they're taking quite a bit off the price of the Apple Watch Series 3 38mm with GPS. You can get it for $169 in black or white with free two-day delivery.
+
+
+***
+![Verdantix Buyer's Guide Reveals The 18 Most Prominent Asset Performance Management Solutions](https://mms.businesswire.com/media/20210715005920/en/891846/23/Verdantix_logo.jpg "Verdantix Buyer's Guide Reveals The 18 Most Prominent Asset Performance Management Solutions")
+
+
+[Verdantix Buyer's Guide Reveals The 18 Most Prominent Asset Performance Management Solutions](https://www.businesswire.com/news/home/20210715005920/en/Verdantix-Buyers-Guide-Reveals-The-18-Most-Prominent-Asset-Performance-Management-Solutions)
+
+
+> July 15, 2021 01:46 PM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Independent research firm Verdantix has released its buyer's guide for asset performance management (APM) solutions, which provides an up-to-date analysis of 27 prominent APM solutions available in the market. The APM solutions market has exhibited resiliency to the COVID-19 pandemic, with operations and maintenance leaders turning to digital solutions to help optimize asset performance and intervention strategies to counteract demand shocks and supply chain disruptions.
+
+
