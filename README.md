@@ -41779,3 +41779,50 @@
 > Ten years ago, I interned at a literary magazine, publishing imprint, and agency in Minneapolis called Paper Darts. It's the first time in my life I had ever felt like a member of the in-crowd. For the in-crowd, taste is all about social bonding. It isn't developed in isolation. It's a direct result of engagement with a peer group of other avid consumers. It was there at those meetings in my boss' cramped, modestly decorated house that what I was supposed to like was communicated to me: tacos (one of the editors had an entire blog devoted to them, which they took very seriously); the musical act Neon Indian; Portlandia (Fred Armisen blurbed one of the imprint's books, although, judging from his quick response to the email request, he likely didn't read it); sans serif fonts; and clothing brands like ModCloth, among other early-2010s trends that were both things to buy and ways of being sold to.
 
 
+***
+![The Future Web: Will Canvas Rendering Replace the DOM?](https://external-preview.redd.it/DGnDtHM8E7yEU2ApoPrgPjDaVog_pLC-rVzxgbQiwHw.jpg?auto=webp&s=e1221217d6dc14e3ddecbd78505523d3c0b06151 "The Future Web: Will Canvas Rendering Replace the DOM?")
+
+
+[The Future Web: Will Canvas Rendering Replace the DOM?](https://www.reddit.com/r/programming/comments/okj36r/the_future_web_will_canvas_rendering_replace_the/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![AI Programmer vs Human Programmer 💪](https://external-preview.redd.it/Th1P5EZeCSEre75MEnH0pheaYALIXiRRFftDf8_ZzrY.jpg?auto=webp&s=2f5e6384cddc737b05f56352a5bfa9b3c8ca7a5c "AI Programmer vs Human Programmer 💪")
+
+
+[AI Programmer vs Human Programmer 💪](https://www.reddit.com/r/programming/comments/okj0pf/ai_programmer_vs_human_programmer/)
+
+
+> Getting downvoted by an imbisile who posts ideotic articles is a badge of honor. Dude, python VS Javascript? Have you ever written a line of code?
+
+
+***
+![Netflix could add games to its platform within the next year](https://icdn.digitaltrends.com/image/digitaltrends/netflix-logo-2.jpg "Netflix could add games to its platform within the next year")
+
+
+[Netflix could add games to its platform within the next year](https://www.digitaltrends.com/news/netflix-could-add-games-to-its-platform-within-the-next-year/)
+
+
+> Following months of speculation, Netflix has signaled its intent to move into gaming after confirming the hiring of Mike Verdu, a major figure in the gaming industry with high-level experience at the likes of Facebook-owned Oculus, Electronic Arts,  Zynga, and Atari. Verdu is being brought in to build and lead a team at Netflix geared toward game publishing, the video streaming giant confirmed to multiple media outlets on Wednesday, July 14. Netflix is yet to make an official announcement about the precise nature of its gaming ambitions, but well-connected Mark Gurman of Bloomberg said the company is aiming to start offering games to subscribers on its platform 'within the next year.
+
+
+***
+[Twilio launches interactive live streaming video and audio as a service](https://www.reddit.com/r/programming/comments/okiu5i/twilio_launches_interactive_live_streaming_video/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![iPad dimming and then auto-locking despite video playing in full-screen mode](https://images.macrumors.com/social/?t=2304301&v=6 "iPad dimming and then auto-locking despite video playing in full-screen mode")
+
+
+[iPad dimming and then auto-locking despite video playing in full-screen mode](https://forums.macrumors.com/threads/ipad-dimming-and-then-auto-locking-despite-video-playing-in-full-screen-mode.2304301/)
+
+
+> I have a new iPad Pro (2021), which is great, and it's running iOS 14.6. I'm running into an odd problem and I can't tell if it's a bug or due to an errant setting. I like to watch TV or videos in Safari in full-screen on mute while listening to music using the Music app. For example, a YouTube video, or a baseball game on ATT.tv with the announcers muted. For reasons I can't figure out, when I do this, the iPad dims and then auto-locks after two minutes, as per my auto-lock setting. It does not auto-lock if the video is playing with sound, with the Music app inactive.
+
+
