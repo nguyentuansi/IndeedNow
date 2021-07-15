@@ -41923,3 +41923,53 @@
 > (Image credit: Google) Google launched its second cloud region in India in line with its promise to invest in technology infrastructure to help Indian organisations build a digital-first future. The Google Cloud region in Delhi NCR was officially inaugurated today in the presence of Google and Alphabet CEO Sundar Pichai, Google Cloud CEO Thomas Kurian and other industry veterans in a virtual event."Google Cloud region is now available in Delhi NCR to partner with local developers, entrepreneurs, and enterprises alike to accelerate innovation.
 
 
+***
+![Best cheap office chair deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/office-chair.jpg "Best cheap office chair deals for July 2021")
+
+
+[Best cheap office chair deals for July 2021](https://www.digitaltrends.com/dtdeals/best-office-chair-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you work from home, you will be more productive with a supportive office chair. In addition to comfort, a good office chair also benefits your health. We found an excellent selection of good-quality, cheap office chairs. We've done the research for you and put here a great selection of cheap office chair deals in a range of prices along with buying tips to help you make the right decision. Whether you're after design, ergonomics, simplicity, or all of the above, you're sure to find the office chair deal that will suit your needs and budget best.
+
+
+***
+![Best cheap Dyson vaccum and fan deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/dyson-v11-torque-drive-2-resized.jpg "Best cheap Dyson vaccum and fan deals for July 2021")
+
+
+[Best cheap Dyson vaccum and fan deals for July 2021](https://www.digitaltrends.com/home/best-dyson-deals/)
+
+
+> Are you looking for the best cheap Dyson vacuum and fan deals? We did the digging for deals for you, to save you time.  Dyson's high-performance vacuum cleaners, air purifiers, and fans achieve consistently high ratings. Many customers wait for the corded or cordless vacuum cleaner, bladeless fan, or haircare device they have their hearts set on to go on sale. Fortunately, Dyson frequently discounts its products, often changing prices weekly. The best place to start? Right here, with our search results of the best Dyson deals and the best Dyson sales.
+
+
+***
+![Best cheap Nest Thermostat deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/google-nest-thermostat-e-1-1.jpg "Best cheap Nest Thermostat deals for July 2021")
+
+
+[Best cheap Nest Thermostat deals for July 2021](https://www.digitaltrends.com/home/best-nest-thermostat-deal/)
+
+
+> This is a good time to shop for the best cheap Nest Thermostat deals. We searched the Internet and found a selection of Nest Thermostat deals at major online merchants. We're seeing decent discounts on not only the base Nest Thermostat E but also the top-of-the-line Nest Learning Thermostat. We also also found bundles of two thermostats or one thermostat and one, two, or three Nest Thermostat remote sensors. Should you buy a Nest Thermostat? The short answer is yes. Nest Thermostats are typically at their cheapest at the end of the year, and this year is no different.
+
+
+***
+![Best cheap Apple iPhone deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/iphone-2019-2.jpg "Best cheap Apple iPhone deals for July 2021")
+
+
+[Best cheap Apple iPhone deals for July 2021](https://www.digitaltrends.com/dtdeals/best-iphone-deals/)
+
+
+> Despite competition from Samsung, Google, and many others, Apple's iconic iPhone is still the most popular smartphone brand  in the U.S. Android brands combined command a moderately larger global market share, but none of them outpace Apple. It's also no secret iPhones aren't cheap,' but if you need a new one and are on the hunt for smartphone deals, we can help. We've scooped up a heaping helping of all the best cheap iPhone deals available this week, offering tidy discounts on everything from the iPhone X series to the latest iPhone 12.
+
+
+***
+![Quickwit v0.1: A highly cost-efficient search engine in Rust](https://external-preview.redd.it/H3cxGA9Po6toE45-XokIaihTwtrmsvpmssgfZxQ_D_E.jpg?auto=webp&s=100c869342ed7d997a54ed52b5f8f87a45000686 "Quickwit v0.1: A highly cost-efficient search engine in Rust")
+
+
+[Quickwit v0.1: A highly cost-efficient search engine in Rust](https://www.reddit.com/r/programming/comments/oko4mo/quickwit_v01_a_highly_costefficient_search_engine/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
