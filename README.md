@@ -42388,3 +42388,50 @@
 > July 15, 2021 09:32 PM Eastern Daylight Time CARLSBAD, Calif.--(BUSINESS WIRE)--Building on the successes of past collaborations with the San Diego Supercomputer Center (SDSC) located at UC San Diego, GigaIO, the creators of next-generation data center rack-scale architecture for artificial intelligence (AI) and high-performance computing (HPC) solutions, is proud to be announcing its low latency universal dynamic fabric, FabreX™, was selected as the technology of choice for the new Prototype National Research Platform (NRP).
 
 
+***
+![Skyward Sword HD Tips and Tricks: Hearts, Bottles, Silent Realm, and more](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/skyward-sword-hd-link-and-zelda-romantic.jpg "Skyward Sword HD Tips and Tricks: Hearts, Bottles, Silent Realm, and more")
+
+
+[Skyward Sword HD Tips and Tricks: Hearts, Bottles, Silent Realm, and more](https://www.imore.com/skyward-sword-hd-tips-tricks-and-secrets)
+
+
+> Source: Nintendo The Legend of Zelda: Skyward Sword HD is a unique Zelda game with plenty of hidden secrets and things to collect. Whether this is your first time playing Skyward Sword or you're replaying it since the Wii version, we're here to help with some tips, tricks, and secrets. There are definitely some things you can do to make the game easier, and also more exciting. I'll start this guide off talking about helpful tips and tricks. If you're interested in learning about Skyward Sword HD secrets, continue on to the next section below.
+
+
+***
+![Microsoft says Israeli group sold tools to hack Windows](https://images.indianexpress.com/2021/07/Microsoft_Reuters_NEW_1.jpeg "Microsoft says Israeli group sold tools to hack Windows")
+
+
+[Microsoft says Israeli group sold tools to hack Windows](https://indianexpress.com/article/technology/tech-news-technology/microsoft-says-israeli-group-sold-tools-to-hack-windows-7407170/)
+
+
+> An Israeli group sold a tool to hack into Microsoft Windows, Microsoft and technology human rights group Citizen Lab said on Thursday, shedding light on the growing business of finding and selling tools to hack widely used software. The hacking tool vendor, named Candiru, created and sold a software exploit that can penetrate Windows, one of many intelligence products sold by a secretive industry that finds flaws in common software platforms for their clients, said a report by Citizen Lab. Technical analysis by security researchers details how Candiru's hacking tool spread around the globe to numerous unnamed customers, where it was then used to target various civil society organisations, including a Saudi dissident group and a left-leaning Indonesian news outlet, the reports by Citizen Lab and Microsoft show.
+
+
+***
+[Microsoft says Israeli group sold tools to hack Windows](https://bdnews24.com/technology/2021/07/16/microsoft-says-israeli-group-sold-tools-to-hack-windows)
+
+
+> An Israeli group sold a tool to hack into Microsoft Windows, Microsoft and technology human rights group Citizen Lab said on Thursday, shedding light on the growing business of finding and selling tools to hack widely used software.
+
+
+***
+![Intel in talks to buy GlobalFoundries for about $30 billion](https://external-preview.redd.it/0qgpLZ1AFPLY_0Lan6VlrIC_uTRtkIfr2IQXkspU6xI.jpg?auto=webp&s=a826b259b28962cb6eafb19e86fe3d2b74c8d1c8 "Intel in talks to buy GlobalFoundries for about $30 billion")
+
+
+[Intel in talks to buy GlobalFoundries for about $30 billion](https://www.reddit.com/r/technology/comments/ol8v8v/intel_in_talks_to_buy_globalfoundries_for_about/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Pakistan moves to bring cryptocurrency boom out of the dark](https://www.reuters.com/resizer/hmwcSxBPZWdzRn-3QEJfX3F0Xww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E3O6WSDKQJM6LO6IWPQ24QTOPA.jpg "Pakistan moves to bring cryptocurrency boom out of the dark")
+
+
+[Pakistan moves to bring cryptocurrency boom out of the dark](https://www.reuters.com/technology/pakistan-moves-bring-cryptocurrency-boom-out-dark-2021-07-16/)
+
+
+> Representations of cryptocurrencies Bitcoin, Ethereum, DogeCoin, Ripple, Litecoin are placed on PC motherboard in this illustration taken, June 29, 2021. REUTERS/Dado Ruvic/IllustrationISLAMABAD, July 16 (Reuters) - Once a week Ghulam Ahmed, 38, takes time out from his cryptocurrency consulting business to log into a WhatsApp group with hundreds of members eager to learn how to mine and trade cryptocurrency in Pakistan.From housewives looking to earn a side income to wealthy investors wanting to buy cryptomining hardware, many barely understand traditional stock markets but all are eager to cash in.
+
+
