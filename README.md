@@ -42729,3 +42729,50 @@
 > A security lapse at insurance technology company BackNine exposed hundreds of thousands of insurance applications after one of its cloud servers was left unprotected on the internet. BackNine might be a company you're not familiar with, but it might have processed your personal information if you applied for insurance in the past few years. The California-based company builds back-office software to help bigger insurance carriers sell and maintain life and disability insurance policies. It also offers a whitelabeled quote web form for smaller or independent financial planners sell insurance plans through their own websites.
 
 
+***
+![ADTRAN, Inc. to Release Second Quarter 2021 Earnings on August 4, 2021](http://www.businesswire.com/images/bwlogo_square.png "ADTRAN, Inc. to Release Second Quarter 2021 Earnings on August 4, 2021")
+
+
+[ADTRAN, Inc. to Release Second Quarter 2021 Earnings on August 4, 2021](https://www.businesswire.com/news/home/20210716005435/en/ADTRAN-Inc.-to-Release-Second-Quarter-2021-Earnings-on-August-4-2021)
+
+
+> July 16, 2021 01:55 PM Eastern Daylight Time HUNTSVILLE, Ala.--(BUSINESS WIRE)--ADTRAN, Inc. (NASDAQ: ADTN) announced today that the Company will release its financial results for the second quarter 2021 after market close on Wednesday, August 4, 2021. The Company will conduct a conference call on Thursday, August 5, 2021 to discuss the results for the quarter. ADTRAN will webcast this conference. To listen, simply visit ADTRAN's Investor Relations site at www.adtran.com/investor approximately 10 minutes prior to the start of the call, click on the event 'ADTRAN to release 2nd Quarter 2021 Financial Results and Conference Call,' and click on the Webcast link.
+
+
+***
+![Puppy Browser: a tiny Rust web browser implementation](https://external-preview.redd.it/xwjQXdBIFIDjU-YpUqth3mdVi6deTuqPTwkLIdxYGs4.jpg?auto=webp&s=efb47ee4099860ef371fcf490a1e6110cd43959d "Puppy Browser: a tiny Rust web browser implementation")
+
+
+[Puppy Browser: a tiny Rust web browser implementation](https://www.reddit.com/r/programming/comments/olm5sc/puppy_browser_a_tiny_rust_web_browser/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![What is Wi-Fi 6?](https://icdn.digitaltrends.com/image/digitaltrends/linksys-wrt3200-router-main2.jpg "What is Wi-Fi 6?")
+
+
+[What is Wi-Fi 6?](https://www.digitaltrends.com/computing/what-is-wi-fi-6/)
+
+
+> If your current Wi-Fi connection isn't strong enough to support your growing number of devices, you might be on the lookout for a better solution. Perhaps you're experiencing frequent connection errors, slowdowns, and other technical difficulties. Wi-Fi 6 can offer a faster, more reliable connection. We'll talk more about this next-generation standard in Wi-Fi technology, tell you what it has to offer, and give you tips on determining what devices are compatible with Wi-Fi 6. The dawn of generational Wi-Fi labels The Wi-Fi Alliance is the organization in charge of deciding, developing, and designating Wi-Fi standards.
+
+
+***
+[Unicode releases a draft list of new emoji to be finalized in September; contenders include multiracial handshake, melting smiley face, a pregnant man, and more (Kait Sanchez/The Verge)](http://www.techmeme.com/210716/p14#a210716p14)
+
+
+> Kait Sanchez / The Verge: Unicode releases a draft list of new emoji to be finalized in September; contenders include multiracial handshake, melting smiley face, a pregnant man, and more — Looking forward to beans and more — The draft list for the next round of new emoji was announced today, two days ahead of World Emoji Day on July 17th.
+
+
+***
+![Lenovo ThinkPad X1 Yoga (2021, Gen 6) review](https://cdn.mos.cms.futurecdn.net/tLNiRKwbP64LBsB5gwNegU-1200-80.jpg "Lenovo ThinkPad X1 Yoga (2021, Gen 6) review")
+
+
+[Lenovo ThinkPad X1 Yoga (2021, Gen 6) review](https://www.laptopmag.com/reviews/lenovo-thinkpad-x1-yoga-gen-6-review)
+
+
+> Lenovo ThinkPad X1 Yoga (Gen 6) specsPrice: $1,304 (starting); $2,339 (reviewed at) CPU: Intel Core i7-1165G7 CPU GPU: Iris Xe RAM: 16GB Storage: 512GB SSD Display: 14-inch, 1920 x 1200-pixel IPS (16:10) Battery: 14:45 Size: 12.3 x 8.8 x 0.6 inches Weight: 3 poundsLenovo's ThinkPad X1 Yoga Gen 6 is a refinement of the best 2-in-1 laptop for business users. Taking a page from the X1 Carbon, the newest Yoga now flaunts a 14-inch display with a taller 16:10 aspect ratio for more vertical screen space — a boon for enterprise users.
+
+
