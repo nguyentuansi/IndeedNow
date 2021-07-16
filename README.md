@@ -42679,3 +42679,53 @@
 > July 16, 2021 09:39 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Smart Pharma - Thematic Research" report has been added to ResearchAndMarkets.com's offering. This Smart Pharma report examines the integration of smart technologies across the pharmaceutical industry value chain, assesses COVID-19 impact on the uptake of smart technologies in pharma and importance of partnering with technology vendors to enable a roll-out of innovative technologies. The COVID-19 pandemic has given businesses an unprecedented opportunity to accelerate and implement technology-fueled changes to the way they operate.
 
 
+***
+![A Homeless Village Is Growing on Apple's Silicon Valley Property](https://media.breitbart.com/media/2021/05/wi/ap/20/apple-app-store-trial-tuesday-jan-21-2020-file-photo-apple-ceo-tim-cook-is-photographed-at-economic-e1626448132340.jpg "A Homeless Village Is Growing on Apple's Silicon Valley Property")
+
+
+[A Homeless Village Is Growing on Apple's Silicon Valley Property](https://www.breitbart.com/tech/2021/07/16/a-homeless-village-is-growing-on-apples-silicon-valley-property/)
+
+
+> According to recent reports, a growing homeless encampment has been set up on dozens of acres of undeveloped land in the heart of Silicon Valley owned by tech giant Apple. VICE News reports that despite Apple committing billions of dollars to fix California's housing crisis, an encampment of homeless people living in RVs, shacks, and tents has taken over dozens of acres of undeveloped land owned by Apple in the center of Silicon Valley. Between 30 to 100 homeless people have reportedly set up camp on the property owned by Apple in North San Jose.
+
+
+***
+![Crypto investors like Terraform Labs so much, they're committing $150 million to its ‘ecosystem' – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1174590894.jpg "Crypto investors like Terraform Labs so much, they're committing $150 million to its ‘ecosystem' – TechCrunch")
+
+
+[Crypto investors like Terraform Labs so much, they're committing $150 million to its ‘ecosystem' – TechCrunch](https://techcrunch.com/2021/07/16/crypto-investors-like-terraform-labs-so-much-theyre-committing-150-million-to-its-ecosystem/)
+
+
+> There are many blockchain platforms competing for investors' and developers' attention right now, from the big daddy of them all, Ethereum, to so-called 'Ethereum Killers' like Solana, which we wrote about in May. Often, these technologies are seen as so promising that investors are willing to fund not only the blockchains but an ecosystem of products and projects that are built on their blockchain networks. On Wednesday, for example, Phantom, a digital wallet that resides on the Solana blockchain network, announced $9 million in  Series A funding led by Andreessen Horowitz (which in June also splashed out a lot of money for Solana's digital tokens).
+
+
+***
+![Construct Capital's Dayna Grayson will be a Startup Battlefield Judge at Disrupt 2021 – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/Disrupt-2021-grayson.jpg?w=764 "Construct Capital's Dayna Grayson will be a Startup Battlefield Judge at Disrupt 2021 – TechCrunch")
+
+
+[Construct Capital's Dayna Grayson will be a Startup Battlefield Judge at Disrupt 2021 – TechCrunch](https://techcrunch.com/2021/07/16/construct-capitals-dayna-grayson-will-be-a-battlefield-judge-at-disrupt-2021/)
+
+
+> Dayna Grayson has been in venture capital for more than a decade and was one of the first VCs to build a portfolio around the transformation of industrial sectors of our economy. At NEA, where she was a partner for eight years, she led investments in and sat on the boards of companies including Desktop Metal, Onshape, Framebridge, Tulip, Formlabs and Guideline. She left NEA to start her own fund, Construct Capital, that focuses exclusively on early-stage startups, with a portfolio that includes Copia, ChargeLab, Tradeswell and Hadrian.
+
+
+***
+![After Breakout, Amazon Stock Looks To Retest Important Level](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/amazon-447034_1920_161.jpg?width=720 "After Breakout, Amazon Stock Looks To Retest Important Level")
+
+
+[After Breakout, Amazon Stock Looks To Retest Important Level](https://benzinga.com/trading-ideas/technicals/21/07/22019066/after-breakout-amazon-stock-looks-to-retest-important-level)
+
+
+> When stocks break through important resistance levels, there tends to be some profit-taking. Sometimes, this selling pushes the stock right back down to the level. That appears to be the case with Amazon.com, Inc. (NASDAQ:AMZN). After breaking out through $3,520, it has been trending lower. The shares are about to send an important signal. If the $3,520 level converts into support, it could set the stage for a new uptrend to form. This conversion happens when investors who sold at $3,520 decide to buy their shares back after they trade higher.
+
+
+***
+![An insurtech startup exposed thousands of sensitive insurance applications – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/life-insurance-docs-backnine.jpg?w=600 "An insurtech startup exposed thousands of sensitive insurance applications – TechCrunch")
+
+
+[An insurtech startup exposed thousands of sensitive insurance applications – TechCrunch](https://techcrunch.com/2021/07/16/backnine-insurance-applications-exposed/)
+
+
+> A security lapse at insurance technology company BackNine exposed hundreds of thousands of insurance applications after one of its cloud servers was left unprotected on the internet. BackNine might be a company you're not familiar with, but it might have processed your personal information if you applied for insurance in the past few years. The California-based company builds back-office software to help bigger insurance carriers sell and maintain life and disability insurance policies. It also offers a whitelabeled quote web form for smaller or independent financial planners sell insurance plans through their own websites.
+
+
