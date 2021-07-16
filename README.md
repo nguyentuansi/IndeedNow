@@ -42776,3 +42776,50 @@
 > Lenovo ThinkPad X1 Yoga (Gen 6) specsPrice: $1,304 (starting); $2,339 (reviewed at) CPU: Intel Core i7-1165G7 CPU GPU: Iris Xe RAM: 16GB Storage: 512GB SSD Display: 14-inch, 1920 x 1200-pixel IPS (16:10) Battery: 14:45 Size: 12.3 x 8.8 x 0.6 inches Weight: 3 poundsLenovo's ThinkPad X1 Yoga Gen 6 is a refinement of the best 2-in-1 laptop for business users. Taking a page from the X1 Carbon, the newest Yoga now flaunts a 14-inch display with a taller 16:10 aspect ratio for more vertical screen space — a boon for enterprise users.
 
 
+***
+![Oof, Y'all, Dictionary.com Just Added Over 300 New Words And Definitions](https://media.npr.org/assets/img/2021/07/16/gettyimages-630263206_wide-e14aee4d6a25c07e85ff424dfe489816d20b6826.jpg?s=1400 "Oof, Y'all, Dictionary.com Just Added Over 300 New Words And Definitions")
+
+
+[Oof, Y'all, Dictionary.com Just Added Over 300 New Words And Definitions](https://www.npr.org/2021/07/16/1016901447/oof-yall-dictionary-com-just-added-over-300-new-words-and-definitions)
+
+
+> Dictionary.com has added over 300 new words and definitions, including "yeet" and "oof," which reflect the changing world. Karen Bleier/AFP via Getty Images While some of them might be enough to make you say "oof," the over 300 new words and definitions added to Dictionary.com during its most recent round of updates reflect the realities of our rapidly changing world. Words that have been popularized by the coronavirus pandemic, technological advances and racial reckoning across the U.
+
+
+***
+![Library for diffs, patches, and merges for text and objects in JavaScript](https://external-preview.redd.it/wZGsxwPBVwMoMUqW2PuAlWHrWRmDq982IaXNdotK7nA.jpg?auto=webp&s=127b64c847b1ebe149b1d6c4e638a56764bce72d "Library for diffs, patches, and merges for text and objects in JavaScript")
+
+
+[Library for diffs, patches, and merges for text and objects in JavaScript](https://www.reddit.com/r/programming/comments/oloebw/library_for_diffs_patches_and_merges_for_text_and/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The 'Space Jam' sequel starring LeBron James is now streaming—here's how to watch it](https://www.gannett-cdn.com/presto/2021/07/16/USAT/64d20e5f-0189-4821-9bc1-7ecd63f92f1f-space-jam-lebron.png?crop=1593,897,x0,y0&width=1593&height=897&format=pjpg&auto=webp "The 'Space Jam' sequel starring LeBron James is now streaming—here's how to watch it")
+
+
+[The 'Space Jam' sequel starring LeBron James is now streaming—here's how to watch it](https://www.usatoday.com/story/tech/reviewed/2021/07/16/how-watch-space-jam-new-legacy-hbo-max/7995519002/)
+
+
+> Madison Durham Reviewed — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission. The original 1996 Space Jam (streaming on HBO Max), starring Michael Jordan in a whimsical, Looney Tunes-filled space adventure, is a cult classic. The film follows Jordan in a fictionalized version of his time away from the NBA as he is kidnapped by Bugs Bunny and other members of the Looney Tunes to help them win a basketball game against their rivals, the Monsters.
+
+
+***
+![A library for specific error type handling in async JavaScript code](https://external-preview.redd.it/ay9YBxupNZsYd6B-Lv-xWptVf7j_36nn-Y_p-w5OZkw.jpg?auto=webp&s=348df5626e0fbceb720edeba17f8a8eeb63b4b8c "A library for specific error type handling in async JavaScript code")
+
+
+[A library for specific error type handling in async JavaScript code](https://www.reddit.com/r/programming/comments/olobxq/a_library_for_specific_error_type_handling_in/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Biden says platforms like Facebook are "killing people" with the way they are handling COVID-19 vaccine misinfo, as White House calls on Facebook to do more (Salvador Rodriguez/CNBC)](http://www.techmeme.com/210716/p18#a210716p18)
+
+
+> Salvador Rodriguez / CNBC: Biden says platforms like Facebook are “killing people” with the way they are handling COVID-19 vaccine misinfo, as White House calls on Facebook to do more — - White House Press Secretary Jen Psaki on Friday said it is clear there are more steps Facebook can take to fight misinformation regarding Covid-19 vaccines.
+
+
