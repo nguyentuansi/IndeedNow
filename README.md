@@ -42341,3 +42341,50 @@
 > YouTube has launched three new live-stream features that have been been a staple over at Twitch for a long time. The rather familiar and highly requested features are: Clips Starting July 15th, YouTube live stream viewers will be able to capture 5-60 second segments from content (From live streams and regular uploads) that are shareable... The post YouTube finally adds three highly requested Twitch-inspired features appeared first on MobileSyrup.
 
 
+***
+![#TECH: TikTok predicts shoppertainment will dominate purchase trends](https://assets.nst.com.my/images/articles/botstikshop_NSTfield_image_socialmedia.var_1626400818.jpg "#TECH: TikTok predicts shoppertainment will dominate purchase trends")
+
+
+[#TECH: TikTok predicts shoppertainment will dominate purchase trends](https://www.nst.com.my/lifestyle/bots/2021/07/708791/tech-tiktok-predicts-shoppertainment-will-dominate-purchase-trends)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Microsoft Dynamics 365 CRM](https://cdn.mos.cms.futurecdn.net/qeaJKDwrn6EzB8zBYquSBm-1200-80.jpg "Microsoft Dynamics 365 CRM")
+
+
+[Microsoft Dynamics 365 CRM](https://www.techradar.com/reviews/microsoft-dynamics-365-crm)
+
+
+> Customer relationship management (CRM) software is a tool that enables businesses to better engage with their audiences, plan out customers' buying journeys, and build relationships more efficiently. CRM software streamlines business processes across different functions, such as marketing, sales, and customer service, to optimize efficiency.Interested in Microsoft Dynamics 365? Check out the website hereIn this Microsoft Dynamics 365 CRM review, we'll examine why many consider it to be one of the best CRM software out there.
+
+
+***
+[A US District Court judge ruled in favor of Ripple to allow deposition of former SEC official William Hinman, who in 2018 said Ethereum is not a security (Decrypt)](http://www.techmeme.com/210715/p40#a210715p40)
+
+
+> Decrypt: A US District Court judge ruled in favor of Ripple to allow deposition of former SEC official William Hinman, who in 2018 said Ethereum is not a security — The SEC argues that Ripple token XRP was an unregistered security. The judge wants to see what William Hinman has to say. — XRP
+
+
+***
+![Apple employees are quitting in response to company's remote work policy](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/02/apple-park-photo-1-building-trees.jpg "Apple employees are quitting in response to company's remote work policy")
+
+
+[Apple employees are quitting in response to company's remote work policy](https://www.imore.com/apple-employees-are-quitting-response-companys-remote-work-policy)
+
+
+> Source: Apple Apple does not appear to be giving an inch when it comes to its new hybrid work policy. As reported by The Verge, some employees at the company are saying that the company is tightening its policy for those who had been able to work from home fully. According to the report, Apple's denial of exceptions for some people is leading to them quitting the company. While Apple historically discouraged employees from working from home, there were one-off exceptions to the rule, and some teams were more lenient than others.
+
+
+***
+![GigaIO Is Selected to Bring Composability to Bold New National Research Platform](https://mms.businesswire.com/media/20210715006125/en/891916/23/Fig_1_System_Overview_GigaIO.jpg "GigaIO Is Selected to Bring Composability to Bold New National Research Platform")
+
+
+[GigaIO Is Selected to Bring Composability to Bold New National Research Platform](https://www.businesswire.com/news/home/20210715006125/en/GigaIO-Is-Selected-to-Bring-Composability-to-Bold-New-National-Research-Platform)
+
+
+> July 15, 2021 09:32 PM Eastern Daylight Time CARLSBAD, Calif.--(BUSINESS WIRE)--Building on the successes of past collaborations with the San Diego Supercomputer Center (SDSC) located at UC San Diego, GigaIO, the creators of next-generation data center rack-scale architecture for artificial intelligence (AI) and high-performance computing (HPC) solutions, is proud to be announcing its low latency universal dynamic fabric, FabreX™, was selected as the technology of choice for the new Prototype National Research Platform (NRP).
+
+
