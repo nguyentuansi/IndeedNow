@@ -42632,3 +42632,50 @@
 > The first medical implant to come of that breakthrough was a thin sheet that electrically jolts injured tissue to kick-start nerve regeneration, which the team tested in rats. Rogers then teamed up with cardiologists, including Arora, who saw an opportunity to forgo traditional temporary pacemakers used to treat slow heart rhythms. Rogers likens this dissolvable device to an internal wound healer, an 'electronic medicine' in which all the components are soluble.Illustration: Northwestern University/George Washington UniversityAt first glance, the half-inch-wide, half-inch-long device may seem like a flimsy plastic strip.
 
 
+***
+![Global E-Clinical Solution Market (2020 to 2026)](https://mms.businesswire.com/media/20210716005319/en/371054/23/ResearchAndMarkets_800px.jpg "Global E-Clinical Solution Market (2020 to 2026)")
+
+
+[Global E-Clinical Solution Market (2020 to 2026)](https://www.businesswire.com/news/home/20210716005319/en/Global-E-Clinical-Solution-Market-2020-to-2026---Featuring-Adroit-Infosystems-Advarra-and-CRF-Health-Among-Others---ResearchAndMarkets.com)
+
+
+> July 16, 2021 09:49 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "E-Clinical Solution Market 2020-2026" report has been added to ResearchAndMarkets.com's offering. The global e-clinical solution market is expected to grow at a CAGR of 12.8% during the forecast period (2021-2027). Companies Mentioned Adroit Infosystems, Inc. Advarra, Inc. Anju Software, Inc. Bioclinica Clinipace Inc. CRF Health Inc. Datatrak International, Inc. DZS Clinical Services Dassault Systemes S.
+
+
+***
+[Using Google Pay? Facing payment or transaction issues? Here is what you should do](https://www.zeebiz.com/technology/apps/news-using-google-pay-facing-payment-or-transaction-issues-here-is-what-you-should-do-160912)
+
+
+> People have started using online payment apps rather than keeping and using cash. But there are situations when due to certain technical glitches or network issues people face some payment or transaction related problems.
+
+
+***
+![Share movies from your iPhone to any TV for $20 with this sale](https://www.cnet.com/a/img/5JOPhV0HtdCVWzF_gp9E_8FQllM=/1200x630/2021/07/16/6e9bc5d0-2143-4f7c-a409-e37b35d0b62c/1432138020-1139478.jpg "Share movies from your iPhone to any TV for $20 with this sale")
+
+
+[Share movies from your iPhone to any TV for $20 with this sale](https://www.cnet.com/tech/mobile/share-movies-from-your-iphone-to-any-tv-for-20-with-this-sale/)
+
+
+> Apple The cool thing about having all of your favorite streaming apps on your phone is you can bring your entire movie and TV library with you wherever you go. If you travel a lot, being able to watch wherever you are is super handy. That said, having a 50-inch TV in your hotel room mocking you while you watch Ted Lasso on your 5-inch screen is considerably less fun. Instead, you should make sure you have Apple's Lightning AV adapter with you so you can plug straight in to the TV. And if you didn't already have one, you can pick it up today for $30 cheaper than usual.
+
+
+***
+![Ahead of World Emoji Day, Facebook rolls out 'soundmojis'](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/07/16/985559-emojis.jpg "Ahead of World Emoji Day, Facebook rolls out 'soundmojis'")
+
+
+[Ahead of World Emoji Day, Facebook rolls out 'soundmojis'](https://www.dnaindia.com/technology/report-ahead-of-world-emoji-day-facebook-rolls-out-soundmojis-2900956)
+
+
+> Just one day before World Emoji Day, social media giant Facebook has announced that it is rolling out emojis with sound on Facebook Messenger. Called 'Soundmojis', these next-level emojis let users send short sound clips in a Messenger chat, ranging from clapping, crickets, drumroll, and evil laughter, to audio clips. "Every day, people send more than 2.4 billion messages with emojis on Messenger. Emojis add color and vibrancy to Messenger chats all over the world and we rely on them to say what words can't," Loredana Crisan, VP of Messaging Products, Messenger, said in a statement.
+
+
+***
+![Smart Pharma Thematic Research Report 2021: The Importance of Artificial Intelligence and Big Data](https://mms.businesswire.com/media/20210716005314/en/371054/23/ResearchAndMarkets_800px.jpg "Smart Pharma Thematic Research Report 2021: The Importance of Artificial Intelligence and Big Data")
+
+
+[Smart Pharma Thematic Research Report 2021: The Importance of Artificial Intelligence and Big Data](https://www.businesswire.com/news/home/20210716005314/en/Smart-Pharma-Thematic-Research-Report-2021-The-Importance-of-Artificial-Intelligence-and-Big-Data---ResearchAndMarkets.com)
+
+
+> July 16, 2021 09:39 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Smart Pharma - Thematic Research" report has been added to ResearchAndMarkets.com's offering. This Smart Pharma report examines the integration of smart technologies across the pharmaceutical industry value chain, assesses COVID-19 impact on the uptake of smart technologies in pharma and importance of partnering with technology vendors to enable a roll-out of innovative technologies. The COVID-19 pandemic has given businesses an unprecedented opportunity to accelerate and implement technology-fueled changes to the way they operate.
+
+
