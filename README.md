@@ -42435,3 +42435,53 @@
 > Representations of cryptocurrencies Bitcoin, Ethereum, DogeCoin, Ripple, Litecoin are placed on PC motherboard in this illustration taken, June 29, 2021. REUTERS/Dado Ruvic/IllustrationISLAMABAD, July 16 (Reuters) - Once a week Ghulam Ahmed, 38, takes time out from his cryptocurrency consulting business to log into a WhatsApp group with hundreds of members eager to learn how to mine and trade cryptocurrency in Pakistan.From housewives looking to earn a side income to wealthy investors wanting to buy cryptomining hardware, many barely understand traditional stock markets but all are eager to cash in.
 
 
+***
+![NASA says ‘moon wobble' may cause a problem for earthlings](https://icdn.digitaltrends.com/image/digitaltrends/mi-11-moon-edit.jpg "NASA says ‘moon wobble' may cause a problem for earthlings")
+
+
+[NASA says ‘moon wobble' may cause a problem for earthlings](https://www.digitaltrends.com/news/nasa-says-moon-wobble-may-cause-a-problem-for-earthlings/)
+
+
+> An increase in extreme weather events is already causing serious alarm among everyone from climate scientists to regular folks sloshing around in flooded basements. To add to the growing number of climate issues already facing humanity, NASA said that a periodic 'wobble' performed by the moon will combine with rising sea levels to cause increasingly serious high-tide flooding events along coastlines in the U.S. and beyond. According to a recent study conducted by NASA's Sea Level Change Team and published this month in the Nature Climate Change journal, the gravitational pull of the moon is likely to cause 'dramatic increases in flood numbers' in coastal cities in the mid-2030s.
+
+
+***
+![Jeep hints at wild electric off-roader](https://content.api.news/v3/images/bin/071be4d94f8581dbab44f72a4d53a414 "Jeep hints at wild electric off-roader")
+
+
+[Jeep hints at wild electric off-roader](https://www.news.com.au/technology/motoring/hitech/jeep-hints-at-wild-electric-offroader/news-story/19639217335ed15964cdfd4270a784c3)
+
+
+> The boss of the iconic American brand has hinted at some incredible features that could be available on future versions of its offroaders.The electric Jeep of the future may be able to pass battery charge from one vehicle to another, drive autonomously off-road, power a campsite and work with flying drones that light the path ahead.Cameras with facial recondition software will replace the need for keys, flat-folding seats enable drivers to sleep under the stars, and solar-powered charging stations in the bush may provide the energy boost required to get home safely.
+
+
+***
+![Paytm files for $2.2 billion IPO – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-631364250.jpg?w=600 "Paytm files for $2.2 billion IPO – TechCrunch")
+
+
+[Paytm files for $2.2 billion IPO – TechCrunch](https://techcrunch.com/2021/07/15/paytm-files-for-2-2-billion-ipo/)
+
+
+> Paytm, one of India's most valuable startups, plans to raise up to $2.2 billion in an initial public offering, it said in draft papers submitted to the country's market regulator on Friday.The Noida-headquartered firm — backed by Alibaba, Berkshire Hathaway, and SoftBank among others — said it will issue new shares worth $1.1 billion and offer sale worth of $1.1 billion.The startup, which competes with PhonePe and Google Pay, plans to use the fresh capital of $577 million to broaden its payments services offering and about $269 million to enter into new initiatives and explore acquisition opportunities, it said.
+
+
+***
+![Apple Back to School offer: Users get free AirPods on buying MacBook or iPad](https://images.indianexpress.com/2021/07/Apple-offer-1.jpg "Apple Back to School offer: Users get free AirPods on buying MacBook or iPad")
+
+
+[Apple Back to School offer: Users get free AirPods on buying MacBook or iPad](https://indianexpress.com/article/technology/techook/apple-launches-back-to-school-offer-in-india-users-get-free-airpods-on-buying-macbook-or-ipad-7407303/)
+
+
+> Apple has launched its Back to School discount programme in India. This is an annual education offer, which is already live on Apple Store. The company is offering freebies if you buy eligible Apple products from the Apple Store. Customers can basically buy an eligible Mac or iPad for college or university and get AirPods for free. If you want to upgrade to AirPods wireless charging, then you will have to pay Rs 4,000. Those who are interested in AirPods Pro will be required to spend Rs 10,000. The AirPods, AirPods Wireless Charging, and AirPods Pro are originally selling for Rs 14,900, Rs 18,900, and Rs 24,900, respectively.
+
+
+***
+![#TECH: Samsung organises competition to drive STEM education in Malaysia](https://assets.nst.com.my/images/articles/botssolve_NSTfield_image_socialmedia.var_1626414533.jpg "#TECH: Samsung organises competition to drive STEM education in Malaysia")
+
+
+[#TECH: Samsung organises competition to drive STEM education in Malaysia](https://www.nst.com.my/lifestyle/bots/2021/07/708947/tech-samsung-organises-competition-drive-stem-education-malaysia)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
