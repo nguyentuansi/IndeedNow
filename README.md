@@ -42582,3 +42582,53 @@
 > THERE'S a brand-new handheld console in town – watch out, Nintendo. It's called the Steam Deck – and it's coming out later this year. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news It's got a 7-inch screen with 720p resolutionCredit: Valve There are analogue sticks and touchpadsCredit: Valve What is Valve's Steam Deck? News and latest The Steam Deck is a brand new handheld console created by Valve. Game developer Valve was rumoured to be plotting such a device – but it's now official.
 
 
+***
+![The most common Amazon Echo problems and how to solve them](https://icdn.digitaltrends.com/image/digitaltrends/amazon-echo-show-8-2021-review-7-of-10.jpg "The most common Amazon Echo problems and how to solve them")
+
+
+[The most common Amazon Echo problems and how to solve them](https://www.digitaltrends.com/home/common-echo-problems-and-how-to-solve-them/)
+
+
+> Those of us with smart home equipment can attest to the many glories of web-connected hardware. One of the most popular Internet-of-Things (IoT) families is Amazon's Echo lineup. Comprising smart speakers, displays, and a host of other equipment, Echo products can act as smart hubs for the rest of your home's IoT gear, allowing you to control thermostats, lighting, and streaming devices with voice commands and the Alexa app. Like all things tech (and especially all things web-connected), you're wont to run into bugs and glitches now and then, even with the best of hardware.
+
+
+***
+![Google Pixel 6 camera leak suggests some confusing identity issues](https://cdn.mos.cms.futurecdn.net/QbwGSZqjDeyuxaofu5AL7m-1200-80.jpg "Google Pixel 6 camera leak suggests some confusing identity issues")
+
+
+[Google Pixel 6 camera leak suggests some confusing identity issues](https://www.techradar.com/news/google-pixel-6-camera-leak-suggests-some-confusing-identity-issues)
+
+
+> If you've been paying attention to Google Pixel 6 leaks, you're probably expecting a pretty flashy device. More so than for most phones, the Pixel 6 rumor mill has gone out of control, with fake leaks and rampant speculation making it hard to know what to believe.With most phones before their launch, we get a good idea of what to expect from these leaks and rumors, but for the Google Pixel 6, it's hard to know how accurate the painted portrait is. That's doubly the case with the anticipated Pixel 6 XL, especially thanks to some high-profile leaks which turned out to be fake.
+
+
+***
+![Why WeWork Didn't Work](https://media.wired.com/photos/60f083a4d70f095980d718bc/191:100/w_1280,c_limit/Gear-Lab-WeWork-Adam-Neumann-1079941752.jpg "Why WeWork Didn't Work")
+
+
+[Why WeWork Didn't Work](https://www.wired.com/story/gadget-lab-podcast-512/)
+
+
+> In the 11 years since its founding, WeWork has had a wild ride. At its core, it's a real estate company that subleases trendy office spaces to other businesses. But the workers at the company, lead by their charismatic CEO Adam Neumann and intoxicated by a $47 billion valuation, partied like it was a rebellious tech startup. Behind all the kombucha taps in WeWork's offices was a culture of extravagant splurging, furious hedonism, and questionable business decisions. The bad behavior persisted for a decade before it all came crashing down.
+
+
+***
+![The CDC Owes Parents Better Messaging on the Vaccine for Kids](https://media.wired.com/photos/60f0bc13d70f095980d718c1/191:100/w_1280,c_limit/ideas-vaccine-kids.jpg "The CDC Owes Parents Better Messaging on the Vaccine for Kids")
+
+
+[The CDC Owes Parents Better Messaging on the Vaccine for Kids](https://www.wired.com/story/the-cdc-owes-parents-better-messaging-on-the-vaccine-for-kids/)
+
+
+> The CDC, however, wants to make the case that the arresting numbers above only present an illusion of bad stakes for young people, in particular young males. On Good Morning America on June 24, Walensky said, 'If we have a group of 12- to 17-year-olds who we're working to vaccinate over the next four months and can vaccinate 1 million of them, we could expect 30 to 40 of these mild self-limited cases of myocarditis … If we were to vaccinate all 1 million we would avert 8,000 cases of Covid, 200 hospitalizations, 50 ICU stays, and one death.
+
+
+***
+![This Device Could Tune Your Heart—Then Dissolve Away](https://media.wired.com/photos/60f0e0d0e13a3d9b476e1e84/191:100/w_1280,c_limit/Science_heart_GettyImages-530459280.jpg "This Device Could Tune Your Heart—Then Dissolve Away")
+
+
+[This Device Could Tune Your Heart—Then Dissolve Away](https://www.wired.com/story/this-device-could-tune-your-heart-then-dissolve-away/)
+
+
+> The first medical implant to come of that breakthrough was a thin sheet that electrically jolts injured tissue to kick-start nerve regeneration, which the team tested in rats. Rogers then teamed up with cardiologists, including Arora, who saw an opportunity to forgo traditional temporary pacemakers used to treat slow heart rhythms. Rogers likens this dissolvable device to an internal wound healer, an 'electronic medicine' in which all the components are soluble.Illustration: Northwestern University/George Washington UniversityAt first glance, the half-inch-wide, half-inch-long device may seem like a flimsy plastic strip.
+
+
