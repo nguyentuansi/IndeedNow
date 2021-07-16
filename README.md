@@ -42823,3 +42823,43 @@
 > Salvador Rodriguez / CNBC: Biden says platforms like Facebook are “killing people” with the way they are handling COVID-19 vaccine misinfo, as White House calls on Facebook to do more — - White House Press Secretary Jen Psaki on Friday said it is clear there are more steps Facebook can take to fight misinformation regarding Covid-19 vaccines.
 
 
+***
+![New emoji causing a massive stir](https://content.api.news/v3/images/bin/b2aa1f03d709f30f2b1f84dab1b358ff "New emoji causing a massive stir")
+
+
+[New emoji causing a massive stir](https://www.news.com.au/technology/gadgets/mobile-phones/pregnant-man-among-new-emojis-to-be-introduced-this-year/news-story/28fc240a3e28586efd68d809f26ccdc7)
+
+
+> A host of new emojis have been slated for release at some point this year and one in particular is pushing people's buttons.A text with this emoji could cause a pregnant pause.This year's batch of emoji finalists includes a knocked-up man, a disco ball and a melting smiley face.Several gender-inclusive and non-binary images — including one titled Pregnant Man — could be released for smartphone use in September, according to emojipedia.org.One that looks fit for the Arnold Schwarzenegger flick 'Junior' shows a mustachioed man clutching his baby bump and squinting.
+
+
+***
+![Virginia is investing $700M to expand broadband access to everyone in the state by 2024](https://www.cnet.com/a/img/5RTFP7PF9_wFeJ0lwqC3pD_4dw0=/1200x630/2021/06/11/12bf554e-da6a-4e77-a2df-5ef3d7962560/windows-laptop-how-to-tech-tip-cnet-2021-10-lenovo-yoga-c740.jpg "Virginia is investing $700M to expand broadband access to everyone in the state by 2024")
+
+
+[Virginia is investing $700M to expand broadband access to everyone in the state by 2024](https://www.cnet.com/tech/services-and-software/virginia-is-investing-700m-to-expand-broadband-access-to-everyone-in-the-state-by-2024/)
+
+
+> Sarah Tew/CNET Virginia governor Ralph Northam said Friday the state plans to invest $700 million in American Rescue Plan funding to help bring broadband to underserved areas within the next three years. The move will expedite Gov. Northam's 10-year plan to provide internet access for everyone in the state, pushing forward the goal year from 2028 to 2024.  The governor also said Virginia has "successfully bridged half of the digital divide, with an estimated 233,500 unserved locations remaining," according to a release.
+
+
+***
+![Peacock TV: How to stream Dr. Death, how much it costs and what else to know](https://www.cnet.com/a/img/yi6AvuNFHp8w4V3Mep-acPphsLg=/1200x630/left/middle/2020/07/05/535f7113-cbe6-45bc-89dd-9be3a288148a/peacock-logo-iphone-11-3618.jpg "Peacock TV: How to stream Dr. Death, how much it costs and what else to know")
+
+
+[Peacock TV: How to stream Dr. Death, how much it costs and what else to know](https://www.cnet.com/tech/services-and-software/peacock-tv-how-to-stream-dr-death-how-much-it-costs-and-what-else-to-know/)
+
+
+> Enlarge Image","modalTemplate":"{{content}}","setContentOnInit":false}>Peacock will soon be the streaming hub to watch the Tokyo Olympics, which start in late July.  Angela Lang/CNET Peacock is NBCUniversal's streaming app, with tens of thousands of hours of free programming, plus more shows, movies, sports and originals if you pay. Only paying members can access everything on the service, including the full first season of Dr. Death, its new true-crime drama show, and Boss Baby 2 (aka The Boss Baby: Family Business).
+
+
+***
+![Punishing: Gray Raven Is An Anime Cyberpunk RPG & It's Out Today](https://www.androidheadlines.com/wp-content/uploads/2021/04/Punishing-Gray-Raven-2.jpg "Punishing: Gray Raven Is An Anime Cyberpunk RPG & It's Out Today")
+
+
+[Punishing: Gray Raven Is An Anime Cyberpunk RPG & It's Out Today](https://www.androidheadlines.com/2021/07/punishing-gray-raven-android-ios-launch-day-play-store-rpg-anime.html)
+
+
+> We've been writing about Punishing: Gray Raven for a couple of months now, and that continues today because the launch of the game is today for Android and iOS devices.If you missed some of the previous coverage, Punishing: Gray Raven is a cyberpunk-themed action RPG with Anime-style visuals. It plays similarly to games like Genshin Impact and Honkia Impact 3rd. But with seemingly more flair. There are lots of impressive things about the game that make it worth a try. However, the stylish combat is chief among them.
+
+
