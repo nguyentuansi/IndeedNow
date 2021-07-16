@@ -42532,3 +42532,53 @@
 > Wednesday July 14, 2021 5:40 am PDT by Hartley CharltonRockley Photonics, an Apple supplier, has today unveiled an advanced digital sensor system that is likely to come to the Apple Watch to enable a wide range of new health tracking features.The company today revealed a full-stack, "clinic-on-the-wrist" digital health sensor system, enabling wearable devices to monitor multiple biomarkers, including core body temperature, blood pressure, body...
 
 
+***
+![Here's how to defeat all those tricky bosses in Skyward Sword HD](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/04/skyward-sword-hd-bosses-hero.jpg "Here's how to defeat all those tricky bosses in Skyward Sword HD")
+
+
+[Here's how to defeat all those tricky bosses in Skyward Sword HD](https://www.imore.com/skyward-sword-hd-bosses-how-beat-all-bosses)
+
+
+> Source: iMore The Legend of Zelda: Skyward Sword HD is the first game in the official Zelda timeline. By playing through the story, we learn about the origin of the Master Sword and even the power behind Zelda and Ganon. But to do all of that, you've got to defeat those tricky bosses first. Some of them can be downright challenging, but we're here to help you through them all. Each Skyward Sword HD boss attacks in patterns. The key is finding their weakness and knowing what tools to use to take them down.
+
+
+***
+![GHD Unplugged review](https://cdn.mos.cms.futurecdn.net/ncTkpeR9AzBSvKcor6hFkW-1200-80.jpg "GHD Unplugged review")
+
+
+[GHD Unplugged review](https://www.techradar.com/reviews/ghd-unplugged)
+
+
+> Since as far back as 2001, when GHD launched its original ceramic-plated hair straighteners in UK salons, the brand has been at the forefront of hair technology and trends. While many of us were still scalding our foreheads with steam-powered straighteners, or even using clothing irons to get rid of kinks and curls, GHD became pioneers of the flat-iron styler movement. Two decades later, and dozens of standard and limited-edition straighteners later, GHD had appeared to be moving away from the products it was best known for, instead concentrating recently on expanding its range of some of the best hair dryers, hot brush and curling tong ranges.
+
+
+***
+![Apple employees resist company's hybrid work model, say lack of flexibility forced some to quit](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/screenshot_2021-07-14_at_2.21._0_1200x768-original.png "Apple employees resist company's hybrid work model, say lack of flexibility forced some to quit")
+
+
+[Apple employees resist company's hybrid work model, say lack of flexibility forced some to quit](https://www.businesstoday.in/technology/story/apple-employees-resist-companys-hybrid-work-model-say-lack-of-flexibility-forced-some-to-quit-301542-2021-07-16)
+
+
+> Apple, in a letter to its employees last month, had noted that it would adopt a hybrid work model wherein employees would be required to turn up three days at the office from September. Several reports of the company's employees resisting the new work model have surfaced since then. 80 employees wrote a letter to company CEO Tim Cook. The employees in the letter have noted that "Apple's remote,location-flexible work policy, and the communication around it, have already forced some of our colleagues to quit.
+
+
+***
+![Valve's Steam Deck is NEW handheld console to take on Nintendo Switch, PS5 and Xbox](https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/103CD62B-2CA7-4944-9733-3D6C4C8A7538.jpe?strip=all&quality=100&w=1200&h=800&crop=1 "Valve's Steam Deck is NEW handheld console to take on Nintendo Switch, PS5 and Xbox")
+
+
+[Valve's Steam Deck is NEW handheld console to take on Nintendo Switch, PS5 and Xbox](https://www.the-sun.com/tech/3293235/valve-steam-deck-release-date-price-specs/)
+
+
+> THERE'S a brand-new handheld console in town – watch out, Nintendo. It's called the Steam Deck – and it's coming out later this year. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news It's got a 7-inch screen with 720p resolutionCredit: Valve There are analogue sticks and touchpadsCredit: Valve What is Valve's Steam Deck? News and latest The Steam Deck is a brand new handheld console created by Valve. Game developer Valve was rumoured to be plotting such a device – but it's now official.
+
+
+***
+![Valve's Steam Deck is NEW handheld console to take on Nintendo Switch, PS5 and Xbox](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/07/103CD62B-2CA7-4944-9733-3D6C4C8A7538.jpe?strip=all&quality=100&w=1200&h=800&crop=1 "Valve's Steam Deck is NEW handheld console to take on Nintendo Switch, PS5 and Xbox")
+
+
+[Valve's Steam Deck is NEW handheld console to take on Nintendo Switch, PS5 and Xbox](https://www.thesun.co.uk/tech/15607323/valve-steam-deck-release-date-price-specs/)
+
+
+> THERE'S a brand-new handheld console in town – watch out, Nintendo. It's called the Steam Deck – and it's coming out later this year. Read the latest stories for PS5 Keep up-to-date with all the Xbox news Read the latest gaming news It's got a 7-inch screen with 720p resolutionCredit: Valve There are analogue sticks and touchpadsCredit: Valve What is Valve's Steam Deck? News and latest The Steam Deck is a brand new handheld console created by Valve. Game developer Valve was rumoured to be plotting such a device – but it's now official.
+
+
