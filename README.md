@@ -42294,3 +42294,50 @@
 > Toyota plans to hire more people and invest heavily in its subsidiary Woven Planet to work on mobility technology so the Japanese automaker stays competitive amid the global shift to using artificial intelligence and robotics in everyday driving. "Toyota's traditional strength in hardware is something we never want to lose. To make safe mobility we need both, great hardware and great software," Woven Planet Holdings Chief Executive James Kuffner said. "The world is changing. The automotive industry is going through this once-in-a-hundred-year revolution.
 
 
+***
+![You can take a cruise again. Just don't expect a 100% return to normal](https://www.cnet.com/a/img/F5smPJh2FpZdI6ZzMA9B0aX8qQA=/1200x630/2021/06/11/4adf9589-dc81-48d1-95c1-99a4de0533d8/cruise-ship-at-sydney.jpg "You can take a cruise again. Just don't expect a 100% return to normal")
+
+
+[You can take a cruise again. Just don't expect a 100% return to normal](https://www.cnet.com/news/you-can-take-a-cruise-again-just-dont-expect-a-100-return-to-normal/)
+
+
+> Sail away, sail away (but with precautions). Kent German/CNET Cruising is making a comeback more than a year after the coronavirus pandemic forced the industry to go full astern. In Alaska, the Caribbean and Europe, major lines have scheduled sailings planned through the first half of next year, and bigger and more elaborate ships are on the way.There will be some changes from pre-pandemic times, and scheduled sailings may be canceled or moved as COVID-19 variants persist and regulations in ports change.
+
+
+***
+![Zillow](https://fintechzoom.com/wp-content/uploads/2021/07/60f0930980e07.preview.jpg "Zillow")
+
+
+[Zillow](https://fintechzoom.com/fintech_news_zillow/zillow-the-cities-with-the-most-expensive-real-estate-lifestyles/)
+
+
+> Zillow – The cities with the most expensive real estate | LifestylesAt the state level, homes are most expensive in Hawaii, where the median price is nearly $710,000, or about 150% higher than the national median price of $281,370. California is second at $654,629, which is also more than double the national median. Massachusetts and Washington are the third and fourth most expensive states, respectively, with home prices just under half a million dollars, according to data from Zillow. At the opposite end of the spectrum, West Virginia's median home price of $116,723 is the lowest in the nation and 58% lower than the national median.
+
+
+***
+![Finding 'Grace': Murder, DNA and ancestry](https://ichef.bbci.co.uk/news/1024/branded_news/1B7A/production/_119443070_whatsappimage2021-07-12at20.53.20.jpg "Finding 'Grace': Murder, DNA and ancestry")
+
+
+[Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.com/news/technology-57801794)
+
+
+> By James ClaytonNorth America technology reporterimage copyrightRob RingwaldA brother and sister were looking for their long-lost sibling. A police department was trying to identify a murder victim. It took 30 years - but a revolution in forensics using DNA and ancestry websites finally connected the dots.The nicest thing about the little town of Bucklin, Kansas, is its cemetery. The grass is neatly cut, the graves well looked after. It was here, last month, that 20 or so mourners stood around a small, white coffin to say goodbye to Shawna Beth Garber.
+
+
+***
+![Finding 'Grace': Murder, DNA and ancestry](https://ichef.bbci.co.uk/news/1024/branded_news/1B7A/production/_119443070_whatsappimage2021-07-12at20.53.20.jpg "Finding 'Grace': Murder, DNA and ancestry")
+
+
+[Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794)
+
+
+> By James ClaytonNorth America technology reporterimage copyrightRob RingwaldA brother and sister were looking for their long-lost sibling. A police department was trying to identify a murder victim. It took 30 years - but a revolution in forensics using DNA and ancestry websites finally connected the dots.The nicest thing about the little town of Bucklin, Kansas, is its cemetery. The grass is neatly cut, the graves well looked after. It was here, last month, that 20 or so mourners stood around a small, white coffin to say goodbye to Shawna Beth Garber.
+
+
+***
+[YouTube finally adds three highly requested Twitch-inspired features](https://mobilesyrup.com/2021/07/15/youtube-finally-adds-three-highly-requested-twitch-inspired-features/)
+
+
+> YouTube has launched three new live-stream features that have been been a staple over at Twitch for a long time. The rather familiar and highly requested features are: Clips Starting July 15th, YouTube live stream viewers will be able to capture 5-60 second segments from content (From live streams and regular uploads) that are shareable... The post YouTube finally adds three highly requested Twitch-inspired features appeared first on MobileSyrup.
+
+
