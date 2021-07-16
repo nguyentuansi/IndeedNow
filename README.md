@@ -42485,3 +42485,50 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![NTT Solmare: With Over 4 Million Downloads, Obey Me! Gets an Anime!](https://mms.businesswire.com/media/20210716005010/en/891395/23/anime_1.jpg "NTT Solmare: With Over 4 Million Downloads, Obey Me! Gets an Anime!")
+
+
+[NTT Solmare: With Over 4 Million Downloads, Obey Me! Gets an Anime!](https://www.businesswire.com/news/home/20210716005010/en/NTT-Solmare-With-Over-4-Million-Downloads-Obey-Me%21-Gets-an-Anime%21)
+
+
+> July 16, 2021 04:00 AM Eastern Daylight Time OSAKA, Japan--(BUSINESS WIRE)--'Obey Me!' a dating simulation game for mobile platforms by NTT Solmare Corporation (Headquarters: Osaka, Japan; President: Toshiaki Asahi, hereafter referred to as 'NTT Solmare,') that was released overseas in 2019 and in Japan in 2020, will be releasing an anime from July 16, 2021. *The release date, period, and price will all depend on the service. Please refer to each respective service for further details. Obey Me! The Anime Will Be Available In-Game and On Streaming Services In addition to DevilTube, the anime will also be available for viewing on streaming service (see towards the end of this news release.
+
+
+***
+![Rimoto, A websocket based app to control computer.](https://external-preview.redd.it/Zmdo9DtnGNeHH-ljToRxAOIMQf5twZubkNqco4a9iEw.jpg?auto=webp&s=df71a5930e850e5a5cbe1a61ee1168ccb1ed2c54 "Rimoto, A websocket based app to control computer.")
+
+
+[Rimoto, A websocket based app to control computer.](https://www.reddit.com/r/Python/comments/olcbal/rimoto_a_websocket_based_app_to_control_computer/)
+
+
+> Hello guys i made this little web app called rimoto. It uses websockets and pyautogui to control your computer.Check it out, i made it for a hackathon mlh hacktoon. Why i made it: Whenever i was watching something on my laptop and its far away from ne, i needed to go there and change the video, increase/decrease the volume manually but now I can just use my phone.https://github.com/vivekascoder/rimoto
+
+
+***
+[Gaming enthusiasts ALERT! Valve announces powerful handheld console Steam Deck- Here's all you need to know](https://www.zeebiz.com/technology/news-gaming-enthusiasts-alert-valve-announces-powerful-handheld-console-steam-deck-heres-all-you-need-to-know-160851)
+
+
+> Valve Corporation, also known as Valve Software, an American video game developer has announced the Steam Deck, a new handheld gaming console. Steam Deck, a compact PC cum console runs on custom SteamOS. It will begin shipping in December and reservations open from July 16th.
+
+
+***
+![China's cyber-watchdog announces on-site Didi cybersecurity investigation](https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/06/full/1625543469-636.jpg "China's cyber-watchdog announces on-site Didi cybersecurity investigation")
+
+
+[China's cyber-watchdog announces on-site Didi cybersecurity investigation](https://www.business-standard.com/article/technology/china-s-cyber-watchdog-announces-on-site-didi-cybersecurity-investigation-121071600558_1.html)
+
+
+> China's cyber-watchdog on Friday announced an on-site cybersecurity investigation of ride-hailing service Didi, stepping up scrutiny after earlier criticism of its handling of customer information caused the company's New York-traded shares to tumble. The on-site inspection comes two weeks after the regulator said it would probe the ride-hailing company over concerns about national security and data security. That came days after Didi raised $4.4 billion and went public on the New York Stock Exchange.
+
+
+***
+![Apple Holds Screening Event of 'Ted Lasso' Season Two Ahead of Global Premiere Next Week](https://images.macrumors.com/t/WWYeo3xfbwaJU8z-QeX68m8DPcw=/1600x/https://images.macrumors.com/article-new/2021/07/ted-lasso-screening-la.jpeg "Apple Holds Screening Event of 'Ted Lasso' Season Two Ahead of Global Premiere Next Week")
+
+
+[Apple Holds Screening Event of 'Ted Lasso' Season Two Ahead of Global Premiere Next Week](https://www.macrumors.com/2021/07/16/ted-lasso-screening-ahead-of-premiere/)
+
+
+> Wednesday July 14, 2021 5:40 am PDT by Hartley CharltonRockley Photonics, an Apple supplier, has today unveiled an advanced digital sensor system that is likely to come to the Apple Watch to enable a wide range of new health tracking features.The company today revealed a full-stack, "clinic-on-the-wrist" digital health sensor system, enabling wearable devices to monitor multiple biomarkers, including core body temperature, blood pressure, body...
+
+
