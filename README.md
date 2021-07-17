@@ -43369,3 +43369,47 @@
 > Digital Trends may earn a commission when you buy through links on our site. Whether its for long gaming sessions or just for typing up papers and other work assignments, a good keyboard is a must. But let's face it: As great as laptops are, their built-in keyboards usually aren't that great. You need the right tools for the job, and be it for a desktop PC, a laptop, or even a tablet, a good wireless keyboard is one of the best ways to upgrade your work or gaming setup. To help you out, we've rounded up all the best wireless keyboard deals of the month right here.
 
 
+***
+![How to watch The Open: Live stream Major golf online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/07/the-open-golf-2021-hero-2.jpg "How to watch The Open: Live stream Major golf online from anywhere")
+
+
+[How to watch The Open: Live stream Major golf online from anywhere](https://www.androidcentral.com/open-2021-live-stream-how-watch-major-golf-action-online-anywhere)
+
+
+> Spanish star Jon Rahm will be looking to follow up his recent US Open triumph as the golfing world descends upon Kent for the British Open. Read on for full details on how to get a live stream of The Open 2021 with our guide below. Source: Twitter / @TheOpen The 149th edition of the tournament takes place at Royal St. George's in Kent for the first time in ten years. Rahm has been consistent throughout the season, and will be desperate to become the first player to win back-to-back Major titles since Jordan Spieth in 2015.
+
+
+***
+![Creating a Tweet With NodeJS](https://external-preview.redd.it/Sc5lwI9ts_9iU-9ltRcuZS35Oy3BO0tAGdosFiLUrtU.jpg?auto=webp&s=4e92e5ec7b9868c5984520f25b3ae2ea99d18938 "Creating a Tweet With NodeJS")
+
+
+[Creating a Tweet With NodeJS](https://www.reddit.com/r/programming/comments/omdfml/creating_a_tweet_with_nodejs/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![code.golf](https://external-preview.redd.it/T5f2-nK50iUPYs3Y0UT4bjHB_PqiZb_a9wyy_r3JfL0.jpg?auto=webp&s=54a7a42b08e879e90ff40890bc7b1eb9e49f2da0 "code.golf")
+
+
+[code.golf](https://www.reddit.com/r/Python/comments/omdbi5/codegolf_css_colors_challenge/)
+
+
+> If you've never heard of it before, code.golf is a website where programmers battle it out across a series of problems to write solutions in the least amout of bytes/chars. Just like regular code golf, but a really nice service.I was running through a few problems and came across the above challenge. The general jist is as follows:Given a known CSS colour keyword, output it's corresponding hex colour value. Yes, all 148 colours listed.Anyway I gave it a shot with Python - some golfing here, bodged text compression there, and was happy with my solution, only to find that the top answer for this question managed to solve it with 259 characters in Python.
+
+
+***
+[An Italian museum is using cameras to monitor people looking at artwork, to define a work of art's "attraction value" and accordingly change museum layouts (Flavia Rotondi/Bloomberg)](http://www.techmeme.com/210717/p13#a210717p13)
+
+
+> Flavia Rotondi / Bloomberg: An Italian museum is using cameras to monitor people looking at artwork, to define a work of art's “attraction value” and accordingly change museum layouts — As Italy's museums and galleries welcome back tourists and try to recoup some of the 190 million euros ($225 million) …
+
+
+***
+[Best way to learn Python for a complete newbie?](https://www.reddit.com/r/Python/comments/omcppf/best_way_to_learn_python_for_a_complete_newbie/)
+
+
+> I don't know anything about programming so which would be the best way to learn a coding language by textbook or an online course like Coursera or else?
+
+
