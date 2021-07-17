@@ -42907,3 +42907,43 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Two Seattle teens create app to help those struggling during pandemic](https://media.king5.com/assets/KING/images/5b980931-e5d9-463c-89d7-c8a18757402b/5b980931-e5d9-463c-89d7-c8a18757402b_1140x641.jpg "Two Seattle teens create app to help those struggling during pandemic")
+
+
+[Two Seattle teens create app to help those struggling during pandemic](https://www.king5.com/article/tech/two-seattle-teens-create-app-to-help-those-struggling-during-pandemic/281-f57bc60b-315e-4a1e-abfa-2a6fde6f7e69)
+
+
+> SEATTLE — Two innovative teenagers in Seattle have developed a mobile app to provide resources for what they refer to as the "changing demographic of homelessness."  Aatish Parson and Aidan Zhou are still in high school but have their focus on helping the many who have found themselves in a desperate situation due to the coronavirus pandemic. The teenagers created a free mobile app to help people "Comeback" from whatever situation they find themselves in. The app is fittingly called "Comeback - Homeless Resources" and it has a five star rating in the app store and is well-reviewed.
+
+
+***
+![Tech Problems Delay Avenatti Trial Opening Amid Pandemic Jury Pool Splitting](https://images.law.com/contrib/content/uploads/sites/403/2019/05/Cohen-Article-201905232235.jpg "Tech Problems Delay Avenatti Trial Opening Amid Pandemic Jury Pool Splitting")
+
+
+[Tech Problems Delay Avenatti Trial Opening Amid Pandemic Jury Pool Splitting](https://www.law.com/therecorder/2021/07/16/tech-problems-delay-avenatti-trial-opening-amid-pandemic-jury-pool-splitting/)
+
+
+> Technological problems have delayed opening statements in Michael Avenatti's federal criminal trial in California by at least a day, driven by pandemic-related procedures that Avenatti's lawyer has argued warrant a mistrial. The 118 people who remain in the jury pool are to be split into three groups for group voir dire, with two groups watching from other rooms via a live video feed. As potential jurors are dismissed from the courtroom, others would be brought in from the overflow rooms. Questioning was to begin Friday, but the quality of the audio to the other rooms was so poor the jurors there couldn't understand it.
+
+
+***
+![Samsung to launch new foldable smartphones with lower price tags](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/5d7b7a11bdda46d89da9c791807e792d.jpg "Samsung to launch new foldable smartphones with lower price tags")
+
+
+[Samsung to launch new foldable smartphones with lower price tags](https://www.koreatimes.co.kr/www/tech/2021/07/133_312296.html)
+
+
+> Samsung Electronics building in Seocho-dong, southern Seoul / YonhapSamsung Electronics is expected to unveil its latest foldable smartphones next month with lower price tags compared with its predecessors, industry sources said Saturday.The South Korean tech giant is expected to start sales of the Galaxy Z Fold3 at around 1.99 million won ($1,744), which is 17 percent lower than the 2.39 million won set for the previous model, according to the sources.The price of the Galaxy Z Flip3 is also expected to be around 22 percent lower than the predecessor at 1.
+
+
+***
+![VanMoof X3 e-bike review: Transportation revelation – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/DSC02439.jpg?w=599 "VanMoof X3 e-bike review: Transportation revelation – TechCrunch")
+
+
+[VanMoof X3 e-bike review: Transportation revelation – TechCrunch](https://techcrunch.com/2021/07/16/vanmoof-x3-review-e-bike/)
+
+
+> Like some of the best consumer tech from the last decade, I didn't know I needed an e-bike until I was on one, breezing down the bike lane contemplating my newfound freedom. Before buying a Nintendo Switch, I would have never guessed how much a candy-colored gaming console that I could pop out of a dock and into my backpack for long flight would fill me with joy. An e-bike, particularly this e-bike, the VanMoof X3, feels like that. If you haven't had a chance to try an e-bike, know that the sensation of effortlessly zipping around, electricity almost imperceptibly humming beneath you, is difficult to describe and best experienced first-hand.
+
+
