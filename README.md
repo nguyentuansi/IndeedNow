@@ -43078,3 +43078,50 @@
 > BusinessToday.In Jul 17, 2021, Updated Jul 17, 2021, 1:14 PM IST South Korean tech giant Samsung Electronics is expected to launch its latest offering of foldable smartphones next month. These foldable smartphones will be sold at lower prices compared to the company's predecessors. The tech giant is expected to announce the release of two smartphones- Galaxy Z Fold3 and Galaxy Z Flip3 -Â  along with other accessories on August 11. Samsung is likely to begin selling the new Galaxy Z Fold3 at around 1.
 
 
+***
+![How To Use Apple's Shortcuts App in MacOS Monterey](https://icdn.digitaltrends.com/image/digitaltrends/macos-monterey-shortcuts-main.jpg "How To Use Apple's Shortcuts App in MacOS Monterey")
+
+
+[How To Use Apple's Shortcuts App in MacOS Monterey](https://www.digitaltrends.com/computing/how-to-use-apple-shortcuts-macos-monterey/)
+
+
+> Apple's Shortcuts app has been on iOS for years, but in MacOS Monterey, it finally makes its way to the company's computers. This powerful app is right at home on the Mac, as it lets you simplify complex tasks and run powerful operations with just a click — or even with your voice. Today, we are going to show you everything you need to know to create and use effective shortcuts on your Mac. Download the MacOS Monterey public beta, open the Shortcuts app, and follow our instructions to start automating tasks that will make your life a little easier.
+
+
+***
+![Thinkium Announced to Launch on GitHub to Realize Partial Open Source of Key Functions](https://mms.businesswire.com/media/20210717005012/en/892107/23/logo.jpg "Thinkium Announced to Launch on GitHub to Realize Partial Open Source of Key Functions")
+
+
+[Thinkium Announced to Launch on GitHub to Realize Partial Open Source of Key Functions](https://www.businesswire.com/news/home/20210717005012/en/Thinkium-Announced-to-Launch-on-GitHub-to-Realize-Partial-Open-Source-of-Key-Functions)
+
+
+> July 17, 2021 05:50 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Thinkium public chain announced to launch on GitHub, the world's largest technology community, to realize partial open source of key functions. Thinkium concentrates on technology for five years, and has come up with a number of significant innovations. Crypto asset is often touted as an uncorrelated asset relative to conventional asset classes like equities, bonds, etc. Over the long-term, this holds true, but in the short-to-medium term, correlations tend to fluctuate depending on market conditions and general risk appetite.
+
+
+***
+![Covid misinformation on Facebook is killing people](https://external-preview.redd.it/V7uOzvd7ha4GPKM1UeQMwyesm7490TvxOgR1VOL4Xr4.jpg?auto=webp&s=9065794216f0095a41a88b467ce0fd7e6ddb292a "Covid misinformation on Facebook is killing people")
+
+
+[Covid misinformation on Facebook is killing people](https://www.reddit.com/r/technology/comments/om1705/covid_misinformation_on_facebook_is_killing_people/)
+
+
+> Facebook are ok with killing people. Their VP said so in an email to staff. Dead users is just the price of market domination to them. You can read his email yourself https://www.buzzfeednews.com/article/ryanmac/growth-at-any-cost-top-facebook-executive-defended-data#.lbeaWaPKk4
+
+
+***
+[I made a very useful tool for my school and they are very happy with me!](https://www.reddit.com/r/Python/comments/om13yo/i_made_a_very_useful_tool_for_my_school_and_they/)
+
+
+> So I learned python a week ago and 3 days back I made something for my school and they are very happy with me. I made a marks percentage calculator!print("Welcome to Marks percentage calculator") print("Here you will be able to find percentage of 5 subjects") print("please enter your marks out of 100") a = input("Enter Your Marks in Science :") b = input("Enter Your Marks in Maths :") c = input("Enter Your Marks in Social Science :") d = input("Enter Your Marks in English :") e = input("Enter Your Marks in Computer :") a = int(a) b = int(b) c = int(c) d = int(d) e = int(e) f = (a+b+c+d+e)/500 o = f*100 print("Your Percentage in 5 subjects is",o) print("Congratulations!") Our principal told me to meet him and he thanked me personally and said he will start a python course for students.
+
+
+***
+![OnePlus Nord 2 design revealed: Everything to know before July 22 launch](https://images.indianexpress.com/2021/07/E6aVyMsXMAcTXEk.jpg "OnePlus Nord 2 design revealed: Everything to know before July 22 launch")
+
+
+[OnePlus Nord 2 design revealed: Everything to know before July 22 launch](https://indianexpress.com/article/technology/mobile-tabs/oneplus-nord-2-design-confirmed-everything-to-know-before-july-22-launch-7409285/)
+
+
+> OnePlus is set to launch the OnePlus Nord 2 5G smartphone on July 22. The company has now posted a teaser of the 5G smartphone which gives us an insight into the smartphone's design. Here is everything you should know about the upcoming OnePlus phone before the launch. The image which has been posted by the company shows the rear side of the OnePlus Nord 2, which looks to be similar to the OnePlus 9 and the original OnePlus Nord. The device has a OnePlus logo, and a triple rear camera located at the top-left corner.
+
+
