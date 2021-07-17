@@ -42947,3 +42947,43 @@
 > Like some of the best consumer tech from the last decade, I didn't know I needed an e-bike until I was on one, breezing down the bike lane contemplating my newfound freedom. Before buying a Nintendo Switch, I would have never guessed how much a candy-colored gaming console that I could pop out of a dock and into my backpack for long flight would fill me with joy. An e-bike, particularly this e-bike, the VanMoof X3, feels like that. If you haven't had a chance to try an e-bike, know that the sensation of effortlessly zipping around, electricity almost imperceptibly humming beneath you, is difficult to describe and best experienced first-hand.
 
 
+***
+![Valve takes on Nintendo Switch with new games console](https://technology.inquirer.net/files/2021/07/000_1K36K8-620x375.jpg "Valve takes on Nintendo Switch with new games console")
+
+
+[Valve takes on Nintendo Switch with new games console](https://technology.inquirer.net/110829/valve-takes-on-nintendo-switch-with-new-games-console)
+
+
+> PARIS — A new battle for dominance of the lucrative games console market is looming after US company Valve unveiled a device to rival the hugely popular Nintendo Switch. Valve, which owns gaming platform Steam, announced Thursday that it will start shipping its Steam Deck console in December with prices starting at $399. ADVERTISEMENT The company boasted that the console, marketed as a hand-held PC, will give users 'the most gaming power you have ever held' while allowing them to do everything they might otherwise do on a computer.
+
+
+***
+![Better Python: List comprehensions instead of looping](https://external-preview.redd.it/KSx1wpDlxbfuuNPF9JVFDu2YsVdLLlGntlI1O4DinnY.jpg?auto=webp&s=aea92597d0b61faa174f0f0e5eb6ed0971dff6c7 "Better Python: List comprehensions instead of looping")
+
+
+[Better Python: List comprehensions instead of looping](https://www.reddit.com/r/Python/comments/olw8pw/better_python_list_comprehensions_instead_of/)
+
+
+> Thank you! I'm a hack. It always works, but I always know there's a better way. This is great.
+
+
+***
+![Here's What It Would Sound Like If Blink 182 Had Written Vanessa Carlton's 'A Thousand Miles'](https://cdn.digg.com/wp-content/uploads/2021/07/17025939/Screen-Shot-2021-07-16-at-10.59.28-PM.jpg "Here's What It Would Sound Like If Blink 182 Had Written Vanessa Carlton's 'A Thousand Miles'")
+
+
+[Here's What It Would Sound Like If Blink 182 Had Written Vanessa Carlton's 'A Thousand Miles'](https://digg.com/video/heres-what-it-would-sound-like-if-blink-182-had-wrote-vanessa-carltons-a-thousand-miles)
+
+
+> An innovative yet proudly goofy rapper, he had an unlikely crossover hit with a tune that led one critic to call him (favorably) "the father of modern bad singing." THE BEST SONG BLINK DIDN'T WRITE Alex Melton Blinkifies Vanessa Carlton's signature song. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. This chef tried to make a puff pastry with 1 million layers — is he out of his mind or a complete genius? Please enjoy this extraordinary challenge.
+
+
+***
+![Microsoft Teams is getting a whole new look for Windows 11](https://cdn.mos.cms.futurecdn.net/4gZViCzuUDsJBYwwMvqmy8-1200-80.jpg "Microsoft Teams is getting a whole new look for Windows 11")
+
+
+[Microsoft Teams is getting a whole new look for Windows 11](https://www.techradar.com/news/microsoft-teams-is-getting-a-whole-new-look-for-windows-11)
+
+
+> (Image credit: Microsoft) Ahead of the release of Windows 11 later this year, Microsoft is working on a redesigned version of Microsoft Teams for the next version of its operating system that will also work on Windows 10.First announced during the software giant's Windows 11 event, the major update to its video conferencing software is currently being referred to as Microsoft Teams 2.0.The biggest difference between the existing Teams client and this upcoming one is the fact that Microsoft Teams 2.
+
+
