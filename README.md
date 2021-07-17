@@ -43125,3 +43125,53 @@
 > OnePlus is set to launch the OnePlus Nord 2 5G smartphone on July 22. The company has now posted a teaser of the 5G smartphone which gives us an insight into the smartphone's design. Here is everything you should know about the upcoming OnePlus phone before the launch. The image which has been posted by the company shows the rear side of the OnePlus Nord 2, which looks to be similar to the OnePlus 9 and the original OnePlus Nord. The device has a OnePlus logo, and a triple rear camera located at the top-left corner.
 
 
+***
+![The first 32-inch UltraFine OLED Pro review suggests LG is onto a winner](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/lg-ultrafine-oled-display.jpg "The first 32-inch UltraFine OLED Pro review suggests LG is onto a winner")
+
+
+[The first 32-inch UltraFine OLED Pro review suggests LG is onto a winner](https://www.imore.com/first-32-inch-ultrafine-oled-pro-review-suggests-lg-winner)
+
+
+> Source: LG LG's new UltraFIne OLED Pro monitor is closer than ever to being released. The first review suggests that LG's display could be a stunner. LG's new 32-inch UltraFine OLED Pro display is closer than ever to being something we can buy and a new review suggests that's something we might actually want to do. This thing looks like it's going to be a beast. Reviewed by BH Photo's Doug Guerra, the 32-inch monster packs a 16:9 4K HDR OLED screen that looks stunning, although you can't actually buy one just yet — a BH Photo listing suggests that it won't be long before you can, though.
+
+
+***
+![Watch 12-Year-Old Gui Khury Land The First 1080 In Competition To Win A Gold Medal At The 2021 X Games](https://cdn.digg.com/wp-content/uploads/2021/07/17115419/Screen-Shot-2021-07-17-at-7.51.19-AM.jpg "Watch 12-Year-Old Gui Khury Land The First 1080 In Competition To Win A Gold Medal At The 2021 X Games")
+
+
+[Watch 12-Year-Old Gui Khury Land The First 1080 In Competition To Win A Gold Medal At The 2021 X Games](https://digg.com/video/watch-12-year-old-gui-khury-land-the-first-1080-at-x-games)
+
+
+> An innovative yet proudly goofy rapper, he had an unlikely crossover hit with a tune that led one critic to call him (favorably) "the father of modern bad singing." Gui Khury gave the performance of a lifetime on the vert. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. The Bartini Beriev VVA-14, a vertical take-off amphibious aircraft, is the weirdest plane anyone has ever built by a long shot.
+
+
+***
+![Anthony Bourdain's voice-cloning for new doc called into question: It's 'a slippery slope'](https://external-preview.redd.it/BvJUtFjpon8DBPms776UyG7k0vF120msYTTOIZUn5Xc.jpg?auto=webp&s=b7d7e0778d90dc3e1a4ae031b9607c180c40af66 "Anthony Bourdain's voice-cloning for new doc called into question: It's 'a slippery slope'")
+
+
+[Anthony Bourdain's voice-cloning for new doc called into question: It's 'a slippery slope'](https://www.reddit.com/r/technology/comments/om2q6a/anthony_bourdains_voicecloning_for_new_doc_called/)
+
+
+> Agreed on a slippery slope. This may be one of the the downfalls of technological advancement. For one, it takes away from employment opportunities for others who would fill that spot, and for two the man is now deceased; that would be a very weird concept. If the voice being used was of a person who is still alive, but overwhelmed with projects then I wouldn't see this as a huge issue; but this just doesn't feel right and it is why people fear technology.
+
+
+***
+![Drought Threatens to Close California Hydropower Plant for First Time](https://external-preview.redd.it/hvqaAd8yYw2ImQCnC-JzAVajMoexq4vCyv9NazQUsIw.jpg?auto=webp&s=80b496fe6f014ab6b940ae7e711895a02c01ea62 "Drought Threatens to Close California Hydropower Plant for First Time")
+
+
+[Drought Threatens to Close California Hydropower Plant for First Time](https://www.reddit.com/r/technology/comments/om2lk9/drought_threatens_to_close_california_hydropower/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Facebook Pay may come to online retailers in August: Report](https://images.livemint.com/img/2021/07/17/600x338/2021-07-15T164402Z_1171712328_RC24LO9KYXC4_RTRMADP_3_FACEBOOK-CYBER_1626521202506_1626521225661.JPG "Facebook Pay may come to online retailers in August: Report")
+
+
+[Facebook Pay may come to online retailers in August: Report](https://www.livemint.com/technology/tech-news/facebooks-payment-system-will-extend-to-online-retailers-in-august-11626520862848.html)
+
+
+> Facebook is planning to extend its payment system to online retailers in August this year. After credit card companies backed out of Facebook's Libra cryptocurrency, the social media giant had launched its own payment system on its main site and Messenger, with subsidiaries WhatsApp and Instagram in line to get it in future. With the rollout for online retailers, shoppers on Facebook will see one more option listed next to the usual payment methods as Facebook Pay extends beyond the company's own platforms, reported The Verge.
+
+
