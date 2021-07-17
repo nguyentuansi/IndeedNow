@@ -43031,3 +43031,50 @@
 > Chinese smartphone maker Xiaomi Corp overtook Apple Inc in the second quarter to become the world's No. 2 smartphone maker, market research firm Canalys said in a report on Thursday.
 
 
+***
+![Should I buy a full-frame camera in 2021?](https://cdn.mos.cms.futurecdn.net/t6SM8MYXgby72Z3idSHftM-1200-80.jpg "Should I buy a full-frame camera in 2021?")
+
+
+[Should I buy a full-frame camera in 2021?](https://www.techradar.com/news/should-i-buy-a-full-frame-camera-in-2021)
+
+
+> If you're getting serious about photography (or video), then you've probably looked into full-frame cameras. There's a degree of camera snobbery when it comes to this sensor size and you might think that you need full-frame in order to get better photos than from a smartphone or crop-sensor digital camera.While this is isn't strictly true, most camera brands are certainly keen to push the idea that we need full-frame. This part of the market has exploded recently – Sony, Nikon, Canon, Panasonic and Leica are all part of this full-frame flurry, mainly through new mirrorless cameras and the occasional DSLR.
+
+
+***
+![Realme GT Master Edition launch: Specs, features, design, India price and everything we know so far](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/realme_gt_master_edition_-original.jpg "Realme GT Master Edition launch: Specs, features, design, India price and everything we know so far")
+
+
+[Realme GT Master Edition launch: Specs, features, design, India price and everything we know so far](https://www.indiatoday.in/technology/features/story/realme-gt-master-edition-launch-specs-features-design-india-price-and-everything-we-know-so-far-1829304-2021-07-17)
+
+
+> Story highlights Realme GT Master Edition is set to arrive on July 21 The device will be powered by Snapdragon 778G chipset It will get 64-megapixel triple rear cameras The launch of Realme GT Master Edition is around the corner. Realme on Weibo teased the launch to take place on July 21. Promotional pictures have revealed the design of the smartphone. The device features a distinct looking rear panel that resembles a leather suitcase. In addition to that, it gets a triple rear camera setup on the rear and a punch-hole display on the front.
+
+
+***
+![Bajaj Chetak bookings commence in Nagpur; test-rides available at two dealerships](https://images.moneycontrol.com/static-mcnews/2019/10/Bajaj-Chetak-1-770x433.jpg "Bajaj Chetak bookings commence in Nagpur; test-rides available at two dealerships")
+
+
+[Bajaj Chetak bookings commence in Nagpur; test-rides available at two dealerships](https://www.moneycontrol.com/news/technology/auto/bajaj-chetak-bookings-commence-in-nagpur-test-rides-available-at-two-dealerships-7186261.html)
+
+
+> Bajaj Auto has just launched the Chetak electric scooter in Nagpur with bookings now open at Rs 2,000 on the company website.The electric scooter was launched back in January 2020, but thanks to the COVID-19 pandemic, production was affected and bookings were down for most of the time. Till today, the Chetak was only available in Pune and Bengaluru and Nagpur is the latest city to have the scooter.As with the other two cities, the Chetak will be available in two trims, Urbane and Premium priced at Rs 1.
+
+
+***
+[fast_io + refterm v2 is 46548 times faster than stdio.h + cmd](https://www.reddit.com/r/programming/comments/olzvde/fast_io_refterm_v2_is_46548_times_faster_than/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Samsung to unveil new foldable smartphones at lower prices](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/samsung-sixteen_nine.jpg "Samsung to unveil new foldable smartphones at lower prices")
+
+
+[Samsung to unveil new foldable smartphones at lower prices](https://www.businesstoday.in/technology/news/story/samsung-to-unveil-new-foldable-smartphones-at-lower-prices-301616-2021-07-17)
+
+
+> BusinessToday.In Jul 17, 2021, Updated Jul 17, 2021, 1:14 PM IST South Korean tech giant Samsung Electronics is expected to launch its latest offering of foldable smartphones next month. These foldable smartphones will be sold at lower prices compared to the company's predecessors. The tech giant is expected to announce the release of two smartphones- Galaxy Z Fold3 and Galaxy Z Flip3 -Â  along with other accessories on August 11. Samsung is likely to begin selling the new Galaxy Z Fold3 at around 1.
+
+
