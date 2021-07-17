@@ -43319,3 +43319,53 @@
 > Melinda Snodgrass got the idea for her science fiction novel The High Ground when she started thinking about how awful human beings can be. 'I had a sudden vision of this nine-foot-tall alien ant-like creature with mandibles and claws—just a hideous, horrifying creature,' Snodgrass says in Episode 370 of the Geek's Guide to the Galaxy podcast. 'And it was cowering in absolute terror from a small human holding a machine gun. And I got to thinking about humanity and our tendency to be really mean, mean monsters.
 
 
+***
+![Tested: Head-turning new small SUV](https://content.api.news/v3/images/bin/c4997bd582ec121097ad67c8cc8d0e7e "Tested: Head-turning new small SUV")
+
+
+[Tested: Head-turning new small SUV](https://www.news.com.au/technology/motoring/new-cars/2021-nissan-juke-review-style-and-value-add-appeal/news-story/e28e487914ebf45a9733c58e521381cc)
+
+
+> This updated little SUV brings plenty of flair and an impressive level of standard equipment, but one element lets it down big time.Compact SUVs are all the rage at the moment. A combination of head-turning looks, tall ride height and relatively affordable price tag appeal to a wide audience. We test Nissan's Juke to find out why Aussies are flocking to this type of vehicle.Extroverts will love itThe Nissan Juke is anything but bland. It stands out from the crowd with sharply creased panels, interesting design elements and an almost cartoon-like, wedge-shaped silhouette.
+
+
+***
+![Build and execute asyncio based DAGs with "aiodag"](https://external-preview.redd.it/xm7WX70MhrLWHakJCCsiIx-a2VAfKhw4A_u6Ia9Smbw.jpg?auto=webp&s=5e19a8ad7937a2e38c661193d5f86ddd4e120bde "Build and execute asyncio based DAGs with "aiodag"")
+
+
+[Build and execute asyncio based DAGs with "aiodag"](https://www.reddit.com/r/Python/comments/ombdkz/build_and_execute_asyncio_based_dags_with_aiodag/)
+
+
+> Github README for more details:https://github.com/aa1371/aiodagaiodag provides a very simple interface (just a single decorator) to allow you to build and execute asynchronous processing pipelines in a way that feels like writing synchronous code. While the most obvious application is in something like an ETL pipeline, the scope of applications of aiodag goes well beyond that. aiodag is applicable anywhere you have asynchronous tasks that have dependencies on each other. It abstracts away all the async plumbing and allows you to just think about the flow of your tasks.
+
+
+***
+![AC Podcast 534: Android 12 Beta 3; Pixel 6 Rumors; RIP Fleets](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/07/android-12-beta-3-multicolor.jpg "AC Podcast 534: Android 12 Beta 3; Pixel 6 Rumors; RIP Fleets")
+
+
+[AC Podcast 534: Android 12 Beta 3; Pixel 6 Rumors; RIP Fleets](https://www.androidcentral.com/ac-podcast-534-android-12-beta-3-pixel-6-rumors-rip-fleets)
+
+
+> Source: Nick Sutrich / Android Central The team are joined by Nick Sutrich and check out Android 12 Beta 3, fresh rumors about Pixel 6, Z Fold 3, OnePlus Nord 3, Google fines in France, and more. Listen now Subscribe in Spotify: Audio Subscribe in iTunes: Audio Subscribe in RSS: Audio Download directly: Audio Hello Fresh: With HelloFresh, you get fresh, pre-measured ingredients and mouthwatering seasonal recipes delivered right to your door. Go to HelloFresh.com/14acp and use code 14acp for 14 free meals, including free shipping! We may earn a commission for purchases using our links.
+
+
+***
+![wtpython](https://external-preview.redd.it/wnOw12Tv1BazttvAJEt6JrY9vvFrtCkykvXoCXxiqO0.jpg?auto=webp&s=5ab0d964ff4162e43326c6ef9af104a0985f8980 "wtpython")
+
+
+[wtpython](https://www.reddit.com/r/Python/comments/omb4m2/wtpython_look_up_stackoverflow_results_for_your/)
+
+
+> This is a project I worked on as part of the Python Discord summer code jam! It's still in early stages, but we think it's cool and would love to get some feedback on it so we can improve it and make it useful for everyone.GitHub: https://github.com/what-the-python/wtpythonDemo (Thanks to Will McGugan!): https://twitter.com/willmcgugan/status/1416427018384723971The current version uses StackOverflow's search, and so the results can be a bit iffy sometimes - but changing up the search mechanism i
+
+
+***
+![Best cheap wireless keyboard deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/k2-keychron-mechanical-keyboard.jpg "Best cheap wireless keyboard deals for July 2021")
+
+
+[Best cheap wireless keyboard deals for July 2021](https://www.digitaltrends.com/dtdeals/best-wireless-keyboard-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Whether its for long gaming sessions or just for typing up papers and other work assignments, a good keyboard is a must. But let's face it: As great as laptops are, their built-in keyboards usually aren't that great. You need the right tools for the job, and be it for a desktop PC, a laptop, or even a tablet, a good wireless keyboard is one of the best ways to upgrade your work or gaming setup. To help you out, we've rounded up all the best wireless keyboard deals of the month right here.
+
+
