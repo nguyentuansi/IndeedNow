@@ -43225,3 +43225,50 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+[US startups led by Black women raised ~$494M so far in 2021, surpassing the $484M raised in all of 2020 but just 0.34% of the total US venture funding in 2021 (Sophia Kunthara/Crunchbase News)](http://www.techmeme.com/210717/p9#a210717p9)
+
+
+> Sophia Kunthara / Crunchbase News: US startups led by Black women raised ~$494M so far in 2021, surpassing the $484M raised in all of 2020 but just 0.34% of the total US venture funding in 2021 — Editor's note: This article is part of Something Ventured, an ongoing series by Crunchbase News examining diversity and access …
+
+
+***
+![Report: Apple and Goldman Sachs Are Developing a Fancy Form of Consumer Debt](https://media.breitbart.com/media/2019/07/Tim-Cook-CEO-of-Apple-laughing.jpg "Report: Apple and Goldman Sachs Are Developing a Fancy Form of Consumer Debt")
+
+
+[Report: Apple and Goldman Sachs Are Developing a Fancy Form of Consumer Debt](https://www.breitbart.com/tech/2021/07/17/report-apple-and-goldman-sachs-are-developing-a-fancy-form-of-consumer-debt/)
+
+
+> Apple is reportedly working with Goldman Sachs to develop a new consumer debt scheme for customers that is internally being called 'Apple Pay Later.' Apple Insider reports that Apple is rumored to be working with Goldman Sachs to launch 'Apple Pay Later,' a 'buy now, pay later' payment system for Apple Pay users. Currently, there are only a few companies involved in the buy now, pay later (BNPL) market, but it's fast becoming a profitable industry as worldwide spending habits change. The Financial Times states that BNPL is best used for expensive purchases.
+
+
+***
+![Best GTA games: the Grand Theft Auto series ranked ahead of GTA 6](https://cdn.mos.cms.futurecdn.net/c25394b65b7e0752984fb137d22980d4-1200-80.jpg "Best GTA games: the Grand Theft Auto series ranked ahead of GTA 6")
+
+
+[Best GTA games: the Grand Theft Auto series ranked ahead of GTA 6](https://www.techradar.com/news/best-gta-games)
+
+
+> It looks like it's going to be a while before we get our hands on GTA 6 - with rumors suggesting we may be waiting until 2025 for the highly-anticipated new Grand Theft Auto.Hype surrounding GTA 6 is at a fever pitch, with the rumor mill in full swing speculating about where the new GTA will take place, who the playable characters will be and what new features it will bring with it. After all, the Grand Theft Auto series is one of the most lauded - if not controversial - game series of all time, with entries spanning main instalments, expansion packs and ports.
+
+
+***
+![How to watch Formula 1's British Grand Prix online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/07/silverstone-circuit-formula-1.jpg "How to watch Formula 1's British Grand Prix online from anywhere")
+
+
+[How to watch Formula 1's British Grand Prix online from anywhere](https://www.androidcentral.com/formula-1-live-stream-how-watch-british-grand-prix-online-anywhere)
+
+
+> The 2021 Formula 1 season continues and this weekend teams and drivers will be in Northamptonshire, England for the British Grand Prix and we have all the details on how you can watch the race on TV or online. Source: Formula 1 The British Grand Prix will be held at Silverstone Circuit which held its first Grand Prix all the way back in 1950. Before becoming a racetrack though, the circuit was originally a perimeter road that led to the RAF Silverstone airfield. The track itself has a total of 18 turns, a circuit length of 3.
+
+
+***
+![TTCombat Army and Terrain Paint Brushes Preview](https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/TTCombat%20Army%20Brushes.jpg?itok=TjcVPqok "TTCombat Army and Terrain Paint Brushes Preview")
+
+
+[TTCombat Army and Terrain Paint Brushes Preview](https://techraptor.net/tabletop/previews/ttcombat-army-and-terrain-paint-brushes-preview)
+
+
+> 07/17/2021 - 12:00 | By: Adam Potts A New Standard Of Brushes TTCombat, the producers of the awesome Carnevale and Rumbleslam have just released two sets of paint brushes for all your wargaming needs. TTCombat recently released a huge selection of spray paints to undercoat your miniatures and their two brush ranges allow you to build up from there. Both ranges of TTCombat brushes are extremely cost-effective synthetic brushes. The wood feels durable, and the metal end connects firmly to the wood.
+
+
