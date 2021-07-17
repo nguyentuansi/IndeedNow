@@ -42987,3 +42987,47 @@
 > (Image credit: Microsoft) Ahead of the release of Windows 11 later this year, Microsoft is working on a redesigned version of Microsoft Teams for the next version of its operating system that will also work on Windows 10.First announced during the software giant's Windows 11 event, the major update to its video conferencing software is currently being referred to as Microsoft Teams 2.0.The biggest difference between the existing Teams client and this upcoming one is the fact that Microsoft Teams 2.
 
 
+***
+[A look at six tech hubs around the world modeled after Silicon Valley that are gaining prominence: Lagos, Recife, Bengaluru, Shenzhen, Tel Aviv, and Medellín (Rest of World)](http://www.techmeme.com/210717/p2#a210717p2)
+
+
+> Rest of World: A look at six tech hubs around the world modeled after Silicon Valley that are gaining prominence: Lagos, Recife, Bengaluru, Shenzhen, Tel Aviv, and Medellín — The legends of Silicon Valley are well known. HP, born in a garage. Steve Jobs, the domineering icon who reshaped industries.
+
+
+***
+![Of Course We Can Make a CSS-Only Clock That Tells the Current Time!](https://external-preview.redd.it/aoafvlR6G6Wq0Cfyx_H-HlAHJ8GuI-E7QJ6j3r3BFv0.jpg?auto=webp&s=f14635775d4d810cbc07a0c2948378116aca841e "Of Course We Can Make a CSS-Only Clock That Tells the Current Time!")
+
+
+[Of Course We Can Make a CSS-Only Clock That Tells the Current Time!](https://www.reddit.com/r/programming/comments/olykgq/of_course_we_can_make_a_cssonly_clock_that_tells/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![WhatsApp is testing multi-device connectivity without a connected phone](https://external-preview.redd.it/AsHfHLoQVzF69ffkfStIpt14Indf4g2R2U30p5xQD3s.jpg?auto=webp&s=2ba53cfd63f2e7a3386125bba81e038aa668620d "WhatsApp is testing multi-device connectivity without a connected phone")
+
+
+[WhatsApp is testing multi-device connectivity without a connected phone](https://www.reddit.com/r/programming/comments/olyghh/whatsapp_is_testing_multidevice_connectivity/)
+
+
+> This is simply to circumvent existing iOS restrictions on advertising identifier restrictions.The skeptic in me thinks this would have never come to pass if Facebook didn't have the need to find a way to link devices known to a user together when platform owners such as Apple put them behind permission requests.
+
+
+***
+![Tata Power to set up EV charging stations at HPCL outlets](https://images.livemint.com/img/2021/07/17/600x338/334706092_0-20_1553528962636_1626500087845.jpg "Tata Power to set up EV charging stations at HPCL outlets")
+
+
+[Tata Power to set up EV charging stations at HPCL outlets](https://www.livemint.com/technology/tech-news/tata-power-to-set-up-ev-charging-stations-at-hpcl-outlets-11626499556596.html)
+
+
+> NEW DELHI: In a push for India's electric mobility playbook, Tata Power will set up electric vehicle (EV) charging stations at state-run Hindustan Petroleum Corporation Ltd (HPCL) outlets in cities and on highways. 'Under the agreement, Tata Power will provide state-of-the-art EV Charging infrastructure at HPCL pumps for EV users who can travel within cities & intercity without any range anxiety," the firms said in a joint statement on Friday. This comes in the backdrop of EV prices expected to reach price parity with Internal Combustion Engine (ICE) vehicles before 2025.
+
+
+***
+[Xiaomi trumps Apple to become world's No. 2 smartphone maker: Canalys](https://bdnews24.com/technology/2021/07/17/xiaomi-trumps-apple-to-become-world-s-no.-2-smartphone-maker-canalys)
+
+
+> Chinese smartphone maker Xiaomi Corp overtook Apple Inc in the second quarter to become the world's No. 2 smartphone maker, market research firm Canalys said in a report on Thursday.
+
+
