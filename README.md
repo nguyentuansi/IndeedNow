@@ -43272,3 +43272,50 @@
 > 07/17/2021 - 12:00 | By: Adam Potts A New Standard Of Brushes TTCombat, the producers of the awesome Carnevale and Rumbleslam have just released two sets of paint brushes for all your wargaming needs. TTCombat recently released a huge selection of spray paints to undercoat your miniatures and their two brush ranges allow you to build up from there. Both ranges of TTCombat brushes are extremely cost-effective synthetic brushes. The wood feels durable, and the metal end connects firmly to the wood.
 
 
+***
+[Python Problem](https://www.reddit.com/r/Python/comments/om957x/python_problem/)
+
+
+> Create a simple cognitive game that asks the user to count backward by 3 from a randomly generated 3 digit number. If a correct number is entered, the game will display 'Good job!' and the entered number so the user can continue counting. If a wrong number is entered, the game will display 'Please enter the correct number.' and the number again for the user to try again. The game will stop after the user has entered 10 numbers. The game will then tell the user how many times they were correct. If the correct answers numbered 5 or more, the game will display 'Great Job!' otherwise, it will display 'Try to do better next time.
+
+
+***
+![Warnsdorff's algorithm for knight's tour problem](https://external-preview.redd.it/YjvrZRPYo2VqyQ43P-t-dtE-NJixxtTtMLl9NfgqkBw.jpg?auto=webp&s=320f54b4b302cc00bc86a693c48db8ee395e9d85 "Warnsdorff's algorithm for knight's tour problem")
+
+
+[Warnsdorff's algorithm for knight's tour problem](https://www.reddit.com/r/programming/comments/om8v90/warnsdorffs_algorithm_for_knights_tour_problem/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Responsive Travel Agency Website Design Using HTML CSS and JavaScript 🌊](https://external-preview.redd.it/yPhhUdxlMsW7-qN8gm2JpzyYaIFRqTasxnfMH4CqlBU.jpg?auto=webp&s=58f135faa0f4717cca55c697a67f630993258802 "Responsive Travel Agency Website Design Using HTML CSS and JavaScript 🌊")
+
+
+[Responsive Travel Agency Website Design Using HTML CSS and JavaScript 🌊](https://www.reddit.com/r/programming/comments/om8urc/responsive_travel_agency_website_design_using/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![That surprise 'Loki' villain also voiced the Marvel show's Time-Keepers](https://helios-i.mashable.com/imagery/articles/06WEIdiVdqBFu5rwiOG90c9/hero-image.fill.size_1200x675.png "That surprise 'Loki' villain also voiced the Marvel show's Time-Keepers")
+
+
+[That surprise 'Loki' villain also voiced the Marvel show's Time-Keepers](https://mashable.com/article/loki-jonathan-majors-voice-time-keepers)
+
+
+> Well here's one Loki mystery solved.Remember how episode 4 revealed that the mysterious Time-Keepers, three cosmic entities charged with maintaining the so-called Sacred Timeline, were actually robotic fakes? After big reveal that included an exchange of words between Loki and the supposed Time Variance Authority bosses and a pitched battle, the truth is accidentally revealed.That dialogue exchange raised some questions, though. If the Time-Keepers as they'd been introduced so far were actually fakes, who was sitting behind the proverbial curtain providing their voices? Now we know: It was Jonathan Majors, who made is Marvel debut in Loki's sixth and final episode as "He Who Remains.
+
+
+***
+![Are Humans the Meanest Species in the Universe?](https://www.wired.com/wp-content/uploads/2019/07/culture_galaxy-1200x630-e1563570165308.jpg "Are Humans the Meanest Species in the Universe?")
+
+
+[Are Humans the Meanest Species in the Universe?](https://www.wired.com/2019/07/geeks-guide-melinda-snodgrass/)
+
+
+> Melinda Snodgrass got the idea for her science fiction novel The High Ground when she started thinking about how awful human beings can be. 'I had a sudden vision of this nine-foot-tall alien ant-like creature with mandibles and claws—just a hideous, horrifying creature,' Snodgrass says in Episode 370 of the Geek's Guide to the Galaxy podcast. 'And it was cowering in absolute terror from a small human holding a machine gun. And I got to thinking about humanity and our tendency to be really mean, mean monsters.
+
+
