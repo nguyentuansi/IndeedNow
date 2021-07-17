@@ -43175,3 +43175,53 @@
 > Facebook is planning to extend its payment system to online retailers in August this year. After credit card companies backed out of Facebook's Libra cryptocurrency, the social media giant had launched its own payment system on its main site and Messenger, with subsidiaries WhatsApp and Instagram in line to get it in future. With the rollout for online retailers, shoppers on Facebook will see one more option listed next to the usual payment methods as Facebook Pay extends beyond the company's own platforms, reported The Verge.
 
 
+***
+![The YouTube Thumbnail Game](https://external-preview.redd.it/EmCEglH4ztbWowo8uSt7nfqfTkiIFjn9r4GkLrn4EcY.jpg?auto=webp&s=0af38e3a38ce44cb87b7b83ae24394519202a0ef "The YouTube Thumbnail Game")
+
+
+[The YouTube Thumbnail Game](https://www.reddit.com/r/programming/comments/om4qzz/the_youtube_thumbnail_game_built_with_react/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Software engineer does coding interview with TechLead. Did he get the job? Check it out HAHA!](https://external-preview.redd.it/OGyNoNYtqgf46ETADa7XLalSMXcikKPoJyA3BO8_9Fw.jpg?auto=webp&s=2a646e9391399c45888a54af40e87730b49afbfe "Software engineer does coding interview with TechLead. Did he get the job? Check it out HAHA!")
+
+
+[Software engineer does coding interview with TechLead. Did he get the job? Check it out HAHA!](https://www.reddit.com/r/programming/comments/om4o5o/software_engineer_does_coding_interview_with/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Here's The Time Jeff Goldblum And Biz Markie Performed An Epic Duet Of 'Just A Friend' Together, And Won The Internet](https://cdn.digg.com/wp-content/uploads/2021/07/17134845/Screen-Shot-2021-07-17-at-9.48.35-AM.jpg "Here's The Time Jeff Goldblum And Biz Markie Performed An Epic Duet Of 'Just A Friend' Together, And Won The Internet")
+
+
+[Here's The Time Jeff Goldblum And Biz Markie Performed An Epic Duet Of 'Just A Friend' Together, And Won The Internet](https://digg.com/video/heres-the-time-jeff-goldblum-and-biz-markie-performed-an-epic-duet-of-just-a-friend-together-and-won-the-internet)
+
+
+> Man volunteers to be Twitter's main character. THANK YOU FOR BEING A FRIEND Pay your respects to Biz Markie by revisiting his memorable duet with Jeff Goldblum from "Late Night With Jimmy Fallon" back in the day. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. The Bartini Beriev VVA-14, a vertical take-off amphibious aircraft, is the weirdest plane anyone has ever built by a long shot.
+
+
+***
+![Some like it hot: Astronauts are growing chili peppers on the space station](https://icdn.digitaltrends.com/image/digitaltrends/gmt193_11_43_for-huntsville_shane-kimbrough_1003_plant-habitat-04.jpg "Some like it hot: Astronauts are growing chili peppers on the space station")
+
+
+[Some like it hot: Astronauts are growing chili peppers on the space station](https://www.digitaltrends.com/news/iss-grow-chili-pepper/)
+
+
+> Astronauts on the International Space Station (ISS) are adding a new item to their menu of space-grown food: Chili peppers. An experiment has recently begun to grow the spicy peppers in space for the first time. NASA astronaut Shane Kimbrough put 48 chili pepper seeds into the space station's Advanced Planet Habitat (APH) this week, initiating an experiment called Plant Habitat-04. The aim is to grow the peppers over the next four months and then harvest them to see how they have grown. NASA astronaut Shane Kimbrough inserts a device called a science carrier into the Advanced Plant Habitat (APH), which contains 48 Hatch chili pepper seeds NASA started growing on July 12, 2021, as part of the Plant Habitat-04 experiment.
+
+
+***
+![(Ita/Eng) Modelliamo i Siti Web con Javascript !CommandList !SongList](https://external-preview.redd.it/hFX1azkSdFqx1Vs3pv_hh3EJ5gz3Q_N2YqEljkSSNsg.jpg?auto=webp&s=6534fe1082c23f57e63513af94469ead2bbc7ede "(Ita/Eng) Modelliamo i Siti Web con Javascript !CommandList !SongList")
+
+
+[(Ita/Eng) Modelliamo i Siti Web con Javascript !CommandList !SongList](https://www.reddit.com/r/programming/comments/om4ehl/itaeng_modelliamo_i_siti_web_con_javascript/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
