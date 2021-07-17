@@ -42863,3 +42863,47 @@
 > We've been writing about Punishing: Gray Raven for a couple of months now, and that continues today because the launch of the game is today for Android and iOS devices.If you missed some of the previous coverage, Punishing: Gray Raven is a cyberpunk-themed action RPG with Anime-style visuals. It plays similarly to games like Genshin Impact and Honkia Impact 3rd. But with seemingly more flair. There are lots of impressive things about the game that make it worth a try. However, the stylish combat is chief among them.
 
 
+***
+[Microsoft warns customers to disable Windows Print Spooler service after identifying the third Windows print flaw in five weeks and despite a patch issued Tues. (Dan Goodin/Ars Technica)](http://www.techmeme.com/210716/p29#a210716p29)
+
+
+> Dan Goodin / Ars Technica: Microsoft warns customers to disable Windows Print Spooler service after identifying the third Windows print flaw in five weeks and despite a patch issued Tues. — The third serious Windows print flaw in 5 weeks prompts new Microsoft warning. — Microsoft hit yet another snag in its efforts …
+
+
+***
+[‘The Inventor' Director Jim Capobianco on What Makes the Bay Area Int'l Children's Film Fest Tick](https://www.animationmagazine.net/animated-people/the-inventor-director-jim-capobianco-on-what-makes-the-bay-area-intl-childrens-film-fest-tick/)
+
+
+> The 13th annual Bay Area International Children’s Film Festival is just around the corner, presenting “A Playdate for the Imagination” in its fully virtual 2021 event, July 22-25. In addition to over 40 family-friendly films from around the world, this year’s “Back to Community, Back to Nature” themed event will offer compelling panels, Q&As and […]
+
+
+***
+![Don't fall for these social media account verification scams](https://www.komando.com/wp-content/uploads/2021/07/social-media-scams-970x546.jpg "Don't fall for these social media account verification scams")
+
+
+[Don't fall for these social media account verification scams](https://www.komando.com/social-media/ocial-media-verification-scams/798731/)
+
+
+> Watch out for these dangerous social media verification scams.
+
+
+***
+![[News Story] The more cunning 'Gnome'](https://img.sbs.co.kr/newimg/news/20210717/201571827_1280.jpg "[News Story] The more cunning 'Gnome'")
+
+
+[[News Story] The more cunning 'Gnome'](https://www.tellerreport.com/tech/2021-07-16-[news-story]-the-more-cunning--gnome-.HkM6Qh9JCu.html)
+
+
+> Voice phishing techniques are becoming more and more insidious. Beyond the poor Korean-Chinese language and online money extortion in the past, scammers are using messengers and hacking apps to dig into the most vulnerable parts of victims. Voice phishing techniques are becoming more and more insidious. Beyond the poor Korean-Chinese language and online money extortion in the past, scammers are using messengers and hacking apps to dig into the most vulnerable parts of victims. The so-called face-to-face extortion method, in which the victim directly meets with the victim and receives money, is also increasing rapidly.
+
+
+***
+![It looks like you can have GPT-3ish conversations with Github Copilot](https://external-preview.redd.it/IXY2-V6rF8ARoytMoLeMMDJcPn4OTNgcproklF4JSX0.jpg?auto=webp&s=64898bc82186adf9966dbcb77ffdb4d88afbd274 "It looks like you can have GPT-3ish conversations with Github Copilot")
+
+
+[It looks like you can have GPT-3ish conversations with Github Copilot](https://www.reddit.com/r/programming/comments/olt4ul/it_looks_like_you_can_have_gpt3ish_conversations/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
