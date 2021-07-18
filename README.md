@@ -43641,3 +43641,53 @@
 > A pro-China disinformation network is distorting legitimate scientific research to undermine Japan, after Tokyo announced plans to release more than 1 million tonnes of treated wastewater from the Fukushima nuclear power plant into the Pacific Ocean, beginning in 2023. The radiation levels of the wastewater from Fukushima, the site of a devastating nuclear disaster in 2011, should fall within the safe standards for drinking water. However, the decision to dump it into the ocean has been heavily criticized by environmental groups and neighboring countries, including China.
 
 
+***
+![How to change your IP address: 4 easy ways](https://www.cnet.com/a/img/UesLjYY5K4QHfgZhH6QJLkyH9-c=/1200x630/2021/07/14/084e303f-7d07-44fe-8d82-99c8fac532d5/how-to-change-your-ip-address-cnet-2021-05.jpg "How to change your IP address: 4 easy ways")
+
+
+[How to change your IP address: 4 easy ways](https://www.cnet.com/tech/services-and-software/how-to-change-your-ip-address-4-easy-ways/)
+
+
+> Getty/KTSDESIGN/SCIENCE PHOTO LIBRARY Don't worry. Changing your IP address is easy, even if you've never done it before. It's also perfectly safe and -- as long as you're not using it to break other laws -- it's legal. Your computer and phone have several types of IP addresses (short for internet protocol, a unique series of numbers that identify your specific device with your online browsing), but we'll focus on the type normally changed to protect your privacy as you browse, and those which make you appear like you're in a different country.
+
+
+***
+![Apple, Google Employees Angry Over Return To Office, Want WFH To Continue](https://im.indiatimes.in/content/2021/Jul/Collage_60f3c7b7ec3a3.jpg "Apple, Google Employees Angry Over Return To Office, Want WFH To Continue")
+
+
+[Apple, Google Employees Angry Over Return To Office, Want WFH To Continue](https://www.indiatimes.com/technology/news/apple-google-employees-return-to-office-545220.html)
+
+
+> Early in June, Apple CEO Tim Cook proposed a new hybrid model in a company-wide memo telling staff that they would be required to be present in the office three days a week starting in early September. But that hasn't gone down well with some of the employees claiming to leave the company if Apple demands their physical presence in the office. ReutersWhen the announcement was made, Apple's employees had expressed their frustration against the new policy in their letter saying that it had forced some employees to quit.
+
+
+***
+![Check Out World's Most Popular Emoji, Also The Most Misunderstood, From A Study](https://im.indiatimes.in/content/2021/Jul/world-emoji-day_60f3c279b843e.jpg "Check Out World's Most Popular Emoji, Also The Most Misunderstood, From A Study")
+
+
+[Check Out World's Most Popular Emoji, Also The Most Misunderstood, From A Study](https://www.indiatimes.com/technology/news/world-most-popular-emoji-545217.html)
+
+
+> The millennials and Gen Z have been clashing in videos and comments on TikTok over the past few weeks and among other things, Gen Z declared that the ‘laughing crying' emoji isn't cool anymore. But a majority of emoji users around the world think otherwise. AdobeThe laugh-cry face is officially the world's most popular emoji, according to Adobe's Global Emoji Trend Report 2021, which saw 7,000 people from the US, UK, Germany, France, Japan, Australia, and South Korea participate in a survey.The 'thumbs up' was the second-most widely used emoji, followed by the 'red heart' ️, the 'winking kiss' and the 'sad face with a tear' to complete the top five -- a genuine reflection of the difficult and depressing being communicated across social media platforms.
+
+
+***
+![How to stop having to double click to activate another display?](https://images.macrumors.com/social/?t=2304634&v=6 "How to stop having to double click to activate another display?")
+
+
+[How to stop having to double click to activate another display?](https://forums.macrumors.com/threads/how-to-stop-having-to-double-click-to-activate-another-display.2304634/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hi everyone, sorry if this is already in forums somewhere but I can't find this anywhere else. I have a mcp 16in connected to an external display, I use the monitor as the primary and MacBook screen as the secondary on the side, my question is, when you drag the mouse onto the secondary display why does it not 'activate' that display automatically, I have to click so that Mac knows I want to use that desktop now, then I can click again to do whatever (you need to click twice to pause a video for example).
+
+
+***
+![Newsemble: An API to fetch current news data](https://external-preview.redd.it/QKJ698L4yFx1j5BCIE3iuf9L1QE6W2wGfMrqTDAEaP4.jpg?auto=webp&s=b33bb34a7d2132102bac6f6879db54f61176b5b3 "Newsemble: An API to fetch current news data")
+
+
+[Newsemble: An API to fetch current news data](https://www.reddit.com/r/Python/comments/omn2on/newsemble_an_api_to_fetch_current_news_data/)
+
+
+> Hey everyone,I (along with 2 other people) made a project called Newsemble. It is an API that allows for fast retrieval of current news (at the moment, only Indian websites are supported, but we can add others if anyone wants that). It's a REST API built using Flask, MongoDB and BeautifulSoup. Due to some of the drawbacks of current news APIs (full content not available, character limit, limited requests), we wanted to build our own as were looking to do news analysis.We have made all the code open source.
+
+
