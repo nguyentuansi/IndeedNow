@@ -43494,3 +43494,53 @@
 > Source: Gui Schmitt Apple Stores are giving out Ted Lasso stickers ahead of the season two premiere. The stickers feature four Ted Lasso Memojis. Season two of Ted Lasso premieres on Apple TV+ on Friday, July 23. Ted Lasso is such a lovable character that he has now been memorialized in the form of a Memoji. As reported by 9to5Mac, Apple Stores appear to be handing out stickers of the beloved character ahead of the second season premiere of the comedy series. The four stickers actually turn Lasso himself into a Memoji.
 
 
+***
+![Git is Below Your Project](https://external-preview.redd.it/lXE2cQm29jPVm6IHnr9wBQV1PajIUHppviysDeeCHKA.jpg?auto=webp&s=15b9496099e7faf2ab2e75e016e2f4f7c2451b15 "Git is Below Your Project")
+
+
+[Git is Below Your Project](https://www.reddit.com/r/programming/comments/omj2e5/git_is_below_your_project/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Subscription Analytics at Scale](https://external-preview.redd.it/cld59E0Wy4u5Etwtlman_Bc3-XoYW_ld7wua8P5zBbE.jpg?auto=webp&s=ea1c1dd9c46525df5ffbe2719aada8dd67efa92e "Subscription Analytics at Scale")
+
+
+[Subscription Analytics at Scale](https://www.reddit.com/r/programming/comments/omin84/subscription_analytics_at_scale/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Amazon is getting hauled into court for not recalling dangerous products the right way](https://external-preview.redd.it/FhIxdg6P90w8afRhEHquG10gmdcsXh5DC_k09pXFE84.jpg?auto=webp&s=685c21539cc4d068fbed347c1af171169c1895c6 "Amazon is getting hauled into court for not recalling dangerous products the right way")
+
+
+[Amazon is getting hauled into court for not recalling dangerous products the right way](https://www.reddit.com/r/technology/comments/omil3c/amazon_is_getting_hauled_into_court_for_not/)
+
+
+> But they are busy making money. Ain't nobody got time to fix bad problems when product is in need of being sold! Who will fund space travel?
+
+
+***
+![Majority of Covid misinformation came from 12 people, report finds](https://external-preview.redd.it/zzBsu8pf0HzO8zcih1Cwpifd6speCw6Iq_XTJCtaWnM.jpg?auto=webp&s=302a6fafc7d6cc859d0a733f91ea0e72e8ba6f95 "Majority of Covid misinformation came from 12 people, report finds")
+
+
+[Majority of Covid misinformation came from 12 people, report finds](https://www.reddit.com/r/technology/comments/omikmh/majority_of_covid_misinformation_came_from_12/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (1 Comments)
+
+
+***
+![iOS 15 update – Best hidden features that Apple didn't tell iPhone users about](https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/AS_APPLE-IOS-15_COMP_C-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "iOS 15 update – Best hidden features that Apple didn't tell iPhone users about")
+
+
+[iOS 15 update – Best hidden features that Apple didn't tell iPhone users about](https://www.the-sun.com/tech/3302780/iphone-ios-update-best-hidden-features-apple-didnt-tell/)
+
+
+> APPLE is set to release a huge update to its iPhones and iPads later this year in the form of iOS 15 - and there are a number of new features to take advantage of. The update includes a series of new tools and features, including an improved Do Not Disturb feature, expanded privacy settings, and FaceTime compatibility with PCs and Android devices. The update includes a series of new tools and featuresCredit: SOPA Images/LightRocket via Gett A beta version of the software is currently available to anyone with a compatible device.
+
+
