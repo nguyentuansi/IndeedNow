@@ -43741,3 +43741,50 @@
 > GitHub Copilot is a tool that helps you write better, faster, and most importantly, more code. I've been lucky enough to use it for the past few weeks and so far has proven quite useful, having earned a place in my toolbox despite its rough edges. I also feel it signals a coming change in how we develop and reason about systems, a change which will allow us to go up a few layers of abstraction in the coming decades. But those decades are too far off into the future, let's see what happens before them.
 
 
+***
+![GitHub Copilot: First Impressions](https://external-preview.redd.it/HAxsKkjdYI79NNdTXc_b4g27FR7kmaVLRveswF4HnB0.jpg?auto=webp&s=df2c91084372ff8c0ee441d241423c11b9666f04 "GitHub Copilot: First Impressions")
+
+
+[GitHub Copilot: First Impressions](https://www.reddit.com/r/programming/comments/omr214/github_copilot_first_impressions/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Dying Light 2 release date, trailers, gameplay and news](https://cdn.mos.cms.futurecdn.net/9mAQs2keFr8zAKrC7t9hPm-1200-80.jpg "Dying Light 2 release date, trailers, gameplay and news")
+
+
+[Dying Light 2 release date, trailers, gameplay and news](https://www.techradar.com/news/dying-light-2-release-date-trailers-news-and-rumors)
+
+
+> Dying Light 2 (officially called Dying Light 2: Stay Human) is coming in 2021 and it looks like it's going to be pretty frightening.For a long time, we weren't sure if Dying Light 2 would ever come to fruition. Following its announcement at E3 2018, Techland initially set a release window of early 2020 for the long-awaited sequel. Then, in January 2020, the developer announced the game was delayed - giving no new release window. But thanks to a Dying Light 2 live stream on May 27, we now know Dying Light 2 is back on track and due to release December 7, 2021.
+
+
+***
+![Five Awesome Tools I Wish I Knew When I First Started My Vim Journey](https://external-preview.redd.it/Zn7RO0PUC8lwoda0OG6gNC0-oqQwyf8TB-9vYpfhpPY.jpg?auto=webp&s=eb8795ddb2c089c1b58bd3a55324bb4a882c5f0b "Five Awesome Tools I Wish I Knew When I First Started My Vim Journey")
+
+
+[Five Awesome Tools I Wish I Knew When I First Started My Vim Journey](https://www.reddit.com/r/programming/comments/omqta1/five_awesome_tools_i_wish_i_knew_when_i_first/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[India's video OTT platform outlook](https://www.zeebiz.com/technology/news-indias-video-ott-market-to-touch-125-bn-by-2030-report-160959)
+
+
+> "OTT industry is poised for aggressive growth prospects with access to better networks, digital connectivity and smartphones. OTT platforms in India have been increasingly attracting subscribers on a daily basis. Apart from top favourites Disney+ Hotstar, Amazon Prime Video and Netflix, the space is seeing a plethora of local and regional OTT players," a report by RBSA Advisors says
+
+
+***
+![Bezos and crewmates prepare for inaugural Blue Origin space flight](https://images.indianexpress.com/2021/07/Blue-Origin.jpg "Bezos and crewmates prepare for inaugural Blue Origin space flight")
+
+
+[Bezos and crewmates prepare for inaugural Blue Origin space flight](https://indianexpress.com/article/technology/tech-news-technology/bezos-and-crewmates-prepare-for-inaugural-blue-origin-space-flight-7410742/)
+
+
+> Billionaire American businessman Jeff Bezos and his three crewmates are engaging in a crash course of training on Sunday in preparation for his company Blue Origin's inaugural flight to the edge of space planned for Tuesday. The suborbital launch from a site in the high desert plains of West Texas marks a crucial test for Blue Origin's New Shepard spacecraft, a 60-foot-tall (18.3 meters) and fully autonomous rocket-and-capsule combo that is central to plans by Bezos to tap a potentially lucrative space tourism market.
+
+
