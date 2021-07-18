@@ -43413,3 +43413,40 @@
 > I don't know anything about programming so which would be the best way to learn a coding language by textbook or an online course like Coursera or else?
 
 
+***
+![These are the best Oppo phones to get this year so far](https://pocketnow.com/wp/../files/2021/07/Best-Oppo-Phones-Featured-Image-641x321.jpg "These are the best Oppo phones to get this year so far")
+
+
+[These are the best Oppo phones to get this year so far](https://pocketnow.com/these-are-the-best-oppo-phones-to-get-this-year-so-far)
+
+
+> This article lists nine smartphones options from Oppo's catalog to help you pick one suited to your needs. The post These are the best Oppo phones to get this year so far appeared first on Pocketnow.
+
+
+***
+![Reflecting on TWA Flight 800, 25 years later](https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/17/d1794ffe-1581-4086-80e3-17e81330e7a1/thumbnail/1200x630/5396c90e051243b819f06b65527945e8/cbsn-fusion-reflecting-on-twa-flight-800-25-years-later-thumbnail-755995-640x360.jpg "Reflecting on TWA Flight 800, 25 years later")
+
+
+[Reflecting on TWA Flight 800, 25 years later](https://www.cbsnews.com/video/reflecting-on-twa-flight-800-25-years-later/)
+
+
+> Be the first to knowGet browser notifications for breaking news, live events, and exclusive reporting.
+
+
+***
+[Technologists are architects of Modi's New India: Dr Jitendra](https://web.statetimes.in/technologists-are-architects-of-modis-new-india-dr-jitendra/)
+
+
+> STATE TIMES NEWS NEW DELHI: Union Minister of State (Independent Charge) Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh on Saturday said that technologists and scientists are the true architects of New India envisaged by Prime Minister Narendra Modi.Dr Jitendra […]
+
+
+***
+![Starting tomorrow 650,000 people, including high school and senior high school staff, will be vaccinated.](https://img.sbs.co.kr/newimg/news/20210715/201571381_1280.jpg "Starting tomorrow 650,000 people, including high school and senior high school staff, will be vaccinated.")
+
+
+[Starting tomorrow 650,000 people, including high school and senior high school staff, will be vaccinated.](https://www.tellerreport.com/tech/2021-07-17-starting-tomorrow-650-000-people--including-high-school-and-senior-high-school-staff--will-be-vaccinated-.B1Zogty-C_.html)
+
+
+> Tech/Game 2021-07-17T23:34:11.107Z Starting tomorrow 650,000 people, including high school and senior high school staff, will be vaccinated. Tech/Game 2021-06-05T03:38:56.452Z Faculty and staff to inoculate with Pfizer and Moderna next month... 3rd grade Pfizer Tech/Game 2021-06-05T08:02:52.544Z Faculty and staff to inoculate with Pfizer and Moderna next month... 3rd grade Pfizer Tech/Game 2021-07-01T13:19:17.751Z 50's, vaccinated with Moderna from 26th... AZ is only for those over 50 Tech/Game 2021-06-07T08:47:42.
+
+
