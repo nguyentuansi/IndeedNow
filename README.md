@@ -43691,3 +43691,53 @@
 > Hey everyone,I (along with 2 other people) made a project called Newsemble. It is an API that allows for fast retrieval of current news (at the moment, only Indian websites are supported, but we can add others if anyone wants that). It's a REST API built using Flask, MongoDB and BeautifulSoup. Due to some of the drawbacks of current news APIs (full content not available, character limit, limited requests), we wanted to build our own as were looking to do news analysis.We have made all the code open source.
 
 
+***
+![Masters of the Universe: He-Man and more explained ahead of Netflix's new show](https://cdn.mos.cms.futurecdn.net/GetoPJh8HTkNoXNW8EMj2B-1200-80.jpg "Masters of the Universe: He-Man and more explained ahead of Netflix's new show")
+
+
+[Masters of the Universe: He-Man and more explained ahead of Netflix's new show](https://www.techradar.com/news/masters-of-the-universe-he-man-and-more-explained-ahead-of-netflixs-new-show)
+
+
+> In hindsight, it has to go down as one of the biggest errors in licensing history. When George Lucas was shopping around the action-figure rights for an upcoming space opera called Star Wars, the powers-that-be at US toy giant Mattel decided to pass.To be fair, in the mid-'70s, movie and TV licenses weren't always massively lucrative for toy manufacturers, but their oversight meant that the company behind Barbie found itself playing catch-up with their rivals at Kenner.Mattel didn't take it lying down, however, and instead of capitalizing on someone else's franchise, they decided to create an epic fantasy setting of their own.
+
+
+***
+![The Witcher: Monster Slayer is Pokemon Go meets Elder Scrolls: Blades – and we played it](https://cdn.mos.cms.futurecdn.net/utfsVAk6HpXYemXjfSr9ok-1200-80.jpg "The Witcher: Monster Slayer is Pokemon Go meets Elder Scrolls: Blades – and we played it")
+
+
+[The Witcher: Monster Slayer is Pokemon Go meets Elder Scrolls: Blades – and we played it](https://www.techradar.com/news/the-witcher-monster-slayer-brings-the-dark-fantasy-series-to-your-smartphone)
+
+
+> The Witcher began as a dark fantasy book series before exploding in popularity with the eponymous video games, and the franchise has reached new audiences with the Netflix TV show. Naturally, the time seems ripe for a mobile game to land big with fans – so get ready for a game inspired by…Pokémon Go?Yes, The Witcher: Monster Slayer, a new game developed by Poland-based studio Spokko set for a global launch on July 21, is a location-based mobile game that overlays your surroundings with fantastical environments chock full of monsters and quests.
+
+
+***
+![Flutter Google News app UI Redesign](https://external-preview.redd.it/aTUutZ4eY3Bb6O5R9gCfqPNxosg31_5ZM9QGg6ebR4c.jpg?auto=webp&s=6684ea0e44d16fe8735dab799a9a873b56a0851c "Flutter Google News app UI Redesign")
+
+
+[Flutter Google News app UI Redesign](https://www.reddit.com/r/programming/comments/omou13/flutter_google_news_app_ui_redesign/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![British Grand Prix F1 live stream: how to watch Silverstone race free online and from anywhere](https://cdn.mos.cms.futurecdn.net/jvuCxeGbZFiKN3QraRP2SF-1200-80.jpg "British Grand Prix F1 live stream: how to watch Silverstone race free online and from anywhere")
+
+
+[British Grand Prix F1 live stream: how to watch Silverstone race free online and from anywhere](https://www.techradar.com/news/how-to-watch-british-grand-prix-2021-free-silverstone-f1-live-stream-online-and-from-anywhere)
+
+
+> If seven-time Formula 1 world champion Lewis Hamilton wants to win another this season, he really needs to pull something out of the bag at his home circuit of Silverstone today. To see what happens next 2021's absorbing campaign, follow our guide to live stream F1 and watch the 2021 British Grand Prix online wherever you are - including absolutely free!Second on the grid (after the all-new Sprint Qualifying) and 33 points behind Max Verstappen in the standings, Sir Lewis seriously needs to produce something special at today's British Grand Prix.
+
+
+***
+![GitHub Copilot: First Impressions](https://vladiliescu.net/images/github-copilot-first-impressions.jpg "GitHub Copilot: First Impressions")
+
+
+[GitHub Copilot: First Impressions](https://vladiliescu.net/github-copilot-first-impressions/)
+
+
+> GitHub Copilot is a tool that helps you write better, faster, and most importantly, more code. I've been lucky enough to use it for the past few weeks and so far has proven quite useful, having earned a place in my toolbox despite its rough edges. I also feel it signals a coming change in how we develop and reason about systems, a change which will allow us to go up a few layers of abstraction in the coming decades. But those decades are too far off into the future, let's see what happens before them.
+
+
