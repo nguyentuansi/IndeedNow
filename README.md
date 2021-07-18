@@ -43932,3 +43932,40 @@
 > I have a byte dump where each value is in hex and specifies a value, I need to convert these hex values to ASCII characters and save them in an excel. How can that be done using python? Please helpLogs.txtBelow the byte dump for xxxByte dump0000: 01 A1 00 00 00 11 21 10 00 00 10 21 00 00 00 00 00 0010: 01 A1 00 32 00 11 21 10 00 00 10 21 00 00 81 00 00 ....... 00f0 : 01 A1 00 00 00 11 21 10 00 00 10 21 00 00 00 00 00
 
 
+***
+![How to set up log4j configuration with XML and properties](https://external-preview.redd.it/w9-AvoEIvzlpw9dRc-DG_TbkpPDC6CG79oZQe_6YBUw.jpg?auto=webp&s=f98732de534d034e3efdd215e83a5310a0f90a75 "How to set up log4j configuration with XML and properties")
+
+
+[How to set up log4j configuration with XML and properties](https://www.reddit.com/r/programming/comments/on0fl3/how_to_set_up_log4j_configuration_with_xml_and/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+[Extending Lists Immutably in Python](https://www.reddit.com/r/Python/comments/on06ms/extending_lists_immutably_in_python/)
+
+
+> I was wondering if there was a pythonic way of immutably extending a list by another list, without the use of variables/references, using only the python standard library.I actually have been programming in python professionally for a year, though I don't use built-in standard functions very often, mostly APIs. I never knew that extend() was in place, or must have forgotten months ago. I learned this while debugging a flatten function while studying for recursive algorithms practice. You learn s
+
+
+***
+![Innovation interface: Teaming up with Microsoft Teams](https://images.financialexpress.com/2021/07/1-412.jpg "Innovation interface: Teaming up with Microsoft Teams")
+
+
+[Innovation interface: Teaming up with Microsoft Teams](https://www.financialexpress.com/industry/technology/innovation-interface-teaming-up-with-microsoft-teams/2292147/)
+
+
+> Microsoft Teams enables people not just to meet, chat, call, and collaborate with their teams, but also serves as a platform that brings together apps and workflows to help get work done.Creating an environment where employees can do their best work and redefining the employee experience with collaboration tools has become a crucial priority for companies as they embrace hybrid working models. Microsoft Teams enables people not just to meet, chat, call, and collaborate with their teams, but also serves as a platform that brings together apps and workflows to help get work done.
+
+
+***
+![US cop cars land Down Under for evaluation](https://content.api.news/v3/images/bin/7db9caf0c5f8b0b03fb94704cc3fc444 "US cop cars land Down Under for evaluation")
+
+
+[US cop cars land Down Under for evaluation](https://www.news.com.au/technology/motoring/motoring-news/dodge-charger-police-cars-to-be-evaluated-for-local-work/news-story/305b9e15ae7fbfdefbaa86d97a50245e)
+
+
+> Federal police are about to test a new kind of pursuit vehicle widely used by American law enforcement. And it could be rolled out to state highway patrol fleets.Aussie criminals may soon have American cop cars on their tails.Specific police-prepared versions of the Dodge Charger are about to undergo evaluation by Australian police with the view to putting the four-door sedan into service.Queensland-based SCD Remanufactured Vehicles – which converts American cars and trucks to right-hand drive under its AUS MV brand – has imported two of the Chargers to Australia.
+
+
