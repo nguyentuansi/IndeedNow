@@ -43544,3 +43544,50 @@
 > APPLE is set to release a huge update to its iPhones and iPads later this year in the form of iOS 15 - and there are a number of new features to take advantage of. The update includes a series of new tools and features, including an improved Do Not Disturb feature, expanded privacy settings, and FaceTime compatibility with PCs and Android devices. The update includes a series of new tools and featuresCredit: SOPA Images/LightRocket via Gett A beta version of the software is currently available to anyone with a compatible device.
 
 
+***
+![Flipkart's new 3D camera kicks off a new vision for AR in retail](https://images.indianexpress.com/2021/07/Untitled.jpg "Flipkart's new 3D camera kicks off a new vision for AR in retail")
+
+
+[Flipkart's new 3D camera kicks off a new vision for AR in retail](https://indianexpress.com/article/technology/tech-news-technology/flipkarts-new-3d-camera-kicks-off-a-new-vision-for-ar-in-retail-7410293/)
+
+
+> 'You don't need to come to the showroom, but I can give you a near showroom-like experience.' That is Scapic co-founder Sai Krishna VK's take on how Augmented reality (AR) will change retail experiences across the world during the pandemic.Krishna's team is behind Flipkart's newly-launched 3D shopping feature that lets buyers juxtapose furniture in their home environment using AR on the smartphone. The e-commerce giant is simplifying how you shop for your next sofa or center table by using AR to show where they would ultimately be placed in the house.
+
+
+***
+![Here's how Formula 1 used cloud to design the most exciting race car yet](https://cdn.mos.cms.futurecdn.net/U2ocFaf2isvxDzwkAysKdi-1200-80.jpg "Here's how Formula 1 used cloud to design the most exciting race car yet")
+
+
+[Here's how Formula 1 used cloud to design the most exciting race car yet](https://www.techradar.com/news/heres-how-formula-1-used-cloud-to-design-the-most-exciting-race-car-yet)
+
+
+> (Image credit: Formula 1) Formula 1 has unveiled its new race car design for the 2022 season, put together with more than a little help from cloud behemoth AWS.According to the sport's organizing body, the new design, revealed ahead of this weekend's British Grand Prix, is built specifically to encourage more on-track action, allowing drivers to race wheel-to-wheel without incurring a dangerous loss of downforce.The 2022-era cars will feature a new bodywork design that includes a re-worked front wing and rear end, as well as underfloor tunnels, all of which reduces the turbulent airflow created and therefore increases the downforce applied to the car in pursuit.
+
+
+***
+[I built a mock API generator: Phoney](https://www.reddit.com/r/Python/comments/omkh2y/i_built_a_mock_api_generator_phoney/)
+
+
+> A few months ago, I built a tool to generate fake data based on a JSON payload(fakeapi). FakeAPI worked fine, but a major downside was that a JSON payload must be sent as a post request to receive data. This is not good for someone emulating any other HTTP methods.So I decided to build Phoney. Phoney is a mock API generator that lets you create apps to manage endpoints. Features of phoney:Create apps to manage your endpointsCreate endpoints that return data in a custom formatDefault API key authentication supportAll methods, GET, POST, PUT, and DELETE, are supported.
+
+
+***
+![Video: Jim Cramer on Morgan Stanley, Netflix, GameStop, AMC, NortonLifeLock](https://fintechzoom.com/wp-content/uploads/2021/07/tslive-thumb-0715.jpg "Video: Jim Cramer on Morgan Stanley, Netflix, GameStop, AMC, NortonLifeLock")
+
+
+[Video: Jim Cramer on Morgan Stanley, Netflix, GameStop, AMC, NortonLifeLock](https://fintechzoom.com/fintech_news_gamestop-nyse-gme/video-jim-cramer-on-morgan-stanley-netflix-gamestop-amc-nortonlifelock-fintech-zoom-fintech-zoom-fintech-zoom/)
+
+
+> Video: Jim Cramer on Morgan Stanley, Netflix, GameStop, AMC, NortonLifeLock | Fintech Zoom | Fintech Zoom | Fintech ZoomVideo: Jim Cramer on Morgan Stanley, Netflix, GameStop, AMC, NortonLifeLock | Fintech ZoomMarkets opened lower as investors awaited the second day of congressional testimony from Federal Reserve chair Jerome Powell. The Dow was down 71.62 points, the Nasdaq Composite was down 29.37 points and the S&P 500 was down 11.25 points. On Wednesday, Powell told House lawmakers it is too early to ease economic support despite the faster than expected rise in inflation.
+
+
+***
+![Renault Samsung to suspend production at Busan plant next week on chip shortages](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/d816a068737247d2a4f67974155efe1f.jpg "Renault Samsung to suspend production at Busan plant next week on chip shortages")
+
+
+[Renault Samsung to suspend production at Busan plant next week on chip shortages](https://www.koreatimes.co.kr/www/tech/2021/07/419_312325.html)
+
+
+> Renault Samsung Motors plant in Busan / YonhapRenault Samsung Motors will temporarily suspend production at its plant in the southeastern port city of Busan due to shortages of chips for vehicles, the company said Sunday. The South Korean unit of Renault S.A. will close down its plant in Busan, 453 kilometers southeast of Seoul, on Monday for two days, it said. It will be the first time that the Renault Samsung plant has been shut down due to chip shortages, though rivals Hyundai Motor, Kia and GM Korea have suspended or decreased their production this year.
+
+
