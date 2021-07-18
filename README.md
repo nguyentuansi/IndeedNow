@@ -43450,3 +43450,47 @@
 > Tech/Game 2021-07-17T23:34:11.107Z Starting tomorrow 650,000 people, including high school and senior high school staff, will be vaccinated. Tech/Game 2021-06-05T03:38:56.452Z Faculty and staff to inoculate with Pfizer and Moderna next month... 3rd grade Pfizer Tech/Game 2021-06-05T08:02:52.544Z Faculty and staff to inoculate with Pfizer and Moderna next month... 3rd grade Pfizer Tech/Game 2021-07-01T13:19:17.751Z 50's, vaccinated with Moderna from 26th... AZ is only for those over 50 Tech/Game 2021-06-07T08:47:42.
 
 
+***
+![How to watch Blue Origin's Jeff Bezos ride a rocket to space](https://icdn.digitaltrends.com/image/digitaltrends/jeff_bezos_blue_origin-1-2.jpg "How to watch Blue Origin's Jeff Bezos ride a rocket to space")
+
+
+[How to watch Blue Origin's Jeff Bezos ride a rocket to space](https://www.digitaltrends.com/news/how-to-watch-blue-origin-launch-billionaire-bezos-to-space/)
+
+
+> Amazon founder Jeff Bezos is about to go on a rocket ride to the edge of space. The billionaire businessman will take the trip in a reusable suborbital rocket built by Blue Origin, the private space company set up by Bezos in 2000. The mission will launch from Blue Origin's facility in West Texas and is slated for Tuesday, July 20. The event will mark the rocket's first launch with a crew on board and its 16th overall. Blue Origin will stream the entire event in real time. Check below for details on how to watch.
+
+
+***
+[Toxoplasmosis: An important risk factor for acquiring SARS-CoV-2 infection](https://www.medrxiv.org/content/10.1101/2021.05.15.21257257v1)
+
+
+> No body in the article.
+
+
+***
+![Barnaby Joyce warns controversial Katie Hopkins to ‘get out of the country'](https://images.perthnow.com.au/publication/C-3435423/78dd58bf4c8df88ff8438f47a451074cf0f7e040-16x9-x0y0w1280h720.jpg?imwidth=1200 "Barnaby Joyce warns controversial Katie Hopkins to ‘get out of the country'")
+
+
+[Barnaby Joyce warns controversial Katie Hopkins to ‘get out of the country'](https://www.news.com.au/technology/online/barnaby-joyce-warns-controversial-katie-hopkins-to-get-out-of-the-country/news-story/b29fac3d98a24e77b3e5843c64c62c66)
+
+
+> Deputy Prime Minister Barnaby Joyce has blasted British right wing personality Katie Hopkins for mocking Australia's hotel quarantine system.The controversial figure is rumoured to have flown into Australia to appear on reality show Big Brother.The 46-year-old took to Instagram Live on Saturday to boast she had been deliberately trying to defy hotel quarantine rules by answering her door naked when workers delivered her food.More than 10,000 people have since signed a petition to send the celebrity back home.
+
+
+***
+[Facebook says their data shows a 50% decline in vaccine hesitancy among US users, refuting Biden's claim that it's "killing people" by allowing COVID-19 misinfo (Guy Rosen/About Facebook)](http://www.techmeme.com/210717/p15#a210717p15)
+
+
+> Guy Rosen / About Facebook: Facebook says their data shows a 50% decline in vaccine hesitancy among US users, refuting Biden's claim that it's “killing people” by allowing COVID-19 misinfo — At a time when COVID-19 cases are rising in America, the Biden administration has chosen to blame a handful of American social media companies.
+
+
+***
+![Apple Stores handing out 'Ted Lasso' stickers before season two debut](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/ted-lasso-memoji-stickers.jpg "Apple Stores handing out 'Ted Lasso' stickers before season two debut")
+
+
+[Apple Stores handing out 'Ted Lasso' stickers before season two debut](https://www.imore.com/apple-stores-handing-out-ted-lasso-stickers-season-two-debut)
+
+
+> Source: Gui Schmitt Apple Stores are giving out Ted Lasso stickers ahead of the season two premiere. The stickers feature four Ted Lasso Memojis. Season two of Ted Lasso premieres on Apple TV+ on Friday, July 23. Ted Lasso is such a lovable character that he has now been memorialized in the form of a Memoji. As reported by 9to5Mac, Apple Stores appear to be handing out stickers of the beloved character ahead of the second season premiere of the comedy series. The four stickers actually turn Lasso himself into a Memoji.
+
+
