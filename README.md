@@ -43591,3 +43591,53 @@
 > Renault Samsung Motors plant in Busan / YonhapRenault Samsung Motors will temporarily suspend production at its plant in the southeastern port city of Busan due to shortages of chips for vehicles, the company said Sunday. The South Korean unit of Renault S.A. will close down its plant in Busan, 453 kilometers southeast of Seoul, on Monday for two days, it said. It will be the first time that the Renault Samsung plant has been shut down due to chip shortages, though rivals Hyundai Motor, Kia and GM Korea have suspended or decreased their production this year.
 
 
+***
+![Canon EOS R7 release date, price, rumors and what we want to see](https://cdn.mos.cms.futurecdn.net/hvbgzhzS5is9jTnKjAJnMf-1200-80.jpg "Canon EOS R7 release date, price, rumors and what we want to see")
+
+
+[Canon EOS R7 release date, price, rumors and what we want to see](https://www.techradar.com/news/canon-eos-r7)
+
+
+> The Canon EOS R7 is expected to be an important camera. It's rumored to be the first, or among the first, of a new wave of RF-mount mirrorless cameras with APS-C sensors. If the speculation is correct, this could make it an affordable, but powerful, way to get into Canon's mirrorless camera system, with skills that are primed for wildlife, sports and video shooting.A word of warning: it's still very early days for Canon EOS R7 rumors. So far, there haven't been any major leaks, and it appears that the knock-on effects of the pandemic on supply chains and chip shortages has potentially pushed Canon's 2021 launch schedule back a little.
+
+
+***
+![OnePlus reveals Nord 2 rear design ahead of launch, looks inspired by OnePlus 9](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/nord-2-box-press_0-original.jpg "OnePlus reveals Nord 2 rear design ahead of launch, looks inspired by OnePlus 9")
+
+
+[OnePlus reveals Nord 2 rear design ahead of launch, looks inspired by OnePlus 9](https://www.indiatoday.in/technology/news/story/oneplus-reveals-nord-2-rear-design-ahead-of-launch-looks-inspired-by-oneplus-9-1829557-2021-07-18)
+
+
+> Akarsh Verma New Delhi, Jul 18, 2021, Updated Jul 18, 2021, 1:25 PM IST Story highlights The OnePlus Nord 2 has a triple rear camera setup with a 50MP Sony IMX766 sensor. It will be powered by MediaTek Dimensity 1200-AI coupled with 8GB and 12GB of RAM. The smartphone includes a 4,500 mAh battery with support for Warp Charge 65W. The OnePlus Nord 2's renders that were leaked last month, revealed the smartphone's design. It has now been officially confirmed by OnePlus as the company posted a teaser of the OnePlus Nord 2 5G on its social media accounts.
+
+
+***
+![SK Global Chemical transforming into global recycling firm](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/89a422619d3044818d35a367e6ea44a8.jpg "SK Global Chemical transforming into global recycling firm")
+
+
+[SK Global Chemical transforming into global recycling firm](https://www.koreatimes.co.kr/www/tech/2021/07/515_312343.html)
+
+
+> SK Global Chemical CEO Na Kyung-soo presents the company's business strategy in this provided photo. Courtesy of SK Global ChemicalBy Kim Bo-eunSK Global Chemical is making a transformation from Korea's first petrochemical company into a global recycling firm.The company is a subsidiary of Korea's largest oil refiner, SK Innovation. SK Global Chemical became Korea's first company in the petrochemical business in 1972. It is now actively seeking to solve environmental problems caused by plastic waste.
+
+
+***
+![LG Electronics to switch to 100% renewable energy by 2050](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/f815e44d5d99434bad57d12a8422d550.jpg "LG Electronics to switch to 100% renewable energy by 2050")
+
+
+[LG Electronics to switch to 100% renewable energy by 2050](https://www.koreatimes.co.kr/www/tech/2021/07/133_312337.html)
+
+
+> Electronics giant to start with transition at overseas subsidiariesBy Kim Bo-eunLG Electronics' headquarters in Seoul / Courtesy of LG ElectronicsLG Electronics said Sunday that it is aiming to make a complete transition to renewable energy by 2050, in addition to achieving carbon neutrality by 2030. This decision is in accordance with policies of governments around the world to regulate carbon emissions and prompt corporations to make the shift to eco-friendly energy, the company said.The transition will be made on a gradual basis, starting with the energy consumed by its U.
+
+
+***
+![Pro-China disinformation network weaponizes scientific research to attack Japan](https://assets2.rappler.com/2021/07/fukushima-japan-ls-1626592972057.jpg "Pro-China disinformation network weaponizes scientific research to attack Japan")
+
+
+[Pro-China disinformation network weaponizes scientific research to attack Japan](https://www.rappler.com/technology/features/fukushima-japan-china-disinformation-coda-story)
+
+
+> A pro-China disinformation network is distorting legitimate scientific research to undermine Japan, after Tokyo announced plans to release more than 1 million tonnes of treated wastewater from the Fukushima nuclear power plant into the Pacific Ocean, beginning in 2023. The radiation levels of the wastewater from Fukushima, the site of a devastating nuclear disaster in 2011, should fall within the safe standards for drinking water. However, the decision to dump it into the ocean has been heavily criticized by environmental groups and neighboring countries, including China.
+
+
