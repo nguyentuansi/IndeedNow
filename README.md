@@ -43885,3 +43885,50 @@
 > Exoplanets come in many different types and sizes, and to understand how planets form and develop, it's helpful to see them at a variety of different points throughout their life cycle. NASA's exoplanet-hunting satellite TESS has recently discovered four 'teenage' exoplanets, including one dramatic lava world that orbits ultra-close to its star. TESS investigated two young stars that are close to each other and thought to be related, TOI 2076 and TOI 1807. It found four exoplanets in orbit around them that are in a rarely-spotted middle phase between recent birth and maturity.
 
 
+***
+![The Switch accessories every Mario fan needs](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/mario-hero.jpg "The Switch accessories every Mario fan needs")
+
+
+[The Switch accessories every Mario fan needs](https://www.imore.com/best-mario-switch-accessories)
+
+
+> Best Mario Switch accessories iMore 2021 The one and only Super Mario has charmed gamers for 35 years and is responsible for some of the best Nintendo Switch games available. His 35th-anniversary celebration may have come to a close, but that doesn't mean that you can't continue to show off your love for the plumber. In addition to picking up one of the many Mario games available on the Switch, why not pick up an accessory to show your love for the plumber? Here are the best Mario Switch accessories.
+
+
+***
+![A tree-sitter based AST difftool to get meaningful semantic diffs](https://external-preview.redd.it/c_j_0xJDCETUQUFQ_P-e2YOPnphDMj2Zp83maxgoStU.jpg?auto=webp&s=4390ef3392528743b10ab33da28888532e16d136 "A tree-sitter based AST difftool to get meaningful semantic diffs")
+
+
+[A tree-sitter based AST difftool to get meaningful semantic diffs](https://www.reddit.com/r/programming/comments/omy0lf/a_treesitter_based_ast_difftool_to_get_meaningful/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Infamous spyware Pegasus used to target more journalists and activists – new evidence](https://external-preview.redd.it/CBdiednwNxdQlZfSOZMAOqCM_zsXcK8liXNJSb0SUUg.jpg?auto=webp&s=347ba24634a1543684820d3f8693185c8c270a5b "Infamous spyware Pegasus used to target more journalists and activists – new evidence")
+
+
+[Infamous spyware Pegasus used to target more journalists and activists – new evidence](https://www.reddit.com/r/technology/comments/omx6fk/infamous_spyware_pegasus_used_to_target_more/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![5,1 won't boot from PCIe anymore](https://images.macrumors.com/social/?t=2304680&v=6 "5,1 won't boot from PCIe anymore")
+
+
+[5,1 won't boot from PCIe anymore](https://forums.macrumors.com/threads/5-1-wont-boot-from-pcie-anymore.2304680/)
+
+
+> I've been running Debian 9 (Proxmox) on my 5,1 for the past couple years and it recently stopped booting from the PCIe drive. I have had it booting from an ssubx 1TB Apple (Samsung) drive pulled from a 2015 Macbook Pro in a cheap PCIe sled since November 2017. And I've also had an LSI SAS 9207-8i PCIe controller from December 2019, which has been working fine (non-boot). But recently it just stopped being able to boot if I have any boot drive plugged into a PCIe slot (except the graphics card). I get a blank grey screen or sometimes a flashing grey folder with a question mark upon startup.
+
+
+***
+[How to convert byte dump to an excel sheet?](https://www.reddit.com/r/Python/comments/omx1s7/how_to_convert_byte_dump_to_an_excel_sheet/)
+
+
+> I have a byte dump where each value is in hex and specifies a value, I need to convert these hex values to ASCII characters and save them in an excel. How can that be done using python? Please helpLogs.txtBelow the byte dump for xxxByte dump0000: 01 A1 00 00 00 11 21 10 00 00 10 21 00 00 00 00 00 0010: 01 A1 00 32 00 11 21 10 00 00 10 21 00 00 81 00 00 ....... 00f0 : 01 A1 00 00 00 11 21 10 00 00 10 21 00 00 00 00 00
+
+
