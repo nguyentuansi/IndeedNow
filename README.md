@@ -43788,3 +43788,50 @@
 > Billionaire American businessman Jeff Bezos and his three crewmates are engaging in a crash course of training on Sunday in preparation for his company Blue Origin's inaugural flight to the edge of space planned for Tuesday. The suborbital launch from a site in the high desert plains of West Texas marks a crucial test for Blue Origin's New Shepard spacecraft, a 60-foot-tall (18.3 meters) and fully autonomous rocket-and-capsule combo that is central to plans by Bezos to tap a potentially lucrative space tourism market.
 
 
+***
+![The HP Spectre x360 14 Is My New Favorite Laptop. Here's Why](https://icdn.digitaltrends.com/image/digitaltrends/hp-spectre-x360-14-front.jpg "The HP Spectre x360 14 Is My New Favorite Laptop. Here's Why")
+
+
+[The HP Spectre x360 14 Is My New Favorite Laptop. Here's Why](https://www.digitaltrends.com/computing/hp-spectre-x360-14-favorite-laptop/)
+
+
+> Over the past couple of years, I've reviewed exactly 125 laptops for Digital Trends, and out of all those computers, the HP Spectre x360 14 isn't just one of my favorites — it's my favorite laptop, period. There's a reason it made its way to our best 2-in-1s list, not to mention it's one of the best laptops for writers. That last achievement should serve as a hint as to why I like this laptop so much. I'm a writer, and while I use other, more powerful machines when I need them, my writing laptop has its own extremely specific requirements.
+
+
+***
+![This is my first real world use program built using Kivy and Pandas. This will be used at work in a busy haulage company to store fuel and AdBlue data after shifts. Any feedback and advice is much appreciated! (I am almost completely new to this)](https://preview.redd.it/b24i6sz5tzb71.jpg?width=1028&format=pjpg&auto=webp&s=56934ae3aca83b90316be1c2bfd94d3b716ec879 "This is my first real world use program built using Kivy and Pandas. This will be used at work in a busy haulage company to store fuel and AdBlue data after shifts. Any feedback and advice is much appreciated! (I am almost completely new to this)")
+
+
+[This is my first real world use program built using Kivy and Pandas. This will be used at work in a busy haulage company to store fuel and AdBlue data after shifts. Any feedback and advice is much appreciated! (I am almost completely new to this)](https://www.reddit.com/r/Python/comments/omt8hv/this_is_my_first_real_world_use_program_built/)
+
+
+> The program is very basic, but it takes text input and stores it in a CSV file for later analysis. The code is quite clunky, but if there is any advice on streamlining it that would be great!I then packaged the code using Pyinstaller to create an EXE file to run the program (This took me far too many attempts to get right but I finally managed).When the program was finally complete after many struggles, I used NSIS (Nullsoft Scriptable Install System) to create 1 single EXE for distribution.After adding the EXE and CSV shortcuts to my desktop, the program is complete.
+
+
+***
+[How to run Python directly from VSCode without Terminal or cmd.exe](https://www.reddit.com/r/Python/comments/omt6lj/how_to_run_python_directly_from_vscode_without/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![CRISPR stops coronavirus replication in human cells](https://external-preview.redd.it/PrDQa00fKzJtRzXuaLZpAmUYU7f0PGyOAyuAc_w-R9I.jpg?auto=webp&s=11b3a84fbc8420d62f34b9f594a7ec1633ebe78b "CRISPR stops coronavirus replication in human cells")
+
+
+[CRISPR stops coronavirus replication in human cells](https://www.reddit.com/r/technology/comments/omszta/crispr_stops_coronavirus_replication_in_human/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.](https://external-preview.redd.it/7WULQLbxQ7VD-iTzOJHdpg3StvojHGjjyQ-FEG_suiE.jpg?auto=webp&s=83ab8fc83ef941af8fa17e105763e35cf8af2b89 "Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.")
+
+
+[Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.](https://www.reddit.com/r/programming/comments/omsvno/guides_articles_podcasts_videos_and_notes_to/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
