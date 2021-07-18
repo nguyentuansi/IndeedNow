@@ -43835,3 +43835,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![NHS Covid Passes can be easily obtained without ever taking a test as system is vulnerable to exploits](https://i.inews.co.uk/content/uploads/2021/07/SEI_79438523-2-1200x630-pl-exclusive.jpg "NHS Covid Passes can be easily obtained without ever taking a test as system is vulnerable to exploits")
+
+
+[NHS Covid Passes can be easily obtained without ever taking a test as system is vulnerable to exploits](https://inews.co.uk/news/technology/nhs-covid-passes-obtained-without-taking-test-lack-safeguards-1103655)
+
+
+> MPs have urged the Government to fix the 'flawed' NHS Covid Pass scheme after an i investigation found people are able to obtain their so-called freedom passes without getting tested for coronavirus.The Covid Pass scheme, run through the NHS app, was initially launched as a method of demonstrating that people are safe to attend trial events such as sports matches, festivals and concerts, or to prove that they are safe to travel abroad.From Monday, they will also be used to help reopen nightclubs and other venues that have remained shuttered under lockdown restrictions.
+
+
+***
+![How to display adjusted PIL images in Tkinter](https://external-preview.redd.it/TFdn99d6RJoaogcJYY89Jr6ooCP33uq-CRur6ZgWgkg.jpg?auto=webp&s=88f8ac83718f6d219168a0c5f8d2aebe7d08a1d3 "How to display adjusted PIL images in Tkinter")
+
+
+[How to display adjusted PIL images in Tkinter](https://www.reddit.com/r/programming/comments/omvocj/how_to_display_adjusted_pil_images_in_tkinter/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The best pressure washer 2021: Power cleaning for your outside areas](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/151637-gadgets-news-buyer-s-guide-the-best-pressure-washer-2020-power-cleaning-for-your-outside-areas-image9-nnm9xrrv4w.jpg "The best pressure washer 2021: Power cleaning for your outside areas")
+
+
+[The best pressure washer 2021: Power cleaning for your outside areas](https://www.pocket-lint.com/gadgets/buyers-guides/151637-best-pressure-washer-power-clean-outside-garden)
+
+
+> (Pocket-lint) - If you've never seen a video of a pressure washer in action, open up YouTube and look some clips up - you're in for a treat. There's nothing quite like watching a never-cleaned surface, whether it's a wooden deck or a concrete pavement, get a deep powerwash from one of these superb cleaners, returning quickly to an almost new look. Best cordless chainsaws: Chop and saw with powerThey're also useful for a range of cleaning types, whether it's blasting built-up grease off an outdoor grill, cleaning grimy mud from your car's hubcaps or cleaning off garden furniture.
+
+
+***
+![5 Levels of Using CSS Variables](https://external-preview.redd.it/eYNdHziA3kTbfFi7OeoIe-HaoqwBN4SGPE-PdnqDUZw.jpg?auto=webp&s=33cf1465426a302035b1168d78b51440fde33d6a "5 Levels of Using CSS Variables")
+
+
+[5 Levels of Using CSS Variables](https://www.reddit.com/r/programming/comments/omvkcc/5_levels_of_using_css_variables/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Teenage ‘lava world' is the youngest exoplanet of its type discovered so far](https://icdn.digitaltrends.com/image/digitaltrends/toi_1807_b_still_print.jpg "Teenage ‘lava world' is the youngest exoplanet of its type discovered so far")
+
+
+[Teenage ‘lava world' is the youngest exoplanet of its type discovered so far](https://www.digitaltrends.com/news/tess-teenage-exoplanets-lava-world/)
+
+
+> Exoplanets come in many different types and sizes, and to understand how planets form and develop, it's helpful to see them at a variety of different points throughout their life cycle. NASA's exoplanet-hunting satellite TESS has recently discovered four 'teenage' exoplanets, including one dramatic lava world that orbits ultra-close to its star. TESS investigated two young stars that are close to each other and thought to be related, TOI 2076 and TOI 1807. It found four exoplanets in orbit around them that are in a rarely-spotted middle phase between recent birth and maturity.
+
+
