@@ -44445,3 +44445,53 @@
 > Mary Ann Azevedo / TechCrunch: Rappi, a Colombian on-demand delivery startup, says it has raised $500M+ Series F led by T. Rowe Price at a $5.25B valuation, bringing its total raised to $2B+ — Rappi, a Colombian on-demand delivery startup, has raised “over” $500 million at a $5.25 billion valuation in a Series G round led …
 
 
+***
+![As interest in electric cars grows in cities, ‘inequalities' must be addressed.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "As interest in electric cars grows in cities, ‘inequalities' must be addressed.")
+
+
+[As interest in electric cars grows in cities, ‘inequalities' must be addressed.](https://en.brinkwire.com/technology/as-interest-in-electric-cars-grows-in-cities-inequalities-must-be-addressed/)
+
+
+> As interest in electric cars grows in cities, ‘inequalities' must be addressed. ELECTRIC CAR 'inequalities' must be addressed by the government, according to experts, with many places suffering 'major obstacles.' Close Brothers Motor Finance's Managing Director, Seán Kemple, cautioned that the UK will not be able to fulfill its 'ambitious' aim without extra help. If the implementation is to be effective, experts warn that 'millions' of charging bays would be required, particularly outside of big metropolitan centers.
+
+
+***
+![Here's every game available on Xbox Cloud Gaming (xCloud)](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/10/project-xcloud-gears-5-hero-2pr4.jpg "Here's every game available on Xbox Cloud Gaming (xCloud)")
+
+
+[Here's every game available on Xbox Cloud Gaming (xCloud)](https://www.imore.com/every-game-xbox-cloud-gaming-xcloud-ios)
+
+
+> Source: iMore Xbox Game Pass for iOS has finally arrived, giving users of the best iPad and iPhone a taste of the best value in gaming. Xbox Game Pass contains hundreds of games for the Xbox, PC, and iOS via cloud streaming, and it can all be yours with Xbox Game Pass Ultimate. Setting up Xbox Cloud Streaming on iOS is simple, but what's available for cloud gamers? You've come to the right place. To help you find what you want to play next, we've put together a list of every game available on the cloud, and if you don't have a controller for your device, we've also noted every title that supports touch controls.
+
+
+***
+![Which Garmin Forerunner model should you buy?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/04/garmin-forerunner-245-shoes.jpg "Which Garmin Forerunner model should you buy?")
+
+
+[Which Garmin Forerunner model should you buy?](https://www.androidcentral.com/which-garmin-forerunner-model-right-me)
+
+
+> No matter what type of runner you are, there's an Android smartwatch out there that can enhance your tracking experience. More specifically, there's a Garmin Forerunner model that will give you everything you need. Whether you're seeking a budget-friendly option, or you're busy gearing up for a triathlon, the options are endless. We've rounded up the best Garmin Forerunner models to help you decide which one is best for all of your running needs. Staff Pick Those who are seeking a mid-range GPS running watch will appreciate the Garmin Forerunner 245 and all of its features.
+
+
+***
+![‘WE WILL RETALIATE': Beijing's furious reaction to China being blamed](https://cdn.newsapi.com.au/image/v1/6eb90377164a9ec1a6ae8ec1f66258bb?width=1280 "‘WE WILL RETALIATE': Beijing's furious reaction to China being blamed")
+
+
+[‘WE WILL RETALIATE': Beijing's furious reaction to China being blamed](https://www.news.com.au/technology/australia-us-and-allies-blame-china-for-huge-microsoft-exchange-hack-condemn-countrys-malicious-cyber-activities/news-story/6a6df9a7de7c9a45630cc9d9229a005f)
+
+
+> Australia has joined with the United States and other allied nations to condemn China's 'malicious cyber activities', directly blaming it for a massive hack of Microsoft Exchange software earlier this year.In a joint statement on Monday night, Foreign Minister Marise Payne, Home Affairs Minister Karen Andrews and Defence Minister Peter Dutton said China's actions in cyberspace had 'undermined international stability and security'.They said the Australian government was 'seriously concerned' about reports from allies that China's Ministry of State Security (MSS) was 'engaging contract hackers' to steal intellectual property from other countries.
+
+
+***
+![Settlement of the ITC Investigation with Respect to Pictos' Intellectual Property](http://www.businesswire.com/images/bwlogo_square.png "Settlement of the ITC Investigation with Respect to Pictos' Intellectual Property")
+
+
+[Settlement of the ITC Investigation with Respect to Pictos' Intellectual Property](https://www.businesswire.com/news/home/20210719005775/en/Settlement-of-the-ITC-Investigation-with-Respect-to-Pictos%E2%80%99-Intellectual-Property)
+
+
+> WASHINGTON--(BUSINESS WIRE)--The United States International Trade Commission ('Commission') has ended its investigation into Samsung's smartphone imports into the United States as Pictos Technologies Inc. and Samsung Electronics Co., Ltd., Samsung Electronics America, Inc., and Samsung Semiconductor Inc. ('Samsung') have entered into a Settlement and License Agreement. The parties agreed to terminate all pending actions by and against each other including at the Commission and in a number of other jurisdictions in exchange for Samsung's license of the Pictos patent portfolio.
+
+
