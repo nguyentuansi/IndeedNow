@@ -43969,3 +43969,53 @@
 > Federal police are about to test a new kind of pursuit vehicle widely used by American law enforcement. And it could be rolled out to state highway patrol fleets.Aussie criminals may soon have American cop cars on their tails.Specific police-prepared versions of the Dodge Charger are about to undergo evaluation by Australian police with the view to putting the four-door sedan into service.Queensland-based SCD Remanufactured Vehicles – which converts American cars and trucks to right-hand drive under its AUS MV brand – has imported two of the Chargers to Australia.
 
 
+***
+![Chris Stapleton leads ASCAP Experience summer lineup and Chris Stapleton, Brooks &amp; Dunn and More Join 2021 Pepsi Gulf Coast Jam](https://https://www.thearkatech.com/img/news_img/all/15445_18_1200.pic "Chris Stapleton leads ASCAP Experience summer lineup and Chris Stapleton, Brooks &amp; Dunn and More Join 2021 Pepsi Gulf Coast Jam")
+
+
+[Chris Stapleton leads ASCAP Experience summer lineup and Chris Stapleton, Brooks &amp; Dunn and More Join 2021 Pepsi Gulf Coast Jam](https://www.thearkatech.com/en/87298/)
+
+
+> © Instagram / Chris Stapleton By: Madison Clark2021-07-19 03:15:18 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Chris Stapleton, Brooks & Dunn and More Join 2021 Pepsi Gulf Coast Jam and Chris Stapleton leads ASCAP Experience summer lineup All aboard the hyperloop: How your commute could be changing. Seasonable temperatures and feeling sticky. Happy Mondays Comedy at The Amersham Arms New Cross : Stephen K Amos, Josh Weller and guests. Salt Lake Bees shutout Tacoma Rainiers on Sunday.
+
+
+***
+![Chicago PD season 9: Will Sophia Bush return as Erin Lindsay? and Sophia Bush talks new movie 'False Positive' and recent Congress testimony](https://https://www.thearkatech.com/img/news_img/all/15443_11_1200.pic "Chicago PD season 9: Will Sophia Bush return as Erin Lindsay? and Sophia Bush talks new movie 'False Positive' and recent Congress testimony")
+
+
+[Chicago PD season 9: Will Sophia Bush return as Erin Lindsay? and Sophia Bush talks new movie 'False Positive' and recent Congress testimony](https://www.thearkatech.com/en/87297/)
+
+
+> © Instagram / Sophia Bush By: Daniel White2021-07-19 03:14:18 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Sophia Bush talks new movie 'False Positive' and recent Congress testimony and Chicago PD season 9: Will Sophia Bush return as Erin Lindsay? Buried trunk at Pittsburgh synagogue reveals past and future of Reform Judaism. How to cool your home in a warming world. Why fish are becoming addicted to illegal drugs. The Bold and the Beautiful Spoilers: Justin Double-Crosses Ridge & Forrester Creations – Sneaky Plan.
+
+
+***
+![Shay Mitchell kept some of her 'Pretty Little Liars' character's clothes after the show wrapped and Shay Mitchell on Growing Travel Brand Béis During Coronavirus](https://https://www.thearkatech.com/img/news_img/all/15441_7_1200.pic "Shay Mitchell kept some of her 'Pretty Little Liars' character's clothes after the show wrapped and Shay Mitchell on Growing Travel Brand Béis During Coronavirus")
+
+
+[Shay Mitchell kept some of her 'Pretty Little Liars' character's clothes after the show wrapped and Shay Mitchell on Growing Travel Brand Béis During Coronavirus](https://www.thearkatech.com/en/87296/)
+
+
+> © Instagram / Shay Mitchell By: Isabella Smith2021-07-19 03:13:13 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Shay Mitchell on Growing Travel Brand Béis During Coronavirus and Shay Mitchell kept some of her 'Pretty Little Liars' character's clothes after the show wrapped 'After the Game': Golden State Warriors coach Steve Kerr talks Olympics, coaching Team USA in Las Vegas. Pokemon Brilliant Diamond and Shining Pearl's Most Exciting Update Might Not be Graphical. Darcey Silva and Stacey Silva Open Up About Health Scare.
+
+
+***
+![Do you recall Clippy? Microsoft's most reviled Windows feature is making a triumphant return.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Do you recall Clippy? Microsoft's most reviled Windows feature is making a triumphant return.")
+
+
+[Do you recall Clippy? Microsoft's most reviled Windows feature is making a triumphant return.](https://en.brinkwire.com/technology/do-you-recall-clippy-microsofts-most-reviled-windows-feature-is-making-a-triumphant-return/)
+
+
+> Do you recall Clippy? Microsoft's most reviled Windows feature is making a triumphant return. No, no, no! After Microsoft claimed we'd never see Clippy again, it's making a comeback. 'Would you like some assistance with that?' You're not alone if that sentence, coupled with a cartoon paper clip with googly eyes and gravity-defying brows, makes you cringe. Clippy, Microsoft's 'virtual assistant,' was generally despised from the moment he appeared on our screens. Users hurried to complain about the patronizing, obnoxious pop-up delivering so-called helpful recommendations on how to use apps and features shortly after he made his debut on the Windows 97 edition of Microsoft Office.
+
+
+***
+![Terry Crews Says 'Brooklyn Nine-Nine' Cast Has Been in Tears Over Final Season (Exclusive) and Terry Crews Says 'Brooklyn Nine-Nine' Cast Has Been in Tears Over Final Season (Exclusive)](https://https://www.thearkatech.com/img/news_img/all/15440_7_1200.pic "Terry Crews Says 'Brooklyn Nine-Nine' Cast Has Been in Tears Over Final Season (Exclusive) and Terry Crews Says 'Brooklyn Nine-Nine' Cast Has Been in Tears Over Final Season (Exclusive)")
+
+
+[Terry Crews Says 'Brooklyn Nine-Nine' Cast Has Been in Tears Over Final Season (Exclusive) and Terry Crews Says 'Brooklyn Nine-Nine' Cast Has Been in Tears Over Final Season (Exclusive)](https://www.thearkatech.com/en/87295/)
+
+
+> © Instagram / Terry Crews By: Emily Brown2021-07-19 03:12:17 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Terry Crews Says 'Brooklyn Nine-Nine' Cast Has Been in Tears Over Final Season (Exclusive) and Terry Crews Says 'Brooklyn Nine-Nine' Cast Has Been in Tears Over Final Season (Exclusive) President of Pa. Christian Organization and Wife Die in House Fire. Travers a possibility for Mandaloun. Women make up nearly a third of financial service firm boards, report says. Lake County 4½-acre vegetation fire contained; evacuations lifted.
+
+
