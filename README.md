@@ -44495,3 +44495,50 @@
 > WASHINGTON--(BUSINESS WIRE)--The United States International Trade Commission ('Commission') has ended its investigation into Samsung's smartphone imports into the United States as Pictos Technologies Inc. and Samsung Electronics Co., Ltd., Samsung Electronics America, Inc., and Samsung Semiconductor Inc. ('Samsung') have entered into a Settlement and License Agreement. The parties agreed to terminate all pending actions by and against each other including at the Commission and in a number of other jurisdictions in exchange for Samsung's license of the Pictos patent portfolio.
 
 
+***
+[Way to make money with Python ?](https://www.reddit.com/r/Python/comments/onof9q/way_to_make_money_with_python/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Why doesn't V8 fit on my microcontroller?](https://external-preview.redd.it/_orBClIP8P0dF_5rWBdQ8OZNvM58dYBlpmL_IN1eLvY.jpg?auto=webp&s=0518852526e74c17f45009243f326d97c50dd47d "Why doesn't V8 fit on my microcontroller?")
+
+
+[Why doesn't V8 fit on my microcontroller?](https://www.reddit.com/r/programming/comments/onobr7/why_doesnt_v8_fit_on_my_microcontroller/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Microsoft Exchange cyberattack carried out by China, says US](https://cdn.mos.cms.futurecdn.net/7nFUScNqssCqAANmZefPDm-1200-80.jpg "Microsoft Exchange cyberattack carried out by China, says US")
+
+
+[Microsoft Exchange cyberattack carried out by China, says US](https://www.techradar.com/news/microsoft-exchange-cyberattack-carried-out-by-china-says-us)
+
+
+> (Image credit: Shutterstock.com) The US has formally accused China of being behind the cyberattack on Microsoft Exchange servers that occurred back in March of this year.However, the US wasn't alone in its condemnation of China as it was joined by NATO, the European Union and its allies Britain, Australia, Japan, New Zealand and Canada. According to US Secretary of State Antony Blinken, the cyberattack posed 'a major threat to our economic and national security'.US President Joe Biden provided further insight on the situation to reporters during an event discussing his infrastructure plan, saying:"My understanding is that the Chinese government, not unlike the Russian government, is not doing this themselves, but are protecting those who are doing it.
+
+
+***
+![PreMarket Prep Stock Of The Day: Nvidia Bucks The Trend](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/nvidia-1201077_1280_28.jpg?width=720 "PreMarket Prep Stock Of The Day: Nvidia Bucks The Trend")
+
+
+[PreMarket Prep Stock Of The Day: Nvidia Bucks The Trend](https://www.benzinga.com/trading-ideas/technicals/21/07/22047929/premarket-prep-stock-of-the-day-nvidia-bucks-the-trend)
+
+
+> Benzinga's PreMarket Prep airs every morning from 8-9 a.m. ET. During that fast-paced, highly informative hour, traders and investors tune in to get the major news of the day, the catalysts behind those moves and the corresponding price action for the upcoming session. On any given day, the show will cover at least 20 stocks determined by co-hosts Joel Elconin and Dennis Dick along with producer Spencer Israel. On days like today, with indexes deep in the red, there are always a few stocks that buck the trend and move higher.
+
+
+***
+![The Wear OS Material You Play Store Design Is On Its Way](https://www.androidheadlines.com/wp-content/uploads/2021/06/AH-Wear-OS-watchface-image-1.jpg "The Wear OS Material You Play Store Design Is On Its Way")
+
+
+[The Wear OS Material You Play Store Design Is On Its Way](https://www.androidheadlines.com/2021/07/wear-os-smartwatches-play-store-material-you-design-live.html)
+
+
+> Google has officially confirmed that the Play Store Material You design for Wear OS is starting to roll out to users and devices. Earlier this month, the new design started hitting a few users, but Google hadn't announced the release push.Today however, the official Wear OS Twitter showed off a short GIF detailing the new look. And in a slightly longer post on the Wear OS community, Google elaborates on the changes to come so users know what to expect. The new Material You design for the Play Store will be part of the wider release of the overall new Wear OS design.
+
+
