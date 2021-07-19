@@ -44019,3 +44019,50 @@
 > © Instagram / Terry Crews By: Emily Brown2021-07-19 03:12:17 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Terry Crews Says 'Brooklyn Nine-Nine' Cast Has Been in Tears Over Final Season (Exclusive) and Terry Crews Says 'Brooklyn Nine-Nine' Cast Has Been in Tears Over Final Season (Exclusive) President of Pa. Christian Organization and Wife Die in House Fire. Travers a possibility for Mandaloun. Women make up nearly a third of financial service firm boards, report says. Lake County 4½-acre vegetation fire contained; evacuations lifted.
 
 
+***
+![Kamereo gets $4.6M to connect farmers and F&B businesses in Vietnam – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/products.png?w=528 "Kamereo gets $4.6M to connect farmers and F&B businesses in Vietnam – TechCrunch")
+
+
+[Kamereo gets $4.6M to connect farmers and F&B businesses in Vietnam – TechCrunch](https://techcrunch.com/2021/07/18/kamereo-gets-4-6m-to-connect-farmers-and-fb-businesses-in-vietnam/)
+
+
+> While working as the chief operating officer of a pizza chain in Vietnam, Taku Tanaka saw how difficult it is for restaurants to connect with farmers. Many small F&B businesses can't buy in large volumes, so they rely on nearby markets or multiple suppliers who only sell one category. In turn, this means farmers are disconnected from the end customers of their products, making it hard to predict selling prices or plan their crops. Tanaka founded Kamereo, B2B platform with its own warehouse and last-mile delivery network, to focus on those problems.
+
+
+***
+![Zoom to Acquire Five9 for $14.7 billion](https://ml.globenewswire.com/Resource/Download/f0fdb252-e77e-4338-b322-017f09f736c8?size=1 "Zoom to Acquire Five9 for $14.7 billion")
+
+
+[Zoom to Acquire Five9 for $14.7 billion](https://www.globenewswire.com/news-release/2021/07/19/2264531/0/en/Zoom-to-Acquire-Five9.html)
+
+
+> SAN JOSE, Calif. and SAN RAMON, Calif., July 18, 2021 (GLOBE NEWSWIRE) -- Zoom Video Communications, Inc. (NASDAQ: ZM) today announced it has entered into a definitive agreement to acquire Five9, Inc. (NASDAQ: FIVN), a leading provider of the intelligent cloud contact center, in an all-stock transaction valued at approximately $14.7 billion. Combining Five9's Contact Center as a Service ('CCaaS') solution with Zoom's broad communications platform will transform how businesses connect with their customers, building the customer engagement platform of the future.
+
+
+***
+![Zoom to buy cloud software provider Five9 in $15 bln deal](https://www.reuters.com/resizer/XfAYyIHLn2j_Lx3_IvEiyZ_VzZ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M476RYLORFM3TPKJVQLARWX6F4.jpg "Zoom to buy cloud software provider Five9 in $15 bln deal")
+
+
+[Zoom to buy cloud software provider Five9 in $15 bln deal](https://www.reuters.com/technology/zoom-buy-cloud-software-provider-five9-147-bln-deal-2021-07-19/)
+
+
+> Small toy figures are seen in front of Zoom logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/IllustrationJuly 18 (Reuters) - Teleconferencing services provider Zoom Video Communications Inc (ZM.O) has struck a deal to buy cloud software provider Five9 Inc (FIVN.O) in an all-stock transaction valued at about $14.7 billion, the company said on Sunday.Five9 will become an operating unit of Zoom and its chief executive, Rowan Trollope, will become a president of Zoom and stay on as chief of the unit after the deal, which is expected to close in the first half of 2022, it said in a statement.
+
+
+***
+[Zoom says it will acquire Five9, which makes cloud-based call center software for sales, marketing, and support, in an all-stock deal valued at ~$14.7B (GlobeNewswire News Room)](http://www.techmeme.com/210718/p12#a210718p12)
+
+
+> GlobeNewswire News Room: Zoom says it will acquire Five9, which makes cloud-based call center software for sales, marketing, and support, in an all-stock deal valued at ~$14.7B — The combination of Zoom's robust communications platform with Five9's intelligent cloud contact center will enable organizations …
+
+
+***
+![Fear Street trilogy on Netflix: Ending and post-credits scene explained](https://www.cnet.com/a/img/6X4BhqREXSTAgaT6Fs-tCEfDn4g=/642x0:3324x1508/1200x630/2021/07/17/cab26750-524b-4ac5-9053-ee21d2af6983/fear-street-part-3-1666-00-05-22-18r1-rgb.jpg "Fear Street trilogy on Netflix: Ending and post-credits scene explained")
+
+
+[Fear Street trilogy on Netflix: Ending and post-credits scene explained](https://www.cnet.com/news/fear-street-trilogy-on-netflix-ending-and-post-credits-scene-explained/)
+
+
+> Emily Rudd and Sadie Sink play sisters in Fear Street Part Two: 1978. Netflix It's been a tough, wild ride, but finally we know the truth behind the Shadyside Killers in Netflix's Fear Street. The trilogy of films took us from 1994, back to 1978 and finally 1666, exploring why possessed serial killers were brutally murdering the residents of Shadyside, Ohio. It all had something to do with Sarah Fier, a witch who cursed the town to centuries of misfortune, while on the other side of the tracks, the town of Sunnyvale thrived.
+
+
