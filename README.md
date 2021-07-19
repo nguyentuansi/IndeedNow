@@ -44116,3 +44116,50 @@
 > With its newest streaming shake-up, Amazon is bringing Fire TV inside your automobile. THE NEXT STAGE FOR AMAZON'S FAMOUS Fire TV COULD BE IN YOUR CAR – now that's something Google's Chromecast can't compete with! Amazon's famous Fire TV streaming platform is already available in a wide range of devices, ranging from inexpensive HDMI dongles to more expensive set-top boxes with hands-free voice commands, soundbars, and Smart TVs. Amazon, on the other hand, has great aspirations to build its television empire.
 
 
+***
+![Juniper Research: Over Half of Global Population to Use Digital Banking in 2026; Driven by Banking Digital Transformation](https://mms.businesswire.com/media/20210718005001/en/891869/23/BankingIndex2021.jpg "Juniper Research: Over Half of Global Population to Use Digital Banking in 2026; Driven by Banking Digital Transformation")
+
+
+[Juniper Research: Over Half of Global Population to Use Digital Banking in 2026; Driven by Banking Digital Transformation](https://www.businesswire.com/news/home/20210718005001/en/Juniper-Research-Over-Half-of-Global-Population-to-Use-Digital-Banking-in-2026-Driven-by-Banking-Digital-Transformation)
+
+
+> July 19, 2021 02:00 AM Eastern Daylight Time BASINGSTOKE, England--(BUSINESS WIRE)--A new Juniper Research study has found that 53% of the world's population will access digital banking services in 2026; reaching over 4.2 billion digital banking users, from 2.5 billion in 2021. The research identified increased digital transformation efforts as enabling banks to function effectively during the pandemic; justifying the benefits of digital banking and fostering further user growth. The new research, Digital Banking: Banking-as-a-Service, Market Transformation & Forecasts 2021‑2026, identified that China will be the largest digital banking market over the next 5 years; accounting for almost 25% of digital banking users in 2026.
+
+
+***
+![Flush with Unicorns, india's tech moment arrives](https://apicms.thestar.com.my/uploads/images/2021/07/19/1225513.jpg "Flush with Unicorns, india's tech moment arrives")
+
+
+[Flush with Unicorns, india's tech moment arrives](https://www.thestar.com.my/tech/tech-news/2021/07/19/flush-with-unicorns-indias-tech-moment-arrives)
+
+
+> "Indian entrepreneurs have been quietly building startups for a decade now, the country's internet infrastructure has vastly improved in that time and there's a very good appetite for tech stocks globally,' said Hans Tung, the Silicon Valley-based managing partner of GGV Capital, which manages US$9.2bil (RM38.79bil) in assets. "Investors are beginning to see the huge upside and they expect India to be a China.' Lenskart, an online retailer for eyewear, also said Monday that it raised US$220mil (RM927.
+
+
+***
+![Published my first package on PyPI](https://external-preview.redd.it/p3HQXQzdkmyXyJ89enL6PkgmSdstFY5z1QkzOzRNUaU.jpg?auto=webp&s=01b29ed2d2e90d072e1fc7295da2c1cb3797f686 "Published my first package on PyPI")
+
+
+[Published my first package on PyPI](https://www.reddit.com/r/Python/comments/on7xkl/published_my_first_package_on_pypi/)
+
+
+> Hello, after hours I managed to publish a timepicker widget for Tkinter in PyPI. I would like to get your feedback on this. Thank you.
+
+
+***
+![Leaked Realme Pad design renders reveal a built-in stylus](https://cdn.mos.cms.futurecdn.net/sAg85bdowo8e5sMLqsYRwW-1200-80.jpg "Leaked Realme Pad design renders reveal a built-in stylus")
+
+
+[Leaked Realme Pad design renders reveal a built-in stylus](https://www.techradar.com/news/leaked-realme-pad-design-renders-reveal-a-built-in-stylus)
+
+
+> (Image credit: OnLeaks) Realme's first tablet is expected to be unveiled in the coming months as the brand enters another product category. While not much is known officially, a new leak gives us an idea of what it could look like.Last month, Realme announced that it will be launching its first tablet and laptop in the near future, expanding its portfolio to new segments which are in demand post the pandemic. Called the Realme Pad, not only will it support stylus input but also include a silo to store it.
+
+
+***
+[Apple iPhone 13 likely to come with this BIG feature; Check all latest updates about upcoming iPhone 13 series](https://www.zeebiz.com/technology/mobiles/news-apple-iphone-13-likely-to-come-with-this-big-feature-check-all-latest-updates-about-upcoming-iphone-13-series-160978)
+
+
+> Apple iPhone 13 series: Apple is expected to unveil its next-generation smartphone -- iPhone 13 -- with improved Wi-Fi 6E support. Wi-Fi 6E is an extended version of the Wi-Fi 6 framework with the additional benefit of a 6GHz band.
+
+
