@@ -44066,3 +44066,53 @@
 > Emily Rudd and Sadie Sink play sisters in Fear Street Part Two: 1978. Netflix It's been a tough, wild ride, but finally we know the truth behind the Shadyside Killers in Netflix's Fear Street. The trilogy of films took us from 1994, back to 1978 and finally 1666, exploring why possessed serial killers were brutally murdering the residents of Shadyside, Ohio. It all had something to do with Sarah Fier, a witch who cursed the town to centuries of misfortune, while on the other side of the tracks, the town of Sunnyvale thrived.
 
 
+***
+![What China Expects From Businesses: Total Surrender](https://static01.nyt.com/images/2021/07/17/business/17newworld-illo/19newworld-illo-videoSixteenByNine3000.jpg "What China Expects From Businesses: Total Surrender")
+
+
+[What China Expects From Businesses: Total Surrender](https://www.nytimes.com/2021/07/19/technology/what-china-expects-from-businesses-total-surrender.html)
+
+
+> Continue reading the main storyUnlike regulators in Europe and the U.S., Beijing is using the guise of antitrust to bring powerful tech companies into line with its priorities.Credit...Jialun DengJuly 19, 2021, 12:01 a.m. ETWhen Pony Ma, head of the Chinese internet powerhouse Tencent, attended a group meeting with Premier Li Keqiang in 2014, he complained that many local governments had banned ride-sharing apps installed on smartphones.Mr. Li immediately told a few ministers to investigate the matter and report back to him.
+
+
+***
+![The Failure of China's Microchip Giant Tests Beijing's Tech Ambitions](https://static01.nyt.com/images/2021/07/19/business/19china-chip-1/19china-chip-1-videoSixteenByNine3000.jpg "The Failure of China's Microchip Giant Tests Beijing's Tech Ambitions")
+
+
+[The Failure of China's Microchip Giant Tests Beijing's Tech Ambitions](https://www.nytimes.com/2021/07/19/technology/china-microchips-tsinghua-unigroup.html)
+
+
+> Continue reading the main storyTsinghua Unigroup, a would-be microchip champion, is facing bankruptcy, a setback in China's quest for semiconductor self-reliance.Tsinghua Unigroup seemed to be a play by China to lead in the critical microchip industry.Credit...Ng Han Guan/Associated PressJuly 19, 2021, 12:01 a.m. ETIn 2015, an obscure company run by a real estate mogul woke the world to China's ambitions in semiconductors, the foundational technology that powers computing. Laden with state funding and political backing, the company made jaws drop with a $23 billion bid to buy the American chip maker Micron.
+
+
+***
+![Asus looks to address increasing PC demand with new Chromebook series but wary of component price hike](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/aschr-original.jpeg "Asus looks to address increasing PC demand with new Chromebook series but wary of component price hike")
+
+
+[Asus looks to address increasing PC demand with new Chromebook series but wary of component price hike](https://www.indiatoday.in/technology/features/story/asus-looks-to-address-increasing-pc-demand-with-new-chromebook-series-but-wary-of-component-price-hike-1829772-2021-07-19)
+
+
+> Story highlights Asus has recently launched new Chromebook in India. Asus targets students and children with new series. Component price hike may make laptops costlier. Asus had entered the enterprise PC business last year as the demand for personal machines grew post Covid-19 and believes it is important to provide personalised solutions in the current scenario. The Taiwanese electronics maker recently launched its Chromebook series in India which caters to students and children. The products have been priced very aggressively for now but, the company is wary of the global chip shortage and believes that every brand will be forced to increase the product prices if the situation doesn't improve.
+
+
+***
+![Pegasus spyware hacking: Reports show latest iPhones with iOS 14 can be hacked with zero-click iMessage exploit](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/pegasus-original.jpg "Pegasus spyware hacking: Reports show latest iPhones with iOS 14 can be hacked with zero-click iMessage exploit")
+
+
+[Pegasus spyware hacking: Reports show latest iPhones with iOS 14 can be hacked with zero-click iMessage exploit](https://www.indiatoday.in/technology/news/story/pegasus-spyware-hacking-reports-show-latest-iphones-with-ios-14-can-be-hacked-with-zero-click-imessage-exploit-1829768-2021-07-19)
+
+
+> Shubham Verma New Delhi, Jul 19, 2021, Updated Jul 19, 2021, 9:20 AM IST Story highlights According to a researcher, iPhone's zero-click exploit was used to install Pegasus. NSO Group's Pegasus software is notorious for being a spying tool. WhatsApp has criticised NSO Group for developing tools like Pegasus. Pegasus spyware-making Israeli company, NSO Group, has found itself in dire straits again. The software was used to snoop on a big set of people, as their mobile numbers were found in a leaked database.
+
+
+***
+![With its newest streaming shake-up, Amazon is bringing Fire TV inside your automobile.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "With its newest streaming shake-up, Amazon is bringing Fire TV inside your automobile.")
+
+
+[With its newest streaming shake-up, Amazon is bringing Fire TV inside your automobile.](https://en.brinkwire.com/technology/with-its-newest-streaming-shake-up-amazon-is-bringing-fire-tv-inside-your-automobile/)
+
+
+> With its newest streaming shake-up, Amazon is bringing Fire TV inside your automobile. THE NEXT STAGE FOR AMAZON'S FAMOUS Fire TV COULD BE IN YOUR CAR – now that's something Google's Chromecast can't compete with! Amazon's famous Fire TV streaming platform is already available in a wide range of devices, ranging from inexpensive HDMI dongles to more expensive set-top boxes with hands-free voice commands, soundbars, and Smart TVs. Amazon, on the other hand, has great aspirations to build its television empire.
+
+
