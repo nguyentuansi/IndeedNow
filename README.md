@@ -44348,3 +44348,53 @@
 > If you're looking for the best MacBook deals, you'll want to take advantage of today's incredible laptop deals. Back to school sales and Black Friday in July deals make it a great time to save on a new Apple laptop. With the plethora of MacBook deals available right now, you don't have to spend a small fortune on your next PC. In fact, you can get the latest Apple M1 chip-powered MacBook Air or MacBook Pro for a stellar price. So whether you're bargain hunting for Apple's lightweight MacBook Air or powerful MacBook Pro for school or work, you've come to the right place.
 
 
+***
+![Nvidia shows off RTX ray tracing, high-end gaming tech running on Arm](https://www.cnet.com/a/img/U9vNMfQv_JCH2i0fixFFXUdqtAs=/1200x630/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg "Nvidia shows off RTX ray tracing, high-end gaming tech running on Arm")
+
+
+[Nvidia shows off RTX ray tracing, high-end gaming tech running on Arm](https://www.cnet.com/news/nvidia-shows-off-rtx-ray-tracing-high-end-gaming-tech-running-on-arm/)
+
+
+> David Paul Morris/Bloomberg via Getty Images Nvidia is working to expand its RTX tech to more devices, and the company on Monday took a big step forward. In demos for the Game Developers Conference, Nvidia showed off real-time ray tracing and DLSS on an ARM-based platform for the first time. The company showed off the advanced graphics in demos of Wolfenstein: Youngblood and The Bistro, both running on a GeForce RTX 3060 GPU paired with a MediaTek Kompanio 1200 Arm processor."We're now investing in new platforms where we can deploy advanced graphics so gamers have more choice," wrote Nvidia spokesperson Brian Burke in a blog post.
+
+
+***
+![When traveling with pets this summer, drivers risk receiving hefty fines.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "When traveling with pets this summer, drivers risk receiving hefty fines.")
+
+
+[When traveling with pets this summer, drivers risk receiving hefty fines.](https://en.brinkwire.com/technology/when-traveling-with-pets-this-summer-drivers-risk-receiving-hefty-fines/)
+
+
+> When traveling with pets this summer, drivers risk receiving hefty fines. According to new study, drivers who choose to travel with their dogs might face fines of up to £13,000. Many families will be keen to travel as the summer holidays approach and lockdown restrictions are gradually relaxed. Pet owners are legally allowed to travel with their furry pets in the car, but they risk being penalized if they do not obey the Highway Code's restrictions. According to Peter Vardy's research, pet owners make five typical and potentially costly mistakes when driving.
+
+
+***
+![Google Eases Search History Deletion, But Only For The Last 15 Minutes](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/07/Delete-Google-Search-History-Data-for-15-Minutes.jpg "Google Eases Search History Deletion, But Only For The Last 15 Minutes")
+
+
+[Google Eases Search History Deletion, But Only For The Last 15 Minutes](https://screenrant.com/delete-google-search-history-ios-iphone/)
+
+
+> Google wants to make the task of erasing the search history hassle-free, especially when it comes to the search activity log of the past 15 minutes. Google is introducing a new privacy-centric feature that will allow users to quickly delete the last 15 minutes of their search activity. The search giant already allows users to set an auto-delete schedule for wiping their web and app activity, which includes everything from web search history as well as activity across Google's suite of services such as Maps and Google Play to name a few.
+
+
+***
+![Blue Origin New Shepard vs Virgin Galactic: How do the two spaceships compare](https://www.thesun.co.uk/wp-content/uploads/2021/07/ad-virgingalactic-comp.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Blue Origin New Shepard vs Virgin Galactic: How do the two spaceships compare")
+
+
+[Blue Origin New Shepard vs Virgin Galactic: How do the two spaceships compare](https://www.thesun.co.uk/tech/15544239/virgin-galactic-vs-blue-origin/)
+
+
+> BILLIONAIRE Jeff Bezos is planning to launch himself into space tomorrow, just over a week after rival Richard Branson. Branson's Virgin Galactic VSS Unity spaceplane and Bezos's Blue Origin New Shepard rocket and capsule look pretty different but they do have some similarities. How do the VSS Unity spaceplane and the Blue Origin New Shepard compare? The VSS Unity spaceplane is launched into suborbit by another planeCredit: Virgin Galactic Virgin Galactic CEO Richard Branson successfully entered space on his VSS Unity spaceplane on July 11.
+
+
+***
+![Best cheap 4K TV deals for July 2021](https://icdn.digitaltrends.com/image/digitaltrends/vizio-oled-tv.jpg "Best cheap 4K TV deals for July 2021")
+
+
+[Best cheap 4K TV deals for July 2021](https://www.digitaltrends.com/dtdeals/best-4k-tv-deals/)
+
+
+> If your TV is looking a little lackluster and old, it might be time to upgrade to something newer and better. If you're currently using an HD TV, then one of the biggest improvements you can make to your viewing is by upgrading to a 4K TV. This difference in picture quality is immediately noticeable whether it's for watching movies and TV or playing games. Although 4K TVs used to be an expensive luxury, but these days they're much more affordable. You'll find deals even on some of the best 4K TVs from top brands like Sony and LG, and deals on not only entry-level models but also more elaborate models like OLED TVs or QLED TVs.
+
+
