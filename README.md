@@ -44301,3 +44301,50 @@
 > Source: Rebecca Spear / Android Central I've been testing robot vacuums for a few years now, and I can honestly say that I never want to be without a reliable robot cleaner ever again. Some cleaning units really aren't worth your time, while others are the very best robot vacuums that will make your life easier. The 360 S10 is one such praiseworthy robot vacuum as it offers far more conveniences than many others out there and truly works hard to keep your home clean. I've been able to test it for a couple of weeks, and I have been impressed with its suction power, large dustbin, and incredible app that is just as useful as it is intuitive.
 
 
+***
+![Nokia G20 and Nokia G10 are almost identical but one is clearly better](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/07/nokia-g20-lifestyle-5_0.jpg "Nokia G20 and Nokia G10 are almost identical but one is clearly better")
+
+
+[Nokia G20 and Nokia G10 are almost identical but one is clearly better](https://www.androidcentral.com/nokia-g20-vs-nokia-g10)
+
+
+> The Nokia G20 comes with some budget phone staples like a large 5,050mAh battery, a huge 6.52-inch LCD display, a 3.5mm audio port, and expandable storage. Then there are a few extra features like promised platform updates for three years and a pretty good quad-camera setup starring a 48MP main camera. Nokia checks all the right boxes with the G20. $199 at Amazon Large 6.52-inch HD+ LCD display Decent 48MP main camera Three years of updates Expandable storage up to 512GB Huge 5,050mAh battery 3.
+
+
+***
+![Automate your routine with just a tap with the best NFC tags](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/gototag-nfc-tag-lifestyle.jpg "Automate your routine with just a tap with the best NFC tags")
+
+
+[Automate your routine with just a tap with the best NFC tags](https://www.imore.com/best-nfc-tags-iphone)
+
+
+> Best NFC tags for iPhone iMore 2021 The best NFC tags for iPhone are a convenient way to add a bit of automated magic to just about anywhere. Whether stickers, keychains, or cards, NFC tags can kick off your day using HomeKit, turn on some tunes, or run that ultra-complicated Siri Shortcut of yours. Here are some of the best NFC tags for iPhone to help get your tap-and-go journey started right. GoToTag's NFC Badges are a unique, customizable option with its sizeable blank slate. You can write directly on these badges with a marker or use other stickers to dress them up for easy organization.
+
+
+***
+![Lloyds Bank, Halifax, and Bank of Scotland websites and apps back online after mass outage](https://static.independent.co.uk/2021/07/05/09/afc4653d74ab93c24bf7f1eee4c47617Y29udGVudHNlYXJjaGFwaSwxNjI1NTU5MzA5-2.25179661.jpg?width=1200&auto=webp&quality=75 "Lloyds Bank, Halifax, and Bank of Scotland websites and apps back online after mass outage")
+
+
+[Lloyds Bank, Halifax, and Bank of Scotland websites and apps back online after mass outage](https://www.independent.co.uk/life-style/gadgets-and-tech/lloyds-halifax-scotland-bank-apps-mobile-down-b1886609.html)
+
+
+> Thousands of Halifax, Lloyds Bank, and Bank of Scotland customers were locked out of their banking applications today.The issue began after 10:00am GMT, according to website tracker DownDetector.'We know some of our customers are having intermittent issues logging onto Internet banking at the moment. We're sorry about this and working to have it back to normal soon', Halifax tweeted. The Bank of Scotland and Lloyds Bank official Twitter accounts shared similar messages.It is unclear exactly what the source of the issue was.
+
+
+***
+[USDJPY fall below the 100 day MA for the first time since January 29.](https://www.forexlive.com/technical-analysis/!/usdjpy-fall-below-the-100-day-ma-for-the-first-time-since-january-29-20210719)
+
+
+> The 100 day MA is now risk for the sellers The USDJPY has broken below its 100 day moving average at 109.403. That is the first move below the moving average since January 29, 2021. Bearish technically.  It will now take a move back above that level to tilt the technical bias back to the upside.   The price low traded to 109.065
+
+
+***
+![Best UK MacBook deals for July 2021](https://cdn.mos.cms.futurecdn.net/ko2eZxWzu9pGcbxWFDchhm-1200-80.jpg "Best UK MacBook deals for July 2021")
+
+
+[Best UK MacBook deals for July 2021](https://www.laptopmag.com/best-macbook-deals)
+
+
+> If you're looking for the best MacBook deals, you'll want to take advantage of today's incredible laptop deals. Back to school sales and Black Friday in July deals make it a great time to save on a new Apple laptop. With the plethora of MacBook deals available right now, you don't have to spend a small fortune on your next PC. In fact, you can get the latest Apple M1 chip-powered MacBook Air or MacBook Pro for a stellar price. So whether you're bargain hunting for Apple's lightweight MacBook Air or powerful MacBook Pro for school or work, you've come to the right place.
+
+
