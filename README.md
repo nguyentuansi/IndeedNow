@@ -44254,3 +44254,50 @@
 > HYPERLOOP systems will move as many people as a 30-lane highway between cities in minutes, according to Virgin Hyperloop's chief. Speaking to Reuters on Monday, Josh Giegel said the upcoming transport technology would move "massive amounts of people" at the speed of an aircraft inside levitating capsules. Get all the latest Science news Keep up-to-date with the top Space & Astronomy stories All the latest Archaelogy news from dinosaurs to Ancient artefacts He also explained what it was like to ride inside one of the pods after taking part in a test run at a Virgin facility in Nevada last year alongside fellow staff member Sara Luchian.
 
 
+***
+![One of the coolest new Netflix features is coming to BBC iPlayer… but only for a certain period of time](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "One of the coolest new Netflix features is coming to BBC iPlayer… but only for a certain period of time")
+
+
+[One of the coolest new Netflix features is coming to BBC iPlayer… but only for a certain period of time](https://en.brinkwire.com/technology/one-of-the-coolest-new-netflix-features-is-coming-to-bbc-iplayer-but-only-for-a-certain-period-of-time/)
+
+
+> One of the coolest new Netflix features is coming to BBC iPlayer… but only for a certain period of time Viewers of the BBC iPlayer are going to get one of Netflix's best features in recent years. Netflix subscribers will be familiar with a new function available on the BBC iPlayer. The BBC is launching a new iPlayer button dubbed 'Watch with Friends' for the Glastonbury Experience 2021. This function is only available on the BBC iPlayer web version and allows users to share a specific moment with friends with the click of a button.
+
+
+***
+![Do you want to keep your Chrome search history private? Everything is kept locked away thanks to a clever new function.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Do you want to keep your Chrome search history private? Everything is kept locked away thanks to a clever new function.")
+
+
+[Do you want to keep your Chrome search history private? Everything is kept locked away thanks to a clever new function.](https://en.brinkwire.com/technology/do-you-want-to-keep-your-chrome-search-history-private-everything-is-kept-locked-away-thanks-to-a-clever-new-function/)
+
+
+> Do you want to keep your Chrome search history private? Everything is kept locked away thanks to a clever new function. With an experimental new function, GOOGLE is assisting users in keeping their Incognito Mode browsing private. Chrome's privacy-focused features Incognito Mode allows you to be more private than ever…but it's not for everyone. Google is experimenting with iPhone users to see if they want to maintain a tighter lid on their online history. When activated, Chrome will need Face ID facial recognition identification before allowing you to enter Incognito Mode.
+
+
+***
+[Sources: LiveU, an Israel-based developer of live broadcasting and streaming tech used by 3K+ media organizations, to be acquired by PE firm Carlyle for $400M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210719/p6#a210719p6)
+
+
+> Ingrid Lunden / TechCrunch: Sources: LiveU, an Israel-based developer of live broadcasting and streaming tech used by 3K+ media organizations, to be acquired by PE firm Carlyle for $400M — Streaming is the name of the content game these days, and now one of the companies that builds tech to do this from anywhere in the world is getting acquired.
+
+
+***
+![How does Apple's MagSafe Battery Pack stack up against Anker's option?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/anker-powercore-magnetic-5k-iphone-12-pro-hero.jpg "How does Apple's MagSafe Battery Pack stack up against Anker's option?")
+
+
+[How does Apple's MagSafe Battery Pack stack up against Anker's option?](https://www.imore.com/apple-magsafe-battery-pack-vs-anker-powercore-magnetic-5k)
+
+
+> Apple recently released its MagSafe Battery Pack for the iPhone 12 series of phones. It simply attaches magnetically to the back of your iPhone 12 series phone for easy charging. You can also use it as a desktop MagSafe charger, and can even charge the battery pack using your iPhone using reverse pass-through charging. $99 at Apple Apple design No power button, snap on and it charges iOS integration Supports pass-through charging High price White is the only color Lightning cable not included Only 1,460mAh capacity The Anker PowerCore Magnetic 5K battery pack is compatible with the MagSafe iPhone 12 series of phones, although the battery is not officially MagSafe.
+
+
+***
+![Review: The 360 S10 robot vacuum is powerful and has an incredible app](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/360-s10-robot-vacuum.jpg "Review: The 360 S10 robot vacuum is powerful and has an incredible app")
+
+
+[Review: The 360 S10 robot vacuum is powerful and has an incredible app](https://www.androidcentral.com/360-s10-robot-vacuum-review)
+
+
+> Source: Rebecca Spear / Android Central I've been testing robot vacuums for a few years now, and I can honestly say that I never want to be without a reliable robot cleaner ever again. Some cleaning units really aren't worth your time, while others are the very best robot vacuums that will make your life easier. The 360 S10 is one such praiseworthy robot vacuum as it offers far more conveniences than many others out there and truly works hard to keep your home clean. I've been able to test it for a couple of weeks, and I have been impressed with its suction power, large dustbin, and incredible app that is just as useful as it is intuitive.
+
+
