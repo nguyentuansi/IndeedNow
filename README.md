@@ -44163,3 +44163,44 @@
 > Apple iPhone 13 series: Apple is expected to unveil its next-generation smartphone -- iPhone 13 -- with improved Wi-Fi 6E support. Wi-Fi 6E is an extended version of the Wi-Fi 6 framework with the additional benefit of a 6GHz band.
 
 
+***
+[GBP/USD Daily Outlook](https://www.actionforex.com/technical-outlook/gbpusd-outlook/392637-gbp-usd-daily-outlook-1166/)
+
+
+> Daily Pivots: (S1) 1.3730; (P) 1.3796; (R1) 1.3831; More…. GBP/USD’s break of 1.3730 suggests resumption of fall from 1.4248. Intraday bias is back on the downside. Such decline is seen as the third leg of the consolidation pattern from 1.4240. Further fall should be seen to 1.3668 support and possibly below. On the upside, break […] The post GBP/USD Daily Outlook appeared first on Action Forex.
+
+
+***
+[USD/CHF Daily Outlook](https://www.actionforex.com/technical-outlook/usdchf-outlook/392633-usd-chf-daily-outlook-1163/)
+
+
+> Daily Pivots: (S1) 0.9177; (P) 0.9190; (R1) 0.9209; More…. Intraday bias in USD/CHF remains neutral at this point. On the downside, sustained break of the 55 day EMA (now at 0.9131)will affirm the case that rebound from 0.8925 has completed at 0.9273. Deeper fall would then be seen back to retest 0.8925 low. On the […] The post USD/CHF Daily Outlook appeared first on Action Forex.
+
+
+***
+[Samsung Galaxy SmartTag Plus review](https://www.laptopmag.com/reviews/samsung-galaxy-smarttag-plus)
+
+
+> Samsung's Galaxy Smart Tag Plus tracker uses a combination of Bluetooth and Ultra-Wide Band communications to help find lost items with a dash of augmented reality effects for good measure.
+
+
+***
+![Malaysian Digital Banks: 29 Applicants For A Maximum Of 5 Licenses](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f52efd3456a86d84aa1ed1%2F0x0.jpg "Malaysian Digital Banks: 29 Applicants For A Maximum Of 5 Licenses")
+
+
+[Malaysian Digital Banks: 29 Applicants For A Maximum Of 5 Licenses](https://www.forbes.com/sites/zennonkapron/2021/07/19/malaysian-digital-banks-29-applicants-for-a-maximum-of-5-licenses/)
+
+
+> KUALA LUMPUR, MALAYSIA - OCTOBER 24: A View Of The City Featuring The Petronas Twin Towers, Kuala ... [+] Lumpur, Malaysia. (Photo by Tim Graham/Getty Images) Tim Graham/Getty Images Malaysia is neither one of the largest nor most underbanked markets in Southeast Asia, but it still has generated intense interest from would-be digital banks. As the application period for digital banking licenses closed June 30, Bank Negara Malaysia (BNM), Malaysia's central bank, received 29 applications for a maximum of just five licenses.
+
+
+***
+![PS5 stock UK](https://static.independent.co.uk/2021/07/13/15/PS5%20live%20blog%2021.jpg?width=1200&auto=webp&quality=75 "PS5 stock UK")
+
+
+[PS5 stock UK](https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/ps5-uk-stock-live-restock-today-game-b1886376.html)
+
+
+> We've got all the latest on the next stock dropUpdate: Argos, Game, Very and Asda could all drop stock this week. Read on for more information. It's been seven months since the launch of the PS5, but persistent supply problems and a global shortage of semiconductors have slowed production of the next-generation console to a crawl. New stock is hard to find, and when it does appear the PS5 sells out fast.Despite pandemic restrictions lifting and high street stores reopening to customers, PS5 restock issues have meant bare shelves and disappointed gamers fighting over what few consoles can be made available in the UK.
+
+
