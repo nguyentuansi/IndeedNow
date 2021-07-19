@@ -44204,3 +44204,53 @@
 > We've got all the latest on the next stock dropUpdate: Argos, Game, Very and Asda could all drop stock this week. Read on for more information. It's been seven months since the launch of the PS5, but persistent supply problems and a global shortage of semiconductors have slowed production of the next-generation console to a crawl. New stock is hard to find, and when it does appear the PS5 sells out fast.Despite pandemic restrictions lifting and high street stores reopening to customers, PS5 restock issues have meant bare shelves and disappointed gamers fighting over what few consoles can be made available in the UK.
 
 
+***
+![Bitcoin price](https://static.independent.co.uk/2021/07/19/10/bitcoin%20price%20live%20usd%20latest.jpg?width=1200&auto=webp&quality=75 "Bitcoin price")
+
+
+[Bitcoin price](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-latest-crypto-live-ethereum-b1886427.html)
+
+
+> Bitcoin continues to trade within an uncharacteristically narrow price band, having failed to fall below $31,000 or break above $36,000 throughout July 2021.The cryptocurrency starts the week at the lower end of that range, spending the weekend bouncing between $31k-$32k.It has helped usher in a period of relative stability for the broader crypto market, with Ethereum (ether), Cardano (ada), Binance Coin and Ripple (XRP) all avoiding any wild price swings on Monday.Analysts and experts remain divided over which way the market is heading from here.
+
+
+***
+![The Daily Wire debuts morning podcast to compete with "The Daily"](https://images.axios.com/PZcD2xaWQxq0sYffJHKiZuK0wUU=/0x0:1920x1080/1366x768/2021/07/19/1626670588492.jpg "The Daily Wire debuts morning podcast to compete with "The Daily"")
+
+
+[The Daily Wire debuts morning podcast to compete with "The Daily"](https://www.axios.com/daily-wire-morning-wire-podcast-6273002f-1cff-4871-91b5-484f2f795242.html)
+
+
+> The Daily Wire on Monday launched its newest podcast, "The Morning Wire," a 14-minute morning news update that's being pitched as the conservative alternative to shows like "The Daily" from The New York Times and "Up First" from NPR. Why it matters: Conservatives have been very successful at building popular podcasts, but to-date, there haven't been any break-out conservative morning news podcasts that set the agenda for early risers, commuters and professionals. Details: "The Morning Wire" will deliver a brief deep dive into the top news stories of the day, a spokesperson told Axios.
+
+
+***
+![Best helicopters and attack choppers of all time](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/148741-gadgets-feature-best-helicopters-and-attack-choppers-of-all-time-image1-wngcpohe7t.jpg "Best helicopters and attack choppers of all time")
+
+
+[Best helicopters and attack choppers of all time](https://www.pocket-lint.com/gadgets/news/148741-best-helicopters-and-attack-choppers-of-all-time)
+
+
+> (Pocket-lint) - Helicopters are relatively modern marvels of flying machines. At least compared to other classic vehicles like ships and even tanks. The first helicopter took to the skies in the 1920s, technology has progressed a lot since then. There has been all manner of choppers gracing the air above our head since.We're rounding up some of the most interesting helicopters to ever lift off into the sky. From the magnificent flying machines to dangerous death dealers.Staff Sgt. Richard WrigleyThe Black Hawk In production/use: 1974 to present Estimated cost: $21.
+
+
+***
+![Huawei P50 series confirmed to launch on July 29](https://cdn.mos.cms.futurecdn.net/5ATXoPRmuhMkaCKtJWCpV3-1200-80.jpg "Huawei P50 series confirmed to launch on July 29")
+
+
+[Huawei P50 series confirmed to launch on July 29](https://www.techradar.com/news/huawei-p50-series-confirmed-to-launch-on-july-29)
+
+
+> (Image credit: Huawei) Chinese smartphone maker Huawei has confirmed the launch of its new flagship series on July 29. It will add the Huawei P50 series as confirmed by Richard Yu, CEO at Huawei.Like most of Huawei's P series phones, the upcoming P series line-up from Huawei is expected to come with camera-centric features. Richard Yu's post on Weibo confirms the same as it reads, 'The road forward has no end, this time we surpass ourselves in the field of imaging again. On July 29th, the #HuaweiP50 series will soon release a new mobile imaging technology pioneered in the industry, and the new era of mobile imaging will set sail, so stay tuned!'.
+
+
+***
+![Hyperloop zips commuters between cities in MINUTES moving as many people as 30-lane highway with levitation tech](https://www.the-sun.com/wp-content/uploads/sites/6/2020/11/DD-COMPOSITE-VIRGIN-HYPERLOOP-graphic-comp-5.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Hyperloop zips commuters between cities in MINUTES moving as many people as 30-lane highway with levitation tech")
+
+
+[Hyperloop zips commuters between cities in MINUTES moving as many people as 30-lane highway with levitation tech](https://www.the-sun.com/tech/3308608/hyperloop-commuters-cities-minutes-levitation-tech/)
+
+
+> HYPERLOOP systems will move as many people as a 30-lane highway between cities in minutes, according to Virgin Hyperloop's chief. Speaking to Reuters on Monday, Josh Giegel said the upcoming transport technology would move "massive amounts of people" at the speed of an aircraft inside levitating capsules. Get all the latest Science news Keep up-to-date with the top Space & Astronomy stories All the latest Archaelogy news from dinosaurs to Ancient artefacts He also explained what it was like to ride inside one of the pods after taking part in a test run at a Virgin facility in Nevada last year alongside fellow staff member Sara Luchian.
+
+
