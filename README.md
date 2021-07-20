@@ -44868,3 +44868,53 @@
 > Electric fat tire bike manufacturer Rad Power Bikes has unveiled the latest model of its flagship RadRover, and at $1,999, it appears to be cheaper than its predecessor, which goes for $1,699. The updates on the RadRover 6 Plus are emblematic of the company's mission to enhance rider experience, especially for those who don't identify as bike riders but are looking for a more eco-friendly way to travel. 'We develop powerful, reliable bikes, bikes that are confidence-inspiring and easy to use,' Redwood Stephens, chief product officer of Rad Power Bikes, told TechCrunch.
 
 
+***
+![Comcast Business Mobile Launches to Small Businesses Nationwide](https://mms.businesswire.com/media/20210720005026/en/351493/23/Comcast-Logo.jpg "Comcast Business Mobile Launches to Small Businesses Nationwide")
+
+
+[Comcast Business Mobile Launches to Small Businesses Nationwide](https://www.businesswire.com/news/home/20210720005026/en/Comcast-Business-Mobile-Launches-to-Small-Businesses-Nationwide)
+
+
+> July 20, 2021 10:00 AM Eastern Daylight Time PHILADELPHIA--(BUSINESS WIRE)--Comcast Business today announced it has launched its new wireless mobile service for small businesses, Comcast Business Mobile, nationally across its footprint. Comcast Business Mobile is designed to help small businesses be ready for today and whatever comes next with flexible data options, nationwide 5G coverage, and savings. Comcast Business Mobile benefits from the success and expertise established by top-rated mobile service, Xfinity Mobile.
+
+
+***
+![Group Messaging Social Network IRL Snags Former Disney Accelerator General Manager, Jason Kirk, as New Chief Business Officer, to Help Platform Build out Its Business and Strategic Partnerships](https://mms.businesswire.com/media/20210720005126/en/892262/23/Logo_transparent_background.jpg "Group Messaging Social Network IRL Snags Former Disney Accelerator General Manager, Jason Kirk, as New Chief Business Officer, to Help Platform Build out Its Business and Strategic Partnerships")
+
+
+[Group Messaging Social Network IRL Snags Former Disney Accelerator General Manager, Jason Kirk, as New Chief Business Officer, to Help Platform Build out Its Business and Strategic Partnerships](https://www.businesswire.com/news/home/20210720005126/en/Group-Messaging-Social-Network-IRL-Snags-Former-Disney-Accelerator-General-Manager-Jason-Kirk-as-New-Chief-Business-Officer-to-Help-Platform-Build-out-Its-Business-and-Strategic-Partnerships)
+
+
+> July 20, 2021 10:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--IRL (In Real Life), the leading group messaging social network that brings people together through groups, events and shared experiences, announced today the appointment of Jason Kirk as Chief Business Officer. Kirk previously served in an advisory capacity before joining the startup full time. Formerly the General Manager at the Disney Accelerator, where he identified relevant startups and helped them secure commercial opportunities within the Walt Disney Company, Kirk brings with him valuable experience and relationships that will aid the continued growth of IRL.
+
+
+***
+![Cashout Platform Prizeout Enters Exclusive Partnership with Jackpocket to Bring Best-in-Class Withdrawal Technology to Lottery Players Across U.S.](https://mms.businesswire.com/media/20210720005247/en/892260/23/Prizeout_logo_lightblue%2Br%402x.jpg "Cashout Platform Prizeout Enters Exclusive Partnership with Jackpocket to Bring Best-in-Class Withdrawal Technology to Lottery Players Across U.S.")
+
+
+[Cashout Platform Prizeout Enters Exclusive Partnership with Jackpocket to Bring Best-in-Class Withdrawal Technology to Lottery Players Across U.S.](https://www.businesswire.com/news/home/20210720005247/en/Cashout-Platform-Prizeout-Enters-Exclusive-Partnership-with-Jackpocket-to-Bring-Best-in-Class-Withdrawal-Technology-to-Lottery-Players-Across-U.S.)
+
+
+> July 20, 2021 10:00 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Prizeout Corp. (Prizeout), a first-in-class ad-tech company that works with businesses across the ecommerce, retail, gaming, and payroll industries to turn withdrawals into a solution for business growth, today announced an exclusive partnership with Jackpocket, the first third-party app in the U.S. that provides a secure way to order official state lottery tickets. Through this collaboration, Prizeout and Jackpocket will expand the utility of users' lottery winnings by offering instant withdrawals and bonus value.
+
+
+***
+![VitalConnect Announces Vista Solution Coverage from Aetna Health Care](http://www.businesswire.com/images/bwlogo_square.png "VitalConnect Announces Vista Solution Coverage from Aetna Health Care")
+
+
+[VitalConnect Announces Vista Solution Coverage from Aetna Health Care](https://www.businesswire.com/news/home/20210720005246/en/VitalConnect-Announces-Vista-Solution-Coverage-from-Aetna-Health-Care)
+
+
+> July 20, 2021 10:00 AM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--VitalConnect®, Inc., a leader in remote and in-hospital wearable biosensor technology, today announced that its product portfolio is now being covered by Aetna, a CVS Health company and one of the nation's leading diversified health care benefits companies. This means that VitalConnect's unique four-in-one cardiac monitoring solution for mobile cardiac telemetry, extended Holter, Holter, and cardiac event monitoring, will now be part of covered services for Aetna members whose physicians have recommended cardiac monitoring for chronic or acute health conditions.
+
+
+***
+![TCP Software Completes Primary Phase of Integration between TimeClock Plus and Humanity Scheduling](https://mms.businesswire.com/media/20210720005732/en/831595/23/TCP_Logo_with_Vertical_Tagline.jpg "TCP Software Completes Primary Phase of Integration between TimeClock Plus and Humanity Scheduling")
+
+
+[TCP Software Completes Primary Phase of Integration between TimeClock Plus and Humanity Scheduling](https://www.businesswire.com/news/home/20210720005732/en/TCP-Software-Completes-Primary-Phase-of-Integration-between-TimeClock-Plus-and-Humanity-Scheduling)
+
+
+> July 20, 2021 10:00 AM Eastern Daylight Time AUSTIN, Texas--(BUSINESS WIRE)--TCP Software, a leading provider of workforce management and time and labor solutions, today announced that the first phase of integration between its TimeClock Plus solution and Humanity Scheduling is now available. The offering combines the robust workforce management and time and attendance capabilities of TimeClock Plus with the flexible and intuitive employee scheduling experience offered by Humanity Scheduling. Disparate systems introduce significant risk to organizations; the same data has to be entered into each system manually, making it difficult to maintain and scale effectively.
+
+
