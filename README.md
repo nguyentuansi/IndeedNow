@@ -44771,3 +44771,53 @@
 > Xiaomi has launched a new Redmi Note 10T 5G smartphone in India. This is a budget phone from the brand and is the fifth model in the Redmi Note 10 series. The new Redmi phone is also currently the cheapest 5G phone in the country. The key highlights of the Redmi Note 10T are a triple rear camera setup, a MediaTek Dimensity 700 SoC, a 5,000mAh battery and more. Xiaomi Redmi Note 10T 5G price in India, sale date The Xiaomi Redmi Note 10T 5G price in India is set at Rs 13,999, which is for the 4GB RAM + 64GB storage variant.
 
 
+***
+![iOS 14.7 release date, news and all the new features coming to your iPhone](https://cdn.mos.cms.futurecdn.net/tWmJnEC7NyvUdPWUJmRsDF-1200-80.jpg "iOS 14.7 release date, news and all the new features coming to your iPhone")
+
+
+[iOS 14.7 release date, news and all the new features coming to your iPhone](https://www.techradar.com/news/ios-147)
+
+
+> Hot on the heels of iOS 14.6, Apple has now launched iOS 14.7, meaning that you can download it now and benefit from all the improvements it brings.That said, there aren't any massive new features here. Rather, Apple has focused on small upgrades, but you might still find that some of these are very useful. They include support for the new MagSafe Battery Pack, combined credit limits with Apple Card Family, and more.Below, we've taken a deep dive into all of the new features and changes, as well as looking at how to download iOS 14.
+
+
+***
+![PS5 restock UK](https://static.independent.co.uk/2021/07/13/14/PS5%20live%20blog%2019.jpg?width=1200&auto=webp&quality=75 "PS5 restock UK")
+
+
+[PS5 restock UK](https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/ps5-stock-availability-uk-restock-live-latest-b1887016.html)
+
+
+> New PS5 update focuses on system performanceUpdate: Very PS5 stock is still available now and Smyths Toys has sold out. Argos, Game and Asda set to follow next. Read on for more information. It's been eight months since the launch of the PS5, but persistent supply problems and a global shortage of semiconductors have slowed production of the next-generation console to a crawl. New stock is hard to find, and when it does appear the PS5 sells out fast. With that said, things are slowly improving. In May, we saw restocks from all major UK retailers for the first time since the console's release.
+
+
+***
+![Pegasus: Amnesty releases new tool to check whether invasive spyware is secretly installed on a phone](https://static.independent.co.uk/2021/07/19/04/GettyImages-596871430.jpg?width=1200&auto=webp&quality=75 "Pegasus: Amnesty releases new tool to check whether invasive spyware is secretly installed on a phone")
+
+
+[Pegasus: Amnesty releases new tool to check whether invasive spyware is secretly installed on a phone](https://www.independent.co.uk/life-style/gadgets-and-tech/amnesty-pegasus-spyware-tool-iphone-android-nso-group-b1887099.html)
+
+
+> Amnesty International has released a toolkit to help people find out if their phone was secretly monitored by Pegasus, the military-grade spyware that targeted human rights activists, journalists, and lawyers around the world.The software scans devices for the small clues that are left behind if a phone is infected by the Pegasus spyware.A leaked list of 50,000 phone numbers was obtained by journalism non-profit Forbidden Stories and Amnesty before being shared with the media.The spyware, built by Israeli firm NSO Group, can be used to record calls, copy and send messages or even film people via phone cameras.
+
+
+***
+![Flipkart Big Savings Days sale from July 25: Here's what to expect](https://images.indianexpress.com/2021/07/Flipkart-Big-Savings-Days.jpg "Flipkart Big Savings Days sale from July 25: Here's what to expect")
+
+
+[Flipkart Big Savings Days sale from July 25: Here's what to expect](https://indianexpress.com/article/technology/techook/flipkart-big-savings-days-sale-from-july-25-heres-what-to-expect-7413500/)
+
+
+> Flipkart will begin its Big Savings Days sale on July 25 this year and will bring deals, offers and discounts on several smartphones, tablets, electronics and accessories. While the sale will be open to all Flipkart users, Flipkart Plus members will be able to make use of the offers a day before everyone else starting, July 24. The sale will go on from July 25 to July 29 and bank offers for users include 10 percent instant discount with ICICI Bank cards and EMI transactions among other no-cost EMI and exchange offers.
+
+
+***
+![Snapchat's updated profile will allow you to share a 3D avatar of yourself](https://images.indianexpress.com/2021/07/image002.jpg "Snapchat's updated profile will allow you to share a 3D avatar of yourself")
+
+
+[Snapchat's updated profile will allow you to share a 3D avatar of yourself](https://indianexpress.com/article/technology/social/snapchat-profile-will-allow-you-to-share-a-3d-avatar-of-yourself-7413453/)
+
+
+> Snapchat is getting a new feature which will allow you to view a three dimensional version of yourselves on your Snapchat and Friendship Profile. Snapchat Profiles are now getting a new look which will allow to browse from over 1,200 combinations of body poses, facial expressions, gestures, and backgrounds to better personalise digital avatars on the platform. Users will be able to match their 3D Bitmoji with their mood including peace signs, prayer hands, scenic beaches and animal print backgrounds.
+
+
