@@ -44724,3 +44724,50 @@
 > PROMOTIONAL NEWS INTERVIEW: iTWire spoke with the company's Melbourne-based Vice President of Sales, Daniel Kohut about Blue Yonder's expansion into ANZ and some key trends affecting the local market, with the company stating its "award-winning digital fulfillment platform and end-to-end supply chain management solutions help over 3000 customers worldwide make smarter business decisions."
 
 
+***
+[OnePlus Nord 2 rumour round up; specs, features, and pricing we know so far](http://www.pinkvilla.com/tech/news/oneplus-nord-2-rumour-round-up-specs-features-and-pricing-we-know-so-far-821393)
+
+
+> Attach Main technology Image: Image Caption: OnePlus Nord 2 rumour round up; specs, features, and pricing we know so far Social Media Image : Enter the Technology details: OnePlus is all set to launch its OnePlus Nord 2 5G in the Indian and global market on July 22 and we are just a couple of days ahead of the official launch. It seems that the company is more excited about the launch than us, in the latest update OnePlus has confirmed the camera specification of the upcoming Nord 2 on Amazon India.
+
+
+***
+![The Redmi Note 10T is Xiaomi's first ‘budget' 5G phone in India, but there's a catch](https://images.financialexpress.com/2021/07/redmi-note-10t-main.jpg "The Redmi Note 10T is Xiaomi's first ‘budget' 5G phone in India, but there's a catch")
+
+
+[The Redmi Note 10T is Xiaomi's first ‘budget' 5G phone in India, but there's a catch](https://www.financialexpress.com/industry/technology/the-redmi-note-10t-is-xiaomis-first-budget-5g-phone-in-india-but-theres-a-catch/2293745/)
+
+
+> By: Saurabh Singh | July 20, 2021 1:31 PMThis is now the fifth Redmi Note 10 phone to launch in India.Xiaomi has been shy of launching too many 5G phones in India so far. Almost all its 5G phones have come from under the Mi banner which means technically, these phones have been reserved for the price range above 20k. The only affordable 5G option from the house of Xiaomi has been the Poco M3 Pro. Today, Redmi is finally joining this bandwagon with the launch of the Redmi Note 10T, a budget 5G phone with a starting price of Rs 13,999.
+
+
+***
+![Edward Snowden urges governments to ban trade of spyware like Pegasus](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/edward_snowden_reuters-original.jpg "Edward Snowden urges governments to ban trade of spyware like Pegasus")
+
+
+[Edward Snowden urges governments to ban trade of spyware like Pegasus](https://www.indiatoday.in/technology/news/story/edward-snowden-urges-governments-to-ban-trade-of-spyware-like-pegasus-1830364-2021-07-20)
+
+
+> Story highlights NSA whistleblower Edward Snowden has warned against the use of Pegasus like software. Pegasus is a spyware that Israel's NSO Group makes and sells to global governments. Not just Snowden, WhatsApp CEO Will Cathcart has also expressed his concerns. Edward Snowden, the renowned whistleblower, has warned against the trade of Pegasus and similar spyware and urged the governments to put a ban on it. If the trade between companies that make for-profit software -- which can become a surveillance weapon in the wrong hands, such as Israel's NSO Group -- and the governments continues, we will soon see a world "in which no mobile phone is safe from state-sponsored hackers," Snowden said.
+
+
+***
+![Warning: If your download speeds are slow, it could be due to your microwave.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Warning: If your download speeds are slow, it could be due to your microwave.")
+
+
+[Warning: If your download speeds are slow, it could be due to your microwave.](https://en.brinkwire.com/technology/warning-if-your-download-speeds-are-slow-it-could-be-due-to-your-microwave/)
+
+
+> Warning: If your download speeds are slow, it could be due to your microwave. BROADBAND users should be aware that their microwave ovens may be slowing down their download rates. Microwaving your evening meal could be wrecking havoc on your internet connection. Yes, that household appliance that millions of us use on a daily basis could be the reason for your Netflix binge coming to a halt. According to a new survey conducted by Zen Internet, most Britons are utterly unaware that simple objects like an oven can have an impact on the internet signal that is sent across their houses.
+
+
+***
+![Xiaomi launches Redmi Note 10T, the cheapest 5G phone in India](https://images.indianexpress.com/2021/07/Redmi-Note-10T-1.jpg "Xiaomi launches Redmi Note 10T, the cheapest 5G phone in India")
+
+
+[Xiaomi launches Redmi Note 10T, the cheapest 5G phone in India](https://indianexpress.com/article/technology/mobile-tabs/xiaomi-launches-redmi-note-10t-the-cheapest-5g-phone-in-india-7413415/)
+
+
+> Xiaomi has launched a new Redmi Note 10T 5G smartphone in India. This is a budget phone from the brand and is the fifth model in the Redmi Note 10 series. The new Redmi phone is also currently the cheapest 5G phone in the country. The key highlights of the Redmi Note 10T are a triple rear camera setup, a MediaTek Dimensity 700 SoC, a 5,000mAh battery and more. Xiaomi Redmi Note 10T 5G price in India, sale date The Xiaomi Redmi Note 10T 5G price in India is set at Rs 13,999, which is for the 4GB RAM + 64GB storage variant.
+
+
