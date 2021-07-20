@@ -44968,3 +44968,53 @@
 > Just a few weeks after Google and Samsung revealed their collaborative Wear software platform, Qualcomm has announced the Wearables Ecosystem Accelerator program, through which it aims to bring together hardware and software companies working on wearable devices and help speed up the launch of new products. Combined, these are significant steps forward in the effort to make smartwatches that truly compete with the Apple Watch, and other exciting wearables too. Digital Trends spoke to Qualcomm's Director of Product Marketing for Wearables, Ally Choi, about the program, Qualcomm's major plans for the future of Snapdragon Wear chips, and how kids and seniors are surprisingly instrumental in driving wearable innovation.
 
 
+***
+![How to achieve code quality with DevOps](https://external-preview.redd.it/X2Q8IU_7GkEQWKKT59apt6Fnsn2K9CtpBbvjMTrk7Gs.jpg?auto=webp&s=85016aef8fd01d3ec0649626a1975ecf872de816 "How to achieve code quality with DevOps")
+
+
+[How to achieve code quality with DevOps](https://www.reddit.com/r/programming/comments/oo7crt/how_to_achieve_code_quality_with_devops/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![GUI representation of priority queues in kotlin](https://external-preview.redd.it/fByYq7guomRKVAphMyobJ6TXGVV4ijaxZF1CVGqbHJc.jpg?auto=webp&s=65f941bfeeef7f143d41d92bafbf66dbed2e4c81 "GUI representation of priority queues in kotlin")
+
+
+[GUI representation of priority queues in kotlin](https://www.reddit.com/r/programming/comments/oo79q8/gui_representation_of_priority_queues_in_kotlin/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Microsoft Surface Laptop Go is so cheap at Staples it might be a mistake](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-surface-laptop-go-cyber-monday-2020.jpg "Microsoft Surface Laptop Go is so cheap at Staples it might be a mistake")
+
+
+[Microsoft Surface Laptop Go is so cheap at Staples it might be a mistake](https://www.digitaltrends.com/dtdeals/microsoft-surface-laptop-go-deal-staples-july-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Besides Apple, Microsoft offers some of the most impressive laptops and tablets on the market. Seriously, just take a peek at the best Surface Pro deals, and you'll likely come away impressed. They offer both 2-in-1 versatile tablets and more traditional laptops. Speaking of laptops, Staples is offering a crazy deal on the Microsoft Surface Laptop Go right now that has us scratching our heads. We're not sure if it's a pricing error or what, but you can get your hands on the 12.
+
+
+***
+![One of my friend share about his hometown (shimla) so must appreciate his work.](https://external-preview.redd.it/NtJYRojIBxTZ7h2-cHnpTMTCjvW4LLwjwZBZfb6verQ.jpg?auto=webp&s=f7ebb204c7fda888ec9f9e46cca529bc81afd850 "One of my friend share about his hometown (shimla) so must appreciate his work.")
+
+
+[One of my friend share about his hometown (shimla) so must appreciate his work.](https://www.reddit.com/r/programming/comments/oo78k1/one_of_my_friend_share_about_his_hometown_shimla/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Fluke Reliability Introduces the Fluke 3562 Screening Vibration Sensor System: a Batteryless Sensor for Continuous Machine Health Monitoring](https://mms.businesswire.com/media/20210720006069/en/892734/23/fluke_3562.jpg "Fluke Reliability Introduces the Fluke 3562 Screening Vibration Sensor System: a Batteryless Sensor for Continuous Machine Health Monitoring")
+
+
+[Fluke Reliability Introduces the Fluke 3562 Screening Vibration Sensor System: a Batteryless Sensor for Continuous Machine Health Monitoring](https://www.businesswire.com/news/home/20210720006069/en/Fluke-Reliability-Introduces-the-Fluke-3562-Screening-Vibration-Sensor-System-a-Batteryless-Sensor-for-Continuous-Machine-Health-Monitoring)
+
+
+> July 20, 2021 01:52 PM Eastern Daylight Time EVERETT, Wash.--(BUSINESS WIRE)--Fluke Reliability, a world leader in machine monitoring devices and cloud-based maintenance software, introduces the Fluke 3562 Screening Vibration Sensor system. With its revolutionary batteryless technology, long-range sensor-to-gateway communication, and ability to connect up to 1,000 sensors to a single gateway, the Fluke 3562 is a 'set it and forget it' solution that can operate continuously, even in hard-to-reach places.
+
+
