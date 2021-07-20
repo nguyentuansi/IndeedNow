@@ -44636,3 +44636,50 @@
 > (Image credit: TechRadar) Telstra's already discounted the iPhone 12 range a few times this year, but none of these deals have been as steep as this. The telco has slashed AU$400 off the iPhone 12 mini for seven days only, so you'll get the device for just AU$799.It's a pretty epic deal, and it's available from today, July 20 until Monday, July 26.You've got the choice of paying the device off over 12 or 24 months, or you can choose to buy it outright. There's a caveat here though – to be eligible for the AU$400 discount, you'll need to pair the handset with a Telstra plan.
 
 
+***
+[Sources: Apple is delaying return to office deadline by at least a month to October amid rising COVID cases, will give employees a month's notice before return (Mark Gurman/Bloomberg)](http://www.techmeme.com/210720/p1#a210720p1)
+
+
+> Mark Gurman / Bloomberg: Sources: Apple is delaying return to office deadline by at least a month to October amid rising COVID cases, will give employees a month's notice before return — - The iPhone maker is now eyeing an October return for workers — Covid-19 variants continue to spread across the U.S.
+
+
+***
+![The Doxel Construction Encyclopedia](https://external-preview.redd.it/VpTQMYbcmQd0yIrnUbG165BF6omkLJhpsSbKSQ7HxzM.jpg?auto=webp&s=5abb59f81083896025de16147846a11c172ab546 "The Doxel Construction Encyclopedia")
+
+
+[The Doxel Construction Encyclopedia](https://www.reddit.com/r/programming/comments/onuf4h/the_doxel_construction_encyclopedia/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Emissions issues are a ‘widespread myth,' according to classic automobile specialists.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Emissions issues are a ‘widespread myth,' according to classic automobile specialists.")
+
+
+[Emissions issues are a ‘widespread myth,' according to classic automobile specialists.](https://en.brinkwire.com/technology/emissions-issues-are-a-widespread-myth-according-to-classic-automobile-specialists/)
+
+
+> Emissions issues are a ‘widespread myth,' according to classic automobile specialists. CLASSIC CAR experts have discovered that older cars emit half the amount of pollution as cell phones and computers, despite experts warning that the industry is in jeopardy. The Historic Classic and Vehicle Association (HCVA) has warned that there is a 'widespread misperception' about classic automobile emissions. Instead, the HCVA contends that legislators must have 'all the facts' before making decisions that may affect property owners.
+
+
+***
+![As costs climb, gas stations are ‘taking advantage' to ‘make up for lost sales' due to the pandemic.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "As costs climb, gas stations are ‘taking advantage' to ‘make up for lost sales' due to the pandemic.")
+
+
+[As costs climb, gas stations are ‘taking advantage' to ‘make up for lost sales' due to the pandemic.](https://en.brinkwire.com/technology/as-costs-climb-gas-stations-are-taking-advantage-to-make-up-for-lost-sales-due-to-the-pandemic/)
+
+
+> As costs climb, gas stations are ‘taking advantage' to ‘make up for lost sales' due to the pandemic. According to RAC study, fuel merchants are 'taking advantage of drivers' by raising prices to 'make up for decreased fuel sales' during the pandemic. They warn that fuel prices 'shouldn't be continuing to grow' after rising for the seventh month in a row in May. Instead, they advise that petrol prices should be cut by much to 4p per litre since they do not 'fairly reflect' global oil costs. Companies are utilizing a drop in wholesale oil prices to make up for lost revenue last year, according to RAC fuel spokesman Simon Williams.
+
+
+***
+![David Beckham is a big supporter of electric automobiles and has put a lot of money into the electrification of antique cars.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "David Beckham is a big supporter of electric automobiles and has put a lot of money into the electrification of antique cars.")
+
+
+[David Beckham is a big supporter of electric automobiles and has put a lot of money into the electrification of antique cars.](https://en.brinkwire.com/technology/david-beckham-is-a-big-supporter-of-electric-automobiles-and-has-put-a-lot-of-money-into-the-electrification-of-antique-cars/)
+
+
+> David Beckham is a big supporter of electric automobiles and has put a lot of money into the electrification of antique cars. DAVID BECKHAM has invested in an electric car firm based in the United Kingdom that specializes in restoring antique cars. As he makes baby steps into the automobile business, the former England star is thought to have purchased a 10% share in Lunaz. At the company's Silverstone factory, the footballer was pictured getting to grips with electric car technology. He not only looked at the various electric models, but he also tried his hand at plugging in an electric charger.
+
+
