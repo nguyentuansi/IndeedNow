@@ -45068,3 +45068,53 @@
 > MOBILE PHONE HACK HOW TO KNOW IF YOUR PHONE IS BEING TAPPED MONITORED OR HACKED AC
 
 
+***
+![Researchers discover security flaws in Telegram encryption protocol](https://cdn.mos.cms.futurecdn.net/MBAK2qBssgYAU5aBU93iRZ-1200-80.jpg "Researchers discover security flaws in Telegram encryption protocol")
+
+
+[Researchers discover security flaws in Telegram encryption protocol](https://www.techradar.com/news/researchers-discover-security-flaws-in-telegram-encryption-protocol)
+
+
+> (Image credit: Shutterstock) Researchers from the University of London's Royal Holloway have discovered several flaws in the MTProto protocol used by the popular encrypted messaging app Telegram.While end-to-end encryption (E2EE) is available in one-on-one chats, the MTProto protocol is used in the service's group chats (also known as cloud chats) as well as when users don't opt-in for E2EE. MTProto is Telegram's version of transport level security (TLS) which is used to secure data in transit and to protect users from man-in-the middle attacks.
+
+
+***
+![Best Netflix VPN in 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/03/netflix-spotify-curb-piracy-hero.jpg "Best Netflix VPN in 2021")
+
+
+[Best Netflix VPN in 2021](https://www.androidcentral.com/best-netflix-vpn)
+
+
+> The best Netflix VPN could be the difference between you actually watching what you want and sitting in a dark room wishing your subscription wasn't going to waste. This is what geo-restrictions do — they block access to content when you're in the wrong place. How can I be in the wrong place? Well, if you're trying to access a U.S. Netflix show while overseas, in a place that doesn't have the rights, then you'll find yourself locked out. That means you'll only be able to watch whatever is available in the place you find yourself.
+
+
+***
+![PS5 restock dates: Sony Direct, Best Buy, GameStop and Target – when to buy it](https://cdn.mos.cms.futurecdn.net/feUs3p8TbxaR3T5VoDGMJA-1200-80.jpg "PS5 restock dates: Sony Direct, Best Buy, GameStop and Target – when to buy it")
+
+
+[PS5 restock dates: Sony Direct, Best Buy, GameStop and Target – when to buy it](https://www.techradar.com/news/new-ps5-restock-dates-tracker-best-buy-gamestop)
+
+
+> Trust and credibility(Image credit: Matt Swider / Instagram)PS5 restock tracker Matt Swider has helped 57,500 people in the US buy a next-gen console in 2021 with his tireless 24/7 tracking, in-stock Twitter alerts and exclusive restock reporting.New PS5 restock dates in the US are coming in the next few days, and our exclusive reporting by 24/7 PS5 restock Twitter tracker Matt Swider has helped over 58,000 people secure a next-gen console. How? Matt will send you an alert when the PS5 is in stock – if you follow his account and turn on notifications.
+
+
+***
+![All-new electric ute is coming to Oz](https://content.api.news/v3/images/bin/cf813aef9f9347a44ef1adda013f72ad "All-new electric ute is coming to Oz")
+
+
+[All-new electric ute is coming to Oz](https://www.news.com.au/technology/motoring/hitech/aussie-company-to-import-and-convert-new-electric-ute/news-story/4c913ddba123a415f488ca11fc22ebe8)
+
+
+> An Australian company is set to give locals the chance to get their hands on some of the most exciting new cars in the world very soon.The Tesla-fighting Rivian all-electric super ute is one step closer to Australia.A Queensland-based independent importer and converter of vehicles from left- to right-hand drive is already taking pre-orders for the Rivian R1T pick-up truck and R1S SUV ahead of the American on-sale date later this year.The managing director of AUS MV and SCD Remanufactured Vehicles, Eddie Kocwa, says Rivians will soon be on Australian roads.
+
+
+***
+![Leaked AMD RX 6600 XT Benchmark Matches the RTX 3060 Ti](https://icdn.digitaltrends.com/image/digitaltrends/rx-6700-xt-2.jpg "Leaked AMD RX 6600 XT Benchmark Matches the RTX 3060 Ti")
+
+
+[Leaked AMD RX 6600 XT Benchmark Matches the RTX 3060 Ti](https://www.digitaltrends.com/computing/amd-rx-6600-xt-matches-rtx-3060-ti-leaked-benchmark/)
+
+
+> Following an alleged launch date for the RX 6600 XT and RX 6600, photos and benchmarks have leaked for the upcoming card. The benchmarks show the RX 6600 XT outperforming Nvidia's RTX 3060 Ti, which should be the card's direct competitor. In a now-removed forum post on Baidu Tieba, the user posted screenshots of both the card and the benchmarks for it. With the Ludashi benchmarking tool — available in China — the RX 6600 XT earned a graphics score of 414,621. That's above an RTX 3060 Ti model on the leaderboards, which earned a score of 413,902, but below another RTX 3060 Ti model, which earned a score of 415,516.
+
+
