@@ -45018,3 +45018,53 @@
 > July 20, 2021 01:52 PM Eastern Daylight Time EVERETT, Wash.--(BUSINESS WIRE)--Fluke Reliability, a world leader in machine monitoring devices and cloud-based maintenance software, introduces the Fluke 3562 Screening Vibration Sensor system. With its revolutionary batteryless technology, long-range sensor-to-gateway communication, and ability to connect up to 1,000 sensors to a single gateway, the Fluke 3562 is a 'set it and forget it' solution that can operate continuously, even in hard-to-reach places.
 
 
+***
+![Drunk driver is barred from driving a van to avoid paying a parking fine at a pub in Hereford.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Drunk driver is barred from driving a van to avoid paying a parking fine at a pub in Hereford.")
+
+
+[Drunk driver is barred from driving a van to avoid paying a parking fine at a pub in Hereford.](https://en.brinkwire.com/technology/drunk-driver-is-barred-from-driving-a-van-to-avoid-paying-a-parking-fine-at-a-pub-in-hereford/)
+
+
+> Drunk driver is barred from driving a van to avoid paying a parking fine at a pub in Hereford. A DRIVING LICENSE has been revoked after he moved his van while exceeding the speed limit in order to avoid a citation. When Mark Pitts appeared in Hereford Magistrates Court on Monday, he entered a guilty plea. Prosecutor Melanie Winterflood said police received a report that a drunk driver got behind the wheel of their vehicle in Hereford at 12.25 a.m. on May 28. Officers discovered Pitts driving his Ford Transit van down Commercial Road and activated their blue lights to pull him stop.
+
+
+***
+![To update ‘out-of-date' technology, traffic lights will receive a £15 million financial boost.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "To update ‘out-of-date' technology, traffic lights will receive a £15 million financial boost.")
+
+
+[To update ‘out-of-date' technology, traffic lights will receive a £15 million financial boost.](https://en.brinkwire.com/technology/to-update-out-of-date-technology-traffic-lights-will-receive-a-15-million-financial-boost/)
+
+
+> To update ‘out-of-date' technology, traffic lights will receive a £15 million financial boost. According to the Government's new Transport Decarbonisation Plan, traffic lights will receive a major financial boost to repair 'out of date' technology. Investment in new technologies, according to the government, is required to assist 'keep an effective traffic management system.' It noted that while traffic lights are 'important for managing congestion,' they are 'undermined by poor maintenance.' The government has set aside £15 million to help modernize traffic signals, which will, according to experts, help 'improve emissions.
+
+
+***
+![Which area in the UK has the worst blue badge parking penalties?](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Which area in the UK has the worst blue badge parking penalties?")
+
+
+[Which area in the UK has the worst blue badge parking penalties?](https://en.brinkwire.com/technology/which-area-in-the-uk-has-the-worst-blue-badge-parking-penalties/)
+
+
+> Which area in the UK has the worst blue badge parking penalties? NEW RESEARCH HAS DISCUSSED THE COUNTRIES WITH THE HIGHEST RATE OF BLUE BLADE PARKING OFFENSES, BUT WHERE IN THE UK IS THE WORST? According to the Uswitch, Milton Keynes came out on top with 5,962 total penalty charge notices for a blue badge. This equates to one blue badge parking violation for every 41 individuals. Manchester, with just under 5,800 people, was beaten by the city by a hair. The top five were Leeds, Birmingham, and Colchester.
+
+
+***
+![Every amiibo compatible with The Legend of Zelda: Breath of the Wild](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/09/the-legend-of-zelda-breath-of-the-wild-amiibo.jpg "Every amiibo compatible with The Legend of Zelda: Breath of the Wild")
+
+
+[Every amiibo compatible with The Legend of Zelda: Breath of the Wild](https://www.imore.com/all-amiibo-legend-zelda-breath-wild)
+
+
+> If you own a Nintendo Switch, chances are you've played The Legend of Zelda: Breath of the Wild, Nintendo's latest groundbreaking entry in the classic series and one of the best games on the system. Since its release, the game has garnered constant praise from fans and critics alike. Plus, it has spawned tons of amiibo. All of these Legend of Zelda amiibo are compatible with The Legend of Zelda: Breath of the Wild and offer bonuses like rupees, resources, and even exclusive weapons, armor, and outfits.
+
+
+***
+![ফোনে এই সংকেতগুলো দেখেন ? সাবধান ! আপনার মোবাইল হয়তো হ্যাক করা হয়েছে](https://images.news18.com/static-bengali/2021/07/phone-hack-630x420.jpg "ফোনে এই সংকেতগুলো দেখেন ? সাবধান ! আপনার মোবাইল হয়তো হ্যাক করা হয়েছে")
+
+
+[ফোনে এই সংকেতগুলো দেখেন ? সাবধান ! আপনার মোবাইল হয়তো হ্যাক করা হয়েছে](https://bengali.news18.com/photogallery/technology/mobile-phone-hack-how-to-know-if-your-phone-is-being-tapped-monitored-or-hacked-ac-629957.html)
+
+
+> MOBILE PHONE HACK HOW TO KNOW IF YOUR PHONE IS BEING TAPPED MONITORED OR HACKED AC
+
+
