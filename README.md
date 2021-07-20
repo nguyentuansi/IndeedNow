@@ -44542,3 +44542,50 @@
 > Google has officially confirmed that the Play Store Material You design for Wear OS is starting to roll out to users and devices. Earlier this month, the new design started hitting a few users, but Google hadn't announced the release push.Today however, the official Wear OS Twitter showed off a short GIF detailing the new look. And in a slightly longer post on the Wear OS community, Google elaborates on the changes to come so users know what to expect. The new Material You design for the Play Store will be part of the wider release of the overall new Wear OS design.
 
 
+***
+![AI-powered deep neural nets increase accuracy for credit score predictions](https://venturebeat.com/wp-content/uploads/2021/07/karma.png?w=1200&strip=all "AI-powered deep neural nets increase accuracy for credit score predictions")
+
+
+[AI-powered deep neural nets increase accuracy for credit score predictions](https://venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/)
+
+
+> All the sessions from Transform 2021 are available on-demand now. Watch now. Credit Karma has more than 110 million users and a customer approval rate of 90%, but it wasn't always this way. When the company launched 14 years ago, its approval percentages were in the single digits, chief technical officer Ryan Graciano said during VentureBeat's virtual Transform 2021 conference last week. The reason for this turnaround? Big data and machine learning. When Credit Karma started out in 2007, the company relied on traditional datacenters because the cloud still wasn't part of the conversation.
+
+
+***
+[成員來來去去，Apple Car 團隊仍然堅強](https://technews.tw/2021/07/20/apple-electric-car-team/)
+
+
+> 16 日外媒 Business Insider 報導，蘋果技術副總裁 Kevin Lynch 將加入 Appl […]
+
+
+***
+![What does it mean to 'level up'? Boris Johnson predicts a ‘win-win' situation in the aftermath of the pandemic.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "What does it mean to 'level up'? Boris Johnson predicts a ‘win-win' situation in the aftermath of the pandemic.")
+
+
+[What does it mean to 'level up'? Boris Johnson predicts a ‘win-win' situation in the aftermath of the pandemic.](https://en.brinkwire.com/news/what-does-it-mean-to-level-up-boris-johnson-predicts-a-win-win-situation-in-the-aftermath-of-the-pandemic/)
+
+
+> What does it mean to 'level up'? Boris Johnson predicts a ‘win-win' situation in the aftermath of the pandemic. LEVELLING UP has been a Conservative policy since the 2019 general election, and it is seen to be a major factor in the recent surge in Red Wall voters coming to the Conservatives. Since December 2019, the term 'leveling up' has been tossed around in political language championed by top Conservative Government Ministers. The phrase is a crucial strategy for the Conservatives, and Prime Minister Boris Johnson committed on July 15 to make it a priority in his leadership agenda, despite the fact that the battle in this area has become more difficult in the aftermath of the coronavirus outbreak.
+
+
+***
+![Vaccine reservation system is working again... Controversy over sharing of 'cutting reservation method'](https://img.sbs.co.kr/newimg/news/20210720/201572509_1280.jpg "Vaccine reservation system is working again... Controversy over sharing of 'cutting reservation method'")
+
+
+[Vaccine reservation system is working again... Controversy over sharing of 'cutting reservation method'](https://www.tellerreport.com/tech/2021-07-20-vaccine-reservation-system-is-working-again----controversy-over-sharing-of--cutting-reservation-method-.Bkgh-4q70u.html)
+
+
+> Pre-vaccination reservations for the 53-54-year-olds started last night, but the reservation system has stopped working again. Most citizens were frustrated when they saw the instructions to wait for more than tens of hours, but some users online shared how to make a reservation using a loophole in the reservation system, causing controversy. Pre-vaccination reservations for the 53-54-year-olds started from the night of last night (19th), but the reservation system has stopped working. Most citizens were frustrated when they saw the instructions to wait for more than tens of hours, but some users online shared how to make a reservation using a loophole in the reservation system, causing controversy.
+
+
+***
+![RTX 3080 restock Best Buy in store: Nvidia GPU sale tomorrow – here's when](https://cdn.mos.cms.futurecdn.net/DEj5LZts2qrng9UKtpWo2g-1200-80.jpg "RTX 3080 restock Best Buy in store: Nvidia GPU sale tomorrow – here's when")
+
+
+[RTX 3080 restock Best Buy in store: Nvidia GPU sale tomorrow – here's when](https://www.techradar.com/news/best-buy-stores-nvidia-rtx-3080-in-stock-date-and-time)
+
+
+> (Image credit: Future) The RTX 3080, RTX 3090 and other Nvidia GeForce graphics cards will be in stock at Best Buy in stores tomorrow morning, and our GPU restock Twitter tracker Matt Swider will report on when lines form, Nvidia GPU stock levels, and what time things become crowded. The Best Buy RTX in-store restock for Tuesday, July 20 is scheduled to happen at selection locations – we have a list below of 108 stores in the US – and we expect massive crowds, which we'll tweet about in a few hours as they form.
+
+
