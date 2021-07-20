@@ -44821,3 +44821,50 @@
 > Snapchat is getting a new feature which will allow you to view a three dimensional version of yourselves on your Snapchat and Friendship Profile. Snapchat Profiles are now getting a new look which will allow to browse from over 1,200 combinations of body poses, facial expressions, gestures, and backgrounds to better personalise digital avatars on the platform. Users will be able to match their 3D Bitmoji with their mood including peace signs, prayer hands, scenic beaches and animal print backgrounds.
 
 
+***
+![This is why you should buy a curved gaming monitor while it's on sale](https://icdn.digitaltrends.com/image/digitaltrends/samsung-odyssey-2.jpg "This is why you should buy a curved gaming monitor while it's on sale")
+
+
+[This is why you should buy a curved gaming monitor while it's on sale](https://www.digitaltrends.com/dtdeals/samsung-odyssey-g7-series-monitor-deal-amazon-july-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. We'll cut to the chase — if you play a lot of games, you need a curved gaming monitor. Of course, we're all too happy to explain why a curved gaming monitor is such a good idea but if you simply want to know what's best, you need to snap one up. Now. Now is the key because Amazon currently has a Samsung Odyssey G7 Series 32-inch WQHD gaming monitor for just $700 which is a massive saving of $100 on the usual price. This is your time to see just why curved gaming monitors are so great and at a good discount, but if you still need a little convincing, we're on hand to help you out.
+
+
+***
+![Police show off their new £88,000 sports car, which will be used to combat crime.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Police show off their new £88,000 sports car, which will be used to combat crime.")
+
+
+[Police show off their new £88,000 sports car, which will be used to combat crime.](https://en.brinkwire.com/technology/police-show-off-their-new-88000-sports-car-which-will-be-used-to-combat-crime/)
+
+
+> Police show off their new £88,000 sports car, which will be used to combat crime. A POLICE FORCE has unveiled a new supercharged sports car capable of reaching speeds of 180 mph. According to Devon and Cornwall Police, this 3.5-liter Lotus Evora GT410 Sport will aid in the fight against crime. The £88,000 motor is on loan to the police force for a year, but no details on how it will be used have been released. Prior to its usage, the police department utilized Twitter to disseminate photographs of the car, which is replete with high-visibility police markings.
+
+
+***
+[How China Transformed Into a Prime Cyber Threat to the U.S.: NYT](https://www.nytimes.com/2021/07/19/technology/china-hacking-us.html)
+
+
+> On Monday, the United States again accused China of cyberattacks. But these attacks were highly aggressive, and they reveal that China has transformed into a far more sophisticated and mature digital adversary than the one that flummoxed U.S. officials a decade ago.
+
+
+***
+![LG is going to sell iPhones in its LG Best Shop stores despite opposition](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/iphone-12-pro-review-27.jpg "LG is going to sell iPhones in its LG Best Shop stores despite opposition")
+
+
+[LG is going to sell iPhones in its LG Best Shop stores despite opposition](https://www.imore.com/lg-going-sell-iphones-its-korean-lg-best-shop-stores-despite-opposition)
+
+
+> Source: iMore LG is set to begin selling iPhones in its Korean LG Best Shop stores starting next month, according to a new report. This is despite the company coming in for strong opposition to the move and going as far as to suspend talks with Apple earlier this month. It was reported in June that Apple was talking to LG about the possibility of selling iPhones in its stores. LG has recently pulled out of the smartphone market, and Apple saw the opportunity to take some of its vacant shelf space.
+
+
+***
+![Rad Power Bikes reveals more user-friendly next gen e-bike RadRover 6 Plus for $1,999 – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/R6HS_2.jpg?w=600 "Rad Power Bikes reveals more user-friendly next gen e-bike RadRover 6 Plus for $1,999 – TechCrunch")
+
+
+[Rad Power Bikes reveals more user-friendly next gen e-bike RadRover 6 Plus for $1,999 – TechCrunch](https://techcrunch.com/2021/07/20/rad-power-bikes-reveals-more-user-friendly-next-gen-e-bike-radrover-6-plus-for-1999/)
+
+
+> Electric fat tire bike manufacturer Rad Power Bikes has unveiled the latest model of its flagship RadRover, and at $1,999, it appears to be cheaper than its predecessor, which goes for $1,699. The updates on the RadRover 6 Plus are emblematic of the company's mission to enhance rider experience, especially for those who don't identify as bike riders but are looking for a more eco-friendly way to travel. 'We develop powerful, reliable bikes, bikes that are confidence-inspiring and easy to use,' Redwood Stephens, chief product officer of Rad Power Bikes, told TechCrunch.
+
+
