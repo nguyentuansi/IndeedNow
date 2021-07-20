@@ -44589,3 +44589,50 @@
 > (Image credit: Future) The RTX 3080, RTX 3090 and other Nvidia GeForce graphics cards will be in stock at Best Buy in stores tomorrow morning, and our GPU restock Twitter tracker Matt Swider will report on when lines form, Nvidia GPU stock levels, and what time things become crowded. The Best Buy RTX in-store restock for Tuesday, July 20 is scheduled to happen at selection locations – we have a list below of 108 stores in the US – and we expect massive crowds, which we'll tweet about in a few hours as they form.
 
 
+***
+[User Login for Spotify](https://www.reddit.com/r/Python/comments/onstpt/user_login_for_spotify/)
+
+
+> So I'm trying to make a script where a user logs in with Spotify and it provides a graphic representation of the stats of a playlist. I've done a fair bit of research on the API, but the authentication step really confuses me. Could someone tell me if it's possible to do the whole process in Python, or if any other languages or resources are needed, and if it's indeed possible, give me some direction?Thanks in advance
+
+
+***
+![Does anyone else get annoyed by a wet watch?](https://images.macrumors.com/social/?t=2304812&v=6 "Does anyone else get annoyed by a wet watch?")
+
+
+[Does anyone else get annoyed by a wet watch?](https://forums.macrumors.com/threads/does-anyone-else-get-annoyed-by-a-wet-watch.2304812/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Jun 29, 2021 158 283 Wales I find it so irritating when I've washed my hands for example and after drying I can feel the wet still under the watch and I have to take it off for a bit. Fabric straps soaking up water too drives me nuts. At least the sports straps dry easily with a towel though. Just wondering if anyone else gets this? Maybe with any watch tbf.
+
+
+***
+![Decision Tree Classification Explained With SciKit Learn in Python](https://external-preview.redd.it/-9W0j-V6tu5rOvun1tftWZsP4RcVD1ghlAksxUEfDkw.jpg?auto=webp&s=4f482dc5caa85bff8e107d9aaf871e1dd5993ba5 "Decision Tree Classification Explained With SciKit Learn in Python")
+
+
+[Decision Tree Classification Explained With SciKit Learn in Python](https://www.reddit.com/r/programming/comments/ons9rz/decision_tree_classification_explained_with/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Twitter Suspends Marjorie Taylor Greene for Posting Coronavirus Misinformation](https://external-preview.redd.it/ioIRr7FGuzlDiKIZeQBk51XPf5hcAsTIjOtjR0Cyihg.jpg?auto=webp&s=296ec95cd43474d768367e6b6a0249c47c74edf9 "Twitter Suspends Marjorie Taylor Greene for Posting Coronavirus Misinformation")
+
+
+[Twitter Suspends Marjorie Taylor Greene for Posting Coronavirus Misinformation](https://www.reddit.com/r/technology/comments/ons86z/twitter_suspends_marjorie_taylor_greene_for/)
+
+
+> Suspend all the Q-unts for good. They'll still have free reign on FB though, because Zuckerdroid doesn't give a fuck
+
+
+***
+![Telstra's currently flogging the iPhone 12 mini for just AU$799](https://cdn.mos.cms.futurecdn.net/4fxJtRFSxRMGs6yUsjhrkS-1200-80.jpg "Telstra's currently flogging the iPhone 12 mini for just AU$799")
+
+
+[Telstra's currently flogging the iPhone 12 mini for just AU$799](https://www.techradar.com/news/telstras-currently-flogging-the-iphone-12-mini-for-just-audollar799)
+
+
+> (Image credit: TechRadar) Telstra's already discounted the iPhone 12 range a few times this year, but none of these deals have been as steep as this. The telco has slashed AU$400 off the iPhone 12 mini for seven days only, so you'll get the device for just AU$799.It's a pretty epic deal, and it's available from today, July 20 until Monday, July 26.You've got the choice of paying the device off over 12 or 24 months, or you can choose to buy it outright. There's a caveat here though – to be eligible for the AU$400 discount, you'll need to pair the handset with a Telstra plan.
+
+
