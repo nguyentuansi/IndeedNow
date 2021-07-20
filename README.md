@@ -44918,3 +44918,53 @@
 > July 20, 2021 10:00 AM Eastern Daylight Time AUSTIN, Texas--(BUSINESS WIRE)--TCP Software, a leading provider of workforce management and time and labor solutions, today announced that the first phase of integration between its TimeClock Plus solution and Humanity Scheduling is now available. The offering combines the robust workforce management and time and attendance capabilities of TimeClock Plus with the flexible and intuitive employee scheduling experience offered by Humanity Scheduling. Disparate systems introduce significant risk to organizations; the same data has to be entered into each system manually, making it difficult to maintain and scale effectively.
 
 
+***
+![Best password managers: Secure your accounts and never forget your login details again](https://static.independent.co.uk/2021/07/20/14/password%20managers.jpg?width=1200&auto=webp&quality=75 "Best password managers: Secure your accounts and never forget your login details again")
+
+
+[Best password managers: Secure your accounts and never forget your login details again](https://www.independent.co.uk/extras/indybest/gadgets-tech/best-password-manager-b1884138.html)
+
+
+> The most common password in the world is ‘123456'.Chances are – if you're not already using a good password manager – your own password isn't much stronger than that. People tend to use familiar words and dates to make their passwords easier to remember: things like their pet's name followed by the year they were born, or their favourite football team followed by a rude word, or their favourite food with a couple of the letters swapped out for digits.These types of password are relatively straightforward for a hacker to guess, whether by snooping around your social media pages or by using brute force – that is, cycling through every possible word combination in the dictionary until the correct password is eventually found.
+
+
+***
+![Federal Judge: Indiana University's Vaccine Mandate for Students Will Stand](https://media.breitbart.com/media/2021/07/Vaccine-1-640x335.jpeg "Federal Judge: Indiana University's Vaccine Mandate for Students Will Stand")
+
+
+[Federal Judge: Indiana University's Vaccine Mandate for Students Will Stand](https://www.breitbart.com/tech/2021/07/20/federal-judge-indiana-universitys-vaccine-mandate-for-students-will-stand/)
+
+
+> A federal judge has ruled that Indiana University is allowed to continue mandating coronavirus vaccines for students in order for them to return to in-person classes on campus this fall. In his ruling, U.S. district judge Damon Leichty said that Indiana University is not forcing anyone to get a vaccine, according to a report by NPR. While it is true that students can qualify for an exemption, those who do not get vaccinated against the Chinese coronavirus are subject to coronavirus testing, and will be forced to wear a mask while on campus.
+
+
+***
+![New ‘Streets of Rage 4' update turns fighters into gods, making a great game even better](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I2II5QVO4NCOLKXMY4ERCYI64Y.jpeg&w=1440 "New ‘Streets of Rage 4' update turns fighters into gods, making a great game even better")
+
+
+[New ‘Streets of Rage 4' update turns fighters into gods, making a great game even better](https://www.washingtonpost.com/video-games/reviews/streets-rage-4-update/)
+
+
+> While playing the new content for 'Streets of Rage 4,' my fighter, Cherry Hunter, picked up a new power-up item during a break between matches. Sadly, it was obscured by the scattered weapons, so I didn't see what power I received. No matter, I thought, I would just see what the next round entails.Support our journalism. Subscribe today.Turns out, it infused Cherry's punches with lightning. My favorite fighter in last year's exceptional beat-'em-up game had been gaining god-like powers for a few rounds now.
+
+
+***
+![Take 5: A Pencil Filled with Pencils, Apple Airpods Max, and My Favorite Surface Laptop](https://design-milk.com/images/2021/07/MusgravePencilCo_PencilVarietyPack_2_1024x1024@2x.jpg "Take 5: A Pencil Filled with Pencils, Apple Airpods Max, and My Favorite Surface Laptop")
+
+
+[Take 5: A Pencil Filled with Pencils, Apple Airpods Max, and My Favorite Surface Laptop](https://design-milk.com/take-5-a-pencil-filled-with-pencils-airpods-max-the-surface-laptop-4/)
+
+
+> 1. Musgrave Pencil Company Heritage Collection Even though I'm typically someone who embraces technology, there are certain luddite tendencies that I continue to hold onto, including a lifelong love affair of pencils and pens. Musgrave Pencil Company's 12 pencils Heritage Collection appeals to this affinity in joyous fashion, allowing me to enjoy a pencil for every month of the year stored within an enormous 13th pencil. I only wish the 'eraser' end really could be used as the real thing. 2. Iris van Herpen Earthrise Collection One of the most exciting developments that has been picking up steam in fashion is the incorporation of recycled materials gathered from the vast amounts of discarded plastics and microplastics polluting our oceans.
+
+
+***
+![How kids and seniors prompted Qualcomm to heavily invest in wearables](https://icdn.digitaltrends.com/image/digitaltrends/ticwatch-e3-wrist-side-lugs.jpg "How kids and seniors prompted Qualcomm to heavily invest in wearables")
+
+
+[How kids and seniors prompted Qualcomm to heavily invest in wearables](https://www.digitaltrends.com/wearables/qualcomm-wearables-ecosystem-accelerator-snapdragon-wear-interview/)
+
+
+> Just a few weeks after Google and Samsung revealed their collaborative Wear software platform, Qualcomm has announced the Wearables Ecosystem Accelerator program, through which it aims to bring together hardware and software companies working on wearable devices and help speed up the launch of new products. Combined, these are significant steps forward in the effort to make smartwatches that truly compete with the Apple Watch, and other exciting wearables too. Digital Trends spoke to Qualcomm's Director of Product Marketing for Wearables, Ally Choi, about the program, Qualcomm's major plans for the future of Snapdragon Wear chips, and how kids and seniors are surprisingly instrumental in driving wearable innovation.
+
+
