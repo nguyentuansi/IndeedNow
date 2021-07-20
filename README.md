@@ -44683,3 +44683,44 @@
 > David Beckham is a big supporter of electric automobiles and has put a lot of money into the electrification of antique cars. DAVID BECKHAM has invested in an electric car firm based in the United Kingdom that specializes in restoring antique cars. As he makes baby steps into the automobile business, the former England star is thought to have purchased a 10% share in Lunaz. At the company's Silverstone factory, the footballer was pictured getting to grips with electric car technology. He not only looked at the various electric models, but he also tried his hand at plugging in an electric charger.
 
 
+***
+![Apple Music Lossless, Dolby Atmos Makes Its Way to India](https://i.gadgets360cdn.com/large/Apple_music_lossless_India_1626760382433.jpg "Apple Music Lossless, Dolby Atmos Makes Its Way to India")
+
+
+[Apple Music Lossless, Dolby Atmos Makes Its Way to India](https://gadgets.ndtv.com/apps/news/apple-music-lossless-dolby-atmos-india-launch-website-updated-official-android-beta-app-2490462)
+
+
+> Apple Music Lossless and support for Dolby Atmos has come to India for ‌Apple Music‌ subscribers and the official Indian website has been updated to mention the latest additions as well. The features were announced back in May and started rolling out in June as part of WWDC 2021 keynote to select regions, but the India launch was delayed. Now, these features have started rolling out to iOS devices and Apple TV, and users have taken to Twitter to share screenshots. Additionally, Apple Music beta users on Android are also receiving these features in India.
+
+
+***
+[YouTube acquires India-based social commerce startup Simsim, sources say for over $70M; Simsim had raised $17M till date and was last valued at $50.1M (Manish Singh/TechCrunch)](http://www.techmeme.com/210720/p2#a210720p2)
+
+
+> Manish Singh / TechCrunch: YouTube acquires India-based social commerce startup Simsim, sources say for over $70M; Simsim had raised $17M till date and was last valued at $50.1M — YouTube has acquired social commerce startup Simsim, the Google-owned firm said on Tuesday. Neither of the firms disclosed the terms of the deal …
+
+
+***
+![HBO's The Last of Us Might Cost More Than Game of Thrones: Report](https://i.gadgets360cdn.com/large/last_of_us_filming_calgary_1626759960841.jpg "HBO's The Last of Us Might Cost More Than Game of Thrones: Report")
+
+
+[HBO's The Last of Us Might Cost More Than Game of Thrones: Report](https://gadgets.ndtv.com/entertainment/news/last-of-us-hbo-budget-100-million-filming-canada-series-cast-game-of-thrones-2490455)
+
+
+> HBO's The Last of Us series costs over a hundred million dollars for its first season, according to a new report. An individual involved with the TV show's production called it 'likely the largest' film production ever set up in Canada, noting that every episode 'well exceeds the eight figure per episode mark'. That means each episode costs tens of millions of dollars, and since The Last of Us season 1 will have 10 episodes, you're looking at a $100 million+ budget. There's no clarity on whether the source is talking in USD or CAD though, so The Last of Us budget could range from Rs.
+
+
+***
+[Another FREE channel is coming to your Samsung TV, and the timing couldn't be better.](https://en.brinkwire.com/technology/another-free-channel-is-coming-to-your-samsung-tv-and-the-timing-couldnt-be-better/)
+
+
+> Another FREE channel is coming to your Samsung TV, and the timing couldn't be better.Rakuten TV has announced that more content would be appearing on its platform, which will benefit Samsung and LG TV users.With a number of streaming services arriving on these popular TVs this year, Samsung television viewers have already received a slew of free material. There's a new blockbuster channel on the way, and it won't cost you a thing to watch it. Rakuten TV has announced that it would add more family entertainment to its repertoire with the debut of the LEGO channel in the UK, just in time for the extended six-week school vacations.
+
+
+***
+[digital fulfillment](https://itwire.com/freelancer-sp-720/tag/digital%20fulfillment.html)
+
+
+> PROMOTIONAL NEWS INTERVIEW: iTWire spoke with the company's Melbourne-based Vice President of Sales, Daniel Kohut about Blue Yonder's expansion into ANZ and some key trends affecting the local market, with the company stating its "award-winning digital fulfillment platform and end-to-end supply chain management solutions help over 3000 customers worldwide make smarter business decisions."
+
+
