@@ -45462,3 +45462,53 @@
 > More than half of the U.S. population has stayed away from considering life insurance because they believe it's probably too expensive, and the most common way to buy it today is in person. A startup that's built a platform that aims to break down those conventions and democratize the process by making life insurance (and the benefits of it) more accessible is today announcing significant funding to fuel its rapidly growing business. Ethos, which uses more than 300,000 data points online to determine a person's eligibility for life insurance policies, which are offered as either term or whole life packages starting at $8/month, has picked up $100 million from a single investor, SoftBank Vision Fund 2.
 
 
+***
+![Witcher: Nightmare of the Wolf trailer teases a wild ride for Vesemir](https://cdn.mos.cms.futurecdn.net/pHN5rsH3pdioEgE4s9N3Yo-1200-80.jpg "Witcher: Nightmare of the Wolf trailer teases a wild ride for Vesemir")
+
+
+[Witcher: Nightmare of the Wolf trailer teases a wild ride for Vesemir](https://www.techradar.com/news/witcher-nightmare-of-the-wolf-trailer-teases-a-wild-ride-for-vesemir)
+
+
+> (Image credit: Netflix) If you thought that Netflix was about to leave its Witcher fanbase devoid of content to enjoy before The Witcher season 2's arrival, think again.The streaming giant is gearing up to release The Witcher: Nightmare of the Wolf – an anime-style prequel movie that focuses on the origins of Geralt's mentor Vesemir – on August 23.Until recently, we'd only received a release date announcement trailer to give us a glimpse at Netflix's next Witcher production. That's changed now, though, after the streamer released a teaser trailer for its upcoming animated feature film.
+
+
+***
+![How Google Maps can help you AVOID people on the train and other public transport](https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/MT-GOOGLE-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "How Google Maps can help you AVOID people on the train and other public transport")
+
+
+[How Google Maps can help you AVOID people on the train and other public transport](https://www.the-sun.com/tech/3290742/google-maps-public-transport-avoid-people-crowds/)
+
+
+> GOOGLE Maps has released an update making it easier to avoid people on the train and other public transport. The app is hoping to help people nervous about returning to public transit as more workplaces open up after more than a year of workING from home. NINTCHDBPICT000315253714Credit: Getty - Contributor Google Maps is expanding its transit crowd predictions which will narrow down how many seats are available on a train. It had previously based its "live" data on trends of how crowded a train would generally be at any given time of the day.
+
+
+***
+![Email privacy with DuckDuckGo](https://itwire.com/media/k2/items/cache/ba60f340cdb9cca978eed6964c0fc91b_XS.jpg "Email privacy with DuckDuckGo")
+
+
+[Email privacy with DuckDuckGo](https://itwire.com/security/email-privacy-with-duckduckgo.html)
+
+
+> Pass out your new DuckDuckGo email address and the service will strip out all the trackers from incoming email before forwarding to your actual address. Announced just yesterday, DuckDuckGo is expanding from their well-known base of totally anonymous search to offer anonymous email. Here's how it works. Users will provide their newly minted @duckduckgo.com email address to any location that they suspect might want to send emails with embedded trackers (that's probably every commercial organisation!).
+
+
+***
+![Arvig Selects IDI Billing Solutions to Modernize Billing and Back Office Operations](https://mms.businesswire.com/media/20210721005623/en/893032/23/25th_logo_horz1.jpg "Arvig Selects IDI Billing Solutions to Modernize Billing and Back Office Operations")
+
+
+[Arvig Selects IDI Billing Solutions to Modernize Billing and Back Office Operations](https://www.businesswire.com/news/home/20210721005623/en/Arvig-Selects-IDI-Billing-Solutions-to-Modernize-Billing-and-Back-Office-Operations)
+
+
+> July 21, 2021 09:45 AM Eastern Daylight Time VICTOR, N.Y.--(BUSINESS WIRE)--IDI Billing Solutions, a global provider of cloud-based billing, automation and workflow solutions for Communications Service Providers, announced today that it has added Arvig to its growing customer base. Arvig, a Minnesota employee-owned Telecommunications Company, has signed a services agreement with IDI to provide a comprehensive billing and customer care solution to support their growth plans and improve overall back-office agility.
+
+
+***
+![XLoader malware infects Macs now; collects keystrokes, screenshots, and more](https://external-preview.redd.it/Sp8Puqv57MQeCFmlaRe8nuvyioHrwuP6Y17KJzpc1I4.jpg?auto=webp&s=ab5cf1bcc689224f0b58b59201ad8cbc79536fbf "XLoader malware infects Macs now; collects keystrokes, screenshots, and more")
+
+
+[XLoader malware infects Macs now; collects keystrokes, screenshots, and more](https://www.reddit.com/r/technology/comments/ooq3wg/xloader_malware_infects_macs_now_collects/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
