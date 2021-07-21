@@ -45215,3 +45215,53 @@
 > Under the $52 million contract, IT services management company Empired will provide digital managed services across Environmental Protection Authority (EPA) of Victoria's cloud platforms, networks, and business applications. Empired has secured a managed services contract with the Environmental Protection Authority of Victoria. The contract will initially last for four years, plus two one-year options to extend, allowing for the provision of services for up to six years. Throughout the potential six-year term, the managed services contract has an estimated value of $52 million based on an estimated base services revenue of approximately $8.
 
 
+***
+![Knight Foundation to invest $5M in research to combat misinformation](https://thehill.com/sites/default/files/mobilephone_istock_092718.jpg "Knight Foundation to invest $5M in research to combat misinformation")
+
+
+[Knight Foundation to invest $5M in research to combat misinformation](https://thehill.com/policy/technology/563971-knight-foundation-to-invest-5m-in-research-to-combat-misinformation)
+
+
+> The Knight Foundation will invest $5 million in research projects aimed at addressing online misinformation with a focus on the impact on communities of color, the non-profit organization said Wednesday. The investment includes a $1.5 million open call for proposals for research that 'can lead to effective interventions to mitigate the effects of racialized disinformation or targeted manipulation of communities of color,' according to the Knight Foundation announcement. 'Demand is only growing for fresh thinking about our democracy's digital information challenges,' John Sands, Knight's director of learning and impact, said in the announcement.
+
+
+***
+![For trailers and RVs, electric automobiles have 'little or no towing capability.'](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "For trailers and RVs, electric automobiles have 'little or no towing capability.'")
+
+
+[For trailers and RVs, electric automobiles have 'little or no towing capability.'](https://en.brinkwire.com/technology/for-trailers-and-rvs-electric-automobiles-have-little-or-no-towing-capability/)
+
+
+> For trailers and RVs, electric automobiles have 'little or no towing capability.' According to Which?, drivers who buy an electric car may not be able to tow caravans or RVs. Most electric automobiles, according to experts, 'have little or no towing capability,' which could jeopardize some summer plans. With foreign vacations no longer an option, staycations are expected to become more popular in 2021. Owners of the UK's newest cars, on the other hand, may find themselves entirely stranded. Which? isn't all doom and gloom, either.
+
+
+***
+![Instagram rolling out Sensitive Content Control option to let users control what appears on their feeds](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/screenshot_2021-07-21_at_9.04._1200x768-original.png "Instagram rolling out Sensitive Content Control option to let users control what appears on their feeds")
+
+
+[Instagram rolling out Sensitive Content Control option to let users control what appears on their feeds](https://www.indiatoday.in/technology/news/story/instagram-rolling-out-sensitive-content-control-option-to-let-users-control-what-appears-on-their-feeds-1830655-2021-07-21)
+
+
+> Ankita Chakravarti New Delhi, Jul 21, 2021, Updated Jul 21, 2021, 9:12 AM IST Story highlights Instagram olling out a Sensitive Content Control option that lets users control what appears on their Explore feeds. The feature would let users adjust the Sensitive Content Control to see more or less of some types of sensitive content. To enable the feature, users can go to Settings menu and choose the option. Instagram on Tuesday announced that it is rolling out a Sensitive Content Control option that lets users control what appears on their Explore feeds.
+
+
+***
+![Electric scooter regulation change in the United Kingdom in 2021: Everything you need to know about e-scooters](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Electric scooter regulation change in the United Kingdom in 2021: Everything you need to know about e-scooters")
+
+
+[Electric scooter regulation change in the United Kingdom in 2021: Everything you need to know about e-scooters](https://en.brinkwire.com/technology/electric-scooter-regulation-change-in-the-united-kingdom-in-2021-everything-you-need-to-know-about-e-scooters/)
+
+
+> Electric scooter regulation change in the United Kingdom in 2021: Everything you need to know about e-scooters As part of a new trial, electric scooters are now allowed on London's roads, but where can you ride them? Electric scooter sales are on the rise, but they are still illegal to ride anyplace while the UK government conducts tests to determine how they can be used securely. In November 2020, retailer Halfords saw an 184 percent year-on-year growth in e-scooter sales, with 28 percent of respondents indicating they would consider replacing their car with an e-scooter to 'help the environment.
+
+
+***
+![#TECH: Geek Fam represents Malaysia at PMWI charity tournament](https://assets.nst.com.my/images/articles/BOTSpubgcharity_NSTfield_image_socialmedia.var_1626838772.jpg "#TECH: Geek Fam represents Malaysia at PMWI charity tournament")
+
+
+[#TECH: Geek Fam represents Malaysia at PMWI charity tournament](https://www.nst.com.my/lifestyle/bots/2021/07/710256/tech-geek-fam-represents-malaysia-pmwi-charity-tournament)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
