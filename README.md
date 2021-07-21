@@ -45512,3 +45512,53 @@
 > no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
 
 
+***
+![Upgrade launches a credit card with bitcoin rewards – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/Upgrade_Card_Contactless.jpg?w=600 "Upgrade launches a credit card with bitcoin rewards – TechCrunch")
+
+
+[Upgrade launches a credit card with bitcoin rewards – TechCrunch](https://techcrunch.com/2021/07/21/upgrade-launches-a-credit-card-with-bitcoin-rewards/)
+
+
+> Fintech startup Upgrade is launching a new credit card today. The Upgrade Bitcoin Rewards Card is a classic Visa credit card that works across the Visa network. But you get 1.5% in bitcoin rewards when you make payments. Upgrade isn't the first company to announce a credit card with bitcoin rewards — but it's the first one that is generally available. If your application is approved, you can start using the virtual card immediately. BlockFi announced its own credit card with bitcoin rewards in December 2020.
+
+
+***
+![Understanding Corsair Gaming's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Understanding Corsair Gaming's Unusual Options Activity")
+
+
+[Understanding Corsair Gaming's Unusual Options Activity](https://www.benzinga.com/markets/options/21/07/22086278/understanding-corsair-gamings-unusual-options-activity)
+
+
+> Corsair Gaming (NASDAQ:CRSR) shares experienced unusual options activity on Wednesday. The stock price moved up to $29.85 following the option alert. Sentiment: BEARISH Option Type: SWEEP Trade Type: PUT Expiration Date: 2021-08-20 Strike Price: $30.00 Volume: 2442 Open Interest: 10142 Three Indications Of Unusual Options Activity Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![Understanding Coupang's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Understanding Coupang's Unusual Options Activity")
+
+
+[Understanding Coupang's Unusual Options Activity](https://www.benzinga.com/markets/options/21/07/22086270/understanding-coupangs-unusual-options-activity)
+
+
+> Coupang (NYSE:CPNG) shares experienced unusual options activity on Wednesday. The stock price moved up to $39.9 following the option alert. Sentiment: BULLISH Option Type: SWEEP Trade Type: PUT Expiration Date: 2021-08-20 Strike Price: $45.00 Volume: 1000 Open Interest: 6894 Three Ways Options Activity Is â€˜Unusual' Exceptionally large volume (compared to historical averages) is one reason for which options market activity can be considered unusual. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
+***
+![Analyzing Costco Wholesale's Unusual Options Activity](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Analyzing Costco Wholesale's Unusual Options Activity")
+
+
+[Analyzing Costco Wholesale's Unusual Options Activity](https://www.benzinga.com/markets/options/21/07/22086268/analyzing-costco-wholesales-unusual-options-activity)
+
+
+> On Wednesday, shares of Costco Wholesale (NASDAQ:COST) saw unusual options activity. After the option alert, the stock price moved down to $415.44. Sentiment: BEARISH Option Type: SWEEP Trade Type: PUT Expiration Date: 2021-08-20 Strike Price: $395.00 Volume: 229 Open Interest: 1002 Three Signs Of Unusual Options Activity Extraordinarily large volume (compared to historical averages) is one indication of unusual options market activity. Volume refers to the total number of contracts traded over a given time period when discussing options market activity.
+
+
+***
+![Unusual Options Activity Insight: Coinbase Global](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png "Unusual Options Activity Insight: Coinbase Global")
+
+
+[Unusual Options Activity Insight: Coinbase Global](https://www.benzinga.com/markets/options/21/07/22086265/unusual-options-activity-insight-coinbase-global)
+
+
+> On Wednesday, shares of Coinbase Global (NASDAQ:COIN) saw unusual options activity. After the option alert, the stock price moved up to $234.15. Sentiment: BULLISH Option Type: SWEEP Trade Type: PUT Expiration Date: 2021-07-23 Strike Price: $225.00 Volume: 621 Open Interest: 832 Three Signs Of Unusual Options Activity One way options market activity can be considered unusual is when volume is exceptionally higher than its historical average. The volume of options activity refers to the number of contracts traded over a given time period.
+
+
