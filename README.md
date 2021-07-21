@@ -45659,3 +45659,50 @@
 > Chance Miller / 9to5Mac: Twitter is testing a way to downvote Tweet replies on iOS to understand the types of replies users find relevant to a conversation; downvotes won't be public — Last year, Twitter's chief product officer Kayvon Beykpour confirmed that the social network was “exploring” the idea of adding a dislike button to the app.
 
 
+***
+![Accell's New Power UV Sanitizer is the Ultimate Sanitizing Solution](https://mms.businesswire.com/media/20210721005960/en/837388/23/Accell_Logo.jpg "Accell's New Power UV Sanitizer is the Ultimate Sanitizing Solution")
+
+
+[Accell's New Power UV Sanitizer is the Ultimate Sanitizing Solution](https://www.businesswire.com/news/home/20210721005960/en/Accell%E2%80%99s-New-Power-UV-Sanitizer-is-the-Ultimate-Sanitizing-Solution)
+
+
+> FREMONT, Calif.--(BUSINESS WIRE)--Accell, a provider of innovative power products and enhanced connectivity solutions, today announced the official release of the new Accell Power UV Sanitizer with Wireless Charging, which has been certified by the Environmental Protection Agency, confirming the company meets the EPA's standards for protecting the environment. Equipped with UV light, this easy-to-use sanitizer is ideal for killing germs in just five brief minutes on many frequently used items, including masks, smartphones, keys, jewelry, watches, glasses and baby accessories.
+
+
+***
+[In how many ways can a list be copied?](https://www.reddit.com/r/Python/comments/oozxfh/in_how_many_ways_can_a_list_be_copied/)
+
+
+> Mention just one unique (I.e one that hasn't been given already) method of creating a shallow copy of a list using core python (i.e no imports) and without (directly or indirectly) converting it into another iterable type.Also try to name/describe the concept or feature applied and possibly give a link to a reliable resource explaining it (like the docs), if not obvious from the context of the code.The purpose of this is so that everyone who sees this can learn one or two new things from it.Mine is:*new_list, = old_list The feature is called starred-target assignment (according to the python documentation).
+
+
+***
+![Why Air Travel Is So Difficult Right Now](https://compote.slate.com/images/cd7c96de-5b3f-4b8a-bf68-83b41587dc7b.jpeg?width=780&height=520&rect=7191x4794&offset=0x0 "Why Air Travel Is So Difficult Right Now")
+
+
+[Why Air Travel Is So Difficult Right Now](https://slate.com/technology/2021/07/flights-travel-cancellations-delays.html)
+
+
+> During the pandemic, lots of Americans thought longingly about all of the travel they were missing. But when they show up to the airport for their first flight since early 2020, many are finding delayed and canceled flights. If you type in 'flight delayed' in the Twitter search bar, there will be new posts almost every minute from people complaining about missing connecting flights, work events, and weddings. Delays and cancellations this summer have become a common problem for the whole industry.
+
+
+***
+![Sony's new Dolby Atmos soundbar is a better companion for Xbox Series X than PS5](https://cdn.mos.cms.futurecdn.net/Pg7WFLPntkGpKtaAoHa5Sf-1200-80.jpg "Sony's new Dolby Atmos soundbar is a better companion for Xbox Series X than PS5")
+
+
+[Sony's new Dolby Atmos soundbar is a better companion for Xbox Series X than PS5](https://www.techradar.com/news/sonys-new-dolby-atmos-soundbar-is-a-better-companion-for-xbox-series-x-than-ps5)
+
+
+> (Image credit: Sony) Earlier this week, Sony dropped the news that it will replace its longstanding HT-ST5000 Soundbar with a new model – the Sony HT-A7000. Sony's latest flagship soundbar will run you a whopping $1,299 / AU$1,699 (about £950), but it's a 7.1.2 system with built-in upfiring speakers for Dolby Atmos, full HDMI 2.1 passthrough for 4K/120Hz support and Dolby Vision HDR. It's a fantastic list – and one, you might argue – that makes it the perfect soundbar for Xbox Series X. That's because Microsoft's console is the only one out there right now that supports Dolby Vision HDR and Dolby Atmos.
+
+
+***
+![The best Microsoft Surface deals in July 2021](https://cdn.mos.cms.futurecdn.net/GNrEWjunicxGWWDgTJBqV7-1200-80.jpg "The best Microsoft Surface deals in July 2021")
+
+
+[The best Microsoft Surface deals in July 2021](https://www.laptopmag.com/news/best-microsoft-surface-deals)
+
+
+> Retailers are celebrating the summer with the best Microsoft Surface deals. We're currently seeing solid discounts on Microsoft laptops and tablets.For example, Best Buy continues to offer the Surface Laptop 3 for $799. When not on sale, this laptop would set you back $1,000, so that's $200 off its normal price. This is one of the best Surface deals available this week.So if you're looking for the best Surface device deals, you've come to the right place. We're listing all the best deals on Surface devices from the new Surface Laptop 4, to the Editor's Choice Surface Laptop 3, and powerful Surface Pro X tablet.
+
+
