@@ -45612,3 +45612,50 @@
 > July 21, 2021 01:55 PM Eastern Daylight Time REDWOOD CITY, Calif.--(BUSINESS WIRE)--Alation Inc., the leader in enterprise data intelligence solutions, has been named a Leader in 'The Forrester Wave™: Data Governance Solutions, Q3 2021' report. Alation received the highest score in the current offering category and received the highest possible scores in 17 criteria, including solution vision. The report evaluated 12 data governance solution providers. In the current offering category, Alation received the highest score possible in the data discovery and access, and data governance management criteria, and tied for highest score in the stewardship management criteria.
 
 
+***
+![Ethereum price sky rockets after Elon Musk reveals he personally invested in bitcoin rival](https://static.independent.co.uk/2021/05/14/12/newFile-11.jpg?width=1200&auto=webp&quality=75 "Ethereum price sky rockets after Elon Musk reveals he personally invested in bitcoin rival")
+
+
+[Ethereum price sky rockets after Elon Musk reveals he personally invested in bitcoin rival](https://www.independent.co.uk/life-style/gadgets-and-tech/ethereum-price-elon-musk-bitcoin-b1888181.html)
+
+
+> The price of Ethereum (ether) has shot up after Elon Musk revealed that he personally invested in the cryptocurrency.The technology billionaire was speaking at The ₿ Word conference on Wednesday, alongside Twitter CEO and prominent crypto advocate Jack Dorsey, with his comments pushing the bitcoin rival above $2,000.'Bitcoin does some things well, and it's evolving... Usability for the average person is not great but it has a lot of potential,' he said.'On balance I support bitcoin and cryptocurrency in general.
+
+
+***
+![UK man arrested for massive Twitter hack that targeted Biden, Musk in 2020](https://www.cnet.com/a/img/yJgVkX8c019FEpdoCglxznp2yTs=/1200x630/2020/01/08/46dd9291-5232-4c79-a552-8a39dd0aad8a/twitter-9841.jpg "UK man arrested for massive Twitter hack that targeted Biden, Musk in 2020")
+
+
+[UK man arrested for massive Twitter hack that targeted Biden, Musk in 2020](https://www.cnet.com/tech/services-and-software/uk-man-arrested-for-massive-twitter-hack-that-targeted-biden-musk-in-2020/)
+
+
+> James Martin/CNET A UK man was arrested in Spain for his alleged role in a massive hack of high-profile Twitter accounts that targeted politicians and celebrities in 2020, the US Department of Justice said Wednesday.Spanish National Police arrested 22-year-old Joseph O'Connor on behalf of US authorities. In a criminal complaint filed in federal court in San Francisco, O'Connor was also charged with computer intrusions related to takeovers of TikTok and Snapchat user accounts, along with cyberstalking a juvenile.
+
+
+***
+![Google Maps now helps you avoid crowded public transportation](https://www.cnet.com/a/img/jzLzyxx2drldfhhH9sK4esfa9kk=/1200x630/2019/12/04/d4db72b6-e978-4376-8064-cf527bc6d5ae/google-maps-logo-phone-2.jpg "Google Maps now helps you avoid crowded public transportation")
+
+
+[Google Maps now helps you avoid crowded public transportation](https://www.cnet.com/tech/google-maps-now-helps-you-avoid-crowded-public-transportation/)
+
+
+> Google Maps now transit crowd predictions in 100 countries.  Angela Lang/CNET Google Maps is adding transit crowd predictions to 10,000 transit systems in 100 countries. The transit predictions are based on AI technology, user feedback and location trends over time, the search giant said Wednesday. And in New York and Sydney, the crowdedness indicator is even at a car-by-car level -- so you'll know which parts of the train to avoid. "It's no surprise that transit ridership took a drastic plunge during the early days of the pandemic.
+
+
+***
+![Tesla Prices By Model: What's The Cheapest & Most Expensive?](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/07/Teslas-on-the-road.jpg "Tesla Prices By Model: What's The Cheapest & Most Expensive?")
+
+
+[Tesla Prices By Model: What's The Cheapest & Most Expensive?](https://screenrant.com/tesla-prices-by-model-cheapest-most-expensive-cost-options/)
+
+
+> For anyone considering purchasing a Tesla, the first decision to make is which model and the starting price of each can have a direct impact on the decision-making process. Technically, A Tesla is not the cheapest of cars, electric or otherwise, but their tech-focused design and access to Full Self-Driving has made them popular options for electric vehicle shoppers. In part thanks to the leadership of Elon Musk, Tesla has emerged as an interesting company within the electric vehicle space. CEO aside, the company has made a name for itself through its advancements in electric vehicle technologies, such as in the Autopilot and battery departments.
+
+
+***
+[Twitter is testing a way to downvote Tweet replies on iOS to understand the types of replies users find relevant to a conversation; downvotes won't be public (Chance Miller/9to5Mac)](http://www.techmeme.com/210721/p40#a210721p40)
+
+
+> Chance Miller / 9to5Mac: Twitter is testing a way to downvote Tweet replies on iOS to understand the types of replies users find relevant to a conversation; downvotes won't be public — Last year, Twitter's chief product officer Kayvon Beykpour confirmed that the social network was “exploring” the idea of adding a dislike button to the app.
+
+
