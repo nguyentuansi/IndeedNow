@@ -45362,3 +45362,53 @@
 > Aqara HomeKit accessories are now available from the Apple Store Online in a range of European countries, the company has today announced. Aqara products will be available from the Apple Store Online in France, Germany, Italy, Spain, and the UK. To date, Aqara products have only been stocked in Apple Stores in Mainland China, Hong Kong, and Macao. The product lineup for ‌Apple Stores‌ in Europe include the Hub M2, Aqara's latest smart home hub, and the Camera Hub G2H, which features HomeKit Secure Video support and home hub capability, as well as the company's Door and Window Sensor, Temperature and Humidity Sensor, and Vibration Sensor.
 
 
+***
+![Tesla to open Supercharger network to other electric cars later this year](https://cdn.mos.cms.futurecdn.net/oePoEBjwbd5E8tfiPYbCqK-1200-80.jpg "Tesla to open Supercharger network to other electric cars later this year")
+
+
+[Tesla to open Supercharger network to other electric cars later this year](https://www.techradar.com/news/tesla-to-open-supercharger-network-to-other-electric-cars-later-this-year)
+
+
+> (Image credit: Nadezda Murmakova / Shutterstock) Electric vehicles (EVs) may be about to get a major shot in the arm thanks to Tesla CEO Elon Musk's plans to open the company's Supercharger network to other EVs later this year.The news comes from a tweet posted by Musk himself, in which the tech mogul also clarified that the only reason the network wasn't already available to other manufacturers was because Tesla, for a long time, "was the only maker of long range electric cars," and so "there was no standard [of charging].
+
+
+***
+![Biden's misinformation crackdown spotlights partisan divide on content reform](https://thehill.com/sites/default/files/article_images/biden_facebook_trump_getty_split.jpg "Biden's misinformation crackdown spotlights partisan divide on content reform")
+
+
+[Biden's misinformation crackdown spotlights partisan divide on content reform](https://thehill.com/policy/technology/563989-bidens-misinformation-crackdown-spotlights-partisan-divide-on-content)
+
+
+> The Biden administration's push to weed out COVID-19 misinformation online is spotlighting calls to reform Section 230, while further highlighting the deep partisan divide among lawmakers' approaches to modify the law that provides tech companies a liability shield.Critical comments against Facebook made by President BidenJoe BidenKentucky lawmaker faces scrutiny for comparing Fauci to Jonestown cult leader Omar leads lawmakers in calling for US envoy to combat Islamophobia Public charter schools group blasts proposed Democratic cut MORE and action taken by Twitter against a controversial lawmaker this week raised the pressure on big tech companies already on defense over their content policies, but also showcased the opposing reasons both parties are concerned.
+
+
+***
+![OLED Burn-In: What Is It and How To Avoid It?](https://icdn.digitaltrends.com/image/digitaltrends/lg-c1-oled-2.jpg "OLED Burn-In: What Is It and How To Avoid It?")
+
+
+[OLED Burn-In: What Is It and How To Avoid It?](https://www.digitaltrends.com/computing/oled-burn-in-how-to-manage/)
+
+
+> OLED technology gives a gorgeous picture, but it isn't perfect. With each pixel emitting its own light, it can wear out at different rates. For example, if a particular area is lit in bright white a lot more than the rest of the display for extended periods of time, that area's peak brightness may not be the same a few years later. This effect also translates to the sub-pixels, where if one color is used excessively compared to the others, a color shift may occur on that particular spot years down the line.
+
+
+***
+![Everything you need to know about Samsung Pay](https://www.cnet.com/a/img/TF1wGIeYc0_YLOtYGXR86LVVxqM=/1200x630/2018/04/25/ef029235-4e02-4909-b015-bcc19ed1dc51/samsungpay-s8.jpg "Everything you need to know about Samsung Pay")
+
+
+[Everything you need to know about Samsung Pay](https://www.cnet.com/tech/services-and-software/samsung-pay-faq-everything-you-need-to-know-mobile-wallet/)
+
+
+> Lexy Savvides/CNET Samsung Pay makes it easy to pay with your phone at places you'd normally use a physical credit or debit card. Just tap your phone or watch to make a contactless payment and away you go. Samsung Pay offers one major feature that rivals like Apple Pay and Google Pay lack. Called MST, or magnetic secure transmission, Samsung Pay works almost anywhere you pay for things -- even at older terminals that haven't been updated to work with contactless payments. But MST is being phased out in the US in 2021, starting with the Galaxy S21 phones, which makes Samsung Pay less of an essential choice on Android.
+
+
+***
+![iPhone 13 mini again tipped to be last small flagship iPhone, says report](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/iphone-12-mini.jpg "iPhone 13 mini again tipped to be last small flagship iPhone, says report")
+
+
+[iPhone 13 mini again tipped to be last small flagship iPhone, says report](https://www.imore.com/iphone-13-mini-again-tipped-be-last-small-flagship-iphone-says-report)
+
+
+> Source: Apple A new report again says the iPhone 13 mini will be the last such 'mini' iPhone, and that in 2022 the iPhone 14 will herald the release of a second 6.7-inch 'Max' iPhone. The news comes from a sweeping Nikkei Asia report regarding Apple's future plans, which indicates that, as per multiple previous reports, Apple's iPhone 12 mini sales "have disappointed", with the company drastically reducing orders for the device this year. Apple is reportedly also pre-empting weaker demand for the iPhone 13 mini as a result.
+
+
