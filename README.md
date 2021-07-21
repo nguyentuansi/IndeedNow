@@ -45118,3 +45118,50 @@
 > Following an alleged launch date for the RX 6600 XT and RX 6600, photos and benchmarks have leaked for the upcoming card. The benchmarks show the RX 6600 XT outperforming Nvidia's RTX 3060 Ti, which should be the card's direct competitor. In a now-removed forum post on Baidu Tieba, the user posted screenshots of both the card and the benchmarks for it. With the Ludashi benchmarking tool — available in China — the RX 6600 XT earned a graphics score of 414,621. That's above an RTX 3060 Ti model on the leaderboards, which earned a score of 413,902, but below another RTX 3060 Ti model, which earned a score of 415,516.
 
 
+***
+![Apple expands availability of U1's Ultra Wideband technology to more countries](https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/10/iPhone-11-Review-U1-Ultra-wideband.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "Apple expands availability of U1's Ultra Wideband technology to more countries")
+
+
+[Apple expands availability of U1's Ultra Wideband technology to more countries](https://9to5mac.com/2021/07/20/apple-expands-availability-of-u1s-ultra-wideband-technology-to-more-countries/)
+
+
+> Apple quietly expanded this week the availability of Ultra Wideband (UWB), which is present in some of its devices, to more countries. UWB technology is used by Apple's U1 chip to provide precise location and spatial awareness. The expansion is likely part of iOS 14.7, which was released earlier this week to users. As noted by MacRumors, Ultra Wideband technology is now available in Argentina, Pakistan, Paraguay, and the Solomon Islands, according to a support page on Apple's website. The article was updated on Tuesday, the day after iOS 14.
+
+
+***
+![Venmo Is Removing Its Most Annoying Feature: That Global Public Feed](https://uproxx.com/wp-content/uploads/2021/07/venmo.jpg?w=1024 "Venmo Is Removing Its Most Annoying Feature: That Global Public Feed")
+
+
+[Venmo Is Removing Its Most Annoying Feature: That Global Public Feed](https://uproxx.com/technology/venmo-removing-public-feed-feature/)
+
+
+> Venmo, the mobile payment app run by PayPal, has revolutionized how we pay each other. Group restaurant outings are no longer a hassle; collecting bill money from roommates has become far easier. Hooray, technology! But as with everything good, there's a catch: The app has long had that inexplicable public feed, in which not just mutuals but complete strangers can see you, say, wildly overpay for hipster pizza. (Or, if you're Matt Gaetz, potentially more salacious enterprises.) Well, no more, sort of: According to BuzzFeed, Venmo has announced that they're ending the global view part of their social feed, which treats the app like just another social media service.
+
+
+***
+[Windows 10 users are baffled and enraged because Windows 11 will not work on their computers.](https://en.brinkwire.com/technology/windows-10-users-are-baffled-and-enraged-because-windows-11-will-not-work-on-their-computers/)
+
+
+> Windows 10 users are baffled and enraged because Windows 11 will not work on their computers. WINDOWS 10 customers have been left upset, furious, and perplexed after being told they can't upgrade to Windows 11 by a special Microsoft app. Last month, Microsoft revealed Windows 11, the 'next generation' of its popular desktop operating system, which will be available as a free update to Windows 10. Windows 11 includes a new Start Menu and a fully redesigned user interface, among other things. However, due to the high minimum requirements, it appears that millions of PC users will be unable to upgrade.
+
+
+***
+![Terry Crews to Speak at Event Unifying Sexual Assault Survivors and Terry Crews ‘Survived' in the NFL By Painting Portraits of His Teammates](https://https://www.thearkatech.com/img/news_img/all/15440_11_1200.pic "Terry Crews to Speak at Event Unifying Sexual Assault Survivors and Terry Crews ‘Survived' in the NFL By Painting Portraits of His Teammates")
+
+
+[Terry Crews to Speak at Event Unifying Sexual Assault Survivors and Terry Crews ‘Survived' in the NFL By Painting Portraits of His Teammates](https://www.thearkatech.com/en/87814/)
+
+
+> © Instagram / Terry Crews By: Joshua Rodriguez2021-07-21 03:14:21 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Trump Ally Tom Barrack Is Charged With Acting as U.A.E. Foreign Agent. Agent Carter Star Wants To See Peggy And Angie In Multiverse Storyline. Laclede, Phelps, and Pulaski Counties considered hot spots by Missouri health leaders. White House Says It Has «Regular Contact» With Fox News — Along With Other Networks — Amid Concerns Over Vaccine Misinformation. Two Virginia police officers on administrative leave after posting ‘inappropriate' TikTok videos.
+
+
+***
+![How to buy theater tickets for Bo Burnham's 'Inside' and The problem with Bo Burnham's Inside. Slate #1](https://https://www.thearkatech.com/img/news_img/all/16541_13_1200.pic "How to buy theater tickets for Bo Burnham's 'Inside' and The problem with Bo Burnham's Inside. Slate #1")
+
+
+[How to buy theater tickets for Bo Burnham's 'Inside' and The problem with Bo Burnham's Inside. Slate #1](https://www.thearkatech.com/en/87813/)
+
+
+> © Instagram / bo burnham By: Sophia Moore2021-07-21 03:13:10 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: The problem with Bo Burnham's Inside. Slate #1 and How to buy theater tickets for Bo Burnham's 'Inside' Minister, business owner enters 5th District race for Dem nomination. Olympus Pools co-owner quits after subcontractors move to foreclose on dozens of customers over unpaid work. Samsung will announce new foldables on August 11. How to hide likes on Instagram. Poway Synagogue Shooter Pleads Guilty to Attack, Setting Mosque on Fire.
+
+
