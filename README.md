@@ -45265,3 +45265,50 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![Hyundai Mobis develops brainwave detection technology](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/4245b07796f14f2e81bfb8a12b0bf4ed.jpg "Hyundai Mobis develops brainwave detection technology")
+
+
+[Hyundai Mobis develops brainwave detection technology](https://www.koreatimes.co.kr/www/tech/2021/07/419_312519.html)
+
+
+> Hyundai Mobis engineers test the company's M. Brain healthcare technology, which monitors the driver's brainwaves on a real-time basis, Wednesday. Courtesy of Hyundai MobisBy Baek Byung-yeulHyundai Mobis has developed a type of brainwave detection technology that can prevent accidents which might occur due to a driver's drowsiness or sudden health emergency, the company said Wednesday.The auto parts-making arm of Hyundai Motor Group said that what it calls M. Brain technology measures the driver's condition on a real-time basis by detecting their brainwaves through earpiece sensors.
+
+
+***
+![GM, SsangYong trouble burdening KDB](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202107/6a251c4bd0fd49faacdc188761bdb439.jpg "GM, SsangYong trouble burdening KDB")
+
+
+[GM, SsangYong trouble burdening KDB](https://www.koreatimes.co.kr/www/tech/2021/07/419_312493.html)
+
+
+> The main entrance of SsangYong Motor's Pyeongtaek plant. YonhapHAAH files for bankruptcy By Kim Hyun-bin, Kim Yoo-chulThe exacerbating problems at General Motors Korea (GM Korea) and SsangYong Motors, alongside the European Union delaying approval of Hyundai Heavy's proposed acquisition of Daewoo Shipbuilding and Marine Engineering (DSME), are testing the Korea Development Bank's (KDB) managerial skills.The state-owned lender, has had a central role in all of these issues since their beginning. It is the top stakeholder in the ailing SsangYong and second-largest shareholder in GM Korea.
+
+
+***
+[Google is shutting down Google Bookmarks on September 30, 2021, and clarifies Starred locations in Google Maps will not be deleted after Bookmarks shuts down (Ben Schoon/9to5Google)](http://www.techmeme.com/210721/p3#a210721p3)
+
+
+> Ben Schoon / 9to5Google: Google is shutting down Google Bookmarks on September 30, 2021, and clarifies Starred locations in Google Maps will not be deleted after Bookmarks shuts down — After 16 years of service, Google is about to shut down a service that isn't very well known. On September 30, 2021 “Google Bookmarks” will be closed off for all users.
+
+
+***
+![Netflix details videogame push as streaming growth disappoints](https://techcentral.co.za/wp-content/uploads/2021/01/netflix-2156-1120.jpg "Netflix details videogame push as streaming growth disappoints")
+
+
+[Netflix details videogame push as streaming growth disappoints](https://techcentral.co.za/netflix-details-videogame-push-as-streaming-growth-disappoints/109323/)
+
+
+> Netflix will make a deeper dive into videogames as the movie and TV streaming service projects weak subscriber growth amid growing competition and the lifting of pandemic restrictions that have kept people at home.Earnings for April to June came in at US$2.97/share, below the average forecast of $3.16, according to analysts surveyed by Refinitiv.Netflix is weathering a sharp slowdown in new customers after a boom in 2020 fuelled by stay-at-home orders to curb the Covid-19 pandemic. In the US and Canada, Netflix reported a decline of about 430 000 subscribers in the second quarter.
+
+
+***
+![eBay](https://ksusentinel.com/wp-content/uploads/2021/05/img-5.png "eBay")
+
+
+[eBay](https://fintechzoom.com/fintech_news_ebay/ebay-global-e-commerce-profit-model-market-2021-future-set-to-massive-growth-with-high-cagr-value/)
+
+
+> eBay – Global E-Commerce Profit Model Market 2021 Future Set to Massive Growth with High CAGR valueThe report on Global E-Commerce Profit Model Market has been provided by researchers for a detailed understanding of market performance over an estimated period of time set from 2021 to 2026. However, this report has introduced a brief overview to provide the reader with better information on this report. This brief description contains a basic definition of the product or service studied in the report.
+
+
