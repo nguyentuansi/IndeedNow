@@ -45562,3 +45562,53 @@
 > On Wednesday, shares of Coinbase Global (NASDAQ:COIN) saw unusual options activity. After the option alert, the stock price moved up to $234.15. Sentiment: BULLISH Option Type: SWEEP Trade Type: PUT Expiration Date: 2021-07-23 Strike Price: $225.00 Volume: 621 Open Interest: 832 Three Signs Of Unusual Options Activity One way options market activity can be considered unusual is when volume is exceptionally higher than its historical average. The volume of options activity refers to the number of contracts traded over a given time period.
 
 
+***
+![Pokémon Unite: Get Zeraora for free before time runs out](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/pokemon-unite-zeraora-purple.jpg "Pokémon Unite: Get Zeraora for free before time runs out")
+
+
+[Pokémon Unite: Get Zeraora for free before time runs out](https://www.imore.com/pokemon-unite-how-get-zeraora-time-runs-out)
+
+
+> Source: iMore Pokémon Unite is a free-to-play 5v5 MOBA where Pokémon each have their own role or Battle type, which gives them advantages and disadvantages. The goal of each round is to use your Pokémon and score points strategically. For a limited amount of time, Nintendo Switch players can add Zeraora, a Speedster battle-type Pokémon, to their teams. It's likely Zeraora won't be available ever again after this event, so grab yours while you can. If you're looking for other fun games to play, check out all Pokémon games on Nintendo Switch.
+
+
+***
+![There is a perfect pair of headphones to compliment your Apple Watch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/05/powerbeats-pro-hero-012.jpeg "There is a perfect pair of headphones to compliment your Apple Watch")
+
+
+[There is a perfect pair of headphones to compliment your Apple Watch](https://www.imore.com/best-bluetooth-headphones-apple-watch)
+
+
+> Source: iMore Best Bluetooth headphones for Apple Watch iMore 2021 The Apple Watch Series 6 is the latest iteration of the most popular smartwatch on the market. You can listen to music, podcasts, and anything else directly on your Apple Watch, plus you can make and take phone calls. Such a small wearable device is perfectly in line with small Bluetooth headphones like the AirPods Pro. We've tested a lot of different earbuds while exercising, walking around town, and just sitting on the couch to come up with some of the best Apple Watch Bluetooth headphones you can buy.
+
+
+***
+![Apple releases macOS Big Sur 11.5 with fixes for Apple Music, more](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/08/macos-big-sur-preview-california-wallpaper-hero.jpg "Apple releases macOS Big Sur 11.5 with fixes for Apple Music, more")
+
+
+[Apple releases macOS Big Sur 11.5 with fixes for Apple Music, more](https://www.imore.com/how-to-download-macos-updates)
+
+
+> Source: Rene Ritchie Apple's latest and greatest software update for Mac is out now. If you want to wait for it to automatically update, make sure your Mac is connected to power and be patient. If you just can't wait for all of the new features, here's how to update to the latest macOS version. What's new in macOS Big Sur: July 21, 2021: Apple releases macOS Big Sur 11.5 Apple has released the latest version of macOS Big Sur, 11.5. This update adds new functionality to the Podcasts app and fixes an issue with Apple Music.
+
+
+***
+![Cohesity Is Once Again Named a Leader in the 2021 Gartner® Magic Quadrant™ for Enterprise Backup and Recovery Software Solutions](https://mms.businesswire.com/media/20210721005823/en/694806/23/Cohesity-logo-green.jpg "Cohesity Is Once Again Named a Leader in the 2021 Gartner® Magic Quadrant™ for Enterprise Backup and Recovery Software Solutions")
+
+
+[Cohesity Is Once Again Named a Leader in the 2021 Gartner® Magic Quadrant™ for Enterprise Backup and Recovery Software Solutions](https://www.businesswire.com/news/home/20210721005823/en/Cohesity-Is-Once-Again-Named-a-Leader-in-the-2021-Gartner%C2%AE-Magic-Quadrant%E2%84%A2-for-Enterprise-Backup-and-Recovery-Software-Solutions)
+
+
+> SAN JOSE, Calif.--(BUSINESS WIRE)--Cohesity today announced that it has been named a Leader in this year's Gartner Magic Quadrant for Enterprise Backup and Recovery Software Solutions report. The company is positioned as a Leader for the second consecutive time in just its third recognition in this report. As per the Gartner report, 'Leaders have the highest combined measures of Ability to Execute and Completeness of Vision. They have the most comprehensive and scalable product portfolios. They have a proven track record of established market presence and financial performance.
+
+
+***
+![Alation Named a Leader in Data Governance Solutions Report by Independent Global Research Firm](http://www.businesswire.com/images/bwlogo_square.png "Alation Named a Leader in Data Governance Solutions Report by Independent Global Research Firm")
+
+
+[Alation Named a Leader in Data Governance Solutions Report by Independent Global Research Firm](https://www.businesswire.com/news/home/20210721005821/en/Alation-Named-a-Leader-in-Data-Governance-Solutions-Report-by-Independent-Global-Research-Firm)
+
+
+> July 21, 2021 01:55 PM Eastern Daylight Time REDWOOD CITY, Calif.--(BUSINESS WIRE)--Alation Inc., the leader in enterprise data intelligence solutions, has been named a Leader in 'The Forrester Wave™: Data Governance Solutions, Q3 2021' report. Alation received the highest score in the current offering category and received the highest possible scores in 17 criteria, including solution vision. The report evaluated 12 data governance solution providers. In the current offering category, Alation received the highest score possible in the data discovery and access, and data governance management criteria, and tied for highest score in the stewardship management criteria.
+
+
