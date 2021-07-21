@@ -45165,3 +45165,53 @@
 > © Instagram / bo burnham By: Sophia Moore2021-07-21 03:13:10 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: The problem with Bo Burnham's Inside. Slate #1 and How to buy theater tickets for Bo Burnham's 'Inside' Minister, business owner enters 5th District race for Dem nomination. Olympus Pools co-owner quits after subcontractors move to foreclose on dozens of customers over unpaid work. Samsung will announce new foldables on August 11. How to hide likes on Instagram. Poway Synagogue Shooter Pleads Guilty to Attack, Setting Mosque on Fire.
 
 
+***
+![Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.](https://external-preview.redd.it/nz0olOun8Dc2CbMIXN2cC21G1t0J8Fcxj-Bk9QBm2Uo.jpg?auto=webp&s=253a3df343170335c535e04181b9e53dfdeb8570 "Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.")
+
+
+[Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.](https://www.reddit.com/r/programming/comments/oogkvq/headless_recorder_is_a_chrome_extension_that/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![The MAGA-targeted 'Freedom Phone' has a breathtaking amount of red flags](https://external-preview.redd.it/fK7zcT2sqdC2DJrDW_lLnJc28dditwdNBVdhTOTsslc.jpg?auto=webp&s=e5ad60ce910605291cb48539e9b62147a74e5844 "The MAGA-targeted 'Freedom Phone' has a breathtaking amount of red flags")
+
+
+[The MAGA-targeted 'Freedom Phone' has a breathtaking amount of red flags](https://www.reddit.com/r/technology/comments/ooghb0/the_magatargeted_freedom_phone_has_a_breathtaking/)
+
+
+> Your privacy is gone, no phone will change that.
+
+
+***
+![A surprisingly common error users make when installing brew](https://opengraph.githubassets.com/2205f2316099d668448dc32788b11873ab5d575cb14249ae59b8de1fba67277d/withfig/fig/discussions/300 "A surprisingly common error users make when installing brew")
+
+
+[A surprisingly common error users make when installing brew](https://github.com/withfig/fig/discussions/300)
+
+
+> Notifications Star 168 Fork 5 You can't perform that action at this time. You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session.
+
+
+***
+![How to watch Turner & Hooch: Stream the 2021 remake online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/07/turner-hooch-hero.jpg "How to watch Turner & Hooch: Stream the 2021 remake online from anywhere")
+
+
+[How to watch Turner & Hooch: Stream the 2021 remake online from anywhere](https://www.androidcentral.com/how-watch-turner-hooch-stream-2021-remake-online-anywhere)
+
+
+> It's been quite some time since the iconic buddy cop comedy Turner & Hooch endeared audiences with its lovable canine co-star, and now Disney is bringing the story to an entire new generation of viewers as a television series. Exclusively on the streaming service Disney+, the new series Turner & Hooch follows the ambitious U.S. Marshal Scott Turner who suddenly inherits a large and unruly dog after the death of his father and soon discovers there's more to his new friend than meets the eye. You'll need a Disney+ subscription if you want to watch the new series Turner & Hooch.
+
+
+***
+![Empired bags managed services contract with Environmental Protection Authority of Victoria](https://itwire.com/media/k2/items/cache/9f525b4faef96067a04673814742c0f5_XS.jpg "Empired bags managed services contract with Environmental Protection Authority of Victoria")
+
+
+[Empired bags managed services contract with Environmental Protection Authority of Victoria](https://itwire.com/deals/empired-bags-managed-services-contract-with-environmental-protection-authority-of-victoria.html)
+
+
+> Under the $52 million contract, IT services management company Empired will provide digital managed services across Environmental Protection Authority (EPA) of Victoria's cloud platforms, networks, and business applications. Empired has secured a managed services contract with the Environmental Protection Authority of Victoria. The contract will initially last for four years, plus two one-year options to extend, allowing for the provision of services for up to six years. Throughout the potential six-year term, the managed services contract has an estimated value of $52 million based on an estimated base services revenue of approximately $8.
+
+
