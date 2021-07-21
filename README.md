@@ -45312,3 +45312,53 @@
 > eBay – Global E-Commerce Profit Model Market 2021 Future Set to Massive Growth with High CAGR valueThe report on Global E-Commerce Profit Model Market has been provided by researchers for a detailed understanding of market performance over an estimated period of time set from 2021 to 2026. However, this report has introduced a brief overview to provide the reader with better information on this report. This brief description contains a basic definition of the product or service studied in the report.
 
 
+***
+![Aiming for 'late night business restrictions'... 14 PC rooms that are closed, 10 per day](https://static.sbsdlab.co.kr/image/thumb_default.png "Aiming for 'late night business restrictions'... 14 PC rooms that are closed, 10 per day")
+
+
+[Aiming for 'late night business restrictions'... 14 PC rooms that are closed, 10 per day](https://www.tellerreport.com/tech/2021-07-21-aiming-for--late-night-business-restrictions-----14-pc-rooms-that-are-closed--10-per-day.BJEgHIHRu.html)
+
+
+> Four teenagers who committed theft at dozens of PC rooms that were closed late at night were sentenced to imprisonment and probation of imprisonment. According to the Seoul Eastern District Court, the 1st single criminal sentence of the 18-year-old group A who was charged with special theft, property damage, and fraud was sentenced to 1 year and 6 months in prison for a short term and 1 year for a short term, and 1 year and 4 months to a short term of 1 year for the 18-year-old group B. The verdict was announced today.
+
+
+***
+![Bezos thanks Amazon employees for paying for his spaceflight](https://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg "Bezos thanks Amazon employees for paying for his spaceflight")
+
+
+[Bezos thanks Amazon employees for paying for his spaceflight](https://www.tellerreport.com/tech/2021-07-21-bezos-thanks-amazon-employees-for-paying-for-his-spaceflight.HyZfL4IH0d.html)
+
+
+> Jeff Bezos, former Amazon CEO and the world's richest person, thanked all Amazon employees and customers on Tuesday after his flight to the edge of space. "Because you paid for this." Jeff Bezos, former Amazon CEO and the world's richest person, thanked all Amazon employees and customers on Tuesday after his flight to the edge of space. "Because you paid for this." Received his words at the press conference with laughter. "But seriously," he said. "I want to thank you from the bottom of my heart.
+
+
+***
+![CEX.IO Partners With Chainalysis to Enhance Platform Security](https://mms.businesswire.com/media/20210721005069/en/892677/23/CEX.IO_Logo_1280x720.jpg "CEX.IO Partners With Chainalysis to Enhance Platform Security")
+
+
+[CEX.IO Partners With Chainalysis to Enhance Platform Security](https://www.businesswire.com/news/home/20210721005069/en/CEX.IO-Partners-With-Chainalysis-to-Enhance-Platform-Security)
+
+
+> July 21, 2021 04:00 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--International cryptocurrency platform CEX.IO announces a new partnership with the leading blockchain data monitoring provider Chainalysis. CEX.IO leverages its partner's comprehensive solutions to have a greater scope in transaction monitoring, with the ability to efficiently identify, investigate, and respond to suspicious activity on the platform. As part of the cooperation, Chainalysis provides CEX.IO access to its powerful Reactor investigation software and transaction monitoring suite.
+
+
+***
+![Exscientia and GT Apeiron Therapeutics Enter Oncology Joint Venture](https://mms.businesswire.com/media/20210721005394/en/892696/23/logo.jpg "Exscientia and GT Apeiron Therapeutics Enter Oncology Joint Venture")
+
+
+[Exscientia and GT Apeiron Therapeutics Enter Oncology Joint Venture](https://www.businesswire.com/news/home/20210721005394/en/Exscientia-and-GT-Apeiron-Therapeutics-Enter-Oncology-Joint-Venture)
+
+
+> July 21, 2021 04:00 AM Eastern Daylight Time OXFORD & SHANGHAI--(BUSINESS WIRE)--Exscientia, an AI-driven pharmatech company with a mission to revolutionise how drugs are discovered, and GT Apeiron Therapeutics （Apeiron）, a Shanghai based company focused on novel oncology drugs, announced today a strategic research and development collaboration agreement. The collaboration will leverage the patient-centric AI-first capabilities of Exscientia to accelerate the discovery of multiple small molecule therapeutic drug candidates designed to selectively treat aberrant cell cycle driven cancers and build a pipeline of CDK novel therapies.
+
+
+***
+![Aqara HomeKit Accessories Now Available From Online Apple Store in Europe](https://images.macrumors.com/t/s9lcEgPI2B_TkPfiqJhGlqZP-5w=/4096x/https://images.macrumors.com/article-new/2021/07/aqara-coming-to-apple-stores.jpg "Aqara HomeKit Accessories Now Available From Online Apple Store in Europe")
+
+
+[Aqara HomeKit Accessories Now Available From Online Apple Store in Europe](https://www.macrumors.com/2021/07/21/aqara-now-in-apple-store-online-europe/)
+
+
+> Aqara HomeKit accessories are now available from the Apple Store Online in a range of European countries, the company has today announced. Aqara products will be available from the Apple Store Online in France, Germany, Italy, Spain, and the UK. To date, Aqara products have only been stocked in Apple Stores in Mainland China, Hong Kong, and Macao. The product lineup for ‌Apple Stores‌ in Europe include the Hub M2, Aqara's latest smart home hub, and the Camera Hub G2H, which features HomeKit Secure Video support and home hub capability, as well as the company's Door and Window Sensor, Temperature and Humidity Sensor, and Vibration Sensor.
+
+
