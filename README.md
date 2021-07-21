@@ -45412,3 +45412,53 @@
 > Source: Apple A new report again says the iPhone 13 mini will be the last such 'mini' iPhone, and that in 2022 the iPhone 14 will herald the release of a second 6.7-inch 'Max' iPhone. The news comes from a sweeping Nikkei Asia report regarding Apple's future plans, which indicates that, as per multiple previous reports, Apple's iPhone 12 mini sales "have disappointed", with the company drastically reducing orders for the device this year. Apple is reportedly also pre-empting weaker demand for the iPhone 13 mini as a result.
 
 
+***
+![Millions of LinkedIn users have reported that their email, phone number, and home address have been leaked.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Millions of LinkedIn users have reported that their email, phone number, and home address have been leaked.")
+
+
+[Millions of LinkedIn users have reported that their email, phone number, and home address have been leaked.](https://en.brinkwire.com/technology/millions-of-linkedin-users-have-reported-that-their-email-phone-number-and-home-address-have-been-leaked/)
+
+
+> Millions of LinkedIn users have reported that their email, phone number, and home address have been leaked. LINKEDIN has been attacked by a large data breach that has affected 700 million members, accounting for more than 92 percent of the site's overall user base. LinkedIn has been rocked by its second data breach in 2021. In April, cybersecurity experts reported that hackers had collected data from 500 million LinkedIn accounts and sold it. After only a few months, LinkedIn has been hit by another another data breach, this time affecting 700 million users.
+
+
+***
+![DNSFilter secures $30M Series A to step up fight against DNS-based threats – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1253458662.jpg "DNSFilter secures $30M Series A to step up fight against DNS-based threats – TechCrunch")
+
+
+[DNSFilter secures $30M Series A to step up fight against DNS-based threats – TechCrunch](https://techcrunch.com/2021/07/21/dnsfilter-secures-30m-series-a-to-step-up-fight-against-dns-based-threats/)
+
+
+> DNSFilter, an artificial intelligence startup that provides DNS protection to enterprises, has secured $30 million in Series A funding from Insight Partners. DNSFilter, as its name suggests, offers DNS-based web content filtering and threat protection. Unlike the majority of its competitors, which includes the likes of Palo Alto Networks and Webroot, the startup uses proprietary AI technology to continuously scan billions of domains daily, identifying anomalies and potential vectors for malware, ransomware, phishing, and fraud.
+
+
+***
+![Following an uptick in scams that block accounts, WhatsApp users issued an urgent warning.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Following an uptick in scams that block accounts, WhatsApp users issued an urgent warning.")
+
+
+[Following an uptick in scams that block accounts, WhatsApp users issued an urgent warning.](https://en.brinkwire.com/technology/following-an-uptick-in-scams-that-block-accounts-whatsapp-users-issued-an-urgent-warning/)
+
+
+> Following an uptick in scams that block accounts, WhatsApp users issued an urgent warning. A warning has been given to WhatsApp users about a new wave of fraud attempts that can lock people out of their accounts. Police have issued the latest WhatsApp warning, claiming that they have detected a 'surge' in accounts being hacked. Cyber criminals acting as a contact's friend ask for a key six-digit security code to be given to them, which can result in WhatsApp users being easily restricted from accessing their accounts.
+
+
+***
+![The best Oculus Quest 2 games and experiences](https://www.cnet.com/a/img/n0sYMUO8zbBC_RxWUXKm6VDVqSo=/1200x630/2021/07/20/005cf121-512a-42a8-8abb-39e0045e8af0/demeo-realm-of-rat-king-cards-screenshot.jpg "The best Oculus Quest 2 games and experiences")
+
+
+[The best Oculus Quest 2 games and experiences](https://www.cnet.com/tech/computing/best-oculus-quest-2-games-and-experiences/)
+
+
+> Virtual reality can be an amazing escape, a workout or both. If you want the best self-contained VR gaming console, the Oculus Quest 2 is your choice. The compact headset (an improved and less expensive update to the original Oculus Quest) reminds me more than ever that there are some really excellent games on the VR platform. (That being said, there are other VR options if you already have a gaming PC or a PlayStation 4/5.)While Facebook's intentions to put more ads in Oculus VR (and a Facebook-mandatory login) may not be to your liking, the Quest has nevertheless turned into quite a destination for the best VR games.
+
+
+***
+![Ethos picks up $100M at a $2.7B+ valuation for a big data platform to improve life insurance accessibility – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1163630157.jpg?w=600 "Ethos picks up $100M at a $2.7B+ valuation for a big data platform to improve life insurance accessibility – TechCrunch")
+
+
+[Ethos picks up $100M at a $2.7B+ valuation for a big data platform to improve life insurance accessibility – TechCrunch](https://techcrunch.com/2021/07/21/ethos-picks-up-100m-at-a-2-7b-valuation-for-a-big-data-platform-to-improve-life-insurance-accessibility/)
+
+
+> More than half of the U.S. population has stayed away from considering life insurance because they believe it's probably too expensive, and the most common way to buy it today is in person. A startup that's built a platform that aims to break down those conventions and democratize the process by making life insurance (and the benefits of it) more accessible is today announcing significant funding to fuel its rapidly growing business. Ethos, which uses more than 300,000 data points online to determine a person's eligibility for life insurance policies, which are offered as either term or whole life packages starting at $8/month, has picked up $100 million from a single investor, SoftBank Vision Fund 2.
+
+
