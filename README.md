@@ -45803,3 +45803,47 @@
 > No body in the article.
 
 
+***
+![Glued To Your Phone? Here's How To Rethink Your Relationship With Social Media](https://media.npr.org/assets/img/2021/07/16/gettyimages-1267020060_wide-ebd04b00cf817834e7f2e7280667740b31c72170.jpg?s=1400 "Glued To Your Phone? Here's How To Rethink Your Relationship With Social Media")
+
+
+[Glued To Your Phone? Here's How To Rethink Your Relationship With Social Media](https://www.npr.org/2021/07/16/1016854764/social-media-balance-relationship-boundaries)
+
+
+> Navigating the internet can feel like a lot. There's cute animal videos, plant parent groups, inspiring fashionistas and information on many #movements. But there's also plenty of bad news, hate speech and harassment, catfishing, misinformation and more. "The Internet can crack us open to seeing so many things that we would have never encountered otherwise. And that's one of the most beautiful, miraculous things about it. But it can also divide our attention and make us feel fractured," says Chris Stedman, author of IRL: Finding Realness, Meaning, and Belonging in our Digital Lives.
+
+
+***
+![Twitter begins testing dislike button but there is a catch](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/screenshot_2021-07-22_at_9.06._1200x768-original.png "Twitter begins testing dislike button but there is a catch")
+
+
+[Twitter begins testing dislike button but there is a catch](https://www.indiatoday.in/technology/news/story/twitter-begins-testing-dislike-button-but-there-is-a-catch-1831037-2021-07-22)
+
+
+> Ankita Chakravarti New Delhi, Jul 22, 2021, Updated Jul 22, 2021, 9:23 AM IST Story highlights Twitter has finally begun testing a dislike button on the app, The micro-blogging site revealed that the iOS users will now see new upvote and downvote options below a tweet. Twitter has said that the downvotes will not be shown publicly. Twitter has finally begun testing a dislike button on the app, but it is nothing like the dislike button that you see on YouTube. The micro-blogging site revealed that the iOS users will now see new upvote and downvote options below a tweet.
+
+
+***
+[SoundBlaster](https://itwire.com/freelancer-sp-720/tag/SoundBlaster.html)
+
+
+> Creative was the force behind PC-based soundcards and continues to bring its SoundBlaster audio heritage to your lounge room with its Creative Stage V2 soundbar.
+
+
+***
+![The Creative Stage V2 Soundbar provides room-filling atmospheric sound at an affordable price](https://itwire.com/media/k2/items/cache/8a26c24329bd9a929cc8980c87290663_XS.jpg "The Creative Stage V2 Soundbar provides room-filling atmospheric sound at an affordable price")
+
+
+[The Creative Stage V2 Soundbar provides room-filling atmospheric sound at an affordable price](https://itwire.com/computers-peripherals/the-creative-stage-v2-soundbar-provides-room-filling-atmospheric-sound-at-an-affordable-price.html)
+
+
+> Creative was the force behind PC-based soundcards and continues to bring its SoundBlaster audio heritage to your lounge room with its Creative Stage V2 soundbar. The soundbar comes in two parts - the 2.1 audio soundbar itself and a cable-connected long-throw, tower-sized subwoofer. The soundbar is a sleek 26.8' long unit and connects to power, and then to your TV, PC, or whatever else you wish to emit sound from. Connectivity options include Bluetooth 5.0, TV ARC, HDMI, optical audio, USB, and a 3.
+
+
+***
+[Technological Advancements to Drive Adoption of Offshore Wind Turbine Technology](https://www.openpr.com/news/2334285/technological-advancements-to-drive-adoption-of-offshore-wind)
+
+
+> Increasing awareness about the advantages of non-conventional energy sources has resulted in huge investments in the offshore wind energy sector. Moreover, the rapid depletion of fossil fuels and hazardous impacts of these conventional energy sources on the environment have encouraged
+
+
