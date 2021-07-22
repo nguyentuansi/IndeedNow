@@ -45756,3 +45756,50 @@
 > The average influencer makes US$31 per hour, but a beauty specialist will earn double that, with US$60 per hour, according to HypeAuditor's study. — AFP pic SAN FRANCISCO, July 22 ― The battle for likes is still raging on Instagram. And with a growing number of influencers out there, the market is more competitive than ever. But how much money can an influencer really make? A survey from HypeAuditor reveals some surprising figures. With perfect posts, magnificent wardrobes and gifts galore... on Instagram, the daily lives of influencers are filled with the stuff of dreams.
 
 
+***
+![Open Sourcing Direct3D 9 on 12 and the Release of the DXBC Signer NuGet Package](https://external-preview.redd.it/xHxX8biWV07rDzykixn9VPXRufHmjHhF24ZPZax2xAw.jpg?auto=webp&s=ecd7ef05d2218c515e45c1944198fca6fa5016bb "Open Sourcing Direct3D 9 on 12 and the Release of the DXBC Signer NuGet Package")
+
+
+[Open Sourcing Direct3D 9 on 12 and the Release of the DXBC Signer NuGet Package](https://www.reddit.com/r/programming/comments/op49v4/open_sourcing_direct3d_9_on_12_and_the_release_of/)
+
+
+> no comments yetBe the first to share what you think!View Entire Discussion (0 Comments)
+
+
+***
+![Google Maps expands super-useful feature for mass transit](https://icdn.digitaltrends.com/image/digitaltrends/hinting-at-nycs-pandemic-rebound-nyc-subway-ridership-hits-2-million-for-first-time-since-start-of-pandemic.jpg "Google Maps expands super-useful feature for mass transit")
+
+
+[Google Maps expands super-useful feature for mass transit](https://www.digitaltrends.com/news/google-maps-expands-crowdedness-feature-for-mass-transit/)
+
+
+> Google Maps has announced a significant expansion of a handy feature that lets you see how crowded your train or bus is likely to be when it arrives. After launching the feature in 200 cities in June 2019, the web giant is this week rolling it out to 10,000 transit agencies in 100 countries. If available, the data will appear when you look up transit directions. Google Maps It's never any fun having to squeeze onto a packed train or bus, even more so since the start of the pandemic when social distancing became a thing.
+
+
+***
+![#TECH: How much do Instagram influencers really make?](https://assets.nst.com.my/images/articles/botsinstaflu_NSTfield_image_socialmedia.var_1626917978.jpg "#TECH: How much do Instagram influencers really make?")
+
+
+[#TECH: How much do Instagram influencers really make?](https://www.nst.com.my/lifestyle/bots/2021/07/710533/tech-how-much-do-instagram-influencers-really-make)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Some of Tik Tok's algorithm techniques are reveled](https://external-preview.redd.it/iNvkqc_lRUhDr5ZjBACZLJ0kVyCW8t01pZM4BzkfpuQ.jpg?auto=webp&s=7c1fb12610d8354363b6e3c9c49ea80ff12c5d3a "Some of Tik Tok's algorithm techniques are reveled")
+
+
+[Some of Tik Tok's algorithm techniques are reveled](https://www.reddit.com/r/technology/comments/op3wz2/some_of_tik_toks_algorithm_techniques_are_reveled/)
+
+
+> Revel: To take great pleasure or delight.I suspect you meant revealed. :)
+
+
+***
+[Playing game on smartphone to escape boredom can be harmful, warns study](https://www.freepressjournal.in/tech/playing-game-on-smartphone-to-escape-boredom-can-be-harmful-warns-study)
+
+
+> No body in the article.
+
+
