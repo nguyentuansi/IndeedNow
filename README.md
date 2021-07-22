@@ -45706,3 +45706,53 @@
 > Retailers are celebrating the summer with the best Microsoft Surface deals. We're currently seeing solid discounts on Microsoft laptops and tablets.For example, Best Buy continues to offer the Surface Laptop 3 for $799. When not on sale, this laptop would set you back $1,000, so that's $200 off its normal price. This is one of the best Surface deals available this week.So if you're looking for the best Surface device deals, you've come to the right place. We're listing all the best deals on Surface devices from the new Surface Laptop 4, to the Editor's Choice Surface Laptop 3, and powerful Surface Pro X tablet.
 
 
+***
+![WhatsApp rolling out new calling interface for iPhone users](https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/WhatsApp-update-iPhone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "WhatsApp rolling out new calling interface for iPhone users")
+
+
+[WhatsApp rolling out new calling interface for iPhone users](https://9to5mac.com/2021/07/21/whatsapp-rolling-out-new-calling-interface-for-iphone-users/)
+
+
+> Following a brief testing period with beta users, WhatsApp on Wednesday began rolling out its new calling interface to iPhone users. The popular messaging app is making it easier for users to add more people to an ongoing call, along with other enhancements. As we covered on 9to5Mac last week, these changes were already available for users who have the beta version of the WhatsApp app installed. The new calling screen looks quite similar to FaceTime that shows everyone who's on the call. From there, users can invite other people to join the connection and even call a person again if they were unable to accept it.
+
+
+***
+![The Most Memorable Shots From Bo Burnham's 'Inside' and REVIEW: Bo Burnham's 'Inside' deserves the acclaim, awards](https://https://www.thearkatech.com/img/news_img/all/16541_13_1200.pic "The Most Memorable Shots From Bo Burnham's 'Inside' and REVIEW: Bo Burnham's 'Inside' deserves the acclaim, awards")
+
+
+[The Most Memorable Shots From Bo Burnham's 'Inside' and REVIEW: Bo Burnham's 'Inside' deserves the acclaim, awards](https://www.thearkatech.com/en/87990/)
+
+
+> © Instagram / bo burnham By: Madison Clark2021-07-22 03:14:10 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: REVIEW: Bo Burnham's 'Inside' deserves the acclaim, awards and The Most Memorable Shots From Bo Burnham's 'Inside' City of Reno creates new 'Office of Innovation and Experience'. California expands film and TV tax credit by $330 million. Idaho Health and Welfare working to step up testing for COVID-19 delta variant. Yukon to lift restrictions on travel and indoor gatherings as vaccination rates climb.
+
+
+***
+![America Ferrera joins the upcoming Apple TV+ WeWork series](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/02/wework-landing-image.jpg "America Ferrera joins the upcoming Apple TV+ WeWork series")
+
+
+[America Ferrera joins the upcoming Apple TV+ WeWork series](https://www.imore.com/america-ferrera-joins-upcoming-apple-tv-wework-series)
+
+
+> We may earn a commission for purchases using our links. Learn more. New cast member Apple's series about WeWork has more star power. 21 Jul 2021 Source: WeWork American Ferrera has signed on to WeCrashed. The actress will star alongside Jared Leto and Anne Hathaway. Apple's upcoming Apple TV+ series about the rise and fall of WeWork has a new cast member. As reported by The Hollywood Reporter, America Ferrera has signed on star alongside Jared Leto and Anne Hathaway in WeCrashed, which looks at one of the most valuable and weird startups in Silicon Valley history.
+
+
+***
+![Stan Lee Missed a Chance to Develop Spider-Man's Closest Ally and Stan Lee Cameo Scrapped On 'The Simpsons' Crossover Due to Marvel Policy](https://https://www.thearkatech.com/img/news_img/all/15436_1_1200.pic "Stan Lee Missed a Chance to Develop Spider-Man's Closest Ally and Stan Lee Cameo Scrapped On 'The Simpsons' Crossover Due to Marvel Policy")
+
+
+[Stan Lee Missed a Chance to Develop Spider-Man's Closest Ally and Stan Lee Cameo Scrapped On 'The Simpsons' Crossover Due to Marvel Policy](https://www.thearkatech.com/en/87989/)
+
+
+> © Instagram / Stan Lee By: Margaret Wilson2021-07-22 03:13:10 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Stan Lee Cameo Scrapped On 'The Simpsons' Crossover Due to Marvel Policy and Stan Lee Missed a Chance to Develop Spider-Man's Closest Ally Apple Releases Safari Technology Preview 128 With Bug Fixes and Performance Improvements. 'The district's boss is community members': BPRD seeks public input on river plans. Once-a-century opportunities will emerge from a 'struggle for supremacy' between the U.
+
+
+***
+![How much do Instagram influencers really make?](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-01/20210106_instagram_logo_AFP-seo.jpg "How much do Instagram influencers really make?")
+
+
+[How much do Instagram influencers really make?](https://www.malaymail.com/news/tech-gadgets/2021/07/22/how-much-do-instagram-influencers-really-make/1991647)
+
+
+> The average influencer makes US$31 per hour, but a beauty specialist will earn double that, with US$60 per hour, according to HypeAuditor's study. — AFP pic SAN FRANCISCO, July 22 ― The battle for likes is still raging on Instagram. And with a growing number of influencers out there, the market is more competitive than ever. But how much money can an influencer really make? A survey from HypeAuditor reveals some surprising figures. With perfect posts, magnificent wardrobes and gifts galore... on Instagram, the daily lives of influencers are filled with the stuff of dreams.
+
+
