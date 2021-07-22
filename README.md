@@ -45847,3 +45847,47 @@
 > Increasing awareness about the advantages of non-conventional energy sources has resulted in huge investments in the offshore wind energy sector. Moreover, the rapid depletion of fossil fuels and hazardous impacts of these conventional energy sources on the environment have encouraged
 
 
+***
+[Field Solutions Group](https://itwire.com/freelancer-sp-720/tag/Field%20Solutions%20Group.html)
+
+
+> It's a busy time for rural, regional and remote telco Field Solutions Group (FSG). The company has secured three financial awards under the Federal Government's mobile black spot program to run the first neutral host radio access trial, to provide another 15 towers, and to trial domestic roaming.
+
+
+***
+![FSG receives multiple awards from mobile black spot program](https://itwire.com/media/k2/items/cache/def0051d2a7ab8e64ae368ac1e9f2daa_XS.jpg "FSG receives multiple awards from mobile black spot program")
+
+
+[FSG receives multiple awards from mobile black spot program](https://itwire.com/telecoms-and-nbn/fsg-receives-multiple-awards-from-mobile-black-spot-program.html)
+
+
+> It's a busy time for rural, regional and remote telco Field Solutions Group (FSG). The company has secured three financial awards under the Federal Government's mobile black spot program to run the first neutral host radio access trial, to provide another 15 towers, and to trial domestic roaming. FSG's largest allocation under round 5a of the mobile black spot program is $3.66 million for regional Australia's first neutral host trial. This project is intended to make it cheaper for telcos to provide mobile service to rural, regional and remote areas, and to improve customers' chance of being within a service area.
+
+
+***
+[Automation as a service Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027](https://www.openpr.com/news/2334377/automation-as-a-service-market-share-2021-global-trends-key)
+
+
+> The Automation as a service market is expected to grow at a significant CAGR in the period from 2021 to 2027. Automation-as-a-service enables organisations to mechanise the business processes by capturing and interpreting data from existing applications. It enables organisations
+
+
+***
+![Fastly launches new era of highly-secure serverless JavaScript with zero cold starts](https://itwire.com/media/k2/items/cache/691fa87c4f7c88118023fc4e16b00d61_XS.jpg "Fastly launches new era of highly-secure serverless JavaScript with zero cold starts")
+
+
+[Fastly launches new era of highly-secure serverless JavaScript with zero cold starts](https://itwire.com/cloud/fastly-launches-new-era-of-highly-secure-serverless-javascript-with-zero-cold-starts.html)
+
+
+> Fastly CTO Tyler McMullen COMPANY NEWS: Fastly, a global edge cloud platform provider, today announced the availability of JavaScript in Compute@Edge, allowing developers to build with even more flexibility in Fastly's serverless compute environment. With more JavaScript developers in the world than there are for any other development language, the availability of a faster, more secure way of building with JavaScript brings Compute@Edge's safety benefits and speedy execution to more workloads around the globe.
+
+
+***
+![OnePlus Nord 2 5G, OnePlus Buds Pro launch event in India today: Check time, LIVE streaming link and other details here](https://cdn.zeebiz.com/sites/default/files/2021/07/22/154786-untitled-design.jpg "OnePlus Nord 2 5G, OnePlus Buds Pro launch event in India today: Check time, LIVE streaming link and other details here")
+
+
+[OnePlus Nord 2 5G, OnePlus Buds Pro launch event in India today: Check time, LIVE streaming link and other details here](https://www.zeebiz.com/technology/mobiles/news-oneplus-nord-2-5g-oneplus-buds-pro-launch-event-in-india-today-check-time-live-streaming-link-and-other-details-here-161234)
+
+
+> OnePlus Nord 2 5G, OnePlus Buds Pro launch event: The wait is finally over for the fans of OnePlus Mord series as Chinese smartphone brand OnePlus will unveil a new Nord series smartphone -- OnePlus Nord 2 5G and OnePlus Buds Pro in India today at 7:30 pm during a live virtual event.WATCH | Click on Zee Business Live TV Streaming Below:OnePlus will live stream the OnePlus Nord launch event at 7:30 PM. The event will stream live on the OnePlus India website, social media platforms, and on Youtube.
+
+
