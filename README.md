@@ -224,3 +224,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![I created a Python script to backup Reddit Posts to PDF's](https://external-preview.redd.it/xgEVNFosbVOzSfFTJu5BoLj6jABuYZOtXd3DIpqqiKc.jpg?auto=webp&s=4cb1a2dfe8857af7e43fd3a6bfda54d372159cc3 "I created a Python script to backup Reddit Posts to PDF's")
+
+
+[I created a Python script to backup Reddit Posts to PDF's](https://www.reddit.com/r/Python/comments/prfd7q/i_created_a_python_script_to_backup_reddit_posts/)
+
+
+> Here is the python script I wrote:https://github.com/lunarnautics/saved-reddit-posts/blob/master/redditsaver.pyI have set it up with a GitHub action to backup Autisticats, TheGloryHodl, and RatioAtBlessons every 30 minutes. The saved pdf's can be found here:AutisticatsTheGloryHodlRatioAtBlessonsIf you want to run it yourself on another sub, you will need to modify the Reddit Credentials as described here and modify which subbreddit you want to backup. After that, run it like any other python cod
+
+
+***
+![Talent track: Can technology help reduce gender bias in hiring?](https://images.financialexpress.com/2021/06/1-557.jpg "Talent track: Can technology help reduce gender bias in hiring?")
+
+
+[Talent track: Can technology help reduce gender bias in hiring?](https://www.financialexpress.com/industry/technology/talent-track-can-technology-help-reduce-gender-bias-in-hiring/2332525/)
+
+
+> By: Uma Ganesh | September 20, 2021 1:30 AMUma Ganesh PortraitMany companies are on a high visibility campaign to recruit more women in line with their gender diversity policy. TCS, for instance, has recently announced the initiative ‘Rebegin' to attract women with work experience to rejoin after a break. Similarly, several tech companies such as Dell, Microsoft, Accenture and IBM have been wooing women with experience to return to work. At the same time, there is a concern that when women apply for jobs there is an unconscious bias towards women which blocks their entry into the workforce.
+
+
+***
+![Here are the best ways to level up in Pokémon Unite](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/pokemon-unite-evolution.jpg "Here are the best ways to level up in Pokémon Unite")
+
+
+[Here are the best ways to level up in Pokémon Unite](https://www.imore.com/pokemon-unite-how-level-your-pokemon-fast)
+
+
+> Source: iMore Pokémon Unite is the latest Pokémon game for the Nintendo Switch, iPhones, and Android phones. It combines the high-energy competitive matches of MOBA games with the world of Pokémon. While the rules of a MOBA and a traditional Pokemon game are totally different, both games share two things: experience points and leveling up. The more experience points you earn, the higher your level grows and the stronger you get. You can even evolve depending on the Pokémon you choose. It's no surprise that Pokemon Unite has already become one of the best multiplayer games on the Switch, and we're guessing it will do the same on mobile.
+
+
+***
+![No jobs, passports for 'anti-national' social media posts in India](https://external-preview.redd.it/DNLiuPisb9SR_gYIxtRhG23qqwoXEf5TYlTSGDkC1zo.jpg?auto=webp&s=812841355c6d489356ec0373dd93a9212a3e451e "No jobs, passports for 'anti-national' social media posts in India")
+
+
+[No jobs, passports for 'anti-national' social media posts in India](https://www.reddit.com/r/technology/comments/prf6af/no_jobs_passports_for_antinational_social_media/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![What are deepfakes and how do you spot them?](https://image-prod.iol.co.za/16x9/320/File-picture-Pexels?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fb9f3ad0-ced5-5692-bdda-e02bad92b77c&operation=CROP&offset=0x1703&resize=3755x2112 "What are deepfakes and how do you spot them?")
+
+
+[What are deepfakes and how do you spot them?](https://www.iol.co.za/technology/software-and-internet/what-are-deepfakes-and-how-do-you-spot-them-81a492dd-e993-4830-ac3b-66fb2a125f12)
+
+
+> File picture: PexelsShare this article:No one likes a catfish. Sadly, catfishing is still popular and with that, deepfake photos and videos are on the rise.What exactly are deepfakes?Deepfake is similar to Photoshopping, but worse – and the consequences can be disastrous.Deepfakes use a form of artificial intelligence called deep learning to create images of fake events. How does it do all that?This deep-learning system can produce a convincing counterfeit by 'studying' photographs and videos of the unlucky person from multiple angles.
+
+
