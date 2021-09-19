@@ -177,3 +177,50 @@
 > Be ready for any file-based data workload with Dell EMC PowerScale, the world's most flexible scale-out NAS solution. GUEST OPINION by David Noy, Vice President of Product Management, Unstructured Data Solutions, Dell Technologies: A new IDC research report, surveyed over 400 enterprise IT decision makers and identified the top drivers and challenges for managing unstructured data. IDC found, based on feedback from respondents, an 'uber' trend in file-based storage is the need for flexibility – the ability to easily support a mix of enterprise file-based workloads and be ready for any workload including demanding and modern workloads such as AI/ML/DL or traditional use cases like file consolidation and archives.
 
 
+***
+![NTSB official says Tesla should address 'basic safety issues' before expanding full self-driving](https://external-preview.redd.it/oC3A0lsIgSl04Ytlx3LYrWtfL6HIvTKXqurDtwug-gE.jpg?auto=webp&s=fcb7fc98e284546c35546e7ddba7252e46d74cbd "NTSB official says Tesla should address 'basic safety issues' before expanding full self-driving")
+
+
+[NTSB official says Tesla should address 'basic safety issues' before expanding full self-driving](https://www.reddit.com/r/technology/comments/prczhv/ntsb_official_says_tesla_should_address_basic/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Get the most out your Mac this semester with our top desktop picks](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/imac-24-inch.jpg "Get the most out your Mac this semester with our top desktop picks")
+
+
+[Get the most out your Mac this semester with our top desktop picks](https://www.imore.com/best-mac-desktop-students)
+
+
+> Source: Luke Filipowicz / iMore Best Mac desktop for students iMore 2021 The best Mac desktop for students is the 24-inch iMac (2021), which is also one of the best Macs on the market overall. It features a fresh, modern design, Apple silicon on the inside, and comes in a choice of seven colors. There are other options worth considering depending on your needs and budget.Source: Luke Filipowicz / iMore The colorful 24-inch iMac (2021) has been almost completely redesigned from the 21.5-inch model it replaces, and it was given a ton of new color options.
+
+
+***
+![Troll farms peddling misinformation on Facebook reached 140 million Americans monthly ahead of the 2020 presidential election, report finds](https://external-preview.redd.it/sw2fUG8DbROqro7ys9mTAk5udkSxdWeDuRyQX_P-xi8.jpg?auto=webp&s=6fe51c0f0764412a326796deae6124f1d08147ca "Troll farms peddling misinformation on Facebook reached 140 million Americans monthly ahead of the 2020 presidential election, report finds")
+
+
+[Troll farms peddling misinformation on Facebook reached 140 million Americans monthly ahead of the 2020 presidential election, report finds](https://www.reddit.com/r/technology/comments/prcqbv/troll_farms_peddling_misinformation_on_facebook/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Under Armour HOVR Mega 2 Clone](https://cdn.mos.cms.futurecdn.net/73esTSdRMNSKExxW4xQivh-1200-80.jpg "Under Armour HOVR Mega 2 Clone")
+
+
+[Under Armour HOVR Mega 2 Clone](https://www.techradar.com/reviews/under-armour-hovr-mega-2-clone)
+
+
+> The UA HOVR Mega 2 Clone marks the first time Under Armour has dropped its Clone upper onto a running shoe, aiming to offer a more supportive, adaptive fit for all types of runners. Except it didn't feel like the perfect match on this neutral shoe option.While that upper wraps closer to your feet than most, we found it quite tight in places, making it a less than comfortable running experience on all of our runs.On the plus side, you do have Under Armour's HOVR cushioning tech planted in the midsole, which is nicely responsive, but the overall weight of the shoe makes it hard work if you want to run quickly or use it for long distance runs.
+
+
+***
+[Serving Netflix Video at 400Gb/s on FreeBSD](https://www.reddit.com/r/programming/comments/prck4j/serving_netflix_video_at_400gbs_on_freebsd/)
+
+
+> no comments yetBe the first to share what you think!
+
+
