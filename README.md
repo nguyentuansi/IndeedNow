@@ -77,3 +77,53 @@
 > There are more features and tricks hiding in your Mac or PC than most people will ever know. You can do even more if you know the right software to download.If you're relying on your computer's built-in spell check to catch all your grammar mistakes, for example, it's time to upgrade. Here are five stellar options to make you sound smarter; I have used one for 223 weeks straight.  With everything else we shell out cash for online, you don't always want to pay for programs. If you need to save a little cash, I've got your back.
 
 
+***
+![Munfarid](https://external-preview.redd.it/CX0B0F5uX9POr-iOmDFiGatCU0xkiKhFCqeaiOjCDBY.jpg?auto=webp&s=d30ed70e60a75d3ee94647ef28260105222ae1e6 "Munfarid")
+
+
+[Munfarid](https://www.reddit.com/r/programming/comments/pr8hma/munfarid_a_wordpress_theme_for_blog_shop/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![3Clicks – Responsive Multi-Purpose WordPress Theme](https://external-preview.redd.it/m1hmrlSTHAPd1AL18Dp-yx8LJb2f8RfJsIqkQa_1tt4.jpg?auto=webp&s=37ad0af1c550f5c272af7c1d1af8298bfe87b247 "3Clicks – Responsive Multi-Purpose WordPress Theme")
+
+
+[3Clicks – Responsive Multi-Purpose WordPress Theme](https://www.reddit.com/r/programming/comments/pr8hde/3clicks_responsive_multipurpose_wordpress_theme/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The Scientist and the A.I.-Assisted, Remote-Control Killing Machine](https://external-preview.redd.it/p9v6rNQgtnVkvAi_tmqfe1gD4Wu031qJW6wLZqxuHFg.jpg?auto=webp&s=58d28f48cec49cfd17093d5bad5218523523332e "The Scientist and the A.I.-Assisted, Remote-Control Killing Machine")
+
+
+[The Scientist and the A.I.-Assisted, Remote-Control Killing Machine](https://www.reddit.com/r/technology/comments/pr8eqi/the_scientist_and_the_aiassisted_remotecontrol/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Here's when you can download iOS 15](https://cdn.cnn.com/cnnnext/dam/assets/210914134307-17-apple-event-0914-screenshot-super-tease.jpg "Here's when you can download iOS 15")
+
+
+[Here's when you can download iOS 15](https://www.cnn.com/2021/09/19/tech/ios-15-september-release-date/index.html)
+
+
+> The release date was confirmed in an Apple press release about the newly announced iPhones that go on sale Friday. Per usual, the new iOS version will be available as a free download when it's released. Apple (AAPL) first gave users a glimpse of iOS 15 in June at its annual developers conference where it showed off a variety of new features, including updates to video calls on FaceTime and digital keys in Apple Wallet.On FaceTime, Apple will offer new options to let users watch movies or listen to music together during a call.
+
+
+***
+![Tesla scraps its referral programs for everything but solar roof](https://external-preview.redd.it/zg1I0p9AZ9-O4ENtTK-mbOBjFJKDDmsfK4_kCI30sFQ.jpg?auto=webp&s=65f76594dde766890b212bcde53cf67300aba375 "Tesla scraps its referral programs for everything but solar roof")
+
+
+[Tesla scraps its referral programs for everything but solar roof](https://www.reddit.com/r/technology/comments/pr89ws/tesla_scraps_its_referral_programs_for_everything/)
+
+
+> no comments yetBe the first to share what you think!
+
+
