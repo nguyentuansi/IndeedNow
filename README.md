@@ -274,3 +274,50 @@
 > File picture: PexelsShare this article:No one likes a catfish. Sadly, catfishing is still popular and with that, deepfake photos and videos are on the rise.What exactly are deepfakes?Deepfake is similar to Photoshopping, but worse – and the consequences can be disastrous.Deepfakes use a form of artificial intelligence called deep learning to create images of fake events. How does it do all that?This deep-learning system can produce a convincing counterfeit by 'studying' photographs and videos of the unlucky person from multiple angles.
 
 
+***
+![Preorder your iPhone 13: Best deals and prices at Verizon, AT&T, Best Buy and more](https://www.cnet.com/a/img/017C_m_p_H5bJI3d4T4Wkchf22c=/1200x630/2021/09/17/6dc292e5-eac2-4618-b425-ec89e582fbca/2021-09-17-15-11-29.png "Preorder your iPhone 13: Best deals and prices at Verizon, AT&T, Best Buy and more")
+
+
+[Preorder your iPhone 13: Best deals and prices at Verizon, AT&T, Best Buy and more](https://www.cnet.com/tech/mobile/preorder-your-iphone-13-best-deals-and-prices-at-verizon-at-t-best-buy-and-more/)
+
+
+> This story is part of Apple Event, our full coverage of the latest news from Apple. Apple's new iPhone 13, iPhone 13 Mini, iPhone 13 Pro and iPhone 13 Pro Max are officially on preorder. While delivery on the latest iPhones is expected to be Sept. 24 for the first wave of preorders and in stores, enough people have snapped up the iPhone 13 Pro or Pro Max to cause shipping delays into October. While the iPhone 13 Pro Max starts at over $1,000, some people may be able to get the new phone at a fraction of the cost, thanks to carriers' sometimes complicated trade-in offers that can slash hundreds of dollars off the price.
+
+
+***
+![Issues found with REvil decryptor issued by Bitdefender](https://itwire.com/media/k2/items/cache/5007da184a44b0da4b2f8988be0ad78e_XS.jpg "Issues found with REvil decryptor issued by Bitdefender")
+
+
+[Issues found with REvil decryptor issued by Bitdefender](https://itwire.com/security/issues-found-with-revil-decryptor-issued-by-bitdefender.html)
+
+
+> Pixabay Issues have been identified with a decryptor released by security firm Bitdefender for files encrypted by the REvil ransomware group before it temporarily disappeared on 13 July. Fabian Wosar, chief technology officer of the security firm Emsisoft, said depending on the payload of the REvil payload that was used to encrypt files, all files that were over a certain size could become corrupted during decryption. REvil, which is also known as Sodinokibi, recently restarted operations, and announced details of its latest victim just a day after Bitdefender released the decryptor.
+
+
+***
+[Technical Insight: More F1 changes planned for 2025](http://www.f1reader.com/news/technical-insight-more-f1-changes-planned-for-2025-289529)
+
+
+> [MotorSportWeek.com] The future of Formula 1 is just five months away with a set of new technical regulations to debut in 2022, but there is already talk of further changes for 2025/26, let's take a look at what might change… F1 has been trying to attract more manufacturers, with the primary aim of making itself an […]
+
+
+***
+![Technical Discussion: Enjoy the dry weather while it lasts, rain is around the corner!](https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/4/40/440d03e9-ce03-512e-bf3f-fc6613af9639/61476070357f8.image.jpg?resize=1075%2C630 "Technical Discussion: Enjoy the dry weather while it lasts, rain is around the corner!")
+
+
+[Technical Discussion: Enjoy the dry weather while it lasts, rain is around the corner!](https://www.wfsb.com/weather/technical_discussion/technical-discussion-enjoy-the-dry-weather-while-it-lasts-rain-is-around-the-corner/article_53d29258-b603-11e8-8728-130ab5423b29.html)
+
+
+> THIS EVENING & TONIGHT…High pressure over New England tonight ensures mostly clear skies. There won't be enough moisture to create widespread fog. This can happen with an atypically strong high pressure. Areas from Hartford to Enfield may have enough moisture sourced from the Connecticut River to get some patch fog going. Temperatures will rapidly fall into the 50s and 40s for higher terrain.MONDAY & TUESDAY…High pressure will slowly migrate east through this two-day span. Monday will feature plenty of blue skies and above average temperatures despite the cool start.
+
+
+***
+![France's OVHcloud prepares for $4.7 billion IPO- WSJ](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=52 "France's OVHcloud prepares for $4.7 billion IPO- WSJ")
+
+
+[France's OVHcloud prepares for $4.7 billion IPO- WSJ](https://www.reuters.com/technology/frances-ovhcloud-prepares-47-billion-ipo-wsj-2021-09-19/)
+
+
+> Sept 19 (Reuters) - French cloud computing services provider OVHcloud plans to launch a possible initial public offering as soon as Monday that could value it at more than $4.7 billion, the Wall Street Journal reported on Sunday, citing people familiar with the matter.The cloud-service provider won't make any final decision on whether to proceed with the offering and targeted price and valuation until it finishes determining investor interest, the newspaper said.The company is expected to list its shares in Paris if the offering proceeds, the report added.
+
+
