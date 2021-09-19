@@ -127,3 +127,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Editor's Desk: iPhone 13, iPad mini 6 — a recap of the big Apple event](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/ipad-mini-6-2021-lifestyle-touch-id.jpg "Editor's Desk: iPhone 13, iPad mini 6 — a recap of the big Apple event")
+
+
+[Editor's Desk: iPhone 13, iPad mini 6 — a recap of the big Apple event](https://www.imore.com/iphone-13-ipad-mini-6-and-more-recap-apples-big-week)
+
+
+> Source: Apple Hello hello, and welcome to another installment of From the Editor's Desk with yours truly! It's been an epic and packed week with Apple's 'California Streaming' event and preorders, so let's get right down to it. During the Apple event, we got a new entry-level iPad, iPad mini 6, Apple Watch Series 7, and iPhone 13. While the Series 7 and iPhone 13 were definitely expected, I believe most of us were shocked that Apple decided to start off with the new iPad lineup. While there were plenty of rumors for the new iPad mini, I don't think there were as many for the base-level iPad, which kicked off the event.
+
+
+***
+![Forza Motorsport car list, news and rumors](https://cdn.mos.cms.futurecdn.net/3jVLKXRtsS8G88BX5jh4sG-1200-80.png "Forza Motorsport car list, news and rumors")
+
+
+[Forza Motorsport car list, news and rumors](https://www.techradar.com/news/forza-motorsport-everything-you-need-to-know)
+
+
+> Forza Motorsport is the upcoming eighth entry in Microsoft's long-running racing game franchise and while we don't know when it'll release just yet we're expecting it to be a true showcase of what the Xbox Series X can do. While it is the eighth entry in the series, following on from 2017's Forza Motorsport 7, this new entry is dropping the numbered naming scheme to go simply by Forza Motorsport. Dropping that number 8 shows that Turn 10 is trying to present a refreshed, reinvigorated Forza Motorsport experience for its next outing.
+
+
+***
+![2nd fatal amateur-built aircraft crash near airport probed](https://apnews.com/images/ShareLogo2.png "2nd fatal amateur-built aircraft crash near airport probed")
+
+
+[2nd fatal amateur-built aircraft crash near airport probed](https://apnews.com/article/technology-ohio-transportation-plane-crashes-canton-fcab81bd72a79bde0240b759fbeabad7)
+
+
+> WADSWORTH, Ohio (AP) — Federal authorities are investigating the second fatal crash of an amateur-built aircraft this month in the vicinity of a municipal airport in northeastern Ohio.Robert Taylor, 64, of Medina was taking off from the Wadsworth Municipal Airport shortly before 7 p.m. Saturday when the nose of the plane hit the runway, causing the plane to flip over and catch on fire, the Ohio State Highway Patrol said in a statement. The highway patrol is trying to determine the make and model of the plane, which they described as 'a single engine amateur-built aircraft.
+
+
+***
+![DeSHAZO Acquires Proto Machine Works](https://mms.businesswire.com/media/20210919005029/en/907550/23/square_profile_noborder_webready.jpg "DeSHAZO Acquires Proto Machine Works")
+
+
+[DeSHAZO Acquires Proto Machine Works](https://www.businesswire.com/news/home/20210919005029/en/DeSHAZO-Acquires-Proto-Machine-Works)
+
+
+> September 19, 2021 11:34 AM Eastern Daylight Time BIRMINGHAM, Ala.--(BUSINESS WIRE)--DeSHAZO (www.deshazo.com) announced today that it had acquired Proto Machine Works, LLC (www.protomachineworks.com) located in Huntsville, AL. Proto Machine Works designs and manufactures custom industrial equipment to help customers solve their most complex production challenges. 'DeSHAZO has had a close working relationship with Proto Machine Works over the past several years, and the capabilities of the company will fit in perfectly with DeSHAZO Automation's industrial solutions and robotics operations.
+
+
+***
+![How Flexibility is Redefining NAS for the Data Era](https://itwire.com/media/k2/items/cache/64d74f77c12100149788abe6467aba5e_XS.jpg "How Flexibility is Redefining NAS for the Data Era")
+
+
+[How Flexibility is Redefining NAS for the Data Era](https://itwire.com/guest-articles/guest-opinion/how-flexibility-is-redefining-nas-for-the-data-era.html)
+
+
+> Be ready for any file-based data workload with Dell EMC PowerScale, the world's most flexible scale-out NAS solution. GUEST OPINION by David Noy, Vice President of Product Management, Unstructured Data Solutions, Dell Technologies: A new IDC research report, surveyed over 400 enterprise IT decision makers and identified the top drivers and challenges for managing unstructured data. IDC found, based on feedback from respondents, an 'uber' trend in file-based storage is the need for flexibility – the ability to easily support a mix of enterprise file-based workloads and be ready for any workload including demanding and modern workloads such as AI/ML/DL or traditional use cases like file consolidation and archives.
+
+
