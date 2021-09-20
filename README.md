@@ -543,3 +543,50 @@
 > Redmi Earbuds 3 Pro supports the latest and advanced Bluetooth 5.2 technology for high-definition wireless audio, faster pairing, and stable connectivity along with wider compatibility. It has a low latency mode which brings the wireless latency to 86ms, reducing audio lag while gaming or streaming.
 
 
+***
+![$9.65 Billion Procurement Software Markets by Deployment, Software, Industry, Region](https://mms.businesswire.com/media/20210920005434/en/907595/23/logo.jpg "$9.65 Billion Procurement Software Markets by Deployment, Software, Industry, Region")
+
+
+[$9.65 Billion Procurement Software Markets by Deployment, Software, Industry, Region](https://www.businesswire.com/news/home/20210920005434/en/9.65-Billion-Procurement-Software-Markets-by-Deployment-Software-Industry-Region---Global-Forecast-to-2026---ResearchAndMarkets.com)
+
+
+> September 20, 2021 05:57 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Global Procurement Software Market, By Deployment, By Software, By Industry, By Region, Estimation & Forecast, 2017 - 2026" report has been added to ResearchAndMarkets.com's offering. The global procurement software market held a market value of USD 5,635.6 Million in 2020 and is forecasted to reach USD 9,654.8 Million by the year 2026. The market is anticipated to register a CAGR of 9.4% over the projected period.
+
+
+***
+![AMD RX 6900 XT liquid-cooled GPU from XFX promises ridiculously speedy overclocks](https://cdn.mos.cms.futurecdn.net/bCxXzJEpPDSjvpvF89MJ8T-1200-80.jpeg "AMD RX 6900 XT liquid-cooled GPU from XFX promises ridiculously speedy overclocks")
+
+
+[AMD RX 6900 XT liquid-cooled GPU from XFX promises ridiculously speedy overclocks](https://www.techradar.com/news/amd-rx-6900-xt-liquid-cooled-gpu-from-xfx-promises-ridiculously-speedy-overclocks)
+
+
+> (Image credit: XFX) XFX has officially launched a new RX 6900 XT graphics card which the firm claims is capable of being pushed to 3GHz plus when overclocked, reaching new heights for the performance of this beefy flagship Big Navi GPU, and indeed offering the 'highest overclocking potential available today for any Radeon RX GPU', as the maker observes.So, this is a high-end 6900 XT running the Navi 21 XTXH GPU and as you might expect, it comes complete with a very serious cooling setup, namely liquid cooling with a custom-designed EK water block.
+
+
+***
+![The Slow Death of Artistic Freedom in India](https://compote.slate.com/images/dc06ec76-cd8c-4d0a-9aa4-ea7b12023859.jpeg?width=780&height=520&rect=1200x800&offset=0x0 "The Slow Death of Artistic Freedom in India")
+
+
+[The Slow Death of Artistic Freedom in India](https://slate.com/technology/2021/09/india-censorship-films-freedom-netflix-amazon.html)
+
+
+> This article is part of the Free Speech Project, a collaboration between Future Tense and the Tech, Law, & Security Program at American University Washington College of Law that examines the ways technology is influencing how we think about speech. Fan fiction isn't big in India, so it was surprising to see the collective imagination of the country go into overdrive in November 2015. The subject of the frenzy was Sam Mendes' James Bond film Spectre, thanks to reports that the Central Board of Film Certification, India's censor board, had shortened a kissing scene between actors Daniel Craig and Monica Bellucci by half.
+
+
+***
+[Oil stays in retreat amid softer risk tones today](https://www.forexlive.com/technical-analysis/!/oil-stays-in-retreat-amid-softer-risk-tones-today-20210920)
+
+
+> Oil fell by over 2% to a low of $70.22 in the past hour The drop is pared slightly now to $70.60 levels as buyers are clinging on to the 200-hour moving average (green line) for support:
+
+
+***
+![Global Women's Digital Health Market Analysis Report 2021](https://mms.businesswire.com/media/20210920005432/en/907644/23/logo.jpg "Global Women's Digital Health Market Analysis Report 2021")
+
+
+[Global Women's Digital Health Market Analysis Report 2021](https://www.businesswire.com/news/home/20210920005432/en/Global-Womens-Digital-Health-Market-Analysis-Report-2021---ResearchAndMarkets.com)
+
+
+> September 20, 2021 05:47 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Global Women's Digital Health Market Size, Share & Trends Analysis Report by Type, by Application (Reproductive Health, Pregnancy & Nursing Care, Pelvic Care, General Healthcare & Wellness), by Region, and Segment Forecasts, 2021-2028" report has been added to ResearchAndMarkets.com's offering. The global women's digital health market size is expected to reach USD 6.5 billion by 2028 and is expected to expand at a CAGR of 19.
+
+
