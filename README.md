@@ -455,3 +455,47 @@
 > Story highlights Apple has revealed the battery capacity of each iPhone 13 model. The iPhone 13 Pro Max has the biggest battery in the series. The iPhone 13 Pro has a smaller battery than the iPhone 13. Apple loves to talk about its new iPhones at its September event each year. It throws in superlatives that sound convincing and interesting at the same time. However, while doing all of that, Apple does not talk about the specifics of some features. For instance, the battery capacity of each iPhone model.
 
 
+***
+![Python Wordlist Generator](https://external-preview.redd.it/pSA4R7zS92P1h1_uYPsNXpxFdLMDZ_DOvu3x_ll7U-M.jpg?auto=webp&s=ca02f8ec9efead633da3c7cb1c45c3ffd461450f "Python Wordlist Generator")
+
+
+[Python Wordlist Generator](https://www.reddit.com/r/Python/comments/prou1m/python_wordlist_generator/)
+
+
+> Put this wordlist generator together because I don't personally like the rockyou password lists and couldnt find any that really suited my needs. I'm hoping others can make use of it.https://github.com/Codex-Major/Wordlist-GeneratorAny suggestions or requests are welcome.
+
+
+***
+[Samsung Galaxy M52 5G launch date in India set for September 28: Check all details here](https://www.zeebiz.com/technology/mobiles/news-samsung-galaxy-m52-5g-launch-date-in-india-set-for-september-28-check-all-details-here-165581)
+
+
+> Samsung Galaxy M52 5G launch date: South Korean tech giant Samsung is all set to launch its new M-series smartphone in India soon. The company will launch Samsung Galaxy M52 5G in India on September 28, 2021 at 12 PM, and it will be available for purchase on the e-commerce platform Amazon.
+
+
+***
+![#TECH: Tab S7 FE is now available in Malaysia](https://assets.nst.com.my/images/articles/BOTSs7FE_NSTfield_image_socialmedia.var_1632117623.jpg "#TECH: Tab S7 FE is now available in Malaysia")
+
+
+[#TECH: Tab S7 FE is now available in Malaysia](https://www.nst.com.my/lifestyle/bots/2021/09/728936/tech-tab-s7-fe-now-available-malaysia)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![How Vloggers influenced Sony to develop the ZV-E10 interchangeable lens camera](https://images.indianexpress.com/2021/09/Sony-ZV-E10-FB.jpg "How Vloggers influenced Sony to develop the ZV-E10 interchangeable lens camera")
+
+
+[How Vloggers influenced Sony to develop the ZV-E10 interchangeable lens camera](https://indianexpress.com/article/technology/tech-news-technology/how-vloggers-influenced-sony-to-develop-the-zv-e10-interchangeable-lens-camera-7520938/)
+
+
+> Video blogs are all the rage these days. With thousands of hours of content being uploaded to YouTube per minute during the pandemic, Sony wants to cash in on the popularity of the genre with the ZV-E10, its first Alpha series interchangeable lens vlog camera. This is Sony's second Vlogging-specific camera after it introduced the ZV-1 last year, which shows how pandemic has created the demand for entry-level professional cameras among Vloggers, with many of them trying out the form of sharing daily lives to be more attached to their followers.
+
+
+***
+[Facebook India appoints former Uber executive Rajiv Aggarwal as head of public policy, a post that has been vacant for nearly a year since Ankhi Das quit (The Economic Times)](http://www.techmeme.com/210920/p2#a210920p2)
+
+
+> The Economic Times: Facebook India appoints former Uber executive Rajiv Aggarwal as head of public policy, a post that has been vacant for nearly a year since Ankhi Das quit — Rajiv Aggarwal, who will work on user safety, data protection and privacy, inclusion and internet governance, will report to Ajit Mohan, managing director, Facebook India
+
+
