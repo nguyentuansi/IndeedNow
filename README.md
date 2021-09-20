@@ -321,3 +321,50 @@
 > Sept 19 (Reuters) - French cloud computing services provider OVHcloud plans to launch a possible initial public offering as soon as Monday that could value it at more than $4.7 billion, the Wall Street Journal reported on Sunday, citing people familiar with the matter.The cloud-service provider won't make any final decision on whether to proceed with the offering and targeted price and valuation until it finishes determining investor interest, the newspaper said.The company is expected to list its shares in Paris if the offering proceeds, the report added.
 
 
+***
+![Is ‘Malignant' Part of ‘The Conjuring' Universe? and New Movies On Demand: 'No Man Of God,' 'The Conjuring: The Devil Made Me Do It,' + More](https://https://www.thearkatech.com/img/news_img/all/12115_4_1200.pic "Is ‘Malignant' Part of ‘The Conjuring' Universe? and New Movies On Demand: 'No Man Of God,' 'The Conjuring: The Devil Made Me Do It,' + More")
+
+
+[Is ‘Malignant' Part of ‘The Conjuring' Universe? and New Movies On Demand: 'No Man Of God,' 'The Conjuring: The Devil Made Me Do It,' + More](https://www.thearkatech.com/en/92724/)
+
+
+> © Instagram / conjuring By: Jason Jones2021-09-20 03:17:05 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: New Movies On Demand: 'No Man Of God,' 'The Conjuring: The Devil Made Me Do It,' + More and Is ‘Malignant' Part of ‘The Conjuring' Universe? Livermore Area Recreation and Park District Eyes Hike in Water Usage. Climate and COVID top agenda as U.N. General Assembly reconvenes. Back and better than before: Career day for Courtland Sutton paces Broncos' offense in 23-13 win.
+
+
+***
+[In a live Q&A, Epik's CEO Rob Monster was talked into taking down a site that doxxed journalists and admitted the controversial web host was breached last week (Mikael Thalen/The Daily Dot)](http://www.techmeme.com/210919/p12#a210919p12)
+
+
+> Mikael Thalen / The Daily Dot: In a live Q&A, Epik's CEO Rob Monster was talked into taking down a site that doxxed journalists and admitted the controversial web host was breached last week — Rob Monster sparred with journalist and hackers and even asked Jesus to rebuke the demons in the room.
+
+
+***
+![The newsroom SEO team welcomes three new editors at The New York Times and From the Newsroom: Readers want Vital information](https://https://www.thearkatech.com/img/news_img/all/8824_0_1200.pic "The newsroom SEO team welcomes three new editors at The New York Times and From the Newsroom: Readers want Vital information")
+
+
+[The newsroom SEO team welcomes three new editors at The New York Times and From the Newsroom: Readers want Vital information](https://www.thearkatech.com/en/92723/)
+
+
+> © Instagram / the newsroom By: Samantha Thompson2021-09-20 03:09:06 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Hope (and Ian McKellen) Lured Me to Britain. Was It Worth the Risk? CommonWealth Magazine. Hoge: Justin Fields' time is here and he will be better. Thousands of Haitians Lack Food, Water, And Medicine At A Bleak US-Mexico Border Camp. Sack specialists Reddick and Burns have everything but a nickname for 2-0 Panthers. Covid-19 is a 'wake-up call' to act on Southeast Asia's food waste crisis, experts say.
+
+
+***
+![Eastar Jet submits restructuring plans to court](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202109/6df5ac918cd8495f9fb2d8a68a6086a7.jpg "Eastar Jet submits restructuring plans to court")
+
+
+[Eastar Jet submits restructuring plans to court](https://www.koreatimes.co.kr/www/tech/2021/09/774_315749.html)
+
+
+> An Eastar Jet airplane / Courtesy of Eastar JetEastar Jet, a debt-ridden Korean budget carrier, said Friday it has submitted restructuring plans to a bankruptcy court to finalize an acquisition deal with a local property developer, aiming to resume flights next year. Eastar Jet submitted its debt repayment and other rehabilitation plans to the Seoul Bankruptcy Court, three months after Sung Jung Co. signed a deal to buy an 80 percent stake in the low-cost carrier for 108.7 billion won ($97 million).
+
+
+***
+![SoftBank's Vision Fund sold 57 mil. Coupang shares](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202109/be4e352edc9b4bb79e831c63fb149c46.jpg "SoftBank's Vision Fund sold 57 mil. Coupang shares")
+
+
+[SoftBank's Vision Fund sold 57 mil. Coupang shares](https://www.koreatimes.co.kr/www/tech/2021/09/694_315747.html)
+
+
+> Coupang founder Kim Bom-suk, right, and SoftBank CEO Masayoshi Son / Courtesy of CoupangSoftBank Group's Vision Fund sold 57 million shares in Korean e-retailer Coupang Inc for about $1.69 billion, according to a U.S. regulatory filing.Vision Fund sold 57 million Coupang shares at $29.685 each, and holds 568.2 million shares of the e-commerce firm following the sale, the filing showed https://bit.ly/3ClGkxi.Coupang declined to comment.In August, Vision Fund posted a first-quarter profit of 236 billion yen ($2.
+
+
