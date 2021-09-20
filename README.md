@@ -837,3 +837,43 @@
 > 1Department of Biochemistry, State University of New York Downstate Medical Center, Brooklyn, NY 11203 USAFind articles by Richard D Feinman1Department of Biochemistry, State University of New York Downstate Medical Center, Brooklyn, NY 11203 USA2Department of Nuclear Medicine, Jacobi Medical Center, Bronx, NY 10461 USAFind articles by Eugene J FineReceived 2004 Apr 21; Accepted 2004 Jul 28.Copyright © 2004 Feinman and Fine; licensee BioMed Central Ltd.This is an open-access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.
 
 
+***
+![Chevron Selects P97 Networks to Enhance Mobile App, Consumer Experience at Retail Stations](https://mms.businesswire.com/media/20210920005947/en/908040/23/Untitled_design_-_2021-09-20T162127.018.jpg "Chevron Selects P97 Networks to Enhance Mobile App, Consumer Experience at Retail Stations")
+
+
+[Chevron Selects P97 Networks to Enhance Mobile App, Consumer Experience at Retail Stations](https://www.businesswire.com/news/home/20210920005947/en/Chevron-Selects-P97-Networks-to-Enhance-Mobile-App-Consumer-Experience-at-Retail-Stations)
+
+
+> September 20, 2021 05:57 PM Eastern Daylight Time SAN RAMON, Calif.--(BUSINESS WIRE)--In a move to enhance its mobile apps for Chevron and Texaco consumers, Chevron Products Co., a division of Chevron U.S.A. Inc., today announced a new collaboration with mobile commerce leader P97 Networks to make every-day transactions for purchasing fuel and food or participating in loyalty offers as simple as unlocking your smartphone. The new collaboration taps P97 Networks' leadership in mobile commerce, cutting-edge technology solutions and demonstrated history of innovation to continue enhancing the customer experience at more than 7,800 Chevron and Texaco retail stations across the United States.
+
+
+***
+![Robinhood testing crypto wallet, cryptocurrency transfer features- Bloomberg News](https://www.reuters.com/resizer/CqkTyN0cHsDk3AhMYwpYFa_1mXA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PSMEKN4PAJNW3LTPBEPEWBM4B4.jpg "Robinhood testing crypto wallet, cryptocurrency transfer features- Bloomberg News")
+
+
+[Robinhood testing crypto wallet, cryptocurrency transfer features- Bloomberg News](https://www.reuters.com/technology/robinhood-testing-crypto-wallet-cryptocurrency-transfer-features-bloomberg-news-2021-09-20/)
+
+
+> The logo of Robinhood Markets, Inc. is seen at a pop-up event on Wall Street after the company's IPO in New York City, U.S., July 29, 2021. REUTERS/Andrew Kelly/File PhotoSept 20 (Reuters) - Robinhood Markets Inc (HOOD.O) is testing new crypto wallet and cryptocurrency transfer features for its app which would allow customers to send and receive digital currencies such as bitcoin, Bloomberg News reported on Monday.A beta version of its iPhone app showed the company's work on such features, the report said.
+
+
+***
+![Latest reports on GPU shortage point to dour situation for PC gaming](https://icdn.digitaltrends.com/image/digitaltrends/nvidia-geoforce-rtx-3090.jpg "Latest reports on GPU shortage point to dour situation for PC gaming")
+
+
+[Latest reports on GPU shortage point to dour situation for PC gaming](https://www.digitaltrends.com/computing/gpu-shortage-is-creating-dour-situation-for-pc-gaming/)
+
+
+> Think the the graphics card shortage is finally looking up? Unfortunately, the latest reports from 3DCenter show not just another large spike in pricing, but also a decrease in GPU availability. The shortage has left many aspiring PC builders wondering if they will ever be able to get a new GPU at a normal price. The last few months have brought with them some good news that implied the situation was improving, but that seems to already be reversing. The GPU situation over the past few months has resembled a ride on a roller coaster.
+
+
+***
+![The GPU Shortage Is Creating a Dour Situation For PC Gaming](https://icdn.digitaltrends.com/image/digitaltrends/nvidia-geoforce-rtx-3090.jpg "The GPU Shortage Is Creating a Dour Situation For PC Gaming")
+
+
+[The GPU Shortage Is Creating a Dour Situation For PC Gaming](https://www.digitaltrends.com/computing/gpu-shortage-is-creating-dour-situation-for-pc-gaming/)
+
+
+> Think the the graphics card shortage is finally looking up? Unfortunately, the latest reports from 3DCenter show not just another large spike in pricing, but also a decrease in GPU availability. The shortage has left many aspiring PC builders wondering if they will ever be able to get a new GPU at a normal price. The last few months have brought with them some good news that implied the situation was improving, but that seems to already be reversing. The GPU situation over the past few months has resembled a ride on a roller coaster.
+
+
