@@ -499,3 +499,47 @@
 > The Economic Times: Facebook India appoints former Uber executive Rajiv Aggarwal as head of public policy, a post that has been vacant for nearly a year since Ankhi Das quit — Rajiv Aggarwal, who will work on user safety, data protection and privacy, inclusion and internet governance, will report to Ajit Mohan, managing director, Facebook India
 
 
+***
+[Structural pattern matching in Python 3.10](https://www.reddit.com/r/Python/comments/prq8rb/structural_pattern_matching_in_python_310/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![#TECH: Malaysia Airports and Maxis form strategic partnership Smart Airport experience](https://assets.nst.com.my/images/articles/BOTSmaxisairport_NSTfield_image_socialmedia.var_1632124733.jpg "#TECH: Malaysia Airports and Maxis form strategic partnership Smart Airport experience")
+
+
+[#TECH: Malaysia Airports and Maxis form strategic partnership Smart Airport experience](https://www.nst.com.my/lifestyle/bots/2021/09/728993/tech-malaysia-airports-and-maxis-form-strategic-partnership-smart)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Apple giving Indian users 20 per cent extra on funds added to Apple ID, up to Rs 3000 can be earned](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/apple_appstore_20092021_1200x768-original.jpeg "Apple giving Indian users 20 per cent extra on funds added to Apple ID, up to Rs 3000 can be earned")
+
+
+[Apple giving Indian users 20 per cent extra on funds added to Apple ID, up to Rs 3000 can be earned](https://www.indiatoday.in/technology/news/story/apple-giving-indian-users-20-per-cent-extra-on-funds-added-to-apple-id-up-to-rs-3000-can-be-earned-1854792-2021-09-20)
+
+
+> Sarthak Dogra Sep 20, 2021, Updated Sep 20, 2021, 1:28 PM IST Story highlights Apple App Store users can avail 20 per cent bonus on the funds they add to their Apple IDs. The bonus is applicable only once and can go up to Rs 3,000. The offer lasts till September 30. Apple users in India have a monetary benefit waiting for them on the App Store. The company is offering 20 per cent bonus to customers who add funds to their Apple ID through App Store. This means users adding Rs 1,000 to the App Store can avail an extra Rs 200 as a bonus under the offer.
+
+
+***
+![Realme C25Y with 50MP camera, 5000mAh battery goes for pre-booking](https://cdn.mos.cms.futurecdn.net/UuJRuDVcWs7hfGmqShTgXT-1200-80.png "Realme C25Y with 50MP camera, 5000mAh battery goes for pre-booking")
+
+
+[Realme C25Y with 50MP camera, 5000mAh battery goes for pre-booking](https://www.techradar.com/news/realme-c25y-with-50mp-camera-5000mah-battery-goes-for-pre-booking)
+
+
+> (Image credit: Realme) Realme added a new smartphone to its budget C-series of devices in India last week. It was the Realme C25Y. This new mobile phone comes with a 50MP camera, 5000mAh battery.The Realme C25Y is now available for pre-booking on Realme's own website and its ecommerce partner Flipkart. The smartphone will be available for sale from September 27 at 12 noon on Realme's own website, Flipkart and retail partners. Realme C25Y India priceRealme C25Y has been launched in two variants in India priced at Rs 10,999 for 4GB+64GB variant and Rs 11,999 for the 4GB+128GB variant.
+
+
+***
+[Redmi Earbuds 3 Pro review: Good affordable TWS earphones to buy](https://www.zeebiz.com/technology/news-redmi-earbuds-3-pro-review-good-affordable-tws-earphones-to-buy-165614)
+
+
+> Redmi Earbuds 3 Pro supports the latest and advanced Bluetooth 5.2 technology for high-definition wireless audio, faster pairing, and stable connectivity along with wider compatibility. It has a low latency mode which brings the wireless latency to 86ms, reducing audio lag while gaming or streaming.
+
+
