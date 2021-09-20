@@ -690,3 +690,53 @@
 > NEW YORK--(BUSINESS WIRE)--Signature Bank (Nasdaq: SBNY), a New York-based full-service commercial bank, announced today it ranked #1 in three categories of the New York Law Journal's 'Best of' 12th annual survey of the New York legal community. The categories include Business Bank, Private Bank and Business Escrow Services. The 2021 New York Law Journal ranking marks the 12th consecutive year in which Signature Bank earned a top three position in one or more of these same categories. The rankings, which are revealed in the September 20th, 2021 edition of the New York-area's leading legal trade publication, reflect the opinions of thousands of attorneys and other legal professionals who were eligible to cast votes in 75+ legal-related categories.
 
 
+***
+![These Icelandic women just upstaged the Powerbeats Pro in nearly every way](https://icdn.digitaltrends.com/image/digitaltrends/dottir-annie-thorisdottir-1.jpg "These Icelandic women just upstaged the Powerbeats Pro in nearly every way")
+
+
+[These Icelandic women just upstaged the Powerbeats Pro in nearly every way](https://www.digitaltrends.com/home-theater/dottir-freedom-on-grid-wireless-anc-earbuds-powerbeats-pro/)
+
+
+> It's been two years since Beats released its popular Powerbeats Pro workout earbuds and, so far, there's no sign of a new version. But if a pair of Icelandic CrossFit world champs have anything to say about it, you can stop waiting right now. That's because their new audio company, Dóttir Audio, has just released its first product, the $150 Dóttir Freedom On-Grid, a set of Powerbeats Pro alternatives that look a lot like Beats' buds, but go way beyond what those earbuds can do. Dóttir, a common Icelandic surname suffix that means 'daughter,' is the brainchild of Katrin Davidsdottir and Annie Thorisdottir, who met and became best friends through their mutual love of CrossFit.
+
+
+***
+![Best Buy is having a HUGE SALE on laptops, tablets and TVs today](https://icdn.digitaltrends.com/image/digitaltrends/hisense-70a6g-class-4k-uhd-android-smart-tv.jpg "Best Buy is having a HUGE SALE on laptops, tablets and TVs today")
+
+
+[Best Buy is having a HUGE SALE on laptops, tablets and TVs today](https://www.digitaltrends.com/dtdeals/best-buy-laptop-tablet-tv-sale-best-buy-september-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Best Buy, a reliable source for 4K TV deals, including 70-inch TV deals and 50-inch TV deals, laptop deals, Chromebook deals, and Surface Pro deals, is currently offering discounts on a wide variety of products. If you've been planning to make a purchase, you should first check out Best Buy's sale if it covers the device that you want to buy. The sale includes several product categories, so it's a daunting task to go through all the listings on Best Buy.
+
+
+***
+![FBI searches Brian Laundrie's family home after woman's body found](https://www.reuters.com/resizer/dE4UVWqYg6w5Rbt-kqSXtOLWNww=/550x288/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3KN66SFTOZK6DMJFNS5FNCEDMY.jpg "FBI searches Brian Laundrie's family home after woman's body found")
+
+
+[FBI searches Brian Laundrie's family home after woman's body found](https://www.reuters.com/world/us/fbi-enters-home-search-gabby-petitos-fiance-after-body-discovered-2021-09-20/)
+
+
+> Gabrielle Petito, 22, who was reported missing on Sept. 11, 2021 after traveling with her boyfriend around the country in a van and never returned home, is shown in this undated handout photo. North Port/Florida Police/Handout via REUTERS/File PhotoSept 20 (Reuters) - The FBI on Monday searched the Florida home of Brian Laundrie's parents after finding a body in Wyoming over the weekend that was "consistent" with that of his missing fiance, Gabby Petito.As agents swarmed the home in North Port, Florida, the FBI's Tampa office said in a Twitter post that it was "executing a court-authorized search warrant" at the Laundrie residence.
+
+
+***
+![El Salvador "bought the dip," added 150 Bitcoins to its holdings](https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-20-image-18.jpg "El Salvador "bought the dip," added 150 Bitcoins to its holdings")
+
+
+[El Salvador "bought the dip," added 150 Bitcoins to its holdings](https://www.techspot.com/news/91330-el-salvador-bought-dip-added-150-bitcoins-holdings.html)
+
+
+> Tech Culture bitcoin el salvador By Shawn Knight September 20, 2021, 11:01 The big picture: El Salvador is seemingly doing everything right as it relates to its adoption of Bitcoin as an official national currency, but the feelings from the community haven't been reciprocal as of yet. Will its latest stunt pay off? Just one day into the experiment, which officially started on September 8, Bitcoin fell from more than $53,000 to around $46,500 according to Coindesk. Value recovered a bit over the past week and a half, but slid again over the weekend.
+
+
+***
+![Wanderer Delayed, New Gameplay Video Debuts](https://mk0uploadvrcom4bcwhj.kinstacdn.com/wp-content/uploads/2021/04/Wanderer-Featured-Image-325x183.jpg "Wanderer Delayed, New Gameplay Video Debuts")
+
+
+[Wanderer Delayed, New Gameplay Video Debuts](https://uploadvr.com/wanderer-delayed/)
+
+
+> Promising VR puzzler Wanderer has been delayed, but there's some new gameplay to watch.
+
+
