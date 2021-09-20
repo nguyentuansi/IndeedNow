@@ -415,3 +415,43 @@
 > It's been a long time coming, but the new Toyota Tundra is finally here. Toyota Whether you're shopping for a new car, SUV or pickup, today's vehicles are far greater than the sum of their spec sheets. Even so, it's always useful to compare the numbers to see how candidates for your hard-earned dollars stack up. That's particularly true when it comes to full-size pickups, because capability is everything. Toyota has unveiled its all-new 2022 Tundra light-duty pickup, and it's a force to be reckoned with.
 
 
+***
+![Surface Duo 2 FCC listing promises a major upgrade over its predecessor](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/08/microsoft-surface-duo-7632.jpeg "Surface Duo 2 FCC listing promises a major upgrade over its predecessor")
+
+
+[Surface Duo 2 FCC listing promises a major upgrade over its predecessor](https://www.androidcentral.com/surface-duo-2-fcc-listing-promises-major-upgrade-over-its-predecessor)
+
+
+> Source: Andrew Myrick / Android Central Microsoft's upcoming Surface Duo 2 has been spotted in an FCC filing. The listing indicates the upcoming Android device will support 5G, NFC, Wi-Fi 6, and a type of wireless charging probably for a Surface Pen. Microsoft is expected to unveil its Galaxy Z Fold 3 challenger on September 22. Microsoft is planning an event on September 22 to unveil the upcoming Surface Duo 2 and other Surface devices. Ahead of the unveiling, the dual-screen device has made a pit stop at the Federal Communications Commission, with a slew of information pointing to a promising upgrade over its predecessor.
+
+
+***
+![Emmys nominees 2021: The full list of award categories](https://www.cnet.com/a/img/5YjXdKqUn6OAGa7_N3B-MhuicYQ=/0x7:1300x737/1200x630/2020/11/16/8e4f6520-4903-4d48-ab96-30e8f09d6dd5/diana-charles-the-crown-engagement.png "Emmys nominees 2021: The full list of award categories")
+
+
+[Emmys nominees 2021: The full list of award categories](https://www.cnet.com/news/emmys-nominees-2021-the-full-list-of-award-categories/)
+
+
+> Josh O'Connor and Emma Corrin are both nominated in acting categories for The Crown. Netflix Will it be another big year for The Crown? Will Ted Lasso sweep the comedy awards? What's The Handmaid's Tale up to these days? The 93rd Primetime Emmy Awards saw these stellar shows enter the ring and, unfortunately, only two of those came away with major wins.The show was held in Microsoft Theatre in Los Angeles on Sunday, Sept. 19, and saw The Queen's Gambit, The Crown, Ted Lasso, Jason Sudeikis, Kate Winslet and Mare of Easttown go home with gold statues.
+
+
+***
+![Data Science in Python](https://external-preview.redd.it/SIRBfA4PuokEu5Gus31au4INhhCEsDQRoRsH1cnC0wU.jpg?auto=webp&s=f5d6d81dc4130fd2140edd4de6f7475e888baea6 "Data Science in Python")
+
+
+[Data Science in Python](https://www.reddit.com/r/programming/comments/prmxzr/data_science_in_python/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![iPhone 13 battery specifications revealed, 13 Pro Max has the biggest battery of all](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/iphone_13_1_0-original.png "iPhone 13 battery specifications revealed, 13 Pro Max has the biggest battery of all")
+
+
+[iPhone 13 battery specifications revealed, 13 Pro Max has the biggest battery of all](https://www.indiatoday.in/technology/news/story/iphone-13-battery-specifications-revealed-13-pro-max-has-the-biggest-battery-of-all-1854688-2021-09-20)
+
+
+> Story highlights Apple has revealed the battery capacity of each iPhone 13 model. The iPhone 13 Pro Max has the biggest battery in the series. The iPhone 13 Pro has a smaller battery than the iPhone 13. Apple loves to talk about its new iPhones at its September event each year. It throws in superlatives that sound convincing and interesting at the same time. However, while doing all of that, Apple does not talk about the specifics of some features. For instance, the battery capacity of each iPhone model.
+
+
