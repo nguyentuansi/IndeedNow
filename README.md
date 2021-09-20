@@ -787,3 +787,53 @@
 > Digital Trends may earn a commission when you buy through links on our site. If you've always wanted to take advantage of tablet deals, but you'd like an alternative to iPad deals, then you should be looking at Android tablet deals, with Samsung Galaxy Tab deals highly recommended. Samsung's tablets look great and provide powerful performance, and that holds true for the Samsung Galaxy Tab S7. Best Buy is selling the 128GB version of the device for just $530, after a $120 discount to its original price of $650.
 
 
+***
+![Keep your Oculus Quest controllers going strong with these batteries](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/oculus-quest-2-rechargeable-batteries.jpg "Keep your Oculus Quest controllers going strong with these batteries")
+
+
+[Keep your Oculus Quest controllers going strong with these batteries](https://www.androidcentral.com/best-replacement-batteries-oculus-quest-controllers)
+
+
+> Best Oculus Quest & Quest 2 controller batteries Android Central 2021 The Touch Controllers for the Oculus Quest 2 ship with one disposable AA battery each, but once those run out of juice, you should invest in the best Oculus Quest 2 replacement batteries to fill in for them. While the Touch Controllers last much longer than the headset's limited battery, it's still wise to invest in some rechargeable batteries or a stack of disposable batteries to stop your VR sessions from getting disrupted. Here are the batteries and chargers we recommend for your Oculus Touch controllers.
+
+
+***
+![Undaunted Sequel Releasing Next Year](https://techraptor.net/sites/default/files/styles/image_header/public/2021-09/Undaunted%20Board%20Game%20Featured%20Image.jpg?itok=7FfV4KoF "Undaunted Sequel Releasing Next Year")
+
+
+[Undaunted Sequel Releasing Next Year](https://techraptor.net/tabletop/news/undaunted-sequel-releasing-next-year)
+
+
+> The world of tabletop gaming was given something new to look forward to confirmation of a follow-up to the WW2 deck-building game Undaunted. The news came from an interview with Wargamer. Undaunted's lead developers, Trevor Benjamin and David Thompson, talked with the outlet about their deck-building game as well as the sequel expansions that have come out since. Undaunted combines creating a deck made up of resources and weapons, map tiles, and soldier miniatures to win decisive battles based on World War 2.
+
+
+***
+![iOS 15 iCloud Private Relay leaks your IP address](https://external-preview.redd.it/gN5xGDh0SUiCrVpQVT44UAJyUGz0omtdioBLx_-XIK4.jpg?auto=webp&s=59f682288ccd87e8b2e7c090b9eaa7ee49b270ac "iOS 15 iCloud Private Relay leaks your IP address")
+
+
+[iOS 15 iCloud Private Relay leaks your IP address](https://www.reddit.com/r/programming/comments/ps2els/ios_15_icloud_private_relay_leaks_your_ip_address/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Introducing ClickHouse, Inc.](https://external-preview.redd.it/FgP722LBE6op0jTQpyxI_1_zF3fRK7PWA5lFOedR838.jpg?auto=webp&s=31832e03a0e5ef3d6213f3cdd2aaf1695670b009 "Introducing ClickHouse, Inc.")
+
+
+[Introducing ClickHouse, Inc.](https://www.reddit.com/r/programming/comments/ps28wl/introducing_clickhouse_inc/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+!['A calorie is a calorie' violates the second law of thermodynamics (2004)](https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-logo-share.png?_=0 "'A calorie is a calorie' violates the second law of thermodynamics (2004)")
+
+
+['A calorie is a calorie' violates the second law of thermodynamics (2004)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC506782/)
+
+
+> 1Department of Biochemistry, State University of New York Downstate Medical Center, Brooklyn, NY 11203 USAFind articles by Richard D Feinman1Department of Biochemistry, State University of New York Downstate Medical Center, Brooklyn, NY 11203 USA2Department of Nuclear Medicine, Jacobi Medical Center, Bronx, NY 10461 USAFind articles by Eugene J FineReceived 2004 Apr 21; Accepted 2004 Jul 28.Copyright © 2004 Feinman and Fine; licensee BioMed Central Ltd.This is an open-access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.
+
+
