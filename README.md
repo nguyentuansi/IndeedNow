@@ -740,3 +740,50 @@
 > Promising VR puzzler Wanderer has been delayed, but there's some new gameplay to watch.
 
 
+***
+![The best iPad Mini 6 (2021) cases](https://icdn.digitaltrends.com/image/digitaltrends/ipad-mini-6-case-1.jpg "The best iPad Mini 6 (2021) cases")
+
+
+[The best iPad Mini 6 (2021) cases](https://www.digitaltrends.com/mobile/best-ipad-mini-6-2021-cases/)
+
+
+> Apple's latest iPad Mini 6 (2021) is a much-awaited update in almost every way, from the gorgeous new screen and touch controls to the slim design. However, those differences also mean that older Mini cases won't work with the Mini 6: You'll have to get a new case if you want to add more protection. Fortunately, we've gone through the available cases and found the best options for your new iPad Mini — let's take a look! Apple Smart Folio Apple's own folios are always a great place to start with iPad products, as they're specifically designed to be durable companions that work flawlessly with the iPad Mini's magnet arrays.
+
+
+***
+[How to Get Better Results on YouTube](https://filmdaily.co/tech/youtube-results/)
+
+
+> If you want to build up a following as an influencer, then you need your YouTube videos to get great results. Top the charts with these tips. The post How to Get Better Results on YouTube appeared first on Film Daily.
+
+
+***
+![Don't carry around your new MacBook Air bare! Get a case!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/11/macbook-air-2018-sleeve.jpg "Don't carry around your new MacBook Air bare! Get a case!")
+
+
+[Don't carry around your new MacBook Air bare! Get a case!](https://www.imore.com/best-macbook-air-cases)
+
+
+> Best MacBook Air cases iMore 2021 The best MacBook Air cases will not only keep your MacBook Air safe from scratches or scuffs on that beautiful finish but also allows you to add your personal flair to your Mac laptop. Unlike the best MacBook Air sleeves, you can keep your case on when you're working, so you're never without protection. Here are the best MacBook Air cases you can find. Staff pick Minimalist in design, this clear polycarbonate case covers the top and bottom of your MacBook Air, preventing scratches and minor scuffs from damaging your laptop.
+
+
+***
+![Don't be the only one with a potato webcam for those video conference calls](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/logitech-c920x-webcam-lifestyle.jpg "Don't be the only one with a potato webcam for those video conference calls")
+
+
+[Don't be the only one with a potato webcam for those video conference calls](https://www.androidcentral.com/great-webcams-you-can-actually-buy-amazon-right-now)
+
+
+> If you're doing a lot of video calls and meetings, you probably want to invest in a webcam. While they aren't as difficult to find in stores now as they were a year ago, they are still in pretty high demand with so many people working from home at least some of the time. Slowly but surely, webcams are coming back in stock. But you don't want to settle on buying anything you can find - you need it to work well. So, we have rounded up the best webcams available on Amazon right now. Staff Pick In the webcam world, Logitech is one of the most trusted brands, and while this webcam will cost almost twice as much as some of the others, it's worth the price.
+
+
+***
+![Save $120 on the Samsung Galaxy Tab S7 at Best Buy today](https://icdn.digitaltrends.com/image/digitaltrends/samsung-galaxy-tab-s7-black-2.jpg "Save $120 on the Samsung Galaxy Tab S7 at Best Buy today")
+
+
+[Save $120 on the Samsung Galaxy Tab S7 at Best Buy today](https://www.digitaltrends.com/dtdeals/samsung-galaxy-tab-s7-deal-best-buy-september-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you've always wanted to take advantage of tablet deals, but you'd like an alternative to iPad deals, then you should be looking at Android tablet deals, with Samsung Galaxy Tab deals highly recommended. Samsung's tablets look great and provide powerful performance, and that holds true for the Samsung Galaxy Tab S7. Best Buy is selling the 128GB version of the device for just $530, after a $120 discount to its original price of $650.
+
+
