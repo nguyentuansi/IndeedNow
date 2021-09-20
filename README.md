@@ -590,3 +590,53 @@
 > September 20, 2021 05:47 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Global Women's Digital Health Market Size, Share & Trends Analysis Report by Type, by Application (Reproductive Health, Pregnancy & Nursing Care, Pelvic Care, General Healthcare & Wellness), by Region, and Segment Forecasts, 2021-2028" report has been added to ResearchAndMarkets.com's offering. The global women's digital health market size is expected to reach USD 6.5 billion by 2028 and is expected to expand at a CAGR of 19.
 
 
+***
+![Flippa raises $11M to match online asset and business buyers, sellers – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/blake_mark04.jpg?w=600 "Flippa raises $11M to match online asset and business buyers, sellers – TechCrunch")
+
+
+[Flippa raises $11M to match online asset and business buyers, sellers – TechCrunch](https://techcrunch.com/2021/09/20/flippa-raises-11m-to-match-online-asset-and-business-buyers-sellers/)
+
+
+> Flippa, an online marketplace to buy and sell online businesses and digital assets, announced its first venture-backed round, an $11 million Series A, as it sees over 600,000 monthly searches from investors looking to connect with business owners.OneVentures led the round and was joined by existing investors Andrew Walsh (former Hitwise CEO), Flippa co-founders Mark Harbottle and Matt Mickiewicz, 99designs, as well as new investors Catch.com.au founders Gabby and Hezi Leibovich; RetailMeNot.com founders Guy King and Bevan Clarke; and Reactive Media founders Tim O'Neill and Tim Fouhy.
+
+
+***
+![OnePlus-Oppo integration: OnePlus 10 to launch with new OS, old OnePlus phones will be updated to it in 2022](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202109/oneplus9pro-it-647x363.jpeg?KdhbX8xV1nN76vnMmsLB.Yw8qJEmqGN4 "OnePlus-Oppo integration: OnePlus 10 to launch with new OS, old OnePlus phones will be updated to it in 2022")
+
+
+[OnePlus-Oppo integration: OnePlus 10 to launch with new OS, old OnePlus phones will be updated to it in 2022](https://www.indiatoday.in/technology/features/story/oneplus-oppo-integration-oneplus-10-to-launch-with-new-os-old-oneplus-phones-will-be-updated-to-it-in-2022-1854912-2021-09-20)
+
+
+> OnePlus 10, the next flagship smartphone from OnePlus, will be special in more ways than ever. The new flagship device will be the first product announced after the OnePlus and Oppo merger. And, it will also be the first smartphone to run an all-new unified and upgraded global operating system. This year has been very eventful for OnePlus, with a growing number of product launches to changes within the smartphone business with the Oppo merger announced in July. CEO Pete Lau has now revealed the future roadmap for OnePlus and has addressed several questions, including details about his role in Oppo and OnePlus.
+
+
+***
+![OnePlus, even joined with OPPO, will struggle to compete with Samsung](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/oneplus-9r-40.jpg "OnePlus, even joined with OPPO, will struggle to compete with Samsung")
+
+
+[OnePlus, even joined with OPPO, will struggle to compete with Samsung](https://www.androidcentral.com/oneplus-samsung-budget-new-strategy)
+
+
+> Source: Apoorva Bhardwaj / Android Central OPPO's now sub-brand OnePlus could try to take on Samsung's budget phone market after its integration, but experts say becoming a viable competitor to Samsung is a "stretch." They add the hope is now maybe the partnership will help OnePlus scale up marketing dollars and manufacturing scale, which Samsung has excelled in. In a briefing with reporters, OnePlus CEO Pete Lau detailed further what the integration between the company and OPPO would look like. He said that OnePlus' next flagship phone, slated for early 2022 and likely called the OnePlus 10, will have a newly integrated OS between OnePlus' OxygenOS and OPPO's ColorOS, and that throughout 2022 OnePlus will update a subset of its existing phones to that new, as-yet-unnamed software.
+
+
+***
+![Every character in Apex Legends Mobile](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/apex-legends-mobile-characters.jpg "Every character in Apex Legends Mobile")
+
+
+[Every character in Apex Legends Mobile](https://www.androidcentral.com/apex-legends-mobile-every-character)
+
+
+> Source: Electronic Arts Apex Legends Mobile is an upcoming mobile version of Electronic Arts and Respawn Entertainment's hugely successful free-to-play shooter, Apex Legends. The game is still a ways off, but pre-registration is open, and we have a good idea of what to expect, including some of the characters that'll be available in Apex Legends Mobile. If handled well, it could end up being one of the best Android games available. We don't technically have an exact list of the characters available.
+
+
+***
+![OnePlus and OPPO are creating a unified OS: Eight key questions answered](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/oneplus-9-vs-oneplus-9-pro-31.jpg "OnePlus and OPPO are creating a unified OS: Eight key questions answered")
+
+
+[OnePlus and OPPO are creating a unified OS: Eight key questions answered](https://www.androidcentral.com/oneplus-oppo-unified-os)
+
+
+> Source: Apoorva Bhardwaj / Android Central OnePlus has seen upward momentum over the last 18 months; the introduction of the Nord series catalyzed sales in key markets, the OnePlus 9 series continues to be among the best Android phones, and the Chinese manufacturer is making inroads into the North American budget market with the Nord N series. For the last seven years, OnePlus' differentiator has been the software. Its phones use similar hardware to Chinese rivals Xiaomi, Vivo, Huawei, and others, so OnePlus turned to OxygenOS to create a software experience that's one of the best on Android.
+
+
