@@ -640,3 +640,53 @@
 > Source: Apoorva Bhardwaj / Android Central OnePlus has seen upward momentum over the last 18 months; the introduction of the Nord series catalyzed sales in key markets, the OnePlus 9 series continues to be among the best Android phones, and the Chinese manufacturer is making inroads into the North American budget market with the Nord N series. For the last seven years, OnePlus' differentiator has been the software. Its phones use similar hardware to Chinese rivals Xiaomi, Vivo, Huawei, and others, so OnePlus turned to OxygenOS to create a software experience that's one of the best on Android.
 
 
+***
+![WilsonHCG Recognized as a 'Leader' in Contingent Workforce Solutions and MSP by NelsonHall](https://mms.businesswire.com/media/20210920005006/en/761762/23/WHCG_Logo.jpg "WilsonHCG Recognized as a 'Leader' in Contingent Workforce Solutions and MSP by NelsonHall")
+
+
+[WilsonHCG Recognized as a 'Leader' in Contingent Workforce Solutions and MSP by NelsonHall](https://www.businesswire.com/news/home/20210920005006/en/WilsonHCG-Recognized-as-a-%E2%80%9CLeader%E2%80%9D-in-Contingent-Workforce-Solutions-and-MSP-by-NelsonHall)
+
+
+> TAMPA, Fla.--(BUSINESS WIRE)--WilsonHCG has been identified as a 'Leader' in NelsonHall's 2021 NEAT Vendor Evaluation and Assessment Tool for Managed Service Program (MSP) and Contingent Workforce Services (CWS) providers. 'Being ranked as a Leader for our contingent workforce services is a testament to listening to our clients' needs and differentiating by providing a high-touch experience that's often overlooked in this space. The team is committed to exceptional service and it shows,' said John Wilson, CEO, WilsonHCG.
+
+
+***
+![Wellthy Announces a Strategic Investment and Partnership With Workday Ventures](http://www.businesswire.com/images/bwlogo_square.png "Wellthy Announces a Strategic Investment and Partnership With Workday Ventures")
+
+
+[Wellthy Announces a Strategic Investment and Partnership With Workday Ventures](https://www.businesswire.com/news/home/20210920005115/en/Wellthy-Announces-a-Strategic-Investment-and-Partnership-With-Workday-Ventures)
+
+
+> September 20, 2021 10:00 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Wellthy, a digital care concierge platform for employees and their families, today announced that it has received a strategic investment from Workday Ventures and joined the Workday Software Partner Program. As a Workday Software Partner, Wellthy plans to build a product integration for shared customers to leverage, which will differentiate their benefit offerings with caregiving support for their employees. Wellthy matches families with a dedicated Care Coordinator who manages their care plan, advocates for loved ones, and tackles tasks across medical, in-home, financial, legal, housing, and social and emotional needs.
+
+
+***
+![Wolters Kluwer ELM Solutions Experts Discuss Legal Spend Volatility in New Podcast](https://mms.businesswire.com/media/20210920005117/en/516811/23/WK_H_01_Pos_RGB_0072_Color.jpg "Wolters Kluwer ELM Solutions Experts Discuss Legal Spend Volatility in New Podcast")
+
+
+[Wolters Kluwer ELM Solutions Experts Discuss Legal Spend Volatility in New Podcast](https://www.businesswire.com/news/home/20210920005117/en/Wolters-Kluwer-ELM-Solutions-Experts-Discuss-Legal-Spend-Volatility-in-New-Podcast)
+
+
+> September 20, 2021 10:00 AM Eastern Daylight Time HOUSTON--(BUSINESS WIRE)--Detailed analysis from Wolters Kluwer ELM Solutions' most recent LegalVIEW Insights report unveiled wild swings in legal spend for many of its clients during the last five years. However, basic best practices can help these businesses plan accordingly, including avoiding significant overspending on legal services in a continued volatile climate. Listeners can now learn about these valuable insights and hear additional advice for corporate legal departments (CLDs) in ELM Solutions' newly launched podcast series, Legal Leaders Exchange.
+
+
+***
+![Birdzi's Latest VISPER Results Reveal Retailers Blazing a Path to the Future of Strategic, Hyper-Personalized Marketing](https://mms.businesswire.com/media/20210920005136/en/1185809/23/Bridzi_logo-Large.jpg "Birdzi's Latest VISPER Results Reveal Retailers Blazing a Path to the Future of Strategic, Hyper-Personalized Marketing")
+
+
+[Birdzi's Latest VISPER Results Reveal Retailers Blazing a Path to the Future of Strategic, Hyper-Personalized Marketing](https://www.businesswire.com/news/home/20210920005136/en/Birdzi%E2%80%99s-Latest-VISPER-Results-Reveal-Retailers-Blazing-a-Path-to-the-Future-of-Strategic-Hyper-Personalized-Marketing)
+
+
+> ISELIN, N.J.--(BUSINESS WIRE)--Birdzi, the supermarket industry's most comprehensive customer intelligence and engagement ecosystem, today announced the most recent results from its clients' VISPER personalization campaigns. Part of Birdzi's customer intelligence platform, VISPER leverages a retailer's entire product catalog and customer insights to create specific offers, discounts and communication tailored to each shopper. Since its launch in October of last year, VISPER has benefited major retailers like Weis Markets, Coborn's and County Market, proving to be a more effective alternative to the weekly ad circular.
+
+
+***
+![Signature Bank Named Number One in Three Categories of New York Law Journal's 12th Annual 'Best of' Survey](https://mms.businesswire.com/media/20210920005137/en/692224/23/Signature_Bank_874x295_PRIMARY_CURRENT_USE_11-18_LATEST.jpg "Signature Bank Named Number One in Three Categories of New York Law Journal's 12th Annual 'Best of' Survey")
+
+
+[Signature Bank Named Number One in Three Categories of New York Law Journal's 12th Annual 'Best of' Survey](https://www.businesswire.com/news/home/20210920005137/en/Signature-Bank-Named-Number-One-in-Three-Categories-of-New-York-Law-Journal%E2%80%99s-12th-Annual-%E2%80%9CBest-of%E2%80%9D-Survey)
+
+
+> NEW YORK--(BUSINESS WIRE)--Signature Bank (Nasdaq: SBNY), a New York-based full-service commercial bank, announced today it ranked #1 in three categories of the New York Law Journal's 'Best of' 12th annual survey of the New York legal community. The categories include Business Bank, Private Bank and Business Escrow Services. The 2021 New York Law Journal ranking marks the 12th consecutive year in which Signature Bank earned a top three position in one or more of these same categories. The rankings, which are revealed in the September 20th, 2021 edition of the New York-area's leading legal trade publication, reflect the opinions of thousands of attorneys and other legal professionals who were eligible to cast votes in 75+ legal-related categories.
+
+
