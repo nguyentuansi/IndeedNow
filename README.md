@@ -368,3 +368,50 @@
 > Coupang founder Kim Bom-suk, right, and SoftBank CEO Masayoshi Son / Courtesy of CoupangSoftBank Group's Vision Fund sold 57 million shares in Korean e-retailer Coupang Inc for about $1.69 billion, according to a U.S. regulatory filing.Vision Fund sold 57 million Coupang shares at $29.685 each, and holds 568.2 million shares of the e-commerce firm following the sale, the filing showed https://bit.ly/3ClGkxi.Coupang declined to comment.In August, Vision Fund posted a first-quarter profit of 236 billion yen ($2.
 
 
+***
+[Python professional subscriptions!](https://www.reddit.com/r/Python/comments/prlk2e/python_professional_subscriptions/)
+
+
+> You want 2 month subscription of Python for 10$ usd?I have limited quantity so write fast if you wan yours!
+
+
+***
+![#TECH: Skymind introduces intelligent Covid-19 testing solution](https://assets.nst.com.my/images/articles/botsskytest_NSTfield_image_socialmedia.var_1632103231.jpg "#TECH: Skymind introduces intelligent Covid-19 testing solution")
+
+
+[#TECH: Skymind introduces intelligent Covid-19 testing solution](https://www.nst.com.my/lifestyle/bots/2021/09/728860/tech-skymind-introduces-intelligent-covid-19-testing-solution)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![U.S. opens probe into 30 million vehicles over air bag inflators](https://external-preview.redd.it/zIqUZnEJ30MtqSuN41vNbRZh05u72SJaV2hun677Tbs.jpg?auto=webp&s=b21879ee8981bb64d91efd5d990e98792c2422be "U.S. opens probe into 30 million vehicles over air bag inflators")
+
+
+[U.S. opens probe into 30 million vehicles over air bag inflators](https://www.reddit.com/r/technology/comments/prlc1w/us_opens_probe_into_30_million_vehicles_over_air/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Former Vocus Chair charged with insider trading](https://itwire.com/media/k2/items/cache/4ff3bdce3208ec9653860c5f01d6e534_XS.jpg "Former Vocus Chair charged with insider trading")
+
+
+[Former Vocus Chair charged with insider trading](https://itwire.com/telecoms-and-nbn/former-vocus-chair-charged-with-insider-trading.html)
+
+
+> Vaughan Bowen ASIC has levelled two counts of insider trading charges against Vaughan Garfield Bowen, of Brighton, Victoria. Bowen appeared yesterday via legal representatives in the Melbourne Magistrates Court. ASIC in their statement said, "The charges relate to Mr Bowen's disposal of 5,617,554 shares in Vocus Group Limited (Vocus) on 4 June 2019. "ASIC alleges that at that time, Mr Bowen was in possession of inside information concerning the likely withdrawal of a proposal by EQT Infrastructure IV Fund to acquire all shares in Vocus, prior to this information being announced to the market.
+
+
+***
+![2022 Toyota Tundra versus Chevy Silverado, Ford F-150 and Ram 1500](https://www.cnet.com/a/img/xAWHLbKq6UL0YC0Gvab42YjZyCc=/1200x630/2021/09/16/dd5f922f-4541-4e51-a085-45cb94170408/2022-toyota-tundra-limited-0010-ogi.jpg "2022 Toyota Tundra versus Chevy Silverado, Ford F-150 and Ram 1500")
+
+
+[2022 Toyota Tundra versus Chevy Silverado, Ford F-150 and Ram 1500](https://www.cnet.com/roadshow/news/2022-toyota-tundra-vs-chevy-silverado-ford-f-150-ram-1500-spec-comparison/)
+
+
+> It's been a long time coming, but the new Toyota Tundra is finally here. Toyota Whether you're shopping for a new car, SUV or pickup, today's vehicles are far greater than the sum of their spec sheets. Even so, it's always useful to compare the numbers to see how candidates for your hard-earned dollars stack up. That's particularly true when it comes to full-size pickups, because capability is everything. Toyota has unveiled its all-new 2022 Tundra light-duty pickup, and it's a force to be reckoned with.
+
+
