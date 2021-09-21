@@ -964,3 +964,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![SoftBank leads $680 million funding round in NFT fantasy soccer game Sorare](https://www.reuters.com/resizer/bWb9KIkwWL6jbKiOpMdduEuWUmQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WORYLB3KYNK3PONBJGGQ37BPLQ.jpg "SoftBank leads $680 million funding round in NFT fantasy soccer game Sorare")
+
+
+[SoftBank leads $680 million funding round in NFT fantasy soccer game Sorare](https://www.reuters.com/technology/softbank-leads-680-million-funding-round-nft-fantasy-soccer-game-sorare-2021-09-21/)
+
+
+> SoftBank Corp's logo is pictured at a news conference in Tokyo, Japan, February 4, 2021. REUTERS/Kim Kyung-Hoon/File PhotoLONDON, Sept 21 (Reuters) - Blockchain-based fantasy soccer game Sorare has raised $680 million in a funding round led by SoftBank (9984.T), with players including ex-England international Rio Ferdinand and Spain's Gerard Pique also investing, the company said on Tuesday.Paris-based Sorare said the investment valued the company at $4.3 billion.Founded in 2018, Sorare is an online game where players buy officially licensed cards representing soccer players and build teams which play against each other, with the outcome based on the players' performance in real-life games.
+
+
+***
+![What technology can I you to quickly create an .exe file like this?](https://external-preview.redd.it/GTywEGRF4aku6lopcaBfkg64-mVJkVPTBsrhw_rfwTg.jpg?auto=webp&s=19aac44d35bf0e57e733767597322695feafbf76 "What technology can I you to quickly create an .exe file like this?")
+
+
+[What technology can I you to quickly create an .exe file like this?](https://www.reddit.com/r/programming/comments/psb0vx/what_technology_can_i_you_to_quickly_create_an/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Kena: Bridge of Spirits Pixar-like charm is lost behind a ton of performance issues](https://cdn.mos.cms.futurecdn.net/ShYfYBaptMqAoLJDYwxRb7-1200-80.jpg "Kena: Bridge of Spirits Pixar-like charm is lost behind a ton of performance issues")
+
+
+[Kena: Bridge of Spirits Pixar-like charm is lost behind a ton of performance issues](https://www.techradar.com/news/kena-bridge-of-spirits-pixar-like-charm-is-lost-behind-a-ton-of-performance-issues)
+
+
+> I wasn't sure what to expect from Kena: Bridge of Spirits. Developer Ember Lab's adorable adventure caused quite a stir when it was revealed at the PlayStation Future of Gaming showcase in 2020 Following a delay, it felt like Kena retreated into the shadows a bit - leaving some anxiety about whether it would still meet its new release date of September 21, and whether it would fall at the final hurdle many highly-anticipated releases have in the last couple of years.Developing a game in the current climate is a heavy cross to bear, particularly for a smaller studio like Ember.
+
+
+***
+![Kena: Bridge of Spirits is an excellent debut title for Ember Lab](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/kena-bridge-of-spirits-rot-in-water-1.jpeg "Kena: Bridge of Spirits is an excellent debut title for Ember Lab")
+
+
+[Kena: Bridge of Spirits is an excellent debut title for Ember Lab](https://www.androidcentral.com/kena-bridge-spirits-ps5-review)
+
+
+> Source: Android Central I previewed Kena: Bridge of Spirits shortly before E3 2021. At the time, I only had an hour or so with the game, but felt confident that it was shaping up to be something special. After spending some more time with the final build, I'm happy that my initial impressions appear to be right. I haven't wanted to put the controller down since I started. Kena's characters and world hold such a charm that it's hard not to love them, and the gameplay continues to evolve throughout so that progression feels natural and earned.
+
+
+***
+![Amazon to launch new Echo devices, new Alexa features and more on September 28](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/alexa_4_1200x768-original.jpeg "Amazon to launch new Echo devices, new Alexa features and more on September 28")
+
+
+[Amazon to launch new Echo devices, new Alexa features and more on September 28](https://www.indiatoday.in/technology/news/story/amazon-to-launch-new-echo-devices-new-alexa-features-and-more-on-september-28-1855102-2021-09-21)
+
+
+> Ankita Chakravarti New Delhi, Sep 21, 2021, Updated Sep 21, 2021, 9:21 AM IST Story highlights Amazon has officially announced the date of its next hardware event. Amazon has revealed that the hardware event will be held on September 28 at 9:30 pm IST. Amazon had launched new Echo Speakers, Fire TV stick, new Ring cameras and Eero routers and more in previous years launch event. It is that of the time year again when you can expect Amazon to launch a new set of Echo devices, Alexa features and other services.
+
+
